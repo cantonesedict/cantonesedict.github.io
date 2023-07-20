@@ -85,6 +85,9 @@ OrdinaryDictionaryReplacement: #.syntax.diacritics
 #
 # U+00F2 LATIN SMALL LETTER O WITH GRAVE
 *   (o\) --> ò
+#
+# U+00FC LATIN SMALL LETTER U WITH DIAERESIS
+*   (u") --> ü
 
 OrdinaryDictionaryReplacement: #.syntax.typography
 - queue_position: BEFORE #escape-idle-html
