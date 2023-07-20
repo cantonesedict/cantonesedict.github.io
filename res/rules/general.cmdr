@@ -1,4 +1,0 @@
-OrdinaryDictionaryReplacement: #.general.typography
-- queue_position: BEFORE #escape-idle-html
-# U+00A0 NO-BREAK SPACE (&nbsp;)
-*   ~ --> " "

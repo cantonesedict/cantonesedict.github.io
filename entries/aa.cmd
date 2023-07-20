@@ -1,5 +1,4 @@
-< /res/rules/general.cmdr
-< /res/rules/romanisation.cmdr
+< /res/rules/syntax.cmdr
 
 %%%
 
