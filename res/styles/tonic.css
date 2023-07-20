@@ -2,12 +2,14 @@
   --body-padding-horizontal: 1.3rem;
   --header-nav-height: 3rem;
   --html-max-width: 44rem;
+  --modern-font: Arimo, sans-serif;
+  --olden-font: Palatino, Tinos, serif;
 }
 
 
 body {
   background: white;
-  font-family: sans-serif;
+  font-family: var(--modern-font);
   line-height: 1.4;
   margin: 0;
   overflow-wrap: break-word;
@@ -57,4 +59,17 @@ html {
   background: black;
   max-width: var(--html-max-width);
   margin: 0 auto;
+}
+
+ins {
+  text-decoration: none;
+}
+
+.modern {
+  color: darkviolet;
+  font-family: var(--modern-font);
+}
+
+.williams {
+  font-family: var(--olden-font);
 }

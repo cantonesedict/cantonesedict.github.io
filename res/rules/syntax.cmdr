@@ -1,3 +1,7 @@
+OrdinaryDictionaryReplacement: #.syntax.williams-class
+- queue_position: AFTER #comments
+* {w} --> {.williams}
+
 RegexDictionaryReplacement: #.syntax.square-bracket-wrap
 * \A --> [
 * \Z --> ]

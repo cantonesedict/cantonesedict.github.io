@@ -10,9 +10,9 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 %%%
 
-# (A/) [[\C aa; \J aa]]
+#{w} (A/) [[\C aa; \J aa]]
 
---
+--{w}
 Words in _a_ [[\C a; \J a]] or _(a/)_ [[\C aa; \J aa]],
 are often heard beginning with _ng_ [[\C ng; \J ng]],
 as _ng(a/)_ [[\C ngaa; \J ngaa]],
