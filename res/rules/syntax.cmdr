@@ -7,6 +7,31 @@ RegexDictionaryReplacement: #.syntax.character-headings
 * ^[#]{3} [ ] (?P<character>\S)(?P<tone_number>[1-6]?) $
     --> ###{#\g<character>\g<tone_number>} \g<character>
 
+PartitioningReplacement: #.syntax.entry-keys
+- starting_pattern: [;]
+- attribute_specifications: .modern
+- content_replacements: #trim-whitespace
+- ending_pattern: [;,]
+- tag_name: dt
+
+PartitioningReplacement: #.syntax.entry-values
+- starting_pattern: [,]
+- attribute_specifications: EMPTY
+- content_replacements: #trim-whitespace
+- ending_pattern: [;,]
+- tag_name: dd
+
+FixedDelimitersReplacement: #.syntax.entries
+- queue_position: BEFORE #divisions
+- syntax_type: BLOCK
+- opening_delimiter: $$
+- content_replacements:
+    #.syntax.entry-keys
+    #.syntax.entry-values
+    #prepend-newline
+- closing_delimiter: $$
+- tag_name: dl
+
 RegexDictionaryReplacement: #.syntax.square-bracket-wrap
 * \A --> [
 * \Z --> ]
