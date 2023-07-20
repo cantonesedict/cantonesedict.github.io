@@ -29,7 +29,7 @@ _ngat_ [[\J ngat; \C ngat]].
 
 $$
 A
-  , [[]]
+  , [[$呀1; $啊]]
 R
   , _(1)(a/)_ [[\J aa1; \C aa1]]
 RV
@@ -48,7 +48,10 @@ W
     - _(2)k(o\)m ts(o\)(6) (a/)_ [[?]], no, this is the way to do it.
     ==
 C
-  , [[]]
+  ,{.modern}
+    ==
+    - [Jyutping suggests .吖 as the canonical character for aa1.][jpp]
+    ==
 $$
 
 ### 呀1 (U+5440)
