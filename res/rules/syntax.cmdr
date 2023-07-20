@@ -4,9 +4,11 @@ OrdinaryDictionaryReplacement: #.syntax.williams-class
 
 RegexDictionaryReplacement: #.syntax.character-headings
 - queue_position: BEFORE #headings
-* ^[#]{3} [ ] (?P<character>\S)(?P<tone_number>[1-6]?) $
+* ^[#]{3}
+    [ ] (?P<character> \S )(?P<tone_number> [1-6]? )
+    [ ] (?P<code_point_parenthetical> \( U[+][0-9A-F]+ \) )
     -->
-  ###{#\g<character>\g<tone_number>} .\g<character>
+  ###{#\g<character>\g<tone_number>} .\g<character> \g<code_point_parenthetical>
 
 RegexDictionaryReplacement: #.syntax.entry-key-abbreviations
 * ^CV$ --> ; Character variations
