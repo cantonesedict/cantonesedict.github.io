@@ -1,3 +1,17 @@
+RegexDictionaryReplacement: #.syntax.square-bracket-wrap
+* \A --> [
+* \Z --> ]
+- concluding_replacements: #placeholder-protect
+
+FixedDelimitersReplacement: #.syntax.modern-insertion
+- queue_position: BEFORE #specified-links
+- syntax_type: INLINE
+- opening_delimiter: [[
+- attribute_specifications: .modern
+- content_replacements: #.syntax.square-bracket-wrap
+- closing_delimiter: ]]
+- tag_name: ins
+
 OrdinaryDictionaryReplacement: #.syntax.romanisation-schemes
 - queue_position: BEFORE #specified-links
 * '\C ' --> [Conway](https://yawnoc.github.io/cantonese/conway-romanisation):~
