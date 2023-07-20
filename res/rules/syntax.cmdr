@@ -2,6 +2,11 @@ OrdinaryDictionaryReplacement: #.syntax.williams-class
 - queue_position: AFTER #comments
 * {w} --> {.williams}
 
+RegexDictionaryReplacement: #.syntax.character-headings
+- queue_position: BEFORE #headings
+* ^[#]{3} [ ] (?P<character>\S)(?P<tone_number>[1-6]?) $
+    --> ###{#\g<character>\g<tone_number>} \g<character>
+
 RegexDictionaryReplacement: #.syntax.square-bracket-wrap
 * \A --> [
 * \Z --> ]
