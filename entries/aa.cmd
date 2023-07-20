@@ -1,3 +1,5 @@
+< /res/rules/romanisation.cmdr
+
 %%%
 
 # (A/) [[\C aa; \J aa]]
