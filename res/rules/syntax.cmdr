@@ -43,7 +43,7 @@ PartitioningReplacement: #.syntax.entry-keys
 
 PartitioningReplacement: #.syntax.entry-values
 - starting_pattern: [,]
-- attribute_specifications: EMPTY
+- attribute_specifications: .williams
 - content_replacements: #trim-whitespace
 - ending_pattern: [;,]
 - tag_name: dd

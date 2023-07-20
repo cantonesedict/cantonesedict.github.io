@@ -33,9 +33,9 @@ R
 RV
   , [[]]
 W
-  ,{w}
+  ,
     A colloquial word.
-    =={w}
+    ==
     - An interrogative particle ;
     - also one indicating that the affirmation is indisputable ;
     - a mere final answering tone, having no meaning ;
