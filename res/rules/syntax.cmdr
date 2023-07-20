@@ -10,6 +10,16 @@ RegexDictionaryReplacement: #.syntax.character-headings
     -->
   ###{#\g<character>\g<tone_number>} .\g<character> \g<code_point_parenthetical>
 
+RegexDictionaryReplacement: #heading-permalinks
+- queue_position: BEFORE #headings
+* (?P<opening_hashes_etc>
+    [#]{2,6}
+    \{ [#] (?P<id_> [\S]+ ) \}
+    [\s]+
+  )
+    -->
+  \g<opening_hashes_etc> []{.permalink aria-label=Permalink}(#\g<id_>)
+
 RegexDictionaryReplacement: #.syntax.entry-key-abbreviations
 * ^CV$ --> ; Character variations
 * ^R$ --> ; Reading

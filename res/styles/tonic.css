@@ -74,6 +74,14 @@ dt {
   font-family: var(--modern-font);
 }
 
+.permalink {
+  background-image: url(/res/styles/permalink.svg);
+  background-position: center left;
+  background-repeat: no-repeat;
+  background-size: 1em;
+  padding-left: 1.5em;
+}
+
 .williams {
   font-family: var(--olden-font);
 }
