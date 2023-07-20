@@ -65,6 +65,10 @@ ins {
   text-decoration: none;
 }
 
+dt {
+  font-weight: bold;
+}
+
 .modern {
   color: darkviolet;
   font-family: var(--modern-font);
