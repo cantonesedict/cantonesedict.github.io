@@ -10,18 +10,18 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 %%%
 
-#{w} (A/) [[\C aa; \J aa]]
+#{w} (A/) [[\J aa; \C aa]]
 
 --{w}
-Words in _a_ [[\C a; \J a]] or _(a/)_ [[\C aa; \J aa]],
-are often heard beginning with _ng_ [[\C ng; \J ng]],
-as _ng(a/)_ [[\C ngaa; \J ngaa]],
-_ngai_ [[\C ngai; \J ngai]],
-_ngat_ [[\C ngat; \J ngat]].
+Words in _a_ [[\J a; \C a]] or _(a/)_ [[\J aa; \C aa]],
+are often heard beginning with _ng_ [[\J ng; \C ng]],
+as _ng(a/)_ [[\J ngaa; \C ngaa]],
+_ngai_ [[\J ngai; \C ngai]],
+_ngat_ [[\J ngat; \C ngat]].
 --
 
 
-##{#1} [[\C aa1; \J aa1]]
+##{#1} [[\J aa1; \C aa1]]
 
 ### 丫
 
@@ -29,7 +29,7 @@ $$
 CV
   , [[]]
 R
-  , [[\C aa1; \J aa1]]
+  , [[\J aa1; \C aa1]]
 RV
   , [[]]
 W
@@ -56,14 +56,14 @@ $$
 ### 鴉
 
 
-##{#2} [[\C aa2; \J aa2]]
+##{#2} [[\J aa2; \C aa2]]
 
 ### 啞
 
 ### 瘂
 
 
-##{#3} [[\C aa3; \J aa3]]
+##{#3} [[\J aa3; \C aa3]]
 
 ### 亞
 
