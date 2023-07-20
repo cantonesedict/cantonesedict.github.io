@@ -26,11 +26,11 @@ _ngat_ [[\C ngat; \J ngat]].
 ### 丫
 
 $$
-; Reading
+R
   , [[\C aa1; \J aa1]]
-; Reading variations
+RV
   , [[none]]
-; Williams entry
+W
   ,{w}
     A colloquial word.
     =={w}
@@ -43,7 +43,7 @@ $$
     - _mat(7) (5)y(e/) (1)(a/)_, what ?
     - _(2)k(o\)m ts(o\)(6) (a/)_, no, this is the way to do it.
     ==
-; Conway's commentary
+C
 $$
 
 ### 吖

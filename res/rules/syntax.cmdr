@@ -7,6 +7,13 @@ RegexDictionaryReplacement: #.syntax.character-headings
 * ^[#]{3} [ ] (?P<character>\S)(?P<tone_number>[1-6]?) $
     --> ###{#\g<character>\g<tone_number>} \g<character>
 
+RegexDictionaryReplacement: #.syntax.entry-key-abbreviations
+* ^CV$ --> ; Character variations
+* ^R$ --> ; Reading
+* ^RV$ --> ; Reading variations
+* ^W$ --> ; Williams entry
+* ^C$ --> ; Conway's commentary
+
 PartitioningReplacement: #.syntax.entry-keys
 - starting_pattern: [;]
 - attribute_specifications: .modern
@@ -26,6 +33,7 @@ FixedDelimitersReplacement: #.syntax.entries
 - syntax_type: BLOCK
 - opening_delimiter: $$
 - content_replacements:
+    #.syntax.entry-key-abbreviations
     #.syntax.entry-keys
     #.syntax.entry-values
     #prepend-newline
