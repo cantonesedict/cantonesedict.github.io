@@ -8,6 +8,9 @@ OrdinaryDictionaryReplacement: #.syntax.diacritics
 #
 # U+00C1 LATIN CAPITAL LETTER A WITH ACUTE
 *   (A/) --> Á
+#
+# U+00E1 LATIN SMALL LETTER A WITH ACUTE
+*   (a/) --> á
 
 OrdinaryDictionaryReplacement: #.syntax.typography
 - queue_position: BEFORE #escape-idle-html
