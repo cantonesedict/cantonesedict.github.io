@@ -14,12 +14,19 @@ RegexDictionaryReplacement: #.syntax.entry-key-abbreviations
 * ^W$ --> ; Williams entry
 * ^C$ --> ; Conway's commentary
 
+RegexDictionaryReplacement: #.syntax.mark-entry-keys-for-preceding-value
+* \A --> ;{}
+
+OrdinaryDictionaryReplacement: #.syntax.unmark-entry-keys-for-preceding-value
+* ;{} -->
+
 PartitioningReplacement: #.syntax.entry-keys
 - starting_pattern: [;]
 - attribute_specifications: .modern
 - content_replacements: #trim-whitespace
 - ending_pattern: [;,]
 - tag_name: dt
+- concluding_replacements: #.syntax.mark-entry-keys-for-preceding-value
 
 PartitioningReplacement: #.syntax.entry-values
 - starting_pattern: [,]
@@ -36,6 +43,7 @@ FixedDelimitersReplacement: #.syntax.entries
     #.syntax.entry-key-abbreviations
     #.syntax.entry-keys
     #.syntax.entry-values
+    #.syntax.unmark-entry-keys-for-preceding-value
     #prepend-newline
 - closing_delimiter: $$
 - tag_name: dl
