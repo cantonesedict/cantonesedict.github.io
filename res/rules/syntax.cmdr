@@ -62,6 +62,10 @@ FixedDelimitersReplacement: #.syntax.modern-insertion
 - closing_delimiter: ]]
 - tag_name: ins
 
+OrdinaryDictionaryReplacement: #.syntax-modern-insertion-none
+- queue_position: BEFORE #.syntax.modern-insertion
+* [[]] --> [[None]]
+
 OrdinaryDictionaryReplacement: #.syntax.romanisation-schemes
 - queue_position: BEFORE #specified-links
 * '\C ' --> [Conway](https://yawnoc.github.io/cantonese/conway-romanisation):~

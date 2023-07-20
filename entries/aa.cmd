@@ -27,11 +27,11 @@ _ngat_ [[\C ngat; \J ngat]].
 
 $$
 CV
-  , [[none]]
+  , [[]]
 R
   , [[\C aa1; \J aa1]]
 RV
-  , [[none]]
+  , [[]]
 W
   ,{w}
     A colloquial word.
@@ -46,7 +46,7 @@ W
     - _(2)k(o\)m ts(o\)(6) (a/)_, no, this is the way to do it.
     ==
 C
-  , [[none]]
+  , [[]]
 $$
 
 ### 吖
