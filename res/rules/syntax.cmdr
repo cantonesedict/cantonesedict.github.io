@@ -91,3 +91,6 @@ OrdinaryDictionaryReplacement: #.syntax.typography
 #
 # U+00A0 NO-BREAK SPACE (&nbsp;)
 *   ~ --> " "
+#
+# U+02BB MODIFIER LETTER TURNED COMMA
+*   (') --> ʻ
