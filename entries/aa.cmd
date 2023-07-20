@@ -1,4 +1,13 @@
+< /res/rules/boilerplate.cmdr
 < /res/rules/syntax.cmdr
+
+OrdinaryDictionaryReplacement: #.properties-override
+- queue_position: AFTER #.boilerplate.properties-override
+- apply_mode: SEQUENTIAL
+* %title --> aa
+* %date-created --> 2023-xx-xx
+* %date-modified --> 2023-xx-xx
+- concluding_replacements: #.syntax.typography
 
 %%%
 

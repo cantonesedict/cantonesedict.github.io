@@ -1,0 +1,5 @@
+OrdinaryDictionaryReplacement: #.boilerplate.properties-override
+- queue_position: BEFORE #boilerplate-properties
+* %head-elements-after-viewport -->
+    <link rel="stylesheet" href="/res/styles/tonic.css">
+* </title> --> " | Cantonese Dictionary</title>"
