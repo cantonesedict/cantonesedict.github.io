@@ -3,6 +3,12 @@ OrdinaryDictionaryReplacement: #.syntax.romanisation-schemes
 * '\C ' --> [Conway](https://yawnoc.github.io/cantonese/conway-romanisation):~
 * '\J ' --> [Jyutping](https://en.wikipedia.org/wiki/Jyutping):~
 
+OrdinaryDictionaryReplacement: #.syntax.diacritics
+- queue_position: BEFORE #specified-links
+#
+# U+00C1 LATIN CAPITAL LETTER A WITH ACUTE
+*   (A/) --> Á
+
 OrdinaryDictionaryReplacement: #.syntax.typography
 - queue_position: BEFORE #escape-idle-html
 #
