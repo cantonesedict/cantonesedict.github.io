@@ -15,6 +15,13 @@ body {
 }
 
 
+footer {
+  border-top: 2px solid black;
+  margin-top: 3em;
+  padding-top: 1em;
+}
+
+
 header {
   margin-left: calc(-1 * var(--body-padding-horizontal));
   max-width: var(--html-max-width);
@@ -43,13 +50,6 @@ header > nav > ul {
 header > nav > ul > li {
   font-weight: bold;
   padding: 0 0.7rem;
-}
-
-
-footer {
-  border-top: 2px solid black;
-  margin-top: 3em;
-  padding-top: 1em;
 }
 
 
