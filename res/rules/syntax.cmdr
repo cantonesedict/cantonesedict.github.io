@@ -21,7 +21,7 @@ RegexDictionaryReplacement: #heading-permalinks
   \g<opening_hashes_etc> []{.permalink aria-label=Permalink}(#\g<id_>)
 
 RegexDictionaryReplacement: #.syntax.entry-key-abbreviations
-* ^CV$ --> ; Character variations
+* ^A$ --> ; Alternative forms
 * ^R$ --> ; Reading
 * ^RV$ --> ; Reading variations
 * ^W$ --> ; Williams entry
