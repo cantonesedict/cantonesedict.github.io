@@ -66,6 +66,19 @@ OrdinaryDictionaryReplacement: #.syntax-modern-insertion-none
 - queue_position: BEFORE #.syntax.modern-insertion
 * [[]] --> [[None]]
 
+OrdinaryDictionaryReplacement: #.syntax.eight-tone-marks
+- queue_position: BEFORE #specified-links
+# U+A700 through U+A707 <https://en.wikipedia.org/wiki/Modifier_Tone_Letters>
+* (1) --> ꜀
+* (2) --> ꜂
+* (3) --> ꜄
+* (4) --> ꜁
+* (5) --> ꜃
+* (6) --> ꜅
+* (7) --> ꜆
+* (8) --> ꜆
+* (9) --> ꜇
+
 OrdinaryDictionaryReplacement: #.syntax.romanisation-schemes
 - queue_position: BEFORE #specified-links
 * '\C ' --> [Conway](https://yawnoc.github.io/cantonese/conway-romanisation):~
