@@ -5,7 +5,8 @@ OrdinaryDictionaryReplacement: #.syntax.williams-class
 RegexDictionaryReplacement: #.syntax.character-headings
 - queue_position: BEFORE #headings
 * ^[#]{3} [ ] (?P<character>\S)(?P<tone_number>[1-6]?) $
-    --> ###{#\g<character>\g<tone_number>} \g<character>
+    -->
+  ###{#\g<character>\g<tone_number>} .\g<character>
 
 RegexDictionaryReplacement: #.syntax.entry-key-abbreviations
 * ^CV$ --> ; Character variations
@@ -113,3 +114,9 @@ OrdinaryDictionaryReplacement: #.syntax.typography
 #
 # U+02BB MODIFIER LETTER TURNED COMMA
 *   (') --> ʻ
+
+RegexDictionaryReplacement: #.syntax.chinese-lang
+- queue_position: BEFORE #escape-idle-html
+* [.] (?P<chinese_run> [⺀-〿㇀-㇣㐀-鿼豈-龎！-｠𠀀-𱍊]+ )
+    -->
+  <span lang="zh-Hant">\g<chinese_run></span>
