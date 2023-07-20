@@ -39,11 +39,11 @@ W
     - An interrogative particle ;
     - also one indicating that the affirmation is indisputable ;
     - a mere final answering tone, having no meaning ;
-    - _(2)h(o\) (1)(a/)_ well, very well ;
-    - _(1)(a/) wai(3)_ poor, necessitous ;
-    - _(5)k(')(u") (2)k(o\)m w(a/)(6) (1)(a/)_, he said so ;
-    - _mat(7) (5)y(e/) (1)(a/)_, what ?
-    - _(2)k(o\)m ts(o\)(6) (a/)_, no, this is the way to do it.
+    - _(2)h(o\) (1)(a/)_ [[?]] well, very well ;
+    - _(1)(a/) wai(3)_ [[?]] poor, necessitous ;
+    - _(5)k(')(u") (2)k(o\)m w(a/)(6) (1)(a/)_ [[?]], he said so ;
+    - _mat(7) (5)y(e/) (1)(a/)_ [[?]], what ?
+    - _(2)k(o\)m ts(o\)(6) (a/)_ [[?]], no, this is the way to do it.
     ==
 C
   , [[]]
