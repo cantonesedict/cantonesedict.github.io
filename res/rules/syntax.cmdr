@@ -83,6 +83,9 @@ OrdinaryDictionaryReplacement: #.syntax.diacritics
 # U+00E1 LATIN SMALL LETTER A WITH ACUTE
 *   (a/) --> á
 #
+# U+00E9 LATIN SMALL LETTER E WITH ACUTE
+*   (e/) --> é
+#
 # U+00F2 LATIN SMALL LETTER O WITH GRAVE
 *   (o\) --> ò
 #
