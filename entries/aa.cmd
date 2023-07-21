@@ -7,6 +7,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
 * %date-modified --> 2023-07-20
+* %copyright-prior-years -->
 
 %%%
 

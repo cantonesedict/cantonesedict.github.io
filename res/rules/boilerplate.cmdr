@@ -13,11 +13,20 @@ RegexDictionaryReplacement: #.boilerplate.header-nav
     "
 
 
+RegexDictionaryReplacement: #.yawnoc.get-year
+- queue_position: AFTER #boilerplate-properties
+* [|]? get_year @ (?P<year> [\S]{4}) - [\S]{2} - [\S]{2}
+    -->
+  \g<year>
+
+
 RegexDictionaryReplacement: #.boilerplate.footer
 - queue_position: BEFORE #boilerplate-properties
 * (?=</body>) -->
     "
       <footer class="modern">
+        (C)~%copyright-prior-years|get_year@%date-modified Conway. <br>
+        Modernised from [Williams' ''Tonic Dictionary'' (1856)][tonic]. <br>
         Source: [<code>%cmd-name.cmd</code>](https://github.com/cantonesedict/cantonesedict.github.io/blob/master/%cmd-name.cmd).
         Last modified: <time datetime="%date-modified">%date-modified</time>.
       </footer>

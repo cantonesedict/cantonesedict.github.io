@@ -2,6 +2,7 @@ RegexDictionaryReplacement: #.links.referenced
 - queue_position: AFTER #comments
 * \Z -->
     "
+      [tonic]: https://archive.org/details/tonicdictionaryo00will/page/n6/mode/1up
       [jpp]: https://jyutping.org/blog/particles/
     "
 
