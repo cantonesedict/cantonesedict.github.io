@@ -54,7 +54,7 @@ W
 C
   ,
     =={.modern}
-    - 丫頭 and 丫鬟 for slave girl (or maidservant): it's 1856.
+    - 丫頭 & 丫鬟, slave girl: it's 1856.
     ==
 $$
 
@@ -151,6 +151,29 @@ S
 $$
 
 ### 鴉1 [[U+9D09]] _(1)(a/)_ [[\J aa1; \C aa1]]
+
+$$
+W
+  ,
+    ==
+    - A raven with a white streak on its breast;
+    - _(5)l(o\) (1)(a/)_
+      [[老鴉; \J lou5 aa1; \C lou5 aa1]],
+      a raven or crow;
+    - _(4)t(')(o\) (1)(a/)_
+      [[塗鴉; \J tou4 aa1; \C t'ou4 aa1]],
+      written roughly;
+    - _(1)(a/) p(')(i/)n(3) (4)nai_
+      [[鴉片坭; \J aa1 pin3 nai4; \C aa1 p'een3 nai4]],
+      opium.
+    ==
+S
+  ,
+    =={.modern}
+    - 塗鴉, written roughly: now graffiti.
+    - 鴉片坭, opium: now just 鴉片.
+    ==
+$$
 
 
 ##{#2 .williams} (2)(A/) [[陰上; \J aa2; \C aa2]]
