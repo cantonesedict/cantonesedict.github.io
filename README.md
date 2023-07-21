@@ -1,6 +1,6 @@
 # cantonesedict.github.io
 
-Work in progress for a modernised version of
+Work in progress for a modern edition of
 [A Tonic Dictionary of the Chinese Language in the Canton Dialect][tonic] (1856),
 by [Samuel Wells Williams].
 
