@@ -72,9 +72,9 @@ RegexDictionaryReplacement: #.syntax.alternative-form-links
     -->
   [\g<character>](#\g<character>\g<tone_number>)
 
-RegexDictionaryReplacement: #.syntax.square-bracket-wrap
-* \A --> [
-* \Z --> ]
+RegexDictionaryReplacement: #.syntax.round-bracket-wrap
+* \A --> (
+* \Z --> )
 - concluding_replacements: #placeholder-protect
 
 FixedDelimitersReplacement: #.syntax.modern-insertion
@@ -82,7 +82,7 @@ FixedDelimitersReplacement: #.syntax.modern-insertion
 - syntax_type: INLINE
 - opening_delimiter: [[
 - attribute_specifications: .modern
-- content_replacements: #.syntax.square-bracket-wrap
+- content_replacements: #.syntax.round-bracket-wrap
 - closing_delimiter: ]]
 - tag_name: ins
 
