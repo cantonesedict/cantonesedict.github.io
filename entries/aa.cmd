@@ -33,7 +33,7 @@ A
 R
   , _(1)(a/)_ [[\J aa1; \C aa1]]
 RV
-  , [[]]
+  , [[\J a1; \C a1: shorter syllable]]
 W
   ,
     [[(Page~1)]] <br>
