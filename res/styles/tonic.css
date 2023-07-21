@@ -63,6 +63,7 @@ html {
   background: black;
   max-width: var(--html-max-width);
   margin: 0 auto;
+  scroll-padding-top: calc(1.3 * var(--header-nav-height));
 }
 
 ins {
