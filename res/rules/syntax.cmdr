@@ -81,10 +81,6 @@ FixedDelimitersReplacement: #.syntax.modern-insertion
 - closing_delimiter: ]]
 - tag_name: ins
 
-OrdinaryDictionaryReplacement: #.syntax-modern-insertion-none
-- queue_position: BEFORE #.syntax.modern-insertion
-* [[]] --> [[None]]
-
 OrdinaryDictionaryReplacement: #.syntax.eight-tone-marks
 - queue_position: BEFORE #specified-links
 # U+A700 through U+A707 <https://en.wikipedia.org/wiki/Modifier_Tone_Letters>
