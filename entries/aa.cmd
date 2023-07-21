@@ -111,7 +111,7 @@ W
     - An interjection used in answers, denoting surprise or alarm;
     - alas! dreadful.
     ==
-    Read _(4)ng(a/)_: [[see [`ngaa#呀4`]]]. <## TODO ##>
+    Read _(4)ng(a/)_ [[\J ngaa4; \C ngaa4]]: [[see [`ngaa#呀4`]]]. <## TODO ##>
 C
   ,
     =={.modern}
@@ -167,7 +167,7 @@ W
       [[鴉片坭; \J aa1 pin3 nai4; \C aa1 p'een3 nai4]],
       opium.
     ==
-S
+C
   ,
     =={.modern}
     - 塗鴉, written roughly: now graffiti.
@@ -180,7 +180,63 @@ $$
 
 ### 啞2 [[U+555E]] _(2)(a/)_ [[\J aa2; \C aa2]]
 
+$$
+A
+  , $瘂2
+W
+  ,
+    ==
+    - The confused noise of children studying;
+    - dumb;
+    - to keep silent, for which the next [[$瘂2]] is used;
+    - _(2)(a/) mai(6)_
+      [[啞謎; \J aa2 mai6; \C aa2 mai6]]
+      an enigma;
+    - _(4)ts(')ing (4)n(a/)n (2)(a/) (2)yan_
+      [[情難啞忍; \J cing4 naan4 aa2 yan2; \C ts'ing4 naan4 aa2 yan2]],
+      hard to bear it patiently.
+    ==
+    Also read _ak(7)_ [[\J ak1; \C ak7]]: [[see [`ak#啞1`]]]. <## TODO ##>
+C
+  ,
+    =={.modern}
+    - Williams does not provide a separate entry
+      under _ak(7)_ [[\J ak1; \C ak7]].
+    ==
+S
+  ,
+    =={.modern}
+    - [`ak#啞1`]
+    ==
+$$
+
 ### 瘂2 [[U+7602]] _(2)(a/)_ [[\J aa2; \C aa2]]
+
+$$
+A
+  , $啞2
+W
+  ,
+    ==
+    - Dumb, unable to speak;
+    - dull, faded;
+    - a cracked sound, as a bell;
+    - wheezing;
+    - nape of the neck;
+    - _(2)(a/) (2)tsai_
+      [[瘂仔; \J aa2 zai2; \C aa2 tsai2]],
+      a dumb boy;
+    - _(2)(a/) (2)hau (4)m(o\) (4)(i/)n_
+      [[瘂口無言; \J aa2 hau2 mou4 jin4; \C aa2 hau2 mou4 yeen4]],
+      will not speak, sulky;
+    - _(2)(a/) tuk(9)_
+      [[瘂毒; \J aa2 duk6; \C aa2 tuk9]]
+      dumb people are revengeful;
+    - _(1)sheng t(a/)i(3) (2)(a/)_
+      [[聲帶瘂; \J seng1 daai3 aa2; \C sheng1 taai3 aa2]],
+      the sound is indistinct.
+    ==
+$$
 
 
 ##{#3 .williams} (A/)(3) [[陰去; \J aa3; \C aa3]]
