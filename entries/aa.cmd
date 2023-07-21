@@ -43,11 +43,21 @@ W
     - An interrogative particle;
     - also one indicating that the affirmation is indisputable;
     - a mere final answering tone, having no meaning;
-    - _(2)h(o\) (1)(a/)_ [[?]] well, very well;
-    - _(1)(a/) wai(3)_ [[?]] poor, necessitous;
-    - _(5)k(')(u") (2)k(o\)m w(a/)(6) (1)(a/)_ [[?]], he said so;
-    - _mat(7) (5)y(e/) (1)(a/)_ [[?]], what?
-    - _(2)k(o\)m ts(o\)(6) (a/)_ [[?]], no, this is the way to do it.
+    - _(2)h(o\) (1)(a/)_
+        [[.好吖; \J hou2 aa1; \C hou2 aa1]]
+        well, very well;
+    - _(1)(a/) wai(3)_
+        [[?; \J aa1 wai3; \C aa1 wai3]]
+        poor, necessitous;
+    - _(5)k(')(u") (2)k(o\)m w(a/)(6) (1)(a/)_
+        [[.佢噉話吖; \J keoi5 gam2 waa6 aa1; \C k'_(u") kam2 waa6 aa1]],
+        he said so;
+    - _mat(7) (5)y(e/) (1)(a/)_
+        [[.乜嘢吖; \J mat1 je5 aa1; \C mat7 ye5 aa1]],
+        what?
+    - _(2)k(o\)m ts(o\)(6) (a/)_
+        [[.噉做吖; \J gam2 zou6 aa1; \C kam2 tsou6 aa1]],
+        no, this is the way to do it.
     ==
 C
   ,{m}
