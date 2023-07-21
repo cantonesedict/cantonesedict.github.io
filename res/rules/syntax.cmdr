@@ -99,11 +99,6 @@ OrdinaryDictionaryReplacement: #.syntax.eight-tone-marks
 * (8) --> ꜆
 * (9) --> ꜇
 
-OrdinaryDictionaryReplacement: #.syntax.romanisation-schemes
-- queue_position: BEFORE #specified-links
-* '\C ' --> [C]{title="Conway's Romanisation for Cantonese"}(https://yawnoc.github.io/cantonese/conway-romanisation):~
-* '\J ' --> [J]{title="Jyutping"}(https://en.wikipedia.org/wiki/Jyutping):~
-
 OrdinaryDictionaryReplacement: #.syntax.diacritics
 - queue_position: BEFORE #backslash-escapes
 #
