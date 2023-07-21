@@ -89,8 +89,8 @@ W
         no, this is the way to do it.
     ==
 C
-  ,{-class .modern}
-    ==
+  ,
+    =={.modern}
     - [Jyutping suggests 吖 as the canonical character for aa1.][jpp]
     ==
 $$
