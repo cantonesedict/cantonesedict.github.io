@@ -1,11 +1,3 @@
-RegexDictionaryReplacement: #.boilerplate.links
-- queue_position: AFTER #comments
-* \Z -->
-    "
-      [jpp]: https://jyutping.org/blog/particles/
-    "
-
-
 RegexDictionaryReplacement: #.boilerplate.header-nav
 - queue_position: BEFORE #unordered-lists
 * \A -->

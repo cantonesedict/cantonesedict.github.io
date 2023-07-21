@@ -1,0 +1,6 @@
+RegexDictionaryReplacement: #.links.referenced
+- queue_position: AFTER #comments
+* \Z -->
+    "
+      [jpp]: https://jyutping.org/blog/particles/
+    "
