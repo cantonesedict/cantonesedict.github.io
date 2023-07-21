@@ -111,7 +111,7 @@ C
   ,
     =={.modern}
     - Williams does not provide a separate entry
-      under _(4)ng(a/)_ [[ngaa4]].
+      for 呀 under _(4)ng(a/)_ [[ngaa4]].
     ==
 S
   ,
@@ -187,12 +187,12 @@ W
       [[情難啞忍; cing4 naan4 aa2 yan2]],
       hard to bear it patiently.
     ==
-    Also read _ak(7)_ [[ak1]]: [[see [`ak#啞1`]]]. <## TODO ##>
+    Also read _ak(7)_ [[ak1]]; [[see [`ak#啞1`]]]. <## TODO ##>
 C
   ,
     =={.modern}
     - Williams does not provide a separate entry
-      under _ak(7)_ [[ak1]].
+      for 啞 under _ak(7)_ [[ak1]].
     ==
 S
   ,
@@ -238,9 +238,11 @@ $$
 $$
 A
   , $阿3
+V
+  , [[a3: shorter syllable]]
 W
   ,
-    [[(Page~2)]]
+    [[(Page~2)]] <br>
     ==
     - Hunchbacked;
     - to esteem lightly, to regard as inferior;
@@ -262,6 +264,27 @@ $$
 ### 呀3 [[U+5440]] _(a/)(3)_ [[aa3]]
 
 $$
+A
+  , [[$啊3]]
+V
+  , [[a3: shorter syllable]]
+W
+  ,
+    [[(Page~1)]] <br>
+    A colloquial word.
+    ==
+    - A final particle, adding intensity to the meaning;
+    - _(4)'m (2)h(o\) (a/)(3)_
+      [[唔好呀; m4 hou2 aa3]]
+      not at all good.
+    ==
+    Also spoken _(a/)(6)_ [[aa6]]; [[see [`aa#呀6`]]].
+C
+  ,
+    =={.modern}
+    - Williams does not provide a separate entry
+      for 呀 under _(a/)(6)_ [[aa6]].
+    ==
 S
   ,
     =={.modern}
@@ -297,7 +320,7 @@ C
     ==
 W
   ,
-    [[(Page~2)]]
+    [[(Page~2)]] <br>
     ==
     - [[see $亞3 for the "second/inferior" senses]]
     - a syllable prefixed to proper names,
@@ -346,6 +369,31 @@ $$
 ###+ 呀6 [[U+5440]] _(a/)(6)_ [[aa6]]
 
 $$
+V
+  , [[a6: shorter syllable for elided "ten" sense]]
+W
+  ,
+    [[(Page~1)]] <br>
+    A colloquial word. [[...]]
+    ==
+    - ten, used after a higher number;
+    - an answer, a word of reply like Aye!
+    - _(a/)(6) (2)h(o\)_
+      [[呀好; aa6 hou2]],
+      yes, well;
+    - _sz'(3) (a/)(6) (4)ts(')(i/)n_
+      [[四呀錢; sei3 aa6 cin4]],
+      forty cash.
+    ==
+C
+  ,
+    =={.modern}
+    - Williams has this entry within that for _(a/)(3)_ [[aa3]];
+      see [`aa#呀3`].
+    - The "ten" sense would never actually appear in writing as 呀;
+      it would still be spelt 十,
+      the pronunciation being a matter of preference.
+    ==
 S
   ,
     =={.modern}
