@@ -87,7 +87,7 @@ W
 C
   ,
     =={.modern}
-    - [Jyutping suggests 吖 as the canonical character for aa1.][jpp]
+    - [Jyutping suggests using 吖 as the canonical character for aa1.][jpp]
     ==
 $$
 
@@ -131,8 +131,7 @@ A
 V
   , [[a1: shorter syllable]]
 W
-  ,
-    [[Not present]]
+  , [[Not present]]
 C
   ,
     =={.modern}
@@ -298,6 +297,17 @@ $$
 ###+ 啊3 [[U+554A]] _(a/)(3)_ [[aa3]]
 
 $$
+A
+  , [[$呀3]]
+V
+  , [[a3: shorter syllable]]
+W
+  , [[Not present]]
+C
+  ,
+    =={.modern}
+    - [Jyutping suggests using 啊 as the canonical character for aa3.][jpp]
+    ==
 S
   ,
     =={.modern}
