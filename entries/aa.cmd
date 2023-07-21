@@ -254,7 +254,7 @@ W
 C
   ,
     =={.modern}
-    - Williams does not provide a separate entry for $阿3,
+    - Williams does not provide a separate entry for 亞 and $阿3,
       but notes that $阿3 is "often used" for the name prefix sense.
       I have split things up accordingly.
     ==
@@ -340,7 +340,7 @@ A
 C
   ,
     =={.modern}
-    - Williams does not provide a separate entry for $亞3.
+    - Williams does not provide a separate entry for $亞3 and 阿.
       I have split things up accordingly.
     ==
 W
