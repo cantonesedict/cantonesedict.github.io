@@ -2,6 +2,7 @@
   --body-padding-horizontal: 1.3rem;
   --header-nav-height: 3rem;
   --html-max-width: 44rem;
+  --modern-colour: darkviolet;
   --modern-font: Arimo, sans-serif;
   --olden-font: Palatino, Tinos, serif;
 }
@@ -21,6 +22,9 @@ footer {
   border-top: 2px solid black;
   margin-top: 3em;
   padding-top: 1em;
+}
+footer.modern {
+  border-top: 2px solid var(--modern-colour);
 }
 
 
@@ -70,7 +74,7 @@ dt {
 }
 
 .modern {
-  color: darkviolet;
+  color: var(--modern-colour);
   font-family: var(--modern-font);
 }
 

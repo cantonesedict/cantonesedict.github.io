@@ -17,7 +17,7 @@ RegexDictionaryReplacement: #.boilerplate.footer
 - queue_position: BEFORE #boilerplate-properties
 * (?=</body>) -->
     "
-      <footer>
+      <footer class="modern">
         Source: [<code>%cmd-name.cmd</code>](https://github.com/cantonesedict/cantonesedict.github.io/blob/master/%cmd-name.cmd).
         Last modified: <time datetime="%date-modified">%date-modified</time>.
       </footer>
