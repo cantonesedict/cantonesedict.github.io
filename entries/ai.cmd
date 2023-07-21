@@ -5,25 +5,10 @@
 OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
-* %title --> Entries by Jyutping slug
+* %title --> ai
 * %date-modified --> 2023-07-22
 * %copyright-prior-years -->
 
 %%%
 
-#{.modern} %title
-
-<nav>
-===={.modern}
-- A
-  ==
-  - [`aa`]
-  - [`ai`]
-  - [`ak`]
-  ==
-- Ng
-  ==
-  - [`ngaa`]
-  ==
-====
-</nav>
+#{.williams} Ai [[ai]]
