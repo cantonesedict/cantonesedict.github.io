@@ -37,10 +37,10 @@ W
       or
       _(1)(a/) (4)w(a/)n_
       [[丫鬟; aa1 waan4]],
-      a slave girl;
+      a slave girl [[it's 1856]];
     - _(1)(a/) kok(8) kai(3)_
       [[丫角髻; aa1 gok3 gai3]]
-      a little boy;
+      a little boy [[it's 1856]];
     - _(1)(a/) (1)ch(')(a/)_
       [[丫杈; aa1 caa1]],
       a fork, a rest for clothes' sticks;
@@ -50,11 +50,6 @@ W
     - _(1)s(a/)m (1)(a/) l(o\)(6)_
       [[三丫路; saam1 aa1 lou6]]
       meeting of three ways, a trivium.
-    ==
-C
-  ,
-    =={.modern}
-    - 丫頭 & 丫鬟, slave girl: it's 1856.
     ==
 $$
 
@@ -163,16 +158,10 @@ W
       a raven or crow;
     - _(4)t(')(o\) (1)(a/)_
       [[塗鴉; tou4 aa1]],
-      written roughly;
+      written roughly [[now graffiti]];
     - _(1)(a/) p(')(i/)n(3) (4)nai_
       [[鴉片坭; aa1 pin3 nai4]],
-      opium.
-    ==
-C
-  ,
-    =={.modern}
-    - 塗鴉, written roughly: now graffiti.
-    - 鴉片坭, opium: now just 鴉片.
+      opium [[dated; now just 鴉片]].
     ==
 $$
 
