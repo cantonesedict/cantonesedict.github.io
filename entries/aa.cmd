@@ -7,7 +7,6 @@ OrdinaryDictionaryReplacement: #.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
 * %date-modified --> 2023-07-20
-- concluding_replacements: #.syntax.typography
 
 %%%
 
@@ -48,6 +47,7 @@ W
     - _mat(7) (5)y(e/) (1)(a/)_ [[?]], what ?
     - _(2)k(o\)m ts(o\)(6) (a/)_ [[?]], no, this is the way to do it.
     ==
+    [[(Page~1)]]
 C
   ,{m}
     ==

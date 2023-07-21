@@ -4,3 +4,9 @@ RegexDictionaryReplacement: #.links.referenced
     "
       [jpp]: https://jyutping.org/blog/particles/
     "
+
+RegexDictionaryReplacement: #.links.tonic
+- queue_position: BEFORE #specified-links
+* \( Page ~ (?P<page_number> [0-9]+ ) \)
+    -->
+  [(Page~\g<page_number>)](https://archive.org/details/tonicdictionaryo00will/page/\g<page_number>/mode/1up)
