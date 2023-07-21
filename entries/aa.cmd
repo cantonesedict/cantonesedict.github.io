@@ -115,7 +115,7 @@ W
 C
   ,
     =={.modern}
-    - Williams does not provide a separate entry for 呀
+    - Williams does not provide a separate entry
       under _(4)ng(a/)_ [[\J ngaa4; \C ngaa4]].
     ==
 S
@@ -141,7 +141,7 @@ W
 C
   ,
     =={.modern}
-    - Unpopular alternative for $吖1 or $呀1.
+    - An unpopular alternative for $吖1 or $呀1.
     ==
 S
   ,
@@ -166,7 +166,26 @@ $$
 
 ### 呀3 [[U+5440]] [[\J aa3; \C aa3]]
 
+$$
+S
+  ,
+    =={.modern}
+    - [`aa#呀1`]
+    - [`aa#呀4`]
+    - [`aa#呀6`]
+    - [`ngaa#呀4`]
+    ==
+$$
+
 ###+ 啊3 [[U+554A]] [[\J aa3; \C aa3]]
+
+$$
+S
+  ,
+    =={.modern}
+    - [`aa#啊1`]
+    ==
+$$
 
 ### 婭3 [[U+5A6D]] [[\J aa3; \C aa3]]
 
@@ -177,7 +196,29 @@ $$
 
 ###+ 呀4 [[U+5440]] [[\J aa4; \C aa4]]
 
+$$
+S
+  ,
+    =={.modern}
+    - [`aa#呀1`]
+    - [`aa#呀3`]
+    - [`aa#呀6`]
+    - [`ngaa#呀4`]
+    ==
+$$
+
 
 ##{#6 .modern} (A/)(6) [[陽去; \J aa6; \C aa6]]
 
 ###+ 呀6 [[U+5440]] [[\J aa6; \C aa6]]
+
+$$
+S
+  ,
+    =={.modern}
+    - [`aa#呀1`]
+    - [`aa#呀3`]
+    - [`aa#呀4`]
+    - [`ngaa#呀4`]
+    ==
+$$
