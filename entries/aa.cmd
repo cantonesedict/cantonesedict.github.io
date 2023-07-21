@@ -24,7 +24,7 @@ _ngat_ [[\J ngat; \C ngat]].
 
 ##{#1 .williams} (1)(A/) [[陰平; \J aa1; \C aa1]]
 
-### 丫 [[U+4E2B]] [[\J aa1; \C aa1]]
+### 丫1 [[U+4E2B]] [[\J aa1; \C aa1]]
 
 $$
 W
@@ -58,7 +58,7 @@ C
     ==
 $$
 
-### 吖 [[U+5416]] [[\J aa1; \C aa1]]
+### 吖1 [[U+5416]] [[\J aa1; \C aa1]]
 
 $$
 A
@@ -100,7 +100,7 @@ $$
 
 $$
 A
-  , [[$吖; $啊1]]
+  , [[$吖1; $啊1]]
 V
   , [[\J a1; \C a1: shorter syllable]]
 W
@@ -111,7 +111,7 @@ W
     - An interjection used in answers, denoting surprise or alarm;
     - alas! dreadful.
     ==
-    Read _(4)ng(a/)_: [[see [`ngaa#呀`]]]. <## TODO ##>
+    Read _(4)ng(a/)_: [[see [`ngaa#呀4`]]]. <## TODO ##>
 C
   ,
     =={.modern}
@@ -124,6 +124,7 @@ S
     - [`aa#呀3`]
     - [`aa#呀4`]
     - [`aa#呀6`]
+    - [`ngaa#呀4`]
     ==
 $$
 
@@ -131,7 +132,7 @@ $$
 
 $$
 A
-  , [[$吖; $呀1]]
+  , [[$吖1; $呀1]]
 V
   , [[\J a1; \C a1: shorter syllable]]
 W
@@ -140,7 +141,7 @@ W
 C
   ,
     =={.modern}
-    - Prefer $吖 or $呀1.
+    - Unpopular alternative for $吖1 or $呀1.
     ==
 S
   ,
@@ -149,27 +150,27 @@ S
     ==
 $$
 
-### 鴉 [[U+9D09]] [[\J aa1; \C aa1]]
+### 鴉1 [[U+9D09]] [[\J aa1; \C aa1]]
 
 
 ##{#2 .williams} (2)(A/) [[陰上; \J aa2; \C aa2]]
 
-### 啞 [[U+555E]] [[\J aa2; \C aa2]]
+### 啞2 [[U+555E]] [[\J aa2; \C aa2]]
 
-### 瘂 [[U+7602]] [[\J aa2; \C aa2]]
+### 瘂2 [[U+7602]] [[\J aa2; \C aa2]]
 
 
 ##{#3 .williams} (A/)(3) [[陰去; \J aa3; \C aa3]]
 
-### 亞 [[U+4E9E]] [[\J aa3; \C aa3]]
+### 亞3 [[U+4E9E]] [[\J aa3; \C aa3]]
 
 ### 呀3 [[U+5440]] [[\J aa3; \C aa3]]
 
 ###+ 啊3 [[U+554A]] [[\J aa3; \C aa3]]
 
-### 婭 [[U+5A6D]] [[\J aa3; \C aa3]]
+### 婭3 [[U+5A6D]] [[\J aa3; \C aa3]]
 
-### 阿 [[U+963F]] [[\J aa3; \C aa3]]
+### 阿3 [[U+963F]] [[\J aa3; \C aa3]]
 
 
 ##{#4 .modern} (4)(A/) [[陽平; \J aa4; \C aa4]]
