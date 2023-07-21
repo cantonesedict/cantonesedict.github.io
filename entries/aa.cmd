@@ -317,6 +317,21 @@ $$
 
 ### 婭3 [[U+5A6D]] _(a/)(3)_ [[aa3]]
 
+$$
+W
+  ,
+    [[(Page~2)]] <br>
+    ==
+    - Brothers-in-law;
+    - _(1)yan (a/)(3)_
+      [[姻婭; jan1 aa3]]
+      relatives by marriage, especially brothers or parents;
+    - _(4)m(o\) tik(7) (1)yan (a/)(3)_
+      [[無嫡姻婭; mou4 dik1 jan1 aa3]]
+      I am not related to him at all.
+    ==
+$$
+
 ### 阿3 [[U+963F]] _(a/)(3)_ [[aa3]]
 
 $$
