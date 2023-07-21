@@ -1,8 +1,3 @@
-OrdinaryDictionaryReplacement: #.syntax.class-abbreviations
-- queue_position: AFTER #comments
-* {m} --> {-class .modern}
-* {w} --> {-class .williams}
-
 RegexDictionaryReplacement: #.syntax.character-headings
 - queue_position: BEFORE #headings
 * ^[#]{3} [+]

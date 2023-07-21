@@ -87,5 +87,6 @@ dt {
 }
 
 .williams {
+  color: black;
   font-family: var(--olden-font);
 }

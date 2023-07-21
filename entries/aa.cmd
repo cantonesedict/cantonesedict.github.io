@@ -11,9 +11,9 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 %%%
 
-#{w} (A/) [[\J aa; \C aa]]
+#{.williams} (A/) [[\J aa; \C aa]]
 
---{w}
+--{.williams}
 Words in _a_ [[\J a; \C a]] or _(a/)_ [[\J aa; \C aa]],
 are often heard beginning with _ng_ [[\J ng; \C ng]],
 as _ng(a/)_ [[\J ngaa; \C ngaa]],
@@ -22,7 +22,7 @@ _ngat_ [[\J ngat; \C ngat]].
 --
 
 
-##{#1} (1)(A/) [[陰平; \J aa1; \C aa1]]
+##{#1 .williams} (1)(A/) [[陰平; \J aa1; \C aa1]]
 
 ### 丫 (U+4E2B)
 
@@ -91,7 +91,7 @@ W
         no, this is the way to do it.
     ==
 C
-  ,{m}
+  ,{-class .modern}
     ==
     - [Jyutping suggests 吖 as the canonical character for aa1.][jpp]
     ==
@@ -104,14 +104,14 @@ $$
 ### 鴉 (U+9D09)
 
 
-##{#2} (2)(A/) [[陰上; \J aa2; \C aa2]]
+##{#2 .williams} (2)(A/) [[陰上; \J aa2; \C aa2]]
 
 ### 啞 (U+555E)
 
 ### 瘂 (U+7602)
 
 
-##{#3} (A/)(3) [[陰去; \J aa3; \C aa3]]
+##{#3 .williams} (A/)(3) [[陰去; \J aa3; \C aa3]]
 
 ### 亞 (U+4E9E)
 
