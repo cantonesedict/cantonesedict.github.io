@@ -36,6 +36,7 @@ RV
   , [[]]
 W
   ,
+    [[(Page~1)]] <br>
     A colloquial word.
     ==
     - An interrogative particle ;
@@ -47,7 +48,6 @@ W
     - _mat(7) (5)y(e/) (1)(a/)_ [[?]], what ?
     - _(2)k(o\)m ts(o\)(6) (a/)_ [[?]], no, this is the way to do it.
     ==
-    [[(Page~1)]]
 C
   ,{m}
     ==
