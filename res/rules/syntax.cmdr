@@ -20,6 +20,10 @@ RegexDictionaryReplacement: #heading-permalinks
     -->
   \g<opening_hashes_etc> []{.permalink aria-label=Permalink}(#\g<id_>)
 
+RegexDictionaryReplacement: #.syntax.entry-link
+- queue_position: BEFORE #inline-code
+* \[` (?P<slug> .*? ) `\] --> [`\g<slug>`](\g<slug>)
+
 RegexDictionaryReplacement: #.syntax.entry-key-abbreviations
 * ^A$ --> ; Alternative forms
 * ^V$ --> ; Reading variations

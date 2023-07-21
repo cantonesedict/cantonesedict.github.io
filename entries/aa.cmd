@@ -111,12 +111,19 @@ W
     - An interjection used in answers, denoting surprise or alarm;
     - alas! dreadful.
     ==
-    Read _(4)ng(a/)_: [[see [`ngaa#呀`](ngaa#呀)]]. <## TODO ##>
+    Read _(4)ng(a/)_: [[see [`ngaa#呀`]]]. <## TODO ##>
 C
   ,
     =={.modern}
     - Williams does not provide a separate entry for 呀
       under _(4)ng(a/)_ [[\J ngaa4; \C ngaa4]].
+    ==
+S
+  ,
+    =={.modern}
+    - [`aa#呀3`]
+    - [`aa#呀4`]
+    - [`aa#呀6`]
     ==
 $$
 
@@ -163,6 +170,11 @@ $$
 ### 婭 [[U+5A6D]] [[\J aa3; \C aa3]]
 
 ### 阿 [[U+963F]] [[\J aa3; \C aa3]]
+
+
+##{#4 .modern} (4)(A/) [[陽平; \J aa4; \C aa4]]
+
+###+ 呀4 [[U+5440]] [[\J aa4; \C aa4]]
 
 
 ##{#6 .modern} (A/)(6) [[陽去; \J aa6; \C aa6]]
