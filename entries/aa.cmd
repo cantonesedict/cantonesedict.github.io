@@ -245,14 +245,17 @@ W
     - Hunchbacked;
     - to esteem lightly, to regard as inferior;
     - second, next to, junior, inferior;
-    - a syllable prefixed to proper names,
-      for which the second [[$阿3]] is often used [[see [`aa#阿3`]]];
+    - [[see $阿3 for name prefix senses]]
+    - _pat(7) (a/)(3) (1)(u") (4)yan_
+      [[不亞於人; bat1 aa3 jyu1 jan4]],
+      not inferior to others.
     ==
 C
   ,
     =={.modern}
-    - Williams does not provide a separate entry for $阿3.
-      I have split it up accordingly.
+    - Williams does not provide a separate entry for $阿3,
+      but notes that $阿3 is "often used" for the name prefix sense.
+      I have split things up accordingly.
     ==
 $$
 
@@ -290,13 +293,13 @@ C
   ,
     =={.modern}
     - Williams does not provide a separate entry for $亞3.
-      I have split it up accordingly.
+      I have split things up accordingly.
     ==
 W
   ,
     [[(Page~2)]]
     ==
-    - [[continued from entry for $亞3]]
+    - [[see $亞3 for the "second/inferior" senses]]
     - a syllable prefixed to proper names,
       for which the second [[$阿3]] is often used;
     - it also impersonates epithets;
@@ -307,7 +310,7 @@ W
       [[阿乜; aa3 mat1]]
       Mr.~So and So;
     - _(a/)(3) p(i/)(6)_
-      [[?]]
+      [[?; aa3 bei6]]
       a silly fellow;
     - _(a/)(3) (1)ch(')o_
       [[阿初; aa3 co1]],
