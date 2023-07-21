@@ -155,6 +155,7 @@ $$
 $$
 W
   ,
+    [[(Page~1)]] <br>
     ==
     - A raven with a white streak on its breast;
     - _(5)l(o\) (1)(a/)_
@@ -185,6 +186,7 @@ A
   , $瘂2
 W
   ,
+    [[(Page~1)]] <br>
     ==
     - The confused noise of children studying;
     - dumb;
@@ -217,6 +219,7 @@ A
   , $啞2
 W
   ,
+    [[(Page~1)]] <br>
     ==
     - Dumb, unable to speak;
     - dull, faded;
