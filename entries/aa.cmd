@@ -6,7 +6,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2023-07-20
+* %date-modified --> 2023-07-21
 * %copyright-prior-years -->
 
 %%%
@@ -25,6 +25,37 @@ _ngat_ [[\J ngat; \C ngat]].
 ##{#1} (1)(A/) [[陰平; \J aa1; \C aa1]]
 
 ### 丫 (U+4E2B)
+
+$$
+A
+  , [[]]
+R
+  , _(1)(a/)_ [[\J aa1; \C aa1]]
+W
+  , [[(Page~1)]] <br>
+    ==
+    - A fork, a crotch;
+    - the parting of two branches, fingers, or tines;
+    - _(1)(a/) (4)t(')au_
+      [[丫頭; \J aa1 tau4; \C aa1 t'au4]]
+      or
+      _(1)(a/) (4)w(a/)n_
+      [[丫鬟; \J aa1 waan4; \C aa1 waan4]],
+      a slave girl;
+    - _(1)(a/) kok(8) kai(3)_
+      [[丫角髻; \J aa1 gok3 gai3; \C aa1 kok8 kai3]]
+      a little boy;
+    - _(1)(a/) (1)ch(')(a/)_
+      [[丫杈; \J aa1 caa1; \C aa1 ch'aa1]],
+      a fork, a rest for clothes' sticks;
+    - _sh(u")(6) (1)(a/)_
+      [[樹丫; \J syu6 aa1; \C sh(u")6 aa1]]
+      fork of a tree;
+    - _(1)s(a/)m (1)(a/) l(o\)(6)_
+      [[三丫路; \J saam1 aa1 lou6; \C saam1 aa1 lou6]]
+      meeting of three ways, a trivium.
+    ==
+$$
 
 ### 吖 (U+5416)
 
