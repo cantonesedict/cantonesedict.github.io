@@ -1,5 +1,5 @@
 OrdinaryDictionaryReplacement: #.syntax.addition-marker-to-class
-* +} --> ' .modern}'
+* +} --> ' -class .modern}'
 
 RegexDictionaryReplacement: #.syntax.character-headings
 - queue_position: BEFORE #headings
@@ -7,7 +7,7 @@ RegexDictionaryReplacement: #.syntax.character-headings
     [ ] (?P<character> \S ) (?P<tone_number> [1-6] )
     [ ] (?P<etc> .* )
     -->
-  ###{#\g<character>\g<tone_number>\g<addition_marker>} \g<character> \g<etc>
+  ###{#\g<character>\g<tone_number> .williams\g<addition_marker>} \g<character> \g<etc>
 - concluding_replacements: #.syntax.addition-marker-to-class
 
 RegexDictionaryReplacement: #heading-permalinks
