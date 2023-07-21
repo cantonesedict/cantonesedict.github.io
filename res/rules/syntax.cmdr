@@ -9,7 +9,7 @@ RegexDictionaryReplacement: #.syntax.character-headings
     [ ] (?P<character> \S )(?P<tone_number> [1-6]? )
     [ ] (?P<code_point_parenthetical> \( U[+][0-9A-F]+ \) )
     -->
-  ###{#\g<character>\g<tone_number>} .\g<character> \g<code_point_parenthetical>
+  ###{#\g<character>\g<tone_number>} .\g<character> <span class="modern">\g<code_point_parenthetical></span>
 
 RegexDictionaryReplacement: #heading-permalinks
 - queue_position: BEFORE #headings
