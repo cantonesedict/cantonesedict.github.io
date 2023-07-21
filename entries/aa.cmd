@@ -51,6 +51,11 @@ W
       [[三丫路; \J saam1 aa1 lou6; \C saam1 aa1 lou6]]
       meeting of three ways, a trivium.
     ==
+C
+  ,
+    =={.modern}
+    - 丫頭 and 丫鬟 for slave girl (or maidservant): slavery was a thing in 1856.
+    ==
 $$
 
 ### 吖 [[U+5416]] [[\J aa1; \C aa1]]
