@@ -25,6 +25,7 @@ RegexDictionaryReplacement: #.syntax.entry-key-abbreviations
 * ^V$ --> ; Reading variations
 * ^W$ --> ; Williams entry
 * ^C$ --> ; Conway's commentary
+* ^S$ --> ; See also
 
 RegexDictionaryReplacement: #.syntax.mark-entry-keys-for-preceding-value
 * \A --> ;{}

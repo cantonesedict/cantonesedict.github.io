@@ -122,6 +122,26 @@ $$
 
 ###+ 啊1 [[U+554A]] [[\J aa1; \C aa1]]
 
+$$
+A
+  , [[$吖; $呀1]]
+V
+  , [[\J a1; \C a1: shorter syllable]]
+W
+  ,
+    [[Not present]]
+C
+  ,
+    =={.modern}
+    - Prefer $吖 or $呀1.
+    ==
+S
+  ,
+    =={.modern}
+    - [`aa#啊3`]
+    ==
+$$
+
 ### 鴉 [[U+9D09]] [[\J aa1; \C aa1]]
 
 
