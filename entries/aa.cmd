@@ -98,6 +98,28 @@ $$
 
 ### 呀1 [[U+5440]] [[\J aa1; \C aa1]]
 
+$$
+A
+  , [[$吖; $啊1]]
+V
+  , [[\J a1; \C a1: shorter syllable]]
+W
+  ,
+    [[(Page~1)]] <br>
+    A colloquial word.
+    ==
+    - An interjection used in answers, denoting surprise or alarm;
+    - alas! dreadful.
+    ==
+    Read _(4)ng(a/)_: [[see [`ngaa#呀`](ngaa#呀)]]. <## TODO ##>
+C
+  ,
+    =={.modern}
+    - Williams does not provide a separate entry for 呀
+      under _(4)ng(a/)_ [[\J ngaa4; \C ngaa4]].
+    ==
+$$
+
 ###+ 啊1 [[U+554A]] [[\J aa1; \C aa1]]
 
 ### 鴉 [[U+9D09]] [[\J aa1; \C aa1]]
@@ -121,3 +143,8 @@ $$
 ### 婭 [[U+5A6D]] [[\J aa3; \C aa3]]
 
 ### 阿 [[U+963F]] [[\J aa3; \C aa3]]
+
+
+##{#6 .modern} (A/)(6) [[陽去; \J aa6; \C aa6]]
+
+###+ 呀6 [[U+5440]] [[\J aa6; \C aa6]]
