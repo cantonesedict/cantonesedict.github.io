@@ -22,8 +22,7 @@ RegexDictionaryReplacement: #heading-permalinks
 
 RegexDictionaryReplacement: #.syntax.entry-key-abbreviations
 * ^A$ --> ; Alternative forms
-* ^R$ --> ; Reading
-* ^RV$ --> ; Reading variations
+* ^V$ --> ; Reading variations
 * ^W$ --> ; Williams entry
 * ^C$ --> ; Conway's commentary
 

@@ -29,7 +29,7 @@ _ngat_ [[\J ngat; \C ngat]].
 $$
 A
   , [[]]
-RV
+V
   , [[]]
 W
   , [[(Page~1)]] <br>
@@ -62,7 +62,7 @@ $$
 $$
 A
   , [[$呀1; $啊]]
-RV
+V
   , [[\J a1; \C a1: shorter syllable]]
 W
   ,
