@@ -28,6 +28,12 @@ footer.modern {
 }
 
 
+h2 {
+  border-bottom: 1px solid black;
+  padding-bottom: 0.2em;
+}
+
+
 header {
   margin-left: calc(-1 * var(--body-padding-horizontal));
   max-width: var(--html-max-width);
