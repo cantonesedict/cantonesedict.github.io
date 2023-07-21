@@ -186,7 +186,7 @@ W
         [[情難啞忍; cing4 naan4 aa2 yan2]],
         hard to bear it patiently.
     ==
-    Also read _ak(7)_ [[ak1]]; [[see [`ak#啞1`]]]. <## TODO ##>
+    Also read _ak(7)_ [[ak1]]; [[see [`ak#啞1`]]].
 C
   ,
     =={.modern}
