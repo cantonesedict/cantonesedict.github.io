@@ -1,6 +1,7 @@
-OrdinaryDictionaryReplacement: #.syntax.williams-class
+OrdinaryDictionaryReplacement: #.syntax.class-abbreviations
 - queue_position: AFTER #comments
-* {w} --> {.williams}
+* {m} --> {-class .modern}
+* {w} --> {-class .williams}
 
 RegexDictionaryReplacement: #.syntax.character-headings
 - queue_position: BEFORE #headings

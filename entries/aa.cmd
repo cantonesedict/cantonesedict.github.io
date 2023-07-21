@@ -48,7 +48,7 @@ W
     - _(2)k(o\)m ts(o\)(6) (a/)_ [[?]], no, this is the way to do it.
     ==
 C
-  ,{.modern}
+  ,{m}
     ==
     - [Jyutping suggests .吖 as the canonical character for aa1.][jpp]
     ==
