@@ -106,7 +106,7 @@ W
     - An interjection used in answers, denoting surprise or alarm;
     - alas! dreadful.
     ==
-    Read _(4)ng(a/)_ [[ngaa4]]: [[see [`ngaa#呀4`]]]. <## TODO ##>
+    Read _(4)ng(a/)_ [[ngaa4]]: [[see [`ngaa#呀4`]]].
 C
   ,
     =={.modern}
