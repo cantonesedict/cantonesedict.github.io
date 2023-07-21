@@ -238,11 +238,21 @@ $$
 $$
 A
   , $阿3
+W
+  ,
+    [[(Page~2)]]
+    ==
+    - Hunchbacked;
+    - to esteem lightly, to regard as inferior;
+    - second, next to, junior, inferior;
+    - a syllable prefixed to proper names,
+      for which the second [[$阿3]] is often used [[see [`aa#阿3`]]];
+    ==
 C
   ,
     =={.modern}
-    - Williams considers $亞3 and $阿3 interchangeable.
-      I have split the Williams entry by modern usage.
+    - Williams does not provide a separate entry for $阿3.
+      I have split it up accordingly.
     ==
 $$
 
@@ -279,8 +289,35 @@ A
 C
   ,
     =={.modern}
-    - Williams considers $亞3 and $阿3 interchangeable.
-      I have split the Williams entry by modern usage.
+    - Williams does not provide a separate entry for $亞3.
+      I have split it up accordingly.
+    ==
+W
+  ,
+    [[(Page~2)]]
+    ==
+    - [[continued from entry for $亞3]]
+    - a syllable prefixed to proper names,
+      for which the second [[$阿3]] is often used;
+    - it also impersonates epithets;
+    - _(a/)(3) m(u/)i(6)_
+      [[阿妹; aa3 mui6-2]]
+      a younger sister, a lass;
+    - _(a/)(3) mat(7)_
+      [[阿乜; aa3 mat1]]
+      Mr.~So and So;
+    - _(a/)(3) p(i/)(6)_
+      [[?]]
+      a silly fellow;
+    - _(a/)(3) (1)ch(')o_
+      [[阿初; aa3 co1]],
+      a raw hand [[new guy]];
+    - _(a/)(3) (1)p(a/)_
+      [[阿爸; aa3 baa1]],
+      papa;
+    - _(a/)(3) (5)t(')ai_
+      [[阿娣; aa3 tai5]],
+      boy, you lad [[dated]];
     ==
 $$
 
