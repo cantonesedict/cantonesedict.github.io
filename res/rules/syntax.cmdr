@@ -27,7 +27,7 @@ RegexDictionaryReplacement: #.syntax.entry-link
 RegexDictionaryReplacement: #.syntax.entry-key-abbreviations
 * ^A$ --> ; Alternative forms
 * ^V$ --> ; Reading variations
-* ^W$ --> ; Williams entry
+* ^W$ --> ; Williams (1856) entry
 * ^C$ --> ; Conway's remarks
 * ^S$ --> ; See also
 
