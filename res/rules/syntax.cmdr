@@ -5,6 +5,11 @@ OrdinaryDictionaryReplacement: #.syntax.class-abbreviations
 
 RegexDictionaryReplacement: #.syntax.character-headings
 - queue_position: BEFORE #headings
+* ^[#]{3} [+]
+    [ ] (?P<character> \S )(?P<tone_number> [1-6]? )
+    [ ] (?P<code_point_parenthetical> \( U[+][0-9A-F]+ \) )
+    -->
+  ###{#\g<character>\g<tone_number> .modern} \g<character> <span class="modern">\g<code_point_parenthetical></span>
 * ^[#]{3}
     [ ] (?P<character> \S )(?P<tone_number> [1-6]? )
     [ ] (?P<code_point_parenthetical> \( U[+][0-9A-F]+ \) )
@@ -15,7 +20,7 @@ RegexDictionaryReplacement: #heading-permalinks
 - queue_position: BEFORE #headings
 * (?P<opening_hashes_etc>
     [#]{2,6}
-    \{ [#] (?P<id_> [\S]+ ) \}
+    \{ [#] (?P<id_> [\S]+ ) (?P<etc> .*? ) \}
     [\s]+
   )
     -->
