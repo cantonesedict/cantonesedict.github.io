@@ -54,7 +54,7 @@ W
 C
   ,
     =={.modern}
-    - 丫頭 and 丫鬟 for slave girl (or maidservant): slavery was a thing in 1856.
+    - 丫頭 and 丫鬟 for slave girl (or maidservant): it's 1856.
     ==
 $$
 
