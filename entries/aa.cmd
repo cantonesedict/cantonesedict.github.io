@@ -378,6 +378,16 @@ $$
 ###+ 呀4 [[U+5440]] _(4)(a/)_ [[aa4]]
 
 $$
+V
+  , [[a4: shorter syllable]]
+W
+  , [[Not present]]
+C
+  ,
+    =={.modern}
+    - Final particle of surprise, suspicion, disappointment, etc.
+    - [Jyutping suggests using 呀 as the canonical character for aa4.][jpp]
+    ==
 S
   ,
     =={.modern}
