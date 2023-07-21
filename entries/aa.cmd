@@ -28,7 +28,7 @@ _ngat_ [[ngat]].
 
 $$
 W
-  , [[(Page~1)]] <br>
+  , [[Page~1]] <br>
     ==
     - A fork, a crotch;
     - the parting of two branches, fingers, or tines;
@@ -62,7 +62,7 @@ V
   , [[a1: shorter syllable]]
 W
   ,
-    [[(Page~1)]] <br>
+    [[Page~1]] <br>
     A colloquial word.
     ==
     - An interrogative particle;
@@ -100,7 +100,7 @@ V
   , [[a1: shorter syllable]]
 W
   ,
-    [[(Page~1)]] <br>
+    [[Page~1]] <br>
     A colloquial word.
     ==
     - An interjection used in answers, denoting surprise or alarm;
@@ -149,7 +149,7 @@ $$
 $$
 W
   ,
-    [[(Page~1)]] <br>
+    [[Page~1]] <br>
     ==
     - A raven with a white streak on its breast;
     - _(5)l(o\) (1)(a/)_
@@ -174,7 +174,7 @@ A
   , $瘂2
 W
   ,
-    [[(Page~1)]] <br>
+    [[Page~1]] <br>
     ==
     - The confused noise of children studying;
     - dumb;
@@ -207,7 +207,7 @@ A
   , $啞2
 W
   ,
-    [[(Page~1)]] <br>
+    [[Page~1]] <br>
     ==
     - Dumb, unable to speak;
     - dull, faded;
@@ -241,7 +241,7 @@ V
   , [[a3: shorter syllable]]
 W
   ,
-    [[(Page~2)]] <br>
+    [[Page~2]] <br>
     ==
     - Hunchbacked;
     - to esteem lightly, to regard as inferior;
@@ -269,7 +269,7 @@ V
   , [[a3: shorter syllable]]
 W
   ,
-    [[(Page~1)]] <br>
+    [[Page~1]] <br>
     A colloquial word.
     ==
     - A final particle, adding intensity to the meaning;
@@ -320,7 +320,7 @@ $$
 $$
 W
   ,
-    [[(Page~2)]] <br>
+    [[Page~2]] <br>
     ==
     - Brothers-in-law;
     - _(1)yan (a/)(3)_
@@ -345,7 +345,7 @@ C
     ==
 W
   ,
-    [[(Page~2)]] <br>
+    [[Page~2]] <br>
     ==
     - [[see $亞3 for the "second/inferior" senses]]
     - a syllable prefixed to proper names,
@@ -398,7 +398,7 @@ V
   , [[a6: shorter syllable for elided "ten" sense]]
 W
   ,
-    [[(Page~1)]] <br>
+    [[Page~1]] <br>
     A colloquial word. [[...]]
     ==
     - ten, used after a higher number;
