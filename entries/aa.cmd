@@ -235,6 +235,15 @@ $$
 
 ### 亞3 [[U+4E9E]] _(a/)(3)_ [[aa3]]
 
+$$
+C
+  ,
+    =={.modern}
+    - Williams considers $亞3 and $阿3 interchangeable.
+      I have split the Williams entry by modern usage.
+    ==
+$$
+
 ### 呀3 [[U+5440]] _(a/)(3)_ [[aa3]]
 
 $$
@@ -261,6 +270,15 @@ $$
 ### 婭3 [[U+5A6D]] _(a/)(3)_ [[aa3]]
 
 ### 阿3 [[U+963F]] _(a/)(3)_ [[aa3]]
+
+$$
+C
+  ,
+    =={.modern}
+    - Williams considers $亞3 and $阿3 interchangeable.
+      I have split the Williams entry by modern usage.
+    ==
+$$
 
 
 ##{#4 .modern} (4)(A/) [[陽平; aa4]]
