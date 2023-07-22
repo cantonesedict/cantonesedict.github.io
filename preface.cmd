@@ -17,6 +17,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 [v]: https://archive.org/details/tonicdictionaryo00will/page/n8/mode/1up
 [vi]: https://archive.org/details/tonicdictionaryo00will/page/n9/mode/1up
+[vii]: https://archive.org/details/tonicdictionaryo00will/page/n10/mode/1up
+[viii]: https://archive.org/details/tonicdictionaryo00will/page/n11/mode/1up
 
 
 --{.williams}
@@ -98,6 +100,7 @@ illustrated.
 
 --{.williams}
 The difficulties in making a complete Anglo--Chinese lexicon result from three causes. _First_, the vast extent of the literature, running
+[[[Page~vii][vii] here]]
 through many ages, naturally involve changes in the use of words
 by so many authors of different degrees of intellect, genius, and
 learning. The same word has been used by these authors to
@@ -122,4 +125,29 @@ to the preparation of a complete lexicon in the Chinese language.
 No one has yet sat down to the work unfettered by other engagements,
 and willing to spend his life in making a full dictionary of
 this language.
+--
+
+--{.williams}
+This volume will assist in learning to speak the Canton dialect,
+and as the meanings of the characters are the same, any one can
+use it in translating. It is as suitable for learning the Court dialect
+as Morrison's is for learning the Canton or Ti(e/)chi(u/) [[潮州]] dialects; and
+those who are unable to procure the larger works, may find aid in
+it to enable them to read ChinevSe books. It has been prepared
+with care, by consulting previous works and a large collection of
+phrases written out by competent natives, and the meanings synthetically
+made up from the examples in which they occur. The
+space did not permit a large portion of these phrases to be explained
+as fully as would have been desirable to understand their application.
+Technical uses of words in law, medicine, astrology, poetry, and
+such science as the Chinese possess, have not been very extensively
+[[[Page~viii][viii] here]]
+collected hitherto; this work probably contains a few more than
+any other, and perhaps expressed a little more definitely. It is no
+assistance to a foreigner to know that _(5)l(i/)_ [[鯉; lei5]] is the name of a fish, or
+_(1)ying_ [[鷹; jing1]] the name of a bird, or _(4)hang_ [[恆; hang4]] the name of a mountain,
+though these words may convey to a Chinese as definite an idea as the words
+_carp_, _eagle_, or _Alps_, do to an Englishman. Yet in most cases
+only an approximation can yet be made to defining hundreds of such
+words.
 --
