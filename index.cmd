@@ -9,6 +9,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 * %date-modified --> 2023-07-22
 * %copyright-prior-years -->
 
+OrdinaryDictionaryReplacement: #.no-black-serif-note
+- queue_position: AFTER #.boilerplate.footer
+* %black-serif-note -->
+
 %%%
 
 #{.modern} Cantonese Dictionary
