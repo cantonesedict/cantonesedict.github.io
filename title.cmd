@@ -20,11 +20,33 @@ OrdinaryDictionaryReplacement: #.properties-override
 --{.williams .title-information}
 咸豐丙辰年鐫
 --
+
+--{.modern}
+[[lit. Engraved Ping-shan Year of H(a/)m-fung = 1856]]
+--
+=={.modern}
+- [[丙辰 Ping-shan: year 53/60 of the [sexagenary cycle]<` `>]]
+- [[咸豐 H(a/)m-fung: [Emperor Hsien-fêng], penultimate of the Ts(')ing Dynasty]]
+- [[Fun fact: 咸豐年 is now a Cantonese phrase meaning "ages ago"]]
+==
+
+[sexagenary cycle]: https://en.wikipedia.org/wiki/Sexagenary_cycle
+[Emperor Hsien-fêng]: https://en.wikipedia.org/wiki/Xianfeng_Emperor
+
 --{.williams .title-information}
 衛三畏廉士甫編譯
 --
+
+--{.modern}
+[[lit. Edited [by] Mr Samuel Wells Williams]]
+--
+
 --{.williams .title-information}
 羊城中和行梓行
+--
+
+--{.modern}
+[[lit. Printed Chung-wo Hong of [the] City of Rams = Canton]]
 --
 
 ||{.image-container}
