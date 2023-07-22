@@ -35,6 +35,9 @@ h2 {
   border-bottom: 1px solid black;
   padding-bottom: 0.2em;
 }
+h2.modern {
+  border-bottom: 1px solid var(--modern-colour);
+}
 
 
 header {
