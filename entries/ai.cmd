@@ -100,3 +100,43 @@ W
         hung by the neck.
     ==
 $$
+
+### 翳3 [[U+7FF3]] _ai(3)_ [[ai3]]
+
+$$
+W
+  ,
+    [[Page~2]] <br>
+    ==
+    - A feather fan or screen, a flabellum;
+    - to screen, to intercept;
+    - to seclude from observation;
+    - to keep close, to repress;
+    - to destroy;
+    - anything that intercepts;
+    - an obscurity in the eyes;
+    - trees dying;
+    - a fabulous sort of pheasant.
+    ==
+    A colloquial word.
+    ==
+    - Feverish;
+    - sultry, hot;
+    - hurried breathing, a stricture in the breast;
+    - _ai(3) h(i/)(3)_
+        [[]]
+        difficulty of breathing;
+    - _ai(3) (i/)t(9)_
+        [[]]
+        hot weather;
+    - _(1)shan (2)tsz' ai(3) (i/)t(9)_
+        [[]]
+        feverish;
+    - _ai(3) fai(3)_
+        [[]]
+        to feel grieved;
+    - _ai(3) chai(6)_
+        [[]]
+        indigestible.
+    ==
+$$
