@@ -151,3 +151,26 @@ _carp_, _eagle_, or _Alps_, do to an Englishman. Yet in most cases
 only an approximation can yet be made to defining hundreds of such
 words.
 --
+
+--{.williams}
+With these remarks this Dictionary is offered to students in Chinese,
+and especially to those who are engaged in the excellent work
+of enlightening this people in true religion and science. It is a
+freewill offering to the cause of missions in China. The sheets were
+necessarily struck off as fast as they were written, and a printing-office
+was carried on at the same time to obtain the funds to print
+them with. The proof sheets were kindly looked over by Rev.~John B.~French,
+to whose careful examination of the tones and sounds
+the work owes much of its accuracy. A few errors in the tones,
+aspirates, and sounds of the words have unavoidably crept in, some
+of have already been noticed, but it has not been thought
+necessary to make out a full list of errata.
+--
+
+--{.williams .sign-off}
+S.~W.~W. [[Samuel Wells Williams]]
+--
+
+--{.williams}
+Canton, August~1st, 1856.
+--
