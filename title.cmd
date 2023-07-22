@@ -50,5 +50,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 --
 
 ||{.image-container s="margin: 2em 0"}
-  ![A scan of the title page of the 1856 Tonic Dictionary.](tonic-title-page.jpg)
+  [![A scan of the title page of the 1856 Tonic Dictionary.][scan]][title-page]
 ||
+
+[scan]: tonic-title-page.jpg
+[title-page]: https://archive.org/details/tonicdictionaryo00will/page/n12/mode/1up
