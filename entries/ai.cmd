@@ -79,3 +79,24 @@ C
       in the "low stool" example.
     ==
 $$
+
+
+##{#3 .williams} Ai(3) [[陰去; ai3]]
+
+### 縊3 [[U+7E0A]] _ai(3)_ [[ai3]]
+
+$$
+W
+  ,
+    [[Page~2]] <br>
+    ==
+    - To hang, to strangle one's self;
+    - the warp of cloth;
+    - _ai(3) (2)sz' (2)kwai_
+        [[縊死鬼; ai3 sei2 gwai2]],
+        ghost of a suicide;
+    - _ai(3) (2)keng_
+        [[縊頸; ai3 geng2]],
+        hung by the neck.
+    ==
+$$
