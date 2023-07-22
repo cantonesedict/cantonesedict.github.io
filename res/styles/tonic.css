@@ -22,6 +22,11 @@ body > nav {
 }
 
 
+dt {
+  font-weight: bold;
+}
+
+
 footer {
   border-top: 2px solid black;
   margin-top: 3em;
@@ -83,8 +88,15 @@ ins {
   text-decoration: none;
 }
 
-dt {
-  font-weight: bold;
+img {
+  align-self: center;
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+
+.image-container {
+  text-align: center;
 }
 
 .modern {
