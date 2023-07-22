@@ -83,6 +83,32 @@ $$
 
 ##{#3 .williams} Ai(3) [[陰去; ai3]]
 
+### 屭3 [[U+5C6D]] _ai(3)_ [[ai3]]
+
+$$
+V
+  , [[hei3: for literary senses]]
+W
+  ,
+    [[Page~2]] <br>
+    ==
+    - Strong, herculean, athletic.
+    ==
+    A colloquial word;
+    ==
+    - grief, sorrow;
+    - _pai(3) ai(3)_
+        [[贔屭; bai3 ai3]]
+        trouble, resulting from affliction or poverty.
+    ==
+C
+  ,
+    =={.modern}
+    - The expected Cantonese reflex is hei3 from the olden rime books
+      (which have 虛器切 and 許意切).
+    ==
+$$
+
 ### 縊3 [[U+7E0A]] _ai(3)_ [[ai3]]
 
 $$
