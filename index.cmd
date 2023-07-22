@@ -29,11 +29,11 @@ by [Samuel Wells Williams].
 ##{#modern .modern} Modernisation
 
 --{.modern}
-The version of ''Tonic Dictionary'' used as a base reference is
+The version of ''Tonic Dictionary'' used as the base reference is
 [ark:/13960/t0ps1ph66 at archive.org][tonic].
 --
 --{.modern}
-Modernisation is a solo effort by Conway, consisting of:
+The modernisation is a solo effort by Conway, consisting of:
 --
 ++{.modern}
 1. Transcribing its entries <span class="williams">(black serif text)</span>;
