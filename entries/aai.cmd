@@ -63,3 +63,26 @@ W
         towards evening.
     ==
 $$
+
+
+##{#3 .williams} (A/)i(3) [[陰去; aai3]]
+
+### 隘3 [[U+9698]] _(a/)i(3)_ [[aai3]]
+
+$$
+W
+  ,
+    [[Page~3]] <br>
+    ==
+    - A pass, a defile;
+    - narrow, confined, straitened; distressed, urgent;
+    - narrowminded, mean;
+    - impeded, stopped up;
+    - _(4)yan k(o\)m(3) (a/)i(3)_
+        [[人咁隘; jan4 gam3 aai3]]
+        way is all crowded, a jam;
+    - _h(a/)p(9) (a/)i(3)_
+        [[狹隘; haap6 aai3]]
+        narrow as a pass; a contracted mind.
+    ==
+$$
