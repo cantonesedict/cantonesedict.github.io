@@ -16,6 +16,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 [[From [Page~v of the original][v] onwards.]]
 
 [v]: https://archive.org/details/tonicdictionaryo00will/page/n8/mode/1up
+[vi]: https://archive.org/details/tonicdictionaryo00will/page/n9/mode/1up
 
 
 --{.williams}
@@ -44,4 +45,28 @@ hand if no other. There is, indeed, always a chance of meeting
 with an unusual character, as the name of a person or place, in
 any book one may take up; and for these the fullest dictionary is
 the most satisfactory.
+--
+
+--{.williams}
+This work contains 7850 characters, including a few common
+abbreviations and duplicate forms. Its plan is stated on page~xxxiii
+of the Introduction, and it is hoped that it will be found to work
+well in practice. How the work itself has been performed, and
+whether it is any advance on what has been already done, will be
+decided by those who use it. With the books already published,
+[[[Page~vi][vi] here]]
+it will form a tolerably complete apparatus for learning the Canton
+dialect, though not all that is wanted. These works are five, _viz._---
+--
+=={.williams}
+- Vocabulary of the Canton Dialect, 3~Parts. By R.~Morrison. 1827.
+- The Beginner's First Book in Chinese. (Canton Vernacular). 1847.
+- A Chinese Chrestomathy in the Canton Dialect. By E.~C.~Bridgman. 1841.
+- Easy Lessons in Chinese, specially adapted to the Canton Dialect. By S.~W.~Williams, 1842.
+- A Vocabulary with Colloquial Phrases of the Canton Dialect. By S.~W.~Bonney, 1854.
+==
+--{.williams}
+The first two are out of print; the next two contain also some
+directions and exercises for learning the general language, the sounds
+alone being in this dialect.
 --
