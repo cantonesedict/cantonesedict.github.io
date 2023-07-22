@@ -38,7 +38,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 --
 
 --{.modern}
-[[lit. Edited [by] Mr Samuel Wells Williams]]
+[[lit. Compiled [by] Mr Samuel Wells Williams]]
 --
 
 --{.williams .title-information}
