@@ -95,3 +95,31 @@ now become important and common. These generally have yet to
 be carefully collected from good authors, and their application
 illustrated.
 --
+
+--{.williams}
+The difficulties in making a complete Anglo--Chinese lexicon result from three causes. _First_, the vast extent of the literature, running
+through many ages, naturally involve changes in the use of words
+by so many authors of different degrees of intellect, genius, and
+learning. The same word has been used by these authors to
+denote different shades of meaning, and it is a great labor to trace
+out these meanings. _Second_, it is not easy to find exact equivalents
+for Chinese words in European languages. Even in concrete things,
+as 書, 筆, 鞋, 船, the differences are numerous, and require
+explanation before calling them a _book_, a _pencil_, a _shoe_, or a _ship_;
+how much more unlike must they be when mental, religious, or
+poetical terms are to be explained by words from languages so dissimilar
+as English and Chinese. The Chinese, like other nations,
+necessarily describe their mental and abstract thoughts by words
+derived from sensible objects, and the scope and application of such
+words are familiar to them, but not so to the foreigner, whose mind
+has been trained differently. What adds to this difficulty is the
+vague and erroneous ideas the Chinese have respecting many things,
+which embarrasses one who tries to define them by the more precise
+words of his own language. _Third_, the years of study which are
+required in a wearisome climate before a foreigner is even partially
+fitted for making a dictionary, has also proved a serious hindrance
+to the preparation of a complete lexicon in the Chinese language.
+No one has yet sat down to the work unfettered by other engagements,
+and willing to spend his life in making a full dictionary of
+this language.
+--

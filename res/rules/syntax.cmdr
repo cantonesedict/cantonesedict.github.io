@@ -135,6 +135,9 @@ OrdinaryDictionaryReplacement: #.syntax.typography
 # U+2014 EM DASH
 *   --- --> —
 #
+# U+2013 EN DASH
+*   -- --> –
+#
 # U+02BB MODIFIER LETTER TURNED COMMA
 *   (') --> ʻ
 
