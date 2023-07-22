@@ -65,10 +65,6 @@ for the sensitivities of 21st century readers.**
 
 ##{#contents .modern} Contents
 
---{.modern}
-Work in progress.
---
-
 <nav>
 ===={.modern}
 -{.williams} [Preface](/preface)
