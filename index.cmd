@@ -43,6 +43,8 @@ Modernisation is a solo effort by Conway, consisting of:
    the Ts'ing Dynasty Cantonese recorded by Williams
    and modern Hong Kong Cantonese);
 
+1. Under each Jyutping pronunciation, sorting the entries by Unicode code point;
+
 1. Inserting characters and Jyutping (purple sans-serif text)
    in the romanisation-only examples, where practicable;
 
