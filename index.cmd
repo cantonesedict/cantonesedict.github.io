@@ -8,6 +8,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 * %title --> Home
 * %date-modified --> 2023-07-22
 * %copyright-prior-years -->
+* %modern-colour --> purple
 
 OrdinaryDictionaryReplacement: #.no-black-serif-note
 - queue_position: AFTER #.boilerplate.footer
@@ -45,13 +46,13 @@ The modernisation is a solo effort by Conway, consisting of:
 
 1. Under each Jyutping pronunciation, sorting the entries by Unicode code point;
 
-1. Inserting Jyutping (purple sans-serif text)
+1. Inserting Jyutping (%modern-colour sans-serif text)
    alongside the Williams romanisation of entries;
 
-1. Inserting characters and Jyutping (purple sans-serif text)
+1. Inserting characters and Jyutping (%modern-colour sans-serif text)
    alongside the romanisation-only examples, where practicable;
 
-1. Inserting remarks (purple sans-serif text)
+1. Inserting remarks (%modern-colour sans-serif text)
    and cross-reference links (blue);
 
 1. Adding entries for some characters that were not recorded by Williams.
