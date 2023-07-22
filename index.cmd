@@ -69,7 +69,7 @@ for the sensitivities of 21st century readers.**
 ===={.modern}
 -{.williams} [Preface](/preface)
 -{.williams} [Title Page: 《英華分韻撮要》](/title)
--{.williams} Introduction [[TODO]]
+-{.williams} [Introduction](/intro)
 - [Index of entries by Jyutping slug](/entries/)
 ====
 </nav>
