@@ -109,6 +109,18 @@ C
     ==
 $$
 
+### 曀3 [[U+66C0]] _ai(3)_ [[ai3]]
+
+$$
+W
+  ,
+    [[Page~2]] <br>
+    ==
+    - Cloudy and windy;
+    - the sun obscured and nearly hid by the clouds.
+    ==
+$$
+
 ### 縊3 [[U+7E0A]] _ai(3)_ [[ai3]]
 
 $$
