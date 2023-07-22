@@ -70,7 +70,7 @@ Work in progress.
 
 <nav>
 ===={.modern}
--{.williams} Preface [[TODO]]
+-{.williams} [Preface](/preface)
 -{.williams} Introduction [[TODO]]
 - [Index of entries by Jyutping slug](/entries/)
 ====
