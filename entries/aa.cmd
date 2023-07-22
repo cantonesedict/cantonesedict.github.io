@@ -183,7 +183,7 @@ W
         [[啞謎; aa2 mai6]]
         an enigma;
     - _(4)ts(')ing (4)n(a/)n (2)(a/) (2)yan_
-        [[情難啞忍; cing4 naan4 aa2 yan2]],
+        [[情難啞忍; cing4 naan4 aa2 jan2]],
         hard to bear it patiently.
     ==
     Also read _ak(7)_ [[ak1]]; [[see [`ak#啞1`]]].
