@@ -19,6 +19,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 [ix]: https://archive.org/details/tonicdictionaryo00will/page/n14/mode/1up
 [x]: https://archive.org/details/tonicdictionaryo00will/page/n15/mode/1up
+[xi]: https://archive.org/details/tonicdictionaryo00will/page/n16/mode/1up
 
 
 ##{#canton} 1. The Canton Dialect
@@ -158,3 +159,50 @@ leading dialects of this provkice, but the variations as one goes from
 Ch(a/)uchau~f(u/) [[潮州府]] westward to Canton city, are numberless, nearly every
 village exhibiting some peculiarities in the sounds of a few words.
 --
+
+--{.williams}
+[[[Page~xi][xi] here]]
+The standard of pronunciation for the Canton dialect is a small
+duodecimo handbook, sometimes issued separately, but more frequently
+combined with a letter-writer and forms of invitation, cards,
+funeral eulogies, &c., so that one may help to sell the other. It is
+called _Kong-(u/) ch(')ik-tuk, Fan-wan ts(')(u")t-i(u/) h(o\)p ts(a/)p_
+[[gong wu cik duk fan wan cyut jiu hap zaap]] 江湖尺牘分韻撮要合集
+Letters for Travelers and a Collection of
+Important Characters divided by their Tones. The preface of the
+work is a mere bookseller's recommendation, and gives no hints upon
+the motives or principles which guided the compilers in arranging
+the characters. It is as follows:---
+--
+""""{.williams}
+[[See [《江湖分韻序》 at National Library of Australia Trove.][序]<` `>]]
+
+[序]: https://nla.gov.au/nla.obj-56620350/view?partId=nla.obj-56620571#page/n2/mode/1up
+--
+Books giving the sounds of characters, and forms for letter-writers,
+are among the most common works in bookstores; but the
+largest of them are so cumbrous and bulky as to be troublesome to
+refer to, while the smaller kinds are too condensed to be satisfactory
+for reference. Consequently, neither of them are well suited for
+convenient use. W(u/) Hioh-p(u/) of Y(u/)-sh(a/)n, and Wan K(')i-shih of
+W(u/)-k(')(i/) have, however, jointly arranged a collection of words by
+their tones, and an assortment of letters for the use of traders in
+their travels, which are both comprehensive and brief, giving the
+kernel of the matter. The two works assist each other; and as
+they are not too large to carry about with one, they are also full and
+easy of reference; for as it would be inexpedient to require the purchaser
+to get two bulky books at a high price, they are now combined
+into a single neat 'sleeve gem,' and arranged on the top and
+bottom of the page; so that if one is in doubt respecting the meaning
+of a character, he can readily look it up among the classes of
+sounds; and if he does not know the exact sound, it will not be
+troublesome to gather it from the reading. Thus one part of the
+volume will help the other, like a carriage and a boat when one is
+traveling by land and water, both having their appropriate uses and
+position. Those who are learned will appreciate the propriety of
+these remarks. A prefatory note.
+--
+--
+Summer of 1782.
+--
+""""

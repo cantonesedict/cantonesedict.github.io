@@ -8,6 +8,18 @@
 }
 
 
+blockquote {
+  border-left: 3px solid grey;
+  padding: 0 1em 0;
+}
+blockquote p::before {
+  content: '“';
+}
+blockquote p:last-of-type::after {
+  content: '”';
+}
+
+
 body {
   background: white;
   font-family: var(--modern-font);
