@@ -49,6 +49,6 @@ OrdinaryDictionaryReplacement: #.properties-override
 [[lit. Printed Chung-wo Hong of [the] City of Rams = Canton]]
 --
 
-||{.image-container}
+||{.image-container s="margin: 2em 0"}
   ![A scan of the title page of the 1856 Tonic Dictionary.](tonic-title-page.jpg)
 ||
