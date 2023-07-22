@@ -140,3 +140,14 @@ W
         indigestible.
     ==
 $$
+
+### 𦠉3 = ⿰⺼壹 [[U+26809]] _ai(3)_ [[ai3]]
+
+$$
+W
+  ,
+    [[Page~2]] <br>
+    ==
+    - Lean, cadaverous, meager, poor.
+    ==
+$$
