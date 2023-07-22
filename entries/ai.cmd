@@ -30,7 +30,7 @@ W
     - A particle of surprise or pain;
     - to beg, to ask;
     - _(1)ai (1)y(a/)_,
-        [[哎吔; ai1 yaa1]]
+        [[哎吔; ai1 jaa1]]
         whew! halloo! oh, dear!
     - _(1)ai, mat(7) (5)n(i/) (2)k(o\)m ts(o\)(6)_
         [[哎、乜你噉做; ai1, mat1 nei5 gam2 zou6]]
