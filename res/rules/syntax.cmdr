@@ -120,6 +120,9 @@ OrdinaryDictionaryReplacement: #.syntax.diacritics
 # U+00F2 LATIN SMALL LETTER O WITH GRAVE
 *   (o\) --> ò
 #
+# U+00F9 LATIN SMALL LETTER U WITH GRAVE
+*   (u\) --> ù
+#
 # U+00FA LATIN SMALL LETTER U WITH ACUTE
 *   (u/) --> ú
 #

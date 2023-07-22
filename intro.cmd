@@ -143,3 +143,18 @@ Unlike what exists in the province of Fuhkien, here there is not so
 great a difference between the language as spoken and read, as to
 require almost the acquisition of a double medium.
 --
+
+--{.williams}
+The variations between the Ti(e/)chi(u/) and Canton dialects consist
+in changes in both initials and finals, each having some sounds
+which are unknown, or very uncommon in the other. For instance,
+the initials _sh_ or _f_ are not found in the Ti(e/)chi(u/), or the initials _b_ [[voiced [b], not voiceless [p]<` `>]],
+_lw_, or _mw_ in the Canton; the oblique sound of _(u\)_ in _turn_ is one of
+most common finals in the former, and one of the rarest in the latter;
+there are no nasal sounds in the Canton, and no words ending with
+the finals _i(a/)ng_, _i(a/)k, both of which are common in the Ti(e/)chi(u/).
+These differences are among the most noticeable between the two
+leading dialects of this provkice, but the variations as one goes from
+Ch(a/)uchau~f(u/) [[潮州府]] westward to Canton city, are numberless, nearly every
+village exhibiting some peculiarities in the sounds of a few words.
+--
