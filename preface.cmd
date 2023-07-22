@@ -13,7 +13,9 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 #{.williams} %title
 
+--{.modern}
 [[From [Page~v of the original][v] onwards.]]
+--
 
 [v]: https://archive.org/details/tonicdictionaryo00will/page/n8/mode/1up
 [vi]: https://archive.org/details/tonicdictionaryo00will/page/n9/mode/1up
