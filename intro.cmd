@@ -175,9 +175,9 @@ the motives or principles which guided the compilers in arranging
 the characters. It is as follows:---
 --
 """"{.williams}
-[[See [《江湖分韻序》 at National Library of Australia Trove.][序]<` `>]]
+[[See [《江湖分韻序》 at ctext.org.][序]<` `>]]
 
-[序]: https://nla.gov.au/nla.obj-56620350/view?partId=nla.obj-56620571#page/n2/mode/1up
+[序]: https://ctext.org/library.pl?if=gb&file=103313&page=9
 --
 Books giving the sounds of characters, and forms for letter-writers,
 are among the most common works in bookstores; but the
