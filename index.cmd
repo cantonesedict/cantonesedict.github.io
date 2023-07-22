@@ -45,8 +45,11 @@ Modernisation is a solo effort by Conway, consisting of:
 
 1. Under each Jyutping pronunciation, sorting the entries by Unicode code point;
 
+1. Inserting Jyutping (purple sans-serif text)
+   alongside the Williams romanisation of entries;
+
 1. Inserting characters and Jyutping (purple sans-serif text)
-   in the romanisation-only examples, where practicable;
+   alongside the romanisation-only examples, where practicable;
 
 1. Inserting remarks (purple sans-serif text)
    and cross-reference links (blue);
