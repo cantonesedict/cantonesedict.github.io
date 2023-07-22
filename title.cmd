@@ -17,13 +17,13 @@ OrdinaryDictionaryReplacement: #.properties-override
 [[lit. "Anglo--Chinese Rime-Divided Handpicked Essentials"]]
 --
 
---{.williams}
+--{.williams .title-information}
 咸豐丙辰年鐫
 --
---{.williams}
+--{.williams .title-information}
 衛三畏廉士甫編譯
 --
---{.williams}
+--{.williams .title-information}
 羊城中和行梓行
 --
 

@@ -120,3 +120,7 @@ img {
   color: black;
   font-family: var(--olden-font);
 }
+
+.title-information {
+  font-size: 1.5em;
+}
