@@ -18,6 +18,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 --
 
 [ix]: https://archive.org/details/tonicdictionaryo00will/page/n14/mode/1up
+[x]: https://archive.org/details/tonicdictionaryo00will/page/n15/mode/1up
 
 
 ##{#canton} 1. The Canton Dialect
@@ -52,4 +53,93 @@ mandarin dialect, that those speaking only the latter do not understand
 them; and when they come to Canton as officers, are always
 obliged to employ interpreters to explain to them the depositions
 made in their courts by the common people.
+--
+
+--{.williams}
+[[[Page~x][x] here]]
+The variations between the court and Canton dialects, in the
+pronunciation of the great body of characters, are so regular as to
+enable one to guess with a tolerable degree of certainty, what their
+sounds are in the other, the more so because the variations are
+chiefly in the finals, and not so numerous in the initials, as is the
+case in some of the Fuhkien [[福建]] patois. The unusual changes nearly
+all occur in characters having the fourth tone [[入聲 of Middle Chinese, not of modern Mandarin]]. The most common
+changes in the finals are here given:---
+--
+||||{.wide}
+''
+|^
+  //
+    ; Court
+    ; Canton
+    ; [Court]
+    ; Canton.
+|:
+  //
+    , _(a/)u_ and _i(a/)u_
+    , into _i(u/)_ [[iu]];
+    , as _ch(a/)u_, _li(a/)u_
+    , into _chi(u/)_ [[ziu]], _li(u/)_ [[liu]].;
+  //
+    , _i(a/)ng_
+    , into _(e/)ung_ [[oeng]];
+    , as _si(a/)ng_, _ni(a/)ng_
+    , into _s(e/)ung [[soeng]], n(e/)ung_ [[noeng]].
+  //
+    , _in_ and _un_
+    , into _an_ [[an]] and _un_ [[eon]]
+    , as _kin_, _chin_,
+    , into _kan_ [[gan]], _chun_ [[zeon]].
+  //
+    , _iueh_
+    , into _(u")t_ [[yut]];
+    , as _liueh_, _chueh_,
+    , into _l(u")t_ [[lyut]], _ch(u")t_ [[zyut]].
+  //
+    , _(a/)ng_
+    , into _ong_ [[ong]];
+    , as _kw(a/)ng_, _p(a/)ng_
+    , into _kwong_ [[gwong]], _pong_ [[bong]].
+  //
+    , _iuen_
+    , into _(u")n_ [[yun]];
+    , as _hiuen_, _kiuen_,
+    , into _h(u")n_ [[hyun]], _k(u")n_ [[gyun]].
+  //
+    , _ui_
+    , into _(u/)i_ [[ui]];
+    , as _hwui_
+    , into _f(u/)i_ [[fui]].
+  //
+    , _i(a/)i_
+    , into _(a/)i_ [[aai]];
+    , as _ki(a/)i_, _hi(a/)i_
+    , into _k(a/)i_ [[gaai]], _h(a/)i_ [[haai]].
+  //
+    , _ih_
+    , into _ik_ [[ik]], _at_ [[at]] or _(i/)p_ [[ip]];
+    , as _kih_, _pih_, _chih_
+    , into _kik_ [[gik]], _pat_ [[bat]], _ch(i/)p_ [[zip]].
+  //
+    , _ieh_
+    , into _(i/)t_ [[it]] or _(i/)p_ [[ip]];
+    , as _sieh_, _lieh_
+    , into _s(i/)t_ [[sit]], _l(i/)p_ [[lip]].
+  //
+    , _ioh_ or _oh_
+    , into _ok_ [[ok]];
+    , as _kioh_, _hioh_, _loh_
+    , into _kok_ [[gok]], _hok_ [[hok]], _lok_ [[lok]].
+''
+||||
+--{.williams}
+The frequency of the abrupt consonontal terminations _k_, _p_, and _t_,
+in the Canton dialect, immediately strike a northerner from Ki(a/)ngs(u/) [[江蘇]],
+who has been used to hear all terminations soft and flowing ; but
+the people from those provinces are said to learn this dialect sooner
+than those from Amoy [[廈門]] and Fuhchau [[福州]], whose nasal sounds and
+greater changes in the initials, are more difficult to accord with it.
+Unlike what exists in the province of Fuhkien, here there is not so
+great a difference between the language as spoken and read, as to
+require almost the acquisition of a double medium.
 --
