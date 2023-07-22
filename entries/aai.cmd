@@ -67,6 +67,49 @@ $$
 
 ##{#3 .williams} (A/)i(3) [[陰去; aai3]]
 
+### 嗌3 [[U+55CC]] _(a/)i(3)_ [[aai3]]
+
+$$
+W
+  ,
+    [[Page~3]] <br>
+    A colloquial word;
+    ==
+    - to call after, to bawl;
+    - to quarrel;
+    - crowded, thronged;
+    - _(a/)i(3) (1)k(a/)u_
+        [[嗌交; aai3 gaau1]],
+        to wrangle, to dispute;
+    - _(a/)i(3) p(')o(3) (4)hau (4)lung_
+        [[嗌破喉嚨; aai3 po3 hau4 lung4]],
+        hallooed till he split his throat;
+    - _(a/)i(3) n(a/)u(6)_
+        [[嗌鬧; aai3 naau6]]
+        thronged; brawling;
+    - _(a/)i(3) mat(7) (5)y(e/)_
+        [[嗌乜嘢; aai3 mat1 je5]],
+        what are you scolding about?
+    - _shap(9) (a/)i(3) (2)kau (1)ch(a/)ng (4)ngan_
+        [[十嗌九爭銀; sap6 aai3 gau2 zaang1 ngan4]],
+        ten to one it is a quarrel about money.
+    ==
+C
+  ,
+    =={.modern}
+    - Among the readings attested in Kangxi's Dictionary are:
+      ++
+      1. yik1 (伊昔切), meaning "throat" (咽也);
+      1. aai3 (烏懈切音隘), meaning "choke" (噎也).
+      ++
+      Williams writes "A colloquial word"
+      because the meaning attested under aai3 ("choke")
+      does not match the vernacular Cantonese meaning.
+
+    - "Ten to one" is better rendered as "nine out of ten".
+    ==
+$$
+
 ### 隘3 [[U+9698]] _(a/)i(3)_ [[aai3]]
 
 $$
