@@ -124,19 +124,19 @@ W
     - sultry, hot;
     - hurried breathing, a stricture in the breast;
     - _ai(3) h(i/)(3)_
-        [[]]
+        [[翳氣; ai3 hei3]]
         difficulty of breathing;
     - _ai(3) (i/)t(9)_
-        [[]]
+        [[翳熱; ai3 jit6]]
         hot weather;
     - _(1)shan (2)tsz' ai(3) (i/)t(9)_
-        [[]]
+        [[身子翳熱; san1 zi2 ai3 jit6]]
         feverish;
     - _ai(3) fai(3)_
-        [[]]
+        [[翳肺; ai3 fai3]]
         to feel grieved;
     - _ai(3) chai(6)_
-        [[]]
+        [[翳滯; ai3 zai6]]
         indigestible.
     ==
 $$
