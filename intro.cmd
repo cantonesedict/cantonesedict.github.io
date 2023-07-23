@@ -1048,7 +1048,7 @@ in parenthesis under each number.
 
 9.
   _Ch(e/)ung_ [[now zoeng]], _ch(e/)uk [[now zoek]],
-  like the combined sounds in _say 'em_  [[in Received Pronunciation]]; there
+  like the combined sounds in _say 'em_ [[in Received Pronunciation]]; there
   is no English word with this diphthong [[now not a diphthong]].
   The variations in this final are rare.
   _(Chaong, cheong, lay-ung, yok, naung, tsay-uk.)
@@ -1061,6 +1061,36 @@ in parenthesis under each number.
   this final, even when as is occasionally the case, they are heard like
   _l(o\)ng_.
   _(Pawng, kawk, l(o/)k, w(o/)ng, hoak, tsoang.)_
+
+11.
+  _K(u/)_ [[gu]], _l(o\)_ [[lou]],
+  as _coo_, _cuckoo_, _lo_, _hoe_, _flow_ [[in Received Pronunciation]].
+  The compilers of the Fan Wan seem to have been unable to distinguish the characters
+  under this final into the two terminations of _(u/)_ [[u]] and _(o\)_ [[ou]],
+  and have combined them apparently because in the court dialect most of
+  them ended in _(u/)_. Those beginning with _l_ [[l]], _m_ [[m]],
+  _sh_, and _s_ [[merged into s]] slide
+  from _l(u/)_, _m(u/)_, _s(u/)_, _sh(u/)_,
+  into _l(o\)_, _m(o\)_, _sh(o\)_, _s(o\)_,
+  but under other initials there is
+  no trouble in distinguishing them.
+  _(Lo, low, ku, foo.)_
+
+12.
+  _Chi(u/)_ [[ziu]],
+  like _new_, _few_ [[in Received Pronunciation]],
+  both vowels being plainly sounded.
+  This final is now and then heard like _(e/)u_ [[eu]],
+  as 要 _(e/)u_ for _i(u/)_; 溺 _n(e/)u_ for _ni(u/)_;
+  and also sliding into the 4th [[yu]] as 曉 _h(u")_ [[hyu]] for _hi(u/)_ [[hiu]].
+  _(Kew, chiu, tee-ue, t(i/)(u/).)_
+
+13.
+  _(U")n_ [[jyun]], (u")t [[jyut]],
+  like the _u_ in _ruin_, _June_, _jute_, _dilute_ [[in Received Pronunciation]].
+  The variations under this final are unimportant, and those are where the vowel is
+  changed in a few words to _è_, as 煖 _nèn_ for _n(u")n_ [[nyun]].
+  _(Heuet, sh(u/)n, (u/)t, une, sute.)_
 ++
 
 --{.modern}
