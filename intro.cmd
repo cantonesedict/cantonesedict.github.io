@@ -343,14 +343,14 @@ include the terminations in the fourth tone.
     , s(i/)n(3) [[sin3]]
     , s(i/)t(8) [[sit3]]
     , 1
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
+    , 連
+    , 璉
+    , 鍊
+    , 列
+    , (4)l(i/)n [[lin4]]
+    , (5)l(i/)n [[lin5]]
+    , l(i/)n(6) [[lin6]]
+    , l(i/)t(9) [[lit6]]
   //
     , 2
     , 威
@@ -362,13 +362,13 @@ include the terminations in the fourth tone.
     , wai(3) [[wai3]]
     ,
     , 2
+    , 迷
+    , 米
+    , 袂
     ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
+    , (4)mai [[mai4]]
+    , (5)mai [[mai5]]
+    , mai(6) [[mai6]]
     ,
   //
     , 3
@@ -381,13 +381,13 @@ include the terminations in the fourth tone.
     , k(i/)(3) [[gei3]]
     ,
     , 3
+    , 宜
+    , 議
+    , 貳
     ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
+    , (4)(i/) [[ji4]]
+    , (5)(i/) [[ji5]]
+    , (i/)(6) [[ji6]]
     ,
   //
     , 4
@@ -400,13 +400,13 @@ include the terminations in the fourth tone.
     , ch(u")(3) [[zyu3]]
     ,
     , 4
+    , 如
+    , 語
+    , 寓
     ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
+    , (4)(u") [[jyu4]]
+    , (5)(u") [[jyu5]]
+    , (u")(6) [[jyu6]]
     ,
   //
     , 5
@@ -419,13 +419,13 @@ include the terminations in the fourth tone.
     , sau(3) [[sau3]]
     ,
     , 5
+    , 留
+    , 柳
+    , 陋
     ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
+    , (4)lau [[lau4]]
+    , (5)lau [[lau5]]
+    , lau(6) [[lau6]]
     ,
   //
     , 6
@@ -438,14 +438,14 @@ include the terminations in the fourth tone.
     , tung(3) [[dung3]]
     , tuk(7) [[duk1]]
     , 6
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
+    , 容
+    , 勇
+    , 用
+    , 欲
+    , (4)yung [[yung4]]
+    , (5)yung [[yung5]]
+    , yung(6) [[yung6]]
+    , yuk(9) [[yuk6]]
   //
     , 7
     , 英
@@ -457,14 +457,14 @@ include the terminations in the fourth tone.
     , ying(3) [[jing3]]
     , yik(7) [[jik1]]
     , 7
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
+    , 靈
+    , 領
+    , 令
+    , 力
+    , (4)ling [[ling4]]
+    , (5)ling [[ling5]]
+    , ling(6) [[ling6]]
+    , lik(9) [[lik6]]
   //
     , 8
     , 賓
@@ -476,14 +476,14 @@ include the terminations in the fourth tone.
     , pan(3) [[ban3]]
     , pat(7) [[bat1]]
     , 8
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
+    , 文
+    , 敏
+    , 問
+    , 勿
+    , (4)man [[man4]]
+    , (5)man [[man5]]
+    , man(6) [[man6]]
+    , mat(9) [[mat6]]
   //
     , 9
     , 張
@@ -495,14 +495,14 @@ include the terminations in the fourth tone.
     , ch(e/)ung(3) [[zoeng3]]
     , ch(e/)uk(8) [[zoek3]]
     , 9
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
+    , 陽
+    , 仰
+    , 樣
+    , 藥
+    , (4)y(e/)ung [[joeng4]]
+    , (5)y(e/)ung [[joeng5]]
+    , y(e/)ung(6) [[joeng6]]
+    , y(e/)uk(9) [[joek6]]
   //
     , 10
     , 剛
@@ -514,14 +514,14 @@ include the terminations in the fourth tone.
     , kong(3) [[gong3]]
     , kok(8) [[gok3]]
     , 10
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
+    , 王
+    , 往
+    , 旺
+    , 鑊
+    , (4)wong [[wong4]]
+    , (5)wong [[wong5]]
+    , wong(6) [[wong6]]
+    , wok(9) [[wok6]]
   //
     , 11
     , 朝
@@ -533,13 +533,13 @@ include the terminations in the fourth tone.
     , chi(u/)(3) [[ziu3]]
     ,
     , 11
+    , 寮
+    , 了
+    , 料
     ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
+    , (4)li(u/) [[liu4]]
+    , (5)li(u/) [[liu5]]
+    , li(u/)(6) [[liu6]]
     ,
   //
     , 12
@@ -552,13 +552,13 @@ include the terminations in the fourth tone.
     , k(u/)(3) [[gu3]]
     ,
     , 12
+    , 無
+    , 母
+    , 務
     ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
+    , (4)m(o\) [[mou4]]
+    , (5)m(o\) [[mou5]]
+    , m(o\)(6) [[mou6]]
     ,
   //
     , 13
@@ -571,14 +571,14 @@ include the terminations in the fourth tone.
     , (u")n(3) [[jyun3]]
     , (u")t(8) [[jyut3]]
     , 13
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
+    , 元
+    , 軟
+    , 願
+    , 月
+    , (4)(u")n [[jyun4]]
+    , (5)(u")n [[jyun5]]
+    , (u")n(6) [[jyun6]]
+    , (u")t(9) [[jyut6]]
   //
     , 14
     , 皆
@@ -590,13 +590,13 @@ include the terminations in the fourth tone.
     , k(a/)i(3) [[gaai3]]
     ,
     , 14
+    , 鞋
+    , 蟹
+    , 懈
     ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
+    , (4)h(a/)i [[haai4]]
+    , (5)h(a/)i [[haai5]]
+    , h(a/)i(6) [[haai6]]
     ,
   //
     , 15
@@ -609,14 +609,14 @@ include the terminations in the fourth tone.
     , tang(3) [[dang3]]
     , tak(7) [[dak1]]
     , 15
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
+    , 盟
+    , 猛
+    , 孟
+    , 墨
+    , (4)mang [[mang4]]
+    , (5)mang [[mang5]]
+    , mang(6) [[mang6]]
+    , mak(9) [[mak6]]
   //
     , 16
     , 師
@@ -628,13 +628,13 @@ include the terminations in the fourth tone.
     , sz'(3) [[si3]]
     ,
     , 16
+    , 詞
+    , 似
+    , 自
     ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
+    , (4)ts(')z' [[ci4]]
+    , (5)ts(')z' [[ci5]]
+    , tsz'(6) [[zi6]]
     ,
   //
     , 17
@@ -647,14 +647,14 @@ include the terminations in the fourth tone.
     , kam(3) [[gam3]]
     , kap(7) [[gap1]]
     , 17
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
+    , 吟
+    , 衽
+    , 任
+    , 入
+    , (4)yam [[jam4]]
+    , (5)yam [[jam5]]
+    , yam(6) [[jam6]]
+    , yap(9) [[jap6]]
   //
     , 18
     , 交
@@ -666,13 +666,13 @@ include the terminations in the fourth tone.
     , k(a/)u(3) [[gaau3]]
     ,
     , 18
+    , 茅
+    , 卯
+    , 貎
     ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
+    , (4)m(a/)u [[maau4]]
+    , (5)m(a/)u [[maau5]]
+    , m(a/)u(6) [[maau6]]
     ,
   //
     , 19
@@ -685,13 +685,13 @@ include the terminations in the fourth tone.
     , tsoi(3) [[zoi3]]
     ,
     , 19
+    , 臺
+    , 殆
+    , 代
     ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
+    , (4)t(')oi [[toi4]]
+    , (5)t(')oi [[toi5]]
+    , [t]oi(6) [[doi6]]
     ,
   //
     , 20
@@ -704,14 +704,14 @@ include the terminations in the fourth tone.
     , k(i/)m(3) [[gim3]]
     , k(i/)p(8) [[gip3]]
     , 20
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
+    , 嚴
+    , 染
+    , 騐
+    , 業
+    , (4)(i/)m [[jim4]]
+    , (5)(i/)m [[jim5]]
+    , (i/)m(6) [[jim6]]
+    , (i/)p(9) [[jip6]]
   //
     , 21
     , 津
@@ -723,14 +723,14 @@ include the terminations in the fourth tone.
     , tsun(3) [[zeon3]]
     , tsut(7) [[zeot1]]
     , 21
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
+    , 倫
+    , 卵
+    , 論
+    , 律
+    , (4)lun [[leon4]]
+    , (5)lun [[leon5]]
+    , lun(6) [[leon6]]
+    , lut(9) [[leot6]]
   //
     , 22
     , 雖
@@ -742,13 +742,13 @@ include the terminations in the fourth tone.
     , sui(3) [[seoi3]]
     ,
     , 22
+    , 雷
+    , 彚
+    , 類
     ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
+    , (4)lui [[leoi4]]
+    , (5)lui [[leoi5]]
+    , lui(6) [[leoi6]]
     ,
   //
     , 23
@@ -761,13 +761,13 @@ include the terminations in the fourth tone.
     , fo(3) [[fo3]]
     ,
     , 23
+    , 鵝
+    , 我
+    , 臥
     ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
+    , (4)ngo [[ngo4]]
+    , (5)ngo [[ngo5]]
+    , ngo(6) [[ngo6]]
     ,
   //
     , 24
@@ -780,14 +780,14 @@ include the terminations in the fourth tone.
     , k(a/)m(3) [[gaam3]]
     , k(a/)p(8) [[gaap3]]
     , 24
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
+    , 藍
+    , 覽
+    , 䌫
+    , 蠟
+    , (4)l(a/)m [[laam4]]
+    , (5)l(a/)m [[laam5]]
+    , l(a/)m(6) [[laam6]]
+    , l(a/)p(9) [[laap6]]
   //
     , 25
     , 翻
@@ -799,14 +799,14 @@ include the terminations in the fourth tone.
     , f(a/)n(3) [[faan3]]
     , f(a/)t(8) [[faat3]]
     , 25
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
+    , 闌
+    , 懶
+    , 爛
+    , 辣
+    , (4)l(a/)n [[laan4]]
+    , (5)l(a/)n [[laan5]]
+    , l(a/)n(6) [[laan6]]
+    , l(a/)t(9) [[laat6]]
   //
     , 26
     , 家
@@ -818,13 +818,13 @@ include the terminations in the fourth tone.
     , k(a/)(3) [[gaa3]]
     ,
     , 26
+    , 牙
+    , 雅
+    , 迓
     ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
+    , (4)ng(a/) [[ngaa4]]
+    , (5)ng(a/) [[ngaa5]]
+    , ng(a/)(6) [[ngaa6]]
     ,
   //
     , 27
@@ -837,14 +837,14 @@ include the terminations in the fourth tone.
     , k(u/)n(3) [[gun3]]
     , k(u/)t(8) [[gut3]]
     , 27
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
+    , 門
+    , 滿
+    , 悶
+    , 末
+    , (4)m(u/)n [[mun4]]
+    , (5)m(u/)n [[mun5]]
+    , m(u/)n(6) [[mun6]]
+    , m(u/)t(9) [[mut6]]
   //
     , 28
     , 魁
@@ -856,13 +856,13 @@ include the terminations in the fourth tone.
     , f(u/)i(3) [[fui3]]
     ,
     , 28
+    , 梅
+    , 每
+    , 昧
     ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
+    , (4)m(u/)i [[mui4]]
+    , (5)m(u/)i [[mui5]]
+    , m(u/)i(6) [[mui6]]
     ,
   //
     , 29
@@ -875,13 +875,13 @@ include the terminations in the fourth tone.
     , ch(e/)(3) [[ze3]]
     ,
     , 29
+    , 蛇
+    , 社
+    , 射
     ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
+    , (4)sh(e/) [[se4]]
+    , (5)sh(e/) [[se5]]
+    , sh(e/)(6) [[se6]]
     ,
   //
     , 30
@@ -894,14 +894,14 @@ include the terminations in the fourth tone.
     , kon(3) [[gon3]]
     , kot(8) [[got3]]
     , 30
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
+    , 寒
+    , 旱
+    , 翰
+    , 褐
+    , (4)hon [[hon4]]
+    , (5)hon [[hon5]]
+    , hon(6) [[hon6]]
+    , hot(9) [[hot6]]
   //
     , 31
     , 甘
@@ -913,14 +913,14 @@ include the terminations in the fourth tone.
     , k(o\)m(3) [[gam3]]
     , k(o\)p(8) [[gap3]]
     , 31
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
-    ,
+    , 含
+    , 頷
+    , 憾
+    , 合
+    , (4)h(o\)m [[ham4]]
+    , (5)h(o\)m [[ham5]]
+    , h(o\)m(6) [[ham6]]
+    , h(o\)p(9) [[hap6]]
   //
     , 32
     ,{r=2 c=8 .merged}
@@ -930,10 +930,10 @@ include the terminations in the fourth tone.
     , 棒
     , 硬
     , 額
-    ,
-    ,
-    ,
-    ,
+    , (4)p(')(a/)ng [[paang4]]
+    , (5)p(')(a/)ng [[paang5]]
+    , ng(a/)ng(6) [[ngaang6]]
+    , ng(a/)k(9) [[ngaak6]]
   //
     , 33
     , 33
@@ -941,9 +941,9 @@ include the terminations in the fourth tone.
     , 五
     , 悟
     ,
-    ,
-    ,
-    ,
+    , (4)'ng [[ng4]]
+    , (5)'ng [[ng5]]
+    , 'ng(6) [[ng6]]
     ,
 ''
 ||||
