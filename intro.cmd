@@ -38,7 +38,7 @@ variations from the speech of the citizens of Canton itself and from
 each other, heard in these districts are numerous, still the general
 characteristics of the dialect in its idiom and pronunciation, are
 preserved, and the people find little difficulty in talking with each
-other. The people from the district of Sinhwui 新會 lying south-
+other. The people from the district of Sinhwui 新會 lying south-\
 westerly from Canton, exhibit the most remarkable peculiarities
 in pronunciation, and it is a puzzle to the scholars in the city
 how they should have originated. The Canton dialect differs so
@@ -962,4 +962,107 @@ Other modes of spelling the same sounds, adopted by
 Dr.~Morrison, Mr.~Devan and Mr.~Bonney, in their vocabularies of
 this dialect, and by others who have tried to write them, are given
 in parenthesis under each number.
+--
+
+++{.williams}
+1.
+  _S(i/)n_ [[sin]], s(i/)t [[sit]],
+  like _seen_, _seat_, _peat_, _mean_ [[in Received Pronunciation]].
+  Several of the words commencing with a vowel,
+  as _(i/)n_ [[jin]] 言, _(i/)n_ [[jin]] 現, _(i/)t_ [[jit]] 熱, are heard with
+  a nasal or aspirate, as _ng(i/)n_, _h(i/)n_, _ng(i/)t_.
+  _(Seen, leet.)_
+
+2.
+  _Wai_ [[wai]],
+  like _buy_, _nigh_ [[in Received Pronunciation]].
+  Words under this final occasionally run
+  into the longer sound of _(a/)i_ [[aai]] in the 14th~order, especially in those
+  like _kwai_ [[gwai]] and _shai_ [[shai]].
+  _(Lei, wī, fy.)_
+
+3.
+  _K(i/)_ [[gi, now gei]],
+  like _me_, _flee_ [[in Received Pronunciation]].
+  A few words beginning with _k_ [[g]], p [[b]] and _f_ [[f]], are
+  frequently heard like the [29th]~final [[e]],
+  as _k(i/)_ [[gei]] 騎, _p(i/)_ [[bei]] 俾, _f(i/)_ [[fei]] 非, _k(i/)_ [[gei]] 己,
+  pronounced _k(e/)_ [[ge]], _p(e/)_ [[be]], _f(e/)_ [[fe]], or _k(e/)_ [[ge]]; but this is the exception. Others
+  having no initial, as (i/) [[ji]] 二, (i/) [[ji]] 耳 are often heard _ng(i/)_.
+  _(Tee, she, ki.)_
+
+4.
+  _Ch(u")_ [[zyu]],
+  like _sue_, or the first part of the word _choose_ [[in Received Pronunciation]]. Words in
+  this order beginning with _h_ [[h]], _l_ [[l]], _n_ [[n]], and _ts_ [[z]],
+  are often heard sliding into
+  _hui_ [[heoi]], _lui_ [[leoi]], _nui_ [[neoi]], _tsui_ [[zeoi]],
+  like the 22d~order [[eoi]], as 去, 侶, 女, 聚, 序;
+  those under the other initials are less frequently mispronounced.
+  _(Kuy, sue, n(u/), loÿ, u.)_
+
+5.
+  _Sau_ [[sau]],
+  like _now_, _cow_, _how_ [[in Received Pronunciation, but shorter]].
+  Words in this order like _au_ [[au]] 漚, 嘔,
+  having no initial, often seem to a beginner to lengthen the vowels
+  into _(a/)u_ [[aau]], like the 18th~order, as also do those like
+  _chau_ [[zau]] 肘 _hau_ [[hau]] 后 and _p(')au_ [[pau]], 剖
+  but a little practice will discriminate them.
+  _(Tsow, shaw, hāw.)_
+
+6.
+  _Tung_ [[dung]], _tuk_ [[duk]],
+  like the Irishism _wroong_ for _wrung_, and so nearly
+  _toong_, _took_, that it is [doubtful] whether this final ought not to be
+  written _t(u/)ng_, _t(u/)k_; it must never be sounded like the English words
+  _sung_, _hung_, _tongue_ [[in Received Pronunciation]].
+  There are no variants in this final worth noticing.
+  _(Soong, yok, tōk.)_
+
+7.
+  _Ying_ [[jing]], _yik_ [[jik]],
+  like _sing_, _king_, _quick_, _wing_ [[in Received Pronunciation]].
+  So many words under this order change the final into _eng_ and _ek_,
+  that a separate list has been made of them in the general Table of Sounds,
+  but the proportion is small;
+  all the common words are noticed in the body of the Dictionary.
+  At Macao and thereabouts, a large proportion change
+  the final into _ang_ [[ang]] and _ak_ [[ak]] of the 15th~order,
+  as 兄, 京, 明, 擰, 兵,
+  into _hang_ [[hang]], _kang_ [[gang]], _mang_ [[mang]],
+  _nang_ [[nang]], _pang_ [[bang]], &c., by which the people from
+  Hi(a/)ngsh(a/)n [[香山]] district are recognized at Canton.
+  _(Leng, paëng, te-ang, saung.)_
+
+8.
+  _Pan_ [[ban]], _pat_ [[bat]],
+  like _fun_, _son_, _shun_, _tun_, _won_ [[in Received Pronunciation]],
+  never like _man_, _fan_, _hat_, _cat_ [[in Received Pronunciation]].
+  Variants in the _yap shing_ [[入聲 yap sing]],
+  passing into the long sound _(a/)t_ [[aat]]
+  of the 25th~order, are occasionally heard, but a more frequent change
+  is into _p(i/)n_, _p(i/)t_, or _pen_, _pet_, which is peculiar to the people of the
+  districts of Sinhwui and K(a/)uy(a/)u [[高要]] southwest of Canton.
+  _(Pun, kăn, fut, yet, chăt.)_
+
+9.
+  _Ch(e/)ung_ [[now zoeng]], _ch(e/)uk [[now zoek]],
+  like the combined sounds in _say 'em_  [[in Received Pronunciation]]; there
+  is no English word with this diphthong [[now not a diphthong]].
+  The variations in this final are rare.
+  _(Chaong, cheong, lay-ung, yok, naung, tsay-uk.)
+
+10.
+  _Kong_ [[gong]], _kok_ [[gok]],
+  like _long_, _song_, _wrong_, _hawk_, _baulk_ [[in Conservative Received Pronunciation]];
+  never like _sock_, _lock_ [[in Conservative Received Pronunciation]].
+  There is no difficulty in recognizing all words under
+  this final, even when as is occasionally the case, they are heard like
+  _l(o\)ng_.
+  _(Pawng, kawk, l(o/)k, w(o/)ng, hoak, tsoang.)_
+++
+
+--{.modern}
+Work in progress.
 --
