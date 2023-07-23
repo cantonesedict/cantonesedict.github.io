@@ -237,3 +237,36 @@ two ways, a Chinese actually has no possible means to express
 a sound, and the latter mode is so clumsy and unsatisfactory that it
 would probably be understood by few natives who use the book.
 --
+
+--{.williams}
+The adoption of proper characters to denote these unwritten
+sounds is a troublesome matter for a native writer, and it is not surprising
+that he avoids their use. However, they are occasionally
+written, but not all on the same principles. Sometimes a well-known
+character of the same tone is selected to express the sound; and its
+evidently utter inaptitude in the connection to express any sense is
+depended upon to intimate that it is used for a colloquial word.
+This expedient is frequently employed by partly educated persons
+in letters, when they do not know, or cannot remember the proper
+characters. Another device to indicate colloquial words is to prefix
+the character _hau_ [[hau]] 口 mouth, or _yan_ [[jan]] 人 a man, at the side of some
+well known character of the same sound, but not always of the same
+tone. The words _tsoi(6)_ [[zoi6]] a cargo; _(1)k(a/) (2)fo_ [[gaa1 fo2]] 傢伙, furniture;
+_(5)mai_ [[mai5]] 咪 do not; _(1)ts(')oi_ [[coi1]] 啋 pshaw! and _(2)t(e/)_ [[de2]] 嗲 remiss, &c., are examples
+of this sort, Sometimes, again, a character which comes nearest in
+tone is taken to represent the needed sound, and the knowledge of
+the reader is expected to inform him that it is employed in a vulgar
+sense. The words _(1)n(i/)n_ [[nin1]] 年 milk; _(1)l(a/)n_ [[laan1]] 欄 a bazaar; and _(1)n(a/)i_ [[naai1]] 奶 a lady,
+are examples of this practice. Again, characters having
+nearly the same meaning as the colloquial word, but of an entirely
+different sound, are adopted, so that even if the reader does not know
+the vulgar sound he will make no mistake as to the sense. Thus,
+the words _(1)hung_ [[hung1]] 烘 to roast, used for _(1)nung_ [[nung1]], to scorch, to scowl;
+_[(2)]hung_ [[hung2]] 孔 a hole, used for _(1)lung_ [[lung1]]; are instances of this mode of adaptation.
+Lastly, entirely new characters are made for some of them; as
+_lat_ [[lat]] 甪 to detach, _p(a/)ng_ [[baang]] 碰 a knock, which of course have no currency
+in other parts of China, as neither their sound or meaning
+will be known elsewhere. Besides these, there are a few colloquial
+words, as _fing_ [[fing]], _kwit_ [[gwit]], _fik_ [[fik]], ap [[ap]], &c., for which no characters can be
+found, and which cannot therefore be written at all.
+--
