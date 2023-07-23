@@ -20,6 +20,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 [ix]: https://archive.org/details/tonicdictionaryo00will/page/n14/mode/1up
 [x]: https://archive.org/details/tonicdictionaryo00will/page/n15/mode/1up
 [xi]: https://archive.org/details/tonicdictionaryo00will/page/n16/mode/1up
+[xii]: https://archive.org/details/tonicdictionaryo00will/page/n17/mode/1up
 
 
 ##{#canton} 1. The Canton Dialect
@@ -206,3 +207,33 @@ these remarks. A prefatory note.
 Summer of 1782.
 --
 """"
+
+--{.williams}
+This pocket dictionary is usually bound in four thin volumes, and
+sold for twenty-five cents; it contains 7327~characters, and only 175~pages,
+or on the average 42~to each page, which plainly shows how
+[[[Page~xii][xii] here]]
+meagre are the definitions. In comparison with the local vocabularies
+used at Amoy and Fuhchau, it is very imperfect, and proves the
+ignorance of the compilers of what was wanted for a local dictionary,
+or leads one to infer that they did not know how to prepare a
+good one. There is no table of initials and finals as in those vocabularies,
+nor any list of syllables, by combining which one can get
+the proper sound of a character; for he who uses it, strangely enough,
+is supposed to know already the sound of the character he is in
+search of. The unwritten sounds or colloquial words used by the
+people of Canton are nearly all omitted, which is one of the greatest
+defects in it, and renders it far less useful to the foreigner who is
+learning the dialect than those just spoken of. One reason, probably,
+why so little notice is taken of these colloquial words in the Fan Wan [[分韻]]
+is the disregard the Cantonese pay to them in their writing, as
+no one would degrade his composition by inserting them. This
+rejection has had the result of keeping the greater part of them
+unwritten, and the compilers of the Fan Wan, knowing no authorized
+characters by which to express them, nor having any tabular
+system of initials and finals in which to insert them so that the
+student could find them, have omitted them. In fact, except in these
+two ways, a Chinese actually has no possible means to express
+a sound, and the latter mode is so clumsy and unsatisfactory that it
+would probably be understood by few natives who use the book.
+--
