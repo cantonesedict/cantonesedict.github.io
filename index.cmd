@@ -6,7 +6,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Home
-* %date-modified --> 2023-07-22
+* %date-modified --> 2023-07-23
 * %copyright-prior-years -->
 * %modern-colour --> crimson
 
@@ -31,7 +31,7 @@ by [Samuel Wells Williams].
 
 --{.modern}
 The version of ''Tonic Dictionary'' used as the base reference is
-[ark:/13960/t0ps1ph66 at archive.org][tonic].
+[`ark:/13960/t0ps1ph66` at archive.org][tonic].
 --
 --{.modern}
 The modernisation is a solo effort by Conway, consisting of:
