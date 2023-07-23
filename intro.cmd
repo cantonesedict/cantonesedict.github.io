@@ -338,10 +338,10 @@ include the terminations in the fourth tone.
     , 蘚
     , 線
     , 屑
-    ,
-    ,
-    ,
-    ,
+    , (1)s(i/)n [[sin1]]
+    , (2)s(i/)n [[sin2]]
+    , s(i/)n(3) [[sin3]]
+    , s(i/)t(8) [[sit3]]
     , 1
     ,
     ,
@@ -357,9 +357,9 @@ include the terminations in the fourth tone.
     , 偉
     , 畏
     ,
-    ,
-    ,
-    ,
+    , (1)wai [[wai1]]
+    , (2)wai [[wai2]]
+    , wai(3) [[wai3]]
     ,
     , 2
     ,
@@ -376,9 +376,9 @@ include the terminations in the fourth tone.
     , 紀
     , 記
     ,
-    ,
-    ,
-    ,
+    , (1)k(i/) [[gei1]]
+    , (2)k(i/) [[gei1]]
+    , k(i/)(3) [[gei3]]
     ,
     , 3
     ,
@@ -395,9 +395,9 @@ include the terminations in the fourth tone.
     , 主
     , 著
     ,
-    ,
-    ,
-    ,
+    , (1)ch(u") [[zyu1]]
+    , (2)ch(u") [[zyu2]]
+    , ch(u")(3) [[zyu3]]
     ,
     , 4
     ,
@@ -414,9 +414,9 @@ include the terminations in the fourth tone.
     , 叟
     , 秀
     ,
-    ,
-    ,
-    ,
+    , (1)sau [[sau1]]
+    , (2)sau [[sau2]]
+    , sau(3) [[sau3]]
     ,
     , 5
     ,
@@ -433,10 +433,10 @@ include the terminations in the fourth tone.
     , 董
     , 凍
     , 篤
-    ,
-    ,
-    ,
-    ,
+    , (1)tung [[dung1]]
+    , (2)tung [[dung2]]
+    , tung(3) [[dung3]]
+    , tuk(7) [[duk1]]
     , 6
     ,
     ,
@@ -452,10 +452,10 @@ include the terminations in the fourth tone.
     , 影
     , 應
     , 益
-    ,
-    ,
-    ,
-    ,
+    , (1)ying [[jing1]]
+    , (2)ying [[jing2]]
+    , ying(3) [[jing3]]
+    , yik(7) [[jik1]]
     , 7
     ,
     ,
@@ -470,11 +470,11 @@ include the terminations in the fourth tone.
     , 賓
     , 禀
     , 嬪
-    , 𤲃
-    ,
-    ,
-    ,
-    ,
+    , 畢
+    , (1)pan [[ban1]]
+    , (2)pan [[ban2]]
+    , pan(3) [[ban3]]
+    , pat(7) [[bat1]]
     , 8
     ,
     ,
@@ -490,10 +490,10 @@ include the terminations in the fourth tone.
     , 掌
     , 帳
     , 着
-    ,
-    ,
-    ,
-    ,
+    , (1)ch(e/)ung [[zoeng1]]
+    , (2)ch(e/)ung [[zoeng2]]
+    , ch(e/)ung(3) [[zoeng3]]
+    , ch(e/)uk(8) [[zoek3]]
     , 9
     ,
     ,
@@ -509,10 +509,10 @@ include the terminations in the fourth tone.
     , 講
     , 降
     , 角
-    ,
-    ,
-    ,
-    ,
+    , (1)kong [[gong1]]
+    , (2)kong [[gong2]]
+    , kong(3) [[gong3]]
+    , kok(8) [[gok3]]
     , 10
     ,
     ,
@@ -528,9 +528,9 @@ include the terminations in the fourth tone.
     , 沼
     , 照
     ,
-    ,
-    ,
-    ,
+    , (1)chi(u/) [[ziu1]]
+    , (2)chi(u/) [[ziu2]]
+    , chi(u/)(3) [[ziu3]]
     ,
     , 11
     ,
@@ -547,9 +547,9 @@ include the terminations in the fourth tone.
     , 古
     , 故
     ,
-    ,
-    ,
-    ,
+    , (1)k(u/) [[gu1]]
+    , (2)k(u/) [[gu2]]
+    , k(u/)(3) [[gu3]]
     ,
     , 12
     ,
@@ -566,10 +566,10 @@ include the terminations in the fourth tone.
     , 婉
     , 怨
     , 乙
-    ,
-    ,
-    ,
-    ,
+    , (1)(u")n [[jyun1]]
+    , (2)(u")n [[jyun2]]
+    , (u")n(3) [[jyun3]]
+    , (u")t(8) [[jyut3]]
     , 13
     ,
     ,
@@ -585,9 +585,9 @@ include the terminations in the fourth tone.
     , 解
     , 介
     ,
-    ,
-    ,
-    ,
+    , (1)k(a/)i [[gaai1]]
+    , (2)k(a/)i [[gaai2]]
+    , k(a/)i(3) [[gaai3]]
     ,
     , 14
     ,
@@ -604,10 +604,10 @@ include the terminations in the fourth tone.
     , 等
     , 凳
     , 德
-    ,
-    ,
-    ,
-    ,
+    , (1)tang [[dang1]]
+    , (2)tang [[dang2]]
+    , tang(3) [[dang3]]
+    , tak(7) [[dak1]]
     , 15
     ,
     ,
@@ -623,9 +623,9 @@ include the terminations in the fourth tone.
     , 史
     , 四
     ,
-    ,
-    ,
-    ,
+    , (1)sz' [[si1]]
+    , (2)sz' [[si2]]
+    , sz'(3) [[si3]]
     ,
     , 16
     ,
@@ -642,10 +642,10 @@ include the terminations in the fourth tone.
     , 錦
     , 禁
     , 急
-    ,
-    ,
-    ,
-    ,
+    , (1)kam [[gam1]]
+    , (2)kam [[gam2]]
+    , kam(3) [[gam3]]
+    , kap(7) [[gap1]]
     , 17
     ,
     ,
@@ -661,9 +661,9 @@ include the terminations in the fourth tone.
     , 絞
     , 教
     ,
-    ,
-    ,
-    ,
+    , (1)k(a/)u [[gaau1]]
+    , (2)k(a/)u [[gaau2]]
+    , k(a/)u(3) [[gaau3]]
     ,
     , 18
     ,
@@ -680,9 +680,9 @@ include the terminations in the fourth tone.
     , 宰
     , 載
     ,
-    ,
-    ,
-    ,
+    , (1)tsoi [[zoi1]]
+    , (2)tsoi [[zoi2]]
+    , tsoi(3) [[zoi3]]
     ,
     , 19
     ,
@@ -699,10 +699,10 @@ include the terminations in the fourth tone.
     , 檢
     , 劍
     , 劫
-    ,
-    ,
-    ,
-    ,
+    , (1)k(i/)m [[gim1]]
+    , (2)k(i/)m [[gim2]]
+    , k(i/)m(3) [[gim3]]
+    , k(i/)p(8) [[gip3]]
     , 20
     ,
     ,
@@ -718,10 +718,10 @@ include the terminations in the fourth tone.
     , 贐
     , 進
     , 卒
-    ,
-    ,
-    ,
-    ,
+    , (1)tsun [[zeon1]]
+    , (2)tsun [[zeon2]]
+    , tsun(3) [[zeon3]]
+    , tsut(7) [[zeot1]]
     , 21
     ,
     ,
@@ -737,9 +737,9 @@ include the terminations in the fourth tone.
     , 髓
     , 歲
     ,
-    ,
-    ,
-    ,
+    , (1)sui [[seoi1]]
+    , (2)sui [[seoi2]]
+    , sui(3) [[seoi3]]
     ,
     , 22
     ,
@@ -756,9 +756,9 @@ include the terminations in the fourth tone.
     , 火
     , 貨
     ,
-    ,
-    ,
-    ,
+    , (1)fo [[fo1]]
+    , (2)fo [[fo2]]
+    , fo(3) [[fo3]]
     ,
     , 23
     ,
@@ -775,10 +775,10 @@ include the terminations in the fourth tone.
     , 减
     , 鑒
     , 甲
-    ,
-    ,
-    ,
-    ,
+    , (1)k(a/)m [[gaam1]]
+    , (2)k(a/)m [[gaam2]]
+    , k(a/)m(3) [[gaam3]]
+    , k(a/)p(8) [[gaap3]]
     , 24
     ,
     ,
@@ -794,10 +794,10 @@ include the terminations in the fourth tone.
     , 反
     , 泛
     , 發
-    ,
-    ,
-    ,
-    ,
+    , (1)f(a/)n [[faan1]]
+    , (2)f(a/)n [[faan2]]
+    , f(a/)n(3) [[faan3]]
+    , f(a/)t(8) [[faat3]]
     , 25
     ,
     ,
@@ -813,9 +813,9 @@ include the terminations in the fourth tone.
     , 賈
     , 嫁
     ,
-    ,
-    ,
-    ,
+    , (1)k(a/) [[gaa1]]
+    , (2)k(a/) [[gaa2]]
+    , k(a/)(3) [[gaa3]]
     ,
     , 26
     ,
@@ -832,10 +832,10 @@ include the terminations in the fourth tone.
     , 管
     , 貫
     , 括
-    ,
-    ,
-    ,
-    ,
+    , (1)k(u/)n [[gun1]]
+    , (2)k(u/)n [[gun2]]
+    , k(u/)n(3) [[gun3]]
+    , k(u/)t(8) [[gut3]]
     , 27
     ,
     ,
@@ -851,9 +851,9 @@ include the terminations in the fourth tone.
     , 賄
     , 誨
     ,
-    ,
-    ,
-    ,
+    , (1)f(u/)i [[fui1]]
+    , (2)f(u/)i [[fui2]]
+    , f(u/)i(3) [[fui3]]
     ,
     , 28
     ,
@@ -870,9 +870,9 @@ include the terminations in the fourth tone.
     , 者
     , 蔗
     ,
-    ,
-    ,
-    ,
+    , (1)ch(e/) [[ze1]]
+    , (2)ch(e/) [[ze2]]
+    , ch(e/)(3) [[ze3]]
     ,
     , 29
     ,
@@ -889,10 +889,10 @@ include the terminations in the fourth tone.
     , 趕
     , 幹
     , 割
-    ,
-    ,
-    ,
-    ,
+    , (1)kon [[gon1]]
+    , (2)kon [[gon2]]
+    , kon(3) [[gon3]]
+    , kot(8) [[got3]]
     , 30
     ,
     ,
@@ -908,10 +908,10 @@ include the terminations in the fourth tone.
     , 敢
     , 紺
     , 蛤
-    ,
-    ,
-    ,
-    ,
+    , (1)k(o\)m [[gam1]]
+    , (2)k(o\)m [[gam2]]
+    , k(o\)m(3) [[gam3]]
+    , k(o\)p(8) [[gap3]]
     , 31
     ,
     ,
