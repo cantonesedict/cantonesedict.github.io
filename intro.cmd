@@ -288,3 +288,14 @@ that no trouble will, it is hoped, be found on this score to those who
 use the dictionary in other parts of China, where the colloquial is
 entirely different.
 --
+
+--{.williams}
+The characters are classed in the Fan Wan under thirty-three
+finals, whose sounds are represented by standard and well known
+characters, as given in the annexed Table, all of them in the four
+upper tones, except the two last finals. The characters in the second
+half have been selected from the body of the book to illustrate the
+lower tones, and to aid the scholar in discriminating the two series.
+There, are however actually fifty-three finials in the dialect, if we
+include the terminations in the fourth tone.
+--
