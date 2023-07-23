@@ -27,6 +27,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 [xvi]: https://archive.org/details/tonicdictionaryo00will/page/n21/mode/1up
 [xvii]: https://archive.org/details/tonicdictionaryo00will/page/n22/mode/1up
 [xviii]: https://archive.org/details/tonicdictionaryo00will/page/n23/mode/1up
+[xix]: https://archive.org/details/tonicdictionaryo00will/page/n24/mode/1up
 
 
 ##{#canton} 1. The Canton Dialect
@@ -1150,6 +1151,66 @@ in parenthesis under each number.
   for _loi_, _noi_, _t[(')]oi_, but a little care will easily discriminate
   them; most of the words are uniformly sounded.
   _(Toy, suy.)_
+
+20.
+  _K(i/)m_ [[gim]], _k(i/)p_ [[gip]],
+  like _cream_, _seem_, _team_, _sheep_, _reap_ [[in Received Pronunciation]].
+  The words under this final are very uniform, and there is no particular
+  character worth noticing as a variant.
+  _(Keem, leep.)_
+
+21.
+  _Tsun_ [[now zeon]], _tsut_ [[now zeot]],
+  like the _u_ in _put_, _nuisance_, the sound lying
+  between the vowel sounds in _fun_ and _fool_ [[in Received Pronunciation]],
+  in the 8th [[an]] and 27th [[un]] orders;
+  the 8th, 21st and 27th finals _pan_ [[ban]], _tsun_ [[zeon]], _k(u/)n_ [[gun]],
+  are kept very distinct by the Chinese, and must not be confounded. It is not
+  easy to distinguish the _u_ in this order
+  from the _u_ in _tung_, _tuk_, as
+  some have endeavored to do, for if the word _tsun_ be slowly prolonged
+  [[[Page~xix][xix] before 'ed']] into _tsung_,
+  it will be seen the difference is in the quantity rather
+  than in the quality of the vowel.
+  _(Tsun, soot.)_
+
+22.
+  _Sui_ [[now seoi]],
+  a combination of _u_ in the preceding order with _i_; there is
+  no similar sound in English. Words under the 4th~final [[yu]]
+  commencing with _s_ [[s]], _l_ [[l]] or _n_ [[n]],
+  easily run into this, and some of those placed here,
+  as _tsui_ [[zeoi]], _yui_ [[jeoi]], _tui_ [[deoi]],
+  also run into the 28th~order [[ui]]. The Chinese, who are
+  not fettered or guided by any alphabetic sounds, often discriminate
+  these nearly homophonous words better than we do.
+  _(Suy, mooy, soÿ, shoo-e.)_
+
+23.
+  _Fo_ [[fo]],
+  like _law_, _saw_, _taw_ [[in Received Pronunciation]],
+  not _lo_, _no_, _two_ [[in Received Pronunciation]];
+  the _o_ as in _long_, _sawn_ [[in Conservative Received Pronunciation]],
+  as in the 10th [[ong]] and 30th [[on]] orders.
+  This final undergoes no changes, that are worth noticing.
+  _(Waw, h(o/), l(a/)w, hō.)_
+
+24.
+  _K(a/)m_ [[gaam]], _k(a/)p_ [[gaap]],
+  like _calm_, _psalm_ [[in Received Pronunciation]],
+  not like _ham_, _jamb_, _rap_, _map_ [[in Received Pronunciation]].
+  The characters under this final are comparatively few, and the
+  changes in their pronunciation very slight.
+  _(Lahm, kam, tarm, chaap, kap.)_
+
+25.
+  _F(a/)n_ [[faan]], _f(a/)t_ [[faat]],
+  like _Jahn_, _father_ [[in Received Pronunciation]],
+  not like _fan_, _fat_, _man_, _mat_ [[in Received Pronunciation]].
+  In the district of Shunteh [[順德]], some characters in this order take a
+  singular change to _èn_, as 間 _hèn_ (like _mane_), 板 _pèn_, 鹹 _kèn_ (like _cane_),
+  and so of others.
+  _(Wan, pann, fat.)_
 ++
 
 --{.modern}
