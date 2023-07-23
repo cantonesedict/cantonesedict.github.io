@@ -24,6 +24,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 [xiii]: https://archive.org/details/tonicdictionaryo00will/page/n18/mode/1up
 [xiv]: https://archive.org/details/tonicdictionaryo00will/page/n19/mode/1up
 [xv]: https://archive.org/details/tonicdictionaryo00will/page/n20/mode/1up
+[xvi]: https://archive.org/details/tonicdictionaryo00will/page/n21/mode/1up
 
 
 ##{#canton} 1. The Canton Dialect
@@ -947,3 +948,18 @@ include the terminations in the fourth tone.
     ,
 ''
 ||||
+
+--{.williams}
+[[[Page~xvi][xvi] here]]
+The variations heard in the pronunciation of words under these
+thirty-three finals, though rather perplexing, bear only a small proportion
+to the whole number of words in the language. The most
+usual discrepancies heard under each order are here given, but it is
+impossible, and would be useless, to exhibit every alteration from
+what the Fan Wan represents as the proper sound. On the whole
+that manual may be regarded as a fair exhibition of the general pronunciation.
+Other modes of spelling the same sounds, adopted by
+Dr.~Morrison, Mr.~Devan and Mr.~Bonney, in their vocabularies of
+this dialect, and by others who have tried to write them, are given
+in parenthesis under each number.
+--
