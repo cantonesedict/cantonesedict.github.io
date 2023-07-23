@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 [x]: https://archive.org/details/tonicdictionaryo00will/page/n15/mode/1up
 [xi]: https://archive.org/details/tonicdictionaryo00will/page/n16/mode/1up
 [xii]: https://archive.org/details/tonicdictionaryo00will/page/n17/mode/1up
+[xiii]: https://archive.org/details/tonicdictionaryo00will/page/n18/mode/1up
 
 
 ##{#canton} 1. The Canton Dialect
@@ -253,6 +254,7 @@ the character _hau_ [[hau]] 口 mouth, or _yan_ [[jan]] 人 a man, at the side o
 well known character of the same sound, but not always of the same
 tone. The words _tsoi(6)_ [[zoi6]] a cargo; _(1)k(a/) (2)fo_ [[gaa1 fo2]] 傢伙, furniture;
 _(5)mai_ [[mai5]] 咪 do not; _(1)ts(')oi_ [[coi1]] 啋 pshaw! and _(2)t(e/)_ [[de2]] 嗲 remiss, &c., are examples
+[[[Page~xiii][xiii] here]]
 of this sort, Sometimes, again, a character which comes nearest in
 tone is taken to represent the needed sound, and the knowledge of
 the reader is expected to inform him that it is employed in a vulgar
@@ -269,4 +271,20 @@ in other parts of China, as neither their sound or meaning
 will be known elsewhere. Besides these, there are a few colloquial
 words, as _fing_ [[fing]], _kwit_ [[gwit]], _fik_ [[fik]], ap [[ap]], &c., for which no characters can be
 found, and which cannot therefore be written at all.
+--
+
+--{.williams}
+The best course to adopt respecting the colloquial words found
+in this dialect, has been a matter of considerable perplexity in the
+preparation of this Dictionary. There being so many modes to
+express them, it was concluded to follow that plan for each character,
+which seemed to be the best understood among the people.
+The student must not however place much dependence on many of
+the characters employed to denote these unwritten sounds, for they
+are not uniformly represented, and other persons would perhaps
+choose different characters. The colloquial meanings of a word
+are usually distinguished from the more authorized definitions, so
+that no trouble will, it is hoped, be found on this score to those who
+use the dictionary in other parts of China, where the colloquial is
+entirely different.
 --
