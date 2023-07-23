@@ -22,6 +22,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 [xi]: https://archive.org/details/tonicdictionaryo00will/page/n16/mode/1up
 [xii]: https://archive.org/details/tonicdictionaryo00will/page/n17/mode/1up
 [xiii]: https://archive.org/details/tonicdictionaryo00will/page/n18/mode/1up
+[xiv]: https://archive.org/details/tonicdictionaryo00will/page/n19/mode/1up
+[xv]: https://archive.org/details/tonicdictionaryo00will/page/n20/mode/1up
 
 
 ##{#canton} 1. The Canton Dialect
@@ -299,3 +301,649 @@ lower tones, and to aid the scholar in discriminating the two series.
 There, are however actually fifty-three finials in the dialect, if we
 include the terminations in the fourth tone.
 --
+
+--{.modern}
+[[Table covers [Page~xiv][xiv] and [Page~xv][xv].]]
+--
+
+||||{.wide}
+''
+|^
+  //
+    ;{c=9} Ords. First Series, comprising the Upper Tones.
+    ;{c=9} Ords. Second Series, comprising the Lower Tones.
+  //
+    ; No.
+    ; 1
+    ; 2
+    ; 3
+    ; 4
+    ; _P(')ing Shing_ [[平聲 ping sing]].
+    ; _Sh(e/)ung Shing_ [[上聲 soeng sing]].
+    ; _H(u") Shing_ [[去聲 heoi sing]].
+    ; _Yap Shing_ [[入聲 yap sing]].
+    ; No.
+    ; 1
+    ; 2
+    ; 3
+    ; 4
+    ; _P(')ing Shing_ [[平聲 ping sing]].
+    ; _Sh(e/)ung Shing_ [[上聲 soeng sing]].
+    ; _H(u") Shing_ [[去聲 heoi sing]].
+    ; _Yap Shing_ [[入聲 yap sing]].
+|:
+  //
+    , 1
+    , 先
+    , 蘚
+    , 線
+    , 屑
+    ,
+    ,
+    ,
+    ,
+    , 1
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+  //
+    , 2
+    , 威
+    , 偉
+    , 畏
+    ,
+    ,
+    ,
+    ,
+    ,
+    , 2
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+  //
+    , 3
+    , 幾
+    , 紀
+    , 記
+    ,
+    ,
+    ,
+    ,
+    ,
+    , 3
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+  //
+    , 4
+    , 諸
+    , 主
+    , 著
+    ,
+    ,
+    ,
+    ,
+    ,
+    , 4
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+  //
+    , 5
+    , 修
+    , 叟
+    , 秀
+    ,
+    ,
+    ,
+    ,
+    ,
+    , 5
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+  //
+    , 6
+    , 東
+    , 董
+    , 凍
+    , 篤
+    ,
+    ,
+    ,
+    ,
+    , 6
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+  //
+    , 7
+    , 英
+    , 影
+    , 應
+    , 益
+    ,
+    ,
+    ,
+    ,
+    , 7
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+  //
+    , 8
+    , 賓
+    , 禀
+    , 嬪
+    , 𤲃
+    ,
+    ,
+    ,
+    ,
+    , 8
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+  //
+    , 9
+    , 張
+    , 掌
+    , 帳
+    , 着
+    ,
+    ,
+    ,
+    ,
+    , 9
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+  //
+    , 10
+    , 剛
+    , 講
+    , 降
+    , 角
+    ,
+    ,
+    ,
+    ,
+    , 10
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+  //
+    , 11
+    , 朝
+    , 沼
+    , 照
+    ,
+    ,
+    ,
+    ,
+    ,
+    , 11
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+  //
+    , 12
+    , 孤
+    , 古
+    , 故
+    ,
+    ,
+    ,
+    ,
+    ,
+    , 12
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+  //
+    , 13
+    , 鴛
+    , 婉
+    , 怨
+    , 乙
+    ,
+    ,
+    ,
+    ,
+    , 13
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+  //
+    , 14
+    , 皆
+    , 解
+    , 介
+    ,
+    ,
+    ,
+    ,
+    ,
+    , 14
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+  //
+    , 15
+    , 登
+    , 等
+    , 凳
+    , 德
+    ,
+    ,
+    ,
+    ,
+    , 15
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+  //
+    , 16
+    , 師
+    , 史
+    , 四
+    ,
+    ,
+    ,
+    ,
+    ,
+    , 16
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+  //
+    , 17
+    , 金
+    , 錦
+    , 禁
+    , 急
+    ,
+    ,
+    ,
+    ,
+    , 17
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+  //
+    , 18
+    , 交
+    , 絞
+    , 教
+    ,
+    ,
+    ,
+    ,
+    ,
+    , 18
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+  //
+    , 19
+    , 栽
+    , 宰
+    , 載
+    ,
+    ,
+    ,
+    ,
+    ,
+    , 19
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+  //
+    , 20
+    , 兼
+    , 檢
+    , 劍
+    , 劫
+    ,
+    ,
+    ,
+    ,
+    , 20
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+  //
+    , 21
+    , 津
+    , 贐
+    , 進
+    , 卒
+    ,
+    ,
+    ,
+    ,
+    , 21
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+  //
+    , 22
+    , 雖
+    , 髓
+    , 歲
+    ,
+    ,
+    ,
+    ,
+    ,
+    , 22
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+  //
+    , 23
+    , 科
+    , 火
+    , 貨
+    ,
+    ,
+    ,
+    ,
+    ,
+    , 23
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+  //
+    , 24
+    , 緘
+    , 减
+    , 鑒
+    , 甲
+    ,
+    ,
+    ,
+    ,
+    , 24
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+  //
+    , 25
+    , 翻
+    , 反
+    , 泛
+    , 發
+    ,
+    ,
+    ,
+    ,
+    , 25
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+  //
+    , 26
+    , 家
+    , 賈
+    , 嫁
+    ,
+    ,
+    ,
+    ,
+    ,
+    , 26
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+  //
+    , 27
+    , 官
+    , 管
+    , 貫
+    , 括
+    ,
+    ,
+    ,
+    ,
+    , 27
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+  //
+    , 28
+    , 魁
+    , 賄
+    , 誨
+    ,
+    ,
+    ,
+    ,
+    ,
+    , 28
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+  //
+    , 29
+    , 遮
+    , 者
+    , 蔗
+    ,
+    ,
+    ,
+    ,
+    ,
+    , 29
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+  //
+    , 30
+    , 干
+    , 趕
+    , 幹
+    , 割
+    ,
+    ,
+    ,
+    ,
+    , 30
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+  //
+    , 31
+    , 甘
+    , 敢
+    , 紺
+    , 蛤
+    ,
+    ,
+    ,
+    ,
+    , 31
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+    ,
+  //
+    , 32
+    ,{r=2 c=8 .merged}
+        N. B. _In these two orders, no words occur in this series._
+    , 32
+    , 彭
+    , 棒
+    , 硬
+    , 額
+    ,
+    ,
+    ,
+    ,
+  //
+    , 33
+    , 33
+    , 吾
+    , 五
+    , 悟
+    ,
+    ,
+    ,
+    ,
+    ,
+''
+||||
