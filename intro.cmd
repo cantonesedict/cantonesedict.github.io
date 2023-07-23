@@ -25,6 +25,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 [xiv]: https://archive.org/details/tonicdictionaryo00will/page/n19/mode/1up
 [xv]: https://archive.org/details/tonicdictionaryo00will/page/n20/mode/1up
 [xvi]: https://archive.org/details/tonicdictionaryo00will/page/n21/mode/1up
+[xvii]: https://archive.org/details/tonicdictionaryo00will/page/n22/mode/1up
+[xviii]: https://archive.org/details/tonicdictionaryo00will/page/n23/mode/1up
 
 
 ##{#canton} 1. The Canton Dialect
@@ -1021,6 +1023,7 @@ in parenthesis under each number.
   _(Soong, yok, tōk.)_
 
 7.
+[[[Page~xvii][xvii] here]]
   _Ying_ [[jing]], _yik_ [[jik]],
   like _sing_, _king_, _quick_, _wing_ [[in Received Pronunciation]].
   So many words under this order change the final into _eng_ and _ek_,
@@ -1091,6 +1094,28 @@ in parenthesis under each number.
   The variations under this final are unimportant, and those are where the vowel is
   changed in a few words to _è_, as 煖 _nèn_ for _n(u")n_ [[nyun]].
   _(Heuet, sh(u/)n, (u/)t, une, sute.)_
+
+14.
+[[[Page~xviii][xviii] here]]
+  _K(a/)i_ [[gaai]],
+  like _aye_, _aisle_ [[in Conservative Received Pronunciation]],
+  never shortened into _nigh_, _fly_, like the
+  2d~final [[ai]], though that frequently is prolonged into this. The Chinese
+  discriminate between the diphthongs _ai_ [[ai]] and _(a/)i_ [[aai]] with much accuracy,
+  and the student should pay particular attention to them at first, or
+  he will constantly confound them.
+  _(Pai, nie, tì, k(a/)i, kye.)_
+
+15.
+  _Tang_ [[dang]], _tak_ [[dak]],
+  like _tongue_, _sung_, _hung_, _muck_, _luck_ [[in Received Pronunciation]],
+  never like _hang_, _bang_, _jack_, _sack_ [[in Received Pronunciation]].
+  There are many words placed under this
+  final, which from the constant tendency to lengthen the vowel are
+  heard like the 32d~final [[aang]],
+  as 生 _sh(a/)ng_ [[saang]] for _shang_ [[sang]], 行 _h(a/)ng_ [[haang]] for _hang_ [[hang]], 北 _p(a/)k_ [[baak]] for _pak_ [[bak]], &c.;
+  many of these variations are noticed in the body of the work.
+  _(Pung, hăng, tuk, măk, hek, sh(a/)ng, y(a/)k.)_
 ++
 
 --{.modern}
