@@ -39,6 +39,8 @@ The modernisation is a solo effort by Conway, consisting of:
 ++{.modern}
 1. Transcribing its entries <span class="williams">(black serif text)</span>;
 
+1. Make corrections to typos <span class="williams">[in square brackets]</span>;
+
 1. Collating the entries by Jyutping
    (noting that there are phonological differences between
    the Ts'ing Dynasty Cantonese recorded by Williams
