@@ -6,7 +6,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Introduction
-* %date-modified --> 2023-07-22
+* %date-modified --> 2023-07-23
 * %copyright-prior-years -->
 
 %%%
@@ -175,9 +175,9 @@ the motives or principles which guided the compilers in arranging
 the characters. It is as follows:---
 --
 """"{.williams}
-[[See [《江湖分韻序》 at ctext.org.][序]<` `>]]
+[[See [`id=WO5WAAAAcAAJ` at Google Books][序] for the probable original Chinese.]]
 
-[序]: https://ctext.org/library.pl?if=gb&file=103313&page=9
+[序]: https://books.google.com/books?id=WO5WAAAAcAAJ&newbks=0&pg=PP5
 --
 Books giving the sounds of characters, and forms for letter-writers,
 are among the most common works in bookstores; but the
