@@ -81,7 +81,7 @@ changes in the finals are here given:---
     , _(a/)u_ and _i(a/)u_
     , into _i(u/)_ [[iu]];
     , as _ch(a/)u_, _li(a/)u_
-    , into _chi(u/)_ [[ziu]], _li(u/)_ [[liu]].;
+    , into _chi(u/)_ [[ziu]], _li(u/)_ [[liu]].
   //
     , _i(a/)ng_
     , into _(e/)ung_ [[oeng]];
