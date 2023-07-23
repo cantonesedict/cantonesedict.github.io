@@ -28,6 +28,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 [xvii]: https://archive.org/details/tonicdictionaryo00will/page/n22/mode/1up
 [xviii]: https://archive.org/details/tonicdictionaryo00will/page/n23/mode/1up
 [xix]: https://archive.org/details/tonicdictionaryo00will/page/n24/mode/1up
+[xx]: https://archive.org/details/tonicdictionaryo00will/page/n25/mode/1up
 
 
 ##{#canton} 1. The Canton Dialect
@@ -1241,6 +1242,41 @@ in parenthesis under each number.
   and most of those are mispronunciations from the 3d~order [[ei]],
   under a few initial
   _(Yay, ya, se-ay.)_
+
+30.
+  _Kon_ [[gon]], _kot_ [[got]],
+  like _lawn_, _brawn_, _fought_, _sought_ [[in Received Pronunciation]];
+  there are very few characters under final, and in the mouths of many persons
+  some of them, as _on_ [[on]] and _ngon_ [[ngon]]
+  are heard like _ong_ [[ong]] and _ngong_ [[ngong]].
+  _(Hoan, kon, (o/)n, kōt.)_
+
+31.
+[[[Page~xx][xx] here]]
+  _K(o\)m_ [[now gam]], _k(o\)p_ [[now gap]],
+  like _home_, _comb_, _hope_ [[in Received Pronunciation]],
+  not like _some_, _come_, _sup_ [[in Received Pronunciation]],
+  or _tom_, _hop_ [[in Received Pronunciation]];
+  there is a peculiar _ora rotunda_ observable in the pronunciation
+  of the few words referred to this order.
+  _(K(u/)m, kup, kōm, h(o/)m, h(a/)p, hōp, h(o/)p.)_
+
+32.
+  _P(')(a/)ng_ [[paang]], _p(a/)k_ [[baak]],
+  sounded with a broad _a_,
+  and not like _bang_, _hang_, _crack_ [[in Received Pronunciation]].
+  Many words under the 15th~final [[ang]] are so uniformly sounded
+  like this that they should properly have been placed under it; there
+  is a constant tendency of the short vowels to lengthen into the broader
+  ones.
+  _(H(a/)k, lang, chak.)_
+
+33.
+  _'Ng_ [[ng]], _'M_ [[m]],
+  are sounds heard in all languages, in rapid conversation,
+  but such as are seldom written; _hng_ and _hm_ is perhaps a
+  better form of writing them than that here adopted.
+  _(Im, 'm, ing, ng.)_
 ++
 
 --{.modern}
