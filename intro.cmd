@@ -1116,6 +1116,40 @@ in parenthesis under each number.
   as 生 _sh(a/)ng_ [[saang]] for _shang_ [[sang]], 行 _h(a/)ng_ [[haang]] for _hang_ [[hang]], 北 _p(a/)k_ [[baak]] for _pak_ [[bak]], &c.;
   many of these variations are noticed in the body of the work.
   _(Pung, hăng, tuk, măk, hek, sh(a/)ng, y(a/)k.)_
+
+16.
+  _Sz'_ [[si]], _tsz'_ [[zi]],
+   like no words in the English language, but much
+   like a hiss. The people of Canton itself pronounce these two words
+   very clearly, but in the villages around and south of it, they are
+   changed into _sh(i/)_, _s(u")_, _sz(u")_, _sch(i/)_, _ts(u")_, _ts(i/)_, _ch(')(i/)_,
+   so that in many cases it is hard to recognize them.
+   _(Sze, sz, sse, ss', tse.)_
+
+17.
+  _Kam_ [[gam]], _kap_ [[gap]],
+  like _hum_, _some_, _come_, _sup_, _tup_ [[in Received Pronunciation]],
+  never like _ham_, _rap_, nor _came_, _lame_, _nape_, _rape_ [[in Received Pronunciation]].
+  A few words properly referred to this final lengthen the vowel into
+  _k(a/)m_ [[gaam]], _k(a/)p_ [[gaap]], like the 24th, and others
+  also are changed into short _e_, as _kem_, _nem_.
+  _(Yum, shup, lăm[,] shăp.)_
+
+18.
+  _K(a/)u_ [[gaau]],
+  like _how_ [[in Received Pronunciation]] very much prolonged; the difference between
+  this, and the 5th~final [[au]] is merely in the longer sound of the _(a/)_ [[aa]].
+  There are no variations in pronunciation worth noticing in this final.
+  _(Pow, kaou, chaow.)_
+
+19.
+  _Tsoi_ [[zoi]],
+  like _boy_, _noise_, _loiter_ [[in Received Pronunciation]].
+  The _oi_ in some of the words referred to [in] this final,
+  inclines to _ui_ [[eoi]] of the 22d, as 來 內 台 _lui_, _nui_, _t[(')]ui_,
+  for _loi_, _noi_, _t[(')]oi_, but a little care will easily discriminate
+  them; most of the words are uniformly sounded.
+  _(Toy, suy.)_
 ++
 
 --{.modern}
