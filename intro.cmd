@@ -1211,6 +1211,36 @@ in parenthesis under each number.
   singular change to _èn_, as 間 _hèn_ (like _mane_), 板 _pèn_, 鹹 _kèn_ (like _cane_),
   and so of others.
   _(Wan, pann, fat.)_
+
+26.
+  _K(a/)_ [[gaa]],
+  like _ma_, _pa_ [[in Received Pronunciation]],
+  a syllable that can hardly be mispronounced;
+  there are no variations in the characters found under it.
+  _(Ka, fah, taa.)_
+
+27.
+  _K(u/)n_ [[gun]], _k(u/)t_ [[gut]],
+  like _loon_, _coot_, _moot_, _noon_ [[in Received Pronunciation]],
+   presents no changes in
+   the sounds of the few characters found under it worth noticing.
+   _(Poon, foot.)_
+
+28.
+  _F(u/)i_ [[fui]] is a well defined diphthong,
+  like _buoy_ [[in Received Pronunciation]],
+  broader than _sui_ [[seoi]] in the 22d~order,
+  and having only one initial in common with that;
+  the consonant has much influence on the quantity of the vowel.
+  _(Tsoÿ, luÿ, kooy, nui, oo-e.)_
+
+29.
+  _Ch(e/)_ [[now ze]],
+  like _may_, _lay_, _they_, _yea_ [[in Received Pronunciation]];
+  it has few aberrations,
+  and most of those are mispronunciations from the 3d~order [[ei]],
+  under a few initial
+  _(Yay, ya, se-ay.)_
 ++
 
 --{.modern}
