@@ -1288,6 +1288,40 @@ in parenthesis under each number.
 
 ###{#initials} List of the Initials.
 
+
+--{.williams}
+No list of initials is given in the Fan Wan ; there are twenty-three
+in all, which are here represented by the following characters.
+The first one is a mute, and used when the final only is pronounced,
+having no consonant before it.
+--
+++{.williams}
+1. Au [[au]] 毆
+2. Chi [[merged into zi]] 之
+3. Ch'ut [[merged into ceot]] 出
+4. Fung [[fung]] 風
+5. Hoi [[hoi]] 開
+6. K(i/)n [[gin]] 見
+7. K(')ing [[king]] 傾
+8. Kwai [[gwai]] 鬼
+9. Kw(')(a/) [[kwa]] 誇
+10. Lam [[lam]] 林
+11. M(a/) [[maa]] 馬
+12. N(a/)m [[naam]] 南
+13. Ng(a/) [[ngaa]] 牙
+14. P(a/) [[baa]] 把
+15. P(')o [[po]] 婆
+16. S(a/)m [[saam]] 三
+17. Shing [[merged into sing]] 聖
+18. T(a/) [[daa]] 打
+19. T(')oi [[toi]] 台
+20. Tsing [[zing]] 精
+21. Ts(')ai [[cai]] [齊]
+22. W(a/) [[waa]] 華
+23. Ying [[jing]] 英
+++
+
+
 ###{#orthography} System of Orthography Used in this Dictionary.
 
 
