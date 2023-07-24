@@ -163,7 +163,7 @@ the initials _sh_ or _f_ are not found in the Ti(e/)chi(u/), or the initials _b_
 _lw_, or _mw_ in the Canton; the oblique sound of _(u\)_ in _turn_ is one of
 most common finals in the former, and one of the rarest in the latter;
 there are no nasal sounds in the Canton, and no words ending with
-the finals _i(a/)ng_, _i(a/)k, both of which are common in the Ti(e/)chi(u/).
+the finals _i(a/)ng_, _i(a/)k_, both of which are common in the Ti(e/)chi(u/).
 These differences are among the most noticeable between the two
 leading dialects of this provkice, but the variations as one goes from
 Ch(a/)uchau~f(u/) [[潮州府]] westward to Canton city, are numberless, nearly every
@@ -1059,7 +1059,7 @@ in parenthesis under each number.
   _(Pun, kăn, fut, yet, chăt.)_
 
 9.
-  _Ch(e/)ung_ [[now zoeng]], _ch(e/)uk [[now zoek]],
+  _Ch(e/)ung_ [[now zoeng]], _ch(e/)uk_ [[now zoek]],
   like the combined sounds in _say 'em_ [[in Received Pronunciation]]; there
   is no English word with this diphthong [[now not a diphthong]].
   The variations in this final are rare.
