@@ -184,9 +184,6 @@ the motives or principles which guided the compilers in arranging
 the characters. It is as follows:---
 --
 """"{.williams}
-[[See [`id=WO5WAAAAcAAJ` at Google Books][序] for the probable original Chinese.]]
-
-[序]: https://books.google.com/books?id=WO5WAAAAcAAJ&newbks=0&pg=PP5
 --
 Books giving the sounds of characters, and forms for letter-writers,
 are among the most common works in bookstores; but the
@@ -214,6 +211,15 @@ these remarks. A prefatory note.
 --
 Summer of 1782.
 --
+
+[[The English here more closely matches the Chinese text
+of a [Summer of 1833 (道光癸巳年仲夏) preface][1833]
+than a [Summer of 1782 (乾隆歲次壬寅仲夏) preface][1782].
+It is likely that Williams had a third edition whose text was
+closer to said 1833 version, yet still dated 1782.]]
+
+[1833]: https://nla.gov.au/nla.obj-56620350/view?partId=nla.obj-56620571#page/n2/mode/1up
+[1782]: https://books.google.com/books?id=WO5WAAAAcAAJ&newbks=0&pg=PP5
 """"
 
 --{.williams}
