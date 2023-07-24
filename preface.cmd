@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 #{.williams} %title
 
 --{.modern}
-[[From [Page~v of the original][v] onwards.]]
+[[From [Page~v of the original]{#page-v}[v] onwards.]]
 --
 
 [v]: https://archive.org/details/tonicdictionaryo00will/page/n8/mode/1up
@@ -58,7 +58,7 @@ of the Introduction, and it is hoped that it will be found to work
 well in practice. How the work itself has been performed, and
 whether it is any advance on what has been already done, will be
 decided by those who use it. With the books already published,
-[[[Page~vi][vi] here]]
+[[[Page~vi]{#page-vi}[vi] here]]
 it will form a tolerably complete apparatus for learning the Canton
 dialect, though not all that is wanted. These works are five, _viz._---
 --
@@ -102,7 +102,7 @@ illustrated.
 
 --{.williams}
 The difficulties in making a complete Anglo--Chinese lexicon result from three causes. _First_, the vast extent of the literature, running
-[[[Page~vii][vii] here]]
+[[[Page~vii]{#page-vii}[vii] here]]
 through many ages, naturally involve changes in the use of words
 by so many authors of different degrees of intellect, genius, and
 learning. The same word has been used by these authors to
@@ -143,7 +143,7 @@ space did not permit a large portion of these phrases to be explained
 as fully as would have been desirable to understand their application.
 Technical uses of words in law, medicine, astrology, poetry, and
 such science as the Chinese possess, have not been very extensively
-[[[Page~viii][viii] here]]
+[[[Page~viii]{#page-viii}[viii] here]]
 collected hitherto; this work probably contains a few more than
 any other, and perhaps expressed a little more definitely. It is no
 assistance to a foreigner to know that _(5)l(i/)_ [[鯉; lei5]] is the name of a fish, or
