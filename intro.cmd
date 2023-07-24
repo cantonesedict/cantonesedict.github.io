@@ -1074,7 +1074,7 @@ in parenthesis under each number.
   under this final into the two terminations of _(u/)_ [[u]] and _(o\)_ [[ou]],
   and have combined them apparently because in the court dialect most of
   them ended in _(u/)_. Those beginning with _l_ [[l]], _m_ [[m]],
-  _sh_, and _s_ [[merged into s]] slide
+  _sh_ [[merged into s]], and _s_ [[s]] slide
   from _l(u/)_, _m(u/)_, _s(u/)_, _sh(u/)_,
   into _l(o\)_, _m(o\)_, _sh(o\)_, _s(o\)_,
   but under other initials there is
