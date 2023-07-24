@@ -6,7 +6,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Preface
-* %date-modified --> 2023-07-22
+* %date-modified --> 2023-07-24
 * %copyright-prior-years -->
 
 %%%
@@ -165,7 +165,7 @@ them with. The proof sheets were kindly looked over by Rev.~John B.~French,
 to whose careful examination of the tones and sounds
 the work owes much of its accuracy. A few errors in the tones,
 aspirates, and sounds of the words have unavoidably crept in, some
-of have already been noticed, but it has not been thought
+of which have already been noticed, but it has not been thought
 necessary to make out a full list of errata.
 --
 
