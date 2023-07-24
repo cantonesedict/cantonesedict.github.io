@@ -6,7 +6,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Introduction
-* %date-modified --> 2023-07-23
+* %date-modified --> 2023-07-24
 * %copyright-prior-years -->
 
 %%%
@@ -1056,7 +1056,7 @@ in parenthesis under each number.
   like the combined sounds in _say 'em_ [[in Received Pronunciation]]; there
   is no English word with this diphthong [[now not a diphthong]].
   The variations in this final are rare.
-  _(Chaong, cheong, lay-ung, yok, naung, tsay-uk.)
+  _(Chaong, cheong, lay-ung, yok, naung, tsay-uk.)_
 
 10.
   _Kong_ [[gong]], _kok_ [[gok]],
