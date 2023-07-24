@@ -29,6 +29,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 [xviii]: https://archive.org/details/tonicdictionaryo00will/page/n23/mode/1up
 [xix]: https://archive.org/details/tonicdictionaryo00will/page/n24/mode/1up
 [xx]: https://archive.org/details/tonicdictionaryo00will/page/n25/mode/1up
+[xxi]: https://archive.org/details/tonicdictionaryo00will/page/n26/mode/1up
 
 
 ##{#canton} 1. The Canton Dialect.
@@ -1320,6 +1321,132 @@ having no consonant before it.
 22. W(a/) [[waa]] 華
 23. Ying [[jing]] 英
 ++
+--{.williams}
+The diversities in the initials are so much fewer than those in the
+finals, that they are soon described, though for their number they
+give more trouble, perhaps, than the others.
+--
+===={.williams}
+- 1. All words having no initial consonant, are very liable to have
+  a nasal _ng_ [[ng]] or an _h_ [[h]] prefixed to them, or to have the vowel altered.
+  The people in Hi(a/)ngsh(a/)n, Macao, and Sin-ng(a/)n [[新安]], change many words
+  in this way, so that if one does not see the character, he will look
+  for it under _h_ or _ng_.
+
+- 2,~20. The initials _ch_ and _ts_ are constantly confounded, and some
+  persons are absolutely unable to detect the difference, more frequently
+  calling the words under _ts_ as _ch_, than contrariwise.
+  All characters
+  [[[Page~xxi][xxi] before 'racters']]
+  with the sounds _tsz'_ and _ts(')z'_ are liable to be heard _ch(i/)_ and
+  _ch(')(i/)_, with a stronger breathing than those properly read _ch(i/)_ and
+  _ch(')(i/)_.
+
+  <ins class="modern">
+  --
+  (Indeed modern Cantonese has merged the pairs:
+  --
+  =={.modern}
+  - _ch_~[tɕ] and _ts_~[ts] (represented in Jyutping as z);
+  - _ch(')_~[tɕʰ] and _ts(')_~[tsʰ] (represented in Jyutping as c); and
+  - _sh_~[ɕ] and _s_~[s] (represented in Jyutping as s).
+  ==
+  --
+  But it is not quite as simple as that.
+  In two decades of personal experience,
+  I have perceived a *tendency* for speakers to
+  consistently favour specific initials depending on the vowel afterward:
+  --
+  ||||{.wide}
+  ''
+    |^
+      //
+        ; Vowel afterwards
+        ;{c=3} Favoured post-merger initials
+      //
+        , [aː] aa
+        ,{r=5} _ts_ [ts]
+        ,{r=5} _ts(')_ [tsʰ]
+        ,{r=10} _s_ [s]
+      //
+        , [ɐ] a
+      //
+        , [ɛː] e
+      //
+        , [e] i
+      //
+        , [iː] i
+      //
+        , [ɔː] o
+        ,{r=6} _ch_ [tɕ]
+        ,{r=6} _ch(')_ [tɕʰ]
+      //
+        , [o] o
+      //
+        , [uː] u
+      //
+        , [œ] oe
+      //
+        , [ɵ] eo
+      //
+        , [yː] yu
+        , _sh_ [ɕ]
+  ''
+  ||||
+  --
+  For example, the modern speaker will prefer:
+  --
+  ==
+  - _sek_ [sɛːk̚] over _shek_ [ɕɛːk̚] for 石;
+  - _s(a/)ng ch(')oi_ [saːŋ tɕʰɔːy] over
+    _sh(a/)ng ts(')oi_ [ɕaːŋ tsʰɔːy] for 生菜.
+  ==
+  --
+  This subtlety is not captured by any modern romanisation scheme
+  that collapses the merged pairs.
+  --
+  --
+  Here endeth the rant.)
+  --
+  </ins>
+
+- 4. The people along the coast and south of Canton often alter the
+  initial _f_ [[f]] into _h_ [[h]] or _w_ [[w]] in some words, and retain it in others; it
+  changes sooner before _(a/)_ [[a]] or _a_ [[a]],
+  than before _(i/)_ [[long i]] or _u_ [[u]].
+
+- 10,~11. The two initials _l_ [[l]] and _m_ [[m]] are frequently so interchanged in
+  the mouths of some people, that one is much puzzled to distinguish
+  them, and even _n_ is altered too;
+    as _l(a/)m_ [[laam]] 南 for _n(a/)m_ [[naam]];
+    _m(a/)n_ [[maan]] 欄 for _l(a/)n_ [[laan]];
+    _l(o\)_ [[lou]] 奴 for _n(o\)_ [[nou]];
+    &c.
+  The number of such words is not very
+  great, and while the few who speak thus cannot discriminate the
+  inital consonant before some vowels, they never interchange them
+  before others.
+
+- 16,~17. The initial _sh_ is called _s_ along the coast;
+  in the districts of Hi(a/)ngsh(a/)n, Sinning [[新寧]] and Sinngan,
+  this obtains to a very great extent;
+  _shui_ 水, _sh(u")_ 書, _shuk_ 熟, _sh(a/)ng shing_ 省城, &c. &c.,
+  being heard _sui_, _s(u")_, and _s(a/)ng sing_, as in the Ti(e/)chi(u/) and Amoy
+  dialects. The initial _sh_ is a complete shibboleth to the people of
+  those districts. West of Canton, many are found who change _sz'_ [[si]]
+  into _s(u")_ [[syu]], and a large part of the words beginning with _s_ are changed
+  into _sh_ just the opposite of the usage at Macao.
+  [[See rant at 2,~20. for more on _sh_ versus _s_.]]
+====
+--{.williams}
+These five classes of changes are the most frequent, and with
+those in the finals may perhaps discourage the beginner whether he
+be able to learn a speech which varies so much in its pronunciation.
+The proportion the variants bear to the whole body of characters
+is not so great, however, as he might conclude, and when once
+ascertained it will not be difficult to follow them; besides which, no
+individual will ever be found who has them all.
+--
 
 
 ###{#orthography} System of Orthography Used in this Dictionary.
