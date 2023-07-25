@@ -1458,6 +1458,7 @@ adopted in this Dictionary is nearly like that proposed by Sir W.~Jones,
 and already used to some extent in China. It is exhibited
 in the following table:---
 --
+
 ||||{.wide}
 ''{.williams}
 |:
@@ -1562,6 +1563,64 @@ in the following table:---
 ''
 ||||
 
+--{.williams}
+The consonants need no illustration, as they are uniformly
+pronounced as in English [[modulo aspiration]]:---
+--
+
+||||{.wide}
+''{.williams}
+|:
+  //
+    , _ch_
+    , as in _church_;
+  //
+    , _f_
+    , as in _fife_;
+  //
+    , _h_
+    , as in _have_;
+  //
+    , _k_
+    , as in _king_;
+  //
+    , _kw_
+    , as in _quality_;
+  //
+    , _l_
+    , as in _lame_;
+  //
+    , _m_
+    , as in _maim_;
+  //
+    , _n_
+    , as in _nun_;
+  //
+    , _ng_
+    , as in _sing_;
+  //
+    , _p_
+    , as in _pap_;
+  //
+    , _s_
+    , as in _sea_, _yes_;
+  //
+    , _sh_
+    , as in _shut_, _chaise_;
+  //
+    , _t_
+    , as in _title_;
+  //
+    , _ts_
+    , as in _ratsbane_, _wits_;
+  //
+    , _w_
+    , as in _wing_;
+  //
+    , _y_
+    , as in _yard_;
+''
+||||
 
 ##{#tones} 2. The Tones.
 
