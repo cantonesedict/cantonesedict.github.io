@@ -34,6 +34,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 [xxiii]: https://archive.org/details/tonicdictionaryo00will/page/n28/mode/1up
 [xxiv]: https://archive.org/details/tonicdictionaryo00will/page/n29/mode/1up
 [xxv]: https://archive.org/details/tonicdictionaryo00will/page/n30/mode/1up
+[xxvi]: https://archive.org/details/tonicdictionaryo00will/page/n31/mode/1up
 
 
 ##{#canton} 1. The Canton Dialect.
@@ -1568,7 +1569,7 @@ in the following table:---
 
 --{.williams}
 The consonants need no illustration, as they are uniformly
-pronounced as in English [[modulo aspiration]]:---
+pronounced as in English [[modulo aspirates]]:---
 --
 
 ||||{.wide}
@@ -1675,11 +1676,57 @@ column is arranged according to the table from the Fan Wan on
 [page~xiv](#page-xiv), and not alphabetically.
 --
 
---{.modern}
+--{.williams}
 [["Table of Sounds in the Canton Dialect"
 covers [Page~xxiv of the original]{#page-xxiv}[xxiv]
 and [Page~xxv of the original]{#page-xxv}[xxv];
 omitted here due to its size.]]
+--
+
+--{.williams}
+[[[Page~xxvi of the original]{#page-xxvi}[xxvi] here]]
+The final _h(u\)_ [[hoe]], _k(u\)_ [[goe]], _l(u\)_ [[loe]] &c.,
+in the last line but one in this Table,
+is not found in the Fan Wan at all; the compilers appear to have
+thought it unnecessary to add a whole order and another final for
+the sake of one character, _h(u\)_ [[hoe]] 靴 a boot, the only one in the dialect
+not vulgar or colloquial.
+--
+
+--{.williams}
+It will prove serviceable for the student to make out a table of
+characters to correspond to this table of sounds, and read them
+across and down with a native, so as to notice the effect made on
+a final by changing the initial, and the alterations produced on an
+initial under many finals. Reading over such a table a dozen times
+with as many educated natives, will give as distinct an idea of the
+changes which characters undergo in their sounds in the speech of
+different persons, as can be obtained.
+--
+
+--{.williams}
+There have been attempts to follow up these changes in writing
+this dialect in Roman letters, but in all cases it is better to adhere
+to the classified arrangement given in the Fan Wan, and remember
+the exceptions as being such. In the vocabularies and phrase-books
+of Dr.~Morrison, Mr.~Devan and Mr.~Bonney, no attention has been
+paid to the classes of finals as given in the Fan Wan, or to the tones
+or aspirates, and the errors in writing the words are numerous, even
+according to their own modes of spelling.
+--
+
+--{.williams}
+The system of writing Chinese sounds here followed, has been
+adopted, with some slight variations, in writing other dialects of
+the language; but it would be a great advantage to all[ ]students in it
+if all the modes of spelling the dialects could be harmonized. It is
+not supposed, by this remark, that this one is the best which could
+be proposed, for some features of it could be modified to advantage,
+but it certainly is more accurate for the student's use than to follow
+the common English alphabet, with all its strange anomalies. The
+various modes of writing each sound, as quoted after the remarks on
+pp.~[xvi](#page-xvi)....[xix](#page-xix), show how much difficulty has been felt by those who
+have tried to write them according to the English alphabet.
 --
 
 
