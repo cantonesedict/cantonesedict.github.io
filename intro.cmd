@@ -32,6 +32,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 [xxi]: https://archive.org/details/tonicdictionaryo00will/page/n26/mode/1up
 [xxii]: https://archive.org/details/tonicdictionaryo00will/page/n27/mode/1up
 [xxiii]: https://archive.org/details/tonicdictionaryo00will/page/n28/mode/1up
+[xxiv]: https://archive.org/details/tonicdictionaryo00will/page/n29/mode/1up
+[xxv]: https://archive.org/details/tonicdictionaryo00will/page/n30/mode/1up
 
 
 ##{#canton} 1. The Canton Dialect.
@@ -1671,6 +1673,13 @@ however most frequently run into other sounds occurring in the table,
 and do often exhibit new sounds. The list of finals in the first
 column is arranged according to the table from the Fan Wan on
 [page~xiv](#page-xiv), and not alphabetically.
+--
+
+--{.modern}
+[["Table of Sounds in the Canton Dialect"
+covers [Page~xxiv of the original]{#page-xxiv}[xxiv]
+and [Page~xxv of the original]{#page-xxv}[xxv];
+omitted here due to its size.]]
 --
 
 
