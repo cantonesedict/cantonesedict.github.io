@@ -6,7 +6,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Title Page: 《英華分韻撮要》
-* %date-modified --> 2023-07-22
+* %date-modified --> 2023-07-25
 * %copyright-prior-years -->
 
 %%%
@@ -16,6 +16,11 @@ OrdinaryDictionaryReplacement: #.properties-override
 --{.modern}
 [[lit. "Anglo--Chinese Rime-Divided Handpicked Essentials"]]
 --
+
+--{.modern}
+[[From [the title page of the original][n12], after Page~viii.]]
+--
+[n12]: https://archive.org/details/tonicdictionaryo00will/page/n12/mode/1up
 
 --{.williams .title-information}
 咸豐丙辰年鐫
