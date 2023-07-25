@@ -35,6 +35,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 [xxiv]: https://archive.org/details/tonicdictionaryo00will/page/n29/mode/1up
 [xxv]: https://archive.org/details/tonicdictionaryo00will/page/n30/mode/1up
 [xxvi]: https://archive.org/details/tonicdictionaryo00will/page/n31/mode/1up
+[xxvii]: https://archive.org/details/tonicdictionaryo00will/page/n32/mode/1up
 
 
 ##{#canton} 1. The Canton Dialect.
@@ -189,7 +190,7 @@ work is a mere bookseller's recommendation, and gives no hints upon
 the motives or principles which guided the compilers in arranging
 the characters. It is as follows:---
 --
-""""{.williams}
+""""{.williams .quoted}
 --
 Books giving the sounds of characters, and forms for letter-writers,
 are among the most common works in bookstores; but the
@@ -1727,6 +1728,51 @@ the common English alphabet, with all its strange anomalies. The
 various modes of writing each sound, as quoted after the remarks on
 pp.~[xvi](#page-xvi)....[xix](#page-xix), show how much difficulty has been felt by those who
 have tried to write them according to the English alphabet.
+--
+
+--{.williams}
+Mr.~Goddard, in his Ti(e/)chi(u/) Vocabulary, uses _(a/)_, _a_ and _(u\)_ as in this
+table, but _e_, _i_, _i_, _(o/)_, and _u_, are substituted by him
+for the _(e/)_, _(i/)_, _(o\)_, _o_, and _(u/)_,
+in this table. He did not perceive that he was confusing his
+own pronunciation by representing the _(i/)_ in _machine_ and in _pin_ by
+the same letter; as he was by blending the _e_ in _they_ and _men_. At
+[[[Page~xxvii of the original]{#page-xxvii}[xxvii] here]]
+Amoy, unaccented vowels have been used, and the tones marked
+by accents over the letters, which is likely still more to confuse
+those who may try to read the sounds in that dialect, as a single
+quotation will show.
+--
+<## ⁿ U+207F SUPERSCRIPT LATIN SMALL LETTER N ##>
+<## ◌̀ U+0300 COMBINING GRAVE ACCENT ##>
+<## ◌́ U+0301 COMBINING ACUTE ACCENT ##>
+<## ◌̂ U+0302 COMBINING CIRCUMFLEX ACCENT ##>
+<## ◌̄ U+0304 COMBINING MACRON ##>
+<## ◌̍ U+030D COMBINING VERTICAL LINE ABOVE ##>
+<## ◌͘ U+0358 COMBINING DOT ABOVE RIGHT ##>
+""""{.williams}
+_Só͘ kóng ê, tiap-á-kú, chin-chiàⁿ sī siáⁿ-mih ì-sù?
+Goá m̄ chai i ê só͘ kóng._
+""""
+
+--{.williams}
+At Fuhchau, the dialect is written very nearly like the Amoy,
+without the tones superadded; but at Ningpo there is more dissimilarity,
+as an example will show.
+--
+""""{.williams}
+_C(u")-go t(')in-s yin-c(')ih-lœ, lih-lœ hyiang-en-go jing-siu-pin._
+""""
+
+--{.williams}
+The differences between all these modes of writing Chinese sounds
+are really not very great, for in none of them has the English alphabet
+been followed, and it would not be very difficult to reconcile
+them to one standard, an object which appears still more desirable
+when the plan of Romanizing them for the use of unlearned natives
+is taken into the account. Perhaps it would, however, be best to
+discard them all, and adopt Lepsius' universal alphabet, with which
+he proposes to harmonize the mode of writing all languages.
 --
 
 
