@@ -1641,7 +1641,7 @@ being regarded as the standards of authority of the two. The
 additional finals and initials found in the Court Dialect alone are the
 following:---
 --
-==
+=={.williams}
 - _ei_, nearly as in _weigh_ [[in Received Pronunciation]],
   but very open, both vowels being heard.
 - _i(a/)_, as in _yard_ [[in Received Pronunciation]], _piastre_, both vowels plainly heard.
