@@ -1418,7 +1418,7 @@ give more trouble, perhaps, than the others.
 
 - 4. The people along the coast and south of Canton [[廣州]] often alter the
   initial _f_ [[f]] into _h_ [[h]] or _w_ [[w]] in some words, and retain it in others; it
-  changes sooner before _(a/)_ [[a]] or _a_ [[a]],
+  changes sooner before _(a/)_ [[aa]] or _a_ [[a]],
   than before _(i/)_ [[long i]] or _u_ [[u]].
 
 - 10,~11. The two initials _l_ [[l]] and _m_ [[m]] are frequently so interchanged in
