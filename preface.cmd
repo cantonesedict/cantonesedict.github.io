@@ -59,7 +59,7 @@ well in practice. How the work itself has been performed, and
 whether it is any advance on what has been already done, will be
 decided by those who use it. With the books already published,
 [[[Page~vi of the original]{#page-vi}[vi] here]]
-it will form a tolerably complete apparatus for learning the Canton
+it will form a tolerably complete apparatus for learning the Canton [[廣州]]
 dialect, though not all that is wanted. These works are five, _viz._---
 --
 =={.williams}
@@ -130,7 +130,7 @@ this language.
 --
 
 --{.williams}
-This volume will assist in learning to speak the Canton dialect,
+This volume will assist in learning to speak the Canton [[廣州]] dialect,
 and as the meanings of the characters are the same, any one can
 use it in translating. It is as suitable for learning the Court dialect
 as Morrison's is for learning the Canton or Ti(e/)chi(u/) [[潮州]] dialects; and
@@ -174,5 +174,5 @@ S.~W.~W. [[Samuel Wells Williams]]
 --
 
 --{.williams}
-Canton, August~1st, 1856.
+Canton [[廣州]], August~1st, 1856.
 --

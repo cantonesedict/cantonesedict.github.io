@@ -74,7 +74,7 @@ made in their courts by the common people.
 
 --{.williams}
 [[[Page~x of the original]{#page-x}[x] here]]
-The variations between the court and Canton dialects, in the
+The variations between the court and Canton [[廣州]] dialects, in the
 pronunciation of the great body of characters, are so regular as to
 enable one to guess with a tolerable degree of certainty, what their
 sounds are in the other, the more so because the variations are
@@ -151,7 +151,7 @@ changes in the finals are here given:---
 ||||
 --{.williams}
 The frequency of the abrupt consonontal terminations _k_, _p_, and _t_,
-in the Canton dialect, immediately strike a northerner from Ki(a/)ngs(u/) [[江蘇]],
+in the Canton [[廣州]] dialect, immediately strike a northerner from Ki(a/)ngs(u/) [[江蘇]],
 who has been used to hear all terminations soft and flowing ; but
 the people from those provinces are said to learn this dialect sooner
 than those from Amoy [[廈門]] and Fuhchau [[福州]], whose nasal sounds and
@@ -162,7 +162,7 @@ require almost the acquisition of a double medium.
 --
 
 --{.williams}
-The variations between the Ti(e/)chi(u/) and Canton dialects consist
+The variations between the Ti(e/)chi(u/) [[潮州]] and Canton [[廣州]] dialects consist
 in changes in both initials and finals, each having some sounds
 which are unknown, or very uncommon in the other. For instance,
 the initials _sh_ or _f_ are not found in the Ti(e/)chi(u/), or the initials _b_ [[voiced [b], not voiceless [p]<` `>]],
@@ -178,7 +178,7 @@ village exhibiting some peculiarities in the sounds of a few words.
 
 --{.williams}
 [[[Page~xi of the original]{#page-xi}[xi] here]]
-The standard of pronunciation for the Canton dialect is a small
+The standard of pronunciation for the Canton [[廣州]] dialect is a small
 duodecimo handbook, sometimes issued separately, but more frequently
 combined with a letter-writer and forms of invitation, cards,
 funeral eulogies, &c., so that one may help to sell the other. It is
@@ -235,7 +235,7 @@ sold for twenty-five cents; it contains 7327~characters, and only 175~pages,
 or on the average 42~to each page, which plainly shows how
 [[[Page~xii of the original]{#page-xii}[xii] here]]
 meagre are the definitions. In comparison with the local vocabularies
-used at Amoy and Fuhchau, it is very imperfect, and proves the
+used at Amoy [[廈門]] and Fuhchau [[福州]], it is very imperfect, and proves the
 ignorance of the compilers of what was wanted for a local dictionary,
 or leads one to infer that they did not know how to prepare a
 good one. There is no table of initials and finals as in those vocabularies,
@@ -243,7 +243,7 @@ nor any list of syllables, by combining which one can get
 the proper sound of a character; for he who uses it, strangely enough,
 is supposed to know already the sound of the character he is in
 search of. The unwritten sounds or colloquial words used by the
-people of Canton are nearly all omitted, which is one of the greatest
+people of Canton [[廣州]] are nearly all omitted, which is one of the greatest
 defects in it, and renders it far less useful to the foreigner who is
 learning the dialect than those just spoken of. One reason, probably,
 why so little notice is taken of these colloquial words in the Fan Wan [[分韻]]
@@ -1045,12 +1045,12 @@ in parenthesis under each number.
   that a separate list has been made of them in the general Table of Sounds,
   but the proportion is small;
   all the common words are noticed in the body of the Dictionary.
-  At Macao and thereabouts, a large proportion change
+  At Macao [[澳門]] and thereabouts, a large proportion change
   the final into _ang_ [[ang]] and _ak_ [[ak]] of the 15th~order,
   as 兄, 京, 明, 擰, 兵,
   into _hang_ [[hang]], _kang_ [[gang]], _mang_ [[mang]],
   _nang_ [[nang]], _pang_ [[bang]], &c., by which the people from
-  Hi(a/)ngsh(a/)n [[香山]] district are recognized at Canton.
+  Hi(a/)ngsh(a/)n [[香山]] district are recognized at Canton [[廣州]].
   _(Leng, paëng, te-ang, saung.)_
 
 8.
@@ -1061,7 +1061,7 @@ in parenthesis under each number.
   passing into the long sound _(a/)t_ [[aat]]
   of the 25th~order, are occasionally heard, but a more frequent change
   is into _p(i/)n_, _p(i/)t_, or _pen_, _pet_, which is peculiar to the people of the
-  districts of Sinhwui and K(a/)uy(a/)u [[高要]] southwest of Canton.
+  districts of Sinhwui [[新會]] and K(a/)uy(a/)u [[高要]] southwest of Canton [[廣州]].
   _(Pun, kăn, fut, yet, chăt.)_
 
 9.
@@ -1135,7 +1135,7 @@ in parenthesis under each number.
 16.
   _Sz'_ [[si]], _tsz'_ [[zi]],
    like no words in the English language, but much
-   like a hiss. The people of Canton itself pronounce these two words
+   like a hiss. The people of Canton [[廣州]] itself pronounce these two words
    very clearly, but in the villages around and south of it, they are
    changed into _sh(i/)_, _s(u")_, _sz(u")_, _sch(i/)_, _ts(u")_, _ts(i/)_, _ch(')(i/)_,
    so that in many cases it is hard to recognize them.
@@ -1335,7 +1335,7 @@ give more trouble, perhaps, than the others.
 ===={.williams}
 - 1. All words having no initial consonant, are very liable to have
   a nasal _ng_ [[ng]] or an _h_ [[h]] prefixed to them, or to have the vowel altered.
-  The people in Hi(a/)ngsh(a/)n, Macao, and Sin-ng(a/)n [[新安]], change many words
+  The people in Hi(a/)ngsh(a/)n [[香山]], Macao [[澳門]], and Sin-ng(a/)n [[新安]], change many words
   in this way, so that if one does not see the character, he will look
   for it under _h_ or _ng_.
 
@@ -1416,7 +1416,7 @@ give more trouble, perhaps, than the others.
   --
   </ins>
 
-- 4. The people along the coast and south of Canton often alter the
+- 4. The people along the coast and south of Canton [[廣州]] often alter the
   initial _f_ [[f]] into _h_ [[h]] or _w_ [[w]] in some words, and retain it in others; it
   changes sooner before _(a/)_ [[a]] or _a_ [[a]],
   than before _(i/)_ [[long i]] or _u_ [[u]].
@@ -1434,14 +1434,14 @@ give more trouble, perhaps, than the others.
   before others.
 
 - 16,~17. The initial _sh_ is called _s_ along the coast;
-  in the districts of Hi(a/)ngsh(a/)n, Sinning [[新寧]] and Sinngan,
+  in the districts of Hi(a/)ngsh(a/)n [[香山]], Sinning [[新寧]] and Sinngan [[新安]],
   this obtains to a very great extent;
   _shui_ 水, _sh(u")_ 書, _shuk_ 熟, _sh(a/)ng shing_ 省城, &c. &c.,
-  being heard _sui_, _s(u")_, and _s(a/)ng sing_, as in the Ti(e/)chi(u/) and Amoy
+  being heard _sui_, _s(u")_, and _s(a/)ng sing_, as in the Ti(e/)chi(u/) [[潮州]] and Amoy [[廈門]]
   dialects. The initial _sh_ is a complete shibboleth to the people of
-  those districts. West of Canton, many are found who change _sz'_ [[si]]
+  those districts. West of Canton [[廣州]], many are found who change _sz'_ [[si]]
   into _s(u")_ [[syu]], and a large part of the words beginning with _s_ are changed
-  into _sh_ just the opposite of the usage at Macao.
+  into _sh_ just the opposite of the usage at Macao [[澳門]].
   [[See rant at 2,~20. for more on _sh_ versus _s_.]]
 ====
 --{.williams}
@@ -1629,7 +1629,7 @@ pronounced as in English [[modulo aspirates]]:---
 
 --{.williams}
 The above comprise all the vowels, diphthongs and consonants,
-found in the Canton dialect. In addition the Court Dialect contains
+found in the Canton [[廣州]] dialect. In addition the Court Dialect contains
 a few more, and as the pronunciation of each character in the
 [[[Page~xxiii of the original]{#page-xxiii}[xxiii] here]]
 Fan Wan is given in that dialect under it, they are here added.
@@ -1731,14 +1731,14 @@ have tried to write them according to the English alphabet.
 --
 
 --{.williams}
-Mr.~Goddard, in his Ti(e/)chi(u/) Vocabulary, uses _(a/)_, _a_ and _(u\)_ as in this
+Mr.~Goddard, in his Ti(e/)chi(u/) [[潮州]] Vocabulary, uses _(a/)_, _a_ and _(u\)_ as in this
 table, but _e_, _i_, _i_, _(o/)_, and _u_, are substituted by him
 for the _(e/)_, _(i/)_, _(o\)_, _o_, and _(u/)_,
 in this table. He did not perceive that he was confusing his
 own pronunciation by representing the _(i/)_ in _machine_ and in _pin_ by
 the same letter; as he was by blending the _e_ in _they_ and _men_. At
 [[[Page~xxvii of the original]{#page-xxvii}[xxvii] here]]
-Amoy, unaccented vowels have been used, and the tones marked
+Amoy [[廈門]], unaccented vowels have been used, and the tones marked
 by accents over the letters, which is likely still more to confuse
 those who may try to read the sounds in that dialect, as a single
 quotation will show.
@@ -1756,7 +1756,7 @@ Goá m̄ chai i ê só͘ kóng._
 """"
 
 --{.williams}
-At Fuhchau, the dialect is written very nearly like the Amoy,
+At Fuhchau [[福州]], the dialect is written very nearly like the Amoy,
 without the tones superadded; but at Ningpo there is more dissimilarity,
 as an example will show.
 --
