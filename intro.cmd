@@ -69,7 +69,7 @@ made in their courts by the common people.
 --
 
 --{.williams}
-[[[Page~x]{#page-x}[x] here]]
+[[[Page~x of the original]{#page-x}[x] here]]
 The variations between the court and Canton dialects, in the
 pronunciation of the great body of characters, are so regular as to
 enable one to guess with a tolerable degree of certainty, what their
@@ -173,7 +173,7 @@ village exhibiting some peculiarities in the sounds of a few words.
 --
 
 --{.williams}
-[[[Page~xi]{#page-xi}[xi] here]]
+[[[Page~xi of the original]{#page-xi}[xi] here]]
 The standard of pronunciation for the Canton dialect is a small
 duodecimo handbook, sometimes issued separately, but more frequently
 combined with a letter-writer and forms of invitation, cards,
@@ -229,7 +229,7 @@ closer to said 1833 version, yet still dated 1782.]]
 This pocket dictionary is usually bound in four thin volumes, and
 sold for twenty-five cents; it contains 7327~characters, and only 175~pages,
 or on the average 42~to each page, which plainly shows how
-[[[Page~xii]{#page-xii}[xii] here]]
+[[[Page~xii of the original]{#page-xii}[xii] here]]
 meagre are the definitions. In comparison with the local vocabularies
 used at Amoy and Fuhchau, it is very imperfect, and proves the
 ignorance of the compilers of what was wanted for a local dictionary,
@@ -270,7 +270,7 @@ the character _hau_ [[hau]] 口 mouth, or _yan_ [[jan]] 人 a man, at the side o
 well known character of the same sound, but not always of the same
 tone. The words _tsoi(6)_ [[zoi6]] a cargo; _(1)k(a/) (2)fo_ [[gaa1 fo2]] 傢伙, furniture;
 _(5)mai_ [[mai5]] 咪 do not; _(1)ts(')oi_ [[coi1]] 啋 pshaw! and _(2)t(e/)_ [[de2]] 嗲 remiss, &c., are examples
-[[[Page~xiii]{#page-xiii}[xiii] here]]
+[[[Page~xiii of the original]{#page-xiii}[xiii] here]]
 of this sort, Sometimes, again, a character which comes nearest in
 tone is taken to represent the needed sound, and the knowledge of
 the reader is expected to inform him that it is employed in a vulgar
@@ -317,7 +317,7 @@ include the terminations in the fourth tone.
 --
 
 --{.modern}
-[[Table covers [Page~xiv]{#page-xiv}[xiv] and [Page~xv]{#page-xv}[xv].]]
+[[Table covers [Page~xiv of the original]{#page-xiv}[xiv] and [Page~xv of the original]{#page-xv}[xv].]]
 --
 
 ||||{.wide}
@@ -963,7 +963,7 @@ include the terminations in the fourth tone.
 ||||
 
 --{.williams}
-[[[Page~xvi]{#page-xvi}[xvi] here]]
+[[[Page~xvi of the original]{#page-xvi}[xvi] here]]
 The variations heard in the pronunciation of words under these
 thirty-three finals, though rather perplexing, bear only a small proportion
 to the whole number of words in the language. The most
@@ -1034,7 +1034,7 @@ in parenthesis under each number.
   _(Soong, yok, tōk.)_
 
 7.
-[[[Page~xvii]{#page-xvii}[xvii] here]]
+[[[Page~xvii of the original]{#page-xvii}[xvii] here]]
   _Ying_ [[jing]], _yik_ [[jik]],
   like _sing_, _king_, _quick_, _wing_ [[in Received Pronunciation]].
   So many words under this order change the final into _eng_ and _ek_,
@@ -1107,7 +1107,7 @@ in parenthesis under each number.
   _(Heuet, sh(u/)n, (u/)t, une, sute.)_
 
 14.
-[[[Page~xviii]{#page-xviii}[xviii] here]]
+[[[Page~xviii of the original]{#page-xviii}[xviii] here]]
   _K(a/)i_ [[gaai]],
   like _aye_, _aisle_ [[in Received Pronunciation]],
   never shortened into _nigh_, _fly_, like the
@@ -1179,7 +1179,7 @@ in parenthesis under each number.
   easy to distinguish the _u_ in this order
   from the _u_ in _tung_, _tuk_, as
   some have endeavored to do, for if the word _tsun_ be slowly prolonged
-  [[[Page~xix]{#page-xix}[xix] before 'ed']] into _tsung_,
+  [[[Page~xix of the original]{#page-xix}[xix] before 'ed']] into _tsung_,
   it will be seen the difference is in the quantity rather
   than in the quality of the vowel.
   _(Tsun, soot.)_
@@ -1261,7 +1261,7 @@ in parenthesis under each number.
   _(Hoan, kon, (o/)n, kōt.)_
 
 31.
-[[[Page~xx]{#page-xx}[xx] here]]
+[[[Page~xx of the original]{#page-xx}[xx] here]]
   _K(o\)m_ [[now gam]], _k(o\)p_ [[now gap]],
   like _home_, _comb_, _hope_ [[in Received Pronunciation]],
   not like _some_, _come_, _sup_ [[in Received Pronunciation]],
@@ -1339,7 +1339,7 @@ give more trouble, perhaps, than the others.
   persons are absolutely unable to detect the difference, more frequently
   calling the words under _ts_ as _ch_, than contrariwise.
   All characters
-  [[[Page~xxi]{#page-xxi}[xxi] before 'racters']]
+  [[[Page~xxi of the original]{#page-xxi}[xxi] before 'racters']]
   with the sounds _tsz'_ and _ts(')z'_ are liable to be heard _ch(i/)_ and
   _ch(')(i/)_, with a stronger breathing than those properly read _ch(i/)_ and
   _ch(')(i/)_.
@@ -1480,7 +1480,7 @@ in the following table:---
     , _(e/)_ as in _they_, _neigh_, _say_ [[in Received Pronunciation]];
     , _ch(e/), m(e/), sh(e/), ts(e/)ung_.
   //
-    , 5. [[[Page~xxii]{#page-xxii}[xxii] here]]
+    , 5. [[[Page~xxii of the original]{#page-xxii}[xxii] here]]
     , _i_ as in _pin, finish_;
     , _ying, kik_.
   //
@@ -1627,7 +1627,7 @@ pronounced as in English [[modulo aspiration]]:---
 The above comprise all the vowels, diphthongs and consonants,
 found in the Canton dialect. In addition the Court Dialect contains
 a few more, and as the pronunciation of each character in the
-[[[Page~xxiii]{#page-xxiii}[xxiii] here]]
+[[[Page~xxiii of the original]{#page-xxiii}[xxiii] here]]
 Fan Wan is given in that dialect under it, they are here added.
 For the sounds given to the characters in this dialect, the dictionaries
 of De~Guignes, Morrison, Gonçalves, and Medhurst, nearly
