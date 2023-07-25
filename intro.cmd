@@ -6,7 +6,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Introduction
-* %date-modified --> 2023-07-24
+* %date-modified --> 2023-07-25
 * %copyright-prior-years -->
 
 %%%
@@ -78,7 +78,7 @@ all occur in characters having the fourth tone [[入聲 of Middle Chinese, not o
 changes in the finals are here given:---
 --
 ||||{.wide}
-''
+''{.williams}
 |^
   //
     ; Court
@@ -319,7 +319,7 @@ include the terminations in the fourth tone.
 --
 
 ||||{.wide}
-''
+''{.williams}
 |^
   //
     ;{c=9} Ords. First Series, comprising the Upper Tones.
