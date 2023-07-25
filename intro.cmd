@@ -30,6 +30,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 [xix]: https://archive.org/details/tonicdictionaryo00will/page/n24/mode/1up
 [xx]: https://archive.org/details/tonicdictionaryo00will/page/n25/mode/1up
 [xxi]: https://archive.org/details/tonicdictionaryo00will/page/n26/mode/1up
+[xxii]: https://archive.org/details/tonicdictionaryo00will/page/n27/mode/1up
 
 
 ##{#canton} 1. The Canton Dialect.
@@ -1107,7 +1108,7 @@ in parenthesis under each number.
 14.
 [[[Page~xviii]{#page-xviii}[xviii] here]]
   _K(a/)i_ [[gaai]],
-  like _aye_, _aisle_ [[in Conservative Received Pronunciation]],
+  like _aye_, _aisle_ [[in Received Pronunciation]],
   never shortened into _nigh_, _fly_, like the
   2d~final [[ai]], though that frequently is prolonged into this. The Chinese
   discriminate between the diphthongs _ai_ [[ai]] and _(a/)i_ [[aai]] with much accuracy,
@@ -1450,6 +1451,116 @@ individual will ever be found who has them all.
 
 
 ###{#orthography} System of Orthography Used in this Dictionary.
+
+--{.williams}
+The system of writing the sounds of the Chinese characters
+adopted in this Dictionary is nearly like that proposed by Sir W.~Jones,
+and already used to some extent in China. It is exhibited
+in the following table:---
+--
+||||{.wide}
+''{.williams}
+|:
+  //
+    , 1.
+    , _a_ as in _quota_, _variable_ [[in Received Pronunciation]];
+    , _fan, lam, tang, kat_.
+  //
+    , 2.
+    , _(a/)_ as in _father_ [[in Received Pronunciation]];
+    , _l(a/)n, k(a/)m, ch(a/)ng, p(a/)t, k(a/)p, h(a/)_.
+  //
+    , 3.
+    , _e_ as in _men_, _dead_, _said_ [[in Received Pronunciation]];
+    , _cheng, heng_.
+  //
+    , 4.
+    , _(e/)_ as in _they_, _neigh_, _say_ [[in Received Pronunciation]];
+    , _ch(e/), m(e/), sh(e/), ts(e/)ung_.
+  //
+    , 5. [[[Page~xxii]{#page-xxii}[xxii] here]]
+    , _i_ as in _pin, finish_;
+    , _ying, kik_.
+  //
+    , 6.
+    , _(i/)_ as in _machine_, _feel_, _ere_ [[in Received Pronunciation]];
+    , _h(i/), s(i/)n, k(i/)m_.
+  //
+    , 7.
+    , _o_ as in _long_, _lord_, _law_ [[in Conservative Received Pronunciation]];
+    , _ko, song, kon, kok, hot_.
+  //
+    , 8.
+    , _(o\)_ as in _so_, _hoe_, _crow_ [[in Received Pronunciation]];
+    , _n(o\), k(o\)m, h(o\)p_.
+  //
+    , 9.
+    , _u_ as in _bull_, [passing] into _rule_ [[in Received Pronunciation]];
+    , _tsun, sut, tung, yuk_.
+  //
+    , 10.
+    , _(u/)_ as in _school_, _fool_, _rule_ [[in Received Pronunciation]];
+    , _k(u/), f(u/)n, p(u/)t_.
+  //
+    , 11.
+    , _(u")_ as in French _jeune_ [[not really]], _l'une_ [[yes]];
+    , _s(u")t, (u")t_.
+  //
+    , 12.
+    , _(u\)_ as in _turn_ [[in Received Pronunciation]];
+    , _h(u\), t(u\)_.
+  //
+    , 13.
+    , _ai_ as in _while_, _high_, _fly_, _hushai_ [[but shorter, in Received Pronunciation]];
+    , _kai, sai_.
+  //
+    , 14.
+    , _(a/)i_ as in _aisle_, _aye_ [[in Received Pronunciation]];
+    , _f(a/)i, m(a/)i_.
+  //
+    , 15.
+    , _au_ as in _now_, _round_, _plough_ [[but shorter, in Received Pronunciation]];
+    , _mau, sau_.
+  //
+    , 16.
+    , _(a/)u_ as in _howl_, pronounced longer [[in Received Pronunciation]];
+    , _ch(a/)u, k(a/)u_.
+  //
+    , 17.
+    , _(e/)u_ as in _Capernaum_, _say 'em_ [[in Received Pronunciation]];
+    , _h(e/)ung, l(e/)uk_.
+  //
+    , 18.
+    , _i(u/)_ as in _pew_, _chew_ [[in Received Pronunciation]];
+    , _li(u/), si(u/)_.
+  //
+    , 19.
+    , _oi_ as in _boy_, _toil_ [[in Received Pronunciation]];
+    , _oi, tsoi_.
+  //
+    , 20.
+    , _ui_ nearly as in _Louis_ [[in Received Pronunciation]], peculiar;
+    , _sui, lui_.
+  //
+    , 21.
+    , _(u/)i_ as in _cooing_, _chewing_ [[in Received Pronunciation]];
+    , _m(u/)i, f(u/)i_.
+  //
+    , 22.
+    , _sz'_
+    , This is an imperfect vowel sound, unknown in European
+      languages; if in pronouncing the word _dizzy_ [[in Received Pronunciation]],
+      the two letters _di_ be changed to _s_, this sound will be made.
+  //
+    , 23.
+    , _'m_ or _hm_,
+    ,  is spoken with a closed month, like a voluntary half cough.
+  //
+    , 24.
+    , _'ng_
+    ,  is a nasal sound, made by stopping the nose when it is spoken.
+''
+||||
 
 
 ##{#tones} 2. The Tones.
