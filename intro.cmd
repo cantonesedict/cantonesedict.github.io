@@ -31,6 +31,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 [xx]: https://archive.org/details/tonicdictionaryo00will/page/n25/mode/1up
 [xxi]: https://archive.org/details/tonicdictionaryo00will/page/n26/mode/1up
 [xxii]: https://archive.org/details/tonicdictionaryo00will/page/n27/mode/1up
+[xxiii]: https://archive.org/details/tonicdictionaryo00will/page/n28/mode/1up
 
 
 ##{#canton} 1. The Canton Dialect.
@@ -1621,6 +1622,57 @@ pronounced as in English [[modulo aspiration]]:---
     , as in _yard_;
 ''
 ||||
+
+--{.williams}
+The above comprise all the vowels, diphthongs and consonants,
+found in the Canton dialect. In addition the Court Dialect contains
+a few more, and as the pronunciation of each character in the
+[[[Page~xxiii]{#page-xxiii}[xxiii] here]]
+Fan Wan is given in that dialect under it, they are here added.
+For the sounds given to the characters in this dialect, the dictionaries
+of De~Guignes, Morrison, Gonçalves, and Medhurst, nearly
+agree throughout; and though what is termed the _kw(a/)n hw(a/)_ [[官話]] differs
+as much as any of the local dialects, when it is heard in different
+parts of the country, still there is a general resemblance. This
+system is more strictly that which is known among the Chinese as
+the _N(a/)n hw(a/)_ [[南華]] or Southern dialect, in contradistinction to the _Peh hw(a/)_ [[北華]]
+or Northern dialect, the cities of N(a/)nking [[南京]] and Peking [[北京]] respectively
+being regarded as the standards of authority of the two. The
+additional finals and initials found in the Court Dialect alone are the
+following:---
+--
+==
+- _ei_, nearly as in _weigh_ [[in Received Pronunciation]],
+  but very open, both vowels being heard.
+- _i(a/)_, as in _yard_ [[in Received Pronunciation]], _piastre_, both vowels plainly heard.
+- _i(a/)h_, like the last, [but] ending abruptly.
+- _i(a/)i_, a triphthong, each letter of which is heard.
+- _i(a/)ng_, like _i(a/)h_, except the final _ng_; both are pronounced broad.
+- _i(a/)u_, _i(e/)_, _ieh_, _ien_, _ih_, _in_, _ioh_, _iueh_, _iuen_, _iuh_, _iun_, and _iung_, are all
+  to be sounded distinctly, the _i_ to be plainly enunciated before the other letters.
+- _oh_, is an abrupt ending, like _knock_, though not so decided.
+- _ueh_, _uen_, and _uh_, are all to be sounded distinctly. All words ending
+  in~_h_, are in the _jih shing_ [[入聲]], but it is generally so soft as to lead
+  many to say that this tone does not occur in the court dialect.
+==
+
+--{.williams}
+By combining all the fifty-three finals with all the twenty-three
+initials, there would be 1229 [[I get 53~×~23 = 1219]] sounds in the dialect which could be
+represented by Roman letters; there are however only 707 different
+syllables given in this Dictionary, many possible combinations, as
+_kw(o\)m_ [[gwam]], _t(a/)ng_ [[daang]], _l(u/)t_ [[lut]], _p(u")t_ [[byut]],
+_kw(e/)ung_ [[gwoeng]], _f(a/)m_ [[faam]], _foi_ [[foi]], _lon_ [[lon]],
+_shot_ [[sot]], _s(u/)n_ [[sun]], _[wi(u/)]_, &c.,
+not occuring in the dialect. The table of all the sounds here given
+will show the paucity of different vocables, though it does not
+probably include *all* the variations heard among the people, which
+however most frequently run into other sounds occurring in the table,
+and do often exhibit new sounds. The list of finals in the first
+column is arranged according to the table from the Fan Wan on
+[page~xiv](#page-xiv), and not alphabetically.
+--
+
 
 ##{#tones} 2. The Tones.
 
