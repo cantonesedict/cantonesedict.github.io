@@ -6,7 +6,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Introduction
-* %date-modified --> 2023-07-25
+* %date-modified --> 2023-07-27
 * %copyright-prior-years -->
 
 %%%
@@ -310,7 +310,7 @@ entirely different.
 --
 
 --{.williams}
-The characters are classed in the Fan Wan under thirty-three
+The characters are classed in the Fan Wan [[分韻]] under thirty-three
 finals, whose sounds are represented by standard and well known
 characters, as given in the annexed Table, all of them in the four
 upper tones, except the two last finals. The characters in the second
@@ -973,7 +973,7 @@ thirty-three finals, though rather perplexing, bear only a small proportion
 to the whole number of words in the language. The most
 usual discrepancies heard under each order are here given, but it is
 impossible, and would be useless, to exhibit every alteration from
-what the Fan Wan represents as the proper sound. On the whole
+what the Fan Wan [[分韻]] represents as the proper sound. On the whole
 that manual may be regarded as a fair exhibition of the general pronunciation.
 Other modes of spelling the same sounds, adopted by
 Dr.~Morrison, Mr.~Devan and Mr.~Bonney, in their vocabularies of
@@ -1083,7 +1083,7 @@ in parenthesis under each number.
 11.
   _K(u/)_ [[gu]], _l(o\)_ [[lou]],
   as _coo_, _cuckoo_, _lo_, _hoe_, _flow_ [[in Received Pronunciation]].
-  The compilers of the Fan Wan seem to have been unable to distinguish the characters
+  The compilers of the Fan Wan [[分韻]] seem to have been unable to distinguish the characters
   under this final into the two terminations of _(u/)_ [[u]] and _(o\)_ [[ou]],
   and have combined them apparently because in the court dialect most of
   them ended in _(u/)_. Those beginning with _l_ [[l]], _m_ [[m]],
@@ -1297,7 +1297,7 @@ in parenthesis under each number.
 
 
 --{.williams}
-No list of initials is given in the Fan Wan ; there are twenty-three
+No list of initials is given in the Fan Wan [[分韻]]; there are twenty-three
 in all, which are here represented by the following characters.
 The first one is a mute, and used when the final only is pronounced,
 having no consonant before it.
@@ -1632,7 +1632,7 @@ The above comprise all the vowels, diphthongs and consonants,
 found in the Canton [[廣州]] dialect. In addition the Court Dialect contains
 a few more, and as the pronunciation of each character in the
 [[[Page~xxiii of the original]{#page-xxiii}[xxiii] here]]
-Fan Wan is given in that dialect under it, they are here added.
+Fan Wan [[分韻]] is given in that dialect under it, they are here added.
 For the sounds given to the characters in this dialect, the dictionaries
 of De~Guignes, Morrison, Gonçalves, and Medhurst, nearly
 agree throughout; and though what is termed the _kw(a/)n hw(a/)_ [[官話]] differs
@@ -1673,7 +1673,7 @@ will show the paucity of different vocables, though it does not
 probably include *all* the variations heard among the people, which
 however most frequently run into other sounds occurring in the table,
 and do often exhibit new sounds. The list of finals in the first
-column is arranged according to the table from the Fan Wan on
+column is arranged according to the table from the Fan Wan [[分韻]] on
 [page~xiv](#page-xiv), and not alphabetically.
 --
 
@@ -1688,7 +1688,7 @@ omitted here due to its size.]]
 [[[Page~xxvi of the original]{#page-xxvi}[xxvi] here]]
 The final _h(u\)_ [[hoe]], _k(u\)_ [[goe]], _l(u\)_ [[loe]] &c.,
 in the last line but one in this Table,
-is not found in the Fan Wan at all; the compilers appear to have
+is not found in the Fan Wan [[分韻]] at all; the compilers appear to have
 thought it unnecessary to add a whole order and another final for
 the sake of one character, _h(u\)_ [[hoe]] 靴 a boot, the only one in the dialect
 not vulgar or colloquial.
@@ -1708,7 +1708,7 @@ different persons, as can be obtained.
 --{.williams}
 There have been attempts to follow up these changes in writing
 this dialect in Roman letters, but in all cases it is better to adhere
-to the classified arrangement given in the Fan Wan, and remember
+to the classified arrangement given in the Fan Wan [[分韻]], and remember
 the exceptions as being such. In the vocabularies and phrase-books
 of Dr.~Morrison, Mr.~Devan and Mr.~Bonney, no attention has been
 paid to the classes of finals as given in the Fan Wan, or to the tones
