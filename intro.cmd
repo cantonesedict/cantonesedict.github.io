@@ -38,6 +38,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 [xxvii]: https://archive.org/details/tonicdictionaryo00will/page/n32/mode/1up
 [xxviii]: https://archive.org/details/tonicdictionaryo00will/page/n33/mode/1up
 [xxix]: https://archive.org/details/tonicdictionaryo00will/page/n34/mode/1up
+[xxx]: https://archive.org/details/tonicdictionaryo00will/page/n35/mode/1up
 
 
 ##{#canton .williams} 1. The Canton Dialect.
@@ -1941,6 +1942,20 @@ marks in all European languages modify the power of the vowels,
 it is desirable not to introduce any confusion in writing words, the
 more so as the tones in Chinese are so entirely different; it is better
 to adopt a new symbol.
+--
+
+--{.williams}
+[[[Page~xxx of the original]{#page-xxx}[xxx] here]]
+The Burmese, Siamese, and Shyan languages all possess something
+resembling the Chinese tones. The Burmese have two marks,
+a _shay-pouk_ (း) [[U+1038]] and an _anmyeet_ (◌့) [[U+1037]] to denote the different tones or
+stress of voice, which changes the signification of words. The
+Chinese denote a different tone in a few common bilingual characters
+by marking them on that corner which is held to correspond to the
+required tone, as 會〬 [[wui6]] 惡〪 [[wu1]] 難〬 [[naan6]] 王〬 [[wong6]] 度〭 [[dok6]], though this is not always
+done. No books are ever printed with the tones marked to each
+character, for the reason that every person who can read is deemed
+to be acquainted with them.
 --
 
 
