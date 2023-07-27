@@ -1958,6 +1958,20 @@ character, for the reason that every person who can read is deemed
 to be acquainted with them.
 --
 
+--{.williams}
+The Chinese do not distinguish the upper or lower series when they
+mark the tones, nor do they mark the aspirated characters. They
+have not even a well known definite term to denote the aspirate, the
+phrase _p(')an h(i/)_ [[pan3 hei3]] 噴氣 being rather of foreign than native origin, and
+one which every native scholar does not understand without some
+explanation. It is represented usually by a Greek spiritus asper
+<`［ʻ］`> [[U+02BB]], or an inverted comma <`［‘］`> [[U+2018]],
+when the former [can] not be obtained,
+to which some add an _h_ also, as _ch(')hang_, _t(')ho_, _p(')han_, _t(')hik_, but not
+wisely, for there is danger of confounding it with such English
+words as _fan_, _though_, _thick_.
+--
+
 
 ##{#plan .williams} 3. Plan of this Dictionary.
 
