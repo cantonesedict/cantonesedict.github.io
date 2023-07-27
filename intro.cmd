@@ -37,6 +37,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 [xxvi]: https://archive.org/details/tonicdictionaryo00will/page/n31/mode/1up
 [xxvii]: https://archive.org/details/tonicdictionaryo00will/page/n32/mode/1up
 [xxviii]: https://archive.org/details/tonicdictionaryo00will/page/n33/mode/1up
+[xxix]: https://archive.org/details/tonicdictionaryo00will/page/n34/mode/1up
 
 
 ##{#canton .williams} 1. The Canton Dialect.
@@ -1838,6 +1839,18 @@ English and Chinese Vocabulary, pp.~xxvii--xxxi. From these works the
 student will derive all the hints about the tones that description can give him.
 --
 </small>
+
+--{.williams}
+The compilers of the Fan Wan [[分韻]] have formally arranged the characters
+under each final by the four tones; and have also further
+separated the upper and lower series, and the aspirated characters
+[[[Page~xxix of the original]{#page-xxix}[xxix] here]]
+into separate columns, though they have not so distinctly specified
+them. The eight tones as given in the Table on pages~[xiv](#page-xiv), [xv](#page-xv), are
+clearly distinguished by the Cantonese, and every word in this
+Dictionary has been marked according to its tone by semicircles,
+something like the mark used by the Chinese, as here exhibited.
+--
 
 
 ##{#plan .williams} 3. Plan of this Dictionary.
