@@ -1852,6 +1852,68 @@ Dictionary has been marked according to its tone by semicircles,
 something like the mark used by the Chinese, as here exhibited.
 --
 
+<## ［ U+FF3B FULLWIDTH LEFT SQUARE BRACKET ##>
+<## ］ U+FF3D FULLWIDTH RIGHT SQUARE BRACKET ##>
+||||{.wide}
+''{.williams}
+|:
+  //
+    , _sh(e/)ung p(')ing_ [[seung ping]],
+    , _sh(e/)ung sh(e/)ung_ [[seung seung]],
+    , _sh(e/)ung h(u")_ [[seung heoi]],
+    , _sh(e/)ung yap_ [[seung yap]],
+    , _h(a/) p(')ing_ [[ha ping]],
+    , _h(a/) sh(e/)ung_ [[ha seung]],
+    , _h(a/) h(u")_ [[ha heoi]],
+    , _h(a/) yap_ [[ha yap]],
+  //
+    , _or upper monotone_
+    , _or upper rising ton._
+    , _or upper falling to._
+    , _or upper abrupt ton._
+    , _or lower monotone_
+    , _or lower rising ton._
+    , _or lower falling ton._
+    , _or lower abrupt tone_
+  //
+    , ［(1)］ [[U+A700]]
+    , ［(2)］ [[U+A702]]
+    , ［(3)］ [[U+A704]]
+    , ［(7)］ [[U+A706]]
+    , ［(4)］ [[U+A701]]
+    , ［(5)］ [[U+A703]]
+    , ［(6)］ [[U+A705]]
+    , ［(9)］ [[U+A707]]
+  //
+    , 上平 [[or 陰平]]
+    , 上上 [[or 陰上]]
+    , 上去 [[or 陰去]]
+    , 上入 [[or 陰入]]
+    , 下平 [[or 陽平]]
+    , 下上 [[or 陽上]]
+    , 下去 [[or 陽去]]
+    , 下入 [[or 陽入]]
+  //
+    , (1)温
+    , (2)穩
+    , 愠(3)
+    , 屈(7)
+    , (4)雲
+    , (5)尹
+    , 運(6)
+    , 核(9)
+  //
+    , (1)wan [[wan1]]
+    , (2)wan [[wan2]]
+    , wan(3) [[wan3]]
+    , wat(7) [[wat1]]
+    , (4)wan [[wan4]]
+    , (5)wan [[wan5]]
+    , wan(6) [[wan6]]
+    , wat(9) [[wat6]]
+''
+||||
+
 
 ##{#plan .williams} 3. Plan of this Dictionary.
 
