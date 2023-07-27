@@ -1806,6 +1806,39 @@ for there are additional clues to the meaning, but the chances are
 against it.
 --
 
+--{.williams}
+Many explanations and illustrations of the tones have been written,
+but as no one can get a clear idea of them until he has begun to
+learn them from speaking with the people, it does not seem to be
+worth while here to repeat what has been said in other works upon
+this subject; but simply to refer to those treatises,[\*](#page-xxviii-footnote-asterisk) and denote
+the way in which they are marked in this Dictionary. What adds to the
+difficulty of understanding the differences between the tones, is that
+the same name is applied by the natives to really different tones in
+different dialects; in which, to complicate the matter still further,
+the tone of the same character is sometimes changed; consequently,
+a person can hardly be sure that what is applicable to one dialect, is
+descriptive of the same thing in another. The Chinese have written
+about the tones to some extent, but their definitions, from the nature
+of the subject, do not help foreigners much. The people learn the
+pronunciation of words by the ear, and refer to a dictionary when
+in doubt about the tone, just as we do to Webster or Richardson
+to get the right spelling, but not to learn what the tones are.
+--
+
+<small class="williams footnotes">
+[[Page~xxviii footnotes]]
+--{#page-xxviii-footnote-asterisk}
+\*~Preface to Morrison's Dictionary, Vol.~I.; Medhurst's Dictionary of the
+Fuhkien [[福建]] dialect, pp.~l--lvii.; and Dyer's Vocabulary of the Fuhkien dialect;
+Easy Lessons in Chinese, pp.~48--55; the introduction to the Chinese Chrestomathy;
+Chinese Repository, Vol.~III, pp.~26--28; Vol.~IV, p.~172; Vol.~VI, p.~579;
+Vol.~VII, p.~57. Callery's Systema Phoneticum, pp.~68--72; Williams'
+English and Chinese Vocabulary, pp.~xxvii--xxxi. From these works the
+student will derive all the hints about the tones that description can give him.
+--
+</small>
+
 
 ##{#plan .williams} 3. Plan of this Dictionary.
 

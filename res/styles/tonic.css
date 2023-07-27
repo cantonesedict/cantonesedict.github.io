@@ -118,6 +118,10 @@ th, td {
 }
 
 
+.footnotes p {
+  margin: 0.5em 0;
+}
+
 .image-container {
   text-align: center;
 }
