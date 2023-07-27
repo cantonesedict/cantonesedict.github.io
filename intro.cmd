@@ -1927,6 +1927,22 @@ the entering or abrupt tone; these appellations are simply the literal
 renderings of the native terms.
 --
 
+--{.williams}
+As the tones in Chinese are totally distinct from accent, in their
+own or other languages, there are many objections to using the
+common and generally understood marks (as ◌́ ◌̀ ◌̆ ◌̂ ) on the tops of
+the vowels to denote them, as has been done in romanizing some
+dialects, and in the dictionaries of De~Guignes, Medhurst, and
+others. By taking another sign, there is no mixing of radically
+different symbols over the same syllable, as in _këèn_, _kŏ̍yh_, _mëⁿā_, _só͘_,
+where one of the marks affects the power of the vowels, and the
+other denotes the tone of the Chinese character. Since diacritical
+marks in all European languages modify the power of the vowels,
+it is desirable not to introduce any confusion in writing words, the
+more so as the tones in Chinese are so entirely different; it is better
+to adopt a new symbol.
+--
+
 
 ##{#plan .williams} 3. Plan of this Dictionary.
 
