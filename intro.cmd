@@ -1752,7 +1752,7 @@ quotation will show.
 <## ◌̍ U+030D COMBINING VERTICAL LINE ABOVE ##>
 <## ◌͘ U+0358 COMBINING DOT ABOVE RIGHT ##>
 """"{.williams}
-_Só͘ kóng ê, tiap-á-kú, chin-chiàⁿ sī siáⁿ-mih ì-sù?
+_Só͘ kóng ê, tiap-á-kú, chin-chiàⁿ sī siáⁿ-mi̍h ì-sù?
 Goá m̄ chai i ê só͘ kóng._
 """"
 
