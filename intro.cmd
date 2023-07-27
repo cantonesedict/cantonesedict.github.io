@@ -38,7 +38,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 [xxvii]: https://archive.org/details/tonicdictionaryo00will/page/n32/mode/1up
 
 
-##{#canton} 1. The Canton Dialect.
+##{#canton .williams} 1. The Canton Dialect.
 
 --{.williams}
 The dialect of the Chinese language spoken most accurately in
@@ -1293,7 +1293,7 @@ in parenthesis under each number.
 ++
 
 
-###{#initials} List of the Initials.
+###{#initials .williams} List of the Initials.
 
 
 --{.williams}
@@ -1455,7 +1455,7 @@ individual will ever be found who has them all.
 --
 
 
-###{#orthography} System of Orthography Used in this Dictionary.
+###{#orthography .williams} System of Orthography Used in this Dictionary.
 
 --{.williams}
 The system of writing the sounds of the Chinese characters
@@ -1776,10 +1776,10 @@ he proposes to harmonize the mode of writing all languages.
 --
 
 
-##{#tones} 2. The Tones.
+##{#tones .williams} 2. The Tones.
 
 
-##{#plan} 3. Plan of this Dictionary.
+##{#plan .williams} 3. Plan of this Dictionary.
 
 --{.modern}
 Work in progress.
