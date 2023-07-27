@@ -1972,6 +1972,23 @@ wisely, for there is danger of confounding it with such English
 words as _fan_, _though_, _thick_.
 --
 
+--{.williams}
+In order to learn the tones and aspirates, it is desirable for the
+student to pay special attention for awhile to merely reading and
+pronouncing the characters, irrespective of their meaning or form.
+This should be done when commencing the study, for a vicious
+pronunciation of the tones is seldom corrected; and one is less
+liable to be misunderstood if he pronounces a word a little wrong,
+as _heng_ [[heng]] for _hing_ [[hing]], _ch(e/)uk_ for _ts(e/)uk_ [[now merged into zoek]], than if he gives it the wrong tone.
+For instance, a native will consider this sentence in the Canton
+dialect 擰一張床呢處, less barbarously pronounced if he
+hears it _(1)ling yet(7) (1)ch(a/)ng (4)ts(')ong (1)n(i/) sh(')(u")(3)_
+[[ling1 yet1 zaang1 cong4 ni1 syu3]], with all the tones correct,
+than if it should be spoken _ning(6) yat(9) (2)ch(e/)ung ch(')ong(3) n(i/)(3) (1)ch[(')](u")_
+[[ning6 yat6 zoeng2 cong3 ni3 cyu1]], with
+all the tones wrong, which would perhaps be nonsense to him.
+--
+
 
 ##{#plan .williams} 3. Plan of this Dictionary.
 
