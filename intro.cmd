@@ -36,6 +36,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 [xxv]: https://archive.org/details/tonicdictionaryo00will/page/n30/mode/1up
 [xxvi]: https://archive.org/details/tonicdictionaryo00will/page/n31/mode/1up
 [xxvii]: https://archive.org/details/tonicdictionaryo00will/page/n32/mode/1up
+[xxviii]: https://archive.org/details/tonicdictionaryo00will/page/n33/mode/1up
 
 
 ##{#canton .williams} 1. The Canton Dialect.
@@ -1777,6 +1778,33 @@ he proposes to harmonize the mode of writing all languages.
 
 
 ##{#tones .williams} 2. The Tones.
+
+--{.williams}
+The _shing_ [[sing]] 聲 or tones form one of the most difficult and peculiar
+features of the Chinese spoken language, but they can neither be
+fully or easily described satisfactorily, for the reason that no European
+language has them. Strictly speaking, they are neither tones,
+modulations, accents, nor emphasis, as those words are usually
+applied in western languages; they probably more nearly resemble
+the sound of notes in music. The note _G_ on a violin, an organ, or
+a bagpipe, strikes the ear very differently, like the voices of a child
+or man; the note is alike on the gamut, and it chords on all those
+instruments; but let _G_~sharp he struck on one of them, and we feel
+the discord, it is not the note at all. So in respect to Chinese
+_shing_; if the right _shing_ be not spoken, the right word is not spoken,
+[[[Page~xxviii of the original]{#page-xxviii}[xxviii] here]]
+it is some other word. For instance, if a person says _k(u/)(3)_ [[gu3]] instead
+of _(1)k(u/)_ [[gu1]] 孤 an orphan, he does not say the word for _orphan_ at all;
+he says that for 故 _old_, or 固 _firm_, or 顧 _to hire_, or some other
+word equally remote in meaning. It is as if on the violin the player
+strikes _G_~sharp, instead of _G_~natural; though he makes a note
+he makes no chord with the organ or bagpipe sounding _G_~natural; as
+it were, he speaks the wrong tone, and does not express his meaning.
+It may not be indeed the case in Chinese, that the hearer will *always*
+misunderstand the speaker even if the tones are pronounced wrong,
+for there are additional clues to the meaning, but the chances are
+against it.
+--
 
 
 ##{#plan .williams} 3. Plan of this Dictionary.
