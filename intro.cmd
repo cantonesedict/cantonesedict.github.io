@@ -1654,7 +1654,7 @@ following:---
 - _i(a/)ng_, like _i(a/)h_, except the final _ng_; both are pronounced broad.
 - _i(a/)u_, _i(e/)_, _ieh_, _ien_, _ih_, _in_, _ioh_, _iueh_, _iuen_, _iuh_, _iun_, and _iung_, are all
   to be sounded distinctly, the _i_ to be plainly enunciated before the other letters.
-- _oh_, is an abrupt ending, like _knock_, though not so decided.
+- _oh_, is an abrupt ending, like _knock_ [[in Received Pronunciation]], though not so decided.
 - _ueh_, _uen_, and _uh_, are all to be sounded distinctly. All words ending
   in~_h_, are in the _jih shing_ [[入聲]], but it is generally so soft as to lead
   many to say that this tone does not occur in the court dialect.
