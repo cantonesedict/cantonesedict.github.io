@@ -1914,6 +1914,19 @@ something like the mark used by the Chinese, as here exhibited.
 ''
 ||||
 
+--{.williams}
+There is more attention paid to the _(4)p(')ing (1)shing_ [[平聲 ping4 sing1]] or monotone,
+in its upper and lower inflection, than any other, and while the
+three last are collectively called _chak(7) (1)shing_ [[zak1 sing1]] 仄聲 or deflected
+tones, the first retains its name. If the beginner gets a good idea
+and practice of the _(4)p(')ing (1)shing_ [[平聲 ping4 sing1]], therefore, he will more easily get
+the others. The _(5)sh(e/)ung (1)shing_ [[上聲 soeng5 sing1]] is also called the ascending or rising
+tone; the _h(u")(3) (1)shing_ [[去聲 heoi3 sing1]] the departing or falling tone;
+and the _yap(9) (1)shing_ [[入聲 yap6 sing1]]
+the entering or abrupt tone; these appellations are simply the literal
+renderings of the native terms.
+--
+
 
 ##{#plan .williams} 3. Plan of this Dictionary.
 
