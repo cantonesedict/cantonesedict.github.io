@@ -1829,9 +1829,10 @@ in doubt about the tone, just as we do to Webster or Richardson
 to get the right spelling, but not to learn what the tones are.
 --
 
-<small class="williams footnotes">
-[[Page~xxviii footnotes]]
+||{.williams .footnotes}
+<small>[[Page~xxviii footnotes]]</small>
 --{#page-xxviii-footnote-asterisk}
+<small>
 \*~Preface to Morrison's Dictionary, Vol.~I.; Medhurst's Dictionary of the
 Fuhkien [[福建]] dialect, pp.~l--lvii.; and Dyer's Vocabulary of the Fuhkien dialect;
 Easy Lessons in Chinese, pp.~48--55; the introduction to the Chinese Chrestomathy;
@@ -1839,8 +1840,9 @@ Chinese Repository, Vol.~III, pp.~26--28; Vol.~IV, p.~172; Vol.~VI, p.~579;
 Vol.~VII, p.~57. Callery's Systema Phoneticum, pp.~68--72; Williams'
 English and Chinese Vocabulary, pp.~xxvii--xxxi. From these works the
 student will derive all the hints about the tones that description can give him.
---
 </small>
+--
+||
 
 --{.williams}
 The compilers of the Fan Wan [[分韻]] have formally arranged the characters
