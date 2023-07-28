@@ -6,7 +6,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Home
-* %date-modified --> 2023-07-23
+* %date-modified --> 2023-07-28
 * %copyright-prior-years -->
 * %modern-colour --> crimson
 
@@ -69,9 +69,16 @@ for the sensitivities of 21st century readers.**
 
 <nav>
 ===={.modern}
--{.williams} [Preface](/preface)
--{.williams} [Title Page: 《英華分韻撮要》](/title)
--{.williams} [Introduction](/intro)
-- [Index of entries by Jyutping slug](/entries/)
+- Front matter
+  ==
+  -{.williams} [Preface](/preface)
+  -{.williams} [Title Page: 《英華分韻撮要》](/title)
+  -{.williams} [Introduction](/intro)
+  ==
+
+- Main matter
+  ==
+  - [Index of entries by Jyutping slug](/entries/)
+  ==
 ====
 </nav>
