@@ -1755,8 +1755,8 @@ quotation will show.
 <## ◌̍ U+030D COMBINING VERTICAL LINE ABOVE ##>
 <## ◌͘ U+0358 COMBINING DOT ABOVE RIGHT ##>
 """"{.williams}
-_Só͘ kóng ê, tiap-á-kú, chin-chiàⁿ sī siáⁿ-mi̍h ì-sù?
-Goá m̄ chai i ê só͘ kóng._
+_Só͘ kóng ê, tiap-á-kú, chin-chiàⁿ sī siáⁿ-mi̍h ì-sù?
+Goá m̄ chai i ê só͘ kóng._
 """"
 
 --{.williams}
@@ -1936,7 +1936,7 @@ common and generally understood marks (as ◌́ ◌̀ ◌̆ ◌̂ ) on the tops 
 the vowels to denote them, as has been done in romanizing some
 dialects, and in the dictionaries of De~Guignes, Medhurst, and
 others. By taking another sign, there is no mixing of radically
-different symbols over the same syllable, as in _këèn_, _kŏ̍yh_, _mëⁿā_, _só͘_,
+different symbols over the same syllable, as in _këèn_, _kŏ̍yh_, _mëⁿā_, _só͘_,
 where one of the marks affects the power of the vowels, and the
 other denotes the tone of the Chinese character. Since diacritical
 marks in all European languages modify the power of the vowels,
