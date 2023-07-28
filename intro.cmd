@@ -39,6 +39,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 [xxviii]: https://archive.org/details/tonicdictionaryo00will/page/n33/mode/1up
 [xxix]: https://archive.org/details/tonicdictionaryo00will/page/n34/mode/1up
 [xxx]: https://archive.org/details/tonicdictionaryo00will/page/n35/mode/1up
+[xxxi]: https://archive.org/details/tonicdictionaryo00will/page/n36/mode/1up
 
 
 ##{#canton .williams} 1. The Canton Dialect.
@@ -1987,6 +1988,73 @@ hears it _(1)ling yet(7) (1)ch(a/)ng (4)ts(')ong (1)n(i/) sh(')(u")(3)_
 than if it should be spoken _ning(6) yat(9) (2)ch(e/)ung ch(')ong(3) n(i/)(3) (1)ch[(')](u")_
 [[ning6 yat6 zoeng2 cong3 ni3 cyu1]], with
 all the tones wrong, which would perhaps be nonsense to him.
+--
+
+--{.williams}
+The Table given on pages~[xiv](#page-xiv), [xv](#page-xv), should be thoroughly learned,
+by reading it backwards and forwards, until the distinction between
+the first three tones in both series is seen. A good practice also is
+to read over the tables of characters given in the Fan Wan [[分韻]] under
+[[[Page~xxxi of the original]{#page-xxxi}[xxxi] here]]
+each final in the first part of it, where all the initials found under
+each one are arranged by the tones. Thus, under the 27th~final [[un]],
+these leading characters are thus arranged, the upper coming before
+the lower series.
+--
+||||{.wide}
+''{.williams}
+  //
+    , (1)官 _k(u/)n_ [[gun1]]
+    , (2)管 _k(u/)n_ [[gun2]]
+    , 貫(3) _k(u/)n_ [[gun3]]
+    , 括(8) _k(')(u/)t_ [[kut3]]
+  //
+    , (1)般 _[p](u/)n_ [[bun1]]
+    , (2)碗 _(u/)n_ [[wun2]]
+    , 判(3) _p(')(u/)n_ [[pun3]]
+    , 抹(8) _m(u/)t_ [[mut3]]
+  //
+    , (1)潘 _p(')(u/)n_ [[pun1]]
+    , (2)欵 _f(u/)n_ [[fun2]]
+    , 半(3) _p(u/)n_ [[bun3]]
+    , 潑(8) _p(')(u/)t_ [[put3]]
+  //
+    , (1)歡 _f(u/)n_ [[fun1]]
+    , (2)本 _p(u/)n_ [[bun2]]
+    , 喚(3) _f(u/)n_ [[fun3]]
+    , 闊(8) _f(u/)t_ [[fut3]]
+  //
+    , (4)盤 _p(')(u/)n_ [[pun4]]
+    , (5)滿 _m(u/)n_ [[mun5]]
+    , 玩(6) _(u/)n_ [[wun6]]
+    , 鉢(9) _p(u/)t_ [[but6]]
+  //
+    , (4)門 _m(u/)n_ [[mun4]]
+    ,
+    , 叛(6) _p(u/)n_ [[bun6]]
+    , 末(9) _m(u/)t_ [[mut6]]
+  //
+    , (4)桓 _(u/)n_ [[wun4]]
+    ,
+    , 悶(6) _m(u/)n_ [[mun6]]
+    , 勃(9) _[p](u/)t_ [[but9]]
+  //
+    ,
+    ,
+    ,
+    , 活(9) _(u/)t_ [[wut6]]
+''
+||||
+
+--{.williams}
+The practice of repeatedly reading these collections of characters
+under each final, with a teacher, closely following his voice and
+accent, will give the beginner as clear an idea of the difference
+between the eight tones as he can get, and the practice he needs
+at the same time. Foreigners speak generally in a higher key than
+natives, and pronounce most words in the _(4)p(')ing (1)shing_ [[平聲 ping4 sing1]], even when
+the termination shows that it is in the _yap(9) (1)shing_ [[入聲 yap6 sing1]]. There are far
+more words, too, in the _(4)p(')ing (1)shing_ than in any other two tones.
 --
 
 
