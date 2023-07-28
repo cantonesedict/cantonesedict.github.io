@@ -11,11 +11,11 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 %%%
 
-#{.williams} %title
-
 --{.modern}
 [[From [Page~ix of the original]{#page-ix}[ix] onwards.]]
 --
+
+#{.williams} %title
 
 [ix]: https://archive.org/details/tonicdictionaryo00will/page/n14/mode/1up
 [x]: https://archive.org/details/tonicdictionaryo00will/page/n15/mode/1up

@@ -11,16 +11,17 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 %%%
 
+--{.modern}
+[[From [the title page of the original][n12], after Page~viii.]]
+--
+[n12]: https://archive.org/details/tonicdictionaryo00will/page/n12/mode/1up
+
+
 #{.williams} 《英華分韻撮要》
 
 --{.modern}
 [[lit. "Anglo--Chinese Rime-Divided Handpicked Essentials"]]
 --
-
---{.modern}
-[[From [the title page of the original][n12], after Page~viii.]]
---
-[n12]: https://archive.org/details/tonicdictionaryo00will/page/n12/mode/1up
 
 --{.williams .title-information}
 咸豐丙辰年鐫

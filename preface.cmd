@@ -6,16 +6,16 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Preface
-* %date-modified --> 2023-07-25
+* %date-modified --> 2023-07-28
 * %copyright-prior-years -->
 
 %%%
 
-#{.williams} %title
-
 --{.modern}
 [[From [Page~v of the original]{#page-v}[v] onwards.]]
 --
+
+#{.williams} %title
 
 [v]: https://archive.org/details/tonicdictionaryo00will/page/n8/mode/1up
 [vi]: https://archive.org/details/tonicdictionaryo00will/page/n9/mode/1up
