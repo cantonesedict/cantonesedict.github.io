@@ -40,6 +40,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 [xxix]: https://archive.org/details/tonicdictionaryo00will/page/n34/mode/1up
 [xxx]: https://archive.org/details/tonicdictionaryo00will/page/n35/mode/1up
 [xxxi]: https://archive.org/details/tonicdictionaryo00will/page/n36/mode/1up
+[xxxii]: https://archive.org/details/tonicdictionaryo00will/page/n37/mode/1up
 
 
 ##{#canton .williams} 1. The Canton Dialect.
@@ -2089,7 +2090,8 @@ final, like the following:---
   [[kau5 yau5 dau6 gau2 dau2 keoi5 tau1 zau6 zau2]] 舅有荳九斗佢偷就走
   he stole ten pecks of uncle's beans and ran off.
 
-- _(5)Ming (2)ting (1)ping (1)ting (4)t(')ing (5)t(')ing t(')ing(3)_
+- [[[Page~xxxii of the original]{#page-xxxii}[xxxii] here]]
+  _(5)Ming (2)ting (1)ping (1)ting (4)t(')ing (5)t(')ing t(')ing(3)_
   [[ming5 ding2 bing1 ding1 ting4 ting5 ting3]] 酩酊兵丁停梃聽
   a drunken soldier leaned on his staff to listen.
 ==
