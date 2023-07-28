@@ -118,6 +118,10 @@ th, td {
 }
 
 
+.font-test {
+  font-size: 2em;
+}
+
 .footnotes p {
   margin: 0.5em 0;
 }
