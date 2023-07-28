@@ -69,7 +69,7 @@ The modernisation is a solo effort by Conway, consisting of:
 ++
 --{.modern}
 **No effort has been made to alter or censor the Williams text
-for the sensitivities of 21st century readers.**
+for the sensitivities of 21st-century readers.**
 --
 
 
