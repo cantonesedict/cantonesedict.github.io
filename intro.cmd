@@ -2139,6 +2139,22 @@ this way, no rules can help him.
 
 ##{#plan .williams} 3. Plan of this Dictionary.
 
+--{.williams}
+This Dictionary is called a Tonic Dictionary, because the characters
+in it are arranged under each syllable, according to their
+tones, beginning with the _sh(e/)ung[(6)] (4)p(')ing (1)shing_ [[soeng6 ping4 sing1]] 上平聲 or upper monotone,
+then the _h(a/)(6) (4)p(')ing (1)shing_ [[haa6 ping4 sing1]] 下平聲  or lower monotone,
+followed by the _sh(e/)ung[(6)] (5)sh(e/)ung_ [[soeng6 soeng5]] 上上,
+and _h(a/)(6) (5)sh(e/)ung_ [[haa6 soeng5]],
+or upper and lower rising tone,
+the _sh(e/)ung[(6)] h(u")(3)_ [[soeng6 heoi3]] u<`<span lang="zh-Hant">[上]去</span>`>, and
+lastly the _h(a/)(6) h(u")(3)_ [[haa6 heoi3]] 下去 or upper and lower retiring tone,
+always in this same order. The other two tones,
+the _sh(e/)ung[(6)] yap(9)_ [[soeng6 yap6]] 上入
+and _h(a/)(6) yap(9)_ [[haa6 yap6]] 下入
+will of course be found under other syllables.
+--
+
 --{.modern}
 Work in progress.
 --
