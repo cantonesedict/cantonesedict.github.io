@@ -41,6 +41,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 [xxx]: https://archive.org/details/tonicdictionaryo00will/page/n35/mode/1up
 [xxxi]: https://archive.org/details/tonicdictionaryo00will/page/n36/mode/1up
 [xxxii]: https://archive.org/details/tonicdictionaryo00will/page/n37/mode/1up
+[xxxiii]: https://archive.org/details/tonicdictionaryo00will/page/n38/mode/1up
 
 
 ##{#canton .williams} 1. The Canton Dialect.
@@ -2129,6 +2130,10 @@ than in any mystery as to their nature. Practice in speaking, with
 close attention at first to the right sound, will soon give a habit that
 will gradually become easy; if the student does not learn them in
 this way, no rules can help him.
+--
+
+--{.modern}
+[[[Page~xxxiii of the original]{#page-xxxiii}[xxxiii] here]]
 --
 
 
