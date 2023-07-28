@@ -74,6 +74,7 @@ for the sensitivities of 21st century readers.**
   -{.williams} [Preface](/preface)
   -{.williams} [Title Page: 《英華分韻撮要》](/title)
   -{.williams} [Introduction](/intro)
+  - [Font test page](/font-test/)
   ==
 
 - Main matter
