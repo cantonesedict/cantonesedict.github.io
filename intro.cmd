@@ -2059,6 +2059,41 @@ the termination shows that it is in the _yap(9) (1)shing_ [[入聲 yap6 sing1]].
 more words, too, in the _(4)p(')ing (1)shing_ than in any other two tones.
 --
 
+--{.williams}
+Another exercise which can be followed with advantage, is to
+read sentences artificially constructed of characters having the same
+final, like the following:---
+--
+=={.williams}
+- _(5)Ling (2)ting (1)ying (4)ming_
+  [[ling5 ding2 ying1 ming4]] 嶺頂鷹鳴
+  the eagle is screaming on the hilltop.
+
+- _(1)T[(')](a/)n (1)k(a/)n ng(a/)n(6) (2)f(a/)n_
+  [[taan1 gaan1 ngaan6 faan2]] 灘間鴈返
+  the geese are gamboling in the rapids.
+
+- _Fuk(7) uk(7) luk(9) shuk(7)_
+  [[fuk1 uk1 luk6 suk1]] 複屋鹿宿
+  the deer sleeps in the back shed.
+
+- _(1)P(a/) (1)p(a/) (2)p(a/) (2)p(a/) (4)p[(')](a/) (4)p[(')](a/) t(i/)(6)_
+  [[baa1 baa1 baa2 baa2 paa4 paa4 dei6]] u<`<span lang="zh-Hant">爸爸把把[耙耙]地</span>`>
+  papa rakes the ground with a rake.
+
+- _(5)Yau (4)yau tau(6) (2)tsau (4)k(')au (2)sau shau(6)_
+  [[yau5 yau4 dau6 zau2 kau4 sau2 sau6]] 有油荳酒求叟售
+  ask the old man to buy my oil, pulse, or wine.
+
+- _(5)K(')au (5)yau tau(6) (2)kau (2)tau, (5)k(')(u") (1)t(')au tsau(6) [(2)]tsau_
+  [[kau5 yau5 dau6 gau2 dau2 keoi5 tau1 zau6 zau2]] 舅有荳九斗佢偷就走
+  he stole ten pecks of uncle's beans and ran off.
+
+- _(5)Ming (2)ting (1)ping (1)ting (4)t(')ing (5)t(')ing t(')ing(3)_
+  [[ming5 ding2 bing1 ding1 ting4 ting5 ting3]] 酩酊兵丁停梃聽
+  a drunken soldier leaned on his staff to listen.
+==
+
 
 ##{#plan .williams} 3. Plan of this Dictionary.
 
