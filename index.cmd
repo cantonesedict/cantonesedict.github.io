@@ -72,7 +72,7 @@ for the sensitivities of 21st century readers.**
 - Front matter
   ==
   -{.williams} [Preface](/preface)
-  -{.williams} [Title Page: 《英華分韻撮要》](/title)
+  -{.williams} [Chinese Title Page: 《英華分韻撮要》](/title/chinese)
   -{.williams} [Introduction](/intro)
   - [Font test page](/font-test/)
   ==

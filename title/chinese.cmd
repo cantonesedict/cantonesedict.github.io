@@ -5,14 +5,14 @@
 OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
-* %title --> Title Page: 《英華分韻撮要》
-* %date-modified --> 2023-07-25
+* %title --> Chinese Title Page: 《英華分韻撮要》
+* %date-modified --> 2023-07-29
 * %copyright-prior-years -->
 
 %%%
 
 --{.modern}
-[[From [the title page of the original][n12], after Page~viii.]]
+[[From [the Chinese title page of the original][n12], after Page~viii.]]
 --
 [n12]: https://archive.org/details/tonicdictionaryo00will/page/n12/mode/1up
 
@@ -59,4 +59,4 @@ OrdinaryDictionaryReplacement: #.properties-override
   [![A scan of the title page of the 1856 Tonic Dictionary.][scan]][n12]
 ||
 
-[scan]: tonic-title-page.jpg
+[scan]: chinese.jpg
