@@ -53,8 +53,8 @@ the most satisfactory.
 
 --{.williams}
 This work contains 7850 characters, including a few common
-abbreviations and duplicate forms. Its plan is stated on page~xxxiii
-of the Introduction, and it is hoped that it will be found to work
+abbreviations and duplicate forms. Its plan is stated on [page~xxxiii
+of the Introduction](/intro#page-xxxiii), and it is hoped that it will be found to work
 well in practice. How the work itself has been performed, and
 whether it is any advance on what has been already done, will be
 decided by those who use it. With the books already published,
