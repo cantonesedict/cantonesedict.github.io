@@ -6,7 +6,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Introduction
-* %date-modified --> 2023-07-27
+* %date-modified --> 2023-07-28
 * %copyright-prior-years -->
 
 %%%
@@ -1948,7 +1948,7 @@ to adopt a new symbol.
 [[[Page~xxx of the original]{#page-xxx}[xxx] here]]
 The Burmese, Siamese, and Shyan languages all possess something
 resembling the Chinese tones. The Burmese have two marks,
-a _shay-pouk_ (း) [[U+1038]] and an _anmyeet_ (◌့) [[U+1037]] to denote the different tones or
+a _shay-pouk_ (း) [[U+1038]] and an _anmyeet_ (့) [[U+1037]] to denote the different tones or
 stress of voice, which changes the signification of words. The
 Chinese denote a different tone in a few common bilingual characters
 by marking them on that corner which is held to correspond to the
