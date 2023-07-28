@@ -2155,6 +2155,44 @@ and _h(a/)(6) yap(9)_ [[haa6 yap6]] 下入
 will of course be found under other syllables.
 --
 
+<ins class="modern">
+--
+(This modernised version of the Tonic Dictionary
+is necessarily arranged differently to Williams' original:
+--
+++
+1.
+  --
+  The syllables are arranged by the Jyutping spelling
+  of the modern Hong Kong Cantonese pronunciation
+  (see [Index of entries by Jyutping slug](/entries/))
+  for practicality in the 21st century,
+  as no one except Conway cares about the Williams romanisation.
+  --
+  --
+  In addition to the ordering being different,
+  the groupings themselves will be different to the Williams groupings
+  due to phonological changes that have occurred since the mid-19th century
+  (e.g.~the merging of the pairs _ts_ & _ch_, _ts(')_ & _ch(')_, and _s_ & _sh_).
+  --
+
+1.
+  --
+  For each syllable, the entries are sorted by Cantonese tone number.
+  This means that non-entering tones are ordered by brightness (陰陽) first,
+  and class (平上去) second; compare this to the olden/Williams sorting,
+  which is by class (平上去) first, and brightness (陰陽) second.
+  Entering tones are in the same order, but note that Jyutping uses
+  non-entering aliases 1, 3, 6 instead of the olden numberings 7, 8, 9.
+  --
+++
+--
+Nevertheless, the Williams romanisations and the olden namings (陰陽平上去入)
+are supplied alongside the modern Jyutping for reference.)
+--
+</ins>
+
+
 --{.modern}
 Work in progress.
 --
