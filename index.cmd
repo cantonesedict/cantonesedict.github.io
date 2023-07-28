@@ -31,7 +31,15 @@ by [Samuel Wells Williams].
 
 --{.modern}
 The version of ''Tonic Dictionary'' used as the base reference is
-[`ark:/13960/t0ps1ph66` at archive.org][tonic].
+[`ark:/13960/t0ps1ph66` at archive.org][tonic],
+which is a scan of the copy held at
+the Library of the University of Illinois at Urbana-Champaign.
+--
+--{.modern}
+Where there be missing pages or damage to the base reference version,
+a secondary version is used a subsidiary reference,
+namely [`ark:/13960/s20jtk4f14j` at archive.org][tonic2],
+from a [scan by Google](https://books.google.com/books?id=X8JhunQfImoC).
 --
 --{.modern}
 The modernisation is a solo effort by Conway, consisting of:
