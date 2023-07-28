@@ -79,9 +79,9 @@ for the sensitivities of 21st century readers.**
 ===={.modern}
 - Front matter
   ==
-  -{.williams} [English Title Page: A Tonic Dictionary of the Chinese Language in the Canton Dialect.](/title/english)
+  -{.williams} [\[English Title Page\]](/title/english)
   -{.williams} [Preface.](/preface)
-  -{.williams} [Chinese Title Page: 《英華分韻撮要》](/title/chinese)
+  -{.williams} [\[Chinese Title Page\]](/title/chinese)
   -{.williams} [Introduction.](/intro)
   - [Font test page](/font-test/)
   ==
