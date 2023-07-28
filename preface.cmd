@@ -5,7 +5,7 @@
 OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
-* %title --> Preface
+* %title --> Preface.
 * %date-modified --> 2023-07-28
 * %copyright-prior-years -->
 

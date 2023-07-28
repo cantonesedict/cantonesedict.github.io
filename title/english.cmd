@@ -5,7 +5,7 @@
 OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
-* %title --> English Title Page: A Tonic Dictionary of the Chinese Language in the Canton Dialect
+* %title --> English Title Page: A Tonic Dictionary of the Chinese Language in the Canton Dialect.
 * %date-modified --> 2023-07-29
 * %copyright-prior-years -->
 
