@@ -56,7 +56,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 --
 
 ||{.image-container s="margin: 2em 0"}
-  [![A scan of the title page of the 1856 Tonic Dictionary.][scan]][n12]
+  [![A scan of the Chinese title page of the 1856 Tonic Dictionary.][scan]][n12]
 ||
 
 [scan]: chinese.jpg
