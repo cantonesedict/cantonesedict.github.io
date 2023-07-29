@@ -12,3 +12,26 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 #{.williams} H(i/) [[hei]]
+
+
+##{#3 .williams} H(i/)(3) [[hei3 陰去]]
+
+###+ 屭3 [[U+5C6D]] _h(i/)(3)_ [[hei3]]
+
+$$
+V
+  , [[ai3: for colloquial senses]]
+W
+  , [[Not present]]
+C
+  ,
+    =={.modern}
+    - 【屭】 Of great strength.
+      <## TODO: cross-reference unto 贔 ##>
+    ==
+S
+  ,
+    =={.modern}
+    - [`ai#屭3`]
+    ==
+$$

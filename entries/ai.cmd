@@ -105,6 +105,11 @@ C
     - The expected Cantonese reflex is hei3 from the olden rime books
       (which have 虛器切 and 許意切).
     ==
+S
+  ,
+    =={.modern}
+    - [`hei#屭3`]
+    ==
 $$
 
 ### 曀3 [[U+66C0]] _ai(3)_ [[ai3]]
