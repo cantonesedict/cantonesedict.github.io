@@ -145,7 +145,7 @@ W
 C
   ,
     =={.modern}
-    - 啊: An unpopular alternative character for $吖1 or $呀1.
+    - 【啊】 An unpopular alternative character for $吖1 or $呀1.
     ==
 S
   ,
@@ -352,12 +352,6 @@ $$
 $$
 A
   , $亞3
-C
-  ,
-    =={.modern}
-    - Williams does not provide a separate entry for $亞3 and 阿.
-      I have split things up accordingly.
-    ==
 W
   ,
     [[Page~2]] <br>
@@ -388,7 +382,9 @@ W
 C
   ,
     =={.modern}
-    - aa3 bei6: Not sure what characters are meant by "silly fellow".
+    - Williams does not provide a separate entry for $亞3 and 阿.
+      I have split things up accordingly.
+    - aa3 bei6: Not sure what characters are meant by "a silly fellow".
     ==
 $$
 
@@ -405,7 +401,7 @@ W
 C
   ,
     =={.modern}
-    - 呀: A final particle of surprise, suspicion, disappointment, etc.
+    - 【呀】 A final particle of surprise, suspicion, disappointment, etc.
     - [Jyutping suggests using 呀 as the canonical character for aa4.][jpp]
     ==
 S
@@ -445,7 +441,7 @@ C
     =={.modern}
     - Williams has this entry within that for _(a/)(3)_ [[aa3]];
       see [`aa#呀3`].
-    - The "ten" sense would never actually appear in writing as 呀;
+    - 四呀錢: The "ten" sense would never actually appear in writing as 呀;
       it would still be spelt 十,
       the pronunciation being a matter of preference.
     ==
