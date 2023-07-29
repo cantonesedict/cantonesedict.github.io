@@ -58,6 +58,19 @@ S
     ==
 $$
 
+### 軛1 [[U+8EDB]] _(a/)k(7)_ [[aak1]]
+
+$$
+W
+  ,
+    [[Page~3]] <br>
+    ==
+    - A yoke;
+    - the yoke of a carriage;
+    - a yoke, a restraint, a principle of conscience.
+    ==
+$$
+
 ### 阨1 [[U+9628]] _(a/)k(7)_ [[aak1]]
 
 $$
