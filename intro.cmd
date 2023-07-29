@@ -42,6 +42,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 [xxxi]: https://archive.org/details/tonicdictionaryo00will/page/n36/mode/1up
 [xxxii]: https://archive.org/details/tonicdictionaryo00will/page/n37/mode/1up
 [xxxiii]: https://archive.org/details/tonicdictionaryo00will/page/n38/mode/1up
+[xxxiv]: https://archive.org/details/williams-a-tonic-dictionary-of-the-chinese-language-in-the-canton-dialect-1856/page/n41/mode/1up
 
 
 ##{#canton .williams} 1. The Canton Dialect.
@@ -2213,6 +2214,27 @@ to his examples with their translations, omitting the sounds.
 In the works of Morrison and Medhurst, both are given; in the
 small work of Goddard, both are omitted, as no examples were contemplated
 by the plan of his work.
+--
+
+--{.williams}
+In the Fan Wan [[分韻]], the attempt has been made, by writing the sound
+and tone of each word in every quotation, to enable the student,
+with the help of the translation following it, to refer to all the characters
+in it, by turning to them under their proper syllables. If
+the characters had been introduced without their sounds, there
+[[[Page~xxxiv of the original]{#page-xxxiv}[xxxiv] here]]
+would have been a saving of room, but not enough to make the book
+its present size. Portability was deemed of so much importance,
+that advantages incompatible with it were sacrificed. A single instance
+will show how much the volume would have been increased
+without adding a single sentence, if the characters had been inserted
+in such type as is now available.
+[[In the original print the Chinese characters were tall,
+perhaps at 2em, as so: <span lang="zh-Hant" style="font-size: 2em; vertical-align: middle;"><`天地玄黃`></span>.]]
+When fonts of Chinese type
+are made as small as they have occasionally been cut, (as <span lang="zh-Hant" style="font-size: 1.3em; vertical-align: middle;"><`誰識種`></span>,
+or <span lang="zh-Hant" style="font-size: 1em; vertical-align: middle;"><`首章又歌基`></span>,)
+it will be more practicable to introduce them.
 --
 
 
