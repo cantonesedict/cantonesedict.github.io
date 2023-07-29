@@ -42,7 +42,7 @@ namely [`ark:/13960/s20jtk4f14j` at archive.org][tonic2],
 from a [scan by Google](https://books.google.com/books?id=X8JhunQfImoC).
 --
 --{.modern}
-The modernisation is a solo effort by Conway, consisting of:
+The modernisation is a ongoing solo effort by Conway, consisting of:
 --
 ++{.modern}
 1. Transcribing its entries <span class="williams">(black serif text)</span>;
