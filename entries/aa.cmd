@@ -51,6 +51,13 @@ W
         [[saam1 aa1 lou6 三丫路]]
         meeting of three ways, a trivium.
     ==
+C
+  ,
+    =={.modern}
+    - 丫頭, 丫鬟: Yes, people kept slaves in the 19th century.
+    - 丫頭, 丫鬟, and 丫角髻: From the double-bun hairstyle.
+    - 三丫路: Rarely heard; 三叉路 is now more common.
+    ==
 $$
 
 ### 吖1 [[U+5416]] _(1)(a/)_ [[aa1]]
@@ -72,7 +79,7 @@ W
         [[hou2 aa1 好吖]]
         well, very well;
     - _(1)(a/) wai(3)_
-        [[aa1 wai3 ?]]
+        [[aa1 wai3 吖喂]]
         poor, necessitous;
     - _(5)k(')(u") (2)k(o\)m w(a/)(6) (1)(a/)_
         [[keoi5 gam2 waa6 aa1 佢噉話吖]],
@@ -87,6 +94,9 @@ W
 C
   ,
     =={.modern}
+    - 好吖: "OK" (as an active, enthusiastic endorsement).
+    - 吖喂: A polite "oi!" to get someone's attention at the end of a sentence.
+      Not sure if these were the characters intended by Williams' "poor, necessitous".
     - [Jyutping suggests using 吖 as the canonical character for aa1.][jpp]
     ==
 $$
@@ -135,7 +145,7 @@ W
 C
   ,
     =={.modern}
-    - An unpopular alternative for $吖1 or $呀1.
+    - 啊: An unpopular alternative character for $吖1 or $呀1.
     ==
 S
   ,
@@ -161,6 +171,11 @@ W
     - _(1)(a/) p(')(i/)n(3) (4)nai_
         [[aa1 pin3 nai4 鴉片坭]],
         opium.
+    ==
+C
+  ,
+    =={.modern}
+    - 鴉片坭: Dated; opium is now simply called 鴉片.
     ==
 $$
 
@@ -326,9 +341,15 @@ W
     - _(1)yan (a/)(3)_
         [[jan1 aa3 姻婭]]
         relatives by marriage, especially brothers or parents;
-    - _(4)m(o\) tik(7) (1)yan (a/)(3)_
-        [[mou4 dik1 jan1 aa3 無嫡姻婭]]
+    - _(4)m(o\) tik[(9)] (1)yan (a/)(3)_
+        [[mou4 dik6 jan1 aa3 無滴姻婭]]
         I am not related to him at all.
+    ==
+C
+  ,
+    =={.modern}
+    - 無滴姻婭: This assumes the second character is meant to be
+      _tik(9)_ [[dik6]], not _tik(7)_ [[dik1]].
     ==
 $$
 
@@ -370,6 +391,11 @@ W
         [[aa3 tai5 阿娣]],
         boy, you lad;
     ==
+C
+  ,
+    =={.modern}
+    - aa3 bei6: Not sure what characters are meant by "silly fellow".
+    ==
 $$
 
 
@@ -385,7 +411,7 @@ W
 C
   ,
     =={.modern}
-    - Final particle of surprise, suspicion, disappointment, etc.
+    - 呀: A final particle of surprise, suspicion, disappointment, etc.
     - [Jyutping suggests using 呀 as the canonical character for aa4.][jpp]
     ==
 S
