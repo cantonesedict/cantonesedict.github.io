@@ -103,10 +103,10 @@ C
       1. aai3 (烏懈切音隘), meaning "choke" (噎也).
       ++
       Williams writes "A colloquial word"
-      because the meaning attested under aai3 ("choke")
+      presumably because the meaning attested under aai3 ("choke")
       does not match the vernacular Cantonese meaning.
 
-    - "Ten to one" is better rendered as "nine out of ten".
+    - 十嗌九爭銀: "Ten to one" is better rendered as "nine out of ten".
     ==
 $$
 
