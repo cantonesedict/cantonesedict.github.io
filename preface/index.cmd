@@ -135,7 +135,7 @@ and as the meanings of the characters are the same, any one can
 use it in translating. It is as suitable for learning the Court dialect
 as Morrison's is for learning the Canton or Ti(e/)chi(u/) [[潮州]] dialects; and
 those who are unable to procure the larger works, may find aid in
-it to enable them to read ChinevSe books. It has been prepared
+it to enable them to read Chinese books. It has been prepared
 with care, by consulting previous works and a large collection of
 phrases written out by competent natives, and the meanings synthetically
 made up from the examples in which they occur. The
