@@ -86,3 +86,33 @@ S
     - [`ak#阨1`]
     ==
 $$
+
+
+##{#3 .williams} (A/)k(8) [[aak3 低陰入]]
+
+### 鈪3 [[U+922A]] _(a/)k(8)_ [[aak3]]
+
+$$
+V
+  , [[aak3-2: colloquial rising-tone noun]]
+W
+  ,
+    [[Page~3]] <br>
+    An unauthorized character.
+    ==
+    - A bracelet;
+    - a bangle;
+    - _k(e/)uk(8) (a/)k(8)_
+        [[goek3 aak3-2 腳鈪]]
+        a[n] anklet;
+    - _(1)kam (a/)k(8)_
+        [[gam1 aak3-2 金鈪]]
+        a gold wristlet;
+    - _(1)s(e/)ung (a/)k(8)_
+        [[soeng1 aak3-2 鑲鈪]]
+        a plated or gilded ring;
+    - _(a/)k(8) (4)t(')au_
+        [[aak3-2 tau4 鈪頭]],
+        clasps of bracelets.
+    ==
+$$
