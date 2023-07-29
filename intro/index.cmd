@@ -44,6 +44,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 [xxxiii]: https://archive.org/details/tonicdictionaryo00will/page/n38/mode/1up
 [xxxiv]: https://archive.org/details/williams-a-tonic-dictionary-of-the-chinese-language-in-the-canton-dialect-1856/page/n41/mode/1up
 [xxxv]: https://archive.org/details/williams-a-tonic-dictionary-of-the-chinese-language-in-the-canton-dialect-1856/page/n42/mode/1up
+[xxxvi]: https://archive.org/details/tonicdictionaryo00will/page/n39/mode/1up
 
 
 ##{#canton .williams} 1. The Canton Dialect.
@@ -2278,6 +2279,21 @@ radicals, a careful examination of the primitives as given by Callery
 will show the principles on which the great mass of characters in
 the language are formed, and practice in reading and writing will
 then make them familiar.
+--
+
+--{.williams}
+Many of the most common characters are the most difficult to find
+in the index; they are generally placed under the simpler radicals,
+where they should be looked for first. For instance, 以, 仝, 令, 仄
+are all under 人; 亞, 亘, 井, are under 二; 兒, 先, are under 儿;
+all of which are referred to these radicals chiefly
+because it was a prominent part of the character, and likely to catch
+[[[Page~xxxvi of the original]{#page-xxxvi}[xxxvi] here]]
+the eye. Such anomalous instances amount to about two hundred,
+all of them primitives, while the remainder will give less trouble in
+ascertaining the proper radical. About one half (108) of the radicals
+are placed on the right or left of the primitive,---constituting one
+half of the character, and easily recognized.
 --
 
 --{.modern}
