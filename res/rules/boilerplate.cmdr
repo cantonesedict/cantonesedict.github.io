@@ -6,6 +6,7 @@ RegexDictionaryReplacement: #.boilerplate.header-nav
         <nav>
           ==
           - [Home](/)
+          - [Contents](/#contents)
           - [Entries](/entries/)
           ==
         </nav>
