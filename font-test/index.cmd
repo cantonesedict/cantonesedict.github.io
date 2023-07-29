@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 
 %%%
 
-<## Reference images taken with <td> padding set at 2px. ##>
+<## Reference images taken at 200% zoom with <td> padding set at 2px etc. ##>
 
 
 #{.modern} %title

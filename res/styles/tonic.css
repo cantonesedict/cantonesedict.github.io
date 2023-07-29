@@ -121,6 +121,10 @@ th, td {
 .font-test {
   font-size: 2em;
   text-align: center;
+  vertical-align: middle;
+}
+.font-test img {
+  height: 1.5em;
 }
 
 .footnotes p {
