@@ -8,6 +8,12 @@
 }
 
 
+:target {
+  background: #ff4;
+  padding: 0.1em 0.3em;
+}
+
+
 blockquote {
   border-left: 3px solid grey;
   padding: 0 1em 0;
