@@ -134,6 +134,10 @@ th, td {
   margin: 0.5em 0;
 }
 
+.headword {
+  font-size: 130%;
+}
+
 .image-container {
   text-align: center;
 }

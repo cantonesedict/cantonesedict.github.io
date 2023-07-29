@@ -5,9 +5,9 @@ RegexDictionaryReplacement: #.syntax.character-headings
 - queue_position: BEFORE #headings
 * ^[#]{3} (?P<addition_marker> [+]? )
     [ ] (?P<character> \S ) (?P<tone_number> [1-6] )
-    [ ] (?P<etc> .* )
+    (?P<pre_code_point> .*? ) [ ] (?P<code_point_etc> \[\[ U[+][0-9A-F]+ \]\] .* )
     -->
-  ###{#\g<character>\g<tone_number> .williams\g<addition_marker>} \g<character> \g<etc>
+  ###{#\g<character>\g<tone_number> .williams\g<addition_marker>} <span class="headword">\g<character>\g<pre_code_point></span> \g<code_point_etc>
 - concluding_replacements: #.syntax.addition-marker-to-class
 
 RegexDictionaryReplacement: #heading-permalinks
