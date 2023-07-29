@@ -6,7 +6,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ngaa
-* %date-modified --> 2023-07-21
+* %date-modified --> 2023-07-29
 * %copyright-prior-years -->
 
 %%%
@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 #{.williams} Ng(a/) [[ngaa]]
 
 
-##{#4 .williams} (4)Ng(a/) [[陽平; ngaa4]]
+##{#4 .williams} (4)Ng(a/) [[ngaa4 陽平]]
 
 ### 呀4 [[U+5440]] _(4)ng(a/)_ [[ngaa4]]
 
@@ -26,7 +26,7 @@ W
     - the wrangling of children;
     - to open the mouth wide;
     - _(4)ng(a/) (1)l(a/)n (5)mai_
-        [[呀囒米; ngaa4 laan1 mai5]],
+        [[ngaa4 laan1 mai5 呀囒米]],
         cochineal.
     ==
 C

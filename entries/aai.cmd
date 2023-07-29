@@ -6,7 +6,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aai
-* %date-modified --> 2023-07-22
+* %date-modified --> 2023-07-29
 * %copyright-prior-years -->
 
 %%%
@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 #{.williams} (A/)i [[aai]]
 
 
-##{#1 .williams} (1)(A/)i [[陰平; aai1]]
+##{#1 .williams} (1)(A/)i [[aai1 陰平]]
 
 ### 挨1 [[U+6328]] _(1)(a/)i_ [[aai1]]
 
@@ -33,39 +33,39 @@ W
     - passable;
     - to lie down, to recline;
     - _(1)(a/)i (4)m(a/)i (1)n(i/) p(i/)n(6)_
-        [[挨埋呢便; aai1 maai4 ni1 bin6]]
+        [[aai1 maai4 ni1 bin6 挨埋呢便]]
         lean it against here;
         help here a little;
     - _(5)yau tak(7) (1)(a/)i pang(6)_
-        [[有得挨憑; jau4 dak1 aai1 bang6]]
+        [[jau4 dak1 aai1 bang6 有得挨憑]]
         has some dependance or resource;
     - _(5)yau t(a/)i(6) (1)sh(a/)n (1)(a/)i_
-        [[有大山挨; jau5 daai6 saan1 aai1]],
+        [[jau5 daai6 saan1 aai1 有大山挨]],
         he has powerful friends;
     - _(1)(a/)i (5)h(a/) tik(7)_
-        [[挨吓滴; aai1 haa5 dik1]]
+        [[aai1 haa5 dik1 挨吓滴]]
         lie down a little;
     - _(1)(a/)i tak(7) h(u")(3)_
-        [[挨得去; aai1 dak1 heoi3]]
+        [[aai1 dak1 heoi3 挨得去]]
         it will answer;
     - _(1)(a/)i (4)m(u/)n (1)(a/)i (u/)(6)_
-        [[挨門挨戶; aai1 mun4 aai1 wu6]]
+        [[aai1 mun4 aai1 wu6 挨門挨戶]]
         to gad and stare, as a virago;
         to go from door to door to examine;
     - _(1)(a/)i (2)(i/)_
-        [[挨倚; aai1 ji2]],
+        [[aai1 ji2 挨倚]],
         to mutually rely upon;
     - _(1)(a/)i l(a/)i(6)_
-        [[挨賴; aai1 laai6]]
+        [[aai1 laai6 挨賴]]
         to trust for help;
     - _(1)(a/)i (5)m(a/)n_
-        [[挨晚; aai1 maan5-1]],
+        [[aai1 maan5-1 挨晚]],
         towards evening.
     ==
 $$
 
 
-##{#3 .williams} (A/)i(3) [[陰去; aai3]]
+##{#3 .williams} (A/)i(3) [[aai3 陰去]]
 
 ### 嗌3 [[U+55CC]] _(a/)i(3)_ [[aai3]]
 
@@ -79,19 +79,19 @@ W
     - to quarrel;
     - crowded, thronged;
     - _(a/)i(3) (1)k(a/)u_
-        [[嗌交; aai3 gaau1]],
+        [[aai3 gaau1 嗌交]],
         to wrangle, to dispute;
     - _(a/)i(3) p(')o(3) (4)hau (4)lung_
-        [[嗌破喉嚨; aai3 po3 hau4 lung4]],
+        [[aai3 po3 hau4 lung4 嗌破喉嚨]],
         hallooed till he split his throat;
     - _(a/)i(3) n(a/)u(6)_
-        [[嗌鬧; aai3 naau6]]
+        [[aai3 naau6 嗌鬧]]
         thronged; brawling;
     - _(a/)i(3) mat(7) (5)y(e/)_
-        [[嗌乜嘢; aai3 mat1 je5]],
+        [[aai3 mat1 je5 嗌乜嘢]],
         what are you scolding about?
     - _shap(9) (a/)i(3) (2)kau (1)ch(a/)ng (4)ngan_
-        [[十嗌九爭銀; sap6 aai3 gau2 zaang1 ngan4]],
+        [[sap6 aai3 gau2 zaang1 ngan4 十嗌九爭銀]],
         ten to one it is a quarrel about money.
     ==
 C
@@ -122,10 +122,10 @@ W
     - narrowminded, mean;
     - impeded, stopped up;
     - _(4)yan k(o\)m(3) (a/)i(3)_
-        [[人咁隘; jan4 gam3 aai3]]
+        [[jan4 gam3 aai3 人咁隘]]
         way is all crowded, a jam;
     - _h(a/)p(9) (a/)i(3)_
-        [[狹隘; haap6 aai3]]
+        [[haap6 aai3 狹隘]]
         narrow as a pass; a contracted mind.
     ==
 $$

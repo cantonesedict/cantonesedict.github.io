@@ -6,7 +6,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Introduction.
-* %date-modified --> 2023-07-28
+* %date-modified --> 2023-07-29
 * %copyright-prior-years -->
 
 %%%
@@ -342,19 +342,19 @@ include the terminations in the fourth tone.
     ; 2
     ; 3
     ; 4
-    ; _P(')ing Shing_ [[平聲 ping sing]].
-    ; _Sh(e/)ung Shing_ [[上聲 soeng sing]].
-    ; _H(u") Shing_ [[去聲 heoi sing]].
-    ; _Yap Shing_ [[入聲 yap sing]].
+    ; _P(')ing Shing_ [[ping sing 平聲]].
+    ; _Sh(e/)ung Shing_ [[soeng sing 上聲]].
+    ; _H(u") Shing_ [[heoi sing 去聲]].
+    ; _Yap Shing_ [[yap sing 入聲]].
     ; No.
     ; 1
     ; 2
     ; 3
     ; 4
-    ; _P(')ing Shing_ [[平聲 ping sing]].
-    ; _Sh(e/)ung Shing_ [[上聲 soeng sing]].
-    ; _H(u") Shing_ [[去聲 heoi sing]].
-    ; _Yap Shing_ [[入聲 yap sing]].
+    ; _P(')ing Shing_ [[ping sing 平聲]].
+    ; _Sh(e/)ung Shing_ [[soeng sing 上聲]].
+    ; _H(u") Shing_ [[heoi sing 去聲]].
+    ; _Yap Shing_ [[yap sing 入聲]].
 |:
   //
     , 1
@@ -1063,7 +1063,7 @@ in parenthesis under each number.
   _Pan_ [[ban]], _pat_ [[bat]],
   like _fun_, _son_, _shun_, _tun_, _won_ [[in Received Pronunciation]],
   never like _man_, _fan_, _hat_, _cat_ [[in Received Pronunciation]].
-  Variants in the _yap shing_ [[入聲 yap sing]],
+  Variants in the _yap shing_ [[yap sing 入聲]],
   passing into the long sound _(a/)t_ [[aat]]
   of the 25th~order, are occasionally heard, but a more frequent change
   is into _p(i/)n_, _p(i/)t_, or _pen_, _pet_, which is peculiar to the people of the
@@ -1921,14 +1921,14 @@ something like the mark used by the Chinese, as here exhibited.
 ||||
 
 --{.williams}
-There is more attention paid to the _(4)p(')ing (1)shing_ [[平聲 ping4 sing1]] or monotone,
+There is more attention paid to the _(4)p(')ing (1)shing_ [[ping4 sing1 平聲]] or monotone,
 in its upper and lower inflection, than any other, and while the
 three last are collectively called _chak(7) (1)shing_ [[zak1 sing1]] 仄聲 or deflected
 tones, the first retains its name. If the beginner gets a good idea
-and practice of the _(4)p(')ing (1)shing_ [[平聲 ping4 sing1]], therefore, he will more easily get
-the others. The _(5)sh(e/)ung (1)shing_ [[上聲 soeng5 sing1]] is also called the ascending or rising
-tone; the _h(u")(3) (1)shing_ [[去聲 heoi3 sing1]] the departing or falling tone;
-and the _yap(9) (1)shing_ [[入聲 yap6 sing1]]
+and practice of the _(4)p(')ing (1)shing_ [[ping4 sing1 平聲]], therefore, he will more easily get
+the others. The _(5)sh(e/)ung (1)shing_ [[soeng5 sing1 上聲]] is also called the ascending or rising
+tone; the _h(u")(3) (1)shing_ [[heoi3 sing1 去聲]] the departing or falling tone;
+and the _yap(9) (1)shing_ [[yap6 sing1 入聲]]
 the entering or abrupt tone; these appellations are simply the literal
 renderings of the native terms.
 --
@@ -2056,8 +2056,8 @@ under each final, with a teacher, closely following his voice and
 accent, will give the beginner as clear an idea of the difference
 between the eight tones as he can get, and the practice he needs
 at the same time. Foreigners speak generally in a higher key than
-natives, and pronounce most words in the _(4)p(')ing (1)shing_ [[平聲 ping4 sing1]], even when
-the termination shows that it is in the _yap(9) (1)shing_ [[入聲 yap6 sing1]]. There are far
+natives, and pronounce most words in the _(4)p(')ing (1)shing_ [[ping4 sing1 平聲]], even when
+the termination shows that it is in the _yap(9) (1)shing_ [[yap6 sing1 入聲]]. There are far
 more words, too, in the _(4)p(')ing (1)shing_ than in any other two tones.
 --
 

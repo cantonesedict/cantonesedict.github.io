@@ -6,7 +6,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ai
-* %date-modified --> 2023-07-22
+* %date-modified --> 2023-07-29
 * %copyright-prior-years -->
 
 %%%
@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 #{.williams} Ai [[ai]]
 
 
-##{#1 .williams} (1)Ai [[陰平; ai1]]
+##{#1 .williams} (1)Ai [[ai1 陰平]]
 
 ###+ 哎1 [[U+54CE]] _(1)ai_ [[ai1]]
 
@@ -30,13 +30,13 @@ W
     - A particle of surprise or pain;
     - to beg, to ask;
     - _(1)ai (1)y(a/)_,
-        [[哎吔; ai1 jaa1]]
+        [[ai1 jaa1 哎吔]]
         whew! halloo! oh, dear!
     - _(1)ai, mat(7) (5)n(i/) (2)k(o\)m ts(o\)(6)_
-        [[哎、乜你噉做; ai1, mat1 nei5 gam2 zou6]]
+        [[ai1, mat1 nei5 gam2 zou6 哎、乜你噉做]]
         oh! why did you do so?
     - _(1)ai [(4)k(')au] (5)n(i/)_
-        [[哎求你; ai1 kau4 nei5]],
+        [[ai1 kau4 nei5 哎求你]],
         I intreat you.
     ==
 C
@@ -51,7 +51,7 @@ C
 $$
 
 
-##{#2 .williams} (2)Ai [[陰上; ai2]]
+##{#2 .williams} (2)Ai [[ai2 陰上]]
 
 ### 矮2 [[U+77EE]] _(2)ai_ [[ai2]]
 
@@ -63,25 +63,25 @@ W
     - Low;
     - diminutive, short;
     - _(2)ai (5)l(o\) (2)tsai_
-        [[矮老仔; ai2 lou5 zai2]],
+        [[ai2 lou5 zai2 矮老仔]],
         a pigmy, a little old man;
     - _(2)p(i/) (1)ch(e/)ung (2)ai tang(3) (2)tsai (5)n(i/) [(5)ts(')o]_
-        [[畀張矮凳仔你坐; bei2 zoeng1 ai2 dang3 zai2 nei5 co5]]
+        [[bei2 zoeng1 ai2 dang3 zai2 nei5 co5 畀張矮凳仔你坐]]
         get a low stool for you to sit on---to delude one;
     - _(2)ai tak(7) tsai(6)_
-        [[矮得嚌; ai2 dak1 zai6]]
+        [[ai2 dak1 zai6 矮得嚌]]
         too low.
     ==
 C
   ,
     =={.modern}
-    - Corrected _tso(6)_ [[去聲; zo6]] to _(5)ts(')o_ [[上聲; co5]]
+    - Corrected _tso(6)_ [[zo6 去聲]] to _(5)ts(')o_ [[co5 上聲]]
       in the "low stool" example.
     ==
 $$
 
 
-##{#3 .williams} Ai(3) [[陰去; ai3]]
+##{#3 .williams} Ai(3) [[ai3 陰去]]
 
 ### 屭3 [[U+5C6D]] _ai(3)_ [[ai3]]
 
@@ -98,7 +98,7 @@ W
     ==
     - grief, sorrow;
     - _pai(3) ai(3)_
-        [[贔屭; bai3 ai3]]
+        [[bai3 ai3 贔屭]]
         trouble, resulting from affliction or poverty.
     ==
 C
@@ -131,10 +131,10 @@ W
     - To hang, to strangle one's self;
     - the warp of cloth;
     - _ai(3) (2)sz' (2)kwai_
-        [[縊死鬼; ai3 sei2 gwai2]],
+        [[ai3 sei2 gwai2 縊死鬼]],
         ghost of a suicide;
     - _ai(3) (2)keng_
-        [[縊頸; ai3 geng2]],
+        [[ai3 geng2 縊頸]],
         hung by the neck.
     ==
 $$
@@ -162,19 +162,19 @@ W
     - sultry, hot;
     - hurried breathing, a stricture in the breast;
     - _ai(3) h(i/)(3)_
-        [[翳氣; ai3 hei3]]
+        [[ai3 hei3 翳氣]]
         difficulty of breathing;
     - _ai(3) (i/)t(9)_
-        [[翳熱; ai3 jit6]]
+        [[ai3 jit6 翳熱]]
         hot weather;
     - _(1)shan (2)tsz' ai(3) (i/)t(9)_
-        [[身子翳熱; san1 zi2 ai3 jit6]]
+        [[san1 zi2 ai3 jit6 身子翳熱]]
         feverish;
     - _ai(3) fai(3)_
-        [[翳肺; ai3 fai3]]
+        [[ai3 fai3 翳肺]]
         to feel grieved;
     - _ai(3) chai(6)_
-        [[翳滯; ai3 zai6]]
+        [[ai3 zai6 翳滯]]
         indigestible.
     ==
 $$

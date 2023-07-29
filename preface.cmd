@@ -6,7 +6,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Preface.
-* %date-modified --> 2023-07-28
+* %date-modified --> 2023-07-29
 * %copyright-prior-years -->
 
 %%%
@@ -146,8 +146,8 @@ such science as the Chinese possess, have not been very extensively
 [[[Page~viii of the original]{#page-viii}[viii] here]]
 collected hitherto; this work probably contains a few more than
 any other, and perhaps expressed a little more definitely. It is no
-assistance to a foreigner to know that _(5)l(i/)_ [[鯉; lei5]] is the name of a fish, or
-_(1)ying_ [[鷹; jing1]] the name of a bird, or _(4)hang_ [[恆; hang4]] the name of a mountain,
+assistance to a foreigner to know that _(5)l(i/)_ [[lei5 鯉]] is the name of a fish, or
+_(1)ying_ [[jing1 鷹]] the name of a bird, or _(4)hang_ [[hang4 恆]] the name of a mountain,
 though these words may convey to a Chinese as definite an idea as the words
 _carp_, _eagle_, or _Alps_, do to an Englishman. Yet in most cases
 only an approximation can yet be made to defining hundreds of such

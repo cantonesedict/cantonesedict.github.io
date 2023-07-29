@@ -6,7 +6,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2023-07-21
+* %date-modified --> 2023-07-29
 * %copyright-prior-years -->
 
 %%%
@@ -22,7 +22,7 @@ _ngat_ [[ngat]].
 --
 
 
-##{#1 .williams} (1)(A/) [[陰平; aa1]]
+##{#1 .williams} (1)(A/) [[aa1 陰平]]
 
 ### 丫1 [[U+4E2B]] _(1)(a/)_ [[aa1]]
 
@@ -33,22 +33,22 @@ W
     - A fork, a crotch;
     - the parting of two branches, fingers, or tines;
     - _(1)(a/) (4)t(')au_
-        [[丫頭; aa1 tau4]]
+        [[aa1 tau4 丫頭]]
       or
       _(1)(a/) (4)w(a/)n_
-        [[丫鬟; aa1 waan4]],
+        [[aa1 waan4 丫鬟]],
         a slave girl;
     - _(1)(a/) kok(8) kai(3)_
-        [[丫角髻; aa1 gok3 gai3]]
+        [[aa1 gok3 gai3 丫角髻]]
         a little boy;
     - _(1)(a/) (1)ch(')(a/)_
-        [[丫杈; aa1 caa1]],
+        [[aa1 caa1 丫杈]],
         a fork, a rest for clothes' sticks;
     - _sh(u")(6) (1)(a/)_
-        [[樹丫; syu6 aa1]]
+        [[syu6 aa1 樹丫]]
         fork of a tree;
     - _(1)s(a/)m (1)(a/) l(o\)(6)_
-        [[三丫路; saam1 aa1 lou6]]
+        [[saam1 aa1 lou6 三丫路]]
         meeting of three ways, a trivium.
     ==
 $$
@@ -69,19 +69,19 @@ W
     - also one indicating that the affirmation is indisputable;
     - a mere final answering tone, having no meaning;
     - _(2)h(o\) (1)(a/)_
-        [[好吖; hou2 aa1]]
+        [[hou2 aa1 好吖]]
         well, very well;
     - _(1)(a/) wai(3)_
-        [[?; aa1 wai3]]
+        [[aa1 wai3 ?]]
         poor, necessitous;
     - _(5)k(')(u") (2)k(o\)m w(a/)(6) (1)(a/)_
-        [[佢噉話吖; keoi5 gam2 waa6 aa1]],
+        [[keoi5 gam2 waa6 aa1 佢噉話吖]],
         he said so;
     - _mat(7) (5)y(e/) (1)(a/)_
-        [[乜嘢吖; mat1 je5 aa1]],
+        [[mat1 je5 aa1 乜嘢吖]],
         what?
     - _(2)k(o\)m ts(o\)(6) (a/)_
-        [[噉做吖; gam2 zou6 aa1]],
+        [[gam2 zou6 aa1 噉做吖]],
         no, this is the way to do it.
     ==
 C
@@ -153,19 +153,19 @@ W
     ==
     - A raven with a white streak on its breast;
     - _(5)l(o\) (1)(a/)_
-        [[老鴉; lou5 aa1]],
+        [[lou5 aa1 老鴉]],
         a raven or crow;
     - _(4)t(')(o\) (1)(a/)_
-        [[塗鴉; tou4 aa1]],
+        [[tou4 aa1 塗鴉]],
         written roughly;
     - _(1)(a/) p(')(i/)n(3) (4)nai_
-        [[鴉片坭; aa1 pin3 nai4]],
+        [[aa1 pin3 nai4 鴉片坭]],
         opium.
     ==
 $$
 
 
-##{#2 .williams} (2)(A/) [[陰上; aa2]]
+##{#2 .williams} (2)(A/) [[aa2 陰上]]
 
 ### 啞2 [[U+555E]] _(2)(a/)_ [[aa2]]
 
@@ -180,10 +180,10 @@ W
     - dumb;
     - to keep silent, for which the next [[$瘂2]] is used;
     - _(2)(a/) mai(6)_
-        [[啞謎; aa2 mai6]]
+        [[aa2 mai6 啞謎]]
         an enigma;
     - _(4)ts(')ing (4)n(a/)n (2)(a/) (2)yan_
-        [[情難啞忍; cing4 naan4 aa2 jan2]],
+        [[cing4 naan4 aa2 jan2 情難啞忍]],
         hard to bear it patiently.
     ==
     Also read _ak(7)_ [[ak1]]; [[see [`ak#啞1`]]].
@@ -215,22 +215,22 @@ W
     - wheezing;
     - nape of the neck;
     - _(2)(a/) (2)tsai_
-        [[瘂仔; aa2 zai2]],
+        [[aa2 zai2 瘂仔]],
         a dumb boy;
     - _(2)(a/) (2)hau (4)m(o\) (4)(i/)n_
-        [[瘂口無言; aa2 hau2 mou4 jin4]],
+        [[aa2 hau2 mou4 jin4 瘂口無言]],
         will not speak, sulky;
     - _(2)(a/) tuk(9)_
-        [[瘂毒; aa2 duk6]]
+        [[aa2 duk6 瘂毒]]
         dumb people are revengeful;
     - _(1)sheng t(a/)i(3) (2)(a/)_
-        [[聲帶瘂; seng1 daai3 aa2]],
+        [[seng1 daai3 aa2 聲帶瘂]],
         the sound is indistinct.
     ==
 $$
 
 
-##{#3 .williams} (A/)(3) [[陰去; aa3]]
+##{#3 .williams} (A/)(3) [[aa3 陰去]]
 
 ### 亞3 [[U+4E9E]] _(a/)(3)_ [[aa3]]
 
@@ -248,7 +248,7 @@ W
     - second, next to, junior, inferior;
     - [[see $阿3 for name prefix senses]]
     - _pat(7) (a/)(3) (1)(u") (4)yan_
-        [[不亞於人; bat1 aa3 jyu1 jan4]],
+        [[bat1 aa3 jyu1 jan4 不亞於人]],
         not inferior to others.
     ==
 C
@@ -274,7 +274,7 @@ W
     ==
     - A final particle, adding intensity to the meaning;
     - _(4)'m (2)h(o\) (a/)(3)_
-        [[唔好呀; m4 hou2 aa3]]
+        [[m4 hou2 aa3 唔好呀]]
         not at all good.
     ==
     Also spoken _(a/)(6)_ [[aa6]]; [[see [`aa#呀6`]]].
@@ -324,10 +324,10 @@ W
     ==
     - Brothers-in-law;
     - _(1)yan (a/)(3)_
-        [[姻婭; jan1 aa3]]
+        [[jan1 aa3 姻婭]]
         relatives by marriage, especially brothers or parents;
     - _(4)m(o\) tik(7) (1)yan (a/)(3)_
-        [[無嫡姻婭; mou4 dik1 jan1 aa3]]
+        [[mou4 dik1 jan1 aa3 無嫡姻婭]]
         I am not related to him at all.
     ==
 $$
@@ -352,28 +352,28 @@ W
       for which the second [[$阿3]] is often used;
     - it also impersonates epithets;
     - _(a/)(3) m(u/)i(6)_
-        [[阿妹; aa3 mui6-2]]
+        [[aa3 mui6-2 阿妹]]
         a younger sister, a lass;
     - _(a/)(3) mat(7)_
-        [[阿乜; aa3 mat1]]
+        [[aa3 mat1 阿乜]]
         Mr.~So and So;
     - _(a/)(3) p(i/)(6)_
-      [[?; aa3 bei6]]
+        [[aa3 bei6]]
         a silly fellow;
       - _(a/)(3) (1)ch(')o_
-        [[阿初; aa3 co1]],
+        [[aa3 co1 阿初]],
         a raw hand;
     - _(a/)(3) (1)p(a/)_
-        [[阿爸; aa3 baa1]],
+        [[aa3 baa1 阿爸]],
         papa;
     - _(a/)(3) (5)t(')ai_
-        [[阿娣; aa3 tai5]],
+        [[aa3 tai5 阿娣]],
         boy, you lad;
     ==
 $$
 
 
-##{#4 .modern} (4)(A/) [[陽平; aa4]]
+##{#4 .modern} (4)(A/) [[aa4 陽平]]
 
 ###+ 呀4 [[U+5440]] _(4)(a/)_ [[aa4]]
 
@@ -399,7 +399,7 @@ S
 $$
 
 
-##{#6 .modern} (A/)(6) [[陽去; aa6]]
+##{#6 .modern} (A/)(6) [[aa6 陽去]]
 
 ###+ 呀6 [[U+5440]] _(a/)(6)_ [[aa6]]
 
@@ -414,10 +414,10 @@ W
     - ten, used after a higher number;
     - an answer, a word of reply like Aye!
     - _(a/)(6) (2)h(o\)_
-        [[呀好; aa6 hou2]],
+        [[aa6 hou2 呀好]],
         yes, well;
     - _sz'(3) (a/)(6) (4)ts(')(i/)n_
-        [[四呀錢; sei3 aa6 cin4]],
+        [[sei3 aa6 cin4 四呀錢]],
         forty cash.
     ==
 C
