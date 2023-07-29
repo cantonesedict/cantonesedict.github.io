@@ -77,7 +77,7 @@ for the sensitivities of 21st-century readers.**
 
 <nav>
 ===={.modern}
-- Front matter (original)
+- Front matter (1856)
   ==
   -{.williams} [\[English Title Page\]](/title/english)
   -{.williams} [Preface.](/preface/)
