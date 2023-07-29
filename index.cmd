@@ -77,12 +77,16 @@ for the sensitivities of 21st-century readers.**
 
 <nav>
 ===={.modern}
-- Front matter
+- Front matter (original)
   ==
   -{.williams} [\[English Title Page\]](/title/english)
   -{.williams} [Preface.](/preface)
   -{.williams} [\[Chinese Title Page\]](/title/chinese)
   -{.williams} [Introduction.](/intro)
+  ==
+
+- Front matter (modern)
+  ==
   - [Font test page](/font-test/)
   ==
 
