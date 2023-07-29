@@ -40,6 +40,19 @@ S
     ==
 $$
 
+### 幄1 [[U+5E44]] _ak(7)_ [[ak1]]
+
+$$
+W
+  ,
+    [[Page~3]] <br>
+    ==
+    - A curtain, a screen;
+    - a large tent, a markee;
+    - to protect, to shelter.
+    ==
+$$
+
 ### 握1 [[U+63E1]] _ak(7)_ [[ak1]]
 
 $$
