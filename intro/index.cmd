@@ -2237,6 +2237,10 @@ or <span lang="zh-Hant" style="font-size: 1em; vertical-align: middle;"><`首章
 it will be more practicable to introduce them.
 --
 
+||{.image-container}
+  [![Side-by-side comparison showing that insertion of Chinese characters in the examples would take up about 50% more room.](page-xxxiv-comparison.jpg)][xxxiv]
+||
+
 
 --{.modern}
 Work in progress.
