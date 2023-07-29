@@ -2260,6 +2260,25 @@ characters when it is desired, and in many cases it will prove useful
 to do so.
 --
 
+--{.williams}
+In order to find a character in the Index, it is necessary first to
+ascertain its radical, and then count the number of strokes made in
+writing the rest of it. The largest part of the radicals are characters
+in common use, and the student will do well to learn the whole
+number thoroughly, so that he can tell their order and meaning. It
+will not only be useful in looking up words in the Chinese lexicons,
+but it will greatly assist him in remembering their composition and
+meaning. The best mode of impressing the forms of the characters
+on the memory is an important question; but in most cases, the
+union of the radical and primitive, as *the* two parts to be remembered,
+has the advantage of simplicity, and the sound and meaning can
+be attached to these by the laws of association better than to a collection
+of strokes made apparently without plan. After learning the
+radicals, a careful examination of the primitives as given by Callery
+will show the principles on which the great mass of characters in
+the language are formed, and practice in reading and writing will
+then make them familiar.
+--
 
 --{.modern}
 Work in progress.
