@@ -43,6 +43,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 [xxxii]: https://archive.org/details/tonicdictionaryo00will/page/n37/mode/1up
 [xxxiii]: https://archive.org/details/tonicdictionaryo00will/page/n38/mode/1up
 [xxxiv]: https://archive.org/details/williams-a-tonic-dictionary-of-the-chinese-language-in-the-canton-dialect-1856/page/n41/mode/1up
+[xxxv]: https://archive.org/details/williams-a-tonic-dictionary-of-the-chinese-language-in-the-canton-dialect-1856/page/n42/mode/1up
 
 
 ##{#canton .williams} 1. The Canton Dialect.
@@ -2230,16 +2231,34 @@ will show how much the volume would have been increased
 without adding a single sentence, if the characters had been inserted
 in such type as is now available.
 [[In the original print the Chinese characters were tall,
-perhaps at 2em, as so: <span lang="zh-Hant" style="font-size: 2em; vertical-align: middle;"><`天地玄黃`></span>.]]
+perhaps at <`~`>2em, as so: <span lang="zh-Hant" style="font-size: 2em; vertical-align: middle;"><`天地玄黃`></span>.]]
 When fonts of Chinese type
-are made as small as they have occasionally been cut, (as <span lang="zh-Hant" style="font-size: 1.3em; vertical-align: middle;"><`誰識種`></span>,
-or <span lang="zh-Hant" style="font-size: 1em; vertical-align: middle;"><`首章又歌基`></span>,)
+are made as small as they have occasionally been cut, (as <span lang="zh-Hant" style="font-size: 1.3em; vertical-align: middle;"><`誰識種`></span> [[<`~`>1.3em]],
+or <span lang="zh-Hant" style="font-size: 1em; vertical-align: middle;"><`首章又歌基`></span> [[<`~`>1em]],)
 it will be more practicable to introduce them.
 --
 
 ||{.image-container}
   [![Side-by-side comparison showing that insertion of Chinese characters in the examples would take up about 50% more room.](page-xxxiv-comparison.jpg)][xxxiv]
 ||
+
+--{.williams}
+[[[Page~xxxv of the original]{#page-xxxv}[xxxv] here]]
+Care has been taken to have all the characters quoted in the
+examples contained in the book, so that when at a loss it can be
+referred to. If there be any doubt as to which is the right one out of
+a number, the meaning of the sentence will soon lead to it; and it
+may be added that the habit of supplying the characters as one reads
+over the quotations given in a definition, will tend to impress them
+upon the memory, and make them familiar. If unluckily, the tone
+has been placed wrong, or the syllable incorrectly printed, then the
+meaning will aid in selecting the right character; but it is believed
+that the errors in the quotations are not numerous. If the sound of
+a character is not rementbered, it can be found by referring to the
+Index at the end. There is room on the margin for writing a few
+characters when it is desired, and in many cases it will prove useful
+to do so.
+--
 
 
 --{.modern}
