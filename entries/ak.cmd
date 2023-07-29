@@ -31,8 +31,12 @@ W
     - small door in a house;
     - impeded, cramped;
     - to be ill-used, to be straitened;
-    - _ak(7) (4)k(')ung_ [[ak1 kung4 厄窮]], poor;
-    - _(4)ngai ak(7)_ [[ngai4 ak1 危厄]] in danger.
+    - _ak(7) (4)k(')ung_
+        [[ak1 kung4 厄窮]],
+        poor;
+    - _(4)ngai ak(7)_
+        [[ngai4 ak1 危厄]]
+        in danger.
     ==
 C
   ,
@@ -96,10 +100,18 @@ W
     ==
     - To grasp, to hold within the hand;
     - a little, as much as the palm can hold;
-    - _ak(7) teng(6)_ [[ak1 deng6 握定]] to grasp firmly;
-    - _ak(7) (2)shau_ [[ak1 sau2 握手]], to shake hands;
-    - _ak(7) (4)ch(')(i/)_ [[ak1 ci4 握持]], to hold in the hand;
-    - _ak(7) i(u/)(3)_ [[ak1 yiu3 握要]] necessary.
+    - _ak(7) teng(6)_
+        [[ak1 deng6 握定]]
+        to grasp firmly;
+    - _ak(7) (2)shau_
+        [[ak1 sau2 握手]],
+        to shake hands;
+    - _ak(7) (4)ch(')(i/)_
+        [[ak1 ci4 握持]],
+        to hold in the hand;
+    - _ak(7) i(u/)(3)_
+        [[ak1 yiu3 握要]]
+        necessary.
     ==
 C
   ,
@@ -126,9 +138,15 @@ W
     - to fertilize;
     - to cover or daub thick;
     - shining, rich;
-    - _ak(7) (4)mung_ [[ak1 mung4 渥蒙]], deeply grateful for;
-    - _(1)yan ak(7)_ [[yan1 ak1 恩渥]] imperial favor;
-    - _ak(7) (1)t(a/)n_ [[ak1 daan1 渥丹]], to make very red.
+    - _ak(7) (4)mung_
+        [[ak1 mung4 渥蒙]],
+        deeply grateful for;
+    - _(1)yan ak(7)_
+        [[yan1 ak1 恩渥]]
+        imperial favor;
+    - _ak(7) (1)t(a/)n_
+        [[ak1 daan1 渥丹]],
+        to make very red.
     ==
 $$
 
@@ -145,7 +163,9 @@ W
     - a defile, a pass;
     - a dangerous path;
     - embarrassed, distressed, poor;
-    - _kw(')an(3) ak(7)_ [[kwan3 ak1 困阨]] hampered, restrained.
+    - _kw(')an(3) ak(7)_
+        [[kwan3 ak1 困阨]]
+        hampered, restrained.
     ==
 C
   ,
