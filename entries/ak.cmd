@@ -68,3 +68,21 @@ S
     - [`aak#握1`]
     ==
 $$
+
+### 渥1 [[U+6E25]] _ak(7)_ [[ak1]]
+
+$$
+W
+  ,
+    [[Page~3]] <br>
+    ==
+    - To moisten, to soak;
+    - to enrich with favors;
+    - to fertilize;
+    - to cover or daub thick;
+    - shining, rich;
+    - _ak(7) (4)mung_ [[ak1 mung4 渥蒙]], deeply grateful for;
+    - _(1)yan ak(7)_ [[yan1 ak1 恩渥]] imperial favor;
+    - _ak(7) (1)t(a/)n_ [[ak1 daan1 渥丹]], to make very red.
+    ==
+$$
