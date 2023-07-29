@@ -33,7 +33,7 @@ W
         [[ai1 jaa1 哎吔]]
         whew! halloo! oh, dear!
     - _(1)ai, mat(7) (5)n(i/) (2)k(o\)m ts(o\)(6)_
-        [[ai1, mat1 nei5 gam2 zou6 哎、乜你噉做]]
+        [[ai1 mat1 nei5 gam2 zou6 哎乜你噉做]]
         oh! why did you do so?
     - _(1)ai [(4)k(')au] (5)n(i/)_
         [[ai1 kau4 nei5 哎求你]],
@@ -44,8 +44,7 @@ C
     =={.modern}
     - Williams has U+2BAC3 𫫃 = ⿰口挨, which has poor font support.
       I have grafted its entry to 哎, which does not appear in Williams.
-    - Corrected _(1)k(')au_ [[kau1]] to _(4)k(')au_ [[kau4]]
-      in the "I intreat you" example.
+    - 哎求你: Corrected _(1)k(')au_ [[kau1]] to _(4)k(')au_ [[kau4]].
     - [Jyutping suggests using 哎 as the canonical character for ai1 or aai1.][jpp]
     ==
 $$
@@ -75,8 +74,7 @@ W
 C
   ,
     =={.modern}
-    - Corrected _tso(6)_ [[zo6 去聲]] to _(5)ts(')o_ [[co5 上聲]]
-      in the "low stool" example.
+    - 畀張矮凳仔你坐: Corrected _tso(6)_ [[zo6 去聲]] to _(5)ts(')o_ [[co5 上聲]].
     ==
 $$
 
