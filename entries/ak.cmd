@@ -131,3 +131,31 @@ W
     - _ak(7) (1)t(a/)n_ [[ak1 daan1 渥丹]], to make very red.
     ==
 $$
+
+### 阨1 [[U+9628]] _ak(7)_ [[ak1]]
+
+$$
+V
+  , [[aak1: longer syllable]]
+W
+  ,
+    [[Page~3]] <br>
+    ==
+    - An obstruction, a stop;
+    - a defile, a pass;
+    - a dangerous path;
+    - embarrassed, distressed, poor;
+    - _kw(')an(3) ak(7)_ [[kwan3 ak1 困阨]] hampered, restrained.
+    ==
+C
+  ,
+    =={.modern}
+    - Most modern speakers prefer the longer syllable _(a/)k(7)_ [[aak1]];
+      see [`aak#阨1`], for the colloquial "deceive" sense.
+    ==
+S
+  ,
+    =={.modern}
+    - [`aak#阨1`]
+    ==
+$$
