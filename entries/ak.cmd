@@ -16,6 +16,38 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 ##{#1 .williams} Ak(7) [[ak1 高陰入]]
 
+### 厄1 [[U+5384]] _ak(7)_ [[ak1]]
+
+$$
+A
+  , [[戹]]
+V
+  , [[aak1: longer syllable]]
+W
+  ,
+    [[Page~3]] <br>
+    ==
+    - Knots in a tree;
+    - small door in a house;
+    - impeded, cramped;
+    - to be ill-used, to be straitened;
+    - _ak(7) (4)k(')ung_ [[ak1 kung4 厄窮]], poor;
+    - _(4)ngai ak(7)_ [[ngai4 ak1 危厄]] in danger.
+    ==
+C
+  ,
+    =={.modern}
+    - Most modern speakers prefer the longer syllable _(a/)k(7)_ [[aak1]];
+      see [`aak#厄1`].
+    - Williams erroneously has 𢨪 = ⿸戶巳 for an alternate form instead of 戹.
+    ==
+S
+  ,
+    =={.modern}
+    - [`aak#厄1`]
+    ==
+$$
+
 ### 啞1 [[U+555E]] _ak(7)_ [[ak1]]
 
 $$

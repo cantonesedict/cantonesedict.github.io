@@ -16,6 +16,27 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 ##{#1 .williams} (A/)k(7) [[aak1 高陰入]]
 
+###+ 厄1 [[U+5384]] _(a/)k(7)_ [[aak1]]
+
+$$
+V
+  , [[ak1: literary]]
+W
+  , [[Not present]]
+C
+  ,
+    =={.modern}
+    - Most modern speakers prefer this longer syllable
+      over the shorter _ak(7)_ [[ak1]].
+      Nevertheless, see [`ak#厄1`] for the canonical entry.
+    ==
+S
+  ,
+    =={.modern}
+    - [`ak#厄1`]
+    ==
+$$
+
 ###+ 握1 [[U+63E1]] _(a/)k(7)_ [[aak1]]
 
 $$
