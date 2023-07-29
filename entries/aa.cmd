@@ -341,15 +341,9 @@ W
     - _(1)yan (a/)(3)_
         [[jan1 aa3 姻婭]]
         relatives by marriage, especially brothers or parents;
-    - _(4)m(o\) tik[(9)] (1)yan (a/)(3)_
-        [[mou4 dik6 jan1 aa3 無滴姻婭]]
+    - _(4)m(o\) tik(7) (1)yan (a/)(3)_
+        [[mou4 dik1 jan1 aa3 無滴姻婭]]
         I am not related to him at all.
-    ==
-C
-  ,
-    =={.modern}
-    - 無滴姻婭: This assumes the second character is meant to be
-      _tik(9)_ [[dik6]], not _tik(7)_ [[dik1]].
     ==
 $$
 
