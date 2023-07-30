@@ -93,6 +93,7 @@ Work in progress.
   - [`zap`]
   - [`zat`]
   - [`zau`]
+  - [`ze`]
   ==
 ====
 </nav>
