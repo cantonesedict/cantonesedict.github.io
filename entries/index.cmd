@@ -97,6 +97,7 @@ Work in progress.
   - [`zat`]
   - [`zau`]
   - [`ze`]
+  - [`zi`]
   - [`zoek`]
   - [`zoeng`]
   ==
