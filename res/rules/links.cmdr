@@ -9,7 +9,7 @@ RegexDictionaryReplacement: #.links.referenced
 
 RegexDictionaryReplacement: #.links.tonic
 - queue_position: BEFORE #specified-links
-* Page ~ (?P<page_number> [0-9]+ ) (?! [|] )
+* Page ~ (?P<page_number> [0-9]+ ) (?! [|0-9] )
     -->
   Page~\g<page_number>|\g<page_number>
 * Page ~ (?P<page_number> [0-9]+ ) [|] (?P<link_page_number> [n]? [0-9]+ )
