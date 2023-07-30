@@ -58,6 +58,7 @@ Work in progress.
   - [`can`]
   - [`cang`]
   - [`cap`]
+  - [`cat`]
   ==
 
 - H
