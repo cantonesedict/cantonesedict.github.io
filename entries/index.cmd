@@ -68,6 +68,7 @@ Work in progress.
   - [`zaa`]
   - [`zaai`]
   - [`zaak`]
+  - [`zaam`]
   - [`zai`]
   - [`zak`]
   - [`zam`]
