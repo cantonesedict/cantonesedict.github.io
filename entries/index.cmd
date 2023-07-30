@@ -64,6 +64,7 @@ Work in progress.
   - [`cau`]
   - [`ce`]
   - [`coek`]
+  - [`coeng`]
   ==
 
 - H
