@@ -62,6 +62,7 @@ Work in progress.
   - [`cap`]
   - [`cat`]
   - [`cau`]
+  - [`ce`]
   ==
 
 - H
