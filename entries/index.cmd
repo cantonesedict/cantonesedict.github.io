@@ -99,6 +99,7 @@ Work in progress.
   - [`zau`]
   - [`ze`]
   - [`zi`]
+  - [`zik`]
   - [`zoek`]
   - [`zoeng`]
   ==
