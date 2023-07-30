@@ -15,4 +15,4 @@ OrdinaryDictionaryReplacement: #.properties-override
 [[From Page~4 of the original onwards.]]
 --
 
-#{.williams} (A/)n [[aan]]
+#{.williams} (A/)n. [[aan]]

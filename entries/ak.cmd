@@ -15,10 +15,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 [[From Page~3 of the original onwards.]]
 --
 
-#{.williams} Ak [[ak]]
+#{.williams} Ak. [[ak]]
 
 
-##{#1 .williams} Ak(7) [[ak1 高陰入]]
+##{#1 .williams} Ak(7). [[ak1 高陰入]]
 
 ### 厄1 [[U+5384]] _ak(7)_ [[ak1]]
 

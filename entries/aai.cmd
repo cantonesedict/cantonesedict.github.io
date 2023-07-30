@@ -15,10 +15,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 [[From Page~2 of the original onwards.]]
 --
 
-#{.williams} (A/)i [[aai]]
+#{.williams} (A/)i. [[aai]]
 
 
-##{#1 .williams} (1)(A/)i [[aai1 陰平]]
+##{#1 .williams} (1)(A/)i. [[aai1 陰平]]
 
 ### 挨1 [[U+6328]] _(1)(a/)i_ [[aai1]]
 
@@ -69,7 +69,7 @@ W
 $$
 
 
-##{#3 .williams} (A/)i(3) [[aai3 陰去]]
+##{#3 .williams} (A/)i(3). [[aai3 陰去]]
 
 ### 嗌3 [[U+55CC]] _(a/)i(3)_ [[aai3]]
 

@@ -15,7 +15,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 [[From Page~1 of the original onwards.]]
 --
 
-#{.williams} (A/) [[aa]]
+#{.williams} (A/). [[aa]]
 
 --{.williams}
 Words in _a_ [[a]] or _(a/)_ [[aa]],
@@ -26,7 +26,7 @@ _ngat_ [[ngat]].
 --
 
 
-##{#1 .williams} (1)(A/) [[aa1 陰平]]
+##{#1 .williams} (1)(A/). [[aa1 陰平]]
 
 ### 丫1 [[U+4E2B]] _(1)(a/)_ [[aa1]]
 
@@ -184,7 +184,7 @@ C
 $$
 
 
-##{#2 .williams} (2)(A/) [[aa2 陰上]]
+##{#2 .williams} (2)(A/). [[aa2 陰上]]
 
 ### 啞2 [[U+555E]] _(2)(a/)_ [[aa2]]
 
@@ -249,7 +249,7 @@ W
 $$
 
 
-##{#3 .williams} (A/)(3) [[aa3 陰去]]
+##{#3 .williams} (A/)(3). [[aa3 陰去]]
 
 ### 亞3 [[U+4E9E]] _(a/)(3)_ [[aa3]]
 
@@ -393,7 +393,7 @@ C
 $$
 
 
-##{#4 .modern} (4)(A/) [[aa4 陽平]]
+##{#4 .modern} (4)(A/). [[aa4 陽平]]
 
 ###+ 呀4 [[U+5440]] _(4)(a/)_ [[aa4]]
 
@@ -419,7 +419,7 @@ S
 $$
 
 
-##{#6 .modern} (A/)(6) [[aa6 陽去]]
+##{#6 .modern} (A/)(6). [[aa6 陽去]]
 
 ###+ 呀6 [[U+5440]] _(a/)(6)_ [[aa6]]
 

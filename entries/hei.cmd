@@ -15,10 +15,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 [[From Page~79 of the original onwards.]]
 --
 
-#{.williams} H(i/) [[hei]]
+#{.williams} H(i/). [[hei]]
 
 
-##{#3 .williams} H(i/)(3) [[hei3 陰去]]
+##{#3 .williams} H(i/)(3). [[hei3 陰去]]
 
 ###+ 屭3 [[U+5C6D]] _h(i/)(3)_ [[hei3]]
 

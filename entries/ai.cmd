@@ -15,10 +15,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 [[From Page~2 of the original onwards.]]
 --
 
-#{.williams} Ai [[ai]]
+#{.williams} Ai. [[ai]]
 
 
-##{#1 .williams} (1)Ai [[ai1 陰平]]
+##{#1 .williams} (1)Ai. [[ai1 陰平]]
 
 ###+ 哎1 [[U+54CE]] _(1)ai_ [[ai1]]
 
@@ -54,7 +54,7 @@ C
 $$
 
 
-##{#2 .williams} (2)Ai [[ai2 陰上]]
+##{#2 .williams} (2)Ai. [[ai2 陰上]]
 
 ### 矮2 [[U+77EE]] _(2)ai_ [[ai2]]
 
@@ -83,7 +83,7 @@ C
 $$
 
 
-##{#3 .williams} Ai(3) [[ai3 陰去]]
+##{#3 .williams} Ai(3). [[ai3 陰去]]
 
 ### 屭3 [[U+5C6D]] _ai(3)_ [[ai3]]
 

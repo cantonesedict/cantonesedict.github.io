@@ -15,9 +15,9 @@ OrdinaryDictionaryReplacement: #.properties-override
 [[From Page~3 of the original onwards.]]
 --
 
-#{.williams} Am [[am]]
+#{.williams} Am. [[am]]
 
-##{#2 .williams} (2)Am [[am2 陰上]]
+##{#2 .williams} (2)Am. [[am2 陰上]]
 
 ### 唵2 [[U+5535]] _(2)am_ [[am2]]
 

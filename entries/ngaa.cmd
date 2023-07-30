@@ -15,10 +15,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 [[From Page~315 of the original onwards.]]
 --
 
-#{.williams} Ng(a/) [[ngaa]]
+#{.williams} Ng(a/). [[ngaa]]
 
 
-##{#4 .williams} (4)Ng(a/) [[ngaa4 陽平]]
+##{#4 .williams} (4)Ng(a/). [[ngaa4 陽平]]
 
 ### 呀4 [[U+5440]] _(4)ng(a/)_ [[ngaa4]]
 
