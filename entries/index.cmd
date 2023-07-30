@@ -50,6 +50,7 @@ Work in progress.
   - [`caak`]
   - [`caam`]
   - [`caan`]
+  - [`caang`]
   - [`cai`]
   - [`cak`]
   - [`cam`]
