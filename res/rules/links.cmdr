@@ -9,10 +9,12 @@ RegexDictionaryReplacement: #.links.referenced
 
 RegexDictionaryReplacement: #.links.tonic
 - queue_position: BEFORE #specified-links
-* Page ~ (?P<page_number> [0-9]+ ) (?! [|0-9] )
+* Page ~ (?P<page_number> [0-9]+ ) (?P<asterisk> [*]? )
+  (?! [|0-9*] )
     -->
-  Page~\g<page_number>|\g<page_number>
-* Page ~ (?P<page_number> [0-9]+ ) [|] (?P<link_page_number> [n]? [0-9]+ )
+  Page~\g<page_number>\g<asterisk>|\g<page_number>
+* Page ~ (?P<page_number> [0-9]+ ) (?P<asterisk> [*]? )
+  [|] (?P<link_page_number> [n]? [0-9]+ )
   (?P<etc> [ ] of [ ] the [ ] original ) ?
     -->
-  [Page~\g<page_number>\g<etc>](https://archive.org/details/tonicdictionaryo00will/page/\g<link_page_number>/mode/1up)
+  [Page~\g<page_number>\g<asterisk>\g<etc>](https://archive.org/details/tonicdictionaryo00will/page/\g<link_page_number>/mode/1up)
