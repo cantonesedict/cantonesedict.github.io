@@ -12,3 +12,23 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 #{.williams} Am [[am]]
+
+##{#2 .williams} (2)Am [[am2 陰上]]
+
+### 唵2 [[U+5535]] _(2)am_ [[am2]]
+
+$$
+W
+  ,
+    ==
+    - To feed with the hands;
+    - to hold in the mouth;
+    - a word used by Budhists.
+    ==
+C
+  ,
+    =={.modern}
+    - "[A] word used by Budhists":
+      Namely, a transliteration of the Sanskrit <span lang="sa">ॐ</span> (_Om_).
+    ==
+$$
