@@ -20,6 +20,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ,
+    [[Page~3]] <br>
     ==
     - To feed with the hands;
     - to hold in the mouth;
@@ -29,6 +30,6 @@ C
   ,
     =={.modern}
     - "[A] word used by Budhists":
-      Namely, a transliteration of the Sanskrit <span lang="sa">ॐ</span> (_Om_).
+      A transliteration of the Sanskrit <span lang="sa">ॐ</span> (_Om_).
     ==
 $$
