@@ -15,4 +15,4 @@ OrdinaryDictionaryReplacement: #.properties-override
 [[From Page~4 of the original onwards. Work in progress.]]
 --
 
-#{.williams} Ap. [[Ap]]
+#{.williams} Ap. [[ap]]
