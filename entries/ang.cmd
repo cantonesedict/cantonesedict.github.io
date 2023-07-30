@@ -12,7 +12,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~4 of the original onwards.]]
+[[From Page~4 of the original onwards. Work in progress.]]
 --
 
 #{.williams} Ang. [[ang]]
