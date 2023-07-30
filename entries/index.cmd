@@ -83,6 +83,7 @@ Work in progress.
   - [`zaang`]
   - [`zaap`]
   - [`zaat`]
+  - [`zaau`]
   - [`zai`]
   - [`zak`]
   - [`zam`]
