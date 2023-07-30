@@ -30,6 +30,7 @@ Work in progress.
   - [`aak`]
   - [`aam`]
   - [`aan`]
+  - [`aang`]
   - [`ai`]
   - [`ak`]
   - [`am`]
