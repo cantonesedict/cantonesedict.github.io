@@ -11,6 +11,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 %%%
 
+--{.modern}
+[[From Page~3 of the original onwards.]]
+--
+
 #{.williams} Am [[am]]
 
 ##{#2 .williams} (2)Am [[am2 陰上]]

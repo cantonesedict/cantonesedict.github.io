@@ -11,6 +11,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 %%%
 
+--{.modern}
+[[From Page~315 of the original onwards.]]
+--
+
 #{.williams} Ng(a/) [[ngaa]]
 
 

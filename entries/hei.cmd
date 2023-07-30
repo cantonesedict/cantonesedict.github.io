@@ -11,6 +11,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 %%%
 
+--{.modern}
+[[From Page~79 of the original onwards.]]
+--
+
 #{.williams} H(i/) [[hei]]
 
 

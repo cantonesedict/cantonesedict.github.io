@@ -11,6 +11,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 %%%
 
+--{.modern}
+[[From Page~1 of the original onwards.]]
+--
+
 #{.williams} (A/) [[aa]]
 
 --{.williams}

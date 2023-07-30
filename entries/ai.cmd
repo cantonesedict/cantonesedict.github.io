@@ -11,6 +11,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 %%%
 
+--{.modern}
+[[From Page~2 of the original onwards.]]
+--
+
 #{.williams} Ai [[ai]]
 
 
