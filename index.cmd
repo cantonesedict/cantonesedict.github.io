@@ -75,9 +75,11 @@ that version has severe paging issues:
 The modernisation is a ongoing solo effort by Conway, consisting of:
 --
 ++{.modern}
-1. Transcribing its entries <span class="williams">(black serif text)</span>;
+1. Transcribing its entries,
+   which appear here as <span class="williams">black serif text</span>;
 
-1. Make corrections to typos <span class="williams">[in square brackets]</span>;
+1. Making corrections to typos,
+   which appear <span class="williams">[in square brackets]</span>;
 
 1. Collating the entries by Jyutping
    (noting that there are phonological differences between
@@ -87,12 +89,13 @@ The modernisation is a ongoing solo effort by Conway, consisting of:
 1. Under each Jyutping pronunciation, sorting the entries by Unicode code point;
 
 1. Inserting Jyutping (%modern-colour sans-serif text)
-   alongside the Williams romanisation of entries;
+   alongside the Williams romanisations;
 
-1. Inserting characters and Jyutping (%modern-colour sans-serif text)
-   alongside the romanisation-only examples, where practicable;
+1. Inserting characters (%modern-colour sans-serif text)
+   if not already supplied alongside the Williams romanisations,
+   where practicable;
 
-1. Inserting remarks (%modern-colour sans-serif text)
+1. Inserting commentary (%modern-colour sans-serif text)
    and cross-reference links (blue);
 
 1. Adding entries for some characters that were not recorded by Williams.
