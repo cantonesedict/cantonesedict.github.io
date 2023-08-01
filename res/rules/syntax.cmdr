@@ -86,7 +86,7 @@ FixedDelimitersReplacement: #.syntax.modern-insertion
 - closing_delimiter: ]]
 - tag_name: ins
 
-RegexDictionaryReplacement: #.syntax.master-links
+RegexDictionaryReplacement: #.syntax.link-abbreviations
 - queue_position: BEFORE #specified-links
 * Page ~ (?P<page_number> [0-9]+ ) (?P<asterisk> [*]? )
   (?! [|0-9*] )
@@ -100,6 +100,9 @@ RegexDictionaryReplacement: #.syntax.master-links
 * < (?P<page_slug> [n]? [0-9]+ ) >
     -->
   (https://archive.org/details/williams-a-tonic-dictionary-of-the-chinese-language-in-the-canton-dialect-1856/page/\g<page_slug>/mode/1up)
+* \[ Jyutping [ ] suggests .* \]
+    -->
+  \g<0>(https://jyutping.org/blog/particles/)
 
 OrdinaryDictionaryReplacement: #.syntax.eight-tone-marks
 - queue_position: BEFORE #specified-links
