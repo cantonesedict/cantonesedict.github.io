@@ -61,4 +61,4 @@ OrdinaryDictionaryReplacement: #.properties-override
   [![A scan of the Chinese title page of the 1856 Tonic Dictionary.][scan]]<n9>
 ||
 
-[scan]: chinese.jpg
+[scan]: chinese.png

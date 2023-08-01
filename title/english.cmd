@@ -51,4 +51,4 @@ __Canton:__ Printed at the Office of the Chinese Repository.
   [![A scan of the English title page of the 1856 Tonic Dictionary.][scan]]<n10>
 ||
 
-[scan]: english.jpg
+[scan]: english.png
