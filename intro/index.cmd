@@ -1832,8 +1832,6 @@ Dictionary has been marked according to its tone by semicircles,
 something like the mark used by the Chinese, as here exhibited.
 --
 
-<## ［ U+FF3B FULLWIDTH LEFT SQUARE BRACKET ##>
-<## ］ U+FF3D FULLWIDTH RIGHT SQUARE BRACKET ##>
 ||||{.wide}
 ''{.williams}
 |:
@@ -1856,14 +1854,14 @@ something like the mark used by the Chinese, as here exhibited.
     , _or lower falling ton._
     , _or lower abrupt tone_
   //
-    , ［(1)］ [[U+A700]]
-    , ［(2)］ [[U+A702]]
-    , ［(3)］ [[U+A704]]
-    , ［(7)］ [[U+A706]]
-    , ［(4)］ [[U+A701]]
-    , ［(5)］ [[U+A703]]
-    , ［(6)］ [[U+A705]]
-    , ［(9)］ [[U+A707]]
+    , [(1)] [[U+A700; these square brackets appear in the original text]]
+    , [(2)] [[U+A702; these square brackets appear in the original text]]
+    , [(3)] [[U+A704; these square brackets appear in the original text]]
+    , [(7)] [[U+A706; these square brackets appear in the original text]]
+    , [(4)] [[U+A701; these square brackets appear in the original text]]
+    , [(5)] [[U+A703; these square brackets appear in the original text]]
+    , [(6)] [[U+A705; these square brackets appear in the original text]]
+    , [(9)] [[U+A707; these square brackets appear in the original text]]
   //
     , 上平 [[or 陰平]]
     , 上上 [[or 陰上]]
@@ -1944,7 +1942,8 @@ have not even a well known definite term to denote the aspirate, the
 phrase _p(')an h(i/)_ [[pan3 hei3]] 噴氣 being rather of foreign than native origin, and
 one which every native scholar does not understand without some
 explanation. It is represented usually by a Greek spiritus asper
-<`［ʻ］`> [[U+02BB]], or an inverted comma <`［‘］`> [[U+2018]],
+[ʻ] [[U+02BB; these square brackets appear in the original text]],
+or an inverted comma [‘] [[U+2018; these square brackets appear in the original text]],
 when the former [can] not be obtained,
 to which some add an _h_ also, as _ch(')hang_, _t(')ho_, _p(')han_, _t(')hik_, but not
 wisely, for there is danger of confounding it with such English
