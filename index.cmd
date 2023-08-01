@@ -27,7 +27,7 @@ by [Samuel Wells Williams].
 [Samuel Wells Williams]: https://en.wikipedia.org/wiki/Samuel_Wells_Williams
 
 
-##{#modern .modern} Modernisation
+##{#source .modern} Source
 
 --{.modern}
 The version of ''Tonic Dictionary'' used as the master reference is
@@ -70,6 +70,9 @@ that version has severe paging issues:
 [n111]: https://archive.org/details/tonicdictionaryo00will/page/n111/mode/1up
 [9]: https://archive.org/details/tonicdictionaryo00will/page/9/mode/1up
 [13]: https://archive.org/details/tonicdictionaryo00will/page/13/mode/1up
+
+
+##{#modernisation .modern} Modernisation
 
 --{.modern}
 The modernisation is a ongoing solo effort by Conway, consisting of:
