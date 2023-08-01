@@ -6,13 +6,13 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2023-07-30
+* %date-modified --> 2023-08-01
 * %copyright-prior-years -->
 
 %%%
 
 --{.modern}
-[[From Page~1 of the original onwards.]]
+[[From Page~1|n44 of the original onwards.]]
 --
 
 #{.williams} (A/). [[aa]]
@@ -32,7 +32,7 @@ _ngat_ [[ngat]].
 
 $$
 W
-  , [[Page~1]] <br>
+  , [[Page~1|n44]] <br>
     ==
     - A fork, a crotch;
     - the parting of two branches, fingers, or tines;
@@ -73,7 +73,7 @@ V
   , [[a1: shorter syllable]]
 W
   ,
-    [[Page~1]] <br>
+    [[Page~1|n44]] <br>
     A colloquial word.
     ==
     - An interrogative particle;
@@ -114,7 +114,7 @@ V
   , [[a1: shorter syllable]]
 W
   ,
-    [[Page~1]] <br>
+    [[Page~1|n44]] <br>
     A colloquial word.
     ==
     - An interjection used in answers, denoting surprise or alarm;
@@ -163,7 +163,7 @@ $$
 $$
 W
   ,
-    [[Page~1]] <br>
+    [[Page~1|n44]] <br>
     ==
     - A raven with a white streak on its breast;
     - _(5)l(o\) (1)(a/)_
@@ -193,7 +193,7 @@ A
   , $瘂2
 W
   ,
-    [[Page~1]] <br>
+    [[Page~1|n44]] <br>
     ==
     - The confused noise of children studying;
     - dumb;
@@ -226,7 +226,7 @@ A
   , $啞2
 W
   ,
-    [[Page~1]] <br>
+    [[Page~1|n44]] <br>
     ==
     - Dumb, unable to speak;
     - dull, faded;
@@ -288,7 +288,7 @@ V
   , [[a3: shorter syllable]]
 W
   ,
-    [[Page~1]] <br>
+    [[Page~1|n44]] <br>
     A colloquial word.
     ==
     - A final particle, adding intensity to the meaning;
@@ -428,7 +428,7 @@ V
   , [[a6: shorter syllable for elided "ten" sense]]
 W
   ,
-    [[Page~1]] <br>
+    [[Page~1|n44]] <br>
     A colloquial word. [[...]]
     ==
     - ten, used after a higher number;
