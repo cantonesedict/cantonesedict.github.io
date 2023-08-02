@@ -123,6 +123,9 @@ OrdinaryDictionaryReplacement: #.syntax.diacritics
 # U+00C1 LATIN CAPITAL LETTER A WITH ACUTE
 *   (A/) --> Á
 #
+# U+00C9 LATIN CAPITAL LETTER E WITH ACUTE
+*   (E/) --> É
+#
 # U+00D2 LATIN CAPITAL LETTER O WITH GRAVE
 *   (O\) --> Ò
 #

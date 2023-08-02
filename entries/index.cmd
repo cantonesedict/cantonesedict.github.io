@@ -87,6 +87,11 @@ Work in progress.
   - [`cyut`]
   ==
 
+- E
+  ==
+  - [`e`]
+  ==
+
 - H
   ==
   - [`hei`]
