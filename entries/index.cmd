@@ -113,6 +113,7 @@ Work in progress.
   - [`zau`]
   - [`ze`]
   - [`zeoi`]
+  - [`zeon`]
   - [`zi`]
   - [`zik`]
   - [`zim`]
