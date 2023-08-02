@@ -117,6 +117,7 @@ Work in progress.
   - [`zo`]
   - [`zoek`]
   - [`zoeng`]
+  - [`zoi`]
   - [`zou`]
   ==
 ====
