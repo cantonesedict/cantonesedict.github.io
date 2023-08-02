@@ -77,6 +77,7 @@ Work in progress.
   - [`cok`]
   - [`cong`]
   - [`cou`]
+  - [`cyu`]
   ==
 
 - H
