@@ -1,12 +1,11 @@
 < /res/rules/boilerplate.cmdr
 < /res/rules/syntax.cmdr
-< /res/rules/links.cmdr
 
 OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ai
-* %date-modified --> 2023-07-30
+* %date-modified --> 2023-08-02
 * %copyright-prior-years -->
 
 %%%
@@ -49,7 +48,7 @@ C
     - Williams has U+2BAC3 𫫃 = ⿰口挨, which has poor font support.
       I have grafted its entry to 哎, which does not appear in Williams.
     - 哎求你: Corrected _(1)k(')au_ [[kau1]] to _(4)k(')au_ [[kau4]].
-    - [Jyutping suggests using 哎 as the canonical character for ai1 or aai1.][jpp]
+    - [Jyutping suggests using 哎 as the canonical character for ai1 or aai1.]
     ==
 $$
 

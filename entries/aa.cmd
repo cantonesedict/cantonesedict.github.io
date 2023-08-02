@@ -1,18 +1,17 @@
 < /res/rules/boilerplate.cmdr
 < /res/rules/syntax.cmdr
-< /res/rules/links.cmdr
 
 OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2023-07-30
+* %date-modified --> 2023-08-02
 * %copyright-prior-years -->
 
 %%%
 
 --{.modern}
-[[From Page~1 of the original onwards.]]
+[[From Page~1|n44 of the original onwards.]]
 --
 
 #{.williams} (A/). [[aa]]
@@ -32,7 +31,7 @@ _ngat_ [[ngat]].
 
 $$
 W
-  , [[Page~1]] <br>
+  , [[Page~1|n44]] <br>
     ==
     - A fork, a crotch;
     - the parting of two branches, fingers, or tines;
@@ -73,7 +72,7 @@ V
   , [[a1: shorter syllable]]
 W
   ,
-    [[Page~1]] <br>
+    [[Page~1|n44]] <br>
     A colloquial word.
     ==
     - An interrogative particle;
@@ -101,7 +100,7 @@ C
     - 好吖: "OK" (as an active, enthusiastic endorsement).
     - 吖喂: A polite "oi!" to get someone's attention at the end of a sentence.
       Not sure if these were the characters intended by Williams' "poor, necessitous".
-    - [Jyutping suggests using 吖 as the canonical character for aa1.][jpp]
+    - [Jyutping suggests using 吖 as the canonical character for aa1.]
     ==
 $$
 
@@ -114,7 +113,7 @@ V
   , [[a1: shorter syllable]]
 W
   ,
-    [[Page~1]] <br>
+    [[Page~1|n44]] <br>
     A colloquial word.
     ==
     - An interjection used in answers, denoting surprise or alarm;
@@ -163,7 +162,7 @@ $$
 $$
 W
   ,
-    [[Page~1]] <br>
+    [[Page~1|n44]] <br>
     ==
     - A raven with a white streak on its breast;
     - _(5)l(o\) (1)(a/)_
@@ -193,7 +192,7 @@ A
   , $瘂2
 W
   ,
-    [[Page~1]] <br>
+    [[Page~1|n44]] <br>
     ==
     - The confused noise of children studying;
     - dumb;
@@ -226,7 +225,7 @@ A
   , $啞2
 W
   ,
-    [[Page~1]] <br>
+    [[Page~1|n44]] <br>
     ==
     - Dumb, unable to speak;
     - dull, faded;
@@ -288,7 +287,7 @@ V
   , [[a3: shorter syllable]]
 W
   ,
-    [[Page~1]] <br>
+    [[Page~1|n44]] <br>
     A colloquial word.
     ==
     - A final particle, adding intensity to the meaning;
@@ -325,7 +324,7 @@ W
 C
   ,
     =={.modern}
-    - [Jyutping suggests using 啊 as the canonical character for aa3.][jpp]
+    - [Jyutping suggests using 啊 as the canonical character for aa3.]
     ==
 S
   ,
@@ -406,7 +405,7 @@ C
   ,
     =={.modern}
     - 【呀】 A final particle of surprise, suspicion, disappointment, etc.
-    - [Jyutping suggests using 呀 as the canonical character for aa4.][jpp]
+    - [Jyutping suggests using 呀 as the canonical character for aa4.]
     ==
 S
   ,
@@ -428,7 +427,7 @@ V
   , [[a6: shorter syllable for elided "ten" sense]]
 W
   ,
-    [[Page~1]] <br>
+    [[Page~1|n44]] <br>
     A colloquial word. [[...]]
     ==
     - ten, used after a higher number;

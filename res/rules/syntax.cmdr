@@ -28,7 +28,7 @@ RegexDictionaryReplacement: #.syntax.entry-key-abbreviations
 * ^A$ --> ; Alternative forms
 * ^V$ --> ; Reading variations
 * ^W$ --> ; Williams (1856) entry
-* ^C$ --> ; Conway's remarks
+* ^C$ --> ; Conway's commentary
 * ^S$ --> ; See also
 
 RegexDictionaryReplacement: #.syntax.mark-entry-keys-for-preceding-value
@@ -85,6 +85,24 @@ FixedDelimitersReplacement: #.syntax.modern-insertion
 - content_replacements: #.syntax.round-bracket-wrap
 - closing_delimiter: ]]
 - tag_name: ins
+
+RegexDictionaryReplacement: #.syntax.link-abbreviations
+- queue_position: BEFORE #specified-links
+* Page ~ (?P<page_number> [0-9]+ ) (?P<asterisk> [*]? )
+  (?! [|0-9*] )
+    -->
+  Page~\g<page_number>\g<asterisk>|\g<page_number>
+* Page ~ (?P<page_number> [0-9]+ ) (?P<asterisk> [*]? )
+  [|] (?P<page_slug> [n]? [0-9]+ )
+  (?P<etc> [ ] of [ ] the [ ] original ) ?
+    -->
+  [Page~\g<page_number>\g<asterisk>\g<etc>](https://archive.org/details/williams-a-tonic-dictionary-of-the-chinese-language-in-the-canton-dialect-1856/page/\g<page_slug>/mode/1up)
+* < (?P<page_slug> [n]? [0-9]+ ) >
+    -->
+  (https://archive.org/details/williams-a-tonic-dictionary-of-the-chinese-language-in-the-canton-dialect-1856/page/\g<page_slug>/mode/1up)
+* \[ Jyutping [ ] suggests .* \]
+    -->
+  \g<0>(https://jyutping.org/blog/particles/)
 
 OrdinaryDictionaryReplacement: #.syntax.eight-tone-marks
 - queue_position: BEFORE #specified-links
