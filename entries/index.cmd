@@ -76,7 +76,7 @@ Work in progress.
   - [`hei`]
   ==
 
-- Ng
+- N
   ==
   - [`ngaa`]
   ==
@@ -106,6 +106,7 @@ Work in progress.
   - [`zim`]
   - [`zin`]
   - [`zing`]
+  - [`zip`]
   - [`zoek`]
   - [`zoeng`]
   ==
