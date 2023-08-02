@@ -109,6 +109,7 @@ Work in progress.
   - [`zat`]
   - [`zau`]
   - [`ze`]
+  - [`zeoi`]
   - [`zi`]
   - [`zik`]
   - [`zim`]
