@@ -63,6 +63,7 @@ Work in progress.
   - [`cau`]
   - [`ce`]
   - [`ci`]
+  - [`cik`]
   - [`coek`]
   - [`coeng`]
   ==
