@@ -80,6 +80,7 @@ Work in progress.
   - [`cong`]
   - [`cou`]
   - [`cuk`]
+  - [`cung`]
   - [`cyu`]
   - [`cyun`]
   ==
