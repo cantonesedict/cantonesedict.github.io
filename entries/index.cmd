@@ -138,6 +138,7 @@ Work in progress.
   - [`zung`]
   - [`zyu`]
   - [`zyun`]
+  - [`zyut`]
   ==
 ====
 </nav>
