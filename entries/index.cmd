@@ -117,6 +117,7 @@ Work in progress.
   - [`ze`]
   - [`zeoi`]
   - [`zeon`]
+  - [`zeot`]
   - [`zi`]
   - [`zik`]
   - [`zim`]
