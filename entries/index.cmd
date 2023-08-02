@@ -108,6 +108,7 @@ Work in progress.
   - [`zin`]
   - [`zing`]
   - [`zip`]
+  - [`zit`]
   - [`zoek`]
   - [`zoeng`]
   ==
