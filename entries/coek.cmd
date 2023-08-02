@@ -1,18 +1,17 @@
 < /res/rules/boilerplate.cmdr
 < /res/rules/syntax.cmdr
-< /res/rules/links.cmdr
 
 OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coek
-* %date-modified --> 2023-07-30
+* %date-modified --> 2023-08-02
 * %copyright-prior-years -->
 
 %%%
 
 --{.modern}
-[[From Page~33|n72 (Ch(')(e/)uk) and Page~565 (Ts(')(e/)uk) of the original onwards. Work in progress.]]
+[[From Page~33|n76 (Ch(')(e/)uk) and Page~565 (Ts(')(e/)uk) of the original onwards. Work in progress.]]
 --
 
 #{.williams} Ch(')(e/)uk. Ts(')(e/)uk. [[coek]]
