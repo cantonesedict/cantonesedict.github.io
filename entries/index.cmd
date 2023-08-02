@@ -104,6 +104,7 @@ Work in progress.
   - [`zik`]
   - [`zim`]
   - [`zin`]
+  - [`zing`]
   - [`zoek`]
   - [`zoeng`]
   ==
