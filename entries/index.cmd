@@ -62,6 +62,7 @@ Work in progress.
   - [`cat`]
   - [`cau`]
   - [`ce`]
+  - [`ceoi`]
   - [`ci`]
   - [`cik`]
   - [`cim`]
