@@ -118,6 +118,7 @@ Work in progress.
   - [`zo`]
   - [`zoek`]
   - [`zoeng`]
+  - [`zok`]
   - [`zoi`]
   - [`zou`]
   ==
