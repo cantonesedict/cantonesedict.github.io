@@ -74,6 +74,7 @@ Work in progress.
   - [`coek`]
   - [`coeng`]
   - [`coi`]
+  - [`cok`]
   - [`cou`]
   ==
 
