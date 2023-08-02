@@ -63,6 +63,7 @@ Work in progress.
   - [`cau`]
   - [`ce`]
   - [`ceoi`]
+  - [`ceon`]
   - [`ci`]
   - [`cik`]
   - [`cim`]
