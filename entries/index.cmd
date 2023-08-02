@@ -64,6 +64,7 @@ Work in progress.
   - [`ce`]
   - [`ceoi`]
   - [`ceon`]
+  - [`ceot`]
   - [`ci`]
   - [`cik`]
   - [`cim`]
