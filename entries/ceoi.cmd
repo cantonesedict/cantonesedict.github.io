@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~34* (Ch(')ui), Page~595 (Ts(')(u")), and Page~597 (Ts(')ui) of the original onwards. Work in progress.]]
+[[From Page~34* (Ch(')ui), Page~595 (Ts(')(u")), Page~597 (Ts(')ui), and Page~598 (Ts(')(u/)i) of the original onwards. Work in progress.]]
 --
 
-#{.williams} Ch(')ui. Ts(')(u"). Ts(')ui. [[ceoi]]
+#{.williams} Ch(')ui. Ts(')(u"). Ts(')ui. Ts(')(u/)i. [[ceoi]]
