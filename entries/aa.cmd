@@ -100,7 +100,7 @@ C
     - 好吖: "OK" (as an active, enthusiastic endorsement).
     - 吖喂: A polite "oi!" to get someone's attention at the end of a sentence.
       Not sure if these were the characters intended by Williams' "poor, necessitous".
-    - [Jyutping suggests using 吖 as the canonical character for aa1.][jpp]
+    - [Jyutping suggests using 吖 as the canonical character for aa1.]
     ==
 $$
 
@@ -324,7 +324,7 @@ W
 C
   ,
     =={.modern}
-    - [Jyutping suggests using 啊 as the canonical character for aa3.][jpp]
+    - [Jyutping suggests using 啊 as the canonical character for aa3.]
     ==
 S
   ,
@@ -405,7 +405,7 @@ C
   ,
     =={.modern}
     - 【呀】 A final particle of surprise, suspicion, disappointment, etc.
-    - [Jyutping suggests using 呀 as the canonical character for aa4.][jpp]
+    - [Jyutping suggests using 呀 as the canonical character for aa4.]
     ==
 S
   ,
