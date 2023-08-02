@@ -75,6 +75,7 @@ Work in progress.
   - [`coeng`]
   - [`coi`]
   - [`cok`]
+  - [`cong`]
   - [`cou`]
   ==
 
@@ -119,8 +120,8 @@ Work in progress.
   - [`zo`]
   - [`zoek`]
   - [`zoeng`]
-  - [`zok`]
   - [`zoi`]
+  - [`zok`]
   - [`zong`]
   - [`zou`]
   ==
