@@ -112,6 +112,7 @@ Work in progress.
   - [`zip`]
   - [`zit`]
   - [`ziu`]
+  - [`zo`]
   - [`zoek`]
   - [`zoeng`]
   ==
