@@ -66,6 +66,7 @@ Work in progress.
   - [`cik`]
   - [`cim`]
   - [`cin`]
+  - [`cing`]
   - [`coek`]
   - [`coeng`]
   ==
