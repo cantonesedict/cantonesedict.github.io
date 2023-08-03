@@ -97,6 +97,7 @@ Work in progress.
   - $faa
   - $faai
   - $faan
+  - $faat
   - $fai
   - $fan
   - $fat
