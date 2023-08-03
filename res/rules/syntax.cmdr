@@ -1,6 +1,7 @@
 OrdinaryDictionaryReplacement: #.syntax.addition-marker-to-class
 * +} --> ' -class .modern}'
 
+
 RegexDictionaryReplacement: #.syntax.character-headings
 - queue_position: BEFORE #headings
 * ^[#]{3} (?P<addition_marker> [+]? )
@@ -9,6 +10,7 @@ RegexDictionaryReplacement: #.syntax.character-headings
     -->
   ###{#\g<tone_number>\g<character> .williams\g<addition_marker>} <span class="headword">\g<character>\g<pre_code_point></span> \g<code_point_etc>
 - concluding_replacements: #.syntax.addition-marker-to-class
+
 
 RegexDictionaryReplacement: #heading-permalinks
 - queue_position: BEFORE #headings
@@ -20,6 +22,7 @@ RegexDictionaryReplacement: #heading-permalinks
     -->
   \g<opening_hashes_etc> []{.permalink aria-label=Permalink}(#\g<id_>)
 
+
 RegexDictionaryReplacement: #.syntax.entry-key-abbreviations
 * ^A$ --> ; Alternative forms
 * ^V$ --> ; Reading variations
@@ -27,11 +30,14 @@ RegexDictionaryReplacement: #.syntax.entry-key-abbreviations
 * ^C$ --> ; Conway's commentary
 * ^S$ --> ; See also
 
+
 RegexDictionaryReplacement: #.syntax.mark-entry-keys-for-preceding-value
 * \A --> ;{}
 
+
 OrdinaryDictionaryReplacement: #.syntax.unmark-entry-keys-for-preceding-value
 * ;{} -->
+
 
 PartitioningReplacement: #.syntax.entry-keys
 - starting_pattern: [;]
@@ -41,12 +47,14 @@ PartitioningReplacement: #.syntax.entry-keys
 - tag_name: dt
 - concluding_replacements: #.syntax.mark-entry-keys-for-preceding-value
 
+
 PartitioningReplacement: #.syntax.entry-values
 - starting_pattern: [,]
 - attribute_specifications: .williams
 - content_replacements: #trim-whitespace
 - ending_pattern: [;,]
 - tag_name: dd
+
 
 FixedDelimitersReplacement: #.syntax.entries
 - queue_position: BEFORE #divisions
@@ -62,6 +70,7 @@ FixedDelimitersReplacement: #.syntax.entries
 - closing_delimiter: $$
 - tag_name: dl
 
+
 RegexDictionaryReplacement: #.syntax.entry-links
 - queue_position: BEFORE #specified-links
 * [$] (?P<jyutping> [a-z]+ )
@@ -74,10 +83,12 @@ RegexDictionaryReplacement: #.syntax.entry-links
     -->
   [\g<character>](#\g<tone_number>\g<character>)
 
+
 RegexDictionaryReplacement: #.syntax.round-bracket-wrap
 * \A --> (
 * \Z --> )
 - concluding_replacements: #placeholder-protect
+
 
 FixedDelimitersReplacement: #.syntax.modern-insertion
 - queue_position: BEFORE #specified-links
@@ -87,6 +98,7 @@ FixedDelimitersReplacement: #.syntax.modern-insertion
 - content_replacements: #.syntax.round-bracket-wrap
 - closing_delimiter: ]]
 - tag_name: ins
+
 
 RegexDictionaryReplacement: #.syntax.link-abbreviations
 - queue_position: BEFORE #specified-links
@@ -106,6 +118,7 @@ RegexDictionaryReplacement: #.syntax.link-abbreviations
     -->
   \g<0>(https://jyutping.org/blog/particles/)
 
+
 OrdinaryDictionaryReplacement: #.syntax.eight-tone-marks
 - queue_position: BEFORE #specified-links
 # U+A700 through U+A707 <https://en.wikipedia.org/wiki/Modifier_Tone_Letters>
@@ -118,6 +131,7 @@ OrdinaryDictionaryReplacement: #.syntax.eight-tone-marks
 * (7) --> ꜆
 * (8) --> ꜆
 * (9) --> ꜇
+
 
 OrdinaryDictionaryReplacement: #.syntax.diacritics
 - queue_position: BEFORE #backslash-escapes
@@ -158,6 +172,7 @@ OrdinaryDictionaryReplacement: #.syntax.diacritics
 # U+00FC LATIN SMALL LETTER U WITH DIAERESIS
 *   (u") --> ü
 
+
 OrdinaryDictionaryReplacement: #.syntax.typography
 - queue_position: BEFORE #escape-idle-html
 #
@@ -172,6 +187,7 @@ OrdinaryDictionaryReplacement: #.syntax.typography
 #
 # U+02BB MODIFIER LETTER TURNED COMMA
 *   (') --> ʻ
+
 
 RegexDictionaryReplacement: #.syntax.chinese-lang
 - queue_position: BEFORE #escape-idle-html
