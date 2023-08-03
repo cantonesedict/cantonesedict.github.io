@@ -113,6 +113,7 @@ Work in progress.
   - $fui
   - $fuk
   - $fun
+  - $fung
   ==
 
 - H
