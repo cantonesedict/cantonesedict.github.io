@@ -105,6 +105,7 @@ Work in progress.
   - $fe
   - $fei
   - $fik
+  - $fing
   ==
 
 - H
