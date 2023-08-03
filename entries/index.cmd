@@ -107,6 +107,7 @@ Work in progress.
   - $fik
   - $fing
   - $fo
+  - $fok
   ==
 
 - H
