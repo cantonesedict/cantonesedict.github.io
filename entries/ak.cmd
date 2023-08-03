@@ -45,13 +45,13 @@ C
   ,
     =={.modern}
     - Most modern speakers prefer the longer syllable _(a/)k(7)_ [[aak1]];
-      see [`aak#厄1`].
+      see $厄aak1.
     - Williams erroneously has 𢨪 = ⿸戶巳 for an alternate form instead of 戹.
     ==
 S
   ,
     =={.modern}
-    - [`aak#厄1`]
+    - $厄aak1
     ==
 $$
 
@@ -70,12 +70,12 @@ C
   ,
     =={.modern}
     - Williams has this entry within that for _(2)(a/)_ [[aa2]];
-      see [`aa#啞2`].
+      see $啞aa2.
     ==
 S
   ,
     =={.modern}
-    - [`aa#啞2`]
+    - $啞aa2
     ==
 $$
 
@@ -120,12 +120,12 @@ C
   ,
     =={.modern}
     - Most modern speakers prefer the longer syllable _(a/)k(7)_ [[aak1]];
-      see [`aak#握1`].
+      see $握aak1.
     ==
 S
   ,
     =={.modern}
-    - [`aak#握1`]
+    - $握aak1
     ==
 $$
 
@@ -174,11 +174,11 @@ C
   ,
     =={.modern}
     - Most modern speakers prefer the longer syllable _(a/)k(7)_ [[aak1]];
-      see [`aak#阨1`], for the colloquial "deceive" sense.
+      see $阨aak1, for the colloquial "deceive" sense.
     ==
 S
   ,
     =={.modern}
-    - [`aak#阨1`]
+    - $阨aak1
     ==
 $$

@@ -119,7 +119,7 @@ W
     - An interjection used in answers, denoting surprise or alarm;
     - alas! dreadful.
     ==
-    Read _(4)ng(a/)_ [[ngaa4]]: [[see [`ngaa#呀4`]]].
+    Read _(4)ng(a/)_ [[ngaa4]]: [[see $呀ngaa4]].
 C
   ,
     =={.modern}
@@ -129,10 +129,10 @@ C
 S
   ,
     =={.modern}
-    - [`aa#呀3`]
-    - [`aa#呀4`]
-    - [`aa#呀6`]
-    - [`ngaa#呀4`]
+    - $呀aa3
+    - $呀aa4
+    - $呀aa6
+    - $呀ngaa4
     ==
 $$
 
@@ -153,7 +153,7 @@ C
 S
   ,
     =={.modern}
-    - [`aa#啊3`]
+    - $啊aa3
     ==
 $$
 
@@ -204,7 +204,7 @@ W
         [[cing4 naan4 aa2 jan2 情難啞忍]],
         hard to bear it patiently.
     ==
-    Also read _ak(7)_ [[ak1]]; [[see [`ak#啞1`]]].
+    Also read _ak(7)_ [[ak1]]; [[see $啞ak1]].
 C
   ,
     =={.modern}
@@ -214,7 +214,7 @@ C
 S
   ,
     =={.modern}
-    - [`ak#啞1`]
+    - $啞ak1
     ==
 $$
 
@@ -295,7 +295,7 @@ W
         [[m4 hou2 aa3 唔好呀]]
         not at all good.
     ==
-    Also spoken _(a/)(6)_ [[aa6]]; [[see [`aa#呀6`]]].
+    Also spoken _(a/)(6)_ [[aa6]]; [[see $呀aa6]].
 C
   ,
     =={.modern}
@@ -305,10 +305,10 @@ C
 S
   ,
     =={.modern}
-    - [`aa#呀1`]
-    - [`aa#呀4`]
-    - [`aa#呀6`]
-    - [`ngaa#呀4`]
+    - $呀aa1
+    - $呀aa4
+    - $呀aa6
+    - $呀ngaa4
     ==
 $$
 
@@ -329,7 +329,7 @@ C
 S
   ,
     =={.modern}
-    - [`aa#啊1`]
+    - $啊aa1
     ==
 $$
 
@@ -410,10 +410,10 @@ C
 S
   ,
     =={.modern}
-    - [`aa#呀1`]
-    - [`aa#呀3`]
-    - [`aa#呀6`]
-    - [`ngaa#呀4`]
+    - $呀aa1
+    - $呀aa3
+    - $呀aa6
+    - $呀ngaa4
     ==
 $$
 
@@ -443,7 +443,7 @@ C
   ,
     =={.modern}
     - Williams has this entry within that for _(a/)(3)_ [[aa3]];
-      see [`aa#呀3`].
+      see $呀aa3.
     - 四呀錢: The "ten" sense would never actually appear in writing as 呀;
       it would still be spelt 十,
       the pronunciation being a matter of preference.
@@ -451,9 +451,9 @@ C
 S
   ,
     =={.modern}
-    - [`aa#呀1`]
-    - [`aa#呀3`]
-    - [`aa#呀4`]
-    - [`ngaa#呀4`]
+    - $呀aa1
+    - $呀aa3
+    - $呀aa4
+    - $呀ngaa4
     ==
 $$

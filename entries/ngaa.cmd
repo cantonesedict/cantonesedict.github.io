@@ -36,14 +36,14 @@ C
   ,
     =={.modern}
     - Williams has this entry within that for _(1)(a/)_ [[aa1]];
-      see [`aa#呀1`].
+      see $呀aa1.
     ==
 S
   ,
     =={.modern}
-    - [`aa#呀1`]
-    - [`aa#呀3`]
-    - [`aa#呀4`]
-    - [`aa#呀6`]
+    - $呀aa1
+    - $呀aa3
+    - $呀aa4
+    - $呀aa6
     ==
 $$

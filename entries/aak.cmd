@@ -31,12 +31,12 @@ C
     =={.modern}
     - Most modern speakers prefer this longer syllable
       over the shorter _ak(7)_ [[ak1]].
-      Nevertheless, see [`ak#厄1`] for the canonical entry.
+      Nevertheless, see $厄ak1 for the canonical entry.
     ==
 S
   ,
     =={.modern}
-    - [`ak#厄1`]
+    - $厄ak1
     ==
 $$
 
@@ -52,12 +52,12 @@ C
     =={.modern}
     - Most modern speakers prefer this longer syllable
       over the shorter _ak(7)_ [[ak1]].
-      Nevertheless, see [`ak#握1`] for the canonical entry.
+      Nevertheless, see $握ak1 for the canonical entry.
     ==
 S
   ,
     =={.modern}
-    - [`ak#握1`]
+    - $握ak1
     ==
 $$
 
@@ -94,12 +94,12 @@ C
     =={.modern}
     - Most modern speakers prefer this longer syllable
       over the shorter _ak(7)_ [[ak1]];
-      see [`ak#阨1`] for the literary senses.
+      see $阨ak1 for the literary senses.
     ==
 S
   ,
     =={.modern}
-    - [`ak#阨1`]
+    - $阨ak1
     ==
 $$
 
