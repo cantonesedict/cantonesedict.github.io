@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of entries by Jyutping slug
-* %date-modified --> 2023-07-30
+* %date-modified --> 2023-08-03
 * %copyright-prior-years -->
 
 OrdinaryDictionaryReplacement: #.no-black-serif-note
@@ -24,133 +24,133 @@ Work in progress.
 ===={.modern}
 - A
   ==
-  - [`aa`]
-  - [`aai`]
-  - [`aak`]
-  - [`aam`]
-  - [`aan`]
-  - [`aang`]
-  - [`aap`]
-  - [`aat`]
-  - [`aau`]
-  - [`ai`]
-  - [`ak`]
-  - [`am`]
-  - [`ang`]
-  - [`ap`]
-  - [`at`]
-  - [`au`]
+  - $aa
+  - $aai
+  - $aak
+  - $aam
+  - $aan
+  - $aang
+  - $aap
+  - $aat
+  - $aau
+  - $ai
+  - $ak
+  - $am
+  - $ang
+  - $ap
+  - $at
+  - $au
   ==
 
 - C
   ==
-  - [`caa`]
-  - [`caai`]
-  - [`caak`]
-  - [`caam`]
-  - [`caan`]
-  - [`caang`]
-  - [`caap`]
-  - [`caat`]
-  - [`caau`]
-  - [`cai`]
-  - [`cak`]
-  - [`cam`]
-  - [`can`]
-  - [`cang`]
-  - [`cap`]
-  - [`cat`]
-  - [`cau`]
-  - [`ce`]
-  - [`ceoi`]
-  - [`ceon`]
-  - [`ceot`]
-  - [`ci`]
-  - [`cik`]
-  - [`cim`]
-  - [`cin`]
-  - [`cing`]
-  - [`cip`]
-  - [`cit`]
-  - [`ciu`]
-  - [`co`]
-  - [`coek`]
-  - [`coeng`]
-  - [`coi`]
-  - [`cok`]
-  - [`cong`]
-  - [`cou`]
-  - [`cuk`]
-  - [`cung`]
-  - [`cyu`]
-  - [`cyun`]
-  - [`cyut`]
+  - $caa
+  - $caai
+  - $caak
+  - $caam
+  - $caan
+  - $caang
+  - $caap
+  - $caat
+  - $caau
+  - $cai
+  - $cak
+  - $cam
+  - $can
+  - $cang
+  - $cap
+  - $cat
+  - $cau
+  - $ce
+  - $ceoi
+  - $ceon
+  - $ceot
+  - $ci
+  - $cik
+  - $cim
+  - $cin
+  - $cing
+  - $cip
+  - $cit
+  - $ciu
+  - $co
+  - $coek
+  - $coeng
+  - $coi
+  - $cok
+  - $cong
+  - $cou
+  - $cuk
+  - $cung
+  - $cyu
+  - $cyun
+  - $cyut
   ==
 
 - E
   ==
-  - [`e`]
+  - $e
   ==
 
 - F
   ==
-  - [`faa`]
-  - [`fai`]
+  - $faa
+  - $fai
   ==
 
 - H
   ==
-  - [`hei`]
+  - $hei
   ==
 
 - N
   ==
-  - [`ngaa`]
+  - $ngaa
   ==
 
 - Z
   ==
-  - [`zaa`]
-  - [`zaai`]
-  - [`zaak`]
-  - [`zaam`]
-  - [`zaan`]
-  - [`zaang`]
-  - [`zaap`]
-  - [`zaat`]
-  - [`zaau`]
-  - [`zai`]
-  - [`zak`]
-  - [`zam`]
-  - [`zan`]
-  - [`zang`]
-  - [`zap`]
-  - [`zat`]
-  - [`zau`]
-  - [`ze`]
-  - [`zeoi`]
-  - [`zeon`]
-  - [`zeot`]
-  - [`zi`]
-  - [`zik`]
-  - [`zim`]
-  - [`zin`]
-  - [`zing`]
-  - [`zip`]
-  - [`zit`]
-  - [`ziu`]
-  - [`zo`]
-  - [`zoek`]
-  - [`zoeng`]
-  - [`zoi`]
-  - [`zok`]
-  - [`zong`]
-  - [`zou`]
-  - [`zuk`]
-  - [`zung`]
-  - [`zyu`]
-  - [`zyun`]
-  - [`zyut`]
+  - $zaa
+  - $zaai
+  - $zaak
+  - $zaam
+  - $zaan
+  - $zaang
+  - $zaap
+  - $zaat
+  - $zaau
+  - $zai
+  - $zak
+  - $zam
+  - $zan
+  - $zang
+  - $zap
+  - $zat
+  - $zau
+  - $ze
+  - $zeoi
+  - $zeon
+  - $zeot
+  - $zi
+  - $zik
+  - $zim
+  - $zin
+  - $zing
+  - $zip
+  - $zit
+  - $ziu
+  - $zo
+  - $zoek
+  - $zoeng
+  - $zoi
+  - $zok
+  - $zong
+  - $zou
+  - $zuk
+  - $zung
+  - $zyu
+  - $zyun
+  - $zyut
   ==
 ====
 </nav>
