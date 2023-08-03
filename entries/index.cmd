@@ -112,6 +112,7 @@ Work in progress.
   - $fu
   - $fui
   - $fuk
+  - $fun
   ==
 
 - H
