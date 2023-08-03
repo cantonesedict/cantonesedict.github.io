@@ -69,7 +69,7 @@ RegexDictionaryReplacement: #.syntax.entry-links
   [\g<jyutping>](/entries/\g<jyutping>)
 * [$] (?P<character> [^a-z] ) (?P<jyutping> [a-z]+ ) (?P<tone_number> [1-6]? )
     -->
-  [\g<jyutping>\g<tone_number>](/entries/\g<jyutping>#\g<tone_number>\g<character>)
+  [\g<character>~\g<jyutping>\g<tone_number>](/entries/\g<jyutping>#\g<tone_number>\g<character>)
 * [$] (?P<character> [^a-z] ) (?P<tone_number> [1-6]? )
     -->
   [\g<character>](#\g<tone_number>\g<character>)
