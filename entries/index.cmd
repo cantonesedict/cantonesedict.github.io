@@ -114,6 +114,7 @@ Work in progress.
   - $fuk
   - $fun
   - $fung
+  - $fut
   ==
 
 - H
