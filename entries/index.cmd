@@ -110,6 +110,7 @@ Work in progress.
   - $fok
   - $fong
   - $fu
+  - $fui
   ==
 
 - H
