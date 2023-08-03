@@ -95,6 +95,7 @@ Work in progress.
 - F
   ==
   - [`faa`]
+  - [`fai`]
   ==
 
 - H
