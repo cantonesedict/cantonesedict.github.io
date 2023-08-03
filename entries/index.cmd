@@ -111,6 +111,7 @@ Work in progress.
   - $fong
   - $fu
   - $fui
+  - $fuk
   ==
 
 - H
