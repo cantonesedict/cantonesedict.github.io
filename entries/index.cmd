@@ -167,6 +167,7 @@ Work in progress.
   - $gwaak
   - $gwaan
   - $gwaang
+  - $gwaat
   - $gwai
   - $gwan
   - $gwang
