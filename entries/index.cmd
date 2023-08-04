@@ -162,6 +162,7 @@ Work in progress.
   - $gun
   - $gung
   - $gyun
+  - $gyut
   ==
 
 - H
