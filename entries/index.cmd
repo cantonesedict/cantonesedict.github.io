@@ -205,6 +205,7 @@ Work in progress.
   - $kap
   - $kat
   - $kau
+  - $ke
   ==
 
 - N
