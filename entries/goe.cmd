@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[Not present in the original ''Tonic Dictionary''. Work in progress.]]
+[[From Page~187 of the original onwards. Work in progress.]]
 --
 
-#{.modern} K(u\). [[goe]]
+#{.williams} K(u\). [[goe]]
