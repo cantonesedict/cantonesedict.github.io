@@ -122,6 +122,7 @@ Work in progress.
   ==
   - $haa
   - $haai
+  - $haak
   - $hai
   - $hak
   - $hei
