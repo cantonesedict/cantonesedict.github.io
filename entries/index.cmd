@@ -247,6 +247,7 @@ Work in progress.
   - $ku
   - $kui
   - $kuk
+  - $kyun
   ==
 
 - N
