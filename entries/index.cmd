@@ -138,6 +138,7 @@ Work in progress.
   - $ge
   - $goe
   - $goek
+  - $goeng
   ==
 
 - H
