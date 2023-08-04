@@ -156,6 +156,7 @@ Work in progress.
   - $hot
   - $hou
   - $huk
+  - $hyun
   ==
 
 - N
