@@ -137,6 +137,7 @@ Work in progress.
   - $gau
   - $ge
   - $goe
+  - $goek
   ==
 
 - H
