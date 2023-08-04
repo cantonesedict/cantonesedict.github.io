@@ -210,6 +210,7 @@ Work in progress.
   - $kat
   - $kau
   - $ke
+  - $kei
   - $koek
   - $koeng
   ==
