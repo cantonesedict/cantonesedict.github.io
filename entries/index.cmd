@@ -252,6 +252,7 @@ Work in progress.
   - $kui
   - $kuk
   - $kung
+  - $kut
   - $kyun
   - $kyut
   ==
