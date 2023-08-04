@@ -123,6 +123,7 @@ Work in progress.
   - $haa
   - $haai
   - $haak
+  - $haam
   - $hai
   - $hak
   - $hei
