@@ -143,6 +143,7 @@ Work in progress.
   - $hing
   - $hip
   - $hit
+  - $hiu
   - $hoeng
   ==
 
