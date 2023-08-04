@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Introduction.
-* %date-modified --> 2023-08-02
+* %date-modified --> 2023-08-04
 * %copyright-prior-years -->
 
 %%%
@@ -1232,7 +1232,7 @@ in parenthesis under each number.
   like _may_, _lay_, _they_, _yea_ [[in Received Pronunciation]];
   it has few aberrations,
   and most of those are mispronunciations from the 3d~order [[ei]],
-  under a few initial
+  under a few initials.
   _(Yay, ya, se-ay.)_
 
 30.
