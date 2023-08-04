@@ -14,4 +14,4 @@ OrdinaryDictionaryReplacement: #.properties-override
 [[From Page~201 of the original onwards. Work in progress.]]
 --
 
-#{.williams} K(')w(a/). [[kwaa]]
+#{.williams} Kw(')(a/). [[kwaa]]
