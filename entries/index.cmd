@@ -142,6 +142,7 @@ Work in progress.
   - $gim
   - $gin
   - $ging
+  - $gip
   - $goe
   - $goek
   - $goeng
