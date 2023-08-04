@@ -176,6 +176,11 @@ Work in progress.
   - $jiu
   ==
 
+- K
+  ==
+  - $kaa
+  ==
+
 - N
   ==
   - $ngaa
