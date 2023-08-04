@@ -187,6 +187,7 @@ Work in progress.
   ==
   - $kaa
   - $kaai
+  - $kaan
   - $kai
   - $kam
   - $kan
