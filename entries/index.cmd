@@ -236,6 +236,7 @@ Work in progress.
   - $koeng
   - $koi
   - $kok
+  - $kong
   ==
 
 - N
