@@ -159,6 +159,7 @@ Work in progress.
   - $gu
   - $gui
   - $guk
+  - $gyun
   ==
 
 - H
