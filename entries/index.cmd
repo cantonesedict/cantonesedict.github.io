@@ -260,6 +260,7 @@ Work in progress.
   - $kut
   - $kwaa
   - $kwai
+  - $kwan
   - $kyun
   - $kyut
   ==
