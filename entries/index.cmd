@@ -153,6 +153,7 @@ Work in progress.
   - $gok
   - $gon
   - $gong
+  - $got
   - $gou
   ==
 
