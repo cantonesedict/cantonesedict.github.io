@@ -132,6 +132,7 @@ Work in progress.
   - $han
   - $hang
   - $hap
+  - $hat
   - $hei
   ==
 
