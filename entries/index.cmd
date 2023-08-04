@@ -166,6 +166,7 @@ Work in progress.
   - $gwaai
   - $gwaak
   - $gwai
+  - $gwan
   - $gyun
   - $gyut
   ==
