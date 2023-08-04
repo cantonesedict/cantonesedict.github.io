@@ -147,6 +147,7 @@ Work in progress.
   - $hit
   - $hiu
   - $ho
+  - $hoe
   - $hoeng
   - $hoi
   - $hok
