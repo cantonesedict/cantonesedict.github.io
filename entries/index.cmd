@@ -168,6 +168,7 @@ Work in progress.
   - $gwaan
   - $gwai
   - $gwan
+  - $gwang
   - $gyun
   - $gyut
   ==
