@@ -158,6 +158,7 @@ Work in progress.
   - $gou
   - $gu
   - $gui
+  - $guk
   ==
 
 - H
