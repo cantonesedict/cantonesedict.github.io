@@ -124,9 +124,11 @@ Work in progress.
   - $haai
   - $haak
   - $haam
+  - $haan
   - $hai
   - $hak
   - $han
+  - $hang
   - $hei
   ==
 
