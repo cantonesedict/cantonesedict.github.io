@@ -150,6 +150,7 @@ Work in progress.
   - $hoi
   - $hok
   - $hon
+  - $hong
   - $hou
   ==
 
