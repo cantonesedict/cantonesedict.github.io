@@ -130,6 +130,7 @@ Work in progress.
   - $haau
   - $hai
   - $hak
+  - $ham
   - $han
   - $hang
   - $hap
