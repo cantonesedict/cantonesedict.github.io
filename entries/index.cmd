@@ -170,6 +170,7 @@ Work in progress.
   - $gwai
   - $gwan
   - $gwang
+  - $gwat
   - $gyun
   - $gyut
   ==
