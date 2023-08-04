@@ -151,6 +151,7 @@ Work in progress.
   - $hok
   - $hon
   - $hong
+  - $hot
   - $hou
   ==
 
