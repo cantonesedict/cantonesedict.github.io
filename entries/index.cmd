@@ -245,6 +245,7 @@ Work in progress.
   - $kong
   - $ku
   - $kui
+  - $kuk
   ==
 
 - N
