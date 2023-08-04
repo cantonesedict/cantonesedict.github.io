@@ -146,6 +146,7 @@ Work in progress.
   - $hiu
   - $ho
   - $hoeng
+  - $hoi
   - $hou
   ==
 
