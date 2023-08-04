@@ -120,6 +120,7 @@ Work in progress.
 - H
   ==
   - $haa
+  - $hai
   - $hei
   ==
 
