@@ -124,6 +124,7 @@ Work in progress.
   - $gaai
   - $gaak
   - $gai
+  - $gam
   ==
 
 - H
