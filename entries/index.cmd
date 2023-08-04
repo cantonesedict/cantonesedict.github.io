@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of entries by Jyutping slug
-* %date-modified --> 2023-08-03
+* %date-modified --> 2023-08-04
 * %copyright-prior-years -->
 
 OrdinaryDictionaryReplacement: #.no-black-serif-note
@@ -119,6 +119,7 @@ Work in progress.
 
 - H
   ==
+  - $haa
   - $hei
   ==
 
