@@ -254,6 +254,7 @@ Work in progress.
   - $kuk
   - $kung
   - $kut
+  - $kwaa
   - $kyun
   - $kyut
   ==
