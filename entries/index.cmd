@@ -163,6 +163,7 @@ Work in progress.
   - $gung
   - $gut
   - $gwaa
+  - $gwaai
   - $gwai
   - $gyun
   - $gyut
