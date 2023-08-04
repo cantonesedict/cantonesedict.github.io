@@ -161,6 +161,11 @@ Work in progress.
   - $hyut
   ==
 
+- J
+  ==
+  - $ji
+  ==
+
 - N
   ==
   - $ngaa
