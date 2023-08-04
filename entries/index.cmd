@@ -138,6 +138,7 @@ Work in progress.
   - $hau
   - $he
   - $hei
+  - $heoi
   - $heng
   - $him
   - $hin
