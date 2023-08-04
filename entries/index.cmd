@@ -210,6 +210,7 @@ Work in progress.
   - $kau
   - $ke
   - $koek
+  - $koeng
   ==
 
 - N
