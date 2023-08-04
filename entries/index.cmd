@@ -192,6 +192,7 @@ Work in progress.
   - $kai
   - $kam
   - $kan
+  - $kang
   ==
 
 - N
