@@ -96,6 +96,7 @@ Work in progress.
   ==
   - $faa
   - $faai
+  - $faak
   - $faan
   - $faat
   - $fai
