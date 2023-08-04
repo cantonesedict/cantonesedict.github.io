@@ -162,6 +162,7 @@ Work in progress.
   - $gun
   - $gung
   - $gut
+  - $gwaa
   - $gyun
   - $gyut
   ==
