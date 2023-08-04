@@ -151,6 +151,7 @@ Work in progress.
   - $goeng
   - $goi
   - $gok
+  - $gon
   - $gou
   ==
 
