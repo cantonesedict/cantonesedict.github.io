@@ -125,6 +125,7 @@ Work in progress.
   - $gaak
   - $gaam
   - $gaan
+  - $gaang
   - $gai
   - $gam
   - $gan
