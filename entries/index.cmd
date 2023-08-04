@@ -137,6 +137,7 @@ Work in progress.
   - $gau
   - $ge
   - $gei
+  - $gik
   - $goe
   - $goek
   - $goeng
