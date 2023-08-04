@@ -155,6 +155,7 @@ Work in progress.
   - $gong
   - $got
   - $gou
+  - $gu
   ==
 
 - H
