@@ -212,6 +212,7 @@ Work in progress.
   - $kau
   - $ke
   - $kei
+  - $kik
   - $koek
   - $koeng
   ==
