@@ -243,6 +243,7 @@ Work in progress.
   - $kok
   - $kong
   - $ku
+  - $kui
   ==
 
 - N
