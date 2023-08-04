@@ -252,6 +252,7 @@ Work in progress.
   - $kuk
   - $kung
   - $kyun
+  - $kyut
   ==
 
 - N
