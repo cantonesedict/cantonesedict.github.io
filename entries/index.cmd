@@ -149,6 +149,7 @@ Work in progress.
   - $goe
   - $goek
   - $goeng
+  - $goi
   - $gou
   ==
 
