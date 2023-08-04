@@ -127,6 +127,7 @@ Work in progress.
   - $haan
   - $haang
   - $haap
+  - $haau
   - $hai
   - $hak
   - $han
