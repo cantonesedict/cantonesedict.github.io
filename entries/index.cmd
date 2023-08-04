@@ -144,6 +144,7 @@ Work in progress.
   - $hip
   - $hit
   - $hiu
+  - $ho
   - $hoeng
   ==
 
