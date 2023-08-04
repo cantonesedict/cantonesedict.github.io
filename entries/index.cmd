@@ -161,6 +161,7 @@ Work in progress.
   - $guk
   - $gun
   - $gung
+  - $gut
   - $gyun
   - $gyut
   ==
