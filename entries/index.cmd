@@ -256,6 +256,7 @@ Work in progress.
   - $kung
   - $kut
   - $kwaa
+  - $kwai
   - $kyun
   - $kyut
   ==
