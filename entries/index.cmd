@@ -262,6 +262,7 @@ Work in progress.
   - $kung
   - $kut
   - $kwaa
+  - $kwaang
   - $kwai
   - $kwan
   - $kyun
