@@ -177,6 +177,7 @@ Work in progress.
   - $gwit
   - $gwo
   - $gwok
+  - $gwong
   - $gyun
   - $gyut
   ==
