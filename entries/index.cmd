@@ -233,6 +233,7 @@ Work in progress.
   - $koek
   - $koeng
   - $koi
+  - $kok
   ==
 
 - N
