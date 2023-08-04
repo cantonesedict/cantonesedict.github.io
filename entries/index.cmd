@@ -208,6 +208,7 @@ Work in progress.
   - $kat
   - $kau
   - $ke
+  - $koek
   ==
 
 - N
