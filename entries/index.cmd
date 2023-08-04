@@ -165,6 +165,7 @@ Work in progress.
   - $gwaa
   - $gwaai
   - $gwaak
+  - $gwaan
   - $gwai
   - $gwan
   - $gyun
