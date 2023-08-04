@@ -139,6 +139,7 @@ Work in progress.
   - $hei
   - $heng
   - $him
+  - $hin
   - $hoeng
   ==
 
