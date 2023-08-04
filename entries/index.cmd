@@ -136,6 +136,7 @@ Work in progress.
   - $gat
   - $gau
   - $ge
+  - $goe
   ==
 
 - H
