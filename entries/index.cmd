@@ -268,6 +268,7 @@ Work in progress.
   - $kwaang
   - $kwai
   - $kwan
+  - $kwik
   - $kyun
   - $kyut
   ==
