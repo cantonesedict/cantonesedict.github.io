@@ -158,6 +158,7 @@ Work in progress.
   - $huk
   - $hung
   - $hyun
+  - $hyut
   ==
 
 - N
