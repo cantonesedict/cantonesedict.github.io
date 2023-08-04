@@ -188,6 +188,7 @@ Work in progress.
   - $kaai
   - $kai
   - $kam
+  - $kan
   ==
 
 - N
