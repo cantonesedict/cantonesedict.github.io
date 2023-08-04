@@ -155,6 +155,7 @@ Work in progress.
   - $hong
   - $hot
   - $hou
+  - $huk
   ==
 
 - N
