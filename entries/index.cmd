@@ -212,6 +212,7 @@ Work in progress.
   - $kau
   - $ke
   - $kei
+  - $kek
   - $kik
   - $koek
   - $koeng
