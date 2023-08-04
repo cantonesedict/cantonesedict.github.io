@@ -229,6 +229,7 @@ Work in progress.
   - $ke
   - $kei
   - $kek
+  - $keoi
   - $kik
   - $kim
   - $kin
