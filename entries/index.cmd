@@ -121,6 +121,7 @@ Work in progress.
 - H
   ==
   - $haa
+  - $haai
   - $hai
   - $hak
   - $hei
