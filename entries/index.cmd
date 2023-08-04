@@ -150,6 +150,7 @@ Work in progress.
   - $goek
   - $goeng
   - $goi
+  - $gok
   - $gou
   ==
 
