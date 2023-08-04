@@ -273,6 +273,7 @@ Work in progress.
   - $kwai
   - $kwan
   - $kwik
+  - $kwok
   - $kyun
   - $kyut
   ==
