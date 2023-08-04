@@ -160,6 +160,7 @@ Work in progress.
   - $gui
   - $guk
   - $gun
+  - $gung
   - $gyun
   ==
 
