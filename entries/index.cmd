@@ -138,6 +138,7 @@ Work in progress.
   - $ge
   - $gei
   - $geng
+  - $geoi
   - $gik
   - $gim
   - $gin
