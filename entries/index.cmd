@@ -275,6 +275,7 @@ Work in progress.
   - $kwan
   - $kwik
   - $kwok
+  - $kwong
   - $kyun
   - $kyut
   ==
