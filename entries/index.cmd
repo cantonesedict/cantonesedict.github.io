@@ -164,6 +164,7 @@ Work in progress.
   - $gut
   - $gwaa
   - $gwaai
+  - $gwaak
   - $gwai
   - $gyun
   - $gyut
