@@ -223,6 +223,7 @@ Work in progress.
   - $kim
   - $kin
   - $king
+  - $kit
   - $koek
   - $koeng
   ==
