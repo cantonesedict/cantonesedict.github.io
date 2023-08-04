@@ -231,6 +231,7 @@ Work in progress.
   - $kiu
   - $koek
   - $koeng
+  - $koi
   ==
 
 - N
