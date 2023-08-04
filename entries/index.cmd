@@ -126,6 +126,7 @@ Work in progress.
   - $gaam
   - $gaan
   - $gaang
+  - $gaap
   - $gai
   - $gam
   - $gan
@@ -191,6 +192,7 @@ Work in progress.
   - $kaa
   - $kaai
   - $kaan
+  - $kaap
   - $kai
   - $kam
   - $kan
