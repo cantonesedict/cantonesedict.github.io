@@ -174,6 +174,7 @@ Work in progress.
   - $gwat
   - $gwik
   - $gwing
+  - $gwit
   - $gyun
   - $gyut
   ==
