@@ -981,9 +981,9 @@ in parenthesis under each number.
   _K(i/)_ [[gi, now gei]],
   like _me_, _flee_ [[in Received Pronunciation]].
   A few words beginning with _k_ [[g]], p [[b]] and _f_ [[f]], are
-  frequently heard like the [29th]~final [[e]],
-  as _k(i/)_ [[gei]] 騎, _p(i/)_ [[bei]] 俾, _f(i/)_ [[fei]] 非, _k(i/)_ [[gei]] 己,
-  pronounced _k(e/)_ [[ge]], _p(e/)_ [[be]], _f(e/)_ [[fe]], or _k(e/)_ [[ge]]; but this is the exception. Others
+  frequently heard like the [29th]~final,
+  as _k(i/)_ 騎, _p(i/)_ 俾, _f(i/)_ 非, _k(i/)_ 己,
+  pronounced _k(e/)_, _p(e/)_, _f(e/)_, or _k(e/)_; but this is the exception. Others
   having no initial, as (i/) [[ji]] 二, (i/) [[ji]] 耳 are often heard _ng(i/)_.
   _(Tee, she, ki.)_
 
@@ -1077,7 +1077,7 @@ in parenthesis under each number.
   _Chi(u/)_ [[ziu]],
   like _new_, _few_ [[in Received Pronunciation]],
   both vowels being plainly sounded.
-  This final is now and then heard like _(e/)u_ [[eu]],
+  This final is now and then heard like _(e/)u_,
   as 要 _(e/)u_ for _i(u/)_; 溺 _n(e/)u_ for _ni(u/)_;
   and also sliding into the 4th [[yu]] as 曉 _h(u")_ [[hyu]] for _hi(u/)_ [[hiu]].
   _(Kew, chiu, tee-ue, t(i/)(u/).)_
@@ -1231,7 +1231,7 @@ in parenthesis under each number.
   _Ch(e/)_ [[now ze]],
   like _may_, _lay_, _they_, _yea_ [[in Received Pronunciation]];
   it has few aberrations,
-  and most of those are mispronunciations from the 3d~order [[ei]],
+  and most of those are mispronunciations from the 3d~order,
   under a few initials.
   _(Yay, ya, se-ay.)_
 
