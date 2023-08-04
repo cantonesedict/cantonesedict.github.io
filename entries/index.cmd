@@ -145,6 +145,7 @@ Work in progress.
   - $gip
   - $git
   - $giu
+  - $go
   - $goe
   - $goek
   - $goeng
