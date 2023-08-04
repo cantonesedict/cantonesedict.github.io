@@ -118,6 +118,11 @@ Work in progress.
   - $fut
   ==
 
+- G
+  ==
+  - $gaa
+  ==
+
 - H
   ==
   - $haa
