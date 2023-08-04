@@ -126,6 +126,7 @@ Work in progress.
   - $haam
   - $hai
   - $hak
+  - $han
   - $hei
   ==
 
