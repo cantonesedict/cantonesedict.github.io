@@ -126,6 +126,7 @@ Work in progress.
   - $gaam
   - $gai
   - $gam
+  - $gan
   ==
 
 - H
