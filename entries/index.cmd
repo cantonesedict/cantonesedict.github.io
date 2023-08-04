@@ -152,6 +152,7 @@ Work in progress.
   - $goi
   - $gok
   - $gon
+  - $gong
   - $gou
   ==
 
