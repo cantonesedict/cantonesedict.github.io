@@ -352,6 +352,7 @@ Work in progress.
   - $meng
   - $mik
   - $min
+  - $ming
   ==
 
 - N
