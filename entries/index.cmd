@@ -413,6 +413,7 @@ Work in progress.
   - $ngou
   - $ni
   - $nik
+  - $nim
   - $noeng
   ==
 
