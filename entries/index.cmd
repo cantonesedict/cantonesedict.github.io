@@ -71,6 +71,7 @@ Work in progress.
   - $bong
   - $bou
   - $bui
+  - $buk
   - $bum
   ==
 
