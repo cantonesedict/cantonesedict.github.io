@@ -138,6 +138,7 @@ Work in progress.
   - $dan
   - $dang
   - $dap
+  - $dat
   ==
 
 - T
