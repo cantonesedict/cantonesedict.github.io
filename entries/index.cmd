@@ -541,6 +541,7 @@ Work in progress.
   - $sip
   - $sit
   - $siu
+  - $so
   - $soek
   - $soeng
   ==
