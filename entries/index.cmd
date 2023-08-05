@@ -105,6 +105,7 @@ Work in progress.
   - $pui
   - $puk
   - $pun
+  - $pung
   ==
 
 - C
