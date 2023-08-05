@@ -640,6 +640,11 @@ Work in progress.
   - $tyut
   ==
 
+- W
+  ==
+  - $wu
+  ==
+
 - Z
   ==
   - $zaa

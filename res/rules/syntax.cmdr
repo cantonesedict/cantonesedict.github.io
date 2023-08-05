@@ -148,6 +148,9 @@ OrdinaryDictionaryReplacement: #.syntax.diacritics
 # U+00D2 LATIN CAPITAL LETTER O WITH GRAVE
 *   (O\) --> Ò
 #
+# U+00DA LATIN CAPITAL LETTER U WITH ACUTE
+*   (U/) --> Ú
+#
 # U+00DC LATIN CAPITAL LETTER U WITH DIAERESIS
 *   (U") --> Ü
 #
