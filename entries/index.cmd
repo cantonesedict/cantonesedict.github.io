@@ -87,6 +87,7 @@ Work in progress.
   - $pin
   - $ping
   - $pit
+  - $piu
   ==
 
 - C
