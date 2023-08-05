@@ -303,6 +303,7 @@ Work in progress.
   - $lau
   - $le
   - $lei
+  - $lek
   - $lik
   - $loek
   - $loeng
