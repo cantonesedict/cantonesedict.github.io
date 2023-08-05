@@ -74,6 +74,7 @@ Work in progress.
   - $pang
   - $pat
   - $pau
+  - $pei
   ==
 
 - C
