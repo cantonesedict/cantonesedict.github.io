@@ -79,6 +79,7 @@ Work in progress.
   - $pei
   - $pek
   - $pik
+  - $pin
   ==
 
 - C
