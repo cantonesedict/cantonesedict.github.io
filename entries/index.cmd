@@ -200,6 +200,7 @@ Work in progress.
   - $tong
   - $tou
   - $tuk
+  - $tung
   - $tyun
   ==
 
