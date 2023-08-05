@@ -124,6 +124,15 @@ Work in progress.
   - $cyut
   ==
 
+- D
+  ==
+  - $daa
+  ==
+
+- T
+  ==
+  ==
+
 - E
   ==
   - $e
