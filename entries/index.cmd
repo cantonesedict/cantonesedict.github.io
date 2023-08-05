@@ -107,6 +107,7 @@ Work in progress.
   - $puk
   - $pun
   - $pung
+  - $put
   ==
 
 - C
