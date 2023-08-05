@@ -164,6 +164,7 @@ Work in progress.
   - $dong
   - $dou
   - $duk
+  - $dung
   - $dyun
   ==
 
