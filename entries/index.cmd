@@ -129,6 +129,7 @@ Work in progress.
   - $daa
   - $daai
   - $daam
+  - $daan
   - $dai
   - $dak
   - $dam
