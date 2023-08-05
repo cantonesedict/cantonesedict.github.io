@@ -52,8 +52,8 @@ Work in progress.
   - $bai
   - $bak
   - $ban
-  - $bat
   - $bang
+  - $bat
   ==
 
 - P
@@ -66,6 +66,7 @@ Work in progress.
   - $pai
   - $pan
   - $pang
+  - $pat
   ==
 
 - C
