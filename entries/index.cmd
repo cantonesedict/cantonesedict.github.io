@@ -188,6 +188,7 @@ Work in progress.
   - $to
   - $toi
   - $tok
+  - $tong
   - $tou
   ==
 
