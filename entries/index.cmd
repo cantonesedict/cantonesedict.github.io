@@ -69,6 +69,7 @@ Work in progress.
   - $pan
   - $pang
   - $pat
+  - $pau
   ==
 
 - C
