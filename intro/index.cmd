@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Introduction.
-* %date-modified --> 2023-08-04
+* %date-modified --> 2023-08-05
 * %copyright-prior-years -->
 
 %%%
@@ -318,7 +318,7 @@ include the terminations in the fourth tone.
     ; _P(')ing Shing_ [[ping sing 平聲]].
     ; _Sh(e/)ung Shing_ [[soeng sing 上聲]].
     ; _H(u") Shing_ [[heoi sing 去聲]].
-    ; _Yap Shing_ [[yap sing 入聲]].
+    ; _Yap Shing_ [[jap sing 入聲]].
     ; No.
     ; 1
     ; 2
@@ -327,7 +327,7 @@ include the terminations in the fourth tone.
     ; _P(')ing Shing_ [[ping sing 平聲]].
     ; _Sh(e/)ung Shing_ [[soeng sing 上聲]].
     ; _H(u") Shing_ [[heoi sing 去聲]].
-    ; _Yap Shing_ [[yap sing 入聲]].
+    ; _Yap Shing_ [[jap sing 入聲]].
 |:
   //
     , 1
@@ -1036,7 +1036,7 @@ in parenthesis under each number.
   _Pan_ [[ban]], _pat_ [[bat]],
   like _fun_, _son_, _shun_, _tun_, _won_ [[in Received Pronunciation]],
   never like _man_, _fan_, _hat_, _cat_ [[in Received Pronunciation]].
-  Variants in the _yap shing_ [[yap sing 入聲]],
+  Variants in the _yap shing_ [[jap sing 入聲]],
   passing into the long sound _(a/)t_ [[aat]]
   of the 25th~order, are occasionally heard, but a more frequent change
   is into _p(i/)n_, _p(i/)t_, or _pen_, _pet_, which is peculiar to the people of the
@@ -1899,7 +1899,7 @@ tones, the first retains its name. If the beginner gets a good idea
 and practice of the _(4)p(')ing (1)shing_ [[ping4 sing1 平聲]], therefore, he will more easily get
 the others. The _(5)sh(e/)ung (1)shing_ [[soeng5 sing1 上聲]] is also called the ascending or rising
 tone; the _h(u")(3) (1)shing_ [[heoi3 sing1 去聲]] the departing or falling tone;
-and the _yap(9) (1)shing_ [[yap6 sing1 入聲]]
+and the _yap(9) (1)shing_ [[jap6 sing1 入聲]]
 the entering or abrupt tone; these appellations are simply the literal
 renderings of the native terms.
 --
@@ -2029,7 +2029,7 @@ accent, will give the beginner as clear an idea of the difference
 between the eight tones as he can get, and the practice he needs
 at the same time. Foreigners speak generally in a higher key than
 natives, and pronounce most words in the _(4)p(')ing (1)shing_ [[ping4 sing1 平聲]], even when
-the termination shows that it is in the _yap(9) (1)shing_ [[yap6 sing1 入聲]]. There are far
+the termination shows that it is in the _yap(9) (1)shing_ [[jap6 sing1 入聲]]. There are far
 more words, too, in the _(4)p(')ing (1)shing_ than in any other two tones.
 --
 
