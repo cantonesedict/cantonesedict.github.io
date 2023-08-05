@@ -148,6 +148,7 @@ Work in progress.
   - $dik
   - $dim
   - $din
+  - $ding
   - $doeng
   - $doek
   ==
