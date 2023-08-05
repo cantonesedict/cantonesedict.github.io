@@ -354,6 +354,7 @@ Work in progress.
   - $min
   - $ming
   - $mit
+  - $miu
   ==
 
 - N
