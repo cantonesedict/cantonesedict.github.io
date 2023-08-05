@@ -431,6 +431,11 @@ Work in progress.
   - $nyun
   ==
 
+- O
+  ==
+  - $o
+  ==
+
 - Z
   ==
   - $zaa
