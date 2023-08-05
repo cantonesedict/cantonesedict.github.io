@@ -551,6 +551,7 @@ Work in progress.
   - $song
   - $sou
   - $suk
+  - $sung
   - $syu
   - $syun
   ==
