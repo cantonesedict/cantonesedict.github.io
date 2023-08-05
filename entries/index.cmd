@@ -199,6 +199,7 @@ Work in progress.
   - $tong
   - $tou
   - $tuk
+  - $tyun
   ==
 
 - E
