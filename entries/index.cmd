@@ -325,6 +325,7 @@ Work in progress.
   - $jik
   - $jim
   - $jin
+  - $jing
   - $jip
   - $jit
   - $jiu
