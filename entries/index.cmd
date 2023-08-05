@@ -142,6 +142,7 @@ Work in progress.
   - $dat
   - $dau
   - $de
+  - $dei
   - $di
   - $doeng
   - $doek
