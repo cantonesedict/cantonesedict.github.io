@@ -187,6 +187,7 @@ Work in progress.
   - $tit
   - $tiu
   - $to
+  - $toe
   - $toi
   - $tok
   - $tong
