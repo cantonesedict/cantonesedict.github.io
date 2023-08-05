@@ -132,6 +132,7 @@ Work in progress.
   - $dai
   - $dak
   - $dam
+  - $dan
   ==
 
 - T
