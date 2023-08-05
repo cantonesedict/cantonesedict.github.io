@@ -312,6 +312,7 @@ Work in progress.
   - $lip
   - $lit
   - $liu
+  - $lo
   - $loek
   - $loeng
   ==
