@@ -549,6 +549,7 @@ Work in progress.
   - $sok
   - $song
   - $sou
+  - $suk
   - $syu
   ==
 
