@@ -158,8 +158,8 @@ Work in progress.
   - $diu
   - $do
   - $doe
-  - $doeng
   - $doek
+  - $doeng
   - $doi
   - $dok
   - $dong
