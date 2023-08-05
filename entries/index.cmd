@@ -85,6 +85,7 @@ Work in progress.
   - $pik
   - $pin
   - $ping
+  - $pit
   ==
 
 - C
