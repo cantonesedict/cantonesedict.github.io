@@ -420,6 +420,7 @@ Work in progress.
   - $niu
   - $no
   - $noeng
+  - $nou
   ==
 
 - Z
