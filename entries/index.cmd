@@ -59,6 +59,7 @@ Work in progress.
   - $bau
   - $be
   - $bei
+  - $beng
   - $bik
   - $bin
   - $bing
