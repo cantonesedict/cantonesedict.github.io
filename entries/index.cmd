@@ -312,6 +312,7 @@ Work in progress.
 - J
   ==
   - $jaa
+  - $jaak
   - $jai
   - $ji
   - $jim
