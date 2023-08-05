@@ -534,6 +534,7 @@ Work in progress.
   - $sek
   - $seng
   - $seoi
+  - $seon
   - $si
   - $sik
   - $sim
