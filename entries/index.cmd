@@ -545,6 +545,7 @@ Work in progress.
   - $soek
   - $soeng
   - $sok
+  - $song
   - $sou
   ==
 
