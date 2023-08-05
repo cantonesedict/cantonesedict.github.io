@@ -543,6 +543,7 @@ Work in progress.
   - $sit
   - $siu
   - $so
+  - $soe
   - $soek
   - $soeng
   - $sok
