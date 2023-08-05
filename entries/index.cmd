@@ -146,6 +146,7 @@ Work in progress.
   - $tai
   - $tam
   - $tan
+  - $tang
   ==
 
 - E
