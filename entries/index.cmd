@@ -65,6 +65,7 @@ Work in progress.
   - $bing
   - $bit
   - $biu
+  - $bo
   ==
 
 - P
