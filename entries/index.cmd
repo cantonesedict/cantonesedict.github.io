@@ -552,6 +552,7 @@ Work in progress.
   - $sou
   - $suk
   - $syu
+  - $syun
   ==
 
 - Z
