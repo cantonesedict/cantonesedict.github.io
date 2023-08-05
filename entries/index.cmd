@@ -164,6 +164,7 @@ Work in progress.
   - $tang
   - $tap
   - $tau
+  - $tek
   - $tik
   ==
 
