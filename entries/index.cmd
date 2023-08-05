@@ -337,6 +337,7 @@ Work in progress.
   - $maai
   - $maak
   - $maan
+  - $maang
   - $mai
   - $mak
   - $man
