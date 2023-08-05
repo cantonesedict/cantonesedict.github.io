@@ -535,6 +535,7 @@ Work in progress.
   - $seng
   - $si
   - $sik
+  - $sim
   - $soek
   - $soeng
   ==
