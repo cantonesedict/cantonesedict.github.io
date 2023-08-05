@@ -241,6 +241,7 @@ Work in progress.
   - $kaai
   - $kaan
   - $kaap
+  - $kaat
   - $kaau
   - $kai
   - $kam
