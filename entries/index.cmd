@@ -531,6 +531,7 @@ Work in progress.
   - $sau
   - $se
   - $sei
+  - $sek
   - $seng
   - $si
   - $sik
