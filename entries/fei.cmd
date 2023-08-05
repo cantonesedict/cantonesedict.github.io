@@ -5,13 +5,13 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fei
-* %date-modified --> 2023-08-03
+* %date-modified --> 2023-08-05
 * %copyright-prior-years -->
 
 %%%
 
 --{.modern}
-[[From Page~52 of the original onwards. Work in progress.]]
+[[From Page~52 & Page~714 of the original onwards. Work in progress.]]
 --
 
 #{.williams} F(i/). [[fei]]
