@@ -156,6 +156,7 @@ Work in progress.
   - $do
   - $doeng
   - $doek
+  - $doi
   - $dou
   ==
 
