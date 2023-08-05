@@ -66,6 +66,7 @@ Work in progress.
   - $bit
   - $biu
   - $bo
+  - $bok
   - $bou
   ==
 
