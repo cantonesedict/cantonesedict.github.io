@@ -664,6 +664,7 @@ Work in progress.
   - $wik
   - $wing
   - $wit
+  - $wo
   - $wu
   - $wui
   - $wun
