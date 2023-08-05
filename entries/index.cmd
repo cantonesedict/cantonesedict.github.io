@@ -149,6 +149,7 @@ Work in progress.
   - $tam
   - $tan
   - $tang
+  - $tap
   ==
 
 - E
