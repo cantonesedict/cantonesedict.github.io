@@ -304,6 +304,7 @@ Work in progress.
   - $le
   - $lei
   - $lek
+  - $leng
   - $lik
   - $lim
   - $lin
