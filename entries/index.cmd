@@ -78,38 +78,6 @@ Work in progress.
   - $but
   ==
 
-- P
-  ==
-  - $paa
-  - $paai
-  - $paak
-  - $paan
-  - $paang
-  - $paau
-  - $pai
-  - $pan
-  - $pang
-  - $pat
-  - $pau
-  - $pei
-  - $pek
-  - $peng
-  - $pik
-  - $pin
-  - $ping
-  - $pit
-  - $piu
-  - $po
-  - $pok
-  - $pong
-  - $pou
-  - $pui
-  - $puk
-  - $pun
-  - $pung
-  - $put
-  ==
-
 - C
   ==
   - $caa
@@ -508,6 +476,38 @@ Work in progress.
   - $on
   - $ong
   - $ou
+  ==
+
+- P
+  ==
+  - $paa
+  - $paai
+  - $paak
+  - $paan
+  - $paang
+  - $paau
+  - $pai
+  - $pan
+  - $pang
+  - $pat
+  - $pau
+  - $pei
+  - $pek
+  - $peng
+  - $pik
+  - $pin
+  - $ping
+  - $pit
+  - $piu
+  - $po
+  - $pok
+  - $pong
+  - $pou
+  - $pui
+  - $puk
+  - $pun
+  - $pung
+  - $put
   ==
 
 - Z
