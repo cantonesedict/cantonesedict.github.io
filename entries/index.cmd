@@ -154,6 +154,7 @@ Work in progress.
   - $dit
   - $diu
   - $do
+  - $doe
   - $doeng
   - $doek
   - $doi
