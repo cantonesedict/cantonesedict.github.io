@@ -333,10 +333,11 @@ Work in progress.
   - $jiu
   - $joek
   - $joeng
+  - $juk
+  - $jung
   - $jyu
   - $jyun
   - $jyut
-  - $juk
   ==
 
 - K
