@@ -330,6 +330,11 @@ Work in progress.
   - $lyut
   ==
 
+- M
+  ==
+  - $m
+  ==
+
 - N
   ==
   - $ngaa
