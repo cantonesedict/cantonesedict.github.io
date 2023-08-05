@@ -58,6 +58,7 @@ Work in progress.
   - $paai
   - $paak
   - $pai
+  - $pan
   ==
 
 - C
