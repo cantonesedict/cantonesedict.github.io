@@ -45,6 +45,7 @@ Work in progress.
 - B
   ==
   - $baa
+  - $bai
   ==
 
 - P
