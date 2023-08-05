@@ -533,6 +533,7 @@ Work in progress.
   - $sei
   - $seng
   - $si
+  - $sik
   - $soek
   - $soeng
   ==
