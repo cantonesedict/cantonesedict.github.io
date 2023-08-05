@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~510 of the original onwards. Work in progress.]]
+[[From Page~510 & Page~727 of the original onwards. Work in progress.]]
 --
 
 #{.williams} Tau. [[dau]]
