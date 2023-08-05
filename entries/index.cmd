@@ -169,43 +169,6 @@ Work in progress.
   - $dyut
   ==
 
-- T
-  ==
-  - $taa
-  - $taai
-  - $taam
-  - $taan
-  - $taap
-  - $taat
-  - $tai
-  - $tam
-  - $tan
-  - $tang
-  - $tap
-  - $tau
-  - $tek
-  - $teng
-  - $teoi
-  - $teon
-  - $tik
-  - $tim
-  - $tin
-  - $ting
-  - $tip
-  - $tit
-  - $tiu
-  - $to
-  - $toe
-  - $toi
-  - $tok
-  - $tong
-  - $tou
-  - $tuk
-  - $tung
-  - $tyun
-  - $tyut
-  ==
-
 - E
   ==
   - $e
@@ -638,6 +601,43 @@ Work in progress.
   - $syu
   - $syun
   - $syut
+  ==
+
+- T
+  ==
+  - $taa
+  - $taai
+  - $taam
+  - $taan
+  - $taap
+  - $taat
+  - $tai
+  - $tam
+  - $tan
+  - $tang
+  - $tap
+  - $tau
+  - $tek
+  - $teng
+  - $teoi
+  - $teon
+  - $tik
+  - $tim
+  - $tin
+  - $ting
+  - $tip
+  - $tit
+  - $tiu
+  - $to
+  - $toe
+  - $toi
+  - $tok
+  - $tong
+  - $tou
+  - $tuk
+  - $tung
+  - $tyun
+  - $tyut
   ==
 
 - Z
