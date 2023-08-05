@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~498 of the original onwards. Work in progress.]]
+[[From Page~498 (Tam) and Page~544 (T(o\)m) of the original onwards. Work in progress.]]
 --
 
-#{.williams} Tam. [[dam]]
+#{.williams} Tam. T(o\)m. [[dam]]
