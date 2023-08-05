@@ -61,6 +61,7 @@ Work in progress.
   - $bei
   - $bik
   - $bin
+  - $bing
   ==
 
 - P
