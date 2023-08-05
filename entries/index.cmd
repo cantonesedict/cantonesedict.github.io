@@ -53,6 +53,7 @@ Work in progress.
   - $baau
   - $bai
   - $bak
+  - $bam
   - $ban
   - $bang
   - $bat
