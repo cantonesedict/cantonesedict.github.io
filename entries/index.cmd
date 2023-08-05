@@ -405,6 +405,7 @@ Work in progress.
   - $ngi
   - $ngit
   - $ngo
+  - $ngoi
   - $ngou
   - $noeng
   ==
