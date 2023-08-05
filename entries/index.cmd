@@ -186,6 +186,7 @@ Work in progress.
   - $tiu
   - $to
   - $toi
+  - $tok
   - $tou
   ==
 
