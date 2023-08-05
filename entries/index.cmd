@@ -320,6 +320,7 @@ Work in progress.
   - $jap
   - $jat
   - $jau
+  - $je
   - $ji
   - $jim
   - $jin
