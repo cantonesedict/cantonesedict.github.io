@@ -189,6 +189,7 @@ Work in progress.
   - $fei
   - $fik
   - $fing
+  - $fit
   - $fo
   - $fok
   - $fong
