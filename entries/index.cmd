@@ -555,6 +555,7 @@ Work in progress.
   - $sung
   - $syu
   - $syun
+  - $syut
   ==
 
 - Z
