@@ -391,6 +391,7 @@ Work in progress.
   - $ngaak
   - $ngai
   - $ngak
+  - $ngam
   - $noeng
   ==
 
