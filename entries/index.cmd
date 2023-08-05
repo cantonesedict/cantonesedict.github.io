@@ -327,6 +327,7 @@ Work in progress.
   - $luk
   - $lung
   - $lyun
+  - $lyut
   ==
 
 - N
