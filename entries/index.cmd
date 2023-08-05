@@ -318,6 +318,7 @@ Work in progress.
   - $jit
   - $jiu
   - $jyu
+  - $jyun
   ==
 
 - K
