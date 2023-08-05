@@ -511,6 +511,7 @@ Work in progress.
   - $ngap
   - $ngat
   - $ngau
+  - $nge
   - $ngi
   - $ngit
   - $ngo
