@@ -384,6 +384,7 @@ Work in progress.
   - $nat
   - $nau
   - $ne
+  - $nei
   - $neng
   - $ng
   - $ngaa
@@ -410,6 +411,7 @@ Work in progress.
   - $ngon
   - $ngong
   - $ngou
+  - $ni
   - $noeng
   ==
 
