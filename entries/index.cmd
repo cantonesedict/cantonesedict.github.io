@@ -145,6 +145,7 @@ Work in progress.
   - $dei
   - $dek
   - $deng
+  - $deoi
   - $di
   - $dik
   - $dim
