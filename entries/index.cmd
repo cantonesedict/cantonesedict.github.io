@@ -654,6 +654,7 @@ Work in progress.
   - $waa
   - $waai
   - $waak
+  - $waan
   - $wai
   - $wan
   - $wu
