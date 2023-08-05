@@ -407,6 +407,7 @@ Work in progress.
   - $ngo
   - $ngoi
   - $ngok
+  - $ngon
   - $ngou
   - $noeng
   ==
