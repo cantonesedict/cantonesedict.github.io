@@ -132,6 +132,7 @@ Work in progress.
   - $daan
   - $daang
   - $daap
+  - $daat
   - $dai
   - $dak
   - $dam
