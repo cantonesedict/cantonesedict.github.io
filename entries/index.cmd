@@ -58,6 +58,7 @@ Work in progress.
   - $paa
   - $paai
   - $paak
+  - $paan
   - $pai
   - $pan
   ==
