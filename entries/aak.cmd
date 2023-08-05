@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aak
-* %date-modified --> 2023-08-03
+* %date-modified --> 2023-08-05
 * %copyright-prior-years -->
 
 %%%
@@ -31,7 +31,7 @@ C
     =={.modern}
     - Most modern speakers prefer this longer syllable
       over the shorter _ak(7)_ [[ak1]].
-      Nevertheless, see $厄ak1 for the canonical entry.
+      Nevertheless, **see $厄ak1 for the canonical entry**.
     ==
 S
   ,
@@ -52,7 +52,7 @@ C
     =={.modern}
     - Most modern speakers prefer this longer syllable
       over the shorter _ak(7)_ [[ak1]].
-      Nevertheless, see $握ak1 for the canonical entry.
+      Nevertheless, **see $握ak1 for the canonical entry**.
     ==
 S
   ,
