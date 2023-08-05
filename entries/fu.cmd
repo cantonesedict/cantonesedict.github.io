@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~57 of the original onwards. Work in progress.]]
+[[From Page~57 & Page~715 of the original onwards. Work in progress.]]
 --
 
 #{.williams} F(u/). [[fu]]
