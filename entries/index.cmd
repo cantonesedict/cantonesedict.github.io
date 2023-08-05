@@ -167,6 +167,7 @@ Work in progress.
   - $tau
   - $tek
   - $tik
+  - $tim
   ==
 
 - E
