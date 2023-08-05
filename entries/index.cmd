@@ -286,6 +286,7 @@ Work in progress.
   - $laai
   - $laak
   - $laam
+  - $laan
   - $lai
   - $lak
   - $lam
