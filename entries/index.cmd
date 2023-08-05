@@ -340,6 +340,7 @@ Work in progress.
   - $mai
   - $mak
   - $man
+  - $mang
   ==
 
 - N
