@@ -307,6 +307,7 @@ Work in progress.
   - $lik
   - $lim
   - $lin
+  - $ling
   - $loek
   - $loeng
   ==
