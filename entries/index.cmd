@@ -351,6 +351,7 @@ Work in progress.
   - $mek
   - $meng
   - $mik
+  - $min
   ==
 
 - N
