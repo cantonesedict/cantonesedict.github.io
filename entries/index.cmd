@@ -645,6 +645,7 @@ Work in progress.
 - U
   ==
   - $uk
+  - $ung
   ==
 
 - W
