@@ -393,6 +393,7 @@ Work in progress.
   - $ngai
   - $ngak
   - $ngam
+  - $ngan
   - $noeng
   ==
 
