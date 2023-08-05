@@ -415,6 +415,7 @@ Work in progress.
   - $nik
   - $nim
   - $nin
+  - $ning
   - $noeng
   ==
 
