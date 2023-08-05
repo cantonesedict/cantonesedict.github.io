@@ -335,6 +335,7 @@ Work in progress.
   - $jyu
   - $jyun
   - $jyut
+  - $juk
   ==
 
 - K
