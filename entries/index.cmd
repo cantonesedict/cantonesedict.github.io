@@ -426,6 +426,7 @@ Work in progress.
   - $nong
   - $nou
   - $nuk
+  - $nung
   - $nyun
   ==
 
