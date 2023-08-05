@@ -314,6 +314,7 @@ Work in progress.
   - $jaa
   - $jaak
   - $jai
+  - $jam
   - $ji
   - $jim
   - $jin
