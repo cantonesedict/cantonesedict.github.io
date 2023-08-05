@@ -307,6 +307,7 @@ Work in progress.
   - $lek
   - $leng
   - $leoi
+  - $leon
   - $lik
   - $lim
   - $lin
