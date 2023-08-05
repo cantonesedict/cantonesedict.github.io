@@ -92,6 +92,7 @@ Work in progress.
   - $pit
   - $piu
   - $po
+  - $pok
   - $pou
   ==
 
