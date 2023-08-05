@@ -203,6 +203,7 @@ Work in progress.
   - $tuk
   - $tung
   - $tyun
+  - $tyut
   ==
 
 - E
