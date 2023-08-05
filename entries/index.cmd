@@ -653,6 +653,7 @@ Work in progress.
   ==
   - $waa
   - $waai
+  - $waak
   - $wai
   - $wu
   - $wui
