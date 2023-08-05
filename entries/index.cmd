@@ -76,6 +76,7 @@ Work in progress.
   - $pat
   - $pau
   - $pei
+  - $pik
   ==
 
 - C
