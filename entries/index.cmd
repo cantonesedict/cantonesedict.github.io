@@ -144,6 +144,7 @@ Work in progress.
   - $de
   - $dei
   - $di
+  - $dik
   - $doeng
   - $doek
   ==
