@@ -291,6 +291,7 @@ Work in progress.
   - $laang
   - $laap
   - $laat
+  - $laau
   - $lai
   - $lak
   - $lam
