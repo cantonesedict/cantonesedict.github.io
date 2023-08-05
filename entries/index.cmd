@@ -537,6 +537,7 @@ Work in progress.
   - $sik
   - $sim
   - $sin
+  - $sing
   - $soek
   - $soeng
   ==
