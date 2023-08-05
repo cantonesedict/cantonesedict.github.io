@@ -12,6 +12,10 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 - queue_position: AFTER #.boilerplate.footer
 * %black-serif-note -->
 
+RegexDictionaryReplacement: #.incipit-navigation-links
+- queue_position: BEFORE #specified-links
+* \[ (?P<letter> [A-Z] ) \] --> [\g<letter>](#\g<letter>)
+
 %%%
 
 #{.modern} %title
