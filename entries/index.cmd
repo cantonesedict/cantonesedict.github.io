@@ -96,6 +96,7 @@ Work in progress.
   - $piu
   - $po
   - $pok
+  - $pong
   - $pou
   ==
 
