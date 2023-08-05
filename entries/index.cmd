@@ -302,6 +302,7 @@ Work in progress.
   - $lau
   - $le
   - $lei
+  - $lik
   - $loek
   - $loeng
   ==
