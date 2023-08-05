@@ -533,6 +533,7 @@ Work in progress.
   - $sei
   - $sek
   - $seng
+  - $seoi
   - $si
   - $sik
   - $sim
