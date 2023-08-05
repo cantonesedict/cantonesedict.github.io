@@ -421,6 +421,7 @@ Work in progress.
   - $no
   - $noeng
   - $noi
+  - $nok
   - $nou
   ==
 
