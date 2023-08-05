@@ -388,6 +388,7 @@ Work in progress.
   - $ng
   - $ngaa
   - $ngaai
+  - $ngaak
   - $ngai
   - $ngak
   - $noeng
