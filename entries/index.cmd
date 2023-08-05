@@ -374,6 +374,7 @@ Work in progress.
   - $nai
   - $nak
   - $nam
+  - $nan
   - $ngaa
   ==
 
