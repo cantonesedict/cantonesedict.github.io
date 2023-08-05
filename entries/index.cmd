@@ -162,6 +162,7 @@ Work in progress.
   - $dok
   - $dong
   - $dou
+  - $duk
   ==
 
 - T
