@@ -60,6 +60,7 @@ Work in progress.
   - $be
   - $bei
   - $bik
+  - $bin
   ==
 
 - P
