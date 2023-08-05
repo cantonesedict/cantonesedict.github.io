@@ -180,6 +180,7 @@ Work in progress.
   - $tau
   - $tek
   - $teng
+  - $teoi
   - $tik
   - $tim
   - $tin
