@@ -169,6 +169,7 @@ Work in progress.
   - $tek
   - $tik
   - $tim
+  - $tin
   ==
 
 - E
