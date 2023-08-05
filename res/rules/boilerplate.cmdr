@@ -3,8 +3,8 @@ RegexDictionaryReplacement: #.boilerplate.header-nav
 * \A -->
     "
       <header>
-        <nav>
-          =={.sideways}
+        <nav class="sideways">
+          ==
           - [Home](/)
           - [Contents](/#contents)
           - [Entries](/entries/)

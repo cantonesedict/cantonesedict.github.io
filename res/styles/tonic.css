@@ -68,13 +68,12 @@ header {
   width: 100vw;
   z-index: 1;
 }
-header > nav {
-  background: #fec;
+header > .sideways {
   font-size: calc(0.5 * var(--header-nav-height));
   margin: 0;
   padding: 0;
 }
-header > nav > .sideways {
+header > .sideways > ul {
   flex-wrap: nowrap;
   height: var(--header-nav-height);
   overflow: auto;
@@ -164,6 +163,9 @@ th, td {
 }
 
 .sideways {
+  background: #fec;
+}
+.sideways > ul {
   align-items: center;
   display: flex;
   flex-wrap: wrap;
@@ -171,7 +173,7 @@ th, td {
   margin: 0;
   padding: 0 0.3rem;
 }
-.sideways > li {
+.sideways > ul > li {
   font-weight: bold;
   padding: 0 0.7rem;
 }

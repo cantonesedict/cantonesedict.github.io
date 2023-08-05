@@ -24,8 +24,8 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 Work in progress.
 --
 
-<nav>
-=={.modern .sideways}
+<nav class="sideways">
+=={.modern}
 - [A]
 - [B]
 - [C]
