@@ -63,6 +63,7 @@ Work in progress.
   - $bik
   - $bin
   - $bing
+  - $bit
   ==
 
 - P
