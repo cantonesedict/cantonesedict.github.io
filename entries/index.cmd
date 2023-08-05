@@ -21,6 +21,31 @@ Work in progress.
 --
 
 <nav>
+=={.modern .sideways}
+- [A]
+- [B]
+- [C]
+- [D]
+- [E]
+- [F]
+- [G]
+- [H]
+- [J]
+- [K]
+- [L]
+- [M]
+- [N]
+- [O]
+- [P]
+- [S]
+- [T]
+- [U]
+- [W]
+- [Z]
+==
+</nav>
+
+<nav>
 ===={.modern}
 - A
   ==

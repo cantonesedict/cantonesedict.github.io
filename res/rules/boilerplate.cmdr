@@ -4,7 +4,7 @@ RegexDictionaryReplacement: #.boilerplate.header-nav
     "
       <header>
         <nav>
-          ==
+          =={.sideways}
           - [Home](/)
           - [Contents](/#contents)
           - [Entries](/entries/)
