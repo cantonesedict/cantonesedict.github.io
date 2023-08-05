@@ -52,6 +52,7 @@ Work in progress.
   - $bai
   - $bak
   - $ban
+  - $bat
   - $bang
   ==
 
