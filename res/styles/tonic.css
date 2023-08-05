@@ -36,6 +36,13 @@ body > nav li {
 }
 
 
+dl {
+  border: 1px solid black;
+  margin: 0 1em 3em;
+  padding: 0.3em 0.5em;
+}
+
+
 dt {
   font-weight: bold;
 }
@@ -145,6 +152,9 @@ th, td {
 .modern {
   color: var(--modern-colour);
   font-family: var(--modern-font);
+}
+.modern + dl {
+  border: 1px solid var(--modern-colour);
 }
 
 .permalink {
