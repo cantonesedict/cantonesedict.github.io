@@ -214,6 +214,7 @@ Work in progress.
   - $gu
   - $gui
   - $guk
+  - $gum
   - $gun
   - $gung
   - $gut
