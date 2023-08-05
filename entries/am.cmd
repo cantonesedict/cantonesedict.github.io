@@ -11,10 +11,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~3 of the original onwards. Work in progress.]]
+[[From Page~3 (Am) and Page~341 ((O\)m) of the original onwards. Work in progress.]]
 --
 
-#{.williams} Am. [[am]]
+#{.williams} Am. (O\)m. [[am]]
 
 ##{#2 .williams} (2)Am. [[am2 陰上]]
 
