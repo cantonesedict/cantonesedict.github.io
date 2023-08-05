@@ -166,6 +166,7 @@ Work in progress.
   - $duk
   - $dung
   - $dyun
+  - $dyut
   ==
 
 - T
