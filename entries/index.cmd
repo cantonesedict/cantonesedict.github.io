@@ -49,7 +49,10 @@ Work in progress.
 ==
 </nav>
 
+
 ##{#A .modern} A
+
+<nav>
 ==
 - $aa
 - $aai
@@ -68,8 +71,12 @@ Work in progress.
 - $at
 - $au
 ==
+</nav>
+
 
 ##{#B .modern} B
+
+<nav>
 ==
 - $baa
 - $baai
@@ -105,8 +112,12 @@ Work in progress.
 - $bup
 - $but
 ==
+</nav>
+
 
 ##{#C .modern} C
+
+<nav>
 ==
 - $caa
 - $caai
@@ -151,8 +162,12 @@ Work in progress.
 - $cyun
 - $cyut
 ==
+</nav>
+
 
 ##{#D .modern} D
+
+<nav>
 ==
 - $daa
 - $daai
@@ -196,13 +211,21 @@ Work in progress.
 - $dyun
 - $dyut
 ==
+</nav>
+
 
 ##{#E .modern} E
+
+<nav>
 ==
 - $e
 ==
+</nav>
+
 
 ##{#F .modern} F
+
+<nav>
 ==
 - $faa
 - $faai
@@ -228,8 +251,12 @@ Work in progress.
 - $fung
 - $fut
 ==
+</nav>
+
 
 ##{#G .modern} G
+
+<nav>
 ==
 - $gaa
 - $gaai
@@ -293,8 +320,12 @@ Work in progress.
 - $gyun
 - $gyut
 ==
+</nav>
+
 
 ##{#H .modern} H
+
+<nav>
 ==
 - $haa
 - $haai
@@ -337,8 +368,12 @@ Work in progress.
 - $hyun
 - $hyut
 ==
+</nav>
+
 
 ##{#J .modern} J
+
+<nav>
 ==
 - $jaa
 - $jaak
@@ -368,8 +403,12 @@ Work in progress.
 - $jyun
 - $jyut
 ==
+</nav>
+
 
 ##{#K .modern} K
+
+<nav>
 ==
 - $kaa
 - $kaai
@@ -415,8 +454,12 @@ Work in progress.
 - $kyun
 - $kyut
 ==
+</nav>
+
 
 ##{#L .modern} L
+
+<nav>
 ==
 - $laa
 - $laai
@@ -463,8 +506,12 @@ Work in progress.
 - $lyun
 - $lyut
 ==
+</nav>
+
 
 ##{#M .modern} M
+
+<nav>
 ==
 - $m
 - $maa
@@ -499,8 +546,12 @@ Work in progress.
 - $mung
 - $mut
 ==
+</nav>
+
 
 ##{#N .modern} N
+
+<nav>
 ==
 - $naa
 - $naai
@@ -565,8 +616,12 @@ Work in progress.
 - $nung
 - $nyun
 ==
+</nav>
+
 
 ##{#O .modern} O
+
+<nav>
 ==
 - $o
 - $oi
@@ -575,8 +630,12 @@ Work in progress.
 - $ong
 - $ou
 ==
+</nav>
+
 
 ##{#P .modern} P
+
+<nav>
 ==
 - $paa
 - $paai
@@ -608,8 +667,12 @@ Work in progress.
 - $pung
 - $put
 ==
+</nav>
+
 
 ##{#S .modern} S
+
+<nav>
 ==
 - $saa
 - $saai
@@ -656,8 +719,12 @@ Work in progress.
 - $syun
 - $syut
 ==
+</nav>
+
 
 ##{#T .modern} T
+
+<nav>
 ==
 - $taa
 - $taai
@@ -693,14 +760,22 @@ Work in progress.
 - $tyun
 - $tyut
 ==
+</nav>
+
 
 ##{#U .modern} U
+
+<nav>
 ==
 - $uk
 - $ung
 ==
+</nav>
+
 
 ##{#W .modern} W
+
+<nav>
 ==
 - $waa
 - $waai
@@ -723,8 +798,12 @@ Work in progress.
 - $wun
 - $wut
 ==
+</nav>
+
 
 ##{#Z .modern} Z
+
+<nav>
 ==
 - $zaa
 - $zaai
@@ -768,3 +847,4 @@ Work in progress.
 - $zyun
 - $zyut
 ==
+</nav>
