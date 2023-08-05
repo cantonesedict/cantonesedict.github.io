@@ -195,6 +195,7 @@ Work in progress.
   - $tok
   - $tong
   - $tou
+  - $tuk
   ==
 
 - E
