@@ -328,6 +328,7 @@ Work in progress.
   - $jit
   - $jiu
   - $joek
+  - $joeng
   - $jyu
   - $jyun
   - $jyut
