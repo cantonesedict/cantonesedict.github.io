@@ -158,6 +158,7 @@ Work in progress.
   - $doek
   - $doi
   - $dok
+  - $dong
   - $dou
   ==
 
