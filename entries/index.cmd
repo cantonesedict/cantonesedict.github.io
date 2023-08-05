@@ -202,8 +202,9 @@ Work in progress.
   - $hau
   - $he
   - $hei
-  - $heoi
+  - $hek
   - $heng
+  - $heoi
   - $him
   - $hin
   - $hing
