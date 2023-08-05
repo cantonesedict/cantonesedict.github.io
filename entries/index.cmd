@@ -169,6 +169,7 @@ Work in progress.
   - $tap
   - $tau
   - $tek
+  - $teng
   - $tik
   - $tim
   - $tin
