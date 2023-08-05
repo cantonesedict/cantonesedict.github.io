@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[Not present in the original ''Tonic Dictionary''. Work in progress.]]
+[[From Page~721 of the original onwards. Work in progress.]]
 --
 
-#{.modern} Lek. [[lek]]
+#{.williams} Lek. [[lek]]
