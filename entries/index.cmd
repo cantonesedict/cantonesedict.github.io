@@ -390,6 +390,7 @@ Work in progress.
   - $ngaai
   - $ngaak
   - $ngaam
+  - $ngaan
   - $ngai
   - $ngak
   - $ngam
