@@ -314,6 +314,7 @@ Work in progress.
   - $lit
   - $liu
   - $lo
+  - $loe
   - $loek
   - $loeng
   - $loi
