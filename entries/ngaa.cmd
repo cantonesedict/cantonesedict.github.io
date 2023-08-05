@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ngaa
-* %date-modified --> 2023-08-03
+* %date-modified --> 2023-08-05
 * %copyright-prior-years -->
 
 %%%
@@ -24,19 +24,13 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ,
-    [[Page~1|n44]] <br>
+    [[Page~1|n44, within the entry for _(1)(a/)_ (aa1)]] <br>
     ==
     - the wrangling of children;
     - to open the mouth wide;
     - _(4)ng(a/) (1)l(a/)n (5)mai_
         [[ngaa4 laan1 mai5 呀囒米]],
         cochineal.
-    ==
-C
-  ,
-    =={.modern}
-    - Williams has this entry within that for _(1)(a/)_ [[aa1]];
-      see $呀aa1.
     ==
 S
   ,

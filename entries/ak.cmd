@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ak
-* %date-modified --> 2023-08-03
+* %date-modified --> 2023-08-05
 * %copyright-prior-years -->
 
 %%%
@@ -60,17 +60,11 @@ $$
 $$
 W
   ,
-    [[Page~1|n44]] <br>
+    [[Page~1|n44, within the entry for _(2)(a/)_ (aa2)]] <br>
     ==
     - _ak(7) ak(7)_
         [[ak1 ak1 啞啞]]
         the sound of giggling.
-    ==
-C
-  ,
-    =={.modern}
-    - Williams has this entry within that for _(2)(a/)_ [[aa2]];
-      see $啞aa2.
     ==
 S
   ,

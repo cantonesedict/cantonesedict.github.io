@@ -28,7 +28,7 @@ V
   , [[aai1: longer syllable for particle sense]]
 W
   ,
-    [[Page~2: entry for 𫫃 = ⿰口挨]] <br>
+    [[Page~2, appearing as 𫫃 = ⿰口挨]] <br>
     ==
     - A particle of surprise or pain;
     - to beg, to ask;

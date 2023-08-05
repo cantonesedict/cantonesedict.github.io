@@ -120,12 +120,6 @@ W
     - alas! dreadful.
     ==
     Read _(4)ng(a/)_ [[ngaa4]]: [[see $呀ngaa4]].
-C
-  ,
-    =={.modern}
-    - Williams does not provide a separate entry
-      for 呀 under _(4)ng(a/)_ [[ngaa4]].
-    ==
 S
   ,
     =={.modern}
@@ -205,12 +199,6 @@ W
         hard to bear it patiently.
     ==
     Also read _ak(7)_ [[ak1]]; [[see $啞ak1]].
-C
-  ,
-    =={.modern}
-    - Williams does not provide a separate entry
-      for 啞 under _ak(7)_ [[ak1]].
-    ==
 S
   ,
     =={.modern}
@@ -272,7 +260,7 @@ W
 C
   ,
     =={.modern}
-    - Williams does not provide a separate entry for 亞 and $阿3,
+    - Williams does not provide separate entries for 亞 and $阿3,
       but notes that $阿3 is "often used" for the name prefix sense.
       I have split things up accordingly.
     ==
@@ -296,12 +284,6 @@ W
         not at all good.
     ==
     Also spoken _(a/)(6)_ [[aa6]]; [[see $呀aa6]].
-C
-  ,
-    =={.modern}
-    - Williams does not provide a separate entry
-      for 呀 under _(a/)(6)_ [[aa6]].
-    ==
 S
   ,
     =={.modern}
@@ -385,7 +367,7 @@ W
 C
   ,
     =={.modern}
-    - Williams does not provide a separate entry for $亞3 and 阿.
+    - Williams does not provide separate entries for $亞3 and 阿.
       I have split things up accordingly.
     - aa3 bei6: Not sure what characters are meant by "a silly fellow".
     ==
@@ -427,7 +409,7 @@ V
   , [[a6: shorter syllable for elided "ten" sense]]
 W
   ,
-    [[Page~1|n44]] <br>
+    [[Page~1|n44, within the entry for _(a/)(3)_ (aa3)]] <br>
     A colloquial word. [[...]]
     ==
     - ten, used after a higher number;
@@ -442,8 +424,6 @@ W
 C
   ,
     =={.modern}
-    - Williams has this entry within that for _(a/)(3)_ [[aa3]];
-      see $呀aa3.
     - 四呀錢: The "ten" sense would never actually appear in writing as 呀;
       it would still be spelt 十,
       the pronunciation being a matter of preference.
