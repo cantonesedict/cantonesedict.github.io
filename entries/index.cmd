@@ -51,6 +51,7 @@ Work in progress.
   - $bai
   - $bak
   - $ban
+  - $bang
   ==
 
 - P
