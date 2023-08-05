@@ -652,6 +652,7 @@ Work in progress.
 - W
   ==
   - $waa
+  - $waai
   - $wai
   - $wu
   - $wui
