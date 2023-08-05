@@ -80,6 +80,7 @@ Work in progress.
   - $pau
   - $pei
   - $pek
+  - $peng
   - $pik
   - $pin
   - $ping
