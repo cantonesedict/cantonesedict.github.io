@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ai
-* %date-modified --> 2023-08-03
+* %date-modified --> 2023-08-05
 * %copyright-prior-years -->
 
 %%%
@@ -137,7 +137,7 @@ W
     - To hang, to strangle one's self;
     - the warp of cloth;
     - _ai(3) (2)sz' (2)kwai_
-        [[ai3 sei2 gwai2 縊死鬼]],
+        [[ai3 si2 gwai2 / ai3 sei2 gwai2 縊死鬼]],
         ghost of a suicide;
     - _ai(3) (2)keng_
         [[ai3 geng2 縊頸]],
