@@ -82,6 +82,7 @@ Work in progress.
   - $pek
   - $pik
   - $pin
+  - $ping
   ==
 
 - C
