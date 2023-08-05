@@ -5,13 +5,13 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> gou
-* %date-modified --> 2023-08-04
+* %date-modified --> 2023-08-05
 * %copyright-prior-years -->
 
 %%%
 
 --{.modern}
-[[From Page~168 of the original onwards. Work in progress.]]
+[[From Page~168 & Page~719 of the original onwards. Work in progress.]]
 --
 
 #{.williams} K(o\). [[gou]]
