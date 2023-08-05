@@ -141,6 +141,7 @@ Work in progress.
   - $dap
   - $dat
   - $dau
+  - $de
   ==
 
 - T
