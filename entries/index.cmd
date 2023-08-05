@@ -530,6 +530,7 @@ Work in progress.
   - $sat
   - $sau
   - $se
+  - $sei
   - $seng
   - $si
   - $soek
