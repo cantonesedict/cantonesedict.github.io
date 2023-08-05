@@ -50,6 +50,7 @@ Work in progress.
   - $baan
   - $baang
   - $baat
+  - $baau
   - $bai
   - $bak
   - $ban
