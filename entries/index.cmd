@@ -324,6 +324,7 @@ Work in progress.
   - $long
   - $lou
   - $luk
+  - $lung
   - $lyun
   ==
 
