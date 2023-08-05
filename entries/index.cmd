@@ -338,6 +338,7 @@ Work in progress.
   - $maak
   - $mai
   - $mak
+  - $man
   ==
 
 - N
