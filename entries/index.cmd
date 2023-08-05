@@ -128,6 +128,7 @@ Work in progress.
   ==
   - $daa
   - $daai
+  - $daam
   - $dai
   - $dak
   - $dam
