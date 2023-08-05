@@ -156,6 +156,7 @@ Work in progress.
   - $tan
   - $tang
   - $tap
+  - $tau
   ==
 
 - E
