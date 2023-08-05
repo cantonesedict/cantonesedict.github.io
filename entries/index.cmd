@@ -143,6 +143,7 @@ Work in progress.
   - $dau
   - $de
   - $doeng
+  - $doek
   ==
 
 - T
