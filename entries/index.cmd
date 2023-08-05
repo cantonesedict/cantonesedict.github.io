@@ -61,6 +61,7 @@ Work in progress.
   - $paai
   - $paak
   - $paan
+  - $paang
   - $pai
   - $pan
   - $pang
