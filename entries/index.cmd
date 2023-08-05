@@ -321,6 +321,7 @@ Work in progress.
   - $jat
   - $jau
   - $je
+  - $jeoi
   - $ji
   - $jik
   - $jim
