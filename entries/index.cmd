@@ -142,6 +142,7 @@ Work in progress.
   - $taam
   - $tai
   - $tam
+  - $tan
   ==
 
 - E
