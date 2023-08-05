@@ -311,6 +311,7 @@ Work in progress.
   - $ling
   - $lip
   - $lit
+  - $liu
   - $loek
   - $loeng
   ==
