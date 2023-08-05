@@ -49,9 +49,7 @@ Work in progress.
 ==
 </nav>
 
-<nav>
-===={.modern}
-- A
+##{#A .modern} A
   ==
   - $aa
   - $aai
@@ -71,7 +69,7 @@ Work in progress.
   - $au
   ==
 
-- B
+##{#B .modern} B
   ==
   - $baa
   - $baai
@@ -108,7 +106,7 @@ Work in progress.
   - $but
   ==
 
-- C
+##{#C .modern} C
   ==
   - $caa
   - $caai
@@ -154,7 +152,7 @@ Work in progress.
   - $cyut
   ==
 
-- D
+##{#D .modern} D
   ==
   - $daa
   - $daai
@@ -199,12 +197,12 @@ Work in progress.
   - $dyut
   ==
 
-- E
+##{#E .modern} E
   ==
   - $e
   ==
 
-- F
+##{#F .modern} F
   ==
   - $faa
   - $faai
@@ -231,7 +229,7 @@ Work in progress.
   - $fut
   ==
 
-- G
+##{#G .modern} G
   ==
   - $gaa
   - $gaai
@@ -296,7 +294,7 @@ Work in progress.
   - $gyut
   ==
 
-- H
+##{#H .modern} H
   ==
   - $haa
   - $haai
@@ -340,7 +338,7 @@ Work in progress.
   - $hyut
   ==
 
-- J
+##{#J .modern} J
   ==
   - $jaa
   - $jaak
@@ -371,7 +369,7 @@ Work in progress.
   - $jyut
   ==
 
-- K
+##{#K .modern} K
   ==
   - $kaa
   - $kaai
@@ -418,7 +416,7 @@ Work in progress.
   - $kyut
   ==
 
-- L
+##{#L .modern} L
   ==
   - $laa
   - $laai
@@ -466,7 +464,7 @@ Work in progress.
   - $lyut
   ==
 
-- M
+##{#M .modern} M
   ==
   - $m
   - $maa
@@ -502,7 +500,7 @@ Work in progress.
   - $mut
   ==
 
-- N
+##{#N .modern} N
   ==
   - $naa
   - $naai
@@ -568,7 +566,7 @@ Work in progress.
   - $nyun
   ==
 
-- O
+##{#O .modern} O
   ==
   - $o
   - $oi
@@ -578,7 +576,7 @@ Work in progress.
   - $ou
   ==
 
-- P
+##{#P .modern} P
   ==
   - $paa
   - $paai
@@ -611,7 +609,7 @@ Work in progress.
   - $put
   ==
 
-- S
+##{#S .modern} S
   ==
   - $saa
   - $saai
@@ -659,7 +657,7 @@ Work in progress.
   - $syut
   ==
 
-- T
+##{#T .modern} T
   ==
   - $taa
   - $taai
@@ -696,13 +694,13 @@ Work in progress.
   - $tyut
   ==
 
-- U
+##{#U .modern} U
   ==
   - $uk
   - $ung
   ==
 
-- W
+##{#W .modern} W
   ==
   - $waa
   - $waai
@@ -726,7 +724,7 @@ Work in progress.
   - $wut
   ==
 
-- Z
+##{#Z .modern} Z
   ==
   - $zaa
   - $zaai
@@ -770,5 +768,3 @@ Work in progress.
   - $zyun
   - $zyut
   ==
-====
-</nav>
