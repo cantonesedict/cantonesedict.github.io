@@ -387,6 +387,7 @@ Work in progress.
   - $nei
   - $neng
   - $neoi
+  - $neot
   - $ng
   - $ngaa
   - $ngaai
