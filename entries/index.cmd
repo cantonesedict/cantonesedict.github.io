@@ -386,6 +386,7 @@ Work in progress.
   - $ne
   - $neng
   - $ngaa
+  - $noeng
   ==
 
 - Z
