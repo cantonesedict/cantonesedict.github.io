@@ -641,6 +641,11 @@ Work in progress.
   - $tyut
   ==
 
+- U
+  ==
+  - $uk
+  ==
+
 - W
   ==
   - $wu
