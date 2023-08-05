@@ -70,6 +70,7 @@ Work in progress.
   - $bok
   - $bong
   - $bou
+  - $bui
   - $bum
   ==
 
