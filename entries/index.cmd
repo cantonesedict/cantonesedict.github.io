@@ -387,6 +387,7 @@ Work in progress.
   - $neng
   - $ng
   - $ngaa
+  - $ngaai
   - $ngai
   - $noeng
   ==
