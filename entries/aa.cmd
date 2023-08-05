@@ -5,16 +5,30 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2023-08-05
+* %date-modified --> 2023-08-06
 * %copyright-prior-years -->
 
 %%%
 
---{.modern}
-[[From Page~1|n44 of the original onwards.]]
---
-
 #{.williams} (A/). [[aa]]
+
+$$
+WH
+  ,
+    ==
+    - (A/). [[Page~1|n44]]
+    ==
+WP
+  ,
+    ==
+    - (A/) = <span class="modern">[aː]</span>
+    ==
+MP
+  ,
+    =={.modern}
+    - aa = [aː]
+    ==
+$$
 
 --{.williams}
 Words in _a_ [[a]] or _(a/)_ [[aa]],

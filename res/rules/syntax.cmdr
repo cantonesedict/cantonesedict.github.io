@@ -24,6 +24,9 @@ RegexDictionaryReplacement: #heading-permalinks
 
 
 RegexDictionaryReplacement: #.syntax.entry-key-abbreviations
+* ^WH$ --> ; Williams (1856) headings
+* ^WP$ --> ; Williams (1856) pronunciation
+* ^MP$ --> ; Modern pronunciation
 * ^A$ --> ; Alternative forms
 * ^V$ --> ; Reading variations
 * ^W$ --> ; Williams (1856) entry
