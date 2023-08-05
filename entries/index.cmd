@@ -316,6 +316,7 @@ Work in progress.
   - $loek
   - $loeng
   - $loi
+  - $lok
   - $lou
   ==
 
