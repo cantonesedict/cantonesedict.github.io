@@ -183,6 +183,7 @@ Work in progress.
   - $tek
   - $teng
   - $teoi
+  - $teon
   - $tik
   - $tim
   - $tin
