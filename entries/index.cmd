@@ -531,6 +531,7 @@ Work in progress.
   - $sau
   - $se
   - $seng
+  - $soek
   ==
 
 - Z
