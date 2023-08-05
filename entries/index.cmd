@@ -327,6 +327,7 @@ Work in progress.
   - $jip
   - $jit
   - $jiu
+  - $joek
   - $jyu
   - $jyun
   - $jyut
