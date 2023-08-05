@@ -310,6 +310,7 @@ Work in progress.
   - $lin
   - $ling
   - $lip
+  - $lit
   - $loek
   - $loeng
   ==
