@@ -152,6 +152,7 @@ Work in progress.
   - $ding
   - $dip
   - $dit
+  - $diu
   - $doeng
   - $doek
   ==
