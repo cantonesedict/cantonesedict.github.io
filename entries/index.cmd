@@ -47,6 +47,7 @@ Work in progress.
   - $baa
   - $baai
   - $baak
+  - $baan
   - $bai
   - $bak
   - $ban
