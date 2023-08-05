@@ -75,6 +75,7 @@ Work in progress.
   - $bum
   - $bun
   - $bung
+  - $bup
   - $but
   ==
 
