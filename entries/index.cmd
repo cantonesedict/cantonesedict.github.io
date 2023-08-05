@@ -410,6 +410,7 @@ Work in progress.
   - $le
   - $lei
   - $lek
+  - $lem
   - $leng
   - $leoi
   - $leon
