@@ -561,6 +561,7 @@ Work in progress.
   - $pang
   - $pat
   - $pau
+  - $pe
   - $pei
   - $pek
   - $peng

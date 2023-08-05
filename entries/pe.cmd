@@ -4,14 +4,14 @@
 OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
-* %title --> paang
+* %title --> pe
 * %date-modified --> 2023-08-05
 * %copyright-prior-years -->
 
 %%%
 
 --{.modern}
-[[From Page~358 & Page~725 of the original onwards. Work in progress.]]
+[[Not present in the original ''Tonic Dictionary''. Work in progress.]]
 --
 
-#{.williams} P(')(a/)ng. [[paang]]
+#{.modern} P(')(e/). [[pe]]
