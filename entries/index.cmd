@@ -55,6 +55,7 @@ Work in progress.
   - $ban
   - $bang
   - $bat
+  - $bau
   ==
 
 - P
