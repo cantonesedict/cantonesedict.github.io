@@ -68,6 +68,7 @@ Work in progress.
   - $biu
   - $bo
   - $bok
+  - $bong
   - $bou
   - $bum
   ==
