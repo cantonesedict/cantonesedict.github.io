@@ -134,6 +134,7 @@ Work in progress.
   - $dak
   - $dam
   - $dan
+  - $dang
   ==
 
 - T
