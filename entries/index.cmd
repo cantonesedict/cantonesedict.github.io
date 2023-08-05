@@ -425,6 +425,7 @@ Work in progress.
   - $nok
   - $nong
   - $nou
+  - $nuk
   ==
 
 - Z
