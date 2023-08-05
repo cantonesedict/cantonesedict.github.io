@@ -291,6 +291,7 @@ Work in progress.
   - $lak
   - $lam
   - $lan
+  - $lang
   ==
 
 - N
