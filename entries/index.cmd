@@ -544,6 +544,7 @@ Work in progress.
   - $so
   - $soek
   - $soeng
+  - $sou
   ==
 
 - Z
