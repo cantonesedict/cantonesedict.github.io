@@ -350,6 +350,7 @@ Work in progress.
   - $kaat
   - $kaau
   - $kai
+  - $kak
   - $kam
   - $kan
   - $kang
