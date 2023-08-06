@@ -28,6 +28,11 @@ MP
     =={.modern}
     - aa = [aː]
     ==
+S
+  ,
+    =={.modern}
+    - $ngaa
+    ==
 $$
 
 --{.williams}
