@@ -77,7 +77,7 @@ C
   ,
     =={.modern}
     - 丫頭, 丫鬟: Yes, people kept slaves in the 19th century.
-    - 丫頭, 丫鬟, and 丫角髻: From the double-bun hairstyle.
+    - 丫頭, 丫鬟, 丫角髻: From the double-bun hairstyle.
     - 三丫路: Rarely heard; 三叉路 is now more common.
     ==
 $$
