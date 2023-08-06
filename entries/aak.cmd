@@ -5,16 +5,44 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aak
-* %date-modified --> 2023-08-05
+* %date-modified --> 2023-08-06
 * %copyright-prior-years -->
 
 %%%
 
---{.modern}
-[[From Page~3 of the original onwards.]]
---
-
 #{.williams} (A/)k. [[aak]]
+
+<nav class="sideways">
+=={.modern}
+- [aak1](#1)
+- [aak3](#3)
+==
+</nav>
+
+$$
+WH
+  ,
+    ==
+    - (A/)k. [[Page~3]]
+    ==
+WP
+  ,
+    ==
+    - (A/)k <span class="modern">= [aːk̚]</span>
+    ==
+MP
+  ,
+    =={.modern}
+    - aak = [aːk̚]
+    ==
+S
+  ,
+    =={.modern}
+    - $ak
+    - $ngaak
+    - $ngak
+    ==
+$$
 
 
 ##{#1 .williams} (A/)k(7). [[aak1 高陰入]]
