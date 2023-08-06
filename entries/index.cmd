@@ -52,7 +52,7 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 ==
 - $aa
 - $aai
-- $aak (work in progress)
+- $aak
 - $aam (work in progress)
 - $aan (work in progress)
 - $aang (work in progress)
