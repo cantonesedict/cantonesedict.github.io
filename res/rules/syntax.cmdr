@@ -6,9 +6,9 @@ RegexDictionaryReplacement: #.syntax.character-headings
 - queue_position: BEFORE #headings
 * ^[#]{3} (?P<addition_marker> [+]? )
     [ ] (?P<character> \S ) (?P<tone_number> [1-6] )
-    (?P<pre_code_point> .*? ) [ ] (?P<code_point_etc> \[\[ U[+][0-9A-F]+ \]\] .* )
+    (?P<composition> .*? ) [ ][|][ ] (?P<reading> .* )
     -->
-  ###{#\g<tone_number>\g<character> .williams\g<addition_marker>} <span class="headword">\g<character>\g<pre_code_point></span> \g<code_point_etc>
+  ###{#\g<tone_number>\g<character> .williams\g<addition_marker>} <span class="headword">\g<character>\g<composition></span> \g<reading>
 - concluding_replacements: #.syntax.addition-marker-to-class
 
 
@@ -27,6 +27,7 @@ RegexDictionaryReplacement: #.syntax.entry-key-abbreviations
 * ^WH$ --> ; Williams (1856) headings
 * ^WP$ --> ; Williams (1856) pronunciation
 * ^MP$ --> ; Modern pronunciation
+* ^U$ --> ; Unicode code point
 * ^A$ --> ; Alternative forms
 * ^V$ --> ; Reading variations
 * ^W$ --> ; Williams (1856) entry
