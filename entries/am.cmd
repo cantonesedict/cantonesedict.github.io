@@ -10,11 +10,39 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 %%%
 
---{.modern}
-[[From Page~3 (Am) and Page~341 & Page~724 ((O\)m) of the original onwards. **Work in progress.**]]
---
-
 #{.williams} Am. (O\)m. [[am]]
+
+<nav class="sideways">
+=={.modern}
+- [[Work in progress]]
+==
+</nav>
+
+$$
+WH
+  ,
+    ==
+    - Am. [[Page~3]]
+    - (O\)m. [[Page~341, Page~724]]
+    ==
+WP
+  ,
+    ==
+    - Am <span class="modern">= [ɐm]</span>
+    - (O\)m <span class="modern">= [oum]</span>
+    ==
+MP
+  ,
+    =={.modern}
+    - am = [ɐm]
+    ==
+S
+  ,
+    =={.modern}
+    - $ngam
+    ==
+$$
+
 
 ##{#2 .williams} (2)Am. [[am2 陰上]]
 
