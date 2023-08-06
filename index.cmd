@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Home
-* %date-modified --> 2023-08-02
+* %date-modified --> 2023-08-06
 * %copyright-prior-years -->
 * %modern-colour --> crimson
 
@@ -85,11 +85,12 @@ that version has severe paging issues:
 The modernisation is a ongoing solo effort by Conway, consisting of:
 --
 ++{.modern}
-1. Transcribing its entries,
-   which appear here as <span class="williams">black serif text</span>;
+1. Transcribing its entries
+   (<span class="williams">black serif text</span>)
+   with normalisation of characters to account for modern usage;
 
-1. Making corrections to typos,
-   which appear <span class="williams">[in square brackets]</span>;
+1. Making corrections to typos
+   <span class="williams">[in square brackets]</span>;
 
 1. Collating the entries by Jyutping
    (noting that there are phonological differences between
