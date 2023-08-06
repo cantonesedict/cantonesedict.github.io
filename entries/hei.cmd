@@ -37,8 +37,7 @@ W
 C
   ,
     =={.modern}
-    - 【屭】 Of great strength.
-      <## TODO: cross-reference unto 贔 ##>
+    - 【屭】 Of great strength. See 贔屭 under $贔bei6. [[TODO]]
     ==
 S
   ,
