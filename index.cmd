@@ -85,9 +85,10 @@ that version has severe paging issues:
 The modernisation is a ongoing solo effort by Conway, consisting of:
 --
 ++{.modern}
+1. Normalisation of characters and readings to account for modern usage;
+
 1. Transcribing its entries
-   (<span class="williams">black serif text</span>)
-   with normalisation of characters to account for modern usage;
+   (<span class="williams">black serif text</span>);
 
 1. Making corrections to typos
    <span class="williams">[in square brackets]</span>;
