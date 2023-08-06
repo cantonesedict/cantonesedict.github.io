@@ -44,6 +44,29 @@ S
 $$
 
 
+##{#1 .williams} (1)(O\)m. [[am1 陰平]]
+
+### 啽1 | _(1)(o\)m_ [[am1]]
+
+$$
+U
+  , [[U+557D]]
+W
+  , [[Page~724]] <br>
+    ==
+    - To snore;
+    - _(1)(o\)m mak(9)_
+        [[am1 mak6 啽默]]
+        to be silent; to give no answer, as one [who] is very sleepy.
+    ==
+S
+  ,
+    =={.modern}
+    - $啽ngap1 (TODO)
+    ==
+$$
+
+
 ##{#2 .williams} (2)Am. [[am2 陰上]]
 
 ### 唵2 | _(2)am_ [[am2]]
