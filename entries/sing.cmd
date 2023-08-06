@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~444 (Shing) and Page~464 (Sing) of the original onwards. Work in progress.]]
+[[From Page~444 (Shing) and Page~464 (Sing) of the original onwards. **Work in progress.**]]
 --
 
 #{.williams} Shing. Sing. [[sing]]

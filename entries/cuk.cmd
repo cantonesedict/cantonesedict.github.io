@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~36* (Ch(')uk) and Page~600 (Ts(')uk) of the original onwards. Work in progress.]]
+[[From Page~36* (Ch(')uk) and Page~600 (Ts(')uk) of the original onwards. **Work in progress.**]]
 --
 
 #{.williams} Ch(')uk. Ts(')uk. [[cuk]]

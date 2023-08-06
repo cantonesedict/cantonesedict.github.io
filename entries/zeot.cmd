@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~41 & Page~713 (Chut) and Page~609 (Tsut) of the original onwards. Work in progress.]]
+[[From Page~41 & Page~713 (Chut) and Page~609 (Tsut) of the original onwards. **Work in progress.**]]
 --
 
 #{.williams} Chut. Tsut. [[zeot]]

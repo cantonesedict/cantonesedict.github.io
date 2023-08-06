@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~412 (S(e/)ung) and Page~433 (Sh(e/)ung) of the original onwards. Work in progress.]]
+[[From Page~412 (S(e/)ung) and Page~433 (Sh(e/)ung) of the original onwards. **Work in progress.**]]
 --
 
 #{.williams} S(e/)ung. Sh(e/)ung. [[soeng]]

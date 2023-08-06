@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~412 (S(e/)uk) and Page~433 (Sh(e/)uk) of the original onwards. Work in progress.]]
+[[From Page~412 (S(e/)uk) and Page~433 (Sh(e/)uk) of the original onwards. **Work in progress.**]]
 --
 
 #{.williams} S(e/)uk. Sh(e/)uk. [[soek]]

@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~12|n55 of the original onwards. Work in progress.]]
+[[From Page~12|n55 of the original onwards. **Work in progress.**]]
 --
 
 #{.williams} Ch(')ak. [[cak]]

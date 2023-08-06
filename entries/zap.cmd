@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~22|n65 (Chap) and Page~557 (Tsap) of the original onwards. Work in progress.]]
+[[From Page~22|n65 (Chap) and Page~557 (Tsap) of the original onwards. **Work in progress.**]]
 --
 
 #{.williams} Chap. Tsap. [[zap]]

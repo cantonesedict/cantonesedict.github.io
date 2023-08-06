@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[Not present in the original ''Tonic Dictionary''. Work in progress.]]
+[[Not present in the original ''Tonic Dictionary''. **Work in progress.**]]
 --
 
 #{.modern} K(')(a/)n. [[kaan]]

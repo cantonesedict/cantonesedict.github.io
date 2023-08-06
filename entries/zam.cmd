@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~14|n57 (Cham) and Page~551 (Tsam) of the original onwards. Work in progress.]]
+[[From Page~14|n57 (Cham) and Page~551 (Tsam) of the original onwards. **Work in progress.**]]
 --
 
 #{.williams} Cham. Tsam. [[zam]]

@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~408 (Sat) and Page~426 (Shat) of the original onwards. Work in progress.]]
+[[From Page~408 (Sat) and Page~426 (Shat) of the original onwards. **Work in progress.**]]
 --
 
 #{.williams} Sat. Shat. [[sat]]

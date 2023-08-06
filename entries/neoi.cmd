@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~336 (N(u")) and Page~724 (Nui) of the original onwards. Work in progress.]]
+[[From Page~336 (N(u")) and Page~724 (Nui) of the original onwards. **Work in progress.**]]
 --
 
 #{.williams} N(u"). Nui. [[neoi]]

@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~230 & Page~721 of the original onwards. Work in progress.]]
+[[From Page~230 & Page~721 of the original onwards. **Work in progress.**]]
 --
 
 #{.williams} L(e/)ung. [[loeng]]

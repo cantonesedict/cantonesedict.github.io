@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~33|n76 (Ch(e/)ung) and Page~565 (Ts(e/)ung) of the original onwards. Work in progress.]]
+[[From Page~33|n76 (Ch(e/)ung) and Page~565 (Ts(e/)ung) of the original onwards. **Work in progress.**]]
 --
 
 #{.williams} Ch(e/)ung. Ts(e/)ung. [[zoeng]]

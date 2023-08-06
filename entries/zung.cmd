@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~38* (Chung) and Page~606 (Tsung) of the original onwards. Work in progress.]]
+[[From Page~38* (Chung) and Page~606 (Tsung) of the original onwards. **Work in progress.**]]
 --
 
 #{.williams} Chung. Tsung. [[zung]]
