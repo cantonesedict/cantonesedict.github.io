@@ -12,6 +12,16 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 #{.williams} (A/). [[aa]]
 
+<nav class="sideways">
+=={.modern}
+- [aa1](#1)
+- [aa2](#2)
+- [aa3](#3)
+- [aa4](#4)
+- [aa6](#6)
+==
+</nav>
+
 $$
 WH
   ,
