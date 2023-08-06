@@ -17,6 +17,14 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 
 #{.modern} Cantonese Dictionary
 
+<nav class="sideways">
+=={.modern}
+- [Source](#source)
+- [Modernisation](#modernisation)
+- [Contents](#contents)
+==
+</nav>
+
 --{.modern}
 A modern edition of 《英華分韻撮要》
 [''A Tonic Dictionary of the Chinese Language in the Canton Dialect'' (1856)]<n2>
