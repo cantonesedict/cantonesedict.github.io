@@ -52,7 +52,8 @@ $$
 U
   , [[U+557D]]
 W
-  , [[Page~724]] <br>
+  ,
+    [[Page~724]] <br>
     ==
     - To snore;
     - _(1)(o\)m mak(9)_
@@ -72,9 +73,10 @@ $$
 U
   , [[U+5EB5]]
 A
-  , $菴1 [[TODO]]
+  , $菴1
 W
   ,
+    [[Page~341]] <br>
     ==
     - A round hut, a thatched cottage, a straw hovel for soldiers or guard;
     - a pig-sty;
@@ -89,6 +91,19 @@ W
         [[am1 tong4 庵堂]],
         a convent.
     ==
+$$
+
+### 菴1 | _(1)(o\)m_ [[am1]]
+
+$$
+U
+  , [[U+83F4]]
+A
+  , $庵1
+W
+  ,
+    [[Page~341]] <br>
+    [[Variant of 庵. **See $庵am1 for the canonical entry.**]]
 $$
 
 
