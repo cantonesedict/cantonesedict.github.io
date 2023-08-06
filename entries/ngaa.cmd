@@ -16,6 +16,12 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 #{.williams} Ng(a/). [[ngaa]]
 
+<nav class="sideways">
+=={.modern}
+- [[Work in progress]]
+==
+</nav>
+
 
 ##{#4 .williams} (4)Ng(a/). [[ngaa4 陽平]]
 
@@ -43,9 +49,3 @@ S
     - $呀aa6
     ==
 $$
-
-<nav class="sideways">
-=={.modern}
-- [[Work in progress]]
-==
-</nav>

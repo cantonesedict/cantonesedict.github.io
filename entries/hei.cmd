@@ -16,6 +16,12 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 #{.williams} H(i/). [[hei]]
 
+<nav class="sideways">
+=={.modern}
+- [[Work in progress]]
+==
+</nav>
+
 
 ##{#3 .williams} H(i/)(3). [[hei3 陰去]]
 
@@ -40,9 +46,3 @@ S
     - $屭ai3
     ==
 $$
-
-<nav class="sideways">
-=={.modern}
-- [[Work in progress]]
-==
-</nav>
