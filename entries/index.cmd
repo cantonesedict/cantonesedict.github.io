@@ -59,7 +59,7 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 - $aap (work in progress)
 - $aat (work in progress)
 - $aau (work in progress)
-- $ai (work in progress)
+- $ai
 - $ak (work in progress)
 - $am (work in progress)
 - $ang (work in progress)
