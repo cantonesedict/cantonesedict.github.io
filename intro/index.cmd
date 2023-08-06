@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Introduction.
-* %date-modified --> 2023-08-05
+* %date-modified --> 2023-08-06
 * %copyright-prior-years -->
 
 %%%
@@ -439,10 +439,10 @@ include the terminations in the fourth tone.
     , 勇
     , 用
     , 欲
-    , (4)yung [[yung4]]
-    , (5)yung [[yung5]]
-    , yung(6) [[yung6]]
-    , yuk(9) [[yuk6]]
+    , (4)yung [[jung4]]
+    , (5)yung [[jung5]]
+    , yung(6) [[jung6]]
+    , yuk(9) [[juk6]]
   //
     , 7
     , 英
@@ -2040,7 +2040,7 @@ final, like the following:---
 --
 =={.williams}
 - _(5)Ling (2)ting (1)ying (4)ming_
-  [[ling5 ding2 ying1 ming4]] 嶺頂鷹鳴
+  [[ling5 ding2 jing1 ming4]] 嶺頂鷹鳴
   the eagle is screaming on the hilltop.
 
 - _(1)T[(')](a/)n (1)k(a/)n ng(a/)n(6) (2)f(a/)n_
@@ -2056,11 +2056,11 @@ final, like the following:---
   papa rakes the ground with a rake.
 
 - _(5)Yau (4)yau tau(6) (2)tsau (4)k(')au (2)sau shau(6)_
-  [[yau5 yau4 dau6 zau2 kau4 sau2 sau6]] 有油荳酒求叟售
+  [[jau5 jau4 dau6 zau2 kau4 sau2 sau6]] 有油荳酒求叟售
   ask the old man to buy my oil, pulse, or wine.
 
 - _(5)K(')au (5)yau tau(6) (2)kau (2)tau, (5)k(')(u") (1)t(')au tsau(6) [(2)]tsau_
-  [[kau5 yau5 dau6 gau2 dau2 keoi5 tau1 zau6 zau2]] 舅有荳九斗佢偷就走
+  [[kau5 jau5 dau6 gau2 dau2 keoi5 tau1 zau6 zau2]] 舅有荳九斗佢偷就走
   he stole ten pecks of uncle's beans and ran off.
 
 - [[[Page~xxxii of the original]{#page-xxxii}<n39> here]]
