@@ -5,16 +5,43 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ai
-* %date-modified --> 2023-08-05
+* %date-modified --> 2023-08-06
 * %copyright-prior-years -->
 
 %%%
 
---{.modern}
-[[From Page~2 of the original onwards.]]
---
-
 #{.williams} Ai. [[ai]]
+
+<nav class="sideways">
+=={.modern}
+- [ai1](#1)
+- [ai2](#2)
+- [ai3](#3)
+==
+</nav>
+
+$$
+WH
+  ,
+    ==
+    - Ai. [[Page~2]]
+    ==
+WP
+  ,
+    ==
+    - Ai <span class="modern">= [ɐi]</span>
+    ==
+MP
+  ,
+    =={.modern}
+    - ai = [ɐi]
+    ==
+S
+  ,
+    =={.modern}
+    - $ngai
+    ==
+$$
 
 
 ##{#1 .williams} (1)Ai. [[ai1 陰平]]
