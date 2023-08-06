@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of entries by Jyutping slug
-* %date-modified --> 2023-08-05
+* %date-modified --> 2023-08-06
 * %copyright-prior-years -->
 
 OrdinaryDictionaryReplacement: #.no-black-serif-note
@@ -19,10 +19,6 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 %%%
 
 #{.modern} %title
-
---{.modern}
-Work in progress.
---
 
 <nav class="sideways">
 =={.modern}
