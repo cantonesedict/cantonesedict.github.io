@@ -179,7 +179,7 @@ W
 C
   ,
     =={.modern}
-    - 【啊】 An unpopular alternative character for $吖1 or $呀1.
+    - 【啊】 An unpopular alternative character for $吖aa1 or $呀aa1.
     ==
 S
   ,
@@ -297,7 +297,7 @@ W
     - Hunchbacked;
     - to esteem lightly, to regard as inferior;
     - second, next to, junior, inferior;
-    - [[see $阿3 for name prefix senses]]
+    - [[see $阿aa3 for name prefix senses]]
     - _pat(7) (a/)(3) (1)(u") (4)yan_
         [[bat1 aa3 jyu1 jan4 不亞於人]],
         not inferior to others.
