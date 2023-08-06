@@ -91,6 +91,11 @@ W
         [[aai1 maan5-1 挨晚]],
         towards evening.
     ==
+S
+  ,
+    =={.modern}
+    - $挨ngaai4
+    ==
 $$
 
 
