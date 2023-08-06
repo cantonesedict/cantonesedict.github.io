@@ -60,7 +60,7 @@ $$
 $$
 W
   ,
-    [[Page~1|n44, within the entry for _(2)(a/)_ (aa2)]] <br>
+    [[Page~1|n44, within the entry for 啞 _(2)(a/)_ (aa2)]] <br>
     ==
     - _ak(7) ak(7)_
         [[ak1 ak1 啞啞]]

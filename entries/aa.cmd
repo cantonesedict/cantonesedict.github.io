@@ -438,7 +438,7 @@ V
   , [[a6: shorter syllable for elided "ten" sense]]
 W
   ,
-    [[Page~1|n44, within the entry for _(a/)(3)_ (aa3)]] <br>
+    [[Page~1|n44, within the entry for 呀 _(a/)(3)_ (aa3)]] <br>
     A colloquial word. [[...]]
     ==
     - ten, used after a higher number;

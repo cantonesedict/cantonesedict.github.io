@@ -24,7 +24,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 W
   ,
-    [[Page~1|n44, within the entry for _(1)(a/)_ (aa1)]] <br>
+    [[Page~1|n44, within the entry for 呀 _(1)(a/)_ (aa1)]] <br>
     ==
     - the wrangling of children;
     - to open the mouth wide;
