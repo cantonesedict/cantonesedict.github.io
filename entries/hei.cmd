@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> hei
-* %date-modified --> 2023-08-03
+* %date-modified --> 2023-08-06
 * %copyright-prior-years -->
 
 %%%
@@ -19,9 +19,11 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 ##{#3 .williams} H(i/)(3). [[hei3 陰去]]
 
-###+ 屭3 [[U+5C6D]] _h(i/)(3)_ [[hei3]]
+###+ 屭3 | _h(i/)(3)_ [[hei3]]
 
 $$
+U
+  , [[U+5C6D]]
 V
   , [[ai3: for colloquial senses]]
 W

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2023-08-05
+* %date-modified --> 2023-08-06
 * %copyright-prior-years -->
 
 %%%
@@ -18,9 +18,11 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 ##{#2 .williams} (2)Am. [[am2 陰上]]
 
-### 唵2 [[U+5535]] _(2)am_ [[am2]]
+### 唵2 | _(2)am_ [[am2]]
 
 $$
+U
+  , [[U+5535]]
 W
   ,
     [[Page~3]] <br>
