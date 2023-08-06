@@ -51,7 +51,7 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 <nav>
 ==
 - $aa
-- $aai (work in progress)
+- $aai
 - $aak (work in progress)
 - $aam (work in progress)
 - $aan (work in progress)
