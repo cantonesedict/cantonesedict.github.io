@@ -61,6 +61,7 @@ footer.modern {
 
 h2 {
   border-bottom: 1px solid black;
+  margin-top: 2em;
   padding-bottom: 0.2em;
 }
 h2.modern {
