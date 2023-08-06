@@ -34,7 +34,7 @@ W
 C
   ,
     =={.modern}
-    - **See $捱ngaai4 for the canonical entry.**
+    - **See $捱ngaai4 for the canonical entry.** [[TODO]]
     ==
 S
   ,
