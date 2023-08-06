@@ -5,23 +5,52 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ak
-* %date-modified --> 2023-08-05
+* %date-modified --> 2023-08-06
 * %copyright-prior-years -->
 
 %%%
 
---{.modern}
-[[From Page~3 of the original onwards.]]
---
-
 #{.williams} Ak. [[ak]]
+
+<nav class="sideways">
+=={.modern}
+- [ak1](#1)
+==
+</nav>
+
+$$
+WH
+  ,
+    ==
+    - Ak. [[Page~3]]
+    ==
+WP
+  ,
+    ==
+    - Ak <span class="modern">= [ɐk̚]</span>
+    ==
+MP
+  ,
+    =={.modern}
+    - ak = [ɐk̚]
+    ==
+S
+  ,
+    =={.modern}
+    - $aak
+    - $ngaak
+    - $ngak
+    ==
+$$
 
 
 ##{#1 .williams} Ak(7). [[ak1 高陰入]]
 
-### 厄1 [[U+5384]] _ak(7)_ [[ak1]]
+### 厄1 | _ak(7)_ [[ak1]]
 
 $$
+U
+  , [[U+5384]]
 A
   , [[戹]]
 V
@@ -55,9 +84,11 @@ S
     ==
 $$
 
-### 啞1 [[U+555E]] _ak(7)_ [[ak1]]
+### 啞1 | _ak(7)_ [[ak1]]
 
 $$
+U
+  , [[U+555E]]
 W
   ,
     [[Page~1|n44, within the entry for 啞 _(2)(a/)_ (aa2)]] <br>
@@ -73,9 +104,11 @@ S
     ==
 $$
 
-### 幄1 [[U+5E44]] _ak(7)_ [[ak1]]
+### 幄1 | _ak(7)_ [[ak1]]
 
 $$
+U
+  , [[U+5E44]]
 W
   ,
     [[Page~3]] <br>
@@ -86,9 +119,11 @@ W
     ==
 $$
 
-### 握1 [[U+63E1]] _ak(7)_ [[ak1]]
+### 握1 | _ak(7)_ [[ak1]]
 
 $$
+U
+  , [[U+63E1]]
 V
   , [[aak1: longer syllable]]
 W
@@ -123,9 +158,11 @@ S
     ==
 $$
 
-### 渥1 [[U+6E25]] _ak(7)_ [[ak1]]
+### 渥1 | _ak(7)_ [[ak1]]
 
 $$
+U
+  , [[U+6E25]]
 W
   ,
     [[Page~3]] <br>
@@ -147,9 +184,11 @@ W
     ==
 $$
 
-### 阨1 [[U+9628]] _ak(7)_ [[ak1]]
+### 阨1 | _ak(7)_ [[ak1]]
 
 $$
+U
+  , [[U+9628]]
 V
   , [[aak1: longer syllable]]
 W
