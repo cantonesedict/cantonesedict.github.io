@@ -21,7 +21,7 @@ WH
 WP
   ,
     ==
-    - (A/) = <span class="modern">[aː]</span>
+    - (A/) <span class="modern">= [aː]</span>
     ==
 MP
   ,
