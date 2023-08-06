@@ -15,3 +15,9 @@ OrdinaryDictionaryReplacement: #.properties-override
 --
 
 #{.williams} Y(e/). [[je]]
+
+<nav class="sideways">
+=={.modern}
+- [[Work in progress]]
+==
+</nav>

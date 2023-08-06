@@ -15,3 +15,9 @@ OrdinaryDictionaryReplacement: #.properties-override
 --
 
 #{.williams} Mok. [[mok]]
+
+<nav class="sideways">
+=={.modern}
+- [[Work in progress]]
+==
+</nav>

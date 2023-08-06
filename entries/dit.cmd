@@ -15,3 +15,9 @@ OrdinaryDictionaryReplacement: #.properties-override
 --
 
 #{.williams} T(i/)t. [[dit]]
+
+<nav class="sideways">
+=={.modern}
+- [[Work in progress]]
+==
+</nav>

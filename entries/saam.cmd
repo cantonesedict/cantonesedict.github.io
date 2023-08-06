@@ -15,3 +15,9 @@ OrdinaryDictionaryReplacement: #.properties-override
 --
 
 #{.williams} S(a/)m. Sh(a/)m. [[saam]]
+
+<nav class="sideways">
+=={.modern}
+- [[Work in progress]]
+==
+</nav>

@@ -15,3 +15,9 @@ OrdinaryDictionaryReplacement: #.properties-override
 --
 
 #{.williams} N(u")n. [[nyun]]
+
+<nav class="sideways">
+=={.modern}
+- [[Work in progress]]
+==
+</nav>

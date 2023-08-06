@@ -40,3 +40,9 @@ S
     - $挨aai1
     ==
 $$
+
+<nav class="sideways">
+=={.modern}
+- [[Work in progress]]
+==
+</nav>

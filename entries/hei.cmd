@@ -40,3 +40,9 @@ S
     - $屭ai3
     ==
 $$
+
+<nav class="sideways">
+=={.modern}
+- [[Work in progress]]
+==
+</nav>

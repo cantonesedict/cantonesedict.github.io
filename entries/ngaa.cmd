@@ -43,3 +43,9 @@ S
     - $呀aa6
     ==
 $$
+
+<nav class="sideways">
+=={.modern}
+- [[Work in progress]]
+==
+</nav>

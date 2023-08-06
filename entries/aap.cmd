@@ -14,4 +14,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 [[From Page~5 of the original onwards. **Work in progress.**]]
 --
 
-#{.williams} (A/)p. [[aap]]
+<nav class="sideways">
+=={.modern}
+- [[Work in progress]]
+==
+</nav>
