@@ -199,7 +199,8 @@ $$
 U
     U+9D09
 W
-    [[Page~1|n44]] <br>
+  ====
+  - [[Page~1|n44, 鴉]]
     ==
     - A raven with a white streak on its breast;
     - _(5)l(o\) (1)(a/)_
@@ -212,9 +213,10 @@ W
         [[aa1 pin3 nai4 鴉片坭]],
         opium.
     ==
+  ====
 C
     ==
-    - 鴉片坭: Dated; opium is now simply called 鴉片.
+    - Williams' 鴉片坭: Dated; opium is now simply called 鴉片.
     ==
 $$
 
@@ -227,9 +229,12 @@ $$
 U
     U+555E
 A
-    $瘂2
+    ==
+    - $瘂2
+    ==
 W
-    [[Page~1|n44]] <br>
+  ====
+  - [[Page~1|n44, 啞]]
     ==
     - The confused noise of children studying;
     - dumb;
@@ -241,7 +246,30 @@ W
         [[cing4 naan4 aa2 jan2 情難啞忍]],
         hard to bear it patiently.
     ==
-    Also read _ak(7)_ [[ak1]]; [[see $啞ak1]].
+    --
+    Also read _ak(7)_ [[ak1]]; [[**see $啞ak1**]].
+    --
+  - [[Page~1|n44, 瘂; here normalised to 啞]]
+    ==
+    - Dumb, unable to speak;
+    - dull, faded;
+    - a cracked sound, as a bell;
+    - wheezing;
+    - nape of the neck;
+    - _(2)(a/) (2)tsai_
+        [[aa2 zai2 啞仔]],
+        a dumb boy;
+    - _(2)(a/) (2)hau (4)m(o\) (4)(i/)n_
+        [[aa2 hau2 mou4 jin4 啞口無言]],
+        will not speak, sulky;
+    - _(2)(a/) tuk(9)_
+        [[aa2 duk6 啞毒]]
+        dumb people are revengeful;
+    - _(1)sheng t(a/)i(3) (2)(a/)_
+        [[seng1 daai3 aa2 聲帶啞]],
+        the sound is indistinct.
+    ==
+  ====
 S
     ==
     - $啞ak1
@@ -253,29 +281,13 @@ $$
 $$
 U
     U+7602
-A
-    $啞2
 W
-    [[Page~1|n44]] <br>
-    ==
-    - Dumb, unable to speak;
-    - dull, faded;
-    - a cracked sound, as a bell;
-    - wheezing;
-    - nape of the neck;
-    - _(2)(a/) (2)tsai_
-        [[aa2 zai2 瘂仔]],
-        a dumb boy;
-    - _(2)(a/) (2)hau (4)m(o\) (4)(i/)n_
-        [[aa2 hau2 mou4 jin4 瘂口無言]],
-        will not speak, sulky;
-    - _(2)(a/) tuk(9)_
-        [[aa2 duk6 瘂毒]]
-        dumb people are revengeful;
-    - _(1)sheng t(a/)i(3) (2)(a/)_
-        [[seng1 daai3 aa2 聲帶瘂]],
-        the sound is indistinct.
-    ==
+  ====
+  - [[Page~1|n44, 瘂]]
+    --
+    [[Here normalised to 啞; **see $啞aa2 for the canonical entry**.]]
+    --
+  ====
 $$
 
 
