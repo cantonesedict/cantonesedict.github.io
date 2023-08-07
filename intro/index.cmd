@@ -5,14 +5,16 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Introduction.
-* %date-modified --> 2023-08-06
+* %date-modified --> 2023-08-07
 * %copyright-prior-years -->
 
 %%%
 
---{.modern}
-[[From [Page~ix of the original]{#page-ix}<n16> onwards.]]
+{+++
 --
+(From [Page~ix of the original]{#page-ix}<n16> onwards.)
+--
++++}
 
 #{.williams} %title
 
@@ -299,9 +301,11 @@ There, are however actually fifty-three finials in the dialect, if we
 include the terminations in the fourth tone.
 --
 
---{.modern}
-[[Table covers [Page~xiv of the original]{#page-xiv}<n21> and [Page~xv of the original]{#page-xv}<n22>.]]
+{+++
 --
+(Table covers [Page~xiv of the original]{#page-xiv}<n21> and [Page~xv of the original]{#page-xv}<n22>.)
+--
++++}
 
 ||||{.wide}
 ''{.williams}
@@ -1327,11 +1331,11 @@ give more trouble, perhaps, than the others.
   _ch(')(i/)_, with a stronger breathing than those properly read _ch(i/)_ and
   _ch(')(i/)_.
 
-  <ins class="modern">
+  {+++
   --
   (Indeed modern Cantonese has merged the pairs:
   --
-  =={.modern}
+  ==
   - _ch_~[tɕ] and _ts_~[ts] (represented in Jyutping as z);
   - _ch(')_~[tɕʰ] and _ts(')_~[tsʰ] (represented in Jyutping as c); and
   - _sh_~[ɕ] and _s_~[s] (represented in Jyutping as s).
@@ -1393,7 +1397,7 @@ give more trouble, perhaps, than the others.
   --
   Here endeth the rant.)
   --
-  </ins>
+  +++}
 
 - 4. The people along the coast and south of Canton [[廣州]] often alter the
   initial _f_ [[f]] into _h_ [[h]] or _w_ [[w]] in some words, and retain it in others; it
@@ -2104,9 +2108,11 @@ will gradually become easy; if the student does not learn them in
 this way, no rules can help him.
 --
 
---{.modern}
-[[[Page~xxxiii of the original]{#page-xxxiii}<n40> here]]
+{+++
 --
+([Page~xxxiii of the original]{#page-xxxiii}<n40> here)
+--
++++}
 
 
 ##{#plan .williams} 3. Plan of this Dictionary.

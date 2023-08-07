@@ -59,13 +59,13 @@ footer.modern {
 }
 
 
-h1 + h2 {
+h1 + h2, ins + h2 {
   margin-top: 1em;
 }
 
 h2 {
   border-bottom: 1px solid black;
-  margin-top: 2em;
+  margin-top: 1.3em;
   padding-bottom: 0.2em;
 }
 h2.modern {
