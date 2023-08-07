@@ -510,7 +510,8 @@ W
   ====
 C
     ==
-    - 四呀錢: The "ten" sense would never actually appear in writing as 呀;
+    - Williams' 四呀錢:
+      The "ten" sense would never actually appear in writing as 呀;
       it would still be spelt 十,
       with the pronunciation being a matter of preference.
     ==
