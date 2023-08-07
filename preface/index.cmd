@@ -5,14 +5,16 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Preface.
-* %date-modified --> 2023-08-02
+* %date-modified --> 2023-08-07
 * %copyright-prior-years -->
 
 %%%
 
---{.modern}
-[[From [Page~v of the original]{#page-v}<n12> onwards.]]
+{+++
 --
+(From [Page~v of the original]{#page-v}<n12> onwards.)
+--
++++}
 
 #{.williams} %title
 
