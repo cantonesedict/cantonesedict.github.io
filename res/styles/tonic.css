@@ -42,6 +42,9 @@ dl {
   margin-left: 1em;
   margin-right: 1em;
 }
+dl + h2 {
+  margin-top: 1.7em;
+}
 
 
 dt {
@@ -58,14 +61,8 @@ footer.modern {
   border-top: 2px solid var(--modern-colour);
 }
 
-
-h1 + h2, ins + h2 {
-  margin-top: 1em;
-}
-
 h2 {
   border-bottom: 1px solid black;
-  margin-top: 1.3em;
   padding-bottom: 0.2em;
 }
 h2.modern {
