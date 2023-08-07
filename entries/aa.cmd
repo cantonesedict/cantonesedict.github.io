@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2023-08-06
+* %date-modified --> 2023-08-07
 * %copyright-prior-years -->
 
 %%%
@@ -24,23 +24,19 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 $$
 WH
-  ,
     ==
     - (A/). [[Page~1|n44]]
     ==
 WP
-  ,
     ==
     - (A/) <span class="modern">= [aː]</span>
     ==
 MP
-  ,
-    =={.modern}
+    ==
     - aa = [aː]
     ==
 S
-  ,
-    =={.modern}
+    ==
     - $ngaa
     ==
 $$
@@ -60,9 +56,9 @@ _ngat_ [[ngat]].
 
 $$
 U
-  , [[U+4E2B]]
+    U+4E2B
 W
-  , [[Page~1|n44]] <br>
+    [[Page~1|n44]] <br>
     ==
     - A fork, a crotch;
     - the parting of two branches, fingers, or tines;
@@ -86,8 +82,7 @@ W
         meeting of three ways, a trivium.
     ==
 C
-  ,
-    =={.modern}
+    ==
     - 丫頭, 丫鬟: Yes, people kept slaves in the 19th century.
     - 丫頭, 丫鬟, 丫角髻: From the double-bun hairstyle.
     - 三丫路: Now rarely heard; 三叉路 is more common.
@@ -98,13 +93,12 @@ $$
 
 $$
 U
-  , [[U+5416]]
+    U+5416
 A
-  , [[$呀1; $啊1]]
+    [[$呀1; $啊1]]
 V
-  , [[a1: shorter syllable]]
+    [[a1: shorter syllable]]
 W
-  ,
     [[Page~1|n44]] <br>
     A colloquial word.
     ==
@@ -128,8 +122,7 @@ W
         no, this is the way to do it.
     ==
 C
-  ,
-    =={.modern}
+    ==
     - 好吖: "OK" (as an active, enthusiastic endorsement).
     - 吖喂: A polite "oi!" to get someone's attention at the end of a sentence.
       Not sure if these were the characters intended by Williams' "poor, necessitous".
@@ -141,13 +134,12 @@ $$
 
 $$
 U
-  , [[U+5440]]
+    U+5440
 A
-  , [[$吖1; $啊1]]
+    [[$吖1; $啊1]]
 V
-  , [[a1: shorter syllable]]
+    [[a1: shorter syllable]]
 W
-  ,
     [[Page~1|n44]] <br>
     A colloquial word.
     ==
@@ -156,8 +148,7 @@ W
     ==
     Read _(4)ng(a/)_ [[ngaa4]]: [[see $呀ngaa4]].
 S
-  ,
-    =={.modern}
+    ==
     - $呀aa3
     - $呀aa4
     - $呀aa6
@@ -169,21 +160,19 @@ $$
 
 $$
 U
-  , [[U+554A]]
+    U+554A
 A
-  , [[$吖1; $呀1]]
+    [[$吖1; $呀1]]
 V
-  , [[a1: shorter syllable]]
+    [[a1: shorter syllable]]
 W
-  , [[Not present]]
+    [[Not present]]
 C
-  ,
-    =={.modern}
+    ==
     - 【啊】 An unpopular alternative character for $吖aa1 or $呀aa1.
     ==
 S
-  ,
-    =={.modern}
+    ==
     - $啊aa3
     ==
 $$
@@ -192,9 +181,8 @@ $$
 
 $$
 U
-  , [[U+9D09]]
+    U+9D09
 W
-  ,
     [[Page~1|n44]] <br>
     ==
     - A raven with a white streak on its breast;
@@ -209,8 +197,7 @@ W
         opium.
     ==
 C
-  ,
-    =={.modern}
+    ==
     - 鴉片坭: Dated; opium is now simply called 鴉片.
     ==
 $$
@@ -222,11 +209,10 @@ $$
 
 $$
 U
-  , [[U+555E]]
+    U+555E
 A
-  , $瘂2
+    $瘂2
 W
-  ,
     [[Page~1|n44]] <br>
     ==
     - The confused noise of children studying;
@@ -241,8 +227,7 @@ W
     ==
     Also read _ak(7)_ [[ak1]]; [[see $啞ak1]].
 S
-  ,
-    =={.modern}
+    ==
     - $啞ak1
     ==
 $$
@@ -251,11 +236,10 @@ $$
 
 $$
 U
-  , [[U+7602]]
+    U+7602
 A
-  , $啞2
+    $啞2
 W
-  ,
     [[Page~1|n44]] <br>
     ==
     - Dumb, unable to speak;
@@ -285,13 +269,12 @@ $$
 
 $$
 U
-  , [[U+4E9E]]
+    U+4E9E
 A
-  , $阿3
+    $阿3
 V
-  , [[a3: shorter syllable]]
+    [[a3: shorter syllable]]
 W
-  ,
     [[Page~2]] <br>
     ==
     - Hunchbacked;
@@ -303,8 +286,7 @@ W
         not inferior to others.
     ==
 C
-  ,
-    =={.modern}
+    ==
     - Williams does not provide separate entries for 亞 and $阿3,
       but notes that $阿3 is "often used" for the name prefix sense.
       I have split things up accordingly.
@@ -315,13 +297,12 @@ $$
 
 $$
 U
-  , [[U+5440]]
+    U+5440
 A
-  , [[$啊3]]
+    [[$啊3]]
 V
-  , [[a3: shorter syllable]]
+    [[a3: shorter syllable]]
 W
-  ,
     [[Page~1|n44]] <br>
     A colloquial word.
     ==
@@ -332,8 +313,7 @@ W
     ==
     Also spoken _(a/)(6)_ [[aa6]]; [[see $呀aa6]].
 S
-  ,
-    =={.modern}
+    ==
     - $呀aa1
     - $呀aa4
     - $呀aa6
@@ -345,21 +325,19 @@ $$
 
 $$
 U
-  , [[U+554A]]
+    U+554A
 A
-  , [[$呀3]]
+    [[$呀3]]
 V
-  , [[a3: shorter syllable]]
+    [[a3: shorter syllable]]
 W
-  , [[Not present]]
+    [[Not present]]
 C
-  ,
-    =={.modern}
+    ==
     - [Jyutping suggests using 啊 as the canonical character for aa3.]
     ==
 S
-  ,
-    =={.modern}
+    ==
     - $啊aa1
     ==
 $$
@@ -368,9 +346,8 @@ $$
 
 $$
 U
-  , [[U+5A6D]]
+    U+5A6D
 W
-  ,
     [[Page~2]] <br>
     ==
     - Brothers-in-law;
@@ -387,11 +364,10 @@ $$
 
 $$
 U
-  , [[U+963F]]
+    U+963F
 A
-  , $亞3
+    $亞3
 W
-  ,
     [[Page~2]] <br>
     ==
     - [[see $亞3 for the "second/inferior" senses]]
@@ -418,8 +394,7 @@ W
         boy, you lad;
     ==
 C
-  ,
-    =={.modern}
+    ==
     - Williams does not provide separate entries for $亞3 and 阿.
       I have split things up accordingly.
     - aa3 bei6: Not sure what characters are meant by "a silly fellow".
@@ -433,20 +408,18 @@ $$
 
 $$
 U
-  , [[U+5440]]
+    U+5440
 V
-  , [[a4: shorter syllable]]
+    [[a4: shorter syllable]]
 W
-  , [[Not present]]
+    [[Not present]]
 C
-  ,
-    =={.modern}
+    ==
     - 【呀】 A final particle of surprise, suspicion, disappointment, etc.
     - [Jyutping suggests using 呀 as the canonical character for aa4.]
     ==
 S
-  ,
-    =={.modern}
+    ==
     - $呀aa1
     - $呀aa3
     - $呀aa6
@@ -461,11 +434,10 @@ $$
 
 $$
 U
-  , [[U+5440]]
+    U+5440
 V
-  , [[a6: shorter syllable for elided "ten" sense]]
+    [[a6: shorter syllable for elided "ten" sense]]
 W
-  ,
     [[Page~1|n44, within the entry for 呀 _(a/)(3)_ (aa3)]] <br>
     A colloquial word. [[...]]
     ==
@@ -479,15 +451,13 @@ W
         forty cash.
     ==
 C
-  ,
-    =={.modern}
+    ==
     - 四呀錢: The "ten" sense would never actually appear in writing as 呀;
       it would still be spelt 十,
       the pronunciation being a matter of preference.
     ==
 S
-  ,
-    =={.modern}
+    ==
     - $呀aa1
     - $呀aa3
     - $呀aa4

@@ -25,14 +25,23 @@ RegexDictionaryReplacement: #heading-permalinks
 
 RegexDictionaryReplacement: #.syntax.entry-key-abbreviations
 * ^WH$ --> ; Williams (1856) headings
+                ,{.williams}
 * ^WP$ --> ; Williams (1856) pronunciation
+                ,{.williams}
 * ^MP$ --> ; Modern pronunciation
+                ,{.modern}
 * ^U$ --> ; Unicode code point
+                ,{.modern}
 * ^A$ --> ; Alternative forms
+                ,{.williams}
 * ^V$ --> ; Reading variations
+                ,{.modern}
 * ^W$ --> ; Williams (1856) entry
+                ,{.williams}
 * ^C$ --> ; Conway's commentary
+                ,{.modern}
 * ^S$ --> ; See also
+                ,{.modern}
 
 
 RegexDictionaryReplacement: #.syntax.mark-entry-keys-for-preceding-value
@@ -54,7 +63,7 @@ PartitioningReplacement: #.syntax.entry-keys
 
 PartitioningReplacement: #.syntax.entry-values
 - starting_pattern: [,]
-- attribute_specifications: .williams
+- attribute_specifications: EMPTY
 - content_replacements: #trim-whitespace
 - ending_pattern: [;,]
 - tag_name: dd
