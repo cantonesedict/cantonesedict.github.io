@@ -85,9 +85,9 @@ W
   ====
 C
     ==
-    - 丫頭, 丫鬟: Yes, people kept slaves in the 19th century.
-    - 丫頭, 丫鬟, 丫角髻: From the double-bun hairstyle.
-    - 三丫路: Now rarely heard; 三叉路 is more common.
+    - Williams' 丫頭, 丫鬟: Yes, people kept slaves in the 19th century.
+    - Williams' 丫頭, 丫鬟, 丫角髻: From the double-bun hairstyle.
+    - Williams' 三丫路: Now rarely heard; 三叉路 is more common.
     ==
 $$
 
@@ -131,11 +131,23 @@ W
         [[gam2 zou6 aa1 噉做吖]],
         no, this is the way to do it.
     ==
+  - [[Page~1|n44, 呀; here normalised to 吖]]
+    --
+    A colloquial word.
+    --
+    ==
+    - An interjection used in answers, denoting surprise or alarm;
+    - alas! dreadful.
+    ==
   ====
 C
     ==
-    - 好吖: "OK" (as an active, enthusiastic endorsement).
-    - [Jyutping suggests using 吖 as the canonical character for aa1.]
+    - Williams' 好吖: "OK" (as an active, enthusiastic endorsement).
+    - Williams' aa1 wai3: not sure what he means by "poor, necessitous".
+    - 【吖嘛】 (a1 maa3)
+      A final particle for pointing something out.
+      Cantonese "X 吖嘛" is like English "but X" ending on a falling intonation.
+    - [Jyutping.org suggests using 吖 as the canonical character for aa1.]
     ==
 $$
 
@@ -144,21 +156,17 @@ $$
 $$
 U
     U+5440
-A
-    ==
-    -{.modern} $吖1
-    -{.modern} $啊1
-    ==
-V
-    [[a1: shorter syllable]]
 W
-    [[Page~1|n44]] <br>
-    A colloquial word.
-    ==
-    - An interjection used in answers, denoting surprise or alarm;
-    - alas! dreadful.
-    ==
-    Read _(4)ng(a/)_ [[ngaa4]]: [[see $呀ngaa4]].
+  ====
+  - [[Page~1|n44, 呀]]
+    --
+    A colloquial word
+    [[here normalised to 吖; **see $吖aa1 for the canonical entry**]].
+    --
+    --
+    Read _(4)ng(a/)_ [[ngaa4]]: [[**see $呀ngaa4**]].
+    --
+  ====
 S
     ==
     - $呀aa3

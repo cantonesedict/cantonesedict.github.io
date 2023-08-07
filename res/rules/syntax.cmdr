@@ -137,7 +137,7 @@ RegexDictionaryReplacement: #.syntax.link-abbreviations
 * < (?P<page_slug> [n]? [0-9]+ ) >
     -->
   (https://archive.org/details/williams-a-tonic-dictionary-of-the-chinese-language-in-the-canton-dialect-1856/page/\g<page_slug>/mode/1up)
-* \[ Jyutping [ ] suggests .* \]
+* \[ Jyutping[.]org [ ] suggests .* \]
     -->
   \g<0>(https://jyutping.org/blog/particles/)
 
