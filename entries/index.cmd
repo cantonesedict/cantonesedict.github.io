@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of entries by Jyutping slug
-* %date-modified --> 2023-08-06
+* %date-modified --> 2023-08-07
 * %copyright-prior-years -->
 
 OrdinaryDictionaryReplacement: #.no-black-serif-note
@@ -49,7 +49,7 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 ##{#A .modern} A
 
 <nav>
-==
+=={.modern}
 - $aa (work in progress)
 - $aai (work in progress)
 - $aak (work in progress)
@@ -73,7 +73,7 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 ##{#B .modern} B
 
 <nav>
-==
+=={.modern}
 - $baa (work in progress)
 - $baai (work in progress)
 - $baak (work in progress)
@@ -114,7 +114,7 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 ##{#C .modern} C
 
 <nav>
-==
+=={.modern}
 - $caa (work in progress)
 - $caai (work in progress)
 - $caak (work in progress)
@@ -164,7 +164,7 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 ##{#D .modern} D
 
 <nav>
-==
+=={.modern}
 - $daa (work in progress)
 - $daai (work in progress)
 - $daam (work in progress)
@@ -213,7 +213,7 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 ##{#E .modern} E
 
 <nav>
-==
+=={.modern}
 - $e (work in progress)
 ==
 </nav>
@@ -222,7 +222,7 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 ##{#F .modern} F
 
 <nav>
-==
+=={.modern}
 - $faa (work in progress)
 - $faai (work in progress)
 - $faak (work in progress)
@@ -253,7 +253,7 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 ##{#G .modern} G
 
 <nav>
-==
+=={.modern}
 - $gaa (work in progress)
 - $gaai (work in progress)
 - $gaak (work in progress)
@@ -322,7 +322,7 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 ##{#H .modern} H
 
 <nav>
-==
+=={.modern}
 - $haa (work in progress)
 - $haai (work in progress)
 - $haak (work in progress)
@@ -370,7 +370,7 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 ##{#J .modern} J
 
 <nav>
-==
+=={.modern}
 - $jaa (work in progress)
 - $jaak (work in progress)
 - $jaang (work in progress)
@@ -405,7 +405,7 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 ##{#K .modern} K
 
 <nav>
-==
+=={.modern}
 - $kaa (work in progress)
 - $kaai (work in progress)
 - $kaan (work in progress)
@@ -456,7 +456,7 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 ##{#L .modern} L
 
 <nav>
-==
+=={.modern}
 - $laa (work in progress)
 - $laai (work in progress)
 - $laak (work in progress)
@@ -508,7 +508,7 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 ##{#M .modern} M
 
 <nav>
-==
+=={.modern}
 - $m (work in progress)
 - $maa (work in progress)
 - $maai (work in progress)
@@ -548,7 +548,7 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 ##{#N .modern} N
 
 <nav>
-==
+=={.modern}
 - $naa (work in progress)
 - $naai (work in progress)
 - $naam (work in progress)
@@ -618,7 +618,7 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 ##{#O .modern} O
 
 <nav>
-==
+=={.modern}
 - $o (work in progress)
 - $oi (work in progress)
 - $ok (work in progress)
@@ -632,7 +632,7 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 ##{#P .modern} P
 
 <nav>
-==
+=={.modern}
 - $paa (work in progress)
 - $paai (work in progress)
 - $paak (work in progress)
@@ -669,7 +669,7 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 ##{#S .modern} S
 
 <nav>
-==
+=={.modern}
 - $saa (work in progress)
 - $saai (work in progress)
 - $saak (work in progress)
@@ -721,7 +721,7 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 ##{#T .modern} T
 
 <nav>
-==
+=={.modern}
 - $taa (work in progress)
 - $taai (work in progress)
 - $taam (work in progress)
@@ -762,7 +762,7 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 ##{#U .modern} U
 
 <nav>
-==
+=={.modern}
 - $uk (work in progress)
 - $ung (work in progress)
 ==
@@ -772,7 +772,7 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 ##{#W .modern} W
 
 <nav>
-==
+=={.modern}
 - $waa (work in progress)
 - $waai (work in progress)
 - $waak (work in progress)
@@ -800,7 +800,7 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 ##{#Z .modern} Z
 
 <nav>
-==
+=={.modern}
 - $zaa (work in progress)
 - $zaai (work in progress)
 - $zaak (work in progress)
