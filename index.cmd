@@ -95,7 +95,7 @@ The modernisation is a ongoing solo effort by Conway, consisting of:
 
 1. Collating the entries by Jyutping
    (noting that there are phonological differences between
-   the Ts'ing Dynasty Cantonese recorded by Williams
+   the Ts(')ing Dynasty Cantonese recorded by Williams
    and modern Hong Kong Cantonese);
 
 1. Under each Jyutping pronunciation, sorting the entries by Unicode code point;
