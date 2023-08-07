@@ -103,7 +103,7 @@ A
     ==
 V
     ==
-    -{.modern} a1: shorter syllable
+    -{.modern} a1 (shorter syllable)
     ==
 W
   ====
@@ -299,11 +299,16 @@ $$
 U
     U+4E9E
 A
-    $阿3
+    ==
+    - $阿3 [[not considered an alternative in modern usage]]
+    ==
 V
-    [[a3: shorter syllable]]
+    ==
+    -{.modern} a3 (shorter syllable)
+    ==
 W
-    [[Page~2]] <br>
+  ====
+  - [[Page~2, 亞/阿]]
     ==
     - Hunchbacked;
     - to esteem lightly, to regard as inferior;
@@ -313,6 +318,7 @@ W
         [[bat1 aa3 jyu1 jan4 不亞於人]],
         not inferior to others.
     ==
+  ====
 C
     ==
     - Williams does not provide separate entries for 亞 and $阿3,
@@ -326,20 +332,17 @@ $$
 $$
 U
     U+5440
-A
-    [[$啊3]]
-V
-    [[a3: shorter syllable]]
 W
-    [[Page~1|n44]] <br>
-    A colloquial word.
-    ==
-    - A final particle, adding intensity to the meaning;
-    - _(4)'m (2)h(o\) (a/)(3)_
-        [[m4 hou2 aa3 唔好呀]]
-        not at all good.
-    ==
-    Also spoken _(a/)(6)_ [[aa6]]; [[see $呀aa6]].
+  ====
+  - [[Page~1|n44, 呀]]
+    --
+    A colloquial word
+    [[here normalised to 啊; **see $啊aa3 for the canonical entry**]].
+    --
+    --
+    Also spoken _(a/)(6)_ [[aa6]]; [[**see $呀aa6**]].
+    --
+  ====
 S
     ==
     - $呀aa1
@@ -355,14 +358,26 @@ $$
 U
     U+554A
 A
-    [[$呀3]]
+    ==
+    -{.modern} $呀3
+    ==
 V
-    [[a3: shorter syllable]]
+    ==
+    -{.modern} a3 (shorter syllable)
+    ==
 W
-    [[Not present]]
+  ====
+  - [[Page~1|n44, 呀; here normalised to 啊]]
+    ==
+    - A final particle, adding intensity to the meaning;
+    - _(4)'m (2)h(o\) (a/)(3)_
+        [[m4 hou2 aa3 唔好啊]]
+        not at all good.
+    ==
+  ====
 C
     ==
-    - [Jyutping suggests using 啊 as the canonical character for aa3.]
+    - [Jyutping.org suggests using 啊 as the canonical character for aa3.]
     ==
 S
     ==
@@ -376,7 +391,8 @@ $$
 U
     U+5A6D
 W
-    [[Page~2]] <br>
+  ====
+  - [[Page~2, 婭]]
     ==
     - Brothers-in-law;
     - _(1)yan (a/)(3)_
@@ -386,6 +402,7 @@ W
         [[mou4 dik1 jan1 aa3 無滴姻婭]]
         I am not related to him at all.
     ==
+  ====
 $$
 
 ### 阿3 | _(a/)(3)_ [[aa3]]
@@ -394,9 +411,12 @@ $$
 U
     U+963F
 A
-    $亞3
+    ==
+    - $亞3 [[not considered an alternative in modern usage]]
+    ==
 W
-    [[Page~2]] <br>
+  ====
+  - [[Page~2, 亞/阿]]
     ==
     - [[see $亞3 for the "second/inferior" senses]]
     - a syllable prefixed to proper names,
@@ -409,7 +429,7 @@ W
         [[aa3 mat1 阿乜]]
         Mr.~So and So;
     - _(a/)(3) p(i/)(6)_
-        [[aa3 bei6]]
+        [[aa3 bei6 阿？]]
         a silly fellow;
       - _(a/)(3) (1)ch(')o_
         [[aa3 co1 阿初]],
@@ -421,11 +441,12 @@ W
         [[aa3 tai5 阿娣]],
         boy, you lad;
     ==
+  ====
 C
     ==
     - Williams does not provide separate entries for $亞3 and 阿.
       I have split things up accordingly.
-    - aa3 bei6: Not sure what characters are meant by "a silly fellow".
+    - Williams' aa3 bei6: Not sure which bei6 means "a silly fellow".
     ==
 $$
 
@@ -438,13 +459,16 @@ $$
 U
     U+5440
 V
-    [[a4: shorter syllable]]
+    ==
+    -{.modern} a4 (shorter syllable)
+    ==
 W
     [[Not present]]
 C
     ==
-    - 【呀】 A final particle of surprise, suspicion, disappointment, etc.
-    - [Jyutping suggests using 呀 as the canonical character for aa4.]
+    - 【呀】 (a4)
+      A final particle of surprise, suspicion, disappointment, etc.
+    - [Jyutping.org suggests using 呀 as the canonical character for aa4.]
     ==
 S
     ==
@@ -464,10 +488,15 @@ $$
 U
     U+5440
 V
-    [[a6: shorter syllable for elided "ten" sense]]
+    ==
+    -{.modern} a6 (shorter syllable for elided "ten" sense)
+    ==
 W
-    [[Page~1|n44, within the entry for 呀 _(a/)(3)_ (aa3)]] <br>
-    A colloquial word. [[...]]
+  ====
+  - [[Page~1|n44, 呀]]
+    --
+    A colloquial word [[...]] spoken _(a/)(6)_ [[aa6]];
+    --
     ==
     - ten, used after a higher number;
     - an answer, a word of reply like Aye!
@@ -478,11 +507,12 @@ W
         [[si3 aa6 cin4 / sei3 aa6 cin4 四呀錢]],
         forty cash.
     ==
+  ====
 C
     ==
     - 四呀錢: The "ten" sense would never actually appear in writing as 呀;
       it would still be spelt 十,
-      the pronunciation being a matter of preference.
+      with the pronunciation being a matter of preference.
     ==
 S
     ==
