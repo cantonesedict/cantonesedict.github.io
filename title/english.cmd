@@ -5,14 +5,16 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> English Title Page: A Tonic Dictionary of the Chinese Language in the Canton Dialect.
-* %date-modified --> 2023-08-02
+* %date-modified --> 2023-08-07
 * %copyright-prior-years -->
 
 %%%
 
---{.modern}
-[[From [the English title page of the original]<n10>.]]
+{+++
 --
+(From [the English title page of the original]<n10>.)
+--
++++}
 
 
 #{.williams} A Tonic Dictionary of the Chinese Language in the Canton Dialect.
@@ -20,9 +22,12 @@ OrdinaryDictionaryReplacement: #.properties-override
 --{.williams .title-information}
 _(1)Ying (4)W(a/) (1)Fan Wan[(6)] Ts(')(u")t(8) I(u/)(3)._
 --
-<ins class="modern">
+
+{+++
+--
 (Remarks:
-=={.modern}
+--
+==
 - This is the Williams romanisation of the Chinese title, 英華分韻撮要
   ying1 waa4 fan1 wan6 cyut3 yiu3.
 
@@ -30,9 +35,12 @@ _(1)Ying (4)W(a/) (1)Fan Wan[(6)] Ts(')(u")t(8) I(u/)(3)._
   The reading of 韻 in 陽去 (tone~6) is that according to the 分韻 itself,
   which has followed the expected reflex from Middle Chinese 王問切.
 
-- The reading preferred by most modern speakers is in 陽上 (tone~5).)
+- The reading of 韻 preferred by most modern speakers is in 陽上 (tone~5).
 ==
-</ins>
+--
+End of remarks.)
+--
++++}
 
 --{.williams .title-information}
 _By S.~Wells Williams._
@@ -47,7 +55,5 @@ __Canton:__ Printed at the Office of the Chinese Repository.
 --
 
 ||{.image-container s="margin: 2em 0"}
-  [![A scan of the English title page of the 1856 Tonic Dictionary.][scan]]<n10>
+  [![A scan of the English title page of the 1856 Tonic Dictionary.](english.png)]<n10>
 ||
-
-[scan]: english.png
