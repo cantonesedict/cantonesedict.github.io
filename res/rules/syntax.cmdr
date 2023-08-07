@@ -23,6 +23,16 @@ RegexDictionaryReplacement: #heading-permalinks
   \g<opening_hashes_etc> []{.permalink aria-label=Permalink}(#\g<id_>)
 
 
+FixedDelimitersReplacement: #.syntax.modern-insertion-block
+- queue_position: BEFORE #divisions
+- syntax_type: BLOCK
+- opening_delimiter: {+++
+- attribute_specifications: .modern
+- content_replacements: #prepend-newline
+- closing_delimiter: +++}
+- tag_name: ins
+
+
 RegexDictionaryReplacement: #.syntax.entry-key-abbreviations
 * ^WH$ --> ; Williams (1856) headings
                 ,{.williams}
@@ -95,16 +105,6 @@ RegexDictionaryReplacement: #.syntax.entry-links
 * [$] (?P<character> [^a-z] ) (?P<tone_number> [1-6]? )
     -->
   [\g<character>](#\g<tone_number>\g<character>)
-
-
-FixedDelimitersReplacement: #.syntax.modern-insertion-block
-- queue_position: BEFORE #divisions
-- syntax_type: BLOCK
-- opening_delimiter: {+++
-- attribute_specifications: .modern
-- content_replacements: #prepend-newline
-- closing_delimiter: +++}
-- tag_name: ins
 
 
 RegexDictionaryReplacement: #.syntax.round-bracket-wrap

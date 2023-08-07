@@ -36,6 +36,20 @@ body > nav li {
 }
 
 
+dd {
+  margin-left: 2em;
+}
+dd li p {
+  margin: 0.3em 0 0.15em;
+}
+dd > ul {
+  padding-left: 1em;
+}
+dd > ul > li > ul {
+  padding-left: 1.7em;
+}
+
+
 dl {
   border: 1px solid black;
   padding: 0.3em 0.5em;

@@ -58,7 +58,8 @@ $$
 U
     U+4E2B
 W
-    [[Page~1|n44]] <br>
+  ====
+  - [[Page~1|n44, 丫]]
     ==
     - A fork, a crotch;
     - the parting of two branches, fingers, or tines;
@@ -81,6 +82,7 @@ W
         [[saam1 aa1 lou6 三丫路]]
         meeting of three ways, a trivium.
     ==
+  ====
 C
     ==
     - 丫頭, 丫鬟: Yes, people kept slaves in the 19th century.
@@ -95,12 +97,20 @@ $$
 U
     U+5416
 A
-    [[$呀1; $啊1]]
+    ==
+    -{.modern} $呀1
+    -{.modern} $啊1
+    ==
 V
-    [[a1: shorter syllable]]
+    ==
+    -{.modern} a1: shorter syllable
+    ==
 W
-    [[Page~1|n44]] <br>
+  ====
+  - [[Page~1|n44, 吖]]
+    --
     A colloquial word.
+    --
     ==
     - An interrogative particle;
     - also one indicating that the affirmation is indisputable;
@@ -109,7 +119,7 @@ W
         [[hou2 aa1 好吖]]
         well, very well;
     - _(1)(a/) wai(3)_
-        [[aa1 wai3 吖喂]]
+        [[aa1 wai3 吖？]]
         poor, necessitous;
     - _(5)k(')(u") (2)k(o\)m w(a/)(6) (1)(a/)_
         [[keoi5 gam2 waa6 aa1 佢噉話吖]],
@@ -121,11 +131,10 @@ W
         [[gam2 zou6 aa1 噉做吖]],
         no, this is the way to do it.
     ==
+  ====
 C
     ==
     - 好吖: "OK" (as an active, enthusiastic endorsement).
-    - 吖喂: A polite "oi!" to get someone's attention at the end of a sentence.
-      Not sure if these were the characters intended by Williams' "poor, necessitous".
     - [Jyutping suggests using 吖 as the canonical character for aa1.]
     ==
 $$
@@ -136,7 +145,10 @@ $$
 U
     U+5440
 A
-    [[$吖1; $啊1]]
+    ==
+    -{.modern} $吖1
+    -{.modern} $啊1
+    ==
 V
     [[a1: shorter syllable]]
 W
