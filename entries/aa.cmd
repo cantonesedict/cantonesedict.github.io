@@ -181,15 +181,11 @@ $$
 $$
 U
     U+554A
-A
-    [[$吖1; $呀1]]
-V
-    [[a1: shorter syllable]]
 W
     [[Not present]]
 C
     ==
-    - 【啊】 An unpopular alternative character for $吖aa1 or $呀aa1.
+    - Here normalised to 吖; **see $吖aa1 for the canonical entry**.
     ==
 S
     ==
