@@ -1771,7 +1771,7 @@ applied in western languages; they probably more nearly resemble
 the sound of notes in music. The note _G_ on a violin, an organ, or
 a bagpipe, strikes the ear very differently, like the voices of a child
 or man; the note is alike on the gamut, and it chords on all those
-instruments; but let _G_~sharp he struck on one of them, and we feel
+instruments; but let _G_~sharp be struck on one of them, and we feel
 the discord, it is not the note at all. So in respect to Chinese
 _shing_; if the right _shing_ be not spoken, the right word is not spoken,
 [[[Page~xxviii of the original]{#page-xxviii}<n35> here]]
