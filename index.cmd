@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Home
-* %date-modified --> 2023-08-06
+* %date-modified --> 2023-08-08
 * %copyright-prior-years -->
 * %modern-colour --> crimson
 
@@ -17,14 +17,6 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 
 #{.modern} Cantonese Dictionary
 
-<nav class="sideways">
-=={.modern}
-- [Source](#source)
-- [Modernisation](#modernisation)
-- [Contents](#contents)
-==
-</nav>
-
 --{.modern}
 A modern edition of 《英華分韻撮要》
 [''A Tonic Dictionary of the Chinese Language in the Canton Dialect'' (1856)]<n2>
@@ -32,6 +24,14 @@ by [Samuel Wells Williams].
 --
 
 [Samuel Wells Williams]: https://en.wikipedia.org/wiki/Samuel_Wells_Williams
+
+<nav class="sideways">
+=={.modern}
+- [Source](#source)
+- [Modernisation](#modernisation)
+- [Contents](#contents)
+==
+</nav>
 
 
 ##{#source .modern} Source
