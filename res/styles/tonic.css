@@ -159,9 +159,6 @@ th, td {
   color: var(--modern-colour);
   font-family: var(--modern-font);
 }
-.modern + dl {
-  border: 1px solid var(--modern-colour);
-}
 
 .permalink {
   background-image: url(/res/styles/permalink.svg);
