@@ -59,7 +59,7 @@ U
     U+4E2B
 W
   ====
-  - [[Page~1|n44, 丫]]
+  - [[Page~1|n44 (1)丫]]
     ==
     - A fork, a crotch;
     - the parting of two branches, fingers, or tines;
@@ -107,7 +107,7 @@ V
     ==
 W
   ====
-  - [[Page~1|n44, 吖]]
+  - [[Page~1|n44 (1)吖]]
     --
     A colloquial word.
     --
@@ -158,7 +158,7 @@ U
     U+5440
 W
   ====
-  - [[Page~1|n44, 呀]]
+  - [[Page~1|n44 (1)呀]]
     --
     A colloquial word
     [[here normalised to 吖; **see $吖aa1 for the canonical entry**]].
@@ -200,7 +200,7 @@ U
     U+9D09
 W
   ====
-  - [[Page~1|n44, 鴉]]
+  - [[Page~1|n44 (1)鴉]]
     ==
     - A raven with a white streak on its breast;
     - _(5)l(o\) (1)(a/)_
@@ -234,7 +234,7 @@ A
     ==
 W
   ====
-  - [[Page~1|n44, 啞]]
+  - [[Page~1|n44 (2)啞]]
     ==
     - The confused noise of children studying;
     - dumb;
@@ -288,7 +288,7 @@ U
     U+7602
 W
   ====
-  - [[Page~1|n44, 瘂]]
+  - [[Page~1|n44 (2)瘂]]
     --
     [[Here normalised to 啞; **see $啞aa2 for the canonical entry**.]]
     --
@@ -313,7 +313,7 @@ V
     ==
 W
   ====
-  - [[Page~2, 亞/阿]]
+  - [[Page~2, 亞(3)阿(3)]]
     ==
     - Hunchbacked;
     - to esteem lightly, to regard as inferior;
@@ -339,7 +339,7 @@ U
     U+5440
 W
   ====
-  - [[Page~1|n44, 呀]]
+  - [[Page~1|n44, 呀(3)]]
     --
     A colloquial word
     [[here normalised to 啊; **see $啊aa3 for the canonical entry**]].
@@ -372,7 +372,7 @@ V
     ==
 W
   ====
-  - [[Page~1|n44, 呀; here normalised to 啊]]
+  - [[Page~1|n44, 呀(3); here normalised to 啊]]
     ==
     - A final particle, adding intensity to the meaning;
     - _(4)'m (2)h(o\) (a/)(3)_
@@ -398,7 +398,7 @@ U
     U+5A6D
 W
   ====
-  - [[Page~2, 婭]]
+  - [[Page~2, 婭(3)]]
     ==
     - Brothers-in-law;
     - _(1)yan (a/)(3)_
@@ -422,7 +422,7 @@ A
     ==
 W
   ====
-  - [[Page~2, 亞/阿]]
+  - [[Page~2, 亞(3)阿(3)]]
     ==
     - [[see $亞3 for the "second/inferior" senses]]
     - a syllable prefixed to proper names,
@@ -499,9 +499,15 @@ V
     ==
 W
   ====
-  - [[Page~1|n44, 呀]]
+  - [[Page~1|n44, 呀(3)]]
     --
-    A colloquial word [[...]] spoken _(a/)(6)_ [[aa6]];
+    A colloquial word.
+    --
+    --
+    [[...]]
+    --
+    --
+    Also spoken _(a/)(6)_ [[aa6]];
     --
     ==
     - ten, used after a higher number;
