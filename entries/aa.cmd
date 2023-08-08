@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2023-08-07
+* %date-modified --> 2023-08-08
 * %copyright-prior-years -->
 
 %%%
@@ -239,8 +239,8 @@ W
     - The confused noise of children studying;
     - dumb;
     - to keep silent, for which the next [[$瘂2]] is used;
-    - _(2)(a/) mai(6)_
-        [[aa2 mai6 啞謎]]
+    - _(2)(a/) [(4)]mai_
+        [[aa2 mai4 啞謎]]
         an enigma;
     - _(4)ts(')ing (4)n(a/)n (2)(a/) (2)yan_
         [[cing4 naan4 aa2 jan2 情難啞忍]],
@@ -270,6 +270,11 @@ W
         the sound is indistinct.
     ==
   ====
+C
+    ==
+    - Williams' 啞謎:
+      Changed Middle Chinese _mai(6)_ [[mai6]] to common reading _(4)mai_ [[mai4]].
+    ==
 S
     ==
     - $啞ak1
