@@ -24,21 +24,21 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 $$
 WH
-    ==
-    - Ai. [[Page~2]]
-    ==
+  ==
+  - Ai. [[Page~2]]
+  ==
 WP
-    ==
-    - Ai <span class="modern">= [ɐi]</span>
-    ==
+  ==
+  - Ai <span class="modern">= [ɐi]</span>
+  ==
 MP
-    ==
-    - ai = [ɐi]
-    ==
+  ==
+  - ai = [ɐi]
+  ==
 S
-    ==
-    - $ngai
-    ==
+  ==
+  - $ngai
+  ==
 $$
 
 
@@ -56,16 +56,16 @@ $$
 
 $$
 U
-    U+54CE
+  U+54CE
 A
-    ==
-    - 𫫃 [[⿰口挨]]
-    -{.modern} 唉
-    ==
+  ==
+  - 𫫃 [[⿰口挨]]
+  -{.modern} 唉
+  ==
 V
-    ==
-    -{.modern} aai1 (longer syllable for particle sense)
-    ==
+  ==
+  -{.modern} aai1 (longer syllable for particle sense)
+  ==
 W
   ====
   - [[Page~2 (1)𫫃 (⿰口挨)]]
@@ -84,10 +84,10 @@ W
     ==
   ====
 C
-    ==
-    - 哎求你: Corrected _(1)k(')au_ [[kau1]] to _(4)k(')au_ [[kau4]].
-    - [Jyutping.org suggests using 哎 as the canonical character for ai1 or aai1.]
-    ==
+  ==
+  - 哎求你: Corrected _(1)k(')au_ [[kau1]] to _(4)k(')au_ [[kau4]].
+  - [Jyutping.org suggests using 哎 as the canonical character for ai1 or aai1.]
+  ==
 $$
 
 
@@ -105,7 +105,7 @@ $$
 
 $$
 U
-    U+77EE
+  U+77EE
 W
   ====
   - [[Page~2 (2)矮]]
@@ -124,9 +124,9 @@ W
     ==
   ====
 C
-    ==
-    - 畀張矮凳仔你坐: Corrected _tso(6)_ [[zo6 去聲]] to _(5)ts(')o_ [[co5 上聲]].
-    ==
+  ==
+  - 畀張矮凳仔你坐: Corrected _tso(6)_ [[zo6 去聲]] to _(5)ts(')o_ [[co5 上聲]].
+  ==
 $$
 
 
@@ -148,11 +148,11 @@ $$
 
 $$
 U
-    U+5C6D
+  U+5C6D
 V
-    ==
-    -{.modern} hei3 (for literary senses)
-    ==
+  ==
+  -{.modern} hei3 (for literary senses)
+  ==
 W
   ====
   - [[Page~2 屭(3)]]
@@ -170,21 +170,21 @@ W
     ==
   ====
 C
-    ==
-    - The expected Cantonese reflex is hei3 from the olden rime books
-      (which have 虛器切 and 許意切).
-    ==
+  ==
+  - The expected Cantonese reflex is hei3 from the olden rime books
+    (which have 虛器切 and 許意切).
+  ==
 S
-    =={.modern}
-    - $屭hei3
-    ==
+  =={.modern}
+  - $屭hei3
+  ==
 $$
 
 ### 曀3 | _ai(3)_ [[ai3]]
 
 $$
 U
-    U+66C0
+  U+66C0
 W
   ====
   - [[Page~2 曀(3)]]
@@ -199,7 +199,7 @@ $$
 
 $$
 U
-    U+7E0A
+  U+7E0A
 W
   ====
   - [[Page~2 縊(3)]]
@@ -220,7 +220,7 @@ $$
 
 $$
 U
-    U+7FF3
+  U+7FF3
 W
   ====
   - [[Page~2 翳(3)]]
@@ -265,7 +265,7 @@ $$
 
 $$
 U
-    U+26809
+  U+26809
 W
   ====
   - [[Page~2 𦠉(3) (⿰⺼壹)]]
