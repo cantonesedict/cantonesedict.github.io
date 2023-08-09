@@ -7,6 +7,32 @@ Automatically update CMD files.
 """
 
 import os
+import re
+
+
+def gather_toned_syllables(cmd_content):
+    return [
+        match.group('syllable')
+        for match in re.finditer(
+            pattern=r'^\#\# \{ \#(?P<tone> [1-6] ) .* \[\[ (?P<syllable> [a-z]+(?P=tone) ) .* \]\]$',
+            string=cmd_content,
+            flags=re.MULTILINE | re.VERBOSE,
+        )
+    ]
+
+
+def update_entry(entry_cmd_name):
+    with open(entry_cmd_name, 'r', encoding='utf-8') as old_cmd_file:
+        old_cmd_content = old_cmd_file.read()
+
+    toned_syllables = gather_toned_syllables(old_cmd_content)
+    if toned_syllables:
+        print(toned_syllables)
+
+
+def update_entries(entry_cmd_names):
+    for entry_cmd_name in entry_cmd_names:
+        update_entry(entry_cmd_name)
 
 
 def gather_entry_cmd_names():
@@ -20,6 +46,7 @@ def gather_entry_cmd_names():
 
 def main():
     entry_cmd_names = gather_entry_cmd_names()
+    update_entries(entry_cmd_names)
 
 
 if __name__ == '__main__':
