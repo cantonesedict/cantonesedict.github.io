@@ -46,6 +46,26 @@ def check_gathered_syllables(entry_cmd_name, tone_syllable_list):
         sys.exit(1)
 
 
+def update_tones_navigation(cmd_content, tone_syllable_list):
+    return re.sub(
+        pattern=r'(?<=<## tones ##>\n).*?(?=<## /tones ##>\n)',
+        repl=tones_navigation_cmd_content(tone_syllable_list),
+        string=cmd_content,
+        flags=re.DOTALL | re.MULTILINE,
+    )
+
+
+def tones_navigation_cmd_content(tone_syllable_list):
+    return '\n'.join([
+        '<nav class="sideways">',
+        '=={.modern}',
+        *[f'- [{syllable}{tone}](#{tone})' for tone, syllable in tone_syllable_list],
+        '==',
+        '</nav>',
+        '',
+    ])
+
+
 def update_entry(entry_cmd_name):
     with open(entry_cmd_name, 'r', encoding='utf-8') as old_cmd_file:
         old_cmd_content = old_cmd_file.read()
@@ -53,8 +73,14 @@ def update_entry(entry_cmd_name):
     tone_syllable_list = gather_tone_syllable_list(old_cmd_content)
     check_gathered_syllables(entry_cmd_name, tone_syllable_list)
     toned_characters_from_tone = gather_toned_characters_from_tone(old_cmd_content, tone_syllable_list)
-    if toned_characters_from_tone:
-        print(toned_characters_from_tone)
+
+    new_cmd_content = update_tones_navigation(old_cmd_content, tone_syllable_list)
+
+    if new_cmd_content == old_cmd_content:
+        return
+
+    with open(entry_cmd_name, 'w', encoding='utf-8') as new_cmd_file:
+        new_cmd_file.write(new_cmd_content)
 
 
 def update_entries(entry_cmd_names):
