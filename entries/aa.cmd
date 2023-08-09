@@ -26,21 +26,21 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 $$
 WH
-    ==
-    - (A/). [[Page~1|n44]]
-    ==
+  ==
+  - (A/). [[Page~1|n44]]
+  ==
 WP
-    ==
-    - (A/) <span class="modern">= [aː]</span>
-    ==
+  ==
+  - (A/) <span class="modern">= [aː]</span>
+  ==
 MP
-    ==
-    - aa = [aː]
-    ==
+  ==
+  - aa = [aː]
+  ==
 S
-    ==
-    - $ngaa
-    ==
+  ==
+  - $ngaa
+  ==
 $$
 
 --{.williams}
@@ -70,7 +70,7 @@ _ngat_ [[ngat]].
 
 $$
 U
-    U+4E2B
+  U+4E2B
 W
   ====
   - [[Page~1|n44 (1)丫]]
@@ -98,27 +98,27 @@ W
     ==
   ====
 C
-    ==
-    - Williams' 丫頭, 丫鬟: Yes, people kept slaves in the 19th century.
-    - Williams' 丫頭, 丫鬟, 丫角髻: From the double-bun hairstyle.
-    - Williams' 三丫路: Now rarely heard; 三叉路 is more common.
-    ==
+  ==
+  - Williams' 丫頭, 丫鬟: Yes, people kept slaves in the 19th century.
+  - Williams' 丫頭, 丫鬟, 丫角髻: From the double-bun hairstyle.
+  - Williams' 三丫路: Now rarely heard; 三叉路 is more common.
+  ==
 $$
 
 ### 吖1 | _(1)(a/)_ [[aa1]]
 
 $$
 U
-    U+5416
+  U+5416
 A
-    ==
-    -{.modern} $呀1
-    -{.modern} $啊1
-    ==
+  ==
+  -{.modern} $呀1
+  -{.modern} $啊1
+  ==
 V
-    ==
-    -{.modern} a1 (shorter syllable)
-    ==
+  ==
+  -{.modern} a1 (shorter syllable)
+  ==
 W
   ====
   - [[Page~1|n44 (1)吖]]
@@ -155,21 +155,21 @@ W
     ==
   ====
 C
-    ==
-    - Williams' 好吖: "OK" (as an active, enthusiastic endorsement).
-    - Williams' aa1 wai3: not sure what he means by "poor, necessitous".
-    - 【吖嘛】 (a1 maa3)
-      A final particle for pointing something out.
-      Cantonese "X 吖嘛" is like English "but X" ending on a falling intonation.
-    - [Jyutping.org suggests using 吖 as the canonical character for aa1.]
-    ==
+  ==
+  - Williams' 好吖: "OK" (as an active, enthusiastic endorsement).
+  - Williams' aa1 wai3: not sure what he means by "poor, necessitous".
+  - 【吖嘛】 (a1 maa3)
+    A final particle for pointing something out.
+    Cantonese "X 吖嘛" is like English "but X" ending on a falling intonation.
+  - [Jyutping.org suggests using 吖 as the canonical character for aa1.]
+  ==
 $$
 
 ### 呀1 | _(1)(a/)_ [[aa1]]
 
 $$
 U
-    U+5440
+  U+5440
 W
   ====
   - [[Page~1|n44 (1)呀]]
@@ -182,36 +182,36 @@ W
     --
   ====
 S
-    ==
-    - $呀aa3
-    - $呀aa4
-    - $呀aa6
-    - $呀ngaa4
-    ==
+  ==
+  - $呀aa3
+  - $呀aa4
+  - $呀aa6
+  - $呀ngaa4
+  ==
 $$
 
 ###+ 啊1 | _(1)(a/)_ [[aa1]]
 
 $$
 U
-    U+554A
+  U+554A
 W
-    [[Not present]]
+  [[Not present]]
 C
-    ==
-    - Here normalised to 吖; **see $吖aa1 for the canonical entry**.
-    ==
+  ==
+  - Here normalised to 吖; **see $吖aa1 for the canonical entry**.
+  ==
 S
-    ==
-    - $啊aa3
-    ==
+  ==
+  - $啊aa3
+  ==
 $$
 
 ### 鴉1 | _(1)(a/)_ [[aa1]]
 
 $$
 U
-    U+9D09
+  U+9D09
 W
   ====
   - [[Page~1|n44 (1)鴉]]
@@ -229,9 +229,9 @@ W
     ==
   ====
 C
-    ==
-    - Williams' 鴉片坭: Dated; opium is now simply called 鴉片.
-    ==
+  ==
+  - Williams' 鴉片坭: Dated; opium is now simply called 鴉片.
+  ==
 $$
 
 
@@ -250,11 +250,11 @@ $$
 
 $$
 U
-    U+555E
+  U+555E
 A
-    ==
-    - $瘂2
-    ==
+  ==
+  - $瘂2
+  ==
 W
   ====
   - [[Page~1|n44 (2)啞]]
@@ -294,21 +294,21 @@ W
     ==
   ====
 C
-    ==
-    - Williams' 啞謎:
-      Changed Middle Chinese _mai(6)_ [[mai6]] to common reading _(4)mai_ [[mai4]].
-    ==
+  ==
+  - Williams' 啞謎:
+    Changed Middle Chinese _mai(6)_ [[mai6]] to common reading _(4)mai_ [[mai4]].
+  ==
 S
-    ==
-    - $啞ak1
-    ==
+  ==
+  - $啞ak1
+  ==
 $$
 
 ### 瘂2 | _(2)(a/)_ [[aa2]]
 
 $$
 U
-    U+7602
+  U+7602
 W
   ====
   - [[Page~1|n44 (2)瘂]]
@@ -337,15 +337,15 @@ $$
 
 $$
 U
-    U+4E9E
+  U+4E9E
 A
-    ==
-    - $阿3 [[not considered an alternative in modern usage]]
-    ==
+  ==
+  - $阿3 [[not considered an alternative in modern usage]]
+  ==
 V
-    ==
-    -{.modern} a3 (shorter syllable)
-    ==
+  ==
+  -{.modern} a3 (shorter syllable)
+  ==
 W
   ====
   - [[Page~2, 亞(3)阿(3)]]
@@ -360,18 +360,18 @@ W
     ==
   ====
 C
-    ==
-    - Williams does not provide separate entries for 亞 and $阿3,
-      but notes that $阿3 is "often used" for the name prefix sense.
-      I have split things up accordingly.
-    ==
+  ==
+  - Williams does not provide separate entries for 亞 and $阿3,
+    but notes that $阿3 is "often used" for the name prefix sense.
+    I have split things up accordingly.
+  ==
 $$
 
 ### 呀3 | _(a/)(3)_ [[aa3]]
 
 $$
 U
-    U+5440
+  U+5440
 W
   ====
   - [[Page~1|n44, 呀(3)]]
@@ -384,27 +384,27 @@ W
     --
   ====
 S
-    ==
-    - $呀aa1
-    - $呀aa4
-    - $呀aa6
-    - $呀ngaa4
-    ==
+  ==
+  - $呀aa1
+  - $呀aa4
+  - $呀aa6
+  - $呀ngaa4
+  ==
 $$
 
 ###+ 啊3 | _(a/)(3)_ [[aa3]]
 
 $$
 U
-    U+554A
+  U+554A
 A
-    ==
-    -{.modern} $呀3
-    ==
+  ==
+  -{.modern} $呀3
+  ==
 V
-    ==
-    -{.modern} a3 (shorter syllable)
-    ==
+  ==
+  -{.modern} a3 (shorter syllable)
+  ==
 W
   ====
   - [[Page~1|n44, 呀(3); here normalised to 啊]]
@@ -416,21 +416,21 @@ W
     ==
   ====
 C
-    ==
-    - Williams' 唔好啊: Also an emphatic form of the imperative "don't".
-    - [Jyutping.org suggests using 啊 as the canonical character for aa3.]
-    ==
+  ==
+  - Williams' 唔好啊: Also an emphatic form of the imperative "don't".
+  - [Jyutping.org suggests using 啊 as the canonical character for aa3.]
+  ==
 S
-    ==
-    - $啊aa1
-    ==
+  ==
+  - $啊aa1
+  ==
 $$
 
 ### 婭3 | _(a/)(3)_ [[aa3]]
 
 $$
 U
-    U+5A6D
+  U+5A6D
 W
   ====
   - [[Page~2, 婭(3)]]
@@ -450,11 +450,11 @@ $$
 
 $$
 U
-    U+963F
+  U+963F
 A
-    ==
-    - $亞3 [[not considered an alternative in modern usage]]
-    ==
+  ==
+  - $亞3 [[not considered an alternative in modern usage]]
+  ==
 W
   ====
   - [[Page~2, 亞(3)阿(3)]]
@@ -484,11 +484,11 @@ W
     ==
   ====
 C
-    ==
-    - Williams does not provide separate entries for $亞3 and 阿.
-      I have split things up accordingly.
-    - Williams' aa3 bei6: Not sure which bei6 means "a silly fellow".
-    ==
+  ==
+  - Williams does not provide separate entries for $亞3 and 阿.
+    I have split things up accordingly.
+  - Williams' aa3 bei6: Not sure which bei6 means "a silly fellow".
+  ==
 $$
 
 
@@ -506,26 +506,26 @@ $$
 
 $$
 U
-    U+5440
+  U+5440
 V
-    ==
-    -{.modern} a4 (shorter syllable)
-    ==
+  ==
+  -{.modern} a4 (shorter syllable)
+  ==
 W
-    [[Not present]]
+  [[Not present]]
 C
-    ==
-    - 【呀】 (a4)
-      A final particle of surprise, suspicion, disappointment, etc.
-    - [Jyutping.org suggests using 呀 as the canonical character for aa4.]
-    ==
+  ==
+  - 【呀】 (a4)
+    A final particle of surprise, suspicion, disappointment, etc.
+  - [Jyutping.org suggests using 呀 as the canonical character for aa4.]
+  ==
 S
-    ==
-    - $呀aa1
-    - $呀aa3
-    - $呀aa6
-    - $呀ngaa4
-    ==
+  ==
+  - $呀aa1
+  - $呀aa3
+  - $呀aa6
+  - $呀ngaa4
+  ==
 $$
 
 
@@ -543,11 +543,11 @@ $$
 
 $$
 U
-    U+5440
+  U+5440
 V
-    ==
-    -{.modern} a6 (shorter syllable for elided "ten" sense)
-    ==
+  ==
+  -{.modern} a6 (shorter syllable for elided "ten" sense)
+  ==
 W
   ====
   - [[Page~1|n44, 呀(3)]]
@@ -572,17 +572,17 @@ W
     ==
   ====
 C
-    ==
-    - Williams' 四呀錢:
-      The "ten" sense would never actually appear in writing as 呀;
-      it would still be spelt 十,
-      with the pronunciation being a matter of preference.
-    ==
+  ==
+  - Williams' 四呀錢:
+    The "ten" sense would never actually appear in writing as 呀;
+    it would still be spelt 十,
+    with the pronunciation being a matter of preference.
+  ==
 S
-    ==
-    - $呀aa1
-    - $呀aa3
-    - $呀aa4
-    - $呀ngaa4
-    ==
+  ==
+  - $呀aa1
+  - $呀aa3
+  - $呀aa4
+  - $呀ngaa4
+  ==
 $$
