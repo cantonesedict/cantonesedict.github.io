@@ -107,8 +107,8 @@ $$
 U
     U+77EE
 W
-  ,
-    [[Page~2]] <br>
+  ====
+  - [[Page~2 (2)矮]]
     ==
     - Low;
     - diminutive, short;
@@ -122,9 +122,9 @@ W
         [[ai2 dak1 zai6 矮得嚌]]
         too low.
     ==
+  ====
 C
-  ,
-    =={.modern}
+    ==
     - 畀張矮凳仔你坐: Corrected _tso(6)_ [[zo6 去聲]] to _(5)ts(')o_ [[co5 上聲]].
     ==
 $$
@@ -150,28 +150,31 @@ $$
 U
     U+5C6D
 V
-  , [[hei3: for literary senses]]
+    ==
+    -{.modern} hei3 (for literary senses)
+    ==
 W
-  ,
-    [[Page~2]] <br>
+  ====
+  - [[Page~2 屭(3)]]
     ==
     - Strong, herculean, athletic.
     ==
+    --
     A colloquial word;
+    --
     ==
     - grief, sorrow;
     - _pai(3) ai(3)_
         [[bai3 ai3 贔屭]]
         trouble, resulting from affliction or poverty.
     ==
+  ====
 C
-  ,
-    =={.modern}
+    ==
     - The expected Cantonese reflex is hei3 from the olden rime books
       (which have 虛器切 and 許意切).
     ==
 S
-  ,
     =={.modern}
     - $屭hei3
     ==
@@ -183,12 +186,13 @@ $$
 U
     U+66C0
 W
-  ,
-    [[Page~2]] <br>
+  ====
+  - [[Page~2 曀(3)]]
     ==
     - Cloudy and windy;
     - the sun obscured and nearly hid by the clouds.
     ==
+  ====
 $$
 
 ### 縊3 | _ai(3)_ [[ai3]]
@@ -197,8 +201,8 @@ $$
 U
     U+7E0A
 W
-  ,
-    [[Page~2]] <br>
+  ====
+  - [[Page~2 縊(3)]]
     ==
     - To hang, to strangle one's self;
     - the warp of cloth;
@@ -209,6 +213,7 @@ W
         [[ai3 geng2 縊頸]],
         hung by the neck.
     ==
+  ====
 $$
 
 ### 翳3 | _ai(3)_ [[ai3]]
@@ -217,8 +222,8 @@ $$
 U
     U+7FF3
 W
-  ,
-    [[Page~2]] <br>
+  ====
+  - [[Page~2 翳(3)]]
     ==
     - A feather fan or screen, a flabellum;
     - to screen, to intercept;
@@ -230,7 +235,9 @@ W
     - trees dying;
     - a fabulous sort of pheasant.
     ==
+    --
     A colloquial word.
+    --
     ==
     - Feverish;
     - sultry, hot;
@@ -251,6 +258,7 @@ W
         [[ai3 zai6 翳滯]]
         indigestible.
     ==
+  ====
 $$
 
 ### 𦠉3 [[⿰⺼壹]] | _ai(3)_ [[ai3]]
@@ -259,9 +267,10 @@ $$
 U
     U+26809
 W
-  ,
-    [[Page~2]] <br>
+  ====
+  - [[Page~2 𦠉(3) (⿰⺼壹)]]
     ==
     - Lean, cadaverous, meager, poor.
     ==
+  ====
 $$
