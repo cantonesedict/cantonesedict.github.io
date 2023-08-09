@@ -44,18 +44,31 @@ $$
 
 ##{#1 .williams} (1)Ai. [[ai1 陰平]]
 
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $哎1
+==
+</nav>
+<## /tone-1-characters ##>
+
 ###+ 哎1 | _(1)ai_ [[ai1]]
 
 $$
 U
-  , [[U+54CE]]
+    U+54CE
 A
-  , 𫫃 = ⿰口挨; [[唉]]
+    ==
+    - 𫫃 [[⿰口挨]]
+    -{.modern} 唉
+    ==
 V
-  , [[aai1: longer syllable for particle sense]]
+    ==
+    -{.modern} aai1 (longer syllable for particle sense)
+    ==
 W
-  ,
-    [[Page~2, appearing as 𫫃 = ⿰口挨]] <br>
+  ====
+  - [[Page~2 (1)𫫃 (⿰口挨)]]
     ==
     - A particle of surprise or pain;
     - to beg, to ask;
@@ -69,24 +82,30 @@ W
         [[ai1 kau4 nei5 哎求你]],
         I intreat you.
     ==
+  ====
 C
-  ,
-    =={.modern}
-    - Williams has U+2BAC3 𫫃 = ⿰口挨, which has poor font support.
-      I have grafted its entry to 哎, which does not appear in Williams.
+    ==
     - 哎求你: Corrected _(1)k(')au_ [[kau1]] to _(4)k(')au_ [[kau4]].
-    - [Jyutping suggests using 哎 as the canonical character for ai1 or aai1.]
+    - [Jyutping.org suggests using 哎 as the canonical character for ai1 or aai1.]
     ==
 $$
 
 
 ##{#2 .williams} (2)Ai. [[ai2 陰上]]
 
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $矮2
+==
+</nav>
+<## /tone-2-characters ##>
+
 ### 矮2 | _(2)ai_ [[ai2]]
 
 $$
 U
-  , [[U+77EE]]
+    U+77EE
 W
   ,
     [[Page~2]] <br>
@@ -113,11 +132,23 @@ $$
 
 ##{#3 .williams} Ai(3). [[ai3 陰去]]
 
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $屭3
+- $曀3
+- $縊3
+- $翳3
+- $𦠉3
+==
+</nav>
+<## /tone-3-characters ##>
+
 ### 屭3 | _ai(3)_ [[ai3]]
 
 $$
 U
-  , [[U+5C6D]]
+    U+5C6D
 V
   , [[hei3: for literary senses]]
 W
@@ -150,7 +181,7 @@ $$
 
 $$
 U
-  , [[U+66C0]]
+    U+66C0
 W
   ,
     [[Page~2]] <br>
@@ -164,7 +195,7 @@ $$
 
 $$
 U
-  , [[U+7E0A]]
+    U+7E0A
 W
   ,
     [[Page~2]] <br>
@@ -184,7 +215,7 @@ $$
 
 $$
 U
-  , [[U+7FF3]]
+    U+7FF3
 W
   ,
     [[Page~2]] <br>
@@ -222,11 +253,11 @@ W
     ==
 $$
 
-### 𦠉3 = ⿰⺼壹 | _ai(3)_ [[ai3]]
+### 𦠉3 [[⿰⺼壹]] | _ai(3)_ [[ai3]]
 
 $$
 U
-  , [[U+26809]]
+    U+26809
 W
   ,
     [[Page~2]] <br>
