@@ -69,7 +69,7 @@ V
   ==
 W
   ====
-  - [[Page~2 (1)𫫃 (⿰口挨)]]
+  - [[Page~2 (1)𫫃 (⿰口挨); here normalised to 哎]]
     ==
     - A particle of surprise or pain;
     - to beg, to ask;
@@ -86,7 +86,7 @@ W
   ====
 C
   ==
-  - 哎求你: Corrected _(1)k(')au_ [[kau1]] to _(4)k(')au_ [[kau4]].
+  - Williams' 哎求你: Corrected _(1)k(')au_ [[kau1]] to _(4)k(')au_ [[kau4]].
   - [Jyutping.org suggests using 哎 as the canonical character for ai1 or aai1.]
   ==
 $$
@@ -140,7 +140,7 @@ W
   ====
 C
   ==
-  - 畀張矮凳仔你坐: Corrected _tso(6)_ [[zo6 去聲]] to _(5)ts(')o_ [[co5 上聲]].
+  - Williams' 畀張矮凳仔你坐: Corrected _tso(6)_ [[zo6 去聲]] to _(5)ts(')o_ [[co5 上聲]].
   ==
 $$
 
