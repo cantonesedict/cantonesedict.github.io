@@ -48,6 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $哎1
+- $𫫃1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -59,7 +60,7 @@ U
   U+54CE
 A
   ==
-  - 𫫃 [[⿰口挨]]
+  - $𫫃1 [[⿰口挨]]
   -{.modern} 唉
   ==
 V
@@ -88,6 +89,20 @@ C
   - 哎求你: Corrected _(1)k(')au_ [[kau1]] to _(4)k(')au_ [[kau4]].
   - [Jyutping.org suggests using 哎 as the canonical character for ai1 or aai1.]
   ==
+$$
+
+### 𫫃1 [[⿰口挨]] | _(1)ai_ [[ai1]]
+
+$$
+U
+  U+2BAC3
+W
+  ====
+  - [[Page~2 (1)𫫃 (⿰口挨)]]
+    --
+    [[Here normalised to 哎; **see $哎ai1 for the canonical entry**.]]
+    --
+  ====
 $$
 
 
