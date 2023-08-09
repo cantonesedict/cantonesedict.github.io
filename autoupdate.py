@@ -46,7 +46,7 @@ def check_gathered_syllables(entry_cmd_name, tone_syllable_list):
         sys.exit(1)
 
 
-def update_tones_navigation(cmd_content, tone_syllable_list):
+def update_entry_tones_navigation(cmd_content, tone_syllable_list):
     return re.sub(
         pattern=r'(?<=<## tones ##>\n).*?(?=<## /tones ##>\n)',
         repl=tones_navigation_cmd_content(tone_syllable_list),
@@ -55,11 +55,34 @@ def update_tones_navigation(cmd_content, tone_syllable_list):
     )
 
 
+def update_entry_character_navigations(cmd_content, toned_characters_from_tone):
+    for tone, toned_characters in toned_characters_from_tone.items():
+        cmd_content = re.sub(
+            pattern=fr'(?<=<## tone-{tone}-characters ##>\n).*?(?=<## /tone-{tone}-characters ##>\n)',
+            repl=character_navigation_cmd_content(toned_characters),
+            string=cmd_content,
+            flags=re.DOTALL | re.MULTILINE,
+        )
+
+    return cmd_content
+
+
 def tones_navigation_cmd_content(tone_syllable_list):
     return '\n'.join([
         '<nav class="sideways">',
         '=={.modern}',
         *[f'- [{syllable}{tone}](#{tone})' for tone, syllable in tone_syllable_list],
+        '==',
+        '</nav>',
+        '',
+    ])
+
+
+def character_navigation_cmd_content(toned_characters):
+    return '\n'.join([
+        '<nav class="sideways">',
+        '=={.modern}',
+        *[f'- ${toned_character}' for toned_character in toned_characters],
         '==',
         '</nav>',
         '',
@@ -74,7 +97,9 @@ def update_entry(entry_cmd_name):
     check_gathered_syllables(entry_cmd_name, tone_syllable_list)
     toned_characters_from_tone = gather_toned_characters_from_tone(old_cmd_content, tone_syllable_list)
 
-    new_cmd_content = update_tones_navigation(old_cmd_content, tone_syllable_list)
+    new_cmd_content = old_cmd_content
+    new_cmd_content = update_entry_tones_navigation(new_cmd_content, tone_syllable_list)
+    new_cmd_content = update_entry_character_navigations(new_cmd_content, toned_characters_from_tone)
 
     if new_cmd_content == old_cmd_content:
         return

@@ -54,6 +54,18 @@ _ngat_ [[ngat]].
 
 ##{#1 .williams} (1)(A/). [[aa1 陰平]]
 
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $丫1
+- $吖1
+- $呀1
+- $啊1
+- $鴉1
+==
+</nav>
+<## /tone-1-characters ##>
+
 ### 丫1 | _(1)(a/)_ [[aa1]]
 
 $$
@@ -225,6 +237,15 @@ $$
 
 ##{#2 .williams} (2)(A/). [[aa2 陰上]]
 
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $啞2
+- $瘂2
+==
+</nav>
+<## /tone-2-characters ##>
+
 ### 啞2 | _(2)(a/)_ [[aa2]]
 
 $$
@@ -299,6 +320,18 @@ $$
 
 
 ##{#3 .williams} (A/)(3). [[aa3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $亞3
+- $呀3
+- $啊3
+- $婭3
+- $阿3
+==
+</nav>
+<## /tone-3-characters ##>
 
 ### 亞3 | _(a/)(3)_ [[aa3]]
 
@@ -461,6 +494,14 @@ $$
 
 ##{#4 .modern} (4)(A/). [[aa4 陽平]]
 
+<## tone-4-characters ##>
+<nav class="sideways">
+=={.modern}
+- $呀4
+==
+</nav>
+<## /tone-4-characters ##>
+
 ###+ 呀4 | _(4)(a/)_ [[aa4]]
 
 $$
@@ -489,6 +530,14 @@ $$
 
 
 ##{#6 .modern} (A/)(6). [[aa6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $呀6
+==
+</nav>
+<## /tone-6-characters ##>
 
 ###+ 呀6 | _(a/)(6)_ [[aa6]]
 
