@@ -5,154 +5,180 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aak
-* %date-modified --> 2023-08-06
+* %date-modified --> 2023-08-10
 * %copyright-prior-years -->
 
 %%%
 
 #{.williams} (A/)k. [[aak]]
 
+<## tones ##>
 <nav class="sideways">
 =={.modern}
 - [aak1](#1)
 - [aak3](#3)
 ==
 </nav>
+<## /tones ##>
 
 $$
 WH
-  ,
-    ==
-    - (A/)k. [[Page~3]]
-    ==
+  ==
+  - (A/)k. [[Page~3]]
+  ==
 WP
-  ,
-    ==
-    - (A/)k <span class="modern">= [aːk̚]</span>
-    ==
+  ==
+  - (A/)k <span class="modern">= [aːk̚]</span>
+  ==
 MP
-  ,
-    =={.modern}
-    - aak = [aːk̚]
-    ==
+  ==
+  - aak = [aːk̚]
+  ==
 S
-  ,
-    =={.modern}
-    - $ak
-    - $ngaak
-    - $ngak
-    ==
+  ==
+  - $ak
+  - $ngaak
+  - $ngak
+  ==
 $$
 
 
 ##{#1 .williams} (A/)k(7). [[aak1 高陰入]]
 
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $厄1
+- $握1
+- $軛1
+- $阨1
+==
+</nav>
+<## /tone-1-characters ##>
+
 ###+ 厄1 | _(a/)k(7)_ [[aak1]]
 
 $$
 U
-  , [[U+5384]]
+  U+5384
 V
-  , [[ak1: literary]]
+  ==
+  -{.modern} ak1 (literary)
+  ==
 W
-  , [[Not present]]
+  [[Not present]]
 C
-  ,
-    =={.modern}
-    - Most modern speakers prefer this longer syllable
-      over the shorter _ak(7)_ [[ak1]].
-      Nevertheless, **see $厄ak1 for the canonical entry**.
-    ==
+  ==
+  - Most modern speakers prefer this longer syllable
+    over the shorter _ak(7)_ [[ak1]].
+    Nevertheless, **see $厄ak1 for the canonical entry**.
+  ==
 S
-  ,
-    =={.modern}
-    - $厄ak1
-    ==
+  ==
+  - $厄ak1
+  ==
 $$
 
 ###+ 握1 | _(a/)k(7)_ [[aak1]]
 
 $$
 U
-  , [[U+63E1]]
+  U+63E1
 V
-  , [[ak1: literary]]
+  ==
+  -{.modern} ak1 (literary)
+  ==
 W
-  , [[Not present]]
+  [[Not present]]
 C
-  ,
-    =={.modern}
-    - Most modern speakers prefer this longer syllable
-      over the shorter _ak(7)_ [[ak1]].
-      Nevertheless, **see $握ak1 for the canonical entry**.
-    ==
+  ==
+  - Most modern speakers prefer this longer syllable
+    over the shorter _ak(7)_ [[ak1]].
+    Nevertheless, **see $握ak1 for the canonical entry**.
+  ==
 S
-  ,
-    =={.modern}
-    - $握ak1
-    ==
+  ==
+  - $握ak1
+  ==
 $$
 
 ### 軛1 | _(a/)k(7)_ [[aak1]]
 
 $$
 U
-  , [[U+8EDB]]
+  U+8EDB
 W
-  ,
-    [[Page~3]] <br>
+  ====
+  - [[Page~3]]
     ==
     - A yoke;
     - the yoke of a carriage;
     - a yoke, a restraint, a principle of conscience.
     ==
+  ====
 $$
 
 ### 阨1 | _(a/)k(7)_ [[aak1]]
 
 $$
 U
-  , [[U+9628]]
+  U+9628
 V
-  , [[ak1: shorter syllable]]
+  ==
+  -{.modern} ak1 (shorter syllable)
+  ==
 W
-  ,
-    [[Page~3]] <br>
+  ====
+  - [[Page~3]]
+    --
     A colloquial word; also pronounced _ak(7)_ [[ak1]] and _ngak(7)_ [[ngak1]]
+    --
     ==
     - To deceive, to delude, to take in;
     - _(2)k(o\)m y(e/)ung(6) (a/)k(7) (4)yan k(e/)(3)_
         [[gam2 joeng6-2 aak1 yan4 ge3-2 噉樣阨人嘅]]
         are you going to cheat him so!
     ==
+  ====
 C
-  ,
-    =={.modern}
-    - Most modern speakers prefer this longer syllable
-      over the shorter _ak(7)_ [[ak1]];
-      see $阨ak1 for the literary senses.
-    ==
+  ==
+  - Most modern speakers prefer this longer syllable
+    over the shorter _ak(7)_ [[ak1]];
+    **see $阨ak1 for the literary senses**.
+  ==
 S
-  ,
-    =={.modern}
-    - $阨ak1
-    ==
+,
+  ==
+  - $阨ak1
+  ==
 $$
 
 
 ##{#3 .williams} (A/)k(8). [[aak3 低陰入]]
 
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $鈪3
+==
+</nav>
+<## /tone-3-characters ##>
+
 ### 鈪3 | _(a/)k(8)_ [[aak3]]
 
 $$
 U
-  , [[U+922A]]
+  U+922A
 V
-  , [[aak3-2: colloquial rising-tone noun]]
+  ==
+  -{.modern} aak3-2 (colloquial rising-tone noun)
+  ==
 W
-  ,
-    [[Page~3]] <br>
+  ====
+  - [[Page~3]]
+    --
     An unauthorized character.
+    --
     ==
     - A bracelet;
     - a bangle;
@@ -169,4 +195,5 @@ W
         [[aak3-2 tau4 鈪頭]],
         clasps of bracelets.
     ==
+  ====
 $$

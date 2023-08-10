@@ -229,8 +229,8 @@ W
 C
   ==
   - Most modern speakers prefer the longer syllable _(a/)k(7)_ [[aak1]];
-    see $阨aak1, which is also the canonical entry
-    for the colloquial "deceive" sense.
+    **see $阨aak1, which is also the canonical entry
+    for the colloquial "deceive" sense**.
   ==
 S
   ==
