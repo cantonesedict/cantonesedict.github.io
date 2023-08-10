@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ngaa
-* %date-modified --> 2023-08-06
+* %date-modified --> 2023-08-10
 * %copyright-prior-years -->
 
 %%%
-
---{.modern}
-[[From Page~315 of the original onwards. **Work in progress.**]]
---
 
 #{.williams} Ng(a/). [[ngaa]]
 
@@ -22,17 +18,55 @@ OrdinaryDictionaryReplacement: #.properties-override
 ==
 </nav>
 
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+- [ngaa4](#4)
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Ng(a/). [[Page~315]]
+  ==
+WP
+  ==
+  - Ng(a/) <span class="modern">= [ŋaː]</span>
+  ==
+MP
+  ==
+  - ngaa = [ŋaː]
+  ==
+S
+  ==
+  - $aa
+  ==
+$$
+
 
 ##{#4 .williams} (4)Ng(a/). [[ngaa4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways">
+=={.modern}
+- $呀4
+==
+</nav>
+<## /tone-4-characters ##>
 
 ### 呀4 | _(4)ng(a/)_ [[ngaa4]]
 
 $$
 U
-  , [[U+5440]]
+  U+5440
 W
-  ,
-    [[Page~1|n44, within the entry for 呀 _(1)(a/)_ (aa1)]] <br>
+  ====
+  - [[Page~1|n44 (1)呀]]
+    --
+    Read _(4)ng(a/)_ [[ngaa4]]:
+    --
     ==
     - the wrangling of children;
     - to open the mouth wide;
@@ -40,12 +74,12 @@ W
         [[ngaa4 laan1 mai5 呀囒米]],
         cochineal.
     ==
+  ====
 S
-  ,
-    =={.modern}
-    - $呀aa1
-    - $呀aa3
-    - $呀aa4
-    - $呀aa6
-    ==
+  ==
+  - $呀aa1
+  - $呀aa3
+  - $呀aa4
+  - $呀aa6
+  ==
 $$
