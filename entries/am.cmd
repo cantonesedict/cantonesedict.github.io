@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2023-08-06
+* %date-modified --> 2023-08-10
 * %copyright-prior-years -->
 
 %%%
@@ -18,65 +18,82 @@ OrdinaryDictionaryReplacement: #.properties-override
 ==
 </nav>
 
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+- [am1](#1)
+- [am2](#2)
+==
+</nav>
+<## /tones ##>
+
 $$
 WH
-  ,
-    ==
-    - Am. [[Page~3]]
-    - (O\)m. [[Page~341, Page~724]]
-    ==
+  ==
+  - Am. [[Page~3]]
+  - (O\)m. [[Page~341, Page~724]]
+  ==
 WP
-  ,
-    ==
-    - Am <span class="modern">= [ɐm]</span>
-    - (O\)m <span class="modern">= [oum]</span>
-    ==
+  ==
+  - Am <span class="modern">= [ɐm]</span>
+  - (O\)m <span class="modern">= [oum]</span>
+  ==
 MP
-  ,
-    =={.modern}
-    - am = [ɐm]
-    ==
+  ==
+  - am = [ɐm]
+  ==
 S
-  ,
-    =={.modern}
-    - $ngam
-    ==
+  ==
+  - $ngam
+  ==
 $$
 
 
 ##{#1 .williams} (1)(O\)m. [[am1 陰平]]
 
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $啽1
+- $庵1
+- $菴1
+==
+</nav>
+<## /tone-1-characters ##>
+
 ### 啽1 | _(1)(o\)m_ [[am1]]
 
 $$
 U
-  , [[U+557D]]
+  U+557D
 W
-  ,
-    [[Page~724]] <br>
+  ====
+  - [[Page~724 (1)啽]]
     ==
     - To snore;
     - _(1)(o\)m mak(9)_
         [[am1 mak6 啽默]]
         to be silent; to give no answer, as one [who] is very sleepy.
     ==
+  ====
 S
-  ,
-    =={.modern}
-    - $啽ngap1 (TODO)
-    ==
+  ==
+  - $啽ngap1 (TODO)
+  ==
 $$
 
 ### 庵1 | _(1)(o\)m_ [[am1]]
 
 $$
 U
-  , [[U+5EB5]]
+  U+5EB5
 A
-  , $菴1
+  ==
+  - $菴1
+  ==
 W
-  ,
-    [[Page~341]] <br>
+  ====
+  - [[Page~341 (1)庵(1)菴]]
     ==
     - A round hut, a thatched cottage, a straw hovel for soldiers or guard;
     - a pig-sty;
@@ -91,63 +108,76 @@ W
         [[am1 tong4 庵堂]],
         a convent.
     ==
+  ====
 $$
 
 ### 菴1 | _(1)(o\)m_ [[am1]]
 
 $$
 U
-  , [[U+83F4]]
-A
-  , $庵1
+  U+83F4
 W
-  ,
-    [[Page~341]] <br>
+  ====
+  - [[Page~341 (1)庵(1)菴]]
+    --
     [[Variant of 庵. **See $庵am1 for the canonical entry.**]]
+    --
+  ====
 $$
 
 
 ##{#2 .williams} (2)Am. (2)(O\)m. [[am2 陰上]]
 
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $唵2
+- $掩2
+- $揞2
+==
+</nav>
+<## /tone-2-characters ##>
+
 ### 唵2 | _(2)am_ [[am2]]
 
 $$
 U
-  , [[U+5535]]
+  U+5535
 W
-  ,
-    [[Page~3]] <br>
+  ====
+  - [[Page~3 (2)唵]]
     ==
     - To feed with the hands;
     - to hold in the mouth;
     - a word used by Budhists.
     ==
+  ====
 C
-  ,
-    =={.modern}
-    - "[A] word used by Budhists":
-      A transliteration of the Sanskrit <span lang="sa">ॐ</span> (_Om_).
-    ==
+  ==
+  - Williams' "[A] word used by Budhists":
+    A transliteration of the Sanskrit <span lang="sa">ॐ</span> (_Om_).
+  ==
 $$
 
 ### 掩2 | _(2)am_ [[am2]]
 
 $$
 U
-  , [[U+63A9]]
-A
-  , [[$揞2]]
+  U+63A9
 W
-  ,
-    [[Page~3]] <br>
-    A colloquial word. [[**See $揞am2 for the canonical entry.**]]
+  ====
+  - [[Page~3 (2)掩(1)掩]]
+    --
+    A colloquial word
+    [[here normalised to 揞; **see $揞am2 for the canonical entry**]].
+    --
+  ====
 C
-  ,
-    =={.modern}
-    - Williams has 掩 "cover" twice: once as 掩 _(2)am_ [[am2]] on Page~3,
-      and once as 掩 _(1)(o\)m_ [[am1]] as a variant of $揞2 _(2)(o\)m_ [[am2]]
-      on Page~341.
-    ==
+  ==
+  - Williams has am2 "cover" twice: once as 掩 _(2)am_ [[am2]] on Page~3,
+    and once as 掩 _(1)(o\)m_ [[am1]] as a variant of $揞2 _(2)(o\)m_ [[am2]]
+    on Page~341.
+  ==
 $$
 
 ### 揞2 | _(2)(o\)m_ [[am2]]
@@ -156,11 +186,15 @@ $$
 U
   , [[U+63DE]]
 A
-  , $掩2
+  ==
+  - $掩2
+  ==
 W
-  ,
-    [[Page~3, appearing as 掩 _(2)am_]] <br>
+  ====
+  - [[Page~3 (2)掩(1)掩]]
+    --
     A colloquial word.
+    --
     ==
     - To cover with the hand;
     - to conceal from;
@@ -174,7 +208,7 @@ W
         [[am2 dik1 bui6 sau2 揞滴背手]]
         give him a little sop, cover his palm.
     ==
-    [[Page~341]] <br>
+  - [[Page~341]]
     ==
     - To cover, to hide, to screen, by putting something on;
     - to, extinguish, to suppress;
@@ -215,9 +249,9 @@ W
     - The first character [[掩]] is read _(2)(i/)m_ [[jim2]],
       but also used with this meaning in the _p(')ing shing_ [[平聲]] [[am1]].
     ==
+  ====
 C
-  ,
-    =={.modern}
-    - 揞背手: Now rarely heard; 揞口費 is more common for "hush money".
-    ==
+  ==
+  - Williams' 揞背手: Now rarely heard; 揞口費 is more common for "hush money".
+  ==
 $$
