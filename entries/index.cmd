@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of entries by Jyutping slug
-* %date-modified --> 2023-08-07
+* %date-modified --> 2023-08-10
 * %copyright-prior-years -->
 
 OrdinaryDictionaryReplacement: #.no-black-serif-note
@@ -51,8 +51,8 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 <nav>
 =={.modern}
 - $aa
-- $aai (work in progress)
-- $aak (work in progress)
+- $aai
+- $aak
 - $aam (work in progress)
 - $aan (work in progress)
 - $aang (work in progress)
@@ -60,7 +60,7 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 - $aat (work in progress)
 - $aau (work in progress)
 - $ai
-- $ak (work in progress)
+- $ak
 - $am (work in progress)
 - $ang (work in progress)
 - $ap (work in progress)
