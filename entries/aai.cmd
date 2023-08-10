@@ -172,7 +172,7 @@ U
   U+9698
 W
   ====
-  - [[Page~3]]
+  - [[Page~3 隘(3)]]
     ==
     - A pass, a defile;
     - narrow, confined, straitened; distressed, urgent;
