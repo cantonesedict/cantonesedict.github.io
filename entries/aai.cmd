@@ -5,54 +5,60 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aai
-* %date-modified --> 2023-08-06
+* %date-modified --> 2023-08-10
 * %copyright-prior-years -->
 
 %%%
 
 #{.williams} (A/)i. [[aai]]
 
+<## tones ##>
 <nav class="sideways">
 =={.modern}
 - [aai1](#1)
 - [aai3](#3)
 ==
 </nav>
+<## /tones ##>
 
 $$
 WH
-  ,
-    ==
-    - (A/)i. [[Page~2]]
-    ==
+  ==
+  - (A/)i. [[Page~2]]
+  ==
 WP
-  ,
-    ==
-    - (A/)i <span class="modern">= [aːi]</span>
-    ==
+  ==
+  - (A/)i <span class="modern">= [aːi]</span>
+  ==
 MP
-  ,
-    =={.modern}
-    - aai = [aːi]
-    ==
+  ==
+  - aai = [aːi]
+  ==
 S
-  ,
-    =={.modern}
-    - $ngaai
-    ==
+  ==
+  - $ngaai
+  ==
 $$
 
 
 ##{#1 .williams} (1)(A/)i. [[aai1 陰平]]
 
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $挨1
+==
+</nav>
+<## /tone-1-characters ##>
+
 ### 挨1 | _(1)(a/)i_ [[aai1]]
 
 $$
 U
-  , [[U+6328]]
+  U+6328
 W
-  ,
-    [[Page~2]] <br>
+  ====
+  - [[Page~2 (1)挨]]
     ==
     - To lean upon, to trust to;
     - to push away, to carry on the back;
@@ -68,7 +74,7 @@ W
         lean it against here;
         help here a little;
     - _(5)yau tak(7) (1)(a/)i pang(6)_
-        [[jau4 dak1 aai1 bang6 有得挨憑]]
+        [[jau5 dak1 aai1 bang6 有得挨憑]]
         has some dependance or resource;
     - _(5)yau t(a/)i(6) (1)sh(a/)n (1)(a/)i_
         [[jau5 daai6 saan1 aai1 有大山挨]],
@@ -93,25 +99,36 @@ W
         [[aai1 maan5-1 挨晚]],
         towards evening.
     ==
+  ====
 S
-  ,
-    =={.modern}
-    - $挨ngaai4
-    ==
+  ==
+  - $挨ngaai4
+  ==
 $$
 
 
 ##{#3 .williams} (A/)i(3). [[aai3 陰去]]
 
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $嗌3
+- $隘3
+==
+</nav>
+<## /tone-3-characters ##>
+
 ### 嗌3 | _(a/)i(3)_ [[aai3]]
 
 $$
 U
-  , [[U+55CC]]
+  U+55CC
 W
-  ,
-    [[Page~3]] <br>
+  ====
+  - [[Page~3 嗌(3)]]
+    --
     A colloquial word;
+    --
     ==
     - to call after, to bawl;
     - to quarrel;
@@ -132,30 +149,30 @@ W
         [[sap6 aai3 gau2 zaang1 ngan4 十嗌九爭銀]],
         ten to one it is a quarrel about money.
     ==
+  ====
 C
-  ,
-    =={.modern}
-    - Among the readings attested in Kangxi's Dictionary are:
-      ++
-      1. yik1 (伊昔切), meaning "throat" (咽也);
-      1. aai3 (烏懈切音隘), meaning "choke" (噎也).
-      ++
-      Williams writes "A colloquial word"
-      presumably because the meaning attested under aai3 ("choke")
-      does not match the vernacular Cantonese meaning.
+  ==
+  - Among the readings attested in Kangxi's Dictionary are:
+    ++
+    1. yik1 (伊昔切), meaning "throat" (咽也);
+    1. aai3 (烏懈切音隘), meaning "choke" (噎也).
+    ++
+    Williams writes "A colloquial word"
+    presumably because the meaning attested under aai3 ("choke")
+    does not match the vernacular Cantonese meaning.
 
-    - 十嗌九爭銀: "Ten to one" is better rendered as "nine out of ten".
-    ==
+  - Williams' 十嗌九爭銀: "Ten to one" is better rendered as "nine out of ten".
+  ==
 $$
 
 ### 隘3 | _(a/)i(3)_ [[aai3]]
 
 $$
 U
-  , [[U+9698]]
+  U+9698
 W
-  ,
-    [[Page~3]] <br>
+  ====
+  - [[Page~3]]
     ==
     - A pass, a defile;
     - narrow, confined, straitened; distressed, urgent;
@@ -168,4 +185,5 @@ W
         [[haap6 aai3 狹隘]]
         narrow as a pass; a contracted mind.
     ==
+  ====
 $$
