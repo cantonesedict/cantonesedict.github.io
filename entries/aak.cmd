@@ -109,7 +109,7 @@ U
   U+8EDB
 W
   ====
-  - [[Page~3]]
+  - [[Page~3 軛(7)]]
     ==
     - A yoke;
     - the yoke of a carriage;
@@ -129,7 +129,7 @@ V
   ==
 W
   ====
-  - [[Page~3]]
+  - [[Page~3 阨(7)]]
     --
     A colloquial word; also pronounced _ak(7)_ [[ak1]] and _ngak(7)_ [[ngak1]]
     --
@@ -175,7 +175,7 @@ V
   ==
 W
   ====
-  - [[Page~3]]
+  - [[Page~3 鈪(8)]]
     --
     An unauthorized character.
     --
