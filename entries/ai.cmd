@@ -190,7 +190,7 @@ C
     (which have 虛器切 and 許意切).
   ==
 S
-  =={.modern}
+  ==
   - $屭hei3
   ==
 $$
