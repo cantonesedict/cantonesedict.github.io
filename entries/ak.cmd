@@ -90,7 +90,7 @@ C
   ==
   - Most modern speakers prefer the longer syllable _(a/)k(7)_ [[aak1]];
     see $厄aak1.
-  - Williams erroneously has 𢨪 = ⿸戶巳 for an alternate form instead of 戹.
+  - Williams erroneously has 𢨪 (⿸戶巳) for an alternate form instead of 戹.
     ==
 S
   ==
