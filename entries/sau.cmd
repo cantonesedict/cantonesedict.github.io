@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~409 (Sau) and Page~428 & Page~726 (Shau) of the original onwards. **Work in progress.**]]
+[[From Page~409 (Sau) and Page~428 & Page~726 (Shau) of the original onwards.]]
 --
 
 #{.williams} Sau. Shau. [[sau]]

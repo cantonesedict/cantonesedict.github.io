@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~15|n58 (Ch(')am) and Page~552 (Ts(')am) of the original onwards. **Work in progress.**]]
+[[From Page~15|n58 (Ch(')am) and Page~552 (Ts(')am) of the original onwards.]]
 --
 
 #{.williams} Ch(')am. Ts(')am. [[cam]]

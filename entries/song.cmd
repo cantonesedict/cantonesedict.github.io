@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~451 (Shong) and Page~472 & Page~727 (Song) of the original onwards. **Work in progress.**]]
+[[From Page~451 (Shong) and Page~472 & Page~727 (Song) of the original onwards.]]
 --
 
 #{.williams} Shong. Song. [[song]]

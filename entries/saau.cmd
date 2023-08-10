@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~430 of the original onwards. **Work in progress.**]]
+[[From Page~430 of the original onwards.]]
 --
 
 #{.williams} Sh(a/)u. [[saau]]

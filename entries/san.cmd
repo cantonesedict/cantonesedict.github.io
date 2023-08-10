@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~406 (San) and Page~420 & Page~727 (Shan) of the original onwards. **Work in progress.**]]
+[[From Page~406 (San) and Page~420 & Page~727 (Shan) of the original onwards.]]
 --
 
 #{.williams} San. Shan. [[san]]

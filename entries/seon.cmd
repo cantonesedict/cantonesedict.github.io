@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~458 (Shun) and Page~478 (Sun) of the original onwards. **Work in progress.**]]
+[[From Page~458 (Shun) and Page~478 (Sun) of the original onwards.]]
 --
 
 #{.williams} Shun. Sun. [[seon]]

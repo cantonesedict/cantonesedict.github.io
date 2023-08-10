@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~25* (Cho) and Page~582 (Tso) of the original onwards. **Work in progress.**]]
+[[From Page~25* (Cho) and Page~582 (Tso) of the original onwards.]]
 --
 
 #{.williams} Cho. Tso. [[zo]]

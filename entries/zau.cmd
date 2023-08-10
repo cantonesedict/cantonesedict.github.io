@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~25|n68 (Chau) and Page~560 (Tsau) of the original onwards. **Work in progress.**]]
+[[From Page~25|n68 (Chau) and Page~560 (Tsau) of the original onwards.]]
 --
 
 #{.williams} Chau. Tsau. [[zau]]

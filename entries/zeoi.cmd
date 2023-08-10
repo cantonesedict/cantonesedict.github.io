@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~33* (Chui), Page~594 (Ts(u")), Page~596 (Tsui), and Page~598 (Ts(u/)i) of the original onwards. **Work in progress.**]]
+[[From Page~33* (Chui), Page~594 (Ts(u")), Page~596 (Tsui), and Page~598 (Ts(u/)i) of the original onwards.]]
 --
 
 #{.williams} Chui. Ts(u"). Tsui. Ts(u/)i. [[zeoi]]

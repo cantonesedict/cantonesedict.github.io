@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~125 (Kam) and Page~172 (K(o\)m) of the original onwards. **Work in progress.**]]
+[[From Page~125 (Kam) and Page~172 (K(o\)m) of the original onwards.]]
 --
 
 #{.williams} Kam. K(o\)m. [[gam]]

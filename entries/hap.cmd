@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~74 (Hap) and Page~95 & Page~717 (H(o\)p) of the original onwards. **Work in progress.**]]
+[[From Page~74 (Hap) and Page~95 & Page~717 (H(o\)p) of the original onwards.]]
 --
 
 #{.williams} Hap. H(o\)p. [[hap]]

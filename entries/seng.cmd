@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~412 (Seng) and Page~433 (Sheng) of the original onwards. **Work in progress.**]]
+[[From Page~412 (Seng) and Page~433 (Sheng) of the original onwards.]]
 --
 
 #{.williams} Seng. Sheng. [[seng]]

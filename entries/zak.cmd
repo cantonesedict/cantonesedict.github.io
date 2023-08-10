@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~12|n55 (Chak) and Page~550 (Tsak) of the original onwards. **Work in progress.**]]
+[[From Page~12|n55 (Chak) and Page~550 (Tsak) of the original onwards.]]
 --
 
 #{.williams} Chak. Tsak. [[zak]]

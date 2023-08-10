@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~23|n66 of the original onwards. **Work in progress.**]]
+[[From Page~23|n66 of the original onwards.]]
 --
 
 #{.williams} Ch(')(a/)p. [[caap]]

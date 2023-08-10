@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~390 of the original onwards. **Work in progress.**]]
+[[From Page~390 of the original onwards.]]
 --
 
 #{.williams} Pok. [[bok]]

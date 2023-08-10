@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~403 (Sai) and Page~416 (Shai) of the original onwards. **Work in progress.**]]
+[[From Page~403 (Sai) and Page~416 (Shai) of the original onwards.]]
 --
 
 #{.williams} Sai. Shai. [[sai]]

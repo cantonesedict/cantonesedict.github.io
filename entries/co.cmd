@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~26* (Ch(')o) and Page~583 (Ts(')o) of the original onwards. **Work in progress.**]]
+[[From Page~26* (Ch(')o) and Page~583 (Ts(')o) of the original onwards.]]
 --
 
 #{.williams} Ch(')o. Ts(')o. [[co]]

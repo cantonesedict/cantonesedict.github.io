@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~133 of the original onwards. **Work in progress.**]]
+[[From Page~133 of the original onwards.]]
 --
 
 #{.williams} K(')ap. [[kap]]

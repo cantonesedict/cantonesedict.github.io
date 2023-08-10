@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~448 (Sh(i/)t) and Page~466 (S(i/)t) of the original onwards. **Work in progress.**]]
+[[From Page~448 (Sh(i/)t) and Page~466 (S(i/)t) of the original onwards.]]
 --
 
 #{.williams} Sh(i/)t. S(i/)t. [[sit]]

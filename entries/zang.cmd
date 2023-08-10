@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~20|n63 (Chang) and Page~556 (Tsang) of the original onwards. **Work in progress.**]]
+[[From Page~20|n63 (Chang) and Page~556 (Tsang) of the original onwards.]]
 --
 
 #{.williams} Chang. Tsang. [[zang]]
