@@ -5,59 +5,74 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ak
-* %date-modified --> 2023-08-06
+* %date-modified --> 2023-08-10
 * %copyright-prior-years -->
 
 %%%
 
 #{.williams} Ak. [[ak]]
 
+<## tones ##>
 <nav class="sideways">
 =={.modern}
 - [ak1](#1)
 ==
 </nav>
+<## /tones ##>
 
 $$
 WH
-  ,
-    ==
-    - Ak. [[Page~3]]
-    ==
+  ==
+  - Ak. [[Page~3]]
+  ==
 WP
-  ,
-    ==
-    - Ak <span class="modern">= [ɐk̚]</span>
-    ==
+  ==
+  - Ak <span class="modern">= [ɐk̚]</span>
+  ==
 MP
-  ,
-    =={.modern}
-    - ak = [ɐk̚]
-    ==
+  ==
+  - ak = [ɐk̚]
+  ==
 S
-  ,
-    =={.modern}
-    - $aak
-    - $ngaak
-    - $ngak
-    ==
+  ==
+  - $aak
+  - $ngaak
+  - $ngak
+  ==
 $$
 
 
 ##{#1 .williams} Ak(7). [[ak1 高陰入]]
 
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $厄1
+- $啞1
+- $幄1
+- $握1
+- $渥1
+- $阨1
+==
+</nav>
+<## /tone-1-characters ##>
+
 ### 厄1 | _ak(7)_ [[ak1]]
 
 $$
 U
-  , [[U+5384]]
+  U+5384
 A
-  , [[戹]]
+  ==
+  -{.modern} 戹
+  ==
 V
-  , [[aak1: longer syllable]]
+  ==
+  -{.modern} aak1 (longer syllable)
+  ==
 W
-  ,
-    [[Page~3]] <br>
+  ====
+  - [[Page~3 厄(7)]]
     ==
     - Knots in a tree;
     - small door in a house;
@@ -70,65 +85,70 @@ W
         [[ngai4 ak1 危厄]]
         in danger.
     ==
+  ====
 C
-  ,
-    =={.modern}
-    - Most modern speakers prefer the longer syllable _(a/)k(7)_ [[aak1]];
-      see $厄aak1.
-    - Williams erroneously has 𢨪 = ⿸戶巳 for an alternate form instead of 戹.
+  ==
+  - Most modern speakers prefer the longer syllable _(a/)k(7)_ [[aak1]];
+    see $厄aak1.
+  - Williams erroneously has 𢨪 = ⿸戶巳 for an alternate form instead of 戹.
     ==
 S
-  ,
-    =={.modern}
-    - $厄aak1
-    ==
+  ==
+  - $厄aak1
+  ==
 $$
 
 ### 啞1 | _ak(7)_ [[ak1]]
 
 $$
 U
-  , [[U+555E]]
+  U+555E
 W
-  ,
-    [[Page~1|n44, within the entry for 啞 _(2)(a/)_ (aa2)]] <br>
+  ====
+  - [[Page~1|n44 (2)啞]]
+    --
+    Also read _ak(7)_ [[ak1]];
+    --
     ==
     - _ak(7) ak(7)_
         [[ak1 ak1 啞啞]]
         the sound of giggling.
     ==
+  ====
 S
-  ,
-    =={.modern}
-    - $啞aa2
-    ==
+  ==
+  - $啞aa2
+  ==
 $$
 
 ### 幄1 | _ak(7)_ [[ak1]]
 
 $$
 U
-  , [[U+5E44]]
+  U+5E44
 W
-  ,
-    [[Page~3]] <br>
+  ====
+  - [[Page~3 幄(7)]]
     ==
     - A curtain, a screen;
     - a large tent, a markee;
     - to protect, to shelter.
     ==
+  ====
 $$
 
 ### 握1 | _ak(7)_ [[ak1]]
 
 $$
 U
-  , [[U+63E1]]
+  U+63E1
 V
-  , [[aak1: longer syllable]]
+  ==
+  -{.modern} aak1 (longer syllable)
+  ==
 W
-  ,
-    [[Page~3]] <br>
+  ====
+    [[Page~3 握(7)]]
     ==
     - To grasp, to hold within the hand;
     - a little, as much as the palm can hold;
@@ -145,27 +165,26 @@ W
         [[ak1 yiu3 握要]]
         necessary.
     ==
+  ====
 C
-  ,
-    =={.modern}
-    - Most modern speakers prefer the longer syllable _(a/)k(7)_ [[aak1]];
-      see $握aak1.
-    ==
+  ==
+  - Most modern speakers prefer the longer syllable _(a/)k(7)_ [[aak1]];
+    see $握aak1.
+  ==
 S
-  ,
-    =={.modern}
-    - $握aak1
-    ==
+  ==
+  - $握aak1
+  ==
 $$
 
 ### 渥1 | _ak(7)_ [[ak1]]
 
 $$
 U
-  , [[U+6E25]]
+  U+6E25
 W
-  ,
-    [[Page~3]] <br>
+  ====
+  - [[Page~3 渥(7)]]
     ==
     - To moisten, to soak;
     - to enrich with favors;
@@ -182,18 +201,21 @@ W
         [[ak1 daan1 渥丹]],
         to make very red.
     ==
+  ====
 $$
 
 ### 阨1 | _ak(7)_ [[ak1]]
 
 $$
 U
-  , [[U+9628]]
+  U+9628
 V
-  , [[aak1: longer syllable]]
+  ==
+  -{.modern} aak1 (longer syllable)
+  ==
 W
-  ,
-    [[Page~3]] <br>
+  ====
+    [[Page~3 阨(7)]]
     ==
     - An obstruction, a stop;
     - a defile, a pass;
@@ -203,15 +225,15 @@ W
         [[kwan3 ak1 困阨]]
         hampered, restrained.
     ==
+  ====
 C
-  ,
-    =={.modern}
-    - Most modern speakers prefer the longer syllable _(a/)k(7)_ [[aak1]];
-      see $阨aak1, for the colloquial "deceive" sense.
-    ==
+  ==
+  - Most modern speakers prefer the longer syllable _(a/)k(7)_ [[aak1]];
+    see $阨aak1, which is also the canonical entry
+    for the colloquial "deceive" sense.
+  ==
 S
-  ,
-    =={.modern}
-    - $阨aak1
-    ==
+  ==
+  - $阨aak1
+  ==
 $$
