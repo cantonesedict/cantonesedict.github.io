@@ -409,7 +409,6 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 - $kaa (work in progress)
 - $kaai (work in progress)
 - $kaan (work in progress)
-- $kaap (work in progress)
 - $kaat (work in progress)
 - $kaau (work in progress)
 - $kai (work in progress)
