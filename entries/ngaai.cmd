@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ngaai
-* %date-modified --> 2023-08-06
+* %date-modified --> 2023-08-10
 * %copyright-prior-years -->
 
 %%%
-
---{.modern}
-[[From Page~318 of the original onwards. **Work in progress.**]]
---
 
 #{.williams} Ng(a/)i. [[ngaai]]
 
@@ -22,23 +18,57 @@ OrdinaryDictionaryReplacement: #.properties-override
 ==
 </nav>
 
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+- [ngaai4](#4)
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Ng(a/)i. [[Page~318]]
+  ==
+WP
+  ==
+  - Ng(a/)i <span class="modern">= [ŋaːi]</span>
+  ==
+MP
+  ==
+  - ngaa = [ŋaːi]
+  ==
+S
+  ==
+  - $aai
+  ==
+$$
+
+
+##{#4 .williams} (4)Ng(a/)i. [[ngaai4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways">
+=={.modern}
+- $挨4
+==
+</nav>
+<## /tone-4-characters ##>
+
 ###+ 挨4 | _(4)ng(a/)i_ [[ngaai4]]
 
 $$
 U
-  , [[U+6328]]
-A
-  , [[$捱4]]
+  U+6328
 W
-  , [[Not present]]
+  [[Not present]]
 C
-  ,
-    =={.modern}
-    - **See $捱ngaai4 for the canonical entry.** [[TODO]]
-    ==
+  ==
+  - Here normalised to 捱; **see $捱ngaai4 for the canonical entry**. [[TODO]]
+  ==
 S
-  ,
-    =={.modern}
-    - $挨aai1
-    ==
+  ==
+  - $挨aai1
+  ==
 $$
