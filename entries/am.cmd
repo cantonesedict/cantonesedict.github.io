@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2023-08-10
+* %date-modified --> 2023-08-11
 * %copyright-prior-years -->
 
 %%%
@@ -184,7 +184,7 @@ $$
 
 $$
 U
-  , [[U+63DE]]
+  U+63DE
 A
   ==
   - $掩2
