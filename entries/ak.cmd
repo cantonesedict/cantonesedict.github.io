@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ak
-* %date-modified --> 2023-08-10
+* %date-modified --> 2023-08-11
 * %copyright-prior-years -->
 
 %%%
@@ -60,6 +60,8 @@ $$
 ### 厄1 | _ak(7)_ [[ak1]]
 
 $$
+R
+  厂 + 2
 U
   U+5384
 A
@@ -101,6 +103,8 @@ $$
 ### 啞1 | _ak(7)_ [[ak1]]
 
 $$
+R
+  口 + 8
 U
   U+555E
 W
@@ -124,6 +128,8 @@ $$
 ### 幄1 | _ak(7)_ [[ak1]]
 
 $$
+R
+  巾 + 9
 U
   U+5E44
 W
@@ -140,6 +146,8 @@ $$
 ### 握1 | _ak(7)_ [[ak1]]
 
 $$
+R
+  手 + 9
 U
   U+63E1
 V
@@ -180,6 +188,8 @@ $$
 ### 渥1 | _ak(7)_ [[ak1]]
 
 $$
+R
+  水 + 9
 U
   U+6E25
 W
@@ -207,6 +217,8 @@ $$
 ### 阨1 | _ak(7)_ [[ak1]]
 
 $$
+R
+  阜 + 4
 U
   U+9628
 V

@@ -40,6 +40,8 @@ RegexDictionaryReplacement: #.syntax.entry-key-abbreviations
                 ,{.williams}
 * ^MP$ --> ; Modern pronunciation
                 ,{.modern}
+* ^R$ --> ; Radical + residual strokes
+                ,{.modern}
 * ^U$ --> ; Unicode code point
                 ,{.modern}
 * ^A$ --> ; Alternative forms

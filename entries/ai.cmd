@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ai
-* %date-modified --> 2023-08-09
+* %date-modified --> 2023-08-11
 * %copyright-prior-years -->
 
 %%%
@@ -56,6 +56,8 @@ $$
 ###+ 哎1 | _(1)ai_ [[ai1]]
 
 $$
+R
+  口 + 6
 U
   U+54CE
 A
@@ -94,6 +96,8 @@ $$
 ### 𫫃1 [[⿰口挨]] | _(1)ai_ [[ai1]]
 
 $$
+R
+  口 + 10
 U
   U+2BAC3
 W
@@ -119,6 +123,8 @@ $$
 ### 矮2 | _(2)ai_ [[ai2]]
 
 $$
+R
+  矢 + 8
 U
   U+77EE
 W
@@ -162,6 +168,8 @@ $$
 ### 屭3 | _ai(3)_ [[ai3]]
 
 $$
+R
+  尸 + 21
 U
   U+5C6D
 V
@@ -198,6 +206,8 @@ $$
 ### 曀3 | _ai(3)_ [[ai3]]
 
 $$
+R
+  日 + 12
 U
   U+66C0
 W
@@ -213,6 +223,8 @@ $$
 ### 縊3 | _ai(3)_ [[ai3]]
 
 $$
+R
+  糸 + 10
 U
   U+7E0A
 W
@@ -234,6 +246,8 @@ $$
 ### 翳3 | _ai(3)_ [[ai3]]
 
 $$
+R
+  羽 + 11
 U
   U+7FF3
 W
@@ -279,6 +293,8 @@ $$
 ### 𦠉3 [[⿰⺼壹]] | _ai(3)_ [[ai3]]
 
 $$
+R
+  肉 + 12
 U
   U+26809
 W

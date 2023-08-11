@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aak
-* %date-modified --> 2023-08-10
+* %date-modified --> 2023-08-11
 * %copyright-prior-years -->
 
 %%%
@@ -59,6 +59,8 @@ $$
 ###+ 厄1 | _(a/)k(7)_ [[aak1]]
 
 $$
+R
+  厂 + 2
 U
   U+5384
 V
@@ -82,6 +84,8 @@ $$
 ###+ 握1 | _(a/)k(7)_ [[aak1]]
 
 $$
+R
+  手 + 9
 U
   U+63E1
 V
@@ -105,6 +109,8 @@ $$
 ### 軛1 | _(a/)k(7)_ [[aak1]]
 
 $$
+R
+  車 + 4
 U
   U+8EDB
 W
@@ -121,6 +127,8 @@ $$
 ### 阨1 | _(a/)k(7)_ [[aak1]]
 
 $$
+R
+  阜 + 4
 U
   U+9628
 V
@@ -167,6 +175,8 @@ $$
 ### 鈪3 | _(a/)k(8)_ [[aak3]]
 
 $$
+R
+  金 + 4
 U
   U+922A
 V

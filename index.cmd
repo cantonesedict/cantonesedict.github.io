@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Home
-* %date-modified --> 2023-08-08
+* %date-modified --> 2023-08-11
 * %copyright-prior-years -->
 * %modern-colour --> crimson
 
@@ -98,7 +98,8 @@ The modernisation is a ongoing solo effort by Conway, consisting of:
    the Ts(')ing Dynasty Cantonese recorded by Williams
    and modern Hong Kong Cantonese);
 
-1. Under each Jyutping pronunciation, sorting the entries by Unicode code point;
+1. Under each Jyutping pronunciation,
+   sorting the entries by radical+strokes, then Unicode code point;
 
 1. Inserting Jyutping (%modern-colour sans-serif text)
    alongside the Williams romanisations;

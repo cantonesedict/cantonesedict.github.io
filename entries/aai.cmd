@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aai
-* %date-modified --> 2023-08-10
+* %date-modified --> 2023-08-11
 * %copyright-prior-years -->
 
 %%%
@@ -54,6 +54,8 @@ $$
 ### 挨1 | _(1)(a/)i_ [[aai1]]
 
 $$
+R
+  手 + 7
 U
   U+6328
 W
@@ -121,6 +123,8 @@ $$
 ### 嗌3 | _(a/)i(3)_ [[aai3]]
 
 $$
+R
+  口 + 10
 U
   U+55CC
 W
@@ -168,6 +172,8 @@ $$
 ### 隘3 | _(a/)i(3)_ [[aai3]]
 
 $$
+R
+  阜 + 10
 U
   U+9698
 W
