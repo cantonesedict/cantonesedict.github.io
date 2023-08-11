@@ -57,6 +57,7 @@ $$
 - $啽1
 - $庵1
 - $菴1
+- $諳1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -125,6 +126,24 @@ W
   ====
 $$
 
+###+ 諳1 | _(1)(o\)m_ [[am1]]
+
+$$
+U
+  U+8AF3
+W
+  [[Not present]]
+C
+  ==
+  - The expected Cantonese reflex is am1 from the olden rime books,
+    but 分韻撮要 has am2; **see $諳am2 for the canonical entry**.
+  ==
+S
+  ==
+  - $諳am2
+  ==
+$$
+
 
 ##{#2 .williams} (2)Am. (2)(O\)m. [[am2 陰上]]
 
@@ -134,6 +153,7 @@ $$
 - $唵2
 - $掩2
 - $揞2
+- $諳2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -253,5 +273,43 @@ W
 C
   ==
   - Williams' 揞背手: Now rarely heard; 揞口費 is more common for "hush money".
+  ==
+$$
+
+### 諳2 | _(2)(o\)m_ [[am2]]
+
+$$
+U
+  U+8AF3
+V
+  ==
+  - am1 (expected reflex)
+  ==
+W
+  ====
+  - [[Page~342, (2)諳]]
+    ==
+    - Accustomed, skilled in, versed;
+    - to know, fully acquainted with;
+    - knowing thoroughly, to commit to memory, to recite, to chant or repeat;
+    - _(2)(o\)m l(i/)n(6)_
+        [[am2 lin6 諳練]]
+        well practiced in, mature;
+    - _(4)'m (2)(o\)m shai(3) (4)ts(')ing_
+        [[m4 am2 sai3 cing4 唔諳世情]],
+        unacquainted with the world;
+    - _(2)(o\)m tsung(6)_
+        [[am2 zung6 諳誦]]
+        to repeat exactly.
+    ==
+  ====
+C
+  ==
+  - The expected Cantonese reflex is am1 from the olden rime books
+    (which have 烏含切).
+  ==
+S
+  ==
+  - $諳am1
   ==
 $$
