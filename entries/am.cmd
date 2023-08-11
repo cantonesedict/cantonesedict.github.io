@@ -49,13 +49,29 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $䳺1
 - $啽1
 - $庵1
 - $菴1
 - $諳1
+- $鵪1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 䳺1 | _(1)(o\)m_ [[am1]]
+
+$$
+U
+  U+4CFA
+W
+  ====
+  - [[Page~341 (1)䳺]]
+    --
+    [[Variant of 鵪. **See $鵪am1 for the canonical entry.**]]
+    --
+  ====
+$$
 
 ### 啽1 | _(1)(o\)m_ [[am1]]
 
@@ -136,6 +152,36 @@ C
 S
   ==
   - $諳am2
+  ==
+$$
+
+###+ 鵪1 | _(1)(o\)m_ [[am1]]
+
+$$
+U
+  U+9D6A
+A
+  ==
+  - $䳺1
+  ==
+W
+  ====
+  - [[Page~341 (1)䳺; here normalised to 鵪]]
+    ==
+    - A quail;
+    - _(1)(o\)m [(1)ch(')un]_
+        [[am1 ceon1 鵪鶉]],
+        a quail, under which two or three species of Coturnix are included;
+    - _(4)lung (1)(o\)m_,
+        [[lung4 am1 籠鵪]]
+        quails beaten in fight, which are then put aside for the table.
+    ==
+  ====
+C
+  ==
+  - Williams' 鵪鶉:
+    Changed Middle Chinese _(4)shun_ [[seon4]]
+    to common reading _(1)ch(')un_ [[ceon1]].
   ==
 $$
 
