@@ -398,10 +398,67 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $暗3
 - $闇3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 暗3 | _(o\)m(3)_ [[am3]]
+
+$$
+U
+  U+6697
+W
+  ====
+  - [[Page~342 暗(3)]]
+    ==
+    - Sun obscured by clouds or otherwise;
+    - dark, dimly lighted, sombre;
+    - gloomy, not shining bright;
+    - clandestine, unobserved, secret, underhand;
+    - dull, not perspicacious;
+    - private, mental;
+    - _hak(7) (o\)m(3)_
+        [[hak1 am3 黑暗]]
+        dark;
+    - _(1)t(')(i/)n shik(7) (o\)m(3)_
+        [[tin1 sik1 am3 天色暗]]
+        a dark day;
+    - _(1)tang (o\)m(3)_
+        [[dang1 am3 燈暗]]
+        a dim lamp;
+    - _(o\)m(3) (2)s(e/)ung_
+        [[am3 soeng2 暗想]],
+        to think over;
+    - _(2)t(a/) (o\)m(3) h(o\)(6)_
+        [[daa2 am3 hou6 打暗號]]
+        to give a hint;
+    - _(o\)m(3) (1)chung ts(o\)(6) sz'(6)_
+        [[am3 zung1 zou6 si6 暗中做事]]
+        to do things in the dark;
+    - _(o\)m(3) m(u/)i(6)_
+        [[am3 mui6 暗昧]]
+        dull of perception;
+    - _(4)ho (1)p(a/)u (o\)m(3) (5)nam_
+        [[ho4 baau1 am3 nam5 荷包暗稔]],
+        a full purse, well supplied with cash;
+    - _(o\)m(3) (1)k(a/)n_
+        [[am3 gaan1 暗間]],
+        in the dark;
+    - _(o\)m(3) (5)li(u/)_
+        [[am3 liu5 暗了]],
+        it is now night;
+    - _(o\)m(3) hoi(6)_
+        [[am3 hoi6 暗害]]
+        to privily injure.
+    ==
+  ====
+C
+  ==
+  - 【暗算】 (am3 syun3) To wound (usually mortally) with a hidden weapon.
+  ==
+$$
 
 ###+ 闇3 | _(o\)m(3)_ [[am3]]
 
