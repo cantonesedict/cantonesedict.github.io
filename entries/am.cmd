@@ -154,8 +154,10 @@ $$
 - $唵2
 - $掩2
 - $揞2
+- $欿2
 - $諳2
 - $闇2
+- $黯2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -275,6 +277,24 @@ W
 C
   ==
   - Williams' 揞背手: Now rarely heard; 揞口費 is more common for "hush money".
+  ==
+$$
+
+### 欿2 | _(2)(o\)m_ [[am2]]
+
+$$
+U
+  U+6B3F
+W
+  ====
+  - [[Page~342, (2)欿]]
+    --
+    [[Idiosyncratic reading from 分韻撮要; **see $欿ham2 for the canonical entry**.]]
+    --
+  ====
+S
+  ==
+  - $欿ham2 [[TODO]]
   ==
 $$
 
