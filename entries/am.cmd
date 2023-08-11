@@ -354,6 +354,24 @@ S
   ==
 $$
 
+### 黯2 | _(2)(o\)m_ [[am2]]
+
+$$
+U
+  U+9EEF
+W
+  ====
+  - [[Page~342, (2)黯]]
+    ==
+    - Dark, pitch dark, dark as a midnight;
+    - astonied and silent, as if lost in amazement;
+    - _K(')ap(7) (2)(O\)m_
+        [[kap1 am2 汲黯]]
+        a distinguished statesman of the H(a/)n [[漢]] dynasty.
+    ==
+  ====
+$$
+
 
 ##{#3 .williams} (O\)m(3). [[am3 陰去]]
 
