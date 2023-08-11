@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [am1](#1)
 - [am2](#2)
+- [am3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -154,6 +155,7 @@ $$
 - $掩2
 - $揞2
 - $諳2
+- $闇2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -311,5 +313,72 @@ C
 S
   ==
   - $諳am1
+  ==
+$$
+
+### 闇2 | _(2)(o\)m_ [[am2]]
+
+$$
+U
+  U+95C7
+V
+  ==
+  - am3 (expected reflex)
+  ==
+W
+  ====
+  - [[Page~342, (2)闇]]
+    ==
+    - To shut the door, to withdraw from society, to retire from;
+    - retired, dark, an obscure recess;
+    - ignorant, dark minded;
+    - badly lighted;
+    - evening;
+    - an eclipse;
+    - _(2)(o\)m (4)m(u/)n ts(e/)(6) h(a/)k(8)_
+        [[am2 mun4 ze6 haak3 闇門謝客]]
+        to decline to see friends;
+    - _(2)(o\)m y(e/)uk(9)_
+        [[am2 yoek6 闇弱]]
+        unenlightened.
+    ==
+  ====
+C
+  ==
+  - The expected Cantonese reflex is am3 from the olden rime books
+    (which have 烏紺切).
+  ==
+S
+  ==
+  - $闇am3
+  ==
+$$
+
+
+##{#3 .williams} (O\)m(3). [[am3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $闇3
+==
+</nav>
+<## /tone-3-characters ##>
+
+###+ 闇3 | _(o\)m(3)_ [[am3]]
+
+$$
+U
+  U+95C7
+W
+  [[Not present]]
+C
+  ==
+  - The expected Cantonese reflex is am3 from the olden rime books,
+    but 分韻撮要 has am2; **see $闇am2 for the canonical entry**.
+  ==
+S
+  ==
+  - $闇am2
   ==
 $$
