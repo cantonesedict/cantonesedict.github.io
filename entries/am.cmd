@@ -456,7 +456,7 @@ W
   ====
 C
   ==
-  - 【暗算】 (am3 syun3) To wound (usually mortally) with a hidden weapon.
+  - 【暗算】 (am3 syun3): To wound (usually mortally) with a hidden weapon.
   ==
 $$
 

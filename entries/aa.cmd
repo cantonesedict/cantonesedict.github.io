@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2023-08-09
+* %date-modified --> 2023-08-11
 * %copyright-prior-years -->
 
 %%%
@@ -158,7 +158,7 @@ C
   ==
   - Williams' 好吖: "OK" (as an active, enthusiastic endorsement).
   - Williams' aa1 wai3: not sure what he means by "poor, necessitous".
-  - 【吖嘛】 (a1 maa3)
+  - 【吖嘛】 (a1 maa3):
     A final particle for pointing something out.
     Cantonese "X 吖嘛" is like English "but X" ending on a falling intonation.
   - [Jyutping.org suggests using 吖 as the canonical character for aa1.]
@@ -515,7 +515,7 @@ W
   [[Not present]]
 C
   ==
-  - 【呀】 (a4)
+  - 【呀】 (a4):
     A final particle of surprise, suspicion, disappointment, etc.
   - [Jyutping.org suggests using 呀 as the canonical character for aa4.]
   ==
