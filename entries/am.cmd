@@ -188,7 +188,7 @@ U
   U+63A9
 W
   ====
-  - [[Page~3 (2)掩(1)掩]]
+  - [[Page~3 (2)掩]]
     --
     A colloquial word
     [[here normalised to 揞; **see $揞am2 for the canonical entry**]].
@@ -213,7 +213,7 @@ A
   ==
 W
   ====
-  - [[Page~3 (2)掩(1)掩]]
+  - [[Page~3 (2)掩; here normalised to 揞]]
     --
     A colloquial word.
     --
@@ -230,7 +230,7 @@ W
         [[am2 dik1 bui6 sau2 揞滴背手]]
         give him a little sop, cover his palm.
     ==
-  - [[Page~341]]
+  - [[Page~341 (1)掩(2)揞]]
     ==
     - To cover, to hide, to screen, by putting something on;
     - to, extinguish, to suppress;
