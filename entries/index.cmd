@@ -63,7 +63,7 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 - $ak
 - $am
 - $ang
-- $ap (work in progress)
+- $ap
 - $at (work in progress)
 - $au (work in progress)
 ==
