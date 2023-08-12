@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2023-08-11
+* %date-modified --> 2023-08-12
 * %copyright-prior-years -->
 
 %%%
@@ -141,7 +141,7 @@ W
 C
   ==
   - The expected Cantonese reflex is am1 from the olden rime books,
-    but 分韻撮要 has am2; **see $諳am2 for the canonical entry**.
+    but 《分韻撮要》 has am2; **see $諳am2 for the canonical entry**.
   ==
 S
   ==
@@ -349,7 +349,7 @@ W
   ====
   - [[Page~342, (2)欿]]
     --
-    [[Idiosyncratic reading from 分韻撮要; **see $欿ham2 for the canonical entry**.]]
+    [[Idiosyncratic reading from 《分韻撮要》; **see $欿ham2 for the canonical entry**.]]
     --
   ====
 S
@@ -540,7 +540,7 @@ W
 C
   ==
   - The expected Cantonese reflex is am3 from the olden rime books,
-    but 分韻撮要 has am2; **see $闇am2 for the canonical entry**.
+    but 《分韻撮要》 has am2; **see $闇am2 for the canonical entry**.
   ==
 S
   ==
