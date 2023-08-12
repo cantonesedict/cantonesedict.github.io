@@ -138,6 +138,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $哽2
+- $㾘2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -172,5 +173,49 @@ S
   - $哽gang2 (TODO)
   - $哽kang2 (TODO)
   - $㾘ang2
+  ==
+$$
+
+### 㾘2 | _(2)ang_ [[ang2]]
+
+$$
+R
+  疒 + 7
+U
+  U+3F98
+V
+  ==
+  - gang2 (expected from 古杏切)
+  ==
+W
+  ====
+  - [[Page~4 (2)㾘]]
+    ==
+    - Disease, sickness.
+    ==
+    --
+    A colloquial word;
+    --
+    ==
+    - to stick up, to press into or on;
+    - to inchase or emboss;
+    - _(2)ang tak(7) k(e/)uk(8) t(')ung(3)_
+        [[ang2 dak1 goek3 tung3 㾘得腳痛]]
+        they hurt my foot;
+    - _(2)ang (1)f(a/)_
+        [[ang2 faa1 㾘花]],
+        to emboss;
+    - _(1)shang shek(9) (2)ang_
+        [[sang1 sek6 ang2 / saang1 sek6 ang2 生石㾘]],
+        to have a stone bruise;
+    - _(2)ang (1)sam_
+        [[ang2 sam1 㾘心]],
+        to disturb one, as bad news; painful.
+    ==
+  ====
+C
+  ==
+  - 【㾘】 (ang2):
+    To exert (or experience) a pressing force over a smallish or lump-sized area.
   ==
 $$
