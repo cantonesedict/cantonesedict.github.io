@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ngaai
-* %date-modified --> 2023-08-11
+* %date-modified --> 2023-08-12
 * %copyright-prior-years -->
 
 %%%
@@ -56,7 +56,7 @@ $$
 </nav>
 <## /tone-4-characters ##>
 
-###+ 挨4 | _(4)ng(a/)i_ [[ngaai4]]
+###+ 挨4 | _(4)Ng(a/)i_ [[ngaai4]]
 
 $$
 R
