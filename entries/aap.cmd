@@ -10,12 +10,35 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 %%%
 
---{.modern}
-[[From Page~5 of the original onwards.]]
---
+#{.williams} (A/)p. [[aap]]
 
 <nav class="sideways">
 =={.modern}
 - [[Work in progress]]
 ==
 </nav>
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - (A/)p. [[Page~5]]
+  ==
+WP
+  ==
+  - (A/)p <span class="modern">= [aːp̚]</span>
+  ==
+MP
+  ==
+  - aap = [aːp̚]
+  ==
+S
+  ==
+  - $ngaap
+  ==
+$$
