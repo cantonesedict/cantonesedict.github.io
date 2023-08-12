@@ -12,11 +12,6 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 #{.williams} (A/)p. [[aap]]
 
-<nav class="sideways">
-=={.modern}
-- [[Work in progress]]
-==
-</nav>
 <## tones ##>
 <nav class="sideways">
 =={.modern}
@@ -51,6 +46,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $鴨3
+- $押3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -94,4 +90,22 @@ C
     Slang for male prostitute.
     Compare $雞gai1 "chicken" for female prostitute.
   ==
+$$
+
+### 押3 | _(a/)p(8)_ [[aap3]]
+
+$$
+R
+  手 + 5
+U
+  U+62BC
+W
+  ====
+  - [[Page~5 押(8)]]
+    --
+    [[The expected reflex is aap3 from Middle Chinese 烏甲切,
+    but the common reading is aat3;
+    **see $押aat3 for the canonical entry.**]] [[TODO]]
+    --
+  ====
 $$
