@@ -104,7 +104,7 @@ W
         [[si1 gu1 am1 師姑庵]],
         a Budhist nunnery;
     - _yap(9) (1)(o\)m_
-        [[yap6 am1 入庵]],
+        [[jap6 am1 入庵]],
         to become a nun;
     - _(1)(o\)m (4)t(')ong_
         [[am1 tong4 庵堂]],

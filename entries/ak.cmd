@@ -205,7 +205,7 @@ W
         [[ak1 mung4 渥蒙]],
         deeply grateful for;
     - _(1)yan ak(7)_
-        [[yan1 ak1 恩渥]]
+        [[jan1 ak1 恩渥]]
         imperial favor;
     - _ak(7) (1)t(a/)n_
         [[ak1 daan1 渥丹]],

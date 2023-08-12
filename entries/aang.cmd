@@ -104,10 +104,10 @@ W
         [[tong4 gwo2 aang1 糖果罌]],
         a jar of sweetmeats;
     - _(4)yau (1)(a/)ng_
-        [[yau4 aang1 油罌]],
+        [[jau4 aang1 油罌]],
         an oil can;
     - _yat(7) (1)(a/)ng (5)y(e/)_
-        [[yat1 aang1 ye5 一罌嘢]],
+        [[jat1 aang1 ye5 一罌嘢]],
         a thing;
     - _(2)shui (1)(a/)ng_
         [[seoi2 aang1 水罌]],
