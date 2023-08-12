@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [ang1](#1)
 - [ang2](#2)
+- [ang3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -217,5 +218,48 @@ C
   ==
   - 【㾘】 (ang2):
     To exert (or experience) a pressing force over a smallish or lump-sized area.
+  ==
+$$
+
+
+##{#3 .williams} Ang(3). [[ang3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $更3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 更3 | _ang(3)_ [[ang3]]
+
+$$
+R
+  曰 + 3
+U
+  U+66F4
+W
+  ====
+  - [[Page~4 更(3)]]
+    --
+    A colloquial word, a corruption of _kang(3)_ [[gang3]].
+    --
+    ==
+    - More, still more;
+    - try again;
+    - _ang(3) (5)yau (1)t(')(i/)m_
+        [[ang3 yau5 tim1 更有添]],
+        there are more;
+    - _ang(3) noi(6) t(i/)(6)_
+        [[ang3 noi6 dei6-2 更耐地]]
+        rather longer time.
+    ==
+  ====
+S
+  ==
+  - $更gaang1
+  - $更gang1
+  - $更gang3
   ==
 $$
