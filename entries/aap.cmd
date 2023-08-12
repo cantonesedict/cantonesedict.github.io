@@ -40,7 +40,7 @@ S
 $$
 
 
-##{#3 .williams} (A/)p(8). [[aap3 低陰入]]
+##{#3 .williams} (A/)p(8) [[aap3 低陰入]]
 
 <## tone-3-characters ##>
 <nav class="sideways">

@@ -41,7 +41,7 @@ S
 $$
 
 
-##{#1 .williams} (1)(A/)i. [[aai1 陰平]]
+##{#1 .williams} (1)(A/)i [[aai1 陰平]]
 
 <## tone-1-characters ##>
 <nav class="sideways">
@@ -109,7 +109,7 @@ S
 $$
 
 
-##{#3 .williams} (A/)i(3). [[aai3 陰去]]
+##{#3 .williams} (A/)i(3) [[aai3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">

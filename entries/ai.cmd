@@ -42,7 +42,7 @@ S
 $$
 
 
-##{#1 .williams} (1)Ai. [[ai1 陰平]]
+##{#1 .williams} (1)Ai [[ai1 陰平]]
 
 <## tone-1-characters ##>
 <nav class="sideways">
@@ -110,7 +110,7 @@ W
 $$
 
 
-##{#2 .williams} (2)Ai. [[ai2 陰上]]
+##{#2 .williams} (2)Ai [[ai2 陰上]]
 
 <## tone-2-characters ##>
 <nav class="sideways">
@@ -151,7 +151,7 @@ C
 $$
 
 
-##{#3 .williams} Ai(3). [[ai3 陰去]]
+##{#3 .williams} Ai(3) [[ai3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">

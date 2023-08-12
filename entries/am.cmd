@@ -44,7 +44,7 @@ S
 $$
 
 
-##{#1 .williams} (1)(O\)m. [[am1 陰平]]
+##{#1 .williams} (1)(O\)m [[am1 陰平]]
 
 <## tone-1-characters ##>
 <nav class="sideways">
@@ -198,7 +198,7 @@ W
 $$
 
 
-##{#2 .williams} (2)Am. (2)(O\)m. [[am2 陰上]]
+##{#2 .williams} (2)Am (2)(O\)m [[am2 陰上]]
 
 <## tone-2-characters ##>
 <nav class="sideways">
@@ -457,7 +457,7 @@ W
 $$
 
 
-##{#3 .williams} (O\)m(3). [[am3 陰去]]
+##{#3 .williams} (O\)m(3) [[am3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">

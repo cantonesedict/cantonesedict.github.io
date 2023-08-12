@@ -46,7 +46,7 @@ S
 $$
 
 
-##{#4 .williams} (4)Ng(a/)i. [[ngaai4 陽平]]
+##{#4 .williams} (4)Ng(a/)i [[ngaai4 陽平]]
 
 <## tone-4-characters ##>
 <nav class="sideways">

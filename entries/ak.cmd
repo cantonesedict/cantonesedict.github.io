@@ -42,7 +42,7 @@ S
 $$
 
 
-##{#1 .williams} Ak(7). [[ak1 高陰入]]
+##{#1 .williams} Ak(7) [[ak1 高陰入]]
 
 <## tone-1-characters ##>
 <nav class="sideways">

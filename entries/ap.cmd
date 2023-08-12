@@ -40,7 +40,7 @@ S
 $$
 
 
-##{#1 .williams} Ap(7). [[ap1 高陰入]]
+##{#1 .williams} Ap(7) [[ap1 高陰入]]
 
 <## tone-1-characters ##>
 <nav class="sideways">

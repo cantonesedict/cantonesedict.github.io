@@ -40,7 +40,7 @@ S
 $$
 
 
-##{#3 .williams} (A/)n(3). [[aan3 陰去]]
+##{#3 .williams} (A/)n(3) [[aan3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">
