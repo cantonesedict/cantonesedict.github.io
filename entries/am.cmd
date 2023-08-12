@@ -258,6 +258,10 @@ C
     and once as 掩 _(1)(O\)m_ [[am1]] as a variant of $揞2 _(2)(O\)m_ [[am2]]
     on Page~341.
   ==
+S
+  ==
+  - $掩jim2 (TODO)
+  ==
 $$
 
 ### 揞2 | _(2)(O\)m_ [[am2]]
