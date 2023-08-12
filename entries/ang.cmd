@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [ang1](#1)
+- [ang2](#2)
 ==
 </nav>
 <## /tones ##>
@@ -128,4 +129,48 @@ W
         split this knot for me.
     ==
   ====
+$$
+
+
+##{#2 .williams} (2)Ang. [[ang2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $哽2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 哽2 | _(2)ang_ [[ang2]]
+
+$$
+R
+  口 + 7
+U
+  U+54FD
+V
+  ==
+  - gang2 (expected from 古杏切)
+  ==
+W
+  ====
+  - [[Page~4 (2)哽]]
+    ==
+    - Stoppage in the throat;
+    - hesitation in speech from rage or impediment;
+    - _(2)ang (i/)t(8)_
+        [[ang2 yit3 哽咽]]
+        sobbing;
+    - _(2)ang sak(7)_
+        [[ang2 sak1 哽塞]]
+        unable to talk.
+    ==
+  ====
+S
+  ==
+  - $哽gang2 (TODO)
+  - $哽kang2 (TODO)
+  - $㾘ang2
+  ==
 $$
