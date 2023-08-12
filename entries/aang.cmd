@@ -87,7 +87,7 @@ V
   ==
 W
   ====
-  - [[Page~4 (1)罃; here normalised to 罌]]
+  - [[Page~4 (1)罃 _(1)Ang_ (ang1); here normalised to 罌]]
     ==
     - An earthen jar, with a narrow neck, to hold oil, &c.;
     - _(1)ang ong(3) (2)tsai_
