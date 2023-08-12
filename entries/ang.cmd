@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ang
-* %date-modified --> 2023-08-02
+* %date-modified --> 2023-08-12
 * %copyright-prior-years -->
 
 %%%
-
---{.modern}
-[[From Page~4 of the original onwards.]]
---
 
 #{.williams} Ang. [[ang]]
 
@@ -21,3 +17,29 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [[Work in progress]]
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Ang. [[Page~4]]
+  ==
+WP
+  ==
+  - Ang <span class="modern">= [ɐŋ]</span>
+  ==
+MP
+  ==
+  - ang = [ɐŋ]
+  ==
+S
+  ==
+  - $ngang [[TODO]]
+  ==
+$$
