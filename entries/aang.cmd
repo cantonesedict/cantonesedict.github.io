@@ -43,3 +43,27 @@ $$
 
 
 ##{#1 .williams} (1)(A/)ng. [[aang1 陰平]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $甖1
+==
+</nav>
+<## /tone-1-characters ##>
+
+### 甖1 | _(1)(a/)ng_ [[aang1]]
+
+$$
+R
+  瓦 + 14
+U
+  U+7516
+W
+  ====
+  - [[Page~4 (1)甖(1)罌]]
+    --
+    [[Variant of 罌. **See $罌aang1 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+$$
