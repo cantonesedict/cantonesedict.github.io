@@ -67,7 +67,7 @@ W
   [[Not present]]
 C
   ==
-  - Here normalised to 捱; **see $捱ngaai4 for the canonical entry**. [[TODO]]
+  - Here normalised to 捱; **see $捱ngaai4 for the canonical entry**. (TODO)
   ==
 S
   ==

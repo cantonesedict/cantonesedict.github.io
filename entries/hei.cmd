@@ -67,7 +67,7 @@ W
   [[Not present]]
 C
   ==
-  - 【屭】 (hei3): Of great strength. See 贔屭 under $贔bei6. [[TODO]]
+  - 【屭】 (hei3): Of great strength. See 贔屭 under $贔bei6. (TODO)
   ==
 S
   =={.modern}

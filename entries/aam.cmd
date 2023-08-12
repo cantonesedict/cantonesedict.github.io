@@ -78,6 +78,6 @@ C
   ==
 S
   ==
-  - $菡haam5 [[TODO]]
+  - $菡haam5 (TODO)
   ==
 $$

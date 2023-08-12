@@ -39,7 +39,7 @@ S
   ==
   - $aang
   - $ngaang
-  - $ngang [[TODO]]
+  - $ngang (TODO)
   ==
 $$
 
