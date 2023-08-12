@@ -5,19 +5,41 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aang
-* %date-modified --> 2023-08-02
+* %date-modified --> 2023-08-12
 * %copyright-prior-years -->
 
 %%%
 
---{.modern}
-[[From Page~4 of the original onwards.]]
---
-
 #{.williams} (A/)ng. [[aang]]
 
+<## tones ##>
 <nav class="sideways">
 =={.modern}
-- [[Work in progress]]
+- [aang1](#1)
 ==
 </nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - (A/)ng. [[Page~4]]
+  ==
+WP
+  ==
+  - (A/)ng <span class="modern">= [aːŋ]</span>
+  ==
+MP
+  ==
+  - aang = [aːŋ]
+  ==
+S
+  ==
+  - $ang
+  - $ngaang
+  - $ngang [[TODO]]
+  ==
+$$
+
+
+##{#1 .williams} (1)(A/)ng. [[aang1 陰平]]
