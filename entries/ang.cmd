@@ -53,11 +53,30 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $嚶1
 - $罃1
 - $鶯1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 嚶1 | _(1)ang_ [[ang1]]
+
+$$
+R
+  口 + 17
+U
+  U+56B6
+W
+  ====
+  - [[Page~4 (1)嚶]]
+    --
+    [[The expected reflex is ang1 from Middle Chinese 烏莖切,
+    but the common reading is jing1 (possibly after 《韻會》幺莖切);
+    **see $嚶jing1 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+$$
 
 ### 罃1 | _(1)ang_ [[ang1]]
 
@@ -70,7 +89,7 @@ W
   ====
   - [[Page~4 (1)罃]]
     --
-    [[Variant of 罌. **See $罌aang1 for the canonical entry.**]]
+    [[Variant of 罌. **See $罌aang1 for the canonical entry.**]] [[TODO]]
     --
   ====
 $$
