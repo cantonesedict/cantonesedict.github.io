@@ -60,7 +60,7 @@ U
   U+664F
 W
   ====
-  - [[Page~4, 晏(3)]]
+  - [[Page~4 晏(3)]]
     ==
     - Evening, sunset;
     - a serene, clear, sky;
@@ -114,7 +114,7 @@ A
   ==
 W
   ====
-  - [[Page~4, 鷃(3)]]
+  - [[Page~4 鷃(3)]]
     ==
     - A kind of small partridge, which breeds on the ground,
       and is said to crow in the morning.
