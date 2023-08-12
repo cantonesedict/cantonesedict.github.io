@@ -140,7 +140,7 @@ W
   [[Not present]]
 C
   ==
-  - The expected Cantonese reflex is am1 from the olden rime books,
+  - The expected reflex is am1 from Middle Chinese 烏含切,
     but 《分韻撮要》 has am2; **see $諳am2 for the canonical entry**.
   ==
 S
@@ -367,7 +367,7 @@ U
   U+8AF3
 V
   ==
-  - am1 (expected reflex)
+  - am1 (expected from 烏含切)
   ==
 W
   ====
@@ -389,8 +389,7 @@ W
   ====
 C
   ==
-  - The expected Cantonese reflex is am1 from the olden rime books
-    (which have 烏含切).
+  - The expected reflex is am1 from Middle Chinese 烏含切.
   ==
 S
   ==
@@ -407,7 +406,7 @@ U
   U+95C7
 V
   ==
-  - am3 (expected reflex)
+  - am3 (expected from 烏紺切)
   ==
 W
   ====
@@ -429,8 +428,7 @@ W
   ====
 C
   ==
-  - The expected Cantonese reflex is am3 from the olden rime books
-    (which have 烏紺切).
+  - The expected reflex is am3 from Middle Chinese 烏紺切.
   ==
 S
   ==
@@ -539,7 +537,7 @@ W
   [[Not present]]
 C
   ==
-  - The expected Cantonese reflex is am3 from the olden rime books,
+  - The expected reflex is am3 from Middle Chinese 烏紺切,
     but 《分韻撮要》 has am2; **see $闇am2 for the canonical entry**.
   ==
 S

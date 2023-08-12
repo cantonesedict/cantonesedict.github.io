@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ai
-* %date-modified --> 2023-08-11
+* %date-modified --> 2023-08-12
 * %copyright-prior-years -->
 
 %%%
@@ -194,8 +194,7 @@ W
   ====
 C
   ==
-  - The expected Cantonese reflex is hei3 from the olden rime books
-    (which have 虛器切 and 許意切).
+  - The expected reflex is hei3 from Middle Chinese 虛器切 and 許意切.
   ==
 S
   ==
