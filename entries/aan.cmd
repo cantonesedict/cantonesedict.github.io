@@ -12,11 +12,6 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 #{.williams} (A/)n. [[aan]]
 
-<nav class="sideways">
-=={.modern}
-- [[Work in progress]]
-==
-</nav>
 <## tones ##>
 <nav class="sideways">
 =={.modern}
@@ -51,6 +46,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $晏3
+- $鷃3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -103,4 +99,25 @@ C
   - Williams' "tiffin": British for "lunch".
   - Williams' 上晏: Now rarely heard; 上晝 is more common.
   ==
+$$
+
+### 鷃3 | _(a/)n(3)_ [[aan3]]
+
+$$
+R
+  鳥 + 10
+U
+  U+9DC3
+A
+  ==
+  -{.modern} 鴳
+  ==
+W
+  ====
+  - [[Page~4, 鷃(3)]]
+    ==
+    - A kind of small partridge, which breeds on the ground,
+      and is said to crow in the morning.
+    ==
+  ====
 $$
