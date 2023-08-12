@@ -5,10 +5,10 @@ OrdinaryDictionaryReplacement: #.syntax.addition-marker-to-class
 RegexDictionaryReplacement: #.syntax.character-headings
 - queue_position: BEFORE #headings
 * ^[#]{3} (?P<addition_marker> [+]? )
-    [ ] (?P<character> \S ) (?P<tone_number> [1-6] )
+    [ ] (?P<bracketed> \[? (?P<character> \S ) \]? ) (?P<tone_number> [1-6] )
     (?P<composition> .*? ) [ ][|][ ] (?P<reading> .* )
     -->
-  ###{#\g<tone_number>\g<character> .williams\g<addition_marker>} <span class="headword">\g<character>\g<composition></span> \g<reading>
+  ###{#\g<tone_number>\g<character> .williams\g<addition_marker>} <span class="headword">\g<bracketed>\g<composition></span> \g<reading>
 - concluding_replacements: #.syntax.addition-marker-to-class
 
 

@@ -21,11 +21,18 @@ def gather_tone_syllable_list(cmd_content):
 
 def gather_toned_characters_from_tone(cmd_content, tone_syllable_list):
     return {
-        tone: re.findall(
-            pattern=fr'^ \#{{3}} [+]? [ ] (?P<toned_character> \S {tone} ) .* \[\[ {syllable}{tone} \]\] $',
-            string=cmd_content,
-            flags=re.MULTILINE | re.VERBOSE,
-        )
+        tone: [
+            re.sub(
+                pattern=r'[\[\]]',
+                repl='',
+                string=toned_character,
+            )
+            for toned_character in re.findall(
+                pattern=fr'^ \#{{3}} [+]? [ ] (?P<toned_character> \[? \S \]? {tone} ) .* \[\[ {syllable}{tone} \]\] $',
+                string=cmd_content,
+                flags=re.MULTILINE | re.VERBOSE,
+            )
+        ]
         for tone, syllable in tone_syllable_list
     }
 

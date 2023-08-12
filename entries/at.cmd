@@ -45,12 +45,12 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
-- $？1
+- $扤1
 ==
 </nav>
 <## /tone-1-characters ##>
 
-### ？1 | _At(7)_ [[at1]]
+### [扤]1 | _At(7)_ [[at1]]
 
 $$
 W
