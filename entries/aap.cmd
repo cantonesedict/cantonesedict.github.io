@@ -45,11 +45,29 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
-- $鴨3
 - $押3
+- $鴨3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 押3 | _(A/)p(8)_ [[aap3]]
+
+$$
+R
+  手 + 5
+U
+  U+62BC
+W
+  ====
+  - [[Page~5 押(8)]]
+    --
+    [[The expected reflex is aap3 from Middle Chinese 烏甲切,
+    but the common reading is aat3;
+    **see $押aat3 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+$$
 
 ### 鴨3 | _(A/)p(8)_ [[aap3]]
 
@@ -90,22 +108,4 @@ C
     Slang for male prostitute.
     Compare $雞gai1 "chicken" for female prostitute. (TODO)
   ==
-$$
-
-### 押3 | _(A/)p(8)_ [[aap3]]
-
-$$
-R
-  手 + 5
-U
-  U+62BC
-W
-  ====
-  - [[Page~5 押(8)]]
-    --
-    [[The expected reflex is aap3 from Middle Chinese 烏甲切,
-    but the common reading is aat3;
-    **see $押aat3 for the canonical entry.**]] [[TODO]]
-    --
-  ====
 $$
