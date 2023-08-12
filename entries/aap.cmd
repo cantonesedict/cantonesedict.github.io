@@ -88,7 +88,7 @@ C
   ==
   - 【鴨】 (aap3-2):
     Slang for male prostitute.
-    Compare $雞gai1 "chicken" for female prostitute.
+    Compare $雞gai1 "chicken" for female prostitute. (TODO)
   ==
 $$
 
