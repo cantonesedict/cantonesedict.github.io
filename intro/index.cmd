@@ -2292,7 +2292,7 @@ and having a general acquaintance with the primitives, the number
 of strokes can most quickly be ascertained by inspection. For instance,
 the character _m(u/)t(9)_ [[mut6]] 𩱷 [[⿱⿲弓⿰米蔑弓鬲]] rice porridge, found under the radical
 _lik_ [[lik]] 鬲, is made up of 弓, 弓, 米, and [蔑], which severally
-number 3, 3, 6, and 15~strokes, or 27 in all; the character _(i/)m(6)_ [[yim6]] 灎
+number 3, 3, 6, and 15~strokes, or 27 in all; the character _(i/)m(6)_ [[jim6]] 灎
 bubbling water, placed under the radical _shui_ [[seoi]] 水, is composed
 of 曲, 豆, 去, 皿, numbering 6, 7, 5, and 5~strokes, or 23 in
 all. The number of characters formed of so many strokes as these
