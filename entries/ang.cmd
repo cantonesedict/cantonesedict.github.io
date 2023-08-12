@@ -41,6 +41,8 @@ MP
   ==
 S
   ==
+  - $aang
+  - $ngaang
   - $ngang [[TODO]]
   ==
 $$
@@ -51,10 +53,27 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $罃1
 - $鶯1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 罃1 | _(1)ang_ [[ang1]]
+
+$$
+R
+  缶 + 10
+U
+  U+7F43
+W
+  ====
+  - [[Page~4 (1)罃]]
+    --
+    [[Variant of 罌. **See $罌aang1 for the canonical entry.**]]
+    --
+  ====
+$$
 
 ### 鶯1 | _(1)ang_ [[ang1]]
 
