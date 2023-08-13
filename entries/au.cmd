@@ -198,6 +198,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $嘔2
+- $毆2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -246,6 +247,32 @@ W
     - _(2)au long(6)_
         [[au2 long6 嘔浪]]
         seasick.
+    ==
+  ====
+$$
+
+### 毆2 | _(2)Au_ [[au2]]
+
+$$
+R
+  殳 + 11
+U
+  U+6BC6
+W
+  ====
+  - [[Page~6 (2)毆]]
+    ==
+    - To fight, to hit with a stick;
+    - to strike, to knock;
+    - _tau(3) (2)au_
+        [[dau3 au2 鬥毆]],
+        to wrangle, to fisticuff;
+    - _(2)au yuk(9)_
+        [[au2 juk6 毆辱]]
+        to disgrace a man by knocking him;
+    - _(2)au (2)t(a/)_
+        [[au2 daa2 毆打]],
+        to beat, to take a stick to.
     ==
   ====
 $$
