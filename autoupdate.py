@@ -11,6 +11,31 @@ import re
 import sys
 
 
+def is_bad_jyutping_heuristic(string):
+    return (
+        re.search(pattern=r'\b y', string=string, flags=re.VERBOSE)
+        or re.search(pattern=r'[789]', string=string)
+    )
+
+
+def check_jyutping_heuristic(entry_cmd_name, cmd_content):
+    bad_jyutping_runs = [
+        run
+        for run in re.findall(
+            pattern=r'(?<= \[\[ ) [a-z] .*? (?= \]\] )',
+            string=cmd_content,
+            flags=re.VERBOSE,
+        )
+        if is_bad_jyutping_heuristic(run)
+    ]
+    if bad_jyutping_runs:
+        print(
+            f'Error in `{entry_cmd_name}`: bad Jyutping in {bad_jyutping_runs}',
+            file=sys.stderr,
+        )
+        sys.exit(1)
+
+
 def gather_tone_syllable_list(cmd_content):
     return re.findall(
         pattern=r'^ \#\# \{ \#(?P<tone> [1-6] ) .* \[\[ (?P<syllable> [a-z]+ )(?P=tone) .* \]\] $',
@@ -100,6 +125,7 @@ def update_entry(entry_cmd_name):
     with open(entry_cmd_name, 'r', encoding='utf-8') as old_cmd_file:
         old_cmd_content = old_cmd_file.read()
 
+    check_jyutping_heuristic(entry_cmd_name, old_cmd_content)
     tone_syllable_list = gather_tone_syllable_list(old_cmd_content)
     check_gathered_syllables(entry_cmd_name, tone_syllable_list)
     toned_characters_from_tone = gather_toned_characters_from_tone(old_cmd_content, tone_syllable_list)
