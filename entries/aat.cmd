@@ -77,43 +77,43 @@ W
     - to compel, to force;
     - to escort;
     - to suppress;
-    - a lockup or detention room in a y(a/)mun [[]];
+    - a lockup or detention room in a y(a/)mun [[衙門]];
     - _w(a/)k(9) (1)f(a/) [(a/)t](8)_
-        [[waak6 faa1 aat3]]
+        [[waak6 faa1 aat3 畫花押]]
         to make one's mark, to write a device;
     - _[(a/)t](8) fo(3)_
-        [[aat3 fo3]]
+        [[aat3 fo3 押貨]]
         to escort goods;
     - _[(a/)t](8) (5)k(')(u") ts(o\)(6)_
-        [[aat3 keoi5 zou6]]
+        [[aat3 keoi5 zou6 押佢做]]
         make him do it;
     - _[(a/)t](8) sung(3) (4)yan_
-        [[aat3 sung3 yan4]],
+        [[aat3 sung3 yan4 押送人]],
         an escort;
     - _(4)'m (1)k(a/)m [(a/)t](8) (5)n(i/)_
-        [[m4 gaam1 aat3 nei5]],
+        [[m4 gaam1 aat3 nei5 唔監押你]],
         I'll not keep you;
         not detain you;
     - _[(a/)t](8) [(5)]wan_
-        [[aat3 wan5]]
+        [[aat3 wan5 押韻]]
         to rhyme;
     - _[(a/)t](8) (4)sh(u")n_
-        [[aat3 syun4]],
+        [[aat3 syun4 押船]],
         custom-house boats, guard-boats;
     - _[(a/)t](8) chan(6)_
-        [[aat3 zan6]]
+        [[aat3 zan6 押陣]]
         to go into battle;
     - _(1)ts(')(i/)m [(a/)t](8) (4)fong_
-        [[cim1 aat3 fong1]],
+        [[cim1 aat3 fong4 簽押房]],
         a lockup;
     - _(1)ts(')(i/)m [(a/)t](8)_
-        [[cim1 aat3]]
+        [[cim1 aat3 簽押]]
         to endorse an edict, in red ink;
     - _[(a/)t](8) (1)pong_
-        [[aat3 bong1]]
+        [[aat3 bong1 押幫]]
         to look after, to escort;
     - _[(a/)t](8) (1)tung_
-        [[aat3 dung1]],
+        [[aat3 dung1 押冬]],
         kept over winter; left over the season, as teas.
     ==
   - [[Page~5 押(8) _(A/)t(8)_ (aat3)]]
@@ -121,25 +121,25 @@ W
     - To pawn for a time;
     - to reserve, to keep back;
     - _(a/)t(8) kwai(6)_
-        [[aat3 gwai6]]
+        [[aat3 gwai6 押櫃]]
         deposit money;
     - _(2)h(e/)ung (a/)t(8)_
-        [[hoeng2 aat3]]
+        [[hoeng2 aat3 餉押]]
         recognized pawn-shops;
     - _kai(3) (a/)t(8)_
-        [[gai3 aat3]]
+        [[gai3 aat3 髻押]]
         a hair band-pin;
     - _(a/)t(8) p(')i(u/)(3)_
-        [[aat3 piu3]]
+        [[aat3 piu3 押票]]
         to pledge or shave a pawn ticket;
     - _(2)kau (5)'ng (a/)t(8)_
-        [[gau2 ng5 aat3]]
+        [[gau2 ng5 aat3 九五押]]
         a five per cent. discount pawnbroker;
     - _(2)si(u/) (a/)t(8)_
-        [[siu2 aat3]]
+        [[siu2 aat3 小押]]
         a little pawn-shop;
     - _tong(3) (a/)t(8)_
-        [[dong3 aat3]]
+        [[dong3 aat3 當押]]
         to pawn.
     ==
   ====
@@ -152,6 +152,8 @@ C
     Note that 押 is (probably) cognate with 壓,
     and while 壓 also has a Middle Chinese reading of 烏甲切,
     its modern reading as aat3 is uncontroversial.
+  - Williams' 押韻: Changed Middle Chinese _wan(6)_ [[wan6]]
+    to common reading _(5)wan_ [[wan5]].
   ==
 S
   ==
