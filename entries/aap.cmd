@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aap
-* %date-modified --> 2023-08-12
+* %date-modified --> 2023-08-13
 * %copyright-prior-years -->
 
 %%%
@@ -64,9 +64,13 @@ W
     --
     [[The expected reflex is aap3 from Middle Chinese 烏甲切,
     but the common reading is aat3;
-    **see $押aat3 for the canonical entry.**]] [[TODO]]
+    **see $押aat3 for the canonical entry.**]]
     --
   ====
+S
+  ==
+  - $押aat3
+  ==
 $$
 
 ### 鴨3 | _(A/)p(8)_ [[aap3]]
