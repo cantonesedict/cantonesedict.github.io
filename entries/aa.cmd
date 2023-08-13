@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2023-08-11
+* %date-modified --> 2023-08-13
 * %copyright-prior-years -->
 
 %%%
@@ -149,7 +149,7 @@ W
         [[gam2 zou6 aa1 噉做吖]],
         no, this is the way to do it.
     ==
-  - [[Page~1|n44, 呀; here normalised to 吖]]
+  - [[Page~1|n44 (1)呀; here normalised to 吖]]
     --
     A colloquial word.
     --
@@ -284,7 +284,7 @@ W
     --
     Also read _ak(7)_ [[ak1]]; [[**see $啞ak1**]].
     --
-  - [[Page~1|n44, 瘂; here normalised to 啞]]
+  - [[Page~1|n44 (2)瘂; here normalised to 啞]]
     ==
     - Dumb, unable to speak;
     - dull, faded;
@@ -364,7 +364,7 @@ V
   ==
 W
   ====
-  - [[Page~2, 亞(3)阿(3)]]
+  - [[Page~2 亞(3)阿(3)]]
     ==
     - Hunchbacked;
     - to esteem lightly, to regard as inferior;
@@ -392,7 +392,7 @@ U
   U+5440
 W
   ====
-  - [[Page~1|n44, 呀(3)]]
+  - [[Page~1|n44 呀(3)]]
     --
     A colloquial word
     [[here normalised to 啊; **see $啊aa3 for the canonical entry**]].
@@ -427,7 +427,7 @@ V
   ==
 W
   ====
-  - [[Page~1|n44, 呀(3); here normalised to 啊]]
+  - [[Page~1|n44 呀(3); here normalised to 啊]]
     ==
     - A final particle, adding intensity to the meaning;
     - _(4)'m (2)h(o\) (a/)(3)_
@@ -455,7 +455,7 @@ U
   U+5A6D
 W
   ====
-  - [[Page~2, 婭(3)]]
+  - [[Page~2 婭(3)]]
     ==
     - Brothers-in-law;
     - _(1)yan (a/)(3)_
@@ -481,7 +481,7 @@ A
   ==
 W
   ====
-  - [[Page~2, 亞(3)阿(3)]]
+  - [[Page~2 亞(3)阿(3)]]
     ==
     - [[see $亞3 for the "second/inferior" senses]]
     - a syllable prefixed to proper names,
@@ -578,7 +578,7 @@ V
   ==
 W
   ====
-  - [[Page~1|n44, 呀(3)]]
+  - [[Page~1|n44 呀(3)]]
     --
     A colloquial word.
     --

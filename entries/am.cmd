@@ -351,7 +351,7 @@ U
   U+6B3F
 W
   ====
-  - [[Page~342, (2)欿]]
+  - [[Page~342 (2)欿]]
     --
     [[Idiosyncratic reading from 《分韻撮要》; **see $欿ham2 for the canonical entry**.]]
     --
@@ -375,7 +375,7 @@ V
   ==
 W
   ====
-  - [[Page~342, (2)諳]]
+  - [[Page~342 (2)諳]]
     ==
     - Accustomed, skilled in, versed;
     - to know, fully acquainted with;
@@ -414,7 +414,7 @@ V
   ==
 W
   ====
-  - [[Page~342, (2)闇]]
+  - [[Page~342 (2)闇]]
     ==
     - To shut the door, to withdraw from society, to retire from;
     - retired, dark, an obscure recess;
@@ -449,7 +449,7 @@ U
   U+9EEF
 W
   ====
-  - [[Page~342, (2)黯]]
+  - [[Page~342 (2)黯]]
     ==
     - Dark, pitch dark, dark as a midnight;
     - astonied and silent, as if lost in amazement;

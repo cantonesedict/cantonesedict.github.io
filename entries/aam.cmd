@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aam
-* %date-modified --> 2023-08-12
+* %date-modified --> 2023-08-13
 * %copyright-prior-years -->
 
 %%%
@@ -63,7 +63,7 @@ V
   ==
 W
   ====
-  - [[Page~4, (2)菡]]
+  - [[Page~4 (2)菡]]
     ==
     -  An unopened flower;
     - _(2)(a/)m t(a/)m(6)_
