@@ -65,7 +65,7 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 - $ang
 - $ap
 - $at
-- $au (work in progress)
+- $au
 ==
 </nav>
 
