@@ -53,6 +53,7 @@ $$
 =={.modern}
 - $區1
 - $甌1
+- $謳1
 - $鷗1
 ==
 </nav>
@@ -109,6 +110,30 @@ W
     - _muk(9) (1)au_
         [[muk6 au1 木甌]],
         a wooden bowl.
+    ==
+  ====
+$$
+
+### 謳1 | _(1)Au_ [[au1]]
+
+$$
+R
+  言 + 11
+U
+  U+8B33
+W
+  ====
+  - [[Page~6 (1)謳]]
+    ==
+    - To sing songs in recitative;
+    - a chant;
+    - a ballad, a ditty;
+    - _(u")t(9) (1)au_
+        [[jyut6 au1 粵謳]],
+        Canton Songs;
+    - _(1)au (4)yam_
+        [[au1 jam4 謳吟]],
+        to sing songs.
     ==
   ====
 $$
