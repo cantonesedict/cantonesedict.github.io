@@ -107,7 +107,7 @@ W
         [[jau4 aang1 油罌]],
         an oil can;
     - _yat(7) (1)(a/)ng (5)y(e/)_
-        [[jat1 aang1 ye5 一罌嘢]],
+        [[jat1 aang1 je5 一罌嘢]],
         a thing;
     - _(2)shui (1)(a/)ng_
         [[seoi2 aang1 水罌]],

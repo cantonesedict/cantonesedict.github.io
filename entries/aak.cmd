@@ -144,7 +144,7 @@ W
     ==
     - To deceive, to delude, to take in;
     - _(2)k(o\)m y(e/)ung(6) (a/)k(7) (4)yan k(e/)(3)_
-        [[gam2 joeng6-2 aak1 yan4 ge3-2 噉樣阨人嘅]]
+        [[gam2 joeng6-2 aak1 jan4 ge3-2 噉樣阨人嘅]]
         are you going to cheat him so!
     ==
   ====

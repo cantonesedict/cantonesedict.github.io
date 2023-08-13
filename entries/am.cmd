@@ -426,7 +426,7 @@ W
         [[am2 mun4 ze6 haak3 闇門謝客]]
         to decline to see friends;
     - _(2)(o\)m y(e/)uk(9)_
-        [[am2 yoek6 闇弱]]
+        [[am2 joek6 闇弱]]
         unenlightened.
     ==
   ====

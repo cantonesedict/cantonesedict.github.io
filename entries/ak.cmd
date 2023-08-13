@@ -170,7 +170,7 @@ W
         [[ak1 ci4 握持]],
         to hold in the hand;
     - _ak(7) i(u/)(3)_
-        [[ak1 yiu3 握要]]
+        [[ak1 jiu3 握要]]
         necessary.
     ==
   ====

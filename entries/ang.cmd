@@ -156,7 +156,7 @@ W
     - Stoppage in the throat;
     - hesitation in speech from rage or impediment;
     - _(2)ang (i/)t(8)_
-        [[ang2 yit3 哽咽]]
+        [[ang2 jit3 哽咽]]
         sobbing;
     - _(2)ang sak(7)_
         [[ang2 sak1 哽塞]]
@@ -243,7 +243,7 @@ W
     - More, still more;
     - try again;
     - _ang(3) (5)yau (1)t(')(i/)m_
-        [[ang3 yau5 tim1 更有添]],
+        [[ang3 jau5 tim1 更有添]],
         there are more;
     - _ang(3) noi(6) t(i/)(6)_
         [[ang3 noi6 dei6-2 更耐地]]
