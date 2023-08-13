@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [au1](#1)
+- [au2](#2)
 ==
 </nav>
 <## /tones ##>
@@ -94,9 +95,16 @@ U
 W
   ====
   - [[Page~6 (1)歐]]
+    --
+    To sing; to crow merrily; in which it is like the last [[謳]].
+    --
+    --
+    Used for the next [[嘔]], to vomit;
+    --
+    --
+    [[Otherwise:]]
+    --
     ==
-    - To sing; to crow merrily; in which it is like the last [[謳]].
-    - Used for the next [[嘔]], to vomit;
     - _(1)au (1)t(o\)_
         [[au1 dou1 歐刀]],
         a headsman's sword.
@@ -179,6 +187,65 @@ W
     - _(1)sh(a/) (1)au_
         [[saa1 au1 沙鷗]],
         a white gull.
+    ==
+  ====
+$$
+
+
+##{#2 .williams} (2)Au [[au2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $嘔2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 嘔2 | _(2)Au_ [[au2]]
+
+$$
+R
+  口 + 11
+U
+  U+5614
+W
+  ====
+  - [[Page~6 (2)嘔]]
+    --
+    Interchanged with the last [[歐]].
+    --
+    --
+    [[Otherwise:]]
+    --
+    ==
+    - To vomit;
+    - the noise of retching;
+    - to spit out;
+    - a child's prattle;
+    - to sing, to make a glad noise;
+    - _(2)au h(u")t(8)_
+        [[au2 hyut3 嘔血]]
+        to spit blood;
+    - _(2)au (1)f(a/)n ch(')ut(7) (4)lai_
+        [[au2 faan1 ceot1 lai4 嘔返出嚟]],
+        to disgorge;
+        to pay back;
+    - _tsok(8) (2)au_
+        [[zok3 au2 作嘔]],
+        a disposition to vomit;
+    - _(2)au (1)hi(u/) (2)k(i/) t(a/)m(6)_
+        [[au2 hiu1 gei2 daam6 嘔嘵幾啖]]
+        threw up several times;
+    - _(2)au (1)(a/)_
+        [[au2 aa1 嘔啞]],
+        children humming;
+    - _(2)au t(')(o\)(3)_
+        [[au2 tou3 嘔吐]]
+        to puke;
+    - _(2)au long(6)_
+        [[au2 long6 嘔浪]]
+        seasick.
     ==
   ====
 $$
