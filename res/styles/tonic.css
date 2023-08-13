@@ -23,7 +23,7 @@ blockquote {
 body {
   background: white;
   font-family: var(--modern-font);
-  line-height: 1.4;
+  line-height: 1.6;
   margin: 0;
   overflow-wrap: break-word;
   padding: var(--header-nav-height) var(--body-padding-horizontal) 1.3rem;
