@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Home
-* %date-modified --> 2023-08-12
+* %date-modified --> 2023-08-13
 * %copyright-prior-years -->
 * %modern-colour --> crimson
 
@@ -138,7 +138,7 @@ for the sensitivities of 21st-century readers.**
 
 - Main matter
   ==
-  - [Index of entries by Jyutping slug](/entries/)
+  - [Index of entries by Jyutping](/entries/)
   ==
 ====
 </nav>
