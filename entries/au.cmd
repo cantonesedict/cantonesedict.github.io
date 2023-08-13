@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [au1](#1)
 ==
 </nav>
 <## /tones ##>
@@ -41,5 +42,40 @@ MP
 S
   ==
   - $ngau
+  ==
+$$
+
+
+##{#1 .williams} (1)Au [[au1 陰平]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $區1
+==
+</nav>
+<## /tone-1-characters ##>
+
+### 區1 | _(1)Au_ [[au1]]
+
+$$
+R
+  匸 + 9
+U
+  U+5340
+W
+  ====
+  - [[Page~6 (1)區]]
+    ==
+    - A surname;
+    - a measure of four pecks;
+    - _puk(9) (1)au_
+        [[buk6 au1 蹼區]],
+        to conceal.
+    ==
+  ====
+S
+  ==
+  - $區keoi1 (TODO)
   ==
 $$
