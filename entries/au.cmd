@@ -52,6 +52,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $區1
+- $甌1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -78,4 +79,35 @@ S
   ==
   - $區keoi1 (TODO)
   ==
+$$
+
+### 甌1 | _(1)Au_ [[au1]]
+
+$$
+R
+  瓦 + 11
+U
+  U+750C
+W
+  ====
+  - [[Page~6 (1)甌]]
+    ==
+    - A bowl, a deep cup;
+    - _(5)ng(a/) (1)au_
+        [[ngaa5 au1 瓦甌]],
+        a basin to hold water;
+    - _(4)ch(')(a/) (1)au_
+        [[caa4 au1 茶甌]],
+        a tea-cup;
+    - _(1)(i/)n (1)au_
+        [[jin1 au1 煙甌]],
+        a tobacco-cup;
+    - _p(u/)n(3) (1)au_
+        [[bun3 au1 半甌]],
+        half a cup, as of wine;
+    - _muk(9) (1)au_
+        [[muk6 au1 木甌]],
+        a wooden bowl.
+    ==
+  ====
 $$
