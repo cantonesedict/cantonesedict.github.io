@@ -12,11 +12,6 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 #{.williams} (A/)t. [[aat]]
 
-<nav class="sideways">
-=={.modern}
-- [[Work in progress]]
-==
-</nav>
 <## tones ##>
 <nav class="sideways">
 =={.modern}
@@ -59,6 +54,7 @@ $$
 - $秸3
 - $遏3
 - $閼3
+- $頞3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -126,7 +122,7 @@ W
     - contented, lighthearted;
     - happy looking;
     - _(a/)t(8) (4)(i/)n_
-        [[aat8 yin4 恝然]],
+        [[aat8 jin4 恝然]],
         pleased.
     ==
   ====
@@ -207,7 +203,7 @@ W
         [[aat3 keoi5 zou6 押佢做]]
         make him do it;
     - _[(a/)t](8) sung(3) (4)yan_
-        [[aat3 sung3 yan4 押送人]],
+        [[aat3 sung3 jan4 押送人]],
         an escort;
     - _(4)'m (1)k(a/)m [(a/)t](8) (5)n(i/)_
         [[m4 gaam1 aat3 nei5 唔監押你]],
@@ -370,6 +366,29 @@ W
     - _(a/)t(8) sak(7)_
         [[aat3 sak1 閼塞]]
         to stop up, as water.
+    ==
+  ====
+$$
+
+### 頞3 | _(A/)t(8)_ [[aat3]]
+
+$$
+R
+  頁 + 6
+U
+  U+981E
+W
+  ====
+  - [[Page~6 頞(8)]]
+    ==
+    - The root of the nose;
+    - the frontal sinus;
+    - a saddle;
+    - _ts(')uk(7) (a/)t(8)_
+        [[cuk1 aat3 蹙頞]]
+        to knit the brows;
+    - _(1)yau (a/)t(8)_
+        [[jau1 aat3 幽頞]] a lemur.
     ==
   ====
 $$
