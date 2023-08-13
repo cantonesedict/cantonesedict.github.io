@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [au1](#1)
 - [au2](#2)
+- [au3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -54,6 +55,7 @@ $$
 =={.modern}
 - $區1
 - $歐1
+- $漚1
 - $甌1
 - $謳1
 - $鷗1
@@ -110,6 +112,30 @@ W
         a headsman's sword.
     ==
   ====
+$$
+
+### 漚1 | _(1)Au_ [[au1]]
+
+$$
+R
+  水 + 11
+U
+  U+6F1A
+W
+  ====
+  - [[Page~6 漚(3)]]
+    --
+    Read _(1)au_ [[au1]];
+    --
+    ==
+    - bubbles on the water;
+    - frothy spume.
+    ==
+  ====
+S
+  ==
+  - $漚au3
+  ==
 $$
 
 ### 甌1 | _(1)Au_ [[au1]]
@@ -275,4 +301,63 @@ W
         to beat, to take a stick to.
     ==
   ====
+$$
+
+
+##{#3 .williams} Au(3) [[au3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $漚3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 漚3 | _Au(3)_ [[au3]]
+
+$$
+R
+  水 + 11
+U
+  U+6F1A
+W
+  ====
+  - [[Page~6 漚(3)]]
+    ==
+    - To soak, to macerate, to steep;
+    - to soften by soaking;
+    - _au(3) l(a/)n(6)_
+        [[au3 laan6 漚爛]]
+         soaked and spoiled;
+         to macerate to rags;
+     - _au(3) (4)m(u/)i_
+        [[au3 mui4 漚霉]],
+        soaked till moldy;
+    - _(4)'m (1)k(')am au(3)_
+        [[m4 kam1 au3 唔𠸐漚]]
+        it will spoil if soaked long;
+    - _au(3) t(o\)(3) ch(')au(3)_
+        [[au3 dou3 cau3 漚到臭]]
+        soaked till it stinks;
+    - _au(3) nau(6)_
+        [[au3 nau6 漚腬]]
+        glutted, loathing food;
+    - _(4)t(')ang [(5)]sh(i/)n au(3) (1)ch(u") yuk(9)_
+        [[tang4 sin5 au3 zyu1 juk6 藤鱔漚豬肉]]
+        to fry eels in pork fat, _met._ to add insult to injury.
+    ==
+    --
+    Read _(1)au_ [[au1]]; [[see $漚au1]].
+    --
+  ====
+C
+  ==
+  - Williams' 藤鱔漚豬肉: Corrected _sh(i/)n(6)_ [[sin6]] to _(5)sh(i/)n_ [[sin5]].
+  - 【漚泥】 (au3 nai4): "[May you] rot in mud".
+  ==
+S
+  ==
+  - $漚au1
+  ==
 $$
