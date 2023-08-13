@@ -54,6 +54,7 @@ $$
 - $戞3
 - $押3
 - $揠3
+- $秸3
 - $遏3
 ==
 </nav>
@@ -221,6 +222,30 @@ W
         to pull up a shoot in order to hasten its growth.
     ==
   ====
+$$
+
+### 秸3 | _(A/)t(8)_ [[aat3]]
+
+$$
+R
+  禾 + 6
+U
+  U+79F8
+V
+  ==
+  - gaat3 (expected from 古黠切)
+  ==
+W
+  ====
+  - [[Page~5 秸(8)]]
+    --
+    [[Reading variation; **see $秸gaai1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $秸gaai1 (TODO)
+  ==
 $$
 
 ### 遏3 | _(A/)t(8)_ [[aat3]]
