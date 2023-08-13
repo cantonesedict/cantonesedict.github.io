@@ -52,6 +52,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $區1
+- $歐1
 - $甌1
 - $謳1
 - $鷗1
@@ -81,6 +82,26 @@ S
   ==
   - $區keoi1 (TODO)
   ==
+$$
+
+### 歐1 | _(1)Au_ [[au1]]
+
+$$
+R
+  欠 + 11
+U
+  U+6B50
+W
+  ====
+  - [[Page~6 (1)歐]]
+    ==
+    - To sing; to crow merrily; in which it is like the last [[謳]].
+    - Used for the next [[嘔]], to vomit;
+    - _(1)au (1)t(o\)_
+        [[au1 dou1 歐刀]],
+        a headsman's sword.
+    ==
+  ====
 $$
 
 ### 甌1 | _(1)Au_ [[au1]]
