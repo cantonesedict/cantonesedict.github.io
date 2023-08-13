@@ -122,7 +122,7 @@ W
     - contented, lighthearted;
     - happy looking;
     - _(a/)t(8) (4)(i/)n_
-        [[aat8 jin4 恝然]],
+        [[aat3 jin4 恝然]],
         pleased.
     ==
   ====
