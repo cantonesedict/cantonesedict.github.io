@@ -2278,7 +2278,7 @@ apparent. For many the remainder, where the radical is either
 in combination, or the character is formed of two or three radicals,
 as 相, 聾, or 現, practice will soon give the necessary facility in
 finding them. Some characters as 𢑷 [[original of 彙]], 𢐭 [[olden 喜]], 豑, 𨑊 [[⿰多農]], 𡳨 [[⿰杘桑]], 朅, made
-up of two primitives, are usually placed with reference tp their
+up of two primitives, are usually placed with reference to their
 meaning, and not to the most prominent part where they would be
 looked for; but their number is small. An examination of the radicals
 and the groups placed under them will be found in Williams'
