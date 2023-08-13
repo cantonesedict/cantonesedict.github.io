@@ -53,6 +53,7 @@ $$
 =={.modern}
 - $區1
 - $甌1
+- $鷗1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -108,6 +109,30 @@ W
     - _muk(9) (1)au_
         [[muk6 au1 木甌]],
         a wooden bowl.
+    ==
+  ====
+$$
+
+### 鷗1 | _(1)Au_ [[au1]]
+
+$$
+R
+  鳥 + 11
+U
+  U+9DD7
+W
+  ====
+  - [[Page~6 (1)鷗]]
+    ==
+    - A gull;
+    - _p(a/)k(9) (1)au_
+        [[baak6 au1 白鷗]]
+      or _(4)h(a/)n (1)au_
+        [[haan4 au1 閒鷗]],
+        a kind of gull found about Canton;
+    - _(1)sh(a/) (1)au_
+        [[saa1 au1 沙鷗]],
+        a white gull.
     ==
   ====
 $$
