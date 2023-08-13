@@ -58,6 +58,7 @@ $$
 - $揠3
 - $秸3
 - $遏3
+- $閼3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -347,6 +348,28 @@ W
     - _(a/)t(8) yuk(9) (4)n(a/)n_
         [[aat3 juk6 naan4 遏慾難]],
         hard to curb one's lusts.
+    ==
+  ====
+$$
+
+### 閼3 | _(A/)t(8)_ [[aat3]]
+
+$$
+R
+  門 + 8
+U
+  U+95BC
+W
+  ====
+  - [[Page~6 閼(8)]]
+    ==
+    - To shut, to stop up;
+    - to obstruct;
+    - to suffocate;
+    - to prevent superiors knowing;
+    - _(a/)t(8) sak(7)_
+        [[aat3 sak1 閼塞]]
+        to stop up, as water.
     ==
   ====
 $$
