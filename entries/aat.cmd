@@ -50,6 +50,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $恝3
 - $戛3
 - $戞3
 - $押3
@@ -59,6 +60,35 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 恝3 | _(A/)t(8)_ [[aat3]]
+
+$$
+R
+  心 + 6
+U
+  U+605D
+V
+  ==
+  - gaat3
+  ==
+W
+  ====
+  - [[Page~5 恝(8)]]
+    ==
+    - To dismiss care;
+    - contented, lighthearted;
+    - happy looking;
+    - _(a/)t(8) (4)(i/)n_
+        [[aat8 yin4 恝然]],
+        pleased.
+    ==
+  ====
+S
+  ==
+  - $恝gaat3 (TODO)
+  ==
+$$
 
 ###+ 戛3 | _(A/)t(8)_ [[aat3]]
 
