@@ -53,6 +53,7 @@ $$
 - $戛3
 - $戞3
 - $押3
+- $揠3
 - $遏3
 ==
 </nav>
@@ -200,6 +201,26 @@ S
   ==
   - $押aap3
   ==
+$$
+
+### 揠3 | _(A/)t(8)_ [[aat3]]
+
+$$
+R
+  手 + 9
+U
+  U+63E0
+W
+  ====
+  - [[Page~5 揠(8)]]
+    ==
+    - To pull up;
+    - to eradicate;
+    - _(a/)t(8) (4)mi(u/)_
+        [[aat3 miu4 揠苗]],
+        to pull up a shoot in order to hasten its growth.
+    ==
+  ====
 $$
 
 ### 遏3 | _(A/)t(8)_ [[aat3]]
