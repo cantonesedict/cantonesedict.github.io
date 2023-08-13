@@ -50,6 +50,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $壓3
 - $恝3
 - $戛3
 - $戞3
@@ -60,6 +61,50 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 壓3 | _(A/)t(8)_ [[aat3]]
+
+$$
+R
+  土 + 14
+U
+  U+58D3
+W
+  ====
+  - [[Page~6 壓(8)]]
+    ==
+    - To overthrow, as a wall;
+    - to supply a want;
+    - to press down, to steady, to settle;
+    - to bend;
+    - to subject, to suppress, to conquer;
+    - to injure, to oppress;
+    - to repress, as alarm;
+    - to intimidate;
+    - _(a/)t(8) w(a/)i(6)_
+        [[aat3 waai6 壓壞]]
+        to crush, to hurt by laying on;
+    - _(a/)t(8) p(a/)k(8) sing(3)_
+        [[aat3 baak3 sing3 壓百姓]]
+        to vex the people;
+    - _(4)t(')(a/)n (a/)t(8)_
+        [[taan4 aat3 彈壓]]
+        to subdue, to put a stop to, as a row;
+    - _(a/)t(8) (1)king_
+        [[aat3 ging1 壓驚]],
+        to quiet one's fears;
+    - _(a/)t(8) ch(u")(6)_
+        [[aat3 zyu6 壓住]]
+        to steady;
+    - _chan(3) (a/)t(8)_
+        [[zan3 aat3 鎮壓]]
+        to repress (a revolt); to remove evils;
+    - _(a/)t(8) shat(9)_
+        [[aat3 sat6 壓實]]
+        to press solid.
+    ==
+  ====
+$$
 
 ### 恝3 | _(A/)t(8)_ [[aat3]]
 
