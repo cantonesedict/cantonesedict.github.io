@@ -50,11 +50,52 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $戛3
+- $戞3
 - $押3
 - $遏3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+###+ 戛3 | _(A/)t(8)_ [[aat3]]
+
+$$
+R
+  戈 + 7
+U
+  U+621B
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation; **see $戛gaat3 for the canonical entry.**
+  ==
+S
+  ==
+  - $戛gaat3 (TODO)
+  ==
+$$
+
+### 戞3 | _(A/)t(8)_ [[aat3]]
+
+$$
+R
+  戈 + 8
+U
+  U+621E
+W
+  ====
+  - [[Page~5 戞(8)]]
+    --
+    [[Variant of 戛. **See $戛gaat3 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+S
+  ==
+  - $戞gaat3 (TODO)
+  ==
+$$
 
 ### 押3 | _(A/)t(8)_ [[aat3]]
 
