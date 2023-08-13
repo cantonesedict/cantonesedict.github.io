@@ -85,7 +85,7 @@ W
   ====
   - [[Page~4 (1)罃]]
     --
-    [[Variant of 罌. **See $罌aang1 for the canonical entry.**]]
+    [[Alternative form of 罌. **See $罌aang1 for the canonical entry.**]]
     --
   ====
 $$

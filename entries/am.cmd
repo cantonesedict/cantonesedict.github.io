@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2023-08-12
+* %date-modified --> 2023-08-13
 * %copyright-prior-years -->
 
 %%%
@@ -124,7 +124,7 @@ W
   ====
   - [[Page~341 (1)庵(1)菴]]
     --
-    [[Variant of 庵. **See $庵am1 for the canonical entry.**]]
+    [[Alternative form of 庵. **See $庵am1 for the canonical entry.**]]
     --
   ====
 $$

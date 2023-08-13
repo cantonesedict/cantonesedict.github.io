@@ -88,7 +88,7 @@ W
   ====
   - [[Page~5 戞(8)]]
     --
-    [[Variant of 戛. **See $戛gaat3 for the canonical entry.**]] [[TODO]]
+    [[Alternative form of 戛. **See $戛gaat3 for the canonical entry.**]] [[TODO]]
     --
   ====
 S
