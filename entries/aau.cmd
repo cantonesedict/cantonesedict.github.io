@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [aau1](#1)
 ==
 </nav>
 <## /tones ##>
@@ -41,5 +42,49 @@ MP
 S
   ==
   - $ngaau
+  ==
+$$
+
+
+##{#1 .williams} (1)(A/)u [[aau1 陰平]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $坳1
+==
+</nav>
+<## /tone-1-characters ##>
+
+### 坳1 | _(1)(A/)u_ [[aau1]]
+
+$$
+R
+  土 + 5
+U
+  U+5773
+W
+  ====
+  - [[Page~6 (1)坳]]
+    ==
+    - [[For the literary "uneven" senses,
+      the expected reflex is aau1 from 《廣韻》於交切,
+      but the common reading is aau3
+      (attested in Kangxi, quoting 《集韻》於敎切);
+      **see $坳aau3 for the canonical entry**.]]
+    ==
+    --
+    A colloquial word.
+    --
+    ==
+    -  Poor, destitute;
+    - _(1)(a/)u ai(3)_
+        [[aau1 ai3 坳屭]]
+        in want.
+    ==
+  ====
+S
+  ==
+  - $坳aau3
   ==
 $$
