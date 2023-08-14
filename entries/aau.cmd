@@ -130,7 +130,7 @@ W
         [[aau2 zyun2 gong2 拗轉講]],
         to speak in irony, badinage;
     - _(2)(a/)u (4)(u")_
-        [[aau2 yu4-2 拗魚]],
+        [[aau2 jyu4-2 拗魚]],
         to catch fish in a lifting net.
     ==
     --
@@ -165,6 +165,8 @@ $$
 <nav class="sideways">
 =={.modern}
 - $坳3
+- $拗3
+- $詏3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -207,5 +209,79 @@ C
 S
   ==
   - $坳aau1
+  ==
+$$
+
+### 拗3 | _(A/)u(3)_ [[aau3]]
+
+$$
+R
+  手 + 5
+U
+  U+62D7
+W
+  ====
+  - [[Page~7 拗(3)]]
+    ==
+    - Obstinate, self-willed, perverse;
+    - to rush against madly;
+    - _(a/)u(3) (2)keng_
+        [[aau3 geng2 拗頸]],
+        stiffnecked;
+    - _(a/)u(3) h(i/)(3)_
+        [[aau3 hei3 拗氣]]
+        disputatious, opinionated;
+    - _(a/)u(3) t(o\)(3) t(i/)m(6) (4)wai (2)ch(i/)_
+        [[aau3 dou3 dim6 wai4 zi2 拗到掂為止]],
+        I must have it so or not at all;
+    - _chap(7) (a/)u(3)_
+        [[zap1 aau3 執拗]]
+        set in his way;
+    - _(2)f(a/)n (a/)u(3)_
+        [[faan2 aau3 反拗]]
+        whimsical, contrariwise.
+    ==
+    --
+    [[Alternative form of 詏 "argue". **See $詏aau3 for the canonical entry.**]]
+    --
+  ====
+C
+  ====
+  - There is a subtle difference between $拗aau3 "stubborn" and $詏aau3 "argue".
+    Kangxi has:
+    ==
+    - For 拗: 拗戾、固相違也 "stubborn-perverse, obstinately going against".
+    - For 詏: 言逆也 "speech defying".
+    ==
+    Nevertheless, being stubborn is not too far from being argumentative;
+    together with 拗 being a more commonly seen character,
+    its use as an alternative form of $詏aau3 is understandable.
+  ====
+S
+  ==
+  - $詏aau3
+  ==
+$$
+
+###+ 詏3 | _(A/)u(3)_ [[aau3]]
+
+$$
+R
+  言 + 5
+U
+  U+8A4F
+A
+  ==
+  -{.modern} $拗3
+  ==
+W
+  [[Not present]]
+C
+  ==
+  - 【詏】 (aau3): To argue.
+  - 【詏贏】 (aau3 jeng3): To win an argument.
+  - There is a subtle difference between $拗aau3 "stubborn" and $詏aau3 "argue".
+    Nevertheless, being stubborn is not too far from being argumentative;
+    **see $拗aau3 for the canonical entry of "stubborn".**
   ==
 $$
