@@ -22,6 +22,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [aau1](#1)
+- [aau2](#2)
+- [aau3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -86,5 +88,67 @@ W
 S
   ==
   - $坳aau3
+  ==
+$$
+
+
+##{#2 .williams} (2)(A/)u [[aau2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tone-2-characters ##>
+
+
+##{#3 .williams} (A/)u(3) [[aau3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $坳3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 坳3 | _(A/)u(3)_ [[aau3]]
+
+$$
+R
+  土 + 5
+U
+  U+5773
+V
+  ==
+  - aau1 (for literary "uneven ground" senses, expected from 《廣韻》於交切)
+  ==
+W
+  ====
+  - [[Page~6 (1)坳 _(1)(A/)u_ (aau1); here normalised to _(A/)u(3)_ (aau3)]]
+    ==
+    - A furrow, a hollow;
+    - an unevenness in the ground;
+    - undulations;
+    - rolling, as land.
+    ==
+  - [[Page~7 坳(3)]]
+    --
+    A colloquial word;
+    --
+    ==
+    - a turn, a corner;
+    - _(2)ch(u")n (a/)u(3)_
+        [[zyun2 aau3 轉坳]]
+        turn the corner.
+    ==
+  ====
+C
+  ==
+  - The reading aau3 is not unattested; Kangxi quotes 《集韻》於敎切音拗.
+  ==
+S
+  ==
+  - $坳aau1
   ==
 $$
