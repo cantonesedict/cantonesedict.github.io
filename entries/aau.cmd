@@ -67,7 +67,7 @@ W
   ====
   - [[Page~6 (1)坳]]
     ==
-    - [[For the literary "uneven" senses,
+    - [[For the literary "uneven ground" senses,
       the expected reflex is aau1 from 《廣韻》於交切,
       but the common reading is aau3
       (attested in Kangxi, quoting 《集韻》於敎切);
