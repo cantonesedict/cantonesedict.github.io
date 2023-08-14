@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Introduction.
-* %date-modified --> 2023-08-13
+* %date-modified --> 2023-08-14
 * %copyright-prior-years -->
 
 %%%
@@ -1932,8 +1932,10 @@ a _shay-pouk_ (း) [[U+1038]] and an _anmyeet_ (့) [[U+1037]] to denote the d
 stress of voice, which changes the signification of words. The
 Chinese denote a different tone in a few common bilingual characters
 by marking them on that corner which is held to correspond to the
-required tone, as 會〬 [[wui6]] 惡〪 [[wu1]] 難〬 [[naan6]] 王〬 [[wong6]] 度〭 [[dok6]], though this is not always
-done. No books are ever printed with the tones marked to each
+required tone, as 會〬 [[wui6]] 惡〪 [[wu1]] 難〬 [[naan6]] 王〬 [[wong6]] 度〭 [[dok6]], though this is not always done.
+[[Font support for these tone marks is known to be poor on Windows and iOS;
+check [Font test page](/font-test/).]]
+No books are ever printed with the tones marked to each
 character, for the reason that every person who can read is deemed
 to be acquainted with them.
 --
