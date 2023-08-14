@@ -12,12 +12,6 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 #{.williams} (A/)u. [[aau]]
 
-<nav class="sideways">
-=={.modern}
-- [[Work in progress]]
-==
-</nav>
-
 <## tones ##>
 <nav class="sideways">
 =={.modern}
@@ -164,12 +158,46 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $凹3
 - $坳3
 - $拗3
 - $詏3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 凹3 | _(A/)u(3)_ [[aau3]]
+
+$$
+R
+  凵 + 3
+U
+  U+51F9
+V
+  ==
+  - nap1 (colloquial)
+  ==
+W
+  ====
+  - [[Page~7 凹(3)]]
+    ==
+    - Indented;
+    - meandering;
+    - the dip of the horizon, the undulations in hills;
+    - a hole, a depression, a pit;
+    - _(1)sh(a/)n (a/)u(3)_
+        [[saan1 aau3 山凹]]
+        a valley;
+    - _(a/)u(3) tsz'(6)_
+        [[aau3 zi6 凹字]]
+        characters cut in bas relief.
+    ==
+  ====
+S
+  ==
+  - $凹nap1 (TODO)
+  ==
+$$
 
 ### 坳3 | _(A/)u(3)_ [[aau3]]
 
