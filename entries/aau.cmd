@@ -97,9 +97,66 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $拗2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 拗2 | _(2)(A/)u_ [[aau2]]
+
+$$
+R
+  手 + 5
+U
+  U+62D7
+W
+  ====
+  - [[Page~7 (2)拗]]
+    ==
+    - To snap a thing in two;
+    - to twist, to break;
+    - to drag along;
+    - _(2)(a/)u ch(i/)t(8)_
+        [[aau2 zit3 拗折]]
+        to break in two;
+    - _(2)(a/)u sui(3)_
+        [[aau2 seoi3 拗碎]]
+        to snap in shivers;
+    - _(2)(a/)u (2)shau (2)keng_
+        [[aau2 sau2 geng2 拗手頸]],
+        to try the strength of the hands;
+        to fall out about a matter;
+    - _(2)(a/)u (2)ch(u")n (2)kong_
+        [[aau2 zyun2 gong2 拗轉講]],
+        to speak in irony, badinage;
+    - _(2)(a/)u (4)(u")_
+        [[aau2 yu4-2 拗魚]],
+        to catch fish in a lifting net.
+    ==
+    --
+    A colloquial word.
+    --
+    ==
+    - Warped, bent;
+    - curved;
+    - _(2)(a/)u (2)(a/)u tik(7)_
+        [[aau2 aau2 dik1 拗拗滴]]
+        a little crooked;
+    - _(2)(a/)u (1)l(u")n_
+        [[aau2 lyun1 拗攣]],
+        to curve.
+    ==
+  ====
+C
+  ==
+  - 【拗手瓜】 (aau2 sau2 gwaa1): Arm wrestle.
+  - 【拗柴】 (aau2 caai4): Sprained ankle.
+  ==
+S
+  ==
+  - $拗aau3
+  ==
+$$
 
 
 ##{#3 .williams} (A/)u(3) [[aau3 陰去]]
