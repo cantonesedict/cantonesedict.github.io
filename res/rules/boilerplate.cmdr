@@ -25,7 +25,7 @@ RegexDictionaryReplacement: #.boilerplate.footer
 * (?=</body>) -->
     "
       <footer class="modern">
-        (C)~%copyright-prior-years|get_year@%date-modified Conway. <br>
+        ©~%copyright-prior-years|get_year@%date-modified Conway. <br>
         %black-serif-note
         Source: [<code>%cmd-name.cmd</code>](https://github.com/cantonesedict/cantonesedict.github.io/blob/master/%cmd-name.cmd).
         Last modified: <time datetime="%date-modified">%date-modified</time>.
