@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [zaa1](#1)
 ==
 </nav>
 <## /tones ##>
@@ -39,5 +40,52 @@ WP
 MP
   ==
   - zaa = [tsaː], [tɕaː]
+  ==
+$$
+
+
+##{#1 .williams} (1)Ch(a/) [[zaa1 陰平]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $渣1
+==
+</nav>
+<## /tone-1-characters ##>
+
+### 渣1 | _(1)Ch(a/)_ [[zaa1]]
+
+$$
+R
+  水 + 9
+U
+  U+6E23
+W
+  ====
+  - [[Page~7 (1)渣]]
+    ==
+    - Name of a river;
+    - dregs, grounds, residuum;
+    - sediment, settlings, refuse after expressing juice;
+    - _(2)tsz' (2)kang (1)ch(a/)_
+        [[zi2 gang2 zaa1 紫梗渣]],
+        shell lac;
+    - _(5)m(o\) (1)ch(a/)_
+        [[mou5 zaa1 冇渣]],
+        there's no refuse left.
+    ==
+    --
+    Often used for the two next [[樝, 皻]].
+    --
+  ====
+C
+  ==
+  - 【油渣】 (jau4 zaa1):
+    Diesel.
+  - 【渣】 (zaa1):
+    Unswallowable remains after chewing untender meat or stringy vegetables.
+  - 【渣都冇】 (zaa1 dou1 mou5):
+    "Even the scraps are gone".
   ==
 $$
