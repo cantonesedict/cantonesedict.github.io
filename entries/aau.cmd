@@ -278,7 +278,7 @@ C
   - There is a subtle difference between $拗aau3 "stubborn" and $詏aau3 "argue".
     Kangxi has:
     ==
-    - For 拗: 拗戾、固相違也 "stubborn-perverse, obstinately going against".
+    - For 拗: 拗戾、固相違也 "stubborn-perverse: obstinately going against".
     - For 詏: 言逆也 "speech defying".
     ==
     Nevertheless, being stubborn is not too far from being argumentative;
