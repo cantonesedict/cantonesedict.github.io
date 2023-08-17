@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2023-08-15
+* %date-modified --> 2023-08-17
 * %copyright-prior-years -->
 
 %%%
@@ -49,10 +49,29 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $樝1
 - $渣1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 樝1 | _(1)Ch(a/)_ [[zaa1]]
+
+$$
+R
+  木 + 11
+U
+  U+6A1D
+W
+  ====
+  - [[Page~7 (1)樝]]
+    ==
+    - A sour red berry as large as a cherry,
+      called _(1)sh(a/)n (1)ch(a/)_ [[saan1 zaa1 山樝]],
+      used for its acid.
+    ==
+  ====
+$$
 
 ### 渣1 | _(1)Ch(a/)_ [[zaa1]]
 
