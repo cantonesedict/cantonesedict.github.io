@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> au
-* %date-modified --> 2023-08-13
+* %date-modified --> 2023-08-17
 * %copyright-prior-years -->
 
 %%%
@@ -69,7 +69,7 @@ W
   - [[Page~6 (1)區]]
     ==
     - A surname;
-    - a measure of four pecks;
+    - a measure of four pecks [[四豆為區]];
     - _puk(9) (1)au_
         [[buk6 au1 蹼區]],
         to conceal.
