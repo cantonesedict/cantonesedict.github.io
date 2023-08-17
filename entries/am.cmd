@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2023-08-14
+* %date-modified --> 2023-08-17
 * %copyright-prior-years -->
 
 %%%
@@ -320,8 +320,8 @@ W
         [[am2 mit6 揞滅]]
         to put out, as fire;
         to quash;
-    - _(2)(o\)m p(a/)k(8) (4)mai (4)mung_
-        [[am2 baak3 mai4 mung4 揞？迷濛]],
+    - _(2)(o\)m p(a/)k[(9)] (4)mai (4)mung_
+        [[am2 baak6 mai4 mung4 揞白迷濛]],
         blindman's buff;
     - _(2)(o\)m ch(u")(6) (5)k(')(u") (1)sh(e/)ung (5)ng(a/)n_
         [[am2 zyu6 keoi5 soeng1 ngaan5 揞住佢雙眼]],
@@ -338,6 +338,7 @@ W
   ====
 C
   ==
+  - Williams' 揞白迷濛: Corrected _p(a/)k(8)_ [[baak3]] to _p(a/)k(9)_ [[baak6]].
   - Williams' 揞背手: Now rarely heard; 揞口費 is more common for "hush money".
   ==
 $$
