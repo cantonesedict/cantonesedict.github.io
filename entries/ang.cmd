@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ang
-* %date-modified --> 2023-08-14
+* %date-modified --> 2023-08-17
 * %copyright-prior-years -->
 
 %%%
@@ -108,10 +108,10 @@ W
         [[wong4 ang1 黃鶯]],
         the mango bird;
     - _(1)ang (1)ko_
-        [[ang1 go1 鶯歌]],
+        [[ang1 go1 鶯哥]],
         a parrot;
     - _(1)ang (1)ko p(i/)(6)_
-        [[ang1 go1 bei6 鶯歌鼻]]
+        [[ang1 go1 bei6 鶯哥鼻]]
         a Roman nose.
     ==
     --
