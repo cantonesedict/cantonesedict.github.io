@@ -49,6 +49,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $㪥1
 - $樝1
 - $渣1
 - $皻1
@@ -56,6 +57,25 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 㪥1 | _(1)Ch(a/)_ [[zaa1]]
+
+$$
+R
+  攴 + 11
+U
+  U+3AA5
+W
+  ====
+  - [[Page~7 (1)㪥]]
+    ==
+    - To put the hand upon, to feel, to press down, to take;
+    - _(1)ch(a/) (5)y(e/)_
+        [[zaa1 je5 㪥嘢]],
+        to handle.
+    ==
+  ====
+$$
 
 ### 樝1 | _(1)Ch(a/)_ [[zaa1]]
 
