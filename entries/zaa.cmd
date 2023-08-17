@@ -49,6 +49,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $𠾵1
 - $揸1
 - $㪥1
 - $樝1
@@ -58,6 +59,30 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 𠾵1 [[⿰口揸]] | _(1)Ch(a/)_ [[zaa1]]
+
+$$
+R
+  口 + 12
+U
+  U+20FB5
+W
+  ====
+  - [[Page~7 (1)𠾵]]
+    --
+    A colloquial particle implying a short time;
+    --
+    ==
+    - _(2)tang (5)ha(a/) (1)ch(a/)!_
+        [[dang2 haa5 zaa1 等吓𠾵]]
+        wait a moment;
+    - _(2)yam (4)ch(')(a/) (1)ch(a/)_
+        [[jam2 caa4 zaa1 飲茶𠾵]],
+        only just to take a cup of tea.
+    ==
+  ====
+$$
 
 ### 揸1 | _(1)Ch(a/)_ [[zaa1]]
 
