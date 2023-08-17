@@ -245,11 +245,15 @@ W
     - _ang(3) (5)yau (1)t(')(i/)m_
         [[ang3 jau5 tim1 更有添]],
         there are more;
-    - _ang(3) noi(6) t(i/)(6)_
-        [[ang3 noi6 dei6-2 更耐地]]
+    - _ang(3) noi(6) [(1)]t(i/)_
+        [[ang3 noi6 di1 更耐啲]]
         rather longer time.
     ==
   ====
+C
+  ==
+  - Williams' 更耐啲: Corrected _t(i/)(6)_ [[dei6]] to _(1)t(i/)_ [[di1]].
+  ==
 S
   ==
   - $更gaang1
