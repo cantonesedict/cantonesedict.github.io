@@ -49,6 +49,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $揸1
 - $㪥1
 - $樝1
 - $渣1
@@ -57,6 +58,70 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 揸1 | _(1)Ch(a/)_ [[zaa1]]
+
+$$
+R
+  手 + 9
+U
+  U+63F8
+W
+  ====
+  - [[Page~7 (1)揸]]
+    --
+    A unauthorized character.
+    --
+    ==
+    - To grasp, to grab, to clutch;
+    - to hold or take firmly;
+    - to work, as a bellows;
+    - to use;
+    - a handful;
+    - _(1)ch(a/) (1)fung (1)s(e/)ung_
+        [[zaa1 fung1 soeng1 揸風箱]],
+        to work a bellows;
+    - _(1)ch(a/) yat(7) t(a/)i(6) (1)ch(a/)_
+        [[zaa1 jat1 daai6 zaa1 揸一大揸]],
+        grab a big handful;
+    - _(1)ch(a/) (2)kan_
+        [[zaa1 gan2 揸緊]],
+        hold it fast;
+    - _(1)ch(a/) (1)t(')(a/)n_
+        [[zaa1 taan1 揸攤]],
+        to keep a gambling-table;
+    - _(1)ch(a/) tak(7) (2)wan_
+        [[zaa1 dak1 wan2 揸得穩]],
+        I hold it safely;
+    - _(1)ch(a/) (2)shui (1)ch(u") yuk(9)_
+        [[zaa1 seoi2 zyu1 juk6 揸水豬肉]]
+        water-sogged pork;
+    - _(1)ch(a/) (2)fo (4)t(')ung_
+        [[zaa1 fo2 tung4 揸伙？]],
+        to be a scullion;
+    - _(5)yau (1)ch(a/) (2)shau_
+        [[jau5 zaa1 sau2 有揸手]]
+        I have security;
+    - _(5)m(o\) (1)ch(a/) (4)n(a/)_
+        [[mou5 zaa1 naa4 冇揸拿]],
+        nothing to hold on by;
+        a Budhist priest is so nicknamed;
+    - _(1)ch(a/) (4)k(')(u")n (4)t(')au_
+        [[zaa1 kyun4 tau4 揸拳頭]],
+        to double up the fist;
+    - _(1)ch(a/) ch(u")(6) kai(3) (2)tsai_
+        [[zaa1 zyu6 gai3 zai2 揸住髻仔]],
+        to grab him by the tail;
+    - _(1)ch(a/) l(a/)n(6)_
+        [[zaa1 laan6 揸爛]]
+        to crush in the hand.
+    ==
+  ====
+C
+  ==
+  - 【揸車】 (zaa1 ce1): Drive a car.
+  ==
+$$
 
 ### 㪥1 | _(1)Ch(a/)_ [[zaa1]]
 
@@ -164,7 +229,7 @@ U
   U+8E45
 W
   ====
-  - [[Page~7 (1)皻]]
+  - [[Page~7 (1)蹅]]
     ==
     - To tread upon;
     -  to put the foot on;
