@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zaa1](#1)
+- [zaa2](#2)
 ==
 </nav>
 <## /tones ##>
@@ -280,4 +281,44 @@ W
         to stamp.
     ==
   ====
+$$
+
+
+##{#2 .williams} (2)Ch(a/) [[zaa2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $鮓2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 鮓2 | _(2)Ch(a/)_ [[zaa2]]
+
+$$
+R
+  魚 + 5
+U
+  U+9B93
+W
+  ====
+  - [[Page~7 (2)鮓]]
+    ==
+    - A rank condiment of fish or flesh and salted hashed fine,
+      with red rice and oil;
+    - _(2)ch(a/) (4)(u")_
+        [[zaa2 jyu4 鮓魚]]
+        a sort of Medusa or sea-blubber;
+    - _[(5)]l(a/) (2)ch(a/)_
+        [[laa5 zaa2 揦鮓]],
+        rank, dirty, foul.
+    ==
+  ====
+C
+  ==
+  - Williams' 揦鮓: Corrected _l(a/)(6)_ [[laa6]] to _(5)l(a/)_ [[laa5]].
+  - 【鮓】 (zaa2):
+    Low quality or crappy.
+  ==
 $$
