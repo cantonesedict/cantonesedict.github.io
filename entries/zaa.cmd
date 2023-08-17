@@ -52,6 +52,7 @@ $$
 - $樝1
 - $渣1
 - $皻1
+- $蹅1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -130,6 +131,26 @@ W
     - _(2)tsau (1)ch(a/)_
         [[zau2 zaa1 酒皻]],
         wine blossoms.
+    ==
+  ====
+$$
+
+### 蹅1 | _(1)Ch(a/)_ [[zaa1]]
+
+$$
+R
+  足 + 9
+U
+  U+8E45
+W
+  ====
+  - [[Page~7 (1)皻]]
+    ==
+    - To tread upon;
+    -  to put the foot on;
+    - _(1)ch(a/) t(a/)p(9)_
+        [[zaa1 daap6 蹅踏]]
+        to stamp.
     ==
   ====
 $$
