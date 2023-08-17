@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ai
-* %date-modified --> 2023-08-12
+* %date-modified --> 2023-08-17
 * %copyright-prior-years -->
 
 %%%
@@ -133,8 +133,8 @@ W
     ==
     - Low;
     - diminutive, short;
-    - _(2)ai (5)l(o\) (2)tsai_
-        [[ai2 lou5 zai2 矮老仔]],
+    - _(2)ai [(2)]l(o\) (2)tsai_
+        [[ai2 lou2 zai2 矮佬仔]],
         a pigmy, a little old man;
     - _(2)p(i/) (1)ch(e/)ung (2)ai tang(3) (2)tsai (5)n(i/) [(5)ts(')o]_
         [[bei2 zoeng1 ai2 dang3 zai2 nei5 co5 畀張矮凳仔你坐]]
@@ -146,6 +146,7 @@ W
   ====
 C
   ==
+  - Williams' 矮佬仔: Corrected _(5)l(o\)_ [[lou5]] to _(2)l(o\)_ [[lou2]].
   - Williams' 畀張矮凳仔你坐: Corrected _tso(6)_ [[zo6 去聲]] to _(5)ts(')o_ [[co5 上聲]].
   ==
 $$
