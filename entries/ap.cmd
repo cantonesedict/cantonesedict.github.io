@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ap
-* %date-modified --> 2023-08-12
+* %date-modified --> 2023-08-17
 * %copyright-prior-years -->
 
 %%%
@@ -80,8 +80,8 @@ W
     - _ap(7) chap(7) p(')(o\)(3)_
         [[ap1 zap1 pou3 洽汁舖]]
         a miserable, dirty shop;
-    - _ap(7) (4)ch(')ong_
-        [[ap1 cong4 洽藏]],
+    - _ap(7) (1)ch(')ong_
+        [[ap1 cong1 洽瘡]],
         to poultice;
     - _(1)(u/)i (4)sh(u") ap(7) (u/)(6)_
         [[wui1 syu4 ap1 wu6 煨薯洽芋]]
