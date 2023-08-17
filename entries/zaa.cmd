@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $樝1
 - $渣1
+- $皻1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -107,4 +108,28 @@ C
   - 【渣都冇】 (zaa1 dou1 mou5):
     "Even the scraps are gone".
   ==
+$$
+
+### 皻1 | _(1)Ch(a/)_ [[zaa1]]
+
+$$
+R
+  皮 + 11
+U
+  U+76BB
+A
+  ==
+  -{.modern} 皶
+  ==
+W
+  ====
+  - [[Page~7 (1)皻]]
+    ==
+    - Pimples on the nose, wine blotches;
+    - pimples on the skin;
+    - _(2)tsau (1)ch(a/)_
+        [[zau2 zaa1 酒皻]],
+        wine blossoms.
+    ==
+  ====
 $$
