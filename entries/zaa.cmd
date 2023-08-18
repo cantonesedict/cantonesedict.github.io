@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [zaa1](#1)
 - [zaa2](#2)
+- [zaa3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -293,10 +294,29 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $痄2
 - $鮓2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 痄2 | _(2)Ch(a/)_ [[zaa2]]
+
+$$
+R
+  疒 + 5
+U
+  U+75C4
+W
+  ====
+  - [[Page~8 (2)痄]]
+    --
+    [[《分韻撮要》 follows the Middle Chinese rising tone,
+    but the common reading is zaa3;
+    **see $痄zaa3 for the canonical entry**.]]
+    --
+  ====
+$$
 
 ### 鮓2 | _(2)Ch(a/)_ [[zaa2]]
 
@@ -324,5 +344,44 @@ C
   - Williams' 揦鮓: Corrected _l(a/)(6)_ [[laa6]] to _(5)l(a/)_ [[laa5]].
   - 【鮓】 (zaa2):
     Low quality or crappy.
+  ==
+$$
+
+
+##{#3 .williams} Ch(a/)(3) [[zaa3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $痄3
+==
+</nav>
+<## /tone-3-characters ##>
+
+###+ 痄3 | _Ch(a/)(3)_ [[zaa3]]
+
+$$
+R
+  疒 + 5
+U
+  U+75C4
+V
+  ==
+  - zaa2 (Middle Chinese rising tone)
+  ==
+W
+  ====
+  - [[Page~8 (2)痄 _(2)Ch(a/)_ (zaa2); here normalised to _Ch(a/)(3)_ (zaa3)]]
+    ==
+    - A running ulcer;
+    - a severe disease;
+    - _(1)shang ch(a/)[(3)] (1)soi_
+        [[sang1 zaa3 soi1 / saang1 zaa3 soi1 生痄腮]],
+        a swelling on the cheek.
+    ==
+  ====
+S
+  ==
+  - $痄zaa2
   ==
 $$
