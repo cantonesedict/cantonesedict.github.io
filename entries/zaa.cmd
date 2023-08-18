@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2023-08-17
+* %date-modified --> 2023-08-18
 * %copyright-prior-years -->
 
 %%%
@@ -183,6 +183,10 @@ W
         to handle.
     ==
   ====
+C
+  ==
+  - Williams' 㪥嘢: Probably meant to appear under 揸 as 揸嘢.
+  ==
 $$
 
 ### 樝1 | _(1)Ch(a/)_ [[zaa1]]
