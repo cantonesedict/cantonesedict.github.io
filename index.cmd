@@ -36,12 +36,17 @@ by [Samuel Wells Williams].
 
 ##{#source .modern} Source
 
+###{.modern} Master
+
 --{.modern}
 The version of ''Tonic Dictionary'' used as the master reference is
 [`ark:/13960/s20jtk4f14j` at archive.org]<n2>,
 sourced from [a Google Books scan][google] of
 [83600-B held at <span lang="de">ÖNB Hauptabt. Heldenplatz</span>][onb].
 --
+
+###{.modern} Subsidiary
+
 --{.modern}
 While it would have been more preferable to use
 [`ark:/13960/t0ps1ph66` at archive.org][uiuc]
