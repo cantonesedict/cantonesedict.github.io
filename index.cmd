@@ -36,7 +36,7 @@ by [Samuel Wells Williams].
 
 ##{#source .modern} Source
 
-###{.modern} Master
+###{.modern} Master ''Tonic Dictionary''
 
 --{.modern}
 The version of ''Tonic Dictionary'' used as the master reference is
@@ -45,7 +45,7 @@ sourced from [a Google Books scan][google] of
 [83600-B held at <span lang="de">ÖNB Hauptabt. Heldenplatz</span>][onb].
 --
 
-###{.modern} Subsidiary
+###{.modern} Subsidiary ''Tonic Dictionary''
 
 --{.modern}
 While it would have been more preferable to use
@@ -69,6 +69,50 @@ that version has severe paging issues:
   the scanner, or both.
 ++
 
+###{.modern} Other useful references
+
+===={.modern}
+- [''A Chinese Dictionary in the Cantonese Dialect'' (1877)][eitel-dict],
+  by [Ernst Johann Eitel].
+  --
+  An expansion of Williams' ''Tonic Dictionary''.
+  The goals of this expansion included:
+  --
+  ==
+  - Utilising the newly available works
+    by [James Legge] (on the Chinese Classics)
+    to better document the literary language,
+    which Eitel felt received insufficient attention
+    compared to the Cantonese vernacular in Williams' original work.
+  - Including some characters from 《分韻撮要》 and 《康熙字典》
+    which Eitel felt indispensable.
+  - Including readings and English translations of definitions from 《康熙字典》.
+  - Better distinguishing the register (Classical vs Colloquial vs Mixed)
+    of the example phrases.
+  - Supplying the Chinese characters that were not included
+    in the example phrases.
+  ==
+  --
+  See [Eitel's Introduction] for details.
+  --
+
+- [韻典網 (ytenx.org)](https://ytenx.org/), by BYVoid.
+  --
+  A database of the olden rime dictionaries (《廣韻》 etc.).
+  --
+
+- [Chinese Text Project Dictionary](https://ctext.org/dictionary.pl?if=en),
+  by Donald Sturgeon.
+  --
+  Easy reference to radical+strokes, Unihan readings, 《廣韻》, and 《康熙字典》.
+  --
+
+- [萌典 (moedict.tw)](https://www.moedict.tw/), by [Audrey Tang].
+  --
+  Taiwan g0v (gov-zero) dictionary.
+  --
+====
+
 [google]: https://books.google.com/books?id=X8JhunQfImoC
 [onb]: https://search.onb.ac.at/permalink/f/128lc6g/ONB_alma21317554760003338
 [uiuc]: https://archive.org/details/tonicdictionaryo00will/page/n6/mode/1up
@@ -82,12 +126,18 @@ that version has severe paging issues:
 [n111]: https://archive.org/details/tonicdictionaryo00will/page/n111/mode/1up
 [9]: https://archive.org/details/tonicdictionaryo00will/page/9/mode/1up
 [13]: https://archive.org/details/tonicdictionaryo00will/page/13/mode/1up
+[eitel-dict]: https://books.google.com/books?id=mh8TAAAAYAAJ
+[Ernst Johann Eitel]: https://en.wikipedia.org/wiki/Ernst_Johann_Eitel
+[Eitel's Introduction]: https://books.google.com/books?id=mh8TAAAAYAAJ&jtp=vii
+[James Legge]: https://en.wikipedia.org/wiki/James_Legge
+[Audrey Tang]: https://en.wikipedia.org/wiki/Audrey_Tang
 
 
 ##{#modernisation .modern} Modernisation
 
 --{.modern}
-The modernisation is a ongoing solo effort by Conway, consisting of:
+The modernisation of Williams' original is a ongoing solo effort by Conway,
+consisting of:
 --
 ++{.modern}
 1. Normalisation of characters and readings to account for modern usage;
@@ -111,7 +161,7 @@ The modernisation is a ongoing solo effort by Conway, consisting of:
 
 1. Inserting characters (__%modern-colour sans-serif text__)
    if not already supplied alongside the Williams romanisations,
-   where practicable;
+   where practicable (with assistance from Eitel's 1877 Dictionary);
 
 1. Inserting commentary (__%modern-colour sans-serif text__)
    and cross-reference links (blue);
