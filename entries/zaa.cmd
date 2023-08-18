@@ -354,6 +354,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $痄3
+- $詐3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -383,5 +384,53 @@ W
 S
   ==
   - $痄zaa2
+  ==
+$$
+
+### 詐3 | _Ch(a/)(3)_ [[zaa3]]
+
+$$
+R
+  言 + 5
+U
+  U+8A50
+W
+  ====
+  - [[Page~8 詐(3)]]
+    ==
+    - To deceive, to cheat, to impose upon;
+    - erroneous, false;
+    - to feign, to make believe;
+    - artful, cunning;
+    - fraudulent;
+    - _ch(a/)(3) (2)kwai ch(a/)(3) (5)m(a/)_
+        [[zaa3 gwai2 zaa3 maa5 詐鬼詐馬]],
+        pretending to act like a fool;
+    - _(4)ngo ch(a/)(3)_
+        [[ngo4 zaa3 訛詐]]
+        to extort money falsely;
+    - _(1)k(a/)n ch(a/)(3)_
+        [[gaan1 zaa3 奸詐]]
+        to delude;
+    - _ch(a/)(3) [(1)]k(a/) (1)(i/)_
+        [[zaa3 gaa2-1 ji3-1 詐假意]],
+        false;
+    - _ch(a/)(3) ngai(6)_
+        [[zaa3 ngai6 詐偽]]
+        to humbug, suppositious;
+    - _ch(a/)(3) fan(3)_
+        [[zaa3 fan3 詐瞓]]
+        to sham sleep;
+    - _ch(a/)(3) ching(3) k(i/)(3)_
+        [[zaa3 zing3 gei3 詐正記]]
+        to feign to be good.
+    ==
+  ====
+C
+  ==
+  - Williams' 詐假意: Changed _(2)k(a/)_ [[gaa2]]
+    to vernacular reading _(1)k(a/)_ [[gaa1]].
+  - 【詐諦】 (zaa3 dai3):
+    To pretend.
   ==
 $$
