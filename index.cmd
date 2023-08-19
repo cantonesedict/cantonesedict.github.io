@@ -169,7 +169,7 @@ consisting of:
 1. Adding entries for some characters that were not recorded by Williams.
 ++
 --{.modern}
-**No effort has been made to alter or censor the Williams text
+**No effort has been made to alter or censor the 1856 Williams text
 for the sensitivities of 21st-century readers.**
 --
 
