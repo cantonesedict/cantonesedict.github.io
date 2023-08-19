@@ -136,7 +136,7 @@ that version has severe paging issues:
 ##{#modernisation .modern} Modernisation
 
 --{.modern}
-The modernisation of Williams' original is a ongoing solo effort by Conway,
+The modernisation here of Williams' original is an ongoing solo effort by Conway,
 consisting of:
 --
 ++{.modern}
