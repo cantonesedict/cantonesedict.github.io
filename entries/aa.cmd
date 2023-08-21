@@ -475,6 +475,7 @@ E
        ==
        - 到未啊 "[Are we] there yet?"
        - 未到啊 "Not there yet."
+       - 有排啊 "[It'll] be ages."
        ==
     1. A particle after each item in a list of examples.
        Similar to the non-falling intonation for list items in English.
@@ -584,10 +585,19 @@ W
   [[Not present]]
 C
   ==
-  - 【呀】 (a4):
-    A final particle of surprise, suspicion, disappointment, etc.
   - [Jyutping.org suggests using 呀 as the canonical character for aa4.]
   ==
+E
+  ====
+  - 【呀】 (a4):
+    ++
+    1. An interrogative-ish final particle of surprise, suspicion, disappointment, etc.
+       ==
+       - 今晚呀 "Tonight?"
+       - 唔飲呀 "[Oh, you're] not drinking [it]?"
+       ==
+    ++
+  ====
 S
   ==
   - $呀aa1
