@@ -52,6 +52,8 @@ RegexDictionaryReplacement: #.syntax.entry-key-abbreviations
                 ,{.williams}
 * ^C$ --> ; Conway's commentary
                 ,{.modern}
+* ^E$ --> ; Conway's entry
+                ,{.modern}
 * ^S$ --> ; See also
                 ,{.modern}
 
