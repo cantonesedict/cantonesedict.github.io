@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2023-08-17
+* %date-modified --> 2023-08-21
 * %copyright-prior-years -->
 
 %%%
@@ -159,16 +159,40 @@ W
     ==
   ====
 C
-  ====
-  - Williams' 好吖: "OK" (as an active, enthusiastic endorsement).
+  ==
   - Williams' aa1 wai3: not sure what he means by "poor, necessitous".
-  - 【吖嘛】 (a1 maa3):
-    ==
-    - A final particle pointing out the preceding.
-      (Similar to ending on a falling intonation in English.)
-    - A final particle seeking confirmation of the preceding.
-    ==
   - [Jyutping.org suggests using 吖 as the canonical character for aa1.]
+  ==
+E
+  ====
+  - 【吖】 (a1):
+    ++
+    1. An interrogative-ish final particle suggesting the preceding.
+       ==
+       - 你行先吖 "[Why don't] you go first."
+       - 今晚吖 "[How about] tonight."
+       ==
+    1. An imperative-ish final particle (when the preceding is spoken with force).
+       ==
+       - 飲吖 "Drink [it]."
+       ==
+    1. An emphatic final particle.
+       ==
+       - 好吖 "OK" (as an active, enthusiastic endorsement)
+       ==
+    ++
+  - 【吖嘛】 (a1 maa3):
+    ++
+    1. An indicative-ish final particle pointing out the preceding.
+       Similar to ending on a falling intonation in English.
+       ==
+       - 天氣凍吖嘛 "[Because] the weather's cold."
+       ==
+    1. An interrogative-ish final particle seeking affirmation of the preceding.
+       ==
+       - 今晚吖嘛 "[That's] tonight, [right]?"
+       ==
+    ++
   ====
 $$
 
