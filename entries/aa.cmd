@@ -467,6 +467,22 @@ C
   - Williams' 唔好啊: Also an emphatic form of the imperative "don't".
   - [Jyutping.org suggests using 啊 as the canonical character for aa3.]
   ==
+E
+  ====
+  - 【啊】 (aa3):
+    ++
+    1. A final particle.
+       ==
+       - 到未啊 "[Are we] there yet?"
+       - 未到啊 "Not there yet."
+       ==
+    1. A particle after each item in a list of examples.
+       Similar to the non-falling intonation for list items in English.
+       ==
+       - 例如蘋果啊、橙啊、香蕉啊 "E.g. apples, oranges, bananas, ..."
+       ==
+    ++
+  ====
 S
   ==
   - $啊aa1

@@ -218,6 +218,9 @@ OrdinaryDictionaryReplacement: #.syntax.typography
 # U+2013 EN DASH
 *   -- --> –
 #
+# U+2026 HORIZONTAL ELLIPSIS
+*   ... --> …
+#
 # U+02BB MODIFIER LETTER TURNED COMMA
 *   (') --> ʻ
 
