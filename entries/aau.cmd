@@ -147,8 +147,8 @@ E
     ++
     1. To bend or curve.
        ==
-       - 拗手瓜 "Arm wrestle."
-       - 拗柴 "Sprained ankle."
+       - 拗手瓜 (aau2 sau2 gwaa1): "Arm wrestle."
+       - 拗柴 (aau2 caai4): "Sprained ankle."
        ==
     ++
   ====
@@ -322,8 +322,8 @@ E
     ++
     1. To argue.
        ==
-       - 詏撬 "Argument."
-       - 詏贏 "Win [the] argument."
+       - 詏撬 (aau3 giu6): "Argument."
+       - 詏贏 (aau3 jeng4): "Win [the] argument."
        ==
     ++
   ====
