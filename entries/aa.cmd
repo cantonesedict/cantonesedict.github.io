@@ -165,20 +165,20 @@ C
   ==
 E
   ====
-  - 【吖】 (a1):
+  - 【吖】 (aa1, a1):
     ++
     1. An interrogative-ish final particle suggesting the preceding.
        ==
-       - 你行先吖 "[Why don't] you go first."
-       - 今晚吖 "[How about] tonight."
+       - 今晚吖 (gam1 maan5-1 a1): "[How about] tonight."
+       - 你行先吖 (nei5 haang4 sin1 a1): "[Why don't] you go first."
        ==
     1. An imperative-ish final particle (when the preceding is spoken with force).
        ==
-       - 飲吖 "Drink [it]."
+       - 飲吖 (jam2 a1): "Drink [it]."
        ==
     1. An emphatic final particle.
        ==
-       - 好吖 "OK" (as an active, enthusiastic endorsement).
+       - 好吖 (hou2 a1): "OK" (as an active, enthusiastic endorsement).
        ==
     ++
   - 【吖嘛】 (a1 maa3):
@@ -186,11 +186,11 @@ E
     1. An indicative-ish final particle pointing out the preceding.
        Similar to ending on a falling intonation in English.
        ==
-       - 天氣凍吖嘛 "[Because] the weather's cold."
+       - 天氣凍吖嘛 (tin1 hei3 dung3 a1 maa3): "[Because] the weather's cold."
        ==
     1. An interrogative-ish final particle seeking affirmation of the preceding.
        ==
-       - 今晚吖嘛 "[That's] tonight, [right]?"
+       - 今晚吖嘛 (gam1 maan5-1 a1 maa3): "[That's] tonight, [right]?"
        ==
     ++
   ====
@@ -469,18 +469,21 @@ C
   ==
 E
   ====
-  - 【啊】 (aa3):
+  - 【啊】 (aa3, a3):
     ++
     1. A final particle.
        ==
-       - 到未啊 "[Are we] there yet?"
-       - 未到啊 "Not there yet."
-       - 有排啊 "[It'll] be ages."
+       - 到未啊 (dou3 mei6 a3): "[Are we] there yet?"
+       - 未到啊 (mei6 dou3 a3): "Not there yet."
+       - 有排啊 (jau5 paai4 a3): "[It'll] be ages."
        ==
+    ++
+  - 【啊】 (aa3):
+    ++
     1. A particle after each item in a list of examples.
        Similar to the non-falling intonation for list items in English.
        ==
-       - 例如蘋果啊、橙啊、香蕉啊 "E.g. apples, oranges, bananas, ...."
+       - 例如蘋果啊、橙啊、香蕉啊 (lai6 jyu4 ping4 gwo2 aa3, caang4-2 aa3, hoeng1 ziu1 aa3): "Such as apples, oranges, bananas, ...."
        ==
     ++
   ====
@@ -593,8 +596,8 @@ E
     ++
     1. An interrogative-ish final particle of surprise, suspicion, disappointment, etc.
        ==
-       - 今晚呀 "Tonight?"
-       - 唔飲呀 "[Oh, you're] not drinking [it]?"
+       - 今晚呀 (gam1 maan5-1 a4): "Tonight?"
+       - 唔飲呀 (m4 jam2 a4): "[Oh, you're] not drinking [it]?"
        ==
     ++
   ====
