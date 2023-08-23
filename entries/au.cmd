@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> au
-* %date-modified --> 2023-08-17
+* %date-modified --> 2023-08-23
 * %copyright-prior-years -->
 
 %%%
@@ -348,8 +348,14 @@ W
 C
   ==
   - Williams' 藤鱔漚豬肉: Corrected _sh(i/)n(6)_ [[sin6]] to _(5)sh(i/)n_ [[sin5]].
-  - 【漚泥】 (au3 nai4): "[May you] rot in mud".
   ==
+E
+  ====
+  - 【漚泥】 (au3 nai4):
+    ++
+    1. To rot in mud. Used to express discontent, contempt, etc.
+    ++
+  ====
 S
   ==
   - $漚au1
