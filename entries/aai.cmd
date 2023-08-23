@@ -173,16 +173,16 @@ E
     ++
     1. To shout.
        ==
-       - 大聲嗌 "Shout out loud."
+       - 大聲嗌 (daai6 seng1 aai3): "Shout out loud."
        ==
     1. To quarrel.
        ==
-       - 你嗌飽佢啦 "[Why don't] you quarrel over it [to your heart's] content."
-       - 又嗌交喇 "[They're] quarrelling again."
+       - 你哋嗌飽佢啦 (nei5 dei6 aai3 baau2 keoi5 la1): "[Why don't] youse quarrel over it [to your heart's] content."
+       - 又嗌交喇 (jau6 aai3 gaau1 laa3): "[They're] quarrelling again."
        ==
     1. To order food.
        ==
-       - 嗌餸未 "Ordered dishes yet?"
+       - 嗌餸未 (aai3 sung3 mei6): "Ordered dishes yet?"
        ==
     ++
   ====
