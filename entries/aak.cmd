@@ -81,6 +81,46 @@ S
   ==
 $$
 
+###+ 呃1 | _(A/)k(7)_ [[aak1]]
+
+$$
+R
+  口 + 4
+U
+  U+5443
+A
+  ==
+  - $阨1
+  ==
+V
+  ==
+  -{.modern} ak1 (shorter syllable)
+  ==
+W
+  ====
+  - [[Page~3 阨(7); here normalised to 呃]]
+    --
+    A colloquial word; also pronounced _ak(7)_ [[ak1]] and _ngak(7)_ [[ngak1]]
+    --
+    ==
+    - To deceive, to delude, to take in;
+    - _(2)k(o\)m y(e/)ung(6) (a/)k(7) (4)yan k(e/)(3)_
+        [[gam2 joeng6-2 aak1 jan4 ge3-2 噉樣呃人嘅]]
+        are you going to cheat him so!
+    ==
+  ====
+E
+  ====
+  - 【呃】 (aak1):
+    ++
+    1. To deceive, to trick.
+       ==
+       - 你呃人 (nei5 aak1 jan4): "You're deceiving others."
+       ==
+    ++
+  ====
+$$
+
 ###+ 握1 | _(A/)k(7)_ [[aak1]]
 
 $$
@@ -139,33 +179,17 @@ W
   ====
   - [[Page~3 阨(7)]]
     --
-    A colloquial word; also pronounced _ak(7)_ [[ak1]] and _ngak(7)_ [[ngak1]]
+    A colloquial word;
+    [[here normalised to 呃; **see $呃aak1 for the canonical entry**]].
     --
-    ==
-    - To deceive, to delude, to take in;
-    - _(2)k(o\)m y(e/)ung(6) (a/)k(7) (4)yan k(e/)(3)_
-        [[gam2 joeng6-2 aak1 jan4 ge3-2 噉樣阨人嘅]]
-        are you going to cheat him so!
-    ==
   ====
 C
   ==
   - Most modern speakers prefer this longer syllable
-    over the shorter _ak(7)_ [[ak1]];
-    **see $阨ak1 for the literary senses**.
+    over the shorter _ak(7)_ [[ak1]].
+    Nevertheless, **see $阨ak1 for the literary senses**.
   ==
-E
-  ====
-  - 【阨】 (aak1):
-    ++
-    1. To deceive, to trick.
-       ==
-       - 你阨人 (nei5 aak1 jan4): "You're deceiving others."
-       ==
-    ++
-  ====
 S
-,
   ==
   - $阨ak1
   ==
