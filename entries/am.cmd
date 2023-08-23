@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2023-08-17
+* %date-modified --> 2023-08-23
 * %copyright-prior-years -->
 
 %%%
@@ -341,6 +341,16 @@ C
   - Williams' 揞白迷濛: Corrected _p(a/)k(8)_ [[baak3]] to _p(a/)k(9)_ [[baak6]].
   - Williams' 揞背手: Now rarely heard; 揞口費 is more common for "hush money".
   ==
+E
+  ====
+  - 【揞】 (am2):
+    ++
+    1. To cover with the hand.
+       ==
+       - 揞口費 (am2 hau2 fai3): "Hush money."
+       ==
+    ++
+  ====
 $$
 
 ### 欿2 | _(2)(O\)m_ [[am2]]
