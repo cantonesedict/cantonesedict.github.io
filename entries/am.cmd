@@ -535,10 +535,13 @@ W
         to privily injure.
     ==
   ====
-C
-  ==
-  - 【暗算】 (am3 syun3): To wound (usually mortally) with a hidden weapon.
-  ==
+E
+  ====
+  - 【暗算】 (am3 syun3):
+    ++
+    1. To wound (usually mortally) with a hidden weapon.
+    ++
+  ====
 $$
 
 ###+ 闇3 | _(O\)m(3)_ [[am3]]
