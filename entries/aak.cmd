@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aak
-* %date-modified --> 2023-08-11
+* %date-modified --> 2023-08-23
 * %copyright-prior-years -->
 
 %%%
@@ -154,6 +154,16 @@ C
     over the shorter _ak(7)_ [[ak1]];
     **see $阨ak1 for the literary senses**.
   ==
+E
+  ====
+  - 【阨】 (aak1):
+    ++
+    1. To deceive, to trick.
+       ==
+       - 你阨人 (nei5 aak1 jan4): "You're deceiving others."
+       ==
+    ++
+  ====
 S
 ,
   ==
@@ -205,5 +215,15 @@ W
         [[aak3-2 tau4 鈪頭]],
         clasps of bracelets.
     ==
+  ====
+E
+  ====
+  - 【鈪】 (aak3-2):
+    ++
+    1. A bracelet or bangle.
+       ==
+       - 手鈪 (sau2 aak3-2): "[A] hand bracelet."
+       ==
+    ++
   ====
 $$
