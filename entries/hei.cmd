@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> hei
-* %date-modified --> 2023-08-12
+* %date-modified --> 2023-08-23
 * %copyright-prior-years -->
 
 %%%
@@ -65,10 +65,13 @@ V
   ==
 W
   [[Not present]]
-C
-  ==
-  - 【屭】 (hei3): Of great strength. See 贔屭 under $贔bei6. (TODO)
-  ==
+E
+  ====
+  - 【屭】 (hei3):
+    ++
+    1. Of great strength. See 贔屭 under $贔bei6. (TODO)
+    ++
+  ====
 S
   =={.modern}
   - $屭ai3
