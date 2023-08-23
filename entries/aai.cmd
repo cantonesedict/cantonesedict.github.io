@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aai
-* %date-modified --> 2023-08-11
+* %date-modified --> 2023-08-23
 * %copyright-prior-years -->
 
 %%%
@@ -167,6 +167,25 @@ C
 
   - Williams' 十嗌九爭銀: "Ten to one" is better rendered as "nine out of ten".
   ==
+E
+  ====
+  - 【嗌】 (aai3):
+    ++
+    1. To shout.
+       ==
+       - 大聲嗌 "Shout out loud."
+       ==
+    1. To quarrel.
+       ==
+       - 你嗌飽佢啦 "[Why don't] you quarrel over it [to your heart's] content."
+       - 又嗌交喇 "[They're] quarrelling again."
+       ==
+    1. To order food.
+       ==
+       - 嗌餸未 "Ordered dishes yet?"
+       ==
+    ++
+  ====
 $$
 
 ### 隘3 | _(A/)i(3)_ [[aai3]]
