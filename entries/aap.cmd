@@ -113,7 +113,7 @@ E
     1. Slang for male prostitute.
        Compare $雞gai1 "chicken" for female prostitute. (TODO)
        ==
-       - 做鴨 "Be [a] male-prostitute."
+       - 做鴨 (zou6 aap3-2): "Be [a] male-prostitute."
        ==
     ++
   ====
