@@ -178,7 +178,7 @@ E
        ==
     1. An emphatic final particle.
        ==
-       - 好吖 "OK" (as an active, enthusiastic endorsement)
+       - 好吖 "OK" (as an active, enthusiastic endorsement).
        ==
     ++
   - 【吖嘛】 (a1 maa3):
@@ -480,7 +480,7 @@ E
     1. A particle after each item in a list of examples.
        Similar to the non-falling intonation for list items in English.
        ==
-       - 例如蘋果啊、橙啊、香蕉啊 "E.g. apples, oranges, bananas, ..."
+       - 例如蘋果啊、橙啊、香蕉啊 "E.g. apples, oranges, bananas, ...."
        ==
     ++
   ====
