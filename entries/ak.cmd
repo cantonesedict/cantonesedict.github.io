@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ak
-* %date-modified --> 2023-08-11
+* %date-modified --> 2023-08-23
 * %copyright-prior-years -->
 
 %%%
@@ -241,8 +241,7 @@ W
 C
   ==
   - Most modern speakers prefer the longer syllable _(a/)k(7)_ [[aak1]];
-    **see $阨aak1, which is also the canonical entry
-    for the colloquial "deceive" sense**.
+    see $阨aak1.
   ==
 S
   ==
