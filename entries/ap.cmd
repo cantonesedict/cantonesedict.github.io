@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ap
-* %date-modified --> 2023-08-17
+* %date-modified --> 2023-08-26
 * %copyright-prior-years -->
 
 %%%
@@ -88,6 +88,13 @@ W
         to roast a potato or taro in ashes;
         _met._ to enjoy one's self secretly.
     ==
+  ====
+E
+  ====
+  - 【洽】 (ap1):
+    ++
+    1. To cover and keep wet (when undesirable to do so).
+    ++
   ====
 S
   ==

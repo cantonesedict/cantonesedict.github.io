@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aap
-* %date-modified --> 2023-08-14
+* %date-modified --> 2023-08-26
 * %copyright-prior-years -->
 
 %%%
@@ -106,10 +106,15 @@ W
         to hatch ducks artificially.
     ==
   ====
-C
-  ==
+E
+  ====
   - 【鴨】 (aap3-2):
-    Slang for male prostitute.
-    Compare $雞gai1 "chicken" for female prostitute. (TODO)
-  ==
+    ++
+    1. Slang for male prostitute.
+       Compare $雞gai1 "chicken" for female prostitute. (TODO)
+       ==
+       - 做鴨 (zou6 aap3-2): "Be [a] male-prostitute."
+       ==
+    ++
+  ====
 $$

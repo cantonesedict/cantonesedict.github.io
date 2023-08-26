@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ang
-* %date-modified --> 2023-08-17
+* %date-modified --> 2023-08-26
 * %copyright-prior-years -->
 
 %%%
@@ -208,11 +208,16 @@ W
         to disturb one, as bad news; painful.
     ==
   ====
-C
-  ==
+E
+  ====
   - 【㾘】 (ang2):
-    To exert (or experience) a pressing force over a smallish or lump-sized area.
-  ==
+    ++
+    1. To exert (or experience) a pressing force over a smallish or lump-sized area.
+       ==
+       - 㾘牙 (ang2 ngaa4): "[The food is hard and] presses against [my] teeth."
+       ==
+    ++
+  ====
 $$
 
 

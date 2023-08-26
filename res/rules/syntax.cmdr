@@ -52,6 +52,8 @@ RegexDictionaryReplacement: #.syntax.entry-key-abbreviations
                 ,{.williams}
 * ^C$ --> ; Conway's commentary
                 ,{.modern}
+* ^E$ --> ; Conway's entry
+                ,{.modern}
 * ^S$ --> ; See also
                 ,{.modern}
 
@@ -215,6 +217,9 @@ OrdinaryDictionaryReplacement: #.syntax.typography
 #
 # U+2013 EN DASH
 *   -- --> –
+#
+# U+2026 HORIZONTAL ELLIPSIS
+*   ... --> …
 #
 # U+02BB MODIFIER LETTER TURNED COMMA
 *   (') --> ʻ

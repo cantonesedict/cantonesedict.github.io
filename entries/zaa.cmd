@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2023-08-18
+* %date-modified --> 2023-08-26
 * %copyright-prior-years -->
 
 %%%
@@ -145,10 +145,22 @@ W
         to crush in the hand.
     ==
   ====
-C
-  ==
-  - 【揸車】 (zaa1 ce1): Drive a car.
-  ==
+E
+  ====
+  - 【揸】 (zaa1):
+    ++
+    1. To hold, to grasp.
+      ==
+      - 揸拿 (zaa1 naa4): "[A] grasp [of the situation]."
+      - 揸筷子 (zaa1 faai3 zi2): "Hold chopsticks."
+      ==
+    1. To drive a vehicle.
+      ==
+      - 揸棍波 (zaa1 gwan3 bo1): "Drive [a] manual."
+      - 揸車 (zaa1 ce1): "Drive [a] car."
+      ==
+    ++
+  ====
 $$
 
 ### 撾1 | _(1)Ch(a/)_ [[zaa1]]
@@ -233,15 +245,18 @@ W
     Often used for the two next [[樝, 皻]].
     --
   ====
-C
-  ==
-  - 【油渣】 (jau4 zaa1):
-    Diesel.
+E
+  ====
   - 【渣】 (zaa1):
-    Unswallowable remains after chewing untender meat or stringy vegetables.
-  - 【渣都冇】 (zaa1 dou1 mou5):
-    "Even the scraps are gone".
-  ==
+    ++
+    1. The residual after moisture is removed;
+       the unswallowable remains after chewing untender meat or stringy vegetables.
+      ==
+      - 渣都冇 (zaa1 dou1 mou5): "Even [the] scraps are gone."
+      - 𦧲渣 (loe1 zaa1): "Spit out [the] scraps."
+      ==
+    ++
+  ====
 $$
 
 ### 皻1 | _(1)Ch(a/)_ [[zaa1]]
@@ -339,12 +354,17 @@ W
         rank, dirty, foul.
     ==
   ====
-C
-  ==
-  - Williams' 揦鮓: Corrected _l(a/)(6)_ [[laa6]] to _(5)l(a/)_ [[laa5]].
+E
+  ====
   - 【鮓】 (zaa2):
-    Low quality or crappy.
-  ==
+    ++
+    1. Low quality or crappy.
+      ==
+      - 咁鮓 (gam3 zaa2): "[How is it] so crappy?"
+      - 鮓嘢 (zaa2 je5): "[A] crappy thing."
+      ==
+    ++
+  ====
 $$
 
 
@@ -430,7 +450,12 @@ C
   ==
   - Williams' 詐假意: Changed _(2)k(a/)_ [[gaa2]]
     to vernacular reading _(1)k(a/)_ [[gaa1]].
-  - 【詐諦】 (zaa3 dai3):
-    To pretend.
   ==
+E
+  ====
+  - 【詐諦】 (zaa3 dai3):
+    ++
+    1. To pretend.
+    ++
+  ====
 $$

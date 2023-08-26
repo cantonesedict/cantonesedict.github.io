@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aak
-* %date-modified --> 2023-08-11
+* %date-modified --> 2023-08-26
 * %copyright-prior-years -->
 
 %%%
@@ -49,6 +49,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $厄1
+- $呃1
 - $握1
 - $軛1
 - $阨1
@@ -79,6 +80,46 @@ S
   ==
   - $厄ak1
   ==
+$$
+
+###+ 呃1 | _(A/)k(7)_ [[aak1]]
+
+$$
+R
+  口 + 4
+U
+  U+5443
+A
+  ==
+  - $阨1
+  ==
+V
+  ==
+  -{.modern} ak1 (shorter syllable)
+  ==
+W
+  ====
+  - [[Page~3 阨(7); here normalised to 呃]]
+    --
+    A colloquial word; also pronounced _ak(7)_ [[ak1]] and _ngak(7)_ [[ngak1]]
+    --
+    ==
+    - To deceive, to delude, to take in;
+    - _(2)k(o\)m y(e/)ung(6) (a/)k(7) (4)yan k(e/)(3)_
+        [[gam2 joeng6-2 aak1 jan4 ge3-2 噉樣呃人嘅]]
+        are you going to cheat him so!
+    ==
+  ====
+E
+  ====
+  - 【呃】 (aak1):
+    ++
+    1. To deceive, to trick.
+       ==
+       - 你呃人 (nei5 aak1 jan4): "You're deceiving others."
+       ==
+    ++
+  ====
 $$
 
 ###+ 握1 | _(A/)k(7)_ [[aak1]]
@@ -139,23 +180,17 @@ W
   ====
   - [[Page~3 阨(7)]]
     --
-    A colloquial word; also pronounced _ak(7)_ [[ak1]] and _ngak(7)_ [[ngak1]]
+    A colloquial word;
+    [[here normalised to 呃; **see $呃aak1 for the canonical entry**]].
     --
-    ==
-    - To deceive, to delude, to take in;
-    - _(2)k(o\)m y(e/)ung(6) (a/)k(7) (4)yan k(e/)(3)_
-        [[gam2 joeng6-2 aak1 jan4 ge3-2 噉樣阨人嘅]]
-        are you going to cheat him so!
-    ==
   ====
 C
   ==
   - Most modern speakers prefer this longer syllable
-    over the shorter _ak(7)_ [[ak1]];
-    **see $阨ak1 for the literary senses**.
+    over the shorter _ak(7)_ [[ak1]].
+    Nevertheless, **see $阨ak1 for the literary senses**.
   ==
 S
-,
   ==
   - $阨ak1
   ==
@@ -205,5 +240,15 @@ W
         [[aak3-2 tau4 鈪頭]],
         clasps of bracelets.
     ==
+  ====
+E
+  ====
+  - 【鈪】 (aak3-2):
+    ++
+    1. A bracelet or bangle.
+       ==
+       - 手鈪 (sau2 aak3-2): "[A] hand bracelet."
+       ==
+    ++
   ====
 $$

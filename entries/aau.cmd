@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aau
-* %date-modified --> 2023-08-16
+* %date-modified --> 2023-08-26
 * %copyright-prior-years -->
 
 %%%
@@ -141,11 +141,17 @@ W
         to curve.
     ==
   ====
-C
-  ==
-  - 【拗手瓜】 (aau2 sau2 gwaa1): Arm wrestle.
-  - 【拗柴】 (aau2 caai4): Sprained ankle.
-  ==
+E
+  ====
+  - 【拗】 (aau2):
+    ++
+    1. To bend or curve.
+       ==
+       - 拗手瓜 (aau2 sau2 gwaa1): "Arm wrestle."
+       - 拗柴 (aau2 caai4): "Sprained ankle."
+       ==
+    ++
+  ====
 S
   ==
   - $拗aau3
@@ -306,10 +312,19 @@ W
   [[Not present]]
 C
   ==
-  - 【詏】 (aau3): To argue.
-  - 【詏贏】 (aau3 jeng4): To win an argument.
   - There is a subtle difference between $拗aau3 "stubborn" and $詏aau3 "argue".
     Nevertheless, being stubborn is not too far from being argumentative;
     **see $拗aau3 for the canonical entry of "stubborn".**
   ==
+E
+  ====
+  - 【詏】 (aau3):
+    ++
+    1. To argue.
+       ==
+       - 詏撬 (aau3 giu6): "Argument."
+       - 詏贏 (aau3 jeng4): "Win [the] argument."
+       ==
+    ++
+  ====
 $$

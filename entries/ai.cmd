@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ai
-* %date-modified --> 2023-08-17
+* %date-modified --> 2023-08-26
 * %copyright-prior-years -->
 
 %%%
@@ -91,6 +91,27 @@ C
   - Williams' 哎求你: Corrected _(1)k(')au_ [[kau1]] to _(4)k(')au_ [[kau4]].
   - [Jyutping.org suggests using 哎 as the canonical character for ai1 or aai1.]
   ==
+E
+  ====
+  - 【哎吔】 (ai1 jaa1):
+    ++
+    1. An interjection of surprise, shock, indignation, etc.
+       ==
+       - 哎吔 (ai1 jaa1): "Oh dear!", "How dare [you]!", etc.
+       ==
+    1. So-called, or nominal.
+       ==
+       - 哎吔經理 (ai1 jaa1 ging1 lei5): "So-called manager."
+       ==
+    ++
+  - 【哎吔】 (ai1 ja4):
+    ++
+    1. An interjection of pain, mistake, etc.
+       ==
+       - 哎吔 (ai1 ja4): "Ouch", "Whoops", etc.
+       ==
+    ++
+  ====
 $$
 
 ### 𫫃1 [[⿰口挨]] | _(1)Ai_ [[ai1]]
@@ -197,6 +218,13 @@ C
   ==
   - The expected reflex is hei3 from Middle Chinese 虛器切 and 許意切.
   ==
+E
+  ====
+  - 【贔屭】 (bai3 ai3):
+    ++
+    1. To be exceedingly afflicted or troubled by something.
+    ++
+  ====
 S
   ==
   - $屭hei3
