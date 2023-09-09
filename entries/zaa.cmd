@@ -374,6 +374,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $乍3
+- $搾3
 - $榨3
 - $痄3
 - $蚱3
@@ -410,6 +411,32 @@ W
   ====
 $$
 
+### 搾3 | _Ch(a/)(3)_ [[zaa3]]
+
+$$
+R
+  手 + 10
+U
+  U+643E
+W
+  ====
+  - [[Page~8 搾(3)]]
+    --
+    An unauthorized character.
+    --
+    ==
+    - To press down, to squeeze between the hand;
+    - _(5)l(o\) (1)hong (1)t(o\) ch(a/)(3) ch'ut(7) (4)yau_
+        [[lou5 hong1 dou1 zaa3 ceot1 jau4 老糠都搾出油]],
+        he even squeezes oil from rice chaff.
+    ==
+  ====
+S
+  ==
+  - $榨zaa3
+  ==
+$$
+
 ### 榨3 | _Ch(a/)(3)_ [[zaa3]]
 
 $$
@@ -435,6 +462,10 @@ W
         a sugar-press shed.
     ==
   ====
+S
+  ==
+  - $搾zaa3
+  ==
 $$
 
 ###+ 痄3 | _Ch(a/)(3)_ [[zaa3]]
