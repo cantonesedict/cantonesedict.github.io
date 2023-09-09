@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2023-08-02
+* %date-modified --> 2023-09-10
 * %copyright-prior-years -->
 
 %%%
-
---{.modern}
-[[From Page~8 of the original onwards.]]
---
 
 #{.williams} Ch(')(a/). [[caa]]
 
@@ -21,3 +17,25 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [[Work in progress]]
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Ch(')(a/). [[Page~8]]
+  ==
+WP
+  ==
+  - Ch(')(a/) <span class="modern">= [tɕʰaː]</span>
+  ==
+MP
+  ==
+  - caa = [tsʰaː], [tɕʰaː]
+  ==
+$$
