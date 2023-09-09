@@ -374,6 +374,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $乍3
+- $咋3
 - $搾3
 - $榨3
 - $痄3
@@ -409,6 +410,46 @@ W
         happened to see.
     ==
   ====
+$$
+
+### 咋3 | _Ch(a/)(3)_ [[zaa3]]
+
+$$
+R
+  口 + 5
+U
+  U+548B
+W
+  ====
+  - [[Page~8 咋(3)]]
+    ==
+    - A loud sound, a rude noise.
+    ==
+    --
+    [A colloquial word.]
+    --
+    ==
+    - A colloquial particle implying doubt, perhaps;
+    - also a final sound, insplying it is so; I understand it:
+    - _(2)k(o\)m y(e/)ung(6) ch(a/)(3)_
+        [[gam2 joeng6-2 zaa3 噉樣咋]]
+        so will do, eh!
+    ==
+  ====
+E
+  ====
+  - 【咋】 (zaa3):
+    ++
+    1. A final particle of  limitation.
+      ==
+      - 三個人咋 (saam1 go3 jan4 zaa3): "[Only] three people"
+      ==
+    ++
+  ====
+S
+  ==
+  - $咋zaa4
+  ==
 $$
 
 ### 搾3 | _Ch(a/)(3)_ [[zaa3]]
