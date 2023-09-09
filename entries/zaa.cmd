@@ -373,6 +373,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $榨3
 - $痄3
 - $蚱3
 - $詐3
@@ -380,6 +381,33 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 榨3 | _Ch(a/)(3)_ [[zaa3]]
+
+$$
+R
+  木 + 10
+U
+  U+69A8
+W
+  ====
+  - [[Page~8 榨(3)]]
+    ==
+    - An oil-press;
+    - a sugar press;
+    - to press or extract juices;
+    - _lok(9) ch(a/)(3) (4)ch(')ong_
+        [[lok6 zaa3 cong4 落榨床]],
+        to violently extort money;
+    - _(4)yau ch(a/)(3)_
+        [[jau4 zaa3 油榨]]
+        an oil press;
+    - _ch(a/)(3) (4)li(u/)_
+        [[zaa3 liu4 榨寮]],
+        a sugar-press shed.
+    ==
+  ====
+$$
 
 ###+ 痄3 | _Ch(a/)(3)_ [[zaa3]]
 
