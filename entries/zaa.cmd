@@ -24,6 +24,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [zaa1](#1)
 - [zaa2](#2)
 - [zaa3](#3)
+- [zaa4](#4)
 ==
 </nav>
 <## /tones ##>
@@ -440,7 +441,7 @@ E
   ====
   - 【咋】 (zaa3):
     ++
-    1. A final particle of  limitation.
+    1. A final particle of limitation.
       ==
       - 三個人咋 (saam1 go3 jan4 zaa3): "[Only] three people"
       ==
@@ -633,4 +634,44 @@ W
     - used for the next [[榨]].
     ==
   ====
+$$
+
+
+##{#4 .modern} (4)Ch(a/) [[zaa4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways">
+=={.modern}
+- $咋4
+==
+</nav>
+<## /tone-4-characters ##>
+
+###+ 咋4 | _(4)Ch(a/)_ [[zaa4]]
+
+$$
+R
+  口 + 5
+U
+  U+548B
+V
+  ==
+  - za4 (shorter syllable)
+  ==
+W
+  [[Not present]]
+E
+  ====
+  - 【咋】 (za4):
+    ++
+    1. An interrogative-ish final particle of limitation, suspicion, disappointment, etc.
+      ==
+      - 三個人咋 (saam1 go3 jan4 za4): "[Only] three people?"
+      ==
+    ++
+  ====
+S
+  ==
+  - $咋zaa3
+  ==
 $$
