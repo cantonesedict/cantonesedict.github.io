@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [caa1](#1)
 ==
 </nav>
 <## /tones ##>
@@ -37,5 +38,61 @@ WP
 MP
   ==
   - caa = [tsʰaː], [tɕʰaː]
+  ==
+$$
+
+
+##{#1 .williams} (1)Ch(')(a/) [[caa1 陰平]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $差1
+==
+</nav>
+<## /tone-1-characters ##>
+
+### 差1 | _(1)Ch(')(a/)_ [[caa1]]
+
+$$
+R
+  工 + 7
+U
+  U+5DEE
+W
+  ====
+  - [[Page~8 (1)差]]
+    ==
+    - Mistaken;
+    - to err, to differ;
+    - to miss the mark, to exceed;
+    - error, fault, discrepancy, excess, differing, unlike, unassorted;
+    - _t(a/)i(6) (1)ch(')(a/) tak(9) (1)ch'(a/)_
+        [[daai6 caa1 dak6 caa1 大差特差]],
+        very wrong;
+    - _(1)ch(')(a/) tak(7) (5)(u")n_
+        [[caa1 dak1 jyun5 差得遠]],
+        very different;
+    - _(1)ch(')(a/) ts(')o(3) k(e/)uk(8)_
+        [[caa1 co3 goek3 差錯腳]]
+        a blunder, a faux pas;
+    - _(1)ch(')(a/) t(i/)t(7) (4)'m (4)t(')ung_
+        [[caa1 dit1 m4 tung4 差啲唔同]],
+        differ very slightly;
+    - _(1)ch(')(a/) pat(7) (1)to_
+        [[caa1 bat1 do1 差不多]],
+        nearly the same;
+    - _(1)ch(')(a/) ts(')o(3)_
+        [[caa1 co3 差錯]]
+        a mistake;
+    - _ch(')ing(3) (1)ch(')(a/) s(a/)i(3)_
+        [[cing3 caa1 saai3 秤差嗮]]
+        all weighed wrong.
+    ==
+  ====
+S
+  ==
+  - $差caai1 (TODO)
+  - $差ci1 (TODO)
   ==
 $$
