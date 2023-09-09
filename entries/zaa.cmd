@@ -373,6 +373,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $乍3
 - $榨3
 - $痄3
 - $蚱3
@@ -381,6 +382,33 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 乍3 | _Ch(a/)(3)_ [[zaa3]]
+
+$$
+R
+  丿 + 4
+U
+  U+4E4D
+W
+  ====
+  - [[Page~8 乍(3)]]
+    ==
+    - At first, suddenly, hastily;
+    - for a moment;
+    - inadvertently, unexpectedly;
+    - _ch(a/)(3) (5)yau ch(a/)(3) (4)m(o\)_
+        [[zaa3 jau5 zaa3 mou4 乍有乍無]],
+        all at once there is some and then we have none;
+    - _ch(a/)(3) (4)(i/)n_
+        [[zaa3 jin4 乍然]],
+        abruptly, at once;
+    - _ch(a/)(3) kin(3)_
+        [[zaa3 gin3 乍見]]
+        happened to see.
+    ==
+  ====
+$$
 
 ### 榨3 | _Ch(a/)(3)_ [[zaa3]]
 
