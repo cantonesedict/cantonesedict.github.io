@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2023-08-26
+* %date-modified --> 2023-09-09
 * %copyright-prior-years -->
 
 %%%
@@ -374,6 +374,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $痄3
+- $蚱3
 - $詐3
 ==
 </nav>
@@ -404,6 +405,33 @@ W
 S
   ==
   - $痄zaa2
+  ==
+$$
+
+### 蚱3 | _Ch(a/)(3)_ [[zaa3]]
+
+$$
+R
+  虫 + 5
+U
+  U+86B1
+W
+  ====
+  - [[Page~8 蚱(3)]]
+    ==
+    - A large locust, called _(5)m(a/) ch(a/)(3)_
+        [[maa5 zaa3 螞蚱]]
+      or _ch(a/)(3) (5)m(a/)ng_
+        [[zaa3 maang5 蚱蜢]];
+    - _ch(a/)(3) (4)[sh(i/)m]_
+        [[zaa3 sim4 蚱蟬]],
+        a small species of cicada.
+    ==
+  ====
+C
+  ==
+  - Williams' 蚱蟬: Changed _(4)sh(i/)n_ [[sin4]]
+    to common reading _(4)sh(i/)m_ [[sim4]].
   ==
 $$
 
