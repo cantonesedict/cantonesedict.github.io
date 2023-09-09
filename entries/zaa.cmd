@@ -149,10 +149,10 @@ E
   ====
   - 【揸】 (zaa1):
     ++
-    1. To hold, to grasp.
+    1. To hold, to grasp, to control.
       ==
       - 揸拿 (zaa1 naa4): "[A] grasp [of the situation]."
-      - 揸筷子 (zaa1 faai3 zi2): "Hold chopsticks."
+      - 揸筷子 (zaa1 faai3 zi2): "Control chopsticks."
       ==
     1. To drive a vehicle.
       ==
