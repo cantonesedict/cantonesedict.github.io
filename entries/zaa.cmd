@@ -376,6 +376,7 @@ $$
 - $痄3
 - $蚱3
 - $詐3
+- $醡3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -485,5 +486,23 @@ E
     ++
     1. To pretend.
     ++
+  ====
+$$
+
+### 醡3 | _Ch(a/)(3)_ [[zaa3]]
+
+$$
+R
+  酉 + 10
+U
+  U+91A1
+W
+  ====
+  - [[Page~8 醡(3)]]
+    ==
+    - A wine press;
+    - to press or separate spirits;
+    - used for the next [[榨]].
+    ==
   ====
 $$
