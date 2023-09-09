@@ -47,11 +47,12 @@ MP
 $$
 
 
-##{#1 .williams} (1)Ch(a/) [[zaa1 陰平]]
+##{#1 .williams} (1)Ch(a/) (1)Ts(a/) [[zaa1 陰平]]
 
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $咱1
 - $𠾵1
 - $揸1
 - $撾1
@@ -63,6 +64,31 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 咱1 | _(1)Ts(a/)_ [[zaa1]]
+
+$$
+R
+  口 + 6
+U
+  U+54B1
+W
+  ====
+  - [[Page~547 (1)咱]]
+    --
+    A colloquial word in the north;
+    --
+    ==
+    - I, myself;
+    - _(1)ts(a/) (1)k(a/)_
+        [[zaa1 gaa1 咱家]],
+        I, me;
+    - _(1)ts(a/) (4)m(u/)n_
+        [[zaa1 mun4 咱們]],
+        we.
+    ==
+  ====
+$$
 
 ### 𠾵1 [[⿰口揸]] | _(1)Ch(a/)_ [[zaa1]]
 
