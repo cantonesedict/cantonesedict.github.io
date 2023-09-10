@@ -47,12 +47,46 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $叉1
 - $岔1
 - $差1
 - $汊1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 叉1 | _(1)Ch(')(a/)_ [[caa1]]
+
+$$
+R
+  又 + 1
+U
+  U+53C9
+W
+  ====
+  - [[Page~8 (1)叉]]
+    ==
+    - A fork in a road;
+    - a prong, a crotch;
+    - to cross or interlace the fingers;
+    - _(4)wo (1)ch(')(a/)_
+        [[wo4 caa1 禾叉]],
+        a pitch-fork;
+    - _(4)ngan (1)ch(')(a/)_
+        [[ngan4 caa1 銀叉]],
+        a silver fork;
+    - _(4)(u") (1)ch(')(a/)_
+        [[jyu4 caa1 魚叉]],
+        a fish grains;
+    - _(1)ch(')(a/) (1)shi(u/)_
+        [[caa1 siu1 叉燒]],
+        to roast on a fork;
+    - _(2)sh(a/) (1)ch(')(a/)_
+        [[saa2 caa1 耍叉]],
+        to fence with tridents.
+    ==
+  ====
+$$
 
 ### 岔1 | _(1)Ch(')(a/)_ [[caa1]]
 
