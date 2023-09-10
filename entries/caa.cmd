@@ -86,6 +86,28 @@ W
         to fence with tridents.
     ==
   ====
+E
+  ====
+  - 【叉】 (caa1):
+    ++
+    1. Short for 叉燒 (char shiu).
+      ==
+      - 叉鴨米 (caa1 aap3 mai5): "char [shiu], [roast] duck vermicelli"
+      ==
+    2. Euphemistic substitute for any profane intensifier.
+      ==
+      - 冇叉用 (mou5 caa1 jung6): "bleeping useless"
+      ==
+    ++
+  - 【叉燒】 (caa1 siu1):
+    ++
+    1. Char shiu, a type of barbecued pork.
+      ==
+      - 叉燒包 (caa1 siu1 baau1): "barbecued-pork bun"
+      - 叉燒腸 (caa1 siu1 coeng4-2): "barbecued-pork [rice-noodle] roll"
+      ==
+    ++
+  ====
 $$
 
 ### 岔1 | _(1)Ch(')(a/)_ [[caa1]]
