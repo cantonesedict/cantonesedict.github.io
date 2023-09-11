@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2023-09-10
+* %date-modified --> 2023-09-11
 * %copyright-prior-years -->
 
 %%%
@@ -50,6 +50,7 @@ $$
 - $叉1
 - $岔1
 - $差1
+- $扠1
 - $汊1
 ==
 </nav>
@@ -198,6 +199,29 @@ S
   - $差caai1 (TODO)
   - $差ci1 (TODO)
   ==
+$$
+
+### 扠1 | _(1)Ch(')(a/)_ [[caa1]]
+
+$$
+R
+  手 + 3
+U
+  U+6260
+W
+  ====
+  - [[Page~8 (1)扠]]
+    ==
+    - To fork out, to nip;
+    - to drive out, to pitch out, to strike;
+    - _(1)ch(')(a/) ch(')ut(7) h(u")(3)_
+        [[caa1 ceot1 heoi3 扠出去]]
+        turn him out;
+    - _(1)ch(')(a/) ch(u")(6) (5)k(')(u")_
+        [[caa1 zyu6 keoi5 扠住佢]],
+        harpoon it.
+    ==
+  ====
 $$
 
 ### 汊1 | _(1)Ch(')(a/)_ [[caa1]]
