@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2023-09-11
+* %date-modified --> 2023-09-13
 * %copyright-prior-years -->
 
 %%%
@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [caa1](#1)
+- [caa4](#4)
 ==
 </nav>
 <## /tones ##>
@@ -247,5 +248,100 @@ C
   - Williams does not provide separate entries for $岔1 and 汊,
     probably following Kangxi, which has 與汊同 under 岔.
     I have split things up accordingly.
+  ==
+$$
+
+
+##{#4 .williams} (4)Ch(')(a/) [[caa4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways">
+=={.modern}
+- $茶4
+==
+</nav>
+<## /tone-4-characters ##>
+
+### 茶4 | _(4)Ch(')(a/)_ [[caa4]]
+
+$$
+R
+  艸 + 6
+U
+  U+8336
+W
+  ====
+  - [[Page~8 (4)茶]]
+    ==
+    - Tea;
+    - the infusion of tea, tea;
+    - _(1)p(o\) (4)ch(')(a/)_
+        [[bou1 caa4 煲茶]]
+        to make tea;
+    - _h(i/)n(3) (4)ch(')(a/)_
+        [[hin3 caa4 獻茶]],
+        to hand tea;
+    - _(4)ch(')(a/) (1)f(a/)_
+        [[caa4 faa1 茶花]],
+        the Camellia;
+    - _hak(7) (4)ch(')(a/)_
+        [[hak1 caa4 黑茶]],
+        black tea;
+    - _luk(9) (4)ch(')(a/)_
+        [[luk6 caa4 綠茶]],
+        green tea;
+    - _kuk(9) (4)ch(')(a/)_
+        [[guk6 caa4 焗茶]],
+        to draw tea;
+    - _(4)ch(')(a/) (1)p(u/)i_
+        [[caa4 bui1 茶杯]],
+        a tea-cup;
+    - _(4)ch(')(a/) (4)(u/)_
+        [[caa4 wu4-2 茶壺]],
+        a tea-pot;
+    - _(4)ch(')(a/) (4)[ch(')(i/)]_
+        [[caa4 ci4 茶匙]],
+        a tea-spoon;
+    - _(4)ch(')(a/) (4)sh(u")n_
+        [[caa4 syun4 茶船]],
+        a long tea saucer;
+    - _(2)ch(')(a/)u (4)ch(')(a/)_
+        [[caau2 caa4 炒茶]],
+        to fire tea;
+    - _ts(o\)(6) (4)ch(')(a/)_
+        [[zou6 caa4 做茶]],
+        to cure tea;
+        to set out tea;
+    - _(4)ch(')(a/) (4)lam_
+        [[caa4 lam4 茶林]],
+        a tea store;
+    - _(4)ch(')(a/) (1)k(u")_
+        [[caa4 geoi1 茶居]],
+        a tea-saloon;
+    - _(2)t(o\) (4)ch(')(a/) (4)lai_
+        [[dou2 caa4 lai4 倒茶嚟]],
+        bring tea to the visitor;
+    - _(4)ch(')(a/) (1)s(e/)ung_
+        [[caa4 soeng1 茶箱]],
+        a tea-caddy;
+    - _yat(7) (1)s(e/)ung (4)ch(')(a/) (i/)p(9)_
+        [[jat1 soeng1 caa4 jip6 一箱茶葉]]
+        a box of tea;
+    - _(4)ch(')(a/) (1)k(i/)_
+        [[caa4 gei1 茶几]],
+        a teapoy;
+    - _(4)ch(')(a/) (1)sz'_
+        [[caa4 si1 茶師]]
+        a tea-taster;
+    - _(4)ch(')(a/) m(u/)t(9)_
+        [[caa4 mut6 茶末]]
+        tea dust.
+    ==
+  ====
+C
+  ==
+  - Williams' 茶匙:
+    Changed Middle Chinese _(4)sh(i/)_ [[si4]]
+    to common reading _(4)ch(')(i/)_ [[ci4]].
   ==
 $$
