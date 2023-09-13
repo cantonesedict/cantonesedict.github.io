@@ -258,6 +258,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $嗏4
+- $搽4
 - $茶4
 ==
 </nav>
@@ -285,6 +286,55 @@ C
   ==
   - The expected reflex is caa1 from 《字彙》初加切.
   ==
+$$
+
+### 搽4 | _(4)Ch(')(a/)_ [[caa4]]
+
+$$
+R
+  手 + 10
+U
+  U+643D
+W
+  ====
+  - [[Page~9 (4)搽]]
+    --
+    An unauthorized character.
+    --
+    ==
+    - To smear, to rub in;
+    - to anoint;
+    - to rub in;
+    - _(4)ch(')(a/) p(a/)k(9) p(i/)(6) (1)ko_
+        [[caa4 baak6 bei6 go1 搽白鼻哥]],
+        to whiten his nose, _i.e._ to palm off, to dupe;
+    - _(4)ch(')(a/) (1)f(a/) (2)hau m(i/)n(6)_
+        [[caa4 faa1 hau2 min6 搽花口面]]
+        to disguise one's face;
+    - _(4)ch(')(a/) y(e/)uk(9)_
+        [[caa4 joek6 搽藥]]
+        to spread a plaster;
+    - _(4)ch(')(a/) (2)fan_
+        [[caa4 fan2 搽粉]],
+        to rub on cosmetics.
+    ==
+  ====
+C
+  ==
+  - Possibly from an alternative reading of 塗 (per 鄭張尚芳).
+    The expected reflex is caa4 from 《廣韻》宅加切, explained 塗飾.
+  ==
+E
+  ====
+  - 【搽】 (caa4):
+    ++
+    1. To apply or rub an ointment, cream, etc.
+       ==
+       - 搽太陽油 (caa4 taai3 joeng4 jau4): "Apply sunscreen"
+       - 搽藥膏 (caa4 joek6 gou1): "Apply ointment"
+       ==
+    ++
+  ====
 $$
 
 ### 茶4 | _(4)Ch(')(a/)_ [[caa4]]
