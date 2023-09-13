@@ -257,10 +257,35 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $嗏4
 - $茶4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 嗏4 | _(4)Ch(')(a/)_ [[caa4]]
+
+$$
+R
+  口 + 10
+U
+  U+55CF
+V
+  ==
+  - caa1 (expected from 初加切)
+  ==
+W
+  ====
+  - [[Page~9 (4)嗏]]
+    ==
+    - A euphonic final sound used in chanting, to prolong the line.
+    ==
+  ====
+C
+  ==
+  - The expected reflex is caa1 from 《字彙》初加切.
+  ==
+$$
 
 ### 茶4 | _(4)Ch(')(a/)_ [[caa4]]
 
