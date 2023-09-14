@@ -224,6 +224,10 @@ W
         harpoon it.
     ==
   ====
+S
+  ==
+  - $扠caa5
+  ==
 $$
 
 ### 汊1 | _(1)Ch(')(a/)_ [[caa1]]
@@ -491,10 +495,30 @@ $$
 <## tone-5-characters ##>
 <nav class="sideways">
 =={.modern}
+- $扠5
 - $搽5
 ==
 </nav>
 <## /tone-5-characters ##>
+
+###+ 扠5 | _(5)Ch(')(a/)_ [[caa5]]
+
+$$
+R
+  手 + 3
+U
+  U+6260
+W
+  [[Not present]]
+C
+  ==
+  - Here normalised to 搽; **see $搽caa5 for the canonical entry**.
+  ==
+S
+  ==
+  - $扠caa1
+  ==
+$$
 
 ###+ 搽5 | _(5)Ch(')(a/)_ [[caa5]]
 
@@ -505,13 +529,29 @@ U
   U+643D
 A
   ==
-  -{.modern} (TODO)
+  -{.modern} $扠5
   ==
 W
   [[Not present]]
 C
   ==
-  - (TODO)
+  - I have chosen 搽 over 扠 as the canonical form of caa5 because:
+    ++
+    1. It seems more plausible to me that the word is derived
+       from smudging (with a calligraphic ink brush or finger)
+       than from crossing out (with a pencil or biro);
+    1. In terms of pitch distance,
+       it is nicer to have two readings for 搽 in 陽平 (caa4) and 陽上 (caa5),
+       than to have two readings for 扠 in 陰平 (caa1) and 陽上 (caa5); and
+    1. The form 搽 for _(5)ch(')(a/)_ [[caa5]] is attested in
+       [Eitel (1877)][eitel-dict-搽].
+    ++
+  - [Wiktionary as of 2023-06-23][wiktionary-䵦]
+    suggests 䵦 as the original character, but I am not convinced by this.
+    While the classical meaning (to dirty) is reasonable, the sound is less so.
+    Starting with 《廣韻》徐野切,
+    if we insist on initial 邪 and final 麻 in rising tone,
+    we get _(5)ts(')(a/)_ and not _(5)ch(')(a/)_.
   ==
 E
   ====
@@ -535,3 +575,6 @@ S
   - $搽caa4
   ==
 $$
+
+[eitel-dict-搽]: https://books.google.com/books?id=mh8TAAAAYAAJ&jtp=10
+[wiktionary-䵦]: https://en.wiktionary.org/w/index.php?title=䵦&oldid=73583243
