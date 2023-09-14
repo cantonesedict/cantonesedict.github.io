@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [caa1](#1)
 - [caa4](#4)
+- [caa5](#5)
 ==
 </nav>
 <## /tones ##>
@@ -337,6 +338,10 @@ E
        ==
     ++
   ====
+S
+  ==
+  - $搽caa5
+  ==
 $$
 
 ### 查4 | _(4)Ch(')(a/)_ [[caa4]]
@@ -477,5 +482,56 @@ C
   - Williams' 茶匙:
     Changed Middle Chinese _(4)sh(i/)_ [[si4]]
     to common reading _(4)ch(')(i/)_ [[ci4]].
+  ==
+$$
+
+
+##{#5 .modern} (5)Ch(')(a/) [[caa5 陽上]]
+
+<## tone-5-characters ##>
+<nav class="sideways">
+=={.modern}
+- $搽5
+==
+</nav>
+<## /tone-5-characters ##>
+
+###+ 搽5 | _(5)Ch(')(a/)_ [[caa5]]
+
+$$
+R
+  手 + 10
+U
+  U+643D
+A
+  ==
+  -{.modern} (TODO)
+  ==
+W
+  [[Not present]]
+C
+  ==
+  - (TODO)
+  ==
+E
+  ====
+  - 【搽】 (caa5):
+    ++
+    1. To smudge or scribble out.
+       ==
+       - 搽咗佢 (caa5 zo2 keoi5): "Scribble it out"
+       ==
+    ++
+  - 【搽𢰸】 (caa5 wo5):
+    ++
+    1. To ruin or spoil.
+       ==
+       - 搽𢰸咗個計畫 (caa5 wo5 zo2 go3 gai3 waak6): "[It's] spoilt the plan"
+       ==
+    ++
+  ====
+S
+  ==
+  - $搽caa4
   ==
 $$
