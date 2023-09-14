@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> hei
-* %date-modified --> 2023-08-26
+* %date-modified --> 2023-09-14
 * %copyright-prior-years -->
 
 %%%
@@ -61,17 +61,17 @@ U
   U+5C6D
 V
   ==
-  -{.modern} hei3 (for colloquial senses)
+  -{.modern} ai3 (for colloquial senses)
   ==
 W
   [[Not present]]
-E
-  ====
-  - 【屭】 (hei3):
-    ++
-    1. Of great strength. See 贔屭 under $贔bei6. (TODO)
-    ++
-  ====
+C
+  ==
+  - For completeness I have included here the literary reading hei3,
+    meaning "of great strength", which Williams omitted.
+    See 贔屭 under $贔bei6 (TODO) for literary usage.
+  - For colloquial usage, see $屭ai3.
+  ==
 S
   =={.modern}
   - $屭ai3
