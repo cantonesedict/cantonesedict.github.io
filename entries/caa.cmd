@@ -259,6 +259,7 @@ $$
 =={.modern}
 - $嗏4
 - $搽4
+- $查4
 - $槎4
 - $茶4
 ==
@@ -335,6 +336,42 @@ E
        - 搽藥膏 (caa4 joek6 gou1): "Apply ointment"
        ==
     ++
+  ====
+$$
+
+### 查4 | _(4)Ch(')(a/)_ [[caa4]]
+
+$$
+R
+  木 + 5
+U
+  U+67E5
+W
+  ====
+  - [[Page~9 (4)查]]
+    ==
+    - A raft, a float;
+    - to examine, to inquire into;
+    - it appears that, having learned, I have ascertained;
+    - _(4)ch(')(a/) ch(')(a/)t(8)_
+        [[caa4 caat3 查察]]
+        to examine, to scrutinize;
+    - _(2)fong (4)ch(')(a/)_
+        [[fong2 caa4 訪查]],
+        to ask about;
+    - _(4)ch(')(a/) (1)k(a/)i_
+        [[caa4 gaai1 查街]],
+        to patrol the streets;
+    - _(4)ch(')(a/) kwo(3) s(a/)i(3)_
+        [[caa4 gwo3 saai3 查過嗮]]
+        inspected them all;
+    - _(4)ch(')(a/) (1)shau_
+        [[caa4 sau1 查收]],
+        I find it has been received;
+    - _(4)ch(')(a/) (4)ch(')(a/) (2)l(a/) (2)l(a/)_
+        [[caa4 caa4 laa2 laa2 查查拉拉]],
+        idle prying into matters, tedious questioning.
+    ==
   ====
 $$
 
