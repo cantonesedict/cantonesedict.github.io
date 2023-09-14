@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2023-09-13
+* %date-modified --> 2023-09-14
 * %copyright-prior-years -->
 
 %%%
@@ -259,6 +259,7 @@ $$
 =={.modern}
 - $嗏4
 - $搽4
+- $槎4
 - $茶4
 ==
 </nav>
@@ -334,6 +335,27 @@ E
        - 搽藥膏 (caa4 joek6 gou1): "Apply ointment"
        ==
     ++
+  ====
+$$
+
+### 槎4 | _(4)Ch(')(a/)_ [[caa4]]
+
+$$
+R
+  木 + 10
+U
+  U+69CE
+W
+  ====
+  - [[Page~9 (4)槎]]
+    ==
+    - Drift-wood;
+    - a small raft;
+    - to fell trees, to hew wood;
+    - _(4)shing (4)ch(')(a/)_
+        [[sing4 caa4 乘槎]],
+        to raft timber.
+    ==
   ====
 $$
 
