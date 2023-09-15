@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2023-09-14
+* %date-modified --> 2023-09-15
 * %copyright-prior-years -->
 
 %%%
@@ -335,9 +335,9 @@ E
   ====
   - 【搽】 (caa4):
     ++
-    1. To apply or rub an ointment, cream, etc.
+    1. To apply, rub, or spread an ointment, cream, etc.
        ==
-       - 搽太陽油 (caa4 taai3 joeng4 jau4): "Apply sunscreen"
+       - 搽牛油 (caa4 ngau4 jau4): "Spread butter"
        - 搽藥膏 (caa4 joek6 gou1): "Apply ointment"
        ==
     ++
