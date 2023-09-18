@@ -78,11 +78,14 @@ C
        ==
        - 哪吒 (naa4 zaa1): "Nezha"
        ==
+    1. Reading variation of _ch(a/)(3)_ [[zaa3]];
+       **see $吒zaa3 for the canonical entry**.
     ++
   ====
 S
   ==
   - (TODO)
+  - $吒zaa3
   ==
 $$
 
@@ -422,6 +425,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $乍3
+- $吒3
 - $咋3
 - $搾3
 - $榨3
@@ -458,6 +462,41 @@ W
         happened to see.
     ==
   ====
+$$
+
+###+ 吒3 | _Ch(a/)(3)_ [[zaa3]]
+
+$$
+R
+  口 + 3
+U
+  U+5412
+V
+  ==
+  - caa3 (per 《分韻撮要》)
+  - zaa1 (attested alternative)
+  ==
+W
+  ====
+  - [[Page~9|n52 吒(3) _ch(')(a/)(3)_ (caa3); here normalised to _ch(a/)(3)_ (zaa3)]]
+    ==
+    - To foam and sputter in anger;
+    - to talk angrily;
+    - to grumble;
+    - _ch(')ik(7) [ch(a/)](3)_
+        [[cik1 zaa3 叱吒]]
+        to rail at.
+    ==
+  ====
+C
+  ==
+  - The reading zaa1 is not unattested; Kangxi quotes 《玉篇》知加切《集韻》陟加切.
+  ==
+S
+  ==
+  - (TODO)
+  - $吒zaa1
+  ==
 $$
 
 ### 咋3 | _Ch(a/)(3)_ [[zaa3]]
