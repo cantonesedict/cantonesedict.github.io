@@ -263,10 +263,37 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $吒3
 - $詫3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 吒3 | _Ch(')(a/)(3)_ [[caa3]]
+
+$$
+R
+  口 + 3
+U
+  U+5412
+W
+  ====
+  - [[Page~9|n52 吒(3)]]
+    --
+    Used for the last [[詫]]. [[**See $詫caa3 for the canonical entry.**]]
+    --
+    --
+    [[For the other senses,
+    the expected reflex is zaa3 from Middle Chinese 陟嫁切;
+    **see $吒zaa3 for the canonical entry**.]]
+    --
+  ====
+S
+  ==
+  - $吒zaa1
+  - $吒zaa3
+  ==
+$$
 
 ### 詫3 | _Ch(')(a/)(3)_ [[caa3]]
 
@@ -275,6 +302,10 @@ R
   言 + 6
 U
   U+8A6B
+A
+  ==
+  - $吒3
+  ==
 W
   ====
   - [[Page~9|n52 詫(3)]]
