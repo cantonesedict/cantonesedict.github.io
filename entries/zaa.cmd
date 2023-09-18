@@ -477,8 +477,8 @@ A
   ==
 V
   ==
-  - caa3 (per 《分韻撮要》)
-  - zaa1 (attested alternative)
+  - caa3 (uncommon)
+  - zaa1 (alternative)
   ==
 W
   ====
@@ -494,7 +494,9 @@ W
   ====
 C
   ==
-  - The reading zaa1 is not unattested; Kangxi quotes 《玉篇》知加切《集韻》陟加切.
+  - The uncommon reading caa3 is that given in 《分韻撮要》.
+  - The alternative reading zaa1 is not unattested;
+    Kangxi quotes 《玉篇》知加切《集韻》陟加切.
   ==
 S
   ==
