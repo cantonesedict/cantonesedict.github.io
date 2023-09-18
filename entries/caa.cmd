@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2023-09-15
+* %date-modified --> 2023-09-18
 * %copyright-prior-years -->
 
 %%%
@@ -284,7 +284,7 @@ V
   ==
 W
   ====
-  - [[Page~9 (4)嗏]]
+  - [[Page~9|n52 (4)嗏]]
     ==
     - A euphonic final sound used in chanting, to prolong the line.
     ==
@@ -304,7 +304,7 @@ U
   U+643D
 W
   ====
-  - [[Page~9 (4)搽]]
+  - [[Page~9|n52 (4)搽]]
     --
     An unauthorized character.
     --
@@ -357,7 +357,7 @@ U
   U+67E5
 W
   ====
-  - [[Page~9 (4)查]]
+  - [[Page~9|n52 (4)查]]
     ==
     - A raft, a float;
     - to examine, to inquire into;
@@ -393,7 +393,7 @@ U
   U+69CE
 W
   ====
-  - [[Page~9 (4)槎]]
+  - [[Page~9|n52 (4)槎]]
     ==
     - Drift-wood;
     - a small raft;
