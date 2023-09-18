@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2023-09-09
+* %date-modified --> 2023-09-18
 * %copyright-prior-years -->
 
 %%%
@@ -46,6 +46,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $吒1
 - $咱1
 - $𠾵1
 - $揸1
@@ -58,6 +59,32 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+###+ 吒1 | _(1)Ch(a/)_ [[zaa1]]
+
+$$
+R
+  口 + 3
+U
+  U+5412
+W
+  [[Not present]]
+C
+  ====
+  - Reading _(1)ch(a/)_ [[zaa1]] not present in Williams;
+    entry included here for completeness.
+    ++
+    1. Used in mythological names.
+       ==
+       - 哪吒 (naa4 zaa1): "Nezha"
+       ==
+    ++
+  ====
+S
+  ==
+  - (TODO)
+  ==
+$$
 
 ### 咱1 | _(1)Ts(a/)_ [[zaa1]]
 
