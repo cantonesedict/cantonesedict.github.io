@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [caa1](#1)
+- [caa3](#3)
 - [caa4](#4)
 - [caa5](#5)
 ==
@@ -253,6 +254,41 @@ C
   - Williams does not provide separate entries for $岔1 and 汊,
     probably following Kangxi, which has 與汊同 under 岔.
     I have split things up accordingly.
+  ==
+$$
+
+
+##{#3 .williams} Ch(')(a/)(3) [[caa3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $詫3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 詫3 | _Ch(')(a/)(3)_ [[caa3]]
+
+$$
+R
+  言 + 6
+U
+  U+8A6B
+W
+  ====
+  - [[Page~9|n52 詫(3)]]
+    ==
+    - To talk extravagantly, to vaunt;
+    - to deceive;
+    - _ch(')(a/)(3) (i/)(6)_
+        [[caa3 ji6 詫異]]
+        strange, foolish.
+    ==
+  ====
+C
+  ==
+  - Williams' 詫異: Better rendered "wonder" or "astonishment".
   ==
 $$
 
