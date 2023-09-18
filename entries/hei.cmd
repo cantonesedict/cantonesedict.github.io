@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> hei
-* %date-modified --> 2023-09-14
+* %date-modified --> 2023-09-18
 * %copyright-prior-years -->
 
 %%%
@@ -66,14 +66,16 @@ V
 W
   [[Not present]]
 C
-  ==
-  - For completeness I have included here the literary reading hei3,
-    meaning "of great strength", which Williams omitted.
-    See 贔屭 under $贔bei6 (TODO) for literary usage.
+  ====
+  - Literary reading _h(i/)(3)_ [[hei3]] not present in Williams;
+    entry included here for completeness.
+    ++
+    1. Of great strength. (See 贔屭 under $贔bei6 (TODO) for literary usage.)
+    ++
   - For colloquial usage, see $屭ai3.
-  ==
+  ====
 S
-  =={.modern}
+  ==
   - $屭ai3
   ==
 $$
