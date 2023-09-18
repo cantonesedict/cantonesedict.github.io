@@ -264,6 +264,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $吒3
+- $咤3
 - $詫3
 ==
 </nav>
@@ -276,6 +277,10 @@ R
   口 + 3
 U
   U+5412
+A
+  ==
+  - $咤3
+  ==
 W
   ====
   - [[Page~9|n52 吒(3)]]
@@ -295,6 +300,25 @@ S
   ==
 $$
 
+### 咤3 | _Ch(')(a/)(3)_ [[caa3]]
+
+$$
+R
+  口 + 6
+U
+  U+54A4
+W
+  ====
+  - [[Page~9|n52 咤(3)]]
+    --
+    Used for the last [[詫]]. [[**See $詫caa3 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 吒. **See $吒caa3**.]]
+    --
+  ====
+$$
+
 ### 詫3 | _Ch(')(a/)(3)_ [[caa3]]
 
 $$
@@ -305,6 +329,7 @@ U
 A
   ==
   - $吒3
+  - $咤3
   ==
 W
   ====
