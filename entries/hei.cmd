@@ -67,8 +67,8 @@ W
   [[Not present]]
 C
   ====
-  - Literary reading _h(i/)(3)_ [[hei3]] not present in Williams;
-    entry included here for completeness.
+  - The literary reading _h(i/)(3)_ [[hei3]] for 屭 is not present in Williams;
+    an entry is included here for completeness.
     ++
     1. Of great strength. (See 贔屭 under $贔bei6 (TODO) for literary usage.)
     ++

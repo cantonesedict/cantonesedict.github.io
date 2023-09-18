@@ -71,8 +71,8 @@ W
   [[Not present]]
 C
   ====
-  - Reading _(1)ch(a/)_ [[zaa1]] not present in Williams;
-    entry included here for completeness.
+  - The reading _(1)ch(a/)_ [[zaa1]] for 吒 is not present in Williams;
+    an entry is included here for completeness.
     ++
     1. Used in mythological names.
        ==
