@@ -21,10 +21,7 @@ def is_bad_jyutping_heuristic(string):
 def check_jyutping_heuristic(entry_cmd_name, cmd_content):
     bad_jyutping_runs = [
         run
-        for run in [
-            *re.findall(pattern=r'(?<= \[\[ ) [a-z] .*? (?= \]\] )', string=cmd_content, flags=re.VERBOSE),
-            *re.findall(pattern=r'(?<= \( ) [a-z] .*? (?= \) )', string=cmd_content, flags=re.VERBOSE),
-        ]
+        for run in re.findall(pattern=r'\b[a-z]+[1-9]\b', string=cmd_content, flags=re.VERBOSE)
         if is_bad_jyutping_heuristic(run)
     ]
     if bad_jyutping_runs:
