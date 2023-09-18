@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aai
-* %date-modified --> 2023-08-26
+* %date-modified --> 2023-09-18
 * %copyright-prior-years -->
 
 %%%
@@ -158,8 +158,8 @@ C
   ==
   - Among the readings attested in Kangxi's Dictionary are:
     ++
-    1. yik1 (伊昔切), meaning "throat" (咽也);
-    1. aai3 (烏懈切音隘), meaning "choke" (噎也).
+    1. jik1 (伊昔切), meaning "throat" (咽也);
+    1. aai3 (烏懈切), meaning "choke" (噎也).
     ++
     Williams writes "A colloquial word"
     presumably because the meaning attested under aai3 ("choke")
