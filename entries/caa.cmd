@@ -266,6 +266,7 @@ $$
 - $吒3
 - $咤3
 - $奼3
+- $蜡3
 - $詫3
 ==
 </nav>
@@ -338,6 +339,26 @@ W
     - A handsome girl, a beautiful unmarried young lady.
     ==
   ====
+$$
+
+### 蜡3 | _Ch(')(a/)(3)_ [[caa3]]
+
+$$
+R
+  虫 + 8
+U
+  U+8721
+W
+  ====
+  - [[Page~9|n52 蜡(3)]]
+    --
+    [[Reading variation; **see $蜡zaa3 for the canonical entry**.]]
+    --
+  ====
+S
+  ==
+  - $蜡zaa3
+  ==
 $$
 
 ### 詫3 | _Ch(')(a/)(3)_ [[caa3]]

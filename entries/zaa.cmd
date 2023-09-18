@@ -431,6 +431,7 @@ $$
 - $榨3
 - $痄3
 - $蚱3
+- $蜡3
 - $詐3
 - $醡3
 ==
@@ -654,6 +655,38 @@ C
   ==
   - Williams' 蚱蟬: Changed _(4)sh(i/)n_ [[sin4]]
     to common reading _(4)sh(i/)m_ [[sim4]].
+  ==
+$$
+
+###+ 蜡3 | _Ch(a/)(3)_ [[zaa3]]
+
+$$
+R
+  虫 + 8
+U
+  U+8721
+V
+  ==
+  - caa3
+  ==
+W
+  ====
+  - [[Page~9|n52 蜡(3) _Ch(')(a/)(3)_ (caa3); here normalised to _Ch(a/)(3)_ (zaa3)]]
+    ==
+    - To bind up, sealed up, as in winter;
+    - _p(a/)t(8) [ch(a/)](3)_
+        [[baat3 zaa3 八蜡]]
+        a sacrifice of thanksgiving to the earth in winter for ripening crops.
+    ==
+  ====
+C
+  ==
+  - The reading caa3 is that given in 《分韻撮要》.
+  - The reading zaa3 is from 《廣韻》又音乍.
+  ==
+S
+  ==
+  - $蜡caa3
   ==
 $$
 
