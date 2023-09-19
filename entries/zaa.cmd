@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2023-09-18
+* %date-modified --> 2023-09-19
 * %copyright-prior-years -->
 
 %%%
@@ -483,7 +483,7 @@ V
   ==
 W
   ====
-  - [[Page~9|n52 吒(3) _ch(')(a/)(3)_ (caa3); here normalised to _ch(a/)(3)_ (zaa3)]]
+  - [[Page~9|n52 吒(3)咤(3) _ch(')(a/)(3)_ (caa3); here normalised to _ch(a/)(3)_ (zaa3)]]
     ==
     - To foam and sputter in anger;
     - to talk angrily;

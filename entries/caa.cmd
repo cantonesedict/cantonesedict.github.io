@@ -279,7 +279,7 @@ A
   ==
 W
   ====
-  - [[Page~9|n52 吒(3)]]
+  - [[Page~9|n52 吒(3)咤(3)]]
     --
     Used for the last [[詫]]. [[**See $詫caa3 for the canonical entry.**]]
     --
@@ -305,7 +305,7 @@ U
   U+54A4
 W
   ====
-  - [[Page~9|n52 咤(3)]]
+  - [[Page~9|n52 吒(3)咤(3)]]
     --
     Used for the last [[詫]]. [[**See $詫caa3 for the canonical entry.**]]
     --
