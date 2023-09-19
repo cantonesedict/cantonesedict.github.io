@@ -5,18 +5,12 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2023-09-18
+* %date-modified --> 2023-09-19
 * %copyright-prior-years -->
 
 %%%
 
 #{.williams} Ch(')(a/). [[caa]]
-
-<nav class="sideways">
-=={.modern}
-- [[Work in progress]]
-==
-</nav>
 
 <## tones ##>
 <nav class="sideways">
