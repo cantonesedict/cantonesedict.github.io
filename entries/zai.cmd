@@ -112,6 +112,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $制3
+- $製3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -177,3 +178,49 @@ W
 $$
 
 <## TODO: check 晣; Kangxi has 晢 as canonical ##>
+
+### 製3 | _Chai(3)_ [[zai3]]
+
+$$
+R
+  衣 + 8
+U
+  U+88FD
+W
+  ====
+  - [[Page~9|n52 製(3)]]
+    <## TODO: example characters ##>
+    --
+    Interchanged with the last [[制]].
+    --
+    ==
+    - To invent, to make;
+    - to cut out clothes;
+    - a fashion, a mode;
+    - to compound, as medicines;
+    - a pattern;
+    - a fur cloak;
+    - _(5)m(i/) chai(3)_
+        [[mei5 zai3]]
+        well made;
+    - _(u")(6) chai(3)_
+        [[jyu6 zai3]]
+        done by his Majesty;
+    - _(2)h(o\) chai(3) f(a/)t(8)_
+        [[hou2 zai3 faat3]]
+        well compounded;
+    - _f(a/)t(8) chai(3) (5)y(e/)_
+        [[faat3 zai3 je5]],
+        useless things;
+    - _chai(3) ts(o\)(6)_
+        [[zai3 zou6]]
+        to invent;
+    - _chai(3) (1)(i/) (4)sh(e/)ung_
+        [[zai3 ji1 soeng4]],
+        to cut out clothes;
+    - _(2)h(a/)u chai(3)_
+        [[haau2 zai3]]
+        skillfully made.
+    ==
+  ====
+$$
