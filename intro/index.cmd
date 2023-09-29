@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Introduction.
-* %date-modified --> 2023-08-19
+* %date-modified --> 2023-09-29
 * %copyright-prior-years -->
 
 %%%
@@ -42,7 +42,7 @@ dialect, usually called the Ti(e/)chi(u/) from the local sound of 潮州,
 and the Canton, constitute the speech of probably six sevenths of
 the nineteen millions reckoned as the population of the whole province;
 still this estimate is based on no very reliable data, owing to
-the difficulty of actual examination. The patois known as the _k(a/)k-k(a/)_ [[客家]]
+the difficulty of actual examination. The patois known as the _h(a/)k-k(a/)_ [[客家]]
 approaches very near to the Canton, and people from Kw(a/)ngs(i/) [[廣西]]
 are easily understood in this city. Both the Canton and Ti(e/)chi(u/)
 dialects differ so materially in idiom and pronunciation from the
@@ -152,7 +152,7 @@ most common finals in the former, and one of the rarest in the latter;
 there are no nasal sounds in the Canton, and no words ending with
 the finals _i(a/)ng_, _i(a/)k_, both of which are common in the Ti(e/)chi(u/).
 These differences are among the most noticeable between the two
-leading dialects of this provkice, but the variations as one goes from
+leading dialects of this province, but the variations as one goes from
 Ch(a/)uchau~f(u/) [[潮州府]] westward to Canton city, are numberless, nearly every
 village exhibiting some peculiarities in the sounds of a few words.
 --
@@ -1288,7 +1288,7 @@ having no consonant before it.
 ++{.williams}
 1. Au [[au]] 毆
 2. Chi [[merged into zi]] 之
-3. Ch'ut [[merged into ceot]] 出
+3. Ch(')ut [[merged into ceot]] 出
 4. Fung [[fung]] 風
 5. Hoi [[hoi]] 開
 6. K(i/)n [[gin]] 見
@@ -1413,7 +1413,7 @@ give more trouble, perhaps, than the others.
     &c.
   The number of such words is not very
   great, and while the few who speak thus cannot discriminate the
-  inital consonant before some vowels, they never interchange them
+  init[i]al consonant before some vowels, they never interchange them
   before others.
 
 - 16,~17. The initial _sh_ is called _s_ along the coast;
