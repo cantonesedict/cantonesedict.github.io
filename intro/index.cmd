@@ -1413,7 +1413,7 @@ give more trouble, perhaps, than the others.
     &c.
   The number of such words is not very
   great, and while the few who speak thus cannot discriminate the
-  inital consonant before some vowels, they never interchange them
+  init[i]al consonant before some vowels, they never interchange them
   before others.
 
 - 16,~17. The initial _sh_ is called _s_ along the coast;
