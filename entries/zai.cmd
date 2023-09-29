@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zai1](#1)
+- [zai3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -101,6 +102,77 @@ C
        - 人多擠迫 (jan4 do1 zai1 bik1): "Lots of people [and] crowded."
        ==
     ++
+  ====
+$$
+
+
+##{#3 .williams} Chai(3) Tsai(3) [[zai3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $制3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 制3 | _Chai(3)_ [[zai3]]
+
+$$
+R
+  刀 + 6
+U
+  U+5236
+W
+  ====
+  - [[Page~9|n52 制(3)]]
+    <## TODO: example characters ##>
+    ==
+    - To adjust, to cut, to form;
+    - to govern, to regulate, to rule;
+    - to limit, to hinder, to prevent;
+    - to invent, to make;
+    - a law, a rule, a regulation;
+    - _tsoi(6) chai(3)_ [[zoi6 zai3]] or
+      _(2)shau chai(3)_ [[sau2 zai3]]
+        to wear mourning for parents;
+    - _(5)yau ts(i/)t(8) chai(3)_
+        [[jau5 zit3 zai3]]
+        I can do so much;
+    - _chai(3) (4)t(')oi_
+        [[zai3 toi4]],
+        a governor-general;
+    - _(1)k(a/)m chai(3)_
+        [[gaam1 zai3]]
+        to restrain, to set limits;
+    - _chai(3) (2)kan k(o\)m(3) (1)to_
+        [[zai3 gan2 gam3 do1]],
+        to limit one;
+    - _chai(3) (2)t(o\)_
+        [[zai3 dou2]],
+        to tame, to subdue;
+    - _tsz'(6) chai(3)_
+        [[zi6 zai3]]
+        self-restraint;
+    - _chai(3) (1)sh(u")_
+        [[zai3 syu1]],
+        an imperial dispatch;
+    - _chai(3) t(o\)(6)_
+        [[zai3 dou6]]
+        a pattern, laws;
+    - _kam(3) chai(3)_
+        [[gam3 zai3]]
+        a prohibition;
+    - _chai(3) t(i/)(6)_
+        [[zai3 dei6]]
+        the court;
+    - _sui(3) chai(3)_
+        [[seoi3 zai3]]
+        a sexagenary;
+    - _chai(3) fok(8)_
+        [[zai3 fok3]]
+        a close surveillance.
+    ==
   ====
 $$
 
