@@ -1288,7 +1288,7 @@ having no consonant before it.
 ++{.williams}
 1. Au [[au]] 毆
 2. Chi [[merged into zi]] 之
-3. Ch'ut [[merged into ceot]] 出
+3. Ch(')ut [[merged into ceot]] 出
 4. Fung [[fung]] 風
 5. Hoi [[hoi]] 開
 6. K(i/)n [[gin]] 見
