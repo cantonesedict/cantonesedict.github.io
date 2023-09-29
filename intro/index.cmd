@@ -152,7 +152,7 @@ most common finals in the former, and one of the rarest in the latter;
 there are no nasal sounds in the Canton, and no words ending with
 the finals _i(a/)ng_, _i(a/)k_, both of which are common in the Ti(e/)chi(u/).
 These differences are among the most noticeable between the two
-leading dialects of this provkice, but the variations as one goes from
+leading dialects of this province, but the variations as one goes from
 Ch(a/)uchau~f(u/) [[潮州府]] westward to Canton city, are numberless, nearly every
 village exhibiting some peculiarities in the sounds of a few words.
 --
