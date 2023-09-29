@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Introduction.
-* %date-modified --> 2023-08-19
+* %date-modified --> 2023-09-29
 * %copyright-prior-years -->
 
 %%%
@@ -42,7 +42,7 @@ dialect, usually called the Ti(e/)chi(u/) from the local sound of 潮州,
 and the Canton, constitute the speech of probably six sevenths of
 the nineteen millions reckoned as the population of the whole province;
 still this estimate is based on no very reliable data, owing to
-the difficulty of actual examination. The patois known as the _k(a/)k-k(a/)_ [[客家]]
+the difficulty of actual examination. The patois known as the _h(a/)k-k(a/)_ [[客家]]
 approaches very near to the Canton, and people from Kw(a/)ngs(i/) [[廣西]]
 are easily understood in this city. Both the Canton and Ti(e/)chi(u/)
 dialects differ so materially in idiom and pronunciation from the
