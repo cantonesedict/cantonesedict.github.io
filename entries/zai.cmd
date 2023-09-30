@@ -119,7 +119,7 @@ W
         to crowd and press upon.
     ==
   ====
-C
+E
   ====
   - 【擠】 (zai1):
     ++
