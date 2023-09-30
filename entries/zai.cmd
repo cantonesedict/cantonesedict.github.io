@@ -188,7 +188,6 @@ U
 W
   ====
   - [[Page~9|n52 製(3)]]
-    <## TODO: example characters ##>
     --
     Interchanged with the last [[制]].
     --
@@ -200,26 +199,30 @@ W
     - a pattern;
     - a fur cloak;
     - _(5)m(i/) chai(3)_
-        [[mei5 zai3]]
+        [[mei5 zai3 美製]]
         well made;
     - _(u")(6) chai(3)_
-        [[jyu6 zai3]]
+        [[jyu6 zai3 御製]]
         done by his Majesty;
     - _(2)h(o\) chai(3) f(a/)t(8)_
-        [[hou2 zai3 faat3]]
+        [[hou2 zai3 faat3 好製法]]
         well compounded;
     - _f(a/)t(8) chai(3) (5)y(e/)_
-        [[faat3 zai3 je5]],
+        [[faat3 zai3 je5 法製嘢]],
         useless things;
     - _chai(3) ts(o\)(6)_
-        [[zai3 zou6]]
+        [[zai3 zou6 製造]]
         to invent;
     - _chai(3) (1)(i/) (4)sh(e/)ung_
-        [[zai3 ji1 soeng4]],
+        [[zai3 ji1 soeng4 製衣裳]],
         to cut out clothes;
     - _(2)h(a/)u chai(3)_
-        [[haau2 zai3]]
+        [[haau2 zai3 巧製]]
         skillfully made.
     ==
   ====
+C
+  ==
+  - Williams' 製造: Now more "create" than "invent".
+  ==
 $$
