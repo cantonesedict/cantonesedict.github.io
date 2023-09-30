@@ -51,10 +51,39 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $劑1
 - $擠1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 劑1 | _(1)Tsai_ [[zai1]]
+
+$$
+R
+  刀 + 14
+U
+  U+5291
+W
+  ====
+  - [[Page~548 (1)劑]]
+    ==
+    - To pare, to cut even, to trim;
+    - to equalize, to portion, to adjust;
+    - to compound, as pills;
+    - a dose, a recipe;
+    - _yat(7) (1)tsai y(e/)uk(9)_
+        [[jat1 zai1 joek6 一劑藥]]
+        a dose of medicine;
+    - _(4)t(')i(u/) (1)tsai_
+        [[tiu4 zai1 調劑]],
+        to arrange amicably;
+    - _chat(7) (1)tsai_
+        [[zat1 zai1 質劑]],
+        a check, a bond, made so as to cut in twain for evidence.
+    ==
+  ====
+$$
 
 ### 擠1 | _(1)Chai_ _(1)Tsai_ [[zai1]]
 
