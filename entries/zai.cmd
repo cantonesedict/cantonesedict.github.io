@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2023-09-29
+* %date-modified --> 2023-09-30
 * %copyright-prior-years -->
 
 %%%
@@ -85,7 +85,7 @@ W
     - To push, to push over, to upset;
     - to press upon, to crowd;
     - _(1)tsai (2)yung_
-        [[zai1 jung2 擠湧]],
+        [[zai1 jung2 擠擁]],
         to crowd and press upon.
     ==
   ====
