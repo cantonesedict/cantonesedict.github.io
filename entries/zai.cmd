@@ -112,6 +112,8 @@ $$
 <nav class="sideways">
 =={.modern}
 - $制3
+- $晢3
+- $晣3
 - $製3
 ==
 </nav>
@@ -176,7 +178,44 @@ W
   ====
 $$
 
-<## TODO: check 晣; Kangxi has 晢 as canonical ##>
+###+ 晢3 | _Chai(3)_ [[zai3]]
+
+$$
+R
+  日 + 7
+U
+  U+6662
+A
+  ==
+  - $晣3
+  ==
+W
+  ====
+  - [[Page~9|n52 晣(3); here normalised to 晢]]
+    ==
+    - Brightness of stars;
+    - _(4)ming (1)sing chai(3) chai(3)_
+        [[ming4 sing1 zai3 zai3 明星晢晢]]
+        the twinkling lustre of the stars.
+    ==
+  ====
+$$
+
+### 晣3 | _Chai(3)_ [[zai3]]
+
+$$
+R
+  日 + 7
+U
+  U+6663
+W
+  ====
+  - [[Page~9|n52 晣(3)]]
+    --
+    [[Alternative form of 晢. **See $晢zai3 for the canonical entry.**]]
+    --
+  ====
+$$
 
 ### 製3 | _Chai(3)_ [[zai3]]
 
