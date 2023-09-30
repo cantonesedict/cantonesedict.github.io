@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [zai1](#1)
 - [zai3](#3)
+- [zai6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -325,4 +326,60 @@ C
   ==
   - Williams' 製造: Now more "create" than "invent".
   ==
+$$
+
+
+##{#6 .williams} Chai(6) Tsai(6) [[zai6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $滯6
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 滯6 | _Chai(6)_ [[zai6]]
+
+$$
+R
+  水 + 11
+U
+  U+6EEF
+W
+  ====
+  - [[Page~10|n53 滯(6)]]
+    ==
+    - Water impeded;
+    - condensed, congealed;
+    - to obstruct, to stop;
+    - indigestible, disagreeing, piled up;
+    - _shik(9) chai(6)_
+        [[sik6 zai6 食滯]]
+        indigestible;
+    - _chai(6) ch(u")(6)_
+        [[zai6 zyu6 滯住]]
+        to restrain;
+        impeded;
+        an obstruction, stoppage;
+    - _ai(3) chai(6)_
+        [[ai3 zai6 翳滯]]
+        fullness in the stomach;
+        hindering;
+        slow progress;
+    - _f(u/)i(3) chai(6)_
+        [[fui3 zai6 晦滯]]
+        stupid looking;
+    - _(2)p(a/)n chai(6)_
+        [[baan2 zai6 板滯]]
+        an old fogy;
+        adhering to the old way;
+    - _(2)cho chai(6)_
+        [[zo2 zai6 阻滯]]
+        hindered, let, detained;
+    - _chai(6) h(i/)(3)_
+        [[zai6 hei3 滯氣]]
+        a stoppage of secretions.
+    ==
+  ====
 $$
