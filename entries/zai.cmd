@@ -112,6 +112,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $制3
+- $掣3
 - $晢3
 - $晣3
 - $製3
@@ -175,6 +176,66 @@ W
         [[zai3 fok3 制縛]]
         a close surveillance.
     ==
+  ====
+$$
+
+### 掣3 | _Chai(3)_ [[zai3]]
+
+$$
+R
+  手 + 8
+U
+  U+63A3
+W
+  ====
+  - [[Page~10|n53 掣(3)]]
+    ==
+    - To obstruct, to hinder from entering;
+    - to take, to choose out, to raise up;
+    - to select;
+    - to pull, to draw;
+    - _chai(3) (1)ts(')(i/)m_
+        [[zai3 cim1 掣籤]],
+        to draw lots;
+    - _(1)h(i/)n chai(3)_
+        [[hin1 zai3 牽掣]]
+        to compel, to force;
+    - _ch(a/)(3) chai(3) ch(a/)(3) tsung(3)_
+        [[zaa3 zai3 zaa3 zung3 乍掣乍縱]]
+        a twitching, as of children in convulsions;
+    - _chai(3) t(i/)n(6)_
+        [[zai3 din6 掣電]]
+        like lightning, as an electrical machine acts;
+    - _h(i/)p(9) chai(3)_
+        [[hip6 zai3 挾掣]]
+        to restrain;
+    - _chai(3) (2)[ch(a/)u]_
+        [[zai3 zaau2 掣肘]],
+        to impede, to embarrass.
+    ==
+  ====
+C
+  ==
+  - Williams' 掣肘:
+    Changed Middle Chinese _(2)chau_ [[zau2]]
+    to common reading _(2)ch(a/)u_ [[zaau2]].
+  ==
+E
+  ====
+  - 【掣】 (zai3):
+    ++
+    1. A push-button, switch, pedal, etc.
+      ==
+      - 手掣 (sau2 zai3): "Handbrake"
+      - 撳掣 (gam6 zai3): "Press [the] button"
+      - 煞掣 (saat3 zai3): "Slam [the] brakes"
+      - 總掣 (zung2 zai3): "[The] main switch"
+      - 跳掣 (tiu3 zai3): "Trip [the] breaker"
+      - 閂掣 (saan1 zai3): "Turn off [the] switch"
+      - 開掣 (hoi1 zai3): "Turn on [the] switch"
+      - 電掣 (din6 zai3): "[An] electrical switch"
+      ==
+    ++
   ====
 $$
 
