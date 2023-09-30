@@ -127,51 +127,50 @@ U
 W
   ====
   - [[Page~9|n52 制(3)]]
-    <## TODO: example characters ##>
     ==
     - To adjust, to cut, to form;
     - to govern, to regulate, to rule;
     - to limit, to hinder, to prevent;
     - to invent, to make;
     - a law, a rule, a regulation;
-    - _tsoi(6) chai(3)_ [[zoi6 zai3]] or
-      _(2)shau chai(3)_ [[sau2 zai3]]
+    - _tsoi(6) chai(3)_ [[zoi6 zai3 在制]] or
+      _(2)shau chai(3)_ [[sau2 zai3 守制]]
         to wear mourning for parents;
     - _(5)yau ts(i/)t(8) chai(3)_
-        [[jau5 zit3 zai3]]
+        [[jau5 zit3 zai3 有節制]]
         I can do so much;
     - _chai(3) (4)t(')oi_
-        [[zai3 toi4]],
+        [[zai3 toi4 制臺]],
         a governor-general;
     - _(1)k(a/)m chai(3)_
-        [[gaam1 zai3]]
+        [[gaam1 zai3 監制]]
         to restrain, to set limits;
     - _chai(3) (2)kan k(o\)m(3) (1)to_
-        [[zai3 gan2 gam3 do1]],
+        [[zai3 gan2 gam3 do1 制緊咁多]],
         to limit one;
     - _chai(3) (2)t(o\)_
-        [[zai3 dou2]],
+        [[zai3 dou2 制倒]],
         to tame, to subdue;
     - _tsz'(6) chai(3)_
-        [[zi6 zai3]]
+        [[zi6 zai3 自制]]
         self-restraint;
     - _chai(3) (1)sh(u")_
-        [[zai3 syu1]],
+        [[zai3 syu1 制書]],
         an imperial dispatch;
     - _chai(3) t(o\)(6)_
-        [[zai3 dou6]]
+        [[zai3 dou6 制度]]
         a pattern, laws;
     - _kam(3) chai(3)_
-        [[gam3 zai3]]
+        [[gam3 zai3 禁制]]
         a prohibition;
     - _chai(3) t(i/)(6)_
-        [[zai3 dei6]]
+        [[zai3 dei6 制地]]
         the court;
     - _sui(3) chai(3)_
-        [[seoi3 zai3]]
+        [[seoi3 zai3 歲制]]
         a sexagenary;
     - _chai(3) fok(8)_
-        [[zai3 fok3]]
+        [[zai3 fok3 制縛]]
         a close surveillance.
     ==
   ====
