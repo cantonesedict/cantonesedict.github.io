@@ -54,8 +54,11 @@ $$
 - $劑1
 - $擠1
 - $穧1
+- $賫1
+- $賷1
 - $躋1
 - $隮1
+- $齎1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -158,6 +161,38 @@ S
   ==
 $$
 
+### 賫1 | _(1)Tsai_ [[zai1]]
+
+$$
+R
+  貝 + 8
+U
+  U+8CEB
+W
+  ====
+  - [[Page~548 (1)賷(1)賫]]
+    --
+    [[Alternative form of 齎. **See $齎zai1 for the canonical entry.**]]
+    --
+  ====
+$$
+
+### 賷1 | _(1)Tsai_ [[zai1]]
+
+$$
+R
+  貝 + 10
+U
+  U+8CF7
+W
+  ====
+  - [[Page~548 (1)賷(1)賫]]
+    --
+    [[Alternative form of 齎. **See $齎zai1 for the canonical entry.**]]
+    --
+  ====
+$$
+
 ### 躋1 | _(1)Tsai_ [[zai1]]
 
 $$
@@ -194,6 +229,56 @@ W
     --
     [[Alternative form of 躋. **See $躋zai1 for the canonical entry.**]]
     --
+  ====
+$$
+
+### 齎1 | _(1)Tsai_ [[zai1]]
+
+$$
+R
+  齊 + 7
+U
+  U+9F4E
+A
+  ==
+  - $賫1
+  - $賷1
+  ==
+W
+  ====
+  - [[Page~548 (1)賷(1)賫; here normalised to 齎]]
+    ==
+    - To take or send a present;
+    - to present to, to offer;
+    - to dispatch, as documents;
+    - to send up to;
+    - _(1)ts(')an (1)tsai_
+        [[can1 zai1 親齎]],
+        to give to personally;
+    - _(1)tsai sung(3)_
+        [[zai1 sung3 齎送]]
+        to send, as a present.
+    ==
+  - [[Page~548 (1)齎]]
+    --
+    Interchanged with the preceding [[賷]].
+    --
+    ==
+    - To take in both hands, to offer;
+    - to give to;
+    - to prepare necessaries for a journey;
+    - to supply, to leave and store up;
+    - a sigh;
+    - _(1)tsai tsau(3) (1)k(u/)n_
+        [[zai1 zau3 gun1 齎奏官]],
+        a courier, a bearer of dispatches;
+    - _(1)tsz' (1)tsai_
+        [[zi1 zai1 ？齎]],
+        to confer on;
+    - _(2)fung (1)tsai_
+        [[fung2 zai1 捧齎]],
+        to hand up to.
+    ==
   ====
 $$
 
