@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2023-09-30
+* %date-modified --> 2023-10-04
 * %copyright-prior-years -->
 
 %%%
@@ -53,6 +53,7 @@ $$
 =={.modern}
 - $劑1
 - $擠1
+- $穧1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -133,6 +134,26 @@ E
        ==
     ++
   ====
+$$
+
+### 穧1 | _(1)Tsai_ [[zai1]]
+
+$$
+R
+  禾 + 14
+U
+  U+7A67
+W
+  ====
+  - [[Page~548 (1)穧]]
+    --
+    [[Idiosyncratic reading from 《分韻撮要》; **see $穧zai6 for the canonical entry**.]]
+    --
+  ====
+S
+  ==
+  - $穧zai6
+  ==
 $$
 
 
@@ -364,6 +385,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $滯6
+- $穧6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -411,4 +433,36 @@ W
         a stoppage of secretions.
     ==
   ====
+$$
+
+###+ 穧6 | _Tsai(6)_ [[zai6]]
+
+$$
+R
+  禾 + 14
+U
+  U+7A67
+V
+  ==
+  - zai1 (uncommon)
+  - zai3 (alternative)
+  ==
+W
+  ====
+  - [[Page~548 (1)穧 _(1)Tsai_ (zai1); here normalised to _Tsai(6)_ (zai6)]]
+    ==
+    - To reap grain;
+    - a handful of rice, as it is cut;
+    - to put it together to bind into sheaves.
+    ==
+  ====
+C
+  ==
+  - The uncommon reading zai1 is that given in 《分韻撮要》.
+  - The alternative reading zai3 is from Middle Chinese 子計切 or 子例切.
+  ==
+S
+  ==
+  - $穧zai1
+  ==
 $$
