@@ -59,6 +59,7 @@ $$
 - $躋1
 - $隮1
 - $齎1
+- $齏1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -278,6 +279,28 @@ W
     - _(2)fung (1)tsai_
         [[fung2 zai1 捧齎]],
         to hand up to.
+    ==
+  ====
+$$
+
+### 齏1 | _(1)Tsai_ [[zai1]]
+
+$$
+R
+  齊 + 9
+U
+  U+9F4F
+W
+  ====
+  - [[Page~548 (1)齏]]
+    ==
+    - A sort of leek;
+    - to prepare and compound, to blend, to mix, as tastes;
+    - to make dishes of vegetables as the poor have compounded, mixed;
+    - to compare, as opinions;
+    - _(4)wo (1)tsai_
+        [[wo4 zai1 和齏]],
+        to blend, as when mixing the tastes of spices.
     ==
   ====
 $$
