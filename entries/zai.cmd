@@ -54,6 +54,8 @@ $$
 - $劑1
 - $擠1
 - $穧1
+- $躋1
+- $隮1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -154,6 +156,45 @@ S
   ==
   - $穧zai6
   ==
+$$
+
+### 躋1 | _(1)Tsai_ [[zai1]]
+
+$$
+R
+  足 + 14
+U
+  U+8E8B
+A
+  ==
+  - $隮1
+  ==
+W
+  ====
+  - [[Page~548 (1)躋(1)隮]]
+    ==
+    - To ascend, to go up, as stairs, to mount a steep hill;
+    - to reach;
+    - to rise, as vapor;
+    - a rainbow.
+    ==
+  ====
+$$
+
+### 隮1 | _(1)Tsai_ [[zai1]]
+
+$$
+R
+  阜 + 14
+U
+  U+96AE
+W
+  ====
+  - [[Page~548 (1)躋(1)隮]]
+    --
+    [[Alternative form of 躋. **See $躋zai1 for the canonical entry.**]]
+    --
+  ====
 $$
 
 
