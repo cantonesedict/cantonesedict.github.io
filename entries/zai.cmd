@@ -263,7 +263,7 @@ W
     ==
   - [[Page~548 (1)齎]]
     --
-    Interchanged with the preceding [[賷]].
+    Interchanged with the preceding [[$賷1]].
     --
     ==
     - To take in both hands, to offer;
@@ -619,7 +619,7 @@ W
     - to cross a stream;
     - to make successful, to further, to bring about, to complete;
     - able, apt, clever;
-    - used for the next [[霽]];
+    - used for the next [[$霽3]];
     - _kau(3) tsai(3)_
         [[gau3 zai3 救濟]]
         to save and relieve;
@@ -710,7 +710,7 @@ W
   ====
   - [[Page~9|n52 製(3)]]
     --
-    Interchanged with the last [[制]].
+    Interchanged with the last [[$制3]].
     --
     ==
     - To invent, to make;

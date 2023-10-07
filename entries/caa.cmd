@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2023-09-19
+* %date-modified --> 2023-10-07
 * %copyright-prior-years -->
 
 %%%
@@ -281,7 +281,7 @@ W
   ====
   - [[Page~9|n52 吒(3)咤(3)]]
     --
-    Used for the last [[詫]]. [[**See $詫caa3 for the canonical entry.**]]
+    Used for the last [[$詫3]]. [[**See $詫caa3 for the canonical entry.**]]
     --
     --
     [[For the other senses,
@@ -307,7 +307,7 @@ W
   ====
   - [[Page~9|n52 吒(3)咤(3)]]
     --
-    Used for the last [[詫]]. [[**See $詫caa3 for the canonical entry.**]]
+    Used for the last [[$詫3]]. [[**See $詫caa3 for the canonical entry.**]]
     --
     --
     [[Otherwise, an alternative form of 吒. **See $吒caa3**.]]

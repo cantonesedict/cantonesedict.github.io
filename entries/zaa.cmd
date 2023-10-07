@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2023-09-19
+* %date-modified --> 2023-10-07
 * %copyright-prior-years -->
 
 %%%
@@ -756,7 +756,7 @@ W
     ==
     - A wine press;
     - to press or separate spirits;
-    - used for the next [[榨]].
+    - used for the next [[$榨3]].
     ==
   ====
 $$

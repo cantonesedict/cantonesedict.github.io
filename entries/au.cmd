@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> au
-* %date-modified --> 2023-08-26
+* %date-modified --> 2023-10-07
 * %copyright-prior-years -->
 
 %%%
@@ -92,10 +92,10 @@ W
   ====
   - [[Page~6 (1)歐]]
     --
-    To sing; to crow merrily; in which it is like the last [[謳]].
+    To sing; to crow merrily; in which it is like the last [[$謳1]].
     --
     --
-    Used for the next [[嘔]], to vomit;
+    Used for the next [[$嘔2]], to vomit;
     --
     --
     [[Otherwise:]]
@@ -234,7 +234,7 @@ W
   ====
   - [[Page~6 (2)嘔]]
     --
-    Interchanged with the last [[歐]].
+    Interchanged with the last [[$歐1]].
     --
     --
     [[Otherwise:]]
