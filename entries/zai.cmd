@@ -431,6 +431,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $制3
+- $懠3
 - $掣3
 - $晢3
 - $晣3
@@ -499,6 +500,22 @@ W
         [[zai3 fok3 制縛]]
         a close surveillance.
     ==
+  ====
+$$
+
+### 懠3 | _Tsai(3)_ [[zai3]]
+
+$$
+R
+  心 + 14
+U
+  U+61E0
+W
+  ====
+  - [[Page~549 懠(3)]]
+    --
+    [[Idiosyncratic reading from 《分韻撮要》; **see $懠cai4 for the canonical entry**. (TODO)]]
+    --
   ====
 $$
 
