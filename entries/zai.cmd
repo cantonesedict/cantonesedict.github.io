@@ -313,6 +313,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $仔2
+- $濟2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -403,6 +404,26 @@ S
   ==
 $$
 
+###+ 濟2 | _(2)Tsai_ [[zai2]]
+
+$$
+R
+  水 + 14
+U
+  U+6FDF
+W
+  ====
+  - [[Page~549 濟(3) _Tsai(3)_ (zai3); here corrected to _(2)Tsai_ (zai2)]]
+    ==
+    - Name of a river;
+    - [[see $濟zai3 for senses read in departing tone]]
+    - _[(2)]tsai [(2)]tsai_
+        [[zai2 zai2 濟濟]]
+        abundant; a concourse.
+    ==
+  ====
+$$
+
 
 ##{#3 .williams} Chai(3) Tsai(3) [[zai3 陰去]]
 
@@ -413,6 +434,7 @@ $$
 - $掣3
 - $晢3
 - $晣3
+- $濟3
 - $穄3
 - $祭3
 - $製3
@@ -576,6 +598,50 @@ W
     --
     [[Alternative form of 晢. **See $晢zai3 for the canonical entry.**]]
     --
+  ====
+$$
+
+### 濟3 | _Tsai(3)_ [[zai3]]
+
+$$
+R
+  水 + 14
+U
+  U+6FDF
+W
+  ====
+  - [[Page~549 濟(3)]]
+    ==
+    - [[See $濟zai2 for senses read in rising tone]]
+    - to assist, to succor, to benefit;
+    - to furnish gratuitous aid;
+    - to relieve;
+    - to cross a stream;
+    - to make successful, to further, to bring about, to complete;
+    - able, apt, clever;
+    - used for the next [[霽]];
+    - _kau(3) tsai(3)_
+        [[gau3 zai3 救濟]]
+        to save and relieve;
+    - _(4)'m tsai(3) sz'(6)_
+        [[m4 zai3 si6 唔濟事]]
+        he will not do, he is inefficient;
+    - _(4)tsai mat(7) sham(6) sz'(6)_
+        [[zai3 mat1 sam6 si6 濟乜甚事]]
+        what is he good for?
+    - _(4)t(')ung (1)chau kung(6) tsai(3)_
+        [[tung4 zau1 gung6 zai3 同舟共濟]]
+        to cross a river in the same boat;
+    - _tsai(3) (1)k(i/)_
+        [[zai3 gei1 濟饑]],
+        to feed the hungry;
+    - _t(o\)(6) tsai(3) (1)t(')(i/)n h(a/)(6)_
+        [[dou6 zai3 tin1 haa6 道濟天下]]
+        to reform the world;
+    - _(1)chau tsai(3)_
+        [[zau1 zai3 周濟]]
+        to supply another's wants;
+    ==
   ====
 $$
 
