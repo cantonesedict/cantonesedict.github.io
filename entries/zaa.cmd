@@ -566,9 +566,11 @@ W
         he even squeezes oil from rice chaff.
     ==
   ====
-S
+C
   ==
-  - $榨zaa3
+  - Williams does not consider 搾 (pressing with the hand)
+    interchangeable with 榨 (pressing with a machine);
+    see $榨zaa3 for the "machine-press" senses.
   ==
 $$
 
@@ -597,9 +599,11 @@ W
         a sugar-press shed.
     ==
   ====
-S
+C
   ==
-  - $搾zaa3
+  - Williams does not consider 搾 (pressing with the hand)
+    interchangeable with 榨 (pressing with a machine);
+    see $搾zaa3 for the "hand-press" senses.
   ==
 $$
 
