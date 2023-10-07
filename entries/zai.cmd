@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2023-10-04
+* %date-modified --> 2023-10-07
 * %copyright-prior-years -->
 
 %%%
@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zai1](#1)
+- [zai2](#2)
 - [zai3](#3)
 - [zai6](#6)
 ==
@@ -303,6 +304,103 @@ W
         to blend, as when mixing the tastes of spices.
     ==
   ====
+$$
+
+
+##{#2 .williams} (2)Tsai [[zai2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $仔2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 仔2 | _(2)Tsai_ [[zai2]]
+
+$$
+R
+  人 + 3
+U
+  U+4ED4
+W
+  ====
+  - [[Page~548 (2)仔]]
+    --
+    A colloquial word.
+    --
+    ==
+    - A child, a son;
+    - a diminutive;
+    - a little thing, the smaller of two;
+    - _(2)tsai (5)n(u")_
+        [[zai2 neoi5-2 仔女]],
+        sons and daughters, children;
+    - _(1)kw(a/)i (2)tsai_
+        [[gwaai1 zai2 乖仔]],
+        a good boy;
+    - _(2)tsai t(a/)i(6) (2)tsai shai(3) k(a/)i(3)_
+        [[zai2 daai6 zai2 sai3 gaai3 仔大仔世界]]
+        when a son is old he must take care of himself;
+    - _sai(3) (1)man (2)tsai_
+        [[sai3 man1 zai2 細蚊仔]],
+        children, lads;
+    - _(1)ch(u") (2)tsai_
+        [[zyu1 zai2 豬仔]],
+        a pig;
+    - _(2)kau (2)tsai_
+        [[gau2 zai2 狗仔]],
+        a puppy;
+    - _(1)kung (2)tsai_
+        [[gung1 zai2 公仔]],
+        images, pictures, playthings;
+    - _sz'(6) (2)tsai_
+        [[si6 zai2 事仔]],
+        a servant boy;
+    - _ts(')au(3) (2)tsai (5)m(a/)_
+        [[cau3 zai2 maa5-2 湊仔媽]],
+        a nurse.
+    ==
+  ====
+C
+  ==
+  - Williams' 豬仔: One sold into slave labour, as in 賣豬仔.
+  ==
+E
+  ====
+  - 【仔】 (zai2):
+     ++
+     1. A kid.
+        ==
+        - 生仔 (saang1 zai2): "Have kids."
+        ==
+     1. A son.
+        ==
+        - 仔女 (zai2 neoi5-2): "Sons [and] daughters."
+        - 兩仔乸 (loeng5 zai2 naa2): "[The] two [of them], son [and] mother."
+        - 兩仔爺 (loeng5 zai2 je4): "[The] two [of them], son [and] father."
+        - 大個仔 (daai6 go3 zai2): "[A] big boy [now]."
+        ==
+     1. A guy, lad, etc.
+        ==
+        - 佢條仔 (keoi5 tiu4 zai2): "Her guy" (meaning boyfriend)
+        - 後生仔 (hau6 saang1 zai2): "Young lad."
+        ==
+     1. A diminutive suffix.
+        ==
+        - 狗仔 (gau2 zai2): "Puppy."
+        - 矮仔 (ai2 zai2): "Shorty."
+        - 耳仔 (ji5 zai2): "Ears."
+        - 華仔 (waa4 zai2): "Wahsy."
+        - 雀仔 (zoek3 zai2): "Birdie."
+        ==
+     ++
+  ====
+S
+  ==
+  - $仔zi2 (TODO)
+  ==
 $$
 
 
