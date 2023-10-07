@@ -413,6 +413,7 @@ $$
 - $掣3
 - $晢3
 - $晣3
+- $穄3
 - $祭3
 - $製3
 ==
@@ -574,6 +575,23 @@ W
     --
     [[Alternative form of 晢. **See $晢zai3 for the canonical entry.**]]
     --
+  ====
+$$
+
+### 穄3 | _Tsai(3)_ [[zai3]]
+
+$$
+R
+  禾 + 11
+U
+  U+7A44
+W
+  ====
+  - [[Page~548 穄(3)]]
+    ==
+    - A sort of panicled millet which is not glutinous, and resembles wheat;
+      it grows in Shens(i/) [[陝西]].
+    ==
   ====
 $$
 
