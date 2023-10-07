@@ -413,6 +413,7 @@ $$
 - $掣3
 - $晢3
 - $晣3
+- $祭3
 - $製3
 ==
 </nav>
@@ -573,6 +574,43 @@ W
     --
     [[Alternative form of 晢. **See $晢zai3 for the canonical entry.**]]
     --
+  ====
+$$
+
+### 祭3 | _Tsai(3)_ [[zai3]]
+
+$$
+R
+  示 + 6
+U
+  U+796D
+W
+  ====
+  - [[Page~548 祭(3)]]
+    ==
+    - To sacrifice, to offer slaughtered victims before the gods or penates,
+      which are also usually cooked;
+    - to bring an oblation, to approach before the gods;
+    - the time of worship;
+    - a sacrifice, an offering;
+    - _tsai(3) shing(3)_
+        [[zai3 sing3 祭聖]]
+        to worship the sages;
+    - _tsai(3) tsz'(6)_
+        [[zai3 zi6 祭祀]]
+        to present sacrifices;
+    - _tsai(3) (4)man_
+        [[zai3 man4 祭文]],
+        a prayer;
+        an elegy hung up during the 49~days of mourning;
+    - _(2)p(a/)i l(o\)(6) tsai(3)_
+        [[baai2 lou6 zai3 擺路祭]]
+        to scatter or lay out offerings aloug the road
+        --- as at the funerals of worthy men;
+    - _tsai(3) (1)yau_
+        [[zai3 jau1 祭幽]],
+        to appease ghosts by oblations.
+    ==
   ====
 $$
 
