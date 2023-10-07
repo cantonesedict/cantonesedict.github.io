@@ -440,6 +440,7 @@ $$
 - $祭3
 - $製3
 - $際3
+- $霽3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -796,6 +797,25 @@ W
         [[fung1 wan4 zai3 wui6 風雲際會]]
         the winds and clouds have met;
         _met._ to receive a favor.
+    ==
+  ====
+$$
+
+### 霽3 | _Tsai(3)_ [[zai3]]
+
+$$
+R
+  雨 + 14
+U
+  U+973D
+W
+  ====
+  - [[Page~549 霽(3)]]
+    ==
+    - The rain stopping, the clouds clearing away and the blue sky appearing;
+    - _(4)ts(')ing tsai(3)_
+        [[cing4 zai3 晴霽]]
+        a fair sky.
     ==
   ====
 $$
