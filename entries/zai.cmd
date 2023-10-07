@@ -826,11 +826,79 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $嚌6
 - $滯6
 - $穧6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 嚌6 | _Tsai(6)_ [[zai6]]
+
+$$
+R
+  口 + 14
+U
+  U+568C
+W
+  ====
+  - [[Page~549 嚌(6)]]
+    --
+    Read _(1)tsai_ [[zai1]].
+    --
+    ==
+    - To taste, to sip, to wet the lips;
+    - a plaintive sound.
+    ==
+    --
+    A colloquial word.
+    --
+    ==
+    - A superlative, denoting that the extreme has been reached;
+    - _[(5)]t(')(a/)m tak(7) tsai(6)_
+        [[taam5 dak1 zai6 淡得嚌]]
+        excessively weak, as tea;
+    - _(5)m(o\) mat(1) tsai(6)_
+        [[mou5 mat1 zai6 冇乜嚌]]
+        not much there, nothing to speak of;
+    - _t(a/)i(6) tak(7) tsai(6)_
+        [[daai6 dak1 zai6 大得嚌]]
+        far too large;
+    - _hai(6) tak(7) tsai(6)_
+        [[hai6 dak1 zai6 係得嚌]]
+        certainly.
+    ==
+  ====
+C
+  ==
+  - Williams' reading _(1)tsai_ [[zai1]] for the "taste" sense is incorrect,
+    possibly based on the gloss 音劑
+    (which is intended in the departing tone, not the level tone).
+    The expected reflex is zai6 from Middle Chinese 在詣切.
+    Moreover, for the "plaintive sound" sense, Kangxi quotes 《集韻》前西切.
+  - Williams' 淡得嚌: Corrected _t(a/)m(6)_ [[daam6]] to _(5)t(')(a/)m_ [[taam5]].
+  - Williams' 係得嚌: Dated.
+  ==
+E
+  ====
+  - 【嚌】 (zai6):
+    ++
+    1. A final particle of excessive degree.
+      ==
+      - 多得嚌 (do1 dak1 zai6): "Too much."
+      - 熱得嚌 (jit6 dak1 zai6): "[It's] too hot."
+      ==
+    ++
+  - 【咁嚌】 (gam3 zai6):
+    ++
+    1. A final particle of almostness.
+      ==
+      - 熱到死咁嚌 (jit6 dou3 sei2 gam3 zai6): "[It's] so hot [we've] died, almost."
+      - 食完咁嚌 (sik6 jyun4 gam3 zai6): "[We've] finished eating, almost."
+      ==
+    ++
+  ====
+$$
 
 ### 滯6 | _Chai(6)_ [[zai6]]
 
