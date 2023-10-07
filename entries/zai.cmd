@@ -385,7 +385,7 @@ E
         ==
      1. A guy, lad, etc.
         ==
-        - 佢條仔 (keoi5 tiu4 zai2): "Her guy" (meaning boyfriend)
+        - 佢條仔 (keoi5 tiu4 zai2): "Her guy" (meaning boyfriend).
         - 後生仔 (hau6 saang1 zai2): "Young lad."
         ==
      1. A diminutive suffix.
@@ -567,14 +567,14 @@ E
     ++
     1. A push-button, switch, pedal, etc.
       ==
-      - 手掣 (sau2 zai3): "Handbrake"
-      - 撳掣 (gam6 zai3): "Press [the] button"
-      - 煞掣 (saat3 zai3): "Slam [the] brakes"
-      - 總掣 (zung2 zai3): "[The] main switch"
-      - 跳掣 (tiu3 zai3): "Trip [the] breaker"
-      - 閂掣 (saan1 zai3): "Turn off [the] switch"
-      - 開掣 (hoi1 zai3): "Turn on [the] switch"
-      - 電掣 (din6 zai3): "[An] electrical switch"
+      - 手掣 (sau2 zai3): "Handbrake."
+      - 撳掣 (gam6 zai3): "Press [the] button."
+      - 煞掣 (saat3 zai3): "Slam [the] brakes."
+      - 總掣 (zung2 zai3): "[The] main switch."
+      - 跳掣 (tiu3 zai3): "Trip [the] breaker."
+      - 閂掣 (saan1 zai3): "Turn off [the] switch."
+      - 開掣 (hoi1 zai3): "Turn on [the] switch."
+      - 電掣 (din6 zai3): "[An] electrical switch."
       ==
     ++
   ====

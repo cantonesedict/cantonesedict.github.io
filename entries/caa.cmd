@@ -90,19 +90,19 @@ E
     ++
     1. Short for 叉燒 (char shiu).
       ==
-      - 叉鴨米 (caa1 aap3 mai5): "char [shiu], [roast] duck vermicelli"
+      - 叉鴨米 (caa1 aap3 mai5): "Char [shiu], [roast] duck vermicelli."
       ==
     2. Euphemistic substitute for any profane intensifier.
       ==
-      - 冇叉用 (mou5 caa1 jung6): "bleeping useless"
+      - 冇叉用 (mou5 caa1 jung6): "Bleeping useless."
       ==
     ++
   - 【叉燒】 (caa1 siu1):
     ++
     1. Char shiu, a type of barbecued pork.
       ==
-      - 叉燒包 (caa1 siu1 baau1): "barbecued-pork bun"
-      - 叉燒腸 (caa1 siu1 coeng4-2): "barbecued-pork [rice-noodle] roll"
+      - 叉燒包 (caa1 siu1 baau1): "Barbecued-pork bun."
+      - 叉燒腸 (caa1 siu1 coeng4-2): "Barbecued-pork [rice-noodle] roll."
       ==
     ++
   ====
@@ -465,8 +465,8 @@ E
     ++
     1. To apply, rub, or spread an ointment, cream, etc.
        ==
-       - 搽牛油 (caa4 ngau4 jau4): "Spread butter"
-       - 搽藥膏 (caa4 joek6 gou1): "Apply ointment"
+       - 搽牛油 (caa4 ngau4 jau4): "Spread butter."
+       - 搽藥膏 (caa4 joek6 gou1): "Apply ointment."
        ==
     ++
   ====
@@ -687,14 +687,14 @@ E
     ++
     1. To smudge or scribble out.
        ==
-       - 搽咗佢 (caa5 zo2 keoi5): "Scribble it out"
+       - 搽咗佢 (caa5 zo2 keoi5): "Scribble it out."
        ==
     ++
   - 【搽𢰸】 (caa5 wo5):
     ++
     1. To ruin or spoil.
        ==
-       - 搽𢰸咗個計畫 (caa5 wo5 zo2 go3 gai3 waak6): "[It's] spoilt the plan"
+       - 搽𢰸咗個計畫 (caa5 wo5 zo2 go3 gai3 waak6): "[It's] spoilt the plan."
        ==
     ++
   ====

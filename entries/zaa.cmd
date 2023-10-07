@@ -76,7 +76,7 @@ C
     ++
     1. Used in mythological names.
        ==
-       - 哪吒 (naa4 zaa1): "Nezha"
+       - 哪吒 (naa4 zaa1): "Nezha."
        ==
     1. Reading variation of _ch(a/)(3)_ [[zaa3]];
        **see $吒zaa3 for the canonical entry**.
@@ -536,7 +536,7 @@ E
     ++
     1. A final particle of limitation.
       ==
-      - 三個人咋 (saam1 go3 jan4 zaa3): "[Only] three people"
+      - 三個人咋 (saam1 go3 jan4 zaa3): "[Only] three people."
       ==
     ++
   ====
