@@ -319,6 +319,10 @@ R
   人 + 3
 U
   U+4ED4
+V
+  ==
+  - zai2-4 (low first in reduplication 仔仔 zai2-4 zai2)
+  ==
 W
   ====
   - [[Page~548 (2)仔]]
