@@ -416,6 +416,7 @@ $$
 - $穄3
 - $祭3
 - $製3
+- $際3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -679,6 +680,41 @@ C
   ==
   - Williams' 製造: Now more "create" than "invent".
   ==
+$$
+
+### 際3 | _Tsai(3)_ [[zai3]]
+
+$$
+R
+  阜 + 11
+U
+  U+969B
+W
+  ====
+  - [[Page~548 際(3)]]
+    ==
+    - A limit, a border, a region, the line of junction of two things;
+    - the time or place where another begins;
+    - to join, to begin;
+    - the time of occurring, now, since;
+    - _(2)sz' (1)shang (1)ch(i/) tsai(3)_
+        [[si2 sang1 zi1 zai3 / sei2 sang1 zi1 zai3 死生之際]]
+        between life aud death;
+    - _tsai(3) ts(i/)p(8)_
+        [[zai3 zip3 際接]]
+        to receive, to blend, to meet;
+    - _(2)h(o\) tsai(3) (u")(6)_
+        [[hou2 zai3 jyu6 好際遇]]
+        a good opportunity, a favorable juncture;
+    - _(2)ts(')z' tsai(3)_
+        [[ci2 zai3 此際]]
+        this time;
+    - _(1)fung (4)wan tsai(3) (u/)i(6)_
+        [[fung1 wan4 zai3 wui6 風雲際會]]
+        the winds and clouds have met;
+        _met._ to receive a favor.
+    ==
+  ====
 $$
 
 
