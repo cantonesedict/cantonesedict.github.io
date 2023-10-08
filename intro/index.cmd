@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Introduction.
-* %date-modified --> 2023-09-29
+* %date-modified --> 2023-10-07
 * %copyright-prior-years -->
 
 %%%
@@ -256,7 +256,7 @@ well known character of the same sound, but not always of the same
 tone. The words _tsoi(6)_ [[zoi6]] a cargo; _(1)k(a/) (2)fo_ [[gaa1 fo2]] 傢伙, furniture;
 _(5)mai_ [[mai5]] 咪 do not; _(1)ts(')oi_ [[coi1]] 啋 pshaw! and _(2)t(e/)_ [[de2]] 嗲 remiss, &c., are examples
 [[[Page~xiii of the original]{#page-xiii}<n20> here]]
-of this sort, Sometimes, again, a character which comes nearest in
+of this sort. Sometimes, again, a character which comes nearest in
 tone is taken to represent the needed sound, and the knowledge of
 the reader is expected to inform him that it is employed in a vulgar
 sense. The words _(1)n(i/)n_ [[nin1]] 年 milk; _(1)l(a/)n_ [[laan1]] 欄 a bazaar; and _(1)n(a/)i_ [[naai1]] 奶 a lady,
