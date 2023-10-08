@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2023-08-02
+* %date-modified --> 2023-10-08
 * %copyright-prior-years -->
 
 %%%
-
---{.modern}
-[[From Page~549 of the original onwards.]]
---
 
 #{.williams} Ts(')ai. [[cai]]
 
@@ -21,3 +17,25 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [[Work in progress]]
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Ts(')ai. [[Page~549]]
+  ==
+WP
+  ==
+  - Ts(')ai <span class="modern">= [tsʰɐi]</span>
+  ==
+MP
+  ==
+  - cai = [tsʰɐi], [tɕʰɐi]
+  ==
+$$
