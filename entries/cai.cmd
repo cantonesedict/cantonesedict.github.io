@@ -50,6 +50,7 @@ $$
 =={.modern}
 - $凄1
 - $妻1
+- $悽1
 - $淒1
 ==
 </nav>
@@ -118,6 +119,32 @@ C
     Changed Middle Chinese _ts(')(u")(3)_ [[ceoi3]]
     to common reading _(2)ts(')(u")_ [[ceoi2]].
   ==
+$$
+
+### 悽1 | _(1)Ts(')ai_ [[cai1]]
+
+$$
+R
+  心 + 8
+U
+  U+60BD
+W
+  ====
+  - [[Page~549 (1)悽]]
+    --
+    Similar to the last [[淒]];
+    --
+    ==
+    - grieved, afflicted, sorrowing;
+    - suffering from hunger;
+    - _(1)p(i/) (1)ts(')ai_
+        [[bei1 cai1 悲悽]],
+        pitiable, suffering;
+    - _(1)ts(')ai (1)ts(')ai_
+        [[cai1 cai1 悽悽]],
+        gaunt, famishing.
+    ==
+  ====
 $$
 
 ### 淒1 | _(1)Ts(')ai_ [[cai1]]
