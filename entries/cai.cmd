@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [cai1](#1)
 - [cai3](#3)
+- [cai4](#4)
 ==
 </nav>
 <## /tones ##>
@@ -339,6 +340,78 @@ W
     --
     ==
     - to give a daughter as wife to one.
+    ==
+  ====
+$$
+
+
+##{#4 .williams} (4)Ts(')ai [[cai4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways">
+=={.modern}
+- $齊4
+==
+</nav>
+<## /tone-4-characters ##>
+
+### 齊4 | _(4)Ts(')ai_ [[cai4]]
+
+$$
+R
+  齊 + 0
+U
+  U+9F4A
+W
+  ====
+  - [[Page~550 (4)齊]]
+    ==
+    - Even, equal, uniform;
+    - to equalize, to tranquillize;
+    - to adjust, to classify, to arrange methodically or according to rank;
+    - at once, all, together, alike;
+    - quick, smart;
+    - good;
+    - to discriminate;
+    - an ancient feudal state comprising the part of Sh(a/)ntung [[山東]]
+      east of T(')(a/)i sh(a/)n [[泰山]];
+    - the 210th radical;
+    - _(2)ching (4)ts(')ai_
+        [[zing2 cai4 整齊]]
+        well arranged, properly placed;
+    - _(4)ts(')ai (1)chau_
+        [[cai4 zau1 齊州]],
+        an old name for China;
+    - _yat(7) (4)ts(')ai h(u")(3)_
+        [[jat1 cai4 heoi3 一齊去]]
+        all go at once;
+    - _(1)shau (4)ts(')ai ch(e/)ung(3) muk(9)_
+        [[sau1 cai4 zoeng3 muk6 收齊賬目]],
+        to collect all the accounts;
+    - _(4)ts(')ai (4)m(i/)_
+        [[cai4 mei4 齊眉]],
+        an old couple;
+    - _(4)'m p(i/)n(3) tak(7) (4)yan (4)ts(')ai_
+        [[m4 bin3 dak1 jan4 cai4 唔變得人齊]],
+        he was not turned out a full man --- said of a young scapegrace;
+    - _(1)t(o\) ts(')(i/)t(8) k(o\)m(3) (4)ts(')ai_
+        [[dou1 cit3 gam3 cai4 刀切咁齊]],
+        trimmed even, all of a size;
+    - _(4)ts(')ai (1)sam_
+        [[cai4 sam1 齊心]],
+        of one mind;
+    - _(2)tang (4)ts(')ai_
+        [[dang2 cai4 等齊]],
+        wait till all come;
+    - _(4)ts(')ai p(i/)(6)_
+        [[cai4 bei6 齊備]]
+        all are ready, fully prepared;
+    - _pat(7) (4)ts(')ai_
+        [[bat1 cai4 不齊]],
+        incomplete, unequal;
+    - _(4)ts(')ai (1)k(a/)_
+        [[cai4 gaa1 齊家]],
+        to govern a family.
     ==
   ====
 $$
