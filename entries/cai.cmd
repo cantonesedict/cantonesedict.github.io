@@ -52,6 +52,7 @@ $$
 - $妻1
 - $恓1
 - $悽1
+- $栖1
 - $棲1
 - $淒1
 - $緀1
@@ -167,6 +168,26 @@ W
   ====
 $$
 
+### 栖1 | _(1)Ts(')ai_ [[cai1]]
+
+$$
+R
+  木 + 8
+U
+  U+6816
+W
+  ====
+  - [[Page~550 (1)棲(1)[栖]<` `>]]
+    --
+    [[Alternative form of 棲. **See $棲cai1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Williams misprints 栖 as 梄.
+  ==
+$$
+
 ### 棲1 | _(1)Ts(')ai_ [[cai1]]
 
 $$
@@ -174,9 +195,13 @@ R
   木 + 8
 U
   U+68F2
+A
+  ==
+  - $栖1
+  ==
 W
   ====
-  - [[Page~550 (1)棲]]
+  - [[Page~550 (1)棲(1)[栖]<` `>]]
     ==
     - To roost, to perch, to nestle;
     - to sojourn, to stay at, to reside;
