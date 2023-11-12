@@ -53,6 +53,7 @@ $$
 - $悽1
 - $淒1
 - $緀1
+- $萋1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -211,6 +212,26 @@ W
     ==
     - The stripes, colored or plain, in silken fabrics;
     - ornamented, blended colors and stripes.
+    ==
+  ====
+$$
+
+### 萋1 | _(1)Ts(')ai_ [[cai1]]
+
+$$
+R
+  艸 + 8
+U
+  U+840B
+W
+  ====
+  - [[Page~549 (1)萋]]
+    ==
+    - Luxuriaut foliage;
+    - _(1)ts(')ai (1)ts(')ai_
+        [[cai1 cai1 萋萋]],
+        moving clouds;
+        a man exerting himself.
     ==
   ====
 $$
