@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2023-10-08
+* %date-modified --> 2023-11-12
 * %copyright-prior-years -->
 
 %%%
@@ -48,10 +48,28 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $凄1
 - $妻1
+- $淒1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 凄1 | _(1)Ts(')ai_ [[cai1]]
+
+$$
+R
+  冫 + 8
+U
+  U+51C4
+W
+  ====
+  - [[Page~549 (1)凄(1)淒]]
+    --
+    [[Alternative form of 淒. **See $淒cai1 for the canonical entry.**]]
+    --
+  ====
+$$
 
 ### 妻1 | _(1)Ts(')ai_ [[cai1]]
 
@@ -100,6 +118,52 @@ C
     Changed Middle Chinese _ts(')(u")(3)_ [[ceoi3]]
     to common reading _(2)ts(')(u")_ [[ceoi2]].
   ==
+$$
+
+### 淒1 | _(1)Ts(')ai_ [[cai1]]
+
+$$
+R
+  水 + 8
+U
+  U+6DD2
+A
+  ==
+  - $凄1
+  ==
+W
+  ====
+  - [[Page~549 (1)凄(1)淒]]
+    ==
+    - Intense cold;
+    - bleak, cloudy, wintry;
+    - a cold wind;
+    - shivering, freezing;
+    - calamitous, afflicted, grievous;
+    - _(1)fung (5)(u") (1)ts(')ai (1)ts(')ai_
+        [[fung1 jyu5 cai1 cai1 風雨淒淒]],
+        sleety rain and wind;
+    - _(1)ts(')ai ts(')(i/)t(8)_
+        [[cai1 cit3 淒切]]
+        bitter suffering;
+    - _(1)ts(')ai (4)l(e/)ung_
+        [[cai1 loeng4 淒涼]],
+        grievous;
+    - _k(o\)m(3) (1)ts(')ai (4)l(e/)ung_
+        [[gam3 cai1 loeng4 咁淒涼]],
+        so sad;
+        so serious, as consequences;
+    - _(1)ts(')ai (2)ts(')(a/)m_
+        [[cai1 caam2 淒慘]],
+        oppressed, borne down;
+    - _(1)ts(')ai (2)ch(')o sham(6)_
+        [[cai1 co2 sam6 淒楚甚]]
+        in urgent case, needy.
+    ==
+    --
+    The second [[淒]] also means gathering clouds.
+    --
+  ====
 $$
 
 
