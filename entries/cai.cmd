@@ -52,6 +52,7 @@ $$
 - $妻1
 - $恓1
 - $悽1
+- $棲1
 - $淒1
 - $緀1
 - $萋1
@@ -162,6 +163,40 @@ W
     - _(1)ts(')ai (1)ts(')ai_
         [[cai1 cai1 悽悽]],
         gaunt, famishing.
+    ==
+  ====
+$$
+
+### 棲1 | _(1)Ts(')ai_ [[cai1]]
+
+$$
+R
+  木 + 8
+U
+  U+68F2
+W
+  ====
+  - [[Page~550 (1)棲]]
+    ==
+    - To roost, to perch, to nestle;
+    - to sojourn, to stay at, to reside;
+    - to settle down, to rest, to repose;
+    - at peace;
+    - a perch, a roost;
+    - a sleeping-place;
+    - a lodging-place;
+    - _(1)kai (1)ts(')ai_
+        [[gai1 cai1 雞棲]],
+        a hen-roost;
+    - _ts(a/)m(6) (4)sh(i/) (1)ts(')ai ch(u")(6)_
+        [[zaam6 si4 cai1 zyu6 暫時棲住]]
+        to live here for a while;
+    - _(4)m(o\) teng(6) (1)ts(')ai (1)shan_
+        [[mou4 deng6 cai1 san1 無埞棲身]],
+        no place to stay at;
+    - _(1)ts(')ai s(i/)t(8)_
+        [[cai1 sit3 棲屑]],
+        to and fro, like a stranger.
     ==
   ====
 $$
