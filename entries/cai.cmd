@@ -50,6 +50,7 @@ $$
 =={.modern}
 - $凄1
 - $妻1
+- $恓1
 - $悽1
 - $淒1
 - $緀1
@@ -121,6 +122,22 @@ C
     Changed Middle Chinese _ts(')(u")(3)_ [[ceoi3]]
     to common reading _(2)ts(')(u")_ [[ceoi2]].
   ==
+$$
+
+### 恓1 | _(1)Ts(')ai_ [[cai1]]
+
+$$
+R
+  心 + 6
+U
+  U+6053
+W
+  ====
+  - [[Page~550 (1)恓]]
+    --
+    [[Idiosyncratic reading from 《分韻撮要》; **see $恓sai1 for the canonical entry**. (TODO)]]
+    --
+  ====
 $$
 
 ### 悽1 | _(1)Ts(')ai_ [[cai1]]
