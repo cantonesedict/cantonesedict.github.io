@@ -52,6 +52,7 @@ $$
 - $妻1
 - $悽1
 - $淒1
+- $緀1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -190,6 +191,27 @@ W
     --
     The second [[淒]] also means gathering clouds.
     --
+  ====
+$$
+
+### 緀1 | _(1)Ts(')ai_ [[cai1]]
+
+$$
+R
+  糸 + 8
+U
+  U+7DC0
+V
+  ==
+  - cai2 (alternative)
+  ==
+W
+  ====
+  - [[Page~549 (1)緀]]
+    ==
+    - The stripes, colored or plain, in silken fabrics;
+    - ornamented, blended colors and stripes.
+    ==
   ====
 $$
 
