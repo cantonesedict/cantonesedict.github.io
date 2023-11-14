@@ -444,6 +444,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $薺5
+- $鱭5
 ==
 </nav>
 <## /tone-5-characters ##>
@@ -461,6 +462,32 @@ W
     ==
     - Cress, shepherd's purse;
     - a term for small esculent plants like pepper-grass, cress, mint.
+    ==
+  ====
+$$
+
+### 鱭5 | _(5)Ts(')ai_ [[cai5]]
+
+$$
+R
+  魚 + 14
+U
+  U+9C6D
+W
+  ====
+  - [[Page~550 (5)鱭(5)鮆]]
+    ==
+    - A thin fish, with a silvery belly;
+    - a mullet;
+    - _(5)m(a/) (5)ts(')ai_
+        [[maa5 cai5 馬鱭]],
+        a kind of anchovy _(Coilia playfairii)_;
+    - _(4)wong (5)m(i/) (5)ts(')ai_
+        [[wong4 mei5 cai5 黃尾鱭]],
+        yellow tail mullet _(Mullus xanthurus)_;
+    - _p(a/)k(9) (5)ts(')ai_
+        [[baak6 cai5 白鱭]],
+        green ish mullet _Mugil ventricosus_.
     ==
   ====
 $$
