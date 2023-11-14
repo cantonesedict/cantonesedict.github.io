@@ -45,7 +45,7 @@ by [Samuel Wells Williams].
 
 - Main matter
   ==
-  - [Index of entries by Jyutping](/entries/)
+  - [__Index of entries by Jyutping__](/entries/)
   ==
 ====
 </nav>
