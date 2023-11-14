@@ -139,9 +139,13 @@ W
   ====
   - [[Page~550 (1)恓]]
     --
-    [[Idiosyncratic reading from 《分韻撮要》; **see $恓sai1 for the canonical entry**. (TODO)]]
+    [[Idiosyncratic reading from 《分韻撮要》; **see $恓sai1 for the canonical entry**.]]
     --
   ====
+S
+  ==
+  - $恓sai1 (TODO)
+  ==
 $$
 
 ### 悽1 | _(1)Ts(')ai_ [[cai1]]
