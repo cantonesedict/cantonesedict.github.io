@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2023-11-12
+* %date-modified --> 2023-11-14
 * %copyright-prior-years -->
 
 %%%
@@ -350,10 +350,30 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $蠐4
 - $齊4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 蠐4 | _(4)Ts(')ai_ [[cai4]]
+
+$$
+R
+  虫 + 14
+U
+  U+8810
+W
+  ====
+  - [[Page~550 (4)蠐]]
+    ==
+    - A maggot;
+    - _(4)ts(')ai (4)ts(')(o\)_
+        [[cai4 cou4 蠐螬]],
+        a grub, larvæ in mulberry and other trees.
+    ==
+  ====
+$$
 
 ### 齊4 | _(4)Ts(')ai_ [[cai4]]
 
