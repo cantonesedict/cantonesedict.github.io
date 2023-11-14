@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Home
-* %date-modified --> 2023-08-13
+* %date-modified --> 2023-11-14
 * %copyright-prior-years -->
 * %modern-colour --> crimson
 
@@ -25,12 +25,29 @@ by [Samuel Wells Williams].
 
 [Samuel Wells Williams]: https://en.wikipedia.org/wiki/Samuel_Wells_Williams
 
-<nav class="sideways">
-=={.modern}
-- [Source](#source)
-- [Modernisation](#modernisation)
-- [Contents](#contents)
-==
+
+##{#contents .modern} Contents
+
+<nav>
+===={.modern}
+- Front matter (1856)
+  ==
+  -{.williams} [\[Chinese Title Page\]](/title/chinese)
+  -{.williams} [\[English Title Page\]](/title/english)
+  -{.williams} [Preface.](/preface/)
+  -{.williams} [Introduction.](/intro/)
+  ==
+
+- Front matter (modern)
+  ==
+  - [Font test page](/font-test/)
+  ==
+
+- Main matter
+  ==
+  - [Index of entries by Jyutping](/entries/)
+  ==
+====
 </nav>
 
 
@@ -172,28 +189,3 @@ consisting of:
 **No effort has been made to alter or censor the 1856 Williams text
 for the sensitivities of 21st-century readers.**
 --
-
-
-##{#contents .modern} Contents
-
-<nav>
-===={.modern}
-- Front matter (1856)
-  ==
-  -{.williams} [\[Chinese Title Page\]](/title/chinese)
-  -{.williams} [\[English Title Page\]](/title/english)
-  -{.williams} [Preface.](/preface/)
-  -{.williams} [Introduction.](/intro/)
-  ==
-
-- Front matter (modern)
-  ==
-  - [Font test page](/font-test/)
-  ==
-
-- Main matter
-  ==
-  - [Index of entries by Jyutping](/entries/)
-  ==
-====
-</nav>
