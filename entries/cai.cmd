@@ -463,9 +463,4 @@ W
     - a term for small esculent plants like pepper-grass, cress, mint.
     ==
   ====
-S
-  ==
-  - $薺cai4 (TODO)
-  - $薺ci4 (TODO)
-  ==
 $$
