@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2023-10-07
+* %date-modified --> 2023-11-14
 * %copyright-prior-years -->
 
 %%%
@@ -513,9 +513,13 @@ W
   ====
   - [[Page~549 懠(3)]]
     --
-    [[Idiosyncratic reading from 《分韻撮要》; **see $懠cai4 for the canonical entry**. (TODO)]]
+    [[Idiosyncratic reading from 《分韻撮要》; **see $懠cai4 for the canonical entry**.]]
     --
   ====
+S
+  ==
+  - $懠cai4
+  ==
 $$
 
 ### 掣3 | _Chai(3)_ [[zai3]]

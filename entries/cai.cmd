@@ -355,11 +355,47 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $懠4
 - $蠐4
 - $齊4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+###+ 懠4 | _(4)Ts(')ai_ [[cai4]]
+
+$$
+R
+  心 + 14
+U
+  U+61E0
+V
+  ==
+  - zai3 (uncommon)
+  - zai6 (alternative)
+  ==
+W
+  ====
+  - [[Page~549 懠(3) _Tsai(3)_ (zai3); here normalised to _(4)Ts(')ai_ (cai4)]]
+    ==
+    - Angry, enraged;
+    - suspicious, envious of;
+    - to doubt;
+    - _(1)t(i/)n (1)ch(i/) (1)fong [(4)ts(')ai]_
+        [[tin1 zi1 fong1 cai4 天之方懠]]
+        when heaven is angry.
+    ==
+  ====
+C
+  ==
+  - The uncommon reading zai3 is that given in 《分韻撮要》.
+  - The alternative reading zai6 is from Middle Chinese 在詣切.
+  ==
+S
+  ==
+  - $懠zai3
+  ==
+$$
 
 ### 蠐4 | _(4)Ts(')ai_ [[cai4]]
 
