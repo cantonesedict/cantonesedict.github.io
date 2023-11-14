@@ -444,6 +444,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $薺5
+- $鮆5
 - $鱭5
 ==
 </nav>
@@ -466,6 +467,22 @@ W
   ====
 $$
 
+### 鮆5 | _(5)Ts(')ai_ [[cai5]]
+
+$$
+R
+  魚 + 5
+U
+  U+9B86
+W
+  ====
+  - [[Page~550 (5)鱭(5)鮆]]
+    --
+    [[Alternative form of 鱭. **See $鱭cai5 for the canonical entry.**]]
+    --
+  ====
+$$
+
 ### 鱭5 | _(5)Ts(')ai_ [[cai5]]
 
 $$
@@ -473,6 +490,10 @@ R
   魚 + 14
 U
   U+9C6D
+A
+  ==
+  - $鮆5
+  ==
 W
   ====
   - [[Page~550 (5)鱭(5)鮆]]
