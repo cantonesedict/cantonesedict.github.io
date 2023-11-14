@@ -443,12 +443,33 @@ $$
 <## tone-5-characters ##>
 <nav class="sideways">
 =={.modern}
+- $泚5
 - $薺5
 - $鮆5
 - $鱭5
 ==
 </nav>
 <## /tone-5-characters ##>
+
+### 泚5 | _(5)Ts(')ai_ [[cai5]]
+
+$$
+R
+  水 + 6
+U
+  U+6CDA
+W
+  ====
+  - [[Page~550 (5)泚]]
+    --
+    [[Idiosyncratic reading from 《分韻撮要》; **see $泚ci2 for the canonical entry**.]]
+    --
+  ====
+S
+  ==
+  - $泚ci2 (TODO)
+  ==
+$$
 
 ### 薺5 | _(5)Ts(')ai_ [[cai5]]
 
