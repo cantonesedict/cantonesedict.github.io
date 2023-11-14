@@ -24,6 +24,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [cai1](#1)
 - [cai3](#3)
 - [cai4](#4)
+- [cai5](#5)
 ==
 </nav>
 <## /tones ##>
@@ -434,4 +435,37 @@ W
         to govern a family.
     ==
   ====
+$$
+
+
+##{#5 .williams} (5)Ts(')ai [[cai5 陽上]]
+
+<## tone-5-characters ##>
+<nav class="sideways">
+=={.modern}
+- $薺5
+==
+</nav>
+<## /tone-5-characters ##>
+
+### 薺5 | _(5)Ts(')ai_ [[cai5]]
+
+$$
+R
+  艸 + 14
+U
+  U+85BA
+W
+  ====
+  - [[Page~550 (5)薺]]
+    ==
+    - Cress, shepherd's purse;
+    - a term for small esculent plants like pepper-grass, cress, mint.
+    ==
+  ====
+S
+  ==
+  - $薺cai4 (TODO)
+  - $薺ci4 (TODO)
+  ==
 $$
