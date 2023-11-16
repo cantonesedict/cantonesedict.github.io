@@ -327,6 +327,7 @@ $$
 =={.modern}
 - $切3
 - $妻3
+- $砌3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -373,6 +374,40 @@ W
     --
     ==
     - to give a daughter as wife to one.
+    ==
+  ====
+$$
+
+### 砌3 | _Ts(')ai(3)_ [[cai3]]
+
+$$
+R
+  石 + 4
+U
+  U+780C
+W
+  ====
+  - [[Page~550 砌(3)]]
+    ==
+    - A stone step;
+    - ornamented tiles laid for steps;
+    - to lay, as tiles;
+    - to place regularly, to fit in;
+    - _ts(')ai(3) (2)h(o\)_
+        [[cai3 hou2 砌好]],
+        lay them even, as bricks;
+    - _ts(')ai(3) (4)m(a/)i_
+        [[cai3 maai4 砌埋]],
+        place them straight;
+    - _ts(')ai(3) shek(9) l(o\)(6)_
+        [[cai3 sek6 lou6 砌石路]]
+        to pave with stones;
+    - _ts(')ai(3) (4)ts(')(e/)ung_
+        [[cai3 coeng4 砌牆]],
+        to lay a wall;
+    - _ts(')ai(3) (5)ng(a/)_
+        [[cai3 ngaa5 砌瓦]],
+        to tile roofs.
     ==
   ====
 $$
