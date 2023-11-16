@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2023-11-14
+* %date-modified --> 2023-11-16
 * %copyright-prior-years -->
 
 %%%
@@ -325,10 +325,38 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $切3
 - $妻3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+
+### 切3 | _Ts(')ai(3)_ [[cai3]]
+
+$$
+R
+  刀 + 2
+U
+  U+5207
+W
+  ====
+  - [[Page~550 切(3)]]
+    ==
+    - All, every, the whole;
+    - _yat(7) ts(')ai(3)_
+        [[jat1 cai3 一切]]
+        the entire lot;
+    - _chi(u/)(3) k(u/)(3) yat(7) ts(')ai(3)_
+        [[ziu3 gu3 jat1 cai3 照顧一切]]
+        I thank you for all your kindness.
+    ==
+  ====
+S
+  ==
+  - $切cit3 (TODO)
+  ==
+$$
 
 ### 妻3 | _Ts(')ai(3)_ [[cai3]]
 
