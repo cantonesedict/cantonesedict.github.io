@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2023-11-16
+* %date-modified --> 2023-11-17
 * %copyright-prior-years -->
 
 %%%
@@ -119,6 +119,10 @@ C
   - Williams' 娶妻:
     Changed Middle Chinese _ts(')(u")(3)_ [[ceoi3]]
     to common reading _(2)ts(')(u")_ [[ceoi2]].
+  ==
+S
+  ==
+  - $妻cai3
   ==
 $$
 
@@ -370,6 +374,10 @@ W
     - to give a daughter as wife to one.
     ==
   ====
+S
+  ==
+  - $妻cai1
+  ==
 $$
 
 ### 砌3 | _Ts(')ai(3)_ [[cai3]]
