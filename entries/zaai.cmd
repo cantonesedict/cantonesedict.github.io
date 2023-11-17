@@ -47,10 +47,31 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $斋1
 - $齋1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 斋1 | _(1)Ch(a/)i_ [[zaai1]]
+
+$$
+R
+  文 + 6
+U
+  U+658B
+W
+  ====
+  - [[Page~10|n53 (1)齋(1)斋]]
+    --
+    [[Alternative form of 齋. **See $齋zaai1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Williams prints this as ⿱攵而 rather than ⿱文而.
+  ==
+$$
 
 ### 齋1 | _(1)Ch(a/)i_ [[zaai1]]
 
@@ -61,11 +82,11 @@ U
   U+9F4B
 A
   ==
-  - $斋1 [[TODO]]
+  - $斋1
   ==
 W
   ====
-  - [[Page~10|n53 (1)齋]]
+  - [[Page~10|n53 (1)齋(1)斋]]
     ==
     - To respect, to reverence;
     - to abstain from;
