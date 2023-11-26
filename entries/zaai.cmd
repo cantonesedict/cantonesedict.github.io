@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [zaai1](#1)
 - [zaai3](#3)
+- [zaai6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -260,4 +261,70 @@ C
   ==
   - Williams' 切耳變債躉: Corrected _ts(i/)t(8)_ [[zit3]] to _ts(')(i/)t(8)_ [[cit3]].
   ==
+$$
+
+
+##{#6 .williams} Ch(a/)i(6) [[zaai6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $寨6
+- $砦6
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 寨6 | _Ch(a/)i(6)_ [[zaai6]]
+
+$$
+R
+  宀 + 11
+U
+  U+5BE8
+A
+  ==
+  - $砦6
+  ==
+W
+  ====
+  - [[Page~10|n53 寨(6)砦(6)]]
+    ==
+    - A stockade, a palisade;
+    - an encampment;
+    - a stockaded village;
+    - a sheep-pen;
+    - _ts(')(a/)k(9) ch(a/)i(6)_
+        [[caak6 zaai6 賊寨]]
+        a robber's hold;
+    - _ch(a/)i(6) (2)ch(u")_
+        [[zaai6 zyu2 寨主]],
+        wife of a bandit chief who guards the hold;
+    - _(2)t(a/) ch(a/)i(6)_
+        [[daa2 zaai6 打寨]]
+        to frequent brothels;
+    - _luk(9) kok(8) ch(a/)i(6)_
+        [[luk6 hok3 zaai6 六角寨]]
+        a stockade defended by chevaux-de-frise;
+    - _(4)ying ch(a/)i(6)_
+        [[jing4 zaai6 營寨]]
+        barracks, a camp, a military station.
+    ==
+  ====
+$$
+
+### 砦6 | _Ch(a/)i(6)_ [[zaai6]]
+
+$$
+R
+  石 + 5
+U
+  U+7826
+W
+  ====
+  - [[Page~10|n53 寨(6)砦(6)]]
+    --
+    [[Alternative form of 寨. **See $寨zaai6 for the canonical entry.**]]
+    --
+  ====
 $$
