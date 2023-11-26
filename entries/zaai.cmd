@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zaai1](#1)
+- [zaai3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -205,4 +206,58 @@ E
       ==
     ++
   ====
+$$
+
+
+##{#3 .williams} Ch(a/)i(3) [[zaai3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $債3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 債3 | _Ch(a/)i(3)_ [[zaai3]]
+
+$$
+R
+  人 + 11
+U
+  U+50B5
+W
+  ====
+  - [[Page~10|n53 債(3)]]
+    ==
+    - To bear a burden;
+    - to owe;
+    - a debt;
+    - _h(i/)m(3) ch(a/)i(3)_
+        [[him3 zaai3 欠債]]
+        to owe a debt;
+    - _ch(a/)i(3) (2)ch(u")_
+        [[zaai3 zyu2]],
+        a creditor;
+    - _ch(a/)i(3) (2)tsai_
+        [[zaai3 zai2 債主]],
+        a debtor;
+    - _(4)w(a/)n ch(a/)i(3)_
+        [[waan4 zaai3 還債]]
+        to repay;
+    - _(2)lo ch(a/)i(3)_
+        [[lo2 zaai3 攞債]]
+        to collect debts;
+    - _fong(3) ch(a/)i(3)_
+        [[fong3 zaai3 放債]]
+        to let capital;
+    - _[ts(')(i/)t](8) (5)(i/) p(i/)n(3) ch(a/)i(3) (2)tan_
+        [[cit3 ji5 bin3 zaai3 dan2 切耳變債躉]],
+        cut off his ears and make him a stool of debt.
+    ==
+  ====
+C
+  ==
+  - Williams' 切耳變債躉: Corrected _ts(i/)t(8)_ [[zit3]] to _ts(')(i/)t(8)_ [[cit3]].
+  ==
 $$
