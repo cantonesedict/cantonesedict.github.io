@@ -12,12 +12,6 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 #{.williams} Ch(a/)i. [[zaai]]
 
-<nav class="sideways">
-=={.modern}
-- [[Work in progress]]
-==
-</nav>
-
 <## tones ##>
 <nav class="sideways">
 =={.modern}
