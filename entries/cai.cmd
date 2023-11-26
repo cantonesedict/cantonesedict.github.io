@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2023-11-17
+* %date-modified --> 2023-11-26
 * %copyright-prior-years -->
 
 %%%
@@ -540,6 +540,10 @@ W
         to govern a family.
     ==
   ====
+S
+  ==
+  - $齊zaai1
+  ==
 $$
 
 

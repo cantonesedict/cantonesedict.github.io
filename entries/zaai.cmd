@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2023-11-17
+* %date-modified --> 2023-11-26
 * %copyright-prior-years -->
 
 %%%
@@ -48,6 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $斋1
+- $齊1
 - $齋1
 ==
 </nav>
@@ -70,6 +71,31 @@ W
 C
   ==
   - Williams prints this as ⿱攵而 rather than ⿱文而.
+  ==
+$$
+
+### 齊1 | _(1)Ch(a/)i_ [[zaai1]]
+
+$$
+R
+  齊 + 3
+U
+  U+9F4B
+W
+  ====
+  - [[Page~10|n53 (1)齊]]
+    --
+    Interchanged with the last [[齋]].
+    --
+    ==
+    - To respect;
+    - decorous;
+    - the heart pure, to chasten the desires.
+    ==
+  ====
+S
+  ==
+  - $齊cai4
   ==
 $$
 
