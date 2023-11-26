@@ -271,6 +271,7 @@ $$
 =={.modern}
 - $寨6
 - $砦6
+- $豸6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -327,4 +328,34 @@ W
     [[Alternative form of 寨. **See $寨zaai6 for the canonical entry.**]]
     --
   ====
+$$
+
+### 豸6 | _Ch(a/)i(6)_ [[zaai6]]
+
+$$
+R
+  豸 + 0
+U
+  U+8C78
+W
+  ====
+  - [[Page~10|n53 豸(6)]]
+    ==
+    - A fabulous feline beast, called _(5)h(a/)i ch(a/)i(6)_ [[haai5 zaai6 獬豸]]
+      embroidered on censor's robes, indicative of discrimination.
+    ==
+    --
+    Read _ch(i/)[(6)]_ [[zi6]]; [[**see $豸zi6**]].
+    --
+  ====
+C
+  ==
+  - Williams' alternative reading:
+    Changed _(2)ch(i/)_ [[zi2]] (Middle Chinese rising tone)
+    to expected reflex _ch(i/)(6)_ [[zi6]].
+  ==
+S
+  ==
+  - $豸zi6 (TODO)
+  ==
 $$
