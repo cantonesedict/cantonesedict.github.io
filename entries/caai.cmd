@@ -48,6 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $差1
+- $猜1
 - $釵1
 ==
 </nav>
@@ -109,6 +110,59 @@ S
   ==
   - $差caa1
   - $差ci1 (TODO)
+  ==
+$$
+
+### 猜1 | _(1)Ch(')(a/)i_ [[caai1]]
+
+$$
+R
+  犬 + 8
+U
+  U+731C
+W
+  ====
+  - [[Page~11|n54 (1)猜]]
+    ==
+    - To guess; to doubt, to conjecture;
+    - to dislike;
+    - to abhor;
+    - to fear, to apprehend, lest;
+    - _(1)ch(')(a/)i yat(7) kuk(9) (1)chung_
+        [[caai1 jat1 guk6 zung1 猜一焗盅]],
+        to bet a glass of wine;
+    - _(1)ch(')(a/)i kwat(7) (4)p(')(a/)i_
+        [[caai1 gwat1 paai4-2 猜骨牌]],
+        to guess on dominoes;
+    - _(1)ch(')(a/)i tok(9)_
+        [[caai1 dok6 猜度]]
+        an opinion or idea, to guess;
+    - _(1)ch(')(a/)i (4)m(u/)i_
+        [[caai1 mui4-2 猜枚]]
+        or
+      _(1)ch(')(a/)i (5)m(a/)_
+        [[caai1 maa5 猜馬]],
+        morra, to guess at the fingers---a game;
+    - _(1)ch(')(a/)i (4)(i/)_
+        [[caai1 ji4 猜疑]],
+        to suspect, to doubt of;
+    - _(1)ch(')(a/)i (4)(i/)m_
+        [[caai jim4 猜嫌]],
+        to suspect and dislike;
+    - _(1)ch(')(a/)i (1)ng(a/)m_
+        [[caai1 ngaam1 猜啱]]
+        guessed right;
+    - _(1)ch(')(a/)i yat(7) (1)ch(')(a/)i_
+        [[caai1 jat1 caai1 猜一猜]]
+        make a guess;
+    - _(5)n(i/) sh(i/)(3) (1)ch(')(a/)i [(5)]h(a/)_
+        [[nei5 si3 caai1 haa5 你試猜一吓]]
+        just guess.
+    ==
+  ====
+C
+  ==
+  - Williams' 你試猜一吓: Corrected _h(a/)(6)_ [[haa6]] to _(5)h(a/)_ [[haa5]].
   ==
 $$
 
