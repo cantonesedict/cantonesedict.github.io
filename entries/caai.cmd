@@ -48,6 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $差1
+- $釵1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -109,4 +110,34 @@ S
   - $差caa1
   - $差ci1 (TODO)
   ==
+$$
+
+### 釵1 | _(1)Ch(')(a/)i_ [[caai1]]
+
+$$
+R
+  金 + 3
+U
+  U+91F5
+W
+  ====
+  - [[Page~11|n54 (1)釵]]
+    ==
+    - A broad hair-pin;
+    - _met._ females;
+    - _puk(7) (1)ch(')(a/)i_
+        [[buk1 caai1 卜釵]],
+        to divine by a hair-pin when a husband will return;
+    - _(4)kw(')an (1)ch(')(a/)i_
+        [[kwan4 caai1 群釵]],
+        a bevy of women;
+    - _(1)king (1)ch(')(a/)i_,
+        [[ging1 caai1 荊釵]]
+        a thorn hair-pin,
+        _met._ poverty;
+    - _fung(6) (1)ch(')(a/)i_
+        [[fung6 caai1 鳳釵]],
+        an ornamental hair-pin with a phoenix.
+    ==
+  ====
 $$
