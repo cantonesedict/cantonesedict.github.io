@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [caai1](#1)
+- [caai4](#4)
 ==
 </nav>
 <## /tones ##>
@@ -192,6 +193,63 @@ W
     - _fung(6) (1)ch(')(a/)i_
         [[fung6 caai1 鳳釵]],
         an ornamental hair-pin with a phoenix.
+    ==
+  ====
+$$
+
+
+##{#4 .williams} (4)Ch(')(a/)i [[caai4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways">
+=={.modern}
+- $柴4
+==
+</nav>
+<## /tone-4-characters ##>
+
+### 柴4 | _(4)Ch(')(a/)i_ [[caai4]]
+
+$$
+R
+  木 + 5
+U
+  U+67F4
+W
+  ====
+  - [[Page~11|n54 (4)柴]]
+    ==
+    - Firewood, faggots;
+    - brushwood;
+    - fuel;
+    - to stop up;
+    - _yat(7) (2)p(a/) (4)ch(')(a/)i_
+        [[jat1 baa2 caai4 一把柴]],
+        a faggot of firewood;
+    - _(4)ch(')(a/)i (4)t(')au_
+        [[caai4 tau4 柴頭]],
+        half burned sticks;
+    - _(1)kon (4)ch(')(a/)i pang(6) (2)fo_
+        [[gon1 caai4 bang6 fo2 乾柴憑火]],
+        if dry wood is near the fire, [will it not catch]?
+    - _(4)ch(')(a/)i (1)f(a/)_
+        [[caai4 faa1 柴花]],
+        kindlings;
+    - _(4)ch(')(a/)i (2)fo_
+        [[caai4 fo2 柴火]],
+        firewood;
+    - _p(')o(3) (4)ch(')(a/)i_
+        [[po3 caai4 破柴]],
+        to cleave wood;
+    - _(4)ch(')(a/)i (4)m(u/n)_
+        [[caai4 mun4 柴門]],
+        a cottage door;
+    - _(4)p(')(a/)u (4)ch(')(a/)i_
+        [[paau4 caai4 刨柴]],
+        shavings;
+    - _(4)ch(')(a/)i (1)san_
+        [[caai4 san1 柴薪]],
+        faggots of wood.
     ==
   ====
 $$
