@@ -232,6 +232,7 @@ W
     - _(1)kon (4)ch(')(a/)i pang(6) (2)fo_
         [[gon1 caai4 bang6 fo2 乾柴憑火]],
         if dry wood is near the fire, [will it not catch]?
+        [[these square brackets appear in the original text]]
     - _(4)ch(')(a/)i (1)f(a/)_
         [[caai4 faa1 柴花]],
         kindlings;
