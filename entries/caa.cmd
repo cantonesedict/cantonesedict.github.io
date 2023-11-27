@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2023-10-07
+* %date-modified --> 2023-11-26
 * %copyright-prior-years -->
 
 %%%
@@ -193,7 +193,7 @@ E
   ====
 S
   ==
-  - $差caai1 (TODO)
+  - $差caai1
   - $差ci1 (TODO)
   ==
 $$
