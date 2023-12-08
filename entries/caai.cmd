@@ -204,10 +204,33 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $踩2
 - $踹2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+###+ 踩2 | _(2)Ch(')(a/)i_ [[caai2]]
+
+$$
+R
+  足 + 8
+U
+  U+8E29
+W
+  [[Not present]]
+C
+  ==
+  - Here normalised to 踹; **see $踹caai2 for the canonical entry**.
+  - The character 踩 is not attested in the Middle Chinese rime books.
+    Perhaps the pre-merger reading should be
+    _(2)ts(')(a/)i_ instead of _(2)ch(')(a/)i_
+    based on the initial of the phonetic 采,
+    but the syllable _ts(')(a/)i_ does not exist under any tone in 《分韻撮要》.
+  - For the purposes of Cantonese 踩 is indistiguishable from 踹.
+    Note that the Mandarin readings are distinct.
+  ==
+$$
 
 ### 踹2 | _(2)Ch(')(a/)i_ [[caai2]]
 
@@ -216,6 +239,10 @@ R
   足 + 9
 U
   U+8E39
+A
+  ==
+  -{.modern} $踩2
+  ==
 V
   ==
   - cyun2 (expected from 市兖切 rising)
@@ -261,6 +288,7 @@ W
 C
   ==
   - Williams' Also read: Corrected _(2)t(u")n_ [[dyun2]] to _t(u")n(3)_ [[dyun3]].
+  - See $踩caai2 for commentary on 踩 versus 踹.
   ==
 S
   ==
