@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aam
-* %date-modified --> 2023-08-13
+* %date-modified --> 2023-12-08
 * %copyright-prior-years -->
 
 %%%
@@ -72,10 +72,6 @@ W
     - a poetical name.
     ==
   ====
-C
-  ==
-  - The expected reflex is haam5 from Middle Chinese 胡感切 lengthened.
-  ==
 S
   ==
   - $菡haam5 (TODO)

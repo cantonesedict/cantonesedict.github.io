@@ -218,7 +218,8 @@ U
   U+8E39
 V
   ==
-  - dyun3 (alternative)
+  - cyun2 (expected from 市兖切 rising)
+  - dyun3 (expected from 丁貫切)
   - jaai2 (colloquial)
   ==
 W
@@ -259,8 +260,6 @@ W
   ====
 C
   ==
-  - The alternative reading dyun3 (for "heel" sense) is from
-    Middle Chinese 丁貫切 or 都玩切.
   - Williams' Also read: Corrected _(2)t(u")n_ [[dyun2]] to _t(u")n(3)_ [[dyun3]].
   ==
 S

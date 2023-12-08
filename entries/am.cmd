@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2023-08-26
+* %date-modified --> 2023-12-08
 * %copyright-prior-years -->
 
 %%%
@@ -402,10 +402,6 @@ W
         to repeat exactly.
     ==
   ====
-C
-  ==
-  - The expected reflex is am1 from Middle Chinese 烏含切.
-  ==
 S
   ==
   - $諳am1
@@ -441,10 +437,6 @@ W
         unenlightened.
     ==
   ====
-C
-  ==
-  - The expected reflex is am3 from Middle Chinese 烏紺切.
-  ==
 S
   ==
   - $闇am3

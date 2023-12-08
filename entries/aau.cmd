@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aau
-* %date-modified --> 2023-08-26
+* %date-modified --> 2023-12-08
 * %copyright-prior-years -->
 
 %%%
@@ -214,7 +214,7 @@ U
   U+5773
 V
   ==
-  - aau1 (for literary "uneven ground" senses, expected from 《廣韻》於交切)
+  - aau1 (expected from 於交切 for literary "uneven ground" senses)
   ==
 W
   ====

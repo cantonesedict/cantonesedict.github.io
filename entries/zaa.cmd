@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2023-10-07
+* %date-modified --> 2023-12-08
 * %copyright-prior-years -->
 
 %%%
@@ -616,7 +616,7 @@ U
   U+75C4
 V
   ==
-  - zaa2 (Middle Chinese rising tone)
+  - zaa2 (expected from 側下切 rising)
   ==
 W
   ====

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2023-11-14
+* %date-modified --> 2023-12-08
 * %copyright-prior-years -->
 
 %%%
@@ -957,7 +957,7 @@ U
 V
   ==
   - zai1 (uncommon)
-  - zai3 (alternative)
+  - zai3 (alternative from 子計切)
   ==
 W
   ====
@@ -971,7 +971,6 @@ W
 C
   ==
   - The uncommon reading zai1 is that given in 《分韻撮要》.
-  - The alternative reading zai3 is from Middle Chinese 子計切 or 子例切.
   ==
 S
   ==

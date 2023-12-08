@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2023-11-26
+* %date-modified --> 2023-12-08
 * %copyright-prior-years -->
 
 %%%
@@ -285,7 +285,7 @@ U
   U+7DC0
 V
   ==
-  - cai2 (alternative)
+  - cai2 (alternative from 千禮切)
   ==
 W
   ====
@@ -437,7 +437,7 @@ U
 V
   ==
   - zai3 (uncommon)
-  - zai6 (alternative)
+  - zai6 (alternative from 在詣切)
   ==
 W
   ====
@@ -454,7 +454,6 @@ W
 C
   ==
   - The uncommon reading zai3 is that given in 《分韻撮要》.
-  - The alternative reading zai6 is from Middle Chinese 在詣切.
   ==
 S
   ==

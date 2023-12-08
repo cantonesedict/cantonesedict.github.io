@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2023-11-26
+* %date-modified --> 2023-12-08
 * %copyright-prior-years -->
 
 %%%
@@ -408,7 +408,7 @@ U
   U+55CF
 V
   ==
-  - caa1 (expected from 初加切)
+  - caa1 (expected from 《字彙》初加切)
   ==
 W
   ====
@@ -417,10 +417,6 @@ W
     - A euphonic final sound used in chanting, to prolong the line.
     ==
   ====
-C
-  ==
-  - The expected reflex is caa1 from 《字彙》初加切.
-  ==
 $$
 
 ### 搽4 | _(4)Ch(')(a/)_ [[caa4]]
