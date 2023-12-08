@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [caai1](#1)
+- [caai2](#2)
 - [caai4](#4)
 ==
 </nav>
@@ -195,6 +196,77 @@ W
         an ornamental hair-pin with a phoenix.
     ==
   ====
+$$
+
+
+##{#2 .williams} (2)Ch(')(a/)i [[caai2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $踹2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 踹2 | _(2)Ch(')(a/)i_ [[caai2]]
+
+$$
+R
+  足 + 9
+U
+  U+8E39
+V
+  ==
+  - dyun3 (alternative)
+  - jaai2 (colloquial)
+  ==
+W
+  ====
+  - [[Page~11|n54 (2)踹]]
+    --
+    Also read _t(u")n[(3)]_ [[dyun3]].
+    --
+    ==
+    - To stamp, to trample, to tread on with the heel;
+    - to rase, to destroy;
+    - the heel;
+    - _(2)ch(')(a/)i (5)(u")n sok(8)_
+        [[caai2 jyun5 sok3 踹軟索]],
+        a treader on rope ladders---a thief;
+    - _(2)p(i/) (1)sai (1)kw(a/) (4)p(')(i/) (5)n(i/) (2)ch(')(a/)i_
+        [[bei2 sai1 gwaa1 pei4 nei5 caai2 畀西瓜皮你踹]],
+        let you step on a melon skin---trip you up;
+    - _(2)ch(')(a/)i p(')o(3) (4)ying (4)p(')(u/)n_
+        [[caai2 po3 jing4 pun4 踹破營盤]],
+        to remain victorious;
+    - _(2)ch(')(a/)i ch(u")(6) (5)k(')(u")_
+        [[caai2 zyu6 keoi5 踹住佢]],
+        step on it;
+    - _(2)k(i/) (4)sh(i/) (4)ngau (2)ch(')(a/)i k(e/)uk(8)_
+        [[gei2 si4 ngau4 caai2 goek3 幾時牛踹腳]]
+        when is your birthday?
+    - _(2)ch(')(a/)i shat(9)_
+        [[caai2 sat6 踹實]]
+        to tread on firmly;
+    - _(2)ch(')(a/)i (1)tang (1)f(a/)_
+        [[caai2 dang1 faa1 踹燈花]],
+        to tread on lampwicks (a thief);
+    - _(2)ch(')(a/)i (4)shing yuk(9) ts(e/)ung(3)_
+        [[caai2 sing4 juk6 zoeng3 踹成肉醬]]
+        trampled to death.
+    ==
+  ====
+C
+  ==
+  - The alternative reading dyun3 (for "heel" sense) is from
+    Middle Chinese 丁貫切 or 都玩切.
+  - Williams' Also read: Corrected _(2)t(u")n_ [[dyun2]] to _t(u")n(3)_ [[dyun3]].
+  ==
+S
+  ==
+  - $踹jaai2 (TODO)
+  ==
 $$
 
 
