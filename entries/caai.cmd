@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2023-11-26
+* %date-modified --> 2023-12-08
 * %copyright-prior-years -->
 
 %%%
@@ -203,10 +203,32 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $儕4
 - $柴4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 儕4 | _(4)Ch(')(a/)i_ [[caai4]]
+
+$$
+R
+  人 + 14
+U
+  U+5115
+W
+  ====
+  - [[Page~11|n54 (4)儕]]
+    ==
+    - A class, a company;
+    - persons of the same sort;
+    - it makes the plural of the first person;
+    - _(4)'ng (4)ch(')(a/)i_
+        [[ng4 caai4 吾儕]],
+        we.
+    ==
+  ====
+$$
 
 ### 柴4 | _(4)Ch(')(a/)i_ [[caai4]]
 
