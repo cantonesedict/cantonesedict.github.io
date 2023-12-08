@@ -205,6 +205,7 @@ $$
 =={.modern}
 - $儕4
 - $柴4
+- $豺4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -273,6 +274,32 @@ W
     - _(4)ch(')(a/)i (1)san_
         [[caai4 san1 柴薪]],
         faggots of wood.
+    ==
+  ====
+$$
+
+### 豺4 | _(4)Ch(')(a/)i_ [[caai4]]
+
+$$
+R
+  豸 + 3
+U
+  U+8C7A
+W
+  ====
+  - [[Page~11|n54 (4)豺]]
+    ==
+    - A ravenous beast;
+    - a lynx or wolf;
+    - _(4)ch(')(a/)i (4)long (1)tong t(o\)(6)_
+        [[caai4 long4 dong1 dou6 豺狼當道]]
+        the wolf is in the way---said of oppressive rulers;
+    - _(4)ch(')(a/)i (4)long_
+        [[caai4 long4 豺狼]],
+        a wolf;
+    - _(4)ch(')(a/)i (4)long sing(3) (4)ts(')ing_
+        [[caai4 long4 sing3 cing4 豺狼性情]],
+        a wolfish disposition.
     ==
   ====
 $$
