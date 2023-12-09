@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2023-12-08
+* %date-modified --> 2023-12-09
 * %copyright-prior-years -->
 
 %%%
@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [caai1](#1)
 - [caai2](#2)
+- [caai3](#3)
 - [caai4](#4)
 ==
 </nav>
@@ -294,6 +295,34 @@ S
   ==
   - $踹jaai2 (TODO)
   ==
+$$
+
+
+##{#3 .williams} Ch(')(a/)i(3) [[caai3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $蠆3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 蠆3 | _Ch(')(a/)i(3)_ [[caai3]]
+
+$$
+R
+  虫 + 13
+U
+  U+8806
+W
+  ====
+  - [[Page~11|n54 蠆(3)]]
+    ==
+    - The sting of a bee, or other insect;
+    - a sort of scorpion with a long tail.
+    ==
+  ====
 $$
 
 
