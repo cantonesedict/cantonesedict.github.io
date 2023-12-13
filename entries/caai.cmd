@@ -303,11 +303,48 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $嘬3
 - $瘵3
 - $蠆3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 嘬3 | _Ch(')(a/)i(3)_ [[caai3]]
+
+$$
+R
+  口 + 12
+U
+  U+562C
+V
+  ==
+  - saai3 (uncommon)
+  - zyut3 (colloquial for "suck" sense)
+  ==
+W
+  ====
+  - [[Page~11|n54 嘬(3)]]
+    ==
+    - To gnaw, to bite;
+    - to eat rapidly;
+    - to swallow, to bolt;
+    - _ch(')(a/)i(3) h(u")t(8)_
+        [[caai3 hyut3 嘬血]]
+        to suck blood;
+    - _ch(')(a/)i(3) ng(i/)t(9)_
+        [[caai3 ngit6 嘬齧]]
+        to eat with a noise.
+    ==
+    --
+    Also read _sh(a/)i(3)_ [[saai3]].
+    --
+  ====
+S
+  ==
+  - $嘬zyut3 (TODO)
+  ==
+$$
 
 ### 瘵3 | _Ch(')(a/)i(3)_ [[caai3]]
 
