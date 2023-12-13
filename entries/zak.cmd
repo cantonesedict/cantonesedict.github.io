@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zak
-* %date-modified --> 2023-08-02
+* %date-modified --> 2023-12-13
 * %copyright-prior-years -->
 
 %%%
-
---{.modern}
-[[From Page~12|n55 (Chak) and Page~550 (Tsak) of the original onwards.]]
---
 
 #{.williams} Chak. Tsak. [[zak]]
 
@@ -21,3 +17,27 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [[Work in progress]]
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Chak. [[Page~12|n55]]
+  - Tsak. [[Page~550]]
+  ==
+WP
+  ==
+  - Chak <span class="modern">= [tɕɐk̚]</span>
+  - Tsak <span class="modern">= [tsɐk̚]</span>
+  ==
+MP
+  ==
+  - zak = [tsɐk̚], [tɕɐk̚]
+  ==
+$$
