@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $仄1
+- $昃1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -82,4 +83,25 @@ C
   ==
   - Williams' 仄聲: Corrected _(1)sheng_ [[seng1]] to _(1)shing_ [[sing1]].
   ==
+$$
+
+### 昃1 | _Chak(7)_ [[zak1]]
+
+$$
+R
+  日 + 4
+U
+  U+6603
+W
+  ====
+  - [[Page~12|n55 昃(7)]]
+    ==
+    - The sun declining to the west;
+    - the afternoon;
+    - to wane, as the moon;
+    - _yat(9) chak(7)_
+        [[jat6 zak1 日昃]]
+        day is declining.
+    ==
+  ====
 $$
