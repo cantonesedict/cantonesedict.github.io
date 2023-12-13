@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2023-12-09
+* %date-modified --> 2023-12-13
 * %copyright-prior-years -->
 
 %%%
@@ -303,10 +303,31 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $瘵3
 - $蠆3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 瘵3 | _Ch(')(a/)i(3)_ [[caai3]]
+
+$$
+R
+  疒 + 11
+U
+  U+7635
+W
+  ====
+  - [[Page~11|n54 瘵(3)]]
+    --
+    [[Idiosyncratic reading from 《分韻撮要》; **see $瘵zaai3 for the canonical entry**.]]
+    --
+  ====
+S
+  ==
+  - $瘵zaai3
+  ==
+$$
 
 ### 蠆3 | _Ch(')(a/)i(3)_ [[caai3]]
 

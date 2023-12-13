@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2023-11-26
+* %date-modified --> 2023-12-13
 * %copyright-prior-years -->
 
 %%%
@@ -210,6 +210,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $債3
+- $瘵3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -254,6 +255,40 @@ W
 C
   ==
   - Williams' 切耳變債躉: Corrected _ts(i/)t(8)_ [[zit3]] to _ts(')(i/)t(8)_ [[cit3]].
+  ==
+$$
+
+###+ 瘵3 | _Ch(a/)i(3)_ [[zaai3]]
+
+$$
+R
+  疒 + 11
+U
+  U+7635
+V
+  ==
+  - caai3 (uncommon)
+  ==
+W
+  ====
+  - [[Page~11|n54 瘵(3) _Ch(')(a/)i(3)_ (caai3); here normalised to _Ch(a/)i(3)_ (zaai3)]]
+    ==
+    - Weary, sick;
+    - _(4)l(o\) [ch(a/)i](3)_
+        [[lou4 zaai3 癆瘵]]
+        consumption, a wasting disease;
+    - _tsz'(6) [ch(a/)i](3)_
+        [[zi6 zaai3 自瘵]]
+        to bring trouble on one's self.
+    ==
+  ====
+C
+  ==
+  - The uncommon reading caai3 is that given in 《分韻撮要》.
+  ==
+S
+  ==
+  - $瘵caai3
   ==
 $$
 
