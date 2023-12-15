@@ -55,6 +55,8 @@ $$
 - $昃1
 - $簀1
 - $賾1
+- $鯽1
+- $鰂1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -244,4 +246,59 @@ W
     [[Idiosyncratic reading from 《分韻撮要》; **see $賾zaak3 for the canonical entry**.]] [[TODO]]
     --
   ====
+$$
+
+### 鯽1 | _Tsak(7)_ [[zak1]]
+
+$$
+R
+  魚 + 7
+U
+  U+9BFD
+W
+  ====
+  - [[Page~550 鯽(7)]]
+    --
+    [[Alternative form of 鰂. **See $鰂zak1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Williams prints this like ⿰魚卽 rather than as ⿰魚即.
+  ==
+S
+  ==
+  - $鯽zik1 (TODO)
+  ==
+$$
+
+###+ 鰂1 | _Tsak(7)_ [[zak1]]
+
+$$
+R
+  魚 + 9
+U
+  U+9C02
+A
+  ==
+  - $鯽1
+  ==
+W
+  ====
+  - [[Page~550 鯽(7); here normalised to 鰂]]
+    ==
+    - A species of bream _(Cyprinus gibelioides)_ with a long dorsal,
+      called _tsak(7) (5)n(a/) (4)(u")_ [[zak1 naa5 jyu4-2 鰂乸魚]];
+    - _shuk(7) kwat(7) tsak(7)_
+        [[suk1 gwat1 zak1 縮骨鰂]]
+        the blunt headed bream _(Cyprinus abbreviatus)_;
+    - _(1)kam tsak(7)_
+        [[gam1 zak1 金鰂]]
+        the red tailed bream _(Cyprinus auratus)_.
+    ==
+  ====
+S
+  ==
+  - $鰂caak6 (TODO)
+  ==
 $$
