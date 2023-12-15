@@ -52,6 +52,7 @@ $$
 - $仄1
 - $昃1
 - $簀1
+- $賾1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -121,6 +122,22 @@ W
     [[The expected reflex is zak1 from Middle Chinese 側革切,
     but the common reading is zaak3;
     **see $簀zaak3 for the canonical entry**.]] [[TODO]]
+    --
+  ====
+$$
+
+### 賾1 | _Chak(7)_ [[zak1]]
+
+$$
+R
+  貝 + 11
+U
+  U+8CFE
+W
+  ====
+  - [[Page~12|n55 賾(7)]]
+    --
+    [[Idiosyncratic reading from 《分韻撮要》; **see $賾zaak3 for the canonical entry**.]] [[TODO]]
     --
   ====
 $$
