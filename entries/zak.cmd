@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zak
-* %date-modified --> 2023-12-13
+* %date-modified --> 2023-12-15
 * %copyright-prior-years -->
 
 %%%
@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $仄1
 - $昃1
+- $簀1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -103,5 +104,23 @@ W
         [[jat6 zak1 日昃]]
         day is declining.
     ==
+  ====
+$$
+
+### 簀1 | _Chak(7)_ [[zak1]]
+
+$$
+R
+  竹 + 11
+U
+  U+7C00
+W
+  ====
+  - [[Page~12|n55 簀(7)]]
+    --
+    [[The expected reflex is zak1 from Middle Chinese 側革切,
+    but the common reading is zaak3;
+    **see $簀zaak3 for the canonical entry**.]] [[TODO]]
+    --
   ====
 $$
