@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $仄1
 - $側1
+- $則1
 - $昃1
 - $簀1
 - $賾1
@@ -131,6 +132,61 @@ W
     - _sh(i/)(6) (5)ngo chak(7)_
         [[si6 ngo5 zak1 侍我側]]
         stand at my side.
+    ==
+  ====
+$$
+
+### 則1 | _Tsak(7)_ [[zak1]]
+
+$$
+R
+  刀 + 7
+U
+  U+5247
+W
+  ====
+  - [[Page~550 則(7)]]
+    ==
+    - A rule, a precept, a law, a regulation;
+    - a principle;
+    - a pattern, an exainple;
+    - a standard, a measure by which to test an act;
+    - to conform to rule, to imitate, to walk by;
+    - an illative particle, denoting a result, a reason for, a cause for;
+    - wherefore, immediately, then;
+    - a conditional particle, after that, in that case;
+    - therefore, next, consequently;
+    - _f(a/)t(8) tsak(7)_
+        [[faat3 zak1 法則]]
+        a rule, a pattern;
+    - _(2)chun tsak(7)_
+        [[zeon2 zak1 準則]]
+        the pattern, at the time, like the rule, as a carpenter's line is;
+    - _(4)ho tsak(7)_
+        [[ho4 zak1 何則]]
+        how then?
+    - _tsak(7) ko(3)_
+        [[zak1 go3 則個]] in the court dialect
+        is like _pa(6) lok(8)_ [[baa6 lok3 罷咯]]
+        well, then;
+        _e.~g._ _sh(u")(3) tsui(6) tsak(7) ko(3)_
+        [[syu3 zeoi6 zak1 go3 恕罪則個]]
+        well, then I'll pardon the fault;
+    - _(5)yau mat(9) (5)yau tsak(7)_
+        [[jau5 mat6 jau5 zak1 有物有則]]
+        both the substance and the immaterial principle;
+    - _(4)(i/)n tsak(7)_
+        [[jin4 zak1 然則]]
+        if so, then;
+    - _yat(7) tsak(7) (5)(i/) (2)h(i/), yat(7) tsak(7) (5)(i/) k(u")(6)_
+        [[jat1 zak1 ji5 hei2 jat1 zak1 ji5 geoi6 一則以喜一則以懼]]
+        to excite both our joy and fear;
+    - _tsak(7) yat(7) (5)y(a/)_
+        [[zak1 jat1 jaa5 則一也]],
+        then they are alike;
+    - _(1)sui tsak(7) (2)k(o\)m_
+        [[seoi1 zak1 gam2 雖則敢]],
+        then I shall venture.
     ==
   ====
 $$
