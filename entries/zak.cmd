@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $仄1
+- $側1
 - $昃1
 - $簀1
 - $賾1
@@ -85,6 +86,53 @@ C
   ==
   - Williams' 仄聲: Corrected _(1)sheng_ [[seng1]] to _(1)shing_ [[sing1]].
   ==
+$$
+
+### 側1 | _Chak(7)_ [[zak1]]
+
+$$
+R
+  人 + 9
+U
+  U+5074
+W
+  ====
+  - [[Page~12|n55 側(7)]]
+    ==
+    - Side, the side;
+    - on the side;
+    - to incline, to bow down, to bend;
+    - lateral;
+    - perverted;
+    - mean, low;
+    - rebellious, seditious;
+    - _chak(7) shat(7)_
+        [[zak1 sat1 側室]]
+        a coucubine;
+    - _(4)m(o\) ch(a/)p(9) chak(7)_
+        [[mou4 zaap6 zak1 毋极側]]
+        don't turn it over;
+    - _chak(7) (1)p(i/)n_
+        [[zak1 bin1 側邊]],
+        the side;
+    - _chak(7) chak(7) t(i/)(6)_
+        [[zak1 zak1 dei6-2 側側地]]
+        a little one sided;
+    - _(2)f(a/)n chak(7)_
+        [[faan2 zak1 反側]]
+        the rear, the back side;
+        a rebellious cabal;
+    - _chak(7) (5)(i/)_
+        [[zak1 ji5 側耳]],
+        apply the ear;
+    - _yat(9) chak(7)_
+        [[jat6 zak1 日側]]
+        afternoon;
+    - _sh(i/)(6) (5)ngo chak(7)_
+        [[si6 ngo5 zak1 侍我側]]
+        stand at my side.
+    ==
+  ====
 $$
 
 ### 昃1 | _Chak(7)_ [[zak1]]
