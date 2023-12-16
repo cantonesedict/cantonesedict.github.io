@@ -39,6 +39,10 @@ MP
   ==
   - cak = [tsʰɐk̚], [tɕʰɐk̚]
   ==
+S
+  ==
+  - $caak
+  ==
 $$
 
 
@@ -47,10 +51,43 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $惻1
 - $測1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 惻1 | _Ch(')ak(7)_ [[cak1]]
+
+$$
+R
+  心 + 9
+U
+  U+60FB
+V
+  ==
+  -{.modern} caak1 (longer syllable)
+  ==
+W
+  ====
+  - [[Page~12|n55 惻(7)]]
+    ==
+    - Secret grief, distress;
+    - to pity, to commisserate, to sympathize;
+    - _ch(')ak(7) [(2)]yan (1)ch(i/) (1)sam_
+        [[cak1 jan2 zi1 sam1 惻隱之心]],
+        kind-hearted, humane.
+    ==
+  ====
+C
+  ==
+  - Williams' 惻隱之心: Corrected _(4)yan_ [[jan4]] to _(2)yan_ [[jan2]].
+  ==
+S
+  ==
+  - $惻caak1 (TODO)
+  ==
+$$
 
 ### 測1 | _Ch(')ak(7)_ [[cak1]]
 
