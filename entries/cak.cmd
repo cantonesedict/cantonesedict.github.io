@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [cak1](#1)
 ==
 </nav>
 <## /tones ##>
@@ -37,5 +38,57 @@ WP
 MP
   ==
   - cak = [tsʰɐk̚], [tɕʰɐk̚]
+  ==
+$$
+
+
+##{#1 .williams} Ch(')ak(7) [[cak1 高陰入]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $測1
+==
+</nav>
+<## /tone-1-characters ##>
+
+### 測1 | _Ch(')ak(7)_ [[cak1]]
+
+$$
+R
+  水 + 9
+U
+  U+6E2C
+V
+  ==
+  -{.modern} caak1 (longer syllable)
+  ==
+W
+  ====
+  - [[Page~12|n55 測(7)]]
+    ==
+    - To sound, to fathom;
+    - to estimate, to measure;
+    - clear, as varnish;
+    - _ch(')ak(7) tok(9)_
+        [[cak1 dok6 測度]]
+        to comprehend, to conjecture;
+    - _ch(')ak(7) tsz'(6)_
+        [[cak1 zi6 測字]]
+        to dissect characters, as when divining;
+    - _pat(7) ch(')ak(7)_
+        [[bat1 cak1 不測]]
+        unexpected;
+    - _(1)t(')ui ch(')ak(7)_
+        [[teoi1 cak1 推測]]
+        to explain, to reason;
+    - _pat(7) (2)ho ch(')ak(7)_
+        [[bat1 ho2 cak1 不可測]]
+        incomprehensible.
+    ==
+  ====
+S
+  ==
+  - $測caak1 (TODO)
   ==
 $$
