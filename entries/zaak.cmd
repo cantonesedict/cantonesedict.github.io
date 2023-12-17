@@ -51,6 +51,7 @@ $$
 - $矺3
 - $砸3
 - $磧3
+- $窄3
 - $責3
 ==
 </nav>
@@ -150,6 +151,42 @@ C
   ==
   - Alternative form of 矺. **See $矺zaak3 for the canonical entry**.
   ==
+$$
+
+### 窄3 | _Ch(a/)k(8)_ [[zaak3]]
+
+$$
+R
+  穴 + 5
+U
+  U+7A84
+W
+  ====
+  - [[Page~12|n55 窄(8)]]
+    ==
+    - Narrow, strait;
+    - compressed;
+    - groveling, mean, narrow-minded;
+    - _pik(7) ch(a/)k(8)_
+        [[bik1 zaak3 迫窄]]
+        contracted, illiberal;
+    - _(2)ts(')(i/)n ch(a/)k(8)_
+        [[cin2 zaak3 淺窄]]
+        confined, cramped;
+    - _(1)sam (4)ch(')(e/)ung ch(a/)k(8)_
+        [[sam1 coeng4 zaak3 心腸窄]]
+        little-minded;
+    - _ch(a/)k(8) kwo(3) (4)t(')au_
+        [[zaak3 gwo3 tau4 窄過頭]],
+        too narrow;
+    - _ko(3) tsz'(6) ch(a/)k(8)_
+        [[go3 zi6 zaak3 個字窄]]
+        its meanings are few;
+    - _ch(a/)k(8) l(o\)(6)_
+        [[zaak3 lou6 窄路]]
+        a lane.
+    ==
+  ====
 $$
 
 ### 責3 | _Ch(a/)k(8)_ [[zaak3]]
