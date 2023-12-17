@@ -53,6 +53,7 @@ $$
 - $磧3
 - $窄3
 - $笮3
+- $舴3
 - $責3
 ==
 </nav>
@@ -209,6 +210,31 @@ W
     - to tattoo or brand, as a punishment.
     ==
   ====
+$$
+
+### 舴3 | _Ch(a/)k(8)_ [[zaak3]]
+
+$$
+R
+  舟 + 5
+U
+  U+8234
+W
+  ====
+  - [[Page~13|n56 舴(8)]]
+    ==
+    - A boat;
+    - _ch(a/)k(8) [(5)m(a/)ng]_
+        [[zaak3 maang5 舴艋]]
+        a small boat, a punt, a pinnace, a junk's gig.
+    ==
+  ====
+C
+  ==
+  - Williams' 舴艋: Changed Middle Chinese _mang_ [[mang]]
+    to common reading _m(a/)ng_ [[maang]],
+    and corrected tone _(6)_ [[去聲]] to _(5)_ [[上聲]].
+  ==
 $$
 
 ### 責3 | _Ch(a/)k(8)_ [[zaak3]]
