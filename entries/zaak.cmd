@@ -52,6 +52,7 @@ $$
 - $砸3
 - $磧3
 - $窄3
+- $笮3
 - $責3
 ==
 </nav>
@@ -185,6 +186,27 @@ W
     - _ch(a/)k(8) l(o\)(6)_
         [[zaak3 lou6 窄路]]
         a lane.
+    ==
+  ====
+$$
+
+### 笮3 | _Ch(a/)k(8)_ [[zaak3]]
+
+$$
+R
+  竹 + 5
+U
+  U+7B2E
+W
+  ====
+  - [[Page~12|n55 笮(8)]]
+    ==
+    - Like the last [[$窄1]];
+    - a quiver;
+    - a bamboo ceiling of a roof;
+    - to hasten out;
+    - to press;
+    - to tattoo or brand, as a punishment.
     ==
   ====
 $$
