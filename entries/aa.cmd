@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2023-08-26
+* %date-modified --> 2023-12-17
 * %copyright-prior-years -->
 
 %%%
@@ -552,6 +552,7 @@ W
     - _(a/)(3) (5)t(')ai_
         [[aa3 tai5 阿娣]],
         boy, you lad;
+    - [[...]].
     ==
   ====
 C
