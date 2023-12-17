@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2023-12-08
+* %date-modified --> 2023-12-17
 * %copyright-prior-years -->
 
 %%%
@@ -648,7 +648,7 @@ W
     ==
     - A large locust, called _(5)m(a/) ch(a/)(3)_
         [[maa5 zaa3 螞蚱]]
-      or _ch(a/)(3) (5)m(a/)ng_
+      or _ch(a/)(3) (5)[m(a/)ng]_
         [[zaa3 maang5 蚱蜢]];
     - _ch(a/)(3) (4)[sh(i/)m]_
         [[zaa3 sim4 蚱蟬]],
@@ -657,6 +657,8 @@ W
   ====
 C
   ==
+  - Williams' 蚱蜢: Changed Middle Chinese _(5)mang_ [[mang5]]
+    to common reading _(5)m(a/)ng_ [[maang5]].
   - Williams' 蚱蟬: Changed _(4)sh(i/)n_ [[sin4]]
     to common reading _(4)sh(i/)m_ [[sim4]].
   ==
