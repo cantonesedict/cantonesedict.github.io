@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zak
-* %date-modified --> 2023-12-15
+* %date-modified --> 2023-12-16
 * %copyright-prior-years -->
 
 %%%
@@ -221,9 +221,14 @@ W
     --
     [[The expected reflex is zak1 from Middle Chinese 側革切,
     but the common reading is zaak3;
-    **see $簀zaak3 for the canonical entry**.]] [[TODO]]
+    **see $簀zaak3 for the canonical entry**.]]
     --
   ====
+S
+  ==
+  - $簀zaai3 (TODO)
+  - $簀zaak3
+  ==
 $$
 
 ### 賾1 | _Chak(7)_ [[zak1]]

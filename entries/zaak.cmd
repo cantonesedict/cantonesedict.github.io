@@ -53,6 +53,7 @@ $$
 - $磧3
 - $窄3
 - $笮3
+- $簀3
 - $舴3
 - $責3
 ==
@@ -210,6 +211,33 @@ W
     - to tattoo or brand, as a punishment.
     ==
   ====
+$$
+
+###+ 簀3 | _Ch(a/)k(8)_ [[zaak3]]
+
+$$
+R
+  竹 + 11
+U
+  U+7C00
+W
+  ====
+  - [[Page~12|n55 簀(7) _Chak(7)_ (zak1); here normalised to _Ch(a/)k(8)_ (zaak3)]]
+    ==
+    - Boards of a bed;
+    - a bed mat;
+    - to collect;
+    - luxuriant.
+    ==
+    --
+    Read _ch(a/)i(3)_ [[zaai3]]; [[**see $簀zaai3**]].
+    --
+  ====
+S
+  ==
+  - $簀zaai3 (TODO)
+  - $簀zak1
+  ==
 $$
 
 ### 舴3 | _Ch(a/)k(8)_ [[zaak3]]
