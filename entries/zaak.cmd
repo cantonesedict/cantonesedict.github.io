@@ -47,10 +47,77 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $矺3
 - $責3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+###+ 矺3 | _Ch(a/)k(8)_ [[zaak3]]
+
+$$
+R
+  石 + 3
+U
+  U+77FA
+A
+  ==
+  -{.modern} $砸3 (TODO)
+  -{.modern} $磧3 (TODO)
+  - $責3
+  ==
+V
+  ==
+  - zaak6 (alternative)
+  ==
+W
+  ====
+  - [[Page~12|n55 責(8); here normalised to 矺]]
+    ==
+    - [[...]]
+    - to lay a weight on;
+    - to squeeze smooth, to press;
+    - [[...]]
+    - _ch(a/)k(8) ch(u")(6) (5)k(')(u")_
+        [[zaak3 zyu6 keoi5 矺住佢]],
+        keep it down;
+    - _ch(a/)k(8) (2)sz'_
+        [[zaak3 si2 / zaak3 sei2 矺死]];
+    - [[...]]
+    - _ch(a/)k(8) tsoi(6)_
+        [[zaak3 zoi6 矺載]]
+        to ballast a ship;
+    - _ch(a/)k(8) l(a/)n(6)_
+        [[zaak3 laan6 矺爛]]
+        crushed in pieces.
+    ==
+  ====
+C
+  ==
+  - This character (in the colloquial "weight/crush" senses) is commonly written 砸.
+    In my opinion, 矺 is a better character to use than 砸 because:
+    ++
+    1. 矺 is attested in Middle Chinese
+       with both reasonable sound and reasonable meaning
+       (zaak3 from 《廣韻》陟革切, explained 磓也, to stone); and
+    2. 砸 is otherwise read zaap3.
+    ++
+  ==
+E
+  ====
+  - 【矺】 (zaak3, zaak6):
+    ++
+    1. To weigh down with a heavy object.
+       ==
+       - 矺住張紙 (zaak6 zyu6 zoeng1 zi2): "Weigh down [the] piece of paper."
+       ==
+    1. To crush with a heavy object.
+       ==
+       - 矺扁咗 (zaak3 bin2 zo2): "Squashed flat."
+       ==
+    ++
+  ====
+$$
 
 ### 責3 | _Ch(a/)k(8)_ [[zaak3]]
 
@@ -66,7 +133,7 @@ W
     - To reprove, to reprimand, to blame;
     - to punish, to fine;
     - to sustain, to be responsible for, to have charge of;
-    - [[see $矺zaak3 for "weight/crush" senses (TODO)]]
+    - [[see $矺zaak3 for "weight/crush" senses]]
     - to ask, to demand;
     - _ch(a/)k(8) fat(9)_
         [[zaak3 fat6 責罰]]
