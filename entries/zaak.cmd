@@ -50,6 +50,7 @@ $$
 =={.modern}
 - $矺3
 - $砸3
+- $磧3
 - $責3
 ==
 </nav>
@@ -65,7 +66,7 @@ U
 A
   ==
   -{.modern} $砸3
-  -{.modern} $磧3 (TODO)
+  -{.modern} $磧3
   - $責3
   ==
 V
@@ -128,6 +129,21 @@ R
   石 + 5
 U
   U+7838
+W
+  [[Not present]]
+C
+  ==
+  - Alternative form of 矺. **See $矺zaak3 for the canonical entry**.
+  ==
+$$
+
+###+ 磧3 | _Ch(a/)k(8)_ [[zaak3]]
+
+$$
+R
+  石 + 11
+U
+  U+78E7
 W
   [[Not present]]
 C
