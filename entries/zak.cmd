@@ -242,9 +242,13 @@ W
   ====
   - [[Page~12|n55 賾(7)]]
     --
-    [[Idiosyncratic reading from 《分韻撮要》; **see $賾zaak3 for the canonical entry**.]] [[TODO]]
+    [[Idiosyncratic reading from 《分韻撮要》; **see $賾zaak3 for the canonical entry**.]]
     --
   ====
+S
+  ==
+  - $賾zaak3 [[TODO]]
+  ==
 $$
 
 ### 鯽1 | _Tsak(7)_ [[zak1]]

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ang
-* %date-modified --> 2023-08-26
+* %date-modified --> 2023-12-17
 * %copyright-prior-years -->
 
 %%%
@@ -69,9 +69,13 @@ W
     --
     [[The expected reflex is ang1 from Middle Chinese 烏莖切,
     but the common reading is jing1 (possibly after 《韻會》幺莖切);
-    **see $嚶jing1 for the canonical entry**.]] [[TODO]]
+    **see $嚶jing1 for the canonical entry**.]]
     --
   ====
+S
+  ==
+  - $嚶jing1 [[TODO]]
+  ==
 $$
 
 ### 罃1 | _(1)Ang_ [[ang1]]
@@ -167,7 +171,6 @@ S
   ==
   - $哽gang2 (TODO)
   - $哽kang2 (TODO)
-  - $㾘ang2
   ==
 $$
 

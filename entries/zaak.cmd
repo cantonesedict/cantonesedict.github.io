@@ -124,6 +124,10 @@ E
        ==
     ++
   ====
+S
+  ==
+  - $矺zaak6
+  ==
 $$
 
 ###+ 砸3 | _Ch(a/)k(8)_ [[zaak3]]
@@ -335,5 +339,9 @@ W
 C
   ==
   - Reading variation; **see $矺zaak3 for the canonical entry**.
+  ==
+S
+  ==
+  - $矺zaak3
   ==
 $$
