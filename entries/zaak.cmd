@@ -49,6 +49,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $矺3
+- $砸3
 - $責3
 ==
 </nav>
@@ -63,7 +64,7 @@ U
   U+77FA
 A
   ==
-  -{.modern} $砸3 (TODO)
+  -{.modern} $砸3
   -{.modern} $磧3 (TODO)
   - $責3
   ==
@@ -118,6 +119,21 @@ E
        ==
     ++
   ====
+$$
+
+###+ 砸3 | _Ch(a/)k(8)_ [[zaak3]]
+
+$$
+R
+  石 + 5
+U
+  U+7838
+W
+  [[Not present]]
+C
+  ==
+  - Alternative form of 矺. **See $矺zaak3 for the canonical entry**.
+  ==
 $$
 
 ### 責3 | _Ch(a/)k(8)_ [[zaak3]]
