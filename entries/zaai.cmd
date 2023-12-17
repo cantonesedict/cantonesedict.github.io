@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2023-12-13
+* %date-modified --> 2023-12-17
 * %copyright-prior-years -->
 
 %%%
@@ -81,7 +81,7 @@ W
   ====
   - [[Page~10|n53 (1)齊]]
     --
-    Interchanged with the last [[齋]].
+    Interchanged with the last [[$齋1]].
     --
     ==
     - To respect;

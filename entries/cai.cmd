@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2023-12-08
+* %date-modified --> 2023-12-17
 * %copyright-prior-years -->
 
 %%%
@@ -157,7 +157,7 @@ W
   ====
   - [[Page~549 (1)悽]]
     --
-    Similar to the last [[淒]];
+    Similar to the last [[$淒1]];
     --
     ==
     - grieved, afflicted, sorrowing;
