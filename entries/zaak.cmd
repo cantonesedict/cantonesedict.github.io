@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zaak3](#3)
+- [zaak6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -163,5 +164,31 @@ C
     to _(4)sh(e/)ung_ [[soeng4]].
   - Williams' 責罰 (second occurrence): Changed _f(a/)t(9)_ [[faat6]]
     to modern _fat(9)_ [[fat6]].
+  ==
+$$
+
+
+##{#6 .williams} Ch(a/)k(9) [[zaak6 陽入]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $矺6
+==
+</nav>
+<## /tone-6-characters ##>
+
+###+ 矺6 | _Ch(a/)k(9)_ [[zaak6]]
+
+$$
+R
+  石 + 3
+U
+  U+77FA
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation; **see $矺zaak3 for the canonical entry**.
   ==
 $$
