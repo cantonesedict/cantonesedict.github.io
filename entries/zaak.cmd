@@ -56,6 +56,7 @@ $$
 - $簀3
 - $舴3
 - $責3
+- $賾3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -313,6 +314,28 @@ C
     to _(4)sh(e/)ung_ [[soeng4]].
   - Williams' 責罰 (second occurrence): Changed _f(a/)t(9)_ [[faat6]]
     to modern _fat(9)_ [[fat6]].
+  ==
+$$
+
+###+ 賾3 | _Ch(a/)k(8)_ [[zaak3]]
+
+$$
+R
+  貝 + 11
+U
+  U+8CFE
+W
+  ====
+  - [[Page~12|n55 賾(7) _Chak(7)_ (zak1); here normalised to _Ch(a/)k(8)_ (zaak3)]]
+    ==
+    - Obscure, hard of understanding;
+    - the secret springs, the hidden cause;
+    - occult, profound.
+    ==
+  ====
+S
+  ==
+  - $賾zak1
   ==
 $$
 
