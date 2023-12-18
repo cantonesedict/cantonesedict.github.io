@@ -345,11 +345,40 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $擇6
 - $澤6
 - $矺6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 擇6 | _Ch(a/)k(9)_ [[zaak6]]
+
+$$
+R
+  手 + 13
+U
+  U+64C7
+W
+  ====
+  - [[Page~13|n56 擇(9)]]
+    ==
+    - To select, to pick out, to choose, to prefer;
+    - _ch(a/)k(9) yat(9)_
+        [[zaak6 jat6-2 擇日]]
+        to choose a [lucky] [[these square brackets appear in the original text]] day;
+    - _(5)n(i/) k(o\)m(3) (2)k(a/)n ch(a/)k(9)_
+        [[nei5 gam3 gaan2 zaak6 你咁揀擇]]
+        you are so hard to suit;
+    - _yam(6) (5)n(i/) (2)k(a/)n ch(a/)k(9)_
+        [[jam6 nei5 gaan2 zaak6 任你揀擇]]
+        just as you like;
+    - _ch(a/)k(9) (1)k(a/)u_
+        [[zaak6 gaau1 擇交]],
+        to take associates.
+    ==
+  ====
+$$
 
 ### 澤6 | _Ch(a/)k(9)_ [[zaak6]]
 
