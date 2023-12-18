@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2023-12-17
+* %date-modified --> 2023-12-18
 * %copyright-prior-years -->
 
 %%%
@@ -211,6 +211,7 @@ $$
 =={.modern}
 - $債3
 - $瘵3
+- $簀3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -289,6 +290,33 @@ C
 S
   ==
   - $瘵caai3
+  ==
+$$
+
+### 簀3 | _Ch(a/)i(3)_ [[zaai3]]
+
+$$
+R
+  竹 + 11
+U
+  U+7C00
+W
+  ====
+  - [[Page~12|n55 簀(7)]]
+    --
+    [[...]]
+    --
+    --
+    Read _ch(a/)i(3)_ [[zaai3]];
+    --
+    ==
+    - a strainer for spirits.
+    ==
+  ====
+S
+  ==
+  - $簀zaak3
+  - $簀zak1
   ==
 $$
 
