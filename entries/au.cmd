@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> au
-* %date-modified --> 2023-10-07
+* %date-modified --> 2023-12-18
 * %copyright-prior-years -->
 
 %%%
@@ -118,6 +118,9 @@ U
 W
   ====
   - [[Page~6 漚(3)]]
+    --
+    [[...]]
+    --
     --
     Read _(1)au_ [[au1]];
     --

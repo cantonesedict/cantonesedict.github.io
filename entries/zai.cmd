@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2023-12-08
+* %date-modified --> 2023-12-18
 * %copyright-prior-years -->
 
 %%%
@@ -661,6 +661,7 @@ W
     - _(1)chau tsai(3)_
         [[zau1 zai3 周濟]]
         to supply another's wants;
+    - [[...]].
     ==
   ====
 $$
