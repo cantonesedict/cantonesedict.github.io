@@ -345,6 +345,7 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $摘6
 - $擇6
 - $擲6
 - $澤6
@@ -352,6 +353,46 @@ $$
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 摘6 | _Ch(a/)k(9)_ [[zaak6]]
+
+$$
+R
+  手 + 11
+U
+  U+6458
+W
+  ====
+  - [[Page~13|n56 摘(9)]]
+    ==
+    - To pluck, to cull;
+    - to pull, to pick;
+    - to lay hold of;
+    - to move on, to start;
+    - to point out;
+    - _ch(a/)k(9) yan(3)_
+        [[zaak6 jan3 摘印]]
+        to take away [an officer's] [[these square brackets appear in the original text]] seal;
+    - _ch(a/)k(9) (2)t(u\) [lok](9) (4)lai_
+        [[zaak6 doe2 lok6 lai4 摘朵落嚟]],
+        pull a flower down;
+    - _yat(7) ch(a/)k(9)_
+        [[jat1 zaak6 一摘]]
+        one picking;
+    - _ch(a/)k(9) (2)kwo_
+        [[zaak6 gwo2 摘果]],
+        to pick fruit;
+    - _ch(a/)k(9) [(2)]teng_
+        [[zaak6 deng2 摘頂]],
+        to take away an officer's button.
+    ==
+  ====
+C
+  ==
+  - Williams' 摘朵落嚟: Corrected _tok(9)_ [[dok6]] to _lok(9)_ [[lok6]].
+  - Williams' 摘頂: Corrected _(1)teng_ [[deng1]] to _(2)teng_ [[deng2]].
+  ==
+$$
 
 ### 擇6 | _Ch(a/)k(9)_ [[zaak6]]
 
