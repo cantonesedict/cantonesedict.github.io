@@ -345,10 +345,56 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $澤6
 - $矺6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 澤6 | _Ch(a/)k(9)_ [[zaak6]]
+
+$$
+R
+  水 + 13
+U
+  U+6FA4
+W
+  ====
+  - [[Page~13|n56 澤(9)]]
+    ==
+    - A marsh, a fen, a pool;
+    - to fertilize, to soften, to enrich;
+    - to anoint, to make to shine;
+    - to benefit, to favor;
+    - humid, slippery, smooth;
+    - to show kindness to;
+    - to wash, to moisten;
+    - to make to grow;
+    - fertile;
+    - redolent of, as fragrance;
+    - favor, kindness;
+    - _(2)shau ch(a/)k(9)_
+        [[sau2 zaak6 手澤]]
+        to brighten by handling;
+    - _yun(6) ch(a/)k(9)_
+        [[jeon6 zaak6 潤澤]]
+        fresh, moist;
+    - _w(a/)t(9) ch(a/)k(9)_
+        [[waat6 zaak6 滑澤]]
+        glossy;
+    - _(5)(u") ch(a/)k(9)_
+        [[jyu5 zaak6 雨澤]]
+        wet with rain;
+    - _(1)yan ch(a/)k(9)_
+        [[jan1 zaak6 恩澤]]
+        to confer favors.
+    ==
+  ====
+C
+  ==
+  - Williams' 手澤: Metaphorically, brilliant works by the hand of one now deceased.
+  ==
+$$
 
 ###+ 矺6 | _Ch(a/)k(9)_ [[zaak6]]
 
