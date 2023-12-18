@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ak
-* %date-modified --> 2023-08-26
+* %date-modified --> 2023-12-18
 * %copyright-prior-years -->
 
 %%%
@@ -156,7 +156,7 @@ V
   ==
 W
   ====
-    [[Page~3 握(7)]]
+  - [[Page~3 握(7)]]
     ==
     - To grasp, to hold within the hand;
     - a little, as much as the palm can hold;
@@ -227,7 +227,7 @@ V
   ==
 W
   ====
-    [[Page~3 阨(7)]]
+  - [[Page~3 阨(7)]]
     ==
     - An obstruction, a stop;
     - a defile, a pass;
