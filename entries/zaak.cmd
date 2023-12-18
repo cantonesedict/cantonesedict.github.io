@@ -346,6 +346,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $擇6
+- $擲6
 - $澤6
 - $矺6
 ==
@@ -376,6 +377,40 @@ W
     - _ch(a/)k(9) (1)k(a/)u_
         [[zaak6 gaau1 擇交]],
         to take associates.
+    ==
+  ====
+$$
+
+### 擲6 | _Ch(a/)k(9)_ [[zaak6]]
+
+$$
+R
+  手 + 15
+U
+  U+64F2
+W
+  ====
+  - [[Page~13|n56 擲(9)]]
+    ==
+    - To throw down, to throw at;
+    - to throw away, to reject;
+    - to waste, as one's time;
+    - _ch(a/)k(9) (4)(u/)i_
+        [[zaak6 wui4 擲回]],
+        to refuse, to give back;
+    - _ch(a/)k(9) chung(3)_
+        [[zaak6 zung3 擲中]]
+        to hit;
+    - _ch(a/)k(9) (4)t(')au_ [[zaak6 tau4 擲骰]]
+        or
+      _ch(a/)k(9) shik(7)_ [[zaak6 sik1 擲色]]
+        to throw dice;
+    - _ch(a/)k(9) (2)kau (2)tsai_
+        [[zaak6 gau2 zai2 擲九仔]],
+        to throw nines, _i.e._ to gamble;
+    - _h(i/)(3) ch(a/)k(9)_
+        [[hei3 zaak6 棄擲]]
+        to discard.
     ==
   ====
 $$
