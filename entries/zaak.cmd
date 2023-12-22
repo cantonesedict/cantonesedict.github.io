@@ -345,6 +345,7 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $宅6
 - $摘6
 - $擇6
 - $擢6
@@ -355,6 +356,49 @@ $$
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 宅6 | _Ch(a/)k(9)_ [[zaak6]]
+
+$$
+R
+  宀 + 3
+U
+  U+5B85
+V
+  ==
+  - zaak6-2 (colloquial rising-tone noun)
+  ==
+W
+  ====
+  - [[Page~13|n56 宅(9)]]
+    ==
+    - A dwelling, a mansion, a residence;
+    - a grave;
+    - to dwell, to fix, to settle;
+    - to conform to;
+    - an office, a station;
+    - _(4)y(e/)ung ch(a/)k(9)_
+        [[joeng4 zaak6 陽宅]]
+        houses, residences;
+    - _t(a/)i(6) ch(a/)k(9) (i/)(6) ch(a/)k(9)_
+        [[daai6 zaak6-2 ji6 zaak6-2 大宅二宅]]
+        eldest son and second son's dwellings;
+    - _(1)yam ch(a/)k(9)_
+        [[jam1 zaak6 陰宅]]
+        a grave;
+        ancestral halls or shrines;
+    - _ch(a/)k(9) [shi(u/)](6)_
+        [[zaak6 siu6 宅兆]]
+        to divine for a grave.
+    ==
+  ====
+C
+  ==
+  - Williams' 宅兆:
+    Changed Middle Chinese _chi(u/)(6)_ [[ziu6]]
+    to common reading _shi(u/)(6)_ [[siu6]].
+  ==
+$$
 
 ### 摘6 | _Ch(a/)k(9)_ [[zaak6]]
 
