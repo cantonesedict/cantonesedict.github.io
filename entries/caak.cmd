@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [caak3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -40,4 +41,51 @@ MP
   ==
   - caak = [tsʰaːk̚], [tɕʰaːk̚]
   ==
+$$
+
+
+##{#3 .williams} Ch(')(a/)k(8) [[caak3 低陰入]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $策3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 策3 | _Ch(')(a/)k(8)_ [[caak3]]
+
+$$
+R
+  竹 + 6
+U
+  U+7B56
+W
+  ====
+  - [[Page~13|n56 策(8)]]
+    ==
+    - A bamboo slip, such as books were once engraved on;
+    - a book, writings;
+    - a stratagem, a plan, a means, an expedient, a scheme;
+    - a switch, a whip;
+    - a divining slip;
+    - to switch;
+    - _(2)k(a/)n ch(')(a/)k(8)_
+        [[gaan2 caak3 簡策]]
+        books, chapters, &c.;
+    - _(4)m(o\) ch(')(a/)k(8)_
+        [[mou4 caak3 無策]]
+        without plan, schemeless;
+    - _(4)ch(')au ch(')(a/)k(8)_
+        [[cau4 caak3 籌策]]
+        to contrive;
+    - _ch(')(a/)k(8) (5)m(a/)_
+        [[caak3 maa5 策馬]],
+        to whip a horse.
+    ==
+    --
+    Used for the next [[$茦3]].
+    --
+  ====
 $$
