@@ -354,6 +354,8 @@ $$
 - $矺6
 - $翟6
 - $𧓸6
+- $謫6
+- $讁6
 - $躑6
 ==
 </nav>
@@ -635,6 +637,49 @@ W
       called _ch(a/)k(9) chuk(9)_ [[zaak6 zuk6 𧓸蠋]]
       which feeds on bean leaves.
     ==
+  ====
+$$
+
+### 謫6 | _Ch(a/)k(9)_ [[zaak6]]
+
+$$
+R
+  言 + 11
+U
+  U+8B2B
+A
+  ==
+  - $讁6
+  ==
+W
+  ====
+  - [[Page~13|n56 謫(9)讁(9)]]
+    ==
+    - To blame, to reprehend;
+    - to [disgrace] officers, to punish by disgracing;
+    - to scold, to be angry at, to find fault with;
+    - flaw, error;
+    - a change of appearance;
+    - _ch(a/)k(9) (1)k(a/)n_
+        [[zaak6 gaan1 謫奸]],
+        to disgrace an officer.
+    ==
+  ====
+$$
+
+### 讁6 | _Ch(a/)k(9)_ [[zaak6]]
+
+$$
+R
+  言 + 15
+U
+  U+8B81
+W
+  ====
+  - [[Page~13|n56 謫(9)讁(9)]]
+    --
+    [[Alternative form of 謫. **See $謫zaak6 for the canonical entry.**]]
+    --
   ====
 $$
 
