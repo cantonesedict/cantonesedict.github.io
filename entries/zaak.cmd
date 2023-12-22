@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2023-12-18
+* %date-modified --> 2023-12-22
 * %copyright-prior-years -->
 
 %%%
@@ -350,6 +350,7 @@ $$
 - $擲6
 - $澤6
 - $矺6
+- $翟6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -517,5 +518,37 @@ C
 S
   ==
   - $矺zaak3
+  ==
+$$
+
+### 翟6 | _Ch(a/)k(9)_ [[zaak6]]
+
+$$
+R
+  羽 + 8
+U
+  U+7FDF
+W
+  ====
+  - [[Page~13|n56 翟(9)]]
+    ==
+    - A surname.
+    ==
+    --
+    This and the last [[摘]] are also read _t(')ik(7)_ [[tik1]]
+    with the same meanings.
+    --
+  ====
+C
+  ====
+  - Williams' also read _t(')ik(7)_ etc.: this is not quite correct.
+    ==
+    - 摘 is also read _t(')ik(7)_ (tik1) (expected from 他歷切); but
+    - 翟 is also read _tik(9)_ (dik6) (expected from 徒歷切).
+    ==
+  ====
+S
+  ==
+  - $翟dik6 (TODO)
   ==
 $$
