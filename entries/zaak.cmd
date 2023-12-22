@@ -598,7 +598,7 @@ W
     - A surname.
     ==
     --
-    This and the last [[摘]] are also read _t(')ik(7)_ [[tik1]]
+    This and the last [[$摘6]] are also read _t(')ik(7)_ [[tik1]]
     with the same meanings.
     --
   ====
