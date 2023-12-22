@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $策3
+- $茦3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -87,5 +88,22 @@ W
     --
     Used for the next [[$茦3]].
     --
+  ====
+$$
+
+### 茦3 | _Ch(')(a/)k(8)_ [[caak3]]
+
+$$
+R
+  艸 + 6
+U
+  U+8326
+W
+  ====
+  - [[Page~14|n57 茦(8)]]
+    ==
+    - A thorn, a spike, a prickle;
+    - to prick, to pierce with a thorn.
+    ==
   ====
 $$
