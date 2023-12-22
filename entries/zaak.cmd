@@ -354,6 +354,7 @@ $$
 - $矺6
 - $翟6
 - $𧓸6
+- $躑6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -633,6 +634,26 @@ W
     - A large green caterpillar,
       called _ch(a/)k(9) chuk(9)_ [[zaak6 zuk6 𧓸蠋]]
       which feeds on bean leaves.
+    ==
+  ====
+$$
+
+### 躑6 | _Ch(a/)k(9)_ [[zaak6]]
+
+$$
+R
+  足 + 15
+U
+  U+8E91
+W
+  ====
+  - [[Page~13|n56 躑(9)]]
+    ==
+    - Going back and forth;
+    - embarrassed, undecided;
+    - _ch(a/)k(9) chuk(9)_
+        [[zaak6 zuk6 躑躅]]
+        irresolute.
     ==
   ====
 $$
