@@ -353,6 +353,7 @@ $$
 - $澤6
 - $矺6
 - $翟6
+- $𧓸6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -616,4 +617,22 @@ S
   ==
   - $翟dik6 (TODO)
   ==
+$$
+
+### 𧓸6 [[⿰虫鄭]] | _Ch(a/)k(9)_ [[zaak6]]
+
+$$
+R
+  虫 + 15
+U
+  U+274F8
+W
+  ====
+  - [[Page~13|n56 𧓸(9) (⿰虫鄭)]]
+    ==
+    - A large green caterpillar,
+      called _ch(a/)k(9) chuk(9)_ [[zaak6 zuk6 𧓸蠋]]
+      which feeds on bean leaves.
+    ==
+  ====
 $$
