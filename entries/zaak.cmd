@@ -347,6 +347,7 @@ $$
 =={.modern}
 - $摘6
 - $擇6
+- $擢6
 - $擲6
 - $澤6
 - $矺6
@@ -421,6 +422,26 @@ W
         to take associates.
     ==
   ====
+$$
+
+### 擢6 | _Ch(a/)k(9)_ [[zaak6]]
+
+$$
+R
+  手 + 14
+U
+  U+64E2
+W
+  ====
+  - [[Page~13|n56 擢(9)]]
+    --
+    [[Reading variation; **see $擢zok6 for the canonical entry**.]]
+    --
+  ====
+S
+  ==
+  - $擢zok6 (TODO)
+  ==
 $$
 
 ### 擲6 | _Ch(a/)k(9)_ [[zaak6]]
