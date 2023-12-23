@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zak
-* %date-modified --> 2023-12-18
+* %date-modified --> 2023-12-23
 * %copyright-prior-years -->
 
 %%%
@@ -302,6 +302,6 @@ W
   ====
 S
   ==
-  - $鰂caak6 (TODO)
+  - $鰂caak6
   ==
 $$
