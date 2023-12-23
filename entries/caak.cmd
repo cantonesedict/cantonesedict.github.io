@@ -107,6 +107,7 @@ $$
 =={.modern}
 - $冊3
 - $册3
+- $拆3
 - $柵3
 - $栅3
 - $策3
@@ -166,6 +167,60 @@ W
     [[Alternative form of 冊. **See $冊caak3 for the canonical entry.**]]
     --
   ====
+$$
+
+### 拆3 | _Ch(')(a/)k(8)_ [[caak3]]
+
+$$
+R
+  手 + 5
+U
+  U+62C6
+W
+  ====
+  - [[Page~14|n57 拆[(8)]<` `>]]
+    ==
+    - To break up or open;
+    - to split, to unrip;
+    - to destroy, to pull down, to take away;
+    - to dissect, to take to pieces;
+    - _ch(')(a/)k(8) sh(e/)(3)_
+        [[caak3 se3 拆舍]]
+        to pull a house down;
+    - _ch(')(a/)k(8) s(a/)n(3)_
+        [[caak3 saan3 拆散]]
+        to scatter, by breaking or taking to pieces;
+    - _ch(')(a/)k(8) (1)fung_
+        [[caak3 fung1 拆封]],
+        to open a letter;
+    - _ch(')(a/)k(8) (1)(i/) (4)sh(e/)ung_
+        [[caak3 ji1 soeng4 拆衣裳]],
+        to unrip clothes;
+    - _ch(')(a/)k(8) s(a/)i(3)_
+        [[caak3 saai3 拆嗮]]
+        pulled to pieces;
+    - _(5)yau mat(7) ch(')(a/)k(8) f(a/)t(8)_
+        [[jau5 mat1 caak3 faat3 有乜拆法]]
+        what way shall we arrange the matter?
+<##
+    - _ch(')(a/)k(8) (2)hau yat(9)_
+        [[caak3 hau2 jat6 坼口日]]
+        unlucky days for consulting;
+    - _ch(')(a/)k(8) (2)hau (1)k(o\) y(e/)uk(9)_
+        [[caak3 hau2 gou1 joek6 坼口膏藥]]
+        plasters for chapped feet.
+##>
+    - [[see $坼caak3 for "cracked" senses]].
+    ==
+  ====
+C
+  ==
+  - Williams misprints 拆(8) as 拆(9).
+  - Williams' 拆散:
+    Note the subtle difference between the two readings
+    _ch(')(a/)k(8) s(a/)n(3)_ (caak3 saan3) "scatter" and
+    _ch(')(a/)k(8) (2)s(a/)n_ (caak3 saan2) "break up".
+  ==
 $$
 
 ###+ 柵3 | _Ch(')(a/)k(8)_ [[caak3]]
