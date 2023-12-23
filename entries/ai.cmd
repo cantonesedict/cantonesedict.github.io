@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ai
-* %date-modified --> 2023-08-26
+* %date-modified --> 2023-12-23
 * %copyright-prior-years -->
 
 %%%
@@ -67,7 +67,7 @@ A
   ==
 V
   ==
-  -{.modern} aai1 (longer syllable for particle sense)
+  - aai1 (longer syllable for particle sense)
   ==
 W
   ====
@@ -196,7 +196,7 @@ U
   U+5C6D
 V
   ==
-  -{.modern} hei3 (for literary senses)
+  - hei3 (for literary senses)
   ==
 W
   ====

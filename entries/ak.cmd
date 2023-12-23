@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ak
-* %date-modified --> 2023-12-18
+* %date-modified --> 2023-12-23
 * %copyright-prior-years -->
 
 %%%
@@ -70,7 +70,7 @@ A
   ==
 V
   ==
-  -{.modern} aak1 (longer syllable)
+  - aak1 (longer syllable)
   ==
 W
   ====
@@ -155,7 +155,7 @@ U
   U+63E1
 V
   ==
-  -{.modern} aak1 (longer syllable)
+  - aak1 (longer syllable)
   ==
 W
   ====
@@ -226,7 +226,7 @@ U
   U+9628
 V
   ==
-  -{.modern} aak1 (longer syllable)
+  - aak1 (longer syllable)
   ==
 W
   ====

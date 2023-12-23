@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2023-12-17
+* %date-modified --> 2023-12-23
 * %copyright-prior-years -->
 
 %%%
@@ -121,7 +121,7 @@ A
   ==
 V
   ==
-  -{.modern} a1 (shorter syllable)
+  - a1 (shorter syllable)
   ==
 W
   ====
@@ -387,7 +387,7 @@ A
   ==
 V
   ==
-  -{.modern} a3 (shorter syllable)
+  - a3 (shorter syllable)
   ==
 W
   ====
@@ -450,7 +450,7 @@ A
   ==
 V
   ==
-  -{.modern} a3 (shorter syllable)
+  - a3 (shorter syllable)
   ==
 W
   ====
@@ -583,7 +583,7 @@ U
   U+5440
 V
   ==
-  -{.modern} a4 (shorter syllable)
+  - a4 (shorter syllable)
   ==
 W
   [[Not present]]
@@ -631,7 +631,7 @@ U
   U+5440
 V
   ==
-  -{.modern} a6 (shorter syllable for elided "ten" sense)
+  - a6 (shorter syllable for elided "ten" sense)
   ==
 W
   ====

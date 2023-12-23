@@ -60,7 +60,7 @@ U
   U+60FB
 V
   ==
-  -{.modern} caak1 (longer syllable)
+  - caak1 (longer syllable)
   ==
 W
   ====
@@ -92,7 +92,7 @@ U
   U+6E2C
 V
   ==
-  -{.modern} caak1 (longer syllable)
+  - caak1 (longer syllable)
   ==
 W
   ====

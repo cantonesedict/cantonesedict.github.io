@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aak
-* %date-modified --> 2023-08-26
+* %date-modified --> 2023-12-23
 * %copyright-prior-years -->
 
 %%%
@@ -66,7 +66,7 @@ U
   U+5384
 V
   ==
-  -{.modern} ak1 (literary)
+  - ak1 (literary)
   ==
 W
   [[Not present]]
@@ -95,7 +95,7 @@ A
   ==
 V
   ==
-  -{.modern} ak1 (shorter syllable)
+  - ak1 (shorter syllable)
   ==
 W
   ====
@@ -131,7 +131,7 @@ U
   U+63E1
 V
   ==
-  -{.modern} ak1 (literary)
+  - ak1 (literary)
   ==
 W
   [[Not present]]
@@ -174,7 +174,7 @@ U
   U+9628
 V
   ==
-  -{.modern} ak1 (shorter syllable)
+  - ak1 (shorter syllable)
   ==
 W
   ====
@@ -216,7 +216,7 @@ U
   U+922A
 V
   ==
-  -{.modern} aak3-2 (colloquial rising-tone noun)
+  - aak3-2 (colloquial rising-tone noun)
   ==
 W
   ====
