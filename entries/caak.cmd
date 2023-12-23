@@ -370,6 +370,70 @@ $$
 
 ##{#6 .williams} Ts(')(a/)k(9) [[caak6 陽入]]
 
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $賊6
+- $鰂6
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 賊6 | _Ts(')(a/)k(9)_ [[caak6]]
+
+$$
+R
+  貝 + 6
+U
+  U+8CCA
+V
+  ==
+  - caak3 (colloquial)
+  - caak6-2 (colloquial rising-tone noun)
+  ==
+W
+  ====
+  - [[Page~551 賊(9)]]
+    ==
+    - A thief, a robber, a highwayman;
+    - a bandit;
+    - seditious, those who rise against the government;
+    - the enemy;
+    - a term of contempt;
+    - to rob, to murder;
+    - to maltreat, to oppress;
+    - a fly in grain;
+    - _(5)l(o\) ts(')(a/)k(9)_
+        [[lou5 caak6-2 老賊]]
+        an old robber;
+    - _ts(')(a/)k(9) (2)k(o\)m (5)ng(a/)n_
+        [[caak6 gam2 ngaan5 賊噉眼]],
+        eyes sharp as a thief's;
+    - _ts(')(a/)k(9) (1)ping_
+        [[caak6 bing1 賊兵]],
+        the enemy's force;
+    - _(2)hoi ts(')(a/)k(9)_
+        [[hoi2 caak6 海賊]]
+        a pirate, corsair, freebooter;
+    - _ts(')(a/)k(9) (4)t(')au_
+        [[caak6 tau4-2 賊頭]],
+        a ringleader of robbers;
+    - _ts(')(a/)k(9) (2)tsai_
+        [[caak6-2 zai2 賊仔]],
+        a rascal, a pilferer;
+    - _ts(o\)(6) ts(')(a/)k(9)_
+        [[zou6 caak6-2 做賊]]
+        to turn robber;
+    - _ts(')(a/)k(9) (1)chong_
+        [[caak6 zong1 賊贓]],
+        booty;
+    - _ts(')(a/)k(9) (4)ying_
+        [[caak6-2 jing4 賊型]],
+        a susplcious looking fellow.
+    ==
+  ====
+$$
+
 ###+ 鰂6 | _Ts(')(a/)k(9)_ [[caak6]]
 
 $$
