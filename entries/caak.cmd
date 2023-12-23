@@ -55,6 +55,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $惻1
+- $測1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -75,6 +76,25 @@ C
 S
   ==
   - $惻cak1
+  ==
+$$
+
+###+ 測1 | _Ch(')(a/)k(7)_ [[caak1]]
+
+$$
+R
+  水 + 9
+U
+  U+6E2C
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation; **see $測cak1 for the canonical entry**.
+  ==
+S
+  ==
+  - $測cak1
   ==
 $$
 
