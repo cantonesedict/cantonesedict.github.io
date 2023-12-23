@@ -18,7 +18,7 @@ def is_bad_jyutping_heuristic(string):
     )
 
 
-def check_jyutping_heuristic(entry_cmd_name, cmd_content):
+def check_jyutping_heuristic(page_cmd_name, cmd_content):
     bad_jyutping_runs = [
         run
         for run in re.findall(pattern=r'\b[a-z]+[1-9]\b', string=cmd_content, flags=re.VERBOSE)
@@ -26,7 +26,7 @@ def check_jyutping_heuristic(entry_cmd_name, cmd_content):
     ]
     if bad_jyutping_runs:
         print(
-            f'Error in `{entry_cmd_name}`: bad Jyutping in {bad_jyutping_runs}',
+            f'Error in `{page_cmd_name}`: bad Jyutping in {bad_jyutping_runs}',
             file=sys.stderr,
         )
         sys.exit(1)
@@ -58,23 +58,23 @@ def gather_toned_characters_from_tone(cmd_content, tone_syllable_list):
     }
 
 
-def check_gathered_syllables(entry_cmd_name, tone_syllable_list):
+def check_gathered_syllables(page_cmd_name, tone_syllable_list):
     cmd_syllable = re.sub(
         pattern=r'entries/(?P<syllable>[a-z]+)\.cmd',
         repl=r'\g<syllable>',
-        string=entry_cmd_name,
+        string=page_cmd_name,
     )
 
     gathered_syllables = set(s for _, s in tone_syllable_list)
     if gathered_syllables and gathered_syllables != {cmd_syllable}:
         print(
-            f'Error in `{entry_cmd_name}`: gathered_syllables {gathered_syllables} != `{{{cmd_syllable}}}`',
+            f'Error in `{page_cmd_name}`: gathered_syllables {gathered_syllables} != `{{{cmd_syllable}}}`',
             file=sys.stderr,
         )
         sys.exit(1)
 
 
-def update_entry_tones_navigation(cmd_content, tone_syllable_list):
+def update_page_tones_navigation(cmd_content, tone_syllable_list):
     return re.sub(
         pattern=r'(?<=<## tones ##>\n).*?(?=<## /tones ##>\n)',
         repl=tones_navigation_cmd_content(tone_syllable_list),
@@ -83,7 +83,7 @@ def update_entry_tones_navigation(cmd_content, tone_syllable_list):
     )
 
 
-def update_entry_character_navigations(cmd_content, toned_characters_from_tone):
+def update_page_character_navigations(cmd_content, toned_characters_from_tone):
     for tone, toned_characters in toned_characters_from_tone.items():
         cmd_content = re.sub(
             pattern=fr'(?<=<## tone-{tone}-characters ##>\n).*?(?=<## /tone-{tone}-characters ##>\n)',
@@ -117,32 +117,32 @@ def character_navigation_cmd_content(toned_characters):
     ])
 
 
-def update_entry(entry_cmd_name):
-    with open(entry_cmd_name, 'r', encoding='utf-8') as old_cmd_file:
+def update_page(page_cmd_name):
+    with open(page_cmd_name, 'r', encoding='utf-8') as old_cmd_file:
         old_cmd_content = old_cmd_file.read()
 
-    check_jyutping_heuristic(entry_cmd_name, old_cmd_content)
+    check_jyutping_heuristic(page_cmd_name, old_cmd_content)
     tone_syllable_list = gather_tone_syllable_list(old_cmd_content)
-    check_gathered_syllables(entry_cmd_name, tone_syllable_list)
+    check_gathered_syllables(page_cmd_name, tone_syllable_list)
     toned_characters_from_tone = gather_toned_characters_from_tone(old_cmd_content, tone_syllable_list)
 
     new_cmd_content = old_cmd_content
-    new_cmd_content = update_entry_tones_navigation(new_cmd_content, tone_syllable_list)
-    new_cmd_content = update_entry_character_navigations(new_cmd_content, toned_characters_from_tone)
+    new_cmd_content = update_page_tones_navigation(new_cmd_content, tone_syllable_list)
+    new_cmd_content = update_page_character_navigations(new_cmd_content, toned_characters_from_tone)
 
     if new_cmd_content == old_cmd_content:
         return
 
-    with open(entry_cmd_name, 'w', encoding='utf-8') as new_cmd_file:
+    with open(page_cmd_name, 'w', encoding='utf-8') as new_cmd_file:
         new_cmd_file.write(new_cmd_content)
 
 
-def update_entries(entry_cmd_names):
-    for entry_cmd_name in entry_cmd_names:
-        update_entry(entry_cmd_name)
+def update_pages(page_cmd_names):
+    for page_cmd_name in page_cmd_names:
+        update_page(page_cmd_name)
 
 
-def gather_entry_cmd_names():
+def gather_page_cmd_names():
     return sorted([
         os.path.join(directory_path, file_name)
         for directory_path, _, file_names in os.walk('entries/')
@@ -152,8 +152,8 @@ def gather_entry_cmd_names():
 
 
 def main():
-    entry_cmd_names = gather_entry_cmd_names()
-    update_entries(entry_cmd_names)
+    page_cmd_names = gather_page_cmd_names()
+    update_pages(page_cmd_names)
 
 
 if __name__ == '__main__':
