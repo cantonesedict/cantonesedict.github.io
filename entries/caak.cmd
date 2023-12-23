@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [caak1](#1)
 - [caak3](#3)
 ==
 </nav>
@@ -44,6 +45,36 @@ MP
 S
   ==
   - $cak
+  ==
+$$
+
+
+##{#1 .modern} Ch(')(a/)k(7) [[caak1 高陰入]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $惻1
+==
+</nav>
+<## /tone-1-characters ##>
+
+###+ 惻1 | _Ch(')(a/)k(7)_ [[caak1]]
+
+$$
+R
+  心 + 9
+U
+  U+60FB
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation; **see $惻cak1 for the canonical entry**.
+  ==
+S
+  ==
+  - $惻cak1
   ==
 $$
 
