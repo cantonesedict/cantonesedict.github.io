@@ -269,7 +269,7 @@ W
 $$
 
 
-##{#6 .williams} Ch(')(a/)k(9) Ts(')(a/)k(9) [[caak6 陽入]]
+##{#6 .williams} Ts(')(a/)k(9) [[caak6 陽入]]
 
 ###+ 鰂6 | _Ts(')(a/)k(9)_ [[caak6]]
 
