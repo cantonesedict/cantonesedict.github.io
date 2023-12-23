@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caak
-* %date-modified --> 2023-12-22
+* %date-modified --> 2023-12-23
 * %copyright-prior-years -->
 
 %%%
@@ -40,6 +40,10 @@ WP
 MP
   ==
   - caak = [tsʰaːk̚], [tɕʰaːk̚]
+  ==
+S
+  ==
+  - $cak
   ==
 $$
 
