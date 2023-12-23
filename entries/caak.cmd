@@ -105,11 +105,66 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $冊3
+- $册3
 - $策3
 - $茦3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+###+ 冊3 | _Ch(')(a/)k(8)_ [[caak3]]
+
+$$
+R
+  冂 + 3
+U
+  U+518A
+A
+  ==
+  - $册3
+  ==
+W
+  ====
+  - [[Page~14|n57 册(8); here normalised to 冊]]
+    ==
+    - A slip;
+    - an inventory, a register, a list;
+    - a patent or commission of nobility;
+    - a census book;
+    - to choose;
+    - to plan, to make a plan or scheme;
+    - _(4)t(')(i/)n ch(')(a/)k(8)_
+        [[tin4 caak3 填冊]]
+        to enrol, to write a list;
+    - _(u/)(6) (2)hau ch(')(a/)k(8)_
+        [[wu6 hau2 caak3 戶口冊]]
+        a register, a census of people;
+    - _(4)p(')(a/)i (4)m(u/)n ch(')(a/)k(8)_
+        [[paai4 mun4 caak3 排門冊]]
+        the register of families;
+    - _(4)wong ch(')(a/)k(8)_
+        [[wong4 caak3 皇冊]]
+        imperial census.
+    ==
+  ====
+$$
+
+### 册3 | _Ch(')(a/)k(8)_ [[caak3]]
+
+$$
+R
+  冂 + 3
+U
+  U+518C
+W
+  ====
+  - [[Page~14|n57 册(8)]]
+    --
+    [[Alternative form of 冊. **See $冊caak3 for the canonical entry.**]]
+    --
+  ====
+$$
 
 ### 策3 | _Ch(')(a/)k(8)_ [[caak3]]
 
