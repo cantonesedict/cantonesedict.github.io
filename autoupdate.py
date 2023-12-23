@@ -142,6 +142,19 @@ def update_pages(page_cmd_names):
         update_page(page_cmd_name)
 
 
+def count_entries(cmd_content, category):
+    if category == 'all':
+        regex_pattern = r'^#{3}(?!#)'
+    elif category == 'present':
+        regex_pattern = r'^#{3}(?= )'
+    elif category == 'added':
+        regex_pattern = r'^#{3}(?=\+)'
+    else:
+        raise ValueError
+
+    return len(re.findall(pattern=regex_pattern, string=cmd_content, flags=re.MULTILINE))
+
+
 def gather_page_cmd_names():
     return sorted([
         os.path.join(directory_path, file_name)
@@ -151,9 +164,36 @@ def gather_page_cmd_names():
     ])
 
 
+def gather_page_cmd_contents(page_cmd_names):
+    cmd_contents = []
+
+    for page_cmd_name in page_cmd_names:
+        with open(page_cmd_name, 'r', encoding='utf-8') as cmd_file:
+            cmd_content = cmd_file.read()
+
+        cmd_contents.append(cmd_content)
+
+    return cmd_contents
+
+
 def main():
     page_cmd_names = gather_page_cmd_names()
     update_pages(page_cmd_names)
+
+    cmd_contents = gather_page_cmd_contents(page_cmd_names)
+    page_count = len(page_cmd_names)
+    wip_count = sum('work in progress' in cmd_content.lower() for cmd_content in cmd_contents)
+    entry_count = sum(count_entries(cmd_content, category='all') for cmd_content in cmd_contents)
+    present_count = sum(count_entries(cmd_content, category='present') for cmd_content in cmd_contents)
+    added_count = sum(count_entries(cmd_content, category='added') for cmd_content in cmd_contents)
+
+    print(f'Statistics:')
+    print(f'- {page_count} pages')
+    print(f'  - {wip_count}/{page_count} = {wip_count/page_count :.1%} work in progress')
+    print(f'  - {page_count - wip_count}/{page_count} = {(page_count - wip_count)/page_count :.1%} done')
+    print(f'- {entry_count} entries')
+    print(f'  - {present_count}/{entry_count} = {present_count/entry_count :.1%} present')
+    print(f'  - {added_count}/{entry_count} = {added_count/entry_count :.1%} added')
 
 
 if __name__ == '__main__':
