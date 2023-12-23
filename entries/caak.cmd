@@ -107,6 +107,7 @@ $$
 =={.modern}
 - $冊3
 - $册3
+- $坼3
 - $拆3
 - $柵3
 - $栅3
@@ -169,6 +170,57 @@ W
   ====
 $$
 
+### 坼3 | _Ch(')(a/)k(8)_ [[caak3]]
+
+$$
+R
+  土 + 5
+U
+  U+577C
+A
+  ==
+  - $拆3
+  ==
+W
+  ====
+  - [[Page~14|n57 坼(8)]]
+    ==
+    - To rive, to crack;
+    - to open, to burst open, as buds;
+    - split, riven, cracked;
+    - _k(a/)p(8) ch(')(a/)k(8)_
+        [[gaap3 caak3 甲坼]]
+        bursting of buds;
+    - _(2)h(o\)m ch(')(a/)k(8)_
+        [[ham2 caak3 砍坼]]
+        cracked, as a bowl;
+    - _ch(')(a/)k(8) ch(')(a/)k(8) t(i/)(6) (1)sheng_
+        [[caak3 caak3 dei6-2 seng1 坼坼地聲]],
+        a wheezing, cracked voice.
+    ==
+  - [[Page~14|n57 拆(8); here normalised to 坼]]
+    ==
+    - [[...]]
+    - _ch(')(a/)k(8) (2)hau yat(9)_
+        [[caak3 hau2 jat6-2 坼口日]]
+        unlucky days for consulting;
+    - _ch(')(a/)k(8) (2)hau (1)k(o\) y(e/)uk(9)_
+        [[caak3 hau2 gou1 joek6 坼口膏藥]]
+        plasters for chapped feet.
+    ==
+  ====
+E
+  ====
+  - 【爆坼】 (baau3 caak3):
+    ++
+    1. Chapped.
+       ==
+       - 皮膚爆嗮坼 (pei4 fu1 baau3 saai3 caak3): "[The] skin's all chapped."
+       ==
+    ++
+  ====
+$$
+
 ### 拆3 | _Ch(')(a/)k(8)_ [[caak3]]
 
 $$
@@ -202,14 +254,6 @@ W
     - _(5)yau mat(7) ch(')(a/)k(8) f(a/)t(8)_
         [[jau5 mat1 caak3 faat3 有乜拆法]]
         what way shall we arrange the matter?
-<##
-    - _ch(')(a/)k(8) (2)hau yat(9)_
-        [[caak3 hau2 jat6 坼口日]]
-        unlucky days for consulting;
-    - _ch(')(a/)k(8) (2)hau (1)k(o\) y(e/)uk(9)_
-        [[caak3 hau2 gou1 joek6 坼口膏藥]]
-        plasters for chapped feet.
-##>
     - [[see $坼caak3 for "cracked" senses]].
     ==
   ====
