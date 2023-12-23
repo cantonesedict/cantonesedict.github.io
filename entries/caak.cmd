@@ -107,6 +107,8 @@ $$
 =={.modern}
 - $冊3
 - $册3
+- $柵3
+- $栅3
 - $策3
 - $茦3
 ==
@@ -162,6 +164,53 @@ W
   - [[Page~14|n57 册(8)]]
     --
     [[Alternative form of 冊. **See $冊caak3 for the canonical entry.**]]
+    --
+  ====
+$$
+
+###+ 柵3 | _Ch(')(a/)k(8)_ [[caak3]]
+
+$$
+R
+  木 + 5
+U
+  U+67F5
+A
+  ==
+  - $栅3
+  ==
+W
+  ====
+  - [[Page~14|n57 栅(8); here normalised to 柵]]
+    ==
+    - Posts of a stockade;
+    - a railing;
+    - a palisade;
+    - _(1)hon ch(')(a/)k(8)_
+        [[hon1 caak3 看柵]]
+        a guard at gates;
+    - _ch(')(a/)k(8) (4)l(a/)n_
+        [[caak3 laan4 柵欄]],
+        gateway of streets;
+    - _(4)m(u/)n ch(')(a/)k(8)_
+        [[mun4 caak3 門柵]]
+        door posts.
+    ==
+  ====
+$$
+
+### 栅3 | _Ch(')(a/)k(8)_ [[caak3]]
+
+$$
+R
+  木 + 5
+U
+  U+6805
+W
+  ====
+  - [[Page~14|n57 栅(8)]]
+    --
+    [[Alternative form of 柵. **See $柵caak3 for the canonical entry.**]]
     --
   ====
 $$
