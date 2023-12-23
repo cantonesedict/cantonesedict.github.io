@@ -373,11 +373,31 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $蠈6
 - $賊6
 - $鰂6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 蠈6 | _Ts(')(a/)k(9)_ [[caak6]]
+
+$$
+R
+  虫 + 13
+U
+  U+8808
+W
+  ====
+  - [[Page~551 蠈(9)]]
+    ==
+    - A fly which eats the grain at its joints;
+    - a sort of Hessian fly,
+      commonly called _(4)wong (4)ch(')ung_ [[wong4 cung4 黃蟲]]
+      or the yellow bug.
+    ==
+  ====
+$$
 
 ### 賊6 | _Ts(')(a/)k(9)_ [[caak6]]
 
