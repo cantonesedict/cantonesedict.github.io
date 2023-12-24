@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $斟1
+- $椹1
 - $砧1
 - $碪1
 - $箴1
@@ -97,6 +98,35 @@ C
   - Williams' 斟茶: Extendable to 斟茶遞水, "pour tea [and] pass [the] water"
     (figuratively, menial work).
   - Williams' 細斟: Corrected _sai(6)_ [[sai6]] to _sai(3)_ [[sai3]].
+  ==
+$$
+
+### 椹1 | _(1)Cham_ [[zam1]]
+
+$$
+R
+  木 + 9
+U
+  U+6939
+W
+  ====
+  - [[Page~14|n57 (1)椹]]
+    --
+    Used for _sham[(6)]_ [[sam6]] $葚6, the mulberry seed.
+    --
+    ==
+    - An ax or bill;
+    - a staff.
+    ==
+  ====
+C
+  ==
+  - Williams' 葚: Changed improper reading _(4)sham_ [[sam4]] to _sham(6)_ [[sam6]].
+  ==
+S
+  ==
+  - $葚sam4 (TODO)
+  - $葚sam6 (TODO)
   ==
 $$
 
