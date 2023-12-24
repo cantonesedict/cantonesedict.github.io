@@ -96,10 +96,16 @@ W
 C
   ==
   - Williams' 斟綏咯: Corrected _lok(9)_ [[lok6]] to _lok(8)_ [[lok3]].
-  - Williams' 斟茶: Extendable to 斟茶遞水, "pour tea [and] pass [the] water"
-    (figuratively, menial work).
   - Williams' 細斟: Corrected _sai(6)_ [[sai6]] to _sai(3)_ [[sai3]].
   ==
+E
+  ====
+  - 【斟茶遞水】 (zam1 caa4 dai6 seoi2):
+    ++
+    1. Literally "pour tea [and] pass [the] water";
+       figuratively, menial work.
+    ++
+  ====
 $$
 
 ### 椹1 | _(1)Cham_ [[zam1]]
