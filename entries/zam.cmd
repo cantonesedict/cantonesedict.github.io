@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $砧1
+- $碪1
 - $箴1
 - $針1
 - $鍼1
@@ -90,6 +91,22 @@ C
   ==
   - Williams' 砧板: Now chopping boards in general (not necessarily a butcher's).
   ==
+$$
+
+### 碪1 | _(1)Cham_ [[zam1]]
+
+$$
+R
+  石+ 9
+U
+  U+78AA
+W
+  ====
+  - [[Page~14|n57 (1)砧(1)碪]]
+    --
+    [[Alternative form of 砧. **See $砧zam1 for the canonical entry.**]]
+    --
+  ====
 $$
 
 ### 箴1 | _(1)Cham_ [[zam1]]
