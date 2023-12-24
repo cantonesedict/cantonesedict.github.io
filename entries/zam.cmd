@@ -49,12 +49,48 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $砧1
 - $箴1
 - $針1
 - $鍼1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 砧1 | _(1)Cham_ [[zam1]]
+
+$$
+R
+  石 + 5
+U
+  U+7827
+A
+  ==
+  - $碪1
+  ==
+W
+  ====
+  - [[Page~14|n57 (1)砧(1)碪]]
+    ==
+    - A stone to beat clothes on;
+    - an anvil;
+    - a block for lifting by athletes;
+    - _muk(9) (1)cham_
+        [[muk6 zam1 木砧]],
+        a horse block;
+    - _(1)ch(u") (2)p(i/) (1)cham_
+        [[zyu1 bei2 zam1 豬髀砧]],
+        a fillet of pork;
+    - _(1)cham (2)p(a/)n_
+        [[zam1 baan2 砧板]],
+        a cutting board, used by butchers.
+    ==
+  ====
+C
+  ==
+  - Williams' 砧板: Now chopping boards in general (not necessarily a butcher's).
+  ==
+$$
 
 ### 箴1 | _(1)Cham_ [[zam1]]
 
