@@ -49,11 +49,41 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $箴1
 - $針1
 - $鍼1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 箴1 | _(1)Cham_ [[zam1]]
+
+$$
+R
+  竹 + 9
+U
+  U+7BB4
+W
+  ====
+  - [[Page~14|n57 (1)箴]]
+    --
+    Used for the last [[$針1]].
+    --
+    ==
+    - A probe, a surgeon's needle;
+    - to probe;
+    - a caution, a check;
+    - pointed, urgent;
+    - to exhort, to rebuke, to urge to reform;
+    - _(1)cham (1)kw(')ai_
+        [[zam1 kwai1 箴規]]
+        admonition, rebukes;
+    - _(1)cham (4)ming_
+        [[zam1 ming4 箴銘]],
+        cautionary maxims.
+    ==
+  ====
+$$
 
 ### 針1 | _(1)Cham_ [[zam1]]
 
