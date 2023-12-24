@@ -49,6 +49,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $斟1
 - $砧1
 - $碪1
 - $箴1
@@ -57,6 +58,47 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 斟1 | _(1)Cham_ [[zam1]]
+
+$$
+R
+  斗 + 9
+U
+  U+659F
+W
+  ====
+  - [[Page~14|n57 (1)斟]]
+    ==
+    - To pour from or into;
+    - to lade out, to lighten;
+    - to deliberate, to adjust;
+    - a ladle, a spoon;
+    - _(1)cham (5)t(')o lok(8)_
+        [[zam1 to5 lok3 斟綏咯]]
+        all well settled;
+    - _(4)t(')ung (5)n(i/) (1)cham (1)cham_
+        [[tung4 nei5 zam1 zam1 同你斟斟]],
+        let us talk it over;
+    - _(1)cham (4)ch(')(a/)_
+        [[zam1 caa4 斟茶]],
+        to pour out tea;
+    - _sai[(3)] (1)cham_
+        [[sai3 zam1 細斟]],
+        to whisper;
+    - _(1)cham ch(e/)uk(8)_
+        [[zam1 zoek3 斟酌]]
+        to consult about.
+    ==
+  ====
+C
+  ==
+  - Williams' 斟綏咯: Corrected _lok(9)_ [[lok6]] to _lok(8)_ [[lok3]].
+  - Williams' 斟茶: Extendable to 斟茶遞水, "pour tea [and] pass [the] water"
+    (figuratively, menial work).
+  - Williams' 細斟: Corrected _sai(6)_ [[sai6]] to _sai(3)_ [[sai3]].
+  ==
+$$
 
 ### 砧1 | _(1)Cham_ [[zam1]]
 
