@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zam1](#1)
+- [zam2](#2)
 ==
 </nav>
 <## /tones ##>
@@ -274,4 +275,89 @@ W
     [[Alternative form of 針. **See $針zam1 for the canonical entry.**]]
     --
   ====
+$$
+
+
+##{#2 .williams} (2)Cham (2)Tsam [[zam2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $枕2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 枕2 | _(2)Cham_ [[zam2]]
+
+$$
+R
+  木 + 4
+U
+  U+6795
+W
+  ====
+  - [[Page~14|n57 (2)枕]]
+    ==
+    - A pillow; a stake;
+    - a crossbar in a carriage;
+    - [[see $枕zam3 for verb senses]]
+    <##
+    - to pillow on, to lie near to;
+    - contiguous, adjacent, lying on;
+    - _(2)sz' (2)ch(e/) (1)s(e/)ung cham[(3)] tsik(9)_
+        [[si2 ze2 soeng1 zam3 zik6 / sei2 ze2 soeng1 zam3 zik6 死者相枕藉]]
+        the dead lay pillowed on each other;
+    ##>
+    - _(2)cham (1)p(i/)n_
+        [[zam2 bin1 枕邊]],
+        in bed, in private;
+    - _(2)cham p(u/)n(6)_
+        [[zam2 bun6 枕伴]]
+        a bedfellow;
+    - _(2)cham tsik(9) (4)n(a/)n (1)on_
+        [[zam2 zik6 naan4 on1 枕席難安]],
+        cares disturb his pillow, harassed;
+    - _(5)(i/) (2)cham_
+        [[ji5 zam2 耳枕]],
+        a support for the ear;
+    - [[...]]
+    <##
+    - _[k(')uk](7) (1)kwang (4)(i/) cham[(3)]_
+        [[kuk1 gwang1 ji4 zam3 曲肱而枕]],
+        pillowed on his arm;
+    ##>
+    - _(2)cham (4)t(')au_
+        [[zam2 tau4 枕頭]],
+        a pillow;
+    - _(2)cham kwat(7)_
+        [[zam2 gwat1 枕骨]]
+        the occiput;
+    - _(1)on (2)cham (4)m(o\) (1)yau_
+        [[on1 zam2 mou4 jau1 安枕無憂]],
+        to sleep quietly.
+    ==
+    --
+    As a verb, also read _cham(3)_ [[zam3]] [[**see $枕zam3**]].
+    --
+  ====
+C
+  ==
+  - Williams' also read _cham(3)_:
+    Strictly, the verb sense should *only*
+    be read in the departing tone _cham(3)_ (zam3).
+    The rising tone reading _(2)cham_ (zam2) is for the noun sense.
+    I have split things up accordingly.
+  ==
+E
+  ====
+  - 【後尾枕】 (hau6 mei5 zam2):
+    ++
+    1. The occiput (back of the head/skull).
+    ++
+  ====
+S
+  ==
+  - $枕zam3 (TODO)
+  ==
 $$
