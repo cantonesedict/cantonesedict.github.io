@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2023-12-24
+* %date-modified --> 2023-12-26
 * %copyright-prior-years -->
 
 %%%
@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [zam1](#1)
 - [zam2](#2)
+- [zam3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -308,13 +309,6 @@ W
     - A pillow; a stake;
     - a crossbar in a carriage;
     - [[see $枕zam3 for verb senses]]
-    <##
-    - to pillow on, to lie near to;
-    - contiguous, adjacent, lying on;
-    - _(2)sz' (2)ch(e/) (1)s(e/)ung cham[(3)] tsik(9)_
-        [[si2 ze2 soeng1 zam3 zik6 / sei2 ze2 soeng1 zam3 zik6 死者相枕藉]]
-        the dead lay pillowed on each other;
-    ##>
     - _(2)cham (1)p(i/)n_
         [[zam2 bin1 枕邊]],
         in bed, in private;
@@ -328,11 +322,6 @@ W
         [[ji5 zam2 耳枕]],
         a support for the ear;
     - [[...]]
-    <##
-    - _[k(')uk](7) (1)kwang (4)(i/) cham[(3)]_
-        [[kuk1 gwang1 ji4 zam3 曲肱而枕]],
-        pillowed on his arm;
-    ##>
     - _(2)cham (4)t(')au_
         [[zam2 tau4 枕頭]],
         a pillow;
@@ -364,6 +353,60 @@ E
   ====
 S
   ==
-  - $枕zam3 (TODO)
+  - $枕zam3
+  ==
+$$
+
+
+##{#3 .williams} Cham(3) Tsam(3) [[zam3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $枕3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 枕3 | _Cham(3)_ [[zam3]]
+
+$$
+R
+  木 + 4
+U
+  U+6795
+W
+  ====
+  - [[Page~14|n57 (2)枕 _(2)Cham_ (zam2); here normalised to _Cham(3)_ (zam3)]]
+    ==
+    - [[See $枕zam2 for noun senses]]
+    - to pillow on, to lie near to;
+    - contiguous, adjacent, lying on;
+    - _(2)sz' (2)ch(e/) (1)s(e/)ung cham[(3)] tsik(9)_
+        [[si2 ze2 soeng1 zam3 zik6 / sei2 ze2 soeng1 zam3 zik6 死者相枕藉]]
+        the dead lay pillowed on each other;
+    - [[...]]
+    - _[k(')uk](7) (1)kwang (4)(i/) cham[(3)]_
+        [[kuk1 gwang1 ji4 zam3 曲肱而枕]],
+        pillowed on his arm;
+    - [[...]].
+    ==
+    --
+    As a verb, also read _cham(3)_ [[zam3]].
+    --
+  ====
+C
+  ==
+  - Williams' 曲肱而枕: Changed Middle Chinese _huk(7)_ (huk1)
+    to common reading _k(')uk(7)_ (kuk1).
+  - Williams' also read _cham(3)_:
+    Strictly, the verb sense should *only*
+    be read in the departing tone _cham(3)_ (zam3).
+    The rising tone reading _(2)cham_ (zam2) is for the noun sense.
+    I have split things up accordingly.
+  ==
+S
+  ==
+  - $枕zam2
   ==
 $$
