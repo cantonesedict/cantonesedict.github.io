@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caak
-* %date-modified --> 2023-12-23
+* %date-modified --> 2023-12-26
 * %copyright-prior-years -->
 
 %%%
@@ -256,8 +256,8 @@ C
   - Williams misprints 拆(8) as 拆(9).
   - Williams' 拆散:
     Note the subtle difference between the two readings
-    _ch(')(a/)k(8) s(a/)n(3)_ (caak3 saan3) "scatter" and
-    _ch(')(a/)k(8) (2)s(a/)n_ (caak3 saan2) "break up".
+    _ch(')(a/)k(8) s(a/)n(3)_ [[caak3 saan3]] "scatter" and
+    _ch(')(a/)k(8) (2)s(a/)n_ [[caak3 saan2]] "break up".
   ==
 $$
 
@@ -459,10 +459,10 @@ W
   [[Not present]]
 C
   ====
-  - An entry for the reading _ts(')(a/)k(9)_ (caak6)
+  - An entry for the reading _ts(')(a/)k(9)_ [[caak6]]
     is included here for completeness.
     ++
-    1. The cuttlefish, as in 鰞鰂 _(1)(u/) ts(')(a/)k(9)_ (wu1 caak6),
+    1. The cuttlefish, as in 鰞鰂 _(1)(u/) ts(')(a/)k(9)_ [[wu1 caak6]],
        also written 烏賊.
        Note that in Cantonese, it is usually called 墨魚, "inkfish".
     ++

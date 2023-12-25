@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aat
-* %date-modified --> 2023-08-14
+* %date-modified --> 2023-12-26
 * %copyright-prior-years -->
 
 %%%
@@ -260,8 +260,8 @@ W
   ====
 C
   ==
-  - Williams has the non-pawn senses under _(A/)p(8)_ (aap3)
-    and the pawn senses under _(A/)t(8)_ (aat3).
+  - Williams has the non-pawn senses under _(A/)p(8)_ [[aap3]]
+    and the pawn senses under _(A/)t(8)_ [[aat3]].
     Whilst aap3 is expected from Middle Chinese 烏甲切,
     the common reading of 押 is aat3.
     Note that 押 is (probably) cognate with 壓,

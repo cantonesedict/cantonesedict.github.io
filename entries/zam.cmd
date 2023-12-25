@@ -340,8 +340,8 @@ C
   ==
   - Williams' also read _cham(3)_:
     Strictly, the verb sense should *only*
-    be read in the departing tone _cham(3)_ (zam3).
-    The rising tone reading _(2)cham_ (zam2) is for the noun sense.
+    be read in the departing tone _cham(3)_ [[zam3]].
+    The rising tone reading _(2)cham_ [[zam2]] is for the noun sense.
     I have split things up accordingly.
   ==
 E
@@ -397,12 +397,12 @@ W
   ====
 C
   ==
-  - Williams' 曲肱而枕: Changed Middle Chinese _huk(7)_ (huk1)
-    to common reading _k(')uk(7)_ (kuk1).
+  - Williams' 曲肱而枕: Changed Middle Chinese _huk(7)_ [[huk1]]
+    to common reading _k(')uk(7)_ [[kuk1]].
   - Williams' also read _cham(3)_:
     Strictly, the verb sense should *only*
-    be read in the departing tone _cham(3)_ (zam3).
-    The rising tone reading _(2)cham_ (zam2) is for the noun sense.
+    be read in the departing tone _cham(3)_ [[zam3]].
+    The rising tone reading _(2)cham_ [[zam2]] is for the noun sense.
     I have split things up accordingly.
   ==
 S

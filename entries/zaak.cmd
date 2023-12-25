@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2023-12-22
+* %date-modified --> 2023-12-26
 * %copyright-prior-years -->
 
 %%%
@@ -606,8 +606,8 @@ C
   ====
   - Williams' also read _t(')ik(7)_ etc.: this is not quite correct.
     ==
-    - 摘 is also read _t(')ik(7)_ (tik1) (expected from 他歷切); but
-    - 翟 is also read _tik(9)_ (dik6) (expected from 徒歷切).
+    - 摘 is also read _t(')ik(7)_ [[tik1]] (expected from 他歷切); but
+    - 翟 is also read _tik(9)_ [[dik6]] (expected from 徒歷切).
     ==
   ====
 S
