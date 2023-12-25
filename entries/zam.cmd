@@ -383,9 +383,10 @@ W
 C
   ==
   - Williams' also read _cham(3)_:
-    Strictly, the verb sense should *only*
-    be read in the departing tone _cham(3)_ [[zam3]].
-    The rising tone reading _(2)cham_ [[zam2]] is for the noun sense.
+    Strictly, the literary verb sense should *only*
+    be read in the departing tone _cham(3)_ [[zam3]]
+    (notwithstanding some vernacular verb senses are in rising tone).
+    The rising tone reading _(2)cham_ [[zam2]] is for the literary noun sense.
     I have split things up accordingly.
   ==
 E
@@ -393,6 +394,13 @@ E
   - 【後尾枕】 (hau6 mei5 zam2):
     ++
     1. The occiput (back of the head/skull).
+    ++
+  - 【枕住】 (zam2 zyu6):
+    ++
+    1. Persistently, continually.
+       ==
+       - 枕住咳 (zam2 zyu6 kat1): "Persistently coughing."
+       ==
     ++
   ====
 S
@@ -419,6 +427,10 @@ R
   木 + 4
 U
   U+6795
+V
+  ==
+  - zam2 (colloquial verb senses)
+  ==
 W
   ====
   - [[Page~14|n57 (2)枕 _(2)Cham_ (zam2); here normalised to _Cham(3)_ (zam3)]]
@@ -444,9 +456,10 @@ C
   - Williams' 曲肱而枕: Changed Middle Chinese _huk(7)_ [[huk1]]
     to common reading _k(')uk(7)_ [[kuk1]].
   - Williams' also read _cham(3)_:
-    Strictly, the verb sense should *only*
-    be read in the departing tone _cham(3)_ [[zam3]].
-    The rising tone reading _(2)cham_ [[zam2]] is for the noun sense.
+    Strictly, the literary verb sense should *only*
+    be read in the departing tone _cham(3)_ [[zam3]]
+    (notwithstanding some vernacular verb senses are in rising tone).
+    The rising tone reading _(2)cham_ [[zam2]] is for the literary noun sense.
     I have split things up accordingly.
   ==
 S
