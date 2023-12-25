@@ -416,6 +416,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $枕3
+- $浸3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -466,4 +467,96 @@ S
   ==
   - $枕zam2
   ==
+$$
+
+### 浸3 | _Cham(3)_ _Tsam(3)_ [[zam3]]
+
+$$
+R
+  水 + 7
+U
+  U+6D78
+V
+  ==
+  - cam1 (in 浸淫 etc.)
+  - zam6 (colloquial for "drown" sense)
+  ==
+W
+  ====
+  - [[Page~15|n58 浸(3) _Cham(3)_]]
+    --
+    A colloquial word.
+    --
+    ==
+    - A coat, as of paint;
+    - a thickness, an envelop, a skin;
+    - _ts(')at(7) (1)s(a/)m cham(3)_
+        [[cat1 saam1 zam3 漆三浸]]
+        varnished it three times;
+    - _mok(7) yat(7) cham(3) (4)p(')(i/)_
+        [[mok1 jat1 zam3 pei4 剝一浸皮]],
+        pull off one covering.
+    ==
+  - [[Page~551 浸(3) _Tsam(3)_]]
+    ==
+    - To soak through, to penetrate;
+    - to saturate, to steep in, to macerate, to wet;
+    - to submerge, to immerse; to flood, to lay under water, as fields;
+    - drenched, wet, imbued with, watered;
+    - gradually, gently;
+    - _tsam(3) (2)sz'_
+        [[zam3 si2 / zam3 sei2 浸死]]
+        drowned;
+    - _tsam(3) (4)t(')ong_
+        [[zam3 tong4 浸糖]]
+        soaked in syrup;
+    - _tsam(3) yun(6)_
+        [[zam3 jeon6 浸潤]]
+        to imbue with, to prejudice against, to bias;
+    - _tsam(3) ch(a/)(6)_
+        [[zam3 zaa6 浸？]]
+        niggardly, closefisted;
+    - _(2)shui tsam(3)_
+        [[seoi2 zam3 水浸]]
+        overflowed;
+    - _hon(6) tsam(3) (4)hung (4)ng(a/)n_
+        [[hon6 zam3 hung4 ngaan4 汗浸紅顏]],
+        the perspiration rolled down his face;
+    - _tsam(3) shap(7)_
+        [[zam3 sap1 浸濕]],
+        wet it, soak it;
+    - _(2)p(i/) (2)shui tsam(3) ch(u")(6)_
+        [[bei2 seoi2 zam3 zyu6 畀水浸住]]
+        cover it with water;
+    - _k(')(i/) sh(u")t(8) [(1)ts(')am] (4)yam_
+        [[kei4 syut3 cam1 jam4 其說浸淫]],
+        his words are insidious and persuasive;
+    - _tsam(3) (2)tsau_
+        [[zam3 zau2 浸酒]],
+        spirits in which fruits have been soaked;
+    - _tsam(3) yap(9) (1)sam_
+        [[zam3 jap6 sam1 浸入心]],
+        it is wet through.
+    ==
+  ====
+C
+  ==
+  - Williams' zam3 zaa6: Not sure which zaa6 means "niggardly, closefisted" (that is, stingy).
+    Also, no entry appears in Williams with the reading _ch(a/)(6)_ [[zaa6]].
+  - Williams' 水浸: Not overflowed, but flooded.
+  - Williams' 汗浸紅顏: Although 紅顏 does not preclude men,
+    it is generally used to describe a lady's face.
+  - Williams' 其說浸淫: Corrected _tsam(3)_ [[zam3]] to _(1)ts(')am_ [[cam1]].
+  ==
+E
+  ====
+  - 【浸】 (zam3):
+    ++
+    1. Classifier for layers.
+       ==
+       - 剷甩浸油 (caan2 lat1 zam3 jau4-2): "Strip away [the] layer of paint."
+       - 有浸肥膏 (jau5 zam3 fei4 gou1): "There's [a] layer of fat."
+       ==
+    ++
+  ====
 $$
