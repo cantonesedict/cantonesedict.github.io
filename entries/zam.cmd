@@ -290,10 +290,54 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $怎2
 - $枕2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 怎2 | _(2)Cham_ _(2)Tsam_ [[zam2]]
+
+$$
+R
+  心 + 5
+U
+  U+600E
+W
+  ====
+  - [[Page~15|n58 (2)怎 _(2)Cham_]]
+    ==
+    - An interrogative word;
+    - what, how?
+    - _(2)cham y(e/)ung(6)_
+        [[zam2 joeng6 怎樣]]
+        in what manner;
+    - _(2)cham tik(7)_
+        [[zam2 dik1 怎的]]
+        what?
+    - _(2)cham (1)shang (2)t(a/) p(a/)n(6)_
+        [[zam2 sang1 daa2 baan6 怎生打扮]]
+        how would he look?
+    - _(2)cham (2)k(o\)m pat(7) (1)tai (4)t(')au_
+        [[zam2 gam2 bat1 dai1 tau4 怎敢不低頭]],
+        how could I decline assent?
+    ==
+  - [[Page~551 (2)怎 _(2)Tsam_]]
+    ==
+    - What?
+    - _(2)tsam (1)mo_
+        [[zam2 mo1 怎麼]],
+        what?
+    - _(2)tsam (2)kong_
+        [[zam2 gong2 怎講]],
+        what does he say?
+        used in the court dialect.
+    ==
+    --
+    This is usually read _(2)sham_ [[sam2]].
+    --
+  ====
+$$
 
 ### 枕2 | _(2)Cham_ [[zam2]]
 
