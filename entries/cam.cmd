@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [cam2](#2)
+- [cam3](#3)
 - [cam4](#4)
 ==
 </nav>
@@ -86,6 +87,37 @@ C
 S
   ==
   - $魫cam4
+  ==
+$$
+
+
+##{#3 .williams} Ch(')am(3) [[cam3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $譖3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 譖3 | _Ch(')am(3)_ [[cam3]]
+
+$$
+R
+  言 + 12
+U
+  U+8B56
+W
+  ====
+  - [[Page~15|n58 譖(3)]]
+    --
+    [[Reading variation; **see $譖zam3 for the canonical entry**.]]
+    --
+  ====
+S
+  ==
+  - $譖zam3 (TODO)
   ==
 $$
 
