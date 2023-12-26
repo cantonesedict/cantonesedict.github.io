@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [cam2](#2)
 - [cam4](#4)
 ==
 </nav>
@@ -40,6 +41,51 @@ WP
 MP
   ==
   - cam = [tsʰɐm], [tɕʰɐm]
+  ==
+$$
+
+
+##{#2 .williams} (2)Ch(')am (2)Ts(')am [[cam2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $魫2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 魫2 | _(2)Ch(')am_ [[cam2]]
+
+$$
+R
+  魚 + 4
+U
+  U+9B6B
+W
+  ====
+  - [[Page~15|n58 (2)[魫]<` `>]]
+    --
+    [[Idiosyncratic reading from Williams; **see $魫cam4 for the canonical entry**.]]
+    --
+  ====
+C
+  ====
+  - Williams misprints 魫 as 𩵫 (⿰冘魚).
+  - Williams' placement under _(2)Ch(')am_ [[cam2]] is idiosyncratic
+    because it does not follow any of the following:
+    ==
+    - zam2 from 《分韻撮要》 (which places it between 枕 and 怎)
+    - cam4 from 《集韻》又持林切
+    - sam2 from 《廣韻》式任切 rising.
+    ==
+    Alternatively, it is possible that
+    Williams has simply misprinted (4)魫 as (2)魫,
+    in which case _(2)ch(')am_ [[cam4]] is intended.
+  ====
+S
+  ==
+  - $魫cam4 (TODO)
   ==
 $$
 
