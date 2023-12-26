@@ -416,6 +416,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $枕3
+- $沁3
 - $浸3
 ==
 </nav>
@@ -466,6 +467,27 @@ C
 S
   ==
   - $枕zam2
+  ==
+$$
+
+### 沁3 | _Tsam(3)_ [[zam3]]
+
+$$
+R
+  水 + 4
+U
+  U+6C81
+W
+  ==
+  - [[Page~551 沁(3)]]
+    --
+    [[Idiosyncratic reading from 《分韻撮要》; **see $沁sam3 for the canonical entry**.]]
+    --
+  ==
+S
+  ==
+  - $沁cam3 (TODO)
+  - $沁sam3 (TODO)
   ==
 $$
 
