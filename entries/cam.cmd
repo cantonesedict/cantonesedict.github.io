@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [cam1](#1)
 - [cam2](#2)
 - [cam3](#3)
 - [cam4](#4)
@@ -46,15 +47,114 @@ MP
 $$
 
 
+##{#1 .williams} (1)Ts(')am [[cam1 陰平]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $侵1
+==
+</nav>
+<## /tone-1-characters ##>
+
+### 侵1 | _(1)Ts(')am_ [[cam1]]
+
+$$
+R
+  人 + 7
+U
+  U+4FB5
+W
+  ====
+  - [[Page~552 (1)侵]]
+    ==
+    - To usurp, to incroach upon, to enter gradually;
+    - to appropriate, to plunder, to invade;
+    - possessed, by as a spirit;
+    - bad, calamitous, as a year;
+    - _(1)ts(')am hoi(6)_
+        [[cam1 hoi6 侵害]]
+        to injure insensibly;
+    - _(1)ts(')am ch(i/)m(3)_
+        [[cam1 zim3 侵佔]]
+        to unjustly incroach on;
+    - _(1)ts(')am (2)p(u/)n_
+        [[cam1 bun2 侵本]],
+        to draw on the principal;
+    - _(1)ts(')am tik(7) yap(9) h(u")(3)_
+        [[cam1 dik1 jap6 heoi3 侵滴入去]]
+        stick in a few bad ones;
+    - _(1)ts(')am (1)p(i/)n (4)p(')(a/)i_
+        [[cam1 bin1 paai4-2 侵辮牌]],
+        to braid in false hair;
+    - _t(a/)i(6) (1)ts(')am (1)ch(i/) (4)n(i/)n_
+        [[daai6 cam1 zi1 nin4 大侵之年]],
+        a bad year;
+    - _(1)ts(')am (4)ling_
+        [[cam1 ling4 侵凌]],
+        to intimidate, to oppress.
+    ==
+    --
+    Read _(2)ts(')am_ [[cam2]]; [[**see $侵cam2**]].
+    --
+  ====
+E
+  ====
+  - 【侵】 (cam1):
+    ++
+    1. To add in.
+       ==
+       - 侵水 (cam1 seoi2): "Add in [some] water."
+       ==
+    1. To join in.
+       ==
+       - 侵埋我玩吖 (cam1 maai4 ngo5 waan2 a1): "[Let] me join in too."
+       ==
+    ++
+  ====
+S
+  ==
+  - $侵cam2
+  ==
+$$
+
+
 ##{#2 .williams} (2)Ch(')am (2)Ts(')am [[cam2 陰上]]
 
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $侵2
 - $魫2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 侵2 | _(2)Ts(')am_ [[cam2]]
+
+$$
+R
+  人 + 7
+U
+  U+4FB5
+W
+  ====
+  - [[Page~552 (1)侵]]
+    --
+    [[...]]
+    --
+    --
+    Read _(2)ts(')am_ [[cam2]];
+    --
+    ==
+    - diminutive, small.
+    ==
+  ====
+S
+  ==
+  - $侵cam1
+  ==
+$$
 
 ### 魫2 | _(2)Ch(')am_ [[cam2]]
 
