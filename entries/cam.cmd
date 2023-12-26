@@ -85,7 +85,7 @@ C
   ====
 S
   ==
-  - $魫cam4 (TODO)
+  - $魫cam4
   ==
 $$
 
@@ -98,6 +98,7 @@ $$
 - $沈4
 - $沉4
 - $霃4
+- $魫4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -198,4 +199,39 @@ W
         dull, rainy-looking.
     ==
   ====
+$$
+
+###+ 魫4 | _(4)Ch(')am_ [[cam4]]
+
+$$
+R
+  魚 + 4
+U
+  U+9B6B
+V
+  ==
+  - cam2 (probably errant)
+  - sam2 (expected from 式任切 rising)
+  - zam2 (uncommon)
+  ==
+W
+  ====
+  - [[Page~15|n58 (2)[魫] _(2)Ch(')am_ (cam2); here normalised to _(4)Ch(')am_ (cam4)]]
+    ==
+    - The roe or eggs of fish;
+    - the name of a fish.
+    ==
+  ====
+C
+  ====
+  - Williams misprints 魫 as 𩵫 (⿰冘魚).
+  - The probably errant reading cam2 is that given by Williams;
+    see $魫cam2 for commentary.
+  - The uncommon reading zam2 is that given in 《分韻撮要》.
+  - The reading cam4 is not unattested; Kangxi quotes 《集韻》又持林切音沉.
+  ====
+S
+  ==
+  - $魫cam2
+  ==
 $$
