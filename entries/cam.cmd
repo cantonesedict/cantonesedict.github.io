@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $沈4
 - $沉4
+- $霃4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -132,4 +133,23 @@ C
     to common reading _nik(7)_ [[nik1]].
   - Williams' 沉重: Corrected _chung(6)_ [[zung6 去聲]] to _(5)ch(')ung_ [[cung5 上聲]].
   ==
+$$
+
+### 霃4 | _(4)Ch(')am_ [[cam4]]
+
+$$
+R
+  雨 + 7
+U
+  U+9703
+W
+  ====
+  - [[Page~15|n58 (4)霃]]
+    ==
+    - Dark, cloudy for a long time;
+    - _(1)yam (1)yam (4)ch(')am (4)ch(')am_
+        [[jam1 jam1 cam4 cam4 陰陰霃霃]],
+        dull, rainy-looking.
+    ==
+  ====
 $$
