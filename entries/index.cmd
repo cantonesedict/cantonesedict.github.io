@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of entries by Jyutping
-* %date-modified --> 2023-12-23
+* %date-modified --> 2023-12-26
 * %copyright-prior-years -->
 
 OrdinaryDictionaryReplacement: #.no-black-serif-note
@@ -811,7 +811,7 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 - $zaau (work in progress)
 - $zai
 - $zak
-- $zam (work in progress)
+- $zam
 - $zan (work in progress)
 - $zang (work in progress)
 - $zap (work in progress)
