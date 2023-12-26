@@ -413,6 +413,7 @@ $$
 - $枕3
 - $沁3
 - $浸3
+- $譖3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -576,6 +577,41 @@ E
        ==
     ++
   ====
+$$
+
+###+ 譖3 | _Cham(3)_ [[zam3]]
+
+$$
+R
+  言 + 12
+U
+  U+8B56
+V
+  ==
+  - cam3
+  ==
+W
+  ====
+  - [[Page~15|n58 譖(3) _Ch(')am(3)_ (cam3); here normalised to _Cham(3)_ (zam3)]]
+    ==
+    - To slander, to vilify;
+    - to discredit;
+    - _[cham](3) (4)(i/)n_
+        [[zam3 jin4 譖言]],
+        slanderous aspersions;
+    - _[cham](3) (4)yan_
+        [[zam3 jan4 譖人]],
+        to asperse one.
+    ==
+  ====
+C
+  ==
+  - The reading cam3 is that given in 《分韻撮要》.
+  ==
+S
+  ==
+  - $譖cam3
+  ==
 $$
 
 
