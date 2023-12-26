@@ -97,6 +97,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $譖3
+- $讖3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -119,6 +120,52 @@ S
   ==
   - $譖zam3
   ==
+$$
+
+### 讖3 | _Ch(')am(3)_ [[cam3]]
+
+$$
+R
+  言 + 17
+U
+  U+8B96
+A
+  ==
+  -{.modern} 唚 (for colloquial "long-winded" sense)
+  ==
+W
+  ====
+  - [[Page~15|n58 讖(3)]]
+    ==
+    - To verify, to prove;
+    - a prognostic;
+    - to fulfill;
+    - _ch(')am(3) (5)(u")_
+        [[cam3 jyu5 讖語]],
+        a prophecy, a hidden meaning;
+    - _ch(')am(3) h(i/)(3)_
+        [[cam3 hei3 讖氣]]
+        tiresome, talkative;
+    - _ch(')am(3) [(5)]wai_
+        [[cam3 wai5 讖緯]],
+        to agree with the prophecy.
+    ==
+  ====
+C
+  ==
+  - Williams' 讖緯: Corrected _(2)wai_ [[wai2]] to _(5)wai_ [[wai5]].
+  ==
+E
+  ====
+  - 【讖】 (cam3):
+    ++
+    1. Long-winded or verbose.
+       ==
+       - 又長又讖 (jau6 coeng4 jau6 cam3): "Both long and verbose."
+       - 咪咁讖啦 (mai5 gam3 cam3 la1): "Don't [be] so long-winded!"
+       ==
+    ++
+  ====
 $$
 
 
