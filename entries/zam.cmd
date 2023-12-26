@@ -24,6 +24,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [zam1](#1)
 - [zam2](#2)
 - [zam3](#3)
+- [zam6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -581,4 +582,44 @@ E
        ==
     ++
   ====
+$$
+
+
+##{#6 .williams} Cham(6) [[zam6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $朕6
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 朕6 | _Cham(6)_ [[zam6]]
+
+$$
+R
+  月 + 6
+U
+  U+6715
+W
+  ====
+  - [[Page~15|n58 朕(6)]]
+    ==
+    - Anciently used for I;
+    - now the royal We, Ourself;
+    - _cham(6) [shi(u/)](6)_
+        [[zam6 siu6 朕兆]]
+        subtile, recondite.
+    ==
+    --
+    A colloquial word [[here normalised to 𠹻; **see $𠹻zam6 for the canonical entry**]].
+    --
+  ====
+C
+  ==
+  - Williams' 朕兆:
+    Changed Middle Chinese _chi(u/)(6)_ [[ziu6]]
+    to common reading _shi(u/)(6)_ [[siu6]].
+  ==
 $$
