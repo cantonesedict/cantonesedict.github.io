@@ -590,10 +590,50 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $𠹻6
 - $朕6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+###+ 𠹻6 | _Cham(6)_ [[zam6]]
+
+$$
+R
+  口 + 10
+U
+  U+20E7B
+A
+  ==
+  - $朕6
+  ==
+W
+  ====
+  - [[Page~15|n58 朕(6); here normalised to 𠹻]]
+    --
+    A colloquial word.
+    --
+    ==
+    - A puff, as of smoke;
+    - _yat(7) cham(6) (1)(i/)n_
+        [[jat1 zam6 jin1 一𠹻煙]],
+        a puff of smoke;
+    - _yat(7) cham(6) (2)fo (2)fan_
+        [[jat1 zam6 fo2 fan2 一𠹻火粉]],
+        an explosion of incense.
+    ==
+  ====
+E
+  ====
+  - 【𠹻】 (zam6):
+    ++
+    1. Classifier for smells and odours.
+       ==
+       - 有𠹻味 (hou2 daai6 zam6 mei6): "There's [a] smell."
+       ==
+    ++
+  ====
+$$
 
 ### 朕6 | _Cham(6)_ [[zam6]]
 
