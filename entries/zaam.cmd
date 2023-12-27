@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [zaam2](#2)
 - [zaam3](#3)
+- [zaam6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -160,5 +161,38 @@ W
 S
   ==
   - $蘸jaam5 (TODO)
+  ==
+$$
+
+
+##{#6 .williams} Ch(a/)m(6) Ts(a/)m(6) [[zaam6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $賺6
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 賺6 | _Ch(a/)m(6)_ [[zaam6]]
+
+$$
+R
+  貝 + 10
+U
+  U+8CFA
+W
+  ====
+  - [[Page~16|n59 賺(6)]]
+    --
+    [[The expected reflex is zaam6 from 《集韻》直陷切,
+    but the common reading is zaan6;
+    **see $賺zaan6 for the canonical entry**.]]
+    --
+  ====
+S
+  ==
+  - $賺zaan6 (TODO)
   ==
 $$
