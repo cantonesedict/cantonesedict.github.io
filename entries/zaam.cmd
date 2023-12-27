@@ -52,6 +52,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $斬2
+- $䁪2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -105,6 +106,31 @@ C
   - Williams' 腰斬: Now used figuratively for midway cancellation or termination.
   - Williams' 斬伐: Changed _f(a/)t(9)_ [[faat6]] to modern _fat(9)_ [[fat6]].
   ==
+$$
+
+###+ 䁪2 | _(2)Ch(a/)m_ [[zaam2]]
+
+$$
+R
+  目 + 11
+U
+  U+406A
+W
+  [[Not present]]
+E
+  ====
+  - 【䁪】 (zaam2):
+    ++
+    1. To blink.
+       ==
+       - 䁪吓眼 (zaam2 haa5 ngaan5): "[In the] blink of [an] eye."
+       ==
+    1. To flash.
+       ==
+       - 眼燈䁪緊 (ngaan5-2 dang1 zaam2 gan2): "[The] light's flashing."
+       ==
+    ++
+  ====
 $$
 
 
