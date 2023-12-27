@@ -52,7 +52,7 @@ RegexDictionaryReplacement: #.syntax.entry-key-abbreviations
                 ,{.williams}
 * ^C$ --> ; Conway's commentary
                 ,{.modern}
-* ^E$ --> ; Conway's entry
+* ^E$ --> ; Conway's vernacular entry
                 ,{.modern}
 * ^S$ --> ; See also
                 ,{.modern}
