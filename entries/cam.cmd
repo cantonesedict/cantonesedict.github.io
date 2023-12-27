@@ -357,6 +357,7 @@ $$
 - $尋4
 - $沈4
 - $沉4
+- $燖4
 - $霃4
 - $魫4
 ==
@@ -514,6 +515,23 @@ C
     to common reading _nik(7)_ [[nik1]].
   - Williams' 沉重: Corrected _chung(6)_ [[zung6 去聲]] to _(5)ch(')ung_ [[cung5 上聲]].
   ==
+$$
+
+### 燖4 | _(4)Ts(')am_ [[cam4]]
+
+$$
+R
+  火 + 12
+U
+  U+71D6
+W
+  ====
+  - [[Page~552 (4)燖]]
+    ==
+    - To scald, as a fowl, in order to pluck it;
+    - to steep in hot broth, to make a broth of.
+    ==
+  ====
 $$
 
 ### 霃4 | _(4)Ch(')am_ [[cam4]]
