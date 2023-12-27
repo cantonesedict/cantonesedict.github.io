@@ -166,6 +166,19 @@ class Page:
 
         self.cmd_name = cmd_name
         self.cmd_content = cmd_content
+        self.vernacular_entries = [
+            VernacularEntry(match)
+            for match in re.finditer(pattern=r'[-][ ]【(?P<term>[\S]+)】 \((?P<jyutping>.+?)\)', string=cmd_content)
+        ]
+
+
+class VernacularEntry:
+    def __init__(self, match):
+        self.term = match.group('term')
+        self.jyutping = match.group('jyutping')
+
+    def __lt__(self, other):
+        return (self.jyutping, self.term) < (other.jyutping, other.term)
 
 
 class Statistician:
@@ -212,6 +225,11 @@ def main():
     updator.update_all()
 
     indexer = Indexer(updator.cmd_names)
+    vernacular_entries = sorted([
+        entry
+        for page in indexer.pages
+        for entry in page.vernacular_entries
+    ])
 
     statistician = Statistician(indexer)
     statistician.print_statistics()
