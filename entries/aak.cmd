@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aak
-* %date-modified --> 2023-12-23
+* %date-modified --> 2023-12-27
 * %copyright-prior-years -->
 
 %%%
@@ -216,7 +216,7 @@ U
   U+922A
 V
   ==
-  - aak3-2 (colloquial rising-tone noun)
+  - aak3-2 (vernacular rising-tone noun)
   ==
 W
   ====

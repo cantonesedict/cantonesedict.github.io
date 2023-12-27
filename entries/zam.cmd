@@ -461,7 +461,7 @@ U
   U+6795
 V
   ==
-  - zam2 (for colloquial verb senses)
+  - zam2 (for vernacular verb senses)
   ==
 W
   ====
@@ -530,7 +530,7 @@ U
 V
   ==
   - cam1 (in 浸淫 etc.)
-  - zam6 (for colloquial for "drown" sense)
+  - zam6 (for vernacular "drown" sense)
   ==
 W
   ====

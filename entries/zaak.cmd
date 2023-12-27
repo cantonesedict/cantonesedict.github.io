@@ -96,7 +96,7 @@ W
   ====
 C
   ==
-  - This character (in the colloquial "weight/crush" senses) is commonly written 砸.
+  - This character (in the vernacular "weight/crush" senses) is commonly written 砸.
     In my opinion, 矺 is a better character to use than 砸 because:
     ++
     1. 矺 is attested in Middle Chinese
@@ -364,7 +364,7 @@ U
   U+5B85
 V
   ==
-  - zaak6-2 (colloquial rising-tone noun)
+  - zaak6-2 (vernacular rising-tone noun)
   ==
 W
   ====

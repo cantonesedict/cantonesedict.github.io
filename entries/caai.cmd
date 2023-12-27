@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2023-12-13
+* %date-modified --> 2023-12-27
 * %copyright-prior-years -->
 
 %%%
@@ -242,7 +242,7 @@ V
   ==
   - cyun2 (expected from 市兖切 rising)
   - dyun3 (expected from 丁貫切)
-  - jaai2 (colloquial)
+  - jaai2 (vernacular)
   ==
 W
   ====
@@ -314,7 +314,7 @@ U
 V
   ==
   - saai3 (uncommon)
-  - zyut3 (colloquial for "suck" sense)
+  - zyut3 (for vernacular "suck" sense)
   ==
 W
   ====

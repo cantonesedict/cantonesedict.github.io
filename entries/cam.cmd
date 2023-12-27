@@ -351,7 +351,7 @@ U
   U+8B96
 A
   ==
-  -{.modern} 唚 (for colloquial "long-winded" sense)
+  -{.modern} 唚 (for vernacular "long-winded" sense)
   ==
 W
   ====

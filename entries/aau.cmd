@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aau
-* %date-modified --> 2023-12-17
+* %date-modified --> 2023-12-27
 * %copyright-prior-years -->
 
 %%%
@@ -181,7 +181,7 @@ U
   U+51F9
 V
   ==
-  - nap1 (colloquial)
+  - nap1 (vernacular)
   ==
 W
   ====
