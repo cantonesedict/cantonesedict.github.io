@@ -205,6 +205,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $侵2
+- $寢2
 - $魫2
 ==
 </nav>
@@ -234,6 +235,51 @@ S
   ==
   - $侵cam1
   ==
+$$
+
+### 寢2 | _(2)Ts(')am_ [[cam2]]
+
+$$
+R
+  宀 + 11
+U
+  U+5BE2
+W
+  ====
+  - [[Page~552 (2)寢]]
+    ==
+    - To sleep;
+    - rest, sleep;
+    - to rest, to desist, to repose;
+    - a back chamber, a bed-chamber;
+    - an adytum in a temple;
+    - a retiring-room in a palace;
+    - a dwelling-house;
+    - a mausoleum or house near a grave;
+    - _(1)on (2)ts(')am_
+        [[on1 cam2 安寢]],
+        to sleep quietly;
+    - _(4)k(')(i/) sz'(6) sui(6) (2)ts(')am_
+        [[kei4 si6 seoi6 cam2 其事遂寢]],
+        the affair then terminated;
+    - _(2)ts(')am shat(7)_
+        [[cam2 sat1 寢室]]
+        a dormitory;
+        the ancestral hall in a mansion;
+    - _(4)n(a/)n (2)ts(')am_
+        [[naan4 cam2 難寢]],
+        I cannot get asleep;
+    - _(2)ts(')am (1)ping_
+        [[cam2 bing1 寢兵]],
+        to give rest to troops;
+    - _(4)ling (2)ts(')am_
+        [[ling4 cam2 陵寢]],
+        the imperial mausolea near Mukten [[瀋陽]];
+    - _ching(3) (2)ts(')am_
+        [[zing3 cam2 正寢]],
+        room behind the hall.
+    ==
+  ====
 $$
 
 ### 魫2 | _(2)Ch(')am_ [[cam2]]
