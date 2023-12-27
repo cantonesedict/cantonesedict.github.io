@@ -155,6 +155,10 @@ def count_entries(cmd_content, category):
     return len(re.findall(pattern=regex_pattern, string=cmd_content, flags=re.MULTILINE))
 
 
+def count_todos(cmd_content):
+    return len(re.findall(pattern='TODO', string=cmd_content))
+
+
 def gather_page_cmd_names():
     return sorted([
         os.path.join(directory_path, file_name)
@@ -186,6 +190,7 @@ def main():
     entry_count = sum(count_entries(cmd_content, category='all') for cmd_content in cmd_contents)
     present_count = sum(count_entries(cmd_content, category='present') for cmd_content in cmd_contents)
     added_count = sum(count_entries(cmd_content, category='added') for cmd_content in cmd_contents)
+    todo_count = sum(count_todos(cmd_content) for cmd_content in cmd_contents)
 
     print(f'Statistics:')
     print(f'- {page_count} pages')
@@ -194,6 +199,7 @@ def main():
     print(f'- {entry_count} entries')
     print(f'  - {present_count}/{entry_count} = {present_count/entry_count :.1%} present')
     print(f'  - {added_count}/{entry_count} = {added_count/entry_count :.1%} added')
+    print(f'- {todo_count} todos')
 
 
 if __name__ == '__main__':
