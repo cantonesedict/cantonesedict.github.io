@@ -52,6 +52,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $斬2
+- $眨2
 - $䁪2
 ==
 </nav>
@@ -108,6 +109,21 @@ C
   ==
 $$
 
+###+ 眨2 | _(2)Ch(a/)m_ [[zaam2]]
+
+$$
+R
+  目 + 5
+U
+  U+7728
+W
+  [[Not present]]
+C
+  ==
+  - Alternative form of 䁪. **See $䁪zaam2 for the canonical entry.**
+  ==
+$$
+
 ###+ 䁪2 | _(2)Ch(a/)m_ [[zaam2]]
 
 $$
@@ -115,6 +131,10 @@ R
   目 + 11
 U
   U+406A
+A
+  ==
+  -{.modern} $眨2
+  ==
 W
   [[Not present]]
 E
