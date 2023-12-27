@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2023-12-26
+* %date-modified --> 2023-12-27
 * %copyright-prior-years -->
 
 %%%
@@ -136,7 +136,7 @@ W
   [[Not present]]
 C
   ==
-  - Alternative form of 矺. **See $矺zaak3 for the canonical entry**.
+  - Alternative form of 矺. **See $矺zaak3 for the canonical entry.**
   ==
 $$
 
@@ -151,7 +151,7 @@ W
   [[Not present]]
 C
   ==
-  - Alternative form of 矺. **See $矺zaak3 for the canonical entry**.
+  - Alternative form of 矺. **See $矺zaak3 for the canonical entry.**
   ==
 $$
 

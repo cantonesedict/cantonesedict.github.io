@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2023-12-08
+* %date-modified --> 2023-12-27
 * %copyright-prior-years -->
 
 %%%
@@ -310,7 +310,7 @@ W
     Used for the last [[$詫3]]. [[**See $詫caa3 for the canonical entry.**]]
     --
     --
-    [[Otherwise, an alternative form of 吒. **See $吒caa3**.]]
+    [[Otherwise, an alternative form of 吒. **See $吒caa3.**]]
     --
   ====
 $$
