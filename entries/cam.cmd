@@ -360,6 +360,7 @@ $$
 - $燖4
 - $霃4
 - $魫4
+- $鱏4
 - $鱘4
 ==
 </nav>
@@ -587,6 +588,24 @@ S
   ==
   - $魫cam2
   ==
+$$
+
+### 鱏4 | _(4)Ts(')am_ [[cam4]]
+
+$$
+R
+  魚 + 12
+U
+  U+9C4F
+W
+  ====
+  - [[Page~552 (4)鱏]]
+    ==
+    - An enormous fish, with a long nose,
+      found in the Y(a/)ngtsz' ki(a/)ng [[揚子江]];
+      probably a sturgeon.
+    ==
+  ====
 $$
 
 ### 鱘4 | _(4)Ts(')am_ [[cam4]]
