@@ -354,6 +354,7 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $尋4
 - $沈4
 - $沉4
 - $霃4
@@ -361,6 +362,80 @@ $$
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 尋4 | _(4)Ts(')am_ [[cam4]]
+
+$$
+R
+  寸 + 9
+U
+  U+5C0B
+W
+  ====
+  - [[Page~552 (4)尋]]
+    ==
+    - To hunt after, to search, on the track of;
+    - to seek, to investigate;
+    - to use, to employ;
+    - to continue, to connect with;
+    - usually, ordinarily;
+    - temporary, unexpectedly;
+    - for a long time;
+    - common;
+    - a measure of eight cubits, or like the outstretched arms;
+    - _(4)ts(')am (4)'m ch(e/)uk(9)_
+        [[cam4 m4 zoek6 尋唔著]]
+        I can not find it;
+    - _(4)ts(')am m(i/)(6)_
+        [[cam4 mei6 尋味]]
+        to wish more of, as of a tidbit;
+    - _(4)ts(')am (4)t(')au l(o\)(6)_
+        [[cam tau4 lou6 尋頭路]]
+        seeking for work;
+    - _(4)ts(')am (4)sh(e/)ung_
+        [[cam4 soeng4 尋常]],
+        usual, common;
+    - _(1)kan (4)ts(')am_
+        [[gan1 cam4 跟尋]],
+        to hunt after one;
+    - _(4)ts(')am m(u/)t(9)_
+        [[cam4 mut6 尋歿]]
+        died unexpectedly;
+    - _(4)ts(')am (4)t(')i(u/) kai(3)_
+        [[cam4 tiu4 gai3-2 尋條計]]
+        to think out a plan;
+    - _(2)ch(a/)u (4)ts(')am_
+        [[zaau2 cam4 找尋]],
+        to seek everywhere for;
+    - _(4)ts(')am ch(')an(3) t(o\)(3) (5)k(')(u")_
+        [[cam4 can3 dou3-2 keoi5 尋趁到佢]],
+        I've got track of him;
+    - _(4)ts(')am (1)kan man(6) (2)tai_
+        [[cam4 gan1 man6 dai2 尋根問底]],
+        to investigate thoroughly;
+    - _(4)ts(')am sz'(6)_
+        [[cam4 si6 尋事]]
+        to meddle with;
+    - _(4)ts(')am mat(9)_
+        [[cam4 mat6 尋物]],
+        a colloquial phrase for yesterday.
+    ==
+  ====
+C
+  ==
+  - Williams' 尋物: Probably assimilation of 尋日 (cam4 jat6) into 尋物 (cam4 mat6).
+  ==
+E
+  ====
+  - 【尋日】 (cam4 jat6):
+    ++
+    1. Yesterday.
+       ==
+       - 尋日病咗 (cam4 jat6 beng6 zo2): "Yesterday [I got] sick."
+       ==
+    ++
+  ====
+$$
 
 ### 沈4 | _(4)Ch(')am_ [[cam4]]
 
