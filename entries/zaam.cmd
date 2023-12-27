@@ -113,6 +113,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $湛3
+- $蘸3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -136,4 +137,28 @@ W
     - clear, calm, as a quiet moonlight.
     ==
   ====
+$$
+
+### 蘸3 | _Ch(a/)m(3)_ [[zaam3]]
+
+$$
+R
+  艸 + 19
+U
+  U+8638
+W
+  ====
+  - [[Page~16|n59 蘸(3)]]
+    ==
+    - To dip, as a pencil in ink, or sop a morsel in gravy;
+    - used by some for baptize.
+    ==
+    --
+    Vulgarly pronounced _(5)y(a/)m_ [[jaam5]]; [[see $蘸jaam5]].
+    --
+  ====
+S
+  ==
+  - $蘸jaam5 (TODO)
+  ==
 $$
