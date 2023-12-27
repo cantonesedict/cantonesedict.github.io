@@ -168,29 +168,29 @@ def gather_page_cmd_names():
     ])
 
 
-def gather_page_cmd_contents(page_cmd_names):
-    cmd_contents = []
+def gather_page_cmd_content(page_cmd_names):
+    cmd_content_from_name = {}
 
     for page_cmd_name in page_cmd_names:
         with open(page_cmd_name, 'r', encoding='utf-8') as cmd_file:
             cmd_content = cmd_file.read()
 
-        cmd_contents.append(cmd_content)
+        cmd_content_from_name[page_cmd_name] = cmd_content
 
-    return cmd_contents
+    return cmd_content_from_name
 
 
 def main():
     page_cmd_names = gather_page_cmd_names()
     update_pages(page_cmd_names)
 
-    cmd_contents = gather_page_cmd_contents(page_cmd_names)
+    cmd_content_from_name = gather_page_cmd_content(page_cmd_names)
     page_count = len(page_cmd_names)
-    wip_count = sum('work in progress' in cmd_content.lower() for cmd_content in cmd_contents)
-    entry_count = sum(count_entries(cmd_content, category='all') for cmd_content in cmd_contents)
-    present_count = sum(count_entries(cmd_content, category='present') for cmd_content in cmd_contents)
-    added_count = sum(count_entries(cmd_content, category='added') for cmd_content in cmd_contents)
-    todo_count = sum(count_todos(cmd_content) for cmd_content in cmd_contents)
+    wip_count = sum('work in progress' in cmd_content.lower() for cmd_content in cmd_content_from_name.values())
+    entry_count = sum(count_entries(cmd_content, category='all') for cmd_content in cmd_content_from_name.values())
+    present_count = sum(count_entries(cmd_content, category='present') for cmd_content in cmd_content_from_name.values())
+    added_count = sum(count_entries(cmd_content, category='added') for cmd_content in cmd_content_from_name.values())
+    todo_count = sum(count_todos(cmd_content) for cmd_content in cmd_content_from_name.values())
 
     print(f'Statistics:')
     print(f'- {page_count} pages')
