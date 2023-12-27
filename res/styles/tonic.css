@@ -9,7 +9,8 @@
 
 
 :target {
-  background: #ff4;
+  border: 3px solid blue;
+  background: #eaffff;
   padding: 0.1em 0.3em;
 }
 
@@ -49,7 +50,7 @@ dd ul {
 
 
 dl {
-  border: 1px solid black;
+  border: 3px double var(--modern-colour);
   padding: 0.3em 0.5em;
   margin-left: 1em;
   margin-right: 1em;
