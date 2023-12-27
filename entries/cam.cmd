@@ -360,6 +360,7 @@ $$
 - $燖4
 - $鐔4
 - $霃4
+- $鬵4
 - $魫4
 - $鱏4
 - $鱘4
@@ -594,6 +595,27 @@ W
     - _(1)yam (1)yam (4)ch(')am (4)ch(')am_
         [[jam1 jam1 cam4 cam4 陰陰霃霃]],
         dull, rainy-looking.
+    ==
+  ====
+$$
+
+### 鬵4 | _(4)Ts(')am_ [[cam4]]
+
+$$
+R
+  鬲 + 8
+U
+  U+9B35
+V
+  ==
+  - cim4 (expected from 昨鹽切)
+  ==
+W
+  ====
+  - [[Page~552 (4)鬵]]
+    ==
+    - A vase with a large belly and small mouth;
+    - a large kettle or boiler.
     ==
   ====
 $$
