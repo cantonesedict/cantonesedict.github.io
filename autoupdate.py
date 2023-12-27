@@ -173,6 +173,7 @@ class Statistician:
         pages = indexer.pages
         self.page_count = len(pages)
         self.wip_count = sum('work in progress' in page.cmd_content.lower() for page in pages)
+        self.done_count = self.page_count - self.wip_count
         self.entry_count = sum(Statistician._count_entries(page.cmd_content, category='all') for page in pages)
         self.present_count = sum(Statistician._count_entries(page.cmd_content, category='present') for page in pages)
         self.added_count = sum(Statistician._count_entries(page.cmd_content, category='added') for page in pages)
@@ -182,7 +183,7 @@ class Statistician:
         print(f'Statistics:')
         print(f'- {self.page_count} pages')
         print(f'  - {self.wip_count}/{self.page_count} = {self.wip_count / self.page_count :.1%} work in progress')
-        print(f'  - {self.page_count - self.wip_count}/{self.page_count} = {(self.page_count - self.wip_count) / self.page_count :.1%} done')
+        print(f'  - {self.done_count}/{self.page_count} = {self.done_count / self.page_count :.1%} done')
         print(f'- {self.entry_count} entries')
         print(f'  - {self.present_count}/{self.entry_count} = {self.present_count / self.entry_count :.1%} present')
         print(f'  - {self.added_count}/{self.entry_count} = {self.added_count / self.entry_count :.1%} added')
