@@ -170,10 +170,40 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $站6
 - $賺6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 站6 | _Ch(a/)m(6)_ [[zaam6]]
+
+$$
+R
+  立 + 5
+U
+  U+7AD9
+W
+  ====
+  - [[Page~16|n59 站(6)]]
+    ==
+    - A stage, a journey;
+    - _yik[(9)] ch(a/)m(6)_
+        [[jik6 zaam6 驛站]]
+        a stage;
+    - _ch(a/)m(6) (4)t(')au_
+        [[zaam6 tau4 站頭]],
+        end of a journey;
+    - _yat(7) ch(a/)m(6) l(o\)(6)_
+        [[jat1 zaam6 lou6 一站路]]
+        a stage, usually reckoned to be a league.
+    ==
+  ====
+C
+  ==
+  - Williams' 驛站: Stage meaning a relay station for horses.
+  ==
+$$
 
 ### 賺6 | _Ch(a/)m(6)_ [[zaam6]]
 
