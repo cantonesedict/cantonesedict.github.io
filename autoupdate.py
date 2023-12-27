@@ -151,56 +151,69 @@ class Updator:
         ])
 
 
-def count_entries(cmd_content, category):
-    if category == 'all':
-        regex_pattern = r'^#{3}(?!#)'
-    elif category == 'present':
-        regex_pattern = r'^#{3}(?= )'
-    elif category == 'added':
-        regex_pattern = r'^#{3}(?=\+)'
-    else:
-        raise ValueError
-
-    return len(re.findall(pattern=regex_pattern, string=cmd_content, flags=re.MULTILINE))
+class Indexer:
+    def __init__(self, cmd_names):
+        self.pages = [
+            Page(cmd_name)
+            for cmd_name in cmd_names
+        ]
 
 
-def count_todos(cmd_content):
-    return len(re.findall(pattern='TODO', string=cmd_content))
-
-
-def gather_page_cmd_content(page_cmd_names):
-    cmd_content_from_name = {}
-
-    for page_cmd_name in page_cmd_names:
-        with open(page_cmd_name, 'r', encoding='utf-8') as cmd_file:
+class Page:
+    def __init__(self, cmd_name):
+        with open(cmd_name, 'r', encoding='utf-8') as cmd_file:
             cmd_content = cmd_file.read()
 
-        cmd_content_from_name[page_cmd_name] = cmd_content
+        self.cmd_name = cmd_name
+        self.cmd_content = cmd_content
 
-    return cmd_content_from_name
+
+class Statistician:
+    def __init__(self, indexer):
+        pages = indexer.pages
+        self.page_count = len(pages)
+        self.wip_count = sum('work in progress' in page.cmd_content.lower() for page in pages)
+        self.entry_count = sum(Statistician._count_entries(page.cmd_content, category='all') for page in pages)
+        self.present_count = sum(Statistician._count_entries(page.cmd_content, category='present') for page in pages)
+        self.added_count = sum(Statistician._count_entries(page.cmd_content, category='added') for page in pages)
+        self.todo_count = sum(Statistician._count_todos(page.cmd_content) for page in pages)
+
+    def print_statistics(self):
+        print(f'Statistics:')
+        print(f'- {self.page_count} pages')
+        print(f'  - {self.wip_count}/{self.page_count} = {self.wip_count / self.page_count :.1%} work in progress')
+        print(f'  - {self.page_count - self.wip_count}/{self.page_count} = {(self.page_count - self.wip_count) / self.page_count :.1%} done')
+        print(f'- {self.entry_count} entries')
+        print(f'  - {self.present_count}/{self.entry_count} = {self.present_count / self.entry_count :.1%} present')
+        print(f'  - {self.added_count}/{self.entry_count} = {self.added_count / self.entry_count :.1%} added')
+        print(f'- {self.todo_count} todos')
+
+    @staticmethod
+    def _count_entries(cmd_content, category):
+        if category == 'all':
+            regex_pattern = r'^#{3}(?!#)'
+        elif category == 'present':
+            regex_pattern = r'^#{3}(?= )'
+        elif category == 'added':
+            regex_pattern = r'^#{3}(?=\+)'
+        else:
+            raise ValueError
+    
+        return len(re.findall(pattern=regex_pattern, string=cmd_content, flags=re.MULTILINE))
+
+    @staticmethod
+    def _count_todos(cmd_content):
+        return len(re.findall(pattern='TODO', string=cmd_content))
 
 
 def main():
     updator = Updator()
     updator.update_all()
 
-    page_cmd_names = updator.cmd_names  # TODO: purge me
-    cmd_content_from_name = gather_page_cmd_content(page_cmd_names)
-    page_count = len(page_cmd_names)
-    wip_count = sum('work in progress' in cmd_content.lower() for cmd_content in cmd_content_from_name.values())
-    entry_count = sum(count_entries(cmd_content, category='all') for cmd_content in cmd_content_from_name.values())
-    present_count = sum(count_entries(cmd_content, category='present') for cmd_content in cmd_content_from_name.values())
-    added_count = sum(count_entries(cmd_content, category='added') for cmd_content in cmd_content_from_name.values())
-    todo_count = sum(count_todos(cmd_content) for cmd_content in cmd_content_from_name.values())
+    indexer = Indexer(updator.cmd_names)
 
-    print(f'Statistics:')
-    print(f'- {page_count} pages')
-    print(f'  - {wip_count}/{page_count} = {wip_count/page_count :.1%} work in progress')
-    print(f'  - {page_count - wip_count}/{page_count} = {(page_count - wip_count)/page_count :.1%} done')
-    print(f'- {entry_count} entries')
-    print(f'  - {present_count}/{entry_count} = {present_count/entry_count :.1%} present')
-    print(f'  - {added_count}/{entry_count} = {added_count/entry_count :.1%} added')
-    print(f'- {todo_count} todos')
+    statistician = Statistician(indexer)
+    statistician.print_statistics()
 
 
 if __name__ == '__main__':
