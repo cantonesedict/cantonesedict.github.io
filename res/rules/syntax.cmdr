@@ -98,6 +98,14 @@ FixedDelimitersReplacement: #.syntax.entries
 - tag_name: dl
 
 
+RegexDictionaryReplacement: #.syntax.vernacular-entries
+- queue_position: BEFORE #.syntax.entries
+* [-] [ ] 【 (?P<term> [\S]+ ) 】
+    -->
+  -{#vernacular-\g<term>}
+    []{.permalink aria-label=Permalink}(#vernacular-\g<term>)【\g<term>】
+
+
 RegexDictionaryReplacement: #.syntax.entry-links
 - queue_position: BEFORE #specified-links
 * [$] (?P<jyutping> [a-z]+ )
