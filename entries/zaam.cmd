@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2023-08-02
+* %date-modified --> 2023-12-27
 * %copyright-prior-years -->
 
 %%%
-
---{.modern}
-[[From Page~15|n58 (Ch(a/))m and Page~553 (Ts(a/)m) of the original onwards.]]
---
 
 #{.williams} Ch(a/)m. Ts(a/)m. [[zaam]]
 
@@ -21,3 +17,27 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [[Work in progress]]
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Ch(a/)m. [[Page~15|n58]]
+  - Ts(a/)m. [[Page~553]]
+  ==
+WP
+  ==
+  - Ch(a/)m <span class="modern">= [tɕaːm]</span>
+  - Ts(a/)m <span class="modern">= [tsaːm]</span>
+  ==
+MP
+  ==
+  - zaam = [tsaːm], [tɕaːm]
+  ==
+$$
