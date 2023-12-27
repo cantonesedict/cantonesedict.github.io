@@ -54,6 +54,7 @@ $$
 =={.modern}
 - $侵1
 - $祲1
+- $鋟1
 - $駸1
 ==
 </nav>
@@ -137,6 +138,26 @@ W
 S
   ==
   - $祲zam1
+  ==
+$$
+
+### 鋟1 | _(1)Ts(')am_ [[cam1]]
+
+$$
+R
+  金 + 7
+U
+  U+92DF
+W
+  ====
+  - [[Page~552 (1)鋟]]
+    --
+    [[Reading variation; **see $鋟cim1 for the canonical entry**.]]
+    --
+  ====
+S
+  ==
+  - $鋟cim1 (TODO)
   ==
 $$
 
