@@ -358,6 +358,7 @@ $$
 - $沈4
 - $沉4
 - $燖4
+- $鐔4
 - $霃4
 - $魫4
 - $鱏4
@@ -534,6 +535,48 @@ W
     - to steep in hot broth, to make a broth of.
     ==
   ====
+$$
+
+### 鐔4 | _(4)Ts(')am_ [[cam4]]
+
+$$
+R
+  金 + 12
+U
+  U+9414
+V
+  ==
+  - jam4 (expected from 餘針切)
+  ==
+W
+  ====
+  - [[Page~552 (4)鐔]]
+    ==
+    - The guard on the hilt of a sword;
+    - a dagger, a dirk;
+    - [[see $鐔taam4 for "sword's edge" sense]]
+    <##
+    - the edge of a sword.
+    ##>
+    ==
+  ====
+C
+  ====
+  - 《廣韻》 provides three readings:
+    ==
+    - cam4 (from 徐林切)
+    - jam4 (from 餘針切)
+    - taam4 (from 徒含切).
+    ==
+    The first two are explained 劒鼻 "sword's nose" (meaning knob)
+    and the third is explained 劒口 "sword's mouth" (meaning edge).
+    Based on this, I conclude that the reading taam4 deserves its own entry;
+    see $鐔taam4.
+  ====
+S
+  ==
+  - $鐔taam4 (TODO)
+  ==
 $$
 
 ### 霃4 | _(4)Ch(')am_ [[cam4]]
