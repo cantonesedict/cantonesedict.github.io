@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2023-12-26
+* %date-modified --> 2023-12-27
 * %copyright-prior-years -->
 
 %%%
@@ -53,6 +53,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $侵1
+- $駸1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -116,6 +117,26 @@ S
   ==
   - $侵cam2
   ==
+$$
+
+### 駸1 | _(1)Ts(')am_ [[cam1]]
+
+$$
+R
+  馬 + 7
+U
+  U+99F8
+W
+  ====
+  - [[Page~552 (1)駸]]
+    ==
+    - Occurs used for the preceding [[侵]];
+    - properly a swift horse;
+    - _(1)ts(')am (1)ts(')am_
+        [[cam1 cam1 駸駸]],
+        a fast ruuning courser.
+    ==
+  ====
 $$
 
 
