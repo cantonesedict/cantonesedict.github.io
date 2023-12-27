@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zaam2](#2)
+- [zaam3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -103,4 +104,36 @@ C
   - Williams' 腰斬: Now used figuratively for midway cancellation or termination.
   - Williams' 斬伐: Changed _f(a/)t(9)_ [[faat6]] to modern _fat(9)_ [[fat6]].
   ==
+$$
+
+
+##{#3 .williams} Ch(a/)m(3) [[zaam3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $湛3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 湛3 | _Ch(a/)m(3)_ [[zaam3]]
+
+$$
+R
+  水 + 9
+U
+  U+6E5B
+W
+  ====
+  - [[Page~16|n59 湛(3)]]
+    ==
+    - A northern affluent of the Yellow R. near Sh(a/)ns(i/) [[山西]];
+    - to sink in;
+    - to soak, to immerse, to imbibe, as a sponge;
+    - to plunge in;
+    - deep, limpid, still, as water;
+    - clear, calm, as a quiet moonlight.
+    ==
+  ====
 $$
