@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2023-12-26
+* %date-modified --> 2023-12-27
 * %copyright-prior-years -->
 
 %%%
@@ -41,7 +41,7 @@ MP
 $$
 
 
-##{#1 .williams} (1)Cham [[zam1 陰平]]
+##{#1 .williams} (1)Cham <span class="modern">(1)Tsam</span> [[zam1 陰平]]
 
 <## tone-1-characters ##>
 <nav class="sideways">
@@ -50,6 +50,7 @@ $$
 - $椹1
 - $砧1
 - $碪1
+- $祲1
 - $箴1
 - $針1
 - $鍼1
@@ -182,6 +183,39 @@ W
     [[Alternative form of 砧. **See $砧zam1 for the canonical entry.**]]
     --
   ====
+$$
+
+###+ 祲1 | _(1)Tsam_ [[zam1]]
+
+$$
+R
+  示 + 7
+U
+  U+7972
+V
+  ==
+  - cam1 (in 祲祥)
+  - zam3 (expected from 子禁切)
+  ==
+W
+  ====
+  - [[Page~552 (1)祲 _(1)Ts(')am_ (cam1); here normalised to _(1)Tsam_ (zam1)]]
+    ==
+    - To influence, to act upon;
+    - a malign halo;
+    - abundant, great, full.
+    ==
+  ====
+C
+  ==
+  - The reading cam1 is that given in 《分韻撮要》.
+    Although it does appear in Kangxi (七林反),
+    its scope is limited to the place name 祲祥.
+  ==
+S
+  ==
+  - $祲cam1
+  ==
 $$
 
 ### 箴1 | _(1)Cham_ [[zam1]]

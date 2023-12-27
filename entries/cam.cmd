@@ -53,6 +53,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $侵1
+- $祲1
 - $駸1
 ==
 </nav>
@@ -116,6 +117,26 @@ E
 S
   ==
   - $侵cam2
+  ==
+$$
+
+### 祲1 | _(1)Ts(')am_ [[cam1]]
+
+$$
+R
+  示 + 7
+U
+  U+7972
+W
+  ====
+  - [[Page~552 (1)祲]]
+    --
+    [[Reading variation; **see $祲zam1 for the canonical entry**.]]
+    --
+  ====
+S
+  ==
+  - $祲zam1
   ==
 $$
 
