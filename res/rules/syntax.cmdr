@@ -102,7 +102,7 @@ RegexDictionaryReplacement: #.syntax.vernacular-entries
 - queue_position: BEFORE #.syntax.entries
 * [-] [ ] 【 (?P<term> [^\s-]+ ) (?P<disambiguation> [\S]* ) 】
     -->
-  -{#vernacular-\g<term>}
+  -{#vernacular-\g<term>\g<disambiguation>}
     []{.permalink aria-label=Permalink}(#vernacular-\g<term>\g<disambiguation>)【\g<term>】
 
 
