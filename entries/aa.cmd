@@ -477,9 +477,11 @@ E
        - 未到啊 (mei6 dou3 a3): "Not there yet."
        - 有排啊 (jau5 paai4 a3): "[It'll] be ages."
        ==
+    ++
+  - 【啊】 (aa3):
+    ++
     1. A particle after each item in a list of examples.
        Similar to the non-falling intonation for list items in English.
-       (This syllable is never sounded short.)
        ==
        - 例如蘋果啊、橙啊、香蕉啊 (lai6 jyu4 ping4 gwo2 aa3, caang4-2 aa3, hoeng1 ziu1 aa3): "Such as apples, oranges, bananas, ...."
        ==
