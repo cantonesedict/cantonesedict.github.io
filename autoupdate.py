@@ -17,7 +17,7 @@ class Updater:
             os.path.join(directory_path, file_name)
             for directory_path, _, file_names in os.walk('entries/')
             for file_name in file_names
-            if file_name.endswith('.cmd') and file_name != 'index.cmd'
+            if file_name.endswith('.cmd') and file_name not in ['index.cmd', 'vernacular.cmd']
         ])
 
     def update_all(self):
@@ -163,13 +163,48 @@ class Indexer:
             for entry in page.vernacular_entries
         ])
 
+    def update_vernacular(self):
+        with open('entries/vernacular.cmd', 'r', encoding='utf-8') as old_cmd_file:
+            old_cmd_content = old_cmd_file.read()
+
+        new_cmd_content = self._update_vernacular_table_body(old_cmd_content)
+
+        if new_cmd_content == old_cmd_content:
+            return
+
+        with open('entries/vernacular.cmd', 'w', encoding='utf-8') as new_cmd_file:
+            new_cmd_file.write(new_cmd_content)
+
+    def _update_vernacular_table_body(self, cmd_content):
+        return re.sub(
+            pattern=r'(?<=<## vernacular-table-body ##>\n).*?(?=<## /vernacular-table-body ##>\n)',
+            repl=self._vernacular_table_body_cmd_content(),
+            string=cmd_content,
+            flags=re.DOTALL | re.MULTILINE,
+        )
+
+    def _vernacular_table_body_cmd_content(self):
+        return '\n'.join([
+            *[
+                '\n'.join([
+                    f'  //',
+                    f'    , {ve.term_jyutping}',
+                    f'    , {ve.term}',
+                    f'    , [{ve.page_jyutping}#vernacular-{ve.term}]({ve.page_jyutping}#vernacular-{ve.term})',
+                    '',
+                ])
+                for ve in self.vernacular_entries
+            ],
+            '',
+        ])
+
 
 class Page:
     def __init__(self, cmd_name):
         with open(cmd_name, 'r', encoding='utf-8') as cmd_file:
             cmd_content = cmd_file.read()
 
-        self.jyutping = cmd_name.replace('.cmd', '')
+        self.jyutping = re.sub(pattern=r'entries/(?P<jyutping>[a-z]+)\.cmd', repl=r'\g<jyutping>', string=cmd_name)
         self.cmd_content = cmd_content
         self.vernacular_entries = [
             VernacularEntry(match.group('term'), match.group('term_jyutping'), self.jyutping)
@@ -231,6 +266,7 @@ def main():
     updater.update_all()
 
     indexer = Indexer(updater.cmd_names)
+    indexer.update_vernacular()
 
     statistician = Statistician(indexer)
     statistician.print_statistics()
