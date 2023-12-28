@@ -207,15 +207,19 @@ class Page:
         self.jyutping = re.sub(pattern=r'entries/(?P<jyutping>[a-z]+)\.cmd', repl=r'\g<jyutping>', string=cmd_name)
         self.cmd_content = cmd_content
         self.vernacular_entries = [
-            VernacularEntry(match.group('term'), term_jyutping, self.jyutping)
-            for match in re.finditer(pattern=r'[-][ ]【(?P<term>[\S]+)】 \((?P<term_jyutping>.+?)\)', string=cmd_content)
+            VernacularEntry(match.group('term'), match.group('disambiguation'), term_jyutping, self.jyutping)
+            for match in re.finditer(
+                pattern=r'[-][ ]【(?P<term>[^\s-]+)(?P<disambiguation>[\S]*)】 \((?P<term_jyutping>.+?)\)',
+                string=cmd_content,
+            )
             for term_jyutping in re.split(pattern=r'\s*,\s*', string=match.group('term_jyutping'))
         ]
 
 
 class VernacularEntry:
-    def __init__(self, term, term_jyutping, page_jyutping):
+    def __init__(self, term, disambiguation, term_jyutping, page_jyutping):
         self.term = term
+        self.disambiguation = disambiguation
         self.term_jyutping = term_jyutping
         self.page_jyutping = page_jyutping
 

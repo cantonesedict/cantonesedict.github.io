@@ -100,10 +100,10 @@ FixedDelimitersReplacement: #.syntax.entries
 
 RegexDictionaryReplacement: #.syntax.vernacular-entries
 - queue_position: BEFORE #.syntax.entries
-* [-] [ ] 【 (?P<term> [\S]+ ) 】
+* [-] [ ] 【 (?P<term> [^\s-]+ ) (?P<disambiguation> [\S]* ) 】
     -->
   -{#vernacular-\g<term>}
-    []{.permalink aria-label=Permalink}(#vernacular-\g<term>)【\g<term>】
+    []{.permalink aria-label=Permalink}(#vernacular-\g<term>\g<disambiguation>)【\g<term>】
 
 
 RegexDictionaryReplacement: #.syntax.entry-links
