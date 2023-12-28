@@ -6,6 +6,7 @@
 Automatically update CMD files.
 """
 
+import collections
 import os
 import re
 import sys
@@ -163,6 +164,8 @@ class Indexer:
             for entry in page.vernacular_entries
         ])
 
+        Indexer._check_vernacular_entries(self.vernacular_entries)
+
     def update_vernacular(self):
         with open('entries/vernacular.cmd', 'r', encoding='utf-8') as old_cmd_file:
             old_cmd_content = old_cmd_file.read()
@@ -188,15 +191,35 @@ class Indexer:
             *[
                 '\n'.join([
                     f'  //',
-                    f'    , {ve.term_jyutping}',
-                    f'    , {ve.term}',
-                    f'    , [{ve.page_jyutping}#vernacular-{ve.term}]({ve.page_jyutping}#vernacular-{ve.term})',
+                    f'    , {split_term_jyutping}',
+                    f'    , {vernacular_entry.term}',
+                    f'    , [{vernacular_entry.relative_url}]({vernacular_entry.relative_url})',
                     '',
                 ])
-                for ve in self.vernacular_entries
+                for vernacular_entry in self.vernacular_entries
+                for split_term_jyutping in re.split(pattern=r'\s*,\s*', string=vernacular_entry.term_jyutping)
             ],
             '',
         ])
+
+    @staticmethod
+    def _check_vernacular_entries(vernacular_entries):
+        relative_urls = [
+            vernacular_entry.relative_url
+            for vernacular_entry in vernacular_entries
+        ]
+
+        duplicates = [
+            item
+            for item, count in collections.Counter(relative_urls).items()
+            if count > 1
+        ]
+        if duplicates:
+            print(
+                f'Error: duplicate vernacular entry relative URLs {duplicates}',
+                file=sys.stderr,
+            )
+            sys.exit(1)
 
 
 class Page:
@@ -207,12 +230,16 @@ class Page:
         self.jyutping = re.sub(pattern=r'entries/(?P<jyutping>[a-z]+)\.cmd', repl=r'\g<jyutping>', string=cmd_name)
         self.cmd_content = cmd_content
         self.vernacular_entries = [
-            VernacularEntry(match.group('term'), match.group('disambiguation'), term_jyutping, self.jyutping)
+            VernacularEntry(
+                match.group('term'),
+                match.group('disambiguation'),
+                match.group('term_jyutping'),
+                self.jyutping,
+            )
             for match in re.finditer(
                 pattern=r'[-][ ]【(?P<term>[^\s-]+)(?P<disambiguation>[\S]*)】 \((?P<term_jyutping>.+?)\)',
                 string=cmd_content,
             )
-            for term_jyutping in re.split(pattern=r'\s*,\s*', string=match.group('term_jyutping'))
         ]
 
 
@@ -222,6 +249,7 @@ class VernacularEntry:
         self.disambiguation = disambiguation
         self.term_jyutping = term_jyutping
         self.page_jyutping = page_jyutping
+        self.relative_url = f'{page_jyutping}#vernacular-{term}{disambiguation}'
 
     def __lt__(self, other):
         return (self.term_jyutping, self.term) < (other.term_jyutping, other.term)
