@@ -169,21 +169,22 @@ class Page:
         with open(cmd_name, 'r', encoding='utf-8') as cmd_file:
             cmd_content = cmd_file.read()
 
-        self.cmd_name = cmd_name
+        self.jyutping = cmd_name.replace('.cmd', '')
         self.cmd_content = cmd_content
         self.vernacular_entries = [
-            VernacularEntry(match)
-            for match in re.finditer(pattern=r'[-][ ]【(?P<term>[\S]+)】 \((?P<jyutping>.+?)\)', string=cmd_content)
+            VernacularEntry(match.group('term'), match.group('term_jyutping'), self.jyutping)
+            for match in re.finditer(pattern=r'[-][ ]【(?P<term>[\S]+)】 \((?P<term_jyutping>.+?)\)', string=cmd_content)
         ]
 
 
 class VernacularEntry:
-    def __init__(self, match):
-        self.term = match.group('term')
-        self.jyutping = match.group('jyutping')
+    def __init__(self, term, term_jyutping, page_jyutping):
+        self.term = term
+        self.term_jyutping = term_jyutping
+        self.page_jyutping = page_jyutping
 
     def __lt__(self, other):
-        return (self.jyutping, self.term) < (other.jyutping, other.term)
+        return (self.term_jyutping, self.term) < (other.term_jyutping, other.term)
 
 
 class Statistician:
