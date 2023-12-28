@@ -158,10 +158,15 @@ class Indexer:
             Page(cmd_name)
             for cmd_name in cmd_names
         ]
-        self.vernacular_entries = sorted([
+        self.vernacular_entries = [
             entry
             for page in self.pages
             for entry in page.vernacular_entries
+        ]
+        self.split_vernacular_entries = sorted([
+            split_entry
+            for entry in self.vernacular_entries
+            for split_entry in entry.split()
         ])
 
         Indexer._check_vernacular_entries(self.vernacular_entries)
@@ -191,13 +196,12 @@ class Indexer:
             *[
                 '\n'.join([
                     f'  //',
-                    f'    , {split_term_jyutping}',
-                    f'    , {vernacular_entry.term}',
-                    f'    , [{vernacular_entry.relative_url}]({vernacular_entry.relative_url})',
+                    f'    , {split_vernacular_entry.term_jyutping}',
+                    f'    , {split_vernacular_entry.term}',
+                    f'    , [{split_vernacular_entry.relative_url}]({split_vernacular_entry.relative_url})',
                     '',
                 ])
-                for vernacular_entry in self.vernacular_entries
-                for split_term_jyutping in re.split(pattern=r'\s*,\s*', string=vernacular_entry.term_jyutping)
+                for split_vernacular_entry in self.split_vernacular_entries
             ],
             '',
         ])
@@ -251,6 +255,14 @@ class VernacularEntry:
         self.page_jyutping = page_jyutping
         self.relative_url = f'{page_jyutping}#vernacular-{term}{disambiguation}'
 
+    def split(self):
+        return (
+            SplitVernacularEntry(self.term, self.disambiguation, split_term_jyutping, self.page_jyutping)
+            for split_term_jyutping in re.split(pattern=r'\s*,\s*', string=self.term_jyutping)
+        )
+
+
+class SplitVernacularEntry(VernacularEntry):
     def __lt__(self, other):
         return (self.term_jyutping, self.term) < (other.term_jyutping, other.term)
 

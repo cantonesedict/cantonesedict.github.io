@@ -26,9 +26,19 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 |:
 <## vernacular-table-body ##>
   //
+    , a1
+    , 吖
+    , [aa#vernacular-吖](aa#vernacular-吖)
+
+  //
     , a1 maa3
     , 吖嘛
     , [aa#vernacular-吖嘛](aa#vernacular-吖嘛)
+
+  //
+    , a3
+    , 啊
+    , [aa#vernacular-啊-final](aa#vernacular-啊-final)
 
   //
     , a4
@@ -41,9 +51,9 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
     , [aa#vernacular-吖](aa#vernacular-吖)
 
   //
-    , a1
-    , 吖
-    , [aa#vernacular-吖](aa#vernacular-吖)
+    , aa3
+    , 啊
+    , [aa#vernacular-啊-final](aa#vernacular-啊-final)
 
   //
     , aa3
@@ -54,16 +64,6 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
     , aa3 caa1
     , 阿差
     , [caa#vernacular-阿差](caa#vernacular-阿差)
-
-  //
-    , aa3
-    , 啊
-    , [aa#vernacular-啊-final](aa#vernacular-啊-final)
-
-  //
-    , a3
-    , 啊
-    , [aa#vernacular-啊-final](aa#vernacular-啊-final)
 
   //
     , aai3
