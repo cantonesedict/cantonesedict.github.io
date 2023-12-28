@@ -16,6 +16,42 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 
 #{.modern} %title
 
+||||{.modern .filter-container}
+<label for="filter">Filter for Jyutping/Term:</label>
+<input type="text" id="filter" onkeyup="applyFilter()">
+<noscript>
+||{.modern}
+**JavaScript is required for filter to work.**
+||
+</noscript>
+||||
+
+u<````````
+<script>
+function normaliseString(str)
+{
+  return str.toLowerCase().trim();
+}
+
+function applyFilter()
+{
+  let filterElement = document.getElementById('filter');
+  let filterString = normaliseString(filterElement.value);
+
+  for (const rowElement of document.querySelectorAll('tbody tr'))
+  {
+    let cells = rowElement.getElementsByTagName('td');
+    let jyutpingCell = cells[0];
+    let termCell = cells[1];
+
+    let isJyutpingMatch = normaliseString(jyutpingCell.textContent).indexOf(filterString) > -1;
+    let isTermMatch = normaliseString(termCell.textContent).indexOf(filterString) > -1;
+    rowElement.style.display = (isJyutpingMatch || isTermMatch) ? '' : 'none';
+  }
+}
+</script>
+````````>
+
 ||||{.wide}
 ''{.modern}
 |^
