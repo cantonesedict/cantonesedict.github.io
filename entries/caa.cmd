@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2023-12-27
+* %date-modified --> 2023-12-29
 * %copyright-prior-years -->
 
 %%%
@@ -457,7 +457,7 @@ C
   ==
 E
   ====
-  - 【搽】 (caa4):
+  - 【搽-spread】 (caa4):
     ++
     1. To apply, rub, or spread an ointment, cream, etc.
        ==
@@ -679,7 +679,7 @@ C
   ==
 E
   ====
-  - 【搽】 (caa5):
+  - 【搽-smudge】 (caa5):
     ++
     1. To smudge or scribble out.
        ==

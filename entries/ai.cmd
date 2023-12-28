@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ai
-* %date-modified --> 2023-12-27
+* %date-modified --> 2023-12-29
 * %copyright-prior-years -->
 
 %%%
@@ -93,7 +93,7 @@ C
   ==
 E
   ====
-  - 【哎吔】 (ai1 jaa1):
+  - 【哎吔-indignation】 (ai1 jaa1):
     ++
     1. An interjection of surprise, shock, indignation, etc.
        ==
@@ -104,7 +104,7 @@ E
        - 哎吔經理 (ai1 jaa1 ging1 lei5): "So-called manager."
        ==
     ++
-  - 【哎吔】 (ai1 ja4):
+  - 【哎吔-pain】 (ai1 ja4):
     ++
     1. An interjection of pain, mistake, etc.
        ==

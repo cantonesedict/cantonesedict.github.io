@@ -26,19 +26,9 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 |:
 <## vernacular-table-body ##>
   //
-    , a1
-    , 吖
-    , [aa#vernacular-吖](aa#vernacular-吖)
-
-  //
     , a1 maa3
     , 吖嘛
     , [aa#vernacular-吖嘛](aa#vernacular-吖嘛)
-
-  //
-    , a3
-    , 啊
-    , [aa#vernacular-啊](aa#vernacular-啊)
 
   //
     , a4
@@ -51,14 +41,29 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
     , [aa#vernacular-吖](aa#vernacular-吖)
 
   //
+    , a1
+    , 吖
+    , [aa#vernacular-吖](aa#vernacular-吖)
+
+  //
     , aa3
     , 啊
-    , [aa#vernacular-啊](aa#vernacular-啊)
+    , [aa#vernacular-啊-list](aa#vernacular-啊-list)
 
   //
     , aa3 caa1
     , 阿差
     , [caa#vernacular-阿差](caa#vernacular-阿差)
+
+  //
+    , aa3
+    , 啊
+    , [aa#vernacular-啊-final](aa#vernacular-啊-final)
+
+  //
+    , a3
+    , 啊
+    , [aa#vernacular-啊-final](aa#vernacular-啊-final)
 
   //
     , aai3
@@ -93,12 +98,12 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
   //
     , ai1 ja4
     , 哎吔
-    , [ai#vernacular-哎吔](ai#vernacular-哎吔)
+    , [ai#vernacular-哎吔-pain](ai#vernacular-哎吔-pain)
 
   //
     , ai1 jaa1
     , 哎吔
-    , [ai#vernacular-哎吔](ai#vernacular-哎吔)
+    , [ai#vernacular-哎吔-indignation](ai#vernacular-哎吔-indignation)
 
   //
     , am2
@@ -148,12 +153,12 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
   //
     , caa4
     , 搽
-    , [caa#vernacular-搽](caa#vernacular-搽)
+    , [caa#vernacular-搽-spread](caa#vernacular-搽-spread)
 
   //
     , caa5
     , 搽
-    , [caa#vernacular-搽](caa#vernacular-搽)
+    , [caa#vernacular-搽-smudge](caa#vernacular-搽-smudge)
 
   //
     , caa5 wo5
@@ -198,7 +203,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
   //
     , za4
     , 咋
-    , [zaa#vernacular-咋](zaa#vernacular-咋)
+    , [zaa#vernacular-咋-4](zaa#vernacular-咋-4)
 
   //
     , zaa1
@@ -218,7 +223,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
   //
     , zaa3
     , 咋
-    , [zaa#vernacular-咋](zaa#vernacular-咋)
+    , [zaa#vernacular-咋-3](zaa#vernacular-咋-3)
 
   //
     , zaa3 dai3

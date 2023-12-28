@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2023-12-27
+* %date-modified --> 2023-12-29
 * %copyright-prior-years -->
 
 %%%
@@ -469,7 +469,7 @@ C
   ==
 E
   ====
-  - 【啊】 (aa3, a3):
+  - 【啊-final】 (aa3, a3):
     ++
     1. A final particle.
        ==
@@ -478,7 +478,7 @@ E
        - 有排啊 (jau5 paai4 a3): "[It'll] be ages."
        ==
     ++
-  - 【啊】 (aa3):
+  - 【啊-list】 (aa3):
     ++
     1. A particle after each item in a list of examples.
        Similar to the non-falling intonation for list items in English.

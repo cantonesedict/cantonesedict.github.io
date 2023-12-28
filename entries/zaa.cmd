@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2023-12-27
+* %date-modified --> 2023-12-29
 * %copyright-prior-years -->
 
 %%%
@@ -532,7 +532,7 @@ W
   ====
 E
   ====
-  - 【咋】 (zaa3):
+  - 【咋-3】 (zaa3):
     ++
     1. A final particle of limitation.
       ==
@@ -793,7 +793,7 @@ W
   [[Not present]]
 E
   ====
-  - 【咋】 (za4):
+  - 【咋-4】 (za4):
     ++
     1. An interrogative-ish final particle of limitation, suspicion, disappointment, etc.
       ==
