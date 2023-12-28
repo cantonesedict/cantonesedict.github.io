@@ -157,6 +157,11 @@ class Indexer:
             Page(cmd_name)
             for cmd_name in cmd_names
         ]
+        self.vernacular_entries = sorted([
+            entry
+            for page in self.pages
+            for entry in page.vernacular_entries
+        ])
 
 
 class Page:
@@ -225,11 +230,6 @@ def main():
     updator.update_all()
 
     indexer = Indexer(updator.cmd_names)
-    vernacular_entries = sorted([
-        entry
-        for page in indexer.pages
-        for entry in page.vernacular_entries
-    ])
 
     statistician = Statistician(indexer)
     statistician.print_statistics()
