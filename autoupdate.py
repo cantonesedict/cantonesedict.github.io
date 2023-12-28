@@ -207,8 +207,9 @@ class Page:
         self.jyutping = re.sub(pattern=r'entries/(?P<jyutping>[a-z]+)\.cmd', repl=r'\g<jyutping>', string=cmd_name)
         self.cmd_content = cmd_content
         self.vernacular_entries = [
-            VernacularEntry(match.group('term'), match.group('term_jyutping'), self.jyutping)
+            VernacularEntry(match.group('term'), term_jyutping, self.jyutping)
             for match in re.finditer(pattern=r'[-][ ]【(?P<term>[\S]+)】 \((?P<term_jyutping>.+?)\)', string=cmd_content)
+            for term_jyutping in re.split(pattern=r'\s*,\s*', string=match.group('term_jyutping'))
         ]
 
 
