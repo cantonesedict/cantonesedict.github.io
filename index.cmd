@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Home
-* %date-modified --> 2023-11-14
+* %date-modified --> 2023-12-29
 * %copyright-prior-years -->
 * %modern-colour --> crimson
 
@@ -46,6 +46,7 @@ by [Samuel Wells Williams].
 - Main matter
   ==
   - [__Index of entries by Jyutping__](/entries/)
+  - [Index of vernacular terms by Jyutping](/entries/vernacular)
   ==
 ====
 </nav>
