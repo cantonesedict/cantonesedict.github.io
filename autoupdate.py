@@ -11,7 +11,7 @@ import re
 import sys
 
 
-class Updator:
+class Updater:
     def __init__(self):
         self.cmd_names = sorted([
             os.path.join(directory_path, file_name)
@@ -22,21 +22,21 @@ class Updator:
 
     def update_all(self):
         for cmd_name in self.cmd_names:
-            Updator._update(cmd_name)
+            Updater._update(cmd_name)
 
     @staticmethod
     def _update(cmd_name):
         with open(cmd_name, 'r', encoding='utf-8') as old_cmd_file:
             old_cmd_content = old_cmd_file.read()
 
-        Updator._check_jyutping_heuristic(cmd_name, old_cmd_content)
-        tone_syllable_list = Updator._gather_tone_syllable_list(old_cmd_content)
-        Updator._check_syllables(cmd_name, tone_syllable_list)
-        toned_characters_from_tone = Updator._gather_toned_characters_from_tone(old_cmd_content, tone_syllable_list)
+        Updater._check_jyutping_heuristic(cmd_name, old_cmd_content)
+        tone_syllable_list = Updater._gather_tone_syllable_list(old_cmd_content)
+        Updater._check_syllables(cmd_name, tone_syllable_list)
+        toned_characters_from_tone = Updater._gather_toned_characters_from_tone(old_cmd_content, tone_syllable_list)
 
         new_cmd_content = old_cmd_content
-        new_cmd_content = Updator._update_page_tones_navigation(new_cmd_content, tone_syllable_list)
-        new_cmd_content = Updator._update_page_character_navigations(new_cmd_content, toned_characters_from_tone)
+        new_cmd_content = Updater._update_page_tones_navigation(new_cmd_content, tone_syllable_list)
+        new_cmd_content = Updater._update_page_character_navigations(new_cmd_content, toned_characters_from_tone)
 
         if new_cmd_content == old_cmd_content:
             return
@@ -49,7 +49,7 @@ class Updator:
         bad_jyutping_runs = [
             run
             for run in re.findall(pattern=r'\b[a-z]+[1-9]\b', string=cmd_content, flags=re.VERBOSE)
-            if Updator._is_bad_jyutping_heuristic(run)
+            if Updater._is_bad_jyutping_heuristic(run)
         ]
         if bad_jyutping_runs:
             print(
@@ -111,7 +111,7 @@ class Updator:
     def _update_page_tones_navigation(cmd_content, tone_syllable_list):
         return re.sub(
             pattern=r'(?<=<## tones ##>\n).*?(?=<## /tones ##>\n)',
-            repl=Updator._tones_navigation_cmd_content(tone_syllable_list),
+            repl=Updater._tones_navigation_cmd_content(tone_syllable_list),
             string=cmd_content,
             flags=re.DOTALL | re.MULTILINE,
         )
@@ -121,7 +121,7 @@ class Updator:
         for tone, toned_characters in toned_characters_from_tone.items():
             cmd_content = re.sub(
                 pattern=fr'(?<=<## tone-{tone}-characters ##>\n).*?(?=<## /tone-{tone}-characters ##>\n)',
-                repl=Updator._character_navigation_cmd_content(toned_characters),
+                repl=Updater._character_navigation_cmd_content(toned_characters),
                 string=cmd_content,
                 flags=re.DOTALL | re.MULTILINE,
             )
@@ -227,10 +227,10 @@ class Statistician:
 
 
 def main():
-    updator = Updator()
-    updator.update_all()
+    updater = Updater()
+    updater.update_all()
 
-    indexer = Indexer(updator.cmd_names)
+    indexer = Indexer(updater.cmd_names)
 
     statistician = Statistician(indexer)
     statistician.print_statistics()
