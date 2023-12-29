@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aat
-* %date-modified --> 2023-12-26
+* %date-modified --> 2023-12-29
 * %copyright-prior-years -->
 
 %%%
@@ -66,6 +66,10 @@ R
   土 + 14
 U
   U+58D3
+F
+  ==
+  - [[F2.72 壓]] 鎮也覆也
+  ==
 W
   ====
   - [[Page~6 壓(8)]]
@@ -114,6 +118,10 @@ V
   ==
   - gaat3
   ==
+F
+  ==
+  - [[F2.72 恝]] 恝然無愁之貌
+  ==
 W
   ====
   - [[Page~5 恝(8)]]
@@ -139,6 +147,8 @@ R
   戈 + 7
 U
   U+621B
+F
+  [[Not present]]
 W
   [[Not present]]
 C
@@ -158,6 +168,10 @@ R
   戈 + 8
 U
   U+621E
+F
+  ==
+  - [[F2.72 戞]] 擊也
+  ==
 W
   ====
   - [[Page~5 戞(8)]]
@@ -181,6 +195,10 @@ U
 V
   ==
   - aap3 (expected from 烏甲切)
+  ==
+F
+  ==
+  - [[F2.65 押 _(A/)p(8)_ (aap3)]] 管押簽押
   ==
 W
   ====
@@ -283,6 +301,10 @@ R
   手 + 9
 U
   U+63E0
+F
+  ==
+  - [[F2.72 揠]] 拔也助禾苗長也
+  ==
 W
   ====
   - [[Page~5 揠(8)]]
@@ -307,6 +329,10 @@ V
   ==
   - gaat3 (expected from 古黠切)
   ==
+F
+  ==
+  - [[F2.72 秸]] 禾稾去其皮曰秸
+  ==
 W
   ====
   - [[Page~5 秸(8)]]
@@ -327,6 +353,10 @@ R
   辵 + 9
 U
   U+904F
+F
+  ==
+  - [[F2.72 遏]] 止也絕也
+  ==
 W
   ====
   - [[Page~5 遏(8)]]
@@ -355,6 +385,10 @@ R
   門 + 8
 U
   U+95BC
+F
+  ==
+  - [[F2.72 閼]] 閉也塞也又音謁又音煙
+  ==
 W
   ====
   - [[Page~6 閼(8)]]
@@ -377,6 +411,10 @@ R
   頁 + 6
 U
   U+981E
+F
+  ==
+  - [[F2.72 頞]] 額也
+  ==
 W
   ====
   - [[Page~6 頞(8)]]
