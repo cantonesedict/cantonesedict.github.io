@@ -404,7 +404,8 @@ W
   ====
 C
   ==
-  - Fan Wan entry: 蜜 (used for 密) is printed as ⿳冖一虫.
+  - Fan Wan entry: 寨 is printed with bottom component 氺 (rather than 朩 or 木),
+    whilst 蜜 (used for 密) is printed as ⿳冖一虫.
   ==
 $$
 

@@ -737,7 +737,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Normalised headword from 𩰿 (⿱㚘鬲) to 鬵.
+  - Fan Wan entry: Normalised headword 𩰿 (⿱㚘鬲) to 鬵.
   ==
 $$
 
