@@ -182,7 +182,7 @@ RegexDictionaryReplacement: #.syntax.link-abbreviations-fan-wan
 - queue_position: BEFORE #specified-links
 * F (?P<volume_number> [12] ) [.] (?P<page_number> [0-9]+ )
     -->
-  [Volume~\g<volume_number> Page~\g<page_number>](https://nla.gov.au/nla.obj-F\g<volume_number>@"id"/#page/n"trim_leading_zero"@\g<page_number>@"decrement"/mode/1up)
+  [Vol.~\g<volume_number> Page~\g<page_number>](https://nla.gov.au/nla.obj-F\g<volume_number>@"id"/#page/n"trim_leading_zero"@\g<page_number>@"decrement"/mode/1up)
 - concluding_replacements:
     #.syntax.volume-id-fan-wan
     #.syntax.decrement
