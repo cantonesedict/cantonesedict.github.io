@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aak
-* %date-modified --> 2023-12-27
+* %date-modified --> 2023-12-29
 * %copyright-prior-years -->
 
 %%%
@@ -64,10 +64,8 @@ R
   厂 + 2
 U
   U+5384
-V
-  ==
-  - ak1 (literary)
-  ==
+F
+  [[Not present]]
 W
   [[Not present]]
 C
@@ -97,6 +95,8 @@ V
   ==
   - ak1 (shorter syllable)
   ==
+F
+  [[Not present]]
 W
   ====
   - [[Page~3 阨(7); here normalised to 呃]]
@@ -129,10 +129,8 @@ R
   手 + 9
 U
   U+63E1
-V
-  ==
-  - ak1 (literary)
-  ==
+F
+  [[Not present]]
 W
   [[Not present]]
 C
@@ -154,6 +152,11 @@ R
   車 + 4
 U
   U+8EDB
+F
+  ==
+  - [[F2.33 軛 _Ak_(7) (ak1)]] <span lang="zh-Hant"><`轅端橫[木]駕馬頸者`></span>
+  - [[F2.90 軛 _(A/)k_(8) (aak3)]] 牛軛
+  ==
 W
   ====
   - [[Page~3 軛(7)]]
@@ -163,6 +166,10 @@ W
     - a yoke, a restraint, a principle of conscience.
     ==
   ====
+C
+  ==
+  - Fan Wan entry: Corrected 橫本 to 橫木.
+  ==
 $$
 
 ### 阨1 | _(A/)k(7)_ [[aak1]]
@@ -176,6 +183,8 @@ V
   ==
   - ak1 (shorter syllable)
   ==
+F
+  [[Not present]]
 W
   ====
   - [[Page~3 阨(7)]]
@@ -218,6 +227,10 @@ V
   ==
   - aak3-2 (vernacular rising-tone noun)
   ==
+F
+  ==
+  - [[F2.90 鈪]] <span lang="zh-Hant"><`[哀]百切鈪[鐲]也`></span>
+  ==
 W
   ====
   - [[Page~3 鈪(8)]]
@@ -241,6 +254,10 @@ W
         clasps of bracelets.
     ==
   ====
+C
+  ==
+  - Fan Wan entry: Corrected 表百切 to 哀百切, and 鈪燭 to 鈪鐲.
+  ==
 E
   ====
   - 【鈪】 (aak3-2):
