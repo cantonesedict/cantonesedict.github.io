@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caak
-* %date-modified --> 2023-12-27
+* %date-modified --> 2023-12-29
 * %copyright-prior-years -->
 
 %%%
@@ -62,6 +62,8 @@ R
   心 + 9
 U
   U+60FB
+F
+  [[Not present]]
 W
   [[Not present]]
 C
@@ -81,6 +83,8 @@ R
   水 + 9
 U
   U+6E2C
+F
+  [[Not present]]
 W
   [[Not present]]
 C
@@ -122,6 +126,10 @@ A
   ==
   - $册3
   ==
+F
+  ==
+  - [[F2.89 冊]] 排門冊黃冊又皇后初立曰冊立
+  ==
 W
   ====
   - [[Page~14|n57 册(8); here normalised to 冊]]
@@ -142,7 +150,7 @@ W
         [[paai4 mun4 caak3 排門冊]]
         the register of families;
     - _(4)wong ch(')(a/)k(8)_
-        [[wong4 caak3 皇冊]]
+        [[wong4 caak3 黃冊]]
         imperial census.
     ==
   ====
@@ -155,6 +163,8 @@ R
   冂 + 3
 U
   U+518C
+F
+  [[Not present]]
 W
   ====
   - [[Page~14|n57 册(8)]]
@@ -175,6 +185,8 @@ A
   ==
   - $拆3
   ==
+F
+  [[Not present]]
 W
   ====
   - [[Page~14|n57 坼(8)]]
@@ -222,6 +234,10 @@ R
   手 + 5
 U
   U+62C6
+F
+  ==
+  - [[F2.90 拆]] 分開也又拆卸
+  ==
 W
   ====
   - [[Page~14|n57 拆[(8)]<` `>]]
@@ -272,6 +288,10 @@ A
   ==
   - $栅3
   ==
+F
+  ==
+  - [[F2.90 柵]] 營寨編木爲之
+  ==
 W
   ====
   - [[Page~14|n57 栅(8); here normalised to 柵]]
@@ -299,6 +319,8 @@ R
   木 + 5
 U
   U+6805
+F
+  [[Not present]]
 W
   ====
   - [[Page~14|n57 栅(8)]]
@@ -315,6 +337,10 @@ R
   竹 + 6
 U
   U+7B56
+F
+  ==
+  - [[F2.89 策]] 簡策謀策籌策
+  ==
 W
   ====
   - [[Page~13|n56 策(8)]]
@@ -351,6 +377,8 @@ R
   艸 + 6
 U
   U+8326
+F
+  [[Not present]]
 W
   ====
   - [[Page~14|n57 茦(8)]]
@@ -381,6 +409,10 @@ R
   虫 + 13
 U
   U+8808
+F
+  ==
+  - [[F2.33 蠈]] 蟊蠈食禾之虫也
+  ==
 W
   ====
   - [[Page~551 蠈(9)]]
@@ -404,6 +436,10 @@ V
   ==
   - caak3 (vernacular)
   - caak6-2 (vernacular rising-tone noun)
+  ==
+F
+  ==
+  - [[F2.33 賊]] 盗賊又賊害
   ==
 W
   ====
@@ -455,6 +491,8 @@ R
   魚 + 9
 U
   U+9C02
+F
+  [[Not present]]
 W
   [[Not present]]
 C
