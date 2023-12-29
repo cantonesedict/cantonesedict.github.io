@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2023-12-27
+* %date-modified --> 2023-12-29
 * %copyright-prior-years -->
 
 %%%
@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [zaam1](#1)
 - [zaam2](#2)
 - [zaam3](#3)
 - [zaam6](#6)
@@ -43,6 +44,51 @@ MP
   ==
   - zaam = [tsaːm], [tɕaːm]
   ==
+$$
+
+
+##{#1 .williams} (1)Ts(a/)m [[zaam1 陰平]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $簪1
+==
+</nav>
+<## /tone-1-characters ##>
+
+### 簪1 | _(1)Ts(a/)m_ [[zaam1]]
+
+$$
+R
+  竹 + 12
+U
+  U+7C2A
+W
+  ====
+  - [[Page~553 (1)簪]]
+    ==
+    - A hairpin, clasp, or bodkin, used to confine the hair
+      or fasten the coiffure;
+    - to insert in the hair, to stick on the head;
+    - quick, brisk, to collect speedily;
+    - _(1)ts(a/)m (5)p(')(a/)ng_
+        [[zaam1 paang5 簪棒]],
+        a hairpin;
+    - _(1)ts(a/)m (1)f(a/)_
+        [[zaam1 faa1 簪花]],
+        to stick flowers in the hair;
+    - _(5)ni(u/) (1)ts(a/)m_
+        [[niu5 zaam1 裊簪]],
+        a gay headstall;
+    - _yuk(9) (1)ts(a/)m (1)f(a/)_
+        [[juk6 zaam1 faa1 玉簪花]],
+        the tuberose;
+    - _(1)kai (1)ts(a/)m (5)mai_
+        [[gai1 zaam1 mai5 雞簪米]],
+        the fowl pecks the rice---a colloquial phrase.
+    ==
+  ====
 $$
 
 
