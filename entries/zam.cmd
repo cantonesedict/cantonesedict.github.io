@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2023-12-27
+* %date-modified --> 2023-12-29
 * %copyright-prior-years -->
 
 %%%
@@ -65,6 +65,10 @@ R
   斗 + 9
 U
   U+659F
+F
+  ==
+  - [[F2.36 斟]] 斟酌
+  ==
 W
   ====
   - [[Page~14|n57 (1)斟]]
@@ -112,6 +116,8 @@ R
   木 + 9
 U
   U+6939
+F
+  [[Not present]]
 W
   ====
   - [[Page~14|n57 (1)椹]]
@@ -145,6 +151,11 @@ A
   ==
   - $碪1
   ==
+F
+  ==
+  - [[F2.36 砧]] ::[擣]衣石::
+  - [[F2.36 碪]] 與砧同
+  ==
 W
   ====
   - [[Page~14|n57 (1)砧(1)碪]]
@@ -165,6 +176,7 @@ W
   ====
 C
   ==
+  - Fan Wan entry: Corrected ⿰衣鳥 to 擣.
   - Williams' 砧板: Now chopping boards in general (not necessarily a butcher's).
   ==
 $$
@@ -176,6 +188,11 @@ R
   石+ 9
 U
   U+78AA
+F
+  ==
+  - [[F2.36 砧]] ::[擣]衣石::
+  - [[F2.36 碪]] 與砧同
+  ==
 W
   ====
   - [[Page~14|n57 (1)砧(1)碪]]
@@ -183,6 +200,10 @@ W
     [[Alternative form of 砧. **See $砧zam1 for the canonical entry.**]]
     --
   ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿰衣鳥 to 擣.
+  ==
 $$
 
 ###+ 祲1 | _(1)Tsam_ [[zam1]]
@@ -197,6 +218,10 @@ V
   - cam1 (in 祲祥)
   - zam3 (expected from 子禁切)
   ==
+F
+  ==
+  - [[F2.36 ::[祲]:: _(1)Ts(')am_ (cam1)]] 情氣感祥也
+  ==
 W
   ====
   - [[Page~552 (1)祲 _(1)Ts(')am_ (cam1); here normalised to _(1)Tsam_ (zam1)]]
@@ -208,6 +233,7 @@ W
   ====
 C
   ==
+  - Fan Wan entry: Corrected headword 䘲 to 祲.
   - The reading cam1 is that given in 《分韻撮要》.
     Although it does appear in Kangxi (七林反),
     its scope is limited to the place name 祲祥.
@@ -225,6 +251,10 @@ R
   竹 + 9
 U
   U+7BB4
+F
+  ==
+  - [[F2.36 箴]] 箴規箴誠有訓敕而救其失者曰箴
+  ==
 W
   ====
   - [[Page~14|n57 (1)箴]]
@@ -257,6 +287,11 @@ U
 A
   ==
   - $鍼1
+  ==
+F
+  ==
+  - [[F2.36 針]] 所以縫衣服也
+  - [[F2.36 鍼]] 同上
   ==
 W
   ====
@@ -304,6 +339,11 @@ R
   金 + 9
 U
   U+937C
+F
+  ==
+  - [[F2.36 針]] 所以縫衣服也
+  - [[F2.36 鍼]] 同上
+  ==
 W
   ====
   - [[Page~14|n57 (1)針(1)鍼]]
@@ -332,6 +372,10 @@ R
   心 + 5
 U
   U+600E
+F
+  ==
+  - [[F2.37 怎]] 怎麽猶何也語詞也
+  ==
 W
   ====
   - [[Page~15|n58 (2)怎 _(2)Cham_]]
@@ -375,6 +419,10 @@ R
   木 + 4
 U
   U+6795
+F
+  ==
+  - [[F2.37 枕]] 臥以薦首者
+  ==
 W
   ====
   - [[Page~14|n57 (2)枕]]
@@ -463,6 +511,8 @@ V
   ==
   - zam2 (for vernacular verb senses)
   ==
+F
+  [[Not present]]
 W
   ====
   - [[Page~14|n57 (2)枕 _(2)Cham_ (zam2); here normalised to _Cham(3)_ (zam3)]]
@@ -507,6 +557,10 @@ R
   水 + 4
 U
   U+6C81
+F
+  ==
+  - [[F2.38 沁]] 水名又以物探水爲沁
+  ==
 W
   ==
   - [[Page~551 沁(3)]]
@@ -531,6 +585,10 @@ V
   ==
   - cam1 (in 浸淫 etc.)
   - zam6 (for vernacular "drown" sense)
+  ==
+F
+  ==
+  - [[F2.38 浸]] 漬也潤也
   ==
 W
   ====
@@ -623,6 +681,10 @@ V
   ==
   - cam3
   ==
+F
+  ==
+  - [[F2.37 譖 _Ch(')am(3)_ (cam3)]] ::讒言[毀]人之行也::
+  ==
 W
   ====
   - [[Page~15|n58 譖(3) _Ch(')am(3)_ (cam3); here normalised to _Cham(3)_ (zam3)]]
@@ -639,6 +701,7 @@ W
   ====
 C
   ==
+  - Fan Wan entry: Corrected 殷人 to 毀人.
   - The reading cam3 is that given in 《分韻撮要》.
   ==
 S
@@ -670,6 +733,8 @@ A
   ==
   - $朕6
   ==
+F
+  [[Not present]]
 W
   ====
   - [[Page~15|n58 朕(6); here normalised to 𠹻]]
@@ -705,6 +770,10 @@ R
   月 + 6
 U
   U+6715
+F
+  ==
+  - [[F2.38 朕]] 天子自稱曰朕幽暗之文也又朕兆
+  ==
 W
   ====
   - [[Page~15|n58 朕(6)]]
