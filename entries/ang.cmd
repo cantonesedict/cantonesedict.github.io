@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ang
-* %date-modified --> 2023-12-27
+* %date-modified --> 2023-12-29
 * %copyright-prior-years -->
 
 %%%
@@ -63,6 +63,10 @@ R
   口 + 17
 U
   U+56B6
+F
+  ==
+  - [[F2.30 嚶]] 鳥鳴聲之和
+  ==
 W
   ====
   - [[Page~4 (1)嚶]]
@@ -85,6 +89,10 @@ R
   缶 + 10
 U
   U+7F43
+F
+  ==
+  - [[F2.30 罃]] 魏侯名
+  ==
 W
   ====
   - [[Page~4 (1)罃]]
@@ -101,6 +109,10 @@ R
   鳥 + 10
 U
   U+9DAF
+F
+  ==
+  - [[F2.30 鶯]] 黃鶯鳥名
+  ==
 W
   ====
   - [[Page~4 (1)鶯]]
@@ -153,6 +165,10 @@ V
   ==
   - gang2 (expected from 古杏切)
   ==
+F
+  ==
+  - [[F2.31 哽]] 鶯上聲哽咽
+  ==
 W
   ====
   - [[Page~4 (2)哽]]
@@ -185,6 +201,8 @@ V
   ==
   - gang2 (expected from 古杏切)
   ==
+F
+  [[Not present]]
 W
   ====
   - [[Page~4 (2)㾘]]
@@ -241,6 +259,8 @@ R
   曰 + 3
 U
   U+66F4
+F
+  [[Not present]]
 W
   ====
   - [[Page~4 更(3)]]
