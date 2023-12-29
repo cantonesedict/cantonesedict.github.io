@@ -73,6 +73,13 @@ R
   丨 + 2
 U
   U+4E2B
+F
+  ====
+  - [[F2.74 丫, almost certainly _(1)(a/)_ (aa1)]]
+    ==
+    - 木之枝頭也
+    ==
+  ====
 W
   ====
   - [[Page~1|n44 (1)丫]]
@@ -123,6 +130,8 @@ V
   ==
   - a1 (shorter syllable)
   ==
+F
+  [[Not present]]
 W
   ====
   - [[Page~1|n44 (1)吖]]
@@ -203,6 +212,8 @@ R
   口 + 4
 U
   U+5440
+F
+  [[Not present]]
 W
   ====
   - [[Page~1|n44 (1)呀]]
@@ -230,6 +241,8 @@ R
   口 + 8
 U
   U+554A
+F
+  [[Not present]]
 W
   [[Not present]]
 C
@@ -249,6 +262,13 @@ R
   鳥 + 4
 U
   U+9D09
+F
+  ====
+  - [[F2.74 鴉, almost certainly _(1)(a/)_ (aa1)]]
+    ==
+    - 鳥名
+    ==
+  ====
 W
   ====
   - [[Page~1|n44 (1)鴉]]
