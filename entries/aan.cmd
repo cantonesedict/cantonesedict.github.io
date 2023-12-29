@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aan
-* %date-modified --> 2023-08-12
+* %date-modified --> 2023-12-29
 * %copyright-prior-years -->
 
 %%%
@@ -58,6 +58,10 @@ R
   日 + 6
 U
   U+664F
+F
+  ==
+  [[F2.70 晏]] ::日[旰]也晚也又安也::
+  ==
 W
   ====
   - [[Page~4 晏(3)]]
@@ -96,6 +100,7 @@ W
   ====
 C
   ==
+  - Fan Wan entry: Corrected 旴 (dawn) to 旰 (late).
   - Williams' "tiffin": British for "lunch".
   - Williams' 上晏: Now rarely heard; 上晝 is more common.
   ==
@@ -112,6 +117,10 @@ A
   ==
   -{.modern} 鴳
   ==
+F
+  ==
+  [[F2.70 鷃]] ::[鳸]鷃鳥名::
+  ==
 W
   ====
   - [[Page~4 鷃(3)]]
@@ -120,4 +129,8 @@ W
       and is said to crow in the morning.
     ==
   ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿰斤鳥 to 鳸.
+  ==
 $$
