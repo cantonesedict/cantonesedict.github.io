@@ -47,8 +47,8 @@ function normaliseString(str)
 
 function matchJyutping(filterString, jyutping)
 {
-  tonelessJyutping = jyutping.replace(/[0-9-]/g, '');
-  tonelessFilterString = filterString.replace(/[0-9-]/g, '');
+  let tonelessJyutping = jyutping.replace(/[0-9-]/g, '');
+  let tonelessFilterString = filterString.replace(/[0-9-]/g, '');
   return tonelessJyutping.indexOf(tonelessFilterString) > -1;
 }
 
