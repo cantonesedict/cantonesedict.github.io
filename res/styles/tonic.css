@@ -9,9 +9,19 @@
 
 
 :target {
-  border: 3px solid blue;
-  background: #eaffff;
-  padding: 0.1em 0.3em;
+  animation-duration: 2s;
+  animation-name: temporary-highlight;
+  animation-timing-function: ease-in;
+}
+
+
+@keyframes temporary-highlight {
+  from {
+    background: #ff4;
+  }
+  to {
+    background: none;
+  }
 }
 
 
