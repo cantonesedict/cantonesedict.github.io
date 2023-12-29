@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2023-12-27
+* %date-modified --> 2023-12-29
 * %copyright-prior-years -->
 
 %%%
@@ -58,6 +58,10 @@ R
   工 + 7
 U
   U+5DEE
+F
+  ==
+  - [[F2.25 差]] 使也
+  ==
 W
   ====
   - [[Page~11|n54 (1)差]]
@@ -117,6 +121,10 @@ R
   犬 + 8
 U
   U+731C
+F
+  ==
+  - [[F2.25 猜]] 疑也度也
+  ==
 W
   ====
   - [[Page~11|n54 (1)猜]]
@@ -170,6 +178,10 @@ R
   金 + 3
 U
   U+91F5
+F
+  ==
+  - [[F2.25 釵]] 婦人之簪
+  ==
 W
   ====
   - [[Page~11|n54 (1)釵]]
@@ -212,6 +224,8 @@ R
   足 + 8
 U
   U+8E29
+F
+  [[Not present]]
 W
   [[Not present]]
 C
@@ -243,6 +257,10 @@ V
   - cyun2 (expected from 市兖切 rising)
   - dyun3 (expected from 丁貫切)
   - jaai2 (vernacular)
+  ==
+F
+  ==
+  - [[F2.27 踹]] 足踐踏也
   ==
 W
   ====
@@ -316,6 +334,10 @@ V
   - saai3 (uncommon)
   - zyut3 (for vernacular "suck" sense)
   ==
+F
+  ==
+  - [[F2.28 嘬]] 齧也一舉盡臠又捐其食曰嘬
+  ==
 W
   ====
   - [[Page~11|n54 嘬(3)]]
@@ -347,6 +369,10 @@ R
   疒 + 11
 U
   U+7635
+F
+  ==
+  - [[F2.28 瘵]] 勞病
+  ==
 W
   ====
   - [[Page~11|n54 瘵(3)]]
@@ -367,6 +393,10 @@ R
   虫 + 13
 U
   U+8806
+F
+  ==
+  - [[F2.28 蠆]] 蜂毒也
+  ==
 W
   ====
   - [[Page~11|n54 蠆(3)]]
@@ -397,6 +427,10 @@ R
   人 + 14
 U
   U+5115
+F
+  ==
+  - [[F2.26 儕]] 等也輩也
+  ==
 W
   ====
   - [[Page~11|n54 (4)儕]]
@@ -418,6 +452,10 @@ R
   木 + 5
 U
   U+67F4
+F
+  ==
+  - [[F2.26 柴]] 薪也
+  ==
 W
   ====
   - [[Page~11|n54 (4)柴]]
@@ -465,6 +503,10 @@ R
   豸 + 3
 U
   U+8C7A
+F
+  ==
+  - [[F2.26 豺]] 狼屬
+  ==
 W
   ====
   - [[Page~11|n54 (4)豺]]
