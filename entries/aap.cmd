@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aap
-* %date-modified --> 2023-12-27
+* %date-modified --> 2023-12-29
 * %copyright-prior-years -->
 
 %%%
@@ -58,6 +58,10 @@ R
   手 + 5
 U
   U+62BC
+F
+  ==
+  - [[F2.65 押]] 管押簽押
+  ==
 W
   ====
   - [[Page~5 押(8)]]
@@ -83,6 +87,10 @@ U
 V
   ==
   - aap3-2 (vernacular rising-tone noun)
+  ==
+F
+  ==
+  - [[F2.65 鴨]] 家鶩又名田鳧
   ==
 W
   ====
