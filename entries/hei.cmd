@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> hei
-* %date-modified --> 2023-12-27
+* %date-modified --> 2023-12-29
 * %copyright-prior-years -->
 
 %%%
@@ -63,6 +63,8 @@ V
   ==
   - ai3 (for vernacular senses)
   ==
+F
+  [[Not present]]
 W
   [[Not present]]
 C
