@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Home
-* %date-modified --> 2023-12-29
+* %date-modified --> 2023-12-30
 * %copyright-prior-years -->
 * %modern-colour --> crimson
 
@@ -102,9 +102,9 @@ that version has severe paging issues:
     to better document the literary language,
     which Eitel felt received insufficient attention
     compared to the Cantonese vernacular in Williams' original work.
-  - Including some characters from 《分韻撮要》 and 《康熙字典》
+  - Including some characters from Fan Wan 《分韻撮要》 and Kangxi 《康熙字典》
     which Eitel felt indispensable.
-  - Including readings and English translations of definitions from 《康熙字典》.
+  - Including readings and English translations of definitions from Kangxi.
   - Better distinguishing the register (Classical vs Colloquial vs Mixed)
     of the example phrases.
   - Supplying the Chinese characters that were not included
@@ -165,6 +165,8 @@ consisting of:
 
 1. Making corrections to typos
    <span class="williams">[in square brackets]</span>;
+
+1. Associating entries with those in the original Fan Wan 《分韻撮要》;
 
 1. Collating the entries by Jyutping
    (noting that there are phonological differences between
