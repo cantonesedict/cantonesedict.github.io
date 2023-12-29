@@ -48,6 +48,8 @@ RegexDictionaryReplacement: #.syntax.entry-key-abbreviations
                 ,{.williams}
 * ^V$ --> ; Reading variations
                 ,{.modern}
+* ^F$ --> ; Fan Wan entry
+                ,{.modern}
 * ^W$ --> ; Williams (1856) entry
                 ,{.williams}
 * ^C$ --> ; Conway's commentary
@@ -152,6 +154,41 @@ RegexDictionaryReplacement: #.syntax.link-abbreviations
 * \[ Jyutping[.]org [ ] suggests .* \]
     -->
   \g<0>(https://jyutping.org/blog/particles/)
+
+
+OrdinaryDictionaryReplacement: #.syntax.volume-id-fan-wan
+* F1@"id" --> 56620350
+* F2@"id" --> 56620369
+
+
+OrdinaryDictionaryReplacement: #.syntax.decrement
+* 0@"decrement" --> @"decrement"9
+* 1@"decrement" --> 0
+* 2@"decrement" --> 1
+* 3@"decrement" --> 2
+* 4@"decrement" --> 3
+* 5@"decrement" --> 4
+* 6@"decrement" --> 5
+* 7@"decrement" --> 6
+* 8@"decrement" --> 7
+* 9@"decrement" --> 8
+
+
+RegexDictionaryReplacement: #.syntax.trim-leading-zero
+* "trim_leading_zero"@ [0]* -->
+
+
+RegexDictionaryReplacement: #.syntax.link-abbreviations-fan-wan
+- queue_position: BEFORE #specified-links
+* F (?P<volume_number> [12] ) [.] (?P<page_number> [0-9]+ )
+    -->
+  [Volume~\g<volume_number> Page~\g<page_number>](https://nla.gov.au/nla.obj-F\g<volume_number>@"id"/#page/n"trim_leading_zero"@\g<page_number>@"decrement"/mode/1up)
+- concluding_replacements:
+    #.syntax.volume-id-fan-wan
+    #.syntax.decrement
+    #.syntax.decrement
+    #.syntax.decrement
+    #.syntax.trim-leading-zero
 
 
 OrdinaryDictionaryReplacement: #.syntax.eight-tone-marks
