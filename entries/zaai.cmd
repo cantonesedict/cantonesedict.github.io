@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2023-12-27
+* %date-modified --> 2023-12-29
 * %copyright-prior-years -->
 
 %%%
@@ -57,6 +57,12 @@ R
   文 + 6
 U
   U+658B
+F
+  ==
+  - [[F2.25 齊]] 竹佳切莊也恭也潔也洗心曰齊
+  - [[F2.25 齋]] 齋成又燕居之室曰齋
+  - [[F2.25 斋]] 同上
+  ==
 W
   ====
   - [[Page~10|n53 (1)齋(1)斋]]
@@ -77,6 +83,12 @@ R
   齊 + 3
 U
   U+9F4B
+F
+  ==
+  - [[F2.25 齊]] 竹佳切莊也恭也潔也洗心曰齊
+  - [[F2.25 齋]] 齋成又燕居之室曰齋
+  - [[F2.25 斋]] 同上
+  ==
 W
   ====
   - [[Page~10|n53 (1)齊]]
@@ -105,6 +117,12 @@ U
 A
   ==
   - $斋1
+  ==
+F
+  ==
+  - [[F2.25 齊]] 竹佳切莊也恭也潔也洗心曰齊
+  - [[F2.25 齋]] 齋成又燕居之室曰齋
+  - [[F2.25 斋]] 同上
   ==
 W
   ====
@@ -223,6 +241,10 @@ R
   人 + 11
 U
   U+50B5
+F
+  ==
+  - [[F2.28 債]] 齋去聲債負揭借銀曰債負
+  ==
 W
   ====
   - [[Page~10|n53 債(3)]]
@@ -270,6 +292,10 @@ V
   ==
   - caai3 (uncommon)
   ==
+F
+  ==
+  - [[F2.28 瘵 _Ch(')(a/)i(3)_ (caai3)]] 勞病
+  ==
 W
   ====
   - [[Page~11|n54 瘵(3) _Ch(')(a/)i(3)_ (caai3); here normalised to _Ch(a/)i(3)_ (zaai3)]]
@@ -300,6 +326,8 @@ R
   竹 + 11
 U
   U+7C00
+F
+  [[Not present]]
 W
   ====
   - [[Page~12|n55 簀(7)]]
@@ -344,6 +372,11 @@ A
   ==
   - $砦6
   ==
+F
+  ==
+  - [[F2.29 寨]] 木檽爲之蜜口營壘也
+  - [[F2.29 砦]] 同上
+  ==
 W
   ====
   - [[Page~10|n53 寨(6)砦(6)]]
@@ -369,6 +402,10 @@ W
         barracks, a camp, a military station.
     ==
   ====
+C
+  ==
+  - Fan Wan entry: 蜜 (used for 密) is printed as ⿳冖一虫.
+  ==
 $$
 
 ### 砦6 | _Ch(a/)i(6)_ [[zaai6]]
@@ -378,6 +415,11 @@ R
   石 + 5
 U
   U+7826
+F
+  ==
+  - [[F2.29 寨]] 木檽爲之蜜口營壘也
+  - [[F2.29 砦]] 同上
+  ==
 W
   ====
   - [[Page~10|n53 寨(6)砦(6)]]
@@ -385,6 +427,10 @@ W
     [[Alternative form of 寨. **See $寨zaai6 for the canonical entry.**]]
     --
   ====
+C
+  ==
+  - Fan Wan entry: 蜜 (used for 密) is printed as ⿳冖一虫.
+  ==
 $$
 
 ### 豸6 | _Ch(a/)i(6)_ [[zaai6]]
@@ -394,6 +440,10 @@ R
   豸 + 0
 U
   U+8C78
+F
+  ==
+  - [[F2.29 豸]] 蟲豸有足曰蟲無足曰豸又獬豸
+  ==
 W
   ====
   - [[Page~10|n53 豸(6)]]
