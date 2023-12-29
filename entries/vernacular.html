@@ -45,6 +45,16 @@ function normaliseString(str)
   return str.toLowerCase().trim();
 }
 
+function matchJyutping(filterString, jyutping)
+{
+  return jyutping.indexOf(filterString) > -1;
+}
+
+function matchTerm(filterString, term)
+{
+  return term.indexOf(filterString) > -1;
+}
+
 function applyFilter()
 {
   let filterElement = document.getElementById('filter');
@@ -53,11 +63,11 @@ function applyFilter()
   for (const rowElement of document.querySelectorAll('tbody tr'))
   {
     let cells = rowElement.getElementsByTagName('td');
-    let jyutpingCell = cells[0];
-    let termCell = cells[1];
+    let jyutping = normaliseString(cells[0].textContent);
+    let term = normaliseString(cells[1].textContent);
 
-    let isJyutpingMatch = normaliseString(jyutpingCell.textContent).indexOf(filterString) > -1;
-    let isTermMatch = normaliseString(termCell.textContent).indexOf(filterString) > -1;
+    let isJyutpingMatch = matchJyutping(filterString, jyutping);
+    let isTermMatch = matchTerm(filterString, term);
     rowElement.style.display = (isJyutpingMatch || isTermMatch) ? '' : 'none';
   }
 }
