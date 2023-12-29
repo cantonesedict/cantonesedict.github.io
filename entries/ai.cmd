@@ -69,6 +69,8 @@ V
   ==
   - aai1 (longer syllable for particle sense)
   ==
+F
+  [[Not present]]
 W
   ====
   - [[Page~2 (1)𫫃 (⿰口挨); here normalised to 哎]]
@@ -121,6 +123,8 @@ R
   口 + 10
 U
   U+2BAC3
+F
+  [[Not present]]
 W
   ====
   - [[Page~2 (1)𫫃 (⿰口挨)]]
@@ -148,6 +152,10 @@ R
   矢 + 8
 U
   U+77EE
+F
+  ==
+  - [[F1.31 矮]] 不高也
+  ==
 W
   ====
   - [[Page~2 (2)矮]]
@@ -198,6 +206,8 @@ V
   ==
   - hei3 (for literary senses)
   ==
+F
+  [[Not present]]
 W
   ====
   - [[Page~2 屭(3)]]
@@ -238,6 +248,10 @@ R
   日 + 12
 U
   U+66C0
+F
+  ==
+  - [[F1.32 ::[曀]::]] 陰而風也
+  ==
 W
   ====
   - [[Page~2 曀(3)]]
@@ -246,6 +260,10 @@ W
     - the sun obscured and nearly hid by the clouds.
     ==
   ====
+C
+  ==
+  - Fan Wan entry: Corrected 𦠉 (⿰⺼壹) to 曀.
+  ==
 $$
 
 ### 縊3 | _Ai(3)_ [[ai3]]
@@ -255,6 +273,10 @@ R
   糸 + 10
 U
   U+7E0A
+F
+  ==
+  - [[F1.32 縊]] 懸樑自縊也
+  ==
 W
   ====
   - [[Page~2 縊(3)]]
@@ -278,6 +300,10 @@ R
   羽 + 11
 U
   U+7FF3
+F
+  ==
+  - [[F1.32 翳]] 障翳
+  ==
 W
   ====
   - [[Page~2 翳(3)]]
@@ -325,6 +351,8 @@ R
   肉 + 12
 U
   U+26809
+F
+  [[Not present]]
 W
   ====
   - [[Page~2 𦠉(3) (⿰⺼壹)]]
@@ -332,4 +360,8 @@ W
     - Lean, cadaverous, meager, poor.
     ==
   ====
+C
+  ==
+  - Fan Wan entry: The headword 𦠉 (⿰⺼壹) is actually a misprint of $曀3.
+  ==
 $$
