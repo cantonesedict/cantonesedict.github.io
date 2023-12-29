@@ -67,6 +67,8 @@ R
   口 + 3
 U
   U+5412
+F
+  [[Not present]]
 W
   [[Not present]]
 C
@@ -96,6 +98,8 @@ R
   口 + 6
 U
   U+54B1
+F
+  [[Not present]]
 W
   ====
   - [[Page~547 (1)咱]]
@@ -121,6 +125,8 @@ R
   口 + 12
 U
   U+20FB5
+F
+  [[Not present]]
 W
   ====
   - [[Page~7 (1)𠾵]]
@@ -145,6 +151,8 @@ R
   手 + 9
 U
   U+63F8
+F
+  [[Not present]]
 W
   ====
   - [[Page~7 (1)揸]]
@@ -221,6 +229,10 @@ R
   手 + 13
 U
   U+64BE
+F
+  ==
+  - [[F2.74 撾]] 擊鼓曰撾
+  ==
 W
   ====
   - [[Page~7 (1)撾]]
@@ -237,6 +249,10 @@ R
   攴 + 11
 U
   U+3AA5
+F
+  ==
+  - [[F2.74 㪥]] 以手按物
+  ==
 W
   ====
   - [[Page~7 (1)㪥]]
@@ -260,6 +276,8 @@ R
   木 + 11
 U
   U+6A1D
+F
+  [[Not present]]
 W
   ====
   - [[Page~7 (1)樝]]
@@ -278,6 +296,10 @@ R
   水 + 9
 U
   U+6E23
+F
+  ==
+  - [[F2.74 渣]] 乍平聲渣滓
+  ==
 W
   ====
   - [[Page~7 (1)渣]]
@@ -321,6 +343,8 @@ A
   ==
   -{.modern} 皶
   ==
+F
+  [[Not present]]
 W
   ====
   - [[Page~7 (1)皻]]
@@ -341,6 +365,10 @@ R
   足 + 9
 U
   U+8E45
+F
+  ==
+  - [[F2.74 蹅]] ::足[踏]也::
+  ==
 W
   ====
   - [[Page~7 (1)蹅]]
@@ -352,6 +380,10 @@ W
         to stamp.
     ==
   ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿰目杳 to 踏.
+  ==
 $$
 
 
@@ -373,11 +405,13 @@ R
   疒 + 5
 U
   U+75C4
+F
+  [[Not present]]
 W
   ====
   - [[Page~8 (2)痄]]
     --
-    [[《分韻撮要》 follows the Middle Chinese rising tone,
+    [[Williams follows the Middle Chinese rising tone,
     but the common reading is zaa3;
     **see $痄zaa3 for the canonical entry**.]]
     --
@@ -391,6 +425,10 @@ R
   魚 + 5
 U
   U+9B93
+F
+  ==
+  - [[F2.75 鮓]] 魚鮓肉鮓
+  ==
 W
   ====
   - [[Page~7 (2)鮓]]
@@ -445,6 +483,10 @@ R
   丿 + 4
 U
   U+4E4D
+F
+  ==
+  - [[F2.76 乍]] 初也忽也猝也甫然也暫也
+  ==
 W
   ====
   - [[Page~8 乍(3)]]
@@ -481,6 +523,10 @@ V
   - caa3 (uncommon)
   - zaa1 (alternative)
   ==
+F
+  ==
+  - [[F2.76 咤 _Ch(')(a/)(3)_ (caa3)]] 叱咤怒也噴也
+  ==
 W
   ====
   - [[Page~9|n52 吒(3)咤(3) _Ch(')(a/)(3)_ (caa3); here normalised to _Ch(a/)(3)_ (zaa3)]]
@@ -513,6 +559,8 @@ R
   口 + 5
 U
   U+548B
+F
+  [[Not present]]
 W
   ====
   - [[Page~8 咋(3)]]
@@ -553,6 +601,10 @@ R
   手 + 10
 U
   U+643E
+F
+  ==
+  - [[F2.76 搾]] ::以[手]壓物::
+  ==
 W
   ====
   - [[Page~8 搾(3)]]
@@ -568,6 +620,7 @@ W
   ====
 C
   ==
+  - Fan Wan entry: Corrected 以千 to 以手.
   - Williams does not consider 搾 (pressing with the hand)
     interchangeable with 榨 (pressing with a machine);
     see $榨zaa3 for the "machine-press" senses.
@@ -581,6 +634,10 @@ R
   木 + 10
 U
   U+69A8
+F
+  ==
+  - [[F2.76 榨]] 壓油之器又糖榨
+  ==
 W
   ====
   - [[Page~8 榨(3)]]
@@ -618,6 +675,8 @@ V
   ==
   - zaa2 (expected from 側下切 rising)
   ==
+F
+  [[Not present]]
 W
   ====
   - [[Page~8 (2)痄 _(2)Ch(a/)_ (zaa2); here normalised to _Ch(a/)(3)_ (zaa3)]]
@@ -642,6 +701,8 @@ R
   虫 + 5
 U
   U+86B1
+F
+  [[Not present]]
 W
   ====
   - [[Page~8 蚱(3)]]
@@ -675,6 +736,10 @@ V
   ==
   - caa3
   ==
+F
+  ==
+  - [[F2.76 蜡 _Ch(')(a/)(3)_ (caa3)]] 八蜡祭名
+  ==
 W
   ====
   - [[Page~9|n52 蜡(3) _Ch(')(a/)(3)_ (caa3); here normalised to _Ch(a/)(3)_ (zaa3)]]
@@ -703,6 +768,10 @@ R
   言 + 5
 U
   U+8A50
+F
+  ==
+  - [[F2.76 詐]] 好僞也
+  ==
 W
   ====
   - [[Page~8 詐(3)]]
@@ -756,6 +825,10 @@ R
   酉 + 10
 U
   U+91A1
+F
+  ==
+  - [[F2.76 醡]] 壓酒具
+  ==
 W
   ====
   - [[Page~8 醡(3)]]
@@ -789,6 +862,8 @@ V
   ==
   - za4 (shorter syllable)
   ==
+F
+  [[Not present]]
 W
   [[Not present]]
 E
