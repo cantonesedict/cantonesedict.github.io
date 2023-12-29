@@ -32,7 +32,7 @@
 <h1 class="modern">Index of vernacular terms by Jyutping</h1>
 <div class="modern filter-container">
 <label for="filter">Filter for Jyutping/Term:</label>
-<input type="text" id="filter" onkeyup="applyFilter()">
+<input type="text" id="filter" onkeyup="applyFilter()" placeholder="(tones are ignored)">
 <noscript>
 <div class="modern">
 <strong>JavaScript is required for filter to work.</strong>
@@ -42,12 +42,14 @@
 <script>
 function normaliseString(str)
 {
-  return str.toLowerCase().trim();
+  return str.toLowerCase().trim().replace(/\s+/g, ' ');
 }
 
 function matchJyutping(filterString, jyutping)
 {
-  return jyutping.indexOf(filterString) > -1;
+  tonelessJyutping = jyutping.replace(/[0-9-]/g, '');
+  tonelessFilterString = filterString.replace(/[0-9-]/g, '');
+  return tonelessJyutping.indexOf(tonelessFilterString) > -1;
 }
 
 function matchTerm(filterString, term)

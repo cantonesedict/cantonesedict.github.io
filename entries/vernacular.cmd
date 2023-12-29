@@ -18,7 +18,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 
 ||||{.modern .filter-container}
 <label for="filter">Filter for Jyutping/Term:</label>
-<input type="text" id="filter" onkeyup="applyFilter()">
+<input type="text" id="filter" onkeyup="applyFilter()" placeholder="(tones are ignored)">
 <noscript>
 ||{.modern}
 **JavaScript is required for filter to work.**
@@ -30,12 +30,14 @@ u<````````
 <script>
 function normaliseString(str)
 {
-  return str.toLowerCase().trim();
+  return str.toLowerCase().trim().replace(/\s+/g, ' ');
 }
 
 function matchJyutping(filterString, jyutping)
 {
-  return jyutping.indexOf(filterString) > -1;
+  tonelessJyutping = jyutping.replace(/[0-9-]/g, '');
+  tonelessFilterString = filterString.replace(/[0-9-]/g, '');
+  return tonelessJyutping.indexOf(tonelessFilterString) > -1;
 }
 
 function matchTerm(filterString, term)
