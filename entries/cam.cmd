@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2023-12-27
+* %date-modified --> 2023-12-29
 * %copyright-prior-years -->
 
 %%%
@@ -62,6 +62,10 @@ R
   人 + 7
 U
   U+4FB5
+F
+  ==
+  - [[F2.36 侵]] 侵占侵凌侵害
+  ==
 W
   ====
   - [[Page~552 (1)侵]]
@@ -123,6 +127,10 @@ R
   示 + 7
 U
   U+7972
+F
+  ==
+  - [[F2.36 ::[祲]::]] 情氣感祥也
+  ==
 W
   ====
   - [[Page~552 (1)祲]]
@@ -130,6 +138,10 @@ W
     [[Reading variation; **see $祲zam1 for the canonical entry**.]]
     --
   ====
+C
+  ==
+  - Fan Wan entry: Corrected headword 䘲 to 祲.
+  ==
 S
   ==
   - $祲zam1
@@ -143,6 +155,10 @@ R
   艸 + 9
 U
   U+8460
+F
+  ==
+  - [[F2.36 葠]] 藥名
+  ==
 W
   ====
   - [[Page~552 (1)葠]]
@@ -159,6 +175,10 @@ R
   金 + 7
 U
   U+92DF
+F
+  ==
+  - [[F2.36 鋟]] 刻也
+  ==
 W
   ====
   - [[Page~552 (1)鋟]]
@@ -179,6 +199,10 @@ R
   馬 + 7
 U
   U+99F8
+F
+  ==
+  - [[F2.36 駸]] 馬疾行也
+  ==
 W
   ====
   - [[Page~552 (1)駸]]
@@ -212,6 +236,10 @@ R
   人 + 7
 U
   U+4FB5
+F
+  ==
+  - [[F2.37 侵]] 漸進也
+  ==
 W
   ====
   - [[Page~552 (1)侵]]
@@ -238,6 +266,10 @@ R
   宀 + 11
 U
   U+5BE2
+F
+  ==
+  - [[F2.37 寢]] 臥也息也又内室曰寢室
+  ==
 W
   ====
   - [[Page~552 (2)寢]]
@@ -283,6 +315,8 @@ R
   魚 + 4
 U
   U+9B6B
+F
+  [[Not present]]
 W
   ====
   - [[Page~15|n58 (2)[魫]<` `>]]
@@ -329,6 +363,10 @@ R
   言 + 12
 U
   U+8B56
+F
+  ==
+  - [[F2.37 譖]] ::讒言[毀]人之行也::
+  ==
 W
   ====
   - [[Page~15|n58 譖(3)]]
@@ -336,6 +374,10 @@ W
     [[Reading variation; **see $譖zam3 for the canonical entry**.]]
     --
   ====
+C
+  ==
+  - Fan Wan entry: Corrected 殷人 to 毀人.
+  ==
 S
   ==
   - $譖zam3
@@ -352,6 +394,10 @@ U
 A
   ==
   -{.modern} 唚 (for vernacular "long-winded" sense)
+  ==
+F
+  ==
+  - [[F2.37 讖]] 符讖騐也凡讖緯皆以術數言將來之騐也
   ==
 W
   ====
@@ -415,6 +461,10 @@ R
   寸 + 9
 U
   U+5C0B
+F
+  ==
+  - [[F2.37 尋]] 搜求也覓也
+  ==
 W
   ====
   - [[Page~552 (4)尋]]
@@ -468,6 +518,7 @@ W
   ====
 C
   ==
+  - Fan Wan entry: The headword 尋 is printed like ⿳彑⿰工几寸.
   - Williams' 尋物: Probably assimilation of 尋日 (cam4 jat6) into 尋物 (cam4 mat6).
   ==
 E
@@ -489,6 +540,8 @@ R
   水 + 4
 U
   U+6C89
+F
+  [[Not present]]
 W
   ====
   - [[Page~15|n58 (4)沉(4)沈]]
@@ -512,6 +565,10 @@ U
 A
   ==
   - $沈4
+  ==
+F
+  ==
+  - [[F2.37 沉]] 汲也溺也
   ==
 W
   ====
@@ -568,6 +625,10 @@ R
   火 + 12
 U
   U+71D6
+F
+  ==
+  - [[F2.37 燖]] 火熟物也
+  ==
 W
   ====
   - [[Page~552 (4)燖]]
@@ -576,6 +637,10 @@ W
     - to steep in hot broth, to make a broth of.
     ==
   ====
+C
+  ==
+  - Fan Wan entry: The component 尋 of the headword is printed like ⿳彑⿰工几寸.
+  ==
 $$
 
 ### 鐔4 | _(4)Ts(')am_ [[cam4]]
@@ -588,6 +653,10 @@ U
 V
   ==
   - jam4 (expected from 餘針切)
+  ==
+F
+  ==
+  - [[F2.37 鐔]] 劍鼻
   ==
 W
   ====
@@ -627,6 +696,10 @@ R
   雨 + 7
 U
   U+9703
+F
+  ==
+  - [[F2.37 霃]] 天久陰
+  ==
 W
   ====
   - [[Page~15|n58 (4)霃]]
@@ -650,6 +723,10 @@ V
   ==
   - cim4 (expected from 昨鹽切)
   ==
+F
+  ==
+  - [[F2.37 ::[鬵]::]] ::釜[鬵]::
+  ==
 W
   ====
   - [[Page~552 (4)鬵]]
@@ -658,6 +735,10 @@ W
     - a large kettle or boiler.
     ==
   ====
+C
+  ==
+  - Fan Wan entry: Normalised headword from 𩰿 (⿱㚘鬲) to 鬵.
+  ==
 $$
 
 ###+ 魫4 | _(4)Ch(')am_ [[cam4]]
@@ -672,6 +753,10 @@ V
   - cam2 (probably errant)
   - sam2 (expected from 式任切 rising)
   - zam2 (uncommon)
+  ==
+F
+  ==
+  - [[F2.37 魫 _(2)Cham_ (zam2)]] 魚名
   ==
 W
   ====
@@ -702,6 +787,10 @@ R
   魚 + 12
 U
   U+9C4F
+F
+  ==
+  - [[F2.37 鱏]] 魚名
+  ==
 W
   ====
   - [[Page~552 (4)鱏]]
@@ -720,6 +809,10 @@ R
   魚 + 12
 U
   U+9C58
+F
+  ==
+  - [[F2.37 鱘]] 鱘龍無鱗魚也
+  ==
 W
   ====
   - [[Page~552 (4)鱘]]
@@ -730,4 +823,8 @@ W
         the sturgeon.
     ==
   ====
+C
+  ==
+  - Fan Wan entry: The component 尋 of the headword is printed like ⿳彑⿰工几寸.
+  ==
 $$
