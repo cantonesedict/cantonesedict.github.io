@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2023-12-27
+* %date-modified --> 2023-12-29
 * %copyright-prior-years -->
 
 %%%
@@ -66,6 +66,8 @@ R
   口 + 9
 U
   U+557D
+F
+  [[Not present]]
 W
   ====
   - [[Page~724 (1)啽]]
@@ -92,6 +94,11 @@ U
 A
   ==
   - $菴1
+  ==
+F
+  ==
+  - [[F2.87 庵]] 園屋小草舍也又僧寺也
+  - [[F2.87 菴]] 同上
   ==
 W
   ====
@@ -120,6 +127,11 @@ R
   艸 + 8
 U
   U+83F4
+F
+  ==
+  - [[F2.87 庵]] 園屋小草舍也又僧寺也
+  - [[F2.87 菴]] 同上
+  ==
 W
   ====
   - [[Page~341 (1)庵(1)菴]]
@@ -136,6 +148,8 @@ R
   言 + 9
 U
   U+8AF3
+F
+  [[Not present]]
 W
   [[Not present]]
 C
@@ -159,6 +173,10 @@ U
 A
   ==
   - $䳺1
+  ==
+F
+  ==
+  - [[F2.87 䳺]] 䳺鶉鳥名
   ==
 W
   ====
@@ -188,6 +206,10 @@ R
   鳥 + 11
 U
   U+4CFA
+F
+  ==
+  - [[F2.87 䳺]] 䳺鶉鳥名
+  ==
 W
   ====
   - [[Page~341 (1)䳺]]
@@ -221,6 +243,8 @@ R
   口 + 8
 U
   U+5535
+F
+  [[Not present]]
 W
   ====
   - [[Page~3 (2)唵]]
@@ -244,6 +268,8 @@ R
   手 + 8
 U
   U+63A9
+F
+  [[Not present]]
 W
   ====
   - [[Page~3 (2)掩]]
@@ -274,6 +300,10 @@ U
 A
   ==
   - $掩2
+  ==
+F
+  ==
+  - [[F2.87 揞]] ::藏[也]覆之也::
   ==
 W
   ====
@@ -338,6 +368,7 @@ W
   ====
 C
   ==
+  - Fan Wan entry: Corrected 藏𡈼 to 藏也.
   - Williams' 揞白迷濛: Corrected _p(a/)k(8)_ [[baak3]] to _p(a/)k(9)_ [[baak6]].
   - Williams' 揞背手: Now rarely heard; 揞口費 is more common for "hush money".
   ==
@@ -360,6 +391,10 @@ R
   欠 + 8
 U
   U+6B3F
+F
+  ==
+  - [[F2.87 欿]] 欿然不足之貌
+  ==
 W
   ====
   - [[Page~342 (2)欿]]
@@ -383,6 +418,10 @@ U
 V
   ==
   - am1 (expected from 烏含切)
+  ==
+F
+  ==
+  - [[F2.87 諳]] 諳練曉也
   ==
 W
   ====
@@ -419,6 +458,10 @@ V
   ==
   - am3 (expected from 烏紺切)
   ==
+F
+  ==
+  - [[F2.87 闇]] 暗也
+  ==
 W
   ====
   - [[Page~342 (2)闇]]
@@ -450,6 +493,10 @@ R
   黑 + 9
 U
   U+9EEF
+F
+  ==
+  - [[F2.87 黯]] 黯黯不明貌又漢臣汲黯
+  ==
 W
   ====
   - [[Page~342 (2)黯]]
@@ -482,6 +529,10 @@ R
   日 + 9
 U
   U+6697
+F
+  ==
+  - [[F2.88 暗]] 不明也又目不明貌
+  ==
 W
   ====
   - [[Page~342 暗(3)]]
@@ -543,6 +594,8 @@ R
   門 + 9
 U
   U+95C7
+F
+  [[Not present]]
 W
   [[Not present]]
 C
