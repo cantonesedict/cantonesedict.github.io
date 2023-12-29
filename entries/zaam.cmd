@@ -64,6 +64,10 @@ R
   竹 + 12
 U
   U+7C2A
+F
+  ==
+  - [[F2.63 簪]] 首飾也又聚也
+  ==
 W
   ====
   - [[Page~553 (1)簪]]
@@ -111,6 +115,10 @@ R
   斤 + 7
 U
   U+65AC
+F
+  ==
+  - [[F2.64 斬]] 截也斷也
+  ==
 W
   ====
   - [[Page~15|n58 (2)斬]]
@@ -162,6 +170,8 @@ R
   目 + 5
 U
   U+7728
+F
+  [[Not present]]
 W
   [[Not present]]
 C
@@ -186,6 +196,8 @@ A
   -{.modern} $眨2
   ==
 W
+  [[Not present]]
+F
   [[Not present]]
 E
   ====
@@ -222,6 +234,10 @@ R
   水 + 9
 U
   U+6E5B
+F
+  ==
+  - [[F2.65 湛]] 澄湛清也淡也又姓
+  ==
 W
   ====
   - [[Page~16|n59 湛(3)]]
@@ -243,6 +259,10 @@ R
   艸 + 19
 U
   U+8638
+F
+  ==
+  - [[F2.65 ::[蘸]::]] ::以物淬[水]中::
+  ==
 W
   ====
   - [[Page~16|n59 蘸(3)]]
@@ -254,6 +274,11 @@ W
     Vulgarly pronounced _(5)y(a/)m_ [[jaam5]]; [[see $蘸jaam5]].
     --
   ====
+C
+  ==
+  - Fan Wan entry: Normalised headword ⿱艹⿰酉隹 (missing 灬) to 蘸,
+    and corrected 禾中 to 水中.
+  ==
 S
   ==
   - $蘸jaam5 (TODO)
@@ -279,6 +304,10 @@ R
   立 + 5
 U
   U+7AD9
+F
+  ==
+  - [[F2.71 站 _Ch(a/)n(6)_ (zaan6)]] 站立也又音賺
+  ==
 W
   ====
   - [[Page~16|n59 站(6)]]
@@ -297,6 +326,7 @@ W
   ====
 C
   ==
+  - Fan Wan entry: Note that Fan Wan considers 賺 to be read _ch(a/)m(6)_ [[zaam6]].
   - Williams' 驛站: Stage meaning a relay station for horses.
   ==
 $$
@@ -308,6 +338,10 @@ R
   貝 + 10
 U
   U+8CFA
+F
+  ==
+  - [[F2.65 賺]] ::中淡切猶眈誤也阻之也生意[獲]利亦曰賺::
+  ==
 W
   ====
   - [[Page~16|n59 賺(6)]]
@@ -317,6 +351,13 @@ W
     **see $賺zaan6 for the canonical entry**.]]
     --
   ====
+C
+  ==
+  - Fan Wan entry: The supplied dissection 中淡切 is incorrect,
+    as it results in the 陰去 reading _ch(a/)m(3)_ [[zaam3]],
+    rather than the intended 陽去 reading _ch(a/)m(6)_ [[zaam6]].
+    Normalised 𫉬 (⿱艹⿰犭隻) to 獲.
+  ==
 S
   ==
   - $賺zaan6 (TODO)
