@@ -310,11 +310,11 @@ A
   - $瘂2
   ==
 F
-  ====
+  ==
   - [[F2.75 啞]] 口不能言曰啞
   - [[F2.75 瘂]] 同上
   - [[F2.75 𤺘]] 同上
-  ====
+  ==
 W
   ====
   - [[Page~1|n44 (2)啞]]
@@ -372,11 +372,11 @@ R
 U
   U+7602
 F
-  ====
+  ==
   - [[F2.75 啞]] 口不能言曰啞
   - [[F2.75 瘂]] 同上
   - [[F2.75 𤺘]] 同上
-  ====
+  ==
 W
   ====
   - [[Page~1|n44 (2)瘂]]
@@ -416,6 +416,10 @@ V
   ==
   - a3 (shorter syllable)
   ==
+F
+  ==
+  - [[F2.76 亞]] 次也孟子曰亞聖
+  ==
 W
   ====
   - [[Page~2 亞(3)阿(3)]]
@@ -444,6 +448,8 @@ R
   口 + 4
 U
   U+5440
+F
+  [[Not present]]
 W
   ====
   - [[Page~1|n44 呀(3)]]
@@ -479,6 +485,8 @@ V
   ==
   - a3 (shorter syllable)
   ==
+F
+  [[Not present]]
 W
   ====
   - [[Page~1|n44 呀(3); here normalised to 啊]]
@@ -527,6 +535,10 @@ R
   女 + 8
 U
   U+5A6D
+F
+  ==
+  - [[F2.76 亞]] 姻婭兩壻相謂曰婭
+  ==
 W
   ====
   - [[Page~2 婭(3)]]
@@ -553,6 +565,8 @@ A
   ==
   - $亞3 [[not considered an alternative in modern usage]]
   ==
+F
+  [[Not present]]
 W
   ====
   - [[Page~2 亞(3)阿(3)]]
@@ -612,6 +626,8 @@ V
   ==
   - a4 (shorter syllable)
   ==
+F
+  [[Not present]]
 W
   [[Not present]]
 C
@@ -660,6 +676,8 @@ V
   ==
   - a6 (shorter syllable for elided "ten" sense)
   ==
+F
+  [[Not present]]
 W
   ====
   - [[Page~1|n44 呀(3)]]
