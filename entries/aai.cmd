@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aai
-* %date-modified --> 2023-12-27
+* %date-modified --> 2023-12-29
 * %copyright-prior-years -->
 
 %%%
@@ -58,6 +58,10 @@ R
   手 + 7
 U
   U+6328
+F
+  ==
+  - [[F2.25 挨]] 屋齋切倚也排也擊也又背負也
+  ==
 W
   ====
   - [[Page~2 (1)挨]]
@@ -127,6 +131,8 @@ R
   口 + 10
 U
   U+55CC
+F
+  [[Not present]]
 W
   ====
   - [[Page~3 嗌(3)]]
@@ -195,6 +201,10 @@ R
   阜 + 10
 U
   U+9698
+F
+  ==
+  - [[F2.28 隘]] 窄狹也陋也塞也
+  ==
 W
   ====
   - [[Page~3 隘(3)]]
