@@ -262,7 +262,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected 𦠉 (⿰⺼壹) to 曀.
+  - Fan Wan entry: Corrected headword 𦠉 (⿰⺼壹) to 曀.
   ==
 $$
 

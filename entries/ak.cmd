@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ak
-* %date-modified --> 2023-12-23
+* %date-modified --> 2023-12-29
 * %copyright-prior-years -->
 
 %%%
@@ -72,6 +72,11 @@ V
   ==
   - aak1 (longer syllable)
   ==
+F
+  ==
+  - [[F2.33 厄]] 困窮也阻難也
+  - [[F2.33 ::[戹]::]] 同上
+  ==
 W
   ====
   - [[Page~3 厄(7)]]
@@ -90,10 +95,11 @@ W
   ====
 C
   ==
+  - Fan Wan entry: Corrected headword 卮 to 戹.
   - Most modern speakers prefer the longer syllable _(a/)k(7)_ [[aak1]];
     see $厄aak1.
   - Williams erroneously has 𢨪 (⿸戶巳) for an alternate form instead of 戹.
-    ==
+  ==
 S
   ==
   - $厄aak1
@@ -107,6 +113,8 @@ R
   口 + 8
 U
   U+555E
+F
+  [[Not present]]
 W
   ====
   - [[Page~1|n44 (2)啞]]
@@ -135,6 +143,10 @@ R
   巾 + 9
 U
   U+5E44
+F
+  ==
+  - [[F2.32 幄]] 覆帳也
+  ==
 W
   ====
   - [[Page~3 幄(7)]]
@@ -156,6 +168,10 @@ U
 V
   ==
   - aak1 (longer syllable)
+  ==
+F
+  ==
+  - [[F2.32 握]] 持也
   ==
 W
   ====
@@ -195,6 +211,10 @@ R
   水 + 9
 U
   U+6E25
+F
+  ==
+  - [[F2.32 渥]] ::厚也[沾]濡也洽也潤也::
+  ==
 W
   ====
   - [[Page~3 渥(7)]]
@@ -215,6 +235,10 @@ W
         to make very red.
     ==
   ====
+C
+  ==
+  - Fan Wan entry: Corrected 沽濡 to 沾濡.
+  ==
 $$
 
 ### 阨1 | _Ak(7)_ [[ak1]]
@@ -227,6 +251,10 @@ U
 V
   ==
   - aak1 (longer syllable)
+  ==
+F
+  ==
+  - [[F2.32 阨]] 困窮也
   ==
 W
   ====
