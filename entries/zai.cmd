@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2023-12-27
+* %date-modified --> 2023-12-29
 * %copyright-prior-years -->
 
 %%%
@@ -66,6 +66,10 @@ R
   刀 + 14
 U
   U+5291
+F
+  ==
+  - [[F1.28 劑]] 調劑又劑量
+  ==
 W
   ====
   - [[Page~548 (1)劑]]
@@ -94,6 +98,10 @@ R
   手 + 14
 U
   U+64E0
+F
+  ==
+  - [[F1.28 擠]] 排也推也
+  ==
 W
   ====
   - [[Page~9|n52 (1)擠 _(1)Chai_ (zai1)]]
@@ -144,6 +152,10 @@ R
   禾 + 14
 U
   U+7A67
+F
+  ==
+  - [[F1.28 穧]] 刈禾把數也束也
+  ==
 W
   ====
   - [[Page~548 (1)穧]]
@@ -164,6 +176,11 @@ R
   貝 + 8
 U
   U+8CEB
+F
+  ==
+  - [[F1.28 齎]] 送也行道所用也
+  - [[F1.28 賫]] 持送曰賫詔是也
+  ==
 W
   ====
   - [[Page~548 (1)賷(1)賫]]
@@ -180,6 +197,11 @@ R
   貝 + 10
 U
   U+8CF7
+F
+  ==
+  - [[F1.28 齎]] 送也行道所用也
+  - [[F1.28 賫]] 持送曰賫詔是也
+  ==
 W
   ====
   - [[Page~548 (1)賷(1)賫]]
@@ -200,6 +222,11 @@ A
   ==
   - $隮1
   ==
+F
+  ==
+  - [[F1.28 躋]] 登也升也
+  - [[F1.28 隮]] 惡氣上升也
+  ==
 W
   ====
   - [[Page~548 (1)躋(1)隮]]
@@ -219,6 +246,11 @@ R
   阜 + 14
 U
   U+96AE
+F
+  ==
+  - [[F1.28 躋]] 登也升也
+  - [[F1.28 隮]] 惡氣上升也
+  ==
 W
   ====
   - [[Page~548 (1)躋(1)隮]]
@@ -239,6 +271,11 @@ A
   ==
   - $賫1
   - $賷1
+  ==
+F
+  ==
+  - [[F1.28 齎]] 送也行道所用也
+  - [[F1.28 賫]] 持送曰賫詔是也
   ==
 W
   ====
@@ -285,6 +322,10 @@ R
   齊 + 9
 U
   U+9F4F
+F
+  ==
+  - [[F1.28 虀]] 薑蒜爲之又碎也和也
+  ==
 W
   ====
   - [[Page~548 (1)齏]]
@@ -298,6 +339,11 @@ W
         to blend, as when mixing the tastes of spices.
     ==
   ====
+C
+  ==
+  - Fan Wan entry: Note that the headword 虀
+    is not the same as Williams' headword 齏.
+  ==
 $$
 
 
@@ -322,6 +368,10 @@ U
 V
   ==
   - zai2-4 (low first in reduplication 仔仔 zai2-4 zai2)
+  ==
+F
+  ==
+  - [[F1.31 仔]] 皃子也又仔肩
   ==
 W
   ====
@@ -409,6 +459,8 @@ R
   水 + 14
 U
   U+6FDF
+F
+  [[Not present]]
 W
   ====
   - [[Page~549 濟(3) _Tsai(3)_ (zai3); here corrected to _(2)Tsai_ (zai2)]]
@@ -450,6 +502,10 @@ R
   刀 + 6
 U
   U+5236
+F
+  ==
+  - [[F1.32 制]] 節也禁也
+  ==
 W
   ====
   - [[Page~9|n52 制(3)]]
@@ -509,6 +565,10 @@ R
   心 + 14
 U
   U+61E0
+F
+  ==
+  - [[F1.32 懠]] 怒也
+  ==
 W
   ====
   - [[Page~549 懠(3)]]
@@ -529,6 +589,10 @@ R
   手 + 8
 U
   U+63A3
+F
+  ==
+  - [[F1.32 掣]] 掣肘滯隔不進也
+  ==
 W
   ====
   - [[Page~10|n53 掣(3)]]
@@ -593,6 +657,10 @@ A
   ==
   - $晣3
   ==
+F
+  ==
+  - [[F1.32 ::[晣]::]] 小星明也又音？
+  ==
 W
   ====
   - [[Page~9|n52 晣(3); here normalised to 晢]]
@@ -603,6 +671,12 @@ W
         the twinkling lustre of the stars.
     ==
   ====
+C
+  ==
+  - Fan Wan entry: Corrected headword 䀿 to 晣. The character 若
+    printed for the alternative reading (又音) does not make sense;
+    likely either 昔 _sik(7)_ (sik1) or 折 _ch(i/)t(8)_ (zit3) was intended.
+  ==
 $$
 
 ### 晣3 | _Chai(3)_ [[zai3]]
@@ -612,6 +686,10 @@ R
   日 + 7
 U
   U+6663
+F
+  ==
+  - [[F1.32 ::[晣]::]] 小星明也又音？
+  ==
 W
   ====
   - [[Page~9|n52 晣(3)]]
@@ -619,6 +697,12 @@ W
     [[Alternative form of 晢. **See $晢zai3 for the canonical entry.**]]
     --
   ====
+C
+  ==
+  - Fan Wan entry: Corrected headword 䀿 to 晣. The character 若
+    printed for the alternative reading (又音) does not make sense;
+    likely either 昔 _sik(7)_ (sik1) or 折 _ch(i/)t(8)_ (zit3) was intended.
+  ==
 $$
 
 ### 濟3 | _Tsai(3)_ [[zai3]]
@@ -628,6 +712,10 @@ R
   水 + 14
 U
   U+6FDF
+F
+  ==
+  - [[F1.32 濟]] 周濟又通也
+  ==
 W
   ====
   - [[Page~549 濟(3)]]
@@ -673,6 +761,10 @@ R
   禾 + 11
 U
   U+7A44
+F
+  ==
+  - [[F1.32 穄]] 谷也似黍而小
+  ==
 W
   ====
   - [[Page~548 穄(3)]]
@@ -690,6 +782,10 @@ R
   示 + 6
 U
   U+796D
+F
+  ==
+  - [[F1.32 祭]] 祀也薦也
+  ==
 W
   ====
   - [[Page~548 祭(3)]]
@@ -727,6 +823,10 @@ R
   衣 + 8
 U
   U+88FD
+F
+  ==
+  - [[F1.32 製]] 造也作也
+  ==
 W
   ====
   - [[Page~9|n52 製(3)]]
@@ -776,6 +876,10 @@ R
   阜 + 11
 U
   U+969B
+F
+  ==
+  - [[F1.32 際]] 交會也又邊畔也
+  ==
 W
   ====
   - [[Page~548 際(3)]]
@@ -811,6 +915,10 @@ R
   雨 + 14
 U
   U+973D
+F
+  ==
+  - [[F1.32 霽]] 雨止而日光也
+  ==
 W
   ====
   - [[Page~549 霽(3)]]
@@ -843,6 +951,8 @@ R
   口 + 14
 U
   U+568C
+F
+  [[Not present]]
 W
   ====
   - [[Page~549 嚌(6)]]
@@ -910,6 +1020,10 @@ R
   水 + 11
 U
   U+6EEF
+F
+  ==
+  - [[F1.34 滯]] 阻滯不通也
+  ==
 W
   ====
   - [[Page~10|n53 滯(6)]]
@@ -959,6 +1073,10 @@ V
   ==
   - zai1 (uncommon)
   - zai3 (alternative from 子計切)
+  ==
+F
+  ==
+  - [[F1.28 穧]] 刈禾把數也束也
   ==
 W
   ====
