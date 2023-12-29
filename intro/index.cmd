@@ -2058,7 +2058,7 @@ final, like the following:---
   the deer sleeps in the back shed.
 
 - _(1)P(a/) (1)p(a/) (2)p(a/) (2)p(a/) (4)p[(')](a/) (4)p[(')](a/) t(i/)(6)_
-  [[baa1 baa1 baa2 baa2 paa4 paa4 dei6]] u<`<span lang="zh-Hant">爸爸把把[耙耙]地</span>`>
+  [[baa1 baa1 baa2 baa2 paa4 paa4 dei6]] ::爸爸把把[耙耙]地::
   papa rakes the ground with a rake.
 
 - _(5)Yau (4)yau tau(6) (2)tsau (4)k(')au (2)sau shau(6)_
@@ -2127,7 +2127,7 @@ then the _h(a/)(6) (4)p(')ing (1)shing_ [[haa6 ping4 sing1]] 下平聲  or lower
 followed by the _sh(e/)ung[(6)] (5)sh(e/)ung_ [[soeng6 soeng5]] 上上,
 and _h(a/)(6) (5)sh(e/)ung_ [[haa6 soeng5]] 下上,
 or upper and lower rising tone,
-the _sh(e/)ung[(6)] h(u")(3)_ [[soeng6 heoi3]] u<`<span lang="zh-Hant">[上]去</span>`>, and
+the _sh(e/)ung[(6)] h(u")(3)_ [[soeng6 heoi3]] ::[上]去::, and
 lastly the _h(a/)(6) h(u")(3)_ [[haa6 heoi3]] 下去 or upper and lower retiring tone,
 always in this same order. The other two tones,
 the _sh(e/)ung[(6)] yap(9)_ [[soeng6 yap6]] 上入
@@ -2209,10 +2209,10 @@ will show how much the volume would have been increased
 without adding a single sentence, if the characters had been inserted
 in such type as is now available.
 [[In the original print the Chinese characters were tall,
-perhaps at <`~`>2em, as so: <span lang="zh-Hant" style="font-size: 2em; vertical-align: middle;"><`天地玄黃`></span>.]]
+perhaps at <`~`>2em, as so: ::{style="font-size: 2em; vertical-align: middle;"}天地玄黃::.]]
 When fonts of Chinese type
-are made as small as they have occasionally been cut, (as <span lang="zh-Hant" style="font-size: 1.3em; vertical-align: middle;"><`誰識種`></span> [[<`~`>1.3em]],
-or <span lang="zh-Hant" style="font-size: 1em; vertical-align: middle;"><`首章又歌基`></span> [[<`~`>1em]],)
+are made as small as they have occasionally been cut, (as ::{style="font-size: 1.3em; vertical-align: middle;"}誰識種:: [[<`~`>1.3em]],
+or ::{style="font-size: 1em; vertical-align: middle;"}首章又歌基:: [[<`~`>1em]],)
 it will be more practicable to introduce them.
 --
 

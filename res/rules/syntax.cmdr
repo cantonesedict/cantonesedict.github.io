@@ -270,6 +270,16 @@ OrdinaryDictionaryReplacement: #.syntax.typography
 *   (') --> ʻ
 
 
+FixedDelimitersReplacement: #.syntax.chinese-lang-forced
+- queue_position: BEFORE #escape-idle-html
+- syntax_type: INLINE
+- opening_delimiter: ::
+- attribute_specifications: l=zh-Hant
+- closing_delimiter: ::
+- tag_name: span
+- concluding_replacements: #placeholder-protect
+
+
 RegexDictionaryReplacement: #.syntax.chinese-lang
 - queue_position: BEFORE #escape-idle-html
 * (?P<chinese_run> [꜀-꜇]? [⺀-〿㇀-㇣㐀-鿼豈-龎！-｠𠀀-𱍊]+ [꜀-꜇]? )
