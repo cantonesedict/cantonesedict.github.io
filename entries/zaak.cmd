@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2023-12-27
+* %date-modified --> 2023-12-29
 * %copyright-prior-years -->
 
 %%%
@@ -72,6 +72,8 @@ V
   ==
   - zaak6 (alternative)
   ==
+F
+  [[Not present]]
 W
   ====
   - [[Page~12|n55 責(8); here normalised to 矺]]
@@ -132,6 +134,8 @@ R
   石 + 5
 U
   U+7838
+F
+  [[Not present]]
 W
   [[Not present]]
 C
@@ -147,6 +151,8 @@ R
   石 + 11
 U
   U+78E7
+F
+  [[Not present]]
 W
   [[Not present]]
 C
@@ -162,6 +168,10 @@ R
   穴 + 5
 U
   U+7A84
+F
+  ==
+  - [[F2.90 窄]] 直百切狹也迫也
+  ==
 W
   ====
   - [[Page~12|n55 窄(8)]]
@@ -189,6 +199,12 @@ W
         a lane.
     ==
   ====
+C
+  ==
+  - Fan Wan entry: The supplied dissection 直百切 is incorrect,
+    as it results in the 陽入 reading _ch(a/)k(9)_ [[zaak6]],
+    rather than the intended 陰入 reading _ch(a/)k(8)_ [[zaak3]].
+  ==
 $$
 
 ### 笮3 | _Ch(a/)k(8)_ [[zaak3]]
@@ -198,6 +214,8 @@ R
   竹 + 5
 U
   U+7B2E
+F
+  [[Not present]]
 W
   ====
   - [[Page~12|n55 笮(8)]]
@@ -219,6 +237,10 @@ R
   竹 + 11
 U
   U+7C00
+F
+  ==
+  - [[F2.32 簀 _Chak(7)_ (zak1)]] ？？也
+  ==
 W
   ====
   - [[Page~12|n55 簀(7) _Chak(7)_ (zak1); here normalised to _Ch(a/)k(8)_ (zaak3)]]
@@ -232,6 +254,12 @@ W
     Read _ch(a/)i(3)_ [[zaai3]]; [[**see $簀zaai3**]].
     --
   ====
+C
+  ==
+  - Fan Wan entry: The first two characters of the explanation are incomprehensible.
+    The first, ⿱𥫗章, does not exist.
+    The second is illegible, but appears like a deformed version of 䓂.
+  ==
 S
   ==
   - $簀zaai3
@@ -256,6 +284,10 @@ W
         a small boat, a punt, a pinnace, a junk's gig.
     ==
   ====
+F
+  ==
+  - [[F2.90 舴]] 舴船小船
+  ==
 C
   ==
   - Williams' 舴艋: Changed Middle Chinese _mang_ [[mang]]
@@ -271,6 +303,10 @@ R
   貝 + 4
 U
   U+8CAC
+F
+  ==
+  - [[F2.32 責 _Chak(7)_ (zak1)]] 責罰責成
+  ==
 W
   ====
   - [[Page~12|n55 責(8)]]
@@ -318,6 +354,10 @@ R
   貝 + 11
 U
   U+8CFE
+F
+  ==
+  - [[F2.32 ::[賾]:: _Chak(7)_ (zak1)]] 深也雜也
+  ==
 W
   ====
   - [[Page~12|n55 賾(7) _Chak(7)_ (zak1); here normalised to _Ch(a/)k(8)_ (zaak3)]]
@@ -327,6 +367,10 @@ W
     - occult, profound.
     ==
   ====
+C
+  ==
+  - Fan Wan entry: Normalised headword from 𧷤 (⿲丿臣責) to 賾.
+  ==
 S
   ==
   - $賾zak1
@@ -365,6 +409,10 @@ U
 V
   ==
   - zaak6-2 (vernacular rising-tone noun)
+  ==
+F
+  ==
+  - [[F2.89 宅]] 家宅居也堂也
   ==
 W
   ====
@@ -405,6 +453,10 @@ R
   手 + 11
 U
   U+6458
+F
+  ==
+  - [[F2.89 摘]] 以手折花曰擇
+  ==
 W
   ====
   - [[Page~13|n56 摘(9)]]
@@ -445,6 +497,10 @@ R
   手 + 13
 U
   U+64C7
+F
+  ==
+  - [[F2.89 擇]] 揀擇選擇
+  ==
 W
   ====
   - [[Page~13|n56 擇(9)]]
@@ -473,6 +529,10 @@ R
   手 + 14
 U
   U+64E2
+F
+  ==
+  - [[F2.89 擢]] 拔抽也取用也
+  ==
 W
   ====
   - [[Page~13|n56 擢(9)]]
@@ -493,6 +553,10 @@ R
   手 + 15
 U
   U+64F2
+F
+  ==
+  - [[F2.89 擲]] 棄擲
+  ==
 W
   ====
   - [[Page~13|n56 擲(9)]]
@@ -527,6 +591,10 @@ R
   水 + 13
 U
   U+6FA4
+F
+  ==
+  - [[F2.89 澤]] 恩澤惠澤潤澤雨澤
+  ==
 W
   ====
   - [[Page~13|n56 澤(9)]]
@@ -572,6 +640,8 @@ R
   石 + 3
 U
   U+77FA
+F
+  [[Not present]]
 W
   [[Not present]]
 C
@@ -591,6 +661,10 @@ R
   羽 + 8
 U
   U+7FDF
+F
+  ==
+  - [[F2.89 翟]] ::姓也又音[狄]::
+  ==
 W
   ====
   - [[Page~13|n56 翟(9)]]
@@ -604,6 +678,7 @@ W
   ====
 C
   ====
+  - Fan Wan entry: Corrected 音伙 to 音狄, and removed extraneous trailing 翟.
   - Williams' also read _t(')ik(7)_ etc.: this is not quite correct.
     ==
     - 摘 is also read _t(')ik(7)_ [[tik1]] (expected from 他歷切); but
@@ -623,6 +698,8 @@ R
   虫 + 15
 U
   U+274F8
+F
+  [[Not present]]
 W
   ====
   - [[Page~13|n56 𧓸(9) (⿰虫鄭)]]
@@ -644,6 +721,11 @@ U
 A
   ==
   - $讁6
+  ==
+F
+  ==
+  - [[F2.89 讁]] 責也貶也
+  - [[F2.89 適]] 同上
   ==
 W
   ====
@@ -668,6 +750,11 @@ R
   言 + 15
 U
   U+8B81
+F
+  ==
+  - [[F2.89 讁]] 責也貶也
+  - [[F2.89 適]] 同上
+  ==
 W
   ====
   - [[Page~13|n56 謫(9)讁(9)]]
@@ -684,6 +771,11 @@ R
   足 + 15
 U
   U+8E91
+F
+  ==
+  - [[F2.89 躑]] 躑躅蟲名人之奔走追逐也
+  - [[F2.89 蹢]] 同上
+  ==
 W
   ====
   - [[Page~13|n56 躑(9)]]
