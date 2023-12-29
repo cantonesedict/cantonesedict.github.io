@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aang
-* %date-modified --> 2023-10-07
+* %date-modified --> 2023-12-29
 * %copyright-prior-years -->
 
 %%%
@@ -60,6 +60,8 @@ R
   瓦 + 14
 U
   U+7516
+F
+  [[Not present]]
 W
   ====
   - [[Page~4 (1)甖(1)罌]]
@@ -84,6 +86,12 @@ A
 V
   ==
   - ang1 (shorter syllable)
+  ==
+F
+  ==
+  - [[F2.30 罌 _(1)Ang_ (ang1)]] 瓦屬
+  - [[F2.88 ⿱䀠缶 _(1)(A/)ng_ (aang1)]] 屋坑切瓶屬
+  - [[F2.88 ⿱䀠辰 _(1)(A/)ng_ (aang1)]] 同上
   ==
 W
   ====
