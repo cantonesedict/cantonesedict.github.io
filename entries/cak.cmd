@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cak
-* %date-modified --> 2023-12-23
+* %date-modified --> 2023-12-29
 * %copyright-prior-years -->
 
 %%%
@@ -62,6 +62,10 @@ V
   ==
   - caak1 (longer syllable)
   ==
+F
+  ==
+  - [[F2.32 惻]] ::隱傷也[痛]也::
+  ==
 W
   ====
   - [[Page~12|n55 惻(7)]]
@@ -75,6 +79,7 @@ W
   ====
 C
   ==
+  - Fan Wan entry: Corrected 𭙡 (⿸广甬) to 痛.
   - Williams' 惻隱之心: Corrected _(4)yan_ [[jan4]] to _(2)yan_ [[jan2]].
   ==
 S
@@ -93,6 +98,10 @@ U
 V
   ==
   - caak1 (longer syllable)
+  ==
+F
+  ==
+  - [[F2.32 測]] 度也
   ==
 W
   ====
