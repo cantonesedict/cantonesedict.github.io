@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zak
-* %date-modified --> 2023-12-23
+* %date-modified --> 2023-12-29
 * %copyright-prior-years -->
 
 %%%
@@ -62,6 +62,10 @@ R
   人 + 2
 U
   U+4EC4
+F
+  ==
+  - [[F2.32 仄]] 平仄傾仄
+  ==
 W
   ====
   - [[Page~12|n55 仄(7)]]
@@ -92,6 +96,10 @@ R
   人 + 9
 U
   U+5074
+F
+  ==
+  - [[F2.32 側 _Ch(')ak(7)_ (cak1)]] 傍邊曰側
+  ==
 W
   ====
   - [[Page~12|n55 側(7)]]
@@ -139,6 +147,10 @@ R
   刀 + 7
 U
   U+5247
+F
+  ==
+  - [[F2.33 則]] 法也準也卽也
+  ==
 W
   ====
   - [[Page~550 則(7)]]
@@ -194,6 +206,10 @@ R
   日 + 4
 U
   U+6603
+F
+  ==
+  - [[F2.32 昃]] 日斜也
+  ==
 W
   ====
   - [[Page~12|n55 昃(7)]]
@@ -215,6 +231,10 @@ R
   竹 + 11
 U
   U+7C00
+F
+  ==
+  - [[F2.32 簀]] ？？也
+  ==
 W
   ====
   - [[Page~12|n55 簀(7)]]
@@ -224,6 +244,12 @@ W
     **see $簀zaak3 for the canonical entry**.]]
     --
   ====
+C
+  ==
+  - Fan Wan entry: The first two characters of the explanation are incomprehensible.
+    The first, ⿱𥫗章, does not exist.
+    The second is illegible, but appears like a deformed version of 䓂.
+  ==
 S
   ==
   - $簀zaai3
@@ -238,6 +264,10 @@ R
   貝 + 11
 U
   U+8CFE
+F
+  ==
+  - [[F2.32 ::[賾]::]] 深也雜也
+  ==
 W
   ====
   - [[Page~12|n55 賾(7)]]
@@ -245,6 +275,10 @@ W
     [[Idiosyncratic reading from 《分韻撮要》; **see $賾zaak3 for the canonical entry**.]]
     --
   ====
+C
+  ==
+  - Fan Wan entry: Normalised headword 𧷤 (⿲丿臣責) to 賾.
+  ==
 S
   ==
   - $賾zaak3
@@ -258,6 +292,10 @@ R
   魚 + 7
 U
   U+9BFD
+F
+  ==
+  - [[F2.33 鯽]] 魚名
+  ==
 W
   ====
   - [[Page~550 鯽(7)]]
@@ -286,6 +324,8 @@ A
   ==
   - $鯽1
   ==
+F
+  [[Not present]]
 W
   ====
   - [[Page~550 鯽(7); here normalised to 鰂]]
