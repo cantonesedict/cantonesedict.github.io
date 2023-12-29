@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> at
-* %date-modified --> 2023-08-12
+* %date-modified --> 2023-12-29
 * %copyright-prior-years -->
 
 %%%
@@ -53,6 +53,12 @@ $$
 ### [扤]1 | _At(7)_ [[at1]]
 
 $$
+R
+  手 + 3
+U
+  U+6264
+F
+  [[Not present]]
 W
   ====
   - [[Page~5 _At(7)_]]
