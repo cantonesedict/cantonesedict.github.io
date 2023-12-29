@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aau
-* %date-modified --> 2023-12-27
+* %date-modified --> 2023-12-29
 * %copyright-prior-years -->
 
 %%%
@@ -59,6 +59,8 @@ R
   土 + 5
 U
   U+5773
+F
+  [[Not present]]
 W
   ====
   - [[Page~6 (1)坳]]
@@ -66,7 +68,7 @@ W
     - [[For the literary "uneven ground" senses,
       the expected reflex is aau1 from 《廣韻》於交切,
       but the common reading is aau3
-      (attested in Kangxi, quoting 《集韻》於敎切);
+      (attested in Kangxi, quoting 《集韻》於敎切音拗);
       **see $坳aau3 for the canonical entry**.]]
     ==
     --
@@ -103,6 +105,10 @@ R
   手 + 5
 U
   U+62D7
+F
+  ==
+  - [[F2.42 上聲 拗]] 屋狡切以手拉折物
+  ==
 W
   ====
   - [[Page~7 (2)拗]]
@@ -183,6 +189,10 @@ V
   ==
   - nap1 (vernacular)
   ==
+F
+  ==
+  - [[F2.42 凹]] 灣也曲也
+  ==
 W
   ====
   - [[Page~7 凹(3)]]
@@ -212,9 +222,17 @@ R
   土 + 5
 U
   U+5773
+A
+  ==
+  -{.modern} 㘭
+  ==
 V
   ==
   - aau1 (expected from 於交切 for literary "uneven ground" senses)
+  ==
+F
+  ==
+  - [[F2.42 㘭]] 地㘭下也不平也
   ==
 W
   ====
@@ -253,6 +271,10 @@ R
   手 + 5
 U
   U+62D7
+F
+  ==
+  - [[F2.42 去聲 拗]] 偏急不相合也
+  ==
 W
   ====
   - [[Page~7 拗(3)]]
@@ -308,6 +330,8 @@ A
   ==
   -{.modern} $拗3
   ==
+F
+  [[Not present]]
 W
   [[Not present]]
 C
