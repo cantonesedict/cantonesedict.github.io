@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2023-12-29
+* %date-modified --> 2023-12-30
 * %copyright-prior-years -->
 
 %%%
@@ -311,7 +311,7 @@ W
   ====
 C
   ==
-  - The uncommon reading caai3 is that given in 《分韻撮要》.
+  - The uncommon reading caai3 is that given in Fan Wan.
   ==
 S
   ==

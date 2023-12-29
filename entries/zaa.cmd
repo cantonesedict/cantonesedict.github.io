@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2023-12-29
+* %date-modified --> 2023-12-30
 * %copyright-prior-years -->
 
 %%%
@@ -541,7 +541,7 @@ W
   ====
 C
   ==
-  - The uncommon reading caa3 is that given in 《分韻撮要》.
+  - The uncommon reading caa3 is that given in Fan Wan.
   - The alternative reading zaa1 is not unattested;
     Kangxi quotes 《玉篇》知加切《集韻》陟加切.
   ==
@@ -752,7 +752,7 @@ W
   ====
 C
   ==
-  - The reading caa3 is that given in 《分韻撮要》.
+  - The reading caa3 is that given in Fan Wan.
   - The reading zaa3 is from 《廣韻》又音乍.
   ==
 S

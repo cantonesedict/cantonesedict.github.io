@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2023-12-29
+* %date-modified --> 2023-12-30
 * %copyright-prior-years -->
 
 %%%
@@ -147,7 +147,7 @@ W
   ====
   - [[Page~550 (1)恓]]
     --
-    [[Idiosyncratic reading from 《分韻撮要》; **see $恓sai1 for the canonical entry**.]]
+    [[Idiosyncratic reading from Fan Wan; **see $恓sai1 for the canonical entry**.]]
     --
   ====
 S
@@ -506,7 +506,7 @@ W
   ====
 C
   ==
-  - The uncommon reading zai3 is that given in 《分韻撮要》.
+  - The uncommon reading zai3 is that given in Fan Wan.
   ==
 S
   ==
@@ -635,7 +635,7 @@ W
   ====
   - [[Page~550 (5)泚]]
     --
-    [[Idiosyncratic reading from 《分韻撮要》; **see $泚ci2 for the canonical entry**.]]
+    [[Idiosyncratic reading from Fan Wan; **see $泚ci2 for the canonical entry**.]]
     --
   ====
 S

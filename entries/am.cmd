@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2023-12-29
+* %date-modified --> 2023-12-30
 * %copyright-prior-years -->
 
 %%%
@@ -155,7 +155,7 @@ W
 C
   ==
   - The expected reflex is am1 from Middle Chinese 烏含切,
-    but 《分韻撮要》 has am2; **see $諳am2 for the canonical entry**.
+    but Fan Wan has am2; **see $諳am2 for the canonical entry**.
   ==
 S
   ==
@@ -399,7 +399,7 @@ W
   ====
   - [[Page~342 (2)欿]]
     --
-    [[Idiosyncratic reading from 《分韻撮要》; **see $欿ham2 for the canonical entry**.]]
+    [[Idiosyncratic reading from Fan Wan; **see $欿ham2 for the canonical entry**.]]
     --
   ====
 S
@@ -601,7 +601,7 @@ W
 C
   ==
   - The expected reflex is am3 from Middle Chinese 烏紺切,
-    but 《分韻撮要》 has am2; **see $闇am2 for the canonical entry**.
+    but Fan Wan has am2; **see $闇am2 for the canonical entry**.
   ==
 S
   ==

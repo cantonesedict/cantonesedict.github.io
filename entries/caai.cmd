@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2023-12-29
+* %date-modified --> 2023-12-30
 * %copyright-prior-years -->
 
 %%%
@@ -235,7 +235,7 @@ C
     Perhaps the pre-merger reading should be
     _(2)ts(')(a/)i_ instead of _(2)ch(')(a/)i_
     based on the initial of the phonetic 采,
-    but the syllable _ts(')(a/)i_ does not exist under any tone in 《分韻撮要》.
+    but the syllable _ts(')(a/)i_ does not exist under any tone in Fan Wan.
   - For the purposes of Cantonese 踩 is indistiguishable from 踹.
     Note that the Mandarin readings are distinct.
   ==
@@ -377,7 +377,7 @@ W
   ====
   - [[Page~11|n54 瘵(3)]]
     --
-    [[Idiosyncratic reading from 《分韻撮要》; **see $瘵zaai3 for the canonical entry**.]]
+    [[Idiosyncratic reading from Fan Wan; **see $瘵zaai3 for the canonical entry**.]]
     --
   ====
 S

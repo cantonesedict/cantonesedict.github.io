@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2023-12-29
+* %date-modified --> 2023-12-30
 * %copyright-prior-years -->
 
 %%%
@@ -234,7 +234,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected headword 䘲 to 祲.
-  - The reading cam1 is that given in 《分韻撮要》.
+  - The reading cam1 is that given in Fan Wan.
     Although it does appear in Kangxi (七林反),
     its scope is limited to the place name 祲祥.
   ==
@@ -565,7 +565,7 @@ W
   ==
   - [[Page~551 沁(3)]]
     --
-    [[Idiosyncratic reading from 《分韻撮要》; **see $沁sam3 for the canonical entry**.]]
+    [[Idiosyncratic reading from Fan Wan; **see $沁sam3 for the canonical entry**.]]
     --
   ==
 S
@@ -702,7 +702,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected 殷人 to 毀人.
-  - The reading cam3 is that given in 《分韻撮要》.
+  - The reading cam3 is that given in Fan Wan.
   ==
 S
   ==

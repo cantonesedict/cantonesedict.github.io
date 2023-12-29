@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2023-12-29
+* %date-modified --> 2023-12-30
 * %copyright-prior-years -->
 
 %%%
@@ -330,7 +330,7 @@ C
   - Williams' placement under _(2)Ch(')am_ [[cam2]] is idiosyncratic
     because it does not follow any of the following:
     ==
-    - zam2 from 《分韻撮要》 (which places it between 枕 and 怎)
+    - zam2 from Fan Wan (which places it between 枕 and 怎)
     - cam4 from 《集韻》又持林切
     - sam2 from 《廣韻》式任切 rising.
     ==
@@ -771,7 +771,7 @@ C
   - Williams misprints 魫 as 𩵫 (⿰冘魚).
   - The probably errant reading cam2 is that given by Williams;
     see $魫cam2 for commentary.
-  - The uncommon reading zam2 is that given in 《分韻撮要》.
+  - The uncommon reading zam2 is that given in Fan Wan.
   - The reading cam4 is not unattested; Kangxi quotes 《集韻》又持林切音沉.
   ====
 S
