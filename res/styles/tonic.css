@@ -26,6 +26,11 @@
 }
 
 
+:lang(zh-Hant) {
+  font-weight: normal;
+}
+
+
 blockquote {
   border-left: 3px solid grey;
   margin-right: 0.5em;
