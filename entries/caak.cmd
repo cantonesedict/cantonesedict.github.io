@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caak
-* %date-modified --> 2023-12-30
+* %date-modified --> 2023-12-31
 * %copyright-prior-years -->
 
 %%%
@@ -224,6 +224,18 @@ E
        - 皮膚爆嗮坼 (pei4 fu1 baau3 saai3 caak3): "[The] skin's all chapped."
        ==
     ++
+  ====
+  --
+  Olden attestation for 坼 _ch(')(a/)k(8)_ [[caak3]] meaning "cracked":
+  --
+  ====
+  - Kangxi:
+    ==
+    - [[(:坼:)]] ::(:《唐韻》丑格切《集韻》《韻會》《正韻》恥格切𠀤同𤖴裂也\
+      《禮月令》仲冬地始坼\
+      《後漢安帝紀》日南地坼長百餘里\
+      《晉史天文志》惠帝中張華爲司空三台星坼:)[...]::
+    ==
   ====
 $$
 
