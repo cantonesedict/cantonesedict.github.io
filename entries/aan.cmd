@@ -126,8 +126,10 @@ E
        ==
     ++
   ====
-  __Remark.__ 晏 meaning "late" is attested in Middle Chinese,
+  --
+  __Remark.__ 晏 meaning "late" is attested in the Middle Chinese rime books,
   with the reading _(a/)n(3)_ [[aan3]] expected from 於諫切 or 烏澗切:
+  --
   ==
   - 《廣韻》烏旰切, explained 晚也又於諫切
   - 《廣韻》烏澗切, explained 柔也天淸也又晩也又姓左傳齊有晏氏代爲大夫
