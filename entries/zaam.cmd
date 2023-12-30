@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2023-12-29
+* %date-modified --> 2023-12-30
 * %copyright-prior-years -->
 
 %%%
@@ -24,6 +24,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [zaam1](#1)
 - [zaam2](#2)
 - [zaam3](#3)
+- [zaam5](#5)
 - [zaam6](#6)
 ==
 </nav>
@@ -282,6 +283,46 @@ C
 S
   ==
   - $蘸jaam5 (TODO)
+  ==
+$$
+
+
+##{#5 .williams} (5)Ts(a/)m [[zaam5 陽上]]
+
+<## tone-5-characters ##>
+<nav class="sideways">
+=={.modern}
+- $鏨5
+==
+</nav>
+<## /tone-5-characters ##>
+
+### 鏨5 | _(5)Ts(a/)m_ [[zaam5]]
+
+$$
+R
+  金 + 11
+U
+  U+93E8
+F
+  [[Not present]]
+W
+  ==
+  - [[Page~553 (5)鏨]]
+    --
+    [[Idiosyncratic reading from Williams; **see $鏨caam5 for the canonical entry**.]]
+    --
+  ==
+C
+  ==
+  - Williams' placement under _(5)Ts(a/)m_ [[zaam5]] is problematic
+    as an unaspirated initial cannot occur with 陽上 (tone~5).
+    See $鏨caam5 for commentary.
+  ==
+S
+  ==
+  - $鏨caam5 (TODO)
+  - $鏨zaam6 (TODO)
   ==
 $$
 
