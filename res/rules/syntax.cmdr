@@ -191,6 +191,19 @@ RegexDictionaryReplacement: #.syntax.link-abbreviations-fan-wan
     #.syntax.trim-leading-zero
 
 
+RegexDictionaryReplacement: #.syntax.link-abbreviations-kwong-wan
+- queue_position: BEFORE #specified-links
+* B (?P<volume_number> [1-5] ) [.] (?P<id_> [a-z0-9]+ )
+  [ ]
+  (?P<dissection_etc>
+    (?: \(: )? [\S]{3} (?: :\) )?
+    [ ]
+    (?: \(: )? [\S] (?: :\) )?
+  )
+    -->
+  [\g<dissection_etc>](https://kanji-database.sourceforge.net/dict/sbgy/v\g<volume_number>.html#\g<id_>)
+
+
 OrdinaryDictionaryReplacement: #.syntax.eight-tone-marks
 - queue_position: BEFORE #specified-links
 # U+A700 through U+A707 <https://en.wikipedia.org/wiki/Modifier_Tone_Letters>
@@ -268,6 +281,15 @@ OrdinaryDictionaryReplacement: #.syntax.typography
 #
 # U+02BB MODIFIER LETTER TURNED COMMA
 *   (') --> ʻ
+
+
+FixedDelimitersReplacement: #.syntax.highlight
+- queue_position: BEFORE #escape-idle-html
+- syntax_type: INLINE
+- opening_delimiter: (:
+- prohibited_content: BLOCKS
+- closing_delimiter: :)
+- tag_name: mark
 
 
 FixedDelimitersReplacement: #.syntax.chinese-lang-forced

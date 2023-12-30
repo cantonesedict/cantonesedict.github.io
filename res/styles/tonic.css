@@ -3,6 +3,7 @@
   --header-nav-height: 3rem;
   --html-max-width: 44rem;
   --modern-colour: crimson;
+  --modern-colour-mark: firebrick;
   --modern-font: Arimo, sans-serif;
   --olden-font: Caladea, Cambria, Tinos, serif;
 }
@@ -150,6 +151,11 @@ img {
 }
 
 
+mark {
+  background: #ffb;
+}
+
+
 table {
   border-collapse: separate;
   border-spacing: 1px;
@@ -192,6 +198,9 @@ th, td {
 .modern {
   color: var(--modern-colour);
   font-family: var(--modern-font);
+}
+.modern mark {
+  color: var(--modern-colour-mark);
 }
 
 .permalink {
