@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aau
-* %date-modified --> 2023-12-30
+* %date-modified --> 2023-12-31
 * %copyright-prior-years -->
 
 %%%
@@ -350,5 +350,14 @@ E
        - 詏贏 (aau3 jeng4): "Win [the] argument."
        ==
     ++
+  ====
+  --
+  Olden attestation for 詏 _(a/)u(3)_ [[aau3]] meaning "argue":
+  --
+  ====
+  - Kangxi:
+    ==
+    - [[(:詏:)]] ::(:《集韻》《正韻》𠀤於敎切妖去聲言逆也:)::
+    ==
   ====
 $$
