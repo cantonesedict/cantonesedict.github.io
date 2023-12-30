@@ -129,6 +129,16 @@ function applyFilter()
     , [aak#cantonese-鈪](aak#cantonese-鈪)
 
   //
+    , aan3
+    , 晏
+    , [aan#cantonese-晏](aan#cantonese-晏)
+
+  //
+    , aan3 zau3
+    , 晏晝
+    , [aan#cantonese-晏晝](aan#cantonese-晏晝)
+
+  //
     , aap3-2
     , 鴨
     , [aap#cantonese-鴨](aap#cantonese-鴨)

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aan
-* %date-modified --> 2023-12-29
+* %date-modified --> 2023-12-30
 * %copyright-prior-years -->
 
 %%%
@@ -103,6 +103,34 @@ C
   - Fan Wan entry: Corrected 旴 (dawn) to 旰 (late).
   - Williams' "tiffin": British for "lunch".
   - Williams' 上晏: Now rarely heard; 上晝 is more common.
+  ==
+E
+  ====
+  - 【晏】 (aan3):
+    ++
+    1. Late (in the day).
+       ==
+       - 三點咁晏 (saam1 dim2 gam3 aan3): "3 o'clock? that late?"
+       - 晏得嚌 (aan3 dak1 zai6): "[That's] too late [in the day]."
+       ==
+    1. Lunch.
+       ==
+       - 食晏未 (sik6 aan3 mei5): "Eaten lunch yet?"
+       ==
+    ++
+  - 【晏晝】 (aan3 zau3):
+    ++
+    1. Afternoon.
+       ==
+       - 晏晝有戲睇 (aan3 zau3 jau5 hei3 tai2): "There's [a] movie [to] watch [in the] afternoon."
+       ==
+    ++
+  ====
+  __Remark.__ 晏 meaning "late" is attested in Middle Chinese,
+  with the reading _(a/)n(3)_ [[aan3]] expected from 於諫切 or 烏澗切:
+  ==
+  - 《廣韻》烏旰切, explained 晚也又於諫切
+  - 《廣韻》烏澗切, explained 柔也天淸也又晩也又姓左傳齊有晏氏代爲大夫
   ==
 $$
 
