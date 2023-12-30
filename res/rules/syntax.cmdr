@@ -54,7 +54,7 @@ RegexDictionaryReplacement: #.syntax.entry-key-abbreviations
                 ,{.williams}
 * ^C$ --> ; Conway's commentary
                 ,{.modern}
-* ^E$ --> ; Conway's vernacular entry
+* ^E$ --> ; Conway's Cantonese entry
                 ,{.modern}
 * ^S$ --> ; See also
                 ,{.modern}
@@ -100,12 +100,12 @@ FixedDelimitersReplacement: #.syntax.entries
 - tag_name: dl
 
 
-RegexDictionaryReplacement: #.syntax.vernacular-entries
+RegexDictionaryReplacement: #.syntax.cantonese-entries
 - queue_position: BEFORE #.syntax.entries
 * [-] [ ] 【 (?P<term> [^\s-]+ ) (?P<disambiguation> [\S]* ) 】
     -->
-  -{#vernacular-\g<term>\g<disambiguation>}
-    []{.permalink aria-label=Permalink}(#vernacular-\g<term>\g<disambiguation>)【\g<term>】
+  -{#cantonese-\g<term>\g<disambiguation>}
+    []{.permalink aria-label=Permalink}(#cantonese-\g<term>\g<disambiguation>)【\g<term>】
 
 
 RegexDictionaryReplacement: #.syntax.entry-links
