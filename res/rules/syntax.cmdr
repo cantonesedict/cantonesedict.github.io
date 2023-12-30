@@ -1,3 +1,9 @@
+OrdinaryDictionaryReplacement: #.syntax.protected-empty-string
+- queue_position: AFTER #tables
+* ^ -->
+- concluding_replacements: #placeholder-protect
+
+
 OrdinaryDictionaryReplacement: #.syntax.addition-marker-to-class
 * +} --> ' -class .modern}'
 

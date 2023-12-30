@@ -146,7 +146,7 @@ require almost the acquisition of a double medium.
 The variations between the Ti(e/)chi(u/) [[潮州]] and Canton [[廣州]] dialects consist
 in changes in both initials and finals, each having some sounds
 which are unknown, or very uncommon in the other. For instance,
-the initials _sh_ or _f_ are not found in the Ti(e/)chi(u/), or the initials _b_ [[voiced [b], not voiceless [p]<` `>]],
+the initials _sh_ or _f_ are not found in the Ti(e/)chi(u/), or the initials _b_ [[voiced [b], not voiceless [p]^]],
 _lw_, or _mw_ in the Canton; the oblique sound of _(u\)_ in _turn_ is one of
 most common finals in the former, and one of the rarest in the latter;
 there are no nasal sounds in the Canton, and no words ending with
