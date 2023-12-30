@@ -127,13 +127,23 @@ E
     ++
   ====
   --
-  __Remark.__ 晏 meaning "late" is attested in the Middle Chinese rime books,
-  with the reading _(a/)n(3)_ [[aan3]] expected from 於諫切 or 烏澗切:
+  Olden attestation for 晏 _(a/)n(3)_ [[aan3]] meaning "late":
   --
-  ==
-  - 《廣韻》烏旰切, explained 晚也又於諫切
-  - 《廣韻》烏澗切, explained 柔也天淸也又晩也又姓左傳齊有晏氏代爲大夫
-  ==
+  ====
+  - 《廣韻》:
+    ==
+    - [[烏旰切]] 晚也又於諫切
+    - [[烏澗切]] 柔也天淸也又晩也又姓左傳齊有晏氏代爲大夫
+    ==
+  - Kangxi:
+    ==
+    - [[晏]] ::《唐韻》烏㵎切《集韻》《韻會》《正韻》於諫切𠀤音曣[...]\
+      又《玉篇》晚也\
+      《儀禮士相見禮》問日之早晏\
+      《淮南子天文訓》日至于桑野是謂晏食\
+      《屈原離騷》及年歲之未晏兮[...]::
+    ==
+  ====
 $$
 
 ### 鷃3 | _(A/)n(3)_ [[aan3]]
