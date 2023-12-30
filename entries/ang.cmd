@@ -236,6 +236,7 @@ E
     1. To exert (or experience) a pressing force over a smallish or lump-sized area.
        ==
        - 㾘牙 (ang2 ngaa4): "[The food is hard and] presses against [my] teeth."
+       - 㾘腳 (ang2 goek3): "[It] presses against [my] foot."
        ==
     ++
   ====
