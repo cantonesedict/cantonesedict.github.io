@@ -114,9 +114,10 @@ E
   ====
   - 【呃】 (aak1):
     ++
-    1. To deceive, to trick.
+    1. To deceive, to trick, to scam.
        ==
        - 你呃人 (nei5 aak1 jan4): "You're deceiving others."
+       - 呃錢 (aak1 cin4-2): "[That's a] scam [for my] money."
        ==
     ++
   ====
