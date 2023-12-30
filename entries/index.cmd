@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of entries by Jyutping
-* %date-modified --> 2023-12-29
+* %date-modified --> 2023-12-30
 * %copyright-prior-years -->
 
 OrdinaryDictionaryReplacement: #.no-black-serif-note
@@ -46,7 +46,7 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 </nav>
 
 --{.modern}
-See also: [Index of vernacular terms by Jyutping](vernacular).
+See also: [Index of Cantonese terms by Jyutping](cantonese).
 --
 
 

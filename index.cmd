@@ -46,7 +46,7 @@ by [Samuel Wells Williams].
 - Main matter
   ==
   - [__Index of entries by Jyutping__](/entries/)
-  - [Index of vernacular terms by Jyutping](/entries/vernacular)
+  - [Index of Cantonese terms by Jyutping](/entries/cantonese)
   ==
 ====
 </nav>
