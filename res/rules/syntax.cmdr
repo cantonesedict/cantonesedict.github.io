@@ -275,6 +275,7 @@ FixedDelimitersReplacement: #.syntax.chinese-lang-forced
 - syntax_type: INLINE
 - opening_delimiter: ::
 - attribute_specifications: l=zh-Hant
+- prohibited_content: BLOCKS
 - closing_delimiter: ::
 - tag_name: span
 - concluding_replacements: #placeholder-protect
