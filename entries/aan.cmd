@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aan
-* %date-modified --> 2023-12-30
+* %date-modified --> 2023-12-31
 * %copyright-prior-years -->
 
 %%%
@@ -137,11 +137,11 @@ E
     ==
   - Kangxi:
     ==
-    - [[(:晏:)]] ::(:《唐韻》烏㵎切《集韻》《韻會》《正韻》於諫切𠀤音曣:)[...]<` `>\
-      (:又《玉篇》晚也\
+    - [[(:晏:)]] ::《唐韻》(:烏㵎切:)《集韻》《韻會》《正韻》(:於諫切𠀤音曣:)[...]<` `>\
+      (:又:)《玉篇》(:晚也:)\
       《儀禮士相見禮》問日之早晏\
       《淮南子天文訓》日至于桑野是謂晏食\
-      《屈原離騷》及年歲之未晏兮:)[...]::
+      《屈原離騷》及年歲之未晏兮[...]::
     ==
   ====
 $$
