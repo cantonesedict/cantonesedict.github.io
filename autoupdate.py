@@ -18,7 +18,7 @@ class Updater:
             os.path.join(directory_path, file_name)
             for directory_path, _, file_names in os.walk('entries/')
             for file_name in file_names
-            if file_name.endswith('.cmd') and file_name not in ['index.cmd', 'vernacular.cmd']
+            if file_name.endswith('.cmd') and file_name not in ['index.cmd', 'cantonese.cmd']
         ])
 
     def update_all(self):
@@ -158,59 +158,59 @@ class Indexer:
             Page(cmd_name)
             for cmd_name in cmd_names
         ]
-        self.vernacular_entries = [
+        self.cantonese_entries = [
             entry
             for page in self.pages
-            for entry in page.vernacular_entries
+            for entry in page.cantonese_entries
         ]
-        self.split_vernacular_entries = sorted([
+        self.split_cantonese_entries = sorted([
             split_entry
-            for entry in self.vernacular_entries
+            for entry in self.cantonese_entries
             for split_entry in entry.split()
         ])
 
-        Indexer._check_vernacular_entries(self.vernacular_entries)
+        Indexer._check_cantonese_entries(self.cantonese_entries)
 
-    def update_vernacular(self):
-        with open('entries/vernacular.cmd', 'r', encoding='utf-8') as old_cmd_file:
+    def update_cantonese(self):
+        with open('entries/cantonese.cmd', 'r', encoding='utf-8') as old_cmd_file:
             old_cmd_content = old_cmd_file.read()
 
-        new_cmd_content = self._update_vernacular_table_body(old_cmd_content)
+        new_cmd_content = self._update_cantonese_table_body(old_cmd_content)
 
         if new_cmd_content == old_cmd_content:
             return
 
-        with open('entries/vernacular.cmd', 'w', encoding='utf-8') as new_cmd_file:
+        with open('entries/cantonese.cmd', 'w', encoding='utf-8') as new_cmd_file:
             new_cmd_file.write(new_cmd_content)
 
-    def _update_vernacular_table_body(self, cmd_content):
+    def _update_cantonese_table_body(self, cmd_content):
         return re.sub(
-            pattern=r'(?<=<## vernacular-table-body ##>\n).*?(?=<## /vernacular-table-body ##>\n)',
-            repl=self._vernacular_table_body_cmd_content(),
+            pattern=r'(?<=<## cantonese-table-body ##>\n).*?(?=<## /cantonese-table-body ##>\n)',
+            repl=self._cantonese_table_body_cmd_content(),
             string=cmd_content,
             flags=re.DOTALL | re.MULTILINE,
         )
 
-    def _vernacular_table_body_cmd_content(self):
+    def _cantonese_table_body_cmd_content(self):
         return '\n'.join([
             *[
                 '\n'.join([
                     f'  //',
-                    f'    , {split_vernacular_entry.term_jyutping}',
-                    f'    , {split_vernacular_entry.term}',
-                    f'    , [{split_vernacular_entry.relative_url}]({split_vernacular_entry.relative_url})',
+                    f'    , {split_cantonese_entry.term_jyutping}',
+                    f'    , {split_cantonese_entry.term}',
+                    f'    , [{split_cantonese_entry.relative_url}]({split_cantonese_entry.relative_url})',
                     '',
                 ])
-                for split_vernacular_entry in self.split_vernacular_entries
+                for split_cantonese_entry in self.split_cantonese_entries
             ],
             '',
         ])
 
     @staticmethod
-    def _check_vernacular_entries(vernacular_entries):
+    def _check_cantonese_entries(cantonese_entries):
         relative_urls = [
-            vernacular_entry.relative_url
-            for vernacular_entry in vernacular_entries
+            cantonese_entry.relative_url
+            for cantonese_entry in cantonese_entries
         ]
 
         duplicates = [
@@ -220,7 +220,7 @@ class Indexer:
         ]
         if duplicates:
             print(
-                f'Error: duplicate vernacular entry relative URLs {duplicates}',
+                f'Error: duplicate cantonese entry relative URLs {duplicates}',
                 file=sys.stderr,
             )
             sys.exit(1)
@@ -233,8 +233,8 @@ class Page:
 
         self.jyutping = re.sub(pattern=r'entries/(?P<jyutping>[a-z]+)\.cmd', repl=r'\g<jyutping>', string=cmd_name)
         self.cmd_content = cmd_content
-        self.vernacular_entries = [
-            VernacularEntry(
+        self.cantonese_entries = [
+            CantoneseEntry(
                 match.group('term'),
                 match.group('disambiguation'),
                 match.group('term_jyutping'),
@@ -247,22 +247,22 @@ class Page:
         ]
 
 
-class VernacularEntry:
+class CantoneseEntry:
     def __init__(self, term, disambiguation, term_jyutping, page_jyutping):
         self.term = term
         self.disambiguation = disambiguation
         self.term_jyutping = term_jyutping
         self.page_jyutping = page_jyutping
-        self.relative_url = f'{page_jyutping}#vernacular-{term}{disambiguation}'
+        self.relative_url = f'{page_jyutping}#cantonese-{term}{disambiguation}'
 
     def split(self):
         return (
-            SplitVernacularEntry(self.term, self.disambiguation, split_term_jyutping, self.page_jyutping)
+            SplitCantoneseEntry(self.term, self.disambiguation, split_term_jyutping, self.page_jyutping)
             for split_term_jyutping in re.split(pattern=r'\s*,\s*', string=self.term_jyutping)
         )
 
 
-class SplitVernacularEntry(VernacularEntry):
+class SplitCantoneseEntry(CantoneseEntry):
     def __lt__(self, other):
         return (self.term_jyutping, self.term) < (other.term_jyutping, other.term)
 
@@ -311,7 +311,7 @@ def main():
     updater.update_all()
 
     indexer = Indexer(updater.cmd_names)
-    indexer.update_vernacular()
+    indexer.update_cantonese()
 
     statistician = Statistician(indexer)
     statistician.print_statistics()
