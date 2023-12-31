@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Introduction.
-* %date-modified --> 2023-10-08
+* %date-modified --> 2023-12-31
 * %copyright-prior-years -->
 * %meta-description --> Williams' introduction
 
@@ -2146,7 +2146,7 @@ is necessarily arranged differently to Williams' original:
   --
   The syllables are arranged by the Jyutping spelling
   of the modern Hong Kong Cantonese pronunciation
-  (see [Index of entries by Jyutping](/entries/))
+  (see [Index of entry pages by Jyutping](/entries/))
   for practicality in the 21st century,
   as no one except Conway cares about the Williams romanisation.
   --
