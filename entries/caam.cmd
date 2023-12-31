@@ -106,10 +106,35 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $懺3
 - $杉3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 懺3 | _Ch(')(a/)m(3)_ [[caam3]]
+
+$$
+R
+  心 + 17
+U
+  U+61FA
+F
+  ==
+  - [[F2.64 杉]] 懺悔自陳其悔也
+  ==
+W
+  ====
+  - [[Page~16|n59 懺(3)]]
+    ==
+    - To repent;
+    - to confess one's errors;
+    - _ch(')(a/)m(3) f(u/)i(3)_
+        [[caam3 fui3 懺悔]]
+        to repent.
+    ==
+  ====
+$$
 
 ### 杉3 | _Ch(')(a/)m(3)_ [[caam3]]
 
@@ -118,6 +143,10 @@ R
   木 + 3
 U
   U+6749
+V
+  ==
+  - saam1 (expected from 所咸切)
+  ==
 F
   ==
   - [[F2.64 杉]] 木名
