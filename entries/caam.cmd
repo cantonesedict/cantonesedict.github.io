@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [caam1](#1)
+- [caam3](#3)
 - [caam4](#4)
 ==
 </nav>
@@ -96,6 +97,50 @@ C
 S
   ==
   - $攙caam4
+  ==
+$$
+
+
+##{#3 .williams} Ch(')(a/)m(3) [[caam3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $杉3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 杉3 | _Ch(')(a/)m(3)_ [[caam3]]
+
+$$
+R
+  木 + 3
+U
+  U+6749
+F
+  ==
+  - [[F2.64 杉]] 木名
+  ==
+W
+  ====
+  - [[Page~16|n59 杉(3)]]
+    ==
+    - Fir, pine;
+    - _ch(')(a/)m(3) muk(9)_
+        [[caam3 muk6 杉木]]
+        deal;
+    - _yat(7) luk[(7)] ch(')(a/)m(3)_
+        [[jat1 luk1 caam3 一碌杉]]
+        a block of pine, a blockhead;
+    - _ch(')(a/)m(3) muk(9) (4)ling (4)p(')(a/)i_
+        [[caam3 muk6 ling4 paai4 杉木靈牌]],
+        a pine tablet---is worthless.
+    ==
+  ====
+C
+  ==
+  - Williams 一碌杉: Corrected _luk(9)_ [[luk6]] to _luk(7)_ [[luk1]].
   ==
 $$
 
