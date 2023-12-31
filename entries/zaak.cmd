@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2023-12-30
+* %date-modified --> 2023-12-31
 * %copyright-prior-years -->
 
 %%%
@@ -120,6 +120,34 @@ E
        - 矺扁咗 (zaak3 bin2 zo2): "Squashed flat."
        ==
     ++
+  ====
+  --
+  Olden attestation for 矺 _ch(a/)k(8)_ [[zaak3]] meaning "weight/crush":
+  --
+  ====
+  - 《廣韻》:
+    ==
+    - [[B5.w535a0608 (:陟革切:) (:矺:)]] ::(:磓也:)::
+    ==
+  - Kangxi:
+    ==
+    - [[(:矺:)]] ::《廣韻》《集韻》(:𠀤陟格切音舴:)同磔省詳磔字註　\
+      (:又:)《廣韻》(:磓也:)[...]::
+    ==
+  ====
+  --
+  Here, 磓 is either to stone downwards or to gather stones (in a heap):
+  --
+  ====
+  - 《廣韻》:
+    ==
+    - [[B1.w145a0806 都回切 (:磓:)]] ::(:落也:)亦作塠::
+    ==
+  - Kangxi:
+    ==
+    - [[(:磓:)]] ::《廣韻》《集韻》《韻會》《正韻》\
+      𠀤都回切音堆(:聚石也又以石投下也:)亦作塠[...]::
+    ==
   ====
 S
   ==
