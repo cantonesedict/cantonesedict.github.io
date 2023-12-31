@@ -7,6 +7,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 * %title --> Preface.
 * %date-modified --> 2023-08-07
 * %copyright-prior-years -->
+* %meta-description --> Williams' preface
 
 %%%
 

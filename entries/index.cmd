@@ -7,6 +7,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 * %title --> Index of entries by Jyutping
 * %date-modified --> 2023-12-30
 * %copyright-prior-years -->
+* %meta-description --> index of entry pages by Jyutping
 
 OrdinaryDictionaryReplacement: #.no-black-serif-note
 - queue_position: AFTER #.boilerplate.footer

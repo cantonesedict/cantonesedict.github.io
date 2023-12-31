@@ -7,6 +7,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 * %title --> Index of Cantonese terms by Jyutping
 * %date-modified --> 2023-12-30
 * %copyright-prior-years -->
+* %meta-description --> searchable index of Cantonese terms by Jyutping
 
 OrdinaryDictionaryReplacement: #.no-black-serif-note
 - queue_position: AFTER #.boilerplate.footer
