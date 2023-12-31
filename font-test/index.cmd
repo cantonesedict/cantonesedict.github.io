@@ -7,6 +7,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 * %title --> Font test page
 * %date-modified --> 2023-07-28
 * %copyright-prior-years -->
+* %meta-description --> Font test page for tone marks
 
 OrdinaryDictionaryReplacement: #.no-black-serif-note
 - queue_position: AFTER #.boilerplate.footer

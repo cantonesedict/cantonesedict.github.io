@@ -7,6 +7,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 * %title --> Chinese Title Page: 《英華分韻撮要》
 * %date-modified --> 2023-08-07
 * %copyright-prior-years -->
+* %meta-description --> Chinese title page
 
 %%%
 

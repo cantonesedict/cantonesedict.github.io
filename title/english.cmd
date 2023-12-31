@@ -7,6 +7,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 * %title --> English Title Page: A Tonic Dictionary of the Chinese Language in the Canton Dialect.
 * %date-modified --> 2023-08-07
 * %copyright-prior-years -->
+* %meta-description --> English title page
 
 %%%
 
