@@ -8,6 +8,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 * %date-modified --> 2023-12-30
 * %copyright-prior-years -->
 * %modern-colour --> crimson
+* %meta-description --> home page
 
 OrdinaryDictionaryReplacement: #.no-black-serif-note
 - queue_position: AFTER #.boilerplate.footer

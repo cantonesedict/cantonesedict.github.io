@@ -8,6 +8,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 * %date-modified --> 2023-12-13
 * %copyright-prior-years -->
 
+RegexDictionaryReplacement: #.no-meta-author-and-description
+- queue_position: AFTER #.boilerplate.properties-override
+* <meta [ ] name="(author|description)" .* -->
+
 OrdinaryDictionaryReplacement: #.no-black-serif-note
 - queue_position: AFTER #.boilerplate.footer
 * %black-serif-note -->
