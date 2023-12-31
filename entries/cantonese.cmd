@@ -260,6 +260,11 @@ function applyFilter()
     , [zaai#cantonese-話齋](zaai#cantonese-話齋)
 
   //
+    , za3
+    , 咋
+    , [zaa#cantonese-咋-3](zaa#cantonese-咋-3)
+
+  //
     , za4
     , 咋
     , [zaa#cantonese-咋-4](zaa#cantonese-咋-4)
@@ -288,6 +293,11 @@ function applyFilter()
     , zaa3 dai3
     , 詐諦
     , [zaa#cantonese-詐諦](zaa#cantonese-詐諦)
+
+  //
+    , zaa4
+    , 咋
+    , [zaa#cantonese-咋-4](zaa#cantonese-咋-4)
 
   //
     , zaai1

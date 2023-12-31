@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2023-12-30
+* %date-modified --> 2023-12-31
 * %copyright-prior-years -->
 
 %%%
@@ -559,6 +559,10 @@ R
   口 + 5
 U
   U+548B
+V
+  ==
+  - za3 (shorter syllable)
+  ==
 F
   [[Not present]]
 W
@@ -580,11 +584,11 @@ W
   ====
 E
   ====
-  - 【咋-3】 (zaa3):
+  - 【咋-3】 (zaa3, za3):
     ++
     1. A final particle of limitation.
       ==
-      - 三個人咋 (saam1 go3 jan4 zaa3): "[Only] three people."
+      - 三個人咋 (saam1 go3 jan4-2 za3): "[Only] three people."
       ==
     ++
   ====
@@ -868,7 +872,7 @@ W
   [[Not present]]
 E
   ====
-  - 【咋-4】 (za4):
+  - 【咋-4】 (zaa4, za4):
     ++
     1. An interrogative-ish final particle of limitation, suspicion, disappointment, etc.
       ==
