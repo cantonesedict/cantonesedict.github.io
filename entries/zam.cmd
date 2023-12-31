@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2023-12-30
+* %date-modified --> 2023-12-31
 * %copyright-prior-years -->
 
 %%%
@@ -41,7 +41,7 @@ MP
 $$
 
 
-##{#1 .williams} (1)Cham <span class="modern">(1)Tsam</span> [[zam1 陰平]]
+##{#1 .williams} (1)Cham <ins class="modern">(1)Tsam</ins> [[zam1 陰平]]
 
 <## tone-1-characters ##>
 <nav class="sideways">
