@@ -332,12 +332,51 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $暫6
 - $站6
 - $賺6
 - $鏨6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 暫6 | _Ts(a/)m(6)_ [[zaam6]]
+
+$$
+R
+  日 + 11
+U
+  U+66AB
+F
+  ==
+  - [[F2.65 暫]] 卽淡切暫時間言不久也
+  ==
+W
+  ====
+  - [[Page~553 暫(6)]]
+    ==
+    - A part of a day;
+    - for the time being, briefly, shortly, for a short time,
+      in the interim, meanwhile;
+    - suddenly;
+    - _ts(a/)m(6) (4)sh(i/)_
+        [[zaam6 si4 暫時]],
+        a litte while;
+    - _ts(a/)m(6) (2)yan_
+        [[zaam6 jan2 暫忍]],
+        be patient;
+    - _ts(a/)m(6) (u")(6)_
+        [[zaam6 jyu6 暫遇]]
+        suddenly met him;
+    - _ts(a/)m(6) ch(u")(6)_
+        [[zaam6 zyu6 暫住]]
+        a temporary lodging;
+    - _(2)ho ts(a/)m(6) pat(7) (2)ho (4)sh(e/)ung_
+        [[ho2 zaam6 bat1 ho2 soeng4 可暫不可常]],
+        it will do for a temporary arrangement.
+    ==
+  ====
+$$
 
 ### 站6 | _Ch(a/)m(6)_ [[zaam6]]
 
