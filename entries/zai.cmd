@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2023-12-30
+* %date-modified --> 2023-12-31
 * %copyright-prior-years -->
 
 %%%
@@ -968,7 +968,7 @@ W
     --
     ==
     - A superlative, denoting that the extreme has been reached;
-    - _[(5)]t(')(a/)m tak(7) tsai(6)_
+    - _[(5)t(')(a/)m] tak(7) tsai(6)_
         [[taam5 dak1 zai6 淡得嚌]]
         excessively weak, as tea;
     - _(5)m(o\) mat(1) tsai(6)_
