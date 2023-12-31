@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2023-12-30
+* %date-modified --> 2023-12-31
 * %copyright-prior-years -->
 
 %%%
@@ -322,7 +322,7 @@ C
 S
   ==
   - $鏨caam5 (TODO)
-  - $鏨zaam6 (TODO)
+  - $鏨zaam6
   ==
 $$
 
@@ -334,6 +334,7 @@ $$
 =={.modern}
 - $站6
 - $賺6
+- $鏨6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -402,5 +403,28 @@ C
 S
   ==
   - $賺zaan6 (TODO)
+  ==
+$$
+
+###+ 鏨6 | _Ts(a/)m(6)_ [[zaam6]]
+
+$$
+R
+  金 + 11
+U
+  U+93E8
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - The expected reflex is zaam6 from Middle Chinese 藏濫切,
+    but Fan Wan has caam5; **see $鏨caam5 for the canonical entry**.
+  ==
+S
+  ==
+  - $鏨caam5 (TODO)
+  - $鏨zaam5
   ==
 $$
