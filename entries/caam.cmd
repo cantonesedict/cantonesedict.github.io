@@ -106,11 +106,37 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $儳3
 - $懺3
 - $杉3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 儳3 | _Ch(')(a/)m(3)_ [[caam3]]
+
+$$
+R
+  人 + 17
+U
+  U+5133
+F
+  ==
+  - [[F2.64 杉]] 儳越叅雜也
+  ==
+W
+  ====
+  - [[Page~16|n59 懺(3)]]
+    ==
+    - Irregular, disorderly, as undrilled troops;
+    - unequal, uneven;
+    - _(4)l(a/)m ch(')(a/)m(3)_
+        [[laam4 caam3 儖儳]]
+        ugly;
+        confused, disorderly, sulky.
+    ==
+  ====
+$$
 
 ### 懺3 | _Ch(')(a/)m(3)_ [[caam3]]
 
