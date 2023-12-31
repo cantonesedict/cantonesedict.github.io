@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2023-12-30
+* %date-modified --> 2023-12-31
 * %copyright-prior-years -->
 
 %%%
@@ -486,11 +486,6 @@ W
         to rub on cosmetics.
     ==
   ====
-C
-  ==
-  - Possibly from an alternative reading of 塗 (per 鄭張尚芳).
-    The expected reflex is caa4 from 《廣韻》宅加切, explained 塗飾.
-  ==
 E
   ====
   - 【搽-spread】 (caa4):
@@ -502,6 +497,13 @@ E
        ==
     ++
   ====
+  --
+  Olden attestation for _(4)ch(')(a/)_ [[caa4]] meaning "apply", "rub", etc.
+  exists in an alternative reading of 塗 (per 鄭張尚芳):
+  --
+  ==
+  - ::B2.w219b0905 (:宅加切:) 塗 (:塗飾:)又音徒::
+  ==
 S
   ==
   - $搽caa5
