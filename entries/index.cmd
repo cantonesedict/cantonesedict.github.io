@@ -808,7 +808,7 @@ See also: [Index of Cantonese terms by Jyutping](cantonese).
 - $zaa
 - $zaai
 - $zaak
-- $zaam (work in progress)
+- $zaam
 - $zaan (work in progress)
 - $zaang (work in progress)
 - $zaap (work in progress)
