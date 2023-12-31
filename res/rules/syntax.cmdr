@@ -207,7 +207,12 @@ RegexDictionaryReplacement: #.syntax.link-abbreviations-kwong-wan
     (?: \(: )? [\S] (?: :\) )?
   )
     -->
-  [\g<dissection_etc>](https://kanji-database.sourceforge.net/dict/sbgy/v\g<volume_number>.html#\g<id_>)
+  [《廣韻》\g<dissection_etc>](https://kanji-database.sourceforge.net/dict/sbgy/v\g<volume_number>.html#\g<id_>)
+
+
+OrdinaryDictionaryReplacement: #.syntax.abbreviation-kangxi
+- queue_position: BEFORE #specified-links
+* K. --> 《康熙字典》
 
 
 OrdinaryDictionaryReplacement: #.syntax.eight-tone-marks
