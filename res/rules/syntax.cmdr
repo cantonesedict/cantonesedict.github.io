@@ -201,18 +201,22 @@ RegexDictionaryReplacement: #.syntax.link-abbreviations-kwong-wan
 - queue_position: BEFORE #specified-links
 * B (?P<volume_number> [1-5] ) [.] (?P<id_> [a-z0-9]+ )
   [ ]
-  (?P<dissection_etc>
-    (?: \(: )? [\S]{3} (?: :\) )?
-    [ ]
-    (?: \(: )? [\S] (?: :\) )?
-  )
+  (?P<dissection> (?: \(: )? [\S]{3} (?: :\) )? )
+  [ ]
+  (?P<headword> (?: \(: )? [\S] (?: :\) )? )
+  [ ]
     -->
-  [《廣韻》\g<dissection_etc>](https://kanji-database.sourceforge.net/dict/sbgy/v\g<volume_number>.html#\g<id_>)
+  [《廣韻》\g<dissection>：\g<headword>](https://kanji-database.sourceforge.net/dict/sbgy/v\g<volume_number>.html#\g<id_>)：
 
 
-OrdinaryDictionaryReplacement: #.syntax.abbreviation-kangxi
+RegexDictionaryReplacement: #.syntax.source-abbreviation-kangxi
 - queue_position: BEFORE #specified-links
-* K. --> 《康熙字典》
+* K[.]
+  [ ]
+  (?P<headword> (?: \(: )? [\S] (?: :\) )? )
+  [ ]
+    -->
+  《康熙字典》\g<headword>：
 
 
 OrdinaryDictionaryReplacement: #.syntax.eight-tone-marks
