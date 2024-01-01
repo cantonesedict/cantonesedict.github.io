@@ -339,7 +339,9 @@ $$
 <nav class="sideways">
 =={.modern}
 - $劖4
+- $巉4
 - $攙4
+- $𥕌4
 - $蚕4
 - $蠶4
 ==
@@ -369,15 +371,42 @@ W
         a beveled knife or chissel.
     ==
   ====
-C
-  ==
-  - Kangxi quotes 《唐韻》鋤銜切《集韻》《韻會》鋤咸切𠀤音巉,
-    resulting in _(4)ch(')(a/)m_ rather than _(4)ts(')(a/)m_.
-  ==
 S
   ==
   - $劖caam5 (TODO)
   ==
+$$
+
+### 巉4 | _(4)Ts(')(a/)m_ [[caam4]]
+
+$$
+R
+  山 + 17
+U
+  U+5DC9
+A
+  ==
+  -{.modern} 嶃
+  -{.modern} 磛
+  - $𥕌4 [[⿰石斬]]
+  ==
+F
+  ==
+  - [[F2.63 巉]] 高危也
+  - [[F2.63 磛嶃]] 俱同上
+  ==
+W
+  ====
+  - [[Page~554 (4)巉(4)𥕌 (⿰石斬)]]
+    ==
+    - A high, inaccessible peak or cliff;
+    - a cloud-capt summit;
+    - _(4)ts(')(a/)m (4)ng(a/)m_
+        [[caam4 ngaam4 巉巖]],
+        a lofty, craggy summit;
+        also high piled up rocks.
+    ==
+  ====
 $$
 
 ### 攙4 | _(4)Ch(')(a/)m_ [[caam4]]
@@ -400,6 +429,27 @@ S
   ==
   - $攙caam1
   ==
+$$
+
+### 𥕌4 [[⿰石斬]] | _(4)Ts(')(a/)m_ [[caam4]]
+
+$$
+R
+  石 + 11
+U
+  U+2554C
+F
+  ==
+  - [[F2.63 巉]] 高危也
+  - [[F2.63 磛嶃]] 俱同上
+  ==
+W
+  ====
+  - [[Page~554 (4)巉(4)𥕌 (⿰石斬)]]
+    --
+    [[Alternative form of 巉. **See $巉caam4 for the canonical entry.**]]
+    --
+  ====
 $$
 
 ### 蚕4 | _(4)Ts(')(a/)m_ [[caam4]]
