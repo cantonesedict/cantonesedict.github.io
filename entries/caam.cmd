@@ -340,6 +340,8 @@ $$
 =={.modern}
 - $劖4
 - $巉4
+- $慙4
+- $慚4
 - $攙4
 - $毚4
 - $𥕌4
@@ -408,6 +410,63 @@ W
         [[caam4 ngaam4 巉巖]],
         a lofty, craggy summit;
         also high piled up rocks.
+    ==
+  ====
+$$
+
+### 慙4 | _(4)Ts(')(a/)m_ [[caam4]]
+
+$$
+R
+  心 + 11
+U
+  U+6159
+F
+  ==
+  - [[F2.63 慚]] 愧也作也
+  - [[F2.63 慙]] 同上
+  ==
+W
+  ====
+  - [[Page~554 (4)慚]]
+    --
+    [[Alternative form of 慚. **See $慚caam4 for the canonical entry.**]]
+    --
+  ====
+$$
+
+### 慚4 | _(4)Ts(')(a/)m_ [[caam4]]
+
+$$
+R
+  心 + 11
+U
+  U+615A
+A
+  ==
+  - $慙4
+  ==
+F
+  ==
+  - [[F2.63 慚]] 愧也作也
+  - [[F2.63 慙]] 同上
+  ==
+W
+  ====
+  - [[Page~554 (4)慚]]
+    ==
+    - Ashamed, mortified, chopfallen;
+    - to feel ashamed of, to blush for;
+    - to be sensible of one's defects or failure;
+    - _(1)sau (4)ts(')(a/)m_
+        [[sau1 caam4 羞慚]],
+        to redden from mortification;
+    - _t(a/)i(6) (4)(i/)n pat(7) (4)ts(')(a/)m_
+        [[daai6 jin4 bat caam4 大言不慚]],
+        he does not blush for a lie, he has no modesty;
+    - _(4)ts(')(a/)m tak(7)_
+        [[caam4 dak1 慚德]],
+        conscious of one's defects.
     ==
   ====
 $$
