@@ -54,6 +54,7 @@ $$
 - $參1
 - $叅1
 - $攙1
+- $驂1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -198,6 +199,37 @@ C
 S
   ==
   - $攙caam4
+  ==
+$$
+
+### 驂1 | _(1)Ts(')(a/)m_ [[caam1]]
+
+$$
+R
+  馬 + 11
+U
+  U+9A42
+F
+  ==
+  - [[F2.62 ::[驂]::]] 駕車外兩馬曰[驂]馬
+  ==
+W
+  ====
+  - [[Page~553 (1)驂]]
+    ==
+    - Three horses abreast in a chariot;
+    - the horses outside of the thills;
+    - _(1)ts(')(a/)m shing(6)_
+        [[caam1 sing6 驂乘]]
+        three sitters in a carriage;
+    - _t(')(u")t(8) (1)ts(')(a/)m (4)(i/) tsang(6)_
+        [[tyut3 caam1 ji4 zang6 脫驂而贈]]
+        he unhitched the wheelhorse and gave it to him.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised headword ⿰馬叅 to 驂.
   ==
 $$
 
