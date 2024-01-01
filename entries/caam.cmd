@@ -51,10 +51,111 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $參1
+- $叅1
 - $攙1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 參1 | _(1)Ts(')(a/)m_ [[caam1]]
+
+$$
+R
+  厶 + 9
+U
+  U+53C3
+A
+  ==
+  - $叅1
+  ==
+F
+  ==
+  - [[F2.62 參]] ::參差不齊又干[預]也謀度也又音深::
+  - [[F2.62 叅]] 叅考叅拜上官論下官亦曰叅
+  ==
+W
+  ====
+  - [[Page~553 (1)參(1)[叅]^]]
+    ==
+    - To be concerned with, to join with for consultation,
+      to advise, to give counsel to;
+    - to blend, to mix, to form one of three;
+    - to have an audience, to salute, to see one;
+    - to impeach, to report to the throne on other officers;
+    - confused, mixed, as colors;
+    - a deposition, an impeachment;
+    - the 20th constellation, consisting of stars
+      _α_, _β_, _γ_, _δ_, _η_, _ξ_, _ε_ and _χ_ in Orion;
+    - _(1)ts(')(a/)m tsau(3)_
+        [[caam1 zau3 參奏]]
+        to memorialize against;
+    - _(2)t(a/) (1)ts(')(a/)m_
+        [[daa2 caam1 打參]],
+        to make an obeisance;
+    - _(1)ts(')(a/)m p(a/)i(3)_
+        [[caam1 baai3 參拜]]
+        to visit one;
+        to worship;
+    - _(1)ts(')(a/)m (1)ts(')(a/)m (1)ts(')z' (1)ts(')z'_
+        [[caam1 caam1 ci1 ci1 參參差差]]
+        uneven, not well ranked, unassorted;
+    - _(1)ts(')(a/)m k(a/)k(8)_
+        [[caam1 gaak3 參革]],
+        to degrade an officer and report it;
+    - _(1)ts(')(a/)m ts(a/)p(9)_
+        [[caam1 zaap6 參雜]]
+        to throw into confusion;
+    - _(1)ts(')(a/)m ts(e/)ung(3)_
+        [[caam1 zoeng3 參將]]
+        a colonel;
+    - _(1)ts(')(a/)m (4)ts(')(e/)ung_
+        [[caam1 coeng4 參詳]],
+        to consult upon;
+    - _(4)ch(')i(u/) (1)ts(')(a/)m_
+        [[ciu4 caam1 朝參]],
+        admitted to a levee;
+        to worship the Supreme;
+    - _(1)ts(')(a/)m ting(3) (4)m(o\) (4)ngo_
+        [[caam1 ding3 mou4 ngo4 參訂無訛]],
+        I've examined it and found no mistakes.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿰阝頁 to 預.
+  ==
+S
+  ==
+  - $參saam1 (TODO)
+  - $參sam1 (TODO)
+  ==
+$$
+
+### 叅1 | _(1)Ts(')(a/)m_ [[caam1]]
+
+$$
+R
+  厶 + 10
+U
+  U+53C5
+F
+  ==
+  - [[F2.62 參]] ::參差不齊又干[預]也謀度也又音深::
+  - [[F2.62 叅]] 叅考叅拜上官論下官亦曰叅
+  ==
+W
+  ====
+  - [[Page~553 (1)參(1)[叅]^]]
+    --
+    [[Alternative form of 參. **See $參caam1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Williams misprints 叅 as ⿳厽𠆢氺.
+  ==
+$$
 
 ###+ 攙1 | _(1)Ch(')(a/)m_ [[caam1]]
 
