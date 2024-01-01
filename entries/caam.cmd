@@ -338,12 +338,47 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $劖4
 - $攙4
 - $蚕4
 - $蠶4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 劖4 | _(4)Ts(')(a/)m_ [[caam4]]
+
+$$
+R
+  刀 + 17
+U
+  U+5296
+F
+  ==
+  - [[F2.63 劖]] 錐也刺也
+  ==
+W
+  ====
+  - [[Page~553 (4)劖]]
+    ==
+    - To cut apart, to chop;
+    - to chissel off;
+    - to cut with a burin;
+    - _(4)ts(')(a/)m (1)t(o\)_
+        [[caam4 dou1 劖刀]],
+        a beveled knife or chissel.
+    ==
+  ====
+C
+  ==
+  - Kangxi quotes 《唐韻》鋤銜切《集韻》《韻會》鋤咸切𠀤音巉,
+    resulting in _(4)ch(')(a/)m_ rather than _(4)ts(')(a/)m_.
+  ==
+S
+  ==
+  - $劖caam5 (TODO)
+  ==
+$$
 
 ### 攙4 | _(4)Ch(')(a/)m_ [[caam4]]
 
