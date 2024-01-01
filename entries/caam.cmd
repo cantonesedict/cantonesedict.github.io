@@ -339,6 +339,8 @@ $$
 <nav class="sideways">
 =={.modern}
 - $攙4
+- $蚕4
+- $蠶4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -363,4 +365,69 @@ S
   ==
   - $攙caam1
   ==
+$$
+
+### 蚕4 | _(4)Ts(')(a/)m_ [[caam4]]
+
+$$
+R
+  虫 + 4
+U
+  U+8695
+F
+  ==
+  - [[F2.63 蠶]] 吐絲之虫
+  - [[F2.63 蚕]] 同上
+  ==
+W
+  ====
+  - [[Page~553 (4)蠶(4)蚕]]
+    --
+    [[Alternative form of 蠶. **See $蠶caam4 for the canonical entry.**]]
+    --
+  ====
+$$
+
+### 蠶4 | _(4)Ts(')(a/)m_ [[caam4]]
+
+$$
+R
+  虫 + 18
+U
+  U+8836
+A
+  ==
+  - $蚕4
+  ==
+F
+  ==
+  - [[F2.63 蠶]] 吐絲之虫
+  - [[F2.63 蚕]] 同上
+  ==
+W
+  ====
+  - [[Page~553 (4)蠶(4)蚕]]
+    ==
+    - The silkworm;
+    - caterpillars which weave coccoons;
+    - _(4)ts(')(a/)m (4)ch(')ung_
+        [[caam4 cung4-2 蠶蟲]],
+        the silk-worm;
+    - _(4)ts(')(a/)m (4)ch(')ung (1)kon_
+        [[caam4 cung4-2 gon1 蠶蟲乾]],
+        dried siikworms used for food;
+    - _(4)ts(')(a/)m (1)k(u/)_
+        [[caam4 gu1 蠶姑]],
+        goddess of silkgrowers;
+    - _(4)ts(')(a/)m (2)hau_
+        [[caam4 hau2 蠶口]],
+        silken, silk fabrics;
+    - _(4)ts(')(a/)m shik(9)_
+        [[caam4 sik6 蠶食]]
+        to gnaw like a silkworm, to incroach on other's domains;
+    - _(4)ts(')(a/)m (2)k(a/)n_
+        [[caam4 gaan2 蠶繭]],
+        a coccoon.
+    ==
+  ====
 $$
