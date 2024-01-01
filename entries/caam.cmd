@@ -341,6 +341,7 @@ $$
 - $劖4
 - $巉4
 - $攙4
+- $毚4
 - $𥕌4
 - $蚕4
 - $蠶4
@@ -428,6 +429,33 @@ W
 S
   ==
   - $攙caam1
+  ==
+$$
+
+### 毚4 | _(4)Ts(')(a/)m_ [[caam4]]
+
+$$
+R
+  比 + 13
+U
+  U+6BDA
+F
+  ==
+  - [[F2.63 毚]] 狡[兔]也
+  ==
+W
+  ====
+  - [[Page~554 (4)毚]]
+    ==
+    - Crafty, wily, artful, as a hare, which has many ways of escape;
+    - _(4)ts(')(a/)m t(')(o\)(3)_
+        [[caam4 tou3 毚兔]]
+        a crafty rabbit.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 免 to 兔.
   ==
 $$
 
