@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2024-01-01
+* %date-modified --> 2024-01-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -346,6 +346,7 @@ $$
 - $蚕4
 - $蠶4
 - $讒4
+- $饞4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -590,4 +591,28 @@ C
   ==
   - Williams' 讒諂: Corrected _(2)ch(i/)m_ [[zim2]] to _(2)ch(')(i/)m_ [[cim2]].
   ==
+$$
+
+### 饞4 | _(4)Ts(')(a/)m_ [[caam4]]
+
+$$
+R
+  食 + 17
+U
+  U+995E
+F
+  ==
+  - [[F2.63 饞]] 貪饕也
+  ==
+W
+  ====
+  - [[Page~554 (4)饞]]
+    ==
+    - To gormandise, to be fond of eating;
+    - greedy, gluttonous, voracious;
+    - _(2)hau (4)ts(')(a/)m_
+        [[hau2 caam4 口饞]],
+        omniverous.
+    ==
+  ====
 $$
