@@ -345,6 +345,7 @@ $$
 - $𥕌4
 - $蚕4
 - $蠶4
+- $讒4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -543,4 +544,50 @@ W
         a coccoon.
     ==
   ====
+$$
+
+### 讒4 | _(4)Ts(')(a/)m_ [[caam4]]
+
+$$
+R
+  言 + 17
+U
+  U+8B92
+F
+  ==
+  - [[F2.63 讒]] 讒佞也毀譖良善曰讒
+  ==
+W
+  ====
+  - [[Page~554 (4)讒]]
+    ==
+    - To adulate, to humor, to flatter;
+    - to misrepresent, to gloss over, to calumniate,
+      to asperse, to traduce, to detract;
+    - servility;
+    - detraction, malignity;
+    - _(4)ts(')(a/)m ning(6)_
+        [[caam4 ning6 讒佞]]
+        to cajole and asperse;
+    - _(4)ts(')(a/)m (2)[ch(')(i/)m]_
+        [[caam4 cim2 讒諂]],
+        to intrigue against, to slander;
+    - _(4)ts(')(a/)m (4)yan_
+        [[caam4 jan4 讒人]],
+        a backbiter;
+    - _(4)ts(')(a/)m (4)(i/)n (5)y(e/) wo(6)_
+        [[caam4 jin4 je5 wo6 讒言惹禍]]
+        calumnies induce troubles;
+    - _(4)ts(')(a/)m (4)shan_
+        [[caam4 san4 讒臣]],
+        an intriguing officer;
+    - _(4)ts(')(a/)m (2)hau (1)k(a/)u (1)k(a/)_
+        [[caam4 hau2 gaau1 gaa1 讒口交加]],
+        he is everywhere spoken against.
+    ==
+  ====
+C
+  ==
+  - Williams' 讒諂: Corrected _(2)ch(i/)m_ [[zim2]] to _(2)ch(')(i/)m_ [[cim2]].
+  ==
 $$
