@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aak
-* %date-modified --> 2023-12-30
-* %copyright-prior-years -->
+* %date-modified --> 2024-01-01
+* %copyright-prior-years --> 2023--
 
 %%%
 
@@ -169,7 +169,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected 橫本 to 橫木.
+  - Fan Wan entry: Corrected 本 to 木.
   ==
 $$
 
@@ -257,7 +257,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected 表百切 to 哀百切, and 鈪燭 to 鈪鐲.
+  - Fan Wan entry: Corrected 表 to 哀, and 燭 to 鐲.
   ==
 E
   ====

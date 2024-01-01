@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2023-12-31
-* %copyright-prior-years -->
+* %date-modified --> 2024-01-01
+* %copyright-prior-years --> 2023--
 
 %%%
 
@@ -693,7 +693,7 @@ W
   ====
 C
   ====
-  - Fan Wan entry: Corrected 音伙 to 音狄, and removed extraneous trailing 翟.
+  - Fan Wan entry: Corrected 伙 to 狄, and removed extraneous trailing 翟.
   - Williams' also read _t(')ik(7)_ etc.: this is not quite correct.
     ==
     - 摘 is also read _t(')ik(7)_ [[tik1]] (expected from 他歷切); but

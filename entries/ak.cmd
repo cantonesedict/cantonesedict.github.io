@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ak
-* %date-modified --> 2023-12-29
-* %copyright-prior-years -->
+* %date-modified --> 2024-01-01
+* %copyright-prior-years --> 2023--
 
 %%%
 
@@ -237,7 +237,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected 沽濡 to 沾濡.
+  - Fan Wan entry: Corrected 沽 to 沾.
   ==
 $$
 

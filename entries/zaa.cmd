@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2023-12-31
-* %copyright-prior-years -->
+* %date-modified --> 2024-01-01
+* %copyright-prior-years --> 2023--
 
 %%%
 
@@ -624,7 +624,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected 以千 to 以手.
+  - Fan Wan entry: Corrected 千 to 手.
   - Williams does not consider 搾 (pressing with the hand)
     interchangeable with 榨 (pressing with a machine);
     see $榨zaa3 for the "machine-press" senses.

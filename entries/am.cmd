@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2023-12-30
-* %copyright-prior-years -->
+* %date-modified --> 2024-01-01
+* %copyright-prior-years --> 2023--
 
 %%%
 
@@ -368,7 +368,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected 藏𡈼 to 藏也.
+  - Fan Wan entry: Corrected 𡈼 to 也.
   - Williams' 揞白迷濛: Corrected _p(a/)k(8)_ [[baak3]] to _p(a/)k(9)_ [[baak6]].
   - Williams' 揞背手: Now rarely heard; 揞口費 is more common for "hush money".
   ==
