@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2024-01-01
+* %date-modified --> 2024-01-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -315,7 +315,7 @@ C
   ==
 S
   ==
-  - $鏨caam5 (TODO)
+  - $鏨caam5
   - $鏨zaam6
   ==
 $$
@@ -457,7 +457,7 @@ C
   ==
 S
   ==
-  - $鏨caam5 (TODO)
+  - $鏨caam5
   - $鏨zaam5
   ==
 $$

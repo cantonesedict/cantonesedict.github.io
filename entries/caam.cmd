@@ -24,6 +24,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [caam1](#1)
 - [caam3](#3)
 - [caam4](#4)
+- [caam5](#5)
 ==
 </nav>
 <## /tones ##>
@@ -674,4 +675,81 @@ W
         omniverous.
     ==
   ====
+$$
+
+
+##{#5 .modern} (5)Ts(')(a/)m [[caam5 陽上]]
+
+<## tone-5-characters ##>
+<nav class="sideways">
+=={.modern}
+- $鏨5
+==
+</nav>
+<## /tone-5-characters ##>
+
+###+ 鏨5 | _(5)Ts(')(a/)m_ [[caam5]]
+
+$$
+R
+  金 + 11
+U
+  U+93E8
+A
+  ==
+  -{.modern} 劖 (for vernacular "pierce" sense)
+  ==
+V
+  ==
+  - zaam6 (expected from 藏濫切)
+  ==
+F
+  ==
+  [[F2.64 鏨]] 鉄鑿
+  ==
+W
+  ====
+  - [[Page~553 (5)鏨 _(5)Ts(a/)m_ (zaam5); here normalised to _(5)Ts(')(a/)m_ (caam5)]]
+    ==
+    - A stone-cutter's chissel;
+    - a small cold chissel;
+    - to pierce, as a thorn;
+    - to cut in, to cut or chissel out;
+    - to carve, as flowers;
+    - _(5)[ts(')(a/)m] (1)f(a/)_
+        [[caam5 faa1 鏨花]],
+        to carve flowers;
+    - _(5)[ts(')(a/)m] (1)t(o\)_
+        [[caam5 dou1 鏨刀]], a stone chissel;
+    - _(5)[ts(')(a/)m] (1)hoi (1)p(i/)n_
+        [[caam5 hoi1 bin1 鏨開邊]],
+        to split open an edge;
+    - _(2)p(i/) lak(9) (5)[ts(')(a/)m]_
+        [[bei2 lak6-1 caam5 畀竻鏨]],
+        the thorn pierced me.
+    ==
+  ====
+C
+  ==
+  - Whilst Fan Wan does not explicitly record the reading of 鏨
+    (as is the case for most entries), the tone at the very least can be inferred
+    based on the ordering with respect to other entries.
+    Because 鏨 appears in the rising tone section, and strictly after 攬覽擥,
+    which are 陽上 (tone~5), we conclude that 鏨 also is 陽上 (tone~5).
+    Williams' placement of 鏨 under _(5)Ts(a/)m_ [[zaam5]] is problematic
+    as an unaspirated initial cannot occur with 陽上 (tone~5).
+    I have corrected this to the aspirated _(5)Ts(')(a/)m_ [[caam5]], because:
+    ++
+    1. It is consistent with the vernacular _(5)ts(')(a/)m_ [[caam5]]
+       for "pierced"; and
+    2. It is consistent with 《廣韻》才敢切
+       if aspirated rising _(5)ts(')(a/)m_ [[caam5]] is not recast
+       to unaspirated departing _ts(a/)m(6)_ [[zaam6]].
+    ++
+  ==
+S
+  ==
+  - $鏨zaam5
+  - $鏨zaam6
+  ==
 $$
