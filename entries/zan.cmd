@@ -202,7 +202,7 @@ W
         [[zan1 zing3 真正]]
         truly, indeed;
     - _(1)chan (2)kong_
-        [[zan1 kong2 真講]],
+        [[zan1 gong2 真講]],
         it ts really so.
     ==
   ====
@@ -260,6 +260,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $侲3
 - $振3
 - $賑3
 - $鎭3
@@ -268,6 +269,27 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 侲3 | _Chan(3)_ [[zan3]]
+
+$$
+R
+  人 + 7
+U
+  U+4FB2
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~17|n60 侲(3)]]
+    ==
+    - A boy of ten or twelve years;
+    - _chan(3) (4)t(')ung_
+        [[zan3 tung4 侲童]],
+        boys who play at funerals.
+    ==
+  ====
+$$
 
 ### 振3 | _Chan(3)_ [[zan3]]
 
