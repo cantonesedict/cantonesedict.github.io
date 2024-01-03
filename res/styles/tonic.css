@@ -10,7 +10,7 @@
 
 
 :target {
-  animation-duration: 2s;
+  animation-duration: 1.5s;
   animation-name: temporary-highlight;
   animation-timing-function: ease-in;
 }
