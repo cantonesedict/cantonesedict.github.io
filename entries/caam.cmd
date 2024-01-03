@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2024-01-02
+* %date-modified --> 2024-01-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -747,6 +747,16 @@ C
        to unaspirated departing _ts(a/)m(6)_ [[zaam6]].
     ++
   ==
+E
+  ====
+  - 【鏨】 (caam5):
+    ++
+    1. To pierce, especially in a wedging or chisel-like fashion.
+       ==
+       - 鏨刺 (caam5 ci3): "Pierced [by a] thorn."
+       ==
+    ++
+  ====
 S
   ==
   - $鏨zaam5
