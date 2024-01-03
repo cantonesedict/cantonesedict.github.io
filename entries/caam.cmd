@@ -244,6 +244,7 @@ $$
 - $慘2
 - $憯2
 - $𢡖2
+- $摻2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -335,6 +336,42 @@ W
     [[Alternative form of 慘. **See $慘caam2 for the canonical entry.**]]
     --
   ====
+$$
+
+### 摻2 | _(2)Ts(')(a/)m_ [[caam2]]
+
+$$
+R
+  手 + 11
+U
+  U+647B
+F
+  ==
+  - [[F2.64 摻]] 羅而取之
+  ==
+W
+  ====
+  - [[Page~554 (2)摻]]
+    --
+    [[Idiosyncratic reading from Fan Wan;
+    **see $摻saam1 and $摻saam2 for the canonical entries**.]]
+    --
+  <##
+    ==
+    - saam2 (expected from 所斬切)
+    ==
+    ==
+    - A delicate hand, a hand with tapering fingers; --> 攕 saam1
+    - fine, tapering, small; --> 攕 saam1
+    - to take up with the hand. --> 摻 saam2
+    ==
+  ##>
+  ====
+S
+  ==
+  - $摻saam1 (TODO)
+  - $摻saam2 (TODO)
+  ==
 $$
 
 
