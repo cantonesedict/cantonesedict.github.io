@@ -535,6 +535,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $陣6
+- $陳6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -546,6 +547,10 @@ R
   阜 + 7
 U
   U+9663
+A
+  ==
+  - $陳6
+  ==
 V
   ==
   - zan6-2 (for vernacular "later" sense 一陣)
@@ -643,4 +648,29 @@ E
     1. Short for [一陣間](#cantonese-一陣間).
     ++
   ====
+$$
+
+### 陳6 | _Chan(6)_ [[zan6]]
+
+$$
+R
+  阜 + 8
+U
+  U+9673
+F
+  ==
+  - [[F1.85 陣]] 軍師行伍之列
+  - [[F1.85 陳]] 同上
+  ==
+W
+  ====
+  - [[Page~17|n60 陣(6)陳(6)]]
+    --
+    [[Alternative form of 陣. **See $陣zan6 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $陳can4 (TODO)
+  ==
 $$
