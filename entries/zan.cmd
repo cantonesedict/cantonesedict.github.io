@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zan
-* %date-modified --> 2023-08-02
-* %copyright-prior-years -->
+* %date-modified --> 2024-01-03
+* %copyright-prior-years --> 2023--
 
 %%%
-
---{.modern}
-[[From Page~16|n59 of the original onwards.]]
---
 
 #{.williams} Chan. [[zan]]
 
@@ -21,3 +17,25 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [[Work in progress]]
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Chan. [[Page~16|n59]]
+  ==
+WP
+  ==
+  - Chan <span class="modern">= [tɕɐn]</span>
+  ==
+MP
+  ==
+  - zan = [tsɐn], [tɕɐn]
+  ==
+$$
