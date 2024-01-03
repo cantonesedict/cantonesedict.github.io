@@ -379,7 +379,7 @@ W
   ====
 S
   ==
-  - $劖caam5 (TODO)
+  - $劖caam5
   ==
 $$
 
@@ -683,10 +683,33 @@ $$
 <## tone-5-characters ##>
 <nav class="sideways">
 =={.modern}
+- $劖5
 - $鏨5
 ==
 </nav>
 <## /tone-5-characters ##>
+
+###+ 劖5 | _(5)Ts(')(a/)m_ [[caam5]]
+
+$$
+R
+  刀 + 17
+U
+  U+5296
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Alternative form of 鏨 for the vernacular "pierce" sense.
+    **See $鏨caam5 for the canonical entry.**
+  ==
+S
+  ==
+  - $劖caam4
+  ==
+$$
 
 ###+ 鏨5 | _(5)Ts(')(a/)m_ [[caam5]]
 
