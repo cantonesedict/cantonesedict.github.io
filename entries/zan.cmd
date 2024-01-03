@@ -628,7 +628,7 @@ E
        ==
     1. Marks the subjunctive mood ("what if" for an hypothetical future).
        ==
-       - 一陣遲到咪弊 (jat1 zan6-2 ci4 dou3 mai6 bai6): "[If we] arrive late, [won't we be] stuffed?"
+       - 一陣遲到咪弊 (jat1 zan6-2 ci4 dou3 mai6 bai6): "If [we] arrive late, [won't we be] stuffed?"
        ==
     ++
   - 【一陣間】 (jat1 zan6 gaan1):
