@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2023-12-31
-* %copyright-prior-years -->
+* %date-modified --> 2024-01-03
+* %copyright-prior-years --> 2023--
 
 %%%
 
@@ -90,7 +90,7 @@ E
   ====
   - 【叉】 (caa1):
     ++
-    1. Short for 叉燒 (char shiu).
+    1. Short for [叉燒](#cantonese-叉燒) (char shiu).
       ==
       - 叉鴨米 (caa1 aap3 mai5): "Char [shiu], [roast] duck vermicelli."
       ==
