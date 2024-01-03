@@ -48,6 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $珍1
+- $甄1
 - $眞1
 - $真1
 ==
@@ -101,6 +102,30 @@ W
         a pearl in the hand---a daughter.
     ==
   ====
+$$
+
+### 甄1 | _(1)Chan_ [[zan1]]
+
+$$
+R
+  瓦 + 9
+U
+  U+7504
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~16|n59 (1)甄]]
+    --
+    [[The expected reflex is zan1 from Middle Chinese 職鄰切,
+    but the common reading is jan1;
+    **see $甄jan1 for the canonical entry**.]]
+    --
+  ====
+S
+  ==
+  - $甄jan1 (TODO)
+  ==
 $$
 
 ### 眞1 | _(1)Chan_ [[zan1]]
