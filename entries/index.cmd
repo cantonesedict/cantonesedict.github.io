@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of entry pages by Jyutping
-* %date-modified --> 2023-12-31
-* %copyright-prior-years -->
+* %date-modified --> 2024-01-03
+* %copyright-prior-years --> 2023--
 * %meta-description --> index of entry pages by Jyutping
 
 OrdinaryDictionaryReplacement: #.no-black-serif-note
@@ -123,7 +123,7 @@ See also: [Index of Cantonese terms by Jyutping](cantonese).
 - $caa
 - $caai
 - $caak
-- $caam (work in progress)
+- $caam
 - $caan (work in progress)
 - $caang (work in progress)
 - $caap (work in progress)
