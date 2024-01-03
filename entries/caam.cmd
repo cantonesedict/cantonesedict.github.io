@@ -242,6 +242,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $慘2
+- $𢡖2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -259,7 +260,7 @@ A
   ==
 F
   ==
-  - [[F2.64 慘]] 酷毒也愁戚也甚也
+  - [[F2.64 ⿰忄叅]] 酷毒也愁戚也甚也
   - [[F2.64 慘]] 同上
   ==
 W
@@ -288,6 +289,27 @@ W
         [[caam2 zou1 waang4 wo6 慘遭橫禍]]
         to meet with cruelty and misfortunes.
     ==
+  ====
+$$
+
+### 𢡖2 [[⿰忄叅]] | _(2)Ts(')(a/)m_ [[caam2]]
+
+$$
+R
+  心 + 12
+U
+  U+22856
+F
+  ==
+  - [[F2.64 ⿰忄叅]] 酷毒也愁戚也甚也
+  - [[F2.64 慘]] 同上
+  ==
+W
+  ====
+  - [[Page~554 (2)慘(2)𢡖 (⿰忄叅)]]
+    --
+    [[Alternative form of 慘. **See $慘caam2 for the canonical entry.**]]
+    --
   ====
 $$
 
