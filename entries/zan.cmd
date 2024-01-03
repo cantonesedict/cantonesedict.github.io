@@ -24,6 +24,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [zan1](#1)
 - [zan2](#2)
 - [zan3](#3)
+- [zan6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -525,4 +526,84 @@ E
     1. Slang for having an orgasm.
     ++
   ====
+$$
+
+
+##{#6 .williams} Chan(6) [[zan6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $陣6
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 陣6 | _Chan(6)_ [[zan6]]
+
+$$
+R
+  阜 + 7
+U
+  U+9663
+F
+  ==
+  - [[F1.85 陣]] 軍師行伍之列
+  - [[F1.85 陳]] 同上
+  ==
+W
+  ====
+  - [[Page~17|n60 陣(6)陳(6)]]
+    ==
+    - A rank, a file of soldiers, a battalion;
+    - an army;
+    - to arrange, to place in ranks;
+    - a little while, passing, transitory;
+    - a battle;
+    - to drill;
+    - a mode of marshaling;
+    - _chan(6) sh(e/)ung(6)_
+        [[zan6 soeng6 陣上]]
+        in the fight;
+    - _yat(7) chan(6) chan(6) (5)[l(a/)ng]_
+        [[jat1 zan6 zan6 laang5 一陣陣冷]],
+        growing colder;
+    - _(2)shai (5)n(u") (4)yan chan(6)_
+        [[sai2 neoi5 yan4-2 zan6 使女人陣]]
+        to send a woman to get it;
+    - _(4)mai (4)wan chan(6)_
+        [[mai4 wan4 zan6 迷魂陣]]
+        besotted in;
+        silly;
+    - _(2)p(a/)i chan(6)_
+        [[baai2 zan6 擺陣]]
+        to post troops;
+    - _(2)k(i/) (4)t(')i(u/) muk(9) chan(6)_
+        [[gei2 tiu4 muk6 zan6 幾條木陣]]
+        several wooden sleepers (or supports);
+    - _chan(6) shai(3)_
+        [[zan6 sai3 陣勢]]
+        the ranks;
+        courageous;
+    - _yat(7) chan(6) (5)(u")_
+        [[jat1 zan6 jyu5 一陣雨]],
+        a shower;
+    - _yat(7) chan(6) (1)fung (5)(u")_
+        [[jat1 zan6 fung1 jyu5 一陣風雨]],
+        a squall;
+    - _yat(7) chan(6) (4)ming, yat(7) chan(6) (4)'m (4)ming_
+        [[jat1 zan6 ming4 jat1 zan6 m4 ming4 一陣明一陣唔明]],
+        now you know, and then you do not know;
+    - _p(a/)i(6) chan(6)_
+        [[baai6 zan6 敗陣]]
+        defeated the troops.
+    ==
+  ====
+C
+  ==
+  - Williams' 一陣陣冷:
+    Changed Middle Chinese _(5)lang_ [[lang5]] to common reading _(5)l(a/)ng_ [[laang5]].
+  - Williams' 使女人陣: Literally, "employ [the] women's formation".
+  - Williams' 陣勢: Figuratively, the situation of the battle.
+  ==
 $$
