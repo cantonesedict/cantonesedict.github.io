@@ -242,6 +242,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $慘2
+- $憯2
 - $𢡖2
 ==
 </nav>
@@ -288,6 +289,29 @@ W
     - _(2)ts(')(a/)m (1)ts(o\) (4)w(a/)ng wo(6)_
         [[caam2 zou1 waang4 wo6 慘遭橫禍]]
         to meet with cruelty and misfortunes.
+    ==
+  ====
+$$
+
+### 憯2 | _(2)Ts(')(a/)m_ [[caam2]]
+
+$$
+R
+  心 + 12
+U
+  U+61AF
+F
+  ==
+  - [[F2.64 憯]] 痛也
+  ==
+W
+  ====
+  - [[Page~554 (2)憯]]
+    ==
+    - Pained, feeling acutely, grieved;
+    - distressed;
+    - sickened from former sufferings;
+    - already.
     ==
   ====
 $$
