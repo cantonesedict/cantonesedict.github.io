@@ -546,6 +546,10 @@ R
   阜 + 7
 U
   U+9663
+V
+  ==
+  - zan6-2 (for vernacular "later" sense 一陣)
+  ==
 F
   ==
   - [[F1.85 陣]] 軍師行伍之列
@@ -569,7 +573,7 @@ W
         [[jat1 zan6 zan6 laang5 一陣陣冷]],
         growing colder;
     - _(2)shai (5)n(u") (4)yan chan(6)_
-        [[sai2 neoi5 yan4-2 zan6 使女人陣]]
+        [[sai2 neoi5 jan4-2 zan6 使女人陣]]
         to send a woman to get it;
     - _(4)mai (4)wan chan(6)_
         [[mai4 wan4 zan6 迷魂陣]]
@@ -606,4 +610,37 @@ C
   - Williams' 使女人陣: Literally, "employ [the] women's formation".
   - Williams' 陣勢: Figuratively, the situation of the battle.
   ==
+E
+  ====
+  - 【一陣-moment】 (jat1 zan6):
+    ++
+    1. A moment or short while.
+       ==
+       - 等一陣啊 (dang2 jat1 zan6 a3): "Hold on [a] bit."
+       - 瞓咗一陣 (fan3 zo2 jat1 zan6): "Slept [for a] bit."
+       ==
+    ++
+  - 【一陣-later】 (jat1 zan6, jat1 zan6-2):
+    ++
+    1. Later, especially a short while later.
+       ==
+       - 一陣先吖 (jat1 zan6 sin1 a1): "[I'll see to it] later"
+       - 一陣出去 (jat1 zan6-2 ceot1 heoi3): "[I'm] going out later."
+       ==
+    1. Marks the subjunctive mood ("what if" for an hypothetical future).
+       ==
+       - 一陣遲到咪弊 (jat1 zan6-2 ci4 dou3 mai6 bai6): "[If we] arrive late, [won't we be] stuffed?"
+       ==
+    ++
+  - 【一陣間】 (jat1 zan6 gaan1):
+    ++
+    1. Same as 一陣
+       (in both the ["moment"](#cantonese-一陣-moment) sense
+       and the ["later" / subjunctive marker](#cantonese-一陣-later) senses).
+    ++
+  - 【陣間】 (zan6 gaan1):
+    ++
+    1. Short for [一陣間](#cantonese-一陣間).
+    ++
+  ====
 $$

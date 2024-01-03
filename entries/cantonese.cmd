@@ -265,6 +265,26 @@ function applyFilter()
     , [zam#cantonese-後尾枕](zam#cantonese-後尾枕)
 
   //
+    , jat1 zan6
+    , 一陣
+    , [zan#cantonese-一陣-moment](zan#cantonese-一陣-moment)
+
+  //
+    , jat1 zan6
+    , 一陣
+    , [zan#cantonese-一陣-later](zan#cantonese-一陣-later)
+
+  //
+    , jat1 zan6 gaan1
+    , 一陣間
+    , [zan#cantonese-一陣間](zan#cantonese-一陣間)
+
+  //
+    , jat1 zan6-2
+    , 一陣
+    , [zan#cantonese-一陣-later](zan#cantonese-一陣-later)
+
+  //
     , waa6 zaai1
     , 話齋
     , [zaai#cantonese-話齋](zaai#cantonese-話齋)
@@ -368,6 +388,11 @@ function applyFilter()
     , zam6
     , 𠹻
     , [zam#cantonese-𠹻](zam#cantonese-𠹻)
+
+  //
+    , zan6 gaan1
+    , 陣間
+    , [zan#cantonese-陣間](zan#cantonese-陣間)
 
 <## /cantonese-table-body ##>
 ''
