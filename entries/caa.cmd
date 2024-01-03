@@ -94,7 +94,7 @@ E
       ==
       - 叉鴨米 (caa1 aap3 mai5): "Char [shiu], [roast] duck vermicelli."
       ==
-    2. Euphemistic substitute for any profane intensifier.
+    1. Euphemistic substitute for any profane intensifier.
       ==
       - 冇叉用 (mou5 caa1 jung6): "Bleeping useless."
       ==
