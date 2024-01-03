@@ -224,6 +224,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $振3
+- $震3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -270,5 +271,69 @@ W
         [[zan3 ji1 振衣]],
         to shake the dress.
     ==
+  ====
+$$
+
+### 震3 | _Chan(3)_ [[zan3]]
+
+$$
+R
+  雨 + 7
+U
+  U+9707
+F
+  ==
+  - [[F1.84 震]] 卦名動也起也[懼]也威也
+  ==
+W
+  ====
+  - [[Page~17|n60 震(3)]]
+    --
+    Interchanged with the last [[振]].
+    --
+    ==
+    - To quiver;
+    - to shiver;
+    - the 51st diagram, belongs to thunder;
+    - to shake, as by thunder;
+    - to quicken, as a fœtus;
+    - to awe, to impress;
+    - thundering, terrible, as a sound;
+    - dire, awful;
+    - to intimidate;
+    - to raise;
+    - to alarm;
+    - _t(i/)(6) chan(3)_
+        [[dei6 zan3 地震]]
+        an earthquake;
+    - _chan(3) n(o\)(6)_
+        [[zan3 nou6 震怒]]
+        incensed;
+    - _(1)wai chan(3)_
+        [[wai1 zan3 威震]]
+        to exhibit the majesty [of China];
+        [[these square brackets appear in the original text]]
+    - _chan(3) (1)[king]_
+        [[zan3 ging1 震驚]],
+        terrified;
+    - _chan(3) tung(6)_
+        [[zan3 dung6 震動]]
+        disturbed.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿰亻瞿 to 懼.
+  - Strictly, the "quicken" sense is to be read _(1)shan_ [[san1]]
+    as it is a variant of 娠.
+  - Williams' 震驚: Corrected _(1)keng_ [[geng1]] to _(1)king_ [[ging1]].
+  ==
+E
+  ====
+  - 【打冷震】 (daa2 laang5 zan3):
+    ++
+    1. To shiver.
+    1. Slang for having an orgasm.
+    ++
   ====
 $$

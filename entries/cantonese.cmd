@@ -250,6 +250,11 @@ function applyFilter()
     , [cam#cantonese-尋日](cam#cantonese-尋日)
 
   //
+    , daa2 laang5 zan3
+    , 打冷震
+    , [zan#cantonese-打冷震](zan#cantonese-打冷震)
+
+  //
     , gam3 zai6
     , 咁嚌
     , [zai#cantonese-咁嚌](zai#cantonese-咁嚌)
