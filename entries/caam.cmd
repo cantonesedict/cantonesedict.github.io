@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [caam1](#1)
+- [caam2](#2)
 - [caam3](#3)
 - [caam4](#4)
 - [caam5](#5)
@@ -232,6 +233,62 @@ C
   ==
   - Fan Wan entry: Normalised headword ⿰馬叅 to 驂.
   ==
+$$
+
+
+##{#2 .williams} (2)Ts(')(a/)m [[caam2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $慘2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 慘2 | _(2)Ts(')(a/)m_ [[caam2]]
+
+$$
+R
+  心 + 11
+U
+  U+6158
+A
+  ==
+  - $𢡖2 [[⿰忄叅]]
+  ==
+F
+  ==
+  - [[F2.64 慘]] 酷毒也愁戚也甚也
+  - [[F2.64 慘]] 同上
+  ==
+W
+  ====
+  - [[Page~554 (2)慘(2)𢡖 (⿰忄叅)]]
+    ==
+    - Cruel, hard-hearted, inhuman;
+    - to be afflicted, injured, wounded in the mind;
+    - a superlative, applied to sufferings;
+    - _(1)p(i/) (2)ts(')(a/)m_
+        [[bei1 caam2 悲慘]],
+        extreme grief;
+    - _(1)sh(e/)ung tak(7) (2)ts(')(a/)m_
+        [[soeng1 dak1 caam2 傷得慘]],
+        horribly wounded;
+    - _(2)ts(')(a/)m huk(9)_
+        [[caam2 huk6 慘酷]]
+        unfeeling, callous;
+    - _(2)h(o\) (2)ts(')(a/)m_
+        [[hou2 caam2 好慘]],
+        very shocking;
+    - _(2)ts(')(a/)m hak(7)_
+        [[caam2 hak1 慘刻]],
+        oppressive, fleecing the people;
+    - _(2)ts(')(a/)m (1)ts(o\) (4)w(a/)ng wo(6)_
+        [[caam2 zou1 waang4 wo6 慘遭橫禍]]
+        to meet with cruelty and misfortunes.
+    ==
+  ====
 $$
 
 
