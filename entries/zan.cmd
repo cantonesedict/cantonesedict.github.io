@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zan1](#1)
+- [zan3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -214,4 +215,60 @@ C
   - Williams' 真贓正犯:
     Corrected _fan(6)_ [[fan6]] to _f(a/)n(6)_ [[faan6]].
   ==
+$$
+
+
+##{#3 .williams} Chan(3) [[zan3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $振3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 振3 | _Chan(3)_ [[zan3]]
+
+$$
+R
+  手 + 7
+U
+  U+632F
+F
+  ==
+  - [[F1.84 振]] 振奮振動振作止也收也藏也
+  ==
+W
+  ====
+  - [[Page~17|n60 振(3)]]
+    ==
+    - To shake, to move;
+    - to stir up, to agitate;
+    - to excite, to stimulate;
+    - to repair, to restore, to put in order;
+    - to rescue, to save;
+    - to joggle;
+    - to flap, as wings;
+    - to terrify;
+    - to uphold, to stop;
+    - to receive, to contain;
+    - _chan(3) tung(6)_
+        [[zan3 dung6 振動]]
+        to shake, to set about, up and doing;
+    - _chan(3) tsok(8)_
+        [[zan3 zok3 振作]]
+        diligent;
+        to encourage;
+    - _t(a/)i(6) chan(3) (1)k(a/) (1)shing_
+        [[daai6 zan3 gaa1 sing1 大振家聲]],
+        made his family famous;
+    - _chan(3) (4)m(a/)i yat(7) (4)t(')(u")n_
+        [[zan3 maai4 jat1 tyun4 振埋一團]],
+        cuddled up in a heap, as a shivering child;
+    - _chan(3) (1)(i/)_
+        [[zan3 ji1 振衣]],
+        to shake the dress.
+    ==
+  ====
 $$
