@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zan1](#1)
+- [zan2](#2)
 - [zan3](#3)
 ==
 </nav>
@@ -218,12 +219,49 @@ C
 $$
 
 
+##{#2 .williams} (2)Chan [[zan2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $賑2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 賑2 | _(2)Chan_ [[zan2]]
+
+$$
+R
+  貝 + 7
+U
+  U+8CD1
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~17|n60 賑(3)]]
+    --
+    [[...]]
+    --
+    --
+    Read _(2)chan_ [[zan2]]; rich, affluent, wealthy.
+    --
+  ====
+S
+  ==
+  - $賑zan3
+  ==
+$$
+
+
 ##{#3 .williams} Chan(3) [[zan3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
 - $振3
+- $賑3
 - $震3
 ==
 </nav>
@@ -272,6 +310,40 @@ W
         to shake the dress.
     ==
   ====
+$$
+
+### 賑3 | _Chan(3)_ [[zan3]]
+
+$$
+R
+  貝 + 7
+U
+  U+8CD1
+F
+  ==
+  - [[F1.84 賑]] 賙濟也
+  ==
+W
+  ====
+  - [[Page~17|n60 賑(3)]]
+    ==
+    - A largess, a bounty;
+    - to give, to relieve, to supply;
+    - _chan(3) tsai(3)_
+        [[zan3 zai3 賑濟]]
+        to give to the poor;
+    - _chan(3) (1)k(i/)_
+        [[zan3 gei1 賑饑]],
+        to feed the hungry.
+    ==
+    --
+    Read _(2)chan_ [[zan2]]; [[**see $賑zan2**]].
+    --
+  ====
+S
+  ==
+  - $賑zan2
+  ==
 $$
 
 ### 震3 | _Chan(3)_ [[zan3]]
