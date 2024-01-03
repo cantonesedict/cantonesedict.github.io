@@ -245,6 +245,7 @@ $$
 - $憯2
 - $𢡖2
 - $摻2
+- $篸2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -372,6 +373,54 @@ S
   - $摻saam1 (TODO)
   - $摻saam2 (TODO)
   ==
+$$
+
+### 篸2 | _(2)Ts(')(a/)m_ [[caam2]]
+
+$$
+R
+  竹 + 11
+U
+  U+7BF8
+F
+  ==
+  - [[F2.64 ⿱𥫗彡]] 竹器
+  - [[F2.64 篸]] 同上
+  ==
+W
+  ====
+  - [[Page~554 (2)篸]]
+    ==
+    - Bamboos varying in length;
+    - a pandean pipe;
+    - a hair-pin;
+    - an open basket like a fan;
+    - _fat(9) (2)ts(')(a/)m_
+        [[fat6 caam2]],
+        a basket scuttle;
+    - _(1)f(u/)i (2)ts(')(a/)m_
+        [[fui1 caam2]],
+        a mortar-hod;
+    - _kuk(7) (1)tau (2)ts(')(a/)m_
+        [[guk1 dau1 caam2]],
+        a grain fan;
+    - _l(a/)p(9) s(a/)p(8) (2)ts(')(a/)m_
+        [[laap6 saap3 caam2]],
+        a dirt basket.
+    ==
+  ====
+C
+  ====
+  - Strictly:
+    ==
+    - The "pandean pipe" sense is to be read _(1)ch(')(a/)m_ [[caam1]]
+      (Kangxi quotes 《集韻》初簪切 for the phrase 篸𥰭 [[⿱𥫗差]],
+      which is the bamboo version of 參差).
+    - The "hair-pin" sense is to be read _(1)ts(a/)m_ [[zaam1]]
+      as it is a variant of 簪.
+    ==
+    Only the vernacular "open basket" sense should be read _(2)ts(')(a/)m_ [[caam2]].
+  ====
 $$
 
 
