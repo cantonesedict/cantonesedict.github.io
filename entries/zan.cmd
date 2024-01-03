@@ -262,6 +262,8 @@ $$
 =={.modern}
 - $振3
 - $賑3
+- $鎭3
+- $鎮3
 - $震3
 ==
 </nav>
@@ -343,6 +345,80 @@ W
 S
   ==
   - $賑zan2
+  ==
+$$
+
+### 鎭3 | _Chan(3)_ [[zan3]]
+
+$$
+R
+  金 + 10
+U
+  U+93AD
+F
+  ==
+  - [[F1.84 鎭]] 鎭守鎭壓鎭靜凡藩鎭山鎭皆取安重鎭壓之義
+  ==
+W
+  ====
+  - [[Page~17|n60 鎭(3)]]
+    --
+    [[Alternative form of 鎮. **See $鎮zan3 for the canonical entry.**]]
+    --
+  ====
+$$
+
+###+ 鎮3 | _Chan(3)_ [[zan3]]
+
+$$
+R
+  金 + 10
+U
+  U+93AE
+A
+  ==
+  - $鎭3
+  ==
+F
+  ==
+  - [[F1.84 鎭]] 鎭守鎭壓鎭靜凡藩鎭山鎭皆取安重鎭壓之義
+  ==
+W
+  ====
+  - [[Page~17|n60 鎭(3); here normalised to 鎮]]
+    ==
+    - To press down;
+    - to repress, to keep in subjection;
+    - to pacify, to protect;
+    - to overrule evil influences, as hills or pagodas do;
+    - to guard, to keep quiet;
+    - a mart, a trading-place;
+    - _chan(3) fuk(9)_
+        [[zan3 fuk6 鎮服]]
+        to sway, to be lord paramount;
+    - _chan(3) (1)king_
+        [[zan3 ging1 鎮驚]],
+        to quell one's fears;
+    - _chan(3) (4)t(')oi_
+        [[zan3 toi4 鎮臺]],
+        a protector;
+        a brigadier;
+    - _shan(3) (2)shau (1)p(i/)n (1)kw(a/)n_
+        [[zan3 sau2 bin1 gwaan1 鎮守邊關]],
+        to guard the frontier;
+    - _chan(3) (a/)t(8)_
+        [[zan3 aat3 鎮壓]]
+        to repress disturbance;
+    - _t(a/)i(6) chan(3) (4)t(')au_
+        [[daai6 zan3 tau4 大鎮頭]],
+        an éntrepôt or great trading-mart.
+    ==
+  ====
+C
+  ==
+  - Williams' 大鎮頭: Here "éntrepôt" is Williams' spelling.
+    I know not enough about French to determine
+    if it should instead be spelt "entrepôt".
   ==
 $$
 
