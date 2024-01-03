@@ -47,11 +47,61 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $珍1
 - $眞1
 - $真1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 珍1 | _(1)Chan_ [[zan1]]
+
+$$
+R
+  玉 + 5
+U
+  U+73CD
+A
+  ==
+  -{.modern} 珎
+  ==
+F
+  ==
+  - [[F1.79 珍]] 寶也重也貴也又珍珠
+  - [[F1.79 ⿰𤣩⿱𠆢㣺]] 同上
+  - [[F1.79 珎]] 同上
+  ==
+W
+  ====
+  - [[Page~16|n59 珍]]
+    ==
+    - Valuable, precious, excellent;
+    - important, rare, noble;
+    - to prize;
+    - a delicacy;
+    - a rarity, a treasure;
+    - _(1)chan (1)ch(u")_
+        [[zan1 zyu1 珍珠]],
+        pearls;
+    - _(1)chan (2)p(o\)_
+        [[zan1 bou2 珍寶]],
+        precious;
+    - _(1)chan chung(6)_
+        [[zan1 zung6 珍重]]
+        to take care of, as the health;
+        to esteem;
+    - _(1)chan m(i/)(6)_
+        [[zan1 mei6 珍味]]
+        delicious;
+    - _(1)chan (1)ch(u") (2)fan_
+        [[zan1 zyu1 fan2 珍珠粉]],
+        pearl sago;
+    - _(2)ch(e/)ung sh(e/)ung(6) (1)chan_
+        [[zoeng2 soeng6 zan1 掌上珍]],
+        a pearl in the hand---a daughter.
+    ==
+  ====
+$$
 
 ### 眞1 | _(1)Chan_ [[zan1]]
 
