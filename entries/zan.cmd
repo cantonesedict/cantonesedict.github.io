@@ -261,6 +261,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $侲3
+- $帪3
 - $振3
 - $賑3
 - $鎭3
@@ -287,6 +288,24 @@ W
     - _chan(3) (4)t(')ung_
         [[zan3 tung4 侲童]],
         boys who play at funerals.
+    ==
+  ====
+$$
+
+### 帪3 | _Chan(3)_ [[zan3]]
+
+$$
+R
+  巾 + 7
+U
+  U+5E2A
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~17|n60 帪(3)]]
+    ==
+    - A bag to tie on a horse's head, in which his fodder is placed.
     ==
   ====
 $$
