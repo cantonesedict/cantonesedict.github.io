@@ -140,6 +140,7 @@ $$
 - $矧2
 - $紾2
 - $袗2
+- $診2
 - $軫2
 ==
 </nav>
@@ -355,6 +356,37 @@ W
     - _(2)ch(')an (1)h(i/) kwik(7)_
         [[can2 hei1 gwik1 袗絺綌]]
         single grasscloth.
+    ==
+  ====
+$$
+
+### 診2 | _(2)Ch(')an_ [[can2]]
+
+$$
+R
+  言 + 5
+U
+  U+8A3A
+V
+  ==
+  - zan2 (expected from 章忍切)
+  ==
+F
+  ==
+  - [[F1.82 診]] 視也騐也又診脉
+  ==
+W
+  ====
+  - [[Page~18|n61 (2)診]]
+    ==
+    - To examine, to look at;
+    - to try, to verify;
+    - _(2)ch(')an mung(6)_
+        [[can2 mung6 診夢]]
+        to interpret a dream;
+    - _(2)ch(')an mak(9)_
+        [[can2 mak6 診脈]]
+        to feel the pulse.
     ==
   ====
 $$
