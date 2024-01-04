@@ -571,7 +571,7 @@ E
     1. A gullible person.
        ==
        1. 做老襯 (zou6 lou5 can3): "Be [a] mug."
-       1. 搵老襯 (wan2 lou5 can3): "Find [a] sucker of [someone]" (meaning trick a gullible person).
+       1. 搵老襯 (wan2 lou5 can3): "Find [a] sucker of [someone]" (i.e. trick a gullible person).
        ==
     ++
   ====

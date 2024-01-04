@@ -433,7 +433,7 @@ E
         ==
      1. A guy, lad, etc.
         ==
-        - 佢條仔 (keoi5 tiu4 zai2): "Her guy" (meaning boyfriend).
+        - 佢條仔 (keoi5 tiu4 zai2): "Her guy" (i.e. boyfriend).
         - 後生仔 (hau6 saang1 zai2): "Young lad."
         ==
      1. A diminutive suffix.
