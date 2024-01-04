@@ -517,7 +517,7 @@ E
   - 【打冷震】 (daa2 laang5 zan3):
     ++
     1. To shiver.
-    1. Slang for having an orgasm.
+    1. (_slang_) To have an orgasm.
     ++
   ====
 $$

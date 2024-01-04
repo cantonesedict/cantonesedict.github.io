@@ -118,7 +118,7 @@ E
   ====
   - 【鴨】 (aap3-2):
     ++
-    1. Slang for male prostitute.
+    1. (_slang_) A male prostitute.
        Compare $雞gai1 "chicken" for female prostitute. (TODO)
        ==
        - 做鴨 (zou6 aap3-2): "Be [a] male-prostitute."
