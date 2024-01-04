@@ -203,6 +203,18 @@ class Indexer:
         with open('entries/character-index.json', 'w', encoding='utf-8') as json_file:
             json_file.write(nice_json)
 
+    def write_radical_index(self):
+        # {radical: {residual_stroke_count: {character: [jyutping, ...]}}}
+        object_ = collections.defaultdict(lambda: collections.defaultdict(lambda: collections.defaultdict(list)))
+        for entry in self.character_entries:
+            object_[entry.radical][entry.residual_stroke_count][entry.character].append(entry.jyutping)
+
+        raw_json = json.dumps(object_, ensure_ascii=False, separators=(',', ':'), sort_keys=True)
+        nice_json = raw_json.replace('},', '},\n') + '\n'  # newlines but only at the top level
+
+        with open('entries/radical-index.json', 'w', encoding='utf-8') as json_file:
+            json_file.write(nice_json)
+
     def _update_cantonese_table_body(self, cmd_content):
         return re.sub(
             pattern=r'(?<=<## cantonese-table-body ##>\n).*?(?=<## /cantonese-table-body ##>\n)',
@@ -269,7 +281,7 @@ class Page:
             CharacterEntry(
                 match.group('character'),
                 match.group('radical'),
-                match.group('residual_stroke_count'),
+                int(match.group('residual_stroke_count')),
                 match.group('jyutping'),
             )
             for match in re.finditer(
@@ -366,6 +378,7 @@ def main():
     indexer = Indexer(updater.cmd_names)
     indexer.update_cantonese()
     indexer.write_character_index()
+    indexer.write_radical_index()
 
     statistician = Statistician(indexer)
     statistician.print_statistics()
