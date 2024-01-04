@@ -133,10 +133,40 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $疹2
 - $矧2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 疹2 | _(2)Ch(')an_ [[can2]]
+
+$$
+R
+  疒 + 5
+U
+  U+75B9
+F
+  ==
+  - [[F1.82 疹]] 豆疹
+  ==
+W
+  ====
+  - [[Page~18|n61 (2)疹(2)疢]]
+    ==
+    - Pustules of any kind;
+    - eruptions, pimples;
+    - a cutaneous disease;
+    - sore lips;
+    - _tau(6) (2)ch(')an_
+        [[dau6 can2 痘疹]]
+        small pox pustules;
+    - _(1)p(a/)n (2)ch(')an_
+        [[baan1 can2 斑疹]],
+        eruptions.
+    ==
+  ====
+$$
 
 ### 矧2 | _(2)Ch(')an_ [[can2]]
 
