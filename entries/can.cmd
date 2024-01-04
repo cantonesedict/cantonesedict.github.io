@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [can1](#1)
+- [can2](#2)
 - [can4](#4)
 ==
 </nav>
@@ -123,6 +124,46 @@ C
   - Fan Wan and Williams both print this as ⿰目眞,
     but no separate code point to 瞋~U+778B exists for this form
     (blame Han unification inconsistency).
+  ==
+$$
+
+
+##{#2 .williams} (2)Ch(')an [[can2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $矧2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 矧2 | _(2)Ch(')an_ [[can2]]
+
+$$
+R
+  矢 + 4
+U
+  U+77E7
+F
+  ==
+  - [[F1.82 矧]] 况也
+  ==
+W
+  ====
+  - [[Page~18|n61 (2)矧]]
+    ==
+    - To stretch;
+    - still more, how much more;
+    - to grin wide;
+    - _(2)ch(')an (u")t[(9)]_
+        [[can2 jyut6 矧曰]]
+        to say further.
+    ==
+  ====
+C
+  ==
+  - Williams' 矧曰: Corrected _(u")t(8)_ [[jyut3]] to _(u")t(9)_ [[jyut6]].
   ==
 $$
 
