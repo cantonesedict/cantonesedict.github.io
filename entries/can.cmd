@@ -138,6 +138,7 @@ $$
 - $疢2
 - $疹2
 - $矧2
+- $紾2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -298,6 +299,34 @@ C
   ==
   - Williams' 矧曰: Corrected _(u")t(8)_ [[jyut3]] to _(u")t(9)_ [[jyut6]].
   ==
+$$
+
+### 紾2 | _(2)Ch(')an_ [[can2]]
+
+$$
+R
+  糸 + 5
+U
+  U+7D3E
+V
+  ==
+  - zan2 (expected from 章忍切)
+  ==
+F
+  ==
+  - [[F1.82 紾]] 縳也繩以縳之也
+  ==
+W
+  ====
+  - [[Page~18|n61 (2)紾]]
+    ==
+    - To bind with cords;
+    - to turn[,] to twist;
+    - to revolve;
+    - a revolution;
+    - perverse, crabbed.
+    ==
+  ====
 $$
 
 
