@@ -7,6 +7,7 @@ Automatically update CMD files.
 """
 
 import collections
+import json
 import os
 import re
 import sys
@@ -190,6 +191,17 @@ class Indexer:
         with open('entries/cantonese.cmd', 'w', encoding='utf-8') as new_cmd_file:
             new_cmd_file.write(new_cmd_content)
 
+    def write_character_index(self):
+        jyutping_readings_from_character = collections.defaultdict(list)
+        for entry in self.character_entries:
+            jyutping_readings_from_character[entry.character].append(entry.jyutping)
+
+        raw_json = json.dumps(jyutping_readings_from_character, ensure_ascii=False, separators=(',', ':'))
+        nice_json = raw_json.replace('],', '],\n') + '\n'  # newlines but only at the top level
+
+        with open('entries/character-index.json', 'w', encoding='utf-8') as json_file:
+            json_file.write(nice_json)
+
     def _update_cantonese_table_body(self, cmd_content):
         return re.sub(
             pattern=r'(?<=<## cantonese-table-body ##>\n).*?(?=<## /cantonese-table-body ##>\n)',
@@ -261,7 +273,7 @@ class Page:
             )
             for match in re.finditer(
                 pattern=(
-                    r'^#{3}[+]?[ ](?P<character>\S).*?\[\[(?P<jyutping>.+?)\]\]$\n\n'
+                    r'^#{3}[+]?[ ](?P<character>\S).*?\[\[(?P<jyutping>[a-z]+?[1-6])\]\]$\n\n'
                     r'[$]{2}\n'
                     r'R\n'
                     r'[ ]{2}(?P<radical>\S)[ ][+][ ](?P<residual_stroke_count>[0-9]+)$'
@@ -352,6 +364,7 @@ def main():
 
     indexer = Indexer(updater.cmd_names)
     indexer.update_cantonese()
+    indexer.write_character_index()
 
     statistician = Statistician(indexer)
     statistician.print_statistics()
