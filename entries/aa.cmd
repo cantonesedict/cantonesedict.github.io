@@ -171,7 +171,7 @@ C
   ==
 E
   ====
-  - 【吖】 (aa1, a1):
+  - 【吖】 (a1, aa1):
     ++
     1. An interrogative-ish final particle suggesting the preceding.
        ==
@@ -504,7 +504,7 @@ C
   ==
 E
   ====
-  - 【啊-final】 (aa3, a3):
+  - 【啊-final】 (a3, aa3):
     ++
     1. A final particle.
        ==

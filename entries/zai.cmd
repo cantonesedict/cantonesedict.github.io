@@ -994,20 +994,20 @@ C
   ==
 E
   ====
-  - 【嚌】 (zai6):
-    ++
-    1. A final particle of excessive degree.
-      ==
-      - 多得嚌 (do1 dak1 zai6): "Too much."
-      - 熱得嚌 (jit6 dak1 zai6): "[It's] too hot."
-      ==
-    ++
   - 【咁嚌】 (gam3 zai6):
     ++
     1. A final particle of almostness.
       ==
       - 熱到死咁嚌 (jit6 dou3 sei2 gam3 zai6): "[It's] so hot [we've] died, almost."
       - 食完咁嚌 (sik6 jyun4 gam3 zai6): "[We've] finished eating, almost."
+      ==
+    ++
+  - 【嚌】 (zai6):
+    ++
+    1. A final particle of excessive degree.
+      ==
+      - 多得嚌 (do1 dak1 zai6): "Too much."
+      - 熱得嚌 (jit6 dak1 zai6): "[It's] too hot."
       ==
     ++
   ====

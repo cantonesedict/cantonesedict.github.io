@@ -554,6 +554,10 @@ W
   ====
 E
   ====
+  - 【幫襯】 (bong1 can3):
+    ++
+    1. To patronise (be a customer of a business).
+    ++
   - 【襯】 (can3):
     ++
     1. To match, to suit.
@@ -561,10 +565,6 @@ E
        1. 佢哋幾襯吖 (keoi5 dei6 gei2 can3 a1): "They [do] quite match [each other]."
        1. 撞色唔襯 (zong6 sik1 m4 can3): "[The] colours clash [and] don't suit."
        ==
-    ++
-  - 【幫襯】 (bong1 can3):
-    ++
-    1. To patronise (be a customer of a business).
     ++
   - 【老襯】 (lou5 can3):
     ++

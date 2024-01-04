@@ -194,6 +194,13 @@ C
   ==
 E
   ====
+  - 【話齋】 (waa6 zaai1):
+    ++
+    1. Emphatic form of "[as he] said".
+      ==
+      - 好似佢話齋 (hou2 ci5 keoi5 waa6 zaai1): "As he said."
+      ==
+    ++
   - 【齋】 (zaai1):
     ++
     1. Vegetarian food.
@@ -210,13 +217,6 @@ E
        - 齋腸 (zaai1 coeng4-2): "Plain [rice-noodle] roll."
        - 齋噏 (zaai1 ngap1): "Purely blabbering."
        ==
-    ++
-  - 【話齋】 (waa6 zaai1):
-    ++
-    1. Emphatic form of "[as he] said".
-      ==
-      - 好似佢話齋 (hou2 ci5 keoi5 waa6 zaai1): "As he said."
-      ==
     ++
   ====
 $$

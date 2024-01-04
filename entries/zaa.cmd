@@ -584,7 +584,7 @@ W
   ====
 E
   ====
-  - 【咋-3】 (zaa3, za3):
+  - 【咋-3】 (za3, zaa3):
     ++
     1. A final particle of limitation.
       ==
@@ -872,7 +872,7 @@ W
   [[Not present]]
 E
   ====
-  - 【咋-4】 (zaa4, za4):
+  - 【咋-4】 (za4, zaa4):
     ++
     1. An interrogative-ish final particle of limitation, suspicion, disappointment, etc.
       ==

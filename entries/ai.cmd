@@ -95,6 +95,13 @@ C
   ==
 E
   ====
+  - 【哎吔-pain】 (ai1 ja4):
+    ++
+    1. An interjection of pain, mistake, etc.
+       ==
+       - 哎吔 (ai1 ja4): "Ouch", "Whoops", etc.
+       ==
+    ++
   - 【哎吔-indignation】 (ai1 jaa1):
     ++
     1. An interjection of surprise, shock, indignation, etc.
@@ -104,13 +111,6 @@ E
     1. So-called, or nominal.
        ==
        - 哎吔經理 (ai1 jaa1 ging1 lei5): "So-called manager."
-       ==
-    ++
-  - 【哎吔-pain】 (ai1 ja4):
-    ++
-    1. An interjection of pain, mistake, etc.
-       ==
-       - 哎吔 (ai1 ja4): "Ouch", "Whoops", etc.
        ==
     ++
   ====
