@@ -507,6 +507,7 @@ $$
 =={.modern}
 - $櫬3
 - $襯3
+- $齔3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -602,6 +603,25 @@ E
        1. 搵老襯 (wan2 lou5 can3): "Find [a] sucker of [someone]" (i.e. trick a gullible person).
        ==
     ++
+  ====
+$$
+
+### 齔3 | _Ch(')an(3)_ [[can3]]
+
+$$
+R
+  齒 + 2
+U
+  U+9F54
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~19|n62 齔(3)]]
+    ==
+    - To shed the milk teeth, as children do;
+    - shedding or renewing the teeth.
+    ==
   ====
 $$
 
