@@ -132,11 +132,88 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $塵4
 - $蔯4
 - $陳4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 塵4 | _(4)Ch(')an_ [[can4]]
+
+$$
+R
+  土 + 11
+U
+  U+5875
+F
+  ==
+  - [[F1.82 塵]] 塵上塵埃
+  ==
+W
+  ====
+  - [[Page~18|n61 (4)塵]]
+    ==
+    - Dust, small particles;
+    - effluvia, atoms, molecules;
+    - the world;
+    - worldly vice and pleasures;
+    - confused times;
+    - _(4)ch(')an (4)t(')au t(a/)i(6)_
+        [[can4 tau4 daai6 塵頭大]]
+        a cloud of dust;
+    - _(2)sai (4)ch(')an_
+        [[sai2 can4 洗塵]],
+        to wash down the dust, to give a feast to friends come back;
+    - _p(o\)(6) hau(6) (4)ch(')an_
+        [[bou6 hau6 can4 步後塵]],
+        to follow another's example;
+    - _(4)ch(')an (1)oi_
+        [[can4 oi1 塵埃]],
+        dust;
+    - _(4)ch(')an kau[(3)]_
+        [[can4 gau3 塵垢]],
+        covered with dust;
+    - _(1)fung (4)ch(')an_
+        [[fung1 can4 風塵]],
+        dusty from travel;
+    - _(4)m(o\) yat(7) (2)t(i/)m (4)ch(')an_
+        [[mou4 jat1 dim2 can4 無一點塵]],
+        clean;
+    - _(4)ch(')an tsuk(9)_ [[can4 zuk6 塵俗]],
+      _(4)ch(')an shai(3)_ [[can4 sai3 塵世]],
+        or
+      _(4)hung (4)ch(')an_ [[hung4 can4 紅塵]],
+        the dusty world;
+    - _fat(7) (4)ch(')an_
+        [[fat1 can4 拂塵]],
+        to dust.
+    ==
+  ====
+C
+  ==
+  - Williams' 塵垢:
+    Changed Middle Chinese _(2)kau_ [[gau2]]
+    to common reading _kau(3)_ [[gau3]].
+  ==
+<##
+E
+  ====
+  - TODO: 【沙塵】 (saa1 can4):
+    ++
+    1. Arrogant or cocky.
+       ==
+       - 咁沙塵 (gam3 saa1 can4): "So arrogant [of him]."
+       ==
+    ++
+  ====
+  --
+  There is also the extended version of this phrase, 沙塵白霍,
+  but that leads into a rabbit hole of debate about the origins of this phrase,
+  and whether 塵 should be written 陳, and 霍 should be written 攉 or 醭.
+  --
+##>
+$$
 
 ### 蔯4 | _(4)Ch(')an_ [[can4]]
 
