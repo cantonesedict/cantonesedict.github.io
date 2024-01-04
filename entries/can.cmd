@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [can1](#1)
 - [can2](#2)
+- [can3](#3)
 - [can4](#4)
 ==
 </nav>
@@ -496,6 +497,84 @@ C
     but no separate code point to U+9B12~鬒 exists for this form
     (blame Han unification inconsistency).
   ==
+$$
+
+
+##{#3 .williams} Ch(')an(3) [[can3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $襯3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 襯3 | _Ch(')an(3)_ [[can3]]
+
+$$
+R
+  衣 + 16
+U
+  U+896F
+F
+  ==
+  - [[F1.85 襯]] 貼身衣也又襯貼
+  ==
+W
+  ====
+  - [[Page~18|n61 襯(3)]]
+    ==
+    - Inner garments;
+    - to help, to assist;
+    - to patronize;
+    - to befriend;
+    - to give;
+    - to give effect to, to show off;
+    - to match;
+    - _ch(')an(3) (1)kan_
+        [[can3 gan1 襯巾]],
+        a sash;
+    - _ch(')an(3) (1)sh(a/)m_
+        [[can3 saam1 襯衫]],
+        inner skirts;
+    - _(1)pong ch(')an(3)_
+        [[bong1 can3 幫襯]]
+        to give custom to;
+    - _ch(')an(3) ch(u")(6) (5)k(')(u")_
+        [[can3 zyu6 keoi5 襯住佢]],
+        to fellowship;
+    - _ch(')an(3) (2)ch(i/)_
+        [[can3 zi2 襯紙]],
+        a flyleaf in books;
+    - _ch(')an(3) t(')(i/)p(8)_
+        [[can3 tip3-2 襯貼]],
+        plaits on a petticoat.
+    ==
+  ====
+E
+  ====
+  - 【襯】 (can3):
+    ++
+    1. To match, to suit.
+       ==
+       1. 佢哋幾襯吖 (keoi5 dei6 gei2 can3 a1): "They [do] quite match [each other]."
+       1. 撞色唔襯 (zong6 sik1 m4 can3): "[The] colours clash [and] don't suit."
+       ==
+    ++
+  - 【幫襯】 (bong1 can3):
+    ++
+    1. To patronise (be a customer of a business).
+    ++
+  - 【老襯】 (lou5 can3):
+    ++
+    1. A gullible person.
+       ==
+       1. 做老襯 (zou6 lou5 can3): "Be [a] mug."
+       1. 搵老襯 (wan2 lou5 can3): "Find [a] sucker of [someone]" (meaning trick a gullible person).
+       ==
+    ++
+  ====
 $$
 
 

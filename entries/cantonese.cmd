@@ -200,6 +200,11 @@ function applyFilter()
     , [ai#cantonese-贔屭](ai#cantonese-贔屭)
 
   //
+    , bong1 can3
+    , 幫襯
+    , [can#cantonese-幫襯](can#cantonese-幫襯)
+
+  //
     , caa1
     , 叉
     , [caa#cantonese-叉](caa#cantonese-叉)
@@ -250,6 +255,11 @@ function applyFilter()
     , [cam#cantonese-尋日](cam#cantonese-尋日)
 
   //
+    , can3
+    , 襯
+    , [can#cantonese-襯](can#cantonese-襯)
+
+  //
     , daa2 laang5 zan3
     , 打冷震
     , [zan#cantonese-打冷震](zan#cantonese-打冷震)
@@ -283,6 +293,11 @@ function applyFilter()
     , jat1 zan6-2
     , 一陣
     , [zan#cantonese-一陣-later](zan#cantonese-一陣-later)
+
+  //
+    , lou5 can3
+    , 老襯
+    , [can#cantonese-老襯](can#cantonese-老襯)
 
   //
     , waa6 zaai1
