@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [can1](#1)
 ==
 </nav>
 <## /tones ##>
@@ -39,5 +40,57 @@ WP
 MP
   ==
   - can = [tsʰɐn], [tɕʰɐn]
+  ==
+$$
+
+
+##{#1 .williams} (1)Ch(')an (1)Ts(')an [[can1 陰平]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $嗔1
+==
+</nav>
+<## /tone-1-characters ##>
+
+### 嗔1 | _(1)Ch(')an_ [[can1]]
+
+$$
+R
+  口 + 10
+U
+  U+55D4
+F
+  ==
+  [[F1.81 嗔]] 怒也
+  ==
+W
+  ====
+  - [[Page~17|n60 (1)嗔]]
+    ==
+    - To get angry;
+    - passionate, angry;
+    - to rail;
+    - _(1)shang (1)ch(')an_
+        [[sang1 can1 生嗔]],
+        to get into a rage;
+    - _(1)ch(')an kw(a/)i(3)_
+        [[can gwaai3 嗔怪]]
+        to scold.
+    ==
+    --
+    Also read _(4)t(')(i/)n_ [[tin4]]; [[**see $嗔tin4**]].
+    --
+  ====
+C
+  ==
+  - Fan Wan and Williams both print this as ⿰口眞,
+    but no separate code point to 嗔~U+55D4 exists for this form
+    (blame Han unification inconsistency).
+  ==
+S
+  ==
+  - $嗔tin4 (TODO)
   ==
 $$
