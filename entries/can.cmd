@@ -140,6 +140,7 @@ $$
 - $矧2
 - $紾2
 - $袗2
+- $軫2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -356,6 +357,44 @@ W
         single grasscloth.
     ==
   ====
+$$
+
+### 軫2 | _(2)Ch(')an_ [[can2]]
+
+$$
+R
+  車 + 5
+U
+  U+8EEB
+V
+  ==
+  - zan2 (expected from 章忍切)
+  ==
+F
+  ==
+  - [[F1.82 軫]] 車橫木所以斂載也又宿名
+  ==
+W
+  ====
+  - [[Page~18|n61 (2)軫]]
+    ==
+    - The boards of a carriage;
+    - the cross board;
+    - to move;
+    - a carriage;
+    - cramped, disturbed, distressed;
+    - the last of the 28 constellations,
+      _β_, _δ_, _η_, _γ_, in Corvus;
+    - pegs of a lute;
+    - _(1)[(u")] (2)ch(')an_
+        [[jyu1 can2 紆軫]],
+        crooked, winding.
+    ==
+  ====
+C
+  ==
+  - Williams' 紆軫: Corrected _(1)h(u")_ [[heoi1]] to _(1)(u")_ [[jyu1]].
+  ==
 $$
 
 
