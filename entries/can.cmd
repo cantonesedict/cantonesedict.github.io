@@ -243,6 +243,10 @@ R
   阜 + 8
 U
   U+9673
+V
+  ==
+  - can4-2 (vernacular rising-tone for endearment)
+  ==
 F
   ==
   - [[F1.82 陳]] 列也張也敷也告也又姓
