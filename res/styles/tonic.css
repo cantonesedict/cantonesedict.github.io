@@ -141,6 +141,9 @@ input {
 li p {
   margin: 0.5em 0;
 }
+li[id^='cantonese-'] > ol {
+  padding-left: 3em;
+}
 
 
 ins {
