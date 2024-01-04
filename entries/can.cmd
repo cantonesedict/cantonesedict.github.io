@@ -133,12 +133,40 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $哂2
 - $疢2
 - $疹2
 - $矧2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 哂2 | _(2)Ch(')an_ [[can2]]
+
+$$
+R
+  口 + 6
+U
+  U+54C2
+F
+  ==
+  - [[F1.82 哂]] 微笑
+  ==
+W
+  ====
+  - [[Page~18|n61 (2)哂]]
+    ==
+    - To smile, with slight contempt;
+    - to look pleased;
+    - _(2)ch(')an si(u/)(3)_
+        [[can2 siu3 哂笑]]
+        to smile;
+    - _(2)ch(')an n(a/)p(9)_
+        [[can2 naap6 哂納]],
+        to smile on receiving.
+    ==
+  ====
+$$
 
 ### 疢2 | _(2)Ch(')an_ [[can2]]
 
