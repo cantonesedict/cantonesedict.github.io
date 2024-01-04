@@ -624,7 +624,7 @@ E
     1. Later, especially a short while later.
        ==
        - 一陣先吖 (jat1 zan6 sin1 a1): "[I'll see to it] later"
-       - 一陣出去 (jat1 zan6-2 ceot1 heoi3): "[I'm] going out later."
+       - 一陣出去 (jat1 zan6-2 ceot1 heoi3): "[I'll] go out later."
        ==
     1. Marks the subjunctive mood ("what if" for an hypothetical future).
        ==
