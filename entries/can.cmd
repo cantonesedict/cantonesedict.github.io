@@ -143,6 +143,7 @@ $$
 - $袗2
 - $診2
 - $軫2
+- $鬒2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -463,6 +464,37 @@ W
 C
   ==
   - Williams' 紆軫: Corrected _(1)h(u")_ [[heoi1]] to _(1)(u")_ [[jyu1]].
+  ==
+$$
+
+### 鬒2 | _(2)Ch(')an_ [[can2]]
+
+$$
+R
+  髟 + 10
+U
+  U+9B12
+V
+  ==
+  - zan2 (expected from 章忍切)
+  ==
+F
+  ==
+  - [[F1.82 鬒]] 髮之黑也
+  ==
+W
+  ====
+  - [[Page~18|n61 (2)鬒]]
+    ==
+    - Bushy, black hair;
+    - a fine head of black hair.
+    ==
+  ====
+C
+  ==
+  - Fan Wan and Williams both print this as ⿱髟眞,
+    but no separate code point to 鬒~U+9B12 exists for this form
+    (blame Han unification inconsistency).
   ==
 $$
 
