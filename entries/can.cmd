@@ -139,6 +139,7 @@ $$
 - $疹2
 - $矧2
 - $紾2
+- $袗2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -325,6 +326,34 @@ W
     - to revolve;
     - a revolution;
     - perverse, crabbed.
+    ==
+  ====
+$$
+
+### 袗2 | _(2)Ch(')an_ [[can2]]
+
+$$
+R
+  衣 + 5
+U
+  U+8897
+V
+  ==
+  - zan2 (expected from 章忍切)
+  ==
+F
+  ==
+  - [[F1.82 袗]] 單也衣服也盛服也又畫也
+  ==
+W
+  ====
+  - [[Page~18|n61 (2)袗]]
+    ==
+    - Single thin garments, black silk worn in summer;
+    - embroidered garments;
+    - _(2)ch(')an (1)h(i/) kwik(7)_
+        [[can2 hei1 gwik1 袗絺綌]]
+        single grasscloth.
     ==
   ====
 $$
