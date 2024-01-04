@@ -62,6 +62,8 @@ function applyFilter()
     rowElement.style.display = (isJyutpingMatch || isTermMatch) ? '' : 'none';
   }
 }
+
+window.onload = applyFilter;
 </script>
 ````````>
 
