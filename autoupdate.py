@@ -158,6 +158,7 @@ class Indexer:
             Page(cmd_name)
             for cmd_name in cmd_names
         ]
+
         self.cantonese_entries = [
             entry
             for page in self.pages
@@ -168,6 +169,12 @@ class Indexer:
             for entry in self.cantonese_entries
             for split_entry in entry.split()
         ])
+
+        self.character_entries = [
+            entry
+            for page in self.pages
+            for entry in page.character_entries
+        ]
 
         Indexer._check_cantonese_entries(self.cantonese_entries)
 
@@ -245,6 +252,24 @@ class Page:
                 string=cmd_content,
             )
         ]
+        self.character_entries = [
+            CharacterEntry(
+                match.group('character'),
+                match.group('radical'),
+                match.group('residual_stroke_count'),
+                match.group('jyutping'),
+            )
+            for match in re.finditer(
+                pattern=(
+                    r'^#{3}[+]?[ ](?P<character>\S).*?\[\[(?P<jyutping>.+?)\]\]$\n\n'
+                    r'[$]{2}\n'
+                    r'R\n'
+                    r'[ ]{2}(?P<radical>\S)[ ][+][ ](?P<residual_stroke_count>[0-9]+)$'
+                ),
+                string=cmd_content,
+                flags=re.MULTILINE,
+            )
+        ]
 
 
 class CantoneseEntry:
@@ -262,6 +287,14 @@ class CantoneseEntry:
         )
 
 
+class CharacterEntry:
+    def __init__(self, character, radical, residual_stroke_count, jyutping):
+        self.character = character
+        self.radical = radical
+        self.residual_stroke_count = residual_stroke_count
+        self.jyutping = jyutping
+
+
 class SplitCantoneseEntry(CantoneseEntry):
     def __lt__(self, other):
         return (self.term_jyutping, self.term) < (other.term_jyutping, other.term)
@@ -277,6 +310,13 @@ class Statistician:
         self.present_count = sum(Statistician._count_entries(page.cmd_content, category='present') for page in pages)
         self.added_count = sum(Statistician._count_entries(page.cmd_content, category='added') for page in pages)
         self.todo_count = sum(Statistician._count_todos(page.cmd_content) for page in pages)
+
+        if self.entry_count != len(indexer.character_entries):
+            print(
+                f'entry_count ({self.entry_count}) ≠ len(character_entries) ({len(indexer.character_entries)})',
+                file=sys.stderr,
+            )
+            sys.exit(1)
 
     def print_statistics(self):
         print(f'Statistics:')
