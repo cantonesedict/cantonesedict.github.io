@@ -133,11 +133,46 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $疢2
 - $疹2
 - $矧2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 疢2 | _(2)Ch(')an_ [[can2]]
+
+$$
+R
+  疒 + 4
+U
+  U+75A2
+A
+  ==
+  -{.modern} $疹2
+  ==
+F
+  ==
+  - [[F1.82 疢]] ::[熱]病::
+  ==
+W
+  ====
+  - [[Page~18|n61 (2)疹(2)疢]]
+    --
+    [[Williams incorrectly considers 疢 as an alternative form of $疹2,
+    when it is actually the other way round.]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised ⿱執灬 to 熱.
+  - An entry for 疢 (not 疹) is included here for completeness.
+    ++
+    1. Fever.
+    1. Sickness.
+    ++
+  ==
+$$
 
 ### 疹2 | _(2)Ch(')an_ [[can2]]
 
