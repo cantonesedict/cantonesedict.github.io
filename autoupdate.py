@@ -192,11 +192,12 @@ class Indexer:
             new_cmd_file.write(new_cmd_content)
 
     def write_character_index(self):
-        jyutping_readings_from_character = collections.defaultdict(list)
+        # {character: [jyutping, ...], ...}
+        object_ = collections.defaultdict(list)
         for entry in self.character_entries:
-            jyutping_readings_from_character[entry.character].append(entry.jyutping)
+            object_[entry.character].append(entry.jyutping)
 
-        raw_json = json.dumps(jyutping_readings_from_character, ensure_ascii=False, separators=(',', ':'))
+        raw_json = json.dumps(object_, ensure_ascii=False, separators=(',', ':'))
         nice_json = raw_json.replace('],', '],\n') + '\n'  # newlines but only at the top level
 
         with open('entries/character-index.json', 'w', encoding='utf-8') as json_file:
