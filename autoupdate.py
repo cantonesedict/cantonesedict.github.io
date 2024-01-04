@@ -195,7 +195,7 @@ class Indexer:
         # {character: [jyutping, ...], ...}
         object_ = collections.defaultdict(list)
         for entry in self.character_entries:
-            object_[entry.character].append(entry.jyutping)
+            object_[entry.character_with_fallback()].append(entry.jyutping)
 
         raw_json = json.dumps(object_, ensure_ascii=False, separators=(',', ':'))
         nice_json = raw_json.replace('],', '],\n') + '\n'  # newlines but only at the top level
@@ -207,7 +207,7 @@ class Indexer:
         # {radical: {residual_stroke_count: {character: [jyutping, ...]}}}
         object_ = collections.defaultdict(lambda: collections.defaultdict(lambda: collections.defaultdict(list)))
         for entry in self.character_entries:
-            object_[entry.radical][entry.residual_stroke_count][entry.character].append(entry.jyutping)
+            object_[entry.radical][entry.residual_stroke_count][entry.character_with_fallback()].append(entry.jyutping)
 
         raw_json = json.dumps(object_, ensure_ascii=False, separators=(',', ':'), sort_keys=True)
         nice_json = raw_json.replace('},', '},\n') + '\n'  # newlines but only at the top level
@@ -283,10 +283,13 @@ class Page:
                 match.group('radical'),
                 int(match.group('residual_stroke_count')),
                 match.group('jyutping'),
+                match.group('composition'),
             )
             for match in re.finditer(
                 pattern=(
-                    r'^#{3}[+]?[ ](?P<character>\S).*?\[\[(?P<jyutping>[a-z]+?[1-6])\]\]$\n\n'
+                    r'^#{3}[+]?[ ]\[?(?P<character>\S)\]?.(?:[ ]\[\[(?P<composition>.+?)\]\])?'
+                    r'[ ][|][ ]'
+                    r'.*?\[\[(?P<jyutping>[a-z]+?[1-6])\]\]$\n\n'
                     r'[$]{2}\n'
                     r'R\n'
                     r'[ ]{2}(?P<radical>\S)[ ][+][ ](?P<residual_stroke_count>[0-9]+)$'
@@ -313,11 +316,15 @@ class CantoneseEntry:
 
 
 class CharacterEntry:
-    def __init__(self, character, radical, residual_stroke_count, jyutping):
+    def __init__(self, character, radical, residual_stroke_count, jyutping, composition):
         self.character = character
         self.radical = radical
         self.residual_stroke_count = residual_stroke_count
         self.jyutping = jyutping
+        self.composition = composition
+
+    def character_with_fallback(self):
+        return self.character + (f' ({self.composition})' if self.composition else '')
 
 
 class SplitCantoneseEntry(CantoneseEntry):
