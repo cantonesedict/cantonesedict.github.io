@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Home
-* %date-modified --> 2023-12-31
-* %copyright-prior-years -->
+* %date-modified --> 2024-01-04
+* %copyright-prior-years --> 2023--
 * %modern-colour --> crimson
 * %meta-description --> home page
 
@@ -91,6 +91,14 @@ that version has severe paging issues:
 ###{.modern} Other useful references
 
 ===={.modern}
+- [《江湖尺牘分韻撮要合集》 (1838)][fan-wan],
+  by 虞學圃 and 溫岐石.
+  --
+  An 1838 re-engraving (道光十八年重鐫)
+  containing Fan Wan 《分韻撮要》 in the lower half of its pages,
+  as scanned by Trove (in collaboration with the National Library of Australia).
+  --
+
 - [''A Chinese Dictionary in the Cantonese Dialect'' (1877)][eitel-dict],
   by [Ernst Johann Eitel].
   --
@@ -145,6 +153,7 @@ that version has severe paging issues:
 [n111]: https://archive.org/details/tonicdictionaryo00will/page/n111/mode/1up
 [9]: https://archive.org/details/tonicdictionaryo00will/page/9/mode/1up
 [13]: https://archive.org/details/tonicdictionaryo00will/page/13/mode/1up
+[fan-wan]: https://nla.gov.au/nla.obj-56620342
 [eitel-dict]: https://books.google.com/books?id=mh8TAAAAYAAJ
 [Ernst Johann Eitel]: https://en.wikipedia.org/wiki/Ernst_Johann_Eitel
 [Eitel's Introduction]: https://books.google.com/books?id=mh8TAAAAYAAJ&jtp=vii
