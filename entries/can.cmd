@@ -507,6 +507,8 @@ $$
 =={.modern}
 - $櫬3
 - $襯3
+- $趁3
+- $趂3
 - $齔3
 ==
 </nav>
@@ -603,6 +605,71 @@ E
        1. 搵老襯 (wan2 lou5 can3): "Find [a] sucker of [someone]" (i.e. trick a gullible person).
        ==
     ++
+  ====
+$$
+
+### 趁3 | _Ch(')an(3)_ [[can3]]
+
+$$
+R
+  走 + 5
+U
+  U+8D81
+A
+  ==
+  - $趂3
+  ==
+F
+  ==
+  - [[F1.85 趂]] 及時也逐也從也
+  ==
+W
+  ====
+  - [[Page~19|n62 趁(3)趂(3)]]
+    ==
+    - To follow, to come up behind, to walk after;
+    - to avail, to take;
+    - to embrace an opportunity;
+    - at the time of;
+    - _ch(')an(3) (1)h(u") (2)t(a/) (5)sh(i/)_
+        [[caan3 heoi1 daa2 si5 趁墟打市]],
+        to go to market;
+    - _ch(')an(3) (4)sh(i/) hau(6)_
+        [[can3 si4 hau6 趁時候]]
+        to improve the time;
+    - _ch(')an(3) (1)k(i/) (u/)i(6)_
+        [[can3 gei1 wui6 趁機會]]
+        take advantage of the opportunity;
+    - _ch(')an(3) (1)fung (2)shai (5)l(i/)_
+        [[can3 fung1 sai2 lei5 趁風駛𢃇]],
+        hoist sail when there's a wind;
+    - _ch(')an(3) (u")n(6)_
+        [[can3 jyun6 趁願]]
+        as I wished it;
+    - _ch(')an(3) shai(3)_
+        [[can3 sai3 趁勢]]
+        avail of a favorable time.
+    ==
+  ====
+$$
+
+### 趂3 | _Ch(')an(3)_ [[can3]]
+
+$$
+R
+  走 + 5
+U
+  U+8D82
+F
+  ==
+  - [[F1.85 趂]] 及時也逐也從也
+  ==
+W
+  ====
+  - [[Page~19|n62 趁(3)趂(3)]]
+    --
+    [[Alternative form of 趁. **See $趁can3 for the canonical entry.**]]
+    --
   ====
 $$
 
