@@ -505,10 +505,38 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $櫬3
 - $襯3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 櫬3 | _Ch(')an(3)_ [[can3]]
+
+$$
+R
+  木 + 16
+U
+  U+6AEC
+F
+  ==
+  - [[F1.85 櫬]] 棺櫬
+  ==
+W
+  ====
+  - [[Page~19|n62 櫬(3)]]
+    ==
+    - A coffin;
+    - to collect firewood;
+    - _(1)k(u/)n ch(')an(3)_
+        [[gun1 can3 棺櫬]]
+        a coffin;
+    - _(1)k(u/)n ch(')an(3) uk(7)_
+        [[gun1 can3 uk1 棺櫬屋]]
+        a sort of dead house or shed at a grave.
+    ==
+  ====
+$$
 
 ### 襯3 | _Ch(')an(3)_ [[can3]]
 
