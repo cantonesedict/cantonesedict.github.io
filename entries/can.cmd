@@ -134,6 +134,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $哂2
+- $畛2
 - $疢2
 - $疹2
 - $矧2
@@ -164,6 +165,33 @@ W
     - _(2)ch(')an n(a/)p(9)_
         [[can2 naap6 哂納]],
         to smile on receiving.
+    ==
+  ====
+$$
+
+### 畛2 | _(2)Ch(')an_ [[can2]]
+
+$$
+R
+  田 + 5
+U
+  U+755B
+F
+  ==
+  - [[F1.82 畛]] 田間水道
+  ==
+W
+  ====
+  - [[Page~18|n61 (2)畛]]
+    ==
+    - To divide fields;
+    - to come before the gods;
+    - to announce the emperor's coming;
+    - to die;
+    - a motive;
+    - _(4)kw(')ai (2)ch(')an_
+        [[kwai4 can2 畦畛]],
+        dikes between fields.
     ==
   ====
 $$
