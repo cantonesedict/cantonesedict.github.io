@@ -132,10 +132,32 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $蔯4
 - $陳4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 蔯4 | _(4)Ch(')an_ [[can4]]
+
+$$
+R
+  艸 + 11
+U
+  U+852F
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~18|n61 (4)蔯]]
+    ==
+    - A medicinal herb, good for rheumatism;
+    - _(1)yan (4)ch(')an_
+        [[jan1 can4 茵蔯]],
+        a plant like origanum.
+    ==
+  ====
+$$
 
 ### 陳4 | _(4)Ch(')an_ [[can4]]
 
