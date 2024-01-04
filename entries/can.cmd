@@ -89,7 +89,7 @@ W
 C
   ==
   - Fan Wan and Williams both print this as ⿰口眞,
-    but no separate code point to 嗔~U+55D4 exists for this form
+    but no separate code point to U+55D4~嗔 exists for this form
     (blame Han unification inconsistency).
   ==
 S
@@ -122,7 +122,7 @@ W
 C
   ==
   - Fan Wan and Williams both print this as ⿰目眞,
-    but no separate code point to 瞋~U+778B exists for this form
+    but no separate code point to U+778B~瞋 exists for this form
     (blame Han unification inconsistency).
   ==
 $$
@@ -365,7 +365,7 @@ W
 C
   ==
   - Fan Wan and Williams both print this as ⿰糸眞,
-    but no separate code point to 縝~U+7E1D exists for this form
+    but no separate code point to U+7E1D~縝 exists for this form
     (blame Han unification inconsistency).
   ==
 $$
@@ -493,7 +493,7 @@ W
 C
   ==
   - Fan Wan and Williams both print this as ⿱髟眞,
-    but no separate code point to 鬒~U+9B12 exists for this form
+    but no separate code point to U+9B12~鬒 exists for this form
     (blame Han unification inconsistency).
   ==
 $$
