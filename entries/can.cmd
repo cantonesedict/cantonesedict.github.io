@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $嗔1
+- $瞋1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -92,5 +93,34 @@ C
 S
   ==
   - $嗔tin4 (TODO)
+  ==
+$$
+
+### 瞋1 | _(1)Ch(')an_ [[can1]]
+
+$$
+R
+  目 + 10
+U
+  U+778B
+F
+  ==
+  [[F1.81 瞋]] 怒而張目也
+  ==
+W
+  ====
+  - [[Page~18|n61 (1)瞋]]
+    ==
+    - To stare at angrily, to glare at;
+    - _(1)ch(')an n(o\)(6) (4)m(o\) t(o\)(6)_
+        [[can1 nou6 mou4 dou6 瞋怒無度]]
+        angry beyond measure.
+    ==
+  ====
+C
+  ==
+  - Fan Wan and Williams both print this as ⿰目眞,
+    but no separate code point to 瞋~U+778B exists for this form
+    (blame Han unification inconsistency).
   ==
 $$
