@@ -139,6 +139,7 @@ $$
 - $疹2
 - $矧2
 - $紾2
+- $縝2
 - $袗2
 - $診2
 - $軫2
@@ -330,6 +331,42 @@ W
     - perverse, crabbed.
     ==
   ====
+$$
+
+### 縝2 | _(2)Ch(')an_ [[can2]]
+
+$$
+R
+  糸 + 10
+U
+  U+7E1D
+V
+  ==
+  - zan2 (expected from 章忍切)
+  ==
+F
+  ==
+  - [[F1.82 縝]] 結也縷也
+  ==
+W
+  ====
+  - [[Page~18|n61 (2)縝]]
+    ==
+    - Filaments from a coccoon;
+    - a thread;
+    - to tie;
+    - black;
+    - _(4)shui (2)ch(')an pat(7) pin(3)_
+        [[seoi4 can2 bat1 bin3 誰縝不變]]
+        whose black bair will not change?
+    ==
+  ====
+C
+  ==
+  - Fan Wan and Williams both print this as ⿰糸眞,
+    but no separate code point to 縝~U+7E1D exists for this form
+    (blame Han unification inconsistency).
+  ==
 $$
 
 ### 袗2 | _(2)Ch(')an_ [[can2]]
