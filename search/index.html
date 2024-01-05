@@ -79,7 +79,32 @@ async function performSearch()
     searchCharacters = [...searchString.substring(0, 16)];
   }
 
-  console.log(searchCharacters); // TODO
+  let tbodyElement = document.getElementsByTagName('tbody')[0];
+  tbodyElement.replaceChildren();
+
+  for (const character of searchCharacters) // TODO: fix composition badness
+  {
+    let readings = json[character];
+    if (!Array.isArray(readings) || readings.length == 0)
+    {
+      continue;
+    }
+
+    let codePoint = `U+${character.codePointAt(0).toString(16).toUpperCase()}`;
+
+    let row = tbodyElement.insertRow(-1);
+
+    let characterCell = row.insertCell(-1);
+    let characterText = document.createTextNode(character);
+    characterCell.appendChild(characterText);
+
+    let codePointCell = row.insertCell(-1);
+    let codePointText = document.createTextNode(codePoint);
+    codePointCell.appendChild(codePointText);
+
+    let entryLinksCell = row.insertCell(-1);
+    // Make entryLinksCell contain `nav > ul > li > a`.
+  }
 }
 
 window.onload = performSearch;
