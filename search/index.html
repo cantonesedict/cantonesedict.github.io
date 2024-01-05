@@ -59,6 +59,15 @@ For the raw JSON that is queried, see <a href="character-index.json"><code>chara
 See also: <a href="/radicals/">Index of characters by radical</a>.
 </p>
 <script>
+let promise = fetch('character-index.json').then(response => response.json());
+
+async function performSearch()
+{
+  let json = await promise;
+  console.log(json); // TODO
+}
+
+window.onload = performSearch;
 </script>
 <div class="wide">
 <table class="modern">

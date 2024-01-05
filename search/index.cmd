@@ -39,6 +39,15 @@ See also: [Index of characters by radical](/radicals/).
 --
 
 u<``<script>
+let promise = fetch('character-index.json').then(response => response.json());
+
+async function performSearch()
+{
+  let json = await promise;
+  console.log(json); // TODO
+}
+
+window.onload = performSearch;
 </script>``>
 
 ||||{.wide}
