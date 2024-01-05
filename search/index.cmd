@@ -38,10 +38,8 @@ For the raw JSON that is queried, see [`character-index.json`].
 See also: [Index of characters by radical](/radicals/).
 --
 
-u<````````
-<script>
-</script>
-````````>
+u<``<script>
+</script>``>
 
 ||||{.wide}
 ''{.modern}

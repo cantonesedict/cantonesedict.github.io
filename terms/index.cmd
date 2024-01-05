@@ -33,8 +33,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 See also: [Index of entry pages by Jyutping](/entries/).
 --
 
-u<````````
-<script>
+u<``<script>
 function normaliseString(str)
 {
   return str.toLowerCase().trim().replace(/\s+/g, ' ');
@@ -70,8 +69,7 @@ function applyFilter()
 }
 
 window.onload = applyFilter;
-</script>
-````````>
+</script>``>
 
 <## terms-table ##>
 ||||{.wide}
