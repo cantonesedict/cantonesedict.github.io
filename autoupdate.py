@@ -176,6 +176,8 @@ class Indexer:
             for page in self.pages
             for entry in page.character_entries
         ]
+        self.character_index_object = self._gather_character_index()
+        self.radical_index_object = self._gather_radical_index()
 
         Indexer._check_cantonese_entries(self.cantonese_entries)
 
@@ -192,28 +194,34 @@ class Indexer:
             new_cmd_file.write(new_cmd_content)
 
     def write_character_index(self):
-        # {character: [jyutping, ...], ...}
-        object_ = collections.defaultdict(list)
-        for entry in self.character_entries:
-            object_[entry.identify()].append(entry.jyutping)
-
-        raw_json = json.dumps(object_, ensure_ascii=False, separators=(',', ':'))
+        raw_json = json.dumps(self.character_index_object, ensure_ascii=False, separators=(',', ':'))
         nice_json = raw_json.replace('],', '],\n') + '\n'  # newlines but only at the top level
 
         with open('entries/character-index.json', 'w', encoding='utf-8') as json_file:
             json_file.write(nice_json)
 
     def write_radical_index(self):
+        raw_json = json.dumps(self.radical_index_object, ensure_ascii=False, separators=(',', ':'), sort_keys=True)
+        nice_json = raw_json.replace('},', '},\n') + '\n'  # newlines but only at the top level
+
+        with open('entries/radical-index.json', 'w', encoding='utf-8') as json_file:
+            json_file.write(nice_json)
+
+    def _gather_character_index(self):
+        # {character: [jyutping, ...], ...}
+        object_ = collections.defaultdict(list)
+        for entry in self.character_entries:
+            object_[entry.identify()].append(entry.jyutping)
+
+        return object_
+
+    def _gather_radical_index(self):
         # {radical: {residual_stroke_count: {character: [jyutping, ...]}}}
         object_ = collections.defaultdict(lambda: collections.defaultdict(lambda: collections.defaultdict(list)))
         for entry in self.character_entries:
             object_[entry.radical][entry.residual_stroke_count][entry.identify()].append(entry.jyutping)
 
-        raw_json = json.dumps(object_, ensure_ascii=False, separators=(',', ':'), sort_keys=True)
-        nice_json = raw_json.replace('},', '},\n') + '\n'  # newlines but only at the top level
-
-        with open('entries/radical-index.json', 'w', encoding='utf-8') as json_file:
-            json_file.write(nice_json)
+        return object_
 
     def _update_cantonese_table_body(self, cmd_content):
         return re.sub(
