@@ -126,6 +126,10 @@ RegexDictionaryReplacement: #.syntax.entry-links
 * [$] (?P<jyutping> [a-z]+ )
     -->
   [\g<jyutping>](/entries/\g<jyutping>)
+* [$] (?P<character> [^a-z] ) [ ] \( (?P<composition> [\S]*? ) \)
+  (?P<jyutping> [a-z]+ ) (?P<tone_number> [1-6] )
+    -->
+  [\g<character>~(\g<composition>)~\g<jyutping>\g<tone_number>](/entries/\g<jyutping>#\g<tone_number>\g<character>)
 * [$] (?P<character> [^a-z] ) (?P<jyutping> [a-z]+ ) (?P<tone_number> [1-6] )
     -->
   [\g<character>~\g<jyutping>\g<tone_number>](/entries/\g<jyutping>#\g<tone_number>\g<character>)
