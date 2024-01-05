@@ -49,6 +49,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 For all radicals, see [Index of characters by radical](./).
 --
 
+
 ## ⼆ (two)
 
 <## radical-⼆-characters ##>
@@ -71,10 +72,12 @@ For all radicals, see [Index of characters by radical](./).
 ||||
 <## /radical-⼆-characters ##>
 
+
 ## ⼇ (lid)
 
 <## radical-⼇-characters ##>
 <## /radical-⼇-characters ##>
+
 
 ## ⼈ (man)
 
@@ -148,20 +151,24 @@ For all radicals, see [Index of characters by radical](./).
 ||||
 <## /radical-⼈-characters ##>
 
+
 ## ⼉ (legs)
 
 <## radical-⼉-characters ##>
 <## /radical-⼉-characters ##>
+
 
 ## ⼊ (enter)
 
 <## radical-⼊-characters ##>
 <## /radical-⼊-characters ##>
 
+
 ## ⼋ (eight)
 
 <## radical-⼋-characters ##>
 <## /radical-⼋-characters ##>
+
 
 ## ⼌ (down box)
 
@@ -186,10 +193,12 @@ For all radicals, see [Index of characters by radical](./).
 ||||
 <## /radical-⼌-characters ##>
 
+
 ## ⼍ (cover)
 
 <## radical-⼍-characters ##>
 <## /radical-⼍-characters ##>
+
 
 ## ⼎ (ice)
 
@@ -213,10 +222,12 @@ For all radicals, see [Index of characters by radical](./).
 ||||
 <## /radical-⼎-characters ##>
 
+
 ## ⼏ (table)
 
 <## radical-⼏-characters ##>
 <## /radical-⼏-characters ##>
+
 
 ## ⼐ (open box)
 
@@ -239,6 +250,7 @@ For all radicals, see [Index of characters by radical](./).
 ''
 ||||
 <## /radical-⼐-characters ##>
+
 
 ## ⼑ (knife)
 
@@ -295,25 +307,30 @@ For all radicals, see [Index of characters by radical](./).
 ||||
 <## /radical-⼑-characters ##>
 
+
 ## ⼒ (power)
 
 <## radical-⼒-characters ##>
 <## /radical-⼒-characters ##>
+
 
 ## ⼓ (wrap)
 
 <## radical-⼓-characters ##>
 <## /radical-⼓-characters ##>
 
+
 ## ⼔ (spoon)
 
 <## radical-⼔-characters ##>
 <## /radical-⼔-characters ##>
 
+
 ## ⼕ (right open box)
 
 <## radical-⼕-characters ##>
 <## /radical-⼕-characters ##>
+
 
 ## ⼖ (hiding enclosure)
 
@@ -337,20 +354,24 @@ For all radicals, see [Index of characters by radical](./).
 ||||
 <## /radical-⼖-characters ##>
 
+
 ## ⼗ (ten)
 
 <## radical-⼗-characters ##>
 <## /radical-⼗-characters ##>
+
 
 ## ⼘ (divination)
 
 <## radical-⼘-characters ##>
 <## /radical-⼘-characters ##>
 
+
 ## ⼙ (seal)
 
 <## radical-⼙-characters ##>
 <## /radical-⼙-characters ##>
+
 
 ## ⼚ (cliff)
 
@@ -374,6 +395,7 @@ For all radicals, see [Index of characters by radical](./).
 ''
 ||||
 <## /radical-⼚-characters ##>
+
 
 ## ⼛ (private)
 
@@ -404,6 +426,7 @@ For all radicals, see [Index of characters by radical](./).
 ''
 ||||
 <## /radical-⼛-characters ##>
+
 
 ## ⼜ (again)
 

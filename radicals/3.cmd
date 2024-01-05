@@ -57,6 +57,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 For all radicals, see [Index of characters by radical](./).
 --
 
+
 ## ⼝ (mouth)
 
 <## radical-⼝-characters ##>

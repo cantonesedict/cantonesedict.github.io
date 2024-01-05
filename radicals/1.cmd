@@ -32,10 +32,12 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 For all radicals, see [Index of characters by radical](./).
 --
 
+
 ## ⼀ (two)
 
 <## radical-⼀-characters ##>
 <## /radical-⼀-characters ##>
+
 
 ## ⼁ (line)
 
@@ -59,10 +61,12 @@ For all radicals, see [Index of characters by radical](./).
 ||||
 <## /radical-⼁-characters ##>
 
+
 ## ⼂ (dot)
 
 <## radical-⼂-characters ##>
 <## /radical-⼂-characters ##>
+
 
 ## ⼃ (slash)
 
@@ -86,10 +90,12 @@ For all radicals, see [Index of characters by radical](./).
 ||||
 <## /radical-⼃-characters ##>
 
+
 ## ⼄ (second)
 
 <## radical-⼄-characters ##>
 <## /radical-⼄-characters ##>
+
 
 ## ⼅ (hook)
 
