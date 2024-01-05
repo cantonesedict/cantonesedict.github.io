@@ -18,6 +18,13 @@ RegexDictionaryReplacement: #.syntax.character-headings
 - concluding_replacements: #.syntax.addition-marker-to-class
 
 
+RegexDictionaryReplacement: #.syntax.radical-headings
+- queue_position: BEFORE #headings
+* ^[#]{2} [ ] (?P<radical> [⼀-⿕] )
+    -->
+  ##{#\g<radical> .modern} \g<radical>
+
+
 RegexDictionaryReplacement: #heading-permalinks
 - queue_position: BEFORE #headings
 * (?P<opening_hashes_etc>
@@ -125,6 +132,13 @@ RegexDictionaryReplacement: #.syntax.entry-links
 * [$] (?P<character> [^a-z] ) (?P<tone_number> [1-6]? )
     -->
   [\g<character>](#\g<tone_number>\g<character>)
+
+
+RegexDictionaryReplacement: #.syntax.radical-links
+- queue_position: BEFORE #specified-links
+* \[ (?P<radical> [⼀-⿕] ) \]
+    -->
+  [\g<radical>](#\g<radical>)
 
 
 RegexDictionaryReplacement: #.syntax.round-bracket-wrap
