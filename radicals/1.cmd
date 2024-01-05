@@ -33,7 +33,7 @@ For all radicals, see [Index of characters by radical](./).
 --
 
 
-## ⼀ (two)
+## ⼀ (one)
 
 <## radical-⼀-characters ##>
 <## /radical-⼀-characters ##>
