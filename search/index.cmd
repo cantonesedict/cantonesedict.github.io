@@ -19,7 +19,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 
 ||||{.modern .input-container}
 --
-<label for="search">Search:</label>
+<label for="search">__Search:__</label>
 <input type="text" id="search" onkeyup="performSearch()" placeholder="(up to 16~chars / 1~code point)">
 --
 <noscript>
