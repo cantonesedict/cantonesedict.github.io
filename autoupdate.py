@@ -296,7 +296,6 @@ class Indexer:
                     f'    , {split_cantonese_entry.term_jyutping}',
                     f'    , {split_cantonese_entry.term}',
                     f'    , [{split_cantonese_entry.relative_url}](/entries/{split_cantonese_entry.relative_url})',
-                    '',
                 ])
                 for split_cantonese_entry in self.split_cantonese_entries
             ],
