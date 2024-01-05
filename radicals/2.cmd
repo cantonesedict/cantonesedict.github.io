@@ -57,7 +57,7 @@ For all radicals, see [Index of characters by radical](./).
 |^
   //
     ; Residual strokes
-    ; Character entries
+    ; Character entry links
 |:
   //
     , 6
@@ -84,7 +84,7 @@ For all radicals, see [Index of characters by radical](./).
 |^
   //
     ; Residual strokes
-    ; Character entries
+    ; Character entry links
 |:
   //
     , 2
@@ -171,7 +171,7 @@ For all radicals, see [Index of characters by radical](./).
 |^
   //
     ; Residual strokes
-    ; Character entries
+    ; Character entry links
 |:
   //
     , 3
@@ -199,7 +199,7 @@ For all radicals, see [Index of characters by radical](./).
 |^
   //
     ; Residual strokes
-    ; Character entries
+    ; Character entry links
 |:
   //
     , 8
@@ -226,7 +226,7 @@ For all radicals, see [Index of characters by radical](./).
 |^
   //
     ; Residual strokes
-    ; Character entries
+    ; Character entry links
 |:
   //
     , 3
@@ -248,7 +248,7 @@ For all radicals, see [Index of characters by radical](./).
 |^
   //
     ; Residual strokes
-    ; Character entries
+    ; Character entry links
 |:
   //
     , 2
@@ -323,7 +323,7 @@ For all radicals, see [Index of characters by radical](./).
 |^
   //
     ; Residual strokes
-    ; Character entries
+    ; Character entry links
 |:
   //
     , 9
@@ -360,7 +360,7 @@ For all radicals, see [Index of characters by radical](./).
 |^
   //
     ; Residual strokes
-    ; Character entries
+    ; Character entry links
 |:
   //
     , 2
@@ -383,7 +383,7 @@ For all radicals, see [Index of characters by radical](./).
 |^
   //
     ; Residual strokes
-    ; Character entries
+    ; Character entry links
 |:
   //
     , 9
@@ -413,7 +413,7 @@ For all radicals, see [Index of characters by radical](./).
 |^
   //
     ; Residual strokes
-    ; Character entries
+    ; Character entry links
 |:
   //
     , 1

@@ -339,7 +339,7 @@ class Indexer:
             "|^",
             "  //",
             "    ; Residual strokes",
-            "    ; Character entries",
+            "    ; Character entry links",
             "|:",
             *[
                 '\n'.join([
