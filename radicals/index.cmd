@@ -21,23 +21,23 @@ RegexDictionaryReplacement: #.stroke-count-links
 
 RegexDictionaryReplacement: #.radical-stroke-counts
 - queue_position: BEFORE #specified-links
-* (?P<radical> [⼀-⼅] ) --> " 1#\g<radical>"
-* (?P<radical> [⼆-⼜] ) --> " 2#\g<radical>"
-* (?P<radical> [⼝-⼻] ) --> " 3#\g<radical>"
-* (?P<radical> [⼼-⽝] ) --> " 4#\g<radical>"
-* (?P<radical> [⽞-⽴] ) --> " 5#\g<radical>"
-* (?P<radical> [⽵-⾑] ) --> " 6#\g<radical>"
-* (?P<radical> [⾒-⾥] ) --> " 7#\g<radical>"
-* (?P<radical> [⾦-⾮] ) --> " 8#\g<radical>"
-* (?P<radical> [⾯-⾹] ) --> " 9#\g<radical>"
-* (?P<radical> [⾺-⿁] ) --> " 10#\g<radical>"
-* (?P<radical> [⿂-⿇] ) --> " 11#\g<radical>"
-* (?P<radical> [⿈-⿋] ) --> " 12#\g<radical>"
-* (?P<radical> [⿌-⿏] ) --> " 13#\g<radical>"
-* (?P<radical> [⿐⿑] )  --> " 14#\g<radical>"
-* (?P<radical> [⿒] )    --> " 15#\g<radical>"
-* (?P<radical> [⿓⿔] )  --> " 16#\g<radical>"
-* (?P<radical> [⿕] )    --> " 17#\g<radical>"
+* (?P<radical> [⼀-⼅] ) --> 1#\g<radical>
+* (?P<radical> [⼆-⼜] ) --> 2#\g<radical>
+* (?P<radical> [⼝-⼻] ) --> 3#\g<radical>
+* (?P<radical> [⼼-⽝] ) --> 4#\g<radical>
+* (?P<radical> [⽞-⽴] ) --> 5#\g<radical>
+* (?P<radical> [⽵-⾑] ) --> 6#\g<radical>
+* (?P<radical> [⾒-⾥] ) --> 7#\g<radical>
+* (?P<radical> [⾦-⾮] ) --> 8#\g<radical>
+* (?P<radical> [⾯-⾹] ) --> 9#\g<radical>
+* (?P<radical> [⾺-⿁] ) --> 10#\g<radical>
+* (?P<radical> [⿂-⿇] ) --> 11#\g<radical>
+* (?P<radical> [⿈-⿋] ) --> 12#\g<radical>
+* (?P<radical> [⿌-⿏] ) --> 13#\g<radical>
+* (?P<radical> [⿐⿑] )  --> 14#\g<radical>
+* (?P<radical> [⿒] )    --> 15#\g<radical>
+* (?P<radical> [⿓⿔] )  --> 16#\g<radical>
+* (?P<radical> [⿕] )    --> 17#\g<radical>
 
 RegexDictionaryReplacement: #.radical-links
 - queue_position: BEFORE #specified-links
@@ -49,7 +49,6 @@ RegexDictionaryReplacement: #.radical-links
 
 #{.modern} %title
 
-<nav>
 ||||{.wide}
 ''{.modern}
 |^
@@ -59,55 +58,323 @@ RegexDictionaryReplacement: #.radical-links
 |:
   //
     , [1]
-    , ⼀⼁⼂⼃⼄⼅
+    ,
+      <nav class="sideways">
+      ==
+      - ⼀
+      - ⼁
+      - ⼂
+      - ⼃
+      - ⼄
+      - ⼅
+      ==
+      </nav>
   //
     , [2]
-    , ⼆⼇⼈⼉⼊⼋⼌⼍⼎⼏⼐⼑⼒⼓⼔⼕⼖⼗⼘⼙⼚⼛⼜
+    ,
+      <nav class="sideways">
+      ==
+      - ⼆
+      - ⼇
+      - ⼈
+      - ⼉
+      - ⼊
+      - ⼋
+      - ⼌
+      - ⼍
+      - ⼎
+      - ⼏
+      - ⼐
+      - ⼑
+      - ⼒
+      - ⼓
+      - ⼔
+      - ⼕
+      - ⼖
+      - ⼗
+      - ⼘
+      - ⼙
+      - ⼚
+      - ⼛
+      - ⼜
+      ==
+      </nav>
   //
     , [3]
-    , ⼝⼞⼟⼠⼡⼢⼣⼤⼥⼦⼧⼨⼩⼪⼫⼬⼭⼮⼯⼰⼱⼲⼳⼴⼵⼶⼷⼸⼹⼺⼻
+    ,
+      <nav class="sideways">
+      ==
+      - ⼝
+      - ⼞
+      - ⼟
+      - ⼠
+      - ⼡
+      - ⼢
+      - ⼣
+      - ⼤
+      - ⼥
+      - ⼦
+      - ⼧
+      - ⼨
+      - ⼩
+      - ⼪
+      - ⼫
+      - ⼬
+      - ⼭
+      - ⼮
+      - ⼯
+      - ⼰
+      - ⼱
+      - ⼲
+      - ⼳
+      - ⼴
+      - ⼵
+      - ⼶
+      - ⼷
+      - ⼸
+      - ⼹
+      - ⼺
+      - ⼻
+      ==
+      </nav>
   //
     , [4]
-    , ⼼⼽⼾⼿⽀⽁⽂⽃⽄⽅⽆⽇⽈⽉⽊⽋⽌⽍⽎⽏⽐⽑⽒⽓⽔⽕⽖⽗⽘⽙⽚⽛⽜⽝
+    ,
+      <nav class="sideways">
+      ==
+      - ⼼
+      - ⼽
+      - ⼾
+      - ⼿
+      - ⽀
+      - ⽁
+      - ⽂
+      - ⽃
+      - ⽄
+      - ⽅
+      - ⽆
+      - ⽇
+      - ⽈
+      - ⽉
+      - ⽊
+      - ⽋
+      - ⽌
+      - ⽍
+      - ⽎
+      - ⽏
+      - ⽐
+      - ⽑
+      - ⽒
+      - ⽓
+      - ⽔
+      - ⽕
+      - ⽖
+      - ⽗
+      - ⽘
+      - ⽙
+      - ⽚
+      - ⽛
+      - ⽜
+      - ⽝
+      ==
+      </nav>
   //
     , [5]
-    , ⽞⽟⽠⽡⽢⽣⽤⽥⽦⽧⽨⽩⽪⽫⽬⽭⽮⽯⽰⽱⽲⽳⽴
+    ,
+      <nav class="sideways">
+      ==
+      - ⽞
+      - ⽟
+      - ⽠
+      - ⽡
+      - ⽢
+      - ⽣
+      - ⽤
+      - ⽥
+      - ⽦
+      - ⽧
+      - ⽨
+      - ⽩
+      - ⽪
+      - ⽫
+      - ⽬
+      - ⽭
+      - ⽮
+      - ⽯
+      - ⽰
+      - ⽱
+      - ⽲
+      - ⽳
+      - ⽴
+      ==
   //
     , [6]
-    , ⽵⽶⽷⽸⽹⽺⽻⽼⽽⽾⽿⾀⾁⾂⾃⾄⾅⾆⾇⾈⾉⾊⾋⾌⾍⾎⾏⾐⾑
+    ,
+      <nav class="sideways">
+      ==
+      - ⽵
+      - ⽶
+      - ⽷
+      - ⽸
+      - ⽹
+      - ⽺
+      - ⽻
+      - ⽼
+      - ⽽
+      - ⽾
+      - ⽿
+      - ⾀
+      - ⾁
+      - ⾂
+      - ⾃
+      - ⾄
+      - ⾅
+      - ⾆
+      - ⾇
+      - ⾈
+      - ⾉
+      - ⾊
+      - ⾋
+      - ⾌
+      - ⾍
+      - ⾎
+      - ⾏
+      - ⾐
+      - ⾑
+      ==
   //
     , [7]
-    , ⾒⾓⾔⾕⾖⾗⾘⾙⾚⾛⾜⾝⾞⾟⾠⾡⾢⾣⾤⾥
+    ,
+      <nav class="sideways">
+      ==
+      - ⾒
+      - ⾓
+      - ⾔
+      - ⾕
+      - ⾖
+      - ⾗
+      - ⾘
+      - ⾙
+      - ⾚
+      - ⾛
+      - ⾜
+      - ⾝
+      - ⾞
+      - ⾟
+      - ⾠
+      - ⾡
+      - ⾢
+      - ⾣
+      - ⾤
+      - ⾥
+      ==
   //
     , [8]
-    , ⾦⾧⾨⾩⾪⾫⾬⾭⾮
+    ,
+      <nav class="sideways">
+      ==
+      - ⾦
+      - ⾧
+      - ⾨
+      - ⾩
+      - ⾪
+      - ⾫
+      - ⾬
+      - ⾭
+      - ⾮
+      ==
   //
     , [9]
-    , ⾯⾰⾱⾲⾳⾴⾵⾶⾷⾸⾹
+    ,
+      <nav class="sideways">
+      ==
+      - ⾯
+      - ⾰
+      - ⾱
+      - ⾲
+      - ⾳
+      - ⾴
+      - ⾵
+      - ⾶
+      - ⾷
+      - ⾸
+      - ⾹
+      ==
   //
     , [10]
-    , ⾺⾻⾼⾽⾾⾿⿀⿁
+    ,
+      <nav class="sideways">
+      ==
+      - ⾺
+      - ⾻
+      - ⾼
+      - ⾽
+      - ⾾
+      - ⾿
+      - ⿀
+      - ⿁
+      ==
   //
     , [11]
-    , ⿂⿃⿄⿅⿆⿇
+    ,
+      <nav class="sideways">
+      ==
+      - ⿂
+      - ⿃
+      - ⿄
+      - ⿅
+      - ⿆
+      - ⿇
+      ==
   //
     , [12]
-    , ⿈⿉⿊⿋
+    ,
+      <nav class="sideways">
+      ==
+      - ⿈
+      - ⿉
+      - ⿊
+      - ⿋
+      ==
   //
     , [13]
-    , ⿌⿍⿎⿏
+    ,
+      <nav class="sideways">
+      ==
+      - ⿌
+      - ⿍
+      - ⿎
+      - ⿏
+      ==
   //
     , [14]
-    , ⿐⿑
+    ,
+      <nav class="sideways">
+      ==
+      - ⿐
+      - ⿑
+      ==
   //
     , [15]
-    , ⿒
+    ,
+      <nav class="sideways">
+      ==
+      - ⿒
+      ==
   //
     , [16]
-    , ⿓⿔
+    ,
+      <nav class="sideways">
+      ==
+      - ⿓
+      - ⿔
+      ==
   //
     , [17]
-    , ⿕
+    ,
+      <nav class="sideways">
+      ==
+      - ⿕
+      ==
 ''
 ||||
-</nav>
