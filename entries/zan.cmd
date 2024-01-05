@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zan
-* %date-modified --> 2024-01-04
+* %date-modified --> 2024-01-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -56,7 +56,7 @@ $$
 
 $$
 R
-  玉 + 5
+  ⽟ + 5
 U
   U+73CD
 A
@@ -105,7 +105,7 @@ $$
 
 $$
 R
-  瓦 + 9
+  ⽡ + 9
 U
   U+7504
 F
@@ -129,7 +129,7 @@ $$
 
 $$
 R
-  目 + 5
+  ⽬ + 5
 U
   U+771E
 F
@@ -149,7 +149,7 @@ $$
 
 $$
 R
-  目 + 5
+  ⽬ + 5
 U
   U+771F
 A
@@ -228,7 +228,7 @@ $$
 
 $$
 R
-  貝 + 7
+  ⾙ + 7
 U
   U+8CD1
 F
@@ -270,7 +270,7 @@ $$
 
 $$
 R
-  人 + 7
+  ⼈ + 7
 U
   U+4FB2
 F
@@ -291,7 +291,7 @@ $$
 
 $$
 R
-  巾 + 7
+  ⼱ + 7
 U
   U+5E2A
 F
@@ -309,7 +309,7 @@ $$
 
 $$
 R
-  手 + 7
+  ⼿ + 7
 U
   U+632F
 F
@@ -354,7 +354,7 @@ $$
 
 $$
 R
-  貝 + 7
+  ⾙ + 7
 U
   U+8CD1
 F
@@ -388,7 +388,7 @@ $$
 
 $$
 R
-  金 + 10
+  ⾦ + 10
 U
   U+93AD
 F
@@ -408,7 +408,7 @@ $$
 
 $$
 R
-  金 + 10
+  ⾦ + 10
 U
   U+93AE
 A
@@ -462,7 +462,7 @@ $$
 
 $$
 R
-  雨 + 7
+  ⾬ + 7
 U
   U+9707
 F
@@ -538,7 +538,7 @@ $$
 
 $$
 R
-  阜 + 7
+  ⾩ + 7
 U
   U+9663
 A
@@ -648,7 +648,7 @@ $$
 
 $$
 R
-  阜 + 8
+  ⾩ + 8
 U
   U+9673
 F

@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ngaa
-* %date-modified --> 2023-12-29
-* %copyright-prior-years -->
+* %date-modified --> 2024-01-05
+* %copyright-prior-years --> 2023--
 
 %%%
 
@@ -60,7 +60,7 @@ $$
 
 $$
 R
-  口 + 4
+  ⼝ + 4
 U
   U+5440
 F

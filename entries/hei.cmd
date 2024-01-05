@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> hei
-* %date-modified --> 2023-12-29
-* %copyright-prior-years -->
+* %date-modified --> 2024-01-05
+* %copyright-prior-years --> 2023--
 
 %%%
 
@@ -56,7 +56,7 @@ $$
 
 $$
 R
-  尸 + 21
+  ⼫ + 21
 U
   U+5C6D
 V

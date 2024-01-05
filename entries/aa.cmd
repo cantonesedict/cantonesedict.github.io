@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2024-01-04
+* %date-modified --> 2024-01-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -70,7 +70,7 @@ _ngat_ [[ngat]].
 
 $$
 R
-  丨 + 2
+  ⼁ + 2
 U
   U+4E2B
 F
@@ -115,7 +115,7 @@ $$
 
 $$
 R
-  口 + 3
+  ⼝ + 3
 U
   U+5416
 A
@@ -206,7 +206,7 @@ $$
 
 $$
 R
-  口 + 4
+  ⼝ + 4
 U
   U+5440
 F
@@ -235,7 +235,7 @@ $$
 
 $$
 R
-  口 + 8
+  ⼝ + 8
 U
   U+554A
 F
@@ -256,7 +256,7 @@ $$
 
 $$
 R
-  鳥 + 4
+  ⿃ + 4
 U
   U+9D09
 F
@@ -302,7 +302,7 @@ $$
 
 $$
 R
-  口 + 8
+  ⼝ + 8
 U
   U+555E
 A
@@ -368,7 +368,7 @@ $$
 
 $$
 R
-  疒 + 8
+  ⽧ + 8
 U
   U+7602
 F
@@ -405,7 +405,7 @@ $$
 
 $$
 R
-  二 + 6
+  ⼆ + 6
 U
   U+4E9E
 A
@@ -445,7 +445,7 @@ $$
 
 $$
 R
-  口 + 4
+  ⼝ + 4
 U
   U+5440
 F
@@ -474,7 +474,7 @@ $$
 
 $$
 R
-  口 + 8
+  ⼝ + 8
 U
   U+554A
 A
@@ -532,7 +532,7 @@ $$
 
 $$
 R
-  女 + 8
+  ⼥ + 8
 U
   U+5A6D
 F
@@ -558,7 +558,7 @@ $$
 
 $$
 R
-  阜 + 5
+  ⾩ + 5
 U
   U+963F
 A
@@ -619,7 +619,7 @@ $$
 
 $$
 R
-  口 + 4
+  ⼝ + 4
 U
   U+5440
 V
@@ -669,7 +669,7 @@ $$
 
 $$
 R
-  口 + 4
+  ⼝ + 4
 U
   U+5440
 V

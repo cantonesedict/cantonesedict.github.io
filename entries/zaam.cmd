@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2024-01-04
+* %date-modified --> 2024-01-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -56,7 +56,7 @@ $$
 
 $$
 R
-  竹 + 12
+  ⽵ + 12
 U
   U+7C2A
 F
@@ -107,7 +107,7 @@ $$
 
 $$
 R
-  斤 + 7
+  ⽄ + 7
 U
   U+65AC
 F
@@ -162,7 +162,7 @@ $$
 
 $$
 R
-  目 + 5
+  ⽬ + 5
 U
   U+7728
 F
@@ -183,7 +183,7 @@ $$
 
 $$
 R
-  目 + 11
+  ⽬ + 11
 U
   U+406A
 A
@@ -226,7 +226,7 @@ $$
 
 $$
 R
-  水 + 9
+  ⽔ + 9
 U
   U+6E5B
 F
@@ -251,7 +251,7 @@ $$
 
 $$
 R
-  艸 + 19
+  ⾋ + 19
 U
   U+8638
 F
@@ -295,7 +295,7 @@ $$
 
 $$
 R
-  金 + 11
+  ⾦ + 11
 U
   U+93E8
 F
@@ -338,7 +338,7 @@ $$
 
 $$
 R
-  日 + 11
+  ⽇ + 11
 U
   U+66AB
 F
@@ -376,7 +376,7 @@ $$
 
 $$
 R
-  立 + 5
+  ⽴ + 5
 U
   U+7AD9
 F
@@ -410,7 +410,7 @@ $$
 
 $$
 R
-  貝 + 10
+  ⾙ + 10
 U
   U+8CFA
 F
@@ -443,7 +443,7 @@ $$
 
 $$
 R
-  金 + 11
+  ⾦ + 11
 U
   U+93E8
 F

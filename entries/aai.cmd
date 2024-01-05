@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aai
-* %date-modified --> 2024-01-04
+* %date-modified --> 2024-01-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -55,7 +55,7 @@ $$
 
 $$
 R
-  手 + 7
+  ⼿ + 7
 U
   U+6328
 F
@@ -128,7 +128,7 @@ $$
 
 $$
 R
-  口 + 10
+  ⼝ + 10
 U
   U+55CC
 F
@@ -198,7 +198,7 @@ $$
 
 $$
 R
-  阜 + 10
+  ⾩ + 10
 U
   U+9698
 F

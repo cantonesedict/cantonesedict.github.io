@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> au
-* %date-modified --> 2024-01-04
+* %date-modified --> 2024-01-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -61,7 +61,7 @@ $$
 
 $$
 R
-  匸 + 9
+  ⼖ + 9
 U
   U+5340
 F
@@ -89,7 +89,7 @@ $$
 
 $$
 R
-  欠 + 11
+  ⽋ + 11
 U
   U+6B50
 F
@@ -120,7 +120,7 @@ $$
 
 $$
 R
-  水 + 11
+  ⽔ + 11
 U
   U+6F1A
 F
@@ -151,7 +151,7 @@ $$
 
 $$
 R
-  瓦 + 11
+  ⽡ + 11
 U
   U+750C
 F
@@ -186,7 +186,7 @@ $$
 
 $$
 R
-  言 + 11
+  ⾔ + 11
 U
   U+8B33
 F
@@ -214,7 +214,7 @@ $$
 
 $$
 R
-  鳥 + 11
+  ⿃ + 11
 U
   U+9DD7
 F
@@ -254,7 +254,7 @@ $$
 
 $$
 R
-  口 + 11
+  ⼝ + 11
 U
   U+5614
 F
@@ -306,7 +306,7 @@ $$
 
 $$
 R
-  殳 + 11
+  ⽎ + 11
 U
   U+6BC6
 F
@@ -347,7 +347,7 @@ $$
 
 $$
 R
-  水 + 11
+  ⽔ + 11
 U
   U+6F1A
 F

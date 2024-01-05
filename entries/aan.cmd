@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aan
-* %date-modified --> 2024-01-04
+* %date-modified --> 2024-01-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -55,7 +55,7 @@ $$
 
 $$
 R
-  日 + 6
+  ⽇ + 6
 U
   U+664F
 F
@@ -144,7 +144,7 @@ $$
 
 $$
 R
-  鳥 + 10
+  ⿃ + 10
 U
   U+9DC3
 A

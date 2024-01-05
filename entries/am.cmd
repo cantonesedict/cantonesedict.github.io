@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2024-01-04
+* %date-modified --> 2024-01-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -63,7 +63,7 @@ $$
 
 $$
 R
-  口 + 9
+  ⼝ + 9
 U
   U+557D
 F
@@ -88,7 +88,7 @@ $$
 
 $$
 R
-  广 + 8
+  ⼴ + 8
 U
   U+5EB5
 A
@@ -124,7 +124,7 @@ $$
 
 $$
 R
-  艸 + 8
+  ⾋ + 8
 U
   U+83F4
 F
@@ -145,7 +145,7 @@ $$
 
 $$
 R
-  言 + 9
+  ⾔ + 9
 U
   U+8AF3
 F
@@ -167,7 +167,7 @@ $$
 
 $$
 R
-  鳥 + 8
+  ⿃ + 8
 U
   U+9D6A
 A
@@ -203,7 +203,7 @@ $$
 
 $$
 R
-  鳥 + 11
+  ⿃ + 11
 U
   U+4CFA
 F
@@ -240,7 +240,7 @@ $$
 
 $$
 R
-  口 + 8
+  ⼝ + 8
 U
   U+5535
 F
@@ -265,7 +265,7 @@ $$
 
 $$
 R
-  手 + 8
+  ⼿ + 8
 U
   U+63A9
 F
@@ -294,7 +294,7 @@ $$
 
 $$
 R
-  手 + 9
+  ⼿ + 9
 U
   U+63DE
 A
@@ -388,7 +388,7 @@ $$
 
 $$
 R
-  欠 + 8
+  ⽋ + 8
 U
   U+6B3F
 F
@@ -412,7 +412,7 @@ $$
 
 $$
 R
-  言 + 9
+  ⾔ + 9
 U
   U+8AF3
 V
@@ -451,7 +451,7 @@ $$
 
 $$
 R
-  門 + 9
+  ⾨ + 9
 U
   U+95C7
 V
@@ -490,7 +490,7 @@ $$
 
 $$
 R
-  黑 + 9
+  ⿊ + 9
 U
   U+9EEF
 F
@@ -526,7 +526,7 @@ $$
 
 $$
 R
-  日 + 9
+  ⽇ + 9
 U
   U+6697
 F
@@ -591,7 +591,7 @@ $$
 
 $$
 R
-  門 + 9
+  ⾨ + 9
 U
   U+95C7
 F
