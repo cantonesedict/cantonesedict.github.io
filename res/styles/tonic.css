@@ -179,13 +179,6 @@ th, td {
 }
 
 
-.filter-container {
-  margin: 1em 0;
-}
-.filter-container p {
-  margin: 0.5em 0;
-}
-
 .font-test {
   font-size: 2em;
   text-align: center;
@@ -205,6 +198,13 @@ th, td {
 
 .image-container {
   text-align: center;
+}
+
+.input-container {
+  margin: 1em 0;
+}
+.input-container p {
+  margin: 0.5em 0;
 }
 
 .merged {

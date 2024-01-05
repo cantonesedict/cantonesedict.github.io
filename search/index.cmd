@@ -17,10 +17,10 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 
 #{.modern} %title
 
-||||{.modern .filter-container}
+||||{.modern .input-container}
 --
-<label for="filter">Search:</label>
-<input type="text" id="filter" onkeyup="performSearch()" placeholder="(up to 16~chars / 1~code point)">
+<label for="search">Search:</label>
+<input type="text" id="search" onkeyup="performSearch()" placeholder="(up to 16~chars / 1~code point)">
 --
 <noscript>
 --

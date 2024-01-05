@@ -17,13 +17,15 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 
 #{.modern} %title
 
-||||{.modern .filter-container}
+||||{.modern .input-container}
+--
 <label for="filter">Filter for Jyutping/Term:</label>
 <input type="text" id="filter" onkeyup="applyFilter()" placeholder="(tones are ignored)">
+--
 <noscript>
-||{.modern}
+--
 **JavaScript is required for filter to work.**
-||
+--
 </noscript>
 ||||
 
