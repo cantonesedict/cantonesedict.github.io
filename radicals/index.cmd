@@ -49,6 +49,10 @@ RegexDictionaryReplacement: #.radical-links
 
 #{.modern} %title
 
+--{.modern}
+See also: [Search by character or code point](/search/).
+--
+
 ||||{.wide}
 ''{.modern .radicals}
 |^

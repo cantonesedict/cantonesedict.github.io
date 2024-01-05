@@ -34,6 +34,10 @@ For the raw JSON that is queried, see [`character-index.json`].
 
 [`character-index.json`]: character-index.json
 
+--{.modern}
+See also: [Index of characters by radical](/radicals/).
+--
+
 u<````````
 <script>
 </script>
