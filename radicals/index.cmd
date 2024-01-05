@@ -207,6 +207,7 @@ RegexDictionaryReplacement: #.radical-links
       - ⽳
       - ⽴
       ==
+      </nav>
   //
     , [6]
     ,
@@ -242,6 +243,7 @@ RegexDictionaryReplacement: #.radical-links
       - ⾐
       - ⾑
       ==
+      </nav>
   //
     , [7]
     ,
@@ -268,6 +270,7 @@ RegexDictionaryReplacement: #.radical-links
       - ⾤
       - ⾥
       ==
+      </nav>
   //
     , [8]
     ,
@@ -283,6 +286,7 @@ RegexDictionaryReplacement: #.radical-links
       - ⾭
       - ⾮
       ==
+      </nav>
   //
     , [9]
     ,
@@ -300,6 +304,7 @@ RegexDictionaryReplacement: #.radical-links
       - ⾸
       - ⾹
       ==
+      </nav>
   //
     , [10]
     ,
@@ -314,6 +319,7 @@ RegexDictionaryReplacement: #.radical-links
       - ⿀
       - ⿁
       ==
+      </nav>
   //
     , [11]
     ,
@@ -326,6 +332,7 @@ RegexDictionaryReplacement: #.radical-links
       - ⿆
       - ⿇
       ==
+      </nav>
   //
     , [12]
     ,
@@ -336,6 +343,7 @@ RegexDictionaryReplacement: #.radical-links
       - ⿊
       - ⿋
       ==
+      </nav>
   //
     , [13]
     ,
@@ -346,6 +354,7 @@ RegexDictionaryReplacement: #.radical-links
       - ⿎
       - ⿏
       ==
+      </nav>
   //
     , [14]
     ,
@@ -354,6 +363,7 @@ RegexDictionaryReplacement: #.radical-links
       - ⿐
       - ⿑
       ==
+      </nav>
   //
     , [15]
     ,
@@ -361,6 +371,7 @@ RegexDictionaryReplacement: #.radical-links
       ==
       - ⿒
       ==
+      </nav>
   //
     , [16]
     ,
@@ -369,6 +380,7 @@ RegexDictionaryReplacement: #.radical-links
       - ⿓
       - ⿔
       ==
+      </nav>
   //
     , [17]
     ,
@@ -376,5 +388,6 @@ RegexDictionaryReplacement: #.radical-links
       ==
       - ⿕
       ==
+      </nav>
 ''
 ||||
