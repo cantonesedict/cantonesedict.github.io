@@ -12,9 +12,9 @@ RegexDictionaryReplacement: #.syntax.character-headings
 - queue_position: BEFORE #headings
 * ^[#]{3} (?P<addition_marker> [+]? )
     [ ] (?P<bracketed> \[? (?P<character> \S ) \]? ) (?P<tone_number> [1-6] )
-    (?P<composition> .*? ) [ ][|][ ] (?P<reading> .* )
+    (?P<etc> .*? ) [ ][|][ ] (?P<reading> .* )
     -->
-  ###{#\g<tone_number>\g<character> .williams\g<addition_marker>} <span class="headword">\g<bracketed>\g<composition></span> \g<reading>
+  ###{#\g<tone_number>\g<character> .williams\g<addition_marker>} <span class="headword">\g<bracketed>\g<etc></span> \g<reading>
 - concluding_replacements: #.syntax.addition-marker-to-class
 
 
