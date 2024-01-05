@@ -288,6 +288,7 @@ class Page:
         self.character_entries = [
             CharacterEntry(
                 match.group('character'),
+                match.group('code_point'),
                 match.group('radical'),
                 int(match.group('residual_stroke_count')),
                 match.group('jyutping'),
@@ -305,7 +306,9 @@ class Page:
                     r'\n\n'
                     r'[$]{2}\n'
                     r'R\n'
-                    r'[ ]{2}(?P<radical>\S)[ ][+][ ](?P<residual_stroke_count>[0-9]+)$'
+                    r'[ ]{2}(?P<radical>\S)[ ][+][ ](?P<residual_stroke_count>[0-9]+)\n'
+                    r'U\n'
+                    r'[ ]{2}(?P<code_point>U[+][0-9A-F]{4,5})$'
                 ),
                 string=cmd_content,
                 flags=re.MULTILINE,
@@ -329,8 +332,13 @@ class CantoneseEntry:
 
 
 class CharacterEntry:
-    def __init__(self, character, radical, residual_stroke_count, jyutping, composition):
+    def __init__(self, character, code_point, radical, residual_stroke_count, jyutping, composition):
+        if character != chr(int(code_point[2:], 16)):
+            print(f'Error: character {character} is not {code_point}', file=sys.stderr)
+            sys.exit(1)
+
         self.character = character
+        self.code_point = code_point
         self.radical = radical
         self.residual_stroke_count = residual_stroke_count
         self.jyutping = jyutping
