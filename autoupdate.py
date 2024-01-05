@@ -295,9 +295,14 @@ class Page:
             )
             for match in re.finditer(
                 pattern=(
-                    r'^#{3}[+]?[ ]\[?(?P<character>\S)\]?.(?:[ ]\[\[(?P<composition>.+?)\]\])?'
+                    r'^#{3}[+]?'
+                    r'[ ]'
+                    r'\[?(?P<character>\S)\]?.'
+                    r'(?:[ ]\[\[(?P<composition>.+?)\]\])?'
                     r'[ ][|][ ]'
-                    r'.*?\[\[(?P<jyutping>[a-z]+?[1-6])\]\]$\n\n'
+                    r'.*?'
+                    r'\[\[(?P<jyutping>[a-z]+?[1-6])\]\]'
+                    r'\n\n'
                     r'[$]{2}\n'
                     r'R\n'
                     r'[ ]{2}(?P<radical>\S)[ ][+][ ](?P<residual_stroke_count>[0-9]+)$'
