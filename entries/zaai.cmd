@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2024-01-04
+* %date-modified --> 2024-01-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -82,7 +82,7 @@ $$
 R
   齊 + 3
 U
-  U+9F4B
+  U+9F4A
 F
   ==
   - [[F2.25 齊]] 竹佳切莊也恭也潔也洗心曰齊
