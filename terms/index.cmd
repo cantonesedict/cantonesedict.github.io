@@ -29,6 +29,10 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 </noscript>
 ||||
 
+--{.modern}
+See also: [Index of entry pages by Jyutping](/entries/).
+--
+
 u<````````
 <script>
 function normaliseString(str)
