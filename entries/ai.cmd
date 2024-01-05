@@ -48,7 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $哎1
-- $𫫃1
+- $𫫃 (⿰口挨)1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -190,7 +190,7 @@ $$
 - $曀3
 - $縊3
 - $翳3
-- $𦠉3
+- $𦠉 (⿰⺼壹)3
 ==
 </nav>
 <## /tone-3-characters ##>

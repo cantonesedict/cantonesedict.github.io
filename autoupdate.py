@@ -120,12 +120,18 @@ class Updater:
         return {
             tone: [
                 re.sub(
-                    pattern=r'[\[\]]',
-                    repl='',
-                    string=toned_character,
+                    pattern=r'\[\[ (?P<composition> .+? ) \]\]',
+                    repl=r'(\g<composition>)',
+                    string=match.expand(fr'\g<character>\g<etc>{tone}'),
+                    flags=re.VERBOSE,
                 )
-                for toned_character in re.findall(
-                    pattern=fr'^ \#\#\# [+]? [ ] (?P<toned_character> \[?\S\]? {tone} ) .* \[\[{syllable}{tone}\]\] $',
+                for match in re.finditer(
+                    pattern=(
+                        fr'^ \#\#\# [+]? [ ] \[? (?P<character> \S ) \]? {tone} (?P<etc> .*? )'
+                        fr'[ ][|][ ]'
+                        fr'.*?'
+                        fr'\[\[ {syllable}{tone} \]\] $'
+                    ),
                     string=cmd_content,
                     flags=re.MULTILINE | re.VERBOSE,
                 )
