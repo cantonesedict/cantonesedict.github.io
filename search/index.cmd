@@ -13,6 +13,10 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 - queue_position: AFTER #.boilerplate.footer
 * %black-serif-note -->
 
+OrdinaryDictionaryReplacement: #.search-maximum-character-count
+- queue_position: BEFORE #literals
+* {SEARCH_MAX_CHAR_COUNT} --> 16
+
 %%%
 
 #{.modern} %title
@@ -20,7 +24,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 ||||{.modern .input-container}
 --
 <label for="search">__Search:__</label>
-<input type="text" id="search" onkeyup="performSearch()" placeholder="(up to 16~chars / 1~code point)">
+<input type="text" id="search" onkeyup="performSearch()" placeholder="(up to {SEARCH_MAX_CHAR_COUNT}~chars / 1~code point)">
 --
 <noscript>
 --
@@ -44,7 +48,22 @@ let promise = fetch('character-index.json').then(response => response.json());
 async function performSearch()
 {
   let json = await promise;
-  console.log(json); // TODO
+
+  let searchElement = document.getElementById('search');
+  let searchString = searchElement.value.toUpperCase().trim();
+
+  let searchCharacters;
+  try
+  {
+    let codePointMatch = searchString.match(/(?<=^U?[+]?)[0-9A-F]{4,5}(?=$)/);
+    searchCharacters = [String.fromCodePoint(parseInt(codePointMatch, 16))];
+  }
+  catch
+  {
+    searchCharacters = [...searchString.substring(0, {SEARCH_MAX_CHAR_COUNT})];
+  }
+
+  console.log(searchCharacters); // TODO
 }
 
 window.onload = performSearch;

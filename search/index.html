@@ -64,7 +64,22 @@ let promise = fetch('character-index.json').then(response => response.json());
 async function performSearch()
 {
   let json = await promise;
-  console.log(json); // TODO
+
+  let searchElement = document.getElementById('search');
+  let searchString = searchElement.value.toUpperCase().trim();
+
+  let searchCharacters;
+  try
+  {
+    let codePointMatch = searchString.match(/(?<=^U?[+]?)[0-9A-F]{4,5}(?=$)/);
+    searchCharacters = [String.fromCodePoint(parseInt(codePointMatch, 16))];
+  }
+  catch
+  {
+    searchCharacters = [...searchString.substring(0, 16)];
+  }
+
+  console.log(searchCharacters); // TODO
 }
 
 window.onload = performSearch;
