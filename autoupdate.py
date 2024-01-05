@@ -355,7 +355,7 @@ class CharacterEntry:
         self.composition = composition
 
     def identify(self):
-        return self.character + (f' ({self.composition})' if self.composition else '')
+        return f'{self.character}{f" ({self.composition})" if self.composition else ""}'
 
 
 class SplitCantoneseEntry(CantoneseEntry):
