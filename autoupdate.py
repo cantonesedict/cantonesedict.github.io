@@ -192,6 +192,12 @@ class Indexer:
             Page(entry_cmd_name)
             for entry_cmd_name in entry_cmd_names
         ]
+        self.radix_cmd_names = sorted([
+            os.path.join(directory_path, file_name)
+            for directory_path, _, file_names in os.walk('radicals/')
+            for file_name in file_names
+            if file_name.endswith('.cmd') and file_name not in ['index.cmd']
+        ])
 
         self.cantonese_entries = [
             entry
@@ -225,6 +231,10 @@ class Indexer:
 
         with open('entries/cantonese.cmd', 'w', encoding='utf-8') as new_cmd_file:
             new_cmd_file.write(new_cmd_content)
+
+    def update_radix_all(self):
+        for radix_cmd_name in self.radix_cmd_names:
+            self._update_radix(radix_cmd_name)
 
     def write_character_index(self):
         raw_json = json.dumps(self.character_index_object, ensure_ascii=False, separators=(',', ':'))
@@ -277,6 +287,70 @@ class Indexer:
                 for split_cantonese_entry in self.split_cantonese_entries
             ],
             '',
+        ])
+
+    def _update_radix(self, radix_cmd_name):
+        with open(radix_cmd_name, 'r', encoding='utf-8') as old_cmd_file:
+            old_cmd_content = old_cmd_file.read()
+
+        new_cmd_content = self._update_radix_characters(old_cmd_content)
+
+        if new_cmd_content == old_cmd_content:
+            return
+
+        with open(radix_cmd_name, 'w', encoding='utf-8') as new_cmd_file:
+            new_cmd_file.write(new_cmd_content)
+
+    def _update_radix_characters(self, cmd_content):
+        cmd_content = re.sub(
+            pattern=(
+                r'(?<=<## radical-(?P<radical>\S)-characters ##>\n)'
+                r'.*?'
+                r'(?=<## /radical-(?P=radical)-characters ##>\n)'
+            ),
+            repl=self._radix_characters_cmd_content_replace,
+            string=cmd_content,
+            flags=re.DOTALL | re.MULTILINE,
+        )
+
+        return cmd_content
+
+    def _radix_characters_cmd_content_replace(self, match):
+        radical = match.group('radical')
+
+        if radical not in self.radical_index_object:
+            return match.group()
+
+        j_from_c_from_r = self.radical_index_object[radical]  # {residual_stroke_count: {character: [jyutping, ...]}}
+
+        return '\n'.join([
+            "||||{.wide}",
+            "''{.modern}",
+            "|^",
+            "  //",
+            "    ; Residual strokes",
+            "    ; Character entries",
+            "|:",
+            *[
+                '\n'.join([
+                    f'  //',
+                    f'    , {residual_stroke_count}',
+                    f'    ,',
+                    f'      <nav class="sideways">',
+                    f'      ==',
+                    *[
+                        f'      - ${character}{jyutping}'
+                        for character, jyutping_readings in j_from_c_from_r[residual_stroke_count].items()
+                        for jyutping in jyutping_readings
+                    ],
+                    f'      ==',
+                    f'      </nav>',
+                ])
+                for residual_stroke_count in sorted(j_from_c_from_r.keys())
+            ],
+            "''",
+            "||||",
+            "",
         ])
 
     @staticmethod
@@ -456,6 +530,7 @@ def main():
 
     indexer = Indexer(updater.entry_cmd_names)
     indexer.update_cantonese()
+    indexer.update_radix_all()
     indexer.write_character_index()
     indexer.write_radical_index()
 
