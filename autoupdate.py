@@ -38,7 +38,7 @@ RADICAL_NORMALISATION_TABLE = str.maketrans(CJK_UNIFIED_IDEOGRAPH_RADICALS, KANG
 
 class Updater:
     def __init__(self):
-        self.cmd_names = sorted([
+        self.entry_cmd_names = sorted([
             os.path.join(directory_path, file_name)
             for directory_path, _, file_names in os.walk('entries/')
             for file_name in file_names
@@ -46,17 +46,17 @@ class Updater:
         ])
 
     def update_all(self):
-        for cmd_name in self.cmd_names:
-            Updater._update(cmd_name)
+        for entry_cmd_name in self.entry_cmd_names:
+            Updater._update(entry_cmd_name)
 
     @staticmethod
-    def _update(cmd_name):
-        with open(cmd_name, 'r', encoding='utf-8') as old_cmd_file:
+    def _update(entry_cmd_name):
+        with open(entry_cmd_name, 'r', encoding='utf-8') as old_cmd_file:
             old_cmd_content = old_cmd_file.read()
 
-        Updater._check_jyutping_heuristic(cmd_name, old_cmd_content)
+        Updater._check_jyutping_heuristic(entry_cmd_name, old_cmd_content)
         tone_syllable_list = Updater._gather_tone_syllable_list(old_cmd_content)
-        Updater._check_syllables(cmd_name, tone_syllable_list)
+        Updater._check_syllables(entry_cmd_name, tone_syllable_list)
         toned_characters_from_tone = Updater._gather_toned_characters_from_tone(old_cmd_content, tone_syllable_list)
 
         new_cmd_content = old_cmd_content
@@ -67,11 +67,11 @@ class Updater:
         if new_cmd_content == old_cmd_content:
             return
 
-        with open(cmd_name, 'w', encoding='utf-8') as new_cmd_file:
+        with open(entry_cmd_name, 'w', encoding='utf-8') as new_cmd_file:
             new_cmd_file.write(new_cmd_content)
 
     @staticmethod
-    def _check_jyutping_heuristic(cmd_name, cmd_content):
+    def _check_jyutping_heuristic(entry_cmd_name, cmd_content):
         bad_jyutping_runs = [
             run
             for run in re.findall(pattern=r'\b[a-z]+[1-9]\b', string=cmd_content, flags=re.VERBOSE)
@@ -79,7 +79,7 @@ class Updater:
         ]
         if bad_jyutping_runs:
             print(
-                f'Error in `{cmd_name}`: bad Jyutping in {bad_jyutping_runs}',
+                f'Error in `{entry_cmd_name}`: bad Jyutping in {bad_jyutping_runs}',
                 file=sys.stderr,
             )
             sys.exit(1)
@@ -100,17 +100,17 @@ class Updater:
         )
 
     @staticmethod
-    def _check_syllables(cmd_name, tone_syllable_list):
+    def _check_syllables(entry_cmd_name, tone_syllable_list):
         cmd_syllable = re.sub(
             pattern=r'entries/(?P<syllable>[a-z]+)\.cmd',
             repl=r'\g<syllable>',
-            string=cmd_name,
+            string=entry_cmd_name,
         )
 
         gathered_syllables = set(s for _, s in tone_syllable_list)
         if gathered_syllables and gathered_syllables != {cmd_syllable}:
             print(
-                f'Error in `{cmd_name}`: gathered_syllables {gathered_syllables} != `{{{cmd_syllable}}}`',
+                f'Error in `{entry_cmd_name}`: gathered_syllables {gathered_syllables} != `{{{cmd_syllable}}}`',
                 file=sys.stderr,
             )
             sys.exit(1)
@@ -187,10 +187,10 @@ class Updater:
 
 
 class Indexer:
-    def __init__(self, cmd_names):
+    def __init__(self, entry_cmd_names):
         self.pages = [
-            Page(cmd_name)
-            for cmd_name in cmd_names
+            Page(entry_cmd_name)
+            for entry_cmd_name in entry_cmd_names
         ]
 
         self.cantonese_entries = [
@@ -300,11 +300,15 @@ class Indexer:
 
 
 class Page:
-    def __init__(self, cmd_name):
-        with open(cmd_name, 'r', encoding='utf-8') as cmd_file:
+    def __init__(self, entry_cmd_name):
+        with open(entry_cmd_name, 'r', encoding='utf-8') as cmd_file:
             cmd_content = cmd_file.read()
 
-        self.jyutping = re.sub(pattern=r'entries/(?P<jyutping>[a-z]+)\.cmd', repl=r'\g<jyutping>', string=cmd_name)
+        self.jyutping = re.sub(
+            pattern=r'entries/(?P<jyutping>[a-z]+)\.cmd',
+            repl=r'\g<jyutping>',
+            string=entry_cmd_name
+        )
         self.cmd_content = cmd_content
         self.cantonese_entries = [
             CantoneseEntry(
@@ -450,7 +454,7 @@ def main():
     updater = Updater()
     updater.update_all()
 
-    indexer = Indexer(updater.cmd_names)
+    indexer = Indexer(updater.entry_cmd_names)
     indexer.update_cantonese()
     indexer.write_character_index()
     indexer.write_radical_index()
