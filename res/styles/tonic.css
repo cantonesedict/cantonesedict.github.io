@@ -201,7 +201,9 @@ th, td {
 }
 
 .input-container {
+  border: 2px solid var(--modern-colour);
   margin: 1em 0;
+  padding: 0.3em 1em;
 }
 .input-container p {
   margin: 0.5em 0;
