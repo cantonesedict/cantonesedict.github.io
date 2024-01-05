@@ -548,7 +548,7 @@ def main():
     indexer.update_terms()
     indexer.update_radix_all()
     indexer.write_character_index()
-    indexer.write_radical_index()
+    # indexer.write_radical_index()
 
     statistician = Statistician(indexer)
     statistician.print_statistics()
