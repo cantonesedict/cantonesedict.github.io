@@ -45,6 +45,10 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 ==
 </nav>
 
+--{.modern}
+For all radicals, see [Index of characters by radical](./).
+--
+
 ## ⼆ (two)
 
 <## radical-⼆-characters ##>
