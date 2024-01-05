@@ -67,6 +67,7 @@ window.onload = applyFilter;
 </script>
 ````````>
 
+<## cantonese-table ##>
 ||||{.wide}
 ''{.modern}
 |^
@@ -75,7 +76,6 @@ window.onload = applyFilter;
     ; Term
     ; Entry link
 |:
-<## cantonese-table-body ##>
   //
     , a1
     , 吖
@@ -411,6 +411,6 @@ window.onload = applyFilter;
     , 陣間
     , [zan#cantonese-陣間](zan#cantonese-陣間)
 
-<## /cantonese-table-body ##>
 ''
 ||||
+<## /cantonese-table ##>

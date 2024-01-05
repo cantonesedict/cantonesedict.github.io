@@ -224,7 +224,7 @@ class Indexer:
         with open('entries/cantonese.cmd', 'r', encoding='utf-8') as old_cmd_file:
             old_cmd_content = old_cmd_file.read()
 
-        new_cmd_content = self._update_cantonese_table_body(old_cmd_content)
+        new_cmd_content = self._update_cantonese_table(old_cmd_content)
 
         if new_cmd_content == old_cmd_content:
             return
@@ -266,16 +266,24 @@ class Indexer:
 
         return object_
 
-    def _update_cantonese_table_body(self, cmd_content):
+    def _update_cantonese_table(self, cmd_content):
         return re.sub(
-            pattern=r'(?<=<## cantonese-table-body ##>\n).*?(?=<## /cantonese-table-body ##>\n)',
-            repl=self._cantonese_table_body_cmd_content(),
+            pattern=r'(?<=<## cantonese-table ##>\n).*?(?=<## /cantonese-table ##>\n)',
+            repl=self._cantonese_table_cmd_content(),
             string=cmd_content,
             flags=re.DOTALL | re.MULTILINE,
         )
 
-    def _cantonese_table_body_cmd_content(self):
+    def _cantonese_table_cmd_content(self):
         return '\n'.join([
+            "||||{.wide}",
+            "''{.modern}",
+            "|^",
+            "  //",
+            "    ; Jyutping",
+            "    ; Term",
+            "    ; Entry link",
+            "|:",
             *[
                 '\n'.join([
                     f'  //',
@@ -286,6 +294,8 @@ class Indexer:
                 ])
                 for split_cantonese_entry in self.split_cantonese_entries
             ],
+            "''",
+            "||||",
             '',
         ])
 
