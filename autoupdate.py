@@ -333,9 +333,19 @@ class CantoneseEntry:
 
 class CharacterEntry:
     def __init__(self, character, code_point, radical, residual_stroke_count, jyutping, composition):
-        if character != chr(int(code_point[2:], 16)):
+        code_point_int = int(code_point[2:], 16)
+        if character != chr(code_point_int):
             print(f'Error: character {character} is not {code_point}', file=sys.stderr)
             sys.exit(1)
+
+        if code_point_int > 0x1FFFF:
+            if not composition:
+                print(f'Error: missing composition for rare character {character} {code_point}', file=sys.stderr)
+                sys.exit(1)
+        else:
+            if composition:
+                print(f'Error: unnecessary composition for character {character} {code_point}', file=sys.stderr)
+                sys.exit(1)
 
         self.character = character
         self.code_point = code_point
