@@ -18,14 +18,21 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 #{.modern} %title
 
 ||||{.modern .filter-container}
+--
 <label for="filter">Search:</label>
 <input type="text" id="filter" onkeyup="performSearch()" placeholder="(up to 16~chars / 1~code point)">
+--
 <noscript>
-||{.modern}
+--
 **JavaScript is required for search to work.**
-||
+--
 </noscript>
+--
+For the raw JSON that is queried, see [`character-index.json`].
+--
 ||||
+
+[`character-index.json`]: character-index.json
 
 u<````````
 <script>

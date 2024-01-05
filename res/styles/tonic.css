@@ -139,7 +139,6 @@ html {
 
 input {
   font-size: 1em;
-  margin: 0.3em 0;
   padding: 0.2em;
 }
 
@@ -182,6 +181,9 @@ th, td {
 
 .filter-container {
   margin: 1em 0;
+}
+.filter-container p {
+  margin: 0.5em 0;
 }
 
 .font-test {
