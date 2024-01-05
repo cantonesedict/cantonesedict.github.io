@@ -195,7 +195,7 @@ class Indexer:
         # {character: [jyutping, ...], ...}
         object_ = collections.defaultdict(list)
         for entry in self.character_entries:
-            object_[entry.character_with_fallback()].append(entry.jyutping)
+            object_[entry.identify()].append(entry.jyutping)
 
         raw_json = json.dumps(object_, ensure_ascii=False, separators=(',', ':'))
         nice_json = raw_json.replace('],', '],\n') + '\n'  # newlines but only at the top level
@@ -207,7 +207,7 @@ class Indexer:
         # {radical: {residual_stroke_count: {character: [jyutping, ...]}}}
         object_ = collections.defaultdict(lambda: collections.defaultdict(lambda: collections.defaultdict(list)))
         for entry in self.character_entries:
-            object_[entry.radical][entry.residual_stroke_count][entry.character_with_fallback()].append(entry.jyutping)
+            object_[entry.radical][entry.residual_stroke_count][entry.identify()].append(entry.jyutping)
 
         raw_json = json.dumps(object_, ensure_ascii=False, separators=(',', ':'), sort_keys=True)
         nice_json = raw_json.replace('},', '},\n') + '\n'  # newlines but only at the top level
@@ -323,7 +323,7 @@ class CharacterEntry:
         self.jyutping = jyutping
         self.composition = composition
 
-    def character_with_fallback(self):
+    def identify(self):
         return self.character + (f' ({self.composition})' if self.composition else '')
 
 
