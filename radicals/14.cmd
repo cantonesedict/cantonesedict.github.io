@@ -51,6 +51,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $齊cai4
+      - $齊zaai1
       ==
       </nav>
   //
@@ -58,7 +59,6 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $齊zaai1
       - $齋zaai1
       ==
       </nav>
