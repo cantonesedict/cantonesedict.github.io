@@ -275,12 +275,12 @@ class Indexer:
     def _update_terms_table(self, cmd_content):
         return re.sub(
             pattern=r'(?<=<## terms-table ##>\n).*?(?=<## /terms-table ##>\n)',
-            repl=self._cantonese_table_cmd_content(),
+            repl=self._terms_table_cmd_content(),
             string=cmd_content,
             flags=re.DOTALL | re.MULTILINE,
         )
 
-    def _cantonese_table_cmd_content(self):
+    def _terms_table_cmd_content(self):
         return '\n'.join([
             "||||{.wide}",
             "''{.modern}",
