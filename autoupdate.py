@@ -42,7 +42,7 @@ class Updater:
             os.path.join(directory_path, file_name)
             for directory_path, _, file_names in os.walk('entries/')
             for file_name in file_names
-            if file_name.endswith('.cmd') and file_name not in ['index.cmd', 'cantonese.cmd']
+            if file_name.endswith('.cmd') and file_name not in ['index.cmd']
         ])
 
     def update_all(self):
@@ -226,16 +226,16 @@ class Indexer:
 
         Indexer._check_cantonese_entries(self.cantonese_entries)
 
-    def update_cantonese(self):
-        with open('entries/cantonese.cmd', 'r', encoding='utf-8') as old_cmd_file:
+    def update_terms(self):
+        with open('terms/index.cmd', 'r', encoding='utf-8') as old_cmd_file:
             old_cmd_content = old_cmd_file.read()
 
-        new_cmd_content = self._update_cantonese_table(old_cmd_content)
+        new_cmd_content = self._update_terms_table(old_cmd_content)
 
         if new_cmd_content == old_cmd_content:
             return
 
-        with open('entries/cantonese.cmd', 'w', encoding='utf-8') as new_cmd_file:
+        with open('terms/index.cmd', 'w', encoding='utf-8') as new_cmd_file:
             new_cmd_file.write(new_cmd_content)
 
     def update_radix_all(self):
@@ -272,9 +272,9 @@ class Indexer:
 
         return object_
 
-    def _update_cantonese_table(self, cmd_content):
+    def _update_terms_table(self, cmd_content):
         return re.sub(
-            pattern=r'(?<=<## cantonese-table ##>\n).*?(?=<## /cantonese-table ##>\n)',
+            pattern=r'(?<=<## terms-table ##>\n).*?(?=<## /terms-table ##>\n)',
             repl=self._cantonese_table_cmd_content(),
             string=cmd_content,
             flags=re.DOTALL | re.MULTILINE,
@@ -295,7 +295,7 @@ class Indexer:
                     f'  //',
                     f'    , {split_cantonese_entry.term_jyutping}',
                     f'    , {split_cantonese_entry.term}',
-                    f'    , [{split_cantonese_entry.relative_url}]({split_cantonese_entry.relative_url})',
+                    f'    , [{split_cantonese_entry.relative_url}](/entries/{split_cantonese_entry.relative_url})',
                     '',
                 ])
                 for split_cantonese_entry in self.split_cantonese_entries
@@ -545,7 +545,7 @@ def main():
     updater.update_all()
 
     indexer = Indexer(updater.entry_cmd_names)
-    indexer.update_cantonese()
+    indexer.update_terms()
     indexer.update_radix_all()
     indexer.write_character_index()
     indexer.write_radical_index()

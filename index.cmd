@@ -48,7 +48,7 @@ by [Samuel Wells Williams].
 - Main matter
   ==
   - [__Index of entry pages by Jyutping__](/entries/)
-  - [__Index of Cantonese terms by Jyutping__](/entries/cantonese)
+  - [__Index of Cantonese terms by Jyutping__](/terms/)
   - [__Index of characters by radical__](/radicals/)
   ==
 ====
