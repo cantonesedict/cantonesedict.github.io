@@ -51,7 +51,7 @@ body {
   overflow-wrap: break-word;
   padding: var(--header-nav-height) var(--body-padding-horizontal) 1.3rem;
 }
-body > nav, td > nav {
+body > nav, .radicals nav {
   font-size: 1.3rem;
 }
 body > nav li {

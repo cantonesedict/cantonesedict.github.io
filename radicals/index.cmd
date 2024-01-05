@@ -50,7 +50,7 @@ RegexDictionaryReplacement: #.radical-links
 #{.modern} %title
 
 ||||{.wide}
-''{.modern}
+''{.modern .radicals}
 |^
   //
     ; Strokes
