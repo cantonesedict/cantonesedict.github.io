@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2024-01-04
+* %date-modified --> 2024-01-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -539,7 +539,7 @@ $$
 R
   水 + 4
 U
-  U+6C89
+  U+6C88
 F
   [[Not present]]
 W
@@ -561,7 +561,7 @@ $$
 R
   水 + 4
 U
-  U+6C88
+  U+6C89
 A
   ==
   - $沈4
