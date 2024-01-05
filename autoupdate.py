@@ -253,7 +253,7 @@ class Indexer:
         raw_json = json.dumps(self.radical_index_object, ensure_ascii=False, separators=(',', ':'), sort_keys=True)
         nice_json = raw_json.replace('},', '},\n') + '\n'  # newlines but only at the top level
 
-        with open('entries/radical-index.json', 'w', encoding='utf-8') as json_file:
+        with open('radicals/radical-index.json', 'w', encoding='utf-8') as json_file:
             json_file.write(nice_json)
 
     def _gather_character_index(self):
