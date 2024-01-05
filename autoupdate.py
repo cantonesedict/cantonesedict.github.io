@@ -13,6 +13,29 @@ import re
 import sys
 
 
+CJK_UNIFIED_IDEOGRAPH_RADICALS = (
+    '一丨丶丿乙亅'
+    '二亠人儿入八冂冖冫几凵刀力勹匕匚匸十卜卩厂厶又'
+    '口囗土士夂夊夕大女子宀寸小尢尸屮山巛工己巾干幺广廴廾弋弓彐彡彳'
+    '心戈戶手支攴文斗斤方无日曰月木欠止歹殳毋比毛氏气水火爪父爻爿片牙牛犬'
+    '玄玉瓜瓦甘生用田疋疒癶白皮皿目矛矢石示禸禾穴立'
+    '竹米糸缶网羊羽老而耒耳聿肉臣自至臼舌舛舟艮色艸虍虫血行衣襾'
+    '見角言谷豆豕豸貝赤走足身車辛辰辵邑酉釆里'
+    '金長門阜隶隹雨靑非'
+    '面革韋韭音頁風飛食首香'
+    '馬骨高髟鬥鬯鬲鬼'
+    '魚鳥鹵鹿麥麻'
+    '黃黍黑黹'
+    '黽鼎鼓鼠'
+    '鼻齊'
+    '齒'
+    '龍龜'
+    '龠'
+)
+KANGXI_RADICALS = ''.join(chr(code_point) for code_point in range(0x2F00, 0x2FD6))
+RADICAL_NORMALISATION_TABLE = str.maketrans(CJK_UNIFIED_IDEOGRAPH_RADICALS, KANGXI_RADICALS)
+
+
 class Updater:
     def __init__(self):
         self.cmd_names = sorted([
@@ -37,6 +60,7 @@ class Updater:
         toned_characters_from_tone = Updater._gather_toned_characters_from_tone(old_cmd_content, tone_syllable_list)
 
         new_cmd_content = old_cmd_content
+        new_cmd_content = Updater._normalise_radicals(new_cmd_content)
         new_cmd_content = Updater._update_page_tones_navigation(new_cmd_content, tone_syllable_list)
         new_cmd_content = Updater._update_page_character_navigations(new_cmd_content, toned_characters_from_tone)
 
@@ -108,6 +132,15 @@ class Updater:
             ]
             for tone, syllable in tone_syllable_list
         }
+
+    @staticmethod
+    def _normalise_radicals(cmd_content):
+        return re.sub(
+            pattern=r'^R\n  (?P<radical>\S) [+] (?P<residual_stroke_count>[0-9]+)$',
+            repl=lambda match: match.group().translate(RADICAL_NORMALISATION_TABLE),
+            string=cmd_content,
+            flags=re.MULTILINE,
+        )
 
     @staticmethod
     def _update_page_tones_navigation(cmd_content, tone_syllable_list):
@@ -333,6 +366,10 @@ class CantoneseEntry:
 
 class CharacterEntry:
     def __init__(self, character, code_point, radical, residual_stroke_count, jyutping, composition):
+        if radical not in KANGXI_RADICALS:
+            print(f'Error: radical {radical} is not in the Kangxi Radicals Unicode block', file=sys.stderr)
+            sys.exit(1)
+
         code_point_int = int(code_point[2:], 16)
         if character != chr(code_point_int):
             print(f'Error: character {character} is not {code_point}', file=sys.stderr)
