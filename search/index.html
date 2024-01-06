@@ -85,8 +85,16 @@ async function performSearch()
   let tbodyElement = document.getElementsByTagName('tbody')[0];
   tbodyElement.replaceChildren();
 
+  let seenCharacters = new Set();
   for (const character of searchCharacters)
   {
+    if (seenCharacters.has(character))
+    {
+      continue;
+    }
+
+    seenCharacters.add(character);
+
     let readings = characterJson[character];
     if (!Array.isArray(readings) || readings.length == 0)
     {
