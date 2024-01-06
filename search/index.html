@@ -95,8 +95,8 @@ async function performSearch()
 
     seenCharacters.add(character);
 
-    let readings = characterJson[character];
-    if (!Array.isArray(readings) || readings.length == 0)
+    let jyutpingReadings = characterJson[character];
+    if (!Array.isArray(jyutpingReadings) || jyutpingReadings.length == 0)
     {
       continue;
     }
@@ -108,18 +108,58 @@ async function performSearch()
               : `${character} (${composition})`;
     let codePoint = `U+${character.codePointAt(0).toString(16).toUpperCase()}`;
 
-    let row = tbodyElement.insertRow(-1);
+    let rowElement = tbodyElement.insertRow(-1);
 
-    let characterCell = row.insertCell(-1);
-    let characterText = document.createTextNode(characterWithComposition);
-    characterCell.appendChild(characterText);
+    let characterCellElement = rowElement.insertCell(-1);
+    let characterTextNode = document.createTextNode(characterWithComposition);
+    characterCellElement.appendChild(characterTextNode);
 
-    let codePointCell = row.insertCell(-1);
-    let codePointText = document.createTextNode(codePoint);
-    codePointCell.appendChild(codePointText);
+    let codePointCellElement = rowElement.insertCell(-1);
+    let codePointTextNode = document.createTextNode(codePoint);
+    codePointCellElement.appendChild(codePointTextNode);
 
-    let entryLinksCell = row.insertCell(-1);
-    // Make entryLinksCell contain `nav > ul > li > a`.
+    let entriesCellElement = rowElement.insertCell(-1);
+
+    let entriesNavElement = document.createElement('nav');
+    entriesNavElement.className = 'sideways';
+    entriesCellElement.appendChild(entriesNavElement);
+
+    let entriesListElement = document.createElement('ul');
+    entriesNavElement.appendChild(entriesListElement);
+
+    for (const jyutping of jyutpingReadings)
+    {
+      let nbsp = String.fromCodePoint(0x00A0);
+      let syllable = jyutping.replace(/[1-6]/g, '');
+      let tone = jyutping.replace(/[a-z]/g, '');
+
+      let itemElement = document.createElement('li');
+      entriesListElement.appendChild(itemElement);
+
+      let linkElement = document.createElement('a');
+      linkElement.href = `/entries/${syllable}#${tone}${character}`;
+      itemElement.appendChild(linkElement);
+
+      let characterSpanElement = document.createElement('span');
+      characterSpanElement.lang = 'zh-Hant';
+      characterSpanElement.appendChild(document.createTextNode(character));
+      linkElement.appendChild(characterSpanElement);
+
+      if (composition !== undefined)
+      {
+        linkElement.appendChild(document.createTextNode(`${nbsp}(`));
+
+        let compositionSpanElement = document.createElement('span');
+        compositionSpanElement.lang = 'zh-Hant';
+        compositionSpanElement.appendChild(document.createTextNode(composition));
+        linkElement.appendChild(compositionSpanElement);
+
+        linkElement.appendChild(document.createTextNode(')'));
+      }
+
+      let jyutpingTextNode = document.createTextNode(`${nbsp}${jyutping}`);
+      linkElement.appendChild(jyutpingTextNode);
+    }
   }
 }
 
