@@ -44,10 +44,12 @@ See also: [Index of characters by radical](/radicals/).
 
 u<``<script>
 let characterPromise = fetch('character-index.json').then(response => response.json());
+let compositionPromise = fetch('composition-index.json').then(response => response.json());
 
 async function performSearch()
 {
   let characterJson = await characterPromise;
+  let compositionJson = await compositionPromise;
 
   let searchElement = document.getElementById('search');
   searchElement.value = searchElement.value.replace(/\s/g, '');
@@ -67,7 +69,7 @@ async function performSearch()
   let tbodyElement = document.getElementsByTagName('tbody')[0];
   tbodyElement.replaceChildren();
 
-  for (const character of searchCharacters) // TODO: fix composition badness
+  for (const character of searchCharacters)
   {
     let readings = characterJson[character];
     if (!Array.isArray(readings) || readings.length == 0)
@@ -75,12 +77,17 @@ async function performSearch()
       continue;
     }
 
+    let composition = compositionJson[character];
+    let characterWithComposition =
+            (composition === undefined)
+              ? character
+              : `${character} (${composition})`;
     let codePoint = `U+${character.codePointAt(0).toString(16).toUpperCase()}`;
 
     let row = tbodyElement.insertRow(-1);
 
     let characterCell = row.insertCell(-1);
-    let characterText = document.createTextNode(character);
+    let characterText = document.createTextNode(characterWithComposition);
     characterCell.appendChild(characterText);
 
     let codePointCell = row.insertCell(-1);
