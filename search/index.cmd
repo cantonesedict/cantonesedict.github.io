@@ -43,11 +43,11 @@ See also: [Index of characters by radical](/radicals/).
 --
 
 u<``<script>
-let promise = fetch('character-index.json').then(response => response.json());
+let characterPromise = fetch('character-index.json').then(response => response.json());
 
 async function performSearch()
 {
-  let json = await promise;
+  let characterJson = await characterPromise;
 
   let searchElement = document.getElementById('search');
   searchElement.value = searchElement.value.replace(/\s/g, '');
@@ -69,7 +69,7 @@ async function performSearch()
 
   for (const character of searchCharacters) // TODO: fix composition badness
   {
-    let readings = json[character];
+    let readings = characterJson[character];
     if (!Array.isArray(readings) || readings.length == 0)
     {
       continue;
