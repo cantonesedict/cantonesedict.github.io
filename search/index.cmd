@@ -95,12 +95,10 @@ async function performSearch()
     let rowElement = tbodyElement.insertRow(-1);
 
     let characterCellElement = rowElement.insertCell(-1);
-    let characterTextNode = document.createTextNode(characterWithComposition);
-    characterCellElement.appendChild(characterTextNode);
+    characterCellElement.appendChild(document.createTextNode(characterWithComposition));
 
     let codePointCellElement = rowElement.insertCell(-1);
-    let codePointTextNode = document.createTextNode(codePoint);
-    codePointCellElement.appendChild(codePointTextNode);
+    codePointCellElement.appendChild(document.createTextNode(codePoint));
 
     let entriesCellElement = rowElement.insertCell(-1);
 
