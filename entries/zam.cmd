@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2024-01-05
+* %date-modified --> 2024-01-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -62,7 +62,7 @@ $$
 
 $$
 R
-  斗 + 9
+  ⽃ + 9
 U
   U+659F
 F
@@ -113,7 +113,7 @@ $$
 
 $$
 R
-  木 + 9
+  ⽊ + 9
 U
   U+6939
 F
@@ -144,7 +144,7 @@ $$
 
 $$
 R
-  石 + 5
+  ⽯ + 5
 U
   U+7827
 A
@@ -185,7 +185,7 @@ $$
 
 $$
 R
-  石 + 9
+  ⽯ + 9
 U
   U+78AA
 F
@@ -210,7 +210,7 @@ $$
 
 $$
 R
-  示 + 7
+  ⽰ + 7
 U
   U+7972
 V
@@ -248,7 +248,7 @@ $$
 
 $$
 R
-  竹 + 9
+  ⽵ + 9
 U
   U+7BB4
 F
@@ -281,7 +281,7 @@ $$
 
 $$
 R
-  金 + 2
+  ⾦ + 2
 U
   U+91DD
 A
@@ -336,7 +336,7 @@ $$
 
 $$
 R
-  金 + 9
+  ⾦ + 9
 U
   U+937C
 F
@@ -369,7 +369,7 @@ $$
 
 $$
 R
-  心 + 5
+  ⼼ + 5
 U
   U+600E
 F
@@ -416,7 +416,7 @@ $$
 
 $$
 R
-  木 + 4
+  ⽊ + 4
 U
   U+6795
 F
@@ -504,7 +504,7 @@ $$
 
 $$
 R
-  木 + 4
+  ⽊ + 4
 U
   U+6795
 V
@@ -554,7 +554,7 @@ $$
 
 $$
 R
-  水 + 4
+  ⽔ + 4
 U
   U+6C81
 F
@@ -578,7 +578,7 @@ $$
 
 $$
 R
-  水 + 7
+  ⽔ + 7
 U
   U+6D78
 V
@@ -674,7 +674,7 @@ $$
 
 $$
 R
-  言 + 12
+  ⾔ + 12
 U
   U+8B56
 V
@@ -716,7 +716,7 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
-- $𠹻6
+- $𠹻 (⿰口朕)6
 - $朕6
 ==
 </nav>
@@ -726,7 +726,7 @@ $$
 
 $$
 R
-  口 + 10
+  ⼝ + 10
 U
   U+20E7B
 A
@@ -767,7 +767,7 @@ $$
 
 $$
 R
-  月 + 6
+  ⽉ + 6
 U
   U+6715
 F
@@ -785,7 +785,7 @@ W
         subtile, recondite.
     ==
     --
-    A colloquial word [[here normalised to 𠹻; **see $𠹻zam6 for the canonical entry**]].
+    A colloquial word [[here normalised to 𠹻; **see $𠹻 (⿰口朕)zam6 for the canonical entry**]].
     --
   ====
 C

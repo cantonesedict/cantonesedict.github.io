@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zak
-* %date-modified --> 2024-01-04
+* %date-modified --> 2024-01-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -59,7 +59,7 @@ $$
 
 $$
 R
-  人 + 2
+  ⼈ + 2
 U
   U+4EC4
 F
@@ -93,7 +93,7 @@ $$
 
 $$
 R
-  人 + 9
+  ⼈ + 9
 U
   U+5074
 F
@@ -144,7 +144,7 @@ $$
 
 $$
 R
-  刀 + 7
+  ⼑ + 7
 U
   U+5247
 F
@@ -203,7 +203,7 @@ $$
 
 $$
 R
-  日 + 4
+  ⽇ + 4
 U
   U+6603
 F
@@ -228,7 +228,7 @@ $$
 
 $$
 R
-  竹 + 11
+  ⽵ + 11
 U
   U+7C00
 F
@@ -261,7 +261,7 @@ $$
 
 $$
 R
-  貝 + 11
+  ⾙ + 11
 U
   U+8CFE
 F
@@ -289,7 +289,7 @@ $$
 
 $$
 R
-  魚 + 7
+  ⿂ + 7
 U
   U+9BFD
 F
@@ -317,7 +317,7 @@ $$
 
 $$
 R
-  魚 + 9
+  ⿂ + 9
 U
   U+9C02
 A

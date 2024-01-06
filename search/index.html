@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="author" content="Conway">
+<meta name="description" content="Cantonese Dictionary, a modern edition of Williams' 1856 Tonic Dictionary: search by Chinese character or by Unicode code point">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/res/styles/tonic.css">
+<title>Search by character or code point | Cantonese Dictionary</title>
+</head>
+<body>
+<header>
+<nav class="sideways">
+<ul>
+<li>
+<a href="/">Home</a>
+</li>
+<li>
+<a href="#">Top</a>
+</li>
+<li>
+<a href="/entries/">Index</a>
+</li>
+<li>
+<a href="/terms/">Terms</a>
+</li>
+<li>
+<a href="/search/">Search</a>
+</li>
+<li>
+<a href="/radicals/">Radicals</a>
+</li>
+</ul>
+</nav>
+</header>
+<h1 class="modern">Search by character or code point</h1>
+<div class="modern input-container">
+<p>
+<label for="search"><b>Search:</b></label>
+<input type="text" id="search" onkeyup="performSearch()" placeholder="(up to 16 chars / 1 code point)">
+</p>
+<noscript>
+<p>
+<strong>JavaScript is required for search to work.</strong>
+</p>
+</noscript>
+<p>
+For the raw JSON that is queried, see <a href="character-index.json"><code>character-index.json</code></a>.
+</p>
+</div>
+<p class="modern">
+See also: <a href="/radicals/">Index of characters by radical</a>.
+</p>
+<script>
+let characterPromise = fetch('character-index.json').then(response => response.json());
+let compositionPromise = fetch('composition-index.json').then(response => response.json());
+
+let nbsp = String.fromCodePoint(0x00A0);
+
+function appendCharacterWithComposition(targetElement, character, composition)
+{
+  let characterSpanElement = document.createElement('span');
+  characterSpanElement.lang = 'zh-Hant';
+  characterSpanElement.appendChild(document.createTextNode(character));
+  targetElement.appendChild(characterSpanElement);
+
+  if (composition === undefined)
+  {
+    return;
+  }
+
+  targetElement.appendChild(document.createTextNode(`${nbsp}(`));
+
+  let compositionSpanElement = document.createElement('span');
+  compositionSpanElement.lang = 'zh-Hant';
+  compositionSpanElement.appendChild(document.createTextNode(composition));
+  targetElement.appendChild(compositionSpanElement);
+
+  targetElement.appendChild(document.createTextNode(')'));
+}
+
+async function performSearch()
+{
+  let characterJson = await characterPromise;
+  let compositionJson = await compositionPromise;
+
+  let searchElement = document.getElementById('search');
+  searchElement.value = searchElement.value.replace(/\s/g, '');
+  let searchString = searchElement.value.toUpperCase().trim();
+
+  let searchCharacters;
+  try
+  {
+    let codePointMatch = searchString.match(/(?<=^U?[+]?)[0-9A-F]{4,5}(?=$)/);
+    searchCharacters = [String.fromCodePoint(parseInt(codePointMatch, 16))];
+  }
+  catch
+  {
+    searchCharacters = [...searchString].slice(0, 16);
+  }
+
+  let tbodyElement = document.getElementsByTagName('tbody')[0];
+  tbodyElement.replaceChildren();
+
+  let seenCharacters = new Set();
+  for (const character of searchCharacters)
+  {
+    if (seenCharacters.has(character))
+    {
+      continue;
+    }
+
+    seenCharacters.add(character);
+
+    let jyutpingReadings = characterJson[character];
+    if (!Array.isArray(jyutpingReadings) || jyutpingReadings.length == 0)
+    {
+      continue;
+    }
+
+    let composition = compositionJson[character];
+    let codePoint = `U+${character.codePointAt(0).toString(16).toUpperCase()}`;
+
+    let rowElement = tbodyElement.insertRow(-1);
+
+    let characterCellElement = rowElement.insertCell(-1);
+    appendCharacterWithComposition(characterCellElement, character, composition);
+
+    let codePointCellElement = rowElement.insertCell(-1);
+    codePointCellElement.appendChild(document.createTextNode(codePoint));
+
+    let entriesCellElement = rowElement.insertCell(-1);
+
+    let entriesNavElement = document.createElement('nav');
+    entriesNavElement.className = 'sideways';
+    entriesCellElement.appendChild(entriesNavElement);
+
+    let entriesListElement = document.createElement('ul');
+    entriesNavElement.appendChild(entriesListElement);
+
+    for (const jyutping of jyutpingReadings)
+    {
+      let syllable = jyutping.replace(/[1-6]/g, '');
+      let tone = jyutping.replace(/[a-z]/g, '');
+
+      let itemElement = document.createElement('li');
+      entriesListElement.appendChild(itemElement);
+
+      let linkElement = document.createElement('a');
+      linkElement.href = `/entries/${syllable}#${tone}${character}`;
+      itemElement.appendChild(linkElement);
+
+      appendCharacterWithComposition(linkElement, character, composition);
+
+      let jyutpingTextNode = document.createTextNode(`${nbsp}${jyutping}`);
+      linkElement.appendChild(jyutpingTextNode);
+    }
+  }
+}
+
+window.onload = performSearch;
+</script>
+<div class="wide">
+<table class="modern">
+<thead>
+<tr>
+<th>Character</th>
+<th>Code point</th>
+<th>Character entry links</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+</div>
+<footer class="modern">
+© 2024 Conway.<br>
+Source: <a href="https://github.com/cantonesedict/cantonesedict.github.io/blob/master/search/index.cmd"><code>search/index.cmd</code></a>.
+Last modified: <time datetime="2024-01-07">2024-01-07</time>.
+</footer>
+</body>
+</html>

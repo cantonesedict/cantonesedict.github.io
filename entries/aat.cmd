@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aat
-* %date-modified --> 2024-01-04
+* %date-modified --> 2024-01-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -63,7 +63,7 @@ $$
 
 $$
 R
-  土 + 14
+  ⼟ + 14
 U
   U+58D3
 F
@@ -111,7 +111,7 @@ $$
 
 $$
 R
-  心 + 6
+  ⼼ + 6
 U
   U+605D
 V
@@ -144,7 +144,7 @@ $$
 
 $$
 R
-  戈 + 7
+  ⼽ + 7
 U
   U+621B
 F
@@ -165,7 +165,7 @@ $$
 
 $$
 R
-  戈 + 8
+  ⼽ + 8
 U
   U+621E
 F
@@ -189,7 +189,7 @@ $$
 
 $$
 R
-  手 + 5
+  ⼿ + 5
 U
   U+62BC
 V
@@ -298,7 +298,7 @@ $$
 
 $$
 R
-  手 + 9
+  ⼿ + 9
 U
   U+63E0
 F
@@ -322,7 +322,7 @@ $$
 
 $$
 R
-  禾 + 6
+  ⽲ + 6
 U
   U+79F8
 V
@@ -350,7 +350,7 @@ $$
 
 $$
 R
-  辵 + 9
+  ⾡ + 9
 U
   U+904F
 F
@@ -382,7 +382,7 @@ $$
 
 $$
 R
-  門 + 8
+  ⾨ + 8
 U
   U+95BC
 F
@@ -408,7 +408,7 @@ $$
 
 $$
 R
-  頁 + 6
+  ⾴ + 6
 U
   U+981E
 F

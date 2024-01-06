@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Introduction.
-* %date-modified --> 2023-12-31
-* %copyright-prior-years -->
+* %date-modified --> 2024-01-07
+* %copyright-prior-years --> 2023--
 * %meta-description --> Williams' introduction
 
 %%%
@@ -2263,7 +2263,7 @@ then make them familiar.
 Many of the most common characters are the most difficult to find
 in the index; they are generally placed under the simpler radicals,
 where they should be looked for first. For instance, 以, 仝, 令, 仄
-are all under 人; 亞, 亘, 井, are under 二; 兒, 先, are under 儿;
+are all under ⼈; 亞, 亘, 井, are under ⼆; 兒, 先, are under ⼉;
 all of which are referred to these radicals chiefly
 because it was a prominent part of the character, and likely to catch
 [[[Page~xxxvi of the original]{#page-xxxvi}<n43> here]]
@@ -2271,12 +2271,12 @@ the eye. Such anomalous instances amount to about two hundred,
 all of them primitives, while the remainder will give less trouble in
 ascertaining the proper radical. About one half (108) of the radicals
 are placed on the right or left of the primitive,---constituting one
-half of the character, and easily recognized. Others, like 二, 勹,
-匚[,] 匸, 囗, 行, 門 and 鬥 embrace the primitive, and give no
+half of the character, and easily recognized. Others, like ⼆, ⼓,
+⼕[,] ⼖, ⼞, ⾏, ⾨ and ⾾ embrace the primitive, and give no
 trouble. About 40 of them are placed on the top of the primitive,
 a few of which enter into combination with it, as in 奉, 夷, 彝,
 in such a manner as to give some hesitation as to the radical; while
-others, as 宀, 广, 疒, 爪, 穴, 竹, 罒, 艹, 虍, 雨, are more
+others, as ⼧, ⼴, ⽧, ⽖, ⽳, ⽵, ⺫, ⺿, ⾌, ⾬, are more
 apparent. For many the remainder, where the radical is either
 in combination, or the character is formed of two or three radicals,
 as 相, 聾, or 現, practice will soon give the necessary facility in
@@ -2294,9 +2294,9 @@ not reckoned. After becoming familiar with the radicals themselves,
 and having a general acquaintance with the primitives, the number
 of strokes can most quickly be ascertained by inspection. For instance,
 the character _m(u/)t(9)_ [[mut6]] 𩱷 [[⿱⿲弓⿰米蔑弓鬲]] rice porridge, found under the radical
-_lik_ [[lik]] 鬲, is made up of 弓, 弓, 米, and [蔑], which severally
+_lik_ [[lik]] ⿀, is made up of 弓, 弓, 米, and [蔑], which severally
 number 3, 3, 6, and 15~strokes, or 27 in all; the character _(i/)m(6)_ [[jim6]] 灎
-bubbling water, placed under the radical _shui_ [[seoi]] 水, is composed
+bubbling water, placed under the radical _shui_ [[seoi]] ⽔, is composed
 of 曲, 豆, 去, 皿, numbering 6, 7, 5, and 5~strokes, or 23 in
 all. The number of characters formed of so many strokes as these
 is very few, and in most cases a glance at the word is sufficient to

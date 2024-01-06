@@ -1,6 +1,6 @@
 :root{
   --body-padding-horizontal: 1.3rem;
-  --header-nav-height: 3rem;
+  --header-nav-height: 2.5rem;
   --html-max-width: 44rem;
   --modern-colour: crimson;
   --modern-colour-mark: firebrick;
@@ -31,6 +31,11 @@
 }
 
 
+a {
+  text-decoration-thickness: 1px;
+}
+
+
 blockquote {
   border-left: 3px solid grey;
   margin-right: 0.5em;
@@ -46,7 +51,7 @@ body {
   overflow-wrap: break-word;
   padding: var(--header-nav-height) var(--body-padding-horizontal) 1.3rem;
 }
-body > nav {
+body > nav, .radicals nav {
   font-size: 1.3rem;
 }
 body > nav li {
@@ -174,10 +179,6 @@ th, td {
 }
 
 
-.filter-container {
-  margin: 1em 0;
-}
-
 .font-test {
   font-size: 2em;
   text-align: center;
@@ -197,6 +198,15 @@ th, td {
 
 .image-container {
   text-align: center;
+}
+
+.input-container {
+  border: 2px solid var(--modern-colour);
+  margin: 1em 0;
+  padding: 0.3em 1em;
+}
+.input-container p {
+  margin: 0.5em 0;
 }
 
 .merged {

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2024-01-04
+* %date-modified --> 2024-01-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -55,7 +55,7 @@ $$
 
 $$
 R
-  工 + 7
+  ⼯ + 7
 U
   U+5DEE
 F
@@ -118,7 +118,7 @@ $$
 
 $$
 R
-  犬 + 8
+  ⽝ + 8
 U
   U+731C
 F
@@ -175,7 +175,7 @@ $$
 
 $$
 R
-  金 + 3
+  ⾦ + 3
 U
   U+91F5
 F
@@ -221,7 +221,7 @@ $$
 
 $$
 R
-  足 + 8
+  ⾜ + 8
 U
   U+8E29
 F
@@ -245,7 +245,7 @@ $$
 
 $$
 R
-  足 + 9
+  ⾜ + 9
 U
   U+8E39
 A
@@ -326,7 +326,7 @@ $$
 
 $$
 R
-  口 + 12
+  ⼝ + 12
 U
   U+562C
 V
@@ -366,7 +366,7 @@ $$
 
 $$
 R
-  疒 + 11
+  ⽧ + 11
 U
   U+7635
 F
@@ -390,7 +390,7 @@ $$
 
 $$
 R
-  虫 + 13
+  ⾍ + 13
 U
   U+8806
 F
@@ -424,7 +424,7 @@ $$
 
 $$
 R
-  人 + 14
+  ⼈ + 14
 U
   U+5115
 F
@@ -449,7 +449,7 @@ $$
 
 $$
 R
-  木 + 5
+  ⽊ + 5
 U
   U+67F4
 F
@@ -500,7 +500,7 @@ $$
 
 $$
 R
-  豸 + 3
+  ⾘ + 3
 U
   U+8C7A
 F

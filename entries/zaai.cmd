@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2024-01-05
+* %date-modified --> 2024-01-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -54,7 +54,7 @@ $$
 
 $$
 R
-  文 + 6
+  ⽂ + 6
 U
   U+658B
 F
@@ -80,7 +80,7 @@ $$
 
 $$
 R
-  齊 + 3
+  ⿑ + 0
 U
   U+9F4A
 F
@@ -111,7 +111,7 @@ $$
 
 $$
 R
-  齊 + 3
+  ⿑ + 3
 U
   U+9F4B
 A
@@ -238,7 +238,7 @@ $$
 
 $$
 R
-  人 + 11
+  ⼈ + 11
 U
   U+50B5
 F
@@ -285,7 +285,7 @@ $$
 
 $$
 R
-  疒 + 11
+  ⽧ + 11
 U
   U+7635
 V
@@ -323,7 +323,7 @@ $$
 
 $$
 R
-  竹 + 11
+  ⽵ + 11
 U
   U+7C00
 F
@@ -365,7 +365,7 @@ $$
 
 $$
 R
-  宀 + 11
+  ⼧ + 11
 U
   U+5BE8
 A
@@ -413,7 +413,7 @@ $$
 
 $$
 R
-  石 + 5
+  ⽯ + 5
 U
   U+7826
 F
@@ -438,7 +438,7 @@ $$
 
 $$
 R
-  豸 + 0
+  ⾘ + 0
 U
   U+8C78
 F

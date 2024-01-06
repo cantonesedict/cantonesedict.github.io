@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caak
-* %date-modified --> 2024-01-04
+* %date-modified --> 2024-01-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -59,7 +59,7 @@ $$
 
 $$
 R
-  心 + 9
+  ⼼ + 9
 U
   U+60FB
 F
@@ -80,7 +80,7 @@ $$
 
 $$
 R
-  水 + 9
+  ⽔ + 9
 U
   U+6E2C
 F
@@ -119,7 +119,7 @@ $$
 
 $$
 R
-  冂 + 3
+  ⼌ + 3
 U
   U+518A
 A
@@ -160,7 +160,7 @@ $$
 
 $$
 R
-  冂 + 3
+  ⼌ + 3
 U
   U+518C
 F
@@ -178,7 +178,7 @@ $$
 
 $$
 R
-  土 + 5
+  ⼟ + 5
 U
   U+577C
 A
@@ -240,7 +240,7 @@ $$
 
 $$
 R
-  手 + 5
+  ⼿ + 5
 U
   U+62C6
 F
@@ -290,7 +290,7 @@ $$
 
 $$
 R
-  木 + 5
+  ⽊ + 5
 U
   U+67F5
 A
@@ -325,7 +325,7 @@ $$
 
 $$
 R
-  木 + 5
+  ⽊ + 5
 U
   U+6805
 F
@@ -343,7 +343,7 @@ $$
 
 $$
 R
-  竹 + 6
+  ⽵ + 6
 U
   U+7B56
 F
@@ -383,7 +383,7 @@ $$
 
 $$
 R
-  艸 + 6
+  ⾋ + 6
 U
   U+8326
 F
@@ -415,7 +415,7 @@ $$
 
 $$
 R
-  虫 + 13
+  ⾍ + 13
 U
   U+8808
 F
@@ -438,7 +438,7 @@ $$
 
 $$
 R
-  貝 + 6
+  ⾙ + 6
 U
   U+8CCA
 V
@@ -497,7 +497,7 @@ $$
 
 $$
 R
-  魚 + 9
+  ⿂ + 9
 U
   U+9C02
 F

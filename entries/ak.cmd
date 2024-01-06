@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ak
-* %date-modified --> 2024-01-04
+* %date-modified --> 2024-01-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -61,7 +61,7 @@ $$
 
 $$
 R
-  厂 + 2
+  ⼚ + 2
 U
   U+5384
 A
@@ -110,7 +110,7 @@ $$
 
 $$
 R
-  口 + 8
+  ⼝ + 8
 U
   U+555E
 F
@@ -140,7 +140,7 @@ $$
 
 $$
 R
-  巾 + 9
+  ⼱ + 9
 U
   U+5E44
 F
@@ -162,7 +162,7 @@ $$
 
 $$
 R
-  手 + 9
+  ⼿ + 9
 U
   U+63E1
 V
@@ -208,7 +208,7 @@ $$
 
 $$
 R
-  水 + 9
+  ⽔ + 9
 U
   U+6E25
 F
@@ -245,7 +245,7 @@ $$
 
 $$
 R
-  阜 + 4
+  ⾩ + 4
 U
   U+9628
 V

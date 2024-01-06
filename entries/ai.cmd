@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ai
-* %date-modified --> 2024-01-04
+* %date-modified --> 2024-01-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -48,7 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $哎1
-- $𫫃1
+- $𫫃 (⿰口挨)1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -57,12 +57,12 @@ $$
 
 $$
 R
-  口 + 6
+  ⼝ + 6
 U
   U+54CE
 A
   ==
-  - $𫫃1 [[⿰口挨]]
+  - $𫫃 [[⿰口挨]]1
   -{.modern} 唉
   ==
 V
@@ -120,7 +120,7 @@ $$
 
 $$
 R
-  口 + 10
+  ⼝ + 10
 U
   U+2BAC3
 F
@@ -149,7 +149,7 @@ $$
 
 $$
 R
-  矢 + 8
+  ⽮ + 8
 U
   U+77EE
 F
@@ -190,7 +190,7 @@ $$
 - $曀3
 - $縊3
 - $翳3
-- $𦠉3
+- $𦠉 (⿰⺼壹)3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -199,7 +199,7 @@ $$
 
 $$
 R
-  尸 + 21
+  ⼫ + 21
 U
   U+5C6D
 V
@@ -245,7 +245,7 @@ $$
 
 $$
 R
-  日 + 12
+  ⽇ + 12
 U
   U+66C0
 F
@@ -270,7 +270,7 @@ $$
 
 $$
 R
-  糸 + 10
+  ⽷ + 10
 U
   U+7E0A
 F
@@ -297,7 +297,7 @@ $$
 
 $$
 R
-  羽 + 11
+  ⽻ + 11
 U
   U+7FF3
 F
@@ -348,7 +348,7 @@ $$
 
 $$
 R
-  肉 + 12
+  ⾁ + 12
 U
   U+26809
 F

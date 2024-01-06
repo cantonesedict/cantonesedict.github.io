@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> at
-* %date-modified --> 2023-12-29
-* %copyright-prior-years -->
+* %date-modified --> 2024-01-07
+* %copyright-prior-years --> 2023--
 
 %%%
 
@@ -54,7 +54,7 @@ $$
 
 $$
 R
-  手 + 3
+  ⼿ + 3
 U
   U+6264
 F

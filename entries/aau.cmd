@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aau
-* %date-modified --> 2024-01-04
+* %date-modified --> 2024-01-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -56,7 +56,7 @@ $$
 
 $$
 R
-  土 + 5
+  ⼟ + 5
 U
   U+5773
 F
@@ -102,7 +102,7 @@ $$
 
 $$
 R
-  手 + 5
+  ⼿ + 5
 U
   U+62D7
 F
@@ -182,7 +182,7 @@ $$
 
 $$
 R
-  凵 + 3
+  ⼐ + 3
 U
   U+51F9
 V
@@ -219,7 +219,7 @@ $$
 
 $$
 R
-  土 + 5
+  ⼟ + 5
 U
   U+5773
 A
@@ -268,7 +268,7 @@ $$
 
 $$
 R
-  手 + 5
+  ⼿ + 5
 U
   U+62D7
 F
@@ -323,7 +323,7 @@ $$
 
 $$
 R
-  言 + 5
+  ⾔ + 5
 U
   U+8A4F
 A

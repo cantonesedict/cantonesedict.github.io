@@ -6,9 +6,11 @@ RegexDictionaryReplacement: #.boilerplate.header-nav
         <nav class="sideways">
           ==
           - [Home](/)
+          - [Top](#)
           - [Index](/entries/)
-          - [Canto](/entries/cantonese)
-          - [Top~⤒](#)
+          - [Terms](/terms/)
+          - [Search](/search/)
+          - [Radicals](/radicals/)
           ==
         </nav>
       </header>

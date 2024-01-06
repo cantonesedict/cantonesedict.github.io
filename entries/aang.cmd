@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aang
-* %date-modified --> 2024-01-04
+* %date-modified --> 2024-01-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -57,7 +57,7 @@ $$
 
 $$
 R
-  瓦 + 14
+  ⽡ + 14
 U
   U+7516
 F
@@ -75,7 +75,7 @@ $$
 
 $$
 R
-  缶 + 14
+  ⽸ + 14
 U
   U+7F4C
 A

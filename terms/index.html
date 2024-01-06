@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="author" content="Conway">
+<meta name="description" content="Cantonese Dictionary, a modern edition of Williams' 1856 Tonic Dictionary: searchable index of Cantonese terms by Jyutping">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/res/styles/tonic.css">
+<title>Index of Cantonese terms by Jyutping | Cantonese Dictionary</title>
+</head>
+<body>
+<header>
+<nav class="sideways">
+<ul>
+<li>
+<a href="/">Home</a>
+</li>
+<li>
+<a href="#">Top</a>
+</li>
+<li>
+<a href="/entries/">Index</a>
+</li>
+<li>
+<a href="/terms/">Terms</a>
+</li>
+<li>
+<a href="/search/">Search</a>
+</li>
+<li>
+<a href="/radicals/">Radicals</a>
+</li>
+</ul>
+</nav>
+</header>
+<h1 class="modern">Index of Cantonese terms by Jyutping</h1>
+<div class="modern input-container">
+<p>
+<label for="filter"><b>Filter for Jyutping/Term:</b></label>
+<input type="text" id="filter" onkeyup="applyFilter()" placeholder="(tones are ignored)">
+</p>
+<noscript>
+<p>
+<strong>JavaScript is required for filter to work.</strong>
+</p>
+</noscript>
+</div>
+<p class="modern">
+See also: <a href="/entries/">Index of entry pages by Jyutping</a>.
+</p>
+<script>
+function normaliseString(str)
+{
+  return str.toLowerCase().trim().replace(/\s+/g, ' ');
+}
+
+function matchJyutping(filterString, jyutping)
+{
+  let tonelessJyutping = jyutping.replace(/[0-9-]/g, '');
+  let tonelessFilterString = filterString.replace(/[0-9-]/g, '');
+  return tonelessJyutping.indexOf(tonelessFilterString) > -1;
+}
+
+function matchTerm(filterString, term)
+{
+  return term.indexOf(filterString) > -1;
+}
+
+function applyFilter()
+{
+  let filterElement = document.getElementById('filter');
+  let filterString = normaliseString(filterElement.value);
+
+  for (const rowElement of document.querySelectorAll('tbody tr'))
+  {
+    let cells = rowElement.getElementsByTagName('td');
+    let jyutping = normaliseString(cells[0].textContent);
+    let term = normaliseString(cells[1].textContent);
+
+    let isJyutpingMatch = matchJyutping(filterString, jyutping);
+    let isTermMatch = matchTerm(filterString, term);
+    rowElement.style.display = (isJyutpingMatch || isTermMatch) ? '' : 'none';
+  }
+}
+
+window.onload = applyFilter;
+</script>
+<div class="wide">
+<table class="modern">
+<thead>
+<tr>
+<th>Jyutping</th>
+<th>Term</th>
+<th>Entry link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>a1</td>
+<td><span lang="zh-Hant">吖</span></td>
+<td><a href="/entries/aa#cantonese-吖">aa#cantonese-<span lang="zh-Hant">吖</span></a></td>
+</tr>
+<tr>
+<td>a1 maa3</td>
+<td><span lang="zh-Hant">吖嘛</span></td>
+<td><a href="/entries/aa#cantonese-吖嘛">aa#cantonese-<span lang="zh-Hant">吖嘛</span></a></td>
+</tr>
+<tr>
+<td>a3</td>
+<td><span lang="zh-Hant">啊</span></td>
+<td><a href="/entries/aa#cantonese-啊-final">aa#cantonese-<span lang="zh-Hant">啊</span>-final</a></td>
+</tr>
+<tr>
+<td>a4</td>
+<td><span lang="zh-Hant">呀</span></td>
+<td><a href="/entries/aa#cantonese-呀">aa#cantonese-<span lang="zh-Hant">呀</span></a></td>
+</tr>
+<tr>
+<td>aa1</td>
+<td><span lang="zh-Hant">吖</span></td>
+<td><a href="/entries/aa#cantonese-吖">aa#cantonese-<span lang="zh-Hant">吖</span></a></td>
+</tr>
+<tr>
+<td>aa3</td>
+<td><span lang="zh-Hant">啊</span></td>
+<td><a href="/entries/aa#cantonese-啊-final">aa#cantonese-<span lang="zh-Hant">啊</span>-final</a></td>
+</tr>
+<tr>
+<td>aa3</td>
+<td><span lang="zh-Hant">啊</span></td>
+<td><a href="/entries/aa#cantonese-啊-list">aa#cantonese-<span lang="zh-Hant">啊</span>-list</a></td>
+</tr>
+<tr>
+<td>aa3 caa1</td>
+<td><span lang="zh-Hant">阿差</span></td>
+<td><a href="/entries/caa#cantonese-阿差">caa#cantonese-<span lang="zh-Hant">阿差</span></a></td>
+</tr>
+<tr>
+<td>aai3</td>
+<td><span lang="zh-Hant">嗌</span></td>
+<td><a href="/entries/aai#cantonese-嗌">aai#cantonese-<span lang="zh-Hant">嗌</span></a></td>
+</tr>
+<tr>
+<td>aak1</td>
+<td><span lang="zh-Hant">呃</span></td>
+<td><a href="/entries/aak#cantonese-呃">aak#cantonese-<span lang="zh-Hant">呃</span></a></td>
+</tr>
+<tr>
+<td>aak3-2</td>
+<td><span lang="zh-Hant">鈪</span></td>
+<td><a href="/entries/aak#cantonese-鈪">aak#cantonese-<span lang="zh-Hant">鈪</span></a></td>
+</tr>
+<tr>
+<td>aan3</td>
+<td><span lang="zh-Hant">晏</span></td>
+<td><a href="/entries/aan#cantonese-晏">aan#cantonese-<span lang="zh-Hant">晏</span></a></td>
+</tr>
+<tr>
+<td>aan3 zau3</td>
+<td><span lang="zh-Hant">晏晝</span></td>
+<td><a href="/entries/aan#cantonese-晏晝">aan#cantonese-<span lang="zh-Hant">晏晝</span></a></td>
+</tr>
+<tr>
+<td>aap3-2</td>
+<td><span lang="zh-Hant">鴨</span></td>
+<td><a href="/entries/aap#cantonese-鴨">aap#cantonese-<span lang="zh-Hant">鴨</span></a></td>
+</tr>
+<tr>
+<td>aau2</td>
+<td><span lang="zh-Hant">拗</span></td>
+<td><a href="/entries/aau#cantonese-拗">aau#cantonese-<span lang="zh-Hant">拗</span></a></td>
+</tr>
+<tr>
+<td>aau3</td>
+<td><span lang="zh-Hant">詏</span></td>
+<td><a href="/entries/aau#cantonese-詏">aau#cantonese-<span lang="zh-Hant">詏</span></a></td>
+</tr>
+<tr>
+<td>ai1 ja4</td>
+<td><span lang="zh-Hant">哎吔</span></td>
+<td><a href="/entries/ai#cantonese-哎吔-pain">ai#cantonese-<span lang="zh-Hant">哎吔</span>-pain</a></td>
+</tr>
+<tr>
+<td>ai1 jaa1</td>
+<td><span lang="zh-Hant">哎吔</span></td>
+<td><a href="/entries/ai#cantonese-哎吔-indignation">ai#cantonese-<span lang="zh-Hant">哎吔</span>-indignation</a></td>
+</tr>
+<tr>
+<td>am2</td>
+<td><span lang="zh-Hant">揞</span></td>
+<td><a href="/entries/am#cantonese-揞">am#cantonese-<span lang="zh-Hant">揞</span></a></td>
+</tr>
+<tr>
+<td>am3 syun3</td>
+<td><span lang="zh-Hant">暗算</span></td>
+<td><a href="/entries/am#cantonese-暗算">am#cantonese-<span lang="zh-Hant">暗算</span></a></td>
+</tr>
+<tr>
+<td>ang2</td>
+<td><span lang="zh-Hant">㾘</span></td>
+<td><a href="/entries/ang#cantonese-㾘">ang#cantonese-<span lang="zh-Hant">㾘</span></a></td>
+</tr>
+<tr>
+<td>ap1</td>
+<td><span lang="zh-Hant">洽</span></td>
+<td><a href="/entries/ap#cantonese-洽">ap#cantonese-<span lang="zh-Hant">洽</span></a></td>
+</tr>
+<tr>
+<td>au3 nai4</td>
+<td><span lang="zh-Hant">漚泥</span></td>
+<td><a href="/entries/au#cantonese-漚泥">au#cantonese-<span lang="zh-Hant">漚泥</span></a></td>
+</tr>
+<tr>
+<td>baau3 caak3</td>
+<td><span lang="zh-Hant">爆坼</span></td>
+<td><a href="/entries/caak#cantonese-爆坼">caak#cantonese-<span lang="zh-Hant">爆坼</span></a></td>
+</tr>
+<tr>
+<td>bai3 ai3</td>
+<td><span lang="zh-Hant">贔屭</span></td>
+<td><a href="/entries/ai#cantonese-贔屭">ai#cantonese-<span lang="zh-Hant">贔屭</span></a></td>
+</tr>
+<tr>
+<td>bong1 can3</td>
+<td><span lang="zh-Hant">幫襯</span></td>
+<td><a href="/entries/can#cantonese-幫襯">can#cantonese-<span lang="zh-Hant">幫襯</span></a></td>
+</tr>
+<tr>
+<td>caa1</td>
+<td><span lang="zh-Hant">叉</span></td>
+<td><a href="/entries/caa#cantonese-叉">caa#cantonese-<span lang="zh-Hant">叉</span></a></td>
+</tr>
+<tr>
+<td>caa1 siu1</td>
+<td><span lang="zh-Hant">叉燒</span></td>
+<td><a href="/entries/caa#cantonese-叉燒">caa#cantonese-<span lang="zh-Hant">叉燒</span></a></td>
+</tr>
+<tr>
+<td>caa4</td>
+<td><span lang="zh-Hant">搽</span></td>
+<td><a href="/entries/caa#cantonese-搽-spread">caa#cantonese-<span lang="zh-Hant">搽</span>-spread</a></td>
+</tr>
+<tr>
+<td>caa5</td>
+<td><span lang="zh-Hant">搽</span></td>
+<td><a href="/entries/caa#cantonese-搽-smudge">caa#cantonese-<span lang="zh-Hant">搽</span>-smudge</a></td>
+</tr>
+<tr>
+<td>caa5 wo5</td>
+<td><span lang="zh-Hant">搽𢰸</span></td>
+<td><a href="/entries/caa#cantonese-搽𢰸">caa#cantonese-<span lang="zh-Hant">搽𢰸</span></a></td>
+</tr>
+<tr>
+<td>caai1</td>
+<td><span lang="zh-Hant">差</span></td>
+<td><a href="/entries/caai#cantonese-差">caai#cantonese-<span lang="zh-Hant">差</span></a></td>
+</tr>
+<tr>
+<td>caam5</td>
+<td><span lang="zh-Hant">鏨</span></td>
+<td><a href="/entries/caam#cantonese-鏨">caam#cantonese-<span lang="zh-Hant">鏨</span></a></td>
+</tr>
+<tr>
+<td>cam1</td>
+<td><span lang="zh-Hant">侵</span></td>
+<td><a href="/entries/cam#cantonese-侵">cam#cantonese-<span lang="zh-Hant">侵</span></a></td>
+</tr>
+<tr>
+<td>cam3</td>
+<td><span lang="zh-Hant">讖</span></td>
+<td><a href="/entries/cam#cantonese-讖">cam#cantonese-<span lang="zh-Hant">讖</span></a></td>
+</tr>
+<tr>
+<td>cam4 jat6</td>
+<td><span lang="zh-Hant">尋日</span></td>
+<td><a href="/entries/cam#cantonese-尋日">cam#cantonese-<span lang="zh-Hant">尋日</span></a></td>
+</tr>
+<tr>
+<td>can3</td>
+<td><span lang="zh-Hant">襯</span></td>
+<td><a href="/entries/can#cantonese-襯">can#cantonese-<span lang="zh-Hant">襯</span></a></td>
+</tr>
+<tr>
+<td>daa2 laang5 zan3</td>
+<td><span lang="zh-Hant">打冷震</span></td>
+<td><a href="/entries/zan#cantonese-打冷震">zan#cantonese-<span lang="zh-Hant">打冷震</span></a></td>
+</tr>
+<tr>
+<td>gam3 zai6</td>
+<td><span lang="zh-Hant">咁嚌</span></td>
+<td><a href="/entries/zai#cantonese-咁嚌">zai#cantonese-<span lang="zh-Hant">咁嚌</span></a></td>
+</tr>
+<tr>
+<td>hau6 mei5 zam2</td>
+<td><span lang="zh-Hant">後尾枕</span></td>
+<td><a href="/entries/zam#cantonese-後尾枕">zam#cantonese-<span lang="zh-Hant">後尾枕</span></a></td>
+</tr>
+<tr>
+<td>jat1 zan6</td>
+<td><span lang="zh-Hant">一陣</span></td>
+<td><a href="/entries/zan#cantonese-一陣-moment">zan#cantonese-<span lang="zh-Hant">一陣</span>-moment</a></td>
+</tr>
+<tr>
+<td>jat1 zan6</td>
+<td><span lang="zh-Hant">一陣</span></td>
+<td><a href="/entries/zan#cantonese-一陣-later">zan#cantonese-<span lang="zh-Hant">一陣</span>-later</a></td>
+</tr>
+<tr>
+<td>jat1 zan6 gaan1</td>
+<td><span lang="zh-Hant">一陣間</span></td>
+<td><a href="/entries/zan#cantonese-一陣間">zan#cantonese-<span lang="zh-Hant">一陣間</span></a></td>
+</tr>
+<tr>
+<td>jat1 zan6-2</td>
+<td><span lang="zh-Hant">一陣</span></td>
+<td><a href="/entries/zan#cantonese-一陣-later">zan#cantonese-<span lang="zh-Hant">一陣</span>-later</a></td>
+</tr>
+<tr>
+<td>lou5 can3</td>
+<td><span lang="zh-Hant">老襯</span></td>
+<td><a href="/entries/can#cantonese-老襯">can#cantonese-<span lang="zh-Hant">老襯</span></a></td>
+</tr>
+<tr>
+<td>waa6 zaai1</td>
+<td><span lang="zh-Hant">話齋</span></td>
+<td><a href="/entries/zaai#cantonese-話齋">zaai#cantonese-<span lang="zh-Hant">話齋</span></a></td>
+</tr>
+<tr>
+<td>za3</td>
+<td><span lang="zh-Hant">咋</span></td>
+<td><a href="/entries/zaa#cantonese-咋-3">zaa#cantonese-<span lang="zh-Hant">咋</span>-3</a></td>
+</tr>
+<tr>
+<td>za4</td>
+<td><span lang="zh-Hant">咋</span></td>
+<td><a href="/entries/zaa#cantonese-咋-4">zaa#cantonese-<span lang="zh-Hant">咋</span>-4</a></td>
+</tr>
+<tr>
+<td>zaa1</td>
+<td><span lang="zh-Hant">揸</span></td>
+<td><a href="/entries/zaa#cantonese-揸">zaa#cantonese-<span lang="zh-Hant">揸</span></a></td>
+</tr>
+<tr>
+<td>zaa1</td>
+<td><span lang="zh-Hant">渣</span></td>
+<td><a href="/entries/zaa#cantonese-渣">zaa#cantonese-<span lang="zh-Hant">渣</span></a></td>
+</tr>
+<tr>
+<td>zaa2</td>
+<td><span lang="zh-Hant">鮓</span></td>
+<td><a href="/entries/zaa#cantonese-鮓">zaa#cantonese-<span lang="zh-Hant">鮓</span></a></td>
+</tr>
+<tr>
+<td>zaa3</td>
+<td><span lang="zh-Hant">咋</span></td>
+<td><a href="/entries/zaa#cantonese-咋-3">zaa#cantonese-<span lang="zh-Hant">咋</span>-3</a></td>
+</tr>
+<tr>
+<td>zaa3 dai3</td>
+<td><span lang="zh-Hant">詐諦</span></td>
+<td><a href="/entries/zaa#cantonese-詐諦">zaa#cantonese-<span lang="zh-Hant">詐諦</span></a></td>
+</tr>
+<tr>
+<td>zaa4</td>
+<td><span lang="zh-Hant">咋</span></td>
+<td><a href="/entries/zaa#cantonese-咋-4">zaa#cantonese-<span lang="zh-Hant">咋</span>-4</a></td>
+</tr>
+<tr>
+<td>zaai1</td>
+<td><span lang="zh-Hant">齋</span></td>
+<td><a href="/entries/zaai#cantonese-齋">zaai#cantonese-<span lang="zh-Hant">齋</span></a></td>
+</tr>
+<tr>
+<td>zaak3</td>
+<td><span lang="zh-Hant">矺</span></td>
+<td><a href="/entries/zaak#cantonese-矺">zaak#cantonese-<span lang="zh-Hant">矺</span></a></td>
+</tr>
+<tr>
+<td>zaak6</td>
+<td><span lang="zh-Hant">矺</span></td>
+<td><a href="/entries/zaak#cantonese-矺">zaak#cantonese-<span lang="zh-Hant">矺</span></a></td>
+</tr>
+<tr>
+<td>zaam2</td>
+<td><span lang="zh-Hant">䁪</span></td>
+<td><a href="/entries/zaam#cantonese-䁪">zaam#cantonese-<span lang="zh-Hant">䁪</span></a></td>
+</tr>
+<tr>
+<td>zai1</td>
+<td><span lang="zh-Hant">擠</span></td>
+<td><a href="/entries/zai#cantonese-擠">zai#cantonese-<span lang="zh-Hant">擠</span></a></td>
+</tr>
+<tr>
+<td>zai2</td>
+<td><span lang="zh-Hant">仔</span></td>
+<td><a href="/entries/zai#cantonese-仔">zai#cantonese-<span lang="zh-Hant">仔</span></a></td>
+</tr>
+<tr>
+<td>zai3</td>
+<td><span lang="zh-Hant">掣</span></td>
+<td><a href="/entries/zai#cantonese-掣">zai#cantonese-<span lang="zh-Hant">掣</span></a></td>
+</tr>
+<tr>
+<td>zai6</td>
+<td><span lang="zh-Hant">嚌</span></td>
+<td><a href="/entries/zai#cantonese-嚌">zai#cantonese-<span lang="zh-Hant">嚌</span></a></td>
+</tr>
+<tr>
+<td>zam1 caa4 dai6 seoi2</td>
+<td><span lang="zh-Hant">斟茶遞水</span></td>
+<td><a href="/entries/zam#cantonese-斟茶遞水">zam#cantonese-<span lang="zh-Hant">斟茶遞水</span></a></td>
+</tr>
+<tr>
+<td>zam2 zyu6</td>
+<td><span lang="zh-Hant">枕住</span></td>
+<td><a href="/entries/zam#cantonese-枕住">zam#cantonese-<span lang="zh-Hant">枕住</span></a></td>
+</tr>
+<tr>
+<td>zam3</td>
+<td><span lang="zh-Hant">浸</span></td>
+<td><a href="/entries/zam#cantonese-浸">zam#cantonese-<span lang="zh-Hant">浸</span></a></td>
+</tr>
+<tr>
+<td>zam6</td>
+<td><span lang="zh-Hant">𠹻</span></td>
+<td><a href="/entries/zam#cantonese-𠹻">zam#cantonese-<span lang="zh-Hant">𠹻</span></a></td>
+</tr>
+<tr>
+<td>zan6 gaan1</td>
+<td><span lang="zh-Hant">陣間</span></td>
+<td><a href="/entries/zan#cantonese-陣間">zan#cantonese-<span lang="zh-Hant">陣間</span></a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<footer class="modern">
+© 2023–2024 Conway.<br>
+Source: <a href="https://github.com/cantonesedict/cantonesedict.github.io/blob/master/terms/index.cmd"><code>terms/index.cmd</code></a>.
+Last modified: <time datetime="2024-01-07">2024-01-07</time>.
+</footer>
+</body>
+</html>

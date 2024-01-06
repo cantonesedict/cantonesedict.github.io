@@ -12,10 +12,17 @@ RegexDictionaryReplacement: #.syntax.character-headings
 - queue_position: BEFORE #headings
 * ^[#]{3} (?P<addition_marker> [+]? )
     [ ] (?P<bracketed> \[? (?P<character> \S ) \]? ) (?P<tone_number> [1-6] )
-    (?P<composition> .*? ) [ ][|][ ] (?P<reading> .* )
+    (?P<etc> .*? ) [ ][|][ ] (?P<reading> .* )
     -->
-  ###{#\g<tone_number>\g<character> .williams\g<addition_marker>} <span class="headword">\g<bracketed>\g<composition></span> \g<reading>
+  ###{#\g<tone_number>\g<character> .williams\g<addition_marker>} <span class="headword">\g<bracketed>\g<etc></span> \g<reading>
 - concluding_replacements: #.syntax.addition-marker-to-class
+
+
+RegexDictionaryReplacement: #.syntax.radical-headings
+- queue_position: BEFORE #headings
+* ^[#]{2} [ ] (?P<radical> [⼀-⿕] )
+    -->
+  ##{#\g<radical> .modern} \g<radical>
 
 
 RegexDictionaryReplacement: #heading-permalinks
@@ -119,12 +126,29 @@ RegexDictionaryReplacement: #.syntax.entry-links
 * [$] (?P<jyutping> [a-z]+ )
     -->
   [\g<jyutping>](/entries/\g<jyutping>)
-* [$] (?P<character> [^a-z] ) (?P<jyutping> [a-z]+ ) (?P<tone_number> [1-6]? )
+* [$] (?P<character> [^a-z] ) [ ] (?P<etc> [\(\[]+ [\S]*? [\)\]]+ )
+  (?P<jyutping> [a-z]+ ) (?P<tone_number> [1-6] )
+    -->
+  [\g<character>~\g<etc>~\g<jyutping>\g<tone_number>](/entries/\g<jyutping>#\g<tone_number>\g<character>)
+* [$] (?P<character> [^a-z] )
+  (?P<jyutping> [a-z]+ ) (?P<tone_number> [1-6] )
     -->
   [\g<character>~\g<jyutping>\g<tone_number>](/entries/\g<jyutping>#\g<tone_number>\g<character>)
-* [$] (?P<character> [^a-z] ) (?P<tone_number> [1-6]? )
+* [$] (?P<character> [^a-z] ) [ ] (?P<etc> [\(\[]+ [\S]*? [\)\]]+ )
+  (?P<tone_number> [1-6] )
+    -->
+  [\g<character>~\g<etc>](#\g<tone_number>\g<character>)
+* [$] (?P<character> [^a-z] )
+  (?P<tone_number> [1-6] )
     -->
   [\g<character>](#\g<tone_number>\g<character>)
+
+
+RegexDictionaryReplacement: #.syntax.radical-links
+- queue_position: BEFORE #specified-links
+* \[ (?P<radical> [⼀-⿕] ) \]
+    -->
+  [\g<radical>](#\g<radical>)
 
 
 RegexDictionaryReplacement: #.syntax.round-bracket-wrap
