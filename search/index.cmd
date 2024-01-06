@@ -63,7 +63,7 @@ async function performSearch()
   }
   catch
   {
-    searchCharacters = [...searchString.substring(0, {SEARCH_MAX_CHAR_COUNT})];
+    searchCharacters = [...searchString].slice(0, {SEARCH_MAX_CHAR_COUNT});
   }
 
   let tbodyElement = document.getElementsByTagName('tbody')[0];
