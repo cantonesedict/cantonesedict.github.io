@@ -46,6 +46,30 @@ u<``<script>
 let characterPromise = fetch('character-index.json').then(response => response.json());
 let compositionPromise = fetch('composition-index.json').then(response => response.json());
 
+let nbsp = String.fromCodePoint(0x00A0);
+
+function appendCharacterWithComposition(targetElement, character, composition)
+{
+  let characterSpanElement = document.createElement('span');
+  characterSpanElement.lang = 'zh-Hant';
+  characterSpanElement.appendChild(document.createTextNode(character));
+  targetElement.appendChild(characterSpanElement);
+
+  if (composition === undefined)
+  {
+    return;
+  }
+
+  targetElement.appendChild(document.createTextNode(`${nbsp}(`));
+
+  let compositionSpanElement = document.createElement('span');
+  compositionSpanElement.lang = 'zh-Hant';
+  compositionSpanElement.appendChild(document.createTextNode(composition));
+  targetElement.appendChild(compositionSpanElement);
+
+  targetElement.appendChild(document.createTextNode(')'));
+}
+
 async function performSearch()
 {
   let characterJson = await characterPromise;
@@ -86,16 +110,12 @@ async function performSearch()
     }
 
     let composition = compositionJson[character];
-    let characterWithComposition =
-            (composition === undefined)
-              ? character
-              : `${character} (${composition})`;
     let codePoint = `U+${character.codePointAt(0).toString(16).toUpperCase()}`;
 
     let rowElement = tbodyElement.insertRow(-1);
 
     let characterCellElement = rowElement.insertCell(-1);
-    characterCellElement.appendChild(document.createTextNode(characterWithComposition));
+    appendCharacterWithComposition(characterCellElement, character, composition);
 
     let codePointCellElement = rowElement.insertCell(-1);
     codePointCellElement.appendChild(document.createTextNode(codePoint));
@@ -111,7 +131,6 @@ async function performSearch()
 
     for (const jyutping of jyutpingReadings)
     {
-      let nbsp = String.fromCodePoint(0x00A0);
       let syllable = jyutping.replace(/[1-6]/g, '');
       let tone = jyutping.replace(/[a-z]/g, '');
 
@@ -122,22 +141,7 @@ async function performSearch()
       linkElement.href = `/entries/${syllable}#${tone}${character}`;
       itemElement.appendChild(linkElement);
 
-      let characterSpanElement = document.createElement('span');
-      characterSpanElement.lang = 'zh-Hant';
-      characterSpanElement.appendChild(document.createTextNode(character));
-      linkElement.appendChild(characterSpanElement);
-
-      if (composition !== undefined)
-      {
-        linkElement.appendChild(document.createTextNode(`${nbsp}(`));
-
-        let compositionSpanElement = document.createElement('span');
-        compositionSpanElement.lang = 'zh-Hant';
-        compositionSpanElement.appendChild(document.createTextNode(composition));
-        linkElement.appendChild(compositionSpanElement);
-
-        linkElement.appendChild(document.createTextNode(')'));
-      }
+      appendCharacterWithComposition(linkElement, character, composition);
 
       let jyutpingTextNode = document.createTextNode(`${nbsp}${jyutping}`);
       linkElement.appendChild(jyutpingTextNode);
