@@ -223,6 +223,7 @@ class Indexer:
         ]
         self.character_index_object = self._gather_character_index()
         self.radical_index_object = self._gather_radical_index()
+        self.composition_index_object = self._gather_composition_index()
 
         Indexer._check_cantonese_entries(self.cantonese_entries)
 
@@ -256,19 +257,44 @@ class Indexer:
         with open('radicals/radical-index.json', 'w', encoding='utf-8') as json_file:
             json_file.write(nice_json)
 
+    def write_composition_index(self):
+        raw_json = json.dumps(self.composition_index_object, ensure_ascii=False, separators=(',', ':'), sort_keys=True)
+        nice_json = raw_json.replace(',', ',\n') + '\n'  # newlines but only at the top level
+
+        with open('search/composition-index.json', 'w', encoding='utf-8') as json_file:
+            json_file.write(nice_json)
+
     def _gather_character_index(self):
         # {character: [jyutping, ...], ...}
         object_ = collections.defaultdict(list)
         for entry in self.character_entries:
-            object_[entry.identify()].append(entry.jyutping)
+            object_[entry.character].append(entry.jyutping)
 
         return object_
 
     def _gather_radical_index(self):
-        # {radical: {residual_stroke_count: {character: [jyutping, ...]}}}
+        # {radical: {residual_stroke_count: {character: [jyutping, ...]}}, ...}
         object_ = collections.defaultdict(lambda: collections.defaultdict(lambda: collections.defaultdict(list)))
         for entry in self.character_entries:
-            object_[entry.radical][entry.residual_stroke_count][entry.identify()].append(entry.jyutping)
+            object_[entry.radical][entry.residual_stroke_count][entry.character].append(entry.jyutping)
+
+        return object_
+
+    def _gather_composition_index(self):
+        compositions_from_character = collections.defaultdict(set)
+        for entry in self.character_entries:
+            compositions_from_character[entry.character].add(entry.composition)
+
+        # {character: composition, ...}
+        object_ = {}
+        for character, compositions in compositions_from_character.items():
+            if len(compositions) > 1:
+                print(f'Error: character {character} has multiple compositions {compositions}', file=sys.stderr)
+                sys.exit(1)
+
+            composition = compositions.pop()
+            if composition:
+                object_[character] = composition
 
         return object_
 
@@ -336,7 +362,8 @@ class Indexer:
         if radical not in self.radical_index_object:
             return match.group()
 
-        j_from_c_from_r = self.radical_index_object[radical]  # {residual_stroke_count: {character: [jyutping, ...]}}
+        c_from_c = self.composition_index_object  # {character: composition, ...}
+        j_from_c_from_r = self.radical_index_object[radical]  # {residual: {character: [jyutping, ...]}, ...}
 
         return '\n'.join([
             "||||{.wide}",
@@ -354,7 +381,7 @@ class Indexer:
                     f'      <nav class="sideways">',
                     f'      ==',
                     *[
-                        f'      - ${character}{jyutping}'
+                        f'      - ${Indexer._append_composition(character, c_from_c)}{jyutping}'
                         for character, jyutping_readings in j_from_c_from_r[residual_stroke_count].items()
                         for jyutping in jyutping_readings
                     ],
@@ -367,6 +394,13 @@ class Indexer:
             "||||",
             "",
         ])
+
+    @staticmethod
+    def _append_composition(character, composition_from_character):
+        try:
+            return f'{character} ({composition_from_character[character]})'
+        except KeyError:
+            return character
 
     @staticmethod
     def _check_cantonese_entries(cantonese_entries):
@@ -484,9 +518,6 @@ class CharacterEntry:
         self.jyutping = jyutping
         self.composition = composition
 
-    def identify(self):
-        return f'{self.character}{f" ({self.composition})" if self.composition else ""}'
-
 
 class SplitCantoneseEntry(CantoneseEntry):
     def __lt__(self, other):
@@ -531,7 +562,7 @@ class Statistician:
             regex_pattern = r'^#{3}(?=\+)'
         else:
             raise ValueError
-    
+
         return len(re.findall(pattern=regex_pattern, string=cmd_content, flags=re.MULTILINE))
 
     @staticmethod
@@ -548,6 +579,7 @@ def main():
     indexer.update_radix_all()
     indexer.write_character_index()
     # indexer.write_radical_index()
+    indexer.write_composition_index()
 
     statistician = Statistician(indexer)
     statistician.print_statistics()
