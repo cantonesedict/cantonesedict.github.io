@@ -66,6 +66,7 @@ async function performSearch()
   let json = await promise;
 
   let searchElement = document.getElementById('search');
+  searchElement.value = searchElement.value.replace(/\s/g, '');
   let searchString = searchElement.value.toUpperCase().trim();
 
   let searchCharacters;
@@ -125,7 +126,7 @@ window.onload = performSearch;
 <footer class="modern">
 © 2024 Conway.<br>
 Source: <a href="https://github.com/cantonesedict/cantonesedict.github.io/blob/master/search/index.cmd"><code>search/index.cmd</code></a>.
-Last modified: <time datetime="2024-01-05">2024-01-05</time>.
+Last modified: <time datetime="2024-01-06">2024-01-06</time>.
 </footer>
 </body>
 </html>

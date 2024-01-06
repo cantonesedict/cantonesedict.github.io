@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Search by character or code point
-* %date-modified --> 2024-01-05
+* %date-modified --> 2024-01-06
 * %copyright-prior-years -->
 * %meta-description --> search by Chinese character or by Unicode code point
 
@@ -50,6 +50,7 @@ async function performSearch()
   let json = await promise;
 
   let searchElement = document.getElementById('search');
+  searchElement.value = searchElement.value.replace(/\s/g, '');
   let searchString = searchElement.value.toUpperCase().trim();
 
   let searchCharacters;
