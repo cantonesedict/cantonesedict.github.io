@@ -179,6 +179,13 @@ C
   - Fan Wan entry: Corrected ⿰衣鳥 to 擣.
   - Williams' 砧板: Now chopping boards in general (not necessarily a butcher's).
   ==
+E
+  ====
+  - 【砧板】 (zam1 baan2):
+    ++
+    1. A chopping board.
+    ++
+  ====
 $$
 
 ### 碪1 | _(1)Cham_ [[zam1]]

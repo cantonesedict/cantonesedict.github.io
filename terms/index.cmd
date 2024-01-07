@@ -337,6 +337,10 @@ window.onload = applyFilter;
     , 嚌
     , [zai#cantonese-嚌](/entries/zai#cantonese-嚌)
   //
+    , zam1 baan2
+    , 砧板
+    , [zam#cantonese-砧板](/entries/zam#cantonese-砧板)
+  //
     , zam1 caa4 dai6 seoi2
     , 斟茶遞水
     , [zam#cantonese-斟茶遞水](/entries/zam#cantonese-斟茶遞水)
