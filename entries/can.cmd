@@ -632,7 +632,7 @@ W
     - to embrace an opportunity;
     - at the time of;
     - _ch(')an(3) (1)h(u") (2)t(a/) (5)sh(i/)_
-        [[caan3 heoi1 daa2 si5 趁墟打市]],
+        [[can3 heoi1 daa2 si5 趁墟打市]],
         to go to market;
     - _ch(')an(3) (4)sh(i/) hau(6)_
         [[can3 si4 hau6 趁時候]]
