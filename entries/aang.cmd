@@ -123,4 +123,15 @@ W
         a water pitcher.
     ==
   ====
+E
+  ====
+  - 【罌】 (aang1):
+    ++
+    1. A jar or cylindrical-ish container.
+       ==
+       - 罌鹽 (aang1 jim4): "[The] jar of salt."
+       - 買多罌 (maai5 do1 aang1): "Buy [one] more jar."
+       ==
+    ++
+  ====
 $$

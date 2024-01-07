@@ -133,6 +133,10 @@ window.onload = applyFilter;
     , 晏晝
     , [aan#cantonese-晏晝](/entries/aan#cantonese-晏晝)
   //
+    , aang1
+    , 罌
+    , [aang#cantonese-罌](/entries/aang#cantonese-罌)
+  //
     , aap3-2
     , 鴨
     , [aap#cantonese-鴨](/entries/aap#cantonese-鴨)
