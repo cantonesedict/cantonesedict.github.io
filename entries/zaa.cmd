@@ -443,8 +443,19 @@ W
         rank, dirty, foul.
     ==
   ====
+C
+  ==
+  - Williams' 揦鮓: Corrected _l(a/)(6)_ [[laa6]] to _(5)l(a/)_ [[laa5]].
+  ==
 E
   ====
+  - 【揦鮓】 (laa5 zaa2):
+    ++
+    1. Dirty.
+      ==
+      - 𨋢掣揦鮓 (lip1 zai3 laa5 zaa2): "[The] lift button [is] dirty."
+      ==
+    ++
   - 【鮓】 (zaa2):
     ++
     1. Low quality or crappy.
