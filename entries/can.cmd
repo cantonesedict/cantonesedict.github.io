@@ -280,7 +280,7 @@ C
   ==
 S
   ==
-  - $親can3 (TODO)
+  - $親can3
   ==
 $$
 
@@ -656,13 +656,14 @@ C
 $$
 
 
-##{#3 .williams} Ch(')an(3) [[can3 陰去]]
+##{#3 .williams} Ch(')an(3) <ins class="modern">Ts(')an(3)</ins> [[can3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
 - $櫬3
 - $襯3
+- $親3
 - $趁3
 - $趂3
 - $齔3
@@ -762,6 +763,41 @@ E
        ==
     ++
   ====
+$$
+
+###+ 親3 | _Ts(')an(3)_ [[can3]]
+
+$$
+R
+  ⾒ + 9
+U
+  U+89AA
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ====
+  - The reading _ts(')an(3)_ [[can3]] for 親 is not present in Williams;
+    an entry is included here for completeness.
+    ++
+    1. Pertaining to the in-laws.
+       ==
+       - 親家 (can3 gaa1): "[The] in-laws' family [of my son/daughter]."
+       ==
+    ++
+  ====
+  --
+  Olden attestation for 親 _ts(')an(3)_ [[can3]] meaning "in-laws"::
+  --
+  ==
+  - ::K. (:親:) [...]^(:又《唐韻》七遴切《集韻》《韻會》七刃切《正韻》寸遴切𠀤七去聲:)\
+    [...]　(:又《廣韻》親家也《集韻》婚姻相謂爲親:)[...]::
+  ==
+S
+  ==
+  - $親can1
+  ==
 $$
 
 ### 趁3 | _Ch(')an(3)_ [[can3]]
