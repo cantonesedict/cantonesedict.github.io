@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of entry pages by Jyutping
-* %date-modified --> 2024-01-07
+* %date-modified --> 2024-01-09
 * %copyright-prior-years --> 2023--
 * %meta-description --> index of entry pages by Jyutping
 
@@ -132,7 +132,7 @@ See also: [Index of Cantonese terms by Jyutping](/terms/).
 - $cai
 - $cak
 - $cam
-- $can (work in progress)
+- $can
 - $cang (work in progress)
 - $cap (work in progress)
 - $cat (work in progress)
