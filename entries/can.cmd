@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2024-01-07
+* %date-modified --> 2024-01-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -54,6 +54,7 @@ $$
 =={.modern}
 - $嗔1
 - $瞋1
+- $親1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -125,6 +126,108 @@ C
   - Fan Wan and Williams both print this as ⿰目眞,
     but no separate code point to U+778B~瞋 exists for this form
     (blame Han unification inconsistency).
+  ==
+$$
+
+### 親1 | _(1)Ts(')an_ [[can1]]
+
+$$
+R
+  ⾒ + 9
+U
+  U+89AA
+F
+  ==
+  - [[F1.81 親]] 愛也近也姻也眷也
+  ==
+W
+  ====
+  - [[Page~554 (1)親]]
+    ==
+    - To love, to be attached to;
+    - liking, pleased with;
+    - near, intimate;
+    - near to, belonging to one's self, personal, myself;
+    - a relative, related to, having affinity, kindred, kin, kith;
+    - parents;
+    - a wife;
+    - affianced;
+    - used for _(1)san_ [[san1 新]], new;
+    - _(1)ts(')an ts(')ik(7)_
+        [[can1 cik1 親戚]]
+        one's relatives;
+    - _[(2)]ts(')(u") (1)ts(')an_
+        [[ceoi2 can1 娶親]],
+        to take a wife;
+    - _(4)shing (1)ts(')an_
+        [[sing4 can1 成親]],
+        to consummate a matriage;
+    - _(4)(i/)m (1)ts(')an_ [[jim4 can1 嚴親]]
+        or
+      _f(u/)(6) (1)ts(')an_ [[fu6 can1 父親]],
+        a father;
+    - _ts(')z' (1)ts(')an_ [[ci4 can1 慈親]]
+        or
+      _(5)m(o\) (1)ts(')an_ [[mou5 can1 母親]],
+        a mother;
+    - _(4)ying (1)ts(')an_
+        [[jing4 can1 迎親]],
+        to escort the bride;
+    - _teng(6) (4)t(')au (1)ts(')an sz'(6)_
+        [[deng6 tau1 can1 si6 定頭親事]]
+        contracted the marriage;
+    - _(5)yau (1)ts(')an_
+        [[jau5 can1 有親]],
+        related to him;
+    - _(1)ts(')an pat(7) (2)s(e/)_
+        [[can1 bat1 se2 親筆寫]],
+        wrote it myself;
+    - _(2)kong (1)ts(')an (2)h(o\) (2)hau l(a/)n(6)_
+        [[gong2 can1 hou2 hau2 laan6]]
+        split my mouth if I ever said so;
+    - _(1)ts(')an (i/)t(9)_
+        [[can1 jit6 親熱]]
+        very intimate;
+    - _(1)ts(')an oi(3)_
+        [[can1 oi3 親愛]]
+        to love much;
+    - _(1)ts(')an kan(6)_
+        [[can1 gan6 親近]]
+        near to one;
+        nearly related;
+    - _(1)ts(')an (2)tsui_
+        [[can1 zeoi2 親嘴]],
+        to kiss;
+    - _p(')ung(3) (1)ts(')an_
+        [[pung3 can1]],
+        to run against;
+    - _kw(a/)n(3) (1)ts(')an_
+        [[gwaan3 can1]],
+        to slip down;
+    - _(1)ts(')an (5)ng(a/)n k(i/)n(3)_
+        [[can1 ngaan5 gin3 親眼見]]
+        I saw it myself;
+    - _(1)ts(')an sh(e/)ung(6) (1)k(a/) (1)ts(')an_
+        [[can1 soeng6 gaa1 can1 親上加親]],
+        to be doubly connected;
+    - _(4)p(')an (4)k(')ung t(u")n(6) luk(9) (1)ts(')an_
+        [[pan4 kung4 dyun6 luk6 can1 貧窮斷六親]],
+        nobody knows his poor relations.
+    ==
+  ====
+C
+  ==
+  - Williams' 娶親:
+    Changed Middle Chinese _ts(')(u")(3)_ [[ceoi3]]
+    to common reading _(2)ts(')(u")_ [[ceoi2]].
+  - Williams' 成親:
+    There is no connotation of sexual consummation in the Chinese.
+    Although 成 can mean "complete" or "fulfil",
+    I think it is better rendered here as "become".
+  ==
+S
+  ==
+  - $親can3 (TODO)
   ==
 $$
 
