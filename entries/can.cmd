@@ -53,6 +53,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $嗔1
+- $嚫1
 - $瞋1
 - $親1
 ==
@@ -97,6 +98,44 @@ C
 S
   ==
   - $嗔tin4 (TODO)
+  ==
+$$
+
+###+ 嚫1 | _(1)Ts(')an_ [[can1]]
+
+$$
+R
+  ⼝ + 16
+U
+  U+56AB
+A
+  ==
+  - $親1
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~554 (1)親; here normalised to 嚫]]
+    ==
+    - [[...]]
+    - _(2)kong (1)ts(')an (2)h(o\) (2)hau l(a/)n(6)_
+        [[gong2 can1 hou2 hau2 laan6 講嚫好口爛]]
+        split my mouth if I ever said so;
+    - [[...]]
+    - _p(')ung(3) (1)ts(')an_
+        [[pung3 can1 碰嚫]],
+        to run against;
+    - _kw(a/)n(3) (1)ts(')an_
+        [[gwaan3 can1 躀嚫]],
+        to slip down;
+    - [[...]].
+    ==
+  ====
+C
+  ==
+  - Williams provides no explanation for the vernacular _(1)ts(')an_ [[can1]],
+    notwithstanding he has supplied examples of its use.
   ==
 $$
 
@@ -182,9 +221,7 @@ W
     - _(1)ts(')an pat(7) (2)s(e/)_
         [[can1 bat1 se2 親筆寫]],
         wrote it myself;
-    - _(2)kong (1)ts(')an (2)h(o\) (2)hau l(a/)n(6)_
-        [[gong2 can1 hou2 hau2 laan6]]
-        split my mouth if I ever said so;
+    - [[see $嚫can1 for vernacular senses]]
     - _(1)ts(')an (i/)t(9)_
         [[can1 jit6 親熱]]
         very intimate;
@@ -198,12 +235,7 @@ W
     - _(1)ts(')an (2)tsui_
         [[can1 zeoi2 親嘴]],
         to kiss;
-    - _p(')ung(3) (1)ts(')an_
-        [[pung3 can1]],
-        to run against;
-    - _kw(a/)n(3) (1)ts(')an_
-        [[gwaan3 can1]],
-        to slip down;
+    - [[...]]
     - _(1)ts(')an (5)ng(a/)n k(i/)n(3)_
         [[can1 ngaan5 gin3 親眼見]]
         I saw it myself;
@@ -217,11 +249,14 @@ W
   ====
 C
   ==
+  - Williams provides no explanation for the vernacular _(1)ts(')an_ [[can1]],
+    notwithstanding he has supplied examples of its use.
+    Here it is normalised to 嚫; **see $嚫can1 for the canonical entry**.
   - Williams' 娶親:
     Changed Middle Chinese _ts(')(u")(3)_ [[ceoi3]]
     to common reading _(2)ts(')(u")_ [[ceoi2]].
   - Williams' 成親:
-    There is no connotation of sexual consummation in the Chinese.
+    There is no connotation of sexual consummation in 成親.
     Although 成 can mean "complete" or "fulfil",
     I think it is better rendered here as "become".
   ==
