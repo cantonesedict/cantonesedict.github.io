@@ -137,6 +137,24 @@ C
   - Williams provides no explanation for the vernacular _(1)ts(')an_ [[can1]],
     notwithstanding he has supplied examples of its use.
   ==
+E
+  ====
+  - 【嚫】 (can1):
+    ++
+    1. Suffixed after a verb to mark negative consequence.
+       ==
+       - 冷嚫 (laang5 can1): "[I've] caught [a] cold."
+       - 撞嚫 (zong6 can1): "[I've been] bumped into."
+       - 整嚫 (zing2 can1): "[I've] hurt [myself]."
+       ==
+    1. Suffixed after a verb to indicate "every time".
+       ==
+       - 上嚫都漏 (soeng5 can1 dou1 lau6): "Every time [I] chow, [I] leak [good tiles]."
+       - 射嚫都中 (se6 can1 dou1 zung3): "Every time [he] shoots, [he's] on target."
+       - 飲嚫都係當歸 (jam2 can1 dou1 hai6 dong1 gwai1): "Every time [she] drinks [medicine], it's dong quai."
+       ==
+    ++
+  ====
 $$
 
 ### 瞋1 | _(1)Ch(')an_ [[can1]]
