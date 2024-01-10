@@ -106,4 +106,14 @@ W
         a lamp.
     ==
   ====
+E
+  ====
+  - 【盞】 (zaan2):
+    ++
+    1. Classifier for lamps or lights.
+       ==
+       - 盞燈壞咗 (zaan2 dang1 waai6 zo2): "[The] light's broken."
+       ==
+    ++
+  ====
 $$
