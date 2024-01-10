@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $琖2
 - $盞2
+- $醆2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -115,5 +116,28 @@ E
        - 盞燈壞咗 (zaan2 dang1 waai6 zo2): "[The] light's broken."
        ==
     ++
+  ====
+$$
+
+### 醆2 | _(2)Ch(a/)n_ [[zaan2]]
+
+$$
+R
+  ⾣ + 8
+U
+  U+9186
+F
+  ==
+  - [[F2.69 醆]] ::爵也夏曰醆殷曰[斝]周曰爵皆酒器也::
+  - [[F2.69 琖]] 同上
+  ==
+W
+  ====
+  - [[Page~19|n62 (2)醆]]
+    ==
+    - Muddy, unsettled spirits;
+    - liquor beginning to clear;
+    - a cup, a goblet.
+    ==
   ====
 $$
