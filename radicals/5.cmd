@@ -74,6 +74,14 @@ For all radicals, see [Index of characters by radical](./).
       - $珍zan1
       ==
       </nav>
+  //
+    , 8
+    ,
+      <nav class="sideways">
+      ==
+      - $琖zaan2
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⽟-characters ##>

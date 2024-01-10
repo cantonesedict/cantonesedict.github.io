@@ -49,10 +49,36 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $琖2
 - $盞2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 琖2 | _(2)Ch(a/)n_ [[zaan2]]
+
+$$
+R
+  ⽟ + 8
+U
+  U+7416
+F
+  ==
+  - [[F2.69 醆]] ::爵也夏曰醆殷曰[斝]周曰爵皆酒器也::
+  - [[F2.69 琖]] 同上
+  ==
+W
+  ====
+  - [[Page~19|n62 (2)琖]]
+    ==
+    - A wine-cup, made deeper than the preceding [[$盞2]], of jade, or other valuable stone.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 牽 (but with top similar to 立) to 斝.
+  ==
+$$
 
 ### 盞2 | _(2)Ch(a/)n_ [[zaan2]]
 
