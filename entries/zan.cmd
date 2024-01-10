@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zan
-* %date-modified --> 2024-01-07
+* %date-modified --> 2024-01-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -473,7 +473,7 @@ W
   ====
   - [[Page~17|n60 震(3)]]
     --
-    Interchanged with the last [[振]].
+    Interchanged with the last [[$振3]].
     --
     ==
     - To quiver;

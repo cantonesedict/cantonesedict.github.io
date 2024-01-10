@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2024-01-07
+* %date-modified --> 2024-01-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -207,7 +207,7 @@ W
   ====
   - [[Page~552 (1)駸]]
     ==
-    - Occurs used for the preceding [[侵]];
+    - Occurs used for the preceding [[$侵1]];
     - properly a swift horse;
     - _(1)ts(')am (1)ts(')am_
         [[cam1 cam1 駸駸]],
