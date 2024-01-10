@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2023-08-02
-* %copyright-prior-years -->
+* %date-modified --> 2024-01-10
+* %copyright-prior-years --> 2023--
 
 %%%
-
---{.modern}
-[[From Page~19|n62 (Ch(a/))n and Page~555 (Ts(a/)n) of the original onwards.]]
---
 
 #{.williams} Ch(a/)n. Ts(a/)n. [[zaan]]
 
@@ -21,3 +17,27 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [[Work in progress]]
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Ch(a/)n. [[Page~19|n62]]
+  - Ts(a/)n. [[Page~555]]
+  ==
+WP
+  ==
+  - Ch(a/)n <span class="modern">= [tɕaːn]</span>
+  - Ts(a/)n <span class="modern">= [tsaːn]</span>
+  ==
+MP
+  ==
+  - zaan = [tsaːn], [tɕaːn]
+  ==
+$$
