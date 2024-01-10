@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [zaan2](#2)
 ==
 </nav>
 <## /tones ##>
@@ -40,4 +41,43 @@ MP
   ==
   - zaan = [tsaːn], [tɕaːn]
   ==
+$$
+
+
+##{#2 .williams} (2)Ch(a/)n (2)Ts(a/)n [[zaan2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $盞2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 盞2 | _(2)Ch(a/)n_ [[zaan2]]
+
+$$
+R
+  ⽫ + 8
+U
+  U+76DE
+F
+  ==
+  - [[F2.69 盞]] 酒盞
+  ==
+W
+  ====
+  - [[Page~19|n62 (2)盞]]
+    ==
+    - A shallow cup for oil;
+    - a wine saucer;
+    - the classifier of lamps;
+    - _(1)tang (2)ch(a/)n_
+        [[dang1 zaan2 燈盞]],
+        a saucer for a night lamp;
+    - _yat(7) (2)ch(a/)n (1)tang_
+        [[jat1 zaan2 dang1 一盞燈]],
+        a lamp.
+    ==
+  ====
 $$
