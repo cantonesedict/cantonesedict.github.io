@@ -185,6 +185,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $撰6
+- $站6
 - $譔6
 - $饌6
 ==
@@ -244,6 +245,34 @@ S
   - $撰syun2 (TODO)
   - $撰syun3 (TODO)
   - $撰zaan3
+  ==
+$$
+
+### 站6 | _Ch(a/)n(6)_ [[zaan6]]
+
+$$
+R
+  ⽴ + 5
+U
+  U+7AD9
+F
+  ==
+  - [[F2.71 站]] 站立也又音賺
+  ==
+W
+  ====
+  - [[Page~19|n62 站(6)]]
+    --
+    [[Idiosyncratic reading Fan Wan; **see $站zaam6 for the canonical entry**.]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Note that Fan Wan considers 賺 to be read _ch(a/)m(6)_ [[zaam6]].
+  ==
+S
+  ==
+  - $站zaam6
   ==
 $$
 

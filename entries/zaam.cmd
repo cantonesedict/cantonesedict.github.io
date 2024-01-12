@@ -379,6 +379,10 @@ R
   ⽴ + 5
 U
   U+7AD9
+V
+  ==
+  - zaan6 (uncommon)
+  ==
 F
   ==
   - [[F2.71 站 _Ch(a/)n(6)_ (zaan6)]] 站立也又音賺
@@ -398,11 +402,29 @@ W
         [[jat1 zaam6 lou6 一站路]]
         a stage, usually reckoned to be a league.
     ==
+  - [[Page~19|n62 站(6) _Ch(a/)n(6)_ (zaan6); here normalised to _Ch(a/)m(6)_ (zaam6)]]
+    ==
+    - To stand;
+    - to stand erect;
+    - to stop;
+    - a stoppage;
+    - _[ch(a/)m](6) (2)h(i/) (4)loi_
+        [[zaam6 hei2 loi4 站起來]],
+        stand up!
+    - _[ch(a/)m](6) (1)p(a/)n_
+        [[zaam6 baan1 站班]],
+        to file off in rank, and salute an officer.
+    ==
   ====
 C
   ==
+  - The uncommon reading zaan6 is that given as canonical in Fan Wan.
   - Fan Wan entry: Note that Fan Wan considers 賺 to be read _ch(a/)m(6)_ [[zaam6]].
   - Williams' 驛站: Stage meaning a relay station for horses.
+  ==
+S
+  ==
+  - $站zaan6
   ==
 $$
 
