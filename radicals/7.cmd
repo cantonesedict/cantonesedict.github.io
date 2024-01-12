@@ -380,6 +380,14 @@ For all radicals, see [Index of characters by radical](./).
       - $軫can2
       ==
       </nav>
+  //
+    , 8
+    ,
+      <nav class="sideways">
+      ==
+      - $輚zaan6
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⾞-characters ##>

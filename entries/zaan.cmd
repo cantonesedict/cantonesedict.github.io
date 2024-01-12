@@ -188,6 +188,7 @@ $$
 - $棧6
 - $站6
 - $譔6
+- $輚6
 - $饌6
 ==
 </nav>
@@ -351,6 +352,30 @@ W
     - _p(a/)i(3) ch(a/)n(6)_
         [[baai3 zaan6 拜譔]]
         to prepare a eulogistic paper.
+    ==
+  ====
+$$
+
+### 輚6 | _Ch(a/)n(6)_ [[zaan6]]
+
+$$
+R
+  ⾞ + 8
+U
+  U+8F1A
+F
+  ==
+  [[F2.71 輚]] 臥車
+  ==
+W
+  ====
+  - [[Page~19|n62 輚(6)]]
+    ==
+    - A tumbril for carrying the wounded;
+    - a hearse;
+    - _ch(a/)n(6) l(o\)(6)_
+        [[zaan6 lou6 輚輅]]
+        a military carriage for sleeping in.
     ==
   ====
 $$
