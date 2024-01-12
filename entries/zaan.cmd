@@ -185,6 +185,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $撰6
+- $譔6
 - $饌6
 ==
 </nav>
@@ -197,6 +198,10 @@ R
   ⼿ + 12
 U
   U+64B0
+A
+  ==
+  -{.modern} $譔6
+  ==
 V
   ==
   - zaan3 (common)
@@ -240,6 +245,39 @@ S
   - $撰syun3 (TODO)
   - $撰zaan3
   ==
+$$
+
+### 譔6 | _Ch(a/)n(6)_ [[zaan6]]
+
+$$
+R
+  ⾔ + 12
+U
+  U+8B54
+V
+  ==
+  - zaan3 (common)
+  ==
+F
+  ==
+  - [[F2.71 譔]] 脩也作也作文曰譔文
+  ==
+W
+  ====
+  - [[Page~19|n62 譔(6)]]
+    --
+    Same as the above [[$撰6]].
+    --
+    ==
+    - To exhort by precepts;
+    - _ch(a/)n(6) (4)man_
+        [[zaan6 man4 譔文]],
+        to write essays;
+    - _p(a/)i(3) ch(a/)n(6)_
+        [[baai3 zaan6 拜譔]]
+        to prepare a eulogistic paper.
+    ==
+  ====
 $$
 
 ### 饌6 | _Ch(a/)n(6)_ [[zaan6]]
