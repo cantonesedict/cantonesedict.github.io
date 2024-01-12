@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [zaan2](#2)
 - [zaan3](#3)
+- [zaan6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -171,6 +172,71 @@ C
   ==
 S
   ==
+  - $撰syun2 (TODO)
+  - $撰syun3 (TODO)
   - $撰zaan6
+  ==
+$$
+
+
+##{#6 .williams} Ch(a/)n(6) [[zaan6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $撰6
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 撰6 | _Ch(a/)n(6)_ [[zaan6]]
+
+$$
+R
+  ⼿ + 12
+U
+  U+64B0
+V
+  ==
+  - zaan3 (common)
+  ==
+F
+  ==
+  - [[F2.71 撰]] ::造也[脩]也述也具也翰林又修撰::
+  ==
+W
+  ====
+  - [[Page~19|n62 撰(6)]]
+    ==
+    - To regulate, to correct, to dispose in order;
+    - to grasp;
+    - to compose, to record;
+    - a rule, a statute;
+    - a received maxim;
+    - a business, an act;
+    - to edit, to revise books, to publish;
+    - _(1)sau ch(a/)n(6)_
+        [[sau1 zaan6 修撰]]
+        the first H(a/)nlin [[翰林]] academician;
+    - _ch(a/)n(6) shut(9)_
+        [[zaan6 seot6 撰述]],
+        to narrate.
+    ==
+    --
+    Read _(2)s(u")n_ [[syun2]]; [[**see $撰syun2**]].
+    --
+    --
+    Read _s(u")n(3)_ [[syun3]]; [[**see $撰syun3**]].
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 㫦 to 脩.
+  ==
+S
+  ==
+  - $撰syun2 (TODO)
+  - $撰syun3 (TODO)
+  - $撰zaan3
   ==
 $$
