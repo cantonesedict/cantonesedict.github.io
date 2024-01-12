@@ -190,6 +190,7 @@ $$
 - $綻6
 - $虥6
 - $譔6
+- $贃6
 - $輚6
 - $饌6
 ==
@@ -417,6 +418,25 @@ W
         [[baai3 zaan6 拜譔]]
         to prepare a eulogistic paper.
     ==
+  ====
+$$
+
+### 贃6 | _Ch(a/)n(6)_ [[zaan6]]
+
+$$
+R
+  ⾙ + 11
+U
+  U+8D03
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~20|n63 贃(6)]]
+    --
+    An unauthorized word
+    [[here normalised to 賺; **see $賺zaan6 for the canonical entry**]].
+    --
   ====
 $$
 
