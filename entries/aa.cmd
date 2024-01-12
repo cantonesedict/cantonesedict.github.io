@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2024-01-07
+* %date-modified --> 2024-01-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -219,7 +219,7 @@ W
     [[here normalised to 吖; **see $吖aa1 for the canonical entry**]].
     --
     --
-    Read _(4)ng(a/)_ [[ngaa4]]: [[**see $呀ngaa4**]].
+    Read _(4)ng(a/)_ [[ngaa4]]; [[**see $呀ngaa4**]].
     --
   ====
 S
