@@ -155,6 +155,14 @@ For all radicals, see [Index of characters by radical](./).
       - $儳caam3
       ==
       </nav>
+  //
+    , 19
+    ,
+      <nav class="sideways">
+      ==
+      - $儹zaan2
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⼈-characters ##>

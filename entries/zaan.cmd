@@ -52,6 +52,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $儧2
+- $儹2
 - $琖2
 - $盞2
 - $醆2
@@ -76,6 +77,30 @@ W
     --
     [[Alternative form of 儹. **See $儹zaan2 for the canonical entry.**]]
     --
+  ====
+$$
+
+###+ 儹2 | _(2)Ts(a/)n_ [[zaan2]]
+
+$$
+R
+  ⼈ + 19
+U
+  U+5139
+A
+  ==
+  - $儧2
+  ==
+F
+  ==
+  [[F2.69 儹]] 積儹聚也
+  ==
+W
+  ====
+  - [[Page~555 (2)儧; here normalised to 儹]]
+    ==
+    - To accumulate, to collect together, to hoard up, to store.
+    ==
   ====
 $$
 
