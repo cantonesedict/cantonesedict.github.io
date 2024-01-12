@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2024-01-10
+* %date-modified --> 2024-01-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zaan2](#2)
+- [zaan3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -140,4 +141,36 @@ W
     - a cup, a goblet.
     ==
   ====
+$$
+
+
+##{#3 .williams} <ins class="modern">Ch(a/)n(3)</ins> Ts(a/)n(3) [[zaan3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $撰3
+==
+</nav>
+<## /tone-3-characters ##>
+
+###+ 撰3 | _Ch(a/)n(3)_ [[zaan3]]
+
+$$
+R
+  ⼿ + 12
+U
+  U+64B0
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation; **see $撰zaan6 for the canonical entry**.
+  ==
+S
+  ==
+  - $撰zaan6
+  ==
 $$
