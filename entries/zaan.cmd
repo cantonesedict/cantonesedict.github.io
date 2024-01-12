@@ -185,6 +185,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $撰6
+- $饌6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -239,4 +240,38 @@ S
   - $撰syun3 (TODO)
   - $撰zaan3
   ==
+$$
+
+### 饌6 | _Ch(a/)n(6)_ [[zaan6]]
+
+$$
+R
+  ⾷ + 12
+U
+  U+994C
+F
+  ==
+  [[F2.71 饌]] 具食
+  ==
+W
+  ====
+  - [[Page~19|n62 饌(6)]]
+    ==
+    - To eat, to drink; to feed persons;
+    - to provide for;
+    - dressed food[;]
+    - _ch(')(i/)t(8) ch(a/)n(6)_
+        [[cit3 zaan6 設饌]]
+        to set out a dinner;
+    - _shing(6) ch(a/)n(6)_
+        [[sing6 zaan6 盛饌]]
+        a banquet;
+    - _ts(')oi(3) ch(a/)n(6)_
+        [[coi3 zaan6 菜饌]]
+        food;
+    - _(5)yau mat(7) (4)ng(a/)u ch(a/)n(6)_
+        [[jau5 mat1 ngaau4 zaan6 有乜餚饌]]
+        what delicacy did you have for a relish?
+    ==
+  ====
 $$
