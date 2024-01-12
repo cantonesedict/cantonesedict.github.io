@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2024-01-07
+* %date-modified --> 2024-01-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -266,7 +266,7 @@ W
     - used by some for baptize.
     ==
     --
-    Vulgarly pronounced _(5)y(a/)m_ [[jaam5]]; [[see $蘸jaam5]].
+    Vulgarly pronounced _(5)y(a/)m_ [[jaam5]]; [[**see $蘸jaam5**]].
     --
   ====
 C

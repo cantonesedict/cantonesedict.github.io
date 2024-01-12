@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> au
-* %date-modified --> 2024-01-07
+* %date-modified --> 2024-01-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -381,7 +381,7 @@ W
         to fry eels in pork fat, _met._ to add insult to injury.
     ==
     --
-    Read _(1)au_ [[au1]]; [[see $漚au1]].
+    Read _(1)au_ [[au1]]; [[**see $漚au1**]].
     --
   ====
 C
