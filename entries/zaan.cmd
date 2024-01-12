@@ -187,6 +187,7 @@ $$
 - $撰6
 - $棧6
 - $站6
+- $虥6
 - $譔6
 - $輚6
 - $饌6
@@ -320,6 +321,36 @@ C
 S
   ==
   - $站zaam6
+  ==
+$$
+
+### 虥6 | _Ch(a/)n(6)_ [[zaan6]]
+
+$$
+R
+  ⾌ + 10
+U
+  U+8665
+F
+  ==
+  - [[F2.71 虥]] 虎淺毛
+  ==
+W
+  ====
+  - [[Page~19|n62 虥(6)]]
+    ==
+    - A tiger cat;
+    - _ch(a/)n(6) (4)[mi(u/)]_
+        [[zaan6 miu4 虥苗]],
+        a tiger shedding its hair.
+    ==
+  ====
+C
+  ==
+  - Williams' 虥苗: Corrected _(4)m(a/)i_ [[maai4]] to _(4)mi(u/)_ [[miu4]].
+    Note that 虥苗 is also spelt 虥貓, as the Middle Chinese reading of 貓
+    is homophonous with 苗 _(4)mi(u/)_ [[miu4]].
+    In any case, Williams' _(4)m(a/)i_ [[maai4]] is a typo.
   ==
 $$
 
