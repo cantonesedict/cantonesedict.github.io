@@ -187,6 +187,7 @@ $$
 - $撰6
 - $棧6
 - $站6
+- $綻6
 - $虥6
 - $譔6
 - $輚6
@@ -323,6 +324,38 @@ S
   - $站zaam6
   ==
 $$
+
+### 綻6 | _Ch(a/)n(6)_ [[zaan6]]
+
+$$
+R
+  ⽷ + 8
+U
+  U+7DBB
+F
+  ==
+  - [[F2.71 綻]] 衣縫裂也事不完全曰破綻
+  ==
+W
+  ====
+  - [[Page~19|n62 綻(6)]]
+    ==
+    - A rent seam;
+    - to rip, to tear, to rend;
+    - a hint, inkling;
+    - _p(')o(3) ch(a/)n(6)_
+        [[po3 zaan6 破綻]]
+        the affair is known, to hint a matter;
+    - _(2)t(a/) tak(7) (4)p(')(i/) (1)hoi yuk(9) ch(a/)n(6)_
+        [[daa2 dak1 pei4 hoi1 juk6 zaan6 打得皮開肉綻]]
+        beaten till the flesh was laid bare;
+    - _ch(a/)n(6) l(i/)t(9)_
+        [[zaan6 lit6 綻裂]]
+        rip the seams.
+    ==
+  ====
+$$
+
 
 ### 虥6 | _Ch(a/)n(6)_ [[zaan6]]
 

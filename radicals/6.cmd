@@ -144,6 +144,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $緀cai1
+      - $綻zaan6
       ==
       </nav>
   //
