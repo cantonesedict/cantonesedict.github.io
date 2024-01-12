@@ -53,6 +53,7 @@ $$
 =={.modern}
 - $儧2
 - $儹2
+- $棧2
 - $琖2
 - $盞2
 - $䟎2
@@ -104,6 +105,27 @@ W
     - To accumulate, to collect together, to hoard up, to store.
     ==
   ====
+$$
+
+###+ 棧2 | _(2)Ch(a/)n_ [[zaan2]]
+
+$$
+R
+  ⽊ + 8
+U
+  U+68E7
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation (vernacular rising-tone noun); **see $棧zaan6 for the canonical entry**..
+  ==
+S
+  ==
+  - $棧zaan6
+  ==
 $$
 
 ### 琖2 | _(2)Ch(a/)n_ [[zaan2]]
@@ -417,6 +439,10 @@ C
   ==
   - Williams' 貓棧:
     Changed Middle Chinese _(4)mi(u/)_ [[miu4]] to common reading _(1)m(a/)u_ [[maau1]].
+  ==
+S
+  ==
+  - $棧zaan2
   ==
 $$
 
