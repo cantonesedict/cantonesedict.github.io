@@ -55,6 +55,7 @@ $$
 - $儹2
 - $琖2
 - $盞2
+- $䟎2
 - $醆2
 ==
 </nav>
@@ -164,6 +165,26 @@ E
        - 盞燈壞咗 (zaan2 dang1 waai6 zo2): "[The] light's broken."
        ==
     ++
+  ====
+$$
+
+### 䟎2 | _(2)Ts(a/)n_ [[zaan2]]
+
+$$
+R
+  ⾛ + 15
+U
+  U+47CE
+F
+  ==
+  [[F2.69 趲]] 催也促也
+  ==
+W
+  ====
+  - [[Page~555 (2)䟎]]
+    --
+    [[Alternative form of 趲. **See $趲zaan2 for the canonical entry.**]]
+    --
   ====
 $$
 
