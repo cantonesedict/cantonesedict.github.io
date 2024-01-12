@@ -56,6 +56,7 @@ $$
 - $琖2
 - $盞2
 - $䟎2
+- $趲2
 - $醆2
 ==
 </nav>
@@ -185,6 +186,59 @@ W
     --
     [[Alternative form of 趲. **See $趲zaan2 for the canonical entry.**]]
     --
+  ====
+$$
+
+###+ 趲2 | _(2)Ts(a/)n_ [[zaan2]]
+
+$$
+R
+  ⾛ + 19
+U
+  U+8DB2
+A
+  ==
+  - $䟎2
+  ==
+F
+  ==
+  [[F2.69 趲]] 催也促也
+  ==
+W
+  ====
+  - [[Page~555 (2)䟎; here normalised to 趲]]
+    ==
+    - To walk, to get on;
+    - to flee, to run away, to scatter, to put to flight;
+    - to hasten, to urge, to quicken, to press;
+    - _(2)ts(a/)n p(o\)(6)_
+        [[zaan2 bou6 趲步]]
+        to walk quicker;
+    - _(1)ts(')(u/)i (2)ts(a/)n_
+        [[ceoi1 zaan2 催趲]],
+        to urge on;
+    - _yat[(9)] yat(9) (4)loi (2)ts(a/)n_
+        [[jat6 jat6 loi4 zaan2 日日來趲]],
+        he comes urging me daily;
+    - _(2)ts(a/)n (5)k(')(u") (2)h(i/) (1)shan_
+        [[zaan2 keoi5 hei2 san1 趲佢起身]],
+        urge him to get out of bed.
+    ==
+  ====
+C
+  ==
+  - Williams' 日日來趲: Corrected _yat(7)_ [[jat1]] to _yat(9)_ [[jat6]].
+  ==
+E
+  ====
+  - 【走趲】 (zau2 zaan2):
+    ++
+    1. Wiggle room or leeway.
+       ==
+       - 冇得走趲 (mou5 dak1 zau2 zaan2): "There's no wiggle room."
+       - 有得走趲 (jau5 dak1 zau2 zaan2): "There's wiggle room."
+       ==
+    ++
   ====
 $$
 

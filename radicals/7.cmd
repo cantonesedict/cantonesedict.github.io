@@ -305,6 +305,14 @@ For all radicals, see [Index of characters by radical](./).
       - $䟎zaan2
       ==
       </nav>
+  //
+    , 19
+    ,
+      <nav class="sideways">
+      ==
+      - $趲zaan2
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⾛-characters ##>
