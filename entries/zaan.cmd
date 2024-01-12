@@ -53,6 +53,7 @@ $$
 =={.modern}
 - $儧2
 - $儹2
+- $㜺2
 - $棧2
 - $琖2
 - $盞2
@@ -105,6 +106,47 @@ W
     - To accumulate, to collect together, to hoard up, to store.
     ==
   ====
+$$
+
+###+ 㜺2 | _(2)Ts(a/)n_ [[zaan2]]
+
+$$
+R
+  ⼥ + 19
+U
+  U+373A
+V
+  ==
+  - zaan3 (expected from 則旰切)
+  - zaan6 (expected from 徂賛切)
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Arguably, _(2)ts(a/)n_ [[zaan2]] is a vernacular rising-tone reading of
+    _ts(a/)n(6)_ [[zaan6]] (expected from 徂賛切), meaning "pretty" (美好皃);
+    see below.
+  ==
+E
+  ====
+  - 【㜺】 (zaan2):
+    ++
+    1. Wonderful, pretty.
+    ++
+  - 【㜺鬼】 (zaan2 gwai2):
+    ++
+    1. Intriguing, pretty, neat.
+    ++
+  ====
+  --
+  Olden attestation for 㜺 _ts(a/)n(6)_ [[zaan6]] meaning "pretty":
+  --
+  ==
+  - ::B4.w432b0602 徂賛切 (:㜺:) 不謹也(:一曰美好皃:)::
+  ==
 $$
 
 ###+ 棧2 | _(2)Ch(a/)n_ [[zaan2]]

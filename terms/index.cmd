@@ -326,8 +326,16 @@ window.onload = applyFilter;
     , [zaam#cantonese-䁪](/entries/zaam#cantonese-䁪)
   //
     , zaan2
+    , 㜺
+    , [zaan#cantonese-㜺](/entries/zaan#cantonese-㜺)
+  //
+    , zaan2
     , 盞
     , [zaan#cantonese-盞](/entries/zaan#cantonese-盞)
+  //
+    , zaan2 gwai2
+    , 㜺鬼
+    , [zaan#cantonese-㜺鬼](/entries/zaan#cantonese-㜺鬼)
   //
     , zai1
     , 擠
