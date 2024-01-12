@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2024-01-12
+* %date-modified --> 2024-01-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -51,12 +51,33 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $儧2
 - $琖2
 - $盞2
 - $醆2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 儧2 | _(2)Ts(a/)n_ [[zaan2]]
+
+$$
+R
+  ⼈ + 15
+U
+  U+5127
+F
+  ==
+  [[F2.69 儹]] 積儹聚也
+  ==
+W
+  ====
+  - [[Page~555 (2)儧]]
+    --
+    [[Alternative form of 儹. **See $儹zaan2 for the canonical entry.**]]
+    --
+  ====
+$$
 
 ### 琖2 | _(2)Ch(a/)n_ [[zaan2]]
 
