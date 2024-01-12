@@ -190,6 +190,7 @@ $$
 - $綻6
 - $虥6
 - $譔6
+- $賺6
 - $贃6
 - $輚6
 - $饌6
@@ -313,7 +314,7 @@ W
   ====
   - [[Page~19|n62 站(6)]]
     --
-    [[Idiosyncratic reading Fan Wan; **see $站zaam6 for the canonical entry**.]]
+    [[Idiosyncratic reading from Fan Wan; **see $站zaam6 for the canonical entry**.]]
     --
   ====
 C
@@ -419,6 +420,83 @@ W
         to prepare a eulogistic paper.
     ==
   ====
+$$
+
+###+ 賺6 | _Ch(a/)n(6)_ [[zaan6]]
+
+$$
+R
+  ⾙ + 10
+U
+  U+8CFA
+A
+  ==
+  -{.modern} $贃6
+  ==
+V
+  ==
+  - zaam6 (expected from 《集韻》直陷切)
+  ==
+F
+  ==
+  - [[F2.65 賺 _Ch(a/)m(6)_ (zaam6)]] ::中淡切猶眈誤也阻之也生意[獲]利亦曰賺::
+  ==
+W
+  ====
+  - [[Page~16|n59 賺(6) _Ch(a/)m(6)_ (zaam6); here normalised to _Ch(a/)n(6)_ (zaan6)]]
+    ==
+    - To impede, to hinder;
+    - to sell, to profit;
+    - to gain unfairly, to palm off poor goods;
+    - _(2)cho [ch(a/)n](6)_
+        [[zo2 zaan6 阻賺]]
+        to deceive;
+        to hinder.
+    ==
+  - [[Page~20|n63 贃(6); here normalised to 賺]]
+    --
+    An unauthorized word.
+    --
+    ==
+    - To profit, to make gain in trade;
+    - _ch(a/)n(6) (4)ts(')(i/)n_
+        [[zaan6 cin4-2 賺錢]],
+        to make money;
+    - _(1)to ch(a/)n(6)_
+        [[do1 zaan6 多賺]]
+        profitable;
+    - _(5)m(o\) tak(7) ch(a/)n(6)_
+        [[mou5 dak1 zaan6 冇得賺]]
+        no profit;
+    - _ch(a/)n(6) tak(7) (1)l(o\)_
+        [[zaan6 dak1 lou1 賺得撈]],
+        got my outlay back;
+    - _ch(a/)n(6) wan(6)_
+        [[zaan6 wan6 賺混]]
+        nothing but a trouble.
+    ==
+    --
+    Read _(5)w(a/)n_ [[waan5]];
+    --
+    ==
+    - to sell goods at a profit.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: The supplied dissection 中淡切 is incorrect,
+    as it results in the 陰去 reading _ch(a/)m(3)_ [[zaam3]],
+    rather than the intended 陽去 reading _ch(a/)m(6)_ [[zaam6]].
+    Normalised 𫉬 (⿱艹⿰犭隻) to 獲.
+  - Williams' reading _(5)w(a/)n_ [[waan5]] for the authorised sense is incorrect,
+    possibly based on the gloss 音綰
+    (which is intended in the departing tone, not the rising tone).
+    The expected reflex is waan3 from Middle Chinese 烏患切.
+  ==
+S
+  ==
+  - $賺zaam6
+  ==
 $$
 
 ### 贃6 | _Ch(a/)n(6)_ [[zaan6]]
