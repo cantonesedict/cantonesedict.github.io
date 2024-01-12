@@ -185,6 +185,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $撰6
+- $棧6
 - $站6
 - $譔6
 - $饌6
@@ -245,6 +246,51 @@ S
   - $撰syun2 (TODO)
   - $撰syun3 (TODO)
   - $撰zaan3
+  ==
+$$
+
+### 棧6 | _Ch(a/)n(6)_ [[zaan6]]
+
+$$
+R
+  ⽊ + 8
+U
+  U+68E7
+V
+  ==
+  - zaan6-2 (vernacular rising-tone noun)
+  ==
+F
+  ==
+  - [[F2.71 棧]] 閣木爲棚曰棧四川有棧道
+  ==
+W
+  ====
+  - [[Page~19|n62 棧(6)]]
+    ==
+    - A covered loft;
+    - palisades;
+    - a scaffold;
+    - a covered, planked road cut out of the side of hills;
+    - a hearse, a workshop;
+    - a warehouse;
+    - a storehouse, a etable, a pen, a sheepcote;
+    - a wooden bridge or pathway;
+    - _ch(a/)n(6) (4)fong_
+        [[zaan6-2 fong4 棧房]],
+        a warehouse, a packhouse;
+    - _ch(a/)n(6) (1)ts(o\)_
+        [[zaan6-2 zou1 棧租]],
+        storage charges;
+    - _[(1)m(a/)u] ch(a/)n(6)_
+        [[maau1 zaan6-2 貓棧]]
+        a kennel for cats.
+    ==
+  ====
+C
+  ==
+  - Williams' 貓棧:
+    Changed Middle Chinese _(4)mi(u/)_ [[miu4]] to common reading _(1)m(a/)u_ [[maau1]].
   ==
 $$
 

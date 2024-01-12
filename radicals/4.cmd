@@ -579,6 +579,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $栖cai1
       - $棲cai1
+      - $棧zaan6
       ==
       </nav>
   //
