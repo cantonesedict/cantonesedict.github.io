@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2024-01-07
+* %date-modified --> 2024-01-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1059,6 +1059,18 @@ W
         [[zai6 hei3 滯氣]]
         a stoppage of secretions.
     ==
+  ====
+E
+  ====
+  - 【滯】 (zai6):
+    ++
+    1. Stagnated in the stomach, usually from eating too much.
+      ==
+      - 滯住個胃 (zai6 zyu6 go3 wai6): "[Feeling] stagnant [in the] stomach."
+      - 食滯咗 (sik6 zai6 zo2): "Stuffed [myself from] eating."
+      - 飽飽滯滯 (baau2 baau2 zai6 zai6): "Full [and] stagnated."
+      ==
+    ++
   ====
 $$
 
