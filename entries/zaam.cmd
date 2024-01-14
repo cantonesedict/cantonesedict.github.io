@@ -91,17 +91,40 @@ W
 $$
 
 
-##{#2 .williams} (2)Ch(a/)m [[zaam2 陰上]]
+##{#2 .williams} (2)Ch(a/)m <ins class="modern">(2)Ts(a/)m</ins> [[zaam2 陰上]]
 
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $寁2
 - $斬2
 - $眨2
 - $䁪2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+###+ 寁2 | _(2)Ts(a/)m_ [[zaam2]]
+
+$$
+R
+  ⼧ + 8
+U
+  U+5BC1
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - The expected reflex is zaam2 from Middle Chinese 子感切,
+    but Fan Wan has zaan2; **see $寁zaan2 for the canonical entry**.
+  ==
+S
+  ==
+  - $寁zaan2
+  ==
+$$
 
 ### 斬2 | _(2)Ch(a/)m_ [[zaam2]]
 

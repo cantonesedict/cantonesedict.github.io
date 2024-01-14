@@ -352,6 +352,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $寁zaam2
       - $寁zaan2
       ==
       </nav>
