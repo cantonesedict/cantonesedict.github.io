@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2024-01-13
+* %date-modified --> 2024-01-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -54,6 +54,7 @@ $$
 - $儧2
 - $儹2
 - $㜺2
+- $寁2
 - $棧2
 - $琖2
 - $盞2
@@ -146,6 +147,36 @@ E
   --
   ==
   - ::B4.w432b0602 徂賛切 (:㜺:) 不謹也(:一曰美好皃:)::
+  ==
+$$
+
+### 寁2 | _(2)Ts(a/)n_ [[zaan2]]
+
+$$
+R
+  ⼧ + 8
+U
+  U+5BC1
+V
+  ==
+  - zaam2 (expected from 子感切)
+  ==
+F
+  ==
+  - [[F2.69 寁]] 速也
+  ==
+W
+  ====
+  - [[Page~555 (2)寁]]
+    ==
+    - Promptly, quickly;
+    - with haste;
+    - to hasten, to accelerate.
+    ==
+  ====
+S
+  ==
+  - $寁zaam2 (TODO)
   ==
 $$
 
