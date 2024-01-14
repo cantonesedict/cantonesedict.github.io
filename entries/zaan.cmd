@@ -395,6 +395,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $撰3
+- $贊3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -419,6 +420,49 @@ S
   - $撰syun2 (TODO)
   - $撰syun3 (TODO)
   - $撰zaan6
+  ==
+$$
+
+### 贊3 | _Ts(a/)n(3)_ [[zaan3]]
+
+$$
+R
+  ⾙ + 12
+U
+  U+8D0A
+F
+  ==
+  - [[F2.70 贊]] 助也佐也又贊頌
+  ==
+W
+  ====
+  - [[Page~555 贊(3)]]
+    ==
+    - To visit a superior, to come before a god;
+    - to second, to assist in bringing forward,
+      to introduce, to bring a present to one;
+    - to make clear, to bring to light;
+    - to go out;
+    - to give evidence;
+    - to praise, to commend,
+      in which sense it is interchanged with the next [[$讚3]];
+    - _ts(a/)n(3) cho(6)_
+        [[zaan3 zo6 贊助]]
+        to aid in, to further;
+    - _ts(a/)n(3) (4)t(')ong_
+        [[zaan3 tong4 贊堂]],
+        to still a court, as the crier does;
+    - _ts(a/)n(3) (4)shing_
+        [[zaan3 sing4 贊成]],
+        to assist in bringing about;
+    - _ts(a/)n(3) k(i/)n(3)_
+        [[zaan3 gin3 贊見]]
+        to visit.
+    ==
+  ====
+C
+  ==
+  - Williams' 贊助: Now has the connotation of *financial* aid, i.e. sponsorship.
   ==
 $$
 
