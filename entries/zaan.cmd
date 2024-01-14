@@ -395,6 +395,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $撰3
+- $讚3
 - $贊3
 ==
 </nav>
@@ -421,6 +422,45 @@ S
   - $撰syun3 (TODO)
   - $撰zaan6
   ==
+$$
+
+### 讚3 | _Ts(a/)n(3)_ [[zaan3]]
+
+$$
+R
+  ⾔ + 19
+U
+  U+8B9A
+F
+  ==
+  - [[F2.70 讚]] 稱美也
+  ==
+W
+  ====
+  - [[Page~555 讚(3)]]
+    ==
+    - To praise, to commend, to laud;
+    - to sing praises to;
+    - to record the praises of;
+    - to assist;
+    - to explain;
+    - _tak(7) (4)yan ts(a/)n(3)_
+        [[dak1 jan4 zaan3 得人讚]]
+        to be praised, praiseworthy;
+    - _ts(a/)n(3) (5)m(i/)_
+        [[zaan3 mei5 讚美]],
+        to praise;
+    - _ts(a/)n(3) s(i/)n(6)_
+        [[zaan3 sin6 讚羨]]
+        to commend;
+    - _tsung(6) ts(a/)n(3)_
+        [[zung6 zaan3 頌讚]]
+        to extol, to sing praises to;
+    - _ts(a/)n(3) tak(7) kwo(3)_
+        [[zaan3 dak1 gwo3 頌得過]]
+        laudable.
+    ==
+  ====
 $$
 
 ### 贊3 | _Ts(a/)n(3)_ [[zaan3]]

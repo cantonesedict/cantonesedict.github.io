@@ -150,6 +150,14 @@ For all radicals, see [Index of characters by radical](./).
       - $讖cam3
       ==
       </nav>
+  //
+    , 19
+    ,
+      <nav class="sideways">
+      ==
+      - $讚zaan3
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⾔-characters ##>
