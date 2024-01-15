@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [caan2](#2)
+- [caan5](#5)
 ==
 </nav>
 <## /tones ##>
@@ -251,4 +252,38 @@ W
         to scarp hills, to dig in a level.
     ==
   ====
+$$
+
+
+##{#5 .williams} (5)Ch(')(a/)n [[caan5 陽上]]
+
+<## tone-5-characters ##>
+<nav class="sideways">
+=={.modern}
+- $棖5
+==
+</nav>
+<## /tone-5-characters ##>
+
+### 棖5 | _(5)Ch(')(a/)n_ [[caan5]]
+
+$$
+R
+  ⽊ + 8
+U
+  U+68D6
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~20|n63 (5)棖]]
+    --
+    [[Reading variation; **see $棖caam5 for the canonical entry**.]]
+    --
+  ====
+S
+  ==
+  - $棖caam5 (TODO)
+  - $棖caang4 (TODO)
+  ==
 $$
