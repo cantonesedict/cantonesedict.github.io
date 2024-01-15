@@ -49,11 +49,65 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $剷2
 - $嵼2
 - $產2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 剷2 | _(2)Ch(')(a/)n_ [[caan2]]
+
+$$
+R
+  ⼑ + 11
+U
+  U+5277
+A
+  ==
+  -{.modern} $鏟2
+  ==
+F
+  ==
+  - [[F2.69 剷]] 削平也
+  - [[F2.69 剗]] 同上
+  ==
+W
+  ====
+  - [[Page~20|n63 (2)剷(2)剗]]
+    --
+    Interchanged with the next [[$鏟2]].
+    --
+    ==
+    - To level off, to spade up;
+    - to reap;
+    - to trim iron;
+    - _(2)ch(')(a/)n t(')ai(3) (1)t(o\)_
+        [[caan2 tai3 dou1 剷剃刀]],
+        to plane a razor;
+    - _h(o\)m(6) (1)k(a/) (2)ch(')(a/)n_
+        [[ham6 gaa1 caan2 冚家剷]],
+        may your race all be cut off;
+    - _(2)ch(')(a/)n (1)h(e/)ung_
+        [[caan2 hoeng1 剷香]],
+        sandalwood shavings burned for the dead.
+    ==
+  ====
+E
+  ====
+  - 【剷】 (caan2):
+    ++
+    1. To delete, especially permanently.
+       ==
+       - 剷咗佢 (caan2 zo2 keoi5): "Delete it."
+       ==
+    ++
+  - 【冚家剷】 (ham6 gaa1 caan2):
+    ++
+    1. A curse that someone's entire family be annihilated.
+    ++
+  ====
+$$
 
 ### 嵼2 | _(2)Ch(')(a/)n_ [[caan2]]
 

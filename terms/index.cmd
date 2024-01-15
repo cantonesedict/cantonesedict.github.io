@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of Cantonese terms by Jyutping
-* %date-modified --> 2024-01-14
+* %date-modified --> 2024-01-15
 * %copyright-prior-years --> 2023--
 * %meta-description --> searchable index of Cantonese terms by Jyutping
 
@@ -217,6 +217,10 @@ window.onload = applyFilter;
     , 鏨
     , [caam#cantonese-鏨](/entries/caam#cantonese-鏨)
   //
+    , caan2
+    , 剷
+    , [caan#cantonese-剷](/entries/caan#cantonese-剷)
+  //
     , cam1
     , 侵
     , [cam#cantonese-侵](/entries/cam#cantonese-侵)
@@ -244,6 +248,10 @@ window.onload = applyFilter;
     , gam3 zai6
     , 咁嚌
     , [zai#cantonese-咁嚌](/entries/zai#cantonese-咁嚌)
+  //
+    , ham6 gaa1 caan2
+    , 冚家剷
+    , [caan#cantonese-冚家剷](/entries/caan#cantonese-冚家剷)
   //
     , hau6 mei5 zam2
     , 後尾枕
