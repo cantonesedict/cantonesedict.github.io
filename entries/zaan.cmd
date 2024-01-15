@@ -395,6 +395,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $撰3
+- $濺3
 - $灒3
 - $讚3
 - $贊3
@@ -422,6 +423,29 @@ S
   - $撰syun2 (TODO)
   - $撰syun3 (TODO)
   - $撰zaan6
+  ==
+$$
+
+### 濺3 | _Ts(a/)n(3)_ [[zaan3]]
+
+$$
+R
+  ⽔ + 15
+U
+  U+6FFA
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~555 濺(3)灒(3)]]
+    --
+    [[Alternative form of 灒. **See $灒zaan3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $灒zin1 (TODO)
+  - $灒zin3 (TODO)
   ==
 $$
 
