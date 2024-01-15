@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2024-01-14
+* %date-modified --> 2024-01-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -395,6 +395,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $撰3
+- $灒3
 - $讚3
 - $贊3
 ==
@@ -422,6 +423,46 @@ S
   - $撰syun3 (TODO)
   - $撰zaan6
   ==
+$$
+
+### 灒3 | _Ts(a/)n(3)_ [[zaan3]]
+
+$$
+R
+  ⽔ + 19
+U
+  U+7052
+A
+  ==
+  - $濺3
+  ==
+F
+  ==
+  - [[F2.70 灒]] 汚酒也
+  ==
+W
+  ====
+  - [[Page~555 濺(3)灒(3)]]
+    ==
+    - To stir up muddy water;
+    - turbid water;
+    - to spatter;
+    - to rebound, to recoil;
+    - resilient;
+    - _ts(a/)n(3) (2)nan (1)shan_
+        [[zaan3 nan2 san1 灒㤻身]],
+        dirtied and splashed;
+    - _ts(a/)n(3) (2)h(i/)_
+        [[zaan3 hei2 灒起]],
+        to bound back;
+    - _ts(a/)n(3) lok(9) t(i/)(6)_
+        [[zaan3 lok6 dei6 灒落地]]
+        bounded back on the ground;
+    - _ts(a/)n(3) shap(7) (1)shan_
+        [[zaan3 sap1 san1 灒濕身]],
+        spattered against me.
+    ==
+  ====
 $$
 
 ### 讚3 | _Ts(a/)n(3)_ [[zaan3]]
