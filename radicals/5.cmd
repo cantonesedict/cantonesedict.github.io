@@ -149,6 +149,23 @@ For all radicals, see [Index of characters by radical](./).
 ## ⽣ (life)
 
 <## radical-⽣-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 6
+    ,
+      <nav class="sideways">
+      ==
+      - $產caan2
+      ==
+      </nav>
+''
+||||
 <## /radical-⽣-characters ##>
 
 
