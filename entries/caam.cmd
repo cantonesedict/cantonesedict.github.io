@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2024-01-07
+* %date-modified --> 2024-01-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -861,12 +861,13 @@ W
 $$
 
 
-##{#5 .modern} (5)Ts(')(a/)m [[caam5 陽上]]
+##{#5 .modern} (5)Ch(')(a/)m (5)Ts(')(a/)m [[caam5 陽上]]
 
 <## tone-5-characters ##>
 <nav class="sideways">
 =={.modern}
 - $劖5
+- $棖5
 - $鏨5
 ==
 </nav>
@@ -891,6 +892,47 @@ C
 S
   ==
   - $劖caam4
+  ==
+$$
+
+###+ 棖5 | _(5)Ch(')(a/)m_ [[caam5]]
+
+$$
+R
+  ⽊ + 8
+U
+  U+68D6
+V
+  ==
+  - caan5
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~20|n63 (5)棖 _(5)Ch(')(a/)n_ (caan5); here normalised to _(5)Ch(')(a/)m_ (caam5)]]
+    --
+    A colloquial word.
+    --
+    ==
+    - A door sill;
+    - a threshold;
+    - _(5)k(')(i/) (4)m(u/)n (5)[ch(')(a/)m]_
+        [[kei5 mun4 caam5 企門棖]],
+        standing in the door-way.
+    ==
+  ====
+E
+  ====
+  - 【門棖】 (mun4 caam5):
+    ++
+    1. A doorsill.
+    ++
+  ====
+S
+  ==
+  - $棖caan5 (TODO)
+  - $棖caang4 (TODO)
   ==
 $$
 

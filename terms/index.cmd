@@ -281,6 +281,10 @@ window.onload = applyFilter;
     , 老襯
     , [can#cantonese-老襯](/entries/can#cantonese-老襯)
   //
+    , mun4 caam5
+    , 門棖
+    , [caam#cantonese-門棖](/entries/caam#cantonese-門棖)
+  //
     , waa6 zaai1
     , 話齋
     , [zaai#cantonese-話齋](/entries/zaai#cantonese-話齋)
