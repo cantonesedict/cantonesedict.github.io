@@ -52,6 +52,7 @@ $$
 - $剷2
 - $嵼2
 - $產2
+- $鏟2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -187,4 +188,44 @@ C
   - Williams' 小產: Specifically, a *spontaneous* abortion, now called a miscarriage.
   - Williams' 土產: Specifically, native produce.
   ==
+$$
+
+### 鏟2 | _(2)Ch(')(a/)n_ [[caan2]]
+
+$$
+R
+  ⾦ + 11
+U
+  U+93DF
+A
+  ==
+  -{.modern} $剷2
+  ==
+F
+  ==
+  - [[F2.69 鏟]] 平木之器
+  ==
+W
+  ====
+  - [[Page~20|n63 (2)鏟]]
+    ==
+    - A thin iron plate;
+    - a shovel, a plane;
+    - a spoke-shave, an iron shave;
+    - to cut and pare;
+    - to level;
+    - _wok(9) (2)ch(')(a/)n_
+        [[wok6 caan2 鑊鏟]],
+        a rice shovel;
+    - _yat(7) f(u/)(3) (2)ch(')(a/)n (4)k(')(i/)m_
+        [[jat1 fu3 caan2 kim4 一副鏟鉗]],
+        a set of shovel and tongs;
+    - _(2)ch(')(a/)n (2)ts(')(o\) (4)ch(')(u") (1)kan_
+        [[caan2 cou2 ceoi4 gan1 鏟草除根]],
+        to root uut, to extirpate;
+    - _(2)ch(')(a/)n (1)sh(a/)n_
+        [[caan2 saan1 鏟山]],
+        to scarp hills, to dig in a level.
+    ==
+  ====
 $$
