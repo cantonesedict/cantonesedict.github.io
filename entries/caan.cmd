@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caan
-* %date-modified --> 2023-08-02
-* %copyright-prior-years -->
+* %date-modified --> 2024-01-15
+* %copyright-prior-years --> 2023--
 
 %%%
-
---{.modern}
-[[From Page~20|n63 (Ch(')(a/))n and Page~555 (Ts(')(a/)n) of the original onwards.]]
---
 
 #{.williams} Ch(')(a/)n. Ts(')(a/)n. [[caan]]
 
@@ -21,3 +17,27 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [[Work in progress]]
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Ch(')(a/)n. [[Page~20|n63]]
+  - Ts(')(a/)n. [[Page~555]]
+  ==
+WP
+  ==
+  - Ch(')(a/)n <span class="modern">= [tɕʰaːn]</span>
+  - Ts(')(a/)n <span class="modern">= [tsʰaːn]</span>
+  ==
+MP
+  ==
+  - caan = [tsʰaːn], [tɕʰaːn]
+  ==
+$$
