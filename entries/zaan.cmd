@@ -397,6 +397,7 @@ $$
 - $撰3
 - $濺3
 - $灒3
+- $瓚3
 - $讚3
 - $贊3
 ==
@@ -485,6 +486,27 @@ W
     - _ts(a/)n(3) shap(7) (1)shan_
         [[zaan3 sap1 san1 灒濕身]],
         spattered against me.
+    ==
+  ====
+$$
+
+### 瓚3 | _Ts(a/)n(3)_ [[zaan3]]
+
+$$
+R
+  ⽟ + 19
+U
+  U+74DA
+F
+  ==
+  - [[F2.70 瓚]] 玉瓚祭器也受五升
+  ==
+W
+  ====
+  - [[Page~555 瓚(3)]]
+    ==
+    - A sort of stone sceptre made with a cup, used in pouring out libations;
+    - a kind of bottle used in worship.
     ==
   ====
 $$
