@@ -49,10 +49,34 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $嵼2
 - $產2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 嵼2 | _(2)Ch(')(a/)n_ [[caan2]]
+
+$$
+R
+  ⼭ + 11
+U
+  U+5D7C
+F
+  ==
+  - [[F2.69 嵼]] ⿰山蹇嵼山屈曲貌
+  ==
+W
+  ====
+  - [[Page~20|n63 (2)嵼]]
+    ==
+    - Tortuous paths among the mountains;
+    - _(2)k(i/)n (2)ch(')(a/)n_
+        [[gin2 caan2 ⿰山蹇嵼]],
+        winding, crooked, as paths.
+    ==
+  ====
+$$
 
 ### 產2 | _(2)Ch(')(a/)n_ [[caan2]]
 
