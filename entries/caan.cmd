@@ -293,7 +293,7 @@ W
   ====
 S
   ==
-  - $棖caam5 (TODO)
+  - $棖caam5
   - $棖caang4 (TODO)
   ==
 $$
