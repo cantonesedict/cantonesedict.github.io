@@ -252,6 +252,16 @@ W
         to scarp hills, to dig in a level.
     ==
   ====
+E
+  ====
+  - 【煙鏟】 (jin1 caan2):
+    ++
+    1. A heavy smoker.
+       ==
+       - 正煙鏟 (zing3 jin1 caan2): "[He's a] right smokaholic."
+       ==
+    ++
+  ====
 $$
 
 

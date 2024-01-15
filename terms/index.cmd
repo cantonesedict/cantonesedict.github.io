@@ -273,6 +273,10 @@ window.onload = applyFilter;
     , 一陣
     , [zan#cantonese-一陣-later](/entries/zan#cantonese-一陣-later)
   //
+    , jin1 caan2
+    , 煙鏟
+    , [caan#cantonese-煙鏟](/entries/caan#cantonese-煙鏟)
+  //
     , laa5 zaa2
     , 揦鮓
     , [zaa#cantonese-揦鮓](/entries/zaa#cantonese-揦鮓)
