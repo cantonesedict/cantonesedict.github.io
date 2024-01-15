@@ -49,6 +49,7 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $剗2
 - $剷2
 - $嵼2
 - $產2
@@ -56,6 +57,27 @@ $$
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 剗2 | _(2)Ch(')(a/)n_ [[caan2]]
+
+$$
+R
+  ⼑ + 8
+U
+  U+5257
+F
+  ==
+  - [[F2.69 剷]] 削平也
+  - [[F2.69 剗]] 同上
+  ==
+W
+  ====
+  - [[Page~20|n63 (2)剷(2)剗]]
+    --
+    [[Alternative form of 剷. **See $剷caan2 for the canonical entry.**]]
+    --
+  ====
+$$
 
 ### 剷2 | _(2)Ch(')(a/)n_ [[caan2]]
 
@@ -66,6 +88,7 @@ U
   U+5277
 A
   ==
+  - $剗2
   -{.modern} $鏟2
   ==
 F
