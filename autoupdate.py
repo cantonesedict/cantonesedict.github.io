@@ -313,14 +313,12 @@ class Indexer:
             "|^",
             "  //",
             "    ; Jyutping",
-            "    ; Term",
             "    ; Entry link",
             "|:",
             *[
                 '\n'.join([
                     f'  //',
                     f'    , {split_cantonese_entry.term_jyutping}',
-                    f'    , {split_cantonese_entry.term}',
                     f'    , [{split_cantonese_entry.link_text}](/entries/{split_cantonese_entry.relative_url})',
                 ])
                 for split_cantonese_entry in self.split_cantonese_entries
