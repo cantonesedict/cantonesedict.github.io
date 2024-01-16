@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [caan1](#1)
 - [caan2](#2)
+- [caan3](#3)
 - [caan4](#4)
 - [caan5](#5)
 ==
@@ -369,6 +370,57 @@ E
 $$
 
 
+##{#3 .williams} Ts(')(a/)n(3) [[caan3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $粲3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 粲3 | _Ts(')(a/)n(3)_ [[caan3]]
+
+$$
+R
+  ⽶ + 7
+U
+  U+7CB2
+F
+  ==
+  - [[F2.70 粲]] 美也
+  ==
+W
+  ====
+  - [[Page~556 粲(3)]]
+    ==
+    - Half a _(2)tau_ [[dau2 斗]] or peck;
+    - a meal;
+    - many, much, a multitude;
+    - clear, bright;
+    - to agree upon;
+    - fine, excellent;
+    - beautiful, as a woman;
+    - to laugh, smiling;
+    - fine rice;
+    - _p(a/)k(9) ts(')(a/)n(3)_
+        [[baak6 caan3 白粲]]
+        white rice, anciently picked over by criminals;
+    - _ts(')(a/)n(3) ts(')(a/)n(3)_
+        [[caan3 caan3 粲粲]]
+        elegant, as dress;
+    - _ts(')(a/)n(3) (4)(i/)n (4)(i/) si(u/)(3)_
+        [[caan3 jin4 ji4 siu3 粲然而笑]]
+        he laughed outright;
+    - _ts(')(a/)n(3) (4)t(')au_
+        [[caan3 tau4-2 粲頭]],
+        a worthless fellow --- a colloquial phrase.
+    ==
+  ====
+$$
+
+
 ##{#4 .williams} (4)Ts(')(a/)n [[caan4 陽平]]
 
 <## tone-4-characters ##>
@@ -392,7 +444,7 @@ F
   ==
 W
   ====
-  - [[Page~555 (4)殘]]
+  - [[Page~556 (4)殘]]
     ==
     - To ruin, to destroy;
     - to injure, to spoil;
