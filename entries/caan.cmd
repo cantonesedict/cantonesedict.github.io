@@ -376,6 +376,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $燦3
+- $璨3
 - $粲3
 ==
 </nav>
@@ -426,6 +427,28 @@ $$
 [網中人]: https://en.wikipedia.org/wiki/The_Good,_the_Bad_and_the_Ugly_(TV_series)
 [阿燦]: https://zh.wikipedia.org/wiki/阿燦
 
+### 璨3 | _Ts(')(a/)n(3)_ [[caan3]]
+
+$$
+R
+  ⽟ + 13
+U
+  U+74A8
+F
+  ==
+  - [[F2.70 璨]] 玉名
+  ==
+W
+  ====
+  - [[Page~556 璨(3)]]
+    ==
+    - The lustre of gem, a bright gem;
+    - _(1)ts(')(u/)i ts(')(a/)n(3)_
+        [[ceoi1 caan3 璀璨]]
+        pendent gems, said of hanging flowers like the Vanda.
+    ==
+  ====
+$$
 
 ### 粲3 | _Ts(')(a/)n(3)_ [[caan3]]
 
