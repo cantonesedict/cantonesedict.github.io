@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 9-stroke radicals
-* %date-modified --> 2024-01-12
+* %date-modified --> 2024-01-16
 * %copyright-prior-years -->
 * %meta-description --> index of characters with 9-stroke radicals
 
@@ -113,6 +113,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Residual strokes
     ; Character entry links
 |:
+  //
+    , 7
+    ,
+      <nav class="sideways">
+      ==
+      - $餐caan1
+      ==
+      </nav>
   //
     , 12
     ,

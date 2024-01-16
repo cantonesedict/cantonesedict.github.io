@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caan
-* %date-modified --> 2024-01-15
+* %date-modified --> 2024-01-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [caan1](#1)
 - [caan2](#2)
 - [caan5](#5)
 ==
@@ -41,6 +42,86 @@ WP
 MP
   ==
   - caan = [tsʰaːn], [tɕʰaːn]
+  ==
+$$
+
+
+##{#1 .williams} (1)Ts(')(a/)n [[caan1 陰平]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $餐1
+==
+</nav>
+<## /tone-1-characters ##>
+
+### 餐1 | _(1)Ts(')(a/)n_ [[caan1]]
+
+$$
+R
+  ⾷ + 7
+U
+  U+9910
+A
+  ==
+  - $飡1
+  ==
+F
+  ==
+  - [[F2.67 餐]] 熟食也
+  - [[F2.67 飡]] 同上
+  ==
+W
+  ====
+  - [[Page~555 (1)餐(1)飡]]
+    ==
+    - To swallow, to eat;
+    - a meal;
+    - a classifier of meals;
+    - to gather and to select;
+    - _yat(7) (1)ts(')(a/)n f(a/)n(6)_
+        [[jat1 caan1 faan6 一餐飯]]
+        a meal;
+    - _(2)ts(o\) (1)ts(')(a/)n_
+        [[zou2 caan1 早餐]]
+        breakfast;
+    - _t(a/)i(6) (1)ts(')(a/)n_
+        [[daai6 caan1 大餐]],
+        dinner;
+    - _(5)m(a/)n (1)ts(')(a/)n_
+        [[maan5 caan1 晚餐]]
+        supper;
+    - _yat(9) shik(9) (1)s(a/)m (1)ts(')(a/)n_
+        [[jat6 sik6 saam1 caan1 日食三餐]],
+        three meals a day;
+    - _(1)ts(')(a/)n (4)t(')au f(a/)n(6)_
+        [[caan1 tau4 faan6 餐頭飯]]
+        a common meal;
+    - _ch(a/)n(6) (1)ts(')(a/)n shik(9)_
+        [[zaan6 caan1 sik6 賺餐食]]
+        works for his food;
+    - _sau(3) shik(7) (1)h(o\)m (1)ts(')(a/)n_
+        [[sau3 sik1 ham1 caan1 秀色堪餐]],
+        handsome enongh to be eaten;
+    - _(2)p(a/)u (1)ts(')(a/)n_
+        [[baau2 caan1 飽餐]],
+        a good meal;
+    - _(1)ts(')(a/)n (4)wan (4)m(i/)n (u")t(9)_
+        [[caan1 wan4 min4 jyut6 餐雲眠月]]
+        dines in the clouds and sleeps on the moon --- an enthusiast;
+    - _(1)ch(')(i/) f(a/)n(6) (1)ts(')(a/)n_
+        [[ci1 faan6 caan1 黐飯餐]],
+        a diner out;
+    - _(1)ts(')(a/)n chuk(7) (1)ts(')(a/)n f(a/)n(6)_
+        [[caan1 zuk1 caan1 faan6 餐粥餐飯]]
+        a meal of congee and of rice --- poor.
+    ==
+  ====
+C
+  ==
+  - Williams' 大餐: Dated; 大餐 now simply means a big meal, or feast.
+  - Williams' 黐飯餐: A diner out in the sense of freeloading food.
   ==
 $$
 
