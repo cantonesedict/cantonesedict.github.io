@@ -321,7 +321,7 @@ class Indexer:
                     f'  //',
                     f'    , {split_cantonese_entry.term_jyutping}',
                     f'    , {split_cantonese_entry.term}',
-                    f'    , [{split_cantonese_entry.relative_url}](/entries/{split_cantonese_entry.relative_url})',
+                    f'    , [{split_cantonese_entry.link_text}](/entries/{split_cantonese_entry.relative_url})',
                 ])
                 for split_cantonese_entry in self.split_cantonese_entries
             ],
@@ -478,10 +478,16 @@ class Page:
 
 class CantoneseEntry:
     def __init__(self, term, disambiguation, term_jyutping, page_jyutping):
+        parenthetical_disambiguation = (
+            re.sub(pattern=r'-(?P<slug>.*)', repl=r'~\\(\g<slug>\\)', string=disambiguation)
+            if disambiguation
+            else ''
+        )
         self.term = term
         self.disambiguation = disambiguation
         self.term_jyutping = term_jyutping
         self.page_jyutping = page_jyutping
+        self.link_text = f'{term}{parenthetical_disambiguation}'
         self.relative_url = f'{page_jyutping}#cantonese-{term}{disambiguation}'
 
     def split(self):
