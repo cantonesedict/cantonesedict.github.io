@@ -139,7 +139,9 @@ html {
 
 input {
   font-size: 1em;
+  max-width: 90%;
   padding: 0.2em;
+  width: 16em;
 }
 
 
