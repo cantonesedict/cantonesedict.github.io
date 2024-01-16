@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 4-stroke radicals
-* %date-modified --> 2024-01-15
+* %date-modified --> 2024-01-16
 * %copyright-prior-years -->
 * %meta-description --> index of characters with 4-stroke radicals
 
@@ -671,6 +671,23 @@ For all radicals, see [Index of characters by radical](./).
 ## ⽍ (death)
 
 <## radical-⽍-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 8
+    ,
+      <nav class="sideways">
+      ==
+      - $殘caan4
+      ==
+      </nav>
+''
+||||
 <## /radical-⽍-characters ##>
 
 

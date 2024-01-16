@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [caan1](#1)
 - [caan2](#2)
+- [caan4](#4)
 - [caan5](#5)
 ==
 </nav>
@@ -364,6 +365,74 @@ E
        - 正煙鏟 (zing3 jin1 caan2): "[He's a] right smokaholic."
        ==
     ++
+  ====
+$$
+
+
+##{#4 .williams} (4)Ts(')(a/)n [[caan4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways">
+=={.modern}
+- $殘4
+==
+</nav>
+<## /tone-4-characters ##>
+
+### 殘4 | _(4)Ts(')(a/)n_ [[caan4]]
+
+$$
+R
+  ⽍ + 8
+U
+  U+6B98
+F
+  ==
+  - [[F2.68]]]
+  ==
+W
+  ====
+  - [[Page~555 (4)殘]]
+    ==
+    - To ruin, to destroy;
+    - to injure, to spoil;
+    - to mangle, to tread on;
+    - to kill, to slaughter;
+    - mischievous, wicked, cruel;
+    - spoiled, pillaged;
+    - withered;
+    - broken food, leavings;
+    - deficient, nearly used up, ready to vanish away;
+    - _(4)ts(')(a/)n hoi(6)_
+        [[caan4 hoi6 殘害]]
+        truculent, savage;
+    - _(2)shau tsuk(7) (1)s(e/)ung (4)ts(')(a/)n_
+        [[sau2 zuk1 soeng1 caan4 手足相殘]],
+        fraternal strifes;
+    - _(4)ts(')(a/)n (1)f(a/)_
+        [[caan4 faa1 殘花]],
+        a withered flower---a prostitute;
+    - _(4)ts(')(a/)n (4)n(i/)n_
+        [[caan4 nin4 殘年]],
+        year going ont;
+        an old man;
+    - _shik(9) (4)ts(')(a/)n_
+        [[sik6 caan4 食殘]],
+        leavings, orts;
+    - _(4)ts(')(a/)n (4)yan_
+        [[caan4 jan4 殘人]],
+        to injure people;
+        a villain;
+    - _(4)ts(')(a/)n (1)p(u/)i_
+        [[caan4 bui1 殘杯]],
+        heeltaps;
+    - _(4)ts(')(a/)n k(')(u")t(8)_
+        [[caan4 kyut3 殘缺]],
+        deficient, injured;
+    - _(4)ts(')(a/)n (2)yan_
+        [[caan4 jan2 殘忍]],
+        cruel, unfeeling.
+    ==
   ====
 $$
 
