@@ -114,6 +114,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Character entry links
 |:
   //
+    , 2
+    ,
+      <nav class="sideways">
+      ==
+      - $飡caan1
+      ==
+      </nav>
+  //
     , 7
     ,
       <nav class="sideways">

@@ -51,10 +51,32 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $飡1
 - $餐1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 飡1 | _(1)Ts(')(a/)n_ [[caan1]]
+
+$$
+R
+  ⾷ + 2
+U
+  U+98E1
+F
+  ==
+  - [[F2.67 餐]] 熟食也
+  - [[F2.67 飡]] 同上
+  ==
+W
+  ====
+  - [[Page~555 (1)餐(1)飡]]
+    --
+    [[Alternative form of 餐. **See $餐caan1 for the canonical entry.**]]
+    --
+  ====
+$$
 
 ### 餐1 | _(1)Ts(')(a/)n_ [[caan1]]
 
