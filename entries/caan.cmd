@@ -375,10 +375,57 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $燦3
 - $粲3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 燦3 | _Ts(')(a/)n(3)_ [[caan3]]
+
+$$
+R
+  ⽕ + 13
+U
+  U+71E6
+F
+  ==
+  - [[F2.70 燦]] 光明也
+  ==
+W
+  ====
+  - [[Page~556 燦(3)]]
+    ==
+    - Resplendent, clear;
+    - attractive, bright, gay;
+    - _ts(')(a/)n(3) l(a/)n(6)_
+        [[caan3 laan6 燦爛]]
+        lustrous, brilliant;
+    - _ts(')(a/)n(3) (4)t(')au_
+        [[caan3 tau4 燦頭]],
+        you're a bright one!
+    ==
+  ====
+C
+  ==
+  - The (now) derogatory sense of "immigrant from the Mainland"
+    is ultimately traced to the
+    [1979 TVB Series 網中人 (''The Good, the Bad, and the Ugly'')][網中人].
+    For an in-depth discussion on the term 阿燦,
+    see the [Chinese Wikipedia article][阿燦].
+  ==
+E
+  ====
+  - 【阿燦】 (aa3 caan3):
+    ++
+    1. (_derogatory_) An immigrant into Hong Kong from Mainland China.
+    ++
+  ====
+$$
+
+[網中人]: https://en.wikipedia.org/wiki/The_Good,_the_Bad_and_the_Ugly_(TV_series)
+[阿燦]: https://zh.wikipedia.org/wiki/阿燦
+
 
 ### 粲3 | _Ts(')(a/)n(3)_ [[caan3]]
 
@@ -405,7 +452,7 @@ W
     - to laugh, smiling;
     - fine rice;
     - _p(a/)k(9) ts(')(a/)n(3)_
-        [[baak6 caan3 白粲]]
+        [[ba`ak6 caan3 白粲]]
         white rice, anciently picked over by criminals;
     - _ts(')(a/)n(3) ts(')(a/)n(3)_
         [[caan3 caan3 粲粲]]

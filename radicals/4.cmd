@@ -892,6 +892,14 @@ For all radicals, see [Index of characters by radical](./).
       - $燖cam4
       ==
       </nav>
+  //
+    , 13
+    ,
+      <nav class="sideways">
+      ==
+      - $燦caan3
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⽕-characters ##>
