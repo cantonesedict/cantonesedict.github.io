@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zang1](#1)
+- [zang3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -206,5 +207,49 @@ W
 S
   ==
   - $錚zaang1
+  ==
+$$
+
+
+##{#3 .williams} Chang(3) Tsang(3) [[zang3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $諍3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 諍3 | _Chang(3)_ [[zang3]]
+
+$$
+R
+  ⾔ + 8
+U
+  U+8ACD
+V
+  ==
+  - zaang3 (longer syllable)
+  ==
+F
+  ==
+  - [[F2.29 諍 _Chang(6)_ (zang6)]] 諫諍救正之也
+  ==
+W
+  ====
+  - [[Page~20|n63 諍(3)]]
+    ==
+    - To remonstrate with;
+    - to stop a wrong;
+    - _k(a/)n(3) chang(3)_
+        [[gaan3 zang3 諫諍]]
+        to reprove one's sovereign;
+        to reprehend.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: 諍 is spuriously placed under the final _ang(6)_ [[ang6]].
   ==
 $$
