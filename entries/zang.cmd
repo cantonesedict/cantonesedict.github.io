@@ -55,6 +55,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $凈1
+- $曾1
 - $棦1
 - $琤1
 - $箏1
@@ -85,6 +86,39 @@ W
 C
   ==
   - Williams misprints 凈 as 净.
+  ==
+$$
+
+### 曾1 | _(1)Tsang_ [[zang1]]
+
+$$
+R
+  ⽈ + 8
+U
+  U+66FE
+F
+  ==
+  - [[F2.29 曾]] 則也乃也又曾祖曾孫
+  ==
+W
+  ====
+  - [[Page~556 (1)曾]]
+    ==
+    - To duplicate, to add;
+    - _(1)tsang (1)s(u")n_
+        [[zang1 syun1 曾孫]],
+        a great-grandson;
+    - _(1)tsang (2)ts(o\) (5)m(o\)_
+        [[zang1 zou2 mou5 曾祖母]],
+        a great-grandmother;
+    - _(1)tsang (2)ts(o\)_
+        [[zang1 zou2 曾祖]],
+        a great-grandfather.
+    ==
+  ====
+S
+  ==
+  - $曾cang4 (TODO)
   ==
 $$
 
