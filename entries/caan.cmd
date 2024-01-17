@@ -345,7 +345,7 @@ W
         a set of shovel and tongs;
     - _(2)ch(')(a/)n (2)ts(')(o\) (4)ch(')(u") (1)kan_
         [[caan2 cou2 ceoi4 gan1 鏟草除根]],
-        to root uut, to extirpate;
+        to root out, to extirpate;
     - _(2)ch(')(a/)n (1)sh(a/)n_
         [[caan2 saan1 鏟山]],
         to scarp hills, to dig in a level.
