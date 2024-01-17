@@ -61,6 +61,10 @@ R
   ⽵ + 8
 U
   U+7B8F
+V
+  ==
+  - zaang1 (longer syllable)
+  ==
 F
   ==
   - [[F2.29 筝]] 樂器十二絃
