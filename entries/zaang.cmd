@@ -54,6 +54,7 @@ $$
 - $棦1
 - $琤1
 - $箏1
+- $錚1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -118,5 +119,26 @@ C
 S
   ==
   - $箏zang1
+  ==
+$$
+
+###+ 錚1 | _(1)Ch(a/)ng_ [[zaang1]]
+
+$$
+R
+  ⾦ + 8
+U
+  U+931A
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation; **see $錚zang1 for the canonical entry**.
+  ==
+S
+  ==
+  - $錚zang1
   ==
 $$

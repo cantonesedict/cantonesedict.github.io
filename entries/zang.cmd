@@ -203,4 +203,8 @@ W
     - the ringing sound of metals.
     ==
   ====
+S
+  ==
+  - $錚zaang1
+  ==
 $$
