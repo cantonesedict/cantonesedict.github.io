@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $凈1
 - $棦1
+- $琤1
 - $箏1
 ==
 </nav>
@@ -97,6 +98,26 @@ W
   - [[Page~20|n63 (1)棦]]
     ==
     - A bundle of sticks, a number of sticks tied up into a faggot.
+    ==
+  ====
+$$
+
+### 琤1 | _(1)Chang_ [[zang1]]
+
+$$
+R
+  ⽟ + 8
+U
+  U+7424
+F
+  ==
+  - [[F2.29 琤]] 玉聲
+  ==
+W
+  ====
+  - [[Page~20|n63 (1)琤]]
+    ==
+    - The tinkling sound of gems when they are struck or rung together.
     ==
   ====
 $$
