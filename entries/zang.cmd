@@ -174,6 +174,10 @@ W
         to fly a singing kite.
     ==
   ====
+S
+  ==
+  - $箏zaang1
+  ==
 $$
 
 ### 錚1 | _(1)Chang_ [[zang1]]

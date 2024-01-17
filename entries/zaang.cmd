@@ -53,6 +53,7 @@ $$
 =={.modern}
 - $棦1
 - $琤1
+- $箏1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -96,5 +97,26 @@ C
 S
   ==
   - $琤zang1
+  ==
+$$
+
+###+ 箏1 | _(1)Ch(a/)ng_ [[zaang1]]
+
+$$
+R
+  ⽵ + 8
+U
+  U+7B8F
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation; **see $箏zang1 for the canonical entry**.
+  ==
+S
+  ==
+  - $箏zang1
   ==
 $$
