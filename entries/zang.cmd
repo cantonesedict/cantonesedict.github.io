@@ -133,6 +133,10 @@ W
     - The tinkling sound of gems when they are struck or rung together.
     ==
   ====
+S
+  ==
+  - $琤zaang1
+  ==
 $$
 
 ### 箏1 | _(1)Chang_ [[zang1]]

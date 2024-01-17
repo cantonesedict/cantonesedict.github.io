@@ -80,6 +80,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $琖zaan2
+      - $琤zaang1
       - $琤zang1
       ==
       </nav>

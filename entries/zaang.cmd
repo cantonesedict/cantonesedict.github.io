@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [zaang1](#1)
 ==
 </nav>
 <## /tones ##>
@@ -41,5 +42,37 @@ MP
 S
   ==
   - $zang
+  ==
+$$
+
+
+##{#1 .williams} (1)Ch(a/)ng [[zaang1 陰平]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $琤1
+==
+</nav>
+<## /tone-1-characters ##>
+
+###+ 琤1 | _(1)Ch(a/)ng_ [[zaang1]]
+
+$$
+R
+  ⽟ + 8
+U
+  U+7424
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation; **see $琤zang1 for the canonical entry**.
+  ==
+S
+  ==
+  - $琤zang1
   ==
 $$
