@@ -5,18 +5,12 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caan
-* %date-modified --> 2024-01-16
+* %date-modified --> 2024-01-17
 * %copyright-prior-years --> 2023--
 
 %%%
 
 #{.williams} Ch(')(a/)n. Ts(')(a/)n. [[caan]]
-
-<nav class="sideways">
-=={.modern}
-- [[Work in progress]]
-==
-</nav>
 
 <## tones ##>
 <nav class="sideways">
