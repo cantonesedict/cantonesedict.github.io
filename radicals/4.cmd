@@ -122,6 +122,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $憯caam2
       - $𢡖 (⿰忄叅)caam2
+      - $憎zang1
       ==
       </nav>
   //
