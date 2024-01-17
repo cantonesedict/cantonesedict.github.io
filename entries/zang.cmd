@@ -55,6 +55,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $凈1
+- $增1
 - $曾1
 - $棦1
 - $琤1
@@ -87,6 +88,36 @@ C
   ==
   - Williams misprints 凈 as 净.
   ==
+$$
+
+### 增1 | _(1)Tsang_ [[zang1]]
+
+$$
+R
+  ⼟ + 12
+U
+  U+589E
+F
+  ==
+  - [[F2.29 增]] 益也加也
+  ==
+W
+  ====
+  - [[Page~556 (1)增]]
+    ==
+    - To add, to double, to increase;
+    - repeated, doubled;
+    - _(1)k(a/) (1)tsang_
+        [[gaa1 zang1 加增]],
+        to augment;
+    - _(1)tsang k(a/)(3)_
+        [[zang1 gaa3 增價]]
+        to raise the price;
+    - _(1)tsang (4)m(a/)i_
+        [[zang1 maai4 增埋]],
+        to give a higher price, to throw in the difference.
+    ==
+  ====
 $$
 
 ### 曾1 | _(1)Tsang_ [[zang1]]

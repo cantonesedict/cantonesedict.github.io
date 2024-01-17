@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 3-stroke radicals
-* %date-modified --> 2024-01-15
+* %date-modified --> 2024-01-17
 * %copyright-prior-years -->
 * %meta-description --> index of characters with 3-stroke radicals
 
@@ -230,6 +230,14 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $塵can4
+      ==
+      </nav>
+  //
+    , 12
+    ,
+      <nav class="sideways">
+      ==
+      - $增zang1
       ==
       </nav>
   //
