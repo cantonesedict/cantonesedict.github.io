@@ -103,7 +103,7 @@ E
   ====
   - 【斟茶遞水】 (zam1 caa4 dai6 seoi2):
     ++
-    1. Menial work. (Literally "pour tea [and] pass [the] water".)
+    1. Menial work. (Literally, "pour tea [and] pass [the] water".)
     ++
   ====
 $$
