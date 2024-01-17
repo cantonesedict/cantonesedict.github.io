@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zaang1](#1)
+- [zaang3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -140,5 +141,39 @@ C
 S
   ==
   - $錚zang1
+  ==
+$$
+
+
+##{#3 .modern} Ch(a/)ng(3) [[zaang3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $諍3
+==
+</nav>
+<## /tone-3-characters ##>
+
+###+ 諍3 | _Ch(a/)ng(3)_ [[zaang3]]
+
+$$
+R
+  ⾔ + 8
+U
+  U+8ACD
+F
+  ==
+  - [[F2.29 諍 _Chang(6)_ (zang6)]] 諫諍救正之也
+  ==
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation; **see $諍zang3 for the canonical entry**.
+  ==
+S
+  ==
+  - $諍zang3
   ==
 $$

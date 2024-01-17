@@ -252,4 +252,8 @@ C
   ==
   - Fan Wan entry: 諍 is spuriously placed under the final _ang(6)_ [[ang6]].
   ==
+S
+  ==
+  - $諍zaang3
+  ==
 $$
