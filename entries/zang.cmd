@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $凈1
+- $棦1
 - $箏1
 ==
 </nav>
@@ -78,6 +79,26 @@ C
   ==
   - Williams misprints 凈 as 净.
   ==
+$$
+
+### 棦1 | _(1)Chang_ [[zang1]]
+
+$$
+R
+  ⽊ + 8
+U
+  U+68E6
+F
+  ==
+  - [[F2.29 棦]] 木節
+  ==
+W
+  ====
+  - [[Page~20|n63 (1)棦]]
+    ==
+    - A bundle of sticks, a number of sticks tied up into a faggot.
+    ==
+  ====
 $$
 
 ### 箏1 | _(1)Chang_ [[zang1]]
