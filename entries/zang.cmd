@@ -49,10 +49,36 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $凈1
 - $箏1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### [凈]1 | _(1)Chang_ [[zang1]]
+
+$$
+R
+  ⼎ + 8
+U
+  U+51C8
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~20|n63 (1)[凈]^]]
+    ==
+    - Cold, shivering.
+    ==
+    --
+    Incorrectly but commonly used for 淨 _tsing(6)_ [[zing6]] clean [[**see $淨zing6**]]. [[TODO]]
+    --
+  ====
+C
+  ==
+  - Williams misprints 凈 as 净.
+  ==
+$$
 
 ### 箏1 | _(1)Chang_ [[zang1]]
 
