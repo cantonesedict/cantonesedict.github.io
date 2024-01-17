@@ -53,6 +53,7 @@ $$
 - $棦1
 - $琤1
 - $箏1
+- $錚1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -89,6 +90,10 @@ R
   ⽊ + 8
 U
   U+68E6
+V
+  ==
+  - zaang1 (longer syllable)
+  ==
 F
   ==
   - [[F2.29 棦]] 木節
@@ -109,6 +114,10 @@ R
   ⽟ + 8
 U
   U+7424
+V
+  ==
+  - zaang1 (longer syllable)
+  ==
 F
   ==
   - [[F2.29 琤]] 玉聲
@@ -151,6 +160,31 @@ W
     - _fong(3) (1)fung (1)chang_
         [[fong3 fung1 zang1 放風箏]],
         to fly a singing kite.
+    ==
+  ====
+$$
+
+### 錚1 | _(1)Chang_ [[zang1]]
+
+$$
+R
+  ⾦ + 8
+U
+  U+931A
+V
+  ==
+  - zaang1 (longer syllable)
+  ==
+F
+  ==
+  - [[F2.29 錚]] 金聲
+  ==
+W
+  ====
+  - [[Page~20|n63 (1)錚]]
+    ==
+    - A small cymbal, a small sized gong;
+    - the ringing sound of metals.
     ==
   ====
 $$
