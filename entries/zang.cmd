@@ -154,6 +154,16 @@ W
         capricious, now hating and then loving.
     ==
   ====
+E
+  ====
+  - 【乞人憎】 (hat1 jan4 zang1):
+    ++
+    1. Despicable. (Literally, "begging others' hate".)
+       ==
+       - 真係乞人憎 (zan1 hai6 hat1 jan4 zang1): "[That] really is despicable."
+       ==
+    ++
+  ====
 $$
 
 ### 曾1 | _(1)Tsang_ [[zang1]]
