@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2024-01-07
+* %date-modified --> 2024-01-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -103,8 +103,7 @@ E
   ====
   - 【斟茶遞水】 (zam1 caa4 dai6 seoi2):
     ++
-    1. Literally "pour tea [and] pass [the] water";
-       figuratively, menial work.
+    1. Menial work. (Literally "pour tea [and] pass [the] water".)
     ++
   ====
 $$
