@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2024-01-07
+* %date-modified --> 2024-01-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -587,7 +587,7 @@ W
     --
     ==
     - A colloquial particle implying doubt, perhaps;
-    - also a final sound, insplying it is so; I understand it:
+    - also a final sound, implying it is so; I understand it:
     - _(2)k(o\)m y(e/)ung(6) ch(a/)(3)_
         [[gam2 joeng6-2 zaa3 噉樣咋]]
         so will do, eh!
