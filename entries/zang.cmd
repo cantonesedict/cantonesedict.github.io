@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2023-08-02
-* %copyright-prior-years -->
+* %date-modified --> 2024-01-17
+* %copyright-prior-years --> 2023--
 
 %%%
-
---{.modern}
-[[From Page~20|n63 (Chang) and Page~556 (Tsang) of the original onwards.]]
---
 
 #{.williams} Chang. Tsang. [[zang]]
 
@@ -21,3 +17,27 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [[Work in progress]]
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Chang. [[Page~20|n63]]
+  - Tsang. [[Page~556]]
+  ==
+WP
+  ==
+  - Chang <span class="modern">= [tɕɐŋ]</span>
+  - Tsang <span class="modern">= [tsɐŋ]</span>
+  ==
+MP
+  ==
+  - zam = [tsɐŋ], [tɕɐŋ]
+  ==
+$$
