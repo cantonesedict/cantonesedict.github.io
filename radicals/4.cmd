@@ -591,6 +591,7 @@ For all radicals, see [Index of characters by radical](./).
       - $棲cai1
       - $棧zaan2
       - $棧zaan6
+      - $棦zaang1
       - $棦zang1
       ==
       </nav>

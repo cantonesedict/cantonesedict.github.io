@@ -109,6 +109,10 @@ W
     - A bundle of sticks, a number of sticks tied up into a faggot.
     ==
   ====
+S
+  ==
+  - $棦zaang1
+  ==
 $$
 
 ### 琤1 | _(1)Chang_ [[zang1]]

@@ -51,10 +51,32 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $棦1
 - $琤1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+###+ 棦1 | _(1)Ch(a/)ng_ [[zaang1]]
+
+$$
+R
+  ⽊ + 8
+U
+  U+68E6
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation; **see $棦zang1 for the canonical entry**.
+  ==
+S
+  ==
+  - $棦zang1
+  ==
+$$
 
 ###+ 琤1 | _(1)Ch(a/)ng_ [[zaang1]]
 
