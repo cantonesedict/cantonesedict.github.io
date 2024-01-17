@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2024-01-07
+* %date-modified --> 2024-01-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -186,7 +186,7 @@ W
   ====
 $$
 
-### 栖1 | _(1)Ts(')ai_ [[cai1]]
+### [栖]1 | _(1)Ts(')ai_ [[cai1]]
 
 $$
 R

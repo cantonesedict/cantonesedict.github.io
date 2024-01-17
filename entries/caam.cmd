@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2024-01-15
+* %date-modified --> 2024-01-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -129,7 +129,7 @@ S
   ==
 $$
 
-### 叅1 | _(1)Ts(')(a/)m_ [[caam1]]
+### [叅]1 | _(1)Ts(')(a/)m_ [[caam1]]
 
 $$
 R
