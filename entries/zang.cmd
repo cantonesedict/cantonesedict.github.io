@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [zang1](#1)
 - [zang3](#3)
+- [zang6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -431,7 +432,7 @@ W
   ====
 S
   ==
-  - zang6 (TODO)
+  - $甑zang6
   ==
 $$
 
@@ -469,5 +470,37 @@ C
 S
   ==
   - $諍zaang3
+  ==
+$$
+
+
+##{#6 .williams} Tsang(6) [[zang6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $甑6
+==
+</nav>
+<## /tone-6-characters ##>
+
+###+ 甑6 | _Tsang(6)_ [[zang6]]
+
+$$
+R
+  ⽡ + 12
+U
+  U+7511
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation; **see $甑zang3 for the canonical entry**.
+  ==
+S
+  ==
+  - $甑zang3
   ==
 $$
