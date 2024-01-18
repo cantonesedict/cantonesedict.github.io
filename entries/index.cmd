@@ -133,7 +133,7 @@ See also: [Index of Cantonese terms by Jyutping](/terms/).
 - $cak
 - $cam
 - $can
-- $cang (work in progress)
+- $cang
 - $cap (work in progress)
 - $cat (work in progress)
 - $cau (work in progress)
