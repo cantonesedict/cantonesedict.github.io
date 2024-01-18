@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2024-01-17
+* %date-modified --> 2024-01-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -61,6 +61,7 @@ $$
 - $棦1
 - $琤1
 - $箏1
+- $罾1
 - $錚1
 ==
 </nav>
@@ -289,6 +290,46 @@ W
 S
   ==
   - $箏zaang1
+  ==
+$$
+
+### 罾1 | _(1)Tsang_ [[zang1]]
+
+$$
+R
+  ⽹ + 12
+U
+  U+7F7E
+F
+  ==
+  - [[F2.29 繒]] ::魚[網]::
+  - [[F2.29 ::[罾]::]] 同上
+  ==
+W
+  ====
+  - [[Page~556 (1)罾]]
+    ==
+    - A lifting net, suspended by the corners;
+    - _kw(a/)(3) (1)tsang_
+        [[gwaa3 zang1 掛罾]],
+        to let down the net;
+    - _(1)h(a/) (1)tsang_
+        [[haa1 zang1 蝦罾]],
+        a crab-net made of cloth;
+    - _(2)[(a/)u] (1)tsang_
+        [[aau2 zang1 拗罾]],
+        to raise the net;
+    - _(2)[(a/)u] (1)tsang (4)'m k(i/)(3) tak(7) t(')ong(3) (1)lo (4)sh(i/)_
+        [[aau2 zang1 m4 gei3 dak1 tong3 lo4-1 si4 拗罾唔記得熨籮時]],
+        he don't like to remember when he dragged for shrimps.
+    ==
+  ====
+C
+  ==
+  - Fan Wan erroneously has 繒 explained ::魚[網]:: (綱 corrected to 網),
+    and a strange character (like 曾, but with 丅 conjoined to the middle component between 八 above and 曰 below)
+    explained 同上, which has here been normalised to 罾.
+  - Williams' 拗罾 etc.: Corrected _(2)au_ [[au2]] to _(2)(a/)u_ [[aau2]].
   ==
 $$
 
