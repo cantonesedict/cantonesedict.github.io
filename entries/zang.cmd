@@ -309,6 +309,44 @@ C
   - Williams' 爭奪: Corrected _t(u")t(8)_ [[dyut3]] to _t(u")t(9)_ [[dyut6]].
   - Williams' 爭得多: Corrected _(1)t(o\)_ [[dou1]] to _(1)to_ [[do1]].
   ==
+E
+  ====
+  - 【爭】 (zaang1):
+    ++
+    1. To differ by.
+       ==
+       - 爭好遠 (zaang1 hou2 jyun5): "Off by very far"
+       - 爭少少 (zaang1 siu2 siu2): "Off by [a] little."
+       - 爭啲 (zaang1 di1): "Off by [a] bit."
+       ==
+    1. To lack, to be missing, to be short.
+       ==
+       - 爭對筷子 (zaang1 deoi3 faai3 zi2): "Short [a] pair of chopsticks."
+       ==
+    1. To owe.
+       ==
+       - 爭住先 (zaang1 zyu6 sin1): "[I] owe [you] for now" (i.e. I'll pay you back later).
+       - 爭佢錢 (zaang1 keoi5 cin4-2): "[I] owe him money."
+       ==
+    ++
+  - 【爭在】 (zaang1 zoi6):
+    ++
+    1. To matter.
+       Especially used in contrast to something that does not matter
+       (or in contrast to something that does matter when used in the negative, 唔爭在).
+       ==
+       - 輸就輸硬、爭在輸幾多 (syu1 zau6 syu1 ngaang6, zaang1 zoi6 syu1 gei2 do1):
+         "[Yes they've] lost for sure, [but what] matters [now is] how much [they] lose by."
+       - 唔爭在遲多兩分鐘 (m4 zaang1 zoi6 ci4 do1 loeng5 fan1 zung1):
+         "[It] won't matter [if we're] two more minutes late [on top of how late we are now]."
+       ==
+    1. To be lacking, or to fall short, in.
+       ==
+       - 平就平、爭在唔夠飽 (peng4 zau6 peng4, zaang1 zoi6 m4 gau3 baau2):
+         "[Yes] it's [a] cheap [meal], [but it] falls short in [that it's] not adequately filling."
+       ==
+    ++
+  ====
 S
   ==
   - $爭zaang1
