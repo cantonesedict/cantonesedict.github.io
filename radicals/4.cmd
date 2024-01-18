@@ -933,6 +933,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $爭zaang1
+      - $爭zang1
       ==
       </nav>
 ''

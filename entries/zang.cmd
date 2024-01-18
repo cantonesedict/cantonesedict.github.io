@@ -54,6 +54,7 @@ $$
 - $憎1
 - $曾1
 - $棦1
+- $爭1
 - $琤1
 - $箏1
 - $繒1
@@ -221,6 +222,96 @@ W
 S
   ==
   - $棦zaang1
+  ==
+$$
+
+###+ 爭1 | _(1)Chang_ [[zang1]]
+
+$$
+R
+  ⽖ + 4
+U
+  U+722D
+V
+  ==
+  - zaang1 (longer syllable)
+  ==
+F
+  ==
+  - [[F2.29 爭]] 爭競爭闘
+  ==
+W
+  ====
+  - [[Page~20|n63 (1)爭 _(1)Ch(a/)ng_ (zaang1); here normalised to _(1)ch(a/)ng_ (zang1) when appropriate]]
+    ==
+    - To wrangle, to strive for precedence;
+    - to contest, to litigate;
+    - to reprove, to remonstrate, in which senses it is used for the last [[$諍3]].
+    - A colloquial word;
+    - just, only, nearly, a little;
+    - _(1)[chang] noi(6)_
+        [[zang1 noi6 爭奈]]
+        but still, howbeit, nevertheless;
+    - _(1)ch(a/)ng t(a/)m(6) h(i/)(3)_
+        [[zaang1 daam6 hei3 爭啖氣]]
+        unforgiving, choleric;
+    - _(1)ch(a/)ng (4)l(i/) (4)h(o\)_
+        [[zaang1 lei4 hou4 爭釐毫]],
+        to quarrel upon trifles;
+    - _(1)ch(a/)ng mat(7) (5)y(e/)_
+        [[zaang1 mat1 je5 爭乜嘢]],
+        what are you quarreling about?
+    - _(1)ch(a/)ng tik(7) (5)sh(e/)ung tong(3)_
+        [[zaang1 dik1 soeng5 dong3 爭滴上當]]
+        I came near being gulled;
+    - _(1)[chang] tau(3)_
+        [[zang1 dau3 爭鬥]]
+        to fight, to fall to blows;
+    - _(1)[chang] tsung(6)_
+        [[zang1 zung6 爭訟]]
+        to go to law;
+    - _(1)ch(a/)ng (1)kung_
+        [[zaang1 gung1 爭功]],
+        to emulate;
+    - _(1)[chang] t(u")t[(9)]_
+        [[zang1 dyut6 爭奪]],
+        to take by force;
+    - _(1)[chang] chap(7)_
+        [[zang1 zap1 爭執]]
+        obstinate;
+    - _(1)ch(a/)ng (5)yau h(a/)n(6)_
+        [[zaang1 jau5 haan6 爭有限]]
+        differs a little;
+    - _(1)ch(a/)ng tik(7) chuk(7) (2)t(o\) (5)k(')(u")_
+        [[zaang1 dik1 zuk1 dou3-2 keoi5 爭滴捉到佢]],
+        all but caught him;
+    - _(1)[chang] (a/)u(3)_
+        [[zang1 aau3 爭詏]]
+        to dispute;
+    - _(1)ch(a/)ng tak(7) (1)[to]_
+        [[zaang1 dak1 do1 爭得多]],
+        very different;
+        not enough;
+    - _(1)ch(a/)ng kau(3)_
+        [[zaang1 gau3 爭夠]]
+        I'm tired of striving, I'll contend no more.
+    ==
+  ====
+C
+  ==
+  - Fan Wan places 爭 under the short syllable _(1)chang_ [[zang1]];
+    Williams places it under the longer _(1)ch(a/)ng_ [[zaang1]].
+  - The longer syllable _(1)ch(a/)ng_ [[zaang1]]
+    is preferred in the vernacular register,
+    so normalisation to the shorter _(1)chang_ [[zang1]] is only appropriate
+    in some instances.
+  - Williams' 爭功: Not to emulate, but to claim merit.
+  - Williams' 爭奪: Corrected _t(u")t(8)_ [[dyut3]] to _t(u")t(9)_ [[dyut6]].
+  - Williams' 爭得多: Corrected _(1)t(o\)_ [[dou1]] to _(1)to_ [[do1]].
+  ==
+S
+  ==
+  - $爭zaang1
   ==
 $$
 
