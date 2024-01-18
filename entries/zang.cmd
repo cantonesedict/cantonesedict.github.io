@@ -399,6 +399,7 @@ $$
 =={.modern}
 - $甑3
 - $諍3
+- $蹭3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -470,6 +471,28 @@ C
 S
   ==
   - $諍zaang3
+  ==
+$$
+
+### 蹭3 | _Tsang(3)_ [[zang3]]
+
+$$
+R
+  ⾜ + 12
+U
+  U+8E6D
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~556 蹭(3)]]
+    --
+    [[Idiosyncratic reading from Williams; **see $蹭sang3 for the canonical entry**.]]
+    --
+  ====
+S
+  ==
+  - $蹭sang3 (TODO)
   ==
 $$
 
