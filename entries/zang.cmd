@@ -61,6 +61,7 @@ $$
 - $棦1
 - $琤1
 - $箏1
+- $繒1
 - $罾1
 - $錚1
 ==
@@ -290,6 +291,33 @@ W
 S
   ==
   - $箏zaang1
+  ==
+$$
+
+### 繒1 | _(1)Tsang_ [[zang1]]
+
+$$
+R
+  ⽷ + 12
+U
+  U+7E52
+F
+  ==
+  - [[F2.29 繒]] ::魚[網]::
+  - [[F2.29 ::[罾]::]] 同上
+  ==
+W
+  ====
+  - [[Page~556 (1)繒]]
+    ==
+    - A general name for common silken fabrics, as pongee, sarsnet, lutestring.
+    ==
+  ====
+C
+  ==
+  - Fan Wan erroneously has 繒 explained ::魚[網]:: (綱 corrected to 網),
+    and a strange character (like 曾, but with 丅 conjoined to the middle component between 八 above and 曰 below)
+    explained 同上, which has here been normalised to 罾.
   ==
 $$
 

@@ -182,6 +182,14 @@ For all radicals, see [Index of characters by radical](./).
       - $縝can2
       ==
       </nav>
+  //
+    , 12
+    ,
+      <nav class="sideways">
+      ==
+      - $繒zang1
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⽷-characters ##>
