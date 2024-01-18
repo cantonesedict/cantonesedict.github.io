@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaang
-* %date-modified --> 2024-01-17
+* %date-modified --> 2024-01-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -53,6 +53,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $棦1
+- $爭1
 - $琤1
 - $箏1
 - $錚1
@@ -78,6 +79,28 @@ C
 S
   ==
   - $棦zang1
+  ==
+$$
+
+### 爭1 | _(1)Ch(a/)ng_ [[zaang1]]
+
+$$
+R
+  ⽖ + 4
+U
+  U+722D
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~20|n63 (1)爭]]
+    --
+    [[Reading variation; **see $爭zang1 for the canonical entry**.]]
+    --
+  ====
+S
+  ==
+  - $爭zang1 (TODO)
   ==
 $$
 
