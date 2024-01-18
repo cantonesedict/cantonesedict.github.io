@@ -503,6 +503,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $甑6
+- $贈6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -526,4 +527,41 @@ S
   ==
   - $甑zang3
   ==
+$$
+
+### 贈6 | _Tsang(6)_ [[zang6]]
+
+$$
+R
+  ⾙ + 12
+U
+  U+8D08
+F
+  ==
+  - [[F2.32 贈]] 送也
+  ==
+W
+  ====
+  - [[Page~557 贈(6)]]
+    ==
+    - To present, to give to, to bestow on;
+    - to confer, as by the crown;
+    - to add to;
+    - _tsang(6) sung(3)_
+        [[zang6 sung3 贈送]]
+        to give a present to;
+    - _k(o\)(3) tsang(6)_
+        [[gou3 zang6 誥贈]]
+        to honor an officer's parents for his merits;
+    - _tsang(6) (1)k(u/)n h(i/)(3) shik(7)_
+        [[zang6 gun1 hei3 sik1 贈觀氣色]],
+        to give a look at one's complexion---a sign of physiognomists;
+    - _ch(i/)t(3) (5)lau tsang(6) (4)hang (4)yan_
+        [[zit3 lau5 zang6 hang4 jan4 折柳贈行人]],
+        to give a willow-twig at parting;
+    - _toi(6) tsang(6)_
+        [[doi6 zang6 待贈]]
+        waiting for promotion, as expectant graduates do, at sixty.
+    ==
+  ====
 $$
