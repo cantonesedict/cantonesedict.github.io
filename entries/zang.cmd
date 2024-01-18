@@ -396,10 +396,44 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $甑3
 - $諍3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 甑3 | _Tsang(3)_ [[zang3]]
+
+$$
+R
+  ⽡ + 12
+U
+  U+7511
+V
+  ==
+  - zang6 (common)
+  ==
+F
+  ==
+  - [[F2.31 甑]] 炊飯之器又酒甑
+  ==
+W
+  ====
+  - [[Page~556 甑(3)]]
+    ==
+    - A boiler for distilling, an alembic, a still made of pewter;
+    - a boiler for steaming rice;
+    - to steam, to distil;
+    - _lok(9) tsang(3) (1)ching_
+        [[lok6 zang3 zing1 落甑蒸]],
+        put it in the still and steam it.
+    ==
+  ====
+S
+  ==
+  - zang6 (TODO)
+  ==
+$$
 
 ### 諍3 | _Chang(3)_ [[zang3]]
 
