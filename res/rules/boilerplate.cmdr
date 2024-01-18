@@ -39,6 +39,7 @@ RegexDictionaryReplacement: #.boilerplate.footer
 
 OrdinaryDictionaryReplacement: #.boilerplate.properties-override
 - queue_position: BEFORE #boilerplate-properties
+* lang="%lang" --> lang="%lang" translate="no"
 * %head-elements-before-viewport -->
     <meta name="author" content="Conway">
     <meta name="description" content="Cantonese Dictionary, a modern edition of Williams' 1856 Tonic Dictionary: %meta-description">
