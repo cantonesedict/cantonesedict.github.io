@@ -49,6 +49,7 @@ $$
 =={.modern}
 - $撐1
 - $撑1
+- $橕1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -124,4 +125,28 @@ S
   ==
   - $撑caang3 (TODO)
   ==
+$$
+
+### 橕1 | _(1)Ch(')(a/)ng_ [[caang1]]
+
+$$
+R
+  ⽊ + 12
+U
+  U+6A55
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~21|n64 (1)橕]]
+    ==
+    - A branch stretching out;
+    - a fulcrum;
+    - a prop.
+    ==
+    --
+    Read _ch(')(a/)ng(3)_ [[caang3]];
+    [[here normalised to 撐; **see $撐caang3 for the canonical entry**]].
+    --
+  ====
 $$
