@@ -379,6 +379,6 @@ S
   ==
   - $掙caang1 (TODO)
   - $掙zang1
-  - $掙zang3 (TODO)
+  - $掙zang3
   ==
 $$

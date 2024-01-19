@@ -229,7 +229,7 @@ S
   ==
   - $掙caang1 (TODO)
   - $掙zaang6
-  - $掙zang3 (TODO)
+  - $掙zang3
   ==
 $$
 
@@ -612,12 +612,43 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $掙3
 - $甑3
 - $諍3
 - $蹭3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 掙3 | _Chang(3)_ [[zang3]]
+
+$$
+R
+  ⼿ + 8
+U
+  U+6399
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~21|n64 掙(6)]]
+    --
+    [[...]]
+    --
+    --
+    Read _chang(3)_ [[zang3]];
+    --
+    ==
+    - to file[.]
+    ==
+  ====
+S
+  ==
+  - $掙caang1 (TODO)
+  - $掙zaang6
+  - $掙zang1
+  ==
+$$
 
 ### 甑3 | _Tsang(3)_ [[zang3]]
 
