@@ -48,6 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $撐1
+- $撑1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -100,5 +101,27 @@ W
 S
   ==
   - $撐caang3 (TODO)
+  ==
+$$
+
+### 撑1 | _(1)Ch(')(a/)ng_ [[caang1]]
+
+$$
+R
+  ⼿ + 12
+U
+  U+6491
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~21|n64 (1)撐(1)撑]]
+    --
+    [[Alternative form of 撐. **See $撐caang1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $撑caang3 (TODO)
   ==
 $$
