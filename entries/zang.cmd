@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $凈1
 - $增1
+- $崢1
 - $憎1
 - $曾1
 - $棦1
@@ -117,6 +118,42 @@ W
         to give a higher price, to throw in the difference.
     ==
   ====
+$$
+
+###+ 崢1 | _(1)Chang_ [[zang1]]
+
+$$
+R
+  ⼭ + 8
+U
+  U+5D22
+V
+  ==
+  - zaang1 (longer syllable)
+  ==
+F
+  ==
+  - [[F2.29 崢]] 山峻貌又頭角崢嶸
+  ==
+W
+  ====
+  - [[Page~21|n64 (1)崢 _(1)Ch(a/)ng_ (zaang1); here normalised to _(1)ch(a/)ng_ (zang1)]]
+    ==
+    - To rise above;
+    - conspicuous, eminent, like a lofty mountain;
+    - _(4)t(')au kok(3) (1)[chang] (4)[wing]_
+        [[tau4 gok3 zang1 wing4 頭角崢嶸]]
+        a noble appearance, dignified.
+    ==
+  ====
+C
+  ==
+  - Williams' 頭角崢嶸: Corrected _(4)ying_ [[jing4]] to _(4)wing_ [[wing4]].
+  ==
+S
+  ==
+  - $崢zaang1
+  ==
 $$
 
 ### 憎1 | _(1)Tsang_ [[zang1]]
