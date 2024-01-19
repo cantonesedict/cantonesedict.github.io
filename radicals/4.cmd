@@ -232,8 +232,9 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $掩am2
-      - $掣zai3
+      - $掙zaang6
       - $掙zang1
+      - $掣zai3
       ==
       </nav>
   //

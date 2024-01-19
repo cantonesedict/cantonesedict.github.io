@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [zaang1](#1)
 - [zaang3](#3)
+- [zaang6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -311,5 +312,62 @@ C
 S
   ==
   - $諍zang3
+  ==
+$$
+
+
+##{#6 .modern} Ch(a/)ng(6) [[zaang6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $掙6
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 掙6 | _Ch(a/)ng(6)_ [[zaang6]]
+
+$$
+R
+  ⼿ + 8
+U
+  U+6399
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~21|n64 掙(6)]]
+    --
+    A colloquial word.
+    --
+    ==
+    - To caulk;
+    - to wedge in, to squeeze in, to force in;
+    - _t(a/) ch(a/)ng(6)_
+        [[daa2 zaang6 打掙]]
+        to caulk seams;
+    - _ch(a/)ng(6) (4)ng(a/)_
+        [[zaang6 ngaa4 掙牙]],
+        to get between the teeth;
+    - _ch(a/)ng(6) (1)sh(a/) (1)kai_
+        [[zaang6 saa1 gai1 掙沙雞]],
+        to stuff a cock with sand;
+    - _ng(a/)ng(6) ch(a/)ng[(6)]_
+        [[ngaang6 zaan6 硬掙]]
+        determined, energetic, as in bearing pain.
+    ==
+    --
+    Read _(1)ch(')(a/)ng_ [[caang1]]; [[**see $掙caang1**]].
+    --
+    --
+    Read _chang(3)_ [[zang3]]; [[**see $掙zang3**]].
+    --
+  ====
+S
+  ==
+  - $掙caang1 (TODO)
+  - $掙zang1
+  - $掙zang3 (TODO)
   ==
 $$
