@@ -159,9 +159,13 @@ A
   ==
   -{.modern} $踭1
   ==
+V
+  ==
+  - zang1 (uncommon)
+  ==
 F
   ==
-  - [[F2.29 踭]] 足跟筋也
+  - [[F2.29 踭 _(1)Chang_ (zang1)]] 足跟筋也
   ==
 W
   ====
@@ -187,6 +191,10 @@ W
         the elbow.
     ==
   ====
+C
+  ==
+  - The uncommon reading zang1 is that given in Fan Wan for the form 踭.
+  ==
 E
   ====
   - 【㬹】 (zaang1):
@@ -211,15 +219,20 @@ R
   ⾜ + 8
 U
   U+8E2D
+V
+  ==
+  - zang1 (uncommon)
+  ==
 F
   ==
-  - [[F2.29 踭]] 足跟筋也
+  - [[F2.29 踭 _(1)Chang_ (zang1)]] 足跟筋也
   ==
 W
   [[Not present]]
 C
   ==
   - Alternative form of 㬹. **See $㬹zaang1 for the canonical entry.**
+  - The uncommon reading zang1 is that given in Fan Wan.
   ==
 $$
 
