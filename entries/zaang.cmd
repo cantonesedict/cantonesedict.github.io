@@ -364,6 +364,17 @@ W
     Read _chang(3)_ [[zang3]]; [[**see $掙zang3**]].
     --
   ====
+E
+  ====
+  - 【掙】 (zaang6):
+    ++
+    1. To wedge in or stuff in, so as to seal off or to widen a hole.
+       ==
+       - 掙住 (zaang6 zyu6): "[It's] wedged in [and stuck]."
+       - 掙闊啲 (zaang6 fut3 di1): "Wedge [the gap and make it] wider."
+       ==
+    ++
+  ====
 S
   ==
   - $掙caang1 (TODO)

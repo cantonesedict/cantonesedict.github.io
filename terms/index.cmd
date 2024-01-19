@@ -299,6 +299,9 @@ window.onload = applyFilter;
     , zaang1 zoi6
     , [爭在](/entries/zang#cantonese-爭在)
   //
+    , zaang6
+    , [掙](/entries/zaang#cantonese-掙)
+  //
     , zai1
     , [擠](/entries/zai#cantonese-擠)
   //
