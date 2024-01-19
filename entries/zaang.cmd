@@ -52,6 +52,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $崢1
 - $棦1
 - $爭1
 - $琤1
@@ -62,6 +63,28 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 崢1 | _(1)Ch(a/)ng_ [[zaang1]]
+
+$$
+R
+  ⼭ + 8
+U
+  U+5D22
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~21|n64 (1)崢]]
+    --
+    [[Reading variation; **see $崢zang1 for the canonical entry**.]]
+    --
+  ====
+S
+  ==
+  - $崢zang1 (TODO)
+  ==
+$$
 
 ###+ 棦1 | _(1)Ch(a/)ng_ [[zaang1]]
 
