@@ -275,6 +275,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $撐caang1
+      - $撐caang3
       - $撑caang1
       - $撰zaan3
       - $撰zaan6

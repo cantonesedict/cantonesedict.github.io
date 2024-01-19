@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [caang1](#1)
+- [caang3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -101,7 +102,7 @@ W
   ====
 S
   ==
-  - $撐caang3 (TODO)
+  - $撐caang3
   ==
 $$
 
@@ -149,4 +150,71 @@ W
     [[here normalised to 撐; **see $撐caang3 for the canonical entry**]].
     --
   ====
+$$
+
+
+##{#3 .williams} Ch(')(a/)ng(3) [[caang3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $撐3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 撐3 | _Ch(')(a/)ng(3)_ [[caang3]]
+
+$$
+R
+  ⼿ + 12
+U
+  U+6490
+A
+  ==
+  - $撑3
+  -{.modern} $𨅝3
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~21|n64 (1)橕; here normalised to 撐]]
+    --
+    [[...]]
+    --
+    --
+    Read _ch(')(a/)ng(3)_ [[caang3]]; a colloquial word[.]
+    --
+    ==
+    - To stretch out, to open;
+    - kick at;
+    - _ch(')(a/)ng(3) (1)i(u/) (5)k(')(i/) ch(u")(6)_
+        [[caang3 jiu1 kei5 zyu6 撐腰企住]]
+        to stand akimbo;
+    - _ch(')(a/)ng(3) (1)hoi (1)ch(e/)ung (4)m(u/)n_
+        [[caang3 hoi1 coeng1 mun4-2 住開窗門]],
+        fasten open the window;
+    - _ch(')(a/)ng(3) ch(u")(6)_
+        [[caang3 zyu6 撐住]]
+        to open by a stretcher;
+    - _ch(')(a/)ng(3) (5)k(')(u") ch(')ut(7) h(u")(3)_
+        [[caang3 keoi5 ceot1 heoi3 撐佢出去]]
+        kick him out;
+        expel him;
+    - _ch(')(a/)ng(3) (4)ng(a/) k(a/)u(3)_
+        [[caang3 ngaa4 gaau3 撐牙鉸]]
+        to praise one's self.
+    ==
+  ====
+C
+  ==
+  - Williams' 撐佢出去: This should probably fall under
+    the leg-specific version of _ch(')(a/)ng(3)_ [[caang3]];
+    see $𨅝caang3. (TODO)
+  ==
+S
+  ==
+  - $撐caang1
+  ==
 $$
