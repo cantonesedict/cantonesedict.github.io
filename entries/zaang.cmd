@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaang
-* %date-modified --> 2024-01-18
+* %date-modified --> 2024-01-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -56,6 +56,7 @@ $$
 - $爭1
 - $琤1
 - $箏1
+- $㬹1
 - $錚1
 ==
 </nav>
@@ -144,6 +145,62 @@ S
   ==
   - $箏zang1
   ==
+$$
+
+### 㬹1 | _(1)Ch(a/)ng_ [[zaang1]]
+
+$$
+R
+  ⾁ + 8
+U
+  U+3B39
+A
+  ==
+  -{.modern} $踭1
+  ==
+F
+  ==
+  - [[F2.29 踭]] 足跟筋也
+  ==
+W
+  ====
+  - [[Page~21|n64 (1)㬹]]
+    ==
+    - The tendon Achilles;
+    - the heel;
+    - the elbow;
+    - _yat(7) (1)ch(a/)ng (2)t(a/) kwo(3) h(u")(3)_
+        [[jat1 zaang1 daa2 gwo3 heoi3 一㬹打過去]]
+        elbowed him off;
+    - _(2)cham (1)ch(a/)ng_
+        [[zam2 zaang1 枕㬹]],
+        to lean on the elbow;
+    - _t(')(a/)t(8) (1)ch(a/)ng (4)h(a/)i_
+        [[taat3 zaang1 haai4 撻㬹鞋]],
+        slipshod;
+    - _(4)h(a/)i (1)ch(a/)ng_
+        [[haai4 zaang1 鞋㬹]],
+        heel of the shoe;
+    - _(2)shau (1)ch(a/)ng_
+        [[sau2 zaang1 手㬹]],
+        the elbow.
+    ==
+  ====
+E
+  ====
+  - 【㬹】 (zaang1):
+    ++
+    1. The heel.
+       ==
+       - 腳㬹 (goek3 zaang1): "Heel of the foot."
+       - 鞋㬹 (haai4 zaang1): "Heel of [a] shoe."
+       ==
+    1. The elbow.
+       ==
+       - 手㬹 (sau2 zaang1): "The elbow."
+       ==
+    ++
+  ====
 $$
 
 ###+ 錚1 | _(1)Ch(a/)ng_ [[zaang1]]
