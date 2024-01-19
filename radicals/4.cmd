@@ -277,6 +277,7 @@ For all radicals, see [Index of characters by radical](./).
       - $撐caang1
       - $撐caang3
       - $撑caang1
+      - $撑caang3
       - $撰zaan3
       - $撰zaan6
       ==

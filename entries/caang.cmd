@@ -124,7 +124,7 @@ W
   ====
 S
   ==
-  - $撑caang3 (TODO)
+  - $撑caang3
   ==
 $$
 
@@ -159,6 +159,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $撐3
+- $撑3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -216,5 +217,26 @@ C
 S
   ==
   - $撐caang1
+  ==
+$$
+
+### 撑3 | _Ch(')(a/)ng(3)_ [[caang3]]
+
+$$
+R
+  ⼿ + 12
+U
+  U+6491
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Alternative form of 撐. **See $撐caang3 for the canonical entry.**
+  ==
+S
+  ==
+  - $撑caang1
   ==
 $$
