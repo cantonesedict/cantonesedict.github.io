@@ -53,6 +53,7 @@ $$
 - $增1
 - $崢1
 - $憎1
+- $掙1
 - $曾1
 - $棦1
 - $爭1
@@ -200,6 +201,34 @@ E
        ==
     ++
   ====
+$$
+
+###+ 掙1 | _(1)Chang_ [[zang1]]
+
+$$
+R
+  ⼿ + 8
+U
+  U+6399
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ====
+  - The reading _(1)chang_ [[zang1]] for 掙 is not present in Williams;
+    an entry is included here for completeness.
+    ++
+    1. To struggle, to break free.
+       ==
+       - 掙扎 (zang1 zaat3): "Struggle."
+       ==
+    ++
+  ====
+S
+  ==
+  - $掙zaang6
+  ==
 $$
 
 ### 曾1 | _(1)Tsang_ [[zang1]]
