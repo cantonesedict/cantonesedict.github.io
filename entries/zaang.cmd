@@ -57,6 +57,7 @@ $$
 - $琤1
 - $箏1
 - $㬹1
+- $踭1
 - $錚1
 ==
 </nav>
@@ -201,6 +202,25 @@ E
        ==
     ++
   ====
+$$
+
+###+ 踭1 | _(1)Ch(a/)ng_ [[zaang1]]
+
+$$
+R
+  ⾜ + 8
+U
+  U+8E2D
+F
+  ==
+  - [[F2.29 踭]] 足跟筋也
+  ==
+W
+  [[Not present]]
+C
+  ==
+  - Alternative form of 㬹. **See $㬹zaang1 for the canonical entry.**
+  ==
 $$
 
 ###+ 錚1 | _(1)Ch(a/)ng_ [[zaang1]]
