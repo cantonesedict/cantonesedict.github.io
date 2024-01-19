@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caang
-* %date-modified --> 2023-08-02
-* %copyright-prior-years -->
+* %date-modified --> 2024-01-20
+* %copyright-prior-years --> 2023--
 
 %%%
-
---{.modern}
-[[From Page~21|n64 of the original onwards.]]
---
 
 #{.williams} Ch(')(a/)ng. [[caang]]
 
@@ -21,3 +17,18 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [[Work in progress]]
 ==
 </nav>
+
+$$
+WH
+  ==
+  - Ch(')(a/)ng. [[Page~21|n64]]
+  ==
+WP
+  ==
+  - Ch(')(a/)ng <span class="modern">= [tɕʰaːŋ]</span>
+  ==
+MP
+  ==
+  - caang = [tsʰaːŋ], [tɕʰaːŋ]
+  ==
+$$
