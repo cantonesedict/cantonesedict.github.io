@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2024-01-18
+* %date-modified --> 2024-01-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -57,6 +57,7 @@ $$
 - $棦1
 - $爭1
 - $琤1
+- $睜1
 - $箏1
 - $繒1
 - $罾1
@@ -415,6 +416,29 @@ W
 S
   ==
   - $琤zaang1
+  ==
+$$
+
+###+ 睜1 | _(1)Chang_ [[zang1]]
+
+$$
+R
+  ⽬ + 8
+U
+  U+775C
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - The reading _(1)chang_ [[zang1]] for 睜
+    is not attested in the Middle Chinese rime books
+    (which result in zing6 expected from 疾郢切, explained 眳睜不恱視也, now obsolete).
+    An entry is included here for completeness.
+    ++
+    1. To open the eyes, especially suddenly.
+    ++
   ==
 $$
 
