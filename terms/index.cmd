@@ -356,6 +356,9 @@ window.onload = applyFilter;
     , zan6 gaan1
     , [陣間](/entries/zan#cantonese-陣間)
   //
+    , zap1
+    , [蓻](/entries/zap#cantonese-蓻)
+  //
     , zau2 zaan2
     , [走趲](/entries/zaan#cantonese-走趲)
 ''

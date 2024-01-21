@@ -120,4 +120,27 @@ C
   ==
   - Williams' 坐埋一蓻: Corrected _tso(6)_ [[zo6 去聲]] to _(5)ts(')o_ [[co5 上聲]].
   ==
+E
+  ====
+  - 【蓻】 (zap1):
+    ++
+    1. A pinch or tuft.
+       ==
+       - 一蓻鹽 (jat1 zap1 jim4): "One pinch of salt."
+       - 一蓻頭髮 (jat zap1 tau4 faat3): "One tuft of hair."
+       ==
+    ++
+  ====
+  --
+  It is debatable whether this is the same word as 執 _chap(7)_ [[zap1]].
+  In any case, Williams records the reading as _tsap(7)_ [[zap1]],
+  and [Eitel (1877)][eitel-dict-蓻] prefers the character 蓻,
+  which matches _tsap(7)_ [[zap1]] in pronunciation:
+  --
+  ==
+  - ::B5.w543b0405 子入切 (:蓻:) 草生多皃::
+  - ::K. (:蓻:) 《唐韻》子入切音𥠋草生多貌　又《玉篇》茅芽也[...]::
+  ==
 $$
+
+[eitel-dict-蓻]: https://books.google.com/books?id=mh8TAAAAYAAJ&jtp=771
