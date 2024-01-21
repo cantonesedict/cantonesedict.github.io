@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caang
-* %date-modified --> 2024-01-20
+* %date-modified --> 2024-01-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [caang1](#1)
 - [caang3](#3)
+- [caang4](#4)
 ==
 </nav>
 <## /tones ##>
@@ -239,4 +240,54 @@ S
   ==
   - $撑caang1
   ==
+$$
+
+
+##{#4 .williams} (4)Ch(')(a/)ng [[caang4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways">
+=={.modern}
+- $橙4
+==
+</nav>
+<## /tone-4-characters ##>
+
+### 橙4 | _(4)Ch(')(a/)ng_ [[caang4]]
+
+$$
+R
+  ⽊ + 12
+U
+  U+6A59
+V
+  ==
+  - caang4-2 (vernacular rising-tone noun)
+  ==
+F
+  ==
+  - [[F2.88 橙]] 棑橙果名
+  ==
+W
+  ====
+  - [[Page~21|n64 (1)橙]]
+    ==
+    - The coolie orange;
+    - _(4)ch(')(a/)ng (2)tsau_
+        [[caang4-2 zau2 橙酒]],
+        spirits in which orange peel has been soaked;
+    - _(4)t(')ong (4)ch(')(a/)ng_
+        [[tong4 caang4-2 糖橙]],
+        orange sweetmeats;
+    - _(4)ch(')(a/)ng k(o\)m(3) (4)m(a/)n_
+        [[caang4-2 gam3 maan4 橙咁蠻]]
+        sharp as an orange;
+    - _t(')(i/)m (4)ch(')(a/)ng_
+        [[tim4 caang4-2 甜橙]],
+        sweet oranges;
+    - _(1)sh(a/)n (4)ch(')(a/)ng_
+        [[saan1 caang4-2 山橙]],
+        a melodinus.
+    ==
+  ====
 $$
