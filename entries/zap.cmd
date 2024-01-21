@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $𠽃 (⿰口執)1
+- $執1
 - $蓻1
 ==
 </nav>
@@ -70,6 +71,65 @@ W
     --
     [[Here normalised to 蓻; **see $蓻zap1 for the canonical entry**.]]
     --
+  ====
+$$
+
+### 執1 | _Chap(7)_ [[zap1]]
+
+$$
+R
+  ⼟ + 8
+U
+  U+57F7
+F
+  ==
+  - [[F2.32 執]] 持守也拘也捕也
+  ==
+W
+  ====
+  - [[Page~22|n65 執(7)]]
+    ==
+    - To take in the hand, to pick up, to lay hold of, to grasp;
+    - to apprehend, to catch;
+    - to maintain, to retain;
+    - to stop up;
+    - a handfull;
+    - _chap(7) (5)yau_
+        [[zap1 jau5 執友]],
+        a father's old friend;
+    - _(1)shau chap(7)_
+        [[sau1 zap1 收執]]
+        to receive and keep [as evidence];
+        [[these square brackets appear in the original text]]
+    - _chap(7) tsz'(6)_
+        [[zap1 zi6 執字]]
+        to set types;
+    - _chap(7) (4)ch(')au_
+        [[zap1 cau4 執籌]],
+        to draw lots;
+    - _chap(7) (1)chung_
+        [[zap1 zung1 執中]],
+        to keep a due medium;
+    - _chap(7) (a/)u(3)_
+        [[zap1 aau3 執拗]]
+        a pertinacious dispute;
+    - _k(u/)(3) chap(7)_
+        [[gu3 zap1 固執]]
+        obstinate, set in his way;
+    - _kok(8) chap(7) yat(7) ngai(6)_
+        [[gok3 zap1 jat1 ngai6 各執一藝]]
+        each follows his trade;
+    - _p(o\)(6) chap(7)_
+        [[bou6 zap1 捕執]]
+        to arrest;
+    - _chap(7) sz'(6)_
+        [[zap1 si6 執事]]
+        to manage business;
+        an officer's retinue;
+    - _chap(7) (2)shau_
+        [[zap1 sau2 執手]],
+        take by the hand.
+    ==
   ====
 $$
 
