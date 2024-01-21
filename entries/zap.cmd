@@ -131,6 +131,10 @@ W
         take by the hand.
     ==
   ====
+C
+  ==
+  - For zap1 meaning "pinch" or "tuft", see $蓻zap1.
+  ==
 E
   ====
   - 【執】 (zap1):
