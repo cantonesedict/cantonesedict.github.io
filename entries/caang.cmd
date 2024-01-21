@@ -383,6 +383,7 @@ $$
 - $倀4
 - $棖4
 - $橙4
+- $𥋇 (⿰目掌)4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -481,4 +482,34 @@ S
   ==
   - $橙caang2
   ==
+$$
+
+###+ 𥋇4 [[⿰目掌]] | _(4)Ch(')(a/)ng_ [[caang4]]
+
+$$
+R
+  ⽬ + 12
+U
+  U+252C7
+F
+  [[Not present]]
+W
+  [[Not present]]
+E
+  ====
+  - 【𥋇】 (caang4):
+    ++
+    1. To dazzle or glare.
+       ==
+       - 畀太陽𥋇住 (bei2 taai3 joeng4 caang4 zyu6): "Glared at by [the] sun."
+       ==
+    ++
+  - 【𥋇眼】 (caang4 ngaan5):
+    ++
+    1. Dazzling or glaring to the eyes.
+       ==
+       - 太𥋇眼 (taai3 caang4 ngaan5): "[It's] too dazzling."
+       ==
+    ++
+  ====
 $$

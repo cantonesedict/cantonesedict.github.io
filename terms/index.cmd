@@ -191,6 +191,12 @@ window.onload = applyFilter;
     , caang1
     , [鐺](/entries/caang#cantonese-鐺)
   //
+    , caang4
+    , [𥋇](/entries/caang#cantonese-𥋇)
+  //
+    , caang4 ngaan5
+    , [𥋇眼](/entries/caang#cantonese-𥋇眼)
+  //
     , cam1
     , [侵](/entries/cam#cantonese-侵)
   //
