@@ -273,10 +273,33 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $倀4
 - $橙4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 倀4 | _(4)Ch(')(a/)ng_ [[caang4]]
+
+$$
+R
+  ⼈ + 8
+U
+  U+5000
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~21|n64 (4)倀]]
+    --
+    [[Reading variation; **see $倀coeng1 for the canonical entry**.]]
+    --
+  ====
+S
+  ==
+  - $倀coeng1
+  ==
+$$
 
 ### 橙4 | _(4)Ch(')(a/)ng_ [[caang4]]
 
@@ -295,7 +318,7 @@ F
   ==
 W
   ====
-  - [[Page~21|n64 (1)橙]]
+  - [[Page~21|n64 (4)橙]]
     ==
     - The coolie orange;
     - _(4)ch(')(a/)ng (2)tsau_
