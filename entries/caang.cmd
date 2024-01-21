@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [caang1](#1)
+- [caang2](#2)
 - [caang3](#3)
 - [caang4](#4)
 ==
@@ -151,6 +152,30 @@ W
     [[here normalised to 撐; **see $撐caang3 for the canonical entry**]].
     --
   ====
+$$
+
+
+##{#2 .modern} (2)Ch(')(a/)ng [[caang2 陰上]]
+
+###+ 橙2 | _(2)Ch(')(a/)ng_ [[caang2]]
+
+$$
+R
+  ⽊ + 12
+U
+  U+6A59
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation (vernacular rising-tone noun); **see $橙caang4 for the canonical entry**..
+  ==
+S
+  ==
+  - $橙caang4
+  ==
 $$
 
 
@@ -290,4 +315,8 @@ W
         a melodinus.
     ==
   ====
+S
+  ==
+  - $橙caang2
+  ==
 $$

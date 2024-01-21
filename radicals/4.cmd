@@ -643,6 +643,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $橕caang1
+      - $橙caang2
       - $橙caang4
       ==
       </nav>
