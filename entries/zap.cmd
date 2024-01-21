@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [zap1](#1)
 ==
 </nav>
 <## /tones ##>
@@ -40,4 +41,33 @@ MP
   ==
   - zap = [tsɐp̚], [tɕɐp̚]
   ==
+$$
+
+
+##{#1 .williams} Chap(7) Tsap(7) [[zap1 高陰入]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $𠽃 (⿰口執)1
+==
+</nav>
+<## /tone-1-characters ##>
+
+### 𠽃1 [[⿰口執]] | _Tsap(7)_ [[zap1]]
+
+$$
+R
+  ⼝ + 11
+U
+  U+20F43
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~557 𠽃(7) (⿰口執)]]
+    --
+    [[Here normalised to 蓻; **see $蓻zap1 for the canonical entry**.]]
+    --
+  ====
 $$
