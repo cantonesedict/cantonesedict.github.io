@@ -293,6 +293,7 @@ $$
 =={.modern}
 - $撐3
 - $撑3
+- $𨅝 (⿰𧾷牚)3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -322,7 +323,7 @@ W
     --
     ==
     - To stretch out, to open;
-    - kick at;
+    - [[see $𨅝caang3 for leg-thrusting senses]];
     - _ch(')(a/)ng(3) (1)i(u/) (5)k(')(i/) ch(u")(6)_
         [[caang3 jiu1 kei5 zyu6 撐腰企住]]
         to stand akimbo;
@@ -332,10 +333,7 @@ W
     - _ch(')(a/)ng(3) ch(u")(6)_
         [[caang3 zyu6 撐住]]
         to open by a stretcher;
-    - _ch(')(a/)ng(3) (5)k(')(u") ch(')ut(7) h(u")(3)_
-        [[caang3 keoi5 ceot1 heoi3 撐佢出去]]
-        kick him out;
-        expel him;
+    - [[...]];
     - _ch(')(a/)ng(3) (4)ng(a/) k(a/)u(3)_
         [[caang3 ngaa4 gaau3 撐牙鉸]]
         to praise one's self.
@@ -343,9 +341,9 @@ W
   ====
 C
   ==
-  - Williams' 撐佢出去: This should probably fall under
-    the leg-specific version of _ch(')(a/)ng(3)_ [[caang3]];
-    see $𨅝caang3. (TODO)
+  - Williams does not consider leg-thrusting $𨅝3
+    to be a different word to the generic 撐.
+    I have split things up accordingly.
   ==
 S
   ==
@@ -372,6 +370,63 @@ S
   ==
   - $撑caang1
   ==
+$$
+
+###+ 𨅝3 [[⿰𧾷牚]] | _Ch(')(a/)ng(3)_ [[caang3]]
+
+$$
+R
+  ⾜ + 12
+U
+  U+2815D
+V
+  ==
+  - jaang3
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~21|n64 (1)橕; here normalised to 𨅝]]
+    --
+    [[...]]
+    --
+    --
+    Read _ch(')(a/)ng(3)_ [[caang3]]; a colloquial word[.]
+    --
+    ==
+    - [[...]]
+    - kick at;
+    - [[...]]
+    - _ch(')(a/)ng(3) (5)k(')(u") ch(')ut(7) h(u")(3)_
+        [[caang3 keoi5 ceot1 heoi3 𨅝佢出去]]
+        kick him out;
+        expel him;
+    - [[...]].
+    ==
+  ====
+C
+  ==
+  - Williams does not consider leg-thrusting 𨅝
+    to be a different word to the generic $撐3.
+    I have split things up accordingly.
+  ==
+E
+  ====
+  - 【𨅝】 (caang3, jaang3):
+    ++
+    1. To thrust outward or down with the leg or the foot.
+       ==
+       - 一腳𨅝開 (jat1 goek3 jaang3 hoi1): "Thrust away [in] one [action] of the foot."
+       - 𨅝樓梯 (jaang3 lau4 tai1): "Leg-thrust upon stairs" (i.e. climb stairs).
+       ==
+    1. To brace or support by extension of the leg.
+    ++
+  - 【𨅝檯腳】 (caang3 toi4-2 goek3, jaang3 toi4-2 goek3):
+    ++
+    1. To eat or discourse at the same table. (Literally, "kick/brace with legs [the] table's legs".)
+    ++
+  ====
 $$
 
 

@@ -191,6 +191,12 @@ window.onload = applyFilter;
     , caang1
     , [鐺](/entries/caang#cantonese-鐺)
   //
+    , caang3
+    , [𨅝](/entries/caang#cantonese-𨅝)
+  //
+    , caang3 toi4-2 goek3
+    , [𨅝檯腳](/entries/caang#cantonese-𨅝檯腳)
+  //
     , caang4
     , [𥋇](/entries/caang#cantonese-𥋇)
   //
@@ -226,6 +232,12 @@ window.onload = applyFilter;
   //
     , hau6 mei5 zam2
     , [後尾枕](/entries/zam#cantonese-後尾枕)
+  //
+    , jaang3
+    , [𨅝](/entries/caang#cantonese-𨅝)
+  //
+    , jaang3 toi4-2 goek3
+    , [𨅝檯腳](/entries/caang#cantonese-𨅝檯腳)
   //
     , jat1 zan6
     , [一陣~\(moment\)](/entries/zan#cantonese-一陣-moment)
