@@ -54,6 +54,7 @@ $$
 - $撐1
 - $撑1
 - $橕1
+- $鐺1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -186,6 +187,60 @@ W
     [[here normalised to 撐; **see $撐caang3 for the canonical entry**]].
     --
   ====
+$$
+
+###+ 鐺1 | _(1)Ch(')(a/)ng_ [[caang1]]
+
+$$
+R
+  ⾦ + 13
+U
+  U+943A
+A
+  ==
+  - $罉1
+  ==
+V
+  ==
+  - cang1 (shorter syllable)
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+E
+  ====
+  - 【鐺】 (caang1):
+    ++
+    1. A cooking pot with a flat bottom.
+       ==
+       - 飯鐺 (faan6 caang1): "Rice [cooking] pot."
+       - 鐺湯凍咗 (caang1 tong1 dung3 zo2): "[The] pot of broth [has] gone cold."
+       ==
+    ++
+  ====
+  --
+  Olden attestation for 鐺 _(1)ch(')ang_ [[cang1]] or _(1)ch(')(a/)ng_ [[caang1]] meaning "pot":
+  --
+  ==
+  - ::B2.w228a0405 (:楚庚切:) 鎗 (:鼎類:)::
+  - ::B2.w228a0501 (:楚庚切:) (:鐺:) 俗本音當::
+  - ::K. 鎗 《唐韻》(:楚庚切:)《集韻》《韻會》(:楚耕切:)𠀤音璫[...]^\
+    (:又:)《廣韻》(:鼎類:)《六書故》(:三足鬴也俗作鐺:)[...]::
+  - ::K. (:鐺:) [...]^(:又:)《廣韻》(:楚庚切:)《集韻》《韻會》(:楚耕切:)𠀤音鎗\
+    (:釜屬:)《通俗文》(:鬴有足曰鐺:)[...]::
+  ==
+  --
+  The full story is that:
+  --
+  ==
+  - The original character is 鎗, read _(1)ch(')ang_ [[cang1]],
+    meaning a pot with legs.
+  - Later, 鐺 (otherwise read _(1)tong_ [[dong1]], an onomatopoeia for bells),
+    is used vulgarly for 鎗.
+  - Later, the character 罉 is created for the Cantonese vernacular sense
+    of flat-bottomed pot.
+  ==
 $$
 
 

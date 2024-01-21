@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of Cantonese terms by Jyutping
-* %date-modified --> 2024-01-19
+* %date-modified --> 2024-01-21
 * %copyright-prior-years --> 2023--
 * %meta-description --> searchable index of Cantonese terms by Jyutping
 
@@ -187,6 +187,9 @@ window.onload = applyFilter;
   //
     , caan2
     , [剷](/entries/caan#cantonese-剷)
+  //
+    , caang1
+    , [鐺](/entries/caang#cantonese-鐺)
   //
     , cam1
     , [侵](/entries/cam#cantonese-侵)
