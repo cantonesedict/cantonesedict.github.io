@@ -54,6 +54,7 @@ $$
 - $撐1
 - $撑1
 - $橕1
+- $罉1
 - $鐺1
 ==
 </nav>
@@ -187,6 +188,23 @@ W
     [[here normalised to 撐; **see $撐caang3 for the canonical entry**]].
     --
   ====
+$$
+
+###+ 罉1 | _(1)Ch(')(a/)ng_ [[caang1]]
+
+$$
+R
+  ⽸ + 12
+U
+  U+7F49
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Alternative form of 鐺. **See $鐺caang1 for the canonical entry.**
+  ==
 $$
 
 ###+ 鐺1 | _(1)Ch(')(a/)ng_ [[caang1]]
