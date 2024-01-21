@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $𠽃 (⿰口執)1
+- $蓻1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -70,4 +71,53 @@ W
     [[Here normalised to 蓻; **see $蓻zap1 for the canonical entry**.]]
     --
   ====
+$$
+
+### 蓻1 | _Tsap(7)_ [[zap1]]
+
+$$
+R
+  ⾋ + 11
+U
+  U+84FB
+F
+  [[Not present]]
+A
+  ==
+  - $𠽃 (⿰口執)1
+  - $執1
+  ==
+W
+  ====
+  - [[Page~557 𠽃(7) (⿰口執); here normalised to 蓻]]
+    --
+    A colloquial word.
+    --
+    ==
+    - A heap, a handful, a pile;
+    - a group, a knot;
+    - _ch(u")(6) (4)m(a/)i yat(7) tsap(7)_
+        [[zyu6 maai4 jat1 zap1 住埋一蓻]]
+        living in a single community;
+    - _[(5)ts(')o] (4)m(a/)i yat(7) tsap(7)_
+        [[co5 maai4 jat1 zap1 坐埋一蓻]]
+        sitting together in a group;
+    - _s(o\)(3) (4)m(a/)i yat(7) tsap(7)_
+        [[sou3 maai4 jat1 zap1 掃埋一蓻]]
+        sweep it up into a pile;
+    - _ap(7) tsap(7)_
+        [[ap1 zap1 洽蓻]],
+        stingy, craven, slovenly;
+    - _yat(7) tsap(7) (5)mai_
+        [[jat1 zap1 mai5 一蓻米]],
+        as much rice as the fingers can grasp;
+    - _(1)t(')au tsap(7)_
+        [[tau1 zap1 偷蓻]],
+        to make a little money.
+    ==
+  ====
+C
+  ==
+  - Williams' 坐埋一蓻: Corrected _tso(6)_ [[zo6 去聲]] to _(5)ts(')o_ [[co5 上聲]].
+  ==
 $$
