@@ -604,6 +604,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $棖caam5
       - $棖caan5
+      - $棖caang4
       - $栖cai1
       - $棲cai1
       - $棧zaan2

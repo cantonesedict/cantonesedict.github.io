@@ -274,6 +274,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $倀4
+- $棖4
 - $橙4
 ==
 </nav>
@@ -298,6 +299,37 @@ W
 S
   ==
   - $倀coeng1
+  ==
+$$
+
+###+ 棖4 | _(4)Ch(')(a/)ng_ [[caang4]]
+
+$$
+R
+  ⽊ + 8
+U
+  U+68D6
+F
+  ==
+  - [[F2.88 棖]] 兩邊門枋曰棖又人名申棖
+  ==
+W
+  [[Not present]]
+C
+  ==
+  - Fan Wan entry: Strictly, 棖 should be read _(4)ch(')(e/)ung_ [[coeng4]]
+    (per Kangxi 《唐韻古音》直良切音長) for the name 申棖.
+  - The reading _(4)ch(')(a/)ng_ [[caang4]] for 棖 is not present in Williams;
+    an entry is included here for completeness.
+    ++
+    1. A door-post.
+    1. Alternative form of $橙4.
+    ++
+  ==
+S
+  ==
+  - $棖caam5
+  - $棖caan5
   ==
 $$
 

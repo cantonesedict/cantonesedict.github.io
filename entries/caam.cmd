@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2024-01-19
+* %date-modified --> 2024-01-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -932,7 +932,7 @@ E
 S
   ==
   - $棖caan5
-  - $棖caang4 (TODO)
+  - $棖caang4
   ==
 $$
 
