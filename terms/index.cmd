@@ -357,7 +357,34 @@ window.onload = applyFilter;
     , [陣間](/entries/zan#cantonese-陣間)
   //
     , zap1
+    , [執](/entries/zap#cantonese-執)
+  //
+    , zap1
     , [蓻](/entries/zap#cantonese-蓻)
+  //
+    , zap1 co3 zi6 nap1
+    , [執錯字粒](/entries/zap#cantonese-執錯字粒)
+  //
+    , zap1 gwat1
+    , [執骨](/entries/zap#cantonese-執骨)
+  //
+    , zap1 lap1
+    , [執笠](/entries/zap#cantonese-執笠)
+  //
+    , zap1 maa1
+    , [執媽](/entries/zap#cantonese-執媽)
+  //
+    , zap1 saang1
+    , [執生](/entries/zap#cantonese-執生)
+  //
+    , zap1 syu1
+    , [執輸](/entries/zap#cantonese-執輸)
+  //
+    , zap1 zai2
+    , [執仔](/entries/zap#cantonese-執仔)
+  //
+    , zap1 zai2 po4-2
+    , [執仔婆](/entries/zap#cantonese-執仔婆)
   //
     , zau2 zaan2
     , [走趲](/entries/zaan#cantonese-走趲)

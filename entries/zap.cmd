@@ -131,6 +131,65 @@ W
         take by the hand.
     ==
   ====
+E
+  ====
+  - 【執】 (zap1):
+    ++
+    1. To pick up.
+       ==
+       - 執返佢 (zap1 faan1 keoi5): "Pick [it] back up."
+       - 執垃圾 (zap1 laap6 saap3): "Pick up rubbish."
+       - 執狗屎 (zap1 gau2 si2): "Pick up dog shit."
+       ==
+    1. To tidy up, or make neater.
+       ==
+       - 執房 (zap1 fong4-2): "Tidy up [the] room."
+       - 執正啲 (zap zeng1 di1): "Make [it a] bit neater."
+       ==
+    1. To pack.
+       ==
+       - 執包袱 (zap1 baau1 fuk6): "Pack [my] bags".
+       - 執行李 (zap1 hang4 lei5): "Pack luggage."
+       ==
+    1. Short for [執笠](#cantonese-執笠).
+    ++
+  - 【執錯字粒】 (zap1 co3 zi6 nap1):
+    ++
+    1. To make a typo. (Literally, "Pick up [the] wrong character block.")
+    ++
+  - 【執骨】 (zap1 gwat1):
+    ++
+    1. To take up the bones from a grave (for a reburial).
+    ++
+  - 【執笠】 (zap1 lap1):
+    ++
+    1. To shut up shop, especially after going bankrupt.
+       ==
+       - 執咗笠 (zap1 zo2 lap1): "[They've] shut up [shop]."
+       - 就快執笠 (zau6 faai3 zap1 lap1): "About to go under."
+       ==
+    ++
+  - 【執媽】 (zap1 maa1):
+    ++
+    1. A midwife (strictly female).
+    ++
+  - 【執生】 (zap1 saang1):
+    ++
+    1. To improvise, or figure something out on the spot.
+    ++
+  - 【執輸】 (zap1 syu1):
+    ++
+    1. To miss out.
+    ++
+  - 【執仔】 (zap1 zai2):
+    ++
+    1. To midwive.
+    ++
+  - 【執仔婆】 (zap1 zai2 po4-2):
+    ++
+    1. A midwife (strictly female).
+    ++
+  ====
 $$
 
 ### 蓻1 | _Tsap(7)_ [[zap1]]
