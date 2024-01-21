@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaang
-* %date-modified --> 2024-01-19
+* %date-modified --> 2024-01-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -373,7 +373,7 @@ E
   ====
 S
   ==
-  - $掙caang1 (TODO)
+  - $掙caang1
   - $掙zang1
   - $掙zang3
   ==

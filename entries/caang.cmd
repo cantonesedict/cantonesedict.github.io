@@ -50,12 +50,46 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $掙1
 - $撐1
 - $撑1
 - $橕1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 掙1 | _(1)Ch(')(a/)ng_ [[caang1]]
+
+$$
+R
+  ⼿ + 8
+U
+  U+6399
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~21|n64 掙(6)]]
+    --
+    [[...]]
+    --
+    --
+    Read _(1)ch(')(a/)ng_ [[caang1]];.
+    --
+    ==
+    - to pierce, to stab.
+    ==
+    --
+    [[...]]
+    --
+  ====
+S
+  ==
+  - $掙zaang6
+  - $掙zang1
+  - $掙zang3
+  ==
+$$
 
 ### 撐1 | _(1)Ch(')(a/)ng_ [[caang1]]
 
