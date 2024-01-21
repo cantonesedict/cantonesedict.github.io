@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zap
-* %date-modified --> 2023-08-02
-* %copyright-prior-years -->
+* %date-modified --> 2024-01-21
+* %copyright-prior-years --> 2023--
 
 %%%
-
---{.modern}
-[[From Page~22|n65 (Chap) and Page~557 (Tsap) of the original onwards.]]
---
 
 #{.williams} Chap. Tsap. [[zap]]
 
@@ -21,3 +17,27 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [[Work in progress]]
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Chap. [[Page~22|n65]]
+  - Tsap. [[Page~557]]
+  ==
+WP
+  ==
+  - Chap <span class="modern">= [tɕɐp̚]</span>
+  - Tsap <span class="modern">= [tsɐp̚]</span>
+  ==
+MP
+  ==
+  - zap = [tsɐp̚], [tɕɐp̚]
+  ==
+$$
