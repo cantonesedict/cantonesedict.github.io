@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of entry pages by Jyutping
-* %date-modified --> 2024-01-21
+* %date-modified --> 2024-01-22
 * %copyright-prior-years --> 2023--
 * %meta-description --> index of entry pages by Jyutping
 
@@ -819,7 +819,7 @@ See also: [Index of Cantonese terms by Jyutping](/terms/).
 - $zam
 - $zan
 - $zang
-- $zap (work in progress)
+- $zap
 - $zat (work in progress)
 - $zau (work in progress)
 - $ze (work in progress)
