@@ -451,6 +451,7 @@ class Page:
                 int(match.group('residual_stroke_count')),
                 match.group('jyutping'),
                 match.group('composition'),
+                match.group('content'),
             )
             for match in re.finditer(
                 pattern=(
@@ -463,10 +464,13 @@ class Page:
                     r'\[\[(?P<jyutping>[a-z]+?[1-6])\]\]'
                     r'\n\n'
                     r'[$]{2}\n'
+                    r'(?P<content>'
                     r'R\n'
                     r'[ ]{2}(?P<radical>\S)[ ][+][ ](?P<residual_stroke_count>[0-9]+)\n'
                     r'U\n'
                     r'[ ]{2}(?P<code_point>U[+][0-9A-F]{4,5})$'
+                    r'[\s\S]*?\n'
+                    r')[$]{2}'
                 ),
                 string=cmd_content,
                 flags=re.MULTILINE,
@@ -496,7 +500,7 @@ class CantoneseEntry:
 
 
 class CharacterEntry:
-    def __init__(self, character, code_point, radical, residual_stroke_count, jyutping, composition):
+    def __init__(self, character, code_point, radical, residual_stroke_count, jyutping, composition, content):
         if radical not in KANGXI_RADICALS:
             print(f'Error: radical {radical} is not in the Kangxi Radicals Unicode block', file=sys.stderr)
             sys.exit(1)
@@ -514,6 +518,12 @@ class CharacterEntry:
             if composition:
                 print(f'Error: unnecessary composition for character {character} {code_point}', file=sys.stderr)
                 sys.exit(1)
+
+        content_keys = ''.join(re.findall(pattern='^[A-Z]', string=content, flags=re.MULTILINE))
+        canonical_keys_iter = iter('RUAVFWCES')
+        if not all(content_key in canonical_keys_iter for content_key in content_keys):
+            print(f'Error: bad content keys {content_keys} for character {character} {code_point}', file=sys.stderr)
+            sys.exit(1)
 
         self.character = character
         self.code_point = code_point
