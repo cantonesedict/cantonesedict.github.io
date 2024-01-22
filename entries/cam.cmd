@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2024-01-17
+* %date-modified --> 2024-01-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -479,7 +479,7 @@ W
     - common;
     - a measure of eight cubits, or like the outstretched arms;
     - _(4)ts(')am (4)'m ch(e/)uk(9)_
-        [[cam4 m4 zoek6 尋唔著]]
+        [[cam4 m4 zoek6 尋唔着]]
         I can not find it;
     - _(4)ts(')am m(i/)(6)_
         [[cam4 mei6 尋味]]

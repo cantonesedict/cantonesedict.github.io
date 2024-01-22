@@ -158,7 +158,7 @@ W
         [[cap1 si1 syun4 緝私船]],
         revenue cutters;
     - _ts(')ap(7) ch(e/)uk(9)_
-        [[cap1 zoek6 緝著]],
+        [[cap1 zoek6 緝着]],
         caught him;
     - _(4)ch(')(a/) ts(')ap(7)_
         [[caa4 cap1 查緝]],
