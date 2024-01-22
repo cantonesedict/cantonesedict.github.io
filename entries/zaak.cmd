@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2024-01-07
+* %date-modified --> 2024-01-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -289,6 +289,10 @@ R
   ⾈ + 5
 U
   U+8234
+F
+  ==
+  - [[F2.90 舴]] 舴船小船
+  ==
 W
   ====
   - [[Page~13|n56 舴(8)]]
@@ -299,10 +303,6 @@ W
         a small boat, a punt, a pinnace, a junk's gig.
     ==
   ====
-F
-  ==
-  - [[F2.90 舴]] 舴船小船
-  ==
 C
   ==
   - Williams' 舴艋: Changed Middle Chinese _mang_ [[mang]]
