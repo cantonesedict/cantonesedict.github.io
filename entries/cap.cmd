@@ -48,6 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $戢1
+- $濈1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -59,6 +60,10 @@ R
   ⼽ + 9
 U
   U+6222
+V
+  ==
+  - zap1 (expected from 阻立切)
+  ==
 F
   ==
   - [[F2.39 戢]] 安集也止也歛也藏也
@@ -92,5 +97,32 @@ E
     ++
     1. Neat and even (not jagged).
     ++
+  ====
+$$
+
+### 濈1 | _Ts(')ap(7)_ [[cap1]]
+
+$$
+R
+  ⽔ + 13
+U
+  U+6FC8
+V
+  ==
+  - zap1 (expected from 阻立切)
+  ==
+F
+  ==
+  - [[F2.39 濈]] 口舌聲
+  ==
+W
+  ====
+  - [[Page~557 濈(7)]]
+    ==
+    - Water rapidly flowing out;
+    - rapid;
+    - cordial, harmonious, agreeing;
+    - to accord with.
+    ==
   ====
 $$
