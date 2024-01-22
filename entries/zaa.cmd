@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2024-01-17
+* %date-modified --> 2024-01-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -19,6 +19,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [zaa2](#2)
 - [zaa3](#3)
 - [zaa4](#4)
+- [zaa6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -895,4 +896,41 @@ S
   ==
   - $咋zaa3
   ==
+$$
+
+
+##{#6 .modern} Ch(a/)(6) [[zaa6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $拃6
+==
+</nav>
+<## /tone-6-characters ##>
+
+###+ 拃6 | _Ch(a/)(6)_ [[zaa6]]
+
+$$
+R
+  ⼿ + 5
+U
+  U+62C3
+F
+  [[Not present]]
+W
+  [[Not present]]
+E
+  ====
+  - 【拃】 (zaa6):
+    ++
+    1. A handful or a bunch.
+       ==
+       - 拃波子 (zaa6 bo1 zi2): "[A] handful of marbles."
+       - 嗰拃人 (go2 zaa6 jan4): "That bunch of people."
+       ==
+    1. Used in [掗拃](ngaa#cantonese-掗拃). (TODO)
+    ++
+  ====
+  <## TODO: 揦返拃沙 laa2 faan1 zaa6 saa1 ##>
 $$

@@ -293,6 +293,9 @@ window.onload = applyFilter;
     , zaa4
     , [咋~\(4\)](/entries/zaa#cantonese-咋-4)
   //
+    , zaa6
+    , [拃](/entries/zaa#cantonese-拃)
+  //
     , zaai1
     , [齋](/entries/zaai#cantonese-齋)
   //
