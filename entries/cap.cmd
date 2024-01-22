@@ -50,6 +50,7 @@ $$
 - $戢1
 - $濈1
 - $緝1
+- $葺1
 - $輯1
 ==
 </nav>
@@ -167,6 +168,34 @@ W
     - _(4)ts(')un ts(')ap(7)_
         [[ceon4 cap1 巡緝]]
         to get on the trail.
+    ==
+  ====
+$$
+
+### 葺1 | _Ts(')ap(7)_ [[cap1]]
+
+$$
+R
+  ⾋ + 9
+U
+  U+847A
+F
+  ==
+  - [[F2.39 葺]] 修補也
+  ==
+W
+  ====
+  - [[Page~558 葺(7)]]
+    ==
+    - To put in order, to repair;
+    - to cover, to thatch;
+    - a spinous grass;
+    - _(1)sau ts(')ap(7)_
+        [[sau1 cap1 修葺]]
+        to refit, as a house;
+    - _ts(')ap(7) (2)p(o\)_
+        [[cap1 bou2 葺補]],
+        to repair.
     ==
   ====
 $$
