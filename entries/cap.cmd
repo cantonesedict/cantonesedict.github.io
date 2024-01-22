@@ -49,6 +49,7 @@ $$
 =={.modern}
 - $戢1
 - $濈1
+- $緝1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -123,6 +124,48 @@ W
     - rapid;
     - cordial, harmonious, agreeing;
     - to accord with.
+    ==
+  ====
+$$
+
+### 緝1 | _Ts(')ap(7)_ [[cap1]]
+
+$$
+R
+  ⽷ + 9
+U
+  U+7DDD
+F
+  ==
+  - [[F2.39 緝]] 繼續也續也
+  ==
+W
+  ====
+  - [[Page~557 緝(7)]]
+    ==
+    - To twist a cord;
+    - to join, to continue;
+    - to come after, to follow, to succeed;
+    - to pursue, to follow after, to be on the search for;
+    - to apprehend;
+    - _ts(')ap(7) wok(9)_
+        [[cap1 wok6 緝獲]],
+        to pursue and seize;
+    - _ts(')ap(7) (1)sz'_
+        [[cap1 si1 緝私]]
+        to watch smugglers;
+    - _ts(')ap(7) (1)sz' (4)sh(u")n_
+        [[cap1 si1 syun4 緝私船]],
+        revenue cutters;
+    - _ts(')ap(7) ch(e/)uk(9)_
+        [[cap1 zoek6 緝著]],
+        caught him;
+    - _(4)ch(')(a/) ts(')ap(7)_
+        [[caa4 cap1 查緝]],
+        on the search;
+    - _(4)ts(')un ts(')ap(7)_
+        [[ceon4 cap1 巡緝]]
+        to get on the trail.
     ==
   ====
 $$
