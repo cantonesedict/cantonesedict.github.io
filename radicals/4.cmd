@@ -173,6 +173,14 @@ For all radicals, see [Index of characters by radical](./).
       - $戞aat3
       ==
       </nav>
+  //
+    , 9
+    ,
+      <nav class="sideways">
+      ==
+      - $戢cap1
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⼽-characters ##>
