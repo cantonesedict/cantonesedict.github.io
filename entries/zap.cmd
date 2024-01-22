@@ -203,13 +203,13 @@ R
   ⾋ + 11
 U
   U+84FB
-F
-  [[Not present]]
 A
   ==
   - $𠽃 (⿰口執)1
   -{.modern} $執1
   ==
+F
+  [[Not present]]
 W
   ====
   - [[Page~557 𠽃(7) (⿰口執); here normalised to 蓻]]
