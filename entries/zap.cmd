@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $𠽃 (⿰口執)1
 - $執1
+- $縶1
 - $蓻1
 ==
 </nav>
@@ -194,6 +195,35 @@ E
     1. A midwife (strictly female).
     ++
   ====
+$$
+
+### 縶1 | _Chap(7)_ [[zap1]]
+
+$$
+R
+  ⽷ + 11
+U
+  U+7E36
+F
+  ==
+  - [[F2.39 縶]] ::羈係也[絆]馬足曰縶::
+  - [[F2.39 ？]] 同上
+  ==
+W
+  ====
+  - [[Page~22|n65 縶(7)]]
+    ==
+    - To fetter a horse or cow;
+    - fetters, shackles;
+    - to bind, to secure;
+    - a cord.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 紏 to 絆.
+    The variant entry is 馬 with 山 replacing 灬.
+  ==
 $$
 
 ###+ 蓻1 | _Tsap(7)_ [[zap1]]
