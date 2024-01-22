@@ -50,6 +50,7 @@ $$
 - $戢1
 - $濈1
 - $緝1
+- $輯1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -166,6 +167,40 @@ W
     - _(4)ts(')un ts(')ap(7)_
         [[ceon4 cap1 巡緝]]
         to get on the trail.
+    ==
+  ====
+$$
+
+### 輯1 | _Ts(')ap(7)_ [[cap1]]
+
+$$
+R
+  ⾞ + 9
+U
+  U+8F2F
+F
+  ==
+  - [[F2.39 輯]] 斂也聚也集也
+  ==
+W
+  ====
+  - [[Page~558 輯(7)]]
+    ==
+    - To collect the materials to form a chariot, a car well arranged;
+    - union, concord, agreement;
+    - to make every thing agreeable, put in its proper place;
+    - to compile;
+    - to act gently and cordially;
+    - to collect, to congregate;
+    - _(4)wo ts(')ap(7)_
+        [[wo4 cap1 和輯]]
+        in good accord, to pacify;
+    - _(4)ning ts(')ap(7)_
+        [[ning4 cap1 寧輯]]
+        peaceful;
+    - _(1)sau ts(')ap(7) (4)lun (1)pong_
+        [[sau1 cap1 leon4 bong1 修輯鄰邦]],
+        to induce the neighboring states to be at peace.
     ==
   ====
 $$
