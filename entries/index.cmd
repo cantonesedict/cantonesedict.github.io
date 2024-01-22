@@ -134,7 +134,7 @@ See also: [Index of Cantonese terms by Jyutping](/terms/).
 - $cam
 - $can
 - $cang
-- $cap (work in progress)
+- $cap
 - $cat (work in progress)
 - $cau (work in progress)
 - $ce (work in progress)
