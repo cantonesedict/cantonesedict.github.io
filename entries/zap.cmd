@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $𠽃 (⿰口執)1
 - $執1
+- $汁1
 - $縶1
 - $蓻1
 ==
@@ -195,6 +196,49 @@ E
     1. A midwife (strictly female).
     ++
   ====
+$$
+
+### 汁1 | _Chap(7)_ [[zap1]]
+
+$$
+R
+  ⽔ + 2
+U
+  U+6C41
+F
+  ==
+  - [[F2.39 汁]] 液也
+  ==
+W
+  ====
+  - [[Page~22|n65 汁(7)]]
+    ==
+    - Gravy, juice;
+    - thickened liquor;
+    - slosh;
+    - the juices or essence of a thing got by expressing;
+    - sleety rain, wet snow;
+    - _(1)pan (4)long chap(7)_
+        [[ban1 long4 zap1 檳榔汁]]
+        betel juice;
+    - _ts(')oi(3) chap(7)_
+        [[coi3 zap1 菜汁]]
+        liquor left after cooking vegetables;
+    - _chap(7) (4)'m tak(7) t(a/)m(6) h(a/)p(8)_
+        [[zap1 m4 dak1 daam6 haap3 汁唔得啖呷]]
+        not had a mouthful of gravy to suck---I've had no benefit from it.
+    ==
+    --
+    Also read _h(i/)p[(8)]_ [[hip3]]; harmonious.
+    --
+  ====
+C
+  ==
+  - Williams' also read _h(i/)p[(8)]_:
+    This is an interchanging with 協.
+    Changed Middle Chinese _h(i/)p(9)_ [[hip6]]
+    to common reading _h(i/)p(8)_ [[hip3]].
+  ==
 $$
 
 ### 縶1 | _Chap(7)_ [[zap1]]
