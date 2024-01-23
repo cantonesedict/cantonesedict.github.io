@@ -114,11 +114,46 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $极6
 - $鈒6
 - $閘6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 极6 | _Ch(a/)p(9)_ [[zaap6]]
+
+$$
+R
+  ⽊ + 4
+U
+  U+6781
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~22|n65 极(9)]]
+    --
+    Read _k(')ap(7)_ [[kap1]]; [[**see $极kap1**]].
+    --
+    --
+    A colloquial word.
+    --
+    ==
+    - A camp chair;
+    - _(5)m(a/) ch(a/)p(9)_
+        [[maa5 zaap6 馬极]]
+        a camp-stool;
+    - _ch(a/)p(9) chak(7) fan(3)_
+        [[zaap6 zak1 fan3 极側瞓]]
+        to sleep on the side.
+    ==
+  ====
+S
+  ==
+  - $极kap1 (TODO)
+  ==
+$$
 
 ### 鈒6 | _Ch(a/)p(9)_ [[zaap6]]
 
