@@ -115,6 +115,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $极6
+- $襍6
 - $鈒6
 - $閘6
 - $雜6
@@ -154,6 +155,27 @@ S
   ==
   - $极kap1 (TODO)
   ==
+$$
+
+### 襍6 | _Ts(a/)p(9)_ [[zaap6]]
+
+$$
+R
+  ⾐ + 12
+U
+  U+894D
+F
+  ==
+  - [[F2.66 雜]] 叅錯也五綵相合也
+  - [[F2.66 襍]] 同上
+  ==
+W
+  ====
+  - [[Page~558 雜(9)襍(9)]]
+    --
+    [[Alternative form of 雜. **See $雜zaap6 for the canonical entry.**]]
+    --
+  ====
 $$
 
 ### 鈒6 | _Ch(a/)p(9)_ [[zaap6]]
@@ -342,7 +364,8 @@ E
     ++
   ====
   --
-  There is an argument that _l(a/)p(9) ts(a/)p(9)_ [[laap6 zaap6]] should be spelt 擸𢶍.
+  There is an argument that 垃雜 _l(a/)p(9) ts(a/)p(9)_ [[laap6 zaap6]]
+  should be spelt 擸𢶍.
   Indeed 擸𢶍 has an expected reading of _lap(9) tsap(9)_ [[lap6 zap6]],
   and is explained "broken" or "cluttered":
   --
@@ -352,7 +375,8 @@ E
   - ::K. (:𢶍:) 《唐韻》(:才盍切:)《集韻》(:疾盍切𠀤音䪞讀若慙入聲擸𢶍和雜也:)[...]::
   ==
   --
-  However, since 擸𢶍 is also considered the original spelling of laap6 saap3 (垃圾),
+  However, since 擸𢶍 is also considered
+  the original spelling of 垃圾 laap6 saap3 "rubbish",
   it would be confusing to use it for laap6 zaap6 also.
   As a compromise that acknowledges the (probable) common ancestry,
   I have opted to spell laap6 zaap6 as 垃雜,
