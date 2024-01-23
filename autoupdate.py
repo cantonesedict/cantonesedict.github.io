@@ -54,6 +54,7 @@ class Updater:
         with open(entry_cmd_name, 'r', encoding='utf-8') as old_cmd_file:
             old_cmd_content = old_cmd_file.read()
 
+        Updater._check_post_tone_commas_heuristic(entry_cmd_name, old_cmd_content)
         Updater._check_jyutping_heuristic(entry_cmd_name, old_cmd_content)
         tone_syllable_list = Updater._gather_tone_syllable_list(old_cmd_content)
         Updater._check_syllables(entry_cmd_name, tone_syllable_list)
@@ -71,10 +72,24 @@ class Updater:
             new_cmd_file.write(new_cmd_content)
 
     @staticmethod
+    def _check_post_tone_commas_heuristic(entry_cmd_name, cmd_content):
+        bad_post_tone_comma_contexts = [
+            re.sub(pattern=r'[\s]+', repl=' ', string=context)
+            for context in re.findall(pattern=r'_.+?\([36789]\)_\s*\[\[.+?\]\],', string=cmd_content)
+        ]
+        if bad_post_tone_comma_contexts:
+            print(
+                f'Error in `{entry_cmd_name}`: bad post-tone comma in {bad_post_tone_comma_contexts} '
+                f'(suppress error with caret if comma is legitimate)',
+                file=sys.stderr,
+            )
+            sys.exit(1)
+
+    @staticmethod
     def _check_jyutping_heuristic(entry_cmd_name, cmd_content):
         bad_jyutping_runs = [
             run
-            for run in re.findall(pattern=r'\b[a-z]+[1-9]\b', string=cmd_content, flags=re.VERBOSE)
+            for run in re.findall(pattern=r'\b[a-z]+[1-9]\b', string=cmd_content)
             if Updater._is_bad_jyutping_heuristic(run)
         ]
         if bad_jyutping_runs:
