@@ -119,6 +119,7 @@ $$
 - $襍6
 - $鈒6
 - $閘6
+- $集6
 - $雜6
 ==
 </nav>
@@ -299,6 +300,60 @@ W
     - _(5)sh(e/)ung ch(a/)p(9)_
         [[soeng5 zaap6 上閘]]
         put in the bars.
+    ==
+  ====
+$$
+
+### 集6 | _Ts(a/)p(9)_ [[zaap6]]
+
+$$
+R
+  ⾫ + 4
+U
+  U+96C6
+V
+  ==
+  - zap6 (expected from 秦入切)
+  ==
+F
+  ==
+  - [[F2.40 集 _Tsap(9)_ (zap6)]] 聚集會集
+  ==
+W
+  ====
+  - [[Page~558 集(9)]]
+    ==
+    - To flock together
+    - to gather, as clouds;
+    - to assemble, to come together, to congregate, to collect;
+    - to bring together;
+    - to go directly to the mark;
+    - to mix properly, to blend;
+    - to make a collection, to compile;
+    - a miscellany, ana;
+    - a place where people collect, as a market;
+    - often interchanged with the last [[$雜6]];
+    - _(4)ts(')ai ts(a/)p(9)_
+        [[cai4 zaap6 齊集]]
+        came together, a full concourse;
+    - _(4)man ts(a/)p(9)_
+        [[man4 zaap6 文集]]
+        a miscellany;
+    - _yat(7) ts(a/)p(9)_
+        [[jat1 zaap6 一集]]
+        one division of a book, what is collected under one head;
+    - _ts(a/)p(9) (u/)i(6) h(i/)(3)_
+        [[zaap6 wui6 hei3 集會戲]]
+        a varied bill, as at a theatre;
+    - _(1)chung yat(9) h(a/)p(9) ts(a/)p(9)_
+        [[zung1 jat6 haap6 zaap6 終日狎集]]
+        friends here the whole day;
+    - _(1)t(')(i/)n h(a/)(6) (4)wan ts(a/)p(9)_
+        [[tin1 haa6 wan4 zaap6 天下雲集]]
+        crowded together from all quarters;
+    - _ts(u")(6) ts(a/)p(9)_
+        [[zeoi6 zaap6 聚集]]
+        to assemble, to collect.
     ==
   ====
 $$
