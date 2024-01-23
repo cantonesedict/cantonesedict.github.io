@@ -114,10 +114,68 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $鈒6
 - $閘6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 鈒6 | _Ch(a/)p(9)_ [[zaap6]]
+
+$$
+R
+  ⾦ + 4
+U
+  U+9212
+V
+  ==
+  - zaap6-2 (vernacular rising-tone noun)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~22|n65 鈒(9)]]
+    --
+    Read _s(a/)p(8)_ [[saap3]]; [[**see $鈒saap3**]].
+    --
+    --
+    A colloquial word.
+    --
+    ==
+    - One bladed shears working on a pivot;
+    - to slice or pare with shears;
+    - _ch(a/)p(9) (1)hoi_
+        [[zaap6 hoi1 鈒開]],
+        cut it open;
+    - _(1)pan (4)long ch(a/)p(9)_
+        [[ban1 long4 zaap6-2 檳榔鈒]]
+        betel-nut shears;
+    - _ch(a/)p(9) y(e/)uk(9) (4)ts(')oi_
+        [[zaap6 joek6 coi4 鈒藥材]],
+        to slice medicine;
+    - _ch(a/)p(9) sui(3)_
+        [[zaap6 seoi3 鈒碎]]
+        slice it fine.
+    ==
+  ====
+E
+  ====
+  - 【鈒-noun】 (zaap6, zaap6-2):
+    ++
+    1. Shears.
+    ++
+  - 【鈒-verb】 (zaap6):
+    ++
+    1. To cut or slice, especially with shears.
+    ++
+  ====
+S
+  ==
+  - $鈒kap1 (TODO)
+  - $鈒saap3 (TODO)
+  ==
+$$
 
 ### 閘6 | _Ch(a/)p(9)_ [[zaap6]]
 
