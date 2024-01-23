@@ -338,6 +338,9 @@ window.onload = applyFilter;
     , zaap6
     , [鈒~\(verb\)](/entries/zaap#cantonese-鈒-verb)
   //
+    , zaap6
+    , [雜](/entries/zaap#cantonese-雜)
+  //
     , zaap6-2
     , [鈒~\(noun\)](/entries/zaap#cantonese-鈒-noun)
   //

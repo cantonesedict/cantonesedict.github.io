@@ -425,7 +425,7 @@ W
         [[sik6 zaap6 食雜]]
         to eat anything, not to fast;
     - _l(a/)p(9) ts(a/)p(9)_
-        [[laap6 zaap6 立雜]]
+        [[laap6 zaap6 垃雜]]
         miscellaneous, a medley.
     ==
   ====
@@ -437,7 +437,25 @@ E
   ====
   - 【垃雜】 (laap6 zaap6):
     ++
-    1. Disorganised or cluttered. Commonly spelt 立雜.
+    1. Disorganised or cluttered. Commonly spelt 立雜 (see discussion below).
+    ++
+  - 【雜】 (zaap6):
+    ++
+    1. Used to describe a place as dodgy,
+       due to the presence of miscellaneous unsavoury characters.
+       ==
+       - 城好雜 (seng4-2 hou2 zaap6): "[The] city [is] very dodgy."
+       ==
+    1. Offal.
+       ==
+       - 牛雜 (ngau4 zaap6): "Beef assortment [of offal]."
+         (In Hong Kong noodle shops, the typical parts are
+          tripe (肚 tou5),
+          lung (肺 fai3),
+          intestine (腸 coeng4-2), and
+          spleen (膀 bong2).\
+         )
+       ==
     ++
   ====
   --
