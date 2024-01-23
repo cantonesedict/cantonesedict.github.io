@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2024-01-21
+* %date-modified --> 2024-01-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -800,7 +800,7 @@ W
         [[gou3 zang6 誥贈]]
         to honor an officer's parents for his merits;
     - _tsang(6) (1)k(u/)n h(i/)(3) shik(7)_
-        [[zang6 gun1 hei3 sik1 贈觀氣色]],
+        [[zang6 gun1 hei3 sik1 贈觀氣色]]
         to give a look at one's complexion---a sign of physiognomists;
     - _ch(i/)t(3) (5)lau tsang(6) (4)hang (4)yan_
         [[zit3 lau5 zang6 hang4 jan4 折柳贈行人]],

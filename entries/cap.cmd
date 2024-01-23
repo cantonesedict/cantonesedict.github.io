@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cap
-* %date-modified --> 2024-01-22
+* %date-modified --> 2024-01-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -77,7 +77,7 @@ W
         [[cai4 cap1 cap1 齊戢戢]]
         to cut off evenly;
     - _(2)ch(')(a/)i ts(')ap(7) t(o\)(3) shat(9)_
-        [[caai2 cap1 dou3 sat6 踹戢到實]],
+        [[caai2 cap1 dou3 sat6 踹戢到實]]
         tread it, press it down very solid;
     - _tsoi[(3)] ts(')ap(7) (1)kon (1)kwo_
         [[zoi3 cap1 gon1 gwo1 載戢干戈]],
@@ -145,7 +145,7 @@ W
     - to pursue, to follow after, to be on the search for;
     - to apprehend;
     - _ts(')ap(7) wok(9)_
-        [[cap1 wok6 緝獲]],
+        [[cap1 wok6 緝獲]]
         to pursue and seize;
     - _ts(')ap(7) (1)sz'_
         [[cap1 si1 緝私]]
@@ -154,10 +154,10 @@ W
         [[cap1 si1 syun4 緝私船]],
         revenue cutters;
     - _ts(')ap(7) ch(e/)uk(9)_
-        [[cap1 zoek6 緝着]],
+        [[cap1 zoek6 緝着]]
         caught him;
     - _(4)ch(')(a/) ts(')ap(7)_
-        [[caa4 cap1 查緝]],
+        [[caa4 cap1 查緝]]
         on the search;
     - _(4)ts(')un ts(')ap(7)_
         [[ceon4 cap1 巡緝]]

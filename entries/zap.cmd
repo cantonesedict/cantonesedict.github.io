@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zap
-* %date-modified --> 2024-01-22
+* %date-modified --> 2024-01-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -297,13 +297,13 @@ W
         [[sou3 maai4 jat1 zap1 掃埋一蓻]]
         sweep it up into a pile;
     - _ap(7) tsap(7)_
-        [[ap1 zap1 洽蓻]],
+        [[ap1 zap1 洽蓻]]
         stingy, craven, slovenly;
     - _yat(7) tsap(7) (5)mai_
         [[jat1 zap1 mai5 一蓻米]],
         as much rice as the fingers can grasp;
     - _(1)t(')au tsap(7)_
-        [[tau1 zap1 偷蓻]],
+        [[tau1 zap1 偷蓻]]
         to make a little money.
     ==
   ====
@@ -324,7 +324,7 @@ E
   ====
   --
   It is debatable whether this is the same word as 執 _chap(7)_ [[zap1]].
-  In any case, Williams records the reading as _tsap(7)_ [[zap1]],
+  In any case, Williams records the reading as _tsap(7)_ [[zap1]]^,
   and [Eitel (1877)][eitel-dict-蓻] prefers the character 蓻,
   which matches _tsap(7)_ [[zap1]] in pronunciation:
   --

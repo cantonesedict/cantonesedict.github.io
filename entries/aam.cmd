@@ -71,7 +71,7 @@ W
     ==
     -  An unopened flower;
     - _(2)(a/)m t(a/)m(6)_
-        [[aam2 daam6 菡萏]],
+        [[aam2 daam6 菡萏]]^,
         the lotus flower;
     - a poetical name.
     ==

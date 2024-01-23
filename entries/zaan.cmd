@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2024-01-15
+* %date-modified --> 2024-01-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -641,7 +641,7 @@ W
         [[sau1 zaan6 修撰]]
         the first H(a/)nlin [[翰林]] academician;
     - _ch(a/)n(6) shut(9)_
-        [[zaan6 seot6 撰述]],
+        [[zaan6 seot6 撰述]]
         to narrate.
     ==
     --
@@ -898,7 +898,7 @@ W
 C
   ==
   - Fan Wan entry: The supplied dissection 中淡切 is incorrect,
-    as it results in the 陰去 reading _ch(a/)m(3)_ [[zaam3]],
+    as it results in the 陰去 reading _ch(a/)m(3)_ [[zaam3]]^,
     rather than the intended 陽去 reading _ch(a/)m(6)_ [[zaam6]].
     Normalised 𫉬 (⿱艹⿰犭隻) to 獲.
   - Williams' reading _(5)w(a/)n_ [[waan5]] for the authorised sense is incorrect,

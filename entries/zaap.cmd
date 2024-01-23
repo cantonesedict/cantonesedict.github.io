@@ -86,7 +86,7 @@ W
         [[zaap3 zi2 劄子]]
         a remonstrance;
     - _k(a/)m(3) ch(a/)p(8)_
-        [[gaam3 zaap3 監劄]],
+        [[gaam3 zaap3 監劄]]
         a diploma bought by a _kiensang_ [[監生]];
     - _ch(a/)p(8) k(a/)(3) (4)ts(')(i/)n_
         [[zaap3 gaa3 cin4 劄價錢]],
@@ -398,7 +398,7 @@ W
         [[zaap6 fo3 pou3 雜貨舖]]
         a variety store;
     - _ts(a/)p(9) shik(7)_
-        [[zaap6 sik1 雜色]],
+        [[zaap6 sik1 雜色]]
         variegated;
     - _(1)sam ts(a/)p(9)_
         [[sam1 zaap6 心雜]]
@@ -443,7 +443,7 @@ E
   --
   There is an argument that 垃雜 _l(a/)p(9) ts(a/)p(9)_ [[laap6 zaap6]]
   should be spelt 擸𢶍.
-  Indeed 擸𢶍 has an expected reading of _lap(9) tsap(9)_ [[lap6 zap6]],
+  Indeed 擸𢶍 has an expected reading of _lap(9) tsap(9)_ [[lap6 zap6]]^,
   and is explained "broken" or "cluttered":
   --
   ==

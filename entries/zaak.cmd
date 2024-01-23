@@ -217,7 +217,7 @@ W
 C
   ==
   - Fan Wan entry: The supplied dissection 直百切 is incorrect,
-    as it results in the 陽入 reading _ch(a/)k(9)_ [[zaak6]],
+    as it results in the 陽入 reading _ch(a/)k(9)_ [[zaak6]]^,
     rather than the intended 陰入 reading _ch(a/)k(8)_ [[zaak3]].
   ==
 $$

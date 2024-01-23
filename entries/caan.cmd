@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caan
-* %date-modified --> 2024-01-21
+* %date-modified --> 2024-01-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -543,7 +543,7 @@ W
         [[caan4 bui1 殘杯]],
         heeltaps;
     - _(4)ts(')(a/)n k(')(u")t(8)_
-        [[caan4 kyut3 殘缺]],
+        [[caan4 kyut3 殘缺]]
         deficient, injured;
     - _(4)ts(')(a/)n (2)yan_
         [[caan4 jan2 殘忍]],

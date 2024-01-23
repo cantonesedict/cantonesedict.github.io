@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2024-01-21
+* %date-modified --> 2024-01-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -98,7 +98,7 @@ W
         [[caam1 caam1 ci1 ci1 參參差差]]
         uneven, not well ranked, unassorted;
     - _(1)ts(')(a/)m k(a/)k(8)_
-        [[caam1 gaak3 參革]],
+        [[caam1 gaak3 參革]]
         to degrade an officer and report it;
     - _(1)ts(')(a/)m ts(a/)p(9)_
         [[caam1 zaap6 參雜]]
@@ -280,7 +280,7 @@ W
         [[hou2 caam2 好慘]],
         very shocking;
     - _(2)ts(')(a/)m hak(7)_
-        [[caam2 hak1 慘刻]],
+        [[caam2 hak1 慘刻]]
         oppressive, fleecing the people;
     - _(2)ts(')(a/)m (1)ts(o\) (4)w(a/)ng wo(6)_
         [[caam2 zou1 waang4 wo6 慘遭橫禍]]
@@ -649,7 +649,7 @@ W
         [[daai6 jin4 bat caam4 大言不慚]],
         he does not blush for a lie, he has no modesty;
     - _(4)ts(')(a/)m tak(7)_
-        [[caam4 dak1 慚德]],
+        [[caam4 dak1 慚德]]
         conscious of one's defects.
     ==
   ====

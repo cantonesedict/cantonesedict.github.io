@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2024-01-07
+* %date-modified --> 2024-01-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -273,7 +273,7 @@ W
     - to rase, to destroy;
     - the heel;
     - _(2)ch(')(a/)i (5)(u")n sok(8)_
-        [[caai2 jyun5 sok3 踹軟索]],
+        [[caai2 jyun5 sok3 踹軟索]]
         a treader on rope ladders---a thief;
     - _(2)p(i/) (1)sai (1)kw(a/) (4)p(')(i/) (5)n(i/) (2)ch(')(a/)i_
         [[bei2 sai1 gwaa1 pei4 nei5 caai2 畀西瓜皮你踹]],

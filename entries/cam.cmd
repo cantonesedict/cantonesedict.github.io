@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2024-01-22
+* %date-modified --> 2024-01-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -512,7 +512,7 @@ W
         [[cam4 si6 尋事]]
         to meddle with;
     - _(4)ts(')am mat(9)_
-        [[cam4 mat6 尋物]],
+        [[cam4 mat6 尋物]]
         a colloquial phrase for yesterday.
     ==
   ====

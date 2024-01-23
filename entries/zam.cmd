@@ -638,7 +638,7 @@ W
         [[hon6 zam3 hung4 ngaan4 汗浸紅顏]],
         the perspiration rolled down his face;
     - _tsam(3) shap(7)_
-        [[zam3 sap1 浸濕]],
+        [[zam3 sap1 浸濕]]
         wet it, soak it;
     - _(2)p(i/) (2)shui tsam(3) ch(u")(6)_
         [[bei2 seoi2 zam3 zyu6 畀水浸住]]

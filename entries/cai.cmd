@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2024-01-17
+* %date-modified --> 2024-01-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -113,7 +113,7 @@ W
         [[jin4 cai1 賢妻]]
         my good wife, a virtuous wife;
     - _(1)ki(u/) (1)ts(')ai (5)m(i/) ts(')(i/)p(8)_
-        [[giu1 cai1 mei5 cip3 嬌妻美妾]],
+        [[giu1 cai1 mei5 cip3 嬌妻美妾]]
         an accomplished wife aud handsome concubine.
     ==
     --
@@ -246,7 +246,7 @@ W
         [[mou4 deng6 cai1 san1 無埞棲身]],
         no place to stay at;
     - _(1)ts(')ai s(i/)t(8)_
-        [[cai1 sit3 棲屑]],
+        [[cai1 sit3 棲屑]]
         to and fro, like a stranger.
     ==
   ====
@@ -572,7 +572,7 @@ W
         [[jat1 cai4 heoi3 一齊去]]
         all go at once;
     - _(1)shau (4)ts(')ai ch(e/)ung(3) muk(9)_
-        [[sau1 cai4 zoeng3 muk6 收齊賬目]],
+        [[sau1 cai4 zoeng3 muk6 收齊賬目]]
         to collect all the accounts;
     - _(4)ts(')ai (4)m(i/)_
         [[cai4 mei4 齊眉]],

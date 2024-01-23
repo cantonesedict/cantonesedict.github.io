@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2024-01-09
+* %date-modified --> 2024-01-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -320,7 +320,7 @@ W
         [[can2 siu3 哂笑]]
         to smile;
     - _(2)ch(')an n(a/)p(9)_
-        [[can2 naap6 哂納]],
+        [[can2 naap6 哂納]]
         to smile on receiving.
     ==
   ====
@@ -730,7 +730,7 @@ W
         [[can3 zi2 襯紙]],
         a flyleaf in books;
     - _ch(')an(3) t(')(i/)p(8)_
-        [[can3 tip3-2 襯貼]],
+        [[can3 tip3-2 襯貼]]
         plaits on a petticoat.
     ==
   ====
@@ -932,8 +932,8 @@ W
     - _(4)m(o\) yat(7) (2)t(i/)m (4)ch(')an_
         [[mou4 jat1 dim2 can4 無一點塵]],
         clean;
-    - _(4)ch(')an tsuk(9)_ [[can4 zuk6 塵俗]],
-      _(4)ch(')an shai(3)_ [[can4 sai3 塵世]],
+    - _(4)ch(')an tsuk(9)_ [[can4 zuk6 塵俗]]^,
+      _(4)ch(')an shai(3)_ [[can4 sai3 塵世]]^,
         or
       _(4)hung (4)ch(')an_ [[hung4 can4 紅塵]],
         the dusty world;
