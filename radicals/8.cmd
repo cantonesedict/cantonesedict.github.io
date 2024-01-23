@@ -265,6 +265,23 @@ For all radicals, see [Index of characters by radical](./).
 ## ⾫ (short tailed bird)
 
 <## radical-⾫-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 10
+    ,
+      <nav class="sideways">
+      ==
+      - $雜zaap6
+      ==
+      </nav>
+''
+||||
 <## /radical-⾫-characters ##>
 
 

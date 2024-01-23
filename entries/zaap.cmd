@@ -117,6 +117,7 @@ $$
 - $极6
 - $鈒6
 - $閘6
+- $雜6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -256,4 +257,105 @@ W
         put in the bars.
     ==
   ====
+$$
+
+### 雜6 | _Ts(a/)p(9)_ [[zaap6]]
+
+$$
+R
+  ⾫ + 10
+U
+  U+96DC
+A
+  ==
+  -{.modern} $什6
+  - $襍6
+  ==
+V
+  ==
+  - zaap6-2 (in 打雜)
+  ==
+F
+  ==
+  - [[F2.66 雜]] 叅錯也五綵相合也
+  - [[F2.66 襍]] 同上
+  ==
+W
+  ====
+  - [[Page~558 雜(9)襍(9)]]
+    ==
+    - A mixture of different colors or ingredients;
+    - particolored, streaked;
+    - mixed, unassorted, blended, mingled, confused;
+    - various, all sorts, miscellaneous, heterogenous, fragmentary;
+    - to mix, to confuse;
+    - to repeat;
+    - to revolve;
+    - to bore through;
+    - _ts(a/)p(9) fo(3)_
+        [[zaap6 fo3 雜貨]]
+        miscellaneous goods;
+    - _ts(a/)p(9) fo(3) p(')(o\)(3)_
+        [[zaap6 fo3 pou3 雜貨舖]]
+        a variety store;
+    - _ts(a/)p(9) shik(7)_
+        [[zaap6 sik1 雜色]],
+        variegated;
+    - _(1)sam ts(a/)p(9)_
+        [[sam1 zaap6 心雜]]
+        distracted, not keeping long at a purpose;
+    - _ts(a/)p(9) (2)chung (2)tsai_
+        [[zaap6 zung2 zai2 雜種仔]],
+        a bastard;
+    - _ts(a/)p(9) (4)t(')ong (2)kwo_
+        [[zaap6 tong4 gwo2 雜糖果]],
+        chowchow sweetmeats;
+    - _(5)'ng (1)fong ts(a/)p(9) (2)ch(')(u")_
+        [[ng5 fong1 zaap6 cyu2 五方雜處]],
+        a place where all sorts of people live;
+    - _ts(a/)p(9) l(u")n(6)_
+        [[zaap6 lyun6 雜亂]]
+        confused, put in disorder;
+    - _(4)h(a/)n ts(a/)p(9) (4)yan (2)tang_
+        [[haan4 zaap6 jan4 dang2 閒雜人等]]
+        loafers, idlers;
+    - _(2)t(a/) ts(a/)p(9)_
+        [[daa2 zaap6-2 打雜]]
+        man of all work;
+    - _shik(9) ts(a/)p(9)_
+        [[sik6 zaap6 食雜]]
+        to eat anything, not to fast;
+    - _l(a/)p(9) ts(a/)p(9)_
+        [[laap6 zaap6 立雜]]
+        miscellaneous, a medley.
+    ==
+  ====
+C
+  ==
+  - Williams' unassorted: An old word for unsorted or miscellaneous.
+  ==
+E
+  ====
+  - 【垃雜】 (laap6 zaap6):
+    ++
+    1. Disorganised or cluttered. Commonly spelt 立雜.
+    ++
+  ====
+  --
+  There is an argument that _l(a/)p(9) ts(a/)p(9)_ [[laap6 zaap6]] should be spelt 擸𢶍.
+  Indeed 擸𢶍 has an expected reading of _lap(9) tsap(9)_ [[lap6 zap6]],
+  and is explained "broken" or "cluttered":
+  --
+  ==
+  - ::B5.w546a0106 (:盧盍切:) (:擸:) 折也(:又擸𢶍破壞也:)::
+  - ::B5.w546a1002 (:才盍切:) (:𢶍:) (:擸𢶍和雜:)::
+  - ::K. (:𢶍:) 《唐韻》(:才盍切:)《集韻》(:疾盍切𠀤音䪞讀若慙入聲擸𢶍和雜也:)[...]::
+  ==
+  --
+  However, since 擸𢶍 is also considered the original spelling of laap6 saap3 (垃圾),
+  it would be confusing to use it for laap6 zaap6 also.
+  As a compromise that acknowledges the (probable) common ancestry,
+  I have opted to spell laap6 zaap6 as 垃雜,
+  even though the common spelling is 立雜.
+  --
 $$

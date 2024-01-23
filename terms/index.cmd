@@ -260,6 +260,9 @@ window.onload = applyFilter;
     , laa5 zaa2
     , [揦鮓](/entries/zaa#cantonese-揦鮓)
   //
+    , laap6 zaap6
+    , [垃雜](/entries/zaap#cantonese-垃雜)
+  //
     , lou5 can3
     , [老襯](/entries/can#cantonese-老襯)
   //
