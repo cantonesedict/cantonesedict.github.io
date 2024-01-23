@@ -117,6 +117,7 @@ $$
 - $什6
 - $极6
 - $襍6
+- $襲6
 - $鈒6
 - $閘6
 - $集6
@@ -200,6 +201,49 @@ W
     --
     [[Alternative form of 雜. **See $雜zaap6 for the canonical entry.**]]
     --
+  ====
+$$
+
+### 襲6 | _Ts(a/)p(9)_ [[zaap6]]
+
+$$
+R
+  ⾐ + 16
+U
+  U+8972
+V
+  ==
+  - zap6 (expected from 似入切)
+  ==
+F
+  ==
+  - [[F2.39 襲 _Tsap(9)_ (zap6)]] 重衣也因也又潛師揜取曰襲
+  ==
+W
+  ====
+  - [[Page~558 襲(9)]]
+    ==
+    - Double garments, lined robes, a court dress;
+    - a suit;
+    - a robe fastened on the left side;
+    - collected;
+    - repeated;
+    - to make a foray, to invade, to steal into;
+    - to receive, to inherit;
+    - hereditary, descending in a family;
+    - _shai(3) ts(a/)p(9)_
+        [[sai3 zaap6 世襲]]
+        hereditary;
+    - _ts(a/)p(9) yam(3)_
+        [[zaap6 jam3 襲蔭]]
+        hereditary protection and pension --- for the merit of ancestors;
+    - _yat(7) ts(a/)p(9) (1)(i/)_
+        [[jat1 zaap6 ji1 一襲衣]],
+        a suit of clothes;
+    - _shai(3) ts(a/)p(9) (2)tsz' ts(e/)uk(8)_
+        [[sai3 zaap6 zi2 zoek3 世襲子爵]]
+        a hereditary baron.
+    ==
   ====
 $$
 
