@@ -163,9 +163,4 @@ W
         put in the bars.
     ==
   ====
-C
-  ==
-  - Williams' _ch(a/)p(9) ts(a/)p(9)_ (閘？):
-    Not sure which _ts(a/)p(9)_ [[zaap6]] means "guard-house".
-  ==
 $$

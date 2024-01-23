@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2024-01-17
+* %date-modified --> 2024-01-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -656,8 +656,6 @@ W
   ====
 C
   ==
-  - Williams' zam3 zaa6: Not sure which zaa6 means "niggardly, closefisted" (that is, stingy).
-    Also, no entry appears in Williams with the reading _ch(a/)(6)_ [[zaa6]].
   - Williams' 水浸: Not overflowed, but flooded.
   - Williams' 汗浸紅顏: Although 紅顏 does not preclude men,
     it is generally used to describe a lady's face.

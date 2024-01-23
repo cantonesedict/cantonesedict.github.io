@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2024-01-12
+* %date-modified --> 2024-01-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -166,7 +166,6 @@ W
   ====
 C
   ==
-  - Williams' aa1 wai3: not sure what he means by "poor, necessitous".
   - [Jyutping.org suggests using 吖 as the canonical character for aa1.]
   ==
 E
@@ -600,7 +599,6 @@ C
   ==
   - Williams does not provide separate entries for $亞3 and 阿.
     I have split things up accordingly.
-  - Williams' aa3 bei6: Not sure which bei6 means "a silly fellow".
   ==
 $$
 
