@@ -114,6 +114,7 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $什6
 - $极6
 - $襍6
 - $鈒6
@@ -122,6 +123,27 @@ $$
 ==
 </nav>
 <## /tone-6-characters ##>
+
+###+ 什6 | _Ts(a/)p(9)_ [[zaap6]]
+
+$$
+R
+  ⼈ + 2
+U
+  U+4EC0
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Alternative form of 雜. **See $雜zaap6 for the canonical entry.**
+  ==
+S
+  ==
+  - $雜sap6 (TODO)
+  ==
+$$
 
 ### 极6 | _Ch(a/)p(9)_ [[zaap6]]
 
