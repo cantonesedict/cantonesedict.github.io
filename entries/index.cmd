@@ -126,7 +126,7 @@ See also: [Index of Cantonese terms by Jyutping](/terms/).
 - $caam
 - $caan
 - $caang
-- $caap (work in progress)
+- $caap
 - $caat (work in progress)
 - $caau (work in progress)
 - $cai
