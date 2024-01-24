@@ -92,7 +92,7 @@ W
     ==
     - A wife, a partner, a spouse, a consort who is takea with legal ceremonies;
     - _(1)ts(')ai (2)tsz'_
-        [[cai1 zi2 妻子]]^
+        [[cai1 zi2 妻子]]
         a wife;
     - _ling(6) (1)ts(')ai_
         [[ling6 cai1 令妻]],

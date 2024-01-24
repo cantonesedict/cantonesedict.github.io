@@ -620,7 +620,7 @@ W
     - drenched, wet, imbued with, watered;
     - gradually, gently;
     - _tsam(3) (2)sz'_
-        [[zam3 si2 / zam3 sei2 浸死]]^
+        [[zam3 si2 / zam3 sei2 浸死]]
         drowned;
     - _tsam(3) (4)t(')ong_
         [[zam3 tong4 浸糖]]^

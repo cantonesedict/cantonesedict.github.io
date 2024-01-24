@@ -95,7 +95,7 @@ W
         to visit one;
         to worship;
     - _(1)ts(')(a/)m (1)ts(')(a/)m (1)ts(')z' (1)ts(')z'_
-        [[caam1 caam1 ci1 ci1 參參差差]]^
+        [[caam1 caam1 ci1 ci1 參參差差]]
         uneven, not well ranked, unassorted;
     - _(1)ts(')(a/)m k(a/)k(8)_
         [[caam1 gaak3 參革]]

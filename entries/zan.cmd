@@ -173,7 +173,7 @@ W
         [[zan1 jan4 真人]],
         a sprite, a phantom of a man[;]
     - _(1)chan ko(3) (5)ts(')z'_
-        [[zan1 go3 ci5 真個似]]^
+        [[zan1 go3 ci5 真個似]]
         in fact, it was like;
     - _(2)s(e/) (1)chan_
         [[se2 zan1 寫真]],

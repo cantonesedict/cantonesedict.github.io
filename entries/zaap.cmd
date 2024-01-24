@@ -77,7 +77,7 @@ W
         [[zi2 zaap3 紙劄]]
         stationery;
     - _ch(a/)p(8) (2)tsz'_
-        [[zaap3 zi2 劄子]]^
+        [[zaap3 zi2 劄子]]
         a remonstrance;
     - _k(a/)m(3) ch(a/)p(8)_
         [[gaam3 zaap3 監劄]]

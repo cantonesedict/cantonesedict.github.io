@@ -646,7 +646,7 @@ W
         [[caa4 gei1 茶几]],
         a teapoy;
     - _(4)ch(')(a/) (1)sz'_
-        [[caa4 si1 茶師]]^
+        [[caa4 si1 茶師]]
         a tea-taster;
     - _(4)ch(')(a/) m(u/)t(9)_
         [[caa4 mut6 茶末]]
