@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaap
-* %date-modified --> 2024-01-23
+* %date-modified --> 2024-01-24
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -116,6 +116,7 @@ $$
 =={.modern}
 - $什6
 - $极6
+- $習6
 - $襍6
 - $襲6
 - $鈒6
@@ -178,6 +179,63 @@ W
 S
   ==
   - $极kap1 (TODO)
+  ==
+$$
+
+### 習6 | _Ts(a/)p(9)_ [[zaap6]]
+
+$$
+R
+  ⽻ + 5
+U
+  U+7FD2
+V
+  ==
+  - zap6 (expected from 似入切)
+  ==
+F
+  ==
+  - [[F2.39 習 _Tsap(9)_ (zap6)]] ::學慣熟也狎也[練]也::
+  ==
+W
+  ====
+  - [[Page~558 習(9)]]
+    ==
+    - A continued flight;
+    - to repeat the same act, to practice,
+      to get accustomed to, to become skilled in;
+    - practice, use, custom, habit, exercise, repetition;
+    - _hok(9) ts(a/)p(9)_
+        [[hok6 zaap6 學習]]
+        apprenticed to;
+        to learn about;
+    - _ts(a/)p(9) kw(a/)n(3) (4)shing tsz'(6) (4)(i/)n_
+        [[zaap6 gwaan3 sing4 zi6 jin4 習慣成自然]],
+        practice makes it natural;
+    - _ts(a/)p(9) shuk(9)_
+        [[zaap6 suk6 習熟]]
+        well versed in, habituated to;
+    - _ts(a/)p(9) l(i/)n(6)_
+        [[zaap6 lin6 習練]]
+        practice;
+    - _ts(a/)p(9) (2)hau (1)yam_
+        [[zaap6 hau2 jam1 習口音]],
+        to practice speaking;
+    - _ts(a/)p(9) (4)(i/) pat(7) ch(')(a/)t(8)_
+        [[zaap6 ji4 bat1 caat3 習而不察]]
+        to take without examination, careless practice;
+    - _ts(a/)p(9) (4)'m t(o\)(3)_
+        [[zaap6 m4 dou3-2 習唔到]]
+        cannot learn the use of it;
+    - _ts(a/)p(9) tsuk(9) [(2)sz'] (4)(i/)n_
+        [[zaap6 zuk6 si2 jin4 習俗使然]],
+        I've learned the usages.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 綀 to 練.
+  - Williams' 習俗使然: Corrected _(5)sh(i/)_ [[si5]] to _(2)sz'_ [[si2]].
   ==
 $$
 
