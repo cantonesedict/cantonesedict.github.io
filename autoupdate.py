@@ -77,7 +77,7 @@ class Updater:
         extraneous_context_match = re.search(
             pattern=r"_ [^_\n]+? (?: \([36789]\) | ' ) _ \s* \[\[ .+? \]\] ,",
             string=cmd_content,
-            flags=re.MULTILINE | re.VERBOSE,
+            flags=re.VERBOSE,
         )
         if extraneous_context_match:
             extraneous_context = re.sub(pattern=r'[\s]+', repl=' ', string=extraneous_context_match.group())
