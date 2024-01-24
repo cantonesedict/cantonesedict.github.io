@@ -124,6 +124,18 @@ class Updater:
             )
             sys.exit(1)
 
+        bad_williams_right_tone_runs = re.findall(
+            pattern=r'[_ ]\([36789]\) [^_\n]+?_',
+            string=cmd_content,
+            flags=re.VERBOSE,
+        )
+        if bad_williams_right_tone_runs:
+            print(
+                f'Error in `{entry_cmd_name}`: bad Williams right-tone position in {bad_williams_right_tone_runs}',
+                file=sys.stderr,
+            )
+            sys.exit(1)
+
     @staticmethod
     def _check_jyutping_heuristic(entry_cmd_name, cmd_content):
         bad_jyutping_runs = [
