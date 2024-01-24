@@ -55,6 +55,7 @@ class Updater:
             old_cmd_content = old_cmd_file.read()
 
         Updater._check_post_tone_commas_heuristic(entry_cmd_name, old_cmd_content)
+        Updater._check_williams_heuristic(entry_cmd_name, old_cmd_content)
         Updater._check_jyutping_heuristic(entry_cmd_name, old_cmd_content)
         tone_syllable_list = Updater._gather_tone_syllable_list(old_cmd_content)
         Updater._check_syllables(entry_cmd_name, tone_syllable_list)
@@ -97,6 +98,16 @@ class Updater:
             print(
                 f'Error in `{entry_cmd_name}`: missing post-tone comma in `{missing_context}` '
                 f'(suppress error with caret if missing comma is legitimate)',
+                file=sys.stderr,
+            )
+            sys.exit(1)
+
+    @staticmethod
+    def _check_williams_heuristic(entry_cmd_name, cmd_content):
+        bad_williams_entering_runs = re.findall(pattern=r'\S+[ptk]\([1-6]\)', string=cmd_content)
+        if bad_williams_entering_runs:
+            print(
+                f'Error in `{entry_cmd_name}`: bad Williams entering tone in {bad_williams_entering_runs}',
                 file=sys.stderr,
             )
             sys.exit(1)
