@@ -73,7 +73,7 @@ class Updater:
 
     @staticmethod
     def _check_post_tone_commas_heuristic(entry_cmd_name, cmd_content):
-        extraneous_context_match = re.search(pattern=r'_.+?\([36789]\)_\s*\[\[.+?\]\],', string=cmd_content)
+        extraneous_context_match = re.search(pattern=r'_[^_\n]+?\([36789]\)_\s*\[\[.+?\]\],', string=cmd_content)
         if extraneous_context_match:
             extraneous_context = re.sub(pattern=r'[\s]+', repl=' ', string=extraneous_context_match.group())
             print(
@@ -84,7 +84,7 @@ class Updater:
             sys.exit(1)
 
         missing_context_match = re.search(
-            pattern=r'_.+?\([1245]\)\S+_\s*\[\[.+?\]\]$',
+            pattern=r'_[^_\n]+?\([1245]\)\S+_\s*\[\[.+?\]\]$',
             string=cmd_content,
             flags=re.MULTILINE,
         )
