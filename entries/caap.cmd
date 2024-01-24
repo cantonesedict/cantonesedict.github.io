@@ -49,6 +49,7 @@ $$
 =={.modern}
 - $挿3
 - $插3
+- $揷3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -146,5 +147,23 @@ E
     1. To plant evidence and shift blame (onto another).
        (Literally, "insert loot [and] transfer disaster".)
     ++
+  ====
+$$
+
+### 揷3 | _Ch(')(a/)p(8)_ [[caap3]]
+
+$$
+R
+  ⼿ + 9
+U
+  U+63F7
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~23|n66 揷(8)]]
+    --
+    [[Alternative form of 插. **See $插caap3 for the canonical entry.**]]
+    --
   ====
 $$
