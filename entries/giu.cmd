@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> giu
-* %date-modified --> 2023-08-05
-* %copyright-prior-years -->
+* %date-modified --> 2024-01-24
+* %copyright-prior-years --> 2023--
 
 %%%
 
@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 [[From Page~164 & Page~719 of the original onwards.]]
 --
 
-#{.williams} K(i/)u. [[giu]]
+#{.williams} Ki(u/). [[giu]]
 
 <nav class="sideways">
 =={.modern}
