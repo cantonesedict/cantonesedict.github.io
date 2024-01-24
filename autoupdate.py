@@ -73,13 +73,11 @@ class Updater:
 
     @staticmethod
     def _check_post_tone_commas_heuristic(entry_cmd_name, cmd_content):
-        bad_post_tone_comma_contexts = [
-            re.sub(pattern=r'[\s]+', repl=' ', string=context)
-            for context in re.findall(pattern=r'_.+?\([36789]\)_\s*\[\[.+?\]\],', string=cmd_content)
-        ]
-        if bad_post_tone_comma_contexts:
+        extraneous_context_match = re.search(pattern=r'_.+?\([36789]\)_\s*\[\[.+?\]\],', string=cmd_content)
+        if extraneous_context_match:
+            extraneous_context = re.sub(pattern=r'[\s]+', repl=' ', string=extraneous_context_match.group())
             print(
-                f'Error in `{entry_cmd_name}`: bad post-tone comma in {bad_post_tone_comma_contexts} '
+                f'Error in `{entry_cmd_name}`: extraneous post-tone comma in `{extraneous_context}` '
                 f'(suppress error with caret if comma is legitimate)',
                 file=sys.stderr,
             )
