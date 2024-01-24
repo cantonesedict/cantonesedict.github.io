@@ -144,7 +144,7 @@ W
     - To rise above;
     - conspicuous, eminent, like a lofty mountain;
     - _(4)t(')au kok(3) (1)[chang] (4)[wing]_
-        [[tau4 gok3 zang1 wing4 頭角崢嶸]]
+        [[tau4 gok3 zang1 wing4 頭角崢嶸]]^
         a noble appearance, dignified.
     ==
   ====

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2024-01-22
+* %date-modified --> 2024-01-24
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -136,7 +136,7 @@ W
     --
     ==
     - _(2)tang (5)ha(a/) (1)ch(a/)!_
-        [[dang2 haa5 zaa1 等吓𠾵]]
+        [[dang2 haa5 zaa1 等吓𠾵]]^
         wait a moment;
     - _(2)yam (4)ch(')(a/) (1)ch(a/)_
         [[jam2 caa4 zaa1 飲茶𠾵]],
@@ -188,7 +188,7 @@ W
         [[zaa1 fo2 tung4 揸伙？]],
         to be a scullion;
     - _(5)yau (1)ch(a/) (2)shau_
-        [[jau5 zaa1 sau2 有揸手]]
+        [[jau5 zaa1 sau2 有揸手]]^
         I have security;
     - _(5)m(o\) (1)ch(a/) (4)n(a/)_
         [[mou5 zaa1 naa4 冇揸拿]],
@@ -437,7 +437,7 @@ W
     - A rank condiment of fish or flesh and salted hashed fine,
       with red rice and oil;
     - _(2)ch(a/) (4)(u")_
-        [[zaa2 jyu4 鮓魚]]
+        [[zaa2 jyu4 鮓魚]],
         a sort of Medusa or sea-blubber;
     - _[(5)]l(a/) (2)ch(a/)_
         [[laa5 zaa2 揦鮓]],

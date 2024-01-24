@@ -227,7 +227,7 @@ W
     ==
     - A gull;
     - _p(a/)k(9) (1)au_
-        [[baak6 au1 白鷗]]
+        [[baak6 au1 白鷗]]^
       or _(4)h(a/)n (1)au_
         [[haan4 au1 閒鷗]],
         a kind of gull found about Canton;

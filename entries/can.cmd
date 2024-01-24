@@ -213,11 +213,11 @@ W
     - _(4)shing (1)ts(')an_
         [[sing4 can1 成親]],
         to consummate a matriage;
-    - _(4)(i/)m (1)ts(')an_ [[jim4 can1 嚴親]]
+    - _(4)(i/)m (1)ts(')an_ [[jim4 can1 嚴親]]^
         or
       _f(u/)(6) (1)ts(')an_ [[fu6 can1 父親]],
         a father;
-    - _ts(')z' (1)ts(')an_ [[ci4 can1 慈親]]
+    - _ts(')z' (1)ts(')an_ [[ci4 can1 慈親]]^
         or
       _(5)m(o\) (1)ts(')an_ [[mou5 can1 母親]],
         a mother;
@@ -419,7 +419,7 @@ W
     - a cutaneous disease;
     - sore lips;
     - _tau(6) (2)ch(')an_
-        [[dau6 can2 痘疹]]
+        [[dau6 can2 痘疹]]^
         small pox pustules;
     - _(1)p(a/)n (2)ch(')an_
         [[baan1 can2 斑疹]],

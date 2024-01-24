@@ -76,7 +76,7 @@ W
         [[king1 zak1 傾仄]]
         tipped over, upset;
     - _chak(7) (1)[shing]_
-        [[zak1 sing1 仄聲]]
+        [[zak1 sing1 仄聲]]^
         the oblique tones;
     - _chak(7) lau(6)_
         [[zak1 lau6 仄陋]]

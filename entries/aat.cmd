@@ -228,7 +228,7 @@ W
         I'll not keep you;
         not detain you;
     - _[(a/)t](8) [(5)]wan_
-        [[aat3 wan5 押韻]]
+        [[aat3 wan5 押韻]]^
         to rhyme;
     - _[(a/)t](8) (4)sh(u")n_
         [[aat3 syun4 押船]],
@@ -243,7 +243,7 @@ W
         [[cim1 aat3 簽押]]
         to endorse an edict, in red ink;
     - _[(a/)t](8) (1)pong_
-        [[aat3 bong1 押幫]]
+        [[aat3 bong1 押幫]]^
         to look after, to escort;
     - _[(a/)t](8) (1)tung_
         [[aat3 dung1 押冬]],

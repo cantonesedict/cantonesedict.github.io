@@ -77,7 +77,7 @@ W
         [[zi2 zaap3 紙劄]]
         stationery;
     - _ch(a/)p(8) (2)tsz'_
-        [[zaap3 zi2 劄子]]
+        [[zaap3 zi2 劄子]]^
         a remonstrance;
     - _k(a/)m(3) ch(a/)p(8)_
         [[gaam3 zaap3 監劄]]
@@ -422,7 +422,7 @@ W
         [[seoi2 zaap6 水閘]]
         a waste-weir, a mill-race or sluice with gates;
     - _ch(a/)p(9) (1)f(u/)_
-        [[zaap6 fu1 閘夫]]
+        [[zaap6 fu1 閘夫]]^
         a gatekeeper;
     - _(1)hon ch(a/)p(9)_
         [[hon1 zaap6 看閘]]
@@ -579,7 +579,7 @@ W
         [[zaap6 lyun6 雜亂]]
         confused, put in disorder;
     - _(4)h(a/)n ts(a/)p(9) (4)yan (2)tang_
-        [[haan4 zaap6 jan4 dang2 閒雜人等]]
+        [[haan4 zaap6 jan4 dang2 閒雜人等]]^
         loafers, idlers;
     - _(2)t(a/) ts(a/)p(9)_
         [[daa2 zaap6-2 打雜]]

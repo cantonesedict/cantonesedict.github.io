@@ -274,7 +274,7 @@ W
     - pointed, urgent;
     - to exhort, to rebuke, to urge to reform;
     - _(1)cham (1)kw(')ai_
-        [[zam1 kwai1 箴規]]
+        [[zam1 kwai1 箴規]]^
         admonition, rebukes;
     - _(1)cham (4)ming_
         [[zam1 ming4 箴銘]],
@@ -321,7 +321,7 @@ W
         [[zam1 zi2 針黹]],
         to embroider;
     - _(4)hon (2)sh(u") (1)cham_
-        [[hon4 syu2 zam1 寒暑針]]
+        [[hon4 syu2 zam1 寒暑針]]^
         a thermometer;
     - _(5)ng(a/)n (1)cham_
         [[ngaan5 zam1 眼針]],
@@ -620,10 +620,10 @@ W
     - drenched, wet, imbued with, watered;
     - gradually, gently;
     - _tsam(3) (2)sz'_
-        [[zam3 si2 / zam3 sei2 浸死]]
+        [[zam3 si2 / zam3 sei2 浸死]]^
         drowned;
     - _tsam(3) (4)t(')ong_
-        [[zam3 tong4 浸糖]]
+        [[zam3 tong4 浸糖]]^
         soaked in syrup;
     - _tsam(3) yun(6)_
         [[zam3 jeon6 浸潤]]

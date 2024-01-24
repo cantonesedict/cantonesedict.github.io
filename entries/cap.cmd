@@ -148,7 +148,7 @@ W
         [[cap1 wok6 緝獲]]
         to pursue and seize;
     - _ts(')ap(7) (1)sz'_
-        [[cap1 si1 緝私]]
+        [[cap1 si1 緝私]]^
         to watch smugglers;
     - _ts(')ap(7) (1)sz' (4)sh(u")n_
         [[cap1 si1 syun4 緝私船]],

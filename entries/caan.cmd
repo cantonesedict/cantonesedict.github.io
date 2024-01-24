@@ -102,13 +102,13 @@ W
         [[jat1 caan1 faan6 一餐飯]]
         a meal;
     - _(2)ts(o\) (1)ts(')(a/)n_
-        [[zou2 caan1 早餐]]
+        [[zou2 caan1 早餐]]^
         breakfast;
     - _t(a/)i(6) (1)ts(')(a/)n_
         [[daai6 caan1 大餐]],
         dinner;
     - _(5)m(a/)n (1)ts(')(a/)n_
-        [[maan5 caan1 晚餐]]
+        [[maan5 caan1 晚餐]]^
         supper;
     - _yat(9) shik(9) (1)s(a/)m (1)ts(')(a/)n_
         [[jat6 sik6 saam1 caan1 日食三餐]],
@@ -286,7 +286,7 @@ W
         [[siu2 caan2 小產]],
         an abortion;
     - _(1)fan (2)ch(')(a/)n_
-        [[fan1 caan2 分產]]
+        [[fan1 caan2 分產]]^
         to divide the patrimony;
     - _(1)shang (2)ch(')(a/)n_
         [[sang1 caan2 生產]],
@@ -301,7 +301,7 @@ W
         [[tou2 caan2 土產]],
         productions;
     - _(1)k(')ing (1)k(a/) p(a/)i(6) (2)ch(')(a/)n_
-        [[king1 gaa1 baai6 caan2 傾家敗產]]
+        [[king1 gaa1 baai6 caan2 傾家敗產]]^
         the family lost everything.
     ==
   ====

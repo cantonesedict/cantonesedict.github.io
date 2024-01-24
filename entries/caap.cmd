@@ -87,16 +87,16 @@ W
         [[caap3 zeoi2 插嘴]],
         to interrupt (in talking);
     - _ch(')(a/)p(8) yik(9) (4)n(a/)n (1)f(i/)_
-        [[caap3 jik6 naan4 fei1 插翼難飛]]
+        [[caap3 jik6 naan4 fei1 插翼難飛]]^
         he can not fly away;
     - _ch(')(a/)p(8) (1)tsong_
         [[caap3 zong1 插贓]],
         to implicate one by leaving something in his house;
     - _ch(')(a/)p(8) (1)pi(u/)_
-        [[caap3 biu1 插標]]
+        [[caap3 biu1 插標]],
         to stick on labels;
     - _ch(')(a/)p(8) (1)shi(u/)_
-        [[caap3 siu1 插燒]]
+        [[caap3 siu1 插燒]],
         a stuffing put into roast pigs;
         a concubine's child;
     - _(4)sh(i/) ch(')(a/)p(8)_

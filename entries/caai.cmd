@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2024-01-23
+* %date-modified --> 2024-01-24
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -143,7 +143,7 @@ W
         [[caai1 dok6 猜度]]
         an opinion or idea, to guess;
     - _(1)ch(')(a/)i (4)m(u/)i_
-        [[caai1 mui4-2 猜枚]]
+        [[caai1 mui4-2 猜枚]],
         or
       _(1)ch(')(a/)i (5)m(a/)_
         [[caai1 maa5 猜馬]],
@@ -155,13 +155,13 @@ W
         [[caai jim4 猜嫌]],
         to suspect and dislike;
     - _(1)ch(')(a/)i (1)ng(a/)m_
-        [[caai1 ngaam1 猜啱]]
+        [[caai1 ngaam1 猜啱]]^
         guessed right;
     - _(1)ch(')(a/)i yat(7) (1)ch(')(a/)i_
-        [[caai1 jat1 caai1 猜一猜]]
+        [[caai1 jat1 caai1 猜一猜]]^
         make a guess;
-    - _(5)n(i/) sh(i/)(3) (1)ch(')(a/)i [(5)]h(a/)_
-        [[nei5 si3 caai1 haa5 你試猜一吓]]
+    - _(5)n(i/) sh(i/)(3) (1)ch(')(a/)i[] [(5)]h(a/)_
+        [[nei5 si3 caai1 haa5 你試猜一吓]]^
         just guess.
     ==
   ====

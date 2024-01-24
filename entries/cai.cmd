@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2024-01-23
+* %date-modified --> 2024-01-24
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -92,7 +92,7 @@ W
     ==
     - A wife, a partner, a spouse, a consort who is takea with legal ceremonies;
     - _(1)ts(')ai (2)tsz'_
-        [[cai1 zi2 妻子]]
+        [[cai1 zi2 妻子]]^
         a wife;
     - _ling(6) (1)ts(')ai_
         [[ling6 cai1 令妻]],
@@ -107,10 +107,10 @@ W
         [[ping4 cai1 平妻]],
         equal to a wife, _i.~e._ a concubine;
     - _[(2)]ts(')(u") (1)ts(')ai_
-        [[ceoi2 cai1 娶妻]]
+        [[ceoi2 cai1 娶妻]],
         to take a wife;
     - _(4)(i/)n (1)ts(')ai_
-        [[jin4 cai1 賢妻]]
+        [[jin4 cai1 賢妻]]^
         my good wife, a virtuous wife;
     - _(1)ki(u/) (1)ts(')ai (5)m(i/) ts(')(i/)p(8)_
         [[giu1 cai1 mei5 cip3 嬌妻美妾]]
@@ -500,7 +500,7 @@ W
     - suspicious, envious of;
     - to doubt;
     - _(1)t(i/)n (1)ch(i/) (1)fong [(4)ts(')ai]_
-        [[tin1 zi1 fong1 cai4 天之方懠]]
+        [[tin1 zi1 fong1 cai4 天之方懠]]^
         when heaven is angry.
     ==
   ====
@@ -563,7 +563,7 @@ W
       east of T(')(a/)i sh(a/)n [[泰山]];
     - the 210th radical;
     - _(2)ching (4)ts(')ai_
-        [[zing2 cai4 整齊]]
+        [[zing2 cai4 整齊]],
         well arranged, properly placed;
     - _(4)ts(')ai (1)chau_
         [[cai4 zau1 齊州]],

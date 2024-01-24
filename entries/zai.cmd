@@ -468,7 +468,7 @@ W
     - Name of a river;
     - [[see $濟zai3 for senses read in departing tone]]
     - _[(2)]tsai [(2)]tsai_
-        [[zai2 zai2 濟濟]]
+        [[zai2 zai2 濟濟]]^
         abundant; a concourse.
     ==
   ====

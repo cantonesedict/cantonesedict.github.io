@@ -299,7 +299,7 @@ W
     ==
     - A boat;
     - _ch(a/)k(8) [(5)m(a/)ng]_
-        [[zaak3 maang5 舴艋]]
+        [[zaak3 maang5 舴艋]]^
         a small boat, a punt, a pinnace, a junk's gig.
     ==
   ====
@@ -585,7 +585,7 @@ W
     - _ch(a/)k(9) chung(3)_
         [[zaak6 zung3 擲中]]
         to hit;
-    - _ch(a/)k(9) (4)t(')au_ [[zaak6 tau4 擲骰]]
+    - _ch(a/)k(9) (4)t(')au_ [[zaak6 tau4 擲骰]]^
         or
       _ch(a/)k(9) shik(7)_ [[zaak6 sik1 擲色]]
         to throw dice;

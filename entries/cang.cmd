@@ -113,7 +113,7 @@ W
     - past, already, done;
     - how?
     - a sign of past time;
-    - _(4)'m (4)ts(')ang_ [[m4 cang4 唔曾]]
+    - _(4)'m (4)ts(')ang_ [[m4 cang4 唔曾]]^
         or
       _m(i/)(6) (4)ts(')ang_ [[mei6 cang4 未曾]],
         not yet;

@@ -281,7 +281,7 @@ W
 C
   ==
   - Williams has am2 "cover" twice: once as 掩 _(2)Am_ [[am2]] on Page~3,
-    and once as 掩 _(1)(O\)m_ [[am1]] as a variant of $揞2 _(2)(O\)m_ [[am2]]
+    and once as 掩 _(1)(O\)m_ [[am1]] as a variant of $揞2 _(2)(O\)m_ [[am2]]^
     on Page~341.
   ==
 S
@@ -360,7 +360,7 @@ W
         [[am2 mak6 揞脈]]
         to feel the pulse;
     - _(2)(o\)m p(u/)i(6) (2)shau_
-        [[am2 bui6 sau2 揞背手]]
+        [[am2 bui6 sau2 揞背手]]^
         to give hush-money, to bribe.
     - The first character [[掩]] is read _(2)(i/)m_ [[jim2]],
       but also used with this meaning in the _p(')ing shing_ [[平聲]] [[am1]].
@@ -511,7 +511,7 @@ W
     - Dark, pitch dark, dark as a midnight;
     - astonied and silent, as if lost in amazement;
     - _K(')ap(7) (2)(O\)m_
-        [[kap1 am2 汲黯]]
+        [[kap1 am2 汲黯]]^
         a distinguished statesman of the H(a/)n [[漢]] dynasty.
     ==
   ====

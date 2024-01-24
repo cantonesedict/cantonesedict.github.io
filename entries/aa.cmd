@@ -84,7 +84,7 @@ W
     - A fork, a crotch;
     - the parting of two branches, fingers, or tines;
     - _(1)(a/) (4)t(')au_
-        [[aa1 tau4 丫頭]]
+        [[aa1 tau4 丫頭]]^
       or
       _(1)(a/) (4)w(a/)n_
         [[aa1 waan4 丫鬟]],
@@ -96,7 +96,7 @@ W
         [[aa1 caa1 丫杈]],
         a fork, a rest for clothes' sticks;
     - _sh(u")(6) (1)(a/)_
-        [[syu6 aa1 樹丫]]
+        [[syu6 aa1 樹丫]]^
         fork of a tree;
     - _(1)s(a/)m (1)(a/) l(o\)(6)_
         [[saam1 aa1 lou6 三丫路]]
@@ -140,7 +140,7 @@ W
     - also one indicating that the affirmation is indisputable;
     - a mere final answering tone, having no meaning;
     - _(2)h(o\) (1)(a/)_
-        [[hou2 aa1 好吖]]
+        [[hou2 aa1 好吖]]^
         well, very well;
     - _(1)(a/) wai(3)_
         [[aa1 wai3 吖？]]
@@ -322,7 +322,7 @@ W
     - dumb;
     - to keep silent, for which the next [[$瘂2]] is used;
     - _(2)(a/) [(4)]mai_
-        [[aa2 mai4 啞謎]]
+        [[aa2 mai4 啞謎]]^
         an enigma;
     - _(4)ts(')ing (4)n(a/)n (2)(a/) (2)yan_
         [[cing4 naan4 aa2 jan2 情難啞忍]],

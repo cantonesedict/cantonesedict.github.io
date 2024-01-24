@@ -517,7 +517,7 @@ W
         [[tong4 caang4-2 糖橙]],
         orange sweetmeats;
     - _(4)ch(')(a/)ng k(o\)m(3) (4)m(a/)n_
-        [[caang4-2 gam3 maan4 橙咁蠻]]
+        [[caang4-2 gam3 maan4 橙咁蠻]]^
         sharp as an orange;
     - _t(')(i/)m (4)ch(')(a/)ng_
         [[tim4 caang4-2 甜橙]],
