@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2024-01-14
+* %date-modified --> 2024-01-24
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -971,7 +971,7 @@ W
     - _[(5)t(')(a/)m] tak(7) tsai(6)_
         [[taam5 dak1 zai6 淡得嚌]]
         excessively weak, as tea;
-    - _(5)m(o\) mat(1) tsai(6)_
+    - _(5)m(o\) mat(7) tsai(6)_
         [[mou5 mat1 zai6 冇乜嚌]]
         not much there, nothing to speak of;
     - _t(a/)i(6) tak(7) tsai(6)_

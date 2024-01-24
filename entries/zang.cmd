@@ -143,7 +143,7 @@ W
     ==
     - To rise above;
     - conspicuous, eminent, like a lofty mountain;
-    - _(4)t(')au kok(3) (1)[chang] (4)[wing]_
+    - _(4)t(')au kok(8) (1)[chang] (4)[wing]_
         [[tau4 gok3 zang1 wing4 頭角崢嶸]]^
         a noble appearance, dignified.
     ==
@@ -802,7 +802,7 @@ W
     - _tsang(6) (1)k(u/)n h(i/)(3) shik(7)_
         [[zang6 gun1 hei3 sik1 贈觀氣色]]
         to give a look at one's complexion---a sign of physiognomists;
-    - _ch(i/)t(3) (5)lau tsang(6) (4)hang (4)yan_
+    - _ch(i/)t(8) (5)lau tsang(6) (4)hang (4)yan_
         [[zit3 lau5 zang6 hang4 jan4 折柳贈行人]],
         to give a willow-twig at parting;
     - _toi(6) tsang(6)_
