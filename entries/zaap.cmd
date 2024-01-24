@@ -45,6 +45,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $劄3
+- $眨3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -99,6 +100,31 @@ W
 C
   ==
   - Fan Wan entry: Corrected 剌 to 刺.
+  ==
+$$
+
+###+ 眨3 | _Ch(a/)p(8)_ [[zaap3]]
+
+$$
+R
+  ⽬ + 5
+U
+  U+7728
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Not present in Williams;
+    an entry is included here for completeness.
+    ++
+    1. To blink.
+    ++
+  ==
+S
+  ==
+  - $眨zaam2
   ==
 $$
 
