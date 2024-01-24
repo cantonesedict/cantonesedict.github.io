@@ -47,12 +47,48 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $扱3
 - $挿3
 - $插3
 - $揷3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 扱3 | _Ch(')(a/)p(8)_ [[caap3]]
+
+$$
+R
+  ⼿ + 4
+U
+  U+6271
+F
+  ==
+  - [[F2.66 挿]] ::以手[刺]人::
+  - [[F2.66 扱]] 同上
+  ==
+W
+  ====
+  - [[Page~23|n66 扱(8)]]
+    --
+    Wrongly used for the last [[$揷3]].
+    --
+    ==
+    - To take, to receive;
+    - to raise;
+    - to curtsey with the hands bowed to the ground;
+    - to tuck up the skirts.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 剌 to 刺.
+  ==
+S
+  ==
+  - $扱kap1 (TODO)
+  ==
+$$
 
 ###+ 挿3 | _Ch(')(a/)p(8)_ [[caap3]]
 
