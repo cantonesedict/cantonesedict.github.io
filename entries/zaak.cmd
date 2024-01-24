@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2024-01-22
+* %date-modified --> 2024-01-24
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -86,7 +86,8 @@ W
         [[zaak3 zyu6 keoi5 矺住佢]],
         keep it down;
     - _ch(a/)k(8) (2)sz'_
-        [[zaak3 si2 / zaak3 sei2 矺死]];
+        [[zaak3 si2 / zaak3 sei2 矺死]]
+        crushed to death;
     - [[...]]
     - _ch(a/)k(8) tsoi(6)_
         [[zaak3 zoi6 矺載]]
