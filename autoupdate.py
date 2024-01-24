@@ -57,9 +57,13 @@ class Updater:
         Updater._check_post_tone_commas_heuristic(entry_cmd_name, old_cmd_content)
         Updater._check_williams_heuristic(entry_cmd_name, old_cmd_content)
         Updater._check_jyutping_heuristic(entry_cmd_name, old_cmd_content)
+
         tone_syllable_list = Updater._gather_tone_syllable_list(old_cmd_content)
-        Updater._check_syllables(entry_cmd_name, tone_syllable_list)
+        navigation_tones = Updater._gather_navigation_tones(old_cmd_content)
         toned_characters_from_tone = Updater._gather_toned_characters_from_tone(old_cmd_content, tone_syllable_list)
+
+        Updater._check_syllables(entry_cmd_name, tone_syllable_list)
+        Updater._check_tones(entry_cmd_name, tone_syllable_list, navigation_tones)
 
         new_cmd_content = old_cmd_content
         new_cmd_content = Updater._normalise_radicals(new_cmd_content)
@@ -178,6 +182,13 @@ class Updater:
         )
 
     @staticmethod
+    def _gather_navigation_tones(cmd_content):
+        return re.findall(
+            pattern=r'<## tone-(?P<tone>[1-6])-characters ##>',
+            string=cmd_content,
+        )
+
+    @staticmethod
     def _check_syllables(entry_cmd_name, tone_syllable_list):
         cmd_syllable = re.sub(
             pattern=r'entries/(?P<syllable>[a-z]+)\.cmd',
@@ -189,6 +200,16 @@ class Updater:
         if gathered_syllables and gathered_syllables != {cmd_syllable}:
             print(
                 f'Error in `{entry_cmd_name}`: gathered_syllables {gathered_syllables} != `{{{cmd_syllable}}}`',
+                file=sys.stderr,
+            )
+            sys.exit(1)
+
+    @staticmethod
+    def _check_tones(entry_cmd_name, tone_syllable_list, navigation_tones):
+        syllable_tones = [tone_syllable[0] for tone_syllable in tone_syllable_list]
+        if syllable_tones != navigation_tones:
+            print(
+                f'Error in `{entry_cmd_name}`: syllable tones {syllable_tones} != navigation tones {navigation_tones}',
                 file=sys.stderr,
             )
             sys.exit(1)
