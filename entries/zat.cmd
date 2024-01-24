@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zat1](#1)
+- [zat6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -72,4 +73,56 @@ W
     **see $郅zat6 for the canonical entry**.]]
     --
   ====
+S
+  ==
+  - $郅zat6
+  ==
+$$
+
+
+##{#6 .williams} Chat(9) Tsat(9) [[zat6 陽入]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $郅6
+==
+</nav>
+<## /tone-6-characters ##>
+
+###+ 郅6 | _Chat(9)_ [[zat6]]
+
+$$
+R
+  ⾢ + 6
+U
+  U+90C5
+V
+  ==
+  - zat1 (expected from 之日切)
+  ==
+F
+  ==
+  - [[F1.41 郅 _Ch(i/)(3)_ (zi3)]] 世之隆也又極也
+  ==
+W
+  ====
+  - [[Page~23|n66 郅(7) _Chat(7)_ (zat1); here normalised to _Chat(9)_ (zat6)]]
+    ==
+    - To ascend, to go up, as a hill;
+    - flourishing, as an age;
+    - very, exceedingly;
+    - name of a city;
+    - _chat[(9)] (4)lung_
+        [[zat6 lung4 郅隆]],
+        very grand;
+    - _yuk(7) chat[(9)]_
+        [[juk1 zat6 郁郅]]
+        an ancient name of Ng(a/)nhw(a/) hien [[安化縣]] in K(a/)nsuh [[甘肅]].
+    ==
+  ====
+S
+  ==
+  - $郅zat1
+  ==
 $$
