@@ -232,6 +232,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $挨aai1
       - $挨ngaai4
+      - $挿caap3
       - $振zan3
       ==
       </nav>

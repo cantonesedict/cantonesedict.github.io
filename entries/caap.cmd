@@ -47,10 +47,32 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $挿3
 - $插3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+###+ 挿3 | _Ch(')(a/)p(8)_ [[caap3]]
+
+$$
+R
+  ⼿ + 7
+U
+  U+633F
+F
+  ==
+  - [[F2.66 挿]] ::以手[刺]人::
+  - [[F2.66 扱]] 同上
+  ==
+W
+  [[Not present]]
+C
+  ==
+  - Alternative form of 插. **See $插caap3 for the canonical entry.**
+  - Fan Wan entry: Corrected 剌 to 刺.
+  ==
+$$
 
 ###+ 插3 | _Ch(')(a/)p(8)_ [[caap3]]
 
