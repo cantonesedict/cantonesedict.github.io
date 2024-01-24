@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zat
-* %date-modified --> 2023-08-02
-* %copyright-prior-years -->
+* %date-modified --> 2024-01-24
+* %copyright-prior-years --> 2023--
 
 %%%
-
---{.modern}
-[[From Page~23|n66 (Chat) and Page~559 (Tsat) of the original onwards.]]
---
 
 #{.williams} Chat. Tsat. [[zat]]
 
@@ -21,3 +17,27 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [[Work in progress]]
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Chat. [[Page~23|n66]]
+  - Tsat. [[Page~559]]
+  ==
+WP
+  ==
+  - Chat <span class="modern">= [tɕɐt̚]</span>
+  - Tsat <span class="modern">= [tsɐt̚]</span>
+  ==
+MP
+  ==
+  - zat = [tsɐt̚], [tɕɐt̚]
+  ==
+$$
