@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2024-01-23
+* %date-modified --> 2024-01-24
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -207,7 +207,7 @@ U
   U+9A42
 F
   ==
-  - [[F2.62 ::[驂]::]] 駕車外兩馬曰[驂]馬
+  - [[F2.62 ::[驂]::]] ::駕車外兩馬曰[驂]馬::
   ==
 W
   ====
@@ -686,7 +686,7 @@ U
   U+6BDA
 F
   ==
-  - [[F2.63 毚]] 狡[兔]也
+  - [[F2.63 毚]] ::狡[兔]也::
   ==
 W
   ====

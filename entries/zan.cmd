@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zan
-* %date-modified --> 2024-01-10
+* %date-modified --> 2024-01-24
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -467,7 +467,7 @@ U
   U+9707
 F
   ==
-  - [[F1.84 震]] 卦名動也起也[懼]也威也
+  - [[F1.84 震]] ::卦名動也起也[懼]也威也::
   ==
 W
   ====
