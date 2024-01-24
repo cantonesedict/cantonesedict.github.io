@@ -83,6 +83,20 @@ class Updater:
             )
             sys.exit(1)
 
+        missing_context_match = re.search(
+            pattern=r'_.+?\([1245]\)\S+_\s*\[\[.+?\]\]$',
+            string=cmd_content,
+            flags=re.MULTILINE,
+        )
+        if missing_context_match:
+            missing_context = re.sub(pattern=r'[\s]+', repl=' ', string=missing_context_match.group())
+            print(
+                f'Error in `{entry_cmd_name}`: missing post-tone comma in `{missing_context}` '
+                f'(suppress error with caret if missing comma is legitimate)',
+                file=sys.stderr,
+            )
+            sys.exit(1)
+
     @staticmethod
     def _check_jyutping_heuristic(entry_cmd_name, cmd_content):
         bad_jyutping_runs = [
