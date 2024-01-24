@@ -125,6 +125,7 @@ $$
 - $隰6
 - $集6
 - $雜6
+- $霫6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -645,4 +646,30 @@ E
   I have opted to spell laap6 zaap6 as 垃雜,
   even though the common spelling is 立雜.
   --
+$$
+
+### 霫6 | _Ts(a/)p(9)_ [[zaap6]]
+
+$$
+R
+  ⾬ + 11
+U
+  U+972B
+V
+  ==
+  - zap6 (expected from 似入切)
+  ==
+F
+  ==
+  - [[F2.40 霫 _Tsap(9)_ (zap6)]] 大雨
+  ==
+W
+  ====
+  - [[Page~559 霫(9)]]
+    ==
+    - A great shower, rainy;
+    - an ancient tribe of northerners near Corea or Manchuria,
+      spoken of during the T(')(a/)ng [[唐]] dynasty.
+    ==
+  ====
 $$
