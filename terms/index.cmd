@@ -410,6 +410,9 @@ window.onload = applyFilter;
     , zap1 zai2 po4-2
     , [執仔婆](/entries/zap#cantonese-執仔婆)
   //
+    , zat1
+    , [質](/entries/zat#cantonese-質)
+  //
     , zau2 zaan2
     , [走趲](/entries/zaan#cantonese-走趲)
 ''

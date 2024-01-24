@@ -50,10 +50,77 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $質1
 - $郅1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 質1 | _Chat(7)_ [[zat1]]
+
+$$
+R
+  ⾙ + 8
+U
+  U+8CEA
+F
+  ==
+  - [[F1.86 質]] 樸也又文質
+  ==
+W
+  ====
+  - [[Page~23|n66 質(7)]]
+    ==
+    - Substance, essence, nature, the material of;
+    - plain, unadorned;
+    - sincere, honest;
+    - to cross-examine, to confront;
+    - to establish, to substantiate;
+    - opposite to, to appear in presence of;
+    - firm, as a texture;
+    - a disposition, a habit;
+    - a target;
+    - _h(i/)(3) chat(7)_
+        [[hei3 zat1 氣質]]
+        the complexion;
+        the elements of;
+    - _chat(7) sun(3)_
+        [[zat seon3 質訊]]
+        to confront the accused and witnesses;
+    - _chat(7) p(')ok(8)_
+        [[zat1 pok3 質樸]]
+        plain;
+    - _chat(7) t(i/)(6)_
+        [[zat1 dei6-2 質地]]
+        temperament, constitution, talents;
+    - _(2)pan chat(7)_
+        [[ban2 zat1 品質]]
+        the disposition.
+    ==
+  ====
+E
+  ====
+  - 【質】 (zat1):
+    ++
+    1. To stuff or pack tightly.
+       ==
+       - 質飽佢 (zat1 baau2 keoi5): "Stuff him full [with food]."
+       - 質到爆 (zat1 dou3 baau3): "Packed till bursting."
+       ==
+    1. To query or interrogate in an adversarial manner.
+       ==
+       - 畀律師質 (bei2 leot6 si1 zat1): "Interrogated by [a] lawyer."
+       ==
+    ++
+  ====
+  <## TODO: 糟質 zou1 zat1 ##>
+  <## TODO: 密質質 mat6 zat1 zat1 ##>
+  <## TODO: 屈質 wat1 zat1 ##>
+S
+  ==
+  - $質zi3 (TODO)
+  ==
+$$
 
 ### 郅1 | _Chat(7)_ [[zat1]]
 
