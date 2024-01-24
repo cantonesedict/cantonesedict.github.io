@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caang
-* %date-modified --> 2024-01-21
+* %date-modified --> 2024-01-24
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -257,6 +257,14 @@ $$
 
 
 ##{#2 .modern} (2)Ch(')(a/)ng [[caang2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $橙2
+==
+</nav>
+<## /tone-2-characters ##>
 
 ###+ 橙2 | _(2)Ch(')(a/)ng_ [[caang2]]
 
