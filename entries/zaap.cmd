@@ -116,6 +116,7 @@ $$
 =={.modern}
 - $什6
 - $极6
+- $槢6
 - $習6
 - $襍6
 - $襲6
@@ -179,6 +180,38 @@ W
 S
   ==
   - $极kap1 (TODO)
+  ==
+$$
+
+### 槢6 | _Ts(a/)p(9)_ [[zaap6]]
+
+$$
+R
+  ⽊ + 11
+U
+  U+69E2
+V
+  ==
+  - zap6 (expected from 似入切)
+  ==
+F
+  ==
+  - [[F2.39 ::[槢]:: _Tsap(9)_ (zap6)]] 堅木
+  ==
+W
+  ====
+  - [[Page~559 槢(9)]]
+    ==
+    - Firm, hard wood;
+    - durable timber;
+    - _ts(a/)p(9) muk(9)_
+        [[zaap6 muk6 槢木]]
+        any kind of hard wood.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword ⿰米習 to 槢.
   ==
 $$
 
