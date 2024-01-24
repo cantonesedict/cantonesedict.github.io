@@ -122,6 +122,7 @@ $$
 - $襲6
 - $鈒6
 - $閘6
+- $隰6
 - $集6
 - $雜6
 ==
@@ -437,6 +438,34 @@ W
     - _(5)sh(e/)ung ch(a/)p(9)_
         [[soeng5 zaap6 上閘]]
         put in the bars.
+    ==
+  ====
+$$
+
+### 隰6 | _Ts(a/)p(9)_ [[zaap6]]
+
+$$
+R
+  ⾩ + 14
+U
+  U+96B0
+V
+  ==
+  - zap6 (expected from 似入切)
+  ==
+F
+  ==
+  - [[F2.39 隰 _Tsap(9)_ (zap6)]] 下溼曰隰
+  ==
+W
+  ====
+  - [[Page~559 隰(9)]]
+    ==
+    - Low, marshy land;
+    - a pool, a morass, wet meadows at the base of hills;
+    - _ts(a/)p(9) (4)t(')(i/)n_
+        [[zaap6 tin4 隰田]],
+        low wet fields, marshes.
     ==
   ====
 $$
