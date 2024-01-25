@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2024-01-07
+* %date-modified --> 2024-01-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -50,7 +50,7 @@ $$
 </nav>
 <## /tone-1-characters ##>
 
-### 斋1 | _(1)Ch(a/)i_ [[zaai1]]
+### [斋]1 | _(1)Ch(a/)i_ [[zaai1]]
 
 $$
 R
@@ -65,14 +65,14 @@ F
   ==
 W
   ====
-  - [[Page~10|n53 (1)齋(1)斋]]
+  - [[Page~10|n53 (1)齋(1)[斋]^]]
     --
     [[Alternative form of 齋. **See $齋zaai1 for the canonical entry.**]]
     --
   ====
 C
   ==
-  - Williams prints this as ⿱攵而 rather than ⿱文而.
+  - Williams prints 斋 as ⿱攵而 rather than ⿱文而.
   ==
 $$
 
@@ -126,7 +126,7 @@ F
   ==
 W
   ====
-  - [[Page~10|n53 (1)齋(1)斋]]
+  - [[Page~10|n53 (1)齋(1)[斋]^]]
     ==
     - To respect, to reverence;
     - to abstain from;

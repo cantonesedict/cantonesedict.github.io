@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zak
-* %date-modified --> 2024-01-07
+* %date-modified --> 2024-01-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -305,7 +305,7 @@ W
   ====
 C
   ==
-  - Williams prints this like ⿰魚卽 rather than as ⿰魚即.
+  - Williams prints 鯽 like ⿰魚卽 rather than as ⿰魚即.
   ==
 S
   ==
