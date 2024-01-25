@@ -106,7 +106,6 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $咋zaa3
-      - $咋zaa4
       ==
       </nav>
   //
@@ -146,6 +145,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $啽am1
+      - $喳zaa4
       ==
       </nav>
   //

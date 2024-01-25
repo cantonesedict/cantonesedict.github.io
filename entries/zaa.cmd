@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2024-01-24
+* %date-modified --> 2024-01-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -596,7 +596,7 @@ W
   ====
 E
   ====
-  - 【咋-3】 (za3, zaa3):
+  - 【咋】 (za3, zaa3):
     ++
     1. A final particle of limitation.
       ==
@@ -604,10 +604,6 @@ E
       ==
     ++
   ====
-S
-  ==
-  - $咋zaa4
-  ==
 $$
 
 ### 搾3 | _Ch(a/)(3)_ [[zaa3]]
@@ -862,18 +858,18 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
-- $咋4
+- $喳4
 ==
 </nav>
 <## /tone-4-characters ##>
 
-###+ 咋4 | _(4)Ch(a/)_ [[zaa4]]
+###+ 喳4 | _(4)Ch(a/)_ [[zaa4]]
 
 $$
 R
-  ⼝ + 5
+  ⼝ + 9
 U
-  U+548B
+  U+55B3
 V
   ==
   - za4 (shorter syllable)
@@ -882,20 +878,20 @@ F
   [[Not present]]
 W
   [[Not present]]
+C
+  ==
+  - [Jyutping.org suggests using 喳 as the canonical character for zaa4.]
+  ==
 E
   ====
-  - 【咋-4】 (za4, zaa4):
+  - 【喳】 (za4, zaa4):
     ++
     1. An interrogative-ish final particle of limitation, suspicion, disappointment, etc.
       ==
-      - 三個人咋 (saam1 go3 jan4 za4): "[Only] three people?"
+      - 三個人喳 (saam1 go3 jan4 za4): "[Only] three people?"
       ==
     ++
   ====
-S
-  ==
-  - $咋zaa3
-  ==
 $$
 
 
