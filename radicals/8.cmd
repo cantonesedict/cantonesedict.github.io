@@ -258,6 +258,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $隰zaap6
       - $隮zai1
+      - $隲zat1
       ==
       </nav>
 ''

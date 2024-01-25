@@ -53,6 +53,7 @@ $$
 - $質1
 - $郅1
 - $鑕1
+- $隲1
 - $騭1
 ==
 </nav>
@@ -164,6 +165,26 @@ W
     - An ax, a hatchet;
     - an anvil or iron block, used by smiths and others.
     ==
+  ====
+$$
+
+### 隲1 | _Chat(7)_ [[zat1]]
+
+$$
+R
+  ⾩ + 14
+U
+  U+96B2
+F
+  ==
+  - [[F1.86 隲]] ::陰隲品隲又定也成也[陞]也生也::
+  ==
+W
+  ====
+  - [[Page~23|n66 [騭](7)隲(7)]]
+    --
+    [[Alternative form of 騭. **See $騭zat1 for the canonical entry.**]]
+    --
   ====
 $$
 
