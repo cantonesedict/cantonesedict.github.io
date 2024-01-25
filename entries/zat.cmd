@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zat
-* %date-modified --> 2024-01-24
+* %date-modified --> 2024-01-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -52,6 +52,7 @@ $$
 =={.modern}
 - $質1
 - $郅1
+- $鑕1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -144,6 +145,25 @@ S
   ==
   - $郅zat6
   ==
+$$
+
+### 鑕1 | _Chat(7)_ [[zat1]]
+
+$$
+R
+  ⾦ + 15
+U
+  U+9455
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~23|n66 鑕(7)]]
+    ==
+    - An ax, a hatchet;
+    - an anvil or iron block, used by smiths and others.
+    ==
+  ====
 $$
 
 
