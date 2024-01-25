@@ -53,6 +53,7 @@ $$
 - $質1
 - $郅1
 - $鑕1
+- $騭1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -164,6 +165,45 @@ W
     - an anvil or iron block, used by smiths and others.
     ==
   ====
+$$
+
+### [騭]1 | _Chat(7)_ [[zat1]]
+
+$$
+R
+  ⾺ + 10
+U
+  U+9A2D
+A
+  ==
+  - $隲1
+  ==
+F
+  ==
+  - [[F1.86 隲]] ::陰隲品隲又定也成也[陞]也生也::
+  ==
+W
+  ====
+  - [[Page~23|n66 [騭](7)隲(7)]]
+    ==
+    - A stallion;
+    - to mount;
+    - to ascend;
+    - to raise, to promote;
+    - to fix, to determine;
+    - _(1)yam chat(7)_
+        [[jam1 zat1 陰騭]]
+        to think upon kindly, a secret benevolence;
+    - _tsik(7) (1)yam chat(7)_
+        [[zik1 jam1 zat1 積陰騭]]
+        to perform many good deeds.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 降 to 陞.
+  - Williams prints 騭 as ⿰阝⿱步馬 rather than as ⿱陟馬.
+  ==
 $$
 
 
