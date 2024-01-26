@@ -419,6 +419,12 @@ window.onload = applyFilter;
     , zat6
     , [窒](/entries/zat#cantonese-窒)
   //
+    , zat6 pou5
+    , [姪婦](/entries/zat#cantonese-姪婦)
+  //
+    , zat6 zai2
+    , [姪仔](/entries/zat#cantonese-姪仔)
+  //
     , zau2 zaan2
     , [走趲](/entries/zaan#cantonese-走趲)
 ''

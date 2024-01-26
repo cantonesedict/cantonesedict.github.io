@@ -319,11 +319,62 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $姪6
 - $窒6
 - $郅6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 姪6 | _Chat(9)_ [[zat6]]
+
+$$
+R
+  ⼥ + 6
+U
+  U+59EA
+V
+  ==
+  - zat6-2 (vernacular rising-tone noun)
+  ==
+F
+  ==
+  - [[F1.87 姪]] 兄弟之子曰姪
+  ==
+W
+  ====
+  - [[Page~24|n67 姪(9)]]
+    ==
+    - A brother's children;
+    - _chat(9) (2)tsz'_
+        [[zat6 zi2 姪子]]
+        a nephew;
+    - _chat(9) (5)n(u")_
+        [[zat6 neoi5-2 姪女]],
+        a [niece];
+    - _ngoi(6) chat(9)_
+        [[ngoi6 zat6-2 外姪]]
+        a wife's nephews;
+    - _(4)n(i/)n chat(9)_
+        [[nin4 zat6-2 年姪]]
+        sons of alumni of the same year;
+    - _k(u")n(3) chat(9)_
+        [[gyun3 zat6 眷姪]]
+        young relatives.
+    ==
+  ====
+S
+  ==
+  - 【姪婦】 (zat6 pou5):
+    ++
+    1. A brother's son's wife.
+    ++
+  - 【姪仔】 (zat6 zai2):
+    ++
+    1. A brother's son.
+    ++
+  ==
+$$
 
 ### 窒6 | _Chat(9)_ [[zat6]]
 
