@@ -416,6 +416,9 @@ window.onload = applyFilter;
     , zat1
     , [質](/entries/zat#cantonese-質)
   //
+    , zat6
+    , [窒](/entries/zat#cantonese-窒)
+  //
     , zau2 zaan2
     , [走趲](/entries/zaan#cantonese-走趲)
 ''

@@ -319,10 +319,62 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $窒6
 - $郅6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 窒6 | _Chat(9)_ [[zat6]]
+
+$$
+R
+  ⽳ + 6
+U
+  U+7A92
+F
+  ==
+  - [[F1.87 窒]] 窒塞不通也
+  ==
+W
+  ====
+  - [[Page~23|n66 窒(9)]]
+    ==
+    - To close, to stop up the mouth of;
+    - to hamper, the moon in opposition;
+    - _chat(9) (2)shau chat(9) k(e/)uk(8)_
+        [[zat6 sau2 zat6 goek3 窒手窒腳]]
+        impeded, things not to one's liking;
+    - _chat(9) ch(u")(6) (5)k(')(u")_
+        [[zat6 zyu6 keoi5 窒住佢]],
+        stop it up tight;
+    - _chat(9) ngoi(6)_
+        [[zat6 ngoi6 窒礙]]
+        difficulties.
+    ==
+  ====
+E
+  ====
+  - 【窒】 (zat6):
+    ++
+    1. To interrupt, especially by making an adversarial counterpoint or challenge.
+       ==
+       - 咪窒住嗮啦 (mai5 zat6 zyu6 saai3 laa1): "Stop interrupting!"
+       - 窒到口啞啞 (zat6 dou3 hau2 aa2 aa2): "Challenged till speechless."
+       ==
+    1. To chide, especially as an interruption.
+       ==
+       - 窒我錯咗 (zat6 ngo5 co3 zo2): "Chided me [for] getting [it] wrong."
+       ==
+    1. To be intermittent and non-smooth in action or motion
+       (stuttered speech, audio/video buffering, etc.).
+       ==
+       - 口窒窒 (hau2 zat6 zat6): "Stammering."
+       - 影片窒吓窒吓 (jing2 pin3-2 zat6 haa5 zat6 haa5): "[The] video [playback is] stop-start."
+       ==
+    ++
+  ====
+$$
 
 ###+ 郅6 | _Chat(9)_ [[zat6]]
 
