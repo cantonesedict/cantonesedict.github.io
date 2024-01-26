@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zat
-* %date-modified --> 2024-01-25
+* %date-modified --> 2024-01-26
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -51,6 +51,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $只1
+- $枳1
 - $質1
 - $郅1
 - $鑕1
@@ -100,6 +101,46 @@ C
 S
   ==
   - $只zi2 (TODO)
+  ==
+$$
+
+### 枳1 | _Chat(7)_ [[zat1]]
+
+$$
+R
+  ⽊ + 5
+U
+  U+67B3
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~23|n66 枳(7)]]
+    --
+    A colloquial word.
+    --
+    ==
+    - A cork, a plug, a stopple;
+    - to cork, to fasten a stopper;
+    - _(2)tsau chat(7)_
+        [[zau2 zat1 酒枳]]
+        a bottle cork;
+    - _chat(7) shat(9) (5)k(')(u")_
+        [[zat1 sat6 keoi5 枳實佢]],
+        cork it tightly.
+    ==
+  ====
+E
+  ====
+  - 【枳】 (zat1):
+    ++
+    1. A cork or plug.
+    1. To block or stop using a cork or plug.
+    ++
+  ====
+S
+  ==
+  - $枳zi2 (TODO)
   ==
 $$
 
