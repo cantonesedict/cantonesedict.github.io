@@ -226,10 +226,28 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $𫵱 (⿱山十)6
 - $𨳍 (⿵門七)6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+###+ 𫵱6 [[⿱山十]] | _Ts(')at(9)_ [[cat6]]
+
+$$
+R
+  ⼭ + 2
+U
+  U+2BD71
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Alternative form of 𨳍. **See $𨳍cat6 for the canonical entry.**
+  ==
+$$
 
 ###+ 𨳍6 [[⿵門七]] | _Ts(')at(9)_ [[cat6]]
 
