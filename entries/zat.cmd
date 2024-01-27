@@ -324,6 +324,7 @@ $$
 - $挃6
 - $桎6
 - $窒6
+- $蛭6
 - $蟄6
 - $郅6
 ==
@@ -523,6 +524,29 @@ E
        - 影片窒吓窒吓 (jing2 pin3-2 zat6 haa5 zat6 haa5): "[The] video [playback is] stop-start."
        ==
     ++
+  ====
+$$
+
+### 蛭6 | _Chat(9)_ [[zat6]]
+
+$$
+R
+  ⾍ + 6
+U
+  U+86ED
+F
+  ==
+  - [[F1.87 蛭]] 虫名
+  ==
+W
+  ====
+  - [[Page~24|n67 蛭(9)]]
+    ==
+    - A leech;
+    - _(2)shui chat(9)_
+        [[seoi2 zat6 水蛭]]
+        a blood-sucker, of which there are several kinds.
+    ==
   ====
 $$
 
