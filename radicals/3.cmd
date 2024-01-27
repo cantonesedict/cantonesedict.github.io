@@ -345,6 +345,14 @@ For all radicals, see [Index of characters by radical](./).
       ==
       </nav>
   //
+    , 10
+    ,
+      <nav class="sideways">
+      ==
+      - $嫉zat6
+      ==
+      </nav>
+  //
     , 19
     ,
       <nav class="sideways">

@@ -321,6 +321,7 @@ $$
 =={.modern}
 - $咥6
 - $姪6
+- $嫉6
 - $挃6
 - $桎6
 - $疾6
@@ -418,6 +419,33 @@ E
     1. A brother's son.
     ++
   ==
+$$
+
+### 嫉6 | _Tsat(9)_ [[zat6]]
+
+$$
+R
+  ⼥ + 10
+U
+  U+5AC9
+F
+  ==
+  - [[F1.87 嫉]] 妬忌也
+  ==
+W
+  ====
+  - [[Page~559 嫉(9)]]
+    ==
+    - Envy, jealousy;
+    - to envy, to dislike, as a competitor;
+    - _tsat(9) (4)(i/)n_
+        [[zat6 jin4 嫉賢]],
+        to hate the worthy;
+    - _tsat(9) t(o\)(3)_
+        [[zat6 dou3 嫉妒]]
+        jealousy.
+    ==
+  ====
 $$
 
 ### 挃6 | _Chat(9)_ [[zat6]]
