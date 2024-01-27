@@ -326,6 +326,7 @@ $$
 - $桎6
 - $疾6
 - $窒6
+- $蒺6
 - $蛭6
 - $蟄6
 - $郅6
@@ -609,6 +610,30 @@ E
        - 影片窒吓窒吓 (jing2 pin3-2 zat6 haa5 zat6 haa5): "[The] video [playback is] stop-start."
        ==
     ++
+  ====
+$$
+
+### 蒺6 | _Tsat(9)_ [[zat6]]
+
+$$
+R
+  ⾋ + 10
+U
+  U+84BA
+F
+  ==
+  - [[F1.87 蒺]] 蒺藜有三角
+  ==
+W
+  ====
+  - [[Page~559 蒺(9)]]
+    ==
+    - Gorse, furze;
+    - a thorny shrub, whose seeds are biting and spicy;
+    - _tsat(9) (4)lai_
+        [[zat6 lai4 蒺藜]],
+        a very spinous plant, the seeds are used in diseases of the eye.
+    ==
   ====
 $$
 
