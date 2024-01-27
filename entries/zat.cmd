@@ -319,6 +319,7 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $咥6
 - $姪6
 - $窒6
 - $蟄6
@@ -326,6 +327,39 @@ $$
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 咥6 | _Chat(9)_ [[zat6]]
+
+$$
+R
+  ⼝ + 6
+U
+  U+54A5
+V
+  ==
+  - dit6 (expected from 徒結切)
+  ==
+W
+  ====
+  - [[Page~24|n67 咥(9)]]
+    ==
+    - To bite, to snap at.
+    ==
+    --
+    Read _h(i/)[(3)]_ [[hei3]][;] [[**see $咥hei3**]].
+    --
+  ====
+C
+  ==
+  - Williams' alternative reading:
+    Corrected _(1)h(i/)_ [[hei1]] to _h(i/)(3)_ [[hei3]].
+  ==
+S
+  ==
+  - $咥dit6 (TODO)
+  - $咥hei3 (TODO)
+  ==
+$$
 
 ### 姪6 | _Chat(9)_ [[zat6]]
 
@@ -461,8 +495,8 @@ W
   ====
 S
   ==
-  - zik6 (TODO)
-  - zit3 (TODO)
+  - $蟄zik6 (TODO)
+  - $蟄zit3 (TODO)
   ==
 $$
 
