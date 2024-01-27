@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zat
-* %date-modified --> 2024-01-26
+* %date-modified --> 2024-01-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -321,6 +321,7 @@ $$
 =={.modern}
 - $姪6
 - $窒6
+- $蟄6
 - $郅6
 ==
 </nav>
@@ -425,6 +426,44 @@ E
        ==
     ++
   ====
+$$
+
+### 蟄6 | _Chat(9)_ [[zat6]]
+
+$$
+R
+  ⾍ + 11
+U
+  U+87C4
+V
+  ==
+  - zaap6 (expected from 直立切 lengthened)
+  - zik6 (common)
+  - zit3 (common)
+  ==
+F
+  ==
+  - [[F1.87 蟄]] 蟄虫藏也又驚蟄節
+  ==
+W
+  ====
+  - [[Page~24|n67 窒(9)]]
+    ==
+    - Retired into silence;
+    - to burrow;
+    - insects burrowing, or becoming torpid in holes;
+    - _(1)king chat(9)_
+        [[ging1 zat6 驚蟄]]
+        "excited insects,"
+        is the name of the fifth of the 24~terms;
+        March~5th to 20th.
+    ==
+  ====
+S
+  ==
+  - zik6 (TODO)
+  - zit3 (TODO)
+  ==
 $$
 
 ###+ 郅6 | _Chat(9)_ [[zat6]]
