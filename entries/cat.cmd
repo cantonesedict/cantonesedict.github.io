@@ -52,6 +52,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $七1
+- $柒1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -120,5 +121,34 @@ C
     rather, the phrasing of the line is viewed as
     a four-character run followed by a three-character run.
   - Williams' 七律: Corrected _lut(7)_ [[leot1]] to _lut(9)_ [[leot6]].
+  ==
+$$
+
+### 柒1 | _Ts(')at(7)_ [[cat1]]
+
+$$
+R
+  ⽊ + 5
+U
+  U+67D2
+F
+  ==
+  - [[F1.86 七]] 數名
+  - [[F1.86 㭍]] 同上
+  ==
+W
+  ====
+  - [[Page~559 七(7)柒(7)]]
+    --
+    [[...]]
+    --
+    --
+    The second [[柒]], used for the compound form,
+    is also a sort of tree, and a contracted form of the next [[$漆1]].
+    --
+  ====
+C
+  ==
+  - Alternative form of 七 (to prevent forgery). **See $七cat1 for the canonical entry.**
   ==
 $$
