@@ -321,6 +321,7 @@ $$
 =={.modern}
 - $咥6
 - $姪6
+- $桎6
 - $窒6
 - $蟄6
 - $郅6
@@ -339,6 +340,10 @@ V
   ==
   - dit6 (expected from 徒結切)
   ==
+F
+  ==
+  - [[F1.87 咥]] ::易履虎尾不咥人亨詩又音[棄]::
+  ==
 W
   ====
   - [[Page~24|n67 咥(9)]]
@@ -351,6 +356,7 @@ W
   ====
 C
   ==
+  - Fan Wan entry: Corrected ⿱𠫓耒 to 棄.
   - Williams' alternative reading:
     Corrected _(1)h(i/)_ [[hei1]] to _h(i/)(3)_ [[hei3]].
   ==
@@ -409,6 +415,42 @@ E
     1. A brother's son.
     ++
   ==
+$$
+
+### 桎6 | _Chat(9)_ [[zat6]]
+
+$$
+R
+  ⽊ + 6
+U
+  U+684E
+V
+  ==
+  - zat1 (expected from 之日切)
+  ==
+F
+  ==
+  - [[F1.87 桎]] 桎梏刑械也又疑也
+  ==
+W
+  ====
+  - [[Page~24|n67 桎(9)]]
+    ==
+    - Fetters, gyves, stocks of wood or iron;
+    - to manacle; to pierce;
+    - a thing to clog wheels;
+    - _chat(9) kuk(7)_
+        [[zat6 guk1 桎梏]]
+        fetters;
+    - _chat(9) hat(9)_
+        [[zat6 hat6 桎鎋]]
+        a linchpin;
+        _met._ a censor of manners, a guide of affairs;
+    - _wat(7) wat(7) chat(9) chat(9)_
+        [[wat1 wat1 zat6 zat6 屈屈桎桎]]
+        cramped, cribbed, the room is scanty;---a colloquial phrase.
+    ==
+  ====
 $$
 
 ### 窒6 | _Chat(9)_ [[zat6]]
