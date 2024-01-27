@@ -323,6 +323,7 @@ $$
 - $姪6
 - $挃6
 - $桎6
+- $疾6
 - $窒6
 - $蛭6
 - $蟄6
@@ -474,6 +475,62 @@ W
         cramped, cribbed, the room is scanty;---a colloquial phrase.
     ==
   ====
+$$
+
+### 疾6 | _Tsat(9)_ [[zat6]]
+
+$$
+R
+  ⽧ + 5
+U
+  U+75BE
+F
+  ==
+  - [[F1.87 疾]] 病也患也惡也急也
+  ==
+W
+  ====
+  - [[Page~559 疾(9)]]
+    ==
+    - Sickness, a disease which comes suddenly on one;
+    - calamities, afflictions;
+    - urgent, pressing, prompt, hasty;
+    - unlucky, infelicitous;
+    - to hate, to dislike, to envy;
+    - used for the next [[$嫉6]];
+    - _tsat(9) peng(6)_
+        [[zat6 beng6 疾病]]
+        disease, ailments;
+    - _man(6) tsat(9)_
+        [[man6 zat6 問疾]]
+        to inquire after a sick person;
+    - _tsat(9) (4)mong_
+        [[zat6 mong4 疾忙]],
+        testy, hasty, quick;
+    - _tsat(9) sh(i/)(6)_
+        [[zat6 si6 疾視]]
+        to scowl at;
+    - _ping(6) (4)m(o\) tsat(9) (4)(i/)n_
+        [[bing6 mou4 zat6 jin4 並無疾言]],
+        still he never spoke boisterously;
+    - _tsat(9) (4)l(u/)i_
+        [[zat6 leoi4 疾雷]],
+        a crashing clap of thunder;
+    - _tsat(9) (4)yan_
+        [[zat6 jan4 疾人]],
+        a leper;
+    - _tsat(9) [ts(')uk](7)_
+        [[zat6 cuk1 疾速]]
+        impetuous, in haste;
+    - _(4)ts(')(a/)n tsat(9) (1)ch(i/) (4)yan_
+        [[caan4 zat6 zi1 jan4 殘疾之人]],
+        thoroughly diseased.
+    ==
+  ====
+C
+  ==
+  - Williams' 疾速: Corrected _tsuk(7)_ [[zuk1]] to _ts(')uk(7)_ [[cuk1]].
+  ==
 $$
 
 ### 窒6 | _Chat(9)_ [[zat6]]
