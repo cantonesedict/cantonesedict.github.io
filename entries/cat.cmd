@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [cat1](#1)
 ==
 </nav>
 <## /tones ##>
@@ -43,3 +44,81 @@ $$
 --{.williams}
 (These are often pronounced like the next [[_ts(')(a/)t_ ($caat)]].)
 --
+
+
+##{#1 .williams} Ts(')at(7) [[cat1 高陰入]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $七1
+==
+</nav>
+<## /tone-1-characters ##>
+
+### 七1 | _Ts(')at(7)_ [[cat1]]
+
+$$
+R
+  ⼀ + 1
+U
+  U+4E03
+A
+  ==
+  - $柒1
+  ==
+F
+  ==
+  - [[F1.86 七]] 數名
+  - [[F1.86 㭍]] 同上
+  ==
+W
+  ====
+  - [[Page~559 七(7)柒(7)]]
+    ==
+    - Seven;
+    - _ts(')at(7) shap(9)_
+        [[cat1 sap6 七十]]
+        seventy;
+    - _shap(9) ts(')at(7)_
+        [[sap6 cat1 十七]]
+        seventeen;
+    - _ts(')at(7) (4)ling p(a/)t(8) lok(9)_
+        [[cat1 ling4 baat3 lok6 七零八落]]
+        near destruction, devastated, almost ruined;
+    - _ts(')at(7) (4)ts(')ang (1)kung (1)f(u/)_
+        [[cat1 cang4 gung1 fu1 七層功夫]],
+        a work nearly done;
+    - _ts(')at(7) tsik(9)_
+        [[cat1 zik6 七夕]]
+        7th~evening of the 7th~month, a festival;
+    - _ts(')at(7) ts(u")t(9)_
+        [[cat1 zyut6 七絕]]
+        a pentameter of four lines;
+    - _ts(')at(7) lut[(9)]_
+        [[cat1 leot6 七律]]
+        one of eight lines;
+    - _yat(7) yat(7) ts(')at(7)_
+        [[jat1 jat1 cat1 一一七]]
+        I don't think much of that, so so;
+    - _ts(o\)(6) ts(')at(7)_
+        [[zou6 cat1 做七]]
+        to attend to the funereal rites on every seventh day;
+    - _tsok(8) ts(')at(7) (1)p(i/)n_
+        [[zok3 cat1 pin1 作七編]],
+        to write seven essays.
+    ==
+    --
+    [[**See $柒cat1 for remarks on the alternative form.**]]
+    --
+  ====
+C
+  ==
+  - Williams' 七絕:
+    While each seven-character line can be though of as being in pentameter,
+    the Chinese view does not have a notion of stressed vs unstressed syllables;
+    rather, the phrasing of the line is viewed as
+    a four-character run followed by a three-character run.
+  - Williams' 七律: Corrected _lut(7)_ [[leot1]] to _lut(9)_ [[leot6]].
+  ==
+$$
