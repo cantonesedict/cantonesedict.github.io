@@ -53,6 +53,7 @@ $$
 =={.modern}
 - $七1
 - $柒1
+- $漆1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -150,5 +151,70 @@ W
 C
   ==
   - Alternative form of 七 (to prevent forgery). **See $七cat1 for the canonical entry.**
+  ==
+$$
+
+### [漆]1 | _Ts(')at(7)_ [[cat1]]
+
+$$
+R
+  ⽔ + 11
+U
+  U+6F06
+F
+  ==
+  - [[F1.86 漆]] 木之滓也可以漆物
+  ==
+W
+  ====
+  - [[Page~559 [漆](7)]]
+    ==
+    - Varnish, lacquer;
+    - viscid or resinous juices which can be used in painting;
+    - to paint, to varnish;
+    - black, as lacquer;
+    - adhesive;
+    - exceedingly friendly, doating on;
+    - _(4)yau ts(')at(7)_
+        [[jau4 cat1 油漆]]
+        to paint and varnish;
+    - _(4)yau ts(')at(7) (2)l(o\)_
+        [[jau4 cat1 lou2 油漆佬]],
+        a house-painter;
+    - _ts(')at(7) shik(9)_
+        [[cat1 sik6 漆蝕]]
+        poisoned with lacquer;
+    - _ts(')at(7) h(i/)(3)_
+        [[cat hei3 漆器]]
+        lacquered-ware;
+    - _(2)fo ts(')at(7)_
+        [[fo2 cat1 火漆]]
+        sealing-wax;
+    - _(2)fo ts(')at(7) p(')(i/)n(3)_
+        [[fo2 cat1 pin3 火漆片]]
+        wafers;
+    - _(2)h(o\) ts(')at(7) (2)shui_
+        [[hou2 cat1 seoi2 好漆水]],
+        lustrous varnish;
+    - _ts(')at(7) (1)tsing_
+        [[cat1 zing1 漆精]],
+        fine varnish;
+    - _(4)ts(')ing (4)(u") (1)k(a/)u ts(')at(7)_
+        [[cing4 jyu4 gaau1 cat1 情如膠漆]]
+        his disposition is very affectionate;
+    - _(1)kam ts(')at(7)_
+        [[gam1 cat1 金漆]]
+        gilt lacquer;
+    - _yap(9) ts(')at(7)_
+        [[jap6 cat1 入漆]]
+        been varnished;
+    - _ts(')at(7) sh(u")(6)_
+        [[cat1 syu6 漆樹]]
+        the varnish tree.
+    ==
+  ====
+C
+  ==
+  - Williams misprints 漆 as ⿰氵⿱來氺.
   ==
 $$
