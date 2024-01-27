@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [cat1](#1)
+- [cat6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -218,3 +219,54 @@ C
   - Williams misprints 漆 as ⿰氵⿱來氺.
   ==
 $$
+
+
+##{#6 .modern} Ts(')at(9) [[cat6 陽入]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $𨳍 (⿵門七)6
+==
+</nav>
+<## /tone-6-characters ##>
+
+###+ 𨳍6 [[⿵門七]] | _Ts(')at(9)_ [[cat6]]
+
+$$
+R
+  ⾨ + 2
+U
+  U+28CCD
+A
+  ==
+  -{.modern} $𫵱 (⿱山十)6
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+E
+  ^
+  --
+  **One of the five profanities censored on Hong Kong television.**
+  --
+  ====
+  - 【𨳍】 (cat6):
+    ++
+    1. (_vulgar_) A flaccid penis.
+    ++
+    --
+    A literal translation would be "droop-dick".
+    For non-literal senses, see the [Wiktionary entry for 𨳍][wiktionary-𨳍].
+    --
+  ====
+  --
+  Suprisingly, the alternative form 𫵱 (⿱山十) is recorded in
+  [Eitel (1877)][eitel-dict-cat6] under _ts(')at(9)_ [[cat6]];
+  the entry simply reads "_V[ulgar]._ the penis".
+  --
+$$
+
+[eitel-dict-cat6]: https://books.google.com/books?id=mh8TAAAAYAAJ&jtp=774
+[wiktionary-𨳍]: https://en.wiktionary.org/wiki/𨳍
