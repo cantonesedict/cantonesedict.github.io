@@ -122,8 +122,62 @@ E
     1. A cockroach.
     ++
   ====
+  --
+  It is disputed whether gaat6 zaat6 is written 曱甴 or 甴曱
+  (neither character appears in the Middle Chinese rime books).
+  The form 曱甴 is commonly used, but the form 甴曱 is considered standard
+  by [HK Education Bureau's Lexical Items]
+  and by [《商務新字典》 (ISBN: 9620701402)][《商務新字典》].
+  --
+  --
+  A [blog post by 陳凱文] has investigated this dispute.
+  To paraphrase, his concluding points include that:
+  --
+  ++
+  1. Based on the readings recorded in 《四聲篇海》, 《篇海類編》, and 《字彙補》,
+     neither 曱甴 nor 甴曱 have an expected reading of exactly gaat6 zaat6,
+     but 甴曱 is the reading with the greater discrepancy.
+  2. It is possible that the form 甴曱 arose from a mistake by Eitel
+     in parsing 反切 readings when looking up older [Chinese] sources,
+     with modern dictionary editors following Eitel's form.
+  3. The HK Education Bureau should not insist on the form 甴曱.
+  ++
+  --
+  I concur with points~1 and~3 above.
+  I disagree with point~2 above, because Eitel's work is based off of Williams',
+  who had already used the form 甴曱 in 1856.
+  --
+  --
+  Moreover, I am obliged to point out some inaccuracies in 陳凱文's post:
+  --
+  ++
+  1. Whilst 陳凱文's text refers to the 1877 edition
+     of Eitel's ''[A] Chinese Dictionary in the Cantonese Dialect''
+     (wherein 甴 is found under _K(a/)t(9)_ [[gaat6]] on [Page~228][1877-甴]),
+     陳凱文's screenshot is actually of the *1910* edition of Eitel's dictionary
+     *revised and enlarged by Immanuel Gottlieb Genähr*
+     (wherein 甴 is found under _K(a/)t(9)_ [[gaat6]] on [Page~330][1910-甴]).
+  1. In my copy of [《商務新字典》], whose colophon has 9th~print, August~1996
+     as the latest entry in the list of editions,
+     the native reading for 甴 (on Page~^438, under Radical~⽥) is "〔駕壓切低入〕",
+     not just "【駕壓切】" as written by 陳凱文.
+     It is possible that this discrepancy is down to edition
+     (but I note that the year 1992 referenced by 陳凱文 does not appear
+     in the list of editions in the colophon of my edition).
+     In any case, I do not believe that modern dictionary editors have
+     "虛構出一個【駕壓切】" as claimed by 陳凱文.
+     Instead, "〔駕壓切低入〕" in 《商務新字典》 is just a
+     modern (i.e. *not* Middle Chinese) and native (i.e. *not* romanisation)
+     but clumsy way of representing the reading gaat6.
+  ++
 S
   ==
   - $甴gaat6 (TODO)
   ==
 $$
+
+[HK Education Bureau's Lexical Items]: https://www.edbchinese.hk/lexlist_en/
+[《商務新字典》]: https://web.archive.org/web/20210506141434/https://www.cp1897.com.hk/product_info.php?BookId=9620701402
+[blog post by 陳凱文]: https://web.archive.org/web/20221017101847/https://jonathanovsky.wordpress.com/2017/01/10/「曱甴」還是「甴曱」？/
+[1877-甴]: https://books.google.com/books?id=mh8TAAAAYAAJ&jtp=228
+[1910-甴]: https://books.google.com/books?id=2YhEAQAAMAAJ&jtp=330
