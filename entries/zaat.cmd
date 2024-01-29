@@ -5,19 +5,39 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaat
-* %date-modified --> 2023-08-02
-* %copyright-prior-years -->
+* %date-modified --> 2024-01-29
+* %copyright-prior-years --> 2023--
 
 %%%
 
---{.modern}
-[[From Page~24|n67 of the original onwards.]]
---
-
-#{.williams} Ch(a/)t. [[zaat]]
+#{.williams} Ch(a/)t. [Ts(a/)t.] [[zaat]]
 
 <nav class="sideways">
 =={.modern}
 - [[Work in progress]]
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Ch(a/)t. [[Page~24|n67]]
+  - [Ts(a/)t.] [[Not present on Page~560]]
+  ==
+WP
+  ==
+  - Ch(a/)t <span class="modern">= [tɕaːt̚]</span>
+  - Ts(a/)t <span class="modern">= [tsaːt̚]</span>
+  ==
+MP
+  ==
+  - zaat = [tsaːt̚], [tɕaːt̚]
+  ==
+$$
