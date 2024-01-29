@@ -115,6 +115,13 @@ C
   ==
   - Williams' 曱甴: Changed _(1)K(a/)_ [[gaa1]] to _K(a/)t(9)_ [[gaat6]].
   ==
+E
+  ====
+  - 【曱甴】 (gaat6 zaat6, gaat6 zaat6-2):
+    ++
+    1. A cockroach.
+    ++
+  ====
 S
   ==
   - $甴gaat6 (TODO)
