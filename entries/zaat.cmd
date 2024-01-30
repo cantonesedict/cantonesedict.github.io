@@ -51,6 +51,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $扎3
+- $紮3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -71,7 +72,7 @@ W
   - [[Page~24|n67 扎(8)]]
     ==
     - To pluck up;
-    - [[see $紮zaat3 for "bind/bundle" senses.]]
+    - [[see $紮zaat3 for "bind/bundle" senses]].
     ==
   ====
 C
@@ -85,6 +86,59 @@ C
     1. To spread, to extend.
     1. Used in 掙扎; see $掙zang1.
     ++
+  ==
+$$
+
+###+ 紮3 | _Ch(a/)t(8)_ [[zaat3]]
+
+$$
+R
+  ⽷ + 5
+U
+  U+7D2E
+A
+  ==
+  - $扎3
+  ==
+F
+  ==
+  - [[F2.72 扎]] 拔也作也
+  ==
+W
+  ====
+  - [[Page~24|n67 扎(8); here normalised to 紮]]
+    ==
+    - [[See $扎zaat3 for "pluck up" sense]];
+    - to bind, to bind around, to bundle up;
+    - a bundle;
+    - to make or cut out paper images;
+    - _ch(a/)t(8) yat(7) ch(a/)t(8)_
+        [[zaat3 jat1 zaat3 紮一紮]]
+        bind it into a bundle;
+    - _ch(a/)t(8) k(e/)uk(8)_
+        [[zaat3 goek3 紮腳]]
+        to bind the feet of girls;
+    - _ch(a/)t(8) (2)kan_
+        [[zaat3 gan2 紮緊]],
+        bind it tight;
+    - _(2)ch(i/) ch(a/)t(8)_
+        [[zi2 zaat3 紙紮]]
+        paper houses, &c., to burn to the dead;
+        also paper strings;
+    - _ch(a/)t(8) (4)m(a/)i (5)k(')(u")_
+        [[zaat3 maai4 keoi5 紮埋佢]],
+        tie it up in a roll;
+    - _yat(7) ch(a/)t(8) (1)f(a/)_
+        [[jat1 zaat3 faa1 一紮花]],
+        a nosegay;
+    - _ch(a/)t(8) tak(7) (1)shang_
+        [[zaat3 dak1 sang1 / zaat3 dak1 saang1 紮得生]],
+        cut out to the life.
+    ==
+  ====
+C
+  ==
+  - Also to station, as in 紮營.
   ==
 $$
 
