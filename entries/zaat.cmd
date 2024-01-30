@@ -87,6 +87,21 @@ C
     1. Used in 掙扎; see $掙zang1.
     ++
   ==
+E
+  ====
+  - 【扎馬】 (zaat3 maa5):
+    ++
+    1. To do the horse stance.
+    ++
+  - 【扎醒】 (zaat3 seng2):
+    ++
+    1. To wake with a start.
+    ++
+  - 【扎扎跳】 (zaat3 zaat3 tiu3):
+    ++
+    1. To jump up and down rapidly.
+    ++
+  ====
 $$
 
 ###+ 紮3 | _Ch(a/)t(8)_ [[zaat3]]
