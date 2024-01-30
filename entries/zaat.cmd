@@ -51,6 +51,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $扎3
+- $札3
 - $紮3
 ==
 </nav>
@@ -101,6 +102,40 @@ E
     ++
     1. To jump up and down rapidly.
     ++
+  ====
+$$
+
+### 札3 | _Ch(a/)t(8)_ [[zaat3]]
+
+$$
+R
+  ⽊ + 1
+U
+  U+672D
+F
+  ==
+  - [[F2.72 札]] 柬也又書札
+  ==
+W
+  ====
+  - [[Page~24|n67 札(8)]]
+    ==
+    - A tablet for writing;
+    - a letter, a document, writings;
+    - untimely death;
+    - a thin slip of wood;
+    - fold of armor;
+    - a paddle;
+    - _ng(a/)n(6) ch(a/)t(8)_
+        [[ngaan6 zaat3 雁札]]
+        an epistle;
+    - _(2)k(a/)n ch(a/)t(8)_
+        [[gaan2 zaat3 柬札]]
+      or
+      _(1)sh(u") ch(a/)t(8)_
+        [[syu1 zaat3 書札]]
+        a letter.
+    ==
   ====
 $$
 

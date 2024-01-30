@@ -615,6 +615,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Character entry links
 |:
   //
+    , 1
+    ,
+      <nav class="sideways">
+      ==
+      - $札zaat3
+      ==
+      </nav>
+  //
     , 3
     ,
       <nav class="sideways">
