@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [zaat3](#3)
 - [zaat6](#6)
 ==
 </nav>
@@ -40,6 +41,50 @@ WP
 MP
   ==
   - zaat = [tsaːt̚], [tɕaːt̚]
+  ==
+$$
+
+
+##{#3 .williams} Ch(a/)t(8) [[zaat3 低陰入]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $扎3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 扎3 | _Ch(a/)t(8)_ [[zaat3]]
+
+$$
+R
+  ⼿ + 1
+U
+  U+624E
+F
+  ==
+  - [[F2.72 扎]] 拔也作也
+  ==
+W
+  ====
+  - [[Page~24|n67 扎(8)]]
+    ==
+    - To pluck up;
+    - [[see $紮zaat3 for "bind/bundle" senses.]]
+    ==
+  ====
+C
+  ==
+  - For the bind/bundle and station senses, the character is properly 紮,
+    which is not present in either Fan Wan or Williams.
+    **See $紮zaat3 for the canonical entry.**
+  - An entry for the other senses of 扎 is included here for completeness.
+    ++
+    1. To pierce, to jab, to push through.
+    1. To spread, to extend.
+    1. Used in 掙扎; see $掙zang1.
+    ++
   ==
 $$
 
