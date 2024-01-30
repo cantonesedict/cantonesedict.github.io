@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caat
-* %date-modified --> 2023-08-02
-* %copyright-prior-years -->
+* %date-modified --> 2024-01-30
+* %copyright-prior-years --> 2023--
 
 %%%
-
---{.modern}
-[[From Page~24|n67 (Ch(')(a/))t and Page~560 (Ts(')(a/)t) of the original onwards.]]
---
 
 #{.williams} Ch(')(a/)t. Ts(')(a/)t. [[caat]]
 
@@ -21,3 +17,27 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [[Work in progress]]
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Ch(')(a/)t. [[Page~24|n67]]
+  - Ts(')(a/)t. [[Page~560]]
+  ==
+WP
+  ==
+  - Ch(')(a/)t <span class="modern">= [tɕʰaːt̚]</span>
+  - Ts(')(a/)t <span class="modern">= [tsʰaːt̚]</span>
+  ==
+MP
+  ==
+  - caat = [tsʰaːt̚], [tɕʰaːt̚]
+  ==
+$$
