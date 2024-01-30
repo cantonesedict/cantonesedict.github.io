@@ -53,6 +53,7 @@ $$
 - $扎3
 - $札3
 - $紮3
+- $茁3
 - $軋3
 ==
 </nav>
@@ -190,6 +191,30 @@ W
 C
   ==
   - Also to station, as in 紮營.
+  ==
+$$
+
+### 茁3 | _Ch(a/)t(8)_ [[zaat3]]
+
+$$
+R
+  ⾋ + 5
+U
+  U+8301
+F
+  ==
+  - [[F2.72 茁]] 肥壯貌
+  ==
+W
+  ====
+  - [[Page~24|n67 茁(8)]]
+    --
+    [[Reading variation; **see $茁zyut3 for the canonical entry**.]]
+    --
+  ====
+S
+  ==
+  - $茁zyut3 (TODO)
   ==
 $$
 
