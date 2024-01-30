@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaat
-* %date-modified --> 2024-01-29
+* %date-modified --> 2024-01-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -145,7 +145,8 @@ E
   --
   I concur with points~1 and~3 above.
   I disagree with point~2 above, because Eitel's work is based off of Williams',
-  who had already used the form 甴曱 in 1856.
+  which had already used the form 甴曱 in 1856
+  (notwithstanding Williams' reading is _(1)k(a/) ts(a/)t(9)_ [[gaa1 zaat6]]).
   --
   --
   Moreover, I am obliged to point out some inaccuracies in 陳凱文's post:
