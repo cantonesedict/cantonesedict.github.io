@@ -53,6 +53,7 @@ $$
 - $扎3
 - $札3
 - $紮3
+- $軋3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -190,6 +191,32 @@ C
   ==
   - Also to station, as in 紮營.
   ==
+$$
+
+### 軋3 | _Ch(a/)t(8)_ [[zaat3]]
+
+$$
+R
+  ⾞ + 1
+U
+  U+8ECB
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~24|n67 軋(8)]]
+    ==
+    - Creaking roll of a wheel;
+    - a creaking, grating, sound;
+    - punishment of the rack or wheel;
+    - _(1)s(e/)ung (4)mo ch(a/)t(8)_
+        [[soeng1 mo4 zaat3 相磨軋]]
+        to harass or impede each other;
+    - _ch(a/)t(8) ch(a/)t(8)_
+        [[zaat3 zaat3 軋軋]]
+        creaking, jingling.
+    ==
+  ====
 $$
 
 
