@@ -301,6 +301,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $刷caat3
       - $刹caat3
       - $制zai3
       ==

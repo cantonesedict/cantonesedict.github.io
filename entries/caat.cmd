@@ -49,6 +49,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $刷3
 - $刹3
 - $剎3
 - $察3
@@ -57,6 +58,45 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+###+ 刷3 | _Ch(')(a/)t(8)_ [[caat3]]
+
+$$
+R
+  ⼑ + 6
+U
+  U+5237
+V
+  ==
+  - saat3 (expected from 數刮切)
+  ==
+F
+  ==
+  - [[F2.72 _Sh(a/)t(8)_ (saat3)]] 成也歸也又振作也
+  ==
+W
+  ====
+  - [[Page~427 刷(8) _Sh(a/)t(8)_ (saat3); here normalised to _Ch(')(a/)t(8)_ (caat3)]]
+    ==
+    - A brush, a scraper;
+    - a curry-comb;
+    - to brush;
+    - to cleanse, to scour, to scrub;
+    - a card for cotton;
+    - to print, as the Chinese do;
+    - _(2)hon [ch(')(a/)t](8)_
+        [[hon2 caat3 刊刷]]
+        to cut and print books;
+    - _[ch(')(a/)t](8) (2)ch(')(i/) (2)koi hang(6)_
+        [[caat3 ci2 goi2 hang6 刷恥改行]]
+        to wipe off disgrace by reforming,
+    ==
+  ====
+S
+  ==
+  - $刷saat3 (TODO)
+  ==
+$$
 
 ### 刹3 | _Ch(')(a/)t(8)_ [[caat3]]
 
