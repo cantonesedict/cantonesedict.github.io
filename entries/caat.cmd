@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caat
-* %date-modified --> 2024-01-30
+* %date-modified --> 2024-02-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -49,10 +49,31 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $刹3
 - $察3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 刹3 | _Ch(')(a/)t(8)_ [[caat3]]
+
+$$
+R
+  ⼑ + 6
+U
+  U+5239
+F
+  ==
+  - [[F2.72 刹]] 稱僧寺曰梵刹
+  ==
+W
+  ====
+  - [[Page~24|n67 刹(8)]]
+    --
+    [[Alternative form of 剎. **See $剎saat3 for the canonical entry.**]]
+    --
+  ====
+$$
 
 ### 察3 | _Ch(')(a/)t(8)_ [[caat3]]
 
