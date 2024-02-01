@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of Cantonese terms by Jyutping
-* %date-modified --> 2024-01-30
+* %date-modified --> 2024-02-01
 * %copyright-prior-years --> 2023--
 * %meta-description --> searchable index of Cantonese terms by Jyutping
 
@@ -205,6 +205,15 @@ window.onload = applyFilter;
   //
     , caap3 zong1 gaa3 wo6
     , [插贓嫁禍](/entries/caap#cantonese-插贓嫁禍)
+  //
+    , caat3 gaau1
+    , [擦膠](/entries/caat#cantonese-擦膠)
+  //
+    , caat3 haai4
+    , [擦鞋](/entries/caat#cantonese-擦鞋)
+  //
+    , caat3 zi2 gaau1
+    , [擦紙膠](/entries/caat#cantonese-擦紙膠)
   //
     , cai4 cap1 cap1
     , [齊戢戢](/entries/cap#cantonese-齊戢戢)

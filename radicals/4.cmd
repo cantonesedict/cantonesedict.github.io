@@ -333,6 +333,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $擦caat3
       - $擢zaak6
       - $擠zai1
       ==

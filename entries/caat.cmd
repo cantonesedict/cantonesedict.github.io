@@ -52,6 +52,7 @@ $$
 - $刹3
 - $剎3
 - $察3
+- $擦3
 - $獺3
 ==
 </nav>
@@ -138,6 +139,70 @@ W
         examine and decide [respecting the petition.]
         [[these square brackets appear in the original text]]
     ==
+  ====
+$$
+
+### 擦3 | _Ts(')(a/)t(8)_ [[caat3]]
+
+$$
+R
+  ⼿ + 14
+U
+  U+64E6
+V
+  ==
+  - caat3-2 (vernacular rising-tone noun)
+  ==
+F
+  ==
+  - [[F2.72 ::[擦]::]] 粲入聲揩必也磨也
+  ==
+W
+  ====
+  - [[Page~560 擦(8)]]
+    ==
+    - To rub hard, to brush;
+    - to feel for;
+    - a brush;
+    - _(4)ng(a/) ts(')(a/)t(8)_
+        [[ngaa4 caat3-2 牙擦]]
+        a toothbrush;
+    - _ts(')(a/)t(8) (1)n(i/) t(u/)i(3) (4)h(a/)i_
+        [[caat3 ni1 deoi3 haai4 擦呢對鞋]]^
+        brush this pair of shoes;
+    - _(4)mo ts(')(a/)t(8)_
+        [[mo4 caat3 磨擦]]
+        to make smooth;
+    - _ts(')(a/)t(8) (1)kon tseng(6)_
+        [[caat3 gon1 zeng6 擦乾淨]]
+        brush it clean;
+    - _ts(')(a/)t(8) l(a/)p(9)_
+        [[caat3 laap6 擦蠟]]
+        to wax and brighten.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword 摖 to 擦.
+  - The character 擦 is not attested in the Middle Chinese rime books.
+    Kangxi quotes 《篇海》《字彙》𠀤初戛切音察,
+    which is _ch(')(a/)t(8)_ rather than _ts(')(a/)t(8)_.
+  - In modern usage, the noun sense of "brush" is spelt 刷; see $刷caat3.
+  ==
+E
+  ====
+  - 【擦膠】 (caat3 gaau1):
+    ++
+    1. A rubber or eraser.
+    ++
+  - 【擦鞋】 (caat3 haai4):
+    ++
+    1. To bootlick, to brownnose. (Literally, "polish shoes".)
+    ++
+  - 【擦紙膠】 (caat3 zi2 gaau1):
+    ++
+    1. Synonym of [擦膠](#cantonese-擦膠).
+    ++
   ====
 $$
 
