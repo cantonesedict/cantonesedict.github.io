@@ -71,7 +71,7 @@ W
   ====
   - [[Page~24|n67 刹(8)]]
     --
-    [[Alternative form of 剎. **See $剎saat3 for the canonical entry.**]]
+    [[Alternative form of 剎, and reading variation. **See $剎saat3 for the canonical entry.**]]
     --
   ====
 S
