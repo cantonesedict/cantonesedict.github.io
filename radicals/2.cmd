@@ -310,6 +310,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $剎caat3
       - $則zak1
       ==
       </nav>

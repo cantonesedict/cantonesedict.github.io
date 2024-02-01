@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $刹3
+- $剎3
 - $察3
 ==
 </nav>
@@ -73,6 +74,31 @@ W
     [[Alternative form of 剎. **See $剎saat3 for the canonical entry.**]]
     --
   ====
+S
+  ==
+  - $刹saat3 (TODO)
+  ==
+$$
+
+###+ 剎3 | _Ch(')(a/)t(8)_ [[caat3]]
+
+$$
+R
+  ⼑ + 7
+U
+  U+524E
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation; **see $剎saat3 for the canonical entry**.
+  ==
+S
+  ==
+  - $剎saat3 (TODO)
+  ==
 $$
 
 ### 察3 | _Ch(')(a/)t(8)_ [[caat3]]
