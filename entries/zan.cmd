@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zan
-* %date-modified --> 2024-01-24
+* %date-modified --> 2024-02-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -633,7 +633,7 @@ E
     ++
   - 【一陣間】 (jat1 zan6 gaan1):
     ++
-    1. Same as 一陣
+    1. Synonym of 一陣
        (in both the ["moment"](#cantonese-一陣-moment) sense
        and the ["later" / subjunctive marker](#cantonese-一陣-later) senses).
     ++
