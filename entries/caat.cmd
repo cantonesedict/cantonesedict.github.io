@@ -52,6 +52,7 @@ $$
 - $刹3
 - $剎3
 - $察3
+- $獺3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -136,6 +137,42 @@ W
         [[caat3 dyut6 察奪]]
         examine and decide [respecting the petition.]
         [[these square brackets appear in the original text]]
+    ==
+  ====
+$$
+
+### 獺3 | _Ch(')(a/)t(8)_ [[caat3]]
+
+$$
+R
+  ⽝ + 16
+U
+  U+737A
+V
+  ==
+  - taat3 (expected from 他達切)
+  ==
+F
+  ==
+  - [[F2.72 獺]] 水狗食魚之物
+  ==
+W
+  ====
+  - [[Page~24|n67 獺(8)]]
+    ==
+    - An otter;
+    - _(1)sh(a/)n ch(')(a/)t(8)_
+        [[saan1 caat3 山獺]]
+        a beaver, or fresh-water otter;
+    - _(2)hoi ch(')(a/)t(8)_
+        [[hoi2 caat3 海獺]]
+        a seal;
+    - _ch(')(a/)t(8) (5)ling_
+        [[caat3 ling5 / caat3 leng5 獺領]],
+        seal skin collars or tippets;
+    - _ch(')(a/)t(8) (2)tsai_
+        [[caat3 zai2 獺仔]],
+        a tanka woman.
     ==
   ====
 $$
