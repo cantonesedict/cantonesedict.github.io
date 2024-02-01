@@ -93,7 +93,7 @@ W
   [[Not present]]
 C
   ==
-  - Reading variation; **see $剎saat3 for the canonical entry**.
+  - Reading variation. **See $剎saat3 for the canonical entry.**
   ==
 S
   ==

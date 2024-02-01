@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2024-01-23
+* %date-modified --> 2024-02-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -767,7 +767,7 @@ W
   [[Not present]]
 C
   ==
-  - Reading variation; **see $甑zang3 for the canonical entry**.
+  - Reading variation. **See $甑zang3 for the canonical entry.**
   ==
 S
   ==

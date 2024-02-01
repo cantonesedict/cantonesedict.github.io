@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2024-01-24
+* %date-modified --> 2024-02-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -668,7 +668,7 @@ W
   ====
   - [[Page~16|n59 (4)攙]]
     --
-    [[Reading variation; **see $攙caam1 for the canonical entry**.]]
+    [[Reading variation. **See $攙caam1 for the canonical entry.**]]
     --
   ====
 S

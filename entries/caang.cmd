@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caang
-* %date-modified --> 2024-01-24
+* %date-modified --> 2024-02-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -279,7 +279,7 @@ W
   [[Not present]]
 C
   ==
-  - Reading variation (vernacular rising-tone noun); **see $橙caang4 for the canonical entry**..
+  - Reading variation (vernacular rising-tone noun). **See $橙caang4 for the canonical entry.**
   ==
 S
   ==
@@ -458,7 +458,7 @@ W
   ====
   - [[Page~21|n64 (4)倀]]
     --
-    [[Reading variation; **see $倀coeng1 for the canonical entry**.]]
+    [[Reading variation. **See $倀coeng1 for the canonical entry.**]]
     --
   ====
 S

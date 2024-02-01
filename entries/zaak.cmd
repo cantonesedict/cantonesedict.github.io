@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2024-01-24
+* %date-modified --> 2024-02-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -553,7 +553,7 @@ W
   ====
   - [[Page~13|n56 擢(9)]]
     --
-    [[Reading variation; **see $擢zok6 for the canonical entry**.]]
+    [[Reading variation. **See $擢zok6 for the canonical entry.**]]
     --
   ====
 S
@@ -662,7 +662,7 @@ W
   [[Not present]]
 C
   ==
-  - Reading variation; **see $矺zaak3 for the canonical entry**.
+  - Reading variation. **See $矺zaak3 for the canonical entry.**
   ==
 S
   ==

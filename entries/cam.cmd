@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2024-01-23
+* %date-modified --> 2024-02-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -135,7 +135,7 @@ W
   ====
   - [[Page~552 (1)祲]]
     --
-    [[Reading variation; **see $祲zam1 for the canonical entry**.]]
+    [[Reading variation. **See $祲zam1 for the canonical entry.**]]
     --
   ====
 C
@@ -183,7 +183,7 @@ W
   ====
   - [[Page~552 (1)鋟]]
     --
-    [[Reading variation; **see $鋟cim1 for the canonical entry**.]]
+    [[Reading variation. **See $鋟cim1 for the canonical entry.**]]
     --
   ====
 S
@@ -371,7 +371,7 @@ W
   ====
   - [[Page~15|n58 譖(3)]]
     --
-    [[Reading variation; **see $譖zam3 for the canonical entry**.]]
+    [[Reading variation. **See $譖zam3 for the canonical entry.**]]
     --
   ====
 C

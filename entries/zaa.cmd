@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2024-01-25
+* %date-modified --> 2024-02-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -81,8 +81,8 @@ C
        ==
        - 哪吒 (naa4 zaa1): "Nezha."
        ==
-    1. Reading variation of _ch(a/)(3)_ [[zaa3]];
-       **see $吒zaa3 for the canonical entry**.
+    1. Reading variation of _ch(a/)(3)_ [[zaa3]].
+       **See $吒zaa3 for the canonical entry**.
     ++
   ====
 S

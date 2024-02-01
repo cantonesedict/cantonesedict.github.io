@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2024-01-23
+* %date-modified --> 2024-02-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -215,7 +215,7 @@ W
   [[Not present]]
 C
   ==
-  - Reading variation (vernacular rising-tone noun); **see $棧zaan6 for the canonical entry**..
+  - Reading variation (vernacular rising-tone noun). **See $棧zaan6 for the canonical entry.**
   ==
 S
   ==
@@ -411,7 +411,7 @@ W
   [[Not present]]
 C
   ==
-  - Reading variation; **see $撰zaan6 for the canonical entry**.
+  - Reading variation. **See $撰zaan6 for the canonical entry.**
   ==
 S
   ==
