@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2023-08-02
-* %copyright-prior-years -->
+* %date-modified --> 2024-02-02
+* %copyright-prior-years --> 2023--
 
 %%%
-
---{.modern}
-[[From Page~25|n68 (Chau) and Page~560 (Tsau) of the original onwards.]]
---
 
 #{.williams} Chau. Tsau. [[zau]]
 
@@ -21,3 +17,27 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [[Work in progress]]
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Chau. [[Page~25|n68]]
+  - Tsau. [[Page~560]]
+  ==
+WP
+  ==
+  - Chau <span class="modern">= [tɕɐu]</span>
+  - Tsau <span class="modern">= [tsɐu]</span>
+  ==
+MP
+  ==
+  - zau = [tsɐu], [tɕɐu]
+  ==
+$$
