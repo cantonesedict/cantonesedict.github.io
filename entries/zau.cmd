@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $周1
 - $賙1
+- $輖1
 - $週1
 ==
 </nav>
@@ -156,6 +157,28 @@ W
     - _(1)chau sut(7)_
         [[zau1 seot1 賙恤]]
         beneficent.
+    ==
+  ====
+$$
+
+### 輖1 | _(1)Chau_ [[zau1]]
+
+$$
+R
+  ⾞ + 8
+U
+  U+8F16
+F
+  ==
+  - [[F1.49 輖]] 匣也
+  ==
+W
+  ====
+  - [[Page~25|n68 (1)輖]]
+    ==
+    - A heavily laden cart, which 1s low in front;
+    - a heavy load;
+    - heavy.
     ==
   ====
 $$
