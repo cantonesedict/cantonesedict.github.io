@@ -546,6 +546,23 @@ For all radicals, see [Index of characters by radical](./).
 ## ⼮ (river)
 
 <## radical-⼮-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 3
+    ,
+      <nav class="sideways">
+      ==
+      - $州zau1
+      ==
+      </nav>
+''
+||||
 <## /radical-⼮-characters ##>
 
 

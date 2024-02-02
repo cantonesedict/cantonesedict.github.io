@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $侜1
 - $周1
+- $州1
 - $舟1
 - $賙1
 - $輈1
@@ -156,6 +157,41 @@ E
     ++
     1. All the time.
     ++
+  ====
+$$
+
+### 州1 | _(1)Chau_ [[zau1]]
+
+$$
+R
+  ⼮ + 3
+U
+  U+5DDE
+F
+  ==
+  - [[F1.49 州]] 九州
+  ==
+W
+  ====
+  - [[Page~25|n68 (1)州]]
+    ==
+    - A district, less than a prefecture;
+    - a continent, a great division;
+    - an island;
+    - _(1)ch(i/) (1)chau_
+        [[zi1 zau1 知州]],
+        the magistrate over a _chau_ [[zau 州]] district;
+    - _(1)chau (4)t(')ung_
+        [[zau1 tung4 州同]],
+        his deputy;
+    - _(2)kau (1)chau_
+        [[gau2 zau1 九州]],
+        the empire;
+        the whole world;
+    - _tuk(9) k(e/)uk(8) (1)chau_
+        [[duk6 goek3 zau1 獨腳州]],
+        a district without subdivisions.
+    ==
   ====
 $$
 
