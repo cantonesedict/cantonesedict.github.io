@@ -49,6 +49,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $侜1
 - $周1
 - $賙1
 - $輖1
@@ -56,6 +57,27 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 侜1 | _(1)Chau_ [[zau1]]
+
+$$
+R
+  ⼈ + 6
+U
+  U+4F9C
+F
+  ==
+  - [[F1.49 侜]] 載也
+  ==
+W
+  ====
+  - [[Page~25|n68 (1)侜]]
+    ==
+    - To conceal, to shade, to hide;
+    - something stretched for a shade.
+    ==
+  ====
+$$
 
 ### 周1 | _(1)Chau_ [[zau1]]
 
