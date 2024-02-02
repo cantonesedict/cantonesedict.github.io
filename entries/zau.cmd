@@ -52,6 +52,7 @@ $$
 - $侜1
 - $周1
 - $州1
+- $洲1
 - $舟1
 - $賙1
 - $輈1
@@ -144,7 +145,7 @@ W
 C
   ==
   - Williams' 好周置: Corrected _(1)ch(i/)_ [[zi1]] to _ch(i/)(3)_ [[zi3]].
-  - Williams records 周時 under $週1 (which is interchangeable).
+  - Williams records 周時 under 週 (which is interchangeable); see $週zau1.
   ==
 E
   ====
@@ -191,6 +192,46 @@ W
     - _tuk(9) k(e/)uk(8) (1)chau_
         [[duk6 goek3 zau1 獨腳州]],
         a district without subdivisions.
+    ==
+  ====
+C
+  ==
+  - In modern usage, the "continent" and "island" senses are spelt 洲; see $洲zau1.
+  ==
+$$
+
+### 洲1 | _(1)Chau_ [[zau1]]
+
+$$
+R
+  ⽔ + 6
+U
+  U+6D32
+F
+  ==
+  - [[F1.49 洲]] 水中可居之也
+  ==
+W
+  ====
+  - [[Page~25|n68 (1)洲]]
+    ==
+    - A spot encircled by streams, or in the water, as an islet;
+    - a place where men collect, a village;
+    - _(4)ng(o\) (4)(u") (1)chau_
+        [[ngou4 jyu4 zau1 鰲魚洲]],
+        Whampoa I.;
+    - _(4)ch(')(e/)ung (1)chau_
+        [[coeng4 zau1 長洲]],
+        Bamboo town;
+    - _(2)kau (1)chau_
+        [[gau2 zau1 九洲]],
+        the Nine Is. near Macao;
+    - _(1)ts(')ing (1)chau_
+        [[cing1 zau1 清洲]],
+        Green I. off Macao;
+    - _(1)sh(a/) (1)chau_
+        [[saa1 zau1 沙洲]],
+        sands, a sand-bank.
     ==
   ====
 $$
