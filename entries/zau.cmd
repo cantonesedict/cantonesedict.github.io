@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $周1
+- $賙1
 - $週1
 ==
 </nav>
@@ -130,6 +131,32 @@ E
     ++
     1. All the time.
     ++
+  ====
+$$
+
+### 賙1 | _(1)Chau_ [[zau1]]
+
+$$
+R
+  ⾙ + 8
+U
+  U+8CD9
+F
+  ==
+  - [[F1.49 賙]] 賑恤也
+  ==
+W
+  ====
+  - [[Page~25|n68 (1)賙]]
+    ==
+    - To bestow charity;
+    - _(1)chau tsai(3)_
+        [[zau1 zai3 賙濟]]
+        to relieve the indigent, as a society or government;
+    - _(1)chau sut(7)_
+        [[zau1 seot1 賙恤]]
+        beneficent.
+    ==
   ====
 $$
 
