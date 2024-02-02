@@ -54,6 +54,7 @@ $$
 - $州1
 - $洲1
 - $舟1
+- $譸1
 - $賙1
 - $輈1
 - $輖1
@@ -263,6 +264,33 @@ W
         on board ship.
     ==
   ====
+$$
+
+### 譸1 | _(1)Chau_ [[zau1]]
+
+$$
+R
+  ⾔ + 14
+U
+  U+8B78
+F
+  ==
+  - [[F1.49 譸]] 書經譸張爲幻
+  ==
+W
+  ====
+  - [[Page~25|n68 (1)譸]]
+    ==
+    - Hurried, bustling, to impose upon, to deceive;
+    - _(1)chau (1)ch(e/)ung [(4)]wai w(a/)n(6)_
+        [[zau1 zoeng1 wai4 waan6 譸張為幻]]
+        to delude with false appearances.
+    ==
+  ====
+C
+  ==
+  - Williams' 譸張為幻: Corrected _(1)wai_ [[wai1]] to _(4)wai_ [[wai4]].
+  ==
 $$
 
 ### 賙1 | _(1)Chau_ [[zau1]]
