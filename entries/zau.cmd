@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $侜1
 - $周1
+- $舟1
 - $賙1
 - $輖1
 - $週1
@@ -154,6 +155,35 @@ E
     ++
     1. All the time.
     ++
+  ====
+$$
+
+### 舟1 | _(1)Chau_ [[zau1]]
+
+$$
+R
+  ⾈ + 0
+U
+  U+821F
+F
+  ==
+  - [[F1.49 舟]] 船也
+  ==
+W
+  ====
+  - [[Page~25|n68 (1)舟]]
+    ==
+    - A boat, a vessel, a craft of any sort;
+    - to go in a boat;
+    - to transport, to carry in a vessel;
+    - the 137th radical of characters relating to ships;
+    - _(1)p(')(i/)n (1)chau_
+        [[pin1 zau1 扁舟]],
+        a punt;
+    - _(1)chau ts(')z'(3)_
+        [[zau1 ci3 舟次]]
+        on board ship.
+    ==
   ====
 $$
 
