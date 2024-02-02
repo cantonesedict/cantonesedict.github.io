@@ -53,6 +53,7 @@ $$
 - $周1
 - $舟1
 - $賙1
+- $輈1
 - $輖1
 - $週1
 ==
@@ -209,6 +210,27 @@ W
     - _(1)chau sut(7)_
         [[zau1 seot1 賙恤]]
         beneficent.
+    ==
+  ====
+$$
+
+### 輈1 | _(1)Chau_ [[zau1]]
+
+$$
+R
+  ⾞ + 6
+U
+  U+8F08
+F
+  ==
+  - [[F1.49 輈]] 車轅
+  ==
+W
+  ====
+  - [[Page~25|n68 (1)輈]]
+    ==
+    - A frame in front of a carriage near which the driver sits;
+    - a sort of dashboard.
     ==
   ====
 $$
