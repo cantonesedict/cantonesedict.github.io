@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $周1
+- $週1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -61,6 +62,10 @@ R
   ⼝ + 5
 U
   U+5468
+A
+  ==
+  -{.modern} $週1
+  ==
 F
   ==
   - [[F1.49 周]] 周密周濟周備周遍又姓
@@ -112,5 +117,59 @@ W
 C
   ==
   - Williams' 好周置: Corrected _(1)ch(i/)_ [[zi1]] to _ch(i/)(3)_ [[zi3]].
+  - Williams records 周時 under $週1 (which is interchangeable).
   ==
+E
+  ====
+  - 【周身刀冇張利】 (zau1 san1 dou1, mou5 zoeng1 lei6)
+    ++
+    1. Jack of all trades, master of none.
+       (Literally, "Knives all-about the person, [but] not [one] sharp".)
+    ++
+  - 【周時】 (zau1 si4):
+    ++
+    1. All the time.
+    ++
+  ====
+$$
+
+### 週1 | _(1)Chau_ [[zau1]]
+
+$$
+R
+  ⾡ + 8
+U
+  U+9031
+A
+  ==
+  -{.modern} $周1
+  ==
+F
+  ==
+  - [[F1.49 週]] 回也也
+  ==
+W
+  ====
+  - [[Page~25|n68 (1)週]]
+    --
+    Often used for the last [[$周1]].
+    --
+    ==
+    - To revolve, to circulate;
+    - to inform people;
+    - a year;
+    - _(1)chau (4)n(i/)n wong(6) s(e/)ung(3)_
+        [[zau1 nin4 wong6 soeng3 週年旺相]]
+        may the whole year be lucky;
+    - _t(u/)i(3) (1)chau_
+        [[deoi3 zau1 對週]],
+        a return of the year;
+    - _yat(7) (1)chau_
+        [[jat1 zau1 一週]],
+        a circuit, a year;
+    - _(1)chau (4)sh(i/) (1)t(o\) hai(6) (2)k(o\)m_
+        [[zau1 si4 dou1 hai6 gom2 週時都係噉]],
+        he is ever the same.
+    ==
+  ====
 $$
