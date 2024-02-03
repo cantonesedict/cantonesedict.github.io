@@ -410,10 +410,41 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $帚2
 - $肘2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 帚2 | _(2)Chau_ [[zau2]]
+
+$$
+R
+  ⼱ + 5
+U
+  U+5E1A
+A
+  ==
+  - $箒2
+  ==
+F
+  ==
+  - [[F1.53 帚]] ::[帚]彗掃也::
+  ==
+W
+  ====
+  - [[Page~25|n68 (2)帚(2)箒]]
+    --
+    [[The expected reflex is zau2 from Middle Chinese 之九切,
+    but the common reading is zaau2;
+    **see $帚zaau2 for the canonical entry**.]]
+    --
+  ====
+S
+  ==
+  - $帚zaau2 (TODO)
+  ==
+$$
 
 ### 肘2 | _(2)Chau_ [[zau2]]
 
