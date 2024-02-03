@@ -24,6 +24,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [zau1](#1)
 - [zau2](#2)
 - [zau3](#3)
+- [zau6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -651,4 +652,44 @@ W
         afternoon.
     ==
   ====
+$$
+
+
+##{#6 .williams} Chau(6) Tsau(6) [[zau6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $宙6
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 宙6 | _Chau(6)_ [[zau6]]
+
+$$
+R
+  ⼧ + 5
+U
+  U+5B99
+F
+  ==
+  - [[F1.55 宙]] ::宇宙古[往]今來曰宙::
+  ==
+W
+  ====
+  - [[Page~26|n69 宙(6)]]
+    ==
+    - To contain, as the earth does;
+    - including all ages, from ancient times till now.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 行 to 往.
+  - Williams' "as the earth does": Not quite.
+    Kangxi quotes 《說文》舟車所極覆也下覆爲宇上奠爲宙,
+    so it is 宇 that is as the earth below,
+    while 宙 is instead as the firmament above.
+  ==
 $$
