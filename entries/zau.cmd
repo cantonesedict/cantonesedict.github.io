@@ -508,10 +508,57 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $咒3
 - $晝3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 咒3 | _Chau(3)_ [[zau3]]
+
+$$
+R
+  ⼝ + 5
+U
+  U+5492
+A
+  ==
+  - $呪3
+  ==
+F
+  ==
+  - [[F1.55 咒]] 符咒又咒咀
+  ==
+W
+  ====
+  - [[Page~26|n69 咒(3)呪(3)]]
+    ==
+    - To imprecate, to rail at, to curse;
+    - to pray or recite spells;
+    - an incantation, an imprecation, a charm, a spell;
+    - a prayer;
+    - _n(i/)m(6) chau(3)_
+        [[nim6 zau3 念咒]]
+        to recite prayers;
+    - _(2)[t(')(o\)] chau(3)_
+        [[tou2 zau3 禱咒]]
+        to curse;
+    - _(4)f(u/) chau(3)_
+        [[fu4 zau3 符咒]]
+        to prepare and bless charms;
+    - _chau(3) cho(3)_ [[zau3 zo3 咒詛]]
+        or
+      _chau(3) m(a/)(6)_ [[zau3 maa6 咒罵]]
+      to curse.
+    ==
+  ====
+C
+  ==
+  - Williams' 念咒: More reciting an incantation than a prayer.
+  - Williams' 禱咒: Changed Middle Chinese _(2)t(o\)_ [[dou2]]
+    to common reading _(2)t(')(o\)_ [[tou2]].
+  ==
+$$
 
 ### 晝3 | _Chau(3)_ [[zau3]]
 
