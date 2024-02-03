@@ -660,11 +660,43 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $冑6
 - $宙6
 - $胄6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 冑6 | _Chau(6)_ [[zau6]]
+
+$$
+R
+  ⼌ + 7
+U
+  U+5191
+F
+  ==
+  - [[F1.55 胄]] 后裔也又甲胄
+  ==
+W
+  ====
+  - [[Page~26|n69 冑(6)]]
+    --
+    Often confounded with the last [[$胄6]].
+    --
+    ==
+    - A helmet, a morion;
+    - _k(a/)p(8) chau(6)_
+        [[gaap3 zau6 甲冑]]
+        helmets and cuirasses.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: No distinction is made
+    between 冑 (under ⼌) and 胄 (under ⾁).
+  ==
+$$
 
 ### 宙6 | _Chau(6)_ [[zau6]]
 
@@ -725,7 +757,7 @@ W
 C
   ==
   - Fan Wan entry: No distinction is made
-    between 胄 (under ⾁) and 冑 (under ⼌).
+    between 冑 (under ⼌) and 胄 (under ⾁).
   - Williams' 胄裔: Corrected _hau(6)_ [[hau6]] to _chau(6)_ [[zau6]].
   ==
 $$
