@@ -119,6 +119,22 @@ For all radicals, see [Index of characters by radical](./).
       - $簪zaam1
       ==
       </nav>
+  //
+    , 13
+    ,
+      <nav class="sideways">
+      ==
+      - $籀zau6
+      ==
+      </nav>
+  //
+    , 15
+    ,
+      <nav class="sideways">
+      ==
+      - $籒zau6
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⽵-characters ##>

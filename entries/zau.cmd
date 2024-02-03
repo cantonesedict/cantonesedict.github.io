@@ -662,6 +662,8 @@ $$
 =={.modern}
 - $冑6
 - $宙6
+- $籀6
+- $籒6
 - $紂6
 - $胄6
 ==
@@ -727,6 +729,55 @@ C
     so it is 宇 that is as the earth below,
     while 宙 is instead as the firmament above.
   ==
+$$
+
+###+ 籀6 | _Chau(6)_ [[zau6]]
+
+$$
+R
+  ⽵ + 13
+U
+  U+7C40
+A
+  ==
+  - $籒6
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~26|n69 籒(6); here normalised to 籀]]
+    ==
+    - The framer of the seal character,
+      _Chau(6) t(')(a/)i[(3)] (2)sz'_
+        [[zau6 taai3 si2 籀太史]];
+    - _chau(6) (4)man_
+        [[zau6 man4 籀文]],
+        the seal character.
+    ==
+  ====
+C
+  ==
+  - Williams' 籀太史: Corrected _t(')(a/)i(6)_ [[taai6]] to _t(')(a/)i(3)_ [[taai3]].
+  ==
+$$
+
+### 籒6 | _Chau(6)_ [[zau6]]
+
+$$
+R
+  ⽵ + 15
+U
+  U+7C52
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~26|n69 籒(6)]]
+    --
+    [[Alternative form of 籀. **See $籀zau6 for the canonical entry.**]]
+    --
+  ====
 $$
 
 ### 紂6 | _Chau(6)_ [[zau6]]
