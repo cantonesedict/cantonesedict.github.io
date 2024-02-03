@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2024-02-02
+* %date-modified --> 2024-02-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zau1](#1)
+- [zau2](#2)
 ==
 </nav>
 <## /tones ##>
@@ -401,4 +402,45 @@ W
         he is ever the same.
     ==
   ====
+$$
+
+
+##{#2 .williams} (2)Chau (2)Tsau [[zau2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $肘2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 肘2 | _(2)Chau_ [[zau2]]
+
+$$
+R
+  ⾁ + 3
+U
+  U+8098
+F
+  ==
+  - [[F1.53 ::[肘]::]] ::臂節也又制[肘]::
+  ==
+W
+  ====
+  - [[Page~25|n68 (2)肘]]
+    --
+    [[The expected reflex is zau2 from Middle Chinese 陟柳切,
+    but the common reading is zaau2;
+    **see $肘zaau2 for the canonical entry**.]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword 刖 to 肘.
+  ==
+S
+  ==
+  - $肘zaau2 (TODO)
+  ==
 $$
