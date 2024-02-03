@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [zau1](#1)
 - [zau2](#2)
+- [zau3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -499,4 +500,47 @@ S
   ==
   - $肘zaau2 (TODO)
   ==
+$$
+
+
+##{#3 .williams} Chau(3) Tsau(3) [[zau3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $晝3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 晝3 | _Chau(3)_ [[zau3]]
+
+$$
+R
+  ⽇ + 7
+U
+  U+665D
+F
+  ==
+  - [[F1.55 晝]] 日中曰晝
+  ==
+W
+  ====
+  - [[Page~26|n69 晝(3)]]
+    ==
+    - A day, daytime, daylight;
+    - _chau(3) y(e/)(6) pat(7) h(i/)t(8)_
+        [[zau3 je6 bat1 hit3 晝夜不歇]]
+        going incessantly, never resting;
+    - _p(a/)k(9) chau(3)_
+        [[baak6 zau3 白晝]]
+        broad daylight, openly;
+    - _sh(e/)ung(6) chau(3)_
+        [[soeng6 zau3 上晝]]
+        forenoon;
+    - _h(a/)(6) chau(3)_
+        [[haa6 zau3 下晝]]
+        afternoon.
+    ==
+  ====
 $$
