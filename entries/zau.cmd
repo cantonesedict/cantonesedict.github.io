@@ -510,6 +510,7 @@ $$
 =={.modern}
 - $呪3
 - $咒3
+- $咮3
 - $晝3
 ==
 </nav>
@@ -585,6 +586,38 @@ C
   - Williams' 念咒: More reciting an incantation than a prayer.
   - Williams' 禱咒: Changed Middle Chinese _(2)t(o\)_ [[dou2]]
     to common reading _(2)t(')(o\)_ [[tou2]].
+  ==
+$$
+
+### 咮3 | _Chau(3)_ [[zau3]]
+
+$$
+R
+  ⼝ + 6
+U
+  U+54AE
+F
+  ==
+  - [[F1.55 ::[咮]::]] 鳥噌曰咮
+  ==
+W
+  ====
+  - [[Page~26|n69 咮(3)]]
+    ==
+    - The bill of birds;
+    - to peck with the bill, the twittering of birds.
+    ==
+    --
+    Also read _(1)ch(u")_ [[zyu1]] [[**see $咮zyu1**]].
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword 味 to 咮.
+  ==
+S
+  ==
+  - $咮zyu1 (TODO)
   ==
 $$
 
