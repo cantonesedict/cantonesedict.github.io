@@ -411,6 +411,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $帚2
+- $箒2
 - $肘2
 ==
 </nav>
@@ -443,6 +444,30 @@ W
 S
   ==
   - $帚zaau2 (TODO)
+  ==
+$$
+
+### 箒2 | _(2)Chau_ [[zau2]]
+
+$$
+R
+  ⽵ + 8
+U
+  U+7B92
+F
+  ==
+  - [[F1.53 箒]] 掃箒
+  ==
+W
+  ====
+  - [[Page~25|n68 (2)帚(2)箒]]
+    --
+    [[Alternative form of 帚, and expected but non-common reading. **See $帚zaau2 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $箒zaau2 (TODO)
   ==
 $$
 
