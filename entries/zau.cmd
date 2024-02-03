@@ -666,6 +666,7 @@ $$
 - $籒6
 - $紂6
 - $胄6
+- $酎6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -844,5 +845,33 @@ C
   - Fan Wan entry: No distinction is made
     between 冑 (under ⼌) and 胄 (under ⾁).
   - Williams' 胄裔: Corrected _hau(6)_ [[hau6]] to _chau(6)_ [[zau6]].
+  ==
+$$
+
+### 酎6 | _Chau(6)_ [[zau6]]
+
+$$
+R
+  ⾣ + 3
+U
+  U+914E
+F
+  ==
+  - [[F1.55 酎]] ::新[熱]之酒::
+  ==
+W
+  ====
+  - [[Page~26|n69 酎(6)]]
+    ==
+    - New, ripe spirits;
+    - pure strong spirits, thrice distilled;
+    - _to(6) chau(6) (1)kam_
+        [[do6 zau6 gam1 ？酎金]],
+        wine money paid the heir apparent---an old usage.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised ⿱執灬 to 熱.
   ==
 $$
