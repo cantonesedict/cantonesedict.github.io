@@ -693,6 +693,7 @@ W
   ====
 C
   ==
+  - For the visually similar character meaning "posterity", see $胄zau6.
   - Fan Wan entry: No distinction is made
     between 冑 (under ⼌) and 胄 (under ⾁).
   ==
@@ -756,6 +757,7 @@ W
   ====
 C
   ==
+  - For the visually similar character meaning "helmet", see $冑zau6.
   - Fan Wan entry: No distinction is made
     between 冑 (under ⼌) and 胄 (under ⾁).
   - Williams' 胄裔: Corrected _hau(6)_ [[hau6]] to _chau(6)_ [[zau6]].
