@@ -158,6 +158,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Character entry links
 |:
   //
+    , 3
+    ,
+      <nav class="sideways">
+      ==
+      - $紂zau6
+      ==
+      </nav>
+  //
     , 5
     ,
       <nav class="sideways">

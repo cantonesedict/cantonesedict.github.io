@@ -662,6 +662,7 @@ $$
 =={.modern}
 - $冑6
 - $宙6
+- $紂6
 - $胄6
 ==
 </nav>
@@ -721,10 +722,41 @@ W
 C
   ==
   - Fan Wan entry: Corrected 行 to 往.
-  - Williams' "as the earth does": Not quite.
+  - Williams' as the earth does: Not quite.
     Kangxi quotes 《說文》舟車所極覆也下覆爲宇上奠爲宙,
     so it is 宇 that is as the earth below,
     while 宙 is instead as the firmament above.
+  ==
+$$
+
+### 紂6 | _Chau(6)_ [[zau6]]
+
+$$
+R
+  ⽷ + 3
+U
+  U+7D02
+F
+  ==
+  - [[F1.55 紂]] 商王之號
+  ==
+W
+  ====
+  - [[Page~26|n69 紂(6)]]
+    ==
+    - A crupper;
+    - a silk trace;
+    - _Chau(6) (4)wong_
+        [[zau6 wong4 紂王]],
+        the infamous king who ended the Sh(a/)ng [[商]] dynasty.
+    ==
+  ====
+C
+  ==
+  - Williams' ended: Not the best wording.
+    He was the final king of that dynasty;
+    he did not bring that dynasty to an end
+    (unless you count his committing suicide, which would be semantics).
   ==
 $$
 
