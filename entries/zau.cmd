@@ -661,6 +661,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $宙6
+- $胄6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -691,5 +692,40 @@ C
     Kangxi quotes 《說文》舟車所極覆也下覆爲宇上奠爲宙,
     so it is 宇 that is as the earth below,
     while 宙 is instead as the firmament above.
+  ==
+$$
+
+### 胄6 | _Chau(6)_ [[zau6]]
+
+$$
+R
+  ⾁ + 5
+U
+  U+80C4
+F
+  ==
+  - [[F1.55 胄]] 后裔也又甲胄
+  ==
+W
+  ====
+  - [[Page~26|n69 胄(6)]]
+    ==
+    - Descendants, posterity;
+    - _chau(6) (2)tsz'_
+        [[zau6 zi2 胄子]]
+        the eldest son;
+    - _[chau](6) yui(6)_
+        [[zau6 jeoi6 胄裔]]
+        posterity;
+    - _shai(3) chau(6)_
+        [[sai3 zau6 世胄]]
+        generations.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: No distinction is made
+    between 胄 (under ⾁) and 冑 (under ⼌).
+  - Williams' 胄裔: Corrected _hau(6)_ [[hau6]] to _chau(6)_ [[zau6]].
   ==
 $$
