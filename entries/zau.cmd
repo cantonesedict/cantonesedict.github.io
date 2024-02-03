@@ -508,11 +508,37 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $呪3
 - $咒3
 - $晝3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 呪3 | _Chau(3)_ [[zau3]]
+
+$$
+R
+  ⼝ + 5
+U
+  U+546A
+F
+  ==
+  - [[F1.55 咒]] 符咒又咒咀
+  - [[F1.55 ::[呪]::]] 同上
+  ==
+W
+  ====
+  - [[Page~26|n69 咒(3)呪(3)]]
+    --
+    [[Alternative form of 咒. **See $咒zau3 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected duplicate headword 咒 to 呪.
+  ==
+$$
 
 ### 咒3 | _Chau(3)_ [[zau3]]
 
@@ -528,6 +554,7 @@ A
 F
   ==
   - [[F1.55 咒]] 符咒又咒咀
+  - [[F1.55 ::[呪]::]] 同上
   ==
 W
   ====
@@ -554,6 +581,7 @@ W
   ====
 C
   ==
+  - Fan Wan entry: Corrected duplicate headword 咒 to 呪.
   - Williams' 念咒: More reciting an incantation than a prayer.
   - Williams' 禱咒: Changed Middle Chinese _(2)t(o\)_ [[dou2]]
     to common reading _(2)t(')(o\)_ [[tou2]].

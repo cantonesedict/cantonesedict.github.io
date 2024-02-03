@@ -107,6 +107,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $咋zaa3
       - $周zau1
+      - $呪zau3
       - $咒zau3
       ==
       </nav>
