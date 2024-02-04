@@ -72,6 +72,7 @@ $$
 - $鄹1
 - $陬1
 - $騶1
+- $鯫1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -660,6 +661,30 @@ W
     - A fabulous feline beast, called _(1)tsau (4)(u")_ [[zau1 jyu4 騶虞]],
       emblematic of kindness to animals and gentleness;
     - a royal groom or hostler.
+    ==
+  ====
+$$
+
+### 鯫1 | _(1)Tsau_ [[zau1]]
+
+$$
+R
+  ⿂ + 8
+U
+  U+9BEB
+F
+  ==
+  - [[F1.50 魚名又鯫生小人也]]
+  ==
+W
+  ====
+  - [[Page~560 (1)鯫]]
+    ==
+    - Minnows, white fish which skip over the water;
+    - _met._ a simpleton;
+    - _(1)tsau (1)shang_
+        [[zau1 sang1 鯫生]],
+        a foolish fellow.
     ==
   ====
 $$
