@@ -53,6 +53,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $侜1
+- $僽1
 - $周1
 - $啾1
 - $州1
@@ -96,6 +97,34 @@ W
     - something stretched for a shade.
     ==
   ====
+$$
+
+### 僽1 | _(1)Tsau_ [[zau1]]
+
+$$
+R
+  ⼈ + 13
+U
+  U+50FD
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~560 (1)僽]]
+    --
+    [[Idiosyncratic reading from Williams; **see $僽zau3 for the canonical entry**.]]
+    --
+  ====
+C
+  ==
+  - Strictly, the reading _(1)tsau_ [[zau1]] in level tone
+    is for the sense "anxious" or "sorrowful"
+    (per Kangxi 《韻會》側鳩切音鄒愁貌或作偢).
+  ==
+S
+  ==
+  - $僽zau3 (TODO)
+  ==
 $$
 
 ### 周1 | _(1)Chau_ [[zau1]]
