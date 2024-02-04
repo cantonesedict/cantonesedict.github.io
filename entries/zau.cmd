@@ -57,6 +57,7 @@ $$
 - $啾1
 - $州1
 - $掫1
+- $棷1
 - $洲1
 - $舟1
 - $謅1
@@ -258,6 +259,26 @@ W
     - _(2)kan (1)tsau (1)tsau_
         [[gan2 zau1 zau1 緊掫掫]],
         tie it up very tight,---a colloquial phrase.
+    ==
+  ====
+$$
+
+### 棷1 | _(1)Tsau_ [[zau1]]
+
+$$
+R
+  ⽊ + 8
+U
+  U+68F7
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~560 (1)棷]]
+    ==
+    - A kind of wood suitable for fuel;
+    - it is used for making watchmen's alarms;
+    - a surname.
     ==
   ====
 $$
