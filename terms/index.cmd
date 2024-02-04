@@ -173,6 +173,9 @@ window.onload = applyFilter;
     , caa4
     , [搽~\(spread\)](/entries/caa#cantonese-搽-spread)
   //
+    , caa4 zau2
+    , [茶走](/entries/caa#cantonese-茶走)
+  //
     , caa5
     , [搽~\(smudge\)](/entries/caa#cantonese-搽-smudge)
   //

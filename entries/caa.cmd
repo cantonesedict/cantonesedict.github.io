@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2024-02-01
+* %date-modified --> 2024-02-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -659,6 +659,13 @@ C
     Changed Middle Chinese _(4)sh(i/)_ [[si4]]
     to common reading _(4)ch(')(i/)_ [[ci4]].
   ==
+E
+  ====
+  - 【茶走】 (caa4 zau2):
+    ++
+    1. Milk tea but with condensed milk in place of normal milk and sugar.
+    ++
+  ====
 $$
 
 
