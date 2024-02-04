@@ -61,6 +61,7 @@ $$
 - $洲1
 - $緅1
 - $舟1
+- $諏1
 - $謅1
 - $譸1
 - $賙1
@@ -366,6 +367,37 @@ W
     - _(1)chau ts(')z'(3)_
         [[zau1 ci3 舟次]]
         on board ship.
+    ==
+  ====
+$$
+
+### 諏1 | _(1)Tsau_ [[zau1]]
+
+$$
+R
+  ⾔ + 8
+U
+  U+8ACF
+F
+  ==
+  - [[F1.50 諏]] 咨事曰諏
+  ==
+W
+  ====
+  - [[Page~560 (1)諏]]
+    ==
+    - To consult with, to take advice,
+      to inquire into matters of government publicly;
+    - to choose;
+    - _(1)tsau kat(7)_
+        [[zau1 gat1 諏吉]]
+        to select a lucky day;
+    - _kung(6) (1)tsau (4)k(')(i/) ching(3)_
+        [[gung6 zau1 kei4 zing3 共諏其正]]
+        to jointly discuss the right of the matter;
+    - _(1)tsz' (1)tsau_
+        [[zi1 zau1 咨諏]],
+        to take counsel.
     ==
   ====
 $$

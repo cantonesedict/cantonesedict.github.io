@@ -112,6 +112,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $諍zaang3
       - $諍zang3
+      - $諏zau1
       ==
       </nav>
   //
