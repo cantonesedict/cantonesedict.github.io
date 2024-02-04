@@ -464,6 +464,24 @@ window.onload = applyFilter;
     , zau1 si4
     , [周時](/entries/zau#cantonese-周時)
   //
+    , zau2
+    , [走](/entries/zau#cantonese-走)
+  //
+    , zau2 gai1
+    , [走雞](/entries/zau#cantonese-走雞)
+  //
+    , zau2 heoi3
+    , [走去](/entries/zau#cantonese-走去)
+  //
+    , zau2 jau4-2
+    , [走油](/entries/zau#cantonese-走油)
+  //
+    , zau2 lat1
+    , [走甩](/entries/zau#cantonese-走甩)
+  //
+    , zau2 lou6-2
+    , [走路](/entries/zau#cantonese-走路)
+  //
     , zau2 zaan2
     , [走趲](/entries/zaan#cantonese-走趲)
 ''

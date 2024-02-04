@@ -751,6 +751,7 @@ $$
 - $帚2
 - $箒2
 - $肘2
+- $走2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -837,6 +838,146 @@ S
   ==
   - $肘zaau2 (TODO)
   ==
+$$
+
+### 走2 | _(2)Tsau_ [[zau2]]
+
+$$
+R
+  ⾛ + 0
+U
+  U+8D70
+F
+  ==
+  - [[F1.53 走]] 奔走趨也
+  ==
+W
+  ====
+  - [[Page~561 (2)走]]
+    ==
+    - To go;
+    - to sail;
+    - to travel;
+    - to to run, to hasten, to quicken one's steps;
+    - to flee, to run off, to clear out;
+    - the 156th radical of characters relating to going;
+    - _(2)tsau kwo(3) (2)k(i/) (2)sh(a/)ng_
+        [[zau2 gwo3 gei2 saang2 走過幾省]],
+        he has been over several provinces;
+    - _(2)tsau (4)'m lat(7)_
+        [[zau2 m4 lat1 走唔甩]]
+        could not get away;
+    - _(2)tsau p(a/)k(9) t(i/)(6)_
+        [[zau2 baak6 dei6 走白地]]
+        all cleared out;
+    - _(2)tsau tak(7) m(a/)n(6)_
+        [[zau2 dak1 maan6 走得慢]]
+        she sails slowly;
+    - _(2)tsau h(u")(3)_
+        [[zau2 heoi3 走去]]
+        to run off;
+    - _(2)tsau (2)shai_
+        [[zau2 sai2 走使]],
+        a servant;
+    - _tau(3) (1)kai (2)tsau (2)kau_
+        [[dau3 gai1 zau2 gau2 鬥雞走狗]],
+        to fight cocks and race dogs;
+    - _(2)tsau (1)sz'_
+        [[zau2 si1 走私]]
+        to smuggle;
+    - _(2)tsau lau(6)_
+        [[zau2 lau6 走漏]]
+        to disclose, to let out, as a secret;
+    - _(2)tsau (2)shui_
+        [[zau2 seoi2 走水]],
+        to voyage;
+    - _(2)tsau lok(8)_
+        [[zau2 lok3 走咯]]
+        I'm going;
+    - _(2)tsau (1)lo_
+        [[zau2 lo1 走囉]],
+        clear out!
+    - _(2)tsau tak(7) f(a/)i(3) ts(')ui(3)_
+        [[zau2 dak1 faai3 ceoi3 走得快脆]]
+        he runs very fast.
+    ==
+  ====
+C
+  ==
+  - Williams' 走漏: In the vernacular register, 走漏 means to omit by mistake.
+  ==
+E
+  ====
+  - 【走】 (zau2):
+    ++
+    1. To run.
+       ==
+       - 周圍走 (zau1 wai4 zau2): "Running all over [the place]."
+       - 未學行先學走 (mei6 hok6 haang4 sin1 hok6 zau2):
+         "[Having] not yet learnt to walk, first learning to run."
+       ==
+    1. To flee.
+       ==
+       - 走啊 (zau2 aa3): "Run [for your lives]!"
+       - 咪走 (mai5 zau2): "Don't [you] run [off]."
+       ==
+    1. To leave.
+       ==
+       - 我哋走 (ngo5 dei6 zau2): "We [shall] leave."
+       - 臨走 (lam4 zau2): "Just before leaving."
+       - 走啦 (zau2 laa1): "Leave!"
+       ==
+    1. To miss (fail to utilise).
+       ==
+       - 走咗班車 (zau2 zo2 baan1 ce1): "Missed [the] train."
+       - 走咗隻東 (zau2 zo2 zek3 dung1): "Missed [the] east [wind tile]."
+       ==
+    1. To leave out or omit from food, as a preference.
+       ==
+       - 走蔥 (zau2 cung1): "Without spring-onion."
+       - 走青 (zau2 ceng1): "Without [any] green [garnishes]."
+       - 走色 (zau2 sik1): "Without colour" (i.e. without adding beef stock to noodle soup).
+       - 菜心全走 (coi3 sam1 cyun4 zau2): "Choy sum all without" (i.e. without adding oyster sauce or brisket juice).
+       ==
+    ++
+  - 【走雞】 (zau2 gai1):
+    ++
+    1. To miss an opportunity (especially a tile in mahjong).
+      ==
+      - 走咗雞 (zau2 zo2 gai1): "[I] missed [it]."
+      ==
+    ++
+  - 【走去】 (zau2 heoi3):
+    ++
+    1. To proceed to.
+      ==
+      - 走去偷嘢 (zau2 heoi3 tau1 je5): "[He's] gone and stolen stuff."
+      - 走去吸毒 (zau2 heoi3 kap1 duk6): "[He's] gone and taken drugs."
+      ==
+    ++
+  - 【走油】 (zau2 jau4-2):
+    ++
+    1. To wok-fry briefly in a moderate amount of oil
+       (so as to give sheen to meat or seafood).
+    ++
+  - 【走甩】 (zau2 lat1):
+    ++
+    1. To get away, to successfully escape.
+      ==
+      - 走唔甩 (zau2 m4 lat1): "Couldn't get away."
+      - 走甩咗 (zau2 lat1 zo2): "[He] got away."
+      ==
+    ++
+  - 【走路】 (zau2 lou6-2):
+    ++
+    1. To run away, to flee.
+    ++
+  ====
+  --
+  Classically, 走 means to run, *not* to walk (which is 行).
+  This classical usage is preserved by Cantonese,
+  in contrast with Mandarin, which uses 走 for walk.
+  --
 $$
 
 
