@@ -1075,6 +1075,7 @@ $$
 - $呪3
 - $咒3
 - $咮3
+- $奏3
 - $晝3
 ==
 </nav>
@@ -1183,6 +1184,53 @@ S
   ==
   - $咮zyu1 (TODO)
   ==
+$$
+
+### 奏3 | _Tsau(3)_ [[zau3]]
+
+$$
+R
+  ⼤ + 6
+U
+  U+594F
+F
+  ==
+  - [[F1.55 奏]] 奏本
+  ==
+W
+  ====
+  - [[Page~561 奏(3)]]
+    ==
+    - To report to the throne, to memorialize the emperor,
+      to tell the sovereign, to cause him to hear or know;
+    - songs or tunes;
+    - to play music;
+    - _tsau(3) (2)p(u/)n_
+        [[zau3 bun2 奏本]],
+        a memorial;
+    - _tsau(3) (5)sh(e/)ung_
+        [[zau3 soeng5 奏上]]^
+        to send up a report;
+    - _p(')(i/)n(3) tsau(3)_
+        [[pin3 zau3 片奏]]
+        a slip handed up;
+    - _tsau(3) (4)lau_
+        [[zau3 lau4 奏留]],
+        to report than an officer is detained;
+    - _tsau(3) ngok(9)_
+        [[zau3 ngok6 奏樂]]
+        to play music, to strike up the band;
+    - _ts(i/)t(8) tsau(3)_
+        [[zit3 zau3 節奏]]
+        to mark the time;
+    - _m(i/)n(6) tsau(3)_
+        [[min6 zau3 面奏]]
+        to state to the emperor;
+    - _(2)chun tsau(3)_
+        [[zeon2 zau3 准奏]]
+        to assent to a memorial.
+    ==
+  ====
 $$
 
 ### 晝3 | _Chau(3)_ [[zau3]]
