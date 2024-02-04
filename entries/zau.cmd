@@ -59,6 +59,7 @@ $$
 - $掫1
 - $棷1
 - $洲1
+- $緅1
 - $舟1
 - $謅1
 - $譸1
@@ -315,6 +316,27 @@ W
     - _(1)sh(a/) (1)chau_
         [[saa1 zau1 沙洲]],
         sands, a sand-bank.
+    ==
+  ====
+$$
+
+### 緅1 | _(1)Tsau_ [[zau1]]
+
+$$
+R
+  ⽷ + 8
+U
+  U+7DC5
+F
+  ==
+  - [[F1.50 緅]] 靑赤色
+  ==
+W
+  ====
+  - [[Page~560 (1)緅]]
+    ==
+    - Silk first dyed red thrice, and then twice dipped in black;
+    - a dark red-like puce.
     ==
   ====
 $$
