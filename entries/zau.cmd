@@ -54,6 +54,7 @@ $$
 =={.modern}
 - $侜1
 - $周1
+- $啾1
 - $州1
 - $洲1
 - $舟1
@@ -167,6 +168,33 @@ E
     ++
     1. All the time.
     ++
+  ====
+$$
+
+### 啾1 | _(1)Tsau_ [[zau1]]
+
+$$
+R
+  ⼝ + 9
+U
+  U+557E
+F
+  ==
+  - [[F1.50 啾]] 啾喞小聲也
+  ==
+W
+  ====
+  - [[Page~560 (1)啾]]
+    ==
+    - The wail of infants;
+    - the hum of insects;
+    - _(1)tsau tsik(7)_
+        [[zau1 zik1 啾唧]]
+        the cry of small children;
+    - _(1)tsau (1)tsau_
+        [[zau1 zau1 啾啾]],
+        the chattering of birds, squeaking of rats.
+    ==
   ====
 $$
 
