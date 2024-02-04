@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2024-02-03
+* %date-modified --> 2024-02-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -57,6 +57,7 @@ $$
 - $州1
 - $洲1
 - $舟1
+- $謅1
 - $譸1
 - $賙1
 - $輈1
@@ -265,6 +266,25 @@ W
     - _(1)chau ts(')z'(3)_
         [[zau1 ci3 舟次]]
         on board ship.
+    ==
+  ====
+$$
+
+### 謅1 | _(1)Tsau_ [[zau1]]
+
+$$
+R
+  ⾔ + 10
+U
+  U+8B05
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~560 (1)謅]]
+    ==
+    - To whisper, to speak into one's ear;
+    - to speak in a low tone.
     ==
   ====
 $$
