@@ -56,6 +56,7 @@ $$
 - $周1
 - $啾1
 - $州1
+- $掫1
 - $洲1
 - $舟1
 - $謅1
@@ -235,6 +236,30 @@ C
   ==
   - In modern usage, the "continent" and "island" senses are spelt 洲; see $洲zau1.
   ==
+$$
+
+### 掫1 | _(1)Tsau_ [[zau1]]
+
+$$
+R
+  ⼿ + 8
+U
+  U+63AB
+F
+  ==
+  - [[F1.50 掫]] 擊也守夜擊刀斗之類
+  ==
+W
+  ====
+  - [[Page~560 (1)掫]]
+    ==
+    - To strike the rounds at night, to pace the beat at night;
+    - to seize, to take with the hand;
+    - _(2)kan (1)tsau (1)tsau_
+        [[gan2 zau1 zau1 緊掫掫]],
+        tie it up very tight,---a colloquial phrase.
+    ==
+  ====
 $$
 
 ### 洲1 | _(1)Chau_ [[zau1]]
