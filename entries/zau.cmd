@@ -63,6 +63,7 @@ $$
 - $輈1
 - $輖1
 - $週1
+- $騶1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -422,6 +423,28 @@ W
     - _(1)chau (4)sh(i/) (1)t(o\) hai(6) (2)k(o\)m_
         [[zau1 si4 dou1 hai6 gom2 週時都係噉]],
         he is ever the same.
+    ==
+  ====
+$$
+
+### 騶1 | _(1)Tsau_ [[zau1]]
+
+$$
+R
+  ⾺ + 10
+U
+  U+9A36
+F
+  ==
+  - [[F1.50 騶]] 騶虞仁獸
+  ==
+W
+  ====
+  - [[Page~560 (1)騶]]
+    ==
+    - A fabulous feline beast, called _(1)tsau (4)(u")_ [[zau1 jyu4 騶虞]],
+      emblematic of kindness to animals and gentleness;
+    - a royal groom or hostler.
     ==
   ====
 $$
