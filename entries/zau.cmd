@@ -752,6 +752,7 @@ $$
 - $箒2
 - $肘2
 - $走2
+- $酒2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -858,7 +859,7 @@ W
     - To go;
     - to sail;
     - to travel;
-    - to to run, to hasten, to quicken one's steps;
+    - to run, to hasten, to quicken one's steps;
     - to flee, to run off, to clear out;
     - the 156th radical of characters relating to going;
     - _(2)tsau kwo(3) (2)k(i/) (2)sh(a/)ng_
@@ -978,6 +979,91 @@ E
   This classical usage is preserved by Cantonese,
   in contrast with Mandarin, which uses 走 for walk.
   --
+$$
+
+### 酒2 | _(2)Tsau_ [[zau2]]
+
+$$
+R
+  ⾣ + 3
+U
+  U+9152
+F
+  ==
+  - [[F1.53 酒]] 儀狄所造
+  ==
+W
+  ====
+  - [[Page~561 (2)酒]]
+    ==
+    - Spirits;
+    - distilled liquor made from rice;
+    - it is applied also to beer, wine, and other liquors;
+    - given to drink;
+    - to redden;
+    - _(1)shi(u/) (2)tsau_
+        [[siu1 zau2 燒酒]],
+        whiskey, samshoo;
+    - _(2)tsau tsik(9)_
+        [[zau2 zik6 酒席]]
+        a banquet;
+    - _(4)wong (2)tsau_
+        [[wong4 zau2 黃酒]],
+        sweet spirits;
+    - _(4)m(o\) (2)tsau l(e/)ung(6)_
+        [[mou4 zau2 loeng6 無酒量]]
+        I have no ability to drink;
+    - _f(a/)t(8) (2)tsau (1)fung_
+        [[faat3 zau2 fung1 發酒瘋]],
+        irascible from drink;
+    - _(2)tsau (1)fung k(e/)uk(8)_
+        [[zau2 fung1 goek3 酒瘋腳]]
+        gouty;
+    - _(2)tsau (4)fong_
+        [[zau2 fong4 酒房]],
+        a groggery, a wine room or cellar;
+    - _(4)hung (2)tsau_
+        [[hung4 zau2 紅酒]],
+        claret;
+    - _p(a/)k(9) (2)tsau_
+        [[baak6 zau2 白酒]],
+        sherry;
+    - _[(1)p(e/)] (2)tsau_
+        [[be1 zau2 啤酒]],
+        beer;
+    - _(2)shui (2)tsau_
+        [[seoi2 zau2 水酒]],
+        weak spirits;
+    - _(1)t(')(i/)n (2)tsau_
+        [[tin1 zau2 天酒]],
+        genial dews;
+    - _shik(7) (2)tsau_
+        [[sik1 zau2 色酒]],
+        mulled spirits;
+    - _tsui(3) (2)tsau (2)l(o\)_
+        [[zeoi3 zau2 lou2 醉酒佬]],
+        a drunkard;
+    - _(2)tsau (4)shan kong(3)_
+        [[zau2 san4 kong3 酒神降]]
+        to like the flavor of wine;
+    - _tsam(3) (2)tsau_
+        [[zam3 zau2 浸酒]],
+        to steep things in spirits;
+    - _(1)k(o\) (4)l(e/)ung (2)tsau_
+        [[gou1 loeng4 zau2 高粱酒]],
+        spirits from millet, a pungent sort;
+    - _(5)m(i/) (2)tsau_
+        [[mei5 zau2 美酒]],
+        good spirits;
+    - _(2)tsau (1)p(u/)i_
+        [[zau2 bui1 酒杯]],
+        a wine-glass.
+    ==
+  ====
+C
+  ==
+  - Williams' 啤酒: Corrected _(2)p(')(e/)_ [[pe2]] to _(1)p(e/)_ [[be1]].
+  ==
 $$
 
 
