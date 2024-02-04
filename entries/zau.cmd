@@ -63,6 +63,7 @@ $$
 - $輈1
 - $輖1
 - $週1
+- $鄒1
 - $騶1
 ==
 </nav>
@@ -423,6 +424,27 @@ W
     - _(1)chau (4)sh(i/) (1)t(o\) hai(6) (2)k(o\)m_
         [[zau1 si4 dou1 hai6 gom2 週時都係噉]],
         he is ever the same.
+    ==
+  ====
+$$
+
+### 鄒1 | _(1)Tsau_ [[zau1]]
+
+$$
+R
+  ⾢ + 10
+U
+  U+9112
+F
+  ==
+  - [[F1.50 鄒]] 國名又姓
+  ==
+W
+  ====
+  - [[Page~560 (1)鄒]]
+    ==
+    - A district in the southwest of Sh(a/)ntung [[山東]] on the Yellow River;
+    - an ancient city in L(u/) [[魯]], where Mencius was born.
     ==
   ====
 $$

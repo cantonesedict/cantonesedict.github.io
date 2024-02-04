@@ -552,6 +552,14 @@ For all radicals, see [Index of characters by radical](./).
       - $郅zat6
       ==
       </nav>
+  //
+    , 10
+    ,
+      <nav class="sideways">
+      ==
+      - $鄒zau1
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⾢-characters ##>
