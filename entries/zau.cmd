@@ -64,6 +64,7 @@ $$
 - $輖1
 - $週1
 - $鄒1
+- $鄹1
 - $騶1
 ==
 </nav>
@@ -445,6 +446,28 @@ W
     ==
     - A district in the southwest of Sh(a/)ntung [[山東]] on the Yellow River;
     - an ancient city in L(u/) [[魯]], where Mencius was born.
+    ==
+  ====
+$$
+
+### 鄹1 | _(1)Tsau_ [[zau1]]
+
+$$
+R
+  ⾢ + 14
+U
+  U+9139
+F
+  ==
+  - [[F1.50 鄹]] 孔子故鄕
+  ==
+W
+  ====
+  - [[Page~560 (1)鄹]]
+    ==
+    - The district in L(u/) [[魯]] where Confucius was born,
+      now in Yenchau f(u/) [[兗州府]] in Sh(a/)ntung [[山東]];
+    - it is not far from the preceding [[$鄒1]].
     ==
   ====
 $$
