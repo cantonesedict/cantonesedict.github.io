@@ -58,6 +58,7 @@ $$
 - $啾1
 - $州1
 - $掫1
+- $揪1
 - $棷1
 - $洲1
 - $緅1
@@ -292,6 +293,29 @@ W
         [[gan2 zau1 zau1 緊掫掫]],
         tie it up very tight,---a colloquial phrase.
     ==
+  ====
+$$
+
+###+ 揪1 | _(1)Tsau_ [[zau1]]
+
+$$
+R
+  ⼿ + 9
+U
+  U+63EA
+F
+  [[Not present]]
+W
+  [[Not present]]
+E
+  ====
+  - 【揪】 (zau1):
+    ++
+    1. To catch or capture.
+       ==
+       - 畀差佬揪 (bei2 caai1 lou2 zau1): "Caught by [a] copper."
+       ==
+    ++
   ====
 $$
 
