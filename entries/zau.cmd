@@ -65,6 +65,7 @@ $$
 - $週1
 - $鄒1
 - $鄹1
+- $陬1
 - $騶1
 ==
 </nav>
@@ -470,6 +471,47 @@ W
     - it is not far from the preceding [[$鄒1]].
     ==
   ====
+$$
+
+### 陬1 | _(1)Tsau_ [[zau1]]
+
+$$
+R
+  ⾩ + 8
+U
+  U+966C
+F
+  ==
+  - [[F1.50 陬]] 遐陬
+  ==
+W
+  ====
+  - [[Page~560 (1)陬]]
+    ==
+    - An angle or corner of a city wall, where it is retried;
+    - a bastion;
+    - a nook, a corner;
+    - to live together;
+    - abashed, ashamed;
+    - _[m(a/)ng](6) (1)tsau_
+        [[maang6 zau1 孟陬]],
+        the first month;
+    - _(o\)m(3) (1)tsau_
+        [[am3 zau1 暗陬]],
+        a dark corner;
+    - _(4)shing (1)tsau_
+        [[sing4 zau1 城陬]],
+        the corner of a wall;
+    - _(1)tsau yap(7)_
+        [[zau1 jap1 陬邑]]
+        the residence of Confucius, and interchanged with the preceding [[$鄹1]].
+    ==
+  ====
+C
+  ==
+  - Williams' 孟陬: Changed Middle Chinese _mang(6)_ [[mang6]]
+    to common reading _m(a/)ng(6)_ [[maang6]].
+  ==
 $$
 
 ### 騶1 | _(1)Tsau_ [[zau1]]
