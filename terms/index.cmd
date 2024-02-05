@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of Cantonese terms by Jyutping
-* %date-modified --> 2024-02-04
+* %date-modified --> 2024-02-05
 * %copyright-prior-years --> 2023--
 * %meta-description --> searchable index of Cantonese terms by Jyutping
 
@@ -487,6 +487,18 @@ window.onload = applyFilter;
   //
     , zau2 zaan2
     , [走趲](/entries/zaan#cantonese-走趲)
+  //
+    , zau6
+    , [就](/entries/zau#cantonese-就)
+  //
+    , zau6 faai3
+    , [就快](/entries/zau#cantonese-就快)
+  //
+    , zau6 gam2
+    , [就噉](/entries/zau#cantonese-就噉)
+  //
+    , zau6 lai4
+    , [就嚟](/entries/zau#cantonese-就嚟)
 ''
 ||||
 <## /terms-table ##>

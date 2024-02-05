@@ -1352,6 +1352,7 @@ $$
 =={.modern}
 - $冑6
 - $宙6
+- $就6
 - $籀6
 - $籒6
 - $紂6
@@ -1420,6 +1421,115 @@ C
     so it is 宇 that is as the earth below,
     while 宙 is instead as the firmament above.
   ==
+$$
+
+### 就6 | _Tsau(6)_ [[zau6]]
+
+$$
+R
+  ⼪ + 9
+U
+  U+5C31
+F
+  ==
+  - [[F1.56 就]] 卽也迎也從也
+  ==
+W
+  ====
+  - [[Page~561]]
+    ==
+    - The place to which things tend or culminate at;
+    - to go towards, to approach, to draw near;
+    - to accompany, accommodated to, to follow;
+    - to complete, to make a circuit, to meet;
+    - completed, finished;
+    - to come near in point of time;
+    - an adverb, then, immediately, just, just now, presently, forthwith;
+    - a conjunction, then, if, as if;
+    - able to do, willing;
+    - _tsau(6) ching(3) (4)loi_
+        [[zau6 zing3 loi3 就正來]],
+        he has just come;
+    - _tsau(6) ching(3) (4)loi kwo(3)_
+        [[zau6 zing3 loi4 gwo3 就正來過]]
+        he's just come and gone;
+    - _tsau(6) (2)k(o\)m lok(8)_
+        [[zau6 gam2 lok3 就噉咯]]
+        let it go, that'll do;
+    - _(2)k(o\)m tsau(6) (2)h(o\)_
+        [[gam2 zau6 hou2 噉就好]],
+        this is right;
+    - _tsau(6) (1)k(a/) h(u")(3)_
+        [[zau6 gaa1 heoi3 就家去]]
+        then I'll go;
+        he's about going;
+    - _tsau(6) (1)s(i/)n_
+        [[zau6 sin1 就先]],
+        just a little while ago, just now;
+    - _tsau(6) ch(i/)(3) h(u")(3)_
+        [[zau6 zi3 heoi3 就至去]]
+        he's just gone;
+    - _tsau(6) (2)shau_
+        [[zau6 sau2 就手]],
+        came to one's hands, as profits;
+    - _tsau(6) (4)[lai]_
+        [[zau6 lai4 就嚟]],
+        presently, in a little;
+        coming forthwith;
+    - _(1)tung (4)shing (1)sai tsau(6)_
+        [[dung1 sing4 sai1 zau6 東成西就]]
+        the east is done and the west finished, everything is correctly done;
+    - _tsau(6) hai(6) ko(3) tik(7)_
+        [[zau6 hai6 go3 dik1 就係個滴]]
+        it is just that;
+    - _tsau(6) t(i/)(6) (2)ts(')(u") (4)ts(')oi_
+        [[zau6 dei6 ceoi2 coi4 就地取材]],
+        this will serve the purpose;
+        he will do for the occasion;
+    - _tsau(6) (4)m(a/)i (5)n(i/)_
+        [[zau6 maai4 nei5 就埋你]],
+        to bear with, to humor one;
+    - _tsau(6) (2)k(o\)m y(e/)ung(6) l(e/)(3)_
+        [[zau6 gam2 joeng6-2 le3 就噉樣唎]]
+        well, let it pass;
+    - _(5)yan (2)keng tsau(6) (4)ying_
+        [[jan5 geng2 zau6 jing4 引頸就刑]],
+        to offer his neck to the axe.
+    ==
+  ====
+C
+  ==
+  - Williams' 就正, 就家, 就先: All dated.
+  - Williams' 就嚟: Corrected _(4)loi_ [[loi4]] to _(4)lai_ [[lai4]].
+  ==
+E
+  ====
+  - 【就】 (zau6):
+    ++
+    1. Almost, soon.
+       ==
+       - 就得 (zau6 dak1): "Almost done."
+       - 就到 (zau6 dou3): "Almost there."
+       ==
+    1. To accommodate, to adjust for another's convenience.
+       ==
+       - 就佢夜放 (zau6 keoi5 je6 fong3): "[Adjust the time to] accommodate his late clock-off."
+       - 唔使就我 (m4 sai2 zau6 ngo5): "No need [to] adjust for me."
+       ==
+    ++
+  - 【就快】 (zau6 faai3):
+    ++
+    1. Soon.
+    ++
+  - 【就噉】 (zau6 gam2):
+    ++
+    1. To leave it at that, to not do any more.
+    ++
+  - 【就嚟】 (zau6 lai4):
+    ++
+    1. Soon.
+    ++
+  ====
 $$
 
 ###+ 籀6 | _Chau(6)_ [[zau6]]
