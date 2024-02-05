@@ -1077,6 +1077,7 @@ $$
 - $咮3
 - $奏3
 - $晝3
+- $皺3
 - $縐3
 ==
 </nav>
@@ -1262,6 +1263,33 @@ W
     - _h(a/)(6) chau(3)_
         [[haa6 zau3 下晝]]
         afternoon.
+    ==
+  ====
+$$
+
+### 皺3 | _Tsau(3)_ [[zau3]]
+
+$$
+R
+  ⽪ + 10
+U
+  U+76BA
+F
+  ==
+  - [[F1.55 皺]] 面皮蹙也
+  ==
+W
+  ====
+  - [[Page~561 皺(3)]]
+    ==
+    - The skin wrinkled from age;
+    - frowning;
+    - _tsau(3) (4)m(i/) (4)t(')au_
+        [[zau3 mei4 tau4 皺眉頭]],
+        to scowl;
+    - _m(i/)n(6) (4)p(')(i/) tsau(3)_
+        [[min6 pei4 zau3 面皮皺]]
+        a wrinkled face.
     ==
   ====
 $$
