@@ -588,6 +588,15 @@ class Page:
             )
         ]
 
+        characters = ''.join(character_entry.character for character_entry in self.character_entries)
+        sorted_characters = ''.join(character_entry.character for character_entry in sorted(self.character_entries))
+        if characters != sorted_characters:
+            print(
+                f'Error: character entries not in sorted order\n  ({characters})\n  ({sorted_characters})',
+                file=sys.stderr,
+            )
+            sys.exit(1)
+
 
 class CantoneseEntry:
     def __init__(self, term, disambiguation, term_jyutping, page_jyutping):
@@ -642,6 +651,15 @@ class CharacterEntry:
         self.residual_stroke_count = residual_stroke_count
         self.jyutping = jyutping
         self.composition = composition
+
+    def __lt__(self, other):
+        return self.rank() < other.rank()
+
+    def rank(self):
+        return self.jyutping, self.radical, self.residual_stroke_count, self.integer_code_point()
+
+    def integer_code_point(self):
+        return int(self.code_point[2:], 16)
 
 
 class SplitCantoneseEntry(CantoneseEntry):
