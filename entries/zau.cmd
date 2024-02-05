@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2024-02-04
+* %date-modified --> 2024-02-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1077,6 +1077,7 @@ $$
 - $咮3
 - $奏3
 - $晝3
+- $縐3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -1261,6 +1262,50 @@ W
     - _h(a/)(6) chau(3)_
         [[haa6 zau3 下晝]]
         afternoon.
+    ==
+  ====
+$$
+
+### 縐3 | _Tsau(3)_ [[zau3]]
+
+$$
+R
+  ⽷ + 10
+U
+  U+7E10
+F
+  ==
+  - [[F1.55 縐]] 縮而不光曰縐
+  ==
+W
+  ====
+  - [[Page~561 縐(3)]]
+    ==
+    - Crape;
+    - rumpled, crenulated, crinkled, crisp, frizzled;
+    - to corrugate, to wrinkle;
+    - used for the next [[$皺3]];
+    - _tsau(3) (1)sh(a/)_
+        [[zau3 saa1 縐紗]],
+        crape;
+    - _s(i/)n(3) tsau(3)_
+        [[sin3 zau3 線縐]]
+        camlet;
+    - _tsau(3) (4)m(a/)i_
+        [[zau3 maai4 縐埋]],
+        puckered, shriveled up, wrinkled;
+    - _tsau(3) (4)ch(')au_
+        [[zau3 cau4 縐綢]],
+        wrinkled silk;
+    - _tsau(3) (1)sh(a/) (5)t(')(o\)_
+        [[zau3 saa1 tou5 縐紗肚]],
+        a capacious paunch;
+    - _(4)(u/) tsau(3)_
+        [[wu4 zau3 湖縐]]
+        Nanking crape;
+    - _tsau(3) (4)man_
+        [[zau3 man4 縐紋]],
+        marks of wrinkles.
     ==
   ====
 $$
