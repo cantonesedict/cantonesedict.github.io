@@ -1198,6 +1198,7 @@ U
 F
   ==
   - [[F1.55 奏]] 奏本
+  - [[F1.55 𩱛]] 與奏同
   ==
 W
   ====
@@ -1233,6 +1234,11 @@ W
         to assent to a memorial.
     ==
   ====
+C
+  ==
+  - Fan Wan entry: The alternative form 𩱛 (i.e. 糭 but with 鬲 in place of 米)
+    is likely an error.
+  ==
 $$
 
 ### 晝3 | _Chau(3)_ [[zau3]]
