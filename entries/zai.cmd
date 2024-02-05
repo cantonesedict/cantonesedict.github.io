@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2024-01-24
+* %date-modified --> 2024-02-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -486,8 +486,8 @@ $$
 - $晢3
 - $晣3
 - $濟3
-- $穄3
 - $祭3
+- $穄3
 - $製3
 - $際3
 - $霽3
@@ -754,27 +754,6 @@ W
   ====
 $$
 
-### 穄3 | _Tsai(3)_ [[zai3]]
-
-$$
-R
-  ⽲ + 11
-U
-  U+7A44
-F
-  ==
-  - [[F1.32 穄]] 谷也似黍而小
-  ==
-W
-  ====
-  - [[Page~548 穄(3)]]
-    ==
-    - A sort of panicled millet which is not glutinous, and resembles wheat;
-      it grows in Shens(i/) [[陝西]].
-    ==
-  ====
-$$
-
 ### 祭3 | _Tsai(3)_ [[zai3]]
 
 $$
@@ -812,6 +791,27 @@ W
     - _tsai(3) (1)yau_
         [[zai3 jau1 祭幽]],
         to appease ghosts by oblations.
+    ==
+  ====
+$$
+
+### 穄3 | _Tsai(3)_ [[zai3]]
+
+$$
+R
+  ⽲ + 11
+U
+  U+7A44
+F
+  ==
+  - [[F1.32 穄]] 谷也似黍而小
+  ==
+W
+  ====
+  - [[Page~548 穄(3)]]
+    ==
+    - A sort of panicled millet which is not glutinous, and resembles wheat;
+      it grows in Shens(i/) [[陝西]].
     ==
   ====
 $$
