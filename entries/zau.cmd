@@ -1357,6 +1357,7 @@ $$
 - $籒6
 - $紂6
 - $胄6
+- $袖6
 - $酎6
 - $鷲6
 ==
@@ -1647,6 +1648,45 @@ C
     between 冑 (under ⼌) and 胄 (under ⾁).
   - Williams' 胄裔: Corrected _hau(6)_ [[hau6]] to _chau(6)_ [[zau6]].
   ==
+$$
+
+### 袖6 | _Tsau(6)_ [[zau6]]
+
+$$
+R
+  ⾐ + 5
+U
+  U+8896
+F
+  ==
+  - [[F1.56 袖]] 衫袖
+  ==
+W
+  ====
+  - [[Page~562 袖(6)]]
+    ==
+    - The sleeve;
+    - to put into the sleeve, to receive in the hand;
+    - _tsau(6) (2)hau_
+        [[zau6 hau2 袖口]],
+        a cuff;
+    - _tsau(6) (2)shau_
+        [[zau6 sau2 袖手]],
+        to hide the hands in the cuffs;
+    - _tsau(6) (4)t(')au_
+        [[zau6 tau4 袖頭]],
+        official cuffs shaped like a horsehoof;
+    - _(5)ling tsau(6)_
+        [[ling5 zau6 領袖]]
+        a chief, one born to command;
+    - _t(')(o\)(3) tsau(6)_
+        [[tou3 zau6 套袖]]
+        sleeve-covers;
+    - _tsau(6) (2)shau (4)p(')ong (1)k(u/)n_
+        [[zau6 sau2 pong4 gun1 袖手旁觀]],
+        to fold the hands and look on.
+    ==
+  ====
 $$
 
 ### 酎6 | _Chau(6)_ [[zau6]]
