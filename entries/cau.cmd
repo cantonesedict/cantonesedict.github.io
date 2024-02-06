@@ -234,6 +234,7 @@ $$
 - $仇4
 - $讎4
 - $讐4
+- $酬4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -368,4 +369,56 @@ S
   ==
   - $讐sau4 (TODO)
   ==
+$$
+
+### 酬4 | _(4)Ch(')au_ [[cau4]]
+
+$$
+R
+  ⾣ + 6
+U
+  U+916C
+A
+  ==
+  - $酧4
+  ==
+F
+  ==
+  - [[F1.52 酬]] 答也報也
+  - [[F1.52 酧]] 同酬
+  ==
+W
+  ====
+  - [[Page~27|n70 (4)酬(4)酧]]
+    ==
+    - To pledge a guest;
+    - to recompense;
+    - to make a return;
+    - to invite a guest to drink;
+    - _(4)ch(')au tsok(9)_
+        [[cau4 zok6 酬酢]]
+        pledging as host and guest;
+    - _(4)ch(')au ts(e/)(6)_
+        [[cau4 ze6 酬謝]]
+        to return thanks, to present in return;
+    - _(4)ch(')au t(a/)p(8)_
+        [[cau4 daap3 酬答]]
+        to recompense, to respond;
+    - _(4)ch(')au (4)shan_
+        [[cau4 san4 酬神]]^
+        to thank the gods;
+    - _(4)ch(')au (u")n(6)_
+        [[cau4 jyun6 酬願]]
+        to make a thank offering;
+    - _(4)ch(')au (4)l(o\)_
+        [[cau4 lou4 酬勞]],
+        present for carefulness, as to workmen;
+    - _(4)ch(')au (4)w(a/)n_
+        [[cau4 waan4 酬還]],
+        to pay, as a vow;
+    - _(4)ch(')au t(a/)p(8) (1)t(')(i/)n (1)yan_
+        [[cau4 daap3 tin1 jan1 酬答天恩]],
+        to requite heaven's favor---in being saved from fire.
+    ==
+  ====
 $$
