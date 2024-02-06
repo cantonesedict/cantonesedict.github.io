@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [cau1](#1)
+- [cau4](#4)
 ==
 </nav>
 <## /tones ##>
@@ -222,4 +223,53 @@ W
     - A strainer made of wicker or bamboo for straining spirits.
     ==
   ====
+$$
+
+
+##{#4 .williams} (4)Ch(')au (4)Ts(')au [[cau4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways">
+=={.modern}
+- $仇4
+==
+</nav>
+<## /tone-4-characters ##>
+
+### 仇4 | _(4)Ch(')au_ [[cau4]]
+
+$$
+R
+  ⼈ + 2
+U
+  U+4EC7
+F
+  ==
+  - [[F1.52 讐]] 寃讐
+  - [[F1.52 仇]] 同上
+  ==
+W
+  ====
+  - [[Page~26|n69 (4)讐(4)仇]]
+    --
+    [[Reading variation. **See $仇sau4 for the canonical entry.**]]
+    --
+  ====
+C
+  ====
+  - Williams does not provide separate entries for 仇 and $讐4.
+    In modern usage:
+    ==
+    - The "enmity" sense is spelt 仇 and commonly read _(4)shau_ [[sau4]];
+      see $仇sau4.
+    - The "proofread" sense is spelt 讎 and read _(4)ch(')au_ [[cau4]];
+      see $讎cau4.
+    ==
+    I have split things up accordingly.
+  ====
+S
+  ==
+  - $仇kau4 (TODO)
+  - $仇sau4 (TODO)
+  ==
 $$
