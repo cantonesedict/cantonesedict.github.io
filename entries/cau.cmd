@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $抽1
+- $篘1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -170,5 +171,25 @@ E
     ++
     1. To fight one-on-one.
     ++
+  ====
+$$
+
+### 篘1 | _(1)Ch(')au_ [[cau1]]
+
+$$
+R
+  ⽵ + 10
+U
+  U+7BD8
+F
+  ==
+  - [[F1.50 篘]] 酒篘
+  ==
+W
+  ====
+  - [[Page~26|n69 (1)篘]]
+    ==
+    - A strainer made of wicker or bamboo for straining spirits.
+    ==
   ====
 $$
