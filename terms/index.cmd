@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of Cantonese terms by Jyutping
-* %date-modified --> 2024-02-05
+* %date-modified --> 2024-02-06
 * %copyright-prior-years --> 2023--
 * %meta-description --> searchable index of Cantonese terms by Jyutping
 
@@ -239,6 +239,12 @@ window.onload = applyFilter;
     , cat6
     , [𨳍](/entries/cat#cantonese-𨳍)
   //
+    , cau1
+    , [抽](/entries/cau#cantonese-抽)
+  //
+    , cau1 hei3 sin3
+    , [抽氣扇](/entries/cau#cantonese-抽氣扇)
+  //
     , daa2 laang5 zan3
     , [打冷震](/entries/zan#cantonese-打冷震)
   //
@@ -290,11 +296,17 @@ window.onload = applyFilter;
     , lou5 can3
     , [老襯](/entries/can#cantonese-老襯)
   //
+    , lou5 cau1
+    , [老抽](/entries/cau#cantonese-老抽)
+  //
     , mou5 zoeng1 lei6
     , [周身刀冇張利](/entries/zau#cantonese-周身刀冇張利)
   //
     , mun4 caam5
     , [門棖](/entries/caam#cantonese-門棖)
+  //
+    , saang1 cau1
+    , [生抽](/entries/cau#cantonese-生抽)
   //
     , waa6 zaai1
     , [話齋](/entries/zaai#cantonese-話齋)
@@ -499,6 +511,9 @@ window.onload = applyFilter;
   //
     , zau6 lai4
     , [就嚟](/entries/zau#cantonese-就嚟)
+  //
+    , zek3 cau1
+    , [隻抽](/entries/cau#cantonese-隻抽)
 ''
 ||||
 <## /terms-table ##>
