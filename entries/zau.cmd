@@ -1353,6 +1353,7 @@ $$
 - $冑6
 - $宙6
 - $就6
+- $岫6
 - $籀6
 - $籒6
 - $紂6
@@ -1532,6 +1533,31 @@ E
     1. Soon.
     ++
   ====
+$$
+
+### 岫6 | _Tsau(6)_ [[zau6]]
+
+$$
+R
+  ⼭ + 5
+U
+  U+5CAB
+F
+  ==
+  - [[F1.55 ::[岫]::]] ::山有石穴曰[岫]::
+  ==
+W
+  ====
+  - [[Page~562 岫(6)]]
+    ==
+    - A den, a cave among the hills;
+    - a glen, a ravine, gorge, or defile.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword 油 to 岫.
+  ==
 $$
 
 ###+ 籀6 | _Chau(6)_ [[zau6]]
