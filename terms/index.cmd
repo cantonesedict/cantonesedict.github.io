@@ -272,6 +272,9 @@ window.onload = applyFilter;
     , jaang3 toi4-2 goek3
     , [𨅝檯腳](/entries/caang#cantonese-𨅝檯腳)
   //
+    , jat1 cau1 ji6 nang3
+    , [一抽二褦](/entries/cau#cantonese-一抽二褦)
+  //
     , jat1 zan6
     , [一陣~\(moment\)](/entries/zan#cantonese-一陣-moment)
   //

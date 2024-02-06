@@ -137,7 +137,8 @@ E
   ====
   - 【抽】 (cau1):
     ++
-    1. Classifier for things in a bunch that will fall together when lifted.
+    1. Classifier for things in a bunch that will fall together
+       when carried by holding the top (or a handle or similar at the top).
        ==
        - 大抽鎖匙 (daai6 cau1 so2 si4): "Big bunch of keys."
        ==
@@ -151,6 +152,11 @@ E
   - 【抽氣扇】 (cau1 hei3 sin3):
     ++
     1. A ventilating fan.
+    ++
+  - 【一抽二褦】 (jat1 cau1 ji6 nang3):
+    ++
+    1. Many bags or much baggage to be carried.
+       (Literally, "one carried-bunch [and] two linked-bunches".)
     ++
   - 【老抽】 (lou5 cau1):
     ++
