@@ -172,6 +172,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $讎cau4
       - $讐cau4
       ==
       </nav>
