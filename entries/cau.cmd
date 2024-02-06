@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $抽1
+- $瘳1
 - $篘1
 ==
 </nav>
@@ -172,6 +173,35 @@ E
     1. To fight one-on-one.
     ++
   ====
+$$
+
+### 瘳1 | _(1)Ch(')au_ [[cau1]]
+
+$$
+R
+  ⽧ + 11
+U
+  U+7633
+F
+  ==
+  - [[F1.50 瘳]] 病好曰瘳
+  ==
+W
+  ====
+  - [[Page~26|n69 (1)瘳]]
+    ==
+    - Convalescent;
+    - curable;
+    - to cure;
+    - _k(')(u")t(8) tsat(9) [fat](7) (1)ch(')au_
+        [[kyut3 zat6 fat1 cau1 厥疾弗瘳]],
+        his disease was incurable.
+    ==
+  ====
+C
+  ==
+  - Williams' 厥疾弗瘳: Corrected _pat(7)_ [[bat1]] to _fat(7)_ [[fat1]] per 《書經》.
+  ==
 $$
 
 ### 篘1 | _(1)Ch(')au_ [[cau1]]
