@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2024-02-05
+* %date-modified --> 2024-02-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1358,6 +1358,7 @@ $$
 - $紂6
 - $胄6
 - $酎6
+- $鷲6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -1674,4 +1675,23 @@ C
   ==
   - Fan Wan entry: Normalised ⿱執灬 to 熱.
   ==
+$$
+
+### 鷲6 | _Tsau(6)_ [[zau6]]
+
+$$
+R
+  ⿃ + 12
+U
+  U+9DF2
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~562 鷲(6)]]
+    ==
+    - A large accipitrine bird;
+    - perhaps a harpy eagle, or a whitish headed condor.
+    ==
+  ====
 $$
