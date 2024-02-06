@@ -232,6 +232,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $仇4
+- $讐4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -272,4 +273,40 @@ S
   - $仇kau4 (TODO)
   - $仇sau4 (TODO)
   ==
+$$
+
+### 讐4 | _(4)Ch(')au_ [[cau4]]
+
+$$
+R
+  ⾔ + 16
+U
+  U+8B90
+F
+  ==
+  - [[F1.52 讐]] 寃讐
+  - [[F1.52 仇]] 同上
+  ==
+W
+  ====
+  - [[Page~26|n69 (4)讐(4)仇]]
+    --
+    [[Alternative form of 仇 "enmity", and reading variation. **See $仇sau4 for the canonical entry.**]]
+    --
+    --
+    [[Alternative form of 讎 "proofread". **See $讎cau4 for the canonical entry.**]]
+    --
+  ====
+C
+  ====
+  - Williams does not provide separate entries for $仇4 and 讐.
+    In modern usage:
+    ==
+    - The "enmity" sense is spelt 仇 and commonly read _(4)shau_ [[sau4]];
+      see $仇sau4.
+    - The "proofread" sense is spelt 讎 and read _(4)ch(')au_ [[cau4]];
+      see $讎cau4.
+    ==
+    I have split things up accordingly.
+  ====
 $$
