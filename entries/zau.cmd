@@ -1360,6 +1360,7 @@ $$
 - $胄6
 - $袖6
 - $酎6
+- $驟6
 - $鷲6
 ==
 </nav>
@@ -1740,6 +1741,32 @@ W
 C
   ==
   - Fan Wan entry: Normalised ⿱執灬 to 熱.
+  ==
+$$
+
+### 驟6 | _Tsau(6)_ [[zau6]]
+
+$$
+R
+  ⾺ + 14
+U
+  U+9A5F
+F
+  ==
+  - [[F1.55 驟 _Chau(6)_ (zau6)]] 馳驟又疾速也
+  ==
+W
+  ====
+  - [[Page~562 驟(6)]]
+    --
+    [[The expected reflex is zau6 from Middle Chinese 鋤祐切,
+    but the common reading is zaau6;
+    **see $驟zaau6 for the canonical entry**.]]
+    --
+  ====
+S
+  ==
+  - $驟zaau6 (TODO)
   ==
 $$
 
