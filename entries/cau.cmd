@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2023-08-02
-* %copyright-prior-years -->
+* %date-modified --> 2024-02-06
+* %copyright-prior-years --> 2023--
 
 %%%
-
---{.modern}
-[[From Page~26|n69 (Ch(')au) and Page~562 (Ts(')au) of the original onwards.]]
---
 
 #{.williams} Ch(')au. Ts(')au. [[cau]]
 
@@ -21,3 +17,27 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [[Work in progress]]
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Ch(')au. [[Page~26|n69]]
+  - Ts(')au. [[Page~562]]
+  ==
+WP
+  ==
+  - Ch(')au <span class="modern">= [tɕʰɐu]</span>
+  - Ts(')au <span class="modern">= [tsʰɐu]</span>
+  ==
+MP
+  ==
+  - cau = [tsʰɐu], [tɕʰɐu]
+  ==
+$$
