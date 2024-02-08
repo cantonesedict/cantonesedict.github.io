@@ -118,7 +118,7 @@ C
   ==
 S
   ==
-  - $僽zau3 (TODO)
+  - $僽zau3
   ==
 $$
 
@@ -1066,6 +1066,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $僽3
 - $呪3
 - $咒3
 - $咮3
@@ -1077,6 +1078,32 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+###+ 僽3 | _Tsau(3)_ [[zau3]]
+
+$$
+R
+  ⼈ + 13
+U
+  U+50FD
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~560 (1)僽 _(1)Tsau_ (zau1); here normalised to _Tsau(3)_ (zau3)]]
+    ==
+    - To scold, to rail at;
+    - abusive, scurrilous language;
+    - _(4)sh(a/)n tsau[(3)]_
+        [[saan4 zau3 僝僽]],
+        to say outrageous things, to irritate.
+    ==
+  ====
+S
+  ==
+  - $僽zau1
+  ==
+$$
 
 ### 呪3 | _Chau(3)_ [[zau3]]
 
