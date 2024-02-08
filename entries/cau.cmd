@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2024-02-06
+* %date-modified --> 2024-02-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -232,6 +232,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $仇4
+- $幬4
 - $讎4
 - $讐4
 - $酧4
@@ -275,6 +276,31 @@ S
   ==
   - $仇kau4 (TODO)
   - $仇sau4 (TODO)
+  ==
+$$
+
+### 幬4 | _(4)Ch(')au_ [[cau4]]
+
+$$
+R
+  ⼱ + 14
+U
+  U+5E6C
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~27|n70 (4)幬]]
+    ==
+    - A single curtain on a carriage;
+    - a leather screen or partition;
+    - [[see $幬dou6 for "cover" senses]].
+    ==
+  ====
+S
+  ==
+  - $幬dou6 (TODO)
+  - $幬tou4 (TODO)
   ==
 $$
 
