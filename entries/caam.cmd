@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2024-02-01
+* %date-modified --> 2024-02-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -389,17 +389,17 @@ W
     - a pandean pipe;
     - a hair-pin;
     - an open basket like a fan;
-    - _fat(9) (2)ts(')(a/)m_
-        [[fat6 caam2]],
+    - _fat(7) (2)ts(')(a/)m_
+        [[fat1 caam2 㧾篸]],
         a basket scuttle;
     - _(1)f(u/)i (2)ts(')(a/)m_
-        [[fui1 caam2]],
+        [[fui1 caam2 灰篸]],
         a mortar-hod;
     - _kuk(7) (1)tau (2)ts(')(a/)m_
-        [[guk1 dau1 caam2]],
+        [[guk1 dau1 caam2 榖兜篸]],
         a grain fan;
     - _l(a/)p(9) s(a/)p(8) (2)ts(')(a/)m_
-        [[laap6 saap3 caam2]],
+        [[laap6 saap3 caam2 垃圾篸]],
         a dirt basket.
     ==
   ====
