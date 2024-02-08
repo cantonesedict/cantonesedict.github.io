@@ -677,6 +677,7 @@ For all radicals, see [Index of characters by radical](./).
       - $栖cai1
       - $棲cai1
       - $椆cau4
+      - $椆zau3
       - $棧zaan2
       - $棧zaan6
       - $棦zaang1

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2024-02-06
+* %date-modified --> 2024-02-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1071,6 +1071,7 @@ $$
 - $咮3
 - $奏3
 - $晝3
+- $椆3
 - $皺3
 - $縐3
 ==
@@ -1265,6 +1266,29 @@ W
         afternoon.
     ==
   ====
+$$
+
+###+ 椆3 | _Chau(3)_ [[zau3]]
+
+$$
+R
+  ⽊ + 8
+U
+  U+6906
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~27|n70 (4)椆 _(4)Ch(')au_ (cau4); here corrected to _Chau(3)_ (zau3)]]
+    ==
+    - [[...]];
+    - a pole for poling boats.
+    ==
+  ====
+S
+  ==
+  - $椆cau4
+  ==
 $$
 
 ### 皺3 | _Tsau(3)_ [[zau3]]
