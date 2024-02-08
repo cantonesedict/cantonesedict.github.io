@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zan
-* %date-modified --> 2024-02-01
+* %date-modified --> 2024-02-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -480,7 +480,7 @@ W
     - to shiver;
     - the 51st diagram, belongs to thunder;
     - to shake, as by thunder;
-    - to quicken, as a fœtus;
+    - to quicken, as a fœtus [[correctly _(1)shan_ (san1); see $娠san1]];
     - to awe, to impress;
     - thundering, terrible, as a sound;
     - dire, awful;
@@ -508,8 +508,6 @@ W
 C
   ==
   - Fan Wan entry: Corrected ⿰亻瞿 to 懼.
-  - Strictly, the "quicken" sense is to be read _(1)shan_ [[san1]]
-    as it is a variant of 娠.
   - Williams' 震驚: Corrected _(1)keng_ [[geng1]] to _(1)king_ [[ging1]].
   ==
 E
