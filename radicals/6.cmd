@@ -115,6 +115,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $篸caam1
       - $篸caam2
+      - $篸zaam1
       - $簀zaai3
       - $簀zaak3
       - $簀zak1

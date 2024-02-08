@@ -214,8 +214,7 @@ W
     ==
     - Bamboos varying in length;
     - a pandean pipe;
-    - [[see $篸zaam1 for "hair-pin" sense]];
-    - [[see $篸caam2 for "bamboo fan-basket" senses]].
+    - [[...]].
     ==
   ====
 C
@@ -227,7 +226,7 @@ C
 S
   ==
   - $篸caam2
-  - $篸zaam1 (TODO)
+  - $篸zaam1
   ==
 $$
 
@@ -419,7 +418,7 @@ W
   - [[Page~554 (2)篸]]
     ==
     - [[See $篸caam1 for "irregular bamboo / pipe" senses]];
-    - a hair-pin;
+    - [[see $篸zaam1 for "hairpin" sense]];
     - an open basket like a fan;
     - _fat(7) (2)ts(')(a/)m_
         [[fat1 caam2 㧾篸]],
@@ -435,19 +434,10 @@ W
         a dirt basket.
     ==
   ====
-C
-  ====
-  - Strictly:
-    ==
-    - The "hair-pin" sense is to be read _(1)ts(a/)m_ [[zaam1]]
-      as it is a variant of 簪.
-    ==
-    Only the vernacular "open basket" sense should be read _(2)ts(')(a/)m_ [[caam2]].
-  ====
 S
   ==
   - $篸caam1
-  - $篸zaam1 (TODO)
+  - $篸zaam1
   ==
 $$
 

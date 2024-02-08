@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2024-01-24
+* %date-modified --> 2024-02-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -47,10 +47,39 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $篸1
 - $簪1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+###+ 篸1 | _(1)Ts(a/)m_ [[zaam1]]
+
+$$
+R
+  ⽵ + 11
+U
+  U+7BF8
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~554 (2)篸 _Ts(')(a/)m_ (caam2); here corrected to _(1)Ts(a/)m_ (zaam1)]]
+    --
+    [[Alternative form of 簪. **See $簪zaam1 for the canonical entry.**]]
+    --
+    ==
+    - [[...]];
+    - a hair-pin;
+    - [[...]].
+    ==
+  ====
+S
+  ==
+  - $篸caam1
+  - $篸caam2
+  ==
+$$
 
 ### 簪1 | _(1)Ts(a/)m_ [[zaam1]]
 
@@ -59,6 +88,10 @@ R
   ⽵ + 12
 U
   U+7C2A
+A
+  ==
+  -{.modern} $篸1
+  ==
 F
   ==
   - [[F2.63 簪]] 首飾也又聚也
