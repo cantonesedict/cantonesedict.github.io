@@ -233,6 +233,7 @@ $$
 =={.modern}
 - $仇4
 - $幬4
+- $椆4
 - $讎4
 - $讐4
 - $酧4
@@ -301,6 +302,29 @@ S
   ==
   - $幬dou6 (TODO)
   - $幬tou4 (TODO)
+  ==
+$$
+
+### 椆4 | _(4)Ch(')au_ [[cau4]]
+
+$$
+R
+  ⽊ + 8
+U
+  U+6906
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~27|n70 (4)椆]]
+    ==
+    - A hard kind of wood resembling rose wood;
+    - [[see $椆zau3 for "boat-pole" senses]].
+    ==
+  ====
+S
+  ==
+  - $椆zau3 (TODO)
   ==
 $$
 
