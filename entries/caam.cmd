@@ -50,6 +50,7 @@ $$
 - $參1
 - $叅1
 - $攙1
+- $篸1
 - $驂1
 ==
 </nav>
@@ -195,6 +196,38 @@ C
 S
   ==
   - $攙caam4
+  ==
+$$
+
+###+ 篸1 | _(1)Ts(')(a/)m_ [[caam1]]
+
+$$
+R
+  ⽵ + 11
+U
+  U+7BF8
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~554 (2)篸 _Ts(')(a/)m_ (caam2); here corrected to _(1)Ts(')(a/)m_ (caam1)]]
+    ==
+    - Bamboos varying in length;
+    - a pandean pipe;
+    - [[see $篸zaam1 for "hair-pin" sense]];
+    - [[see $篸caam2 for "bamboo fan-basket" senses]].
+    ==
+  ====
+C
+  ==
+  - Strictly, the reading is _(1)ch(')(a/)m_ [[caam1]];
+    Kangxi quotes 《集韻》初簪切 for the phrase 篸𥰭 [[⿱𥫗差]],
+    which is the bamboo version of 參差.
+  ==
+S
+  ==
+  - $篸caam2
+  - $篸zaam1 (TODO)
   ==
 $$
 
@@ -385,8 +418,7 @@ W
   ====
   - [[Page~554 (2)篸]]
     ==
-    - Bamboos varying in length;
-    - a pandean pipe;
+    - [[See $篸caam1 for "irregular bamboo / pipe" senses]];
     - a hair-pin;
     - an open basket like a fan;
     - _fat(7) (2)ts(')(a/)m_
@@ -407,14 +439,16 @@ C
   ====
   - Strictly:
     ==
-    - The "pandean pipe" sense is to be read _(1)ch(')(a/)m_ [[caam1]]
-      (Kangxi quotes 《集韻》初簪切 for the phrase 篸𥰭 [[⿱𥫗差]],
-      which is the bamboo version of 參差).
     - The "hair-pin" sense is to be read _(1)ts(a/)m_ [[zaam1]]
       as it is a variant of 簪.
     ==
     Only the vernacular "open basket" sense should be read _(2)ts(')(a/)m_ [[caam2]].
   ====
+S
+  ==
+  - $篸caam1
+  - $篸zaam1 (TODO)
+  ==
 $$
 
 
