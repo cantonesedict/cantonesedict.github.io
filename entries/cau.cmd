@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2024-02-09
+* %date-modified --> 2024-02-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -620,8 +620,8 @@ W
     - Silk;
     - pongee, senshaw, levantine, lustring;
     - [[...]]
-    - _(1)shang (4)ch(')au_
-        [[sang1 cau4 / saang1 cau4 生綢]],
+    - _(1)[sh(a/)ng] (4)ch(')au_
+        [[saang1 cau4 生綢]],
         stiff pongee;
     - _shuk(9) (4)ch(')au_
         [[suk6 cau4 熟綢]],
@@ -664,6 +664,11 @@ W
     Also read _(1)t(')(o\)_ [[tou1]]; [[**see $綢tou1**]].
     --
   ====
+C
+  ==
+  - Williams' 生綢: Changed _(1)shang_ [[sang1]]
+    to vernacular reading _(1)sh(a/)ng_ [[saang1]].
+  ==
 S
   ==
   - $綢tou1 (TODO)

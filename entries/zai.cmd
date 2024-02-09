@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2024-02-09
+* %date-modified --> 2024-02-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -892,7 +892,7 @@ W
     - to join, to begin;
     - the time of occurring, now, since;
     - _(2)sz' (1)shang (1)ch(i/) tsai(3)_
-        [[si2 sang1 zi1 zai3 / sei2 sang1 zi1 zai3 死生之際]]
+        [[si2 sang1 zi1 zai3 死生之際]]
         between life aud death;
     - _tsai(3) ts(i/)p(8)_
         [[zai3 zip3 際接]]

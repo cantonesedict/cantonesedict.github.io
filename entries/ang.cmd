@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ang
-* %date-modified --> 2024-01-07
+* %date-modified --> 2024-02-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -221,14 +221,19 @@ W
     - _(2)ang (1)f(a/)_
         [[ang2 faa1 㾘花]],
         to emboss;
-    - _(1)shang shek(9) (2)ang_
-        [[sang1 sek6 ang2 / saang1 sek6 ang2 生石㾘]],
+    - _(1)[sh(a/)ng] shek(9) (2)ang_
+        [[saang1 sek6 ang2 生石㾘]],
         to have a stone bruise;
     - _(2)ang (1)sam_
         [[ang2 sam1 㾘心]],
         to disturb one, as bad news; painful.
     ==
   ====
+C
+  ==
+  - Williams' 生石㾘: Changed _(1)shang_ [[sang1]]
+    to vernacular reading _(1)sh(a/)ng_ [[saang1]].
+  ==
 E
   ====
   - 【㾘】 (ang2):

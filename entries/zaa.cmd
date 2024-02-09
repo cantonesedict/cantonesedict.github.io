@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2024-02-01
+* %date-modified --> 2024-02-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -695,11 +695,16 @@ W
     ==
     - A running ulcer;
     - a severe disease;
-    - _(1)shang ch(a/)[(3)] (1)soi_
-        [[sang1 zaa3 soi1 / saang1 zaa3 soi1 生痄腮]],
+    - _(1)[sh(a/)ng] ch(a/)[(3)] (1)soi_
+        [[saang1 zaa3 soi1 生痄腮]],
         a swelling on the cheek.
     ==
   ====
+C
+  ==
+  - Williams' 生痄腮: Changed _(1)shang_ [[sang1]]
+    to vernacular reading _(1)sh(a/)ng_ [[saang1]].
+  ==
 S
   ==
   - $痄zaa2

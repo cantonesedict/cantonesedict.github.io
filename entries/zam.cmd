@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2024-01-23
+* %date-modified --> 2024-02-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -527,7 +527,7 @@ W
     - to pillow on, to lie near to;
     - contiguous, adjacent, lying on;
     - _(2)sz' (2)ch(e/) (1)s(e/)ung cham[(3)] tsik(9)_
-        [[si2 ze2 soeng1 zam3 zik6 / sei2 ze2 soeng1 zam3 zik6 死者相枕藉]]
+        [[si2 ze2 soeng1 zam3 zik6 死者相枕藉]]
         the dead lay pillowed on each other;
     - [[...]]
     - _[k(')uk](7) (1)kwang (4)(i/) cham[(3)]_
@@ -620,7 +620,7 @@ W
     - drenched, wet, imbued with, watered;
     - gradually, gently;
     - _tsam(3) (2)sz'_
-        [[zam3 si2 / zam3 sei2 浸死]]
+        [[zam3 sei2 浸死]]
         drowned;
     - _tsam(3) (4)t(')ong_
         [[zam3 tong4 浸糖]]^

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaat
-* %date-modified --> 2024-02-01
+* %date-modified --> 2024-02-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -178,7 +178,7 @@ W
         [[jat1 zaat3 faa1 一紮花]],
         a nosegay;
     - _ch(a/)t(8) tak(7) (1)shang_
-        [[zaat3 dak1 sang1 / zaat3 dak1 saang1 紮得生]],
+        [[zaat3 dak1 sang1 紮得生]],
         cut out to the life.
     ==
   ====

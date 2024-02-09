@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2024-01-23
+* %date-modified --> 2024-02-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -695,7 +695,7 @@ W
         [[aa6 hou2 呀好]],
         yes, well;
     - _sz'(3) (a/)(6) (4)ts(')(i/)n_
-        [[si3 aa6 cin4 / sei3 aa6 cin4 四呀錢]],
+        [[sei3 aa6 cin4 四呀錢]],
         forty cash.
     ==
   ====
