@@ -260,6 +260,7 @@ $$
 - $仇4
 - $儔4
 - $幬4
+- $惆4
 - $椆4
 - $疇4
 - $紬4
@@ -368,6 +369,31 @@ S
   - $幬dou6 (TODO)
   - $幬tou4 (TODO)
   ==
+$$
+
+### 惆4 | _(4)Ch(')au_ [[cau4]]
+
+$$
+R
+  ⼼ + 8
+U
+  U+60C6
+F
+  ==
+  - [[F1.52 惆]] 惆悵
+  ==
+W
+  ====
+  - [[Page~27|n70 (4)惆]]
+    ==
+    - Disappointed;
+    - deceived;
+    - frustrated;
+    - _(4)ch(')au ch(e/)ung(3)_
+        [[cau4 zoeng3 惆悵]]
+        sad, sick at heart.
+    ==
+  ====
 $$
 
 ### 椆4 | _(4)Ch(')au_ [[cau4]]
