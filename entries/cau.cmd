@@ -232,6 +232,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $仇4
+- $儔4
 - $幬4
 - $椆4
 - $疇4
@@ -280,6 +281,40 @@ S
   - $仇kau4 (TODO)
   - $仇sau4 (TODO)
   ==
+$$
+
+### 儔4 | _(4)Ch(')au_ [[cau4]]
+
+$$
+R
+  ⼈ + 14
+U
+  U+5114
+F
+  ==
+  - [[F1.52]] 侣也衆也等類也
+  ==
+W
+  ====
+  - [[Page~27|n70 (4)儔]]
+    --
+    Used for the preceding [[$疇4]].
+    --
+    ==
+    - A company of four;
+    - a party;
+    - a comrade;
+    - a mate, fellows, friends;
+    - a class;
+    - _(4)ch(')au lui(6)_
+        [[cau4 leoi6 儔類]]
+        a concourse;
+        to assist, to sympathize;
+    - _(4)ch(')au (2)tong_
+        [[cau4 dong2 儔黨]],
+        to join one's clique or party.
+    ==
+  ====
 $$
 
 ### 幬4 | _(4)Ch(')au_ [[cau4]]
