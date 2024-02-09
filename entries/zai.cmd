@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2024-02-05
+* %date-modified --> 2024-02-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -137,6 +137,9 @@ E
        ==
        - 擠喺度 (zai1 hai2 dou6): "Put [it] over here."
        ==
+    ++
+  - 【擠迫】 (zai1 bik1):
+    ++
     1. Crowded.
        ==
        - 人多擠迫 (jan4 do1 zai1 bik1): "Lots of people [and] crowded."
