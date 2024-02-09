@@ -265,6 +265,7 @@ $$
 - $犨4
 - $疇4
 - $稠4
+- $籌4
 - $紬4
 - $綢4
 - $裯4
@@ -501,6 +502,72 @@ W
         [[cau4 mat6 稠密]]
         close, crowded, intimate.
     ==
+  ====
+$$
+
+### 籌4 | _(4)Ch(')au_ [[cau4]]
+
+$$
+R
+  ⽵ + 14
+U
+  U+7C4C
+V
+  ==
+  - cau4-2 (vernacular rising-tone noun)
+  ==
+F
+  ==
+  - [[F1.52 籌]] 算也又壺矢也
+  ==
+W
+  ====
+  - [[Page~28|n71 (4)籌]]
+    ==
+    - To compute, to calculate;
+    - to devise, to plan, to arrange;
+    - a lot;
+    - a reed;
+    - a time, a tally, a tillot;
+    - _chap(7) (4)ch(')au_ [[zap1 cau4-2 執籌]]^
+        or
+      _(4)ts(')(i/)m (4)ch(')au_ [[cim4 cau4-2 撍籌]],
+        to draw lots;
+    - _(1)[k(a/)ng] (4)ch(')au_
+        [[gaang1 cau4 更籌]],
+        a watchman beating the hour;
+    - _tuk(9) (2)k(i/) (4)ch(')au (1)sh(u")_
+        [[duk6 gei2 cau4 syu1 讀幾籌書]],
+        how many times have you studied it?
+    - _p(')(a/)i(3) (4)ch(')au_
+        [[paai3 cau4-2 派籌]],
+        to give tickets;
+    - _(4)ch(')au ch(')(a/)k(8)_
+        [[cau4 caak3 籌策]]
+        a stratagem;
+        to scheme;
+    - _(4)ch(')au w(a/)k(9)_
+        [[cau4 waak6 籌劃]]
+        to settle a plan of action;
+    - _(4)ch(')au (2)ch(')(i/)_
+        [[cau4 ci2 籌矢]],
+        wands thrown into a jar, a sort of game.
+    ==
+  ====
+C
+  ==
+  - Williams' 更籌: Corrected _(1)kang_ [[gang1]] to _(1)k(a/)ng_ [[gaang1]].
+  ==
+E
+  ====
+  - 【籌】 (cau4-2):
+    ++
+    1. A ticket or a token for a queue or allocation.
+       ==
+       - 派籌 (paai3 cau4-2): "Handing out tickets."
+       - 攞籌 (lo2 cau4-2): "Getting [a] ticket."
+       ==
+    ++
   ====
 $$
 

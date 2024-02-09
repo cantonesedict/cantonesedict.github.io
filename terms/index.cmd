@@ -245,6 +245,9 @@ window.onload = applyFilter;
     , cau1 hei3 sin3
     , [抽氣扇](/entries/cau#cantonese-抽氣扇)
   //
+    , cau4-2
+    , [籌](/entries/cau#cantonese-籌)
+  //
     , daa2 laang5 zan3
     , [打冷震](/entries/zan#cantonese-打冷震)
   //

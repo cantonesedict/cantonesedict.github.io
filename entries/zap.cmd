@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zap
-* %date-modified --> 2024-01-23
+* %date-modified --> 2024-02-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -101,7 +101,7 @@ W
         [[zap1 zi6 執字]]
         to set types;
     - _chap(7) (4)ch(')au_
-        [[zap1 cau4 執籌]],
+        [[zap1 cau4-2 執籌]],
         to draw lots;
     - _chap(7) (1)chung_
         [[zap1 zung1 執中]],
