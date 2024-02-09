@@ -263,6 +263,7 @@ $$
 - $惆4
 - $椆4
 - $疇4
+- $稠4
 - $紬4
 - $綢4
 - $裯4
@@ -444,6 +445,37 @@ W
     - _(4)ch(')au sik(7)_
         [[cau4 sik1 疇昔]]
         formerly, in time past.
+    ==
+  ====
+$$
+
+### 稠4 | _(4)Ch(')au_ [[cau4]]
+
+$$
+R
+  ⽲ + 8
+U
+  U+7A20
+F
+  ==
+  - [[F1.52 稠]] 密也
+  ==
+W
+  ====
+  - [[Page~27|n70 (4)稠]]
+    ==
+    - Grain growing close;
+    - thick set, close together;
+    - crowded, dense;
+    - _(4)yan (1)(i/)n (4)ch(')au mat(9)_
+        [[jan4 jin1 cau4 mat6 人煙稠密]]
+        people closely crowded;
+    - _(2)hung (4)ch(')au (4)yan (1)chung (4)mai shat(7)_
+        [[hung2 cau4 jan4 zung1 mai4 sat1 恐稠人中迷失]]
+        lest they should lose each other in the crowd;
+    - _(4)ch(')au mat(9)_
+        [[cau4 mat6 稠密]]
+        close, crowded, intimate.
     ==
   ====
 $$
