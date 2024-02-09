@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2024-02-08
+* %date-modified --> 2024-02-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -234,6 +234,7 @@ $$
 - $仇4
 - $幬4
 - $椆4
+- $裯4
 - $讎4
 - $讐4
 - $酧4
@@ -325,6 +326,36 @@ W
 S
   ==
   - $椆zau3
+  ==
+$$
+
+### 裯4 | _(4)Ch(')au_ [[cau4]]
+
+$$
+R
+  ⾐ + 8
+U
+  U+88EF
+F
+  ==
+  - [[F1.52 裯]] 單被也
+  ==
+W
+  ====
+  - [[Page~27|n70 (4)裯]]
+    ==
+    - A single coverlet;
+    - a bed curtain;
+    - an under-shirt;
+    - to cover, as with bed clothes.
+    ==
+    --
+    Read _(1)t(o\)_ [[dou1]]; [[**see $裯dou1**]].
+    --
+  ====
+S
+  ==
+  - $裯dou1 (TODO)
   ==
 $$
 
