@@ -237,6 +237,7 @@ $$
 - $椆4
 - $疇4
 - $紬4
+- $綢4
 - $裯4
 - $讎4
 - $讐4
@@ -411,15 +412,48 @@ W
   ====
   - [[Page~27|n70 (4)紬]]
     ==
+    - [[See $綢cau4 for "silk" senses]];
+    - [[see $紬cau1 for "draw out" senses]].
+    ==
+  ====
+S
+  ==
+  - $紬cau1 (TODO)
+  ==
+$$
+
+### 綢4 | _(4)Ch(')au_ [[cau4]]
+
+$$
+R
+  ⽷ + 8
+U
+  U+7DA2
+A
+  ==
+  - $紬4
+  ==
+F
+  ==
+  - [[F1.52 綢]] 綢緞又密也纏也
+  - [[F1.52 紬]] 同上
+  ==
+W
+  ====
+  - [[Page~27|n70 (4)紬; here normalised to 綢]]
+    ==
     - Silk;
     - pongee, senshaw, levantine, lustring;
+    - [[...]]
+    <##
     - to draw out threads for weaving;
     - to arrange the details of a subject, to search for first causes;
+    ##>
     - _(1)shang (4)ch(')au_
-        [[sang1 cau4 / saang1 cau4 生紬]],
+        [[sang1 cau4 / saang1 cau4 生綢]],
         stiff pongee;
     - _shuk(9) (4)ch(')au_
-        [[suk6 cau4 熟紬]],
+        [[suk6 cau4 熟綢]],
         soft silk;
     - _(4)ning (4)ch(')au_
         [[ning4 cau4 寧綢]],
