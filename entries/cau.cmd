@@ -500,6 +500,25 @@ W
         Sz'chuen [[四川]] pongee.
     ==
   ====
+  ====
+  - [[Page~27|n70 (4)綢]]
+    ==
+    - Used for the last [[$紬4]], when denoting silk;
+    - to bind, to wrap around, to twine about;
+    - close, thick, crowded;
+    - _(4)ch(')au (4)mau_
+        [[cau4 mau4 綢繆]],
+        to tie up;
+        to be intimate with, to consult upon.
+    ==
+    --
+    Also read _(1)t(')(o\)_ [[tou1]]; [[**see $綢tou1**]].
+    --
+  ====
+S
+  ==
+  - $綢tou1 (TODO)
+  ==
 $$
 
 ### 裯4 | _(4)Ch(')au_ [[cau4]]
