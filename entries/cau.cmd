@@ -236,6 +236,7 @@ $$
 - $幬4
 - $椆4
 - $疇4
+- $紬4
 - $裯4
 - $讎4
 - $讐4
@@ -390,6 +391,57 @@ W
     - _(4)ch(')au sik(7)_
         [[cau4 sik1 疇昔]]
         formerly, in time past.
+    ==
+  ====
+$$
+
+### 紬4 | _(4)Ch(')au_ [[cau4]]
+
+$$
+R
+  ⽷ + 5
+U
+  U+7D2C
+F
+  ==
+  - [[F1.52 綢]] 綢緞又密也纏也
+  - [[F1.52 紬]] 同上
+  ==
+W
+  ====
+  - [[Page~27|n70 (4)紬]]
+    ==
+    - Silk;
+    - pongee, senshaw, levantine, lustring;
+    - to draw out threads for weaving;
+    - to arrange the details of a subject, to search for first causes;
+    - _(1)shang (4)ch(')au_
+        [[sang1 cau4 / saang1 cau4 生紬]],
+        stiff pongee;
+    - _shuk(9) (4)ch(')au_
+        [[suk6 cau4 熟紬]],
+        soft silk;
+    - _(4)ning (4)ch(')au_
+        [[ning4 cau4 寧綢]],
+        finest pongee;
+    - _(4)sh(u") (4)l(e/)ung (4)ch(')au_
+        [[syu4 loeng4 cau4 薯莨綢]],
+        rust colored senshaw;
+    - _(4)ch(')au t(u")n(6)_
+        [[cau4 dyun6 綢緞]]
+        silks and satins;
+    - _(2)fong (4)ch(')au_
+        [[fong2 cau4 紡綢]],
+        reeled pongee;
+    - _(4)m(i/)n (4)ch(')au_
+        [[min4 cau4 綿綢]],
+        fabric of silk and cotton;
+    - _(2)k(a/)n (4)ch(')au_
+        [[gaan2 cau4 繭綢]],
+        coarse rough serge;
+    - _(1)ch(')(u")n (4)ch(')au_
+        [[cyun1 cau4 川綢]],
+        Sz'chuen [[四川]] pongee.
     ==
   ====
 $$
