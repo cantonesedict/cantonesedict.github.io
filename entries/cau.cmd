@@ -53,6 +53,7 @@ $$
 - $抽1
 - $瘳1
 - $篘1
+- $紬1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -223,6 +224,31 @@ W
     - A strainer made of wicker or bamboo for straining spirits.
     ==
   ====
+$$
+
+###+ 紬1 | _(1)Ch(')au_ [[cau1]]
+
+$$
+R
+  ⽷ + 5
+U
+  U+7D2C
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~27|n70 (4)紬 _(4)Ch(')au_ (cau4); here corrected to _(1)Ch(')au_ (cau1)]]
+    ==
+    - [[...]];
+    - to draw out threads for weaving;
+    - to arrange the details of a subject, to search for first causes;
+    - [[...]].
+    ==
+  ====
+S
+  ==
+  - $紬cau4
+  ==
 $$
 
 
@@ -418,7 +444,7 @@ W
   ====
 S
   ==
-  - $紬cau1 (TODO)
+  - $紬cau1
   ==
 $$
 
@@ -445,10 +471,6 @@ W
     - Silk;
     - pongee, senshaw, levantine, lustring;
     - [[...]]
-    <##
-    - to draw out threads for weaving;
-    - to arrange the details of a subject, to search for first causes;
-    ##>
     - _(1)shang (4)ch(')au_
         [[sang1 cau4 / saang1 cau4 生綢]],
         stiff pongee;
