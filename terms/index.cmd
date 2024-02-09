@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of Cantonese terms by Jyutping
-* %date-modified --> 2024-02-09
+* %date-modified --> 2024-02-10
 * %copyright-prior-years --> 2023--
 * %meta-description --> searchable index of Cantonese terms by Jyutping
 
@@ -245,6 +245,9 @@ window.onload = applyFilter;
     , cau1 hei3 sin3
     , [抽氣扇](/entries/cau#cantonese-抽氣扇)
   //
+    , cau2 joeng6-2
+    , [醜樣](/entries/cau#cantonese-醜樣)
+  //
     , cau4-2
     , [籌](/entries/cau#cantonese-籌)
   //
@@ -310,6 +313,9 @@ window.onload = applyFilter;
   //
     , mun4 caam5
     , [門棖](/entries/caam#cantonese-門棖)
+  //
+    , paa3 cau2
+    , [怕醜](/entries/cau#cantonese-怕醜)
   //
     , saang1 cau1
     , [生抽](/entries/cau#cantonese-生抽)

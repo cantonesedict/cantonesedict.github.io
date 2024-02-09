@@ -259,6 +259,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $丑2
+- $醜2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -283,6 +284,85 @@ W
     - it is denoted by an ox,
       and persons born in this hour are likely to be dull.
     ==
+  ====
+$$
+
+### 醜2 | _(2)Ch(')au_ [[cau2]]
+
+$$
+R
+  ⾣ + 10
+U
+  U+919C
+F
+  ==
+  - [[F1.54 醜]] 惡也不美也又醜類
+  ==
+W
+  ====
+  - [[Page~28|n71 (2)醜]]
+    ==
+    - Ugly, deformed, vile, ill looking;
+    - disagreeable;
+    - disgraceful, shameful, ashamed;
+    - to hate, to dislike;
+    - shamefaced;
+    - ashamed of;
+    - to compare;
+    - a group, a sort;
+    - _k(i/)n(3) (2)ch(')au pat(7) (4)(u") (4)ts(')ong ch(u")t(8)_
+        [[gin3 cau2 bat1 jyu4 cong4 zyut3 見醜不如藏拙]]
+        to shame one is worse than keeping one's incapacity private;
+    - _[m(e/)ng](6) (2)ch(')au_
+        [[meng6 cau2 命醜]]^
+        an unhappy lot;
+    - _(2)ch(')au (4)'m (2)ch(')au_
+        [[cau2 m4 cau2 醜唔醜]],
+        are you not ashamed?
+    - _(2)ch(')au m(a/)u(6)_
+        [[cau2 maau6 醜貌]]
+        ill-looking, cross, unbeseeming;
+    - _pat(7) (1)ch(i/) (2)ch(')au_
+        [[bat1 zi1 cau2 不知醜]],
+        brazenfaced;
+    - _k(i/)n(3) (2)ch(')au_
+        [[gin3 cau2 見醜]]^
+        ashamed for;
+    - _(2)ch(')au ok(8) (4)p(')(i/) h(i/)(3)_
+        [[cau2 ok3 pei4 hei3 醜惡]]
+        vile disposition, an ingrate;
+    - _(2)ch(')au lui(6)_
+        [[cau2 leoi6 醜類]]
+        a vile set;
+    - _(2)ch(')au lau(6)_
+        [[cau2 lau6 醜陋]]
+        unworthy of him, disgraceful, wicked;
+    - _p(')(a/)(3) (2)ch(')au_
+        [[paa3 cau2 怕醜]],
+        bashful;
+    - _(2)ch(')au y(e/)ung(6)_
+        [[cau2 joeng6-2 醜樣]]
+        bad looking;
+    - _(2)ch(')au sz'(6)_
+        [[cau2 si6 醜事]]
+        a disgraceful affair.
+    ==
+  ====
+C
+  ==
+  - Willliams' 命醜: Changed _ming(6)_ [[ming6]]
+    to vernacular reading _m(e/)ng(6)_ [[meng6]].
+  ==
+E
+  ====
+  - 【醜樣】 (cau2 joeng6-2):
+    ++
+    1. Ugly.
+    ++
+  - 【怕醜】 (paa3 cau2):
+    ++
+    1. Shy or bashful.
+    ++
   ====
 $$
 
