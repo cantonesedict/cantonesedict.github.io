@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [cau1](#1)
+- [cau2](#2)
 - [cau4](#4)
 ==
 </nav>
@@ -249,6 +250,40 @@ S
   ==
   - $紬cau4
   ==
+$$
+
+
+##{#2 .williams} (2)Ch(')au [[cau2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $丑2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 丑2 | _(2)Ch(')au_ [[cau2]]
+
+$$
+R
+  ⼀ + 3
+U
+  U+4E11
+F
+  ==
+  - [[F1.54 丑]] 辰名
+  ==
+W
+  ====
+  - [[Page~28|n71 (2)丑]]
+    ==
+    - The second of the 12~horary signs;
+    - the 4th~watch, from 1 to 3~A.~M.;
+    - it is denoted by an ox,
+      and persons born in this hour are likely to be dull.
+    ==
+  ====
 $$
 
 
