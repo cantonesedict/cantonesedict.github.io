@@ -234,6 +234,7 @@ $$
 - $仇4
 - $幬4
 - $椆4
+- $疇4
 - $裯4
 - $讎4
 - $讐4
@@ -327,6 +328,35 @@ S
   ==
   - $椆zau3
   ==
+$$
+
+### 疇4 | _(4)Ch(')au_ [[cau4]]
+
+$$
+R
+  ⽥ + 14
+U
+  U+7587
+F
+  ==
+  - [[F1.52 疇]] 耕治之田也又衆也類也
+  ==
+W
+  ====
+  - [[Page~27|n70 (4)疇]]
+    ==
+    - A cultivated field;
+    - to till, to cultivate;
+    - a field of hemp;
+    - formerly, time past;
+    - to class;
+    - a class, sort;
+    - who?
+    - _(4)ch(')au sik(7)_
+        [[cau4 sik1 疇昔]]
+        formerly, in time past.
+    ==
+  ====
 $$
 
 ### 裯4 | _(4)Ch(')au_ [[cau4]]
