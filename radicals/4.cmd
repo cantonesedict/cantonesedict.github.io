@@ -1077,6 +1077,23 @@ For all radicals, see [Index of characters by radical](./).
 ## ⽜ (cow)
 
 <## radical-⽜-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 16
+    ,
+      <nav class="sideways">
+      ==
+      - $犨cau4
+      ==
+      </nav>
+''
+||||
 <## /radical-⽜-characters ##>
 
 
