@@ -269,6 +269,7 @@ $$
 - $裯4
 - $讎4
 - $讐4
+- $躊4
 - $酧4
 - $酬4
 ==
@@ -701,6 +702,27 @@ S
   ==
   - $讐sau4 (TODO)
   ==
+$$
+
+### 躊4 | _(4)Ch(')au_ [[cau4]]
+
+$$
+R
+  ⾜ + 14
+U
+  U+8E8A
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~27|n70 (4)躊]]
+    ==
+    - Embarrassed;
+    - _(4)ch(')au (4)ch(')(u")_
+        [[cau4 cyu4 躊躇]],
+        undecided, undetermined, unable to progress.
+    ==
+  ====
 $$
 
 ### 酧4 | _(4)Ch(')au_ [[cau4]]
