@@ -315,7 +315,7 @@ W
     - _k(i/)n(3) (2)ch(')au pat(7) (4)(u") (4)ts(')ong ch(u")t(8)_
         [[gin3 cau2 bat1 jyu4 cong4 zyut3 見醜不如藏拙]]
         to shame one is worse than keeping one's incapacity private;
-    - _[m(e/)ng](6) (2)ch(')au_
+    - _[meng](6) (2)ch(')au_
         [[meng6 cau2 命醜]]^
         an unhappy lot;
     - _(2)ch(')au (4)'m (2)ch(')au_
@@ -353,7 +353,7 @@ W
 C
   ==
   - Willliams' 命醜: Changed _ming(6)_ [[ming6]]
-    to vernacular reading _m(e/)ng(6)_ [[meng6]].
+    to vernacular reading _meng(6)_ [[meng6]].
   ==
 E
   ====

@@ -266,7 +266,7 @@ W
     - _(2)hoi ch(')(a/)t(8)_
         [[hoi2 caat3 海獺]]
         a seal;
-    - _ch(')(a/)t(8) (5)[l(e/)ng]_
+    - _ch(')(a/)t(8) (5)[leng]_
         [[caat3 leng5 獺領]],
         seal skin collars or tippets;
     - _ch(')(a/)t(8) (2)tsai_
@@ -277,6 +277,6 @@ W
 C
   ==
   - Williams' 獺領: Changed _(5)ling_ [[ling5]]
-    to vernacular reading _(5)l(e/)ng_ [[leng5]].
+    to vernacular reading _(5)leng_ [[leng5]].
   ==
 $$
