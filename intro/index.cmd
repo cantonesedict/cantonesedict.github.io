@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Introduction.
-* %date-modified --> 2024-01-07
+* %date-modified --> 2024-02-10
 * %copyright-prior-years --> 2023--
 * %meta-description --> Williams' introduction
 
@@ -1025,7 +1025,7 @@ in parenthesis under each number.
 [[[Page~xvii of the original]{#page-xvii}<n24> here]]
   _Ying_ [[jing]], _yik_ [[jik]],
   like _sing_, _king_, _quick_, _wing_ [[in Received Pronunciation]].
-  So many words under this order change the final into _eng_ and _ek_,
+  So many words under this order change the final into _eng_ [[eng]] and _ek_ [[ek]],
   that a separate list has been made of them in the general Table of Sounds,
   but the proportion is small;
   all the common words are noticed in the body of the Dictionary.
