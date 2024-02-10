@@ -375,6 +375,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $嗅3
+- $糗3
 - $臭3
 - $𧽒 (⿺走臭)3
 ==
@@ -402,6 +403,35 @@ W
     ==
     - To smell, to perceive odors as a dog does;
     - the plaintive cry of birds.
+    ==
+  ====
+$$
+
+### 糗3 | _Ch(')au(3)_ [[cau3]]
+
+$$
+R
+  ⽶ + 10
+U
+  U+7CD7
+V
+  ==
+  - hau2 (expected from 去久切)
+  - jau2 (common)
+  ==
+F
+  ==
+  - [[F1.55 糗]] 乾粮
+  ==
+W
+  ====
+  - [[Page~28|n71 糗(3)]]
+    ==
+    - Roasted or parched wheat or rice;
+    - coarsely pounded rice like grits;
+    - _ch(')au(3) (4)l(e/)ung_
+        [[cau3 loeng4 糗糧]],
+        dried or cured grain.
     ==
   ====
 $$

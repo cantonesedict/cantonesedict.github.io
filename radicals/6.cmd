@@ -176,6 +176,14 @@ For all radicals, see [Index of characters by radical](./).
       - $粲caan3
       ==
       </nav>
+  //
+    , 10
+    ,
+      <nav class="sideways">
+      ==
+      - $糗cau3
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⽶-characters ##>
