@@ -54,6 +54,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $偢1
+- $愀1
 - $抽1
 - $揪1
 - $揫1
@@ -91,6 +92,34 @@ C
     Kangxi quotes 《集韻》七肖切音峭傻偢不仁;
     from this, the expected reading (for the classical "malevolent" sense)
     is 去聲 ciu3, not 上聲 ciu2 as recorded by some.
+  ==
+$$
+
+### [愀]1 | _(1)Ts(')au_ [[cau1]]
+
+$$
+R
+  ⼼ + 9
+U
+  U+6100
+F
+  ==
+  - [[F1.50 愀]] 色變也
+  ==
+W
+  ====
+  - [[Page~562 (1)[偢]^]]
+    --
+    [[Idiosyncratic reading from Fan Wan; **see $愀ciu2 for the canonical entry**.]]
+    --
+  ====
+C
+  ==
+  - Williams misprints 愀 as 愁.
+  ==
+S
+  ==
+  - $愀ciu2 (TODO)
   ==
 $$
 
