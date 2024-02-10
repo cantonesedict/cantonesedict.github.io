@@ -24,6 +24,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [cau1](#1)
 - [cau2](#2)
 - [cau4](#4)
+- [cau5](#5)
 ==
 </nav>
 <## /tones ##>
@@ -1006,4 +1007,46 @@ W
         to requite heaven's favor---in being saved from fire.
     ==
   ====
+$$
+
+
+##{#5 .williams} (5)Ch(')au [[cau5 陽上]]
+
+<## tone-5-characters ##>
+<nav class="sideways">
+=={.modern}
+- $𧽒 (⿺走臭)5
+==
+</nav>
+<## /tone-5-characters ##>
+
+### 𧽒5 [[⿺走臭]] | _(5)Ch(')au_ [[cau5]]
+
+$$
+R
+  ⾛ + 10
+U
+  U+27F52
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~28|n71 (5)𧽒 (⿺走臭)]]
+    --
+    Read _ch(')au(3)_ [[cau3]]; [[**see $𧽒 (⿺走臭)cau3**]].
+    --
+    --
+    A colloquial word.
+    --
+    ==
+    - To sprain the ankle;
+    - _(5)ch(')au (1)ts(')an k(e/)uk(8)_
+        [[cau5 can1 goek3 𧽒嚫腳]]
+        sprained the foot.
+    ==
+  ====
+S
+  ==
+  - $𧽒 (⿺走臭)cau3 (TODO)
+  ==
 $$

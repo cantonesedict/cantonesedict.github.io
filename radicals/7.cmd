@@ -360,6 +360,14 @@ For all radicals, see [Index of characters by radical](./).
       ==
       </nav>
   //
+    , 10
+    ,
+      <nav class="sideways">
+      ==
+      - $𧽒 (⿺走臭)cau5
+      ==
+      </nav>
+  //
     , 15
     ,
       <nav class="sideways">
