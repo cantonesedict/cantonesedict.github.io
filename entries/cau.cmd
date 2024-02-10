@@ -59,6 +59,7 @@ $$
 - $揪1
 - $揫1
 - $楸1
+- $湫1
 - $瘳1
 - $瞅1
 - $秋1
@@ -312,6 +313,32 @@ C
   ==
   - Fan Wan entry: Corrected 本 to 木.
   - Williams' 楸枰: Specifically, a surrounding-chess (go) board.
+  ==
+$$
+
+### 湫1 | _(1)Ts(')au_ [[cau1]]
+
+$$
+R
+  ⽔ + 9
+U
+  U+6E6B
+F
+  ==
+  - [[F1.50 湫]] 水名
+  ==
+W
+  ====
+  - [[Page~562 (1)湫]]
+    ==
+    - A pond, a fish-pond, a pool;
+    - [[see $湫zau1 for proper name and other senses]];
+    ==
+  ====
+S
+  ==
+  - $湫zau1
+  - $湫ziu2 (TODO)
   ==
 $$
 

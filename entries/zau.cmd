@@ -56,6 +56,7 @@ $$
 - $揫1
 - $棷1
 - $洲1
+- $湫1
 - $緅1
 - $舟1
 - $諏1
@@ -428,6 +429,39 @@ W
         sands, a sand-bank.
     ==
   ====
+$$
+
+###+ 湫1 | _(1)Tsau_ [[zau1]]
+
+$$
+R
+  ⽔ + 9
+U
+  U+6E6B
+V
+  ==
+  - cau1 (common)
+  ==
+F
+  ==
+  - [[F1.50 湫 _(1)Ts(')au_ (cau1)]] 水名
+  ==
+W
+  ====
+  - [[Page~562 (1)湫 _(1)Ts(')au_ (cau1); here normalised to _(1)Tsau_ (zau1)]]
+    ==
+    - [[...]];
+    - a small tributary of the Yellow~R.
+      near Lin hien [[臨縣]] in Sh(a/)ns(i/) [[山西]];
+    - cool;
+    - mournful, to excite sad feelings.
+    ==
+  ====
+S
+  ==
+  - $湫cau1
+  - $湫ziu2 (TODO)
+  ==
 $$
 
 ### 緅1 | _(1)Tsau_ [[zau1]]
