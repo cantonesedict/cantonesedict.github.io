@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2024-02-08
+* %date-modified --> 2024-02-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -53,6 +53,7 @@ $$
 - $州1
 - $掫1
 - $揪1
+- $揫1
 - $棷1
 - $洲1
 - $緅1
@@ -311,6 +312,27 @@ E
        ==
     ++
   ====
+$$
+
+###+ 揫1 | _(1)Tsau_ [[zau1]]
+
+$$
+R
+  ⼿ + 9
+U
+  U+63EB
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Alternative form of 揪. **See $揪zau1 for the canonical entry.**
+  ==
+S
+  ==
+  - $揫cau1
+  ==
 $$
 
 ### 棷1 | _(1)Tsau_ [[zau1]]
