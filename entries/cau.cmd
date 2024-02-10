@@ -374,10 +374,71 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $臭3
 - $𧽒 (⿺走臭)3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 臭3 | _Ch(')au(3)_ [[cau3]]
+
+$$
+R
+  ⾃ + 4
+U
+  U+81ED
+F
+  ==
+  - [[F1.55 臭]] 氣息也又臭穢
+  ==
+W
+  ====
+  - [[Page~28|n71 臭(3)]]
+    ==
+    - To track by the scent;
+    - effluvia, savor, smell, putridity, odor, stench;
+    - to stink;
+    - scent;
+    - to rot;
+    - to smell;
+    - disreputable;
+    - a bad name;
+    - _ch(')au(3) h(i/)(3)_
+        [[cau3 hei3 臭氣]]
+        a bad breath;
+        a stink;
+    - _ok(8) (4)man ch(')au(3) h(i/)(3)_
+        [[ok3 man4 cau3 hei3 惡聞臭氣]]
+        vile language;
+    - _ch(')au(3) (1)hang (1)hang_
+        [[cau3 hang1 hang1 臭亨亨]],
+        a vile stench;
+    - _ch(')au(3) (4)ming_
+        [[cau3 ming4 臭名]],
+        a bad reputation;
+    - _ch(')au(3) (4)ch(')ung_
+        [[cau3 cung4 臭蟲]],
+        bedbugs;
+        vagabonds, foulmouthed fellows;
+    - _(4)t(')ung ch(')au(3)_
+        [[tung4 cau3 銅臭]]
+        purseproud;
+    - _ch(')au(3) k(e/)uk(8)_
+        [[cau3 goek3 臭腳]]
+        foul footed, said of a woman;
+    - _(1)seng ch(')au(3)_
+        [[seng1 cau3 腥臭]]
+        rank, noisome, as bad fish;
+    - _ch(')au(3) m(i/)(6)_
+        [[cau3 mei6 臭味]]
+        a bad taste.
+    ==
+  ====
+C
+  ==
+  - Williams' 臭味: More a bad smell than a bad taste.
+  ==
+$$
 
 ### 𧽒3 [[⿺走臭]] | _Ch(')au(3)_ [[cau3]]
 
@@ -386,6 +447,10 @@ R
   ⾛ + 10
 U
   U+27F52
+V
+  ==
+  - hung3 (expected from 香仲切)
+  ==
 F
   [[Not present]]
 W
