@@ -53,6 +53,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $偢1
 - $抽1
 - $瘳1
 - $秋1
@@ -61,6 +62,33 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 偢1 | _(1)Ts(')au_ [[cau1]]
+
+$$
+R
+  ⼈ + 9
+U
+  U+5062
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~562 (1)偢]]
+    ==
+    - Malevolent;
+    - ill-natured;
+    - [[see $瞅cau1 for "notice" sense.]]
+    ==
+  ====
+C
+  ==
+  - The character 偢 is not attested in the Middle Chinese rime books.
+    Kangxi quotes 《集韻》七肖切音峭傻偢不仁;
+    from this, the expected reading (for the classical "malevolent" sense)
+    is 去聲 ciu3, not 上聲 ciu2 as recorded by some.
+  ==
+$$
 
 ### 抽1 | _(1)Ch(')au_ [[cau1]]
 
