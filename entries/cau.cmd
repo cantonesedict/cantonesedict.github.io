@@ -60,6 +60,7 @@ $$
 - $揫1
 - $楸1
 - $湫1
+- $煍1
 - $瘳1
 - $瞅1
 - $秋1
@@ -339,6 +340,35 @@ S
   ==
   - $湫zau1
   - $湫ziu2 (TODO)
+  ==
+$$
+
+### 煍1 | _(1)Ts(')au_ [[cau1]]
+
+$$
+R
+  ⽕ + 9
+U
+  U+714D
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~563 (1)煍]]
+    ==
+    - To change the color of;
+    - to colly, to blacken, as with smoke;
+    - _(2)fo (4)t(')(a/)m (1)ts(')au_
+        [[fo2 taam4 cau1 火燂煍]],
+        the fire blackens it;
+    - _(1)ts(')au [hak](7)_
+        [[cau1 hak1 煍黑]]
+        smoked and blackened.
+    ==
+  ====
+C
+  ==
+  - Williams' : Changed _h(a/)k(7)_ [[haak1]] to _hak(7)_ [[hak1]].
   ==
 $$
 
