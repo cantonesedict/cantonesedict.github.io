@@ -57,6 +57,7 @@ $$
 - $抽1
 - $揪1
 - $揫1
+- $楸1
 - $瘳1
 - $瞅1
 - $秋1
@@ -253,6 +254,35 @@ W
 S
   ==
   - $揫zau1
+  ==
+$$
+
+### 楸1 | _(1)Ts(')au_ [[cau1]]
+
+$$
+R
+  ⽊ + 9
+U
+  U+6978
+F
+  ==
+  - [[F1.50 楸]] ::[木]名::
+  ==
+W
+  ====
+  - [[Page~562 (1)楸]]
+    ==
+    - A strong wood;
+    - the tree is like a yew or cypress;
+    - _(1)ts(')au (4)p(')ing_
+        [[cau1 ping4 楸枰]],
+        a chess-board.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 本 to 木.
+  - Williams' 楸枰: Specifically, a surrounding-chess (go) board.
   ==
 $$
 
