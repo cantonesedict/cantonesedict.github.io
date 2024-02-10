@@ -55,6 +55,7 @@ $$
 =={.modern}
 - $抽1
 - $瘳1
+- $秋1
 - $篘1
 - $紬1
 ==
@@ -206,6 +207,65 @@ W
 C
   ==
   - Williams' 厥疾弗瘳: Corrected _pat(7)_ [[bat1]] to _fat(7)_ [[fat1]] per 《書經》.
+  ==
+$$
+
+### 秋1 | _(1)Ts(')au_ [[cau1]]
+
+$$
+R
+  ⽲ + 4
+U
+  U+79CB
+F
+  ==
+  - [[F1.50 秋]] 四季之一
+  - [[F1.50 龝]] ::同[上]::
+  ==
+W
+  ====
+  - [[Page~562 (1)秋]]
+    ==
+    - Autumn;
+    - harvest, the time of reaping;
+    - the return of the year, a year;
+    - autumnal;
+    - sorrowful, unhappy;
+    - _mak(9) (1)ts(')au_
+        [[mak6 cau1 麥秋]],
+        wheat harvest;
+    - _(1)ts(')au (1)fan_
+        [[cau1 fan1 秋分]],
+        autumnal equinox;
+    - _(1)ch(a/)ng (1)ts(')au (i/)t(9)_
+        [[zaang1 cau1 jit6 爭秋熱]]
+        heat of dog-days;
+    - _(1)ts(')au (1)t(')(i/)n_
+        [[cau1 tin1 秋天]]^
+        autumn;
+    - _(1)ts(')au (4)h(o\) (4)m(o\) f(a/)n(6)_
+        [[cau1 hou4 mou4 faan6 秋毫無犯]]
+        not the error of an autumn's down;
+    - _(1)ts(')(i/)n (1)ts(')au_
+        [[cin1 cau1 千秋]],
+        a thousand autumns --- a birthday;
+    - _(1)ts(')au (1)k(u/)n_
+        [[cau1 gun1 秋官]],
+        a judge, because cases are decided in autumn;
+    - _(1)ts(')au (1)shau_
+        [[cau1 sau1 秋收]],
+        harvest;
+    - _(1)ts(')au hau(6) sh(i/)n(3)_
+        [[cau1 hau6 sin3 秋後扇]]
+        a fan in winter --- a useless thing;
+    - _(1)ts(')au h(i/)(3)_
+        [[cau1 hei3 秋氣]]
+        cool autumnal weather.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 土 to 上.
   ==
 $$
 
