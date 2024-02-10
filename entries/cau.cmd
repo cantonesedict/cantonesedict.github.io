@@ -56,6 +56,7 @@ $$
 - $偢1
 - $抽1
 - $瘳1
+- $瞅1
 - $秋1
 - $篘1
 - $紬1
@@ -235,6 +236,44 @@ W
 C
   ==
   - Williams' 厥疾弗瘳: Corrected _pat(7)_ [[bat1]] to _fat(7)_ [[fat1]] per 《書經》.
+  ==
+$$
+
+###+ 瞅1 | _(1)Ts(')au_ [[cau1]]
+
+$$
+R
+  ⽬ + 9
+U
+  U+7785
+A
+  ==
+  - $偢1
+  ==
+V
+  ==
+  - cau2 (uncommon)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~562 (1)偢; here normalised to 瞅]]
+    ==
+    - [[...]];
+    - _(4)'m (1)ts(')au (2)ts(')oi_
+        [[m4 cau1 coi2 唔瞅睬]],
+        not to speak to, the cut direct.
+    ==
+  ====
+C
+  ==
+  - The character 瞅 is not attested in the Middle Chinese rime books,
+    nor is it recorded in Kangxi.
+    Modern Cantonese dictionaries typically record a reading of cau2,
+    which I wager is from analogy with the Mandarin reading chǒu.
+    Yet the common Cantonese reading is cau1, consistent with Williams,
+    and as sung by Alan Tam in 誰可改變 (1984) (containing the phrase 不瞅不睬).
   ==
 $$
 
