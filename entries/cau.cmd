@@ -55,6 +55,7 @@ $$
 =={.modern}
 - $偢1
 - $抽1
+- $揪1
 - $揫1
 - $瘳1
 - $瞅1
@@ -209,6 +210,28 @@ E
     1. To fight one-on-one.
     ++
   ====
+$$
+
+### 揪1 | _(1)Ts(')au_ [[cau1]]
+
+$$
+R
+  ⼿ + 9
+U
+  U+63EA
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~562 (1)揫(1)揪]]
+    --
+    [[Reading variation. **See $揪zau1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $揪zau1
+  ==
 $$
 
 ### 揫1 | _(1)Ts(')au_ [[cau1]]

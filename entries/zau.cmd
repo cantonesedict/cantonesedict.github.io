@@ -298,10 +298,45 @@ R
   ⼿ + 9
 U
   U+63EA
+A
+  ==
+  - $揫1
+  ==
+V
+  ==
+  - cau1 (probably errant)
+  ==
 F
   [[Not present]]
 W
-  [[Not present]]
+  ====
+  - [[Page~562 (1)揫(1)揪 _(1)Ts(')au_ (cau1); here normalised to _(1)Tsau_ (zau1)]]
+    ==
+    - To bind, to gather in sheaves;
+    - to compress in binding;
+    - to collect, to assemble;
+    - to lift, to grasp, to clutch;
+    - to gripe;
+    - _(1)[tsau] ch(u")(6)_
+        [[zau1 zyu6 揪住]]
+        to seize fast;
+    - _(1)[tsau] (5)(i/)_
+        [[zau1 ji5 揪耳]],
+        to nab by the ears;
+    - _(1)[tsau] ch(')uk(7)_
+        [[zau1 cuk1 揪束]]
+        to bind up, as a sheaf is.
+    ==
+  ====
+C
+  ==
+  - The reading cau1 is probably as an alternative spelling of 抽.
+  - Modern dictionaries distinguish 揫 for the "bind" sense,
+    and 揪 for the "grasp/clutch" sense.
+  - Kangxi considers 揪 to be the same as 揫,
+    and their separation to be erroneous:
+    按揪揫同字分音各訓誤.
+  ==
 E
   ====
   - 【揪】 (zau1):
@@ -312,6 +347,10 @@ E
        ==
     ++
   ====
+S
+  ==
+  - $揪cau1
+  ==
 $$
 
 ###+ 揫1 | _(1)Tsau_ [[zau1]]

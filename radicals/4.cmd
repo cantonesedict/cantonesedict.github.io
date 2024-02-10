@@ -287,10 +287,11 @@ For all radicals, see [Index of characters by radical](./).
       - $揞am2
       - $插caap3
       - $揷caap3
+      - $揪cau1
+      - $揪zau1
       - $揫cau1
       - $揫zau1
       - $揸zaa1
-      - $揪zau1
       ==
       </nav>
   //
