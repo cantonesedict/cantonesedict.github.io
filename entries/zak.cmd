@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zak
-* %date-modified --> 2024-01-25
+* %date-modified --> 2024-02-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -33,7 +33,7 @@ WP
   ==
 MP
   ==
-  - zak = [tsɐk̚], [tɕɐk̚]
+  - zak = [tsɐk̚] (preferred), [tɕɐk̚]
   ==
 $$
 
