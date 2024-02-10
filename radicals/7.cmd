@@ -364,6 +364,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $𧽒 (⿺走臭)cau3
       - $𧽒 (⿺走臭)cau5
       ==
       </nav>

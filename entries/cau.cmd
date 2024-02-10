@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [cau1](#1)
 - [cau2](#2)
+- [cau3](#3)
 - [cau4](#4)
 - [cau5](#5)
 ==
@@ -365,6 +366,45 @@ E
     1. Shy or bashful.
     ++
   ====
+$$
+
+
+##{#3 .williams} Ch(')au(3) Ts(')au(3) [[cau3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $𧽒 (⿺走臭)3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 𧽒3 [[⿺走臭]] | _Ch(')au(3)_ [[cau3]]
+
+$$
+R
+  ⾛ + 10
+U
+  U+27F52
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~28|n71 (5)𧽒 (⿺走臭)]]
+    --
+    Read _ch(')au(3)_ [[cau3]];
+    --
+    ==
+    - to walk, to go as if weary.
+    ==
+    --
+    [[...]]
+    --
+  ====
+S
+  ==
+  - $𧽒 (⿺走臭)cau5
+  ==
 $$
 
 
@@ -1047,6 +1087,6 @@ W
   ====
 S
   ==
-  - $𧽒 (⿺走臭)cau3 (TODO)
+  - $𧽒 (⿺走臭)cau3
   ==
 $$
