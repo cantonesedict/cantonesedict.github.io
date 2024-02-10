@@ -374,11 +374,37 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $嗅3
 - $臭3
 - $𧽒 (⿺走臭)3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 嗅3 | _Ch(')au(3)_ [[cau3]]
+
+$$
+R
+  ⼝ + 10
+U
+  U+55C5
+V
+  ==
+  - hung3 (expected from 《集韻》香仲切)
+  ==
+F
+  ==
+  - [[F1.55 嗅]] 鳥哀鳴聲
+  ==
+W
+  ====
+  - [[Page~28|n71 嗅(3)]]
+    ==
+    - To smell, to perceive odors as a dog does;
+    - the plaintive cry of birds.
+    ==
+  ====
+$$
 
 ### 臭3 | _Ch(')au(3)_ [[cau3]]
 
