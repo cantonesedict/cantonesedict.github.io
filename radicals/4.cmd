@@ -228,6 +228,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $扱caap3
+      - $找zaau2
       - $抓zaau2
       ==
       </nav>

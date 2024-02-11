@@ -302,6 +302,9 @@ window.onload = applyFilter;
     , jat1 zan6-2
     , [一陣~\(later\)](/entries/zan#cantonese-一陣-later)
   //
+    , jau5 zaau2
+    , [有找](/entries/zaau#cantonese-有找)
+  //
     , jin1 caan2
     , [煙鏟](/entries/caan#cantonese-煙鏟)
   //
@@ -412,6 +415,9 @@ window.onload = applyFilter;
   //
     , zaat3 zaat3 tiu3
     , [扎扎跳](/entries/zaat#cantonese-扎扎跳)
+  //
+    , zaau2 sou3
+    , [找數](/entries/zaau#cantonese-找數)
   //
     , zai1
     , [擠](/entries/zai#cantonese-擠)

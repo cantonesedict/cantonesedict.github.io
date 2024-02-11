@@ -129,11 +129,75 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $找2
 - $抓2
 - $爪2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 找2 | _(2)Ch(a/)u_ [[zaau2]]
+
+$$
+R
+  ⼿ + 4
+U
+  U+627E
+F
+  ==
+  - [[F2.42 ::[找]::]] ::[找]尋[找]換::
+  ==
+W
+  ====
+  - [[Page~29|n72 (2)找]]
+    ==
+    - To seek;
+    - to make up the deficiency, to supply what is wanted;
+    - to barter, to swap, to exchange;
+    - _(2)ch(a/)u (5)n(i/) f(u/)i(3) h(i/)(3)_
+        [[zaau2 nei5 fui3 hei3 找你晦氣]]
+        he's looking for you to scold you;
+    - _(2)ch(a/)u (4)t(')au l(o\)(6)_
+        [[zaau2 tau4 lou6 找頭路]]
+        to look for work;
+    - _(2)ch(a/)u sh(o\)(3) (5)m(i/)_
+        [[zaau2 sou3 mei5 找數尾]],
+        let us settle up that account;
+    - _(2)ch(a/)u (4)ts(')am_
+        [[zaau2 cam4 找尋]],
+        to look for;
+    - _(2)ch(a/)u (u/)n(6)_
+        [[zaau2 wun6 找換]]
+        to change money or for money;
+    - _(2)ch(a/)u (4)ts(')(i/)n p(')(o\)(3)_
+        [[zaau2 cin4-2 pou3 找錢舖]]
+        a money-changer's shop.
+    ==
+    --
+    Also read _(4)w(a/)_ [[waa4]]; same as 划; [[**see $划waa4 for the canonical entry**]]. [[TODO]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword ⿰扌弋 to 找.
+  ==
+E
+  ====
+  - 【有找】 (jau5 zaau2):
+    ++
+    1. Suffixed after a monetary amount
+       to indicate that the price is strictly lower.
+       (Literally, "[and] there's change".)
+       ==
+       - 廿蚊有找 (jaa6 man1 jau5 zaau2): "[It's] twenty bucks [and] there's change."
+       ==
+    ++
+  - 【找數】 (zaau2 sou3):
+    ++
+    1. To settle a bill or account.
+    ++
+  ====
+$$
 
 ### 抓2 | _(2)Ch(a/)u_ [[zaau2]]
 
