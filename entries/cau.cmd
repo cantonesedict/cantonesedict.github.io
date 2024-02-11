@@ -986,6 +986,7 @@ $$
 - $讎4
 - $讐4
 - $躊4
+- $酋4
 - $酧4
 - $酬4
 ==
@@ -1573,6 +1574,32 @@ W
         undecided, undetermined, unable to progress.
     ==
   ====
+$$
+
+### 酋4 | _(4)Ts(')au_ [[cau4]]
+
+$$
+R
+  ⾣ + 2
+U
+  U+914B
+F
+  ==
+  - [[F1.53 酋]] 夷狄有酋長
+  ==
+W
+  ====
+  - [[Page~563 (4)酋]]
+    --
+    [[The expected reading is cau4 from Middle Chinese 自秋切,
+    but the common reading is jau4;
+    **see $酋jau4 for the canonical entry**.]]
+    --
+  ====
+S
+  ==
+  - $酋jau4 (TODO)
+  ==
 $$
 
 ### 酧4 | _(4)Ch(')au_ [[cau4]]
