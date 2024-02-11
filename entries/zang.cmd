@@ -78,7 +78,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~20|n63 (1)[凈]^]]
+  - [[Page~20|n63 ::(1)[凈]^::]]
     ==
     - Cold, shivering.
     ==
@@ -88,7 +88,7 @@ W
   ====
 C
   ==
-  - Williams misprints 凈 as 净.
+  - Williams prints 凈 as 净.
   ==
 $$
 

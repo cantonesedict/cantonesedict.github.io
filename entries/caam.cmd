@@ -74,7 +74,7 @@ F
   ==
 W
   ====
-  - [[Page~553 (1)參(1)[叅]^]]
+  - [[Page~553 ::(1)參(1)[叅]^::]]
     ==
     - To be concerned with, to join with for consultation,
       to advise, to give counsel to;
@@ -144,7 +144,7 @@ F
   ==
 W
   ====
-  - [[Page~553 (1)參(1)[叅]^]]
+  - [[Page~553 ::(1)參(1)[叅]^::]]
     --
     [[Alternative form of 參. **See $參caam1 for the canonical entry.**]]
     --

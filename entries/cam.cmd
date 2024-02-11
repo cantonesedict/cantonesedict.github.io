@@ -319,7 +319,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~15|n58 (2)[魫]^]]
+  - [[Page~15|n58 ::(2)[魫]^::]]
     --
     [[Idiosyncratic reading from Williams. **See $魫cam4 for the canonical entry.**]]
     --

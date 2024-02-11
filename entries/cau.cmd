@@ -109,7 +109,7 @@ F
   ==
 W
   ====
-  - [[Page~562 (1)[偢]^]]
+  - [[Page~562 (1)愁; here corrected to 愀]]
     --
     [[Idiosyncratic reading from Fan Wan. **See $愀ciu2 for the canonical entry.**]]
     --

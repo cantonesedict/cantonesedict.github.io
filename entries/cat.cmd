@@ -162,7 +162,7 @@ F
   ==
 W
   ====
-  - [[Page~559 [漆](7)]]
+  - [[Page~559 ::[漆](7)::]]
     ==
     - Varnish, lacquer;
     - viscid or resinous juices which can be used in painting;

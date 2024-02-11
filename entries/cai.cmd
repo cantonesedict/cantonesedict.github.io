@@ -199,7 +199,7 @@ F
   ==
 W
   ====
-  - [[Page~550 (1)棲(1)[栖]^]]
+  - [[Page~550 ::(1)棲(1)[栖]^::]]
     --
     [[Alternative form of 棲. **See $棲cai1 for the canonical entry.**]]
     --
@@ -227,7 +227,7 @@ F
   ==
 W
   ====
-  - [[Page~550 (1)棲(1)[栖]^]]
+  - [[Page~550 ::(1)棲(1)[栖]^::]]
     ==
     - To roost, to perch, to nestle;
     - to sojourn, to stay at, to reside;

@@ -65,7 +65,7 @@ F
   ==
 W
   ====
-  - [[Page~10|n53 (1)齋(1)[斋]^]]
+  - [[Page~10|n53 ::(1)齋(1)[斋]^::]]
     --
     [[Alternative form of 齋. **See $齋zaai1 for the canonical entry.**]]
     --
@@ -126,7 +126,7 @@ F
   ==
 W
   ====
-  - [[Page~10|n53 (1)齋(1)[斋]^]]
+  - [[Page~10|n53 ::(1)齋(1)[斋]^::]]
     ==
     - To respect, to reverence;
     - to abstain from;
