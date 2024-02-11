@@ -69,6 +69,7 @@ $$
 - $紬1
 - $鞦1
 - $鰌1
+- $鰍1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -629,6 +630,41 @@ W
     --
     [[Alternative form of 鰍. **See $鰍cau1 for the canonical entry.**]]
     --
+  ====
+$$
+
+### 鰍1 | _(1)Ts(')au_ [[cau1]]
+
+$$
+R
+  ⿂ + 9
+U
+  U+9C0D
+A
+  ==
+  - $鰌1
+  ==
+F
+  ==
+  - [[F1.50 鰍]] 魚名
+  ==
+W
+  ====
+  - [[Page~563 (1)鰌(1)鰍]]
+    ==
+    - An eel;
+    - the mud or conger eel;
+    - _(4)nai (1)ts(')au_
+        [[nai4 cau1 泥鰍]],
+        a freshwater eel;
+    - _(2)hoi (1)ts(')au_
+        [[hoi2 cau1 海鰍]],
+        a sea-dragon, myriads of miles long;
+        a long, narrow boat;
+    - _(1)ts(')au (4)(u") kwat(7)_
+        [[cau1 jyu4 gwat1 鰍魚骨]]
+        whalebone.
+    ==
   ====
 $$
 
