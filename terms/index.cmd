@@ -269,6 +269,9 @@ window.onload = applyFilter;
     , gam3 zai6
     , [咁嚌](/entries/zai#cantonese-咁嚌)
   //
+    , gau2 zaau2 tau4
+    , [狗爪頭](/entries/zaau#cantonese-狗爪頭)
+  //
     , ham6 gaa1 caan2
     , [冚家剷](/entries/caan#cantonese-冚家剷)
   //

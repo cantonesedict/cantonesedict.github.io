@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zaau1](#1)
+- [zaau2](#2)
 ==
 </nav>
 <## /tones ##>
@@ -119,5 +120,63 @@ W
         [[zaau1 maa6 嘲罵]]
         to jeer and rail at.
     ==
+  ====
+$$
+
+
+##{#2 .williams} (2)Ch(a/)u [[zaau2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $爪2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 爪2 | _(2)Ch(a/)u_ [[zaau2]]
+
+$$
+R
+  ⽖ + 0
+U
+  U+722A
+F
+  ==
+  - [[F2.42 爪]] 手足甲也
+  ==
+W
+  ====
+  - [[Page~29|n72 (2)爪]]
+    ==
+    - Claws, talons, nails;
+    - to scratch, to claw;
+    - to take up with the fingers;
+    - an agent, a minion;
+    - the 87th radical;
+    - _(2)ch(a/)u (4)ng(a/)_
+        [[zaau2 ngaa4 爪牙]],
+        claws and teeth;
+        emissaries, assistants;
+    - _(2)ch(a/)u l(a/)n(6)_
+        [[zaau2 laan6 爪爛]]
+        to tear with the claws;
+    - _(2)ch(a/)u shat(9)_
+        [[zaau2 sat6 爪實]]
+        to gripe firmly with the claws;
+    - _(2)ch(a/)u (2)w(a/)_
+        [[zaau2 waa2 爪搲]],
+        to scratch;
+    - _(5)m(a/)i p(a/)n(6) (2)ch(a/)u_
+        [[maai5 baan6 zaau2 買辦爪]],
+        a comprador's market-man.
+    ==
+  ====
+E
+  ====
+  - 【狗爪頭】 (gau2 zaau2 tau4):
+    ++
+    1. The character component 爫. (Literally, "dog's paw atop".)
+    ++
   ====
 $$
