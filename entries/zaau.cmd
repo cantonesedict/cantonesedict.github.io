@@ -129,10 +129,55 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $抓2
 - $爪2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 抓2 | _(2)Ch(a/)u_ [[zaau2]]
+
+$$
+R
+  ⼿ + 4
+U
+  U+6293
+A
+  ==
+  - $爪2
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~29|n72 (2)爪; here normalised to 抓]]
+    ==
+    - [[...]];
+    - to scratch, to claw;
+    - to take up with the fingers;
+    - [[...]];
+    - _(2)ch(a/)u l(a/)n(6)_
+        [[zaau2 laan6 抓爛]]
+        to tear with the claws;
+    - _(2)ch(a/)u shat(9)_
+        [[zaau2 sat6 抓實]]
+        to gripe firmly with the claws;
+    - _(2)ch(a/)u (2)w(a/)_
+        [[zaau2 waa2 抓搲]],
+        to scratch;
+    - [[...]].
+    ==
+  - [[Page~29|n72 (2)抓]]
+    --
+    Interchanged with the last [[$爪2]].
+    --
+    ==
+    - To scratch, to titillate;
+    - to tear with the claws;
+    - to cajole.
+    ==
+  ====
+$$
 
 ### 爪2 | _(2)Ch(a/)u_ [[zaau2]]
 
@@ -150,23 +195,14 @@ W
   - [[Page~29|n72 (2)爪]]
     ==
     - Claws, talons, nails;
-    - to scratch, to claw;
-    - to take up with the fingers;
+    - [[see $抓zaau2 for verb senses]];
     - an agent, a minion;
     - the 87th radical;
     - _(2)ch(a/)u (4)ng(a/)_
         [[zaau2 ngaa4 爪牙]],
         claws and teeth;
         emissaries, assistants;
-    - _(2)ch(a/)u l(a/)n(6)_
-        [[zaau2 laan6 爪爛]]
-        to tear with the claws;
-    - _(2)ch(a/)u shat(9)_
-        [[zaau2 sat6 爪實]]
-        to gripe firmly with the claws;
-    - _(2)ch(a/)u (2)w(a/)_
-        [[zaau2 waa2 爪搲]],
-        to scratch;
+    - [[...]];
     - _(5)m(a/)i p(a/)n(6) (2)ch(a/)u_
         [[maai5 baan6 zaau2 買辦爪]],
         a comprador's market-man.
