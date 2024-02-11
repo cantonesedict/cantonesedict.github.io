@@ -70,6 +70,7 @@ $$
 - $鞦1
 - $鰌1
 - $鰍1
+- $鶖1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -664,6 +665,27 @@ W
     - _(1)ts(')au (4)(u") kwat(7)_
         [[cau1 jyu4 gwat1 鰍魚骨]]
         whalebone.
+    ==
+  ====
+$$
+
+### 鶖1 | _(1)Ts(')au_ [[cau1]]
+
+$$
+R
+  ⿃ + 9
+U
+  U+9D96
+F
+  ==
+  - [[F1.50 鶖]] 秃鶖食魚之鳥
+  ==
+W
+  ====
+  - [[Page~563 (1)鶖]]
+    ==
+    - A long legged bird like an adjutant, having red eyes and bare neck;
+    - it eats snakes.
     ==
   ====
 $$
