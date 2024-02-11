@@ -810,6 +810,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $凑3
 - $嗅3
 - $糗3
 - $臭3
@@ -817,6 +818,26 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 凑3 | _Ts(')au(3)_ [[cau3]]
+
+$$
+R
+  ⼎ + 9
+U
+  U+51D1
+F
+  ==
+  - [[F1.55 凑]] 會合也
+  ==
+W
+  ====
+  - [[Page~563 凑(3)]]
+    --
+    [[Alternative form of 湊. **See $湊cau3 for the canonical entry.**]]
+    --
+  ====
+$$
 
 ### 嗅3 | _Ch(')au(3)_ [[cau3]]
 
