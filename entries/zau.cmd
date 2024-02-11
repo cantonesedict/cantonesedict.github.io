@@ -49,6 +49,7 @@ $$
 - $侜1
 - $僽1
 - $周1
+- $啁1
 - $啾1
 - $州1
 - $掫1
@@ -200,6 +201,32 @@ E
     1. All the time.
     ++
   ====
+$$
+
+###+ 啁1 | _(1)Chau_ [[zau1]]
+
+$$
+R
+  ⼝ + 8
+U
+  U+5541
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - The reading _(1)chau_ [[zau1]] for 啁 is not present in Williams;
+    an entry is included here for completeness.
+    ++
+    1. Used in 啁噍 (sound of birds).
+    ++
+  ==
+S
+  ==
+  - $啁dou1 (TODO)
+  - $啁zaau1
+  ==
 $$
 
 ### 啾1 | _(1)Tsau_ [[zau1]]
