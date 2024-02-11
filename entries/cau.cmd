@@ -972,6 +972,7 @@ $$
 =={.modern}
 - $仇4
 - $儔4
+- $囚4
 - $幬4
 - $惆4
 - $椆4
@@ -990,6 +991,11 @@ $$
 ==
 </nav>
 <## /tone-4-characters ##>
+
+--{.williams}
+[[Page~563, before the three entries for _(4)ts(')au_ (cau4)]]
+(The three next [[$囚4, $酋4, $遒4]] are often read _ch(')au_.)
+--
 
 ### 仇4 | _(4)Ch(')au_ [[cau4]]
 
@@ -1061,6 +1067,42 @@ W
         to join one's clique or party.
     ==
   ====
+$$
+
+### 囚4 | _(4)Ts(')au_ [[cau4]]
+
+$$
+R
+  ⼞ + 2
+U
+  U+56DA
+F
+  ==
+  - [[F1.53 囚]] ::囚[犯]拘罪人也::
+  ==
+W
+  ====
+  - [[Page~563 (4)囚]]
+    ==
+    - To imprison, to confine, to cage;
+    - to handcuff;
+    - a prisoner, a felon;
+    - a prison;
+    - _(4)ts(')au (4)lung_
+        [[cau4 lung4 囚籠]],
+        a cage in which criminals are carried;
+    - _yap(9) (4)ts(')au_
+        [[jap6 cau4 入囚]],
+        to imprison;
+    - _(4)ts(')au f(a/)n(6)_
+        [[cau4 faan6-2 囚犯]]
+        a criminal.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿰才巳 to 犯.
+  ==
 $$
 
 ### 幬4 | _(4)Ch(')au_ [[cau4]]
