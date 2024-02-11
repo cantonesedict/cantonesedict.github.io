@@ -150,7 +150,7 @@ W
   [[Not present]]
 C
   ==
-  - The expected reflex is zaam2 from Middle Chinese 子感切,
+  - The expected reading is zaam2 from Middle Chinese 子感切,
     but Fan Wan has zaan2; **see $寁zaan2 for the canonical entry**.
   ==
 S
@@ -499,7 +499,7 @@ W
   ====
   - [[Page~16|n59 賺(6)]]
     --
-    [[The expected reflex is zaam6 from 《集韻》直陷切,
+    [[The expected reading is zaam6 from 《集韻》直陷切,
     but the common reading is zaan6;
     **see $賺zaan6 for the canonical entry**.]]
     --
@@ -530,7 +530,7 @@ W
   [[Not present]]
 C
   ==
-  - The expected reflex is zaam6 from Middle Chinese 藏濫切,
+  - The expected reading is zaam6 from Middle Chinese 藏濫切,
     but Fan Wan has caam5; **see $鏨caam5 for the canonical entry**.
   ==
 S

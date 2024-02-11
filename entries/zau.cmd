@@ -865,7 +865,7 @@ W
   ====
   - [[Page~25|n68 (2)帚(2)箒]]
     --
-    [[The expected reflex is zau2 from Middle Chinese 之九切,
+    [[The expected reading is zau2 from Middle Chinese 之九切,
     but the common reading is zaau2;
     **see $帚zaau2 for the canonical entry**.]]
     --
@@ -915,7 +915,7 @@ W
   ====
   - [[Page~25|n68 (2)肘]]
     --
-    [[The expected reflex is zau2 from Middle Chinese 陟柳切,
+    [[The expected reading is zau2 from Middle Chinese 陟柳切,
     but the common reading is zaau2;
     **see $肘zaau2 for the canonical entry**.]]
     --
@@ -1935,7 +1935,7 @@ W
   ====
   - [[Page~562 驟(6)]]
     --
-    [[The expected reflex is zau6 from Middle Chinese 鋤祐切,
+    [[The expected reading is zau6 from Middle Chinese 鋤祐切,
     but the common reading is zaau6;
     **see $驟zaau6 for the canonical entry**.]]
     --

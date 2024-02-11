@@ -299,7 +299,7 @@ W
     --
     --
     [[For the other senses,
-    the expected reflex is zaa3 from Middle Chinese 陟嫁切;
+    the expected reading is zaa3 from Middle Chinese 陟嫁切;
     **see $吒zaa3 for the canonical entry**.]]
     --
   ====

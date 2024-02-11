@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aau
-* %date-modified --> 2024-01-07
+* %date-modified --> 2024-02-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -66,7 +66,7 @@ W
   - [[Page~6 (1)坳]]
     ==
     - [[For the literary "uneven ground" senses,
-      the expected reflex is aau1 from 《廣韻》於交切,
+      the expected reading is aau1 from 《廣韻》於交切,
       but the common reading is aau3
       (attested in Kangxi, quoting 《集韻》於敎切音拗);
       **see $坳aau3 for the canonical entry**.]]

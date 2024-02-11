@@ -239,7 +239,7 @@ W
   ====
   - [[Page~12|n55 簀(7)]]
     --
-    [[The expected reflex is zak1 from Middle Chinese 側革切,
+    [[The expected reading is zak1 from Middle Chinese 側革切,
     but the common reading is zaak3;
     **see $簀zaak3 for the canonical entry**.]]
     --

@@ -460,7 +460,7 @@ C
   ==
   - Williams' alternative reading:
     Changed _(2)ch(i/)_ [[zi2]] (Middle Chinese rising tone)
-    to expected reflex _ch(i/)(6)_ [[zi6]].
+    to expected reading _ch(i/)(6)_ [[zi6]].
   ==
 S
   ==

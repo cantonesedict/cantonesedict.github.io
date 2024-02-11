@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ang
-* %date-modified --> 2024-02-10
+* %date-modified --> 2024-02-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -71,7 +71,7 @@ W
   ====
   - [[Page~4 (1)嚶]]
     --
-    [[The expected reflex is ang1 from Middle Chinese 烏莖切,
+    [[The expected reading is ang1 from Middle Chinese 烏莖切,
     but the common reading is jing1 (possibly after 《韻會》幺莖切);
     **see $嚶jing1 for the canonical entry**.]]
     --

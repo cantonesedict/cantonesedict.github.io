@@ -218,7 +218,7 @@ W
   ====
   - [[Page~23|n66 郅(7)]]
     --
-    [[The expected reflex is zat1 from Middle Chinese 之日切,
+    [[The expected reading is zat1 from Middle Chinese 之日切,
     but the common reading is zat6;
     **see $郅zat6 for the canonical entry**.]]
     --

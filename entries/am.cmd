@@ -154,7 +154,7 @@ W
   [[Not present]]
 C
   ==
-  - The expected reflex is am1 from Middle Chinese 烏含切,
+  - The expected reading is am1 from Middle Chinese 烏含切,
     but Fan Wan has am2; **see $諳am2 for the canonical entry**.
   ==
 S
@@ -607,7 +607,7 @@ W
   [[Not present]]
 C
   ==
-  - The expected reflex is am3 from Middle Chinese 烏紺切,
+  - The expected reading is am3 from Middle Chinese 烏紺切,
     but Fan Wan has am2; **see $闇am2 for the canonical entry**.
   ==
 S

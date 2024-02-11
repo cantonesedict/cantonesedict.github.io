@@ -114,7 +114,7 @@ W
   ====
   - [[Page~16|n59 (1)甄]]
     --
-    [[The expected reflex is zan1 from Middle Chinese 職鄰切,
+    [[The expected reading is zan1 from Middle Chinese 職鄰切,
     but the common reading is jan1;
     **see $甄jan1 for the canonical entry**.]]
     --
