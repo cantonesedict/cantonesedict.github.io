@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [zaau1](#1)
 - [zaau2](#2)
+- [zaau3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -279,4 +280,60 @@ E
     1. The character component 爫. (Literally, "dog's paw atop".)
     ++
   ====
+$$
+
+
+##{#3 .williams} Ch(a/)u(3) [[zaau3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $罩3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### [罩]3 | _Ch(a/)u(3)_ [[zaau3]]
+
+$$
+R
+  ⽹ + 8
+U
+  U+7F69
+F
+  ==
+  - [[F2.42 ::[罩]::]] 嘲去聲取魚器也
+  - [[F2.42 䈇]] 同上
+  ==
+W
+  ====
+  - [[Page~29|n72 罩(3)]]
+    ==
+    - A net, or basket to catch mud fish by covering them;
+    - to catch or cover over;
+    - to shade;
+    - a shade, a cover, a protection from wind or dust;
+    - _(1)tang ch(a/)u(3)_
+        [[dang1 zaau3 燈罩]]
+        a lamp-globe;
+    - _(1)k(u/)n ch(a/)u(3)_
+        [[gun1 zaau3 棺罩]]
+        a network pall;
+    - _ch(a/)u(3) (4)(u")_
+        [[zaau3 jyu4-2 罩魚]],
+        to catch fish;
+    - _(1)kai ch(a/)u(3)_
+        [[gai1 zaau3 雞罩]]
+        a hen basket;
+    - _[(2)]ki(u/) ch(a/)u(3)_
+        [[giu6-2 zaau3 轎罩]]
+        a rain cover on a sedan.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised headword 𦋇 (罓卓) to 罩.
+  - Williams entry: Normalised headword 𦋇 (罓卓) to 罩.
+  - Williams' 轎罩: Corrected _(5)ki(u/)_ [[giu6-5]] to _(2)ki(u/)_ [[giu6-2]].
+  ==
 $$
