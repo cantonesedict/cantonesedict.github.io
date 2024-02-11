@@ -183,6 +183,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $嘬caai3
       - $𠾵 (⿰口揸)zaa1
+      - $嘲zaau1
       ==
       </nav>
   //
