@@ -733,7 +733,7 @@ W
   ====
   - [[Page~556 蹭(3)]]
     --
-    [[Idiosyncratic reading from Williams; **see $蹭sang3 for the canonical entry**.]]
+    [[Idiosyncratic reading from Williams. **See $蹭sang3 for the canonical entry.**]]
     --
   ====
 S

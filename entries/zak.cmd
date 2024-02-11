@@ -272,7 +272,7 @@ W
   ====
   - [[Page~12|n55 賾(7)]]
     --
-    [[Idiosyncratic reading from Fan Wan; **see $賾zaak3 for the canonical entry**.]]
+    [[Idiosyncratic reading from Fan Wan. **See $賾zaak3 for the canonical entry.**]]
     --
   ====
 C

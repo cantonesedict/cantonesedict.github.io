@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2024-01-07
+* %date-modified --> 2024-02-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -406,7 +406,7 @@ W
   ====
   - [[Page~342 (2)欿]]
     --
-    [[Idiosyncratic reading from Fan Wan; **see $欿ham2 for the canonical entry**.]]
+    [[Idiosyncratic reading from Fan Wan. **See $欿ham2 for the canonical entry.**]]
     --
   ====
 S

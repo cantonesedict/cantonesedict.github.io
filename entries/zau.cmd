@@ -109,7 +109,7 @@ W
   ====
   - [[Page~560 (1)僽]]
     --
-    [[Idiosyncratic reading from Williams; **see $僽zau3 for the canonical entry**.]]
+    [[Idiosyncratic reading from Williams. **See $僽zau3 for the canonical entry.**]]
     --
   ====
 C

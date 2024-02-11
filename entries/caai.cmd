@@ -377,7 +377,7 @@ W
   ====
   - [[Page~11|n54 瘵(3)]]
     --
-    [[Idiosyncratic reading from Fan Wan; **see $瘵zaai3 for the canonical entry**.]]
+    [[Idiosyncratic reading from Fan Wan. **See $瘵zaai3 for the canonical entry.**]]
     --
   ====
 S

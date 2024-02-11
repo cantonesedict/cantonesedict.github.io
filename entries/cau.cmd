@@ -113,7 +113,7 @@ W
   ====
   - [[Page~562 (1)[偢]^]]
     --
-    [[Idiosyncratic reading from Fan Wan; **see $愀ciu2 for the canonical entry**.]]
+    [[Idiosyncratic reading from Fan Wan. **See $愀ciu2 for the canonical entry.**]]
     --
   ====
 C
@@ -388,7 +388,7 @@ W
   ====
   - [[Page~563 (1)甃]]
     --
-    [[Idiosyncratic reading from Fan Wan; **see $甃zau3 for the canonical entry**.]]
+    [[Idiosyncratic reading from Fan Wan. **See $甃zau3 for the canonical entry.**]]
     --
   ====
 C

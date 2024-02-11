@@ -571,7 +571,7 @@ W
   ==
   - [[Page~551 沁(3)]]
     --
-    [[Idiosyncratic reading from Fan Wan; **see $沁sam3 for the canonical entry**.]]
+    [[Idiosyncratic reading from Fan Wan. **See $沁sam3 for the canonical entry.**]]
     --
   ==
 S

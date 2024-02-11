@@ -360,7 +360,7 @@ W
   ==
   - [[Page~553 (5)鏨]]
     --
-    [[Idiosyncratic reading from Williams; **see $鏨caam5 for the canonical entry**.]]
+    [[Idiosyncratic reading from Williams. **See $鏨caam5 for the canonical entry.**]]
     --
   ==
 C

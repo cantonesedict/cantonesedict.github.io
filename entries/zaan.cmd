@@ -727,7 +727,7 @@ W
   ====
   - [[Page~19|n62 站(6)]]
     --
-    [[Idiosyncratic reading from Fan Wan; **see $站zaam6 for the canonical entry**.]]
+    [[Idiosyncratic reading from Fan Wan. **See $站zaam6 for the canonical entry.**]]
     --
   ====
 C

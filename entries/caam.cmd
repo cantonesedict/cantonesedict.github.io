@@ -380,8 +380,8 @@ W
   ====
   - [[Page~554 (2)摻]]
     --
-    [[Idiosyncratic reading from Fan Wan;
-    **see $摻saam1 and $摻saam2 for the canonical entries**.]]
+    [[Idiosyncratic reading from Fan Wan.
+    **See $摻saam1 and $摻saam2 for the canonical entries.**]]
     --
   <##
     ==
