@@ -68,6 +68,7 @@ $$
 - $篘1
 - $紬1
 - $鞦1
+- $鰌1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -608,6 +609,26 @@ E
     ++
     1. A hanging-seat swing.
     ++
+  ====
+$$
+
+### 鰌1 | _(1)Ts(')au_ [[cau1]]
+
+$$
+R
+  ⿂ + 9
+U
+  U+9C0C
+F
+  ==
+  - [[F1.50 鰌]] 與鰍同泥鰌又海鰌魚
+  ==
+W
+  ====
+  - [[Page~563 (1)鰌(1)鰍]]
+    --
+    [[Alternative form of 鰍. **See $鰍cau1 for the canonical entry.**]]
+    --
   ====
 $$
 
