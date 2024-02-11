@@ -14,7 +14,7 @@ RegexDictionaryReplacement: #.syntax.character-headings
     [ ] (?P<bracketed> \[? (?P<character> \S ) \]? ) (?P<tone_number> [1-6] )
     (?P<etc> .*? ) [ ][|][ ] (?P<reading> .* )
     -->
-  ###{#\g<tone_number>\g<character> .williams\g<addition_marker>} <span class="headword">\g<bracketed>\g<etc></span> \g<reading>
+  ###{#\g<tone_number>\g<character> .williams\g<addition_marker>} <span class="headword">::\g<bracketed>::\g<etc></span> \g<reading>
 - concluding_replacements: #.syntax.addition-marker-to-class
 
 
