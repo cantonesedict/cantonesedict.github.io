@@ -1168,6 +1168,7 @@ $$
 - $奏3
 - $晝3
 - $椆3
+- $甃3
 - $皺3
 - $縐3
 ==
@@ -1410,6 +1411,41 @@ W
 S
   ==
   - $椆cau4
+  ==
+$$
+
+###+ 甃3 | _Tsau(3)_ [[zau3]]
+
+$$
+R
+  ⽡ + 9
+U
+  U+7503
+V
+  ==
+  - cau1 (probably errant)
+  ==
+F
+  ==
+  - [[F1.50 甃 _(1)Ts(')au_ (cau1)]] ::[井]甓又結砌也::
+  ==
+W
+  ====
+  - [[Page~563 (1)甃 _(1)Ts(')au_ (cau1); here corrected to _Tsau(3)_ (zau3)]]
+    ==
+    - The brick lining of a well;
+    - to lay, as bricks;
+    - to pile up;
+    - to finish off a well.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 并 to 井.
+  ==
+S
+  ==
+  - $甃cau1
   ==
 $$
 
