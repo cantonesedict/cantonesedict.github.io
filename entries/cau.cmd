@@ -986,6 +986,7 @@ $$
 - $讎4
 - $讐4
 - $躊4
+- $遒4
 - $酋4
 - $酧4
 - $酬4
@@ -1572,6 +1573,33 @@ W
     - _(4)ch(')au (4)ch(')(u")_
         [[cau4 cyu4 躊躇]],
         undecided, undetermined, unable to progress.
+    ==
+  ====
+$$
+
+### 遒4 | _(4)Ts(')au_ [[cau4]]
+
+$$
+R
+  ⾡ + 9
+U
+  U+9052
+F
+  ==
+  - [[F1.53 遒]] 聚也
+  ==
+W
+  ====
+  - [[Page~563 (4)遒]]
+    ==
+    - To urge, to constrain, to press upon;
+    - a crowd, a throng;
+    - to exhaust, to carry to the utmost, to end;
+    - brave, strong, unyielding;
+    - to bring together;
+    - _(4)ts(')au (4)yan_
+        [[cau4 jan4 遒人]],
+        a herald.
     ==
   ====
 $$
