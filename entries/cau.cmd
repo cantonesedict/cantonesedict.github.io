@@ -816,6 +816,7 @@ $$
 - $糗3
 - $臭3
 - $𧽒 (⿺走臭)3
+- $輳3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -1061,6 +1062,29 @@ S
   ==
   - $𧽒 (⿺走臭)cau5
   ==
+$$
+
+### 輳3 | _Ts(')au(3)_ [[cau3]]
+
+$$
+R
+  ⾞ + 9
+U
+  U+8F33
+F
+  ==
+  - [[F1.55 輳]] 輻輳猶聚集也
+  ==
+W
+  ====
+  - [[Page~563]]
+    ==
+    - Similar to the preceding [[$湊3]];
+    - centre of a wheel, place where the rays centre;
+    - to collect, to bring together;
+    - concentrated.
+    ==
+  ====
 $$
 
 
