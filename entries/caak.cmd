@@ -206,7 +206,7 @@ W
     ==
   - [[Page~14|n57 拆(8); here normalised to 坼]]
     ==
-    - [[...]]
+    - [[...]]^
     - _ch(')(a/)k(8) (2)hau yat(9)_
         [[caak3 hau2 jat6-2 坼口日]]
         unlucky days for consulting;

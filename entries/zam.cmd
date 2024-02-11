@@ -448,7 +448,7 @@ W
     - _(5)(i/) (2)cham_
         [[ji5 zam2 耳枕]],
         a support for the ear;
-    - [[...]]
+    - [[...]];
     - _(2)cham (4)t(')au_
         [[zam2 tau4 枕頭]],
         a pillow;
@@ -529,7 +529,7 @@ W
     - _(2)sz' (2)ch(e/) (1)s(e/)ung cham[(3)] tsik(9)_
         [[si2 ze2 soeng1 zam3 zik6 死者相枕藉]]
         the dead lay pillowed on each other;
-    - [[...]]
+    - [[...]];
     - _[k(')uk](7) (1)kwang (4)(i/) cham[(3)]_
         [[kuk1 gwang1 ji4 zam3 曲肱而枕]],
         pillowed on his arm;

@@ -78,17 +78,17 @@ W
   ====
   - [[Page~12|n55 責(8); here normalised to 矺]]
     ==
-    - [[...]]
+    - [[...]];
     - to lay a weight on;
     - to squeeze smooth, to press;
-    - [[...]]
+    - [[...]];
     - _ch(a/)k(8) ch(u")(6) (5)k(')(u")_
         [[zaak3 zyu6 keoi5 矺住佢]],
         keep it down;
     - _ch(a/)k(8) (2)sz'_
         [[zaak3 sei2 矺死]]
         crushed to death;
-    - [[...]]
+    - [[...]];
     - _ch(a/)k(8) tsoi(6)_
         [[zaak3 zoi6 矺載]]
         to ballast a ship;
@@ -335,7 +335,7 @@ W
     - _ch(a/)k(8) fat(9)_
         [[zaak3 fat6 責罰]]
         to fine;
-    - [[...]]
+    - [[...]];
     - _ch(a/)k(8) (4)[sh(e/)ung]_
         [[zaak3 soeng4 責償]],
         to compel repayment;

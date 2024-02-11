@@ -112,11 +112,11 @@ W
   ====
   - [[Page~554 (1)親; here normalised to 嚫]]
     ==
-    - [[...]]
+    - [[...]];
     - _(2)kong (1)ts(')an (2)h(o\) (2)hau l(a/)n(6)_
         [[gong2 can1 hou2 hau2 laan6 講嚫好口爛]]
         split my mouth if I ever said so;
-    - [[...]]
+    - [[...]];
     - _p(')ung(3) (1)ts(')an_
         [[pung3 can1 碰嚫]],
         to run against;
@@ -247,7 +247,7 @@ W
     - _(1)ts(')an (2)tsui_
         [[can1 zeoi2 親嘴]],
         to kiss;
-    - [[...]]
+    - [[...]];
     - _(1)ts(')an (5)ng(a/)n k(i/)n(3)_
         [[can1 ngaan5 gin3 親眼見]]
         I saw it myself;

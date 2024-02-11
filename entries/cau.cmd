@@ -1493,7 +1493,7 @@ W
     ==
     - Silk;
     - pongee, senshaw, levantine, lustring;
-    - [[...]]
+    - [[...]];
     - _(1)[sh(a/)ng] (4)ch(')au_
         [[saang1 cau4 生綢]],
         stiff pongee;
@@ -1605,9 +1605,9 @@ W
     ==
     - [[See $仇sau4 for "enmity" senses]]
     - to verify, to collate with;
-    - [[...]]
+    - [[...]];
     - used for the next [[$酬4]];
-    - [[...]]
+    - [[...]];
     - _(4)ch(')au t(u/)i(3)_
         [[cau4 deoi3 讎對]]
         to collate;

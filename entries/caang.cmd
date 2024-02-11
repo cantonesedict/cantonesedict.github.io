@@ -397,9 +397,9 @@ W
     Read _ch(')(a/)ng(3)_ [[caang3]]; a colloquial word[.]
     --
     ==
-    - [[...]]
+    - [[...]];
     - kick at;
-    - [[...]]
+    - [[...]];
     - _ch(')(a/)ng(3) (5)k(')(u") ch(')ut(7) h(u")(3)_
         [[caang3 keoi5 ceot1 heoi3 𨅝佢出去]]
         kick him out;
