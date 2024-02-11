@@ -248,6 +248,9 @@ window.onload = applyFilter;
     , cau2 joeng6-2
     , [醜樣](/entries/cau#cantonese-醜樣)
   //
+    , cau3
+    , [湊](/entries/cau#cantonese-湊)
+  //
     , cau4-2
     , [籌](/entries/cau#cantonese-籌)
   //

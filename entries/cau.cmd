@@ -812,6 +812,7 @@ $$
 =={.modern}
 - $凑3
 - $嗅3
+- $湊3
 - $糗3
 - $臭3
 - $𧽒 (⿺走臭)3
@@ -832,7 +833,7 @@ F
   ==
 W
   ====
-  - [[Page~563 凑(3)]]
+  - [[Page~563 凑(3)湊(3)]]
     --
     [[Alternative form of 湊. **See $湊cau3 for the canonical entry.**]]
     --
@@ -861,6 +862,83 @@ W
     - To smell, to perceive odors as a dog does;
     - the plaintive cry of birds.
     ==
+  ====
+$$
+
+### 湊3 | _Ts(')au(3)_ [[cau3]]
+
+$$
+R
+  ⽔ + 9
+U
+  U+6E4A
+A
+  ==
+  - $凑3
+  ==
+F
+  ==
+  - [[F1.55 凑]] 會合也
+  ==
+W
+  ====
+  - [[Page~563 凑(3)湊(3)]]
+    ==
+    - To collect, to gather;
+    - to run together;
+    - to run into each other;
+    - a gathering on the water, as at a regatta;
+    - a reunion;
+    - to go with one, to take care of;
+    - with, together;
+    - a concurrence of circumstances, to estimate the probabilities of;
+    - to strive to excel;
+    - for;
+    - _(5)n(i/) h(u")(3) ts(')au(3) (5)ngo (2)t(a/) [t(')ing](3)_
+        [[nei5 heoi3 cau3 ngo5 daa2 ting3 你去湊我打聽]]
+        will you go and learn about it for me;
+    - _ts(')au(3) (2)h(a/)u_
+        [[cau3 haau2 湊巧]],
+        a lucky guess, a fortunate coincidence, just as;
+    - _ts(')au(3) (1)ng(a/)m_
+        [[cau3 ngaam1 湊啱]],
+        a lucky hit;
+        just the thing;
+    - _(2)p(i/) (1)sam (1)k(i/) ts(')au(3) (5)k(')(u")_
+        [[bei2 sam1 gei1 cau3 keoi5 畀心機湊佢]],
+        look carefully after him;
+    - _(2)t(')ai (4)lai ts(')au(3)_
+        [[tai2 lai4 cau3 睇嚟湊]]
+        I'll see how I can do;
+    - _ts(')au(3) kau(3)_
+        [[cau3 gau3 湊夠]]
+        to make up enough;
+    - _(4)'m ts(')au(3) (5)n(i/) (2)h(o\)_
+        [[m4 cau3 nei5 hou2 唔湊你好]],
+        I'll have nothing to do with you;
+    - _ts(')au(3) (4)m(a/)i yat(7) h(i/)(3)_
+        [[cau3 maai4 jat1 hei3 湊埋一氣]]
+        lump it all in one;
+    - _ts(')au(3) h(o\)p(9)_
+        [[cau3 hap6 湊合]]
+        to group.
+    ==
+  ====
+C
+  ==
+  - Williams' 你去湊我打聽: Corrected _t(')eng(3)_ [[teng3]] to _t(')ing(3)_ [[ting3]].
+    The use of 湊 as "for" is very dated.
+  ==
+E
+  ====
+  - 【湊】 (cau3):
+    ++
+    1. To look after, to raise, to baby sit.
+       ==
+       - 湊仔 (cau3 zai2): "Look after kids."
+       - 湊大佢 (cau3 daai6): "Raised him up."
+       ==
+    ++
   ====
 $$
 
