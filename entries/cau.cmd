@@ -67,6 +67,7 @@ $$
 - $秋1
 - $篘1
 - $紬1
+- $鞦1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -570,6 +571,44 @@ S
   ==
   - $紬cau4
   ==
+$$
+
+### 鞦1 | _(1)Ts(')au_ [[cau1]]
+
+$$
+R
+  ⾰ + 9
+U
+  U+97A6
+F
+  ==
+  - [[F1.50 鞦]] ::馬[靷]又鞦韆::
+  ==
+W
+  ====
+  - [[Page~563 (1)鞦]]
+    ==
+    - The traces of a carriage;
+    - _(1)ts(')au (1)ts(')(i/)n_
+        [[cau1 cin1 鞦韆]],
+        a swing, a whirligig, a see-saw;
+    - _(2)t(a/) (1)ts(')au (1)ts(')(i/)n_
+        [[daa2 cau1 cin1 打鞦韆]],
+        to swing.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 䩑 to 靷.
+  - In vernacular Cantonese, 鞦韆 is switched to 韆鞦, "thousand autumns".
+  ==
+E
+  ====
+  - 【韆鞦】 (cin1 cau1):
+    ++
+    1. A hanging-seat swing.
+    ++
+  ====
 $$
 
 
