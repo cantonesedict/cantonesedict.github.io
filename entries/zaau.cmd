@@ -292,6 +292,7 @@ $$
 - $笊3
 - $罩3
 - $𦻐 (⿱艹焯)3
+- $踔3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -420,4 +421,35 @@ W
     [[Alternative form of 㷹. **See $㷹zaau3 for the canonical entry.**]]
     --
   ====
+$$
+
+### 踔3 | _Ch(a/)u(3)_ [[zaau3]]
+
+$$
+R
+  ⾜ + 8
+U
+  U+8E14
+V
+  ==
+  - caau3 (expected from 丑敎切)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~29|n72 踔(3)]]
+    ==
+    - To tread on;
+    - to stretch ahead in running;
+    - to jump over.
+    ==
+    --
+    Read _ch(')euk(8)_ [[coek3]]; [[**see $踔coek3**]].
+    --
+  ====
+S
+  ==
+  - $踔coek3
+  ==
 $$
