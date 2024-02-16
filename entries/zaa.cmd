@@ -479,6 +479,7 @@ $$
 - $咋3
 - $搾3
 - $榨3
+- $炸3
 - $痄3
 - $蚱3
 - $蜡3
@@ -673,6 +674,29 @@ C
   - Williams does not consider 搾 (pressing with the hand)
     interchangeable with 榨 (pressing with a machine);
     see $搾zaa3 for the "hand-press" senses.
+  ==
+$$
+
+###+ 炸3 | _Ch(a/)(3)_ [[zaa3]]
+
+$$
+R
+  ⽕ + 5
+U
+  U+70B8
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Not present in Williams,
+    and not attested in the Middle Chinese rime books;
+    an entry is included here for completeness.
+    ++
+    1. To blow up.
+    1. To deep-fry.
+    ++
   ==
 $$
 
