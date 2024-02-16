@@ -291,6 +291,7 @@ $$
 - $㷹3
 - $笊3
 - $罩3
+- $𦻐 (⿱艹焯)3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -397,4 +398,26 @@ C
   - Williams entry: Normalised headword 𦋇 (罓卓) to 罩.
   - Williams' 轎罩: Corrected _(5)ki(u/)_ [[giu6-5]] to _(2)ki(u/)_ [[giu6-2]].
   ==
+$$
+
+### 𦻐3 [[⿱艹焯]] | _Ch(a/)u(3)_ [[zaau3]]
+
+$$
+R
+  ⾋ + 12
+U
+  U+26ED0
+A
+  ==
+  - $𦻐3
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~29|n72 𦻐(3) (⿱艹焯)]]
+    --
+    [[Alternative form of 㷹. **See $㷹zaau3 for the canonical entry.**]]
+    --
+  ====
 $$

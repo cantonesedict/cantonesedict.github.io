@@ -628,6 +628,14 @@ For all radicals, see [Index of characters by radical](./).
       ==
       </nav>
   //
+    , 12
+    ,
+      <nav class="sideways">
+      ==
+      - $𦻐 (⿱艹焯)zaau3
+      ==
+      </nav>
+  //
     , 14
     ,
       <nav class="sideways">
