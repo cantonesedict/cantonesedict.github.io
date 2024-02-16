@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaau
-* %date-modified --> 2024-02-11
+* %date-modified --> 2024-02-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -288,10 +288,35 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $笊3
 - $罩3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 笊3 | _Ch(a/)u(3)_ [[zaau3]]
+
+$$
+R
+  ⽵ + 4
+U
+  U+7B0A
+F
+  ==
+  - [[F2.42 笊]] 笊籬
+  ==
+W
+  ====
+  - [[Page~29|n72 笊(3)]]
+    ==
+    - A skimmer made of bamboo or iron wire;
+    - nests in caves;
+    - _ch(a/)u(3) (4)l(i/)_
+        [[zaau3 lei4-1 笊籬]],
+        a wire ladle.
+    ==
+  ====
+$$
 
 ### [罩]3 | _Ch(a/)u(3)_ [[zaau3]]
 
