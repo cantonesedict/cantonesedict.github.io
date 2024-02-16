@@ -288,11 +288,47 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $㷹3
 - $笊3
 - $罩3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+###+ 㷹3 | _Ch(a/)u(3)_ [[zaau3]]
+
+$$
+R
+  ⽕ + 12
+U
+  U+3DF9
+A
+  ==
+  - $𦻐3
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~29|n72 𦻐(3) (⿱艹焯); here normalised to 㷹]]
+    ==
+    - Blazing fire;
+    - to fry;
+    - to boil in fat;
+    - _(4)yau ch(a/)u(3)_
+        [[jau4 zaau3 油㷹]]
+        boiled in fat;
+    - _ch(a/)u(3) t(o\)[(3)] ts(')ui(3)_
+        [[zaa3 dou3 ceoi3 㷹到脆]]
+        fried crisp.
+    ==
+  ====
+C
+  ==
+  - The deep-fry sense is very dated; $炸zaa3 is now preferred.
+  - Williams' 㷹到脆: Corrected _(2)t(o\)_ [[dou2]] to _t(o\)(3)_ [[dou3]].
+  ==
+$$
 
 ### 笊3 | _Ch(a/)u(3)_ [[zaau3]]
 
