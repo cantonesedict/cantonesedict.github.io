@@ -135,6 +135,7 @@ $$
 - $找2
 - $抓2
 - $爪2
+- $箒2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -149,6 +150,10 @@ U
 A
   ==
   - $箒2
+  ==
+V
+  ==
+  - zau2 (expected from 之九切)
   ==
 F
   ==
@@ -319,6 +324,30 @@ E
     1. The character component 爫. (Literally, "dog's paw atop".)
     ++
   ====
+$$
+
+###+ 箒2 | _(2)Ch(a/)u_ [[zaau2]]
+
+$$
+R
+  ⽵ + 8
+U
+  U+7B92
+F
+  ==
+  - [[F1.53 箒 _(2)Chau_ (zau2)]] 掃箒
+  ==
+W
+  ====
+  - [[Page~25|n68 (2)帚(2)箒 _(2)Chau_ (zau2); here normalised to  _(2)Ch(a/)u_ (zaau2)]]
+    --
+    [[Alternative form of 帚. **See $帚zaau2 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $箒zau2
+  ==
 $$
 
 

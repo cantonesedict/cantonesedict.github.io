@@ -97,6 +97,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $箏zaang1
       - $箏zang1
+      - $箒zaau2
       - $箒zau2
       ==
       </nav>
