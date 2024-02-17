@@ -346,7 +346,7 @@ W
   ====
 S
   ==
-  - $櫂zaau6 (TODO)
+  - $櫂zaau6
   ==
 $$
 
@@ -514,6 +514,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $棹6
+- $櫂6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -540,5 +541,63 @@ W
 S
   ==
   - $棹zaau3
+  ==
+$$
+
+###+ 櫂6 | _Ch(a/)u(6)_ [[zaau6]]
+
+$$
+R
+  ⽊ + 14
+U
+  U+6AC2
+A
+  ==
+  - $棹6
+  - 掉
+  ==
+F
+  ==
+  - [[F2.42 棹 _Ch(a/)u(3)_ (zaau3)]] 進船之器
+  - [[F2.43 櫂 _Ch(a/)u(3)_ (zaau3)]] 同上
+  ==
+W
+  ====
+  - [[Page~29|n72 櫂(3)棹(3)掉(3) _Ch(a/)u(3)_ (zaau3); here corrected to _Ch(a/)u(6)_ (zaau6)]]
+    ==
+    - To row;
+    - to shoot an arrow;
+    - to throw away;
+    - a long oar;
+    - _ch(a/)u[(6)] k(e/)uk(8)_
+        [[zaau6 goek3]]
+        to limp, as the lame do;
+    - _ch(a/)u[(6)] chung(3)_
+        [[zaau6 zung3]]
+        to hit the bull's-eye;
+    - _ch(a/)u[(6)] (2)ts(e/)ung_
+        [[zaau6 zoeng2]],
+        to pull an oar;
+    - _ch(a/)u[(6)] (4)m(a/)i (4)t(')au_
+        [[zaau6 maai4 tau4]],
+        to pull ashore;
+    - _ch(a/)u[(6)] kwo(3) (2)hoi_
+        [[zaau6 gwo3 hoi2]],
+        to pull across the river;
+    - _ch(')ut(7) lik(9) ch(a/)u[(6)]_
+        [[ceot1 lik6 zaau6]]
+        row harder;
+    - _ch(a/)u[(6)] ch(')ut(7) (1)k(a/)i_
+        [[zaau6 ceot1 gaai1]],
+        throw it out in the street.
+    ==
+    --
+    The two last of these characters [[$棹6, 掉]]
+    are improperly used in Canton for the first [[櫂]].
+    --
+  ====
+S
+  ==
+  - $櫂zaau3
   ==
 $$
