@@ -24,6 +24,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [zaau1](#1)
 - [zaau2](#2)
 - [zaau3](#3)
+- [zaau6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -320,7 +321,7 @@ W
   ====
 S
   ==
-  - $棹zaau6 (TODO)
+  - $棹zaau6
   ==
 $$
 
@@ -503,5 +504,41 @@ W
 S
   ==
   - $踔coek3
+  ==
+$$
+
+
+##{#6 .modern} Ch(a/)u(6) [[zaau6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $棹6
+==
+</nav>
+<## /tone-6-characters ##>
+
+###+ 棹6 | _Ch(a/)u(6)_ [[zaau6]]
+
+$$
+R
+  ⽊ + 8
+U
+  U+68F9
+F
+  ==
+  - [[F2.42 棹 _Ch(a/)u(3)_ (zaau3)]] 進船之器
+  - [[F2.43 櫂 _Ch(a/)u(3)_ (zaau3)]] 同上
+  ==
+W
+  ====
+  - [[Page~29|n72 櫂(3)棹(3)掉(3) _Ch(a/)u(3)_ (zaau3)]]
+    --
+    [[Alternative form of 櫂. **See $櫂zaau6 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $棹zaau3
   ==
 $$
