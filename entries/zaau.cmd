@@ -288,6 +288,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $棹3
 - $櫂3
 - $㷹3
 - $笊3
@@ -297,6 +298,31 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 棹3 | _Ch(a/)u(3)_ [[zaau3]]
+
+$$
+R
+  ⽊ + 8
+U
+  U+68F9
+F
+  ==
+  - [[F2.42 棹]] 進船之器
+  - [[F2.43 櫂]] 同上
+  ==
+W
+  ====
+  - [[Page~29|n72 櫂(3)棹(3)掉(3)]]
+    --
+    [[Alternative form of 櫂, and idiosyncratic reading from Fan Wan. **See $櫂zaau6 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $棹zaau6 (TODO)
+  ==
+$$
 
 ### 櫂3 | _Ch(a/)u(3)_ [[zaau3]]
 
