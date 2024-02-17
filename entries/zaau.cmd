@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaau
-* %date-modified --> 2024-02-16
+* %date-modified --> 2024-02-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -288,6 +288,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $櫂3
 - $㷹3
 - $笊3
 - $罩3
@@ -296,6 +297,31 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 櫂3 | _Ch(a/)u(3)_ [[zaau3]]
+
+$$
+R
+  ⽊ + 14
+U
+  U+6AC2
+F
+  ==
+  - [[F2.42 棹]] 進船之器
+  - [[F2.43 櫂]] 同上
+  ==
+W
+  ====
+  - [[Page~29|n72 櫂(3)棹(3)掉(3)]]
+    --
+    [[Idiosyncratic reading from Fan Wan. **See $櫂zaau6 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $櫂zaau6 (TODO)
+  ==
+$$
 
 ###+ 㷹3 | _Ch(a/)u(3)_ [[zaau3]]
 
