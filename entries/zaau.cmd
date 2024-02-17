@@ -627,6 +627,7 @@ $$
 =={.modern}
 - $棹6
 - $櫂6
+- $驟6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -712,5 +713,43 @@ W
 S
   ==
   - $櫂zaau3
+  ==
+$$
+
+###+ 驟6 | _Ch(a/)u(6)_ [[zaau6]]
+
+$$
+R
+  ⾺ + 14
+U
+  U+9A5F
+V
+  ==
+  - zau6 (expected from 鋤祐切)
+  ==
+F
+  ==
+  - [[F1.55 驟 _Chau(6)_ (zau6)]] 馳驟又疾速也
+  ==
+W
+  ====
+  - [[Page~562 驟(6) _Tsau(6)_ (zau6); here normalised to _Ch(a/)u(6)_ (zaau6)]]
+    ==
+    - A fleet horse;
+    - to run;
+    - quick, fleet;
+    - pressing, urgent;
+    - frequently, repeatedly;
+    - _[ch(a/)u](6) (4)(i/)n (4)(i/) (4)loi_
+        [[zaau6 jin4 ji4 loi4 驟然而來]],
+        arrived very quickly;
+    - _pat(7) (2)ho [ch(a/)u](6) tak(7)_
+        [[bat1 ho2 zaau6 dak1 不可驟得]]
+        it can not be dune in an instant.
+    ==
+  ====
+S
+  ==
+  - $驟zau6
   ==
 $$
