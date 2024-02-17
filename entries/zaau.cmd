@@ -131,12 +131,50 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $帚2
 - $找2
 - $抓2
 - $爪2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+###+ 帚2 | _(2)Ch(a/)u_ [[zaau2]]
+
+$$
+R
+  ⼱ + 5
+U
+  U+5E1A
+A
+  ==
+  - $箒2
+  ==
+F
+  ==
+  - [[F1.53 帚 _(2)Chau_ (zau2)]] ::[帚]彗掃也::
+  ==
+W
+  ====
+  - [[Page~25|n68 (2)帚(2)箒 _(2)Chau_ (zau2); here normalised to  _(2)Ch(a/)u_ (zaau2)]]
+    ==
+    - A besom;
+    - a broom;
+    - to sweep up dirt, for which the first [[帚]] is most proper;
+    - _chap(7) (1)k(i/) (2)[ch(a/)u]_
+        [[zap1 gei1 zaau2 執箕帚]],
+        term for a wife or concubine.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed missing character 帚.
+  ==
+S
+  ==
+  - $帚zau2
+  ==
+$$
 
 ### 找2 | _(2)Ch(a/)u_ [[zaau2]]
 

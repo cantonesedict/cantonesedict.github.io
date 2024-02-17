@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2024-02-11
+* %date-modified --> 2024-02-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -897,9 +897,13 @@ W
     **see $帚zaau2 for the canonical entry**.]]
     --
   ====
+C
+  ==
+  - Fan Wan entry: Fixed missing character 帚.
+  ==
 S
   ==
-  - $帚zaau2 (TODO)
+  - $帚zaau2
   ==
 $$
 
