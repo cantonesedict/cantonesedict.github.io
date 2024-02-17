@@ -136,6 +136,7 @@ $$
 - $抓2
 - $爪2
 - $箒2
+- $肘2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -347,6 +348,50 @@ W
 S
   ==
   - $箒zau2
+  ==
+$$
+
+###+ 肘2 | _(2)Ch(a/)u_ [[zaau2]]
+
+$$
+R
+  ⾁ + 3
+U
+  U+8098
+V
+  ==
+  - zau2 (expected from 陟柳切)
+  ==
+F
+  ==
+  - [[F1.53 ::[肘]:: _(2)Chau_ (zau2)]] ::臂節也又制[肘]::
+  ==
+W
+  ====
+  - [[Page~25|n68 (2)肘 _(2)Chau_ (zau2); here normalised to  _(2)Ch(a/)u_ (zaau2)]]
+    ==
+    - The fore-arm;
+    - the elbow, the wrist;
+    - to take by the wrist;
+    - a quarter of an animal;
+    - _(2)shau (2)[ch(a/)u]_
+        [[sau2 zaau2 手肘]],
+        the elbow;
+    - _(2)[ch(a/)u] yat(9)_
+        [[zaau2 jat6 肘腋]]
+        arms and sides, _met._ near relatives;
+    - _(4)ts(')(i/)n (1)ch(u") (2)[ch(a/)u]_
+        [[cin4 zyu1 zaau2 前豬肘]],
+        a shoulder of pork.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword 刖 to 肘.
+  ==
+S
+  ==
+  - $肘zau2
   ==
 $$
 
