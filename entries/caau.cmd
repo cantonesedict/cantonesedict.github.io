@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [caau1](#1)
+- [caau4](#4)
 ==
 </nav>
 <## /tones ##>
@@ -90,6 +91,53 @@ W
     - _(1)ch(')(a/)u s(a/)i(3)_
         [[caau1 saai3 抄嗮]]
         it is all copied.
+    ==
+  ====
+$$
+
+
+##{#4 .williams} (4)Ch(')(a/)u [[caau4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways">
+=={.modern}
+- $巢4
+==
+</nav>
+<## /tone-4-characters ##>
+
+### 巢4 | _(4)Ch(')(a/)u_ [[caau4]]
+
+$$
+R
+  ⼮ + 8
+U
+  U+5DE2
+F
+  ==
+  - [[F2.41 巢]] 鳥在木上曰巢
+  ==
+W
+  ====
+  - [[Page~29|n72 (4)巢]]
+    ==
+    - A nest on a tree;
+    - a den, a retreat;
+    - a lurking place;
+    - to nestle, to make a nest;
+    - _(4)ch(')(a/)u (u")t(9)_
+        [[caau4 jyut6 巢穴]]
+        to skulk in, as a brigand;
+    - _(4)ch(')(a/)u (1)wo_ [[caau4 wo1 巢窩]],
+        or
+      _ts(e/)uk(8) (4)ch(')(a/)u_ [[zoek3 caau4 雀巢]],
+        a nest;
+    - _ts(')(a/)k(9) (4)ch(')(a/)u_
+        [[caak6 caau4 賊巢]],
+        a den or resort of robbers;
+    - _p(a/)k(8) (5)ni(u/) (1)kwai (4)ch(')(a/)u_
+        [[baak3 niu5 gwai1 caau4 百鳥歸巢]],
+        the birds have gone to roost.
     ==
   ====
 $$
