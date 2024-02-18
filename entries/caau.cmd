@@ -104,6 +104,7 @@ $$
 - $巢4
 - $漅4
 - $窠4
+- $轈4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -233,4 +234,24 @@ S
   - $窠fo1 (TODO)
   - $窠wo1 (TODO)
   ==
+$$
+
+### 轈4 | _(4)Ch(')(a/)u_ [[caau4]]
+
+$$
+R
+  ⾞ + 11
+U
+  U+8F48
+F
+  ==
+  - [[F2.41 轈]] 兵車加轈以望敵也
+  ==
+W
+  ====
+  - [[Page~30|n73 (4)轈]]
+    ==
+    - A turret on a chariot, from the top of which to observe the troops.
+    ==
+  ====
 $$
