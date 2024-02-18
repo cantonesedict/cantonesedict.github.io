@@ -57,8 +57,8 @@ class Updater:
         Updater._check_ellipsis_item_punctuation(entry_cmd_name, old_cmd_content)
         Updater._check_typography_heuristic(entry_cmd_name, old_cmd_content)
         Updater._check_post_tone_commas_heuristic(entry_cmd_name, old_cmd_content)
-        Updater._check_williams_heuristic(entry_cmd_name, old_cmd_content)
-        Updater._check_jyutping_heuristic(entry_cmd_name, old_cmd_content)
+        Updater._check_williams_romanisation_heuristic(entry_cmd_name, old_cmd_content)
+        Updater._check_jyutping_romanisation_heuristic(entry_cmd_name, old_cmd_content)
 
         tone_syllable_list = Updater._gather_tone_syllable_list(old_cmd_content)
         navigation_tones = Updater._gather_navigation_tones(old_cmd_content)
@@ -131,7 +131,7 @@ class Updater:
             sys.exit(1)
 
     @staticmethod
-    def _check_williams_heuristic(entry_cmd_name, cmd_content):
+    def _check_williams_romanisation_heuristic(entry_cmd_name, cmd_content):
         bad_williams_entering_runs = re.findall(pattern=r'\S+[ptk]\([1-6]\)', string=cmd_content)
         if bad_williams_entering_runs:
             print(
@@ -177,7 +177,7 @@ class Updater:
             sys.exit(1)
 
     @staticmethod
-    def _check_jyutping_heuristic(entry_cmd_name, cmd_content):
+    def _check_jyutping_romanisation_heuristic(entry_cmd_name, cmd_content):
         bad_jyutping_runs = [
             run
             for run in re.findall(pattern=r'\b[a-z]+[1-9]\b', string=cmd_content)
