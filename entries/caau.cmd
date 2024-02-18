@@ -103,6 +103,7 @@ $$
 =={.modern}
 - $巢4
 - $漅4
+- $窠4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -172,5 +173,28 @@ W
 C
   ==
   - The reading caau4 is not unattested; Kangxi quotes 又《集韻》《韻會》《正韻》𠀤鋤交切音巢義同.
+  ==
+$$
+
+### 窠4 | _(4)Ch(')(a/)u_ [[caau4]]
+
+$$
+R
+  ⽳ + 8
+U
+  U+7AA0
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~30|n73 (4)窠]]
+    --
+    [[Idiosyncratic reading from Williams. **See $窠wo1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $窠fo1 (TODO)
+  - $窠wo1 (TODO)
   ==
 $$
