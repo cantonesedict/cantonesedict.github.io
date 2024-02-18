@@ -141,6 +141,38 @@ W
         [[baak3 niu5 gwai1 caau4 百鳥歸巢]],
         the birds have gone to roost.
     ==
+  - [[Page~30|n73 (4)窠; here normalised to 巢]]
+    --
+    [[...]]
+    --
+    --
+    A colloquial word.
+    --
+    ==
+    - Crumpled, wrinkled, corrugated, rough;
+    - shriveled, as dried fruit;
+    - _(2)h(o\) [(5)]ts(')z' (a/)(3) (4)p(')o (4)p(')(i/) k(o\)m(3) (4)ch(')(a/)u_
+        [[hou2 ci5 aa3 po4 pei4 gam3 caau4 好似阿婆皮咁巢]],
+        wrinkled as a granny's face;
+    - _(4)ch(')(a/)u (1)mang (1)mang_
+        [[caau4 mang1 mang1 巢𠵼𠵼]],
+        creased, rumpled.
+    ==
+  ====
+C
+  ==
+  - Williams' 好似阿婆皮咁巢: Corrected _(2)ts(')z'_ [[ci2]] to _(5)ts(')z'_ [[ci5]].
+  ==
+E
+  ====
+  - 【巢】 (caau4):
+    ++
+    1. Wrinkled.
+       ==
+       - 巢𠵼𠵼 (caau4 mang1 mang1): "Wrinkly."
+       - 巢皮 (caau4 pei4): "Wrinkled skin."
+       ==
+    ++
   ====
 $$
 
@@ -190,6 +222,10 @@ W
   - [[Page~30|n73 (4)窠]]
     --
     [[Idiosyncratic reading from Williams. **See $窠wo1 for the canonical entry.**]]
+    --
+    --
+    A colloquial word
+    [[here normalised to 巢; **see $巢caau4 for the canonical entry**]].
     --
   ====
 S

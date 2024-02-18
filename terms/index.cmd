@@ -218,6 +218,9 @@ window.onload = applyFilter;
     , caat3 zi2 gaau1
     , [擦紙膠](/entries/caat#cantonese-擦紙膠)
   //
+    , caau4
+    , [巢](/entries/caau#cantonese-巢)
+  //
     , cai4 cap1 cap1
     , [齊戢戢](/entries/cap#cantonese-齊戢戢)
   //
