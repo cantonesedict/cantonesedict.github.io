@@ -54,6 +54,7 @@ class Updater:
         with open(entry_cmd_name, 'r', encoding='utf-8') as old_cmd_file:
             old_cmd_content = old_cmd_file.read()
 
+        Updater._check_williams_locator_heuristic(entry_cmd_name, old_cmd_content)
         Updater._check_ellipsis_item_punctuation(entry_cmd_name, old_cmd_content)
         Updater._check_typography_heuristic(entry_cmd_name, old_cmd_content)
         Updater._check_post_tone_commas_heuristic(entry_cmd_name, old_cmd_content)
@@ -77,6 +78,20 @@ class Updater:
 
         with open(entry_cmd_name, 'w', encoding='utf-8') as new_cmd_file:
             new_cmd_file.write(new_cmd_content)
+
+    @staticmethod
+    def _check_williams_locator_heuristic(entry_cmd_name, cmd_content):
+        bad_locator_item_runs = [
+            run
+            for run in re.findall(pattern=r'- \[\[Page~.*', string=cmd_content, flags=re.MULTILINE)
+            if not re.search(pattern=r'\([1-9]\)', string=run)
+        ]
+        if bad_locator_item_runs:
+            print(
+                f'Error in `{entry_cmd_name}`: Williams locator items {bad_locator_item_runs} without tone symbol',
+                file=sys.stderr,
+            )
+            sys.exit(1)
 
     @staticmethod
     def _check_ellipsis_item_punctuation(entry_cmd_name, cmd_content):
