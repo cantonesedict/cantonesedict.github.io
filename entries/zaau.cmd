@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaau
-* %date-modified --> 2024-02-17
+* %date-modified --> 2024-02-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -63,7 +63,7 @@ F
   ==
 W
   ====
-  - [[Page~28|n71]]
+  - [[Page~28|n71 (1)啁]]
     --
     Interchanged with the last [[$嘲1]].
     --
@@ -101,7 +101,7 @@ F
   ==
 W
   ====
-  - [[Page~28|n71]]
+  - [[Page~28|n71 (1)嘲]]
     ==
     - To deride, to jeer at;
     - to ridicule;

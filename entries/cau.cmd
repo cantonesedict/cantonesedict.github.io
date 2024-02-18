@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2024-02-11
+* %date-modified --> 2024-02-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1071,7 +1071,7 @@ F
   ==
 W
   ====
-  - [[Page~563]]
+  - [[Page~563 輳(3)]]
     ==
     - Similar to the preceding [[$湊3]];
     - centre of a wheel, place where the rays centre;
