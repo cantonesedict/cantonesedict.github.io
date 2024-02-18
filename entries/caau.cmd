@@ -102,6 +102,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $巢4
+- $漅4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -140,4 +141,36 @@ W
         the birds have gone to roost.
     ==
   ====
+$$
+
+### 漅4 | _(4)Ch(')(a/)u_ [[caau4]]
+
+$$
+R
+  ⽔ + 11
+U
+  U+6F05
+V
+  ==
+  - ziu2 (expected from 子小切)
+  ==
+F
+  ==
+  - [[F2.41 漅]] 湖名在合肥亦作巢
+  ==
+W
+  ====
+  - [[Page~30|n73 (4)漅]]
+    ==
+    - Name of a large lake in the south of the province of Ng(a/)nhwui [[安徽]].
+    ==
+    --
+    Also read _(2)tsi(u/)_ [[ziu2]].
+    The last [[$巢4]] is usually used for this.
+    --
+  ====
+C
+  ==
+  - The reading caau4 is not unattested; Kangxi quotes 又《集韻》《韻會》《正韻》𠀤鋤交切音巢義同.
+  ==
 $$
