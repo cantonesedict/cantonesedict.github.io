@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [caau1](#1)
 - [caau2](#2)
+- [caau3](#3)
 - [caau4](#4)
 ==
 </nav>
@@ -215,6 +216,41 @@ E
     1. To sack, to fire.
     ++
   ====
+$$
+
+
+##{#3 .williams} Ch(')(a/)u(3) [[caau3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $鈔3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 鈔3 | _Ch(')(a/)u(3)_ [[caau3]]
+
+$$
+R
+  ⾦ + 4
+U
+  U+9214
+F
+  ==
+  - [[F2.42 鈔]] 鈔錢又畧取也
+  ==
+W
+  ====
+  - [[Page~30|n73 鈔(3)]]
+    --
+    [[Reading variation. **See $鈔caau1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $鈔caau1 (TODO)
+  ==
 $$
 
 
