@@ -221,11 +221,11 @@ window.onload = applyFilter;
     , caau2
     , [炒](/entries/caau#cantonese-炒)
   //
-    , caau2 jau4 jyu4-2
-    , [炒魷魚](/entries/caau#cantonese-炒魷魚)
-  //
     , caau2 jau4-2
     , [炒魷](/entries/caau#cantonese-炒魷)
+  //
+    , caau2 jau4 jyu4-2
+    , [炒魷魚](/entries/caau#cantonese-炒魷魚)
   //
     , caau4
     , [巢](/entries/caau#cantonese-巢)
@@ -308,11 +308,11 @@ window.onload = applyFilter;
     , jat1 zan6
     , [一陣~\(later\)](/entries/zan#cantonese-一陣-later)
   //
-    , jat1 zan6 gaan1
-    , [一陣間](/entries/zan#cantonese-一陣間)
-  //
     , jat1 zan6-2
     , [一陣~\(later\)](/entries/zan#cantonese-一陣-later)
+  //
+    , jat1 zan6 gaan1
+    , [一陣間](/entries/zan#cantonese-一陣間)
   //
     , jau5 zaau2
     , [有找](/entries/zaau#cantonese-有找)
