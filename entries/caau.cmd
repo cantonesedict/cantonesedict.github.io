@@ -51,6 +51,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $抄1
+- $鈔1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -95,6 +96,57 @@ W
         it is all copied.
     ==
   ====
+$$
+
+###+ 鈔1 | _(1)Ch(')(a/)u_ [[caau1]]
+
+$$
+R
+  ⾦ + 4
+U
+  U+9214
+V
+  ==
+  - caau3 (expected from 初敎切)
+  ==
+F
+  ==
+  - [[F2.42 鈔 _Ch(')(a/)u(3)_ (caau3)]] 鈔錢又畧取也
+  ==
+W
+  ====
+  - [[Page~30|n73 鈔(3) _Ch(')(a/)u(3)_ (caau3); here normalised to _(1)Ch(')(a/)u_ (caau1)]]
+    ==
+    - Interchanged with $抄1 to copy;
+    - a document, a government paper, a receipt;
+    - paper money;
+    - _(4)sh(u")n [(1)]ch(')(a/)u_
+        [[syun4 caau1 船鈔]]^
+        tonnage dues, charges on ships;
+    - _fong(3) [(1)]ch(')(a/)u_
+        [[fong3 caau1 放鈔]]^
+        to burn paper money to the gods;
+    - _(4)ts(')(i/)n [(1)]ch(')(a/)u_
+        [[cin4 caau1 錢鈔]]^
+        bills and money;
+    - _[(1)]ch(')(a/)u (1)kw(a/)n_
+        [[caau1 gwaan1 鈔關]],
+        a custom house;
+    - _shui(3) [(1)]ch(')(a/)u_
+        [[seoi3 caau1 稅鈔]]^
+        duties on goods, transit dues.
+    ==
+  ====
+C
+  ==
+  - Both the level reading 楚交切 _(1)ch(')(a/)u_ [[caau1]]
+    and the departing reading 初敎切 _ch(')(a/)u(3)_ [[caau3]]
+    are attested in 《廣韻》.
+  ==
+S
+  ==
+  - $鈔caau3
+  ==
 $$
 
 
@@ -249,7 +301,7 @@ W
   ====
 S
   ==
-  - $鈔caau1 (TODO)
+  - $鈔caau1
   ==
 $$
 

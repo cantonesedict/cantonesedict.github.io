@@ -68,6 +68,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $鈪aak3
+      - $鈔caau1
       - $鈔caau3
       - $鈒zaap6
       ==
