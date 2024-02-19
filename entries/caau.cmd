@@ -102,10 +102,41 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $吵2
 - $炒2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 吵2 | _(2)Ch(')(a/)u_ [[caau2]]
+
+$$
+R
+  ⼝ + 4
+U
+  U+5435
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~30|n73 (2)吵]]
+    ==
+    - To clamor, to wrangle;
+    - _(2)ch(')(a/)u n(a/)u(6)_
+        [[caau2 naau6 吵鬧]]
+        to scold;
+    - _(4)ts(')(o\) (2)ch(')(a/)u_
+        [[cou4 caau2 嘈吵]],
+        to raise a row;
+    - _t(a/)i(6) (2)ch(')(a/)u yat(7) [(4)]ch(')(e/)ung_
+        [[daai6 caau2 jat1 coeng4 大吵一場]],
+        a great hubbub;
+    - _(2)ch(')(a/)u (4)yan (5)(i/)_
+        [[caau2 jan4 ji5 吵人耳]],
+        a din in the ears.
+    ==
+  ====
+$$
 
 ### 炒2 | _(2)Ch(')(a/)u_ [[caau2]]
 
