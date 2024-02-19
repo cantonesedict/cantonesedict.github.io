@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caau
-* %date-modified --> 2024-02-18
+* %date-modified --> 2024-02-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [caau1](#1)
+- [caau2](#2)
 - [caau4](#4)
 ==
 </nav>
@@ -92,6 +93,96 @@ W
         [[caau1 saai3 抄嗮]]
         it is all copied.
     ==
+  ====
+$$
+
+
+##{#2 .williams} (2)Ch(')(a/)u [[caau2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $炒2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 炒2 | _(2)Ch(')(a/)u_ [[caau2]]
+
+$$
+R
+  ⽕ + 4
+U
+  U+7092
+F
+  ==
+  - [[F2.42 炒]] 乾熬食物曰炒
+  - [[F2.42 煼]] 同上
+  ==
+W
+  ====
+  - [[Page~30|n73 (2)炒]]
+    ==
+    - To roast in a boiler;
+    - to fry in fat or batter;
+    - _(1)kon (2)ch(')(a/)u_
+        [[gon1 caau2 乾炒]],
+        to fry brown;
+        to roast to dryness;
+    - _(2)ch(')(a/)u (4)ch(')(a/)_
+        [[caau2 caa4 炒茶]],
+        to fire tea;
+    - _(2)ch(')(a/)u k(a/)[(3)] (1)[f(e/)]_
+        [[caau2 gaa3 fe1 炒咖啡]],
+        to roast coffee;
+    - _(2)ch(')(a/)u m(a/)i(6)_
+        [[caau2 maai6 炒賣]]
+        to cook and sell;
+    - _(2)ch(')(a/)u (1)fung lut(9)_
+        [[caau2 fung1 leot6-2 炒風栗]]
+        to roast chestnuts;
+    - _(1)ts(i/)n (2)ch(')(a/)u_
+        [[zin1 caau2 煎炒]],
+        to fry;
+    - _(2)si(u/) (2)ch(')(a/)u yuk(9)_
+        [[siu2 caau2 juk6 小炒肉]]
+        fried hash and vegetables;
+    - _(2)ch(')(a/)u shuk(9)_
+        [[caau2 suk6 炒熟]]
+        to fry thoroughly.
+    ==
+  ====
+C
+  ==
+  - Williams' 炒咖啡: Changed dated _(1)k(a/) (1)f(i/)_ [[gaa1 fi1]] to modern _k(a/)(3) (1)f(e/)_ [[gaa3 fe1]].
+  - Williams' 炒賣: Now means to buy speculatively and sell.
+  ==
+E
+  ====
+  - 【炒】 (caau2):
+    ++
+    1. Short for [炒魷魚](#cantonese-炒魷魚).
+       ==
+       - 炒咗佢 (caau2 zo2 keoi5): "Fired him."
+       ==
+    1. To speculate, or to flip.
+       ==
+       - 炒賣 (caau2 maai6): "Speculate [and] sell."
+       - 炒樓 (caau2 lau4-2): "Flip property."
+       ==
+    1. To crash.
+       ==
+       - 炒單車 (caau2 daan1 ce1): "Stacked [my] bike."
+       ==
+    ++
+  - 【炒魷】 (caau2 jau4-2):
+    ++
+    1. Short for [炒魷魚](#cantonese-炒魷魚).
+    ++
+  - 【炒魷魚】 (caau2 jau4 jyu4-2):
+    ++
+    1. To sack, to fire.
+    ++
   ====
 $$
 
