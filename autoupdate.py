@@ -691,7 +691,10 @@ class CharacterEntry:
 
 class SplitCantoneseEntry(CantoneseEntry):
     def __lt__(self, other):
-        return (self.term_jyutping, self.term) < (other.term_jyutping, other.term)
+        return self.rank() < other.rank()
+
+    def rank(self):
+        return self.term_jyutping, self.term
 
 
 class Statistician:
