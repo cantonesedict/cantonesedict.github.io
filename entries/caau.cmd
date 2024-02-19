@@ -276,10 +276,35 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $摷3
 - $鈔3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+###+ 摷3 | _Ch(')(a/)u(3)_ [[caau3]]
+
+$$
+R
+  ⼿ + 11
+U
+  U+6477
+F
+  [[Not present]]
+W
+  [[Not present]]
+E
+  ====
+  - 【摷】 (caau3):
+    ++
+    1. To rummage or rifle through.
+       ==
+       - 摷鎖匙 (caau3 so2 si4): "Rummage [for the] keys."
+       - 摷垃圾 (caau3 laap6 saap3): "Rummage through rubbish."
+       ==
+    ++
+  ====
+$$
 
 ### 鈔3 | _Ch(')(a/)u(3)_ [[caau3]]
 

@@ -227,6 +227,9 @@ window.onload = applyFilter;
     , caau2 jau4 jyu4-2
     , [炒魷魚](/entries/caau#cantonese-炒魷魚)
   //
+    , caau3
+    , [摷](/entries/caau#cantonese-摷)
+  //
     , caau4
     , [巢](/entries/caau#cantonese-巢)
   //
