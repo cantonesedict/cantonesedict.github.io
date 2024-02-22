@@ -1843,11 +1843,11 @@ something like the mark used by the Chinese, as here exhibited.
     , _sh(e/)ung p(')ing_ [[seung ping]],
     , _sh(e/)ung sh(e/)ung_ [[seung seung]],
     , _sh(e/)ung h(u")_ [[seung heoi]],
-    , _sh(e/)ung yap_ [[seung yap]],
+    , _sh(e/)ung yap_ [[seung jap]],
     , _h(a/) p(')ing_ [[haa ping]],
     , _h(a/) sh(e/)ung_ [[haa seung]],
     , _h(a/) h(u")_ [[haa heoi]],
-    , _h(a/) yap_ [[haa yap]],
+    , _h(a/) yap_ [[haa jap]],
   //
     , _or upper monotone_
     , _or upper rising ton._
@@ -1967,9 +1967,9 @@ as _heng_ [[heng]] for _hing_ [[hing]], _ch(e/)uk_ for _ts(e/)uk_ [[now merged i
 For instance, a native will consider this sentence in the Canton
 dialect 擰一張床呢處, less barbarously pronounced if he
 hears it _(1)ling yet(7) (1)ch(a/)ng (4)ts(')ong (1)n(i/) sh(')(u")(3)_
-[[ling1 yet1 zaang1 cong4 ni1 syu3]], with all the tones correct,
+[[ling1 jet1 zaang1 cong4 ni1 syu3]], with all the tones correct,
 than if it should be spoken _ning(6) yat(9) (2)ch(e/)ung ch(')ong(3) n(i/)(3) (1)ch[(')](u")_
-[[ning6 yat6 zoeng2 cong3 ni3 cyu1]], with
+[[ning6 jat6 zoeng2 cong3 ni3 cyu1]], with
 all the tones wrong, which would perhaps be nonsense to him.
 --
 
@@ -2020,7 +2020,7 @@ the lower series.
     , (4)桓 _(u/)n_ [[wun4]]
     ,
     , 悶(6) _m(u/)n_ [[mun6]]
-    , 勃(9) _[p](u/)t_ [[but9]]
+    , 勃(9) _[p](u/)t_ [[but6]]
   //
     ,
     ,
@@ -2131,8 +2131,8 @@ or upper and lower rising tone,
 the _sh(e/)ung[(6)] h(u")(3)_ [[soeng6 heoi3]] ::[上]去::, and
 lastly the _h(a/)(6) h(u")(3)_ [[haa6 heoi3]] 下去 or upper and lower retiring tone,
 always in this same order. The other two tones,
-the _sh(e/)ung[(6)] yap(9)_ [[soeng6 yap6]] 上入
-and _h(a/)(6) yap(9)_ [[haa6 yap6]] 下入
+the _sh(e/)ung[(6)] yap(9)_ [[soeng6 jap6]] 上入
+and _h(a/)(6) yap(9)_ [[haa6 jap6]] 下入
 will of course be found under other syllables.
 --
 
