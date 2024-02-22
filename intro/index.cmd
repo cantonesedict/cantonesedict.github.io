@@ -1066,7 +1066,7 @@ in parenthesis under each number.
 
 11.
   _K(u/)_ [[gu]], _l(o\)_ [[lou]],
-  as _coo_, _cuckoo_, _lo_, _hoe_, _flow_ [[in Received Pronunciation]].
+  as _coo_, _cuckoo_ [[in Received Pronunciation]], _lo_, _hoe_, _flow_ [[in a Mid-Atlantic or General American accent]].
   The compilers of the Fan Wan [[分韻]] seem to have been unable to distinguish the characters
   under this final into the two terminations of _(u/)_ [[u]] and _(o\)_ [[ou]],
   and have combined them apparently because in the court dialect most of
@@ -1251,7 +1251,7 @@ in parenthesis under each number.
 31.
 [[[Page~xx of the original]{#page-xx}<n27> here]]
   _K(o\)m_ [[now gam]], _k(o\)p_ [[now gap]],
-  like _home_, _comb_, _hope_ [[in Received Pronunciation]],
+  like _home_, _comb_, _hope_ [[in a Mid-Atlantic or General American accent]],
   not like _some_, _come_, _sup_ [[in Received Pronunciation]],
   or _tom_, _hop_ [[in Received Pronunciation]];
   there is a peculiar _ora rotunda_ observable in the pronunciation
@@ -1481,7 +1481,7 @@ in the following table:---
     , _ko, song, kon, kok, hot_.
   //
     , 8.
-    , _(o\)_ as in _so_, _hoe_, _crow_ [[in Received Pronunciation]];
+    , _(o\)_ as in _so_, _hoe_, _crow_ [[in a Mid-Atlantic or General American accent]];
     , _n(o\), k(o\)m, h(o\)p_.
   //
     , 9.
