@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ze
-* %date-modified --> 2023-08-02
-* %copyright-prior-years -->
+* %date-modified --> 2024-02-22
+* %copyright-prior-years --> 2023--
 
 %%%
-
---{.modern}
-[[From Page~30|n73 (Ch(e/)) and Page~563 (Ts(e/)) of the original onwards.]]
---
 
 #{.williams} Ch(e/). Ts(e/). [[ze]]
 
@@ -21,3 +17,27 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [[Work in progress]]
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Ch(e/). [[Page~30|n73]]
+  - Ts(e/). [[Page~563]]
+  ==
+WP
+  ==
+  - Ch(e/) <span class="modern">= [tɕɛː]</span>
+  - Ts(e/) <span class="modern">= [tsɛː]</span>
+  ==
+MP
+  ==
+  - ze = [tsɛː] (preferred), [tɕɛː]
+  ==
+$$
