@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Introduction.
-* %date-modified --> 2024-02-10
+* %date-modified --> 2024-02-22
 * %copyright-prior-years --> 2023--
 * %meta-description --> Williams' introduction
 
@@ -1844,10 +1844,10 @@ something like the mark used by the Chinese, as here exhibited.
     , _sh(e/)ung sh(e/)ung_ [[seung seung]],
     , _sh(e/)ung h(u")_ [[seung heoi]],
     , _sh(e/)ung yap_ [[seung yap]],
-    , _h(a/) p(')ing_ [[ha ping]],
-    , _h(a/) sh(e/)ung_ [[ha seung]],
-    , _h(a/) h(u")_ [[ha heoi]],
-    , _h(a/) yap_ [[ha yap]],
+    , _h(a/) p(')ing_ [[haa ping]],
+    , _h(a/) sh(e/)ung_ [[haa seung]],
+    , _h(a/) h(u")_ [[haa heoi]],
+    , _h(a/) yap_ [[haa yap]],
   //
     , _or upper monotone_
     , _or upper rising ton._
