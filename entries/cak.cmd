@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cak
-* %date-modified --> 2024-02-11
+* %date-modified --> 2024-02-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -31,7 +31,7 @@ WP
   ==
 MP
   ==
-  - cak = [tsʰɐk̚] (preferred), [tɕʰɐk̚]
+  - cak = [tsʰɐk̚] ((preferred)), [tɕʰɐk̚]
   ==
 S
   ==

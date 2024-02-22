@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2024-02-11
+* %date-modified --> 2024-02-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -34,7 +34,7 @@ WP
   ==
 MP
   ==
-  - caai = [tsʰaːi] (preferred), [tɕʰaːi]
+  - caai = [tsʰaːi] ((preferred)), [tɕʰaːi]
   ==
 $$
 

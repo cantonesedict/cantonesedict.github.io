@@ -38,6 +38,6 @@ WP
   ==
 MP
   ==
-  - ze = [tsɛː] (preferred), [tɕɛː]
+  - ze = [tsɛː] ((preferred)), [tɕɛː]
   ==
 $$
