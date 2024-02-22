@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [ze1](#1)
 ==
 </nav>
 <## /tones ##>
@@ -40,4 +41,78 @@ MP
   ==
   - ze = [tsɛː] ((preferred)), [tɕɛː]
   ==
+$$
+
+
+##{#1 .williams} (1)Ch(e/) (1)Ts(e/) [[ze1 陰平]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $遮1
+==
+</nav>
+<## /tone-1-characters ##>
+
+### 遮1 | _(1)Ch(e/)_ [[ze1]]
+
+$$
+R
+  ⾡ + 11
+U
+  U+906E
+F
+  ==
+  - [[F2.83 遮]] 掩也
+  ==
+W
+  ====
+  - [[Page~30|n73 (1)遮]]
+    ==
+    - To cover, to screen, to vail, to conceal;
+    - to shade;
+    - to intercept;
+    - a parasol, a shade;
+    - _(1)ch(e/) (2)(i/)m_
+        [[ze1 jim2 遮掩]],
+        to secrete, to screen;
+    - _(1)ch(e/) k(')oi(3)_
+        [[ze1 koi3 遮蓋]]
+        to cloak, to cover;
+    - _(1)ch(e/) (1)sau_
+        [[ze1 sau1 遮羞]],
+        to conceal the face (as females);
+    - _(5)(u") (1)ch(e/)_
+        [[jyu5 ze1 雨遮]],
+        an umbrella;
+    - _(4)'m (1)ch(e/) tak(7) ch(u")(6)_
+        [[m4 ze1 dak1 zyu6 唔遮得住]]
+        it [won't] cover us, it can not be concealed;
+    - _(1)ch(e/) shik(7)_
+        [[ze1 sik1 遮飾]]
+        to disguise, to dupe, throw dust in his eyes;
+    - _(1)ch(e/) (4)l(a/)n_
+        [[ze1 laan4 遮攔]],
+        to fend off, to ward off;
+    - _(1)ch(e/) yat(9) (4)t(')au_
+        [[ze1 jat6 tau4-2 遮日頭]],
+        keep the sun off;
+    - _(1)ch(e/) (4)m(u/)n_
+        [[ze1 mun4 遮瞞]],
+        to hide from.
+    ==
+  ====
+E
+  ====
+  - 【遮】 (ze1):
+    ++
+    1. An umbrella.
+       ==
+       - 開遮 (hoi1 ze1): "Open [an] umbrella."
+       - 擔遮 (daam1 ze1): "Hold up [an] umbrella."
+       - 收遮 (sau1 ze1): "Close up [an] umbrella."
+       - 縮骨遮 (suk1 gwat1 ze1): "Retractable-stem umbrella" (i.e. pocket/foldable umbrella).
+       ==
+    ++
+  ====
 $$
