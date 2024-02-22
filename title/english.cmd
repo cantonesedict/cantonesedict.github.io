@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> English Title Page: A Tonic Dictionary of the Chinese Language in the Canton Dialect.
-* %date-modified --> 2023-08-07
-* %copyright-prior-years -->
+* %date-modified --> 2024-02-22
+* %copyright-prior-years --> 2023--
 * %meta-description --> English title page
 
 %%%
@@ -30,7 +30,7 @@ _(1)Ying (4)W(a/) (1)Fan Wan[(6)] Ts(')(u")t(8) I(u/)(3)._
 --
 ==
 - This is the Williams romanisation of the Chinese title, 英華分韻撮要
-  ying1 waa4 fan1 wan6 cyut3 yiu3.
+  jing1 waa4 fan1 wan6 cyut3 jiu3.
 
 - Corrected _Wan(3)_ (wan3) to _Wan(6)_ (wan6).
   The reading of 韻 in 陽去 (tone~6) is that according to the 分韻 itself,
