@@ -558,7 +558,13 @@ window.onload = applyFilter;
     , [就嚟](/entries/zau#cantonese-就嚟)
   //
     , ze1
+    , [啫](/entries/ze#cantonese-啫)
+  //
+    , ze1
     , [遮](/entries/ze#cantonese-遮)
+  //
+    , ze1 lei2
+    , [啫喱](/entries/ze#cantonese-啫喱)
   //
     , zek3 cau1
     , [隻抽](/entries/cau#cantonese-隻抽)
