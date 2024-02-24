@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ze
-* %date-modified --> 2024-02-22
+* %date-modified --> 2024-02-24
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -111,7 +111,7 @@ E
        - 開遮 (hoi1 ze1): "Open [an] umbrella."
        - 擔遮 (daam1 ze1): "Hold up [an] umbrella."
        - 收遮 (sau1 ze1): "Close up [an] umbrella."
-       - 縮骨遮 (suk1 gwat1 ze1): "Retractable-stem umbrella" (i.e. pocket/foldable umbrella).
+       - 縮骨遮 (suk1 gwat1 ze1): "Retractable-stem umbrella" (i.e. a pocket or foldable umbrella).
        ==
     ++
   ====
