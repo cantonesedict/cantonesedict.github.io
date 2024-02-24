@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 6-stroke radicals
-* %date-modified --> 2024-02-16
+* %date-modified --> 2024-02-24
 * %copyright-prior-years -->
 * %meta-description --> index of characters with 6-stroke radicals
 
@@ -395,6 +395,23 @@ For all radicals, see [Index of characters by radical](./).
 ## ⽼ (old)
 
 <## radical-⽼-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 4
+    ,
+      <nav class="sideways">
+      ==
+      - $者ze2
+      ==
+      </nav>
+''
+||||
 <## /radical-⽼-characters ##>
 
 
