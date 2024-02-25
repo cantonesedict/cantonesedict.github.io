@@ -167,6 +167,7 @@ $$
 =={.modern}
 - $者2
 - $赭2
+- $這2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -264,6 +265,56 @@ W
         reddish garments worn by felons.
     ==
   ====
+$$
+
+###+ 這2 | _(2)Ch(e/)_ [[ze2]]
+
+$$
+R
+  ⾡ + 7
+U
+  U+9019
+V
+  ==
+  - ze3 (uncommon)
+  - ze5 (common)
+  ==
+F
+  ==
+  - [[F2.84 這 _Ch(e/)(3)_ (ze3)]] 是也此也這裏言此處也這事言此事也
+  ==
+W
+  ====
+  - [[Page~31|n74 這(3) _Ch(e/)(3)_ (ze3); here normalised to _(2)Ch(e/)_ (ze2)]]
+    ==
+    - A demonstrative pronoun, this, that;
+    - _[(2)]ch(e/) (5)[l(u")]_
+        [[ze2 leoi5 這裡]],
+        here;
+    - _[(2)]ch(e/) y(e/)ung(6)_
+        [[ze2 joeng6 這樣]]
+        thus, so;
+    - _[(2)]ch(e/) (2)tang_
+        [[ze2 dang2 這等]],
+        such, this sort;
+    - _[(2)]ch(e/) (4)sh(i/)_
+        [[ze2 si4 這時]],
+        now.
+    ==
+  ====
+C
+  ==
+  - Williams' 這裡: Changed _(5)l(i/)_ [[lei5]] to common reading _(5)l(u")_ [[leoi5]].
+  - The character 這 is only attested in the Middle Chinese rime books
+    under the reading 魚變切 _y(i/)n(6)_ [[jin6]]^, explained 迎也.
+    Kangxi quotes 毛晃曰凡稱此箇爲者箇俗多改用這字這乃迎也,
+    which proposes that 這 is a vulgar substitute
+    for 者 when used as demonstrative "this".
+  ==
+S
+  ==
+  - $這ze3
+  ==
 $$
 
 
