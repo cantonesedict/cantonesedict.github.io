@@ -176,6 +176,11 @@ mark {
 }
 
 
+sup {
+  line-height: 0;
+}
+
+
 table {
   border-collapse: separate;
   border-spacing: 1px;
