@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Search by character or code point
-* %date-modified --> 2024-01-07
+* %date-modified --> 2024-02-25
 * %copyright-prior-years -->
 * %meta-description --> search by Chinese character or by Unicode code point
 
@@ -143,8 +143,12 @@ async function performSearch()
 
       appendCharacterWithComposition(linkElement, character, composition);
 
-      let jyutpingTextNode = document.createTextNode(`${nbsp}${jyutping}`);
+      let jyutpingTextNode = document.createTextNode(`${nbsp}${syllable}`);
       linkElement.appendChild(jyutpingTextNode);
+
+      let toneSuperscriptElement = document.createElement('sup');
+      toneSuperscriptElement.appendChild(document.createTextNode(tone));
+      linkElement.appendChild(toneSuperscriptElement);
     }
   }
 }
