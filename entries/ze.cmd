@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ze
-* %date-modified --> 2024-02-24
+* %date-modified --> 2024-02-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -161,6 +161,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $者2
+- $赭2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -231,4 +232,31 @@ C
   - Williams' 中也者天下之大本也: Changed Middle Chinese _(5)h(a/)_ [[haa5]]
     to common reading _h(a/)(6)_ [[haa6]].
   ==
+$$
+
+### 赭2 | _(2)Ch(e/)_ [[ze2]]
+
+$$
+R
+  ⾚ + 8
+U
+  U+8D6D
+F
+  ==
+  - [[F2.84 赭]] 赤色
+  ==
+W
+  ====
+  - [[Page~31|n74 (2)赭]]
+    ==
+    - Ochre color;
+    - a carnation or reddish brown;
+    - _(2)ch(e/) shek(9)_
+        [[ze2 sek6 赭石]]
+        ochre;
+    - _(2)ch(e/) (1)(i/)_
+        [[ze2 ji1 赭衣]],
+        reddish garments worn by felons.
+    ==
+  ====
 $$
