@@ -52,6 +52,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $啫1
+- $嗟1
 - $遮1
 ==
 </nav>
@@ -93,6 +94,43 @@ E
 S
   ==
   - $啫ze3
+  ==
+$$
+
+### 嗟1 | _(1)Ts(e/)_ [[ze1]]
+
+$$
+R
+  ⼝ + 10
+U
+  U+55DF
+F
+  ==
+  - [[F2.83 嗟]] ::嘆詞又痛[惜]也::
+  - [[F2.83 ⿰口蓍]] 同上
+  ==
+W
+  ====
+  - [[Page~563 (1)嗟]]
+    ==
+    - To sigh, to lament:
+    - painful regrets;
+    - an interjection of admiration;|
+    - ah! alas!
+    - _(1)ts(e/) t(')(a/)n(3)_
+        [[ze1 taan3 嗟嘆]]
+        to sigh;
+    - _(1)ts(e/) (4)loi (1)ch(i/) shik(9)_
+        [[ze1 loi4 zi1 sik6 嗟來之食]]
+        to groan and beg one's bread.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿰亻肯 to 惜.
+  - Williams' 嗟來之食: Not to beg for food, but food given in contempt.
+    Per 《禮檀弓》, 嗟來食 "alas come eat" was the utterance of the wealthy man 黔敖
+    as he handed out food and drink to the famished.
   ==
 $$
 

@@ -170,6 +170,7 @@ For all radicals, see [Index of characters by radical](./).
       - $嗔can1
       - $嗅cau3
       - $𠹻 (⿰口朕)zam6
+      - $嗟ze1
       ==
       </nav>
   //
