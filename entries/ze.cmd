@@ -277,6 +277,7 @@ $$
 - $柘3
 - $樜3
 - $蔗3
+- $鷓3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -440,4 +441,28 @@ C
   ==
   - Williams' 倒啖蔗: Corrected _(2)t(o\)_ [[dou2]] to _t(o\)(3)_ [[dou3]].
   ==
+$$
+
+### 鷓3 | _Ch(e/)(3)_ [[ze3]]
+
+$$
+R
+  ⿃ + 11
+U
+  U+9DD3
+F
+  ==
+  - [[F2.84 鷓]] 鷓鴣鳥名
+  ==
+W
+  ====
+  - [[Page~31|n74 鷓(3)]]
+    ==
+    - The partridge;
+    - it also includes francolins and grouse;
+    - _ch(e/)(3) (1)k(u/)_
+        [[ze3 gu1 鷓鴣]],
+        the common partridge.
+    ==
+  ====
 $$
