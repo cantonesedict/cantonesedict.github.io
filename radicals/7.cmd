@@ -568,6 +568,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Character entry links
 |:
   //
+    , 7
+    ,
+      <nav class="sideways">
+      ==
+      - $這ze3
+      ==
+      </nav>
+  //
     , 8
     ,
       <nav class="sideways">
