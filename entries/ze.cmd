@@ -115,7 +115,7 @@ W
     ==
     - To sigh, to lament:
     - painful regrets;
-    - an interjection of admiration;|
+    - an interjection of admiration;
     - ah! alas!
     - _(1)ts(e/) t(')(a/)n(3)_
         [[ze1 taan3 嗟嘆]]
