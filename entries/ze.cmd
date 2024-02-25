@@ -274,6 +274,7 @@ $$
 =={.modern}
 - $啫3
 - $嗻3
+- $柘3
 - $樜3
 - $蔗3
 ==
@@ -341,6 +342,27 @@ W
     - _(2)tang (5)ngo h(u")(3) ts(o\)(6) mat(7) (5)y(e/) ch(e/)(3)_
         [[dang2 ngo5 heoi3 zou6 mat1 je5 ze3 等我去做乜嘢嗻]]
         let me do that first.
+    ==
+  ====
+$$
+
+### 柘3 | _Ch(e/)(3)_ [[ze3]]
+
+$$
+R
+  ⽊ + 5
+U
+  U+67D8
+F
+  ==
+  - [[F2.84 柘]] 桑柘木名
+  ==
+W
+  ====
+  - [[Page~31|n74 柘(3)]]
+    ==
+    - Sometimes used for the above [[$蔗3]];
+    - a tree whose leaves are fed to silk worms.
     ==
   ====
 $$
