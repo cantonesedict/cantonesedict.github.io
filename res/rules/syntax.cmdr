@@ -151,6 +151,15 @@ RegexDictionaryReplacement: #.syntax.radical-links
   [\g<radical>](#\g<radical>)
 
 
+RegexDictionaryReplacement: #.syntax.jyutping-tone-superscript
+- queue_position: BEFORE #specified-links
+* (?<! [</] )
+  (?P<jyutping> [a-z]+ ) (?P<tone_number> [1-6] (?: -[1-6] )? )
+  \b
+    -->
+  \g<jyutping><sup>\g<tone_number></sup>
+
+
 RegexDictionaryReplacement: #.syntax.round-bracket-wrap
 * \A --> (
 * \Z --> )
