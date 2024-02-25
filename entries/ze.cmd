@@ -274,6 +274,7 @@ $$
 =={.modern}
 - $啫3
 - $嗻3
+- $蔗3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -341,4 +342,58 @@ W
         let me do that first.
     ==
   ====
+$$
+
+### 蔗3 | _Ch(e/)(3)_ [[ze3]]
+
+$$
+R
+  ⾋ + 11
+U
+  U+8517
+A
+  ==
+  - $樜3
+  ==
+F
+  ==
+  - [[F2.84 蔗]] 甘蔗
+  - [[F2.84 樜]] 同上
+  ==
+W
+  ====
+  - [[Page~31|n74 蔗(3)樜(3)]]
+    ==
+    - The sugar cane;
+    - _(i/)t(9) ch(e/)(3)_
+        [[jit6 ze3 熱蔗]]
+        boiled sugar-cane;
+    - _t(')(i/)t(8) ch(e/)(3)_
+        [[tit3 ze3 鐵蔗]]
+        dark cane;
+    - _p(a/)k(9) ch(e/)(3)_
+        [[baak6 ze3 白蔗]]
+        white cane;
+    - _chuk(7) ch(e/)(3)_ [[zuk1 ze3 竹蔗]]
+        or
+      _(5)long ch(e/)(3)_ [[long5 ze3 ？蔗]]
+        small cane;
+    - _ch(e/)(3) (1)kai_
+        [[ze3 gai1 蔗雞]],
+        suckers of the cane;
+    - _ch(e/)(3) (4)li(u/)_
+        [[ze3 liu4 蔗寮]],
+        sugaring sheds;
+    - _ch(a/)(3) ch(e/)(3)_
+        [[zaa3 ze3 搾蔗]]
+        to express cane juice;
+    - _t(o\)[(3)] t(a/)m(6) ch(e/)(3)_
+        [[dou3 daam6 ze3 倒啖蔗]]
+        he eats his cane backwards, he has the best still coming.
+    ==
+  ====
+C
+  ==
+  - Williams' 倒啖蔗: Corrected _(2)t(o\)_ [[dou2]] to _t(o\)(3)_ [[dou3]].
+  ==
 $$
