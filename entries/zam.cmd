@@ -761,7 +761,7 @@ E
     ++
     1. Classifier for smells and odours.
        ==
-       - 有𠹻味 (hou2 daai6 zam6 mei6): "There's [a] smell."
+       - 有𠹻味 (jau5 zam6 mei6): "There's [a] smell."
        ==
     ++
   ====
