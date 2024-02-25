@@ -274,6 +274,7 @@ $$
 =={.modern}
 - $啫3
 - $嗻3
+- $樜3
 - $蔗3
 ==
 </nav>
@@ -341,6 +342,27 @@ W
         [[dang2 ngo5 heoi3 zou6 mat1 je5 ze3 等我去做乜嘢嗻]]
         let me do that first.
     ==
+  ====
+$$
+
+### 樜3 | _Ch(e/)(3)_ [[ze3]]
+
+$$
+R
+  ⽊ + 11
+U
+  U+6A1C
+F
+  ==
+  - [[F2.84 蔗]] 甘蔗
+  - [[F2.84 樜]] 同上
+  ==
+W
+  ====
+  - [[Page~31|n74 蔗(3)樜(3)]]
+    --
+    [[Alternative form of 蔗. **See $蔗ze3 for the canonical entry.**]]
+    --
   ====
 $$
 
