@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [ze1](#1)
 - [ze2](#2)
+- [ze3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -89,6 +90,10 @@ E
     1. Jelly.
     ++
   ====
+S
+  ==
+  - $啫ze3
+  ==
 $$
 
 ### 遮1 | _(1)Ch(e/)_ [[ze1]]
@@ -259,4 +264,38 @@ W
         reddish garments worn by felons.
     ==
   ====
+$$
+
+
+##{#3 .williams} Ch(e/)(3) Ts(e/)(3) [[ze3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $啫3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 啫3 | _Ch(e/)(3)_ [[ze3]]
+
+$$
+R
+  ⼝ + 8
+U
+  U+556B
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~31|n74 啫(3)]]
+    --
+    A colloquial particle
+    [[here normalised to 嗻; **see $嗻ze3 for the canonical entry**]].
+    --
+  ====
+S
+  ==
+  - $啫ze1
+  ==
 $$
