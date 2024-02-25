@@ -273,6 +273,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $啫3
+- $嗻3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -298,4 +299,46 @@ S
   ==
   - $啫ze1
   ==
+$$
+
+###+ 嗻3 | _Ch(e/)(3)_ [[ze3]]
+
+$$
+R
+  ⼝ + 11
+U
+  U+55FB
+A
+  ==
+  - $啫3
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~31|n74 啫(3); here normalised to 嗻]]
+    --
+    A colloquial particle.
+    --
+    ==
+    - Just now;
+    - a short time, for the nonce, shortly;
+    - a form of the subjunctive;
+    - _(2)tang (5)h(a/) ch(e/)(3)_
+        [[dang2 haa5 ze3 等吓嗻]]
+        stop a little;
+    - _(1)f(a/)n (4)lai ch(e/)(3)_
+        [[faan1 lai4 ze3 返嚟嗻]]
+        when I come back;
+    - _(2)k(o\)m y(e/)ung(6) ch(e/)(3)_
+        [[gam2 joeng6-2 ze3 噉樣嗻]]
+        will this do?
+    - _(2)t(a/) kwo(3) ch(e/)(3)_
+        [[daa2 gwo3 ze3 打過嗻]]
+        let me whip you;
+    - _(2)tang (5)ngo h(u")(3) ts(o\)(6) mat(7) (5)y(e/) ch(e/)(3)_
+        [[dang2 ngo5 heoi3 zou6 mat1 je5 ze3 等我去做乜嘢嗻]]
+        let me do that first.
+    ==
+  ====
 $$
