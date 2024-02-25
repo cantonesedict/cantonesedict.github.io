@@ -159,8 +159,12 @@ async function performSearch()
 
       appendCharacterWithComposition(linkElement, character, composition);
 
-      let jyutpingTextNode = document.createTextNode(`${nbsp}${jyutping}`);
+      let jyutpingTextNode = document.createTextNode(`${nbsp}${syllable}`);
       linkElement.appendChild(jyutpingTextNode);
+
+      let toneSuperscriptElement = document.createElement('sup');
+      toneSuperscriptElement.appendChild(document.createTextNode(tone));
+      linkElement.appendChild(toneSuperscriptElement);
     }
   }
 }
@@ -183,7 +187,7 @@ window.onload = performSearch;
 <footer class="modern">
 © 2024 Conway.<br>
 Source: <a href="https://github.com/cantonesedict/cantonesedict.github.io/blob/master/search/index.cmd"><code>search/index.cmd</code></a>.
-Last modified: <time datetime="2024-01-07">2024-01-07</time>.
+Last modified: <time datetime="2024-02-25">2024-02-25</time>.
 </footer>
 </body>
 </html>
