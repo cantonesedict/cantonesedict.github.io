@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ze
-* %date-modified --> 2024-02-25
+* %date-modified --> 2024-02-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -53,6 +53,7 @@ $$
 =={.modern}
 - $啫1
 - $嗟1
+- $罝1
 - $遮1
 ==
 </nav>
@@ -131,6 +132,32 @@ C
   - Williams' 嗟來之食: Not to beg for food, but food given in contempt.
     Per 《禮檀弓》, 嗟來食 "alas come eat" was the utterance of the wealthy man 黔敖
     as he handed out food and drink to the famished.
+  ==
+$$
+
+### 罝1 | _(1)Ts(e/)_ [[ze1]]
+
+$$
+R
+  ⽹ + 5
+U
+  U+7F5D
+F
+  ==
+  - [[F2.83 ::[罝]::]] 取兔網
+  ==
+W
+  ====
+  - [[Page~563 (1)罝]]
+    ==
+    - A net with which hares are caught;
+    - a net for beasts;
+    - to stop the way, as a net does.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised headword ⿱罓且 to 罝.
   ==
 $$
 
