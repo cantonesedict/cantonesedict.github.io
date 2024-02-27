@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of Cantonese terms by Jyutping
-* %date-modified --> 2024-02-22
+* %date-modified --> 2024-02-27
 * %copyright-prior-years --> 2023--
 * %meta-description --> searchable index of Cantonese terms by Jyutping
 
@@ -106,6 +106,9 @@ window.onload = applyFilter;
   //
     , aa3 caan3
     , [阿燦](/entries/caan#cantonese-阿燦)
+  //
+    , aa3 ze2-1
+    , [阿姐](/entries/ze#cantonese-阿姐)
   //
     , aai3
     , [嗌](/entries/aai#cantonese-嗌)
@@ -275,6 +278,9 @@ window.onload = applyFilter;
     , daa2 laang5 zan3
     , [打冷震](/entries/zan#cantonese-打冷震)
   //
+    , gaa1 ze2-1
+    , [家姐](/entries/ze#cantonese-家姐)
+  //
     , gaat6 zaat6
     , [曱甴](/entries/zaat#cantonese-曱甴)
   //
@@ -346,6 +352,9 @@ window.onload = applyFilter;
   //
     , saang1 cau1
     , [生抽](/entries/cau#cantonese-生抽)
+  //
+    , sai3 ze2
+    , [細姐](/entries/ze#cantonese-細姐)
   //
     , waa6 zaai1
     , [話齋](/entries/zaai#cantonese-話齋)

@@ -230,12 +230,82 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $姐2
 - $者2
 - $赭2
 - $這2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 姐2 | _(2)Ts(e/)_ [[ze2]]
+
+$$
+R
+  ⼥ + 5
+U
+  U+59D0
+V
+  ==
+  - ze2-1 (vernacular)
+  - ze2-4 (low first in reduplication 姐姐 ze2-4 ze2-1)
+  ==
+F
+  ==
+  - [[F2.84 姐]] 姊也
+  ==
+W
+  ====
+  - [[Page~563 (2)姐]]
+    ==
+    - An elder sister;
+    - a miss;
+    - formerly applied to one's mother;
+    - proud, saucy;
+    - _(2)ts(e/) m(u/)i(6)_
+        [[ze2 mui6 姐妹]]
+        sisters;
+    - _t(a/)i(6) (2)ts(e/)_
+        [[daai6 ze2-1 大姐]],
+        my elder sister;
+        also, a marriageable maidservant;
+    - _(2)si(u/) (2)ts(e/)_
+        [[siu2 ze2 小姐]],
+        a young miss;
+    - _ling(6) (2)ts(e/)_
+        [[ling6 ze2 令姐]],
+        your sister;
+    - _(2)ts(e/) (1)f(u/)_
+        [[ze2 fu1 姐夫]],
+        a sister's husband;
+    - _(a/)(3) (2)ts(e/)_
+        [[aa3 ze2 阿姐]],
+        sister;
+        also a term for a father's concubine.
+    ==
+  ====
+C
+  ==
+  Williams' 姐妹: The preferred term for "sisters" in Cantonese is 姊妹.
+  Williams' 阿姐: This is the meaning when 姐 is read in the original rising tone.
+  ==
+E
+  ====
+  - 【阿姐】 (aa3 ze2-1):
+    ++
+    1. Generic address for an adult woman when the speaker is not a child.
+       (Can be respectful, neutral, or impolite depending on the context.)
+    ++
+  - 【家姐】 (gaa1 ze2-1):
+    ++
+    1. Older sister (or older female paternal cousin).
+    ++
+  - 【細姐】 (sai3 ze2):
+    ++
+    1. Father's concubine (presumed to be younger than his wife).
+    ++
+  ====
+$$
 
 ### 者2 | _(2)Ch(e/)_ [[ze2]]
 
