@@ -24,6 +24,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [ze1](#1)
 - [ze2](#2)
 - [ze3](#3)
+- [ze6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -757,6 +758,89 @@ W
     - _ch(e/)(3) (1)k(u/)_
         [[ze3 gu1 鷓鴣]],
         the common partridge.
+    ==
+  ====
+$$
+
+
+##{#6 .williams} Ts(e/)(6) [[ze6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $謝6
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 謝6 | _Ts(e/)(6)_ [[ze6]]
+
+$$
+R
+  ⾔ + 10
+U
+  U+8B1D
+F
+  ==
+  - [[F2.85 謝]] 辭也絶也又退也彫落也居官致仕曰謝政感德相酧曰謝恩
+  ==
+W
+  ====
+  - [[Page~564 謝(6)]]
+    ==
+    - To decline, to withdraw from, to refuse, to go away;
+    - to resign, to throw up;
+    - to stop intercourse with;
+    - declining, fading, as flowers;
+    - to express, to inform;
+    - to thank, to express gratitude;
+    - to acknowledge, to confess;
+    - to excuse one's self;
+    - _(1)to ts(e/)(6)_
+        [[do1 ze6 多謝]]
+        many thanks;
+    - _(5)ling ts(e/)(6)_
+        [[ling5 ze5 領謝]]
+        to receive with thanks;
+    - _ts(e/)(6) sz'(6)_
+        [[ze6 si6 謝事]]
+        to retire from office;
+    - _ts(e/)(6) t(')(i/)p(8)_
+        [[ze6 tip3-2 謝帖]]
+        a reward offered;
+    - _pik(7) ts(e/)(6)_
+        [[bik1 ze6 璧謝]]
+        to decline a present;
+    - _(1)f(a/) ts(e/)(6)_
+        [[faa1 ze6 花謝]]
+        fading flowers;
+    - _ts(e/)(6) ti(u/)(3)_
+        [[ze6 diu3 謝弔]]
+        to decline mourners;
+    - _ts(e/)(6) p(o\)(6)_
+        [[ze6 bou6 謝步]]
+        a doctor's fees;
+    - _ts(e/)(6) h(a/)k(8)_
+        [[ze6 haak3 謝客]]
+        to excuse one's self to visitors;
+    - _ts(o\)(6) ts(e/)(6) (2)tsau_
+        [[zou6 ze6 zau2 做謝酒]],
+        to give one a dinner;
+    - _ts(e/)(6) (2)tsau_
+        [[ze6 zau2 謝酒]],
+        to take wine with;
+    - _ts(e/)(6) shai(3)_
+        [[ze6 sai3 謝世]]
+        to die;
+    - _(2)k(o\)m ts(e/)(6)_
+        [[gam2 ze6 感謝]]
+        feeling grateful for;
+    - _t(a/)p(8) ts(e/)(6)_
+        [[daap3 ze6 答謝]]
+        to return thanks, to make a present in return;
+    - _(4)ch(')au ts(e/)(6)_
+        [[cau4 ze6 酬謝]]
+        to requite in kind.
     ==
   ====
 $$
