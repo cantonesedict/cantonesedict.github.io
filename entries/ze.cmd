@@ -768,10 +768,38 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $榭6
 - $謝6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 榭6 | _Ts(e/)(6)_ [[ze6]]
+
+$$
+R
+  ⽊ + 10
+U
+  U+69AD
+F
+  ==
+  - [[F2.85 榭]] 臺榭有屋曰臺無屋曰榭
+  ==
+W
+  ====
+  - [[Page~564 榭(6)]]
+    ==
+    - A terrace having trees around it, an arbor;
+    - a place for storing musical instruments;
+    - a high lookout, a keep, a turret;
+    - a military school;
+    - a fencing-room;
+    - _(u")t(9) ts(e/)(6)_
+        [[jyut6 ze6 月榭]]
+        an open arbor.
+    ==
+  ====
+$$
 
 ### 謝6 | _Ts(e/)(6)_ [[ze6]]
 
