@@ -1027,6 +1027,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Character entry links
 |:
   //
+    , 3
+    ,
+      <nav class="sideways">
+      ==
+      - $灺ze6
+      ==
+      </nav>
+  //
     , 4
     ,
       <nav class="sideways">

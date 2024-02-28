@@ -769,6 +769,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $榭6
+- $灺6
 - $謝6
 ==
 </nav>
@@ -799,6 +800,31 @@ W
         an open arbor.
     ==
   ====
+$$
+
+### 灺6 | _Ts(e/)(6)_ [[ze6]]
+
+$$
+R
+  ⽕ + 3
+U
+  U+707A
+F
+  ==
+  - [[F2.85 灺]]
+  ==
+W
+  ====
+  - [[Page~564 灺(6)]]
+    ==
+    - The snuff of a candle;
+    - the expiring wick of a lamp.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: No definition is given; only the headword is present.
+  ==
 $$
 
 ### 謝6 | _Ts(e/)(6)_ [[ze6]]
