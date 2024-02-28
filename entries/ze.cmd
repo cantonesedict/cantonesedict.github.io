@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ze
-* %date-modified --> 2024-02-27
+* %date-modified --> 2024-02-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -458,6 +458,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $借3
 - $啫3
 - $嗻3
 - $柘3
@@ -468,6 +469,84 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 借3 | _Ts(e/)(3)_ [[ze3]]
+
+$$
+R
+  ⼈ + 8
+U
+  U+501F
+F
+  ==
+  - [[F2.84 借]] 假借借貸又推獎也
+  ==
+W
+  ====
+  - [[Page~564 借(3)]]
+    ==
+    - To assist;
+    - to lend, to borrow;
+    - to ask for, to beg of;
+    - to make a pretext of;
+    - to pretend, to assume, to suppose;
+    - if, for example, supposing, assuming;
+    - to use for illustration;
+    - to praise;
+    - _ts(e/)(3) (4)loi_
+        [[ze3 loi4 借來]],
+        to borrow;
+    - _ts(e/)(3) h(u")(3)_
+        [[ze3 heoi3 借去]]
+        to lend;
+    - _ts(e/)(3) (4)ngan_
+        [[ze3 ngan4-2 借銀]],
+        to ask for money;
+    - _ts(e/)(3) (1)t(a/)n_
+        [[ze3 daan1 借單]],
+        a borrower's note;
+    - _ts(e/)(3) (1)sh(a/)m_
+        [[ze3 saam1 借衫]],
+        to borrow a jacket;
+    - _(1)s(e/)ung ts(e/)(3)_
+        [[soeng1 ze3 相借]]
+        to borrow of;
+    - _ts(e/)(3) (4)(u")_
+        [[ze3 jyu4 借如]],
+        supposing that;
+    - _ts(e/)(3) shai(3) (4)wai ok(8)_
+        [[ze3 sai3 wai4 ok3 借勢為惡]]
+        to avail of power to do wickedly;
+    - _ts(e/)(3) ch(e/)uk[(9)] (5)ngo sz'(6)_
+        [[ze3 zoek6 ngo5 si6 借着我事]]
+        he's got my business, he's stole my thunder;
+    - _ts(e/)(3) ko(3) (1)kwong_
+        [[ze3 go3 gwong1 借個光]],
+        to use another's name, _e.~g._ to get a letter of introduction;
+    - _ts(e/)(3) (2)m(e/) tik(7)_
+        [[ze3 me2 dik1 借歪滴]]
+        please step aside a little;
+    - _ts(e/)(3) l(o\)(6) (4)[h(a/)ng]_
+        [[ze3 lou6 haang4 借路行]],
+        to beg a way through;
+    - _ts(e/)(3) (i/)(3)_
+        [[ze3 ji3 借意]]
+        metaphorically;
+    - _ts(e/)(3) (4)lai (2)kong_
+        [[ze3 lai4 gong2 借嚟講]],
+        said it for illustration, meant nothing by it;
+    - _ts(e/)(3) k(')(i/)t(8)_
+        [[ze3 kit3 借揭]]
+        to get a loan on interest.
+    ==
+  ====
+C
+  ==
+  - Williams' 借着我事: Corrected _ch(e/)uk(8)_ [[zoek3]] to _ch(e/)uk(9)_ [[zoek6]].
+  - Williams' 借路行: Changed _(4)hang_ [[hang4]]
+    to vernacular reading _(4)h(a/)ng_ [[haang4]].
+  ==
+$$
 
 ### 啫3 | _Ch(e/)(3)_ [[ze3]]
 
