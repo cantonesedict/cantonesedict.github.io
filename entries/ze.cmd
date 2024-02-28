@@ -281,8 +281,8 @@ W
   ====
 C
   ==
-  Williams' 姐妹: The preferred term for "sisters" in Cantonese is 姊妹.
-  Williams' 阿姐: This is the meaning when 姐 is read in the original rising tone.
+  - Williams' 姐妹: The preferred term for "sisters" in Cantonese is 姊妹.
+  - Williams' 阿姐: This is the meaning when 姐 is read in the original rising tone.
   ==
 E
   ====
