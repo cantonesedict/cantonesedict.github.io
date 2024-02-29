@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [ce1](#1)
 ==
 </nav>
 <## /tones ##>
@@ -40,4 +41,50 @@ MP
   ==
   - ce = [tsʰɛː] ((preferred)), [tɕʰɛː]
   ==
+$$
+
+
+##{#1 .williams} (1)Ch(')(e/) [[ce1 陰平]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $奢1
+==
+</nav>
+<## /tone-1-characters ##>
+
+### 奢1 | _(1)Ch(')(e/)_ [[ce1]]
+
+$$
+R
+  ⼤ + 8
+U
+  U+5962
+V
+  ==
+  - se1 (expected from 式車切)
+  ==
+F
+  ==
+  - [[F2.83 奢]] 侈也泰也
+  ==
+W
+  ====
+  - [[Page~31|n74 (1)奢]]
+    ==
+    - Wasteful, extravagant;
+    - to spread out;
+    - affluent;
+    - _(1)ch(')(e/) mong(6)_
+        [[ce1 mong6 奢望]]
+        extravagant hopes;
+    - _(1)ch(')(e/) (2)ch(')(i/)_
+        [[ce1 ci2 奢侈]],
+        prodigal;
+    - _(1)ch(')(e/) (4)w(a/)_
+        [[ce1 waa4 奢華]],
+        gay, wasteful.
+    ==
+  ====
 $$
