@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [ce1](#1)
+- [ce2](#2)
 ==
 </nav>
 <## /tones ##>
@@ -158,5 +159,76 @@ C
 S
   ==
   - $車geoi1 (TODO)
+  ==
+$$
+
+
+##{#2 .williams} (2)Ch(')(e/) [[ce2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $且2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 且2 | _(2)Ch(')(e/)_ [[ce2]]
+
+$$
+R
+  ⼀ + 4
+U
+  U+4E14
+F
+  ==
+  - [[F2.84 且]] 語詞
+  ==
+W
+  ====
+  - [[Page~31|n74 (2)且]]
+    ==
+    - A conjunctive particle;
+    - and, further, moreover, still;
+    - also, and also;
+    - thus, so;
+    - still, yet;
+    - a word of doubt, if, should;
+    - _(4)hang (2)ch(')(e/)_
+        [[hang4 ce2 行且]],
+        on the point of being;
+    - _(2)ch(')(e/) [sun](3) (2)ch(')(e/) (4)(i/)_
+        [[ce2 seon3 ce2 ji4 且信且疑]],
+        half believing, half doubting;
+    - _f(u/)(3) (2)ch(')(e/) kwai(3)_
+        [[fu3 ce2 gwai3 富且貴]]
+        rich and so honored;
+    - _(2)kau (2)ch(')(e/) (5)li(u/) sz'(6)_
+        [[gau2 ce2 liu5 si6 苟且了事]]
+        slovenly way of doing things;
+    - _fong(3) (2)ch(')(e/)_
+        [[fong3 ce2 況且]],
+        still further;
+    - _(2)ch(')(e/) m(a/)n(6)_
+        [[ce2 maan6 且慢]]
+        by and by, presently;
+    - _(1)k(u/) (2)ch(')(e/)_ [[gu1 ce2 姑且]]^
+        or
+      _ts(a/)m(6) (2)ch(')(e/)_ [[zaam6 ce2 暫且]],
+        for a time.
+    ==
+  ====
+C
+  ==
+  - Williams' 且信且疑: Corrected _san(3)_ [[san3]] to _sun(3)_ [[seon3]].
+  - Williams' 且慢: More an imperative "slow down" or "hang on" than adverbial "soon" or "shortly".
+  - Strictly, the reading is _(2)ts(')(e/)_ (ce2) from 七也切,
+    but Fan Wan groups it with 扯 (same as 撦),
+    whose reading is _(2)ch(')(e/)_ (ce2) from 昌者切.
+    Notwithstanding, this is all academic given the initials _ts(')_ and _ch(')_ are now considered merged.
+  ==
+S
+  ==
+  - $且zeoi1 (TODO)
   ==
 $$
