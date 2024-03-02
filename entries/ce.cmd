@@ -170,6 +170,7 @@ $$
 =={.modern}
 - $且2
 - $扯2
+- $抯2
 - $撦2
 ==
 </nav>
@@ -304,6 +305,39 @@ E
        - 你扯啦 (nei5 ce2 laa1): "Leave!"
        ==
     ++
+  ====
+$$
+
+### 抯2 | _(2)Ch(')(e/)_ [[ce2]]
+
+$$
+R
+  ⼿ + 5
+U
+  U+62AF
+F
+  ==
+  - [[F2.84 抯]] 止也拽也
+  - [[F2.84 扯]] 同上
+  ==
+W
+  ====
+  - [[Page~31|n74 (2)撦(2)抯(2)扯]]
+    --
+    [[...]]
+    --
+  ====
+C
+  ====
+  - Fan Wan (and Williams following it) considers 抯 the same as 扯.
+    Strictly, this is erroneous; the three readings in Middle Chinese are:
+    ++
+    1. _(1)ch(a/)_ [[zaa1]] from 側加切, explained 挹也 (quoting 說文);
+    2. _ts(e/)(6)_ [[ze6]] from 徐野切, explained 取也
+       (or _(5)ts(')(e/)_ [[ce5]] if insisting on rising tone); and
+    3. _(2)ts(e/)_ [[ze2]] from 兹野切, also explained 取也.
+    ++
+    None of these are 陰上 _(2)ch(')(e/)_ [[ce2]].
   ====
 $$
 

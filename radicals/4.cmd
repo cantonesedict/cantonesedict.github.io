@@ -245,6 +245,7 @@ For all radicals, see [Index of characters by radical](./).
       - $拗aau3
       - $拆caak3
       - $抽cau1
+      - $抯ce2
       - $拃zaa6
       ==
       </nav>
