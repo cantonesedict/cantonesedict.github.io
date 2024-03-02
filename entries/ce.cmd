@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2024-02-29
+* %date-modified --> 2024-03-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -169,6 +169,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $且2
+- $扯2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -231,4 +232,76 @@ S
   ==
   - $且zeoi1 (TODO)
   ==
+$$
+
+### 扯2 | _(2)Ch(')(e/)_ [[ce2]]
+
+$$
+R
+  ⼿ + 4
+U
+  U+626F
+A
+  ==
+  - $撦2
+  ==
+F
+  ==
+  - [[F2.84 抯]] 止也拽也
+  - [[F2.84 扯]] 同上
+  ==
+W
+  ====
+  - [[Page~31|n74 (2)撦(2)抯(2)扯]]
+    ==
+    - To tear open, to pull apart;
+    - to tear away;
+    - to pull up or on;
+    - to haul, to drag;
+    - _(2)ch(')(e/) (5)sh(e/)ung_
+        [[ce2 soeng5 扯上]],
+        haul up;
+    - _(1)l(a/)i (2)ch(')(e/)_
+        [[laai1 ce2 拉扯]],
+        to pull and haul, to borrow and lend;
+    - _(1)l(a/)i (1)l(a/)i (2)ch(')(e/) (2)ch(')(e/)_
+        [[laai1 laai1 ce2 ce2 拉拉扯扯]],
+        borrowing here and there;
+        on the average, lumping the whole;
+    - _(2)ch(')(e/) (1)hoi_
+        [[ce2 hoi1 扯開]],
+        to pull apart;
+    - _(2)ch(')(e/) (4)m(a/)i_
+        [[ce2 maai4 扯埋]],
+        to pull up, to close, as a skylight;
+    - _(2)ch(')(e/) ch(u")(6)_
+        [[ce2 zyu6 扯住]]
+        to stop from going.
+    ==
+    --
+    A colloquial word.
+    --
+    ==
+    - To clear out, to go off, to abscond;
+    - to send off;
+    - to go away, to take one's self off;
+    - _(2)ch(')(e/) (1)lo_
+        [[ce2 lo1 扯囉]],
+        go!
+        let us go;
+    - _(5)ngo (2)ch(')(e/) lok(8)_
+        [[ngo5 ce2 lok3 我扯咯]]
+        I'm off.
+    ==
+  ====
+E
+  ====
+  - 【扯】 (ce2):
+    ++
+    1. To leave.
+       ==
+       - 你扯啦 (nei5 ce2 laa1): "Leave!"
+       ==
+    ++
+  ====
 $$
