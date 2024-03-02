@@ -170,6 +170,7 @@ $$
 =={.modern}
 - $且2
 - $扯2
+- $撦2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -303,5 +304,23 @@ E
        - 你扯啦 (nei5 ce2 laa1): "Leave!"
        ==
     ++
+  ====
+$$
+
+### 撦2 | _(2)Ch(')(e/)_ [[ce2]]
+
+$$
+R
+  ⼿ + 12
+U
+  U+64A6
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~31|n74 (2)撦(2)抯(2)扯]]
+    --
+    [[Alternative form of 扯. **See $扯ce2 for the canonical entry.**]]
+    --
   ====
 $$
