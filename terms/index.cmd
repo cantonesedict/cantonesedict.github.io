@@ -365,6 +365,9 @@ window.onload = applyFilter;
     , saang1 cau1
     , [生抽](/entries/cau#cantonese-生抽)
   //
+    , sai1 ce4
+    , [西斜](/entries/ce#cantonese-西斜)
+  //
     , sai3 ze2
     , [細姐](/entries/ze#cantonese-細姐)
   //

@@ -398,10 +398,66 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $斜4
 - $邪4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 斜4 | _(4)Ts(')(e/)_ [[ce4]]
+
+$$
+R
+  ⽃ + 7
+U
+  U+659C
+F
+  ==
+  - [[F2.84 斜]] 歪斜
+  ==
+W
+  ====
+  - [[Page~565 (4)斜]]
+    ==
+    - Slanting, inclined, oblique, across, crisscross,
+      diagonal, aslant, not with the rule;
+    - distorted, scattered;
+    - often used for the preceding [[$邪4]];
+    - _(4)ts(')(e/) (4)man p(o\)(3)_
+        [[ce4 man4 bou3 斜紋布]]
+        drillings, twilled cloth;
+    - _(i/)t(9) (4)t(')au (2)p(a/)i (4)ts(')(e/)_
+        [[jit6 tau4-2 baai2 ce4 熱頭擺斜]],
+        the sun is declining;
+    - _(4)ts(')(e/) sh(i/)(6)_
+        [[ce4 si6 斜視]]
+        to look askance;
+    - _(4)ts(')(e/) (4)ts(')(e/) tik(7)_
+        [[ce4 ce4 dik1 斜斜滴]]
+        it is rather awry;
+    - _(1)sau (4)ts(')(e/) (i/)t(9)_
+        [[sai1 ce4 jit6 西斜熱]]
+        the afternoon sun is hot;
+    - _(4)ts(')(e/) (1)fung_
+        [[ce4 fung1 斜風]],
+        an unsteady wind;
+    - _(4)ts(')(e/) (5)ng(a/)n_
+        [[ce4 ngaan5 斜眼]],
+        cross-eyed.
+    ==
+  ====
+E
+  ====
+  - 【西斜】 (sai1 ce4):
+    ++
+    1. Exposure to the western sun.
+    ++
+  ====
+S
+  ==
+  - $斜ce3
+  ==
+$$
 
 ### 邪4 | _(4)Ts(')(e/)_ [[ce4]]
 

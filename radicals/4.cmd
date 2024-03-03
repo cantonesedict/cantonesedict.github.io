@@ -438,6 +438,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Character entry links
 |:
   //
+    , 7
+    ,
+      <nav class="sideways">
+      ==
+      - $斜ce4
+      ==
+      </nav>
+  //
     , 9
     ,
       <nav class="sideways">
