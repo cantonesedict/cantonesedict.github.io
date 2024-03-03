@@ -278,6 +278,9 @@ window.onload = applyFilter;
     , ce2
     , [扯](/entries/ce#cantonese-扯)
   //
+    , ce3 lou6-2
+    , [斜路](/entries/ce#cantonese-斜路)
+  //
     , ce5
     , [唓](/entries/ce#cantonese-唓)
   //

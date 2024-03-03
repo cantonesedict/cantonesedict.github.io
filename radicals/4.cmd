@@ -442,6 +442,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $斜ce3
       - $斜ce4
       ==
       </nav>

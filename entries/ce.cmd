@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [ce1](#1)
 - [ce2](#2)
+- [ce3](#3)
 - [ce4](#4)
 ==
 </nav>
@@ -390,6 +391,83 @@ W
     [[Alternative form of 扯. **See $扯ce2 for the canonical entry.**]]
     --
   ====
+$$
+
+
+##{#3 .williams} Ts(')(e/)(3) [[ce3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $斜3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 斜3 | _Ts(')(e/)(3)_ [[ce3]]
+
+$$
+R
+  ⽃ + 7
+U
+  U+659C
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~565 斜(3)]]
+    --
+    A colloquial word.
+    --
+    ==
+    - Not level, rising, as a road;
+    - _fong(3) ts(')(e/)(3)_
+        [[fong3 ce3 放斜]]
+        lay it one end higher;
+    - _ts(')(e/)(3) ts(')(e/)(3) lok(9)_
+        [[ce3 ce3 lok6 斜斜落]]
+        go down winding;
+    - _ts(')(e/)(3) (1)po_
+        [[ce3 bo1 斜坡]],
+        an ascending plain;
+    - _(4)hau (4)tau ts(')(e/)(3)_
+        [[hau4 tau4 ce3 喉頭斜]]
+        greedy.
+    ==
+  ====
+E
+  ====
+  - 【斜路】 (ce3 lou6-2):
+    ++
+    1. An incline, slope, or ramp.
+       ==
+       - 行斜路 (haang4 ce3 lou6-2): "Walking [up/down a] ramp" (as opposed to stairs).
+       - 寫字上斜路 (se2 zi6 soeng5 ce3 lou6-2): "[Your] writing [is] going up [an] incline" (i.e. not level).
+       ==
+    ++
+  ====
+  --
+  Williams views departing-tone 斜 _ts(')(e/)(3)_ [[ce3]]
+  as a word in its own right,
+  but personally I view it merely as a vernacular reading variation
+  of level-tone 斜 _(4)ts(')(e/)_ [[ce4]].
+  --
+  --
+  Some point to 笡 as the original character for the departing-tone reading:
+  --
+  ==
+  - ::B4.w443b0208 (:遷謝切:) (:笡:) (:斜逆也:)::
+  ==
+  --
+  But while the reading _ts(')(e/)(3)_ [[ce3]] is a match,
+  the explanation 斜逆也 seems more a metaphorical "heretical"
+  than a physical "inclined" or "sloped",
+  so I am yet to be fully convinced of this.
+  --
+S
+  ==
+  - $斜ce4
+  ==
 $$
 
 
