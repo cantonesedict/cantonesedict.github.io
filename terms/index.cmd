@@ -350,6 +350,9 @@ window.onload = applyFilter;
     , lou5 cau1
     , [老抽](/entries/cau#cantonese-老抽)
   //
+    , m4 seon3 ce4-2
+    , [唔信邪](/entries/ce#cantonese-唔信邪)
+  //
     , mou5 zoeng1 lei6
     , [周身刀冇張利](/entries/zau#cantonese-周身刀冇張利)
   //

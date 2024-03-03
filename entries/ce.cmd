@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [ce1](#1)
 - [ce2](#2)
+- [ce4](#4)
 ==
 </nav>
 <## /tones ##>
@@ -389,4 +390,89 @@ W
     [[Alternative form of 扯. **See $扯ce2 for the canonical entry.**]]
     --
   ====
+$$
+
+
+##{#4 .williams} (4)Ts(')(e/) [[ce4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways">
+=={.modern}
+- $邪4
+==
+</nav>
+<## /tone-4-characters ##>
+
+### 邪4 | _(4)Ts(')(e/)_ [[ce4]]
+
+$$
+R
+  ⾢ + 4
+U
+  U+90AA
+V
+  ==
+  - ce4-2 (in 唔信邪)
+  ==
+F
+  ==
+  - [[F2.84 邪]] ::邪曲不直也又[奸]佞也::
+  ==
+W
+  ====
+  - [[Page~564 (4)邪]]
+    ==
+    - Deflected, inclined, swerving from the right line;
+    - whatever leads astray;
+    - depraved, bad, crooked, vicious, corrupting, obscene;
+    - specious, deluding;
+    - heretical, illegal, not acknowledged by the state, or in the classics;
+    - _(4)'m sun(3) (4)ts(')(e/)_
+        [[m4 seon3 ce4-2 唔信邪]]^
+        don't believe heresies;
+    - _(4)ts(')(e/) t(o\)(6)_
+        [[ce4 dou6 邪道]]
+        erroneous doctrines;
+    - _(4)ts(')(e/) peng(6)_
+        [[ce4 beng6 邪病]]
+        epileptic sickness;
+    - _(4)ts(')(e/) f(a/)t(8)_
+        [[ce4 faat3 邪法]]
+        sorceries, tricks;
+    - _(4)ts(')(e/) (4)shan_
+        [[ce4 san4 邪神]],
+        illegal, unacknowledged gods, those whose worship corrupts;
+    - _(1)k(a/)n (4)ts(')(e/)_
+        [[gaan1 ce4 奸邪]],
+        malicious, fornicating, illicit;
+    - _(2)koi (4)ts(')(e/) (1)kwai ching(3)_
+        [[goi2 ce4 gwai1 zing3 改邪歸正]]
+        forsake errors and cleave to the right;
+    - _(4)ts(')(e/) shut(9)_
+        [[ce4 seot6 邪術]]
+        charms, philtres, black art;
+    - _(1)sam (4)ts(')(e/)_
+        [[sam1 ce4 心邪]],
+        impure, lewd in mind;
+    - _(4)ts(')(e/) (4)yam_
+        [[ce4 jam4 邪淫]],
+        obscene, licentious.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 㚥 to 奸.
+  - Williams' 改邪歸正: Better rendered "alter from wickedness [and] return unto the right."
+  ==
+E
+  ====
+  - 【唔信邪】 (m4 seon3 ce4-2):
+    ++
+    1. Not believing in negative superstitions.
+    ++
+  ====
+S
+  ==
+  - $邪je4 (TODO)
+  ==
 $$
