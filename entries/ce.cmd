@@ -451,6 +451,8 @@ E
   as a word in its own right,
   but personally I view it merely as a vernacular reading variation
   of level-tone 斜 _(4)ts(')(e/)_ [[ce4]].
+  (E.g. 斜坡 is read both as _ts(')(e/)(3) (1)po_ [[ce3 bo1]]^
+  and as _(4)ts(')(e/) (1)po_ [[ce4 bo1]].)
   --
   --
   Some point to 笡 as the original character for the departing-tone reading:
@@ -459,10 +461,10 @@ E
   - ::B4.w443b0208 (:遷謝切:) (:笡:) (:斜逆也:)::
   ==
   --
-  But while the reading _ts(')(e/)(3)_ [[ce3]] is a match,
+  But whilst the reading _ts(')(e/)(3)_ [[ce3]] is a match,
   the explanation 斜逆也 seems more a metaphorical "heretical"
   than a physical "inclined" or "sloped",
-  so I am yet to be fully convinced of this.
+  so I am yet to be fully convinced.
   --
 S
   ==
