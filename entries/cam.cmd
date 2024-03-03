@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2024-02-25
+* %date-modified --> 2024-03-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -47,6 +47,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $侵1
+- $浸1
 - $祲1
 - $葠1
 - $鋟1
@@ -117,6 +118,36 @@ E
 S
   ==
   - $侵cam2
+  ==
+$$
+
+###+ 浸1 | _(1)Ts(')am_ [[cam1]]
+
+$$
+R
+  ⽔ + 7
+U
+  U+6D78
+V
+  ==
+  - zam3 (common)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~551 浸(3) _Tsam(3)_ (zam3); here corrected to _(1)Ts(')am_ (cam1)]]
+    ==
+    - [[...]];
+    - _k(')(i/) sh(u")t(8) [(1)ts(')am] (4)yam_
+        [[kei4 syut3 cam1 jam4 其說浸淫]],
+        his words are insidious and persuasive;
+    - [[...]].
+    ==
+  ====
+S
+  ==
+  - $浸zam3
   ==
 $$
 

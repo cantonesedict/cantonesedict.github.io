@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2024-02-25
+* %date-modified --> 2024-03-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -589,7 +589,6 @@ U
   U+6D78
 V
   ==
-  - cam1 (in 浸淫 etc.)
   - zam6 (for vernacular "drown" sense)
   ==
 F
@@ -643,9 +642,7 @@ W
     - _(2)p(i/) (2)shui tsam(3) ch(u")(6)_
         [[bei2 seoi2 zam3 zyu6 畀水浸住]]
         cover it with water;
-    - _k(')(i/) sh(u")t(8) [(1)ts(')am] (4)yam_
-        [[kei4 syut3 cam1 jam4 其說浸淫]],
-        his words are insidious and persuasive;
+    - [[see $浸cam1 for use in 浸淫]];
     - _tsam(3) (2)tsau_
         [[zam3 zau2 浸酒]],
         spirits in which fruits have been soaked;
@@ -659,7 +656,6 @@ C
   - Williams' 水浸: Not overflowed, but flooded.
   - Williams' 汗浸紅顏: Although 紅顏 does not preclude men,
     it is generally used to describe a lady's face.
-  - Williams' 其說浸淫: Corrected _tsam(3)_ [[zam3]] to _(1)ts(')am_ [[cam1]].
   ==
 E
   ====
@@ -672,6 +668,10 @@ E
        ==
     ++
   ====
+S
+  ==
+  - $浸cam1
+  ==
 $$
 
 ###+ 譖3 | _Cham(3)_ [[zam3]]
