@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2024-03-02
+* %date-modified --> 2024-03-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -50,11 +50,43 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $唓1
 - $奢1
 - $車1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+###+ 唓1 | _(1)Ch(')(e/)_ [[ce1]]
+
+$$
+R
+  ⼝ + 7
+U
+  U+5513
+V
+  ==
+  - ce5
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - The rising tone variation is often re-falling at the tail.
+  ==
+E
+  ====
+  - 【唓】 (ce1, ce5):
+    ++
+    1. An interjection of dismissal or dissatisfaction.
+       ==
+       - 唓、得兩個人 (ce1, dak1 loeng5 go3 jan4): "Pfft, only two people."
+       ==
+    ++
+  ====
+$$
 
 ### 奢1 | _(1)Ch(')(e/)_ [[ce1]]
 
