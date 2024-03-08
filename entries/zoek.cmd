@@ -100,7 +100,7 @@ C
   ==
 E
   ====
-  - 【着】 (zoek3):
+  - 【着-wear】 (zoek3):
     ++
     1. To wear, to put on.
        ==
@@ -232,6 +232,17 @@ C
     and 陽入 _ch(e/)uk(9)_ [[zoek6]] (other senses).
     I have split things up accordingly.
   ==
+E
+  ====
+  - 【着-on】 (zoek6):
+    ++
+    1. To turn on.
+       ==
+       - 着燈 (zoek6 dang1): "Turn on [the] light."
+       - 部機開着咗 (bou6 gei1 hoi1 zoek6 zo2): "[The] machine [is] turned on."
+       ==
+    ++
+  ====
 S
   ==
   - $着zoek3

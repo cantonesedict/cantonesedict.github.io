@@ -597,7 +597,10 @@ window.onload = applyFilter;
     , [隻抽](/entries/cau#cantonese-隻抽)
   //
     , zoek3
-    , [着](/entries/zoek#cantonese-着)
+    , [着~\(wear\)](/entries/zoek#cantonese-着-wear)
+  //
+    , zoek6
+    , [着~\(on\)](/entries/zoek#cantonese-着-on)
 ''
 ||||
 <## /terms-table ##>
