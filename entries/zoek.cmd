@@ -98,6 +98,23 @@ C
     and 陽入 _ch(e/)uk(9)_ [[zoek6]] (other senses).
     I have split things up accordingly.
   ==
+E
+  ====
+  - 【着】 (zoek3):
+    ++
+    1. To wear, to put on.
+       ==
+       - 着褲 (zoek3 fu3): "Wearing pants."
+       - 唔着衫 (m4 zoek3 saam1): "Not wearing clothes."
+       ==
+    ++
+  ====
+  --
+  Olden attestation for 着 (same as 著) _ch(e/)uk(8)_ [[zoek3]] meaning "wear":
+  --
+  ==
+  - ::B5.w529b0204 (:張略切:) (:著:) (:服衣於身:)又直略張豫二切::
+  ==
 S
   ==
   - $着zoek6
