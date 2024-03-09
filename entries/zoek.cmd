@@ -152,6 +152,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $着6
+- $著6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -270,5 +271,28 @@ E
 S
   ==
   - $着zoek3
+  ==
+$$
+
+###+ 著6 | _Ch(e/)uk(9)_ [[zoek6]]
+
+$$
+R
+  ⾋ + 8
+U
+  U+8457
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~32|n75 着(8)著(8) _Ch(e/)uk(8)_ (zoek3); here corrected to  _Ch(e/)uk(9)_ (zoek6)]]
+    --
+    [[Alternative form of 着. **See $着zoek6 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $著zoek3
+  - $著zyu3
   ==
 $$
