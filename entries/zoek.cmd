@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoek
-* %date-modified --> 2024-03-08
+* %date-modified --> 2024-03-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -51,6 +51,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $着3
+- $著3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -118,6 +119,29 @@ E
 S
   ==
   - $着zoek6
+  ==
+$$
+
+### 著3 | _Ch(e/)uk(8)_ [[zoek3]]
+
+$$
+R
+  ⾋ + 8
+U
+  U+8457
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~32|n75 着(8)著(8)]]
+    --
+    [[Alternative form of 着. **See $着zoek3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $著zoek6
+  - $著zyu3
   ==
 $$
 
