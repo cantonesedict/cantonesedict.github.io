@@ -50,11 +50,36 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $妁3
 - $着3
 - $著3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 妁3 | _Ch(e/)uk(8)_ [[zoek3]]
+
+$$
+R
+  ⼥ + 3
+U
+  U+5981
+F
+  ==
+  - [[F1.94 妁]] 媒妁
+  ==
+W
+  ====
+  - [[Page~32|n75 妁(8)]]
+    ==
+    - A go-between;
+    - to consult about a marriage;
+    - _(4)m(u/)i ch(e/)uk(8)_
+        [[mui4 zoek3 媒妁]]
+        a match-maker.
+    ==
+  ====
+$$
 
 ### 着3 | _Ch(e/)uk(8)_ [[zoek3]]
 
