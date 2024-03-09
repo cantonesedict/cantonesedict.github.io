@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2024-03-03
+* %date-modified --> 2024-03-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -78,7 +78,7 @@ W
     - to deliberate, to adjust;
     - a ladle, a spoon;
     - _(1)cham (5)t(')o lok(8)_
-        [[zam1 to5 lok3 斟綏咯]]
+        [[zam1 to5 lok3 斟妥咯]]
         all well settled;
     - _(4)t(')ung (5)n(i/) (1)cham (1)cham_
         [[tung4 nei5 zam1 zam1 同你斟斟]],
