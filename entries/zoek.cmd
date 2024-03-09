@@ -50,12 +50,54 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $勺3
 - $妁3
 - $着3
 - $著3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 勺3 | _Ch(e/)uk(8)_ [[zoek3]]
+
+$$
+R
+  ⼓ + 1
+U
+  U+52FA
+V
+  ==
+  - soek3 (common)
+  ==
+F
+  ==
+  - [[F1.94 勺]] 挹取也
+  ==
+W
+  ====
+  - [[Page~32|n75 勺(8)]]
+    ==
+    - A ladle or spoon;
+    - a spoonful;
+    - to bale or pour out;
+    - to adopt, to follow;
+    - _[lau](6) ch(e/)uk(8)_
+        [[lau6 zoek3 漏勺]]
+        a cullender;
+    - _yat(7) ch(e/)uk(8) (2)shui (1)ch(i/) (1)to_
+        [[jat1 zoek3 seoi2 zi1 do1 一勺水之多]],
+        much as a spoonful of water.
+    ==
+  ====
+C
+  ==
+  - Williams' 漏勺: Corrected _tau(6)_ [[dau6]] to _lau(6)_ [[lau6]].
+  ==
+S
+  ==
+  - $勺soek3 (TODO)
+  ==
+$$
 
 ### 妁3 | _Ch(e/)uk(8)_ [[zoek3]]
 
