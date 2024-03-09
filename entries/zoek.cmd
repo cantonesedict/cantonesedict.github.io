@@ -55,6 +55,7 @@ $$
 - $灼3
 - $着3
 - $著3
+- $酌3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -262,6 +263,63 @@ S
   ==
   - $著zoek6
   - $著zyu3
+  ==
+$$
+
+### 酌3 | _Ch(e/)uk(8)_ [[zoek3]]
+
+$$
+R
+  ⾣ + 3
+U
+  U+914C
+F
+  ==
+  - [[F1.94 酌]] 注也斟也益也挹取也沽也又叅酌審擇量度也
+  ==
+W
+  ====
+  - [[Page~32|n75 酌(8)]]
+    ==
+    - To pour out liquor, to fill a cup;
+    - a cup, a glass;
+    - _met._ wine, liquor;
+    - a dinner, a feast;
+    - to avail of, to choose the good and act upon it;
+    - to deliberate;
+    - to imitate or adopt;
+    - _(1)[ts(')(a/)m] ch(e/)uk(8)_ [[caam1 zoek3 參酌]]
+        or
+      _ch(e/)uk(8) (5)(i/)_ [[zoek3 ji5 酌議]],
+        to deliberate;
+    - _pok(9) ch(e/)uk(8)_
+        [[bok6 zoek3 薄酌]]
+        a slight repast;
+    - _ch(e/)uk(8) (4)l(e/)ung (5)t(')o tong(3)_
+        [[zoek3 loeng4 to5 dong3 酌量妥當]]
+        it is all settled right;
+    - _(1)k(e/)ung ch(e/)uk(8)_
+        [[goeng1 zoek3 薑酌]]
+        a feast on a birth;
+    - _sh(e/)ung(6) ch(e/)uk(8)_
+        [[soeng6 zoek3 上酌]]
+        a sumptuous feast;
+    - _(1)chung ch(e/)uk(8)_
+        [[zung1 zoek3 中酌]]
+        the servants' course;
+    - _[tsi(u/)](3) ch(e/)uk(8)_
+        [[ziu3 zoek3 醮酌]]
+        a wedding entertainment to a son;
+    - _(4)[m(u/)i] ch(e/)uk(8)_
+        [[mui4 zoek3 梅酌]]
+        a return feast given by a bridegroom.
+    ==
+  ====
+C
+  ==
+  - Williams' 參酌: Corrected _(1)sham_ [[sam1]] to _(1)ts(')(a/)m_ [[caam1]].
+  - Williams' 醮酌: Corrected _ts(u/)i(3)_ [[zeoi3]] to _tsi(u/)(3)_ [[ziu3]].
+  - Williams' 梅酌: Corrected _(4)mi(u/)_ [[miu4]] to _(4)m(u/)i_ [[mui4]].
   ==
 $$
 
