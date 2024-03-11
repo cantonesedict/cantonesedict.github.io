@@ -58,6 +58,7 @@ $$
 - $灼3
 - $爝3
 - $爵3
+- $皭3
 - $着3
 - $禚3
 - $芍3
@@ -356,6 +357,42 @@ W
         income of a nobleman.
     ==
   ====
+$$
+
+###+ 皭3 | _Ts(e/)uk(8)_ [[zoek3]]
+
+$$
+R
+  ⽩ + 17
+U
+  U+76AD
+V
+  ==
+  - ziu3 (expected from 子肖切)
+  - zoek6 (expected from 在爵切)
+  ==
+F
+  ==
+  - [[F1.94 皭 _Ts(e/)uk(9)_ (zoek6)]] 白色又？淨也
+  ==
+W
+  ====
+  - [[Page~565 皭(9) _Ts(e/)uk(9)_ (zoek6); here normalised to _Ts(e/)uk(8)_ (zoek3)]]
+    ==
+    - A white color, pure, unsullied, clean;
+    - nice, clean looking.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: The illegible character is ⿰正朿,
+    possibly a badly typed 疎 (same as 疏).
+  - The reading zoek3 is not unattested; Kangxi quotes 《集韻》卽約切音爵義同.
+  ==
+S
+  ==
+  - $皭zoek6
+  ==
 $$
 
 ### 着3 | _Ch(e/)uk(8)_ [[zoek3]]
