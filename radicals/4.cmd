@@ -1130,6 +1130,14 @@ For all radicals, see [Index of characters by radical](./).
       - $爭zang1
       ==
       </nav>
+  //
+    , 14
+    ,
+      <nav class="sideways">
+      ==
+      - $爵zoek3
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⽖-characters ##>

@@ -55,6 +55,7 @@ $$
 - $斫3
 - $杓3
 - $灼3
+- $爵3
 - $着3
 - $禚3
 - $芍3
@@ -234,6 +235,46 @@ S
     ++
   ====
   ##>
+$$
+
+### 爵3 | _Ts(e/)uk(8)_ [[zoek3]]
+
+$$
+R
+  ⽖ + 14
+U
+  U+7235
+F
+  ==
+  - [[F1.94 爵]] 鳥名又酒爵又爵祿
+  ==
+W
+  ====
+  - [[Page~565 爵(8)]]
+    ==
+    - A cyathus with three legs,
+    - a cup for libations, a metallic wine cup;
+    - a bamboo wine pottle;
+    - a degree of nobility, rank, station;
+    - nobility;
+    - occurs for the preceding [[$雀3]];
+    - _ts(e/)uk(8) (1)p(u/)i_
+        [[zoek3 bui1 爵杯]],
+        a wine cup;
+    - _(5)'ng ts(e/)uk(8)_
+        [[ng5 zoek3 五爵]]
+        the five orders of nobility;
+    - _ts(e/)uk(8) wai(6)_
+        [[zoek3 wai6 爵位]]
+        of noble rank;
+    - _(1)t(')(i/)n ts(e/)uk(8)_
+        [[tin1 zoek3 天爵]]
+        heaven's nobility --- is a love of virtue;
+    - _ts(e/)uk(8) luk(9)_
+        [[zoek3 luk6 爵祿]]
+        income of a nobleman.
+    ==
+  ====
 $$
 
 ### 着3 | _Ch(e/)uk(8)_ [[zoek3]]
