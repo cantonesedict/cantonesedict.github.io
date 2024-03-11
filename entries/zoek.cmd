@@ -52,6 +52,7 @@ $$
 =={.modern}
 - $勺3
 - $妁3
+- $斫3
 - $杓3
 - $灼3
 - $着3
@@ -125,6 +126,35 @@ W
         [[mui4 zoek3 媒妁]]
         a match-maker.
     ==
+  ====
+$$
+
+### 斫3 | _Ch(e/)uk(8)_ [[zoek3]]
+
+$$
+R
+  ⽄ + 5
+U
+  U+65AB
+F
+  ==
+  - [[F1.94 斫]] 斬截也
+  ==
+W
+  ====
+  - [[Page~32|n75 斫(8)]]
+    ==
+    - To cut with a sword or knife;
+    - to amputate;
+    - to chop, to hew;
+    - _ch(e/)uk(8) (1)hoi_
+        [[zoek3 hoi1 斫開]],
+        to cut open.
+    ==
+    --
+    Often read _t(e/)uk(8)_ [[doek3]]
+    [[here normalised to 剁; **see $剁doek3 for the canonical entry**]].
+    --
   ====
 $$
 
