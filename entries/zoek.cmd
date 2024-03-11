@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoek
-* %date-modified --> 2024-03-09
+* %date-modified --> 2024-03-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -52,6 +52,7 @@ $$
 =={.modern}
 - $勺3
 - $妁3
+- $杓3
 - $灼3
 - $着3
 - $著3
@@ -123,6 +124,31 @@ W
         a match-maker.
     ==
   ====
+$$
+
+### 杓3 | _Ch(e/)uk(8)_ [[zoek3]]
+
+$$
+R
+  ⽊ + 3
+U
+  U+6753
+F
+  ==
+  - [[F1.94 杓]] 杯杓
+  ==
+W
+  ====
+  - [[Page~32|n75 杓(8)]]
+    --
+    [[Reading variation. **See $杓soek3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $杓biu1 (TODO)
+  - $杓soek3 (TODO)
+  ==
 $$
 
 ### 灼3 | _Ch(e/)uk(8)_ [[zoek3]]
