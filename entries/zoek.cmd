@@ -51,6 +51,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $勺3
+- $嚼3
 - $妁3
 - $斫3
 - $杓3
@@ -104,6 +105,47 @@ C
 S
   ==
   - $勺soek3 (TODO)
+  ==
+$$
+
+###+ 嚼3 | _Ts(e/)uk(8)_ [[zoek3]]
+
+$$
+R
+  ⼝ + 17
+U
+  U+56BC
+V
+  ==
+  - zoek6 (expected from 在爵切)
+  ==
+F
+  ==
+  - [[F1.94 嚼 _Ts(e/)uk(9)_ (zoek6)]] 咀嚼咬嚼
+  ==
+W
+  ====
+  - [[Page~565 嚼(9) _Ts(e/)uk(9)_ (zoek6); here normalised to _Ts(e/)uk(8)_ (zoek3)]]
+    ==
+    - To chew, to bite, to ruminate, to craunch, to mumble, to munch, to masticate;
+    - a mouthful, a bite;
+    - _(5)ng(a/)u ts(e/)uk[(8)]_
+        [[ngaau5 zoek3 咬嚼]]
+        to chew;
+    - _ts(e/)uk[(8)] l(a/)n(6)_
+        [[zoek3 laan6 嚼爛]]
+        chewed it to pieces;
+    - _(4)h(o\)m (4)ch(')(a/) ts(e/)uk[(8)] f(a/)n(6)_
+        [[ham4 caa4 zoek3 faan6 含茶嚼飯]]
+        to mumble for a child;
+    - _(5)ng(a/)u (4)man ts(e/)uk[(8)] tsz'(6)_
+        [[ngaau5 man4 zoek3 zi6 咬文嚼字]]
+        to bite and chew phrases---pedantry.
+    ==
+  ====
+S
+  ==
+  - $嚼zoek6
   ==
 $$
 
@@ -594,7 +636,7 @@ W
   ====
 S
   ==
-  - $嚼zoek3 (TODO)
+  - $嚼zoek3
   ==
 $$
 

@@ -216,6 +216,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $嚶ang1
+      - $嚼zoek3
       - $嚼zoek6
       ==
       </nav>
