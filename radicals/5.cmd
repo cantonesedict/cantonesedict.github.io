@@ -310,6 +310,23 @@ For all radicals, see [Index of characters by radical](./).
 ## ⽩ (white)
 
 <## radical-⽩-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 17
+    ,
+      <nav class="sideways">
+      ==
+      - $皭zoek6
+      ==
+      </nav>
+''
+||||
 <## /radical-⽩-characters ##>
 
 

@@ -648,6 +648,7 @@ $$
 =={.modern}
 - $嚼6
 - $爝6
+- $皭6
 - $着6
 - $著6
 ==
@@ -701,6 +702,35 @@ W
 S
   ==
   - $爝zoek3
+  ==
+$$
+
+### 皭6 | _Ts(e/)uk(9)_ [[zoek6]]
+
+$$
+R
+  ⽩ + 17
+U
+  U+76AD
+F
+  ==
+  - [[F1.94 皭]] 白色又？淨也
+  ==
+W
+  ====
+  - [[Page~565 皭(9)]]
+    --
+    [[Reading variation. **See $皭zoek3 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: The illegible character is ⿰正朿,
+    possibly a badly typed 疎 (same as 疏).
+  ==
+S
+  ==
+  - $皭zoek3
   ==
 $$
 
