@@ -60,6 +60,7 @@ $$
 - $芍3
 - $著3
 - $酌3
+- $雀3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -436,6 +437,85 @@ C
   - Williams' 醮酌: Corrected _ts(u/)i(3)_ [[zeoi3]] to _tsi(u/)(3)_ [[ziu3]].
   - Williams' 梅酌: Corrected _(4)mi(u/)_ [[miu4]] to _(4)m(u/)i_ [[mui4]].
   ==
+$$
+
+### 雀3 | _Ts(e/)uk(8)_ [[zoek3]]
+
+$$
+R
+  ⾫ + 3
+U
+  U+96C0
+V
+  ==
+  - zoek3-2 (vernacular rising-tone noun)
+  ==
+F
+  ==
+  - [[F1.94 雀]] 孔雀又小鳥亦曰雀
+  ==
+W
+  ====
+  - [[Page~565 雀(3)]]
+    ==
+    - A sparrow;
+    - a term for small birds, like the finch or lark;
+    - a kind of cap;
+    - a kind of wheat;
+    - _ts(e/)uk(8) lap(9)_
+        [[zoek3 lap6 雀立]]
+        to skip, to hop, as a sparrow;
+    - _(2)hung ts(e/)uk(8)_
+        [[hung2 zoek3-2 孔雀]]
+        a peacock;
+    - _(4)m(a/) ts(e/)uk(8)_
+        [[ma4 zoek3-2 麻雀]]
+        a sparrow;
+    - _(1)sh(a/)n (4)m(a/) ts(e/)uk(8)_
+        [[saan1 ma4 zoek3-2 山麻雀]]
+        a lark;
+    - _ts(e/)uk(8) kok(8)_
+        [[zoek3 gok3 雀角]]
+        litigation;
+    - _(4)wo (1)f(a/) ts(e/)uk(8)_
+        [[wo4 faa1 zoek3-2 禾花雀]]
+        rice-birds, ortolans;
+    - _(4)m(u/)i (1)f(a/) ts(e/)uk(8)_
+        [[mui4 faa1 zoek3-2 梅花雀]]
+        the avedevat _(Fringilla amanduva)_;
+    - _(4)sh(i/) (4)shan ts(e/)uk(8)_
+        [[si4 san4 zoek3-2 時辰雀]]
+        a canary-bird;
+    - _ts(e/)uk(8) sh(i/)t[(8)] (1)f(a/)_
+        [[zoek3 sit3 faa1 雀舌花]],
+        the _Gardenia radicans_.
+    ==
+  ====
+C
+  ==
+  - Williams' 雀舌花: Changed Middle Chinese _sh(i/)t(9)_ [[sit6]]
+    to common reading _sh(i/)t(8)_ [[sit3]].
+  ==
+E
+  ====
+  - 【麻雀】 (maa4 zoek3, maa4 zoek3-2):
+    ++
+    1. Mahjong.
+       ==
+       - 打麻雀 (daa2 maa4 zoek3-2): "Play mahjong."
+       - 麻雀館 (maa4 zoek3 gun2): "Mahjong parlour."
+       ==
+    1. A mahjong tile.
+       ==
+       - 跌咗隻麻雀 (dit3 zo2 zek3 maa4 zoek3-2): "Dropped [a] mahjong-tile."
+       ==
+    ++
+  - 【雀局】 (zoek3 guk6):
+    ++
+    1. Mahjong games (bundled with dinner at a restaurant).
+       Erroneously spelt 鵲局.
+    ++
+  ====
 $$
 
 
