@@ -55,6 +55,7 @@ $$
 - $杓3
 - $灼3
 - $着3
+- $芍3
 - $著3
 - $酌3
 ==
@@ -266,6 +267,38 @@ E
 S
   ==
   - $着zoek6
+  ==
+$$
+
+### 芍3 | _Ch(e/)uk(8)_ [[zoek3]]
+
+$$
+R
+  ⾋ + 3
+U
+  U+828D
+V
+  ==
+  - coek3 (common)
+  ==
+F
+  ==
+  - [[F1.94 芍]] 芍藥花名
+  ==
+W
+  ====
+  - [[Page~32|n75 芍(8)]]
+    ==
+    - The peony;
+    - also the dahlia;
+    - _ch(e/)uk(8) y(e/)uk(9)_
+        [[zoek3 joek6 芍藥]]
+        peony roots, a medicine.
+    ==
+  ====
+S
+  ==
+  - $芍coek3 (TODO)
   ==
 $$
 
