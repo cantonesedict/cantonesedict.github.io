@@ -565,11 +565,38 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $嚼6
 - $着6
 - $著6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 嚼6 | _Ts(e/)uk(9)_ [[zoek6]]
+
+$$
+R
+  ⼝ + 17
+U
+  U+56BC
+F
+  ==
+  - [[F1.94 嚼]] 咀嚼咬嚼
+  ==
+W
+  ====
+  - [[Page~565 嚼(9)]]
+    --
+    [[The expected reading is zoek6 from Middle Chinese 在爵切,
+    but the common reading is zoek3;
+    **see $嚼zoek3 for the canonical entry**.]]
+    --
+  ====
+S
+  ==
+  - $嚼zoek3 (TODO)
+  ==
+$$
 
 ###+ 着6 | _Ch(e/)uk(9)_ [[zoek6]]
 
