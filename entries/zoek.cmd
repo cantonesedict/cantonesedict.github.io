@@ -55,6 +55,7 @@ $$
 - $杓3
 - $灼3
 - $着3
+- $禚3
 - $芍3
 - $著3
 - $酌3
@@ -267,6 +268,31 @@ E
 S
   ==
   - $着zoek6
+  ==
+$$
+
+### 禚3 | _Ch(e/)uk(8)_ [[zoek3]]
+
+$$
+R
+  ⽰ + 10
+U
+  U+799A
+F
+  ==
+  - [[F1.94 禚]] 齊地
+  ==
+W
+  ====
+  - [[Page~32|n75 禚(8)]]
+    ==
+    - A city in the feudal state of [Ts(')(i/)] [[齊]],
+      now a place in Sh(a/)ntung [[山東]] province.
+    ==
+  ====
+C
+  ==
+  - Williams entry: Corrected Ts(i/) to Ts(')(i/).
   ==
 $$
 
