@@ -56,6 +56,7 @@ $$
 - $斫3
 - $杓3
 - $灼3
+- $爝3
 - $爵3
 - $着3
 - $禚3
@@ -277,6 +278,44 @@ S
     ++
   ====
   ##>
+$$
+
+###+ 爝3 | _Ts(e/)uk(8)_ [[zoek3]]
+
+$$
+R
+  ⽕ + 17
+U
+  U+721D
+V
+  ==
+  - ziu3 (expected from 子肖切)
+  - zoek6 (expected from 在爵切)
+  ==
+F
+  ==
+  - [[F1.94 爝 _Ts(e/)uk(9)_ (zoek6)]] 炬火也
+  ==
+W
+  ====
+  - [[Page~565 爝(9) _Ts(e/)uk(9)_ (zoek6); here normalised to _Ts(e/)uk(8)_ (zoek3)]]
+    ==
+    - A flambeau, a torch, a link;
+    - a lighted match burned at night on an alarm.
+    ==
+  ====
+C
+  ==
+  - Both the dark-entering reading 即略切 _ts(e/)uk(8)_ [[zoek3]]
+    and the light-entering reading 在爵切 _ts(e/)uk(9)_ [[zoek6]]
+    are attested in 《廣韻》, explained 炬火 "torch fire",
+    along with departing 子肖切 _tsi(u/)(3)_ [[ziu3]]^,
+    which is simply explained 火 "fire".
+  ==
+S
+  ==
+  - $爝zoek6
+  ==
 $$
 
 ### 爵3 | _Ts(e/)uk(8)_ [[zoek3]]
@@ -608,6 +647,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $嚼6
+- $爝6
 - $着6
 - $著6
 ==
@@ -637,6 +677,30 @@ W
 S
   ==
   - $嚼zoek3
+  ==
+$$
+
+### 爝6 | _Ts(e/)uk(9)_ [[zoek6]]
+
+$$
+R
+  ⽕ + 17
+U
+  U+721D
+F
+  ==
+  - [[F1.94 爝]] 炬火也
+  ==
+W
+  ====
+  - [[Page~565 爝(9)]]
+    --
+    [[Reading variation. **See $爝zoek3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $爝zoek3
   ==
 $$
 

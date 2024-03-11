@@ -1098,6 +1098,15 @@ For all radicals, see [Index of characters by radical](./).
       - $燦caan3
       ==
       </nav>
+  //
+    , 17
+    ,
+      <nav class="sideways">
+      ==
+      - $爝zoek3
+      - $爝zoek6
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⽕-characters ##>
