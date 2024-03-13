@@ -49,10 +49,45 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $倬3
 - $卓3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 倬3 | _Ch(')(e/)uk(8)_ [[coek3]]
+
+$$
+R
+  ⼈ + 8
+U
+  U+502C
+V
+  ==
+  - zoek3 (uncommon)
+  ==
+F
+  ==
+  - [[F1.94 倬]] 著也大也詩倬彼雲漢
+  ==
+W
+  ====
+  - [[Page~33|n76 倬(8)]]
+    ==
+    - Extensive, distant;
+    - large;
+    - to show, to manifest;
+    - _(4)ming ch(')(e/)uk(8) (5)(u") ts(u/)i(6)_
+        [[ming4 coek3 jyu5 zeoi6 明倬汝罪]]
+        to make your crime known.
+    ==
+  ====
+C
+  ==
+  - The uncommon reading zoek3 is perhaps following the unaspirated initial
+    in Middle Chinese 竹角切 _chok(8)_ [[zok3]].
+  ==
+$$
 
 ### 卓3 | _Ch(')(e/)uk(8)_ [[coek3]]
 
