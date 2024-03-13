@@ -186,7 +186,7 @@ W
     ==
     - A table;
     - a stand;
-    - a kind of tree;
+    - [[...]];
     - _ch(')(e/)uk(8) (2)tsz'_
         [[coek3 zi2 桌子]]
         a table;
@@ -218,10 +218,21 @@ F
 W
   ====
   - [[Page~33|n76 棹(8)]]
-    --
-    [[Alternative form of 桌. **See $桌coek3 for the canonical entry.**]]
-    --
+    ==
+    - [[See $桌coek3 for table senses]];
+    - a kind of tree;
+    - [[...]].
+    ==
   ====
+C
+  ==
+  - The character 棹 is only attested in the Middle Chinese rime books
+    under the reading 直敎切 _ch(a/)u(6)_ [[zaau6]]^, explained 檝也 "oar".
+    The "name of a tree" sense appears in Kangxi,
+    quoting ::《類篇》直角切[...]又木名::;
+    while this is in entering tone,
+    the expected reading is _chok(9)_ [[zok6]].
+  ==
 S
   ==
   - $棹zaau3
