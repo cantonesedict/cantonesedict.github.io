@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoek
-* %date-modified --> 2024-03-11
+* %date-modified --> 2024-03-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -49,6 +49,7 @@ $$
 - $妁3
 - $斫3
 - $杓3
+- $棹3
 - $灼3
 - $爝3
 - $爵3
@@ -220,6 +221,29 @@ S
   ==
   - $杓biu1 (TODO)
   - $杓soek3 (TODO)
+  ==
+$$
+
+###+ 棹3 | _Ch(e/)uk(8)_ [[zoek3]]
+
+$$
+R
+  ⽊ + 8
+U
+  U+68F9
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Alternative form of 桌, and reading variation. **See $桌coek3 for the canonical entry.**
+  ==
+S
+  ==
+  - $棹coek3
+  - $棹zaau3
+  - $棹zaau6
   ==
 $$
 

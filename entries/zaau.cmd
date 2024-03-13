@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaau
-* %date-modified --> 2024-02-27
+* %date-modified --> 2024-03-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -427,7 +427,9 @@ W
   ====
 S
   ==
+  - $棹coek3
   - $棹zaau6
+  - $棹zoek3
   ==
 $$
 
@@ -647,7 +649,9 @@ W
   ====
 S
   ==
+  - $棹coek3
   - $棹zaau3
+  - $棹zoek3
   ==
 <## TODO: 棹忌 zaau6 gei6 ##>
 $$

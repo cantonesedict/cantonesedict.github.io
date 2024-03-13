@@ -52,6 +52,7 @@ $$
 - $倬3
 - $卓3
 - $戳3
+- $棹3
 - $綽3
 ==
 </nav>
@@ -159,6 +160,30 @@ W
         to stamp a document.
     ==
   ====
+$$
+
+### 棹3 | _Ch(')(e/)uk(8)_ [[coek3]]
+
+$$
+R
+  ⽊ + 8
+U
+  U+68F9
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~33|n76 棹(8)]]
+    --
+    [[Alternative form of 桌. **See $桌coek3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $棹zaau3
+  - $棹zaau6
+  - $棹zoek3
+  ==
 $$
 
 ### 綽3 | _Ch(')(e/)uk(8)_ [[coek3]]
