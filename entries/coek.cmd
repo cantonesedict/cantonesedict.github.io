@@ -54,6 +54,7 @@ $$
 - $戳3
 - $桌3
 - $棹3
+- $灼3
 - $綽3
 ==
 </nav>
@@ -238,6 +239,34 @@ S
   - $棹zaau3
   - $棹zaau6
   - $棹zoek3
+  ==
+$$
+
+###+ 灼3 | _Ch(')(e/)uk(8)_ [[coek3]]
+
+$$
+R
+  ⽕ + 3
+U
+  U+707C
+F
+  [[Not present]]
+W
+  [[Not present]]
+E
+  ====
+  - 【灼】 (coek3):
+    ++
+    1. To cook (briefly) in boiling water, to blanch.
+       ==
+       - 白灼蝦 (baak6 coek3 haa1): "Plain boiled prawns."
+       - 灼一灼 (coek3 jat1 coek3): "[Give it a] blanch."
+       ==
+    ++
+  ====
+S
+  ==
+  - $灼zoek3
   ==
 $$
 
