@@ -56,6 +56,7 @@ $$
 - $棹3
 - $灼3
 - $綽3
+- $芍3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -298,4 +299,25 @@ W
         an overplus, more than enough.
     ==
   ====
+$$
+
+###+ 芍3 | _Ch(')(e/)uk(8)_ [[coek3]]
+
+$$
+R
+  ⾋ + 3
+U
+  U+828D
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation. **See $芍zoek3 for the canonical entry.**
+  ==
+S
+  ==
+  - $芍zoek3
+  ==
 $$
