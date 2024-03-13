@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [coek3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -39,5 +40,64 @@ WP
 MP
   ==
   - coek = [tsʰœːk̚], [tɕʰœːk̚] ((preferred))
+  ==
+$$
+
+
+##{#3 .williams} Ch(')(e/)uk(8) Ts(')(e/)uk(8) [[coek3 低陰入]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $卓3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 卓3 | _Ch(')(e/)uk(8)_ [[coek3]]
+
+$$
+R
+  ⼗ + 6
+U
+  U+5353
+V
+  ==
+  - zoek3 (uncommon)
+  ==
+F
+  ==
+  - [[F1.94 卓]] 特立也高也遠也望也
+  ==
+W
+  ====
+  - [[Page~33|n76 卓(8)]]
+    ==
+    - Firm, stable;
+    - lofty and profound;
+    - distant;
+    - to establish;
+    - to expect;
+    - to surpass;
+    - eminent in, raised above others;
+    - at, reached, as a time;
+    - _(1)ch(')i(u/) ch(')(e/)uk(8)_
+        [[ciu1 coek3 超卓]]
+        preëminent, superior to common;
+    - _ch(')(e/)uk(8) (u")t(9) (4)yan (4)kw(')an_
+        [[coek3 jyut6 jan4 kwan4 卓越人群]],
+        excelling other men;
+    - _ch(')(e/)uk(8) lap(9)_
+        [[coek3 lap6 卓立]]
+        to erect, upright;
+    - _ch(')(e/)uk(8) (i/)(6)_
+        [[coek3 ji6 卓異]]
+        meritorious, said of officers at the quinqennial trial.
+    ==
+  ====
+C
+  ==
+  - The uncommon reading zoek3 is perhaps following the unaspirated initial
+    in Middle Chinese 竹角切 _chok(8)_ [[zok3]].
   ==
 $$
