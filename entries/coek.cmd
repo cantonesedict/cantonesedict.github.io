@@ -57,6 +57,7 @@ $$
 - $灼3
 - $綽3
 - $芍3
+- $鵲3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -319,5 +320,31 @@ C
 S
   ==
   - $芍zoek3
+  ==
+$$
+
+### 鵲3 | _Ts(')(e/)uk(8)_ [[coek3]]
+
+$$
+R
+  ⿃ + 8
+U
+  U+9D72
+F
+  ==
+  - [[F1.94 鵲]] 喜鵲
+  ==
+W
+  ====
+  - [[Page~565 鵲(8)]]
+    --
+    [[The expected reading is coek3 from Middle Chinese 七雀切,
+    but the common reading is zoek3;
+    **see $鵲zoek3 for the canonical entry**.]]
+    --
+  ====
+S
+  ==
+  - $鵲zoek3
   ==
 $$

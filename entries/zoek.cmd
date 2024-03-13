@@ -61,6 +61,7 @@ $$
 - $著3
 - $酌3
 - $雀3
+- $鵲3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -703,6 +704,46 @@ E
        Erroneously spelt 鵲局.
     ++
   ====
+$$
+
+###+ 鵲3 | _Ts(e/)uk(8)_ [[zoek3]]
+
+$$
+R
+  ⿃ + 8
+U
+  U+9D72
+V
+  ==
+  - coek3 (expected from 七雀切)
+  - zoek3-2 (vernacular rising-tone noun)
+  ==
+F
+  ==
+  - [[F1.94 鵲 _Ts(')(e/)uk(8)_ (coek3)]] 喜鵲
+  ==
+W
+  ====
+  - [[Page~565 鵲(8) _Ts(')(e/)uk(8)_ (coek3); here normalised to _Ts(e/)uk(8)_ (zoek3)]]
+    ==
+    - A magpie, a jackdaw;
+    - a jay;
+    - _(2)h(i/) [ts(e/)uk](8)_ [[hei2 zoek3 喜鵲]]
+        or
+      _(1)kon [ts(e/)uk](8)_ [[gon1 zoek3 乾鵲]]
+        a magpie;
+    - _(2)sh(a/)n (2)h(i/) [ts(e/)uk](8)_
+        [[saan1 hei2 zoek3 山喜鵲]]
+        a magpie with a gradated tail;
+    - _(1)(u/) [ts(e/)uk](8)_
+        [[wu1 zoek3 烏鵲]]
+        a raven.
+    ==
+  ====
+S
+  ==
+  - $鵲coek3
+  ==
 $$
 
 
