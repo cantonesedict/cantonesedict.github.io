@@ -151,7 +151,7 @@ See also: [Index of Cantonese terms by Jyutping](/terms/).
 - $ciu (work in progress)
 - $co (work in progress)
 - $coe (work in progress)
-- $coek (work in progress)
+- $coek
 - $coeng (work in progress)
 - $coi (work in progress)
 - $cok (work in progress)
