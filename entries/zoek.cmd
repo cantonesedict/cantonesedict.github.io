@@ -49,6 +49,7 @@ $$
 - $妁3
 - $斫3
 - $杓3
+- $桌3
 - $棹3
 - $灼3
 - $爝3
@@ -221,6 +222,27 @@ S
   ==
   - $杓biu1 (TODO)
   - $杓soek3 (TODO)
+  ==
+$$
+
+###+ 桌3 | _Ch(e/)uk(8)_ [[zoek3]]
+
+$$
+R
+  ⽊ + 6
+U
+  U+684C
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation. **See $桌coek3 for the canonical entry.**
+  ==
+S
+  ==
+  - $桌coek3
   ==
 $$
 

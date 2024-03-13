@@ -52,6 +52,7 @@ $$
 - $倬3
 - $卓3
 - $戳3
+- $桌3
 - $棹3
 - $綽3
 ==
@@ -160,6 +161,49 @@ W
         to stamp a document.
     ==
   ====
+$$
+
+###+ 桌3 | _Ch(')(e/)uk(8)_ [[coek3]]
+
+$$
+R
+  ⽊ + 6
+U
+  U+684C
+A
+  ==
+  - $棹3
+  ==
+V
+  ==
+  - zoek3 (uncommon)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~33|n76 棹(8); here normalised to 桌]]
+    ==
+    - A table;
+    - a stand;
+    - a kind of tree;
+    - _ch(')(e/)uk(8) (2)tsz'_
+        [[coek3 zi2 桌子]]
+        a table;
+    - _(2)(i/) ch(')(e/)uk(8)_
+        [[ji2 coek3 椅桌]];
+        tables and chairs.
+    ==
+  ====
+C
+  ==
+  - The uncommon reading zoek3 is perhaps following the unaspirated initial
+    in Middle Chinese 竹角切 _chok(8)_ [[zok3]].
+  ==
+S
+  ==
+  - $桌zoek3
+  ==
 $$
 
 ### 棹3 | _Ch(')(e/)uk(8)_ [[coek3]]

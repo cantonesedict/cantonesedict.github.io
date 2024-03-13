@@ -702,6 +702,8 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $桌coek3
+      - $桌zoek3
       - $桎zat6
       ==
       </nav>
