@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $倬3
 - $卓3
+- $綽3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -135,4 +136,34 @@ C
   - The uncommon reading zoek3 is perhaps following the unaspirated initial
     in Middle Chinese 竹角切 _chok(8)_ [[zok3]].
   ==
+$$
+
+### 綽3 | _Ch(')(e/)uk(8)_ [[coek3]]
+
+$$
+R
+  ⽷ + 8
+U
+  U+7DBD
+F
+  ==
+  - [[F1.94 綽]] 寬也緩也
+  ==
+W
+  ====
+  - [[Page~33|n76 綽(8)]]
+    ==
+    - Large, ample;
+    - slow, leisurely;
+    - _ch(')(e/)uk(8) y(e/)uk(8)_
+        [[coek3 joek3 綽約]]
+        delicate, as a girl;
+    - _(1)f(u/)n ch(')(e/)uk(8)_
+        [[fun1 coek3 寬綽]]
+        broad, liberal;
+    - _ch(')(e/)uk(8) ch(')(e/)uk(8) (5)yau (4)(u")_
+        [[coek3 coek3 jau5 jyu4 綽綽有餘]],
+        an overplus, more than enough.
+    ==
+  ====
 $$
