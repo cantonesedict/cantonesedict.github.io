@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $倬3
 - $卓3
+- $戳3
 - $綽3
 ==
 </nav>
@@ -136,6 +137,28 @@ C
   - The uncommon reading zoek3 is perhaps following the unaspirated initial
     in Middle Chinese 竹角切 _chok(8)_ [[zok3]].
   ==
+$$
+
+### 戳3 | _Ch(')(e/)uk(8)_ [[coek3]]
+
+$$
+R
+  ⼽ + 14
+U
+  U+6233
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~33|n76 戳(8)]]
+    ==
+    - To stab or spear;
+    - a seal used by constables;
+    - _k(')oi(3) ch(')(e/)uk(8)_
+        [[koi3 coek3 蓋戳]]
+        to stamp a document.
+    ==
+  ====
 $$
 
 ### 綽3 | _Ch(')(e/)uk(8)_ [[coek3]]
