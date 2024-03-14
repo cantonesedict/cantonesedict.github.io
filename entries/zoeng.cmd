@@ -49,11 +49,38 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $嫜1
 - $張1
 - $章1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 嫜1 | _(1)Ch(e/)ung_ [[zoeng1]]
+
+$$
+R
+  ⼥ + 11
+U
+  U+5ADC
+F
+  ==
+  - [[F1.89 嫜]] 姑嫜
+  ==
+W
+  ====
+  - [[Page~33|n76 (1)嫜]]
+    ==
+    - A husband's father;
+    - _(1)k(u/) (1)ch(e/)ung_
+        [[gu1 zoeng1 姑嫜]],
+        a husband's parents;
+    - _(1)hing (1)ch(e/)ung_
+        [[hing1 zoeng1 兄嫜]],
+        a husband's brother.
+    ==
+  ====
+$$
 
 ### 張1 | _(1)Ch(e/)ung_ [[zoeng1]]
 
