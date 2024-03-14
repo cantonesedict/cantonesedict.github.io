@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2023-08-02
-* %copyright-prior-years -->
+* %date-modified --> 2024-03-14
+* %copyright-prior-years --> 2023--
 
 %%%
-
---{.modern}
-[[From Page~33|n76 (Ch(e/)ung) and Page~565 (Ts(e/)ung) of the original onwards.]]
---
 
 #{.williams} Ch(e/)ung. Ts(e/)ung. [[zoeng]]
 
@@ -21,3 +17,27 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [[Work in progress]]
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Ch(e/)ung. [[Page~33|n76]]
+  - Ts(e/)ung. [[Page~565]]
+  ==
+WP
+  ==
+  - Ch(e/)ung <span class="modern">= [tɕɛoŋ]</span>
+  - Ts(e/)ung <span class="modern">= [tsɛoŋ]</span>
+  ==
+MP
+  ==
+  - zoeng = [tsœːŋ], [tɕœːŋ] ((preferred))
+  ==
+$$
