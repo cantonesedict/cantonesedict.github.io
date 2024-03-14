@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $張1
+- $章1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -113,4 +114,54 @@ C
   - Fan Wan entry: The unidentified character is ⿵𡗜弓, where 𡗜 is ⿻大丷.
   - Williams' 主張: Dated; 主張 now means to assert or hold a position or opinion.
   ==
+$$
+
+### 章1 | _(1)Ch(e/)ung_ [[zoeng1]]
+
+$$
+R
+  ⾳ + 2
+U
+  U+7AE0
+F
+  ==
+  - [[F1.89 章]] 文章采章章明表章
+  ==
+W
+  ====
+  - [[Page~33|n76 (1)章]]
+    ==
+    - A piece of music;
+    - a chapter, a section;
+    - a composition;
+    - a statement;
+    - rules, laws, regulations;
+    - clear, beautiful, manifest;
+    - a display;
+    - a grove;
+    - a metonic cycle;
+    - _(2)ts(')oi (1)ch(e/)ung_
+        [[coi2 zoeng1 彩章]],
+        variegated;
+    - _h(i/)n(3) (1)ch(e/)ung_
+        [[hin3 zoeng1 憲章]],
+        magistrate's orders;
+    - _(1)ch(e/)ung k(u")(3)_
+        [[zoeng1 geoi3 章句]]
+        sections and paragraphs;
+    - _sh(o\)(3) (1)ch(e/)ung_
+        [[sou3 zoeng1 數章]],
+        many papers or statements;
+    - _(1)ch(e/)ung (4)ch(')ing_
+        [[zoeng1 cing4 章程]],
+        regulations, rule of conduct;
+    - _(4)wong (1)ch(e/)ung_
+        [[wong4 zoeng1 王章]],
+        laws of the land;
+    - _(4)t(')(o\) (1)ch(e/)ung_ [[tou4 zoeng1 圖章]]^
+        or
+      _yan(3) (1)ch(e/)ung_ [[jan3 zoeng1 印章]],
+      a seal.
+    ==
+  ====
 $$
