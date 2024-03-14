@@ -838,6 +838,23 @@ For all radicals, see [Index of characters by radical](./).
 ## ⼺ (bristle)
 
 <## radical-⼺-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 11
+    ,
+      <nav class="sideways">
+      ==
+      - $彰zoeng1
+      ==
+      </nav>
+''
+||||
 <## /radical-⼺-characters ##>
 
 

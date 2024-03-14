@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $嫜1
 - $張1
+- $彰1
 - $章1
 ==
 </nav>
@@ -141,6 +142,33 @@ C
   - Fan Wan entry: The unidentified character is ⿵𡗜弓, where 𡗜 is ⿻大丷.
   - Williams' 主張: Dated; 主張 now means to assert or hold a position or opinion.
   ==
+$$
+
+### 彰1 | _(1)Ch(e/)ung_ [[zoeng1]]
+
+$$
+R
+  ⼺ + 11
+U
+  U+5F70
+F
+  ==
+  - [[F1.89 彰]] 著也明也
+  ==
+W
+  ====
+  - [[Page~33|n76 (1)彰]]
+    ==
+    - Luminous;
+    - beautiful;
+    - elegant;
+    - to manifest;
+    - variegated plumage or pelage;
+    - _(1)ch(e/)ung (4)ming_
+        [[zoeng1 ming4 彰明]],
+        clearly exhibited.
+    ==
+  ====
 $$
 
 ### 章1 | _(1)Ch(e/)ung_ [[zoeng1]]
