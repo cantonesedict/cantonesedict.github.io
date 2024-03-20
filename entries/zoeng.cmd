@@ -55,6 +55,7 @@ $$
 - $慞1
 - $樟1
 - $漳1
+- $璋1
 - $章1
 ==
 </nav>
@@ -245,6 +246,29 @@ W
     ==
     - Name of a river;
     - the prefecture of Ch(a/)ngchau [[漳州]] in Fuhkien [[福建]] near Amoy [[廈門]].
+    ==
+  ====
+$$
+
+### 璋1 | _(1)Ch(e/)ung_ [[zoeng1]]
+
+$$
+R
+  ⽟ + 11
+U
+  U+748B
+F
+  ==
+  - [[F1.89 璋]] 玉名
+  ==
+W
+  ====
+  - [[Page~34|n77 (1)璋]]
+    ==
+    - A kind of plaything made of jade;
+    - _lung(6) (1)ch(e/)ung_
+        [[lung6 zoeng1 弄璋]],
+        to bear a son.
     ==
   ====
 $$
