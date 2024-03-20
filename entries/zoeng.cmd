@@ -54,6 +54,7 @@ $$
 - $彰1
 - $慞1
 - $樟1
+- $漳1
 - $章1
 ==
 </nav>
@@ -223,6 +224,27 @@ W
     - _(1)h(e/)ung (1)ch(e/)ung_
         [[hoeng1 zoeng1 香樟]],
         a camphor odor.
+    ==
+  ====
+$$
+
+### 漳1 | _(1)Ch(e/)ung_ [[zoeng1]]
+
+$$
+R
+  ⽔ + 11
+U
+  U+6F33
+F
+  ==
+  - [[F1.89 漳]] 水名
+  ==
+W
+  ====
+  - [[Page~34|n77 (1)漳]]
+    ==
+    - Name of a river;
+    - the prefecture of Ch(a/)ngchau [[漳州]] in Fuhkien [[福建]] near Amoy [[廈門]].
     ==
   ====
 $$
