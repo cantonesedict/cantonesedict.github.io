@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2024-03-14
+* %date-modified --> 2024-03-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -52,6 +52,7 @@ $$
 - $嫜1
 - $張1
 - $彰1
+- $慞1
 - $章1
 ==
 </nav>
@@ -167,6 +168,31 @@ W
     - _(1)ch(e/)ung (4)ming_
         [[zoeng1 ming4 彰明]],
         clearly exhibited.
+    ==
+  ====
+$$
+
+### 慞1 | _(1)Ch(e/)ung_ [[zoeng1]]
+
+$$
+R
+  ⼼ + 11
+U
+  U+615E
+F
+  ==
+  - [[F1.89 慞]] 惶恐
+  ==
+W
+  ====
+  - [[Page~33|n76 (1)慞]]
+    ==
+    - Alarm;
+    - apprehensive;
+    - _(1)ch(e/)ung (4)wong_
+        [[zoeng1 wong4 慞惶]],
+        terrified, fearful;
+        a horrified look.
     ==
   ====
 $$
