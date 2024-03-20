@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 11-stroke radicals
-* %date-modified --> 2024-03-13
+* %date-modified --> 2024-03-20
 * %copyright-prior-years -->
 * %meta-description --> index of characters with 11-stroke radicals
 
@@ -195,6 +195,23 @@ For all radicals, see [Index of characters by radical](./).
 ## ⿅ (deer)
 
 <## radical-⿅-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 11
+    ,
+      <nav class="sideways">
+      ==
+      - $麞zoeng1
+      ==
+      </nav>
+''
+||||
 <## /radical-⿅-characters ##>
 
 

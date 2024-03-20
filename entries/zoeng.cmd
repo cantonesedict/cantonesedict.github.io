@@ -58,6 +58,7 @@ $$
 - $璋1
 - $鄣1
 - $章1
+- $麞1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -341,6 +342,29 @@ W
         or
       _yan(3) (1)ch(e/)ung_ [[jan3 zoeng1 印章]],
       a seal.
+    ==
+  ====
+$$
+
+### 麞1 | _(1)Ch(e/)ung_ [[zoeng1]]
+
+$$
+R
+  ⿅ + 11
+U
+  U+9E9E
+F
+  ==
+  - [[F1.89 麞]] 獸名
+  ==
+W
+  ====
+  - [[Page~34|n77 (1)麞]]
+    ==
+    - A kind of chevrotain or gazelle, hornless, and of elegant shape;
+    - _(4)ngan (1)ch(e/)ung_
+        [[ngan4 zoeng1 銀麞]],
+        the white gazelle---appears in good reigns.
     ==
   ====
 $$
