@@ -53,6 +53,7 @@ $$
 - $張1
 - $彰1
 - $慞1
+- $樟1
 - $章1
 ==
 </nav>
@@ -193,6 +194,35 @@ W
         [[zoeng1 wong4 慞惶]],
         terrified, fearful;
         a horrified look.
+    ==
+  ====
+$$
+
+### 樟1 | _(1)Ch(e/)ung_ [[zoeng1]]
+
+$$
+R
+  ⽊ + 11
+U
+  U+6A1F
+F
+  ==
+  - [[F1.89 樟]] 木名
+  ==
+W
+  ====
+  - [[Page~33|n76 (1)樟]]
+    ==
+    - The camphor _(Laurus camphora)_;
+    - _(1)ch(e/)ung muk(9)_
+        [[zoeng1 muk6 樟⽊]]
+        camphor wood;
+    - _(1)ch(e/)ung (5)n(o\)_
+        [[zoeng1 nou5 樟腦]],
+        gum camphor;
+    - _(1)h(e/)ung (1)ch(e/)ung_
+        [[hoeng1 zoeng1 香樟]],
+        a camphor odor.
     ==
   ====
 $$
