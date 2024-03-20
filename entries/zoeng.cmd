@@ -56,6 +56,7 @@ $$
 - $樟1
 - $漳1
 - $璋1
+- $鄣1
 - $章1
 ==
 </nav>
@@ -269,6 +270,27 @@ W
     - _lung(6) (1)ch(e/)ung_
         [[lung6 zoeng1 弄璋]],
         to bear a son.
+    ==
+  ====
+$$
+
+### 鄣1 | _(1)Ch(e/)ung_ [[zoeng1]]
+
+$$
+R
+  ⾢ + 11
+U
+  U+9123
+F
+  ==
+  - [[F1.89 鄣]] 地名
+  ==
+W
+  ====
+  - [[Page~34|n77 (1)鄣]]
+    ==
+    - A feudal state, now part of T(a/)i-ng(a/)n f(u/) [[泰安府]] in [Sh(a/)ntung] [[山東]];
+    - an ancient city in K(u") [[莒]], also in the modern Sh(a/)ntung [[山東]].
     ==
   ====
 $$
