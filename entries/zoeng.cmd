@@ -521,6 +521,7 @@ $$
 =={.modern}
 - $帳3
 - $悵3
+- $賬3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -604,5 +605,84 @@ W
 S
   ==
   - $悵coeng3 (TODO)
+  ==
+$$
+
+### 賬3 | _Ch(e/)ung(3)_ [[zoeng3]]
+
+$$
+R
+  ⾙ + 8
+U
+  U+8CEC
+F
+  ==
+  - [[F1.92 賬]] 賬目
+  ==
+W
+  ====
+  - [[Page~34|n77 賬(3)]]
+    --
+    An unauthorized character.
+    --
+    ==
+    - A debt, a claim, an account, a charge;
+    - to reckon, to sum up;
+    - to calculate[;]
+    - _(4)'m s(u")n(3) ch(e/)ung(3)_
+        [[m4 syun4 zoeng3 唔算賬]]
+        do not put it to my account, it's none of my business;
+    - _ngan(6) ch(e/)ung(3)_
+        [[ngan6 zoeng3 韌賬]]
+        a tough account, a refused bill;
+    - _ch(e/)ung(3) muk(9)_
+        [[zoeng3 muk6 賬目]]
+        accounts;
+    - _(1)shau ch(e/)ung(3)_
+        [[sau1 zoeng3 收賬]]
+        to receive money on account;
+    - _ch(e/)ung(3) (1)t(a/)n_
+        [[zoeng3 daan1 賬單]],
+        a bill;
+    - _(1)chui ch(e/)ung(3)_
+        [[zeoi1 zoeng3 追賬]]
+        to dun;
+    - _ch(e/)ung(3) (4)fong_
+        [[zoeng3 fong4 賬房]],
+        a counting-room;
+    - _hau(6) ch(e/)ung(3)_
+        [[hau6 zoeng3 候賬]]
+        waiting for a settlement;
+    - _s(u")n(3) ch(e/)ung(3)_
+        [[syun3 zoeng3 算賬]]
+        to reckon accounts;
+    - _ch(e/)ung(3) (2)p(o\)_
+        [[zoeng3 bou6-2 賬簿]],
+        an account book;
+    - _t(u/)i(3) ch(e/)ung(3)_
+        [[deoi3 zoeng3 對賬]]
+        to balance accounts by offsetting[;]
+    - _(1)ts(')ing ch(e/)ung(3)_ [[cing1 zoeng3 清賬]]
+        or
+      _(4)w(a/)n ch(e/)ung(3)_ [[waan4 zoeng3 還賬]]
+        to pay off an account;
+    - _h(i/)m(3) ch(e/)ung(3)_
+        [[him3 zoeng3 欠賬]]
+        to owe.
+    ==
+    --
+    A colloquial word.
+    --
+    ==
+    - A time, an occasion;
+    - _(4)lai kwo(3) yat(7) ch(e/)ung(3)_
+        [[lai4 gwo3 jat1 zoeng3]]
+        I have been here once[.]
+    ==
+  ====
+C
+  ==
+  - Williams erroneously puts the "account" sense examples under "A colloquial word";
+    I have fixed this by moving them under "An unauthorized character".
   ==
 $$
