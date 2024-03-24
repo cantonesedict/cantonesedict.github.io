@@ -522,6 +522,7 @@ $$
 - $帳3
 - $悵3
 - $漲3
+- $脹3
 - $賬3
 ==
 </nav>
@@ -632,6 +633,40 @@ W
     - _(2)shui ch(e/)ung(3)_
         [[seoi2 zoeng3 水漲]]
         water is rising, overflowing.
+    ==
+  ====
+$$
+
+### 脹3 | _Ch(e/)ung(3)_ [[zoeng3]]
+
+$$
+R
+  ⾁ + 8
+U
+  U+8139
+F
+  ==
+  - [[F1.92 脹]] 腫脹
+  ==
+W
+  ====
+  - [[Page~35|n78 脹(3)]]
+    ==
+    - A swelled belly;
+    - a swelling;
+    - dropsical;
+    - _(2)shui ch(e/)ung(3)_
+        [[seoi2 zoeng3 水脹]]
+        dropsy of the belly, ascites;
+    - _ch(e/)ung(3) (5)m(u/)n_
+        [[zoeng3 mun5 脹滿]],
+        belly hard or puffy;
+    - _(2)p(a/)u ch(e/)ung(3)_
+        [[baau2 zoeng3 飽脹]]
+        a bellyful, a feeling of fullness;
+    - _ch(e/)ung(3) (5)m(u/)n (4)hung (4)t(')ong_
+        [[zoeng3 mun5 hung4 tong4 脹滿紅堂]],
+        swelling with rage, incensed.
     ==
   ====
 $$
