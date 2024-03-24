@@ -522,6 +522,7 @@ $$
 - $帳3
 - $悵3
 - $漲3
+- $瘴3
 - $脹3
 - $賬3
 ==
@@ -635,6 +636,41 @@ W
         water is rising, overflowing.
     ==
   ====
+$$
+
+### 瘴3 | _Ch(e/)ung(3)_ [[zoeng3]]
+
+$$
+R
+  ⽧ + 11
+U
+  U+7634
+F
+  ==
+  - [[F1.93 瘴]] ::瘴癘[熱]病::
+  ==
+W
+  ====
+  - [[Page~35|n78 瘴(3)]]
+    ==
+    - Malaria;
+    - pestilential vapors;
+    - pestiferous air;
+    - _(1)(i/)n ch(e/)ung(3)_
+        [[jin1 zoeng3 煙瘴]]
+        unwholesome climate;
+    - _(4)l(a/)m ch(e/)ung(3)_
+        [[laam4 zoeng3 嵐瘴]]
+        noxious vapor;
+    - _h(i/)(3) ch(e/)ung(3)_
+        [[hei3 zoeng3 氣瘴]]
+        deleterious malaria.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised ⿱執灬 to 熱.
+  ==
 $$
 
 ### 脹3 | _Ch(e/)ung(3)_ [[zoeng3]]
