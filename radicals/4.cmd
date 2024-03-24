@@ -95,6 +95,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $悽cai1
       - $惆cau4
+      - $悵zoeng3
       ==
       </nav>
   //

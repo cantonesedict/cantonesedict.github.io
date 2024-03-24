@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [zoeng1](#1)
 - [zoeng2](#2)
+- [zoeng3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -509,5 +510,51 @@ S
   ==
   - $長coeng4 (TODO)
   - $長zoeng6 (TODO)
+  ==
+$$
+
+
+##{#3 .williams} Ch(e/)ung(3) Ts(e/)ung(3) [[zoeng3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $悵3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 悵3 | _Ch(e/)ung(3)_ [[zoeng3]]
+
+$$
+R
+  ⼼ + 8
+U
+  U+60B5
+V
+  ==
+  - coeng3 (expected from 丑亮切)
+  ==
+F
+  ==
+  - [[F1.92 悵]] 惆悵
+  ==
+W
+  ====
+  - [[Page~34|n77 悵(3)]]
+    ==
+    - Disappointment;
+    - vexed;
+    - _ch(e/)ung(3) ch(e/)ung(3)_
+        [[zoeng3 zoeng3 悵悵]]
+        longed for;
+    - _ch(e/)ung(3) mong(6)_
+        [[zoeng3 mong6 悵望]]
+        sick at heart from delayed hopes.
+    ==
+  ====
+S
+  ==
+  - $悵coeng3 (TODO)
   ==
 $$
