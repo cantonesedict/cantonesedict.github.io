@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 8-stroke radicals
-* %date-modified --> 2024-03-11
+* %date-modified --> 2024-03-24
 * %copyright-prior-years -->
 * %meta-description --> index of characters with 8-stroke radicals
 
@@ -150,6 +150,23 @@ For all radicals, see [Index of characters by radical](./).
 ## ⾧ (long)
 
 <## radical-⾧-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 0
+    ,
+      <nav class="sideways">
+      ==
+      - $長zoeng2
+      ==
+      </nav>
+''
+||||
 <## /radical-⾧-characters ##>
 
 

@@ -377,6 +377,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $掌2
+- $長2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -438,5 +439,75 @@ W
 C
   ==
   - Fan Wan entry: Normalised 𬋩 (⿱爫⿱冖㠯) to 管.
+  ==
+$$
+
+### 長2 | _(2)Ch(e/)ung_ [[zoeng2]]
+
+$$
+R
+  ⾧ + 0
+U
+  U+9577
+F
+  ==
+  - [[F1.91 長]] 尊也大也
+  ==
+W
+  ====
+  - [[Page~34|n77 (2)長]]
+    ==
+    - Old, senior, superior, greater;
+    - to excel, to increase;
+    - to grow, to extend, to advance;
+    - to prosper;
+    - to elevate, to think highly of;
+    - an elder, a superior;
+    - _(2)p(o\) (2)ch(e/)ung_
+        [[bou2 zoeng2 保長]],
+        a constable;
+    - _(1)k(a/) (2)ch(e/)ung_
+        [[gaa1 zoeng2 家長]],
+        a paterfamilias;
+    - _(5)ngo (2)kau (2)ch(e/)ung (5)n(i/)_
+        [[ngo5 gau2 zoeng2 nei5 我久長你]],
+        I'm somewhat older than you;
+    - _kwai(3) (1)kang (1)to (2)ch(e/)ung_
+        [[gwai3 gang1 do1 zoeng2 貴庚多長]],
+        how old are you?
+    - _(2)fo (2)ch(e/)ung_
+        [[fo2 zoeng2 伙長]],
+        mates in a ship;
+    - _(2)ch(e/)ung t(a/)i(6)_
+        [[zoeng2 daai6 長大]]
+        to grow older;
+    - _(2)ch(e/)ung (2)tsz'_ [[zoeng2 zi2 長子]]
+        or
+      _(2)ch(e/)ung (4)fong_ [[zoeng2 fong4 長房]],
+        the eldest son;
+    - _(2)ch(e/)ung (5)l(o\)_
+        [[zoeng2 lou5 長老]],
+        a Budhist priest;
+    - _(1)ts(u")n (2)ch(e/)ung_ [[zyun1 zoeng2 尊長]]^
+        or
+      _(2)ch(e/)ung (2)ch(e/)_ [[zoeng2 ze2 長者]],
+        an old man;
+    - _(4)n(i/)n (2)ch(e/)ung_
+        [[nin4 zoeng2 年長]],
+        old, older;
+    - _pat(7) (2)ch(e/)ung tsun(3)_
+        [[bat1 zoeng2 zeon3 不長進]]
+        untrustworthy.
+    ==
+  ====
+C
+  ==
+  - Williams' 長房: More the eldest son *and his household*, than simply the eldest son.
+  - Williams' 不長進: Not untrustworthy, but unimproving, or not progressing.
+  ==
+S
+  ==
+  - $長coeng4 (TODO)
+  - $長zoeng6 (TODO)
   ==
 $$
