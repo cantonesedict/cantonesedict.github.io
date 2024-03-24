@@ -525,6 +525,7 @@ $$
 - $瘴3
 - $脹3
 - $賬3
+- $障3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -784,4 +785,45 @@ C
   - Williams erroneously puts the "account" sense examples under "A colloquial word";
     I have fixed this by moving them under "An unauthorized character".
   ==
+$$
+
+### 障3 | _Ch(e/)ung(3)_ [[zoeng3]]
+
+$$
+R
+  ⾩ + 11
+U
+  U+969C
+F
+  ==
+  - [[F1.92 障]] 隔也蔽也塞也
+  ==
+W
+  ====
+  - [[Page~35|n78 障(3)]]
+    ==
+    - To separate;
+    - to divide;
+    - to shut up, to include;
+    - to raise an embankment;
+    - something which prevents progress;
+    - an intervening distance;
+    - a barricade, a trench, a fence;
+    - a protection, as a carpet;
+    - a dike, a terminus;
+    - _(2)p(a/)n ch(e/)ung(3)_
+        [[baan2 zoeng3 板障]]
+        a board partition;
+    - _ch(e/)ung(3) sak(7)_
+        [[zoeng3 sak1 障塞]]
+        a hindrance or stoppage;
+    - _(2)p(o\) ch(e/)ung(3)_
+        [[bou2 zoeng3 保障]]
+        a defense or embankment;
+        to defend a barrier;
+    - _ch(e/)ung(3) pai(3)_
+        [[zoeng3 bai3 障蔽]]
+        to close against ingress.
+    ==
+  ====
 $$

@@ -277,6 +277,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $際zai3
+      - $障zoeng3
       ==
       </nav>
   //
