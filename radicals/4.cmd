@@ -1014,6 +1014,7 @@ For all radicals, see [Index of characters by radical](./).
       - $漆cat1
       - $滯zai6
       - $漳zoeng1
+      - $漲zoeng3
       ==
       </nav>
   //

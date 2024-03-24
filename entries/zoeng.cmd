@@ -521,6 +521,7 @@ $$
 =={.modern}
 - $帳3
 - $悵3
+- $漲3
 - $賬3
 ==
 </nav>
@@ -606,6 +607,33 @@ S
   ==
   - $悵coeng3 (TODO)
   ==
+$$
+
+### 漲3 | _Ch(e/)ung(3)_ [[zoeng3]]
+
+$$
+R
+  ⽔ + 11
+U
+  U+6F32
+F
+  ==
+  - [[F1.92 漲]] 大水貌又水泛溢
+  - [[F1.92 涱]] 同上
+  ==
+W
+  ====
+  - [[Page~35|n78 漲(3)]]
+    ==
+    - An inundation;
+    - to overflow;
+    - a sheet of water;
+    - the southern sea;
+    - _(2)shui ch(e/)ung(3)_
+        [[seoi2 zoeng3 水漲]]
+        water is rising, overflowing.
+    ==
+  ====
 $$
 
 ### 賬3 | _Ch(e/)ung(3)_ [[zoeng3]]
