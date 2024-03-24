@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2024-03-20
+* %date-modified --> 2024-03-24
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zoeng1](#1)
+- [zoeng2](#2)
 ==
 </nav>
 <## /tones ##>
@@ -367,4 +368,75 @@ W
         the white gazelle---appears in good reigns.
     ==
   ====
+$$
+
+
+##{#2 .williams} (1)Ch(e/)ung (1)Ts(e/)ung [[zoeng2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $掌2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 掌2 | _(2)Ch(e/)ung_ [[zoeng2]]
+
+$$
+R
+  ⼿ + 8
+U
+  U+638C
+F
+  ==
+  - [[F1.91 掌]] ::手掌又主也掌握掌[管]又鞅掌失容也::
+  ==
+W
+  ====
+  - [[Page~34|n77 (2)掌]]
+    ==
+    - The palm of the hand;
+    - the paw or sole of animals;
+    - a webbed foot;
+    - to grasp;
+    - to rule, to control;
+    - a control, a jurisdiction;
+    - _(2)shau (2)ch(e/)ung_
+        [[sau2 zoeng2 手掌]],
+        the palm;
+    - _(2)t(a/) yat(7) (1)p(a/) (2)ch(e/)ung_
+        [[daa2 jat1 baa1 zoeng2 打一巴掌]],
+        a slap of the hand;
+    - _(2)ch(e/)ung (2)k(u/)n (1)kung (4)yan_
+        [[zoeng2 gun2 gung1 jan4 掌管工人]],
+        to oversee workmen;
+    - _h(o\)p(9) (2)ch(e/)ung_
+        [[hap6 zoeng2 合掌]],
+        to clasp the hands, as in prayer;
+    - _(2)ch(e/)ung ak(7) (1)ping (4)k(')(u")n_
+        [[zoeng2 ak1 bing1 kyun4 掌握兵權]],
+        to command the forces;
+    - _(2)ch(e/)ung k(a/)u(3)_
+        [[zoeng2 gaau3 掌教]]
+        to teach [graduates];
+        [[these square brackets appear in the original text]]
+    - _hon(3) (2)shau (2)ch(e/)ung_
+        [[hon3 sau2 zoeng2 看手掌]],
+        to examine the hand, palmistry;
+    - _p(')(a/)k(8) (2)ch(e/)ung_
+        [[paak3 zoeng2 拍掌]],
+        to clap the hands;
+    - _(2)ch(e/)ung kwai(6)_
+        [[zoeng2 gwai6-2 掌櫃]]
+        a bookkeeper, a salesman;
+    - _(i/)(6) (4)(u") (2)f(a/)n (2)ch(e/)ung_
+        [[ji6 jyu4 faan2 zoeng2 易如反掌]],
+        as easy as to turn the hand over.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised 𬋩 (⿱爫⿱冖㠯) to 管.
+  ==
 $$
