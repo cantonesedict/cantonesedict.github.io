@@ -519,10 +519,58 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $帳3
 - $悵3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 帳3 | _Ch(e/)ung(3)_ [[zoeng3]]
+
+$$
+R
+  ⼱ + 8
+U
+  U+5E33
+F
+  ==
+  - [[F1.92 帳]] 帷幕也
+  ==
+W
+  ====
+  - [[Page~34|n77 帳(3)]]
+    ==
+    - A curtain, a screen;
+    - a tent;
+    - a house;
+    - to calculate;
+    - to spread;
+    - a reason, a plan;
+    - an account, for which the next is used;
+    - _p(o\)(3) ch(e/)ung(3)_
+        [[bou3 zoeng3 布帳]]
+        an awning;
+    - _ch(e/)ung(3) (4)l(i/)m_
+        [[zoeng3 lim4-2 帳簾]],
+        a hanging door-screen;
+    - _ch(')(i/)t(8) ch(e/)ung(3)_
+        [[cit3 zoeng3 設帳]]
+        to pitch one's tent, to become a teacher;
+    - _(1)man ch(e/)ung(3)_
+        [[man1 zoeng3 蚊帳]]
+        a bed-curtain;
+    - _wan(6) ch(e/)ung(3)_
+        [[wan6 zoeng3 混帳]]
+        unreasonable, incoherent;
+    - _(4)p(')ing ch(e/)ung(3)_
+        [[ping4 zoeng3 屏帳]]
+        a movable screen of silk;
+    - _shau(6) ch(e/)ung(3)_
+        [[sau6 zoeng3 壽帳]]
+        a scroll given to old people.
+    ==
+  ====
+$$
 
 ### 悵3 | _Ch(e/)ung(3)_ [[zoeng3]]
 
