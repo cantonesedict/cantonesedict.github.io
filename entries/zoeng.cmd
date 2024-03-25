@@ -836,6 +836,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $丈6
+- $仗6
 - $杖6
 - $長6
 ==
@@ -887,6 +888,66 @@ C
 $$
 
 [Ordinance No.~8 of 1885]: https://web.archive.org/web/20220609133538/https://oelawhk.lib.hku.hk/archive/files/52fa22f83069cf6a385779d462a0f6e7.pdf
+
+### 仗6 | _Ch(e/)ung(6)_ [[zoeng6]]
+
+$$
+R
+  ⼈ + 3
+U
+  U+4ED7
+V
+  ==
+  - zoeng6-3 (for "battle" sense, except in 陣仗)
+  ==
+F
+  ==
+  - [[F1.93 仗]] 兵器刀劍總名又儀衞曰仗又倚仗憑依也
+  ==
+W
+  ====
+  - [[Page~35|n78 仗(6)]]
+    ==
+    - A sharp weapon;
+    - to fight;
+    - to rely on, to lean on, to look up to;
+    - _(2)t(a/) shing(3) ch(e/)ung(6)_
+        [[daa2 sing3 zoeng6-3 打勝仗]]
+        to get the victory;
+    - _ts(i/)p(8) ch(e/)ung(6)_
+        [[zip3 zoeng6-3 接仗]]
+        in battle;
+    - _(2)t(a/) ch(e/)ung(6)_
+        [[daa2 zoeng6-3 打仗]]
+        to fight, at war;
+    - _tak(7) ch(e/)ung(6)_
+        [[dak1 zoeng6 得仗]]
+        to have a friend;
+    - _(5)y(e/)ung ch(e/)ung(6)_
+        [[joeng5 zoeng6 仰仗]]
+        to look to for aid;
+    - _ch(e/)ung(6) wai(6)_
+        [[zoeng6 wai6 仗衛]]
+        imperial guard;
+    - _(1)ping ch(e/)ung(6)_
+        [[bing1 zoeng6 兵仗]]
+        arms;
+    - _(2)(i/) ch(e/)ung(6)_
+        [[ji2 zoeng6 倚仗]]
+        to trust to.
+    ==
+  ====
+E
+  ====
+  - 【大陣仗】 (daai6 zan6 zoeng6):
+    ++
+    1. A big scene, or to make a big fuss. (Literally, "great battle-array".)
+       ==
+       - 好大陣仗 (hou2 daai6 zan6 zoeng6): "[A] very big fuss."
+       ==
+    ++
+  ====
+$$
 
 ### 杖6 | _Ch(e/)ung(6)_ [[zoeng6]]
 
