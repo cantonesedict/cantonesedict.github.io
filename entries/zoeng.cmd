@@ -835,10 +835,57 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $丈6
 - $長6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 丈6 | _Ch(e/)ung(6)_ [[zoeng6]]
+
+$$
+R
+  ⼀ + 2
+U
+  U+4E08
+F
+  ==
+  - [[F1.93 丈]] 十尺曰丈又大丈夫
+  ==
+W
+  ====
+  - [[Page~35|n78 丈(6)]]
+    ==
+    - Ten _ch(')ek_ [[尺]] or 141~English inches;
+    - to measure;
+    - an elder;
+    - _ch(e/)ung(6) (4)l(e/)ung_
+        [[zoeng6 loeng4 丈量]],
+        to measure land;
+    - _ch(e/)ung(6) (1)f(u/)_
+        [[zoeng6 fu1 丈夫]],
+        my husband;
+    - _(5)l(o\) ch(e/)ung(6)_ [[lou5 zoeng6 老丈]]
+        or
+      _ch(e/)ung(6) (4)yan (1)kung_ [[zoeng6 jan4 gung1 丈人公]],
+        a wife's father;
+    - _t(a/)i(6) ch(e/)ung(6) (1)f(u/)_
+        [[daai6 zoeng6 fu1 大丈夫]],
+        a talented man;
+    - _(1)fong ch(e/)ung(6)_
+        [[fong1 zoeng6 方丈]]
+        the abbot of a monastery.
+    ==
+  ====
+C
+  ==
+  - Williams' 141~English inches:
+    The Ts(')ing Dynasty _ch(')ek_ [[尺]] was only standardised to 14⅝~inches
+    by the British in Hong Kong in [Ordinance No.~8 of 1885].
+  ==
+$$
+
+[Ordinance No.~8 of 1885]: https://web.archive.org/web/20220609133538/https://oelawhk.lib.hku.hk/archive/files/52fa22f83069cf6a385779d462a0f6e7.pdf
 
 ###+ 長6 | _Ch(e/)ung(6)_ [[zoeng6]]
 
