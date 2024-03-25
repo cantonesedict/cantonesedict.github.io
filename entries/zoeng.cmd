@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2024-03-24
+* %date-modified --> 2024-03-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -24,6 +24,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [zoeng1](#1)
 - [zoeng2](#2)
 - [zoeng3](#3)
+- [zoeng6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -509,7 +510,7 @@ C
 S
   ==
   - $長coeng4 (TODO)
-  - $長zoeng6 (TODO)
+  - $長zoeng6
   ==
 $$
 
@@ -826,4 +827,41 @@ W
         to close against ingress.
     ==
   ====
+$$
+
+
+##{#6 .williams} Ch(e/)ung(6) Ts(e/)ung(6) [[zoeng6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $長6
+==
+</nav>
+<## /tone-6-characters ##>
+
+###+ 長6 | _Ch(e/)ung(6)_ [[zoeng6]]
+
+$$
+R
+  ⾧ + 0
+U
+  U+9577
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - The reading _ch(e/)ung(6)_ [[zoeng6]] for 長 is not present in Williams;
+    an entry is included here for completeness.
+    ++
+    1. Excess or surplus.
+    ++
+  ==
+S
+  ==
+  - $長coeng4 (TODO)
+  - $長zoeng2
+  ==
 $$
