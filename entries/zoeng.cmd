@@ -836,6 +836,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $丈6
+- $杖6
 - $長6
 ==
 </nav>
@@ -886,6 +887,65 @@ C
 $$
 
 [Ordinance No.~8 of 1885]: https://web.archive.org/web/20220609133538/https://oelawhk.lib.hku.hk/archive/files/52fa22f83069cf6a385779d462a0f6e7.pdf
+
+### 杖6 | _Ch(e/)ung(6)_ [[zoeng6]]
+
+$$
+R
+  ⽊ + 3
+U
+  U+6756
+V
+  ==
+  - zoeng6-2 (vernacular rising-tone noun)
+  ==
+F
+  ==
+  - [[F1.93 杖]] 梃也
+  ==
+W
+  ====
+  - [[Page~35|n78 杖(6)]]
+    ==
+    - A cane, a staff;
+    - a cudgel, a club;
+    - to lean on;
+    - to hold;
+    - to beat;
+    - aged, an old man;
+    - to mourn;
+    - _(2)kw(a/)i ch(e/)ung(6)_
+        [[gwaai2 zoeng6-2 拐杖]]
+        a staff for old folks;
+    - _(1)ch(')(i/) ch(e/)ung(6)_
+        [[ci1 zoeng6 笞杖]]
+        to bamboo;
+    - _(5)m(u/)n ch(e/)ung(6)_
+        [[mun5 zoeng6 滿杖]]
+        to beat 8O~strokes;
+    - _ch(e/)ung(6) (1)(u") (1)h(e/)ung_
+        [[zoeng6 jyu1 hoeng1 杖於鄉]],
+        a village sexagenarian;
+    - _[sek(8)] ch(e/)ung(6)_
+        [[sek3 zoeng6 錫杖]]
+        a crosier;
+    - _ch(e/)ung(6) (1)k(i/) (1)f(u/)_
+        [[zoeng6 gei1 fu1 杖期夫]],
+        mourners of one year;
+    - _(4)hang ch(e/)ung(6)_
+        [[hang4 zoeng6 行杖]]
+        bambooing, beating;
+    - _chap(7) ch(e/)ung(6)_
+        [[zap1 zoeng6 執杖]]
+        to carry a staff at a funeral.
+    ==
+  ====
+C
+  ==
+  - Williams' 錫杖: Change Middle Chinese _sik(7)_ [[sik1]]
+    to common reading _sek(8)_ [[sek3]].
+  ==
+$$
 
 ###+ 長6 | _Ch(e/)ung(6)_ [[zoeng6]]
 
