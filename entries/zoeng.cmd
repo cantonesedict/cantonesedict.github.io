@@ -59,6 +59,7 @@ $$
 - $慞1
 - $樟1
 - $漳1
+- $漿1
 - $璋1
 - $鄣1
 - $章1
@@ -330,6 +331,55 @@ W
     - the prefecture of Ch(a/)ngchau [[漳州]] in Fuhkien [[福建]] near Amoy [[廈門]].
     ==
   ====
+$$
+
+### 漿1 | _(1)Ts(e/)ung_ [[zoeng1]]
+
+$$
+R
+  ⽔ + 11
+U
+  U+6F3F
+A
+  ==
+  - $䊢1
+  ==
+F
+  ==
+  - [[F1.89 漿]] 水漿酒漿
+  ==
+W
+  ====
+  - [[Page~566 (1)漿(1)䊢]]
+    ==
+    - Thick, half fluid, pasty;
+    - starch, syrup, pus, or matter;
+    - to starch;
+    - broth boiled down thick, congee;
+    - _(4)nai (1)ts(e/)ung_
+        [[nai4 zoeng1 泥漿]],
+        mire;
+    - _(2)tsau (1)ts(e/)ung_
+        [[zau2 zoeng1 酒漿]],
+        a banquet;
+    - _(1)ts(e/)ung (1)(i/) fuk(9)_
+        [[zoeng1 ji1 fuk6 漿衣服]]
+        to starch clothes;
+    - _(1)ts(e/)ung (4)(u/)_
+        [[zoeng1 wu4 漿糊]],
+        paste;
+    - _[mo](6) (1)ts(e/)ung_
+        [[mo6 zoeng1 磨漿]],
+        to prepare starch.
+    ==
+    --
+    The second form [[$䊢1]] is unauthorized.
+    --
+  ====
+C
+  ==
+  - Williams' 磨漿: Corrected _m(o\)(6)_ [[mou6]] to _mo(6)_ [[mo6]].
+  ==
 $$
 
 ### 璋1 | _(1)Ch(e/)ung_ [[zoeng1]]
