@@ -62,6 +62,7 @@ $$
 - $漿1
 - $璋1
 - $䊢1
+- $螿1
 - $鄣1
 - $章1
 - $麞1
@@ -425,6 +426,26 @@ W
     --
     [[Alternative form of 漿. **See $漿zoeng1 for the canonical entry.**]]
     --
+  ====
+$$
+
+### 螿1 | _(1)Ts(e/)ung_ [[zoeng1]]
+
+$$
+R
+  ⾍ + 11
+U
+  U+87BF
+F
+  ==
+  - [[F1.89 螿]] 寒螿虫名
+  ==
+W
+  ====
+  - [[Page~566 (1)螿]]
+    ==
+    - Small species of cicada or grasshopper, whose elytra are green.
+    ==
   ====
 $$
 
