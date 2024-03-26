@@ -549,11 +549,32 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $奬2
 - $掌2
 - $長2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 奬2 | _(2)Ts(e/)ung_ [[zoeng2]]
+
+$$
+R
+  ⼤ + 11
+U
+  U+596C
+F
+  ==
+  - [[F1.92 奬]] 褒奬勸也勵也稱舉也
+  ==
+W
+  ====
+  - [[Page~566 (2)奬]]
+    --
+    [[Alternative form of 獎. **See $獎zoeng2 for the canonical entry.**]]
+    --
+  ====
+$$
 
 ### 掌2 | _(2)Ch(e/)ung_ [[zoeng2]]
 
