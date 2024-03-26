@@ -53,6 +53,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $嫜1
+- $將1
 - $張1
 - $彰1
 - $慞1
@@ -90,6 +91,82 @@ W
         a husband's brother.
     ==
   ====
+$$
+
+### 將1 | _(1)Ts(e/)ung_ [[zoeng1]]
+
+$$
+R
+  ⼨ + 8
+U
+  U+5C07
+F
+  ==
+  - [[F1.89 將]] 事之未必就時也又奉也送也又干將劍名
+  ==
+W
+  ====
+  - [[Page~565 (1)將]]
+    ==
+    - To take, to hold in the hand;
+    - sign of the future, shall, will, about to go;
+    - sometimes a form of the accusative;
+    - then, soon, presently;
+    - to help, to accommodate;
+    - to use, to avail of, to go with, to escort, to accompany;
+    - great, stout;
+    - long, large;
+    - to receive and act upon, endued with;
+    - to act;
+    - to progress, to increase, to approach, to advance towards a mark;
+    - to follow;
+    - going, passing, as time;
+    - the side;
+    - _(1)ts(e/)ung (4)loi_
+        [[zoeng1 loi4 將來]]^
+        presently;
+    - _(1)ts(e/)ung (2)sz'_
+        [[zoeng1 si2 將死]]
+        dying;
+    - _(1)ts(e/)ung kan(6) (a/)n chau(3)_
+        [[zoeng1 gan6 aan3 zau3 將近晏晝]]
+        it is nearly noon;
+    - _(1)ts(e/)ung (2)ho ch(')ut(7)_
+        [[zoeng1 ho2 ceot1 將可出]]
+        then he can go;
+    - _(1)ts(e/)ung (1)kwan_
+        [[zoeng1 gwan1 將軍]],
+        a commander-in-chief, all of whom are Manchus;
+        _met._ the best, the principal;
+    - _(1)ts(e/)ung (4)(u") (1)ch(i/) (4)ho_
+        [[zoeng1 jyu4 zi1 ho4 將如之何]],
+        how shall we then act?
+    - _(1)ts(e/)ung (4)loi (1)ch(')ung (1)kung_
+        [[zoeng1 loi4 cung1 gung1 將來充公]],
+        to confiscate effects;
+    - _(1)ts(e/)ung (1)kam pok(8) (2)p(o\)_
+        [[zoeng1 gam1 bok3 bou2 將金博寶]],
+        to value a rarity with gold;
+    - _(1)ts(e/)ung (2)p(u/)n (4)k(')au l(i/)(6)_
+        [[zoeng1 bun2 kau4 lei6 將本求利]]
+        to make money on a capital;
+    - _(1)sh(u") (1)ts(e/)ung_
+        [[syu1 zoeng1 輸將]],
+        to aid the government;
+    - _(1)ts(e/)ung (4)i(u/) (4)(i/)n (4)ch(')(u")n p(o\)(3)_
+        [[zoeng1 jiu4 jin4 cyun4 bou3 將謠言傳布]]
+        to avail of strange words to make it known.
+    ==
+  ====
+C
+  ==
+  - Williams' 將軍: In the non-Manchu context, a general;
+    in Chinese chess, to check.
+  ==
+S
+  ==
+  - $將zoeng3
+  ==
 $$
 
 ### 張1 | _(1)Ch(e/)ung_ [[zoeng1]]
