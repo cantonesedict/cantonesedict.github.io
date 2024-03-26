@@ -551,6 +551,7 @@ $$
 =={.modern}
 - $奬2
 - $掌2
+- $獎2
 - $長2
 ==
 </nav>
@@ -634,6 +635,43 @@ C
   ==
   - Fan Wan entry: Normalised 𬋩 (⿱爫⿱冖㠯) to 管.
   ==
+$$
+
+###+ 獎2 | _(2)Ts(e/)ung_ [[zoeng2]]
+
+$$
+R
+  ⽝ + 11
+U
+  U+734E
+A
+  ==
+  - $奬2
+  ==
+F
+  ==
+  - [[F1.92 奬]] 褒奬勸也勵也稱舉也
+  ==
+W
+  ====
+  - [[Page~566 (2)奬; here normalised to 獎]]
+    ==
+    - To exhort, to animate, to excite, to encourage;
+    - to laud, to praise, to commend;
+    - to vindicate, to give efficacy to;
+    - to set on, as dogs;
+    - _(2)ts(e/)ung h(u")n(3)_
+        [[zoeng2 hyun3 獎勸]]
+        to exhort;
+    - _(2)ts(e/)ung (2)sh(e/)ung_
+        [[zoeng2 soeng2 獎賞]]^
+        to hold out rewards to;
+        a reward;
+    - _(4)ho yung(6) kwo(3) (2)ts(e/)ung_
+        [[ho4 jung6 gwo3 zoeng2 何用過獎]],
+        why so much overpraise?
+    ==
+  ====
 $$
 
 ### 長2 | _(2)Ch(e/)ung_ [[zoeng2]]
