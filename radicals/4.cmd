@@ -762,6 +762,7 @@ For all radicals, see [Index of characters by radical](./).
       - $槢zaap6
       - $樜ze3
       - $樟zoeng1
+      - $槳zoeng2
       ==
       </nav>
   //

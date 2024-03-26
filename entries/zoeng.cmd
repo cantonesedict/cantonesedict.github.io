@@ -551,6 +551,7 @@ $$
 =={.modern}
 - $奬2
 - $掌2
+- $槳2
 - $獎2
 - $長2
 ==
@@ -635,6 +636,32 @@ C
   ==
   - Fan Wan entry: Normalised 𬋩 (⿱爫⿱冖㠯) to 管.
   ==
+$$
+
+### 槳2 | _(2)Ts(e/)ung_ [[zoeng2]]
+
+$$
+R
+  ⽊ + 11
+U
+  U+69F3
+F
+  ==
+  - [[F1.92 槳]] 船槳
+  ==
+W
+  ====
+  - [[Page~566 (2)槳]]
+    ==
+    - An oar;
+    - _ch(a/)u(6) (2)ts(e/)ung_
+        [[zaau6 zoeng2 櫂槳]],
+        to row;
+    - _(2)ts(e/)ung (4)sh(u")n_
+        [[zoeng2 syun4 槳船]],
+        a revenue cutter, because it has many oars.
+    ==
+  ====
 $$
 
 ###+ 獎2 | _(2)Ts(e/)ung_ [[zoeng2]]
