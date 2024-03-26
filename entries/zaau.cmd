@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaau
-* %date-modified --> 2024-03-13
+* %date-modified --> 2024-03-26
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -682,25 +682,25 @@ W
     - to throw away;
     - a long oar;
     - _ch(a/)u[(6)] k(e/)uk(8)_
-        [[zaau6 goek3]]
+        [[zaau6 goek3 櫂腳]]
         to limp, as the lame do;
     - _ch(a/)u[(6)] chung(3)_
-        [[zaau6 zung3]]
+        [[zaau6 zung3 櫂中]]
         to hit the bull's-eye;
     - _ch(a/)u[(6)] (2)ts(e/)ung_
-        [[zaau6 zoeng2]],
+        [[zaau6 zoeng2 櫂槳]],
         to pull an oar;
     - _ch(a/)u[(6)] (4)m(a/)i (4)t(')au_
-        [[zaau6 maai4 tau4]],
+        [[zaau6 maai4 tau4 櫂埋頭]],
         to pull ashore;
     - _ch(a/)u[(6)] kwo(3) (2)hoi_
-        [[zaau6 gwo3 hoi2]],
+        [[zaau6 gwo3 hoi2 櫂過海]],
         to pull across the river;
     - _ch(')ut(7) lik(9) ch(a/)u[(6)]_
-        [[ceot1 lik6 zaau6]]
+        [[ceot1 lik6 zaau6 出力櫂]]
         row harder;
     - _ch(a/)u[(6)] ch(')ut(7) (1)k(a/)i_
-        [[zaau6 ceot1 gaai1]],
+        [[zaau6 ceot1 gaai1 櫂出街]],
         throw it out in the street.
     ==
     --
