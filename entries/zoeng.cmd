@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2024-03-25
+* %date-modified --> 2024-03-26
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -520,6 +520,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $仗3
 - $帳3
 - $悵3
 - $漲3
@@ -530,6 +531,27 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+###+ 仗3 | _Ch(e/)ung(3)_ [[zoeng3]]
+
+$$
+R
+  ⼈ + 3
+U
+  U+4ED7
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation (for "battle" sense, except in 陣仗). **See $仗zoeng6 for the canonical entry.**
+  ==
+S
+  ==
+  - $仗zoeng6
+  ==
+$$
 
 ### 帳3 | _Ch(e/)ung(3)_ [[zoeng3]]
 
@@ -947,6 +969,10 @@ E
        ==
     ++
   ====
+S
+  ==
+  - $仗zoeng3
+  ==
 $$
 
 ### 杖6 | _Ch(e/)ung(6)_ [[zoeng6]]
