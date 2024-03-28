@@ -1253,6 +1253,7 @@ $$
 - $丈6
 - $仗6
 - $像6
+- $匠6
 - $杖6
 - $象6
 - $長6
@@ -1417,6 +1418,38 @@ C
   ==
   - Fan Wan entry: Corrected 摸 to 模.
   ==
+$$
+
+### 匠6 | _Ts(e/)ung(6)_ [[zoeng6]]
+
+$$
+R
+  ⼕ + 4
+U
+  U+5320
+F
+  ==
+  - [[F1.93 匠]] 工匠
+  ==
+W
+  ====
+  - [[Page~567 匠(6)]]
+    ==
+    - A workman, a mechanic, an artisan of any kind;
+    - _(2)t(a/) (4)ngan ts(e/)ung(6)_
+        [[daa2 ngan4-2 zoeng6 打銀匠]]
+        a silversmith;
+    - _muk(9) ts(e/)ung(6)_
+        [[muk6 zoeng6 木匠]]
+        a joiner, a carpenter;
+    - _(4)nai (2)shui ts(e/)ung(6)_
+        [[nai4 seoi2 zoeng6 泥水匠]]
+        a bricklayer;
+    - _(1)kung ts(e/)ung(6)_
+        [[gung1 zoeng6 工匠]]
+        a mechanic.
+    ==
+  ====
 $$
 
 ### 杖6 | _Ch(e/)ung(6)_ [[zoeng6]]
