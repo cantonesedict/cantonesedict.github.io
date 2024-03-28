@@ -62,6 +62,7 @@ $$
 - $漿1
 - $璋1
 - $䊢1
+- $蔣1
 - $螿1
 - $鄣1
 - $章1
@@ -429,6 +430,33 @@ W
   ====
 $$
 
+###+ 蔣1 | _(1)Ts(e/)ung_ [[zoeng1]]
+
+$$
+R
+  ⾋ + 11
+U
+  U+8523
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~566 (2)蔣 _(2)Ts(e/)ung_ (zoeng2); here corrected to (1)蔣 _(1)Ts(e/)ung_ (zoeng1)]]
+    ==
+    - [[...]];
+    - _(1)k(u/) [(1)]ts(e/)ung_
+        [[gu1 zoeng1 菰蔣]],
+        an aquatic grain;
+        wild rice;
+    - [[...]].
+    ==
+  ====
+S
+  ==
+  - $蔣zoeng2
+  ==
+$$
+
 ### 螿1 | _(1)Ts(e/)ung_ [[zoeng1]]
 
 $$
@@ -730,7 +758,7 @@ C
   ==
 S
   ==
-  - $蔣zoeng1 (TODO)
+  - $蔣zoeng1
   ==
 $$
 

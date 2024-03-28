@@ -674,6 +674,7 @@ For all radicals, see [Index of characters by radical](./).
       - $蔯can4
       - $蓻zap1
       - $蔗ze3
+      - $蔣zoeng1
       - $蔣zoeng2
       ==
       </nav>
