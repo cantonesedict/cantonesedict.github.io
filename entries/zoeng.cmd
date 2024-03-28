@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2024-03-26
+* %date-modified --> 2024-03-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -553,6 +553,7 @@ $$
 - $掌2
 - $槳2
 - $獎2
+- $蔣2
 - $長2
 ==
 </nav>
@@ -699,6 +700,38 @@ W
         why so much overpraise?
     ==
   ====
+$$
+
+### 蔣2 | _(2)Ts(e/)ung_ [[zoeng2]]
+
+$$
+R
+  ⾋ + 11
+U
+  U+8523
+F
+  ==
+  - [[F1.92 蔣]] 地名周公子封于蔣後遂爲姓
+  ==
+W
+  ====
+  - [[Page~566 (2)蔣]]
+    ==
+    - A surname;
+    - [[see $蔣zoeng1 for "Manchurian wild rice" sense]];
+    - _(2)ts(e/)ung (4)[m(a/)u]_
+        [[zoeng2 maau4 蔣茅]],
+        stubble, straw.
+    ==
+  ====
+C
+  ==
+  - Williams' 蔣茅: Corrected _(4)mau_ [[mau4]] to _(4)m(a/)u_ [[maau4]].
+  ==
+S
+  ==
+  - $蔣zoeng1 (TODO)
+  ==
 $$
 
 ### 長2 | _(2)Ch(e/)ung_ [[zoeng2]]
