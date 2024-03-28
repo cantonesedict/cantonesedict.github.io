@@ -1252,6 +1252,7 @@ $$
 =={.modern}
 - $丈6
 - $仗6
+- $像6
 - $杖6
 - $象6
 - $長6
@@ -1366,6 +1367,55 @@ E
 S
   ==
   - $仗zoeng3
+  ==
+$$
+
+### 像6 | _Ts(e/)ung(6)_ [[zoeng6]]
+
+$$
+R
+  ⼈ + 12
+U
+  U+50CF
+F
+  ==
+  - [[F1.93 像]] ::形像又倣[模]也::
+  ==
+W
+  ====
+  - [[Page~566 像(6)]]
+    ==
+    - Interchanged with the preceding [[$象6]];
+    - like, similar;
+    - a figure, image, likeness;
+    - a statue, an idol;
+    - to resemble, to imitate;
+    - _(5)ngau ts(e/)ung(6)_
+        [[ngau5 zoeng6 偶像]]
+        a statue;
+    - _(4)shan ts(e/)ung(6)_
+        [[san4 zoeng6 神像]]
+        an idol;
+    - _ts(e/)ung(6) (1)shang_
+        [[zoeng6 sang1 像生]]^
+        like life;
+    - _(4)m(o\) ts(e/)ung(6)_
+        [[mou4 zoeng6 模像]]
+        to limn a copy;
+    - _(4)yan ts(e/)ung(6)_
+        [[jan4 zoeng6 人像]]
+        a portrait;
+    - _(2)s(e/)ung ts(e/)ung(6)_
+        [[soeng2 zoeng6 想像]]
+        an idea, an illustration;
+    - _(4)'m ts(e/)ung(6) y(e/)ung(6)_
+        [[m4 zoeng6 joeng6-2 唔像樣]]
+        not according to rule.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 摸 to 模.
   ==
 $$
 
