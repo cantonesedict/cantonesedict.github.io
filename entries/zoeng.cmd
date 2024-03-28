@@ -845,6 +845,7 @@ $$
 - $瘴3
 - $脹3
 - $賬3
+- $醬3
 - $障3
 ==
 </nav>
@@ -1126,6 +1127,46 @@ C
   - Williams erroneously puts the "account" sense examples under "A colloquial word";
     I have fixed this by moving them under "An unauthorized character".
   ==
+$$
+
+### 醬3 | _Ts(e/)ung(3)_ [[zoeng3]]
+
+$$
+R
+  ⾣ + 11
+U
+  U+91AC
+F
+  ==
+  - [[F1.93 醬]] 醢也肉醬謂之醢又豉醬
+  ==
+W
+  ====
+  - [[Page~566 醬(3)]]
+    ==
+    - A sort of sauce, pickle or condiment, made of salt and sugar;
+    - relishes, seasoning, like oilmen's stores;
+    - salted preparations;
+    - _(1)kon ts(e/)ung(3)_
+        [[gon1 zoeng3 乾醬]]
+        dried seasoning;
+    - _ts(e/)ung(3) (4)(u")n_
+        [[zoeng3 jyun4-2 醬園]],
+        a shop where condiments are sold;
+    - _ts(e/)ung(3) li(u/)(6)_
+        [[zoeng3 liu6-2 醬料]]
+        materials for preserves;
+    - _(4)l(u/)i ts(e/)ung(3)_
+        [[leoi4 zoeng3 擂醬]]
+        to mix sauces;
+    - _(5)'ng m(i/)(6) ts(e/)ung(3)_
+        [[ng5 mei6 zoeng3 五味醬]]
+        a compounded sauce;
+    - _m(i/)n(6) sh(i/)(6) ts(e/)ung(3)_
+        [[min6 si6-2 zoeng3 麪豉醬]]
+        a sort of bean relish.
+    ==
+  ====
 $$
 
 ### 障3 | _Ch(e/)ung(3)_ [[zoeng3]]
