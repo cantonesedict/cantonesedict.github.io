@@ -839,6 +839,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $仗3
+- $將3
 - $帳3
 - $悵3
 - $漲3
@@ -869,6 +870,39 @@ C
 S
   ==
   - $仗zoeng6
+  ==
+$$
+
+### 將3 | _Ts(e/)ung(3)_ [[zoeng3]]
+
+$$
+R
+  ⼨ + 8
+U
+  U+5C07
+F
+  ==
+  - [[F1.93 將]] 將帥統兵之官也
+  ==
+W
+  ====
+  - [[Page~566 將(3)]]
+    ==
+    - To take charge of troops, to lead troops into the field, to act as a general;
+    - a general, a leader;
+    - _[(5)]l(o\) ts(e/)ung(3)_
+        [[lou5 zoeng3 老將]]
+        a soldier.
+    ==
+  ====
+C
+  ==
+  - Williams' 老將: Corrected _(2)l(o\)_ [[lou2]] to _(5)l(o\)_ [[lou5]].
+    Specifically an old soldier, a veteran.
+  ==
+S
+  ==
+  - $將zoeng1
   ==
 $$
 
