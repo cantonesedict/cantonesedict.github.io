@@ -1253,6 +1253,7 @@ $$
 - $丈6
 - $仗6
 - $杖6
+- $象6
 - $長6
 ==
 </nav>
@@ -1425,6 +1426,56 @@ C
   - Williams' 錫杖: Change Middle Chinese _sik(7)_ [[sik1]]
     to common reading _sek(8)_ [[sek3]].
   ==
+$$
+
+### 象6 | _Ts(e/)ung(6)_ [[zoeng6]]
+
+$$
+R
+  ⾗ + 5
+U
+  U+8C61
+F
+  ==
+  - [[F1.93 象]] 獸名又似也
+  ==
+W
+  ====
+  - [[Page~566 象(6)]]
+    ==
+    - An elephant;
+    - a figure, a form, an image;
+    - the shape things take;
+    - superstitious auguries or fancy;
+    - imagination, resemblance;
+    - a law;
+    - to imitate;
+    - pantomime;
+    - _ts(e/)ung(6) (4)ng(a/)_
+        [[zoeng6 ngaa4 象牙]]^
+        ivory;
+    - _ts(e/)ung(6) pat(9)_
+        [[zoeng6 bat6 象拔]]
+        a proboscis;
+    - _ts(e/)ung(6) (4)p(')(i/)_
+        [[zoeng6 pei4 象皮]],
+        elephant's skin, a medicine;
+        a name for india rubber;
+    - _ts(e/)ung(6) k(o\)m(6) t(a/)i(6) chek(8) k(e/)uk(8)_
+        [[zoeng6 gam3 daai6 zek3 goek3 象咁大隻腳]]
+        my leg is as heavy as an elephant's --- I'm ashamed to go back;
+    - _t(a/)i(6) pan(6) ts(e/)ung(6)_
+        [[daai6 ban6 zoeng6 大笨象]]
+        stupid, dull.
+    ==
+  ====
+E
+  ====
+  - 【大笨象】 (daai6 ban6 zoeng6):
+    ++
+    1. An elephant.
+    ++
+  ====
 $$
 
 ###+ 長6 | _Ch(e/)ung(6)_ [[zoeng6]]

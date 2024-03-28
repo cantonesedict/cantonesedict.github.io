@@ -214,6 +214,23 @@ For all radicals, see [Index of characters by radical](./).
 ## ⾗ (pig)
 
 <## radical-⾗-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 5
+    ,
+      <nav class="sideways">
+      ==
+      - $象zoeng6
+      ==
+      </nav>
+''
+||||
 <## /radical-⾗-characters ##>
 
 
