@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $昌1
+- $猖1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -91,6 +92,29 @@ W
     - _(1)kwong (1)ch(')(e/)ung_
         [[gwong1 coeng1 光昌]],
         splendid, gay.
+    ==
+  ====
+$$
+
+### 猖1 | _(1)Ch(')(e/)ung_ [[coeng1]]
+
+$$
+R
+  ⽝ + 8
+U
+  U+7316
+F
+  ==
+  - [[F1.90 猖]] 猖狂縱橫也
+  ==
+W
+  ====
+  - [[Page~36|n79 (1)猖]]
+    ==
+    -  A herd of animals fleeing;
+    -  _(1)ch(')(e/)ung (4)kw(')ong_
+        [[coeng1 kwong4 猖狂]],
+        ungovernable, unrestrained.
     ==
   ====
 $$

@@ -1244,6 +1244,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $猜caai1
+      - $猖coeng1
       ==
       </nav>
   //
