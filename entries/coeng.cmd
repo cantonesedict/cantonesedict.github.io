@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [coeng1](#1)
 ==
 </nav>
 <## /tones ##>
@@ -40,4 +41,56 @@ MP
   ==
   - coeng = [tsʰœːŋ], [tɕʰœːŋ] ((preferred))
   ==
+$$
+
+
+##{#1 .williams} (1)Ch(')(e/)ung (1)Ts(')(e/)ung [[coeng1 陰平]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $昌1
+==
+</nav>
+<## /tone-1-characters ##>
+
+### 昌1 | _(1)Ch(')(e/)ung_ [[coeng1]]
+
+$$
+R
+  ⽇ + 4
+U
+  U+660C
+F
+  ==
+  - [[F1.90 昌]] 盛也顯也善也
+  ==
+W
+  ====
+  - [[Page~35|n78 (1)昌]]
+    ==
+    - Light of the sun;
+    - fine words;
+    - elegant, flourishing, prosperous;
+    - increasing in wealth or peace;
+    - powerful;
+    - effulgent;
+    - good;
+    - rich, affluent;
+    - to increase;
+    - to illuminate a thing;
+    - _(1)ch(')(e/)ung shing(6)_
+        [[coeng1 sing6 昌盛]]
+        prosperous, well-off;
+    - _kat(7) (1)ch(')(e/)ung_
+        [[gat1 coeng1 吉昌]],
+        happy, successful;
+    - _shun(6) (1)t(')(i/)n (2)ch(e/) (1)ch(')(e/)ung_
+        [[seon6 tin1 ze2 coeng1 順天者昌]],
+        he will prosper who obeys heaven;
+    - _(1)kwong (1)ch(')(e/)ung_
+        [[gwong1 coeng1 光昌]],
+        splendid, gay.
+    ==
+  ====
 $$
