@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2024-03-29
+* %date-modified --> 2024-03-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -49,11 +49,38 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $倡1
 - $昌1
 - $猖1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 倡1 | _(1)Ch(')(e/)ung_ [[coeng1]]
+
+$$
+R
+  ⼈ + 8
+U
+  U+5021
+F
+  ==
+  - [[F1.90 倡]] 倡導倡率先之也
+  ==
+W
+  ====
+  - [[Page~36|n79 (1)倡]]
+    ==
+    - [[See $倡coeng3 for "lead" senses]];
+    - used for the last [[$猖1]] and next [[$娼1]];
+    - [[...]].
+    ==
+  ====
+S
+  ==
+  - $倡coeng3 (TODO)
+  ==
+$$
 
 ### 昌1 | _(1)Ch(')(e/)ung_ [[coeng1]]
 
