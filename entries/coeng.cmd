@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $倡1
 - $娼1
+- $𢃑 (⿰巾昌)1
 - $昌1
 - $牕1
 - $猖1
@@ -132,6 +133,30 @@ W
         to be a whore.
     ==
   ====
+$$
+
+### [𢃑]1 [[⿰巾昌]] | _(1)Ch(')(e/)ung_ [[coeng1]]
+
+$$
+R
+  ⼱ + 8
+U
+  U+220D1
+F
+  ==
+  - [[F1.90 ⿰巾昌]] 披衣不帶曰⿰巾昌
+  ==
+W
+  ====
+  - [[Page~36|n79 (1)𢃑 (⿰巾昌)]]
+    --
+    [[Alternative form of 裮. **See $裮coeng1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Williams misprints 𢃑 (⿰巾昌) as 帽.
+  ==
 $$
 
 ### 昌1 | _(1)Ch(')(e/)ung_ [[coeng1]]
