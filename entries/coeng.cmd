@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $倡1
+- $娼1
 - $昌1
 - $猖1
 ==
@@ -80,6 +81,51 @@ S
   ==
   - $倡coeng3 (TODO)
   ==
+$$
+
+### 娼1 | _(1)Ch(')(e/)ung_ [[coeng1]]
+
+$$
+R
+  ⼥ + 8
+U
+  U+5A3C
+F
+  ==
+  - [[F1.90 娼]] 娼妓又娼優女樂
+  ==
+W
+  ====
+  - [[Page~36|n79 (1)娼]]
+    ==
+    - A singing woman;
+    - a courtesan;
+    - _(1)ch(')(e/)ung (4)m(u/)n_
+        [[coeng1 mun4 娼門]],
+        public women;
+    - _(1)wo (1)ch(')(e/)ung_
+        [[wo1 coeng1 窩娼]],
+        house of assignation;
+    - _(1)ch(')(e/)ung (5)f(u/)_
+        [[coeng1 fu5 娼婦]],
+        a strumpet;
+    - _(1)ch(')(e/)ung k(i/)(6)_
+        [[coeng1 gei6 娼妓]]
+        a whore;
+    - _(1)ch(')(e/)ung (4)li(u/)_
+        [[coeng1 liu4 娼寮]],
+        a brothel;
+    - _(1)ch(')(e/)ung (1)k(a/)_
+        [[coeng1 gaa1 娼家]],
+        a bagnio;
+    - _(1)yau (1)ch(')(e/)ung_
+        [[jau1 coeng1 優娼]],
+        public singers;
+    - _(1)tong (1)ch(')(e/)ung_
+        [[dong1 coeng1 當娼]],
+        to be a whore.
+    ==
+  ====
 $$
 
 ### 昌1 | _(1)Ch(')(e/)ung_ [[coeng1]]
