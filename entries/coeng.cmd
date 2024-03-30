@@ -53,6 +53,7 @@ $$
 - $娼1
 - $昌1
 - $猖1
+- $窗1
 - $菖1
 - $閶1
 ==
@@ -192,6 +193,64 @@ W
         ungovernable, unrestrained.
     ==
   ====
+$$
+
+### 窗1 | _(1)Ch(')(e/)ung_ [[coeng1]]
+
+$$
+R
+  ⽳ + 7
+U
+  U+7A97
+F
+  ====
+  - [[F1.90 窓]] 高曰窓低曰牗
+  - [[F1.90 牕]] 同上
+  ====
+W
+  ====
+  - [[Page~36|n79 (1)窓(1)窗(1)牕]]
+    ==
+    - A window, an aperture to admit light;
+    - a sash;
+    - a venetian blind, a shutter;
+    - a school;
+    - a student;
+    - _(1)ch(')(e/)ung (4)m(u/)n_
+        [[coeng1 mun4-2 窗門]],
+        a window;
+    - _(1)t(')(i/)n (1)ch(')(e/)ung_
+        [[tin1 coeng1 天窗]],
+        a sky-light;
+    - _(1)ch(')(e/)ung (4)m(u/)n (5)[ch(')(a/)m]_
+        [[coeng1 mun4 caam5 窗門棖]],
+        a window-sill;
+    - _(1)sh(u") (1)ch(')(e/)ung_ [[syu1 coeng1 書窗]],
+        or
+      _(1)kai (1)ch(')(e/)ung_ [[gai1 coeng1 雞窗]],
+        a schoolroom;
+    - _t(')ong(3) (1)ch(')(e/)ung_
+        [[tong3 coeng1 摥窗]],
+        to pull the sash to;
+    - _(4)hon (1)ch(')(e/)ung_
+        [[hon4 coeng1 寒窗]],
+        a poor student;
+    - _(1)ch(')(e/)ung (a/)t(8)_
+        [[coeng1 aat3 窗壓]]
+        a window-bar;
+    - _(4)t(')ung (1)ch(')(e/)ung_ [[tung4 coeng1 同窗]],
+        or
+      _(1)ch(')(e/)ung (5)yau_ [[coeng1 jau5 窗友]],
+        chums, fellow-students;
+    - _(1)ch(')(e/)ung h(a/)(6)_
+        [[coeng1 haa6 窗下]]
+        at school, while at his studies.
+    ==
+  ====
+C
+  ==
+  - Williams' 窗門棖: Changed uncommon reading _(5)ch(')(a/)n_ [[caan5]] to _(5)ch(')(a/)m_ [[caam5]].
+  ==
 $$
 
 ### 菖1 | _(1)Ch(')(e/)ung_ [[coeng1]]
