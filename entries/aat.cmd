@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aat
-* %date-modified --> 2024-02-25
+* %date-modified --> 2024-03-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -325,10 +325,6 @@ R
   ⽲ + 6
 U
   U+79F8
-V
-  ==
-  - gaat3 (expected from 古黠切)
-  ==
 F
   ==
   - [[F2.72 秸]] 禾稾去其皮曰秸
