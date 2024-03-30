@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2024-02-25
+* %date-modified --> 2024-03-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -928,7 +928,7 @@ U
   U+68D6
 V
   ==
-  - caan5
+  - caan5 (uncommon)
   ==
 F
   [[Not present]]
