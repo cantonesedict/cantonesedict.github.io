@@ -690,6 +690,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $窓coeng1
       - $窒zat6
       ==
       </nav>
