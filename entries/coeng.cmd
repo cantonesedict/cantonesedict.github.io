@@ -53,6 +53,7 @@ $$
 - $娼1
 - $昌1
 - $猖1
+- $菖1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -188,6 +189,29 @@ W
     -  _(1)ch(')(e/)ung (4)kw(')ong_
         [[coeng1 kwong4 猖狂]],
         ungovernable, unrestrained.
+    ==
+  ====
+$$
+
+### 菖1 | _(1)Ch(')(e/)ung_ [[coeng1]]
+
+$$
+R
+  ⾋ + 8
+U
+  U+83D6
+F
+  ==
+  - [[F1.90 菖]] 菖蒲草名
+  ==
+W
+  ====
+  - [[Page~36|n79 (1)菖]]
+    ==
+    - The flag _(Acorus)_;
+    - _(1)ch(')(e/)ung (4)p(')(o\)_
+        [[coeng1 pou4 菖蒲]],
+        sweet flag, hung on door lintels to drive away maleficent influences.
     ==
   ====
 $$
