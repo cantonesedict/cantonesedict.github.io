@@ -55,6 +55,7 @@ $$
 - $猖1
 - $窓1
 - $窗1
+- $窻1
 - $菖1
 - $閶1
 ==
@@ -227,6 +228,7 @@ U
 A
   ==
   - $窓1
+  -{.modern} $窻1
   ==
 F
   ====
@@ -276,6 +278,23 @@ W
 C
   ==
   - Williams' 窗門棖: Changed uncommon reading _(5)ch(')(a/)n_ [[caan5]] to _(5)ch(')(a/)m_ [[caam5]].
+  ==
+$$
+
+###+ 窻1 | _(1)Ch(')(e/)ung_ [[coeng1]]
+
+$$
+R
+  ⽳ + 11
+U
+  U+7ABB
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Alternative form of 窗. **See $窗coeng1 for the canonical entry.**
   ==
 $$
 
