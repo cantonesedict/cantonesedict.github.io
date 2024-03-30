@@ -54,6 +54,7 @@ $$
 - $昌1
 - $猖1
 - $菖1
+- $閶1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -212,6 +213,30 @@ W
     - _(1)ch(')(e/)ung (4)p(')(o\)_
         [[coeng1 pou4 菖蒲]],
         sweet flag, hung on door lintels to drive away maleficent influences.
+    ==
+  ====
+$$
+
+### 閶1 | _(1)Ch(')(e/)ung_ [[coeng1]]
+
+$$
+R
+  ⾨ + 8
+U
+  U+95B6
+F
+  ==
+  - [[F1.90 閶]] 閶闔天門也
+  ==
+W
+  ====
+  - [[Page~36|n79 (1)閶]]
+    ==
+    - The door of heaven;
+    - a gate of S(u/)chau [[蘇州]];
+    - _(1)ch(')(e/)ung h(o\)p(9)_
+        [[coeng1 hap6 閶闔]]
+        door of paradise, kept by Kw(a/)nt(i/) [[關帝]] or Mars.
     ==
   ====
 $$
