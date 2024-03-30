@@ -59,6 +59,7 @@ $$
 - $窗1
 - $窻1
 - $菖1
+- $裮1
 - $閶1
 ==
 </nav>
@@ -148,7 +149,7 @@ F
   ==
 W
   ====
-  - [[Page~36|n79 (1)𢃑 (⿰巾昌)]]
+  - [[Page~36|n79 ::(1)[𢃑]:: (⿰巾昌)]]
     --
     [[Alternative form of 裮. **See $裮coeng1 for the canonical entry.**]]
     --
@@ -367,6 +368,34 @@ W
         sweet flag, hung on door lintels to drive away maleficent influences.
     ==
   ====
+$$
+
+###+ 裮1 | _(1)Ch(')(e/)ung_ [[coeng1]]
+
+$$
+R
+  ⾐ + 8
+U
+  U+88EE
+A
+  ==
+  - $𢃑 [[⿰巾昌]]1
+  ==
+F
+  ==
+  - [[F1.90 ⿰巾昌]] 披衣不帶曰⿰巾昌
+  ==
+W
+  ====
+  - [[Page~36|n79 ::(1)[𢃑]:: (⿰巾昌); here normalised to 裮]]
+    ==
+    - Loose flowing garments thrown on one without a cincture.
+    ==
+  ====
+C
+  ==
+  - Williams misprints 𢃑 (⿰巾昌) as 帽.
+  ==
 $$
 
 ### 閶1 | _(1)Ch(')(e/)ung_ [[coeng1]]
