@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2024-02-25
+* %date-modified --> 2024-03-31
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -104,7 +104,7 @@ E
     1. Char shiu, a type of barbecued pork.
       ==
       - 叉燒包 (caa1 siu1 baau1): "Barbecued-pork bun."
-      - 叉燒腸 (caa1 siu1 coeng4-2): "Barbecued-pork [rice-noodle] roll."
+      - 叉燒腸 (caa1 siu1 coeng4-2): "Barbecued-pork [rice-noodle] rolls."
       ==
     ++
   ====

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2024-02-25
+* %date-modified --> 2024-03-31
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -214,7 +214,7 @@ E
     1. Plain, pure, etc.
        ==
        - 齋啡 (zaai1 fe1): "Straight coffee."
-       - 齋腸 (zaai1 coeng4-2): "Plain [rice-noodle] roll."
+       - 齋腸 (zaai1 coeng4-2): "Plain [rice-noodle] rolls."
        - 齋噏 (zaai1 ngap1): "Purely blabbering."
        ==
     ++
