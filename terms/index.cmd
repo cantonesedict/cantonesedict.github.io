@@ -294,7 +294,7 @@ window.onload = applyFilter;
     , [長氣](/entries/coeng#cantonese-長氣)
   //
     , coeng4 meng6 ce3
-    , [長命斜](/entries/coeng#cantonese-長命斜)
+    , [長命斜](/entries/ce#cantonese-長命斜)
   //
     , daa2 laang5 zan3
     , [打冷震](/entries/zan#cantonese-打冷震)

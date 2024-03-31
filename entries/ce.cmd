@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2024-03-04
+* %date-modified --> 2024-03-31
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -438,6 +438,10 @@ E
        - 行斜路 (haang4 ce3 lou6-2): "Walking [up/down a] ramp" (as opposed to stairs).
        - 寫字上斜路 (se2 zi6 soeng5 ce3 lou6-2): "[Your] writing [is] going up [an] incline" (i.e. not level).
        ==
+    ++
+  - 【長命斜】 (coeng4 meng6 ce3):
+    ++
+    1. A long and steep incline or slope.
     ++
   ====
   --

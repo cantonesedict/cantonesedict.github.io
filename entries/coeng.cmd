@@ -514,10 +514,6 @@ E
        - 咪咁長氣啦 (mai5 gam3 coeng4 hei3 la1): "Don't [be] so long-winded!"
        ==
     ++
-  - 【長命斜】 (coeng4 meng6 ce3):
-    ++
-    1. A long and steep incline or slope.
-    ++
   ====
 S
   ==
