@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2024-03-30
+* %date-modified --> 2024-03-31
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [coeng1](#1)
+- [coeng4](#4)
 ==
 </nav>
 <## /tones ##>
@@ -420,4 +421,107 @@ W
         door of paradise, kept by Kw(a/)nt(i/) [[關帝]] or Mars.
     ==
   ====
+$$
+
+
+##{#4 .williams} (4)Ch(')(e/)ung (4)Ts(')(e/)ung [[coeng4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways">
+=={.modern}
+- $長4
+==
+</nav>
+<## /tone-4-characters ##>
+
+### 長4 | _(4)Ch(')(e/)ung_ [[coeng4]]
+
+$$
+R
+  ⾧ + 0
+U
+  U+9577
+F
+  ==
+  - [[F1.91 長]] 長久永遠也
+  ==
+W
+  ====
+  - [[Page~36|n79 (4)長]]
+    ==
+    - Long in time or distance, far off;
+    - constantly, regularly;
+    - always, continual;
+    - superiors;
+    - skilled, used to, practiced;
+    - direct, straight;
+    - the 168th radical;
+    - _(4)ch(')(e/)ung (5)(u")n_
+        [[coeng4 jyun5 長遠]],
+        durable;
+    - _kok(8) (5)yau (2)sho (4)ch(')(e/)ung_
+        [[gok3 jau5 so2 coeng4 各有所長]],
+        in what each excels;
+    - _(4)ch(')(e/)ung kwo(3) (4)t(')au_
+        [[coeng4 gwo3 tau4 長過頭]],
+        too long;
+    - _(4)ch(')(e/)ung (1)shang_
+        [[coeng4 sang1 長生]]^
+        long life;
+        a coffin;
+    - _(4)ch(')(e/)ung (4)sh(i/) yung(6)_
+        [[coeng4 si4 jung6 長時用]]
+        in constant use;
+    - _(4)ch(')(e/)ung (2)kau_
+        [[coeng4 gau2 長久]],
+        old, a long time;
+    - _(4)ch(')(e/)ung h(i/)(3)_
+        [[coeng4 hei3 長氣]]
+        longwinded, as a talker;
+    - _(4)ch(')(e/)ung (4)hung_
+        [[coeng4 hung4 長紅]],
+        a hand-bill;
+    - _yat(7) (4)m(o\) (2)sho (4)ch(')(e/)ung_
+        [[jat1 mou4 so2 coeng4 一無所長]],
+        changeful, not persevering;
+    - _(4)ch(')(e/)ung (2)kau (2)fo k(i/)(3)_
+        [[coeng4 gau2 fo2 gei3 長久伙記]]
+        an old comrade;
+    - _(4)ch(')(e/)ung (1)shang pat(7) (5)l(o\)_
+        [[coeng4 sang1 bat1 lou5 長生不老]],
+        a green old age;
+    - _(4)ch(')(e/)ung (5)(u")n shai(3) k(a/)i(3)_
+        [[coeng4 jyun5 sai3 gaai3 長遠世界]]
+        long continued, as a family;
+    - _(4)ch(')(e/)ung (2)t(u")n_
+        [[coeng4 dyun2 長短]],
+        the length of, the traits of character;
+    - _(4)ch(')(e/)ung (1)k(')(u")_
+        [[coeng4 keoi1 長驅]],
+        go directly there.
+    ==
+  ====
+C
+  ==
+  - Williams' 長生不老: More immortal than simply vigorous in age.
+  ==
+E
+  ====
+  - 【長氣】 (coeng4 hei3):
+    ++
+    1. Long-winded.
+       ==
+       - 咪咁長氣啦 (mai5 gam3 coeng4 hei3 la1): "Don't [be] so long-winded!"
+       ==
+    ++
+  - 【長命斜】 (coeng4 meng6 ce3):
+    ++
+    1. A long and steep incline or slope.
+    ++
+  ====
+S
+  ==
+  - $長zoeng2
+  - $長zoeng6
+  ==
 $$
