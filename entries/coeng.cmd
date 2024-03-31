@@ -429,10 +429,33 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $萇4
 - $長4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 萇4 | _(4)Ch(')(e/)ung_ [[coeng4]]
+
+$$
+R
+  ⾋ + 8
+U
+  U+8407
+F
+  ==
+  - [[F1.91 萇]] 萇楚今羊桃也
+  ==
+W
+  ====
+  - [[Page~36|n79 (4)萇]]
+    ==
+    - A sort of fruit, the carambola _(Averrhoa)_,
+      also called the _(4)y(e/)ung (4)t(')(o\)_ [[joeng4 tou4 羊桃]],
+      or sheep's peach.
+    ==
+  ====
+$$
 
 ### 長4 | _(4)Ch(')(e/)ung_ [[coeng4]]
 
