@@ -290,6 +290,12 @@ window.onload = applyFilter;
     , coek3
     , [灼](/entries/coek#cantonese-灼)
   //
+    , coeng4-2
+    , [腸](/entries/coeng#cantonese-腸)
+  //
+    , coeng4-2 fan2
+    , [腸粉](/entries/coeng#cantonese-腸粉)
+  //
     , coeng4 hei3
     , [長氣](/entries/coeng#cantonese-長氣)
   //
@@ -625,6 +631,9 @@ window.onload = applyFilter;
   //
     , zoek6
     , [着~\(on\)](/entries/zoek#cantonese-着-on)
+  //
+    , zyu1 coeng4 fan2
+    , [豬腸粉](/entries/coeng#cantonese-豬腸粉)
 ''
 ||||
 <## /terms-table ##>

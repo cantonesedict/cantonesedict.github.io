@@ -429,11 +429,93 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $腸4
 - $萇4
 - $長4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 腸4 | _(4)Ch(')(e/)ung_ [[coeng4]]
+
+$$
+R
+  ⾁ + 9
+U
+  U+8178
+V
+  ==
+  - coeng4-2 (vernacular rising-tone noun)
+  ==
+F
+  ==
+  - [[F1.91 腸]] 腸臟
+  ==
+W
+  ====
+  - [[Page~36|n79 (4)腸]]
+    ==
+    - The bowels;
+    - the intestines;
+    - tripe;
+    - _met._ the feelings, the affections;
+    - _(4)w(a/)ng (1)(a/) (4)ch(')(e/)ung_
+        [[waang4 aa1 coeng4-2 橫丫腸]],
+        cunning;
+    - _(2)h(o\) (4)ch(')(e/)ung (5)t(')(o\)_
+        [[hou2 coeng4 tou5 好腸肚]],
+        clever, learned;
+    - _si(u/)(3) (1)l(u")n (4)ch(')(e/)ung_
+        [[siu3 lyun1 coeng4-2 笑攣腸]],
+        laughed till his side ached;
+    - _chik(9) (4)ch(')(e/)ung_
+        [[zik6 coeng4 直腸]],
+        honest, trustworthy;
+    - _(4)ngau (4)ch(')(e/)ung_
+        [[ngau4 coeng4-2 牛腸]],
+        tripe;
+    - _t(a/)i(6) (4)ch(')(e/)ung_
+        [[daai6 coeng4-2 大腸]],
+        the colon;
+    - _(2)si(u/) (4)ch(')(e/)ung_
+        [[siu2 coeng4-2 小腸]],
+        lesser intestines;
+    - _(4)ch(')(e/)ung tsong(6)_
+        [[coeng4 zong6 腸臟]]
+        the intestines, the inwards;
+    - _(1)sam (4)ch(')(e/)ung_
+        [[sam1 coeng4 心腸]],
+        the disposition, feelings;
+    - _(4)m(o\) (4)ch(')(e/)ung (1)kung (2)tsz'_
+        [[mou4 coeng4 gung1 zi2 無腸公子]]
+        a crab.
+    ==
+  ====
+E
+  ====
+  - 【腸】 (coeng4-2):
+    ++
+    1. Short for [腸粉](#cantonese-腸粉) (cheung fan).
+       ==
+       - 蝦腸 (haa1 coeng4-2): "Prawn [rice-noodle] rolls."
+       - 齋腸 (zaai1 coeng4-2): "Plain [rice-noodle] rolls."
+       ==
+    ++
+  - 【腸粉】 (coeng4-2 fan2):
+    ++
+    1. Rice-noodle rolls.
+    ++
+  - 【豬腸粉】 (zyu1 coeng4 fan2):
+    ++
+    1. Rice-noodle rolls, especially the tighter-rolled street food variant
+       (smaller radius with no filling).
+    ++
+  ====
+S
+  ==
+  - Williams' 牛腸: Only tripe in the sense of entrails (specifically intestine).
+  ==
+$$
 
 ### 萇4 | _(4)Ch(')(e/)ung_ [[coeng4]]
 
