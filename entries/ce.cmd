@@ -462,7 +462,7 @@ E
   But whilst the reading _ts(')(e/)(3)_ [[ce3]] is a match,
   the explanation 斜逆也 seems more a metaphorical "heretical"
   than a physical "inclined" or "sloped",
-  so I am yet to be fully convinced.
+  so I am yet to be fully convinced of 笡.
   --
 S
   ==
