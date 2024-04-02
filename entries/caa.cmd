@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2024-03-31
+* %date-modified --> 2024-04-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -693,7 +693,7 @@ W
   [[Not present]]
 C
   ==
-  - Here normalised to 搽; **see $搽caa5 for the canonical entry**.
+  - Alternative form of 搽. **See $搽caa5 for the canonical entry.**
   ==
 S
   ==

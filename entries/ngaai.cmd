@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ngaai
-* %date-modified --> 2024-02-25
+* %date-modified --> 2024-04-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -69,7 +69,7 @@ W
   [[Not present]]
 C
   ==
-  - Here normalised to 捱; **see $捱ngaai4 for the canonical entry**. (TODO)
+  - Alternative form of 捱. **See $捱ngaai4 for the canonical entry.** (TODO)
   ==
 S
   ==

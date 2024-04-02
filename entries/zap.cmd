@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zap
-* %date-modified --> 2024-02-25
+* %date-modified --> 2024-04-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -65,7 +65,7 @@ W
   ====
   - [[Page~557 𠽃(7) (⿰口執)]]
     --
-    [[Here normalised to 蓻; **see $蓻zap1 for the canonical entry**.]]
+    [[Alternative form of 蓻. **See $蓻zap1 for the canonical entry.**]]
     --
   ====
 $$

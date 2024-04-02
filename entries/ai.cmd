@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ai
-* %date-modified --> 2024-02-25
+* %date-modified --> 2024-04-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -129,7 +129,7 @@ W
   ====
   - [[Page~2 (1)𫫃 (⿰口挨)]]
     --
-    [[Here normalised to 哎; **see $哎ai1 for the canonical entry**.]]
+    [[Alternative form of 哎. **See $哎ai1 for the canonical entry.**]]
     --
   ====
 $$

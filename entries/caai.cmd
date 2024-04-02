@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2024-02-25
+* %date-modified --> 2024-04-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -230,7 +230,7 @@ W
   [[Not present]]
 C
   ==
-  - Here normalised to 踹; **see $踹caai2 for the canonical entry**.
+  - Alternative form of 踹. **See $踹caai2 for the canonical entry.**
   - The character 踩 is not attested in the Middle Chinese rime books.
     Perhaps the pre-merger reading should be
     _(2)ts(')(a/)i_ instead of _(2)ch(')(a/)i_

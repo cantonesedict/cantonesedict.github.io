@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2024-02-25
+* %date-modified --> 2024-04-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -243,7 +243,7 @@ W
   [[Not present]]
 C
   ==
-  - Here normalised to 吖; **see $吖aa1 for the canonical entry**.
+  - Alternative form of 吖. **See $吖aa1 for the canonical entry.**
   ==
 S
   ==
@@ -380,7 +380,7 @@ W
   ====
   - [[Page~1|n44 (2)瘂]]
     --
-    [[Here normalised to 啞; **see $啞aa2 for the canonical entry**.]]
+    [[Alternative form of 啞. **See $啞aa2 for the canonical entry.**]]
     --
   ====
 $$
