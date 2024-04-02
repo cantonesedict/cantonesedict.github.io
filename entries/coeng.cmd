@@ -429,6 +429,7 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $場4
 - $塲4
 - $腸4
 - $萇4
@@ -436,6 +437,90 @@ $$
 ==
 </nav>
 <## /tone-4-characters ##>
+
+###+ 場4 | _(4)Ch(')(e/)ung_ [[coeng4]]
+
+$$
+R
+  ⼟ + 9
+U
+  U+5834
+A
+  ==
+  - $塲4
+  ==
+F
+  ==
+  - [[F1.91 塲]] 祭神之所築塲爲壇除地爲塲又疆場
+  ==
+W
+  ====
+  - [[Page~37|n80 (4)塲; here normalised to 場]]
+    ==
+    - An arena, an area, a lot, a field;
+    - an altar, a sacrificial ground;
+    - a playhouse;
+    - the society of, a company;
+    - a classifier of affairs;
+    - a fit, a spell;
+    - _(2)t(a/) t(a/)i(6) (4)ch(')(e/)ung (5)k(')(u")_
+        [[daa2 daai6 coeng4 keoi5 打大場佢]],
+        give him a sound drubbing;
+    - _ch(i/)n(3) (4)ch(')(e/)ung_
+        [[zin3 coeng4 戰場]]^
+        field of battle;
+    - _uk(7) (4)ch(')(e/)ung_
+        [[uk1 coeng4 屋場]],
+        a building lot;
+    - _(1)k(u/)n (4)ch(')(e/)ung_
+        [[gun1 coeng4 官場]],
+        the fashion of officials;
+    - _k(a/)u(3) (4)ch(')(e/)ung_
+        [[gaau3 coeng4 校場]],
+        a paradeground;
+    - _f(a/)t(8) (4)ch(')(e/)ung_
+        [[faat3 coeng4 法場]],
+        execution-ground;
+    - _(4)t(')(a/)n (4)ch(')(e/)ung_
+        [[taan4 coeng4 壇場]],
+        an altar;
+    - _t(')i(u/)(3) ch(')ut(7) sh(i/)[(6)] (1)f(i/) (4)ch(')(e/)ung_
+        [[tiu3 ceot1 si6 fei1 coeng4 跳出是非場]],
+        I'll have nothing more to do with it;
+    - _(1)hoi (1)t(')(a/)n (4)ch(')(e/)ung_
+        [[hoi1 taan1 coeng4 開攤場]],
+        to open a gambling-house;
+    - _yap(9) (1)fo (4)ch(')(e/)ung_
+        [[jap6 fo1 coeng4 入科場]],
+        to enter the lists for a degree of _k(u")jin_ [[舉人]];
+    - _(1)k(u/)n (5)h(a/) (4)ch(')(e/)ung_
+        [[gun1 haa5 coeng4 觀吓場]],
+        made a trial;
+        in the examination;
+    - _(4)man (4)ch(')(e/)ung_
+        [[man4 coeng4 文場]],
+        resorts of students;
+        trials for degrees;
+    - _(4)t(')au (4)ch(')(e/)ung_
+        [[tau4 coeng4 頭場]],
+        the first trial;
+    - _lok(9) (4)ch(')(e/)ung_
+        [[lok6 coeng4 落場]],
+        to go to the gambling-table;
+        <## TODO: 落場 lok6 coeng4 (to go to the casino; unpaid downtime between shifts) ##>
+    - _yat(7) (4)ch(')(e/)ung (2)h(o\) (1)sam_
+        [[jat1 coeng4 hou2 sam1 一場好心]],
+        a good action;
+    - _t(a/)i(6) mung(6) yat(7) (4)ch(')(e/)ung_
+        [[daai6 mung6 jat1 coeng4 大夢一場]],
+        a great dream, life.
+    ==
+  ====
+C
+  ==
+  - Williams' 跳出是非場: Corrected _(4)sh(i/)_ [[si4]] to _sh(i/)(6)_ [[si6]].
+  ==
+$$
 
 ### 塲4 | _(4)Ch(')(e/)ung_ [[coeng4]]
 
