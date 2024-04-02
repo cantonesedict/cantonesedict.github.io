@@ -454,7 +454,7 @@ W
   ====
   - [[Page~37|n80 (4)償]]
     --
-    Correctly read _(4)sh(e/)ung_ [[soeng4]] [[**see $償soeng4**]]. [[TODO]]
+    Correctly read _(4)sh(e/)ung_ [[soeng4]]. [[**See $償soeng4 for the canonical entry.**]] [[TODO]]
     --
   ====
 C
