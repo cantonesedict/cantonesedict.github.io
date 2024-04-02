@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2024-03-31
+* %date-modified --> 2024-04-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -429,12 +429,33 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $塲4
 - $腸4
 - $萇4
 - $長4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 塲4 | _(4)Ch(')(e/)ung_ [[coeng4]]
+
+$$
+R
+  ⼟ + 11
+U
+  U+5872
+F
+  ==
+  - [[F1.91 塲]] 祭神之所築塲爲壇除地爲塲又疆場
+  ==
+W
+  ====
+  - [[Page~37|n80 (4)塲]]
+    --
+    [[Alternative form of 場. **See $場coeng4 for the canonical entry.**]]
+    --
+  ====
+$$
 
 ### 腸4 | _(4)Ch(')(e/)ung_ [[coeng4]]
 
