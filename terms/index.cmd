@@ -386,9 +386,6 @@ window.onload = applyFilter;
     , maa4 zoek3-2
     , [麻雀](/entries/zoek#cantonese-麻雀)
   //
-    , mou5 zoeng1 lei6
-    , [周身刀冇張利](/entries/zau#cantonese-周身刀冇張利)
-  //
     , mun4 caam5
     , [門棖](/entries/caam#cantonese-門棖)
   //
@@ -575,7 +572,7 @@ window.onload = applyFilter;
     , zau1
     , [揪](/entries/zau#cantonese-揪)
   //
-    , zau1 san1 dou1
+    , zau1 san1 dou1 mou5 zoeng1 lei6
     , [周身刀冇張利](/entries/zau#cantonese-周身刀冇張利)
   //
     , zau1 si4
