@@ -522,6 +522,18 @@ C
   ==
   - Fan Wan entry: Corrected 逹 to 達.
   ==
+E
+  ====
+  - 【暢】 (coeng3):
+    ++
+    1. To exchange cash so as to break it up.
+       ==
+       - 唱錢 (coeng3 cin4-2): "Break up cash."
+       - 唱散紙 (coeng3 saan2 zi2): "Exchange [for] smaller denominations."
+       - 唱散張廿蚊 (coeng3 saan2 zoeng1 jaa6 man1): "Break up [the] twenty-buck [note]."
+       ==
+    ++
+  ====
 $$
 
 ### 韔3 | _Ch(')(e/)ung(3)_ [[coeng3]]
