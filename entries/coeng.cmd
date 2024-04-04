@@ -190,7 +190,7 @@ W
   ====
 S
   ==
-  - 搶coeng2 (TODO)
+  - $搶coeng2 (TODO)
   ==
 $$
 
