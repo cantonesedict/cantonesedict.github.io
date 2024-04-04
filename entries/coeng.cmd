@@ -433,6 +433,7 @@ $$
 - $唱3
 - $暢3
 - $韔3
+- $鬯3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -540,6 +541,33 @@ W
     ==
     - A bow case;
     - to put a bow into its case.
+    ==
+  ====
+$$
+
+### 鬯3 | _Ch(')(e/)ung(3)_ [[coeng3]]
+
+$$
+R
+  ⾿ + 0
+U
+  U+9B2F
+F
+  ==
+  - [[F1.93 鬯]] 用秬黍爲酒以香草和之爲鬯
+  ==
+W
+  ====
+  - [[Page~37|n80 鬯(3)]]
+    ==
+    - Sacrificial spirits, made by infusing millet and fragrant herbs;
+    - mixed wine;
+    - _k(u")(6) ch(')(e/)ung(3)_
+        [[geoi6 coeng3 秬鬯]]
+        odoriferous spirits;
+    - _(2)ch(u") ch(')(e/)ung(3)_
+        [[zyu2 coeng3 主鬯]]
+        a man who prepares the libations.
     ==
   ====
 $$
