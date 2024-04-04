@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2024-04-02
+* %date-modified --> 2024-04-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [coeng1](#1)
+- [coeng3](#3)
 - [coeng4](#4)
 ==
 </nav>
@@ -419,6 +420,38 @@ W
     - _(1)ch(')(e/)ung h(o\)p(9)_
         [[coeng1 hap6 閶闔]]
         door of paradise, kept by Kw(a/)nt(i/) [[關帝]] or Mars.
+    ==
+  ====
+$$
+
+
+##{#3 .williams} Ch(')(e/)ung(3) [[coeng3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $韔3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 韔3 | _Ch(')(e/)ung(3)_ [[coeng3]]
+
+$$
+R
+  ⾱ + 8
+U
+  U+97D4
+F
+  ==
+  - [[F1.93 韔]] 弓囊也
+  ==
+W
+  ====
+  - [[Page~37|n80 韔(3)]]
+    ==
+    - A bow case;
+    - to put a bow into its case.
     ==
   ====
 $$
