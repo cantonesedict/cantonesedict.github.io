@@ -63,6 +63,7 @@ $$
 - $窻1
 - $菖1
 - $裮1
+- $蹌1
 - $閶1
 ==
 </nav>
@@ -429,6 +430,28 @@ C
   ==
   - Williams misprints 𢃑 (⿰巾昌) as 帽.
   ==
+$$
+
+### 蹌1 | _(1)Ts(')(e/)ung_ [[coeng1]]
+
+$$
+R
+  ⾜ + 10
+U
+  U+8E4C
+F
+  ==
+  - [[F1.89 蹌]] 動也
+  ==
+W
+  ====
+  - [[Page~567 (1)蹌]]
+    ==
+    - To walk rapidly;
+    - to move towards a superior quickly;
+    - to gambol, to skip about.
+    ==
+  ====
 $$
 
 ### 閶1 | _(1)Ch(')(e/)ung_ [[coeng1]]
