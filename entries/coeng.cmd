@@ -54,6 +54,7 @@ $$
 - $倡1
 - $娼1
 - $𢃑 (⿰巾昌)1
+- $搶1
 - $昌1
 - $牕1
 - $猖1
@@ -159,6 +160,36 @@ W
 C
   ==
   - Williams misprints 𢃑 (⿰巾昌) as 帽.
+  ==
+$$
+
+### 搶1 | _(1)Ts(')(e/)ung_ [[coeng1]]
+
+$$
+R
+  ⼿ + 10
+U
+  U+6436
+F
+  ==
+  - [[F1.89 搶]] 拒也
+  ==
+W
+  ====
+  - [[Page~567 (1)搶]]
+    ==
+    - To defend, to withstand;
+    - to thrust at;
+    - to rush against;
+    - a comet;
+    - _(5)(i/) (4)t(')au (1)ts(')(e/)ung t(i/)(6)_
+        [[ji5 tau4 coeng1 dei6 以頭搶地]]
+        to knock the head against the ground.
+    ==
+  ====
+S
+  ==
+  - 搶coeng2 (TODO)
   ==
 $$
 
