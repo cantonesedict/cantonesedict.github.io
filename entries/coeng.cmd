@@ -430,10 +430,55 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $唱3
 - $韔3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 唱3 | _Ch(')(e/)ung(3)_ [[coeng3]]
+
+$$
+R
+  ⼝ + 8
+U
+  U+5531
+F
+  ==
+  - [[F1.93 唱]] 歌唱
+  ==
+W
+  ====
+  - [[Page~37|n80 唱(3)]]
+    ==
+    - To sing in recitative;
+    - to cry out, to give the word;
+    - to lead, to conduct, as singing;
+    - to crow;
+    - _(1)ts(')ing ch(')(e/)ung(3)_
+        [[cing1 coeng3 清唱]]
+        singing with a lute;
+    - _ch(')(e/)ung(3) (4)h(a/)m_
+        [[coeng3 haam4 唱銜]],
+        to call out the titles, as at a levee;
+    - _ch(')(e/)ung(3) (1)ko_
+        [[coeng3 go1 唱歌]],
+        to sing songs;
+    - _ch(')(e/)ung(3) (4)n(a/)m (4)ts(')z'_
+        [[coeng3 naam4 ci4 唱南詞]]
+        to sing southern ditties,
+    - _ch(')(e/)ung(3) (2)pong (2)tsz' (1)hong_
+        [[coeng3 bong1 zi2 hong1 唱梆子腔]],
+        theatrical singing;
+    - _ch(')(e/)ung(3) h(i/)(3)_
+        [[coeng3 hei3 唱戲]]
+        to recite plays;
+    - _ch(')(e/)ung(3) muk(9) (4)(u")_
+        [[coeng3 muk6 jyu4-2 唱木魚]],
+        to sing in the Canton dialect.
+    ==
+  ====
+$$
 
 ### 韔3 | _Ch(')(e/)ung(3)_ [[coeng3]]
 
