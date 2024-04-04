@@ -65,6 +65,7 @@ $$
 - $裮1
 - $蹌1
 - $蹡1
+- $鏘1
 - $閶1
 ==
 </nav>
@@ -478,6 +479,31 @@ S
   ==
   - $蹡coeng3 (TODO)
   ==
+$$
+
+### 鏘1 | _(1)Ts(')(e/)ung_ [[coeng1]]
+
+$$
+R
+  ⾦ + 11
+U
+  U+93D8
+F
+  ==
+  - [[F1.89 鏘]] 鏗鏘鐘鼓之聲
+  ==
+W
+  ====
+  - [[Page~567 (1)鏘]]
+    ==
+    - The sound of stones, bells and drums;
+    - a noise;
+    - a tinkling;
+    - _(1)hang (1)ts(')(e/)ung_
+        [[hang1 coeng1 鏗鏘]],
+        the ring of metallic things.
+    ==
+  ====
 $$
 
 ### 閶1 | _(1)Ch(')(e/)ung_ [[coeng1]]
