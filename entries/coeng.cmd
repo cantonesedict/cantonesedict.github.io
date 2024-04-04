@@ -64,6 +64,7 @@ $$
 - $菖1
 - $裮1
 - $蹌1
+- $蹡1
 - $閶1
 ==
 </nav>
@@ -452,6 +453,31 @@ W
     - to gambol, to skip about.
     ==
   ====
+$$
+
+### 蹡1 | _(1)Ts(')(e/)ung_ [[coeng1]]
+
+$$
+R
+  ⾜ + 11
+U
+  U+8E61
+F
+  ==
+  - [[F1.89 蹡]] 行貌
+  ==
+W
+  ====
+  - [[Page~567 (1)蹡]]
+    ==
+    - Similar to the preceding [[$蹌1]];
+    - [[see $蹡coeng3 for "walk irregularly" senses]].
+    ==
+  ====
+S
+  ==
+  - $蹡coeng3 (TODO)
+  ==
 $$
 
 ### 閶1 | _(1)Ch(')(e/)ung_ [[coeng1]]
