@@ -431,6 +431,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $唱3
+- $暢3
 - $韔3
 ==
 </nav>
@@ -478,6 +479,48 @@ W
         to sing in the Canton dialect.
     ==
   ====
+$$
+
+### 暢3 | _Ch(')(e/)ung(3)_ [[coeng3]]
+
+$$
+R
+  ⽇ + 10
+U
+  U+66A2
+F
+  ==
+  - [[F1.93 暢]] ::遂也通也[達]也::
+  ==
+W
+  ====
+  - [[Page~37|n80 暢(3)]]
+    ==
+    - The inner qualities developing;
+    - penetrating, thorough, spreading;
+    - to fill;
+    - joyous, contented, in good spirits;
+    - remote, long;
+    - exhilirating;
+    - joy;
+    - _ch(')(e/)ung(3) (u")t(9)_
+        [[coeng3 jyut6 暢月]]
+        the eleventh month;
+    - _f(a/)i(3) ch(')(e/)ung(3)_
+        [[faai3 coeng3 快暢]]
+        happy;
+    - _ch(')(e/)ung(3) t(a/)t(9)_
+        [[coeng3 daat6 暢達]]
+        to permeate;
+    - _ch(')(e/)ung(3) mau(6)_
+        [[coeng3 mau6 暢茂]]
+        flourishing.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 逹 to 達.
+  ==
 $$
 
 ### 韔3 | _Ch(')(e/)ung(3)_ [[coeng3]]
