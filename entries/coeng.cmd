@@ -56,6 +56,7 @@ $$
 - $𢃑 (⿰巾昌)1
 - $搶1
 - $昌1
+- $槍1
 - $牕1
 - $猖1
 - $窓1
@@ -234,6 +235,43 @@ W
     - _(1)kwong (1)ch(')(e/)ung_
         [[gwong1 coeng1 光昌]],
         splendid, gay.
+    ==
+  ====
+$$
+
+### 槍1 | _(1)Ts(')(e/)ung_ [[coeng1]]
+
+$$
+R
+  ⽊ + 10
+U
+  U+69CD
+A
+  ==
+  - $鎗1
+  ==
+F
+  ==
+  - [[F1.89 鎗]] 刀鎗
+  ==
+W
+  ====
+  - [[Page~567 (1)槍]]
+    ==
+    - Interchanged with the last [[$鎗1]];
+    - a spear, sharp at both ends;
+    - a lance, a boarding-pike;
+    - to bow the head low;
+    - _(1)ts(')(e/)ung f(a/)t(8)_
+        [[coeng1 faat3 槍法]]
+        the hand manual;
+    - _(1)ts(')(e/)ung (4)t(')au_
+        [[coeng1 tau4 槍頭]],
+        a spear head;
+    - _h(a/)(6) (5)m(a/) (1)ts(')(e/)ung_
+        [[haa6 maa5 coeng1 下馬槍]],
+        to give a back thrust when unhorsed,
+        to leave in the lurch, to outwit.
     ==
   ====
 $$
@@ -489,6 +527,10 @@ R
   ⾦ + 10
 U
   U+9397
+A
+  ==
+  - $槍1
+  ==
 F
   ==
   - [[F1.89 鎗]] 刀鎗
