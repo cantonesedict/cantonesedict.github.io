@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2024-04-04
+* %date-modified --> 2024-04-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -65,6 +65,7 @@ $$
 - $裮1
 - $蹌1
 - $蹡1
+- $鎗1
 - $鏘1
 - $閶1
 ==
@@ -478,6 +479,45 @@ W
 S
   ==
   - $蹡coeng3 (TODO)
+  ==
+$$
+
+### 鎗1 | _(1)Ts(')(e/)ung_ [[coeng1]]
+
+$$
+R
+  ⾦ + 10
+U
+  U+9397
+F
+  ==
+  - [[F1.89 鎗]] 刀鎗
+  ==
+W
+  ====
+  - [[Page~567 (1)鎗]]
+    ==
+    - Interchanged with the last [[$鏘1]];
+    - [[see $鎗caang1 for "bell-sound" and "pot" senses]];
+    - a gun;
+    - a spear;
+    - _[(5)]ni(u/) (1)ts(')(e/)ung_
+        [[niu5 coeng1 鳥鎗]],
+        a fowling-piece, a matchlock;
+    - _shik(9) (1)ts(')(e/)ung (4)l(e/)ung_
+        [[sik6 coeng1 loeng4 食鎗糧]],
+        to be a soldier;
+    - _(2)shau (1)ts(')(e/)ung_
+        [[sau2 coeng1 手鎗]],
+        a pistol;
+    - _(1)fung (1)ts(')(e/)ung_
+        [[fung1 coeng1 風鎗]]^
+        an air-gun.
+    ==
+  ====
+C
+  ==
+  - Williams' 鳥鎗: Corrected _(2)ni(u/)_ [[niu2]] to _(5)ni(u/)_ [[niu5]].
   ==
 $$
 
