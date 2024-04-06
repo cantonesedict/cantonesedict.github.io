@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2024-04-06
+* %date-modified --> 2024-04-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -55,6 +55,7 @@ $$
 - $娼1
 - $𢃑 (⿰巾昌)1
 - $搶1
+- $斨1
 - $昌1
 - $槍1
 - $牕1
@@ -195,6 +196,35 @@ W
 S
   ==
   - $搶coeng2 (TODO)
+  ==
+$$
+
+### 斨1 | _(1)Ts(')(e/)ung_ [[coeng1]]
+
+$$
+R
+  ⽄ + 4
+U
+  U+65A8
+F
+  ==
+  - [[F1.89 斨]] ::[方銎斧]也::
+  ==
+W
+  ====
+  - [[Page~567 (1)斨]]
+    ==
+    - A sort of broad-ax;
+    - a pole-ax made square, a bill;
+    - to hack, to chop;
+    - _(4)Sh(u") (1)ts(')(e/)ung_
+        [[syu4 coeng1 殳斨]],
+        a statesman in the days of Shun [[舜]].
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿺方丶 to 方, ⿱⿰工几金 to 銎, and 釜 to 斧.
   ==
 $$
 
