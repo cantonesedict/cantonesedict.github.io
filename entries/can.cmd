@@ -948,10 +948,9 @@ C
     Changed Middle Chinese _(2)kau_ [[gau2]]
     to common reading _kau(3)_ [[gau3]].
   ==
-<##
 E
   ====
-  - TODO: 【沙塵】 (saa1 can4):
+  - 【沙塵】 (saa1 can4):
     ++
     1. Arrogant or cocky.
        ==
@@ -960,11 +959,10 @@ E
     ++
   ====
   --
-  There is also the extended version of this phrase, 沙塵白霍,
-  but that leads into a rabbit hole of debate about the origins of this phrase,
+  There is also the extended version 沙塵白霍,
+  but that leads into a rabbit hole of debate about the origins of the phrase,
   and whether 塵 should be written 陳, and 霍 should be written 攉 or 醭.
   --
-##>
 $$
 
 ### 蔯4 | _(4)Ch(')an_ [[can4]]
