@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2024-04-02
+* %date-modified --> 2024-04-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -483,7 +483,7 @@ W
     - _p(')o(3) (4)ch(')(a/)i_
         [[po3 caai4 破柴]],
         to cleave wood;
-    - _(4)ch(')(a/)i (4)m(u/n)_
+    - _(4)ch(')(a/)i (4)m(u/)n_
         [[caai4 mun4 柴門]],
         a cottage door;
     - _(4)p(')(a/)u (4)ch(')(a/)i_
