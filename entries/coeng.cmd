@@ -97,7 +97,7 @@ W
   ====
 S
   ==
-  - $倡coeng3 (TODO)
+  - $倡coeng3
   ==
 $$
 
@@ -712,6 +712,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $倡3
 - $唱3
 - $暢3
 - $韔3
@@ -719,6 +720,52 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+###+ 倡3 | _Ch(')(e/)ung(3)_ [[coeng3]]
+
+$$
+R
+  ⼈ + 8
+U
+  U+5021
+V
+  ==
+  - coeng1 (common)
+  ==
+F
+  ==
+  - [[F1.90 倡 _(1)Ch(')(e/)ung_ (coeng1)]] 倡導倡率先之也
+  ==
+W
+  ====
+  - [[Page~36|n79 (1)倡 _(1)Ch(')(e/)ung_ (coeng1); here normalised to _Ch(')(e/)ung(3)_ (coeng3)]]
+    ==
+    - To lead, to go before, to seduce or induce;
+    - a leader;
+    - an example, a guide;
+    - [[...]];
+    - _ch(')(e/)ung[(3)] t(o\)(6)_
+        [[coeng3 dou6 倡導]]
+        to show the way;
+    - _ch(')(e/)ung[(3)] (4)(i/)n_
+        [[coeng3 jin4 倡言]],
+        to speak first;
+    - _ch(')(e/)ung[(3)] sut(7)_
+        [[coeng3 seot1 倡率]]
+        to lead on;
+    - _ch(')(e/)ung[(3)] (4)t(')au_
+        [[coeng3 tau4 倡頭]],
+        a leader;
+    - _ch(')(e/)ung[(3)] l(u")n(6)_
+        [[coeng3 lyun6 倡亂]]
+        to head a riot.
+    ==
+  ====
+S
+  ==
+  - $倡coeng1
+  ==
+$$
 
 ### 唱3 | _Ch(')(e/)ung(3)_ [[coeng3]]
 
