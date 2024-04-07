@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $之1
 - $知1
+- $芝1
 - $蜘1
 ==
 </nav>
@@ -193,6 +194,40 @@ C
   ==
   - Williams' 知覺: Now "consciousness".
   ==
+$$
+
+### 芝1 | _(1)Ch(i/)_ [[zi1]]
+
+$$
+R
+  ⾋ + 4
+U
+  U+829D
+F
+  ==
+  - [[F1.35 芝]] 芝蔴又芝蘭
+  ==
+W
+  ====
+  - [[Page~38|n81 (1)芝]]
+    ==
+    - A sort of boletus or branched mushroom,
+      regarded as felicitous from its durability;
+    - _(1)ch(i/) (4)m(a/)_
+        [[zi1 maa4 芝麻]],
+        sesamum;
+    - _(1)ch(i/) (4)l(a/)n_
+        [[zi1 laan4 芝蘭]],
+        a sort of fragrant epidendrum;
+    - _(1)ch(i/) (4)ng(a/)n_
+        [[zi1 ngaan4 芝顏]],
+        your fine face;
+    - _(1)ch(i/) (4)l(a/)n (1)ch(i/) shat(7)_
+        [[zi1 laan4 zi1 sat1 芝蘭之室]]
+        an elegant house, as of the genii;
+        _met._ intimate with good men.
+    ==
+  ====
 $$
 
 ### 蜘1 | _(1)Ch(i/)_ [[zi1]]
