@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [coeng1](#1)
+- [coeng2](#2)
 - [coeng3](#3)
 - [coeng4](#4)
 ==
@@ -195,7 +196,7 @@ W
   ====
 S
   ==
-  - $搶coeng2 (TODO)
+  - $搶coeng2
   ==
 $$
 
@@ -640,6 +641,69 @@ W
         door of paradise, kept by Kw(a/)nt(i/) [[關帝]] or Mars.
     ==
   ====
+$$
+
+
+##{#2 .williams} (2)Ts(')(e/)ung [[coeng2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $搶2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 搶2 | _(2)Ts(')(e/)ung_ [[coeng2]]
+
+$$
+R
+  ⼿ + 10
+U
+  U+6436
+F
+  ==
+  - [[F1.92 搶]] 搶奪
+  ==
+W
+  ====
+  - [[Page~568 (2)搶]]
+    ==
+    - To take, to extort, to force away, to ravish, to snatch;
+    - to dispute for, to struggle for;
+    - sudden, abrupt, rude;
+    - to rob, as bands do;
+    - _(2)ts(')(e/)ung p(a/)k(9) (2)k(i/) k(u")(3)_
+        [[coeng2 baak6 gei2 geoi3 搶白幾句]]
+        he denounced him in many phrases;
+    - _(2)ts(')(e/)ung k(i/)p(8)_
+        [[coeng2 gip3 搶劫]]
+        to take by force;
+    - _(2)ts(')(e/)ung (1)s(i/)n (4)hang_
+        [[coeng2 sin1 hang4 搶先行]],
+        to thrust one's self forward;
+    - _(2)ts(')(e/)ung [p(')(a/)u](3) (4)t(')au_
+        [[coeng2 pau3 tau4 搶炮頭]],
+        to struggle for the rocket stick on the 2d of 2d~month;
+    - _(2)ts(')(e/)ung t(u")t(9)_
+        [[coeng2 dyut6 搶奪]]
+        to snatch;
+    - _t(u")n(3) (2)ts(')(e/)ung_
+        [[dyun3 coeng2 斷搶]],
+        to grab at all.
+    ==
+    --
+    Read _(1)ts(')ong_ [[cong1]]; to saw.
+    --
+  ====
+C
+  ==
+  - Williams' 搶炮頭: Corrected _p(')au(3)_ [[pau3]] to _p(')(a/)u(3)_ [[paau3]].
+  ==
+S
+  ==
+  - $搶coeng1
+  ==
 $$
 
 

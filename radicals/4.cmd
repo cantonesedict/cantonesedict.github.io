@@ -327,6 +327,7 @@ For all radicals, see [Index of characters by radical](./).
       - $搽caa4
       - $搽caa5
       - $搶coeng1
+      - $搶coeng2
       - $搾zaa3
       ==
       </nav>
