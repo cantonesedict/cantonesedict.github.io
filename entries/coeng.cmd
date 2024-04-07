@@ -547,7 +547,7 @@ W
   ====
 S
   ==
-  - $蹡coeng3 (TODO)
+  - $蹡coeng3
   ==
 $$
 
@@ -715,6 +715,7 @@ $$
 - $倡3
 - $唱3
 - $暢3
+- $蹡3
 - $韔3
 - $鬯3
 ==
@@ -863,6 +864,29 @@ E
        ==
     ++
   ====
+$$
+
+###+ 蹡3 | _Ts(')(e/)ung(3)_ [[coeng3]]
+
+$$
+R
+  ⾜ + 11
+U
+  U+8E61
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~567 (1)蹡 _(1)Ts(')(e/)ung_ (coeng1); here corrected to _Ts(')(e/)ung(3)_ (coeng3)]]
+    ==
+    - [[...]];
+    - to move irregularly, to go across, to walk awry.
+    ==
+  ====
+S
+  ==
+  - $蹡coeng1
+  ==
 $$
 
 ### 韔3 | _Ch(')(e/)ung(3)_ [[coeng3]]
