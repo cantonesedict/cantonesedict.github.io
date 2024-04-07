@@ -54,6 +54,7 @@ $$
 - $支1
 - $枝1
 - $知1
+- $肢1
 - $芝1
 - $蜘1
 ==
@@ -331,6 +332,35 @@ C
   ==
   - Williams' 知覺: Now "consciousness".
   ==
+$$
+
+### 肢1 | _(1)Ch(i/)_ [[zi1]]
+
+$$
+R
+  ⾁ + 4
+U
+  U+80A2
+F
+  ==
+  - [[F1.36 肢]] 四肢
+  ==
+W
+  ====
+  - [[Page~38|n81 (1)肢]]
+    ==
+    - The limbs;
+    - _sz'(3) (1)ch(i/)_
+        [[sei3 zi1 四肢]],
+        the four limbs;
+    - _(1)ch(i/) (2)t(')ai_
+        [[zi1 tai2 肢體]],
+        the whole body;
+    - _(1)ch(i/) (2)k(a/)i_
+        [[zi1 gaai2 肢解]],
+        to quarter.
+    ==
+  ====
 $$
 
 ### 芝1 | _(1)Ch(i/)_ [[zi1]]
