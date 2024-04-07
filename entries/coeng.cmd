@@ -813,6 +813,7 @@ $$
 - $塲4
 - $庠4
 - $祥4
+- $翔4
 - $腸4
 - $萇4
 - $詳4
@@ -1022,6 +1023,31 @@ C
     Changed Middle Chinese _chi(u/)(6)_ [[ziu6]]
     to common reading _shi(u/)(6)_ [[siu6]].
   ==
+$$
+
+### 翔4 | _(4)Ts(')(e/)ung_ [[coeng4]]
+
+$$
+R
+  ⽻ + 6
+U
+  U+7FD4
+F
+  ==
+  - [[F1.91 翔]] 翺翔飛也
+  ==
+W
+  ====
+  - [[Page~568 (4)翔]]
+    ==
+    - To soar, to hover over;
+    - to look back;
+    - dignified, severe, stern;
+    - _(4)(u/)i (4)ts(')(e/)ung_
+        [[wui4 coeng4 回翔]],
+        to look back regretfully.
+    ==
+  ====
 $$
 
 ### 腸4 | _(4)Ch(')(e/)ung_ [[coeng4]]
