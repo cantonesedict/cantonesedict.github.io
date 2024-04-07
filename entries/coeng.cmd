@@ -815,6 +815,7 @@ $$
 - $祥4
 - $腸4
 - $萇4
+- $詳4
 - $長4
 ==
 </nav>
@@ -1124,6 +1125,49 @@ W
       or sheep's peach.
     ==
   ====
+$$
+
+### 詳4 | _(4)Ts(')(e/)ung_ [[coeng4]]
+
+$$
+R
+  ⾔ + 6
+U
+  U+8A73
+F
+  ==
+  - [[F1.91 詳]] ::詳[備]詳悉細密也::
+  ==
+W
+  ====
+  - [[Page~567 (4)詳]]
+    ==
+    - To examine carefully, to learn and report upon, to inquire fully into;
+    - to discourse upon, to reason upon;
+    - to state the circumstances, to minutely narrate;
+    - the detail, the particulars, the facts, the arguments;
+    - minutely, fully;
+    - _(4)ts(')(e/)ung (5)h(a/)_
+        [[coeng4 haa5 詳吓]],
+        examine into it;
+    - _(4)ts(')(e/)ung sai(3) (2)kong_
+        [[coeng4 sai3 gong2 詳細講]],
+        told every particular;
+    - _(4)ts(')(e/)ung (4)man_
+        [[coeng4 man4 詳文]],
+        an official report;
+    - _(4)'m (1)ch(i/) (4)ts(')(e/)ung sai(3)_
+        [[m4 zi1 coeng4 sai3 唔知詳細]]
+        I don't know all the facts;
+    - _(4)ts(')(e/)ung sik(7)_
+        [[coeng4 sik1 詳悉]]
+        a luminous account of, intelligible.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿰亻⿱十用 to 備.
+  ==
 $$
 
 ### 長4 | _(4)Ch(')(e/)ung_ [[coeng4]]
