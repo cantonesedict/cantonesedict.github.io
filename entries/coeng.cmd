@@ -714,6 +714,7 @@ $$
 =={.modern}
 - $倡3
 - $唱3
+- $悵3
 - $暢3
 - $蹡3
 - $韔3
@@ -810,6 +811,28 @@ W
         to sing in the Canton dialect.
     ==
   ====
+$$
+
+###+ 悵3 | _Ch(')(e/)ung(3)_ [[coeng3]]
+
+$$
+R
+  ⼼ + 8
+U
+  U+60B5
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - The expected reading is coeng3 from Middle Chinese 丑亮切,
+    but Fan Wan has zoeng3; **see $悵zoeng3 for the canonical entry**.
+  ==
+S
+  ==
+  - $悵zoeng3
+  ==
 $$
 
 ### 暢3 | _Ch(')(e/)ung(3)_ [[coeng3]]
