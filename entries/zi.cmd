@@ -52,6 +52,7 @@ $$
 - $之1
 - $吱1
 - $支1
+- $枝1
 - $知1
 - $芝1
 - $蜘1
@@ -206,6 +207,51 @@ C
   - Fan Wan entry: Corrected 千 to 干.
   - Williams' 支更: Corrected _(1)kang_ [[gang1]] to _(1)k(a/)ng_ [[gaang1]].
   ==
+$$
+
+### 枝1 | _(1)Ch(i/)_ [[zi1]]
+
+$$
+R
+  ⽊ + 4
+U
+  U+679D
+F
+  ==
+  - [[F1.36 枝]] 枝幹
+  ==
+W
+  ====
+  - [[Page~38|n81 (1)枝]]
+    ==
+    - A branch, a twig;
+    - a slender post;
+    - to scatter, to branch off;
+    - a tributary of a river;
+    - a classifier of slender things, as pencils, flowers, pens, &c.;
+    - _(1)ch(i/) kon(3)_
+        [[zi1 gon3 枝幹]]
+        trunk and branches;
+    - _yat(7) (1)ch(i/) (1)f(a/)_
+        [[jat1 zi1 faa1 一枝花]],
+        a flower, a pretty girl;
+    - _yat(7) (1)ch(i/) (1)kwan_
+        [[jat1 zi1 gwan1 一枝軍]],
+        a detachment of troops;
+    - _pok(8) (1)ch(i/)_
+        [[bok3 zi1 駁枝]],
+        to graft;
+    - _(1)ch(i/) (i/)p(9)_
+        [[zi1 jip6 枝葉]]
+        branches and leaves;
+    - _(1)s(u")n (1)ch(i/)_
+        [[syun1 zi1 酸枝]],
+        Chinese ebony;
+    - _(1)sh(a/)n (1)ch(i/)_
+        [[saan1 zi1 山枝]],
+        wild (1)s(u")n-(1)ch(i/) [[]] wood, a hard timber.
+    ==
+  ====
 $$
 
 ### 知1 | _(1)Ch(i/)_ [[zi1]]
