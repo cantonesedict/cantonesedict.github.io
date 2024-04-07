@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $知1
+- $蜘1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -131,4 +132,27 @@ C
   ==
   - Williams' 知覺: Now "consciousness".
   ==
+$$
+
+### 蜘1 | _(1)Ch(i/)_ [[zi1]]
+
+$$
+R
+  ⾍ + 8
+U
+  U+8718
+F
+  ==
+  - [[F1.35 蜘]] 蜘蛛
+  ==
+W
+  ====
+  - [[Page~38|n81 (1)蜘]]
+    ==
+    - A spider;
+    - _(1)ch(i/) (1)ch(u")_
+        [[zi1 zyu1 蜘蛛]],
+        a spider, a general name for all kinds of aranea.
+    ==
+  ====
 $$
