@@ -49,11 +49,72 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $之1
 - $知1
 - $蜘1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 之1 | _(1)Ch(i/)_ [[zi1]]
+
+$$
+R
+  ⼃ + 3
+U
+  U+4E4B
+F
+  ==
+  - [[F1.35 之]] 於也往也又語助詞
+  ==
+W
+  ====
+  - [[Page~38|n81 (1)之]]
+    ==
+    - A sign of the genitive;
+    - when placed between two nouns or verbs, answers to who, which, that;
+    - a pronoun, he, she, it, them;
+    - often used in the abstract, after a noun,
+      or as a relative particle, in apposition;
+    - to progress;
+    - to go to;
+    - _[t(')ing](3) (1)ch(i/) (1)ch(i/) (4)yan_
+        [[ting3 zi1 zi1 jan4 聽之之人]],
+        the person who hears him;
+    - _t(')(i/)n (1)ch(i/) (4)ming ming(6)_
+        [[tin1 zi1 ming4 ming6 天之明命]]
+        heaven's plain decree;
+    - _(4)(u") (1)ch(i/) noi(6) (4)ho_
+        [[jyu4 zi1 noi6 ho4 如之奈何]]^
+        if so, how then?
+    - _m(i/)(6) (1)ch(i/) (5)yau (5)y(a/)_
+        [[mei6 zi1 jau5 jaa5 未之有也]],
+        there is no such thing;
+    - _(1)ts(e/)ung (4)ho (1)ch(i/)_
+        [[zoeng1 ho4 zi1 將何之]],
+        where are you going?
+    - _(2)k(u/) (1)ch(i/)_
+        [[gu2 zi1 古之]],
+        the ancients;
+    - _t(')(i/)n ming(6) (1)ch(i/)_
+        [[tin1 ming6 zi1 天命之]],
+        heaven orders it;
+    - _(4)m(o\) (1)ch(i/)_
+        [[mou4 zi1 無之]],
+        impossible;
+    - _(4)hang (4)(i/) pat(7) ch(i/)(3) (2)ch(e/) (5)yau (1)ch(i/)_
+        [[hang4 ji4 bat1 zi3 ze2 jau5 zi1 行而不至者有之]],
+        to go and not arrive is common;
+    - _(2)ch(u") (1)ch(i/) (2)ch(e/) (1)ch(i/) wai(6) tai(3)_
+        [[zyu2 zi1 ze2 zi1 wai6 dai3 主之者之謂帝]]
+        that which rules is called supreme.
+    ==
+  ====
+C
+  ==
+  - Williams' 聽之之人: Corrected _t(')eng(3)_ [[teng3]] to _t(')ing(3)_ [[ting3]].
+  ==
+$$
 
 ### 知1 | _(1)Ch(i/)_ [[zi1]]
 
