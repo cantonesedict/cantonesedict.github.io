@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2024-04-04
+* %date-modified --> 2024-04-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -722,7 +722,7 @@ W
         [[jat1 zau1 一週]],
         a circuit, a year;
     - _(1)chau (4)sh(i/) (1)t(o\) hai(6) (2)k(o\)m_
-        [[zau1 si4 dou1 hai6 gom2 週時都係噉]],
+        [[zau1 si4 dou1 hai6 gam2 週時都係噉]],
         he is ever the same.
     ==
   ====
