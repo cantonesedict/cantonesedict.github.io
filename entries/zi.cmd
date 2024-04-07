@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $之1
+- $支1
 - $知1
 - $芝1
 - $蜘1
@@ -114,6 +115,70 @@ W
 C
   ==
   - Williams' 聽之之人: Corrected _t(')eng(3)_ [[teng3]] to _t(')ing(3)_ [[ting3]].
+  ==
+$$
+
+### 支1 | _(1)Ch(i/)_ [[zi1]]
+
+$$
+R
+  ⽀ + 0
+U
+  U+652F
+F
+  ==
+  - [[F1.36 支]] ::持也分也又支离又支[干]又宗支::
+  ==
+W
+  ====
+  - [[Page~38|n81 (1)支]]
+    ==
+    - To branch, to diverge;
+    - to hold;
+    - to give, to pay;
+    - to prop, to succor;
+    - a branch;
+    - posterity, descendants;
+    - a sept or tribe;
+    - to attend to;
+    - to bear up, to stand firm;
+    - diverging, parting;
+    - the twelve horary characters;
+    - to measure;
+    - the 65th radical;
+    - _(1)p(a/)u (1)ch(i/)_
+        [[baau1 zi1 包支]],
+        responsible for;
+    - _(1)ch(i/) (1)[k(a/)ng]_
+        [[zi1 gaang1 支更]],
+        a watchman;
+    - _yat(9) (1)chung (1)ch(i/) yung(6)_
+        [[jat6 zung1 zi1 jung6 日中支用]]
+        daily outlays and expenses;
+    - _(1)ch(i/) k(')ap(7)_
+        [[zi1 kap1 支給]]
+        to give out;
+    - _(1)ch(i/) (1)kung (4)ngan_
+        [[zi1 gung1 ngan4 支工銀]],
+        to pay wages;
+    - _(1)ch(i/) (4)l(i/)_
+        [[zi1 lei4 支離]],
+        irrelevant, not to the point, a liar;
+    - _(1)ch(i/) (1)si(u/)_
+        [[zi1 siu1 支消]],
+        to expend, use for expenses;
+    - _(1)ch(i/) p(')(a/)i(3)_
+        [[zi1 paai3 支派]]
+        descendants, a tribe;
+    - _(4)w(a/)ng (1)ch(i/)_
+        [[waang4 zi1 橫支]],
+        a side branch, a concubine's child.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 千 to 干.
+  - Williams' 支更: Corrected _(1)kang_ [[gang1]] to _(1)k(a/)ng_ [[gaang1]].
   ==
 $$
 

@@ -400,6 +400,23 @@ For all radicals, see [Index of characters by radical](./).
 ## ⽀ (branch)
 
 <## radical-⽀-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 0
+    ,
+      <nav class="sideways">
+      ==
+      - $支zi1
+      ==
+      </nav>
+''
+||||
 <## /radical-⽀-characters ##>
 
 
