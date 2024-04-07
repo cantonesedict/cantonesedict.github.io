@@ -815,6 +815,7 @@ $$
 - $嬙4
 - $庠4
 - $戕4
+- $檣4
 - $牆4
 - $祥4
 - $翔4
@@ -1054,6 +1055,29 @@ W
     - _(4)ts(')(e/)ung ts(')(a/)k(9)_
         [[coeng4 caak6 戕賊]]
         to kill and rob.
+    ==
+  ====
+$$
+
+### 檣4 | _(4)Ts(')(e/)ung_ [[coeng4]]
+
+$$
+R
+  ⽊ + 13
+U
+  U+6AA3
+F
+  ==
+  - [[F1.91 檣]] 船桅也
+  ==
+W
+  ====
+  - [[Page~568 (4)檣]]
+    ==
+    - A mast, any spar or mast which sustains the sails;
+    - _(4)f(a/)n (4)ts(')(e/)ung_
+        [[faan4 coeng4 帆檣]],
+        masts and sails.
     ==
   ====
 $$
