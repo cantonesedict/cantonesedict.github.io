@@ -162,6 +162,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Character entry links
 |:
   //
+    , 4
+    ,
+      <nav class="sideways">
+      ==
+      - $戕coeng4
+      ==
+      </nav>
+  //
     , 7
     ,
       <nav class="sideways">

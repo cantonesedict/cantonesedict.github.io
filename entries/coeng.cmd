@@ -812,6 +812,7 @@ $$
 - $場4
 - $塲4
 - $庠4
+- $戕4
 - $祥4
 - $翔4
 - $腸4
@@ -977,6 +978,35 @@ W
     - _yap(7) (4)ts(')(e/)ung_
         [[jap1 coeng4 邑庠]],
         the graduates of a district.
+    ==
+  ====
+$$
+
+### 戕4 | _(4)Ts(')(e/)ung_ [[coeng4]]
+
+$$
+R
+  ⼽ + 4
+U
+  U+6215
+F
+  ==
+  - [[F1.91 戕]] 傷也害也
+  ==
+W
+  ====
+  - [[Page~568 (4)戕]]
+    ==
+    - A spear, a wooden lance;
+    - a post;
+    - to kill;
+    - to rob, to maltreat;
+    - _(4)ts(')(e/)ung (1)sh(e/)ung_
+        [[coeng4 soeng1 戕傷]],
+        to wound;
+    - _(4)ts(')(e/)ung ts(')(a/)k(9)_
+        [[coeng4 caak6 戕賊]]
+        to kill and rob.
     ==
   ====
 $$
