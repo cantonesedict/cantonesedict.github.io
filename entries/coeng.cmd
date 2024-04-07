@@ -812,6 +812,7 @@ $$
 - $場4
 - $塲4
 - $庠4
+- $祥4
 - $腸4
 - $萇4
 - $長4
@@ -976,6 +977,50 @@ W
         the graduates of a district.
     ==
   ====
+$$
+
+### 祥4 | _(4)Ts(')(e/)ung_ [[coeng4]]
+
+$$
+R
+  ⽰ + 6
+U
+  U+7965
+F
+  ==
+  - [[F1.91 祥]] 祥瑞言祥禍也善也又喪服有大祥小祥謂除凶從吉也
+  ==
+W
+  ====
+  - [[Page~567 (4)祥]]
+    ==
+    - Happiness, felicity, fortune, goodness;
+    - an omen, a sign, a prognostic;
+    - _(4)ts(')(e/)ung sui(6)_
+        [[coeng4 seoi6 祥瑞]]
+        lucky omens;
+    - _kat(7) (4)ts(')(e/)ung_
+        [[gat1 coeng4 吉祥]],
+        a happy sign;
+    - _(2)si(u/) (4)ts(')(e/)ung_ [[siu2 coeng4 小祥]]^
+        and
+      _t(a/)i(6) (4)ts(')(e/)ung_ [[daai6 coeng4 大祥]],
+        are the sacrifices to ancestors at the end of one and two years,
+        when the mourning is altered;
+    - _pat(7) (4)ts(')(e/)ung (1)ch(i/) [shi(u/)](6)_
+        [[bat1 coeng4 zi1 siu6 不祥之兆]]
+        a most unlucky omen;
+    - _(4)ts(')z' (4)ts(')(e/)ung_
+        [[ci4 coeng4 慈祥]],
+        kind-hearted.
+    ==
+  ====
+C
+  ==
+  - Williams' 不祥之兆:
+    Changed Middle Chinese _chi(u/)(6)_ [[ziu6]]
+    to common reading _shi(u/)(6)_ [[siu6]].
+  ==
 $$
 
 ### 腸4 | _(4)Ch(')(e/)ung_ [[coeng4]]
