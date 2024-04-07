@@ -500,6 +500,14 @@ For all radicals, see [Index of characters by radical](./).
       ==
       </nav>
   //
+    , 6
+    ,
+      <nav class="sideways">
+      ==
+      - $脂zi1
+      ==
+      </nav>
+  //
     , 8
     ,
       <nav class="sideways">

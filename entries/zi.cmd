@@ -55,6 +55,7 @@ $$
 - $枝1
 - $知1
 - $肢1
+- $脂1
 - $芝1
 - $蜘1
 ==
@@ -359,6 +360,45 @@ W
     - _(1)ch(i/) (2)k(a/)i_
         [[zi1 gaai2 肢解]],
         to quarter.
+    ==
+  ====
+$$
+
+### 脂1 | _(1)Ch(i/)_ [[zi1]]
+
+$$
+R
+  ⾁ + 6
+U
+  U+8102
+F
+  ==
+  - [[F1.36 脂]] 膏也又胭脂
+  ==
+W
+  ====
+  - [[Page~38|n81 (1)脂]]
+    ==
+    - Grease, suet, lard, fat;
+    - hard gums of trees;
+    - _met._ honors, glory;
+    - to grease;
+    - fat animals;
+    - _(1)(i/)n (1)ch(i/)_
+        [[jin1 zi1 胭脂]],
+        rouge;
+    - _(4)man (1)ch(i/)_
+        [[man4 zi1 民脂]],
+        the fat of the people, _i.~e._ their money;
+    - _(1)ch(i/) (1)k(o\)_
+        [[zi1 gou1 脂膏]],
+        greasy, unctuous;
+    - _(4)y(e/)ung (1)ch(i/)_
+        [[joeng4 zi1 羊脂]],
+        mutton tallow;
+    - _(1)ch(i/) (2)fan_
+        [[zi1 fan2 脂粉]],
+        cosmetics.
     ==
   ====
 $$
