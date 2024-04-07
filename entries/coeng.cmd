@@ -811,6 +811,7 @@ $$
 - $償4
 - $場4
 - $塲4
+- $庠4
 - $腸4
 - $萇4
 - $長4
@@ -943,6 +944,37 @@ W
     --
     [[Alternative form of 場. **See $場coeng4 for the canonical entry.**]]
     --
+  ====
+$$
+
+### 庠4 | _(4)Ts(')(e/)ung_ [[coeng4]]
+
+$$
+R
+  ⼴ + 6
+U
+  U+5EA0
+F
+  ==
+  - [[F1.91 庠]] 學宮名以養老爲義
+  ==
+W
+  ====
+  - [[Page~567 (4)庠]]
+    ==
+    - An asylum for aged people in ancient times,
+      a village school, a college, a gymnasium, an academy;
+    - to teach;
+    - _(4)ts(')(e/)ung (1)shang_
+        [[coeng4 sang1 庠生]],
+        a si(u/)ts(')(a/)i [[秀才]];
+    - _tsun(3) (4)ts(')(e/)ung_
+        [[zeon3 coeng4 進庠]],
+        to become a si(u/)ts(')(a/)i [[秀才]];
+    - _yap(7) (4)ts(')(e/)ung_
+        [[jap1 coeng4 邑庠]],
+        the graduates of a district.
+    ==
   ====
 $$
 
