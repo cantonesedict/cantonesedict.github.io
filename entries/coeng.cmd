@@ -812,6 +812,7 @@ $$
 - $場4
 - $塲4
 - $墻4
+- $嬙4
 - $庠4
 - $戕4
 - $牆4
@@ -971,6 +972,29 @@ W
     --
     [[Alternative form of 牆. **See $牆coeng4 for the canonical entry.**]]
     --
+  ====
+$$
+
+### 嬙4 | _(4)Ts(')(e/)ung_ [[coeng4]]
+
+$$
+R
+  ⼥ + 13
+U
+  U+5B19
+F
+  ==
+  - [[F1.91 嬙]] 嬪嬙女官名
+  ==
+W
+  ====
+  - [[Page~568 (4)嬙]]
+    ==
+    - Female officers in the imperial hareem;
+    - _pan(3) (4)ts(')(e/)ung_
+        [[ban3 coeng4 嬪嬙]],
+        a lady of the bedchamber.
+    ==
   ====
 $$
 
