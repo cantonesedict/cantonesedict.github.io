@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $之1
+- $吱1
 - $支1
 - $知1
 - $芝1
@@ -116,6 +117,31 @@ C
   ==
   - Williams' 聽之之人: Corrected _t(')eng(3)_ [[teng3]] to _t(')ing(3)_ [[ting3]].
   ==
+$$
+
+### 吱1 | _(1)Ch(i/)_ [[zi1]]
+
+$$
+R
+  ⼝ + 4
+U
+  U+5431
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~38|n81 (1)吱]]
+    ==
+    - A colloquial final, like 咯 _lok(8)_ [[lok3]] expressing certainty;
+      or that an act was immaterial;
+    - _(2)k(o\)m tsau(6) (2)h(o\) (1)ch(i/)_
+        [[gam2 zau6 hou2 zi1 噉就好吱]],
+        then he would be well off;
+    - _(1)ch(i/) (1)ch(i/) hai(6)_
+        [[zi1 zi1 hai6 吱吱係]]
+        certainly so.
+    ==
+  ====
 $$
 
 ### 支1 | _(1)Ch(i/)_ [[zi1]]
