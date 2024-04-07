@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Introduction.
-* %date-modified --> 2024-02-25
+* %date-modified --> 2024-04-07
 * %copyright-prior-years --> 2023--
 * %meta-description --> Williams' introduction
 
@@ -1541,6 +1541,7 @@ in the following table:---
     , This is an imperfect vowel sound, unknown in European
       languages; if in pronouncing the word _dizzy_ [[in Received Pronunciation]],
       the two letters _di_ be changed to _s_, this sound will be made.
+      [[Sometimes represented as [ɿ] (U+027F), and called the apical rime.]]
   //
     , 23.
     , _'m_ or _hm_,
