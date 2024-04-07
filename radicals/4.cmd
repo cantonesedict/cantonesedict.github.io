@@ -1216,6 +1216,23 @@ For all radicals, see [Index of characters by radical](./).
 ## ⽙ (half tree trunk)
 
 <## radical-⽙-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 13
+    ,
+      <nav class="sideways">
+      ==
+      - $牆coeng4
+      ==
+      </nav>
+''
+||||
 <## /radical-⽙-characters ##>
 
 

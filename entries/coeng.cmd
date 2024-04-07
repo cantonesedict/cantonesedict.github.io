@@ -813,6 +813,7 @@ $$
 - $塲4
 - $庠4
 - $戕4
+- $牆4
 - $祥4
 - $翔4
 - $腸4
@@ -1007,6 +1008,52 @@ W
     - _(4)ts(')(e/)ung ts(')(a/)k(9)_
         [[coeng4 caak6 戕賊]]
         to kill and rob.
+    ==
+  ====
+$$
+
+### 牆4 | _(4)Ts(')(e/)ung_ [[coeng4]]
+
+$$
+R
+  ⽙ + 13
+U
+  U+7246
+F
+  ==
+  - [[F1.91 牆]] 卑曰垣高曰牆
+  - [[F1.91 墻]] 同上
+  ==
+W
+  ====
+  - [[Page~568 (4)牆(4)墻]]
+    ==
+    - A wall made of stone, brick, or mud;
+    - a defense or wall;
+    - _(1)ch(u")n (4)ts(')(e/)ung_
+        [[zyun1 coeng4 磚牆]],
+        a brick wall;
+    - _(4)nai (4)ts(')(e/)ung_
+        [[nai4 coeng4 泥牆]],
+        an adobie wall;
+    - _chuk(7) (4)ts(')(e/)ung_
+        [[zuk1 coeng4 築牆]],
+        to build a wall;
+    - _tong(6) (4)ts(')(e/)ung_
+        [[dong6 coeng4 盪牆]],
+        to plaster a wall;
+    - _m(i/)(6) (2)shui (1)chung (4)ts(')(e/)ung_
+        [[mei6 seoi2 zung1 coeng4 寐水舂牆]],
+        to crawl under water, and build a wall, _met._ hard labor;
+    - _(1)ti(u/) (4)ts(')(e/)ung_
+        [[diu1 coeng4 雕牆]],
+        to adorn and paint a wall;
+    - _(4)ts(')(e/)ung pik(7)_
+        [[coeng4 bik1 牆壁]]
+        a wall;
+    - _yat(7) (4)t(')i(u/) (4)ts(')(e/)ung kwo(3)_
+        [[jat1 tiu4 coeng4 gwo3 一條牆過]]
+        a single back wall for several houses.
     ==
   ====
 $$
