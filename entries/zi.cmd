@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $之1
+- $卮1
 - $吱1
 - $巵1
 - $支1
@@ -123,6 +124,23 @@ C
   ==
 $$
 
+###+ 卮1 | _(1)Ch(i/)_ [[zi1]]
+
+$$
+R
+  ⼙ + 3
+U
+  U+536E
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Alternative form of 巵. **See $巵zi1 for the canonical entry.**
+  ==
+$$
+
 ### 吱1 | _(1)Ch(i/)_ [[zi1]]
 
 $$
@@ -155,6 +173,10 @@ R
   ⼰ + 4
 U
   U+5DF5
+A
+  ==
+  -{.modern} $卮1
+  ==
 F
   ==
   - [[F1.36 巵]] 酒杯
