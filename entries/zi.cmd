@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-04-07
+* %date-modified --> 2024-04-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $之1
 - $吱1
+- $巵1
 - $支1
 - $枝1
 - $知1
@@ -145,6 +146,36 @@ W
         certainly so.
     ==
   ====
+$$
+
+### 巵1 | _(1)Ch(i/)_ [[zi1]]
+
+$$
+R
+  ⼰ + 4
+U
+  U+5DF5
+F
+  ==
+  - [[F1.36 巵]] 酒杯
+  ==
+W
+  ====
+  - [[Page~38|n81 (1)巵]]
+    ==
+    - A goblet;
+    - a cup holding four gills;
+    - a syphon;
+    - a vessel for serving rations;
+    - _(2)tsau (1)ch(i/)_
+        [[zau2 zi1 酒巵]],
+        a wine syphon.
+    ==
+  ====
+C
+  ==
+  - Williams' holding four gills: 受四升.
+  ==
 $$
 
 ### 支1 | _(1)Ch(i/)_ [[zi1]]
