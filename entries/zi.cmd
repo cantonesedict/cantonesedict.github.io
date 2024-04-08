@@ -549,6 +549,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $只2
+- $址2
 - $止2
 ==
 </nav>
@@ -594,6 +595,30 @@ S
   ==
   - $只zat1
   ==
+$$
+
+### 址2 | _(2)Ch(i/)_ [[zi2]]
+
+$$
+R
+  ⼟ + 4
+U
+  U+5740
+F
+  ==
+  - [[F1.39 址]] 基址
+  ==
+W
+  ====
+  - [[Page~39|n82 (2)址]]
+    ==
+    - A foundation, fundamental;
+    - one's own country or origin;
+    - _(1)k(i/) (2)ch(i/)_
+        [[gei1 zi2 基址]],
+        a foundation, a base, a dependance.
+    ==
+  ====
 $$
 
 ### 止2 | _(2)Ch(i/)_ [[zi2]]
