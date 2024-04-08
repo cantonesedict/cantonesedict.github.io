@@ -551,6 +551,7 @@ $$
 - $只2
 - $址2
 - $止2
+- $沚2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -662,6 +663,30 @@ W
     - _(4)m(o\) (2)tai (2)ch(i/)_
         [[mou4 dai2 zi2 無底止]],
         nothing to stop at.
+    ==
+  ====
+$$
+
+### 沚2 | _(2)Ch(i/)_ [[zi2]]
+
+$$
+R
+  ⽔ + 4
+U
+  U+6C9A
+F
+  ==
+  - [[F1.39 沚]] 沼也
+  ==
+W
+  ====
+  - [[Page~39|n82 (2)沚]]
+    ==
+    - An islet;
+    - to take up one's lodging on an island;
+    - _(2)chi(u/) (2)ch(i/)_
+        [[ziu2 zi2 沼沚]],
+        an islet in a pond.
     ==
   ====
 $$
