@@ -560,6 +560,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Character entry links
 |:
   //
+    , 2
+    ,
+      <nav class="sideways">
+      ==
+      - $旨zi2
+      ==
+      </nav>
+  //
     , 4
     ,
       <nav class="sideways">

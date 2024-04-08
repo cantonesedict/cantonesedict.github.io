@@ -550,6 +550,7 @@ $$
 =={.modern}
 - $只2
 - $址2
+- $旨2
 - $止2
 - $沚2
 - $祉2
@@ -621,6 +622,47 @@ W
     - _(1)k(i/) (2)ch(i/)_
         [[gei1 zi2 基址]],
         a foundation, a base, a dependance.
+    ==
+  ====
+$$
+
+### 旨2 | _(2)Ch(i/)_ [[zi2]]
+
+$$
+R
+  ⽇ + 2
+U
+  U+65E8
+F
+  ==
+  - [[F1.39 旨]] 意也甘也
+  ==
+W
+  ====
+  - [[Page~39|n82 (2)旨]]
+    ==
+    - Meaning, intention;
+    - excellent;
+    - pleasant tasted, delicate;
+    - a decretal, orders;
+    - _fung(6) (2)ch(i/)_
+        [[fung6 zi2 奉旨]],
+        to receive orders;
+    - _(2)ch(i/) (2)tsau_
+        [[zi2 zau2 旨酒]],
+        good liquor;
+    - _(2)ch(i/) (i/)(3)_
+        [[zi2 ji3 旨意]]
+        the import [of] the imperial will;
+    - _shing(3) (2)ch(i/)_
+        [[sing3 zi2 聖旨]],
+        H.~I.~M.'s orders;
+    - _(2)ts(')ing (2)ch(i/)_
+        [[cing2 zi2 請旨]],
+        to request commands;
+    - _yat(7) (1)ch(e/)ung (1)ch(i/) t(a/)i(6) (2)ch(i/)_
+        [[jat1 zoeng1 zi1 daai6 zi2 一章之大旨]],
+        an important remark, a synopsis.
     ==
   ====
 $$
