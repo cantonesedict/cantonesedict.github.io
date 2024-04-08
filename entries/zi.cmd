@@ -554,6 +554,7 @@ $$
 - $沚2
 - $祉2
 - $趾2
+- $阯2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -755,5 +756,28 @@ E
     ++
     1. The big toe.
     ++
+  ====
+$$
+
+### 阯2 | _(2)Ch(i/)_ [[zi2]]
+
+$$
+R
+  ⾩ + 4
+U
+  U+962F
+F
+  ==
+  - [[F1.39 阯]] 交阯夷國名
+  ==
+W
+  ====
+  - [[Page~39|n82 (2)阯]]
+    ==
+    - Used for the last [[$趾2]];
+    - _(1)K(a/)u (2)ch(i/)_
+        [[gaau1 zi2 交阯]],
+        Cochinchina, said to be applied to it because men and women bathed together.
+    ==
   ====
 $$
