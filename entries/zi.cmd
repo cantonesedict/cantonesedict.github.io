@@ -553,6 +553,7 @@ $$
 - $止2
 - $沚2
 - $祉2
+- $趾2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -719,5 +720,40 @@ W
         [[gaa1 zi2 嘉祉]],
         good fortune.
     ==
+  ====
+$$
+
+### 趾2 | _(2)Ch(i/)_ [[zi2]]
+
+$$
+R
+  ⾜ + 4
+U
+  U+8DBE
+F
+  ==
+  - [[F1.39 趾]] 脚趾
+  ==
+W
+  ====
+  - [[Page~39|n82 (2)趾]]
+    ==
+    - The toes;
+    - a foundation of a wall;
+    - the feet;
+    - _(2)k(u") (2)ch(i/) (1)k(o\)_
+        [[geoi2 zi2 gou1 舉趾高]],
+        to step high, to trip along;
+    - _(4)hang (2)ch(i/)_
+        [[hang4 zi2 行趾]],
+        to walk.
+    ==
+  ====
+E
+  ====
+  - 【腳趾公】 (goek3 zi2 gung1):
+    ++
+    1. The big toe.
+    ++
   ====
 $$
