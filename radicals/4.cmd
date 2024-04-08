@@ -894,6 +894,23 @@ For all radicals, see [Index of characters by radical](./).
 ## ⽌ (stop)
 
 <## radical-⽌-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 0
+    ,
+      <nav class="sideways">
+      ==
+      - $止zi2
+      ==
+      </nav>
+''
+||||
 <## /radical-⽌-characters ##>
 
 

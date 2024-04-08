@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zi1](#1)
+- [zi2](#2)
 ==
 </nav>
 <## /tones ##>
@@ -537,6 +538,105 @@ W
     - _(1)ch(i/) (1)ch(u")_
         [[zi1 zyu1 蜘蛛]],
         a spider, a general name for all kinds of aranea.
+    ==
+  ====
+$$
+
+
+##{#2 .williams} (2)Ch(i/) (2)Tsz' [[zi2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $只2
+- $止2
+==
+</nav>
+<## /tone-2-characters ##>
+
+###+ 只2 | _(2)Ch(i/)_ [[zi2]]
+
+$$
+R
+  ⼝ + 2
+U
+  U+53EA
+A
+  ==
+  - $止2
+  ==
+F
+  ==
+  - [[F1.39 止]] 息也定也但也
+  - [[F1.39 只]] 樂只君子
+  ==
+W
+  ====
+  - [[Page~39|n82 (2)止; here normalised to 只]]
+    ==
+    - [[...]];
+    - only, but, however;
+    - [[...]];
+    - _(2)ch(i/) sh(i/)(6)_
+        [[zi2 si6 只是]]
+        only is;
+    - [[...]];
+    - _(4)'m (2)ch(i/) k(o\)m(3) (1)to_
+        [[m4 zi2 gam3 do1 唔只咁多]],
+        not so few;
+    - _(2)ch(i/) tak(7) k(o\)m(3) (1)to_
+        [[zi2 dak1 gam3 do1 只得咁多]],
+        only so many;
+    - [[...]].
+    ==
+  ====
+S
+  ==
+  - $只zat1
+  ==
+$$
+
+### 止2 | _(2)Ch(i/)_ [[zi2]]
+
+$$
+R
+  ⽌ + 0
+U
+  U+6B62
+F
+  ==
+  - [[F1.39 止]] 息也定也但也
+  ==
+W
+  ====
+  - [[Page~39|n82 (2)止]]
+    ==
+    - To stop;
+    - to lodge, to dwell, to rest;
+    - that which the mind rests in, an object;
+    - to detain;
+    - interrupted, stopped;
+    - to cease from, to desist, to be still;
+    - to remain, to wait;
+    - [[see $只2 for "only" sense]];
+    - the 77th radical of characters mostly relating to rest;
+    - [[...]];
+    - _(1)ch(i/) (2)ch(i/)_
+        [[zi1 zi2 知止]]^
+        to know when to stop;
+    - [[...]];
+    - _(2)ch(i/) pat(7) ch(u")(6)_
+        [[zi2 bat1 zyu6 止不住]]
+        will not stop, cannot be stopped;
+    - _(2)ch(i/) n(o\)(6)_
+        [[zi2 nou6 止怒]]
+        to appease;
+    - _(2)ch(i/) suk(7)_
+        [[zi2 suk1 止宿]]
+        to lodge at;
+    - _(4)m(o\) (2)tai (2)ch(i/)_
+        [[mou4 dai2 zi2 無底止]],
+        nothing to stop at.
     ==
   ====
 $$
