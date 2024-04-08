@@ -55,6 +55,7 @@ $$
 - $巵1
 - $支1
 - $枝1
+- $梔1
 - $知1
 - $肢1
 - $脂1
@@ -307,6 +308,33 @@ W
         wild (1)s(u")n-(1)ch(i/) [[]] wood, a hard timber.
     ==
   ====
+$$
+
+### 梔1 | _(1)Ch(i/)_ [[zi1]]
+
+$$
+R
+  ⽊ + 7
+U
+  U+6894
+F
+  ==
+  - [[F1.36 梔]] ::梔子核可[染]物::
+  ==
+W
+  ====
+  - [[Page~39|n82 (1)梔]]
+    ==
+    - A tree used to dye yellow, a species of Gardenia;
+    - _(4)wong (1)ch(i/)_
+        [[wong4 zi1 黃梔]],
+        the becho nut, used in dyeing, and as a medicine in fevers.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 𣑱 (⿱汍木) to 染.
+  ==
 $$
 
 ### 知1 | _(1)Ch(i/)_ [[zi1]]
