@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaau
-* %date-modified --> 2024-03-26
+* %date-modified --> 2024-04-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -301,7 +301,7 @@ W
     - Claws, talons, nails;
     - [[see $抓zaau2 for verb senses]];
     - an agent, a minion;
-    - the 87th radical;
+    - the 87th~radical;
     - _(2)ch(a/)u (4)ng(a/)_
         [[zaau2 ngaa4 爪牙]],
         claws and teeth;

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2024-04-07
+* %date-modified --> 2024-04-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1551,7 +1551,7 @@ W
     - superiors;
     - skilled, used to, practiced;
     - direct, straight;
-    - the 168th radical;
+    - the 168th~radical;
     - _(4)ch(')(e/)ung (5)(u")n_
         [[coeng4 jyun5 長遠]],
         durable;

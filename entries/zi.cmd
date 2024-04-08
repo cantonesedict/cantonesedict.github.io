@@ -229,7 +229,7 @@ W
     - diverging, parting;
     - the twelve horary characters;
     - to measure;
-    - the 65th radical;
+    - the 65th~radical;
     - _(1)p(a/)u (1)ch(i/)_
         [[baau1 zi1 包支]],
         responsible for;
@@ -619,7 +619,7 @@ W
     - to cease from, to desist, to be still;
     - to remain, to wait;
     - [[see $只2 for "only" sense]];
-    - the 77th radical of characters mostly relating to rest;
+    - the 77th~radical of characters mostly relating to rest;
     - [[...]];
     - _(1)ch(i/) (2)ch(i/)_
         [[zi1 zi2 知止]]^

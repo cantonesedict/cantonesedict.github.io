@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2024-02-25
+* %date-modified --> 2024-04-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -561,7 +561,7 @@ W
     - to discriminate;
     - an ancient feudal state comprising the part of Sh(a/)ntung [[山東]]
       east of T(')(a/)i sh(a/)n [[泰山]];
-    - the 210th radical;
+    - the 210th~radical;
     - _(2)ching (4)ts(')ai_
         [[zing2 cai4 整齊]],
         well arranged, properly placed;
