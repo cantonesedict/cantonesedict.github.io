@@ -552,6 +552,7 @@ $$
 - $址2
 - $止2
 - $沚2
+- $祉2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -687,6 +688,36 @@ W
     - _(2)chi(u/) (2)ch(i/)_
         [[ziu2 zi2 沼沚]],
         an islet in a pond.
+    ==
+  ====
+$$
+
+### 祉2 | _(2)Ch(i/)_ [[zi2]]
+
+$$
+R
+  ⽰ + 4
+U
+  U+7949
+V
+  ==
+  - ci2 (expected from 敕里切)
+  ==
+F
+  ==
+  - [[F1.39 祉]] 福祉
+  ==
+W
+  ====
+  - [[Page~39|n82 (2)祉]]
+    ==
+    - Happiness;
+    - _fuk(7) (2)ch(i/)_
+        [[fuk1 zi2 福祉]],
+        blessed, happy, enduring felicity;
+    - _(1)k(a/) (2)ch(i/)_
+        [[gaa1 zi2 嘉祉]],
+        good fortune.
     ==
   ====
 $$
