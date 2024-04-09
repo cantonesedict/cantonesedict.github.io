@@ -588,6 +588,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $祇zi2
       - $祉zi2
       ==
       </nav>
