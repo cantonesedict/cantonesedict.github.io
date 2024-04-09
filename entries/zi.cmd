@@ -442,11 +442,6 @@ W
         to venerate.
     ==
   ====
-C
-  ==
-  - Strictly, the portion 但也又音其 of the explanation given by Fan Wan
-    for~祗 should actually be for~祇.
-  ==
 S
   ==
   - $祗zi2
@@ -654,8 +649,6 @@ W
   ====
 C
   ==
-  - Strictly, the portion 但也又音其 of the explanation given by Fan Wan
-    for~祗 should actually be for~祇.
   - The sense in the example 樂只君子 given by Fan Wan
     for 只 is classical speech-assist.
   ==
@@ -982,11 +975,6 @@ W
     [[Otherwise, an alternative form of 只 (for "only" senses). **See $只zi2 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - Strictly, the portion 但也又音其 of the explanation given by Fan Wan
-    for~祗 should actually be for~祇.
-  ==
 S
   ==
   - $祗zi1
