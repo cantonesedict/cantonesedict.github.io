@@ -556,6 +556,7 @@ $$
 - $止2
 - $沚2
 - $祉2
+- $祗2
 - $紙2
 - $趾2
 - $阯2
@@ -574,10 +575,12 @@ U
 A
   ==
   - $止2
+  - $祗2
   ==
 F
   ==
   - [[F1.39 止]] 息也定也但也
+  - [[F1.39 祗]] 敬也但也又音其
   - [[F1.39 只]] 樂只君子
   ==
 W
@@ -599,11 +602,26 @@ W
         only so many;
     - [[...]].
     ==
+  - [[Page~40|n83 (2)祗; here normalised to 只]]
+    ==
+    - [[...]];
+    - only, but merely, however, yet;
+    - [[...]];
+    - _(2)ch(i/) (2)ts(')z'_
+        [[zi2 ci2 只此]]
+        only this;
+    - _(2)ch(i/) (5)yau yat(7) y(e/)ung(6)_
+        [[zi2 jau5 jat1 joeng6 只有一樣]]
+        only one sort;
+    - [[...]].
+    ==
   ====
 C
   ==
-  - The sense in the example given by Fan Wan (樂只君子)
-    is classical speech-assist.
+  - The sense in the example 樂只君子 given by Fan Wan
+    for 只-proper is classical speech-assist.
+  - Strictly, the explanation 但也又音其 given by Fan Wan
+    for~祗 should actually be for~祇.
   ==
 S
   ==
@@ -826,7 +844,7 @@ W
     - interrupted, stopped;
     - to cease from, to desist, to be still;
     - to remain, to wait;
-    - [[see $只2 for "only" sense]];
+    - [[see $只2 for "only" senses]];
     - the 77th~radical of characters mostly relating to rest;
     - [[...]];
     - _(1)ch(i/) (2)ch(i/)_
@@ -901,6 +919,38 @@ W
         good fortune.
     ==
   ====
+$$
+
+### 祗2 | _(2)Ch(i/)_ [[zi2]]
+
+$$
+R
+  ⽰ + 5
+U
+  U+7957
+F
+  ==
+  - [[F1.39 祗]] 敬也但也又音其
+  ==
+W
+  ====
+  - [[Page~40|n83 (2)祗]]
+    --
+    [[Idiosyncratic reading from Fan Wan (for "respect" senses). **See $祗zi1 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 只 (for "only" senses). **See $只zi2 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Strictly, the explanation 但也又音其 given by Fan Wan
+    for~祗 should actually be for~祇.
+  ==
+S
+  ==
+  - $祗zi1
+  ==
 $$
 
 ### 紙2 | _(2)Ch(i/)_ [[zi2]]
