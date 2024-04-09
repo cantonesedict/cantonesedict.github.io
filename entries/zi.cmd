@@ -698,7 +698,7 @@ U
   U+5E0B
 F
   ==
-  - [[F1.39 紙]] 字紙
+  - [[F1.39 ::[紙]::]] ::字[紙]::
   - [[F1.39 帋]] 帋帛
   ==
 W
@@ -708,6 +708,10 @@ W
     [[Alternative form of 紙. **See $紙zi2 for the canonical entry.**]]
     --
   ====
+C
+  ==
+  - Fan Wan entry: Corrected headword ⿰糸氐 to 紙.
+  ==
 $$
 
 ### 指2 | _(2)Ch(i/)_ [[zi2]]
@@ -1002,7 +1006,7 @@ A
   ==
 F
   ==
-  - [[F1.39 紙]] 字紙
+  - [[F1.39 ::[紙]::]] ::字[紙]::
   - [[F1.39 帋]] 帋帛
   ==
 W
@@ -1066,6 +1070,7 @@ W
   ====
 C
   ==
+  - Fan Wan entry: Corrected headword ⿰糸氐 to 紙.
   - Williams' 草紙: Also dated for toilet paper.
   ==
 E
