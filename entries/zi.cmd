@@ -600,6 +600,11 @@ W
     - [[...]].
     ==
   ====
+C
+  ==
+  - The sense in the example given by Fan Wan (樂只君子)
+    is classical speech-assist.
+  ==
 S
   ==
   - $只zat1
