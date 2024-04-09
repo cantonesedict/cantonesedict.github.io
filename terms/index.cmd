@@ -314,6 +314,9 @@ window.onload = applyFilter;
     , daai6 zan6 zoeng6
     , [大陣仗](/entries/zoeng#cantonese-大陣仗)
   //
+    , faa1 zi2
+    , [花紙](/entries/zi#cantonese-花紙)
+  //
     , gaa1 ze2-1
     , [家姐](/entries/ze#cantonese-家姐)
   //
@@ -322,6 +325,12 @@ window.onload = applyFilter;
   //
     , gaat6 zaat6-2
     , [曱甴](/entries/zaat#cantonese-曱甴)
+  //
+    , gaau1 zi2
+    , [膠紙](/entries/zi#cantonese-膠紙)
+  //
+    , gai1 pei4 zi2
+    , [雞皮紙](/entries/zi#cantonese-雞皮紙)
   //
     , gam3 zai6
     , [咁嚌](/entries/zai#cantonese-咁嚌)

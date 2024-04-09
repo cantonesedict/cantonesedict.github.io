@@ -555,6 +555,7 @@ $$
 - $止2
 - $沚2
 - $祉2
+- $紙2
 - $趾2
 - $阯2
 - $黹2
@@ -872,6 +873,101 @@ W
         [[gaa1 zi2 嘉祉]],
         good fortune.
     ==
+  ====
+$$
+
+### 紙2 | _(2)Ch(i/)_ [[zi2]]
+
+$$
+R
+  ⽷ + 4
+U
+  U+7D19
+A
+  ==
+  - $帋2
+  ==
+F
+  ==
+  - [[F1.39 紙]] 字紙
+  ==
+W
+  ====
+  - [[Page~39|n82 (2)帋(2)紙]]
+    ==
+    - Paper;
+    - a document;
+    - _yat(7) (1)ch(e/)ung (2)ch(i/)_
+        [[jat1 zoeng1 zi2 一張紙]],
+        a sheet of paper;
+    - _(1)sh(a/) (2)ch(i/)_
+        [[saa1 zi2 紗紙]],
+        wrapping paper;
+    - _(2)ts(')(o\) (2)ch(i/)_
+        [[cou2 zi2 草紙]],
+        coarse paper;
+    - _(2)ch(i/) (4)m(u/)i_
+        [[zi2 mui4 紙煤]],
+        a paper match;
+    - _(2)ch(i/) (1)t(')ung (1)f(a/)_
+        [[zi2 tung1 faa1 紙蓪花]],
+        artificial flowers;
+    - _(2)ch(i/) (4)p(')(a/)i_
+        [[zi2 paai4-2 紙牌]],
+        cards;
+    - _(2)ch(i/) p(a/)k(9)_
+        [[zi2 baak6 紙帛]]
+        paper houses and clothes burned in sacrifices;
+    - _(1)king (u")n(6) (2)ch(i/)_
+        [[ging1 jyun6 zi2 ？？紙]],
+        cotton paper;
+    - _(1)kai (4)p(')(i/) (2)ch(i/)_
+        [[gai1 pei4 zi2 雞皮紙]],
+        brown wrapping paper;
+    - _(2)ch(i/) (4)ts(')(i/)n_
+        [[zi2 cin4 紙錢]],
+        scolloped pieces of paper used at funerals to buy the road;
+    - _(4)f(a/)n (2)ch(i/)_
+        [[faan4 zi2 幡紙]],
+        sized paper;
+    - _(5)l(a/)ng (1)kam (1)ts(i/)n (2)ch(i/)_
+        [[laang5 kam1 zin1 zi2 冷金箋紙]],
+        gold dusted paper;
+    - _king(3) sik(7) tsz'(6) (2)ch(i/)_
+        [[ging3 sik1 zi6 zi2 敬惜字紙]],
+        respect written paper;
+    - _yat(7) (2)ch(i/) (1)sh(u")_
+        [[jat1 zi2 syu1 一紙書]],
+        one letter;
+    - _fong(3) (2)ch(i/) (4)i(u/)_
+        [[fong3 zi2 jiu4-2 放紙鷂]],
+        to fly a kite;
+    - _(2)t(a/) (1)shi(u/) (2)ch(i/)_
+        [[daa2 siu1 zi2 打燒紙]],
+        to torture in prison;
+    - _ch(')an(3) (2)ch(i/)_
+        [[can3 zi2 襯紙]],
+        a fly leaf.
+    ==
+  ====
+C
+  ==
+  - Williams' 草紙: Also dated for toilet paper.
+  ==
+E
+  ====
+  - 【花紙】 (faa1 zi2):
+    ++
+    1. Gift wrapping paper.
+    ++
+  - 【膠紙】 (gaau1 zi2):
+    ++
+    1. Sticky tape.
+    ++
+  - 【雞皮紙】 (gai1 pei4 zi2):
+    ++
+    1. Kraft paper.
+    ++
   ====
 $$
 
