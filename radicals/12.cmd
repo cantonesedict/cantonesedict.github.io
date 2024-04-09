@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 12-stroke radicals
-* %date-modified --> 2024-02-25
+* %date-modified --> 2024-04-09
 * %copyright-prior-years -->
 * %meta-description --> index of characters with 12-stroke radicals
 
@@ -69,4 +69,21 @@ For all radicals, see [Index of characters by radical](./).
 ## ⿋ (embroidery)
 
 <## radical-⿋-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 0
+    ,
+      <nav class="sideways">
+      ==
+      - $黹zi2
+      ==
+      </nav>
+''
+||||
 <## /radical-⿋-characters ##>

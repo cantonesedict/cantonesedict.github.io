@@ -557,6 +557,7 @@ $$
 - $祉2
 - $趾2
 - $阯2
+- $黹2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -932,6 +933,30 @@ W
     - _(1)K(a/)u (2)ch(i/)_
         [[gaau1 zi2 交阯]],
         Cochinchina, said to be applied to it because men and women bathed together.
+    ==
+  ====
+$$
+
+### 黹2 | _(2)Ch(i/)_ [[zi2]]
+
+$$
+R
+  ⿋ + 0
+U
+  U+9EF9
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~39|n82 (2)黹]]
+    ==
+    - To embroider;
+    - embroidered, braided;
+    - to put on braid or lace;
+    - the 204th~radical, relating to embroidery;
+    - _(1)cham (2)ch(i/)_
+        [[zam1 zi2 針黹]],
+        to sew, to do needle work.
     ==
   ====
 $$
