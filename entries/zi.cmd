@@ -58,6 +58,7 @@ $$
 - $枝1
 - $梔1
 - $知1
+- $祗1
 - $肢1
 - $脂1
 - $芝1
@@ -414,6 +415,41 @@ W
 C
   ==
   - Williams' 知覺: Now "consciousness".
+  ==
+$$
+
+###+ 祗1 | _(1)Ch(i/)_ [[zi1]]
+
+$$
+R
+  ⽰ + 5
+U
+  U+7957
+F
+  ==
+  - [[F1.39 祗 _(2)Ch(i/)_ (zi2)]] 敬也但也又音其
+  ==
+W
+  ====
+  - [[Page~40|n83 (2)祗 _(2)Ch(i/)_ (zi2); here corrected to _(1)Ch(i/)_ (zi1)]]
+    ==
+    - To respect, to invocate;
+    - [[...]];
+    - respect, awe, reverence;
+    - [[...]];
+    - _[(1)]ch(i/) king(3)_
+        [[zi1 ging3 祗敬]]
+        to venerate.
+    ==
+  ====
+C
+  ==
+  - Strictly, the explanation 但也又音其 given by Fan Wan
+    for~祗 should actually be for~祇.
+  ==
+S
+  ==
+  - $祗zi2
   ==
 $$
 
