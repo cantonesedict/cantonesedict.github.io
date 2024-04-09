@@ -444,7 +444,7 @@ W
   ====
 C
   ==
-  - Strictly, the explanation 但也又音其 given by Fan Wan
+  - Strictly, the portion 但也又音其 of the explanation given by Fan Wan
     for~祗 should actually be for~祇.
   ==
 S
@@ -656,7 +656,7 @@ C
   ==
   - The sense in the example 樂只君子 given by Fan Wan
     for 只-proper is classical speech-assist.
-  - Strictly, the explanation 但也又音其 given by Fan Wan
+  - Strictly, the portion 但也又音其 of the explanation given by Fan Wan
     for~祗 should actually be for~祇.
   ==
 S
@@ -984,7 +984,7 @@ W
   ====
 C
   ==
-  - Strictly, the explanation 但也又音其 given by Fan Wan
+  - Strictly, the portion 但也又音其 of the explanation given by Fan Wan
     for~祗 should actually be for~祇.
   ==
 S
