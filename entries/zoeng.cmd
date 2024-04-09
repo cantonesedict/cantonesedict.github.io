@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2024-04-07
+* %date-modified --> 2024-04-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -435,7 +435,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~566 (2)蔣 _(2)Ts(e/)ung_ (zoeng2); here corrected to (1)蔣 _(1)Ts(e/)ung_ (zoeng1)]]
+  - [[Page~566 (2)蔣 _(2)Ts(e/)ung_ (zoeng2); here corrected to _(1)Ts(e/)ung_ (zoeng1)]]
     ==
     - [[...]];
     - _(1)k(u/) [(1)]ts(e/)ung_
