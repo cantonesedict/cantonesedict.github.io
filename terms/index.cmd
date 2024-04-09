@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of Cantonese terms by Jyutping
-* %date-modified --> 2024-04-08
+* %date-modified --> 2024-04-09
 * %copyright-prior-years --> 2023--
 * %meta-description --> searchable index of Cantonese terms by Jyutping
 
@@ -332,6 +332,9 @@ window.onload = applyFilter;
     , goek3 zi2 gung1
     , [腳趾公](/entries/zi#cantonese-腳趾公)
   //
+    , goek3 zi2 mei5-1
+    , [腳趾尾](/entries/zi#cantonese-腳趾尾)
+  //
     , ham6 gaa1 caan2
     , [冚家剷](/entries/caan#cantonese-冚家剷)
   //
@@ -389,6 +392,9 @@ window.onload = applyFilter;
     , maa4 zoek3-2
     , [麻雀](/entries/zoek#cantonese-麻雀)
   //
+    , mei5-1 zi2
+    , [尾指](/entries/zi#cantonese-尾指)
+  //
     , mun4 caam5
     , [門棖](/entries/caam#cantonese-門棖)
   //
@@ -406,6 +412,15 @@ window.onload = applyFilter;
   //
     , sai3 ze2
     , [細姐](/entries/ze#cantonese-細姐)
+  //
+    , sau2 zi2 gung1
+    , [手指公](/entries/zi#cantonese-手指公)
+  //
+    , sau2 zi2 mei5-1
+    , [手指尾](/entries/zi#cantonese-手指尾)
+  //
+    , sik6 zi2
+    , [食指](/entries/zi#cantonese-食指)
   //
     , waa6 zaai1
     , [話齋](/entries/zaai#cantonese-話齋)
@@ -628,6 +643,9 @@ window.onload = applyFilter;
   //
     , zek3 cau1
     , [隻抽](/entries/cau#cantonese-隻抽)
+  //
+    , zi2 ji5
+    , [指擬](/entries/zi#cantonese-指擬)
   //
     , zoek3
     , [着~\(wear\)](/entries/zoek#cantonese-着-wear)

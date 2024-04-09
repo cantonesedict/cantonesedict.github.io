@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-04-08
+* %date-modified --> 2024-04-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -550,6 +550,7 @@ $$
 =={.modern}
 - $只2
 - $址2
+- $指2
 - $旨2
 - $止2
 - $沚2
@@ -623,6 +624,113 @@ W
         [[gei1 zi2 基址]],
         a foundation, a base, a dependance.
     ==
+  ====
+$$
+
+### 指2 | _(2)Ch(i/)_ [[zi2]]
+
+$$
+R
+  ⼿ + 6
+U
+  U+6307
+F
+  ==
+  - [[F1.39 指]] 手指又指示也
+  ==
+W
+  ====
+  - [[Page~39|n82 (2)指]]
+    ==
+    - A finger, a toe;
+    - to point, to refer to;
+    - to teach, to command;
+    - a particular, a mode;
+    - to point out;
+    - used for the last [[$旨2]];
+    - _(2)ch(i/) (4)n(a/)m [(1)k(u")]_
+        [[zi2 naam4 geoi1 指南車]],
+        the compass;
+    - _shap(9) (2)ch(i/) (4)t(')(a/)n (1)pang_
+        [[sap6 zi2 taan4 bang1 十指彈崩]],
+        to snap the fingers in vexation;
+    - _(1)m(a/) (2)ch(i/)_
+        [[maa1 zi2 孖指]],
+        a double finger;
+    - _(2)ch(i/) (2)shau w(a/)k(9) k(e/)uk(8)_
+        [[zi2 sau2 waak6 goek3 指手畫腳]]
+        gesticulation;
+    - _(2)ch(i/) mong(6)_
+        [[zi2 mong6 指望]]
+        to expect;
+    - _(4)m(o\) (2)ch(i/) (5)(i/)_
+        [[mou4 zi2 ji5 無指擬]],
+        no chance of, cannot obtain;
+    - _(2)ch(i/) (1)tung (2)ch(i/) (1)sai_
+        [[zi2 dung1 zi2 sai1 指東指西]],
+        pointing this way and that, befooling;
+    - _(2)ch(i/) sh(i/)(6)_
+        [[zi2 si6 指示]]
+        to point out;
+    - _(2)shau (2)ch(i/) (1)kung_
+        [[sau2 zi2 gung1 手指公]],
+        the thumb;
+    - _shik(9) (2)ch(i/)_
+        [[sik6 zi2 食指]],
+        forefinger;
+    - _(4)m(o\) (4)ming (2)ch(i/)_
+        [[mou4 ming4 zi2 無名指]]^
+        ring-finger;
+    - _(2)ch(i/) (2)t(i/)m_
+        [[zi2 dim2 指點]],
+        to show how;
+    - _(2)ch(i/) k(a/)p(8)_
+        [[zi2 gaap3 指甲]]
+        a finger nail;
+    - _(2)ch(i/) k(a/)p(8) (1)f(a/)_
+        [[zi2 gaap3 faa1 指甲花]],
+        the henna _(Lawsonia inermis)_;
+    - _(2)ch(i/) shat(9)_
+        [[zi2 sat6 指實]]
+        certain, sure.
+    ==
+  ====
+C
+  ==
+  - Williams' 指南車: Corrected _(1)ch(')(e/)_ [[ce1]] to _(1)k(u")_ [[geoi1]].
+    Strictly, this is the south-pointing chariot.
+    The compass is now called 指南針.
+  - Williams' 指手畫腳: Figuratively, to make overt criticism, to assume authority and give out orders, etc.
+  ==
+E
+  ====
+  - 【尾指】 (mei5-1 zi2)
+    ++
+    1. The pinky.
+    ++
+  - 【手指公】 (sau2 zi2 gung1)
+    ++
+    1. The thumb.
+    ++
+  - 【手指尾】 (sau2 zi2 mei5-1)
+    ++
+    1. The pinky.
+    ++
+  - 【食指】 (sik6 zi2)
+    ++
+    1. The index finger.
+    ++
+  - 【指擬】 (zi2 ji5):
+    ++
+    1. To rely on.
+       ==
+       - 指擬佢就弊 (zi2 ji5 keoi5 zau6 bai6): "Relying on him [we'd] be stuffed."
+       ==
+    1. To hope for.
+       ==
+       - 唔使指擬買屋 (m4 sai2 zi2 ji5 maai5 uk1): "Needn't [bother] hoping to buy [a] house."
+       ==
+    ++
   ====
 $$
 
@@ -797,6 +905,10 @@ E
   - 【腳趾公】 (goek3 zi2 gung1):
     ++
     1. The big toe.
+    ++
+  - 【腳趾尾】 (goek3 zi2 mei5-1)
+    ++
+    1. The little toe.
     ++
   ====
 $$
