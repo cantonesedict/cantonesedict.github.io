@@ -1351,6 +1351,7 @@ $$
 - $𫪦 (⿰口知)3
 - $志3
 - $誌3
+- $識3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -1452,4 +1453,29 @@ W
         mind is fixed on this.
     ==
   ====
+$$
+
+### 識3 | _Ch(i/)(3)_ [[zi3]]
+
+$$
+R
+  ⾔ + 12
+U
+  U+8B58
+F
+  ==
+  - [[F1.41 誌]] 記也
+  - [[F1.41 識]] 同上
+  ==
+W
+  ====
+  - [[Page~40|n83 誌(3)識(3)]]
+    --
+    [[Alternative form of 誌. **See $誌zi3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $識sik1
+  ==
 $$
