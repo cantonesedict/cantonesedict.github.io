@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-04-09
+* %date-modified --> 2024-04-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -590,6 +590,7 @@ $$
 - $祉2
 - $祗2
 - $紙2
+- $衹2
 - $趾2
 - $阯2
 - $黹2
@@ -609,7 +610,7 @@ A
   - $止2
   - $祇2
   - $祗2
-  -{.modern} 衹
+  -{.modern} $衹2
   ==
 F
   ==
@@ -1105,6 +1106,27 @@ E
     1. Kraft paper.
     ++
   ====
+$$
+
+###+ 衹2 | _(2)Ch(i/)_ [[zi2]]
+
+$$
+R
+  ⾐ + 4
+U
+  U+8879
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Alternative form of 只. **See $只zi2 for the canonical entry.**
+  ==
+S
+  ==
+  - $衹kei4 (TODO)
+  ==
 $$
 
 ### 趾2 | _(2)Ch(i/)_ [[zi2]]
