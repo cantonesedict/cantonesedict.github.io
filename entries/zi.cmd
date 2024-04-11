@@ -580,6 +580,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $只2
+- $咫2
 - $址2
 - $帋2
 - $指2
@@ -659,6 +660,35 @@ C
 S
   ==
   - $只zat1
+  ==
+$$
+
+### 咫2 | _(2)Ch(i/)_ [[zi2]]
+
+$$
+R
+  ⼝ + 6
+U
+  U+54AB
+F
+  ==
+  - [[F1.39 咫]] ::咫尺八[寸]曰咫::
+  ==
+W
+  ====
+  - [[Page~40|n83 (2)咫]]
+    ==
+    - An ancient short cubit of 8~_ts(')(u")n_ [[寸]],
+      same as an English foot;
+    - small degree of;
+    - _(2)ch(i/) ch(')ek(8) (1)ch(i/) t(i/)(6)_
+        [[zi2 cek3 zi1 dei6 咫尺之地]]
+        a little way, a small interval.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected (second) 尺 to 寸.
   ==
 $$
 
