@@ -583,6 +583,7 @@ $$
 - $咫2
 - $址2
 - $帋2
+- $徵2
 - $指2
 - $旨2
 - $枳2
@@ -740,6 +741,35 @@ W
 C
   ==
   - Fan Wan entry: Corrected headword ⿰糸氐 to 紙.
+  ==
+$$
+
+###+ 徵2 | _(2)Ch(i/)_ [[zi2]]
+
+$$
+R
+  ⼻ + 12
+U
+  U+5FB5
+F
+  ==
+  - [[F1.39 徵]] 五音之一
+  ==
+W
+  [[Not present]]
+C
+  ==
+  - The reading _(2)ch(i/)_ [[zi2]] for 徵 is not present in Williams;
+    an entry is included here for completeness.
+    ++
+    1. The note a perfect fifth (ratio 81:54 = 3:2 under 史記 tuning)
+       above 宮 in the olden Chinese pentatonic scale,
+       equivalent to _sol_ in solfège.
+    ++
+  ==
+S
+  ==
+  - $徵zing1 (TODO)
   ==
 $$
 

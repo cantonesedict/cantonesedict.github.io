@@ -958,4 +958,21 @@ For all radicals, see [Index of characters by radical](./).
 ## ⼻ (step)
 
 <## radical-⼻-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 12
+    ,
+      <nav class="sideways">
+      ==
+      - $徵zi2
+      ==
+      </nav>
+''
+||||
 <## /radical-⼻-characters ##>
