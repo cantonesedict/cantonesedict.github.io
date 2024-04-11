@@ -72,6 +72,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Character entry links
 |:
   //
+    , 3
+    ,
+      <nav class="sideways">
+      ==
+      - $志zi3
+      ==
+      </nav>
+  //
     , 5
     ,
       <nav class="sideways">

@@ -1349,6 +1349,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $𫪦 (⿰口知)3
+- $志3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -1370,6 +1371,43 @@ W
     - _(4)loi m(i/)(6) ch(i/)(3)_
         [[loi4 mei6 zi3 來未𫪦]]
         I doubt if he is here yet.
+    ==
+  ====
+$$
+
+### 志3 | _Ch(i/)(3)_ [[zi3]]
+
+$$
+R
+  ⼼ + 3
+U
+  U+5FD7
+F
+  ==
+  - [[F1.41 志]] 心之所之也
+  ==
+W
+  ====
+  - [[Page~40|n83 志(3)]]
+    ==
+    - The will, the inclination;
+    - a good resolution, a resolve;
+    - a sense of right, firm purpose;
+    - to record;
+    - history, annals;
+    - statistical or topographical works;
+    - _t(a/)i(6) ch(i/)(3)_
+        [[daai6 zi3 大志]]
+        high thoughts;
+    - _ch(')ut(7) tak(7) ch(i/)(3)_
+        [[ceot1 dak1 zi3 出得志]]
+        not abashed by ridicule, conscious of power;
+    - _ch(i/)(3) h(e/)ung(3)_
+        [[zi3 hoeng3 志向]]
+        desire, inclination;
+    - _ch(i/)(3) (4)shing_
+        [[zi3 sing4 志誠]],
+        ingenuous, guileless.
     ==
   ====
 $$
