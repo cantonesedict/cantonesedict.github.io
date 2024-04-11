@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [zi1](#1)
 - [zi2](#2)
+- [zi3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -1337,6 +1338,38 @@ W
     - _(1)cham (2)ch(i/)_
         [[zam1 zi2 針黹]],
         to sew, to do needle work.
+    ==
+  ====
+$$
+
+
+##{#3 .williams} Ch(i/)(3) [[zi3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $𫪦 (⿰口知)3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 𫪦3 [[⿰口知]] | _Ch(i/)(3)_ [[zi3]]
+
+$$
+R
+  ⼝ + 8
+U
+  U+2BAA6
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~40|n83 𫪦(3) (⿰口知)]]
+    ==
+    - A colloquial particle, implying doubt;
+    - _(4)loi m(i/)(6) ch(i/)(3)_
+        [[loi4 mei6 zi3 來未𫪦]]
+        I doubt if he is here yet.
     ==
   ====
 $$
