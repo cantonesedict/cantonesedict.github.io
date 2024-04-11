@@ -1351,6 +1351,7 @@ $$
 - $𫪦 (⿰口知)3
 - $志3
 - $痣3
+- $至3
 - $誌3
 - $識3
 ==
@@ -1436,6 +1437,90 @@ W
         [[min6 zi3 面痣]]
         spots on the face.
     ==
+  ====
+$$
+
+### 至3 | _Ch(i/)(3)_ [[zi3]]
+
+$$
+R
+  ⾄ + 0
+U
+  U+81F3
+F
+  ==
+  - [[F1.41 至]] 到也極也
+  ==
+W
+  ====
+  - [[Page~40|n83 至(3)]]
+    ==
+    - To come, to go to, to reach;
+    - to arrive, the summit or end;
+    - a preposition, to, at, even, till, up to;
+    - as to, respecting, in order to;
+    - an adverb, much, greatly;
+    - most, very, the superlative degree;
+    - the solstice;
+    - the 133d~radical;
+    - _ch(i/)(3) kik(9)_
+        [[zi3 gik6 至極]]
+        at the very extreme;
+    - _tsz'(6) (2)k(u/) ch(i/)(3) (1)kam_
+        [[zi6 gu2 zi3 gam1 自古至今]],
+        from of old till now;
+    - _(4)m(o\) (2)sho pat(7) ch(i/)(3)_
+        [[mou4 so2 bat1 zi3 無所不至]]
+        he goes every where, he is very wild;
+    - _ch(i/)(3) (1)kw(a/)n (2)kan i(u/)(3)_
+        [[zi3 gwaan1 gan2 jiu3 至關緊要]]
+        of the highest moment;
+    - _(1)tung ch(i/)(3)_
+        [[dung1 zi3 冬至]]
+        the winter solstice;
+    - _ch(i/)(3) (1)(u")_
+        [[zi3 jyu1 至於]],
+        with respect to;
+    - _ch(i/)(3) (2)shi(u/)_
+        [[zi3 siu2 至少]],
+        the least of;
+    - _hak(7) ch(i/)(3)_
+        [[hak1 zi3 刻至]]
+        he will come soon;
+    - _ch(i/)(3) t(o\)(3)_
+        [[zi3 dou3 至到]]
+        to arrive;
+    - _ch(i/)(3) (2)h(o\)_
+        [[zi3 hou2 至好]],
+        the best;
+    - _ch(i/)(3) ch(e/)uk[(9)]_
+        [[zi3 zoek6 至着]]
+        everything proper;
+    - _ch(i/)(3) (4)shing_
+        [[zi3 sing4 至誠]],
+        wholly sincere;
+    - _ch(i/)(3) (2)kan_
+        [[zi3 gan2 至緊]],
+        urgent;
+    - _kat(7) ch(i/)(3)_
+        [[gat1 zi3 訖至]]
+        a little while, presently.
+    ==
+  ====
+C
+  ==
+  - Williams' 至到: In the vernacular register, "until".
+  - Williams' 至着: Corrected _ch(e/)uk(8)_ [[zoek3]] to _ch(e/)uk(9)_ [[zoek6]].
+  ==
+E
+  ====
+  - 【至】 (zi3):
+    ++
+    1. Short for [先至](sin#cantonese-先至) ("only", "only then"). [[TODO]]
+       ==
+       - 噉至得咖嘛 (gam2 zi3 dak1 ga1 maa3): "Only like so [will it] work."
+       ==
+    ++
   ====
 $$
 
