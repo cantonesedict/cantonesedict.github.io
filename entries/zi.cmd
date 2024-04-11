@@ -1350,6 +1350,7 @@ $$
 =={.modern}
 - $𫪦 (⿰口知)3
 - $志3
+- $誌3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -1408,6 +1409,47 @@ W
     - _ch(i/)(3) (4)shing_
         [[zi3 sing4 志誠]],
         ingenuous, guileless.
+    ==
+  ====
+$$
+
+### 誌3 | _Ch(i/)(3)_ [[zi3]]
+
+$$
+R
+  ⾔ + 7
+U
+  U+8A8C
+A
+  ==
+  -{.modern} $志3
+  - $識3
+  ==
+F
+  ==
+  - [[F1.41 誌]] 記也
+  - [[F1.41 識]] 同上
+  ==
+W
+  ====
+  - [[Page~40|n83 誌(3)識(3)]]
+    ==
+    - To remember;
+    - to record;
+    - to write, to inscribe;
+    - used for the last [[$志3]];
+    - _m(o\)(6) ch(i/)(3)_
+        [[mou6 zi3 墓誌]]
+        an epitaph, a eulogy;
+    - _(1)s(a/)m kwok(8) ch(i/)(3)_
+        [[saam1 gwok3 zi3 三國誌]]
+        annals of the Three States;
+    - _ch(i/)(3) (1)sh(u")_
+        [[zi3 syu1 誌書]],
+        history, records;
+    - _ch(i/)(3) (1)u(") (2)ts(')z'_
+        [[zi3 jyu1 ci2 誌於此]]
+        mind is fixed on this.
     ==
   ====
 $$
