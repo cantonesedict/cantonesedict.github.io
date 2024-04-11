@@ -1350,6 +1350,7 @@ $$
 =={.modern}
 - $𫪦 (⿰口知)3
 - $志3
+- $痣3
 - $誌3
 - $識3
 ==
@@ -1410,6 +1411,30 @@ W
     - _ch(i/)(3) (4)shing_
         [[zi3 sing4 志誠]],
         ingenuous, guileless.
+    ==
+  ====
+$$
+
+### 痣3 | _Ch(i/)(3)_ [[zi3]]
+
+$$
+R
+  ⽧ + 7
+U
+  U+75E3
+F
+  ==
+  - [[F1.41 痣]] 疤痣
+  ==
+W
+  ====
+  - [[Page~40|n83 痣(3)]]
+    ==
+    - A mole, a hair-mole;
+    - black or red spots on the body;
+    - _m(i/)n(6) ch(i/)(3)_
+        [[min6 zi3 面痣]]
+        spots on the face.
     ==
   ====
 $$
