@@ -594,6 +594,7 @@ $$
 - $紙2
 - $衹2
 - $趾2
+- $軹2
 - $阯2
 - $黹2
 ==
@@ -1240,6 +1241,26 @@ E
     ++
     1. The little toe.
     ++
+  ====
+$$
+
+### 軹2 | _(2)Ch(i/)_ [[zi2]]
+
+$$
+R
+  ⾞ + 5
+U
+  U+8EF9
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~40|n83 (2)軹]]
+    ==
+    - The hole in the hub of a wheel, [where] the nave projects;
+    - the end of the nave projecting from the hub;
+    - diverging, like the forks of a road.
+    ==
   ====
 $$
 
