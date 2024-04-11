@@ -585,6 +585,7 @@ $$
 - $帋2
 - $指2
 - $旨2
+- $枳2
 - $止2
 - $沚2
 - $祇2
@@ -887,6 +888,50 @@ W
         an important remark, a synopsis.
     ==
   ====
+$$
+
+### 枳2 | _(2)Ch(i/)_ [[zi2]]
+
+$$
+R
+  ⽊ + 5
+U
+  U+67B3
+F
+  ==
+  - [[F1.39 枳]] ::枳[棘]又枳殼藥名::
+  ==
+W
+  ====
+  - [[Page~40|n83 (2)枳]]
+    ==
+    - A hedge thorn, a spinous tree;
+    - a fruit like a pumelo, with a thick skin;
+    - hurtful, like thorns;
+    - _(2)ch(i/) kik(7)_
+        [[zi2 gik1 枳棘]]
+        hedged up;
+        thorny;
+    - _(2)ch(i/) k(u")(6)_
+        [[zi2 geoi6 枳椇]]
+        the _Hovenia dulcis_;
+    - _(2)ch(i/) hok(8)_
+        [[zi2 hok3 枳殼]]
+        its seeds, used for medicine.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised 𣗥 (⿰束束) to 棘.
+  - Williams' 枳椇: Kangxi quotes 《集韻》舉綺切《韻會》居矣切𠀤音己,
+    i.e. a reading of _(2)k(i/)_ [[gei2]], for 枳椇.
+  - Williams' 枳殼: Not _Hovenia dulcis_ seeds,
+    but the skin of the Chinese bitter orange.
+  ==
+S
+  ==
+  - $枳zat1
+  ==
 $$
 
 ### 止2 | _(2)Ch(i/)_ [[zi2]]
