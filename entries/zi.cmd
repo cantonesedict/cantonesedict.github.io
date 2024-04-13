@@ -1353,6 +1353,7 @@ $$
 - $志3
 - $摯3
 - $智3
+- $疐3
 - $痣3
 - $緻3
 - $置3
@@ -1519,6 +1520,31 @@ W
         indiscreet.
     ==
   ====
+$$
+
+### 疐3 | _Ch(i/)(3)_ [[zi3]]
+
+$$
+R
+  ⽦ + 9
+U
+  U+7590
+F
+  ==
+  - [[F1.41 疐]] ::[礙]不行也::
+  ==
+W
+  ====
+  - [[Page~9* 疐(3)]]
+    ==
+    - Hindered, embarrassed, prevented from acting or advancing;
+    - to slink away, as a dog does.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 癡 to 礙.
+  ==
 $$
 
 ### 痣3 | _Ch(i/)(3)_ [[zi3]]
