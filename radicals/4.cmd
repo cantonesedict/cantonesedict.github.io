@@ -1072,6 +1072,14 @@ For all radicals, see [Index of characters by radical](./).
       ==
       </nav>
   //
+    , 5
+    ,
+      <nav class="sideways">
+      ==
+      - $治zi6
+      ==
+      </nav>
+  //
     , 6
     ,
       <nav class="sideways">

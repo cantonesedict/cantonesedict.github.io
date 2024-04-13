@@ -24,6 +24,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [zi1](#1)
 - [zi2](#2)
 - [zi3](#3)
+- [zi6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -1999,4 +2000,91 @@ W
       or turning down, from the lading.
     ==
   ====
+$$
+
+
+##{#6 .williams} Ch(i/)(6) Tsz'(6) [[zi6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $治6
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 治6 | _Ch(i/)(6)_ [[zi6]]
+
+$$
+R
+  ⽔ + 5
+U
+  U+6CBB
+V
+  ==
+  - ci4 (for literary verb senses)
+  ==
+F
+  ==
+  - [[F1.43 治]] 理也平也
+  ==
+W
+  ====
+  - [[Page~9* 治(6)]]
+    ==
+    - [[See $治ci4 for proper-noun senses]];
+    - to govern, to rule well, to manage;
+    - to heal;
+    - to oversee, to care for;
+    - to form;
+    - to try causes;
+    - experienced, talented;
+    - prosperity, good government;
+    - _ch(i/)(6) (1)song_
+        [[zi6 song1 治喪]],
+        to oversee a funeral;
+    - _ch(i/)(6) h(a/)(6) (2)ch(e/)_
+        [[zi6 haa6 ze2 治下者]],
+        subjects, the governed;
+    - _(1)(i/) ch(i/)(6)_
+        [[ji1 zi6 醫治]]
+        to cure;
+    - _(1)t(')(i/)n h(a/)(6) t(a/)i(6) ch(i/)(6)_
+        [[tin1 haa6 daai6 zi6 天下大治]]
+        the empire well governed, firm peace;
+    - _(4)m(o\) f(a/)t(8) (2)ho ch(i/)(6)_
+        [[mou4 faat3 ho2 zi6 無法可治]]
+        there's no way of managing him;
+    - _ch(i/)(6) (1)k(a/)_
+        [[zi6 gaa1 治家]],
+        to order a family;
+    - _ch(i/)(6) l(u")n(6)_
+        [[zi6 lyun6 治亂]]
+        to suppress rebellion.
+    ==
+  ====
+C
+  ====
+  - The level-tone reading _(4)ch(')(i/)_ [[ci4]] is the classical reading
+    for verb senses of govern (e.g. 治國 "govern [the] nation"),
+    as opposed to departing-tone _ch(i/)(6)_ [[zi6]]
+    for adjective senses of govern (e.g. 國治 "[the] nation governed").
+    Notwithstanding, the only conclusion that can be drawn from 《廣韻》
+    is that the proper-noun sense is in level tone:
+    ==
+    - ::B1.w127b1002 (:直之切:) (:治:) 水名出東萊(:亦理也:)::
+    - ::B4.w408a0405 (:直利切:) (:治:) (:治理也又直之切:)::
+    - ::B4.w409b0706 (:直吏切:) (:治:) (:治理也又丈之切:)::
+    ==
+    Nevertheless, the distinction in reading between the verb "govern"
+    and the adjective "governed" is not made up.
+    In 《大學章句》, 治其國 is annotated with 治平聲,
+    whilst 國治 is annotated with 治去聲.
+  - In modern usage, level-tone _(4)ch(')(i/)_ [[ci4]]
+    is considered obsolete.
+  ====
+S
+  ==
+  - $治ci4 (TODO)
+  ==
 $$
