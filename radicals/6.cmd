@@ -261,6 +261,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $緝cap1
+      - $緻zi3
       ==
       </nav>
   //

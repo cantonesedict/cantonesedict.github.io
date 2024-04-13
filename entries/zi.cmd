@@ -1351,6 +1351,7 @@ $$
 - $𫪦 (⿰口知)3
 - $志3
 - $痣3
+- $緻3
 - $至3
 - $致3
 - $誌3
@@ -1437,6 +1438,40 @@ W
     - _m(i/)n(6) ch(i/)(3)_
         [[min6 zi3 面痣]]
         spots on the face.
+    ==
+  ====
+$$
+
+### 緻3 | _Ch(i/)(3)_ [[zi3]]
+
+$$
+R
+  ⽷ + 9
+U
+  U+7DFB
+V
+  ==
+  - zi6 (expected from 直利切)
+  ==
+F
+  ==
+  - [[F1.41 緻]] 精緻
+  ==
+W
+  ====
+  - [[Page~9* 緻(3)]]
+    ==
+    - To mend clothes;
+    - close, fine, as cloth;
+    - soft, delicate;
+    - tattered;
+    - handsome, elegant;
+    - _(1)tsing ch(i/)(3)_
+        [[zing1 zi3 精緻]]
+        beautiful, fine, delicate;
+    - _sai(3) ch(i/)(3)_
+        [[sai3 zi3 細緻]]
+        careful, particular.
     ==
   ====
 $$
