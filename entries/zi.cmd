@@ -1349,6 +1349,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $𫪦 (⿰口知)3
+- $寘3
 - $志3
 - $摯3
 - $智3
@@ -1387,6 +1388,31 @@ W
         I doubt if he is here yet.
     ==
   ====
+$$
+
+### 寘3 | _Ch(i/)(3)_ [[zi3]]
+
+$$
+R
+  ⼧ + 10
+U
+  U+5BD8
+F
+  ==
+  - [[F1.41 置]] 立也又安厝也又棄也
+  - [[F1.41 寘]] 同上
+  ==
+W
+  ====
+  - [[Page~9* 置(3)寘(3)]]
+    --
+    [[Alternative form of 置. **See $置zi3 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan and Williams both print 置 with last stroke ㇗, and 寘 as ⿰宀眞.
+  ==
 $$
 
 ### 志3 | _Ch(i/)(3)_ [[zi3]]
