@@ -2011,6 +2011,7 @@ $$
 - $値6
 - $值6
 - $治6
+- $稚6
 - $雉6
 ==
 </nav>
@@ -2154,6 +2155,43 @@ S
   ==
   - $治ci4 (TODO)
   ==
+$$
+
+### 稚6 | _Ch(i/)(6)_ [[zi6]]
+
+$$
+R
+  ⽲ + 8
+U
+  U+7A1A
+A
+  ==
+  -{.modern} 稺
+  - $穉6
+  ==
+F
+  ==
+  - [[F1.43 稚]] 幼小之稱
+  - [[F1.43 穉]] 同上
+  ==
+W
+  ====
+  - [[Page~10* 穉(6)稚(6)]]
+    ==
+    - Small, delicate;
+    - young, tender;
+    - young grain, or that which ripens late;
+    - _(4)t(')ung ch(i/)(6)_
+        [[tung4 zi6 童稚]]
+        a youngster;
+    - _ch(i/)(6) h(i/)(3)_
+        [[zi6 hei3 稚氣]]
+        childish, immature;
+    - _ch(i/)(6) (2)tsz'_
+        [[zi6 zi2 稚子]]
+        a boy.
+    ==
+  ====
 $$
 
 ### 雉6 | _Ch(i/)(6)_ [[zi6]]
