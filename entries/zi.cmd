@@ -1356,6 +1356,7 @@ $$
 - $致3
 - $誌3
 - $識3
+- $輊3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -1678,6 +1679,27 @@ W
   ====
 S
   ==
-  - $識sik1
+  - $識sik1 (TODO)
   ==
+$$
+
+### 輊3 | _Ch(i/)(3)_ [[zi3]]
+
+$$
+R
+  ⾞ + 6
+U
+  U+8F0A
+F
+  ==
+  - [[F1.41 輊]] 車之覆而前也
+  ==
+W
+  ====
+  - [[Page~9* 輊(3)]]
+    ==
+    - A carriage with a front lower than the back,
+      or turning down, from the lading.
+    ==
+  ====
 $$
