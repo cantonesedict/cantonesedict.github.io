@@ -2011,6 +2011,7 @@ $$
 - $値6
 - $值6
 - $治6
+- $雉6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -2153,4 +2154,39 @@ S
   ==
   - $治ci4 (TODO)
   ==
+$$
+
+### 雉6 | _Ch(i/)(6)_ [[zi6]]
+
+$$
+R
+  ⾫ + 5
+U
+  U+96C9
+F
+  ==
+  - [[F1.43 雉]] 野雞
+  ==
+W
+  ====
+  - [[Page~10* 雉(6)]]
+    ==
+    - A pheasant, including also francolins;
+    - an embrasure on a wall;
+    - to rule;
+    - to put in order;
+    - _ch(i/)(6) (5)m(i/)_
+        [[zi6 mei5 雉尾]],
+        pheasant's tail feathers, used by actors;
+    - _ch(i/)(6) t(i/)p(9)_
+        [[zi6 dip6 雉堞]]
+        parapet walls;
+    - _ch(i/)(6) (1)kai_
+        [[zi6 gai1 雉雞]],
+        the Tartar pheasant;
+    - _ch(i/)(6) (4)m(u/)n_
+        [[zi6 mun4 雉門]],
+        the south door of a seraglio.
+    ==
+  ====
 $$
