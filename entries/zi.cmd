@@ -2008,10 +2008,76 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $値6
+- $值6
 - $治6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 値6 | _Ch(i/)(6)_ [[zi6]]
+
+$$
+R
+  ⼈ + 8
+U
+  U+5024
+F
+  ==
+  - [[F1.34 値 _Chai(6)_ (zai6)]] 遇也當也又音直作價值
+  ==
+W
+  ====
+  - [[Page~10* 値(6)]]
+    --
+    [[Alternative form of 值. **See $值zi6 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $値zik6 (TODO)
+  ==
+$$
+
+###+ 值6 | _Ch(i/)(6)_ [[zi6]]
+
+$$
+R
+  ⼈ + 8
+U
+  U+503C
+A
+  ==
+  - $値6
+  ==
+V
+  ==
+  - zik6 (common)
+  ==
+F
+  ==
+  - [[F1.34 値 _Chai(6)_ (zai6)]] 遇也當也又音直作價值
+  ==
+W
+  ====
+  - [[Page~10* 値(6); here normalised to 值]]
+    ==
+    - To manage, to take hold of;
+    - to occur, to meet with, to happen;
+    - _shik(7) ch(i/)(6)_
+        [[sik1 zi6 適值]]
+        it so happened.
+    ==
+  ====
+C
+  ==
+  - In modern usage, the reading _ch(i/)(6)_ [[zi6]] is obsolete.
+  ==
+S
+  ==
+  - $值zik6 (TODO)
+  ==
+$$
 
 ### 治6 | _Ch(i/)(6)_ [[zi6]]
 
