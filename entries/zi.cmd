@@ -1354,6 +1354,7 @@ $$
 - $智3
 - $痣3
 - $緻3
+- $置3
 - $至3
 - $致3
 - $觶3
@@ -1550,6 +1551,66 @@ W
         careful, particular.
     ==
   ====
+$$
+
+### 置3 | _Ch(i/)(3)_ [[zi3]]
+
+$$
+R
+  ⽹ + 8
+U
+  U+7F6E
+A
+  ==
+  - $寘3
+  ==
+F
+  ==
+  - [[F1.41 置]] 立也又安厝也又棄也
+  - [[F1.41 寘]] 同上
+  ==
+W
+  ====
+  - [[Page~9* 置(3)寘(3)]]
+    ==
+    - To make firm, to establish, to place;
+    - to appoint;
+    - to arrange;
+    - to purchase for one's self;
+    - to employ;
+    - to reject, to dismiss;
+    - to put aside;
+    - to determine, to judge, to decide;
+    - _(2)ch(')(u") ch(i/)(3)_
+        [[cyu2 zi3 處置]]
+        to punish, treat as a criminal;
+    - _ch(i/)(3) p(a/)n(6)_
+        [[zi3 baan6 置辦]]
+        to buy;
+    - _ch(i/)(3) (1)k(a/)_
+        [[zi3 gaa1 置家]],
+        to take a wife;
+    - _(1)on ch(i/)(3)_
+        [[on1 zi3 安置]]
+        to arrange a place for, as to spend the night;
+    - _fai(3) ch(i/)(3)_
+        [[fai3 zi3 廢置]]
+        to refuse, to remove;
+    - _ch(i/)(3) (1)shan sz'(6) ngoi(6)_
+        [[zi3 san1 si6 ngoi6 置身事外]]
+        it is none of my business;
+    - _n(i/)m(6) n(i/)m(6) pat(7) ch(i/)(3)_
+        [[nim6 nim6 bat1 zi3 念念不置]]
+        unceasingly thinking of it;
+    - _ch(i/)(3) (1)shan (4)m(o\) t(i/)(6)_
+        [[zi3 san1 mou4 dei6 置身無地]]
+        ashamed, no place to hide myself.
+    ==
+  ====
+C
+  ==
+  - Fan Wan and Williams both print 置 with last stroke ㇗, and 寘 as ⿰宀眞.
+  ==
 $$
 
 ### 至3 | _Ch(i/)(3)_ [[zi3]]
