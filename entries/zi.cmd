@@ -1358,6 +1358,7 @@ $$
 - $觶3
 - $誌3
 - $識3
+- $質3
 - $贄3
 - $輊3
 ==
@@ -1740,6 +1741,41 @@ W
 S
   ==
   - $識sik1 (TODO)
+  ==
+$$
+
+### 質3 | _Ch(i/)(3)_ [[zi3]]
+
+$$
+R
+  ⾙ + 8
+U
+  U+8CEA
+F
+  ==
+  - [[F1.41 質]] 留人爲當以要信也
+  ==
+W
+  ====
+  - [[Page~9* 質(3)]]
+    ==
+    - A pledge, a hostage;
+    - to pledge, to guaranty;
+    - to pawn;
+    - _on(3) ch(i/)(3)_
+        [[on3 zi3 按質]]
+        to give a pledge or guaranty;
+    - _ch(i/)(3) f(u/)(3)_
+        [[zi3 fu3 質庫]]
+        a pawnbroker's;
+    - _(1)k(a/)u ch(i/)(3)_
+        [[gaau1 zi3 交質]]
+        to exchange hostages.
+    ==
+  ====
+S
+  ==
+  - $質zat1
   ==
 $$
 

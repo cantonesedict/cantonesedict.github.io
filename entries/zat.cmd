@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zat
-* %date-modified --> 2024-04-11
+* %date-modified --> 2024-04-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -201,7 +201,7 @@ E
   <## TODO: 屈質 wat1 zat1 ##>
 S
   ==
-  - $質zi3 (TODO)
+  - $質zi3
   ==
 $$
 

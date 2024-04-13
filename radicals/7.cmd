@@ -334,6 +334,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $賫zai1
       - $質zat1
+      - $質zi3
       - $賙zau1
       - $賬zoeng3
       ==
