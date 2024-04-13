@@ -1354,6 +1354,7 @@ $$
 - $緻3
 - $至3
 - $致3
+- $觶3
 - $誌3
 - $識3
 - $輊3
@@ -1615,6 +1616,28 @@ C
   - Williams' 致使佢來: Corrected _shai(3)_ [[sai3]] to _(2)shai_ [[sai2]].
   - Williams' 致命: Now "fatal".
   ==
+$$
+
+### 觶3 | _Ch(i/)(3)_ [[zi3]]
+
+$$
+R
+  ⾓ + 12
+U
+  U+89F6
+F
+  ==
+  - [[F1.41 觶]] 酒器實曰觴虛曰觶
+  ==
+W
+  ====
+  - [[Page~9* 觶(3)]]
+    ==
+    - A goblet or cup holding three _(1)shing_ [[sing1 升]] or gills;
+    - a cup;
+    - to fine one so many cups.
+    ==
+  ====
 $$
 
 ### 誌3 | _Ch(i/)(3)_ [[zi3]]

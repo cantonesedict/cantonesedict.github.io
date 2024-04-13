@@ -74,6 +74,23 @@ For all radicals, see [Index of characters by radical](./).
 ## ⾓ (horn)
 
 <## radical-⾓-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 12
+    ,
+      <nav class="sideways">
+      ==
+      - $觶zi3
+      ==
+      </nav>
+''
+||||
 <## /radical-⾓-characters ##>
 
 
