@@ -1360,6 +1360,7 @@ $$
 - $識3
 - $質3
 - $贄3
+- $躓3
 - $輊3
 ==
 </nav>
@@ -1803,6 +1804,30 @@ W
     - _ch(i/)(3) k(i/)n(3)_
         [[zi3 gin3 贄見]]
         to visit with a present.
+    ==
+  ====
+$$
+
+### 躓3 | _Ch(i/)(3)_ [[zi3]]
+
+$$
+R
+  ⾜ + 15
+U
+  U+8E93
+F
+  ==
+  - [[F1.41 躓]] 顚蹶
+  ==
+W
+  ====
+  - [[Page~9* 躓(3)]]
+    ==
+    - To stumble;
+    - to trip and fall down;
+    - _(1)t(i/)n ch(i/)(3)_
+        [[din1 zi3 顛躓]]
+        fell headlong.
     ==
   ====
 $$

@@ -532,6 +532,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $躑zaak6
+      - $躓zi3
       ==
       </nav>
 ''
