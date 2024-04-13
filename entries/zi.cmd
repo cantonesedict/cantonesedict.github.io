@@ -360,7 +360,7 @@ W
     - to tell, to inform;
     - a fellow, a friend;
     - knowledge, wisdom
-      [[correctly departing tone _ch(i/)(3)_ (zi3) when used for 智]];
+      [[correctly departing tone _ch(i/)(3)_ (zi3) when used for $智3]];
     - to remember;
     - _(1)ch(i/) kwo(3) p(i/)t(7) (2)koi_
         [[zi1 gwo3 bit1 goi2 知過必改]],
@@ -1351,6 +1351,7 @@ $$
 - $𫪦 (⿰口知)3
 - $志3
 - $摯3
+- $智3
 - $痣3
 - $緻3
 - $至3
@@ -1455,6 +1456,40 @@ W
     - _ch(i/)(3) (2)h(i/)_
         [[zi3 hei2 摯起]],
         to pick one up.
+    ==
+  ====
+$$
+
+### 智3 | _Ch(i/)(3)_ [[zi3]]
+
+$$
+R
+  ⽇ + 8
+U
+  U+667A
+F
+  ==
+  - [[F1.41 智]] 心之明哲能辨道理也
+  ==
+W
+  ====
+  - [[Page~9* 智(3)]]
+    ==
+    - Wisdom, understanding, talent;
+    - knowledge;
+    - prudence;
+    - wise, considerate, discreet;
+    - able to manage;
+    - clever, sharp, shrewd;
+    - _ch(i/)(3) shik(7)_
+        [[zi3 sik1 智識]]
+        good judgment;
+    - _ch(i/)(3) (5)yung_
+        [[zi3 jung5 智勇]],
+        wise and brave;
+    - _(4)m(o\) ch(i/)(3)_
+        [[mou4 zi3 無智]]
+        indiscreet.
     ==
   ====
 $$

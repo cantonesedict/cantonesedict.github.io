@@ -613,6 +613,14 @@ For all radicals, see [Index of characters by radical](./).
       ==
       </nav>
   //
+    , 8
+    ,
+      <nav class="sideways">
+      ==
+      - $智zi3
+      ==
+      </nav>
+  //
     , 9
     ,
       <nav class="sideways">
