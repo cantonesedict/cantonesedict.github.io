@@ -700,6 +700,14 @@ For all radicals, see [Index of characters by radical](./).
       ==
       </nav>
   //
+    , 12
+    ,
+      <nav class="sideways">
+      ==
+      - $穉zi6
+      ==
+      </nav>
+  //
     , 14
     ,
       <nav class="sideways">
