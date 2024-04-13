@@ -2012,6 +2012,7 @@ $$
 - $值6
 - $彘6
 - $治6
+- $痔6
 - $稚6
 - $穉6
 - $雉6
@@ -2195,6 +2196,39 @@ S
   ==
   - $治ci4 (TODO)
   ==
+$$
+
+### 痔6 | _Ch(i/)(6)_ [[zi6]]
+
+$$
+R
+  ⽧ + 6
+U
+  U+75D4
+F
+  ==
+  - [[F1.43 痔]] 痔瘡
+  ==
+W
+  ====
+  - [[Page~10* 痔(6)]]
+    ==
+    - The piles;
+    - to gnaw, as insects do;
+    - _ch(i/)(6) (1)ch(')ong_
+        [[zi6 cong1 痔瘡]],
+        piles;
+    - _noi(6) ch(i/)(6)_
+        [[noi6 zi6 內痔]]
+        bloody piles;
+    - _ngoi(6) ch(i/)(6)_
+        [[ngoi6 zi6 外痔]]
+        blind piles;
+    - _(1)ch(')(u")n (4)ch(')(e/)ung ch(i/)(6)_
+        [[cyun1 coeng4 zi6 穿腸痔]]
+        fistula in ano.
+    ==
+  ====
 $$
 
 ### 稚6 | _Ch(i/)(6)_ [[zi6]]
