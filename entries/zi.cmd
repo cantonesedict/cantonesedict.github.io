@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-04-11
+* %date-modified --> 2024-04-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1352,6 +1352,7 @@ $$
 - $志3
 - $痣3
 - $至3
+- $致3
 - $誌3
 - $識3
 ==
@@ -1522,6 +1523,62 @@ E
        ==
     ++
   ====
+$$
+
+### 致3 | _Ch(i/)(3)_ [[zi3]]
+
+$$
+R
+  ⾄ + 3
+U
+  U+81F4
+F
+  ==
+  - [[F1.41 致]] 使也又到也極也推也
+  ==
+W
+  ====
+  - [[Page~40|n83 致(3)]]
+    --
+    Interchanged with the last [[$至3]].
+    --
+    ==
+    - To go, to cause to go;
+    - to convey to;
+    - leading to, tending;
+    - to accompany;
+    - to visit;
+    - to communicate, to intimate to;
+    - to resign, to give over to;
+    - to induce, bring on;
+    - to jeopard, to hazard;
+    - to regulate, to control, to order;
+    - an aim, object, or end;
+    - a tendency;
+    - to investigate fully;
+    - used before a verb, implies what is caused to be done;
+    - that, in order to;
+    - to put forth;
+    - the extreme;
+    - _ch(i/)(3) [(2)]shai (5))k(')(u") (4)loi_
+        [[zi3 sai2 keoi5 loi4 致使佢來]],
+        make him come;
+    - _ch(i/)(3) (i/)(3)_
+        [[zi3 ji3 致意]]
+        to intimate to, to inform in any way;
+    - _ch(i/)(3) sz'(6)_
+        [[zi3 si6 致仕]]
+        to throw up an office;
+    - _ch(i/)(3) ming(6)_
+        [[zi3 ming6 致命]]
+        delivered his orders.
+    ==
+  ====
+C
+  ==
+  - Williams' 致使佢來: Corrected _shai(3)_ [[sai3]] to _(2)shai_ [[sai2]].
+  - Williams' 致命: Now "fatal".
+  ==
 $$
 
 ### 誌3 | _Ch(i/)(3)_ [[zi3]]
