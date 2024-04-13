@@ -1358,6 +1358,7 @@ $$
 - $觶3
 - $誌3
 - $識3
+- $贄3
 - $輊3
 ==
 </nav>
@@ -1740,6 +1741,34 @@ S
   ==
   - $識sik1 (TODO)
   ==
+$$
+
+### 贄3 | _Ch(i/)(3)_ [[zi3]]
+
+$$
+R
+  ⾙ + 11
+U
+  U+8D04
+F
+  ==
+  - [[F1.41 贄]] 初相見之禮物或玉帛或禽鳥
+  ==
+W
+  ====
+  - [[Page~9* 贄(3)]]
+    ==
+    - A present to make way for one, given at an audience or first interview,
+      or when entering school;
+    - to present gifts;
+    - _ch(i/)(3) (4)(i/)_
+        [[zi3 ji4 贄儀]],
+        presents;
+    - _ch(i/)(3) k(i/)n(3)_
+        [[zi3 gin3 贄見]]
+        to visit with a present.
+    ==
+  ====
 $$
 
 ### 輊3 | _Ch(i/)(3)_ [[zi3]]
