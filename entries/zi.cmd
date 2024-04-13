@@ -2111,14 +2111,14 @@ C
   - Fan Wan entry: Corrected headword ⿱彑⿲土矢比 to 彘.
   - Williams' 人彘: The "speech of a princess"
     is actually a designation by Empress~L(u") (呂后)
-    after cruelly maiming her rival Lady~Ts(')ik (戚夫人),
+    after horrifically maiming her rival Lady~Ts(')ik (戚夫人),
     as alleged in 《呂太后本紀》.
     The weight of this phrase cannot be fully comprehended
     until one reads that text, which describes extreme cruelty
     such as I will not quote here.
     (For those that wish to spare themselves from that text,
     the result is that 人彘 "human sow" is used
-    to refer to victims of extreme cruelty.)
+    to refer to victims of horrific cruelty.)
   ==
 $$
 
