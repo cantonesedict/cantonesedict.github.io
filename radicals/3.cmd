@@ -938,6 +938,23 @@ For all radicals, see [Index of characters by radical](./).
 ## ⼹ (snout)
 
 <## radical-⼹-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 9
+    ,
+      <nav class="sideways">
+      ==
+      - $彘zi6
+      ==
+      </nav>
+''
+||||
 <## /radical-⼹-characters ##>
 
 

@@ -2010,6 +2010,7 @@ $$
 =={.modern}
 - $値6
 - $值6
+- $彘6
 - $治6
 - $稚6
 - $穉6
@@ -2079,6 +2080,44 @@ C
 S
   ==
   - $值zik6 (TODO)
+  ==
+$$
+
+### 彘6 | _Ch(i/)(6)_ [[zi6]]
+
+$$
+R
+  ⼹ + 9
+U
+  U+5F58
+F
+  ==
+  - [[F1.43 ::[彘]::]] 豬母也
+  ==
+W
+  ====
+  - [[Page~10* 彘(6)]]
+    ==
+    - A sow, a pig;
+    - _(4)yan ch(i/)(6)_
+        [[jan4 zi6 人彘]]
+        a corpse cut to pieces,
+        alludes to a speech of a princess of the H(a/)n [[漢]] dynasty.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword ⿱彑⿲土矢比 to 彘.
+  - Williams' 人彘: The "speech of a princess"
+    is actually a designation by Empress~L(u") (呂后)
+    after cruelly maiming her rival Lady~Ts(')ik (戚夫人),
+    as alleged in 《呂太后本紀》.
+    The weight of this phrase cannot be fully comprehended
+    until one reads that text, which describes extreme cruelty
+    such as I will not quote here.
+    (For those that wish to spare themselves from that text,
+    the result is that 人彘 "human sow" is used
+    to refer to victims of extreme cruelty.)
   ==
 $$
 
