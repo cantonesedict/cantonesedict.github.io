@@ -1350,6 +1350,7 @@ $$
 =={.modern}
 - $𫪦 (⿰口知)3
 - $志3
+- $摯3
 - $痣3
 - $緻3
 - $至3
@@ -1416,6 +1417,41 @@ W
     - _ch(i/)(3) (4)shing_
         [[zi3 sing4 志誠]],
         ingenuous, guileless.
+    ==
+  ====
+$$
+
+### 摯3 | _Ch(i/)(3)_ [[zi3]]
+
+$$
+R
+  ⼿ + 11
+U
+  U+646F
+F
+  ==
+  - [[F1.41 摯]] 至也又握持也又絆其足也
+  ==
+W
+  ====
+  - [[Page~9* 摯(3)]]
+    ==
+    - To seize with the hand, to grasp;
+    - to arrive at, to reach to;
+    - to extend;
+    - to present to;
+    - to advance, to enter, to go to the edge;
+    - to break down, as trees from weight of snow;
+    - used for the next [[$贄3]];
+    - _(4)ts(')ing ch(i/)(3)_
+        [[cing4 zi3 情摯]]
+        a great liking for;
+    - _ch(i/)(3) (2)t(o\)_
+        [[zi3 dou2 摯倒]],
+        to stumble down;
+    - _ch(i/)(3) (2)h(i/)_
+        [[zi3 hei2 摯起]],
+        to pick one up.
     ==
   ====
 $$
