@@ -203,6 +203,18 @@ class Updater:
             )
             sys.exit(1)
 
+        bad_williams_apical_apostrophe = re.findall(
+            pattern=r"\S+ sz [^'] \S+",
+            string=cmd_content,
+            flags=re.IGNORECASE | re.VERBOSE,
+        )
+        if bad_williams_apical_apostrophe:
+            print(
+                f'Error in `{entry_cmd_name}`: missing Williams apical apostrophe in {bad_williams_apical_apostrophe}',
+                file=sys.stderr,
+            )
+            sys.exit(1)
+
     @staticmethod
     def _check_jyutping_romanisation_heuristic(entry_cmd_name, cmd_content):
         bad_jyutping_runs = [
