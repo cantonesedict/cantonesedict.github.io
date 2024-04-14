@@ -67,6 +67,7 @@ $$
 - $滋1
 - $知1
 - $祗1
+- $緇1
 - $肢1
 - $胾1
 - $脂1
@@ -630,6 +631,31 @@ S
   ==
   - $祗zi2
   ==
+$$
+
+### 緇1 | _(1)Tsz'_ [[zi1]]
+
+$$
+R
+  ⽷ + 8
+U
+  U+7DC7
+F
+  ==
+  - [[F2.34 緇]] 車屬
+  ==
+W
+  ====
+  - [[Page~611 (1)緇]]
+    ==
+    - Dark colored silk, dyed many times;
+    - the dark color of a sediment;
+    - black;
+    - _(1)tsz' (1)(i/)_
+        [[zi1 ji1 緇衣]],
+        black garments.
+    ==
+  ====
 $$
 
 ### 肢1 | _(1)Ch(i/)_ [[zi1]]

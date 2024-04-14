@@ -253,6 +253,7 @@ For all radicals, see [Index of characters by radical](./).
       - $綽coek3
       - $綻zaan6
       - $緅zau1
+      - $緇zi1
       ==
       </nav>
   //
