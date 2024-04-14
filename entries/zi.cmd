@@ -69,6 +69,7 @@ $$
 - $茲1
 - $蛓1
 - $蜘1
+- $螆1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -681,7 +682,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~610 (1)蛓(1)螆]]
+  - [[Page~610 ::(1)蛓(1)[螆]^::]]
     --
     [[Alternative form of 螆. **See $螆zi1 for the canonical entry.**]]
     --
@@ -713,6 +714,71 @@ W
         a spider, a general name for all kinds of aranea.
     ==
   ====
+$$
+
+### [螆]1 | _(1)Tsz'_ [[zi1]]
+
+$$
+R
+  ⾍ + 10
+U
+  U+8786
+A
+  ==
+  - $蛓1
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~610 ::(1)蛓(1)[螆]^::]]
+    ==
+    - A louse, a nit;
+    - insects that [irritate] the skin;
+    - an itching, pickling;
+    - _l(a/)i(3) (1)tsz'_
+        [[laai3 zi1 癩螆]]
+        the itch;
+    - _yat(7) (1)shan (1)tsz'_
+        [[jat1 san1 zi1 一身螆]]
+        whole person is frowzy;
+    - _(1)[sh(a/)ng] (1)tsz' (2)kau_
+        [[saang1 zi1 gau2 生螆狗]],
+        a mangy dog;
+    - _(1)[sh(a/)ng] (1)tsz' (2)kau (2)k(o\)m (1)sheng_
+        [[saang1 zi1 gau2 gam2 seng1 生螆狗噉聲]],
+        a peevish child, always whining for something to eat;
+    - _(2)shui (1)tsz'_
+        [[seoi2 zi1 水螆]]
+        water spiders;
+    - _(4)m(o\) (1)tsz'_
+        [[mou4 zi1 毛螆]]
+        hairy worms.
+    ==
+  ====
+C
+  ==
+  - Williams prints 螆 as ⿰虫兹 rather than as ⿰虫茲.
+  - Williams' 生螆狗, 生螆狗噉聲: Changed _(1)shang_ [[sang1]]
+    to vernacular reading _(1)sh(a/)ng_ [[saang1]].
+  ==
+E
+  ====
+  - 【螆】 (zi1):
+    ++
+    1. A flea, louse, or small insect.
+       ==
+       - 水螆 (seoi2 zi1): "Water flea."
+       - 生螆 (saang1 zi1): "Got lice."
+       - 蚊螆 (man1 zi1): "Mosquitoey."
+       ==
+    1. An itch.
+    ++
+  ====
+S
+  ==
+  - $螆ci3 (TODO)
+  ==
 $$
 
 

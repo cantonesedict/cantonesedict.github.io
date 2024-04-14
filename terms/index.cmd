@@ -656,6 +656,9 @@ window.onload = applyFilter;
     , zek3 cau1
     , [隻抽](/entries/cau#cantonese-隻抽)
   //
+    , zi1
+    , [螆](/entries/zi#cantonese-螆)
+  //
     , zi2 ji5
     , [指擬](/entries/zi#cantonese-指擬)
   //
