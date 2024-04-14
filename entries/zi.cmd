@@ -65,6 +65,7 @@ $$
 - $梔1
 - $淄1
 - $滋1
+- $甾1
 - $知1
 - $祗1
 - $緇1
@@ -522,6 +523,28 @@ W
         to make trouble, to provoke.
     ==
   ====
+$$
+
+### 甾1 | _(1)Tsz'_ [[zi1]]
+
+$$
+R
+  ⽥ + 3
+U
+  U+753E
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~611 (1)甾(1)菑]]
+    --
+    [[Alternative form of 菑. **See $菑zi1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $甾zoi1 (TODO)
+  ==
 $$
 
 ### 知1 | _(1)Ch(i/)_ [[zi1]]
