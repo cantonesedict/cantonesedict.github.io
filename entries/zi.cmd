@@ -67,6 +67,7 @@ $$
 - $脂1
 - $芝1
 - $茲1
+- $蛓1
 - $蜘1
 ==
 </nav>
@@ -666,6 +667,28 @@ W
 S
   ==
   - $茲ci4 (TODO)
+  ==
+$$
+
+### 蛓1 | _(1)Tsz'_ [[zi1]]
+
+$$
+R
+  ⾍ + 6
+U
+  U+86D3
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~610 (1)蛓(1)螆]]
+    --
+    [[Alternative form of 螆. **See $螆zi1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $蛓ci3 (TODO)
   ==
 $$
 
