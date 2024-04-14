@@ -53,6 +53,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $之1
+- $兹1
 - $卮1
 - $吱1
 - $巵1
@@ -128,6 +129,26 @@ C
   ==
   - Williams' 聽之之人: Corrected _t(')eng(3)_ [[teng3]] to _t(')ing(3)_ [[ting3]].
   ==
+$$
+
+### 兹1 | _(1)Tsz'_ [[zi1]]
+
+$$
+R
+  ⼋ + 7
+U
+  U+5179
+F
+  ==
+  - [[F2.34 兹]] 此也
+  ==
+W
+  ====
+  - [[Page~610 (1)茲(1)兹]]
+    --
+    [[Alternative form of 茲. **See $茲zi1 for the canonical entry.**]]
+    --
+  ====
 $$
 
 ###+ 卮1 | _(1)Ch(i/)_ [[zi1]]
