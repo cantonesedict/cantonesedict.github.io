@@ -492,6 +492,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Character entry links
 |:
   //
+    , 4
+    ,
+      <nav class="sideways">
+      ==
+      - $孜zi1
+      ==
+      </nav>
+  //
     , 10
     ,
       <nav class="sideways">

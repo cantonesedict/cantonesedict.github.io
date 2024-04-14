@@ -56,6 +56,7 @@ $$
 - $兹1
 - $卮1
 - $吱1
+- $孜1
 - $孳1
 - $孶1
 - $巵1
@@ -195,6 +196,30 @@ W
     - _(1)ch(i/) (1)ch(i/) hai(6)_
         [[zi1 zi1 hai6 吱吱係]]
         certainly so.
+    ==
+  ====
+$$
+
+### 孜1 | _(1)Tsz'_ [[zi1]]
+
+$$
+R
+  ⼦ + 4
+U
+  U+5B5C
+F
+  ==
+  - [[F2.34 孜]] 汲也勤也勉也
+  ==
+W
+  ====
+  - [[Page~611 (1)孜]]
+    ==
+    - Unceasing, unwearied effort, untiring diligence;
+    - self-denying attachment;
+    - _(1)tsz' (1)tsz' (4)wai sh(i/)n(6)_
+        [[zi1 zi1 wai4 sin6 孜孜為善]]
+        ever striving to be good.
     ==
   ====
 $$
