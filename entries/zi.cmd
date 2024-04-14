@@ -79,6 +79,7 @@ $$
 - $蜘1
 - $螆1
 - $輜1
+- $錙1
 - $鎡1
 ==
 </nav>
@@ -1026,6 +1027,31 @@ W
     - _(1)tsz' chung(6)_
         [[zi1 zung6 輜重]]
         baggage wagons of an army.
+    ==
+  ====
+$$
+
+### 錙1 | _(1)Tsz'_ [[zi1]]
+
+$$
+R
+  ⾦ + 8
+U
+  U+9319
+F
+  ==
+  - [[F2.34 錙]] 耕田之器又錙銖
+  ==
+W
+  ====
+  - [[Page~611 (1)錙]]
+    ==
+    - A weight equal to six _(1)ch(u")_ [[zyu1]] 銖
+      or the fourth part of a tael,
+      not now in use;
+    - _(1)tsz' (1)ch(u")_
+        [[zi1 zyu1 錙銖]],
+        a little trifle, a mere penny, a mite.
     ==
   ====
 $$

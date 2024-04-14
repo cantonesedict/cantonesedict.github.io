@@ -88,6 +88,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $錚zaang1
       - $錚zang1
+      - $錙zi1
       ==
       </nav>
   //
