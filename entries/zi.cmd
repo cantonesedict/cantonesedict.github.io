@@ -70,6 +70,7 @@ $$
 - $蛓1
 - $蜘1
 - $螆1
+- $鎡1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -779,6 +780,27 @@ S
   ==
   - $螆ci3 (TODO)
   ==
+$$
+
+### 鎡1 | _(1)Tsz'_ [[zi1]]
+
+$$
+R
+  ⾦ + 9
+U
+  U+93A1
+F
+  ==
+  - [[F2.34 鎡]] 鋤頭之屬
+  ==
+W
+  ====
+  - [[Page~610 (1)鎡]]
+    ==
+    - A hoe for removing weeds, called _(1)tsz' (1)k(i/)_ [[zi1 gei1 鎡基]],
+      having a long narrow blade.
+    ==
+  ====
 $$
 
 
