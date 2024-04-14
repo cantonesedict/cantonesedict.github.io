@@ -60,6 +60,7 @@ $$
 - $支1
 - $枝1
 - $梔1
+- $滋1
 - $知1
 - $祗1
 - $肢1
@@ -361,6 +362,53 @@ C
   ==
   - Fan Wan entry: Corrected 𣑱 (⿱汍木) to 染.
   ==
+$$
+
+### 滋1 | _(1)Tsz'_ [[zi1]]
+
+$$
+R
+  ⽔ + 9
+U
+  U+6ECB
+F
+  ==
+  - [[F2.34 滋]] 潤也益也
+  ==
+W
+  ====
+  - [[Page~610 (1)滋]]
+    ==
+    - Occurs used for the last [[$茲1]];
+    - sweet, pleasant, rich;
+    - humid, soft;
+    - to increase, to grow;
+    - to enrich, to moisten, to fertilize;
+    - to rise, to overflow;
+    - moisture, juices, sap;
+    - numerous, many;
+    - muddy;
+    - _(1)tsz' sz'(6)_
+        [[zi1 si6 滋事]]
+        to get up a row, to make trouble, to embroil;
+    - _(1)tsz' m(a/)n(6)_
+        [[zi1 maan6 滋蔓]]
+        a sprouting tendril;
+        something left, as of a seditious band;
+    - _(2)h(o\) (1)tsz' m(i/)(6)_
+        [[hou2 zi1 mei6 好滋味]]
+        a fine flavor;
+    - _(1)tsz' yun(6)_
+        [[zi1 jeon6 滋潤]]
+        to mollify, to increase the juices;
+    - _(1)tsz' (2)p(o\)_
+        [[zi1 bou2 滋補]],
+        to strengthen, as a tonic;
+    - _(1)tsz' (2)i(u/)_
+        [[zi1 jiu2 滋擾]],
+        to make trouble, to provoke.
+    ==
+  ====
 $$
 
 ### 知1 | _(1)Ch(i/)_ [[zi1]]
