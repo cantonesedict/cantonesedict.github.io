@@ -191,6 +191,18 @@ class Updater:
             )
             sys.exit(1)
 
+        bad_williams_nasal_apostrophe = re.findall(
+            pattern="(?: m | ng ) ' ",
+            string=cmd_content,
+            flags=re.IGNORECASE | re.VERBOSE,
+        )
+        if bad_williams_nasal_apostrophe:
+            print(
+                f'Error in `{entry_cmd_name}`: wrong-side Williams nasal apostrophe in {bad_williams_nasal_apostrophe}',
+                file=sys.stderr,
+            )
+            sys.exit(1)
+
     @staticmethod
     def _check_jyutping_romanisation_heuristic(entry_cmd_name, cmd_content):
         bad_jyutping_runs = [
