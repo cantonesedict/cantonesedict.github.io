@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-04-13
+* %date-modified --> 2024-04-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -64,6 +64,7 @@ $$
 - $肢1
 - $脂1
 - $芝1
+- $茲1
 - $蜘1
 ==
 </nav>
@@ -550,6 +551,53 @@ W
         _met._ intimate with good men.
     ==
   ====
+$$
+
+### 茲1 | _(1)Tsz'_ [[zi1]]
+
+$$
+R
+  ⾋ + 6
+U
+  U+8332
+A
+  ==
+  - $兹1
+  ==
+F
+  ==
+  - [[F2.34 兹]] 此也
+  ==
+W
+  ====
+  - [[Page~610 (1)茲(1)兹]]
+    ==
+    - Herbs and shrubs in great abundance;
+    - a mat;
+    - an adjective, this;
+    - an adverb, here;
+    - a conjunction, but, still;
+    - _(1)tsz' (2)ch(e/)_
+        [[zi1 ze2 茲者]],
+        the following---a phrase used at the beginning of a notice;
+    - _tsoi(6) (1)tsz'_
+        [[zoi6 zi1 在茲]]
+        here;
+    - _(1)tsz' (1)kam_
+        [[zi1 gam1 茲今]],
+        now;
+    - _n(i/)m(6) (1)tsz' tsoi(6) (1)tsz'_
+        [[nim6 zi1 zoi6 zi1 念茲在茲]]
+        thinking of a thing without distraction;
+    - _(1)(u") (1)tsz'_
+        [[jyu1 zi1 於茲]]
+        hereupon, now then---an illative phrase.
+    ==
+  ====
+S
+  ==
+  - $茲ci4 (TODO)
+  ==
 $$
 
 ### 蜘1 | _(1)Ch(i/)_ [[zi1]]
