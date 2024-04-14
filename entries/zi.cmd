@@ -656,7 +656,7 @@ W
   ====
 S
   ==
-  - $胾zi3 (TODO)
+  - $胾zi3
   ==
 $$
 
@@ -1680,7 +1680,7 @@ W
 $$
 
 
-##{#3 .williams} Ch(i/)(3) [[zi3 陰去]]
+##{#3 .williams} Ch(i/)(3) <ins class="modern">Tsz'(3)</ins> [[zi3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">
@@ -1694,6 +1694,7 @@ $$
 - $痣3
 - $緻3
 - $置3
+- $胾3
 - $至3
 - $致3
 - $觶3
@@ -1999,6 +2000,39 @@ W
 C
   ==
   - Fan Wan and Williams both print 置 with last stroke ㇗, and 寘 as ⿰宀眞.
+  ==
+$$
+
+###+ 胾3 | _Tsz'(3)_ [[zi3]]
+
+$$
+R
+  ⾁ + 6
+U
+  U+80FE
+V
+  ==
+  - zi1 (uncommon)
+  ==
+F
+  ==
+  - [[F2.34 胾 _(1)Tsz'_ (zi1)]] 切肉曰胾
+  ==
+W
+  ====
+  - [[Page~611 (1)胾 _(1)Tsz'_ (zi1); here normalised to _Tsz'(3)_ (zi3)]]
+    ==
+    - To cut up meat into steaks or morsels for eating;
+    - slices, steaks, bits of meat.
+    ==
+  ====
+C
+  ==
+  - The uncommon reading zi1 is that given in Fan Wan.
+  ==
+S
+  ==
+  - $胾zi1
   ==
 $$
 
