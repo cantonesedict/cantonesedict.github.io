@@ -2309,6 +2309,20 @@ C
   - In modern usage, level-tone _(4)ch(')(i/)_ [[ci4]]
     is considered obsolete.
   ====
+E
+  ====
+  - 【三文治】 (saam1 man4 zi6):
+    ++
+    1. A sandwich.
+    ++
+  - 【治】 (zi6):
+    ++
+    1. Short for [三文治](#cantonese-三文治).
+       ==
+       - 腿蛋治 (teoi2 daan6-2 zi6): "Ham [and] egg sandwich."
+       ==
+    ++
+  ====
 S
   ==
   - $治ci4 (TODO)
