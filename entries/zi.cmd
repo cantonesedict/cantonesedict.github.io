@@ -78,6 +78,7 @@ $$
 - $蛓1
 - $蜘1
 - $螆1
+- $輜1
 - $鎡1
 ==
 </nav>
@@ -1003,6 +1004,30 @@ S
   ==
   - $螆ci3 (TODO)
   ==
+$$
+
+### 輜1 | _(1)Tsz'_ [[zi1]]
+
+$$
+R
+  ⾞ + 8
+U
+  U+8F1C
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~611 (1)輜]]
+    ==
+    - End of the axle within the nave;
+    - treasure wagons, or such as carry arms and spoil;
+    - large wagons with places for sleeping and carrying stores;
+    - manure carts;
+    - _(1)tsz' chung(6)_
+        [[zi1 zung6 輜重]]
+        baggage wagons of an army.
+    ==
+  ====
 $$
 
 ### 鎡1 | _(1)Tsz'_ [[zi1]]
