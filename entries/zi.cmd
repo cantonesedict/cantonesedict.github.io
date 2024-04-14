@@ -56,6 +56,7 @@ $$
 - $兹1
 - $卮1
 - $吱1
+- $孳1
 - $孶1
 - $巵1
 - $支1
@@ -194,6 +195,42 @@ W
     - _(1)ch(i/) (1)ch(i/) hai(6)_
         [[zi1 zi1 hai6 吱吱係]]
         certainly so.
+    ==
+  ====
+$$
+
+###+ 孳1 | _(1)Tsz'_ [[zi1]]
+
+$$
+R
+  ⼦ + 10
+U
+  U+5B73
+A
+  ==
+  - $孶1
+  ==
+F
+  ==
+  - [[F2.34 孳]] 生息也亦作孜
+  ==
+W
+  ====
+  - [[Page~611 (1)孶; here normalised to 孳]]
+    ==
+    - To bear, to produce;
+    - to suckle, to nourish, said of animals;
+    - to grow, to increase;
+    - ardent, affectionate, loving;
+    - strong love, like a mother's;
+    - unwearied, repeated, diligent,
+      in which it is the same as the next [[$孜1]];
+    - _(1)tsz' sik(7)_
+        [[zi1 sik1 孳息]]
+        to bear young;
+    - _m(a/)n(6) mat(9) (1)tsz' (1)shang_
+        [[maan6 mat6 zi1 sang1 萬物孳生]],
+        all things gradually multiply.
     ==
   ====
 $$
