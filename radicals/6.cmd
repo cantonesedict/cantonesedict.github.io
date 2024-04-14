@@ -726,6 +726,7 @@ For all radicals, see [Index of characters by radical](./).
       - $萋cai1
       - $菖coeng1
       - $萇coeng4
+      - $菑zi1
       - $著zoek3
       - $著zoek6
       ==

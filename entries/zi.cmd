@@ -74,6 +74,7 @@ $$
 - $脂1
 - $芝1
 - $茲1
+- $菑1
 - $蛓1
 - $蜘1
 - $螆1
@@ -851,6 +852,46 @@ W
 S
   ==
   - $茲ci4 (TODO)
+  ==
+$$
+
+### 菑1 | _(1)Tsz'_ [[zi1]]
+
+$$
+R
+  ⾋ + 8
+U
+  U+83D1
+A
+  ==
+  - $甾1
+  ==
+F
+  ==
+  - [[F2.34 菑]] ::田一歲曰菑始反[草]也::
+  ==
+W
+  ====
+  - [[Page~611 (1)甾(1)菑]]
+    ==
+    - Waste, untilled land, overgrown, jungly;
+    - to clear new or waste land;
+    - ground under cultivation one year;
+    - to open a road;
+    - to cut, to rend;
+    - a dead tree still standing.
+    ==
+    --
+    Occurs used for the next [[$輜1]].
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 革 to 草.
+  ==
+S
+  ==
+  - $菑zoi1 (TODO)
   ==
 $$
 
