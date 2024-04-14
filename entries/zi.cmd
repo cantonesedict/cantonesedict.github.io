@@ -63,6 +63,7 @@ $$
 - $支1
 - $枝1
 - $梔1
+- $淄1
 - $滋1
 - $知1
 - $祗1
@@ -449,6 +450,30 @@ C
   ==
   - Fan Wan entry: Corrected 𣑱 (⿱汍木) to 染.
   ==
+$$
+
+### 淄1 | _(1)Tsz'_ [[zi1]]
+
+$$
+R
+  ⽔ + 8
+U
+  U+6DC4
+F
+  ==
+  - [[F2.34 淄]] 黑色水名又臨淄齊地也
+  ==
+W
+  ====
+  - [[Page~611 (1)淄]]
+    ==
+    - A river in the northeast of Sh(a/)ntung [[山東]] flowing into the sea;
+    - _(1)Tsz' (1)ch(')(u")n_
+        [[zi1 cyun1 淄川]],
+        a district in Sh(a/)ntung [[山東]];
+        a dark color.
+    ==
+  ====
 $$
 
 ### 滋1 | _(1)Tsz'_ [[zi1]]
