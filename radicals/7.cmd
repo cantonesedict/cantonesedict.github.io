@@ -148,6 +148,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $諳am1
       - $諳am2
+      - $諮zi1
       ==
       </nav>
   //
