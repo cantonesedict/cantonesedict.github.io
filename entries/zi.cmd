@@ -71,6 +71,7 @@ $$
 - $甾1
 - $知1
 - $祗1
+- $粢1
 - $緇1
 - $肢1
 - $胾1
@@ -756,6 +757,32 @@ W
 S
   ==
   - $祗zi2
+  ==
+$$
+
+### 粢1 | _(1)Tsz'_ [[zi1]]
+
+$$
+R
+  ⽶ + 6
+U
+  U+7CA2
+F
+  ==
+  - [[F2.34 粢]] ::[黍]稷曰粢::
+  ==
+W
+  ====
+  - [[Page~612 (1)粢]]
+    ==
+    - A common name for grains and pulse;
+    - rice used in sacrifices, which must be of the best;
+    - a cake of glutinous rice.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿱禾氺 to 黍.
   ==
 $$
 
