@@ -428,6 +428,14 @@ For all radicals, see [Index of characters by radical](./).
       ==
       </nav>
   //
+    , 6
+    ,
+      <nav class="sideways">
+      ==
+      - $趑zi1
+      ==
+      </nav>
+  //
     , 10
     ,
       <nav class="sideways">

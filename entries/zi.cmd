@@ -85,6 +85,7 @@ $$
 - $諮1
 - $貲1
 - $資1
+- $趑1
 - $輜1
 - $錙1
 - $鎡1
@@ -1247,6 +1248,30 @@ C
   - Williams' 酒資 and 檳資: Very dated.
   - Williams' 資格: Now "eligibility".
   ==
+$$
+
+### 趑1 | _(1)Tsz'_ [[zi1]]
+
+$$
+R
+  ⾛ + 6
+U
+  U+8D91
+F
+  ==
+  - [[F2.34 趦]] 趦趄行不進也
+  ==
+W
+  ====
+  - [[Page~612 (1)趑]]
+    ==
+    - Unable to advance, either from fear or disability;
+    - to go awry;
+    - _(1)tsz' (1)ts(u")_
+        [[zi1 zeoi1 趑趄]],
+        impeded.
+    ==
+  ====
 $$
 
 ### 輜1 | _(1)Tsz'_ [[zi1]]
