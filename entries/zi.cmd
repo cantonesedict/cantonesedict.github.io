@@ -65,6 +65,7 @@ $$
 - $梔1
 - $淄1
 - $滋1
+- $漬1
 - $甾1
 - $知1
 - $祗1
@@ -528,6 +529,29 @@ W
         to make trouble, to provoke.
     ==
   ====
+$$
+
+### 漬1 | _(1)Tsz'_ [[zi1]]
+
+$$
+R
+  ⽔ + 11
+U
+  U+6F2C
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~611 (1)漬]]
+    --
+    [[Idiosyncratic reading from Williams. **See $漬zi3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $漬zi3 (TODO)
+  - $漬zik1 (TODO)
+  ==
 $$
 
 ### 甾1 | _(1)Tsz'_ [[zi1]]
