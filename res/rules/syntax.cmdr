@@ -113,6 +113,13 @@ FixedDelimitersReplacement: #.syntax.entries
 - tag_name: dl
 
 
+RegexDictionaryReplacement: #.syntax.radical-strokes-spaces
+- queue_position: BEFORE #escape-idle-html
+* (?P<radical> [⼀-⿕] ) [ ] [+] [ ] (?P<strokes> [0-9]+ )
+    -->
+  \g<radical>~+~\g<strokes>
+
+
 RegexDictionaryReplacement: #.syntax.cantonese-entries
 - queue_position: BEFORE #.syntax.entries
 * [-] [ ] 【 (?P<term> [^\s-]+ ) (?P<disambiguation> [\S]* ) 】
