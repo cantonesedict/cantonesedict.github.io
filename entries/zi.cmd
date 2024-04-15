@@ -79,6 +79,7 @@ $$
 - $蜘1
 - $螆1
 - $貲1
+- $資1
 - $輜1
 - $錙1
 - $鎡1
@@ -1039,6 +1040,63 @@ W
     Used for the next [[$資1]].
     --
   ====
+$$
+
+### 資1 | _(1)Tsz'_ [[zi1]]
+
+$$
+R
+  ⾙ + 6
+U
+  U+8CC7
+F
+  ==
+  - [[F2.34 資]] 資財資藉
+  ==
+W
+  ====
+  - [[Page~611 (1)資]]
+    ==
+    - Property, riches, things of value;
+    - necessaries, articles wanted;
+    - a fee, a douceur, a treat, a present;
+    - to take;
+    - to depend on another;
+    - what belongs to one, what ts natural, as disposition;
+    - what was had at the first;
+    - _(1)tsau (1)tsz'_ [[zau2 zi1 酒資]]
+        or
+      _(1)pan (1)tsz'_ [[ban1 zi1 檳資]]
+        postage;
+    - _(1)h(e/)ung (1)tsz'_
+        [[hoeng1 zi1 香資]]
+        a subscription to a festival or to build a temple;
+    - _(1)tsz' (2)p(u/)n_
+        [[zi1 bun2 資本]],
+        capital;
+    - _(1)tsz' (2)f(u/)_
+        [[zi1 fu2 資斧]],
+        necessary things, as for a journey;
+    - _(1)tsz' k(a/)k(8)_
+        [[zi1 gaak3 資格]]
+        talents, capabilities, said of officers;
+    - _(1)tsz' chat(7)_
+        [[zi1 zat1 資質]]
+        natural disposition;
+        a habit;
+    - _(4)m(o\) tik(7) (1)tsz' tsik(9)_
+        [[mou4 dik1 zi1 zik6 無滴資藉]]
+        without any sources or dependence.
+    ==
+    --
+    Occurs used for the next [[$漬1]].
+    --
+  ====
+C
+  ==
+  - Williams' 酒資 and 檳資: Very dated.
+  - Williams' 資格: Now "eligibility".
+  ==
 $$
 
 ### 輜1 | _(1)Tsz'_ [[zi1]]

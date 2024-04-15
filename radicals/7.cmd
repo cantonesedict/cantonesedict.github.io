@@ -317,6 +317,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $賊caak6
       - $貲zi1
+      - $資zi1
       ==
       </nav>
   //
