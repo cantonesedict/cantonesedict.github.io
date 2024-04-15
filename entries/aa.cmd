@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2024-04-14
+* %date-modified --> 2024-04-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -570,7 +570,7 @@ W
   ====
   - [[Page~2 亞(3)阿(3)]]
     ==
-    - [[see $亞3 for the "second/inferior" senses]]
+    - [[see $亞3 for "second/inferior" senses]]
     - a syllable prefixed to proper names,
       for which the second [[$阿3]] is often used;
     - it also impersonates epithets;
