@@ -57,6 +57,7 @@ $$
 - $卮1
 - $吱1
 - $咨1
+- $姿1
 - $孜1
 - $孳1
 - $孶1
@@ -246,6 +247,39 @@ W
     - _(4)(i/) (1)tsz'_
         [[ji4 zi1 移咨]]
         to send a dispatch.
+    ==
+  ====
+$$
+
+### 姿1 | _(1)Tsz'_ [[zi1]]
+
+$$
+R
+  ⼥ + 6
+U
+  U+59FF
+F
+  ==
+  - [[F2.34 姿]] 姿稟形態也
+  ==
+W
+  ====
+  - [[Page~612 (1)姿]]
+    ==
+    - Manner, gait, form, carriage, air;
+    - beautiful, graceful;
+    - agreeable parts;
+    - natural endowments;
+    - _(1)fung (1)tsz'_
+        [[fung1 zi1 丰姿]]
+        a fine figure, shapely;
+    - _(1)tsz' shik(7)_
+        [[zi1 sik1 姿色]]
+        a beauty;
+    - _(1)t(i/)n (1)tsz' kwok(8) shik(7)_
+        [[tin1 zi1 gwok3 sik1 天姿國色]]
+        a beauty who can overthrow a state,
+        like Y(a/)ng Kwei-fei [[楊貴妃]] of the T(')(a/)ng [[唐]] dynasty.
     ==
   ====
 $$
