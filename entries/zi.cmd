@@ -549,7 +549,7 @@ W
   ====
 S
   ==
-  - $漬zi3 (TODO)
+  - $漬zi3
   - $漬zik1 (TODO)
   ==
 $$
@@ -1972,6 +1972,7 @@ $$
 - $志3
 - $摯3
 - $智3
+- $漬3
 - $疐3
 - $痣3
 - $緻3
@@ -2140,6 +2141,47 @@ W
         indiscreet.
     ==
   ====
+$$
+
+###+ 漬3 | _Tsz'(3)_ [[zi3]]
+
+$$
+R
+  ⽔ + 11
+U
+  U+6F2C
+V
+  ==
+  - zi1 (uncommon)
+  - zi6 (expected from 疾智切)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~611 (1)漬 _(1)Tsz'_ (zi1); here corrected to _Tsz'(3)_ (zi3)]]
+    --
+    Usually pronounced _tsik(7)_ [[zik1]] [[see $漬zik1]].
+    --
+    ==
+    - To soak, to steep;
+    - to dye;
+    - water-soaked, moldy, damaged by soaking;
+    - _tsam(3) tsz'[(3)]_
+        [[zam3 zi3]]
+        under water;
+    - [[see $漬zik1 for "stain" senses]].
+    ==
+  ====
+C
+  ==
+  - The uncommon reading zi1 is that given by Williams.
+  ==
+S
+  ==
+  - $漬zi1
+  - $漬zik1 (TODO)
+  ==
 $$
 
 ### 疐3 | _Ch(i/)(3)_ [[zi3]]
