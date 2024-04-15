@@ -91,6 +91,7 @@ $$
 - $錙1
 - $鎡1
 - $髭1
+- $鼒1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -1397,6 +1398,31 @@ W
         the mustaches.
     ==
   ====
+$$
+
+### 鼒1 | _(1)Tsz'_ [[zi1]]
+
+$$
+R
+  ⿍ + 3
+U
+  U+9F12
+F
+  ==
+  - [[F2.34 ::[鼒]::]] 小鼎
+  ==
+W
+  ====
+  - [[Page~612 (1)鼒]]
+    ==
+    - A small round tripod;
+    - a round lid or cover of a tripod.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword 𪔇 (⿱木鼎) to 鼒.
+  ==
 $$
 
 
