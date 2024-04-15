@@ -90,6 +90,7 @@ $$
 - $輜1
 - $錙1
 - $鎡1
+- $髭1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -1370,6 +1371,30 @@ W
     ==
     - A hoe for removing weeds, called _(1)tsz' (1)k(i/)_ [[zi1 gei1 鎡基]],
       having a long narrow blade.
+    ==
+  ====
+$$
+
+### 髭1 | _(1)Tsz'_ [[zi1]]
+
+$$
+R
+  ⾽ + 6
+U
+  U+9AED
+F
+  ==
+  - [[F2.34 髭]] 鬚也在下曰鬚在上曰髭
+  ==
+W
+  ====
+  - [[Page~612 (1)髭]]
+    ==
+    - The mustaches, which the Chinese wear long;
+    - beautiful, good-looking;
+    - _(1)tsz' (1)s(o\)_
+        [[zi1 sou1 髭鬚]],
+        the mustaches.
     ==
   ====
 $$
