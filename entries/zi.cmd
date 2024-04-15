@@ -56,6 +56,7 @@ $$
 - $兹1
 - $卮1
 - $吱1
+- $咨1
 - $孜1
 - $孳1
 - $孶1
@@ -206,6 +207,40 @@ W
     - _(1)ch(i/) (1)ch(i/) hai(6)_
         [[zi1 zi1 hai6 吱吱係]]
         certainly so.
+    ==
+  ====
+$$
+
+### 咨1 | _(1)Tsz'_ [[zi1]]
+
+$$
+R
+  ⼝ + 6
+U
+  U+54A8
+F
+  ==
+  - [[F2.34 諮]] 詢也
+  - [[F2.34 咨]] 咨嗟咨謀
+  ==
+W
+  ====
+  - [[Page~611 (1)咨]]
+    ==
+    - To deliberate, to plan, to consult;
+    - to state or ask in writing;
+    - a document, a dispatch between equals in rank;
+    - an interjection, ah, oh!
+    - to sigh;
+    - _(1)tsz' (4)man_
+        [[zi1 man4 咨文]],
+        an official paper;
+    - _(4)ho (4)wai (1)tsz' (1)ts(e/)_
+        [[ho4 wai4 zi1 ze1 何為咨嗟]],
+        why do you lament so?
+    - _(4)(i/) (1)tsz'_
+        [[ji4 zi1 移咨]]
+        to send a dispatch.
     ==
   ====
 $$
