@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-04-14
+* %date-modified --> 2024-04-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -78,6 +78,7 @@ $$
 - $蛓1
 - $蜘1
 - $螆1
+- $貲1
 - $輜1
 - $錙1
 - $鎡1
@@ -1005,6 +1006,39 @@ S
   ==
   - $螆ci3 (TODO)
   ==
+$$
+
+### 貲1 | _(1)Tsz'_ [[zi1]]
+
+$$
+R
+  ⾙ + 6
+U
+  U+8CB2
+F
+  ==
+  - [[F2.34 貲]] 財也貨也
+  ==
+W
+  ====
+  - [[Page~611 (1)貲]]
+    ==
+    - A fine paid to redeem one's self;
+    - riches, goods, wealth;
+    - _(1)tsz' (4)ts(')(i/)n_
+        [[zi1 cin4 貲錢]],
+        money;
+    - _(1)tsz' (4)ts(')oi_
+        [[zi1 coi4 貲財]],
+        property;
+    - _(1)k(a/) (1)tsz'_
+        [[gaa1 zi1 家貲]]
+        family possessions.
+    ==
+    --
+    Used for the next [[$資1]].
+    --
+  ====
 $$
 
 ### 輜1 | _(1)Tsz'_ [[zi1]]
