@@ -2342,7 +2342,7 @@ W
   ====
   - [[Page~611 (1)漬 _(1)Tsz'_ (zi1); here corrected to _Tsz'(3)_ (zi3)]]
     --
-    Usually pronounced _tsik(7)_ [[zik1]] [[see $漬zik1]].
+    Usually pronounced _tsik(7)_ [[zik1]] [[**see $漬zik1**]].
     --
     ==
     - To soak, to steep;

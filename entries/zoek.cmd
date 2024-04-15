@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoek
-* %date-modified --> 2024-04-14
+* %date-modified --> 2024-04-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -457,7 +457,7 @@ W
     ==
     --
     This character is often distinguished into
-    _ch(e/)uk(8)_ [[zoek3]] & _ch(e/)uk(9)_ [[zoek6]] [[see $着zoek6]].
+    _ch(e/)uk(8)_ [[zoek3]] & _ch(e/)uk(9)_ [[zoek6]] [[**see $着zoek6**]].
     --
   ====
 C
@@ -930,7 +930,7 @@ W
     ==
     --
     This character is often distinguished into
-    _ch(e/)uk(8)_ [[zoek3]] [[see $着zoek3]] & _ch(e/)uk(9)_ [[zoek6]].
+    _ch(e/)uk(8)_ [[zoek3]] [[**see $着zoek3**]] & _ch(e/)uk(9)_ [[zoek6]].
     --
   ====
 C
