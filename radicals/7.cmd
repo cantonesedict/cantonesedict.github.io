@@ -82,6 +82,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Character entry links
 |:
   //
+    , 6
+    ,
+      <nav class="sideways">
+      ==
+      - $觜zi1
+      ==
+      </nav>
+  //
     , 12
     ,
       <nav class="sideways">

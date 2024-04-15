@@ -82,6 +82,7 @@ $$
 - $蛓1
 - $蜘1
 - $螆1
+- $觜1
 - $諮1
 - $貲1
 - $資1
@@ -1132,6 +1133,35 @@ E
 S
   ==
   - $螆ci3 (TODO)
+  ==
+$$
+
+### 觜1 | _(1)Tsz'_ [[zi1]]
+
+$$
+R
+  ⾓ + 6
+U
+  U+89DC
+F
+  ==
+  - [[F2.34 觜]] 宿名
+  ==
+W
+  ====
+  - [[Page~612 (1)觜]]
+    ==
+    - The 21st~zodiacal constellation,
+      consisting of λ and 2π in Orion's head.
+    ==
+    --
+    Read _(1)tsui_ [[zeoi1]]; [[**see $觜zeoi1**]].
+    --
+  ====
+S
+  ==
+  - $觜zeoi1 (TODO)
+  - $觜zeoi2 (TODO)
   ==
 $$
 
