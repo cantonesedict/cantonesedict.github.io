@@ -1434,6 +1434,7 @@ $$
 - $只2
 - $咫2
 - $址2
+- $子2
 - $帋2
 - $徵2
 - $指2
@@ -1569,6 +1570,111 @@ W
         a foundation, a base, a dependance.
     ==
   ====
+$$
+
+### 子2 | _(2)Tsz'_ [[zi2]]
+
+$$
+R
+  ⼦ + 0
+U
+  U+5B50
+F
+  ==
+  - [[F2.35 子]] 子嗣子息子者人之嘉稱故凡有德者稱之曰君子
+  ==
+W
+  ====
+  - [[Page~612 (2)子]]
+    ==
+    - A son, anciently it meant a child;
+    - a boy, a lad, a person;
+    - an heir, posterity, issue;
+    - interest on money;
+    - seeds of plants;
+    - a sage, a philosopher, a venerable and worthy man;
+    - Confucius;
+    - you, Sir, a term of address, somewhat like comrades;
+    - a degree of nobility, a viscount;
+    - the first of the twelve stems, denoted by the rat;
+    - the third watch, from 11~P.~M. to 1~A.~M.;
+    - the people, in distinction from their prince;
+    - a spot, as of dirt or on dice;
+    - added to many nouns,
+      it indicates that they are smaller than others of the same sort;
+    - the 39th~radical;
+    - _(2)tsz' (1)s(u")n_
+        [[zi2 sun1 子孫]],
+        children, descendants;
+    - _t(')(a/)i(3) (2)tsz'_
+        [[taai3 zi1 太子]]
+        the heir-apparent;
+    - _(2)tsz' ts(e/)uk(8)_
+        [[zi2 zoek3 子爵]]
+        a viscount;
+    - _(2)ch(e/)ung (2)tsz'_
+        [[zoeng2 zi2 長子]]
+        the eldest son;
+    - _(1)sh(u") (1)t(a/)i (2)tsz'_
+        [[syu1 daai1 zi2 書獃子]]
+        a stupid scholar;
+    - _ch(')ik(8) (2)tsz'_
+        [[cik3 zi2 赤子]]
+        an infant;
+    - _h(i/)(3) (2)tsz'_
+        [[hei3 zi2 戲子]]
+        a play-actor;
+    - _h(a/)u(3) (2)tsz'_
+        [[haau3 zi2 孝子]]
+        a son in mourning;
+        a dutiful son;
+    - _(2)tsz' [(5)]m(o\) (4)ts(')(i/)n_
+        [[zi2 mou5 cin4-2 子母錢]],
+        cash marked with blood of mother and child;
+    - _(1)s(i/)n (2)tsz'_
+        [[sin1 zi2 先子]]
+        my deceased father;
+    - _(1)f(u/) (2)tsz'_
+        [[fu1 zi2 夫子]]
+        a teacher, a rabbi, a sage;
+    - _(1)ting (1)h(e/)ung (2)tsz'_
+        [[ding1 hoeng1 zi2 丁香子]]
+        best cloves;
+    - _(2)si(u/) (2)tsz'_
+        [[siu2 zi2 小子]]
+        a boy, a pupil;
+        my lad, my child;
+    - _noi(6) (2)tsz'_
+        [[noi6 zi2 內子]]
+        my wife;
+    - _(1)f(a/) (2)tsz'_
+        [[faa1 zi2 花子]]
+        a beggar;
+    - _(5)l(o\) (2)tsz'_
+        [[lou5 zi2 老子]]
+        father, your father;
+    - _long(6) (2)tsz'_
+        [[long6 zi2 浪子]]
+        a prodigal son;
+    - _(5)y(e/)ung (2)tsz'_
+        [[joeng5 zi2 養子]]
+        a foster-child;
+    - _(2)tsz' sik(7)_
+        [[zi2 sik1 子息]]
+        children;
+    - _(1)kung (2)tsz'_
+        [[gung1 zi2 公子]]
+        a rich man's son;
+    - _(2)ch(e/)ung (2)tsz'_
+        [[zoeng2 zi2 長子]]
+        the eldest son.
+    ==
+  ====
+C
+  ==
+  - Williams' 子母錢: Corrected _(4)m(o\)_ [[mou4]] to _(5)m(o\)_ [[mou5]].
+  - Williams' 長子: Appears twice.
+  ==
 $$
 
 ### 帋2 | _(2)Ch(i/)_ [[zi2]]
