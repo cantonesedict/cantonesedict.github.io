@@ -1431,6 +1431,7 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $仔2
 - $只2
 - $咫2
 - $址2
@@ -1454,6 +1455,48 @@ $$
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 仔2 | _(2)Tsz'_ [[zi2]]
+
+$$
+R
+  ⼈ + 3
+U
+  U+4ED4
+V
+  ==
+  - zi1 (expected from 子之切 for "bear" sense)
+  ==
+F
+  ==
+  - [[F2.35 仔]] 仔肩任也
+  ==
+W
+  ====
+  - [[Page~612 (2)仔]]
+    ==
+    - To bear, to carry;
+    - to undertake, as an officer;
+    - _(2)tsz' sai(3)_
+        [[zi2 sai3 仔細]]
+        careful;
+        discriminating;
+    - _(2)tsz' (1)k(i/)n chung(6) yam(6)_
+        [[zi2 gin1 zung6 jam6 仔肩重任]]
+        able to sustain important offices.
+    ==
+  ====
+C
+  ==
+  - Both level-tone 子之切 _(1)tsz'_ [[zi1]]
+    and rising-tone 即里切 _(2)tsz'_ [[zi2]]
+    are recorded in 《廣韻》 with the explanation 克也.
+  ==
+S
+  ==
+  - $仔zai2
+  ==
+$$
 
 ###+ 只2 | _(2)Ch(i/)_ [[zi2]]
 
