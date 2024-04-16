@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-04-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2941,6 +2941,7 @@ $$
 - $痔6
 - $稚6
 - $穉6
+- $豸6
 - $雉6
 ==
 </nav>
@@ -3227,6 +3228,42 @@ W
     [[Alternative form of 稚. **See $稚zi6 for the canonical entry.**]]
     --
   ====
+$$
+
+###+ 豸6 | _Ch(i/)(6)_ [[zi6]]
+
+$$
+R
+  ⾘ + 0
+U
+  U+8C78
+F
+  ==
+  - [[F2.29 豸 _Ch(a/)i(6)_ (zaai6)]] 蟲豸有足曰蟲無足曰豸又獬豸
+  ==
+W
+  ====
+  - [[Page~10|n53 豸(6)]]
+    ==
+    - [[...]].
+    ==
+    --
+    Read _ch(i/)[(6)]_ [[zi6]];
+    --
+    ==
+    - the 153d~radical of characters of feline beasts;
+    - a worm, a hairless grub.
+    ==
+  ====
+C
+  ==
+  - Williams' alternative reading:
+    Corrected _(2)ch(i/)_ [[zi2]] to _ch(i/)(6)_ [[zi6]].
+  ==
+S
+  ==
+  - $豸zaai6
+  ==
 $$
 
 ### 雉6 | _Ch(i/)(6)_ [[zi6]]

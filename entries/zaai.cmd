@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-04-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -459,11 +459,10 @@ W
 C
   ==
   - Williams' alternative reading:
-    Changed _(2)ch(i/)_ [[zi2]] (Middle Chinese rising tone)
-    to expected reading _ch(i/)(6)_ [[zi6]].
+    Corrected _(2)ch(i/)_ [[zi2]] to _ch(i/)(6)_ [[zi6]].
   ==
 S
   ==
-  - $豸zi6 (TODO)
+  - $豸zi6
   ==
 $$
