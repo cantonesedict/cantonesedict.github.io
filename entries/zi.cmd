@@ -1445,6 +1445,7 @@ $$
 - $梓2
 - $止2
 - $沚2
+- $泲2
 - $滓2
 - $祇2
 - $祉2
@@ -2111,6 +2112,41 @@ W
         an islet in a pond.
     ==
   ====
+$$
+
+### 泲2 | _(2)Tsz'_ [[zi2]]
+
+$$
+R
+  ⽔ + 5
+U
+  U+6CF2
+V
+  ==
+  - zai2 (from 濟 rising)
+  - zai3 (from 濟 departing)
+  ==
+F
+  ==
+  - [[F2.35 泲]] 水名
+  ==
+W
+  ====
+  - [[Page~613 (2)泲]]
+    ==
+    - Name of a river on the east of China;
+    - to strain spirits;
+    - a strainer made of plants.
+    ==
+  ====
+C
+  ==
+  - The reading zi2 is that given in Fan Wan.
+  - Kangxi quotes 《玉篇》古文濟字, so strictly 泲 should be read as 濟.
+    Moreover, rising-tone zai2 is more correct than departing-tone zai3,
+    because the reading of 濟 explained 水名 is the rising-tone one,
+    namely 子禮切 _(2)tsai_ [[zai2]].
+  ==
 $$
 
 ### 滓2 | _(2)Tsz'_ [[zi2]]
