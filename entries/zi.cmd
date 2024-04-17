@@ -1453,6 +1453,7 @@ $$
 - $秭2
 - $紙2
 - $耔2
+- $胏2
 - $衹2
 - $趾2
 - $軹2
@@ -2404,6 +2405,30 @@ W
   - [[Page~612 (2)耔]]
     ==
     - To weed and hoe earth around the roots of plants, to hill.
+    ==
+  ====
+$$
+
+### 胏2 | _(2)Tsz'_ [[zi2]]
+
+$$
+R
+  ⾁ + 5
+U
+  U+80CF
+F
+  ==
+  - [[F2.35 胏]] 乾肉之帶骨者
+  ==
+W
+  ====
+  - [[Page~613 (2)胏]]
+    ==
+    - The remnants of a meal;
+    - dried meat with the bones in it;
+    - _(1)kon (2)tsz'_
+        [[gon1 zi2 乾胏]]
+        dried meat.
     ==
   ====
 $$
