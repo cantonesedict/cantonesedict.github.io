@@ -1435,6 +1435,7 @@ $$
 - $只2
 - $咫2
 - $址2
+- $姊2
 - $子2
 - $帋2
 - $徵2
@@ -1614,6 +1615,41 @@ W
     - _(1)k(i/) (2)ch(i/)_
         [[gei1 zi2 基址]],
         a foundation, a base, a dependance.
+    ==
+  ====
+$$
+
+### 姊2 | _(2)Tsz'_ [[zi2]]
+
+$$
+R
+  ⼥ + 5
+U
+  U+59CA
+F
+  ==
+  - [[F2.35 姊]] 姐也女之長者曰姊
+  ==
+W
+  ====
+  - [[Page~613 (2)姊]]
+    ==
+    - An elder sister;
+    - a school-mistress;
+    - _(2)tsz' m(u/)i(6)_
+        [[zi2 mui6-2 姊妹]]
+        sisters;
+        it sometimes includes all the children,
+      as _p(a/)t(8) (2)tsz' m(u/)i(6)_
+        [[baat3 zi2 mui6-2 八姊妹]]
+        eight of us in all;
+    - _t(a/)i(6) (2)tsz'_
+        [[daai6 zi2 大姊]]
+        an elder sister;
+    - _ts(')at(7) (2)tsz' m(u/)i(6)_
+        [[cat1 zi2 mui6 七姊妹]]
+        a sort of rose;
+        a kind of snake.
     ==
   ====
 $$
