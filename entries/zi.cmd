@@ -1453,6 +1453,7 @@ $$
 - $祗2
 - $秭2
 - $紙2
+- $紫2
 - $耔2
 - $胏2
 - $衹2
@@ -2414,6 +2415,55 @@ E
     ++
     1. Kraft paper.
     ++
+  ====
+$$
+
+### 紫2 | _(2)Tsz'_ [[zi2]]
+
+$$
+R
+  ⽷ + 6
+U
+  U+7D2B
+F
+  ==
+  - [[F2.35 紫]] 黑赤間色也
+  ==
+W
+  ====
+  - [[Page~613 (2)紫]]
+    ==
+    - A reddish blue, a clay color, a nankeen tint;
+    - a fugacious, undecided hue;
+    - _(2)tsz' (4)t(')ong shik(7)_
+        [[zi2 tong4 sik1 紫棠色]]
+        a dark complexion;
+    - _(2)tsz' (2)fan_
+        [[zi2 fan2 紫粉]],
+        purple;
+    - _(2)tsz' (4)t(')(a/)n_
+        [[zi2 taan4 紫檀]],
+        orange red;
+    - _(2)tsz' (2)fan_
+        [[zi2 fan2 紫粉]],
+        cudbear;
+    - _(2)tsz' (4)l(i/) (2)k(o\)m shik(7)_
+        [[zi2 lei4 gam2 sik1 紫梨噉色]]
+        black and blue, like a bruise;
+    - _(2)tsz' (1)pi(u/)_
+        [[zi2 biu1 紫摽]],
+        a violet;
+    - _(2)tsz' (1)f(a/) p(o\)(3)_
+        [[zi2 faa1 bou3 紫花布]]
+        nankeen cloth;
+    - _(2)tsz' (4)shan_
+        [[zi2 san4 紫宸]],
+        the court or palace, the rising sun;
+    - _(2)tsz' (4)m(i/)_
+        [[zi2 mei4 紫薇]],
+        the _Lagerstrœmia_, or crape myrtle;
+        a god worshiped for protection against malaria.
+    ==
   ====
 $$
 
