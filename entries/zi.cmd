@@ -1450,6 +1450,7 @@ $$
 - $祇2
 - $祉2
 - $祗2
+- $秭2
 - $紙2
 - $耔2
 - $衹2
@@ -2259,6 +2260,35 @@ S
   ==
   - $祗zi1
   ==
+$$
+
+### 秭2 | _(2)Tsz'_ [[zi2]]
+
+$$
+R
+  ⽲ + 5
+U
+  U+79ED
+F
+  ==
+  - [[F2.35 秭]] 數也十億曰兆十兆曰京十京曰秭
+  ==
+W
+  ====
+  - [[Page~613 (2)秭]]
+    ==
+    - A stack of corn;
+    - to number;
+    - the ninth place in notation[,] a hundred [million];
+    - a weight of 640~peculs.
+    ==
+  ====
+C
+  ====
+  - Williams' to number: A misreading of 數也.
+    Here, 數 is a noun (departing), not a verb (rising).
+  - Williams' 640~peculs: 六萬四千斤.
+  ====
 $$
 
 ### 紙2 | _(2)Ch(i/)_ [[zi2]]
