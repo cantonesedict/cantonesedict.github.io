@@ -1444,6 +1444,7 @@ $$
 - $梓2
 - $止2
 - $沚2
+- $滓2
 - $祇2
 - $祉2
 - $祗2
@@ -2072,6 +2073,35 @@ W
     - _(2)chi(u/) (2)ch(i/)_
         [[ziu2 zi2 沼沚]],
         an islet in a pond.
+    ==
+  ====
+$$
+
+### 滓2 | _(2)Tsz'_ [[zi2]]
+
+$$
+R
+  ⽔ + 10
+U
+  U+6ED3
+F
+  ==
+  - [[F2.35 滓]] 洒滓渣滓
+  ==
+W
+  ====
+  - [[Page~613 (2)滓]]
+    ==
+    - Sediments, dregs;
+    - _chap(7) (2)tsz'_
+        [[zap1 zi2 汁滓]]
+        grains from spirits;
+    - _(1)ch(a/) (2)tsz'_
+        [[zaa1 zi2 渣滓]]
+        grounds, residuum, dregs;
+    - _(4)nai (2)tsz'_
+        [[nai4 zi2 泥滓]]
+        muddy settlings.
     ==
   ====
 $$

@@ -1125,6 +1125,14 @@ For all radicals, see [Index of characters by radical](./).
       ==
       </nav>
   //
+    , 10
+    ,
+      <nav class="sideways">
+      ==
+      - $滓zi2
+      ==
+      </nav>
+  //
     , 11
     ,
       <nav class="sideways">
