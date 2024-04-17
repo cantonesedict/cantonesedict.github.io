@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-04-16
+* %date-modified --> 2024-04-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1441,6 +1441,7 @@ $$
 - $指2
 - $旨2
 - $枳2
+- $梓2
 - $止2
 - $沚2
 - $祇2
@@ -1964,6 +1965,45 @@ C
 S
   ==
   - $枳zat1
+  ==
+$$
+
+### 梓2 | _(2)Tsz'_ [[zi2]]
+
+$$
+R
+  ⽊ + 7
+U
+  U+6893
+F
+  ==
+  - [[F2.35 梓]] 木名
+  ==
+W
+  ====
+  - [[Page~612 (2)梓]]
+    ==
+    - A sort of tree, considered to be the best of all trees
+      (a sort of cedar?);
+    - to cut blocks for books;
+    - one's village;
+    - _(2)tsz' (5)l(i/)_
+        [[zi2 lei5 梓里]],
+        my village;
+    - _(1)song (2)tsz'_
+        [[song1 zi2 桑梓]]
+        one's birthplace;
+    - _(2)tsz' (4)hang_
+        [[zi2 hang4 梓行]],
+        printed by <`....`>;
+    - _(2)tsz' (4)t(')(a/)n_
+        [[zi2 taan4 梓檀]],
+        a solid kind of black wood
+    ==
+  ====
+C
+  ==
+  - Williams' 梓檀: Should probably be 紫檀.
   ==
 $$
 
