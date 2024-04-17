@@ -1433,6 +1433,7 @@ $$
 =={.modern}
 - $仔2
 - $只2
+- $呰2
 - $咫2
 - $址2
 - $姊2
@@ -1566,6 +1567,33 @@ C
 S
   ==
   - $只zat1
+  ==
+$$
+
+### 呰2 | _(2)Tsz'_ [[zi2]]
+
+$$
+R
+  ⼝ + 6
+U
+  U+5470
+F
+  ==
+  - [[F2.35 呰]] ::呰短窳[弱]言短力弱才不能動作也::
+  ==
+W
+  ====
+  - [[Page~613 (2)呰]]
+    ==
+    - To molest, to be needlessly strict;
+    - to revile;
+    - weak;
+    - a defect, a flaw.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 溺 to 弱.
   ==
 $$
 

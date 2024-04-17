@@ -126,6 +126,7 @@ For all radicals, see [Index of characters by radical](./).
       - $咥zat6
       - $咮zau3
       - $咨zi1
+      - $呰zi2
       - $咫zi2
       ==
       </nav>
