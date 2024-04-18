@@ -3403,6 +3403,7 @@ $$
 - $稚6
 - $穉6
 - $竢6
+- $笥6
 - $自6
 - $豸6
 - $雉6
@@ -3971,6 +3972,36 @@ C
   ==
   - Fan Wan entry: The explanation seems to be for $涘6, not 竢.
   ==
+$$
+
+### 笥6 | _Tsz'(6)_ [[zi6]]
+
+$$
+R
+  ⽵ + 5
+U
+  U+7B25
+V
+  ==
+  - si3 (expected from 相吏切)
+  ==
+F
+  ==
+  - [[F2.36 笥]] 竹筒
+  ==
+W
+  ====
+  - [[Page~614 笥(6)]]
+    ==
+    - A hamper, a basket;
+    - _(1)sh(u") tsz'(6)_
+        [[syu1 zi6 書笥]]]
+        a portable book and writing-case;
+    - _fuk(7) tsz'(6)_
+        [[fuk1 zi6 腹笥]]
+        learned, well read.
+    ==
+  ====
 $$
 
 ### 自6 | _Tsz'(6)_ [[zi6]]
