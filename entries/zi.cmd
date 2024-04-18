@@ -813,6 +813,10 @@ W
         black garments.
     ==
   ====
+C
+  ==
+  - Fan Wan entry: The explanation seems to be for $輜1, not 緇.
+  ==
 $$
 
 ### 肢1 | _(1)Ch(i/)_ [[zi1]]
@@ -1314,7 +1318,9 @@ R
 U
   U+8F1C
 F
-  [[Not present]]
+  ==
+  - [[F2.34 緇]] 車屬
+  ==
 W
   ====
   - [[Page~611 (1)輜]]
@@ -1328,6 +1334,10 @@ W
         baggage wagons of an army.
     ==
   ====
+C
+  ==
+  - Fan Wan entry: Seems to have been erroneously placed under $緇1.
+  ==
 $$
 
 ### 錙1 | _(1)Tsz'_ [[zi1]]
