@@ -3381,6 +3381,7 @@ $$
 =={.modern}
 - $値6
 - $值6
+- $字6
 - $彘6
 - $治6
 - $痔6
@@ -3455,6 +3456,97 @@ S
   ==
   - $值zik6 (TODO)
   ==
+$$
+
+### 字6 | _Tsz'(6)_ [[zi6]]
+
+$$
+R
+  ⼦ + 3
+U
+  U+5B57
+F
+  ==
+  - [[F2.35 字]] 文字女子嫁人亦曰字又撫也愛也慈也乳也生也
+  ==
+W
+  ====
+  - [[Page~613 字(6)]]
+    ==
+    - A character, a letter;
+    - lettered, marked, written on;
+    - a writing, a letter, an order;
+    - a word, a symbol of thought;
+    - to bear, to nourish, to love, to suckle;
+    - the style or title taken at marriage;
+    - a name, a designation;
+    - to betroth a daughter;
+    - _(2)s(e/) tsz'(6)_
+        [[se2 zi6 寫字]]
+        to write;
+    - _tsz'(6) (5)m(o\) tsz'(6) (4)t(')au_
+        [[zi5 mou5 zi6 tau4 字母字頭]],
+        finals and initials, as used by the Chinese to express a third sound;
+    - _tsz'(6) (5)m(o\)_
+        [[zi6 mou5 字母]],
+        letters of an alphabet;
+    - _(5)m(o\) tsz'(6) mak(9)_
+        [[mou5 zi6 mak6 冇字墨]]
+        unlearned, unskilled in writing;
+    - _(4)man tsz'(6)_
+        [[man4 zi6 文字]]
+        composition, writing;
+    - _yat(7) (1)ch(e/)ung tsz'(6)_
+        [[jat1 zoeng1 zi6 一張字]]
+        a note, an order;
+    - _(5)m(o\) tsz'(6) (4)(u")n_
+        [[mou5 zi6 jyun4 冇字緣]],
+        no mind for learning;
+    - _(1)f(a/) (5)m(a/) tsz'(6)_
+        [[faa1 maa5 zi6 花碼字]]
+        contracted forms of the ten digits;
+        <## TODO: 花碼 faa1 maa5 ##>
+    - _tsz'(6) h(o\)(6)_
+        [[zi6 hou6 字號]]
+        name of a shop;
+        a "chop," as of tea;
+    - _chuk(7) tsz'(6) shat(7)_
+        [[zuk1 zi6 sat1 捉字蝨]]
+        to seek flaws in a writing;
+    - _tsz'(6) (5)ng(a/)n_
+        [[zi6 ngaan5 字眼]],
+        a set phrase, an expression;
+    - _pat(7) tsz'(6)_
+        [[bat1 zi6 不字]]
+        not betrothed;
+    - _(u/)t(9) tsz'(6)_ [[wut6 zi6 活字]]
+        or
+      _tsz'(6) nap(7)_ [[zi6 nap1 字粒]]
+        a type;
+    - _(1)ts(u")n tsz'(6)_
+        [[zyun1 zi6 尊字]]
+        what is your respected style?
+    - _p(i/)t(9) tsz'(6)_
+        [[bit6 zi6 別字]]
+        the familiar style, taken on entering life;
+    - _yan(3) tsz'(6) k(a/)k(8)_
+        [[jan3 zi6 gaak3-2 印字格]]
+        a copy-slip;
+    - _tsz'(6) k(a/)k(8)_
+        [[zi6 gaak3 字格]]
+        black lines;
+    - _tsz'(6) tsik(7)_
+        [[zi6 zik1 字跡]]
+        a mark, traces of writing.
+    ==
+  ====
+E
+  ====
+  - 【捉字蝨】 (zuk1 zi6 sat1):
+    ++
+    1. To nit-pick choice of words (or writing more generally).
+    ++
+  ====
 $$
 
 ### 彘6 | _Ch(i/)(6)_ [[zi6]]
