@@ -3395,6 +3395,7 @@ $$
 - $字6
 - $彘6
 - $治6
+- $涘6
 - $牸6
 - $痔6
 - $稚6
@@ -3731,6 +3732,33 @@ S
   ==
 $$
 
+### 涘6 | _Tsz'(6)_ [[zi6]]
+
+$$
+R
+  ⽔ + 7
+U
+  U+6D98
+F
+  ==
+  - [[F2.35 竢]] 水涯又音哀
+  ==
+W
+  ====
+  - [[Page~614 涘(6)]]
+    ==
+    - The banks of a river, the shores or mouth of a stream;
+    - _(2)shui tsz'(6)_
+        [[seoi2 zi6 水涘]]
+        the bank.
+    ==
+  ====
+C
+  ==
+  Fan Wan entry: Seems to have been erroneously placed under $竢6.
+  ==
+$$
+
 ### 牸6 | _Tsz'(6)_ [[zi6]]
 
 $$
@@ -3866,7 +3894,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: The explanation seems to be for 涘, not 竢.
+  - Fan Wan entry: The explanation seems to be for $涘6, not 竢.
   ==
 $$
 
