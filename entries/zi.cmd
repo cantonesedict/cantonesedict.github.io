@@ -3389,6 +3389,7 @@ $$
 - $痔6
 - $稚6
 - $穉6
+- $竢6
 - $自6
 - $豸6
 - $雉6
@@ -3833,6 +3834,30 @@ W
     [[Alternative form of 稚. **See $稚zi6 for the canonical entry.**]]
     --
   ====
+$$
+
+### 竢6 | _Tsz'(6)_ [[zi6]]
+
+$$
+R
+  ⽴ + 7
+U
+  U+7AE2
+F
+  ==
+  - [[F2.35 竢]] 水涯又音哀
+  ==
+W
+  ====
+  - [[Page~614 俟(6)竢(6)]]
+    --
+    [[Alternative form of 俟. **See $俟zi6 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: The explanation seems to be for 涘, not 竢.
+  ==
 $$
 
 ### 自6 | _Tsz'(6)_ [[zi6]]
