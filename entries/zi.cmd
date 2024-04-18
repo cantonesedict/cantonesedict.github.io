@@ -3393,6 +3393,7 @@ $$
 - $俟6
 - $値6
 - $值6
+- $嗣6
 - $字6
 - $彘6
 - $治6
@@ -3535,6 +3536,55 @@ C
 S
   ==
   - $值zik6 (TODO)
+  ==
+$$
+
+### 嗣6 | _Tsz'(6)_ [[zi6]]
+
+$$
+R
+  ⼝ + 10
+U
+  U+55E3
+F
+  ==
+  - [[F2.35 嗣]] 子息也繼也
+  ==
+W
+  ====
+  - [[Page~614 嗣(6)]]
+    ==
+    - To connect, as a family;
+    - to adopt;
+    - to inherit, to succeed to;
+    - children, posterity, heirs, descendants;
+    - an adopted heir;
+    - to practice, to learn fully;
+    - till;
+    - hereafter, then;
+    - _hau(6) tsz'(6)_
+        [[hau6 zi6 後嗣]]
+        descendants;
+    - _kai(3) tsz'(6)_
+        [[gai3 zi6 繼嗣]]
+        an adopted heir;
+    - _ts(u")t(9) tsz'(6)_
+        [[zyut6 zi6 絕嗣]]
+        posterity cut off;
+    - _(4)m(o\) tsz'(6) (4)t(')(a/)n_
+        [[mou4 zi6 taan4 無嗣壇]],
+        an orbate temple;
+    - _tsz'(6) wai(6)_
+        [[zi6 wai6 嗣位]]
+        to succeed to the throne;
+    - _tsz'(6) (1)yan p(i/)t(9) k(u/)(3)_
+        [[zi6 jan1 bit6 gu3 嗣因別故]]
+        from other causes following it.
+    ==
+  ====
+C
+  ==
+  - Williams' 繼嗣: Not necessarily adopted.
   ==
 $$
 
