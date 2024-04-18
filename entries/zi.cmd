@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-04-17
+* %date-modified --> 2024-04-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -3386,6 +3386,7 @@ $$
 - $痔6
 - $稚6
 - $穉6
+- $自6
 - $豸6
 - $雉6
 ==
@@ -3673,6 +3674,96 @@ W
     [[Alternative form of 稚. **See $稚zi6 for the canonical entry.**]]
     --
   ====
+$$
+
+### 自6 | _Tsz'(6)_ [[zi6]]
+
+$$
+R
+  ⾃ + 0
+U
+  U+81EA
+F
+  ==
+  - [[F2.35 自]] ::自[己]獨也從來也由也::
+  ==
+W
+  ====
+  - [[Page~613 自(6)]]
+    ==
+    - A preposition, from, commencing at;
+    - a pronoun, self, I;
+    - my own, myself, personally;
+    - to use;
+    - the 132d~radical;
+    - _tsz'(6) (2)k(i/)_
+        [[zi6 gei2 自己]],
+        myself, my own;
+    - _(5)n(i/) tsz'(6) (2)k(i/)_
+        [[nei5 zi6 gei2 你自己]],
+        you yourself;
+    - _tsz'(6) (4)wai_
+        [[zi6 wai4 自為]],
+        I did it;
+    - _tsz'(6) (O\)(3) ch(i/)(3) (4)sheng_
+        [[zi6 ou3 zi3 seng4-2 自澳至城]],
+        from Macao to Canton;
+    - _tsz'(6) (4)(i/)n_
+        [[zi6 jin4 自然]],
+        natural, spontaneous, self-existent;
+        certainly, surely;
+    - _tsz'(6) tsz'(6) (4)(i/)n (4)(i/)n (5)(u/)i (2)hi(u/)_
+        [[zi6 zi6 jin4 jin4 wui5 hiu2 自自然然會曉]],
+        it will soon become natural and easy to understand;
+    - _tsz'(6) (4)(i/)n (4)t(')ung_
+        [[zi6 jin4 tung4 自然銅]],
+        native copper;
+    - _pat(7) (2)ts(')ing tsz'(6) (4)loi_
+        [[bat1 cing2 zi6 loi4 不請自來]],
+        he came uninvited on his own lookout,
+        _i.~e._ the responsibility is his own,
+        as a patient undergoing an operation;
+    - _tsz'(6) 'ng(6)_
+        [[zi6 ng6 自誤]]
+        my fault;
+    - _tsz'(6) sh(i/)(6)_
+        [[zi6 si6 自是]]
+        self-confident, self-righteous;
+    - _tsz'(6) ts(o\)(6)_
+        [[zi6 zou6 自造]]
+        our own manufacture;
+    - [[see $住zyu6 for vernacular "yet" senses]] [[TODO]];
+    - _tsz'(6) tsz'(6) tsoi(6) tsoi(6)_
+        [[zi6 zi6 zoi6 zoi6 自自在在]]
+        in high spirits;
+    - _tsz'(6) hau(6)_
+        [[zi6 hau6 自後]]
+        henceforth;
+    - _tsz'(6) (5)yau (2)ch(u") (i/)(3)_
+        [[zi6 jau5 zyu2 ji3 自有主意]]
+        I will manage it;
+    - _tsz'(6) (4)ts(')am (2)t(u")n k(i/)n(3)_
+        [[zi6 cam4 dyun2 gin3 自尋短見]]
+        self destruction, suicide;
+    - _tsz'(6) tsok(8) tsz'(6) shau(6)_
+        [[zi6 zok3 zi6 sau6 自作自受]]
+        he gets what he gave;
+    - _tsz'(6) shik(9) tsz'(6)_
+        [[zi6 sik6 zi6 自食自]]
+        I find my own food;
+    - _tsz'(6) (4)loi [(2)]ko (4)sh(i/)_
+        [[zi6 loi4 go2 si4 自來嗰時]],
+        ever since that time;
+    - _tsz'(6) (1)ch(i/) t(')(a/)i(3) kwo(3)_
+        [[zi6 zi1 taai3 gwo3 自之太過]]
+        presumptuous.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 巳 to 己.
+  - Williams' 自來嗰時: Corrected _ko(3)_ [[go3]] to _(2)ko_ [[go2]].
+  ==
 $$
 
 ###+ 豸6 | _Ch(i/)(6)_ [[zi6]]
