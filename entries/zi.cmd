@@ -3379,6 +3379,7 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $俟6
 - $値6
 - $值6
 - $字6
@@ -3394,6 +3395,47 @@ $$
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 俟6 | _Tsz'(6)_ [[zi6]]
+
+$$
+R
+  ⼈ + 7
+U
+  U+4FDF
+A
+  ==
+  - $竢6
+  ==
+F
+  ==
+  - [[F2.35 俟]] 待也候也
+  ==
+W
+  ====
+  - [[Page~614 俟(6)竢(6)]]
+    ==
+    - To wait, to stay;
+    - to wait upon;
+    - to expect, to look for, to hope;
+    - to prepare for;
+    - until, expecting;
+    - _tsz'(6) hau(6)_
+        [[zi6 hau6 俟候]]
+        waiting for;
+    - _lap(9) tsz'(6) (4)(u/)i (1)yam_
+        [[lap6 zi6 wui4 jam1 立俟回音]],
+        wait for an answer;
+    - _tsz'(6) h(a/)(6) (u")t(9)_
+        [[zi6 haa6 jyut6 俟下月]]
+        till next month.
+    ==
+  ====
+S
+  ==
+  - $俟kei4 (TODO)
+  ==
+$$
 
 ### 値6 | _Ch(i/)(6)_ [[zi6]]
 
