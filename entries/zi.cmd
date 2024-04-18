@@ -3389,6 +3389,7 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $伺6
 - $俟6
 - $値6
 - $值6
@@ -3407,6 +3408,30 @@ $$
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 伺6 | _Tsz'(6)_ [[zi6]]
+
+$$
+R
+  ⼈ + 5
+U
+  U+4F3A
+F
+  ==
+  - [[F2.35 伺]] 窺竊也候也
+  ==
+W
+  ====
+  - [[Page~614 伺(6)]]
+    ==
+    - To wait upon, to wait for;
+    - to spy, to narrowly examine;
+    - _tsz'(6) hau(6)_
+        [[zi6 hau6 伺候]]
+        in readiness, waiting.
+    ==
+  ====
+$$
 
 ### 俟6 | _Tsz'(6)_ [[zi6]]
 
