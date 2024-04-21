@@ -3406,6 +3406,7 @@ $$
 - $穉6
 - $竢6
 - $笥6
+- $耜6
 - $自6
 - $豸6
 - $雉6
@@ -4064,6 +4065,32 @@ W
         learned, well read.
     ==
   ====
+$$
+
+### 耜6 | _Tsz'(6)_ [[zi6]]
+
+$$
+R
+  ⽾ + 5
+U
+  U+801C
+F
+  ==
+  - [[F2.36 ::[耜]::]] 耒[耜]耕田所以起土者
+  ==
+W
+  ====
+  - [[Page~614 耜(6)]]
+    ==
+    - A ploughshare;
+    - a colter, the part of a plough which enters the earth;
+    - a plough.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 𮋦 (⿰耒目) to 耜.
+  ==
 $$
 
 ### 自6 | _Tsz'(6)_ [[zi6]]
