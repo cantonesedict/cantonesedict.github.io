@@ -339,6 +339,14 @@ For all radicals, see [Index of characters by radical](./).
       - $瘴zoeng3
       ==
       </nav>
+  //
+    , 14
+    ,
+      <nav class="sideways">
+      ==
+      - $癡ci1
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⽧-characters ##>
