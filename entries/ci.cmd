@@ -52,6 +52,7 @@ $$
 - $痴1
 - $癡1
 - $胝1
+- $鴟1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -159,5 +160,36 @@ W
 S
   ==
   - $胝zi1
+  ==
+$$
+
+### 鴟1 | _(1)Ch(')(i/)_ [[ci1]]
+
+$$
+R
+  ⿃ + 5
+U
+  U+9D1F
+F
+  ==
+  - [[F1.36 鴟]] ::鴟鴞惡鳥[攫]鳥子而食者::
+  ==
+W
+  ====
+  - [[Page~10* (1)鴟]]
+    ==
+    - A kind of owl, or a sort of hawk;
+    - _kok(8) (1)ch(')(i/)_ [[gok3 ci1 角鴟]]^
+        or
+      _(1)ch(')(i/) (1)hi(u/)_ [[ci1 hiu1 鴟鴞]],
+        the horned owl;
+    - _(1)ch(')(i/) (1)ch(e/)ung_
+        [[ci1 zoeng1 鴟張]],
+        to act unscrupulously, as this bird does.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 欔 to 攫.
   ==
 $$
