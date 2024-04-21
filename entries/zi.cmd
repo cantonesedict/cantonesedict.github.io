@@ -3407,6 +3407,7 @@ $$
 - $自6
 - $豸6
 - $雉6
+- $食6
 - $飤6
 - $飼6
 ==
@@ -4165,6 +4166,36 @@ W
         the south door of a seraglio.
     ==
   ====
+$$
+
+### 食6 | _Tsz'(6)_ [[zi6]]
+
+$$
+R
+  ⾷ + 0
+U
+  U+98DF
+F
+  ==
+  - [[F2.35 食]] ::以食[餵]物曰食又飯也::
+  ==
+W
+  ====
+  - [[Page~614 食(6)]]
+    ==
+    - To feed, to set food before;
+    - to bring up;
+    - food, provision;
+    - _(4)ngau (4)y(e/)ung (4)yan (2)sho tsz'(6)_
+        [[ngau4 joeng4 jan4 so2 zi6 牛羊人所食]]
+        men rear sheep and oxen.
+    ==
+  ====
+C
+  ==
+  - The olden form for 飼; see $飼zi6.
+  - Fan Wan entry: Corrected 偎 to 餵.
+  ==
 $$
 
 ### 飤6 | _Tsz'(6)_ [[zi6]]
