@@ -68,6 +68,7 @@ $$
 - $粢1
 - $緇1
 - $肢1
+- $胝1
 - $胾1
 - $脂1
 - $芝1
@@ -840,6 +841,45 @@ W
         to quarter.
     ==
   ====
+$$
+
+###+ 胝1 | _(1)Ch(i/)_ [[zi1]]
+
+$$
+R
+  ⾁ + 5
+U
+  U+80DD
+V
+  ==
+  - ci1 (uncommon)
+  ==
+F
+  ==
+  - [[F1.36 胝 _(1)Ch(')(i/)_ (ci1)]] 皮厚也
+  ==
+W
+  ====
+  - [[Page~10* (1)胝 _(1)Ch(')(i/)_ (ci1); here normalised to _(1)Ch(i/)_ (zi1)]]
+    ==
+    - Thickened skin on the hand;
+    - growing callous;
+    - _[(4)]p(')(i/)n (1)[ch(i/)]_
+        [[pin4 zi1 胼胝]],
+        horny skin.
+    ==
+  ====
+C
+  ==
+  - The uncommon reading ci1 is that given in Fan Wan.
+    Whilst Kangxi quotes 《集韻》稱脂切,
+    it is explained 鳥胃 "bird's stomach" (same as 胵).
+  - Williams' 胼胝: Corrected _(1)p(')(i/)n_ [[pin1]] to _(4)p(')(i/)n_ [[pin4]].
+  ==
+S
+  ==
+  - $胝ci1
+  ==
 $$
 
 ### 胾1 | _(1)Tsz'_ [[zi1]]
