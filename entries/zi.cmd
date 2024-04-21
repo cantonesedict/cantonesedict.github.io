@@ -3401,6 +3401,7 @@ $$
 - $涘6
 - $牸6
 - $痔6
+- $祀6
 - $稚6
 - $穉6
 - $竢6
@@ -3913,6 +3914,42 @@ W
     - _(1)ch(')(u")n (4)ch(')(e/)ung ch(i/)(6)_
         [[cyun1 coeng4 zi6 穿腸痔]]
         fistula in ano.
+    ==
+  ====
+$$
+
+### 祀6 | _Tsz'(6)_ [[zi6]]
+
+$$
+R
+  ⽰ + 3
+U
+  U+7940
+F
+  ==
+  - [[F2.36 祀]] 祭祀
+  ==
+W
+  ====
+  - [[Page~614 祀(6)]]
+    ==
+    - To sacrifice to gods or devils, to offer sacrifices;
+    - sacrificial;
+    - a sacrifice;
+    - a year;
+    - like, as if;
+    - _(4)m(o\) tsz'(6)_
+        [[mou4 zi6 無祀]]
+        no descendants;
+    - _(4)(u")n tsz'(6)_
+        [[jyun4 zi6 元祀]]
+        first year of a reign;
+    - _tsz'(6) (4)shan_
+        [[zi6 san4 祀神]],
+        to sacrifice to the gods;
+    - _tsz'(6) (2)ts(o\)_
+        [[zi6 zou2 祀祖]],
+        to worship ancestors.
     ==
   ====
 $$
