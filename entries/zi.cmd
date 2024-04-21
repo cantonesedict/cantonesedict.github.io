@@ -507,7 +507,7 @@ W
         Chinese ebony;
     - _(1)sh(a/)n (1)ch(i/)_
         [[saan1 zi1 山枝]],
-        wild (1)s(u")n-(1)ch(i/) [[]] wood, a hard timber.
+        wild (1)s(u")n-(1)ch(i/) [[酸枝]] wood, a hard timber.
     ==
   ====
 $$
@@ -3395,6 +3395,7 @@ $$
 - $值6
 - $嗣6
 - $字6
+- $寺6
 - $巳6
 - $彘6
 - $治6
@@ -3683,6 +3684,53 @@ E
     ++
     1. To nit-pick choice of words (or writing more generally).
     ++
+  ====
+$$
+
+### 寺6 | _Tsz'(6)_ [[zi6]]
+
+$$
+R
+  ⼨ + 3
+U
+  U+5BFA
+V
+  ==
+  - zi6-2 (vernacular rising-tone noun)
+  ==
+F
+  ==
+  - [[F2.36 寺]] 僧舍也又官名如大理寺之類又寺人閹宦也
+  ==
+W
+  ====
+  - [[Page~614 寺(6)]]
+    ==
+    - An official residence, chambers about a court;
+    - a court, an office, a hall;
+    - an eunuch;
+    - a monastery, a Budhist temple;
+    - Budhists;
+    - _tsz'(6) (4)m(u/)n_
+        [[zi6 mun4 寺門]],
+        Budhists;
+    - _yap(9) tsz'(6)_
+        [[jap6 zi6-2 入寺]]
+        to become a priest;
+    - _t(a/)i(6) (5)l(i/) tsz'(6)_
+        [[daai6 lei6 zi6-2 大理寺]]
+        the Court of Appeal at Peking [[北京]];
+    - _tsz'(6) (4)shing_
+        [[zi6 sing4 寺丞]],
+        chief clerk in a court;
+    - _(4)yau tsz'(6)_
+        [[jau4 zi6 遊寺]]
+        to be changed from one office to another;
+        to saunter in a monastery.
+    ==
+    --
+    Used for the next [[$䦙6]].
+    --
   ====
 $$
 

@@ -603,6 +603,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Character entry links
 |:
   //
+    , 3
+    ,
+      <nav class="sideways">
+      ==
+      - $寺zi6
+      ==
+      </nav>
+  //
     , 8
     ,
       <nav class="sideways">
