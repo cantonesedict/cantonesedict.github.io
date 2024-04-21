@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $痴1
 - $癡1
+- $胝1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -134,5 +135,29 @@ C
   - Fan Wan entry: Corrected 土 to 上.
   - Williams' 癡拙噉穿亂處: Corrected _k(o\)m(3)_ [[gam3]] to _(2)k(o\)m_ [[gam2]].
   - Williams' 癡迷不醒: Corrected _(4)m(a/)i_ [[maai4]] to _(4)mai_ [[mai4]].
+  ==
+$$
+
+### 胝1 | _(1)Ch(')(i/)_ [[ci1]]
+
+$$
+R
+  ⾁ + 5
+U
+  U+80DD
+F
+  ==
+  - [[F1.36 胝]] 皮厚也
+  ==
+W
+  ====
+  - [[Page~10* (1)胝]]
+    --
+    [[Reading variation. **See $胝zi1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $胝zi1 (TODO)
   ==
 $$

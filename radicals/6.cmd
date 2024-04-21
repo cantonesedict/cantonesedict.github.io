@@ -549,6 +549,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $胝ci1
       - $胄zau6
       - $胏zi2
       ==
