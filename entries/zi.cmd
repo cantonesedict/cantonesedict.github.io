@@ -3395,6 +3395,7 @@ $$
 - $值6
 - $嗣6
 - $字6
+- $巳6
 - $彘6
 - $治6
 - $涘6
@@ -3680,6 +3681,27 @@ E
     ++
     1. To nit-pick choice of words (or writing more generally).
     ++
+  ====
+$$
+
+### 巳6 | _Tsz'(6)_ [[zi6]]
+
+$$
+R
+  ⼰ + 0
+U
+  U+5DF3
+F
+  ==
+  - [[F2.36 巳]] 時辰也
+  ==
+W
+  ====
+  - [[Page~614 巳(6)]]
+    ==
+    - The sixth of the 12~branches, denoted by a snake,
+      and corresponding to 9--11~A.~M.
+    ==
   ====
 $$
 
