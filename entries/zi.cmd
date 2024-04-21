@@ -3407,6 +3407,7 @@ $$
 - $自6
 - $豸6
 - $雉6
+- $飤6
 - $飼6
 ==
 </nav>
@@ -4163,6 +4164,24 @@ W
         [[zi6 mun4 雉門]],
         the south door of a seraglio.
     ==
+  ====
+$$
+
+### 飤6 | _Tsz'(6)_ [[zi6]]
+
+$$
+R
+  ⾷ + 2
+U
+  U+98E4
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~614 飤(6)飼(6)]]
+    --
+    [[Alternative form of 飼. **See $飼zi6 for the canonical entry.**]]
+    --
   ====
 $$
 

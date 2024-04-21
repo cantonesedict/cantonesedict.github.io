@@ -170,6 +170,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $飡caan1
+      - $飤zi6
       ==
       </nav>
   //
