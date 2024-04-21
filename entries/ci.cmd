@@ -49,10 +49,36 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $痴1
 - $癡1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 痴1 | _(1)Ch(')(i/)_ [[ci1]]
+
+$$
+R
+  ⽧ + 8
+U
+  U+75F4
+F
+  ==
+  - [[F1.36 痴]] 痴呆
+  - [[F1.36 癡]] ::同[上]愚也::
+  ==
+W
+  ====
+  - [[Page~10* (1)癡(1)痴]]
+    --
+    [[Alternative form of 癡. **See $癡ci1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 土 to 上.
+  ==
+$$
 
 ### 癡1 | _(1)Ch(')(i/)_ [[ci1]]
 
@@ -72,7 +98,7 @@ F
   ==
 W
   ====
-  - [[Page~10* (1)癡]]
+  - [[Page~10* (1)癡(1)痴]]
     ==
     - Foolish, silly;
     - stupid, inapt;
