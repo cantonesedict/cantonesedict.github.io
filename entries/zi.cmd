@@ -3410,6 +3410,7 @@ $$
 - $耜6
 - $自6
 - $豸6
+- $䦙6
 - $雉6
 - $食6
 - $飤6
@@ -4265,6 +4266,32 @@ S
   ==
   - $豸zaai6
   ==
+$$
+
+### 䦙6 | _Tsz'(6)_ [[zi6]]
+
+$$
+R
+  ⾨ + 6
+U
+  U+4999
+A
+  ==
+  - $寺6
+  ==
+F
+  ==
+  - [[F2.36 䦙]] 亦作寺閹宦也
+  ==
+W
+  ====
+  - A court, a hall where officers hold sittings;
+  - an eunuch;
+  - a chamberlain, an officer in waiting;
+  - _tsz'(6) (4)yan_
+      [[zi6 jan4 䦙人]],
+      an eunuch.
+  ====
 $$
 
 ### 雉6 | _Ch(i/)(6)_ [[zi6]]
