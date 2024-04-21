@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-04-18
+* %date-modified --> 2024-04-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -3407,6 +3407,7 @@ $$
 - $自6
 - $豸6
 - $雉6
+- $飼6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -4162,5 +4163,36 @@ W
         [[zi6 mun4 雉門]],
         the south door of a seraglio.
     ==
+  ====
+$$
+
+### 飼6 | _Tsz'(6)_ [[zi6]]
+
+$$
+R
+  ⾷ + 5
+U
+  U+98FC
+A
+  ==
+  - $食6
+  - $飤6
+  ==
+F
+  ==
+  - [[F2.35 飼]] 以食食人也
+  ==
+W
+  ====
+  - [[Page~614 飤(6)飼(6)]]
+    ==
+    - To feed, to nourish;
+    - to set food before;
+    - to rear, as animals;
+    - feed, provisions, eatables.
+    ==
+    --
+    Interchanged with the next [[$食6]].
+    --
   ====
 $$
