@@ -1024,6 +1024,14 @@ For all radicals, see [Index of characters by radical](./).
       ==
       </nav>
   //
+    , 10
+    ,
+      <nav class="sideways">
+      ==
+      - $褫ci1
+      ==
+      </nav>
+  //
     , 12
     ,
       <nav class="sideways">
