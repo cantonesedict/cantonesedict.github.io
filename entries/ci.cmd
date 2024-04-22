@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [ci1](#1)
+- [ci2](#2)
 ==
 </nav>
 <## /tones ##>
@@ -319,4 +320,55 @@ W
     [[Alternative form of 齝. **See $齝ci1 for the canonical entry.**]]
     --
   ====
+$$
+
+
+##{#2 .williams} (2)Ch(')(i/) (2)Ts(')z' [[ci2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $褫2
+==
+</nav>
+<## /tone-2-characters ##>
+
+###+ 褫2 | _(2)Ch(')(i/)_ [[ci2]]
+
+$$
+R
+  ⾐ + 10
+U
+  U+892B
+V
+  ==
+  - ci1 (common)
+  ==
+F
+  ==
+  - [[F1.36 褫 _(1)Ch(')(i/)_ (ci1)]] 奪也
+  ==
+W
+  ====
+  - [[Page~10* (1)褫 _(1)Ch(')(i/)_ (ci1); here normalised to _(2)Ch(')(i/)_ (ci2)]]
+    ==
+    - To take away insignia, to degrade;
+    - to take off clothes, to denude;
+    - a fringe;
+    - _[(2)]ch(')(i/) k(a/)k(8)_
+        [[ci2 gaak3 褫革]]
+        to dismiss from office;
+    - _[(2)]ch(')(i/) (1)ch(i/)n_
+        [[ci2 zin1 褫氈]],
+        plush, felt.
+    ==
+  ====
+C
+  ==
+  - The common reading ci1 is that given in Fan Wan.
+  ==
+S
+  ==
+  - $褫ci1
+  ==
 $$
