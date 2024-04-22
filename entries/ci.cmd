@@ -49,6 +49,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $呞1
 - $痴1
 - $癡1
 - $笞1
@@ -57,6 +58,26 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 呞1 | _(1)Ch(')(i/)_ [[ci1]]
+
+$$
+R
+  ⼝ + 5
+U
+  U+545E
+F
+  ==
+  - [[F1.36 呞]] 口張開也
+  ==
+W
+  ====
+  - [[Page~10* (1)呞(1)齝]]
+    --
+    [[Alternative form of 齝. **See $齝ci1 for the canonical entry.**]]
+    --
+  ====
+$$
 
 ### 痴1 | _(1)Ch(')(i/)_ [[ci1]]
 
