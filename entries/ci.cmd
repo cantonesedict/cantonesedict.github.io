@@ -55,6 +55,7 @@ $$
 - $笞1
 - $胝1
 - $鴟1
+- $齝1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -72,7 +73,7 @@ F
   ==
 W
   ====
-  - [[Page~10* (1)呞(1)齝]]
+  - [[Page~10* (1)呞(1)𪗪 (⿰齒司)]]
     --
     [[Alternative form of 齝. **See $齝ci1 for the canonical entry.**]]
     --
@@ -244,4 +245,34 @@ C
   ==
   - Fan Wan entry: Corrected 欔 to 攫.
   ==
+$$
+
+###+ 齝1 | _(1)Ch(')(i/)_ [[ci1]]
+
+$$
+R
+  ⿒ + 5
+U
+  U+9F5D
+A
+  ==
+  - $呞1
+  - $𪗪 [[⿰齒司]]1
+  ==
+F
+  ==
+  - [[F1.36 呞]] 口張開也
+  ==
+W
+  ====
+  - [[Page~10* (1)呞(1)𪗪 (⿰齒司); here normalised to 齝]]
+    ==
+    - To ruminate, to chew the cud, vulgarly called
+      _(4)ngau t(')(o\)(3) (2)ts(')(o\)_
+        [[ngau4 tou3 cou2 牛吐草]].
+    ==
+    --
+    The Fan Wan defines it [[呞]] to gape.
+    --
+  ====
 $$
