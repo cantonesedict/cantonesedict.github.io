@@ -52,6 +52,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $齝ci1
+      - $𪗪 (⿰齒司)ci1
       ==
       </nav>
 ''

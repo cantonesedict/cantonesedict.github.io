@@ -56,6 +56,7 @@ $$
 - $胝1
 - $鴟1
 - $齝1
+- $𪗪 (⿰齒司)1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -273,6 +274,24 @@ W
     ==
     --
     The Fan Wan defines it [[呞]] to gape.
+    --
+  ====
+$$
+
+### 𪗪1 [[⿰齒司]] | _(1)Ch(')(i/)_ [[ci1]]
+
+$$
+R
+  ⿒ + 5
+U
+  U+2A5EA
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~10* (1)呞(1)𪗪 (⿰齒司)]]
+    --
+    [[Alternative form of 齝. **See $齝ci1 for the canonical entry.**]]
     --
   ====
 $$
