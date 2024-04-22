@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2024-04-21
+* %date-modified --> 2024-04-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $痴1
 - $癡1
+- $笞1
 - $胝1
 - $鴟1
 ==
@@ -137,6 +138,36 @@ C
   - Williams' 癡拙噉穿亂處: Corrected _k(o\)m(3)_ [[gam3]] to _(2)k(o\)m_ [[gam2]].
   - Williams' 癡迷不醒: Corrected _(4)m(a/)i_ [[maai4]] to _(4)mai_ [[mai4]].
   ==
+$$
+
+### 笞1 | _(1)Ch(')(i/)_ [[ci1]]
+
+$$
+R
+  ⽵ + 5
+U
+  U+7B1E
+F
+  ==
+  - [[F1.36 笞]] 捶擊也
+  ==
+W
+  ====
+  - [[Page~10* (1)笞]]
+    ==
+    - To punish with a bamboo, to bastinado;
+    - to correct, so as to reform;
+    - to scourge, to flog, to bamboo;
+    - _(1)ch(')(i/) ch(e/)ung(6)_
+        [[ci1 zoeng6 笞杖]]
+        the stick used in a y(a/)mun [[衙門]] to punish;
+    - _(1)ch(')(i/) ch(a/)k(8)_
+        [[ci1 zaak3 笞責]]
+        to chastise culprits, vulgo,
+        _(2)t(a/) (2)p(a/)n (2)tsz'_
+        [[daa2 baan2 zi2 打板子]].
+    ==
+  ====
 $$
 
 ### 胝1 | _(1)Ch(')(i/)_ [[ci1]]
