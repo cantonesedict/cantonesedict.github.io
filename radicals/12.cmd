@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 12-stroke radicals
-* %date-modified --> 2024-04-09
+* %date-modified --> 2024-04-22
 * %copyright-prior-years -->
 * %meta-description --> index of characters with 12-stroke radicals
 
@@ -40,6 +40,23 @@ For all radicals, see [Index of characters by radical](./).
 ## ⿉ (millet)
 
 <## radical-⿉-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 11
+    ,
+      <nav class="sideways">
+      ==
+      - $黐ci1
+      ==
+      </nav>
+''
+||||
 <## /radical-⿉-characters ##>
 
 

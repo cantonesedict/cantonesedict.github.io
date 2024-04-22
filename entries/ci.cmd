@@ -57,6 +57,7 @@ $$
 - $胝1
 - $褫1
 - $鴟1
+- $黐1
 - $齝1
 - $𪗪 (⿰齒司)1
 ==
@@ -271,6 +272,100 @@ W
 C
   ==
   - Fan Wan entry: Corrected 欔 to 攫.
+  ==
+$$
+
+### 黐1 | _(1)Ch(')(i/)_ [[ci1]]
+
+$$
+R
+  ⿉ + 11
+U
+  U+9ED0
+A
+  ==
+  - $𥼝 [[⿰米禽]]1
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~10* (1)𥼝 (⿰米禽)(1)黐]]
+    ==
+    - To attach to, to stick on;
+    - glutinous, sticky, pasty;
+    - _(1)ch(')(i/) (1)k(a/)u_
+        [[ci1 gaau1 黐膠]],
+        birdlime;
+    - _(1)ch(')(i/) k(e/)uk(8)_
+        [[ci1 goek3 黐腳]]
+        to sorn, to sponge for meals;
+    - _(4)'m (1)ch(')(i/) (4)m(a/)i_
+        [[m4 ci1 maai4 唔黐埋]],
+        it don't stick;
+    - _(1)ch(')(i/) tak(7) (2)h(o\) shat(9)_
+        [[ci1 dak1 hou2 sat6 黐得好實]]
+        sticks very tightly;
+    - _(1)ch(')(i/) mak(9) (1)hong_
+        [[ci1 mak6 hong1 黐麥糠]],
+        a sponger, a sorner.
+    ==
+  ====
+E
+  ====
+  - 【黐】 (ci1):
+    ++
+    1. To stick, to be sticky, to cling.
+       ==
+       - 黐住咗 (ci1 zyu6 zo2): "[It's] stuck [onto it]."
+       - 好黐牙 (hou2 ci1 ngaa4): "Really clingy to [the] teeth."
+       - 黐底 (ci1 dai2): "Stuck to [the] bottom [of the pot]."
+       - 黐鑊 (ci1 wok6): "Stuck to [the] wok."
+       - 黐𣲷𣲷 (ci1 nap6 nap6): "Sticky [and] wet."
+       ==
+    1. To freeload, to impose on another (for food etc.).
+       ==
+       - 黐餐 (ci1 caan1): "Sponge [a] meal."
+       - 黐車坐 (ci1 ce1 co5): "Freeload for [a] car ride."
+       ==
+    1. Short for [黐線](#cantonese-黐線).
+       ==
+       - 做到黐咗 (zou6 dou3 ci1 zo2): "Worked till [he's] crazy."
+       ==
+    ++
+  - 【黐肺】 (ci1 fai3):
+    ++
+    1. To be exhausted. (Literally, "stuck-together lungs".)
+       ==
+       - 熱到黐肺 (jit6 dou3 ci1 fai3): "So hot [I'm] knackered."
+       ==
+    ++
+  - 【黐脷根】 (ci1 lei6 gan1):
+    ++
+    1. To have a lisp. (Literally, "sticky tongue-root".)
+    ++
+  - 【黐孖筋】 (ci1 maa1 gan1):
+    ++
+    1. Crazy, insane.
+    ++
+  - 【黐線】 (ci1 sin6):
+    ++
+    1. Crazy, insane.
+      ==
+      - 黐咗線咩 (ci1 zo2 sin3 me1): "[Have you] gone crazy?"
+      - 黐線㗎 (ci1 sin3 ga3): "[It's] crazy!"
+      ==
+    ++
+  ====
+  --
+  Olden attestation for 黐 _(1)ch(')(i/)_ [[ci1]] meaning "glue",
+  hence "sticky":
+  --
+  ==
+  - ::B1.w119b0404 吕支切 (:黐:) (:黏也又丑知切:)::
+  - ::B1.w120b0605 (:丑知切:) (:黐:) (:所以粘鳥:)又吕支切::
+  - ::K. (:黐:) (:《廣韻》丑知切《集韻》《正韻》抽知切𠀤音摛《玉篇》黏也\
+      《廣韻》黐膠所以黏鳥:)　又《廣韻》呂支切《集韻》鄰知切𠀤音離義同::
   ==
 $$
 
