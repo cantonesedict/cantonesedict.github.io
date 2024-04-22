@@ -211,6 +211,14 @@ For all radicals, see [Index of characters by radical](./).
       - $䊢zoeng1
       ==
       </nav>
+  //
+    , 13
+    ,
+      <nav class="sideways">
+      ==
+      - $𥼝 (⿰米禽)ci1
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⽶-characters ##>
