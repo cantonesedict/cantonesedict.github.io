@@ -51,6 +51,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $呞1
+- $嗤1
 - $痴1
 - $癡1
 - $笞1
@@ -84,6 +85,37 @@ W
     [[Alternative form of 齝. **See $齝ci1 for the canonical entry.**]]
     --
   ====
+$$
+
+### 嗤1 | _(1)Ch(')(i/)_ [[ci1]]
+
+$$
+R
+  ⼝ + 10
+U
+  U+55E4
+F
+  ==
+  - [[F1.36 ::[嗤]::]] 笑也
+  ==
+W
+  ====
+  - [[Page~10* (1)嗤]]
+    ==
+    - Laughing;
+    - to laugh at;
+    - _(1)h(o\)m (1)ch(')(i/)_
+        [[ham1 ci1 堪嗤]],
+        ridiculous;
+    - _si(u/)(3) (1)ch(')(i/) (1)ch(')(i/)_
+        [[siu3 ci1 ci1 笑嗤嗤]],
+        to laugh heartily.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised headword 𠷣 (⿰口虽) to 嗤.
+  ==
 $$
 
 ### 痴1 | _(1)Ch(')(i/)_ [[ci1]]
