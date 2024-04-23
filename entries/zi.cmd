@@ -2272,6 +2272,9 @@ W
     Often confounded with and used for _(2)ch(i/)_ [[zi2]] 祗
     [[see $祗zi2]].
     --
+    --
+    [[In particular, an alternative form of 只 (for "only" senses). **See $只zi2 for the canonical entry.**]]
+    --
   ====
 S
   ==
@@ -2330,6 +2333,10 @@ W
     [[Otherwise, an alternative form of 只 (for "only" senses). **See $只zi2 for the canonical entry.**]]
     --
   ====
+C
+  ==
+  - Easily confused with 祇, see $祇zi2.
+  ==
 S
   ==
   - $祗zi1
