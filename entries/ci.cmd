@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2024-04-22
+* %date-modified --> 2024-04-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -56,6 +56,7 @@ $$
 - $笞1
 - $𥼝 (⿰米禽)1
 - $胝1
+- $蚩1
 - $褫1
 - $鴟1
 - $黐1
@@ -236,6 +237,40 @@ W
 S
   ==
   - $胝zi1
+  ==
+$$
+
+### 蚩1 | _(1)Ch(')(i/)_ [[ci1]]
+
+$$
+R
+  ⾍ + 4
+U
+  U+86A9
+F
+  ==
+  - [[F1.36 ::[蚩]::]] 無知貌
+  ==
+W
+  ====
+  - [[Page~10* (1)蚩]]
+    ==
+    - A worm;
+    - ignorant, stupid;
+    - unpolished, sincere, rustic;
+    - to impose on;
+    - to treat as if ignorant, to despise;
+    - _(1)ch(')(i/) (4)man_
+        [[ci1 man4 蚩民]],
+        the uneducated people;
+    - _(1)ch(')(i/) (1)ch(')(i/)_
+        [[ci1 ci1 蚩蚩]],
+        honest, blunt, rustic.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword ⿱山虫 to 蚩.
   ==
 $$
 
