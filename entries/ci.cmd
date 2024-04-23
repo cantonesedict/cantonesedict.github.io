@@ -598,6 +598,7 @@ $$
 =={.modern}
 - $坻4
 - $墀4
+- $池4
 - $蚳4
 - $遲4
 ==
@@ -656,6 +657,53 @@ W
         the vermilion avenue, _i.~e._ the emperor's palace.
     ==
   ====
+$$
+
+### 池4 | _(4)Ch(')(i/)_ [[ci4]]
+
+$$
+R
+  ⽔ + 3
+U
+  U+6C60
+F
+  ==
+  - [[F1.38 池]] 池沼
+  ==
+W
+  ====
+  - [[Page~11* (4)池]]
+    ==
+    - A tank, a pool, a pond;
+    - a ditch, a fosse;
+    - stagnant water;
+    - _(4)[shing] (4)ch(')(i/)_
+        [[sing4 ci4 城池]],
+        a moat;
+    - _(1)chung (4)ch(')(i/)_
+        [[zung1 ci4 中池]],
+        the heart;
+    - _(i/)n(6) (4)ch(')(i/)_
+        [[jin6 ci4 硯池]],
+        a water-cup for writing;
+    - _(2)tsau (4)ch(')(i/) yuk(9) (4)lam_
+        [[zau2 ci4 juk6 lam4 酒池肉林]],
+        a wine tank and meat-grove, _i.~e._ plenty;
+    - _(1)ch(')(a/) (4)ch(')(i/)_
+        [[caa1 ci4 差池]],
+        a mirage pool, a take-in, a mistake;
+    - _(4)ch(')(i/) (4)t(')ong_ [[ci4 tong4 池塘]]^
+        or
+      _(4)(u") (4)ch(')(i/)_ [[jyu4 ci4 魚池]],
+        a fish-pool.
+    ==
+  ====
+C
+  ==
+  - Williams' 城池: Changed _(4)sheng_ [[seng4]]
+    to literary reading _(4)shing_ [[sing4]].
+  - Williams' 酒池肉林: Originally used to describe the excesses of 紂王.
+  ==
 $$
 
 ### 蚳4 | _(4)Ch(')(i/)_ [[ci4]]
