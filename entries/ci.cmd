@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [ci1](#1)
 - [ci2](#2)
+- [ci4](#4)
 ==
 </nav>
 <## /tones ##>
@@ -587,4 +588,40 @@ S
   ==
   - $褫ci1
   ==
+$$
+
+
+##{#4 .williams} (4)Ch(')(i/) (4)Ts(')z' [[ci4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways">
+=={.modern}
+- $墀4
+==
+</nav>
+<## /tone-4-characters ##>
+
+### 墀4 | _(4)Ch(')(i/)_ [[ci4]]
+
+$$
+R
+  ⼟ + 12
+U
+  U+5880
+F
+  ==
+  - [[F1.38 墀]] 丹墀
+  ==
+W
+  ====
+  - [[Page~11* (4)墀]]
+    ==
+    - A porch, a vestibule or piazza, reached by a few steps;
+    - a courtyard;
+    - the path or walk somewhat elevated between the gate and palace;
+    - _(1)t(a/)n (4)ch(')(i/)_
+        [[daan1 ci4 丹墀]],
+        the vermilion avenue, _i.~e._ the emperor's palace.
+    ==
+  ====
 $$
