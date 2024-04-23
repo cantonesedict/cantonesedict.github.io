@@ -52,6 +52,7 @@ $$
 =={.modern}
 - $呞1
 - $嗤1
+- $媸1
 - $痴1
 - $癡1
 - $笞1
@@ -115,6 +116,40 @@ W
 C
   ==
   - Fan Wan entry: Normalised headword 𠷣 (⿰口虽) to 嗤.
+  ==
+$$
+
+### [媸]1 | _(1)Ch(')(i/)_ [[ci1]]
+
+$$
+R
+  ⼥ + 10
+U
+  U+5AB8
+F
+  ==
+  - [[F1.36 ::[媸]::]] ::妍[媸]::
+  ==
+W
+  ====
+  - [[Page~11* ::(1)[媸]^::]]
+    ==
+    - Ugly;
+    - a homely woman;
+    - lewd, worthless, foolish;
+    - _(1)ch(')(i/) (4)n(o\)_
+        [[ci1 nou4 媸奴]],
+        a harridan;
+    - _(4)(i/)n (1)ch(')(i/) tsz'(6) [(i/)n](6)_
+        [[jin4 ci1 zi6 jin6 妍媸自見]]
+        he knows whether he is handsome or ugly.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised headword 𡟎 (⿰女虽) to 媸.
+  - Williams misprints 媸 as 𡟎 (⿰女⿱山虫).
+  - Williams' 妍媸自見: Corrected _k(i/)n(6)_ [[gin6]] to _(i/)n(6)_ [[jin6]].
   ==
 $$
 
