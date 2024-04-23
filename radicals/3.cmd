@@ -274,6 +274,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $址zi2
+      - $坁zi2
       ==
       </nav>
   //
@@ -285,6 +286,7 @@ For all radicals, see [Index of characters by radical](./).
       - $坳aau3
       - $坼caak3
       - $坻ci4
+      - $坻zi2
       ==
       </nav>
   //

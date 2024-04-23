@@ -1480,6 +1480,8 @@ $$
 - $呰2
 - $咫2
 - $址2
+- $坁2
+- $坻2
 - $姊2
 - $子2
 - $帋2
@@ -1693,6 +1695,52 @@ W
         a foundation, a base, a dependance.
     ==
   ====
+$$
+
+###+ 坁2 | _(2)Ch(i/)_ [[zi2]]
+
+$$
+R
+  ⼟ + 4
+U
+  U+5741
+A
+  ==
+  - $坻2
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~11* (4)坻 _(4)Ch(')(i/)_ (ci4); here normalised to 坁, and corrected to _(2)Ch(i/)_ (zi2)]]
+    ==
+    - [[...]];
+    - to stop.
+    ==
+  ====
+$$
+
+###+ 坻2 | _(2)Ch(i/)_ [[zi2]]
+
+$$
+R
+  ⼟ + 5
+U
+  U+577B
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~11* (4)坻 _(4)Ch(')(i/)_ (ci4); here corrected to _(2)Ch(i/)_ (zi2)]]
+    --
+    [[Alternative form of 坁. **See $坁zi2 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $坻ci4
+  - $坻dai2 (TODO)
+  ==
 $$
 
 ### 姊2 | _(2)Tsz'_ [[zi2]]
