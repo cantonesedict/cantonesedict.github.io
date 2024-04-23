@@ -622,7 +622,7 @@ W
     - a ledge of rocks in a stream;
     - a bank;
     - to bank in;
-    - [[see $坻zi2 for "stop" senses]].
+    - [[see $坁zi2 for "stop" senses]].
     ==
   ====
 S
