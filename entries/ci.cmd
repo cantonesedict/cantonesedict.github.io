@@ -597,6 +597,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $墀4
+- $遲4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -624,4 +625,72 @@ W
         the vermilion avenue, _i.~e._ the emperor's palace.
     ==
   ====
+$$
+
+### 遲4 | _(4)Ch(')(i/)_ [[ci4]]
+
+$$
+R
+  ⾡ + 12
+U
+  U+9072
+F
+  ==
+  - [[F1.38 遲]] 緩也又迎也又陵遲
+  ==
+W
+  ====
+  - [[Page~11* (4)遲]]
+    ==
+    - Slow, dilatory;
+    - late, tardy;
+    - not urgent;
+    - to delay, to walk leisurely;
+    - [[see $遲zi6 for "await" senses]];
+    - to procrastinate;
+    - _(4)loi tak(7) (4)ch(')(i/)_
+        [[loi4 dak1 ci4 來得遲]],
+        came late;
+    - _(4)ch(')(i/) (1)s(a/)m yat(9) tsau(6) (4)loi_
+        [[ci4 saam1 jat6 zau6 loi4 遲三日就來]],
+        come in three days;
+    - _(4)ch(')(i/) (1)hi(u/)_
+        [[ci4 hiu1 遲嘵]],
+        you are late!
+    - _(5)t(')o (4)ch(')(i/)_
+        [[to5 ci4 ？遲]],
+        to put off continually;
+    - _k(o\)m(3) (4)ch(')(i/)_
+        [[gam3 ci4 咁遲]],
+        so late!
+    - _f(u/)i(3) han(6) (4)ch(')(i/)_
+        [[fui3 han6 ci4 悔恨遲]],
+        unavailing repentance;
+    - _(4)ch(')(i/) (4)loi pat(7) k(')ap(9)_
+        [[ci4 loi4 bat1 kap6 遲來不及]]
+        you will be too late to reach [the boat];
+        [[these square brackets appear in the original text]]
+    - _(4)ch(')(i/) (5)h(a/) (1)t(')(i/)m_
+        [[ci4 haa5 tim1 遲吓添]]^
+        wait a little longer;
+    - _(4)ch(')(i/) yat(7) chan(6)_
+        [[ci4 jat1 zan6 遲一陣]]
+        wait a while;
+    - _(4)ch(')(i/) (4)'m (4)ch(')(i/)_
+        [[ci4 m4 ci4 遲唔遲]],
+        will it be late?
+        am I late?
+    - _(1)ch(')(e/)ung ngoi(6) yat(9) (4)ch(')(i/) (4)ch(')(i/)_
+        [[coeng1 ngoi6 jat6 ci4 ci4 窗外日遲遲]],
+        the sun goes down slowly.
+    ==
+  ====
+C
+  ==
+  - Williams' 遲吓添: More "a while later", since this is vernacular.
+  ==
+S
+  ==
+  - $遲zi6 (TODO)
+  ==
 $$
