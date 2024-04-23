@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-04-21
+* %date-modified --> 2024-04-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2142,7 +2142,7 @@ W
     - interrupted, stopped;
     - to cease from, to desist, to be still;
     - to remain, to wait;
-    - [[see $只2 for "only" senses]];
+    - [[see $只zi2 for "only" senses]];
     - the 77th~radical of characters mostly relating to rest;
     - [[...]];
     - _(1)ch(i/) (2)ch(i/)_
