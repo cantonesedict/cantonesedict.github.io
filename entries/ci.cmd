@@ -596,11 +596,41 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $坻4
 - $墀4
 - $遲4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 坻4 | _(4)Ch(')(i/)_ [[ci4]]
+
+$$
+R
+  ⼟ + 5
+U
+  U+577B
+F
+  ==
+  - [[F1.38 坻]] 水中高地
+  ==
+W
+  ====
+  - [[Page~11* (4)坻]]
+    ==
+    - An islet;
+    - a ledge of rocks in a stream;
+    - a bank;
+    - to bank in;
+    - [[see $坻zi2 for "stop" senses]].
+    ==
+  ====
+S
+  ==
+  - $坻dai2 (TODO)
+  - $坻zi2 (TODO)
+  ==
+$$
 
 ### 墀4 | _(4)Ch(')(i/)_ [[ci4]]
 

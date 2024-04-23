@@ -284,6 +284,7 @@ For all radicals, see [Index of characters by radical](./).
       - $坳aau1
       - $坳aau3
       - $坼caak3
+      - $坻ci4
       ==
       </nav>
   //
