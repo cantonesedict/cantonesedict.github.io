@@ -598,6 +598,7 @@ $$
 =={.modern}
 - $坻4
 - $墀4
+- $蚳4
 - $遲4
 ==
 </nav>
@@ -653,6 +654,26 @@ W
     - _(1)t(a/)n (4)ch(')(i/)_
         [[daan1 ci4 丹墀]],
         the vermilion avenue, _i.~e._ the emperor's palace.
+    ==
+  ====
+$$
+
+### 蚳4 | _(4)Ch(')(i/)_ [[ci4]]
+
+$$
+R
+  ⾍ + 5
+U
+  U+86B3
+F
+  ==
+  - [[F1.38 蚳]] 姓
+  ==
+W
+  ====
+  - [[Page~11* (4)蚳]]
+    ==
+    - Eggs or larva of ants. One says, a bloodsucker.
     ==
   ====
 $$
