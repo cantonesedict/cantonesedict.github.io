@@ -1040,6 +1040,7 @@ $$
 - $熾3
 - $翄3
 - $翅3
+- $饎3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -1221,6 +1222,39 @@ C
   ==
   - Williams' 展翅: More spreading than flapping.
   ==
+$$
+
+### 饎3 | _Ch(')(i/)(3)_ [[ci3]]
+
+$$
+R
+  ⾷ + 12
+U
+  U+994E
+A
+  ==
+  - $糦3
+  ==
+F
+  ==
+  - [[F1.42 饎]] 酒食
+  - [[F1.42 糦]] 黍稷
+  ==
+W
+  ====
+  - [[Page~12* 饎(3)糦(3)]]
+    ==
+    - To cook or dress provisions;
+    - wine and food, victuals;
+    - millet used in sacrifice;
+    - _ch(')(i/)(3) ch(a/)n(6)_
+        [[ci3 zaan6 饎饌]]
+        food and drink;
+    - _ch(')(i/)(3) (4)(i/)n_
+        [[ci3 jin4 饎筵]],
+        a feast.
+    ==
+  ====
 $$
 
 
