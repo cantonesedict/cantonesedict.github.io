@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-04-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -197,6 +197,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $且2
+- $哆2
 - $扯2
 - $抯2
 - $撦2
@@ -261,6 +262,42 @@ C
 S
   ==
   - $且zeoi1 (TODO)
+  ==
+$$
+
+### 哆2 | _(2)Ch(')(e/)_ [[ce2]]
+
+$$
+R
+  ⼝ + 6
+U
+  U+54C6
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~12* (2)哆]]
+    ==
+    - [[....]];
+    - _(2)[ch(')(e/)] (4)(i/)n_
+        [[ce2 jin4 哆然]],
+        sneering at, disobedient[.]
+    ==
+    --
+    Also read _(2)ch(')(e/)_ [[ce2]];
+    --
+    ==
+    - the lower lip hanging down.
+    ==
+  ====
+C
+  ==
+  - Williams' 哆然: Corrected _(2)ch(')(i/)_ [[ci2]] to _(2)ch(')(e/)_ [[ce2]]
+    (per Kangxi 《註》哆然衆有不服之心).
+  ==
+S
+  ==
+  - $哆ci2
   ==
 $$
 

@@ -606,9 +606,7 @@ W
     - Gaping;
     - an open mouth, like a fish;
     - large lipped;
-    - _(2)ch(')(i/) (4)(i/)n_
-        [[ci2 jin4 哆然]],
-        sneering at, disobedient[.]
+    - [[see $哆ce2 for "disobedient" sense]][.]
     ==
     --
     Also read _(2)ch(')(e/)_ [[ce2]]; [[**see $哆ce2**]].
@@ -621,7 +619,7 @@ C
   ==
 S
   ==
-  - $哆ce2 (TODO)
+  - $哆ce2
   ==
 $$
 
