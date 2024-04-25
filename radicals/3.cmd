@@ -123,6 +123,7 @@ For all radicals, see [Index of characters by radical](./).
       - $哎ai1
       - $咤caa3
       - $哂can2
+      - $哆ci2
       - $咱zaa1
       - $咥zat6
       - $咮zau3

@@ -546,6 +546,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $侈2
+- $哆2
 - $始2
 - $弛2
 - $恥2
@@ -587,6 +588,41 @@ W
         exaggerated talk.
     ==
   ====
+$$
+
+### 哆2 | _(2)Ch(')(i/)_ [[ci2]]
+
+$$
+R
+  ⼝ + 6
+U
+  U+54C6
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~12* (2)哆]]
+    ==
+    - Gaping;
+    - an open mouth, like a fish;
+    - large lipped;
+    - _(2)ch(')(i/) (4)(i/)n_
+        [[ci2 jin4 哆然]],
+        sneering at, disobedient[.]
+    ==
+    --
+    Also read _(2)ch(')(e/)_ [[ce2]]; [[**see $哆ce2**]].
+    --
+  ====
+C
+  ==
+  - Williams' like a fish: Kangxi reads _(2)t(e/)_ [[de2]],
+    quoting 《集韻》丁寫切爹上聲魚口張貌.
+  ==
+S
+  ==
+  - $哆ce2 (TODO)
+  ==
 $$
 
 ### 始2 | _(2)Ch(')(i/)_ [[ci2]]
