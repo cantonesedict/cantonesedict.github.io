@@ -419,6 +419,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Character entry links
 |:
   //
+    , 4
+    ,
+      <nav class="sideways">
+      ==
+      - $翅ci3
+      ==
+      </nav>
+  //
     , 5
     ,
       <nav class="sideways">

@@ -1037,6 +1037,7 @@ $$
 - $啻3
 - $幟3
 - $熾3
+- $翅3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -1127,6 +1128,55 @@ W
         the more the fiercer it burns.
     ==
   ====
+$$
+
+### 翅3 | _Ch(')(i/)(3)_ [[ci3]]
+
+$$
+R
+  ⽻ + 4
+U
+  U+7FC5
+A
+  ==
+  - $翄3
+  ==
+F
+  ==
+  - [[F1.42 翅]] 鳥翼
+  ==
+W
+  ====
+  - [[Page~12* 翅(3)翄(3)]]
+    --
+    Used for the last [[$啻3]].
+    --
+    ==
+    - Wings;
+    - fins;
+    - _ch(')(i/)(3) yik(9)_
+        [[ci3 jik6 翅翼]]
+        wings;
+    - _(4)(u") ch(')(i/)(3)_
+        [[jyu4 ci3 魚翅]]
+        fins;
+        the shark's fins;
+    - _(2)ch(i/)n ch(')(i/)(3)_
+        [[zin2 ci3 展翅]]
+        to flap the wings;
+    - _ch(')(i/)(3) (4)p(')(a/)i_
+        [[ci3 paai4 翅排]],
+        spread out like a comb;
+    - _(4)kw(')an ch(')(i/)(3)_ [[kwan4 ci3 裙翅]]
+        and
+      _(1)t(u/)i ch(')(i/)(3)_ [[deoi1 ci3 堆翅]]
+        are sorts of shark's fins.
+    ==
+  ====
+C
+  ==
+  - Williams' 展翅: More spreading than flapping.
+  ==
 $$
 
 
