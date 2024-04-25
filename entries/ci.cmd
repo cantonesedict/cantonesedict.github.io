@@ -1034,11 +1034,50 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $啻3
 - $幟3
 - $熾3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 啻3 | _Ch(')(i/)(3)_ [[ci3]]
+
+$$
+R
+  ⼝ + 9
+U
+  U+557B
+F
+  ==
+  - [[F1.42 啻]] ::[但]也止也::
+  ==
+W
+  ====
+  - [[Page~12* 啻(3)]]
+    ==
+    - Only;
+    - to stop at;
+    - an overplus;
+    - _pat(7) ch(')(i/)(3)_
+        [[bat1 ci3 不啻]]
+        not only, more than;
+    - _(4)ho ch(')(i/)(3) (1)ts(')(i/)n m(a/)n(6)_
+        [[ho4 ci3 cin1 maan6 何啻千萬]]
+        can it stop at ten millions?
+    - _pat(7) ch(')(i/)(3) f(u/)(6) (5)m(o\)_
+        [[bat1 ci3 fu6 mou5 不啻父母]],
+        more than father and mother.
+    ==
+    --
+    Often read _tai(3)_ [[dai3]].
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 伹 to 但.
+  ==
+$$
 
 ### 幟3 | _Ch(')(i/)(3)_ [[ci3]]
 
