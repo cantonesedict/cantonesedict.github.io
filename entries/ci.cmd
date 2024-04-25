@@ -547,6 +547,8 @@ $$
 =={.modern}
 - $始2
 - $弛2
+- $杝2
+- $柂2
 - $褫2
 ==
 </nav>
@@ -630,6 +632,87 @@ C
 S
   ==
   - $弛ci4
+  ==
+$$
+
+### 杝2 | _(2)Ch(')(i/)_ [[ci2]]
+
+$$
+R
+  ⽊ + 3
+U
+  U+675D
+A
+  ==
+  - $柂2
+  ==
+V
+  ==
+  - ci5 (expected from 池爾切 rising)
+  - to1 (per 詩經)
+  ==
+F
+  ==
+  - [[F1.39 柂]] 析薪而循其理
+  ==
+W
+  ====
+  - [[Page~12* (2)杝(2)柂]]
+    ==
+    - To split wood with the grain;
+    - to fall down;
+    - [[see $杝ji4 for "name of a tree" senses]].
+    ==
+    --
+    These are also read
+      _(4)(i/)_ [[ji4]],
+      _(4)l(i/)_ [[lei4]], and
+      _(4)t(')o_ [[to4]],
+    with the same meanings.
+    --
+  ====
+C
+  ====
+  - The reading ci2 is not unattested; Kangxi quotes 《正韻》尺里切音侈.
+  - Williams' with the same meanings: This is not quite correct.
+    ==
+    - 杝 read _(4)(i/)_ [[ji4]] is the name of a tree, see $杝ji4.
+    - 杝 read _(4)l(i/)_ [[lei4]] is used for 離.
+    - 杝 read _(4)t(')o_ [[to4]] is probably a mistaken parsing
+      by Williams of 託何切音佗 _(1)t(')o_ [[to1]],
+      which is the only reading having the same meaning
+      of "splitting with the grain"
+      (Kangxi quotes 《詩小雅》伐木掎矣析薪杝矣 for this reading).
+    ==
+  ====
+S
+  ==
+  - $杝ji4 (TODO)
+  ==
+$$
+
+### 柂2 | _(2)Ch(')(i/)_ [[ci2]]
+
+$$
+R
+  ⽊ + 5
+U
+  U+67C2
+F
+  ==
+  - [[F1.39 柂]] 析薪而循其理
+  ==
+W
+  ====
+  - [[Page~12* (2)杝(2)柂]]
+    --
+    [[Alternative form of 杝. **See $杝ci2 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $柂ji4 (TODO)
+  - $柂to4 (TODO)
   ==
 $$
 

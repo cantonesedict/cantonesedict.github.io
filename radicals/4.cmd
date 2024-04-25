@@ -745,6 +745,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $杉caam3
+      - $杝ci2
       - $杓zoek3
       - $杖zoeng6
       ==
@@ -770,6 +771,7 @@ For all radicals, see [Index of characters by radical](./).
       - $柵caak3
       - $栅caak3
       - $柒cat1
+      - $柂ci2
       - $枳zat1
       - $枳zi2
       - $柘ze3
