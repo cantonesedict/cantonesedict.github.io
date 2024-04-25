@@ -547,6 +547,7 @@ $$
 =={.modern}
 - $始2
 - $弛2
+- $恥2
 - $杝2
 - $柂2
 - $褫2
@@ -632,6 +633,52 @@ C
 S
   ==
   - $弛ci4
+  ==
+$$
+
+### 恥2 | _(2)Ch(')(i/)_ [[ci2]]
+
+$$
+R
+  ⼼ + 6
+U
+  U+6065
+A
+  ==
+  - $耻2
+  ==
+F
+  ==
+  - [[F1.39 ::[恥]::]] 慚愧
+  - [[F1.39 耻]] 同上
+  ==
+W
+  ====
+  - [[Page~12* (2)恥(2)耻]]
+    ==
+    - Ashamed;
+    - to feel shame, disgraced, humbled, chagrined;
+    - to blush or redden;
+    - _(1)sau (2)ch(')(i/)_
+        [[sau1 ci2 羞恥]],
+        shame;
+    - _(4)mung (2)ch(')(i/)_
+        [[mung4 ci2 蒙恥]],
+        covered with disgrace;
+    - _(5)n(i/) (4)'m k(i/)n(3) (1)sau (2)ch(')(i/)_
+        [[nei5 m4 gin3 sau1 ci2 你唔見羞恥]],
+        are you not mortified?
+    - _(4)m(o\) (2)ch(')(i/) (1)ch(i/) (4)t(')(o\)_
+        [[mou4 ci2 zi1 tou4 無恥之徒]],
+        a brazenfaced rascal;
+    - _(2)ch(')(i/) m(a/)(6)_
+        [[ci2 maa6 恥罵]]
+        afraid of a scolding.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected duplicate headword 耻 to 恥.
   ==
 $$
 
