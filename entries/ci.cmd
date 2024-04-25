@@ -1038,6 +1038,7 @@ $$
 - $幟3
 - $懥3
 - $熾3
+- $糦3
 - $翄3
 - $翅3
 - $饎3
@@ -1154,6 +1155,27 @@ W
         as if you should try to put out a fire with oil,
         the more the fiercer it burns.
     ==
+  ====
+$$
+
+### 糦3 | _Ch(')(i/)(3)_ [[ci3]]
+
+$$
+R
+  ⽶ + 12
+U
+  U+7CE6
+F
+  ==
+  - [[F1.42 饎]] 酒食
+  - [[F1.42 糦]] 黍稷
+  ==
+W
+  ====
+  - [[Page~12* 饎(3)糦(3)]]
+    --
+    [[Alternative form of 饎. **See $饎ci3 for the canonical entry.**]]
+    --
   ====
 $$
 
