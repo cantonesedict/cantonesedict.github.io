@@ -1084,8 +1084,9 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $泲zi2
+      - $治ci4
       - $治zi6
+      - $泲zi2
       ==
       </nav>
   //

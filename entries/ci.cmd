@@ -1290,6 +1290,7 @@ $$
 - $弛4
 - $持4
 - $池4
+- $治4
 - $篪4
 - $蚳4
 - $踟4
@@ -1455,6 +1456,36 @@ C
   - Williams' 城池: Changed _(4)sheng_ [[seng4]]
     to literary reading _(4)shing_ [[sing4]].
   - Williams' 酒池肉林: Originally used to describe the excesses of 紂王.
+  ==
+$$
+
+###+ 治4 | _(4)Ch(')(i/)_ [[ci4]]
+
+$$
+R
+  ⽔ + 5
+U
+  U+6CBB
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~9* 治(6) _Ch(i/)(6)_ (zi6); here corrected to _(4)Ch(')(i/)_ (ci4)]]
+    ==
+    - Name of a stream in the east of Sh(a/)ntung [[山東]];
+    - [[...]].
+    ==
+  ====
+C
+  ==
+  - Also the classical reading for verb senses of govern.
+    Notwithstanding, in modern usage,
+    the level-tone reading _(4)ch(')(i/)_ [[ci4]] is considered obsolete.
+    See $治zi6 for commentary.
+  ==
+S
+  ==
+  - $治zi6
   ==
 $$
 
