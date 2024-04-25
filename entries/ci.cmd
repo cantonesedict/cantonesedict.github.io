@@ -55,6 +55,7 @@ $$
 - $呞1
 - $嗤1
 - $媸1
+- $差1
 - $痴1
 - $癡1
 - $笞1
@@ -153,6 +154,36 @@ C
   - Fan Wan entry: Normalised headword 𡟎 (⿰女虽) to 媸.
   - Williams misprints 媸 as 𡟎 (⿰女⿱山虫).
   - Williams' 妍媸自見: Corrected _k(i/)n(6)_ [[gin6]] to _(i/)n(6)_ [[jin6]].
+  ==
+$$
+
+### 差1 | _(1)Ts(')z'_ [[ci1]]
+
+$$
+R
+  ⼯ + 7
+U
+  U+5DEE
+F
+  ==
+  - [[F2.34 差]] 參差不齊
+  ==
+W
+  ====
+  - [[Page~615 (1)差]]
+    ==
+    - Uneven, projecting irregularly;
+    - _(1)ts(')(a/)m (1)ts(')z'_
+        [[caam1 ci1 參差]]
+        irregular, not uniform;
+    - _(1)ts(')z' (2)ho (4)yan (i/)(3)_
+        [[ci1 ho2 jan4 ji3 差可人意]]
+    ==
+  ====
+S
+  ==
+  - $差caa1
+  - $差caai1
   ==
 $$
 

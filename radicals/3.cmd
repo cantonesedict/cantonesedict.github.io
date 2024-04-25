@@ -822,6 +822,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $差caa1
       - $差caai1
+      - $差ci1
       ==
       </nav>
 ''
