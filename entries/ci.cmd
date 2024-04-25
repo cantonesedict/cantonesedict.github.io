@@ -598,6 +598,7 @@ $$
 =={.modern}
 - $坻4
 - $墀4
+- $持4
 - $池4
 - $蚳4
 - $遲4
@@ -656,6 +657,43 @@ W
     - _(1)t(a/)n (4)ch(')(i/)_
         [[daan1 ci4 丹墀]],
         the vermilion avenue, _i.~e._ the emperor's palace.
+    ==
+  ====
+$$
+
+### 持4 | _(4)Ch(')(i/)_ [[ci4]]
+
+$$
+R
+  ⼿ + 6
+U
+  U+6301
+W
+  ====
+  - [[Page~11* (4)持]]
+    ==
+    - To take, to lay hold of, to grasp;
+    - to observe or maintain;
+    - firm, decided;
+    - to direct resolutely;
+    - _(2)p(a/) (4)ch(')(i/)_
+        [[baa2 ci4 把持]],
+        to manage an affair;
+    - _(1)ts(')(o\) sh(i/)n(3) (i/)(6) (4)ch(')(i/)_
+        [[cou1 sin3 ji6 ci4 粗扇二持]],
+        two common fans;
+    - _(4)f(u/) (4)ch(')(i/)_
+        [[fu4 ci4 扶持]],
+        to assist;
+    - _chap(7) (4)ch(')(i/)_
+        [[zap1 ci4 執持]],
+        to hold in the hand;
+    - _(1)ts(')(o\) (4)ch(')(i/)_
+        [[cou1 ci4 操持]],
+        to do with energy;
+    - _(4)ch(')(i/) f(a/)t(8)_
+        [[ci4 faat3 持法]]
+        to maintain the law.
     ==
   ====
 $$
