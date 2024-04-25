@@ -546,6 +546,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $始2
+- $弛2
 - $褫2
 ==
 </nav>
@@ -580,6 +581,45 @@ W
     - _(2)ch(')(i/) ch(')ong(3)_
         [[ci2 cong3 始創]]
         invention.
+    ==
+  ====
+$$
+
+### 弛2 | _(2)Ch(')(i/)_ [[ci2]]
+
+$$
+R
+  ⼸ + 3
+U
+  U+5F1B
+V
+  ==
+  - ci4 (common)
+  ==
+F
+  ==
+  - [[F1.39 弛]] ::放也[棄]也廢也::
+  ==
+W
+  ====
+  - [[Page~11* (2)弛]]
+    ==
+    - A bow unstrung;
+    - to let go the string of a bow;
+    - to relax;
+    - to cast off;
+    - injured, spoiled;
+    - easy, dissolute, unconcerned;
+    - _fai(3) (2)ch(')(i/)_
+        [[fai3 ci2 廢弛]],
+        heedless, careless;
+        to fail, to grow old or useless, obsolete;
+    - _(2)k(a/)i (2)ch(')(i/)_
+        [[gaai2 ci2 解弛]],
+        to unloose, to throw off;
+    - _(2)ch(')(i/) lik(9)_
+        [[ci2 lik6 弛力]]
+        remiss.
     ==
   ====
 $$

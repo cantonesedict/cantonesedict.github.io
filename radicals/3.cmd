@@ -994,6 +994,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Character entry links
 |:
   //
+    , 3
+    ,
+      <nav class="sideways">
+      ==
+      - $弛ci2
+      ==
+      </nav>
+  //
     , 8
     ,
       <nav class="sideways">
