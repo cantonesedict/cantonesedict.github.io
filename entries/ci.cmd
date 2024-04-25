@@ -602,6 +602,7 @@ $$
 - $池4
 - $篪4
 - $蚳4
+- $踟4
 - $遲4
 - $馳4
 ==
@@ -787,6 +788,29 @@ W
   - [[Page~11* (4)蚳]]
     ==
     - Eggs or larva of ants. One says, a bloodsucker.
+    ==
+  ====
+$$
+
+### 踟4 | _(4)Ch(')(i/)_ [[ci4]]
+
+$$
+R
+  ⾜ + 8
+U
+  U+8E1F
+F
+  ==
+  - [[F1.38 踟]] 踟𨆼
+  ==
+W
+  ====
+  - [[Page~11* (4)踟]]
+    ==
+    - Irresolute;
+    - _(4)ch(')(i/) (4)ch(')(u")_
+        [[ci4 cyu4 踟躕]],
+        undecided, embarrassed, going on and then returning.
     ==
   ====
 $$
