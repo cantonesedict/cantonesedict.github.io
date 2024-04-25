@@ -550,6 +550,7 @@ $$
 - $恥2
 - $杝2
 - $柂2
+- $耻2
 - $褫2
 ==
 </nav>
@@ -760,6 +761,31 @@ S
   ==
   - $柂ji4 (TODO)
   - $柂to4 (TODO)
+  ==
+$$
+
+### 耻2 | _(2)Ch(')(i/)_ [[ci2]]
+
+$$
+R
+  ⽿ + 4
+U
+  U+803B
+F
+  ==
+  - [[F1.39 ::[恥]::]] 慚愧
+  - [[F1.39 耻]] 同上
+  ==
+W
+  ====
+  - [[Page~12* (2)恥(2)耻]]
+    --
+    [[Alternative form of 恥. **See $恥ci2 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected duplicate headword 耻 to 恥.
   ==
 $$
 

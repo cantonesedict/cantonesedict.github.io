@@ -518,6 +518,23 @@ For all radicals, see [Index of characters by radical](./).
 ## ⽿ (ear)
 
 <## radical-⽿-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 4
+    ,
+      <nav class="sideways">
+      ==
+      - $耻ci2
+      ==
+      </nav>
+''
+||||
 <## /radical-⽿-characters ##>
 
 
