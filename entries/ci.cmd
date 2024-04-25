@@ -552,6 +552,7 @@ $$
 - $柂2
 - $耻2
 - $褫2
+- $齒2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -826,6 +827,60 @@ C
 S
   ==
   - $褫ci1
+  ==
+$$
+
+### 齒2 | _(2)Ch(')(i/)_ [[ci2]]
+
+$$
+R
+  ⿒ + 0
+U
+  U+9F52
+F
+  ==
+  - [[F1.39 齒]] 牙齒又年齒也
+  ==
+W
+  ====
+  - [[Page~12* (2)齒]]
+    ==
+    - The upper front teeth;
+    - _met._ the mouth, words;
+    - age, years;
+    - sort, class;
+    - associates, equals;
+    - to commence;
+    - to sort, to class by the age;
+    - to record, to write in;
+    - the 211th~radical of characters relating to teeth;
+    - _(2)ch(')(i/) (2)ch(e/)ung_
+        [[ci2 zoeng2 齒長]],
+        old;
+    - _f(u/)(6) (1)ch(i/) (2)ch(')(i/)_
+        [[fu6 zi1 ci2 父之齒]]^
+        a father's associates;
+    - _(4)n(i/)n (2)ch(')(i/) (5)m(u/)i (1)ts(')(u/)i_
+        [[nin4 ci2 mui5 ceoi1 年齒每催]],
+        years are hastening one on;
+    - _(4)n(i/)n (2)ch(')(i/)_
+        [[nin4 ci2 年齒]],
+        age, years;
+    - _(4)ling (4)ng(a/) l(i/)(6) (2)ch(')(i/)_
+        [[ling4 ngaa4 lei6 ci2 伶牙俐齒]],
+        eloquent;
+    - _pok(9) (2)ch(')(i/)_
+        [[bok6 ci2 薄齒]],
+        young, without distinction;
+    - _(2)ch(')(i/) (4)(i/)n_
+        [[ci2 jin4 齒言]],
+        specious.
+    ==
+  ====
+C
+  ==
+  - Williams' 年齒每催: A misspelling of 年矢每催
+    (from Thousand Character Classic).
   ==
 $$
 
