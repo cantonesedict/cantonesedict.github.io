@@ -62,6 +62,7 @@ $$
 - $胝1
 - $蚩1
 - $褫1
+- $雌1
 - $鴟1
 - $黐1
 - $齝1
@@ -364,6 +365,34 @@ W
 S
   ==
   - $褫ci2
+  ==
+$$
+
+### 雌1 | _(1)Ts(')z'_ [[ci1]]
+
+$$
+R
+  ⾫ + 6
+U
+  U+96CC
+F
+  ==
+  - [[F2.34 雌]] ::鳥之[母]者曰雌::
+  ==
+W
+  ====
+  - [[Page~615 (1)雌]]
+    ==
+    - The female of birds, a hen bird;
+    - _met._ weak;
+    - _k(i/)n(3) ko(3) (1)ts(')z' (4)hung_
+        [[gin3 go3 ci1 hung4 見個雌雄]],
+        see which of them will beat.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 毌 to 母.
   ==
 $$
 
