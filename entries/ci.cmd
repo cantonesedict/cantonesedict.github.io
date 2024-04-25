@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [ci1](#1)
 - [ci2](#2)
+- [ci3](#3)
 - [ci4](#4)
 ==
 </nav>
@@ -1025,6 +1026,44 @@ C
   - Williams' 年齒每催: A misspelling of 年矢每催
     (from Thousand Character Classic).
   ==
+$$
+
+
+##{#3 .williams} Ch(')(i/)(3) Ts(')z'(3) [[ci3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $熾3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 熾3 | _Ch(')(i/)(3)_ [[ci3]]
+
+$$
+R
+  ⽕ + 12
+U
+  U+71BE
+F
+  ==
+  - [[F1.42 熾]] 火盛
+  ==
+W
+  ====
+  - [[Page~12* 熾(3)]]
+    ==
+    - Flame, blaze;
+    - splendor;
+    - the glare of lights;
+    - numerous;
+    - _(5)(i/) (4)yau kau(3) (2)fo, (u")(6) p(')ok(8) (u")(6) ch(')(i/)(3)_
+        [[ji5 jau4 gau3 fo2 jyu6 pok3 jyu6 ci3 以油救火愈撲愈熾]]
+        as if you should try to put out a fire with oil,
+        the more the fiercer it burns.
+    ==
+  ====
 $$
 
 
