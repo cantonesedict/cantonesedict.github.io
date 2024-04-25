@@ -1037,6 +1037,7 @@ $$
 - $啻3
 - $幟3
 - $熾3
+- $翄3
 - $翅3
 ==
 </nav>
@@ -1127,6 +1128,24 @@ W
         as if you should try to put out a fire with oil,
         the more the fiercer it burns.
     ==
+  ====
+$$
+
+### 翄3 | _Ch(')(i/)(3)_ [[ci3]]
+
+$$
+R
+  ⽻ + 4
+U
+  U+7FC4
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~12* 翅(3)翄(3)]]
+    --
+    [[Alternative form of 翅. **See $翅ci3 for the canonical entry.**]]
+    --
   ====
 $$
 

@@ -423,6 +423,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $翄ci3
       - $翅ci3
       ==
       </nav>
