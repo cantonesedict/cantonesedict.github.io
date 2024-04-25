@@ -554,6 +554,7 @@ $$
 - $柂2
 - $耻2
 - $褫2
+- $豕2
 - $齒2
 ==
 </nav>
@@ -893,6 +894,34 @@ C
 S
   ==
   - $褫ci1
+  ==
+$$
+
+### 豕2 | _(2)Ch(')(i/)_ [[ci2]]
+
+$$
+R
+  ⾗ + 0
+U
+  U+8C55
+F
+  ==
+  - [[F1.39 豕]] 猪也
+  ==
+W
+  ====
+  - [[Page~12* (2)豕]]
+    ==
+    - A hog, a pig;
+    - the [152d]~radical of characters relating mostly to swine;
+    - _(2)ch(')(i/) yuk(9)_
+        [[ci2 juk6 豕肉]]
+        pork.
+    ==
+  ====
+C
+  ==
+  - Williams radical: Corrected 153d to 152d.
   ==
 $$
 
