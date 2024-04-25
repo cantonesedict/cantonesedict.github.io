@@ -545,10 +545,44 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $始2
 - $褫2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 始2 | _(2)Ch(')(i/)_ [[ci2]]
+
+$$
+R
+  ⼥ + 5
+U
+  U+59CB
+F
+  ==
+  - [[F1.39 始]] 初也原也
+  ==
+W
+  ====
+  - [[Page~11* (2)始]]
+    ==
+    - The beginning;
+    - an opening, a start;
+    - to begin, to commence;
+    - at the beginning of a sentence, it often means then, was, at that time;
+    - _(2)ch(')(i/) (1)ch(')o_
+        [[ci2 co1 始初]],
+        the commencement, first;
+    - _(2)ch(')(i/) (1)chung_
+        [[ci2 zung1 始終]],
+        beginning and end;
+        the whole period, the circumstances;
+    - _(2)ch(')(i/) ch(')ong(3)_
+        [[ci2 cong3 始創]]
+        invention.
+    ==
+  ====
+$$
 
 ###+ 褫2 | _(2)Ch(')(i/)_ [[ci2]]
 
