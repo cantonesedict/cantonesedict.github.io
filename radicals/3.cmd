@@ -912,6 +912,14 @@ For all radicals, see [Index of characters by radical](./).
       ==
       </nav>
   //
+    , 12
+    ,
+      <nav class="sideways">
+      ==
+      - $幟ci3
+      ==
+      </nav>
+  //
     , 14
     ,
       <nav class="sideways">

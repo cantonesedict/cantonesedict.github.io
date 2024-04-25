@@ -1034,10 +1034,34 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $幟3
 - $熾3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 幟3 | _Ch(')(i/)(3)_ [[ci3]]
+
+$$
+R
+  ⼱ + 12
+U
+  U+5E5F
+F
+  ==
+  - [[F1.42 幟]] 旗幟
+  ==
+W
+  ====
+  - [[Page~12* 幟(3)]]
+    ==
+    - The fringe or border on a flag;
+    - a flag, a streamer or pennon, long and fringed;
+    - to tie or sew on fringes, as a signal;
+    - to signalize.
+    ==
+  ====
+$$
 
 ### 熾3 | _Ch(')(i/)(3)_ [[ci3]]
 
