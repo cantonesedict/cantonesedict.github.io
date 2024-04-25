@@ -552,6 +552,7 @@ $$
 - $恥2
 - $杝2
 - $柂2
+- $矢2
 - $耻2
 - $褫2
 - $豕2
@@ -829,6 +830,53 @@ S
   ==
   - $柂ji4 (TODO)
   - $柂to4 (TODO)
+  ==
+$$
+
+### 矢2 | _(2)Ch(')(i/)_ [[ci2]]
+
+$$
+R
+  ⽮ + 0
+U
+  U+77E2
+F
+  ==
+  - [[F1.39 矢]] 箭也
+  ==
+W
+  ====
+  - [[Page~12* (2)矢]]
+    ==
+    - An arrow or dart;
+    - swift as an arrow;
+    - direct, openly;
+    - to set forth, to arrange;
+    - to swear, to vow;
+    - to display;
+    - to resolve, to form a purpose;
+    - [[see $矢si2 for "shit" senses]];
+    - the 111th~radical;
+    - _yat(7) (2)ch(')(i/) (1)ch(i/) t(i/)(6)_
+        [[jat1 ci2 zi1 dei6 一矢之地]]
+        a little distance, a bowshot;
+    - _(2)ch(')(i/) chik(9)_
+        [[ci2 zik6 矢直]]
+        straight as an arrow;
+    - _f(a/)t(8) yat(7) (2)ch(')(i/)_
+        [[faat3 jat1 ci2 發一矢]],
+        let fly an arrow;
+    - _(2)ch(')(i/) shai(6)_
+        [[ci2 sai6 矢誓]]
+        to take an oath;
+    - _(2)ch(')(i/) (2)hau pat(7) (4)(i/)_
+        [[ci2 hau2 bat1 ji4 矢口不移]],
+        to affirm constantly.
+    ==
+  ====
+S
+  ==
+  - $矢si2 (TODO)
   ==
 $$
 
