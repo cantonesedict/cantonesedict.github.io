@@ -600,6 +600,7 @@ $$
 - $墀4
 - $持4
 - $池4
+- $篪4
 - $蚳4
 - $遲4
 - $馳4
@@ -743,6 +744,31 @@ C
     to literary reading _(4)shing_ [[sing4]].
   - Williams' 酒池肉林: Originally used to describe the excesses of 紂王.
   ==
+$$
+
+### 篪4 | _(4)Ch(')(i/)_ [[ci4]]
+
+$$
+R
+  ⽵ + 10
+U
+  U+7BEA
+F
+  ==
+  - [[F1.38 篪]] 塤篪又樂器
+  ==
+W
+  ====
+  - [[Page~11* (4)篪]]
+    ==
+    - A kind of bamboo flute, with seven holes;
+    - the sound resembles the wailing of children;
+    - _(4)ch(')(i/) (1)h(u")n_
+        [[ci4 hyun1 篪壎]],
+        two instruments which chord;
+        fraternal love.
+    ==
+  ====
 $$
 
 ### 蚳4 | _(4)Ch(')(i/)_ [[ci4]]
