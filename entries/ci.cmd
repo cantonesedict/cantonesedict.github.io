@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2024-04-23
+* %date-modified --> 2024-04-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -601,6 +601,7 @@ $$
 - $池4
 - $蚳4
 - $遲4
+- $馳4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -792,4 +793,43 @@ S
   ==
   - $遲zi6
   ==
+$$
+
+### 馳4 | _(4)Ch(')(i/)_ [[ci4]]
+
+$$
+R
+  ⾺ + 3
+U
+  U+99B3
+F
+  ==
+  - [[F1.38 馳]] 馳驅又馳騖
+  ==
+W
+  ====
+  - [[Page~11* (4)馳]]
+    ==
+    - To gallop, to ride fast, as a courier;
+    - a fleet horse;
+    - to go fast;
+    - fast;
+    - far, spread abroad;
+    - _(4)ch(')(i/) t(o\)(6)_
+        [[ci4 dou6 馳道]]
+        the middle road for the emperor;
+    - _ngoi(6) m(o\)(6) (1)fan (4)ch(')(i/)_
+        [[ngoi6 mou6 fan1 ci4 外騖分馳]],
+        harrassed with cares;
+    - _(4)ch(')(i/) (5)m(a/)_
+        [[ci4 maa5 馳馬]],
+        to gallop a horse;
+    - _(4)ch(')(i/) yik(9)_
+        [[ci4 jik6 馳驛]]
+        to ride post;
+    - _(4)ch(')(i/) (1)k(')(u")_
+        [[ci4 keoi1 馳驅]],
+        to ride fast.
+    ==
+  ====
 $$
