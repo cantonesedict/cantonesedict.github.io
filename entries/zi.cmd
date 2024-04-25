@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-04-23
+* %date-modified --> 2024-04-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2746,6 +2746,7 @@ $$
 - $𫪦 (⿰口知)3
 - $寘3
 - $志3
+- $懥3
 - $摯3
 - $智3
 - $漬3
@@ -2848,6 +2849,43 @@ W
         ingenuous, guileless.
     ==
   ====
+$$
+
+###+ 懥3 | _Ch(i/)(3)_ [[zi3]]
+
+$$
+R
+  ⼼ + 14
+U
+  U+61E5
+V
+  ==
+  - ci3 (alternative)
+  ==
+F
+  ==
+  - [[F1.42 懥 _Ch(')(i/)(3)_ (ci3)]] 忿恨怒也
+  ==
+W
+  ====
+  - [[Page~12* 懥(3) _Ch(')(i/)(3)_ (ci3); here normalised to _Ch(i/)(3)_ (zi3)]]
+    ==
+    - Vexation, irritated;
+    - hatred;
+    - _(5)fan [ch(i/)](3)_
+        [[fan5 zi3 忿懥]]
+        enraged, in a great anger.
+    ==
+  ====
+C
+  ==
+  - The alternative reading ci3 is not unattested;
+    Kangxi quotes ::又《集韻》[...]又丑吏切音眙[...]義𠀤同::.
+  ==
+S
+  ==
+  - $懥ci3
+  ==
 $$
 
 ### 摯3 | _Ch(i/)(3)_ [[zi3]]

@@ -147,6 +147,7 @@ For all radicals, see [Index of characters by radical](./).
       - $懠cai4
       - $懠zai3
       - $懥ci3
+      - $懥zi3
       ==
       </nav>
   //
