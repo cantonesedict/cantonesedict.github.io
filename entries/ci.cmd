@@ -545,6 +545,7 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $侈2
 - $始2
 - $弛2
 - $恥2
@@ -556,6 +557,37 @@ $$
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 侈2 | _(2)Ch(')(i/)_ [[ci2]]
+
+$$
+R
+  ⼈ + 6
+U
+  U+4F88
+F
+  ==
+  - [[F1.39 侈]] 大也又奢也
+  ==
+W
+  ====
+  - [[Page~12* (2)侈]]
+    ==
+    - Extravagant, profuse;
+    - large, superfluous;
+    - prodigal;
+    - _(1)ch(')(e/) (2)ch(')(i/)_
+        [[ce1 ci2 奢侈]],
+        wasteful;
+    - _(2)ch(')(i/) f(u/)(3)_
+        [[ci2 fu3 侈富]]
+        prodigal and showy;
+    - _(2)ch(')(i/) (4)(i/)n_
+        [[ci2 jin4 侈言]],
+        exaggerated talk.
+    ==
+  ====
+$$
 
 ### 始2 | _(2)Ch(')(i/)_ [[ci2]]
 
