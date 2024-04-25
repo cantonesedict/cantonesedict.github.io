@@ -622,6 +622,15 @@ W
         remiss.
     ==
   ====
+C
+  ==
+  - Rising tone is expected from Middle Chinese 施是切 _(2)sh(i/)_ [[si2]],
+    but level tone ci4 is commonly heard (possibly from analogy with 池, 馳).
+  ==
+S
+  ==
+  - $弛ci4
+  ==
 $$
 
 ###+ 褫2 | _(2)Ch(')(i/)_ [[ci2]]
@@ -672,6 +681,7 @@ $$
 =={.modern}
 - $坻4
 - $墀4
+- $弛4
 - $持4
 - $池4
 - $篪4
@@ -735,6 +745,27 @@ W
         the vermilion avenue, _i.~e._ the emperor's palace.
     ==
   ====
+$$
+
+###+ 弛4 | _(4)Ch(')(i/)_ [[ci4]]
+
+$$
+R
+  ⼸ + 3
+U
+  U+5F1B
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation. **See $弛ci2 for the canonical entry.**
+  ==
+S
+  ==
+  - $弛ci2
+  ==
 $$
 
 ### 持4 | _(4)Ch(')(i/)_ [[ci4]]
