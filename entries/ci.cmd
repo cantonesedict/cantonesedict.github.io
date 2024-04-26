@@ -56,6 +56,7 @@ $$
 - $嗤1
 - $媸1
 - $差1
+- $疵1
 - $痴1
 - $癡1
 - $笞1
@@ -185,6 +186,47 @@ S
   ==
   - $差caa1
   - $差caai1
+  ==
+$$
+
+###+ 疵1 | _(1)Ts(')z'_ [[ci1]]
+
+$$
+R
+  ⽧ + 6
+U
+  U+75B5
+V
+  ==
+  - ci4 (expected from 疾移切)
+  ==
+F
+  ==
+  - [[F2.34 疵 _(4)Ts(')z'_ (ci4)]] 症也吹毛求疵
+  - [[F2.35 疵 _Ts(')z'(3)_ (ci3)]] 瑕疵
+  ==
+W
+  ====
+  - [[Page~615 (4)疵 _(4)Ts(')z'_ (ci4); here normalised to _(1)Ts(')z'_ (ci1)]]
+    ==
+    - Malady, disease, infirmity;
+    - an imperfection, as a mole;
+    - a failing, a fault;
+    - an eccentricity;
+    - _(4)h(a/) [(1)]ts(')z'_
+        [[haa4 ci1 瑕疵]]
+        a flaw, any fault which renders a thing imperfect;
+    - _(2)si(u/) [(1)]ts(')z'_
+        [[siu2 ci1 小疵]]
+        a little fault, as in a man's character;
+    - _hak(7) [(1)]ts(')z'_
+        [[hak1 ci1 黑疵]]
+        a black spot.
+    ==
+  ====
+S
+  ==
+  - $疵ci4
   ==
 $$
 
