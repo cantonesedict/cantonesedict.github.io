@@ -1416,6 +1416,7 @@ $$
 - $坻4
 - $墀4
 - $弛4
+- $慈4
 - $持4
 - $池4
 - $治4
@@ -1505,6 +1506,56 @@ C
 S
   ==
   - $弛ci2
+  ==
+$$
+
+### 慈4 | _(4)Ts(')z'_ [[ci4]]
+
+$$
+R
+  ⼼ + 9
+U
+  U+6148
+F
+  ==
+  - [[F2.34 慈]] 慈相心之柔也愛也
+  ==
+W
+  ====
+  - [[Page~615 (4)慈]]
+    ==
+    - Maternal affection;
+    - love, kindness, mercy, compassion;
+    - gentle, soft, tender to;
+    - a mother;
+    - _(1)k(a/) (4)ts(')z'_
+        [[gaa1 ci4 家慈]]
+        my mother;
+    - _(4)ts(')z' (1)sam_
+        [[ci4 sam1 慈心]],
+        kindhearted;
+    - _(4)ts(')z' (5)m(o\)_
+        [[ci4 mou5 慈母]],
+        kind mothers---often spoil their children;
+    - _(4)shing (4)ts(')z' ming(6)_
+        [[sing4 ci4 ming6 承慈命]]
+        I received my mother's orders;
+    - _(4)ts(')z' (1)p(i/)_
+        [[ci4 bei1 慈悲]],
+        compassionate;
+    - _(4)ts(')z' (4)ts(')(e/)ung_
+        [[ci4 coeng4 慈祥]],
+        long-suffering, forbearance;
+    - _(4)ts(')z' oi(3)_
+        [[ci4 oi3 慈愛]]
+        loving affection.
+    ==
+  ====
+C
+  ==
+  - Williams' 承慈命: Used in marriage invitations,
+    indicating that the groom/bride's father has arranged the marriage
+    according to wishes of the groom/bride's father's mother.
   ==
 $$
 
