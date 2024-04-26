@@ -666,6 +666,23 @@ For all radicals, see [Index of characters by radical](./).
 ## ⾟ (bitter)
 
 <## radical-⾟-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 12
+    ,
+      <nav class="sideways">
+      ==
+      - $辭ci4
+      ==
+      </nav>
+''
+||||
 <## /radical-⾟-characters ##>
 
 

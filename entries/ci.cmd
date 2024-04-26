@@ -1425,6 +1425,7 @@ $$
 - $蚳4
 - $詞4
 - $踟4
+- $辭4
 - $遲4
 - $馳4
 ==
@@ -1786,6 +1787,72 @@ W
         undecided, embarrassed, going on and then returning.
     ==
   ====
+$$
+
+### 辭4 | _(4)Ts(')z'_ [[ci4]]
+
+$$
+R
+  ⾟ + 12
+U
+  U+8FAD
+A
+  ==
+  - $辞4
+  ==
+F
+  ==
+  - [[F2.34 辭]] 言辭又不受也
+  - [[F2.34 辞]] 同上
+  ==
+W
+  ====
+  - [[Page~615 (4)辭(4)辞]]
+    ==
+    - Similar to the last [[$詞4]];
+    - an expression, a word, a particle, a part of speech;
+    - evidence, speech, words;
+    - to refuse, to decline with thanks;
+    - to resign, to leave, to go, to retire, to depart;
+    -_(1)t(')(u/)i (4)ts(')z'_
+        [[teoi1 ci4 推辭]]
+        to decline, as an office;
+    - _(4)ts(')z' h(u")(3)_
+        [[ci4 heoi3 辭去]]
+        to leave, as one's service;
+    - _k(o\)(3) (4)ts(')z'_
+        [[gou3 ci4 告辭]]
+        to take leave, to bid good bye;
+    - _(1)sam (4)ts(')z'_
+        [[sam1 ci4 心辭]]
+        to dislike, averse to;
+    - _(1)kung (4)ts(')z' pak(7) (5)sh(e/)ung_
+        [[gung1 ci4 bak1 soeng5 恭辭北上]],
+        a respectful adieu on going to Peking [[北京]];
+    - _kok(8) chap(7) yat(7) (4)ts(')z'_
+        [[gok3 zap1 jat1 ci4 各執一辭]]
+        each held to his own argument;
+    - _(4)ts(')z' t(')(i/)p[(8)]_
+        [[ci4 tip3-2 辭帖]]
+        to send a card of invitation back;
+    - _(4)ts(')z' (4)hang t(')(i/)p[(8)]_
+        [[ci4 hang4 tip3-2 辭行帖]],
+        a card to take leave;
+    - _(1)h(u") (4)ts(')z'_
+        [[heoi1 ci4 虛辭]]
+        a falsehood;
+    - _t(')(a/)n(3) (5)(u") (4)ts(')z'_
+        [[taan3 jyu5 ci4 嘆語辭]]
+        an interjection;
+    - _(2)h(o\) (4)ts(')z' k(u")(3)_
+        [[hou2 ci4 geoi3 好辭句]]
+        a good style.
+    ==
+  ====
+C
+  ==
+  - Williams' 辭帖, 辭行帖: Corrected _t(')(i/)p(9)_ [[tip6]] to _t(')(i/)p(8)_ [[tip3]].
+  ==
 $$
 
 ### 遲4 | _(4)Ch(')(i/)_ [[ci4]]
