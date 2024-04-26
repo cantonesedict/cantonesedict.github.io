@@ -1422,6 +1422,7 @@ $$
 - $池4
 - $治4
 - $疵4
+- $磁4
 - $祠4
 - $篪4
 - $蚳4
@@ -1698,6 +1699,38 @@ W
 S
   ==
   - $疵ci1
+  ==
+$$
+
+### 磁4 | _(4)Ts(')z'_ [[ci4]]
+
+$$
+R
+  ⽯ + 9
+U
+  U+78C1
+F
+  ==
+  - [[F2.34 磁]] 磁器
+  ==
+W
+  ====
+  - [[Page~615 (4)磁]]
+    ==
+    - The loadstone;
+    - [[see $瓷ci4 for "porcelain" senses]];
+    - _(4)ts(')z' shek(9)_
+        [[ci4 sek6 磁石]]
+        the loadstone;
+    - [[...]].
+    ==
+  ====
+C
+  ==
+  - Williams does not consider $瓷4 (porcelain)
+    to be a different word to 磁 (magnet).
+    I have split things up accordingly.
+  - Williams' loadstone: An old word for a (natural) magnet. Also spelt "lodestone".
   ==
 $$
 
