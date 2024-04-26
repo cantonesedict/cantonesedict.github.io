@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-04-25
+* %date-modified --> 2024-04-26
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1503,6 +1503,7 @@ $$
 - $耔2
 - $胏2
 - $衹2
+- $訾2
 - $趾2
 - $軹2
 - $阯2
@@ -2628,6 +2629,41 @@ C
 S
   ==
   - $衹kei4 (TODO)
+  ==
+$$
+
+###+ 訾2 | _(2)Tsz'_ [[zi2]]
+
+$$
+R
+  ⾔ + 6
+U
+  U+8A3E
+F
+  ==
+  - [[F2.34 訾 _(1)Ts(')z'_ (ci1)]] 詆也誚也
+  ==
+W
+  ====
+  - [[Page~615 (1)訾 _(1)Ts(')z'_ (ci1); here corrected to _(2)Tsz'_ (zi2)]]
+    ==
+    - To speak hastily, to utter things unadvisedly;
+    - to slander, to detract from;
+    - [[see $訾zi1 for other senses]];
+    - faulty, licentious;
+    - impertinent, evil;
+    - its meaning varies according to the one joined with it.
+    ==
+  ====
+C
+  ==
+  - Williams' impertinent, evil: Possibly a misreading of 惡也.
+    Here, 惡 is departing tone (loathe), not entering tone (evil).
+  ==
+S
+  ==
+  - $訾ci1
+  - $訾zi1 (TODO)
   ==
 $$
 

@@ -129,6 +129,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $詫caa3
       - $訾ci1
+      - $訾zi2
       - $詳coeng4
       ==
       </nav>
