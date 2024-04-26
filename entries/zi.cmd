@@ -78,6 +78,7 @@ $$
 - $蜘1
 - $螆1
 - $觜1
+- $訾1
 - $諮1
 - $貲1
 - $資1
@@ -1202,6 +1203,33 @@ S
   ==
   - $觜zeoi1 (TODO)
   - $觜zeoi2 (TODO)
+  ==
+$$
+
+###+ 訾1 | _(1)Tsz'_ [[zi1]]
+
+$$
+R
+  ⾔ + 6
+U
+  U+8A3E
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~615 (1)訾 _(1)Ts(')z'_ (ci1); here corrected to _(1)Tsz'_ (zi1)]]
+    ==
+    - [[...]];
+    - to think, to consult;
+    - to restrict, to limit;
+    - [[...]];
+    - its meaning varies according to the one joined with it.
+    ==
+  ====
+S
+  ==
+  - $訾ci1
+  - $訾zi2
   ==
 $$
 
@@ -2663,7 +2691,7 @@ C
 S
   ==
   - $訾ci1
-  - $訾zi1 (TODO)
+  - $訾zi1
   ==
 $$
 
