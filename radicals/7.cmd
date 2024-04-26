@@ -119,6 +119,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $詏aau3
       - $診can2
+      - $詞ci4
       - $詐zaa3
       ==
       </nav>

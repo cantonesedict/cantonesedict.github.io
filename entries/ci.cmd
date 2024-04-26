@@ -1423,6 +1423,7 @@ $$
 - $祠4
 - $篪4
 - $蚳4
+- $詞4
 - $踟4
 - $遲4
 - $馳4
@@ -1723,6 +1724,43 @@ W
   - [[Page~11* (4)蚳]]
     ==
     - Eggs or larva of ants. One says, a bloodsucker.
+    ==
+  ====
+$$
+
+### 詞4 | _(4)Ts(')z'_ [[ci4]]
+
+$$
+R
+  ⾔ + 5
+U
+  U+8A5E
+F
+  ==
+  - [[F2.34 詞]] 言詞
+  ==
+W
+  ====
+  - [[Page~615 (4)詞]]
+    ==
+    - An expression, a phrase, a sentence, a word;
+    - a particle;
+    - a writing, an accusation;
+    - to speak, to tell the thoughts, to say[;]
+    - to accuse;
+    - to request, to ask;
+    - _(4)ts(')z' pat(7) t(a/)t(9) (i/)(3)_
+        [[ci4 bat1 daat6 ji3 詞不達意]]
+        the sentence does not fully convey the idea;
+    - _(4)ts(')z' (4)lam_
+        [[ci4 lam4 詞林]],
+        the H(a/)nlin [[翰林]] Academy;
+    - _(4)man (4)ts(')z'_
+        [[man4 ci4 文詞]]
+        writings;
+    - _chong(6) (4)ts(')z'_
+        [[zong6 ci4 狀詞]]
+        an accusation, a petition.
     ==
   ====
 $$
