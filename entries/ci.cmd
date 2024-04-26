@@ -1425,6 +1425,7 @@ $$
 - $蚳4
 - $詞4
 - $踟4
+- $辞4
 - $辭4
 - $遲4
 - $馳4
@@ -1786,6 +1787,27 @@ W
         [[ci4 cyu4 踟躕]],
         undecided, embarrassed, going on and then returning.
     ==
+  ====
+$$
+
+### 辞4 | _(4)Ts(')z'_ [[ci4]]
+
+$$
+R
+  ⾟ + 6
+U
+  U+8F9E
+F
+  ==
+  - [[F2.34 辭]] 言辭又不受也
+  - [[F2.34 辞]] 同上
+  ==
+W
+  ====
+  - [[Page~615 (4)辭(4)辞]]
+    --
+    [[Alternative form of 辭. **See $辭ci4 for the canonical entry.**]]
+    --
   ====
 $$
 

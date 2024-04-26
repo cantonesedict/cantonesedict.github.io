@@ -674,6 +674,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Character entry links
 |:
   //
+    , 6
+    ,
+      <nav class="sideways">
+      ==
+      - $辞ci4
+      ==
+      </nav>
+  //
     , 12
     ,
       <nav class="sideways">
