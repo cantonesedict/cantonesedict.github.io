@@ -1226,6 +1226,11 @@ W
     - its meaning varies according to the one joined with it.
     ==
   ====
+C
+  ==
+  - Also a surname.
+  - Also used for $貲zi1.
+  ==
 S
   ==
   - $訾ci1
