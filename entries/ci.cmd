@@ -573,6 +573,7 @@ E
        - 黐底 (ci1 dai2): "Stuck to [the] bottom [of the pot]."
        - 黐鑊 (ci1 wok6): "Stuck to [the] wok."
        - 黐𣲷𣲷 (ci1 nap6 nap6): "Sticky [and] wet."
+       - 黐手 (ci1 sau2): "Sticky hands" (a training technique in Wing Ch(')un).
        ==
     1. To freeload, to impose on another (for food etc.).
        ==
