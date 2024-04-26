@@ -1420,6 +1420,7 @@ $$
 - $池4
 - $治4
 - $疵4
+- $祠4
 - $篪4
 - $蚳4
 - $踟4
@@ -1643,6 +1644,42 @@ S
   ==
   - $疵ci1
   ==
+$$
+
+### 祠4 | _(4)Ts(')z'_ [[ci4]]
+
+$$
+R
+  ⽰ + 5
+U
+  U+7960
+F
+  ==
+  - [[F2.34 祠]] 祖祠
+  ==
+W
+  ====
+  - [[Page~615 (4)祠]]
+    ==
+    - To sacrifice to ancestors in the spring;
+    - a family shrine, an ancestral temple;
+    - a temple, a shrine;
+    - to get a blessing;
+    - _(4)shan (4)ts(')z'_
+        [[san4 ci4 神祠]]
+        shrine to the gods, said of the national ones;
+        an ancestral tablet;
+    - _(4)ts(')z' (4)t(')ong_
+        [[ci4 tong4-2 祠堂]],
+        an ancestral temple;
+    - _fuk(7) tak(7) (4)ts(')z'_
+        [[fuk1 dak1 ci4 福德祠]]
+        shrine of street gods;
+    - _ts(i/)t(8) h(a/)u(3) (4)ts(')z'_
+        [[zit3 haau3 ci4 節孝祠]]
+        a temple to virtuous women.
+    ==
+  ====
 $$
 
 ### 篪4 | _(4)Ch(')(i/)_ [[ci4]]
