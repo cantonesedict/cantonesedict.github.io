@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2024-04-25
+* %date-modified --> 2024-04-26
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -63,6 +63,7 @@ $$
 - $胝1
 - $蚩1
 - $褫1
+- $訾1
 - $雌1
 - $鴟1
 - $黐1
@@ -396,6 +397,31 @@ W
 S
   ==
   - $褫ci2
+  ==
+$$
+
+### 訾1 | _(1)Ts(')z'_ [[ci1]]
+
+$$
+R
+  ⾔ + 6
+U
+  U+8A3E
+F
+  ==
+  - [[F2.34 訾]] 詆也誚也
+  ==
+W
+  ====
+  - [[Page~615 (1)訾]]
+    --
+    [[Idiosyncratic reading from Fan Wan. **See $訾zi2 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $訾zi1 (TODO)
+  - $訾zi2 (TODO)
   ==
 $$
 
