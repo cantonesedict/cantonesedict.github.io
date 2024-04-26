@@ -1419,6 +1419,7 @@ $$
 - $持4
 - $池4
 - $治4
+- $疵4
 - $篪4
 - $蚳4
 - $踟4
@@ -1614,6 +1615,33 @@ C
 S
   ==
   - $治zi6
+  ==
+$$
+
+### 疵4 | _(4)Ts(')z'_ [[ci4]]
+
+$$
+R
+  ⽧ + 6
+U
+  U+75B5
+F
+  ==
+  - [[F2.34 疵]] 症也吹毛求疵
+  - [[F2.35 疵 _Ts(')z'(3)_ (ci3)]] 瑕疵
+  ==
+W
+  ====
+  - [[Page~615 (4)疵]]
+    --
+    [[The expected reading is ci4 from Middle Chinese 疾移切,
+    but the common reading is ci1;
+    **see $疵ci1 for the canonical entry**.]]
+    --
+  ====
+S
+  ==
+  - $疵ci1
   ==
 $$
 
