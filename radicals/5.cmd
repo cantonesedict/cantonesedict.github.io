@@ -130,6 +130,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Character entry links
 |:
   //
+    , 6
+    ,
+      <nav class="sideways">
+      ==
+      - $瓷ci4
+      ==
+      </nav>
+  //
     , 9
     ,
       <nav class="sideways">

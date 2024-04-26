@@ -1421,6 +1421,7 @@ $$
 - $持4
 - $池4
 - $治4
+- $瓷4
 - $疵4
 - $磁4
 - $祠4
@@ -1672,6 +1673,44 @@ C
 S
   ==
   - $治zi6
+  ==
+$$
+
+###+ 瓷4 | _(4)Ts(')z'_ [[ci4]]
+
+$$
+R
+  ⽡ + 6
+U
+  U+74F7
+A
+  ==
+  - $磁4
+  ==
+F
+  ==
+  - [[F2.34 磁]] 磁器
+  ==
+W
+  ====
+  - [[Page~615 (4)磁; here normalised to 瓷]]
+    ==
+    - [[...]];
+    - porcelain, chinaware;
+    - [[...]];
+    - _(4)ts(')z' h(i/)(3)_
+        [[ci4 hei3 瓷器]]
+        crockeryware;
+    - _(4)y(e/)ung (4)ts(')z'_
+        [[joeng4 ci4 洋瓷]]
+        foreign chinaware.
+    ==
+  ====
+C
+  ==
+  - Williams does not consider 瓷 (porcelain)
+    to be a different word to $磁4 (magnet).
+    I have split things up accordingly.
   ==
 $$
 
