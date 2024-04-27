@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2024-04-25
+* %date-modified --> 2024-04-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -300,7 +300,7 @@ W
   ====
 C
   ==
-  - Williams' Also read: Corrected _(2)t(u")n_ [[dyun2]] to _t(u")n(3)_ [[dyun3]].
+  - Williams' "Also read [...]": Corrected _(2)t(u")n_ [[dyun2]] to _t(u")n(3)_ [[dyun3]].
   - See $踩caai2 for commentary on 踩 versus 踹.
   ==
 S

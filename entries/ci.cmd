@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2024-04-26
+* %date-modified --> 2024-04-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -746,7 +746,7 @@ W
   ====
 C
   ==
-  - Williams' like a fish: Kangxi reads _(2)t(e/)_ [[de2]],
+  - Williams' "like a fish": Kangxi reads _(2)t(e/)_ [[de2]],
     quoting 《集韻》丁寫切爹上聲魚口張貌.
   ==
 S
@@ -921,7 +921,7 @@ W
 C
   ====
   - The reading ci2 is not unattested; Kangxi quotes 《正韻》尺里切音侈.
-  - Williams' with the same meanings: This is not quite correct.
+  - Williams' "with the same meanings": This is not quite correct.
     ==
     - 杝 read _(4)(i/)_ [[ji4]] is the name of a tree, see $杝ji4.
     - 杝 read _(4)l(i/)_ [[lei4]] is used for 離.
@@ -1769,7 +1769,7 @@ C
   - Williams does not consider $瓷4 (porcelain)
     to be a different word to 磁 (magnet).
     I have split things up accordingly.
-  - Williams' loadstone: An old word for a (natural) magnet. Also spelt "lodestone".
+  - Williams' "loadstone": An old word for a (natural) magnet. Also spelt "lodestone".
   ==
 $$
 

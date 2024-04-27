@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-04-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1623,7 +1623,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected 行 to 往.
-  - Williams' as the earth does: Not quite.
+  - Williams' "as the earth does": Not quite.
     Kangxi quotes 《說文》舟車所極覆也下覆爲宇上奠爲宙,
     so it is 宇 that is as the earth below,
     while 宙 is instead as the firmament above.
@@ -1837,7 +1837,7 @@ W
   ====
 C
   ==
-  - Williams' ended: Not the best wording.
+  - Williams' "ended": Not the best wording.
     He was the final king of that dynasty;
     he did not bring that dynasty to an end
     (unless you count his committing suicide, which would be semantics).

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaap
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-04-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -620,7 +620,7 @@ W
   ====
 C
   ==
-  - Williams' unassorted: An old word for unsorted or miscellaneous.
+  - Williams' "unassorted": An old word for unsorted or miscellaneous.
   ==
 E
   ====

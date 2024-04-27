@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-04-26
+* %date-modified --> 2024-04-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -395,7 +395,7 @@ W
   ====
 C
   ==
-  - Williams' holding four gills: 受四升.
+  - Williams' "holding four gills": 受四升.
   ==
 $$
 
@@ -2448,7 +2448,7 @@ W
   ====
 C
   ====
-  - Williams' to number: A misreading of 數也.
+  - Williams' "to number": A misreading of 數也.
     Here, 數 is a noun (departing), not a verb (rising).
   - Williams' 640~peculs: 六萬四千斤.
   ====
@@ -2690,7 +2690,7 @@ W
   ====
 C
   ==
-  - Williams' impertinent, evil: Possibly a misreading of 惡也.
+  - Williams' "impertinent, evil": Possibly a misreading of 惡也.
     Here, 惡 is departing tone (loathe), not entering tone (evil).
   ==
 S
