@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2024-04-28
+* %date-modified --> 2024-05-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1433,6 +1433,7 @@ $$
 - $辭4
 - $遲4
 - $馳4
+- $鷀4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -2106,4 +2107,30 @@ W
         to ride fast.
     ==
   ====
+$$
+
+### 鷀4 | _(4)Ts(')z'_ [[ci4]]
+
+$$
+R
+  ⿃ + 10
+U
+  U+9DC0
+F
+  ==
+  - [[F2.34 ::[鷀]::]] ::[鸕]鷀水鳥::
+  ==
+W
+  ====
+  - [[Page~616 (4)鷀]]
+    --
+    [[Alternative form of 鶿. **See $鶿ci4 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan and Williams both print this as ⿰兹鳥,
+    but no separate code point to U+9DC0~鷀 (⿰茲鳥) exists for this form
+    (blame Han unification inconsistency).
+  ==
 $$
