@@ -1433,6 +1433,7 @@ $$
 - $辭4
 - $遲4
 - $馳4
+- $鶿4
 - $鷀4
 ==
 </nav>
@@ -2109,6 +2110,35 @@ W
   ====
 $$
 
+###+ 鶿4 | _(4)Ts(')z'_ [[ci4]]
+
+$$
+R
+  ⿃ + 9
+U
+  U+9DBF
+A
+  ==
+  - $鷀4
+  ==
+F
+  ==
+  - [[F2.34 鷀]] 鸕鷀水鳥
+  ==
+W
+  ====
+  - [[Page~616 (4)鷀; here normalised to 鶿]]
+    ==
+    - The fishing cormorant, the _Phalacrocorax_;
+    - _(4)l(o\) (4)ts(')z'_
+        [[lou4 ci4 鸕鶿]]
+        the cormorant, poetically called
+        _(2)shui (5)l(o\) (1)(a/)_ [[seoi2 lou5 aa1 水老鴉]],
+        or the old water crow.
+    ==
+  ====
+$$
+
 ### 鷀4 | _(4)Ts(')z'_ [[ci4]]
 
 $$
@@ -2118,7 +2148,7 @@ U
   U+9DC0
 F
   ==
-  - [[F2.34 ::[鷀]::]] ::[鸕]鷀水鳥::
+  - [[F2.34 鷀]] 鸕鷀水鳥
   ==
 W
   ====
