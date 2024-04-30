@@ -2130,7 +2130,7 @@ W
 C
   ==
   - Fan Wan and Williams both print this as ⿰兹鳥,
-    but no separate code point to U+9DC0~鷀 (⿰茲鳥) exists for this form
-    (blame Han unification inconsistency).
+    but no separate code point to U+9DC0~鷀 (taken to be ⿰茲鳥)
+    exists for this form (blame Han unification inconsistency).
   ==
 $$

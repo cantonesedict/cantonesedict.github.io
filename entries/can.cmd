@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-05-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -86,8 +86,8 @@ W
 C
   ==
   - Fan Wan and Williams both print this as ⿰口眞,
-    but no separate code point to U+55D4~嗔 exists for this form
-    (blame Han unification inconsistency).
+    but no separate code point to U+55D4~嗔 (taken to be ⿰口真)
+    exists for this form (blame Han unification inconsistency).
   ==
 S
   ==
@@ -175,8 +175,8 @@ W
 C
   ==
   - Fan Wan and Williams both print this as ⿰目眞,
-    but no separate code point to U+778B~瞋 exists for this form
-    (blame Han unification inconsistency).
+    but no separate code point to U+778B~瞋 (taken to be ⿰目真)
+    exists for this form (blame Han unification inconsistency).
   ==
 $$
 
@@ -516,8 +516,8 @@ W
 C
   ==
   - Fan Wan and Williams both print this as ⿰糸眞,
-    but no separate code point to U+7E1D~縝 exists for this form
-    (blame Han unification inconsistency).
+    but no separate code point to U+7E1D~縝 (taken to be ⿰糸真)
+    exists for this form (blame Han unification inconsistency).
   ==
 $$
 
@@ -644,8 +644,8 @@ W
 C
   ==
   - Fan Wan and Williams both print this as ⿱髟眞,
-    but no separate code point to U+9B12~鬒 exists for this form
-    (blame Han unification inconsistency).
+    but no separate code point to U+9B12~鬒 (taken to be ⿱髟真)
+    exists for this form (blame Han unification inconsistency).
   ==
 $$
 
