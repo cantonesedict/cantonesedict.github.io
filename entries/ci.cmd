@@ -1551,6 +1551,9 @@ R
   ⼼ + 9
 U
   U+6148
+H
+  May appear as either ⿱兹心 (+9 assumed here) or ⿱茲心 (+10),
+  depending on the font.
 F
   ==
   - [[F2.34 慈]] 慈相心之柔也愛也
@@ -1898,6 +1901,9 @@ R
   ⽶ + 10
 U
   U+7CCD
+H
+  May appear as either ⿰米兹 (+9) or ⿰米茲 (+10 assumed here),
+  depending on the font.
 F
   [[Not present]]
 W
@@ -2318,6 +2324,9 @@ R
   ⿃ + 9
 U
   U+9DBF
+H
+  May appear as either ⿱兹鳥 (+9 assumed here) or ⿱茲鳥 (+10),
+  depending on the font.
 A
   ==
   - $鷀4
@@ -2347,6 +2356,9 @@ R
   ⿃ + 10
 U
   U+9DC0
+H
+  May appear as either ⿰兹鳥 (+9) or ⿰茲鳥 (+10 assumed here),
+  depending on the font.
 F
   ==
   - [[F2.34 鷀]] 鸕鷀水鳥
@@ -2360,9 +2372,7 @@ W
   ====
 C
   ==
-  - Fan Wan and Williams both print this as ⿰兹鳥,
-    but no separate code point to U+9DC0~鷀 (taken to be ⿰茲鳥)
-    exists for this form (blame Han unification inconsistency).
+  - Fan Wan and Williams both print this as ⿰兹鳥.
   ==
 $$
 

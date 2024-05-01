@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-05-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -273,6 +273,9 @@ R
   ⽊ + 8
 U
   U+68E6
+H
+  May appear as either ⿰木争 (+6) or ⿰木爭 (+8 assumed here),
+  depending on the font.
 V
   ==
   - zaang1 (longer syllable)
@@ -429,6 +432,9 @@ R
   ⽟ + 8
 U
   U+7424
+H
+  May appear as either ⿰𤣩争 (+6) or ⿰𤣩爭 (+8 assumed here),
+  depending on the font.
 V
   ==
   - zaang1 (longer syllable)

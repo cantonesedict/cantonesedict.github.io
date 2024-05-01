@@ -61,6 +61,9 @@ R
   ⼝ + 10
 U
   U+55D4
+H
+  May appear as either ⿰口眞 or ⿰口真 (assumed here),
+  depending on the font.
 F
   ==
   - [[F1.81 嗔]] 怒也
@@ -85,9 +88,7 @@ W
   ====
 C
   ==
-  - Fan Wan and Williams both print this as ⿰口眞,
-    but no separate code point to U+55D4~嗔 (taken to be ⿰口真)
-    exists for this form (blame Han unification inconsistency).
+  - Fan Wan and Williams both print this as ⿰口眞.
   ==
 S
   ==
@@ -158,6 +159,9 @@ R
   ⽬ + 10
 U
   U+778B
+H
+  May appear as either ⿰目眞 or ⿰目真 (assumed here),
+  depending on the font.
 F
   ==
   - [[F1.81 瞋]] 怒而張目也
@@ -174,9 +178,7 @@ W
   ====
 C
   ==
-  - Fan Wan and Williams both print this as ⿰目眞,
-    but no separate code point to U+778B~瞋 (taken to be ⿰目真)
-    exists for this form (blame Han unification inconsistency).
+  - Fan Wan and Williams both print this as ⿰目眞.
   ==
 $$
 
@@ -492,6 +494,9 @@ R
   ⽷ + 10
 U
   U+7E1D
+H
+  May appear as either ⿰糹眞 or ⿰糹真 (assumed here),
+  depending on the font.
 V
   ==
   - zan2 (expected from 章忍切)
@@ -515,9 +520,7 @@ W
   ====
 C
   ==
-  - Fan Wan and Williams both print this as ⿰糸眞,
-    but no separate code point to U+7E1D~縝 (taken to be ⿰糸真)
-    exists for this form (blame Han unification inconsistency).
+  - Fan Wan and Williams both print this as ⿰糸眞.
   ==
 $$
 
@@ -625,6 +628,9 @@ R
   ⾽ + 10
 U
   U+9B12
+H
+  May appear as either ⿱髟眞 or ⿱髟真 (assumed here),
+  depending on the font.
 V
   ==
   - zan2 (expected from 章忍切)
@@ -643,9 +649,7 @@ W
   ====
 C
   ==
-  - Fan Wan and Williams both print this as ⿱髟眞,
-    but no separate code point to U+9B12~鬒 (taken to be ⿱髟真)
-    exists for this form (blame Han unification inconsistency).
+  - Fan Wan and Williams both print this as ⿱髟眞.
   ==
 $$
 

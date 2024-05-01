@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaang
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-05-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -88,6 +88,9 @@ R
   ⽊ + 8
 U
   U+68E6
+H
+  May appear as either ⿰木争 (+6) or ⿰木爭 (+8 assumed here),
+  depending on the font.
 F
   [[Not present]]
 W
@@ -131,6 +134,9 @@ R
   ⽟ + 8
 U
   U+7424
+H
+  May appear as either ⿰𤣩争 (+6) or ⿰𤣩爭 (+8 assumed here),
+  depending on the font.
 F
   [[Not present]]
 W
@@ -173,6 +179,9 @@ R
   ⾁ + 8
 U
   U+3B39
+H
+  May appear as either ⿰月争 (+6) or ⿰⺼爭 (+8 assumed here),
+  depending on the font.
 A
   ==
   -{.modern} $踭1
@@ -237,6 +246,9 @@ R
   ⾜ + 8
 U
   U+8E2D
+H
+  May appear as either ⿰𧾷争 (+6) or ⿰𧾷爭 (+8 assumed here),
+  depending on the font.
 V
   ==
   - zang1 (uncommon)

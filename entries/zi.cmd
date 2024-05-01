@@ -566,6 +566,9 @@ R
   ⽔ + 9
 U
   U+6ECB
+H
+  May appear as either ⿰氵兹 (+9 assumed here) or ⿰氵茲 (+10),
+  depending on the font.
 F
   ==
   - [[F2.34 滋]] 潤也益也
@@ -1078,7 +1081,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~610 ::(1)蛓(1)[螆]^::]]
+  - [[Page~610 (1)蛓(1)螆]]
     --
     [[Alternative form of 螆. **See $螆zi1 for the canonical entry.**]]
     --
@@ -1112,13 +1115,16 @@ W
   ====
 $$
 
-### [螆]1 | _(1)Tsz'_ [[zi1]]
+### 螆1 | _(1)Tsz'_ [[zi1]]
 
 $$
 R
   ⾍ + 10
 U
   U+8786
+H
+  May appear as either ⿰虫兹 (+9) or ⿰虫茲 (+10 assumed here),
+  depending on the font.
 A
   ==
   - $蛓1
@@ -1127,7 +1133,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~610 ::(1)蛓(1)[螆]^::]]
+  - [[Page~610 (1)蛓(1)螆]]
     ==
     - A louse, a nit;
     - insects that [irritate] the skin;
@@ -2865,6 +2871,9 @@ R
   ⼧ + 10
 U
   U+5BD8
+H
+  May appear as either ⿱宀眞 or ⿱宀真 (assumed here),
+  depending on the font.
 F
   ==
   - [[F1.41 置]] 立也又安厝也又棄也

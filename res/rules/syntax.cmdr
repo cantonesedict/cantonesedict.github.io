@@ -57,6 +57,8 @@ RegexDictionaryReplacement: #.syntax.entry-key-abbreviations
                 ,{.modern}
 * ^U$ --> ; Unicode code point
                 ,{.modern}
+* ^H$ --> ; Han unification vigilance
+                ,{.modern}
 * ^A$ --> ; Alternative forms
                 ,{.williams}
 * ^V$ --> ; Reading variations
