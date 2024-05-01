@@ -776,6 +776,7 @@ For all radicals, see [Index of characters by radical](./).
       - $栅caak3
       - $柒cat1
       - $柂ci2
+      - $柿ci2
       - $柿ci4
       - $柿ci5
       - $枳zat1

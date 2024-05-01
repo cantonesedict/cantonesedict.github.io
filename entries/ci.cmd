@@ -683,6 +683,7 @@ $$
 - $恥2
 - $杝2
 - $柂2
+- $柿2
 - $矢2
 - $耻2
 - $褫2
@@ -961,6 +962,28 @@ S
   ==
   - $柂ji4 (TODO)
   - $柂to4 (TODO)
+  ==
+$$
+
+###+ 柿2 | _(2)Ts(')z'_ [[ci2]]
+
+$$
+R
+  ⽊ + 5
+U
+  U+67FF
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation (vernacular rising-tone noun). **See $柿ci5 for the canonical entry.**
+  ==
+S
+  ==
+  - $柿ci4
+  - $柿ci5
   ==
 $$
 
@@ -1626,6 +1649,7 @@ W
   ====
 S
   ==
+  - $柿ci2
   - $柿ci5
   ==
 $$
@@ -2334,6 +2358,7 @@ C
   ==
 S
   ==
+  - $柿ci2
   - $柿ci4
   ==
 $$
