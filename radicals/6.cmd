@@ -819,6 +819,7 @@ For all radicals, see [Index of characters by radical](./).
       - $茶caa4
       - $茦caak3
       - $茨ci4
+      - $茲ci4
       - $茲zi1
       ==
       </nav>

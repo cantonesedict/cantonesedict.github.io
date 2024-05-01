@@ -1453,6 +1453,7 @@ $$
 - $篪4
 - $臍4
 - $茨4
+- $茲4
 - $蚳4
 - $詞4
 - $踟4
@@ -1947,6 +1948,31 @@ W
         the _Caladium sagittifolium_, a species of Arum.
     ==
   ====
+$$
+
+###+ 茲4 | _(4)Ts(')z'_ [[ci4]]
+
+$$
+R
+  ⾋ + 6
+U
+  U+8332
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - The reading _(4)ts(')z'_ [[ci4]] for 茲 is not present in Williams;
+    an entry is included here for completeness.
+    ++
+    1. Used in 龜茲 (Kucha, the name of a kingdom).
+    ++
+  ==
+S
+  ==
+  - $茲zi1
+  ==
 $$
 
 ### 蚳4 | _(4)Ch(')(i/)_ [[ci4]]
