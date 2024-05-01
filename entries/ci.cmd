@@ -1419,6 +1419,7 @@ $$
 - $弛4
 - $慈4
 - $持4
+- $柿4
 - $池4
 - $治4
 - $瓷4
@@ -1602,6 +1603,30 @@ W
         to maintain the law.
     ==
   ====
+$$
+
+### 柿4 | _(4)Ts(')z'_ [[ci4]]
+
+$$
+R
+  ⽊ + 5
+U
+  U+67FF
+F
+  ==
+  - [[F2.34 柿]] 乾柿
+  ==
+W
+  ====
+  - [[Page~616 (4)柿]]
+    --
+    [[Idiosyncratic reading from Fan Wan. **See $柿ci5 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $柿ci5 (TODO)
+  ==
 $$
 
 ### 池4 | _(4)Ch(')(i/)_ [[ci4]]
