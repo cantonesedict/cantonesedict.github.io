@@ -1427,6 +1427,7 @@ $$
 - $祠4
 - $篪4
 - $臍4
+- $茨4
 - $蚳4
 - $詞4
 - $踟4
@@ -1867,6 +1868,32 @@ W
     - _(5)n(u")n (4)ts(')z' (1)k(o\)_
         [[nyun5 ci4 gou1 暖臍膏]],
         a plaster to keep the navel warm.
+    ==
+  ====
+$$
+
+### 茨4 | _(4)Ts(')z'_ [[ci4]]
+
+$$
+R
+  ⾋ + 6
+U
+  U+8328
+F
+  ==
+  - [[F2.34 茨]] 茨菰
+  ==
+W
+  ====
+  - [[Page~616 (4)茨]]
+    ==
+    - To thatch;
+    - grass on a wall;
+    - a spinous trailing plant with triangular seed;
+    - to collect;
+    - _(4)ts(')z' (1)k(u/)_
+        [[ci4 gu1 茨菰]],
+        the _Caladium sagittifolium_, a species of Arum.
     ==
   ====
 $$
