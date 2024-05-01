@@ -1451,6 +1451,7 @@ $$
 - $磁4
 - $祠4
 - $篪4
+- $糍4
 - $臍4
 - $茨4
 - $茲4
@@ -1890,6 +1891,31 @@ W
   ====
 $$
 
+###+ 糍4 | _(4)Ts(')z'_ [[ci4]]
+
+$$
+R
+  ⽶ + 10
+U
+  U+7CCD
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Alternative form of 餈. **See $餈ci4 for the canonical entry.**
+  - Nevertheless, 糯米糍 is the more common spelling for 糯米餈.
+  ==
+E
+  ====
+  - 【糯米糍】 (no6 mai5 ci4):
+    ++
+    1. Glutinous rice balls.
+    ++
+  ====
+$$
+
 ### 臍4 | _(4)Ts(')z'_ [[ci4]]
 
 $$
@@ -2217,6 +2243,10 @@ R
   ⾷ + 6
 U
   U+9908
+A
+  ==
+  -{.modern} $糍4
+  ==
 F
   ==
   - [[F2.34 餈]] 飯餅
@@ -2235,6 +2265,11 @@ W
         cocoanut flour cakes.
     ==
   ====
+C
+  ==
+  - The alternative form 糍 is commonly used
+    in the term [糯米糍](#cantonese-糯米糍).
+  ==
 $$
 
 ### 馳4 | _(4)Ch(')(i/)_ [[ci4]]
