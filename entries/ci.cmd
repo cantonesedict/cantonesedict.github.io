@@ -25,6 +25,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [ci2](#2)
 - [ci3](#3)
 - [ci4](#4)
+- [ci5](#5)
 ==
 </nav>
 <## /tones ##>
@@ -1625,7 +1626,7 @@ W
   ====
 S
   ==
-  - $柿ci5 (TODO)
+  - $柿ci5
   ==
 $$
 
@@ -2277,5 +2278,62 @@ C
   - Fan Wan and Williams both print this as ⿰兹鳥,
     but no separate code point to U+9DC0~鷀 (taken to be ⿰茲鳥)
     exists for this form (blame Han unification inconsistency).
+  ==
+$$
+
+
+##{#5 .williams} (5)Ts(')z' [[ci5 陽上]]
+
+<## tone-5-characters ##>
+<nav class="sideways">
+=={.modern}
+- $柿5
+==
+</nav>
+<## /tone-5-characters ##>
+
+###+ 柿5 | _(5)Ts(')z'_ [[ci5]]
+
+$$
+R
+  ⽊ + 5
+U
+  U+67FF
+V
+  ==
+  - ci4 (uncommon)
+  - ci5-2 (vernacular rising-tone noun)
+  ==
+F
+  ==
+  - [[F2.34 柿 _(4)Ts(')z'_ (ci4)]] 乾柿
+  ==
+W
+  ====
+  - [[Page~616 (4)柿 _(4)Ts(')z'_ (ci4); here corrected to  _(5)Ts(')z'_ (ci5)]]
+    ==
+    - The persimmon, the Diospyrus or China fig;
+    - _(1)kon [(5)]ts(')z'_ [[gon1 ci5-2 乾柿]]
+        or
+      _[(5)]ts(')z' (2)peng_ [[ci5-2 beng2 柿餅]],
+        dried persimmons or figs, prepared for exportation;
+    - _(4)ngau (1)sam [(5)]ts(')z'_
+        [[ngau4 sam1 ci5-2 牛心柿]]
+        the large sort;
+    - _(1)kai (1)sam [(5)]ts(')z'_
+        [[gai1 sam1 ci5-2 雞心柿]]
+        the small sort;
+    - _(2)shui tsam(3) [(5)]ts(')z'_
+        [[seoi2 zam3 ci5-2 水浸柿]]
+        the yellow persimmon.
+    ==
+  ====
+C
+  ==
+  - The uncommon reading ci4 is that given in Fan Wan.
+  ==
+S
+  ==
+  - $柿ci4
   ==
 $$
