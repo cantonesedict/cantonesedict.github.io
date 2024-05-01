@@ -1434,6 +1434,7 @@ $$
 - $辞4
 - $辭4
 - $遲4
+- $餈4
 - $馳4
 - $鶿4
 - $鷀4
@@ -2131,6 +2132,33 @@ S
   ==
   - $遲zi6
   ==
+$$
+
+### 餈4 | _(4)Ts(')z'_ [[ci4]]
+
+$$
+R
+  ⾷ + 6
+U
+  U+9908
+F
+  ==
+  - [[F2.34 餈]] 飯餅
+  ==
+W
+  ====
+  - [[Page~616 (4)餈]]
+    ==
+    - Unleavened cakes;
+    - pancakes, or dumplings made of rice flour;
+    - _(4)yau (4)ts(')z'_
+        [[jau4 ci4 油餈]]
+        cakes fried in fat;
+    - _(4)y(e/) (4)ts(')z'_
+        [[je ci4 椰餈]]
+        cocoanut flour cakes.
+    ==
+  ====
 $$
 
 ### 馳4 | _(4)Ch(')(i/)_ [[ci4]]
