@@ -1426,6 +1426,7 @@ $$
 - $磁4
 - $祠4
 - $篪4
+- $臍4
 - $蚳4
 - $詞4
 - $踟4
@@ -1832,6 +1833,40 @@ W
         [[ci4 hyun1 篪壎]],
         two instruments which chord;
         fraternal love.
+    ==
+  ====
+$$
+
+### 臍4 | _(4)Ts(')z'_ [[ci4]]
+
+$$
+R
+  ⾁ + 14
+U
+  U+81CD
+F
+  ==
+  - [[F2.34 臍]] 肚臍
+  ==
+W
+  ====
+  - [[Page~616 (4)臍]]
+    ==
+    - The navel;
+    - to cut off even;
+    - _(4)ts(')z' t(a/)i(3)_
+        [[ci4 daai3-2 臍帶]]
+        the umbilical cord;
+    - _shai(6) (4)ts(')z' mok(9) k(')ap(9)_
+        [[sai6 ci4 mok6 kap6 噬臍莫及]]
+        [hard as] [[these square brackets appear in the original text]]
+        for one to bite his own navel;
+    - _(5)t(')(o\) (4)ts(')z'_
+        [[tou5 ci4 肚臍]]
+        the navel;
+    - _(5)n(u")n (4)ts(')z' (1)k(o\)_
+        [[nyun5 ci4 gou1 暖臍膏]],
+        a plaster to keep the navel warm.
     ==
   ====
 $$
