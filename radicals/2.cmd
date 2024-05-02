@@ -115,6 +115,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $似ci5
       - $伺zi6
       ==
       </nav>

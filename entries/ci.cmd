@@ -2451,10 +2451,79 @@ $$
 <## tone-5-characters ##>
 <nav class="sideways">
 =={.modern}
+- $似5
 - $柿5
 ==
 </nav>
 <## /tone-5-characters ##>
+
+### 似5 | _(5)Ts(')z'_ [[ci5]]
+
+$$
+R
+  ⼈ + 5
+U
+  U+4F3C
+F
+  ==
+  - [[F2.35 似]] 如也肖也
+  ==
+W
+  ====
+  - [[Page~616 (5)似]]
+    ==
+    - Like, similar;
+    - as, as if, as it were, appearing, resembling;
+    - to appear, to have the aspect of;
+    - _(2)ho (5)ts(')z'_
+        [[hou2 ci5 好似]]
+        like;
+    - _(5)ts(')z' (4)'m (5)ts(')z'_
+        [[ci5 m4 ci5 似唔似]]
+        is it like or not?
+    - _(4)'m (1)to (5)ts(')z'_
+        [[m4 do1 ci5 唔多似]]
+        not very similar;
+    - _(5)ts(')z' tsuk(7) (5)n(i/)_
+        [[ci5 zuk1 nei5 似足你]],
+        just like you;
+    - _(5)ts(')z' sh(i/)(6) (4)(i/) (1)f(i/)_
+        [[ci5 si6 ji4 fei1 似是而非]],
+        somewhat of right, but still wrong;
+    - _(5)yau shing(3) (5)ts(')z' (5)ngo tik(7)_
+        [[jau5 sing3 ci5 ngo5 dik1 有勝似我的]]
+        there are those superior to me;
+    - _(4)yan (5)yau (1)s(e/)ung (5)ts(')z'_
+        [[jan4 jau5 soeng1 ci5 人有相似]]
+        they resemble each other.
+    ==
+  ====
+E
+  ====
+  - 【似】 (ci5):
+    ++
+    1. To resemble, to be like.
+       ==
+       - 似佢阿媽 (ci5 keoi5 aa3 maa1): "[She] resembles her mum."
+       - 好似得咗 (hou2 ci5 dak1 zo2): "Seems like [it] worked."
+       ==
+    ++
+  - 【似樣】 (ci5 joeng6-2):
+    ++
+    1. To resemble in appearance.
+       ==
+       - 好似樣 (hou2 ci5 joeng6-2): "[They] really look alike."
+       ==
+    1. To appear acceptable, to look the part.
+       ==
+       - 噉似樣啲 (gam2 ci5 joeng6-2 di1): "[It] looks more acceptable like this."
+       ==
+    ++
+  ====
+  --
+  Classical usage of 似 is preserved by Cantonese, which prefers it over 像.
+  --
+$$
 
 ###+ 柿5 | _(5)Ts(')z'_ [[ci5]]
 
