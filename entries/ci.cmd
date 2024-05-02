@@ -2452,6 +2452,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $似5
+- $姒5
 - $柿5
 ==
 </nav>
@@ -2523,6 +2524,36 @@ E
   --
   Classical usage of 似 is preserved by Cantonese, which prefers it over 像.
   --
+$$
+
+### 姒5 | _[(5)]Ts(')z'_ [[ci5]]
+
+$$
+R
+  ⼥ + 5
+U
+  U+59D2
+F
+  ==
+  - [[F2.35 姒]] 兄弟之妻相謂曰姒又文王之妃曰太姒
+  ==
+W
+  ====
+  - [[Page~616 ::[(5)]姒::]]
+    ==
+    - An elder brother's wife;
+    - _[(5)]ts(')z' tai(6)_
+        [[ci5 dai6 姒娣]]
+        sisters-in-law;
+    - _(5)ts(')z' (5)f(u/)_
+        [[ci5 fu5 姒婦]],
+        an old lady---a term used by the young.
+    ==
+  ====
+C
+  ==
+  - Williams misprints (5)姒 as (2)姒.
+  ==
 $$
 
 ###+ 柿5 | _(5)Ts(')z'_ [[ci5]]
