@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2024-05-01
+* %date-modified --> 2024-05-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -684,6 +684,7 @@ $$
 - $杝2
 - $柂2
 - $柿2
+- $此2
 - $矢2
 - $耻2
 - $褫2
@@ -985,6 +986,46 @@ S
   - $柿ci4
   - $柿ci5
   ==
+$$
+
+### 此2 | _(2)Ts(')z'_ [[ci2]]
+
+$$
+R
+  ⽌ + 2
+U
+  U+6B64
+F
+  ==
+  - [[F2.35 此]] 彼此斯也
+  ==
+W
+  ====
+  - [[Page~616 (2)此]]
+    ==
+    - A pronoun, this;
+    - here, now;
+    - this, the last spoken of;
+    - the thing in hand;
+    - _(2)p(i/) (2)ts(')z'_
+        [[bei2 ci2 彼此]]
+        that, this;
+        you, I;
+        there, here;
+    - _(4)(u") (2)ts(')z'_
+        [[jyu4 ci2 如此]]
+        like this;
+    - _(4)'m tsoi(6) (2)ts(')z'_
+        [[m4 zoi6 ci2 唔在此]]
+        not here;
+    - _(5)(i/) (2)ts(')z'_
+        [[ji5 ci2 以此]]
+        by, or on this account;
+    - _(2)ts(')z' (1)yan (2)ts(')z' tak(7)_
+        [[ci2 jan1 ci2 dak1 此恩此德]]
+        for this very kindness.
+    ==
+  ====
 $$
 
 ### 矢2 | _(2)Ch(')(i/)_ [[ci2]]
