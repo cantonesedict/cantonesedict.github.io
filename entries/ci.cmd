@@ -2454,6 +2454,7 @@ $$
 - $似5
 - $姒5
 - $柿5
+- $汜5
 ==
 </nav>
 <## /tone-5-characters ##>
@@ -2601,4 +2602,27 @@ S
   - $柿ci2
   - $柿ci4
   ==
+$$
+
+### 汜5 | _(5)Ts(')z'_ [[ci5]]
+
+$$
+R
+  ⽔ + 3
+U
+  U+6C5C
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~616 (5)汜]]
+    ==
+    - A stream leaving the main branch, and afterwards flowing into it again;
+    - _(5)ts(')z' (2)shui_
+        [[ci5 seoi2 汜水]],
+        a small river in Hon(a/)n [[河南]],
+        west of K(')(a/)ifung f(u/)_ [[開封府]],
+        having a town of the same name.
+    ==
+  ====
 $$
