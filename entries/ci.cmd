@@ -676,6 +676,7 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $佌2
 - $侈2
 - $哆2
 - $始2
@@ -693,6 +694,33 @@ $$
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 佌2 | _(2)Ts(')z'_ [[ci2]]
+
+$$
+R
+  ⼈ + 6
+U
+  U+4F4C
+F
+  ==
+  - [[F2.35 佌]] ::小也詩[佌佌彼]有屋::
+  ==
+W
+  ====
+  - [[Page~616 (2)佌]]
+    ==
+    - Small, contracted, diminutive;
+    - _(2)ts(')z' (2)ts(')z' (1)ch(i/) mat(9)_
+        [[ci2 ci2 zi1 mat6]]
+        a very little thing.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 佌佊 to 佌佌彼.
+  ==
+$$
 
 ### 侈2 | _(2)Ch(')(i/)_ [[ci2]]
 
