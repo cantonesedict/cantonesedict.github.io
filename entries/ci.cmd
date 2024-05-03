@@ -67,6 +67,7 @@ $$
 - $褫1
 - $訾1
 - $雌1
+- $骴1
 - $鴟1
 - $黐1
 - $齝1
@@ -493,6 +494,37 @@ W
 C
   ==
   - Fan Wan entry: Corrected 毌 to 母.
+  ==
+$$
+
+###+ 骴1 | _(1)Ts(')z'_ [[ci1]]
+
+$$
+R
+  ⾻ + 6
+U
+  U+9AB4
+V
+  ==
+  - ci3 (uncommon)
+  - ci4 (expected from 疾移切)
+  - zi6 (expected from 疾智切)
+  ==
+F
+  ==
+  - [[F2.35 骴 _Ts(')z'(3)_ (ci3)]] 殘骨
+  ==
+W
+  ====
+  - [[Page~617 骴(3) _Ts(')z'(3)_ (ci3); here normalised to _(1)Ts(')z'_ (ci1)]]
+    ==
+    - An old bone of men or beasts;
+    - putrid bones, having some flesh on them.
+    ==
+  ====
+S
+  ==
+  - $骴ci3
   ==
 $$
 
@@ -1666,7 +1698,7 @@ W
   ====
 S
   ==
-  - $骴ci1 (TODO)
+  - $骴ci1
   ==
 $$
 
