@@ -355,7 +355,7 @@ W
 C
   ==
   - Williams' 啞謎:
-    Changed Middle Chinese _mai(6)_ [[mai6]] to common reading _(4)mai_ [[mai4]].
+    Changed Middle Chinese _mai(6)_ (mai6) to common reading _(4)mai_ (mai4).
   ==
 S
   ==
