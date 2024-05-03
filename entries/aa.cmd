@@ -603,7 +603,7 @@ C
 $$
 
 
-##{#4 .modern} (4)(A/) [[aa4 陽平]]
+##{#4 .modern} (4)(A/) (aa4 陽平)
 
 <## tone-4-characters ##>
 <nav class="sideways">
@@ -653,7 +653,7 @@ S
 $$
 
 
-##{#6 .modern} (A/)(6) [[aa6 陽去]]
+##{#6 .modern} (A/)(6) (aa6 陽去)
 
 <## tone-6-characters ##>
 <nav class="sideways">
