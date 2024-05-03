@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ai
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-05-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -53,7 +53,7 @@ $$
 </nav>
 <## /tone-1-characters ##>
 
-###+ 哎1 | _(1)Ai_ [[ai1]]
+###+ 哎1 | _(1)Ai_ (ai1)
 
 $$
 R

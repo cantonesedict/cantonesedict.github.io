@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coek
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-05-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -160,7 +160,7 @@ W
   ====
 $$
 
-###+ 桌3 | _Ch(')(e/)uk(8)_ [[coek3]]
+###+ 桌3 | _Ch(')(e/)uk(8)_ (coek3)
 
 $$
 R
@@ -238,7 +238,7 @@ S
   ==
 $$
 
-###+ 灼3 | _Ch(')(e/)uk(8)_ [[coek3]]
+###+ 灼3 | _Ch(')(e/)uk(8)_ (coek3)
 
 $$
 R
@@ -296,7 +296,7 @@ W
   ====
 $$
 
-###+ 芍3 | _Ch(')(e/)uk(8)_ [[coek3]]
+###+ 芍3 | _Ch(')(e/)uk(8)_ (coek3)
 
 $$
 R

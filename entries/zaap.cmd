@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaap
-* %date-modified --> 2024-04-28
+* %date-modified --> 2024-05-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -103,7 +103,7 @@ C
   ==
 $$
 
-###+ 眨3 | _Ch(a/)p(8)_ [[zaap3]]
+###+ 眨3 | _Ch(a/)p(8)_ (zaap3)
 
 $$
 R
@@ -150,7 +150,7 @@ $$
 </nav>
 <## /tone-6-characters ##>
 
-###+ 什6 | _Ts(a/)p(9)_ [[zaap6]]
+###+ 什6 | _Ts(a/)p(9)_ (zaap6)
 
 $$
 R

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ze
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-05-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -54,7 +54,7 @@ $$
 </nav>
 <## /tone-1-characters ##>
 
-###+ 啫1 | _(1)Ch(e/)_ [[ze1]]
+###+ 啫1 | _(1)Ch(e/)_ (ze1)
 
 $$
 R
@@ -397,7 +397,7 @@ W
   ====
 $$
 
-###+ 這2 | _(2)Ch(e/)_ [[ze2]]
+###+ 這2 | _(2)Ch(e/)_ (ze2)
 
 $$
 R
@@ -566,7 +566,7 @@ S
   ==
 $$
 
-###+ 嗻3 | _Ch(e/)(3)_ [[ze3]]
+###+ 嗻3 | _Ch(e/)(3)_ (ze3)
 
 $$
 R

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2024-05-03
+* %date-modified --> 2024-05-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -281,7 +281,7 @@ C
   ==
 $$
 
-###+ 瘵3 | _Ch(a/)i(3)_ [[zaai3]]
+###+ 瘵3 | _Ch(a/)i(3)_ (zaai3)
 
 $$
 R
@@ -410,7 +410,7 @@ C
   ==
 $$
 
-###+ 眥6 | _Ch(a/)i(6)_ [[zaai6]]
+###+ 眥6 | _Ch(a/)i(6)_ (zaai6)
 
 $$
 R

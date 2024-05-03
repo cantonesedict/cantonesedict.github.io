@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caat
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-05-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -53,7 +53,7 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
-###+ 刷3 | _Ch(')(a/)t(8)_ [[caat3]]
+###+ 刷3 | _Ch(')(a/)t(8)_ (caat3)
 
 $$
 R
@@ -116,7 +116,7 @@ S
   ==
 $$
 
-###+ 剎3 | _Ch(')(a/)t(8)_ [[caat3]]
+###+ 剎3 | _Ch(')(a/)t(8)_ (caat3)
 
 $$
 R

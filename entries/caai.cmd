@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2024-04-28
+* %date-modified --> 2024-05-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -217,7 +217,7 @@ $$
 </nav>
 <## /tone-2-characters ##>
 
-###+ 踩2 | _(2)Ch(')(a/)i_ [[caai2]]
+###+ 踩2 | _(2)Ch(')(a/)i_ (caai2)
 
 $$
 R

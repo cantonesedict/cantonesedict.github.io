@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2024-05-01
+* %date-modified --> 2024-05-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -96,7 +96,7 @@ S
   ==
 $$
 
-###+ 嚫1 | _(1)Ts(')an_ [[can1]]
+###+ 嚫1 | _(1)Ts(')an_ (can1)
 
 $$
 R
@@ -763,7 +763,7 @@ E
   ====
 $$
 
-###+ 親3 | _Ts(')an(3)_ [[can3]]
+###+ 親3 | _Ts(')an(3)_ (can3)
 
 $$
 R

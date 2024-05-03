@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-05-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -430,7 +430,7 @@ C
   ==
 $$
 
-###+ 窻1 | _(1)Ch(')(e/)ung_ [[coeng1]]
+###+ 窻1 | _(1)Ch(')(e/)ung_ (coeng1)
 
 $$
 R
@@ -470,7 +470,7 @@ W
   ====
 $$
 
-###+ 裮1 | _(1)Ch(')(e/)ung_ [[coeng1]]
+###+ 裮1 | _(1)Ch(')(e/)ung_ (coeng1)
 
 $$
 R
@@ -717,7 +717,7 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
-###+ 倡3 | _Ch(')(e/)ung(3)_ [[coeng3]]
+###+ 倡3 | _Ch(')(e/)ung(3)_ (coeng3)
 
 $$
 R
@@ -807,7 +807,7 @@ W
   ====
 $$
 
-###+ 悵3 | _Ch(')(e/)ung(3)_ [[coeng3]]
+###+ 悵3 | _Ch(')(e/)ung(3)_ (coeng3)
 
 $$
 R
@@ -883,7 +883,7 @@ E
   ====
 $$
 
-###+ 蹡3 | _Ts(')(e/)ung(3)_ [[coeng3]]
+###+ 蹡3 | _Ts(')(e/)ung(3)_ (coeng3)
 
 $$
 R
@@ -1004,7 +1004,7 @@ C
   ==
 $$
 
-###+ 場4 | _(4)Ch(')(e/)ung_ [[coeng4]]
+###+ 場4 | _(4)Ch(')(e/)ung_ (coeng4)
 
 $$
 R

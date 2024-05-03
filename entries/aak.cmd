@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aak
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-05-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -57,7 +57,7 @@ $$
 </nav>
 <## /tone-1-characters ##>
 
-###+ 厄1 | _(A/)k(7)_ [[aak1]]
+###+ 厄1 | _(A/)k(7)_ (aak1)
 
 $$
 R
@@ -80,7 +80,7 @@ S
   ==
 $$
 
-###+ 呃1 | _(A/)k(7)_ [[aak1]]
+###+ 呃1 | _(A/)k(7)_ (aak1)
 
 $$
 R
@@ -123,7 +123,7 @@ E
   ====
 $$
 
-###+ 握1 | _(A/)k(7)_ [[aak1]]
+###+ 握1 | _(A/)k(7)_ (aak1)
 
 $$
 R

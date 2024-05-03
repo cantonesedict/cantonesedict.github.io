@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaau
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-05-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -135,7 +135,7 @@ $$
 </nav>
 <## /tone-2-characters ##>
 
-###+ 帚2 | _(2)Ch(a/)u_ [[zaau2]]
+###+ 帚2 | _(2)Ch(a/)u_ (zaau2)
 
 $$
 R
@@ -321,7 +321,7 @@ E
   ====
 $$
 
-###+ 箒2 | _(2)Ch(a/)u_ [[zaau2]]
+###+ 箒2 | _(2)Ch(a/)u_ (zaau2)
 
 $$
 R
@@ -345,7 +345,7 @@ S
   ==
 $$
 
-###+ 肘2 | _(2)Ch(a/)u_ [[zaau2]]
+###+ 肘2 | _(2)Ch(a/)u_ (zaau2)
 
 $$
 R
@@ -458,7 +458,7 @@ S
   ==
 $$
 
-###+ 㷹3 | _Ch(a/)u(3)_ [[zaau3]]
+###+ 㷹3 | _Ch(a/)u(3)_ (zaau3)
 
 $$
 R
@@ -628,7 +628,7 @@ $$
 </nav>
 <## /tone-6-characters ##>
 
-###+ 棹6 | _Ch(a/)u(6)_ [[zaau6]]
+###+ 棹6 | _Ch(a/)u(6)_ (zaau6)
 
 $$
 R
@@ -656,7 +656,7 @@ S
 <## TODO: 棹忌 zaau6 gei6 ##>
 $$
 
-###+ 櫂6 | _Ch(a/)u(6)_ [[zaau6]]
+###+ 櫂6 | _Ch(a/)u(6)_ (zaau6)
 
 $$
 R
@@ -714,7 +714,7 @@ S
   ==
 $$
 
-###+ 驟6 | _Ch(a/)u(6)_ [[zaau6]]
+###+ 驟6 | _Ch(a/)u(6)_ (zaau6)
 
 $$
 R

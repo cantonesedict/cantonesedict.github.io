@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2024-04-28
+* %date-modified --> 2024-05-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -55,7 +55,7 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
-###+ 矺3 | _Ch(a/)k(8)_ [[zaak3]]
+###+ 矺3 | _Ch(a/)k(8)_ (zaak3)
 
 $$
 R
@@ -143,7 +143,7 @@ S
   ==
 $$
 
-###+ 砸3 | _Ch(a/)k(8)_ [[zaak3]]
+###+ 砸3 | _Ch(a/)k(8)_ (zaak3)
 
 $$
 R
@@ -160,7 +160,7 @@ C
   ==
 $$
 
-###+ 磧3 | _Ch(a/)k(8)_ [[zaak3]]
+###+ 磧3 | _Ch(a/)k(8)_ (zaak3)
 
 $$
 R
@@ -246,7 +246,7 @@ W
   ====
 $$
 
-###+ 簀3 | _Ch(a/)k(8)_ [[zaak3]]
+###+ 簀3 | _Ch(a/)k(8)_ (zaak3)
 
 $$
 R
@@ -363,7 +363,7 @@ C
   ==
 $$
 
-###+ 賾3 | _Ch(a/)k(8)_ [[zaak3]]
+###+ 賾3 | _Ch(a/)k(8)_ (zaak3)
 
 $$
 R
@@ -649,7 +649,7 @@ C
   ==
 $$
 
-###+ 矺6 | _Ch(a/)k(9)_ [[zaak6]]
+###+ 矺6 | _Ch(a/)k(9)_ (zaak6)
 
 $$
 R

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoek
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-05-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -107,7 +107,7 @@ S
   ==
 $$
 
-###+ 嚼3 | _Ts(e/)uk(8)_ [[zoek3]]
+###+ 嚼3 | _Ts(e/)uk(8)_ (zoek3)
 
 $$
 R
@@ -226,7 +226,7 @@ S
   ==
 $$
 
-###+ 桌3 | _Ch(e/)uk(8)_ [[zoek3]]
+###+ 桌3 | _Ch(e/)uk(8)_ (zoek3)
 
 $$
 R
@@ -247,7 +247,7 @@ S
   ==
 $$
 
-###+ 棹3 | _Ch(e/)uk(8)_ [[zoek3]]
+###+ 棹3 | _Ch(e/)uk(8)_ (zoek3)
 
 $$
 R
@@ -310,7 +310,7 @@ S
   ==
 $$
 
-###+ 爝3 | _Ts(e/)uk(8)_ [[zoek3]]
+###+ 爝3 | _Ts(e/)uk(8)_ (zoek3)
 
 $$
 R
@@ -388,7 +388,7 @@ W
   ====
 $$
 
-###+ 皭3 | _Ts(e/)uk(8)_ [[zoek3]]
+###+ 皭3 | _Ts(e/)uk(8)_ (zoek3)
 
 $$
 R
@@ -706,7 +706,7 @@ E
   ====
 $$
 
-###+ 鵲3 | _Ts(e/)uk(8)_ [[zoek3]]
+###+ 鵲3 | _Ts(e/)uk(8)_ (zoek3)
 
 $$
 R
@@ -840,7 +840,7 @@ S
   ==
 $$
 
-###+ 着6 | _Ch(e/)uk(9)_ [[zoek6]]
+###+ 着6 | _Ch(e/)uk(9)_ (zoek6)
 
 $$
 R
@@ -957,7 +957,7 @@ S
   ==
 $$
 
-###+ 著6 | _Ch(e/)uk(9)_ [[zoek6]]
+###+ 著6 | _Ch(e/)uk(9)_ (zoek6)
 
 $$
 R

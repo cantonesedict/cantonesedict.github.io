@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2024-04-16
+* %date-modified --> 2024-05-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -455,7 +455,7 @@ S
   ==
 $$
 
-###+ 濟2 | _(2)Tsai_ [[zai2]]
+###+ 濟2 | _(2)Tsai_ (zai2)
 
 $$
 R
@@ -649,7 +649,7 @@ E
   ====
 $$
 
-###+ 晢3 | _Chai(3)_ [[zai3]]
+###+ 晢3 | _Chai(3)_ (zai3)
 
 $$
 R
@@ -1077,7 +1077,7 @@ E
   ====
 $$
 
-###+ 穧6 | _Tsai(6)_ [[zai6]]
+###+ 穧6 | _Tsai(6)_ (zai6)
 
 $$
 R

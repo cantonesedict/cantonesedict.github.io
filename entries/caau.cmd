@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caau
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-05-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -92,7 +92,7 @@ W
   ====
 $$
 
-###+ 鈔1 | _(1)Ch(')(a/)u_ [[caau1]]
+###+ 鈔1 | _(1)Ch(')(a/)u_ (caau1)
 
 $$
 R
@@ -276,7 +276,7 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
-###+ 摷3 | _Ch(')(a/)u(3)_ [[caau3]]
+###+ 摷3 | _Ch(')(a/)u(3)_ (caau3)
 
 $$
 R

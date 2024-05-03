@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2024-04-28
+* %date-modified --> 2024-05-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -141,7 +141,7 @@ W
   ====
 $$
 
-###+ 諳1 | _(1)(O\)m_ [[am1]]
+###+ 諳1 | _(1)(O\)m_ (am1)
 
 $$
 R
@@ -163,7 +163,7 @@ S
   ==
 $$
 
-###+ 鵪1 | _(1)(O\)m_ [[am1]]
+###+ 鵪1 | _(1)(O\)m_ (am1)
 
 $$
 R
@@ -594,7 +594,7 @@ E
   ====
 $$
 
-###+ 闇3 | _(O\)m(3)_ [[am3]]
+###+ 闇3 | _(O\)m(3)_ (am3)
 
 $$
 R

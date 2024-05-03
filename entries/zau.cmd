@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2024-04-28
+* %date-modified --> 2024-05-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -203,7 +203,7 @@ E
   ====
 $$
 
-###+ 啁1 | _(1)Chau_ [[zau1]]
+###+ 啁1 | _(1)Chau_ (zau1)
 
 $$
 R
@@ -319,7 +319,7 @@ W
   ====
 $$
 
-###+ 揪1 | _(1)Tsau_ [[zau1]]
+###+ 揪1 | _(1)Tsau_ (zau1)
 
 $$
 R
@@ -381,7 +381,7 @@ S
   ==
 $$
 
-###+ 揫1 | _(1)Tsau_ [[zau1]]
+###+ 揫1 | _(1)Tsau_ (zau1)
 
 $$
 R
@@ -458,7 +458,7 @@ W
   ====
 $$
 
-###+ 湫1 | _(1)Tsau_ [[zau1]]
+###+ 湫1 | _(1)Tsau_ (zau1)
 
 $$
 R
@@ -1202,7 +1202,7 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
-###+ 僽3 | _Tsau(3)_ [[zau3]]
+###+ 僽3 | _Tsau(3)_ (zau3)
 
 $$
 R
@@ -1418,7 +1418,7 @@ W
   ====
 $$
 
-###+ 椆3 | _Chau(3)_ [[zau3]]
+###+ 椆3 | _Chau(3)_ (zau3)
 
 $$
 R
@@ -1441,7 +1441,7 @@ S
   ==
 $$
 
-###+ 甃3 | _Tsau(3)_ [[zau3]]
+###+ 甃3 | _Tsau(3)_ (zau3)
 
 $$
 R
@@ -1764,7 +1764,7 @@ C
   ==
 $$
 
-###+ 籀6 | _Chau(6)_ [[zau6]]
+###+ 籀6 | _Chau(6)_ (zau6)
 
 $$
 R

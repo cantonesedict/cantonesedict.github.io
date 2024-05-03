@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2024-04-23
+* %date-modified --> 2024-05-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -230,7 +230,7 @@ S
   ==
 $$
 
-###+ 啊1 | _(1)(A/)_ [[aa1]]
+###+ 啊1 | _(1)(A/)_ (aa1)
 
 $$
 R
@@ -469,7 +469,7 @@ S
   ==
 $$
 
-###+ 啊3 | _(A/)(3)_ [[aa3]]
+###+ 啊3 | _(A/)(3)_ (aa3)
 
 $$
 R
@@ -613,7 +613,7 @@ $$
 </nav>
 <## /tone-4-characters ##>
 
-###+ 呀4 | _(4)(A/)_ [[aa4]]
+###+ 呀4 | _(4)(A/)_ (aa4)
 
 $$
 R
@@ -663,7 +663,7 @@ $$
 </nav>
 <## /tone-6-characters ##>
 
-###+ 呀6 | _(A/)(6)_ [[aa6]]
+###+ 呀6 | _(A/)(6)_ (aa6)
 
 $$
 R

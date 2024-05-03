@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-05-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -53,7 +53,7 @@ $$
 </nav>
 <## /tone-1-characters ##>
 
-###+ 篸1 | _(1)Ts(a/)m_ [[zaam1]]
+###+ 篸1 | _(1)Ts(a/)m_ (zaam1)
 
 $$
 R
@@ -137,7 +137,7 @@ $$
 </nav>
 <## /tone-2-characters ##>
 
-###+ 寁2 | _(2)Ts(a/)m_ [[zaam2]]
+###+ 寁2 | _(2)Ts(a/)m_ (zaam2)
 
 $$
 R
@@ -214,7 +214,7 @@ C
   ==
 $$
 
-###+ 眨2 | _(2)Ch(a/)m_ [[zaam2]]
+###+ 眨2 | _(2)Ch(a/)m_ (zaam2)
 
 $$
 R
@@ -235,7 +235,7 @@ S
   ==
 $$
 
-###+ 䁪2 | _(2)Ch(a/)m_ [[zaam2]]
+###+ 䁪2 | _(2)Ch(a/)m_ (zaam2)
 
 $$
 R
@@ -517,7 +517,7 @@ S
   ==
 $$
 
-###+ 鏨6 | _Ts(a/)m(6)_ [[zaam6]]
+###+ 鏨6 | _Ts(a/)m(6)_ (zaam6)
 
 $$
 R

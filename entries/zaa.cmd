@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-05-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -61,7 +61,7 @@ $$
 </nav>
 <## /tone-1-characters ##>
 
-###+ 吒1 | _(1)Ch(a/)_ [[zaa1]]
+###+ 吒1 | _(1)Ch(a/)_ (zaa1)
 
 $$
 R
@@ -520,7 +520,7 @@ W
   ====
 $$
 
-###+ 吒3 | _Ch(a/)(3)_ [[zaa3]]
+###+ 吒3 | _Ch(a/)(3)_ (zaa3)
 
 $$
 R
@@ -677,7 +677,7 @@ C
   ==
 $$
 
-###+ 炸3 | _Ch(a/)(3)_ [[zaa3]]
+###+ 炸3 | _Ch(a/)(3)_ (zaa3)
 
 $$
 R
@@ -700,7 +700,7 @@ C
   ==
 $$
 
-###+ 痄3 | _Ch(a/)(3)_ [[zaa3]]
+###+ 痄3 | _Ch(a/)(3)_ (zaa3)
 
 $$
 R
@@ -766,7 +766,7 @@ C
   ==
 $$
 
-###+ 蜡3 | _Ch(a/)(3)_ [[zaa3]]
+###+ 蜡3 | _Ch(a/)(3)_ (zaa3)
 
 $$
 R
@@ -892,7 +892,7 @@ $$
 </nav>
 <## /tone-4-characters ##>
 
-###+ 喳4 | _(4)Ch(a/)_ [[zaa4]]
+###+ 喳4 | _(4)Ch(a/)_ (zaa4)
 
 $$
 R
@@ -934,7 +934,7 @@ $$
 </nav>
 <## /tone-6-characters ##>
 
-###+ 拃6 | _Ch(a/)(6)_ [[zaa6]]
+###+ 拃6 | _Ch(a/)(6)_ (zaa6)
 
 $$
 R

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zat
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-05-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -692,7 +692,7 @@ S
   ==
 $$
 
-###+ 郅6 | _Chat(9)_ [[zat6]]
+###+ 郅6 | _Chat(9)_ (zat6)
 
 $$
 R

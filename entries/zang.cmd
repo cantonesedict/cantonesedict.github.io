@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2024-05-01
+* %date-modified --> 2024-05-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -122,7 +122,7 @@ W
   ====
 $$
 
-###+ 崢1 | _(1)Chang_ [[zang1]]
+###+ 崢1 | _(1)Chang_ (zang1)
 
 $$
 R
@@ -203,7 +203,7 @@ E
   ====
 $$
 
-###+ 掙1 | _(1)Chang_ [[zang1]]
+###+ 掙1 | _(1)Chang_ (zang1)
 
 $$
 R
@@ -297,7 +297,7 @@ S
   ==
 $$
 
-###+ 爭1 | _(1)Chang_ [[zang1]]
+###+ 爭1 | _(1)Chang_ (zang1)
 
 $$
 R
@@ -456,7 +456,7 @@ S
   ==
 $$
 
-###+ 睜1 | _(1)Chang_ [[zang1]]
+###+ 睜1 | _(1)Chang_ (zang1)
 
 $$
 R
@@ -760,7 +760,7 @@ $$
 </nav>
 <## /tone-6-characters ##>
 
-###+ 甑6 | _Tsang(6)_ [[zang6]]
+###+ 甑6 | _Tsang(6)_ (zang6)
 
 $$
 R

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-05-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -155,7 +155,7 @@ C
   ==
 $$
 
-###+ 攙1 | _(1)Ch(')(a/)m_ [[caam1]]
+###+ 攙1 | _(1)Ch(')(a/)m_ (caam1)
 
 $$
 R
@@ -199,7 +199,7 @@ S
   ==
 $$
 
-###+ 篸1 | _(1)Ts(')(a/)m_ [[caam1]]
+###+ 篸1 | _(1)Ts(')(a/)m_ (caam1)
 
 $$
 R
@@ -897,7 +897,7 @@ $$
 </nav>
 <## /tone-5-characters ##>
 
-###+ 劖5 | _(5)Ts(')(a/)m_ [[caam5]]
+###+ 劖5 | _(5)Ts(')(a/)m_ (caam5)
 
 $$
 R
@@ -919,7 +919,7 @@ S
   ==
 $$
 
-###+ 棖5 | _(5)Ch(')(a/)m_ [[caam5]]
+###+ 棖5 | _(5)Ch(')(a/)m_ (caam5)
 
 $$
 R
@@ -960,7 +960,7 @@ S
   ==
 $$
 
-###+ 鏨5 | _(5)Ts(')(a/)m_ [[caam5]]
+###+ 鏨5 | _(5)Ts(')(a/)m_ (caam5)
 
 $$
 R

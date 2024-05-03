@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2024-04-25
+* %date-modified --> 2024-05-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -680,7 +680,7 @@ $$
 </nav>
 <## /tone-5-characters ##>
 
-###+ 扠5 | _(5)Ch(')(a/)_ [[caa5]]
+###+ 扠5 | _(5)Ch(')(a/)_ (caa5)
 
 $$
 R
@@ -701,7 +701,7 @@ S
   ==
 $$
 
-###+ 搽5 | _(5)Ch(')(a/)_ [[caa5]]
+###+ 搽5 | _(5)Ch(')(a/)_ (caa5)
 
 $$
 R

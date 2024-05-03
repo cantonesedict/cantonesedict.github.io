@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-05-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -80,7 +80,7 @@ W
   ====
 $$
 
-###+ 儹2 | _(2)Ts(a/)n_ [[zaan2]]
+###+ 儹2 | _(2)Ts(a/)n_ (zaan2)
 
 $$
 R
@@ -104,7 +104,7 @@ W
   ====
 $$
 
-###+ 㜺2 | _(2)Ts(a/)n_ [[zaan2]]
+###+ 㜺2 | _(2)Ts(a/)n_ (zaan2)
 
 $$
 R
@@ -202,7 +202,7 @@ W
   ====
 $$
 
-###+ 棧2 | _(2)Ch(a/)n_ [[zaan2]]
+###+ 棧2 | _(2)Ch(a/)n_ (zaan2)
 
 $$
 R
@@ -306,7 +306,7 @@ W
   ====
 $$
 
-###+ 趲2 | _(2)Ts(a/)n_ [[zaan2]]
+###+ 趲2 | _(2)Ts(a/)n_ (zaan2)
 
 $$
 R
@@ -398,7 +398,7 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
-###+ 撰3 | _Ch(a/)n(3)_ [[zaan3]]
+###+ 撰3 | _Ch(a/)n(3)_ (zaan3)
 
 $$
 R
@@ -835,7 +835,7 @@ W
   ====
 $$
 
-###+ 賺6 | _Ch(a/)n(6)_ [[zaan6]]
+###+ 賺6 | _Ch(a/)n(6)_ (zaan6)
 
 $$
 R

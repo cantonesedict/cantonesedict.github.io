@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2024-04-28
+* %date-modified --> 2024-05-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -212,7 +212,7 @@ C
   ==
 $$
 
-###+ 祲1 | _(1)Tsam_ [[zam1]]
+###+ 祲1 | _(1)Tsam_ (zam1)
 
 $$
 R
@@ -674,7 +674,7 @@ S
   ==
 $$
 
-###+ 譖3 | _Cham(3)_ [[zam3]]
+###+ 譖3 | _Cham(3)_ (zam3)
 
 $$
 R
@@ -726,7 +726,7 @@ $$
 </nav>
 <## /tone-6-characters ##>
 
-###+ 𠹻6 [[⿰口朕]] | _Cham(6)_ [[zam6]]
+###+ 𠹻6 [[⿰口朕]] | _Cham(6)_ (zam6)
 
 $$
 R

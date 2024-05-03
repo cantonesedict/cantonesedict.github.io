@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cat
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-05-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -226,7 +226,7 @@ $$
 </nav>
 <## /tone-6-characters ##>
 
-###+ 𫵱6 [[⿱山十]] | _Ts(')at(9)_ [[cat6]]
+###+ 𫵱6 [[⿱山十]] | _Ts(')at(9)_ (cat6)
 
 $$
 R
@@ -243,7 +243,7 @@ C
   ==
 $$
 
-###+ 𨳍6 [[⿵門七]] | _Ts(')at(9)_ [[cat6]]
+###+ 𨳍6 [[⿵門七]] | _Ts(')at(9)_ (cat6)
 
 $$
 R

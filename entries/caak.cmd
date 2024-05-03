@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caak
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-05-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -55,7 +55,7 @@ $$
 </nav>
 <## /tone-1-characters ##>
 
-###+ 惻1 | _Ch(')(a/)k(7)_ [[caak1]]
+###+ 惻1 | _Ch(')(a/)k(7)_ (caak1)
 
 $$
 R
@@ -76,7 +76,7 @@ S
   ==
 $$
 
-###+ 測1 | _Ch(')(a/)k(7)_ [[caak1]]
+###+ 測1 | _Ch(')(a/)k(7)_ (caak1)
 
 $$
 R
@@ -115,7 +115,7 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
-###+ 冊3 | _Ch(')(a/)k(8)_ [[caak3]]
+###+ 冊3 | _Ch(')(a/)k(8)_ (caak3)
 
 $$
 R
@@ -286,7 +286,7 @@ C
   ==
 $$
 
-###+ 柵3 | _Ch(')(a/)k(8)_ [[caak3]]
+###+ 柵3 | _Ch(')(a/)k(8)_ (caak3)
 
 $$
 R
@@ -493,7 +493,7 @@ W
   ====
 $$
 
-###+ 鰂6 | _Ts(')(a/)k(9)_ [[caak6]]
+###+ 鰂6 | _Ts(')(a/)k(9)_ (caak6)
 
 $$
 R
