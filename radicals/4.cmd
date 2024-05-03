@@ -96,6 +96,7 @@ For all radicals, see [Index of characters by radical](./).
       - $恓cai1
       - $恥ci2
       - $恣ci3
+      - $恣zi3
       ==
       </nav>
   //

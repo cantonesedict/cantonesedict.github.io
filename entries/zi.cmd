@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-05-01
+* %date-modified --> 2024-05-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2821,6 +2821,7 @@ $$
 - $𫪦 (⿰口知)3
 - $寘3
 - $志3
+- $恣3
 - $懥3
 - $摯3
 - $智3
@@ -2927,6 +2928,43 @@ W
         ingenuous, guileless.
     ==
   ====
+$$
+
+###+ 恣3 | _Tsz'(3)_ [[zi3]]
+
+$$
+R
+  ⼼ + 6
+U
+  U+6063
+V
+  ==
+  - ci3 (common)
+  ==
+F
+  ==
+  - [[F2.35 恣(3) _Ts(')z'(3)_ (ci3)]] 縱恣無忌
+  ==
+W
+  ====
+  - [[Page~617 恣(3) _Ts(')z'(3)_ (ci3); here normalised to _Tsz'(3)_ (zi3)]]
+    ==
+    - Relaxation, dissipation;
+    - licentious, gay, loose;
+    - to follow one's passions, to throw off all restraint;
+    - _fong(3) [tsz'](3)_
+        [[fong3 zi3 放恣]]
+        profligate, dissipated;
+        to give the rein to one's lusts;
+    - _tsung(3) [tsz'](3)_
+        [[zung3 zi3 縱恣]]
+        unrestrained.
+    ==
+  ====
+S
+  ==
+  - $恣ci3
+  ==
 $$
 
 ###+ 懥3 | _Ch(i/)(3)_ [[zi3]]
