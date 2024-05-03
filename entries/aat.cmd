@@ -278,15 +278,15 @@ W
   ====
 C
   ==
-  - Williams has the non-pawn senses under _(A/)p(8)_ [[aap3]]
-    and the pawn senses under _(A/)t(8)_ [[aat3]].
+  - Williams has the non-pawn senses under _(A/)p(8)_ (aap3)
+    and the pawn senses under _(A/)t(8)_ (aat3).
     Whilst aap3 is expected from Middle Chinese 烏甲切,
     the common reading of 押 is aat3.
     Note that 押 is (probably) cognate with 壓,
     and while 壓 also has a Middle Chinese reading of 烏甲切,
     its modern reading as aat3 is uncontroversial.
-  - Williams' 押韻: Changed Middle Chinese _wan(6)_ [[wan6]]
-    to common reading _(5)wan_ [[wan5]].
+  - Williams' 押韻: Changed Middle Chinese _wan(6)_ (wan6)
+    to common reading _(5)wan_ (wan5).
   ==
 S
   ==
