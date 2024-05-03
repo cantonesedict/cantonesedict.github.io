@@ -1293,6 +1293,7 @@ $$
 - $幟3
 - $恣3
 - $懥3
+- $朿3
 - $次3
 - $熾3
 - $眥3
@@ -1442,6 +1443,27 @@ S
   ==
   - $懥zi3
   ==
+$$
+
+### 朿3 | _Ts(')z'(3)_ [[ci3]]
+
+$$
+R
+  ⽊ + 2
+U
+  U+673F
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~617 朿(3)]]
+    --
+    To be distinguished from 束 _ch(')uk(7)_ [[cuk1]] to bind.
+    --
+    ==
+    -  A thorn, a prickle, a sliver, a sharp slit.
+    ==
+  ====
 $$
 
 ### 次3 | _Ts(')z'(3)_ [[ci3]]

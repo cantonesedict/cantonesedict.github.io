@@ -746,6 +746,14 @@ For all radicals, see [Index of characters by radical](./).
       ==
       </nav>
   //
+    , 2
+    ,
+      <nav class="sideways">
+      ==
+      - $朿ci3
+      ==
+      </nav>
+  //
     , 3
     ,
       <nav class="sideways">
