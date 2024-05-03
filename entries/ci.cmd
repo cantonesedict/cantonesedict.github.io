@@ -1301,6 +1301,7 @@ $$
 - $糦3
 - $翄3
 - $翅3
+- $賜3
 - $饎3
 - $骴3
 ==
@@ -1731,6 +1732,58 @@ C
   ==
   - Williams' 展翅: More spreading than flapping.
   ==
+$$
+
+### 賜3 | _Ts(')z'(3)_ [[ci3]]
+
+$$
+R
+  ⾙ + 8
+U
+  U+8CDC
+V
+  ==
+  - si3 (expected from 斯義切)
+  ==
+F
+  ==
+  - [[F2.35 賜]] 與也惠也
+  ==
+W
+  ====
+  - [[Page~617 賜(3)]]
+    ==
+    - To confer;
+    - bestowed by a superior, usually refers to the emperor;
+    - imperial grants;
+    - a favor;
+    - a benefit;
+    - _(2)sh(e/)ung ts(')z'(3)_
+        [[soeng2 ci3 賞賜]]
+        to reward;
+    - _(1)yam ts(')z'(3)_
+        [[jam1 ci3 欽賜]]
+        imperial favors;
+    - _shau(6) ts(')z'(3)_
+        [[sau6 ci3 受賜]]
+        to receive a benefit;
+    - _(1)t(')(i/)n (1)k(u/)n ts(')z'(3) fuk(7)_
+        [[tin1 gun1 ci3 fuk1 天官賜福]]
+        may heaven send down blessings;
+    - _ts(')z'(3) muk(9)_
+        [[ci3 muk6 賜目]]
+        to look at;
+    - _p(a/)i(3) ts(')z'(3)_
+        [[baai3 ci3 拜賜]]
+        to thank;
+    - _(4)mung ts(')z'(3) k(u/)(3)_
+        [[mung4 ci3 gu3 蒙賜顧]]
+        obliged for your patronage---a phrase on bills;
+    - _(u")(6) ts(')z'(3) (1)f(a/) (4)ling_
+        [[jyu6 ci3 faa1 ling4 御賜花翎]],
+        an imperial gift of a peacock's feather.
+    ==
+  ====
 $$
 
 ### 饎3 | _Ch(')(i/)(3)_ [[ci3]]
