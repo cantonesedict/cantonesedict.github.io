@@ -60,6 +60,7 @@ class Updater:
         Updater._check_post_tone_commas_heuristic(entry_cmd_name, old_cmd_content)
         Updater._check_williams_romanisation_heuristic(entry_cmd_name, old_cmd_content)
         Updater._check_jyutping_romanisation_heuristic(entry_cmd_name, old_cmd_content)
+        Updater._check_insertion_context(entry_cmd_name, old_cmd_content)
 
         tone_syllable_list = Updater._gather_tone_syllable_list(old_cmd_content)
         navigation_tones = Updater._gather_navigation_tones(old_cmd_content)
@@ -235,6 +236,36 @@ class Updater:
             re.search(pattern=r'\b y', string=string, flags=re.VERBOSE)
             or re.search(pattern=r'[789]', string=string)
         )
+
+    @staticmethod
+    def _check_insertion_context(entry_cmd_name, cmd_content):
+        nonexempt_cmd_content = re.sub(
+            pattern=r'''
+                ^ \# \{ \.williams \} .*
+                    |
+                ^ \#\# \{ \#[1-6] [ ] \.williams \} .*
+                    |
+                ^ \#\#\# [ ] .*
+                    |
+                ^ (WH | A | F | W) \n (?: [ ]{2} .* \n )+
+                    |
+                ^ \-\- \{ \.williams \} \n [\s\S]*? \n \-\- \n
+            ''',
+            repl='',
+            string=cmd_content,
+            flags=re.MULTILINE | re.VERBOSE,
+        )
+        non_contextual_insertion_contexts = re.findall(
+            pattern=r'.* \[\[ [\s\S]*? \]\] | <ins.*> .*',
+            string=nonexempt_cmd_content,
+            flags=re.MULTILINE | re.VERBOSE,
+        )
+        if non_contextual_insertion_contexts:
+            print(
+                f'Error in `{entry_cmd_name}`: non-contextual insertions {non_contextual_insertion_contexts}',
+                file=sys.stderr,
+            )
+            sys.exit(1)
 
     @staticmethod
     def _gather_tone_syllable_list(cmd_content):
