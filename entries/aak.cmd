@@ -71,7 +71,7 @@ W
 C
   ==
   - Most modern speakers prefer this longer syllable
-    over the shorter _ak(7)_ [[ak1]].
+    over the shorter _ak(7)_ (ak1).
     Nevertheless, **see $厄ak1 for the canonical entry**.
   ==
 S
@@ -137,7 +137,7 @@ W
 C
   ==
   - Most modern speakers prefer this longer syllable
-    over the shorter _ak(7)_ [[ak1]].
+    over the shorter _ak(7)_ (ak1).
     Nevertheless, **see $握ak1 for the canonical entry**.
   ==
 S
@@ -197,7 +197,7 @@ W
 C
   ==
   - Most modern speakers prefer this longer syllable
-    over the shorter _ak(7)_ [[ak1]].
+    over the shorter _ak(7)_ (ak1).
     Nevertheless, **see $阨ak1 for the literary senses**.
   ==
 S
