@@ -479,7 +479,7 @@ E
     ++
   ====
   --
-  Olden attestation for 着 (same as 著) _ch(e/)uk(8)_ [[zoek3]] meaning "wear":
+  Olden attestation for 着 (same as 著) _ch(e/)uk(8)_ (zoek3) meaning "wear":
   --
   ==
   - ::B5.w529b0204 (:張略切:) (:著:) (:服衣於身:)又直略張豫二切::

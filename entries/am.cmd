@@ -383,7 +383,7 @@ E
     ++
   ====
   --
-  Olden attestation for 揞 _(2)(o\)m_ [[am2]] meaning "cover":
+  Olden attestation for 揞 _(2)(o\)m_ (am2) meaning "cover":
   --
   ==
   - ::B3.w349b0901 烏感切 (:揞:) (:手覆:)::

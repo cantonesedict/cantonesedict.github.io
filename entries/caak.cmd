@@ -226,7 +226,7 @@ E
     ++
   ====
   --
-  Olden attestation for 坼 _ch(')(a/)k(8)_ [[caak3]] meaning "cracked":
+  Olden attestation for 坼 _ch(')(a/)k(8)_ (caak3) meaning "cracked":
   --
   ==
   - ::K. (:坼:) 《唐韻》(:丑格切:)《集韻》《韻會》《正韻》(:恥格切:)𠀤同𤖴(:裂也:)\

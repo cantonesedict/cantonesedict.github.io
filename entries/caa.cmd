@@ -498,7 +498,7 @@ E
     ++
   ====
   --
-  Olden attestation for _(4)ch(')(a/)_ [[caa4]] meaning "apply", "rub", etc.
+  Olden attestation for _(4)ch(')(a/)_ (caa4) meaning "apply", "rub", etc.
   exists in an alternative reading of 塗 (per 鄭張尚芳):
   --
   ==

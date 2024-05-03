@@ -232,7 +232,7 @@ E
     ++
   ====
   --
-  Olden attestation for 鐺 _(1)ch(')ang_ [[cang1]] or _(1)ch(')(a/)ng_ [[caang1]] meaning "pot":
+  Olden attestation for 鐺 _(1)ch(')ang_ (cang1) or _(1)ch(')(a/)ng_ (caang1) meaning "pot":
   --
   ==
   - ::B2.w228a0405 (:楚庚切:) 鎗 (:鼎類:)::

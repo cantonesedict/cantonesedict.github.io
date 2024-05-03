@@ -786,7 +786,7 @@ C
     ++
   ====
   --
-  Olden attestation for 親 _ts(')an(3)_ [[can3]] meaning "in-laws"::
+  Olden attestation for 親 _ts(')an(3)_ (can3) meaning "in-laws"::
   --
   ==
   - ::K. (:親:) [...]^(:又《唐韻》七遴切《集韻》《韻會》七刃切《正韻》寸遴切𠀤七去聲:)\

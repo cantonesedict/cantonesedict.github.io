@@ -643,7 +643,7 @@ E
     ++
   ====
   --
-  Olden attestation for 黐 _(1)ch(')(i/)_ [[ci1]] meaning "glue",
+  Olden attestation for 黐 _(1)ch(')(i/)_ (ci1) meaning "glue",
   hence "sticky":
   --
   ==

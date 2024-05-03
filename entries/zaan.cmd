@@ -138,7 +138,7 @@ E
     ++
   ====
   --
-  Olden attestation for 㜺 _ts(a/)n(6)_ [[zaan6]] meaning "pretty":
+  Olden attestation for 㜺 _ts(a/)n(6)_ (zaan6) meaning "pretty":
   --
   ==
   - ::B4.w432b0602 徂賛切 (:㜺:) 不謹也(:一曰美好皃:)::

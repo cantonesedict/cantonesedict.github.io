@@ -123,7 +123,7 @@ E
     ++
   ====
   --
-  Olden attestation for 矺 _ch(a/)k(8)_ [[zaak3]] meaning "weight/crush":
+  Olden attestation for 矺 _ch(a/)k(8)_ (zaak3) meaning "weight/crush":
   --
   ==
   - ::B5.w535a0608 (:陟革切:) (:矺:) (:磓也:)::

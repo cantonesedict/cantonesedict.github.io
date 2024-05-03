@@ -352,7 +352,7 @@ E
     ++
   ====
   --
-  Olden attestation for 詏 _(a/)u(3)_ [[aau3]] meaning "argue":
+  Olden attestation for 詏 _(a/)u(3)_ (aau3) meaning "argue":
   --
   ==
   - ::K. (:詏:) 《集韻》《正韻》(:𠀤於敎切妖去聲言逆也:)::
