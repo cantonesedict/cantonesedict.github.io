@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2024-04-16
+* %date-modified --> 2024-05-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -355,6 +355,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $寨6
+- $眥6
 - $砦6
 - $豸6
 ==
@@ -406,6 +407,36 @@ C
   ==
   - Fan Wan entry: 寨 is printed with bottom component 氺 (rather than 朩 or 木),
     whilst 蜜 (used for 密) is printed as ⿳冖一虫.
+  ==
+$$
+
+###+ 眥6 | _Ch(a/)i(6)_ [[zaai6]]
+
+$$
+R
+  ⽬ + 6
+U
+  U+7725
+A
+  ==
+  -{.modern} 眦
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~617 眥(3) _Ts(')z'(3)_ (ci3); here corrected to _Ch(a/)i(6)_ (zaai6)]]
+    ==
+    - [[...]];
+    - a fierce look;
+    - to look at angrily;
+    - [[...]].
+    ==
+  ====
+S
+  ==
+  - $眥ci3
+  - $眥zi6
   ==
 $$
 
