@@ -1268,6 +1268,7 @@ $$
 - $翄3
 - $翅3
 - $饎3
+- $骴3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -1643,6 +1644,30 @@ W
         a feast.
     ==
   ====
+$$
+
+### 骴3 | _Ts(')z'(3)_ [[ci3]]
+
+$$
+R
+  ⾻ + 6
+U
+  U+9AB4
+F
+  ==
+  - [[F2.35 骴]] 殘骨
+  ==
+W
+  ====
+  - [[Page~617 骴(3)]]
+    --
+    [[Idiosyncratic reading from Williams. **See $骴ci1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $骴ci1 (TODO)
+  ==
 $$
 
 
