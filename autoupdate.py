@@ -119,7 +119,7 @@ class Updater:
     @staticmethod
     def _check_post_tone_commas_heuristic(entry_cmd_name, cmd_content):
         extraneous_context_match = re.search(
-            pattern=r"_ [^_\n]+? (?: \([36789]\) | ' ) _ \s* \[\[ .+? \]\] ,",
+            pattern=r"_ [^_\n]+? (?: \([36789]\) | ' ) _ \s* (?: \( | \[\[ ) .+? (?: \) | \]\] ) ,",
             string=cmd_content,
             flags=re.VERBOSE,
         )
@@ -133,7 +133,7 @@ class Updater:
             sys.exit(1)
 
         missing_context_match = re.search(
-            pattern=r"_ [^_\n]+? \([1245]\)\S+[^'] _ \s* \[\[ .+? \]\] $",
+            pattern=r"_ [^_\n]+? \([1245]\)\S+[^'] _ \s* (?: \( | \[\[ ) .+? (?: \) | \]\] ) $",
             string=cmd_content,
             flags=re.MULTILINE | re.VERBOSE,
         )
@@ -270,7 +270,12 @@ class Updater:
     @staticmethod
     def _gather_tone_syllable_list(cmd_content):
         return re.findall(
-            pattern=r'^ \#\# \{ \#(?P<tone> [1-6] ) .* \[\[ (?P<syllable> [a-z]+ )(?P=tone) .* \]\] $',
+            pattern=r'''
+                ^ \#\# \{ \#(?P<tone> [1-6] ) .*
+                (?: \( | \[\[ )
+                (?P<syllable> [a-z]+ )(?P=tone) .*
+                (?: \) | \]\] ) $
+            ''',
             string=cmd_content,
             flags=re.MULTILINE | re.VERBOSE,
         )
@@ -323,7 +328,7 @@ class Updater:
                         fr'^ \#\#\# [+]? [ ] \[? (?P<character> \S ) \]? {tone} (?P<etc> .*? )'
                         fr'[ ][|][ ]'
                         fr'.*?'
-                        fr'\[\[ {syllable}{tone} \]\] $'
+                        fr'(?: \( | \[\[ ) {syllable}{tone} (?: \) | \]\] ) $'
                     ),
                     string=cmd_content,
                     flags=re.MULTILINE | re.VERBOSE,
@@ -654,7 +659,9 @@ class Page:
                     r'(?:[ ]\[\[(?P<composition>.+?)\]\])?'
                     r'[ ][|][ ]'
                     r'.*?'
-                    r'\[\[(?P<jyutping>[a-z]+?[1-6])\]\]'
+                    r'(?:\(|\[\[)'
+                    r'(?P<jyutping>[a-z]+?[1-6])'
+                    r'(?:\)|\]\])'
                     r'\n\n'
                     r'[$]{2}\n'
                     r'(?P<content>'
