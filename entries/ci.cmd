@@ -1256,6 +1256,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $佽3
 - $啻3
 - $幟3
 - $懥3
@@ -1268,6 +1269,36 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 佽3 | _Ts(')z'(3)_ [[ci3]]
+
+$$
+R
+  ⼈ + 6
+U
+  U+4F7D
+F
+  ==
+  - [[F2.35 ::[佽]::]] 便利也又比也助也
+  ==
+W
+  ====
+  - [[Page~616 佽(3)]]
+    ==
+    - Light, nimble, sprightly;
+    - to help, to assist;
+    - to compare;
+    - for, instead;
+    - _ts(')z'(3) cho(6)_
+        [[ci3 zo6 佽助]]
+        to aid.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword 㐸 to 佽.
+  ==
+$$
 
 ### 啻3 | _Ch(')(i/)(3)_ [[ci3]]
 
