@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2024-05-02
+* %date-modified --> 2024-05-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1259,6 +1259,7 @@ $$
 - $啻3
 - $幟3
 - $懥3
+- $次3
 - $熾3
 - $糦3
 - $翄3
@@ -1351,6 +1352,66 @@ S
   ==
   - $懥zi3
   ==
+$$
+
+### 次3 | _Ts(')z'(3)_ [[ci3]]
+
+$$
+R
+  ⽋ + 2
+U
+  U+6B21
+F
+  ==
+  - [[F2.35 次]] 次第
+  ==
+W
+  ====
+  - [[Page~616 次(3)]]
+    ==
+    - Neither first nor best;
+    - coming after, second in order, inferior, secondary;
+    - next, succeeding;
+    - to put in order;
+    - a halting-place, an encampment[,]
+      a rest-house, an inn, a shed or stall;
+    - a mansion;
+    - a position, as of the stars;
+    - a time, a place, a stated post;
+    - to halt, to reach;
+    - _ts(')z'(3) tai(6)_
+        [[ci3 dai6 次第]]
+        in order, regularly;
+    - _tsoi(6) (4)k(')(i/) ts(')z'(3)_
+        [[zoi6 kei4 ci3 在其次]]
+        in that place;
+        next in order;
+    - _(4)t(')au ts(')z'(3)_
+        [[tau4 ci3 頭次]]
+        the first time;
+    - _(4)ts(')ang (4)ts(')ang ts(')z'(3) ts(')z'(3)_
+        [[cang4 cang4 ci3 ci3 層層次次]]
+        rising gradually like a gallery;
+    - _ts(')z'(3) yat(9)_
+        [[ci3 jat6 次日]]
+        next day;
+    - _ts(o\)(6) ts(')z'(3)_
+        [[zou6 ci3 造次]]
+        flighty, flurried;
+    - _(5)lui ts(')z'(3)_
+        [[leoi5 ci3 屢次]]
+        repeatedly;
+    - _ts(')z'(3) (4)ngan_
+        [[ci3 ngan4 次銀]],
+        inferior silver;
+    - _wai(6) ts(')z'(3)_
+        [[wai6 ci3 位次]]
+        a seat, a position;
+    - _h(a/)k(8) ts(')z'(3)_
+        [[haak3 ci3 客次]]
+        a stranger's lodging, travelers' houses.
+    ==
+  ====
 $$
 
 ### 熾3 | _Ch(')(i/)(3)_ [[ci3]]
