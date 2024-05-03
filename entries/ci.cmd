@@ -1289,6 +1289,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $佽3
+- $刺3
 - $啻3
 - $幟3
 - $恣3
@@ -1333,6 +1334,71 @@ W
 C
   ==
   - Fan Wan entry: Corrected headword 㐸 to 佽.
+  ==
+$$
+
+### 刺3 | _Ts(')z'(3)_ [[ci3]]
+
+$$
+R
+  ⼑ + 6
+U
+  U+523A
+V
+  ==
+  - cik3 (alternative for verb senses)
+  ==
+F
+  ==
+  - [[F2.35 刺]] 刺史又挿也又譏諷
+  ==
+W
+  ====
+  - [[Page~617 刺(3)]]
+    ==
+    - A thorn;
+    - a sting;
+    - to pierce, to prick, to thrust a sharp point into;
+    - to embroider;
+    - to brand, to tattoo;
+    - to cut into;
+    - a visiting-card, because it was once cut in wood;
+    - to stab and kill;
+    - to spade up, as plants with a trowel;
+    - to pole, as a boat;
+    - to reprehend, to blame;
+    - to criticise, to lampoon;
+    - satire;
+    - to pry into, to overhear;
+    - to examine;
+    - _ts(')z'(3) (4)ng(a/)_
+        [[ci3 ngaa4 刺牙]],
+        to pick the teeth;
+    - _(4)hang ts(')z'(3)_
+        [[hang4 ci3 行刺]]
+        to stab to death;
+    - _tsok(8) (1)sh(i/) ts(')z'(3) (5)k(')(u")_
+        [[zok3 si1 ci3 keoi5 作詩刺佢]],
+        to pasquinade in verse;
+    - _(5)[ts(')(a/)m] ts(')z'(3)_
+        [[caam5 ci3 鏨刺]]
+        to engrave, to prick;
+    - _(4)t(')au ts(')z'(3)_
+        [[tau4 ci3 投刺]]
+        to send in a card;
+    - _sh(u")t(8) ts(')z'(3)_ [[syut3 ci3 說刺]]
+        or
+      _(1)k(i/) ts(')z'(3)_ [[gei1 ci3 譏刺]]
+        a sarcasm, an inuendo, a taunt;
+    - _ts(')z'(3) ts(')z'(3)_
+        [[ci3 ci3 刺刺]]
+        to talk much.
+    ==
+  ====
+C
+  ==
+  - Williams' 行刺: Metaphorically, to assassinate.
+  - Williams' 鏨刺: Corrected _(5)ts(a/)m_ [[zaam5]] to _(5)ts(')(a/)m_ [[caam5]].
   ==
 $$
 
