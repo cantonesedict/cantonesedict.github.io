@@ -3645,6 +3645,7 @@ $$
 - $涘6
 - $牸6
 - $痔6
+- $眥6
 - $祀6
 - $稚6
 - $穉6
@@ -4210,6 +4211,38 @@ W
         fistula in ano.
     ==
   ====
+$$
+
+###+ 眥6 | _Tsz'(6)_ [[zi6]]
+
+$$
+R
+  ⽬ + 6
+U
+  U+7725
+A
+  ==
+  -{.modern} 眦
+  ==
+F
+  ==
+  - [[F2.35 眥 _Ts(')z'(3)_ (ci3)]] 目際也
+  - [[F2.35 眦 _Ts(')z'(3)_ (ci3)]] 同上
+  ==
+W
+  ====
+  - [[Page~617 眥(3) _Ts(')z'(3)_ (ci3); here corrected to _Tsz'(6)_ (zi6)]]
+    ==
+    - The canthus or corner of the eye;
+    - [[see $眥zaai6 for "looking angrily" senses]];
+    - a lappel, the place where it folds over.
+    ==
+  ====
+S
+  ==
+  - $眥ci3
+  - $眥zaai6 (TODO)
+  ==
 $$
 
 ### 祀6 | _Tsz'(6)_ [[zi6]]

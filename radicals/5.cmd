@@ -462,11 +462,19 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $眥ci3
       - $眨zaam2
       - $眨zaap3
       - $眞zan1
       - $真zan1
+      ==
+      </nav>
+  //
+    , 6
+    ,
+      <nav class="sideways">
+      ==
+      - $眥ci3
+      - $眥zi6
       ==
       </nav>
   //
