@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaat
-* %date-modified --> 2024-05-04
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -268,8 +268,8 @@ W
   ====
 C
   ==
-  - Williams erroneously places this under _ts(')(a/)t(9)_ [[caat6]]^,
-    notwithstanding the reading within the entry is correctly _ts(a/)t(9)_ [[zaat6]].
+  - Williams erroneously places this under _ts(')(a/)t(9)_ (caat6)^,
+    notwithstanding the reading within the entry is correctly _ts(a/)t(9)_ (zaat6).
   ==
 S
   ==
@@ -308,7 +308,7 @@ W
   ====
 C
   ==
-  - Williams' 曱甴: Changed _(1)K(a/)_ [[gaa1]] to _K(a/)t(9)_ [[gaat6]].
+  - Williams' 曱甴: Changed _(1)K(a/)_ (gaa1) to _K(a/)t(9)_ (gaat6).
   ==
 E
   ====
@@ -341,7 +341,7 @@ E
   I concur with points~1 and~3 above.
   I disagree with point~2 above, because Eitel's work is based off of Williams',
   which had already used the form 甴曱 in 1856
-  (notwithstanding Williams' reading is _(1)k(a/) ts(a/)t(9)_ [[gaa1 zaat6]]).
+  (notwithstanding Williams' reading is _(1)k(a/) ts(a/)t(9)_ (gaa1 zaat6)).
   --
   --
   Moreover, I am obliged to point out some inaccuracies in 陳凱文's post:
@@ -349,10 +349,10 @@ E
   ++
   1. Whilst 陳凱文's text refers to the 1877 edition
      of Eitel's ''[A] Chinese Dictionary in the Cantonese Dialect''
-     (wherein 甴 is found under _K(a/)t(9)_ [[gaat6]] on [Page~228][1877-甴]),
+     (wherein 甴 is found under _K(a/)t(9)_ (gaat6) on [Page~228][1877-甴])^,
      陳凱文's screenshot is actually of the *1910* edition of Eitel's dictionary
      *revised and enlarged by Immanuel Gottlieb Genähr*
-     (wherein 甴 is found under _K(a/)t(9)_ [[gaat6]] on [Page~330][1910-甴]).
+     (wherein 甴 is found under _K(a/)t(9)_ (gaat6) on [Page~330][1910-甴]).
   1. In my copy of [《商務新字典》], whose colophon has 9th~print, August~1996
      as the latest entry in the list of editions,
      the native reading for 甴 (on Page~^438, under Radical~⽥) is "〔駕壓切低入〕",
