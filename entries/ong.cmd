@@ -18,6 +18,6 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 <nav class="sideways">
 =={.modern}
-- [[Work in progress]]
+- (Work in progress)
 ==
 </nav>
