@@ -1303,6 +1303,7 @@ $$
 - $糦3
 - $翄3
 - $翅3
+- $螆3
 - $賜3
 - $饎3
 - $骴3
@@ -1785,6 +1786,30 @@ W
 C
   ==
   - Williams' 展翅: More spreading than flapping.
+  ==
+$$
+
+###+ 螆3 | _Ts(')z'(3)_ (ci3)
+
+$$
+R
+  ⾍ + 10
+U
+  U+8786
+H
+  May appear as either ⿰虫兹 (+9) or ⿰虫茲 (+10 assumed here),
+  depending on the font.
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Alternative form of 蛓. **See $蛓ci3 for the canonical entry.**
+  ==
+S
+  ==
+  - $螆zi1
   ==
 $$
 
