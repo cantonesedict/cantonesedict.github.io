@@ -718,6 +718,7 @@ $$
 - $柂2
 - $柿2
 - $此2
+- $泚2
 - $矢2
 - $耻2
 - $褫2
@@ -1086,6 +1087,38 @@ W
         for this very kindness.
     ==
   ====
+$$
+
+###+ 泚2 | _(2)Ts(')z'_ (ci2)
+
+$$
+R
+  ⽔ + 6
+U
+  U+6CDA
+F
+  ==
+  - [[F1.31 泚 _(5)Ts(')ai_ (cai5)]] 汗出貌
+  ==
+W
+  ====
+  - [[Page~550 (5)泚 _(5)Ts(')ai_ (cai5); here corrected to _(2)Ts(')z'_ (ci2)]]
+    ==
+    - Perspiring, sweating on the forehead;
+    - clear water;
+    - fresh, clean;
+    - name of a stream.
+    ==
+  ====
+C
+  ==
+  - Williams' "name of a stream": Kangxi reads _(2)tsz'_ (zi2)^,
+    quoting 《集韻》蔣氏切音紫水名.
+  ==
+S
+  ==
+  - $泚cai5
+  ==
 $$
 
 ### 矢2 | _(2)Ch(')(i/)_ [[ci2]]
