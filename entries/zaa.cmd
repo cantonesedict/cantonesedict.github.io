@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2024-05-04
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -74,14 +74,14 @@ W
   [[Not present]]
 C
   ====
-  - The reading _(1)ch(a/)_ [[zaa1]] for 吒 is not present in Williams;
+  - The reading _(1)ch(a/)_ (zaa1) for 吒 is not present in Williams;
     an entry is included here for completeness.
     ++
     1. Used in mythological names.
        ==
        - 哪吒 (naa4 zaa1): "Nezha."
        ==
-    1. Reading variation of _ch(a/)(3)_ [[zaa3]].
+    1. Reading variation of _ch(a/)(3)_ (zaa3).
        **See $吒zaa3 for the canonical entry**.
     ++
   ====
@@ -446,7 +446,7 @@ W
   ====
 C
   ==
-  - Williams' 揦鮓: Corrected _l(a/)(6)_ [[laa6]] to _(5)l(a/)_ [[laa5]].
+  - Williams' 揦鮓: Corrected _l(a/)(6)_ (laa6) to _(5)l(a/)_ (laa5).
   ==
 E
   ====
@@ -726,8 +726,8 @@ W
   ====
 C
   ==
-  - Williams' 生痄腮: Changed _(1)shang_ [[sang1]]
-    to vernacular reading _(1)sh(a/)ng_ [[saang1]].
+  - Williams' 生痄腮: Changed _(1)shang_ (sang1)
+    to vernacular reading _(1)sh(a/)ng_ (saang1).
   ==
 S
   ==
@@ -759,10 +759,10 @@ W
   ====
 C
   ==
-  - Williams' 蚱蜢: Changed Middle Chinese _(5)mang_ [[mang5]]
-    to common reading _(5)m(a/)ng_ [[maang5]].
-  - Williams' 蚱蟬: Changed _(4)sh(i/)n_ [[sin4]]
-    to common reading _(4)sh(i/)m_ [[sim4]].
+  - Williams' 蚱蜢: Changed Middle Chinese _(5)mang_ (mang5)
+    to common reading _(5)m(a/)ng_ (maang5).
+  - Williams' 蚱蟬: Changed _(4)sh(i/)n_ (sin4)
+    to common reading _(4)sh(i/)m_ (sim4).
   ==
 $$
 
@@ -847,8 +847,8 @@ W
   ====
 C
   ==
-  - Williams' 詐假意: Changed _(2)k(a/)_ [[gaa2]]
-    to vernacular reading _(1)k(a/)_ [[gaa1]].
+  - Williams' 詐假意: Changed _(2)k(a/)_ (gaa2)
+    to vernacular reading _(1)k(a/)_ (gaa1).
   ==
 E
   ====
@@ -882,7 +882,7 @@ W
 $$
 
 
-##{#4 .modern} (4)Ch(a/) [[zaa4 陽平]]
+##{#4 .modern} (4)Ch(a/) (zaa4 陽平)
 
 <## tone-4-characters ##>
 <nav class="sideways">
@@ -924,7 +924,7 @@ E
 $$
 
 
-##{#6 .modern} Ch(a/)(6) [[zaa6 陽去]]
+##{#6 .modern} Ch(a/)(6) (zaa6 陽去)
 
 <## tone-6-characters ##>
 <nav class="sideways">
