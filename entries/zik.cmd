@@ -43,6 +43,7 @@ $$
 =={.modern}
 - $織1
 - $職1
+- $陟1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -151,5 +152,39 @@ W
 C
   ==
   - Williams' 職員: Now simply "employee".
+  ==
+$$
+
+### 陟1 | _Chik(7)_ [[zik1]]
+
+$$
+R
+  ⾩ + 7
+U
+  U+965F
+F
+  ==
+  - [[F1.76 ::[陟]::]] 我也進也
+  ==
+W
+  ====
+  - [[Page~13* 陟(7)]]
+    ==
+    - To ascend, to enter on a higher office;
+    - promoted, advanced;
+    - to mount, to go up;
+    - to advance, to proceed to;
+    - _chik(7) (4)lam_
+        [[zik1 lam4 陟臨]],
+        to behold from on high, as God does;
+    - _chik(7) kong(3)_
+        [[zik1 gong3 陟降]]
+        promotion and degradation.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised headword ⿰阝歩 to 陟.
+    The explanation 我也 is erroneous.
   ==
 $$
