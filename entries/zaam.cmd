@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2024-05-04
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -210,7 +210,7 @@ W
 C
   ==
   - Williams' 腰斬: Now used figuratively for midway cancellation or termination.
-  - Williams' 斬伐: Changed _f(a/)t(9)_ [[faat6]] to modern _fat(9)_ [[fat6]].
+  - Williams' 斬伐: Changed _f(a/)t(9)_ (faat6) to modern _fat(9)_ (fat6).
   ==
 $$
 
@@ -365,7 +365,7 @@ W
   ==
 C
   ==
-  - Williams' placement under _(5)Ts(a/)m_ [[zaam5]] is problematic
+  - Williams' placement under _(5)Ts(a/)m_ (zaam5) is problematic
     as an unaspirated initial cannot occur with 陽上 (tone~5).
     See $鏨caam5 for commentary.
   ==
@@ -475,7 +475,7 @@ W
 C
   ==
   - The uncommon reading zaan6 is that given as canonical in Fan Wan.
-  - Fan Wan entry: Note that Fan Wan considers 賺 to be read _ch(a/)m(6)_ [[zaam6]].
+  - Fan Wan entry: Note that Fan Wan considers 賺 to be read _ch(a/)m(6)_ (zaam6).
   - Williams' 驛站: Stage meaning a relay station for horses.
   ==
 S
@@ -507,8 +507,8 @@ W
 C
   ==
   - Fan Wan entry: The supplied dissection 中淡切 is incorrect,
-    as it results in the 陰去 reading _ch(a/)m(3)_ [[zaam3]]^,
-    rather than the intended 陽去 reading _ch(a/)m(6)_ [[zaam6]].
+    as it results in the 陰去 reading _ch(a/)m(3)_ (zaam3)^,
+    rather than the intended 陽去 reading _ch(a/)m(6)_ (zaam6).
     Normalised 𫉬 (⿱艹⿰犭隻) to 獲.
   ==
 S
