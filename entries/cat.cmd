@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cat
-* %date-modified --> 2024-05-04
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -116,7 +116,7 @@ C
     the Chinese view does not have a notion of stressed vs unstressed syllables;
     rather, the phrasing of the line is viewed as
     a four-character run followed by a three-character run.
-  - Williams' 七律: Corrected _lut(7)_ [[leot1]] to _lut(9)_ [[leot6]].
+  - Williams' 七律: Corrected _lut(7)_ (leot1) to _lut(9)_ (leot6).
   ==
 $$
 
@@ -215,7 +215,7 @@ C
 $$
 
 
-##{#6 .modern} Ts(')at(9) [[cat6 陽入]]
+##{#6 .modern} Ts(')at(9) (cat6 陽入)
 
 <## tone-6-characters ##>
 <nav class="sideways">
@@ -226,7 +226,7 @@ $$
 </nav>
 <## /tone-6-characters ##>
 
-###+ 𫵱6 [[⿱山十]] | _Ts(')at(9)_ (cat6)
+###+ 𫵱6 (⿱山十) | _Ts(')at(9)_ (cat6)
 
 $$
 R
@@ -243,7 +243,7 @@ C
   ==
 $$
 
-###+ 𨳍6 [[⿵門七]] | _Ts(')at(9)_ (cat6)
+###+ 𨳍6 (⿵門七) | _Ts(')at(9)_ (cat6)
 
 $$
 R
@@ -275,7 +275,7 @@ E
   ====
   --
   Suprisingly, the alternative form 𫵱 (⿱山十) is recorded in
-  [Eitel (1877)][eitel-dict-cat6] under _ts(')at(9)_ [[cat6]];
+  [Eitel (1877)][eitel-dict-cat6] under _ts(')at(9)_ (cat6);
   the entry simply reads "_V[ulgar]._ the penis".
   --
 $$
