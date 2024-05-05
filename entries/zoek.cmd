@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoek
-* %date-modified --> 2024-05-04
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -99,7 +99,7 @@ W
   ====
 C
   ==
-  - Williams' 漏勺: Corrected _tau(6)_ [[dau6]] to _lau(6)_ [[lau6]].
+  - Williams' 漏勺: Corrected _tau(6)_ (dau6) to _lau(6)_ (lau6).
   ==
 S
   ==
@@ -336,10 +336,10 @@ W
   ====
 C
   ==
-  - Both the dark-entering reading 即略切 _ts(e/)uk(8)_ [[zoek3]]
-    and the light-entering reading 在爵切 _ts(e/)uk(9)_ [[zoek6]]
+  - Both the dark-entering reading 即略切 _ts(e/)uk(8)_ (zoek3)
+    and the light-entering reading 在爵切 _ts(e/)uk(9)_ (zoek6)
     are attested in 《廣韻》, explained 炬火 "torch fire",
-    along with departing 子肖切 _tsi(u/)(3)_ [[ziu3]]^,
+    along with departing 子肖切 _tsi(u/)(3)_ (ziu3)^,
     which is simply explained 火 "fire".
   ==
 S
@@ -463,8 +463,8 @@ W
 C
   ==
   - Williams (following Fan Wan) does not provide separate entries
-    for 陰入 _ch(e/)uk(8)_ [[zoek3]] (clothing senses)
-    and 陽入 _ch(e/)uk(9)_ [[zoek6]] (other senses).
+    for 陰入 _ch(e/)uk(8)_ (zoek3) (clothing senses)
+    and 陽入 _ch(e/)uk(9)_ (zoek6) (other senses).
     I have split things up accordingly.
   ==
 E
@@ -621,9 +621,9 @@ W
   ====
 C
   ==
-  - Williams' 參酌: Corrected _(1)sham_ [[sam1]] to _(1)ts(')(a/)m_ [[caam1]].
-  - Williams' 醮酌: Corrected _ts(u/)i(3)_ [[zeoi3]] to _tsi(u/)(3)_ [[ziu3]].
-  - Williams' 梅酌: Corrected _(4)mi(u/)_ [[miu4]] to _(4)m(u/)i_ [[mui4]].
+  - Williams' 參酌: Corrected _(1)sham_ (sam1) to _(1)ts(')(a/)m_ (caam1).
+  - Williams' 醮酌: Corrected _ts(u/)i(3)_ (zeoi3) to _tsi(u/)(3)_ (ziu3).
+  - Williams' 梅酌: Corrected _(4)mi(u/)_ (miu4) to _(4)m(u/)i_ (mui4).
   ==
 $$
 
@@ -681,8 +681,8 @@ W
   ====
 C
   ==
-  - Williams' 雀舌花: Changed Middle Chinese _sh(i/)t(9)_ [[sit6]]
-    to common reading _sh(i/)t(8)_ [[sit3]].
+  - Williams' 雀舌花: Changed Middle Chinese _sh(i/)t(9)_ (sit6)
+    to common reading _sh(i/)t(8)_ (sit3).
   ==
 E
   ====
@@ -936,8 +936,8 @@ W
 C
   ==
   - Williams (following Fan Wan) does not provide separate entries
-    for 陰入 _ch(e/)uk(8)_ [[zoek3]] (clothing senses)
-    and 陽入 _ch(e/)uk(9)_ [[zoek6]] (other senses).
+    for 陰入 _ch(e/)uk(8)_ (zoek3) (clothing senses)
+    and 陽入 _ch(e/)uk(9)_ (zoek6) (other senses).
     I have split things up accordingly.
   ==
 E
