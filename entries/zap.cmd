@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zap
-* %date-modified --> 2024-05-04
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -230,8 +230,8 @@ C
   ==
   - Williams' alternative reading:
     This is an interchanging with 協.
-    Changed Middle Chinese _h(i/)p(9)_ [[hip6]]
-    to common reading _h(i/)p(8)_ [[hip3]].
+    Changed Middle Chinese _h(i/)p(9)_ (hip6)
+    to common reading _h(i/)p(8)_ (hip3).
   ==
 $$
 
@@ -309,7 +309,7 @@ W
   ====
 C
   ==
-  - Williams' 坐埋一蓻: Corrected _tso(6)_ [[zo6 去聲]] to _(5)ts(')o_ [[co5 上聲]].
+  - Williams' 坐埋一蓻: Corrected _tso(6)_ (zo6 去聲) to _(5)ts(')o_ (co5 上聲).
   ==
 E
   ====
@@ -323,10 +323,10 @@ E
     ++
   ====
   --
-  It is debatable whether this is the same word as 執 _chap(7)_ [[zap1]].
-  In any case, Williams records the reading as _tsap(7)_ [[zap1]]^,
+  It is debatable whether this is the same word as 執 _chap(7)_ (zap1).
+  In any case, Williams records the reading as _tsap(7)_ (zap1)^,
   and [Eitel (1877)][eitel-dict-蓻] prefers the character 蓻,
-  which matches _tsap(7)_ [[zap1]] in pronunciation:
+  which matches _tsap(7)_ (zap1) in pronunciation:
   --
   ==
   - ::B5.w543b0405 子入切 (:蓻:) 草生多皃::
