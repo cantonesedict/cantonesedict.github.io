@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ak
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -96,7 +96,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected headword 卮 to 戹.
-  - Most modern speakers prefer the longer syllable _(a/)k(7)_ [[aak1]];
+  - Most modern speakers prefer the longer syllable _(a/)k(7)_ (aak1);
     see $厄aak1.
   - Williams erroneously has 𢨪 (⿸戶巳) for an alternate form instead of 戹.
   ==
@@ -195,7 +195,7 @@ W
   ====
 C
   ==
-  - Most modern speakers prefer the longer syllable _(a/)k(7)_ [[aak1]];
+  - Most modern speakers prefer the longer syllable _(a/)k(7)_ (aak1);
     see $握aak1.
   ==
 S
@@ -271,7 +271,7 @@ W
   ====
 C
   ==
-  - Most modern speakers prefer the longer syllable _(a/)k(7)_ [[aak1]];
+  - Most modern speakers prefer the longer syllable _(a/)k(7)_ (aak1);
     see $阨aak1.
   ==
 S
