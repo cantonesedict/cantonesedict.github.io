@@ -1290,6 +1290,7 @@ $$
 =={.modern}
 - $佽3
 - $刺3
+- $厠3
 - $啻3
 - $幟3
 - $廁3
@@ -1402,6 +1403,26 @@ C
   - Williams' 行刺: Metaphorically, to assassinate.
   - Williams' 鏨刺: Corrected _(5)ts(a/)m_ (zaam5) to _(5)ts(')(a/)m_ (caam5).
   ==
+$$
+
+### 厠3 | _Ts(')z'(3)_ [[ci3]]
+
+$$
+R
+  ⼚ + 9
+U
+  U+53A0
+F
+  ==
+  - [[F2.35 厠]] 囷厠糞也
+  ==
+W
+  ====
+  - [[Page~617 廁(3)厠(3)]]
+    --
+    [[Alternative form of 廁. **See $廁ci3 for the canonical entry.**]]
+    --
+  ====
 $$
 
 ### 啻3 | _Ch(')(i/)(3)_ [[ci3]]
