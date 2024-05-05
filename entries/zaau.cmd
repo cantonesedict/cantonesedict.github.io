@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaau
-* %date-modified --> 2024-05-04
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -489,7 +489,7 @@ W
 C
   ==
   - The deep-fry sense is very dated; $炸zaa3 is now preferred.
-  - Williams' 㷹到脆: Corrected _(2)t(o\)_ [[dou2]] to _t(o\)(3)_ [[dou3]].
+  - Williams' 㷹到脆: Corrected _(2)t(o\)_ (dou2) to _t(o\)(3)_ (dou3).
   ==
 $$
 
@@ -558,7 +558,7 @@ C
   ==
   - Fan Wan entry: Normalised headword 𦋇 (⿱罓卓) to 罩.
   - Williams entry: Normalised headword 𦋇 (⿱罓卓) to 罩.
-  - Williams' 轎罩: Corrected _(5)ki(u/)_ [[giu6-5]] to _(2)ki(u/)_ [[giu6-2]].
+  - Williams' 轎罩: Corrected _(5)ki(u/)_ (giu6-5) to _(2)ki(u/)_ (giu6-2).
   ==
 $$
 
@@ -616,7 +616,7 @@ S
 $$
 
 
-##{#6 .modern} Ch(a/)u(6) [[zaau6 陽去]]
+##{#6 .modern} Ch(a/)u(6) (zaau6 陽去)
 
 <## tone-6-characters ##>
 <nav class="sideways">
