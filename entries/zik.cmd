@@ -188,3 +188,104 @@ C
     The explanation 我也 is erroneous.
   ==
 $$
+
+
+##{#6 .williams} Chik(9) Tsik(9) [[zik6 陽入]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $直6
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 直6 | _Chik(9)_ [[zik6]]
+
+$$
+R
+  ⽬ + 3
+U
+  U+76F4
+H
+  May appear as the right component of 値 or 值 (assumed here),
+  depending on the font.
+F
+  ==
+  - [[F1.78 直]] 正直不偏開也伸也常也但也
+  ==
+W
+  ====
+  - [[Page~13* 直(9)]]
+    ==
+    - To look ahead;
+    - straight, direct;
+    - straightforward, upright, true;
+    - just, exactly;
+    - to stretch off, to proceed, to go direct;
+    - to make straight, to straighten;
+    - price of;
+    - only, merely, but;
+    - purposely;
+    - stiff and straight;
+    - used for the three next [[$値6, $殖6, $植6]];
+    - _ching(3) chik(9)_
+        [[zing3 zik6 正直]]
+        upright;
+    - _chik(9) (4)(i/)n_
+        [[zik6 jin4 直言]],
+        to speak the truth;
+    - _(2)kang chik(9)_
+        [[gang2 zik6 梗直]]
+        inflexibly right;
+    - _chik(9) (4)ch(')ing h(u")(3)_
+        [[zik6 cing4 heoi3 直程去]]
+        go directly there;
+    - _yat(7) chik(9) h(u")(3)_
+        [[jat1 zik6 heoi3 一直去]]
+        go on straight;
+    - _chik(9) tai(6) (2)sh(a/)ng_
+        [[zik6 dai6 saang2 直隸省]],
+        the superintending province (_i.~e._ Chihl(i/) [[直隸]]);
+    - _chik(9) tai(6) (1)chau_
+        [[zik6 dai6 zau1 直隸州]],
+        an inferior department;
+    - _mok(9) sun(3) chik(9) (1)chung chik(9)_
+        [[mok6 seon3 zik6 zung1 zik6 莫信直中直]]
+        do not believe everything called true;
+    - _chik(9) (4)loi (1)n(i/) ch(')(u")(3)_
+        [[zik6 loi4 ni1 cyu3 直來呢處]]
+        came straight here;
+    - _(1)shan chik(9) k(e/)uk(8)_
+        [[san1 zik6 goek3 伸直腳]]
+        legs stretched out, _i.~e._ dead;
+    - _chik(9) sz'(6)_
+        [[zik6 si6 直士]]
+        a headman in a neighborhood.
+    ==
+  ====
+E
+  ====
+  - 【直程】 (zik6 cing4):
+    ++
+    1. Directly.
+       ==
+       - 直程返去 (zik6 cing4 faan1 heoi3): "Directly go back."
+       ==
+    1. Simply, truly, clearly, especially used exaggeratively.
+       ==
+       - 直程冇得頂 (zik6 cing4 mou5 dak1 ding2): "Straight up can't be beat."
+       - 直程係啦 (zik6 cing4 hai6 laa1): "[It] clearly is!"
+       ==
+    1. Used to imply decisiveness or extremeness of an action.
+       ==
+       - 我直程報警㗎 (ngo5 zik6 cing4 bou3 ging2 gaa3): "I [won't hesitate to] just call [the] police!"
+       - 直程走咗 (zik6 cing4 zau2 zo2): "[He] simply left."
+       ==
+    ++
+  - 【直頭】 (zik6 tau4):
+    ++
+    1. Synonym of [直程](#cantonese-直程).
+    ++
+  ====
+$$
