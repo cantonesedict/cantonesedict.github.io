@@ -426,7 +426,7 @@ W
   ====
 C
   ==
-  - Williams' 窗門棖: Changed uncommon reading _(5)ch(')(a/)n_ [[caan5]] to _(5)ch(')(a/)m_ [[caam5]].
+  - Williams' 窗門棖: Changed uncommon reading _(5)ch(')(a/)n_ (caan5) to _(5)ch(')(a/)m_ (caam5).
   ==
 $$
 
@@ -584,7 +584,7 @@ W
   ====
 C
   ==
-  - Williams' 鳥鎗: Corrected _(2)ni(u/)_ [[niu2]] to _(5)ni(u/)_ [[niu5]].
+  - Williams' 鳥鎗: Corrected _(2)ni(u/)_ (niu2) to _(5)ni(u/)_ (niu5).
   ==
 $$
 
@@ -692,7 +692,7 @@ W
   ====
 C
   ==
-  - Williams' 搶炮頭: Corrected _p(')au(3)_ [[pau3]] to _p(')(a/)u(3)_ [[paau3]].
+  - Williams' 搶炮頭: Corrected _p(')au(3)_ (pau3) to _p(')(a/)u(3)_ (paau3).
   ==
 S
   ==
@@ -1084,7 +1084,7 @@ W
   ====
 C
   ==
-  - Williams' 跳出是非場: Corrected _(4)sh(i/)_ [[si4]] to _sh(i/)(6)_ [[si6]].
+  - Williams' 跳出是非場: Corrected _(4)sh(i/)_ (si4) to _sh(i/)(6)_ (si6).
   ==
 $$
 
@@ -1324,8 +1324,8 @@ W
 C
   ==
   - Williams' 不祥之兆:
-    Changed Middle Chinese _chi(u/)(6)_ [[ziu6]]
-    to common reading _shi(u/)(6)_ [[siu6]].
+    Changed Middle Chinese _chi(u/)(6)_ (ziu6)
+    to common reading _shi(u/)(6)_ (siu6).
   ==
 $$
 
