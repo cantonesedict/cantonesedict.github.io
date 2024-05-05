@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2024-05-04
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -122,8 +122,8 @@ W
   [[Not present]]
 C
   ==
-  - Arguably, _(2)ts(a/)n_ [[zaan2]] is a vernacular rising-tone reading of
-    _ts(a/)n(6)_ [[zaan6]] (expected from 徂賛切), meaning "pretty" (美好皃);
+  - Arguably, _(2)ts(a/)n_ (zaan2) is a vernacular rising-tone reading of
+    _ts(a/)n(6)_ (zaan6) (expected from 徂賛切)^, meaning "pretty" (美好皃);
     see below.
   ==
 E
@@ -344,7 +344,7 @@ W
   ====
 C
   ==
-  - Williams' 日日來趲: Corrected _yat(7)_ [[jat1]] to _yat(9)_ [[jat6]].
+  - Williams' 日日來趲: Corrected _yat(7)_ (jat1) to _yat(9)_ (jat6).
   ==
 E
   ====
@@ -704,7 +704,7 @@ W
 C
   ==
   - Williams' 貓棧:
-    Changed Middle Chinese _(4)mi(u/)_ [[miu4]] to common reading _(1)m(a/)u_ [[maau1]].
+    Changed Middle Chinese _(4)mi(u/)_ (miu4) to common reading _(1)m(a/)u_ (maau1).
   ==
 S
   ==
@@ -732,7 +732,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Note that Fan Wan considers 賺 to be read _ch(a/)m(6)_ [[zaam6]].
+  - Fan Wan entry: Note that Fan Wan considers 賺 to be read _ch(a/)m(6)_ (zaam6).
   ==
 S
   ==
@@ -795,10 +795,10 @@ W
   ====
 C
   ==
-  - Williams' 虥苗: Corrected _(4)m(a/)i_ [[maai4]] to _(4)mi(u/)_ [[miu4]].
+  - Williams' 虥苗: Corrected _(4)m(a/)i_ (maai4) to _(4)mi(u/)_ (miu4).
     Note that 虥苗 is also spelt 虥貓, as the Middle Chinese reading of 貓
-    is homophonous with 苗 _(4)mi(u/)_ [[miu4]].
-    In any case, Williams' _(4)m(a/)i_ [[maai4]] is a typo.
+    is homophonous with 苗 _(4)mi(u/)_ (miu4).
+    In any case, Williams' _(4)m(a/)i_ (maai4) is a typo.
   ==
 $$
 
@@ -898,10 +898,10 @@ W
 C
   ==
   - Fan Wan entry: The supplied dissection 中淡切 is incorrect,
-    as it results in the 陰去 reading _ch(a/)m(3)_ [[zaam3]]^,
-    rather than the intended 陽去 reading _ch(a/)m(6)_ [[zaam6]].
+    as it results in the 陰去 reading _ch(a/)m(3)_ (zaam3)^,
+    rather than the intended 陽去 reading _ch(a/)m(6)_ (zaam6).
     Normalised 𫉬 (⿱艹⿰犭隻) to 獲.
-  - Williams' reading _(5)w(a/)n_ [[waan5]] for the authorised sense is incorrect,
+  - Williams' reading _(5)w(a/)n_ (waan5) for the authorised sense is incorrect,
     possibly based on the gloss 音綰
     (which is intended in the departing tone, not the rising tone).
     The expected reading is waan3 from Middle Chinese 烏患切.
