@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2024-04-25
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -498,7 +498,7 @@ E
     ++
   ====
   --
-  Olden attestation for _(4)ch(')(a/)_ [[caa4]] meaning "apply", "rub", etc.
+  Olden attestation for _(4)ch(')(a/)_ (caa4) meaning "apply", "rub", etc.
   exists in an alternative reading of 塗 (per 鄭張尚芳):
   --
   ==
@@ -656,8 +656,8 @@ W
 C
   ==
   - Williams' 茶匙:
-    Changed Middle Chinese _(4)sh(i/)_ [[si4]]
-    to common reading _(4)ch(')(i/)_ [[ci4]].
+    Changed Middle Chinese _(4)sh(i/)_ (si4)
+    to common reading _(4)ch(')(i/)_ (ci4).
   ==
 E
   ====
@@ -669,7 +669,7 @@ E
 $$
 
 
-##{#5 .modern} (5)Ch(')(a/) [[caa5 陽上]]
+##{#5 .modern} (5)Ch(')(a/) (caa5 陽上)
 
 <## tone-5-characters ##>
 <nav class="sideways">
@@ -680,7 +680,7 @@ $$
 </nav>
 <## /tone-5-characters ##>
 
-###+ 扠5 | _(5)Ch(')(a/)_ [[caa5]]
+###+ 扠5 | _(5)Ch(')(a/)_ (caa5)
 
 $$
 R
@@ -701,7 +701,7 @@ S
   ==
 $$
 
-###+ 搽5 | _(5)Ch(')(a/)_ [[caa5]]
+###+ 搽5 | _(5)Ch(')(a/)_ (caa5)
 
 $$
 R
@@ -726,7 +726,7 @@ C
     1. In terms of pitch distance,
        it is nicer to have two readings for 搽 in 陽平 (caa4) and 陽上 (caa5),
        than to have two readings for 扠 in 陰平 (caa1) and 陽上 (caa5); and
-    1. The form 搽 for _(5)ch(')(a/)_ [[caa5]] is attested in
+    1. The form 搽 for _(5)ch(')(a/)_ (caa5) is attested in
        [Eitel (1877)][eitel-dict-搽].
     ++
   - [Wiktionary as of 2023-06-23][wiktionary-䵦]

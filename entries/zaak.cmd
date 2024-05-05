@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2024-04-28
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -55,7 +55,7 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
-###+ 矺3 | _Ch(a/)k(8)_ [[zaak3]]
+###+ 矺3 | _Ch(a/)k(8)_ (zaak3)
 
 $$
 R
@@ -123,7 +123,7 @@ E
     ++
   ====
   --
-  Olden attestation for 矺 _ch(a/)k(8)_ [[zaak3]] meaning "weight/crush":
+  Olden attestation for 矺 _ch(a/)k(8)_ (zaak3) meaning "weight/crush":
   --
   ==
   - ::B5.w535a0608 (:陟革切:) (:矺:) (:磓也:)::
@@ -143,7 +143,7 @@ S
   ==
 $$
 
-###+ 砸3 | _Ch(a/)k(8)_ [[zaak3]]
+###+ 砸3 | _Ch(a/)k(8)_ (zaak3)
 
 $$
 R
@@ -160,7 +160,7 @@ C
   ==
 $$
 
-###+ 磧3 | _Ch(a/)k(8)_ [[zaak3]]
+###+ 磧3 | _Ch(a/)k(8)_ (zaak3)
 
 $$
 R
@@ -218,8 +218,8 @@ W
 C
   ==
   - Fan Wan entry: The supplied dissection 直百切 is incorrect,
-    as it results in the 陽入 reading _ch(a/)k(9)_ [[zaak6]]^,
-    rather than the intended 陰入 reading _ch(a/)k(8)_ [[zaak3]].
+    as it results in the 陽入 reading _ch(a/)k(9)_ (zaak6)^,
+    rather than the intended 陰入 reading _ch(a/)k(8)_ (zaak3).
   ==
 $$
 
@@ -246,7 +246,7 @@ W
   ====
 $$
 
-###+ 簀3 | _Ch(a/)k(8)_ [[zaak3]]
+###+ 簀3 | _Ch(a/)k(8)_ (zaak3)
 
 $$
 R
@@ -306,9 +306,9 @@ W
   ====
 C
   ==
-  - Williams' 舴艋: Changed Middle Chinese _mang_ [[mang]]
-    to common reading _m(a/)ng_ [[maang]],
-    and corrected tone _(6)_ [[去聲]] to _(5)_ [[上聲]].
+  - Williams' 舴艋: Changed Middle Chinese _mang_ (mang)
+    to common reading _m(a/)ng_ (maang),
+    and corrected tone _(6)_ (去聲) to _(5)_ (上聲).
   ==
 $$
 
@@ -356,14 +356,14 @@ W
   ====
 C
   ==
-  - Williams' 責償: Changed improper reading _(4)ch(')(e/)ung_ [[coeng4]]
-    to _(4)sh(e/)ung_ [[soeng4]].
-  - Williams' 責罰 (second occurrence): Changed _f(a/)t(9)_ [[faat6]]
-    to modern _fat(9)_ [[fat6]].
+  - Williams' 責償: Changed improper reading _(4)ch(')(e/)ung_ (coeng4)
+    to _(4)sh(e/)ung_ (soeng4).
+  - Williams' 責罰 (second occurrence): Changed _f(a/)t(9)_ (faat6)
+    to modern _fat(9)_ (fat6).
   ==
 $$
 
-###+ 賾3 | _Ch(a/)k(8)_ [[zaak3]]
+###+ 賾3 | _Ch(a/)k(8)_ (zaak3)
 
 $$
 R
@@ -457,8 +457,8 @@ W
 C
   ==
   - Williams' 宅兆:
-    Changed Middle Chinese _chi(u/)(6)_ [[ziu6]]
-    to common reading _shi(u/)(6)_ [[siu6]].
+    Changed Middle Chinese _chi(u/)(6)_ (ziu6)
+    to common reading _shi(u/)(6)_ (siu6).
   ==
 $$
 
@@ -501,8 +501,8 @@ W
   ====
 C
   ==
-  - Williams' 摘朵落嚟: Corrected _tok(9)_ [[dok6]] to _lok(9)_ [[lok6]].
-  - Williams' 摘頂: Corrected _(1)teng_ [[deng1]] to _(2)teng_ [[deng2]].
+  - Williams' 摘朵落嚟: Corrected _tok(9)_ (dok6) to _lok(9)_ (lok6).
+  - Williams' 摘頂: Corrected _(1)teng_ (deng1) to _(2)teng_ (deng2).
   ==
 $$
 
@@ -649,7 +649,7 @@ C
   ==
 $$
 
-###+ 矺6 | _Ch(a/)k(9)_ [[zaak6]]
+###+ 矺6 | _Ch(a/)k(9)_ (zaak6)
 
 $$
 R
@@ -697,8 +697,8 @@ C
   - Fan Wan entry: Corrected 伙 to 狄, and removed extraneous trailing 翟.
   - Williams' "also read _t(')ik(7)_ [...]": this is not quite correct.
     ==
-    - 摘 is also read _t(')ik(7)_ [[tik1]] (expected from 他歷切); but
-    - 翟 is also read _tik(9)_ [[dik6]] (expected from 徒歷切).
+    - 摘 is also read _t(')ik(7)_ (tik1) (expected from 他歷切); but
+    - 翟 is also read _tik(9)_ (dik6) (expected from 徒歷切).
     ==
   ====
 S

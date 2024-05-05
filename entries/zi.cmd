@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-05-03
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -148,7 +148,7 @@ W
   ====
 C
   ==
-  - Williams' 聽之之人: Corrected _t(')eng(3)_ [[teng3]] to _t(')ing(3)_ [[ting3]].
+  - Williams' 聽之之人: Corrected _t(')eng(3)_ (teng3) to _t(')ing(3)_ (ting3).
   ==
 $$
 
@@ -172,7 +172,7 @@ W
   ====
 $$
 
-###+ 卮1 | _(1)Ch(i/)_ [[zi1]]
+###+ 卮1 | _(1)Ch(i/)_ (zi1)
 
 $$
 R
@@ -309,7 +309,7 @@ W
   ====
 $$
 
-###+ 孳1 | _(1)Tsz'_ [[zi1]]
+###+ 孳1 | _(1)Tsz'_ (zi1)
 
 $$
 R
@@ -459,7 +459,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected 千 to 干.
-  - Williams' 支更: Corrected _(1)kang_ [[gang1]] to _(1)k(a/)ng_ [[gaang1]].
+  - Williams' 支更: Corrected _(1)kang_ (gang1) to _(1)k(a/)ng_ (gaang1).
   ==
 $$
 
@@ -733,7 +733,7 @@ C
   ==
 $$
 
-###+ 祗1 | _(1)Ch(i/)_ [[zi1]]
+###+ 祗1 | _(1)Ch(i/)_ (zi1)
 
 $$
 R
@@ -847,7 +847,7 @@ W
   ====
 $$
 
-###+ 胝1 | _(1)Ch(i/)_ [[zi1]]
+###+ 胝1 | _(1)Ch(i/)_ (zi1)
 
 $$
 R
@@ -878,7 +878,7 @@ C
   - The uncommon reading ci1 is that given in Fan Wan.
     Whilst Kangxi quotes 《集韻》稱脂切,
     it is explained 鳥胃 "bird's stomach" (same as 胵).
-  - Williams' 胼胝: Corrected _(1)p(')(i/)n_ [[pin1]] to _(4)p(')(i/)n_ [[pin4]].
+  - Williams' 胼胝: Corrected _(1)p(')(i/)n_ (pin1) to _(4)p(')(i/)n_ (pin4).
   ==
 S
   ==
@@ -1161,8 +1161,8 @@ W
 C
   ==
   - Williams prints 螆 as ⿰虫兹 rather than as ⿰虫茲.
-  - Williams' 生螆狗, 生螆狗噉聲: Changed _(1)shang_ [[sang1]]
-    to vernacular reading _(1)sh(a/)ng_ [[saang1]].
+  - Williams' 生螆狗, 生螆狗噉聲: Changed _(1)shang_ (sang1)
+    to vernacular reading _(1)sh(a/)ng_ (saang1).
   ==
 E
   ====
@@ -1212,7 +1212,7 @@ S
   ==
 $$
 
-###+ 訾1 | _(1)Tsz'_ [[zi1]]
+###+ 訾1 | _(1)Tsz'_ (zi1)
 
 $$
 R
@@ -1583,8 +1583,8 @@ W
   ====
 C
   ==
-  - Both level-tone 子之切 _(1)tsz'_ [[zi1]]
-    and rising-tone 即里切 _(2)tsz'_ [[zi2]]
+  - Both level-tone 子之切 _(1)tsz'_ (zi1)
+    and rising-tone 即里切 _(2)tsz'_ (zi2)
     are recorded in 《廣韻》 with the explanation 克也.
   ==
 S
@@ -1593,7 +1593,7 @@ S
   ==
 $$
 
-###+ 只2 | _(2)Ch(i/)_ [[zi2]]
+###+ 只2 | _(2)Ch(i/)_ (zi2)
 
 $$
 R
@@ -1737,7 +1737,7 @@ W
   ====
 $$
 
-###+ 坁2 | _(2)Ch(i/)_ [[zi2]]
+###+ 坁2 | _(2)Ch(i/)_ (zi2)
 
 $$
 R
@@ -1760,7 +1760,7 @@ W
   ====
 $$
 
-###+ 坻2 | _(2)Ch(i/)_ [[zi2]]
+###+ 坻2 | _(2)Ch(i/)_ (zi2)
 
 $$
 R
@@ -1918,7 +1918,7 @@ W
   ====
 C
   ==
-  - Williams' 子母錢: Corrected _(4)m(o\)_ [[mou4]] to _(5)m(o\)_ [[mou5]].
+  - Williams' 子母錢: Corrected _(4)m(o\)_ (mou4) to _(5)m(o\)_ (mou5).
   - Williams' 長子: Appears twice.
   ==
 $$
@@ -1948,7 +1948,7 @@ C
   ==
 $$
 
-###+ 徵2 | _(2)Ch(i/)_ [[zi2]]
+###+ 徵2 | _(2)Ch(i/)_ (zi2)
 
 $$
 R
@@ -1963,7 +1963,7 @@ W
   [[Not present]]
 C
   ==
-  - The reading _(2)ch(i/)_ [[zi2]] for 徵 is not present in Williams;
+  - The reading _(2)ch(i/)_ (zi2) for 徵 is not present in Williams;
     an entry is included here for completeness.
     ++
     1. The note a perfect fifth (ratio 81:54 = 3:2 under 史記 tuning)
@@ -2047,7 +2047,7 @@ W
   ====
 C
   ==
-  - Williams' 指南車: Corrected _(1)ch(')(e/)_ [[ce1]] to _(1)k(u")_ [[geoi1]].
+  - Williams' 指南車: Corrected _(1)ch(')(e/)_ (ce1) to _(1)k(u")_ (geoi1).
     Strictly, this is the south-pointing chariot.
     The compass is now called 指南針.
   - Williams' 指手畫腳: Figuratively, to make overt criticism, to assume authority and give out orders, etc.
@@ -2159,7 +2159,7 @@ C
   ==
   - Fan Wan entry: Normalised 𣗥 (⿰束束) to 棘.
   - Williams' 枳椇: Kangxi quotes 《集韻》舉綺切《韻會》居矣切𠀤音己,
-    i.e. a reading of _(2)k(i/)_ [[gei2]], for 枳椇.
+    i.e. a reading of _(2)k(i/)_ (gei2), for 枳椇.
   - Williams' 枳殼: Not _Hovenia dulcis_ seeds,
     but the skin of the Chinese bitter orange.
   ==
@@ -2308,7 +2308,7 @@ C
   - Kangxi quotes 《玉篇》古文濟字, so strictly 泲 should be read as 濟.
     Moreover, rising-tone zai2 is more correct than departing-tone zai3,
     because the reading of 濟 explained 水名 is the rising-tone one,
-    namely 子禮切 _(2)tsai_ [[zai2]].
+    namely 子禮切 _(2)tsai_ (zai2).
   ==
 $$
 
@@ -2650,7 +2650,7 @@ W
   ====
 $$
 
-###+ 衹2 | _(2)Ch(i/)_ [[zi2]]
+###+ 衹2 | _(2)Ch(i/)_ (zi2)
 
 $$
 R
@@ -2671,7 +2671,7 @@ S
   ==
 $$
 
-###+ 訾2 | _(2)Tsz'_ [[zi2]]
+###+ 訾2 | _(2)Tsz'_ (zi2)
 
 $$
 R
@@ -2930,7 +2930,7 @@ W
   ====
 $$
 
-###+ 恣3 | _Tsz'(3)_ [[zi3]]
+###+ 恣3 | _Tsz'(3)_ (zi3)
 
 $$
 R
@@ -2967,7 +2967,7 @@ S
   ==
 $$
 
-###+ 懥3 | _Ch(i/)(3)_ [[zi3]]
+###+ 懥3 | _Ch(i/)(3)_ (zi3)
 
 $$
 R
@@ -3073,7 +3073,7 @@ W
   ====
 $$
 
-###+ 漬3 | _Tsz'(3)_ [[zi3]]
+###+ 漬3 | _Tsz'(3)_ (zi3)
 
 $$
 R
@@ -3257,7 +3257,7 @@ C
   ==
 $$
 
-###+ 胾3 | _Tsz'(3)_ [[zi3]]
+###+ 胾3 | _Tsz'(3)_ (zi3)
 
 $$
 R
@@ -3360,13 +3360,13 @@ W
 C
   ==
   - Williams' 至到: In the vernacular register, "until".
-  - Williams' 至着: Corrected _ch(e/)uk(8)_ [[zoek3]] to _ch(e/)uk(9)_ [[zoek6]].
+  - Williams' 至着: Corrected _ch(e/)uk(8)_ (zoek3) to _ch(e/)uk(9)_ (zoek6).
   ==
 E
   ====
   - 【至】 (zi3):
     ++
-    1. Short for [先至](sin#cantonese-先至) ("only", "only then"). [[TODO]]
+    1. Short for [先至](sin#cantonese-先至) ("only", "only then"). (TODO)
        ==
        - 噉至得咖嘛 (gam2 zi3 dak1 ga1 maa3): "Only like so [will it] work."
        ==
@@ -3425,7 +3425,7 @@ W
   ====
 C
   ==
-  - Williams' 致使佢來: Corrected _shai(3)_ [[sai3]] to _(2)shai_ [[sai2]].
+  - Williams' 致使佢來: Corrected _shai(3)_ (sai3) to _(2)shai_ (sai2).
   - Williams' 致命: Now "fatal".
   ==
 $$
@@ -3753,7 +3753,7 @@ S
   ==
 $$
 
-###+ 值6 | _Ch(i/)(6)_ [[zi6]]
+###+ 值6 | _Ch(i/)(6)_ (zi6)
 
 $$
 R
@@ -3785,7 +3785,7 @@ W
   ====
 C
   ==
-  - In modern usage, the reading _ch(i/)(6)_ [[zi6]] is obsolete.
+  - In modern usage, the reading _ch(i/)(6)_ (zi6) is obsolete.
   ==
 S
   ==
@@ -4091,9 +4091,9 @@ W
   ====
 C
   ====
-  - The level-tone reading _(4)ch(')(i/)_ [[ci4]] is the classical reading
+  - The level-tone reading _(4)ch(')(i/)_ (ci4) is the classical reading
     for verb senses of govern (e.g. 治國 "govern [the] nation"),
-    as opposed to departing-tone _ch(i/)(6)_ [[zi6]]
+    as opposed to departing-tone _ch(i/)(6)_ (zi6)
     for adjective senses of govern (e.g. 國治 "[the] nation governed").
     Notwithstanding, the only conclusion that can be drawn from 《廣韻》
     is that the proper-noun sense is in level tone:
@@ -4106,7 +4106,7 @@ C
     and the adjective "governed" is not made up.
     In 《大學章句》, 治其國 is annotated with 治平聲,
     whilst 國治 is annotated with 治去聲.
-  - In modern usage, level-tone _(4)ch(')(i/)_ [[ci4]]
+  - In modern usage, level-tone _(4)ch(')(i/)_ (ci4)
     is considered obsolete.
   ====
 E
@@ -4213,7 +4213,7 @@ W
   ====
 $$
 
-###+ 眥6 | _Tsz'(6)_ [[zi6]]
+###+ 眥6 | _Tsz'(6)_ (zi6)
 
 $$
 R
@@ -4505,11 +4505,11 @@ W
 C
   ==
   - Fan Wan entry: Corrected 巳 to 己.
-  - Williams' 自來嗰時: Corrected _ko(3)_ [[go3]] to _(2)ko_ [[go2]].
+  - Williams' 自來嗰時: Corrected _ko(3)_ (go3) to _(2)ko_ (go2).
   ==
 $$
 
-###+ 豸6 | _Ch(i/)(6)_ [[zi6]]
+###+ 豸6 | _Ch(i/)(6)_ (zi6)
 
 $$
 R
@@ -4537,7 +4537,7 @@ W
 C
   ==
   - Williams' alternative reading:
-    Corrected _(2)ch(i/)_ [[zi2]] to _ch(i/)(6)_ [[zi6]].
+    Corrected _(2)ch(i/)_ (zi2) to _ch(i/)(6)_ (zi6).
   ==
 S
   ==
@@ -4545,7 +4545,7 @@ S
   ==
 $$
 
-###+ 遲6 | _Ch(i/)(6)_ [[zi6]]
+###+ 遲6 | _Ch(i/)(6)_ (zi6)
 
 $$
 R

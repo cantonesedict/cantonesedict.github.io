@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -155,7 +155,7 @@ C
   ==
 $$
 
-###+ 攙1 | _(1)Ch(')(a/)m_ [[caam1]]
+###+ 攙1 | _(1)Ch(')(a/)m_ (caam1)
 
 $$
 R
@@ -199,7 +199,7 @@ S
   ==
 $$
 
-###+ 篸1 | _(1)Ts(')(a/)m_ [[caam1]]
+###+ 篸1 | _(1)Ts(')(a/)m_ (caam1)
 
 $$
 R
@@ -219,8 +219,8 @@ W
   ====
 C
   ==
-  - Strictly, the reading is _(1)ch(')(a/)m_ [[caam1]];
-    Kangxi quotes 《集韻》初簪切 for the phrase 篸𥰭 [[⿱𥫗差]],
+  - Strictly, the reading is _(1)ch(')(a/)m_ (caam1);
+    Kangxi quotes 《集韻》初簪切 for the phrase 篸𥰭 (⿱𥫗差),
     which is the bamboo version of 參差.
   ==
 S
@@ -536,7 +536,7 @@ W
   ====
 C
   ==
-  - Williams 一碌杉: Corrected _luk(9)_ [[luk6]] to _luk(7)_ [[luk1]].
+  - Williams 一碌杉: Corrected _luk(9)_ (luk6) to _luk(7)_ (luk1).
   ==
 $$
 
@@ -856,7 +856,7 @@ W
   ====
 C
   ==
-  - Williams' 讒諂: Corrected _(2)ch(i/)m_ [[zim2]] to _(2)ch(')(i/)m_ [[cim2]].
+  - Williams' 讒諂: Corrected _(2)ch(i/)m_ (zim2) to _(2)ch(')(i/)m_ (cim2).
   ==
 $$
 
@@ -885,7 +885,7 @@ W
 $$
 
 
-##{#5 .modern} (5)Ch(')(a/)m (5)Ts(')(a/)m [[caam5 陽上]]
+##{#5 .modern} (5)Ch(')(a/)m (5)Ts(')(a/)m (caam5 陽上)
 
 <## tone-5-characters ##>
 <nav class="sideways">
@@ -897,7 +897,7 @@ $$
 </nav>
 <## /tone-5-characters ##>
 
-###+ 劖5 | _(5)Ts(')(a/)m_ [[caam5]]
+###+ 劖5 | _(5)Ts(')(a/)m_ (caam5)
 
 $$
 R
@@ -919,7 +919,7 @@ S
   ==
 $$
 
-###+ 棖5 | _(5)Ch(')(a/)m_ [[caam5]]
+###+ 棖5 | _(5)Ch(')(a/)m_ (caam5)
 
 $$
 R
@@ -960,7 +960,7 @@ S
   ==
 $$
 
-###+ 鏨5 | _(5)Ts(')(a/)m_ [[caam5]]
+###+ 鏨5 | _(5)Ts(')(a/)m_ (caam5)
 
 $$
 R
@@ -1008,15 +1008,15 @@ C
     based on the ordering with respect to other entries.
     Because 鏨 appears in the rising tone section, and strictly after 攬覽擥,
     which are 陽上 (tone~5), we conclude that 鏨 also is 陽上 (tone~5).
-    Williams' placement of 鏨 under _(5)Ts(a/)m_ [[zaam5]] is problematic
+    Williams' placement of 鏨 under _(5)Ts(a/)m_ (zaam5) is problematic
     as an unaspirated initial cannot occur with 陽上 (tone~5).
-    I have corrected this to the aspirated _(5)Ts(')(a/)m_ [[caam5]], because:
+    I have corrected this to the aspirated _(5)Ts(')(a/)m_ (caam5), because:
     ++
-    1. It is consistent with the vernacular _(5)ts(')(a/)m_ [[caam5]]
+    1. It is consistent with the vernacular _(5)ts(')(a/)m_ (caam5)
        for "pierced"; and
     2. It is consistent with 《廣韻》才敢切
-       if aspirated rising _(5)ts(')(a/)m_ [[caam5]] is not recast
-       to unaspirated departing _ts(a/)m(6)_ [[zaam6]].
+       if aspirated rising _(5)ts(')(a/)m_ (caam5) is not recast
+       to unaspirated departing _ts(a/)m(6)_ (zaam6).
     ++
   ==
 E

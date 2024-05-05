@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2024-05-03
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -189,7 +189,7 @@ W
 C
   ==
   - Williams' 齋戒: Properly, abstinence from all pleasures (meat, alcohol, sex).
-  - Williams' 齋醮: Corrected _tsi(u/)(6)_ [[ziu6]] to _tsi(u/)(3)_ [[ziu3]].
+  - Williams' 齋醮: Corrected _tsi(u/)(6)_ (ziu6) to _tsi(u/)(3)_ (ziu3).
   - Williams' 羅漢齋: The name of a dish, commonly called Buddha's Delight.
   ==
 E
@@ -277,11 +277,11 @@ W
   ====
 C
   ==
-  - Williams' 切耳變債躉: Corrected _ts(i/)t(8)_ [[zit3]] to _ts(')(i/)t(8)_ [[cit3]].
+  - Williams' 切耳變債躉: Corrected _ts(i/)t(8)_ (zit3) to _ts(')(i/)t(8)_ (cit3).
   ==
 $$
 
-###+ 瘵3 | _Ch(a/)i(3)_ [[zaai3]]
+###+ 瘵3 | _Ch(a/)i(3)_ (zaai3)
 
 $$
 R
@@ -410,7 +410,7 @@ C
   ==
 $$
 
-###+ 眥6 | _Ch(a/)i(6)_ [[zaai6]]
+###+ 眥6 | _Ch(a/)i(6)_ (zaai6)
 
 $$
 R
@@ -490,7 +490,7 @@ W
 C
   ==
   - Williams' alternative reading:
-    Corrected _(2)ch(i/)_ [[zi2]] to _ch(i/)(6)_ [[zi6]].
+    Corrected _(2)ch(i/)_ (zi2) to _ch(i/)(6)_ (zi6).
   ==
 S
   ==

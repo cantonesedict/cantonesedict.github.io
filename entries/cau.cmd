@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -201,7 +201,7 @@ W
 C
   ==
   - Williams' 抽筋: Medically, these are skeletal muscle contractions (i.e. cramps).
-  - Williams' 抽剝: Corrected _mok(9)_ [[mok6]] to _mok(7)_ [[mok1]].
+  - Williams' 抽剝: Corrected _mok(9)_ (mok6) to _mok(7)_ (mok1).
   ==
 E
   ====
@@ -367,7 +367,7 @@ W
   ====
 C
   ==
-  - Williams' : Changed _h(a/)k(7)_ [[haak1]] to _hak(7)_ [[hak1]].
+  - Williams' : Changed _h(a/)k(7)_ (haak1) to _hak(7)_ (hak1).
   ==
 $$
 
@@ -424,11 +424,11 @@ W
   ====
 C
   ==
-  - Williams' 厥疾弗瘳: Corrected _pat(7)_ [[bat1]] to _fat(7)_ [[fat1]] per 《書經》.
+  - Williams' 厥疾弗瘳: Corrected _pat(7)_ (bat1) to _fat(7)_ (fat1) per 《書經》.
   ==
 $$
 
-###+ 瞅1 | _(1)Ts(')au_ [[cau1]]
+###+ 瞅1 | _(1)Ts(')au_ (cau1)
 
 $$
 R
@@ -545,7 +545,7 @@ W
   ====
 $$
 
-###+ 紬1 | _(1)Ch(')au_ [[cau1]]
+###+ 紬1 | _(1)Ch(')au_ (cau1)
 
 $$
 R
@@ -782,8 +782,8 @@ W
   ====
 C
   ==
-  - Willliams' 命醜: Changed _ming(6)_ [[ming6]]
-    to vernacular reading _meng(6)_ [[meng6]].
+  - Willliams' 命醜: Changed _ming(6)_ (ming6)
+    to vernacular reading _meng(6)_ (meng6).
   ==
 E
   ====
@@ -921,7 +921,7 @@ W
   ====
 C
   ==
-  - Williams' 你去湊我打聽: Corrected _t(')eng(3)_ [[teng3]] to _t(')ing(3)_ [[ting3]].
+  - Williams' 你去湊我打聽: Corrected _t(')eng(3)_ (teng3) to _t(')ing(3)_ (ting3).
     The use of 湊 as "for" is very dated.
   ==
 E
@@ -1140,9 +1140,9 @@ C
   - Williams does not provide separate entries for 仇 and $讐4.
     In modern usage:
     ==
-    - The "enmity" sense is spelt 仇 and read _(4)shau_ [[sau4]];
+    - The "enmity" sense is spelt 仇 and read _(4)shau_ (sau4);
       see $仇sau4.
-    - The "proofread" sense is spelt 讎 and read _(4)ch(')au_ [[cau4]];
+    - The "proofread" sense is spelt 讎 and read _(4)ch(')au_ (cau4);
       see $讎cau4.
     ==
     I have split things up accordingly.
@@ -1430,7 +1430,7 @@ W
   ====
 C
   ==
-  - Williams' 更籌: Corrected _(1)kang_ [[gang1]] to _(1)k(a/)ng_ [[gaang1]].
+  - Williams' 更籌: Corrected _(1)kang_ (gang1) to _(1)k(a/)ng_ (gaang1).
   ==
 E
   ====
@@ -1540,8 +1540,8 @@ W
   ====
 C
   ==
-  - Williams' 生綢: Changed _(1)shang_ [[sang1]]
-    to vernacular reading _(1)sh(a/)ng_ [[saang1]].
+  - Williams' 生綢: Changed _(1)shang_ (sang1)
+    to vernacular reading _(1)sh(a/)ng_ (saang1).
   ==
 S
   ==
@@ -1579,7 +1579,7 @@ S
   ==
 $$
 
-###+ 讎4 | _(4)Ch(')au_ [[cau4]]
+###+ 讎4 | _(4)Ch(')au_ (cau4)
 
 $$
 R
@@ -1621,9 +1621,9 @@ C
     and does not provide separate entries for $仇4 and $讐4.
     In modern usage:
     ==
-    - The "enmity" sense is spelt 仇 and read _(4)shau_ [[sau4]];
+    - The "enmity" sense is spelt 仇 and read _(4)shau_ (sau4);
       see $仇sau4.
-    - The "proofread" sense is spelt 讎 and read _(4)ch(')au_ [[cau4]].
+    - The "proofread" sense is spelt 讎 and read _(4)ch(')au_ (cau4).
     ==
     I have split things up accordingly.
   ====
@@ -1660,9 +1660,9 @@ C
   - Williams does not provide separate entries for $仇4 and 讐.
     In modern usage:
     ==
-    - The "enmity" sense is spelt 仇 and read _(4)shau_ [[sau4]];
+    - The "enmity" sense is spelt 仇 and read _(4)shau_ (sau4);
       see $仇sau4.
-    - The "proofread" sense is spelt 讎 and read _(4)ch(')au_ [[cau4]];
+    - The "proofread" sense is spelt 讎 and read _(4)ch(')au_ (cau4);
       see $讎cau4.
     ==
     I have split things up accordingly.

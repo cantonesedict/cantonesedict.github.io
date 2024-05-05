@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ai
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -53,7 +53,7 @@ $$
 </nav>
 <## /tone-1-characters ##>
 
-###+ 哎1 | _(1)Ai_ [[ai1]]
+###+ 哎1 | _(1)Ai_ (ai1)
 
 $$
 R
@@ -90,7 +90,7 @@ W
   ====
 C
   ==
-  - Williams' 哎求你: Corrected _(1)k(')au_ [[kau1]] to _(4)k(')au_ [[kau4]].
+  - Williams' 哎求你: Corrected _(1)k(')au_ (kau1) to _(4)k(')au_ (kau4).
   - [Jyutping.org suggests using 哎 as the canonical character for ai1 or aai1.]
   ==
 E
@@ -175,8 +175,8 @@ W
   ====
 C
   ==
-  - Williams' 矮佬仔: Corrected _(5)l(o\)_ [[lou5]] to _(2)l(o\)_ [[lou2]].
-  - Williams' 畀張矮凳仔你坐: Corrected _tso(6)_ [[zo6 去聲]] to _(5)ts(')o_ [[co5 上聲]].
+  - Williams' 矮佬仔: Corrected _(5)l(o\)_ (lou5) to _(2)l(o\)_ (lou2).
+  - Williams' 畀張矮凳仔你坐: Corrected _tso(6)_ (zo6 去聲) to _(5)ts(')o_ (co5 上聲).
   ==
 $$
 

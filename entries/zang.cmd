@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2024-05-01
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -122,7 +122,7 @@ W
   ====
 $$
 
-###+ 崢1 | _(1)Chang_ [[zang1]]
+###+ 崢1 | _(1)Chang_ (zang1)
 
 $$
 R
@@ -150,7 +150,7 @@ W
   ====
 C
   ==
-  - Williams' 頭角崢嶸: Corrected _(4)ying_ [[jing4]] to _(4)wing_ [[wing4]].
+  - Williams' 頭角崢嶸: Corrected _(4)ying_ (jing4) to _(4)wing_ (wing4).
   ==
 S
   ==
@@ -203,7 +203,7 @@ E
   ====
 $$
 
-###+ 掙1 | _(1)Chang_ [[zang1]]
+###+ 掙1 | _(1)Chang_ (zang1)
 
 $$
 R
@@ -216,7 +216,7 @@ W
   [[Not present]]
 C
   ====
-  - The reading _(1)chang_ [[zang1]] for 掙 is not present in Williams;
+  - The reading _(1)chang_ (zang1) for 掙 is not present in Williams;
     an entry is included here for completeness.
     ++
     1. To struggle, to break free.
@@ -297,7 +297,7 @@ S
   ==
 $$
 
-###+ 爭1 | _(1)Chang_ [[zang1]]
+###+ 爭1 | _(1)Chang_ (zang1)
 
 $$
 R
@@ -371,15 +371,15 @@ W
   ====
 C
   ==
-  - Fan Wan places 爭 under the short syllable _(1)chang_ [[zang1]];
-    Williams places it under the longer _(1)ch(a/)ng_ [[zaang1]].
-  - The longer syllable _(1)ch(a/)ng_ [[zaang1]]
+  - Fan Wan places 爭 under the short syllable _(1)chang_ (zang1);
+    Williams places it under the longer _(1)ch(a/)ng_ (zaang1).
+  - The longer syllable _(1)ch(a/)ng_ (zaang1)
     is preferred in the vernacular register,
-    so normalisation to the shorter _(1)chang_ [[zang1]] is only appropriate
+    so normalisation to the shorter _(1)chang_ (zang1) is only appropriate
     in some instances.
   - Williams' 爭功: Not to emulate, but to claim merit.
-  - Williams' 爭奪: Corrected _t(u")t(8)_ [[dyut3]] to _t(u")t(9)_ [[dyut6]].
-  - Williams' 爭得多: Corrected _(1)t(o\)_ [[dou1]] to _(1)to_ [[do1]].
+  - Williams' 爭奪: Corrected _t(u")t(8)_ (dyut3) to _t(u")t(9)_ (dyut6).
+  - Williams' 爭得多: Corrected _(1)t(o\)_ (dou1) to _(1)to_ (do1).
   ==
 E
   ====
@@ -456,7 +456,7 @@ S
   ==
 $$
 
-###+ 睜1 | _(1)Chang_ [[zang1]]
+###+ 睜1 | _(1)Chang_ (zang1)
 
 $$
 R
@@ -469,7 +469,7 @@ W
   [[Not present]]
 C
   ==
-  - The reading _(1)chang_ [[zang1]] for 睜
+  - The reading _(1)chang_ (zang1) for 睜
     is not attested in the Middle Chinese rime books
     (which result in zing6 expected from 疾郢切, explained 眳睜不恱視也, now obsolete).
     An entry is included here for completeness.
@@ -579,7 +579,7 @@ C
   - Fan Wan erroneously has 繒 explained ::魚[網]:: (綱 corrected to 網),
     and a strange character (like 曾, but with 丅 conjoined to the middle component between 八 above and 曰 below)
     explained 同上, which has here been normalised to 罾.
-  - Williams' 拗罾 etc.: Corrected _(2)au_ [[au2]] to _(2)(a/)u_ [[aau2]].
+  - Williams' 拗罾 etc.: Corrected _(2)au_ (au2) to _(2)(a/)u_ (aau2).
   ==
 $$
 
@@ -718,7 +718,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: 諍 is spuriously placed under the final _ang(6)_ [[ang6]].
+  - Fan Wan entry: 諍 is spuriously placed under the final _ang(6)_ (ang6).
   ==
 S
   ==
@@ -760,7 +760,7 @@ $$
 </nav>
 <## /tone-6-characters ##>
 
-###+ 甑6 | _Tsang(6)_ [[zang6]]
+###+ 甑6 | _Tsang(6)_ (zang6)
 
 $$
 R

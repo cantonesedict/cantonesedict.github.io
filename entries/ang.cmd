@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ang
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -78,7 +78,7 @@ W
   ====
 S
   ==
-  - $嚶jing1 [[TODO]]
+  - $嚶jing1 (TODO)
   ==
 $$
 
@@ -231,8 +231,8 @@ W
   ====
 C
   ==
-  - Williams' 生石㾘: Changed _(1)shang_ [[sang1]]
-    to vernacular reading _(1)sh(a/)ng_ [[saang1]].
+  - Williams' 生石㾘: Changed _(1)shang_ (sang1)
+    to vernacular reading _(1)sh(a/)ng_ (saang1).
   ==
 E
   ====
@@ -286,7 +286,7 @@ W
   ====
 C
   ==
-  - Williams' 更耐啲: Corrected _t(i/)(6)_ [[dei6]] to _(1)t(i/)_ [[di1]].
+  - Williams' 更耐啲: Corrected _t(i/)(6)_ (dei6) to _(1)t(i/)_ (di1).
   ==
 S
   ==

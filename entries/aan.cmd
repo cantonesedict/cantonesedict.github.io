@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aan
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -127,7 +127,7 @@ E
     ++
   ====
   --
-  Olden attestation for 晏 _(a/)n(3)_ [[aan3]] meaning "late":
+  Olden attestation for 晏 _(a/)n(3)_ (aan3) meaning "late":
   --
   ==
   - ::B4.w432a0202 烏旰切 (:晏:) (:晚也又於諫切:)::

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2024-04-16
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -121,7 +121,7 @@ S
   ==
 $$
 
-###+ 浸1 | _(1)Ts(')am_ [[cam1]]
+###+ 浸1 | _(1)Ts(')am_ (cam1)
 
 $$
 R
@@ -358,7 +358,7 @@ W
 C
   ====
   - Williams misprints 魫 as 𩵫 (⿰冘魚).
-  - Williams' placement under _(2)Ch(')am_ [[cam2]] is idiosyncratic
+  - Williams' placement under _(2)Ch(')am_ (cam2) is idiosyncratic
     because it does not follow any of the following:
     ==
     - zam2 from Fan Wan (which places it between 枕 and 怎)
@@ -367,7 +367,7 @@ C
     ==
     Alternatively, it is possible that
     Williams has simply misprinted (4)魫 as (2)魫,
-    in which case _(2)ch(')am_ [[cam4]] is intended.
+    in which case _(2)ch(')am_ (cam4) is intended.
   ====
 S
   ==
@@ -450,7 +450,7 @@ W
   ====
 C
   ==
-  - Williams' 讖緯: Corrected _(2)wai_ [[wai2]] to _(5)wai_ [[wai5]].
+  - Williams' 讖緯: Corrected _(2)wai_ (wai2) to _(5)wai_ (wai5).
   ==
 E
   ====
@@ -643,9 +643,9 @@ W
 C
   ==
   - Williams' 沉溺:
-    Changed Middle Chinese _nik(9)_ [[nik6]]
-    to common reading _nik(7)_ [[nik1]].
-  - Williams' 沉重: Corrected _chung(6)_ [[zung6 去聲]] to _(5)ch(')ung_ [[cung5 上聲]].
+    Changed Middle Chinese _nik(9)_ (nik6)
+    to common reading _nik(7)_ (nik1).
+  - Williams' 沉重: Corrected _chung(6)_ (zung6 去聲) to _(5)ch(')ung_ (cung5 上聲).
   ==
 $$
 
@@ -772,7 +772,7 @@ C
   ==
 $$
 
-###+ 魫4 | _(4)Ch(')am_ [[cam4]]
+###+ 魫4 | _(4)Ch(')am_ (cam4)
 
 $$
 R

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2024-04-25
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -53,7 +53,7 @@ $$
 </nav>
 <## /tone-1-characters ##>
 
-###+ 唓1 | _(1)Ch(')(e/)_ [[ce1]]
+###+ 唓1 | _(1)Ch(')(e/)_ (ce1)
 
 $$
 R
@@ -180,9 +180,9 @@ W
   ====
 C
   ==
-  - Williams' 車歪: Corrected _(4)m(e/)_ [[me4]] to _(2)m(e/)_ [[me2]].
-  - Williams' 車歪咁轉: Corrected _(4)m(e/)_ [[me4]] to _(2)m(e/)_ [[me2]],
-    and corrected _(2)ch(u")n_ [[zyun2]] to _ch(u")n(3)_ [[zyun3]].
+  - Williams' 車歪: Corrected _(4)m(e/)_ (me4) to _(2)m(e/)_ (me2).
+  - Williams' 車歪咁轉: Corrected _(4)m(e/)_ (me4) to _(2)m(e/)_ (me2),
+    and corrected _(2)ch(u")n_ (zyun2) to _ch(u")n(3)_ (zyun3).
   ==
 S
   ==
@@ -252,7 +252,7 @@ W
   ====
 C
   ==
-  - Williams' 且信且疑: Corrected _san(3)_ [[san3]] to _sun(3)_ [[seon3]].
+  - Williams' 且信且疑: Corrected _san(3)_ (san3) to _sun(3)_ (seon3).
   - Williams' 且慢: More an imperative "slow down" or "hang on" than adverbial "soon" or "shortly".
   - Strictly, the reading is _(2)ts(')(e/)_ (ce2) from 七也切,
     but Fan Wan groups it with 扯 (same as 撦),
@@ -292,7 +292,7 @@ W
   ====
 C
   ==
-  - Williams' 哆然: Corrected _(2)ch(')(i/)_ [[ci2]] to _(2)ch(')(e/)_ [[ce2]]
+  - Williams' 哆然: Corrected _(2)ch(')(i/)_ (ci2) to _(2)ch(')(e/)_ (ce2)
     (per Kangxi 《註》哆然衆有不服之心).
   ==
 S
@@ -397,12 +397,12 @@ C
   - Fan Wan (and Williams following it) considers 抯 the same as 扯.
     Strictly, this is erroneous; the three readings in Middle Chinese are:
     ++
-    1. _(1)ch(a/)_ [[zaa1]] from 側加切, explained 挹也 (quoting 說文);
-    2. _ts(e/)(6)_ [[ze6]] from 徐野切, explained 取也
-       (or _(5)ts(')(e/)_ [[ce5]] if insisting on rising tone); and
-    3. _(2)ts(e/)_ [[ze2]] from 兹野切, also explained 取也.
+    1. _(1)ch(a/)_ (zaa1) from 側加切, explained 挹也 (quoting 說文);
+    2. _ts(e/)(6)_ (ze6) from 徐野切, explained 取也
+       (or _(5)ts(')(e/)_ (ce5) if insisting on rising tone); and
+    3. _(2)ts(e/)_ (ze2) from 兹野切, also explained 取也.
     ++
-    None of these are 陰上 _(2)ch(')(e/)_ [[ce2]].
+    None of these are 陰上 _(2)ch(')(e/)_ (ce2).
   ====
 $$
 
@@ -482,12 +482,12 @@ E
     ++
   ====
   --
-  Williams views departing-tone 斜 _ts(')(e/)(3)_ [[ce3]]
+  Williams views departing-tone 斜 _ts(')(e/)(3)_ (ce3)
   as a word in its own right,
   but personally I view it merely as a vernacular reading variation
-  of level-tone 斜 _(4)ts(')(e/)_ [[ce4]].
-  (E.g. 斜坡 is read both as _ts(')(e/)(3) (1)po_ [[ce3 bo1]]^
-  and as _(4)ts(')(e/) (1)po_ [[ce4 bo1]].)
+  of level-tone 斜 _(4)ts(')(e/)_ (ce4).
+  (E.g. 斜坡 is read both as _ts(')(e/)(3) (1)po_ (ce3 bo1)^
+  and as _(4)ts(')(e/) (1)po_ (ce4 bo1).)^
   --
   --
   Some point to 笡 as the original character for the departing-tone reading:
@@ -496,7 +496,7 @@ E
   - ::B4.w443b0208 (:遷謝切:) (:笡:) (:斜逆也:)::
   ==
   --
-  But whilst the reading _ts(')(e/)(3)_ [[ce3]] is a match,
+  But whilst the reading _ts(')(e/)(3)_ (ce3) is a match,
   the explanation 斜逆也 seems more a metaphorical "heretical"
   than a physical "inclined" or "sloped",
   so I am yet to be fully convinced of 笡.

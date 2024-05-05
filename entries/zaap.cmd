@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaap
-* %date-modified --> 2024-04-28
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -103,7 +103,7 @@ C
   ==
 $$
 
-###+ 眨3 | _Ch(a/)p(8)_ [[zaap3]]
+###+ 眨3 | _Ch(a/)p(8)_ (zaap3)
 
 $$
 R
@@ -150,7 +150,7 @@ $$
 </nav>
 <## /tone-6-characters ##>
 
-###+ 什6 | _Ts(a/)p(9)_ [[zaap6]]
+###+ 什6 | _Ts(a/)p(9)_ (zaap6)
 
 $$
 R
@@ -290,7 +290,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected 綀 to 練.
-  - Williams' 習俗使然: Corrected _(5)sh(i/)_ [[si5]] to _(2)sz'_ [[si2]].
+  - Williams' 習俗使然: Corrected _(5)sh(i/)_ (si5) to _(2)sz'_ (si2).
   ==
 $$
 
@@ -648,9 +648,9 @@ E
     ++
   ====
   --
-  There is an argument that 垃雜 _l(a/)p(9) ts(a/)p(9)_ [[laap6 zaap6]]
+  There is an argument that 垃雜 _l(a/)p(9) ts(a/)p(9)_ (laap6 zaap6)
   should be spelt 擸𢶍.
-  Indeed 擸𢶍 has an expected reading of _lap(9) tsap(9)_ [[lap6 zap6]]^,
+  Indeed 擸𢶍 has an expected reading of _lap(9) tsap(9)_ (lap6 zap6)^,
   and is explained "broken" or "cluttered":
   --
   ==

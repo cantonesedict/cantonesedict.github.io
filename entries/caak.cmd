@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caak
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -44,7 +44,7 @@ S
 $$
 
 
-##{#1 .modern} Ch(')(a/)k(7) [[caak1 高陰入]]
+##{#1 .modern} Ch(')(a/)k(7) (caak1 高陰入)
 
 <## tone-1-characters ##>
 <nav class="sideways">
@@ -55,7 +55,7 @@ $$
 </nav>
 <## /tone-1-characters ##>
 
-###+ 惻1 | _Ch(')(a/)k(7)_ [[caak1]]
+###+ 惻1 | _Ch(')(a/)k(7)_ (caak1)
 
 $$
 R
@@ -76,7 +76,7 @@ S
   ==
 $$
 
-###+ 測1 | _Ch(')(a/)k(7)_ [[caak1]]
+###+ 測1 | _Ch(')(a/)k(7)_ (caak1)
 
 $$
 R
@@ -115,7 +115,7 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
-###+ 冊3 | _Ch(')(a/)k(8)_ [[caak3]]
+###+ 冊3 | _Ch(')(a/)k(8)_ (caak3)
 
 $$
 R
@@ -226,7 +226,7 @@ E
     ++
   ====
   --
-  Olden attestation for 坼 _ch(')(a/)k(8)_ [[caak3]] meaning "cracked":
+  Olden attestation for 坼 _ch(')(a/)k(8)_ (caak3) meaning "cracked":
   --
   ==
   - ::K. (:坼:) 《唐韻》(:丑格切:)《集韻》《韻會》《正韻》(:恥格切:)𠀤同𤖴(:裂也:)\
@@ -281,12 +281,12 @@ C
   - Williams misprints 拆(8) as 拆(9).
   - Williams' 拆散:
     Note the subtle difference between the two readings
-    _ch(')(a/)k(8) s(a/)n(3)_ [[caak3 saan3]] "scatter" and
-    _ch(')(a/)k(8) (2)s(a/)n_ [[caak3 saan2]] "break up".
+    _ch(')(a/)k(8) s(a/)n(3)_ (caak3 saan3) "scatter" and
+    _ch(')(a/)k(8) (2)s(a/)n_ (caak3 saan2) "break up".
   ==
 $$
 
-###+ 柵3 | _Ch(')(a/)k(8)_ [[caak3]]
+###+ 柵3 | _Ch(')(a/)k(8)_ (caak3)
 
 $$
 R
@@ -493,7 +493,7 @@ W
   ====
 $$
 
-###+ 鰂6 | _Ts(')(a/)k(9)_ [[caak6]]
+###+ 鰂6 | _Ts(')(a/)k(9)_ (caak6)
 
 $$
 R
@@ -506,10 +506,10 @@ W
   [[Not present]]
 C
   ====
-  - An entry for the reading _ts(')(a/)k(9)_ [[caak6]]
+  - An entry for the reading _ts(')(a/)k(9)_ (caak6)
     is included here for completeness.
     ++
-    1. The cuttlefish, as in 鰞鰂 _(1)(u/) ts(')(a/)k(9)_ [[wu1 caak6]]^,
+    1. The cuttlefish, as in 鰞鰂 _(1)(u/) ts(')(a/)k(9)_ (wu1 caak6)^,
        also written 烏賊.
        Note that in Cantonese, it is usually called 墨魚, "inkfish".
     ++

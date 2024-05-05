@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2024-04-28
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -141,7 +141,7 @@ W
   ====
 $$
 
-###+ 諳1 | _(1)(O\)m_ [[am1]]
+###+ 諳1 | _(1)(O\)m_ (am1)
 
 $$
 R
@@ -163,7 +163,7 @@ S
   ==
 $$
 
-###+ 鵪1 | _(1)(O\)m_ [[am1]]
+###+ 鵪1 | _(1)(O\)m_ (am1)
 
 $$
 R
@@ -194,8 +194,8 @@ W
 C
   ==
   - Williams' 鵪鶉:
-    Changed Middle Chinese _(4)shun_ [[seon4]]
-    to common reading _(1)ch(')un_ [[ceon1]].
+    Changed Middle Chinese _(4)shun_ (seon4)
+    to common reading _(1)ch(')un_ (ceon1).
   ==
 $$
 
@@ -280,8 +280,8 @@ W
   ====
 C
   ==
-  - Williams has am2 "cover" twice: once as 掩 _(2)Am_ [[am2]] on Page~3,
-    and once as 掩 _(1)(O\)m_ [[am1]] as a variant of $揞2 _(2)(O\)m_ [[am2]]^
+  - Williams has am2 "cover" twice: once as 掩 _(2)Am_ (am2) on Page~3,
+    and once as 掩 _(1)(O\)m_ (am1) as a variant of $揞2 _(2)(O\)m_ (am2)
     on Page~341.
   ==
 S
@@ -369,7 +369,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected 𡈼 to 也.
-  - Williams' 揞白迷濛: Corrected _p(a/)k(8)_ [[baak3]] to _p(a/)k(9)_ [[baak6]].
+  - Williams' 揞白迷濛: Corrected _p(a/)k(8)_ (baak3) to _p(a/)k(9)_ (baak6).
   - Williams' 揞背手: Now rarely heard; 揞口費 is more common for "hush money".
   ==
 E
@@ -383,7 +383,7 @@ E
     ++
   ====
   --
-  Olden attestation for 揞 _(2)(o\)m_ [[am2]] meaning "cover":
+  Olden attestation for 揞 _(2)(o\)m_ (am2) meaning "cover":
   --
   ==
   - ::B3.w349b0901 烏感切 (:揞:) (:手覆:)::
@@ -594,7 +594,7 @@ E
   ====
 $$
 
-###+ 闇3 | _(O\)m(3)_ [[am3]]
+###+ 闇3 | _(O\)m(3)_ (am3)
 
 $$
 R

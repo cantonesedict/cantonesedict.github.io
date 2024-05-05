@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2024-04-23
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -230,7 +230,7 @@ S
   ==
 $$
 
-###+ 啊1 | _(1)(A/)_ [[aa1]]
+###+ 啊1 | _(1)(A/)_ (aa1)
 
 $$
 R
@@ -355,7 +355,7 @@ W
 C
   ==
   - Williams' 啞謎:
-    Changed Middle Chinese _mai(6)_ [[mai6]] to common reading _(4)mai_ [[mai4]].
+    Changed Middle Chinese _mai(6)_ (mai6) to common reading _(4)mai_ (mai4).
   ==
 S
   ==
@@ -469,7 +469,7 @@ S
   ==
 $$
 
-###+ 啊3 | _(A/)(3)_ [[aa3]]
+###+ 啊3 | _(A/)(3)_ (aa3)
 
 $$
 R
@@ -603,7 +603,7 @@ C
 $$
 
 
-##{#4 .modern} (4)(A/) [[aa4 陽平]]
+##{#4 .modern} (4)(A/) (aa4 陽平)
 
 <## tone-4-characters ##>
 <nav class="sideways">
@@ -613,7 +613,7 @@ $$
 </nav>
 <## /tone-4-characters ##>
 
-###+ 呀4 | _(4)(A/)_ [[aa4]]
+###+ 呀4 | _(4)(A/)_ (aa4)
 
 $$
 R
@@ -653,7 +653,7 @@ S
 $$
 
 
-##{#6 .modern} (A/)(6) [[aa6 陽去]]
+##{#6 .modern} (A/)(6) (aa6 陽去)
 
 <## tone-6-characters ##>
 <nav class="sideways">
@@ -663,7 +663,7 @@ $$
 </nav>
 <## /tone-6-characters ##>
 
-###+ 呀6 | _(A/)(6)_ [[aa6]]
+###+ 呀6 | _(A/)(6)_ (aa6)
 
 $$
 R

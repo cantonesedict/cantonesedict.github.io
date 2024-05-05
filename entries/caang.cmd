@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caang
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -184,7 +184,7 @@ W
   ====
 $$
 
-###+ 罉1 | _(1)Ch(')(a/)ng_ [[caang1]]
+###+ 罉1 | _(1)Ch(')(a/)ng_ (caang1)
 
 $$
 R
@@ -201,7 +201,7 @@ C
   ==
 $$
 
-###+ 鐺1 | _(1)Ch(')(a/)ng_ [[caang1]]
+###+ 鐺1 | _(1)Ch(')(a/)ng_ (caang1)
 
 $$
 R
@@ -232,7 +232,7 @@ E
     ++
   ====
   --
-  Olden attestation for 鐺 _(1)ch(')ang_ [[cang1]] or _(1)ch(')(a/)ng_ [[caang1]] meaning "pot":
+  Olden attestation for 鐺 _(1)ch(')ang_ (cang1) or _(1)ch(')(a/)ng_ (caang1) meaning "pot":
   --
   ==
   - ::B2.w228a0405 (:楚庚切:) 鎗 (:鼎類:)::
@@ -246,9 +246,9 @@ E
   The full story is that:
   --
   ==
-  - The original character is 鎗, read _(1)ch(')ang_ [[cang1]],
+  - The original character is 鎗, read _(1)ch(')ang_ (cang1),
     meaning a pot with legs.
-  - Later, 鐺 (otherwise read _(1)tong_ [[dong1]], an onomatopoeia for bells),
+  - Later, 鐺 (otherwise read _(1)tong_ (dong1), an onomatopoeia for bells),
     is used vulgarly for 鎗.
   - Later, the character 罉 is created for the Cantonese vernacular sense
     of flat-bottomed pot.
@@ -256,7 +256,7 @@ E
 $$
 
 
-##{#2 .modern} (2)Ch(')(a/)ng [[caang2 陰上]]
+##{#2 .modern} (2)Ch(')(a/)ng (caang2 陰上)
 
 <## tone-2-characters ##>
 <nav class="sideways">
@@ -266,7 +266,7 @@ $$
 </nav>
 <## /tone-2-characters ##>
 
-###+ 橙2 | _(2)Ch(')(a/)ng_ [[caang2]]
+###+ 橙2 | _(2)Ch(')(a/)ng_ (caang2)
 
 $$
 R
@@ -374,7 +374,7 @@ S
   ==
 $$
 
-###+ 𨅝3 [[⿰𧾷牚]] | _Ch(')(a/)ng(3)_ [[caang3]]
+###+ 𨅝3 (⿰𧾷牚) | _Ch(')(a/)ng(3)_ (caang3)
 
 $$
 R
@@ -467,7 +467,7 @@ S
   ==
 $$
 
-###+ 棖4 | _(4)Ch(')(a/)ng_ [[caang4]]
+###+ 棖4 | _(4)Ch(')(a/)ng_ (caang4)
 
 $$
 R
@@ -482,9 +482,9 @@ W
   [[Not present]]
 C
   ==
-  - Fan Wan entry: Strictly, 棖 should be read _(4)ch(')(e/)ung_ [[coeng4]]
+  - Fan Wan entry: Strictly, 棖 should be read _(4)ch(')(e/)ung_ (coeng4)
     (per Kangxi 《唐韻古音》直良切音長) for the name 申棖.
-  - The reading _(4)ch(')(a/)ng_ [[caang4]] for 棖 is not present in Williams;
+  - The reading _(4)ch(')(a/)ng_ (caang4) for 棖 is not present in Williams;
     an entry is included here for completeness.
     ++
     1. A door-post.
@@ -541,7 +541,7 @@ S
   ==
 $$
 
-###+ 𥋇4 [[⿰目掌]] | _(4)Ch(')(a/)ng_ [[caang4]]
+###+ 𥋇4 (⿰目掌) | _(4)Ch(')(a/)ng_ (caang4)
 
 $$
 R

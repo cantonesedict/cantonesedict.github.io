@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cang
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -90,7 +90,7 @@ W
   ====
 C
   ==
-  - Williams' 重一層: Corrected _chung(6)_ [[zung6 去聲]] to _(5)ch(')ung_ [[cung5 上聲]].
+  - Williams' 重一層: Corrected _chung(6)_ (zung6 去聲) to _(5)ch(')ung_ (cung5 上聲).
   ==
 $$
 

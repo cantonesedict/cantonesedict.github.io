@@ -11,13 +11,13 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~36* (Chun) and Page~600 (Tsun) of the original onwards.]]
+(From Page~36* (Chun) and Page~600 (Tsun) of the original onwards.)
 --
 
 #{.williams} Chun. Tsun. [[zeon]]
 
 <nav class="sideways">
 =={.modern}
-- [[Work in progress]]
+- (Work in progress)
 ==
 </nav>

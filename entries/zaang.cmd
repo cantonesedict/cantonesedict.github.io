@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaang
-* %date-modified --> 2024-05-01
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -81,7 +81,7 @@ S
   ==
 $$
 
-###+ 棦1 | _(1)Ch(a/)ng_ [[zaang1]]
+###+ 棦1 | _(1)Ch(a/)ng_ (zaang1)
 
 $$
 R
@@ -127,7 +127,7 @@ S
   ==
 $$
 
-###+ 琤1 | _(1)Ch(a/)ng_ [[zaang1]]
+###+ 琤1 | _(1)Ch(a/)ng_ (zaang1)
 
 $$
 R
@@ -151,7 +151,7 @@ S
   ==
 $$
 
-###+ 箏1 | _(1)Ch(a/)ng_ [[zaang1]]
+###+ 箏1 | _(1)Ch(a/)ng_ (zaang1)
 
 $$
 R
@@ -239,7 +239,7 @@ E
   ====
 $$
 
-###+ 踭1 | _(1)Ch(a/)ng_ [[zaang1]]
+###+ 踭1 | _(1)Ch(a/)ng_ (zaang1)
 
 $$
 R
@@ -266,7 +266,7 @@ C
   ==
 $$
 
-###+ 錚1 | _(1)Ch(a/)ng_ [[zaang1]]
+###+ 錚1 | _(1)Ch(a/)ng_ (zaang1)
 
 $$
 R
@@ -288,7 +288,7 @@ S
 $$
 
 
-##{#3 .modern} Ch(a/)ng(3) [[zaang3 陰去]]
+##{#3 .modern} Ch(a/)ng(3) (zaang3 陰去)
 
 <## tone-3-characters ##>
 <nav class="sideways">
@@ -298,7 +298,7 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
-###+ 諍3 | _Ch(a/)ng(3)_ [[zaang3]]
+###+ 諍3 | _Ch(a/)ng(3)_ (zaang3)
 
 $$
 R
@@ -322,7 +322,7 @@ S
 $$
 
 
-##{#6 .modern} Ch(a/)ng(6) [[zaang6 陽去]]
+##{#6 .modern} Ch(a/)ng(6) (zaang6 陽去)
 
 <## tone-6-characters ##>
 <nav class="sideways">

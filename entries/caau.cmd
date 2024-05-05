@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caau
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -92,7 +92,7 @@ W
   ====
 $$
 
-###+ 鈔1 | _(1)Ch(')(a/)u_ [[caau1]]
+###+ 鈔1 | _(1)Ch(')(a/)u_ (caau1)
 
 $$
 R
@@ -133,8 +133,8 @@ W
   ====
 C
   ==
-  - Both the level reading 楚交切 _(1)ch(')(a/)u_ [[caau1]]
-    and the departing reading 初敎切 _ch(')(a/)u(3)_ [[caau3]]
+  - Both the level reading 楚交切 _(1)ch(')(a/)u_ (caau1)
+    and the departing reading 初敎切 _ch(')(a/)u(3)_ (caau3)
     are attested in 《廣韻》.
   ==
 S
@@ -232,7 +232,7 @@ W
   ====
 C
   ==
-  - Williams' 炒咖啡: Changed dated _(1)k(a/) (1)f(i/)_ [[gaa1 fi1]] to modern _k(a/)(3) (1)f(e/)_ [[gaa3 fe1]].
+  - Williams' 炒咖啡: Changed dated _(1)k(a/) (1)f(i/)_ (gaa1 fi1) to modern _k(a/)(3) (1)f(e/)_ (gaa3 fe1).
   - Williams' 炒賣: Now means to buy speculatively and sell.
   ==
 E
@@ -276,7 +276,7 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
-###+ 摷3 | _Ch(')(a/)u(3)_ [[caau3]]
+###+ 摷3 | _Ch(')(a/)u(3)_ (caau3)
 
 $$
 R
@@ -391,7 +391,7 @@ W
   ====
 C
   ==
-  - Williams' 好似阿婆皮咁巢: Corrected _(2)ts(')z'_ [[ci2]] to _(5)ts(')z'_ [[ci5]].
+  - Williams' 好似阿婆皮咁巢: Corrected _(2)ts(')z'_ (ci2) to _(5)ts(')z'_ (ci5).
   ==
 E
   ====

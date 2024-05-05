@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaau
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -135,7 +135,7 @@ $$
 </nav>
 <## /tone-2-characters ##>
 
-###+ 帚2 | _(2)Ch(a/)u_ [[zaau2]]
+###+ 帚2 | _(2)Ch(a/)u_ (zaau2)
 
 $$
 R
@@ -321,7 +321,7 @@ E
   ====
 $$
 
-###+ 箒2 | _(2)Ch(a/)u_ [[zaau2]]
+###+ 箒2 | _(2)Ch(a/)u_ (zaau2)
 
 $$
 R
@@ -345,7 +345,7 @@ S
   ==
 $$
 
-###+ 肘2 | _(2)Ch(a/)u_ [[zaau2]]
+###+ 肘2 | _(2)Ch(a/)u_ (zaau2)
 
 $$
 R
@@ -458,7 +458,7 @@ S
   ==
 $$
 
-###+ 㷹3 | _Ch(a/)u(3)_ [[zaau3]]
+###+ 㷹3 | _Ch(a/)u(3)_ (zaau3)
 
 $$
 R
@@ -489,7 +489,7 @@ W
 C
   ==
   - The deep-fry sense is very dated; $炸zaa3 is now preferred.
-  - Williams' 㷹到脆: Corrected _(2)t(o\)_ [[dou2]] to _t(o\)(3)_ [[dou3]].
+  - Williams' 㷹到脆: Corrected _(2)t(o\)_ (dou2) to _t(o\)(3)_ (dou3).
   ==
 $$
 
@@ -558,7 +558,7 @@ C
   ==
   - Fan Wan entry: Normalised headword 𦋇 (⿱罓卓) to 罩.
   - Williams entry: Normalised headword 𦋇 (⿱罓卓) to 罩.
-  - Williams' 轎罩: Corrected _(5)ki(u/)_ [[giu6-5]] to _(2)ki(u/)_ [[giu6-2]].
+  - Williams' 轎罩: Corrected _(5)ki(u/)_ (giu6-5) to _(2)ki(u/)_ (giu6-2).
   ==
 $$
 
@@ -616,7 +616,7 @@ S
 $$
 
 
-##{#6 .modern} Ch(a/)u(6) [[zaau6 陽去]]
+##{#6 .modern} Ch(a/)u(6) (zaau6 陽去)
 
 <## tone-6-characters ##>
 <nav class="sideways">
@@ -628,7 +628,7 @@ $$
 </nav>
 <## /tone-6-characters ##>
 
-###+ 棹6 | _Ch(a/)u(6)_ [[zaau6]]
+###+ 棹6 | _Ch(a/)u(6)_ (zaau6)
 
 $$
 R
@@ -656,7 +656,7 @@ S
 <## TODO: 棹忌 zaau6 gei6 ##>
 $$
 
-###+ 櫂6 | _Ch(a/)u(6)_ [[zaau6]]
+###+ 櫂6 | _Ch(a/)u(6)_ (zaau6)
 
 $$
 R
@@ -714,7 +714,7 @@ S
   ==
 $$
 
-###+ 驟6 | _Ch(a/)u(6)_ [[zaau6]]
+###+ 驟6 | _Ch(a/)u(6)_ (zaau6)
 
 $$
 R

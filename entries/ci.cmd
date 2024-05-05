@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2024-05-03
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 <nav class="sideways">
 =={.modern}
-- [[Work in progress]]
+- (Work in progress)
 ==
 </nav>
 
@@ -157,7 +157,7 @@ C
   ==
   - Fan Wan entry: Normalised headword 𡟎 (⿰女虽) to 媸.
   - Williams misprints 媸 as 𡟎 (⿰女⿱山虫).
-  - Williams' 妍媸自見: Corrected _k(i/)n(6)_ [[gin6]] to _(i/)n(6)_ [[jin6]].
+  - Williams' 妍媸自見: Corrected _k(i/)n(6)_ (gin6) to _(i/)n(6)_ (jin6).
   ==
 $$
 
@@ -191,7 +191,7 @@ S
   ==
 $$
 
-###+ 疵1 | _(1)Ts(')z'_ [[ci1]]
+###+ 疵1 | _(1)Ts(')z'_ (ci1)
 
 $$
 R
@@ -309,8 +309,8 @@ W
 C
   ==
   - Fan Wan entry: Corrected 土 to 上.
-  - Williams' 癡拙噉穿亂處: Corrected _k(o\)m(3)_ [[gam3]] to _(2)k(o\)m_ [[gam2]].
-  - Williams' 癡迷不醒: Corrected _(4)m(a/)i_ [[maai4]] to _(4)mai_ [[mai4]].
+  - Williams' 癡拙噉穿亂處: Corrected _k(o\)m(3)_ (gam3) to _(2)k(o\)m_ (gam2).
+  - Williams' 癡迷不醒: Corrected _(4)m(a/)i_ (maai4) to _(4)mai_ (mai4).
   ==
 $$
 
@@ -497,7 +497,7 @@ C
   ==
 $$
 
-###+ 骴1 | _(1)Ts(')z'_ [[ci1]]
+###+ 骴1 | _(1)Ts(')z'_ (ci1)
 
 $$
 R
@@ -643,7 +643,7 @@ E
     ++
   ====
   --
-  Olden attestation for 黐 _(1)ch(')(i/)_ [[ci1]] meaning "glue",
+  Olden attestation for 黐 _(1)ch(')(i/)_ (ci1) meaning "glue",
   hence "sticky":
   --
   ==
@@ -654,7 +654,7 @@ E
   ==
 $$
 
-###+ 齝1 | _(1)Ch(')(i/)_ [[ci1]]
+###+ 齝1 | _(1)Ch(')(i/)_ (ci1)
 
 $$
 R
@@ -809,7 +809,7 @@ W
   ====
 C
   ==
-  - Williams' "like a fish": Kangxi reads _(2)t(e/)_ [[de2]],
+  - Williams' "like a fish": Kangxi reads _(2)t(e/)_ (de2),
     quoting 《集韻》丁寫切爹上聲魚口張貌.
   ==
 S
@@ -890,7 +890,7 @@ W
   ====
 C
   ==
-  - Rising tone is expected from Middle Chinese 施是切 _(2)sh(i/)_ [[si2]],
+  - Rising tone is expected from Middle Chinese 施是切 _(2)sh(i/)_ (si2),
     but level tone ci4 is commonly heard (possibly from analogy with 池, 馳).
   ==
 S
@@ -986,10 +986,10 @@ C
   - The reading ci2 is not unattested; Kangxi quotes 《正韻》尺里切音侈.
   - Williams' "with the same meanings": This is not quite correct.
     ==
-    - 杝 read _(4)(i/)_ [[ji4]] is the name of a tree, see $杝ji4.
-    - 杝 read _(4)l(i/)_ [[lei4]] is used for 離.
-    - 杝 read _(4)t(')o_ [[to4]] is probably a mistaken parsing
-      by Williams of 託何切音佗 _(1)t(')o_ [[to1]],
+    - 杝 read _(4)(i/)_ (ji4) is the name of a tree, see $杝ji4.
+    - 杝 read _(4)l(i/)_ (lei4) is used for 離.
+    - 杝 read _(4)t(')o_ (to4) is probably a mistaken parsing
+      by Williams of 託何切音佗 _(1)t(')o_ (to1),
       which is the only reading having the same meaning
       of "splitting with the grain"
       (Kangxi quotes 《詩小雅》伐木掎矣析薪杝矣 for this reading).
@@ -1026,7 +1026,7 @@ S
   ==
 $$
 
-###+ 柿2 | _(2)Ts(')z'_ [[ci2]]
+###+ 柿2 | _(2)Ts(')z'_ (ci2)
 
 $$
 R
@@ -1160,7 +1160,7 @@ C
   ==
 $$
 
-###+ 褫2 | _(2)Ch(')(i/)_ [[ci2]]
+###+ 褫2 | _(2)Ch(')(i/)_ (ci2)
 
 $$
 R
@@ -1399,7 +1399,7 @@ W
 C
   ==
   - Williams' 行刺: Metaphorically, to assassinate.
-  - Williams' 鏨刺: Corrected _(5)ts(a/)m_ [[zaam5]] to _(5)ts(')(a/)m_ [[caam5]].
+  - Williams' 鏨刺: Corrected _(5)ts(a/)m_ (zaam5) to _(5)ts(')(a/)m_ (caam5).
   ==
 $$
 
@@ -1934,7 +1934,7 @@ W
   ====
 $$
 
-###+ 弛4 | _(4)Ch(')(i/)_ [[ci4]]
+###+ 弛4 | _(4)Ch(')(i/)_ (ci4)
 
 $$
 R
@@ -2111,13 +2111,13 @@ W
   ====
 C
   ==
-  - Williams' 城池: Changed _(4)sheng_ [[seng4]]
-    to literary reading _(4)shing_ [[sing4]].
+  - Williams' 城池: Changed _(4)sheng_ (seng4)
+    to literary reading _(4)shing_ (sing4).
   - Williams' 酒池肉林: Originally used to describe the excesses of 紂王.
   ==
 $$
 
-###+ 治4 | _(4)Ch(')(i/)_ [[ci4]]
+###+ 治4 | _(4)Ch(')(i/)_ (ci4)
 
 $$
 R
@@ -2138,7 +2138,7 @@ C
   ==
   - Also the classical reading for verb senses of govern.
     Notwithstanding, in modern usage,
-    the level-tone reading _(4)ch(')(i/)_ [[ci4]] is considered obsolete.
+    the level-tone reading _(4)ch(')(i/)_ (ci4) is considered obsolete.
     See $治zi6 for commentary.
   ==
 S
@@ -2147,7 +2147,7 @@ S
   ==
 $$
 
-###+ 瓷4 | _(4)Ts(')z'_ [[ci4]]
+###+ 瓷4 | _(4)Ts(')z'_ (ci4)
 
 $$
 R
@@ -2305,7 +2305,7 @@ W
   ====
 $$
 
-###+ 糍4 | _(4)Ts(')z'_ [[ci4]]
+###+ 糍4 | _(4)Ts(')z'_ (ci4)
 
 $$
 R
@@ -2393,7 +2393,7 @@ W
   ====
 $$
 
-###+ 茲4 | _(4)Ts(')z'_ [[ci4]]
+###+ 茲4 | _(4)Ts(')z'_ (ci4)
 
 $$
 R
@@ -2406,7 +2406,7 @@ W
   [[Not present]]
 C
   ==
-  - The reading _(4)ts(')z'_ [[ci4]] for 茲 is not present in Williams;
+  - The reading _(4)ts(')z'_ (ci4) for 茲 is not present in Williams;
     an entry is included here for completeness.
     ++
     1. Used in 龜茲 (Kucha, the name of a kingdom).
@@ -2581,7 +2581,7 @@ W
   ====
 C
   ==
-  - Williams' 辭帖, 辭行帖: Corrected _t(')(i/)p(9)_ [[tip6]] to _t(')(i/)p(8)_ [[tip3]].
+  - Williams' 辭帖, 辭行帖: Corrected _t(')(i/)p(9)_ (tip6) to _t(')(i/)p(8)_ (tip3).
   ==
 $$
 
@@ -2728,7 +2728,7 @@ W
   ====
 $$
 
-###+ 鶿4 | _(4)Ts(')z'_ [[ci4]]
+###+ 鶿4 | _(4)Ts(')z'_ (ci4)
 
 $$
 R
@@ -2899,7 +2899,7 @@ C
   ==
 $$
 
-###+ 柿5 | _(5)Ts(')z'_ [[ci5]]
+###+ 柿5 | _(5)Ts(')z'_ (ci5)
 
 $$
 R

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2024-04-28
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -167,7 +167,7 @@ W
   ====
 C
   ==
-  - Williams' 你試猜一吓: Corrected _h(a/)(6)_ [[haa6]] to _(5)h(a/)_ [[haa5]].
+  - Williams' 你試猜一吓: Corrected _h(a/)(6)_ (haa6) to _(5)h(a/)_ (haa5).
   ==
 $$
 
@@ -217,7 +217,7 @@ $$
 </nav>
 <## /tone-2-characters ##>
 
-###+ 踩2 | _(2)Ch(')(a/)i_ [[caai2]]
+###+ 踩2 | _(2)Ch(')(a/)i_ (caai2)
 
 $$
 R
@@ -300,7 +300,7 @@ W
   ====
 C
   ==
-  - Williams' "Also read [...]": Corrected _(2)t(u")n_ [[dyun2]] to _t(u")n(3)_ [[dyun3]].
+  - Williams' "Also read [...]": Corrected _(2)t(u")n_ (dyun2) to _t(u")n(3)_ (dyun3).
   - See $踩caai2 for commentary on 踩 versus 踹.
   ==
 S

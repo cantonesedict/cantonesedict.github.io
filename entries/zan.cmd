@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zan
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -209,7 +209,7 @@ C
     In modern non-Taoist usage this sense is now obsolete,
     and 真人 now simply means "real person".
   - Williams' 真贓正犯:
-    Corrected _fan(6)_ [[fan6]] to _f(a/)n(6)_ [[faan6]].
+    Corrected _fan(6)_ (fan6) to _f(a/)n(6)_ (faan6).
   ==
 $$
 
@@ -404,7 +404,7 @@ W
   ====
 $$
 
-###+ 鎮3 | _Chan(3)_ [[zan3]]
+###+ 鎮3 | _Chan(3)_ (zan3)
 
 $$
 R
@@ -508,7 +508,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected ⿰亻瞿 to 懼.
-  - Williams' 震驚: Corrected _(1)keng_ [[geng1]] to _(1)king_ [[ging1]].
+  - Williams' 震驚: Corrected _(1)keng_ (geng1) to _(1)king_ (ging1).
   ==
 E
   ====
@@ -603,7 +603,7 @@ W
 C
   ==
   - Williams' 一陣陣冷:
-    Changed Middle Chinese _(5)lang_ [[lang5]] to common reading _(5)l(a/)ng_ [[laang5]].
+    Changed Middle Chinese _(5)lang_ (lang5) to common reading _(5)l(a/)ng_ (laang5).
   - Williams' 使女人陣: Literally, "employ [the] women's formation".
   - Williams' 陣勢: Figuratively, the situation of the battle.
   ==

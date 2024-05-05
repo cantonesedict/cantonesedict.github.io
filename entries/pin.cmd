@@ -11,13 +11,13 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~373 of the original onwards.]]
+(From Page~373 of the original onwards.)
 --
 
 #{.williams} P(')(i/)n. [[pin]]
 
 <nav class="sideways">
 =={.modern}
-- [[Work in progress]]
+- (Work in progress)
 ==
 </nav>

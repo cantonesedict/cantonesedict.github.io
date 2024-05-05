@@ -11,13 +11,13 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~403 (Sai) and Page~416 (Shai) of the original onwards.]]
+(From Page~403 (Sai) and Page~416 (Shai) of the original onwards.)
 --
 
 #{.williams} Sai. Shai. [[sai]]
 
 <nav class="sideways">
 =={.modern}
-- [[Work in progress]]
+- (Work in progress)
 ==
 </nav>

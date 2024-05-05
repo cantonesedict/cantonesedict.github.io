@@ -60,6 +60,7 @@ class Updater:
         Updater._check_post_tone_commas_heuristic(entry_cmd_name, old_cmd_content)
         Updater._check_williams_romanisation_heuristic(entry_cmd_name, old_cmd_content)
         Updater._check_jyutping_romanisation_heuristic(entry_cmd_name, old_cmd_content)
+        Updater._check_insertion_context(entry_cmd_name, old_cmd_content)
 
         tone_syllable_list = Updater._gather_tone_syllable_list(old_cmd_content)
         navigation_tones = Updater._gather_navigation_tones(old_cmd_content)
@@ -118,7 +119,7 @@ class Updater:
     @staticmethod
     def _check_post_tone_commas_heuristic(entry_cmd_name, cmd_content):
         extraneous_context_match = re.search(
-            pattern=r"_ [^_\n]+? (?: \([36789]\) | ' ) _ \s* \[\[ .+? \]\] ,",
+            pattern=r"_ [^_\n]+? (?: \([36789]\) | ' ) _ \s* (?: \( | \[\[ ) .+? (?: \) | \]\] ) ,",
             string=cmd_content,
             flags=re.VERBOSE,
         )
@@ -132,7 +133,7 @@ class Updater:
             sys.exit(1)
 
         missing_context_match = re.search(
-            pattern=r"_ [^_\n]+? \([1245]\)\S+[^'] _ \s* \[\[ .+? \]\] $",
+            pattern=r"_ [^_\n]+? \([1245]\)\S+[^'] _ \s* (?: \( | \[\[ ) .+? (?: \) | \]\] ) $",
             string=cmd_content,
             flags=re.MULTILINE | re.VERBOSE,
         )
@@ -237,9 +238,44 @@ class Updater:
         )
 
     @staticmethod
+    def _check_insertion_context(entry_cmd_name, cmd_content):
+        nonexempt_cmd_content = re.sub(
+            pattern=r'''
+                ^ \# \{ \.williams \} .*
+                    |
+                ^ \#\# \{ \#[1-6] [ ] \.williams \} .*
+                    |
+                ^ \#\#\# [ ] .*
+                    |
+                ^ (WH | A | F | W) \n (?: [ ]{2} .* \n )+
+                    |
+                ^ \-\- \{ \.williams \} \n [\s\S]*? \n \-\- \n
+            ''',
+            repl='',
+            string=cmd_content,
+            flags=re.MULTILINE | re.VERBOSE,
+        )
+        non_contextual_insertion_contexts = re.findall(
+            pattern=r'.* \[\[ [\s\S]*? \]\] | <ins.*> .*',
+            string=nonexempt_cmd_content,
+            flags=re.MULTILINE | re.VERBOSE,
+        )
+        if non_contextual_insertion_contexts:
+            print(
+                f'Error in `{entry_cmd_name}`: non-contextual insertions {non_contextual_insertion_contexts}',
+                file=sys.stderr,
+            )
+            sys.exit(1)
+
+    @staticmethod
     def _gather_tone_syllable_list(cmd_content):
         return re.findall(
-            pattern=r'^ \#\# \{ \#(?P<tone> [1-6] ) .* \[\[ (?P<syllable> [a-z]+ )(?P=tone) .* \]\] $',
+            pattern=r'''
+                ^ \#\# \{ \#(?P<tone> [1-6] ) .*
+                (?: \( | \[\[ )
+                (?P<syllable> [a-z]+ )(?P=tone) .*
+                (?: \) | \]\] ) $
+            ''',
             string=cmd_content,
             flags=re.MULTILINE | re.VERBOSE,
         )
@@ -292,7 +328,7 @@ class Updater:
                         fr'^ \#\#\# [+]? [ ] \[? (?P<character> \S ) \]? {tone} (?P<etc> .*? )'
                         fr'[ ][|][ ]'
                         fr'.*?'
-                        fr'\[\[ {syllable}{tone} \]\] $'
+                        fr'(?: \( | \[\[ ) {syllable}{tone} (?: \) | \]\] ) $'
                     ),
                     string=cmd_content,
                     flags=re.MULTILINE | re.VERBOSE,
@@ -617,25 +653,27 @@ class Page:
             )
             for match in re.finditer(
                 pattern=(
-                    r'^#{3}[+]?'
+                    r'^ [#]{3} [+]? '
                     r'[ ]'
-                    r'\[?(?P<character>\S)\]?.'
-                    r'(?:[ ]\[\[(?P<composition>.+?)\]\])?'
+                    r'\[? (?P<character> \S ) \]? .'
+                    r'(?: [ ] (?: \( | \[\[ ) (?P<composition> .+? ) (?: \) | \]\] ) )?'
                     r'[ ][|][ ]'
                     r'.*?'
-                    r'\[\[(?P<jyutping>[a-z]+?[1-6])\]\]'
+                    r'(?: \( | \[\[ )'
+                    r'(?P<jyutping> [a-z]+? [1-6] )'
+                    r'(?: \) | \]\] )'
                     r'\n\n'
-                    r'[$]{2}\n'
+                    r'[$]{2} \n'
                     r'(?P<content>'
-                    r'R\n'
-                    r'[ ]{2}(?P<radical>\S)[ ][+][ ](?P<residual_stroke_count>[0-9]+)\n'
-                    r'U\n'
-                    r'[ ]{2}(?P<code_point>U[+][0-9A-F]{4,5})$'
-                    r'[\s\S]*?\n'
-                    r')[$]{2}'
+                    r'R \n'
+                    r'[ ]{2} (?P<radical> \S ) [ ][+][ ] (?P<residual_stroke_count> [0-9]+ ) \n'
+                    r'U \n'
+                    r'[ ]{2} (?P<code_point> U[+][0-9A-F]{4,5} ) $'
+                    r'[\s\S]*? \n'
+                    r') [$]{2}'
                 ),
                 string=cmd_content,
-                flags=re.MULTILINE,
+                flags=re.MULTILINE | re.VERBOSE,
             )
         ]
 

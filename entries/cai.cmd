@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -123,8 +123,8 @@ W
 C
   ==
   - Williams' 娶妻:
-    Changed Middle Chinese _ts(')(u")(3)_ [[ceoi3]]
-    to common reading _(2)ts(')(u")_ [[ceoi2]].
+    Changed Middle Chinese _ts(')(u")(3)_ (ceoi3)
+    to common reading _(2)ts(')(u")_ (ceoi2).
   ==
 S
   ==
@@ -476,7 +476,7 @@ $$
 </nav>
 <## /tone-4-characters ##>
 
-###+ 懠4 | _(4)Ts(')ai_ [[cai4]]
+###+ 懠4 | _(4)Ts(')ai_ (cai4)
 
 $$
 R
