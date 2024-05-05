@@ -196,6 +196,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $値6
+- $值6
 - $直6
 ==
 </nav>
@@ -214,7 +215,7 @@ F
   ==
 W
   ====
-  - [[Page~10* 値(6)]]
+  - [[Page~10* 値(9)]]
     --
     [[Alternative form of 值. **See $值zik6 for the canonical entry.**]]
     --
@@ -222,6 +223,60 @@ W
 S
   ==
   - $値zi6
+  ==
+$$
+
+###+ 值6 | _Chik(9)_ (zik6)
+
+$$
+R
+  ⼈ + 8
+U
+  U+503C
+A
+  ==
+  - $値6
+  ==
+F
+  ==
+  - [[F1.78 値]] 適也遇也又音滯
+  ==
+W
+  ====
+  - [[Page~10* 値(9); here normalised to 值]]
+    ==
+    - Price, value, worth of;
+    - just;
+    - to meet;
+    - happened, chanced, occurred;
+    - a turn, to hold in the hand;
+    - to manage, to attend to;
+    - _chik(9) (4)'m chik(9)_
+        [[zik6 m4 zik6 值唔值]]
+        is this cheap or not?
+    - _(4)'m chik(9) yat(7) ko(3) (4)ts(')(i/)n_
+        [[m4 zik6 jat1 go3 cin4 唔值一個錢]],
+        not worth a cash;
+    - _(4)'m chik(9) (4)ts(')(i/)n_
+        [[m4 zik6 cin4-2 唔值錢]],
+        not worth much;
+    - _shik(7) chik(9)_
+        [[sik1 zik6 適值]]
+        it happened;
+    - _chik(9) yat(9)_
+        [[zik6 jat6 值日]]
+        ruling days, are days when certain officers serve in rotation;
+    - _chik(9) sz'(6)_
+        [[zik6 si6 值事]]
+        do it in turn;
+    - _(4)'m (2)h(o\) chik(9) (u")(6)_
+        [[m4 hou2 zik6 jyu6 唔好值遇]]
+        an unlucky event.
+    ==
+  ====
+S
+  ==
+  - $值zi6
   ==
 $$
 
