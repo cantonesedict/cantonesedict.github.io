@@ -11,10 +11,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[Not present in the original ''Tonic Dictionary''.]]
+(Not present in the original ''Tonic Dictionary''.)
 --
 
-#{.modern} [[fe]]
+#{.modern} (fe)
 
 <nav class="sideways">
 =={.modern}

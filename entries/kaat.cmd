@@ -11,10 +11,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[Not present in the original ''Tonic Dictionary''.]]
+(Not present in the original ''Tonic Dictionary''.)
 --
 
-#{.modern} K(')(a/)t. [[kaat]]
+#{.modern} K(')(a/)t. (kaat)
 
 <nav class="sideways">
 =={.modern}
