@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2024-05-04
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -376,7 +376,7 @@ W
   ====
 C
   ==
-  - Williams' 磨漿: Corrected _m(o\)(6)_ [[mou6]] to _mo(6)_ [[mo6]].
+  - Williams' 磨漿: Corrected _m(o\)(6)_ (mou6) to _mo(6)_ (mo6).
   ==
 $$
 
@@ -748,7 +748,7 @@ W
   ====
 C
   ==
-  - Williams' 蔣茅: Corrected _(4)mau_ [[mau4]] to _(4)m(a/)u_ [[maau4]].
+  - Williams' 蔣茅: Corrected _(4)mau_ (mau4) to _(4)m(a/)u_ (maau4).
   ==
 S
   ==
@@ -891,7 +891,7 @@ W
   ====
 C
   ==
-  - Williams' 老將: Corrected _(2)l(o\)_ [[lou2]] to _(5)l(o\)_ [[lou5]].
+  - Williams' 老將: Corrected _(2)l(o\)_ (lou2) to _(5)l(o\)_ (lou5).
     Specifically an old soldier, a veteran.
   ==
 S
@@ -1294,7 +1294,7 @@ W
 C
   ==
   - Williams' 141~English inches:
-    The Ts(')ing Dynasty _ch(')ek_ [[尺]] was only standardised to 14⅝~inches
+    The Ts(')ing Dynasty _ch(')ek_ (尺) was only standardised to 14⅝~inches
     by the British in Hong Kong in [Ordinance No.~8 of 1885].
   ==
 $$
@@ -1500,8 +1500,8 @@ W
   ====
 C
   ==
-  - Williams' 錫杖: Change Middle Chinese _sik(7)_ [[sik1]]
-    to common reading _sek(8)_ [[sek3]].
+  - Williams' 錫杖: Change Middle Chinese _sik(7)_ (sik1)
+    to common reading _sek(8)_ (sek3).
   ==
 $$
 
@@ -1568,7 +1568,7 @@ W
   [[Not present]]
 C
   ==
-  - The reading _ch(e/)ung(6)_ [[zoeng6]] for 長 is not present in Williams;
+  - The reading _ch(e/)ung(6)_ (zoeng6) for 長 is not present in Williams;
     an entry is included here for completeness.
     ++
     1. Excess or surplus.
