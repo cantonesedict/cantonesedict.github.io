@@ -1292,6 +1292,7 @@ $$
 - $刺3
 - $啻3
 - $幟3
+- $廁3
 - $恣3
 - $懥3
 - $朿3
@@ -1460,6 +1461,38 @@ W
     - a flag, a streamer or pennon, long and fringed;
     - to tie or sew on fringes, as a signal;
     - to signalize.
+    ==
+  ====
+$$
+
+### 廁3 | _Ts(')z'(3)_ [[ci3]]
+
+$$
+R
+  ⼴ + 9
+U
+  U+5EC1
+A
+  ==
+  - $厠3
+  ==
+F
+  ==
+  - [[F2.35 厠]] 囷厠糞也
+  ==
+W
+  ====
+  - [[Page~617 廁(3)厠(3)]]
+    ==
+    - To cleanse, to wash;
+    - a place which must be kept clean;
+    - a privy, a necessary;
+    - in order, to put in proper places, as guests;
+    - a gorge, where a stream forces its way;
+    - _ts(')z'(3) (1)h(a/)ng_ [[ci3 haang1 廁坑]]^
+        or
+      _ts(')z'(3) (2)sho_ [[ci3 so2 廁所]],
+        a privy.
     ==
   ====
 $$
