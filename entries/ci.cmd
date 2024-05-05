@@ -1303,6 +1303,7 @@ $$
 - $糦3
 - $翄3
 - $翅3
+- $蛓3
 - $螆3
 - $賜3
 - $饎3
@@ -1786,6 +1787,35 @@ W
 C
   ==
   - Williams' 展翅: More spreading than flapping.
+  ==
+$$
+
+###+ 蛓3 | _Ts(')z'(3)_ (ci3)
+
+$$
+R
+  ⾍ + 6
+U
+  U+86D3
+A
+  ==
+  -{.modern} $螆3
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - The reading _ts(')z'(3)_ (ci3) for 蛓 is not present in Williams;
+    an entry is included here for completeness.
+    ++
+    1. A type of hairy caterpillar.
+    ++
+  ==
+S
+  ==
+  - $蛓zi1
   ==
 $$
 
