@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coek
-* %date-modified --> 2024-05-04
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -86,7 +86,7 @@ W
 C
   ==
   - The uncommon reading zoek3 is perhaps following the unaspirated initial
-    in Middle Chinese 竹角切 _chok(8)_ [[zok3]].
+    in Middle Chinese 竹角切 _chok(8)_ (zok3).
   ==
 $$
 
@@ -134,7 +134,7 @@ W
 C
   ==
   - The uncommon reading zoek3 is perhaps following the unaspirated initial
-    in Middle Chinese 竹角切 _chok(8)_ [[zok3]].
+    in Middle Chinese 竹角切 _chok(8)_ (zok3).
   ==
 $$
 
@@ -195,7 +195,7 @@ W
 C
   ==
   - The uncommon reading zoek3 is perhaps following the unaspirated initial
-    in Middle Chinese 竹角切 _chok(8)_ [[zok3]].
+    in Middle Chinese 竹角切 _chok(8)_ (zok3).
   ==
 S
   ==
@@ -224,11 +224,11 @@ W
 C
   ==
   - The character 棹 is only attested in the Middle Chinese rime books
-    under the reading 直敎切 _ch(a/)u(6)_ [[zaau6]]^, explained 檝也 "oar".
+    under the reading 直敎切 _ch(a/)u(6)_ (zaau6)^, explained 檝也 "oar".
     The "name of a tree" sense appears in Kangxi,
     quoting ::《類篇》直角切[...]又木名::;
     while this is in entering tone,
-    the expected reading is _chok(9)_ [[zok6]].
+    the expected reading is _chok(9)_ (zok6).
   ==
 S
   ==
