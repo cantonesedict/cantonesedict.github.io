@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~674 of the original onwards.]]
+(From Page~674 of the original onwards.)
 --
 
 #{.williams} Y(a/)k. [[jaak]]

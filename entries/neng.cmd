@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~313 of the original onwards.]]
+(From Page~313 of the original onwards.)
 --
 
 #{.williams} Neng. [[neng]]

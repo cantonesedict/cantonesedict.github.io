@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~449 (Sho) and Page~469 (So) of the original onwards.]]
+(From Page~449 (Sho) and Page~469 (So) of the original onwards.)
 --
 
 #{.williams} Sho. So. [[so]]

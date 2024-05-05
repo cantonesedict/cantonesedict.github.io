@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~14* (Ch(')ik) and Page~570 (Ts(')ik) of the original onwards.]]
+(From Page~14* (Ch(')ik) and Page~570 (Ts(')ik) of the original onwards.)
 --
 
 #{.williams} Ch(')ik. Ts(')ik. [[cik]]

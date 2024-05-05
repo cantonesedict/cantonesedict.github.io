@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~212 of the original onwards.]]
+(From Page~212 of the original onwards.)
 --
 
 #{.williams} Kwat. [[gwat]]

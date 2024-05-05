@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~215 & Page~720 of the original onwards.]]
+(From Page~215 & Page~720 of the original onwards.)
 --
 
 #{.williams} Kwok. [[gwok]]

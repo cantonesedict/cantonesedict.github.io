@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~94 & Page~717 of the original onwards.]]
+(From Page~94 & Page~717 of the original onwards.)
 --
 
 #{.williams} Hong. [[hong]]

@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~242 of the original onwards.]]
+(From Page~242 of the original onwards.)
 --
 
 #{.williams} Leng. [[leng]]

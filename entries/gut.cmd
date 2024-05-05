@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~200 & Page~720 of the original onwards.]]
+(From Page~200 & Page~720 of the original onwards.)
 --
 
 #{.williams} K(u/)t. [[gut]]

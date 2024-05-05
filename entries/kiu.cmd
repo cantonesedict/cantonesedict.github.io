@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~166 of the original onwards.]]
+(From Page~166 of the original onwards.)
 --
 
 #{.williams} K(')i(u/). [[kiu]]

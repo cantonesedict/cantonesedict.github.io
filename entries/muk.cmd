@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~301 of the original onwards.]]
+(From Page~301 of the original onwards.)
 --
 
 #{.williams} Muk. [[muk]]

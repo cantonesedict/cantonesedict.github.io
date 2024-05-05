@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~191 of the original onwards.]]
+(From Page~191 of the original onwards.)
 --
 
 #{.williams} K(')(u")n. [[kyun]]

@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~36* (Chun) and Page~600 (Tsun) of the original onwards.]]
+(From Page~36* (Chun) and Page~600 (Tsun) of the original onwards.)
 --
 
 #{.williams} Chun. Tsun. [[zeon]]

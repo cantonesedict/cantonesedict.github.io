@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~666 of the original onwards.]]
+(From Page~666 of the original onwards.)
 --
 
 #{.williams} Wang. [[wang]]

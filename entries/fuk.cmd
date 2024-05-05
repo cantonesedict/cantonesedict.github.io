@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~63 & Page~715 of the original onwards.]]
+(From Page~63 & Page~715 of the original onwards.)
 --
 
 #{.williams} Fuk. [[fuk]]

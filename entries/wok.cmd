@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~671 of the original onwards.]]
+(From Page~671 of the original onwards.)
 --
 
 #{.williams} Wok. [[wok]]

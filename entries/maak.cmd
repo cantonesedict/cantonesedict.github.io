@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~273 of the original onwards.]]
+(From Page~273 of the original onwards.)
 --
 
 #{.williams} M(a/)k. [[maak]]

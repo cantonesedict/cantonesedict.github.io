@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~401 of the original onwards.]]
+(From Page~401 of the original onwards.)
 --
 
 #{.williams} P(')ung. [[pung]]

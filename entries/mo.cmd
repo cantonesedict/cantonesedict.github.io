@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~292 of the original onwards.]]
+(From Page~292 of the original onwards.)
 --
 
 #{.williams} Mo. [[mo]]

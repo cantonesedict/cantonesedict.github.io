@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~279 of the original onwards.]]
+(From Page~279 of the original onwards.)
 --
 
 #{.williams} Mat. [[mat]]

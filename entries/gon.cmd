@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~174 of the original onwards.]]
+(From Page~174 of the original onwards.)
 --
 
 #{.williams} Kon. [[gon]]

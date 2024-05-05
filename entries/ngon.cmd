@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~328 of the original onwards.]]
+(From Page~328 of the original onwards.)
 --
 
 #{.williams} Ngon. [[ngon]]

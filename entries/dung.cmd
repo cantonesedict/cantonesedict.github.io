@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~625 of the original onwards.]]
+(From Page~625 of the original onwards.)
 --
 
 #{.williams} Tung. [[dung]]

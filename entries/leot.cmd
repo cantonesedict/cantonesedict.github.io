@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~267 of the original onwards.]]
+(From Page~267 of the original onwards.)
 --
 
 #{.williams} Lut. [[leot]]

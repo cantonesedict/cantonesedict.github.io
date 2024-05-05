@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~220 of the original onwards.]]
+(From Page~220 of the original onwards.)
 --
 
 #{.williams} Lak. [[lak]]

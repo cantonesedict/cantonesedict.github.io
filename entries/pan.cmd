@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~354 of the original onwards.]]
+(From Page~354 of the original onwards.)
 --
 
 #{.williams} P(')an. [[pan]]

@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~337 of the original onwards.]]
+(From Page~337 of the original onwards.)
 --
 
 #{.williams} Nung. [[nung]]

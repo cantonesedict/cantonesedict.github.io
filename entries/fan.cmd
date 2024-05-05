@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~45 & Page~713 of the original onwards.]]
+(From Page~45 & Page~713 of the original onwards.)
 --
 
 #{.williams} Fan. [[fan]]

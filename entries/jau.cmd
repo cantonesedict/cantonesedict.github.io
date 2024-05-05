@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~684 of the original onwards.]]
+(From Page~684 of the original onwards.)
 --
 
 #{.williams} Yau. [[jau]]

@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~584 of the original onwards.]]
+(From Page~584 of the original onwards.)
 --
 
 #{.williams} Ts(o\). [[zou]]

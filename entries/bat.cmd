@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~358 of the original onwards.]]
+(From Page~358 of the original onwards.)
 --
 
 #{.williams} Pat. [[bat]]

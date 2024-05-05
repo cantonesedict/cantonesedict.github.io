@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~23* (Chi(u/)) and Page~580 (Tsi(u/)) of the original onwards.]]
+(From Page~23* (Chi(u/)) and Page~580 (Tsi(u/)) of the original onwards.)
 --
 
 #{.williams} Chi(u/). Tsi(u/). [[ziu]]

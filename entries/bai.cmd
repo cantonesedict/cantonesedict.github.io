@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~346 of the original onwards.]]
+(From Page~346 of the original onwards.)
 --
 
 #{.williams} Pai. [[bai]]

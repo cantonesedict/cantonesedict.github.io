@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~34* (Chuk) and Page~598 (Tsuk) of the original onwards.]]
+(From Page~34* (Chuk) and Page~598 (Tsuk) of the original onwards.)
 --
 
 #{.williams} Chuk. Tsuk. [[zuk]]

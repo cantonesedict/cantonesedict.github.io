@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~617 of the original onwards.]]
+(From Page~617 of the original onwards.)
 --
 
 #{.williams} Tui. T(u/)i. [[deoi]]

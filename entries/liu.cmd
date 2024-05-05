@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~244 of the original onwards.]]
+(From Page~244 of the original onwards.)
 --
 
 #{.williams} Li(u/). [[liu]]

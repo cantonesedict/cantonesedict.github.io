@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~307 of the original onwards.]]
+(From Page~307 of the original onwards.)
 --
 
 #{.williams} Nak. [[nak]]

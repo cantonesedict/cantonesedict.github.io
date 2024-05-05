@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~32* of the original onwards.]]
+(From Page~32* of the original onwards.)
 --
 
 #{.williams} Ch(')(u"). [[cyu]]

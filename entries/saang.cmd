@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~425 of the original onwards.]]
+(From Page~425 of the original onwards.)
 --
 
 #{.williams} Sh(a/)ng. [[saang]]

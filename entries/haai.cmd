@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~69 of the original onwards.]]
+(From Page~69 of the original onwards.)
 --
 
 #{.williams} H(a/)i. [[haai]]

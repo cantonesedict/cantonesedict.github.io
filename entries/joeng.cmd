@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~694 of the original onwards.]]
+(From Page~694 of the original onwards.)
 --
 
 #{.williams} Y(e/)ung. [[joeng]]

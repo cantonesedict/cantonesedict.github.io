@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~311 of the original onwards.]]
+(From Page~311 of the original onwards.)
 --
 
 #{.williams} Nat. [[nat]]

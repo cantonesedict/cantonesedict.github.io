@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~110 of the original onwards.]]
+(From Page~110 of the original onwards.)
 --
 
 #{.williams} (I/)n. [[jin]]

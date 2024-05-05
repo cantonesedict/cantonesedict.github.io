@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~158 of the original onwards.]]
+(From Page~158 of the original onwards.)
 --
 
 #{.williams} King. [[ging]]

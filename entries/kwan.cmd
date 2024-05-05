@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~208 of the original onwards.]]
+(From Page~208 of the original onwards.)
 --
 
 #{.williams} Kw(')an. [[kwan]]

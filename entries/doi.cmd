@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~541 of the original onwards.]]
+(From Page~541 of the original onwards.)
 --
 
 #{.williams} Toi. [[doi]]

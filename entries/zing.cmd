@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~18* (Ching) and Page~575 (Tsing) of the original onwards.]]
+(From Page~18* (Ching) and Page~575 (Tsing) of the original onwards.)
 --
 
 #{.williams} Ching. Tsing. [[zing]]

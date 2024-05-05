@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~96 of the original onwards.]]
+(From Page~96 of the original onwards.)
 --
 
 #{.williams} Hot. [[hot]]

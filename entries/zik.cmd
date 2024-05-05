@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~13* & Page~713 (Chik) and Page~568 (Tsik) of the original onwards.]]
+(From Page~13* & Page~713 (Chik) and Page~568 (Tsik) of the original onwards.)
 --
 
 #{.williams} Chik. Tsik. [[zik]]

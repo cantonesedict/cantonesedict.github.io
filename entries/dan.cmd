@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~501 of the original onwards.]]
+(From Page~501 of the original onwards.)
 --
 
 #{.williams} Tan. [[dan]]

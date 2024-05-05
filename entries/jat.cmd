@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~682 of the original onwards.]]
+(From Page~682 of the original onwards.)
 --
 
 #{.williams} Yat. [[jat]]

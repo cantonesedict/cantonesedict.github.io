@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~442 (Sh(i/)n) and Page~462 (S(i/)n) of the original onwards.]]
+(From Page~442 (Sh(i/)n) and Page~462 (S(i/)n) of the original onwards.)
 --
 
 #{.williams} Sh(i/)n. S(i/)n. [[sin]]

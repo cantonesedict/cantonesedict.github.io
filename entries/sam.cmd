@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~405 (Sam) and Page~418 (Sham) of the original onwards.]]
+(From Page~405 (Sam) and Page~418 (Sham) of the original onwards.)
 --
 
 #{.williams} Sam. Sham. [[sam]]

@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~592 of the original onwards.]]
+(From Page~592 of the original onwards.)
 --
 
 #{.williams} Ts(')ok. [[cok]]

@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~278 of the original onwards.]]
+(From Page~278 of the original onwards.)
 --
 
 #{.williams} Mang. [[mang]]

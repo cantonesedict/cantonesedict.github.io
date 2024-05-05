@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~677 & Page~728 of the original onwards.]]
+(From Page~677 & Page~728 of the original onwards.)
 --
 
 #{.williams} Yan. [[jan]]

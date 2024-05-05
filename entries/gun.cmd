@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~192 & Page~720 of the original onwards.]]
+(From Page~192 & Page~720 of the original onwards.)
 --
 
 #{.williams} K(u/)n. [[gun]]

@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~451 (Shok) and Page~472 (Sok) of the original onwards.]]
+(From Page~451 (Shok) and Page~472 (Sok) of the original onwards.)
 --
 
 #{.williams} Shok. Sok. [[sok]]

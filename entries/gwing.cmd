@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~213 of the original onwards.]]
+(From Page~213 of the original onwards.)
 --
 
 #{.williams} Kwing. [[gwing]]

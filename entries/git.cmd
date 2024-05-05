@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~162 & Page~719 of the original onwards.]]
+(From Page~162 & Page~719 of the original onwards.)
 --
 
 #{.williams} K(i/)t. [[git]]

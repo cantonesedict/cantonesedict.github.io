@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~708 of the original onwards.]]
+(From Page~708 of the original onwards.)
 --
 
 #{.williams} Yun. [[jeon]]

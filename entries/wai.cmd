@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~653 of the original onwards.]]
+(From Page~653 of the original onwards.)
 --
 
 #{.williams} Wai. [[wai]]

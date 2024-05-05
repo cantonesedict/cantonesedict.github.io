@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~49 of the original onwards.]]
+(From Page~49 of the original onwards.)
 --
 
 #{.williams} Fat. [[fat]]

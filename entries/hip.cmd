@@ -11,7 +11,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-[[From Page~84 & Page~716 of the original onwards.]]
+(From Page~84 & Page~716 of the original onwards.)
 --
 
 #{.williams} H(i/)p. [[hip]]
