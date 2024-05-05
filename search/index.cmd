@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Search by character or code point
-* %date-modified --> 2024-02-25
+* %date-modified --> 2024-05-05
 * %copyright-prior-years -->
 * %meta-description --> search by Chinese character or by Unicode code point
 
@@ -24,7 +24,7 @@ OrdinaryDictionaryReplacement: #.search-maximum-character-count
 ||||{.modern .input-container}
 --
 <label for="search">__Search:__</label>
-<input type="text" id="search" onkeyup="performSearch()" placeholder="(up to {SEARCH_MAX_CHAR_COUNT}~chars / 1~code point)">
+<input type="text" id="search" oninput="performSearch()" placeholder="(up to {SEARCH_MAX_CHAR_COUNT}~chars / 1~code point)">
 --
 <noscript>
 --

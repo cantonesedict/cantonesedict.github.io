@@ -20,7 +20,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 ||||{.modern .input-container}
 --
 <label for="filter">__Filter for Jyutping/Term:__</label>
-<input type="text" id="filter" onkeyup="applyFilter()" placeholder="(tones are ignored)">
+<input type="text" id="filter" oninput="applyFilter()" placeholder="(tones are ignored)">
 --
 <noscript>
 --
