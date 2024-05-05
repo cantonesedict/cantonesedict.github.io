@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zat
-* %date-modified --> 2024-05-04
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -87,10 +87,10 @@ W
   ====
 C
   ==
-  - Williams' 只好噉啫: Corrected _(2)ch(e/)_ [[ze2]] to _ch(e/)(3)_ [[ze3]].
-  - In classical terms, the reading _chat(7)_ [[zat1]] for 只 is vulgar;
+  - Williams' 只好噉啫: Corrected _(2)ch(e/)_ (ze2) to _ch(e/)(3)_ (ze3).
+  - In classical terms, the reading _chat(7)_ (zat1) for 只 is vulgar;
     Kangxi quotes 《五音集韻》之日切音質本之爾切無質音今讀若質俗音新增.
-  - In modern terms, the reading _chat(7)_ [[zat1]] is obsolete.
+  - In modern terms, the reading _chat(7)_ (zat1) is obsolete.
   ==
 S
   ==
@@ -357,7 +357,7 @@ C
   ==
   - Fan Wan entry: Corrected ⿱𠫓耒 to 棄.
   - Williams' alternative reading:
-    Corrected _(1)h(i/)_ [[hei1]] to _h(i/)(3)_ [[hei3]].
+    Corrected _(1)h(i/)_ (hei1) to _h(i/)(3)_ (hei3).
   ==
 S
   ==
@@ -552,7 +552,7 @@ W
   ====
 C
   ==
-  - Williams' 疾速: Corrected _tsuk(7)_ [[zuk1]] to _ts(')uk(7)_ [[cuk1]].
+  - Williams' 疾速: Corrected _tsuk(7)_ (zuk1) to _ts(')uk(7)_ (cuk1).
   ==
 $$
 
