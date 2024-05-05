@@ -41,10 +41,51 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $織1
 - $職1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 織1 | _Chik(7)_ [[zik1]]
+
+$$
+R
+  ⽷ + 12
+U
+  U+7E54
+F
+  ==
+  - [[F1.76 織]] 扣結布帛之總名
+  ==
+W
+  ====
+  - [[Page~13* 織(7)]]
+    ==
+    - To weave;
+    - woven;
+    - _chik(7) (4)(u")_
+        [[zik1 jyu4 織餘]],
+        a thrum left in the web;
+    - _ts(')uk(7) chik(7)_
+        [[cuk1 zik1 促織]]
+        a cricket;
+    - _chik(7) (1)k(i/)_
+        [[zik1 gei1 織機]],
+        a loom;
+    - _chik(7) (5)n(u")_
+        [[zik1 neoi5-2 織女]],
+        the star Wega _α_ in Lyra;
+    - _chik(7) p(o\)[(3)]_
+        [[zik1 bou3 織布]]
+        to weave cloth.
+    ==
+  ====
+C
+  ==
+  - Williams' 織布: Corrected _p(o\)(6)_ (bou6) to _p(o\)(3)_ (bou3).
+  ==
+$$
 
 ### 職1 | _Chik(7)_ [[zik1]]
 
