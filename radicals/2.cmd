@@ -152,6 +152,7 @@ For all radicals, see [Index of characters by radical](./).
       - $倡coeng3
       - $借ze3
       - $値zi6
+      - $値zik6
       - $值zi6
       ==
       </nav>

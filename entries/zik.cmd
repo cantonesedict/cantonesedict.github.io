@@ -195,10 +195,35 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $値6
 - $直6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 値6 | _Chik(9)_ [[zik6]]
+
+$$
+R
+  ⼈ + 8
+U
+  U+5024
+F
+  ==
+  - [[F1.78 値]] 適也遇也又音滯
+  ==
+W
+  ====
+  - [[Page~10* 値(6)]]
+    --
+    [[Alternative form of 值. **See $值zik6 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $値zi6
+  ==
+$$
 
 ### 直6 | _Chik(9)_ [[zik6]]
 
