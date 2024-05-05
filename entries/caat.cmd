@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caat
-* %date-modified --> 2024-05-04
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -276,7 +276,7 @@ W
   ====
 C
   ==
-  - Williams' 獺領: Changed _(5)ling_ [[ling5]]
-    to vernacular reading _(5)leng_ [[leng5]].
+  - Williams' 獺領: Changed _(5)ling_ (ling5)
+    to vernacular reading _(5)leng_ (leng5).
   ==
 $$
