@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2024-05-04
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -115,7 +115,7 @@ W
   ====
 C
   ==
-  - Strictly, the reading _(1)tsau_ [[zau1]] in level tone
+  - Strictly, the reading _(1)tsau_ (zau1) in level tone
     is for the sense "anxious" or "sorrowful"
     (per Kangxi 《韻會》側鳩切音鄒愁貌或作偢).
   ==
@@ -186,7 +186,7 @@ W
   ====
 C
   ==
-  - Williams' 好周置: Corrected _(1)ch(i/)_ [[zi1]] to _ch(i/)(3)_ [[zi3]].
+  - Williams' 好周置: Corrected _(1)ch(i/)_ (zi1) to _ch(i/)(3)_ (zi3).
   - Williams records 周時 under 週 (which is interchangeable); see $週zau1.
   ==
 E
@@ -216,7 +216,7 @@ W
   [[Not present]]
 C
   ==
-  - The reading _(1)chau_ [[zau1]] for 啁 is not present in Williams;
+  - The reading _(1)chau_ (zau1) for 啁 is not present in Williams;
     an entry is included here for completeness.
     ++
     1. Used in 啁噍 (sound of birds).
@@ -614,7 +614,7 @@ W
   ====
 C
   ==
-  - Williams' 譸張為幻: Corrected _(1)wai_ [[wai1]] to _(4)wai_ [[wai4]].
+  - Williams' 譸張為幻: Corrected _(1)wai_ (wai1) to _(4)wai_ (wai4).
   ==
 $$
 
@@ -807,8 +807,8 @@ W
   ====
 C
   ==
-  - Williams' 孟陬: Changed Middle Chinese _mang(6)_ [[mang6]]
-    to common reading _m(a/)ng(6)_ [[maang6]].
+  - Williams' 孟陬: Changed Middle Chinese _mang(6)_ (mang6)
+    to common reading _m(a/)ng(6)_ (maang6).
   ==
 $$
 
@@ -1178,7 +1178,7 @@ W
   ====
 C
   ==
-  - Williams' 啤酒: Corrected _(2)p(')(e/)_ [[pe2]] to _(1)p(e/)_ [[be1]].
+  - Williams' 啤酒: Corrected _(2)p(')(e/)_ (pe2) to _(1)p(e/)_ (be1).
   ==
 $$
 
@@ -1296,8 +1296,8 @@ C
   ==
   - Fan Wan entry: Corrected duplicate headword 咒 to 呪.
   - Williams' 念咒: More reciting an incantation than a prayer.
-  - Williams' 禱咒: Changed Middle Chinese _(2)t(o\)_ [[dou2]]
-    to common reading _(2)t(')(o\)_ [[tou2]].
+  - Williams' 禱咒: Changed Middle Chinese _(2)t(o\)_ (dou2)
+    to common reading _(2)t(')(o\)_ (tou2).
   ==
 $$
 
@@ -1707,7 +1707,7 @@ W
 C
   ==
   - Williams' 就正, 就家, 就先: All dated.
-  - Williams' 就嚟: Corrected _(4)loi_ [[loi4]] to _(4)lai_ [[lai4]].
+  - Williams' 就嚟: Corrected _(4)loi_ (loi4) to _(4)lai_ (lai4).
   ==
 E
   ====
@@ -1791,7 +1791,7 @@ W
   ====
 C
   ==
-  - Williams' 籀太史: Corrected _t(')(a/)i(6)_ [[taai6]] to _t(')(a/)i(3)_ [[taai3]].
+  - Williams' 籀太史: Corrected _t(')(a/)i(6)_ (taai6) to _t(')(a/)i(3)_ (taai3).
   ==
 $$
 
@@ -1876,7 +1876,7 @@ C
   - For the visually similar character meaning "helmet", see $冑zau6.
   - Fan Wan entry: No distinction is made
     between 冑 (under ⼌) and 胄 (under ⾁).
-  - Williams' 胄裔: Corrected _hau(6)_ [[hau6]] to _chau(6)_ [[zau6]].
+  - Williams' 胄裔: Corrected _hau(6)_ (hau6) to _chau(6)_ (zau6).
   ==
 $$
 
