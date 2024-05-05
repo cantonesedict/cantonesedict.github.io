@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2024-05-04
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -627,8 +627,8 @@ W
 C
   ==
   - Williams' 掣肘:
-    Changed Middle Chinese _(2)chau_ [[zau2]]
-    to common reading _(2)ch(a/)u_ [[zaau2]].
+    Changed Middle Chinese _(2)chau_ (zau2)
+    to common reading _(2)ch(a/)u_ (zaau2).
   ==
 E
   ====
@@ -987,12 +987,12 @@ W
   ====
 C
   ==
-  - Williams' reading _(1)tsai_ [[zai1]] for the "taste" sense is incorrect,
+  - Williams' reading _(1)tsai_ (zai1) for the "taste" sense is incorrect,
     possibly based on the gloss 音劑
     (which is intended in the departing tone, not the level tone).
     The expected reading is zai6 from Middle Chinese 在詣切.
     Moreover, for the "plaintive sound" sense, Kangxi quotes 《集韻》前西切.
-  - Williams' 淡得嚌: Corrected _t(a/)m(6)_ [[daam6]] to _(5)t(')(a/)m_ [[taam5]].
+  - Williams' 淡得嚌: Corrected _t(a/)m(6)_ (daam6) to _(5)t(')(a/)m_ (taam5).
   - Williams' 係得嚌: Dated.
   ==
 E
