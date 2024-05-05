@@ -653,27 +653,27 @@ class Page:
             )
             for match in re.finditer(
                 pattern=(
-                    r'^#{3}[+]?'
+                    r'^ [#]{3} [+]? '
                     r'[ ]'
-                    r'\[?(?P<character>\S)\]?.'
-                    r'(?:[ ](?:\(|\[\[)(?P<composition>.+?)(?:\)|\]\]))?'
+                    r'\[? (?P<character> \S ) \]? .'
+                    r'(?: [ ] (?: \( | \[\[ ) (?P<composition> .+? ) (?: \) | \]\] ) )?'
                     r'[ ][|][ ]'
                     r'.*?'
-                    r'(?:\(|\[\[)'
-                    r'(?P<jyutping>[a-z]+?[1-6])'
-                    r'(?:\)|\]\])'
+                    r'(?: \( | \[\[ )'
+                    r'(?P<jyutping> [a-z]+? [1-6] )'
+                    r'(?: \) | \]\] )'
                     r'\n\n'
-                    r'[$]{2}\n'
+                    r'[$]{2} \n'
                     r'(?P<content>'
-                    r'R\n'
-                    r'[ ]{2}(?P<radical>\S)[ ][+][ ](?P<residual_stroke_count>[0-9]+)\n'
-                    r'U\n'
-                    r'[ ]{2}(?P<code_point>U[+][0-9A-F]{4,5})$'
-                    r'[\s\S]*?\n'
-                    r')[$]{2}'
+                    r'R \n'
+                    r'[ ]{2} (?P<radical> \S ) [ ][+][ ] (?P<residual_stroke_count> [0-9]+ ) \n'
+                    r'U \n'
+                    r'[ ]{2} (?P<code_point> U[+][0-9A-F]{4,5} ) $'
+                    r'[\s\S]*? \n'
+                    r') [$]{2}'
                 ),
                 string=cmd_content,
-                flags=re.MULTILINE,
+                flags=re.MULTILINE | re.VERBOSE,
             )
         ]
 
