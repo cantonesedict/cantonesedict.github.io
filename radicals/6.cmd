@@ -551,6 +551,14 @@ For all radicals, see [Index of characters by radical](./).
       - $耻ci2
       ==
       </nav>
+  //
+    , 12
+    ,
+      <nav class="sideways">
+      ==
+      - $職zik1
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⽿-characters ##>
