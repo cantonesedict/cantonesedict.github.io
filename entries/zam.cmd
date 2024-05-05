@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2024-05-04
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -96,8 +96,8 @@ W
   ====
 C
   ==
-  - Williams' 斟綏咯: Corrected _lok(9)_ [[lok6]] to _lok(8)_ [[lok3]].
-  - Williams' 細斟: Corrected _sai(6)_ [[sai6]] to _sai(3)_ [[sai3]].
+  - Williams' 斟綏咯: Corrected _lok(9)_ (lok6) to _lok(8)_ (lok3).
+  - Williams' 細斟: Corrected _sai(6)_ (sai6) to _sai(3)_ (sai3).
   ==
 E
   ====
@@ -130,7 +130,7 @@ W
   ====
 C
   ==
-  - Williams' 葚: Changed improper reading _(4)sham_ [[sam4]] to _sham(6)_ [[sam6]].
+  - Williams' 葚: Changed improper reading _(4)sham_ (sam4) to _sham(6)_ (sam6).
   ==
 S
   ==
@@ -333,8 +333,8 @@ W
   ====
 C
   ==
-  - Williams' 鼓錘針: Corrected _(1)k(u/)_ [[gu1]] to _(2)k(u/)_ [[gu2]].
-  - Williams' 針鼻削鐵: Corrected _s(e/)uk(9) t(')(i/)t(9)_ [[soek6 tit6]] to _s(e/)uk(8) t(')(i/)t(8)_ [[soek3 tit3]].
+  - Williams' 鼓錘針: Corrected _(1)k(u/)_ (gu1) to _(2)k(u/)_ (gu2).
+  - Williams' 針鼻削鐵: Corrected _s(e/)uk(9) t(')(i/)t(9)_ (soek6 tit6) to _s(e/)uk(8) t(')(i/)t(8)_ (soek3 tit3).
   ==
 $$
 
@@ -467,9 +467,9 @@ C
   ==
   - Williams' "also read _cham(3)_":
     Strictly, the literary verb sense should *only*
-    be read in the departing tone _cham(3)_ [[zam3]]
+    be read in the departing tone _cham(3)_ (zam3)
     (notwithstanding some vernacular verb senses are in rising tone).
-    The rising tone reading _(2)cham_ [[zam2]] is for the literary noun sense.
+    The rising tone reading _(2)cham_ (zam2) is for the literary noun sense.
     I have split things up accordingly.
   ==
 E
@@ -541,13 +541,13 @@ W
   ====
 C
   ==
-  - Williams' 曲肱而枕: Changed Middle Chinese _huk(7)_ [[huk1]]
-    to common reading _k(')uk(7)_ [[kuk1]].
+  - Williams' 曲肱而枕: Changed Middle Chinese _huk(7)_ (huk1)
+    to common reading _k(')uk(7)_ (kuk1).
   - Williams' "also read _cham(3)_":
     Strictly, the literary verb sense should *only*
-    be read in the departing tone _cham(3)_ [[zam3]]
+    be read in the departing tone _cham(3)_ (zam3)
     (notwithstanding some vernacular verb senses are in rising tone).
-    The rising tone reading _(2)cham_ [[zam2]] is for the literary noun sense.
+    The rising tone reading _(2)cham_ (zam2) is for the literary noun sense.
     I have split things up accordingly.
   ==
 S
@@ -726,7 +726,7 @@ $$
 </nav>
 <## /tone-6-characters ##>
 
-###+ 𠹻6 [[⿰口朕]] | _Cham(6)_ (zam6)
+###+ 𠹻6 (⿰口朕) | _Cham(6)_ (zam6)
 
 $$
 R
@@ -795,7 +795,7 @@ W
 C
   ==
   - Williams' 朕兆:
-    Changed Middle Chinese _chi(u/)(6)_ [[ziu6]]
-    to common reading _shi(u/)(6)_ [[siu6]].
+    Changed Middle Chinese _chi(u/)(6)_ (ziu6)
+    to common reading _shi(u/)(6)_ (siu6).
   ==
 $$
