@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2024-05-04
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -129,7 +129,7 @@ W
   ====
 C
   ==
-  - Williams provides no explanation for the vernacular _(1)ts(')an_ [[can1]],
+  - Williams provides no explanation for the vernacular _(1)ts(')an_ (can1),
     notwithstanding he has supplied examples of its use.
   ==
 E
@@ -263,12 +263,12 @@ W
   ====
 C
   ==
-  - Williams provides no explanation for the vernacular _(1)ts(')an_ [[can1]],
+  - Williams provides no explanation for the vernacular _(1)ts(')an_ (can1),
     notwithstanding he has supplied examples of its use.
     Here it is normalised to 嚫; **see $嚫can1 for the canonical entry**.
   - Williams' 娶親:
-    Changed Middle Chinese _ts(')(u")(3)_ [[ceoi3]]
-    to common reading _(2)ts(')(u")_ [[ceoi2]].
+    Changed Middle Chinese _ts(')(u")(3)_ (ceoi3)
+    to common reading _(2)ts(')(u")_ (ceoi2).
   - Williams' 成親:
     There is no connotation of sexual consummation in 成親.
     Although 成 can mean "complete" or "fulfil",
@@ -455,7 +455,7 @@ W
   ====
 C
   ==
-  - Williams' 矧曰: Corrected _(u")t(8)_ [[jyut3]] to _(u")t(9)_ [[jyut6]].
+  - Williams' 矧曰: Corrected _(u")t(8)_ (jyut3) to _(u")t(9)_ (jyut6).
   ==
 $$
 
@@ -617,7 +617,7 @@ W
   ====
 C
   ==
-  - Williams' 紆軫: Corrected _(1)h(u")_ [[heoi1]] to _(1)(u")_ [[jyu1]].
+  - Williams' 紆軫: Corrected _(1)h(u")_ (heoi1) to _(1)(u")_ (jyu1).
   ==
 $$
 
@@ -776,7 +776,7 @@ W
   [[Not present]]
 C
   ====
-  - The reading _ts(')an(3)_ [[can3]] for 親 is not present in Williams;
+  - The reading _ts(')an(3)_ (can3) for 親 is not present in Williams;
     an entry is included here for completeness.
     ++
     1. Pertaining to the in-laws.
@@ -949,8 +949,8 @@ W
 C
   ==
   - Williams' 塵垢:
-    Changed Middle Chinese _(2)kau_ [[gau2]]
-    to common reading _kau(3)_ [[gau3]].
+    Changed Middle Chinese _(2)kau_ (gau2)
+    to common reading _kau(3)_ (gau3).
   ==
 E
   ====
@@ -1035,7 +1035,7 @@ W
   ====
 C
   ==
-  - Williams' 在陳絕糧: Corrected _ts(')(u")t(9)_ [[cyut6]] to _ts(u")t(9)_ [[zyut6]].
+  - Williams' 在陳絕糧: Corrected _ts(')(u")t(9)_ (cyut6) to _ts(u")t(9)_ (zyut6).
   ==
 S
   ==
