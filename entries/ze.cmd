@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ze
-* %date-modified --> 2024-05-04
+* %date-modified --> 2024-05-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -364,9 +364,9 @@ W
   ====
 C
   ==
-  - Williams' 死者: Corrected _sz'(3)_ [[si3]] to _(2)sz'_ [[si2]].
-  - Williams' 中也者天下之大本也: Changed Middle Chinese _(5)h(a/)_ [[haa5]]
-    to common reading _h(a/)(6)_ [[haa6]].
+  - Williams' 死者: Corrected _sz'(3)_ (si3) to _(2)sz'_ (si2).
+  - Williams' 中也者天下之大本也: Changed Middle Chinese _(5)h(a/)_ (haa5)
+    to common reading _h(a/)(6)_ (haa6).
   ==
 $$
 
@@ -434,9 +434,9 @@ W
   ====
 C
   ==
-  - Williams' 這裡: Changed _(5)l(i/)_ [[lei5]] to common reading _(5)l(u")_ [[leoi5]].
+  - Williams' 這裡: Changed _(5)l(i/)_ (lei5) to common reading _(5)l(u")_ (leoi5).
   - The character 這 is only attested in the Middle Chinese rime books
-    under the reading 魚變切 _y(i/)n(6)_ [[jin6]]^, explained 迎也.
+    under the reading 魚變切 _y(i/)n(6)_ (jin6)^, explained 迎也.
     Kangxi quotes 毛晃曰凡稱此箇爲者箇俗多改用這字這乃迎也,
     which proposes that 這 is a vulgar substitute
     for 者 when used as demonstrative "this".
@@ -537,9 +537,9 @@ W
   ====
 C
   ==
-  - Williams' 借着我事: Corrected _ch(e/)uk(8)_ [[zoek3]] to _ch(e/)uk(9)_ [[zoek6]].
-  - Williams' 借路行: Changed _(4)hang_ [[hang4]]
-    to vernacular reading _(4)h(a/)ng_ [[haang4]].
+  - Williams' 借着我事: Corrected _ch(e/)uk(8)_ (zoek3) to _ch(e/)uk(9)_ (zoek6).
+  - Williams' 借路行: Changed _(4)hang_ (hang4)
+    to vernacular reading _(4)h(a/)ng_ (haang4).
   ==
 $$
 
@@ -700,7 +700,7 @@ W
   ====
 C
   ==
-  - Williams' 倒啖蔗: Corrected _(2)t(o\)_ [[dou2]] to _t(o\)(3)_ [[dou3]].
+  - Williams' 倒啖蔗: Corrected _(2)t(o\)_ (dou2) to _t(o\)(3)_ (dou3).
   ==
 $$
 
