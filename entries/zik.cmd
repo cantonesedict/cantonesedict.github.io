@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-05-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -215,7 +215,7 @@ F
   ==
 W
   ====
-  - [[Page~10* 値(9)]]
+  - [[Page~13* 値(9)]]
     --
     [[Alternative form of 值. **See $值zik6 for the canonical entry.**]]
     --
@@ -243,7 +243,7 @@ F
   ==
 W
   ====
-  - [[Page~10* 値(9); here normalised to 值]]
+  - [[Page~13* 値(9); here normalised to 值]]
     ==
     - Price, value, worth of;
     - just;
