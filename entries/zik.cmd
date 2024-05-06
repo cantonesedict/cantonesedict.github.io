@@ -201,6 +201,7 @@ $$
 - $植6
 - $殖6
 - $直6
+- $稙6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -479,5 +480,31 @@ E
     ++
     1. Synonym of [直程](#cantonese-直程).
     ++
+  ====
+$$
+
+### 稙6 | _Chik(9)_ [[zik6]]
+
+$$
+R
+  ⽲ + 8
+U
+  U+7A19
+V
+  ==
+  - zik1 (expected from 竹力切)
+  ==
+F
+  ==
+  - [[F1.78 稙]] 早種曰稙
+  ==
+W
+  ====
+  - [[Page~14* 稙(9)]]
+    ==
+    - Grain planted early, the first crop;
+    - to sow in good time;
+    - the first wife.
+    ==
   ====
 $$
