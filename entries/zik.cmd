@@ -197,6 +197,7 @@ $$
 =={.modern}
 - $値6
 - $值6
+- $埴6
 - $植6
 - $殖6
 - $直6
@@ -280,6 +281,35 @@ S
   ==
   - $值zi6
   ==
+$$
+
+### 埴6 | _Chik(9)_ [[zik6]]
+
+$$
+R
+  ⼟ + 8
+U
+  U+57F4
+H
+  May appear with right component as 値 or 值 (assumed here),
+  depending on the font.
+F
+  ==
+  - [[F1.78 埴]] 土之黏膩者
+  ==
+W
+  ====
+  - [[Page~14* 埴(9)]]
+    ==
+    - Adhesive clay;
+    - _(4)t(')(u")n chik(9)_
+        [[tyun4 zik6 摶埴]]
+        to mold in clay;
+    - _ch(a/)k(9) chik(9)_
+        [[zaak6 zik6 擿埴]]
+        to feel one's way with a stick.
+    ==
+  ====
 $$
 
 ### 植6 | _Chik(9)_ [[zik6]]
