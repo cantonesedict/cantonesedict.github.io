@@ -197,6 +197,7 @@ $$
 =={.modern}
 - $値6
 - $值6
+- $殖6
 - $直6
 ==
 </nav>
@@ -278,6 +279,44 @@ S
   ==
   - $值zi6
   ==
+$$
+
+### 殖6 | _Chik(9)_ [[zik6]]
+
+$$
+R
+  ⽍ + 8
+U
+  U+6B96
+H
+  May appear with right component as 値 or 值 (assumed here),
+  depending on the font.
+F
+  ==
+  - [[F1.78 殖]] 貨殖生殖
+  ==
+W
+  ====
+  - [[Page~13* 殖(9)]]
+    ==
+    - To grow, to increase, to flourish, to enrich, to amass;
+    - as money;
+    - to plant;
+    - to raise the price of;
+    - gain;
+    - price, value;
+    - rotten bones;
+    - _shang chik(9)_
+        [[sang1 zik6 生殖]]
+        to grow, to increase;
+    - _chik(9) fo(3)_
+        [[zik6 fo3 殖貨]]
+        to raise the price;
+    - _(2)ch(e/)ung chik(9) m(a/)n(6) mat(9)_
+        [[zoeng2 zik6 maan6 mat6 長殖萬物]]
+        nature flourishes.
+    ==
+  ====
 $$
 
 ### 直6 | _Chik(9)_ [[zik6]]
