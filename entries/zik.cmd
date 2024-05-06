@@ -197,6 +197,7 @@ $$
 =={.modern}
 - $値6
 - $值6
+- $植6
 - $殖6
 - $直6
 ==
@@ -278,6 +279,48 @@ W
 S
   ==
   - $值zi6
+  ==
+$$
+
+### 植6 | _Chik(9)_ [[zik6]]
+
+$$
+R
+  ⽊ + 8
+U
+  U+690D
+H
+  May appear with right component as 値 or 值 (assumed here),
+  depending on the font.
+F
+  ==
+  - [[F1.78 植]] ::立也置也[栽]也種也::
+  ==
+W
+  ====
+  - [[Page~13* 植(9)]]
+    ==
+    - To plant, to set up, to transplant or set out;
+    - erect, standing upright;
+    - to lean on, as a staff;
+    - to place, to lay down;
+    - _(1)tsoi chik(9)_
+        [[zoi1 zik6 栽植]]
+        to set out;
+    - _chik(9) (4)k(')(i/) ch(e/)ung(6)_
+        [[zik6 kei4 zoeng6 植其杖]]
+        put his staff down;
+    - _(u/)(6) chik(9)_
+        [[wu6 zik6 戶植]]
+        door-posts;
+    - _chik(9) muk(9)_
+        [[zik6 muk6 植木]]
+        to transplant trees.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 裁 to 栽.
   ==
 $$
 
