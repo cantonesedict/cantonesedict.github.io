@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2024-05-06
+* %date-modified --> 2024-05-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -17,6 +17,15 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+- [zik1](#1)
+- [zik6](#6)
+==
+</nav>
+<## /tones ##>
 
 $$
 WH
