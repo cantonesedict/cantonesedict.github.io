@@ -53,6 +53,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $拓3
 - $摭3
 ==
 </nav>
@@ -76,6 +77,39 @@ notwithstanding all series appear under 第七英影應益.
 I have corrected Williams by placing 隻, 蹠跖, 炙, and 摭拓 under zek3 here.]]
 --
 
+### 拓3 | _[Chek(8)]_ [[zek3]]
+
+$$
+R
+  ⼿ + 5
+U
+  U+62D3
+F
+  ==
+  - [[F1.78 拓]] 拾也又充拓又托推也斥開也拓落不偶也
+  ==
+W
+  ====
+  - [[Page~14* 摭(9)拓(9) _Chik(9)_ (zik6); here corrected to _Chek(8)_ (zek3)]]
+    --
+    [[Alternative form of 摭. **See $摭zek3 for the canonical entry.**]]
+    --
+    --
+    Also read _t(')ok(8)_ [[tok3]]; [[**see $拓tok3**]].
+    --
+  ====
+C
+  ==
+  - Williams has been misled by Fan Wan
+    into placing this under _Chik(9)_ (zik6).
+    See remarks under $zek3.
+  ==
+S
+  ==
+  - $拓tok3 (TODO)
+  ==
+$$
+
 ### 摭3 | _[Chek(8)]_ [[zek3]]
 
 $$
@@ -83,6 +117,10 @@ R
   ⼿ + 11
 U
   U+646D
+A
+  ==
+  - $拓3
+  ==
 F
   ==
   - [[F1.78 拓]] 拾也又充拓又托推也斥開也拓落不偶也
