@@ -53,6 +53,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $摭3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -74,3 +75,33 @@ the vernacular rime _ek_ from the literary rime _ik_,
 notwithstanding all series appear under 第七英影應益.
 I have corrected Williams by placing 隻, 蹠跖, 炙, and 摭拓 under zek3 here.]]
 --
+
+### 摭3 | _[Chek(8)]_ [[zek3]]
+
+$$
+R
+  ⼿ + 11
+U
+  U+646D
+F
+  ==
+  - [[F1.78 拓]] 拾也又充拓又托推也斥開也拓落不偶也
+  ==
+W
+  ====
+  - [[Page~14* 摭(9)拓(9) _Chik(9)_ (zik6); here corrected to _Chek(8)_ (zek3)]]
+    ==
+    - To take up;
+    - to collect, to gather;
+    - _[chek(8)] chap(7)_
+        [[zek3 zap1 摭執]]
+        to take or adopt.
+    ==
+  ====
+C
+  ==
+  - Williams has been misled by Fan Wan
+    into placing this under _Chik(9)_ (zik6).
+    See remarks under $zek3.
+  ==
+$$
