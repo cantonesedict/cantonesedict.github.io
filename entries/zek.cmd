@@ -55,6 +55,7 @@ $$
 =={.modern}
 - $拓3
 - $摭3
+- $隻3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -140,6 +141,46 @@ C
   ==
   - Williams has been misled by Fan Wan
     into placing this under _Chik(9)_ (zik6).
+    See remarks under $zek3.
+  ==
+$$
+
+### 隻3 | _Chek[(8)]_ [[zek3]]
+
+$$
+R
+  ⾫ + 2
+U
+  U+96BB
+F
+  ==
+  - [[F1.78 隻]] 件也
+  ==
+W
+  ====
+  - [[Page~14* 隻(9) _Chek(9)_ (zek6); here corrected to _Chek(8)_ (zek3)]]
+    ==
+    - One, single, not a pair, one of a pair;
+    - a classifier of vessels, boats, animals, birds, and of things in pairs,
+      as legs, arms eyes, cups, saucers, &c.;
+    - _chek[(8)] (1)shan_
+        [[zek3 san1 隻身]],
+        myself alone;
+    - _chek[(8)] chek[(8)] (5)yau (5)m(i/)_
+        [[zek3 zek3 jau5 mei5 隻隻有尾]],
+        every one has a tail;
+    - _t(a/)i(6) chek[(8)] hat(7) (4)(i/)_
+        [[daai6 zek3 hat1 ji4-1 大隻乞兒]],
+        a sturdy beggar;
+    - _ki(u/)(3) chek[(8)] (5)t(')eng_
+        [[giu3 zek3 teng5 叫隻艇]],
+        call a boat.
+    ==
+  ====
+C
+  ==
+  - Williams has been misled by Fan Wan
+    into placing this under _Chik(9)_ (zik6) / _Chek(9)_ (zek6).
     See remarks under $zek3.
   ==
 $$
