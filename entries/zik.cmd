@@ -42,6 +42,10 @@ MP
   ==
   - zik = [tsek̚] ((preferred)), [tɕek̚]
   ==
+S
+  ==
+  - $zek
+  ==
 $$
 
 
@@ -214,6 +218,25 @@ $$
 ==
 </nav>
 <## /tone-6-characters ##>
+
+--{.williams}
+[[Page~41*, before the last three entries for _chik(9)_ (zik6)]]
+(The three next characters [[隻, 蹠跖, 炙]] are usually pronounced _chek_.)
+[[Here, Williams has been misled by Fan Wan's placement of the three series
+  跖蹠拓隻炙 (_chik_),
+  尺 (_ch(')ik_), and
+  石碩鼫 (_shik_)
+*after* 劇屐 (_k(')ik(9)_) and 溺 (_nik(9)_), which are 陽入; see F1.78.
+Based on this ordering, Williams has inferred that
+the characters 隻, 蹠跖, and 炙 are read 陽入 _chik(9)_ (zik6).
+However, since Fan Wan has separate series
+for 直値殖植稙湜埴 (_chik(9)_) and 食蝕 (_shik(9)_),
+it appears that its authors have attempted to distinguish
+the vernacular rime _ek_ from the literary rime _ik_,
+notwithstanding all series appear under 第七英影應益.
+I have corrected Williams by placing 隻, 蹠跖, 炙, and 摭拓
+under $zek.]]
+--
 
 ### 値6 | _Chik(9)_ [[zik6]]
 
