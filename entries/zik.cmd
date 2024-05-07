@@ -235,7 +235,7 @@ it appears that its authors have attempted to distinguish
 the vernacular rime _ek_ from the literary rime _ik_,
 notwithstanding all series appear under 第七英影應益.
 I have corrected Williams by placing 隻, 蹠跖, 炙, and 摭拓
-under $zek.]]
+under $zek3.]]
 --
 
 ### 値6 | _Chik(9)_ [[zik6]]

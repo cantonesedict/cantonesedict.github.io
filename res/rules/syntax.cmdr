@@ -132,6 +132,9 @@ RegexDictionaryReplacement: #.syntax.cantonese-entries
 
 RegexDictionaryReplacement: #.syntax.entry-links
 - queue_position: BEFORE #specified-links
+* [$] (?P<jyutping> [a-z]+ ) (?P<tone_number> [1-6] )
+    -->
+  [\g<jyutping>\g<tone_number>](/entries/\g<jyutping>#\g<tone_number>)
 * [$] (?P<jyutping> [a-z]+ )
     -->
   [\g<jyutping>](/entries/\g<jyutping>)
