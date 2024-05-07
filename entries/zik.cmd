@@ -213,6 +213,7 @@ $$
 - $埴6
 - $植6
 - $殖6
+- $湜6
 - $直6
 - $稙6
 ==
@@ -422,6 +423,32 @@ W
         nature flourishes.
     ==
   ====
+$$
+
+### 湜6 | _Chik(9)_ [[zik6]]
+
+$$
+R
+  ⽔ + 9
+U
+  U+6E5C
+F
+  ==
+  - [[F1.78 湜]] ::水淸見[底]也::
+  ==
+W
+  ====
+  - [[Page~14* 湜(9)]]
+    ==
+    - Pure, limpid water, through which the bottom can be seen;
+    - pure-minded;
+    - to maintain firmly.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 㡳 to 底.
+  ==
 $$
 
 ### 直6 | _Chik(9)_ [[zik6]]
