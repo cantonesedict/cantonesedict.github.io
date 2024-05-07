@@ -29,7 +29,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 WH
   ==
-  - Chek. [[Page~41*]]
+  - Chek. [[Page~14*]]
   - Tsek. [[Page~569]]
   ==
 WP
@@ -61,7 +61,7 @@ $$
 <## /tone-3-characters ##>
 
 --{.williams}
-[[Page~41*, before the last three entries for _chik(9)_ (zik6)]]
+[[Page~14*, before the last three entries for _chik(9)_ (zik6)]]
 (The three next characters [[隻, 蹠跖, 炙]] are usually pronounced _chek_.)
 [[Here, Williams has been misled by Fan Wan's placement of the three series
   跖蹠拓隻炙 (_chik_),
