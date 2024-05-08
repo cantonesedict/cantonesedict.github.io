@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cat
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-05-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -275,10 +275,10 @@ E
   ====
   --
   Suprisingly, the alternative form 𫵱 (⿱山十) is recorded in
-  [Eitel (1877)][eitel-dict-cat6] under _ts(')at(9)_ (cat6);
+  [Eitel (1877)][eitel-dict-cat^6] under _ts(')at(9)_ (cat6);
   the entry simply reads "_V[ulgar]._ the penis".
   --
 $$
 
-[eitel-dict-cat6]: https://books.google.com/books?id=mh8TAAAAYAAJ&jtp=774
+[eitel-dict-cat^6]: https://books.google.com/books?id=mh8TAAAAYAAJ&jtp=774
 [wiktionary-𨳍]: https://en.wiktionary.org/wiki/𨳍
