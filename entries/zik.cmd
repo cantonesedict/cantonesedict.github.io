@@ -55,12 +55,38 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $卽1
 - $織1
 - $職1
 - $陟1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 卽1 | _Tsik(7)_ [[zik1]]
+
+$$
+R
+  ⼙ + 7
+U
+  U+537D
+F
+  ==
+  - [[F1.74 卽]] 就也山也則也
+  ==
+W
+  ====
+  - [[Page~568 卽(7)]]
+    --
+    [[Alternative form of 即. **See $即zik1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Williams prints 卽 with left component similar to 𩙿
+    (minus the first two strokes).
+  ==
+$$
 
 ### 織1 | _Chik(7)_ [[zik1]]
 
