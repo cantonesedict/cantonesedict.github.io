@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zak
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-05-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -292,6 +292,9 @@ R
   ⿂ + 7
 U
   U+9BFD
+H
+  May appear as either ⿰魚即 (+7) or ⿰魚卽 (+9),
+  depending on the font.
 F
   ==
   - [[F2.33 鯽]] 魚名
