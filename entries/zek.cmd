@@ -55,6 +55,7 @@ $$
 =={.modern}
 - $拓3
 - $摭3
+- $炙3
 - $跖3
 - $蹠3
 - $隻3
@@ -144,6 +145,51 @@ C
   - Williams has been misled by Fan Wan
     into placing this under _Chik(9)_ (zik6).
     See remarks under $zek3.
+  ==
+$$
+
+### 炙3 | _Chek[(8)]_ [[zek3]]
+
+$$
+R
+  ⽕ + 4
+U
+  U+7099
+F
+  ==
+  - [[F1.78 炙]] 燔炙
+  ==
+W
+  ====
+  - [[Page~14* 炙(9) _Chek(9)_ (zek6); here corrected to _Chek(8)_ (zek3)]]
+    ==
+    - To roast;
+    - to broil;
+    - to dry or toast before the fire;
+    - to heat;
+    - near;
+    - to approach, to approximate;
+    - to fry in honey, as some physic is;
+    - _(2)[k(')(u/)i] chek[(8)] (4)yan (2)hau_
+        [[kui2 zek3 jan4 hau2 膾炙人口]],
+        tastes well in people's mouths --- said of fine poetry;
+    - _chek[(8)] (2)ts(')(o\)_
+        [[zek3 cou2 炙草]],
+        dried liquorice;
+    - _chek[(8)] (2)shau_
+        [[zek3 sau2 炙手]],
+        to warm the hand;
+    - _(4)f(a/)n chek[(8)]_
+        [[faan4 zek3 燔炙]]
+        to roast or broil;
+    - _chek[(8)] (1)kon_
+        [[zek3 gon1 炙乾]],
+        dried thoroughly.
+    ==
+  ====
+C
+  ==
+  - Williams' 膾炙人口: Corrected _(2)k(u/)i_ (gui2) to _(2)k(')(u/)i_ (kui2).
   ==
 $$
 
