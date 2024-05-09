@@ -261,13 +261,21 @@ C
   ==
 $$
 
-### 隻3 | _Chek[(8)]_ [[zek3]]
+### 隻3 | _[Chek(8)]_ [[zek3]]
 
 $$
 R
   ⾫ + 2
 U
   U+96BB
+A
+  ==
+  - 只
+  ==
+V
+  ==
+  - zik3 (uncommon)
+  ==
 F
   ==
   - [[F1.78 隻]] 件也
@@ -292,11 +300,19 @@ W
         [[giu3 zek3 teng5 叫隻艇]],
         call a boat.
     ==
+  - [[Page~713 隻(8) _Chik(8)_ (zik3); here normalised to _Chek(8)_ (zek3)]]
+    ==
+    - This character is constantly contracted to 只 in Canton.
+    ==
   ====
 C
   ==
   - Williams has been misled by Fan Wan
     into placing this under _Chik(9)_ (zik6) / _Chek(9)_ (zek6).
     See remarks under $zek3.
+  ==
+S
+  ==
+  - $隻zik3
   ==
 $$

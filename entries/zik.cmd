@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zik1](#1)
+- [zik3](#3)
 - [zik6](#6)
 ==
 </nav>
@@ -199,6 +200,41 @@ C
   ==
   - Fan Wan entry: Normalised headword ⿰阝歩 to 陟.
     The explanation 我也 is erroneous.
+  ==
+$$
+
+
+##{#3 .williams} Chik(8) Tsik(8) [[zik3 低陰入]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $隻3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 隻3 | _Chik(8)_ [[zik3]]
+
+$$
+R
+  ⾫ + 2
+U
+  U+96BB
+F
+  ==
+  - [[F1.78 隻]] 件也
+  ==
+W
+  ====
+  - [[Page~713 隻(8) _Chik(8)_ (zik3)]]
+    --
+    [[Reading variation. **See $隻zek3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $隻zek3
   ==
 $$
 
