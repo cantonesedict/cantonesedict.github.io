@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zek
-* %date-modified --> 2024-05-07
+* %date-modified --> 2024-05-09
 * %copyright-prior-years -->
 
 %%%
@@ -55,6 +55,8 @@ $$
 =={.modern}
 - $拓3
 - $摭3
+- $跖3
+- $蹠3
 - $隻3
 ==
 </nav>
@@ -142,6 +144,74 @@ C
   - Williams has been misled by Fan Wan
     into placing this under _Chik(9)_ (zik6).
     See remarks under $zek3.
+  ==
+$$
+
+### 跖3 | _Chek[(8)]_ [[zek3]]
+
+$$
+R
+  ⾜ + 5
+U
+  U+8DD6
+A
+  ==
+  - $蹠3
+  ==
+F
+  ==
+  - [[F1.78 跖]] 盗跖秦之大盗
+  - [[F1.78 蹠]] 同上又脚掌也又踐履也
+  ==
+W
+  ====
+  - [[Page~14* 蹠(9)跖(9) _Chek(9)_ (zek6); here corrected to _Chek(8)_ (zek3)]]
+    ==
+    - [[See $蹠3 for "tread" and "leap" senses]];
+    - the sole of the foot;
+    - metatarsus of birds;
+    - _t(o\)(6) chek[(8)]_
+        [[dou6 zek3 盜跖]]
+        a leader of thieves,
+        a certain Robin Hood in the days of Ts(')in [[秦]].
+    ==
+  ====
+C
+  ==
+  - Williams does not provide separate entries for 跖 and $蹠3.
+    I have split things up accordingly.
+  ==
+$$
+
+### 蹠3 | _Chek[(8)]_ [[zek3]]
+
+$$
+R
+  ⾜ + 11
+U
+  U+8E60
+A
+  ==
+  - $跖3
+  ==
+F
+  ==
+  - [[F1.78 跖]] 盗跖秦之大盗
+  - [[F1.78 蹠]] 同上又脚掌也又踐履也
+  ==
+W
+  ====
+  - [[Page~14* 蹠(9)跖(9) _Chek(9)_ (zek6); here corrected to _Chek(8)_ (zek3)]]
+    ==
+    - To tread on;
+    - to leap;
+    - [[see $跖3 for "sole" senses]].
+    ==
+  ====
+C
+  ==
+  - Williams does not provide separate entries for $跖3 and 蹠.
+    I have split things up accordingly.
   ==
 $$
 
