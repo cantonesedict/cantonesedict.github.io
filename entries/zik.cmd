@@ -55,6 +55,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $即1
 - $卽1
 - $織1
 - $職1
@@ -62,6 +63,75 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+###+ 即1 | _Tsik(7)_ (zik1)
+
+$$
+R
+  ⼙ + 5
+U
+  U+5373
+A
+  ==
+  - $卽1
+  ==
+V
+  ==
+  - ze1 (lazy in 即係)
+  ==
+F
+  ==
+  - [[F1.74 卽]] 就也山也則也
+  ==
+W
+  ====
+  - [[Page~568 卽(7); here normalised to 即]]
+    ==
+    - Eating, about to eat;
+    - an adverb, now, immediately, soon, presently, when, then, forthwith;
+    - now;
+    - near;
+    - if, perhaps;
+    - this, that is, or, alias;
+    - the snuff of a candle;
+    - _tsik(7) tsik(7)_
+        [[zik1 zik1 即即]]
+        an abundance, full of;
+    - _tsik(7) hak(7)_
+        [[zik1 hak1 即刻]]
+        instantly;
+    - _tsik(7) yat(9)_
+        [[zik1 jat6 即日]]
+        the same day;
+    - _tsik(7) hai(6)_
+        [[zik1 hai6 即係]]
+        just that, it is so;
+    - _tsik(7) (1)kam_
+        [[zik1 gam1 即今]],
+        just now;
+    - _tsik(7) [(2)sz'] (1)k(a/)n_
+        [[zik1 si2 gaan1 即使間]],
+        supposing it to be;
+    - _(4)n(i/)n (5)m(a/)n tsoi(6) tsik(7)_
+        [[nin4 maan5 zoi6 zik1 年晚在即]]
+        the end of the year is near;
+    - _tsik(7) tsik(7) (1)f(a/)n (4)[lai]_
+        [[zik1 zik1 faan1 loi4 即即返嚟]],
+        come back immediately;
+    - _tsik(7) (4)sh(i/) (2)tang (2)kan_
+        [[zik1 si4 dang2 gan2 即時等緊]],
+        it is wanted very soon;
+    - _tsik(7) tsik(7) (i/)n(6)_
+        [[zik1 zik1 jin6 即即現]]
+        money on the nail.
+    ==
+  ====
+C
+  ==
+  - Williams' 即使間: Corrected _(4)sh(i/)_ (si4) to _(2)sz'_ (si2).
+  - Williams' 即即返嚟: Corrected _(4)loi_ (loi4) to _(4)lai_ (lai4).
+  ==
+$$
 
 ### 卽1 | _Tsik(7)_ [[zik1]]
 
