@@ -230,7 +230,7 @@ V
   ==
 F
   ==
-  - [[F1.74 堲]] ::疾也書經堲[讒]說::
+  - [[F1.75 堲]] ::疾也書經堲[讒]說::
   ==
 W
   ====
@@ -398,10 +398,35 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $瘠3
 - $隻3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 瘠3 | _Tsik(8)_ [[zik3]]
+
+$$
+R
+  ⽧ + 10
+U
+  U+7620
+F
+  ==
+  - [[F1.75 瘠]] 人瘦曰瘠
+  ==
+W
+  ====
+  - [[Page~568 瘠(8)]]
+    --
+    [[Reading variation. **See $瘠zek3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $瘠zek3
+  ==
+$$
 
 ### 隻3 | _Chik(8)_ [[zik3]]
 
@@ -416,7 +441,7 @@ F
   ==
 W
   ====
-  - [[Page~713 隻(8) _Chik(8)_ (zik3)]]
+  - [[Page~713 隻(8)]]
     --
     [[Reading variation. **See $隻zek3 for the canonical entry.**]]
     --
