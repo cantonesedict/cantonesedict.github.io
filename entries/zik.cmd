@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2024-05-07
+* %date-modified --> 2024-05-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -57,6 +57,7 @@ $$
 =={.modern}
 - $即1
 - $卽1
+- $唧1
 - $織1
 - $職1
 - $陟1
@@ -155,6 +156,38 @@ C
   ==
   - Williams prints 卽 with left component similar to 𩙿
     (minus the first two strokes).
+  ==
+$$
+
+###+ 唧1 | _Tsik(7)_ (zik1)
+
+$$
+R
+  ⼝ + 7
+U
+  U+5527
+A
+  ==
+  - $喞1
+  ==
+F
+  ==
+  - [[F1.74 喞]] 啾喞衆聲又虫鳴
+  ==
+W
+  ====
+  - [[Page~568 喞(7); here normalised to 唧]]
+    ==
+    - The noise of a crowd;
+    - the hum of insects;
+    - _(1)tsau tsik(7)_
+        [[zau1 zik1 啾唧]]
+        a hubbub.
+    ==
+  ====
+S
+  ==
+  - $唧zek1 (TODO)
   ==
 $$
 
