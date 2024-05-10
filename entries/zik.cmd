@@ -59,6 +59,7 @@ $$
 - $卽1
 - $唧1
 - $喞1
+- $堲1
 - $織1
 - $職1
 - $陟1
@@ -210,6 +211,36 @@ W
     [[Alternative form of 唧. **See $唧zik1 for the canonical entry.**]]
     --
   ====
+$$
+
+### 堲1 | _Tsik(7)_ [[zik1]]
+
+$$
+R
+  ⼟ + 7
+U
+  U+5832
+H
+  May appear as either ⿱即土 (+7 assumed here) or ⿱卽土 (+9),
+  depending on the font.
+F
+  ==
+  - [[F1.74 堲]] ::疾也書經堲[讒]說::
+  ==
+W
+  ====
+  - [[Page~568 堲(7)]]
+    ==
+    - To make bricks;
+    - to make an arched grave;
+    - the snuff of a candle, embers;
+    - to dislike, to have a horror of, to snuff at.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿰糸⿱免丿 to 讒.
+  ==
 $$
 
 ### 織1 | _Chik(7)_ [[zik1]]
