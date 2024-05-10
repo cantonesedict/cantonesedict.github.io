@@ -401,6 +401,7 @@ $$
 - $瘠3
 - $蹐3
 - $隻3
+- $鶺3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -474,6 +475,30 @@ W
 S
   ==
   - $隻zek3
+  ==
+$$
+
+### 鶺3 | _Tsik(8)_ [[zik3]]
+
+$$
+R
+  ⿃ + 10
+U
+  U+9DBA
+F
+  ==
+  - [[F1.75 鶺]] 鶺鴒鳥名
+  ==
+W
+  ====
+  - [[Page~569 鶺(8)]]
+    --
+    [[Reading variation. **See $鶺zek3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $鶺zek3
   ==
 $$
 
