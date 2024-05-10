@@ -223,6 +223,11 @@ U
 H
   May appear as either ⿱即土 (+7 assumed here) or ⿱卽土 (+9),
   depending on the font.
+V
+  ==
+  - zat1 (expected from 資悉切 for "brick" and "ember" senses)
+  - zik6 (expected from 秦力切 for "abhor" senses)
+  ==
 F
   ==
   - [[F1.74 堲]] ::疾也書經堲[讒]說::
@@ -240,6 +245,9 @@ W
 C
   ==
   - Fan Wan entry: Corrected ⿰糸⿱免丿 to 讒.
+  - The reading _tsik(7)_ (zik1) is not unattested;
+    《廣韻》 has 子力切, notwithstanding it is explained 風堲
+    (which I do not comprehend).
   ==
 $$
 
