@@ -55,6 +55,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $勣1
 - $即1
 - $卽1
 - $唧1
@@ -66,6 +67,30 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 勣1 | _Tsik(7)_ [[zik1]]
+
+$$
+R
+  ⼒ + 11
+U
+  U+52E3
+F
+  ==
+  - [[F1.74 勣]] 功也勞也
+  ==
+W
+  ====
+  - [[Page~569 勣(7)]]
+    ==
+    - Merit, praiseworthy acts;
+    - meritorious deeds, conduct worthy of reward.
+    ==
+    --
+    Interchanged with the next [[$績1]].
+    --
+  ====
+$$
 
 ###+ 即1 | _Tsik(7)_ (zik1)
 
