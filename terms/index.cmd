@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of Cantonese terms by Jyutping
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-05-10
 * %copyright-prior-years --> 2023--
 * %meta-description --> searchable index of Cantonese terms by Jyutping
 
@@ -598,6 +598,12 @@ window.onload = applyFilter;
   //
     , zap1 maa1
     , [執媽](/entries/zap#cantonese-執媽)
+  //
+    , zap1 maa5
+    , [執碼~\(verb\)](/entries/zap#cantonese-執碼-verb)
+  //
+    , zap1 maa5-2
+    , [執碼~\(noun\)](/entries/zap#cantonese-執碼-noun)
   //
     , zap1 saang1
     , [執生](/entries/zap#cantonese-執生)

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zap
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-05-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -172,6 +172,14 @@ E
   - 【執媽】 (zap1 maa1):
     ++
     1. A midwife (strictly female).
+    ++
+  - 【執碼-verb】 (zap1 maa5):
+    ++
+    1. To gather ingredients for a chef to cook.
+    ++
+  - 【執碼-noun】 (zap1 maa5-2):
+    ++
+    1. The kitchen assistant who gather ingredients for the chefs to cook.
     ++
   - 【執生】 (zap1 saang1):
     ++
