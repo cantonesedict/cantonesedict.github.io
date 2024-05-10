@@ -399,6 +399,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $瘠3
+- $蹐3
 - $隻3
 ==
 </nav>
@@ -425,6 +426,30 @@ W
 S
   ==
   - $瘠zek3
+  ==
+$$
+
+### 蹐3 | _Tsik(8)_ [[zik3]]
+
+$$
+R
+  ⾜ + 10
+U
+  U+8E50
+F
+  ==
+  - [[F1.74 蹐]] 局蹐累足也
+  ==
+W
+  ====
+  - [[Page~569 瘠(8)]]
+    --
+    [[Reading variation. **See $蹐zek3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $蹐zek3
   ==
 $$
 
