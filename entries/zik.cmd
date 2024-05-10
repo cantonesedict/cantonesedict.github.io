@@ -61,6 +61,7 @@ $$
 - $唧1
 - $喞1
 - $堲1
+- $績1
 - $織1
 - $職1
 - $陟1
@@ -273,6 +274,45 @@ C
   - The reading _tsik(7)_ (zik1) is not unattested;
     《廣韻》 has 子力切, notwithstanding it is explained 風堲
     (which I do not comprehend).
+  ==
+$$
+
+### 績1 | _Tsik(7)_ [[zik1]]
+
+$$
+R
+  ⽷ + 11
+U
+  U+7E3E
+A
+  ==
+  - $勣1 [[for "achievement" and "merit" senses]]
+  ==
+F
+  ==
+  - [[F1.74 績]] 襞績紡績又功績
+  ==
+W
+  ====
+  - [[Page~569 績(7)]]
+    ==
+    - To twist hempen threads on the knee;
+    - to split hempen fibres;
+    - merit by laudable works;
+    - an affair, a business;
+    - to complete, to bring to a conclusion;
+    - to join, to piece;
+    - _tsik(7) (4)m(a/)_
+        [[zik1 maa4 績麻]],
+        to twist hemp;
+    - _(1)kung tsik(7)_
+        [[gung1 zik1 功績]]
+        works of public merit.
+    ==
+  ====
+C
+  ==
+  - Williams' "public merit": Here he may be confusing 功 with 公.
   ==
 $$
 
