@@ -61,6 +61,7 @@ $$
 - $唧1
 - $喞1
 - $堲1
+- $積1
 - $績1
 - $織1
 - $職1
@@ -275,6 +276,46 @@ C
     《廣韻》 has 子力切, notwithstanding it is explained 風堲
     (which I do not comprehend).
   ==
+$$
+
+### 積1 | _Tsik(7)_ [[zik1]]
+
+$$
+R
+  ⽲ + 11
+U
+  U+7A4D
+F
+  ==
+  - [[F1.74 積]] 聚也蓄也累也
+  ==
+W
+  ====
+  - [[Page~569 積(7)]]
+    ==
+    - To gather, to hoard up, to accumulate, to store;
+    - to increase, to add to, to pile upon;
+    - increasingly;
+    - _f(a/)t(8) tsik(7)_
+        [[faat3 zik1 發積]]
+        to accomplish, to succeed in;
+    - _(2)shui tsik(7) (4)m(a/)i_
+        [[seoi2 zik1 maai4 水積埋]],
+        water standing, as in puddles;
+    - _(1)t(u/)i tsik(7)_
+        [[deoi1 zik1 堆積]]
+        to heap up, as rubbish;
+    - _tsik(7) fuk(7)_
+        [[zik1 fuk1 積福]]
+        much happiness derived from good works;
+    - _tsik(7) (4)n(i/)n_
+        [[zik1 nin4 積年]],
+        during many years, for a long time;
+    - _tsik(7) ch(')uk(7)_
+        [[zik1 cuk1 積蓄]]
+        to hoard or lay by.
+    ==
+  ====
 $$
 
 ### 績1 | _Tsik(7)_ [[zik1]]
