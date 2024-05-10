@@ -56,6 +56,7 @@ $$
 - $拓3
 - $摭3
 - $炙3
+- $瘠3
 - $跖3
 - $蹠3
 - $隻3
@@ -194,6 +195,42 @@ W
 C
   ==
   - Williams' 膾炙人口: Corrected _(2)k(u/)i_ (gui2) to _(2)k(')(u/)i_ (kui2).
+  ==
+$$
+
+###+ 瘠3 | _Tsek(8)_ (zek3)
+
+$$
+R
+  ⽧ + 10
+U
+  U+7620
+V
+  ==
+  - zik3 (alternative)
+  - zik6 (expected from 秦昔切)
+  ==
+F
+  ==
+  - [[F1.75 瘠 _Tsik(8)_ (zik3)]] 人瘦曰瘠
+  ==
+W
+  ====
+  - [[Page~568 瘠(8) _Tsik(8)_ (zik3); here normalised to _Tsek(8)_ (zek3)]]
+    ==
+    - Lean, thin, reduced to a bone, emaciated;
+    - poor, as land;
+    - to make lean;
+    - to impoverish;
+    - to retrench, to bring down;
+    - _[tsek](8) (2)t(')(o\)_
+        [[zek3 tou2 瘠土]],
+        meagre soil.
+    ==
+  ====
+S
+  ==
+  - $瘠zik3
   ==
 $$
 
