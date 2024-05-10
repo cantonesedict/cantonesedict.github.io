@@ -170,6 +170,7 @@ For all radicals, see [Index of characters by radical](./).
       - $啻ci3
       - $喳zaa4
       - $啾zau1
+      - $喞zik1
       ==
       </nav>
   //
