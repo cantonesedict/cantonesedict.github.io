@@ -164,6 +164,7 @@ For all radicals, see [Index of characters by radical](./).
       - $鷃aan3
       - $鶯ang1
       - $鷀ci4
+      - $鶺zek3
       - $鶺zik3
       ==
       </nav>

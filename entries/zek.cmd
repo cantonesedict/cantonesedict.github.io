@@ -61,6 +61,7 @@ $$
 - $蹐3
 - $蹠3
 - $隻3
+- $鶺3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -394,5 +395,36 @@ C
 S
   ==
   - $隻zik3
+  ==
+$$
+
+###+ 鶺3 | _Tsek(8)_ (zek3)
+
+$$
+R
+  ⿃ + 10
+U
+  U+9DBA
+V
+  ==
+  - zik3 (alternative)
+  ==
+F
+  ==
+  - [[F1.75 鶺 _Tsik(8)_ (zik3)]] 鶺鴒鳥名
+  ==
+W
+  ====
+  - [[Page~569 鶺(8) _Tsik(8)_ (zik3); here normalised to _Tsek(8)_ (zek3)]]
+    ==
+    - A wagtail, called _[tsek](8) (4)ling_ [[zek3 ling4 鶺鴒]];
+    - it has a mottled, black neck;
+    - another name for it is _(4)ts(')(i/)n (5)m(o\)_ [[cin4 mou5 錢母]],
+      or money mother.
+    ==
+  ====
+S
+  ==
+  - $鶺zik3
   ==
 $$
