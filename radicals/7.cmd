@@ -539,6 +539,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $蹌coeng1
+      - $蹐zek3
       - $蹐zik3
       ==
       </nav>

@@ -58,6 +58,7 @@ $$
 - $炙3
 - $瘠3
 - $跖3
+- $蹐3
 - $蹠3
 - $隻3
 ==
@@ -271,6 +272,36 @@ C
   ==
   - Williams does not provide separate entries for 跖 and $蹠3.
     I have split things up accordingly.
+  ==
+$$
+
+###+ 蹐3 | _Tsek(8)_ (zek3)
+
+$$
+R
+  ⾜ + 10
+U
+  U+8E50
+V
+  ==
+  - zik3 (alternative)
+  ==
+F
+  ==
+  - [[F1.74 蹐 _Tsik(8)_ (zik3)]] 局蹐累足也
+  ==
+W
+  ====
+  - [[Page~569 蹐(8) _Tsik(8)_ (zik3); here normalised to _Tsek(8)_ (zek3)]]
+    ==
+    - To step carefully;
+    - short steps, a mincing walk;
+    - to walk here and there.
+    ==
+  ====
+S
+  ==
+  - $蹐zik3
   ==
 $$
 
