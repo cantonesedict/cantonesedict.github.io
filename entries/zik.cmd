@@ -62,6 +62,7 @@ $$
 - $喞1
 - $嘖1
 - $堲1
+- $幘1
 - $積1
 - $績1
 - $織1
@@ -304,6 +305,31 @@ C
     《廣韻》 has 子力切, notwithstanding it is explained 風堲
     (which I do not comprehend).
   ==
+$$
+
+### 幘1 | _Tsik(7)_ [[zik1]]
+
+$$
+R
+  ⼱ + 11
+U
+  U+5E58
+V
+  ==
+  - zaak3 (expected from 側革切)
+  ==
+F
+  ==
+  - [[F1.75 幘]] 巾幘
+  ==
+W
+  ====
+  - [[Page~569 幘(7)]]
+    ==
+    - A turban or cloth wound around the head;
+    - a kerchief used instead of a cap.
+    ==
+  ====
 $$
 
 ### 積1 | _Tsik(7)_ [[zik1]]
