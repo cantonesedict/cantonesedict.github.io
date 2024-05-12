@@ -63,6 +63,7 @@ $$
 - $嘖1
 - $堲1
 - $幘1
+- $磧1
 - $積1
 - $績1
 - $織1
@@ -330,6 +331,35 @@ W
     - a kerchief used instead of a cap.
     ==
   ====
+$$
+
+### 磧1 | _Tsik(7)_ [[zik1]]
+
+$$
+R
+  ⽯ + 11
+U
+  U+78E7
+V
+  ==
+  - cik1 (expected from 七迹切)
+  ==
+F
+  ==
+  - [[F1.74 磧]] 水渚有石者
+  ==
+W
+  ====
+  - [[Page~569 磧(7)]]
+    ==
+    - Rocks under water, half-tide rocks, a stony bottom;
+    - covered with sand and stones.
+    ==
+  ====
+S
+  ==
+  - $磧zaak3
+  ==
 $$
 
 ### 積1 | _Tsik(7)_ [[zik1]]

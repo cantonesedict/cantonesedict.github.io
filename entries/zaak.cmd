@@ -219,6 +219,10 @@ C
   ==
   - Alternative form of 矺. **See $矺zaak3 for the canonical entry.**
   ==
+S
+  ==
+  - $磧zik1
+  ==
 $$
 
 ### 窄3 | _Ch(a/)k(8)_ [[zaak3]]
