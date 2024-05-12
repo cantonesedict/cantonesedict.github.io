@@ -195,9 +195,10 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $嘔au2
+      - $嘖zaak3
+      - $嘖zik1
       - $𠽃 (⿰口執)zap1
       - $嗻ze3
-      - $嘖zik1
       ==
       </nav>
   //

@@ -42,6 +42,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $嘖3
 - $矺3
 - $砸3
 - $磧3
@@ -54,6 +55,45 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+###+ 嘖3 | _Ch(a/)k(8)_ (zaak3)
+
+$$
+R
+  ⼝ + 11
+U
+  U+5616
+V
+  ==
+  - zik1 (common)
+  ==
+F
+  ==
+  - [[F1.75 嘖 _Tsik(7)_ (zik1)]] 大呼聲
+  ==
+W
+  ====
+  - [[Page~569 嘖(7)賾(7) _Tsik(7)_ (zik1); here normalised to _Ch(a/)k(8)_ (zaak3)]]
+    ==
+    - To bawl, to cry after;
+    - to dispute about, noisy quarreling;
+    - distant, retired, hidden;
+    - garrulous, impertinent or meddlesome;
+    - to assent to;
+    - _[ch(a/)k(8)] [ch(a/)k(8)] ts(a/)n(3)_
+        [[zaak3 zaak3 zaan3]]
+        to chuckle adimiringly.
+    ==
+  ====
+C
+  ==
+  - The uncommon reading zik1 is that given in Fan Wan.
+  ==
+S
+  ==
+  - $嘖zik1
+  ==
+$$
 
 ###+ 矺3 | _Ch(a/)k(8)_ (zaak3)
 
