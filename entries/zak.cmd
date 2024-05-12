@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zak
-* %date-modified --> 2024-05-09
+* %date-modified --> 2024-05-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -264,6 +264,9 @@ R
   ⾙ + 11
 U
   U+8CFE
+H
+  May appear with left component as 𦣝 (+10) or 𦣞 (+11 assumed here),
+  depending on the font.
 F
   ==
   - [[F2.32 ::[賾]::]] 深也雜也

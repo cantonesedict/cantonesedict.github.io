@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-05-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -370,6 +370,9 @@ R
   ⾙ + 11
 U
   U+8CFE
+H
+  May appear with left component as 𦣝 (+10) or 𦣞 (+11 assumed here),
+  depending on the font.
 F
   ==
   - [[F2.32 ::[賾]:: _Chak(7)_ (zak1)]] 深也雜也
