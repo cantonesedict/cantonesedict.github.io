@@ -63,6 +63,7 @@ $$
 - $嘖1
 - $堲1
 - $幘1
+- $畟1
 - $磧1
 - $積1
 - $績1
@@ -331,6 +332,40 @@ W
     - a kerchief used instead of a cap.
     ==
   ====
+$$
+
+### [畟]1 | _Tsik(7)_ [[zik1]]
+
+$$
+R
+  ⽥ + 5
+U
+  U+755F
+V
+  ==
+  - cak1 (uncommon)
+  - cik1 (expected from 初力切)
+  ==
+F
+  ==
+  - [[F1.75 ::[畟]::]] ::田器之[尖]利者::
+  ==
+W
+  ====
+  - [[Page~569 ::[畟](7)::]]
+    ==
+    - A sharp agricultural instrument like a mattoc;
+    - to attend to husbandry.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword ⿳由儿夂 to 畟, and corrected 犬 to 尖.
+  - Williams misprints 畟 as ⿳田儿又.
+  - The reading _tsik(7)_ (zik1) is not unattested;
+    《廣韻》 has 子力切, though without explanation (except 又初力切),
+    and Kangxi quotes 又《集韻》節力切音卽義同.
+  ==
 $$
 
 ### 磧1 | _Tsik(7)_ [[zik1]]
