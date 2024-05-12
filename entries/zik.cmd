@@ -66,6 +66,7 @@ $$
 - $績1
 - $織1
 - $職1
+- $跡1
 - $陟1
 ==
 </nav>
@@ -487,6 +488,61 @@ C
   ==
   - Williams' 職員: Now simply "employee".
   ==
+$$
+
+### 跡1 | _Tsik(7)_ [[zik1]]
+
+$$
+R
+  ⾜ + 6
+U
+  U+8DE1
+A
+  ==
+  - $蹟1
+  - $迹1
+  ==
+F
+  ==
+  - [[F1.74 蹟]] 足蹟
+  - [[F1.74 跡]] 形跡踪跡
+  - [[F1.74 迹]] 同上
+  ==
+W
+  ====
+  - [[Page~569 迹(7)跡(7)蹟(7)]]
+    ==
+    - A trace, a foot-mark, a foot-step;
+    - vestiges, effects, consequences, signs;
+    - the results of previous conduct;
+    - to trace out, to follow up, to search for the effects of;
+    - _k(e/)uk(8) tsik(7)_
+        [[goek3 zik1 腳跡]]
+        a foot-print;
+    - _(4)shan tsik(7)_
+        [[san4 zik1 神跡]]
+        evidences of divine power, miracles;
+    - _(2)ying tsik(7) (2)ho (4)(i/)_
+        [[jing2 zik1 ho2 ji4 影跡可疑]],
+        a suspicious appearance;
+    - _(4)m(o\) (2)ying tsik(7)_
+        [[mou4 jing2 zik1 無影跡]]
+        no clue of him;
+    - _shing(3) tsik(7)_
+        [[sing3 zik1 勝跡]]
+        renowned, magnificent, as a view;
+    - _ping(6) (4)m(o\) (1)tsung tsik(7)_
+        [[bing6 mou4 zung1 zuk1 並無蹤跡]]
+        I can find out nothing about him;
+    - _yan(3) tsik(7)_
+        [[jan3 zik1 印跡]]
+        a stain;
+    - _(4)han tsik(7)_
+        [[han4 zik1 痕跡]]
+        a streak, as of dirt;
+        bad feelings left in the mind.
+    ==
+  ====
 $$
 
 ### 陟1 | _Chik(7)_ [[zik1]]
