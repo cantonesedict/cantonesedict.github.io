@@ -732,6 +732,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Character entry links
 |:
   //
+    , 6
+    ,
+      <nav class="sideways">
+      ==
+      - $迹zik1
+      ==
+      </nav>
+  //
     , 7
     ,
       <nav class="sideways">
