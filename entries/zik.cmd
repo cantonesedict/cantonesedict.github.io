@@ -67,6 +67,7 @@ $$
 - $織1
 - $職1
 - $跡1
+- $蹟1
 - $陟1
 ==
 </nav>
@@ -542,6 +543,28 @@ W
         a streak, as of dirt;
         bad feelings left in the mind.
     ==
+  ====
+$$
+
+### 蹟1 | _Tsik(7)_ [[zik1]]
+
+$$
+R
+  ⾜ + 11
+U
+  U+8E5F
+F
+  ==
+  - [[F1.74 蹟]] 足蹟
+  - [[F1.74 跡]] 形跡踪跡
+  - [[F1.74 迹]] 同上
+  ==
+W
+  ====
+  - [[Page~569 迹(7)跡(7)蹟(7)]]
+    --
+    [[Alternative form of 跡. **See $跡zik1 for the canonical entry.**]]
+    --
   ====
 $$
 
