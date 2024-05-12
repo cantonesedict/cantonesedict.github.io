@@ -77,7 +77,7 @@ W
     ==
     - To bawl, to cry after;
     - to dispute about, noisy quarreling;
-    - distant, retired, hidden;
+    - [[see $賾zaak3 for "abstruse" senses]];
     - garrulous, impertinent or meddlesome;
     - to assent to;
     - _[ch(a/)k(8)] [ch(a/)k(8)] ts(a/)n(3)_
@@ -87,6 +87,10 @@ W
   ====
 C
   ==
+  - Williams records 賾 as an alternative form of 嘖,
+    but this is only true for the "abstruse" senses,
+    which he has already recorded under _chak(7)_ (zak1)^,
+    here normalised to _ch(a/)k(8)_ (zaak3).
   - The uncommon reading zik1 is that given in Fan Wan.
   ==
 S
@@ -424,6 +428,12 @@ W
     - Obscure, hard of understanding;
     - the secret springs, the hidden cause;
     - occult, profound.
+    ==
+  - [[Page~569 嘖(7)賾(7) _Tsik(7)_ (zik1); here normalised to _Ch(a/)k(8)_ (zaak3)]]
+    ==
+    - [[...]];
+    - distant, retired, hidden;
+    - [[...]].
     ==
   ====
 C
