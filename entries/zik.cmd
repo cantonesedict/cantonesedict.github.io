@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2024-05-10
+* %date-modified --> 2024-05-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -60,6 +60,7 @@ $$
 - $卽1
 - $唧1
 - $喞1
+- $嘖1
 - $堲1
 - $積1
 - $績1
@@ -238,6 +239,30 @@ W
     [[Alternative form of 唧. **See $唧zik1 for the canonical entry.**]]
     --
   ====
+$$
+
+### 嘖1 | _Tsik(7)_ [[zik1]]
+
+$$
+R
+  ⼝ + 11
+U
+  U+5616
+F
+  ==
+  - [[F1.75 嘖]] 大呼聲
+  ==
+W
+  ====
+  - [[Page~569 嘖(7)賾(7)]]
+    --
+    [[Reading variation. **See $嘖zaak3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $嘖zaak3 (TODO)
+  ==
 $$
 
 ### 堲1 | _Tsik(7)_ [[zik1]]
