@@ -203,6 +203,9 @@ W
   ====
 C
   ==
+  - Williams has been misled by Fan Wan
+    into placing this under _Chik(9)_ (zik6).
+    See remarks under $zek3.
   - Williams' 膾炙人口: Corrected _(2)k(u/)i_ (gui2) to _(2)k(')(u/)i_ (kui2).
   ==
 $$
@@ -256,7 +259,7 @@ V
   ==
 F
   ==
-  - [[F1.74 脊]] 脊骨
+  - [[F1.74 脊 _Tsik(8)_ (zik3)]] 脊骨
   ==
 W
   ====
@@ -331,6 +334,9 @@ W
   ====
 C
   ==
+  - Williams has been misled by Fan Wan
+    into placing this under _Chik(9)_ (zik6).
+    See remarks under $zek3.
   - Williams does not provide separate entries for 跖 and $蹠3.
     I have split things up accordingly.
   ==
@@ -397,6 +403,9 @@ W
   ====
 C
   ==
+  - Williams has been misled by Fan Wan
+    into placing this under _Chik(9)_ (zik6).
+    See remarks under $zek3.
   - Williams does not provide separate entries for $跖3 and 蹠.
     I have split things up accordingly.
   ==
@@ -495,6 +504,7 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $席6
 - $蓆6
 ==
 </nav>
@@ -505,6 +515,27 @@ $$
 (This [[脊]] and the next [[席; here corrected to 蓆]] are often read _tsek_.)
 --
 
+###+ 席6 | _Tsek(9)_ (zek6)
+
+$$
+R
+  ⼱ + 7
+U
+  U+5E2D
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Alternative form of 蓆, and reading variation. **See $蓆zik6 for the canonical entry.**
+  ==
+S
+  ==
+  - $席zik6
+  ==
+$$
+
 ### [蓆]6 | _Tsek(9)_ [[zek6]]
 
 $$
@@ -514,8 +545,8 @@ U
   U+84C6
 F
   ==
-  - [[F1.78 席]] 几席薦席草席又越席天子之旗
-  - [[F1.78 蓆]] 草蓆同上
+  - [[F1.78 席 _Tsik(9)_ (zik6)]] 几席薦席草席又越席天子之旗
+  - [[F1.78 蓆 _Tsik(9)_ (zik6)]] 草蓆同上
   ==
 W
   ====
