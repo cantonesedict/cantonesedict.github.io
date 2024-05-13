@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zek3](#3)
+- [zek6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -87,7 +88,7 @@ I have corrected Williams by placing 隻, 蹠跖, 炙, and 摭拓 under zek3 her
 
 --{.williams}
 [[Page~569, after 踖 _tsik(7)_ (zik1)]]
-(This [[脊]] and the next [[席]] are often read _tsek_.)
+(This [[脊]] and the next [[席; here corrected to 蓆]] are often read _tsek_.)
 --
 
 ### 拓3 | _[Chek(8)]_ [[zek3]]
@@ -485,5 +486,50 @@ W
 S
   ==
   - $鶺zik3
+  ==
+$$
+
+
+##{#6 .williams} Tsek(9) [[zek6 陽入]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $蓆6
+==
+</nav>
+<## /tone-6-characters ##>
+
+--{.williams}
+[[Page~569, after 踖 _tsik(7)_ (zik1)]]
+(This [[脊]] and the next [[席; here corrected to 蓆]] are often read _tsek_.)
+--
+
+### [蓆]6 | _Tsek(9)_ [[zek6]]
+
+$$
+R
+  ⾋ + 10
+U
+  U+84C6
+F
+  ==
+  - [[F1.78 席]] 几席薦席草席又越席天子之旗
+  - [[F1.78 蓆]] 草蓆同上
+  ==
+W
+  ====
+  - [[Page~570 席(9); here corrected to 蓆]]
+    --
+    [[Reading variation. **See $蓆zik6 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Williams has mixed up 席 and 蓆.
+  ==
+S
+  ==
+  - $蓆zik6
   ==
 $$

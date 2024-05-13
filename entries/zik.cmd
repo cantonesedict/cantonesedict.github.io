@@ -794,7 +794,7 @@ $$
 
 --{.williams}
 [[Page~569, after 踖 _tsik(7)_ (zik1)]]
-(This [[脊]] and the next [[席]] are often read _tsek_.)
+(This [[脊]] and the next [[席; here corrected to 蓆]] are often read _tsek_.)
 --
 
 ### 瘠3 | _Tsik(8)_ [[zik3]]
@@ -931,6 +931,7 @@ $$
 - $湜6
 - $直6
 - $稙6
+- $蓆6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -951,6 +952,11 @@ it appears that its authors have attempted to distinguish
 the vernacular rime _ek_ from the literary rime _ik_,
 notwithstanding all series appear under 第七英影應益.
 I have corrected Williams by placing 隻, 蹠跖, 炙, and 摭拓 under $zek3.]]
+--
+
+--{.williams}
+[[Page~569, after 踖 _tsik(7)_ (zik1)]]
+(This [[脊]] and the next [[席; here corrected to 蓆]] are often read _tsek_.)
 --
 
 ### 値6 | _Chik(9)_ [[zik6]]
@@ -1280,4 +1286,62 @@ W
     - the first wife.
     ==
   ====
+$$
+
+### [蓆]6 | _Tsik(9)_ [[zik6]]
+
+$$
+R
+  ⾋ + 10
+U
+  U+84C6
+A
+  ==
+  - $席6
+  ==
+V
+  ==
+  - zek6 (vernacular for "mat" senses)
+  ==
+F
+  ==
+  - [[F1.78 席]] 几席薦席草席又越席天子之旗
+  - [[F1.78 蓆]] 草蓆同上
+  ==
+W
+  ====
+  - [[Page~570 席(9); here corrected to 蓆]]
+    ==
+    - Interchanged with the next, meaning a mat;
+    - flowing;
+    - wide, large, as garments;
+    - ample;
+    - _(2)ts(')(o\) tsek(9)_
+        [[cou2 zek6]]
+        grass mats;
+    - _(4)t(')ang tsek(9)_
+        [[tang4 zek6]]
+        rattan mats;
+    - _chik(7) tsek(9)_
+        [[zik1 zek6]]
+        to weave mats;
+    - _(1)k(a/)i (4)man tsek(9)_
+        [[gaai1 man4 zek6]]
+        fine mats;
+    - _(1)f(a/) tsek(9)_
+        [[faa1 zek6]]
+        colored mats;
+    - _tsek(9) (1)p(a/)u_
+        [[zek6 baau1]],
+        a mat bag.
+    ==
+  ====
+C
+  ==
+  - Williams has mixed up 席 and 蓆.
+  ==
+S
+  ==
+  - $蓆zek6
+  ==
 $$
