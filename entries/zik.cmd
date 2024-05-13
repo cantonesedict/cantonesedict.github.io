@@ -784,12 +784,18 @@ $$
 <nav class="sideways">
 =={.modern}
 - $瘠3
+- $脊3
 - $蹐3
 - $隻3
 - $鶺3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+--{.williams}
+[[Page~569, after 踖 _tsik(7)_ (zik1)]]
+(This [[脊]] and the next [[席]] are often read _tsek_.)
+--
 
 ### 瘠3 | _Tsik(8)_ [[zik3]]
 
@@ -812,6 +818,30 @@ W
 S
   ==
   - $瘠zek3
+  ==
+$$
+
+### 脊3 | _Tsik(8)_ [[zik3]]
+
+$$
+R
+  ⾁ + 6
+U
+  U+810A
+F
+  ==
+  - [[F1.74 脊]] 脊骨
+  ==
+W
+  ====
+  - [[Page~569 脊(8)]]
+    --
+    [[Reading variation. **See $脊zek3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $脊zek3 (TODO)
   ==
 $$
 
