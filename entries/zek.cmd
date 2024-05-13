@@ -88,7 +88,7 @@ I have corrected Williams by placing 隻, 蹠跖, 炙, and 摭拓 under zek3 her
 
 --{.williams}
 [[Page~569, after 踖 _tsik(7)_ (zik1)]]
-(This [[脊]] and the next [[席; here corrected to 蓆]] are often read _tsek_.)
+(This [[脊]] and the next [[席, here corrected to 蓆]] are often read _tsek_.)
 --
 
 ### 拓3 | _[Chek(8)]_ [[zek3]]
@@ -512,7 +512,7 @@ $$
 
 --{.williams}
 [[Page~569, after 踖 _tsik(7)_ (zik1)]]
-(This [[脊]] and the next [[席; here corrected to 蓆]] are often read _tsek_.)
+(This [[脊]] and the next [[席, here corrected to 蓆]] are often read _tsek_.)
 --
 
 ###+ 席6 | _Tsek(9)_ (zek6)

@@ -794,7 +794,7 @@ $$
 
 --{.williams}
 [[Page~569, after 踖 _tsik(7)_ (zik1)]]
-(This [[脊]] and the next [[席; here corrected to 蓆]] are often read _tsek_.)
+(This [[脊]] and the next [[席, here corrected to 蓆]] are often read _tsek_.)
 --
 
 ### 瘠3 | _Tsik(8)_ [[zik3]]
@@ -926,6 +926,7 @@ $$
 - $値6
 - $值6
 - $埴6
+- $席6
 - $植6
 - $殖6
 - $湜6
@@ -956,7 +957,7 @@ I have corrected Williams by placing 隻, 蹠跖, 炙, and 摭拓 under $zek3.]]
 
 --{.williams}
 [[Page~569, after 踖 _tsik(7)_ (zik1)]]
-(This [[脊]] and the next [[席; here corrected to 蓆]] are often read _tsek_.)
+(This [[脊]] and the next [[席, here corrected to 蓆]] are often read _tsek_.)
 --
 
 ### 値6 | _Chik(9)_ [[zik6]]
@@ -1064,6 +1065,67 @@ W
         to feel one's way with a stick.
     ==
   ====
+$$
+
+### [席]6 | _Tsik(9)_ [[zik6]]
+
+$$
+R
+  ⼱ + 7
+U
+  U+5E2D
+F
+  ==
+  - [[F1.78 席]] 几席薦席草席又越席天子之旗
+  - [[F1.78 蓆]] 草蓆同上
+  ==
+W
+  ====
+  - [[Page~570 蓆(9); here corrected to 席]]
+    ==
+    - Mats; a mat spread for eating on;
+    - a repast, a meal, a table;
+    - pliable, without force of character;
+    - affection for;
+    - to depend on;
+    - rest, quiet;
+    - to spread upon, to lay out, as a mat;
+    - _(2)tsau tsik(9)_
+        [[zau2 zik6 酒席]]
+        a banquet;
+    - _tsik(9) (1)k(a/)n (4)t(')(a/)m k(')ap(9)_
+        [[zik6 gaan1 taam4 kap6 席間談及]]
+        speaking while at table;
+    - _(1)sai tsik(9)_
+        [[sai1 zik6 西席]]
+        a teacher;
+    - _(2)(i/) tsik(9)_
+        [[ji2 zik6 倚席]]
+        to lean on the table;
+    - _ch(')(i/)t(8) tsik(9)_
+        [[cit3 zik6 設席]]
+        to spread an entertainment;
+    - _(4)m(a/)i tsik(9)_
+        [[maai4 zik6 埋席]]
+        to sit at table;
+    - _tsik(9) t(i/)(6) (4)(i/) tso(6)_
+        [[zik6 dei6 ji4 zo6 席地而坐]]
+        to spread a feast and sit down;
+    - _(1)kam (5)m(a/)n (4)t(')ung tsik(9)_
+        [[gam1 maan5 tung4 zik6 今晚同席]]
+        I dine with you this evening.
+    ==
+  ====
+C
+  ==
+  - Williams has mixed up 席 and 蓆.
+    Which is easy to do, as 席 is an alternative form of 蓆; see $蓆zik6.
+  - Williams' 埋席: Strictly, to draw near and take one's seat at the table.
+  ==
+S
+  ==
+  - $席zek6
+  ==
 $$
 
 ### 植6 | _Chik(9)_ [[zik6]]
@@ -1312,7 +1374,7 @@ W
   ====
   - [[Page~570 席(9); here corrected to 蓆]]
     ==
-    - Interchanged with the next, meaning a mat;
+    - Interchanged with the next [[蓆, here corrected to $席6]], meaning a mat;
     - flowing;
     - wide, large, as garments;
     - ample;
