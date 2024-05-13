@@ -71,6 +71,7 @@ $$
 - $織1
 - $職1
 - $跡1
+- $踖1
 - $蹟1
 - $迹1
 - $陟1
@@ -674,6 +675,26 @@ W
         [[han4 zik1 痕跡]]
         a streak, as of dirt;
         bad feelings left in the mind.
+    ==
+  ====
+$$
+
+### 踖1 | _Tsik(7)_ [[zik1]]
+
+$$
+R
+  ⾜ + 8
+U
+  U+8E16
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~569 踖(7)]]
+    ==
+    - To stride;
+    - to straddle or step over a thing;
+    - to walk reverently, to step in a formal manner, to measure one's steps.
     ==
   ====
 $$
