@@ -932,6 +932,7 @@ $$
 - $湜6
 - $直6
 - $稙6
+- $籍6
 - $蓆6
 ==
 </nav>
@@ -1348,6 +1349,53 @@ W
     - the first wife.
     ==
   ====
+$$
+
+### 籍6 | _Tsik(9)_ [[zik6]]
+
+$$
+R
+  ⽵ + 14
+U
+  U+7C4D
+F
+  ==
+  - [[F1.78 籍]] 書籍典籍又册籍也
+  ==
+W
+  ====
+  - [[Page~570 籍(9)]]
+    ==
+    - A book for records, a tablet;
+    - a list, a register of the people;
+    - the place for enroling, one's native place;
+    - _(1)sh(u") tsik(9)_
+        [[syu1 zik6 書籍]]
+        books;
+    - _(4)(u/)i tsik(9)_
+        [[wui4 zik6 回籍]]
+        to return to one's home;
+    - _(4)(u")n tsik(9)_
+        [[jyun4 zik6 原籍]]
+        place where one's family originated;
+    - _lok(9) tsik(9)_
+        [[lok6 zik6 落籍]]
+        to be registered;
+    - _(1)sh(e/)ung tsik(9)_
+        [[soeng1 zik6 雙籍]]
+        enrolled in two places;
+    - _(4)long tsik(9)_
+        [[long4 zik6 狼籍]]
+        notorious, infamous;
+    - _(4)m(o\) tsik(9) (4)yau (4)man_
+        [[mou4 zik6 jau4 man4 無籍遊民]],
+        vagrants, gypsey-like, without origin.
+    ==
+  ====
+C
+  ==
+  - Williams' 雙籍: Now 雙重國籍 for "dual nationality".
+  ==
 $$
 
 ### [蓆]6 | _Tsik(9)_ [[zik6]]
