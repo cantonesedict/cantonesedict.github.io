@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zek
-* %date-modified --> 2024-05-10
+* %date-modified --> 2024-05-13
 * %copyright-prior-years -->
 
 %%%
@@ -57,6 +57,7 @@ $$
 - $摭3
 - $炙3
 - $瘠3
+- $脊3
 - $跖3
 - $蹐3
 - $蹠3
@@ -82,6 +83,11 @@ it appears that its authors have attempted to distinguish
 the vernacular rime _ek_ from the literary rime _ik_,
 notwithstanding all series appear under 第七英影應益.
 I have corrected Williams by placing 隻, 蹠跖, 炙, and 摭拓 under zek3 here.]]
+--
+
+--{.williams}
+[[Page~569, after 踖 _tsik(7)_ (zik1)]]
+(This [[脊]] and the next [[席]] are often read _tsek_.)
 --
 
 ### 拓3 | _[Chek(8)]_ [[zek3]]
@@ -233,6 +239,59 @@ W
 S
   ==
   - $瘠zik3
+  ==
+$$
+
+### 脊3 | _Tsek(8)_ [[zek3]]
+
+$$
+R
+  ⾁ + 6
+U
+  U+810A
+V
+  ==
+  - zik3 (uncommon)
+  ==
+F
+  ==
+  - [[F1.74 脊]] 脊骨
+  ==
+W
+  ====
+  - [[Page~569 脊(8)]]
+    ==
+    - The back-bone, the spine;
+    - the back;
+    - convergent, as the ribs;
+    - the ridge of a house;
+    - a sierra, a ridge;
+    - a bone;
+    - a principle;
+    - _p(u/)i(3) tsek(8) kwat(7)_
+        [[bui3 zek3 gwat1 背脊骨]]
+        the spine;
+    - _uk(7) tsek(8)_
+        [[uk1 zek3 屋脊]]
+        the top of a roof;
+    - _(4)m(o\) tsik(8) kwat(7)_
+        [[mou4 zik3 gwat1 無脊骨]]
+        no dependance can be put in him;
+    - _(2)h(i/) yat(7) [(4)]t(')i(u/) tsek(8)_
+        [[hei2 jat1 tiu4 zek3 起一條脊]]
+        raise a ridge;
+    - _(5)m(a/)i (4)(u") tsek(8)_
+        [[maai5 jyu4 zek3 買魚脊]]
+        buy the fish's back.
+    ==
+  ====
+C
+  ==
+  - Williams' 起一條脊: Corrected _(1)t(')i(u/)_ (tiu1) to _(4)t(')i(u/)_ (tiu4).
+  ==
+S
+  ==
+  - $脊zik3
   ==
 $$
 

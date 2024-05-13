@@ -615,10 +615,11 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $脊zek3
+      - $脊zik3
       - $胾zi1
       - $胾zi3
       - $脂zi1
-      - $脊zik3
       ==
       </nav>
   //
