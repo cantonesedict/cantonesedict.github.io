@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2024-05-12
+* %date-modified --> 2024-05-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -65,6 +65,7 @@ $$
 - $幘1
 - $畟1
 - $磧1
+- $稷1
 - $積1
 - $績1
 - $織1
@@ -394,6 +395,45 @@ W
 S
   ==
   - $磧zaak3
+  ==
+$$
+
+### 稷1 | _Tsik(7)_ [[zik1]]
+
+$$
+R
+  ⽲ + 10
+U
+  U+7A37
+F
+  ==
+  - [[F1.74 稷]] ::[黍]稷社稷又舜臣名::
+  ==
+W
+  ====
+  - [[Page~569 稷(7)]]
+    ==
+    - Panicled millet _(Milium)_, one of the five grains;
+    - quick, rapid;
+    - the god of agriculture;
+    - _(5)sh(e/) tsik(7)_
+        [[se5 zik1 社稷]]
+        the Ceres of the Chinese;
+        its altars have no roofs;
+    - _hau(6) tsik(7)_
+        [[hau6 zik1 后稷]]
+        a god of harvests;
+    - _h(a/)(6) tsik(7)_
+        [[haa6 zik1 下稷]]
+        afternoon.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿱⿻一火氺 to 黍.
+  - For 下稷, Kangxi has
+    又與昃通《穀梁傳定十五年》戊午日下稷乃克葬《註》稷昃也下稷謂晡時
+    (i.e. 稷 is used for 昃, with 下稷 meaning 晡時, which means 申時).
   ==
 $$
 
