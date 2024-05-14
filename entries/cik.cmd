@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [cik3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -43,5 +44,81 @@ MP
 S
   ==
   - $cek
+  ==
+$$
+
+
+##{#3 .williams} Ch(')ik(8) Ts(')ik(8) [[cik3 低陰入]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $赤3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 赤3 | _Ch(')ik(8)_ [[cik3]]
+
+$$
+R
+  ⾚ + 0
+U
+  U+8D64
+V
+  ==
+  - cek3 (alternative)
+  ==
+F
+  ==
+  - [[F1.74 赤]] 赤色
+  ==
+W
+  ====
+  - [[Page~14* 赤(8)]]
+    ==
+    - Carnation, purplish or light red;
+    - flesh color;
+    - naked, destitute, barren, poor;
+    - to redden;
+    - to denude;
+    - the 155th~radical of characters referring to red;
+    - _ch(')ik(8) (2)t(a/)m_
+        [[cik3 daam2 赤膽]],
+        pureminded;
+    - _ch(')ik(8) t(o\)(6)_
+        [[cik3 dou6 赤道]]
+        the equator;
+    - _ch(')ik(8) yat(9)_
+        [[cik3 jat6 赤日]]
+        full day;
+        heat of the day;
+    - _ch(')ik(8) (5)mai_
+        [[cik3 mai5 赤米]],
+        red rice;
+    - _ch(')ik(8) (2)tsz'_
+        [[cik3 zi2 赤子]]
+        an infant;
+        we, the people;
+    - _ch(')ik(8) (1)shan_
+        [[cik3 san1 赤身]],
+        naked;
+    - _ch(')ik(8) (1)sam_
+        [[cik3 sam1 赤心]],
+        guileless, sincere;
+    - _ch(')ik(8) p(a/)k(9) (4)n(a/)n (1)fan_
+        [[cik3 baak6 naan4 fan1 赤白難分]],
+        hard to distinguish;
+    - _(2)t(a/) ch(')ik(8) k(e/)uk(8)_
+        [[daa2 cik3 goek3 打赤腳]]
+        to bare the feet;
+    - _ch(')ik(8) t(i/)(6)_
+        [[cik3 dei6 赤地]]
+        barren wastes.
+    ==
+  ====
+S
+  ==
+  - $赤cek3 (TODO)
   ==
 $$
