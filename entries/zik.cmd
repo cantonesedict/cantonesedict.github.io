@@ -930,6 +930,7 @@ $$
 - $席6
 - $植6
 - $殖6
+- $汐6
 - $湜6
 - $直6
 - $稙6
@@ -1240,6 +1241,27 @@ W
     - _(2)ch(e/)ung chik(9) m(a/)n(6) mat(9)_
         [[zoeng2 zik6 maan6 mat6 長殖萬物]]
         nature flourishes.
+    ==
+  ====
+$$
+
+### 汐6 | _Tsik(9)_ [[zik6]]
+
+$$
+R
+  ⽔ + 3
+U
+  U+6C50
+F
+  ==
+  - [[F1.78 汐]] 潮汐朝曰潮夕曰汐
+  ==
+W
+  ====
+  - [[Page~570 汐(9)]]
+    ==
+    - The evening tide, high tide at sunset;
+    - the name of a stream.
     ==
   ====
 $$
