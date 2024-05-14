@@ -5,18 +5,12 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zek
-* %date-modified --> 2024-05-13
+* %date-modified --> 2024-05-14
 * %copyright-prior-years -->
 
 %%%
 
 #{.williams} Chek. Tsek. [[zek]]
-
-<nav class="sideways">
-=={.modern}
-- (Work in progress)
-==
-</nav>
 
 <## tones ##>
 <nav class="sideways">
