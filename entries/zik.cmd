@@ -75,6 +75,7 @@ $$
 - $蹟1
 - $迹1
 - $陟1
+- $鯽1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -774,6 +775,34 @@ C
   ==
   - Fan Wan entry: Normalised headword ⿰阝歩 to 陟.
     The explanation 我也 is erroneous.
+  ==
+$$
+
+###+ 鯽1 | _Tsik(7)_ (zik1)
+
+$$
+R
+  ⿂ + 7
+U
+  U+9BFD
+H
+  May appear as either ⿰魚即 (+7) or ⿰魚卽 (+9),
+  depending on the font.
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - The reading _tsik(7)_ (zik1) for 鯽 is not present in Williams;
+    an entry is included here for completeness.
+    ++
+    1. The crucian carp.
+    ++
+  ==
+S
+  ==
+  - $鯽zak1
   ==
 $$
 
