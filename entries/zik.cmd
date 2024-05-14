@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2024-05-13
+* %date-modified --> 2024-05-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -934,6 +934,7 @@ $$
 - $稙6
 - $籍6
 - $蓆6
+- $藉6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -1454,4 +1455,53 @@ S
   ==
   - $蓆zek6
   ==
+$$
+
+### 藉6 | _Tsik(9)_ [[zik6]]
+
+$$
+R
+  ⾋ + 14
+U
+  U+85C9
+V
+  ==
+  - ze3 (alternative for "mat" and "borrow" senses)
+  - ze6 (expected from 慈夜切 for "mat" and "borrow" senses)
+  ==
+F
+  ==
+  - [[F1.78 藉]] 賴也借也
+  ==
+W
+  ====
+  - [[Page~570 藉(9)]]
+    ==
+    - A mat on which things can be presented;
+    - to borrow;
+    - to assist, to help;
+    - to use for a while;
+    - to borrow from, to avail of, to make a means;
+    - by;
+    - in all which senses it is often read _ts(e/)(3)_ [[ze3]];
+    - in confusion, disturbed;
+    - liberal, generous;
+    - to lead, as by a string;
+    - _tsik(9) fuk(7)_
+        [[zik6 fuk1 藉福]]
+        by your kindness, I am well;
+    - _tsik(9) (2)hau_
+        [[zik6 hau2 藉口]],
+        to make a pretext, to gammon;
+    - _tsik(9) (4)shan p(i/)(3) yau(6)_
+        [[zik6 san4 bei3 jau6 藉神庇佑]]
+        he relied on Divine help;
+    - _ts(e/)(6) tsik(9)_
+        [[ze6 zik6 謝藉]]
+        to rely on for assistance;
+    - _tsik(9) shai(3)_
+        [[zik6 sai3 藉勢]]
+        to use the authority of others.
+    ==
+  ====
 $$
