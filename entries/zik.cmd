@@ -926,6 +926,7 @@ $$
 - $値6
 - $值6
 - $埴6
+- $夕6
 - $席6
 - $植6
 - $殖6
@@ -1065,6 +1066,39 @@ W
     - _ch(a/)k(9) chik(9)_
         [[zaak6 zik6 擿埴]]
         to feel one's way with a stick.
+    ==
+  ====
+$$
+
+### 夕6 | _Tsik(9)_ [[zik6]]
+
+$$
+R
+  ⼣ + 0
+U
+  U+5915
+F
+  ==
+  - [[F1.78 夕]] 朝夕
+  ==
+W
+  ====
+  - [[Page~570 夕(9)]]
+    ==
+    - Evening, dusk;
+    - late;
+    - last day of, as a year or month;
+    - out of the perpendicular;
+    - the 36th~radical;
+    - _chi(u/) tsik(9)_
+        [[ziu1 zik6 朝夕]]
+        morning and evening;
+    - _(4)ch(')(u") tsik(9)_
+        [[ceoi4 zik6 除夕]]
+        last day of the year;
+    - _(1)kam tsik(9)_
+        [[gam1 zik6 今夕]]
+        this evening.
     ==
   ====
 $$
