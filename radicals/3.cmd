@@ -609,6 +609,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $寁zaam2
       - $寁zaan2
+      - $寂zik6
       ==
       </nav>
   //

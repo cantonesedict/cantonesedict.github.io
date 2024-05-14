@@ -927,6 +927,7 @@ $$
 - $值6
 - $埴6
 - $夕6
+- $寂6
 - $席6
 - $植6
 - $殖6
@@ -1101,6 +1102,34 @@ W
     - _(1)kam tsik(9)_
         [[gam1 zik6 今夕]]
         this evening.
+    ==
+  ====
+$$
+
+### 寂6 | _Tsik(9)_ [[zik6]]
+
+$$
+R
+  ⼧ + 8
+U
+  U+5BC2
+F
+  ==
+  - [[F1.78 寂]] 寂寞幽靜也
+  ==
+W
+  ====
+  - [[Page~570 寂(9)]]
+    ==
+    - Still, silent, as an uninhabited house;
+    - quiet, unmoved, like a recluse;
+    - solitary, desolate, lonesome;
+    - _tsik(9) tsing(6)_
+        [[zik6 zing6 寂靜]]
+        a dead silence;
+    - _(4)(u")n tsik(9)_
+        [[jyun4 zik6 圓寂]]
+        completely silent, said of a priest's death.
     ==
   ====
 $$
