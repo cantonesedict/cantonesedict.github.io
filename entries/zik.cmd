@@ -934,6 +934,7 @@ $$
 - $湜6
 - $直6
 - $稙6
+- $穸6
 - $籍6
 - $蓆6
 - $藉6
@@ -1404,6 +1405,31 @@ W
     - Grain planted early, the first crop;
     - to sow in good time;
     - the first wife.
+    ==
+  ====
+$$
+
+### 穸6 | _Tsik(9)_ [[zik6]]
+
+$$
+R
+  ⽳ + 3
+U
+  U+7A78
+F
+  ==
+  - [[F1.78 穸]] 窀穸墓穴幽堂也穸夜也言穴中厚暗如長夜也
+  ==
+W
+  ====
+  - [[Page~570 穸(9)]]
+    ==
+    - Dark, obscure, as a winter night;
+    - a vault;
+    - a niche or recess in a sepulchre;
+    - _(1)chun tsik(9)_
+        [[zeon1 zik6 窀穸]]
+        the tomb, the grave.
     ==
   ====
 $$
