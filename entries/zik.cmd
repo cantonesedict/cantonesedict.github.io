@@ -968,6 +968,7 @@ $$
 - $籍6
 - $蓆6
 - $藉6
+- $蟄6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -1644,4 +1645,26 @@ W
         to use the authority of others.
     ==
   ====
+$$
+
+###+ 蟄6 | _Chik(9)_ (zik6)
+
+$$
+R
+  ⾍ + 11
+U
+  U+87C4
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation. **See $蟄zat6 for the canonical entry.**
+  ==
+S
+  ==
+  - $蟄zat6
+  - $蟄zit3 (TODO)
+  ==
 $$
