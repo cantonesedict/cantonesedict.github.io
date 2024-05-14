@@ -63,6 +63,7 @@ $$
 - $嘖1
 - $堲1
 - $幘1
+- $漬1
 - $畟1
 - $磧1
 - $稷1
@@ -335,6 +336,42 @@ W
     - a kerchief used instead of a cap.
     ==
   ====
+$$
+
+### 漬1 | _Tsik(7)_ [[zik1]]
+
+$$
+R
+  ⽔ + 11
+U
+  U+6F2C
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~611 (1)漬]]
+    --
+    Usually pronounced _tsik(7)_ [[zik1]] [[**see $漬zik1**]].
+    --
+    ==
+    - [[...]];
+    - _(2)shui tsik(7)_
+        [[seoi2 zik1 水漬]]
+        damaged by wet, as cargo;
+    - _yan(3) tsik(7)_
+        [[jan3 zik1 印漬]]
+        discolored, spotted, marks of wetting.
+    ==
+  ====
+C
+  ==
+  - When used as a noun, better translated as "stain".
+  ==
+S
+  ==
+  - $漬zi1
+  - $漬zi3
+  ==
 $$
 
 ### [畟]1 | _Tsik(7)_ [[zik1]]
