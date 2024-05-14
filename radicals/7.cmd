@@ -414,6 +414,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $赤cek3
       - $赤cik3
       ==
       </nav>

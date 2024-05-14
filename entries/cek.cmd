@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [cek3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -43,5 +44,38 @@ MP
 S
   ==
   - $cik
+  ==
+$$
+
+
+##{#3 .williams} Ch(')ek(8) <ins class="modern">Ts(')ek(8)</ins> [[cek3 低陰入]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $赤3
+==
+</nav>
+<## /tone-3-characters ##>
+
+###+ 赤3 | _Ch(')ek(8)_ (cek3)
+
+$$
+R
+  ⾚ + 0
+U
+  U+8D64
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation. **See $赤cik3 for the canonical entry.**
+  - Otherwise, an alternative form of 𤷫. **See $𤷫cek3 for the canonical entry.** (TODO)
+  ==
+S
+  ==
+  - $赤cik3
   ==
 $$
