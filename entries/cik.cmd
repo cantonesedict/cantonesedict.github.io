@@ -294,10 +294,41 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $尺3
 - $赤3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+--{.williams}
+[[Page~15*, before the last entry for _ch(')ik(8)_]]
+(The next character [[尺]] is usually pronounced _ch(')ek_.)
+--
+
+### 尺3 | _Ch(')ik(8)_ [[cik3]]
+
+$$
+R
+  ⼫ + 1
+U
+  U+5C3A
+F
+  ==
+  - [[F1.78 尺]] 十寸曰尺
+  ==
+W
+  ====
+  - [[Page~15* 尺(8)]]
+    --
+    [[Reading variation. **See $尺cek3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $尺ce1 (TODO)
+  - $尺cek3 (TODO)
+  ==
+$$
 
 ### 赤3 | _Ch(')ik(8)_ [[cik3]]
 
