@@ -56,6 +56,7 @@ $$
 =={.modern}
 - $勅1
 - $敕1
+- $斥1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -128,6 +129,57 @@ W
         to bestow honors on one's dead parents.
     ==
   ====
+$$
+
+### 斥1 | _Ch(')ik(7)_ [[cik1]]
+
+$$
+R
+  ⽄ + 1
+U
+  U+65A5
+F
+  ==
+  - [[F1.74 斥]] 開拒也又斥逐擯斥又斥候又斥鹵鹹地曰斥鹵
+  ==
+W
+  ====
+  - [[Page~14* 斥(7)]]
+    ==
+    - To exclude, to expel, to send off, to drive off;
+    - to scold;
+    - to pry into;
+    - reaching far, extending to, extensive, plenty;
+    - _ch(')ik(7) chuk(9)_
+        [[cik1 zuk6 斥逐]]
+        to order away;
+    - _m(i/)n(6) ch(')ik(7)_
+        [[min6 cik1 面斥]]
+        to reprimand, to speak rudely to;
+    - _ch(')ik(7) (5)l(o\)_
+        [[cik1 lou5 斥鹵]],
+        to let salt-water into the pans;
+    - _(2)ch(i/) ch(')ik(7)_
+        [[zi2 cik1 指斥]]
+        to point out faults;
+    - _ch(')ik(7) fong(3)_
+        [[cik1 fong3 斥放]]
+        to dismiss and banish;
+    - _ch(')ik(7) ch(')ut(7)_
+        [[cik1 ceot1 斥出]]
+        to remove, to expel;
+    - _ch(')ik(7) p(a/)k(9) (5)k(')(u")_
+        [[cik1 baak6 keoi5 斥白佢]],
+        rate him plainly;
+    - _ch(')ik(7) f(a/)t(8)_
+        [[cik1 faat3 斥法]]
+        to juggle.
+    ==
+  ====
+C
+  ==
+  - Williams' 斥法: Juggle, meaning to perform magical trickery.
+  ==
 $$
 
 

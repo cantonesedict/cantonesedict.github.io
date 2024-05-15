@@ -536,6 +536,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Character entry links
 |:
   //
+    , 1
+    ,
+      <nav class="sideways">
+      ==
+      - $斥cik1
+      ==
+      </nav>
+  //
     , 4
     ,
       <nav class="sideways">
