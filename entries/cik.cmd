@@ -59,6 +59,7 @@ $$
 - $敕1
 - $斥1
 - $螫1
+- $鷘1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -236,6 +237,32 @@ W
 S
   ==
   - $螫sik1 (TODO)
+  ==
+$$
+
+### 鷘1 | _Ch(')ik(7)_ [[cik1]]
+
+$$
+R
+  ⿃ + 11
+U
+  U+9DD8
+F
+  ==
+  - [[F1.74 ⿰敕鳥]] ::[鸂]⿰敕鳥鳥名::
+  ==
+W
+  ====
+  - [[Page~15* 鷘(7)]]
+    ==
+    - A bird with a crest which frequents brooks;
+    - a gay colored water-bird;
+    - a hoopoe?
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 雞 to 鸂.
   ==
 $$
 
