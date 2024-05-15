@@ -294,7 +294,6 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
-- $尺3
 - $赤3
 ==
 </nav>
@@ -315,31 +314,6 @@ the vernacular rime _ek_ from the literary rime _ik_,
 notwithstanding all series appear under 第七英影應益.
 I have corrected Williams by placing 尺 under $cek3.]]
 --
-
-### 尺3 | _Ch(')ik(8)_ [[cik3]]
-
-$$
-R
-  ⼫ + 1
-U
-  U+5C3A
-F
-  ==
-  - [[F1.78 尺]] 十寸曰尺
-  ==
-W
-  ====
-  - [[Page~15* 尺(8)]]
-    --
-    [[Reading variation. **See $尺cek3 for the canonical entry.**]]
-    --
-  ====
-S
-  ==
-  - $尺ce1
-  - $尺cek3
-  ==
-$$
 
 ### 赤3 | _Ch(')ik(8)_ [[cik3]]
 
