@@ -54,6 +54,7 @@ class Updater:
         with open(entry_cmd_name, 'r', encoding='utf-8') as old_cmd_file:
             old_cmd_content = old_cmd_file.read()
 
+        Updater._check_title(entry_cmd_name, old_cmd_content)
         Updater._check_williams_locator_heuristic(entry_cmd_name, old_cmd_content)
         Updater._check_ellipsis_item_punctuation(entry_cmd_name, old_cmd_content)
         Updater._check_typography_heuristic(entry_cmd_name, old_cmd_content)
@@ -79,6 +80,27 @@ class Updater:
 
         with open(entry_cmd_name, 'w', encoding='utf-8') as new_cmd_file:
             new_cmd_file.write(new_cmd_content)
+
+    @staticmethod
+    def _check_title(entry_cmd_name, cmd_content):
+        title_match = re.search(pattern=r'^\* %title --> (?P<title>[a-z]+)$', string=cmd_content, flags=re.MULTILINE)
+        if not title_match:
+            print(f'Error in `{entry_cmd_name}`: Title not found')
+            sys.exit(1)
+
+        title = title_match.group('title')
+        cmd_syllable = re.sub(
+            pattern=r'entries/(?P<syllable>[a-z]+)\.cmd',
+            repl=r'\g<syllable>',
+            string=entry_cmd_name,
+        )
+
+        if title != cmd_syllable:
+            print(
+                f'Error in `{entry_cmd_name}`: Title {title} does not match Jyutping syllable {cmd_syllable}',
+                file=sys.stderr,
+            )
+            sys.exit(1)
 
     @staticmethod
     def _check_williams_locator_heuristic(entry_cmd_name, cmd_content):
