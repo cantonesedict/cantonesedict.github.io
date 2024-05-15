@@ -55,6 +55,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $勅1
+- $叱1
 - $敕1
 - $斥1
 ==
@@ -80,6 +81,37 @@ W
     --
     [[Alternative form of 敕. **See $敕cik1 for the canonical entry.**]]
     --
+  ====
+$$
+
+### 叱1 | _Ch(')ik(7)_ [[cik1]]
+
+$$
+R
+  ⼝ + 2
+U
+  U+53F1
+F
+  ==
+  - [[F1.74 叱]] 呵叱怒罵也
+  ==
+W
+  ====
+  - [[Page~15* 叱(7)]]
+    ==
+    - To scold, to cry out to;
+    - to hoot at;
+    - to mention;
+    - _ch(')ik(7) m(a/)(6)_
+        [[cik1 maa6 叱罵]]
+        to rail at;
+    - _ch(')ik(7) (2)kau_
+        [[cik1 gau2 叱狗]],
+        to drive out a dog;
+    - _ch(')ik(7) (4)ming ch(i/)(3) (i/)(3)_
+        [[cik1 ming4 zi3 ji3 叱名致意]]
+        mention my name, and make my respects.
+    ==
   ====
 $$
 

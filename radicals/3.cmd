@@ -73,6 +73,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $叱cik1
       - $只zat1
       - $只zi2
       ==
