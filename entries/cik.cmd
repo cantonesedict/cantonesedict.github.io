@@ -58,6 +58,7 @@ $$
 - $叱1
 - $敕1
 - $斥1
+- $螫1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -211,6 +212,30 @@ W
 C
   ==
   - Williams' 斥法: Juggle, meaning to perform magical trickery.
+  ==
+$$
+
+### 螫1 | _Ch(')ik(7)_ [[cik1]]
+
+$$
+R
+  ⾍ + 11
+U
+  U+87AB
+F
+  ==
+  - [[F1.74 螫]] 蟲行毒也詩自求辛螫
+  ==
+W
+  ====
+  - [[Page~15* 螫(7)]]
+    --
+    [[Reading variation. **See $螫sik1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $螫sik1 (TODO)
   ==
 $$
 
