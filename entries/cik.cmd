@@ -54,10 +54,33 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $勅1
 - $敕1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 勅1 | _Ch(')ik(7)_ [[cik1]]
+
+$$
+R
+  ⼒ + 7
+U
+  U+52C5
+F
+  ==
+  - [[F1.74 勅]] 天子制書曰勅命
+  - [[F1.74 勑]] 同上
+  - [[F1.74 敕]] 同上又戒謹
+  ==
+W
+  ====
+  - [[Page~14* 勅(7)敕(7)]]
+    --
+    [[Alternative form of 敕. **See $敕cik1 for the canonical entry.**]]
+    --
+  ====
+$$
 
 ### 敕1 | _Ch(')ik(7)_ [[cik1]]
 
@@ -66,6 +89,11 @@ R
   ⽁ + 7
 U
   U+6555
+A
+  ==
+  - $勅1
+  - 勑
+  ==
 F
   ==
   - [[F1.74 勅]] 天子制書曰勅命
