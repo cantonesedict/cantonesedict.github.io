@@ -155,6 +155,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $鶖cau1
       - $鶿ci4
+      - $鶒cik1
       ==
       </nav>
   //

@@ -59,6 +59,7 @@ $$
 - $敕1
 - $斥1
 - $螫1
+- $鶒1
 - $鷘1
 ==
 </nav>
@@ -240,6 +241,23 @@ S
   ==
 $$
 
+###+ 鶒1 | _Ch(')ik(7)_ (cik1)
+
+$$
+R
+  ⿃ + 9
+U
+  U+9D92
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Alternative form of 鷘. **See $鷘cik1 for the canonical entry.**
+  ==
+$$
+
 ### 鷘1 | _Ch(')ik(7)_ [[cik1]]
 
 $$
@@ -247,6 +265,10 @@ R
   ⿃ + 11
 U
   U+9DD8
+A
+  ==
+  -{.modern} $鶒1
+  ==
 F
   ==
   - [[F1.74 ⿰敕鳥]] ::[鸂]⿰敕鳥鳥名::
