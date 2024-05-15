@@ -720,6 +720,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $尺ce1
       - $尺cik3
       ==
       </nav>

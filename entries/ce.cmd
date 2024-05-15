@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-05-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -48,6 +48,7 @@ $$
 =={.modern}
 - $唓1
 - $奢1
+- $尺1
 - $車1
 ==
 </nav>
@@ -117,6 +118,41 @@ W
         gay, wasteful.
     ==
   ====
+$$
+
+###+ 尺1 | _(1)Ch(')(e/)_ (ce1)
+
+$$
+R
+  ⼫ + 1
+U
+  U+5C3A
+A
+  ==
+  -{.modern} 伬 (for an octave lower)
+  -{.modern} 鿈 (for an octave higher)
+  ==
+V
+  ==
+  - ce2 (uncommon)
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - The reading _(1)ch(')(e/)_ (ce1) is not present in Williams;
+    an entry is included here for completeness.
+    ++
+    1. The equivalent to solfège _re_ in 工尺譜 (Gongche notation).
+    ++
+  ==
+S
+  ==
+  - $尺cek3 (TODO)
+  - $尺cik3
+  ==
 $$
 
 ### 車1 | _(1)Ch(')(e/)_ [[ce1]]
