@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cik
-* %date-modified --> 2024-05-14
+* %date-modified --> 2024-05-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [cik1](#1)
 - [cik3](#3)
 ==
 </nav>
@@ -45,6 +46,60 @@ S
   ==
   - $cek
   ==
+$$
+
+
+##{#1 .williams} Ch(')ik(7) Ts(')ik(7) [[cik1 高陰入]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $敕1
+==
+</nav>
+<## /tone-1-characters ##>
+
+### 敕1 | _Ch(')ik(7)_ [[cik1]]
+
+$$
+R
+  ⽁ + 7
+U
+  U+6555
+F
+  ==
+  - [[F1.74 勅]] 天子制書曰勅命
+  - [[F1.74 勑]] 同上
+  - [[F1.74 敕]] 同上又戒謹
+  ==
+W
+  ====
+  - [[Page~14* 勅(7)敕(7)]]
+    ==
+    - An order, a prohibition or command from the emperor;
+    - an ordinance, a special precept;
+    - a charter, a commission;
+    - _ch(')ik(7) (1)sh(u")_
+        [[cik1 syu1 敕書]],
+        credentials;
+        letters-patent;
+    - _ch(')ik(7) (1)fung_
+        [[cik1 fung1 敕封]],
+        a special perferment;
+    - _ch(')ik(7) ming(6)_
+        [[cik1 ming6 敕命]]
+        an imperial order;
+    - _ch(')ik(7) (4)f(u/)_
+        [[cik1 fu4 敕符]]^
+        to make a charm efficacious by spurting water on it;
+    - _ch(')ik(7) shau(6)_
+        [[cik1 sau6 敕受]]
+        to receive commands;
+    - _ch(')ik(7) tsang(6)_
+        [[cik1 zang6 敕贈]]
+        to bestow honors on one's dead parents.
+    ==
+  ====
 $$
 
 
