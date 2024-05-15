@@ -145,6 +145,13 @@ C
     for the writing-boards used for imperial decrees.
   - Williams' 尺度: More correctly the noun "measure", as 度 is in departing tone.
   ==
+E
+  ====
+  - 【間尺】 (gaan3 cek3-2):
+    ++
+    1. A ruler.
+    ++
+  ====
 S
   ==
   - $尺ce1
