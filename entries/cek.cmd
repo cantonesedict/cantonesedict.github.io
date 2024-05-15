@@ -4,7 +4,7 @@
 OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
-* %title --> zek
+* %title --> cek
 * %date-modified --> 2024-05-15
 * %copyright-prior-years -->
 
