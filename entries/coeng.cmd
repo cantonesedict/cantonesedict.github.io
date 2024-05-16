@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-05-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -875,9 +875,9 @@ E
     ++
     1. To exchange cash so as to break it up.
        ==
-       - 唱錢 (coeng3 cin4-2): "Break up cash."
-       - 唱散紙 (coeng3 saan2 zi2): "Exchange [for] smaller denominations."
-       - 唱散張廿蚊 (coeng3 saan2 zoeng1 jaa6 man1): "Break up [the] twenty-buck [note]."
+       - 暢錢 (coeng3 cin4-2): "Break up cash."
+       - 暢散紙 (coeng3 saan2 zi2): "Exchange [for] smaller denominations."
+       - 暢散張廿蚊 (coeng3 saan2 zoeng1 jaa6 man1): "Break up [the] twenty-buck [note]."
        ==
     ++
   ====
