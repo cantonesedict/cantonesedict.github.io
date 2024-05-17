@@ -61,6 +61,7 @@ $$
 - $敕1
 - $斥1
 - $螫1
+- $鏚1
 - $鶒1
 - $鷘1
 ==
@@ -152,6 +153,11 @@ R
   ⼽ + 7
 U
   U+621A
+A
+  ==
+  -{.modern} $慼1 (for "grief" senses)
+  -{.modern} $鏚1 (for "pole-ax" sense)
+  ==
 F
   ==
   - [[F1.75 戚]] 親戚憂戚又戚戚心動貌
@@ -300,6 +306,34 @@ W
 S
   ==
   - $螫sik1 (TODO)
+  ==
+$$
+
+### 鏚1 | _Ts(')ik(7)_ [[cik1]]
+
+$$
+R
+  ⾦ + 11
+U
+  U+93DA
+F
+  ==
+  - [[F1.75 鏚]] ::[斧]也::
+  ==
+W
+  ====
+  - [[Page~571 鏚(7)]]
+    --
+    [[Alternative form of $戚1.]]
+    --
+    ==
+    - A sort of pole-ax, a bill;
+    - an ornamental kind of ax carried in processions.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 釜 to 斧.
   ==
 $$
 
