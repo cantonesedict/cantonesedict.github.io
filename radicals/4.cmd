@@ -129,6 +129,7 @@ For all radicals, see [Index of characters by radical](./).
       - $慘caam2
       - $慙caam4
       - $慚caam4
+      - $慼cik1
       - $慞zoeng1
       ==
       </nav>

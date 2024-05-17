@@ -56,6 +56,7 @@ $$
 =={.modern}
 - $勅1
 - $叱1
+- $慼1
 - $戚1
 - $敕1
 - $斥1
@@ -116,6 +117,31 @@ W
         [[cik1 ming4 zi3 ji3 叱名致意]]
         mention my name, and make my respects.
     ==
+  ====
+$$
+
+### 慼1 | _Ts(')ik(7)_ [[cik1]]
+
+$$
+R
+  ⼼ + 11
+U
+  U+617C
+F
+  ==
+  - [[F1.75 慼]] 憂也
+  ==
+W
+  ====
+  - [[Page~571 慼(7)]]
+    ==
+    - Grief, sorrow;
+    - to be afflicted, to be sad;
+    - pained, mournful.
+    ==
+    --
+    Used for the preceding [[$戚1]].
+    --
   ====
 $$
 
