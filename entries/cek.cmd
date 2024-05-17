@@ -54,6 +54,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $尺3
+- $𤷫 (⿸疒刺)3
 - $赤3
 ==
 </nav>
@@ -158,6 +159,60 @@ S
   ==
 $$
 
+### 𤷫3 [[⿸疒刺]] | _[Ts(')ek](8)_ [[cek3]]
+
+$$
+R
+  ⽧ + 8
+U
+  U+24DEB
+A
+  ==
+  -{.modern} $赤3
+  ==
+V
+  ==
+  - cik3 (uncommon)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~571 𤷫(8)]]
+    ==
+    - A fullness in the stomach;
+    - a pain from laughing;
+    - rheumatic twinges, pain in the bones;
+    - _si(u/)(3) t(o\)(3) (5)t(')(o\) ts(')ek(8)_
+        [[siu3 dou3 tou5 cek3 笑到肚𤷫]]
+        laughed till he ached;
+    - _kwat(7) ts(')ek(8)_
+        [[gwat1 cek3 骨𤷫]]
+        shooting pains;
+    - _(1)sam ts(')ek(8)_
+        [[sam1 cek3 心𤷫]]
+        sorry for, deeply pained for;
+    - _(4)t(')au ts(')ek(8)_
+        [[tau4 cek3 頭𤷫]]
+        nervous headache.
+    ==
+  ====
+E
+  ====
+  - 【𤷫】 (cek3):
+    ++
+    1. Pain or aching.
+       ==
+       - 頭𤷫 (tau4 cek3): "Headache."
+       ==
+    ++
+  ====
+S
+  ==
+  - $𤷫cik3
+  ==
+$$
+
 ###+ 赤3 | _Ch(')ek(8)_ (cek3)
 
 $$
@@ -172,7 +227,7 @@ W
 C
   ==
   - Reading variation. **See $赤cik3 for the canonical entry.**
-  - Otherwise, an alternative form of 𤷫. **See $𤷫cek3 for the canonical entry.** (TODO)
+  - Otherwise, an alternative form of 𤷫. **See $𤷫cek3 for the canonical entry.**
   ==
 S
   ==

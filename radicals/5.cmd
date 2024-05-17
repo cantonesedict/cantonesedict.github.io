@@ -337,8 +337,9 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $瘂aa2
-      - $痴ci1
+      - $𤷫 (⿸疒刺)cek3
       - $𤷫 (⿸疒刺)cik3
+      - $痴ci1
       ==
       </nav>
   //

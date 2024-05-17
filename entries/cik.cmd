@@ -460,7 +460,7 @@ W
   ====
 S
   ==
-  - $𤷫cek3 (TODO)
+  - $𤷫cek3
   ==
 $$
 
@@ -525,7 +525,7 @@ W
   ====
 C
   ==
-  - Otherwise, an alternative form of 𤷫. **See $𤷫cek3 for the canonical entry.** (TODO)
+  - Otherwise, an alternative form of 𤷫. **See $𤷫cek3 for the canonical entry.**
   ==
 S
   ==
