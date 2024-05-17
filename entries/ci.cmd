@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-05-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1431,6 +1431,10 @@ C
   ==
   - Williams' 行刺: Metaphorically, to assassinate.
   - Williams' 鏨刺: Corrected _(5)ts(a/)m_ (zaam5) to _(5)ts(')(a/)m_ (caam5).
+  ==
+S
+  ==
+  - $刺cik3
   ==
 $$
 

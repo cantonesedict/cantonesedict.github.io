@@ -390,6 +390,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $刺3
 - $赤3
 ==
 </nav>
@@ -410,6 +411,35 @@ the vernacular rime _ek_ from the literary rime _ik_,
 notwithstanding all series appear under 第七英影應益.
 I have corrected Williams by placing 尺 under $cek3.]]
 --
+
+### 刺3 | _Ts(')ik(8)_ [[cik3]]
+
+$$
+R
+  ⼑ + 6
+U
+  U+523A
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~571 刺(8)]]
+    ==
+    - To bore through;
+    - to stab;
+    - to embroider;
+    - to tattoo, to mark the skin;
+    - a prickle, a thorn;
+    - _ts(')ik(8) ts(')ik(8) pat(7) (1)yau_
+        [[cik3 cik3 bat1 jau1 刺刺不休]],
+        incessant talking.
+    ==
+  ====
+S
+  ==
+  - $刺ci3
+  ==
+$$
 
 ### 赤3 | _Ch(')ik(8)_ [[cik3]]
 

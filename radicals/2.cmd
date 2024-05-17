@@ -390,6 +390,7 @@ For all radicals, see [Index of characters by radical](./).
       - $刷caat3
       - $刹caat3
       - $刺ci3
+      - $刺cik3
       - $制zai3
       ==
       </nav>
