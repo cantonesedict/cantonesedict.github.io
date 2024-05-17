@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cik
-* %date-modified --> 2024-05-15
+* %date-modified --> 2024-05-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -56,6 +56,7 @@ $$
 =={.modern}
 - $勅1
 - $叱1
+- $戚1
 - $敕1
 - $斥1
 - $螫1
@@ -114,6 +115,41 @@ W
     - _ch(')ik(7) (4)ming ch(i/)(3) (i/)(3)_
         [[cik1 ming4 zi3 ji3 叱名致意]]
         mention my name, and make my respects.
+    ==
+  ====
+$$
+
+### 戚1 | _Ts(')ik(7)_ [[cik1]]
+
+$$
+R
+  ⼽ + 7
+U
+  U+621A
+F
+  ==
+  - [[F1.75 戚]] 親戚憂戚又戚戚心動貌
+  ==
+W
+  ====
+  - [[Page~570 戚(7)]]
+    ==
+    - A sort of pole-ax;
+    - to compassionate, to pity;
+    - mournful, sorry;
+    - angry, aroused, vexed;
+    - deformed, marked in any way;
+    - near, related to, dear to;
+    - relatives;
+    - _(1)ts(')an ts(')ik(7)_
+        [[can1 cik]]
+        one's kindred;
+    - _(1)yau ts(')ik(7) (1)s(e/)ung (1)kw(a/)n_
+        [[jau1 cik1 soeng1 gwaan1]],
+        to feel for other's woes, mutually effected;
+    - _ts(')ik(7) ts(')ik(7)_
+        [[cik1 cik1]]
+        melancholy.
     ==
   ====
 $$
