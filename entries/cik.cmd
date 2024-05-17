@@ -391,6 +391,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $刺3
+- $𤷫 (⿸疒刺)3
 - $赤3
 ==
 </nav>
@@ -438,6 +439,28 @@ W
 S
   ==
   - $刺ci3
+  ==
+$$
+
+### 𤷫3 [[⿸疒刺]] | _Ts(')ik(8)_ [[cik3]]
+
+$$
+R
+  ⽧ + 8
+U
+  U+24DEB
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~571 𤷫(8)]]
+    --
+    [[Reading variation. **See $𤷫cek3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $𤷫cek3 (TODO)
   ==
 $$
 
@@ -500,6 +523,10 @@ W
         barren wastes.
     ==
   ====
+C
+  ==
+  - Otherwise, an alternative form of 𤷫. **See $𤷫cek3 for the canonical entry.** (TODO)
+  ==
 S
   ==
   - $赤cek3
