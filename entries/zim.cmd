@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $占1
+- $幨1
 - $沾1
 - $瞻1
 - $粘1
@@ -110,6 +111,44 @@ C
 S
   ==
   - $占zim3 (TODO)
+  ==
+$$
+
+### 幨1 | _(1)Ch(i/)m_ [[zim1]]
+
+$$
+R
+  ⼱ + 13
+U
+  U+5E68
+V
+  ==
+  - cim1 (expected from 處占切)
+  - cim3 (expected from 昌豔切)
+  ==
+F
+  ==
+  - [[F2.47 幨]] ::[帖]也::
+  ==
+W
+  ====
+  - [[Page~16* (1)幨]]
+    --
+    Similar to the last [[$襜1]].
+    --
+    ==
+    - A curtain of a carriage;
+    - a curtain over an opening;
+    - an overlap which hides a seam.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 𭘖 (⿰巾古) to 帖.
+  ==
+S
+  ==
+  - $幨cim1 (TODO)
   ==
 $$
 
