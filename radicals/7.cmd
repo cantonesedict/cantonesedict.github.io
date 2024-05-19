@@ -141,6 +141,7 @@ For all radicals, see [Index of characters by radical](./).
       - $訾zi1
       - $訾zi2
       - $詳coeng4
+      - $詹zim1
       ==
       </nav>
   //

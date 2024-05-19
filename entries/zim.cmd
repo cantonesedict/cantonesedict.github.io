@@ -53,6 +53,7 @@ $$
 - $沾1
 - $粘1
 - $覘1
+- $詹1
 - $霑1
 - $黏1
 ==
@@ -240,6 +241,40 @@ W
 C
   ==
   - Fan Wan entry: Corrected headword ⿰古見 to 覘.
+  ==
+$$
+
+### 詹1 | _(1)Ch(i/)m_ [[zim1]]
+
+$$
+R
+  ⾔ + 6
+U
+  U+8A79
+F
+  ==
+  - [[F2.47 詹]] 姓亦竹名
+  - [[F2.47 ⿸厃⿱儿舌]] 同上
+  ==
+W
+  ====
+  - [[Page~16* (1)詹]]
+    ==
+    - Tattling, wordy;
+    - to reach;
+    - at, extreme, such a time;
+    - to examine and direct;
+    - _ch(i/)m ch(i/)m_
+        [[zim1 zim1 詹詹]],
+        loquacious;
+    - _(2)kan ch(i/)m_
+        [[gan2 zim1 謹詹]],
+        carefully provide.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword ⿸厃⿱八𠮷 to 𦧕 (⿸厃⿱儿舌).
   ==
 $$
 
