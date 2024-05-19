@@ -51,6 +51,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $占1
+- $尖1
 - $幨1
 - $沾1
 - $瞻1
@@ -130,6 +131,54 @@ S
   ==
   - $占zim3
   ==
+$$
+
+### 尖1 | _(1)Ts(i/)m_ [[zim1]]
+
+$$
+R
+  ⼩ + 3
+U
+  U+5C16
+F
+  ==
+  - [[F2.48 尖]] 小也
+  ==
+W
+  ====
+  - [[Page~571 (1)尖]]
+    ==
+    - Sharp, pointed, acute, tapering to a peak or point;
+    - wedge-like, pyramidal, conical, or needle-shaped;
+    - clever, ingenious;
+    - _(2)ting (1)ts(i/)m_
+        [[ding2 zim1 頂尖]],
+        ready at, smart;
+    - _yuk(9) (1)ts(i/)m_
+        [[juk6 zim1 玉尖]],
+        a lady's fingers;
+    - _(1)ts(i/)m l(i/)(6)_
+        [[zim1 lei6 尖利]]
+        sharp, quick-witted;
+    - _(2)t(a/) (1)ts(i/)m_
+        [[daa2 zim1 打尖]],
+        to wedge in, to work one's self in;
+    - _(1)p(a/)n (1)ts(i/)m (4)h(a/)i_
+        [[baan1 zim1 haai4 班尖鞋]],
+        to dress in women's shoes, to act the female parts.
+    ==
+  ====
+E
+  ====
+  - 【打尖】 (daa2 zim1):
+    ++
+    1. To push in.
+    ++
+  - 【尖隊】 (zim1 deoi6-2)
+    ++
+    1. To push in line.
+    ++
+  ====
 $$
 
 ### 幨1 | _(1)Ch(i/)m_ [[zim1]]

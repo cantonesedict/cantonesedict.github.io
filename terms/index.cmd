@@ -332,6 +332,9 @@ window.onload = applyFilter;
     , daa2 laang5 zan3
     , [打冷震](/entries/zan#cantonese-打冷震)
   //
+    , daa2 zim1
+    , [打尖](/entries/zim#cantonese-打尖)
+  //
     , daai6 ban6 zoeng6
     , [大笨象](/entries/zoeng#cantonese-大笨象)
   //
@@ -715,6 +718,9 @@ window.onload = applyFilter;
   //
     , zim1
     , [占](/entries/zim#cantonese-占)
+  //
+    , zim1 deoi6-2
+    , [尖隊](/entries/zim#cantonese-尖隊)
   //
     , zoek3
     , [着~\(wear\)](/entries/zoek#cantonese-着-wear)

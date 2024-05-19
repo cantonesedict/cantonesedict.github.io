@@ -679,6 +679,23 @@ For all radicals, see [Index of characters by radical](./).
 ## ⼩ (small)
 
 <## radical-⼩-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 3
+    ,
+      <nav class="sideways">
+      ==
+      - $尖zim1
+      ==
+      </nav>
+''
+||||
 <## /radical-⼩-characters ##>
 
 
