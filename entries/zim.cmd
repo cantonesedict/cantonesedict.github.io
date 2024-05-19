@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $占1
 - $沾1
+- $瞻1
 - $粘1
 - $覘1
 - $詹1
@@ -158,6 +159,42 @@ C
   - Williams' 沾恩澤: Corrected _ch(a/)k(8)_ (zaak3) to _ch(a/)k(9)_ (zaak6).
   - Williams' 你沾着有滴唔好脾氣: Corrected _ch(e/)uk(8)_ (zoek3) to _ch(e/)uk(9)_ (zoek6).
   ==
+$$
+
+### 瞻1 | _(1)Ch(i/)m_ [[zim1]]
+
+$$
+R
+  ⽬ + 13
+U
+  U+77BB
+F
+  ==
+  - [[F2.47 瞻]] 瞻仰
+  ==
+W
+  ====
+  - [[Page~16* (1)瞻]]
+    ==
+    - To look up to, to reverence, to regard with respect;
+    - _(1)ch(i/)m (5)y(e/)ung_
+        [[zim1 joeng5 瞻仰]],
+        to look up to;
+        to have an audience;
+    - _(5)y(e/)ung (1)ch(i/)m (1)sh(a/)n (2)tau_
+        [[joeng5 zim1 saan1 dau2 仰瞻山斗]],
+        I look up to you, said to a sage or magnate;
+    - _(1)ch(i/)m mong(6)_
+        [[zim1 mong6 瞻望]]
+        to long for, to anticipate;
+    - _(1)ch(i/)m (2)p(i/) yat(9) (u")t(9)_
+        [[zim1 bei2 jat6 jyut6 瞻彼日月]]
+        I look at the sun and moon, _i.~e._ on my conscience;
+    - _(1)ch(i/)m sh(i/)(6)_
+        [[zim1 si6 瞻視]]
+        to expect.
+    ==
+  ====
 $$
 
 ### 粘1 | _(1)Ch(i/)m_ [[zim1]]
