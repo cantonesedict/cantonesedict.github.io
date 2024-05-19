@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $占1
 - $沾1
+- $覘1
 - $霑1
 ==
 </nav>
@@ -153,6 +154,40 @@ C
   ==
   - Williams' 沾恩澤: Corrected _ch(a/)k(8)_ (zaak3) to _ch(a/)k(9)_ (zaak6).
   - Williams' 你沾着有滴唔好脾氣: Corrected _ch(e/)uk(8)_ (zoek3) to _ch(e/)uk(9)_ (zoek6).
+  ==
+$$
+
+### 覘1 | _(1)Ch(i/)m_ [[zim1]]
+
+$$
+R
+  ⾒ + 5
+U
+  U+8998
+V
+  ==
+  - cim1 (expected from 丑廉切)
+  ==
+F
+  ==
+  - [[F2.47 ::[覘]::]] 闚視也
+  ==
+W
+  ====
+  - [[Page~15* (1)覘]]
+    ==
+    - To peep, to spy at, to glance at;
+    - _(1)ch(i/)m hau(6)_
+        [[zim1 hau6 覘候]]
+        to wait for;
+    - _(1)ch(i/)m k(i/)n(3)_
+        [[zim1 gin3 覘見]]
+        to take a look at.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword ⿰古見 to 覘.
   ==
 $$
 
