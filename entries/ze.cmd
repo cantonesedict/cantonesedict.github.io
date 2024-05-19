@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ze
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-05-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -48,6 +48,7 @@ $$
 =={.modern}
 - $啫1
 - $嗟1
+- $姐1
 - $罝1
 - $遮1
 ==
@@ -127,6 +128,27 @@ C
   - Williams' 嗟來之食: Not to beg for food, but food given in contempt.
     Per 《禮檀弓》, 嗟來食 "alas come eat" was the utterance of the wealthy man 黔敖
     as he handed out food and drink to the famished.
+  ==
+$$
+
+###+ 姐1 | _(1)Ts(e/)_ (ze1)
+
+$$
+R
+  ⼥ + 5
+U
+  U+59D0
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation (vernacular). **See $姐ze2 for the canonical entry.**
+  ==
+S
+  ==
+  - $姐ze2
   ==
 $$
 
@@ -300,6 +322,10 @@ E
     1. Father's concubine (presumed to be younger than his wife).
     ++
   ====
+S
+  ==
+  - $姐ze1
+  ==
 $$
 
 ### 者2 | _(2)Ch(e/)_ [[ze2]]
