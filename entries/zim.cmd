@@ -73,6 +73,10 @@ R
   ⼘ + 3
 U
   U+5360
+V
+  ==
+  - zem1 (for "jam" sense)
+  ==
 F
   ==
   - [[F2.47 占]] 騐也測也候也
@@ -111,6 +115,17 @@ C
     Changed Middle Chinese _chi(u/)(6)_ (ziu6)
     to common reading _shi(u/)(6)_ (siu6).
   ==
+E
+  ====
+  - 【占】 (zem1, zim1):
+    ++
+    1. Jam (fruit preserve).
+       ==
+       - 果占 (gwo2 zem1): "Fruit jam."
+       - 油占多 (jau4 zim1 do1): "Butter jam toast."
+       ==
+    ++
+  ====
 S
   ==
   - $占zim3
