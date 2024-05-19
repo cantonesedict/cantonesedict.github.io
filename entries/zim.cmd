@@ -55,6 +55,7 @@ $$
 - $尖1
 - $幨1
 - $沾1
+- $漸1
 - $瞻1
 - $粘1
 - $襜1
@@ -266,6 +267,35 @@ C
   ==
   - Williams' 沾恩澤: Corrected _ch(a/)k(8)_ (zaak3) to _ch(a/)k(9)_ (zaak6).
   - Williams' 你沾着有滴唔好脾氣: Corrected _ch(e/)uk(8)_ (zoek3) to _ch(e/)uk(9)_ (zoek6).
+  ==
+$$
+
+###+ 漸1 | _(1)Ts(i/)m_ (zim1)
+
+$$
+R
+  ⽔ + 11
+U
+  U+6F38
+F
+  ==
+  - [[F2.50 漸 _Ts(i/)m(6)_ (zim6)]] 次也徐也稍也漬也
+  ==
+W
+  ====
+  - [[Page~571 漸(6) _Ts(i/)m(6)_ (zim6); here corrected to _(1)Ts(i/)m_ (zim1)]]
+    ==
+    - [[...]];
+    - to find its way in, as water does;
+    - [[...]];
+    - to flow;
+    - to imbibe, to tinge, to soak, to penetrate;
+    - [[...]].
+    ==
+  ====
+S
+  ==
+  - $漸zim6
   ==
 $$
 
@@ -703,6 +733,6 @@ W
   ====
 S
   ==
-  - $漸zim1 (TODO)
+  - $漸zim1
   ==
 $$

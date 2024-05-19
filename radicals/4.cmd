@@ -1212,6 +1212,7 @@ For all radicals, see [Index of characters by radical](./).
       - $漬zi1
       - $漬zi3
       - $漬zik1
+      - $漸zim1
       - $漸zim6
       - $漳zoeng1
       - $漿zoeng1
