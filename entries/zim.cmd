@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zim
-* %date-modified --> 2024-05-17
+* %date-modified --> 2024-05-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $占1
+- $沾1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -102,5 +103,54 @@ C
 S
   ==
   - $占zim3 (TODO)
+  ==
+$$
+
+### 沾1 | _(1)Ch(i/)m_ [[zim1]]
+
+$$
+R
+  ⽔ + 5
+U
+  U+6CBE
+F
+  ==
+  - [[F2.47 沾]] 漬也濡也又沾恩
+  ==
+W
+  ====
+  - [[Page~15* (1)沾]]
+    ==
+    - To moisten, to tinge;
+    - to receive benefits;
+    - to participate in;
+    - to be a recipient of;
+    - obliged, benefited;
+    - imbued with;
+    - infected, affected;
+    - _(1)ch(i/)m (1)kwong_
+        [[zim1 gwong1 沾光]],
+        got it through your favor;
+    - _(2)f(u/) lok(9) (1)kwan (1)ch(i/)m_
+        [[fu2 lok6 gwan1 zim1 苦樂均沾]],
+        sorrow and joy equally bestowed;
+    - _(1)ch(i/)m (1)yan ch(a/)k[(9)]_
+        [[zim1 jan1 zaak6 沾恩澤]]
+        received benefits;
+    - _(1)ch(i/)m peng(6)_
+        [[zim1 beng6 沾病]]
+        to catch a disease;
+    - _(1)ch(i/)m (5)(i/)m shai(3) (4)ts(')ing_
+        [[zim1 jim5 sai3 cing4 沾染世情]],
+        to be corrupted by bad influences;
+    - _(5)n(i/) (1)ch(i/)m ch(e/)uk[(9)] (5)yau tik(7) (4)'m (2)h(o\) (4)p(i/) h(i/)(3)_
+        [[nei5 zim1 zoek6 jau5 dik1 m4 hou2 pei4 hei3 你沾着有滴唔好脾氣]]
+        you have contracted a bad temper.
+    ==
+  ====
+C
+  ==
+  - Williams' 沾恩澤: Corrected _ch(a/)k(8)_ (zaak3) to _ch(a/)k(9)_ (zaak6).
+  - Williams' 你沾着有滴唔好脾氣: Corrected _ch(e/)uk(8)_ (zoek3) to _ch(e/)uk(9)_ (zoek6).
   ==
 $$
