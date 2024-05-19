@@ -54,6 +54,7 @@ $$
 - $粘1
 - $覘1
 - $霑1
+- $黏1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -271,4 +272,38 @@ W
         wet clothes.
     ==
   ====
+$$
+
+### 黏1 | _(1)Ch(i/)m_ [[zim1]]
+
+$$
+R
+  ⿉ + 5
+U
+  U+9ECF
+F
+  ==
+  - [[F2.47 粘]] ？也
+  - [[F2.47 秥]] 秥米
+  ==
+W
+  ====
+  - [[Page~16* (1)黏]]
+    --
+    [[Reading variation. **See $黏nim1 and $黏nim4 for the canonical entries.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 粘. **See $粘zim1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: The first character of the explanation for 粘
+    is incomprehensible, but appears like ⿰苗月.
+  ==
+S
+  ==
+  - $黏nim1 (TODO)
+  - $黏nim4 (TODO)
+  ==
 $$
