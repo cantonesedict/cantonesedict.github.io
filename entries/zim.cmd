@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [zim1](#1)
 - [zim3](#3)
+- [zim6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -646,5 +647,62 @@ C
 S
   ==
   - $占zim1
+  ==
+$$
+
+
+##{#6 .williams} Ts(i/)m(6) [[zim6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $漸6
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 漸6 | _Ts(i/)m(6)_ [[zim6]]
+
+$$
+R
+  ⽔ + 11
+U
+  U+6F38
+V
+  ==
+  - zim6-2 (rising second in reduplication 漸漸 zim6 zim6-2)
+  ==
+F
+  ==
+  - [[F2.50 漸]] 次也徐也稍也漬也
+  ==
+W
+  ====
+  - [[Page~571 漸(6)]]
+    ==
+    - Name of an affluent of the Y(a/)ngtsz' ki(a/)ng [[揚子江]]
+      near Ng(a/)nking f(u/) [[安慶府]];
+    - [[see $漸zim1 for "inflow" and "soak" senses]];
+    - to advance by degrees, slowly, by little and little;
+    - stealthily, as decay;
+    - [[...]];
+    - _ts(i/)m(6) ts(i/)m(6) (4)loi_
+        [[zim6 zim6 loi4 漸漸來]],
+        came on gradually;
+    - _ts(i/)m(6) yap(9) (1)k(a/)i (2)king_
+        [[zim6 jap6 gaai1 ging2 漸入佳境]],
+        opens up a fine prospect;
+        gradually improving, as one's prospects;
+    - _ts(i/)m(6) ts(')z'(3)_
+        [[zim6 ci3 漸次]]
+        many times, gradually;
+    - _(4)ts(')un ts(u")(6) ts(i/)m(6) tsun(3)_
+        [[ceon4 zeoi6 zim6 zeon3 循序漸進]]
+        to follow on regularly, to advance in order.
+    ==
+  ====
+S
+  ==
+  - $漸zim1 (TODO)
   ==
 $$
