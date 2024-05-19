@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $占1
 - $沾1
+- $粘1
 - $覘1
 - $霑1
 ==
@@ -154,6 +155,56 @@ C
   ==
   - Williams' 沾恩澤: Corrected _ch(a/)k(8)_ (zaak3) to _ch(a/)k(9)_ (zaak6).
   - Williams' 你沾着有滴唔好脾氣: Corrected _ch(e/)uk(8)_ (zoek3) to _ch(e/)uk(9)_ (zoek6).
+  ==
+$$
+
+### 粘1 | _(1)Ch(i/)m_ [[zim1]]
+
+$$
+R
+  ⽶ + 5
+U
+  U+7C98
+A
+  ==
+  - $黏1
+  ==
+V
+  ==
+  - nim4 (expected from 女廉切)
+  ==
+F
+  ==
+  - [[F2.47 粘]] ？也
+  - [[F2.47 秥]] 秥米
+  ==
+W
+  ====
+  - [[Page~15* (1)粘]]
+    --
+    [[Alternative form of 黏, and reading variation. **See $黏nim4 for the canonical entry.**]]
+    --
+  - [[Page~16* (1)黏; here normalised to 粘]]
+    ==
+    - Used for the preceding [[粘]];
+    - rice;
+    - _(1)ch(i/)m (5)mai_
+        [[zim1 mai5 粘米]],
+        white rice, of which there are many kinds, as
+        _s(u")t(8) (1)ch(i/)m_ [[syut3 zim1 雪粘]],
+        _(2)ai (4)mi(u/) (1)ch(i/)m_ [[ai2 miu4 zim1 矮苖粘]],
+        _(1)ch(i/)m (2)tsai_ [[zim1 zai2 粘仔]],
+        &c.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: The first character of the explanation for 粘
+    is incomprehensible, but appears like ⿰苗月.
+  ==
+S
+  ==
+  - $粘nim4 (TODO)
   ==
 $$
 
