@@ -507,10 +507,31 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $佔3
 - $占3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 佔3 | _Ch(i/)m(3)_ [[zim3]]
+
+$$
+R
+  ⼈ + 3
+U
+  U+4F54
+F
+  ==
+  - [[F2.50 占]] ::霸占擅[據]也::
+  ==
+W
+  ====
+  - [[Page~15* (1)占(1)佔]]
+    --
+    [[Alternative form of 占. **See $占zim3 for the canonical entry.**]]
+    --
+  ====
+$$
 
 ### 占3 | _Ch(i/)m(3)_ [[zim3]]
 

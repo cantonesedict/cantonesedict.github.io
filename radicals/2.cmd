@@ -106,6 +106,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $仔zai2
       - $仔zi2
+      - $佔zim3
       - $仗zoeng3
       - $仗zoeng6
       ==
