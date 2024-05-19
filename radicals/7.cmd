@@ -202,6 +202,14 @@ For all radicals, see [Index of characters by radical](./).
       ==
       </nav>
   //
+    , 13
+    ,
+      <nav class="sideways">
+      ==
+      - $譫zim1
+      ==
+      </nav>
+  //
     , 14
     ,
       <nav class="sideways">

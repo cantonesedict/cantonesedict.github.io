@@ -57,6 +57,7 @@ $$
 - $襜1
 - $覘1
 - $詹1
+- $譫1
 - $霑1
 - $黏1
 ==
@@ -377,6 +378,32 @@ C
   ==
   - Fan Wan entry: Corrected headword ⿸厃⿱八𠮷 to 𦧕 (⿸厃⿱儿舌).
   ==
+$$
+
+### 譫1 | _(1)Ch(i/)m_ [[zim1]]
+
+$$
+R
+  ⾔ + 13
+U
+  U+8B6B
+F
+  ==
+  - [[F2.47 譫]] 多言也
+  ==
+W
+  ====
+  - [[Page~16* (1)譫]]
+    ==
+    - Wordy, loquacious;
+    - _peng(6) (1)ch(i/)m_
+        [[beng6 zim1 病譫]],
+        out of his head, incoherent;
+    - _(1)ch(i/)m (5)(u")_
+        [[zim1 jyu5 譫語]],
+        wandering talk.
+    ==
+  ====
 $$
 
 ### 霑1 | _(1)Ch(i/)m_ [[zim1]]
