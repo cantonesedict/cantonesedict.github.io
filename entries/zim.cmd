@@ -58,6 +58,7 @@ $$
 - $覘1
 - $詹1
 - $譫1
+- $䠨1
 - $霑1
 - $黏1
 ==
@@ -404,6 +405,34 @@ W
         wandering talk.
     ==
   ====
+$$
+
+### 䠨1 | _(1)Ch(i/)m_ [[zim1]]
+
+$$
+R
+  ⾜ + 13
+U
+  U+4828
+V
+  ==
+  - cim3 (expected from 昌豔切)
+  ==
+F
+  ==
+  - [[F2.47 䠨]] 仰視
+  ==
+W
+  ====
+  - [[Page~16* (1)䠨]]
+    --
+    [[Idiosyncratic reading from Fan Wan. **See $䠨cim3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $䠨cim3 (TODO)
+  ==
 $$
 
 ### 霑1 | _(1)Ch(i/)m_ [[zim1]]
