@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zim1](#1)
+- [zim3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -112,7 +113,7 @@ C
   ==
 S
   ==
-  - $占zim3 (TODO)
+  - $占zim3
   ==
 $$
 
@@ -497,5 +498,68 @@ S
   ==
   - $黏nim1 (TODO)
   - $黏nim4 (TODO)
+  ==
+$$
+
+
+##{#3 .williams} Ch(i/)m(3) [[zim3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $占3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 占3 | _Ch(i/)m(3)_ [[zim3]]
+
+$$
+R
+  ⼘ + 3
+U
+  U+5360
+A
+  ==
+  - $佔3
+  ==
+F
+  ==
+  - [[F2.50 占]] ::霸占擅[據]也::
+  ==
+W
+  ====
+  - [[Page~15* (1)占(1)佔]]
+    ==
+    - To usurp, to seize, to take forcibly;
+    - to assume, to arrogate, to take the liberty;
+    - to possess;
+    - _p(a/)(3) ch(i/)m(3)_
+        [[baa3 zim3 霸占]]
+        to take possession of;
+    - _ch(i/)m(3) (1)s(i/)n h(u")(3)_
+        [[zim3 sin1 heoi3 占先去]]
+        to assume precedence;
+    - _ch(i/)m(3) (2)si(u/) sh(i/)n(6)_
+        [[zim3 siu2 sin6 占小善]]
+        to praise one's self;
+    - _ch(i/)m(3) (4)p(')(i/)n (4)(i/)_
+        [[zim3 pin4 ji4-2 占便宜]],
+        to take what one likes, to assume more for one's self;
+    - _ch(i/)m(3) (1)shan fan(6)_
+        [[zim3 san1 fan6 占身份]]
+        to regard one's place, to exercise one's rights.
+    ==
+    --
+    The second character [[佔]] is commonly but incorrectly used in this sense.
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected illegible character to 據.
+  ==
+S
+  ==
+  - $占zim1
   ==
 $$
