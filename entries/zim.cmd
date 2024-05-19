@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $占1
 - $沾1
+- $霑1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -153,4 +154,35 @@ C
   - Williams' 沾恩澤: Corrected _ch(a/)k(8)_ (zaak3) to _ch(a/)k(9)_ (zaak6).
   - Williams' 你沾着有滴唔好脾氣: Corrected _ch(e/)uk(8)_ (zoek3) to _ch(e/)uk(9)_ (zoek6).
   ==
+$$
+
+### 霑1 | _(1)Ch(i/)m_ [[zim1]]
+
+$$
+R
+  ⾬ + 8
+U
+  U+9711
+F
+  ==
+  - [[F2.47 霑]] 霑足雨之多也
+  ==
+W
+  ====
+  - [[Page~15* (1)霑]]
+    --
+    Interchanged with the last [[$沾1]].
+    --
+    ==
+    - A drizzling, dripping, pattering, rain;
+    - to wet through;
+    - soaked, saturated;
+    - _(1)ch(i/)m tsuk(7)_
+        [[zim1 zuk1 霑足]]
+        wet to the skin;
+    - _(1)ch(i/)m (1)(i/)_
+        [[zim1 ji1 霑衣]],
+        wet clothes.
+    ==
+  ====
 $$
