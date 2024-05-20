@@ -167,6 +167,14 @@ For all radicals, see [Index of characters by radical](./).
       - $籒zau6
       ==
       </nav>
+  //
+    , 17
+    ,
+      <nav class="sideways">
+      ==
+      - $籤cim1
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⽵-characters ##>

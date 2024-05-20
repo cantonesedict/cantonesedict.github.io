@@ -52,6 +52,7 @@ $$
 =={.modern}
 - $僉1
 - $簽1
+- $籤1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -124,6 +125,63 @@ W
   ====
 $$
 
+### [籤]1 | _(1)Ts(')(i/)m_ [[cim1]]
+
+$$
+R
+  ⽵ + 17
+U
+  U+7C64
+A
+  ==
+  - $簽1
+  ==
+F
+  ==
+  - [[F2.47 籖]] 神籤騐也又竹籌
+  ==
+W
+  ====
+  - [[Page~571 (1)簽; here normalised to 籤]]
+    ==
+    - Slips of bamboo written on for lots [[...]];
+    - [[...]];
+    - _(1)ts(')(i/)m (5)(u")_
+        [[cim1 jyu5 籤語]],
+        to draw lots for a response.
+    ==
+  - [[Page~571 ::(1)[籤]^::]]
+    ==
+    - Similar to the above [[$簽1]];
+    - a slip, a lot;
+    - a warrant, a permit, a ticket having the officer's name on it;
+    - to probe, to bore through;
+    - sharp-pointed;
+    - _chai(3) (1)ts(')(i/)m_ [[zai3 cim1 掣籤]]^
+        or
+      _(1)ch(a/) (1)ts(')(i/)m_ [[zaa1 cim1 揸籤]],
+        to lot out officers to their stations;
+    - _(4)ng(o\) (1)ts(')(i/)m_
+        [[ngou4 cim1 摮籤]],
+        to draw lots before idols;
+    - _(1)ts(')(i/)m (4)t(')ung_
+        [[cim1 tung4 籤筒]],
+        a cup to hold the slips;
+    - _ch(')ut(7) (1)ts(')(i/)m_
+        [[ceot1 cim1 出籤]],
+        to issue a warrant or permit;
+    - _(4)k(')au (1)ts(')(i/)m_
+        [[kau4 cim1 求籤]],
+        to divine.
+    ==
+  ====
+C
+  ==
+  - Williams misprints 籤 as 韱.
+  - Williams' 摮籤: More shaking out than drawing.
+  ==
+$$
+
 
 ##{#2 .williams} (2)Ch(')(i/)m [[cim2 陰上]]
 
@@ -179,7 +237,7 @@ C
   ==
   - Fan Wan entry: Corrected headword 謟 to 諂, headword ⿵門謟 to 讇,
     and headword self-reference to 上.
-  - Williams entry: Corrected headword 𨶒 (⿵門舀) to 讇.
+  - Williams misprints 讇 as 𨶒 (⿵門舀).
   ==
 $$
 
@@ -206,6 +264,6 @@ C
   ==
   - Fan Wan entry: Corrected headword 謟 to 諂, headword ⿵門謟 to 讇,
     and headword self-reference to 上.
-  - Williams entry: Corrected headword 𨶒 (⿵門舀) to 讇.
+  - Williams misprints 讇 as 𨶒 (⿵門舀).
   ==
 $$
