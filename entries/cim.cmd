@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [cim1](#1)
 - [cim2](#2)
 ==
 </nav>
@@ -40,6 +41,48 @@ WP
 MP
   ==
   - cim = [tsʰiːm] ((preferred)), [tɕʰiːm]
+  ==
+$$
+
+
+##{#1 .williams} <ins class="modern">(1)Ch(')(i/)m</ins> (1)Ts(')(i/)m [[cim1 陰平]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $僉1
+==
+</nav>
+<## /tone-1-characters ##>
+
+### 僉1 | _(1)Ts(')(i/)m_ [[cim1]]
+
+$$
+R
+  ⼈ + 11
+U
+  U+50C9
+F
+  ==
+  - [[F2.47 僉]] 咸也皆也共也
+  - [[F2.47 ⿳人⿻丅口从]] 咸也皆也共也
+  ==
+W
+  ====
+  - [[Page~571 (1)僉]]
+    ==
+    - All, the whole;
+    - an unanimous voice, the general opinion;
+    - a flail;
+    - _(1)ts(')(i/)m [(a/)t](8)_
+        [[cim1 aat3 僉押]]
+        all signed it.
+    ==
+  ====
+C
+  ==
+  - Williams' 僉押: Changed Middle Chinese _(a/)p(8)_ (aap3)
+    to common reading _(a/)t(8)_ (aat3).
   ==
 $$
 
