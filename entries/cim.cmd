@@ -51,6 +51,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $僉1
+- $簽1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -84,6 +85,43 @@ C
   - Williams' 僉押: Changed Middle Chinese _(a/)p(8)_ (aap3)
     to common reading _(a/)t(8)_ (aat3).
   ==
+$$
+
+### 簽1 | _(1)Ts(')(i/)m_ [[cim1]]
+
+$$
+R
+  ⽵ + 13
+U
+  U+7C3D
+F
+  ==
+  - [[F2.47 簽]] 竹簾又簽書
+  ==
+W
+  ====
+  - [[Page~571 (1)簽]]
+    ==
+    - Slips of bamboo written on for lots,
+      for which the next one is used
+      [[**see $籤cim1 for the canonical entry**]];
+    - to subscribe, to write one's name;
+    - a sort of basket;
+    - _(1)ts(')(i/)m tsz'(6)_
+        [[cim1 zi6 簽字]]
+        a circular, a subscription paper;
+    - _(1)ts(')(i/)m (4)meng_
+        [[cim1 meng4-2 簽名]],
+        to write one's name;
+    - _(1)ts(')(i/)m (4)t(')ai_
+        [[cim1 tai4 簽題]],
+        to subscribe to;
+    - _(1)ts(')(i/)m (1)kw(a/)n_
+        [[cim1 gwaan1 簽關]],
+        to join in engaging a teacher;
+    - [[...]].
+    ==
+  ====
 $$
 
 
