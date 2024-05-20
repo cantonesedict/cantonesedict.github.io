@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $諂2
+- $讇2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -92,6 +93,33 @@ W
         [[pan4 ji4 mou4 cim2 貧而無諂]],
         poor without being sycophantic.
     ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword 謟 to 諂, headword ⿵門謟 to 讇,
+    and headword self-reference to 上.
+  - Williams entry: Corrected headword 𨶒 (⿵門舀) to 讇.
+  ==
+$$
+
+### [讇]2 | _(2)Ch(')(i/)m_ [[cim2]]
+
+$$
+R
+  ⾔ + 16
+U
+  U+8B87
+F
+  ==
+  - [[F2.49 ::[諂]::]] 諛媚也
+  - [[F2.49 ::[讇]::]] ::同[上]::
+  ==
+W
+  ====
+  - [[Page~16* ::(2)諂(2)[讇]^::]]
+    --
+    [[Alternative form of 諂. **See $諂cim2 for the canonical entry.**]]
+    --
   ====
 C
   ==

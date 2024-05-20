@@ -233,6 +233,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $讎cau4
       - $讐cau4
+      - $讇cim2
       ==
       </nav>
   //
