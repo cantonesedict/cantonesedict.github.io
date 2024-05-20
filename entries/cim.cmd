@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [cim2](#2)
 ==
 </nav>
 <## /tones ##>
@@ -39,5 +40,63 @@ WP
 MP
   ==
   - cim = [tsʰiːm] ((preferred)), [tɕʰiːm]
+  ==
+$$
+
+
+##{#2 .williams} (2)Ch(')(i/)m [[cim2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $諂2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 諂2 | _(2)Ch(')(i/)m_ [[cim2]]
+
+$$
+R
+  ⾔ + 8
+U
+  U+8AC2
+A
+  ==
+  -{.modern} $讇2
+  ==
+F
+  ==
+  - [[F2.49 ::[諂]::]] 諛媚也
+  - [[F2.49 ::[讇]::]] ::同[上]::
+  ==
+W
+  ====
+  - [[Page~16* ::(2)諂(2)[讇]^::]]
+    ==
+    - To flatter, to lie to;
+    - to cajole;
+    - to give a god or man worship or praise not due to him;
+    - to fawn on, to court;
+    - gratifying to one's feelings, adulation, sycophancy;
+    - _(2)ch(')(i/)m m(i/)(6) (1)ch(i/) (4)yan_
+        [[cim2 mei6 zi1 jan4 諂媚之人]],
+        a flatterer;
+    - _(2)ch(')(i/)m (u")(6)_
+        [[cim2 jyu6 諂譽]]
+        to praise extravagantly;
+    - _(2)ch(')(i/)m si(u/)(3)_
+        [[cim2 siu3 諂笑]]
+        to cajole and laugh with;
+    - _(4)p(')an (4)(i/) (4)m(o\) (2)ch(')(i/)m_
+        [[pan4 ji4 mou4 cim2 貧而無諂]],
+        poor without being sycophantic.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword 謟 to 諂, headword ⿵門謟 to 讇,
+    and headword self-reference to 上.
+  - Williams entry: Corrected headword 𨶒 (⿵門舀) to 讇.
   ==
 $$
