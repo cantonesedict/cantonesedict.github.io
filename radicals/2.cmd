@@ -434,7 +434,16 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $𠠃 (⿰⿳从一韭刂)cim1
       - $劑zai1
+      ==
+      </nav>
+  //
+    , 16
+    ,
+      <nav class="sideways">
+      ==
+      - $㔐cim1
       ==
       </nav>
   //

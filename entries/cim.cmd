@@ -51,6 +51,8 @@ $$
 <nav class="sideways">
 =={.modern}
 - $僉1
+- $𠠃 (⿰⿳从一韭刂)1
+- $㔐1
 - $簽1
 - $籤1
 ==
@@ -85,6 +87,89 @@ C
   ==
   - Williams' 僉押: Changed Middle Chinese _(a/)p(8)_ (aap3)
     to common reading _(a/)t(8)_ (aat3).
+  ==
+$$
+
+### 𠠃1 [[⿰⿳从一韭刂]] | _(1)Ts(')(i/)m_ [[cim1]]
+
+$$
+R
+  ⼑ + 14
+U
+  U+20803
+F
+  ==
+  - [[F2.47 ⿰⿳艹非一刂]] ::[切]也割也::
+  ==
+W
+  ====
+  - [[Page~571 (1)𠠃 (⿰⿳从一韭刂)]]
+    --
+    [[Alternative form of 㔐. **See $㔐cim1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 竊 to 切.
+  ==
+$$
+
+###+ 㔐1 | _(1)Ts(')(i/)m_ (cim1)
+
+$$
+R
+  ⼑ + 16
+U
+  U+3510
+A
+  ==
+  - $𠠃 [[⿰⿳从一韭刂]]1
+  ==
+F
+  ==
+  - [[F2.47 ⿰⿳艹非一刂]] ::[切]也割也::
+  ==
+W
+  ====
+  - [[Page~571 (1)𠠃 (⿰⿳从一韭刂); here normalised to 㔐]]
+    ==
+    - To cut;
+    - to stick in the throat;
+    - _(1)ts(')(i/)m (5)k(')(u") (4)hau (4)lung_
+        [[cim1 keoi5 hau4 lung4 㔐佢喉嚨]],
+        pierce his weasand;
+    - _(1)ts(')(i/)m (1)ch(u")_
+        [[cim1 zyu1 㔐豬]],
+        to stick a pig;
+    - _(1)ts(')(i/)m sh(u")(6)_
+        [[cim1 syu6 㔐樹]]
+        to ingraft by slips.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 竊 to 切.
+  - I have normalised 𠠃 (⿰⿳从一韭刂) to 㔐 for the better font support.
+  ==
+E
+  ====
+  - 【㔐】 (cim1):
+    ++
+    1. To cut or sever.
+    1. (_Chinese chess_) To capture a piece on an upper corner of the palace
+       using an advisor.
+       ==
+       - 士㔐 (si6 cim1): "Advisor captures [on the upper corner]."
+       ==
+    ++
+  ====
+  --
+  Olden attestation for 㔐 _(1)ts(')(i/)m_ (cim1) meaning "cut" or "sever":
+  --
+  ==
+  - ::B2.w248b0403 (:七廉切:) (:𠠃:) (:𠠃切割也:)::
+  - ::K. (:𠠃:) 《五音集韻》(:七廉切音籤切割也:)::
+  - ::K. (:㔐:) 《玉篇》(:千廉切音僉割也:)〇按《五音集韻》(:作𠠃:)::
   ==
 $$
 
