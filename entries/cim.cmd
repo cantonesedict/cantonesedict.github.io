@@ -505,11 +505,65 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $撍4
 - $潛4
 - $潜4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 撍4 | _(4)Ts(')(i/)m_ [[cim4]]
+
+$$
+R
+  ⼿ + 12
+U
+  U+648D
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~572 (4)撍]]
+    ==
+    - To move with the hand, to take up;
+    - to select, to pull out, as from a pile;
+    - to draw, as lots;
+    - quick, rapid, urgent;
+    - _(4)ts(')(i/)m (4)'m (2)t(o\)_
+        [[cim4 m4 dou3-2 撍唔到]],
+        I drew a blank lot;
+    - _(4)ts(')(i/)m ch(')ut(7)_
+        [[cim4 ceot1 撍出]]
+        pull it out;
+    - _(4)ts(')(i/)m (4)ch(')au_
+        [[cim4 cau4-2 撍籌]],
+        to draw a slip.
+    ==
+  ====
+C
+  ==
+  - Williams' "quick, rapid, urgent":
+    This sense is not attested under the reading _(4)ts(')(i/)m_ (cim4);
+    《廣韻》 has 側吟切 _(1)tsam_ (zam1), explained 速也,
+    and Kangxi quotes 《唐韻》側吟切《集韻》《韻會》緇岑切𠀤音簪 _(1)ts(a/)m_ (zaam1), explained 疾也.
+  ==
+E
+  ====
+  - 【撍】 (cim4):
+    ++
+    1. To select or draw out, especially from a pile.
+       ==
+       - 撍鎖匙 (cim4 so2 si4): "Fishing for [the] keys."
+       ==
+    ++
+  ====
+  --
+  Olden attestation for 撍 _(4)ts(')(i/)m_ (cim4) meaning "select":
+  --
+  ==
+  - ::K. (:撍:) [...]^(:又《集韻》慈鹽切《韻會》昨鹽切𠀤音潛摘也:)[...]::
+  ==
+$$
 
 ### 潛4 | _(4)Ts(')(i/)m_ [[cim4]]
 
