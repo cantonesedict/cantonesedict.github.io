@@ -62,6 +62,7 @@ $$
 - $簽1
 - $籤1
 - $纖1
+- $鋟1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -412,6 +413,42 @@ W
         a slender waist,
     ==
   ====
+$$
+
+###+ 鋟1 | _(1)Ts(')(i/)m_ (cim1)
+
+$$
+R
+  ⾦ + 7
+U
+  U+92DF
+V
+  ==
+  - cam1 (alternative)
+  ==
+F
+  ==
+  - [[F2.36 鋟 _(1)Ts(')am_ (cam1)]] 刻也
+  ==
+W
+  ====
+  - [[Page~552 (1)鋟 _(1)Ts(')am_ (cam1); here normalised to _(1)Ts(')(i/)m_ (cim1)]]
+    ==
+    - To cut, to engrave;
+    - sharp-pointed;
+    - a point;
+    - an awl, a graver.
+    ==
+  ====
+C
+  ==
+  - The reading cam1 is not unattested; Kangxi quotes 又《集韻》《韻會》千尋切《正韻》千林切𠀤音侵義同.
+    In particular, 《洪武正韻牋》 explains 以瓜刻板 etc.
+  ==
+S
+  ==
+  - $鋟cam1
+  ==
 $$
 
 
