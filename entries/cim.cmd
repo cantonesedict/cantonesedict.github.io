@@ -509,6 +509,7 @@ $$
 - $僭3
 - $塹3
 - $壍3
+- $槧3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -614,6 +615,37 @@ W
     [[Alternative form of 塹. **See $塹cim3 for the canonical entry.**]]
     --
   ====
+$$
+
+### 槧3 | _Ts(')(i/)m(3)_ [[cim3]]
+
+$$
+R
+  ⽊ + 11
+U
+  U+69E7
+V
+  ==
+  - cim5 (alternative)
+  ==
+F
+  ==
+  - [[F2.49 槧]] 斬木爲槧
+  ==
+W
+  ====
+  - [[Page~572 槧(3)]]
+    ==
+    - Boards for cutting books on;
+    - tablets for memoranda, tablets to be written on with a pencil.
+    ==
+  ====
+C
+  ==
+  - 《廣韻》 has four readings, among which 慈染切 _(5)ts(')(i/)m_ (cim5)
+    and 七豔切 _ts(')(i/)m(3)_ (cim3) have explanations
+    consistent with the "board" sense.
+  ==
 $$
 
 
