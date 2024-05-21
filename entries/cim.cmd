@@ -54,6 +54,7 @@ $$
 - $𠠃 (⿰⿳从一韭刂)1
 - $㔐1
 - $憸1
+- $瀸1
 - $簽1
 - $籤1
 ==
@@ -194,6 +195,36 @@ W
     - _ts(')(i/)m (4)yan_
         [[cim1 jan4 憸人]],
         a flatterer.
+    ==
+  ====
+$$
+
+### 瀸1 | _(1)Ts(')(i/)m_ [[cim1]]
+
+$$
+R
+  ⽔ + 17
+U
+  U+7038
+V
+  ==
+  - zim1 (expected from 子廉切)
+  ==
+F
+  ==
+  - [[F2.47 瀸]] 汲也
+  ==
+W
+  ====
+  - [[Page~572 (1)瀸]]
+    ==
+    - To soak, to moisten, to dampen;
+    - to overflow;
+    - a spring appearing and reäppearing;
+    - occurs used for the next [[$殲1]];
+    - _(1)ts(')(i/)m m(i/)t(9)_
+        [[cim1 mit6 瀸滅]]
+        to extirpate.
     ==
   ====
 $$
