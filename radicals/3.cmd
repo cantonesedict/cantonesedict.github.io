@@ -328,6 +328,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $塵can4
+      - $塹cim3
       - $塲coeng4
       ==
       </nav>
@@ -354,6 +355,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $壓aat3
+      - $壍cim3
       ==
       </nav>
 ''

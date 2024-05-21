@@ -507,6 +507,8 @@ $$
 <nav class="sideways">
 =={.modern}
 - $僭3
+- $塹3
+- $壍3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -553,6 +555,64 @@ E
     ++
     1. Unauthorised addition of a structure to a building.
     ++
+  ====
+$$
+
+### 塹3 | _Ts(')(i/)m(3)_ [[cim3]]
+
+$$
+R
+  ⼟ + 11
+U
+  U+5879
+A
+  ==
+  - $壍3
+  ==
+F
+  ==
+  - [[F2.49 塹]] 坑塹
+  - [[F2.49 壍]] 同上
+  ==
+W
+  ====
+  - [[Page~572 塹(3)壍(3)]]
+    ==
+    - The moat around a wall, a fosse, a ditch;
+    - a sluice to lead water upon trees;
+    - to deepen, to dig out;
+    - _kwat[(9)] ts(')(i/)m(3)_
+        [[gwat6 cim3 掘塹]]
+        to dig a sluice;
+    - _(1)h(a/)ng ts(')(i/)m(3)_
+        [[haang1 cim3 坑塹]]
+        a gutter.
+    ==
+  ====
+C
+  ==
+  - Williams' 掘塹: Corrected _kwat(7)_ (gwat1) to _kwat(9)_ (gwat6).
+  ==
+$$
+
+### 壍3 | _Ts(')(i/)m(3)_ [[cim3]]
+
+$$
+R
+  ⼟ + 14
+U
+  U+58CD
+F
+  ==
+  - [[F2.49 塹]] 坑塹
+  - [[F2.49 壍]] 同上
+  ==
+W
+  ====
+  - [[Page~572 塹(3)壍(3)]]
+    --
+    [[Alternative form of 塹. **See $塹cim3 for the canonical entry.**]]
+    --
   ====
 $$
 
