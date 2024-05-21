@@ -509,6 +509,7 @@ $$
 - $僭3
 - $塹3
 - $壍3
+- $暹3
 - $槧3
 ==
 </nav>
@@ -614,6 +615,35 @@ W
     --
     [[Alternative form of 塹. **See $塹cim3 for the canonical entry.**]]
     --
+  ====
+$$
+
+### 暹3 | _Ts(')(i/)m(3)_ [[cim3]]
+
+$$
+R
+  ⽇ + 12
+U
+  U+66B9
+V
+  ==
+  - cim1 (expected from 息廉切)
+  ==
+F
+  ==
+  - [[F2.49 暹]] 日光也升也進也
+  ==
+W
+  ====
+  - [[Page~572 暹(3)]]
+    ==
+    - The increasing light and splendor of the sun;
+    - advancing, rising higher and higher;
+    - _Ts(')(i/)m (4)lo kwok(8)_
+        [[cim3 lo4 gwok3 暹羅國]]
+        Siam, a word probably corrupted from _Sien_
+        through the Portuguese language.
+    ==
   ====
 $$
 
