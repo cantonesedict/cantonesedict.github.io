@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [cim1](#1)
 - [cim2](#2)
+- [cim4](#4)
 ==
 </nav>
 <## /tones ##>
@@ -496,4 +497,53 @@ C
     and headword self-reference to 上.
   - Williams misprints 讇 as 𨶒 (⿵門舀).
   ==
+$$
+
+
+##{#4 .williams} (4)Ts(')(i/)m [[cim4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways">
+=={.modern}
+- $潛4
+==
+</nav>
+<## /tone-4-characters ##>
+
+### 潛4 | _(4)Ts(')(i/)m_ [[cim4]]
+
+$$
+R
+  ⽔ + 12
+U
+  U+6F5B
+A
+  ==
+  - $潜4
+  ==
+F
+  ==
+  - [[F2.48 潛]] 伏也藏也
+  ==
+W
+  ====
+  - [[Page~572 (4)潛(4)潜]]
+    ==
+    - To ford, to wade across, to cross water;
+    - to dive, to walk on the bottom;
+    - to hide away, to abscond, to secrete one's self;
+    - an ancient name for the River H(a/)n [[漢]];
+    - carefully, feeling one's way, heedfully;
+    - a cess-pool;
+    - _(4)ts(')(i/)m p(o\)(6)_
+        [[cim4 bou6 潛步]]
+        careful steps;
+    - _(4)ts(')(i/)m (4)hang (2)shui (1)chung_
+        [[cim4 hang4 seoi2 zung1 潛行水中]],
+        to walk in the water;
+    - _(4)ch(')am (4)ts(')(i/)m_
+        [[cam4 cim4 沉潛]],
+        reserved, diligent.
+    ==
+  ====
 $$
