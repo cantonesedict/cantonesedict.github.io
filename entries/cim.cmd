@@ -63,6 +63,7 @@ $$
 - $簽1
 - $籤1
 - $纖1
+- $襜1
 - $鋟1
 ==
 </nav>
@@ -436,6 +437,44 @@ W
         a slender waist,
     ==
   ====
+$$
+
+###+ 襜1 | _(1)Ch(')(i/)m_ (cim1)
+
+$$
+R
+  ⾐ + 13
+U
+  U+895C
+V
+  ==
+  - zim1 (common)
+  ==
+F
+  ==
+  - [[F2.47 襜 _(1)Ch(i/)m_ (zim1)]] 整也
+  ==
+W
+  ====
+  - [[Page~16* (1)襜 _(1)Ch(i/)m_ (zim1); here normalised to _(1)Ch(')(i/)m_ (cim1)]]
+    ==
+    - An apron;
+    - a flap, a skirt;
+    - a curtain of a car;
+    - to adjust, to put the dress in order;
+    - _(4)ts(')(i/)n (1)[ch(')(i/)m]_
+        [[cin4 cim1 前襜]],
+        the front skirt;
+    - _(1)[ch(')(i/)m] (1)[ch(')(i/)m]_
+        [[cim1 cim1 襜襜]],
+        nice and trim;
+        flapping, as a curtain.
+    ==
+  ====
+S
+  ==
+  - $襜zim1
+  ==
 $$
 
 ###+ 鋟1 | _(1)Ts(')(i/)m_ (cim1)
