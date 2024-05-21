@@ -506,6 +506,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $潛4
+- $潜4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -545,5 +546,23 @@ W
         [[cam4 cim4 沉潛]],
         reserved, diligent.
     ==
+  ====
+$$
+
+### 潜4 | _(4)Ts(')(i/)m_ [[cim4]]
+
+$$
+R
+  ⽔ + 12
+U
+  U+6F5C
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~572 (4)潛(4)潜]]
+    --
+    [[Alternative form of 潛. **See $潛cim4 for the canonical entry.**]]
+    --
   ====
 $$

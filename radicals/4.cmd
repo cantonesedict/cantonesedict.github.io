@@ -1241,6 +1241,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $潛cim4
+      - $潜cim4
       ==
       </nav>
   //
