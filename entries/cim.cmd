@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [cim1](#1)
 - [cim2](#2)
+- [cim3](#3)
 - [cim4](#4)
 ==
 </nav>
@@ -497,6 +498,62 @@ C
     and headword self-reference to 上.
   - Williams misprints 讇 as 𨶒 (⿵門舀).
   ==
+$$
+
+
+##{#3 .williams} Ts(')(i/)m(3) [[cim3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $僭3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 僭3 | _Ts(')(i/)m(3)_ [[cim3]]
+
+$$
+R
+  ⼈ + 12
+U
+  U+50ED
+V
+  ==
+  - cim5 (common)
+  - zim3 (expected from 子念切)
+  ==
+F
+  ==
+  - [[F2.49 僭]] 越分也爭也
+  ==
+W
+  ====
+  - [[Page~572 僭(3)]]
+    ==
+    - To arrogate to one's self, to usurp, to assume;
+    - to overstep one's limits or rank;
+    - dubious, false;
+    - usurped, despotic, assuming;
+    - _ts(')(i/)m(3) fan(6)_
+        [[cim3 fan6 僭分]]
+        to assume to one's self;
+    - _ts(')(i/)m(3) wai(6)_
+        [[cim3 wai6 僭位]]
+        to aspire to the throne;
+        to take another's rank;
+    - _ts(')(i/)m(3) (1)s(i/)n (2)kong_
+        [[cim3 sin1 gong2 僭先講]],
+        to speak before his turn.
+    ==
+  ====
+E
+  ====
+  - 【僭建】 (cim3 gin3, cim5 gin3):
+    ++
+    1. Unauthorised addition of a structure to a building.
+    ++
+  ====
 $$
 
 

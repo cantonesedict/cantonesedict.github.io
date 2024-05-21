@@ -311,8 +311,14 @@ window.onload = applyFilter;
     , cim1
     , [㔐](/entries/cim#cantonese-㔐)
   //
+    , cim3 gin3
+    , [僭建](/entries/cim#cantonese-僭建)
+  //
     , cim4
     , [撍](/entries/cim#cantonese-撍)
+  //
+    , cim5 gin3
+    , [僭建](/entries/cim#cantonese-僭建)
   //
     , cin1 cau1
     , [韆鞦](/entries/cau#cantonese-韆鞦)
