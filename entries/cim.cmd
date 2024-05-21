@@ -600,7 +600,7 @@ C
 $$
 
 
-##{#3 .williams} Ts(')(i/)m(3) [[cim3 陰去]]
+##{#3 .williams} <ins class="modern">Ch(')(i/)m(3)</ins> Ts(')(i/)m(3) [[cim3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">
@@ -610,6 +610,7 @@ $$
 - $壍3
 - $暹3
 - $槧3
+- $䠨3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -774,6 +775,34 @@ C
   - 《廣韻》 has four readings, among which 慈染切 _(5)ts(')(i/)m_ (cim5)
     and 七豔切 _ts(')(i/)m(3)_ (cim3) have explanations
     consistent with the "board" sense.
+  ==
+$$
+
+###+ 䠨3 | _Ch(')(i/)m(3)_ (cim3)
+
+$$
+R
+  ⾜ + 13
+U
+  U+4828
+V
+  ==
+  - zim1 (probably errant)
+  ==
+F
+  ==
+  - [[F2.47 䠨 _(1)Ch(i/)m_ (zim1)]] 仰視
+  ==
+W
+  ====
+  - [[Page~16* (1)䠨 _(1)Ch(i/)m_ (zim1); here corrected to _Ch(')(i/)m(3)_ (cim3)]]
+    ==
+    - A horse traveling at full speed.
+    ==
+  ====
+S
+  ==
+  - $䠨zim1
   ==
 $$
 
