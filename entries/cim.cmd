@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2024-05-20
+* %date-modified --> 2024-05-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -53,6 +53,7 @@ $$
 - $僉1
 - $𠠃 (⿰⿳从一韭刂)1
 - $㔐1
+- $憸1
 - $簽1
 - $籤1
 ==
@@ -171,6 +172,30 @@ E
   - ::K. (:𠠃:) 《五音集韻》(:七廉切音籤切割也:)::
   - ::K. (:㔐:) 《玉篇》(:千廉切音僉割也:)〇按《五音集韻》(:作𠠃:)::
   ==
+$$
+
+### 憸1 | _(1)Ts(')(i/)m_ [[cim1]]
+
+$$
+R
+  ⼼ + 13
+U
+  U+61B8
+F
+  ==
+  - [[F2.47 憸]] 利也
+  ==
+W
+  ====
+  - [[Page~572 (1)憸]]
+    ==
+    - Disputatious, skilled at arguing;
+    - insidious, lying flattery;
+    - _ts(')(i/)m (4)yan_
+        [[cim1 jan4 憸人]],
+        a flatterer.
+    ==
+  ====
 $$
 
 ### 簽1 | _(1)Ts(')(i/)m_ [[cim1]]
