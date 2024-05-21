@@ -58,6 +58,7 @@ $$
 - $瀸1
 - $簽1
 - $籤1
+- $纖1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -348,6 +349,43 @@ C
   - Williams misprints 籤 as 韱.
   - Williams' 摮籤: More shaking out than drawing.
   ==
+$$
+
+### 纖1 | _(1)Ts(')(i/)m_ [[cim1]]
+
+$$
+R
+  ⽷ + 17
+U
+  U+7E96
+A
+  ==
+  - 摻
+  ==
+F
+  ==
+  - [[F2.47 纖]] 細微也
+  - [[F2.47 摻]] 與纖同又音覽
+  ==
+W
+  ====
+  - [[Page~572 (1)纖(1)摻]]
+    ==
+    - Fine silk;
+    - small, delicate, like silken fibres;
+    - silk woven with a white woof and black warp;
+    - niggardly, stingy;
+    - _(1)ts(')(i/)m (4)h(o\)_
+        [[cim1 hou4 纖毫]],
+        like a fibre, minute;
+    - _(1)ts(')(i/)m (1)ts(')(i/)m yuk(9) (2)shau_
+        [[cim1 cim1 juk6 sau2 纖纖玉手]],
+        a delicate hand;
+    - _(1)ts(')(i/)m (1)i(u/)_
+        [[cim1 jiu1 纖腰]],
+        a slender waist,
+    ==
+  ====
 $$
 
 
