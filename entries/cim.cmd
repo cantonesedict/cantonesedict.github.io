@@ -54,6 +54,7 @@ $$
 - $𠠃 (⿰⿳从一韭刂)1
 - $㔐1
 - $憸1
+- $殲1
 - $瀸1
 - $簽1
 - $籤1
@@ -195,6 +196,32 @@ W
     - _ts(')(i/)m (4)yan_
         [[cim1 jan4 憸人]],
         a flatterer.
+    ==
+  ====
+$$
+
+### 殲1 | _(1)Ts(')(i/)m_ [[cim1]]
+
+$$
+R
+  ⽍ + 17
+U
+  U+6BB2
+F
+  ==
+  - [[F2.47 殲]] 滅也盡也
+  ==
+W
+  ====
+  - [[Page~572 (1)殲]]
+    ==
+    - To destroy utterly, to exterminate, to pierce, to kill;
+    - _yat(7) (1)t(o\) (1)ts(')(i/)m (2)sz' (5)k'(u")_
+        [[jat1 dou1 cim1 sei2 keoi5 一刀殲死佢]],
+        stabbed him dead at a blow;
+    - _(1)ts(')(i/)m k(')(u")t(8) (4)k(')(u") (1)f(u/)i_
+        [[cim1 kyut3 keoi4 fui1 殲厥渠魁]],
+        killed the chief himself.
     ==
   ====
 $$
