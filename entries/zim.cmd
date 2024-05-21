@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zim
-* %date-modified --> 2024-05-19
+* %date-modified --> 2024-05-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -211,7 +211,7 @@ C
   ==
 S
   ==
-  - $幨cim1 (TODO)
+  - $幨cim1
   ==
 $$
 

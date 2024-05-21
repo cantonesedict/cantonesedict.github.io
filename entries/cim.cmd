@@ -56,6 +56,7 @@ $$
 - $𠠃 (⿰⿳从一韭刂)1
 - $㔐1
 - $孅1
+- $幨1
 - $憸1
 - $殲1
 - $瀸1
@@ -202,6 +203,28 @@ W
         weak and delicate.
     ==
   ====
+$$
+
+###+ 幨1 | _(1)Ch(')(i/)m_ (cim1)
+
+$$
+R
+  ⼱ + 13
+U
+  U+5E68
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - The expected reading is cim1 from Middle Chinese 處占切,
+    but Fan Wan has zim1; **see $幨zim1 for the canonical entry**.
+  ==
+S
+  ==
+  - $幨zim1
+  ==
 $$
 
 ### 憸1 | _(1)Ts(')(i/)m_ [[cim1]]
