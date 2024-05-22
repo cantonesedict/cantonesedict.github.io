@@ -197,6 +197,14 @@ For all radicals, see [Index of characters by radical](./).
       - $鷲zau6
       ==
       </nav>
+  //
+    , 13
+    ,
+      <nav class="sideways">
+      ==
+      - $鸇zin1
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⿃-characters ##>

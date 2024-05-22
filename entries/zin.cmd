@@ -60,6 +60,7 @@ $$
 - $顫1
 - $饘1
 - $鱣1
+- $鸇1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -369,6 +370,28 @@ W
     - _(1)ch(i/)n (4)k(')ing_
         [[zin1 king4 鱣鯨]],
         whales and grampuses, applied to an unscrupulous, grasping man.
+    ==
+  ====
+$$
+
+### 鸇1 | _(1)Ch(i/)n_ [[zin1]]
+
+$$
+R
+  ⿃ + 13
+U
+  U+9E07
+F
+  ==
+  - [[F1.20 鸇]] 食雀之鳥
+  ==
+W
+  ====
+  - [[Page~17* (1)鸇]]
+    ==
+    - A falcon, goshawk, or kite;
+    - a yellow bird which pursues pigeons;
+    - a sparrow-hawk.
     ==
   ====
 $$
