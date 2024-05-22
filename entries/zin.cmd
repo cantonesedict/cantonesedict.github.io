@@ -54,6 +54,7 @@ $$
 - $毡1
 - $氈1
 - $氊1
+- $皽1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -200,5 +201,36 @@ W
     --
     [[Alternative form of 氈. **See $氈zin1 for the canonical entry.**]]
     --
+  ====
+$$
+
+### 皽1 | _(1)Ch(i/)n_ [[zin1]]
+
+$$
+R
+  ⽪ + 13
+U
+  U+76BD
+V
+  ==
+  - zin2 (expected from 知演切)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~17* (1)皽]]
+    ==
+    - To tear off, as a scab or placard;
+    - to flay;
+    - to rip up;
+    - thin scurf skin, a scab;
+    - _(1)ch(i/)n (2)h(i/)_
+        [[zin1 hei2 皽起]],
+        rip it up;
+    - _(1)ch(i/)n lat(7)_
+        [[zin1 lat1 皽甩]]
+        rip it off.
+    ==
   ====
 $$
