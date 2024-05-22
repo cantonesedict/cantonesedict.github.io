@@ -59,6 +59,7 @@ $$
 - $邅1
 - $顫1
 - $饘1
+- $鱣1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -344,6 +345,30 @@ W
     - _(1)ch(i/)n chuk(7)_
         [[zin1 zuk1 饘粥]]
         congee.
+    ==
+  ====
+$$
+
+### 鱣1 | _(1)Ch(i/)n_ [[zin1]]
+
+$$
+R
+  ⿂ + 13
+U
+  U+9C63
+F
+  ==
+  - [[F1.20 鱣]] 魚名
+  ==
+W
+  ====
+  - [[Page~17* (1)鱣]]
+    ==
+    - A sea-monster;
+    - a large sturgeon, or perhaps a grampus;
+    - _(1)ch(i/)n (4)k(')ing_
+        [[zin1 king4 鱣鯨]],
+        whales and grampuses, applied to an unscrupulous, grasping man.
     ==
   ====
 $$
