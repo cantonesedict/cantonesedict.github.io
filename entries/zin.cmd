@@ -52,6 +52,7 @@ $$
 - $儃1
 - $旃1
 - $毡1
+- $氈1
 - $氊1
 ==
 </nav>
@@ -130,6 +131,54 @@ W
     --
     [[Alternative form of 氈. **See $氈zin1 for the canonical entry.**]]
     --
+  ====
+$$
+
+###+ 氈1 | _(1)Ch(i/)n_ (zin1)
+
+$$
+R
+  ⽑ + 13
+U
+  U+6C08
+A
+  ==
+  - $毡1
+  - $氊1
+  ==
+F
+  ==
+  - [[F1.20 氊]] 以毛爲物曰氊
+  - [[F1.20 毡]] 同上
+  ==
+W
+  ====
+  - [[Page~16* (1)毡(1)氊; here normalised to 氊]]
+    ==
+    - Hair or wool worked into a felt;
+    - coarse woolens, as blankets, carpets, rugs;
+    - _t(i/)(6) (1)ch(i/)n_
+        [[dei6 zin1 地氈]],
+        a carpet;
+    - _(1)ch(i/)n m(o\)(6)_
+        [[zin1 mou6-2 氈帽]]
+        a felt hat;
+    - _p(a/)k(9) (1)ch(i/)n_
+        [[baak6 zin1 白氈]],
+        a blanket;
+    - _(4)h(a/)i (1)ch(i/)n_
+        [[haai4 zin1 鞋氈]],
+        felt for soles;
+    - _ch(')(e/)uk(8) (1)ch(i/)n_
+        [[coek3 zin1 桌氈]],
+        a table-cover;
+    - _(1)ch(i/)n (1)p(a/)u_
+        [[zin1 baau1 氈包]],
+        a carpet-bag;
+    - _(1)ch(i/)n (2)ch(i/)_
+        [[zin1 zi2 氈紙]],
+        coarse rough paper.
+    ==
   ====
 $$
 

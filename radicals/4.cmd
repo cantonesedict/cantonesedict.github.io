@@ -1134,6 +1134,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $氈zin1
       - $氊zin1
       ==
       </nav>
