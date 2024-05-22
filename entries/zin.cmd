@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [zin1](#1)
 ==
 </nav>
 <## /tones ##>
@@ -40,4 +41,37 @@ MP
   ==
   - zin = [tsiːn] ((preferred)), [tɕiːn]
   ==
+$$
+
+
+##{#1 .williams} (1)Ch(i/)n (1)Ts(i/)n [[zin1 陰平]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $旃1
+==
+</nav>
+<## /tone-1-characters ##>
+
+### 旃1 | _(1)Ch(i/)n_ [[zin1]]
+
+$$
+R
+  ⽅ + 6
+U
+  U+65C3
+F
+  ==
+  - [[F1.20 旃]] 通白之器又解曰之
+  ==
+W
+  ====
+  - [[Page~16* (1)旃]]
+    ==
+    - A silken banner;
+    - a crooked flag-staff;
+    - to signalize one to come.
+    ==
+  ====
 $$
