@@ -57,6 +57,7 @@ $$
 - $皽1
 - $羶1
 - $邅1
+- $饘1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -288,6 +289,30 @@ W
     - _(1)chun (1)ch(i/)n_
         [[zeon1 zin1 迍邅]],
         making no progress, unlucky in life, unfortunate.
+    ==
+  ====
+$$
+
+### 饘1 | _(1)Ch(i/)n_ [[zin1]]
+
+$$
+R
+  ⾷ + 13
+U
+  U+9958
+F
+  ==
+  - [[F1.20 饘]] 粥也
+  - [[F1.20 飦]] 同上
+  ==
+W
+  ====
+  - [[Page~17* (1)饘]]
+    ==
+    - Congee or gruel made from rice, thoroughly boiled;
+    - _(1)ch(i/)n chuk(7)_
+        [[zin1 zuk1 饘粥]]
+        congee.
     ==
   ====
 $$
