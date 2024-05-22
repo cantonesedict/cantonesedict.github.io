@@ -1129,6 +1129,14 @@ For all radicals, see [Index of characters by radical](./).
       - $毡zin1
       ==
       </nav>
+  //
+    , 13
+    ,
+      <nav class="sideways">
+      ==
+      - $氊zin1
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⽑-characters ##>
