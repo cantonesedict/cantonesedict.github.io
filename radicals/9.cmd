@@ -137,6 +137,14 @@ For all radicals, see [Index of characters by radical](./).
       - $頞aat3
       ==
       </nav>
+  //
+    , 13
+    ,
+      <nav class="sideways">
+      ==
+      - $顫zin1
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⾴-characters ##>

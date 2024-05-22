@@ -57,6 +57,7 @@ $$
 - $皽1
 - $羶1
 - $邅1
+- $顫1
 - $饘1
 ==
 </nav>
@@ -291,6 +292,36 @@ W
         making no progress, unlucky in life, unfortunate.
     ==
   ====
+$$
+
+### 顫1 | _(1)Ch(i/)n_ [[zin1]]
+
+$$
+R
+  ⾴ + 13
+U
+  U+986B
+F
+  ==
+  - [[F1.20 顫]] 四肢奏掉曰顫
+  ==
+W
+  ====
+  - [[Page~17* (1)顫]]
+    --
+    [[Idiosyncratic reading from Fan Wan. **See $顫zin3 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - The level-tone reading _(1)ch(i/)n_ (zin1) is only attested
+    with the explanation "to discern smells";
+    Kangxi quotes 又《集韻》《韻會》《正韻》𠀤尸連切音羶《集韻》謂審於氣臭也《莊子外物篇》鼻徹爲顫《音義》顫舒延反.
+  ==
+S
+  ==
+  - $顫zin3 (TODO)
+  ==
 $$
 
 ### 饘1 | _(1)Ch(i/)n_ [[zin1]]
