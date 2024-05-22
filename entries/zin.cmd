@@ -56,6 +56,7 @@ $$
 - $氊1
 - $皽1
 - $羶1
+- $邅1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -264,6 +265,29 @@ W
     - _(1)seng (1)ch(i/)n_
         [[seng1 zin1 腥羶]],
         frowzy.
+    ==
+  ====
+$$
+
+### 邅1 | _(1)Ch(i/)n_ [[zin1]]
+
+$$
+R
+  ⾡ + 13
+U
+  U+9085
+F
+  ==
+  - [[F1.20 邅]] 迍邅
+  ==
+W
+  ====
+  - [[Page~17* (1)邅]]
+    ==
+    - Unable to advance;
+    - _(1)chun (1)ch(i/)n_
+        [[zeon1 zin1 迍邅]],
+        making no progress, unlucky in life, unfortunate.
     ==
   ====
 $$
