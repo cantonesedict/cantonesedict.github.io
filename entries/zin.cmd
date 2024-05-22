@@ -49,10 +49,44 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $儃1
 - $旃1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 儃1 | _(1)Ch(i/)n_ [[zin1]]
+
+$$
+R
+  ⼈ + 13
+U
+  U+5103
+F
+  ==
+  - [[F1.20 旃]] 態也又儃回不進也
+  ==
+W
+  ====
+  - [[Page~16* (1)儃]]
+    --
+    [[Idiosyncratic reading from Williams. **See $儃sin4 for the canonical entry.**]]
+    --
+    --
+    Read _sh(i/)n[(6)]_; [[**see $儃sin6**]].
+    --
+  ====
+C
+  ==
+  - Williams' alternative reading:
+    Corrected _sh(i/)n(3)_ (sin3) to _sh(i/)n(6)_ (sin6).
+  ==
+S
+  ==
+  - $儃sin4 (TODO)
+  - $儃sin6 (TODO)
+  ==
+$$
 
 ### 旃1 | _(1)Ch(i/)n_ [[zin1]]
 
