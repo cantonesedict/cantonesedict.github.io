@@ -1114,6 +1114,23 @@ For all radicals, see [Index of characters by radical](./).
 ## ⽑ (fur)
 
 <## radical-⽑-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 5
+    ,
+      <nav class="sideways">
+      ==
+      - $毡zin1
+      ==
+      </nav>
+''
+||||
 <## /radical-⽑-characters ##>
 
 

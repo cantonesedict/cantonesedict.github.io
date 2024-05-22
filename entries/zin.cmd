@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $儃1
 - $旃1
+- $毡1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -107,5 +108,26 @@ W
     - a crooked flag-staff;
     - to signalize one to come.
     ==
+  ====
+$$
+
+### 毡1 | _(1)Ch(i/)n_ [[zin1]]
+
+$$
+R
+  ⽑ + 5
+U
+  U+6BE1
+F
+  ==
+  - [[F1.20 氊]] 以毛爲物曰氊
+  - [[F1.20 毡]] 同上
+  ==
+W
+  ====
+  - [[Page~16* (1)毡(1)氊]]
+    --
+    [[Alternative form of 氈. **See $氈zin1 for the canonical entry.**]]
+    --
   ====
 $$
