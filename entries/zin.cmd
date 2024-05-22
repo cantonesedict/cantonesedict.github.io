@@ -55,6 +55,7 @@ $$
 - $氈1
 - $氊1
 - $皽1
+- $羶1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -231,6 +232,38 @@ W
     - _(1)ch(i/)n lat(7)_
         [[zin1 lat1 皽甩]]
         rip it off.
+    ==
+  ====
+$$
+
+### 羶1 | _(1)Ch(i/)n_ [[zin1]]
+
+$$
+R
+  ⽺ + 13
+U
+  U+7FB6
+V
+  ==
+  - sin1 (expected from 式連切)
+  ==
+F
+  ==
+  - [[F1.20 羶]] 腥羶羊脂也
+  ==
+W
+  ====
+  - [[Page~17* (1)羶]]
+    ==
+    - The rank oder of goats;
+    - frowzy;
+    - sheep's fat, mutton tallow;
+    - _ch(')au(3) (1)ch(i/)n_
+        [[cau3 zin1 臭羶]],
+        fetid, rank;
+    - _(1)seng (1)ch(i/)n_
+        [[seng1 zin1 腥羶]],
+        frowzy.
     ==
   ====
 $$
