@@ -69,6 +69,7 @@ class Updater:
 
         Updater._check_syllables(entry_cmd_name, tone_syllable_ct_list)
         Updater._check_tones(entry_cmd_name, tone_syllable_ct_list, navigation_tones)
+        Updater._check_canto_tones(entry_cmd_name, tone_syllable_ct_list, navigation_tones)
 
         new_cmd_content = old_cmd_content
         new_cmd_content = Updater._normalise_radicals(new_cmd_content)
@@ -324,6 +325,27 @@ class Updater:
                 file=sys.stderr,
             )
             sys.exit(1)
+
+    @staticmethod
+    def _check_canto_tones(entry_cmd_name, tone_syllable_ct_list, navigation_tones):
+        for tone, syllable, canto_tone in tone_syllable_ct_list:
+            is_entering = syllable[-1] in 'ptk'
+            if (tone, is_entering, canto_tone) not in [
+                ('1', False, '陰平'),
+                ('2', False, '陰上'),
+                ('3', False, '陰去'),
+                ('4', False, '陽平'),
+                ('5', False, '陽上'),
+                ('6', False, '陽去'),
+                ('1', True, '高陰入'),
+                ('3', True, '低陰入'),
+                ('6', True, '陽入'),
+            ]:
+                print(
+                    f'Error in `{entry_cmd_name}`: {syllable}{tone} does not have Cantonese tone {canto_tone}',
+                    file=sys.stderr,
+                )
+                sys.exit(1)
 
     @staticmethod
     def _check_tones(entry_cmd_name, tone_syllable_ct_list, navigation_tones):
