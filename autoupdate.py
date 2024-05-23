@@ -63,16 +63,16 @@ class Updater:
         Updater._check_jyutping_romanisation_heuristic(entry_cmd_name, old_cmd_content)
         Updater._check_insertion_context(entry_cmd_name, old_cmd_content)
 
-        tone_syllable_list = Updater._gather_tone_syllable_list(old_cmd_content)
+        tone_syllable_ct_list = Updater._gather_tone_syllable_ct_list(old_cmd_content)
         navigation_tones = Updater._gather_navigation_tones(old_cmd_content)
-        toned_characters_from_tone = Updater._gather_toned_characters_from_tone(old_cmd_content, tone_syllable_list)
+        toned_characters_from_tone = Updater._gather_toned_characters_from_tone(old_cmd_content, tone_syllable_ct_list)
 
-        Updater._check_syllables(entry_cmd_name, tone_syllable_list)
-        Updater._check_tones(entry_cmd_name, tone_syllable_list, navigation_tones)
+        Updater._check_syllables(entry_cmd_name, tone_syllable_ct_list)
+        Updater._check_tones(entry_cmd_name, tone_syllable_ct_list, navigation_tones)
 
         new_cmd_content = old_cmd_content
         new_cmd_content = Updater._normalise_radicals(new_cmd_content)
-        new_cmd_content = Updater._update_page_tones_navigation(new_cmd_content, tone_syllable_list)
+        new_cmd_content = Updater._update_page_tones_navigation(new_cmd_content, tone_syllable_ct_list)
         new_cmd_content = Updater._update_page_character_navigations(new_cmd_content, toned_characters_from_tone)
 
         if new_cmd_content == old_cmd_content:
@@ -290,12 +290,12 @@ class Updater:
             sys.exit(1)
 
     @staticmethod
-    def _gather_tone_syllable_list(cmd_content):
+    def _gather_tone_syllable_ct_list(cmd_content):
         return re.findall(
             pattern=r'''
                 ^ \#\# \{ \#(?P<tone> [1-6] ) .*
                 (?: \( | \[\[ )
-                (?P<syllable> [a-z]+ )(?P=tone) .*
+                (?P<syllable> [a-z]+ )(?P=tone) [ ] (?P<canto_tone> \S+ )
                 (?: \) | \]\] ) $
             ''',
             string=cmd_content,
@@ -310,14 +310,14 @@ class Updater:
         )
 
     @staticmethod
-    def _check_syllables(entry_cmd_name, tone_syllable_list):
+    def _check_syllables(entry_cmd_name, tone_syllable_ct_list):
         cmd_syllable = re.sub(
             pattern=r'entries/(?P<syllable>[a-z]+)\.cmd',
             repl=r'\g<syllable>',
             string=entry_cmd_name,
         )
 
-        gathered_syllables = set(s for _, s in tone_syllable_list)
+        gathered_syllables = set(syllable for _, syllable, _ in tone_syllable_ct_list)
         if gathered_syllables and gathered_syllables != {cmd_syllable}:
             print(
                 f'Error in `{entry_cmd_name}`: gathered_syllables {gathered_syllables} != `{{{cmd_syllable}}}`',
@@ -326,8 +326,8 @@ class Updater:
             sys.exit(1)
 
     @staticmethod
-    def _check_tones(entry_cmd_name, tone_syllable_list, navigation_tones):
-        syllable_tones = [tone_syllable[0] for tone_syllable in tone_syllable_list]
+    def _check_tones(entry_cmd_name, tone_syllable_ct_list, navigation_tones):
+        syllable_tones = [tone for tone, _, _ in tone_syllable_ct_list]
         if syllable_tones != navigation_tones:
             print(
                 f'Error in `{entry_cmd_name}`: syllable tones {syllable_tones} != navigation tones {navigation_tones}',
@@ -336,7 +336,7 @@ class Updater:
             sys.exit(1)
 
     @staticmethod
-    def _gather_toned_characters_from_tone(cmd_content, tone_syllable_list):
+    def _gather_toned_characters_from_tone(cmd_content, tone_syllable_ct_list):
         return {
             tone: [
                 re.sub(
@@ -356,7 +356,7 @@ class Updater:
                     flags=re.MULTILINE | re.VERBOSE,
                 )
             ]
-            for tone, syllable in tone_syllable_list
+            for tone, syllable, _ in tone_syllable_ct_list
         }
 
     @staticmethod
@@ -369,10 +369,10 @@ class Updater:
         )
 
     @staticmethod
-    def _update_page_tones_navigation(cmd_content, tone_syllable_list):
+    def _update_page_tones_navigation(cmd_content, tone_syllable_ct_list):
         return re.sub(
             pattern=r'(?<=<## tones ##>\n).*?(?=<## /tones ##>\n)',
-            repl=Updater._tones_navigation_cmd_content(tone_syllable_list),
+            repl=Updater._tones_navigation_cmd_content(tone_syllable_ct_list),
             string=cmd_content,
             flags=re.DOTALL | re.MULTILINE,
         )
@@ -390,11 +390,11 @@ class Updater:
         return cmd_content
 
     @staticmethod
-    def _tones_navigation_cmd_content(tone_syllable_list):
+    def _tones_navigation_cmd_content(tone_syllable_ct_list):
         return '\n'.join([
             '<nav class="sideways">',
             '=={.modern}',
-            *[f'- [{syllable}{tone}](#{tone})' for tone, syllable in tone_syllable_list],
+            *[f'- [{syllable}{tone}](#{tone})' for tone, syllable, _ in tone_syllable_ct_list],
             '==',
             '</nav>',
             '',
