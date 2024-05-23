@@ -406,6 +406,7 @@ $$
 - $展2
 - $碾2
 - $輾2
+- $闡2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -508,5 +509,43 @@ C
 S
   ==
   - $輾nin5 (TODO)
+  ==
+$$
+
+### 闡2 | _(2)Ch(i/)n_ [[zin2]]
+
+$$
+R
+  ⾨ + 12
+U
+  U+95E1
+V
+  ==
+  - cin2 (expected from 昌善切)
+  ==
+F
+  ==
+  - [[F1.22 闡]] 發也開也
+  ==
+W
+  ====
+  - [[Page~17* (2)闡]]
+    ==
+    - To open, to spread out, to enlarge from the original condition;
+    - manifest, clear, plain;
+    - _(2)ch(i/)n (1)hoi_
+        [[zin2 hoi1 闡開]],
+        to open, to extend;
+    - _(2)ch(i/)n (4)ming_
+        [[zin2 ming4 闡明]],
+        to state clearly;
+    - _(2)ch(i/)n t(a/)t(9)_
+        [[zin2 daat6 闡達]]
+        to comprehend.
+    ==
+  ====
+S
+  ==
+  - $闡cin2 (TODO)
   ==
 $$
