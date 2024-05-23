@@ -405,6 +405,7 @@ $$
 =={.modern}
 - $展2
 - $碾2
+- $輾2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -474,5 +475,38 @@ W
 S
   ==
   - $碾nin5 (TODO)
+  ==
+$$
+
+### 輾2 | _(2)Ch(i/)n_ [[zin2]]
+
+$$
+R
+  ⾞ + 10
+U
+  U+8F3E
+F
+  ==
+  - [[F1.22 輾]] 轉之半曰輾
+  ==
+W
+  ====
+  - [[Page~17* (2)輾]]
+    ==
+    - To roll over half way;
+    - to turn over;
+    - [[see $輾nin5 for "mill" senses]];
+    - _(2)ch(i/)n (2)ch(u")n (2)f(a/)n [chak](7)_
+        [[zin2 zyun2 faan2 zak1 輾轉反側]]
+        to turn back and forth, to think on.
+    ==
+  ====
+C
+  ==
+  - Williams' 輾轉反側: Corrected _ch(')ak(7)_ (cak1) to _chak(7)_ (zak1).
+  ==
+S
+  ==
+  - $輾nin5 (TODO)
   ==
 $$
