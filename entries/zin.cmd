@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [zin1](#1)
 - [zin2](#2)
+- [zin3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -547,5 +548,75 @@ W
 S
   ==
   - $闡cin2 (TODO)
+  ==
+$$
+
+
+##{#3 .williams} Ch(i/)n(3) Ts(i/)n(3) [[zin3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $戰3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 戰3 | _Ch(i/)n(3)_ [[zin3]]
+
+$$
+R
+  ⼽ + 12
+U
+  U+6230
+F
+  ==
+  - [[F1.25 戰]] 閩戰又恐懼貌
+  ==
+W
+  ====
+  - [[Page~17* 戰(3)]]
+    ==
+    - To fight;
+    - to be alarmed, struck with dread;
+    - fearful, anxious;
+    - a battle, an engagement;
+    - war, hostilities;
+    - military, pertaining to war;
+    - _h(u")t(8) ch(i/)n(3)_
+        [[hyut3 zin3 血戰]]
+        a bloody fight;
+    - _ch(i/)n(3) shing(3)_
+        [[zin3 sing3 戰勝]]
+        a victory;
+    - _(2)t(a/) ch(i/)n(3)_
+        [[daa2 zin3 打戰]]
+        terrified;
+    - _ch(i/)n(3) tau(3)_ [[zin3 dau3 戰鬥]]
+        or
+      _(1)k(a/)u ch(i/)n(3)_ [[gaau1 zin3 交戰]]
+        to join battle;
+    - _ch(i/)n(3) [chan(6)]_
+        [[zin3 zan6 戰陳]],
+        troops drawn up for battle;
+    - _ch(i/)n(3) p(a/)i[(6)]_
+        [[zin3 baai6 戰敗]]
+        to be discomfited;
+    - _ch(i/)n(3) ch(i/)n(3) (1)king (1)king_
+        [[zin3 zin3 ging1 ging1 戰戰兢兢]],
+        frightened, afraid of;
+    - _ch(i/)n(3) (4)sh(u")n_
+        [[zin3 syun4 戰船]],
+        a war-junk, a ship of war;
+    - _ch(i/)n(3) (1)sh(u")_
+        [[zin3 syu1 戰書]],
+        a challenge to fight.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: 閩 is probably a typo for 鬪 or similar.
+  - Williams' 戰陳: Corrected _(4)ch(')an_ (can4) to _chan(6)_ (zan6).
+  - Williams' 戰敗: Corrected _p(a/)i(3)_ (baai3) to _p(a/)i(6)_ (baai6).
   ==
 $$
