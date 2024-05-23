@@ -404,6 +404,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $展2
+- $碾2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -450,4 +451,28 @@ W
         to extend the time.
     ==
   ====
+$$
+
+### 碾2 | _(2)Ch(i/)n_ [[zin2]]
+
+$$
+R
+  ⽯ + 10
+U
+  U+78BE
+F
+  ==
+  - [[F1.22 碾]] 轢也又音研
+  ==
+W
+  ====
+  - [[Page~17* (2)碾]]
+    --
+    [[Reading variation. **See $碾nin5 for the canonical entries.**]]
+    --
+  ====
+S
+  ==
+  - $碾nin5 (TODO)
+  ==
 $$
