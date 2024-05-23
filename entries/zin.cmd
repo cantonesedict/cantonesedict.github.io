@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2024-05-22
+* %date-modified --> 2024-05-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zin1](#1)
+- [zin2](#2)
 ==
 </nav>
 <## /tones ##>
@@ -392,6 +393,61 @@ W
     - A falcon, goshawk, or kite;
     - a yellow bird which pursues pigeons;
     - a sparrow-hawk.
+    ==
+  ====
+$$
+
+
+##{#2 .williams} (2)Ch(i/)n (2)Ts(i/)n [[zin2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $展2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 展2 | _(2)Ch(i/)n_ [[zin2]]
+
+$$
+R
+  ⼫ + 7
+U
+  U+5C55
+F
+  ==
+  - [[F1.22 展]] 舒展
+  ==
+W
+  ====
+  - [[Page~17* (2)展]]
+    ==
+    - To open out, to unroll, and inspect;
+    - to exhibit, to disentangle;
+    - to stretch out at one's ease, to expand;
+    - to judge of, to look into;
+    - true, sincere;
+    - cheerful, pleasant;
+    - gratified;
+    - _yuk(9) (2)ch(i/)n_
+        [[juk6 zin2 玉展]],
+        may you open this;
+    - _(2)ch(i/)n hon(3)_
+        [[zin2 hon3 展看]]
+        to open and look at;
+    - _(2)ch(i/)n (1)hoi_
+        [[zin2 hoi1 展開]],
+        to spread out, to open (as a letter);
+    - _(2)ch(i/)n (4)m(i/)_
+        [[zin2 mei4 展眉]],
+        a pleasant face;
+    - _(2)ch(i/)n (u/)n(6)_
+        [[zin2 wun6 展緩]]
+        to defer, to put off to get time;
+    - _(2)ch(i/)n h(a/)n(6)_
+        [[zin2 haan6 展限]]
+        to extend the time.
     ==
   ====
 $$
