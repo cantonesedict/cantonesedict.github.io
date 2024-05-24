@@ -562,14 +562,77 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $剪2
 - $展2
 - $碾2
+- $翦2
 - $諓2
 - $輾2
 - $闡2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 剪2 | _(2)Ts(i/)n_ [[zin2]]
+
+$$
+R
+  ⼑ + 9
+U
+  U+526A
+A
+  ==
+  - $翦2
+  ==
+F
+  ==
+  - [[F1.22 剪]] ::[裁]也又較剪::
+  - [[F1.22 翦]] ::齊也截以[殺]也::
+  ==
+W
+  ====
+  - [[Page~573 (2)翦(2)剪]]
+    ==
+    - [[See $翦zin2 for classical senses]];
+    - to cut off smooth, to clip even;
+    - to shear;
+    - shears, scissors;
+    - [[...]];
+    - _yat(7) (2)p(a/) (2)ts(i/)n (1)t(o\)_
+        [[jat1 baa2 zin2 dou1 一把剪刀]],
+        a pair of scissors;
+    - _t(a/)i(6) k(a/)u(3) (2)ts(i/)n_
+        [[daai6 gaau3 zin2 大鉸剪]],
+        shears;
+    - _ch(a/)p[(9)] (2)ts(i/)n_
+        [[zaap6 zin2 鈒剪]],
+        betel-nut shears;
+    - _(4)ts(')oi (2)ts(i/)n_
+        [[coi4 zin2 裁剪]],
+        to cut out garments;
+        to manage, to plan;
+    - [[...]].
+    ==
+  ====
+C
+  ====
+  - Fan Wan entry: Corrected 栽 to 裁 and ⿰糸殳 to 殺.
+  - Williams does not provide separate entries for 剪 and $翦2.
+    In modern usage, the "scissors" sense is spelt 剪,
+    whilst the other (classical) senses are spelt 翦.
+  - Williams' 鈒剪: Corrected _ch(a/)p(8)_ (zaap3) to _ch(a/)p(9)_ (zaap6).
+  ====
+E
+  ====
+  - 【鉸剪】 (gaau3 zin2):
+    ++
+    1. Scissors. Also spelt 較剪 (per Fan Wan).
+       ==
+       - 把鉸剪鈍 (baa2 gaau3 zin2 deon6): "[The] pair of scissors [is] blunt."
+       ==
+    ++
+  ====
+$$
 
 ### 展2 | _(2)Ch(i/)n_ [[zin2]]
 
@@ -637,6 +700,50 @@ S
   ==
   - $碾nin5 (TODO)
   ==
+$$
+
+### 翦2 | _(2)Ts(i/)n_ [[zin2]]
+
+$$
+R
+  ⽻ + 9
+U
+  U+7FE6
+A
+  ==
+  - $剪2
+  ==
+F
+  ==
+  - [[F1.22 剪]] ::[裁]也又較剪::
+  - [[F1.22 翦]] ::齊也截以[殺]也::
+  ==
+W
+  ====
+  - [[Page~573 (2)翦(2)剪]]
+    ==
+    - Even, regular, as feathers grow;
+    - to cut off smooth, to clip even;
+    - [[see $剪zin2 for "scissors" senses]];
+    - to kill, to destroy;
+    - to reduce, to clip off;
+    - light, as a dye;
+    - [[...]];
+    - _(2)ts(i/)n (2)ts(i/)n_
+        [[zin2 zin2 翦翦]],
+        subtle at argument;
+    - _(2)ts(i/)n t(i/)(6) (4)k(')au (4)wo_
+        [[zin2 dei6 kau4 wo4 翦地求和]],
+        to give up territory and beg for peace.
+    ==
+  ====
+C
+  ====
+  - Fan Wan entry: Corrected 栽 to 裁 and ⿰糸殳 to 殺.
+  - Williams does not provide separate entries for $剪2 and 翦.
+    In modern usage, the "scissors" sense is spelt 剪,
+    whilst the other (classical) senses are spelt 翦.
+  ====
 $$
 
 ### 諓2 | _(2)Ts(i/)n_ [[zin2]]
