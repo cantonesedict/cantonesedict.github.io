@@ -61,6 +61,7 @@ $$
 - $煎1
 - $皽1
 - $箋1
+- $籛1
 - $羶1
 - $邅1
 - $顫1
@@ -373,6 +374,29 @@ W
     - _l(a/)p(9) (1)ts(i/)n_
         [[laap6 zin1 蠟箋]],
         glazed billet paper.
+    ==
+  ====
+$$
+
+### 籛1 | _(1)Ts(i/)n_ [[zin1]]
+
+$$
+R
+  ⽵ + 16
+U
+  U+7C5B
+F
+  ==
+  - [[F1.20 籛]] 彭祖姓
+  ==
+W
+  ====
+  - [[Page~573 (1)籛]]
+    ==
+    - A man's name,
+      called _(1)Ts(i/)n (1)Hang_ [[zin1 hang1 籛鏗]], or Tsien Hing,
+      who lived in the Sh(a/)ng [[商]] and Chau [[周]] dynasties,
+      to the age of 767, and then vanished.
     ==
   ====
 $$
