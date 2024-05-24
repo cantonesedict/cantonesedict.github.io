@@ -56,6 +56,7 @@ $$
 - $毡1
 - $氈1
 - $氊1
+- $湔1
 - $煎1
 - $皽1
 - $羶1
@@ -210,6 +211,27 @@ W
     --
     [[Alternative form of 氈. **See $氈zin1 for the canonical entry.**]]
     --
+  ====
+$$
+
+### 湔1 | _(1)Ts(i/)n_ [[zin1]]
+
+$$
+R
+  ⽔ + 9
+U
+  U+6E54
+F
+  ==
+  - [[F1.20 湔]] 湔洗
+  ==
+W
+  ====
+  - [[Page~573 (1)湔]]
+    ==
+    - To sprinkle with the hand, to bespatter;
+    - name of a river in Sz'chuen [[四川]].
+    ==
   ====
 $$
 
