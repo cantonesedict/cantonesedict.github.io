@@ -564,6 +564,7 @@ $$
 =={.modern}
 - $展2
 - $碾2
+- $諓2
 - $輾2
 - $闡2
 ==
@@ -635,6 +636,43 @@ W
 S
   ==
   - $碾nin5 (TODO)
+  ==
+$$
+
+### 諓2 | _(2)Ts(i/)n_ [[zin2]]
+
+$$
+R
+  ⾔ + 8
+U
+  U+8AD3
+V
+  ==
+  - cin5 (expected from 慈演切 rising)
+  - zin1 (alternative)
+  - zin6 (expected from 才線切)
+  ==
+F
+  ==
+  - [[F1.20 諓 _(1)Ts(i/)n_ (zin1)]] 巧言也
+  ==
+W
+  ====
+  - [[Page~573 (2)諓]]
+    ==
+    - To flatter;
+    - pleasant, kind words;
+    - sly insinuations;
+    - _(2)ts(i/)n (2)ts(i/)n_
+        [[zin2 zin2 諓諓]],
+        shallow, artful talk.
+    ==
+  ====
+C
+  ==
+  - The non-《廣韻》 readings _(1)ts(i/)n_ (zin1) and _(2)ts(i/)n_ (zin2)
+    are not unattested; Kangxi quotes
+    ::又《集韻》[...]又子淺切箋上聲又《集韻》《韻會》將先切《正韻》則前切𠀤音箋義𠀤同::.
   ==
 $$
 
