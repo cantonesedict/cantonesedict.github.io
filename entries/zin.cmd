@@ -60,6 +60,7 @@ $$
 - $湔1
 - $煎1
 - $皽1
+- $箋1
 - $羶1
 - $邅1
 - $顫1
@@ -340,6 +341,38 @@ W
     - _(1)ch(i/)n lat(7)_
         [[zin1 lat1 皽甩]]
         rip it off.
+    ==
+  ====
+$$
+
+### 箋1 | _(1)Ts(i/)n_ [[zin1]]
+
+$$
+R
+  ⽵ + 8
+U
+  U+7B8B
+F
+  ==
+  - [[F1.20 箋]] 簡牒
+  ==
+W
+  ====
+  - [[Page~573 (1)箋]]
+    ==
+    - Tablets or slips on which to make memoranda;
+    - a letter, a writing;
+    - note paper with water-line or stamped pictures;
+    - writings handed to the monarch;
+    - _(1)ts(i/)n (2)ch(i/)_
+        [[zin1 zi2 箋紙]],
+        fancy notepaper;
+    - _ts(')at(7) (4)hong (1)ts(i/)n_
+        [[cat1 hong4 zin1 七行箋]],
+        seven lined billet paper;
+    - _l(a/)p(9) (1)ts(i/)n_
+        [[laap6 zin1 蠟箋]],
+        glazed billet paper.
     ==
   ====
 $$
