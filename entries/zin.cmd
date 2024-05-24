@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2024-05-23
+* %date-modified --> 2024-05-24
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -76,7 +76,7 @@ U
   U+5103
 F
   ==
-  - [[F1.20 旃]] 態也又儃回不進也
+  - [[F1.20 儃]] 態也又儃回不進也
   ==
 W
   ====
