@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaau
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-05-24
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -74,7 +74,7 @@ W
         chirping of birds.
     ==
     --
-    Read _(1)t(o\)_; [[**see $啁dou1**]].
+    Read _(1)t(o\)_ [[dou1]]; [[**see $啁dou1**]].
     --
   ====
 C

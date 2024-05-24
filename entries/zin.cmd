@@ -86,7 +86,7 @@ W
     [[Idiosyncratic reading from Williams. **See $儃sin4 for the canonical entry.**]]
     --
     --
-    Read _sh(i/)n[(6)]_; [[**see $儃sin6**]].
+    Read _sh(i/)n[(6)]_ [[sin6]]; [[**see $儃sin6**]].
     --
   ====
 C
