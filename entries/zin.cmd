@@ -259,7 +259,7 @@ C
   ==
 S
   ==
-  - $煎zin3 (TODO)
+  - $煎zin3
   ==
 $$
 
@@ -609,6 +609,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $戰3
+- $煎3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -669,5 +670,48 @@ C
   - Fan Wan entry: 閩 is probably a typo for 鬪 or similar.
   - Williams' 戰陳: Corrected _(4)ch(')an_ (can4) to _chan(6)_ (zan6).
   - Williams' 戰敗: Corrected _p(a/)i(3)_ (baai3) to _p(a/)i(6)_ (baai6).
+  ==
+$$
+
+### 煎3 | _Ts(i/)n(3)_ [[zin3]]
+
+$$
+R
+  ⽕ + 9
+U
+  U+714E
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~572 (1)煎]]
+    --
+    [[...]]
+    --
+    --
+    Read _ts(i/)n(3)_ [[zin3]];
+    --
+    ==
+    - to decoct, to boil, to digest with heat;
+    - to simmer;
+    - _ts(i/)n(3) chap(7)_
+        [[zin3 zap1 煎汁]]
+        to fry in its own juices, as fruit;
+    - _ts(i/)n(3) (1)t(')ong_
+        [[zin3 tong1 煎湯]],
+        to boil slowly;
+    - _ts(i/)n(3) y(e/)uk(9)_
+        [[zin3 joek6 煎藥]]
+        to decoct medicines.
+    ==
+  ====
+C
+  ==
+  - Williams' 煎燶: Corrected _(4)nung_ (nung4) to _(1)nung_ (nung1).
+  - Williams' 熬煎: Corrected _ng(o\)(6)_ (ngou6) to _(4)ng(o\)_ (ngou4).
+  ==
+S
+  ==
+  - $煎zin1
   ==
 $$

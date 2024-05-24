@@ -1389,6 +1389,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $煍cau1
       - $煎zin1
+      - $煎zin3
       ==
       </nav>
   //
