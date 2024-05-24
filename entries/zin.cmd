@@ -56,6 +56,7 @@ $$
 - $毡1
 - $氈1
 - $氊1
+- $煎1
 - $皽1
 - $羶1
 - $邅1
@@ -210,6 +211,56 @@ W
     [[Alternative form of 氈. **See $氈zin1 for the canonical entry.**]]
     --
   ====
+$$
+
+### 煎1 | _(1)Ts(i/)n_ [[zin1]]
+
+$$
+R
+  ⽕ + 9
+U
+  U+714E
+F
+  ==
+  - [[F1.20 煎]] 熬煎
+  ==
+W
+  ====
+  - [[Page~572 (1)煎]]
+    ==
+    - To fry, to roast in a pan;
+    - to vex, to harass;
+    - _(1)ts(i/)n (1)k(o\)_
+        [[zin1 gou1 煎膏]],
+        to express lard;
+    - _yung(6) (4)yau (1)ts(i/)n_
+        [[jung6 jau4 zin1 用油煎]],
+        use fat in frying it;
+    - _m(a/)n(6) (2)fo (1)ts(i/)n (4)(u")_
+        [[maan6 fo2 zin1 jyu4-2 慢火煎魚]],
+        a slow fire tries fish;
+        _i.~e._ small bets will erelong drain the purse;
+    - _(1)ts(i/)n [(1)]nung_
+        [[zin1 nung1 煎燶]],
+        to fry brown;
+    - _[(4)]ng(o\) (1)ts(i/)n_
+        [[ngou4 zin1 熬煎]],
+        to simmer, to decoct;
+        vexed, irritated.
+    ==
+    --
+    Read _ts(i/)n(3)_ [[zin3]]; [[**see $煎zin3**]].
+    --
+  ====
+C
+  ==
+  - Williams' 煎燶: Corrected _(4)nung_ (nung4) to _(1)nung_ (nung1).
+  - Williams' 熬煎: Corrected _ng(o\)(6)_ (ngou6) to _(4)ng(o\)_ (ngou4).
+  ==
+S
+  ==
+  - $煎zin3 (TODO)
+  ==
 $$
 
 ### 皽1 | _(1)Ch(i/)n_ [[zin1]]
