@@ -52,6 +52,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $儃1
+- $戔1
 - $旃1
 - $毡1
 - $氈1
@@ -100,6 +101,33 @@ S
   - $儃sin4 (TODO)
   - $儃sin6 (TODO)
   ==
+$$
+
+### 戔1 | _(1)Ts(i/)n_ [[zin1]]
+
+$$
+R
+  ⼽ + 4
+U
+  U+6214
+F
+  ==
+  - [[F1.20 戔]] 戔戔淺少之貌
+  ==
+W
+  ====
+  - [[Page~573 (1)戔]]
+    --
+    Used for _(4)ts(')(a/)n_ 殘 cruel.
+    --
+    --
+    [[Otherwise:]]
+    --
+    ==
+    - Small, narrow, cramped;
+    - contracted, as one's mind.
+    ==
+  ====
 $$
 
 ### 旃1 | _(1)Ch(i/)n_ [[zin1]]
