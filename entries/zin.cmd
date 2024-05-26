@@ -947,6 +947,7 @@ $$
 - $戰3
 - $煎3
 - $箭3
+- $薦3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -1122,5 +1123,53 @@ E
        - 綠箭嘴 (luk6 zin3 zeoi2): "Green arrow."
        ==
     ++
+  ====
+$$
+
+### 薦3 | _Ts(i/)n(3)_ [[zin3]]
+
+$$
+R
+  ⾋ + 13
+U
+  U+85A6
+F
+  ==
+  - [[F1.23 薦]] 舉薦祭亦曰薦
+  ==
+W
+  ====
+  - [[Page~573 薦(3)]]
+    ==
+    - Grass eaten by animals;
+    - pasturage;
+    - to lead animals to good pastures;
+    - to introduce, to recommend;
+    - to lay out food;
+    - to adore, to worship without a victim;
+    - [[see $墊zin3 for "padding" senses]];
+    - _ts(i/)n(3) (2)ts(o\)_
+        [[zin3 zou2 薦祖]],
+        to worship ancestors;
+    - _(2)k(u") ts(i/)n(3)_
+        [[geoi2 zin3 舉薦]]
+        to recommend one;
+    - _(2)s(e/) ts(i/)n(3) (2)sh(u")_
+        [[se2 zin3 syu1 寫薦書]],
+        to write an introductory letter;
+    - _(5)yau ts(i/)n(3) (4)t(')au_,
+        [[jau5 zin3 tau4 有薦頭]]
+        there is some opening;
+    - _f(u/)(6) ts(i/)n(3)_
+        [[fu6 zin3 附薦]]
+        to get a soul out of purgatory by priests;
+    - _ts(i/)n(3) ts(')oi(3)_
+        [[zin3 coi3 薦菜]]
+        take a little greens---with your wine;
+        said to a guest;
+    - _ts(i/)n(3) (2)h(i/)_
+        [[zin3 hei2 薦起]]^
+        raise it up.
+    ==
   ====
 $$
