@@ -946,6 +946,7 @@ $$
 =={.modern}
 - $戰3
 - $煎3
+- $箭3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -1049,5 +1050,66 @@ C
 S
   ==
   - $煎zin1
+  ==
+$$
+
+### 箭3 | _Ts(i/)n(3)_ [[zin3]]
+
+$$
+R
+  ⽵ + 9
+U
+  U+7BAD
+F
+  ==
+  - [[F1.23 箭]] 弓箭
+  ==
+W
+  ====
+  - [[Page~573 箭(3)]]
+    ==
+    - An arrow;
+    - an archer;
+    - a bowshot;
+    - to dart out very quickly;
+    - swift, like an arrow;
+    - a slender sort of bamboo;
+    - bristling;
+    - _sh(e/)(6) ts(i/)n(3)_
+        [[se6 zin3 射箭]]
+        to shoot an arrow;
+    - _(1)kung ts(i/)n(3)_
+        [[gung1 zin3 弓箭]]
+        bow and arrow;
+    - _lau(6) ts(i/)n(3)_
+        [[lau6 zin3 漏箭]]
+        the gauge in a clepsydra;
+    - _(2)fo ts(i/)n(3)_
+        [[fo2 zin3 火箭]]
+        a fire arrow;
+    - _(2)h(e/)ung ts(i/)n(3)_
+        [[hoeng2 zin3 響箭]]
+        a whirring arrow;
+    - _(2)h(o\) ts(i/)n(3)_
+        [[hou2 zin3 好箭]]
+        a good shot;
+    - _(5)m(a/) ts(i/)n(3)_
+        [[maa5 zin3 馬箭]]
+        mounted archers;
+    - _(o\)m(3) ts(i/)n(3) (1)sh(e/)ung (4)yan_
+        [[am3 zin3 soeng1 jan4 暗箭傷人]],
+        to injure one with a secret arrow---slander;
+    - _fong(3) (5)[l(a/)ng] ts(i/)n(3)_
+        [[fong3 lang5 zin3 放冷箭]]
+        to shoot at privily;
+    - _yat(7) ts(i/)n(3) (1)ch(i/) t(i/)(6)_
+        [[jat1 zin3 zi1 dei6 一箭之地]]
+        a bowshot, or 120~ch(')ek(8) [[cek3 尺]].
+    ==
+  ====
+C
+  ==
+  - Williams' 火箭: Now "rocket".
+  - Williams' 放冷箭: Corrected _(5)lang_ (lang5) to _(5)l(a/)ng_ (laang5).
   ==
 $$
