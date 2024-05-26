@@ -947,6 +947,7 @@ $$
 - $墊3
 - $戰3
 - $洊3
+- $濺3
 - $煎3
 - $牮3
 - $箭3
@@ -1067,6 +1068,37 @@ W
         successively.
     ==
   ====
+$$
+
+### 濺3 | _Ts(i/)n(3)_ [[zin3]]
+
+$$
+R
+  ⽔ + 15
+U
+  U+6FFA
+F
+  ==
+  - [[F1.23 ::[濺]::]] 水激酒也
+  ==
+W
+  ====
+  - [[Page~574 濺(3)]]
+    ==
+    - [[See $濺zin1 for "quick flow" senses]];
+    - to spatter up, to dash against;
+    - to squirt out, to spurt, as blood.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised headword ⿰冫賤 to 濺.
+  ==
+S
+  ==
+  - $濺zaan3
+  - $濺zin1 (TODO)
+  ==
 $$
 
 ### 煎3 | _Ts(i/)n(3)_ [[zin3]]

@@ -1333,6 +1333,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $濺zaan3
+      - $濺zin3
       ==
       </nav>
   //
