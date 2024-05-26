@@ -1112,4 +1112,15 @@ C
   - Williams' 火箭: Now "rocket".
   - Williams' 放冷箭: Corrected _(5)lang_ (lang5) to _(5)l(a/)ng_ (laang5).
   ==
+E
+  ====
+  - 【箭嘴】 (zin3 zeoi2):
+    ++
+    1. An arrow.
+       ==
+       - 紅箭嘴 (hung4 zin3 zeoi2): "Red arrow."
+       - 綠箭嘴 (luk6 zin3 zeoi2): "Green arrow."
+       ==
+    ++
+  ====
 $$
