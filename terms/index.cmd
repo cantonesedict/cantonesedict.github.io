@@ -749,6 +749,9 @@ window.onload = applyFilter;
     , zin3 zeoi2
     , [箭嘴](/entries/zin#cantonese-箭嘴)
   //
+    , zin6 gaak3
+    , [賤格](/entries/zin#cantonese-賤格)
+  //
     , zoek3
     , [着~\(wear\)](/entries/zoek#cantonese-着-wear)
   //

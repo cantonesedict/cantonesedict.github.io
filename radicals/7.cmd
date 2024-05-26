@@ -383,6 +383,7 @@ For all radicals, see [Index of characters by radical](./).
       - $質zat1
       - $質zi3
       - $賙zau1
+      - $賤zin6
       - $賬zoeng3
       ==
       </nav>

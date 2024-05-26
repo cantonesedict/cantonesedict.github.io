@@ -24,6 +24,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [zin1](#1)
 - [zin2](#2)
 - [zin3](#3)
+- [zin6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -1448,5 +1449,80 @@ W
         [[zin3 lai5 餞禮]],
         presents to a traveler.
     ==
+  ====
+$$
+
+
+##{#6 .williams} Ts(i/)n(6) [[zin6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $賤6
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 賤6 | _Ts(i/)n(6)_ [[zin6]]
+
+$$
+R
+  ⾙ + 8
+U
+  U+8CE4
+F
+  ==
+  - [[F1.25 賤]] 卑下也
+  ==
+W
+  ====
+  - [[Page~574 賤(6)]]
+    ==
+    - Worthless, vile, mean, low, ignoble, base;
+    - cheap, low-priced;
+    - to disesteem, to depreciate, to lower;
+    - used for what belongs to one's self;
+    - _(4)p(')an ts(i/)n(6)_
+        [[pan4 zin6 貧賤]]
+        poor and mean;
+    - _ts(i/)n(6) noi(6)_
+        [[zin6 noi6 賤內]]
+        my wife;
+    - _ts(i/)n(6) sing(3) Wai(6)_
+        [[zin6 sing3 wai6 賤姓衛]]
+        my surname is Wai [[衛]];
+    - _ts(i/)n(6) s(e/)ung(3)_
+        [[zin6 soeng3 賤相]]
+        a poor physiognomy, a thief's face;
+    - _ts(i/)n(6) kwat(7) (4)t(')au_
+        [[zin6 gwat1 tau4 賤骨頭]],
+        a miserable stick;
+    - _ts(i/)n(6) (4)yan_
+        [[zin6 jan4 賤人]],
+        you poor baggage! said of women;
+    - _k(a/)(3) (4)ts(')(i/)n (2)h(o\) ts(i/)n(6)_
+        [[gaa3 cin4 hou2 zin6 價錢好賤]]
+        the price is very low;
+    - _ts(i/)n(6) k(a/)k(8)_
+        [[zin6 gaak3 賤格]]
+        a miserable lot, of poor talents;
+    - _ts(i/)n(6) mat(9) tau(3) (4)k(')ung (4)yan_
+        [[zin6 mat6 dau3 kung4 jan4 賤物鬥窮人]],
+        the poor may meddle with cheap things;
+    - _tsok(8) ts(i/)n(6)_
+        [[zok3 zin6 作賤]]
+        he disgraced himself.
+    ==
+  ====
+C
+  ==
+  - Williams' 賤人: Now (and in classical illeism) said of both sexes.
+  ==
+E
+  ====
+  - 【賤格】 (zin6 gaak3):
+    ++
+    1. Vile, base, despicable.
+    ++
   ====
 $$
