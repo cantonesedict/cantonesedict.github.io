@@ -564,6 +564,7 @@ $$
 =={.modern}
 - $剪2
 - $展2
+- $戩2
 - $碾2
 - $翦2
 - $諓2
@@ -676,6 +677,32 @@ W
     - _(2)ch(i/)n h(a/)n(6)_
         [[zin2 haan6 展限]]
         to extend the time.
+    ==
+  ====
+$$
+
+### 戩2 | _(2)Ts(i/)n_ [[zin2]]
+
+$$
+R
+  ⼽ + 10
+U
+  U+6229
+F
+  ==
+  - [[F1.22 戩]] 盡也
+  ==
+W
+  ====
+  - [[Page~573 (2)戩]]
+    ==
+    - To destroy, to kill, to exterminate;
+    - to finish, to exhaust;
+    - to clip, to shear;
+    - entirely;
+    - _pat(7) (2)ts(i/)n_
+        [[bat1 zin2 不戩]],
+        unlimited.
     ==
   ====
 $$
