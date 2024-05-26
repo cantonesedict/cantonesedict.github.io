@@ -947,6 +947,7 @@ $$
 - $戰3
 - $煎3
 - $箭3
+- $荐3
 - $薦3
 ==
 </nav>
@@ -1126,6 +1127,38 @@ E
   ====
 $$
 
+### 荐3 | _Ts(i/)n(3)_ [[zin3]]
+
+$$
+R
+  ⾋ + 6
+U
+  U+8350
+V
+  ==
+  - zin6 (expected from 在甸切)
+  ==
+F
+  ==
+  - [[F1.23 薦]] 舉薦祭亦曰薦
+  - [[F1.23 荐]] 同上
+  ==
+W
+  ====
+  - [[Page~573 荐(3)]]
+    ==
+    - Interchanged with the last [[$薦3]];
+    - also to continue;
+    - some;
+    - to succeed, to recur repeatedly, as a famine;
+    - repeatedly, again.
+    ==
+    --
+    [[Otherwise, an alternative form of 墊 (for "padding" senses). **See $墊zin3 for the canonical entry.**]]
+    --
+  ====
+$$
+
 ### 薦3 | _Ts(i/)n(3)_ [[zin3]]
 
 $$
@@ -1136,6 +1169,7 @@ U
 F
   ==
   - [[F1.23 薦]] 舉薦祭亦曰薦
+  - [[F1.23 荐]] 同上
   ==
 W
   ====
