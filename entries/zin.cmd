@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2024-05-24
+* %date-modified --> 2024-05-26
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -567,6 +567,7 @@ $$
 - $碾2
 - $翦2
 - $諓2
+- $譾2
 - $輾2
 - $闡2
 ==
@@ -780,6 +781,41 @@ C
   - The non-《廣韻》 readings _(1)ts(i/)n_ (zin1) and _(2)ts(i/)n_ (zin2)
     are not unattested; Kangxi quotes
     ::又《集韻》[...]又子淺切箋上聲又《集韻》《韻會》將先切《正韻》則前切𠀤音箋義𠀤同::.
+  ==
+$$
+
+###+ 譾2 | _(2)Ts(i/)n_ (zin2)
+
+$$
+R
+  ⾔ + 15
+U
+  U+8B7E
+A
+  ==
+  - $謭2
+  ==
+F
+  ==
+  - [[F1.22 謭]] 謭劣粗也陋也
+  ==
+W
+  ====
+  - [[Page~573 (2)謭; here normalised to 譾]]
+    ==
+    - Shallow-pated, superficial, not profound;
+    - unskilled, shallow, not deep;
+    - _(4)ts(')oi (2)ts(i/)n_
+        [[coi4 zin2 材譾]],
+        mediocre, of small capacity;
+    - _(2)ts(i/)n l(u")t[(9)]_
+        [[zin2 lyut6 譾劣]]
+        mean, insignificant.
+    ==
+  ====
+C
+  ==
+  - Williams' 譾劣: Changed _l(u")t(8)_ (lyut3) to _l(u")t(9)_ (lyut6).
   ==
 $$
 
