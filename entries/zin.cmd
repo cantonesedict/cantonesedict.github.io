@@ -58,6 +58,7 @@ $$
 - $氈1
 - $氊1
 - $湔1
+- $濺1
 - $煎1
 - $皽1
 - $箋1
@@ -263,6 +264,31 @@ W
     - name of a river in Sz'chuen [[四川]].
     ==
   ====
+$$
+
+###+ 濺1 | _(1)Ts(i/)n_ (zin1)
+
+$$
+R
+  ⽔ + 15
+U
+  U+6FFA
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~574 濺(3) _Ts(i/)n(3)_ (zin3); here corrected to _(1)Ts(i/)n_ (zin1)]]
+    ==
+    - A swift current;
+    - a raceway;
+    - [[...]].
+    ==
+  ====
+S
+  ==
+  - $濺zaan3
+  - $濺zin3
+  ==
 $$
 
 ### 煎1 | _(1)Ts(i/)n_ [[zin1]]
@@ -1097,7 +1123,7 @@ C
 S
   ==
   - $濺zaan3
-  - $濺zin1 (TODO)
+  - $濺zin1
   ==
 $$
 
