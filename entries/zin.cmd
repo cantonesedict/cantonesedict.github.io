@@ -1153,9 +1153,6 @@ W
     - to succeed, to recur repeatedly, as a famine;
     - repeatedly, again.
     ==
-    --
-    [[Otherwise, an alternative form of 墊 (for "padding" senses). **See $墊zin3 for the canonical entry.**]]
-    --
   ====
 $$
 
@@ -1166,6 +1163,17 @@ R
   ⾋ + 13
 U
   U+85A6
+A
+  ==
+  -{.modern} $墊3 (for "padding" senses)
+  - $荐3
+  ==
+V
+  ==
+  - din3 (for 墊 "padding")
+  - din6 (uncommon for 墊 "padding")
+  - zin3-2 (vernacular rising-tone for "padding" senses)
+  ==
 F
   ==
   - [[F1.23 薦]] 舉薦祭亦曰薦
@@ -1173,6 +1181,26 @@ F
   ==
 W
   ====
+  - [[Page~519 墊(6) _T(i/)n(6)_ (din6); here normalised to 薦 _Ts(i/)n(3)_ (zin3)]]
+    ==
+    - To lay down, to place on;
+    - [[...]];
+    - to place under, to wedge;
+    - _(2)(i/) [ts(i/)n(3)]_
+        [[ji2 zin3 椅薦]]
+        a chair cushion;
+    - _(4)t(')ang [ts(i/)n(3)]_
+        [[tang4 zin3-2 藤薦]]
+        rattan table mats;
+    - _k(')ong(3) [ts(i/)n(3)]_
+        [[kong3 zin3 炕薦]]
+        a long sofa cushion;
+    - [[...]];
+    - _[ts(i/)n(3)] yuk(9)_
+        [[zin3 juk6-2 薦褥]]
+        a mattress;
+    - [[...]].
+    ==
   - [[Page~573 薦(3)]]
     ==
     - Grass eaten by animals;
@@ -1181,7 +1209,10 @@ W
     - to introduce, to recommend;
     - to lay out food;
     - to adore, to worship without a victim;
-    - [[see $墊zin3 for "padding" senses]];
+    - to wedge, to wedge in;
+    - _ts(i/)n(3) (4)t(')oi k(e/)uk(8)_
+        [[zin3 toi4-2 goek3 薦檯腳]]
+        to wedge the table;
     - _ts(i/)n(3) (2)ts(o\)_
         [[zin3 zou2 薦祖]],
         to worship ancestors;
@@ -1206,4 +1237,36 @@ W
         raise it up.
     ==
   ====
+E
+  ====
+  - 【薦-noun】 (zin3, zin3-2):
+    ++
+    1. A pad, cushion, or mat.
+       ==
+       - 杯薦 (bui1 zin3): "[A] cup-coaster."
+       - 鞋薦 (haai4 zin3-2): "Shoe padding".
+       ==
+    ++
+  - 【薦-verb】 (zin3):
+    ++
+    1. To pad or cushion underneath.
+       ==
+       - 薦底 (zin3 dai2): "Padding out [the] bottom" (i.e. coming last, especially in a higher division or more prestigious environment).
+       - 薦鐺底 (zin3 caang1 dai2): "[To] cushion [under the] bottom of [the] pot."
+       - 冇嘢薦住 (mou5 je5 zin3 zyu6): "Nothing cushioning [it underneath]."
+       ==
+    ++
+  ====
+  --
+  Olden attestation for 薦 _ts(i/)n(3)_ (zin3) meaning "mat/cushion":
+  --
+  ==
+  - ::B4.w435b0604 (:作甸切:) (:薦:) (:薦席:)又薦進也[...]^::
+  ==
+  --
+  The spelling 墊 is common for _ts(i/)n(3)_ (zin3)^,
+  from appropriation of formal 墊 _t(i/)n(3)_ (din3).
+  However, note that 墊 _t(i/)n(3)_ (din3) meaning "padding"
+  is not attested in the Middle Chinese rime books.
+  --
 $$

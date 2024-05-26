@@ -737,6 +737,15 @@ window.onload = applyFilter;
     , zim1 deoi6-2
     , [尖隊](/entries/zim#cantonese-尖隊)
   //
+    , zin3
+    , [薦~\(noun\)](/entries/zin#cantonese-薦-noun)
+  //
+    , zin3
+    , [薦~\(verb\)](/entries/zin#cantonese-薦-verb)
+  //
+    , zin3-2
+    , [薦~\(noun\)](/entries/zin#cantonese-薦-noun)
+  //
     , zin3 zeoi2
     , [箭嘴](/entries/zin#cantonese-箭嘴)
   //
