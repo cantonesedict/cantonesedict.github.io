@@ -952,6 +952,7 @@ $$
 - $箭3
 - $荐3
 - $薦3
+- $餞3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -1350,4 +1351,44 @@ E
   However, note that 墊 _t(i/)n(3)_ (din3) meaning "padding"
   is not attested in the Middle Chinese rime books.
   --
+$$
+
+### 餞3 | _Ts(i/)n(3)_ [[zin3]]
+
+$$
+R
+  ⾷ + 8
+U
+  U+991E
+V
+  ==
+  - cin5 (expected from 慈演切 rising)
+  - zin6 (expected from 才線切)
+  ==
+F
+  ==
+  - [[F1.23 餞]] 以酒食送行曰餞
+  ==
+W
+  ====
+  - [[Page~574 餞(3)]]
+    ==
+    - To present food to one, to give a farewell dinner to;
+    - to send food to;
+    - parting present of money or food;
+    - comfits;
+    - _ts(i/)n(3) (4)hang_
+        [[zin3 hang4 餞行]],
+        to give a dinner to one traveling;
+    - _ts(i/)n(3) p(i/)t(9)_
+        [[zin3 bit6 餞別]]
+        a leave-taking dinner;
+    - _mat(9) ts(i/)n(3) (4)t(')ong (2)kwo_
+        [[mat6 zin3 tong4 gwo2 蜜餞糖果]],
+        comfits and sweetmeats;
+    - _ts(i/)n(3) (5)lai_
+        [[zin3 lai5 餞禮]],
+        presents to a traveler.
+    ==
+  ====
 $$
