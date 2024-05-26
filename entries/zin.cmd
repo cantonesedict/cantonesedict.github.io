@@ -948,6 +948,7 @@ $$
 - $戰3
 - $洊3
 - $煎3
+- $牮3
 - $箭3
 - $荐3
 - $薦3
@@ -1107,6 +1108,31 @@ C
 S
   ==
   - $煎zin1
+  ==
+$$
+
+### 牮3 | _Ts(i/)n(3)_ [[zin3]]
+
+$$
+R
+  ⽜ + 5
+U
+  U+726E
+F
+  ==
+  - [[F1.23 牮]] ::屋[斜]用牮::
+  ==
+W
+  ====
+  - [[Page~574 牮(3)]]
+    ==
+    - A prop to shore up a leaning house;
+    - a sluice or weir of earth or stone to lead water.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿰余刂 to 斜.
   ==
 $$
 
