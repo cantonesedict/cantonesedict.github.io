@@ -1232,6 +1232,7 @@ For all radicals, see [Index of characters by radical](./).
       - $泚cai5
       - $泚ci2
       - $洲zau1
+      - $洊zin3
       ==
       </nav>
   //

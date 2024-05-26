@@ -946,6 +946,7 @@ $$
 =={.modern}
 - $墊3
 - $戰3
+- $洊3
 - $煎3
 - $箭3
 - $荐3
@@ -1035,6 +1036,35 @@ C
   - Williams' 戰陳: Corrected _(4)ch(')an_ (can4) to _chan(6)_ (zan6).
   - Williams' 戰敗: Corrected _p(a/)i(3)_ (baai3) to _p(a/)i(6)_ (baai6).
   ==
+$$
+
+### 洊3 | _Ts(i/)n(3)_ [[zin3]]
+
+$$
+R
+  ⽔ + 6
+U
+  U+6D0A
+V
+  ==
+  - zin6 (expected from 在甸切)
+  ==
+F
+  ==
+  - [[F1.23 洊]] 重復也
+  ==
+W
+  ====
+  - [[Page~573 洊(3)]]
+    ==
+    - Water flowing on;
+    - a stream bursting forth again;
+    - repeated;
+    - _ts(i/)n(3) lik(9)_
+        [[zin3 lik6 洊歷]]
+        successively.
+    ==
+  ====
 $$
 
 ### 煎3 | _Ts(i/)n(3)_ [[zin3]]
