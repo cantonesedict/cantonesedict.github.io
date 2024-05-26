@@ -944,6 +944,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $墊3
 - $戰3
 - $煎3
 - $箭3
@@ -952,6 +953,30 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+###+ 墊3 | _Ts(i/)n(3)_ (zin3)
+
+$$
+R
+  ⼟ + 11
+U
+  U+588A
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Alternative form of 薦. **See $薦zin3 for the canonical entry.**
+  ==
+S
+  ==
+  - $墊dim3 (TODO)
+  - $墊din3 (TODO)
+  - $墊din6 (TODO)
+  - $墊dip6 (TODO)
+  ==
+$$
 
 ### 戰3 | _Ch(i/)n(3)_ [[zin3]]
 
