@@ -190,6 +190,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $謳au1
       - $謫zaak6
+      - $謭zin2
       ==
       </nav>
   //
