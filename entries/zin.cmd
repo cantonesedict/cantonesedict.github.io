@@ -1104,7 +1104,7 @@ W
         to shoot at privily;
     - _yat(7) ts(i/)n(3) (1)ch(i/) t(i/)(6)_
         [[jat1 zin3 zi1 dei6 一箭之地]]
-        a bowshot, or 120~ch(')ek(8) [[cek3 尺]].
+        a bowshot, or 120~_ch(')ek(8)_ [[cek3 尺]].
     ==
   ====
 C
