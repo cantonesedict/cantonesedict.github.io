@@ -509,7 +509,7 @@ C
   ==
 S
   ==
-  - $顫zin3 (TODO)
+  - $顫zin3
   ==
 $$
 
@@ -980,6 +980,7 @@ $$
 - $箭3
 - $荐3
 - $薦3
+- $顫3
 - $餞3
 ==
 </nav>
@@ -1410,6 +1411,39 @@ E
   However, note that 墊 _t(i/)n(3)_ (din3) meaning "padding"
   is not attested in the Middle Chinese rime books.
   --
+$$
+
+###+ 顫3 | _Ch(i/)n(3)_ (zin3)
+
+$$
+R
+  ⾴ + 13
+U
+  U+986B
+F
+  ==
+  - [[F1.20 顫 _(1)Ch(i/)n_ (zin1)]] 四肢奏掉曰顫
+  ==
+W
+  ====
+  - [[Page~17* (1)顫 _(1)Ch(i/)n_ (zin1); here corrected to _Ch(i/)n(3)_ (zin3)]]
+    ==
+    - The head awry;
+    - shivering with cold;
+    - the limbs cold and trembling;
+    - fearful, frightened;
+    - _sz'(3) (1)ch(i/) ch(i/)n[(3)] tung(6)_
+        [[si3 zi1 zin3 dung6 四肢顫動]]
+        trembling all over;
+    - _(4)hon ch(i/)n[(3)]_
+        [[hon4 zin3 寒顫]],
+        shivering.
+    ==
+  ====
+S
+  ==
+  - $顫zin1
+  ==
 $$
 
 ### 餞3 | _Ts(i/)n(3)_ [[zin3]]
