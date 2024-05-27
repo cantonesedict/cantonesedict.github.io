@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2024-05-26
+* %date-modified --> 2024-05-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1459,6 +1459,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $賤6
+- $踐6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -1525,4 +1526,27 @@ E
     1. Vile, base, despicable.
     ++
   ====
+$$
+
+### 踐6 | _Ts(i/)n(6)_ [[zin6]]
+
+$$
+R
+  ⾜ + 8
+U
+  U+8E10
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~574 踐(6)]]
+    --
+    [[Reading variation. **See $踐cin5 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $踐cin2 (TODO)
+  - $踐cin5 (TODO)
+  ==
 $$
