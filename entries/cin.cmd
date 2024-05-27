@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cin
-* %date-modified --> 2023-08-02
-* %copyright-prior-years -->
+* %date-modified --> 2024-05-27
+* %copyright-prior-years --> 2023--
 
 %%%
-
---{.modern}
-(From Page~17* (Ch(')(i/)n) and Page~574 (Ts(')(i/)n) of the original onwards.)
---
 
 #{.williams} Ch(')(i/)n. Ts(')(i/)n. [[cin]]
 
@@ -21,3 +17,27 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Ch(')(i/)n. [[Page~17*]]
+  - Ts(')(i/)n. [[Page~574]]
+  ==
+WP
+  ==
+  - Ch(')(i/)n <span class="modern">= [tɕʰiːn]</span>
+  - Ts(')(i/)n <span class="modern">= [tsʰiːn]</span>
+  ==
+MP
+  ==
+  - cin = [tsʰiːn] ((preferred)), [tɕʰiːn]
+  ==
+$$
