@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-05-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -298,9 +298,7 @@ W
     Used for the last [[$詫3]]. [[**See $詫caa3 for the canonical entry.**]]
     --
     --
-    [[For the other senses,
-    the expected reading is zaa3 from Middle Chinese 陟嫁切;
-    **see $吒zaa3 for the canonical entry**.]]
+    [[Otherwise, an idiosyncratic reading from Fan Wan. **See $吒zaa3 for the canonical entry.**]]
     --
   ====
 S

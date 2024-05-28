@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zan
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-05-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -114,9 +114,7 @@ W
   ====
   - [[Page~16|n59 (1)甄]]
     --
-    [[The expected reading is zan1 from Middle Chinese 職鄰切,
-    but the common reading is jan1;
-    **see $甄jan1 for the canonical entry**.]]
+    [[Reading variation (from Middle Chinese 職鄰切). **See $甄jan1 for the canonical entry.**]]
     --
   ====
 S

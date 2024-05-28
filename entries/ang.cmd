@@ -71,9 +71,7 @@ W
   ====
   - [[Page~4 (1)嚶]]
     --
-    [[The expected reading is ang1 from Middle Chinese 烏莖切,
-    but the common reading is jing1 (possibly after 《韻會》幺莖切);
-    **see $嚶jing1 for the canonical entry**.]]
+    [[Reading variation (from Middle Chinese 烏莖切). **See $嚶jing1 for the canonical entry.**]]
     --
   ====
 S

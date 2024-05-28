@@ -1736,9 +1736,7 @@ W
   ====
   - [[Page~563 (4)酋]]
     --
-    [[The expected reading is cau4 from Middle Chinese 自秋切,
-    but the common reading is jau4;
-    **see $酋jau4 for the canonical entry**.]]
+    [[Reading variation (from Middle Chinese 自秋切). **See $酋jau4 for the canonical entry.**]]
     --
   ====
 S

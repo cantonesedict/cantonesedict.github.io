@@ -820,8 +820,7 @@ W
   [[Not present]]
 C
   ==
-  - The expected reading is coeng3 from Middle Chinese 丑亮切,
-    but Fan Wan has zoeng3; **see $悵zoeng3 for the canonical entry**.
+  - Reading variation (from Middle Chinese 丑亮切). **See $悵zoeng3 for the canonical entry.**
   ==
 S
   ==

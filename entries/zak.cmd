@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zak
-* %date-modified --> 2024-05-14
+* %date-modified --> 2024-05-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -239,9 +239,7 @@ W
   ====
   - [[Page~12|n55 簀(7)]]
     --
-    [[The expected reading is zak1 from Middle Chinese 側革切,
-    but the common reading is zaak3;
-    **see $簀zaak3 for the canonical entry**.]]
+    [[Reading variation (from Middle Chinese 側革切). **See $簀zaak3 for the canonical entry.**]]
     --
   ====
 C

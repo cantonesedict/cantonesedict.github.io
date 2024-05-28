@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoek
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-05-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -776,9 +776,7 @@ W
   ====
   - [[Page~565 嚼(9)]]
     --
-    [[The expected reading is zoek6 from Middle Chinese 在爵切,
-    but the common reading is zoek3;
-    **see $嚼zoek3 for the canonical entry**.]]
+    [[Reading variation (from Middle Chinese 在爵切). **See $嚼zoek3 for the canonical entry.**]]
     --
   ====
 S

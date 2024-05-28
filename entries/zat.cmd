@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zat
-* %date-modified --> 2024-05-14
+* %date-modified --> 2024-05-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -218,9 +218,7 @@ W
   ====
   - [[Page~23|n66 郅(7)]]
     --
-    [[The expected reading is zat1 from Middle Chinese 之日切,
-    but the common reading is zat6;
-    **see $郅zat6 for the canonical entry**.]]
+    [[Reading variation (from Middle Chinese 之日切). **See $郅zat6 for the canonical entry.**]]
     --
   ====
 S

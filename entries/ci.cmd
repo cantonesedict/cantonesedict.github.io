@@ -2337,9 +2337,7 @@ W
   ====
   - [[Page~615 (4)疵]]
     --
-    [[The expected reading is ci4 from Middle Chinese 疾移切,
-    but the common reading is ci1;
-    **see $疵ci1 for the canonical entry**.]]
+    [[Reading variation (from Middle Chinese 疾移切). **See $疵ci1 for the canonical entry.**]]
     --
   ====
 S

@@ -213,8 +213,7 @@ W
   [[Not present]]
 C
   ==
-  - The expected reading is cim1 from Middle Chinese 處占切,
-    but Fan Wan has zim1; **see $幨zim1 for the canonical entry**.
+  - Reading variation (from Middle Chinese 處占切). **See $幨zim1 for the canonical entry.**
   ==
 S
   ==

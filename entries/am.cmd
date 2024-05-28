@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-05-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -154,8 +154,7 @@ W
   [[Not present]]
 C
   ==
-  - The expected reading is am1 from Middle Chinese 烏含切,
-    but Fan Wan has am2; **see $諳am2 for the canonical entry**.
+  - Reading variation (from Middle Chinese 烏含切). **See $諳am2 for the canonical entry.**
   ==
 S
   ==
@@ -607,8 +606,7 @@ W
   [[Not present]]
 C
   ==
-  - The expected reading is am3 from Middle Chinese 烏紺切,
-    but Fan Wan has am2; **see $闇am2 for the canonical entry**.
+  - Reading variation (from Middle Chinese 烏紺切). **See $闇am2 for the canonical entry.**
   ==
 S
   ==

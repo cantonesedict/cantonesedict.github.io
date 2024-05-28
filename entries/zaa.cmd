@@ -82,7 +82,7 @@ C
        - 哪吒 (naa4 zaa1): "Nezha."
        ==
     1. Reading variation of _ch(a/)(3)_ (zaa3).
-       **See $吒zaa3 for the canonical entry**.
+       **See $吒zaa3 for the canonical entry.**
     ++
   ====
 S
@@ -412,9 +412,7 @@ W
   ====
   - [[Page~8 (2)痄]]
     --
-    [[Williams follows the Middle Chinese rising tone,
-    but the common reading is zaa3;
-    **see $痄zaa3 for the canonical entry**.]]
+    [[Reading variation. **See $痄zaa3 for the canonical entry.**]]
     --
   ====
 $$
@@ -529,7 +527,7 @@ U
   U+5412
 A
   ==
-  - 咤 [[see $咤caa3]]
+  - 咤
   ==
 V
   ==
@@ -542,7 +540,7 @@ F
   ==
 W
   ====
-  - [[Page~9|n52 吒(3)咤(3) _Ch(')(a/)(3)_ (caa3); here normalised to _Ch(a/)(3)_ (zaa3)]]
+  - [[Page~9|n52 吒(3)咤(3) _Ch(')(a/)(3)_ (caa3); here corrected to _Ch(a/)(3)_ (zaa3)]]
     ==
     - To foam and sputter in anger;
     - to talk angrily;
