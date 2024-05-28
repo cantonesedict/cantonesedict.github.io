@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ai
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-05-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -202,18 +202,14 @@ R
   ⼫ + 21
 U
   U+5C6D
-V
-  ==
-  - hei3 (for literary senses)
-  ==
 F
   [[Not present]]
 W
   ====
   - [[Page~2 屭(3)]]
-    ==
-    - Strong, herculean, athletic.
-    ==
+    --
+    [[See $屭hei3 for literary senses.]]
+    --
     --
     A colloquial word;
     --
@@ -224,10 +220,6 @@ W
         trouble, resulting from affliction or poverty.
     ==
   ====
-C
-  ==
-  - The expected reading is hei3 from Middle Chinese 虛器切 and 許意切.
-  ==
 E
   ====
   - 【贔屭】 (bai3 ai3):

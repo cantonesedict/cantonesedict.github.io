@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> hei
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-05-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -59,22 +59,17 @@ R
   ⼫ + 21
 U
   U+5C6D
-V
-  ==
-  - ai3 (for vernacular senses)
-  ==
 F
   [[Not present]]
 W
-  [[Not present]]
-C
   ====
-  - The literary reading _h(i/)(3)_ (hei3) for 屭 is not present in Williams;
-    an entry is included here for completeness.
-    ++
-    1. Of great strength. (See 贔屭 under $贔bei6 (TODO) for literary usage.)
-    ++
-  - For colloquial usage, see $屭ai3.
+  - [[Page~2 屭(3) _Ai(3)_ (ai3); here corrected to _H(i/)(3)_ (hei3)]]
+    ==
+    - Strong, herculean, athletic.
+    ==
+    --
+    [[See $屭ai3 for vernacular senses.]]
+    --
   ====
 S
   ==
