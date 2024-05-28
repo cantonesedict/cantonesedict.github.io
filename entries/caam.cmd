@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-05-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -164,7 +164,7 @@ U
   U+6519
 V
   ==
-  - caam4 (uncommon)
+  - caam4 (expected from 士咸切 for "stab" sense)
   ==
 F
   [[Not present]]
@@ -187,10 +187,10 @@ W
   ====
 C
   ==
-  - The uncommon reading caam4 is that given by Williams.
-    Whilst caam4 is not unattested in Middle Chinese (being expected from 士咸切),
-    the canonical reading is caam1, expected from 楚銜切
-    (which is the primary reading recorded in Kangxi).
+  - Whilst _(4)ch(')(a/)m_ (caam4) is not unattested in Middle Chinese,
+    it is only explained "stab" (刺也).
+    Kangxi records the canonical reading 楚銜切 _(1)ch(')(a/)m_ (caam1),
+    explained both "stab" (刺也) and "arm-support" (一曰扶也).
     It is possible that Williams has mistakenly parsed 楚銜切 as 陽平 rather than 陰平.
   ==
 S
@@ -692,7 +692,7 @@ W
   ====
   - [[Page~16|n59 (4)攙]]
     --
-    [[Reading variation. **See $攙caam1 for the canonical entry.**]]
+    [[Reading variation (for literary "stab" sense). **See $攙caam1 for the canonical entry.**]]
     --
   ====
 S
@@ -928,7 +928,7 @@ U
   U+68D6
 V
   ==
-  - caan5 (uncommon)
+  - caan5 (Williams)
   ==
 F
   [[Not present]]

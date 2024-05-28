@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2024-05-17
+* %date-modified --> 2024-05-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -500,7 +500,7 @@ U
   U+9AB4
 V
   ==
-  - ci3 (uncommon)
+  - ci3 (Fan Wan)
   - ci4 (expected from 疾移切)
   - zi6 (expected from 疾智切)
   ==
@@ -954,7 +954,7 @@ A
 V
   ==
   - ci5 (expected from 池爾切 rising)
-  - to1 (per 詩經)
+  - to1 (per Kangxi quoting 詩經)
   ==
 F
   ==
@@ -1196,7 +1196,7 @@ U
   U+892B
 V
   ==
-  - ci1 (common)
+  - ci1 (Fan Wan, common)
   ==
 F
   ==
@@ -1217,10 +1217,6 @@ W
         plush, felt.
     ==
   ====
-C
-  ==
-  - The common reading ci1 is that given in Fan Wan.
-  ==
 S
   ==
   - $褫ci1
@@ -3048,7 +3044,7 @@ U
   U+67FF
 V
   ==
-  - ci4 (uncommon)
+  - ci4 (Fan Wan)
   - ci5-2 (vernacular rising-tone noun)
   ==
 F
@@ -3075,10 +3071,6 @@ W
         the yellow persimmon.
     ==
   ====
-C
-  ==
-  - The uncommon reading ci4 is that given in Fan Wan.
-  ==
 S
   ==
   - $柿ci2

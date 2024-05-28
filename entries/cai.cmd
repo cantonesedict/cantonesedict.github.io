@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-05-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -485,7 +485,7 @@ U
   U+61E0
 V
   ==
-  - zai3 (uncommon)
+  - zai3 (Fan Wan)
   - zai6 (alternative from 在詣切)
   ==
 F
@@ -504,10 +504,6 @@ W
         when heaven is angry.
     ==
   ====
-C
-  ==
-  - The uncommon reading zai3 is that given in Fan Wan.
-  ==
 S
   ==
   - $懠zai3

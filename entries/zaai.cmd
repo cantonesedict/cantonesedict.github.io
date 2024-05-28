@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-05-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -290,7 +290,7 @@ U
   U+7635
 V
   ==
-  - caai3 (uncommon)
+  - caai3 (Fan Wan)
   ==
 F
   ==
@@ -309,10 +309,6 @@ W
         to bring trouble on one's self.
     ==
   ====
-C
-  ==
-  - The uncommon reading caai3 is that given in Fan Wan.
-  ==
 S
   ==
   - $瘵caai3

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-05-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -230,7 +230,7 @@ F
   ==
 W
   ====
-  - [[Page~552 (1)祲 _(1)Ts(')am_ (cam1); here normalised to _(1)Tsam_ (zam1)]]
+  - [[Page~552 (1)祲 _(1)Ts(')am_ (cam1); here corrected to _(1)Tsam_ (zam1)]]
     ==
     - To influence, to act upon;
     - a malign halo;
@@ -240,8 +240,8 @@ W
 C
   ==
   - Fan Wan entry: Corrected headword 䘲 to 祲.
-  - The reading cam1 is that given in Fan Wan.
-    Although it does appear in Kangxi (七林反),
+  - Although Fan Wan's reading _(1)ts(')am_ (cam1)
+    does appear in Kangxi (七林反),
     its scope is limited to the place name 祲祥.
   ==
 S
@@ -683,7 +683,7 @@ U
   U+8B56
 V
   ==
-  - cam3
+  - cam3 (Fan Wan)
   ==
 F
   ==
@@ -706,7 +706,6 @@ W
 C
   ==
   - Fan Wan entry: Corrected 殷 to 毀.
-  - The reading cam3 is that given in Fan Wan.
   ==
 S
   ==

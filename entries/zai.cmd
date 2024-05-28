@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-05-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1086,12 +1086,12 @@ U
   U+7A67
 V
   ==
-  - zai1 (uncommon)
+  - zai1 (Fan Wan)
   - zai3 (alternative from 子計切)
   ==
 F
   ==
-  - [[F1.28 穧]] 刈禾把數也束也
+  - [[F1.28 穧 _(1)Tsai_ (zai1)]] 刈禾把數也束也
   ==
 W
   ====
@@ -1102,10 +1102,6 @@ W
     - to put it together to bind into sheaves.
     ==
   ====
-C
-  ==
-  - The uncommon reading zai1 is that given in Fan Wan.
-  ==
 S
   ==
   - $穧zai1

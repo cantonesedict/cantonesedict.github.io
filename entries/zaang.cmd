@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaang
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-05-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -188,7 +188,7 @@ A
   ==
 V
   ==
-  - zang1 (uncommon)
+  - zang1 (Fan Wan for 踭)
   ==
 F
   ==
@@ -218,10 +218,6 @@ W
         the elbow.
     ==
   ====
-C
-  ==
-  - The uncommon reading zang1 is that given in Fan Wan for the form 踭.
-  ==
 E
   ====
   - 【㬹】 (zaang1):
@@ -251,7 +247,7 @@ H
   depending on the font.
 V
   ==
-  - zang1 (uncommon)
+  - zang1 (Fan Wan)
   ==
 F
   ==
@@ -262,7 +258,6 @@ W
 C
   ==
   - Alternative form of 㬹. **See $㬹zaang1 for the canonical entry.**
-  - The uncommon reading zang1 is that given in Fan Wan.
   ==
 $$
 

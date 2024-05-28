@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-05-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -437,7 +437,7 @@ U
   U+7AD9
 V
   ==
-  - zaan6 (uncommon)
+  - zaan6 (Fan Wan)
   ==
 F
   ==
@@ -474,7 +474,7 @@ W
   ====
 C
   ==
-  - The uncommon reading zaan6 is that given as canonical in Fan Wan.
+  - The reading zaan6 is that given as canonical in Fan Wan.
   - Fan Wan entry: Note that Fan Wan considers 賺 to be read _ch(a/)m(6)_ (zaam6).
   - Williams' 驛站: Stage meaning a relay station for horses.
   ==

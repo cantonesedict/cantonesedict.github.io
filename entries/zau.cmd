@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-05-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -332,7 +332,7 @@ A
   ==
 V
   ==
-  - cau1 (probably errant)
+  - cau1 (Fan Wan)
   ==
 F
   [[Not present]]
@@ -358,7 +358,7 @@ W
   ====
 C
   ==
-  - The reading cau1 is probably as an alternative spelling of 抽.
+  - The reading cau1 is probably an alternative spelling of 抽.
   - Modern dictionaries distinguish 揫 for the "bind" sense,
     and 揪 for the "grasp/clutch" sense.
   - Kangxi considers 揪 to be the same as 揫,
@@ -467,7 +467,7 @@ U
   U+6E6B
 V
   ==
-  - cau1 (common)
+  - cau1 (Fan Wan)
   ==
 F
   ==
@@ -1450,7 +1450,7 @@ U
   U+7503
 V
   ==
-  - cau1 (probably errant)
+  - cau1 (Fan Wan)
   ==
 F
   ==

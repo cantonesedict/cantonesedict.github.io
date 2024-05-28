@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-05-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -441,7 +441,7 @@ A
   ==
 V
   ==
-  - cau2 (uncommon)
+  - cau2 (possibly from Mandarin-matching)
   ==
 F
   [[Not present]]

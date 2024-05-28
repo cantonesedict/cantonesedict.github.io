@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cek
-* %date-modified --> 2024-05-15
+* %date-modified --> 2024-05-28
 * %copyright-prior-years -->
 
 %%%
@@ -166,7 +166,7 @@ A
   ==
 V
   ==
-  - cik3 (uncommon)
+  - cik3 (alternative)
   ==
 F
   [[Not present]]

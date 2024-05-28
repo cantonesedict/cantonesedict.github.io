@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2024-05-15
+* %date-modified --> 2024-05-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -63,7 +63,7 @@ U
   U+5513
 V
   ==
-  - ce5
+  - ce5 (lower-pitch alternative)
   ==
 F
   [[Not present]]
@@ -134,7 +134,7 @@ A
   ==
 V
   ==
-  - ce2 (uncommon)
+  - ce2 (possibly from Mandarin-matching)
   ==
 F
   [[Not present]]

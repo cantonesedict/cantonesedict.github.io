@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coek
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-05-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -65,7 +65,7 @@ U
   U+502C
 V
   ==
-  - zoek3 (uncommon)
+  - zoek3 (expected from initial of 竹角切)
   ==
 F
   ==
@@ -83,11 +83,6 @@ W
         to make your crime known.
     ==
   ====
-C
-  ==
-  - The uncommon reading zoek3 is perhaps following the unaspirated initial
-    in Middle Chinese 竹角切 _chok(8)_ (zok3).
-  ==
 $$
 
 ### 卓3 | _Ch(')(e/)uk(8)_ [[coek3]]
@@ -99,7 +94,7 @@ U
   U+5353
 V
   ==
-  - zoek3 (uncommon)
+  - zoek3 (expected from initial of 竹角切)
   ==
 F
   ==
@@ -131,11 +126,6 @@ W
         meritorious, said of officers at the quinqennial trial.
     ==
   ====
-C
-  ==
-  - The uncommon reading zoek3 is perhaps following the unaspirated initial
-    in Middle Chinese 竹角切 _chok(8)_ (zok3).
-  ==
 $$
 
 ### 戳3 | _Ch(')(e/)uk(8)_ [[coek3]]
@@ -173,7 +163,7 @@ A
   ==
 V
   ==
-  - zoek3 (uncommon)
+  - zoek3 (expected from initial of 竹角切)
   ==
 F
   [[Not present]]
@@ -192,11 +182,6 @@ W
         tables and chairs.
     ==
   ====
-C
-  ==
-  - The uncommon reading zoek3 is perhaps following the unaspirated initial
-    in Middle Chinese 竹角切 _chok(8)_ (zok3).
-  ==
 S
   ==
   - $桌zoek3

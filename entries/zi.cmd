@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-05-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -856,7 +856,7 @@ U
   U+80DD
 V
   ==
-  - ci1 (uncommon)
+  - ci1 (Fan Wan)
   ==
 F
   ==
@@ -875,8 +875,7 @@ W
   ====
 C
   ==
-  - The uncommon reading ci1 is that given in Fan Wan.
-    Whilst Kangxi quotes 《集韻》稱脂切,
+  - Whilst Kangxi quotes 《集韻》稱脂切 _(1)ch(')(i/)_ (ci1),
     it is explained 鳥胃 "bird's stomach" (same as 胵).
   - Williams' 胼胝: Corrected _(1)p(')(i/)n_ (pin1) to _(4)p(')(i/)n_ (pin4).
   ==
@@ -2304,7 +2303,6 @@ W
   ====
 C
   ==
-  - The reading zi2 is that given in Fan Wan.
   - Kangxi quotes 《玉篇》古文濟字, so strictly 泲 should be read as 濟.
     Moreover, rising-tone zai2 is more correct than departing-tone zai3,
     because the reading of 濟 explained 水名 is the rising-tone one,
@@ -2939,7 +2937,7 @@ U
   U+6063
 V
   ==
-  - ci3 (common)
+  - ci3 (Fan Wan, common)
   ==
 F
   ==
@@ -3082,7 +3080,7 @@ U
   U+6F2C
 V
   ==
-  - zi1 (uncommon)
+  - zi1 (Williams)
   - zi6 (expected from 疾智切)
   ==
 F
@@ -3103,10 +3101,6 @@ W
     - [[see $漬zik1 for "stain" senses]].
     ==
   ====
-C
-  ==
-  - The uncommon reading zi1 is that given by Williams.
-  ==
 S
   ==
   - $漬zi1
@@ -3266,7 +3260,7 @@ U
   U+80FE
 V
   ==
-  - zi1 (uncommon)
+  - zi1 (Fan Wan)
   ==
 F
   ==
@@ -3280,10 +3274,6 @@ W
     - slices, steaks, bits of meat.
     ==
   ====
-C
-  ==
-  - The uncommon reading zi1 is that given in Fan Wan.
-  ==
 S
   ==
   - $胾zi1

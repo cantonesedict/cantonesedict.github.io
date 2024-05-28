@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2024-05-12
+* %date-modified --> 2024-05-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -65,7 +65,7 @@ U
   U+5616
 V
   ==
-  - zik1 (common)
+  - zik1 (Fan Wan, common)
   ==
 F
   ==
@@ -91,7 +91,6 @@ C
     but this is only true for the "abstruse" senses,
     which he has already recorded under _chak(7)_ (zak1)^,
     here normalised to _ch(a/)k(8)_ (zaak3).
-  - The uncommon reading zik1 is that given in Fan Wan.
   ==
 S
   ==

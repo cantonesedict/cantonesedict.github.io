@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zek
-* %date-modified --> 2024-05-14
+* %date-modified --> 2024-05-28
 * %copyright-prior-years -->
 
 %%%
@@ -161,7 +161,7 @@ U
   U+7099
 V
   ==
-  - zik3 (uncommon)
+  - zik3 (alternative)
   ==
 F
   ==
@@ -249,7 +249,7 @@ U
   U+810A
 V
   ==
-  - zik3 (uncommon)
+  - zik3 (alternative)
   ==
 F
   ==
@@ -306,7 +306,7 @@ A
   ==
 V
   ==
-  - zik3 (uncommon)
+  - zik3 (alternative)
   ==
 F
   ==
@@ -379,7 +379,7 @@ A
   ==
 V
   ==
-  - zik3 (uncommon)
+  - zik3 (alternative)
   ==
 F
   ==
@@ -418,7 +418,7 @@ A
   ==
 V
   ==
-  - zik3 (uncommon)
+  - zik3 (alternative)
   ==
 F
   ==

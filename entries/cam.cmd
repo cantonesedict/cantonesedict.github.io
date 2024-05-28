@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2024-05-21
+* %date-modified --> 2024-05-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -130,7 +130,7 @@ U
   U+6D78
 V
   ==
-  - zam3 (common)
+  - zam3 (Williams, common)
   ==
 F
   [[Not present]]
@@ -359,14 +359,13 @@ C
   ====
   - Williams misprints 魫 as 𩵫 (⿰冘魚).
   - Williams' placement under _(2)Ch(')am_ (cam2) is idiosyncratic
-    because it does not follow any of the following:
+    (and probably erroneous) because it does not follow any of the following:
     ==
     - zam2 from Fan Wan (which places it between 枕 and 怎)
-    - cam4 from 《集韻》又持林切
+    - cam4 from 《集韻》又持林切 quoted by Kangxi.
     - sam2 from 《廣韻》式任切 rising.
     ==
-    Alternatively, it is possible that
-    Williams has simply misprinted (4)魫 as (2)魫,
+    It is possible that Williams has simply misprinted (4)魫 as (2)魫,
     in which case _(2)ch(')am_ (cam4) is intended.
   ====
 S
@@ -781,9 +780,9 @@ U
   U+9B6B
 V
   ==
-  - cam2 (probably errant)
+  - cam2 (Williams, probably erroneous)
   - sam2 (expected from 式任切 rising)
-  - zam2 (uncommon)
+  - zam2 (Fan Wan)
   ==
 F
   ==
@@ -800,9 +799,7 @@ W
 C
   ====
   - Williams misprints 魫 as 𩵫 (⿰冘魚).
-  - The probably errant reading cam2 is that given by Williams;
-    see $魫cam2 for commentary.
-  - The uncommon reading zam2 is that given in Fan Wan.
+  - See $魫cam2 for commentary on Williams' idiosyncratic reading _(2)ch(')am_ (cam2).
   - The reading cam4 is not unattested; Kangxi quotes 《集韻》又持林切音沉.
   ====
 S

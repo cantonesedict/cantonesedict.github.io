@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ze
-* %date-modified --> 2024-05-19
+* %date-modified --> 2024-05-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -432,7 +432,7 @@ U
   U+9019
 V
   ==
-  - ze3 (uncommon)
+  - ze3 (Fan Wan)
   - ze5 (common)
   ==
 F
@@ -737,10 +737,6 @@ R
   ⾡ + 7
 U
   U+9019
-V
-  ==
-  - ze2 (common)
-  ==
 F
   ==
   - [[F2.84 這]] 是也此也這裏言此處也這事言此事也
