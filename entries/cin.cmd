@@ -51,6 +51,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $千1
+- $芊1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -129,6 +130,30 @@ E
        - 咪出老千 (mai5 ceot1 lou5 cin1): "Don't [you] do [any] cheats."
        ==
     ++
+  ====
+$$
+
+### 芊1 | _(1)Ts(')(i/)n_ [[cin1]]
+
+$$
+R
+  ⾋ + 3
+U
+  U+828A
+F
+  ==
+  - [[F1.19 芊]] 草盛貌
+  ==
+W
+  ====
+  - [[Page~574 (1)芊]]
+    ==
+    - Exuberant foliage, flourishing vegetation;
+    - green, like jade;
+    - _(1)ts(')(i/)n (1)ts(')(i/)n_
+        [[cin1 cin1 芊芊]],
+        luxuriant.
+    ==
   ====
 $$
 
