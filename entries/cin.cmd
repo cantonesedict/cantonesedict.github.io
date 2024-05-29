@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $廛4
 - $纏4
+- $躔4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -141,5 +142,42 @@ C
   - Williams' 纏綿: More to be entangled or caught up in.
   - Williams' 癡纏: Corrected _(1)ch(')i_ to _(1)ch(')(i/)_.
     Also to be madly in love with.
+  ==
+$$
+
+### 躔4 | _(4)Ch(')(i/)n_ [[cin4]]
+
+$$
+R
+  ⾜ + 15
+U
+  U+8E94
+F
+  ==
+  - [[F1.21 ::[躔]::]] ::踐踏也又星辰[躔]度::
+  ==
+W
+  ====
+  - [[Page~18* (4)躔]]
+    ==
+    - To tread;
+    - to follow in order;
+    - to turn in an orbit;
+    - a trodden path, a rut, a footstep;
+    - a course, an orbit;
+    - _tsik(7) (4)ch(')(i/)n_
+        [[zik1 cin4 跡躔]],
+        a footmark, a vestige;
+    - _(4)ch(')(i/)n t(o\)(6)_
+        [[cin4 dou6 躔度]]
+        an orbit;
+    - _(4)ch(')(i/)n t(a/)p(9)_
+        [[cin4 daap6 躔踏]]
+        to tread on.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised headword (with 厂 and 黑-like interior) to 躔.
   ==
 $$
