@@ -52,6 +52,7 @@ $$
 =={.modern}
 - $千1
 - $芊1
+- $阡1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -153,6 +154,27 @@ W
     - _(1)ts(')(i/)n (1)ts(')(i/)n_
         [[cin1 cin1 芊芊]],
         luxuriant.
+    ==
+  ====
+$$
+
+### 阡1 | _(1)Ts(')(i/)n_ [[cin1]]
+
+$$
+R
+  ⾩ + 3
+U
+  U+9621
+F
+  ==
+  - [[F1.19 阡]] 田基也南北曰阡東西曰陌
+  ==
+W
+  ====
+  - [[Page~574 (1)阡]]
+    ==
+    - A road going north and south;
+    - a cross-way through a field, a path to a grave.
     ==
   ====
 $$
