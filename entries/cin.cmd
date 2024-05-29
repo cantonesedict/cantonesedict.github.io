@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [cin1](#1)
 - [cin4](#4)
 ==
 </nav>
@@ -41,6 +42,94 @@ MP
   ==
   - cin = [tsʰiːn] ((preferred)), [tɕʰiːn]
   ==
+$$
+
+
+##{#1 .williams} (1)Ts(')(i/)n [[cin1 陰平]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $千1
+==
+</nav>
+<## /tone-1-characters ##>
+
+### 千1 | _(1)Ts(')(i/)n_ [[cin1]]
+
+$$
+R
+  ⼗ + 1
+U
+  U+5343
+A
+  ==
+  -{.modern} 仟
+  ==
+F
+  ==
+  - [[F1.19 千]] 十百曰千
+  ==
+W
+  ====
+  - [[Page~574 (1)千]]
+    ==
+    - A thousand;
+    - many, an indefinite number;
+    - _(1)ts(')(i/)n m(a/)n(6) i(u/)(3) ts(o\)(6)_
+        [[cin1 maan6 jiu3 zou6 千萬要做]]
+        it must by all means be done;
+    - _(1)ts(')(i/)n (4)k(')(i/) (1)f(a/)n (4)lai_
+        [[cin1 kei4 faan1 lai4 千祈返嚟]],
+        I earnestly beg you to return;
+    - _(1)ts(')(i/)n (1)kam_
+        [[cin1 gam1 千金]],
+        your daughter;
+    - _(1)ts(')(i/)n (5)l(i/) (5)m(a/)_
+        [[cin1 lei5 maa5 千里馬]],
+        a racehorse;
+        a courier;
+    - _(1)ts(')(i/)n (2)tsung_
+        [[cin1 zung2 千總]],
+        a lieutenant;
+    - _(5)l(o\) (1)ts(')(i/)n_
+        [[lou5 cin1 老千]],
+        an old blackleg;
+        name of a card;
+    - _(2)t(a/) (1)ts(')(i/)n_
+        [[daa2 cin1 打千]],
+        to bend one knee;
+    - _(1)ts(')(i/)n (1)kan_
+        [[cin1 gan1 千斤]],
+        a wrench to extract nails;
+    - _(1)ts(')(i/)n sui(3)_
+        [[cin1 seoi3 千歲]]
+        your Highness, said to princes;
+    - _(1)ts(')(i/)n (1)kam kwai(3) (2)t(')ai_
+        [[cin1 gam1 gwai3 tai2 千金貴體]],
+        your honorable self, said to any one;
+    - _(1)ts(')(i/)n (2)k(u/) (4)k(')(i/) sz'(6)_
+        [[cin1 gu2 kei4 si6 千古奇事]]
+        exceedingly strange;
+    - _(1)ts(')(i/)n yat(7) pat(7) (2)koi_
+        [[cin1 jat1 bat1 goi2 千一不改]],
+        a thousand to one he'll not reform.
+    ==
+  ====
+E
+  ====
+  - 【老千】 (lou5 cin1):
+    ++
+    1. A swindler, conman, or cheat.
+       ==
+       - 正一老千 (zing3 jat1 lou5 cin1): "[He's a] right swindler."
+       ==
+    1. An act of cheating, especially in gambling games.
+       ==
+       - 咪出老千 (mai5 ceot1 lou5 cin1): "Don't [you] do [any] cheats."
+       ==
+    ++
+  ====
 $$
 
 
