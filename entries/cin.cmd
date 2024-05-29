@@ -64,7 +64,7 @@ U
   U+5343
 A
   ==
-  -{.modern} 仟
+  -{.modern} 仟 (anti-alteration)
   ==
 F
   ==
