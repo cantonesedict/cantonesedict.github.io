@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cin
-* %date-modified --> 2024-05-29
+* %date-modified --> 2024-05-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -52,6 +52,7 @@ $$
 =={.modern}
 - $千1
 - $芊1
+- $遷1
 - $阡1
 ==
 </nav>
@@ -156,6 +157,53 @@ W
         luxuriant.
     ==
   ====
+$$
+
+### 遷1 | _(1)Ts(')(i/)n_ [[cin1]]
+
+$$
+R
+  ⾡ + 12
+U
+  U+9077
+A
+  ==
+  - $迁1
+  ==
+F
+  ==
+  - [[F1.19 遷]] ::移[徙]::
+  - [[F1.19 迁]] 同上
+  ==
+W
+  ====
+  - [[Page~574 (1)遷(1)迁]]
+    ==
+    - To move, to remove, to place elsewhere;
+    - to ascend;
+    - to be promoted;
+    - to change, to transpose, to improve;
+    - to banish, to deport, to drive off;
+    - _(1)p(u/)n (1)ts(')(i/)n_
+        [[bun1 cin1 搬遷]],
+        to move, as one's residence;
+    - _(1)ts(')(i/)n (1)k(u")_
+        [[cin1 geoi1 遷居]],
+        to change one's lodgings;
+    - _[(a/)t](8) (1)ts(')(i/)n_
+        [[aat3 cin1 押遷]],
+        to eject, as a tenant;
+    - _(2)tso (1)ts(')(i/)n_
+        [[zo2 cin1]],
+        to degrade to a lower place or rank.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 徒 to 徙.
+  - Williams' 押遷: Changed Middle Chinese _(a/)p(8)_ (aap3)
+    to common reading _(a/)t(8)_ (aat3).
+  ==
 $$
 
 ### 阡1 | _(1)Ts(')(i/)n_ [[cin1]]
