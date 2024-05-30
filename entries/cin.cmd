@@ -323,12 +323,107 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $前4
 - $廛4
 - $纏4
 - $躔4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 前4 | _(4)Ts(')(i/)n_ [[cin4]]
+
+$$
+R
+  ⼑ + 7
+U
+  U+524D
+F
+  ==
+  - [[F1.21 前]] 前後
+  ==
+W
+  ====
+  - [[Page~575 (4)前]]
+    ==
+    - Before, in front of, in presence of;
+    - in advance;
+    - previously;
+    - formerly, anciently;
+    - the former;
+    - to advance, to lead forward;
+    - _(4)ts(')(i/)n hau(6)_
+        [[cin4 hau6 前後]]
+        before, after;
+    - _(4)ts(')(i/)n yat(9)_
+        [[cin4 jat6 前日]]
+        day before yesterday;
+    - _t(a/)i(6) (4)ts(')(i/)n yat(9)_
+        [[daai6 cin4 jat6 大前日]]
+        three days ago;
+    - _(4)ts(')(i/)n (4)t(')au_
+        [[cin4 tau4 前頭]],
+        in front;
+    - _(4)ts(')(i/)n (u")t(9)_
+        [[cin4 jyut6 前月]]
+        last month;
+    - _(4)ts(')(i/)n (4)yan (2)t(a/) p(')(a/)(3) hau(6) (4)yan_
+        [[cin4 jan4 daa2 paa3 hau6 jan4 前人打怕後人]],
+        I am afraid, I have been once deceived;
+    - _(5)ng(a/)n (4)ts(')(i/)n_
+        [[ngaan5 cin4 眼前]],
+        before one's eyes;
+    - _(4)ts(')(i/)n (4)loi_
+        [[cin4 loi4 前來]],
+        come here, advance;
+        about coming;
+    - _tsoi(6) (4)ts(')(i/)n_
+        [[zoi6 cin4 在前]],
+        before, then;
+    - _(5)sh(e/)ung (4)ts(')(i/)n h(u")(3)_
+        [[soeng5 cin4 heoi3 上前去]]
+        go ahead, go on;
+    - _(2)tsau tung(6) pat(7) (4)ts(')(i/)n_
+        [[zau2 dung6 bat1 cin4 走動不前]],
+        I can't well get on with it;
+        it's a difficult job to manage;
+    - _(4)ts(')(i/)n (4)ch(')ing (4)n(a/)n li(u/)(6)_
+        [[cin4 cing4 naan4 liu6 前程難料]]
+        it's not easy to guess how it will turn out;
+    - _(4)ts(')(i/)n (1)king_
+        [[cin4 king1 前經]],
+        already, before done.
+    ==
+  ====
+C
+  ==
+  - In the vernacular register of Cantonese
+    there is a distinction between 以前 and 之前.
+    See below.
+  ==
+E
+  ====
+  - 【以前】 (ji5 cin4):
+    ++
+    1. In the relatively distant past.
+       ==
+       - 以前去過 (ji5 cin4 heoi3 gwo3): "[I've] been [there] in [the] past."
+       ==
+    ++
+  - 【之前】 (zi1 cin4):
+    ++
+    1. In the relatively near past.
+       ==
+       - 之前去過 (zi1 cin4 heoi3 gwo3): "[I've] been [there] before."
+       ==
+    1. Before (when used as a suffix to an event).
+       ==
+       - 瞓覺之前 (fan3 gaau3 zi1 cin4): "Before sleeping."
+       - 上機之前 (soeng5 gei1 zi1 cin4): "Before boarding [the] flight."
+       ==
+    ++
+  ====
+$$
 
 ### 廛4 | _(4)Ch(')(i/)n_ [[cin4]]
 
