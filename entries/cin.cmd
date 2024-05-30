@@ -56,6 +56,7 @@ $$
 - $迁1
 - $遷1
 - $阡1
+- $韆1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -283,6 +284,37 @@ W
     - a cross-way through a field, a path to a grave.
     ==
   ====
+$$
+
+### 韆1 | _(1)Ts(')(i/)n_ [[cin1]]
+
+$$
+R
+  ⾰ + 15
+U
+  U+97C6
+H
+  May appear as either ⿰革⿺辶⿳覀大㔾 (+15 assumed here) or ⿰革⿺辶⿳覀大巳 (+16),
+  depending on the font.
+F
+  ==
+  - [[F1.19 韆]] 鞦韆
+  ==
+W
+  ====
+  - [[Page~575 (1)韆]]
+    ==
+    - To swing to and fro, to play upon the whirligig;
+    - _(1)ts(')au (1)ts(')(i/)n_
+        [[cau1 cin1]],
+        a swing.
+    ==
+  ====
+C
+  ==
+  - In vernacular Cantonese, 鞦韆 is switched to 韆鞦, "thousand autumns".
+    See [韆鞦](cau#cantonese-韆鞦).
+  ==
 $$
 
 
