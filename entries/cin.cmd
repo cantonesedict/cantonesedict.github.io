@@ -52,6 +52,7 @@ $$
 =={.modern}
 - $千1
 - $芊1
+- $躚1
 - $迁1
 - $遷1
 - $阡1
@@ -158,6 +159,33 @@ W
         luxuriant.
     ==
   ====
+$$
+
+### 躚1 | _(1)Ts(')(i/)n_ [[cin1]]
+
+$$
+R
+  ⾜ + 15
+U
+  U+8E9A
+H
+  May appear as either ⿰𧾷⿺辶⿳覀大㔾 (+15 assumed here) or ⿰𧾷⿺辶⿳覀大巳 (+16),
+  depending on the font.
+F
+  ==
+  - [[F1.19 躚]] 蹁躚
+  ==
+W
+  ====
+  - [[Page~574 (1)躚]]
+    --
+    [[Idiosyncratic reading from Fan Wan. **See $躚sin1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $躚sin1 (TODO)
+  ==
 $$
 
 ### 迁1 | _(1)Ts(')(i/)n_ [[cin1]]

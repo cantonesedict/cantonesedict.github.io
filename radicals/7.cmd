@@ -628,6 +628,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $躚cin1
       - $躔cin4
       - $躑zaak6
       - $躓zi3
@@ -830,6 +831,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $遷cin1
       - $遮ze1
       ==
       </nav>
@@ -840,7 +842,6 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $遲ci4
       - $遲zi6
-      - $遷cin1
       ==
       </nav>
   //
