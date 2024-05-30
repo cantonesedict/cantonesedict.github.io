@@ -190,9 +190,12 @@ $$
 
 $$
 R
-  ⾡ + 12
+  ⾡ + 11
 U
   U+9077
+H
+  May appear as either ⿺辶⿳覀大㔾 (+11 assumed here) or ⿺辶⿳覀大巳 (+12),
+  depending on the font.
 A
   ==
   - $迁1
