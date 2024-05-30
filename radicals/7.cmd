@@ -784,6 +784,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Character entry links
 |:
   //
+    , 3
+    ,
+      <nav class="sideways">
+      ==
+      - $迁cin1
+      ==
+      </nav>
+  //
     , 6
     ,
       <nav class="sideways">

@@ -52,6 +52,7 @@ $$
 =={.modern}
 - $千1
 - $芊1
+- $迁1
 - $遷1
 - $阡1
 ==
@@ -159,6 +160,32 @@ W
   ====
 $$
 
+### 迁1 | _(1)Ts(')(i/)n_ [[cin1]]
+
+$$
+R
+  ⾡ + 3
+U
+  U+8FC1
+F
+  ==
+  - [[F1.19 遷]] ::移[徙]::
+  - [[F1.19 迁]] 同上
+  ==
+W
+  ====
+  - [[Page~574 (1)遷(1)迁]]
+    --
+    [[Alternative form of 遷. **See $遷cin1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Note that 《廣韻》 considers this a different word to 遷,
+    explained 伺候也進也又迁葬又標記也.
+  ==
+$$
+
 ### 遷1 | _(1)Ts(')(i/)n_ [[cin1]]
 
 $$
@@ -194,7 +221,7 @@ W
         [[aat3 cin1 押遷]],
         to eject, as a tenant;
     - _(2)tso (1)ts(')(i/)n_
-        [[zo2 cin1]],
+        [[zo2 cin1 左遷]],
         to degrade to a lower place or rank.
     ==
   ====
