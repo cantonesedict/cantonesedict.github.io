@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cin
-* %date-modified --> 2024-05-30
+* %date-modified --> 2024-06-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -327,6 +327,7 @@ $$
 - $廛4
 - $纏4
 - $躔4
+- $錢4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -549,4 +550,100 @@ C
   ==
   - Fan Wan entry: Normalised headword (with 厂 and 黑-like interior) to 躔.
   ==
+$$
+
+### 錢4 | _(4)Ts(')(i/)n_ [[cin4]]
+
+$$
+R
+  ⾦ + 8
+U
+  U+9322
+V
+  ==
+  - cin4-2 (vernacular "money" sense)
+  ==
+F
+  ==
+  - [[F1.21 錢]] 十分爲錢
+  - [[F1.21 ⿸⿻丿丨丶]] 同上
+  ==
+W
+  ====
+  - [[Page~575 (4)錢(4)⿸⿻勹丿丶]]
+    ==
+    - Copper coin, cash, coppers;
+    - coin, a piece of money;
+    - cash, wealth, money, property;
+    - a tenth of a tael, or mace, which the cash once weighed;
+    - _(4)t(')ung (4)ts(')(i/)n_
+        [[tung4 cin4 銅錢]],
+        copper cash;
+    - _(1)kam (4)ts(')(i/)n_
+        [[gam1 cin4 金錢]],
+        gold coins;
+    - _(5)yau (4)ts(')(i/)n_
+        [[jau5 cin4-2 有錢]], rich, wealthy;
+    - _(4)ts(')(i/)n kuk(9)_
+        [[cin4 guk6-2 錢局]]
+        a mint;
+    - _(2)ch(a/)u (4)ts(')(i/)n_
+        [[zaau2 cin4-2 找錢]],
+        to exchange into cash;
+    - _(2)k(i/) (4)ts(')(i/)n [(5)ch(')ung]_
+        [[gei2 cin4 cung5 幾錢重]]^
+        how many mace does it weigh?
+    - _fong(3) l(o\)(6) (4)ts(')(i/)n_
+        [[fong3 lou6 cin4 放路錢]],
+        to scatter paper money at burials;
+    - _t(a/)i(6) (1)kong (4)ts(')(i/)n_
+        [[daai6 gong1 cin4 大？錢]],
+        large coins of K(a/)ngh(i/) [[康熙]];
+    - _l(a/)n(6) (4)ts(')(i/)n_
+        [[laan6 cin4-2 爛錢]],
+        bad cash;
+    - _(4)ts(')(i/)n (2)p(a/)n k(o\)m(3) [(5)]hau_
+        [[cin4 baan2 gam3 hau5 錢板咁厚]]^
+        thick as a cash board;
+    - _l(i/)(6) (4)ts(')(i/)n_
+        [[lei6 cin4 利錢]],
+        interest;
+    - _(2)shau (4)ts(')(i/)n (4)n(o\)_
+        [[sau2 cin4 nou4 守錢奴]],
+        a miser;
+    - _(2)nan (4)ts(')(i/)n_
+        [[nan2 cin4-2 㤻錢]],
+        to gamble;
+    - _(4)ts(')(i/)n (4)l(e/)ung_
+        [[cin4 loeng4 錢糧]],
+        taxes, revenue;
+    - _(4)ts(')(i/)n (2)l(e/)ung (2)tsz'_
+        [[cin4 loeng2 zi2 錢両子]]
+        shot, bullets;
+    - _(1)ch(a/)ng (4)ts(')(i/)n_
+        [[zaang1 cin4-2 爭錢]],
+        disputing about money;
+    - _(4)ts(')(i/)n (4)shan (2)p(a/)i p(o\)(3)_
+        [[cin4 san4 baai2 bou3 錢神擺布]]
+        money serves for everything;
+    - _(4)ts(')(i/)n (2)shui (1)tai_
+        [[cin4 seoi2 dai1 錢水低]],
+        the rate of exchange is low.
+    ==
+  ====
+C
+  ==
+  - Williams' 幾錢重: Corrected _chung(6)_ (zung6 去聲) to _(5)ch(')ung_ (cung5 上聲).
+  - Williams' 錢板咁厚: Changed Middle Chinese alternative _hau(6)_ to _(5)hau_.
+  ==
+E
+  ====
+  - 【錢銀】 (cin4-2 ngan4-2):
+    ++
+    1. Money.
+       ==
+       - 錢銀嘢 (cin4-2 ngan4-2 je5): "Matters of money."
+       ==
+    ++
+  ====
 $$
