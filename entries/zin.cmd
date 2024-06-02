@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2024-05-28
+* %date-modified --> 2024-06-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -592,6 +592,7 @@ $$
 - $謭2
 - $譾2
 - $輾2
+- $錢2
 - $闡2
 ==
 </nav>
@@ -918,6 +919,31 @@ C
 S
   ==
   - $輾nin5 (TODO)
+  ==
+$$
+
+###+ 錢2 | _(2)Ts(i/)n_ (zin2)
+
+$$
+R
+  ⾦ + 8
+U
+  U+9322
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - The reading _(2)ts(i/)n_ (zin2) for 錢 is not present in Williams;
+    an entry is included here for completeness.
+    ++
+    1. A farming tool.
+    ++
+  ==
+S
+  ==
+  - $錢cin4
   ==
 $$
 
