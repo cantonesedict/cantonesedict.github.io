@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [cin1](#1)
+- [cin2](#2)
 - [cin4](#4)
 ==
 </nav>
@@ -314,6 +315,72 @@ C
   ==
   - In vernacular Cantonese, 鞦韆 is switched to 韆鞦, "thousand autumns".
     See [韆鞦](cau#cantonese-韆鞦).
+  ==
+$$
+
+
+##{#2 .williams} (2)Ts(')(i/)n [[cin2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $淺2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 淺2 | _(2)Ts(')(i/)n_ [[cin2]]
+
+$$
+R
+  ⽔ + 8
+U
+  U+6DFA
+F
+  ==
+  - [[F1.22 淺]] 不深也
+  ==
+W
+  ====
+  - [[Page~575 (2)淺]]
+    ==
+    - Shallow, not deep;
+    - superficial, not profound;
+    - light, as coloring;
+    - easy, having few strokes, simple, as characters;
+    - short-haired;
+    - dripping;
+    - _(1)sham (2)ts(')(i/)n_
+        [[sam1 cin2 深淺]],
+        deep---shallow;
+        hard---easy;
+    - _(2)ts(')(i/)n kan(6) (1)ch(i/) (4)t(')(o\)_
+        [[cin2 gan6 zi1 tou4 淺近之徒]],
+        a superficial scholar;
+    - _(2)ts(')(i/)n (4)wong_
+        [[cin2 wong4 淺黃]],
+        a light yellow;
+    - _(2)ts(')(i/)ns (2)ts(')(i/)n (2)ho (2)kong_
+        [[cin2 cin2 hou2 gong2 淺淺好講]],
+        he can understand a very little;
+    - _(2)ts(')(i/)n sut(7)_
+        [[cin2 seot1 淺率]]
+        vulgar and superficial, as a scholar;
+    - _(2)ho (2)ts(')(i/)n_
+        [[hou2 cin2 好淺]],
+        very shallow, very easy;
+    - _(5)ng(a/)n (2)ts(')(i/)n_
+        [[ngaan5 cin2 眼淺]],
+        impatient, having respect to persons;
+    - _hoi(6) (4)yan pat(7) (2)ts(')(i/)n_
+        [[hoi6 jan4 bat1 cin2 害人不淺]],
+        to endamage one seriously.
+    ==
+  ====
+C
+  ==
+  - Williams' "dripping": Probably a misinterpretation of interchangeable
+    $濺zin1 and $濺zin3.
   ==
 $$
 
