@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caak
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-06-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -506,8 +506,8 @@ W
   [[Not present]]
 C
   ====
-  - An entry for the reading _ts(')(a/)k(9)_ (caak6)
-    is included here for completeness.
+  - The reading _ts(')(a/)k(9)_ (caak6) for 鰂 is not present in Williams;
+    an entry is included here for completeness.
     ++
     1. The cuttlefish, as in 鰞鰂 _(1)(u/) ts(')(a/)k(9)_ (wu1 caak6)^,
        also written 烏賊.

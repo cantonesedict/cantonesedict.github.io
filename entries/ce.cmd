@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2024-05-28
+* %date-modified --> 2024-06-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -142,7 +142,7 @@ W
   [[Not present]]
 C
   ==
-  - The reading _(1)ch(')(e/)_ (ce1) is not present in Williams;
+  - The reading _(1)ch(')(e/)_ (ce1) for 尺 is not present in Williams;
     an entry is included here for completeness.
     ++
     1. The equivalent to solfège _re_ in 工尺譜 (Gongche notation).
