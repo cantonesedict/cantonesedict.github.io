@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cin
-* %date-modified --> 2024-06-02
+* %date-modified --> 2024-06-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -324,10 +324,35 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $俴2
 - $淺2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 俴2 | _(2)Ts(')(i/)n_ [[cin2]]
+
+$$
+R
+  ⼈ + 8
+U
+  U+4FF4
+F
+  ==
+  - [[F1.22 俴]] 淺也詩小戎俴收
+  ==
+W
+  ====
+  - [[Page~575 (2)俴]]
+    --
+    [[Idiosyncratic reading from Fan Wan. **See $俴cin5 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $俴cin5 (TODO)
+  ==
+$$
 
 ### 淺2 | _(2)Ts(')(i/)n_ [[cin2]]
 
