@@ -752,6 +752,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $俴5
+- $踐5
 ==
 </nav>
 <## /tone-5-characters ##>
@@ -778,5 +779,51 @@ W
 S
   ==
   - $俴cin2
+  ==
+$$
+
+###+ 踐5 | _(5)Ts(')(i/)n_ (cin5)
+
+$$
+R
+  ⾜ + 8
+U
+  U+8E10
+V
+  ==
+  - cin2 (common)
+  - zin6 (recast to departing)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~574 踐(6) _Ts(i/)n(6)_ (zin6); here normalised _(5)Ts(')(i/)n_ (cin5)]]
+    ==
+    - To tread upon, to trample on or over;
+    - to walk, to step;
+    - to arrange out;
+    - _[(5)ts(')(i/)n] (4)(i/)n_
+        [[cin5 jin4 踐言]],
+        to fulfill one's promise;
+    - _[(5)ts(')(i/)n] t(a/)p(9)_
+        [[cin5 daap6 踐踏]]
+        to tread down or in;
+    - _[(5)ts(')(i/)n] k(u")(3)_
+        [[cin5 geoi3 踐？]]
+        to tread down the heels;
+    - _[(5)ts(')(i/)n] wai(6)_
+        [[cin5 wai6 踐位]]
+        to ascend the throne;
+        to walk in another's steps.
+    ==
+    --
+    [[...]]
+    --
+  ====
+S
+  ==
+  - $踐cin2 (TODO)
+  - $踐zin6
   ==
 $$

@@ -1595,12 +1595,15 @@ W
   ====
   - [[Page~574 踐(6)]]
     --
-    [[Reading variation. **See $踐cin5 for the canonical entry.**]]
+    [[...]]
+    --
+    --
+    Often read _(5)ts(')(i/)n_ (cin5) [[**see $踐cin5**]].
     --
   ====
 S
   ==
   - $踐cin2 (TODO)
-  - $踐cin5 (TODO)
+  - $踐cin5
   ==
 $$
