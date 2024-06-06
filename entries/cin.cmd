@@ -12,12 +12,6 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 #{.williams} Ch(')(i/)n. Ts(')(i/)n. [[cin]]
 
-<nav class="sideways">
-=={.modern}
-- (Work in progress)
-==
-</nav>
-
 <## tones ##>
 <nav class="sideways">
 =={.modern}
