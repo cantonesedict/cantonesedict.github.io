@@ -149,6 +149,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $倀caang4
       - $俴cin2
+      - $俴cin5
       - $倬coek3
       - $倡coeng1
       - $倡coeng3

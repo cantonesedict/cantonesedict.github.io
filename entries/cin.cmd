@@ -24,6 +24,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [cin1](#1)
 - [cin2](#2)
 - [cin4](#4)
+- [cin5](#5)
 ==
 </nav>
 <## /tones ##>
@@ -350,7 +351,7 @@ W
   ====
 S
   ==
-  - $俴cin5 (TODO)
+  - $俴cin5
   ==
 $$
 
@@ -741,5 +742,41 @@ E
 S
   ==
   - $錢zin2
+  ==
+$$
+
+
+##{#5 .modern} (5)Ch(')(i/)n (5)Ts(')(i/)n (cin5 陽上)
+
+<## tone-5-characters ##>
+<nav class="sideways">
+=={.modern}
+- $俴5
+==
+</nav>
+<## /tone-5-characters ##>
+
+###+ 俴5 | _(5)Ts(')(i/)n_ (cin5)
+
+$$
+R
+  ⼈ + 8
+U
+  U+4FF4
+F
+  ==
+  - [[F1.22 俴 _(2)Ts(')(i/)n_ (cin2)]] 淺也詩小戎俴收
+  ==
+W
+  ====
+  - [[Page~575 (2)俴 _(2)Ts(')(i/)n_ (cin2); here corrected to  _(5)Ts(')(i/)n_ (cin5)]]
+    ==
+    - Shallow, thin, beaten out, as a piece of metal;
+    - superficial, ignorant.
+    ==
+  ====
+S
+  ==
+  - $俴cin2
   ==
 $$
