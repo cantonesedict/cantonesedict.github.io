@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [zing1](#1)
 ==
 </nav>
 <## /tones ##>
@@ -43,5 +44,45 @@ MP
 S
   ==
   - $zeng
+  ==
+$$
+
+
+##{#1 .williams} (1)Ching (1)Tsing [[zing1 陰平]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $正1
+==
+</nav>
+<## /tone-1-characters ##>
+
+### 正1 | _(1)Ching_ [[zing1]]
+
+$$
+R
+  ⽌ + 1
+U
+  U+6B63
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~18* (1)正]]
+    ==
+    - The first;
+    - _(1)ching (u")t(9)_
+        [[zing1 jyut6 正月]]
+        the first month of the year, January.
+    ==
+  ====
+C
+  ==
+  - Williams' 正月: Usage to denote Western "January" is dated.
+  ==
+S
+  ==
+  - $正zing3 (TODO)
   ==
 $$
