@@ -320,7 +320,7 @@ C
 $$
 
 
-##{#2 .williams} (2)Ts(')(i/)n [[cin2 陰上]]
+##{#2 .williams} <ins class="modern">(2)Ch(')(i/)n</ins> (2)Ts(')(i/)n [[cin2 陰上]]
 
 <## tone-2-characters ##>
 <nav class="sideways">
@@ -328,6 +328,7 @@ $$
 - $俴2
 - $淺2
 - $踐2
+- $闡2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -430,6 +431,27 @@ S
   ==
   - $踐cin5
   - $踐zin6
+  ==
+$$
+
+###+ 闡2 | _(2)Ch(')(i/)n_ (cin2)
+
+$$
+R
+  ⾨ + 12
+U
+  U+95E1
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation (from Middle Chinese 昌善切). **See $闡zin2 for the canonical entry.**
+  ==
+S
+  ==
+  - $闡zin2
   ==
 $$
 
