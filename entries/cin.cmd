@@ -837,7 +837,7 @@ U
 V
   ==
   - cin2 (common)
-  - zin6 (recast to departing)
+  - zin6 (recasting to departing)
   ==
 F
   [[Not present]]
