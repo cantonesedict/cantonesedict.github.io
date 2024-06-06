@@ -560,6 +560,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $踩caai2
       - $踟ci4
+      - $踐cin2
       - $踐cin5
       - $踐zin6
       - $踭zaang1

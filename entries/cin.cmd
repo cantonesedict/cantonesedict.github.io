@@ -327,6 +327,7 @@ $$
 =={.modern}
 - $俴2
 - $淺2
+- $踐2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -407,6 +408,28 @@ C
   ==
   - Williams' "dripping": Probably a misinterpretation of interchangeable
     $濺zin1 and $濺zin3.
+  ==
+$$
+
+###+ 踐2 | _(2)Ts(')(i/)n_ (cin2)
+
+$$
+R
+  ⾜ + 8
+U
+  U+8E10
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation. **See $踐cin5 for the canonical entry.**
+  ==
+S
+  ==
+  - $踐cin5
+  - $踐zin6
   ==
 $$
 
@@ -823,7 +846,7 @@ W
   ====
 S
   ==
-  - $踐cin2 (TODO)
+  - $踐cin2
   - $踐zin6
   ==
 $$

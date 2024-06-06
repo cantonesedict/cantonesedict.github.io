@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2024-06-02
+* %date-modified --> 2024-06-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1598,12 +1598,12 @@ W
     [[...]]
     --
     --
-    Often read _(5)ts(')(i/)n_ (cin5) [[**see $踐cin5**]].
+    Often read _(5)ts(')(i/)n_ [[cin5]] [[**see $踐cin5**]].
     --
   ====
 S
   ==
-  - $踐cin2 (TODO)
+  - $踐cin2
   - $踐cin5
   ==
 $$
