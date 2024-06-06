@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2023-08-02
-* %copyright-prior-years -->
+* %date-modified --> 2024-06-06
+* %copyright-prior-years --> 2023--
 
 %%%
-
---{.modern}
-(From Page~18* (Ching) and Page~575 (Tsing) of the original onwards.)
---
 
 #{.williams} Ching. Tsing. [[zing]]
 
@@ -21,3 +17,31 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Ching. [[Page~18*]]
+  - Tsing. [[Page~575]]
+  ==
+WP
+  ==
+  - Ching <span class="modern">= [tɕeŋ]</span>
+  - Tsing <span class="modern">= [tseŋ]</span>
+  ==
+MP
+  ==
+  - zing = [tseŋ] ((preferred)), [tɕeŋ]
+  ==
+S
+  ==
+  - $zeng
+  ==
+$$
