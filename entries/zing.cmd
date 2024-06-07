@@ -59,6 +59,7 @@ $$
 - $正1
 - $烝1
 - $禎1
+- $蒸1
 - $貞1
 ==
 </nav>
@@ -296,6 +297,49 @@ W
         a happy sign.
     ==
   ====
+$$
+
+### 蒸1 | _(1)Ching_ [[zing1]]
+
+$$
+R
+  ⾋ + 10
+U
+  U+84B8
+A
+  ==
+  - $烝1
+  ==
+F
+  ==
+  - [[F1.68 烝]] 衆也
+  - [[F1.68 蒸]] 衆也進也又薰蒸又冬祭曰蒸
+  ==
+W
+  ====
+  - [[Page~18* (1)蒸]]
+    --
+    Used for the last [[$烝1]].
+    --
+    ==
+    - Twigs of hemp for burning;
+    - small firewood;
+    - hemp torches;
+    - vapor, steam;
+    - all, numerous;
+    - to rise, as vapor or steam;
+    - _(1)ching (1)ching yat(9) (5)sh(e/)ung_
+        [[zing1 zing1 jat6 soeng5 蒸蒸日上]],
+        daily rising better and higher.
+    ==
+    --
+    Read _ching(3)_ [[**see $蒸zing3**]].
+    --
+  ====
+S
+  ==
+  - $蒸zing3 (TODO)
+  ==
 $$
 
 ### 貞1 | _(1)Ching_ [[zing1]]
