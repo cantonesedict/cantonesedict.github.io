@@ -53,12 +53,44 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $偵1
 - $征1
 - $正1
 - $貞1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 偵1 | _(1)Ching_ [[zing1]]
+
+$$
+R
+  ⼈ + 9
+U
+  U+5075
+F
+  ==
+  - [[F1.68 偵]] ::[伺]探也::
+  ==
+W
+  ====
+  - [[Page~18* (1)偵]]
+    ==
+    - A spy (vulgo, _ye(6) pat(7) [(1)]shau_ [[je6 bat1 sau1 夜不收]]),
+      a scout;
+    - to reconnoitre, to inquire;
+    - _(4)yau (1)ching_ [[jau4 zing1 遊偵]]^
+        or
+      _(1)ching t(')(a/)m(3)_ [[zing1 taam3 偵探]]
+        to spy.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 何 to 伺.
+  - Williams' 夜不收: Corrected _(4)shau_ (sau4) to _(1)shau_ (sau1).
+  ==
+$$
 
 ### 征1 | _(1)Ching_ [[zing1]]
 
