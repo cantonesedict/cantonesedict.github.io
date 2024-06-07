@@ -232,9 +232,7 @@ W
   ====
   - [[Page~18* (1)烝]]
     ==
-    - A vapor made by heat, steam;
-    - vapor, mist;
-    - to steam, to cook by steaming, to distil;
+    - [[See $蒸zing1 for "steam" senses]];
     - a multitude, all;
     - to enter, to advance;
     - clouds of dust;
@@ -245,18 +243,7 @@ W
     - _(1)t(')(i/)n (1)shang (1)ching (4)man_
         [[tin1 sang1 zing1 man4 天生烝民]]^
         heaven produced all men;
-    - _(1)ching shuk(9) (5)h(a/)_
-        [[zing1 suk6 haa5 烝熟吓]],
-        steam it thoroughly;
-    - _(1)ching f(a/)n(6)_
-        [[zing1 faan6 烝飯]]
-        to steam rice;
-    - _(1)ching (2)tsau_
-        [[zing1 zau2 烝酒]],
-        to distil spirit;
-    - _(1)ching (4)lung_
-        [[zing1 lung4 烝籠]],
-        a steaming basket;
+    - [[...]];
     - _(1)ching (4)sh(e/)ung_
         [[zing1 soeng4 烝嘗]],
         sacrifice in winter;
@@ -264,14 +251,13 @@ W
     - _(1)ching tsun(3)_
         [[zing1 zun3 烝進]]
         to intrude one's self;
-    - _(1)ching (4)ngo_
-        [[zing1 ngo4-2 烝鵝]]^
-        a boiled goose.
+    - [[...]].
     ==
   ====
 C
   ==
-  - In modern usage, the "steam" senses are written 蒸. See $蒸zing1.
+  - "Steam" senses have been normalised to 蒸 per modern usage. See $蒸zing1.
+  - Williams' "incest with superiors": More generally, adultery with an elder.
   ==
 $$
 
@@ -317,6 +303,29 @@ F
   ==
 W
   ====
+  - [[Page~18* (1)烝; here normalised to 蒸]]
+    ==
+    - A vapor made by heat, steam;
+    - vapor, mist;
+    - to steam, to cook by steaming, to distil;
+    - [[...]];
+    - _(1)ching shuk(9) (5)h(a/)_
+        [[zing1 suk6 haa5 蒸熟吓]],
+        steam it thoroughly;
+    - _(1)ching f(a/)n(6)_
+        [[zing1 faan6 蒸飯]]
+        to steam rice;
+    - _(1)ching (2)tsau_
+        [[zing1 zau2 蒸酒]],
+        to distil spirit;
+    - _(1)ching (4)lung_
+        [[zing1 lung4 蒸籠]],
+        a steaming basket;
+    - [[...]];
+    - _(1)ching (4)ngo_
+        [[zing1 ngo4-2 蒸鵝]]^
+        a boiled goose.
+    ==
   - [[Page~18* (1)蒸]]
     --
     Used for the last [[$烝1]].
