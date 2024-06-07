@@ -57,6 +57,7 @@ $$
 - $征1
 - $楨1
 - $正1
+- $禎1
 - $貞1
 ==
 </nav>
@@ -211,6 +212,30 @@ S
   ==
   - $正zing3 (TODO)
   ==
+$$
+
+### 禎1 | _(1)Ching_ [[zing1]]
+
+$$
+R
+  ⽰ + 9
+U
+  U+798E
+F
+  ==
+  - [[F1.68 禎]] 祥也又善也
+  ==
+W
+  ====
+  - [[Page~18* (1)禎]]
+    ==
+    - A favourable omen;
+    - felicitous, lucky;
+    - _(1)ching (4)ts(')(e/)ung_
+        [[zing1 coeng4 禎祥]],
+        a happy sign.
+    ==
+  ====
 $$
 
 ### 貞1 | _(1)Ching_ [[zing1]]
