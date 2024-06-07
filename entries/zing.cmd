@@ -55,6 +55,7 @@ $$
 =={.modern}
 - $偵1
 - $征1
+- $楨1
 - $正1
 - $貞1
 ==
@@ -144,6 +145,42 @@ C
   ==
   - Williams' 征討: More to subjugate than to collect tribute.
   - Williams' 征伐: Changed _f(a/)t(9)_ (faat6) to modern _fat(9)_ (fat6).
+  ==
+$$
+
+### 楨1 | _(1)Ching_ [[zing1]]
+
+$$
+R
+  ⽊ + 9
+U
+  U+6968
+F
+  ==
+  - [[F1.68 楨]] ::楨[榦]::
+  ==
+W
+  ====
+  - [[Page~18* (1)楨]]
+    ==
+    - A kind of fir;
+    - _(5)n(u") (1)ching_
+        [[neoi5 zing1 女楨]],
+        a coniferæ growing on T(a/)ish(a/)n [[太山]] in Sh(a/)ntung [[山東]];
+    - _(5)n(u") (1)ching (2)tsz'_
+        [[neoi5 zing1 zi2 女楨子]]
+        the seeds of this tree;
+    - _(1)ching kon(3)_
+        [[zing1 gon3 楨榦]]
+        planks with which adobie walls are made;
+      vulgo,
+        _k(a/)p(8) (4)ts(')(e/)ung (2)p(a/)n_
+        [[gaap3 coeng4 baan2 夾牆板]].
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿰龺余 to 榦.
   ==
 $$
 
