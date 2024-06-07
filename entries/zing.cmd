@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2024-06-06
+* %date-modified --> 2024-06-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -55,6 +55,7 @@ $$
 =={.modern}
 - $征1
 - $正1
+- $貞1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -141,4 +142,40 @@ S
   ==
   - $正zing3 (TODO)
   ==
+$$
+
+### 貞1 | _(1)Ching_ [[zing1]]
+
+$$
+R
+  ⾙ + 2
+U
+  U+8C9E
+F
+  ==
+  - [[F1.68 貞]] 正也潔也淸白也又易元亨利貞
+  ==
+W
+  ====
+  - [[Page~18* (1)貞]]
+    ==
+    - To divine by shells;
+    - chaste, virtuous;
+    - pure, correct, moral;
+    - uncorrupted;
+    - well principled;
+    - _(1)ching k(i/)t(8)_
+        [[zing1 git3 貞潔]]
+        chaste;
+    - _(1)ping (1)ching_
+        [[bing1 zing1 冰貞]],
+        a pure woman;
+    - _(1)ching ts(i/)t(8)_
+        [[zing1 zit3 貞節]]
+        a chaste widow;
+    - _(1)ching l(i/)t(9)_
+        [[zing1 lit6 貞烈]]
+        inflexibly upright or virtuous.
+    ==
+  ====
 $$
