@@ -57,6 +57,7 @@ $$
 - $征1
 - $楨1
 - $正1
+- $烝1
 - $禎1
 - $貞1
 ==
@@ -211,6 +212,65 @@ C
 S
   ==
   - $正zing3 (TODO)
+  ==
+$$
+
+### 烝1 | _(1)Ching_ [[zing1]]
+
+$$
+R
+  ⽕ + 6
+U
+  U+70DD
+F
+  ==
+  - [[F1.68 烝]] 衆也
+  - [[F1.68 蒸]] 衆也進也又薰蒸又冬祭曰蒸
+  ==
+W
+  ====
+  - [[Page~18* (1)烝]]
+    ==
+    - A vapor made by heat, steam;
+    - vapor, mist;
+    - to steam, to cook by steaming, to distil;
+    - a multitude, all;
+    - to enter, to advance;
+    - clouds of dust;
+    - liberal, princely;
+    - a winter sacrifice;
+    - to commit incest with superiors in rank;
+    - to lay down;
+    - _(1)t(')(i/)n (1)shang (1)ching (4)man_
+        [[tin1 sang1 zing1 man4 天生烝民]]^
+        heaven produced all men;
+    - _(1)ching shuk(9) (5)h(a/)_
+        [[zing1 suk6 haa5 烝熟吓]],
+        steam it thoroughly;
+    - _(1)ching f(a/)n(6)_
+        [[zing1 faan6 烝飯]]
+        to steam rice;
+    - _(1)ching (2)tsau_
+        [[zing1 zau2 烝酒]],
+        to distil spirit;
+    - _(1)ching (4)lung_
+        [[zing1 lung4 烝籠]],
+        a steaming basket;
+    - _(1)ching (4)sh(e/)ung_
+        [[zing1 soeng4 烝嘗]],
+        sacrifice in winter;
+        property left by a person;
+    - _(1)ching tsun(3)_
+        [[zing1 zun3 烝進]]
+        to intrude one's self;
+    - _(1)ching (4)ngo_
+        [[zing1 ngo4-2 烝鵝]]^
+        a boiled goose.
+    ==
+  ====
+C
+  ==
+  - In modern usage, the "steam" senses are written 蒸. See $蒸zing1.
   ==
 $$
 
