@@ -55,6 +55,7 @@ $$
 =={.modern}
 - $偵1
 - $征1
+- $徵1
 - $楨1
 - $正1
 - $烝1
@@ -148,6 +149,66 @@ C
   ==
   - Williams' 征討: More to subjugate than to collect tribute.
   - Williams' 征伐: Changed _f(a/)t(9)_ (faat6) to modern _fat(9)_ (fat6).
+  ==
+$$
+
+### 徵1 | _(1)Ching_ [[zing1]]
+
+$$
+R
+  ⼻ + 12
+U
+  U+5FB5
+F
+  ==
+  - [[F1.68 徵]] 証也明也又徵辟
+  ==
+W
+  ====
+  - [[Page~19* (1)徵]]
+    ==
+    - To act;
+    - to set in motion;
+    - to witness, to testify;
+    - to cite, to summon;
+    - to verify;
+    - evidence;
+    - to inquire after;
+    - to gather together;
+    - to aim at;
+    - to raise, as troops;
+    - to collect, as taxes;
+    - fullfilment, proof;
+    - _(4)ming (1)ching_
+        [[ming4 zing1 明徵]]^
+        plain proof;
+    - _(4)m(o\) (1)ching_
+        [[mou4 zing1 無徵]],
+        no proof;
+    - _(1)ching (1)ping_
+        [[zing1 bing1 徵兵]],
+        to enlist troops;
+    - _kwai(3) (1)ching_
+        [[gwai3 zing1 貴徵]],
+        a noble bearing, courteous;
+        to seek a good market;
+    - _(5)yau (1)ching_
+        [[jau5 zing1 有徵]],
+        proved;
+    - _(1)ching chi(u/)(6)_
+        [[zing1 ziu6 徵召]]
+        to cite, called upon by government;
+    - _(1)ching p(')ing(3)_
+        [[zing1 ping3 徵聘]]
+        to induce by a present;
+    - _(1)ching (i/)m(6)_
+        [[zing1 jim6 徵驗]]
+        accomplished.
+    ==
+  ====
+S
+  ==
+  - $徵zi2
   ==
 $$
 
