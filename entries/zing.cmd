@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2024-06-07
+* %date-modified --> 2024-06-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -59,6 +59,7 @@ $$
 - $楨1
 - $正1
 - $烝1
+- $癥1
 - $禎1
 - $蒸1
 - $貞1
@@ -319,6 +320,34 @@ C
   ==
   - "Steam" senses have been normalised to 蒸 per modern usage. See $蒸zing1.
   - Williams' "incest with superiors": More generally, adultery with an elder.
+  ==
+$$
+
+### 癥1 | _(1)Ching_ [[zing1]]
+
+$$
+R
+  ⽧ + 15
+U
+  U+7665
+F
+  ==
+  - [[F1.68 癥]] 腹内結疾
+  ==
+W
+  ====
+  - [[Page~19* (1)癥]]
+    ==
+    - Colic arising from obstruction;
+    - obstinate constipation;
+    - _(1)ching [(2)k(a/)]_
+        [[zing1 gaa2 癥瘕]],
+        obstruction of the bowels with griping.
+    ==
+  ====
+C
+  ==
+  - Williams' 癥瘕: Corrected _(1)h(a/)_ (haa1) to _(2)k(a/)_ (gaa2).
   ==
 $$
 
