@@ -63,6 +63,7 @@ $$
 - $禎1
 - $蒸1
 - $貞1
+- $鉦1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -473,6 +474,30 @@ W
     - _(1)ching l(i/)t(9)_
         [[zing1 lit6 貞烈]]
         inflexibly upright or virtuous.
+    ==
+  ====
+$$
+
+### 鉦1 | _(1)Ching_ [[zing1]]
+
+$$
+R
+  ⾦ + 5
+U
+  U+9266
+F
+  ==
+  - [[F1.68 鉦]] 鐃也
+  ==
+W
+  ====
+  - [[Page~19* (1)鉦]]
+    ==
+    - Cymbals set in a frame, used to signalize a halt in armies;
+    - a cymbal used by priests, a brass tamborine;
+    - _kw(a/)(3) (4)t(')ung (1)ching_
+        [[gwaa3 tung4 zing1 掛銅鉦]],
+        to hang up the cymbal.
     ==
   ====
 $$
