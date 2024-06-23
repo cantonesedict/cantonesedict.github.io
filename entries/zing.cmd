@@ -752,7 +752,7 @@ E
        ==
     1. Neat, tidy.
        ==
-       - 執得四正 (zap1 dak1 si3 zeng3): "Tidied up [so] neatly."
+       - 執得四正 (zap1 dak1 si3 zeng3): "Tidied up neatly."
        ==
     ++
   - 【正】 (zeng3):
