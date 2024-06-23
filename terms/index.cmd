@@ -359,6 +359,9 @@ window.onload = applyFilter;
     , faa1 zi2
     , [花紙](/entries/zi#cantonese-花紙)
   //
+    , faai3 leng3 zeng3
+    , [快靚正](/entries/zing#cantonese-快靚正)
+  //
     , gaa1 ze2-1
     , [家姐](/entries/ze#cantonese-家姐)
   //
@@ -467,6 +470,9 @@ window.onload = applyFilter;
     , paa3 cau2
     , [怕醜](/entries/cau#cantonese-怕醜)
   //
+    , peng4 leng3 zeng3
+    , [平靚正](/entries/zing#cantonese-平靚正)
+  //
     , saa1 can4
     , [沙塵](/entries/can#cantonese-沙塵)
   //
@@ -487,6 +493,9 @@ window.onload = applyFilter;
   //
     , sau2 zi2 mei5-1
     , [手指尾](/entries/zi#cantonese-手指尾)
+  //
+    , si3 zeng3
+    , [四正](/entries/zing#cantonese-四正)
   //
     , sik6 zi2
     , [食指](/entries/zi#cantonese-食指)
@@ -722,6 +731,9 @@ window.onload = applyFilter;
     , zem1
     , [占](/entries/zim#cantonese-占)
   //
+    , zeng3
+    , [正](/entries/zing#cantonese-正)
+  //
     , zi1
     , [螆](/entries/zi#cantonese-螆)
   //
@@ -772,6 +784,9 @@ window.onload = applyFilter;
   //
     , zing2 sik1 zing2 seoi2
     , [整色整水](/entries/zing#cantonese-整色整水)
+  //
+    , zing3 waa6
+    , [正話](/entries/zing#cantonese-正話)
   //
     , zoek3
     , [着~\(wear\)](/entries/zoek#cantonese-着-wear)

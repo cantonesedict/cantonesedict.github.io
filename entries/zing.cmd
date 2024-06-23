@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [zing1](#1)
 - [zing2](#2)
+- [zing3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -276,7 +277,8 @@ C
   ==
 S
   ==
-  - $正zing3 (TODO)
+  - $正zeng3 (TODO)
+  - $正zing3
   ==
 $$
 
@@ -610,4 +612,166 @@ E
        to window-dress.
     ++
   ====
+$$
+
+
+##{#3 .williams} Ching(3) [[zing3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $正3
+==
+</nav>
+<## /tone-3-characters ##>
+
+--{.williams}
+[[Page~19*, before the entries for _(2)ching_ (zing2) and _ching(3)_ (zing3)]]
+(The two next characters [[整, 正]] are often pronounced _cheng_ [[zeng]].)
+--
+
+### 正3 | _Ching(3)_ [[zing3]]
+
+$$
+R
+  ⽌ + 1
+U
+  U+6B63
+V
+  ==
+  - zeng3 (vernacular adjective senses)
+  ==
+F
+  ==
+  - [[F1.72 正]] 公也當也不邪也
+  ==
+W
+  ====
+  - [[Page~19* 正(3)]]
+    ==
+    - Correct, straight, right, not awry, erect, even;
+    - not inclined, not deflected;
+    - regular, usual[,] proper;
+    - the first, principal;
+    - just, at the time of;
+    - constant, usual;
+    - genuine, real[,] as goods;
+    - to put in order;
+    - to assume, to enter on, as an office;
+    - to adjust, to govern, to execute the laws, to punish;
+    - _[cheng](3) (4)'m [cheng](3)_
+        [[zeng3 m4 zeng3 正唔正]]
+        is it proper?
+    - _pat(7) ching(3) (1)king_
+        [[bat1 zing3 ging1 不正經]],
+        licentious, immoral;
+    - _ching(3) (4)yan (1)kwan (2)tsz'_
+        [[zing3 jan4 gwan1 zi2 正人君子]]
+        an upright man;
+    - _(1)h(e/)ung ching(3)_
+        [[hoeng1 zing3 鄉正]]
+        village elders;
+    - _ching(3) tong[(3)]_
+        [[zing3 dong3 正當]],
+        as it ought to be;
+    - _ching(3) (1)chung_
+        [[zing3 zung1 正中]],
+        put in the middle;
+    - _[cheng](3) (1)ng(a/)m_
+        [[zeng3 ngaam1 正啱]],
+        placed right;
+    - _cheng(3) ch(e/)uk[(9)] (4)sh(i/)_
+        [[zeng3 zoek6 si4 正着時]],
+        just in good time;
+    - _cheng(3) i(u/)(3)_
+        [[zeng3 jiu3 正要]]
+        just as I wanted it;
+    - _ching(3) l(o\)(6) (1)kung (4)ming_
+        [[zing3 lou6 gung1 ming4 正路功名]],
+        reputation well earned, an honorable fame;
+    - _ching(3) (1)king_
+        [[zing3 ging1 正經]],
+        moral, virtuous;
+    - _ching(3) tsoi(6) (1)n(i/) ch(')(u")(3)_
+        [[zing3 zoi6 ni1 cyu3 正在呢處]]
+        he was just here;
+    - _[(5)ts(')o] cheng(3)_
+        [[co5 zeng3 坐正]]
+        to sit properly;
+    - _ching(3) (2)kong_
+        [[zing3 gong2 正講]],
+        to speak literally;
+    - _ching(3) (4)t(')ong_
+        [[zing3 tong4 正堂]],
+        the main hall, the chief officer;
+    - _ching(3) tsung(6)_
+        [[zing3 zung6 正從]]
+        principals and seconds;
+    - _ching(3) chik[(9)]_
+        [[zing3 zik6 正直]]
+        honest, solid, true;
+    - _ching(3) (4)n(a/)m m(i/)n(6)_
+        [[zing3 naam4 min6 正南面]]
+        to be emperor;
+    - _ching(3) f(a/)t(8)_
+        [[zing3 faat3 正法]]
+        to inflict capital punishment;
+    - _ching(3) (1)sam_
+        [[zing3 sam1 正心]],
+        to reform.
+    ==
+  ====
+C
+  ==
+  - Williams' 正唔正: Changed _ching(3)_ (zing3)
+    to vernacular reading _cheng(3)_ (zeng3).
+  - Williams' 正當: Corrected _(1)tong_ (dong1) to _tong(3)_ (dong3).
+    If 當 is in level tone, then it means "just when" instead of "proper".
+  - Williams' 正啱: Changed _ching(3)_ (zing3)
+    to vernacular reading _cheng(3)_ (zeng3).
+  - Williams' 正着時: Corrected _ch(e/)uk(8)_ (zoek3) to _ch(e/)uk(9)_ (zoek6).
+  - Williams' 正經: Also serious (as opposed to playful).
+  - Williams' 坐正: Corrected _tso(6)_ (zo6 去聲) to _(5)ts(')o_ (co5 上聲).
+  - Williams' 正直: Corrected _chik(7)_ (zik1) to _chik(9)_ (zik6).
+  ==
+E
+  ====
+  - 【快靚正】 (faai3 leng3 zeng3):
+    ++
+    1. Quick, attractive, and quality (said of goods and services).
+    ++
+  - 【平靚正】 (peng4 leng3 zeng3):
+    ++
+    1. Cheap, attractive, and quality (said of goods and services).
+    ++
+  - 【四正】 (si3 zeng3):
+    ++
+    1. Proper (of appearance, position, etc.).
+       ==
+       - 打呔四正啲 (daa2 taai1 si3 zeng3 di1): "Wearing [a] tie [would look] more proper".
+       ==
+    1. Neat, tidy.
+       ==
+       - 執得四正 (zap1 dak1 si3 zeng3): "Tidied up [so] neatly."
+       ==
+    ++
+  - 【正】 (zeng3):
+    ++
+    1. Great, excellent, fantastic.
+       ==
+       - 好正喎 (hou2 zeng3 wo3): "[Hey, it's] really excellent!"
+       - 快靚正 (faai3 leng3 zeng3): "Quick, attractive, [and] good-[quality]."
+       - 平靚正 (peng4 leng3 zeng3): "Cheap, attractive, [and] good-[quality]."
+       ==
+    ++
+  - 【正話】 (zing3 waa6):
+    ++
+    1. A moment ago, just now. (Literally, "[it was] just said".)
+    ++
+  ====
+S
+  ==
+  - $正zeng3 (TODO)
+  - $正zing1
+  ==
 $$
