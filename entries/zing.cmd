@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2024-06-17
+* %date-modified --> 2024-06-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zing1](#1)
+- [zing2](#2)
 ==
 </nav>
 <## /tones ##>
@@ -499,5 +500,114 @@ W
         [[gwaa3 tung4 zing1 掛銅鉦]],
         to hang up the cymbal.
     ==
+  ====
+$$
+
+
+##{#2 .williams} (2)Ching (2)Tsing [[zing2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $整2
+==
+</nav>
+<## /tone-2-characters ##>
+
+--{.williams}
+[[Page~19*, before the entries for _(2)ching_ (zing2) and _ching(3)_ (zing3)]]
+(The two next characters [[整, 正]] are often pronounced _cheng_ [[zeng]].)
+--
+
+### 整2 | _(2)Ching_ [[zing2]]
+
+$$
+R
+  ⽁ + 12
+U
+  U+6574
+F
+  ==
+  - [[F1.72 整]] 修造也齊也葺也理也
+  ==
+W
+  ====
+  - [[Page~19* (2)整]]
+    ==
+    - To even off, to place evenly;
+    - to repair, to mend, to put in order, to make;
+    - to arrange;
+    - to adjust;
+    - to adorn;
+    - to make new, to trim up;
+    - _(2)ching shik(7) (2)shui_ [[zing2 sik1 seoi2 整色水]]^
+        or
+      _(2)ching (2)k(u/) ts(o\)(6) kw(a/)i(3)_ [[zing2 gu2 zou6 gwaai3 整古做怪]]
+        to sham, as poverty;
+        to dissemble, to simulate;
+    - _(2)ching (5)k(')(u") (2)kwai (5)m(a/)_
+        [[zing2 keoi5 gwai2 maa5 整佢鬼馬]],
+        set a catch for him, as in play;
+    - _(2)ching (4)ts(')ai_
+        [[zing2 cai4 整齊]],
+        to put things in order, to settle;
+    - _(2)ching (1)pi(u/)_
+        [[zing2 biu1 整錶]],
+        to mend a watch;
+    - _(2)ching (4)t(')(i/)n_
+        [[zing2 tin4 整田]],
+        to prepare fields for planting;
+    - _(2)ching (2)h(o\)_ [[zing2 hou2 整好]],
+        or
+      _(2)ching (1)f(a/)n_ [[zing2 faan1 整返]],
+        to repair;
+    - _(2)[ching] [(4)]k(')i(u/) (1)sau l(o\)(6)_
+        [[zing2 kiu4 sau1 lou6 整橋修路]]
+        to mend bridges and repair roads;
+    - _(2)ching ch(i/)(6) (4)yan_
+        [[zing2 zi6 jan4 整治人]],
+        to correct a man;
+    - _(2)ching w(a/)i[(6)]_
+        [[zing2 waai6 整壞]],
+        to spoil, to injure.
+    ==
+  ====
+C
+  ==
+  - Williams records _(2)cheng_ (zeng2) as an alternative reading
+    (see remarks under $zing2).
+    However, I have never heard 整 read _(2)cheng_ (zeng2).
+  - Williams' 整色水: More commonly 整色整水.
+  - Williams' 整橋修路: Corrected _(2)cheng_ (zeng2) to _(2)ching_ (zing2),
+    and corrected _(1)k(')i(u/)_ (kiu1) to _(4)k(')i(u/)_ (kiu4).
+  - Williams' 整壞: Corrected _(4)w(a/)i_ (waai4) to _w(a/)i(6)_ (waai6).
+  ==
+E
+  ====
+  - 【整】 (zing2):
+    ++
+    1. To make, to create.
+       ==
+       - 整緊蛋糕 (zing2 gan2 daan6 gou1): "Making [a] cake."
+       - 整嘢食 (zing2 je5 sik6): "Make something [to] eat."
+       ==
+    1. To cause to become, to render.
+       ==
+       - 整熱啲 (zing2 jit6 di1): "Make [it] hotter."
+       - 整損手 (zing2 syun2 sau2): "Abrased [my] hand."
+       - 整冧咗 (zing2 lam3 zo2): "Made [it] fall over".
+       - 整爛咗 (zing2 laan6 zo2): "[I] broke [it]" (physically).
+       - 整壞咗 (zing2 waai6 zo2): "[I] broke [it]" (functionally).
+       ==
+    ++
+  - 【整蠱】 (zing2 gu2):
+    ++
+    1. To play a trick or prank on.
+    ++
+  - 【整色整水】 (zing2 sik1 zing2 seoi2):
+    ++
+    1. To do the superficial (as cover for lack of substance),
+       to window-dress.
+    ++
   ====
 $$
