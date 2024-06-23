@@ -277,7 +277,7 @@ C
   ==
 S
   ==
-  - $正zeng3 (TODO)
+  - $正zeng3
   - $正zing3
   ==
 $$
@@ -639,7 +639,7 @@ U
   U+6B63
 V
   ==
-  - zeng3 (vernacular adjective senses)
+  - zeng3 (vernacular adjective)
   ==
 F
   ==
@@ -771,7 +771,7 @@ E
   ====
 S
   ==
-  - $正zeng3 (TODO)
+  - $正zeng3
   - $正zing1
   ==
 $$
