@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cek
-* %date-modified --> 2024-05-28
+* %date-modified --> 2024-06-24
 * %copyright-prior-years -->
 
 %%%
@@ -23,7 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 WH
   ==
-  - Ch(')ek. [[Page~15*]]
+  - Ch(')ek. [[Page~15* implied]]
   - <ins class="modern">Ts(')ek. (Not present)</ins>
   ==
 WP

@@ -29,7 +29,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 WH
   ==
-  - Cheng. [[Page~19*]]
+  - Cheng. [[Page~19* implied]]
   - Tseng. [[Page~565]]
   ==
 WP
@@ -47,8 +47,7 @@ S
   ==
 C
   ==
-  - Williams' section for Tseng (zeng) is empty,
-    as its heading redirects the reader to [Tsing (zing)](zing).
+  - Williams' heading for Tseng (zeng) redirects to [Tsing (zing)](zing).
   ==
 $$
 
