@@ -622,6 +622,7 @@ $$
 =={.modern}
 - $政3
 - $正3
+- $症3
 - $証3
 - $證3
 ==
@@ -827,6 +828,40 @@ S
   ==
   - $正zeng3
   - $正zing1
+  ==
+$$
+
+### 症3 | _Ching(3)_ [[zing3]]
+
+$$
+R
+  ⽧ + 5
+U
+  U+75C7
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~20* 症(3)]]
+    --
+    An unauthorized character.
+    --
+    ==
+    - Disease, ailments, disorder;
+    - _peng(6) ching(3)_
+        [[beng6 zing3 病症]]
+        sickness;
+    - _kap(7) ching(3)_
+        [[gap1 zing3 急症]]
+        a dangerous sickness;
+    - _ts(a/)p(9) ching(3)_
+        [[zaap6 zing3 雜症]]
+        unusual malady.
+    ==
+  ====
+C
+  ==
+  - Williams' 急症: Better rendered "emergency case".
   ==
 $$
 
