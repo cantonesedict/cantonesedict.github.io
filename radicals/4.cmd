@@ -634,6 +634,14 @@ For all radicals, see [Index of characters by radical](./).
       - $旃zin1
       ==
       </nav>
+  //
+    , 7
+    ,
+      <nav class="sideways">
+      ==
+      - $旌zing1
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⽅-characters ##>

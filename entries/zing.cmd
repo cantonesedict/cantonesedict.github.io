@@ -58,6 +58,7 @@ $$
 - $偵1
 - $征1
 - $徵1
+- $旌1
 - $楨1
 - $正1
 - $烝1
@@ -213,6 +214,48 @@ W
 S
   ==
   - $徵zi2
+  ==
+$$
+
+### 旌1 | _(1)Tsing_ [[zing1]]
+
+$$
+R
+  ⽅ + 7
+U
+  U+65CC
+V
+  ==
+  - sing1 (common)
+  ==
+F
+  ==
+  - [[F1.67 旌]] 旌旗又旌表
+  ==
+W
+  ====
+  - [[Page~575 (1)旌]]
+    ==
+    - A banner, a standard having plumes,
+      which when waved encourage the troops;
+    - to make signals;
+    - insignia, signals;
+    - to discriminate, to make manifest, to prove, to show forth;
+    - _tsing (4)k(')(i/)_
+        [[zing1 kei4 旌旗]],
+        flags;
+    - _(4)ming (1)tsing_
+        [[ming4 zing1 明旌]],
+        red banners hung by a corpse;
+    - _(1)tsing (2)pi(u/)_
+        [[zing1 biu2 旌表]],
+        testimonials of merit granted by the sovereign,
+        and often placed over the door.
+    ==
+  ====
+S
+  ==
+  - $旌sing1 (TODO)
   ==
 $$
 
