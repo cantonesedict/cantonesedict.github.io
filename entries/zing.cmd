@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2024-06-23
+* %date-modified --> 2024-06-24
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -730,7 +730,7 @@ C
   - Williams' 正啱: Changed _ching(3)_ (zing3)
     to vernacular reading _cheng(3)_ (zeng3).
   - Williams' 正着時: Corrected _ch(e/)uk(8)_ (zoek3) to _ch(e/)uk(9)_ (zoek6).
-  - Williams' 正經: Also serious (as opposed to playful).
+  - Williams' 正經: Also "serious" (as opposed to "playful").
   - Williams' 坐正: Corrected _tso(6)_ (zo6 去聲) to _(5)ts(')o_ (co5 上聲).
   - Williams' 正直: Corrected _chik(7)_ (zik1) to _chik(9)_ (zik6).
   ==
