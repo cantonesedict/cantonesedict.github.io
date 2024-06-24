@@ -129,6 +129,7 @@ For all radicals, see [Index of characters by radical](./).
       - $診can2
       - $詞ci4
       - $詐zaa3
+      - $証zing3
       ==
       </nav>
   //

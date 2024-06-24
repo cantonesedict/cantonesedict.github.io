@@ -622,6 +622,7 @@ $$
 =={.modern}
 - $政3
 - $正3
+- $証3
 - $證3
 ==
 </nav>
@@ -827,6 +828,30 @@ S
   - $正zeng3
   - $正zing1
   ==
+$$
+
+### 証3 | _Ching(3)_ [[zing3]]
+
+$$
+R
+  ⾔ + 5
+U
+  U+8A3C
+F
+  ==
+  - [[F1.72 証]] 騐也考也
+  - [[F1.72 證]] 騐也質也明也
+  ==
+W
+  ====
+  - [[Page~20* 証(3)]]
+    --
+    Interchanged with the above [[$證3]].
+    --
+    ==
+    - To remonstrate with, to admonish, to expostulate.
+    ==
+  ====
 $$
 
 ### 證3 | _Ching(3)_ [[zing3]]
