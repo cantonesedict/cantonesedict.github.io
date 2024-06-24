@@ -620,6 +620,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $政3
 - $正3
 ==
 </nav>
@@ -629,6 +630,57 @@ $$
 [[Page~19*, before the entries for _(2)ching_ (zing2) and _ching(3)_ (zing3)]]
 (The two next characters [[整, 正]] are often pronounced _cheng_ [[zeng]].)
 --
+
+### 政3 | _Ching(3)_ [[zing3]]
+
+$$
+R
+  ⽁ + 5
+U
+  U+653F
+F
+  ==
+  - [[F1.72 政]] 國政所以止人之不正也又典法曰政
+  ==
+W
+  ====
+  - [[Page~19* 政(3)]]
+    ==
+    - To rule, to govern;
+    - a standard, a regulator;
+    - a treatise, a guide on a subject;
+    - government, politics;
+    - laws, regulations;
+    - _ching(3) sz'(6)_
+        [[zing3 si6 政事]]
+        governmental affairs;
+    - _(1)k(a/) ching(3)_
+        [[gaa1 zing3 家政]]
+        family regulations;
+    - _sh(i/)n(6) ching(3)_
+        [[sin6 zing3 善政]]
+        good rule;
+    - _(4)ts(')ung ching(3)_
+        [[cung4 zing3 從政]]
+        in official employ;
+    - _(4)nung ching(3)_
+        [[nung4 zing3 農政]]
+        farming encyclopedia;
+        a supervisor of agriculture;
+    - _ts(')at(7) ching(3)_
+        [[cat1 zing3 七政]]
+        the sun, moon, and five planets;
+    - _ching(3) ling(6)_
+        [[zing3 ling6 政令]]
+        official orders.
+    ==
+  ====
+C
+  ==
+  - Williams' 家政: Now "home economics".
+  - Williams' 從政: Or, "pursuing politics".
+  ==
+$$
 
 ### 正3 | _Ching(3)_ [[zing3]]
 
