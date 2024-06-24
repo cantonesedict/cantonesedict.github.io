@@ -441,7 +441,7 @@ W
   ====
 S
   ==
-  - $蒸zing3 (TODO)
+  - $蒸zing3
   ==
 $$
 
@@ -623,6 +623,7 @@ $$
 - $政3
 - $正3
 - $症3
+- $蒸3
 - $証3
 - $證3
 ==
@@ -862,6 +863,38 @@ W
 C
   ==
   - Williams' 急症: Better rendered "emergency case".
+  ==
+$$
+
+### 蒸3 | _Ching(3)_ [[zing3]]
+
+$$
+R
+  ⾋ + 10
+U
+  U+84B8
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~18* (1)蒸]]
+    --
+    [[...]]
+    --
+    --
+    Read _ching(3)_ [[**see $蒸zing3**]].
+    --
+    ==
+    - The hot reflection of the sun;
+    - the sun striking on one;
+    - _(i/)t(9) (4)t(')au ching(3) ch(u")(6)_
+        [[jit6 tau4-2 zing3 zyu6 熱頭蒸住]]
+        the sun strikes on me.
+    ==
+  ====
+S
+  ==
+  - $蒸zing1
   ==
 $$
 
