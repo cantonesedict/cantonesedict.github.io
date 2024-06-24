@@ -622,6 +622,7 @@ $$
 =={.modern}
 - $政3
 - $正3
+- $證3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -825,5 +826,52 @@ S
   ==
   - $正zeng3
   - $正zing1
+  ==
+$$
+
+### 證3 | _Ching(3)_ [[zing3]]
+
+$$
+R
+  ⾔ + 12
+U
+  U+8B49
+A
+  ==
+  - $証3
+  ==
+F
+  ==
+  - [[F1.72 証]] 騐也考也
+  - [[F1.72 證]] 騐也質也明也
+  ==
+W
+  ====
+  - [[Page~20* 證(3)]]
+    ==
+    - To prove, to confront, to testify;
+    - to substantiate;
+    - to prove by authorities;
+    - evidence;
+    - _ching(3) (4)yan_
+        [[zing3 jan4 證人]],
+        a witness;
+    - _ching(3) k(i/)n(3)_
+        [[zing3 gin3 證見]]
+        an eyewitness;
+    - _(1)kon ching(3)_
+        [[gon1 zing3 干證]]
+        a witness;
+    - _ching(3) (i/)m(6)_
+        [[zing3 jim6 證驗]]
+        to verify;
+    - _ching(3) k(u")[(3)]_
+        [[zing3 geoi3 證據]]
+        evidence.
+    ==
+  ====
+C
+  ==
+  - Williams' 證據: Corrected _k(u")(6)_ (geoi6) to _k(u")(3)_ (geoi3).
   ==
 $$
