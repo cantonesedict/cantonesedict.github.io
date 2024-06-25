@@ -64,6 +64,7 @@ $$
 - $正1
 - $烝1
 - $癥1
+- $睛1
 - $禎1
 - $蒸1
 - $貞1
@@ -441,6 +442,42 @@ C
   ==
   - Williams' 癥瘕: Corrected _(1)h(a/)_ (haa1) to _(2)k(a/)_ (gaa2).
   ==
+$$
+
+### 睛1 | _(1)Tsing_ [[zing1]]
+
+$$
+R
+  ⽬ + 8
+U
+  U+775B
+H
+  May appear as either ⿰目靑 or ⿰目青 (assumed here),
+  depending on the font.
+F
+  ==
+  - [[F1.67 睛]] 眼睛
+  ==
+W
+  ====
+  - [[Page~576 (1)睛]]
+    ==
+    - The ball of the eye;
+    - the pupil;
+    - _(5)ng(a/)n hak(7) (1)tsing_
+        [[ngaan5 hak1 zing1 眼黑睛]],
+        the iris;
+    - _p(a/)k(9) (1)tsing_
+        [[baak6 zing1 白睛]],
+        the white of the eye;
+    - _f(a/)t(8) (1)tsing (1)kwong_
+        [[faat3 zing1 gwong1 發睛光]],
+        night blindness;
+    - _muk(9) pat(7) (2)ch(u")n (1)tsing_
+        [[muk6 bat1 zyun2 zing1 目不轉睛]],
+        eyes fixed.
+    ==
+  ====
 $$
 
 ### 禎1 | _(1)Ching_ [[zing1]]
