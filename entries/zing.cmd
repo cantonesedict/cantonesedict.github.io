@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2024-06-24
+* %date-modified --> 2024-06-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -59,6 +59,7 @@ $$
 - $征1
 - $徵1
 - $旌1
+- $晶1
 - $楨1
 - $正1
 - $烝1
@@ -257,6 +258,50 @@ S
   ==
   - $旌sing1 (TODO)
   ==
+$$
+
+### 晶1 | _(1)Tsing_ [[zing1]]
+
+$$
+R
+  ⽇ + 8
+U
+  U+6676
+F
+  ==
+  - [[F1.67 晶]] 日之光也又水晶
+  ==
+W
+  ====
+  - [[Page~576 (1)晶]]
+    ==
+    - Lustre, brightness;
+    - clear, pure, light;
+    - crystal;
+    - crystaline;
+    - _(2)shui (1)tsing_
+        [[seoi2 zing1 水晶]],
+        quartz crystal;
+    - _(4)ch(')(a/) (1)tsing_
+        [[caa4 zing1 茶晶]],
+        tea-stone, cairngorm stone;
+    - _f(a/)t(8) (1)tsing_
+        [[faat3 zing1 髮晶]],
+        moss agate;
+    - _mak(9) (1)tsing_
+        [[mak6 zing1 墨晶]],
+        smoky quartz;
+    - _(4)hung (1)tsing_
+        [[hung4 zing1 紅晶]],
+        rose quartz;
+    - _(1)t(')(i/)n h(i/)(3) (1)tsing_
+        [[tin1 hei3 zing1 天氣晶]],
+        clear weather;
+    - _(2)shui (1)tsing (1)kung_
+        [[seoi2 zing1 gung1 水晶宮]],
+        Neptune's palace.
+    ==
+  ====
 $$
 
 ### 楨1 | _(1)Ching_ [[zing1]]
