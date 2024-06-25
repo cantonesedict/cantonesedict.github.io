@@ -24,6 +24,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [zing1](#1)
 - [zing2](#2)
 - [zing3](#3)
+- [zing6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -74,6 +75,11 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+--{.williams}
+[[Page~576, before the last entry for _(1)tsing_ (zing1)]]
+(The three next [[精, 井, 淨]] are often pronounced _tseng_ [[zeng]])
+--
 
 ### 偵1 | _(1)Ching_ [[zing1]]
 
@@ -713,6 +719,11 @@ $$
 (The two next characters [[整, 正]] are often pronounced _cheng_ [[zeng]].)
 --
 
+--{.williams}
+[[Page~576, before the last entry for _(1)tsing_ (zing1)]]
+(The three next [[精, 井, 淨]] are often pronounced _tseng_ [[zeng]])
+--
+
 ### 整2 | _(2)Ching_ [[zing2]]
 
 $$
@@ -1160,3 +1171,18 @@ C
   - Williams' 證據: Corrected _k(u")(6)_ (geoi6) to _k(u")(3)_ (geoi3).
   ==
 $$
+
+
+##{#6 .williams} Tsing(6) [[zing6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tone-6-characters ##>
+
+--{.williams}
+[[Page~576, before the last entry for _(1)tsing_ (zing1)]]
+(The three next [[精, 井, 淨]] are often pronounced _tseng_ [[zeng]])
+--
