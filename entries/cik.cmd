@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cik
-* %date-modified --> 2024-05-17
+* %date-modified --> 2024-06-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -393,7 +393,9 @@ $$
 
 --{.williams}
 [[Page~15*, before the lone entry for _ch(')ik(9)_ (cik6)]]
+  <br>
 (The next character [[尺]] is usually pronounced _ch(')ek_.)
+  <br>
 [[Here, Williams has been misled by Fan Wan's placement
 of 尺 (_ch(')ik_) in its own series
 *after* 劇屐 (_k(')ik(9)_) and 溺 (_nik(9)_), which are 陽入; see F1.78.

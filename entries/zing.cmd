@@ -77,7 +77,8 @@ $$
 <## /tone-1-characters ##>
 
 --{.williams}
-[[Page~576, before the last entry for _(1)tsing_ (zing1)]]
+[[Page~576, after 蜻 _(1)tsing_ (zing1)]]
+  <br>
 (The three next [[精, 井, 淨]] are often pronounced _tseng_ [[zeng]])
 --
 
@@ -716,11 +717,13 @@ $$
 
 --{.williams}
 [[Page~19*, before the entries for _(2)ching_ (zing2) and _ching(3)_ (zing3)]]
+  <br>
 (The two next characters [[整, 正]] are often pronounced _cheng_ [[zeng]].)
 --
 
 --{.williams}
-[[Page~576, before the last entry for _(1)tsing_ (zing1)]]
+[[Page~576, after 蜻 _(1)tsing_ (zing1)]]
+  <br>
 (The three next [[精, 井, 淨]] are often pronounced _tseng_ [[zeng]])
 --
 
@@ -835,6 +838,7 @@ $$
 
 --{.williams}
 [[Page~19*, before the entries for _(2)ching_ (zing2) and _ching(3)_ (zing3)]]
+  <br>
 (The two next characters [[整, 正]] are often pronounced _cheng_ [[zeng]].)
 --
 
@@ -1183,6 +1187,7 @@ $$
 <## /tone-6-characters ##>
 
 --{.williams}
-[[Page~576, before the last entry for _(1)tsing_ (zing1)]]
+[[Page~576, after 蜻 _(1)tsing_ (zing1)]]
+  <br>
 (The three next [[精, 井, 淨]] are often pronounced _tseng_ [[zeng]])
 --

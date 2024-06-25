@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2024-05-28
+* %date-modified --> 2024-06-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1113,6 +1113,7 @@ $$
 
 --{.williams}
 [[Page~563, before the three entries for _(4)ts(')au_ (cau4)]]
+  <br>
 (The three next [[$囚4, $酋4, $遒4]] are often read _ch(')au_.)
 --
 

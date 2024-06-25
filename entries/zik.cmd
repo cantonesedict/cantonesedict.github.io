@@ -853,6 +853,7 @@ $$
 
 --{.williams}
 [[Page~569, after 踖 _tsik(7)_ (zik1)]]
+  <br>
 (This [[脊]] and the next [[席, here corrected to 蓆]] are often read _tsek_.)
 --
 
@@ -1005,7 +1006,9 @@ $$
 
 --{.williams}
 [[Page~14*, before the last three entries for _chik(9)_ (zik6)]]
+  <br>
 (The three next characters [[隻, 蹠跖, 炙]] are usually pronounced _chek_.)
+  <br>
 [[Here, Williams has been misled by Fan Wan's placement of the three series
   跖蹠拓隻炙 (_chik_),
   尺 (_ch(')ik_), and
@@ -1023,6 +1026,7 @@ I have corrected Williams by placing 隻, 蹠跖, 炙, and 摭拓 under $zek3.]]
 
 --{.williams}
 [[Page~569, after 踖 _tsik(7)_ (zik1)]]
+  <br>
 (This [[脊]] and the next [[席, here corrected to 蓆]] are often read _tsek_.)
 --
 
