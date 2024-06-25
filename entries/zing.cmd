@@ -66,6 +66,7 @@ $$
 - $癥1
 - $睛1
 - $禎1
+- $菁1
 - $蒸1
 - $貞1
 - $鉦1
@@ -500,6 +501,38 @@ W
     - _(1)ching (4)ts(')(e/)ung_
         [[zing1 coeng4 禎祥]],
         a happy sign.
+    ==
+  ====
+$$
+
+### 菁1 | _(1)Tsing_ [[zing1]]
+
+$$
+R
+  ⾋ + 8
+U
+  U+83C1
+H
+  May appear as either ⿱艹靑 or ⿱艹青 (assumed here),
+  depending on the font.
+V
+  ==
+  - cing1 (common)
+  ==
+F
+  ==
+  - [[F1.67 菁]] 草盛也
+  ==
+W
+  ====
+  - [[Page~576 (1)菁]]
+    ==
+    - Scallion blossoms;
+    - a kind of three ribbed rush;
+    - flowery, elegant, flourishing;
+    - _(4)m(o\) (1)tsing_
+        [[mou4 zing1 蕪菁]]^
+        a sort of greens like mustard.
     ==
   ====
 $$

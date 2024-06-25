@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 6-stroke radicals
-* %date-modified --> 2024-06-24
+* %date-modified --> 2024-06-25
 * %copyright-prior-years -->
 * %meta-description --> index of characters with 6-stroke radicals
 
@@ -918,6 +918,7 @@ For all radicals, see [Index of characters by radical](./).
       - $菖coeng1
       - $萇coeng4
       - $菑zi1
+      - $菁zing1
       - $著zoek3
       - $著zoek6
       ==
