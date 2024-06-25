@@ -68,6 +68,7 @@ $$
 - $禎1
 - $菁1
 - $蒸1
+- $蜻1
 - $貞1
 - $鉦1
 ==
@@ -600,6 +601,39 @@ W
 S
   ==
   - $蒸zing3
+  ==
+$$
+
+### 蜻1 | _(1)Tsing_ [[zing1]]
+
+$$
+R
+  ⾍ + 8
+U
+  U+873B
+F
+  ==
+  - [[F1.67 蜻]] 蜻蜓
+  ==
+W
+  ====
+  - [[Page~576 (1)蜻]]
+    ==
+    - [[See $蜻cing1 for "dragonfly" senses]];
+    - _(1)tsing l(i/)t(9)_
+        [[zing1 lit6]]
+        a sort of cricket;
+    - [[...]].
+    ==
+  ====
+C
+  ==
+  - Fan Wan erroneously reads _(1)tsing_ (zing1) for 蜻 in 蜻蜓
+    (which Williams has followed).
+  ==
+S
+  ==
+  - $蜻cing1 (TODO)
   ==
 $$
 
