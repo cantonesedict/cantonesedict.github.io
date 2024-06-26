@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2024-06-25
+* %date-modified --> 2024-06-26
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -618,6 +618,9 @@ R
   ⾍ + 8
 U
   U+873B
+H
+  May appear as either ⿰虫靑 or ⿰虫青 (assumed here),
+  depending on the font.
 F
   ==
   - [[F1.67 蜻]] 蜻蜓
