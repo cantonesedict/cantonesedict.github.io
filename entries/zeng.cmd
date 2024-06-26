@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zeng1](#1)
+- [zeng2](#2)
 - [zeng3](#3)
 ==
 </nav>
@@ -91,6 +92,45 @@ W
 S
   ==
   - $精zing1
+  ==
+$$
+
+
+##{#2 .williams} (2)Tseng [[zeng2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $井2
+==
+</nav>
+<## /tone-2-characters ##>
+
+--{.williams}
+[[Page~576, after 蜻 _(1)tsing_ (zing1)]]
+  <br>
+(The three next [[精, 井, 淨]] are often pronounced _tseng_ [[zeng]])
+--
+
+### 井2 | _(2)Tseng_ [[zeng2]]
+
+$$
+R
+  ⼆ + 2
+U
+  U+4E95
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~576 (2)井]]
+    --
+    [[Reading variation. **See $井zing2 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $井zing2
   ==
 $$
 
