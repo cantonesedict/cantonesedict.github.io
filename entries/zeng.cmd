@@ -24,6 +24,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [zeng1](#1)
 - [zeng2](#2)
 - [zeng3](#3)
+- [zeng6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -171,5 +172,44 @@ S
   ==
   - $正zing1
   - $正zing3
+  ==
+$$
+
+
+##{#6 .williams} Tseng(6) [[zeng6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $淨6
+==
+</nav>
+<## /tone-6-characters ##>
+
+--{.williams}
+[[Page~576, after 蜻 _(1)tsing_ (zing1)]]
+  <br>
+(The three next [[精, 井, 淨]] are often pronounced _tseng_ [[zeng]])
+--
+
+### 淨6 | _Tseng(6)_ [[zeng6]]
+
+$$
+R
+  ⽔ + 8
+U
+  U+6DE8
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~576 淨(6)]]
+    --
+    [[Reading variation (vernacular adjective "clean"). **See $淨zing6 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $淨zing6
   ==
 $$

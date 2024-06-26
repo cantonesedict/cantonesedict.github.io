@@ -1288,8 +1288,9 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $淒cai1
       - $淺cin2
-      - $淄zi1
+      - $淨zeng6
       - $淨zing6
+      - $淄zi1
       ==
       </nav>
   //
