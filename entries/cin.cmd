@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cin
-* %date-modified --> 2024-06-06
+* %date-modified --> 2024-06-26
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -693,7 +693,7 @@ U
   U+9322
 V
   ==
-  - cin4-2 (vernacular "money" sense)
+  - cin4-2 (vernacular for "money" sense)
   ==
 F
   ==
