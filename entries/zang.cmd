@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-06-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -83,7 +83,7 @@ W
     - Cold, shivering.
     ==
     --
-    Incorrectly but commonly used for 淨 _tsing(6)_ [[zing6]] clean [[**see $淨zing6**]]. [[TODO]]
+    Incorrectly but commonly used for 淨 _tsing(6)_ [[zing6]] clean [[**see $淨zing6**]].
     --
   ====
 C

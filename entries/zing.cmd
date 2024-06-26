@@ -1345,6 +1345,7 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $淨6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -1354,3 +1355,68 @@ $$
   <br>
 (The three next [[精, 井, 淨]] are often pronounced _tseng_ [[zeng]])
 --
+
+### 淨6 | _Tsing(6)_ [[zing6]]
+
+$$
+R
+  ⽔ + 8
+U
+  U+6DE8
+A
+  ==
+  - $凈6
+  ==
+V
+  ==
+  - zeng6 (vernacular adjective "clean")
+  ==
+F
+  ==
+  - [[F1.73 淨]] ::[潔]淨不汚也::
+  ==
+W
+  ====
+  - [[Page~576 淨(6)]]
+    ==
+    - Clean, pure, spotless, undefiled;
+    - upright, guileless;
+    - to wash clean, to cleanse;
+    - only;
+    - all;
+    - a rapids in the R.~H(a/)n [[漢]];
+    - _(1)kon tseng(6)_
+        [[gon1 zeng6 乾淨]]
+        clean, pure;
+    - _k(i/)t(8) tseng(6)_
+        [[git3 zeng6 潔淨]]
+        clean, to purify one's heart;
+    - _tsing(6) [(5)ch(')ung]_
+        [[zing6 cung5 淨重]]^
+        the nett weight;
+    - _tseng(6) (2)shui (4)f(u/)_
+        [[zeng6 seoi2 fu4]],
+        a cleansing charm, used in houses;
+    - _yat(7) ko(3) (1)t(o\) h(u")(3) (1)kon tseng(6)_
+        [[jat1 go3 dou1 heoi3 gon1 zeng6 一個都去乾淨]]
+        every one has gone.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 𠎧 (⿰亻絜) to 潔.
+  - Williams' 淨重: Corrected _chung(6)_ (zung6 去聲) to _(5)ch(')ung_ (cung5 上聲).
+  ==
+E
+  ====
+  - 【淨】 (zing6):
+    ++
+    1. Purely, only.
+       ==
+       - 淨麵 (zing6 min6): "Only noodles."
+       - 淨魚蛋 (zing6 jyu4 daan6-2): "Only fish-balls" (i.e. without noodles).
+       - 淨食餸 (zing6 sik6 sung3): "Only eating dishes" (i.e. without rice).
+       ==
+    ++
+  ====
+$$
