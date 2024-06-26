@@ -810,6 +810,7 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $井2
 - $整2
 ==
 </nav>
@@ -826,6 +827,68 @@ $$
   <br>
 (The three next [[精, 井, 淨]] are often pronounced _tseng_ [[zeng]])
 --
+
+### 井2 | _(2)Tsing_ [[zing2]]
+
+$$
+R
+  ⼆ + 2
+U
+  U+4E95
+V
+  ==
+  - zeng2 (alternative)
+  ==
+F
+  ==
+  - [[F1.72 井]] 穴地出泉曰井
+  ==
+W
+  ====
+  - [[Page~576 (2)井]]
+    ==
+    - A well;
+    - a deep pit;
+    - a field laid out regularly;
+    - to draw water;
+    - arranged, laid out regularly;
+    - _(2)tseng (2)shui_
+        [[zeng2 seoi2 井水]],
+        well water;
+    - _(5)sh(i/) (2)tseng_
+        [[si5 zeng2 市井]],
+        a public market;
+    - _(5)sh(i/) (2)tseng (1)ch(i/) (4)t(')(o\)_
+        [[si5 zeng2 zi1 tou4 市井之徒]],
+        a worthless loafer;
+    - _(1)t(')(i/)n (2)tseng_
+        [[tin1 zeng2 天井]],
+        an open court;
+    - _tso(6) (2)tseng (1)k(u/)n (1)t(')(i/)n_
+        [[zo6 zeng2 gun1 tin1 坐井觀天]],
+        to look at the sky from a well---inexperienced;
+    - _(2)tseng (4)l(a/)n_
+        [[zeng2 laan4 井欄]],
+        a well-curb;
+    - _(2)tseng (2)tseng (5)yau (4)t(')i(u/)_
+        [[zeng2 zeng2 jau5 tiu4 井井有條]],
+        all in order, do it methodically;
+    - _(1)hoi (2)tseng_
+        [[hoi1 zeng2 開井]],
+        to dig a well;
+    - _yat(7) (2)tseng t(i/)(6)_
+        [[jat1 zeng2 dei6 一井地]]
+        a square rood of land;
+    - _(4)t(')(o\) (2)k(u/) (2)tseng_
+        [[tou4 gu2 zeng2 淘古井]],
+        to rinse the old well, _i.~e._ to marry a rich widow.
+    ==
+  ====
+S
+  ==
+  - $井zeng2 (TODO)
+  ==
+$$
 
 ### 整2 | _(2)Ching_ [[zing2]]
 
