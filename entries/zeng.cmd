@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeng
-* %date-modified --> 2024-06-24
+* %date-modified --> 2024-06-26
 * %copyright-prior-years -->
 
 %%%
@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [zeng1](#1)
 - [zeng3](#3)
 ==
 </nav>
@@ -30,7 +31,7 @@ $$
 WH
   ==
   - Cheng. [[Page~19* implied]]
-  - Tseng. [[Page~565]]
+  - Tseng. [[Page~565, Page~576 implied]]
   ==
 WP
   ==
@@ -52,6 +53,48 @@ C
 $$
 
 
+##{#1 .williams} (1)Tseng [[zeng1 陰平]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $精1
+==
+</nav>
+<## /tone-1-characters ##>
+
+--{.williams}
+[[Page~576, after 蜻 _(1)tsing_ (zing1)]]
+  <br>
+(The three next [[精, 井, 淨]] are often pronounced _tseng_ [[zeng]])
+--
+
+### 精1 | _(1)Tseng_ [[zeng1]]
+
+$$
+R
+  ⽶ + 8
+U
+  U+7CBE
+H
+  May appear as either ⿰米靑 or ⿰米青 (assumed here),
+  depending on the font.
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~576 (1)精]]
+    --
+    [[Reading variation (vernacular for "clever" sense). **See $精zing1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $精zing1
+  ==
+$$
+
+
 ##{#3 .williams} Cheng(3) [[zeng3 陰去]]
 
 <## tone-3-characters ##>
@@ -61,6 +104,12 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+--{.williams}
+[[Page~19*, before the entries for _(2)ching_ (zing2) and _ching(3)_ (zing3)]]
+  <br>
+(The two next characters [[整, 正]] are often pronounced _cheng_ [[zeng]].)
+--
 
 ### 正3 | _Cheng(3)_ [[zeng3]]
 
