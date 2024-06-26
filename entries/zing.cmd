@@ -67,6 +67,7 @@ $$
 - $癥1
 - $睛1
 - $禎1
+- $精1
 - $菁1
 - $蒸1
 - $蜻1
@@ -511,6 +512,102 @@ W
         a happy sign.
     ==
   ====
+$$
+
+### 精1 | _(1)Tsing_ [[zing1]]
+
+$$
+R
+  ⽶ + 8
+U
+  U+7CBE
+H
+  May appear as either ⿰米靑 or ⿰米青 (assumed here),
+  depending on the font.
+V
+  ==
+  - zeng1 (vernacular for "clever" sense)
+  ==
+F
+  ==
+  - [[F1.67 精]] 妙也細也純也靈也壯也熟也
+  ==
+W
+  ====
+  - [[Page~576 (1)精]]
+    ==
+    - Cleaned rice;
+    - selected, ripe, mature;
+    - fine, subtle, delicate;
+    - the best, the finest;
+    - unmixed, devoted to, accustomed to, expert at;
+    - skillful, as in strategy;
+    - the pure parts of anything, etherial, subtle;
+    - the essence of things;
+    - it is prefixed to other adjectives to show a high degree of;
+    - the animal spirits;
+    - the semen, the germinating principle of nature;
+    - an apparition, form taken by spirits;
+    - _(2)h(o\) (1)tsing (4)shan_
+        [[hou2 zing1 san4 好精神]],
+        in good spirits, smart;
+    - _(1)tsing (1)ping_
+        [[zing1 bing1 精兵]],
+        flower of the troops, picked men;
+    - _(4)lung (5)m(a/) (1)tsing (4)shan_
+        [[lung4 maa5 zing1 san4 龍馬精神]],
+        bright as a steed or dragon;
+    - _(1)tseng [(2)]kong t(a/)i(6) w(a/)(6)_
+        [[zeng1 gong2 daai6 waa6 精講大話]]
+        very clever at lying;
+    - _(5)k(')(u") hai(6) (1)tseng_
+        [[keoi5 hai6 zeng1 佢係精]]^
+        he's smart enough;
+    - _(1)tsing yuk(9)_
+        [[zing1 juk6 精肉]]
+        lean meat;
+    - _(1)tsing h(i/)(3)_
+        [[zing1 hei3 精氣]]
+        ether, the essence of;
+        influence, pure, the quintessence;
+    - _(1)tsing ch(i/)(3)_
+        [[zing1 zi3 精緻]]
+        beautiful, handsome;
+    - _(1)[tseng] (1)kw(a/)i_
+        [[zeng1 gwaai1 精乖]],
+        very clever at;
+    - _(1)tsing kw(a/)i(3)_
+        [[zing1 gwaai3 精怪]]
+        an elf;
+        spirit rappings, prodigies;
+    - _(4)wai (1)tsing_
+        [[wai4 zing1 遺精]],
+        [involuntary] emissions;
+    - _(5)n(i/) (1)tseng (5)ngo (4)'m (4)ngoi_
+        [[nei5 zeng1 ngo5 m4 ngoi4 你精我唔呆]],
+        if you are cute, I'm not a fool;
+    - _(1)tseng [lat](7) (1)p(i/)n_
+        [[zeng1 lat1 bin1 精甩辮]],
+        smart as a steel-trap;
+    - _(1)tseng (2)tsai_
+        [[zeng1 zai2 精仔]],
+        a shrewd fellow;
+    - _(1)tseng tau(3) (1)tseng_
+        [[zeng1 dau3 zeng1 精鬥精]],
+        met his match.
+    ==
+  ====
+C
+  ==
+  - Williams' 精講大話: Corrected _kong(3)_ (gong3) to _(2)kong_ (gong2).
+  - Williams' 精乖: Changed _(1)tsing_ (zing1)
+    to vernacular reading _(1)tseng_ (zeng1).
+  - Williams' 精甩辮: Corrected _lut(7)_ (leot1) to _lat(7)_ (lat1).
+  ==
+S
+  ==
+  - $精zeng1 (TODO)
+  ==
 $$
 
 ### 菁1 | _(1)Tsing_ [[zing1]]
