@@ -1346,6 +1346,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $淨6
+- $穽6
 - $鄭6
 - $靖6
 - $靚6
@@ -1426,6 +1427,31 @@ E
 S
   ==
   - $淨zeng6
+  ==
+$$
+
+### 穽6 | _Tsing(6)_ [[zing6]]
+
+$$
+R
+  ⽳ + 4
+U
+  U+7A7D
+F
+  ==
+  - [[F1.73 阱]] 地坑坎也
+  - [[F1.73 穽]] 同上
+  ==
+W
+  ====
+  - [[Page~577 穽(6)阱(6)]]
+    --
+    [[Alternative form of 阱. **See $阱zing6 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $穽zeng6 (TODO)
   ==
 $$
 
