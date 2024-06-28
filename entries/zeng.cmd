@@ -184,6 +184,7 @@ $$
 - $淨6
 - $穽6
 - $鄭6
+- $阱6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -273,5 +274,26 @@ C
 S
   ==
   - $鄭zing6
+  ==
+$$
+
+###+ 阱6 | _Tseng(6)_ (zeng6)
+
+$$
+R
+  ⾩ + 4
+U
+  U+9631
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation (vernacular). **See $阱zing6 for the canonical entry.**
+  ==
+S
+  ==
+  - $阱zing6
   ==
 $$

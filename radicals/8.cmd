@@ -279,8 +279,9 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $阨aak1
       - $阨ak1
-      - $阯zi2
+      - $阱zeng6
       - $阱zing6
+      - $阯zi2
       ==
       </nav>
   //
