@@ -1348,6 +1348,7 @@ $$
 - $淨6
 - $穽6
 - $鄭6
+- $阱6
 - $靖6
 - $靚6
 - $靜6
@@ -1481,6 +1482,48 @@ C
 S
   ==
   - $鄭zeng6
+  ==
+$$
+
+### 阱6 | _Tsing(6)_ [[zing6]]
+
+$$
+R
+  ⾩ + 4
+U
+  U+9631
+A
+  ==
+  - $穽6
+  ==
+V
+  ==
+  - zeng6 (vernacular)
+  ==
+F
+  ==
+  - [[F1.73 阱]] 地坑坎也
+  - [[F1.73 穽]] 同上
+  ==
+W
+  ====
+  - [[Page~577 穽(6)阱(6)]]
+    ==
+    - A pit, a pitfall, a hole to catch beasts in;
+    - to fall into a pit;
+    - _h(a/)m(6) tsing(6)_
+        [[haam6 zing6 陷阱]]
+        to tumble into a hole.
+    ==
+  ====
+C
+  ==
+  - Williams' 陷阱: In modern usage, only used as a noun.
+    Note 陷 is commonly read short as _ham(6)_ (ham6).
+  ==
+S
+  ==
+  - $阱zeng6 (TODO)
   ==
 $$
 
