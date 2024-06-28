@@ -1347,6 +1347,7 @@ $$
 =={.modern}
 - $淨6
 - $鄭6
+- $靖6
 - $靚6
 - $靜6
 ==
@@ -1455,6 +1456,39 @@ S
   ==
   - $鄭zeng6
   ==
+$$
+
+### 靖6 | _Tsing(6)_ [[zing6]]
+
+$$
+R
+  ⾭ + 5
+U
+  U+9756
+H
+  May appear as either ⿰立靑 or ⿰立青 (assumed here),
+  depending on the font.
+F
+  ==
+  - [[F1.73 靖]] 安也又謀也理也審也
+  ==
+W
+  ====
+  - [[Page~577 靖(6)]]
+    ==
+    - To become clean and quiet;
+    - small, fine;
+    - to plan, to think carefully on;
+    - to tranquillize, to restore peace, to clear, as the sea from pirates;
+    - to regulate, to settle disturbances;
+    - _t(i/)(6) (1)fong (1)on tsing(6)_
+        [[dei6 fong1 on1 zing6 地方安靖]]
+        the land is now quiet;
+    - _tsing(6) yik(9)_
+        [[zing6 jik6 靖逆]]
+        to put down the rebels.
+    ==
+  ====
 $$
 
 ### 靚6 | _Tsing(6)_ [[zing6]]

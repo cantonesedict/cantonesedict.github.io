@@ -470,6 +470,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Character entry links
 |:
   //
+    , 5
+    ,
+      <nav class="sideways">
+      ==
+      - $靖zing6
+      ==
+      </nav>
+  //
     , 7
     ,
       <nav class="sideways">
