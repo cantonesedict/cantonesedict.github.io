@@ -182,6 +182,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $淨6
+- $穽6
 - $鄭6
 ==
 </nav>
@@ -212,6 +213,27 @@ W
 S
   ==
   - $淨zing6
+  ==
+$$
+
+###+ 穽6 | _Tseng(6)_ (zeng6)
+
+$$
+R
+  ⽳ + 4
+U
+  U+7A7D
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Alternative form of 阱, and reading variation (vernacular). **See $阱zing6 for the canonical entry.**
+  ==
+S
+  ==
+  - $穽zing6
   ==
 $$
 
