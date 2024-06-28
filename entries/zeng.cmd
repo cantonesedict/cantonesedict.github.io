@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeng
-* %date-modified --> 2024-06-26
+* %date-modified --> 2024-06-28
 * %copyright-prior-years -->
 
 %%%
@@ -182,6 +182,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $淨6
+- $鄭6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -211,5 +212,44 @@ W
 S
   ==
   - $淨zing6
+  ==
+$$
+
+###+ 鄭6 | _Cheng(6)_ (zeng6)
+
+$$
+R
+  ⾢ + 12
+U
+  U+912D
+V
+  ==
+  - zing6 (uncommon)
+  ==
+F
+  ==
+  - [[F1.74 鄭]] 國名又鄭重
+  ==
+W
+  ====
+  - [[Page~21* 鄭(6) _Ch(')ing(6)_ (cing6); here corrected to _Ching(6)_ (zing6) and normalised to _Cheng(6)_ (zeng6)]]
+    ==
+    - A feudal state in the Chau [[周]] dynasty,
+      now the prefecture of K(a/)ifung [[開封]] in Hon(a/)n [[河南]];
+    - it was first placed where the capital of Shens(i/) [[陝西]] lies;
+    - _[cheng](6) chung(6)_
+        [[zeng6 zung6 鄭重]]
+        prudent, inflexible.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Removed extra character 又 at the end.
+  - Williams erroneously puts 鄭 under aspirated _ch(')ing(6)_ (cing6).
+  - Williams' 鄭重: In modern usage, only "solemn".
+  ==
+S
+  ==
+  - $鄭zing6
   ==
 $$
