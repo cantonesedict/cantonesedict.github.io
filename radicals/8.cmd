@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 8-stroke radicals
-* %date-modified --> 2024-06-17
+* %date-modified --> 2024-06-28
 * %copyright-prior-years -->
 * %meta-description --> index of characters with 8-stroke radicals
 
@@ -462,6 +462,23 @@ For all radicals, see [Index of characters by radical](./).
 ## ⾭ (blue)
 
 <## radical-⾭-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 8
+    ,
+      <nav class="sideways">
+      ==
+      - $靜zing6
+      ==
+      </nav>
+''
+||||
 <## /radical-⾭-characters ##>
 
 

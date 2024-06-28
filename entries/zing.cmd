@@ -1347,6 +1347,7 @@ $$
 =={.modern}
 - $淨6
 - $鄭6
+- $靜6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -1453,4 +1454,56 @@ S
   ==
   - $鄭zeng6
   ==
+$$
+
+### 靜6 | _Tsing(6)_ [[zing6]]
+
+$$
+R
+  ⾭ + 8
+U
+  U+975C
+H
+  May appear as either ⿰靑爭 or ⿰青爭 (assumed here),
+  depending on the font.
+F
+  ==
+  - [[F1.73 靜]] 寂也定也
+  ==
+W
+  ====
+  - [[Page~577 靜(6)]]
+    ==
+    - Still, silent, impassible, imperturbable;
+    - at rest, quiet;
+    - peaceable, mild;
+    - pure, like a pool;
+    - no bustle;
+    - to judge;
+    - to ponder, to meditate on;
+    - to desist;
+    - _(1)sam (2)shui tsing(6)_
+        [[sam1 seoi2 zing6 心水靜]]
+        contented, patient;
+    - _tsing(6) t(o\)(3) (5)li(u/) pat(7) tak(7)_
+        [[zing6 dou3 liu5 bat1 dak1 靜到了不得]]
+        very still;
+    - _tsing(6) (5)y(e/)ung_
+        [[zing6 joeng5 靜養]],
+        to cultivate quiet, to nurse one's self at home;
+    - _tsing(6) tsing(6) t(i/)(6)_
+        [[zing6 zing6 dei6 靜靜地]]
+        keep quiet;
+    - _tsing(6) (1)si(u/) (1)si(u/)_
+        [[zing6 siu1 siu1 靜蕭蕭]],
+        solitary;
+        no business, no bustle;
+    - _(4)p(')ing tsing(6)_
+        [[ping4 zing6 平靜]]
+        at peace, as a country;
+    - _y(e/)(6) tsing(6)_
+        [[je6 zing6 夜靜]]
+        the stilly night.
+    ==
+  ====
 $$
