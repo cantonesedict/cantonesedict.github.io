@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2024-06-26
+* %date-modified --> 2024-06-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1346,6 +1346,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $淨6
+- $鄭6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -1422,5 +1423,34 @@ E
 S
   ==
   - $淨zeng6
+  ==
+$$
+
+### 鄭6 | _[Ching](6)_ [[zing6]]
+
+$$
+R
+  ⾢ + 12
+U
+  U+912D
+F
+  ==
+  - [[F1.74 鄭]] 國名又鄭重
+  ==
+W
+  ====
+  - [[Page~21* 鄭(6) _Ch(')ing(6)_ (cing6); here corrected to _Ching(6)_ (zing6)]]
+    --
+    [[Reading variation. **See $鄭zeng6 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Removed extra character 又 at the end.
+  - Williams erroneously puts 鄭 under aspirated _ch(')ing(6)_ (cing6).
+  ==
+S
+  ==
+  - $鄭zeng6 (TODO)
   ==
 $$
