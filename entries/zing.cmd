@@ -1347,6 +1347,7 @@ $$
 =={.modern}
 - $淨6
 - $鄭6
+- $靚6
 - $靜6
 ==
 </nav>
@@ -1453,6 +1454,46 @@ C
 S
   ==
   - $鄭zeng6
+  ==
+$$
+
+### 靚6 | _Tsing(6)_ [[zing6]]
+
+$$
+R
+  ⾭ + 7
+U
+  U+975A
+H
+  May appear as either ⿰靑見 or ⿰青見 (assumed here),
+  depending on the font.
+F
+  ==
+  - [[F1.73 靚]] 女容徐靚粉白黛黑謂之靚粧
+  ==
+W
+  ====
+  - [[Page~577 靚(6)]]
+    --
+    Often pronounced _leng[(3)]_ [[leng3]] in Canton [[**see $靚leng3**]].
+    --
+    ==
+    - To call, to invite;
+    - to allure;
+    - to ornament, to bedizen;
+    - still;
+    - _tsing(6) shik(7)_
+        [[zing6 sik1 靚飾]]
+        dark eyebrows and clear skin.
+    ==
+  ====
+C
+  ==
+  - Williams' alternative reading: Corrected _leng(6)_ (leng6) to _leng(3)_ (leng3).
+  ==
+S
+  ==
+  - $靚leng3 (TODO)
   ==
 $$
 
