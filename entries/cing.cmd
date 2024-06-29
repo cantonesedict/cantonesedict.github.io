@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2023-08-02
-* %copyright-prior-years -->
+* %date-modified --> 2024-06-29
+* %copyright-prior-years --> 2023--
 
 %%%
-
---{.modern}
-(From Page~20* (Ch(')ing) and Page~577 (Ts(')ing) of the original onwards.)
---
 
 #{.williams} Ch(')ing. Ts(')ing. [[cing]]
 
@@ -21,3 +17,31 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Ch(')ing. [[Page~20*]]
+  - Ts(')ing. [[Page~577]]
+  ==
+WP
+  ==
+  - Ch(')ing <span class="modern">= [tɕʰeŋ]</span>
+  - Ts(')ing <span class="modern">= [tsʰeŋ]</span>
+  ==
+MP
+  ==
+  - cing = [tsʰeŋ] ((preferred)), [tɕʰeŋ]
+  ==
+S
+  ==
+  - $ceng (TODO)
+  ==
+$$
