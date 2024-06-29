@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [cing1](#1)
+- [cing4](#4)
 ==
 </nav>
 <## /tones ##>
@@ -154,5 +155,88 @@ C
 S
   ==
   - $稱cing3 (TODO)
+  ==
+$$
+
+
+##{#4 .williams} (4)Ch(')ing (4)Ts(')ing [[cing4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways">
+=={.modern}
+- $程4
+==
+</nav>
+<## /tone-4-characters ##>
+
+### 程4 | _(4)Ch(')ing_ [[cing4]]
+
+$$
+R
+  ⽲ + 7
+U
+  U+7A0B
+F
+  ==
+  - [[F1.69 程]] 限期也又程式課程路程
+  ==
+W
+  ====
+  - [[Page~20* (4)程]]
+    ==
+    - The 1⁄100th part of a _ts(')(u")n(3)_ [[cyun3]];
+    - a portion or percentage;
+    - a rule, a pattern, a regulation, to rule;
+    - a limit, a period;
+    - a job or measure;
+    - an allowance;
+    - a part;
+    - a road, a journey;
+    - to travel;
+    - _(4)ch(')ing sh(o\)(3)_
+        [[cing4 sou3 程數]]
+        a percentage on one's accounts;
+    - _sung(3) (4)ch(')ing (4)(i/)_
+        [[sung3 cing4 ji4 送程儀]],
+        to give one his traveling expenses;
+    - _(2)h(i/) (4)ch(')ing_
+        [[hei2 cing4 起程]],
+        to start on a journey;
+    - _h(a/)n(6) (4)ch(')ing_
+        [[haan6 cing4 限程]],
+        a day's journey;
+    - _(1)k(i/)m (4)ch(')ing_
+        [[gim1 cing4 兼程]],
+        a forced march, a rapid journey;
+    - _kok(8) k(u/)(3) (4)ts(')(i/)n (4)ch(')ing_
+        [[gok3 gu3 cin4 cing4 各顧前程]],
+        each regards his future preferment;
+    - _f(a/)i(3) (4)ch(')ing_
+        [[faai3 cing4 快程]],
+        to travel fast;
+    - _(4)ch(')ing shik(7)_
+        [[cing4 sik1 程式]]
+        a form;
+    - _(4)m(o\) (4)ch(')ing shik(7)_
+        [[mou4 cing4 sik1 無程式]]
+        nothing to compare it to;
+    - _(2)kau (4)ch(')ing (2)kau (1)t(o\) (5)yau_
+        [[gau2 cing4 gau2 dou1 jau5 九程九都有]],
+        most probably, ten to one it will;
+    - _yat(7) (4)ch(')ing_
+        [[jat1 cing4 一程]],
+        a tenth;
+    - _tak[(7)] (1)f(a/)n (2)kau (4)ch(')ing p(u/)n(3)_
+        [[dak1 faan1 gau2 cing4 bun3 得返九程半]]
+        got back 95~per cent.;
+    - _pat(7) (4)ch(')ing (4)k(')(i/) lik(9)_
+        [[bat1 cing4 kei4 lik6 不程其力]]
+        I wrongly estimated his strength.
+    ==
+  ====
+C
+  ==
+  - Williams' 九程九都有: Better rendered "nine out of nine" than "ten to one".
+  - Williams' 得返九程半: Corrected _tak(9)_ (dak6) to _tak(7)_ (dak1).
   ==
 $$
