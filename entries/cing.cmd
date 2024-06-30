@@ -167,6 +167,7 @@ $$
 =={.modern}
 - $裎2
 - $逞2
+- $郢2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -240,6 +241,30 @@ W
 C
   ==
   - Williams' 不逞之徒: Corrected _(4)t(o\)_ (dou4) to _(4)t(')(o\)_ (tou4).
+  ==
+$$
+
+### 郢2 | _(2)Ch(')ing_ [[cing2]]
+
+$$
+R
+  ⾢ + 7
+U
+  U+90E2
+F
+  ==
+  - [[F1.71 郢]] 地名
+  ==
+W
+  ====
+  - [[Page~21* (2)郢]]
+    --
+    [[Reading variation. **See $郢jing5 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - $郢jing5 (TODO)
   ==
 $$
 
