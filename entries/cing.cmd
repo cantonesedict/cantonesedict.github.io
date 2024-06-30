@@ -166,6 +166,7 @@ $$
 =={.modern}
 - $呈4
 - $程4
+- $裎4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -291,5 +292,40 @@ C
   ==
   - Williams' 九程九都有: Better rendered "nine out of nine" than "ten to one".
   - Williams' 得返九程半: Corrected _tak(9)_ (dak6) to _tak(7)_ (dak1).
+  ==
+$$
+
+### 裎4 | _(4)Ch(')ing_ [[cing4]]
+
+$$
+R
+  ⾐ + 7
+U
+  U+88CE
+F
+  ==
+  - [[F1.69 裎]] 裸裎露身也
+  ==
+W
+  ====
+  - [[Page~21* (4)裎]]
+    ==
+    - The upper part of the body;
+    - naked;
+    - to disrobe one's self;
+    - a girdle;
+    - _[(2)]lo (4)ch(')ing_
+        [[lo2 cing4 裸裎]],
+        naked.
+    ==
+  ====
+C
+  ==
+  - Williams' 裸裎: Changed Middle Chinese _(5)lo_ (lo5)
+    to common reading _(2)lo_ (lo2).
+  ==
+S
+  ==
+  - $裎cing2 (TODO)
   ==
 $$
