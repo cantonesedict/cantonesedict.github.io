@@ -167,6 +167,7 @@ $$
 =={.modern}
 - $拯2
 - $裎2
+- $赬2
 - $逞2
 - $郢2
 ==
@@ -227,6 +228,30 @@ C
 S
   ==
   - $裎cing4
+  ==
+$$
+
+### 赬2 | _(2)Ch(')ing_ [[cing2]]
+
+$$
+R
+  ⾚ + 9
+U
+  U+8D6C
+F
+  ==
+  - [[F1.71 頳]] 赤色
+  ==
+W
+  ====
+  - [[Page~21* (2)赬]]
+    --
+    [[Idiosyncratic reading from Fan Wan. **See $赬cing1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $赬cing1 (TODO)
   ==
 $$
 
