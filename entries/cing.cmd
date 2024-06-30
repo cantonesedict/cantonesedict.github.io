@@ -165,10 +165,36 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $裎2
 - $逞2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+###+ 裎2 | _(2)Ch(')ing_ (cing2)
+
+$$
+R
+  ⾐ + 7
+U
+  U+88CE
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - The reading _(2)ch(')ing_ (cing2) for 裎 is not present in Williams;
+    an entry is included here for completeness.
+    ++
+    1. An unlined garment.
+    ++
+  ==
+S
+  ==
+  - $裎cing4
+  ==
+$$
 
 ### 逞2 | _(2)Ch(')ing_ [[cing2]]
 
@@ -540,7 +566,7 @@ C
   ==
 S
   ==
-  - $裎cing2 (TODO)
+  - $裎cing2
   ==
 $$
 
