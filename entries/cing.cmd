@@ -165,6 +165,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $呈4
+- $埕4
 - $程4
 - $裎4
 ==
@@ -221,6 +222,39 @@ C
   ==
   - Williams' 呈子: Corrected _(2)sz'_ (si2) to _(2)tsz'_ (zi2).
   ==
+$$
+
+### 埕4 | _(4)Ch(')ing_ [[cing4]]
+
+$$
+R
+  ⼟ + 7
+U
+  U+57D5
+F
+  ==
+  - [[F1.69 埕]] 瓦器
+  ==
+W
+  ====
+  - [[Page~21* (4)埕]]
+    --
+    An unauthorized character.
+    --
+    ==
+    - An amphora or earthen jar of a pear shape, without handles,
+      for carrying water, oil, or spirits;
+    - _(2)shui (4)ch(')ing_
+        [[seoi2 cing4 水埕]],
+        a water jar;
+    - _yat(7) (4)ch(')ing (4)yau_
+        [[jat1 cing4 jau4 一埕油]],
+        a jar of oil;
+    - _kwai(3) (4)lam (4)ch(')ing_
+        [[gwai3 lam4 cing4 桂林埕]],
+        large jars from Kw(a/)ngs(i/) [[廣西]].
+    ==
+  ====
 $$
 
 ### 程4 | _(4)Ch(')ing_ [[cing4]]

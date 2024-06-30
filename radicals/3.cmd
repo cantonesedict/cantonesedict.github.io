@@ -303,6 +303,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $埕cing4
       - $堲zik1
       ==
       </nav>
