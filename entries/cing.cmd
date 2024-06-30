@@ -168,6 +168,7 @@ $$
 - $埕4
 - $程4
 - $裎4
+- $酲4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -362,4 +363,26 @@ S
   ==
   - $裎cing2 (TODO)
   ==
+$$
+
+### 酲4 | _(4)Ch(')ing_ [[cing4]]
+
+$$
+R
+  ⾣ + 7
+U
+  U+9172
+F
+  ==
+  - [[F1.69 酲]] 酒病也
+  ==
+W
+  ====
+  - [[Page~21* (4)酲]]
+    ==
+    - To drink till sick and drunk;
+    - half sobered, and ashamed at being drunk;
+    - feelings after a bout.
+    ==
+  ====
 $$
