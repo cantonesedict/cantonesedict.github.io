@@ -166,6 +166,7 @@ $$
 =={.modern}
 - $呈4
 - $埕4
+- $懲4
 - $程4
 - $裎4
 - $酲4
@@ -254,6 +255,39 @@ W
     - _kwai(3) (4)lam (4)ch(')ing_
         [[gwai3 lam4 cing4 桂林埕]],
         large jars from Kw(a/)ngs(i/) [[廣西]].
+    ==
+  ====
+$$
+
+### 懲4 | _(4)Ch(')ing_ [[cing4]]
+
+$$
+R
+  ⼼ + 15
+U
+  U+61F2
+A
+  ==
+  - $惩4
+  ==
+F
+  ==
+  - [[F1.69 懲]] 懲治懲戒懲創
+  ==
+W
+  ====
+  - [[Page~21* (4)惩(4)懲]]
+    ==
+    - To repress, to curb;
+    - to warn;
+    - to reprove, to reprimand;
+    - a warning, a caution, a lesson;
+    - _(2)si(u/) (4)ch(')ing_
+        [[siu2 cing4 小懲]],
+        an admonitory hint;
+    - _(4)ch(')ing ch(i/)(6)_
+        [[cing4 zi6 懲治]]
+        to govern strictly.
     ==
   ====
 $$
