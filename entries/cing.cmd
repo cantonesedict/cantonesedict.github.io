@@ -168,6 +168,7 @@ $$
 - $埕4
 - $惩4
 - $懲4
+- $澄4
 - $瞪4
 - $程4
 - $裎4
@@ -313,6 +314,41 @@ W
 C
   ==
   - Williams' 懲治: To punish, not necessarily in relation to governance.
+  ==
+$$
+
+### 澄4 | _(4)Ch(')ing_ [[cing4]]
+
+$$
+R
+  ⽔ + 12
+U
+  U+6F84
+F
+  ==
+  - [[F1.69 澄]] 澄淸
+  ==
+W
+  ====
+  - [[Page~21* (4)澄]]
+    ==
+    - Still water;
+    - limpid, clear;
+    - _(4)ch(')ing (1)ts(')ing_
+        [[cing4 cing1 澄清]],
+        pure, still.
+    ==
+    --
+    Also colloquially called _tang(6)_ [[dang6]] [[**see $澄dang6**]].
+    --
+  ====
+C
+  ==
+  - Williams' 澄清: In modern usage, usually only used in the verb sense "clarify".
+  ==
+S
+  ==
+  - $澄dang6 (TODO)
   ==
 $$
 
