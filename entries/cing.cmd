@@ -57,6 +57,7 @@ $$
 =={.modern}
 - $秤1
 - $稱1
+- $赬1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -159,6 +160,32 @@ S
   ==
 $$
 
+###+ 赬1 | _(1)Ch(')ing_ (cing1)
+
+$$
+R
+  ⾚ + 9
+U
+  U+8D6C
+F
+  ==
+  - [[F1.71 頳 _(2)Ch(')ing_ (cing2)]] 赤色
+  ==
+W
+  ====
+  - [[Page~21* (2)赬 _(2)Ch(')ing_ (cing2); here corrected to _(1)Ch(')ing_ (cing1)]]
+    ==
+    - A carnation or pink color;
+    - cloth dyed twice over, to dye red;
+    - _met._ distressing toil which flushes one.
+    ==
+  ====
+S
+  ==
+  - $赬cing2
+  ==
+$$
+
 
 ##{#2 .williams} (2)Ch(')ing (2)Ts(')ing [[cing2 陰上]]
 
@@ -251,7 +278,7 @@ W
   ====
 S
   ==
-  - $赬cing1 (TODO)
+  - $赬cing1
   ==
 $$
 
