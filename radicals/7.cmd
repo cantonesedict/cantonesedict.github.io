@@ -817,6 +817,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $逞cing2
       - $這ze2
       - $這ze3
       ==

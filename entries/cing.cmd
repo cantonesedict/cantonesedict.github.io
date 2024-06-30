@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [cing1](#1)
+- [cing2](#2)
 - [cing4](#4)
 ==
 </nav>
@@ -155,6 +156,64 @@ C
 S
   ==
   - $稱cing3 (TODO)
+  ==
+$$
+
+
+##{#2 .williams} (2)Ch(')ing (2)Ts(')ing [[cing2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $逞2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 逞2 | _(2)Ch(')ing_ [[cing2]]
+
+$$
+R
+  ⾡ + 7
+U
+  U+901E
+F
+  ==
+  - [[F1.71 逞]] 矜也誇也成也
+  ==
+W
+  ====
+  - [[Page~21* (2)逞]]
+    ==
+    - Froward, presuming, confident of one's power or pretensions;
+    - precipitate, hasty;
+    - to act on an impulse;
+    - pleased with;
+    - to pervade;
+    - to exhaust;
+    - _pat(7) (2)ch(')ing_
+        [[bat1 cing2 不逞]],
+        dissatisfied, careless of;
+    - _(2)ch(')ing (1)kung (4)nang_
+        [[cing2 gung1 nang4 逞功能]],
+        confident of one's power;
+    - _pat(7) (2)ch(')ing (1)ch(i/) (4)[t(')(o\)]_
+        [[bat1 cing2 zi1 tou4 不逞之徒]],
+        a reckless rascal;
+    - _(2)ch(')ing (2)p(u/)n sz'(6)_
+        [[cing2 bun2 si6 逞本事]]
+        to boast of one's abilities;
+    - _(2)ch(')ing ok(8) (4)hang k(i/)p(8)_
+        [[cing2 ok3 hang4 gip3 逞惡行劫]]
+        to rob without fear;
+    - _(1)kw(')(a/) (2)ch(')ing_
+        [[kwaa1 cing2 誇逞]],
+        to brag.
+    ==
+  ====
+C
+  ==
+  - Williams' 不逞之徒: Corrected _(4)t(o\)_ (dou4) to _(4)t(')(o\)_ (tou4).
   ==
 $$
 
