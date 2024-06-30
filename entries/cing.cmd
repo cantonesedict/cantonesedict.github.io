@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2024-06-29
+* %date-modified --> 2024-06-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -164,10 +164,63 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $呈4
 - $程4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 呈4 | _(4)Ch(')ing_ [[cing4]]
+
+$$
+R
+  ⼝ + 4
+U
+  U+5448
+F
+  ==
+  - [[F1.69 呈]] 申也示也露也
+  ==
+W
+  ====
+  - [[Page~20* (4)呈]]
+    ==
+    - A statement, a plea of a case;
+    - to present a petition or statement;
+    - to offer, to present to;
+    - to state to;
+    - to show, to discover;
+    - _(4)ch(')ing (5)sh(e/)ung_
+        [[cing4 soeng5 呈上]],
+        to inform another;
+    - _tsun(3) (4)ch(')ing_
+        [[zeon3 cing4 進呈]],
+        to memorialize;
+    - _tsik(7) (4)ch(')ing_
+        [[zik1 cing4 即呈]],
+        now send this to you;
+    - _(4)ch(')ing tai(6)_
+        [[cing4 dai6 呈遞]]
+        to present to a superior;
+    - _(4)ch(')ing (2)pan_
+        [[cing4 ban2 呈稟]],
+        to hand up a petition;
+    - _(4)ch(')ing (2)[tsz']_
+        [[cing4 zi2 呈子]]^
+        a petition;
+    - _(4)ch(')ing t(i/)n(6)_
+        [[cing4 din6 呈？]]
+        stated for your inspection;
+    - _(4)hung (4)ch(')ing_
+        [[hung4 cing4 紅呈]],
+        a statement from the gentry.
+    ==
+  ====
+C
+  ==
+  - Williams' 呈子: Corrected _(2)sz'_ (si2) to _(2)tsz'_ (zi2).
+  ==
+$$
 
 ### 程4 | _(4)Ch(')ing_ [[cing4]]
 
