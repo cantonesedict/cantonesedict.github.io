@@ -165,12 +165,45 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $拯2
 - $裎2
 - $逞2
 - $郢2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 拯2 | _(2)Ch(')ing_ [[cing2]]
+
+$$
+R
+  ⼿ + 6
+U
+  U+62EF
+F
+  ==
+  - [[F1.71 拯]] 上舉也援也救也助也
+  ==
+W
+  ====
+  - [[Page~21* (2)拯]]
+    ==
+    - To rescue, to pull out, as from a well;
+    - to deliver, to save;
+    - to raise up;
+    - _(2)ch(')ing kau(3)_
+        [[cing2 gau3 拯救]]
+        to save from danger;
+    - _(2)ch(')ing (4)man (1)(u") (2)shui (2)fo (1)ch(i/) (1)chung_
+        [[cing2 man4 jyu1 seoi2 fo2 zi1 zung1 拯民於水火之中]],
+        to save the people from danger like fire and water.
+    ==
+  ====
+C
+  ==
+  - Williams' 拯民於水火之中: Better rendered "from amidst water [and] fire".
+  ==
+$$
 
 ###+ 裎2 | _(2)Ch(')ing_ (cing2)
 
