@@ -168,6 +168,7 @@ $$
 - $埕4
 - $惩4
 - $懲4
+- $瞪4
 - $程4
 - $裎4
 - $酲4
@@ -313,6 +314,32 @@ C
   ==
   - Williams' 懲治: To punish, not necessarily in relation to governance.
   ==
+$$
+
+### 瞪4 | _(4)Ch(')ing_ [[cing4]]
+
+$$
+R
+  ⽬ + 12
+U
+  U+77AA
+F
+  ==
+  - [[F1.69 瞪]] 直視也
+  ==
+W
+  ====
+  - [[Page~21* (4)瞪]]
+    ==
+    - To stare at, to look straight at, to fix the eye on;
+    - _(4)ch(')ing (5)ng(a/)n mong(6)_
+        [[cing4 ngaan5 mong6 瞪眼望]]
+        gazed at with fixed eyes;
+    - _(4)ch(')ing sh(i/)(6)_
+        [[cing4 si6 瞪視]]
+        gazing, staring.
+    ==
+  ====
 $$
 
 ### 程4 | _(4)Ch(')ing_ [[cing4]]
