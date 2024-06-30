@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2024-05-28
+* %date-modified --> 2024-06-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -500,7 +500,6 @@ U
   U+9AB4
 V
   ==
-  - ci3 (Fan Wan)
   - ci4 (expected from 疾移切)
   - zi6 (expected from 疾智切)
   ==
@@ -510,7 +509,7 @@ F
   ==
 W
   ====
-  - [[Page~617 骴(3) _Ts(')z'(3)_ (ci3); here normalised to _(1)Ts(')z'_ (ci1)]]
+  - [[Page~617 骴(3) _Ts(')z'(3)_ (ci3); here corrected to _(1)Ts(')z'_ (ci1)]]
     ==
     - An old bone of men or beasts;
     - putrid bones, having some flesh on them.
@@ -3042,7 +3041,6 @@ U
   U+67FF
 V
   ==
-  - ci4 (Fan Wan)
   - ci5-2 (vernacular rising-tone noun)
   ==
 F

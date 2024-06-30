@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2024-05-28
+* %date-modified --> 2024-06-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -981,7 +981,7 @@ F
   ==
 W
   ====
-  - [[Page~553 (5)鏨 _(5)Ts(a/)m_ (zaam5); here normalised to _(5)Ts(')(a/)m_ (caam5)]]
+  - [[Page~553 (5)鏨 _(5)Ts(a/)m_ (zaam5); here corrected to _(5)Ts(')(a/)m_ (caam5)]]
     ==
     - A stone-cutter's chissel;
     - a small cold chissel;

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2024-05-28
+* %date-modified --> 2024-06-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -420,19 +420,23 @@ U
 H
   May appear with left component as 𦣝 (+10) or 𦣞 (+11 assumed here),
   depending on the font.
+V
+  ==
+  - zaak6 (expected from 士革切)
+  ==
 F
   ==
   - [[F2.32 ::[賾]:: _Chak(7)_ (zak1)]] 深也雜也
   ==
 W
   ====
-  - [[Page~12|n55 賾(7) _Chak(7)_ (zak1); here normalised to _Ch(a/)k(8)_ (zaak3)]]
+  - [[Page~12|n55 賾(7) _Chak(7)_ (zak1); here corrected to _Ch(a/)k(8)_ (zaak3)]]
     ==
     - Obscure, hard of understanding;
     - the secret springs, the hidden cause;
     - occult, profound.
     ==
-  - [[Page~569 嘖(7)賾(7) _Tsik(7)_ (zik1); here normalised to _Ch(a/)k(8)_ (zaak3)]]
+  - [[Page~569 嘖(7)賾(7) _Tsik(7)_ (zik1); here corrected to _Ch(a/)k(8)_ (zaak3)]]
     ==
     - [[...]];
     - distant, retired, hidden;

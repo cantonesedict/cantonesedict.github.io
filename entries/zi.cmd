@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-06-07
+* %date-modified --> 2024-06-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -3080,7 +3080,6 @@ U
   U+6F2C
 V
   ==
-  - zi1 (Williams)
   - zi6 (expected from 疾智切)
   ==
 F

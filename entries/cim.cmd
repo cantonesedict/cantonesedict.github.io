@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2024-05-28
+* %date-modified --> 2024-06-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -778,10 +778,6 @@ R
   ⾜ + 13
 U
   U+4828
-V
-  ==
-  - zim1 (Fan Wan)
-  ==
 F
   ==
   - [[F2.47 䠨 _(1)Ch(i/)m_ (zim1)]] 仰視

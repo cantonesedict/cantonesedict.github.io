@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2024-05-28
+* %date-modified --> 2024-06-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1086,7 +1086,6 @@ U
   U+7A67
 V
   ==
-  - zai1 (Fan Wan)
   - zai3 (alternative from 子計切)
   ==
 F
@@ -1095,7 +1094,7 @@ F
   ==
 W
   ====
-  - [[Page~548 (1)穧 _(1)Tsai_ (zai1); here normalised to _Tsai(6)_ (zai6)]]
+  - [[Page~548 (1)穧 _(1)Tsai_ (zai1); here corrected to _Tsai(6)_ (zai6)]]
     ==
     - To reap grain;
     - a handful of rice, as it is cut;

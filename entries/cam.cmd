@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2024-05-28
+* %date-modified --> 2024-06-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -780,9 +780,7 @@ U
   U+9B6B
 V
   ==
-  - cam2 (Williams, probably erroneous)
   - sam2 (expected from 式任切 rising)
-  - zam2 (Fan Wan)
   ==
 F
   ==
@@ -790,7 +788,7 @@ F
   ==
 W
   ====
-  - [[Page~15|n58 (2)[魫] _(2)Ch(')am_ (cam2); here normalised to _(4)Ch(')am_ (cam4)]]
+  - [[Page~15|n58 (2)[魫] _(2)Ch(')am_ (cam2); here corrected to _(4)Ch(')am_ (cam4)]]
     ==
     - The roe or eggs of fish;
     - the name of a fish.

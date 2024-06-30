@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2024-05-28
+* %date-modified --> 2024-06-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -485,7 +485,6 @@ U
   U+61E0
 V
   ==
-  - zai3 (Fan Wan)
   - zai6 (alternative from 在詣切)
   ==
 F
@@ -494,7 +493,7 @@ F
   ==
 W
   ====
-  - [[Page~549 懠(3) _Tsai(3)_ (zai3); here normalised to _(4)Ts(')ai_ (cai4)]]
+  - [[Page~549 懠(3) _Tsai(3)_ (zai3); here corrected to _(4)Ts(')ai_ (cai4)]]
     ==
     - Angry, enraged;
     - suspicious, envious of;

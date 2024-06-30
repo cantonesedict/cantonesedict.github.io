@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2024-05-28
+* %date-modified --> 2024-06-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1209,7 +1209,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~560 (1)僽 _(1)Tsau_ (zau1); here normalised to _Tsau(3)_ (zau3)]]
+  - [[Page~560 (1)僽 _(1)Tsau_ (zau1); here corrected to _Tsau(3)_ (zau3)]]
     ==
     - To scold, to rail at;
     - abusive, scurrilous language;
@@ -1444,10 +1444,6 @@ R
   ⽡ + 9
 U
   U+7503
-V
-  ==
-  - cau1 (Fan Wan)
-  ==
 F
   ==
   - [[F1.50 甃 _(1)Ts(')au_ (cau1)]] ::[井]甓又結砌也::

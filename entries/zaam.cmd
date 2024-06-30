@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2024-05-28
+* %date-modified --> 2024-06-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -434,10 +434,6 @@ R
   ⽴ + 5
 U
   U+7AD9
-V
-  ==
-  - zaan6 (Fan Wan)
-  ==
 F
   ==
   - [[F2.71 站 _Ch(a/)n(6)_ (zaan6)]] 站立也又音賺
@@ -457,7 +453,7 @@ W
         [[jat1 zaam6 lou6 一站路]]
         a stage, usually reckoned to be a league.
     ==
-  - [[Page~19|n62 站(6) _Ch(a/)n(6)_ (zaan6); here normalised to _Ch(a/)m(6)_ (zaam6)]]
+  - [[Page~19|n62 站(6) _Ch(a/)n(6)_ (zaan6); here corrected to _Ch(a/)m(6)_ (zaam6)]]
     ==
     - To stand;
     - to stand erect;
@@ -473,8 +469,9 @@ W
   ====
 C
   ==
-  - The reading zaan6 is that given as canonical in Fan Wan.
-  - Fan Wan entry: Note that Fan Wan considers 賺 to be read _ch(a/)m(6)_ (zaam6).
+  - Fan Wan entry: Note that Fan Wan considers
+    _ch(a/)n(6)_ (zaan6) to be the canonical reading of 站,
+    with 賺 to be read _ch(a/)m(6)_ (zaam6).
   - Williams' 驛站: Stage meaning a relay station for horses.
   ==
 S

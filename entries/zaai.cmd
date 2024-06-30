@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2024-05-28
+* %date-modified --> 2024-06-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -288,17 +288,13 @@ R
   ⽧ + 11
 U
   U+7635
-V
-  ==
-  - caai3 (Fan Wan)
-  ==
 F
   ==
   - [[F2.28 瘵 _Ch(')(a/)i(3)_ (caai3)]] 勞病
   ==
 W
   ====
-  - [[Page~11|n54 瘵(3) _Ch(')(a/)i(3)_ (caai3); here normalised to _Ch(a/)i(3)_ (zaai3)]]
+  - [[Page~11|n54 瘵(3) _Ch(')(a/)i(3)_ (caai3); here corrected to _Ch(a/)i(3)_ (zaai3)]]
     ==
     - Weary, sick;
     - _(4)l(o\) [ch(a/)i](3)_
