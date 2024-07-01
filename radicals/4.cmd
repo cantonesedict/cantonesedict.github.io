@@ -985,6 +985,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $檉cing1
       - $檉cing2
       - $檣coeng4
       ==

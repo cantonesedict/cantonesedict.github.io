@@ -55,12 +55,38 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $檉1
 - $秤1
 - $稱1
 - $赬1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+###+ 檉1 | _(1)Ch(')ing_ (cing1)
+
+$$
+R
+  ⽊ + 13
+U
+  U+6A89
+F
+  ==
+  [[F1.71 檉 _(2)Ch(')ing_ (cing2)]] 河邊柳
+  ==
+W
+  ====
+  - [[Page~21* (2)檉 _(2)Ch(')ing_ (cing2); here corrected to _(1)Ch(')ing_ (cing1)]]
+    ==
+    - A reddish bark willow, growing by water courses,
+      and thought to indicate rain.
+    ==
+  ====
+S
+  ==
+  - $檉cing2
+  ==
+$$
 
 ### 秤1 | _(1)Ch(')ing_ [[cing1]]
 
@@ -254,7 +280,7 @@ W
   ====
 S
   ==
-  - $檉cing1 (TODO)
+  - $檉cing1
   ==
 $$
 
