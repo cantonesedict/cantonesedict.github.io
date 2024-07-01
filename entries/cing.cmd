@@ -58,6 +58,7 @@ $$
 - $檉1
 - $秤1
 - $稱1
+- $蟶1
 - $赬1
 ==
 </nav>
@@ -186,6 +187,32 @@ S
   ==
 $$
 
+###+ 蟶1 | _(1)Ch(')ing_ (cing1)
+
+$$
+R
+  ⾍ + 13
+U
+  U+87F6
+F
+  ==
+  - [[F1.71 蟶 _(2)Ch(')ing_ (cing2)]] 蚌屬
+  ==
+W
+  ====
+  - [[Page~21* (2)蟶 _(2)Ch(')ing_ (cing2); here corrected to _(1)Ch(')ing_ (cing1)]]
+    ==
+    - A bivalve, the razor-sheath or Solen,
+      also called _(1)sh(a/) (4)lo_ [[saa1 lo4 沙螺]],
+      or sand screw.
+    ==
+  ====
+S
+  ==
+  - $蟶cing2
+  ==
+$$
+
 ###+ 赬1 | _(1)Ch(')ing_ (cing1)
 
 $$
@@ -305,7 +332,7 @@ W
   ====
 S
   ==
-  - $蟶cing1 (TODO)
+  - $蟶cing1
   ==
 $$
 
