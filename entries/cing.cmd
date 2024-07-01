@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [cing1](#1)
 - [cing2](#2)
+- [cing3](#3)
 - [cing4](#4)
 ==
 </nav>
@@ -128,6 +129,10 @@ C
     Williams has also recorded departing-tone 稱 for the verb "weigh";
     it is unclear whether this is a mistake on his part
     or a deliberate attestation of (classical-violating) usage in Cantonese.
+  ==
+S
+  ==
+  - $秤cing3
   ==
 $$
 
@@ -453,6 +458,89 @@ W
 C
   ==
   - $郢jing5 (TODO)
+  ==
+$$
+
+
+##{#3 .williams} Ch(')ing(3) [[cing3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $秤3
+==
+</nav>
+<## /tone-3-characters ##>
+
+###+ 秤3 | _Ch(')ing(3)_ (cing3)
+
+$$
+R
+  ⽲ + 5
+U
+  U+79E4
+A
+  ==
+  - $稱3
+  ==
+F
+  ==
+  - [[F1.73 秤]] 所以稱物之輕重也
+  ==
+W
+  ====
+  - [[Page~21* 稱(3); here normalised to 秤]]
+    ==
+    - To weigh, to adjust;
+    - a steelyard or dotchin;
+    - [[...]];
+    - _ch(')ing(3) fo(3)_
+        [[cing3 fo3 秤貨]]
+        to weigh goods;
+    - _ch(')ing(3) (4)t(')o_
+        [[cing3 to4 秤砣]],
+        the yard weight;
+    - _ch(')ing(3) (1)kon_
+        [[cing3 gon1 秤桿]],
+        the beam;
+    - _ch(')ing(3) (1)[ngau]_
+        [[cing3 ngau1 秤鉤]],
+        the hook;
+    - _(1)sz' (5)m(a/) ch(')ing(3)_
+        [[si1 maa5 cing3 司馬秤]]
+        to weigh full weight;
+    - _(1)ch(a/) (2)wan ch(')ing(3)_
+        [[zaa1 wan2 cing3 揸穩秤]]
+        weight it true;
+    - _yat(7) (2)p(a/) ch(')ing(3)_
+        [[jat1 baa2 cing3 一把秤]]
+        a steelyards;
+    - _yat(7) ch(')ing(3) (1)kung (1)fan_
+        [[jat1 cing3 gung1 fan1 一秤公分]],
+        to divide justly;
+    - [[...]].
+    ==
+  ====
+C
+  ==
+  - Williams' 秤鉤: Changed Middle Chinese _(1)kau_ (gau1)
+    to common reading _(1)ngau_ (ngau1).
+  - For the character 秤, Fan Wan records
+    level-tone _(1)ch(')ing_ (cing1) for the verb "weigh"
+    and departing-tone _ch(')ing(3)_ (cing3) for the noun "scales".
+    This is consistent with the classical tone distinction for 稱
+    (level-tone verb and departing-tone noun),
+    notwithstanding 《廣韻》 only records departing-tone for the character 秤.
+  - In modern Cantonese usage, the verb "weigh" is nevertheless
+    commonly read in departing tone as _ch(')ing(3)_ (cing3).
+    Williams has also recorded departing-tone 稱 for the verb "weigh"
+    (here normalised to the character 秤);
+    it is unclear whether this is a mistake on his part
+    or a deliberate attestation of (classical-violating) usage in Cantonese.
+  ==
+S
+  ==
+  - $秤cing1
   ==
 $$
 
