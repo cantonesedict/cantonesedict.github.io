@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2024-06-30
+* %date-modified --> 2024-07-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -193,6 +193,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $拯2
+- $檉2
 - $裎2
 - $赬2
 - $逞2
@@ -230,6 +231,30 @@ W
 C
   ==
   - Williams' 拯民於水火之中: Better rendered "from amidst water [and] fire".
+  ==
+$$
+
+### 檉2 | _(2)Ch(')ing_ [[cing2]]
+
+$$
+R
+  ⽊ + 13
+U
+  U+6A89
+F
+  ==
+  [[F1.71 檉]] 河邊柳
+  ==
+W
+  ====
+  - [[Page~21* (2)檉]]
+    --
+    [[Idiosyncratic reading from Fan Wan. **See $檉cing1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $檉cing1 (TODO)
   ==
 $$
 
