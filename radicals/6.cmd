@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 6-stroke radicals
-* %date-modified --> 2024-06-30
+* %date-modified --> 2024-07-01
 * %copyright-prior-years -->
 * %meta-description --> index of characters with 6-stroke radicals
 
@@ -1103,6 +1103,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $蠆caai3
       - $蠈caak6
+      - $蟶cing2
       ==
       </nav>
   //
