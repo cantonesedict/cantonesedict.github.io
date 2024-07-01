@@ -188,7 +188,7 @@ C
   ==
 S
   ==
-  - $稱cing3 (TODO)
+  - $稱cing3
   ==
 $$
 
@@ -468,6 +468,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $秤3
+- $稱3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -541,6 +542,46 @@ C
 S
   ==
   - $秤cing1
+  ==
+$$
+
+### 稱3 | _Ch(')ing(3)_ [[cing3]]
+
+$$
+R
+  ⽲ + 9
+U
+  U+7A31
+F
+  ==
+  - [[F1.73 稱]] 度量也快意曰稱意又均等也
+  ==
+W
+  ====
+  - [[Page~21* 稱(3)]]
+    ==
+    - [[See $秤cing3 for "scales" and "weigh" senses]];
+    - suitable, as one wishes;
+    - corresponding to, satisfied with;
+    - [[...]];
+    - _(2)ho (5)(i/) (1)s(e/)ung ch(')ing(3)_
+        [[ho2 ji5 soeng1 cing3 可以相稱]]
+        they can pass together;
+        symmetrical;
+    - _(1)(i/) pat(7) ch(')ing(3) (1)shan_
+        [[ji1 bat1 cing3 san1 衣不稱身]],
+        his dress does not fit him;
+    - _(4)(')m ch(')ing(3)_
+        [[m4 cing3 唔稱]]
+        unfitting;
+    - _ch(')ing(3) (i/)(3)_
+        [[cing3 ji3 稱意]]
+        as I like.
+    ==
+  ====
+S
+  ==
+  - $稱cing1
   ==
 $$
 

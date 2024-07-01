@@ -843,6 +843,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $稱cing1
+      - $稱cing3
       ==
       </nav>
   //
