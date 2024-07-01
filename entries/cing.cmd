@@ -59,6 +59,7 @@ $$
 - $檉1
 - $秤1
 - $稱1
+- $蜻1
 - $蟶1
 - $赬1
 ==
@@ -189,6 +190,42 @@ C
 S
   ==
   - $稱cing3
+  ==
+$$
+
+###+ 蜻1 | _(1)Ts(')ing_ (cing1)
+
+$$
+R
+  ⾍ + 8
+U
+  U+873B
+H
+  May appear as either ⿰虫靑 or ⿰虫青 (assumed here),
+  depending on the font.
+F
+  ==
+  - [[F1.67 蜻 _(1)Tsing_ (zing1)]] 蜻蜓
+  ==
+W
+  ====
+  - [[Page~576 (1)蜻 _(1)Tsing_ (zing1); here corrected to _(1)Ts(')ing_ (cing1)]]
+    ==
+    - A dragon-fly, called _(1)[ts(')ing] [(4)]t(')ing_ [[cing1 ting4 蜻蜓]],
+      which sips the water;
+    - [[...]];
+    - _(1)[ts(')ing] (4)ling_
+        [[cing1 ling4 蜻蛉]],
+        a kind of locust.
+    ==
+  ====
+C
+  ==
+  - Williams' 蜻蜓: Corrected _(1)t(')ing_ (ting1) to _(4)t(')ing_ (ting4).
+  ==
+S
+  ==
+  - $蜻zing1
   ==
 $$
 

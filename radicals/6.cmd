@@ -1072,8 +1072,9 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $蜡caa3
       - $蜡zaa3
-      - $蜘zi1
+      - $蜻cing1
       - $蜻zing1
+      - $蜘zi1
       ==
       </nav>
   //
