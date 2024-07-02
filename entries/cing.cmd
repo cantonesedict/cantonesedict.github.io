@@ -70,6 +70,7 @@ $$
 - $蜻1
 - $蟶1
 - $赬1
+- $青1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -287,6 +288,128 @@ S
   ==
   - $赬cing2
   ==
+$$
+
+### 青1 | _(1)Ts(')ing_ [[cing1]]
+
+$$
+R
+  ⾭ + 0
+U
+  U+9752
+A
+  ==
+  - $靑1
+  ==
+V
+  ==
+  - ceng1 (vernacular for "green" senses)
+  ==
+F
+  ==
+  - [[F1.68 靑]] 東方水色
+  ==
+W
+  ====
+  - [[Page~577 (1)靑(1)青]]
+    ==
+    - The color of nature,
+      as the azure of the sky or the green of growing plants;
+    - a very light green or blue tint;
+    - wan, fading away, pale;
+    - the 174th~radical;
+    - _(1)ts(')ing (2)kwo_
+        [[cing1 gwo2 青果]],
+        the olive;
+    - _fat(9) (1)ts(')ing_
+        [[fat6 cing1 佛青]],
+        ultra-marine;
+    - _(4)(u")n (1)ts(')ing_
+        [[jyun4 cing1 玄青]],
+        black;
+    - _(1)ts(')ing (1)kam_
+        [[cing1 gam1 青金]],
+        lapis-lazuli color;
+    - _luk(9) (1)ts(')ing_
+        [[luk6 cing1 綠青]],
+        copperas;
+    - _(1)ts(')ing (4)f(a/)n_
+        [[cing1 faan4 青礬]],
+        blue vitriol;
+    - _(4)y(e/)ung (1)ts(')ing_
+        [[joeng4 cing1 洋青]],
+        smalts;
+    - _(1)[ts(')eng] (4)t(')oi_
+        [[ceng1 toi4 青苔]],
+        mossy, slippery, as stones;
+    - _(1)ts(')ing (1)t(')(i/)n p(a/)k(9) yat(9)_
+        [[cing1 tin1 baak6 jat6 青天白日]]
+        a clear bright day;
+    - _(1)ts(')ing (4)n(i/)n_
+        [[cing1 nin4 青年]],
+        young in years;
+    - _m(i/)t(9) (1)ts(')ing_
+        [[mit6 cing1 篾青]],
+        bamboo splints;
+    - _(4)t(')ang (1)ts(')ing_
+        [[tang4 cing1 藤青]],
+        rattan cords;
+    - _k(o\)m(3) (5)ng(a/)n (1)ts(')ing_
+        [[gam3 ngaan5 cing1 咁眼青]]^
+        in such a fury, outrageous;
+    - _(1)pi(u/) (1)ts(')eng_
+        [[biu1 ceng1 標青]],
+        new style, fine;
+    - _t(a/)p(9) (1)ts(')eng_,
+        [[daap6 ceng1 踏青]]
+        to worship the tombs;
+    - _(4)ch(')(a/) (1)ts(')ing_
+        [[caa4 cing1 茶青]],
+        a yellowish green;
+    - _(4)k(')(i/) (i/)p(9) (1)ts(')eng (1)ts(')eng_
+        [[kei4 jip6 ceng1 ceng1 其葉青青]],
+        tender and green are the leaves.
+    ==
+  ====
+C
+  ==
+  - Williams' 青苔: Changed _(1)ts(')ing_ (cing1)
+    to vernacular reading _(1)ts(')eng_ (ceng1).
+  ==
+E
+  ====
+  - 【標青】 (biu1 ceng1):
+    ++
+    1. Outstanding, excellent.
+    ++
+  - 【青】 (ceng1):
+    ++
+    1. Green, especially light green.
+       ==
+       - 青吡吡 (ceng1 bi1 bi1): "Limey-green."
+       ==
+    1. Green garnishes (spring onion, coriander, parsley, etc.).
+       ==
+       - 走青 (zau2 ceng1): "Without [any] green [garnishes]."
+       ==
+    ++
+  - 【青豆】 (ceng1 dau6-2):
+    ++
+    1. Green peas.
+    ++
+  - 【青瓜】 (ceng1 gwaa1):
+    ++
+    1. Cucumber.
+    ++
+  - 【青檸】 (ceng1 ning4-2):
+    ++
+    1. Lime. (Literally, "green lemon".)
+    ++
+  - 【面青】 (min6 ceng1):
+    ++
+    1. Pale complexion (as a sign of unhealth).
+    ++
+  ====
 $$
 
 

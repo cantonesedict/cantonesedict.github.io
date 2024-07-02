@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of Cantonese terms by Jyutping
-* %date-modified --> 2024-06-26
+* %date-modified --> 2024-07-02
 * %copyright-prior-years --> 2023--
 * %meta-description --> searchable index of Cantonese terms by Jyutping
 
@@ -164,6 +164,9 @@ window.onload = applyFilter;
     , bai3 ai3
     , [贔屭](/entries/ai#cantonese-贔屭)
   //
+    , biu1 ceng1
+    , [標青](/entries/cing#cantonese-標青)
+  //
     , bong1 can3
     , [幫襯](/entries/can#cantonese-幫襯)
   //
@@ -286,6 +289,18 @@ window.onload = applyFilter;
   //
     , cek3
     , [𤷫](/entries/cek#cantonese-𤷫)
+  //
+    , ceng1
+    , [青](/entries/cing#cantonese-青)
+  //
+    , ceng1 dau6-2
+    , [青豆](/entries/cing#cantonese-青豆)
+  //
+    , ceng1 gwaa1
+    , [青瓜](/entries/cing#cantonese-青瓜)
+  //
+    , ceng1 ning4-2
+    , [青檸](/entries/cing#cantonese-青檸)
   //
     , ci1
     , [黐](/entries/ci#cantonese-黐)
@@ -460,6 +475,9 @@ window.onload = applyFilter;
   //
     , mei5-1 zi2
     , [尾指](/entries/zi#cantonese-尾指)
+  //
+    , min6 ceng1
+    , [面青](/entries/cing#cantonese-面青)
   //
     , mun4 caam5
     , [門棖](/entries/caam#cantonese-門棖)
