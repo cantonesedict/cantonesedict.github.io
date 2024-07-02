@@ -70,6 +70,7 @@ $$
 - $蜻1
 - $蟶1
 - $赬1
+- $靑1
 - $青1
 ==
 </nav>
@@ -290,6 +291,30 @@ S
   ==
 $$
 
+### 靑1 | _(1)Ts(')ing_ [[cing1]]
+
+$$
+R
+  ⾭ + 0
+U
+  U+9751
+F
+  ==
+  - [[F1.68 靑]] 東方水色
+  ==
+W
+  ====
+  - [[Page~577 (1)靑(1)青]]
+    --
+    [[Alternative form of 青. **See $青cing1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $靑ceng1 (TODO)
+  ==
+$$
+
 ### 青1 | _(1)Ts(')ing_ [[cing1]]
 
 $$
@@ -410,6 +435,10 @@ E
     1. Pale complexion (as a sign of unhealth).
     ++
   ====
+S
+  ==
+  - $青ceng1 (TODO)
+  ==
 $$
 
 
