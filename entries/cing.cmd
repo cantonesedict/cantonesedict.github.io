@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2024-07-01
+* %date-modified --> 2024-07-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -49,6 +49,14 @@ S
   - $ceng (TODO)
   ==
 $$
+
+--{.williams}
+[[Page~577, under the heading for Ts(')ing (cing)]]
+  <br>
+(All these characters are often pronounced _ts(')eng_ [[ceng]].)
+  <br>
+[[Notwithstanding, this only applies to 青 and 請.]]
+--
 
 
 ##{#1 .williams} (1)Ch(')ing (1)Ts(')ing [[cing1 陰平]]
