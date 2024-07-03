@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2024-07-02
+* %date-modified --> 2024-07-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -55,7 +55,7 @@ $$
   <br>
 (All these characters are often pronounced _ts(')eng_ [[ceng]].)
   <br>
-[[Notwithstanding, this only applies to 青 and 請.]]
+[[Notwithstanding, this only applies to 青 and 請 (and possibly 清).]]
 --
 
 
@@ -65,6 +65,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $檉1
+- $清1
 - $秤1
 - $稱1
 - $蜻1
@@ -98,6 +99,98 @@ W
 S
   ==
   - $檉cing2
+  ==
+$$
+
+###+ 清1 | _(1)Ts(')ing_ (cing1)
+
+$$
+R
+  ⽔ + 8
+U
+  U+6E05
+A
+  ==
+  - $淸1
+  ==
+F
+  ==
+  - [[F1.68 淸]] ::淸潔淸正淸廉淸[白]::
+  ==
+W
+  ====
+  - [[Page~577 (1)淸; here normalised to 清]]
+    ==
+    - Pure, limpid, clear, unsullied, sharpsighted;
+    - clean, incorruptible, right principled;
+    - clear, ringing, as a sound;
+    - to settle, to become clear;
+    - to purify;
+    - to settle an account;
+    - style of the present Manchu dynasty;
+    - Manchu;
+    - _(2)shui (1)ts(')ing_
+        [[seoi2 cing1 水清]]^
+        pure water;
+    - _(1)k(a/) shai(3) (1)ts(')ing p(a/)k(9)_
+        [[gaa1 sai3 cing1 baak6 家世清白]]
+        a family of unsullied reputation;
+    - _(1)ts(')ing (1)k(u/)n_
+        [[cing1 gun1 清官]],
+        an honest magistrate;
+    - _(2)shau (1)ts(')ing_
+        [[sau2 cing1 守清]],
+        a betrothed girl refusing to marry;
+    - _(1)ning (1)ts(')ing_
+        [[ning1 cing1 拎清]],
+        taken all away;
+    - _(1)ts(')ing (2)k(a/)m_
+        [[cing1 gaam2 清減]],
+        sallow, poor;
+    - _(1)ts(')ing (2)ch(')o (5)li(u/) l(i/)(6)_
+        [[cing1 co2 liu5 lei6 清楚了利]]
+        the whole matter is done;
+    - _(1)[ts(')ing] sh(o\)(3)_
+        [[cing1 sou3 清數]]
+        to settle an account;
+    - _sh(o\)(3) (5)m(i/) (4)'m (1)ts(')ing_
+        [[sou3 mei5 m4 cing1 數尾唔清]],
+        some unbalanced accounts;
+    - _(1)ts(')ing t(o\)(6) (4)k(')(i/)_
+        [[cing1 dou6 kei4 清道旗]],
+        a banner to clear the way;
+    - _(1)ts(')ing sau(3)_
+        [[cing1 sau3 清秀]]
+        elegant, well formed;
+    - _(1)ts(')ing (1)ts(')ing tik(7)_
+        [[cing1 cing1 dik1 清清滴]]
+        take a little;
+    - _ts(a/)m(6) (1)chung (1)ts(')ing_
+        [[zaam6 zung1 cing1 暫中清]],
+        occasionally, when at leisure;
+    - _(2)shui (2)sai (4)'m (1)ts(')ing_
+        [[seoi2 sai2 m4 cing1 水洗唔清]],
+        it cannot be washed out;
+        _e.g._ a sullied name;
+    - _(1)ts(')ing (4)t(')au (2)l(o\)_
+        [[cing1 tau4 lou2 清頭佬]],
+        an old bachelor;
+    - _(1)ts(')ing (1)sam_
+        [[cing1 sam1 清心]],
+        to clear one's character, to purify the heart;
+    - _(1)ts(')ing (4)ch(')i(u/)_
+        [[cing1 ciu4 清朝]],
+        the Pure or Manchu dynasty;
+    - _(1)ts(')ing tsz'(6)_
+        [[cing1 zi6 清字]]
+        Manchu words.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 曰 to 白.
+  - Williams considers _ts(')eng_ (ceng1) a possible reading variation for 清.
+  - Williams' 清數: Changed _ts(')eng_ (ceng1) to _ts(')ing_ (cing1).
   ==
 $$
 
