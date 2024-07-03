@@ -530,10 +530,17 @@ E
     1. Green, especially light green.
        ==
        - 青吡吡 (ceng1 bi1 bi1): "Limey-green."
+       - 採青 (coi2 ceng1): "Plucking [the] green" (i.e. the lettuce in a Lion Dance).
        ==
     1. Green garnishes (spring onion, coriander, parsley, etc.).
        ==
        - 走青 (zau2 ceng1): "Without [any] green [garnishes]."
+       ==
+    1. Faded or cut close to the scalp (of hair).
+       Unclear if this should be spelt 清 instead.
+       ==
+       - 兩邊剷青 (loeng5 bin1 caan2 ceng1): "Faded [on] both sides."
+       - 飛青啲 (fei1 ceng1 di1): "Cut [it] closer."
        ==
     ++
   - 【青豆】 (ceng1 dau6-2):
