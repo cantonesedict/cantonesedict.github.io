@@ -1300,6 +1300,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $淒cai1
       - $淺cin2
+      - $淸cing1
       - $清cing1
       - $淨zeng6
       - $淨zing6

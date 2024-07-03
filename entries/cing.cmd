@@ -65,6 +65,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $檉1
+- $淸1
 - $清1
 - $秤1
 - $稱1
@@ -99,6 +100,30 @@ W
 S
   ==
   - $檉cing2
+  ==
+$$
+
+### 淸1 | _(1)Ts(')ing_ [[cing1]]
+
+$$
+R
+  ⽔ + 8
+U
+  U+6DF8
+F
+  ==
+  - [[F1.68 淸]] ::淸潔淸正淸廉淸[白]::
+  ==
+W
+  ====
+  - [[Page~577 (1)淸]]
+    --
+    [[Alternative form of 清. **See $清cing1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 曰 to 白.
   ==
 $$
 
