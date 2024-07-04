@@ -918,6 +918,7 @@ $$
 - $情4
 - $惩4
 - $懲4
+- $晴4
 - $澄4
 - $瞪4
 - $程4
@@ -1148,6 +1149,36 @@ C
   ==
   - Williams' 懲治: To punish, not necessarily in relation to governance.
   ==
+$$
+
+### 晴4 | _(4)Ts(')ing_ [[cing4]]
+
+$$
+R
+  ⽇ + 8
+U
+  U+6674
+H
+  May appear as either ⿰日靑 or ⿰日青 (assumed here),
+  depending on the font.
+F
+  ==
+  - [[F1.71 情]] 雲收雨止而日出也
+  ==
+W
+  ====
+  - [[Page~578 (4)情]]
+    ==
+    - The sky clearing up after rain, the clear blue sky;
+    - the stars coming out;
+    - _(1)t(')(i/)n (4)ts(')ing_
+        [[tin1 cing4 天晴]],
+        a clear sky;
+    - _(5)(u") (4)ts(')ing_
+        [[jyu5 cing4 雨晴]],
+        it has stopped raining.
+    ==
+  ====
 $$
 
 ### 澄4 | _(4)Ch(')ing_ [[cing4]]

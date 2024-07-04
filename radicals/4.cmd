@@ -722,6 +722,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $晴cing4
       - $智zi3
       - $晶zing1
       ==
