@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2024-07-03
+* %date-modified --> 2024-07-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -214,7 +214,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected 曰 to 白.
-  - Williams considers _ts(')eng_ (ceng1) a possible reading variation for 清.
+  - Williams considers _(1)ts(')eng_ (ceng1) a possible reading variation for 清.
   - Williams' 清數: Changed _ts(')eng_ (ceng1) to _ts(')ing_ (cing1).
   ==
 $$
@@ -915,6 +915,7 @@ $$
 =={.modern}
 - $呈4
 - $埕4
+- $情4
 - $惩4
 - $懲4
 - $澄4
@@ -1009,6 +1010,89 @@ W
         large jars from Kw(a/)ngs(i/) [[廣西]].
     ==
   ====
+$$
+
+### 情4 | _(4)Ts(')ing_ [[cing4]]
+
+$$
+R
+  ⼼ + 8
+U
+  U+60C5
+H
+  May appear as either ⿰忄靑 or ⿰忄青 (assumed here),
+  depending on the font.
+V
+  ==
+  - cing4-2 (in 實情)
+  ==
+F
+  ==
+  - [[F1.71 情]] 理也心中也性之所發也
+  ==
+W
+  ====
+  - [[Page~578 (4)情]]
+    ==
+    - The passions, reckoned to be seven;
+    - the feelings, the desires;
+    - temper, passion, affection;
+    - lust, concupiscence;
+    - the circumstances, the facts of a case;
+    - an affair, a matter;
+    - _sing(3) (4)ts(')ing_
+        [[sing3 cing4 性情]],
+        temper, disposition;
+    - _yung(6) (4)ts(')ing_
+        [[jung6 cing4 用情]],
+        to assist one heartily;
+    - _(4)m(o\) (4)ts(')ing_ [[mou4 cing4 無情]]^
+        or
+      _pok(9) (4)ts(')ing_ [[bok6 cing4 薄情]],
+        ungrateful;
+    - _(1)to (4)ts(')ing_ [[do1 cing4 多情]],
+        or
+      _(4)ts(')ing (1)sham_ [[cing4 sam1 情深]],
+        very grateful;
+    - _kwat(9) (4)ts(')ing_
+        [[gwat6 cing4 倔情]],
+        thankless;
+    - _sz'(6) (4)ts(')ing_
+        [[si6 cing4 事情]],
+        an affair, a concern;
+    - _shat(9) (4)ts(')ing_
+        [[sat6 cing4 實情]],
+        the real facts;
+        <## TODO: 實情 sat6 cing4-2 ##>
+    - _(4)m(o\) (4)ts(')oi (4)ts(')ing_
+        [[mou4 coi4 cing4 無才情]],
+        inapt, stolid;
+    - _(4)[ts(')eng] (4)yau_
+        [[cing4 jau4 情由]],
+        circumstances or causes of a thing;
+    - _(1)sz' (4)ts(')ing_
+        [[si1 cing4 私情]],
+        illicit, fornicating;
+    - _(4)ts(')ing (u")(6) ts(o\)(6)_
+        [[cing4 jyun6 zou6 情願做]]
+        I'll willingly do it;
+    - _(4)ts(')ing sh(e/)ung(6) ok(8) kwo(3)_
+        [[cing4 soeng6 ok3 gwo3 情上惡過]]
+        a hard temper;
+    - _(4)ts(')ing (5)l(i/)_
+        [[cing4 lei5 情理]],
+        common sense, reasonable;
+    - _(4)ts(')ing (4)t(')au_
+        [[cing4 tau4 情投]],
+        a mutual liking.
+    ==
+  ====
+C
+  ==
+  - Williams considers _(4)ts(')eng_ (ceng4) a possible reading variation for 情.
+  - Williams' 多情: Also amorous.
+  - Williams' 情由: Changed _(4)ts(')eng_ (ceng4) to _(4)ts(')ing_ (cing4).
+  ==
 $$
 
 ### 惩4 | _(4)Ch(')ing_ [[cing4]]
