@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [ceng1](#1)
+- [ceng2](#2)
 ==
 </nav>
 <## /tones ##>
@@ -106,5 +107,41 @@ W
 S
   ==
   - $青cing1
+  ==
+$$
+
+
+##{#2 .williams} (2)Ts(')eng [[ceng2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $請2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 請2 | _(2)Ts(')eng_ [[ceng2]]
+
+$$
+R
+  ⾔ + 8
+U
+  U+8ACB
+H
+  May appear as either ⿰訁靑 or ⿰訁青 (assumed here),
+  depending on the font.
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~578 (2)請]]
+    --
+    [[Reading variation. **See $請cing2 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $請cing2
   ==
 $$

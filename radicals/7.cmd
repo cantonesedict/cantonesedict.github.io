@@ -158,8 +158,9 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $諂cim2
+      - $請ceng2
       - $請cing2
+      - $諂cim2
       - $諍zaang3
       - $諍zang3
       - $諏zau1
