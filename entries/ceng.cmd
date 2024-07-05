@@ -131,7 +131,7 @@ W
   ====
   - [[Page~578 (2)請]]
     --
-    [[Reading variation. **See $請cing2 for the canonical entry.**]]
+    [[Reading variation (vernacular). **See $請cing2 for the canonical entry.**]]
     --
   ====
 S
