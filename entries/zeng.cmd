@@ -5,18 +5,12 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeng
-* %date-modified --> 2024-06-28
+* %date-modified --> 2024-07-05
 * %copyright-prior-years -->
 
 %%%
 
 #{.williams} Cheng. Tseng. [[zeng]]
-
-<nav class="sideways">
-=={.modern}
-- (Work in progress)
-==
-</nav>
 
 <## tones ##>
 <nav class="sideways">
