@@ -60,6 +60,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $靑1
+- $青1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -83,5 +84,27 @@ W
 S
   ==
   - $靑cing1
+  ==
+$$
+
+### 青1 | _(1)Ts(')eng_ [[ceng1]]
+
+$$
+R
+  ⾭ + 0
+U
+  U+9752
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~577 (1)靑(1)青]]
+    --
+    [[Reading variation (vernacular for "green" senses). **See $青cing1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $青cing1
   ==
 $$

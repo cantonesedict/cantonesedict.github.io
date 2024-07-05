@@ -478,6 +478,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $靑ceng1
       - $靑cing1
+      - $青ceng1
       - $青cing1
       ==
       </nav>
