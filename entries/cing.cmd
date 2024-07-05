@@ -690,6 +690,9 @@ R
   ⾔ + 8
 U
   U+8ACB
+H
+  May appear as either ⿰訁靑 or ⿰訁青 (assumed here),
+  depending on the font.
 V
   ==
   - ceng2 (vernacular)
