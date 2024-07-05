@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [ceng1](#1)
 ==
 </nav>
 <## /tones ##>
@@ -51,3 +52,36 @@ $$
   <br>
 [[Notwithstanding, this only applies to 青 and 請 (and possibly 清).]]
 --
+
+
+##{#1 .williams} (1)Ts(')eng [[ceng1 陰平]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $靑1
+==
+</nav>
+<## /tone-1-characters ##>
+
+### 靑1 | _(1)Ts(')eng_ [[ceng1]]
+
+$$
+R
+  ⾭ + 0
+U
+  U+9751
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~577 (1)靑(1)青]]
+    --
+    [[Alternative form of 青, and reading variation (vernacular for "green" senses). **See $青cing1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $靑cing1
+  ==
+$$
