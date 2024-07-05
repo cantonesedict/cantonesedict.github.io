@@ -40,7 +40,7 @@ MP
   ==
 S
   ==
-  - $ceng (TODO)
+  - $ceng
   ==
 $$
 
