@@ -139,7 +139,7 @@ See also: [Index of Cantonese terms by Jyutping](/terms/).
 - $cau
 - $ce
 - $cek
-- $ceng (work in progress)
+- $ceng
 - $ceoi (work in progress)
 - $ceon (work in progress)
 - $ceot (work in progress)
