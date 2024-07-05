@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-07-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -638,7 +638,7 @@ W
         [[zoeng2 ak1 bing1 kyun4 掌握兵權]],
         to command the forces;
     - _(2)ch(e/)ung k(a/)u(3)_
-        [[zoeng2 gaau3 掌教]]
+        [[zoeng2 gaau3 掌敎]]
         to teach [graduates];
         [[these square brackets appear in the original text]]
     - _hon(3) (2)shau (2)ch(e/)ung_
