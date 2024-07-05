@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2024-07-04
+* %date-modified --> 2024-07-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -576,6 +576,7 @@ $$
 - $檉2
 - $蟶2
 - $裎2
+- $請2
 - $赬2
 - $逞2
 - $郢2
@@ -685,6 +686,108 @@ C
 S
   ==
   - $裎cing4
+  ==
+$$
+
+### 請2 | _(2)Ts(')ing_ [[cing2]]
+
+$$
+R
+  ⾔ + 8
+U
+  U+8ACB
+V
+  ==
+  - ceng2 (vernacular)
+  ==
+F
+  ==
+  - [[F1.72 請]] 敬請迎請又托也
+  ==
+W
+  ====
+  - [[Page~578 (2)請]]
+    ==
+    - To request, to ask courteously, to pray, to beg;
+    - to request liberty to do, to ask, as for orders;
+    - to invite, to bid, to engage;
+    - to confess, to acknowledge;
+    - to inform;
+    - _(2)ts(')ing [(5)ts(')o]_
+        [[cing2 co5 請坐]]^
+        please be seated;
+    - _(2)ts(')eng (2)tsau_
+        [[ceng2 zau2 請酒]],
+        to ask to a dinner;
+    - _(2)ts(')ing (2)tsau t(')(i/)p(8)_
+        [[cing2 zau2 tip3-2 請酒帖]]
+        an invitation to dinner;
+    - _(2)ts(')eng k(a/)u(3)_
+        [[ceng2 gaau3 請敎]]
+        please tell me;
+    - _(2)ts(')ing (4)k(')(i/)_
+        [[cing2 kei4 請期]],
+        to appoint the time of marriage;
+    - _(2)ts(')ing p(i/)n(6)_
+        [[cing2 bin6 請便]]
+        don't let me take your time;
+    - _(2)ts(')eng (5)li(u/)_
+        [[ceng2 liu5 請了]],
+        has been invited;
+    - _(2)ts(')eng (1)s(i/)n (1)[sh(a/)ng]_
+        [[ceng2 sin1 saang1 請先生]],
+        to engage a teacher;
+    - _(2)ts(')ing (4)ch(')(a/)_
+        [[cing2 caa4 請茶]],
+        please take your tea;
+    - _(2)ts(')ing (1)ts(')(a/)m_
+        [[cing2 caam1 請參]],
+        to request dismissal from office, to throw it up;
+    - _(2)ts(')ing k(a/)(3)_
+        [[cing2 gaa3 請駕]]
+        please go, Sir;
+    - _(2)ts(')ing ming(6)_
+        [[cing2 ming6 請命]]
+        what do you wish?
+    - _(2)ts(')ing (a/)(3)_
+        [[cing2 aa3 請啊]]
+        please;
+        your good health;
+    - _(2)ts(')ing ts(u/)i(6)_
+        [[cing2 zeoi6 請罪]]
+        to apologize, to confess;
+    - _(2)ts(')eng yik(7)_
+        [[ceng2 jik1 請益]]
+        please let me know;
+    - _(2)ts(')eng man(6)_
+        [[ceng2 man6 請問]]
+        to beg, to ask;
+    - _(2)ts(')ing (2)ts(')ing_
+        [[cing2 cing2 請請]],
+        thank you;
+        good bye;
+        (the word _chin-chin_ is derived from this phrase;)
+    - _(2)ts(')eng h(u")(3) shik(9) f(a/)n[(6)]_
+        [[ceng2 heoi3 sik6 faan6 請去食飯]]
+        invited out to dine.
+    ==
+  ====
+C
+  ==
+  - Williams' 請坐: Corrected _tso(6)_ (zo6 去聲) to _(5)ts(')o_ (co5 上聲).
+  - Williams' 請敎: To ask or consult with someone (more knowledgeable than oneself).
+  - Williams' 請先生: Changed _(1)shang_ (sang1)
+    to vernacular reading _(1)sh(a/)ng_ (saang1).
+  - Williams' 請命: More a third-person indicative
+    than a second-person interrogative.
+  - Williams' 請益: More a third-person indicative
+    than a second-person request.
+  - Williams' 請問: More a second-person interrogative
+    than a third-person indicative.
+  ==
+S
+  ==
+  - $請ceng2 (TODO)
   ==
 $$
 
