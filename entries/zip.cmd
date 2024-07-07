@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $囁3
 - $慴3
+- $懾3
 - $摺3
 ==
 </nav>
@@ -113,6 +114,27 @@ C
 S
   ==
   - $慴sip3 (TODO)
+  ==
+$$
+
+###+ 懾3 | _Ch(i/)p(8)_ (zip3)
+
+$$
+R
+  ⼼ + 18
+U
+  U+61FE
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation. **See $懾sip3 for the canonical entry.**
+  ==
+S
+  ==
+  - $懾sip3 (TODO)
   ==
 $$
 

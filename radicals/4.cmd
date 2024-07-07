@@ -181,6 +181,14 @@ For all radicals, see [Index of characters by radical](./).
       - $懺caam3
       ==
       </nav>
+  //
+    , 18
+    ,
+      <nav class="sideways">
+      ==
+      - $懾zip3
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⼼-characters ##>
