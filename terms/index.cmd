@@ -812,6 +812,9 @@ window.onload = applyFilter;
     , zip3 maai4
     , [摺埋](/entries/zip#cantonese-摺埋)
   //
+    , zit1
+    , [擳](/entries/zit#cantonese-擳)
+  //
     , zit3
     , [折](/entries/zit#cantonese-折)
   //

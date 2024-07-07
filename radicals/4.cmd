@@ -434,6 +434,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $撾zaa1
       - $擇zaak6
+      - $擳zit1
       ==
       </nav>
   //

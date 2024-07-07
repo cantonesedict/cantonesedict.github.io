@@ -51,6 +51,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $折1
+- $擳1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -80,6 +81,67 @@ S
   - $折sit6 (TODO)
   - $折zit3
   ==
+$$
+
+###+ 擳1 | _Ch(i/)t(7)_ (zit1)
+
+$$
+R
+  ⼿ + 13
+U
+  U+64F3
+H
+  May appear as either ⿰扌⿱𥫗即 (+13 assumed here) or ⿰扌⿱𥫗卽 (+15),
+  depending on the font.
+A
+  ==
+  -{.modern} 㘉
+  - $折1
+  -{.modern} 瀄 (for "squirt" senses)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~22* 折(7); here normalised to 擳]]
+    --
+    [[...]]
+    --
+    --
+    A colloquial word.
+    --
+    ==
+    - To tickle;
+    - to splash up, to spatter at;
+    - to squirt at, as from a hose;
+    - _ch(i/)t(7) (2)nan (1)shan_
+        [[zit1 nan2 san1 擳㤻身]],
+        splash me all over.
+    ==
+  ====
+E
+  ====
+  - 【擳】 (zit1):
+    ++
+    1. To tickle.
+       ==
+       - 怕擳 (paa3 zit1): "Ticklish."
+       ==
+    1. To squeeze, to pinch.
+       ==
+       - 擳暗瘡 (zit1 am3 cong1): "Pop [a] pimple."
+       - 擳牙膏 (zit1 ngaa4 gou1): "Squeeze toothpaste" (used figuratively for slow progress in small amounts).
+       ==
+    1. A small amount.
+       ==
+       - 擳都唔笑 (zit1 dou1 m4 siu3): "Not [a] pinch of laughter."
+       ==
+    1. To squirt, to spray.
+       ==
+       - 擳到周圍都係 (zit1 dou3 zau1 wai4 dou1 hai6): "Squirted [it] all over [the place]."
+       ==
+    ++
+  ====
 $$
 
 
