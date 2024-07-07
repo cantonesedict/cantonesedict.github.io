@@ -148,7 +148,7 @@ See also: [Index of Cantonese terms by Jyutping](/terms/).
 - $cim
 - $cin
 - $cing
-- $cip (work in progress)
+- $cip
 - $cit (work in progress)
 - $ciu (work in progress)
 - $co (work in progress)
