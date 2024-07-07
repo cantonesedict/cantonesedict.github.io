@@ -53,6 +53,7 @@ $$
 - $慴3
 - $懾3
 - $摺3
+- $楫3
 - $褶3
 - $襵3
 - $輒3
@@ -205,6 +206,26 @@ E
     ++
     1. To fold, to shut up (of a business).
     ++
+  ====
+$$
+
+### 楫3 | _Ts(i/)p(8)_ [[zip3]]
+
+$$
+R
+  ⽊ + 9
+U
+  U+696B
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~578 褶(8)]]
+    ==
+    - An oar, a paddle, or whatever is used to propel a boat;
+    - to row;
+    - to avail of for one's purposes.
+    ==
   ====
 $$
 
