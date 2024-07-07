@@ -54,6 +54,7 @@ $$
 - $懾3
 - $摺3
 - $楫3
+- $浹3
 - $褶3
 - $襵3
 - $輒3
@@ -227,6 +228,51 @@ W
     - to avail of for one's purposes.
     ==
   ====
+$$
+
+### 浹3 | _Ts(i/)p(8)_ [[zip3]]
+
+$$
+R
+  ⽔ + 7
+U
+  U+6D79
+F
+  ==
+  - [[F2.50 浹]] 浹洽融？通徹也
+  ==
+W
+  ====
+  - [[Page~578 浹(8)]]
+    --
+     Interchanged with _h(i/)p_ [[hip]] 挾 to assist.
+    --
+    ==
+    - Water flowing through;
+    - moistened, imbibed, damp;
+    - to instil, to penetrate;
+    - a complete turn of, a circuit;
+    - _ts(i/)p(8) yat(9)_
+        [[zip3 jat6 浹日]]
+        a decade;
+    - _ts(i/)p(8) (4)shan_
+        [[zip3 san4 浹辰]]^
+        twelve days or hours, a circuit of the 12~branches;
+    - _ts(i/)p(8) h(a/)p(9)_
+        [[zip3 haap6 浹洽]]
+        fully imbued with, to interpenetrate;
+        to treat cordially, as friends.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: The incomprehensible character looks like 液 minus 亻.
+  - Williams' 浹日: Not ten years, but ten days (from 甲 to 癸).
+  ==
+S
+  ==
+  - $浹gaap3 (TODO)
+  ==
 $$
 
 ### 褶3 | _Ch(i/)p(8)_ [[zip3]]
