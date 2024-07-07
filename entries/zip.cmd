@@ -53,6 +53,7 @@ $$
 - $慴3
 - $懾3
 - $摺3
+- $襵3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -202,5 +203,30 @@ E
     ++
     1. To fold, to shut up (of a business).
     ++
+  ====
+$$
+
+### 襵3 | _Ch(i/)p(8)_ [[zip3]]
+
+$$
+R
+  ⾐ + 18
+U
+  U+8975
+F
+  ==
+  - [[F2.51 褶]] 衣也
+  - [[F2.51 襵]] 同上
+  - [[F2.51 慴]] 同上
+  ==
+W
+  ====
+  - [[Page~22* 襵(8)]]
+    ==
+    - To fold garments;
+    - to plait, to double;
+    - plaits, frounces, gathers, like those of a Chinese lady's petticoat;
+    - plaited.
+    ==
   ====
 $$
