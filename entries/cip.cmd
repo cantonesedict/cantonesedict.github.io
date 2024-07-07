@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cip
-* %date-modified --> 2023-08-02
-* %copyright-prior-years -->
+* %date-modified --> 2024-07-07
+* %copyright-prior-years --> 2023--
 
 %%%
-
---{.modern}
-(From Page~579 of the original onwards.)
---
 
 #{.williams} Ts(')(i/)p. [[cip]]
 
@@ -21,3 +17,25 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Ts(')(i/)p. [[Page~579]]
+  ==
+WP
+  ==
+  - Ts(')(i/)p <span class="modern">= [tsʰiːp̚]</span>
+  ==
+MP
+  ==
+  - cip = [tsʰiːp̚] ((preferred)), [tɕʰiːp̚]
+  ==
+$$
