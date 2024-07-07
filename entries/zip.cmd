@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zip
-* %date-modified --> 2024-07-05
+* %date-modified --> 2024-07-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -49,10 +49,41 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $囁3
 - $摺3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 囁3 | _Ch(i/)p(8)_ [[zip3]]
+
+$$
+R
+  ⼝ + 18
+U
+  U+56C1
+V
+  ==
+  - jip6 (alternative from 而涉切)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~22* 囁(8)]]
+    ==
+    - An unbridled tongue;
+    - vilifying, grumbling, scolding, slandering;
+    - _ch(i/)p(8) [(4)(u")]_
+        [[zip3 jyu4 囁嚅]],
+        chattering, querulous.
+    ==
+  ====
+C
+  ==
+  - Williams' 囁嚅: Corrected _(1)s(u")_ (seoi1) to _(4)(u")_ (jyu4).
+  ==
+$$
 
 ### 摺3 | _Ch(i/)p(8)_ [[zip3]]
 
