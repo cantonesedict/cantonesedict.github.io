@@ -55,6 +55,7 @@ $$
 - $摺3
 - $楫3
 - $浹3
+- $睫3
 - $褶3
 - $襵3
 - $輒3
@@ -272,6 +273,34 @@ C
 S
   ==
   - $浹gaap3 (TODO)
+  ==
+$$
+
+### 睫3 | _Ts(i/)p(8)_ [[zip3]]
+
+$$
+R
+  ⽬ + 8
+U
+  U+776B
+F
+  ==
+  - [[F2.50 ::[睫]::]] ::目[睫]目旁毛也::
+  ==
+W
+  ====
+  - [[Page~579 睫(8)]]
+    --
+    [[Reading variation. **See $睫zit6 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised headword (with right component like 偼) to 睫.
+  ==
+S
+  ==
+  - $睫zit6 (TODO)
   ==
 $$
 
