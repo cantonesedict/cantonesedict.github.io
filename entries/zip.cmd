@@ -53,6 +53,7 @@ $$
 - $慴3
 - $懾3
 - $摺3
+- $褶3
 - $襵3
 ==
 </nav>
@@ -204,6 +205,40 @@ E
     1. To fold, to shut up (of a business).
     ++
   ====
+$$
+
+### 褶3 | _Ch(i/)p(8)_ [[zip3]]
+
+$$
+R
+  ⾐ + 11
+U
+  U+8936
+F
+  ==
+  - [[F2.51 褶]] 衣也
+  - [[F2.51 襵]] 同上
+  - [[F2.51 慴]] 同上
+  ==
+W
+  ====
+  - [[Page~22* 褶(8)]]
+    --
+    Used for the last [[$襵3]],
+    but always read _ch(a/)p(8)_ or _ts(a/)p(8)_ [[**see $褶zaap3**]].
+    --
+    ==
+    - [[See $褶dip6 for "lined garment" senses]];
+    - [[See $褶zaap6 for "riding jacket" senses]];
+    - [[...]].
+    ==
+  ====
+S
+  ==
+  - $褶dip6 (TODO)
+  - $褶zaap3 (TODO)
+  - $褶zaap6 (TODO)
+  ==
 $$
 
 ### 襵3 | _Ch(i/)p(8)_ [[zip3]]
