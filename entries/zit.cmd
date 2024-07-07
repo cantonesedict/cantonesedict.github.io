@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [zit1](#1)
 - [zit3](#3)
 ==
 </nav>
@@ -40,6 +41,44 @@ WP
 MP
   ==
   - zit = [tsiːt̚] ((preferred)), [tɕiːt̚]
+  ==
+$$
+
+
+##{#1 .williams} Ch(i/)t(7) [[zit1 高陰入]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $折1
+==
+</nav>
+<## /tone-1-characters ##>
+
+### 折1 | _Ch(i/)t(7)_ [[zit1]]
+
+$$
+R
+  ⼿ + 4
+U
+  U+6298
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~22* 折(7)]]
+    --
+    [[...]]
+    --
+    --
+    A colloquial word.
+    [[here normalised to 擳; **see $擳zit1 for the canonical entry**]].
+    --
+  ====
+S
+  ==
+  - $折sit6 (TODO)
+  - $折zit3
   ==
 $$
 
@@ -151,6 +190,6 @@ E
 S
   ==
   - $折sit6 (TODO)
-  - $折zit1 (TODO)
+  - $折zit1
   ==
 $$
