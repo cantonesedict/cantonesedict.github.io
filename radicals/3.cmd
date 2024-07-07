@@ -482,6 +482,7 @@ For all radicals, see [Index of characters by radical](./).
       - $妻cai3
       - $始ci2
       - $姒ci5
+      - $妾cip3
       - $姐ze1
       - $姐ze2
       - $姊zi2
