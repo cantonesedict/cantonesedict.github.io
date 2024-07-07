@@ -363,6 +363,7 @@ For all radicals, see [Index of characters by radical](./).
       - $掙zang3
       - $掣zai3
       - $掫zau1
+      - $接zip3
       - $掌zoeng2
       ==
       </nav>

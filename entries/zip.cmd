@@ -52,6 +52,7 @@ $$
 - $囁3
 - $慴3
 - $懾3
+- $接3
 - $摺3
 - $楫3
 - $浹3
@@ -141,6 +142,72 @@ C
 S
   ==
   - $懾sip3 (TODO)
+  ==
+$$
+
+### 接3 | _Ts(i/)p(8)_ [[zip3]]
+
+$$
+R
+  ⼿ + 8
+U
+  U+63A5
+F
+  ==
+  - [[F2.50 接]] 相續也運也受也待也
+  ==
+W
+  ====
+  - [[Page~579 接(8)]]
+    ==
+    - To receive in the hand;
+    - to receive, to connect, to join, to succeed;
+    - combined with, united to;
+    - to take in, as jobs;
+    - to meet, to associate with;
+    - to take, as reflected light;
+    - quick;
+    - _(4)ying ts(i/)p(8)_
+        [[jing4 zip3 迎接]]
+        to greet, to go and meet, as a visitor;
+    - _ts(i/)p(8) (4)p(')(u/)i_
+        [[zip3 pui4 接陪]],
+        to conduct a visitor to a seat;
+    - _ts(i/)p(8) tsuk(9)_
+        [[zip3 zuk6 接續]]
+        to succeed to, to continue;
+    - _(4)m(o\) tak(7) ts(i/)p(8) tsuk(9)_
+        [[mou4 dak1 zip3 zuk6 無得接續]]
+        nothing comes after it;
+    - _ts(i/)p(8) yan(3)_
+        [[zip3 jan3 接印]]
+        to receive the seals;
+    - _ts(i/)p(8) (1)fung_
+        [[zip3 fung1 接風]],
+        to welcome a friend back;
+    - _(4)shing ts(i/)p(8) (4)nai (2)shui_
+        [[sing4 zip3 nai4 seoi2 承接泥水]],
+        orders received for masonwork;
+    - _ts(i/)p(8) (5)l(a/)m (5)n(i/)_
+        [[zip3 laam5 nei5 接？你]],
+        I'll divide the present with you;
+    - _ts(i/)p(8) k(a/)(3) (5)m(a/)_
+        [[zip3 gaa3 maa5 接駕馬]],
+        paranymphs sent for the bride;
+    - _kwai(6) ts(i/)p(8)_
+        [[gwai6 zip3 跪接]]
+        to kneel and receive, as a subaltern does;
+    - _(5)ngo tak(7) ts(i/)p(8)_
+        [[ngo5 dak1 zip3 我得接]]
+        I have got it;
+    - _ts(i/)p(8) (1)k(u/)n (4)[t(')ing]_
+        [[zip3 gun1 ting4 接官亭]],
+        a porch for receiving officers on landing.
+    ==
+  ====
+C
+  ==
+  - Williams' 接官亭: Corrected _(4)t(')eng_ (teng4) to _(4)t(')ing_ (ting4).
   ==
 $$
 
