@@ -237,7 +237,7 @@ S
   ==
   - $褶dip6 (TODO)
   - $褶zaap3
-  - $褶zaap6 (TODO)
+  - $褶zaap6
   ==
 $$
 

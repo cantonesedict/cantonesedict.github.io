@@ -168,7 +168,7 @@ C
 S
   ==
   - $褶dip6 (TODO)
-  - $褶zaap6 (TODO)
+  - $褶zaap6
   - $褶zip3
   ==
 $$
@@ -183,6 +183,7 @@ $$
 - $极6
 - $槢6
 - $習6
+- $褶6
 - $襍6
 - $襲6
 - $鈒6
@@ -336,6 +337,38 @@ C
   ==
   - Fan Wan entry: Corrected 綀 to 練.
   - Williams' 習俗使然: Corrected _(5)sh(i/)_ (si5) to _(2)sz'_ (si2).
+  ==
+$$
+
+###+ 褶6 | _Ts(a/)p(9)_ (zaap6)
+
+$$
+R
+  ⾐ + 11
+U
+  U+8936
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~22* 褶(8) _Ch(i/)p(8)_ (zip3); here corrected to _Ts(a/)p(9)_ (zaap6)]]
+    --
+    [[...]]
+    --
+    ==
+    - [[...]];
+    - a lined riding jacket;
+    - _f(u/)(3) [ts(a/)p(9)]_
+        [[fu3 zaap6 袴褶]]
+        overalls for horseback;
+    - [[...]].
+    ==
+  ====
+S
+  ==
+  - $褶dip6 (TODO)
+  - $褶zaap3
+  - $褶zip3
   ==
 $$
 
