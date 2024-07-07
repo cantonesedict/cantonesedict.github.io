@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $囁3
+- $慴3
 - $摺3
 ==
 </nav>
@@ -82,6 +83,36 @@ W
 C
   ==
   - Williams' 囁嚅: Corrected _(1)s(u")_ (seoi1) to _(4)(u")_ (jyu4).
+  ==
+$$
+
+### 慴3 | _Ch(i/)p(8)_ [[zip3]]
+
+$$
+R
+  ⼼ + 11
+U
+  U+6174
+F
+  ==
+  - [[F2.51 褶]] 衣也
+  - [[F2.51 襵]] 同上
+  - [[F2.51 慴]] 同上
+  ==
+W
+  ====
+  - [[Page~22* 慴(8)]]
+    --
+    [[Alternative form of 懾, and reading variation. **See $懾sip3 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan erroneously has 慴 as an alternative form of 褶.
+  ==
+S
+  ==
+  - $慴sip3 (TODO)
   ==
 $$
 
