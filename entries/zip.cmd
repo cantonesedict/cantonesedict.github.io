@@ -55,6 +55,7 @@ $$
 - $摺3
 - $褶3
 - $襵3
+- $輒3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -262,6 +263,31 @@ W
     - to plait, to double;
     - plaits, frounces, gathers, like those of a Chinese lady's petticoat;
     - plaited.
+    ==
+  ====
+$$
+
+### 輒3 | _Ch(i/)p(8)_ [[zip3]]
+
+$$
+R
+  ⾞ + 7
+U
+  U+8F12
+F
+  ==
+  - [[F2.51 輒]] 急然也專也卽也就也
+  ==
+W
+  ====
+  - [[Page~22* 輒(8)]]
+    ==
+    - The sides of a a carriage, where arms are stuck;
+    - unceremoniously, suddenly, abruptly;
+    - directly, without permission;
+    - _ch(i/)p(8) (4)(i/)n_
+        [[zip3 jin4 輒然]],
+        forthwith.
     ==
   ====
 $$
