@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaap
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-07-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -46,6 +46,7 @@ $$
 =={.modern}
 - $劄3
 - $眨3
+- $褶3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -125,6 +126,50 @@ C
 S
   ==
   - $眨zaam2
+  ==
+$$
+
+### 褶3 | _Ch(a/)p(8)_ _Ts(a/)p(8)_ [[zaap3]]
+
+$$
+R
+  ⾐ + 11
+U
+  U+8936
+V
+  ==
+  - zip3 (from 摺)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~22* 褶(8)]]
+    --
+    Used for the last [[襵]],
+    but always read _ch(a/)p(8)_ or _ts(a/)p(8)_.
+    --
+    ==
+    - [[See $褶dip6 for "lined garment" senses]];
+    - [[See $褶zaap6 for "riding jacket" senses]];
+    - _(4)kw(')an ch(a/)p(8)_
+        [[kwan4 zaap3 裙褶]]
+        the plaits on a petticoat;
+    - _(2)t(a/) [ch(a/)p](8)_
+        [[daa2 zaap3 打褶]]
+        to tighten the girdle.
+    ==
+  ====
+C
+  ==
+  - Williams' 打褶: Changed _ch(i/)p(8)_ (zip3)
+    to common reading _ch(a/)p(8)_ (zaap3).
+  ==
+S
+  ==
+  - $褶dip6 (TODO)
+  - $褶zaap6 (TODO)
+  - $褶zip3
   ==
 $$
 
