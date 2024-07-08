@@ -70,7 +70,7 @@ by [Samuel Wells Williams].
 
 ##{#source .modern} Source
 
-###{.modern} Master ''Tonic Dictionary''
+###{#master-tonic .modern} Master ''Tonic Dictionary''
 
 --{.modern}
 The version of ''Tonic Dictionary'' used as the master reference is
@@ -89,7 +89,7 @@ Note the special paging:
 1. Pages~41 onward are slugs [m.41] onward.
 ++
 
-###{.modern} Subsidiary ''Tonic Dictionary''
+###{#subsidiary-tonic .modern} Subsidiary ''Tonic Dictionary''
 
 --{.modern}
 While it would have been more preferable to use
@@ -116,7 +116,7 @@ that version has severe paging issues:
   who scanned the book.
 ++
 
-###{.modern} Other useful references
+###{#other-references .modern} Other useful references
 
 ===={.modern}
 - [《江湖尺牘分韻撮要合集》 (1838)][fan-wan],
