@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zit
-* %date-modified --> 2024-07-07
+* %date-modified --> 2024-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -150,10 +150,45 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $哲3
 - $折3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 哲3 | _Ch(i/)t(8)_ [[zit3]]
+
+$$
+R
+  ⼝ + 7
+U
+  U+54F2
+A
+  ==
+  - $喆3
+  ==
+F
+  ==
+  - [[F1.25 哲]] 明哲
+  - [[F1.25 喆]] 同上
+  ==
+W
+  ====
+  - [[Page~22* 哲(8)喆(8)]]
+    ==
+    - Wise, perspicacious, sage;
+    - to know intuitively;
+    - versed in;
+    - to be fully aware of;
+    - _(4)ming ch(i/)t(8)_
+        [[ming4 zit3 明哲]]
+        to know thoroughly;
+    - _pat(7) ch(i/)t(8)_
+        [[bat1 zit3 不哲]]
+        dull-headed.
+    ==
+  ====
+$$
 
 ### 折3 | _Ch(i/)t(8)_ [[zit3]]
 
