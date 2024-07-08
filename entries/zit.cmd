@@ -154,6 +154,7 @@ $$
 - $喆3
 - $折3
 - $浙3
+- $蜇3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -337,5 +338,35 @@ W
 C
   ==
   - Williams misprints 浙 as 淅; here corrected.
+  ==
+$$
+
+### 蜇3 | _Ch(i/)t(8)_ [[zit3]]
+
+$$
+R
+  ⾍ + 7
+U
+  U+8707
+F
+  ==
+  - [[F1.25 蜇]] ::海蜇水[母]足::
+  ==
+W
+  ====
+  - [[Page~23* 蜇(8)]]
+    ==
+    - A sting;
+    - any part of insects which inflicts a poisonous wound;
+    - _ch(i/)t(8) (4)p(')(i/)_
+        [[zit3 pei4 蜇皮]],
+        the dried skin of a blubber fish,
+        called _(2)shui (5)m(o\)_ [[seoi2 mou5 水母]],
+        when alive.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 毋 to 母.
   ==
 $$
