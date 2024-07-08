@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2024-06-30
+* %date-modified --> 2024-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -390,7 +390,7 @@ W
   ====
 C
   ==
-  - Williams misprints 籤 as 韱.
+  - Williams misprints 籤 as 韱; here corrected.
   - Williams' 摮籤: More shaking out than drawing.
   ==
 $$
@@ -561,7 +561,7 @@ C
   ==
   - Fan Wan entry: Corrected headword 謟 to 諂, headword ⿵門謟 to 讇,
     and headword self-reference to 上.
-  - Williams misprints 讇 as 𨶒 (⿵門舀).
+  - Williams misprints 讇 as 𨶒 (⿵門舀); here corrected.
   ==
 $$
 
@@ -588,7 +588,7 @@ C
   ==
   - Fan Wan entry: Corrected headword 謟 to 諂, headword ⿵門謟 to 讇,
     and headword self-reference to 上.
-  - Williams misprints 讇 as 𨶒 (⿵門舀).
+  - Williams misprints 讇 as 𨶒 (⿵門舀); here corrected.
   ==
 $$
 

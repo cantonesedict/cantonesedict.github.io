@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2024-06-25
+* %date-modified --> 2024-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -109,14 +109,14 @@ F
   ==
 W
   ====
-  - [[Page~562 (1)愁; here corrected to 愀]]
+  - [[Page~562 ::(1)[愀]^::]]
     --
     [[Idiosyncratic reading from Fan Wan. **See $愀ciu2 for the canonical entry.**]]
     --
   ====
 C
   ==
-  - Williams misprints 愀 as 愁.
+  - Williams misprints 愀 as 愁; here corrected.
   ==
 S
   ==

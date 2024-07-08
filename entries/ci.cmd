@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2024-06-30
+* %date-modified --> 2024-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -150,7 +150,7 @@ W
 C
   ==
   - Fan Wan entry: Normalised headword 𡟎 (⿰女虽) to 媸.
-  - Williams misprints 媸 as 𡟎 (⿰女⿱山虫).
+  - Williams misprints 媸 as 𡟎 (⿰女⿱山虫); here corrected.
   - Williams' 妍媸自見: Corrected _k(i/)n(6)_ (gin6) to _(i/)n(6)_ (jin6).
   ==
 $$
@@ -3028,7 +3028,7 @@ W
   ====
 C
   ==
-  - Williams misprints (5)姒 as (2)姒.
+  - Williams misprints (5)姒 as (2)姒; here corrected.
   ==
 $$
 

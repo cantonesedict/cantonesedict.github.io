@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2024-05-28
+* %date-modified --> 2024-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -394,7 +394,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected headword ⿳由儿夂 to 畟, and corrected 犬 to 尖.
-  - Williams misprints 畟 as ⿳田儿又.
+  - Williams misprints 畟 as ⿳田儿又; here corrected.
   - The reading _tsik(7)_ (zik1) is not unattested;
     《廣韻》 has 子力切, though without explanation (except 又初力切),
     and Kangxi quotes 又《集韻》節力切音卽義同.

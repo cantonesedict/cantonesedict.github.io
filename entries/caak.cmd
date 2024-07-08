@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caak
-* %date-modified --> 2024-06-02
+* %date-modified --> 2024-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -278,7 +278,7 @@ W
   ====
 C
   ==
-  - Williams misprints 拆(8) as 拆(9).
+  - Williams misprints 拆(8) as 拆(9); here corrected.
   - Williams' 拆散:
     Note the subtle difference between the two readings
     _ch(')(a/)k(8) s(a/)n(3)_ (caak3 saan3) "scatter" and

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2024-06-30
+* %date-modified --> 2024-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -151,7 +151,7 @@ W
   ====
 C
   ==
-  - Williams misprints 叅 as ⿳厽𠆢氺.
+  - Williams misprints 叅 as ⿳厽𠆢氺; here corrected.
   ==
 $$
 

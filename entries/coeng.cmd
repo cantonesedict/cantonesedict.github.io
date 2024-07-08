@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2024-05-28
+* %date-modified --> 2024-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -160,7 +160,7 @@ W
   ====
 C
   ==
-  - Williams misprints 𢃑 (⿰巾昌) as 帽.
+  - Williams misprints 𢃑 (⿰巾昌) as 帽; here corrected.
   ==
 $$
 
@@ -494,7 +494,7 @@ W
   ====
 C
   ==
-  - Williams misprints 𢃑 (⿰巾昌) as 帽.
+  - Williams misprints 𢃑 (⿰巾昌) as 帽; here corrected.
   ==
 $$
 
