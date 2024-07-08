@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Home
-* %date-modified --> 2024-01-07
+* %date-modified --> 2024-07-08
 * %copyright-prior-years --> 2023--
 * %modern-colour --> crimson
 * %meta-description --> home page
@@ -13,6 +13,12 @@ OrdinaryDictionaryReplacement: #.properties-override
 OrdinaryDictionaryReplacement: #.no-black-serif-note
 - queue_position: AFTER #.boilerplate.footer
 * %black-serif-note -->
+
+RegexDictionaryReplacement: #.master-tonic-link
+- queue_position: BEFORE #specified-links
+* \[ m [.] (?P<page_slug> [n]? [0-9]+ ) \]
+    -->
+  [\g<page_slug>](https://archive.org/details/williams-a-tonic-dictionary-of-the-chinese-language-in-the-canton-dialect-1856/page/\g<page_slug>/mode/1up)
 
 RegexDictionaryReplacement: #.subsidiary-tonic-link
 - queue_position: BEFORE #specified-links
@@ -72,6 +78,16 @@ The version of ''Tonic Dictionary'' used as the master reference is
 sourced from [a Google Books scan][google] of
 [83600-B held at <span lang="de">ÖNB Hauptabt. Heldenplatz</span>][onb].
 --
+--{.modern}
+Note the special paging:
+--
+++{.modern}
+1. Front matter (up to Page~xxxvi) is everything up to slug [m.n43].
+1. Pages~1 through~8 are slugs [m.1] through [m.8].
+1. Pages~9 through~40 are slugs [m.n52] through [m.n83].
+1. Pages~9* through~40* are slugs [m.9] through [m.40].
+1. Pages~41 onward are slugs [m.41] onward.
+++
 
 ###{.modern} Subsidiary ''Tonic Dictionary''
 
@@ -84,17 +100,20 @@ that version has severe paging issues:
 --
 ++{.modern}
 1.
-  Pages~xxxiv and~xxxv are missing (they should appear between [s.n38] and [s.n39]).
+  Pages~xxxiv and~xxxv are missing
+  (they should appear between slugs [s.n38] and [s.n39]).
 1.
   Pages are duplicated:
   ==
   - Pages~14 through~40 appear twice:
-    once at [s.n53] through [s.n79], and again at [s.n85] through [s.n111].
+    once at slugs [s.n53] through [s.n79],
+    and again at slugs [s.n85] through [s.n111].
   - Pages~9* through~13* appear twice:
-    once at [s.n80] through [s.n84], and again at [s.9] through [s.13].
+    once at slugs [s.n80] through [s.n84],
+    and again at slugs [s.9] through [s.13].
   ==
-  It is unclear whether this is an error on the part of the book printer,
-  the scanner, or both.
+  This appears to be an error on the part of the person (or persons)
+  who scanned the book.
 ++
 
 ###{.modern} Other useful references
