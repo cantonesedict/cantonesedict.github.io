@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2024-07-05
+* %date-modified --> 2024-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1249,6 +1249,7 @@ $$
 - $像6
 - $匠6
 - $杖6
+- $橡6
 - $象6
 - $長6
 ==
@@ -1503,6 +1504,39 @@ C
   - Williams' 錫杖: Change Middle Chinese _sik(7)_ (sik1)
     to common reading _sek(8)_ (sek3).
   ==
+$$
+
+###+ 橡6 | _Ts(e/)ung(6)_ (zoeng6)
+
+$$
+R
+  ⽊ + 12
+U
+  U+6A61
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Not present in Williams;
+    an entry is included here for completeness.
+    ++
+    1. Acorn.
+    1. Rubber (from the rubber tree), used in compounds.
+    ++
+  ==
+E
+  ====
+  - 【橡筋】 (zoeng6 gan1):
+    ++
+    1. A rubber band.
+       ==
+       - 畀橡筋紮住 (bei2 zoeng6 gan1 zaat3 zyu6): "Bound by rubber band."
+       ==
+    1. Jellyfish (as food).
+    ++
+  ====
 $$
 
 ### 象6 | _Ts(e/)ung(6)_ [[zoeng6]]
