@@ -153,6 +153,7 @@ $$
 - $哲3
 - $喆3
 - $折3
+- $浙3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -310,5 +311,31 @@ S
   ==
   - $折sit6 (TODO)
   - $折zit1
+  ==
+$$
+
+### [浙]3 | _Ch(i/)t(8)_ [[zit3]]
+
+$$
+R
+  ⽔ + 7
+U
+  U+6D59
+F
+  ==
+  - [[F1.25 浙]] 浙江
+  ==
+W
+  ====
+  - [[Page~23* ::[浙](8)::]]
+    ==
+    - A river in Chehki(a/)ng [[浙江]],
+      called _Ch(i/)t(8) (2)shui_ [[zit3 seoi2 浙水]],
+      from which the province is named.
+    ==
+  ====
+C
+  ==
+  - Williams misprints 浙 as 淅; here corrected.
   ==
 $$
