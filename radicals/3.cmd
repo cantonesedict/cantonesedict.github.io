@@ -174,6 +174,7 @@ For all radicals, see [Index of characters by radical](./).
       - $喳zaa4
       - $啾zau1
       - $喞zik1
+      - $喆zit3
       ==
       </nav>
   //

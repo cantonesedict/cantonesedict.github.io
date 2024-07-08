@@ -151,6 +151,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $哲3
+- $喆3
 - $折3
 ==
 </nav>
@@ -187,6 +188,27 @@ W
         [[bat1 zit3 不哲]]
         dull-headed.
     ==
+  ====
+$$
+
+### 喆3 | _Ch(i/)t(8)_ [[zit3]]
+
+$$
+R
+  ⼝ + 9
+U
+  U+5586
+F
+  ==
+  - [[F1.25 哲]] 明哲
+  - [[F1.25 喆]] 同上
+  ==
+W
+  ====
+  - [[Page~22* 哲(8)喆(8)]]
+    --
+    [[Alternative form of 哲. **See $哲zit3 for the canonical entry.**]]
+    --
   ====
 $$
 
