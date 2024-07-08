@@ -14,6 +14,13 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 - queue_position: AFTER #.boilerplate.footer
 * %black-serif-note -->
 
+RegexDictionaryReplacement: #.subsidiary-tonic-link
+- queue_position: BEFORE #specified-links
+* \[ s [.] (?P<page_slug> [n]? [0-9]+ ) \]
+    -->
+  [\g<page_slug>](https://archive.org/details/tonicdictionaryo00will/page/\g<page_slug>/mode/1up)
+
+
 %%%
 
 #{.modern} Cantonese Dictionary
@@ -77,14 +84,14 @@ that version has severe paging issues:
 --
 ++{.modern}
 1.
-  Pages~xxxiv and~xxxv are missing (they should appear between [n38] and [n39]).
+  Pages~xxxiv and~xxxv are missing (they should appear between [s.n38] and [s.n39]).
 1.
   Pages are duplicated:
   ==
   - Pages~14 through~40 appear twice:
-    once at [n53] through [n79], and again at [n85] through [n111].
+    once at [s.n53] through [s.n79], and again at [s.n85] through [s.n111].
   - Pages~9* through~13* appear twice:
-    once at [n80] through [n84], and again at [9] through [13].
+    once at [s.n80] through [s.n84], and again at [s.9] through [s.13].
   ==
   It is unclear whether this is an error on the part of the book printer,
   the scanner, or both.
@@ -145,16 +152,6 @@ that version has severe paging issues:
 [google]: https://books.google.com/books?id=X8JhunQfImoC
 [onb]: https://search.onb.ac.at/permalink/f/128lc6g/ONB_alma21317554760003338
 [uiuc]: https://archive.org/details/tonicdictionaryo00will/page/n6/mode/1up
-[n38]: https://archive.org/details/tonicdictionaryo00will/page/n38/mode/1up
-[n39]: https://archive.org/details/tonicdictionaryo00will/page/n39/mode/1up
-[n53]: https://archive.org/details/tonicdictionaryo00will/page/n53/mode/1up
-[n79]: https://archive.org/details/tonicdictionaryo00will/page/n79/mode/1up
-[n80]: https://archive.org/details/tonicdictionaryo00will/page/n80/mode/1up
-[n84]: https://archive.org/details/tonicdictionaryo00will/page/n84/mode/1up
-[n85]: https://archive.org/details/tonicdictionaryo00will/page/n85/mode/1up
-[n111]: https://archive.org/details/tonicdictionaryo00will/page/n111/mode/1up
-[9]: https://archive.org/details/tonicdictionaryo00will/page/9/mode/1up
-[13]: https://archive.org/details/tonicdictionaryo00will/page/13/mode/1up
 [fan-wan]: https://nla.gov.au/nla.obj-56620342
 [eitel-dict]: https://books.google.com/books?id=mh8TAAAAYAAJ
 [Ernst Johann Eitel]: https://en.wikipedia.org/wiki/Ernst_Johann_Eitel
