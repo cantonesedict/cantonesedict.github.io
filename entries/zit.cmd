@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [zit1](#1)
 - [zit3](#3)
+- [zit6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -550,5 +551,59 @@ W
 C
   ==
   - Fan Wan entry: Corrected 毋 to 母.
+  ==
+$$
+
+
+##{#6 .williams} Ts(i/)t(9) [[zit6 陽入]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $截6
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 截6 | _Ts(i/)t(9)_ [[zit6]]
+
+$$
+R
+  ⼽ + 10
+U
+  U+622A
+F
+  ==
+  - [[F1.27 截]] 斷也止也
+  ==
+W
+  ====
+  - [[Page~580 截(9)]]
+    ==
+    - To cut in pieces, to cut up;
+    - to cut off, to amputate;
+    - to intercept, to cut off;
+    - to obstruct;
+    - to discriminate, to make nice distinctions;
+    - a portion, a half;
+    - _(4)l(a/)n ts(i/)t[(9)]_ [[laan4 zit6 攔截]]
+        or
+      _ts(i/)t(9) ch(u")(6) (5)k(')(u")_ [[zit6 zyu6 keoi5 截住佢]],
+        to stop, to arrest one's progress;
+    - _(1)fan (5)l(e/)ung ts(i/)t(9)_
+        [[fan1 loeng5 zit6 分兩截]]
+        cut it in two;
+    - _ts(i/)t(9) (1)(i/)_
+        [[zit6 ji1 截衣]],
+        a robe whose body and skirt are of two colors;
+    - _ts(i/)t(9) [(5)t(')(u")n]_
+        [[zit6 tyun5 截斷]]^
+        to cut apart.
+    ==
+  ====
+C
+  ==
+  - Williams' 攔截: Corrected _ts(i/)t(8)_ (zit3) to _ts(i/)t(9)_ (zit6).
+  - Williams' 截斷: Corrected _t(u")n(6)_ (dyun6 去聲) to _(5)t(')(u")n_ (tyun5 上聲).
   ==
 $$
