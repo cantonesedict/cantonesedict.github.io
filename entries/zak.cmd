@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zak
-* %date-modified --> 2024-05-28
+* %date-modified --> 2024-07-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -307,10 +307,6 @@ W
     [[Alternative form of 鰂. **See $鰂zak1 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - Williams prints 鯽 like ⿰魚卽 rather than as ⿰魚即.
-  ==
 S
   ==
   - $鯽zik1

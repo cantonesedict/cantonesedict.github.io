@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2024-07-08
+* %date-modified --> 2024-07-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -186,11 +186,6 @@ W
     [[Alternative form of 即. **See $即zik1 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - Williams prints 卽 with left component similar to 𩙿
-    (minus the first two strokes).
-  ==
 $$
 
 ###+ 唧1 | _Tsik(7)_ (zik1)

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-06-30
+* %date-modified --> 2024-07-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1159,7 +1159,6 @@ W
   ====
 C
   ==
-  - Williams prints 螆 as ⿰虫兹 rather than as ⿰虫茲.
   - Williams' 生螆狗, 生螆狗噉聲: Changed _(1)shang_ (sang1)
     to vernacular reading _(1)sh(a/)ng_ (saang1).
   ==

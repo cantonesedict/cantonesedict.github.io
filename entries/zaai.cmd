@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2024-06-30
+* %date-modified --> 2024-07-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -72,7 +72,7 @@ W
   ====
 C
   ==
-  - Williams prints 斋 as ⿱攵而 rather than ⿱文而.
+  - Williams entry: Normalised headword ⿱攵而 to 斋.
   ==
 $$
 

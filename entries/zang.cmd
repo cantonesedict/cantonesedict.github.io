@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2024-06-27
+* %date-modified --> 2024-07-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -88,7 +88,7 @@ W
   ====
 C
   ==
-  - Williams prints 凈 as 净.
+  - Williams entry: Normalised headword 净 to 凈.
   ==
 $$
 
