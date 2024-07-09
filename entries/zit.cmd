@@ -156,6 +156,7 @@ $$
 - $折3
 - $櫛3
 - $浙3
+- $癤3
 - $節3
 - $蜇3
 ==
@@ -400,6 +401,29 @@ C
   ==
   - Williams misprints 浙 as 淅; here corrected.
   ==
+$$
+
+### 癤3 | _Ts(i/)t(8)_ [[zit3]]
+
+$$
+R
+  ⽧ + 13
+U
+  U+7664
+H
+  May appear as either ⿸疒⿱𥫗即 (+13 assumed here) or ⿸疒⿱𥫗卽 (+15),
+  depending on the font.
+F
+  ==
+  - [[F1.26 癤]] 小瘡
+  ==
+W
+  ====
+  - [[Page~580 癤(8)]]
+    ==
+    - A small boil, a pimple, a sore.
+    ==
+  ====
 $$
 
 ### 節3 | _Ts(i/)t(8)_ [[zit3]]
