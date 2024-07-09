@@ -561,6 +561,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $截6
+- $捷6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -605,5 +606,59 @@ C
   ==
   - Williams' 攔截: Corrected _ts(i/)t(8)_ (zit3) to _ts(i/)t(9)_ (zit6).
   - Williams' 截斷: Corrected _t(u")n(6)_ (dyun6 去聲) to _(5)t(')(u")n_ (tyun5 上聲).
+  ==
+$$
+
+### 捷6 | _Ts(i/)t(9)_ [[zit6]]
+
+$$
+R
+  ⼿ + 8
+U
+  U+6377
+V
+  ==
+  - zip6 (expected from 疾葉切)
+  - zit3 (common in certain compounds, e.g. 快捷, 捷克)
+  ==
+F
+  ==
+  - [[F1.27 ::[捷]::]] 勝也敏疾也報勝曰[捷]報
+  ==
+W
+  ====
+  - [[Page~580 捷(9)]]
+    ==
+    - To obtain a victory;
+    - successful, victorious;
+    - a victory;
+    - to complete;
+    - to announce, as a victory or promotion;
+    - hastily, prompt, quick, as a herald;
+    - joyful news;
+    - _kap(7) ts(i/)t(9)_
+        [[gap1 zit6 急捷]]
+        nimble, fleet;
+    - _ts(i/)t(9) king(3)_
+        [[zit6 ging3 捷徑]]
+        to take a short cut, a compendious way;
+    - _ts(i/)t(9) p(o\)(3)_
+        [[zit6 bou3 捷報]]
+        to hasten with good tidings;
+    - _(4)l(i/)n ts(i/)t(9)_
+        [[lin4 zit6 連捷]]
+        to attain degrees at successive examinations;
+    - _f(a/)i(3) ts(i/)t(9)_
+        [[faai3 zit6 快捷]]
+        quick.
+    ==
+    --
+    This is also read _ts(i/)p[(9)]_ [[zip6]].
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised headword (with right component like 偼) to 捷.
+  - Williams' alternative reading: Corrected _ts(i/)p(8)_ (zip3) to _ts(i/)p(9)_ (zip6).
   ==
 $$

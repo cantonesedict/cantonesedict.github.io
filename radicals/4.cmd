@@ -367,6 +367,7 @@ For all radicals, see [Index of characters by radical](./).
       - $掣zai3
       - $掫zau1
       - $接zip3
+      - $捷zit6
       - $掌zoeng2
       ==
       </nav>
