@@ -154,6 +154,7 @@ $$
 - $喆3
 - $婕3
 - $折3
+- $櫛3
 - $浙3
 - $節3
 - $蜇3
@@ -346,6 +347,33 @@ S
   - $折sit6 (TODO)
   - $折zit1
   ==
+$$
+
+### 櫛3 | _Ts(i/)t(8)_ [[zit3]]
+
+$$
+R
+  ⽊ + 13
+U
+  U+6ADB
+H
+  May appear as either ⿰木⿱𥫗即 (+13 assumed here) or ⿰木⿱𥫗卽 (+15),
+  depending on the font.
+F
+  ==
+  - [[F1.26 櫛]] 櫛風沐雨
+  ==
+W
+  ====
+  - [[Page~579 櫛(8)]]
+    ==
+    - A comb of any kind;
+    - to comb, to clean;
+    - _(1)kan ts(i/)t(8)_
+        [[gan1 zit3 巾櫛]]
+        towels and combs.
+    ==
+  ====
 $$
 
 ### [浙]3 | _Ch(i/)t(8)_ [[zit3]]
