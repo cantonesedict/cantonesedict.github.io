@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zit
-* %date-modified --> 2024-07-08
+* %date-modified --> 2024-07-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -152,6 +152,7 @@ $$
 =={.modern}
 - $哲3
 - $喆3
+- $婕3
 - $折3
 - $浙3
 - $蜇3
@@ -212,6 +213,37 @@ W
     [[Alternative form of 哲. **See $哲zit3 for the canonical entry.**]]
     --
   ====
+$$
+
+### 婕3 | _Ts(i/)t(8)_ [[zit3]]
+
+$$
+R
+  ⼥ + 8
+U
+  U+5A55
+V
+  ==
+  - zip3 (expected from 即葉切)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~728 婕(8)]]
+    ==
+    - Handsome, elegant;
+    - a female officer, called _ts(i/)t(8) (4)(u")_ [[zit3 jyu4 婕妤]],
+      a sort of palatial housekeeper.
+    ==
+  ====
+C
+  ==
+  - Williams' "Handsome, elegant":
+    Kangxi quotes 又《集韻》七接切音妾又疾葉切音捷𠀤美貌
+    (i.e. either _ts(')(i/)p(8)_ (cip3) or _ts(i/)p(9)_ (zip6))
+    for the "beautiful" sense.
+  ==
 $$
 
 ### 折3 | _Ch(i/)t(8)_ [[zit3]]
