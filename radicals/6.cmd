@@ -1110,6 +1110,7 @@ For all radicals, see [Index of characters by radical](./).
       - $螫cik1
       - $蟄zat6
       - $蟄zik6
+      - $蟄zit3
       - $螿zoeng1
       ==
       </nav>

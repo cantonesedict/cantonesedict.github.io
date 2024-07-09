@@ -160,6 +160,7 @@ $$
 - $癤3
 - $節3
 - $蜇3
+- $蟄3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -551,6 +552,28 @@ W
 C
   ==
   - Fan Wan entry: Corrected 毋 to 母.
+  ==
+$$
+
+###+ 蟄3 | _Ch(i/)t(8)_ (zit3)
+
+$$
+R
+  ⾍ + 11
+U
+  U+87C4
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation. **See $蟄zat6 for the canonical entry.**
+  ==
+S
+  ==
+  - $蟄zat6
+  - $蟄zik6
   ==
 $$
 
