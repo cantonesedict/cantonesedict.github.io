@@ -585,6 +585,7 @@ $$
 =={.modern}
 - $截6
 - $捷6
+- $睫6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -683,5 +684,41 @@ C
   ==
   - Fan Wan entry: Normalised headword (with right component like 偼) to 捷.
   - Williams' alternative reading: Corrected _ts(i/)p(8)_ (zip3) to _ts(i/)p(9)_ (zip6).
+  ==
+$$
+
+###+ 睫6 | _Ts(i/)t(9)_ (zit6)
+
+$$
+R
+  ⽬ + 8
+U
+  U+776B
+V
+  ==
+  - zip3 (expected from 即葉切)
+  ==
+F
+  ==
+  - [[F2.50 ::[睫]:: _Ts(i/)p(8)_ (zip3)]] ::目[睫]目旁毛也::
+  ==
+W
+  ====
+  - [[Page~579 睫(8) _Ts(i/)p(8)_ (zip3); here normalised to _Ts(i/)t(9)_ (zit6)]]
+    ==
+    - The eye-lashes;
+    - _met._ the eye;
+    - _sh(e/)ung(6) [ts(i/)t(9)]_
+        [[soeng6 zit6 上睫]]
+        the upper eye-lashes.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised headword (with right component like 偼) to 睫.
+  ==
+S
+  ==
+  - $睫zip3
   ==
 $$

@@ -540,6 +540,7 @@ For all radicals, see [Index of characters by radical](./).
       - $睜zang1
       - $睛zing1
       - $睫zip3
+      - $睫zit6
       ==
       </nav>
   //
