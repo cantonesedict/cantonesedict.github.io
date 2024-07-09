@@ -155,6 +155,7 @@ $$
 - $婕3
 - $折3
 - $浙3
+- $節3
 - $蜇3
 ==
 </nav>
@@ -370,6 +371,103 @@ W
 C
   ==
   - Williams misprints 浙 as 淅; here corrected.
+  ==
+$$
+
+### 節3 | _Ts(i/)t(8)_ [[zit3]]
+
+$$
+R
+  ⽵ + 7
+U
+  U+7BC0
+H
+  May appear as either ⿱𥫗即 (+7 assumed here) or ⿱𥫗卽 (+9),
+  depending on the font.
+F
+  ==
+  - [[F1.26 節]] 制也儉也符節時節
+  - [[F1.26 节]] 同上
+  ==
+W
+  ====
+  - [[Page~579 節(8)]]
+    ==
+    - The joint of bamboos;
+    - a joint, a knot, a node;
+    - an article, a verse, a section of a chapter;
+    - a limit, a term;
+    - a holiday, a festival;
+    - a time, a regular interval;
+    - an emergency, the period or manner of doing a thing;
+    - economy, temperance, moderation;
+    - chastity, virtue, in widows;
+    - to limit a thing, to maintain, to restrain one's passions;
+    - to mark, as music;
+    - a classifier of joints, limbs, affairs;
+    - _ts(i/)t(8) (2)yam shik(9)_
+        [[zit3 jam2 sik6 節飲食]]
+        temperate in eating;
+    - _(1)fan (5)l(e/)ung ts(i/)t(8)_
+        [[fan1 loeng5 zit3 分兩節]]
+        do it two ways, pay it at two times;
+    - _(4)m(o\) ts(i/)t(8) chai(3)_
+        [[mou4 zit3 zai3 無節制]]
+        no limits to his outlay, careless;
+    - _(4)f(u/) ts(i/)t(8)_
+        [[fu4 zit3 符節]]
+        tally, passport, credentials;
+    - _ts(i/)t(8) (i/)(6)_
+        [[zit3 ji6 節義]]
+        chaste, in not remarrying;
+    - _shat(7) ts(i/)t(8)_
+        [[sat1 zit3 失節]]
+        lost her virtue;
+    - _ts(i/)t(8) ling(6)_
+        [[zit3 ling6 節令]]
+        the 24~solar terms;
+    - _ts(o\)(6) ts(i/)t(8)_
+        [[zou6 zit3 做節]]
+        to keep holiday;
+    - _p(a/)i(3) ts(i/)t(8)_
+        [[baai3 zit3 拜節]]
+        holiday visits;
+    - _h(i/)(3) ts(i/)t(8)_
+        [[hei3 zit3 ？節]]
+        anger, feeling;
+    - _yat(7) ts(i/)t(8) sz'(6)_
+        [[jat1 zit3 si6 一節事]]
+        an affair;
+    - _(5)m(a/)i (1)kw(a/)n ts(i/)t(8)_
+        [[maai5 gwaan1 zit3 買關節]]
+        to get degrees by bribery, to bribe;
+    - _ts(i/)t(8) tsau(3)_
+        [[zit3 zau3 節奏]]
+        to mark the time in music;
+    - _(1)to (1)shang (1)ch(i/) ts(i/)t(8)_
+        [[do1 sang1 zi1 zit3 多生枝節]]
+        full of cares and business;
+    - _(5)n(a/) (4)sh(i/) ts(i/)t(8)_
+        [[naa5 si4 zit3 那時節]]
+        on that occasion;
+    - _(1)t(')(i/)n (1)chung ts(i/)t(8)_
+        [[tin1 zung1 zit3 天中節]]
+        dragon-boat festival;
+    - _(1)shau ts(i/)t(8) ch(e/)ung(3)_
+        [[sau1 zit3 zoeng3 收節賬]]
+        to collect bills at four terms;
+    - _ts(i/)t(8) ts(i/)t(8) (1)k(o\)_
+        [[zit3 zit3 gou1 節節高]],
+        gradually rising in rank or wealth;
+    - _ts(i/)t(8) k(i/)m[(6)]_
+        [[zit3 gim6 節儉]]
+        frugal, within the limits.
+    ==
+  ====
+C
+  ==
+  - Williams' 買關節: Dated.
+  - Williams' 節儉: Corrected _k(i/)m(3)_ (gim3) to _k(i/)m(6)_ (gim6).
   ==
 $$
 
