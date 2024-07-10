@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2024-07-09
+* %date-modified --> 2024-07-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -410,12 +410,12 @@ E
        - 輸就輸硬、爭在輸幾多 (syu1 zau6 syu1 ngaang6, zaang1 zoi6 syu1 gei2 do1):
          "[Yes they've] lost for sure, [but what] matters [now is] how much [they] lose by."
        - 唔爭在遲多兩分鐘 (m4 zaang1 zoi6 ci4 do1 loeng5 fan1 zung1):
-         "[It] won't matter [if we're] two more minutes late [on top of how late we are now]."
+         "[It] won't matter [that we're] two more minutes late [on top of how late we are now]."
        ==
-    1. To be lacking, or to fall short, in.
+    1. To be lacking in, or to fall short in.
        ==
        - 平就平、爭在唔夠飽 (peng4 zau6 peng4, zaang1 zoi6 m4 gau3 baau2):
-         "[Yes] it's [a] cheap [meal], [but it] falls short in [that it's] not adequately filling."
+         "[Yes it's] cheap, [but it] falls short in [that it's] not adequately filling."
        ==
     ++
   ====
