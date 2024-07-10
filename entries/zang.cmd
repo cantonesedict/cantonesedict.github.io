@@ -139,7 +139,7 @@ F
   ==
 W
   ====
-  - [[Page~21|n64 (1)崢 _(1)Ch(a/)ng_ (zaang1); here normalised to _(1)ch(a/)ng_ (zang1)]]
+  - [[Page~21|n64 (1)崢 _(1)Ch(a/)ng_ (zaang1); here normalised to _(1)Chang_ (zang1)]]
     ==
     - To rise above;
     - conspicuous, eminent, like a lofty mountain;
@@ -314,7 +314,7 @@ F
   ==
 W
   ====
-  - [[Page~20|n63 (1)爭 _(1)Ch(a/)ng_ (zaang1); here normalised to _(1)ch(a/)ng_ (zang1) when appropriate]]
+  - [[Page~20|n63 (1)爭 _(1)Ch(a/)ng_ (zaang1); here normalised to _(1)Chang_ (zang1) when appropriate]]
     ==
     - To wrangle, to strive for precedence;
     - to contest, to litigate;
