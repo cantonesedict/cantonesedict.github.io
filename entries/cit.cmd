@@ -49,6 +49,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $切3
 - $徹3
 - $掣3
 - $撤3
@@ -58,6 +59,84 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 切3 | _Ts(')(i/)t(8)_ [[cit3]]
+
+$$
+R
+  ⼑ + 2
+U
+  U+5207
+F
+  ==
+  - [[F1.26 切]] 近也要也
+  ==
+W
+  ====
+  - [[Page~580 切(8)]]
+    ==
+    - To cut, to carve, to mince, to slice;
+    - to urge, to press;
+    - a superlative, very, vehement, earnest, eager,
+      pressing, important, serious, momentous;
+    - the important parts, a resumé;
+    - sincere;
+    - to feel, as the pulse;
+    - to spell, to express a sound by joining initials and finals;
+    - _ts(')(i/)t(8) i(u/)(3)_
+        [[cit3 jiu3 切要]]
+        important;
+    - _t(')au(3) ts(')(i/)t(8)_
+        [[tau3 cit3 透切]]
+        plain, lucid;
+    - _ts(')(i/)t(8) yuk(9)_
+        [[cit3 juk6 切肉]]
+        minced meat;
+    - _ts(')(i/)t(8) mat(9) h(u")(3)_
+        [[cit3 mat6 heoi3 切勿去]]
+        stay, don't go;
+    - _ts(')(i/)t(8) mak(9)_
+        [[cit3 mak6 切脈]]
+        to feel the pulse;
+    - _ts(')(i/)t(8) oi(3)_
+        [[cit3 oi3 切愛]]
+        warm love;
+    - _ts(')(i/)t(8) t(o\)(3) sui(3)_
+        [[cit3 dou6 seoi3 切到碎]]
+        cut to pieces, cut fine;
+    - _ts(')(i/)t(8) (1)ts(')o_
+        [[cit3 co1 切磋]],
+        to turn in a lathe;
+        to work and carve;
+        to dehort, as a friend;
+    - _ts(')(i/)t(8) (1)yam_
+        [[cit3 jam1 切音]],
+        to spell, to join an initial and a final;
+    - _k(')ok(8) ts(')(i/)t(8) pat(7) (4)(i/)_
+        [[kok3 cit3 bat1 ji4 確切不移]],
+        unchangeably fixed.
+    ==
+  ====
+C
+  ==
+  - Williams' 切磋: Not so much to dehort as to learn from one another
+    through an activity (e.g. sparring, a game, etc.).
+  ==
+E
+  ====
+  - 【切雞】 (cit3 gai1):
+    ++
+    1. Short for 白切雞 (plain cut chicken).
+       ==
+      - 切雞飯 (cit3 gai1 faan6): "[Plain] cut chicken rice."
+       ==
+    ++
+  ====
+S
+  ==
+  - $切cai3
+  ==
+$$
 
 ### 徹3 | _Ch(')(i/)t(8)_ [[cit3]]
 
