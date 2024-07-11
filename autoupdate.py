@@ -203,6 +203,18 @@ class Updater:
             )
             sys.exit(1)
 
+        bad_williams_aspirate_runs = re.findall(
+            pattern=r"\S+ (?<! .p | .t | .k | kw | ts | ch ) \( ' \) \S+ ",
+            string=cmd_content,
+            flags=re.IGNORECASE | re.VERBOSE,
+        )
+        if bad_williams_aspirate_runs:
+            print(
+                f'Error in `{entry_cmd_name}`: bad Williams aspirate in {bad_williams_aspirate_runs}',
+                file=sys.stderr,
+            )
+            sys.exit(1)
+
         bad_williams_diphthong_runs = re.findall(
             pattern=r'\S+ (?: \(i/\)u | u\(i/\) ) \S+',
             string=cmd_content,
