@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $徹3
+- $撤3
 - $設3
 ==
 </nav>
@@ -88,6 +89,50 @@ W
     - _ch(')(i/)t(8) t(')au(3)_
         [[cit3 tau3 徹透]]
         fully known.
+    ==
+  ====
+$$
+
+### 撤3 | _Ch(')(i/)t(8)_ [[cit3]]
+
+$$
+R
+  ⼿ + 12
+U
+  U+64A4
+H
+  May appear with 𠫓 having 3~strokes (+11) or 4~strokes (+12 assumed here),
+  depending on the font.
+F
+  ==
+  - [[F1.26 撤]] 抽除也握也
+  ==
+W
+  ====
+  - [[Page~23* 撤(8)]]
+    ==
+    - To send away, to remove;
+    - to reject, to recall;
+    - to put aside;
+    - to take off, to flay;
+    - _ch(')(i/)t(8) (4)nung_
+        [[cit3 nung4 撤膿]],
+        to come to a head, as a boil;
+    - _(2)p(i/) (1)fung ch(')(i/)t(8) h(u")(3)_
+        [[bei2 fung1 cit3 heoi3 畀風撤去]]
+        whisked away by the wind;
+    - _ch(')(i/)t(8) h(u")(3)_
+        [[cit3 heoi3 撤去]]
+        to send or take away;
+    - _ch(')(i/)t(8) (1)hoi_
+        [[cit3 hoi1 撤開]],
+        to remove;
+    - _ch(')(i/)t(8) (4)(u/)i_
+        [[cit3 wui4 撤回]],
+        to put back, to recall an officer;
+    - _ch(')(i/)t(8) tsik(9) s(a/)n(3) (4)t(')oi_
+        [[cit3 zik6 saan3 toi4 撤席散檯]],
+        to clear off and leave the table.
     ==
   ====
 $$
