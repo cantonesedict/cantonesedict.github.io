@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2024-07-05
+* %date-modified --> 2024-07-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -993,7 +993,7 @@ W
     - _(1)(i/) pat(7) ch(')ing(3) (1)shan_
         [[ji1 bat1 cing3 san1 衣不稱身]],
         his dress does not fit him;
-    - _(4)(')m ch(')ing(3)_
+    - _(4)'m ch(')ing(3)_
         [[m4 cing3 唔稱]]
         unfitting;
     - _ch(')ing(3) (i/)(3)_
