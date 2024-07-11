@@ -49,10 +49,48 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $徹3
 - $設3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 徹3 | _Ch(')(i/)t(8)_ [[cit3]]
+
+$$
+R
+  ⼻ + 12
+U
+  U+5FB9
+H
+  May appear with 𠫓 having 3~strokes (+11) or 4~strokes (+12 assumed here),
+  depending on the font.
+F
+  ==
+  - [[F1.26 徹]] 通明也透也
+  ==
+W
+  ====
+  - [[Page~23* 徹(8)]]
+    ==
+    - Pervious, perspicacious, discerning;
+    - to penetrate, to pass through;
+    - to remove, to take away;
+    - a road, a thoroughfare;
+    - to skin, to peel off, to destroy;
+    - to cultivate;
+    - _ch(')(i/)t(8) ch(a/)n(6)_
+        [[cit3 zaan6 徹饌]]
+        to remove food;
+    - _ch(')(i/)t(8) (2)tai_
+        [[cit3 dai2 徹底]],
+        to understand thoroughly;
+    - _ch(')(i/)t(8) t(')au(3)_
+        [[cit3 tau3 徹透]]
+        fully known.
+    ==
+  ====
+$$
 
 ### 設3 | _Ch(')(i/)t(8)_ [[cit3]]
 
