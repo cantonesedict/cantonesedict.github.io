@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $徹3
 - $撤3
+- $澈3
 - $設3
 ==
 </nav>
@@ -133,6 +134,30 @@ W
     - _ch(')(i/)t(8) tsik(9) s(a/)n(3) (4)t(')oi_
         [[cit3 zik6 saan3 toi4 撤席散檯]],
         to clear off and leave the table.
+    ==
+  ====
+$$
+
+### 澈3 | _Ch(')(i/)t(8)_ [[cit3]]
+
+$$
+R
+  ⽔ + 12
+U
+  U+6F88
+H
+  May appear with 𠫓 having 3~strokes (+11) or 4~strokes (+12 assumed here),
+  depending on the font.
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~23* 澈(8)]]
+    ==
+    - Pure, transparent, pellucid;
+    - _(4)ch(')ing ch(')(i/)t(8)_
+        [[cing4 cit3 澄澈]]
+        pureminded, clear.
     ==
   ====
 $$
