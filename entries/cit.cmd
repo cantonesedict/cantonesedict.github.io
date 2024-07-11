@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cit
-* %date-modified --> 2024-07-10
+* %date-modified --> 2024-07-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [cit3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -40,4 +41,76 @@ MP
   ==
   - cit = [tsʰiːt̚] ((preferred)), [tɕʰiːt̚]
   ==
+$$
+
+
+##{#3 .williams} Ch(')(i/)t(8) Ts(')(i/)t(8) [[cit3 低陰入]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $設3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 設3 | _Ch(')(i/)t(8)_ [[cit3]]
+
+$$
+R
+  ⾔ + 4
+U
+  U+8A2D
+F
+  ==
+  - [[F1.26 設]] 置主也陳設也
+  ==
+W
+  ====
+  - [[Page~23* 設(8)]]
+    ==
+    - To institute, to establish;
+    - to set forth;
+    - to spread, as a net;
+    - to arrange, to place, to set up;
+    - to suppose;
+    - a band of soldiers, or its officer;
+    - large, said of a sword;
+    - _(4)'m (2)shai ch(')(i/)t(8) (1)k(u/)n_
+        [[m4 sai2 cit3 gun1 唔使設官]],
+        not to care anything for the magistrates, or there's no need of them;
+    - _ch(')(i/)t(8) lap(9)_
+        [[cit3 lap6 設立]]
+        to establish;
+    - _ch(')(i/)t(8) (4)(i/)n_
+        [[cit3 jin4 設筵]],
+        to make a feast;
+    - _ch(')(i/)t(8) f(a/)t(8)_
+        [[cit3 faat3 設法]]
+        to devise means;
+    - _ch(')(i/)t(8) kai(3)_
+        [[cit3 gai3 設計]]
+        to plot against;
+    - _ch(')(i/)t(8) w(a/)k(9)_ [[cit3 waak6 設或]]
+        or
+      _ch(')(i/)t(8) (2)sz'_ [[cit3 si2 設使]]
+        suppose that;
+    - _(1)p(')(o\) ch(')(i/)t(8)_
+        [[pou1 cit3 鋪設]]
+        to set in order, to prepare;
+    - _ch(')(i/)t(8) k(a/)u(3)_ [[cit3 gaau3 設敎]]
+        or
+      _ch(')(i/)t(8) ch(e/)ung(3)_ [[cit3 zoeng3 設帳]]
+        to open a school.
+    ==
+    --
+    A colloquial word.
+    --
+    ==
+    - A very little, a bit, not half enough;
+    - _(2)t(u")n ch(')(i/)t(8) k(o\)m(3) (2)t(u")n_
+        [[dyun2 cit3 gam3 dyun2 短設咁短]],
+        not half long enough.
+    ==
+  ====
 $$
