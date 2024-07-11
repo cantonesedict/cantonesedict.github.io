@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $徹3
+- $掣3
 - $撤3
 - $澈3
 - $設3
@@ -93,6 +94,31 @@ W
         fully known.
     ==
   ====
+$$
+
+### 掣3 | _Ch(')(i/)t(8)_ [[cit3]]
+
+$$
+R
+  ⼿ + 8
+U
+  U+63A3
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~23* 掣(8)]]
+    ==
+    - To choose, to draw out;
+    - _ch(')(i/)t(8) (1)ts(')(i/)m_
+        [[cit3 cim1 掣籤]],
+        to draw lots for official duty.
+    ==
+  ====
+S
+  ==
+  - $掣zai3
+  ==
 $$
 
 ### 撤3 | _Ch(')(i/)t(8)_ [[cit3]]
