@@ -771,6 +771,14 @@ For all radicals, see [Index of characters by radical](./).
       - $轈caau4
       ==
       </nav>
+  //
+    , 12
+    ,
+      <nav class="sideways">
+      ==
+      - $轍cit3
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⾞-characters ##>

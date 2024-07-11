@@ -53,6 +53,7 @@ $$
 - $撤3
 - $澈3
 - $設3
+- $轍3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -219,6 +220,36 @@ W
     - _(2)t(u")n ch(')(i/)t(8) k(o\)m(3) (2)t(u")n_
         [[dyun2 cit3 gam3 dyun2 短設咁短]],
         not half long enough.
+    ==
+  ====
+$$
+
+### 轍3 | _Ch(')(i/)t(8)_ [[cit3]]
+
+$$
+R
+  ⾞ + 12
+U
+  U+8F4D
+H
+  May appear with 𠫓 having 3~strokes (+11) or 4~strokes (+12 assumed here),
+  depending on the font.
+F
+  ==
+  - [[F1.26 轍]] 車輪
+  ==
+W
+  ====
+  - [[Page~23* 轍(8)]]
+    ==
+    - A rut of a wheel;
+    - _k(')ok(8) ch(')(i/)t(8)_
+        [[kok3 cit3 涸轍]]
+        a dry rut;
+        _met._ one in great straits;
+    - _(4)ying t(o\)(6) (4)ts(')(i/)n ch(')(i/)t(8)_
+        [[jing4 dou6 cin4 cit3 仍蹈前轍]]
+        to go in the old rut, to act badly again.
     ==
   ====
 $$
