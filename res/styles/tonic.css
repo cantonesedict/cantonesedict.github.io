@@ -64,7 +64,7 @@ dd {
   margin-left: 1em;
 }
 dd blockquote {
-  margin-left: 1.3em;
+  margin: 0.6em 1.3em 0.7em;
   padding-left: 0.5em;
 }
 dd ul {
