@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cit
-* %date-modified --> 2024-07-11
+* %date-modified --> 2024-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -118,6 +118,18 @@ C
   ==
 E
   ====
+  - 【切】 (cit3):
+    ++
+    1. In time.
+       ==
+       - 嚟唔切 (lai4 m4 cit3): "Can't make [it] in time."
+       - 趕得切 (gon2 dak1 cit3): "Rushed [there] in time."
+       ==
+    1. Short for 白切雞 (plain cut chicken).
+       ==
+      - 叉切飯 (caa1 cit3 faan6): "Char [shiu], [plain] cut [chicken] rice."
+       ==
+    ++
   - 【切雞】 (cit3 gai1):
     ++
     1. Short for 白切雞 (plain cut chicken).
