@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2024-05-28
+* %date-modified --> 2024-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -384,10 +384,12 @@ E
   --
   Olden attestation for 揞 _(2)(o\)m_ (am2) meaning "cover":
   --
-  ==
-  - ::B3.w349b0901 烏感切 (:揞:) (:手覆:)::
-  - ::K. (:揞:) 《唐韻》《集韻》《韻會》《正韻》(:𠀤烏感切庵上聲藏也手覆也:)[...]::
-  ==
+  """"
+  ::B3.w349b0901 烏感切 (:揞:) (:手覆:)::
+  """"
+  """"
+  ::K. (:揞:) 《唐韻》《集韻》《韻會》《正韻》(:𠀤烏感切庵上聲藏也手覆也:)[...]::
+  """"
 $$
 
 ### 欿2 | _(2)(O\)m_ [[am2]]

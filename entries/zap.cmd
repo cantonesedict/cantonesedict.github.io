@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zap
-* %date-modified --> 2024-05-10
+* %date-modified --> 2024-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -336,10 +336,12 @@ E
   and [Eitel (1877)][eitel-dict-蓻] prefers the character 蓻,
   which matches _tsap(7)_ (zap1) in pronunciation:
   --
-  ==
-  - ::B5.w543b0405 子入切 (:蓻:) 草生多皃::
-  - ::K. (:蓻:) 《唐韻》子入切音𥠋草生多貌　又《玉篇》茅芽也[...]::
-  ==
+  """"
+  ::B5.w543b0405 子入切 (:蓻:) 草生多皃::
+  """"
+  """"
+  ::K. (:蓻:) 《唐韻》子入切音𥠋草生多貌　又《玉篇》茅芽也[...]::
+  """"
 $$
 
 [eitel-dict-蓻]: https://books.google.com/books?id=mh8TAAAAYAAJ&jtp=771

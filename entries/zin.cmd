@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2024-06-06
+* %date-modified --> 2024-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1422,9 +1422,9 @@ E
   --
   Olden attestation for 薦 _ts(i/)n(3)_ (zin3) meaning "mat/cushion":
   --
-  ==
-  - ::B4.w435b0604 (:作甸切:) (:薦:) (:薦席:)又薦進也[...]^::
-  ==
+  """"
+  ::B4.w435b0604 (:作甸切:) (:薦:) (:薦席:)又薦進也[...]^::
+  """"
   --
   The spelling 墊 is common for _ts(i/)n(3)_ (zin3)^,
   from appropriation of formal 墊 _t(i/)n(3)_ (din3).

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoek
-* %date-modified --> 2024-05-28
+* %date-modified --> 2024-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -481,9 +481,9 @@ E
   --
   Olden attestation for 着 (same as 著) _ch(e/)uk(8)_ (zoek3) meaning "wear":
   --
-  ==
-  - ::B5.w529b0204 (:張略切:) (:著:) (:服衣於身:)又直略張豫二切::
-  ==
+  """"
+  ::B5.w529b0204 (:張略切:) (:著:) (:服衣於身:)又直略張豫二切::
+  """"
 S
   ==
   - $着zoek6

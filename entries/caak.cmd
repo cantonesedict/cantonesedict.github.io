@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caak
-* %date-modified --> 2024-07-08
+* %date-modified --> 2024-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -228,12 +228,12 @@ E
   --
   Olden attestation for 坼 _ch(')(a/)k(8)_ (caak3) meaning "cracked":
   --
-  ==
-  - ::K. (:坼:) 《唐韻》(:丑格切:)《集韻》《韻會》《正韻》(:恥格切:)𠀤同𤖴(:裂也:)\
-    《禮月令》仲冬地始坼\
-    《後漢安帝紀》日南地坼長百餘里\
-    《晉史天文志》惠帝中張華爲司空三台星坼[...]::
-  ==
+  """"
+  ::K. (:坼:) 《唐韻》(:丑格切:)《集韻》《韻會》《正韻》(:恥格切:)𠀤同𤖴(:裂也:)\
+  《禮月令》仲冬地始坼\
+  《後漢安帝紀》日南地坼長百餘里\
+  《晉史天文志》惠帝中張華爲司空三台星坼[...]::
+  """"
 $$
 
 ### 拆3 | _Ch(')(a/)k[(8)]_ [[caak3]]

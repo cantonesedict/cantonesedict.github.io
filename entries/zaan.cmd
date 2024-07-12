@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2024-05-28
+* %date-modified --> 2024-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -140,9 +140,9 @@ E
   --
   Olden attestation for 㜺 _ts(a/)n(6)_ (zaan6) meaning "pretty":
   --
-  ==
-  - ::B4.w432b0602 徂賛切 (:㜺:) 不謹也(:一曰美好皃:)::
-  ==
+  """"
+  ::B4.w432b0602 徂賛切 (:㜺:) 不謹也(:一曰美好皃:)::
+  """"
 $$
 
 ### 寁2 | _(2)Ts(a/)n_ [[zaan2]]

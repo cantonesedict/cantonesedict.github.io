@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2024-07-08
+* %date-modified --> 2024-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -170,11 +170,15 @@ E
   --
   Olden attestation for 㔐 _(1)ts(')(i/)m_ (cim1) meaning "cut" or "sever":
   --
-  ==
-  - ::B2.w248b0403 (:七廉切:) (:𠠃:) (:𠠃切割也:)::
-  - ::K. (:𠠃:) 《五音集韻》(:七廉切音籤切割也:)::
-  - ::K. (:㔐:) 《玉篇》(:千廉切音僉割也:)〇按《五音集韻》(:作𠠃:)::
-  ==
+  """"
+  ::B2.w248b0403 (:七廉切:) (:𠠃:) (:𠠃切割也:)::
+  """"
+  """"
+  ::K. (:𠠃:) 《五音集韻》(:七廉切音籤切割也:)::
+  """"
+  """"
+  ::K. (:㔐:) 《玉篇》(:千廉切音僉割也:)〇按《五音集韻》(:作𠠃:)::
+  """"
 $$
 
 ### 孅1 | _(1)Ts(')(i/)m_ [[cim1]]
@@ -856,9 +860,9 @@ E
   --
   Olden attestation for 撍 _(4)ts(')(i/)m_ (cim4) meaning "select":
   --
-  ==
-  - ::K. (:撍:) [...]^(:又《集韻》慈鹽切《韻會》昨鹽切𠀤音潛摘也:)[...]::
-  ==
+  """"
+  ::K. (:撍:) [...]^(:又《集韻》慈鹽切《韻會》昨鹽切𠀤音潛摘也:)[...]::
+  """"
 $$
 
 ### 潛4 | _(4)Ts(')(i/)m_ [[cim4]]

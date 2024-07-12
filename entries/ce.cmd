@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2024-06-02
+* %date-modified --> 2024-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -527,9 +527,9 @@ E
   --
   Some point to 笡 as the original character for the departing-tone reading:
   --
-  ==
-  - ::B4.w443b0208 (:遷謝切:) (:笡:) (:斜逆也:)::
-  ==
+  """"
+  ::B4.w443b0208 (:遷謝切:) (:笡:) (:斜逆也:)::
+  """"
   --
   But whilst the reading _ts(')(e/)(3)_ (ce3) is a match,
   the explanation 斜逆也 seems more a metaphorical "heretical"

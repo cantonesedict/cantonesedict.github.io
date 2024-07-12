@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-07-09
+* %date-modified --> 2024-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -4085,11 +4085,15 @@ C
     for adjective senses of govern (e.g. 國治 "[the] nation governed").
     Notwithstanding, the only conclusion that can be drawn from 《廣韻》
     is that the proper-noun sense is in level tone:
-    ==
-    - ::B1.w127b1002 (:直之切:) (:治:) 水名出東萊(:亦理也:)::
-    - ::B4.w408a0405 (:直利切:) (:治:) (:治理也又直之切:)::
-    - ::B4.w409b0706 (:直吏切:) (:治:) (:治理也又丈之切:)::
-    ==
+    """"
+    ::B1.w127b1002 (:直之切:) (:治:) 水名出東萊(:亦理也:)::
+    """"
+    """"
+    ::B4.w408a0405 (:直利切:) (:治:) (:治理也又直之切:)::
+    """"
+    """"
+    ::B4.w409b0706 (:直吏切:) (:治:) (:治理也又丈之切:)::
+    """"
     Nevertheless, the distinction in reading between the verb "govern"
     and the adjective "governed" is not made up.
     In 《大學章句》, 治其國 is annotated with 治平聲,

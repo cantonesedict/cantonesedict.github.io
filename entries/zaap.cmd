@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaap
-* %date-modified --> 2024-07-07
+* %date-modified --> 2024-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -731,11 +731,15 @@ E
   Indeed 擸𢶍 has an expected reading of _lap(9) tsap(9)_ (lap6 zap6)^,
   and is explained "broken" or "cluttered":
   --
-  ==
-  - ::B5.w546a0106 (:盧盍切:) (:擸:) 折也(:又擸𢶍破壞也:)::
-  - ::B5.w546a1002 (:才盍切:) (:𢶍:) (:擸𢶍和雜:)::
-  - ::K. (:𢶍:) 《唐韻》(:才盍切:)《集韻》(:疾盍切𠀤音䪞讀若慙入聲擸𢶍和雜也:)[...]::
-  ==
+  """"
+  ::B5.w546a0106 (:盧盍切:) (:擸:) 折也(:又擸𢶍破壞也:)::
+  """"
+  """"
+  ::B5.w546a1002 (:才盍切:) (:𢶍:) (:擸𢶍和雜:)::
+  """"
+  """"
+  ::K. (:𢶍:) 《唐韻》(:才盍切:)《集韻》(:疾盍切𠀤音䪞讀若慙入聲擸𢶍和雜也:)[...]::
+  """"
   --
   However, since 擸𢶍 is also considered
   the original spelling of 垃圾 laap6 saap3 "rubbish",
