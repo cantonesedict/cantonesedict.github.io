@@ -824,6 +824,12 @@ window.onload = applyFilter;
     , zit3
     , [折](/entries/zit#cantonese-折)
   //
+    , ziu1 tau4 zou2
+    , [朝頭早](/entries/ziu#cantonese-朝頭早)
+  //
+    , ziu1 zou2
+    , [朝早](/entries/ziu#cantonese-朝早)
+  //
     , zoek3
     , [着~\(wear\)](/entries/zoek#cantonese-着-wear)
   //
