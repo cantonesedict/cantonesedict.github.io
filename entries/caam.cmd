@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2024-07-08
+* %date-modified --> 2024-07-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -977,7 +977,7 @@ V
   ==
 F
   ==
-  [[F2.64 鏨]] 鉄鑿
+  - [[F2.64 鏨]] 鉄鑿
   ==
 W
   ====
