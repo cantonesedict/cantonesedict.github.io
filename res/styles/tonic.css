@@ -151,10 +151,13 @@ li p {
   margin: 0.5em 0;
 }
 li[id^='cantonese-']:not(:last-child) {
-  margin-bottom: 0.33em;
+  margin-bottom: 0.5em;
 }
 li[id^='cantonese-'] > ol {
   padding-left: 3em;
+}
+li[id^='cantonese-'] > ol > li {
+  margin-bottom: 0.4em;
 }
 
 
