@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2023-08-02
-* %copyright-prior-years -->
+* %date-modified --> 2024-07-12
+* %copyright-prior-years --> 2023--
 
 %%%
-
---{.modern}
-(From Page~23* (Chi(u/)) and Page~580 (Tsi(u/)) of the original onwards.)
---
 
 #{.williams} Chi(u/). Tsi(u/). [[ziu]]
 
@@ -21,3 +17,27 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Chi(u/). [[Page~23*]]
+  - Tsi(u/). [[Page~580]]
+  ==
+WP
+  ==
+  - Chi(u/) <span class="modern">= [tɕiuː]</span>
+  - Tsi(u/) <span class="modern">= [tsiuː]</span>
+  ==
+MP
+  ==
+  - ziu = [tsiːu] ((preferred)), [tɕiːu]
+  ==
+$$
