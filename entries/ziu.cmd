@@ -403,6 +403,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $召6
+- $趙6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -439,4 +440,30 @@ S
   ==
   - $召siu6 (TODO)
   ==
+$$
+
+### 趙6 | _Chi(u/)(6)_ [[ziu6]]
+
+$$
+R
+  ⾛ + 7
+U
+  U+8D99
+F
+  ==
+  - [[F2.7 趙]] 趨也久也利也又姓
+  ==
+W
+  ====
+  - [[Page~24* 趙(6)]]
+    ==
+    - To hasten to;
+    - to announce to a suzerain;
+    - a long time;
+    - sharp, acute;
+    - a few;
+    - a feudal state in the south of Sh(a/)ns(i/) [[山西]] and Chihl(i/) [[直隸]],
+      its capital was the present Ch(a/)uching [[趙城]] in Sh(a/)ns(i/) [[山西]].
+    ==
+  ====
 $$
