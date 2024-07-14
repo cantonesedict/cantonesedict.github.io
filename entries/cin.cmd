@@ -441,7 +441,7 @@ W
   [[Not present]]
 C
   ==
-  - Reading variation (from Middle Chinese 昌善切). **See $闡zin2 for the canonical entry.**
+  - Reading variation (per 《廣韻》昌善切). **See $闡zin2 for the canonical entry.**
   ==
 S
   ==
