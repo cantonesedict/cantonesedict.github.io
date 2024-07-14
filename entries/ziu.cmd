@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [ziu1](#1)
 - [ziu2](#2)
+- [ziu3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -216,7 +217,7 @@ E
   ====
 S
   ==
-  - $朝ciu4
+  - $朝ciu4 (TODO)
   ==
 $$
 
@@ -255,6 +256,83 @@ W
     - _(4)ch(')(i/) (2)chi(u/)_
         [[ci4 ziu2 池沼]],
         ponds.
+    ==
+  ====
+$$
+
+
+##{#3 .williams} Chi(u/)(3) Tsi(u/)(3) [[ziu3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $照3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 照3 | _Chi(u/)(3)_ [[ziu3]]
+
+$$
+R
+  ⽕ + 9
+U
+  U+7167
+A
+  ==
+  - $炤3
+  ==
+F
+  ==
+  - [[F2.6 照]] 明也燭也
+  - [[F2.6 炤]] 同上
+  ==
+W
+  ====
+  - [[Page~24* 照(3)炤(3)]]
+    ==
+    - Light;
+    - to illuminate, to brighten, to shine on;
+    - to patronize, to regard, to care for, to oversee, to assist;
+    - conformably to, as, according to, like, same as;
+    - _chi(u/)(3) keng(3)_
+        [[ziu3 geng3 照鏡]]
+        to look in a glass;
+    - _chi(u/)(3) (1)shan keng(3)_
+        [[ziu3 san1 geng3 照身鏡]]
+        a pier-glass;
+    - _chi(u/)(3) pik(7)_
+        [[ziu3 bik1 照壁]]
+        a wall opposite offices or temples;
+    - _(1)k(o\) chi(u/)(3)_
+        [[gou1 ziu3 高照]]
+        a high lantern used to lead processions;
+    - _(2)f(a/)n chi(u/)(3)_
+        [[faan2 ziu3 反照]]
+        reflected light;
+        reillumined;
+        to shine again;
+    - _chi(u/)(3) k(u/)(3)_
+        [[ziu3 gu3 照顧]]
+        to assist, to patronize, to buy of;
+    - _chi(u/)(3) y(e/)ung ts(o\)(6)_
+        [[ziu3 joeng6-2 zou6 照樣做]]
+        make it like the pattern;
+    - _chi(u/)(3) sz'(6) (4)hang sz'(6)_
+        [[ziu3 si6 hang4 si6 照事行事]]
+        do what you've begun;
+    - _(2)t(a/) chi(u/)(3) m(i/)n(6)_
+        [[daa2 ziu3 min6 打照面]]
+        catch a glimpse of;
+    - _chi(u/)(3) (1)(i/) (5)k(')(u")_
+        [[ziu3 ji1 keoi5 照依佢]],
+        do as he does;
+    - _chi(u/)(3) ch(u")(6) (5)k(')(u")_
+        [[ziu3 zyu6 keoi5 照住佢]],
+        light him with a lantern;
+    - _chi(u/)(3) k(i/)n(3) (5)n(i/) k(e/)(3) (1)sam (1)kon_
+        [[ziu3 gin3 nei5 ge3 sam1 gon1 照見你嘅心肝]],
+        I can see through your design.
     ==
   ====
 $$
