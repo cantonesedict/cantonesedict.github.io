@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2024-06-30
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -412,7 +412,7 @@ W
   ====
   - [[Page~8 (2)痄]]
     --
-    [[Reading variation. **See $痄zaa3 for the canonical entry.**]]
+    [[Reading variation (per 《廣韻》側下切 rising). **See $痄zaa3 for the canonical entry.**]]
     --
   ====
 $$
@@ -705,7 +705,7 @@ U
   U+75C4
 V
   ==
-  - zaa2 (expected from 側下切 rising)
+  - zaa2 (per 《廣韻》側下切 rising)
   ==
 F
   [[Not present]]
