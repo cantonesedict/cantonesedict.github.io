@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zat
-* %date-modified --> 2024-07-09
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -218,7 +218,7 @@ W
   ====
   - [[Page~23|n66 郅(7)]]
     --
-    [[Reading variation (from Middle Chinese 之日切). **See $郅zat6 for the canonical entry.**]]
+    [[Reading variation (per 《廣韻》之日切). **See $郅zat6 for the canonical entry.**]]
     --
   ====
 S
@@ -335,7 +335,7 @@ U
   U+54A5
 V
   ==
-  - dit6 (expected from 徒結切)
+  - dit6 (per 《廣韻》徒結切)
   ==
 F
   ==
@@ -471,7 +471,7 @@ U
   U+684E
 V
   ==
-  - zat1 (expected from 之日切)
+  - zat1 (per 《廣韻》之日切)
   ==
 F
   ==
@@ -661,7 +661,7 @@ U
   U+87C4
 V
   ==
-  - zaap6 (expected from 直立切 lengthened)
+  - zaap6 (per 《廣韻》直立切 lengthened)
   - zik6 (common)
   - zit3 (common)
   ==
@@ -699,7 +699,7 @@ U
   U+90C5
 V
   ==
-  - zat1 (expected from 之日切)
+  - zat1 (per 《廣韻》之日切)
   ==
 F
   ==
