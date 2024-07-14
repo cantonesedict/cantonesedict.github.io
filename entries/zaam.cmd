@@ -495,7 +495,7 @@ W
   ====
   - [[Page~16|n59 賺(6)]]
     --
-    [[Reading variation (from 《集韻》直陷切). **See $賺zaan6 for the canonical entry.**]]
+    [[Reading variation (per 《集韻》直陷切). **See $賺zaan6 for the canonical entry.**]]
     --
   ====
 C

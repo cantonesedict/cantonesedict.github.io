@@ -789,7 +789,7 @@ W
   ====
 C
   ==
-  - The reading zaa3 is from 《廣韻》又音乍.
+  - The reading zaa3 is per 《廣韻》又音乍.
   ==
 S
   ==

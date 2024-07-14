@@ -67,7 +67,7 @@ U
   U+56C1
 V
   ==
-  - jip6 (per 《廣韻》而涉切)
+  - jip6 (alternative per 《廣韻》而涉切)
   ==
 F
   [[Not present]]

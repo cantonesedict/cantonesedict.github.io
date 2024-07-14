@@ -147,7 +147,7 @@ C
     ++
     1. 矺 is attested in Middle Chinese
        with both reasonable sound and reasonable meaning
-       (zaak3 from 《廣韻》陟革切, explained 磓也, to stone); and
+       (zaak3 per 《廣韻》陟革切, explained 磓也, to stone); and
     2. 砸 is otherwise read zaap3.
     ++
   ==
