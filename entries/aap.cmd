@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aap
-* %date-modified --> 2024-05-28
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -66,7 +66,7 @@ W
   ====
   - [[Page~5 押(8)]]
     --
-    [[Reading variation (from Middle Chinese 烏甲切). **See $押aat3 for the canonical entry.**]]
+    [[Reading variation (per 《廣韻》烏甲切). **See $押aat3 for the canonical entry.**]]
     --
   ====
 S
