@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [ziu1](#1)
+- [ziu2](#2)
 ==
 </nav>
 <## /tones ##>
@@ -220,3 +221,40 @@ S
 $$
 
 [朝鮮列傳第五十五]: https://archive.org/details/06056557.cn/page/n19/mode/1up
+
+
+##{#2 .williams} (2)Chi(u/) [[ziu2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $沼2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 沼2 | _(2)Chi(u/)_ [[ziu2]]
+
+$$
+R
+  ⽔ + 5
+U
+  U+6CBC
+F
+  ==
+  - [[F2.5 沼]] 池沼圓曰池方曰沼
+  ==
+W
+  ====
+  - [[Page~24* (2)沼]]
+    ==
+    - A pool or tank, used for a fishpond;
+    - _(4)l(i/)n (2)chi(u/)_
+        [[lin4 ziu2 蓮沼]],
+        a water-lily pond;
+    - _(4)ch(')(i/) (2)chi(u/)_
+        [[ci4 ziu2 池沼]],
+        ponds.
+    ==
+  ====
+$$
