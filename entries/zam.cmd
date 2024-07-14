@@ -222,7 +222,7 @@ U
 V
   ==
   - cam1 (in 祲祥)
-  - zam3 (expected from 子禁切)
+  - zam3 (per 《廣韻》子禁切)
   ==
 F
   ==
