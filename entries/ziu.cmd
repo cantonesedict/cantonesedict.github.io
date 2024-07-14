@@ -24,6 +24,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [ziu1](#1)
 - [ziu2](#2)
 - [ziu3](#3)
+- [ziu6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -393,4 +394,49 @@ W
         to be called into the presence.
     ==
   ====
+$$
+
+
+##{#6 .williams} Chi(u/)(6) Tsi(u/)(6) [[ziu6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $召6
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 召6 | _Chi(u/)(6)_ [[ziu6]]
+
+$$
+R
+  ⼝ + 2
+U
+  U+53EC
+F
+  ==
+  - [[F2.7 召]] 呼也
+  ==
+W
+  ====
+  - [[Page~24* 召(6)]]
+    ==
+    - To call, to summon, to invoke, to cite;
+    - to order one to be present;
+    - _chi(u/)(6) (2)ting_
+        [[ziu6 ding2 召頂]],
+        to issue proposals to take a stock in trade;
+    - _chi(u/)(6) k(i/)n(3)_
+        [[ziu6 gin3 召見]]
+        to call to court;
+    - _chi(u/)(6) pat(7) t(o\)(3)_
+        [[ziu6 bat1 dou3 召不到]]
+        not to appear when summoned.
+    ==
+  ====
+S
+  ==
+  - $召siu6 (TODO)
+  ==
 $$
