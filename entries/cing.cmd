@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2024-07-11
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -720,7 +720,7 @@ W
         [[cing2 zau2 tip3-2 請酒帖]]
         an invitation to dinner;
     - _(2)ts(')eng k(a/)u(3)_
-        [[ceng2 gaau3 請敎]]
+        [[ceng2 gaau3 請教]]
         please tell me;
     - _(2)ts(')ing (4)k(')(i/)_
         [[cing2 kei4 請期]],
@@ -772,7 +772,7 @@ W
 C
   ==
   - Williams' 請坐: Corrected _tso(6)_ (zo6 去聲) to _(5)ts(')o_ (co5 上聲).
-  - Williams' 請敎: To ask or consult with someone (more knowledgeable than oneself).
+  - Williams' 請教: To ask or consult with someone (more knowledgeable than oneself).
   - Williams' 請先生: Changed _(1)shang_ (sang1)
     to vernacular reading _(1)sh(a/)ng_ (saang1).
   - Williams' 請命: More a third-person indicative

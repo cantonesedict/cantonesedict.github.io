@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cit
-* %date-modified --> 2024-07-12
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -318,7 +318,7 @@ W
     - _(1)p(')(o\) ch(')(i/)t(8)_
         [[pou1 cit3 鋪設]]
         to set in order, to prepare;
-    - _ch(')(i/)t(8) k(a/)u(3)_ [[cit3 gaau3 設敎]]
+    - _ch(')(i/)t(8) k(a/)u(3)_ [[cit3 gaau3 設教]]
         or
       _ch(')(i/)t(8) ch(e/)ung(3)_ [[cit3 zoeng3 設帳]]
         to open a school.
