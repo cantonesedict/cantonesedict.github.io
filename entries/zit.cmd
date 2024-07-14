@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zit
-* %date-modified --> 2024-07-09
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -223,7 +223,7 @@ U
   U+5A55
 V
   ==
-  - zip3 (expected from 即葉切)
+  - zip3 (per 《廣韻》即葉切)
   ==
 F
   [[Not present]]
@@ -636,7 +636,7 @@ U
   U+6377
 V
   ==
-  - zip6 (expected from 疾葉切)
+  - zip6 (per 《廣韻》疾葉切)
   - zit3 (common in certain compounds, e.g. 快捷, 捷克)
   ==
 F
@@ -690,7 +690,7 @@ U
   U+776B
 V
   ==
-  - zip3 (expected from 即葉切)
+  - zip3 (per 《廣韻》即葉切)
   ==
 F
   ==
