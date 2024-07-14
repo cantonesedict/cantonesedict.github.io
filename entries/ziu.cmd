@@ -402,11 +402,36 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $兆6
 - $召6
 - $趙6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 兆6 | _Chi(u/)(6)_ [[ziu6]]
+
+$$
+R
+  ⼉ + 4
+U
+  U+5146
+F
+  ==
+  - [[F2.7 兆]] 億兆十億曰兆又宅兆墓域也又吉兆兆者以求吉爲主故以召言吉又京兆猶言京師也
+  ==
+W
+  ====
+  - [[Page~24* 兆(6)]]
+    --
+    [[Reading variation (from Middle Chinese 治小切). **See $兆siu6 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $兆siu6 (TODO)
+  ==
+$$
 
 ### 召6 | _Chi(u/)(6)_ [[ziu6]]
 
