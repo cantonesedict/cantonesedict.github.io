@@ -956,7 +956,7 @@ U
   U+60B5
 V
   ==
-  - coeng3 (expected from 丑亮切)
+  - coeng3 (per 《廣韻》丑亮切)
   ==
 F
   ==
