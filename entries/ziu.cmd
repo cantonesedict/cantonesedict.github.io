@@ -405,6 +405,7 @@ $$
 - $兆6
 - $召6
 - $趙6
+- $齸6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -491,4 +492,35 @@ W
       its capital was the present Ch(a/)uching [[趙城]] in Sh(a/)ns(i/) [[山西]].
     ==
   ====
+$$
+
+### 齸6 | _Chi(u/)(6)_ [[ziu6]]
+
+$$
+R
+  ⿒ + 10
+U
+  U+9F78
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~24* 齸(6)]]
+    --
+    A colloquial word
+    [[here normalised to 噍; **see $噍ziu6 for the canonical entry**]]. [[TODO]]
+    --
+    --
+    Read _yik[(7)]_ [[zik1]] [[**see $齸jik1**]].
+    --
+  ====
+C
+  ==
+  - Williams' alternative reading: Corrected _yik(9)_ (jik6) to _yik(7)_ (jik1).
+  ==
+S
+  ==
+  - $齸jat6 (TODO)
+  - $齸jik1 (TODO)
+  ==
 $$
