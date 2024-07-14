@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zip
-* %date-modified --> 2024-07-09
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -67,7 +67,7 @@ U
   U+56C1
 V
   ==
-  - jip6 (alternative from 而涉切)
+  - jip6 (per 《廣韻》而涉切)
   ==
 F
   [[Not present]]
