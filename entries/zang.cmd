@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2024-07-10
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -471,7 +471,7 @@ C
   ==
   - The reading _(1)chang_ (zang1) for 睜
     is not attested in the Middle Chinese rime books
-    (which result in zing6 expected from 疾郢切, explained 眳睜不恱視也, now obsolete).
+    (which result in zing6 per 《廣韻》疾郢切, explained 眳睜不恱視也, now obsolete).
     An entry is included here for completeness.
     ++
     1. To open the eyes, especially suddenly.
