@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2024-07-09
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -276,8 +276,8 @@ H
   depending on the font.
 V
   ==
-  - zat1 (expected from 資悉切 for "brick" and "ember" senses)
-  - zik6 (expected from 秦力切 for "abhor" senses)
+  - zat1 (per 《廣韻》資悉切 for "brick" and "ember" senses)
+  - zik6 (per 《廣韻》秦力切 for "abhor" senses)
   ==
 F
   ==
@@ -311,7 +311,7 @@ U
   U+5E58
 V
   ==
-  - zaak3 (expected from 側革切)
+  - zaak3 (per 《廣韻》側革切)
   ==
 F
   ==
@@ -372,7 +372,7 @@ U
   U+755F
 V
   ==
-  - cik1 (expected from 初力切)
+  - cik1 (per 《廣韻》初力切)
   ==
 F
   ==
@@ -405,7 +405,7 @@ U
   U+78E7
 V
   ==
-  - cik1 (expected from 七迹切)
+  - cik1 (per 《廣韻》七迹切)
   ==
 F
   ==
@@ -1480,7 +1480,7 @@ U
   U+7A19
 V
   ==
-  - zik1 (expected from 竹力切)
+  - zik1 (per 《廣韻》竹力切)
   ==
 F
   ==
@@ -1637,7 +1637,7 @@ U
 V
   ==
   - ze3 (alternative for "mat" and "borrow" senses)
-  - ze6 (expected from 慈夜切 for "mat" and "borrow" senses)
+  - ze6 (per 《廣韻》慈夜切 for "mat" and "borrow" senses)
   ==
 F
   ==
