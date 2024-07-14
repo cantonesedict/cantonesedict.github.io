@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2024-07-12
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -128,6 +128,7 @@ C
       ::案(:朝音潮直驕反:)鮮音仙以有汕水故名也汕一音訕::
       """"
     ==
+    Corrected _(1)sin_ to _(1)s(i/)n_.
   - Williams' 朝飯, 朝晨, 用朝未: Dated.
   ====
 E
