@@ -268,6 +268,7 @@ $$
 =={.modern}
 - $炤3
 - $照3
+- $詔3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -355,6 +356,41 @@ W
     - _chi(u/)(3) k(i/)n(3) (5)n(i/) k(e/)(3) (1)sam (1)kon_
         [[ziu3 gin3 nei5 ge3 sam1 gon1 照見你嘅心肝]],
         I can see through your design.
+    ==
+  ====
+$$
+
+### 詔3 | _Chi(u/)(3)_ [[ziu3]]
+
+$$
+R
+  ⾔ + 5
+U
+  U+8A54
+F
+  ==
+  - [[F2.6 詔]] 告也上命也又敎導之也
+  ==
+W
+  ====
+  - [[Page~24* 詔(3)]]
+    ==
+    - To promulge, to announce, to proclaim;
+    - to teach, to exhort, to instruct the empire;
+    - a proclamation;
+    - to encourage;
+    - _(1)yan chi(u/)(3)_
+        [[jan1 ziu3 恩詔]]
+        a gracious command, as a pardon;
+    - _chi(u/)(3) ming(6)_
+        [[ziu3 ming6 詔命]]
+        a royal mandate;
+    - _chi(u/)(3) k(o\)(3)_
+        [[ziu3 gou3 詔告]]
+        to proclaim;
+    - _chi(u/)(3) t(u/)i(3)_
+        [[ziu3 deoi3 詔對]]
+        to be called into the presence.
     ==
   ====
 $$
