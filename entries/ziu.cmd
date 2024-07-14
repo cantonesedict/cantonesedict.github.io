@@ -54,6 +54,7 @@ $$
 =={.modern}
 - $招1
 - $朝1
+- $椒1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -223,6 +224,42 @@ S
 $$
 
 [朝鮮列傳第五十五]: https://archive.org/details/06056557.cn/page/n19/mode/1up
+
+### 椒1 | _(1)Tsi(u/)_ [[ziu1]]
+
+$$
+R
+  ⽊ + 8
+U
+  U+6912
+F
+  ==
+  - [[F2.3 椒]] 胡椒皇后稱椒房以椒塗壁取其温柔又姓
+  ==
+W
+  ====
+  - [[Page~580 (1)椒]]
+    ==
+    - Pepper;
+    - peppery, hot;
+    - _(4)(u/) (1)tsi(u/)_
+        [[wu4 ziu1 胡椒]],
+        black pepper;
+    - _(1)f(a/) (1)tsi(u/)_
+        [[faa1 ziu1 花椒]],
+        cayenne or red pepper;
+    - _(1)tsi(u/) (4)fong_
+        [[ziu1 fong4 椒房]],
+        the "pepper room," is a term for a queen;
+    - _(1)tsi(u/) m(u/)t(9)_
+        [[ziu1 mut6 椒末]]
+        ground pepper;
+    - _(1)ch(')(u")n (1)tsi(u/)_
+        [[cyun1 ziu1 川椒]],
+        Sz'chuen [[四川]] pepper.
+    ==
+  ====
+$$
 
 
 ##{#2 .williams} (2)Chi(u/) [[ziu2 陰上]]
