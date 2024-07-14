@@ -49,10 +49,73 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $招1
 - $朝1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 招1 | _(1)Chi(u/)_ [[ziu1]]
+
+$$
+R
+  ⼿ + 5
+U
+  U+62DB
+F
+  ==
+  - [[F2.2 招]] 手呼也以言曰召以手曰招
+  ==
+W
+  ====
+  - [[Page~24* (1)招]]
+    ==
+    - To beckon, to motion to with the hand, to hail;
+    - to let people know;
+    - to invite, to induce;
+    - to raise, as troops;
+    - to confess;
+    - self-crimination;
+    - to excite, to entangle;
+    - a handbill, a sign-board;
+    - a wave of the hand, a signal;
+    - _(1)chi(u/) (1)f(u/)_
+        [[ziu1 fu1 招呼]],
+        to call and beckon;
+    - _(1)chi(u/) (4)'m (1)chi(u/)_
+        [[ziu1 m4 ziu1 招唔招]],
+        do you confess?
+    - _(1)chi(u/) t(')(i/)p_
+        [[ziu1 tip3-2 招貼]],
+        a handbill, a placard;
+    - _(1)chi(u/) (4)p(')(a/)i_
+        [[ziu1 paai4 招牌]],
+        a sign-board;
+    - _(1)chi(u/) (4)long yap(9) sh(e/)(3)_
+        [[ziu1 long4 jap6 se3 招郎入舍]]
+        to bring a son-in-law to one's house;
+    - _(1)chi(u/) sh(o\)(3)_
+        [[ziu1 sou3 招數]]
+        to own to the account, to become responsible for;
+    - _(1)chi(u/) (5)y(e/) hoi(6) sz'(6)_
+        [[ziu1 je5 hoi6 si6 招惹害事]]
+        to involve one's business;
+    - _(1)chi(u/) (1)ping_
+        [[ziu1 bing1 招兵]],
+        to enlist soldiers;
+    - _(1)chi(u/) ying(6)_ [[ziu1 jing6 招認]]
+        or
+      _(1)chi(u/) ts(u/)i(6)_ [[ziu1 zeoi6 招罪]]
+        to confess guilt;
+    - _(1)chi(u/) k(a/)(3)_
+        [[ziu1 gaa3 招架]]
+        to ward off;
+    - _(1)chi(u/) (4)ts(')oi (4)t(')ung (2)tsz'_
+        [[ziu1 coi4 tung4 zi2 招財童子]]
+        the god of wealth, worshiped at shop doors.
+    ==
+  ====
+$$
 
 ### 朝1 | _(1)Chi(u/)_ [[ziu1]]
 
