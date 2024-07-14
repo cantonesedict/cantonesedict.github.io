@@ -178,7 +178,7 @@ C
   ====
   - Fan Wan entry: Corrected 且 to 旦.
   - Williams' 朝鮮國: Opinion is divided on whether 朝 in 朝鮮
-    should be read _(1)chi(u/)_ (ziu1) or _(1)ch(')i(u/)_ (ciu4).
+    should be read _(1)chi(u/)_ (ziu1) or _(4)ch(')i(u/)_ (ciu4).
     ==
     - _(1)chi(u/)_ (ziu1) is recorded in the dictionaries:
       """"
@@ -189,7 +189,7 @@ C
       《唐韻》《廣韻》《集韻》《類篇》《韻會》(:𠀤陟遙切音昭:)[...]^\
       (:又朝鮮國名:)[...]::
       """"
-    - _(1)ch(')i(u/)_ (ciu4) is recorded in 《史記索隱》,
+    - _(4)ch(')i(u/)_ (ciu4) is recorded in 《史記索隱》,
       specifically as a note under [朝鮮列傳第五十五]:
       """"
       ::案(:朝音潮直驕反:)鮮音仙以有汕水故名也汕一音訕::
