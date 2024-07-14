@@ -1737,7 +1737,7 @@ W
   ====
   - [[Page~563 (4)酋]]
     --
-    [[Reading variation (from Middle Chinese 自秋切). **See $酋jau4 for the canonical entry.**]]
+    [[Reading variation (per 《廣韻》自秋切). **See $酋jau4 for the canonical entry.**]]
     --
   ====
 S

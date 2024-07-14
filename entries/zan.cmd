@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zan
-* %date-modified --> 2024-05-28
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -114,7 +114,7 @@ W
   ====
   - [[Page~16|n59 (1)甄]]
     --
-    [[Reading variation (from Middle Chinese 職鄰切). **See $甄jan1 for the canonical entry.**]]
+    [[Reading variation (per 《廣韻》職鄰切). **See $甄jan1 for the canonical entry.**]]
     --
   ====
 S

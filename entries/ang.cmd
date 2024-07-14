@@ -71,7 +71,7 @@ W
   ====
   - [[Page~4 (1)嚶]]
     --
-    [[Reading variation (from Middle Chinese 烏莖切). **See $嚶jing1 for the canonical entry.**]]
+    [[Reading variation (per 《廣韻》烏莖切). **See $嚶jing1 for the canonical entry.**]]
     --
   ====
 S
