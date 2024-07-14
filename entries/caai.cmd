@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2024-05-28
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -254,8 +254,8 @@ A
   ==
 V
   ==
-  - cyun2 (expected from 市兖切 rising)
-  - dyun3 (expected from 丁貫切)
+  - cyun2 (per 《廣韻》市兖切 rising)
+  - dyun3 (per 《廣韻》丁貫切)
   - jaai2 (vernacular)
   ==
 F
