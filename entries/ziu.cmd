@@ -266,10 +266,32 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $炤3
 - $照3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 炤3 | _Chi(u/)(3)_ [[ziu3]]
+
+$$
+R
+  ⽕ + 5
+U
+  U+70A4
+F
+  ==
+  - [[F2.6 照]] 明也燭也
+  - [[F2.6 炤]] 同上
+  ==
+W
+  ====
+  - [[Page~24* 照(3)炤(3)]]
+    --
+    [[Alternative form of 照. **See $照ziu3 for the canonical entry.**]]
+    --
+  ====
+$$
 
 ### 照3 | _Chi(u/)(3)_ [[ziu3]]
 
