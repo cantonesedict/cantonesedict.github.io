@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2024-07-12
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -113,8 +113,8 @@ U
   U+373A
 V
   ==
-  - zaan3 (expected from 則旰切)
-  - zaan6 (expected from 徂賛切)
+  - zaan3 (per 《廣韻》則旰切)
+  - zaan6 (per 《廣韻》徂賛切)
   ==
 F
   [[Not present]]
@@ -123,7 +123,7 @@ W
 C
   ==
   - Arguably, _(2)ts(a/)n_ (zaan2) is a vernacular rising-tone reading of
-    _ts(a/)n(6)_ (zaan6) (expected from 徂賛切)^, meaning "pretty" (美好皃);
+    _ts(a/)n(6)_ (zaan6) (per 《廣韻》徂賛切)^, meaning "pretty" (美好皃);
     see below.
   ==
 E
@@ -154,7 +154,7 @@ U
   U+5BC1
 V
   ==
-  - zaam2 (expected from 子感切)
+  - zaam2 (per 《廣韻》子感切)
   ==
 F
   ==
@@ -184,7 +184,7 @@ U
   U+661D
 V
   ==
-  - zaam2 (expected from 子感切)
+  - zaam2 (per 《廣韻》子感切)
   ==
 F
   ==
@@ -848,7 +848,7 @@ A
   ==
 V
   ==
-  - zaam6 (expected from 《集韻》直陷切)
+  - zaam6 (per 《集韻》直陷切)
   ==
 F
   ==
