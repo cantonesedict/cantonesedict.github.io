@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caau
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -101,7 +101,7 @@ U
   U+9214
 V
   ==
-  - caau3 (expected from 初敎切)
+  - caau3 (per 《廣韻》初敎切)
   ==
 F
   ==
@@ -315,7 +315,7 @@ W
   ====
   - [[Page~30|n73 鈔(3)]]
     --
-    [[Reading variation. **See $鈔caau1 for the canonical entry.**]]
+    [[Reading variation (per 《廣韻》初敎切). **See $鈔caau1 for the canonical entry.**]]
     --
   ====
 S
@@ -415,7 +415,7 @@ U
   U+6F05
 V
   ==
-  - ziu2 (expected from 子小切)
+  - ziu2 (per 《廣韻》子小切)
   ==
 F
   ==
