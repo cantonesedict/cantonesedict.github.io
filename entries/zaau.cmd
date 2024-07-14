@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaau
-* %date-modified --> 2024-05-24
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -148,7 +148,7 @@ A
   ==
 V
   ==
-  - zau2 (expected from 之九切)
+  - zau2 (per 《廣韻》之九切)
   ==
 F
   ==
@@ -354,7 +354,7 @@ U
   U+8098
 V
   ==
-  - zau2 (expected from 陟柳切)
+  - zau2 (per 《廣韻》陟柳切)
   ==
 F
   ==
@@ -593,7 +593,7 @@ U
   U+8E14
 V
   ==
-  - caau3 (expected from 丑敎切)
+  - caau3 (per 《廣韻》丑敎切)
   ==
 F
   [[Not present]]
@@ -611,7 +611,7 @@ W
   ====
 S
   ==
-  - $踔coek3
+  - $踔coek3 (TODO)
   ==
 $$
 
@@ -723,7 +723,7 @@ U
   U+9A5F
 V
   ==
-  - zau6 (expected from 鋤祐切)
+  - zau6 (per 《廣韻》鋤祐切)
   ==
 F
   ==
