@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2024-07-12
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -94,7 +94,7 @@ U
   U+5962
 V
   ==
-  - se1 (expected from 式車切)
+  - se1 (per 《廣韻》式車切)
   ==
 F
   ==
