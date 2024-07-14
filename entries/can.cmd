@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2024-07-12
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -337,7 +337,7 @@ U
   U+755B
 V
   ==
-  - zan2 (expected from 章忍切)
+  - zan2 (per 《廣韻》章忍切)
   ==
 F
   ==
@@ -372,7 +372,7 @@ A
   ==
 V
   ==
-  - can3 (expected from 丑刃切)
+  - can3 (per 《廣韻》丑刃切)
   ==
 F
   ==
@@ -406,7 +406,7 @@ U
   U+75B9
 V
   ==
-  - zan2 (expected from 章忍切)
+  - zan2 (per 《廣韻》章忍切)
   ==
 F
   ==
@@ -468,7 +468,7 @@ U
   U+7D3E
 V
   ==
-  - zan2 (expected from 章忍切)
+  - zan2 (per 《廣韻》章忍切)
   ==
 F
   ==
@@ -499,7 +499,7 @@ H
   depending on the font.
 V
   ==
-  - zan2 (expected from 章忍切)
+  - zan2 (per 《廣韻》章忍切)
   ==
 F
   ==
@@ -533,7 +533,7 @@ U
   U+8897
 V
   ==
-  - zan2 (expected from 章忍切)
+  - zan2 (per 《廣韻》章忍切)
   ==
 F
   ==
@@ -561,7 +561,7 @@ U
   U+8A3A
 V
   ==
-  - zan2 (expected from 章忍切)
+  - zan2 (per 《廣韻》章忍切)
   ==
 F
   ==
@@ -592,7 +592,7 @@ U
   U+8EEB
 V
   ==
-  - zan2 (expected from 章忍切)
+  - zan2 (per 《廣韻》章忍切)
   ==
 F
   ==
@@ -633,7 +633,7 @@ H
   depending on the font.
 V
   ==
-  - zan2 (expected from 章忍切)
+  - zan2 (per 《廣韻》章忍切)
   ==
 F
   ==
