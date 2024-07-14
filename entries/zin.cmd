@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2024-07-12
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -345,7 +345,7 @@ U
   U+76BD
 V
   ==
-  - zin2 (expected from 知演切)
+  - zin2 (per 《廣韻》知演切)
   ==
 F
   [[Not present]]
@@ -431,7 +431,7 @@ U
   U+7FB6
 V
   ==
-  - sin1 (expected from 式連切)
+  - sin1 (per 《廣韻》式連切)
   ==
 F
   ==
@@ -806,9 +806,9 @@ U
   U+8AD3
 V
   ==
-  - cin5 (expected from 慈演切 rising)
+  - cin5 (per 《廣韻》慈演切)
   - zin1 (alternative)
-  - zin6 (expected from 才線切)
+  - zin6 (per 《廣韻》才線切)
   ==
 F
   ==
@@ -956,7 +956,7 @@ U
   U+95E1
 V
   ==
-  - cin2 (expected from 昌善切)
+  - cin2 (per 《廣韻》昌善切)
   ==
 F
   ==
@@ -1098,7 +1098,7 @@ U
   U+6D0A
 V
   ==
-  - zin6 (expected from 在甸切)
+  - zin6 (per 《廣韻》在甸切)
   ==
 F
   ==
@@ -1298,7 +1298,7 @@ U
   U+8350
 V
   ==
-  - zin6 (expected from 在甸切)
+  - zin6 (per 《廣韻》在甸切)
   ==
 F
   ==
@@ -1475,8 +1475,8 @@ U
   U+991E
 V
   ==
-  - cin5 (expected from 慈演切 rising)
-  - zin6 (expected from 才線切)
+  - cin5 (per 《廣韻》慈演切)
+  - zin6 (per 《廣韻》才線切)
   ==
 F
   ==

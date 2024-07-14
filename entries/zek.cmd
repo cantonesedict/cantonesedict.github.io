@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zek
-* %date-modified --> 2024-06-28
+* %date-modified --> 2024-07-14
 * %copyright-prior-years -->
 
 %%%
@@ -217,7 +217,7 @@ U
 V
   ==
   - zik3 (alternative)
-  - zik6 (expected from 秦昔切)
+  - zik6 (per 《廣韻》秦昔切)
   ==
 F
   ==

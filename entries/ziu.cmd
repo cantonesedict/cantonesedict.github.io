@@ -463,7 +463,7 @@ W
   ====
   - [[Page~24* 兆(6)]]
     --
-    [[Reading variation (from Middle Chinese 治小切). **See $兆siu6 for the canonical entry.**]]
+    [[Reading variation (per 《廣韻》治小切). **See $兆siu6 for the canonical entry.**]]
     --
   ====
 S
@@ -521,7 +521,7 @@ W
   ====
   - [[Page~24* 旐(6)]]
     --
-    [[Reading variation (from Middle Chinese 治小切). **See $旐siu6 for the canonical entry.**]]
+    [[Reading variation (per 《廣韻》治小切). **See $旐siu6 for the canonical entry.**]]
     --
   ====
 S

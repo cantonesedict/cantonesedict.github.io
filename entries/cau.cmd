@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2024-07-08
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -844,7 +844,7 @@ U
   U+55C5
 V
   ==
-  - hung3 (expected from 《集韻》香仲切)
+  - hung3 (per 《集韻》香仲切)
   ==
 F
   ==
@@ -946,7 +946,7 @@ U
   U+7CD7
 V
   ==
-  - hau2 (expected from 去久切)
+  - hau2 (per 《廣韻》去久切)
   - jau2 (common)
   ==
 F
@@ -1035,7 +1035,7 @@ U
   U+27F52
 V
   ==
-  - hung3 (expected from 香仲切)
+  - hung3 (per 《廣韻》香仲切)
   ==
 F
   [[Not present]]
@@ -1737,7 +1737,7 @@ W
   ====
   - [[Page~563 (4)酋]]
     --
-    [[Reading variation (from Middle Chinese 自秋切). **See $酋jau4 for the canonical entry.**]]
+    [[Reading variation (per 《廣韻》自秋切). **See $酋jau4 for the canonical entry.**]]
     --
   ====
 S

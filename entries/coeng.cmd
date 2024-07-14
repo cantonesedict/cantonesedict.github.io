@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2024-07-08
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -820,7 +820,7 @@ W
   [[Not present]]
 C
   ==
-  - Reading variation (from Middle Chinese 丑亮切). **See $悵zoeng3 for the canonical entry.**
+  - Reading variation (per 《廣韻》丑亮切). **See $悵zoeng3 for the canonical entry.**
   ==
 S
   ==

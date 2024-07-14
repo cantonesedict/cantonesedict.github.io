@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2024-07-11
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1094,7 +1094,7 @@ U
   U+7A67
 V
   ==
-  - zai3 (alternative from 子計切)
+  - zai3 (alternative per 《廣韻》子計切)
   ==
 F
   ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2024-07-12
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -164,7 +164,7 @@ U
   U+6519
 V
   ==
-  - caam4 (expected from 士咸切 for "stab" sense)
+  - caam4 (per 《廣韻》士咸切 for "stab" sense)
   ==
 F
   [[Not present]]
@@ -385,7 +385,7 @@ W
     --
   <##
     ==
-    - saam2 (expected from 所斬切)
+    - saam2 (per 《廣韻》所斬切)
     ==
     ==
     - A delicate hand, a hand with tapering fingers; --> 攕 saam1
@@ -512,7 +512,7 @@ U
   U+6749
 V
   ==
-  - saam1 (expected from 所咸切)
+  - saam1 (per 《廣韻》所咸切)
   ==
 F
   ==
@@ -692,7 +692,7 @@ W
   ====
   - [[Page~16|n59 (4)攙]]
     --
-    [[Reading variation (for literary "stab" sense). **See $攙caam1 for the canonical entry.**]]
+    [[Reading variation (per 《廣韻》士咸切 for literary "stab" sense). **See $攙caam1 for the canonical entry.**]]
     --
   ====
 S
@@ -973,7 +973,7 @@ A
   ==
 V
   ==
-  - zaam6 (expected from 藏濫切)
+  - zaam6 (per 《廣韻》藏濫切)
   ==
 F
   ==

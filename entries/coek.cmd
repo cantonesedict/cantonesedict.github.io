@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coek
-* %date-modified --> 2024-05-28
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -65,7 +65,7 @@ U
   U+502C
 V
   ==
-  - zoek3 (expected from initial of 竹角切)
+  - zoek3 (per initial of 《廣韻》竹角切)
   ==
 F
   ==
@@ -94,7 +94,7 @@ U
   U+5353
 V
   ==
-  - zoek3 (expected from initial of 竹角切)
+  - zoek3 (per initial of 《廣韻》竹角切)
   ==
 F
   ==
@@ -163,7 +163,7 @@ A
   ==
 V
   ==
-  - zoek3 (expected from initial of 竹角切)
+  - zoek3 (per initial of 《廣韻》竹角切)
   ==
 F
   [[Not present]]
@@ -317,7 +317,7 @@ W
   ====
   - [[Page~565 鵲(8)]]
     --
-    [[Reading variation (from Middle Chinese 七雀切). **See $鵲zoek3 for the canonical entry.**]]
+    [[Reading variation (per 《廣韻》七雀切). **See $鵲zoek3 for the canonical entry.**]]
     --
   ====
 S

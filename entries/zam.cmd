@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2024-05-28
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -222,7 +222,7 @@ U
 V
   ==
   - cam1 (in 祲祥)
-  - zam3 (expected from 子禁切)
+  - zam3 (per 《廣韻》子禁切)
   ==
 F
   ==

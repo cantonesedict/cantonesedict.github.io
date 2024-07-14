@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoek
-* %date-modified --> 2024-07-12
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -116,7 +116,7 @@ U
   U+56BC
 V
   ==
-  - zoek6 (expected from 在爵切)
+  - zoek6 (per 《廣韻》在爵切)
   ==
 F
   ==
@@ -319,8 +319,8 @@ U
   U+721D
 V
   ==
-  - ziu3 (expected from 子肖切)
-  - zoek6 (expected from 在爵切)
+  - ziu3 (per 《廣韻》子肖切)
+  - zoek6 (per 《廣韻》在爵切)
   ==
 F
   ==
@@ -397,8 +397,8 @@ U
   U+76AD
 V
   ==
-  - ziu3 (expected from 子肖切)
-  - zoek6 (expected from 在爵切)
+  - ziu3 (per 《廣韻》子肖切)
+  - zoek6 (per 《廣韻》在爵切)
   ==
 F
   ==
@@ -715,7 +715,7 @@ U
   U+9D72
 V
   ==
-  - coek3 (expected from 七雀切)
+  - coek3 (per 《廣韻》七雀切)
   - zoek3-2 (vernacular rising-tone noun)
   ==
 F
@@ -776,7 +776,7 @@ W
   ====
   - [[Page~565 嚼(9)]]
     --
-    [[Reading variation (from Middle Chinese 在爵切). **See $嚼zoek3 for the canonical entry.**]]
+    [[Reading variation (per 《廣韻》在爵切). **See $嚼zoek3 for the canonical entry.**]]
     --
   ====
 S
@@ -800,7 +800,7 @@ W
   ====
   - [[Page~565 爝(9)]]
     --
-    [[Reading variation. **See $爝zoek3 for the canonical entry.**]]
+    [[Reading variation (per 《廣韻》在爵切). **See $爝zoek3 for the canonical entry.**]]
     --
   ====
 S
@@ -824,7 +824,7 @@ W
   ====
   - [[Page~565 皭(9)]]
     --
-    [[Reading variation. **See $皭zoek3 for the canonical entry.**]]
+    [[Reading variation (per 《廣韻》在爵切). **See $皭zoek3 for the canonical entry.**]]
     --
   ====
 C

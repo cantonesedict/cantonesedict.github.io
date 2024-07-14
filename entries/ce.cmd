@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2024-07-12
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -94,7 +94,7 @@ U
   U+5962
 V
   ==
-  - se1 (expected from 式車切)
+  - se1 (per 《廣韻》式車切)
   ==
 F
   ==
@@ -289,7 +289,7 @@ C
   ==
   - Williams' 且信且疑: Corrected _san(3)_ (san3) to _sun(3)_ (seon3).
   - Williams' 且慢: More an imperative "slow down" or "hang on" than adverbial "soon" or "shortly".
-  - Strictly, the reading is _(2)ts(')(e/)_ (ce2) from 七也切,
+  - Strictly, the reading is _(2)ts(')(e/)_ (ce2) from Middle Chinese 七也切,
     but Fan Wan groups it with 扯 (same as 撦),
     whose reading is _(2)ch(')(e/)_ (ce2) from 昌者切.
     Notwithstanding, this is all academic given the initials _ts(')_ and _ch(')_ are now considered merged.

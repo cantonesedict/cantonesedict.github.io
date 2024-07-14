@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cap
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -59,7 +59,7 @@ U
   U+6222
 V
   ==
-  - zap1 (expected from 阻立切)
+  - zap1 (per 《廣韻》阻立切)
   ==
 F
   ==
@@ -106,7 +106,7 @@ U
   U+6FC8
 V
   ==
-  - zap1 (expected from 阻立切)
+  - zap1 (per 《廣韻》阻立切)
   ==
 F
   ==

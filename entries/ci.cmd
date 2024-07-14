@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2024-07-12
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -194,7 +194,7 @@ U
   U+75B5
 V
   ==
-  - ci4 (expected from 疾移切)
+  - ci4 (per 《廣韻》疾移切)
   ==
 F
   ==
@@ -500,8 +500,8 @@ U
   U+9AB4
 V
   ==
-  - ci4 (expected from 疾移切)
-  - zi6 (expected from 疾智切)
+  - ci4 (per 《廣韻》疾移切)
+  - zi6 (per 《廣韻》疾智切)
   ==
 F
   ==
@@ -956,7 +956,7 @@ A
   ==
 V
   ==
-  - ci5 (expected from 池爾切 rising)
+  - ci5 (per 《廣韻》池爾切 rising)
   - to1 (per Kangxi quoting 詩經)
   ==
 F
@@ -1882,7 +1882,7 @@ U
   U+8CDC
 V
   ==
-  - si3 (expected from 斯義切)
+  - si3 (per 《廣韻》斯義切)
   ==
 F
   ==
@@ -2340,7 +2340,7 @@ W
   ====
   - [[Page~615 (4)疵]]
     --
-    [[Reading variation (from Middle Chinese 疾移切). **See $疵ci1 for the canonical entry.**]]
+    [[Reading variation (per 《廣韻》疾移切). **See $疵ci1 for the canonical entry.**]]
     --
   ====
 S

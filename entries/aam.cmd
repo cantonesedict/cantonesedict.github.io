@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aam
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -59,7 +59,7 @@ U
   U+83E1
 V
   ==
-  - haam5 (expected from 胡感切 lengthened)
+  - haam5 (per 《廣韻》胡感切 lengthened)
   ==
 F
   ==

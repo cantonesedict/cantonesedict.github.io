@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ang
-* %date-modified --> 2024-05-28
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -71,7 +71,7 @@ W
   ====
   - [[Page~4 (1)嚶]]
     --
-    [[Reading variation (from Middle Chinese 烏莖切). **See $嚶jing1 for the canonical entry.**]]
+    [[Reading variation (per 《廣韻》烏莖切). **See $嚶jing1 for the canonical entry.**]]
     --
   ====
 S
@@ -161,7 +161,7 @@ U
   U+54FD
 V
   ==
-  - gang2 (expected from 古杏切)
+  - gang2 (per 《廣韻》古杏切)
   ==
 F
   ==

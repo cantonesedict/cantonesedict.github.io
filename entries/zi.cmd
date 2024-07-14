@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-07-12
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1558,7 +1558,7 @@ U
   U+4ED4
 V
   ==
-  - zi1 (expected from 子之切 for "bear" sense)
+  - zi1 (per 《廣韻》子之切 for "bear" sense)
   ==
 F
   ==
@@ -2376,7 +2376,7 @@ U
   U+7949
 V
   ==
-  - ci2 (expected from 敕里切)
+  - ci2 (per 《廣韻》敕里切)
   ==
 F
   ==
@@ -3079,7 +3079,7 @@ U
   U+6F2C
 V
   ==
-  - zi6 (expected from 疾智切)
+  - zi6 (per 《廣韻》疾智切)
   ==
 F
   [[Not present]]
@@ -3164,7 +3164,7 @@ U
   U+7DFB
 V
   ==
-  - zi6 (expected from 直利切)
+  - zi6 (per 《廣韻》直利切)
   ==
 F
   ==
@@ -4364,7 +4364,7 @@ U
   U+7B25
 V
   ==
-  - si3 (expected from 相吏切)
+  - si3 (per 《廣韻》相吏切)
   ==
 F
   ==

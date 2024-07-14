@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2024-06-30
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -150,7 +150,7 @@ W
   [[Not present]]
 C
   ==
-  - Reading variation (from Middle Chinese 子感切). **See $寁zaan2 for the canonical entry.**
+  - Reading variation (per 《廣韻》子感切). **See $寁zaan2 for the canonical entry.**
   ==
 S
   ==
@@ -495,7 +495,7 @@ W
   ====
   - [[Page~16|n59 賺(6)]]
     --
-    [[Reading variation (from 《集韻》直陷切). **See $賺zaan6 for the canonical entry.**]]
+    [[Reading variation (per 《集韻》直陷切). **See $賺zaan6 for the canonical entry.**]]
     --
   ====
 C
@@ -524,7 +524,7 @@ W
   [[Not present]]
 C
   ==
-  - Reading variation (from Middle Chinese 藏濫切). **See $鏨caam5 for the canonical entry.**
+  - Reading variation (per 《廣韻》藏濫切). **See $鏨caam5 for the canonical entry.**
   ==
 S
   ==

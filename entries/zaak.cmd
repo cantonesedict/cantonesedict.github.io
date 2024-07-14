@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2024-07-12
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -147,7 +147,7 @@ C
     ++
     1. 矺 is attested in Middle Chinese
        with both reasonable sound and reasonable meaning
-       (zaak3 from 《廣韻》陟革切, explained 磓也, to stone); and
+       (zaak3 per 《廣韻》陟革切, explained 磓也, to stone); and
     2. 砸 is otherwise read zaap3.
     ++
   ==
@@ -426,7 +426,7 @@ H
   depending on the font.
 V
   ==
-  - zaak6 (expected from 士革切)
+  - zaak6 (per 《廣韻》士革切)
   ==
 F
   ==
@@ -761,8 +761,8 @@ C
   - Fan Wan entry: Corrected 伙 to 狄, and removed extraneous trailing 翟.
   - Williams' "also read _t(')ik(7)_ [...]": this is not quite correct.
     ==
-    - 摘 is also read _t(')ik(7)_ (tik1) (expected from 他歷切); but
-    - 翟 is also read _tik(9)_ (dik6) (expected from 徒歷切).
+    - 摘 is also read _t(')ik(7)_ (tik1) (per 《廣韻》他歷切); but
+    - 翟 is also read _tik(9)_ (dik6) (per 《廣韻》徒歷切).
     ==
   ====
 S

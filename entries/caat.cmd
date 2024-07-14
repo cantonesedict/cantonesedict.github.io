@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caat
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -62,7 +62,7 @@ U
   U+5237
 V
   ==
-  - saat3 (expected from 數刮切)
+  - saat3 (per 《廣韻》數刮切)
   ==
 F
   ==
@@ -249,7 +249,7 @@ U
   U+737A
 V
   ==
-  - taat3 (expected from 他達切)
+  - taat3 (per 《廣韻》他達切)
   ==
 F
   ==

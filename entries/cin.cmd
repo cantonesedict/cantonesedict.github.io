@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cin
-* %date-modified --> 2024-06-26
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -441,7 +441,7 @@ W
   [[Not present]]
 C
   ==
-  - Reading variation (from Middle Chinese 昌善切). **See $闡zin2 for the canonical entry.**
+  - Reading variation (per 《廣韻》昌善切). **See $闡zin2 for the canonical entry.**
   ==
 S
   ==
@@ -598,7 +598,7 @@ U
   U+7E8F
 V
   ==
-  - zin6 (alternative from 持碾切)
+  - zin6 (alternative per 《廣韻》持碾切)
   ==
 F
   ==
