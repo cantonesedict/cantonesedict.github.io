@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaap
-* %date-modified --> 2024-07-12
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -260,7 +260,7 @@ U
   U+69E2
 V
   ==
-  - zap6 (expected from 似入切)
+  - zap6 (per 《廣韻》似入切)
   ==
 F
   ==
@@ -292,7 +292,7 @@ U
   U+7FD2
 V
   ==
-  - zap6 (expected from 似入切)
+  - zap6 (per 《廣韻》似入切)
   ==
 F
   ==
@@ -404,7 +404,7 @@ U
   U+8972
 V
   ==
-  - zap6 (expected from 似入切)
+  - zap6 (per 《廣韻》似入切)
   ==
 F
   ==
@@ -550,7 +550,7 @@ U
   U+96B0
 V
   ==
-  - zap6 (expected from 似入切)
+  - zap6 (per 《廣韻》似入切)
   ==
 F
   ==
@@ -578,7 +578,7 @@ U
   U+96C6
 V
   ==
-  - zap6 (expected from 秦入切)
+  - zap6 (per 《廣韻》秦入切)
   ==
 F
   ==
@@ -759,7 +759,7 @@ U
   U+972B
 V
   ==
-  - zap6 (expected from 似入切)
+  - zap6 (per 《廣韻》似入切)
   ==
 F
   ==
