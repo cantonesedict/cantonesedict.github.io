@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zim
-* %date-modified --> 2024-05-21
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -186,8 +186,8 @@ U
   U+5E68
 V
   ==
-  - cim1 (expected from 處占切)
-  - cim3 (expected from 昌豔切)
+  - cim1 (per 《廣韻》處占切)
+  - cim3 (per 《廣韻》昌豔切)
   ==
 F
   ==
@@ -342,7 +342,7 @@ A
   ==
 V
   ==
-  - nim4 (expected from 女廉切)
+  - nim4 (per 《廣韻》女廉切)
   ==
 F
   ==
@@ -412,7 +412,7 @@ U
   U+8998
 V
   ==
-  - cim1 (expected from 丑廉切)
+  - cim1 (per 《廣韻》丑廉切)
   ==
 F
   ==

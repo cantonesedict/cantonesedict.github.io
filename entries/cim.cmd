@@ -217,7 +217,7 @@ W
   [[Not present]]
 C
   ==
-  - Reading variation (from Middle Chinese 處占切). **See $幨zim1 for the canonical entry.**
+  - Reading variation (per 《廣韻》處占切). **See $幨zim1 for the canonical entry.**
   ==
 S
   ==
