@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2024-07-08
+* %date-modified --> 2024-07-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -361,9 +361,9 @@ C
   - Williams' placement under _(2)Ch(')am_ (cam2) is idiosyncratic
     (and probably erroneous) because it does not follow any of the following:
     ==
-    - zam2 from Fan Wan (which places it between 枕 and 怎)
-    - cam4 from 《集韻》又持林切 quoted by Kangxi.
-    - sam2 from 《廣韻》式任切 rising.
+    - zam2 per Fan Wan (which places it between 枕 and 怎)
+    - cam4 per 《集韻》又持林切 quoted by Kangxi.
+    - sam2 per 《廣韻》式任切 rising.
     ==
     It is possible that Williams has simply misprinted (4)魫 as (2)魫,
     in which case _(2)ch(')am_ (cam4) is intended.
@@ -682,7 +682,7 @@ U
   U+9414
 V
   ==
-  - jam4 (expected from 餘針切)
+  - jam4 (per 《廣韻》餘針切)
   ==
 F
   ==
@@ -704,9 +704,9 @@ C
   ====
   - 《廣韻》 provides three readings:
     ==
-    - cam4 (from 徐林切)
-    - jam4 (from 餘針切)
-    - taam4 (from 徒含切).
+    - cam4 (per 徐林切)
+    - jam4 (per 餘針切)
+    - taam4 (per 徒含切).
     ==
     The first two are explained 劒鼻 "sword's nose" (meaning knob)
     and the third is explained 劒口 "sword's mouth" (meaning edge).
@@ -751,7 +751,7 @@ U
   U+9B35
 V
   ==
-  - cim4 (expected from 昨鹽切)
+  - cim4 (per 《廣韻》昨鹽切)
   ==
 F
   ==
@@ -780,7 +780,7 @@ U
   U+9B6B
 V
   ==
-  - sam2 (expected from 式任切 rising)
+  - sam2 (per 《廣韻》式任切 rising)
   ==
 F
   ==
