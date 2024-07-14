@@ -317,7 +317,7 @@ W
   ====
   - [[Page~565 鵲(8)]]
     --
-    [[Reading variation (from Middle Chinese 七雀切). **See $鵲zoek3 for the canonical entry.**]]
+    [[Reading variation (per 《廣韻》七雀切). **See $鵲zoek3 for the canonical entry.**]]
     --
   ====
 S
