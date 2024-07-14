@@ -672,6 +672,14 @@ For all radicals, see [Index of characters by radical](./).
       - $旌zing1
       ==
       </nav>
+  //
+    , 8
+    ,
+      <nav class="sideways">
+      ==
+      - $旐ziu6
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⽅-characters ##>

@@ -404,6 +404,7 @@ $$
 =={.modern}
 - $兆6
 - $召6
+- $旐6
 - $趙6
 - $齸6
 ==
@@ -465,6 +466,30 @@ W
 S
   ==
   - $召siu6 (TODO)
+  ==
+$$
+
+### 旐6 | _Chi(u/)(6)_ [[ziu6]]
+
+$$
+R
+  ⽅ + 8
+U
+  U+65D0
+F
+  ==
+  - [[F2.7 旐]] 旂旐
+  ==
+W
+  ====
+  - [[Page~24* 旐(6)]]
+    --
+    [[Reading variation (from Middle Chinese 治小切). **See $旐siu6 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $旐siu6 (TODO)
   ==
 $$
 
