@@ -833,6 +833,9 @@ window.onload = applyFilter;
     , ziu1 tau4 zou2
     , [朝頭早](/entries/ziu#cantonese-朝頭早)
   //
+    , ziu1 zik1
+    , [招績](/entries/ziu#cantonese-招績)
+  //
     , ziu1 zou2
     , [朝早](/entries/ziu#cantonese-朝早)
   //

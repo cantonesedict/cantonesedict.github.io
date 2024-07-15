@@ -121,6 +121,13 @@ W
         the god of wealth, worshiped at shop doors.
     ==
   ====
+E
+  ====
+  - 【招績】 (ziu1 zik1):
+    ++
+    1. Conceited, arrogant.
+    ++
+  ====
 $$
 
 ### 朝1 | _(1)Chi(u/)_ [[ziu1]]
