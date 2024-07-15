@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoek
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -634,6 +634,10 @@ R
   ⾫ + 3
 U
   U+96C0
+A
+  ==
+  - $爵3
+  ==
 V
   ==
   - zoek3-2 (vernacular rising-tone noun)

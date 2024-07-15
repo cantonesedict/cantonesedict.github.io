@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -596,6 +596,11 @@ W
         cross-eyed.
     ==
   ====
+C
+  ==
+  - Williams' "used for the preceding":
+    I have only seen this in the other direction, i.e. using 邪 for 斜.
+  ==
 E
   ====
   - 【西斜】 (sai1 ce4):

@@ -245,6 +245,10 @@ W
         a fast ruuning courser.
     ==
   ====
+C
+  ==
+  - Williams' "used for the preceding": I have not seen 駸 used for 侵.
+  ==
 $$
 
 
