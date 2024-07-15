@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -213,6 +213,25 @@ W
         [[zau1 zik1 啾唧]]
         a hubbub.
     ==
+  ====
+E
+  ====
+  - 【唧】 (zik1):
+    ++
+    1. A jack (for raising heavy objects, especially vehicles).
+       ==
+       - 攞個唧嚟 (lo2 go3 zik1 lai4): "Bring [me the] jack."
+       ==
+    1. To raise with a jack.
+       ==
+       - 唧起架車 (zik1 hei2 gaa3 ce1): "Jack up [the] car."
+       ==
+    1. A jack (playing card).
+       ==
+       - 葵扇唧 (kwai4 sin3 zik1): "Jack of spades."
+       - 唧夫佬 (zik1 fu1 lou2): "Jack full [house]."
+       ==
+    ++
   ====
 S
   ==

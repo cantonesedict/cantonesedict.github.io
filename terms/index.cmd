@@ -779,6 +779,9 @@ window.onload = applyFilter;
     , zi6
     , [治](/entries/zi#cantonese-治)
   //
+    , zik1
+    , [唧](/entries/zik#cantonese-唧)
+  //
     , zik6 cing4
     , [直程](/entries/zik#cantonese-直程)
   //
