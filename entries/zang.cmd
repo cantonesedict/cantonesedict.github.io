@@ -590,6 +590,9 @@ R
   ⾦ + 8
 U
   U+931A
+H
+  May appear as either ⿰釒争 (+6) or ⿰釒爭 (+8 assumed here),
+  depending on the font.
 V
   ==
   - zaang1 (longer syllable)
