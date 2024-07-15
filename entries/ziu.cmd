@@ -55,6 +55,7 @@ $$
 - $招1
 - $朝1
 - $椒1
+- $焦1
 - $蕉1
 ==
 </nav>
@@ -259,6 +260,63 @@ W
         [[cyun1 ziu1 川椒]],
         Sz'chuen [[四川]] pepper.
     ==
+  ====
+$$
+
+### 焦1 | _(1)Tsi(u/)_ [[ziu1]]
+
+$$
+R
+  ⽕ + 8
+U
+  U+7126
+V
+  ==
+  - zeu1 (vernacular for "crust" and "scab" senses)
+  ==
+F
+  ==
+  - [[F2.3 焦]] 火燒黑也又勞心曰焦
+  ==
+W
+  ====
+  - [[Page~580 (1)焦]]
+    ==
+    - Scorched, burned;
+    - blackened, charred;
+    - smell of burning;
+    - vexed, harassed, anxious;
+    - _(1)tsi(u/) (1)p(a/) (1)kon_
+        [[ziu1 baa1 gon1 焦疤乾]],
+        dry, at the last extremity, starving;
+    - _f(a/)n(6) (1)tsi(u/)_
+        [[faan6 ziu1 飯焦]],
+        crust left after boiling rice;
+    - _(1)tsi(u/) (4)t(')au l(a/)n(6) ng(a/)k(9)_
+        [[ziu1 tau4 laan6 ngaak6 焦頭爛額]]
+        head burned and scorched, as by powder;
+    - _(1)sam (1)tsi(u/)_
+        [[sam1 ziu1 心焦]],
+        in great distress.
+    ==
+    --
+    Used for the next [[$膲1]].
+    --
+  ====
+E
+  ====
+  - 【焦】 (zeu1, ziu1):
+    ++
+    1. The crust of scorched rice.
+       ==
+       - 飯焦 (faan6 ziu1): "Rice crust."
+       ==
+    1. A scab on the skin.
+       ==
+       - 起咗焦 (hei2 zo2 ziu1): "Formed [a] scab."
+       - 塊焦好痕 (faai3 zeu1 hou2 han4): "[The] scab's really itchy."
+       ==
+    ++
   ====
 $$
 
