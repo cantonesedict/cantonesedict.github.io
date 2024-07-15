@@ -56,6 +56,7 @@ $$
 - $朝1
 - $椒1
 - $焦1
+- $膲1
 - $蕉1
 ==
 </nav>
@@ -325,6 +326,35 @@ E
        ==
     ++
   ====
+$$
+
+### 膲1 | _(1)Tsi(u/)_ [[ziu1]]
+
+$$
+R
+  ⾁ + 12
+U
+  U+81B2
+A
+  ==
+  - $焦1
+  ==
+F
+  ==
+  - [[F2.3 膲]] ::二膲五[臟]之上系管爲三膲又從頭至心心至臍臍至足爲上下三膲::
+  ==
+W
+  ====
+  - [[Page~580 (1)膲]]
+    ==
+    - The parts of the body between the heart and groin,
+      three imaginary organs which regulate the secretions.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised malformed 臟 to 臟.
+  ==
 $$
 
 ### 蕉1 | _(1)Tsi(u/)_ [[ziu1]]
