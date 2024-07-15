@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -55,6 +55,7 @@ $$
 - $招1
 - $朝1
 - $椒1
+- $蕉1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -257,6 +258,38 @@ W
     - _(1)ch(')(u")n (1)tsi(u/)_
         [[cyun1 ziu1 川椒]],
         Sz'chuen [[四川]] pepper.
+    ==
+  ====
+$$
+
+### 蕉1 | _(1)Tsi(u/)_ [[ziu1]]
+
+$$
+R
+  ⾋ + 12
+U
+  U+8549
+F
+  ==
+  - [[F2.3 蕉]] 芭蕉花名
+  ==
+W
+  ====
+  - [[Page~580 (1)蕉]]
+    ==
+    - The banana or plantain;
+    - _(1)h(e/)ung (4)ng(a/) (1)tsi(u/)_
+        [[hoeng1 ngaa4 ziu1 香芽蕉]],
+        green plantains;
+    - _(1)tsi(u/) (2)tsau_
+        [[ziu1 zau2 蕉酒]],
+        spirits with plantains steeped in it;
+    - _(2)k(u/) (4)ch(')ui (1)tsi(u/)_
+        [[gu2 ceoi4 ziu1 鼓錘蕉]],
+        large plantains;
+    - _(5)m(i/) (4)yan (1)tsi(u/)_
+        [[mei5 jan4 ziu1 美人蕉]],
+        thin skinned plantains.
     ==
   ====
 $$
