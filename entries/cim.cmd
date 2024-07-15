@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -256,6 +256,10 @@ R
   ⽍ + 17
 U
   U+6BB2
+A
+  ==
+  - $瀸1
+  ==
 F
   ==
   - [[F2.47 殲]] 滅也盡也
@@ -321,8 +325,7 @@ W
   - [[Page~571 (1)簽]]
     ==
     - Slips of bamboo written on for lots,
-      for which the next one is used
-      [[**see $籤cim1 for the canonical entry**]];
+      for which the next one [[$籤1]] is used;
     - to subscribe, to write one's name;
     - a sort of basket;
     - _(1)ts(')(i/)m tsz'(6)_

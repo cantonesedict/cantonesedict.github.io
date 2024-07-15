@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -921,7 +921,7 @@ W
     - to calculate;
     - to spread;
     - a reason, a plan;
-    - an account, for which the next is used;
+    - an account, for which the next [[$賬3]] is used;
     - _p(o\)(3) ch(e/)ung(3)_
         [[bou3 zoeng3 布帳]]
         an awning;
@@ -1085,6 +1085,10 @@ R
   ⾙ + 8
 U
   U+8CEC
+A
+  ==
+  - $帳3
+  ==
 F
   ==
   - [[F1.92 賬]] 賬目

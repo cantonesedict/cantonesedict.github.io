@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1475,6 +1475,10 @@ R
   ⽪ + 10
 U
   U+76BA
+A
+  ==
+  - $縐3
+  ==
 F
   ==
   - [[F1.55 皺]] 面皮蹙也

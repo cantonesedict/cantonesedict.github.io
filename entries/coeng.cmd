@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -102,6 +102,10 @@ R
   ⼥ + 8
 U
   U+5A3C
+A
+  ==
+  - $倡1
+  ==
 F
   ==
   - [[F1.90 娼]] 娼妓又娼優女樂
@@ -329,6 +333,10 @@ R
   ⽝ + 8
 U
   U+7316
+A
+  ==
+  - $倡1
+  ==
 F
   ==
   - [[F1.90 猖]] 猖狂縱橫也

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caak
-* %date-modified --> 2024-07-12
+* %date-modified --> 2024-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -377,6 +377,10 @@ W
     Used for the next [[$茦3]].
     --
   ====
+C
+  ==
+  - Williams' "Used for the next": I have not seen 策 used for 茦.
+  ==
 $$
 
 ### 茦3 | _Ch(')(a/)k(8)_ [[caak3]]

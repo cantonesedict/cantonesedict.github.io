@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -926,6 +926,10 @@ R
   ⾬ + 14
 U
   U+973D
+A
+  ==
+  - $濟3
+  ==
 F
   ==
   - [[F1.32 霽]] 雨止而日光也

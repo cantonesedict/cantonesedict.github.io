@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -319,6 +319,10 @@ W
     Often used for the two next [[$樝1, $皻1]].
     --
   ====
+C
+  ==
+  - Williams' "used for the two next": I have not seen 渣 used for 樝 or 皻.
+  ==
 E
   ====
   - 【渣】 (zaa1):
@@ -643,6 +647,11 @@ R
   ⽊ + 10
 U
   U+69A8
+A
+  ==
+  -{.modern} $搾3
+  - $醡3
+  ==
 F
   ==
   - [[F2.76 榨]] 壓油之器又糖榨

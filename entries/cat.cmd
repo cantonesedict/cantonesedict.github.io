@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cat
-* %date-modified --> 2024-07-08
+* %date-modified --> 2024-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -156,6 +156,10 @@ R
   ⽔ + 11
 U
   U+6F06
+A
+  ==
+  - $柒1
+  ==
 F
   ==
   - [[F1.86 漆]] 木之滓也可以漆物

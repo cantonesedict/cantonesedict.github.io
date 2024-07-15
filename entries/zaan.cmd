@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -512,6 +512,10 @@ R
   ⾔ + 19
 U
   U+8B9A
+A
+  ==
+  - $贊3
+  ==
 F
   ==
   - [[F2.70 讚]] 稱美也

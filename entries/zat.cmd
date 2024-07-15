@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zat
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -421,6 +421,10 @@ R
   ⼥ + 10
 U
   U+5AC9
+A
+  ==
+  - $疾6
+  ==
 F
   ==
   - [[F1.87 嫉]] 妬忌也

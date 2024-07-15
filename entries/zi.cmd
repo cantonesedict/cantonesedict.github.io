@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -292,6 +292,11 @@ R
   ⼦ + 4
 U
   U+5B5C
+A
+  ==
+  -{.modern} $孳1
+  - $孶1
+  ==
 F
   ==
   - [[F2.34 孜]] 汲也勤也勉也
@@ -1062,6 +1067,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected 革 to 草.
+  - Williams' "used for the next": I have not seen 菑 used for 輜.
   ==
 S
   ==
@@ -1307,6 +1313,10 @@ R
   ⾙ + 6
 U
   U+8CC7
+A
+  ==
+  - $貲1
+  ==
 F
   ==
   - [[F2.34 資]] 資財資藉
@@ -1354,6 +1364,7 @@ C
   ==
   - Williams' 酒資 and 檳資: Very dated.
   - Williams' 資格: Now "eligibility".
+  - Williams' "used for the next": I have not seen 資 used for 漬.
   ==
 $$
 
@@ -3548,6 +3559,10 @@ R
   ⾙ + 11
 U
   U+8D04
+A
+  ==
+  - $摯3
+  ==
 F
   ==
   - [[F1.41 贄]] 初相見之禮物或玉帛或禽鳥
@@ -4629,6 +4644,10 @@ R
   ⾷ + 0
 U
   U+98DF
+A
+  ==
+  - $飼6
+  ==
 F
   ==
   - [[F2.35 食]] ::以食[餵]物曰食又飯也::

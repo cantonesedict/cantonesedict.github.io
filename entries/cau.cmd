@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1627,6 +1627,7 @@ C
     - The "proofread" sense is spelt 讎 and read _(4)ch(')au_ (cau4).
     ==
     I have split things up accordingly.
+  - Williams' "used for the next": I have not seen 讎 used for 酬.
   ====
 S
   ==

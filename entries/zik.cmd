@@ -1078,6 +1078,7 @@ U
 A
   ==
   - $値6
+  - $直6
   ==
 F
   ==
@@ -1464,6 +1465,10 @@ W
         a headman in a neighborhood.
     ==
   ====
+C
+  ==
+  - Williams' "used for the three next": I have not seen 直 used for 殖 or 植.
+  ==
 E
   ====
   - 【直程】 (zik6 cing4):
