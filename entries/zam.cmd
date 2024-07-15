@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -312,7 +312,7 @@ W
         [[cyun1 zam1 穿針]],
         to thread a needle;
     - _[(2)]k(u/) (4)ch(')ui (1)cham_
-        [[gu1 ceoi4 zam1 鼓錘針]],
+        [[gu2 ceoi4 zam1 鼓錘針]],
         a pin;
     - _(1)cham p(i/)(6) s(e/)uk[(8)] t(')(i/)t[(8)]_
         [[zam1 bei6 soek3 tit3 針鼻削鐵]]
