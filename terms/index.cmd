@@ -377,6 +377,9 @@ window.onload = applyFilter;
     , daai6 zan6 zoeng6
     , [大陣仗](/entries/zoeng#cantonese-大陣仗)
   //
+    , dak1 cik1
+    , [得敕](/entries/cik#cantonese-得敕)
+  //
     , faa1 zi2
     , [花紙](/entries/zi#cantonese-花紙)
   //

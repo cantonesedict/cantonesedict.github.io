@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cik
-* %date-modified --> 2024-06-25
+* %date-modified --> 2024-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -225,6 +225,13 @@ W
         [[cik1 zang6 敕贈]]
         to bestow honors on one's dead parents.
     ==
+  ====
+E
+  ====
+  - 【得敕】 (dak1 cik1):
+    ++
+    1. Smug.
+    ++
   ====
 $$
 
