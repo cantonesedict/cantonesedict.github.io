@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zim
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -222,6 +222,10 @@ R
   ⽔ + 5
 U
   U+6CBE
+A
+  ==
+  - $霑1
+  ==
 F
   ==
   - [[F2.47 沾]] 漬也濡也又沾恩

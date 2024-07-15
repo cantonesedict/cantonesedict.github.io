@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caau
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -371,6 +371,9 @@ W
         [[baak3 niu5 gwai1 caau4 百鳥歸巢]],
         the birds have gone to roost.
     ==
+    --
+    [[Otherwise, an alternative form of 漅. **See $漅caau4 for the canonical entry.**]]
+    --
   - [[Page~30|n73 (4)窠; here normalised to 巢]]
     --
     [[...]]
@@ -413,6 +416,10 @@ R
   ⽔ + 11
 U
   U+6F05
+A
+  ==
+  - $巢4
+  ==
 V
   ==
   - ziu2 (per 《廣韻》子小切)

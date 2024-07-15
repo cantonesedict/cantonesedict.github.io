@@ -561,6 +561,10 @@ R
   ⽃ + 7
 U
   U+659C
+A
+  ==
+  -{.modern} $邪4
+  ==
 F
   ==
   - [[F2.84 斜]] 歪斜
@@ -669,6 +673,9 @@ W
         [[ce4 jam4 邪淫]],
         obscene, licentious.
     ==
+    --
+    [[Otherwise, an alternative form of 斜. **See $斜ce4 for the canonical entry.**]]
+    --
   ====
 C
   ==

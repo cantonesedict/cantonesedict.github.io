@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaang
-* %date-modified --> 2024-05-28
+* %date-modified --> 2024-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -300,6 +300,9 @@ R
   ⾔ + 8
 U
   U+8ACD
+H
+  May appear as either ⿰訁争 (+6) or ⿰訁爭 (+8 assumed here),
+  depending on the font.
 F
   ==
   - [[F2.29 諍 _Chang(6)_ (zang6)]] 諫諍救正之也

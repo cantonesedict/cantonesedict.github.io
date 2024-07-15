@@ -325,7 +325,7 @@ W
   - [[Page~571 (1)簽]]
     ==
     - Slips of bamboo written on for lots,
-      for which the next one [[$籤1]] is used;
+      for which the next one is used [[**see $籤cim1**]];
     - to subscribe, to write one's name;
     - a sort of basket;
     - _(1)ts(')(i/)m tsz'(6)_
@@ -447,6 +447,10 @@ R
   ⾐ + 13
 U
   U+895C
+A
+  ==
+  - [幨 __(1)Ch(i/)m_ [[zim1]]](zim#1幨)
+  ==
 V
   ==
   - zim1 (Fan Wan, common)

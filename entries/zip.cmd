@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zip
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -382,7 +382,7 @@ W
   ====
   - [[Page~22* 褶(8)]]
     --
-    Used for the last [[$襵3]],
+    Used for the last,
     but always read _ch(a/)p(8)_ or _ts(a/)p(8)_ [[**see $褶zaap3**]].
     --
     ==
@@ -406,6 +406,10 @@ R
   ⾐ + 18
 U
   U+8975
+A
+  ==
+  - [褶 _Ch(a/)p(8)_ [[zaap3]]](zaap#3褶)
+  ==
 F
   ==
   - [[F2.51 褶]] 衣也

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -696,6 +696,13 @@ R
   ⾔ + 8
 U
   U+8ACD
+H
+  May appear as either ⿰訁争 (+6) or ⿰訁爭 (+8 assumed here),
+  depending on the font.
+A
+  ==
+  - 爭
+  ==
 V
   ==
   - zaang3 (longer syllable)

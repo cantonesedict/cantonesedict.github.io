@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1464,6 +1464,10 @@ R
   ⼝ + 9
 U
   U+557B
+A
+  ==
+  - $翅3
+  ==
 F
   ==
   - [[F1.42 啻]] ::[但]也止也::
@@ -2582,6 +2586,10 @@ R
   ⾔ + 5
 U
   U+8A5E
+A
+  ==
+  - $辭4
+  ==
 F
   ==
   - [[F2.34 詞]] 言詞

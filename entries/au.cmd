@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> au
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -189,6 +189,10 @@ R
   ⾔ + 11
 U
   U+8B33
+A
+  ==
+  - $歐1
+  ==
 F
   ==
   - [[F1.49 謳]] 謳歌長吟也

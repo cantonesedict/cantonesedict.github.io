@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -235,6 +235,10 @@ R
   ⽳ + 5
 U
   U+7A84
+A
+  ==
+  - $笮3
+  ==
 F
   ==
   - [[F2.90 窄]] 直百切狹也迫也
@@ -287,7 +291,7 @@ W
   ====
   - [[Page~12|n55 笮(8)]]
     ==
-    - Like the last [[$窄1]];
+    - Like the last [[$窄3]];
     - a quiver;
     - a bamboo ceiling of a roof;
     - to hasten out;

@@ -371,7 +371,7 @@ W
         to prepare starch.
     ==
     --
-    The second form [[$䊢1]] is unauthorized.
+    The second form [[䊢]] is unauthorized.
     --
   ====
 C

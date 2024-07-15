@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aang
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -80,7 +80,7 @@ U
   U+7F4C
 A
   ==
-  - [罃 _(1)Ang_ [[ang1]]](/entries/ang#1罃)
+  - [罃 _(1)Ang_ [[ang1]]](ang#1罃)
   - $甖1
   ==
 V

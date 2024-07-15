@@ -169,6 +169,9 @@ W
     --
     [[Alternative form of 茲. **See $茲zi1 for the canonical entry.**]]
     --
+    --
+    [[Otherwise, an alternative form of 滋. **See $滋zi1 for the canonical entry.**]]
+    --
   ====
 $$
 
@@ -574,6 +577,11 @@ U
 H
   May appear as either ⿰氵兹 (+9 assumed here) or ⿰氵茲 (+10),
   depending on the font.
+A
+  ==
+  -{.modern} $兹1
+  -{.modern} $茲1
+  ==
 F
   ==
   - [[F2.34 滋]] 潤也益也
@@ -612,6 +620,11 @@ W
         to make trouble, to provoke.
     ==
   ====
+C
+  ==
+  - Williams' "used for the last":
+    I have only seen this in the other direction, i.e. using 茲 for 滋.
+  ==
 $$
 
 ### 漬1 | _(1)Tsz'_ [[zi1]]
@@ -1027,6 +1040,9 @@ W
         [[jyu1 zi1 於茲]]
         hereupon, now then---an illative phrase.
     ==
+    --
+    [[Otherwise, an alternative form of 滋. **See $滋zi1 for the canonical entry.**]]
+    --
   ====
 S
   ==
@@ -2100,6 +2116,10 @@ R
   ⽇ + 2
 U
   U+65E8
+A
+  ==
+  - $指2 [[for "intention" senses]]
+  ==
 F
   ==
   - [[F1.39 旨]] 意也甘也
@@ -2780,6 +2800,10 @@ R
   ⾩ + 4
 U
   U+962F
+A
+  ==
+  -{.modern} 趾
+  ==
 F
   ==
   - [[F1.39 阯]] 交阯夷國名
@@ -2794,6 +2818,11 @@ W
         Cochinchina, said to be applied to it because men and women bathed together.
     ==
   ====
+C
+  ==
+  - Williams' "Used for the last":
+    I have only seen this in the other direction, i.e. using 趾 for 阯.
+  ==
 $$
 
 ### 黹2 | _(2)Ch(i/)_ [[zi2]]
@@ -2908,6 +2937,10 @@ R
   ⼼ + 3
 U
   U+5FD7
+A
+  ==
+  - $誌3 [[for "record" senses]]
+  ==
 F
   ==
   - [[F1.41 志]] 心之所之也
@@ -3296,6 +3329,10 @@ R
   ⾄ + 0
 U
   U+81F3
+A
+  ==
+  - $致3 [[for "unto" senses]]
+  ==
 F
   ==
   - [[F1.41 至]] 到也極也
