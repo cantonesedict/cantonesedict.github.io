@@ -615,6 +615,7 @@ $$
 =={.modern}
 - $炤3
 - $照3
+- $燋3
 - $詔3
 - $醮3
 ==
@@ -706,6 +707,34 @@ W
         I can see through your design.
     ==
   ====
+$$
+
+### 燋3 | _Tsi(u/)(3)_ [[ziu3]]
+
+$$
+R
+  ⽕ + 12
+U
+  U+71CB
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~581 燋(3)]]
+    --
+    [[Idiosyncratic reading from Williams. **See $燋ziu1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Strictly, the reading _tsi(u/)(3)_ (ziu3) in departing tone
+    is for the "plastromancy-torch" sense
+    (per Kangxi 《集韻》子肖切音醮灼龜炬也《儀禮燕禮註》灼燋也《釋文》燋哉妙反).
+  ==
+S
+  ==
+  - $燋ziu1 (TODO)
+  ==
 $$
 
 ### 詔3 | _Chi(u/)(3)_ [[ziu3]]
