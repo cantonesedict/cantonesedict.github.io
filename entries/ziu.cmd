@@ -507,15 +507,52 @@ W
 $$
 
 
-##{#2 .williams} (2)Chi(u/) [[ziu2 陰上]]
+##{#2 .williams} (2)Chi(u/) (2)Tsi(u/) [[ziu2 陰上]]
 
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $勦2
 - $沼2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### [勦]2 | _[(2)]Tsi(u/)_ [[ziu2]]^
+
+$$
+R
+  ⼒ + 11
+U
+  U+52E6
+A
+  ==
+  - $剿2
+  ==
+F
+  ==
+  - [[F2.6 勦]] 征勦截殺也又勦集
+  - [[F2.6 剿]] ::同[上]::
+  ==
+W
+  ====
+  - [[Page~581 ::[(2)]剿[(2)勦]::]]
+    ==
+    - To destroy utterly, to exterminate, to devastate;
+    - _(2)tsi(u/) m(i/)t(9)_
+        [[ziu2 mit6 勦滅]]
+        to extirpate, to rase, as is done to rebels or their towns;
+    - _(2)tsi(u/) ts(u")t(9) (2)tong (5)(u")_
+        [[ziu2 zyut6 dong2 jyu5 勦絕黨與]],
+        to extirpate all the adherents of a cabal.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 王 to 上.
+  - Williams misprints (2)剿(2)勦 as (1)剿(1)⿰巢刀; here corrected.
+  ==
+$$
 
 ### 沼2 | _(2)Chi(u/)_ [[ziu2]]
 
