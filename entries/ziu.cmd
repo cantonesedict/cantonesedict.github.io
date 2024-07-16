@@ -512,11 +512,38 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $剿2
 - $勦2
 - $沼2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 剿2 | _[(2)]Tsi(u/)_ [[ziu2]]^
+
+$$
+R
+  ⼑ + 11
+U
+  U+527F
+F
+  ==
+  - [[F2.6 勦]] 征勦截殺也又勦集
+  - [[F2.6 剿]] ::同[上]::
+  ==
+W
+  ====
+  - [[Page~581 ::[(2)]剿[(2)勦]::]]
+    --
+    [[Alternative form of 勦. **See $勦ziu2 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 王 to 上.
+  - Williams misprints (2)剿(2)勦 as (1)剿(1)⿰巢刀; here corrected.
+  ==
+$$
 
 ### [勦]2 | _[(2)]Tsi(u/)_ [[ziu2]]^
 
