@@ -616,6 +616,7 @@ $$
 - $炤3
 - $照3
 - $詔3
+- $醮3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -738,6 +739,44 @@ W
     - _chi(u/)(3) t(u/)i(3)_
         [[ziu3 deoi3 詔對]]
         to be called into the presence.
+    ==
+  ====
+$$
+
+### 醮3 | _Tsi(u/)(3)_ [[ziu3]]
+
+$$
+R
+  ⾣ + 12
+U
+  U+91AE
+F
+  ==
+  - [[F2.7 醮]] 祭名酌酒而無酧酢曰醮又醮席又建醮
+  ==
+W
+  ====
+  - [[Page~581 醮(3)]]
+    ==
+    - To sacrifice to ancestors and spirits;
+    - a sacrifice, a requiem;
+    - to give a cup of wine to a son at his wedding;
+    - finished, used up;
+    - to complete;
+    - to burn moxa;
+    - _(2)t(a/) tsi(u/)(3)_ [[daa2 ziu3 打醮]]
+        or
+      _k(i/)n(3) tsi(u/)(3)_ [[gin3 ziu3 建醮]]
+        to celebrate the all-souls' festival;
+    - _(4)w(a/)n (1)t(')(i/)n tsi(u/)(3)_
+        [[waan4 tin1 ziu3 還天醮]]
+        a thanksgiving service for heaven's mercy;
+    - _tsoi(3) tsi(u/)(3)_
+        [[zoi3 ziu3 再醮]]
+        to remarry, said mostly of widows;
+    - _(2)t(a/) (2)fo (1)sing tsi(u/)(3)_
+        [[daa2 fo2 sing1 ziu3 打火星醮]]
+        the autumnal festival to the God of Fire.
     ==
   ====
 $$
