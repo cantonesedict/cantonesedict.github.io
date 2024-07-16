@@ -61,6 +61,7 @@ $$
 - $膲1
 - $蕉1
 - $鐎1
+- $鷦1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -476,6 +477,33 @@ C
   ==
   - Fan Wan entry: Corrected 書 to 晝.
   ==
+$$
+
+### 鷦1 | _(1)Tsi(u/)_ [[ziu1]]
+
+$$
+R
+  ⿃ + 12
+U
+  U+9DE6
+F
+  ==
+  - [[F2.3 鷦]] 鷦鷯鳥名
+  ==
+W
+  ====
+  - [[Page~581 (1)鷦]]
+    ==
+    - A wren;
+    - _(1)tsi(u/) (4)li(u/)_
+        [[ziu1 liu4 鷦鷯]],
+        a wren, tarin, tody, or some such small bird,
+        which nestles on high grass;
+    - _hok(9) tak(7) k(o\)m(3) (1)tsi(u/) (4)li(u/)_
+        [[hok6 dak1 gam3 ziu1 liu4 學得咁鷦鷯]],
+        playful, skittish, inattentive.
+    ==
+  ====
 $$
 
 
