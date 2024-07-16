@@ -57,6 +57,7 @@ $$
 - $朝1
 - $椒1
 - $焦1
+- $燋1
 - $礁1
 - $膲1
 - $蕉1
@@ -356,6 +357,41 @@ E
        ==
     ++
   ====
+$$
+
+###+ 燋1 | _(1)Tsi(u/)_ (ziu1)
+
+$$
+R
+  ⽕ + 12
+U
+  U+71CB
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~581 燋(3) _Tsi(u/)(3)_ (ziu3); here corrected to _(1)Tsi(u/)_ (ziu1)]]
+    ==
+    - Properly used for the last [[$醮3]],
+      in the sense of burning the moxa;
+    - to char wood, to sear, to scorch;
+    - _kau(3) (1)s(a/)m [(1)]tsi(u/)_
+        [[gau3 saam1 ziu1 灸三燋]]^
+        to apply the moxa thrice;
+    - _[(1)]tsi(u/) muk(9)_
+        [[ziu1 muk6 灸木]]
+        to char wood to bend it.
+    ==
+  ====
+C
+  ==
+  - Williams' "used for the last": I have not seen 燋 used for 醮,
+    nor 醮 used in the sense of moxibustion.
+  ==
+S
+  ==
+  - $燋ziu3
+  ==
 $$
 
 ### 礁1 | _(1)Tsi(u/)_ [[ziu1]]
@@ -733,7 +769,7 @@ C
   ==
 S
   ==
-  - $燋ziu1 (TODO)
+  - $燋ziu1
   ==
 $$
 
