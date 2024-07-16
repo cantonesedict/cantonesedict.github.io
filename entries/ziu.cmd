@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2024-07-15
+* %date-modified --> 2024-07-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -52,6 +52,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $噍1
 - $招1
 - $朝1
 - $椒1
@@ -61,6 +62,32 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 噍1 | _(1)Tsi(u/)_ [[ziu1]]
+
+$$
+R
+  ⼝ + 12
+U
+  U+564D
+F
+  ==
+  - [[F2.3 噍]] 無噍類言絶也
+  ==
+W
+  ====
+  - [[Page~580 (1)噍]]
+    ==
+    - A husky, suppressed voice;
+    - the chattering of birds;
+    - harsh, dissonant cry.
+    ==
+  ====
+S
+  ==
+  - $噍ziu6 (TODO)
+  ==
+$$
 
 ### 招1 | _(1)Chi(u/)_ [[ziu1]]
 
