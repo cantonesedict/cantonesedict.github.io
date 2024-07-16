@@ -309,7 +309,8 @@ class Updater:
                 ^ \#\# \{ \#(?P<tone> [1-6] ) .*
                 (?: \( | \[\[ )
                 (?P<syllable> [a-z]+ )(?P=tone) [ ] (?P<canto_tone> \S+ )
-                (?: \) | \]\] ) $
+                (?: \) | \]\] )
+                (?: \^ )? $
             ''',
             string=cmd_content,
             flags=re.MULTILINE | re.VERBOSE,
@@ -384,7 +385,8 @@ class Updater:
                         fr'^ \#\#\# [+]? [ ] \[? (?P<character> \S ) \]? {tone} (?P<etc> .*? )'
                         fr'[ ][|][ ]'
                         fr'.*?'
-                        fr'(?: \( | \[\[ ) {syllable}{tone} (?: \) | \]\] ) $'
+                        fr'(?: \( | \[\[ ) {syllable}{tone} (?: \) | \]\] )'
+                        fr'(?: \^ )? $'
                     ),
                     string=cmd_content,
                     flags=re.MULTILINE | re.VERBOSE,
@@ -718,6 +720,7 @@ class Page:
                     r'(?: \( | \[\[ )'
                     r'(?P<jyutping> [a-z]+? [1-6] )'
                     r'(?: \) | \]\] )'
+                    r'(?: \^ )?'
                     r'\n\n'
                     r'[$]{2} \n'
                     r'(?P<content>'
