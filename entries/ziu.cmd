@@ -59,6 +59,7 @@ $$
 - $焦1
 - $膲1
 - $蕉1
+- $鐎1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -414,6 +415,36 @@ W
         thin skinned plantains.
     ==
   ====
+$$
+
+### 鐎1 | _(1)Tsi(u/)_ [[ziu1]]
+
+$$
+R
+  ⾦ + 12
+U
+  U+940E
+V
+  ==
+  - ciu4 (alternative per 《廣韻》昨焦切)
+  ==
+F
+  ==
+  - [[F2.3 鐎]] ::鐎斗卽刀斗其器可受二升[晝]炊夜擊::
+  ==
+W
+  ====
+  - [[Page~581 (1)鐎]]
+    ==
+    - A soldier's brass kettle or skillet,
+      about the size of a peck measure;
+    - a brass pan.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 書 to 晝.
+  ==
 $$
 
 
