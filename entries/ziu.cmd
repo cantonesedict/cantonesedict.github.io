@@ -57,6 +57,7 @@ $$
 - $朝1
 - $椒1
 - $焦1
+- $礁1
 - $膲1
 - $蕉1
 - $鐎1
@@ -354,6 +355,36 @@ E
        ==
     ++
   ====
+$$
+
+### 礁1 | _(1)Tsi(u/)_ [[ziu1]]
+
+$$
+R
+  ⽯ + 12
+U
+  U+7901
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~581 (1)礁]]
+    --
+    An unauthorized character;
+    --
+    ==
+    - half tide rocks, rocky islets, rocks in the stream;
+    - stones for fording;
+    - _[chuk(7)] (1)tsi(u/)_
+        [[zuk1 ziu1 觸礁]],
+        to run on a rock.
+    ==
+  ====
+C
+  ==
+  - Williams' 觸礁: Changed Middle Chinese _ch(')uk(7)_ (cuk1)
+    (incorrectly printed _(1)ch(')uk_) to common reading _chuk(7)_ (zuk1).
+  ==
 $$
 
 ### 膲1 | _(1)Tsi(u/)_ [[ziu1]]
