@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2024-07-16
+* %date-modified --> 2024-07-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -124,7 +124,7 @@ W
         [[ziu1 m4 ziu1 招唔招]],
         do you confess?
     - _(1)chi(u/) t(')(i/)p_
-        [[ziu1 tip3-2 招貼]],
+        [[ziu1 tip3 招貼]],
         a handbill, a placard;
     - _(1)chi(u/) (4)p(')(a/)i_
         [[ziu1 paai4 招牌]],
