@@ -12,12 +12,6 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 #{.williams} Chi(u/). Tsi(u/). [[ziu]]
 
-<nav class="sideways">
-=={.modern}
-- (Work in progress)
-==
-</nav>
-
 <## tones ##>
 <nav class="sideways">
 =={.modern}
