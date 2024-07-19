@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2024-07-15
+* %date-modified --> 2024-07-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1505,7 +1505,7 @@ W
   ====
 C
   ==
-  - Williams' 錫杖: Change Middle Chinese _sik(7)_ (sik1)
+  - Williams' 錫杖: Changed Middle Chinese _sik(7)_ (sik1)
     to common reading _sek(8)_ (sek3).
   ==
 $$
