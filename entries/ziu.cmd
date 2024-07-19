@@ -551,6 +551,7 @@ $$
 - $剿2
 - $勦2
 - $沼2
+- $湫2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -641,6 +642,33 @@ W
         ponds.
     ==
   ====
+$$
+
+###+ 湫2 | _(2)Tsi(u/)_ (ziu2)
+
+$$
+R
+  ⽔ + 9
+U
+  U+6E6B
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - The reading _(2)tsi(u/)_ (ziu2) for 湫 is not present in Williams;
+    an entry is included here for completeness.
+    ++
+    1. Narrow.
+    1. Low-lying.
+    ++
+  ==
+S
+  ==
+  - $湫cau1
+  - $湫zau1
+  ==
 $$
 
 
