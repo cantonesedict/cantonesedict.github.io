@@ -255,7 +255,7 @@ RegexDictionaryReplacement: #.syntax.link-abbreviations-kwong-wan
 - queue_position: BEFORE #specified-links
 * B (?P<volume_number> [1-5] ) [.] (?P<id_> [a-z0-9]+ )
   [ ]
-  (?P<dissection> (?: \(: )? [\S]{3} (?: :\) )? )
+  (?P<dissection> (?: \(: )? [\S]+ (?: :\) )? )
   [ ]
   (?P<headword> (?: \(: )? [\S] (?: :\) )? )
   [ ]
