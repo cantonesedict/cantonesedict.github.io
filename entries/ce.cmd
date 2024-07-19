@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2024-07-15
+* %date-modified --> 2024-07-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -79,7 +79,7 @@ E
     ++
     1. An interjection of dismissal or dissatisfaction.
        ==
-       - 唓、得兩個人 (ce1, dak1 loeng5 go3 jan4): "Pfft, only two people."
+       - 唓、得兩個人 (ce1, dak1 loeng5 go3 jan4): "Pff, only two people."
        ==
     ++
   ====
