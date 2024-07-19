@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2024-07-18
+* %date-modified --> 2024-07-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -89,7 +89,7 @@ W
   ====
 S
   ==
-  - $噍ziu6 (TODO)
+  - $噍ziu6
   ==
 $$
 
@@ -854,6 +854,7 @@ $$
 =={.modern}
 - $兆6
 - $召6
+- $噍6
 - $旐6
 - $趙6
 - $齸6
@@ -916,6 +917,77 @@ W
 S
   ==
   - $召siu6 (TODO)
+  ==
+$$
+
+### 噍6 | _Tsi(u/)(6)_ [[ziu6]]
+
+$$
+R
+  ⼝ + 12
+U
+  U+564D
+A
+  ==
+  - [齸 _Chi(u/)(6)_ [[ziu6]]](#6齸)
+  ==
+V
+  ==
+  - zeu6 (vernacular)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~24* 齸(6) _Chi(u/)(6)_; here normalised to 噍 _Tsi(u/)(6)_]]
+    --
+    A colloquial word.
+    --
+    ==
+    - To chew the cud, to ruminate;
+    - to bite hard on, to craunch;
+    - to chew, as tobacco.
+    ==
+    --
+    [[...]]
+    --
+  - [[Page~581 噍(6)]]
+    ==
+    - To bite, to chew, to gnaw;
+    - _(4)ngau tsi(u/)(6) (5)[m(a/)u] (1)t(a/)n_
+        [[ngau4 ziu6 maau5 daan1 牛噍牡丹]],
+        the ox eats the peony, (not knowing it from grass);
+    - _tsi(u/)(6) l(a/)n(6)_
+        [[ziu6 laan6 噍爛]]
+        to chew fine.
+    ==
+  ====
+C
+  ==
+  - Williams' 牛噍牡丹: Changed Middle Chinese _(5)mau_ (mau5)
+    to common reading _(5)m(a/)u_ (maau5).
+  ==
+E
+  ====
+  - 【噍】 (zeu6, ziu6):
+    ++
+    1. To chew.
+       ==
+       - 噍爛啲 (zeu6 laan6 di1): "Chew [it up] finer."
+       - 噍香口膠 (ziu6 hoeng1 hau2 gaau1): "Chew chewing gum."
+       - 牛噍牡丹 (ngau4 ziu6 maau5 daan1): "[As an] ox chewing the peony."
+       ==
+    ++
+  ====
+  --
+  Olden attestation for 噍 _tsi(u/)(6)_ (ziu6) meaning "chew":
+  --
+  """"
+  ::B4.w438b0404 (:才笑切:) (:噍:) (:嚼也:)::
+  """"
+S
+  ==
+  - $噍ziu1
   ==
 $$
 
@@ -983,7 +1055,7 @@ W
   - [[Page~24* 齸(6)]]
     --
     A colloquial word
-    [[here normalised to 噍; **see $噍ziu6 for the canonical entry**]]. [[TODO]]
+    [[here normalised to 噍; **see $噍ziu6 for the canonical entry**]].
     --
     --
     Read _yik[(7)]_ [[zik1]] [[**see $齸jik1**]].
