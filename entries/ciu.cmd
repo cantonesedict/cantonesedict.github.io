@@ -49,10 +49,33 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $弨1
 - $昭1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 弨1 | _(1)Ch(')i(u/)_ [[ciu1]]
+
+$$
+R
+  ⼸ + 5
+U
+  U+5F28
+F
+  ==
+  - [[F2.2 弨]] 弛也
+  ==
+W
+  ====
+  - [[Page~25* (1)弨]]
+    ==
+    - To fly back, as a bow;
+    - to spring back;
+    - a bow unbent.
+    ==
+  ====
+$$
 
 ### 昭1 | _(1)Ch(')i(u/)_ [[ciu1]]
 
