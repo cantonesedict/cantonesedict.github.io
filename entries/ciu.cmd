@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $弨1
 - $昭1
+- $超1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -118,4 +119,70 @@ S
   ==
   - $昭ziu1
   ==
+$$
+
+### 超1 | _(1)Ch(')i(u/)_ [[ciu1]]
+
+$$
+R
+  ⾛ + 5
+U
+  U+8D85
+F
+  ==
+  - [[F2.2 超]] 越也躍而過也
+  ==
+W
+  ====
+  - [[Page~25* (1)超]]
+    ==
+    - To leap over, to trip;
+    - to hop across, to vault, to step over, to go before, to precede;
+    - to excel, to surpass;
+    - to promote;
+    - to raise;
+    - _(1)ch(')i(u/) [pat](9)_
+        [[ciu1 baat6 超拔]]
+        to override an officer;
+    - _(1)ch(')i(u/) (1)yau_ [[ciu1 jau1 超幽]]^
+        or
+      _(1)ch(')i(u/) t(o\)(6)_ [[ciu1 dou6 超度]]
+        to release spirits from suffering;
+    - _(1)ch(')i(u/) (2)tang_
+        [[ciu1 dang2 超等]],
+        to exceed in the bachelor's examination;
+    - _(1)ch(')i(u/) (4)kw(')an_
+        [[ciu1 kwan4 超群]],
+        excelling;
+    - _(1)ch(')i(u/) (1)shang_
+        [[ciu1 sang1 超生]],
+        to restore to health, to save from death;
+    - _(1)ch(')i(u/) ch(')(e/)uk(8)_
+        [[ciu1 coek3 超卓]]
+        to surpass.
+    ==
+  ====
+C
+  ==
+  - Williams' 超拔: Changed _p(a/)t(9)_ (baat6) to modern _pat(9)_ (bat6).
+  - Williams' 超生: Also to be reincarnated.
+  ==
+E
+  ====
+  - 【超】 (ciu1):
+    ++
+    1. To stare or glare.
+       ==
+       - 眼超超 (ngaan5 ciu1 ciu1): "Eyes staring."
+       ==
+    1. Sunglasses.
+       ==
+       - 黑超 (hak1 ciu1): "Sunnies."
+       ==
+    1. An interjection of dismissal or dissatisfaction.
+       ==
+       - 超、得兩個人 (ciu1, dak1 loeng5 go3 jan4): "Pff, only two people."
+       ==
+    ++
+  ====
 $$

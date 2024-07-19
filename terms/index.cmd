@@ -347,6 +347,9 @@ window.onload = applyFilter;
     , cit3 gai1
     , [切雞](/entries/cit#cantonese-切雞)
   //
+    , ciu1
+    , [超](/entries/ciu#cantonese-超)
+  //
     , coek3
     , [灼](/entries/coek#cantonese-灼)
   //
