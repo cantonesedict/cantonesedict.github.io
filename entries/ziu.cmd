@@ -48,6 +48,7 @@ $$
 =={.modern}
 - $噍1
 - $招1
+- $昭1
 - $朝1
 - $椒1
 - $焦1
@@ -154,6 +155,27 @@ E
     1. Conceited, arrogant.
     ++
   ====
+$$
+
+###+ 昭1 | _(1)Chi(u/)_ (ziu1)
+
+$$
+R
+  ⽇ + 5
+U
+  U+662D
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation (per 《廣韻》止遥切). **See $昭ciu1 for the canonical entry.**
+  ==
+S
+  ==
+  - $昭ciu1
+  ==
 $$
 
 ### 朝1 | _(1)Chi(u/)_ [[ziu1]]

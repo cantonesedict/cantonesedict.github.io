@@ -63,7 +63,7 @@ U
   U+662D
 V
   ==
-  - ziu1 (per 《廣韻》止遙切)
+  - ziu1 (per 《廣韻》止遥切)
   ==
 F
   ==
@@ -91,4 +91,8 @@ W
         beautiful and young.
     ==
   ====
+S
+  ==
+  - $昭ziu1
+  ==
 $$
