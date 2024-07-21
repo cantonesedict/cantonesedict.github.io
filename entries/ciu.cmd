@@ -228,10 +228,86 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $朝4
 - $潮4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 朝4 | _(4)Ch(')i(u/)_ [[ciu4]]
+
+$$
+R
+  ⽉ + 8
+U
+  U+671D
+F
+  ==
+  - [[F2.5 朝]] 朝廷朝覲
+  ==
+W
+  ====
+  - [[Page~25* (4)朝]]
+    ==
+    - A court;
+    - the court, the palace;
+    - to attend an audience, to go to court, to show fealty;
+    - to have an audience, to hold a levee;
+    - an audience;
+    - a dynasty;
+    - courtly, fashionable;
+    - to visit a father or elder;
+    - _(4)ch(')i(u/) (4)t(')ing_
+        [[ciu4 ting4 朝廷]],
+        the court;
+        his majesty;
+    - _(4)ch(')i(u/) k(i/)n(3)_
+        [[ciu4 gin3 朝見]]
+        to see his majesty;
+    - _(5)sh(e/)ung (4)ch(')i(u/)_
+        [[soeng5 ciu4 上朝]],
+        to go up to court;
+    - _(4)ch(')i(u/) teon(6) (4)ch(')i(u/) (1)kong_
+        [[zing2 deon6 ciu4 gong1 整頓朝綱]]^
+        to strengthen the government;
+    - _(4)ch(')i(u/) (1)f(a/)n_
+        [[ciu4 faan1 朝幡]],
+        to salute the banner, a religious practice;
+    - _sh(i/)(6) (4)ch(')i(u/)_
+        [[si6 ciu4 侍朝]],
+        H.~I.~M. entering court;
+    - _(1)t(')(i/)n (4)ch(')i(u/)_
+        [[tin1 ciu4 天朝]],
+        the celestial dynasty;
+    - _(4)ch(')i(u/) kung(3)_
+        [[ciu4 gung3 朝貢]]
+        to hand up tribute;
+    - _(2)ch(u")n (4)ch(')i(u/)_
+        [[zyun2 ciu4 轉朝]],
+        to change the dynasty;
+    - _yat(7) (4)ch(')i(u/) (1)t(')(i/)n (2)tsz' yat(7) (4)ch(')i(u/) (4)shan_
+        [[jat1 ciu4 tin1 zi2 jat1 ciu4 san4 一朝天子一朝臣]],
+        each monarch has his own set of ministers;
+    - _(4)ch(')i(u/) (4)fong_
+        [[ciu4 fong4 朝房]],
+        an antechamber of the audience-room;
+    - _(4)ch(')i(u/) fuk(9)_
+        [[ciu4 fuk6 朝服]]
+        court dress;
+    - _(4)ch(')i(u/) (2)h(a/)u_
+        [[ciu4 haau2 朝考]],
+        examination for H(a/)nlin [[翰林]].
+    ==
+  ====
+C
+  ==
+  - See $朝ziu1 for commentary on the reading of 朝 in 朝鮮.
+  ==
+S
+  ==
+  - $朝ziu1
+  ==
+$$
 
 ### 潮4 | _(4)Ch(')i(u/)_ [[ciu4]]
 
