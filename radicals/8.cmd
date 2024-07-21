@@ -110,6 +110,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $鍫ciu1
       - $鍫ciu3
+      - $鍬ciu1
       - $鍼zam1
       - $鎡zi1
       ==

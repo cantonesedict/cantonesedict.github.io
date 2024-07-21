@@ -57,6 +57,7 @@ $$
 - $超1
 - $釗1
 - $鍫1
+- $鍬1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -235,15 +236,46 @@ U
 F
   [[Not present]]
 W
-  [[Not present]]
-C
-  ==
-  - Alternative form of 鍬. **See $鍬ciu1 for the canonical entry.**
-  ==
+  ====
+  - [[Page~582 鍫(3) _Ts(')i(u/)(3)_ (ciu3); here corrected to _(1)Ts(')i(u/)_ (ciu1)]]
+    --
+    [[Alternative form of 鍬. **See $鍬ciu1 for the canonical entry.**]]
+    --
+  ====
 S
   ==
   - $鍫ciu3
   ==
+$$
+
+###+ 鍬1 | _(1)Ts(')i(u/)_ (ciu1)
+
+$$
+R
+  ⾦ + 9
+U
+  U+936C
+A
+  ==
+  - $鍫1
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~582 鍫(3) _Ts(')i(u/)(3)_ (ciu3); here normalised to 鍬, and corrected to _(1)Ts(')i(u/)_ (ciu1)]]
+    ==
+    - A spade or pick;
+    - an implement fur turning up the ground;
+    - to dig deep;
+    - _[(1)]ts(')i(u/) (4)t(')ong_
+        [[ciu1 tong4 鍬塘]],
+        to dig out a fishpond;
+    - _t(a/)i(6) tung(6) [(1)]ts(')i(u/)_
+        [[daai6 dung6 ciu1 大動鍬]]^
+        a crowbar.
+    ==
+  ====
 $$
 
 
