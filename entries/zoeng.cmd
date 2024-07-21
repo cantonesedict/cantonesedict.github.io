@@ -1150,7 +1150,7 @@ W
     ==
     - A time, an occasion;
     - _(4)lai kwo(3) yat(7) ch(e/)ung(3)_
-        [[lai4 gwo3 jat1 zoeng3]]
+        [[lai4 gwo3 jat1 zoeng3 嚟過一賬]]
         I have been here once[.]
     ==
   ====
