@@ -229,6 +229,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $朝4
+- $樵4
 - $潮4
 ==
 </nav>
@@ -306,6 +307,49 @@ C
 S
   ==
   - $朝ziu1
+  ==
+$$
+
+### 樵4 | _(4)Ts(')i(u/)_ [[ciu4]]
+
+$$
+R
+  ⽊ + 12
+U
+  U+6A35
+F
+  ==
+  - [[F2.5 ::[樵]::]] ::采薪曰[樵]::
+  ==
+W
+  ====
+  - [[Page~581 (4)樵]]
+    ==
+    - Wood fit for fuel;
+    - scattered wood;
+    - to cut fuel;
+    - a lookout terrace for which the next is used [[**see $譙ciu4**]];
+    - _(4)[ts(')i(u/)] (1)f(u/)_
+        [[ciu4 fu1 樵夫]],
+        a woodcutter;
+    - _(4)ts(')i(u/) (4)lau_
+        [[ciu4 lau4 樵樓]],
+        a watchman's tower;
+    - _(4)ts(')i(u/) king(3)_
+        [[ciu4 ging3 樵徑]]
+        a bridle path, a goat path;
+    - _(2)ts(')oi (4)ts(')i(u/)_
+        [[coi2 ciu4 採樵]],
+        to cut wood;
+    - _(1)Sai (4)Ts(')i(u/)_
+        [[sai1 ciu4 西樵]],
+        a hilly district southwest of Canton.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised headword 𬋈 (⿱椎灬) to 樵.
+  - Williams' 樵夫: Corrected _(4)tsi(u/)_ (ziu4) to _(4)ts(')i(u/)_ (ciu4).
   ==
 $$
 
