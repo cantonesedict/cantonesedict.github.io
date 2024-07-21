@@ -233,6 +233,7 @@ $$
 - $俏2
 - $峭2
 - $悄2
+- $鞘2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -321,6 +322,31 @@ C
   ==
 $$
 
+### 鞘2 | _(2)Ts(')i(u/)_ [[ciu2]]
+
+$$
+R
+  ⾰ + 7
+U
+  U+9798
+F
+  ==
+  - [[F2.5 鞘]] 刀劍殿
+  ==
+W
+  ====
+  - [[Page~581 (2)鞘]]
+    --
+    [[Idiosyncratic reading from Fan Wan. **See $鞘ciu3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $鞘ciu3
+  - $鞘saau1 (TODO)
+  ==
+$$
+
 
 ##{#3 .williams} Ts(')i(u/)(3) [[ciu3 陰去]]
 
@@ -330,6 +356,7 @@ $$
 - $俏3
 - $峭3
 - $譙3
+- $鞘3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -436,6 +463,33 @@ W
 S
   ==
   - $譙ciu4
+  ==
+$$
+
+###+ 鞘3 | _Ts(')i(u/)(3)_ (ciu3)
+
+$$
+R
+  ⾰ + 7
+U
+  U+9798
+F
+  ==
+  - [[F2.5 鞘 _(2)Ts(')i(u/)_ (ciu2)]] 刀劍殿
+  ==
+W
+  ====
+  - [[Page~581 (2)鞘 _(2)Ts(')i(u/)_ (ciu2); here corrected to _Ts(')i(u/)(3)_ (ciu3)]]
+    ==
+    - A scabbard, a sheath,
+      in which sense this is often called _(1)sh(a/)u_ [[saau1]],
+      while that sound more properly means a whip [[**see $鞘saau1**]].
+    ==
+  ====
+S
+  ==
+  - $鞘ciu2
+  - $鞘saau1 (TODO)
   ==
 $$
 
