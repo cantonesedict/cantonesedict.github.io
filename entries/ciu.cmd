@@ -232,6 +232,7 @@ $$
 =={.modern}
 - $俏2
 - $峭2
+- $悄2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -285,6 +286,38 @@ C
 S
   ==
   - $峭ciu3
+  ==
+$$
+
+### 悄2 | _(2)Ts(')i(u/)_ [[ciu2]]
+
+$$
+R
+  ⼼ + 7
+U
+  U+6084
+V
+  ==
+  - ciu3 (common)
+  ==
+F
+  ==
+  - [[F2.5 悄]] 憂也
+  ==
+W
+  ====
+  - [[Page~581 (2)悄]]
+    ==
+    - Sad, downcast, sorrowing;
+    - _(1)yau (1)sam (2)ts(')i(u/) (2)ts(')i(u/)_
+        [[jau1 sam1 ciu2 ciu2 憂心悄悄]],
+        sick at heart, quietly sad, sorrowing in secret.
+    ==
+  ====
+C
+  ==
+  - The common reading ciu3 is sung by Danny Chan in 深愛著你 (1985)
+    (containing the line 悄悄看我熟睡).
   ==
 $$
 
