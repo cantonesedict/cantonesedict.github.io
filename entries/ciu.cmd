@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ciu
-* %date-modified --> 2024-07-19
+* %date-modified --> 2024-07-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -52,6 +52,7 @@ $$
 - $弨1
 - $昭1
 - $超1
+- $釗1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -184,5 +185,38 @@ E
        - 超、得兩個人 (ciu1, dak1 loeng5 go3 jan4): "Pff, only two people."
        ==
     ++
+  ====
+$$
+
+### 釗1 | _(1)Ch(')i(u/)_ [[ciu1]]
+
+$$
+R
+  ⾦ + 2
+U
+  U+91D7
+V
+  ==
+  - ziu1 (per 《廣韻》止遥切)
+  ==
+F
+  ==
+  - [[F2.2 釗]] 遠也見也勉也又弩牙也
+  ==
+W
+  ====
+  - [[Page~25* (1)釗]]
+    ==
+    - To pare, to lop off;
+    - to see, to wait on;
+    - distant;
+    - to encourage;
+    - _(5)m(i/)n (1)ch(')i(u/)_
+        [[min5 ciu1 勉釗]],
+        to stimulate one;
+    - _yat(7) (1)ch(')i(u/)_
+        [[jat1 ciu1 一釗]],
+        one dig, one delve.
+    ==
   ====
 $$
