@@ -270,6 +270,7 @@ $$
 - $朝4
 - $樵4
 - $潮4
+- $瞧4
 - $譙4
 ==
 </nav>
@@ -466,6 +467,31 @@ C
   - Fan Wan entry: Normalised ⿱一毋 to 每, and corrected 汝 to 汐.
   - Williams' 潮濕: Not necessarily of the ground.
   ==
+$$
+
+### 瞧4 | _(4)Ts(')i(u/)_ [[ciu4]]
+
+$$
+R
+  ⽬ + 12
+U
+  U+77A7
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~581 (4)瞧]]
+    ==
+    - To look at, to see;
+    - to look at furtively, to glance at;
+    - _(4)ts(')i(u/) yat(7) (4)ts(')i(u/)_
+        [[ciu4 jat1 ciu4 瞧一瞧]],
+        I had a look at it.
+    ==
+    --
+    Chiefly used in the court dialect.
+    --
+  ====
 $$
 
 ### 譙4 | _(4)Ts(')i(u/)_ [[ciu4]]
