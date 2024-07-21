@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [ciu1](#1)
+- [ciu3](#3)
 - [ciu4](#4)
 ==
 </nav>
@@ -220,6 +221,43 @@ W
         one dig, one delve.
     ==
   ====
+$$
+
+
+##{#3 .williams} Ts(')i(u/)(3) [[ciu3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $譙3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 譙3 | _Ts(')i(u/)(3)_ [[ciu3]]
+
+$$
+R
+  ⾔ + 12
+U
+  U+8B59
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~581 (4)譙]]
+    --
+    Often used for _ts(')i(u/)(3)_ [[ciu3]] 誚, to scold
+    [[**see $誚ciu3 for the canonical entry**]].
+    --
+    --
+    [[...]]
+    --
+  ====
+S
+  ==
+  - $譙ciu4
+  ==
 $$
 
 
@@ -433,6 +471,6 @@ C
   ==
 S
   ==
-  - $譙ciu3 (TODO)
+  - $譙ciu3
   ==
 $$

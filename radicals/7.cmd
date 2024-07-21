@@ -212,6 +212,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $譖cam3
       - $譖zam3
+      - $譙ciu3
       - $譙ciu4
       - $譔zaan6
       - $識zi3
