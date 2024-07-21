@@ -231,6 +231,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $俏2
+- $峭2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -259,6 +260,34 @@ S
   ==
 $$
 
+### 峭2 | _(2)Ts(')i(u/)_ [[ciu2]]
+
+$$
+R
+  ⼭ + 7
+U
+  U+5CED
+F
+  ==
+  - [[F2.5 峭]] ::[陖]也險也::
+  ==
+W
+  ====
+  - [[Page~581 (2)峭]]
+    --
+    [[Idiosyncratic reading from Fan Wan. **See $峭ciu3 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 唆 to 陖.
+  ==
+S
+  ==
+  - $峭ciu3
+  ==
+$$
+
 
 ##{#3 .williams} Ts(')i(u/)(3) [[ciu3 陰去]]
 
@@ -266,6 +295,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $俏3
+- $峭3
 - $譙3
 ==
 </nav>
@@ -314,6 +344,39 @@ C
 S
   ==
   - $俏ciu2
+  ==
+$$
+
+###+ 峭3 | _Ts(')i(u/)(3)_ (ciu3)
+
+$$
+R
+  ⼭ + 7
+U
+  U+5CED
+F
+  ==
+  - [[F2.5 峭 _(2)Ts(')i(u/)_ (ciu2)]] ::[陖]也險也::
+  ==
+W
+  ====
+  - [[Page~581 (2)峭 _(2)Ts(')i(u/)_ (ciu2); here corrected to _Ts(')i(u/)(3)_ (ciu3)]]
+    ==
+    - A steep, abrupt hill;
+    - a cliff, which obstructs the way;
+    - severe, strict, vehement;
+    - _ts(')i(u/)[(3)] pik(7) (1)k(o\)_
+        [[ciiu3 bik1 gou1 峭壁高]],
+        a perpendicular cliff.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 唆 to 陖.
+  ==
+S
+  ==
+  - $峭ciu2
   ==
 $$
 
