@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [ciu1](#1)
+- [ciu2](#2)
 - [ciu3](#3)
 - [ciu4](#4)
 ==
@@ -224,15 +225,97 @@ W
 $$
 
 
+##{#2 .williams} (2)Ts(')i(u/) [[ciu2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $俏2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 俏2 | _(2)Ts(')i(u/)_ [[ciu2]]
+
+$$
+R
+  ⼈ + 7
+U
+  U+4FCF
+F
+  ==
+  - [[F2.5 俏]] 密行也又似也像也
+  ==
+W
+  ====
+  - [[Page~581 (2)俏]]
+    --
+    [[Idiosyncratic reading from Fan Wan. **See $俏ciu3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $俏ciu3
+  ==
+$$
+
+
 ##{#3 .williams} Ts(')i(u/)(3) [[ciu3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $俏3
 - $譙3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+###+ 俏3 | _Ts(')i(u/)(3)_ (ciu3)
+
+$$
+R
+  ⼈ + 7
+U
+  U+4FCF
+F
+  ==
+  - [[F2.5 俏 _(2)Ts(')i(u/)_ (ciu2)]] 密行也又似也像也
+  ==
+W
+  ====
+  - [[Page~581 (2)俏 _(2)Ts(')i(u/)_ (ciu2); here corrected to _Ts(')i(u/)(3)_ (ciu3)]]
+    ==
+    - Like, as if, similar;
+    - handsome, pretty, beautiful;
+    - superior;
+    - _ts(')i(u/)[(3)] (4)p(')(i/)_
+        [[ciu3 pei4 俏皮]],
+        pretty;
+    - _m(a/)i(6) ts(')i(u/)[(3)]_
+        [[maai6 ciu3 賣俏]],
+        to show off one's pretty face, as by standing in the door;
+    - _(1)[sh(a/)ng] tak(7) ts(')i(u/)[(3)]_
+        [[saang1 dak1 ciu3 生得俏]],
+        bright, as eyes;
+    - _(2)h(o\) ts(')i(u/)[(3)] t(u/)i(3) (5)ng(a/)n_
+        [[hou2 ciu3 deoi3 ngaan5 好俏對眼]],
+        sparkling eyes;
+    - _ts(')i(u/)[(3)] (1)[sh(a/)ng]_
+        [[ciu3 saang1 俏生]],
+        like life, as puppets or images.
+    ==
+  ====
+C
+  ==
+  - Williams' 生得俏, 俏生: Changed _(1)shang_ (sang1)
+    to vernacular reading _(1)sh(a/)ng_ (saang1).
+  ==
+S
+  ==
+  - $俏ciu2
+  ==
+$$
 
 ### 譙3 | _Ts(')i(u/)(3)_ [[ciu3]]
 
