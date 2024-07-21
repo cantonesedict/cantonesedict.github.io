@@ -266,6 +266,7 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $憔4
 - $朝4
 - $樵4
 - $潮4
@@ -273,6 +274,34 @@ $$
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 憔4 | _(4)Ts(')i(u/)_ [[ciu4]]
+
+$$
+R
+  ⼼ + 12
+U
+  U+6194
+F
+  ==
+  - [[F2.5 ::[憔]:]] ::[憔]悴？苦貌::
+  ==
+W
+  ====
+  - [[Page~581 (4)憔]]
+    ==
+    -  Lean, anxious and starving;
+    - _(4)ts(')i(u/) sui(6)_
+        [[ciu4 seoi6 憔悴]]
+        distressed from a want of food.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised headword 𭵼 (⿱惟灬) to 憔.
+    The incomprehensible character looks like ⿱䒑用.
+  ==
+$$
 
 ### 朝4 | _(4)Ch(')i(u/)_ [[ciu4]]
 
