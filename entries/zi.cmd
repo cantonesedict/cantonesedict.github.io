@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-07-15
+* %date-modified --> 2024-07-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1378,7 +1378,7 @@ W
   ====
 C
   ==
-  - Williams' 酒資 and 檳資: Very dated.
+  - Williams' 酒資, 檳資: Very dated.
   - Williams' 資格: Now "eligibility".
   - Williams' "used for the next": I have not seen 資 used for 漬.
   ==
