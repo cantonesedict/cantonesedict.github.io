@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [ciu1](#1)
+- [ciu4](#4)
 ==
 </nav>
 <## /tones ##>
@@ -219,4 +220,62 @@ W
         one dig, one delve.
     ==
   ====
+$$
+
+
+##{#4 .williams} (4)Ch(')i(u/) (4)Ts(')i(u/) [[ciu4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways">
+=={.modern}
+- $潮4
+==
+</nav>
+<## /tone-4-characters ##>
+
+### 潮4 | _(4)Ch(')i(u/)_ [[ciu4]]
+
+$$
+R
+  ⽔ + 12
+U
+  U+6F6E
+F
+  ==
+  - [[F2.5 潮]] ::海水旋流[每]日消長朝曰潮夕曰[汐]::
+  ==
+W
+  ====
+  - [[Page~25* (4)潮]]
+    ==
+    - The morning tide;
+    - moist, damp;
+    - _(2)ch(e/)ung (4)ch(')i(u/)_
+        [[zoeng2 ciu4 長朝]],
+        tide rising;
+    - _(4)shing (4)ch(')i(u/)_
+        [[sing4 ciu4 乘潮]],
+        to go with the tide;
+    - _(4)ch(')i(u/) shap(7)_
+        [[ciu4 sap1 潮濕]]
+        damp ground;
+    - _(4)ch(')i(u/) (4)t(')(i/)n_
+        [[ciu4 tin4 潮田]],
+        tidal grounds;
+    - _(1)f(a/)n (4)ch(')i(u/)_
+        [[faan1 ciu4 返潮]],
+        becoming damp again;
+    - _(4)Ch(')i(u/) (1)chau (2)f(u/)_
+        [[ciu4 zau1 fu2 潮州府]],
+        a prefecture in the east of Kw(a/)ngtung [[廣東]];
+    - _(4)ch(')i(u/) h(i/)(3)_
+        [[ciu4 hei3 潮氣]]
+        dull, stupid, owlish.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised ⿱一毋 to 每, and corrected 汝 to 汐.
+  - Williams' 潮濕: Not necessarily of the ground.
+  ==
 $$
