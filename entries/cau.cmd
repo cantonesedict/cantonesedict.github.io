@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2024-07-19
+* %date-modified --> 2024-07-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -111,7 +111,7 @@ W
   ====
   - [[Page~562 ::(1)[愀]^::]]
     --
-    [[Idiosyncratic reading from Fan Wan. **See $愀ciu2 for the canonical entry.**]]
+    [[Reading variation. **See $愀ciu2 for the canonical entry.**]]
     --
   ====
 C
@@ -120,7 +120,7 @@ C
   ==
 S
   ==
-  - $愀ciu2 (TODO)
+  - $愀ciu2
   ==
 $$
 

@@ -128,6 +128,7 @@ For all radicals, see [Index of characters by radical](./).
       - $惻caak1
       - $惻cak1
       - $愀cau1
+      - $愀ciu2
       - $慈ci4
       ==
       </nav>

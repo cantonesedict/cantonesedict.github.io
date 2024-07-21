@@ -233,6 +233,7 @@ $$
 - $俏2
 - $峭2
 - $悄2
+- $愀2
 - $鞘2
 ==
 </nav>
@@ -319,6 +320,42 @@ C
   ==
   - The common reading ciu3 is sung by Danny Chan in 深愛著你 (1985)
     (containing the line 悄悄看我熟睡).
+  ==
+$$
+
+###+ 愀2 | _(2)Ts(')i(u/)_ (ciu2)
+
+$$
+R
+  ⼼ + 9
+U
+  U+6100
+V
+  ==
+  - cau1 (Fan Wan)
+  - cau5 (alternative per 《廣韻》在九切)
+  ==
+F
+  ==
+  - [[F1.50 愀 _(1)Ts(')au_ (cau1)]] 色變也
+  ==
+W
+  ====
+  - [[Page~562 ::(1)[愀]^:: _(1)Ts(')au_ (cau1); here normalised to _(2)Ts(')i(u/)_ (ciu2)]]
+    ==
+    - To blush, to redden, to change color;
+    - downhearted, sad.
+    ==
+  ====
+C
+  ==
+  - Williams misprints 愀 as 愁; here corrected.
+  - The reading _(1)ts(')au_ (cau1) from Fan Wan is not otherwise unattested;
+    Kangxi quotes ::[...]愀然變容[...]又《集韻》雌由切音秋[...]義𠀤同::.
+  ==
+S
+  ==
+  - $愀cau1
   ==
 $$
 
