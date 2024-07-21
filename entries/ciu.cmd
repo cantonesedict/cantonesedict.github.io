@@ -231,6 +231,7 @@ $$
 - $朝4
 - $樵4
 - $潮4
+- $譙4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -397,5 +398,41 @@ C
   ==
   - Fan Wan entry: Normalised ⿱一毋 to 每, and corrected 汝 to 汐.
   - Williams' 潮濕: Not necessarily of the ground.
+  ==
+$$
+
+### 譙4 | _(4)Ts(')i(u/)_ [[ciu4]]
+
+$$
+R
+  ⾔ + 12
+U
+  U+8B59
+F
+  ==
+  - [[F2.5 ::[譙]::]] 地名又殺也
+  ==
+W
+  ====
+  - [[Page~581 (4)譙]]
+    --
+    [[See $譙ciu3 for "scold" senses.]]
+    --
+    ==
+    - A lookout tower or loft;
+    - [[...]];
+    - _(4)[ts(')i(u/)] (1)k(u")_
+        [[ciu4 geoi1 譙車]],
+        a high turret laid on wheels for archers.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised headword ⿱誰灬 to 譙.
+  - Williams' 譙車: Corrected _(4)tsi(u/)_ (ziu4) to _(4)ts(')i(u/)_ (ciu4).
+  ==
+S
+  ==
+  - $譙ciu3 (TODO)
   ==
 $$
