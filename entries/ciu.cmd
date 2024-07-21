@@ -372,7 +372,7 @@ F
   ==
 W
   ====
-  - [[Page~581 (2)鞘]]
+  - [[Page~582 (2)鞘]]
     --
     [[Idiosyncratic reading from Fan Wan. **See $鞘ciu3 for the canonical entry.**]]
     --
@@ -393,6 +393,7 @@ $$
 - $俏3
 - $峭3
 - $譙3
+- $鍫3
 - $鞘3
 ==
 </nav>
@@ -503,6 +504,28 @@ S
   ==
 $$
 
+### 鍫3 | _Ts(')i(u/)(3)_ [[ciu3]]
+
+$$
+R
+  ⾦ + 9
+U
+  U+936B
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~582 鍫(3)]]
+    --
+    [[Alternative form of 鍬, and idiosyncratic reading from Williams. **See $鍬ciu1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $鍫ciu1 (TODO)
+  ==
+$$
+
 ###+ 鞘3 | _Ts(')i(u/)(3)_ (ciu3)
 
 $$
@@ -516,7 +539,7 @@ F
   ==
 W
   ====
-  - [[Page~581 (2)鞘 _(2)Ts(')i(u/)_ (ciu2); here corrected to _Ts(')i(u/)(3)_ (ciu3)]]
+  - [[Page~582 (2)鞘 _(2)Ts(')i(u/)_ (ciu2); here corrected to _Ts(')i(u/)(3)_ (ciu3)]]
     ==
     - A scabbard, a sheath,
       in which sense this is often called _(1)sh(a/)u_ [[saau1]],
