@@ -108,6 +108,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $鍫ciu1
       - $鍫ciu3
       - $鍼zam1
       - $鎡zi1

@@ -56,6 +56,7 @@ $$
 - $昭1
 - $超1
 - $釗1
+- $鍫1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -222,6 +223,27 @@ W
         one dig, one delve.
     ==
   ====
+$$
+
+###+ 鍫1 | _(1)Ts(')i(u/)_ (ciu1)
+
+$$
+R
+  ⾦ + 9
+U
+  U+936B
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Alternative form of 鍬. **See $鍬ciu1 for the canonical entry.**
+  ==
+S
+  ==
+  - $鍫ciu3
+  ==
 $$
 
 
@@ -522,7 +544,7 @@ W
   ====
 S
   ==
-  - $鍫ciu1 (TODO)
+  - $鍫ciu1
   ==
 $$
 
