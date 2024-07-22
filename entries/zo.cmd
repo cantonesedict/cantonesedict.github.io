@@ -125,6 +125,26 @@ C
   ==
   - Williams' 拎咗嚟: Changed _(1)ning_ (ning1) to _(1)ling_ (ling1).
   ==
+E
+  ====
+  - 【咗】 (zo2):
+    ++
+    1. Marker of the perfective aspect (whole completion of an action).
+       ==
+       - 走咗 (zau2 zo2): "[He's] gone."
+       - 死咗 (sei2 zo2): "[He's] died."
+       - 笨咗添 (ban6 zo2 tim1): "[Oh, I've] been foolish!"
+       - 瞓着咗 (fan3 zoek6 zo2): "Fallen asleep."
+       - 畢咗業 (bat1 zo2 jip6): "[I've] graduated."
+       ==
+    1. Used with certain imperatives.
+       ==
+       - 飲咗佢吖 (jam2 zo2 keoi5 a1): "Drink it [up]."
+       - 剷咗條片啦 (caan2 zo2 tiu4 pin3-2 laa1): "Delete [that] video!"
+       - 噉炒咗佢囉 (gam2 caau2 zo2 keoi5 lo1): "So [just] fire him!"
+       ==
+    ++
+  ====
 $$
 
 ### 爼2 | _(2)Cho_ [[zo2]]
