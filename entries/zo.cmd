@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $俎2
 - $咗2
+- $唨2
 - $爼2
 - $阻2
 ==
@@ -97,6 +98,7 @@ U
   U+5497
 A
   ==
+  -{.modern} $唨2
   - $阻2
   ==
 F
@@ -136,6 +138,7 @@ E
        - 笨咗添 (ban6 zo2 tim1): "[Oh, I've] been foolish!"
        - 瞓着咗 (fan3 zoek6 zo2): "Fallen asleep."
        - 畢咗業 (bat1 zo2 jip6): "[I've] graduated."
+       - 食咗飯未 (sik6 zo2 faan6 mei6): "[Have you] eaten dinner yet?"
        ==
     1. Used with certain imperatives.
        ==
@@ -145,6 +148,23 @@ E
        ==
     ++
   ====
+$$
+
+###+ 唨2 | _(2)Cho_ (zo2)
+
+$$
+R
+  ⼝ + 8
+U
+  U+5528
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Alternative form of 咗. **See $咗zo2 for the canonical entry.**
+  ==
 $$
 
 ### 爼2 | _(2)Cho_ [[zo2]]

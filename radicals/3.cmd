@@ -164,6 +164,7 @@ For all radicals, see [Index of characters by radical](./).
       - $啫ze1
       - $啫ze3
       - $𫪦 (⿰口知)zi3
+      - $唨zo2
       ==
       </nav>
   //
