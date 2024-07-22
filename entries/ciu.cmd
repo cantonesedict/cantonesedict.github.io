@@ -447,6 +447,7 @@ $$
 - $俏3
 - $峭3
 - $肖3
+- $誚3
 - $譙3
 - $鍫3
 - $鞘3
@@ -579,6 +580,50 @@ S
   ==
   - $肖siu1 (TODO)
   ==
+$$
+
+### 誚3 | _Ts(')i(u/)(3)_ [[ciu3]]
+
+$$
+R
+  ⾔ + 7
+U
+  U+8A9A
+A
+  ==
+  - $譙3
+  ==
+V
+  ==
+  - ziu6 (per ::《廣韻》才[笑]切::)
+  ==
+F
+  ==
+  - [[F2.7 誚]] 以言相譏詆曰誚
+  ==
+W
+  ====
+  - [[Page~581 (4)譙; here normalised to 誚]]
+    --
+    Often used for _ts(')i(u/)(3)_ [[ciu3]] 誚, to scold.
+    --
+    ==
+    - [[...]];
+    - to ridicule;
+    - to bawl out at;
+    - to reprehend;
+    - [[...]].
+    ==
+  - [[Page~582 誚(3)]]
+    ==
+    - To ridicule;
+    - to blame, to reprehend;
+    - to speak harshly against;
+    - _(1)k(i/) ts(')i(u/)(3)_
+        [[gei1 ciu3 譏誚]]
+        to satirize.
+    ==
+  ====
 $$
 
 ### 譙3 | _Ts(')i(u/)(3)_ [[ciu3]]
