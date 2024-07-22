@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-07-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -160,8 +160,8 @@ W
     - _(2)shau (1)ts(')ing_
         [[sau2 cing1 守清]],
         a betrothed girl refusing to marry;
-    - _(1)ning (1)ts(')ing_
-        [[ning1 cing1 拎清]],
+    - _(1)[ling] (1)ts(')ing_
+        [[ling1 cing1 拎清]],
         taken all away;
     - _(1)ts(')ing (2)k(a/)m_
         [[cing1 gaam2 清減]],
@@ -209,6 +209,7 @@ C
   ==
   - Fan Wan entry: Corrected 曰 to 白.
   - Williams considers _(1)ts(')eng_ (ceng1) a possible reading variation for 清.
+  - Williams' 拎清: Changed _(1)ning_ (ning1) to _(1)ling_ (ling1).
   - Williams' 清數: Changed _ts(')eng_ (ceng1) to _ts(')ing_ (cing1).
   ==
 $$
