@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ciu
-* %date-modified --> 2024-07-21
+* %date-modified --> 2024-07-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -446,6 +446,7 @@ $$
 =={.modern}
 - $俏3
 - $峭3
+- $肖3
 - $譙3
 - $鍫3
 - $鞘3
@@ -529,6 +530,54 @@ C
 S
   ==
   - $峭ciu2
+  ==
+$$
+
+### 肖3 | _Ts(')i(u/)(3)_ [[ciu3]]
+
+$$
+R
+  ⾁ + 3
+U
+  U+8096
+F
+  ==
+  - [[F2.7 肖]] 似也像也
+  ==
+W
+  ====
+  - [[Page~582 肖(3)]]
+    ==
+    - To assimilate, to imitate;
+    - a likeness or relationship between parent and child,
+      said to be proved by mixing their blood;
+    - resembling, like;
+    - small;
+    - a class;
+    - alike;
+    - [[see $肖siu1 for "decline/wane" and "lost/scattered" senses]];
+    - _pat(7) ts(')i(u/)(3)_
+        [[bat1 ciu3 不肖]]
+        not like it, inferior, degenerate;
+        also used by a son to his father;
+    - _ts(')i(u/)(3) (5)n(i/) ko(3) y(e/)ung(6)_
+        [[ciu3 nei5 go3 joeng6-2 肖你個樣]]
+        resembles you, as a bust or child;
+    - _ts(')i(u/)(3) (4)p(')(i/)_
+        [[ciu3 pei4 肖皮]],
+        pretty;
+    - _shap(9) (i/)(6) (1)shang ts(')i(u/)(3)_
+        [[sap6 ji6 sang1 ciu3]]
+        the twelve animals which are thought to be like the twelve branches.
+    ==
+  ====
+C
+  ==
+  - Williams' 肖皮: Probably a misspelling of 俏皮.
+  ==
+S
+  ==
+  - $肖siu1 (TODO)
   ==
 $$
 
