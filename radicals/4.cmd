@@ -1621,6 +1621,23 @@ For all radicals, see [Index of characters by radical](./).
 ## ⽘ (double x)
 
 <## radical-⽘-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 5
+    ,
+      <nav class="sideways">
+      ==
+      - $爼zo2
+      ==
+      </nav>
+''
+||||
 <## /radical-⽘-characters ##>
 
 
