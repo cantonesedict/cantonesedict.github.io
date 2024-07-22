@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zip
-* %date-modified --> 2024-07-15
+* %date-modified --> 2024-07-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -57,6 +57,12 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+--{.williams}
+[[Page~578, before the entry for 浹]]
+  <br>
+(This character [[浹]] is also read _h(a/)p_ [[haap]] and _h(i/)p_ [[hip]].)
+--
 
 ### 囁3 | _Ch(i/)p(8)_ [[zip3]]
 
@@ -329,6 +335,11 @@ W
 C
   ==
   - Fan Wan entry: The incomprehensible character looks like 液 minus 亻.
+  - Williams records _h(a/)p_ (haap) and _h(i/)p_ (hip)
+    as alternative readings without specifying the tone
+    (see remarks under $zip3).
+    The former is consistent with Kangxi quoting 《集韻》轄夾切音洽浹渫水貌.
+    The latter I cannot justify.
   - Williams' 浹日: Not ten years, but ten days (from 甲 to 癸).
   ==
 S
