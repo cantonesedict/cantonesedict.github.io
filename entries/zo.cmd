@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zo
-* %date-modified --> 2024-07-22
+* %date-modified --> 2024-07-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $俎2
 - $爼2
+- $阻2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -102,6 +103,59 @@ W
   - [[Page~25* (2)爼]]
     --
     [[Alternative form of 俎. **See $俎zo2 for the canonical entry.**]]
+    --
+  ====
+$$
+
+### 阻2 | _(2)Cho_ [[zo2]]
+
+$$
+R
+  ⾩ + 5
+U
+  U+963B
+F
+  ==
+  - [[F2.60 阻]] 阻滯阻隔險阻
+  ==
+W
+  ====
+  - [[Page~25* (2)阻]]
+    ==
+    - To hinder, to impede, to stop, to make delay;
+    - grieved;
+    - dangerous;
+    - an impediment;
+    - a defile;
+    - to suspect, to doubt;
+    - _(2)h(i/)m (2)cho_
+        [[him2 zo2 險阻]],
+        an obstruction in the way;
+    - _(2)cho chai(6)_
+        [[zo2 zai6 阻滯]]
+        prevented from being ready;
+    - _(2)cho k(a/)k(8)_
+        [[zo2 gaak3 阻隔]]
+        to prevent going;
+    - _(2)cho (4)n(a/)n_
+        [[zo2 naan4 阻難]],
+        difficulties;
+    - _(2)cho ch(u")(6)_
+        [[zo2 zyu6 阻住]]
+        to hinder, blocked up;
+    - _(2)cho (2)tong_
+        [[zo2 dong2 阻擋]],
+        to stand in the way of;
+    - _(2)cho (4)ch(')(i/)_
+        [[zo2 ci4 阻遲]],
+        to delay;
+    - _(2)cho 'ng(6) sz'(6) kon(3)_
+        [[zo2 ng6 si6 gon3 阻誤事幹]]
+        to retard or interrupt business.
+    ==
+    --
+    A colloquial word
+    [[here normalised to 咗; **see $咗zo2 for the canonical entry**]].
     --
   ====
 $$
