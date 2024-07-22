@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $俎2
+- $咗2
 - $爼2
 - $阻2
 ==
@@ -84,6 +85,45 @@ W
 C
   ==
   - Also a table or chopping board.
+  ==
+$$
+
+###+ 咗2 | _(2)Cho_ (zo2)
+
+$$
+R
+  ⼝ + 5
+U
+  U+5497
+A
+  ==
+  - $阻2
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~25* (2)阻; here normalised to 咗]]
+    --
+    [[...]]
+    --
+    --
+    A colloquial word.
+    --
+    ==
+    - A sign of the past tense,
+      placed after verbs like _(1)hi(u/)_ [[hiu1 嘵]];
+    - _(1)[ling] (2)cho (4)lai_
+        [[ling1 zo2 lai4 拎咗嚟]],
+        brought it;
+    - _h(u")(3) (2)cho_
+        [[heoi3 zo2 去咗]],
+        gone.
+    ==
+  ====
+C
+  ==
+  - Williams' 拎咗嚟: Changed _(1)ning_ (ning1) to _(1)ling_ (ling1).
   ==
 $$
 
