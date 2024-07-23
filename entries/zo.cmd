@@ -575,7 +575,7 @@ W
         [[co5 laang5 faan6 gam2 co5 坐冷飯噉坐]]^
         to sit till the rice is cold, _i.~e._ to take [French] leave;
     - _(2)t(a/) tso(6) (1)ts(')(a/)m (4)[sh(i/)m]_
-        [[daa2 zo6 caam1 sim4 打坐參蟬]],
+        [[daa2 zo6 caam1 sim4 打坐參禪]],
         to squat and contemplate, as Budhists do.
     ==
   ====
@@ -605,7 +605,7 @@ C
     to _(5)ts(')o_ (co5 上聲) when appropriate.
   - Williams' 坐上: Corrected _sh(e/)ung(6)_ (soeng6 去聲) to _(5)sh(e/)ung_ (soeng5 上聲).
   - Williams' 坐冷飯噉坐: Corrected _k(o\)m(3)_ (gam3) to _(2)k(o\)m_ (gam2).
-  - Williams' 打坐參蟬: Changed Middle Chinese _(4)sh(i/)n_ (sin4)
+  - Williams' 打坐參禪: Changed Middle Chinese _(4)sh(i/)n_ (sin4)
     to common reading _(4)sh(i/)m_ (sim4).
   ==
 E
