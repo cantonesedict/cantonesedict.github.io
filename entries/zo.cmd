@@ -608,6 +608,33 @@ C
   - Williams' 打坐參蟬: Changed Middle Chinese _(4)sh(i/)n_ (sin4)
     to common reading _(4)sh(i/)m_ (sim4).
   ==
+E
+  ====
+  - 【坐】 (co5):
+    ++
+    1. (_Chinese chess_) Used to describe moves of the general.
+       ==
+       - 坐起 (co5 hei2): "Sit raised" (i.e. move the general up).
+       - 坐上 (co5 soeng5): "Sit up" (i.e. move the general up).
+       - 坐上山頂 (co5 soeng5 saan1 deng2): "Sit up [to the] mountain top" (i.e. move the general up to the top row of the palace).
+       - 坐落 (co5 lok6): "Sit down" (i.e. move the general down).
+       - 坐出 (co5 ceot1): "Sit out" (i.e. move the general out of cover of the centre column).
+       - 坐入 (co5 jap6): "Sit in" (i.e. move the general back into cover of the centre column).
+       - 坐歪 (co5 me2): "Sit off-centre" (i.e. move the general off the uncovered centre column).
+       - 坐正 (co5 zeng3): "Sit right" (i.e. move the general back onto the uncovered centre column).
+       - 坐咗佢 (co5 zo2 keoi5): "Sit [over] it" (i.e. capture with the general).
+       ==
+    ++
+  - 【坐低】 (co5 dai1):
+    ++
+    1. To sit down.
+    ++
+  - 【坐穩機】 (co5 wan2 gei1):
+    ++
+    1. A farewell wish for a safe flight.
+    ++
+  <## TODO: 坐月 co5 jyut6-2, 陪月 pui4 jyut6-2 ##>
+  ====
 S
   ==
   - $坐co5 (TODO)

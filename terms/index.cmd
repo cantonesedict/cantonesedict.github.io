@@ -350,6 +350,15 @@ window.onload = applyFilter;
     , ciu1
     , [超](/entries/ciu#cantonese-超)
   //
+    , co5
+    , [坐](/entries/zo#cantonese-坐)
+  //
+    , co5 dai1
+    , [坐低](/entries/zo#cantonese-坐低)
+  //
+    , co5 wan2 gei1
+    , [坐穩機](/entries/zo#cantonese-坐穩機)
+  //
     , coek3
     , [灼](/entries/coek#cantonese-灼)
   //
