@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zo2](#2)
+- [zo3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -274,4 +275,65 @@ W
     [[here normalised to 咗; **see $咗zo2 for the canonical entry**]].
     --
   ====
+$$
+
+
+##{#3 .williams} Cho(3) Tso(3) [[zo3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $詛3
+==
+</nav>
+<## /tone-3-characters ##>
+
+--{.williams}
+[[Page~26*, before the entry for 詛]]
+  <br>
+This character [[詛]] is often called _ch(u\)_ [[zoe]] or _ch(u")_ [[zyu]].
+--
+
+### 詛3 | _Cho(3)_ [[zo3]]
+
+$$
+R
+  ⾔ + 5
+U
+  U+8A5B
+V
+  ==
+  - zeoi2 (common)
+  ==
+F
+  ==
+  - [[F2.61 詛]] 竹過切咒詛
+  - [[F2.61 咀]] ::同[上]::
+  ==
+W
+  ====
+  - [[Page~26* 詛(3)]]
+    ==
+    - To curse, to imprecate;
+    - bad language, curses;
+    - _chau(3) cho(3)_
+        [[zau3 zo3 咒詛]]
+        to curse.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword self-reference to 上.
+  - Williams records _ch(u\)_ (zoe) and _ch(u")_ (zyu)
+    as alternative readings without specifying the tone
+    (see remarks under $zo3).
+    The former I cannot justify.
+    The latter is consistent with Kangxi quoting 《集韻》遵遇切娵去聲.
+  - The common reading zeoi2 is perhaps from identifying 詛咒 with 咀咒,
+    noting that Fan Wan considers 咀 an alternative form of 詛 _cho(3)_ (zo3).
+  ==
+S
+  ==
+  - $詛zeoi2 (TODO)
+  ==
 $$
