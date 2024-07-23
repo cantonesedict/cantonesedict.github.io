@@ -347,6 +347,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $佐3
 - $詛3
 ==
 </nav>
@@ -357,6 +358,40 @@ $$
   <br>
 This character [[詛]] is often called _ch(u\)_ [[zoe]] or _ch(u")_ [[zyu]].
 --
+
+### 佐3 | _Tso(3)_ [[zo3]]
+
+$$
+R
+  ⼈ + 5
+U
+  U+4F50
+V
+  ==
+  - zo2 (common in 佐敦)
+  ==
+F
+  ==
+  - [[F2.61 佐]] 輔佐
+  ==
+W
+  ====
+  - [[Page~582 佐(3)]]
+    ==
+    - To assist, to second;
+    - an assistant, a deputy, a second, a substitute;
+    - _tso(3) (5)ling_
+        [[zo3 ling5 佐領]],
+        a major-general, a resident among the Mongols;
+    - _(4)wong tso(3) (1)ch(i/) (4)ts(')oi_
+        [[wong4 zo3 zi1 coi4 王佐之才]]^
+        talents of the prime minister;
+    - _tso(3) ts(a/)p(9) (1)k(u/)n_
+        [[zo3 zaap6 gun1 佐雜官]],
+        low officers assisting in a y(a/)mun [[衙門]].
+    ==
+  ====
+$$
 
 ### 詛3 | _Cho(3)_ [[zo3]]
 

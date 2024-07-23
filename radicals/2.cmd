@@ -127,6 +127,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $似ci5
       - $伺zi6
+      - $佐zo3
       ==
       </nav>
   //
