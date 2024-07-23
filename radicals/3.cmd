@@ -840,6 +840,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $岫zau6
+      - $岨zo2
       ==
       </nav>
   //
