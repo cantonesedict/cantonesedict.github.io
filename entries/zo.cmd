@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [zo2](#2)
 - [zo3](#3)
+- [zo6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -335,5 +336,57 @@ C
 S
   ==
   - $詛zeoi2 (TODO)
+  ==
+$$
+
+
+##{#6 .williams} Cho(6) Tso(6) [[zo6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $助6
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 助6 | _Cho(6)_ [[zo6]]
+
+$$
+R
+  ⼒ + 5
+U
+  U+52A9
+F
+  ==
+  - [[F2.62 助]] 輔助益也
+  ==
+W
+  ====
+  - [[Page~26* 助(6)]]
+    ==
+    - To assist, to help;
+    - strengthening, beneficial;
+    - to succor;
+    - _(1)s(e/)ung cho(6)_
+        [[soeng1 zo6 相助]]
+        to help each other;
+    - _cho(6) (4)shing [(2)]ko k(i/)n(6) sz'(6)_
+        [[zo6 sing4 go2 gin6 si6 助成嗰件事]]
+        help finish that business;
+    - _cho(6) (4)(i/)n_
+        [[zo6 jin4 助言]],
+        a helping word;
+    - _cho(6) (5)n(i/) yat(7) p(i/)(3) (1)ch(i/) lik(9)_
+        [[zo6 nei5 jat1 bei3 zi1 lik6 助你一臂之力]]
+        lend you a helping hand;
+    - _(4)ts(')ui (4)yan lok(9) cho(6)_
+        [[ceoi4 jan4 lok6 zo6 隨人樂助]]
+        each one helping willingly.
+    ==
+  ====
+C
+  ==
+  - Williams' 助成嗰件事: Corrected _ko(3)_ (go3) to _(2)ko_ (go2).
   ==
 $$
