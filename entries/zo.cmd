@@ -444,6 +444,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $助6
+- $坐6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -486,5 +487,129 @@ W
 C
   ==
   - Williams' 助成嗰件事: Corrected _ko(3)_ (go3) to _(2)ko_ (go2).
+  ==
+$$
+
+### 坐6 | _Tso(6)_ [[zo6]]
+
+$$
+R
+  ⼟ + 4
+U
+  U+5750
+V
+  ==
+  - co5 (verb-like vernacular)
+  ==
+F
+  ==
+  - [[F2.62 坐]] 止也居也
+  ==
+W
+  ====
+  - [[Page~582 坐(6)]]
+    ==
+    - To sit;
+    - to sit on the heels;
+    - sitting, remaining;
+    - a session;
+    - a seat, a place;
+    - to maintain, to hold;
+    - involved in, implicated;
+    - to sit in judgement on, to judge;
+    - to place, to set down;
+    - to kneel;
+    - _(2)ts(')ing [(5)ts(')o]_
+        [[cing2 co5 請坐]]^
+        please be seated;
+    - _tso(6) (1)i(u/)_
+        [[zo6 jiu1 坐腰]],
+        to curtsey;
+    - _(5)n(i/) [(5)ts(')o]_ [[nei5 co5 你坐]]^
+        or
+      _[(5)ts(')o] ch(e/)(3)_ [[co5 ze3 坐嗻]]
+        good bye, said to the host;
+    - _tso(6) (5)l(i/)_
+        [[zo6 lei5 坐𢃇]],
+        to let down sail;
+    - _[(5)ts(')o] ki(u/)(6)_
+        [[co5 giu6-2 坐轎]]
+        to ride in a sedan;
+    - _tso(6) ts(u/)i(6) (1)(u") (5)n(i/)_
+        [[zo6 zeoi6 jyu1 nei5 坐罪於你]],
+        to bring the punishment upon you;
+    - _[(5)ts(')o] (u")t(9)_
+        [[co5 jyut6-2 坐月]]
+        the month after confinement;
+    - _tso(6) wai(6)_
+        [[zo6 wai6-2 坐位]]
+        a seat, a station;
+    - _tso(6) shat(9)_
+        [[zo6 sat6 坐實]]
+        put it in securely;
+    - _tso(6) sok(8)_
+        [[zo6 sok3 坐索]]
+        to quarter on one to force him to pay;
+    - _[(5)ts(')o] (4)'m lok(9)_
+        [[co5 m4 lok6 坐唔落]]
+        no place to sit in;
+    - _tso(6) h(e/)ung(3)_
+        [[zo6 hoeng3 坐向]]
+        the prospect, as of a grave;
+    - _[(5)ts(')o] (5)h(a/) (1)t(')(i/)m_
+        [[co5 haa5 tim1 坐吓添]],
+        sit a while longer;
+    - _t(')(i/)t(8) tso(6)_
+        [[tit3 zo6 鐵坐]]
+        to squat, as a tailor;
+    - _[(5)ts(')o] (1)k(a/)m_
+        [[co5 gaam1 坐監]],
+        in prison;
+    - _[(5)ts(')o] [(5)]sh(e/)ung_
+        [[co5 soeng5 坐上]]^
+        sit up higher;
+    - _[(5)ts(')o] (4)t(')ong_
+        [[co5 tong4-2 坐堂]],
+        in court, on the bench;
+    - _[(5)ts(')o] (5)l(a/)ng f(a/)n(6) [(2)]k(o\)m [(5)ts(')o]_
+        [[co5 laang5 faan6 gam2 co5 坐冷飯噉坐]]^
+        to sit till the rice is cold, _i.~e._ to take [French] leave;
+    - _(2)t(a/) tso(6) (1)ts(')(a/)m (4)[sh(i/)m]_
+        [[daa2 zo6 caam1 sim4 打坐參蟬]],
+        to squat and contemplate, as Budhists do.
+    ==
+  ====
+C
+  ==
+  - The rising-tone reading _(5)ts(')o_ (co5) is typically only heard
+    in vernacular usage for verb-like occurrences,
+    leading to the perception that it is non-literary.
+    In fact, the distinction in Cantonese
+    between aspirated rising _(5)ts(')o_ (co5)
+    and unaspirated departing _tso(6)_ (zo6)
+    actually preserves the two readings of 坐 in Middle Chinese
+    (also true of 斷, 淡, 近, 重, etc.).
+    Kangxi has an extended note,
+    """"
+    按坐有上去二音\
+    字韻諸書訓註皆同\
+    惟轉注古音坐註\
+    引史記高帝紀遂坐上坐\
+    正義云前坐字在果反後坐字在臥反
+    """"
+    the short version of which is,
+    that the quoted line 遂坐上坐 "Then [he] sat upon [the] upper seat"
+    should be read _sui(6) (5)ts(')o sh(e/)ung(6) tso(6)_ (seoi6 co5 soeng6 zo6)^,
+    with the first 坐 ("sat") rising and the second 坐 ("seat") departing.
+  - Williams' _tso(6)_ (zo6 去聲) has been corrected
+    to _(5)ts(')o_ (co5 上聲) when appropriate.
+  - Williams' 坐上: Corrected _sh(e/)ung(6)_ (soeng6 去聲) to _(5)sh(e/)ung_ (soeng5 上聲).
+  - Williams' 坐冷飯噉坐: Corrected _k(o\)m(3)_ (gam3) to _(2)k(o\)m_ (gam2).
+  - Williams' 打坐參蟬: Changed Middle Chinese _(4)sh(i/)n_ (sin4)
+    to common reading _(4)sh(i/)m_ (sim4).
+  ==
+S
+  ==
+  - $坐co5 (TODO)
   ==
 $$

@@ -299,6 +299,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $址zi2
       - $坁zi2
+      - $坐zo6
       ==
       </nav>
   //
