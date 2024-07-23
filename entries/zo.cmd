@@ -55,6 +55,7 @@ $$
 - $咗2
 - $唨2
 - $岨2
+- $左2
 - $爼2
 - $阻2
 ==
@@ -198,6 +199,68 @@ W
 S
   ==
   - $岨zeoi1 (TODO)
+  ==
+$$
+
+### 左2 | _(2)Tso_ [[zo2]]
+
+$$
+R
+  ⼯ + 2
+U
+  U+5DE6
+F
+  ==
+  - [[F2.61 左]] 左右又姓
+  ==
+W
+  ====
+  - [[Page~582 (2)左]]
+    ==
+    - The left, the left hand;
+    - second;
+    - an assistant;
+    - deflected;
+    - depraved, bad;
+    - to degrade, to reduce in rank;
+    - _(2)tso (i/)m(6)_
+        [[zo2 jim6 左驗]]
+        to verify, to prove, as a coadjutor can;
+    - _(2)tso p(i/)n(6)_
+        [[zo2 bin6 左便]]
+        on the left;
+    - _(2)shai kw(a/)n(3) (2)tso (2)shau_
+        [[sai2 gwaan3 zo2 sau2 使慣左手]],
+        left-handed;
+    - _(2)tso sing(3)_
+        [[zo2 sing3 左性]]
+        crotchetty, set in his way;
+    - _ch(u")n[(3)] (1)w(a/)n (2)tso p(i/)n(6)_
+        [[zyun3 waan1 zo2 bin6 轉彎左便]]
+        turn to the left hand;
+    - _(1)s(e/)ung (2)tso_
+        [[soeng1 zo2 相左]],
+        a mutual mistake;
+        not to suit, disagreeing;
+    - _m(i/)n(6) (2)tso (2)tso_
+        [[min6 zo2 zo2 面左左]],
+        to dislike;
+    - _(2)tso (1)sz' yau(6) (2)s(e/)ung_
+        [[zo2 si1 jau6 soeng2 左思右想]],
+        thinking of this way and that;
+    - _(2)tso (2)shau (1)k(a/)u yau(6) (2)shau_
+        [[zo2 sau2 gaau1 jau6 sau2 左手交右手]],
+        to exchange from hand to hand, _i.~e._ not to give credit;
+    - _l(i/)t(9) (1)(u") (2)tso_
+        [[lit6 jyu1 zo2 列於左]],
+        written as follows.
+    ==
+  ====
+C
+  ==
+  - Williams' 轉彎左便: Corrected _(2)ch(u")n_ (zyun2) to _ch(u")n(3)_ (zyun3).
+    Now simply 轉左.
+  - Williams' 列於左: Perhaps this should be 列如左.
   ==
 $$
 

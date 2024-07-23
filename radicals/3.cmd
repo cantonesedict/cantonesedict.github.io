@@ -924,6 +924,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Character entry links
 |:
   //
+    , 2
+    ,
+      <nav class="sideways">
+      ==
+      - $左zo2
+      ==
+      </nav>
+  //
     , 7
     ,
       <nav class="sideways">
