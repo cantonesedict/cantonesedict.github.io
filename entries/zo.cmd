@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zo
-* %date-modified --> 2024-07-23
+* %date-modified --> 2024-07-24
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -607,6 +607,8 @@ C
   - Williams' 坐冷飯噉坐: Corrected _k(o\)m(3)_ (gam3) to _(2)k(o\)m_ (gam2).
   - Williams' 打坐參禪: Changed Middle Chinese _(4)sh(i/)n_ (sin4)
     to common reading _(4)sh(i/)m_ (sim4).
+    Not squatting on one's feet with knees bent,
+    but cross-legged in the lotus position.
   ==
 E
   ====
