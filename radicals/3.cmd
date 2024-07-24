@@ -158,13 +158,14 @@ For all radicals, see [Index of characters by radical](./).
       - $啞aa2
       - $啞ak1
       - $唵am2
+      - $唨co1
+      - $唨zo2
       - $唱coeng3
       - $啁zaau1
       - $啁zau1
       - $啫ze1
       - $啫ze3
       - $𫪦 (⿰口知)zi3
-      - $唨zo2
       ==
       </nav>
   //

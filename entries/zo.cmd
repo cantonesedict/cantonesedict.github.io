@@ -163,6 +163,10 @@ C
   ==
   - Alternative form of 咗. **See $咗zo2 for the canonical entry.**
   ==
+S
+  ==
+  - $唨co1
+  ==
 $$
 
 ### 岨2 | _(2)Cho_ [[zo2]]

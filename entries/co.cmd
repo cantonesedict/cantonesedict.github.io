@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $初1
+- $唨1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -123,4 +124,35 @@ E
     1. A beginner, a novice.
     ++
   ====
+$$
+
+### 唨1 | _(1)Ch(')o_ [[co1]]
+
+$$
+R
+  ⼝ + 8
+U
+  U+5528
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~26* (1)唨]]
+    --
+    A colloquial, final particle.
+    --
+    ==
+    - To stop, to desist;
+    - _(5)n(i/) (5)mai h(u")(3) tsz'(6) (1)ch(')o_
+        [[nei5 mai5 heoi3 zi6 co1 你咪去？唨]],
+        don't you go!
+    - _(5)n(i/) (2)tang (5)h(a/) (1)ch(')o_
+        [[nei5 dang2 haa5 co1 你等吓唨]],
+        stop a little!
+    ==
+  ====
+S
+  ==
+  - $唨zo2
+  ==
 $$
