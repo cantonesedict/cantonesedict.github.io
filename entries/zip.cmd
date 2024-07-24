@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zip
-* %date-modified --> 2024-07-23
+* %date-modified --> 2024-07-24
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -340,7 +340,7 @@ C
     (see remarks under $zip3).
     The former is consistent with Kangxi quoting 《集韻》轄夾切音洽浹渫水貌.
     The latter I cannot justify.
-  - Williams' 浹日: Not ten years, but ten days (from 甲 to 癸).
+  - Williams' 浹日: Here, "decade" means ten days (from 甲 to 癸).
   ==
 S
   ==
