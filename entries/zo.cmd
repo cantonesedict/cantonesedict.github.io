@@ -445,6 +445,7 @@ $$
 =={.modern}
 - $助6
 - $坐6
+- $座6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -513,7 +514,7 @@ W
     - to sit on the heels;
     - sitting, remaining;
     - a session;
-    - a seat, a place;
+    - a seat, a place [[see $座zo6]];
     - to maintain, to hold;
     - involved in, implicated;
     - to sit in judgement on, to judge;
@@ -640,5 +641,51 @@ E
 S
   ==
   - $坐co5 (TODO)
+  ==
+$$
+
+### 座6 | _Tso(6)_ [[zo6]]
+
+$$
+R
+  ⼴ + 7
+U
+  U+5EA7
+A
+  ==
+  -{.modern} $坐6
+  ==
+F
+  ==
+  - [[F.62 座]] 位也
+  ==
+W
+  ====
+  - [[Page~583 座(6)]]
+    ==
+    - A seat, a throne;
+    - a shrine;
+    - a classifier of houses, towers, hills, cities, pagodas,
+      movable pavilions, &c.;
+    - _(1)hoi (1)kwong (1)shing tso(6)_
+        [[hoi1 gwong1 sing1 zo6 開光陞座]]
+        to vivify and enshrine an idol;
+    - _yat(7) tso(6) t(')(a/)p(8)_
+        [[jat1 zo6 taap3 一座塔]]
+        one division of a hong [[行]];
+    - _[(2)]h(i/) tak(7) (1)s(a/)m tso(6) uk(7)_
+        [[hei2 dak1 saam1 zo6 uk1 起得三座屋]]
+        can build three houses there;
+    - _(1)kung tso(6) (2)(i/)_
+        [[gung1 zo6 ji2 公座椅]],
+        an easy chair;
+    - _p(a/)t(8) tso(6)_
+        [[baat3 zo6 八座]]
+        eight chair-bearers.
+    ==
+  ====
+C
+  ==
+  - Williams' 起得三座屋: Corrected _h(i/)(3)_ (hei3) to _(2)h(i/)_ (hei2).
   ==
 $$
