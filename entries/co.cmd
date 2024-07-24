@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $初1
 - $唨1
+- $芻1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -155,4 +156,32 @@ S
   ==
   - $唨zo2
   ==
+$$
+
+### 芻1 | _(1)Ch(')o_ [[co1]]
+
+$$
+R
+  ⾋ + 4
+U
+  U+82BB
+F
+  ==
+  - [[F2.58 芻]] 草也
+  ==
+W
+  ====
+  - [[Page~26* (1)芻]]
+    ==
+    - To cut grass;
+    - hay, fodder, grass for animals;
+    - _yat(7) ch(')uk(7) (1)ch(')o_
+        [[jat1 cuk1 co1 一束芻]],
+        a bundle of hay;
+    - _(1)ch(')o (4)i(u/)_
+        [[co1 jiu4 芻蕘]],
+        grass;
+        _met._ the people.
+    ==
+  ====
 $$
