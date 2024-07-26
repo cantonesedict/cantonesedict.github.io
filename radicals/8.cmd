@@ -395,6 +395,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $雛co1
       - $雛co4
       - $雉zi6
       ==

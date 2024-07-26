@@ -53,6 +53,7 @@ $$
 - $初1
 - $唨1
 - $芻1
+- $雛1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -187,6 +188,38 @@ W
   ====
 $$
 
+###+ 雛1 | _(1)Ch(')o_ (co1)
+
+$$
+R
+  ⾫ + 5
+U
+  U+96DB
+V
+  ==
+  - co4 (per 《廣韻》仕于切)
+  ==
+F
+  ==
+  - [[F2.60 雛 _(4)Ch(')o_ (co4)]] 鳥子曰雛
+  ==
+W
+  ====
+  - [[Page~26* (4)雛 _(4)Ch(')o_ (co4); here normalised to _(1)Ch(')o_ (co1)]]
+    ==
+    - A chick, a fledgeling;
+    - the callow young of birds;
+    - _[(1)]ch(')o (1)kai_
+        [[co1 gai1 雛雞]],
+        a chicken.
+    ==
+  ====
+S
+  ==
+  - $雛co4
+  ==
+$$
+
 
 ##{#4 .williams} (4)Ch(')o [[co4 陽平]]
 
@@ -205,10 +238,6 @@ R
   ⾫ + 5
 U
   U+96DB
-V
-  ==
-  - co1 (common)
-  ==
 F
   ==
   - [[F2.60 雛]] 鳥子曰雛
@@ -216,16 +245,12 @@ F
 W
   ====
   - [[Page~26* (4)雛]]
-    ==
-    - A chick, a fledgeling;
-    - the callow young of birds;
-    - _(4)ch(')o (1)kai_
-        [[co4 gai1 雛雞]],
-        a chicken.
-    ==
+    --
+    [[Reading variation (per 《廣韻》仕于切). **See $雛co1 for the canonical entry.**]]
+    --
   ====
 S
   ==
-  - $雛co1 (TODO)
+  - $雛co1
   ==
 $$
