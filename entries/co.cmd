@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [co1](#1)
+- [co2](#2)
 - [co4](#4)
 ==
 </nav>
@@ -218,6 +219,56 @@ S
   ==
   - $雛co4
   ==
+$$
+
+
+##{#2 .williams} (2)Ch(')o [[co2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $楚2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 楚2 | _(2)Ch(')o_ [[co2]]
+
+$$
+R
+  ⽊ + 9
+U
+  U+695A
+F
+  ==
+  - [[F2.60 楚]] 國名大也高起也又夏楚荊條也
+  ==
+W
+  ====
+  - [[Page~26* (2)楚]]
+    ==
+    - A coppice, a bramble-bush, a thicket;
+    - a clump of trees;
+    - spinous;
+    - distinct, clear, orderly;
+    - well done, properly finished;
+    - painful, sharp;
+    - a feudal state in the Chau [[周]] dynasty
+      now the chief part of H(u/)n(a/)n [[湖南]] and H(u/)peh [[湖北]];
+    - _(1)ts(')ing (2)ch(')o_
+        [[cing1 co2 清楚]],
+        clear, fresh, completed, well done;
+    - _(2)ch(')o (2)ch(')o_
+        [[co2 co2 楚楚]],
+        very good, carefully;
+    - _(1)king (2)ch(')o_
+        [[ging1 co2 荊楚]],
+        a severe castigation;
+    - _(2)f(u/) (2)ch(')o_
+        [[fu2 co2 苦楚]],
+        distressing, suffering.
+    ==
+  ====
 $$
 
 
