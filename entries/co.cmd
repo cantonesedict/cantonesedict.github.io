@@ -229,6 +229,7 @@ $$
 =={.modern}
 - $憷2
 - $楚2
+- $礎2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -294,6 +295,31 @@ W
         distressing, suffering.
     ==
   ====
+$$
+
+### [礎]2 | _(2)Ch(')o_ [[co2]]
+
+$$
+R
+  ⽯ + 13
+U
+  U+790E
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~26* ::(2)[礎]^::]]
+    ==
+    - The stone base of a pillar or column;
+    - a pedestal;
+    - a plinth.
+    ==
+  ====
+C
+  ==
+  - Fan Wan erroneously has 礎 as a variant of 磉 _(2)song_ (song2).
+  - Williams misprints 礎 as ⿰石⿱林⿱冖⿱一龰; here corrected.
+  ==
 $$
 
 
