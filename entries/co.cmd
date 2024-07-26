@@ -226,10 +226,37 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $鉏4
 - $雛4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 鉏4 | _[(4)]Ch(')o_ [[co4]]^
+
+$$
+R
+  ⾦ + 5
+U
+  U+924F
+F
+  ==
+  - [[F2.60 鋤]] 冲所切田器也
+  - [[F2.60 鉏]] 同上
+  ==
+W
+  ====
+  - [[Page~26* ::[(4)]鉏[(4)]鋤::]]
+    --
+    [[Alternative form of 鋤. **See $鋤co4 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: The supplied dissection 冲所切 is incorrect.
+  - Williams misprints (4)鉏(4)鋤 as (5)鉏(5)鋤; here corrected.
+  ==
+$$
 
 ### 雛4 | _(4)Ch(')o_ [[co4]]
 
