@@ -227,10 +227,31 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $憷2
 - $楚2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 憷2 | _(2)Ch(')o_ [[co2]]
+
+$$
+R
+  ⼼ + 13
+U
+  U+61B7
+F
+  ==
+  - [[F2.60 憷]] 辛苦痛也
+  ==
+W
+  ====
+  - [[Page~26* (2)憷]]
+    --
+    Interchanged with the last [[$楚2]], in the senses of painful, suffering.
+    --
+  ====
+$$
 
 ### 楚2 | _(2)Ch(')o_ [[co2]]
 
@@ -239,6 +260,10 @@ R
   ⽊ + 9
 U
   U+695A
+A
+  ==
+  - $憷2 [[for "pain/suffering" senses]]
+  ==
 F
   ==
   - [[F2.60 楚]] 國名大也高起也又夏楚荊條也
