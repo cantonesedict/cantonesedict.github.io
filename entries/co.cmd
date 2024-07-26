@@ -51,6 +51,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $傞1
 - $初1
 - $唨1
 - $芻1
@@ -58,6 +59,29 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 傞1 | _(1)Ts(')o_ [[co1]]
+
+$$
+R
+  ⼈ + 10
+U
+  U+509E
+F
+  ==
+  - [[F2.58 傞]] 舞不止也
+  ==
+W
+  ====
+  - [[Page~583 (1)傞]]
+    ==
+    - The drunken frolics of a man in liquor;
+    - _(1)ts(')o (1)ts(')o_
+        [[co1 co1 傞傞]],
+        drunken antics.
+    ==
+  ====
+$$
 
 ### 初1 | _(1)Ch(')o_ [[co1]]
 
