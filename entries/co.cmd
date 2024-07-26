@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> co
-* %date-modified --> 2024-07-24
+* %date-modified --> 2024-07-26
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [co1](#1)
+- [co4](#4)
 ==
 </nav>
 <## /tones ##>
@@ -184,4 +185,47 @@ W
         _met._ the people.
     ==
   ====
+$$
+
+
+##{#4 .williams} (4)Ch(')o [[co4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways">
+=={.modern}
+- $雛4
+==
+</nav>
+<## /tone-4-characters ##>
+
+### 雛4 | _(4)Ch(')o_ [[co4]]
+
+$$
+R
+  ⾫ + 5
+U
+  U+96DB
+V
+  ==
+  - co1 (common)
+  ==
+F
+  ==
+  - [[F2.60 雛]] 鳥子曰雛
+  ==
+W
+  ====
+  - [[Page~26* (4)雛]]
+    ==
+    - A chick, a fledgeling;
+    - the callow young of birds;
+    - _(4)ch(')o (1)kai_
+        [[co4 gai1 雛雞]],
+        a chicken.
+    ==
+  ====
+S
+  ==
+  - $雛co1 (TODO)
+  ==
 $$
