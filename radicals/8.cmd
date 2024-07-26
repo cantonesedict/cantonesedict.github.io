@@ -90,6 +90,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $鋟cam1
       - $鋟cim1
+      - $鋤co4
       ==
       </nav>
   //

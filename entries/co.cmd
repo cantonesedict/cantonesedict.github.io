@@ -227,6 +227,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $鉏4
+- $鋤4
 - $雛4
 ==
 </nav>
@@ -256,6 +257,55 @@ C
   - Fan Wan entry: The supplied dissection 冲所切 is incorrect.
   - Williams misprints (4)鉏(4)鋤 as (5)鉏(5)鋤; here corrected.
   ==
+$$
+
+### 鋤4 | _[(4)]Ch(')o_ [[co4]]^
+
+$$
+R
+  ⾦ + 7
+U
+  U+92E4
+A
+  ==
+  - $鉏4
+  ==
+F
+  ==
+  - [[F2.60 鋤]] 冲所切田器也
+  - [[F2.60 鉏]] 同上
+  ==
+W
+  ====
+  - [[Page~26* ::[(4)]鉏[(4)]鋤::]]
+    ==
+    - A hoe, a mattoc;
+    - to hoe, to cultivate;
+    - _(4)ch(')o (4)t(')(i/)n_
+        [[co4 tin4 鋤田]],
+        to dig;
+    - _(4)ch(')o (4)t(')au_
+        [[co4 tau4-2 鋤頭]],
+        a hoe or mattoc.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: The supplied dissection 冲所切 is incorrect.
+  - Williams misprints (4)鉏(4)鋤 as (5)鉏(5)鋤; here corrected.
+  ==
+E
+  ====
+  - 【鋤大弟】 (co4 daai6 di2):
+    ++
+    1. Big two (the card game).
+    1. To play big two.
+    ++
+  - 【鋤弟】 (co4 di2):
+    ++
+    1. Short for [鋤大弟](#cantonese-鋤大弟) (to play big two).
+    ++
+  ====
 $$
 
 ### 雛4 | _(4)Ch(')o_ [[co4]]
