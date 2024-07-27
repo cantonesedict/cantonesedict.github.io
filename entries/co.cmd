@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> co
-* %date-modified --> 2024-07-26
+* %date-modified --> 2024-07-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -67,6 +67,10 @@ R
   ⼈ + 10
 U
   U+509E
+V
+  ==
+  - so1 (per 《廣韻》素何切)
+  ==
 F
   ==
   - [[F2.58 傞]] 舞不止也
