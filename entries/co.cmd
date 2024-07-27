@@ -54,6 +54,7 @@ $$
 - $傞1
 - $初1
 - $唨1
+- $嵯1
 - $芻1
 - $雛1
 ==
@@ -186,6 +187,38 @@ W
 S
   ==
   - $唨zo2
+  ==
+$$
+
+### 嵯1 | _(1)Ts(')o_ [[co1]]
+
+$$
+R
+  ⼭ + 10
+U
+  U+5D6F
+V
+  ==
+  - co4 (per 《廣韻》昨何切)
+  ==
+F
+  ==
+  - [[F2.58 嵯]] 嵯峨
+  ==
+W
+  ====
+  - [[Page~583 (1)嵯]]
+    ==
+    - Uneven hills;
+    - _(1)ts(')o (4)ngo_
+        [[co1 ngo4 嵯峨]],
+        the inequalities of hills, the undulating outline of mountains.
+    ==
+  ====
+C
+  ==
+  - The reading _(1)ts(')o_ (co1) is not unattested;
+    Kangxi quotes 《集韻》《韻會》《正韻》𠀤倉何切音磋《說文》嵯峨山石貌.
   ==
 $$
 
