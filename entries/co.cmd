@@ -55,6 +55,7 @@ $$
 - $初1
 - $唨1
 - $嵯1
+- $搓1
 - $芻1
 - $雛1
 ==
@@ -219,6 +220,52 @@ C
   ==
   - The reading _(1)ts(')o_ (co1) is not unattested;
     Kangxi quotes 《集韻》《韻會》《正韻》𠀤倉何切音磋《說文》嵯峨山石貌.
+  ==
+$$
+
+### 搓1 | _(1)Ts(')o_ [[co1]]
+
+$$
+R
+  ⼿ + 10
+U
+  U+6413
+F
+  ==
+  - [[F2.58 搓]] ::[挪]然也::
+  ==
+W
+  ====
+  - [[Page~583 (1)搓]]
+    ==
+    - To twist by rubbing on the knee;
+    - to rub or roll between the palms;
+    - _(1)ts(')o (4)m(a/)i yat(7) (4)t(')(u")n_
+        [[co1 maai4 jat1 tyun4 搓埋一團]],
+        roll it into a ball;
+    - _(1)ts(')o s(i/)n(3)_
+        [[co1 sin3 搓線]]
+        to twist thread;
+    - _(1)ts(')o (1)h(e/)ung_
+        [[co1 hoeng1 搓香]],
+        to cover incense sticks by rolling;
+    - _(1)ts(')o (4)(u")n kam(6) (2)p(i/)n_
+        [[co1 jyun4 gam6 bin2 搓圓撳扁]],
+        can be rolled or flattened;
+        _met._ an easy obliging man;
+    - _(1)ts(')o (4)no_
+        [[co1 no4 搓挪]],
+        to roll and mix between the hands;
+        rustling, flexible, like willow twigs.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 梛 to 挪.
+  ==
+S
+  ==
+  - $搓caai1 (TODO)
   ==
 $$
 
