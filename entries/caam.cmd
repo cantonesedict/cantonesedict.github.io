@@ -219,7 +219,7 @@ W
   ====
 C
   ==
-  - Strictly, the reading is _(1)ch(')(a/)m_ (caam1);
+  - Strictly, the pre-merger reading should be _(1)ch(')(a/)m_;
     Kangxi quotes 《集韻》初簪切 for the phrase 篸𥰭 (⿱𥫗差),
     which is the bamboo version of 參差.
   ==
@@ -586,7 +586,7 @@ W
   ====
 C
   ==
-  - Strictly, the reading is _(4)ch(')(a/)m_ (caam4) per 《廣韻》鋤銜切.
+  - Strictly, the pre-merger reading should be _(4)ch(')(a/)m_ per 《廣韻》鋤銜切.
   ==
 S
   ==
@@ -626,7 +626,7 @@ W
   ====
 C
   ==
-  - Strictly, the reading is _(4)ch(')(a/)m_ (caam4) per 《廣韻》鋤銜切.
+  - Strictly, the pre-merger reading should be _(4)ch(')(a/)m_ per 《廣韻》鋤銜切.
   ==
 $$
 
@@ -732,7 +732,7 @@ W
   ====
 C
   ==
-  - Strictly, the reading is _(4)ch(')(a/)m_ (caam4) per 《廣韻》士咸切 and 鋤銜切.
+  - Strictly, the pre-merger reading should be _(4)ch(')(a/)m_ per 《廣韻》士咸切 and 鋤銜切.
   - Fan Wan entry: Corrected 免 to 兔.
   ==
 $$
@@ -865,7 +865,7 @@ W
   ====
 C
   ==
-  - Strictly, the reading is _(4)ch(')(a/)m_ (caam4) per 《廣韻》士咸切.
+  - Strictly, the pre-merger reading should be _(4)ch(')(a/)m_ per 《廣韻》士咸切.
   - Williams' 讒諂: Corrected _(2)ch(i/)m_ (zim2) to _(2)ch(')(i/)m_ (cim2).
   ==
 $$
@@ -894,7 +894,7 @@ W
   ====
 C
   ==
-  - Strictly, the reading is _(4)ch(')(a/)m_ (caam4) per 《廣韻》士咸切.
+  - Strictly, the pre-merger reading should be _(4)ch(')(a/)m_ per 《廣韻》士咸切.
   ==
 $$
 

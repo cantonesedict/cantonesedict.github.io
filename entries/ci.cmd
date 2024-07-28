@@ -180,7 +180,7 @@ W
   ====
 C
   ==
-  - Strictly, the reading is _(1)ch(')(i/)_ (ci1) per 《廣韻》楚宜切.
+  - Strictly, the pre-merger reading should be _(1)ch(')(i/)_ per 《廣韻》楚宜切.
   ==
 S
   ==

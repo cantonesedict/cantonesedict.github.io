@@ -222,7 +222,7 @@ W
   ====
 C
   ==
-  - Strictly, the reading is _(1)ts(')(a/)i_ (caai1) per 《廣韻》倉才切.
+  - Strictly, the pre-merger reading should be _(1)ts(')(a/)i_ per 《廣韻》倉才切.
   - Williams' 你試猜一吓: Corrected _h(a/)(6)_ (haa6) to _(5)h(a/)_ (haa5).
   ==
 $$
