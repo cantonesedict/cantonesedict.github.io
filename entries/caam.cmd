@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-07-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -584,6 +584,10 @@ W
         a beveled knife or chissel.
     ==
   ====
+C
+  ==
+  - Strictly, the reading is _(4)ch(')(a/)m_ (caam4) per 《廣韻》鋤銜切.
+  ==
 S
   ==
   - $劖caam5
@@ -620,6 +624,10 @@ W
         also high piled up rocks.
     ==
   ====
+C
+  ==
+  - Strictly, the reading is _(4)ch(')(a/)m_ (caam4) per 《廣韻》鋤銜切.
+  ==
 $$
 
 ### 慙4 | _(4)Ts(')(a/)m_ [[caam4]]
@@ -724,6 +732,7 @@ W
   ====
 C
   ==
+  - Strictly, the reading is _(4)ch(')(a/)m_ (caam4) per 《廣韻》士咸切 and 鋤銜切.
   - Fan Wan entry: Corrected 免 to 兔.
   ==
 $$
@@ -856,6 +865,7 @@ W
   ====
 C
   ==
+  - Strictly, the reading is _(4)ch(')(a/)m_ (caam4) per 《廣韻》士咸切.
   - Williams' 讒諂: Corrected _(2)ch(i/)m_ (zim2) to _(2)ch(')(i/)m_ (cim2).
   ==
 $$
@@ -882,6 +892,10 @@ W
         omniverous.
     ==
   ====
+C
+  ==
+  - Strictly, the reading is _(4)ch(')(a/)m_ (caam4) per 《廣韻》士咸切.
+  ==
 $$
 
 
