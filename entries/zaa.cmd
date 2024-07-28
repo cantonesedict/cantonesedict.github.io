@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2024-07-23
+* %date-modified --> 2024-07-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -781,6 +781,7 @@ U
 V
   ==
   - caa3 (Fan Wan)
+  - zaa6 (per 《廣韻》鋤駕切)
   ==
 F
   ==
