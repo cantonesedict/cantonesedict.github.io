@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoek
-* %date-modified --> 2024-07-15
+* %date-modified --> 2024-07-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -505,7 +505,7 @@ W
   ====
   - [[Page~32|n75 禚(8)]]
     ==
-    - A city in the feudal state of [Ts(')(i/)] [[齊]],
+    - A city in the feudal state of Ts(i/) [[齊]],
       now a place in Sh(a/)ntung [[山東]] province.
     ==
   ====

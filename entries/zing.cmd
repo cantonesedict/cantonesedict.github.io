@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2024-07-23
+* %date-modified --> 2024-07-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1334,7 +1334,7 @@ C
 $$
 
 
-##{#6 .williams} Tsing(6) [[zing6 陽去]]
+##{#6 .williams} <ins class="modern">Ching(6)</ins> Tsing(6) [[zing6 陽去]]
 
 <## tone-6-characters ##>
 <nav class="sideways">

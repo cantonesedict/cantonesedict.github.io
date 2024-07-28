@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zit
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-07-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -371,6 +371,10 @@ W
         towels and combs.
     ==
   ====
+C
+  ==
+  - Strictly, the pre-merger reading should be _ch(i/)t(8)_ per 《廣韻》阻瑟切.
+  ==
 $$
 
 ### [浙]3 | _Ch(i/)t(8)_ [[zit3]]
