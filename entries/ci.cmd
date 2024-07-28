@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2024-07-15
+* %date-modified --> 2024-07-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -178,6 +178,10 @@ W
         [[ci1 ho2 jan4 ji3 差可人意]]
     ==
   ====
+C
+  ==
+  - Strictly, the reading is _(1)ch(')(i/)_ (ci1) per 《廣韻》楚宜切.
+  ==
 S
   ==
   - $差caa1
@@ -888,7 +892,7 @@ W
   ====
 C
   ==
-  - Rising tone is expected from Middle Chinese 施是切 _(2)sh(i/)_ (si2),
+  - Rising tone is expected from Middle Chinese 施是切,
     but level tone ci4 is commonly heard (possibly from analogy with 池, 馳).
   ==
 S
@@ -1552,6 +1556,10 @@ W
         a privy.
     ==
   ====
+C
+  ==
+  - Strictly, the pre-merger reading should be _ch(')(i/)(3)_ per 《廣韻》初吏切.
+  ==
 $$
 
 ### 恣3 | _Ts(')z'(3)_ [[ci3]]
