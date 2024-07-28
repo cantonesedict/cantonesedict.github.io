@@ -45,6 +45,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $差1
+- $搋1
 - $搓1
 - $猜1
 - $釵1
@@ -113,6 +114,38 @@ S
   - $差caa1
   - $差ci1
   ==
+$$
+
+###+ 搋1 | _(1)Ch(')(a/)i_ (caai1)
+
+$$
+R
+  ⼿ + 10
+U
+  U+640B
+A
+  ==
+  - $搓1
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Not present in Williams;
+    an entry is included here for completeness.
+    ++
+    1. To knead, to rub.
+    ++
+  ==
+E
+  ====
+  - 【搋波】 (caai1 bo1):
+    ++
+    1. (_ball games_) To pass the ball back and forth.
+    ++
+  ====
 $$
 
 ###+ 搓1 | _(1)Ch(')(a/)i_ (caai1)

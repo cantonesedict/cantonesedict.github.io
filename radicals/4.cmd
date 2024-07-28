@@ -409,6 +409,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $搽caa4
       - $搽caa5
+      - $搋caai1
       - $搓caai1
       - $搓co1
       - $搶coeng1
