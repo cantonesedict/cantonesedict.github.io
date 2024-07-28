@@ -72,7 +72,7 @@ U
   U+509E
 V
   ==
-  - so1 (per 《廣韻》素何切)
+  - so1 (alternative per 《廣韻》素何切)
   ==
 F
   ==
