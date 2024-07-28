@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2024-07-19
+* %date-modified --> 2024-07-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -115,7 +115,7 @@ W
   ====
 C
   ==
-  - Strictly, the reading _(1)tsau_ (zau1) in level tone
+  - Strictly, the reading _(1)chau_ (zau1) in level tone
     is for the sense "anxious" or "sorrowful"
     (per Kangxi 《韻會》側鳩切音鄒愁貌或作偢).
   ==
@@ -589,6 +589,11 @@ W
     - to speak in a low tone.
     ==
   ====
+C
+  ==
+  - Strictly, the pre-merger reading should be _(1)chau_;
+    Kangxi quotes 《集韻》甾尤切音鄒.
+  ==
 $$
 
 ### 譸1 | _(1)Chau_ [[zau1]]
@@ -747,6 +752,10 @@ W
     - an ancient city in L(u/) [[魯]], where Mencius was born.
     ==
   ====
+C
+  ==
+  - Strictly, the pre-merger reading should be _(1)chau_ per 《廣韻》側鳩切.
+  ==
 $$
 
 ### 鄹1 | _(1)Tsau_ [[zau1]]
@@ -773,6 +782,10 @@ W
     - it is not far from the preceding [[$鄒1]].
     ==
   ====
+C
+  ==
+  - Strictly, the pre-merger reading should be _(1)chau_ per 《廣韻》側鳩切.
+  ==
 $$
 
 ### 陬1 | _(1)Tsau_ [[zau1]]
@@ -836,6 +849,10 @@ W
     - a royal groom or hostler.
     ==
   ====
+C
+  ==
+  - Strictly, the pre-merger reading should be _(1)chau_ per 《廣韻》側鳩切.
+  ==
 $$
 
 ### 鯫1 | _(1)Tsau_ [[zau1]]
@@ -1209,6 +1226,10 @@ R
   ⼈ + 13
 U
   U+50FD
+V
+  ==
+  - zau6 (per 《廣韻》鋤祐切)
+  ==
 F
   [[Not present]]
 W
@@ -1441,7 +1462,7 @@ S
   ==
 $$
 
-###+ 甃3 | _Tsau(3)_ (zau3)
+###+ 甃3 | _Chau(3)_ (zau3)
 
 $$
 R
@@ -1454,7 +1475,7 @@ F
   ==
 W
   ====
-  - [[Page~563 (1)甃 _(1)Ts(')au_ (cau1); here corrected to _Tsau(3)_ (zau3)]]
+  - [[Page~563 (1)甃 _(1)Ts(')au_ (cau1); here corrected to _Chau(3)_ (zau3)]]
     ==
     - The brick lining of a well;
     - to lay, as bricks;
@@ -1501,6 +1522,10 @@ W
         a wrinkled face.
     ==
   ====
+C
+  ==
+  - Strictly, the pre-merger reading should be _chau(3)_ per 《廣韻》側救切.
+  ==
 $$
 
 ### 縐3 | _Tsau(3)_ [[zau3]]
@@ -1545,6 +1570,10 @@ W
         marks of wrinkles.
     ==
   ====
+C
+  ==
+  - Strictly, the pre-merger reading should be _chau(3)_ per 《廣韻》側救切.
+  ==
 $$
 
 
@@ -1965,6 +1994,10 @@ W
     [[Reading variation (per 《廣韻》鋤祐切). **See $驟zaau6 for the canonical entry.**]]
     --
   ====
+C
+  ==
+  - Strictly, the pre-merger reading should be _chau(6)_ per 《廣韻》鋤祐切.
+  ==
 S
   ==
   - $驟zaau6
