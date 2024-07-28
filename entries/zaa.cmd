@@ -216,7 +216,7 @@ E
       ==
     1. To drive a vehicle.
       ==
-      - 揸棍波 (zaa1 gwan3 bo1): "Drive [a] manual."
+      - 揸棍波 (zaa1 gwan3 bo1): "Drive stick."
       - 揸車 (zaa1 ce1): "Drive [a] car."
       ==
     ++
@@ -498,6 +498,10 @@ R
   ⼃ + 4
 U
   U+4E4D
+V
+  ==
+  - zaa6 (per 《廣韻》鋤駕切)
+  ==
 F
   ==
   - [[F2.76 乍]] 初也忽也猝也甫然也暫也

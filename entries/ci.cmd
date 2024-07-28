@@ -3087,6 +3087,10 @@ W
         the yellow persimmon.
     ==
   ====
+C
+  ==
+  - Strictly, the pre-merger reading should be _(5)ch(')(i/)_ per 《廣韻》鉏里切.
+  ==
 S
   ==
   - $柿ci2

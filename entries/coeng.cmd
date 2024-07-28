@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2024-07-15
+* %date-modified --> 2024-07-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1016,6 +1016,10 @@ W
 C
   ==
   - Fan Wan entry: Corrected ⿰貝音 to 賠.
+  ==
+S
+  ==
+  - $償soeng4 (TODO)
   ==
 $$
 

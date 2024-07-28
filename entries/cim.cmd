@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2024-07-15
+* %date-modified --> 2024-07-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -492,6 +492,7 @@ U
 V
   ==
   - cam1 (alternative)
+  - zim1 (per 《廣韻》子廉切)
   ==
 F
   ==
@@ -852,8 +853,8 @@ C
   ==
   - Williams' "quick, rapid, urgent":
     This sense is not attested under the reading _(4)ts(')(i/)m_ (cim4);
-    《廣韻》 has 側吟切 _(1)tsam_ (zam1), explained 速也,
-    and Kangxi quotes 《唐韻》側吟切《集韻》《韻會》緇岑切𠀤音簪 _(1)ts(a/)m_ (zaam1), explained 疾也.
+    《廣韻》 has 側吟切 _(1)cham_ (zam1), explained 速也,
+    and Kangxi quotes 《唐韻》側吟切《集韻》《韻會》緇岑切𠀤音簪 _(1)ch(a/)m_ (zaam1), explained 疾也.
   ==
 E
   ====
