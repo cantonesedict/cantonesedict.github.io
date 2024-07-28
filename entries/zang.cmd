@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2024-07-15
+* %date-modified --> 2024-07-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -131,6 +131,7 @@ U
   U+5D22
 V
   ==
+  - caang4 (per 《廣韻》助庚切)
   - zaang1 (longer syllable)
   ==
 F
@@ -278,6 +279,7 @@ H
   depending on the font.
 V
   ==
+  - caang1 (per 《廣韻》楚耕切)
   - zaang1 (longer syllable)
   ==
 F
@@ -437,6 +439,7 @@ H
   depending on the font.
 V
   ==
+  - caang1 (per 《廣韻》楚庚切 and 楚耕切)
   - zaang1 (longer syllable)
   ==
 F
@@ -595,6 +598,7 @@ H
   depending on the font.
 V
   ==
+  - caang1 (per 《廣韻》楚耕切)
   - zaang1 (longer syllable)
   ==
 F
