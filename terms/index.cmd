@@ -194,6 +194,9 @@ window.onload = applyFilter;
     , caai1 bo1
     , [搋波](/entries/caai#cantonese-搋波)
   //
+    , caai1 cing4 cam4
+    , [猜呈沉](/entries/cing#cantonese-猜呈沉)
+  //
     , caam5
     , [鏨](/entries/caam#cantonese-鏨)
   //
@@ -343,6 +346,9 @@ window.onload = applyFilter;
   //
     , cin4-2 ngan4-2
     , [錢銀](/entries/cin#cantonese-錢銀)
+  //
+    , cing4-1 cam4-1 mo4 gaau3 caa1 siu1 baau1
+    , [呈沉磨鉸叉燒包](/entries/cing#cantonese-呈沉磨鉸叉燒包)
   //
     , cit3
     , [切](/entries/cit#cantonese-切)
