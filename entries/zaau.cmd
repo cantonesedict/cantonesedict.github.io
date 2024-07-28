@@ -469,13 +469,13 @@ R
   ⽕ + 12
 U
   U+3DF9
-V
-  ==
-  - zaau6 (per 《廣韻》直敎切)
-  ==
 A
   ==
   - $𦻐3
+  ==
+V
+  ==
+  - zaau6 (per 《廣韻》直敎切)
   ==
 F
   [[Not present]]

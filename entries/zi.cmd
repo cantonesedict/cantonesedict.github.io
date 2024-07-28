@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-07-21
+* %date-modified --> 2024-07-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -565,6 +565,10 @@ W
         a dark color.
     ==
   ====
+C
+  ==
+  - Strictly, the pre-merger reading should be _(1)ch(i/)_ per 《廣韻》側持切.
+  ==
 $$
 
 ### 滋1 | _(1)Tsz'_ [[zi1]]
@@ -666,6 +670,10 @@ W
     [[Alternative form of 菑. **See $菑zi1 for the canonical entry.**]]
     --
   ====
+C
+  ==
+  - Strictly, the pre-merger reading should be _(1)ch(i/)_ per 《廣韻》側持切.
+  ==
 S
   ==
   - $甾zoi1 (TODO)
@@ -748,6 +756,10 @@ W
 C
   ==
   - Williams' 知覺: Now "consciousness".
+  ==
+S
+  ==
+  - $知zi3
   ==
 $$
 
@@ -832,6 +844,7 @@ W
   ====
 C
   ==
+  - Strictly, the pre-merger reading should be _(1)ch(i/)_ per 《廣韻》側持切.
   - Fan Wan entry: The explanation seems to be for $輜1, not 緇.
   ==
 $$
@@ -1082,6 +1095,7 @@ W
   ====
 C
   ==
+  - Strictly, the pre-merger reading should be _(1)ch(i/)_ per 《廣韻》側持切.
   - Fan Wan entry: Corrected 革 to 草.
   - Williams' "used for the next": I have not seen 菑 used for 輜.
   ==
@@ -1434,6 +1448,7 @@ W
   ====
 C
   ==
+  - Strictly, the pre-merger reading should be _(1)ch(i/)_ per 《廣韻》側持切.
   - Fan Wan entry: Seems to have been erroneously placed under $緇1.
   ==
 $$
@@ -1461,6 +1476,10 @@ W
         a little trifle, a mere penny, a mite.
     ==
   ====
+C
+  ==
+  - Strictly, the pre-merger reading should be _(1)ch(i/)_ per 《廣韻》側持切.
+  ==
 $$
 
 ### 鎡1 | _(1)Tsz'_ [[zi1]]
@@ -2367,6 +2386,10 @@ W
         muddy settlings.
     ==
   ====
+C
+  ==
+  - Strictly, the pre-merger reading should be _(2)ch(i/)_ per 《廣韻》阻史切.
+  ==
 $$
 
 ### 祇2 | _(2)Ch(i/)_ [[zi2]]
@@ -2676,6 +2699,10 @@ W
         dried meat.
     ==
   ====
+C
+  ==
+  - Strictly, the pre-merger reading should be _(2)ch(i/)_ per 《廣韻》阻史切.
+  ==
 $$
 
 ###+ 衹2 | _(2)Ch(i/)_ (zi2)
@@ -2865,6 +2892,7 @@ $$
 - $漬3
 - $疐3
 - $痣3
+- $知3
 - $緻3
 - $置3
 - $胾3
@@ -3087,6 +3115,10 @@ R
   ⽇ + 8
 U
   U+667A
+A
+  ==
+  -{.modern} $知3
+  ==
 F
   ==
   - [[F1.41 智]] 心之明哲能辨道理也
@@ -3199,6 +3231,27 @@ W
   ====
 $$
 
+###+ 知3 | _Ch(i/)(3)_ (zi3)
+
+$$
+R
+  ⽮ + 3
+U
+  U+77E5
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Alternative form of 智. **See $智zi3 for the canonical entry.**.
+  ==
+S
+  ==
+  - $知zi1
+  ==
+$$
+
 ### 緻3 | _Ch(i/)(3)_ [[zi3]]
 
 $$
@@ -3293,7 +3346,7 @@ C
   ==
 $$
 
-###+ 胾3 | _Tsz'(3)_ (zi3)
+###+ 胾3 | _Ch(i/)(3)_ (zi3)
 
 $$
 R
@@ -3310,7 +3363,7 @@ F
   ==
 W
   ====
-  - [[Page~611 (1)胾 _(1)Tsz'_ (zi1); here normalised to _Tsz'(3)_ (zi3)]]
+  - [[Page~611 (1)胾 _(1)Tsz'_ (zi1); here normalised to _Ch(i/)(3)_ (zi3)]]
     ==
     - To cut up meat into steaks or morsels for eating;
     - slices, steaks, bits of meat.
@@ -3763,6 +3816,10 @@ W
         till next month.
     ==
   ====
+C
+  ==
+  - Strictly, the pre-merger reading should be _ch(i/)(6)_ per 《廣韻》牀史切.
+  ==
 S
   ==
   - $俟kei4 (TODO)
@@ -4196,7 +4253,8 @@ W
   ====
 C
   ==
-  Fan Wan entry: Seems to have been erroneously placed under $竢6.
+  - Strictly, the pre-merger reading should be _ch(i/)(6)_ per 《廣韻》牀史切.
+  - Fan Wan entry: Seems to have been erroneously placed under $竢6.
   ==
 $$
 
@@ -4403,6 +4461,7 @@ W
   ====
 C
   ==
+  - Strictly, the pre-merger reading should be _ch(i/)(6)_ per 《廣韻》牀史切.
   - Fan Wan entry: The explanation seems to be for $涘6, not 竢.
   ==
 $$
@@ -4428,7 +4487,7 @@ W
     ==
     - A hamper, a basket;
     - _(1)sh(u") tsz'(6)_
-        [[syu1 zi6 書笥]]]
+        [[syu1 zi6 書笥]]
         a portable book and writing-case;
     - _fuk(7) tsz'(6)_
         [[fuk1 zi6 腹笥]]

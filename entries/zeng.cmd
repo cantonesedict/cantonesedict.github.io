@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeng
-* %date-modified --> 2024-07-05
+* %date-modified --> 2024-07-28
 * %copyright-prior-years -->
 
 %%%
@@ -170,7 +170,7 @@ S
 $$
 
 
-##{#6 .williams} Tseng(6) [[zeng6 陽去]]
+##{#6 .williams} <ins class="modern">Cheng(6)</ins> Tseng(6) [[zeng6 陽去]]
 
 <## tone-6-characters ##>
 <nav class="sideways">
