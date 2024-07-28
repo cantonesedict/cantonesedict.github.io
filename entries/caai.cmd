@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-07-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -45,6 +45,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $差1
+- $搓1
 - $猜1
 - $釵1
 ==
@@ -111,6 +112,27 @@ S
   ==
   - $差caa1
   - $差ci1
+  ==
+$$
+
+###+ 搓1 | _(1)Ch(')(a/)i_ (caai1)
+
+$$
+R
+  ⼿ + 10
+U
+  U+6413
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Alternative form of 搋. **See $搋caai1 for the canonical entry.**
+  ==
+S
+  ==
+  - $搓co1
   ==
 $$
 
