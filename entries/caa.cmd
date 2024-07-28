@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-07-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -49,6 +49,7 @@ $$
 - $差1
 - $扠1
 - $汊1
+- $艖1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -260,6 +261,40 @@ C
   - Williams does not provide separate entries for $岔1 and 汊,
     probably following Kangxi, which has 與汊同 under 岔.
     I have split things up accordingly.
+  ==
+$$
+
+### 艖1 | _(1)Ch(')(a/)_ [[caa1]]
+
+$$
+R
+  ⾈ + 10
+U
+  U+8256
+V
+  ==
+  - co1 (Fan Wan)
+  ==
+F
+  ==
+  - [[F2.58 艖 _(1)Ts(')o_ (co1)]] 舟名
+  ==
+W
+  ====
+  - [[Page~583 (1)艖 _(1)Ts(')o_ (co1)]]
+    ==
+    - A skiff;
+    - _(4)(i/)m (1)[ch(')(a/)]_
+        [[jim4 caa1 鹽艖]],
+        a salt boat, vessels used in salt transportation.
+    ==
+    --
+    Also read _(1)ch(')(a/)_ [[caa1]].
+    --
+  ====
+S
+  ==
+  - $艖co1
   ==
 $$
 
