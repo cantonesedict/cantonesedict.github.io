@@ -57,6 +57,7 @@ $$
 - $嵯1
 - $搓1
 - $瑳1
+- $瘥1
 - $磋1
 - $艖1
 - $芻1
@@ -300,6 +301,29 @@ C
   ==
   - Fan Wan entry: Corrected 解 to 鮮 (notwithstanding
     the olden dictionaries read 玉色鮮白).
+  ==
+$$
+
+### 瘥1 | _(1)Ts(')o_ [[co1]]
+
+$$
+R
+  ⽧ + 10
+U
+  U+7625
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~583 (1)瘥]]
+    --
+    [[Reading variation. **See $瘥co4 for the canonical entries.**]]
+    --
+  ====
+S
+  ==
+  - $瘥caai3 (TODO)
+  - $瘥co4 (TODO)
   ==
 $$
 
