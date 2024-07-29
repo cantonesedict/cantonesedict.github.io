@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [co1](#1)
 - [co2](#2)
+- [co3](#3)
 - [co4](#4)
 ==
 </nav>
@@ -566,6 +567,41 @@ C
   - Fan Wan erroneously has 礎 as a variant of 磉 _(2)song_ (song2).
   - Williams misprints 礎 as ⿰石⿱林⿱冖⿱一龰; here corrected.
   ==
+$$
+
+
+##{#3 .williams} Ts(')o(3) [[co3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $剉3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 剉3 | _Ts(')o(3)_ [[co3]]
+
+$$
+R
+  ⼑ + 7
+U
+  U+5249
+F
+  ==
+  - [[F2.61 剉]] 折也
+  ==
+W
+  ====
+  - [[Page~583 剉(3)]]
+    ==
+    - To cut, to lop off the corners and sharp points, to trim and prune;
+    - to cut up, to cut to pieces.
+    ==
+    --
+    Often used for the next [[$銼3]].
+    --
+  ====
 $$
 
 
