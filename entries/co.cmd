@@ -57,6 +57,7 @@ $$
 - $嵯1
 - $搓1
 - $瑳1
+- $磋1
 - $艖1
 - $芻1
 - $蹉1
@@ -300,6 +301,35 @@ C
   - Fan Wan entry: Corrected 解 to 鮮 (notwithstanding
     the olden dictionaries read 玉色鮮白).
   ==
+$$
+
+### 磋1 | _(1)Ts(')o_ [[co1]]
+
+$$
+R
+  ⽯ + 10
+U
+  U+78CB
+A
+  ==
+  - $瑳1
+  ==
+F
+  ==
+  - [[F2.58 磋]] 切磋所以治骨角
+  ==
+W
+  ====
+  - [[Page~583 (1)磋]]
+    ==
+    - To polish, to work on;
+    - to cut and polish;
+    - to work at, to make good, as composition;
+    - _ts(')(i/)t(8) (1)ts(')o_
+        [[cit3 co1 切磋]],
+        to cut and polish.
+    ==
+  ====
 $$
 
 ### 艖1 | _(1)Ts(')o_ [[co1]]
