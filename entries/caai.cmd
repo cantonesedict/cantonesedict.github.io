@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2024-07-28
+* %date-modified --> 2024-07-29
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -372,6 +372,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $嘬3
+- $瘥3
 - $瘵3
 - $蠆3
 ==
@@ -415,6 +416,30 @@ W
 S
   ==
   - $嘬zyut3 (TODO)
+  ==
+$$
+
+###+ 瘥3 | _Ch(')(a/)i(3)_ (caai3)
+
+$$
+R
+  ⽧ + 10
+U
+  U+7625
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~583 (1)瘥 _(1)Ts(')o_ (co1); here corrected to _Ch(')(a/)i(3)_ (caai3)]]
+    ==
+    - To get convalescent, to recover;
+    - [[...]].
+    ==
+  ====
+S
+  ==
+  - $瘥co1
+  - $瘥co4
   ==
 $$
 

@@ -322,7 +322,7 @@ W
   ====
 S
   ==
-  - $瘥caai3 (TODO)
+  - $瘥caai3
   - $瘥co4
   ==
 $$
@@ -569,7 +569,7 @@ C
 $$
 
 
-##{#4 .williams} (4)Ch(')o [[co4 陽平]]
+##{#4 .williams} (4)Ch(')o <ins class="modern">(4)Ts(')o</ins> [[co4 陽平]]
 
 <## tone-4-characters ##>
 <nav class="sideways">
@@ -605,7 +605,7 @@ W
   ====
 S
   ==
-  - $瘥caai3 (TODO)
+  - $瘥caai3
   - $瘥co1
   ==
 $$
