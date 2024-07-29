@@ -101,6 +101,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $錢cin4
       - $錢zin2
+      - $錯co3
       - $錚zaang1
       - $錚zang1
       - $錙zi1

@@ -607,6 +607,7 @@ $$
 - $挫3
 - $脞3
 - $銼3
+- $錯3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -735,6 +736,71 @@ C
   ==
   - Williams' 雞膥銼, 芝麻銼: More accurately rendered as nouns, i.e.
     "chicken-egg file" and "sesame file".
+  ==
+$$
+
+### 錯3 | _Ts(')o(3)_ [[co3]]
+
+$$
+R
+  ⾦ + 8
+U
+  U+932F
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~583 錯(3)]]
+    ==
+    - In disorder, confused;
+    - to mistake, to err, to do wrong;
+    - to slip;
+    - erroneous, mixed, wrong;
+    - _(5)m(o\) ts(')o(3)_
+        [[mou5 co3 冇錯]]
+        no mistake, right;
+    - _ts(')o(3) [(1)]ng(a/)m_
+        [[co3 ngaam1 錯啱]],
+        a lucky hit, an error which is fortunate;
+    - _(4)'m ying(6) ts(')o(3)_
+        [[m4 jing6 co3 唔認錯]]
+        will not confess the wrong;
+    - _ts(')o(3) k(e/)uk(8) (4)n(a/)n (1)f(a/)n_
+        [[co3 goek3 naan4 faan1 錯腳難翻]]^
+        a slip may be hard to retrieve;
+    - _ts(')o(3) kwo(3) p(i/)t(7) (2)koi_
+        [[co3 gwo3 bit1 goi2 錯過必改]],
+        error must be corrected;
+    - _(2)s(e/) ts(')o(3)_
+        [[se2 co3 寫錯]]
+        written wrong.
+    ==
+  ====
+C
+  ==
+  - The classical reading of the "erroneous" and "mixed" senses
+    is entering-tone _ts(')ok(8)_ (cok3).
+  ==
+E
+  ====
+  - 【冇錯】 (mou5 co3):
+    ++
+    1. Correct.
+       ==
+       - 冇錯喇 (mou5 co3 la3): "[That's] correct."
+       ==
+    ++
+  - 【唔錯】 (m4 co3):
+    ++
+    1. Not bad.
+       ==
+       - 唔錯吖 (m4 co3 a1): "Not bad!"
+       ==
+    ++
+  ====
+S
+  ==
+  - $錯cok3 (TODO)
   ==
 $$
 
