@@ -577,6 +577,7 @@ $$
 =={.modern}
 - $剉3
 - $挫3
+- $脞3
 - $銼3
 ==
 </nav>
@@ -635,6 +636,30 @@ W
         tried by afflictions.
     ==
   ====
+$$
+
+### 脞3 | _Ts(')o(3)_ [[co3]]
+
+$$
+R
+  ⾁ + 7
+U
+  U+811E
+F
+  ==
+  - [[F2.61 脞]] 叢脞又細碎無大畧也
+  ==
+W
+  ====
+  - [[Page~583 脞(3)]]
+    --
+    [[Idiosyncratic reading from Fan Wan. **See $脞co2 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $脞co2 (TODO)
+  ==
 $$
 
 ### 銼3 | _Ts(')o(3)_ [[co3]]
