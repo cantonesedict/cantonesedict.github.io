@@ -714,6 +714,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $脞co2
       - $脞co3
       ==
       </nav>

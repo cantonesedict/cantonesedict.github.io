@@ -469,7 +469,7 @@ S
 $$
 
 
-##{#2 .williams} (2)Ch(')o [[co2 陰上]]
+##{#2 .williams} (2)Ch(')o <ins class="modern">(2)Ts(')o</ins> [[co2 陰上]]
 
 <## tone-2-characters ##>
 <nav class="sideways">
@@ -477,6 +477,7 @@ $$
 - $憷2
 - $楚2
 - $礎2
+- $脞2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -569,6 +570,33 @@ C
   ==
 $$
 
+###+ 脞2 | _(2)Ts(')o_ (co2)
+
+$$
+R
+  ⾁ + 7
+U
+  U+811E
+F
+  ==
+  - [[F2.61 脞 _Ts(')o(3)_ (co3)]] 叢脞又細碎無大畧也
+  ==
+W
+  ====
+  - [[Page~583 脞(3) _Ts(')o(3)_ (co3); here corrected to _(2)Ts(')o_ (co2)]]
+    ==
+    - To mince up meat;
+    - broken to bits, minced;
+    - small;
+    - to attend to trifles.
+    ==
+  ====
+S
+  ==
+  - $脞co3
+  ==
+$$
+
 
 ##{#3 .williams} Ts(')o(3) [[co3 陰去]]
 
@@ -658,7 +686,7 @@ W
   ====
 S
   ==
-  - $脞co2 (TODO)
+  - $脞co2
   ==
 $$
 
