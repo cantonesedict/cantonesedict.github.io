@@ -576,6 +576,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $剉3
+- $挫3
 - $銼3
 ==
 </nav>
@@ -603,6 +604,36 @@ W
     --
     Often used for the next [[$銼3]].
     --
+  ====
+$$
+
+### 挫3 | _Ts(')o(3)_ [[co3]]
+
+$$
+R
+  ⼿ + 7
+U
+  U+632B
+F
+  ==
+  - [[F2.61 挫]] 摧折也打也
+  ==
+W
+  ====
+  - [[Page~583 挫(3)]]
+    ==
+    - To break, to wound;
+    - to take off the edge, to humble;
+    - to oppress, to treat harshly;
+    - to trim, to file off;
+    - _ts(')o(3) (4)k(')(i/) yui(6) h(i/)(3)_
+        [[co3 kei4 jeoi6 hei3 挫其銳氣]]
+        to bring down his valor;
+    - _ts(')o(3) ch(i/)t(8)_
+        [[co3 zit3 挫折]]
+        to improve, to polish rude ways;
+        tried by afflictions.
+    ==
   ====
 $$
 
