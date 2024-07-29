@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> co
-* %date-modified --> 2024-07-28
+* %date-modified --> 2024-07-29
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -58,6 +58,7 @@ $$
 - $搓1
 - $艖1
 - $芻1
+- $蹉1
 - $雛1
 ==
 </nav>
@@ -321,6 +322,30 @@ W
         [[co1 jiu4 芻蕘]],
         grass;
         _met._ the people.
+    ==
+  ====
+$$
+
+### 蹉1 | _(1)Ts(')o_ [[co1]]
+
+$$
+R
+  ⾜ + 10
+U
+  U+8E49
+F
+  ==
+  - [[F2.58 蹉]] 蹉跎不及也
+  ==
+W
+  ====
+  - [[Page~583 (1)蹉]]
+    ==
+    - To slip;
+    - to err;
+    - _(1)ts(')o (4)t(')o_
+        [[co1 to4 蹉跎]],
+        to miss the time, to lose the opportunity.
     ==
   ====
 $$
