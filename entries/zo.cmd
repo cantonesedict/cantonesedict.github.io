@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zo
-* %date-modified --> 2024-07-24
+* %date-modified --> 2024-07-29
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -638,7 +638,7 @@ E
   ====
 S
   ==
-  - $坐co5 (TODO)
+  - $坐co5
   ==
 $$
 

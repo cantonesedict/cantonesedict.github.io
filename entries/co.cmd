@@ -25,6 +25,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [co2](#2)
 - [co3](#3)
 - [co4](#4)
+- [co5](#5)
 ==
 </nav>
 <## /tones ##>
@@ -942,5 +943,37 @@ W
 S
   ==
   - $雛co1
+  ==
+$$
+
+
+##{#5 .modern} (5)Ts(')o (co5 陽上)
+
+<## tone-5-characters ##>
+<nav class="sideways">
+=={.modern}
+- $坐5
+==
+</nav>
+<## /tone-5-characters ##>
+
+###+ 坐5 | _(5)Ts(')o_ (co5)
+
+$$
+R
+  ⼟ + 4
+U
+  U+5750
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation (verb-like vernacular). **See $坐zo6 for the canonical entry.**
+  ==
+S
+  ==
+  - $坐zo6
   ==
 $$
