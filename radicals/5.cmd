@@ -357,6 +357,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $瘥co1
+      - $瘥co4
       - $瘠zek3
       - $瘠zik3
       ==

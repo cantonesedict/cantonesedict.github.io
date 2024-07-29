@@ -323,7 +323,7 @@ W
 S
   ==
   - $瘥caai3 (TODO)
-  - $瘥co4 (TODO)
+  - $瘥co4
   ==
 $$
 
@@ -574,12 +574,41 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $瘥4
 - $鉏4
 - $鋤4
 - $雛4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+###+ 瘥4 | _(4)Ts(')o_ (co4)
+
+$$
+R
+  ⽧ + 10
+U
+  U+7625
+V
+  ==
+  - co1 (Williams)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~583 (1)瘥 _(1)Ts(')o_ (co1); here normalised to _(4)Ts(')o_ (co4)]]
+    ==
+    - [[See $瘥caai3 for "recover" senses]];
+    - a slight ailment, slight epidemic, like influenza.
+    ==
+  ====
+S
+  ==
+  - $瘥caai3 (TODO)
+  - $瘥co1
+  ==
+$$
 
 ### 鉏4 | _[(4)]Ch(')o_ [[co4]]^
 
