@@ -56,6 +56,7 @@ $$
 - $唨1
 - $嵯1
 - $搓1
+- $瑳1
 - $艖1
 - $芻1
 - $蹉1
@@ -268,6 +269,36 @@ C
 S
   ==
   - $搓caai1
+  ==
+$$
+
+### 瑳1 | _(1)Ts(')o_ [[co1]]
+
+$$
+R
+  ⽟ + 10
+U
+  U+7473
+F
+  ==
+  - [[F2.58 瑳]] ::玉[鮮]白色::
+  ==
+W
+  ====
+  - [[Page~583 (1)瑳]]
+    ==
+    - A white, lustrous, stone;
+    - fresh, beautiful;
+    - to smile, to look fascinating.
+    ==
+    --
+    Used for the next [[$磋1]].
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 解 to 鮮 (notwithstanding
+    the olden dictionaries read 玉色鮮白).
   ==
 $$
 
