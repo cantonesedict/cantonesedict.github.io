@@ -576,6 +576,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $剉3
+- $銼3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -590,6 +591,7 @@ U
 F
   ==
   - [[F2.61 剉]] 折也
+  - [[F2.61 銼]] 與剉同
   ==
 W
   ====
@@ -602,6 +604,54 @@ W
     Often used for the next [[$銼3]].
     --
   ====
+$$
+
+### 銼3 | _Ts(')o(3)_ [[co3]]
+
+$$
+R
+  ⾦ + 7
+U
+  U+92BC
+A
+  ==
+  - $剉3
+  ==
+F
+  ==
+  - [[F2.61 剉]] 折也
+  - [[F2.61 銼]] 與剉同
+  ==
+W
+  ====
+  - [[Page~583 銼(3)]]
+    ==
+    - An iron pan or boiler;
+    - a file, a rasp;
+    - to rasp, to file, to smooth off the sharp or rough points;
+    - to rub down;
+    - _yat(7) (2)p(a/) ts(')o(3)_
+        [[jat1 baa2 co3 一把銼]]
+        one file;
+    - _ts(')o(3) w(a/)t(9)_
+        [[co3 waat6 銼滑]]
+        file it smooth;
+    - _(1)kai ch(')un ts(')o(3)_ [[gai1 ceon1 co3 雞膥銼]]
+        to file eggs,
+        or
+      _(1)ch(i/) (4)m(a/) ts(')o(3)_ [[zi1 maa4 co3 芝麻銼]]
+        to scrape sesamum seeds,
+        both mean a skinflint;
+    - _ts(')o(3) kok(8)_
+        [[co3 gok3 銼角]]
+        to file off corners.
+    ==
+  ====
+C
+  ==
+  - Williams' 雞膥銼, 芝麻銼: More accurately rendered as nouns, i.e.
+    "chicken-egg file" and "sesame file".
+  ==
 $$
 
 
