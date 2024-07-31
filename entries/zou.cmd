@@ -193,6 +193,7 @@ $$
 - $璪2
 - $祖2
 - $組2
+- $藻2
 - $蚤2
 ==
 </nav>
@@ -442,6 +443,35 @@ W
     - _(2)k(a/)i (2)ts(o\) (1)kwai (4)t(')(i/)n_
         [[gaai2 zou2 gwai1 tin4 解組歸田]],
         to untie the cord and go home --- to resign office.
+    ==
+  ====
+$$
+
+### 藻2 | _(2)Ts(o\)_ [[zou2]]
+
+$$
+R
+  ⾋ + 16
+U
+  U+85FB
+F
+  ==
+  - [[F2.13 藻 _(2)Ts(u/)_]] 水草
+  ==
+W
+  ====
+  - [[Page~585 (2)藻]]
+    ==
+    - A sort of aquatic grass (a Vallisneria?)
+      which ducks delight in;
+    - to joy in, delighted with;
+    - _met._ fine composition, because this grass is marked;
+    - _(4)f(u/) (2)ts(o\) (1)ch(i/) sz'(6)_
+        [[fu4 zou2 zi1 si6 鳧藻之士]]
+        officers mutually pleased;
+    - _(2)hoi (2)ts(o\)_
+        [[hoi2 zou2 海藻]],
+        conferva or algæ.
     ==
   ====
 $$
