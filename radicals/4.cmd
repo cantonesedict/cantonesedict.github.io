@@ -991,6 +991,7 @@ For all radicals, see [Index of characters by radical](./).
       - $棷zau1
       - $植zik6
       - $椒ziu1
+      - $棗zou2
       ==
       </nav>
   //

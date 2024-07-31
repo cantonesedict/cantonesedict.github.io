@@ -188,6 +188,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $早2
+- $棗2
 - $祖2
 - $組2
 - $蚤2
@@ -278,6 +279,34 @@ E
        - 早晨啊 (zou2 san4 a3): "Good morning!"
        ==
     ++
+  ====
+$$
+
+### 棗2 | _(2)Ts(o\)_ [[zou2]]
+
+$$
+R
+  ⽊ + 8
+U
+  U+68D7
+F
+  ==
+  - [[F2.13 棗 _(2)Ts(u/)_]] 果名
+  ==
+W
+  ====
+  - [[Page~584 (2)棗]]
+    ==
+    - The fruit of the Cannarium or jujube tree;
+    - _mat(9) (2)ts(o\)_
+        [[mat6 zou2 蜜棗]],
+        dried dates, the fruit of this tree;
+    - _(4)hung (2)ts(o\)_
+        [[hung4 zou2 紅棗]],
+        red jujube plums;
+    - the _(2)ts(o\)_ [[zou2 棗]] and _lut(9)_ [[leot6 栗]]
+      are emblematic of female virtue.
+    ==
   ====
 $$
 
