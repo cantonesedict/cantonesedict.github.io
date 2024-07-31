@@ -190,6 +190,7 @@ $$
 - $早2
 - $棗2
 - $澡2
+- $璪2
 - $祖2
 - $組2
 - $蚤2
@@ -341,6 +342,27 @@ S
   ==
   - $澡cou3 (TODO)
   ==
+$$
+
+### 璪2 | _(2)Ts(o\)_ [[zou2]]
+
+$$
+R
+  ⽟ + 13
+U
+  U+74AA
+F
+  ==
+  - [[F2.13 璪 _(2)Ts(u/)_]] 玉飾也
+  ==
+W
+  ====
+  - [[Page~585 (2)璪]]
+    ==
+    - Pendents of precious stones or pearls
+      hung like beads around the edge of a coronet.
+    ==
+  ====
 $$
 
 ### 祖2 | _(2)Ts(o\)_ [[zou2]]
