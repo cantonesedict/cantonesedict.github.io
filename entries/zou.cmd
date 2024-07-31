@@ -188,6 +188,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $早2
+- $蚤2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -199,6 +200,10 @@ R
   ⽇ + 2
 U
   U+65E9
+A
+  ==
+  - $蚤2
+  ==
 F
   ==
   - [[F2.13 早 _(2)Ts(u/)_]] 早晨又先也
@@ -246,6 +251,32 @@ W
     - _(2)ts(o\) (2)ts(o\)_
         [[zou2 zou2 早早]]^
         very early.
+    ==
+  ====
+$$
+
+### 蚤2 | _(2)Ts(o\)_ [[zou2]]
+
+$$
+R
+  ⾍ + 4
+U
+  U+86A4
+F
+  ==
+  - [[F2.13 早 _(2)Ts(u/)_]] 早晨又先也
+  - [[F2.13 蚤 _(2)Ts(u/)_]] 同上
+  ==
+W
+  ====
+  - [[Page~584 (2)蚤]]
+    --
+    Used for the preceding [[$早2]].
+    --
+    ==
+    - A flea;
+    - sand fleas, or those produced in sandy ground;
+    - the rut or trace of a wheel.
     ==
   ====
 $$

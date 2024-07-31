@@ -1075,6 +1075,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $蚕caam4
       - $蚩ci1
+      - $蚤zou2
       ==
       </nav>
   //
