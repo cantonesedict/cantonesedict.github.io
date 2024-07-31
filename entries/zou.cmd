@@ -48,6 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $租1
+- $糟1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -95,6 +96,40 @@ W
     - _(2)h(i/) (1)ts(o\)_
         [[hei2 zou1 起租]],
         to raise the rent.
+    ==
+  ====
+$$
+
+### 糟1 | _(1)Ts(o\)_ [[zou1]]
+
+$$
+R
+  ⽶ + 11
+U
+  U+7CDF
+F
+  ==
+  - [[F2.9 糟 _(1)Ts(u/)_]] 酒糟又糟粕
+  ==
+W
+  ====
+  - [[Page~584 (1)糟]]
+    ==
+    - The sediment;
+    - grains left after distilling spirits;
+    - dregs;
+    - _(1)ts(o\) (1)hong_
+        [[zou1 hong1 糟糠]],
+        dregs and husks;
+    - _(2)tsau (1)ts(o\)_
+        [[zau2 zou1 酒糟]],
+        distiller's grains;
+    - _(1)ts(o\) (4)(u")_
+        [[zou1 jyu4-2 糟魚]],
+        fish laid in grains of glutinous rice;
+    - _(1)ts(o\) (1)hong (1)ch(i/) (1)ts(')ai_
+        [[zou1 hong1 zi1 cai1 糟糠之妻]],
+        a wife who has passed through poverty with one.
     ==
   ====
 $$
