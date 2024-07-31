@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zou1](#1)
+- [zou2](#2)
 ==
 </nav>
 <## /tones ##>
@@ -176,6 +177,75 @@ W
     - _(4)'m (1)ts(o\) t(')(a/)t(8) (5)k(')(u")_
         [[m4 zou1 taat3 keoi5 唔遭塌佢]],
         be patient with him, don't berate him.
+    ==
+  ====
+$$
+
+
+##{#2 .williams} (2)Ts(o\) [[zou2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $早2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 早2 | _(2)Ts(o\)_ [[zou2]]
+
+$$
+R
+  ⽇ + 2
+U
+  U+65E9
+F
+  ==
+  - [[F2.13 早 _(2)Ts(u/)_]] 早晨又先也
+  - [[F2.13 蚤 _(2)Ts(u/)_]] 同上
+  ==
+W
+  ====
+  - [[Page~584 (2)早]]
+    ==
+    - The morning;
+    - early, soon;
+    - betimes, beforehand, early, previously;
+    - just commenced, unskilled;
+    - then, presently;
+    - _(2)ts(o\) (4)shan_
+        [[zou2 san4 早晨]],
+        good morning;
+    - _(2)ts(o\) yat(9) (1)f(a/)n (4)lai_
+        [[zou2 jat6 faan1 lai4 早日返嚟]],
+        come back soon;
+    - _(1)kam (2)ts(o\)_
+        [[gam1 zou2 今早]],
+        this morning;
+    - _t(a/)i(6) (2)ts(o\) w(a/)(6) (5)n(i/)_
+        [[daai6 zou2 waa6 nei5 大早話你]],
+        I told you in good time;
+    - _(2)ts(o\) (4)wo_
+        [[zou2 wo4 早禾]],
+        the first crop;
+    - _(1)chi(u/) (4)t(')au (2)ts(o\)_
+        [[ziu1 tau4 zou2 朝頭早]],
+        early dawn;
+    - _(2)ts(o\) f(a/)n(6)_
+        [[zou2 faan6 早飯]]
+        breakfast;
+    - _ch(')an(3) (2)ts(o\)_
+        [[can3 zou2 趁早]]^
+        start early, and not be hurried;
+    - _(2)ts(o\) (4)t(')oi_
+        [[zou2 toi4 早臺]],
+        the morning play;
+    - _(4)w(a/)n (2)ts(o\)_
+        [[waan4 zou2 還早]],
+        still early;
+    - _(2)ts(o\) (2)ts(o\)_
+        [[zou2 zou2 早早]]^
+        very early.
     ==
   ====
 $$
