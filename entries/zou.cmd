@@ -49,6 +49,7 @@ $$
 =={.modern}
 - $租1
 - $糟1
+- $遭1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -130,6 +131,51 @@ W
     - _(1)ts(o\) (1)hong (1)ch(i/) (1)ts(')ai_
         [[zou1 hong1 zi1 cai1 糟糠之妻]],
         a wife who has passed through poverty with one.
+    ==
+  ====
+$$
+
+### 遭1 | _(1)Ts(o\)_ [[zou1]]
+
+$$
+R
+  ⾡ + 11
+U
+  U+906D
+F
+  ==
+  - [[F2.9 遭 _(1)Ts(u/)_]] 遭逢遭遇
+  ==
+W
+  ====
+  - [[Page~584 (1)遭]]
+    ==
+    - To encounter, to meet;
+    - to suffer, to endure, to occur, to happen;
+    - to cruize, to go about;
+    - to make a revolution;
+    - an occasion, a time;
+    - _(1)ts(o\) ts(')(a/)k(9) k(i/)p(8)_
+        [[zou1 caak6 gip3 遭賊劫]]
+        to be robbed;
+    - _(1)ts(o\) k(i/)p(8)_
+        [[zou1 gip3 遭劫]]
+        time of a great affliction;
+    - _(1)ts(o\) t(')(a/)t(8) mat(9) k(i/)n(6)_
+        [[zou1 taat3 mat6 gin6-2 遭塌物件]]
+        to waste and misuse things;
+    - _(1)ts(o\) t(')(a/)t(8) (4)yan_
+        [[zou1 taat3 jan4 遭塌人]],
+        to abuse, to treat harshly;
+    - _p(a/)k(9) (2)tsau yat(7) (1)ts(o\)_
+        [[baak6 zau2 jat1 zou1 白走一遭]],
+        went once for nothing;
+    - _(1)ts(o\) wo(6)_
+        [[zou1 wo6 遭禍]]
+        to suffer calamity;
+    - _(4)'m (1)ts(o\) t(')(a/)t(8) (5)k(')(u")_
+        [[m4 zou1 taat3 keoi5 唔遭塌佢]],
+        be patient with him, don't berate him.
     ==
   ====
 $$
