@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zou
-* %date-modified --> 2023-08-02
-* %copyright-prior-years -->
+* %date-modified --> 2024-07-31
+* %copyright-prior-years --> 2023--
 
 %%%
-
---{.modern}
-(From Page~584 of the original onwards.)
---
 
 #{.williams} Ts(o\). [[zou]]
 
@@ -21,3 +17,25 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Ts(o\). [[Page~584]]
+  ==
+WP
+  ==
+  - Ts(o\) <span class="modern">= [tsou]</span>
+  ==
+MP
+  ==
+  - zou = [tsou], [tɕou] ((preferred))
+  ==
+$$
