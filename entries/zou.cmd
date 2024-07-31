@@ -188,6 +188,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $早2
+- $祖2
 - $蚤2
 ==
 </nav>
@@ -277,6 +278,62 @@ E
        ==
     ++
   ====
+$$
+
+### 祖2 | _(2)Ts(o\)_ [[zou2]]
+
+$$
+R
+  ⽰ + 5
+U
+  U+7956
+F
+  ==
+  - [[F2.13 祖 _(2)Ts(u/)_]] 祖宗
+  ==
+W
+  ====
+  - [[Page~584 (2)祖]]
+    ==
+    - A grandfather;
+    - a progenitor;
+    - ancestors;
+    - the founder of a family;
+    - an ancestral temple;
+    - the beginning, the origin, the first, as of a family;
+    - to do like, to imitate a founder;
+    - accustomed to;
+    - to worship wayside gods;
+    - _(1)s(i/)n (2)ts(o\)_ [[sin1 zou2 先祖]]^
+        or
+      _(2)ts(o\) f(u/)(6)_ [[zou2 fu6 祖父]]
+        a grandfather;
+    - _(1)tsung (2)ts(o\)_
+        [[zung1 zou2 宗祖]],
+        my ancestors;
+    - _(1)tsang (2)ts(o\)_
+        [[zang1 zou2 曾祖]],
+        a great-grandfather;
+    - _(1)k(o\) (2)ts(o\)_
+        [[gou1 zou2 高祖]],
+        a great-great-grandfather;
+        the first emperor of a dynasty;
+    - _(2)ts(o\) mi(u/)(6)_
+        [[zou2 miu6-2 祖廟]]
+        a temple of Sh(a/)ngt(i/) [[上帝]];
+        an ancestral temple;
+    - _ling(6) (2)ts(o\)_
+        [[ling6 zou2 令祖]],
+        your grandfather;
+    - _(1)k(a/) (2)ts(o\)_
+        [[gaa1 zou2 家祖]],
+        my [live] [[these square brackets appear in the original text]] grandfather.
+    ==
+  ====
+C
+  ==
+  - Williams' 令祖: Corrected from 你令祖.
+  ==
 $$
 
 ### 蚤2 | _(2)Ts(o\)_ [[zou2]]
