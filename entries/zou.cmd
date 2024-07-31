@@ -253,6 +253,30 @@ W
         very early.
     ==
   ====
+E
+  ====
+  - 【晨早】 (san4 zou2):
+    ++
+    1. Very early on, ages ago.
+       ==
+       - 晨早去咗 (san4 zou2 heoi3 zo2): "[I] went ages ago."
+       ==
+    ++
+  - 【一早】 (jat1 zou2):
+    ++
+    1. Very early on, ages ago.
+       ==
+       - 一早話咗 (jat1 zou2 waa6 zo2): "Said [so] ages ago."
+       ==
+    ++
+  - 【早晨】 (zou2 san4):
+    ++
+    1. Good morning.
+       ==
+       - 早晨啊 (zou2 san4 a3): "Good morning!"
+       ==
+    ++
+  ====
 $$
 
 ### 蚤2 | _(2)Ts(o\)_ [[zou2]]
