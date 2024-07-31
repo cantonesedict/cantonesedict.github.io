@@ -1439,6 +1439,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $濈cap1
       - $澤zaak6
+      - $澡zou2
       ==
       </nav>
   //

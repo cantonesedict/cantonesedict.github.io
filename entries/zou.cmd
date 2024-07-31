@@ -189,6 +189,7 @@ $$
 =={.modern}
 - $早2
 - $棗2
+- $澡2
 - $祖2
 - $組2
 - $蚤2
@@ -308,6 +309,38 @@ W
       are emblematic of female virtue.
     ==
   ====
+$$
+
+### 澡2 | _(2)Ts(o\)_ [[zou2]]
+
+$$
+R
+  ⽔ + 13
+U
+  U+6FA1
+V
+  ==
+  - cou3 (common)
+  ==
+F
+  ==
+  - [[F2.13 澡 _(2)Ts(u/)_]] 洗滌
+  ==
+W
+  ====
+  - [[Page~584 (2)澡]]
+    ==
+    - To bathe, to wash the person;
+    - to cleanse the heart, to reform;
+    - _(2)sai (2)ts(o\)_
+        [[sai2 zou2]],
+        to bathe.
+    ==
+  ====
+S
+  ==
+  - $澡cou3 (TODO)
+  ==
 $$
 
 ### 祖2 | _(2)Ts(o\)_ [[zou2]]
