@@ -189,6 +189,7 @@ $$
 =={.modern}
 - $早2
 - $祖2
+- $組2
 - $蚤2
 ==
 </nav>
@@ -334,6 +335,31 @@ C
   ==
   - Williams' 令祖: Corrected from 你令祖.
   ==
+$$
+
+### 組2 | _(2)Ts(o\)_ [[zou2]]
+
+$$
+R
+  ⽷ + 5
+U
+  U+7D44
+F
+  ==
+  - [[F2.13 組 _(2)Ts(u/)_]] 綬也織也
+  ==
+W
+  ====
+  - [[Page~584 (2)組]]
+    ==
+    - A band, a fillet, a string, a tape,
+      for tying the dress or hair;
+    - a fringe or tuft of silk;
+    - _(2)k(a/)i (2)ts(o\) (1)kwai (4)t(')(i/)n_
+        [[gaai2 zou2 gwai1 tin4 解組歸田]],
+        to untie the cord and go home --- to resign office.
+    ==
+  ====
 $$
 
 ### 蚤2 | _(2)Ts(o\)_ [[zou2]]
