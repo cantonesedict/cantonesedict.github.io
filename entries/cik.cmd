@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cik
-* %date-modified --> 2024-07-15
+* %date-modified --> 2024-07-31
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -345,13 +345,26 @@ R
   ⿃ + 9
 U
   U+9D92
+A
+  ==
+  - $鷘1
+  ==
 F
-  [[Not present]]
+  ==
+  - [[F1.74 ⿰敕鳥]] ::[鸂]⿰敕鳥鳥名::
+  ==
 W
-  [[Not present]]
+  ====
+  - [[Page~15* 鷘(7); here normalised to 鶒]]
+    ==
+    - A bird with a crest which frequents brooks;
+    - a gay colored water-bird;
+    - a hoopoe?
+    ==
+  ====
 C
   ==
-  - Alternative form of 鷘. **See $鷘cik1 for the canonical entry.**
+  - Fan Wan entry: Corrected 雞 to 鸂.
   ==
 $$
 
@@ -362,10 +375,6 @@ R
   ⿃ + 11
 U
   U+9DD8
-A
-  ==
-  -{.modern} $鶒1
-  ==
 F
   ==
   - [[F1.74 ⿰敕鳥]] ::[鸂]⿰敕鳥鳥名::
@@ -373,11 +382,9 @@ F
 W
   ====
   - [[Page~15* 鷘(7)]]
-    ==
-    - A bird with a crest which frequents brooks;
-    - a gay colored water-bird;
-    - a hoopoe?
-    ==
+    --
+    [[Alternative form of 鶒. **See $鶒cik1 for the canonical entry.**]]
+    --
   ====
 C
   ==
