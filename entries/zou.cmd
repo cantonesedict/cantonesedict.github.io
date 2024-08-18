@@ -611,7 +611,7 @@ W
     ==
     - To do, to make, to act;
     - to be, to perform the duties of;
-    - much used for the next [[$造6]];
+    - much used for the next [[$造6]]; [[TODO]]
     - _ts(o\)(6) tak(7)_
         [[zou6 dak1 做得]]
         very well, it will do;
@@ -658,4 +658,45 @@ C
     to vernacular reading _(1)sh(a/)ng_ (saang1).
   - Williams' 做得唔鹹唔淡: Corrected _t(a/)m(6)_ (daam6 去聲) to _(5)t(')(a/)m_ (taam5 上聲).
   ==
+E
+  ====
+  - 【做】 (zou6):
+    ++
+    1. To work, to be employed.
+       ==
+       - 做嘢未 (zou6 je5 mei6): "[Do you] work yet?"
+       - 做廚 (zou6 cyu4-2): "Work [as a] chef."
+       - 冇嘢做 (mou5 je5 zou6): "Out of work."
+       ==
+    ++
+  - 【做乜】 (zou6 mat1):
+    ++
+    1. Synonym of [做乜嘢](#cantonese-做乜嘢).
+    ++
+  - 【做乜嘢】 (zou6 mat1 je5):
+    ++
+    1. Interrogative phrase pertaining to action.
+       ==
+       - 做乜嘢啊 (zou6 mat1 je5 a3): "What [are you] doing?"
+       ==
+    1. Interrogative phrase pertaining to something wrong.
+       ==
+       - 做乜嘢啊 (zou6 mat1 je5 a3): "What's [wrong]?"
+       - 你做乜嘢啊 (nei5 zou6 mat1 je5 a3): "What's with you?"
+       ==
+    1. Why.
+       ==
+       - 做乜嘢遲到啊 (zou6 mat1 je5 ci4 dou3 a3); "Why [are you] late?"
+       ==
+    ++
+  - 【做咩】 (zou6 me1):
+    ++
+    1. Short for [做乜嘢](#cantonese-做乜嘢).
+       ==
+       - 做咩啊 (zou6 me1 a3): "What [are you] doing?"
+       - 做咩啊 (zou6 me1 a3): "What's [wrong]?"
+       - 做咩喊啊 (zou6 me1 haam3 a3): "Why [are you] crying?"
+       ==
+    ++
+  ====
 $$
