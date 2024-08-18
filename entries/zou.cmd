@@ -510,6 +510,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $灶3
+- $竈3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -557,5 +558,26 @@ W
       _ts(o\)(3) (1)kwan_ [[zou3 gwan1 灶君]],
         God of the Furnace.
     ==
+  ====
+$$
+
+### 竈3 | _Ts(o\)(3)_ [[zou3]]
+
+$$
+R
+  ⽳ + 16
+U
+  U+7AC8
+F
+  ==
+  - [[F2.17 竈 _Ts(u/)(3)_]] 炊竈也
+  - [[F2.17 灶 _Ts(u/)(3)_]] 同上
+  ==
+W
+  ====
+  - [[Page~585 竈(3)灶(3)]]
+    --
+    [[Alternative form of 灶. **See $灶zou3 for the canonical entry.**]]
+    --
   ====
 $$
