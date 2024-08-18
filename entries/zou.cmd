@@ -24,6 +24,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [zou1](#1)
 - [zou2](#2)
 - [zou3](#3)
+- [zou6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -580,4 +581,81 @@ W
     [[Alternative form of 灶. **See $灶zou3 for the canonical entry.**]]
     --
   ====
+$$
+
+
+##{#6 .williams} Ts(o\)(6) [[zou6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $做6
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 做6 | _Ts(o\)(6)_ [[zou6]]
+
+$$
+R
+  ⼈ + 9
+U
+  U+505A
+F
+  ==
+  - [[F2.18 做 _Ts(u/)(6)_]] 作事曰做
+  ==
+W
+  ====
+  - [[Page~585 做(6)]]
+    ==
+    - To do, to make, to act;
+    - to be, to perform the duties of;
+    - much used for the next [[$造6]];
+    - _ts(o\)(6) tak(7)_
+        [[zou6 dak1 做得]]
+        very well, it will do;
+        yes;
+        I can do it, I will do it;
+    - _ts(o\)(6) (1)k(u/)n_
+        [[zou6 gun1 做官]],
+        to be an officer;
+    - _ts(o\)(6) muk(9)_
+        [[zou6 muk6 做⽊]]
+        is a carpenter;
+    - _ts(o\)(6) (2)tsau_
+        [[zou6 zau2 做酒]],
+        to prepare a feast;
+    - _ts(o\)(6) (2)h(i/) (4)yan_
+        [[zou6 hei2 jan4 做起人]],
+        a prosperous man;
+    - _ts(o\)(6) (1)[sh(a/)ng] (i/)(3)_
+        [[zou6 saang1 ji3 做生意]]
+        is in business, he trades;
+    - _(5)(u/)i ts(o\)(6) (4)yan_
+        [[wui5 zou6 jan4 會做人]],
+        he understands the world, popular;
+    - _(4)'m ts(o\)(6) tak(7)_
+        [[m4 zou6 dak1 唔做得]]
+        it will not do, isn't the thing;
+    - _(5)n(i/) ts(o\)(6) tak(7) (4)'m ts(o\)(6) tak(7)_
+        [[nei5 zou6 dak1 m4 zou6 dak1 你做得唔做得]]
+        can you undertake this, can you do it?
+    - _(5)n(i/) ts(o\)(6) mat(7) (5)y(e/)_
+        [[nei5 zou6 mat1 je5 你做乜嘢]]^
+        what are you doing?
+    - _ts(o\)(6) tak(7) (4)'m (4)h(a/)m (4)'m [(5)t(')(a/)m]_
+        [[zou6 dak1 m4 haam4 m4 taam5 做得唔鹹唔淡]]^
+        it's neither salt nor fresh---unsatisfactory;
+    - _ts(o\)(6) mat(7)_
+        [[zou6 mat1 做乜]]
+        wherefore, why?
+    ==
+  ====
+C
+  ==
+  - Williams' 做生意: Changed _(1)shang_ (sang1)
+    to vernacular reading _(1)sh(a/)ng_ (saang1).
+  - Williams' 做得唔鹹唔淡: Corrected _t(a/)m(6)_ (daam6 去聲) to _(5)t(')(a/)m_ (taam5 上聲).
+  ==
 $$
