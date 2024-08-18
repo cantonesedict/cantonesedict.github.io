@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zou
-* %date-modified --> 2024-07-31
+* %date-modified --> 2024-08-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [zou1](#1)
 - [zou2](#2)
+- [zou3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -498,6 +499,63 @@ W
     - A flea;
     - sand fleas, or those produced in sandy ground;
     - the rut or trace of a wheel.
+    ==
+  ====
+$$
+
+
+##{#3 .williams} Ts(o\)(3) [[zou3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $灶3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 灶3 | _Ts(o\)(3)_ [[zou3]]
+
+$$
+R
+  ⽕ + 3
+U
+  U+7076
+A
+  ==
+  - $竈3
+  ==
+F
+  ==
+  - [[F2.17 竈 _Ts(u/)(3)_]] 炊竈也
+  - [[F2.17 灶 _Ts(u/)(3)_]] 同上
+  ==
+W
+  ====
+  - [[Page~585 竈(3)灶(3)]]
+    ==
+    - A furnace;
+    - a place for cooking, a kitchen-range;
+    - a bunch of grass for fuel;
+    - _ts(o\)(3) kwat(7) (1)lung_
+        [[zou3 gwat1 lung4-1 灶骨窿]],
+        the hole for the fuel;
+    - _(2)k(i/) ts(o\)(3) (2)fo_
+        [[gei2 zou3 fo2 幾灶火]],
+        fired up several times, as in cooking with twigs or grass;
+    - _(2)t(a/) ts(o\)(3)_
+        [[daa2 zou3 打灶]]
+        to build a cooking-place;
+    - _(2)t(o\) ts(o\)(3)_
+        [[dou2 zou3 倒灶]]
+        upset the furnace, _i.~e._ failed, bankrupt;
+    - _(4)hang (4)sh(u")n ts(o\)(3)_
+        [[hang4 syun4 zou3 行船灶]]
+        portable furnaces, cabooses;
+    - _ts(o\)(3) (4)shan_ [[zou3 san4 灶神]]^
+        or
+      _ts(o\)(3) (1)kwan_ [[zou3 gwan1 灶君]],
+        God of the Furnace.
     ==
   ====
 $$
