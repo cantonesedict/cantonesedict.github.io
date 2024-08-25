@@ -590,6 +590,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $做6
+- $皁6
 - $皂6
 - $造6
 ==
@@ -704,6 +705,24 @@ E
   ====
 $$
 
+### 皁6 | _Ts(o\)(6)_ [[zou6]]
+
+$$
+R
+  ⽩ + 2
+U
+  U+7681
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~585 皁(6)皂(6)]]
+    --
+    [[Alternative form of 皂. **See $皂zou6 for the canonical entry.**]]
+    --
+  ====
+$$
+
 ### 皂6 | _Ts(o\)(6)_ [[zou6]]
 
 $$
@@ -713,7 +732,7 @@ U
   U+7682
 A
   ==
-  - $皁2
+  - $皁6
   ==
 F
   ==
