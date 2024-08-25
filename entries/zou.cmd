@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zou
-* %date-modified --> 2024-08-18
+* %date-modified --> 2024-08-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -590,6 +590,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $做6
+- $造6
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -611,7 +612,7 @@ W
     ==
     - To do, to make, to act;
     - to be, to perform the duties of;
-    - much used for the next [[$造6]]; [[TODO]]
+    - much used for the next [[$造6]];
     - _ts(o\)(6) tak(7)_
         [[zou6 dak1 做得]]
         very well, it will do;
@@ -654,6 +655,7 @@ W
   ====
 C
   ==
+  - Williams' "used for the next": I have not seen 做 used for 造.
   - Williams' 做生意: Changed _(1)shang_ (sang1)
     to vernacular reading _(1)sh(a/)ng_ (saang1).
   - Williams' 做得唔鹹唔淡: Corrected _t(a/)m(6)_ (daam6 去聲) to _(5)t(')(a/)m_ (taam5 上聲).
@@ -699,4 +701,72 @@ E
        ==
     ++
   ====
+$$
+
+### 造6 | _Ts(o\)(6)_ [[zou6]]
+
+$$
+R
+  ⾡ + 7
+U
+  U+9020
+H
+  May appear as either ⿺辶吿 or ⿰辶告 (assumed here),
+  depending on the font.
+F
+  ==
+  - [[F2.18 造 _Ts(u/)(6)_]] 建也作也爲也始也
+  ==
+W
+  ====
+  - [[Page~585 造(6)]]
+    ==
+    - To build, to make, to construct;
+    - to create;
+    - to act;
+    - to do;
+    - to begin, to commence;
+    - a crop;
+    - _k(i/)n(3) ts(o\)(6)_
+        [[gin3 zou6 建造]]
+        to build;
+    - _ts(o\)(6) f(a/)(3)_
+        [[zou6 faa3 造化]]
+        to create;
+    - _(2)h(o\) ts(o\)(6) f(a/)(3)_
+        [[hou2 zou6 faa3 好造化]]
+        good fortune;
+    - _kot(8) (4)wo ts(o\)(6)_
+        [[got3 wo4 zou6 割禾造]]
+        to cut the rice harvest;
+    - _(1)[sh(a/)ng] ts(o\)(6) ch(')ut(7) (4)lai_,
+        [[saang1 zou6 ceot1 lai4 生造出嚟]]
+        an entire fabrication, made out of whole cloth;
+    - _tsoi(3) ts(o\)(6)_
+        [[zoi3 zou6 再造]]
+        do it over again;
+    - _ts(o\)(6) (2)p(u/)n_
+        [[zou6 bun2 造本]],
+        to get some capital;
+    - _m(u/)t(9) ts(o\)(6) tong(3) (1)san ch(')ut(7)_
+        [[mut6 zou6 dong3 san1 ceot1 末造當新出]]
+        the last of the season is as good as a new crop;
+    - _(2)ts(o\) ts(o\)(6) (5)m(a/)n ts(o\)(6)_
+        [[zou2 zou6 maan5 zou6 早造晚造]]
+        the early crop, the late crop;
+    - _(2)h(a/)u ts(o\)(6)_
+        [[haau2 zou6 巧造]]
+        skillful work.
+    ==
+  ====
+C
+  ==
+  - Williams' 生造出嚟: Changed _(1)shang_ (sang1)
+    to vernacular reading _(1)sh(a/)ng_ (saang1).
+  ==
+S
+  ==
+  - $cou3 (TODO)
+  - $cou5 (TODO)
+  ==
 $$
