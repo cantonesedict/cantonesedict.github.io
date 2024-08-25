@@ -590,6 +590,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $做6
+- $皂6
 - $造6
 ==
 </nav>
@@ -701,6 +702,49 @@ E
        ==
     ++
   ====
+$$
+
+### 皂6 | _Ts(o\)(6)_ [[zou6]]
+
+$$
+R
+  ⽩ + 2
+U
+  U+7682
+A
+  ==
+  - $皁2
+  ==
+F
+  ==
+  - [[F2.18 皂 _Ts(u/)(6)_]] ::黑色又皂[隸]::
+  ==
+W
+  ====
+  - [[Page~585 皁(6)皂(6)]]
+    ==
+    - A black color;
+    - underlings, lictors, low officers who execute commands;
+    - a stud of twelve horses;
+    - a manger or pen;
+    - _ts(o\)(6) (1)p(a/)n_
+        [[zou6 baan1 皂班]],
+        torturers;
+    - _ts(o\)(6) tai(6)_
+        [[zou6 dai6 皂隸]]
+        lictors, understrappers;
+    - _(4)f(i/) ts(o\)(6)_
+        [[fei4 zou6 肥皂]]
+        a sort of fragrant soap;
+    - _ts(o\)(6) (4)f(a/)n_
+        [[zou6 faan4 皂礬]],
+        copperas.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿰⿱匕示隶 to 隸.
+  ==
 $$
 
 ### 造6 | _Ts(o\)(6)_ [[zou6]]
