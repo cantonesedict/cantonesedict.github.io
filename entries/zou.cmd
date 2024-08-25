@@ -593,6 +593,7 @@ $$
 - $皁6
 - $皂6
 - $祚6
+- $胙6
 - $造6
 ==
 </nav>
@@ -794,6 +795,37 @@ W
     - _(2)p(o\) (4)n(i/)n ts(o\)(6)_
         [[bou2 nin4 zou6 保年祚]]
         to recreate in one's old age.
+    ==
+  ====
+$$
+
+### 胙6 | _Ts(o\)(6)_ [[zou6]]
+
+$$
+R
+  ⾁ + 5
+U
+  U+80D9
+F
+  ==
+  - [[F2.18 胙 _Ts(u/)(6)_]] 祭肉
+  ==
+W
+  ====
+  - [[Page~585 胙(6)]]
+    ==
+    - Roasted flesh offered in sacrifices;
+    - to set up an altar to Ceres;
+    - to recompense, to reward;
+    - blessings, happiness;
+    - to bless;
+    - a seat, a place;
+    - _ts(o\)(6) yuk(9)_
+        [[zou6 juk6 胙肉]]
+        sacrificial flesh;
+    - _k(a/)k(8) ts(o\)(6)_
+        [[gaak3 zou6 革胙]]
+        to reject the oblation of an undutiful son.
     ==
   ====
 $$
