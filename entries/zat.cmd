@@ -196,7 +196,6 @@ E
        ==
     ++
   ====
-  <## TODO: 糟質 zou1 zat1 ##>
   <## TODO: 密質質 mat6 zat1 zat1 ##>
   <## TODO: 屈質 wat1 zat1 ##>
 S

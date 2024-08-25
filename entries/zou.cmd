@@ -136,6 +136,14 @@ W
         a wife who has passed through poverty with one.
     ==
   ====
+E
+  ====
+  - 【糟質】 (zou1 zat1):
+    ++
+    1. To treat harshly, to abuse, etc.
+       ==
+    ++
+  ====
 $$
 
 ### 遭1 | _(1)Ts(o\)_ [[zou1]]
