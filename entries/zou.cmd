@@ -595,6 +595,7 @@ $$
 - $祚6
 - $胙6
 - $造6
+- $阼6
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -896,4 +897,26 @@ S
   - $cou3 (TODO)
   - $cou5 (TODO)
   ==
+$$
+
+### 阼6 | _Ts(o\)(6)_ [[zou6]]
+
+$$
+R
+  ⾩ + 5
+U
+  U+963C
+F
+  ==
+  - [[F2.18 阼 _Ts(u/)(6)_]] 阼階東階也
+  ==
+W
+  ====
+  - [[Page~585 阼(6)]]
+    ==
+    - The steps on the east to ascend to the hall;
+    - steps;
+    - landing where the host receives his guest at the top of the stairs.
+    ==
+  ====
 $$
