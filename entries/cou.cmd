@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [cou1](#1)
+- [cou3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -52,7 +53,7 @@ $$
 </nav>
 <## /tone-1-characters ##>
 
-### 操1 | _(1)Ts(o\)_ [[cou1]]
+### 操1 | _(1)Ts(')(o\)_ [[cou1]]
 
 $$
 R
@@ -62,6 +63,7 @@ U
 F
   ==
   - [[F2.9 操 _(1)Ts(')(u/)_]] 操持
+  - [[F2.9 撡 _(1)Ts(')(u/)_]] 同上
   ==
 W
   ====
@@ -72,8 +74,7 @@ W
     - to exercise, to drill;
     - expert, used to;
     - to maintain, to restrain one's self, to moderate one's desires;
-    - a purpose, a design, self-imposed rule;
-    - consistent, principled;
+    - [[see $操cou3 for "integrity" senses]];
     - _(1)ts(')(o\) (2)(i/)n_ [[cou1 jin2 操演]]^
         or
       _h(a/)[(6)] (1)ts(')(o\)_ [[haa6 cou1 下操]],
@@ -98,6 +99,46 @@ C
   ==
 S
   ==
-  - $操cou3 (TODO)
+  - $操cou3
+  ==
+$$
+
+
+##{#3 .williams} Ts(')(o\)(3) [[cou3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $操3
+==
+</nav>
+<## /tone-3-characters ##>
+
+###+ 操3 | _Ts(')(o\)(3)_ (cou3)
+
+$$
+R
+  ⼿ + 13
+U
+  U+64CD
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~586 (1)操 _(1)Ts(')(o\)_ (cou1); here corrected to _Ts(')(o\)(3)_ (cou3)]]
+    ==
+    - [[...]];
+    - a purpose, a design, self-imposed rule;
+    - consistent, principled;
+    - [[...]].
+    ==
+  ====
+C
+  ==
+  - Williams' 下操: Corrected _(5)h(a/)_ (haa5) to _h(a/)(6)_ (haa6).
+  ==
+S
+  ==
+  - $操cou1
   ==
 $$

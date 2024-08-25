@@ -453,6 +453,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $操cou1
+      - $操cou3
       - $撾zaa1
       - $擇zaak6
       - $擳zit1
