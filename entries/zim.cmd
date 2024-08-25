@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zim
-* %date-modified --> 2024-07-15
+* %date-modified --> 2024-08-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -681,6 +681,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $漸6
+- $魙6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -729,4 +730,23 @@ S
   ==
   - $漸zim1
   ==
+$$
+
+### 魙6 | _Ts(i/)m(6)_ [[zim6]]
+
+$$
+R
+  ⿁ + 14
+U
+  U+9B59
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~728 魙(6)]]
+    ==
+    - A prince of demons, at the sight of whom ogres and vampires flee;
+    - used as a charm.
+    ==
+  ====
 $$
