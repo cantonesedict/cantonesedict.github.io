@@ -787,6 +787,7 @@ For all radicals, see [Index of characters by radical](./).
       - $祗zi1
       - $祗zi2
       - $祖zou2
+      - $祚zou6
       ==
       </nav>
   //

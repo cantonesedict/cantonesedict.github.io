@@ -592,6 +592,7 @@ $$
 - $做6
 - $皁6
 - $皂6
+- $祚6
 - $造6
 ==
 </nav>
@@ -764,6 +765,37 @@ C
   ==
   - Fan Wan entry: Corrected ⿰⿱匕示隶 to 隸.
   ==
+$$
+
+### 祚6 | _Ts(o\)(6)_ [[zou6]]
+
+$$
+R
+  ⽰ + 5
+U
+  U+795A
+F
+  ==
+  - [[F2.18 祚 _Ts(u/)(6)_]] 福也又後裔
+  ==
+W
+  ====
+  - [[Page~585 祚(6)]]
+    ==
+    - Happiness derived from wealth or office;
+    - dignities, felicity;
+    - a year;
+    - _fuk(7) ts(o\)(6)_
+        [[fuk6 zou6 福祚]]
+        good fortune;
+    - _kwok(8) ts(o\)(6)_
+        [[gwok3 zou6 國祚]]
+        long duration, as of a dynasty;
+    - _(2)p(o\) (4)n(i/)n ts(o\)(6)_
+        [[bou2 nin4 zou6 保年祚]]
+        to recreate in one's old age.
+    ==
+  ====
 $$
 
 ### 造6 | _Ts(o\)(6)_ [[zou6]]
