@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2024-08-25
+* %date-modified --> 2024-08-26
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -110,6 +110,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $操3
+- $譟3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -140,5 +141,31 @@ C
 S
   ==
   - $操cou1
+  ==
+$$
+
+### 譟3 | _Ts(')(o\)(3)_ [[cou3]]
+
+$$
+R
+  ⾔ + 13
+U
+  U+8B5F
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~728 譟(3)]]
+    ==
+    - The noise of a crowd;
+    - a clamor, a disturbance;
+    - _(4)yan (1)to (2)k(u/) [ts(')(o\)](3)_
+        [[jan4 do1 gu2 cou3 人多鼓譟]]
+        a great hallooing.
+    ==
+  ====
+C
+  ==
+  - Williams' 人多鼓譟: Corrected _ts'(o\)(3)_ to _ts(')(o\)(3)_.
   ==
 $$
