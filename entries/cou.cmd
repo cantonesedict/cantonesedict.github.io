@@ -283,6 +283,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $徂4
+- $曹4
 - $殂4
 ==
 </nav>
@@ -309,6 +310,46 @@ W
     - _(4)ts(')(o\) ts(e/)(6)_
         [[cou4 ze6 徂謝]]
         to fade, as flowers.
+    ==
+  ====
+$$
+
+### 曹4 | _(4)Ts(')(o\)_ [[cou4]]
+
+$$
+R
+  ⽈ + 7
+U
+  U+66F9
+F
+  ==
+  - [[F2.12 曹 _(4)Ts(')(u/)_]] 局也衆也軰也又同事曰曹
+  ==
+W
+  ====
+  - [[Page~586 (4)曹]]
+    ==
+    - A sort of revising judge;
+    - a judge of appeals;
+    - a place where officers meet;
+    - a company, a class;
+    - denotes the plural of persons;
+    - _luk(9) (4)ts(')(o\)_
+        [[luk6 cou4 六曹]],
+        the six Boards;
+    - _(1)t(')(i/)n (4)ts(')(o\)_ [[tin1 cou4 天曹]]^
+        and
+      _(1)yam (4)ts(')(o\)_ [[jam1 cou4 陰曹]],
+        gods and devils;
+    - _(5)(i/) (4)ts(')(o\)_
+        [[ji5 cou4 爾曹]],
+        you;
+    - _(1)k(u/)n (4)ts(')(o\)_
+        [[gun1 cou4 官曹]],
+        officers;
+    - _(4)Ts(')(o\) (1)Ts(')(o\)_
+        [[cou4 cou1 曹操]],
+        a famous general A.D.~250.
     ==
   ====
 $$
