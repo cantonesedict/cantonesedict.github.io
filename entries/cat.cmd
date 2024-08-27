@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cat
-* %date-modified --> 2024-07-15
+* %date-modified --> 2024-08-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -106,7 +106,7 @@ W
         to write seven essays.
     ==
     --
-    [[**See $柒cat1 for remarks on the alternative form.**]]
+    [[**See $柒cat1 for the alternative form.**]]
     --
   ====
 C
@@ -145,7 +145,7 @@ W
   ====
 C
   ==
-  - Alternative form of 七 (to prevent forgery). **See $七cat1 for the canonical entry.**
+  - Alternative form of 七 (to prevent alteration). **See $七cat1 for the canonical entry.**
   ==
 $$
 
