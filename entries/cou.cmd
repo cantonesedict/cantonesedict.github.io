@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [cou1](#1)
 - [cou3](#3)
+- [cou4](#4)
 ==
 </nav>
 <## /tones ##>
@@ -273,4 +274,40 @@ C
   ==
   - Williams' 人多鼓譟: Corrected _ts'(o\)(3)_ to _ts(')(o\)(3)_.
   ==
+$$
+
+
+##{#4 .williams} (4)Ts(')(o\) [[cou4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways">
+=={.modern}
+- $徂4
+==
+</nav>
+<## /tone-4-characters ##>
+
+### 徂4 | _(4)Ts(')(o\)_ [[cou4]]
+
+$$
+R
+  ⼻ + 5
+U
+  U+5F82
+F
+  ==
+  - [[F2.12 徂 _(4)Ts(')(u/)_]] 往也落也
+  ==
+W
+  ====
+  - [[Page~586 (4)徂]]
+    ==
+    - To go up;
+    - to proceed, to travel;
+    - to preserve, to lay up;
+    - _(4)ts(')(o\) ts(e/)(6)_
+        [[cou4 ze6 徂謝]]
+        to fade, as flowers.
+    ==
+  ====
 $$
