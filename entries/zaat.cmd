@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaat
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-08-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -349,10 +349,10 @@ E
   ++
   1. Whilst 陳凱文's text refers to the 1877 edition
      of Eitel's ''[A] Chinese Dictionary in the Cantonese Dialect''
-     (wherein 甴 is found under _K(a/)t(9)_ (gaat6) on [Page~228][1877-甴])^,
+     (wherein 甴 is found under _K(a/)t(9)_ (gaat6) on [Page~^228][1877-甴])^,
      陳凱文's screenshot is actually of the *1910* edition of Eitel's dictionary
      *revised and enlarged by Immanuel Gottlieb Genähr*
-     (wherein 甴 is found under _K(a/)t(9)_ (gaat6) on [Page~330][1910-甴]).
+     (wherein 甴 is found under _K(a/)t(9)_ (gaat6) on [Page~^330][1910-甴]).
   1. In my copy of [《商務新字典》], whose colophon has 9th~print, August~1996
      as the latest entry in the list of editions,
      the native reading for 甴 (on Page~^438, under Radical~⽥) is "〔駕壓切低入〕",

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2024-07-28
+* %date-modified --> 2024-08-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -748,16 +748,16 @@ E
     ++
     1. To match, to suit.
        ==
-       1. 佢哋幾襯吖 (keoi5 dei6 gei2 can3 a1): "They [do] quite match [each other]."
-       1. 撞色唔襯 (zong6 sik1 m4 can3): "[The] colours clash [and] don't suit."
+       - 佢哋幾襯吖 (keoi5 dei6 gei2 can3 a1): "They [do] quite match [each other]."
+       - 撞色唔襯 (zong6 sik1 m4 can3): "[The] colours clash [and] don't suit."
        ==
     ++
   - 【老襯】 (lou5 can3):
     ++
     1. A gullible person.
        ==
-       1. 做老襯 (zou6 lou5 can3): "Be [a] mug."
-       1. 搵老襯 (wan2 lou5 can3): "Find [a] sucker of [someone]" (i.e. trick a gullible person).
+       - 做老襯 (zou6 lou5 can3): "Be [a] mug."
+       - 搵老襯 (wan2 lou5 can3): "Find [a] sucker of [someone]" (i.e. trick a gullible person).
        ==
     ++
   ====

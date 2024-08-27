@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caang
-* %date-modified --> 2024-07-12
+* %date-modified --> 2024-08-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -248,7 +248,6 @@ E
   ::K. (:鐺:) [...]^(:又:)《廣韻》(:楚庚切:)《集韻》《韻會》(:楚耕切:)𠀤音鎗\
   (:釜屬:)《通俗文》(:鬴有足曰鐺:)[...]::
   """"
-  ==
   --
   The full story is that:
   --

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zou
-* %date-modified --> 2024-08-25
+* %date-modified --> 2024-08-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -135,7 +135,6 @@ E
   - 【糟質】 (zou1 zat1):
     ++
     1. To treat harshly, to abuse, etc.
-       ==
     ++
   ====
 $$

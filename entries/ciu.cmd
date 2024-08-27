@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ciu
-* %date-modified --> 2024-07-22
+* %date-modified --> 2024-08-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -720,7 +720,7 @@ U
   U+6194
 F
   ==
-  - [[F2.5 ::[憔]:]] ::[憔]悴？苦貌::
+  - [[F2.5 ::[憔]::]] ::[憔]悴？苦貌::
   ==
 W
   ====
