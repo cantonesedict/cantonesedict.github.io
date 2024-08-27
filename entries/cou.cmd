@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2024-08-26
+* %date-modified --> 2024-08-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -49,6 +49,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $操1
+- $粗1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -100,6 +101,78 @@ C
 S
   ==
   - $操cou3
+  ==
+$$
+
+### 粗1 | _(1)Ts(')(o\)_ [[cou1]]
+
+$$
+R
+  ⽶ + 5
+U
+  U+7C97
+A
+  ==
+  - $麤1
+  ==
+F
+  ==
+  - [[F2.9 粗 _(1)Ts(')(u/)_]] 不精也臭惡也
+  - [[F2.9 麄 _(1)Ts(')(u/)_]] 同上
+  - [[F2.9 麤 _(1)Ts(')(u/)_]] 同上
+  ==
+W
+  ====
+  - [[Page~586 (1)粗(1)麤]]
+    ==
+    - Coarse, uncleaned, dirty, as rice just thrashed;
+    - large, open, coarse;
+    - rude, vulgar, boisterous, unpolished;
+    - gross, indecent, dirty;
+    - harsh, as a voice;
+    - partially, rudely;
+    - _(1)ts(')(o\) yau(3)_
+        [[cou1 jau3 粗幼]]
+        coarse or fine, as cloth;
+    - _(1)ts(')(o\) tsuk(9) (4)yan_
+        [[cou1 zuk6 jan4 粗俗人]],
+        a rough vulgar man;
+    - _(1)ts(')(o\) (5)l(o\)_
+        [[cou1 lou5 粗魯]],
+        rough, unmannerly;
+    - _(1)ts(')(o\) (1)ch(i/)_
+        [[cou1 zi1 粗知]],
+        partly knew it;
+    - _(1)ts(')(o\) w(a/)(6)_
+        [[cou1 waa6-2 粗話]]
+        obscene language;
+    - _(1)ts(')(o\) shik(9)_
+        [[cou1 sik6 粗食]]
+        coarse food;
+        a gross eater;
+    - _(1)ts(')(o\) (4)(u")n_
+        [[cou1 jun4 粗完]],
+        nearly done;
+    - _(2)shau (1)ts(')(o\)_
+        [[sau2 cou1 手粗]],
+        a large hand;
+    - _(1)ts(')(o\) (1)sam (4)fau h(i/)(3)_
+        [[cou1 sam1 fau4 hei3 粗心浮氣]]
+        light, inattentive, giddy;
+    - _(1)ts(')(o\) (2)shai t(a/)i(6) yung(6)_
+        [[cou1 sai2 daai6 jung6 粗使大用]]
+        careless in spending money;
+    - _(1)(u/) (1)ts(')(o\)_
+        [[wu1 cou1 污粗]],
+        dirty, unwashed.
+    ==
+    --
+    [[**See $麤cou1 for the alternative form.**]]
+    --
+  ====
+C
+  ==
+  - Williams' 污粗: Should be 污糟.
   ==
 $$
 
