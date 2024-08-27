@@ -283,6 +283,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $徂4
+- $殂4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -308,6 +309,31 @@ W
     - _(4)ts(')(o\) ts(e/)(6)_
         [[cou4 ze6 徂謝]]
         to fade, as flowers.
+    ==
+  ====
+$$
+
+### 殂4 | _(4)Ts(')(o\)_ [[cou4]]
+
+$$
+R
+  ⽍ + 5
+U
+  U+6B82
+F
+  ==
+  - [[F2.12 殂 _(4)Ts(')(u/)_]] 死也㓕也
+  ==
+W
+  ====
+  - [[Page~586 (4)殂]]
+    ==
+    - To die;
+    - dead;
+    - a path to the grave;
+    - _(4)ts(')(o\) lok(9)_
+        [[cou4 lok6 殂落]]
+        to pass away, to die.
     ==
   ====
 $$
