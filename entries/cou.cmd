@@ -50,6 +50,7 @@ $$
 =={.modern}
 - $操1
 - $粗1
+- $麤1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -113,6 +114,7 @@ U
   U+7C97
 A
   ==
+  -{.modern} 麄
   - $麤1
   ==
 F
@@ -173,6 +175,36 @@ W
 C
   ==
   - Williams' 污粗: Should be 污糟.
+  ==
+$$
+
+### 麤1 | _(1)Ts(')(o\)_ [[cou1]]
+
+$$
+R
+  ⿅ + 22
+U
+  U+9EA4
+F
+  ==
+  - [[F2.9 粗 _(1)Ts(')(u/)_]] 不精也臭惡也
+  - [[F2.9 麄 _(1)Ts(')(u/)_]] 同上
+  - [[F2.9 麤 _(1)Ts(')(u/)_]] 同上
+  ==
+W
+  ====
+  - [[Page~586 (1)粗(1)麤]]
+    --
+    [[...]]
+    --
+    ==
+    - The second form [[麤]] also means to take long leaps as a deer;
+    - to take precautions.
+    ==
+  ====
+C
+  ==
+  - Otherwise, an alternative form of 粗. **See $粗cou1 for the canonical entry.**
   ==
 $$
 
