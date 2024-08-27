@@ -282,12 +282,65 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $嘈4
 - $徂4
 - $曹4
 - $殂4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### [嘈]4 | _(4)Ts(')(o\)_ [[cou4]]
+
+$$
+R
+  ⼝ + 11
+U
+  U+5608
+F
+  ==
+  - [[F2.12 嘈 _(4)Ts(')(u/)_]] ::[喧]也又胡酒也::
+  ==
+W
+  ====
+  - [[Page~586 (4)嘈]]
+    ==
+    - Noise, clamor, hubbub;
+    - an outcry;
+    - to make a din;
+    - to vociferate;
+    - _(4)ts(')(o\) n(a/)u(6)_
+        [[cou4 naau6 嘈鬧]]
+        wrangling, squabbling;
+    - _(1)h(u") k(o\)m(3) (4)ts(')(o\)_
+        [[heoi1 gam3 cou4 墟咁嘈]],
+        noisy as a market;
+    - _(4)ts(')(o\) (4)ts(')(o\) pai(3)_
+        [[cou4 cou4 bai3 嘈嘈閉]]
+        a brawl;
+    - _(5)mai (4)ts(')(o\) (4)yan (5)(i/)_
+        [[mai5 cou4 jan4 ji5 咪嘈人耳]],
+        don't deafen people with your noise;
+    - _(4)l(o\) (4)ts(')(o\)_
+        [[lou4 cou4 嘮嘈]],
+        rude, rough, unmannerly;
+    - _shap(9) (1)fan (4)ts(')(o\) h(i/)(3)_
+        [[sap6 fan1 cou4 hei3 十分嘈氣]]
+        panting after an angry brawl;
+    - _(4)ts(')(o\) (4)ts(')(o\) (2)ch(')(a/)u (2)ch(')(a/)u_
+        [[cou4 cou4 caau2 caau2 嘈嘈吵吵]],
+        a tumult, squalling, as tanka women do;
+    - _(4)'m (2)h(o\) (4)ts(')(o\)_
+        [[m4 hou2 cou4 唔好嘈]],
+        don't make a noise.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿰口冋 to 喧.
+  - Williams misprints 嘈 as ⿰口⿱曲曰; here corrected.
+  ==
+$$
 
 ### 徂4 | _(4)Ts(')(o\)_ [[cou4]]
 
