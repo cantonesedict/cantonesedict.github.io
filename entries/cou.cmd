@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2024-08-27
+* %date-modified --> 2024-09-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -285,6 +285,7 @@ $$
 - $嘈4
 - $徂4
 - $曹4
+- $槽4
 - $殂4
 ==
 </nav>
@@ -405,6 +406,44 @@ W
         a famous general A.D.~250.
     ==
   ====
+$$
+
+### 槽4 | _(4)Ts(')(o\)_ [[cou4]]
+
+$$
+R
+  ⽊ + 11
+U
+  U+69FD
+F
+  ==
+  - [[F2.12 槽 _(4)Ts(')(u/)_]] ::馬槽[滿]槽::
+  ==
+W
+  ====
+  - [[Page~586 (4)槽]]
+    ==
+    - A trough, a log channeled out, a manger;
+    - a vat, a tub for spirits;
+    - a sort of fruit;
+    - _(5)m(a/) (4)ts(')(o\)_
+        [[maa5 cou4 馬槽]],
+        a manger;
+    - _(2)tsau (4)ts(')(o\)_
+        [[zau2 cou4 酒槽]],
+        a wine vat;
+    - _(4)ts(')(o\) (1)fong_
+        [[cou4 fong1 槽坊]],
+        a grogshop;
+    - _(2)shui (4)ts(')(o\)_
+        [[seoi2 cou4 水槽]],
+        an eaves-trough, a horse-trough.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿰冫㒼 to 滿.
+  ==
 $$
 
 ### 殂4 | _(4)Ts(')(o\)_ [[cou4]]
