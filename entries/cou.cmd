@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2024-09-01
+* %date-modified --> 2024-09-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -287,6 +287,7 @@ $$
 - $曹4
 - $槽4
 - $殂4
+- $漕4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -467,6 +468,44 @@ W
     - _(4)ts(')(o\) lok(9)_
         [[cou4 lok6 殂落]]
         to pass away, to die.
+    ==
+  ====
+$$
+
+### 漕4 | _(4)Ts(')(o\)_ [[cou4]]
+
+$$
+R
+  ⽔ + 11
+U
+  U+6F15
+V
+  ==
+  - zou6 (alternative per 《廣韻》在到切 for "water-transport" sense)
+  ==
+F
+  ==
+  - [[F2.12 漕 _(4)Ts(')(u/)_]] 衞邑也又以水運糧曰漕運
+  ==
+W
+  ====
+  - [[Page~586 (4)漕]]
+    ==
+    - A mill-race, a sluice through which water runs;
+    - a gulf, a gorge;
+    - a canal;
+    - to lead on water, to turn a water course;
+    - to convey revenue to Peking [[北京]];
+    - occurs used for the next [[$艚4]];
+    - _(4)ts(')(o\) wan(6)_
+        [[cou4 wan6 漕運]]
+        to transport grain, to take it to the army;
+    - _(4)ts(')(o\) (4)ho_
+        [[cou4 ho4 漕河]],
+        the Grand Canal;
+    - _(4)ts(')(o\) wai(6)_
+        [[cou4 wai6 漕衛]]
+         a fortified city.
     ==
   ====
 $$
