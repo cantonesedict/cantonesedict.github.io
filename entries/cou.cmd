@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2024-09-06
+* %date-modified --> 2024-09-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -288,6 +288,7 @@ $$
 - $槽4
 - $殂4
 - $漕4
+- $艚4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -506,6 +507,36 @@ W
     - _(4)ts(')(o\) wai(6)_
         [[cou4 wai6 漕衛]]
          a fortified city.
+    ==
+  ====
+$$
+
+### 艚4 | _(4)Ts(')(o\)_ [[cou4]]
+
+$$
+R
+  ⾈ + 11
+U
+  U+825A
+A
+  ==
+  - $漕4
+  ==
+F
+  ==
+  - [[F2.12 艚 _(4)Ts(')(u/)_]] 艚船
+  ==
+W
+  ====
+  - [[Page~586 (4)艚]]
+    ==
+    - A junk, a smack;
+    - _p(a/)k(9) (4)ts(')(o\) (4)sh(u")n_
+        [[baak6 cou4 syun4 白艚船]],
+        sea-going junks;
+    - _(4)ts(')(o\) (2)tsai_
+        [[cou4 zai2 艚仔]],
+        small junks.
     ==
   ====
 $$
