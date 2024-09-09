@@ -289,6 +289,7 @@ $$
 - $殂4
 - $漕4
 - $艚4
+- $螬4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -537,6 +538,29 @@ W
     - _(4)ts(')(o\) (2)tsai_
         [[cou4 zai2 艚仔]],
         small junks.
+    ==
+  ====
+$$
+
+### 螬4 | _(4)Ts(')(o\)_ [[cou4]]
+
+$$
+R
+  ⾍ + 11
+U
+  U+87AC
+F
+  ==
+  - [[F2.12 螬 _(4)Ts(')(u/)_]] 虫名
+  ==
+W
+  ====
+  - [[Page~587 (4)艚]]
+    ==
+    - Maggots in ordure;
+    - _(4)ts(')ai (4)ts(')(o\)_
+        [[cai4 cou4 蠐螬]],
+        grubs found in filth, which curl themselves up.
     ==
   ====
 $$
