@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [cou1](#1)
+- [cou2](#2)
 - [cou3](#3)
 - [cou4](#4)
 ==
@@ -207,6 +208,99 @@ C
   ==
   - Otherwise, an alternative form of 粗. **See $粗cou1 for the canonical entry.**
   ==
+$$
+
+
+##{#2 .williams} (2)Ts(')(o\) [[cou2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $草2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 草2 | _(2)Ts(')(o\)_ [[cou2]]
+
+$$
+R
+  ⾋ + 6
+U
+  U+8349
+A
+  ==
+  - $艸2
+  ==
+F
+  ==
+  - [[F2.14 草 _(2)Ts(')(u/)_]] 草木
+  - [[F2.14 艸 _(2)Ts(')(u/)_]] 同上
+  ==
+W
+  ====
+  - [[Page~587 (2)草(2)艸]]
+    ==
+    - Herbs, grasses, plants with herbaceous stems;
+    - plants in general;
+    - hastily, carelessly;
+    - the running hand;
+    - a rough copy, original draft;
+    - the 140th~radical of characters relating to herbs;
+    - to cut grass, to mow;
+    - _(2)ts(')(o\) muk(9)_
+        [[cou2 muk6 草木]]
+        plants;
+    - _(2)t(a/) (2)ts(')(o\) (4)ts(')am (4)sh(e/)_
+        [[daa2 cou2 cam4 se4 打草尋蛇]],
+        to beat the grass for snakes, _i.~e._ to devise evil;
+    - _(2)ts(')(o\) (2)ts(')(o\) (5)li(u/) sz'(6)_
+        [[cou2 cou2 liu5 si6 草草了事]]
+        to finish up jobs heedlessly;
+    - _(2)ts(')(o\) (1)sh(u")_
+        [[cou2 syu1 草書]],
+        [running] hand;
+    - _(2)ts(')(o\) (2)ts(')(o\)_
+        [[cou2 cou2 草草]],
+        toilsome[,] troublesome, careless, lenient;
+    - _(2)ts(')(o\) (2)k(o\)_
+        [[cou2 gou2 草稿]],
+        first proof, a rough copy;
+    - _(2)ts(')(o\) (1)p(a/)u_
+        [[cou2 baau1 草包]],
+        an irascible man;
+    - _(4)wo (2)ts(')(o\)_
+        [[wo4 cou2 禾草]],
+        rice straw;
+    - _(2)ts(')(o\) (1)kan (1)f(u/)i_
+        [[cou2 gan1 fui1 草根灰]],
+        mortar with straw;
+    - _(1)f(a/) (2)ts(')(o\)_
+        [[faa1 cou2 花草]],
+        flowers, adorned with plants;
+    - _(4)'m (2)h(o\) (1)f(a/) (2)ts(')(o\)_
+        [[m4 hou2 faa1 cou2 唔好花草]],
+        not well carved;
+    - _(2)ts(')(o\) (4)p(')(a/)ng_
+        [[cou2 paang4 草棚]],
+        a thatched roof, any thatch;
+    - _(2)ts(')(o\) [(1)k(a/)n] (4)yan meng(6)_
+        [[cou2 gaan1 jan4 meng6 草菅人命]]
+        to trifle with people's lives, as charlatans do.
+    ==
+  ====
+C
+  ==
+  - Williams' 草菅人命: Corrected _(2)k(u/)n_ (gun2) to _(1)k(a/)n_ (gaan1).
+    Williams has likely misread 菅 as 管.
+  ==
+E
+  ====
+  - 【草花頭】 (cou2 faa1 tau4-2):
+    ++
+    1. The character component 艹. (Literally, "grass flower atop".)
+    ++
+  ====
 $$
 
 
