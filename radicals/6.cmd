@@ -918,6 +918,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Character entry links
 |:
   //
+    , 0
+    ,
+      <nav class="sideways">
+      ==
+      - $艸cou2
+      ==
+      </nav>
+  //
     , 3
     ,
       <nav class="sideways">

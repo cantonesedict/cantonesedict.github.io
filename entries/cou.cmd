@@ -216,10 +216,32 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $艸2
 - $草2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 艸2 | _(2)Ts(')(o\)_ [[cou2]]
+
+$$
+R
+  ⾋ + 0
+U
+  U+8278
+F
+  ==
+  - [[F2.14 草 _(2)Ts(')(u/)_]] 草木
+  - [[F2.14 艸 _(2)Ts(')(u/)_]] 同上
+  ==
+W
+  ====
+  - [[Page~587 (2)草(2)艸]]
+    --
+    [[Alternative form of 草. **See $草cou2 for the canonical entry.**]]
+    --
+  ====
+$$
 
 ### 草2 | _(2)Ts(')(o\)_ [[cou2]]
 
