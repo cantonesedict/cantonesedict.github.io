@@ -751,6 +751,10 @@ W
         to lay up.
     ==
   ====
+C
+  ==
+  - This reading is also used in the place name 新造.
+  ==
 E
   ====
   - 【造】 (cou5):
