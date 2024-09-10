@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ze
-* %date-modified --> 2024-05-28
+* %date-modified --> 2024-09-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -62,6 +62,9 @@ R
   ⼝ + 8
 U
   U+556B
+H
+  May appear with 者 dotless (+8 assumed here) or dotted (+9),
+  depending on the font.
 F
   [[Not present]]
 W
@@ -403,6 +406,9 @@ R
   ⾚ + 8
 U
   U+8D6D
+H
+  May appear with 者 dotless (+8 assumed here) or dotted (+9),
+  depending on the font.
 F
   ==
   - [[F2.84 赭]] 赤色
@@ -576,6 +582,9 @@ R
   ⼝ + 8
 U
   U+556B
+H
+  May appear with 者 dotless (+8 assumed here) or dotted (+9),
+  depending on the font.
 F
   [[Not present]]
 W
