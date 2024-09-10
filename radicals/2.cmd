@@ -754,6 +754,14 @@ For all radicals, see [Index of characters by radical](./).
       ==
       </nav>
   //
+    , 8
+    ,
+      <nav class="sideways">
+      ==
+      - $厝cou3
+      ==
+      </nav>
+  //
     , 9
     ,
       <nav class="sideways">

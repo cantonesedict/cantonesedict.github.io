@@ -366,6 +366,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $厝3
 - $噪3
 - $懆3
 - $操3
@@ -377,6 +378,49 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 厝3 | _Ts(')(o\)(3)_ [[cou3]]
+
+$$
+R
+  ⼚ + 8
+U
+  U+539D
+F
+  ==
+  - [[F2.16 措 _Ts(')(u/)(3)_]] 處置也安着也施布也又委置也
+  - [[F2.16 厝 _Ts(')(u/)(3)_]] 同上又安頓也
+  ==
+W
+  ====
+  - [[Page~587 厝(3)]]
+    ==
+    - A large flat stone, fit for a gravestone;
+    - to place, to put a body away properly;
+    - interchanged with the next [[$措3]];
+    - _(1)on ts(')(o\)(3)_
+        [[on1 cou3 安厝]]
+        to put a coffin in the grave or under a lodge;
+        quietly reposing;
+    - _ts(')(o\)(3) ch(u")(3)_
+        [[cou3 zyu3 厝註]]
+        to cut an epitaph.
+    ==
+  ====
+C
+  ==
+  - Williams' "large flat stone, fit for a gravestone" and 厝註:
+    Williams seems to have conflated the "whetstone" sense,
+    which should be read in entering tone _ts(')ok(8)_ (cok3)^,
+    with the "placement" sense _ts(')(o\)(3)_ (cou3).
+    Unlike the "placement" sense, the "whetstone" sense
+    has no connotations with burial.
+  ==
+S
+  ==
+  - $厝cok3 (TODO)
+  ==
+$$
 
 ### 噪3 | _Ts(')(o\)(3)_ [[cou3]]
 
