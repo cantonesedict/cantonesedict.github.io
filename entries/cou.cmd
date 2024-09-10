@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2024-09-09
+* %date-modified --> 2024-09-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -25,6 +25,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [cou2](#2)
 - [cou3](#3)
 - [cou4](#4)
+- [cou5](#5)
 ==
 </nav>
 <## /tones ##>
@@ -679,4 +680,65 @@ W
         grubs found in filth, which curl themselves up.
     ==
   ====
+$$
+
+
+##{#5 .williams} (5)Ts(')(o\) [[cou5 陽上]]
+
+<## tone-5-characters ##>
+<nav class="sideways">
+=={.modern}
+- $造5
+==
+</nav>
+<## /tone-5-characters ##>
+
+### 造5 | _(5)Ts(')(o\)_ [[cou5]]
+
+$$
+R
+  ⾡ + 7
+U
+  U+9020
+H
+  May appear as either ⿺辶吿 or ⿰辶告 (assumed here),
+  depending on the font.
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~587 (5)造]]
+    --
+    A colloquial word.
+    --
+    ==
+    - To collect, to lay up, to heap up;
+    - to lay by, to pay instalments, to pay in savings;
+    - _yat(7) (4)ts(')(i/)n (5)ts(')(o\) yat(7) (4)ts(')(i/)n_
+        [[jat1 cin4 cou5 jat1 cin4 一錢造一錢]],
+        for one mace lay up another;
+    - _(2)si(u/) (4)ts(')(i/)n (5)ts(')(o\) t(a/)i(6) (4)ts(')(i/)n_
+        [[siu2 cin4 cou5 daai6 cin4 小錢造大錢]],
+        a little farthing will grow to a large penny;
+    - _(5)ts(')(o\) (4)m(a/)i_
+        [[cou5 maai4 造埋]],
+        to lay up.
+    ==
+  ====
+E
+  ====
+  - 【造】 (cou5):
+    ++
+    1. To collect, to gather, to accumulate.
+       ==
+       - 造錢 (cou5 cin4-2): "Save up money."
+       - 造銀仔 (cou5 ngan4-2 zai2): "Collect coins."
+       ==
+    ++
+  ====
+S
+  ==
+  - $造cou3 (TODO)
+  - $造zou6
+  ==
 $$
