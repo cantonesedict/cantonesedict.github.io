@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Home
-* %date-modified --> 2024-07-08
+* %date-modified --> 2024-09-10
 * %copyright-prior-years --> 2023--
 * %modern-colour --> crimson
 * %meta-description --> home page
@@ -189,7 +189,8 @@ consisting of:
 1. Normalisation of characters and readings to account for modern usage;
 
 1. Transcribing its entries
-   (<span class="williams">black serif text</span>);
+   (<span class="williams">black serif text</span>)
+   with bullet list formatting for readability;
 
 1. Making corrections to typos
    <span class="williams">[in square brackets]</span>;
