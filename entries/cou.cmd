@@ -376,6 +376,7 @@ $$
 - $譟3
 - $躁3
 - $造3
+- $醋3
 - $錯3
 ==
 </nav>
@@ -696,6 +697,56 @@ S
   - $造cou5
   - $造zou6
   ==
+$$
+
+### 醋3 | _Ts(')(o\)(3)_ [[cou3]]
+
+$$
+R
+  ⾣ + 8
+U
+  U+918B
+F
+  ==
+  - [[F2.16 醋 _Ts(')(u/)(3)_]] 酒醋
+  ==
+W
+  ====
+  - [[Page~588 醋(3)]]
+    ==
+    - Vinegar;
+    - pickle;
+    - pickled;
+    - _(2)tsau ts(')(o\)(3)_
+        [[zau2 cou3 酒醋]]
+        vinegar of spirits;
+    - _p(a/)k(9) ts(')(o\)(3)_
+        [[baak6 cou3 白醋]]
+        clear vinegar;
+    - _h(a/)p(8) ts(')(o\)(3)_
+        [[haap3 cou3 呷醋]]
+        female rivalry, as between two concubines;
+    - _lok(9) tik(7) (4)(i/)m ts(')(o\)(3)_
+        [[lok6 dik1 jim4 cou3 落滴鹽醋]]
+        be more severe with him, as with a pupil;
+    - _ts(o\)(6) ts(')(o\)(3) (4)'m (1)s(u")n_
+        [[zou6 cou3 m4 syun1 做醋唔酸]],
+        your vinegar has no sourness, *you* can do nothing;
+    - _y(a/)k(8) (1)k(e/)ung ts(')(o\)(3)_
+        [[jaak3 goeng1 cou3 吃薑醋]]
+        to bear a child, because ginger and vinegar are given to the mother;
+    - _(4)y(e/)ung ts(')(o\)(3)_
+        [[joeng4 cou3 洋醋]]
+        foreign vinegar.
+    ==
+  ====
+E
+  ====
+  - 【呷醋】 (haap3 cou3):
+    ++
+    1. To be jealous of a romantic rival.
+    ++
+  ====
 $$
 
 ### 錯3 | _Ts(')(o\)(3)_ [[cou3]]

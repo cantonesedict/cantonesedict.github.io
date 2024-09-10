@@ -1049,6 +1049,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $醋cou3
       - $醆zaan2
       ==
       </nav>

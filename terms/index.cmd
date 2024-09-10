@@ -458,6 +458,9 @@ window.onload = applyFilter;
     , goek3 zi2 mei5-1
     , [腳趾尾](/entries/zi#cantonese-腳趾尾)
   //
+    , haap3 cou3
+    , [呷醋](/entries/cou#cantonese-呷醋)
+  //
     , ham6 gaa1 caan2
     , [冚家剷](/entries/caan#cantonese-冚家剷)
   //
