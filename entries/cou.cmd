@@ -369,6 +369,7 @@ $$
 - $厝3
 - $噪3
 - $懆3
+- $措3
 - $操3
 - $燥3
 - $糙3
@@ -465,6 +466,55 @@ W
 S
   ==
   - $懆cou2
+  ==
+$$
+
+### 措3 | _Ts(')(o\)(3)_ [[cou3]]
+
+$$
+R
+  ⼿ + 8
+U
+  U+63AA
+A
+  ==
+  - $厝3 [[for "place/bury" senses]]
+  ==
+F
+  ==
+  - [[F2.16 措 _Ts(')(u/)(3)_]] 處置也安着也施布也又委置也
+  - [[F2.16 厝 _Ts(')(u/)(3)_]] 同上又安頓也
+  ==
+W
+  ====
+  - [[Page~587 措(3)]]
+    ==
+    - To cast away, to throw down, to place, to put in its place;
+    - to make known, to show abroad;
+    - to conceal, to set aside;
+    - to bury;
+    - to take at unawares;
+    - to use, to employ;
+    - to relinquish;
+    - arranged, well ordered;
+    - a rule;
+    - _(4)m(o\) (2)sho ts(')(o\)(3) (2)shau tsuk(7)_
+        [[mou4 so2 cou3 sau2 zuk1 無所措手足]]
+        no place for my hands or feet, _i.e._ at a loss, perplexed;
+    - _ts(')(o\)(3) (4)ts(')z' t(a/)i(6) (5)ng(a/)_
+        [[cou3 ci4 daai6 ngaa5 措辭大雅]],
+        elegant phraseology, words well spoken.
+    ==
+    --
+    Read _[ch(a/)k](8)_ [[zaak3]].
+    --
+    ==
+    - To pursue after, to chase, to ferret out.
+    ==
+  ====
+C
+  ==
+  - Williams' alternative reading: Corrected _ch(')(a/)k(8)_ (caak3) to _ch(a/)k(8)_ (zaak3).
   ==
 $$
 
