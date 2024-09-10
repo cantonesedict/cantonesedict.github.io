@@ -376,6 +376,7 @@ $$
 - $譟3
 - $躁3
 - $造3
+- $錯3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -478,7 +479,8 @@ U
   U+63AA
 A
   ==
-  - $厝3 [[for "place/bury" senses]]
+  - $厝3 [[for "place", "bury", "conceal" senses]]
+  - $錯3 [[for "place", "bury", "conceal" senses]]
   ==
 F
   ==
@@ -693,6 +695,36 @@ S
   ==
   - $造cou5
   - $造zou6
+  ==
+$$
+
+### 錯3 | _Ts(')(o\)(3)_ [[cou3]]
+
+$$
+R
+  ⾦ + 8
+U
+  U+932F
+F
+  ==
+  - [[F2.16 錯 _Ts(')(u/)(3)_]] 捨置也又倉入聲礪石也
+  ==
+W
+  ====
+  - [[Page~588 錯(3)]]
+    --
+    Interchanged with the two last [[$厝3, $措3]].
+    --
+    ==
+    - [[See $錯cok3 for "whetstone" senses]];
+    - to place;
+    - to hide, to store away.
+    ==
+  ====
+S
+  ==
+  - $錯co3
+  - $錯cok3 (TODO)
   ==
 $$
 

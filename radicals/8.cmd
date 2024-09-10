@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 8-stroke radicals
-* %date-modified --> 2024-08-25
+* %date-modified --> 2024-09-10
 * %copyright-prior-years -->
 * %meta-description --> index of characters with 8-stroke radicals
 
@@ -102,6 +102,7 @@ For all radicals, see [Index of characters by radical](./).
       - $錢cin4
       - $錢zin2
       - $錯co3
+      - $錯cou3
       - $錚zaang1
       - $錚zang1
       - $錙zi1
