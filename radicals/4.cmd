@@ -163,6 +163,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $憸cim1
       - $憷co2
+      - $懆cou3
       ==
       </nav>
   //

@@ -333,6 +333,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $噪3
+- $懆3
 - $操3
 - $糙3
 - $譟3
@@ -361,6 +362,30 @@ W
     - to cry out.
     ==
   ====
+$$
+
+### 懆3 | _Ts(')(o\)(3)_ [[cou3]]
+
+$$
+R
+  ⼼ + 13
+U
+  U+61C6
+F
+  ==
+  - [[F2.16 懆 _Ts(')(u/)(3)_]] 憂貌
+  ==
+W
+  ====
+  - [[Page~587 懆(3)]]
+    --
+    [[Reading variation. **See $懆cou2 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $懆cou2
+  ==
 $$
 
 ###+ 操3 | _Ts(')(o\)(3)_ (cou3)
