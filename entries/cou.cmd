@@ -332,6 +332,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $噪3
 - $操3
 - $糙3
 - $譟3
@@ -339,6 +340,28 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 噪3 | _Ts(')(o\)(3)_ [[cou3]]
+
+$$
+R
+  ⼝ + 13
+U
+  U+566A
+F
+  ==
+  - [[F2.16 噪 _Ts(')(u/)(3)_]] 群鳥鳴聲
+  ==
+W
+  ====
+  - [[Page~587 噪(3)]]
+    ==
+    - The chirping and singing of many birds;
+    - the hum of men;
+    - to cry out.
+    ==
+  ====
+$$
 
 ###+ 操3 | _Ts(')(o\)(3)_ (cou3)
 
