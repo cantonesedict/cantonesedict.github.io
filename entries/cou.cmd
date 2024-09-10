@@ -359,10 +359,6 @@ W
     - [[...]].
     ==
   ====
-C
-  ==
-  - Williams' 下操: Corrected _(5)h(a/)_ (haa5) to _h(a/)(6)_ (haa6).
-  ==
 S
   ==
   - $操cou1
