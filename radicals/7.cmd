@@ -869,6 +869,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $逞cing2
+      - $造cou3
       - $造cou5
       - $造zou6
       - $這ze2

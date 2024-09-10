@@ -334,6 +334,7 @@ $$
 =={.modern}
 - $操3
 - $譟3
+- $造3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -390,6 +391,43 @@ W
 C
   ==
   - Williams' 人多鼓譟: Corrected _ts'(o\)(3)_ to _ts(')(o\)(3)_.
+  ==
+$$
+
+### 造3 | _Ts(')(o\)(3)_ [[cou3]]
+
+$$
+R
+  ⾡ + 7
+U
+  U+9020
+H
+  May appear as either ⿺辶吿 or ⿰辶告 (assumed here),
+  depending on the font.
+F
+  ==
+  - [[F2.16 造 _Ts(')(u/)(3)_]] ::至也[詣]也進也又造次::
+  ==
+W
+  ====
+  - [[Page~587 造(3)]]
+    ==
+    - To go to, to arrive;
+    - to advance, to enter;
+    - to contain;
+    - _ts(')(o\) ts(')z'(3)_
+        [[cou3 ci3 造次]]
+        hurried, thoughtless.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿰音旨 to 詣.
+  ==
+S
+  ==
+  - $造cou5
+  - $造zou6
   ==
 $$
 
@@ -768,7 +806,7 @@ E
   ====
 S
   ==
-  - $造cou3 (TODO)
+  - $造cou3
   - $造zou6
   ==
 $$
