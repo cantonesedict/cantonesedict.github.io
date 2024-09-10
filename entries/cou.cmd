@@ -688,10 +688,32 @@ $$
 <## tone-5-characters ##>
 <nav class="sideways">
 =={.modern}
+- $儲5
 - $造5
 ==
 </nav>
 <## /tone-5-characters ##>
+
+###+ 儲5 | _(5)Ts(')(o\)_ (cou5)
+
+$$
+R
+  ⼈ + 15
+U
+  U+5132
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Alternative form of 造. **See $造cou5 for the canonical entry.**
+  ==
+S
+  ==
+  - $儲cyu5
+  ==
+$$
 
 ### 造5 | _(5)Ts(')(o\)_ [[cou5]]
 
@@ -703,6 +725,10 @@ U
 H
   May appear as either ⿺辶吿 or ⿰辶告 (assumed here),
   depending on the font.
+A
+  ==
+  -{.modern} $儲5
+  ==
 F
   [[Not present]]
 W
