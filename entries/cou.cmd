@@ -369,6 +369,7 @@ $$
 - $噪3
 - $懆3
 - $操3
+- $燥3
 - $糙3
 - $譟3
 - $造3
@@ -444,6 +445,40 @@ W
 S
   ==
   - $操cou1
+  ==
+$$
+
+### 燥3 | _Ts(')(o\)(3)_ [[cou3]]
+
+$$
+R
+  ⽕ + 13
+U
+  U+71E5
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~587 燥(3)]]
+    ==
+    - Dry, scorched, chapped, parched;
+    - to dry by the fire;
+    - fierce, untameable;
+    - _(1)kon ts(')(o\)(3)_
+        [[gon1 cou3 乾燥]]
+        parched up, drought;
+    - _(1)fung (1)k(o\) ts(')(o\)(3) mat(9)_
+        [[fung1 gou1 cou3 mat6 風高燥物]]
+        the [north] [[these square brackets appear in the original text]] wind
+        dries or splits things;
+    - _(1)ts(')au ts(')(o\)(3)_
+        [[cau1 cou3 秋燥]]
+        heats of autumn.
+    ==
+  ====
+C
+  ==
+  - Williams' 風高燥物: Usually 風高物燥.
   ==
 $$
 
