@@ -414,7 +414,7 @@ W
 C
   ==
   - Williams' "large flat stone, fit for a gravestone" and 厝註:
-    Williams seems to have conflated the "whetstone" sense,
+    Williams seems to have conflated the "whetstone" sense of 厝,
     which should be read in entering tone _ts(')ok(8)_ (cok3)^,
     with the "placement" sense _ts(')(o\)(3)_ (cou3).
     Unlike the "placement" sense, the "whetstone" sense
