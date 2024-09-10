@@ -217,11 +217,45 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $懆2
 - $艸2
 - $草2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+###+ 懆2 | _(2)Ts(')(o\)_ (cou2)
+
+$$
+R
+  ⼼ + 13
+U
+  U+61C6
+V
+  ==
+  - cou3 (Fan Wan)
+  ==
+F
+  ==
+  - [[F2.16 懆 _Ts(')(u/)(3)_]] 憂貌
+  ==
+W
+  ====
+  - [[Page~587 懆(3) _Ts(')(o\)(3)_ (cou3); here normalised to _(2)Ts(')(o\)_ (cou2)]]
+    ==
+    - Chagrined, thoughtful, sad, vexed;
+    - covetous;
+    - affected by;
+    - _(1)tsi(u/) [(2)]ts(')(o\)_
+        [[ziu1 cou2 焦懆]]^
+        discontented and anxious.
+    ==
+  ====
+S
+  ==
+  - $懆cou3
+  ==
+$$
 
 ### 艸2 | _(2)Ts(')(o\)_ [[cou2]]
 
