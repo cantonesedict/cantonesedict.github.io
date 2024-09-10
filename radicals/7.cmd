@@ -659,6 +659,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $䠨cim3
       - $䠨zim1
+      - $躁cou3
       ==
       </nav>
   //

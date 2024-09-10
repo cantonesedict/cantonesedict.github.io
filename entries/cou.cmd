@@ -372,6 +372,7 @@ $$
 - $燥3
 - $糙3
 - $譟3
+- $躁3
 - $造3
 ==
 </nav>
@@ -532,6 +533,36 @@ C
   ==
   - Williams' 人多鼓譟: Corrected _ts'(o\)(3)_ to _ts(')(o\)(3)_.
   ==
+$$
+
+### 躁3 | _Ts(')(o\)(3)_ [[cou3]]
+
+$$
+R
+  ⾜ + 13
+U
+  U+8E81
+F
+  ==
+  - [[F2.16 躁 _Ts(')(u/)(3)_]] 浮躁妄動也急進也
+  ==
+W
+  ====
+  - [[Page~587 躁(3)]]
+    ==
+    - Hasty, heedless, precipitate;
+    - to go quickly;
+    - dried up by the heat, and therefore light;
+    - fierce, violent;
+    - _ts(')(o\)(3) p(o\)(6)_
+        [[cou3 bou6 躁暴]]
+        outrageous, prone to anger;
+        bustling, fussy;
+    - _(4)fau ts(')(o\)(3)_
+        [[fau4 cou3 浮躁]]
+        light, testy, wavering.
+    ==
+  ====
 $$
 
 ### 造3 | _Ts(')(o\)(3)_ [[cou3]]
