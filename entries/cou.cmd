@@ -333,6 +333,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $操3
+- $糙3
 - $譟3
 - $造3
 ==
@@ -366,6 +367,32 @@ S
   ==
   - $操cou1
   ==
+$$
+
+### 糙3 | _Ts(')(o\)(3)_ [[cou3]]
+
+$$
+R
+  ⽶ + 11
+U
+  U+7CD9
+H
+  May appear as either ⿰米⿺辶吿 or ⿰米⿰辶告 (assumed here),
+  depending on the font.
+F
+  ==
+  - [[F2.16 糙 _Ts(')(u/)(3)_]] 米糙
+  ==
+W
+  ====
+  - [[Page~587 糙(3)]]
+    ==
+    - Coarse rice, paddy which has only been hulled, and not cleaned;
+    - _ts(')(o\)(3) (5)mai (1)l(a/)n_
+        [[cou3 mai5 laan1 糙米欄]],
+        Coarse Rice street, in Canton.
+    ==
+  ====
 $$
 
 ### 譟3 | _Ts(')(o\)(3)_ [[cou3]]
