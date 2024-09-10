@@ -371,6 +371,7 @@ $$
 - $懆3
 - $措3
 - $操3
+- $澡3
 - $燥3
 - $糙3
 - $譟3
@@ -543,6 +544,27 @@ W
 S
   ==
   - $操cou1
+  ==
+$$
+
+###+ 澡3 | _Ts(')(o\)(3)_ (cou3)
+
+$$
+R
+  ⽔ + 13
+U
+  U+6FA1
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation. **See $澡zou2 for the canonical entry.**
+  ==
+S
+  ==
+  - $澡zou2
   ==
 $$
 

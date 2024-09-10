@@ -339,13 +339,13 @@ W
     - To bathe, to wash the person;
     - to cleanse the heart, to reform;
     - _(2)sai (2)ts(o\)_
-        [[sai2 zou2]],
+        [[sai2 zou2 洗澡]],
         to bathe.
     ==
   ====
 S
   ==
-  - $澡cou3 (TODO)
+  - $澡cou3
   ==
 $$
 

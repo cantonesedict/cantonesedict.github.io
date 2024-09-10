@@ -1461,8 +1461,9 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $濈cap1
-      - $澤zaak6
+      - $澡cou3
       - $澡zou2
+      - $澤zaak6
       ==
       </nav>
   //
