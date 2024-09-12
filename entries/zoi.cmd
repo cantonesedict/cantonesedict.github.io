@@ -48,6 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $哉1
+- $栽1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -115,4 +116,37 @@ C
     to common reading _(4)f(u/)_ (fu4).
   - Williams' 野哉由也: Corrected _y(a/)(6)_ (jaa6) to _(5)y(a/)_ (jaa5).
   ==
+$$
+
+### 栽1 | _(1)Tsoi_ [[zoi1]]
+
+$$
+R
+  ⽊ + 6
+U
+  U+683D
+F
+  ==
+  - [[F2.43 栽]] 種植也
+  ==
+W
+  ====
+  - [[Page~588 (1)栽]]
+    ==
+    - To plant seed;
+    - to set out saplings, to put suckers in the ground;
+    - to hill, to heap up earth at the roots;
+    - a sapling;
+    - to assist;
+    - _(1)f(a/) (1)tsoi_
+        [[faa1 zoi1 花栽]],
+        flower suckers;
+    - _(1)tsoi (4)p(')(u/)i_
+        [[zoi1 pui4 栽培]],
+        to put earth to, as to roots;
+    - _(2)ho (5)(i/) (1)tsoi (4)p(')(u/)i_
+        [[ho2 ji5 zoi1 pui4 可以栽培]],
+        he is worthy of your care.
+    ==
+  ====
 $$
