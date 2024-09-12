@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoi
-* %date-modified --> 2023-08-02
-* %copyright-prior-years -->
+* %date-modified --> 2024-09-12
+* %copyright-prior-years --> 2023--
 
 %%%
-
---{.modern}
-(From Page~588 of the original onwards.)
---
 
 #{.williams} Tsoi. [[zoi]]
 
@@ -21,3 +17,25 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Tsoi. [[Page~588]]
+  ==
+WP
+  ==
+  - Tsoi <span class="modern">= [tsɔːi]</span>
+  ==
+MP
+  ==
+  - zoi = [tsɔːy], [tɕɔːy] ((preferred))
+  ==
+$$
