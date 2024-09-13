@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 5-stroke radicals
-* %date-modified --> 2024-08-25
+* %date-modified --> 2024-09-13
 * %copyright-prior-years -->
 * %meta-description --> index of characters with 5-stroke radicals
 
@@ -245,6 +245,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $甾zi1
+      - $甾zoi1
       ==
       </nav>
   //

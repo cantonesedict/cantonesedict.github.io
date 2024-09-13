@@ -52,6 +52,7 @@ $$
 - $災1
 - $灾1
 - $烖1
+- $甾1
 - $菑1
 ==
 </nav>
@@ -166,6 +167,7 @@ A
   ==
   - $灾1
   - $烖1
+  -{.modern} $甾1
   -{.modern} $菑1
   ==
 F
@@ -265,6 +267,27 @@ W
     [[Alternative form of 災. **See $災zoi1 for the canonical entry.**]]
     --
   ====
+$$
+
+###+ 甾1 | _(1)Tsoi_ (zoi1)
+
+$$
+R
+  ⽥ + 3
+U
+  U+753E
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Alternative form of 災. **See $災zoi1 for the canonical entry.**
+  ==
+S
+  ==
+  - $甾zi1
+  ==
 $$
 
 ###+ 菑1 | _(1)Tsoi_ (zoi1)
