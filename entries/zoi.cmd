@@ -543,6 +543,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $儎6
+- $在6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -593,5 +594,103 @@ C
     ::K. (:載:) [...]又《廣韻》《集韻》《韻會》(:𠀤昨代切音在:)《集韻》(:舟車運物也:)\
     《詩小雅》其車旣載《註》(:才再反:)[...]::
     """"
+  ==
+$$
+
+### 在6 | _Tsoi(6)_ [[zoi6]]
+
+$$
+R
+  ⼟ + 3
+U
+  U+5728
+F
+  ==
+  - [[F2.46 在]] 居也存也
+  ==
+W
+  ====
+  - [[Page~589 在(6)]]
+    ==
+    - To be in, to pertain to, to be at;
+    - to reside, to remain, to live, to dwell at;
+    - to belong to, to consist in;
+    - involved in, depending on;
+    - to be preserved or continue;
+    - existing, being, alive;
+    - is in, in, at;
+    - to examine;
+    - a place, a home;
+    - _(4)'m tsoi(6) uk(7)_
+        [[m4 zoi6 uk1 唔在屋]]
+        not at home;
+    - _(4)'m tsoi(6) ch(')(u")(3)_
+        [[m4 zoi6 cyu3 唔在處]]
+        not in, not here;
+    - _(i/)n(6) tsoi(6)_
+        [[jin6 zoi6 現在]]
+        at this moment, now;
+    - _(4)w(a/)n tsoi(6)_
+        [[waan4 zoi6 還在]]
+        still here;
+    - _tsoi(6) hok(9) (4)t(')ong_
+        [[zoi6 hok6 tong4-2 在學堂]],
+        at school;
+    - _tsoi(6) wai(6) (2)k(i/) noi(6) (1)[n(e/)]_
+        [[zoi6 wai6 gei2 noi6 ne1 在位幾耐呢]],
+        how long has he reigned?
+    - _f(u/)(6) (5)m(o\) tsoi(6)_
+        [[fu6 mou5 zoi6 父母在]]
+        parents are alive;
+    - _tsoi(6) h(a/)(6) [(1)]tai_
+        [[zoi6 haa6 dai1 在下低]],
+        is down stairs;
+    - _(4)'m tsoi(6)_
+        [[m4 zoi6 唔在]]
+        he's not in;
+        dead;
+        no occasion, no need, --- a polite phrase;
+    - _tsoi(6) (1)k(a/) (1)to_
+        [[zoi6 gaa1 do1 在家多]],
+        remains much at home;
+    - _(5)n(i/) tsoi(6) (1)sam_
+        [[nei5 zoi6 sam1 你在心]],
+        remember it;
+    - _(4)'m tsz'(6) tsoi(6)_
+        [[m4 zi6 zoi6 唔自在]]
+        not feeling well;
+    - _tsoi(6) (5)ngo tsau(6) (2)k(o\)m y(e/)ung(6)_
+        [[zoi6 ngo5 zau6 gam2 joeng6-2 在我就噉樣]]
+        I've made up my mind;
+    - _(4)n(i/)n (5)m(a/)n tsoi(6) tsik(7)_
+        [[nin4 maan5 zoi6 zik1 年晚在即]]
+        new year's eve is at hand;
+    - _(2)sho tsoi(6) p(i/)t(7) (5)yau_
+        [[so2 zoi6 bit1 jau5 所在必有]],
+        it is everywhere, they are in all places;
+    - _ts(')o(3) tsoi(6) (5)ngo_
+        [[co3 zoi6 ngo5 錯在我]],
+        it is my fault;
+    - _(2)sz' tsoi(6) (2)ts(o\) (5)m(a/)n_
+        [[sei2 zoi6 zou2 maan5 死在早晚]],
+        his ailment is imminent;
+        he does things blunderingly;
+    - _pat(7) tsoi(6) (4)[f(u/)]_
+        [[bat1 zoi6 fu4 不在乎]],
+        does not consist in;
+    - _tsoi(6) (1)p(i/)n ch(')(u")(3)_
+        [[zoi6 bin1 cyu3 在邊處]]
+        where is it?
+    - _tsoi(6) (5)n(i/)_
+        [[zoi6 nei5 在你]],
+        it's your affair.
+    ==
+  ====
+C
+  ==
+  - Williams' 在位幾耐呢: Changed _(1)n(i/)_ (ni1) to modern _(1)n(e/)_ (ne1).
+  - Williams' 在下低: Corrected _(2)tai_ (dai2) to _(1)tai_ (dai1).
+  - Williams' 不在乎: Changed Middle Chinese _(4)(u/)_ (wu4)
+    to common reading _(4)f(u/)_ (fu4).
   ==
 $$
