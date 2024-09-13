@@ -50,6 +50,7 @@ $$
 - $哉1
 - $栽1
 - $災1
+- $灾1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -216,4 +217,27 @@ C
   - Fan Wan entry: Added (hypothesised) homophone 兹 for 菑.
   - Williams' 打醮: Corrected _(2)ta_ to _(2)t(a/)_.
   ==
+$$
+
+### 灾1 | _(1)Tsoi_ [[zoi1]]
+
+$$
+R
+  ⽕ + 3
+U
+  U+707E
+F
+  ==
+  - [[F2.43 災]] 災禍災害
+  - [[F2.43 灾]] 同上
+  - [[F2.43 烖]] 同上
+  - [[F2.43 菑]] ::古灾字又音[兹]::
+  ==
+W
+  ====
+  - [[Page~588 (1)災(1)灾(1)烖]]
+    --
+    [[Alternative form of 災. **See $災zoi1 for the canonical entry.**]]
+    --
+  ====
 $$

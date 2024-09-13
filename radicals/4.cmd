@@ -1526,6 +1526,7 @@ For all radicals, see [Index of characters by radical](./).
       - $灼zoek3
       - $灺ze6
       - $災zoi1
+      - $灾zoi1
       - $灶zou3
       ==
       </nav>
