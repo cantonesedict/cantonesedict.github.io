@@ -24,6 +24,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [zoi1](#1)
 - [zoi2](#2)
 - [zoi3](#3)
+- [zoi6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -532,5 +533,65 @@ C
 S
   ==
   - $載zoi2
+  ==
+$$
+
+
+##{#6 .williams} Tsoi(6) [[zoi6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $儎6
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 儎6 | _Tsoi(6)_ [[zoi6]]
+
+$$
+R
+  ⼈ + 13
+U
+  U+510E
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~589 儎(6)]]
+    --
+    A colloquial word.
+    --
+    ==
+    - The cargo, the loading of a boat;
+    - the tonnage or capacity of a vessel;
+    - _(2)k(i/) shap(9) tsoi(6)_
+        [[gei2 sap6 zoi6 幾十儎]]
+        several scores of cargoes;
+    - _(4)sh(u")n (5)m(u/)n tsoi(6)_
+        [[syun4 mun5 zoi6 船滿儎]]
+        the ship is loaded;
+    - _ch(a/)k(8) tsoi(6) shek(9)_
+        [[zaak3 zoi6 sek6 矺儎石]]
+        stone ballast;
+    - _tsoi(6) k(e/)uk(8)_
+        [[zoi6 goek3 儎腳]]
+        freight money;
+    - _(1)chong m(a/)n(6) p(a/)t(8) tsoi(6)_
+        [[zong1 maan6 baat3 zoi6 裝萬八儎]]
+        she carries 18,000 catties.
+    ==
+  ====
+C
+  ==
+  - Although Williams deems this "a colloquial word",
+    there is olden attestation for 載 _tsoi(6)_ (zoi6) meaning "load":
+    """"
+    ::B4.w427a0106 (:昨代切:) (:載:) (:運也:)::
+    """"
+    """"
+    ::K. (:載:) [...]又《廣韻》《集韻》《韻會》(:𠀤昨代切音在:)《集韻》(:舟車運物也:)\
+    《詩小雅》其車旣載《註》(:才再反:)[...]::
+    """"
   ==
 $$

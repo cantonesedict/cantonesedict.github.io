@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2024-07-15
+* %date-modified --> 2024-09-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -133,7 +133,7 @@ W
         crushed to death;
     - [[...]];
     - _ch(a/)k(8) tsoi(6)_
-        [[zaak3 zoi6 矺載]]
+        [[zaak3 zoi6 矺儎]]
         to ballast a ship;
     - _ch(a/)k(8) l(a/)n(6)_
         [[zaak3 laan6 矺爛]]
