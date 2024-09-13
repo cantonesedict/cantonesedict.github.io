@@ -324,6 +324,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $宰2
+- $載2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -369,4 +370,38 @@ W
         to kill an ox.
     ==
   ====
+$$
+
+### 載2 | _(2)Tsoi_ [[zoi2]]
+
+$$
+R
+  ⾞ + 6
+U
+  U+8F09
+F
+  ==
+  - [[F2.44 載]] 年也
+  ==
+W
+  ====
+  - [[Page~589 (2)載]]
+    ==
+    - A year;
+    - to commence, as after a full revolution;
+    - _p(u/)n(3) (2)tsoi_
+        [[bun3 zoi2 半載]],
+        half a year;
+    - _(1)ts(')(i/)n (2)tsoi h(a/)(6)_
+        [[cin1 zoi2 haa6 千載下]]
+        handed down a thousand years;
+    - _(2)k(i/) (2)tsoi_
+        [[gei2 zoi2 幾載]],
+        several years.
+    ==
+  ====
+S
+  ==
+  - $載zoi3 (TODO)
+  ==
 $$
