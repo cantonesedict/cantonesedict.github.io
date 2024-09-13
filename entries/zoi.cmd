@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zoi1](#1)
+- [zoi2](#2)
 ==
 </nav>
 <## /tones ##>
@@ -314,4 +315,58 @@ S
   ==
   - $菑zi1
   ==
+$$
+
+
+##{#2 .williams} (2)Tsoi [[zoi2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $宰2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 宰2 | _(2)Tsoi_ [[zoi2]]
+
+$$
+R
+  ⼧ + 7
+U
+  U+5BB0
+F
+  ==
+  - [[F2.44 宰]] 主宰烹宰又邑宰家宰
+  ==
+W
+  ====
+  - [[Page~588 (2)宰]]
+    ==
+    - To govern, to rule, to superintend;
+    - to fashion to one's liking;
+    - a ruler, a headman, a governor;
+    - to slaughter animals, to butcher, to skin and dress animals;
+    - to cook;
+    - _(2)tsoi s(e/)ung(3)_
+        [[zoi2 soeng3 宰相]]
+        a prime-minister;
+    - _(2)ch(u") (2)tsoi_
+        [[zyu2 zoi2 主宰]],
+        the ruler of all, the chief governor;
+        the mind;
+    - _(1)k(a/) (2)tsoi_
+        [[gaa1 zoi2 家宰]],
+        a steward;
+    - _kam(3) (2)ch(i/) (4)t(')(o\) (2)tsoi_
+        [[gam3 zi2 tou4 zoi2 禁止屠宰]],
+        prohibited the butchering of animals, as in time of drought;
+    - _(u")n(6) (2)tsoi_
+        [[jyun6 zoi2 縣宰]],
+        a district [magistrate];
+    - _(2)tsoi (4)ngau_
+        [[zoi2 ngau4 宰牛]],
+        to kill an ox.
+    ==
+  ====
 $$
