@@ -413,10 +413,69 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $再3
 - $載3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 再3 | _Tsoi(3)_ [[zoi3]]
+
+$$
+R
+  ⼌ + 4
+U
+  U+518D
+F
+  ==
+  - [[F2.46 再 _Tsoi(6)_ (zoi6)]] 又也乃也
+  ==
+W
+  ====
+  - [[Page~589 再(3)]]
+    ==
+    - Again;
+    - doubled, repeated;
+    - a second time;
+    - then, further, continued, longer;
+    - to repeat;
+    - _(2)ts(')ing tsoi(3) (2)kong_
+        [[cing2 zoi3 gong2 請再講]],
+        please say it again;
+    - _tsoi(3) i(u/)(3) (1)t(')(i/)m_
+        [[zoi3 jiu3 tim1 再要添]],
+        I shall want some more;
+    - _(4)ming yat(9) tsoi(3) (4)loi_
+        [[ming4 jat6 zoi3 loi4 明日再來]],
+        come back to-morrow;
+    - _tsoi(3) kwo(3) (2)k(i/) yat(9)_
+        [[zoi3 gwo3 gei2 jat6 再過幾日]]
+        again some days elapsed;
+    - _tsoi(3) (1)shang_
+        [[zoi3 sang1 再生]]^
+        another life;
+    - _tsoi(3) (4)'m tsoi(3) sz'(3)_
+        [[zoi3 saam1 zoi3 si3 再三再四]]
+        again and again [I ordered him];
+        [[these square brackets appear in the original text]]
+    - _tsoi(3) (4)'m (2)k(u/) t(o\)(3)_
+        [[zoi3 m4 gu2 dou3-2 再唔估到]]
+        I should not have guessed it;
+    - _tsoi(3) hai(6) (2)k(o\)m (4)'m tak(7)_
+        [[zoi3 hai6 gam2 m4 dak1 再係噉唔得]]
+        it will not do for you to do so again;
+    - _tsoi(3) (2)ch(e/)_
+        [[zoi3 ze2 再者]],
+        further;
+    - _tsoi(3) tuk(9) kwo(3)_
+        [[zoi3 duk6 gwo3 再讀過]]
+        read it again;
+    - _tsoi(3) pat(7) (4)loi_
+        [[zoi3 bat1 loi4 再不來]],
+        I shall not return.
+    ==
+  ====
+$$
 
 ### 載3 | _Tsoi(3)_ [[zoi3]]
 
