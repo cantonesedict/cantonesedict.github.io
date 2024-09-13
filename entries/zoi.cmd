@@ -52,6 +52,7 @@ $$
 - $災1
 - $灾1
 - $烖1
+- $菑1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -264,4 +265,30 @@ W
     [[Alternative form of 災. **See $災zoi1 for the canonical entry.**]]
     --
   ====
+$$
+
+###+ 菑1 | _(1)Tsoi_ (zoi1)
+
+$$
+R
+  ⾋ + 8
+U
+  U+83D1
+F
+  ==
+  - [[F2.43 災]] 災禍災害
+  - [[F2.43 灾]] 同上
+  - [[F2.43 烖]] 同上
+  - [[F2.43 菑]] ::古灾字又音[兹]::
+  ==
+W
+  [[Not present]]
+C
+  ==
+  - Alternative form of 災. **See $災zoi1 for the canonical entry.**
+  ==
+S
+  ==
+  - $菑zi1
+  ==
 $$
