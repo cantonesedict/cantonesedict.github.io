@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [zoi1](#1)
 - [zoi2](#2)
+- [zoi3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -402,6 +403,75 @@ W
   ====
 S
   ==
-  - $載zoi3 (TODO)
+  - $載zoi3
+  ==
+$$
+
+
+##{#3 .williams} Tsoi(3) [[zoi3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $載3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 載3 | _Tsoi(3)_ [[zoi3]]
+
+$$
+R
+  ⾞ + 6
+U
+  U+8F09
+F
+  ==
+  - [[F2.45 載]] 裝載又載籍
+  ==
+W
+  ====
+  - [[Page~589 載(3)]]
+    ==
+    - To contain, to hold, as a carriage or ship;
+    - to fill in, to load on, to bear, to sustain;
+    - to act, to do, to [fulfil], to effect;
+    - to record;
+    - to adorn, to beautify;
+    - to load in and transport;
+    - written, recorded;
+    - filled, loaded;
+    - an auxiliary word, then, thereupon;
+    - an incalculably high number;
+    - _(1)chong tsoi(3)_
+        [[zong1 zoi3 裝載]]
+        to store, to load, as a carriage;
+    - _tsoi(3) (5)m(u/)n_
+        [[zoi3 mun5 載滿]],
+        loaded full;
+    - _tsoi(3) lok(9) (4)ho (1)sh(u")_
+        [[zoi3 lok6 ho4 syu1 載落何書]],
+        in what book is it recorded?
+    - _(4)'m kau(3) tsoi(3)_
+        [[m4 gau3 zoi3 唔夠載]]
+        not enough to load it;
+    - _(5)m(o\) (5)y(e/) tsoi(3) ch(u")[(6)]_
+        [[mou5 je5 zoi3 zyu6 冇嘢載住]]
+        I've nothing to put it in;
+    - _(2)p(i/) ko(3) (5)t(')(o\) tsoi(3)_
+        [[bei2 go3 tou5 zoi3 畀個肚載]]
+        he lays it up in his mind, he'll remember it;
+    - _(4)nang tsoi(3) (2)k(i/) t(a/)m(3)_
+        [[nang4 zoi3 gei2 daam3 能載幾擔]]
+        she carries several peculs.
+    ==
+  ====
+C
+  ==
+  - Williams' 冇嘢載住: Corrected _ch(u")(3)_ (zyu3) to _ch(u")(6)_ (zyu6).
+  ==
+S
+  ==
+  - $載zoi2
   ==
 $$
