@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [coi1](#1)
+- [coi4](#4)
 ==
 </nav>
 <## /tones ##>
@@ -96,4 +97,75 @@ S
   ==
   - $啋hiu1 (TODO)
   ==
+$$
+
+
+##{#4 .williams} (4)Ts(')oi [[coi4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways">
+=={.modern}
+- $才4
+==
+</nav>
+<## /tone-4-characters ##>
+
+### 才4 | _(4)Ts(')oi_ [[coi4]]
+
+$$
+R
+  ⼿ + 0
+U
+  U+624D
+F
+  ==
+  - [[F2.44 才]] 能也功也畧也
+  ==
+W
+  ====
+  - [[Page~590 (4)才]]
+    ==
+    - Materials, stuff, or the substance of things,
+      for which the next [[$材4]] is used;
+    - talents, capacity, ability, powers;
+    - endowments, genius, gifts;
+    - a person, a graduate;
+    - _(4)ts(')oi (2)tsz'_
+        [[coi4 zi2 才子]]
+        a genius;
+    - _(4)man (4)ts(')oi_
+        [[man4 coi4 文才]],
+        literary talents;
+    - _(1)s(a/)m (4)ts(')oi_
+        [[saam1 coi4 三才]],
+        the three powers---are heaven, earth, man, who rule all things;
+    - _yat(7) (2)pi(u/) (4)yan (4)ts(')oi_
+        [[jat1 biu2 jan4 coi4 一表人才]],
+        a fine looking man;
+    - _(4)n(o\) (4)ts(')oi_
+        [[nou4 coi4 奴才]],
+        a slave;
+    - _(4)ts(')oi k(u")(6)_
+        [[coi4 geoi6 才具]]
+        parts, talents;
+    - _(4)ts(')oi (4)nang_
+        [[coi4 nang4 才能]],
+        ability;
+    - _(4)l(e/)ung (4)ts(')oi_
+        [[loeng4 coi4 良才]],
+        goodness, rectitude;
+    - _(4)ts(')oi ch(i/)(3)_
+        [[coi4 zi3 才智]]
+        talents and knowledge;
+    - _(2)ch(')un (4)ts(')oi_
+        [[ceon2 coi4 蠢才]],
+        you goose!
+    - _(4)wai (4)ts(')oi_
+        [[wai4 coi4 遺才]],
+        the unsuccessful si(u/)ts(')(a/)i [[秀才]];
+    - _(2)h(o\) (2)hau (4)ts(')oi_
+        [[hou2 hau2 coi4 好口才]],
+        eloquent.
+    ==
+  ====
 $$
