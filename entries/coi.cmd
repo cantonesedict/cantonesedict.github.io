@@ -106,10 +106,45 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $採2
 - $采2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 採2 | _(2)Ts(')oi_ [[coi2]]
+
+$$
+R
+  ⼿ + 8
+U
+  U+63A1
+A
+  ==
+  - $采2
+  ==
+F
+  ==
+  - [[F2.44 採]] 取也
+  ==
+W
+  ====
+  - [[Page~591 (2)採]]
+    ==
+    - To select, to choose, to pick, to pluck, as leaves;
+    - to take with the hand;
+    - _(2)ts(')oi (1)song_
+        [[coi2 song1 採桑]],
+        to pick mulberry leaves;
+    - _(2)ts(')oi (5)m(a/)i_
+        [[coi2 maai5 採買]],
+        to buy the choicest;
+    - _(2)ts(')oi (1)f(a/)_
+        [[coi2 faa1 採花]],
+        to gather flowers.
+    ==
+  ====
+$$
 
 ### 采2 | _(2)Ts(')oi_ [[coi2]]
 
