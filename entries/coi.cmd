@@ -107,6 +107,7 @@ $$
 =={.modern}
 - $才4
 - $材4
+- $裁4
 - $財4
 ==
 </nav>
@@ -214,6 +215,50 @@ W
 C
   ==
   - Williams' "materièl": Probably a misspelling of "matériel".
+  ==
+$$
+
+### 裁4 | _(4)Ts(')oi_ [[coi4]]
+
+$$
+R
+  ⾐ + 6
+U
+  U+88C1
+F
+  ==
+  - [[F2.44 裁]] 裁衣又裁度裁製
+  ==
+W
+  ====
+  - [[Page~590 (4)裁]]
+    ==
+    - To make clothes, to cut out garments;
+    - to tear, to cut off;
+    - to moderate, to reduce, to deny, to diminish;
+    - to guess, to plan;
+    - to regulate;
+    - _(4)ts(')oi (4)fung (2)l(o\)_
+        [[coi4 fung4-2 lou2 裁縫佬]],
+        a tailor;
+    - _tsz'(6) (4)ts(')oi_
+        [[zi6 coi4 自裁]],
+        suicide;
+    - _(4)ts(')oi (1)(i/)_
+        [[coi4 ji1 裁衣]],
+        to cut out clothes;
+    - _(4)ts(')oi (2)ts(i/)n_
+        [[coi4 zin2 裁剪]],
+        to cut off with shears;
+    - _(2)si(u/) (4)ts(')oi_ [[siu2 coi4 小裁]]^
+        and
+      _t(a/)i(6) (4)ts(')oi_ [[daai6 coi4 大裁]],
+        a scant pattern, a full pattern.
+    ==
+  ====
+C
+  ==
+  - Williams' 自裁: Literally, to "self-resolve".
   ==
 $$
 
