@@ -669,6 +669,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $寀coi2
       - $寁zaam2
       - $寁zaan2
       - $寂zik6

@@ -106,11 +106,42 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $寀2
 - $採2
 - $采2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 寀2 | _(2)Ts(')oi_ [[coi2]]
+
+$$
+R
+  ⼧ + 8
+U
+  U+5BC0
+A
+  ==
+  - $采2
+  ==
+F
+  ==
+  - [[F2.45 寀]] 寮寀
+  ==
+W
+  ====
+  - [[Page~591 (2)寀]]
+    ==
+    - Lands or cities allotted for the revenue of officers;
+    - _(2)ts(')oi t(i/)(6)_
+        [[coi2 dei6 寀地]]
+        territory set apart for grandees;
+    - _(4)li(u/) (2)ts'oi_
+        [[liu4 coi2 寮寀]],
+        officers exercising jurisdiction over the same circuit.
+    ==
+  ====
+$$
 
 ### 採2 | _(2)Ts(')oi_ [[coi2]]
 
