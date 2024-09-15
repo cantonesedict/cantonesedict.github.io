@@ -106,6 +106,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $才4
+- $材4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -168,4 +169,49 @@ W
         eloquent.
     ==
   ====
+$$
+
+### 材4 | _(4)Ts(')oi_ [[coi4]]
+
+$$
+R
+  ⽊ + 3
+U
+  U+6750
+A
+  ==
+  - $才4
+  ==
+F
+  ==
+  - [[F2.44 材]] 人之可用者曰賢材木之可用者曰材料
+  ==
+W
+  ====
+  - [[Page~590 (4)材]]
+    ==
+    - Materials of which things are made;
+    - nature, qualities;
+    - timber, lumber, wood;
+    - materièl, stuff;
+    - _(4)ts(')oi li(u/)(6)_
+        [[coi4 liu6-2 材料]]
+        materials, as wood, stone, &c.;
+        ingredients;
+    - _(4)l(e/)ung (4)ts(')oi_
+        [[loeng4 coi4 良材]],
+        good stuff;
+        _met._ upright ministers;
+    - _(2)h(o\) (1)shan (4)ts(')oi_
+        [[hou2 san1 coi4 好身材]],
+        likely, well formed;
+    - _(5)'ng (4)ts(')oi_
+        [[ng5 coi4 五材]],
+        the five elements.
+    ==
+  ====
+C
+  ==
+  - Williams' "materièl": Probably a misspelling of "matériel".
+  ==
 $$

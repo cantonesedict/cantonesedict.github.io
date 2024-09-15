@@ -936,6 +936,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $杉caam3
       - $杝ci2
+      - $材coi4
       - $杓zoek3
       - $杖zoeng6
       ==
