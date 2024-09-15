@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [coi1](#1)
+- [coi2](#2)
 - [coi4](#4)
 ==
 </nav>
@@ -96,6 +97,71 @@ E
 S
   ==
   - $啋hiu1 (TODO)
+  ==
+$$
+
+
+##{#2 .williams} (2)Ts(')oi [[coi2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $采2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 采2 | _(2)Ts(')oi_ [[coi2]]
+
+$$
+R
+  ⾤ + 1
+U
+  U+91C7
+V
+  ==
+  - coi3 (alternative for "fief" sense)
+  ==
+F
+  ==
+  - [[F2.44 采]] 文采又采取
+  ==
+W
+  ====
+  - [[Page~590 (2)采]]
+    --
+    To be distinguished from 釆 _p(i/)n(6)_ [[bin6]] to divide.
+    --
+    ==
+    - To pluck, to choose, to take with the hand;
+    - variegated, adorned with colors;
+    - cities allotted to officers for revenue;
+    - in these senses the three next [[$採2, $寀2, $彩2]] are used;
+    - a business, an employment;
+    - _(2)ts(')oi yap[(7)]_
+        [[coi2 jap1 采邑]],
+        territory set apart for the support of grandees, an ancient usage;
+    - _n(a/)p(9) (2)ts(')oi_
+        [[naap6 coi2 納采]],
+        to choose and send the betrothal presents.
+    ==
+  ====
+C
+  ==
+  - Note that the "fief" sense is recorded in Kangxi
+    under both rising _(2)ts(')oi_ (coi2) and departing _ts(')oi(3)_ (coi3):
+    """"
+    ::K. (:采:) 《唐韻》(:倉宰切:)《集韻》《韻會》(:此宰切𠀤音採:)[...]\
+    又官也\
+    《書堯典》帝曰疇咨若予采《傳》采事也馬云官也\
+    《禮明堂位》九采之國《疏》各掌當州諸侯之事　\
+    (:又采地:)《禮禮運》大夫有采以處其子孫《前漢地理志》大夫韓武子食采於韓原[...]^\
+    (:又:)《韻會》《正韻》(:𠀤倉代切音菜臣食邑:)\
+    《周禮天官八則註》公卿大夫采邑音菜\
+    《孟子元士受地視子男註》所受采地之制音菜\
+    《前漢食貨志註》采官也因官食地故曰采地[...]::
+    """"
+  - Williams' 采邑: Corrected _yap(9)_ (jap6) to _yap(7)_ (jap1).
   ==
 $$
 

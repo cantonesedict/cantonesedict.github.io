@@ -1096,6 +1096,23 @@ For all radicals, see [Index of characters by radical](./).
 ## ⾤ (distinguish)
 
 <## radical-⾤-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 1
+    ,
+      <nav class="sideways">
+      ==
+      - $采coi2
+      ==
+      </nav>
+''
+||||
 <## /radical-⾤-characters ##>
 
 
