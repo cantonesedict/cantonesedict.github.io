@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoi
-* %date-modified --> 2024-09-13
+* %date-modified --> 2024-09-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -108,7 +108,7 @@ W
         [[je5 zoi1 jau4 jaa5 野哉由也]]^
         what a clown is Yau!
     - _(1)k(u/) (1)ch(i/) (1)tsoi, (1)k(u/) (1)ch(i/) (1)tsoi_
-        [[gu1 zi1 zoi1 gu1 zi1 zoi1 沽之哉沽之哉]],
+        [[gu1 zi1 zoi1, gu1 zi1 zoi1 沽之哉沽之哉]],
         sell it! sell it!
     ==
   ====
