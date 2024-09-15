@@ -107,6 +107,7 @@ $$
 =={.modern}
 - $才4
 - $材4
+- $財4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -213,5 +214,67 @@ W
 C
   ==
   - Williams' "materièl": Probably a misspelling of "matériel".
+  ==
+$$
+
+### 財4 | _(4)Ts(')oi_ [[coi4]]
+
+$$
+R
+  ⾙ + 3
+U
+  U+8CA1
+F
+  ==
+  - [[F2.44 財]] 寶也又貨也
+  ==
+W
+  ====
+  - [[Page~590 (4)財]]
+    ==
+    - Wealth, riches, valuables, property, possessions, goods,
+      whatever men can use;
+    - profits;
+    - bribes;
+    - presents;
+    - _(4)ts(')oi (2)ch(u") (2)l(o\)_
+        [[coi4 zyu2 lou2 財主佬]],
+        a rich man;
+    - _(4)ts(')oi (1)tung_
+        [[coi4 dung1 財東]],
+        a capitalist, a moneyed man;
+    - _k(')ap(7) (4)ts(')oi_
+        [[kap1 coi4 吸財]],
+        quick at money making;
+    - _f(a/)t(8) (4)ts(')oi_
+        [[faat3 coi4 發財]],
+        to get rich, to make money;
+    - _(1)t(')(i/)n (4)ts(')oi_
+        [[tin1 coi4 天財]],
+        good luck, as a prize in a lottery;
+    - _(4)ts(')oi p(a/)k(9) (1)sing (1)kwan_ [[coi4 baak6 sing1 gwan1 財帛星君]],
+        or
+      _(4)ts(')oi (4)shan_ [[coi4 san4 財神]],
+      god of wealth, Plutus, Mammon;
+    - _(1)t(')au (1)k(a/) (4)ts(')oi_
+        [[tau1 gaa1 coi4 偷家財]],
+        a thief of a cook;
+    - _(4)ts(')oi (5)lai_
+        [[coi4 lai5 財禮]],
+        presents, complimentary gifts;
+    - _p(')o(3) (4)ts(')oi (2)tong (1)tsoi_
+        [[po3 coi4 dong2 zoi1 破財擋災]],
+        to lavish money to ward off (or remedy) calamity;
+    - _(4)ts(')oi (2)ho [(5)](i/) (1)t(')ung (4)shan_
+        [[coi4 ho2 ji5 tung1 san4 財可以通神]],
+        money can move the gods;
+    - _(5)n(i/) (4)'m hai(6) (4)ts(')oi (4)shan_
+        [[nei5 m4 hai6 coi4 san4 你唔係財神]],
+        you've bought nothing of me, you've given me no custom.
+    ==
+  ====
+C
+  ==
+  - Williams' 財可以通神: Corrected _(2)(i/)_ (ji2) to _(5)(i/)_ (ji5).
   ==
 $$
