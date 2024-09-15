@@ -384,6 +384,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $纖cim1
+      - $纔coi4
       ==
       </nav>
 ''

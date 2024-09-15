@@ -107,6 +107,7 @@ $$
 =={.modern}
 - $才4
 - $材4
+- $纔4
 - $裁4
 - $財4
 ==
@@ -171,6 +172,10 @@ W
         eloquent.
     ==
   ====
+C
+  ==
+  - Also used for $纔coi4.
+  ==
 $$
 
 ### 材4 | _(4)Ts(')oi_ [[coi4]]
@@ -215,6 +220,54 @@ W
 C
   ==
   - Williams' "materièl": Probably a misspelling of "matériel".
+  ==
+$$
+
+### 纔4 | _(4)Ts(')oi_ [[coi4]]
+
+$$
+R
+  ⽷ + 17
+U
+  U+7E94
+A
+  ==
+  -{.modern} 才
+  ==
+F
+  ==
+  - [[F2.44 纔]] ::暫也[僅]也又剛纔方纔::
+  - [[F2.44 ⿰糸⿱㲋二]] ::同[上]::
+  ==
+W
+  ====
+  - [[Page~590 (4)纔]]
+    ==
+    - An adverb of time;
+    - near to, at hand, nearly reaching to;
+    - in a short time, thereupon, presently,
+      then, just then, just now, scarcely;
+    - _(1)fong (4)ts(')oi_
+        [[fong1 coi4 方纔]],
+        then, a little while ago;
+    - _(4)ts(')oi (2)h(o\)_
+        [[coi4 hou2 纔好]],
+        then it will do;
+    - _(4)ts(')oi h(u")(3)_
+        [[coi4 heoi3 纔去]]
+        just gone.
+    ==
+    --
+    Read _(1)sh(a/)m_ [[saam1]]; [[**see $纔saam1**]].
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 謹 to 僅, and corrected 土 to 上.
+  ==
+S
+  ==
+  - $纔saam1 (TODO)
   ==
 $$
 
