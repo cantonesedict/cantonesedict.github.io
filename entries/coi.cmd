@@ -375,6 +375,10 @@ R
   ⼿ + 0
 U
   U+624D
+V
+  ==
+  - coi4-2 (vernacular rising-tone noun in 秀才)
+  ==
 F
   ==
   - [[F2.44 才]] 能也功也畧也
