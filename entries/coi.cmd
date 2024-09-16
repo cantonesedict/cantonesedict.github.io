@@ -109,6 +109,7 @@ $$
 - $寀2
 - $彩2
 - $採2
+- $棌2
 - $綵2
 - $采2
 ==
@@ -258,6 +259,36 @@ W
         to gather flowers.
     ==
   ====
+$$
+
+### 棌2 | _(2)Ts(')oi_ [[coi2]]
+
+$$
+R
+  ⽊ + 8
+U
+  U+68CC
+V
+  ==
+  - coi3 (per 《廣韻》倉代切)
+  ==
+F
+  ==
+  - [[F2.45 棌]] 木名
+  ==
+W
+  ====
+  - [[Page~591 (2)棌]]
+    ==
+    - A sort of tree, whose wood is hard and durable,
+      like that of the chestnut or locust.
+    ==
+  ====
+C
+  ==
+  - The reading _(2)ts(')oi_ (coi2) is not unattested;
+    Kangxi quotes 《集韻》《韻會》《正韻》𠀤此宰切音采.
+  ==
 $$
 
 ### 綵2 | _(2)Ts(')oi_ [[coi2]]
