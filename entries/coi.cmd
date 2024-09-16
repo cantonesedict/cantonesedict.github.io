@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coi
-* %date-modified --> 2024-09-15
+* %date-modified --> 2024-09-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -107,6 +107,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $寀2
+- $彩2
 - $採2
 - $采2
 ==
@@ -140,6 +141,86 @@ W
         [[liu4 coi2 寮寀]],
         officers exercising jurisdiction over the same circuit.
     ==
+  ====
+$$
+
+### 彩2 | _(2)Ts(')oi_ [[coi2]]
+
+$$
+R
+  ⼺ + 8
+U
+  U+5F69
+A
+  ==
+  - $采2
+  ==
+F
+  ==
+  - [[F2.44 彩]] 光彩
+  ==
+W
+  ====
+  - [[Page~591 (2)彩]]
+    ==
+    - Variegated, mixed or ornamented with different colors;
+    - elegant, gay, colored;
+    - beautiful, as the figures in silks or gems;
+    - lucky, pleased;
+    - _(1)kwong (2)ts(')oi_
+        [[gwong1 coi2 光彩]],
+        brilliant;
+        smooth, as a shaven head;
+    - _(2)h(o\) (2)ts(')oi_
+        [[hou2 coi2 好彩]],
+        fortunate, a good chance;
+    - _(5)m(o\) (2)ts(')oi_
+        [[mou5 coi2 冇彩]],
+        unlucky, unprosperous;
+    - _(2)lo (2)ts(')oi_
+        [[lo2 coi2 攞彩]],
+        to get eclat, as actors do;
+    - _hot(8) (2)ts(')oi_
+        [[hot3 coi2 喝彩]],
+        to clap, to encore actors;
+    - _(1)kam (1)f(a/) (2)ts(')oi (4)hung_
+        [[gam1 faa1 coi2 hung4 金花彩紅]],
+        tinsel and red silk, such as is used on joyful occasions;
+    - _(2)h(i/) [ko](3) (2)ts(')oi_
+        [[hei2 go3 coi2 起個彩]],
+        let us have a rejoicing, as after one is out of prison;
+    - _t(u")t(9) (2)ts(')oi_
+        [[dyut6 coi2 奪彩]],
+        to get to the goal, to win the praise;
+    - _(2)ts(')oi (4)ts(')(i/)n_
+        [[coi2 cin4 彩錢]],
+        the winner's douceur, the lucky man's present;
+    - _(2)ts(')oi (4)k(')(i/)_
+        [[coi2 kei4 彩旗]],
+        variegated banners, as those used at weddings;
+    - _(5)'ng (2)ts(')oi_
+        [[ng5 coi2 五彩]],
+        variegated, colored.
+    ==
+  ====
+C
+  ==
+  - Williams' 起個彩: Corrected _kwo(3)_ (gwo3) to _ko(3)_ (go3).
+  ==
+E
+  ====
+  - 【彩數】 (coi2 sou3):
+    ++
+    1. Luck, fortune.
+    ++
+  - 【好彩】 (hou2 coi2):
+    ++
+    1. Lucky, fortunate.
+       ==
+       - 好彩冇落雨 (hou2 coi2 mou5 lok6 jyu5): "Fortunately [it] didn't rain."
+       - 唔好彩 (m4 hou2 coi2): "Unlucky."
+       ==
+    ++
   ====
 $$
 
