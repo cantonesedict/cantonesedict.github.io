@@ -110,6 +110,7 @@ $$
 - $彩2
 - $採2
 - $棌2
+- $睬2
 - $綵2
 - $采2
 ==
@@ -289,6 +290,30 @@ C
   - The reading _(2)ts(')oi_ (coi2) is not unattested;
     Kangxi quotes 《集韻》《韻會》《正韻》𠀤此宰切音采.
   ==
+$$
+
+### 睬2 | _(2)Ts(')oi_ [[coi2]]
+
+$$
+R
+  ⽬ + 8
+U
+  U+776C
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~591 (2)睬]]
+    ==
+    - To pay attention to, to notice, to greet;
+    - _(4)'m (1)ts(')au (4)'m (2)ts(')oi_
+        [[m4 cau1 m4 coi2 唔瞅唔睬]]^
+        the cut direct, not to recognize;
+    - _(4)'m (2)ts(')oi_
+        [[m4 coi2 唔睬]],
+        not to acknowledge.
+    ==
+  ====
 $$
 
 ### 綵2 | _(2)Ts(')oi_ [[coi2]]
