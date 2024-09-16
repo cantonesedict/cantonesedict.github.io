@@ -109,6 +109,7 @@ $$
 - $寀2
 - $彩2
 - $採2
+- $綵2
 - $采2
 ==
 </nav>
@@ -205,6 +206,7 @@ W
   ====
 C
   ==
+  - Also used for $綵coi2.
   - Williams' 起個彩: Corrected _kwo(3)_ (gwo3) to _ko(3)_ (go3).
   ==
 E
@@ -254,6 +256,45 @@ W
     - _(2)ts(')oi (1)f(a/)_
         [[coi2 faa1 採花]],
         to gather flowers.
+    ==
+  ====
+$$
+
+### 綵2 | _(2)Ts(')oi_ [[coi2]]
+
+$$
+R
+  ⽷ + 8
+U
+  U+7DB5
+A
+  ==
+  - $彩2
+  ==
+F
+  ==
+  - [[F2.44 綵]] 文色也繪也
+  ==
+W
+  ====
+  - [[Page~591 (2)綵]]
+    --
+    Interchanged with the last [[$彩2]].
+    --
+    ==
+    - Variegated, colored silk;
+    - particolored;
+    - _k(i/)t(8) (2)ts(')oi_ [[git3 coi2 結綵]],
+        or
+      _kw(a/)(3) (2)ts(')oi (4)ch(')au_ [[gwaa3 coi2 cau4 掛綵綢]],
+        to hang festoons of silk,
+        as is done at the _(2)t(a/) tsi(u/)(3)_ [[daa2 ziu3 打醮]];
+    - _(2)ts(')oi (4)k(')au_
+        [[coi2 kau4 綵球]],
+        a many colored ball;
+    - _(4)ling (2)ts(')oi_
+        [[ling4 coi2 綾綵]],
+        colored sarsnet, used for linings.
     ==
   ====
 $$
