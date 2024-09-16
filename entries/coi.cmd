@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [coi1](#1)
 - [coi2](#2)
+- [coi3](#3)
 - [coi4](#4)
 ==
 </nav>
@@ -407,6 +408,124 @@ C
     """"
   - Williams' 采邑: Corrected _yap(9)_ (jap6) to _yap(7)_ (jap1).
   ==
+$$
+
+
+##{#3 .williams} Ts(')oi(3) [[coi3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $菜3
+- $蔡3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 菜3 | _Ts(')oi(3)_ [[coi3]]
+
+$$
+R
+  ⾋ + 8
+U
+  U+83DC
+F
+  ==
+  - [[F2.45 菜]] 蔬菜
+  ==
+W
+  ====
+  - [[Page~591 菜(3)]]
+    ==
+    - Vegetables, edible herbs, greens;
+    - food, viands;
+    - _(2)h(o\) ts(')oi(3)_
+        [[hou2 coi3 好菜]]
+        good eating;
+    - _(1)ts(')eng ts(')oi(3)_
+        [[ceng1 coi3 青菜]]
+        greens in general;
+    - _sung(3) ts(')oi(3)_
+        [[sung3 coi3 餸菜]]
+        dishes on the table, not rice;
+    - _ts(')oi(3) shik(7)_
+        [[coi3 sik1 菜色]]
+        lank, half starved, like one who has lived on greens;
+    - _h(u")(3) (5)m(a/)i ts(')oi(3)_
+        [[heoi3 maai5 coi3 去買菜]]
+        gone to market;
+    - _p(a/)k(8) ts(')oi(3)_
+        [[baak6 coi3 白菜]]
+        broccoli, the pehtsai [[白菜]];
+    - _(4)h(a/)m ts(')oi(3)_
+        [[haam4 coi3 鹹菜]]
+        sour crout;
+    - _(1)[sh(a/)ng] ts(')oi(3)_
+        [[saang1 coi3 生菜]]
+        lettuce;
+    - _(4)y(e/) ts(')oi(3)_
+        [[je4 coi3 椰菜]]
+        cabbage;
+    - _t(a/)m(6) ts(')oi(3)_
+        [[daam6 coi3 淡菜]]
+        a small kind of oyster;
+    - _ts(')oi(3) (4)yau_
+        [[coi3 jau4 菜油]],
+        rape-seed oil;
+    - _(4)ng(a/) ts(')oi(3)_
+        [[ngaa4 coi3 芽菜]]
+        bean sprouts;
+    - _ts(')oi(3) (1)f(a/)_ [[coi3 faa1 菜花]],
+        a kind of rape of which the _ts(')oi(3) (4)yau_ [[coi3 jau4 菜油]],
+        or herb oil[,] is pressed;
+    - _(2)si(u/) ts(')oi(3)_
+        [[siu2 coi3 小菜]]
+        condiments of leaves and greens;
+    - _(2)hoi ts(')oi(3)_
+        [[hoi2 coi3 海菜]]
+        seaweed;
+        limpets.
+    ==
+  ====
+C
+  ==
+  - Williams' 白菜: Not broccoli, but the bok-choy.
+  - Williams' 生菜: Changed _(1)shang_ (sang1)
+    to vernacular reading _(1)sh(a/)ng_ (saang1).
+  ==
+E
+  ====
+  - 【菜】 (coi3):
+    ++
+    1. (_derogatory_, _objectification_) Girlfriend.
+       ==
+       - 你條菜呢 (nei5 tiu4 coi3 ne1): "[Where's] your chick?"
+       ==
+    ++
+  ====
+$$
+
+### 蔡3 | _Ts(')oi(3)_ [[coi3]]
+
+$$
+R
+  ⾋ + 11
+U
+  U+8521
+F
+  ==
+  - [[F2.45 菜]] 國名又大龜也又姓
+  ==
+W
+  ====
+  - [[Page~591 蔡(3)]]
+    ==
+    - Grass, herbs, esculent herbs;
+    - a law, a rule;
+    - name of a feudal state, now J(u/)ning f(u/) [[汝寧府]]
+      in the southeast of Hon(a/)n [[河南]].
+    ==
+  ====
 $$
 
 

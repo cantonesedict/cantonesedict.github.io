@@ -979,6 +979,7 @@ For all radicals, see [Index of characters by radical](./).
       - $萋cai1
       - $菖coeng1
       - $萇coeng4
+      - $菜coi3
       - $菑zi1
       - $菑zoi1
       - $菁zing1
@@ -1013,6 +1014,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $蔯can4
+      - $蔡coi3
       - $蓻zap1
       - $蔗ze3
       - $蔣zoeng1

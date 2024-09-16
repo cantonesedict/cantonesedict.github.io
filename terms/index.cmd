@@ -404,6 +404,9 @@ window.onload = applyFilter;
     , coi2 sou3
     , [彩數](/entries/coi#cantonese-彩數)
   //
+    , coi3
+    , [菜](/entries/coi#cantonese-菜)
+  //
     , cou2 faa1 tau4-2
     , [草花頭](/entries/cou#cantonese-草花頭)
   //
