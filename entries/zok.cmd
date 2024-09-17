@@ -148,11 +148,34 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $怍6
 - $昨6
 - $濯6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 怍6 | _Tsok(9)_ [[zok6]]
+
+$$
+R
+  ⼼ + 5
+U
+  U+600D
+F
+  ==
+  - [[F1.103 怍]] 愧怍
+  ==
+W
+  ====
+  - [[Page~592 怍(9)]]
+    ==
+    - Ashamed, disconcerted, out of countenance;
+    - to blush, to redden;
+    - blushing, shamefaced.
+    ==
+  ====
+$$
 
 ### 昨6 | _Tsok(9)_ [[zok6]]
 
