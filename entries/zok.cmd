@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [zok3](#3)
 - [zok6](#6)
 ==
 </nav>
@@ -40,6 +41,82 @@ WP
 MP
   ==
   - zok = [tsɔːk̚], [tɕɔːk̚] ((preferred))
+  ==
+$$
+
+
+##{#3 .williams} Tsok(8) [[zok3 低陰入]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $作3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 作3 | _Tsok(8)_ [[zok3]]
+
+$$
+R
+  ⼈ + 5
+U
+  U+4F5C
+F
+  ==
+  - [[F1.102 作]] 起也造也爲也
+  ==
+W
+  ====
+  - [[Page~592 作(8)]]
+    ==
+    - To act, to do, to make;
+    - to begin, to discover, to invent;
+    - to arise, to appear;
+    - to rouse, to animate, as to a reform;
+    - work, workmanship;
+    - _tsok(8) (4)wai_
+        [[zok3 wai4 作為]]^
+        acts, conduct, doings;
+    - _tsok(8) fuk(7)_
+        [[zok3 fuk1 作福]]
+        to supplicate blessings;
+    - _peng(6) f(a/)t(8) tsok(8)_
+        [[beng6 faat3 zok3 病發作]]
+        my ailment has come again;
+    - _h(a/)(6) tsok(8)_
+        [[haa6 zok3 下作]]
+        mean acts;
+    - _tsok(8) (1)k(a/)_
+        [[zok3 gaa1 作家]],
+        a writer, an essayist;
+    - _(2)h(o\) tsok(8) (1)k(a/)_
+        [[hou2 zok3 gaa1 好作家]],
+        fine, delicate work;
+        well set out;
+    - _sai(3) tsok(8)_
+        [[sai3 zok3 細作]]
+        a spy;
+    - _tsok(8) (4)man (1)ch(e/)ung_
+        [[zok3 man4 zoeng1 作文章]],
+        to compose essays;
+    - _tsok(8) (2)f(a/)n_
+        [[zok3 faan2 作反]],
+        to turn rebel;
+    - _tsok(8) hai(6) (2)k(o\)m_
+        [[zok3 hai6 gam2 作係噉]],
+        well, let it be this way;
+    - _tsok(8) (2)sz' (4)lai lok(8)_
+        [[zok3 sei2 lai4 lok3 作死嚟咯]]
+        you wish to die, I think, said in anger to a careless man;
+    - _(1)kung tsok(8)_
+        [[gung1 zok3 工作]]
+        workmanship.
+    ==
+  ====
+C
+  ==
+  - Williams' 工作: Now "work".
   ==
 $$
 
