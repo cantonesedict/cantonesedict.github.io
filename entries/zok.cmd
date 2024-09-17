@@ -153,6 +153,7 @@ $$
 - $柞6
 - $濯6
 - $酢6
+- $鑿6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -298,4 +299,61 @@ W
     - to recompense, to return a compliment.
     ==
   ====
+$$
+
+### 鑿6 | _Tsok(9)_ [[zok6]]
+
+$$
+R
+  ⾦ + 20
+U
+  U+947F
+V
+  ==
+  - zok6-2 (vernacular rising-tone noun)
+  ==
+F
+  ==
+  - [[F1.103 ::[鑿]::]] ::[鏨鑿]又精也實也::
+  ==
+W
+  ====
+  - [[Page~592 鑿(9)]]
+    ==
+    - A chissel, a punch;
+    - a cold chissel;
+    - to cut, to bore into, to chissel;
+    - to dig, as a well;
+    - to open out, as a road;
+    - to brand, to mark, as a thief;
+    - _shek(9) tsok(9)_
+        [[sek6 zok6-2 石鑿]]
+        a stone chissel;
+    - _tsok(9) shek(9)_
+        [[zok6 sek6 鑿石]]
+        to cut stone;
+    - _ts(u")n(3) tsok(9)_
+        [[zyun3 zok6 鑽鑿]]
+        to bore a bole, to punch the face;
+    - _(1)k(u/)n (4)ts(')oi tsok(9)_
+        [[gun1 coi4 zok6-2 棺材鑿]]
+        you coffin chissel!
+        you impertinent fellow!
+    - _(4)ngo (4)m(i/) tsok(9)_
+        [[ngo4 mei4 zok6-2 蛾眉鑿]]
+        a half-moon gouge;
+    - _(4)(i/)n (1)ch(i/) tsok(9) tsok(9) (2)ho [t(')ing](3)_
+        [[jin4 zi1 zok6 zok6 ho2 ting3 言之鑿鑿可聽]]
+        he will believe if he has repeated proofs.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised headword ⿱⿰凿殳金 to 鑿,
+    and corrected ⿱⿰車⿱𠂉力金 to 鏨.
+  - Williams' 言之鑿鑿可聽:
+    Corrected _t(')eng(3)_ (teng3) to _t(')ing(3)_ (ting3).
+    Note that in this sense ("clear"),
+    the classical reading of 鑿 is _tsok(8)_ (zok3) per 《廣韻》則落切.
+  ==
 $$
