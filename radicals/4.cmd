@@ -479,6 +479,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $擦caat3
       - $擢zaak6
+      - $擢zok6
       - $擠zai1
       ==
       </nav>

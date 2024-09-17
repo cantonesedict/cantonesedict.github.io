@@ -149,6 +149,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $怍6
+- $擢6
 - $昨6
 - $柞6
 - $濯6
@@ -178,6 +179,41 @@ W
     - blushing, shamefaced.
     ==
   ====
+$$
+
+###+ 擢6 | _Chok(9)_ (zok6)
+
+$$
+R
+  ⼿ + 14
+U
+  U+64E2
+V
+  ==
+  - zaak6 (Fan Wan)
+  ==
+F
+  ==
+  - [[F2.89 擢 _Ch(a/)k(9)_ (zaak6)]] 拔抽也取用也
+  ==
+W
+  ====
+  - [[Page~13|n56 擢(9) _Ch(a/)k(9)_ (zaak6); here normalised to _Chok(9)_ (zok6)]]
+    ==
+    - To pull up;
+    - to take out, to select, to raise, to promote;
+    - to employ in office;
+    - to reject, to extinguish, as good resolutions;
+    - _[chok](9) f(a/)t(8) (4)n(a/)n (2)sh(o\)_
+        [[zok6 faat3 naan4 sou2 擢髮難數]],
+        the hairs can not be counted by pulling them out---\
+        his crimes are [numberless].
+    ==
+  ====
+S
+  ==
+  - $擢zaak6
+  ==
 $$
 
 ### 昨6 | _Tsok(9)_ [[zok6]]
