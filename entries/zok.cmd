@@ -190,7 +190,7 @@ W
         sleek, as fat animals;
     - _(2)sh(a/) chok(9)_
         [[saa2 zok6 灑濯]]
-        to sprinkle (_i.~e.~cleanse) the heart.
+        to sprinkle (_i.~e._~cleanse) the heart.
     ==
   ====
 $$
