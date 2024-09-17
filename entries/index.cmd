@@ -842,7 +842,7 @@ See also: [Index of Cantonese terms by Jyutping](/terms/).
 - $zoek
 - $zoeng
 - $zoi
-- $zok (work in progress)
+- $zok
 - $zong (work in progress)
 - $zou
 - $zuk (work in progress)
