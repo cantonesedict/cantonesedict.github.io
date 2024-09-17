@@ -152,6 +152,7 @@ $$
 - $昨6
 - $柞6
 - $濯6
+- $酢6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -274,6 +275,27 @@ W
     - _(2)sh(a/) chok(9)_
         [[saa2 zok6 灑濯]]
         to sprinkle (_i.~e._~cleanse) the heart.
+    ==
+  ====
+$$
+
+### 酢6 | _Tsok(9)_ [[zok6]]
+
+$$
+R
+  ⾣ + 5
+U
+  U+9162
+F
+  ==
+  - [[F1.103 酢]] 酧酢
+  ==
+W
+  ====
+  - [[Page~592 酢(9)]]
+    ==
+    - To pledge a host, to return health;
+    - to recompense, to return a compliment.
     ==
   ====
 $$
