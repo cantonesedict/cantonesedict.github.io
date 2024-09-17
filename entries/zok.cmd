@@ -51,6 +51,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $作3
+- $昨3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -120,6 +121,27 @@ C
   ==
 $$
 
+###+ 昨3 | _Tsok(8)_ (zok3)
+
+$$
+R
+  ⽇ + 5
+U
+  U+6628
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation. **See $昨zok6 for the canonical entry.**
+  ==
+S
+  ==
+  - $昨zok6
+  ==
+$$
+
 
 ##{#6 .williams} Chok(9) Tsok(9) [[zok6 陽入]]
 
@@ -165,6 +187,10 @@ W
         I recently heard it.
     ==
   ====
+S
+  ==
+  - $昨zok3
+  ==
 $$
 
 ### 濯6 | _Chok(9)_ [[zok6]]
