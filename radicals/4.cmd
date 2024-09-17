@@ -973,6 +973,7 @@ For all radicals, see [Index of characters by radical](./).
       - $枳zat1
       - $枳zi2
       - $柘ze3
+      - $柞zok6
       ==
       </nav>
   //

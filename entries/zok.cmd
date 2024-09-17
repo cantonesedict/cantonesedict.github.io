@@ -150,6 +150,7 @@ $$
 =={.modern}
 - $怍6
 - $昨6
+- $柞6
 - $濯6
 ==
 </nav>
@@ -213,6 +214,39 @@ W
 S
   ==
   - $昨zok3
+  ==
+$$
+
+### 柞6 | _Tsok(9)_ [[zok6]]
+
+$$
+R
+  ⽊ + 5
+U
+  U+67DE
+V
+  ==
+  - zok3 (alternative per 《廣韻》則落切)
+  ==
+F
+  ==
+  - [[F1.103 柞]] 木名
+  ==
+W
+  ====
+  - [[Page~592 柞(9)]]
+    ==
+    - A spinous tree of firm wood,
+      whose new leaves appear as the old ones fall;
+    - a locust?
+    ==
+    --
+    Read _ch(a/)k(8)_ [[zaak3]]; [[**see $柞zaak3**]].
+    --
+  ====
+S
+  ==
+  - $柞zaak3 (TODO)
   ==
 $$
 
