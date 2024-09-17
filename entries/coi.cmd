@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coi
-* %date-modified --> 2024-09-16
+* %date-modified --> 2024-09-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -416,11 +416,42 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $塞3
 - $菜3
 - $蔡3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 塞3 | _Ts(')oi(3)_ [[coi3]]
+
+$$
+R
+  ⼟ + 10
+U
+  U+585E
+F
+  ==
+  - [[F2.45 塞 _Soi(3)_ (soi3)]] 邊界也
+  ==
+W
+  ====
+  - [[Page~591 塞(3)]]
+    ==
+    - A boundary, a frontier, a limit;
+    - _ch(')ut(7) ts(')oi(3)_
+        [[ceot1 coi3 出塞]]
+        to travel abroad;
+    - _ts(')oi(3) ngoi(6)_
+        [[coi3 ngoi6 塞外]]
+        beyond the frontier.
+    ==
+  ====
+S
+  ==
+  - $塞sak1 (TODO)
+  ==
+$$
 
 ### 菜3 | _Ts(')oi(3)_ [[coi3]]
 
