@@ -126,10 +126,46 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $昨6
 - $濯6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 昨6 | _Tsok(9)_ [[zok6]]
+
+$$
+R
+  ⽇ + 5
+U
+  U+6628
+V
+  ==
+  - zok3 (common)
+  ==
+F
+  ==
+  - [[F1.103 昨]] 昔日也
+  ==
+W
+  ====
+  - [[Page~592 昨(9)]]
+    ==
+    - Yesterday;
+    - time past;
+    - recently;
+    - _tsok(9) yat(9)_
+        [[zok6 jat6 昨日]]
+        yesterday;
+    - _tsok(9) (5)m(a/)n_
+        [[zok6 maan5 昨晚]],
+        last evening, last night;
+    - _tsok(9) (4)man_
+        [[zok6 man4 昨聞]],
+        I recently heard it.
+    ==
+  ====
+$$
 
 ### 濯6 | _Chok(9)_ [[zok6]]
 
