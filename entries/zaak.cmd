@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2024-09-14
+* %date-modified --> 2024-09-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -43,6 +43,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $嘖3
+- $柞3
 - $矺3
 - $砸3
 - $磧3
@@ -95,6 +96,36 @@ C
 S
   ==
   - $嘖zik1
+  ==
+$$
+
+### 柞3 | _Ch(a/)k(8)_ [[zaak3]]
+
+$$
+R
+  ⽊ + 5
+U
+  U+67DE
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~592 柞(9)]]
+    --
+    [[...]]
+    --
+    --
+    Read _ch(a/)k(8)_ [[zaak3]]
+    --
+    ==
+    - to root up trees;
+    - to fell trees;
+    - narrow, confined.
+    ==
+  ====
+S
+  ==
+  - $柞zok6
   ==
 $$
 

@@ -241,12 +241,12 @@ W
     - a locust?
     ==
     --
-    Read _ch(a/)k(8)_ [[zaak3]]; [[**see $柞zaak3**]].
+    Read _ch(a/)k(8)_ [[zaak3]] [[**see $柞zaak3**]].
     --
   ====
 S
   ==
-  - $柞zaak3 (TODO)
+  - $柞zaak3
   ==
 $$
 
