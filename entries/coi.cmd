@@ -419,6 +419,7 @@ $$
 - $塞3
 - $菜3
 - $蔡3
+- $賽3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -555,6 +556,42 @@ W
     - a law, a rule;
     - name of a feudal state, now J(u/)ning f(u/) [[汝寧府]]
       in the southeast of Hon(a/)n [[河南]].
+    ==
+  ====
+$$
+
+### 賽3 | _Ts(')oi(3)_ [[coi3]]
+
+$$
+R
+  ⾙ + 10
+U
+  U+8CFD
+F
+  ==
+  - [[F2.45 賽 _Soi(3)_ (soi3)]] 比併也又報賽
+  ==
+W
+  ====
+  - [[Page~592 賽(3)]]
+    ==
+    - To recompense, to thank;
+    - to strive to surpass, to contest for, to emulate, to match;
+    - excelling, contesting;
+    - to announce a thank offering, to make an offering;
+    - a show of;
+    - _ts(')oi(3) (1)tang_
+        [[coi3 dang1 賽燈]],
+        to show lanterns, on the festival of lanterns, at 15th of 1st~moon;
+    - _ts(')oi(3) (4)shan_
+        [[coi3 san4 賽神]],
+        to get up religious processions;
+    - _ts(')oi(3) shik(7)_
+        [[coi3 sik1 賽色]]
+        to show figures, to emulate in making a fine display in processions;
+    - _(2)t(o\) ts(')oi(3)_
+        [[dou2 coi3 賭賽]]
+        to wager.
     ==
   ====
 $$
