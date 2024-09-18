@@ -1276,6 +1276,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $裎cing2
       - $裎cing4
+      - $裝zong1
       ==
       </nav>
   //

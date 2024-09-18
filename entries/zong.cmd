@@ -45,6 +45,7 @@ $$
 - $庄1
 - $粧1
 - $莊1
+- $裝1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -226,4 +227,98 @@ C
     <## TODO: 㨆莊 lam6 zong1 ##>
     <## TODO: 過莊 gwo3 zong1 ##>
   ==
+$$
+
+### 裝1 | _(1)Chong_ [[zong1]]
+
+$$
+R
+  ⾐ + 7
+U
+  U+88DD
+F
+  ==
+  - [[F1.95 裝]] ::裝[束]整飾也又嫁裝又行裝::
+  ==
+W
+  ====
+  - [[Page~27* (1)裝]]
+    ==
+    - Used for the preceding [[$妝1]];
+    - to bind, to tie on, to dress;
+    - style, dress, fashion;
+    - to put into, to store, to load or stow in;
+    - to pack;
+    - to catch in, as rain;
+    - to receive, to contain;
+    - to send to, as a present;
+    - _(4)hang (1)chong_
+        [[hang4 zong1 行裝]],
+        dress for travel;
+        baggage;
+    - _(4)h(a/)n (1)chong_
+        [[haan4 zong1 閒裝]],
+        dishabille, a common dress;
+    - _mat(7) (5)y(e/) (1)chong (4)t(')au_
+        [[mat1 je5 zong1 tau4 乜嘢裝頭]],
+        what style, what sort?
+    - _(1)chong (5)l(i/)m_
+        [[zong1 lim5 裝殮]],
+        to enshroud;
+    - _(1)chong (2)pi(u/)_
+        [[zong1 biu2 裝裱]],
+        to put up, as pictures;
+    - _(1)chong (2)hau_
+        [[zong1 hau2 裝口]],
+        a foreign mercantile house;
+    - _(1)chong [(2)]ki(u/)_
+        [[zong1 giu6-2 裝轎]],
+        tip up the sedan;
+    - _(4)m(o\) (4)t(')(i/)n (1)chong_
+        [[mou4 tin1 zong1 無天裝]],
+        no place or heaven for you;
+    - _p(a/)n(6) ch(e/)uk[(9)] (4)t(')ong (1)chong_
+        [[baan6 zoek6 tong4 zong1 扮着唐裝]]^
+        to disguise one's self as a Chinese;
+    - _(1)chong (2)ching_
+        [[zong1 zing2 裝整]],
+        to put in order, to adorn;
+    - _(1)chong tsoi(3)_
+        [[zong1 zoi3 裝載]]
+        to pack, to contain;
+    - _(1)chong ts(')i(u/)(3)_
+        [[zong1 ciu3 裝？]]
+        to pack duties to be forwarded;
+    - _(1)chong (4)t(')au m(a/)i(6) m(i/)n(6)_
+        [[zong1 tau4 maai6 min6 裝頭賣面]]
+        to place the best goods on top to sell by;
+    - _(4)Ming (1)chong_
+        [[ming4 zong1 明裝]],
+        style of the Ming [[明]] dynasty;
+    - _(1)chong (4)m(o\) tsok(8) y(e/)ung(6)_
+        [[zong1 mou4 zok3 joeng6 裝模作樣]]
+        to take airs on one;
+    - _(1)chong ch(')uk(7) (2)h(o\) hon(3)_
+        [[zong1 cuk1 hou2 hon3 裝束好看]]
+        well dressed.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 朿 to 束.
+  - Williams' "Used for the preceding": I have not seen 裝 used for 妝.
+  - Williams' 裝轎: Corrected _(5)ki(u/)_ (giu6-5) to _(2)ki(u/)_ (giu6-2).
+  - Williams' 扮着唐裝: Corrected _ch(e/)uk(8)_ (zoek3) to _ch(e/)uk(9)_ (zoek6).
+  ==
+E
+  ====
+  - 【裝飯】 (zong1 faan6):
+    ++
+    1. To fill a bowl with rice.
+    ++
+  - 【裝香】 (zong1 hoeng1):
+    ++
+    1. To insert incense into a censer.
+    ++
+  ====
 $$

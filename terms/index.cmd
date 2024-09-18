@@ -935,6 +935,12 @@ window.onload = applyFilter;
     , zoeng6 gan1
     , [橡筋](/entries/zoeng#cantonese-橡筋)
   //
+    , zong1 faan6
+    , [裝飯](/entries/zong#cantonese-裝飯)
+  //
+    , zong1 hoeng1
+    , [裝香](/entries/zong#cantonese-裝香)
+  //
     , zou1 zat1
     , [糟質](/entries/zou#cantonese-糟質)
   //
