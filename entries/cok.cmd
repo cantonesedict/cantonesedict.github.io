@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [cok3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -37,5 +38,60 @@ WP
 MP
   ==
   - cok = [tsʰɔːk̚], [tɕʰɔːk̚] ((preferred))
+  ==
+$$
+
+
+##{#3 .williams} Ts(')ok(8) [[cok3 低陰入]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $錯3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 錯3 | _Ts(')ok(8)_ [[cok3]]
+
+$$
+R
+  ⾦ + 8
+U
+  U+932F
+F
+  ==
+  - [[F1.102 錯]] 舛也乖也誤也亂也
+  ==
+W
+  ====
+  - [[Page~588 錯(3) _Ts(')(o\)(3)_ (cou3); here corrected to _Ts(')ok(8)_ (cok3)]]
+    --
+    [[...]]
+    --
+    ==
+    - To cut or work stones;
+    - [[...]].
+    ==
+  - [[Page~592 錯(8)]]
+    ==
+    - To wash or plate with gold;
+    - the stripes, striæ, streaks, &c., in stones or fabrics;
+    - to file or polish;
+    - to tattoo;
+    - a stone for grinding gems or glass;
+    - mixed, crossed, barred, confused;
+    - _ts(')ok(8) p(i/)(3)_
+        [[cok3 bei3 錯臂]]
+        to tattoo the arm.
+    ==
+    --
+    A colloquial word [[TODO]].
+    --
+  ====
+S
+  ==
+  - $錯co3
+  - $錯cou3
   ==
 $$
