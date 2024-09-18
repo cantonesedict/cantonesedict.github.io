@@ -43,6 +43,7 @@ $$
 =={.modern}
 - $妝1
 - $庄1
+- $粧1
 - $莊1
 ==
 </nav>
@@ -125,6 +126,27 @@ W
   - [[Page~27* (1)庄]]
     --
     [[Alternative form of 莊. **See $莊zong1 for the canonical entry.**]]
+    --
+  ====
+$$
+
+### 粧1 | _(1)Chong_ [[zong1]]
+
+$$
+R
+  ⽶ + 6
+U
+  U+7CA7
+F
+  ==
+  - [[F1.95 粧]] 粧飾又嫁粧
+  - [[F1.95 妝]] 同上
+  ==
+W
+  ====
+  - [[Page~27* (1)粧(1)妝]]
+    --
+    [[Alternative form of 妝. **See $妝zong1 for the canonical entry.**]]
     --
   ====
 $$
