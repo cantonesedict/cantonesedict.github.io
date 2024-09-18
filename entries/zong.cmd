@@ -41,11 +41,72 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $妝1
 - $庄1
 - $莊1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 妝1 | _(1)Chong_ [[zong1]]
+
+$$
+R
+  ⼥ + 4
+U
+  U+599D
+A
+  ==
+  - $粧1
+  ==
+F
+  ==
+  - [[F1.95 粧]] 粧飾又嫁粧
+  - [[F1.95 妝]] 同上
+  ==
+W
+  ====
+  - [[Page~27* (1)粧(1)妝]]
+    ==
+    - To adorn the head;
+    - ornamented, dressed;
+    - to dress;
+    - to rouge, to adorn;
+    - to feign, to appear in false guise;
+    - _(1)sho (1)chong_
+        [[so1 zong1 梳妝]],
+        to dress the hair;
+    - _(1)chong p(a/)n(6)_
+        [[zong1 baan6 妝扮]]
+        the dress, the style;
+    - _(1)chong p(a/)n(6) (2)h(i/) (4)lai_
+        [[zong1 baan6 hei2 lai4 妝扮起嚟]],
+        her toilet is made;
+    - _(i/)m(6) (1)chong_
+        [[jim6 zong1 豔妝]],
+        elegantly dressed;
+    - _(1)chong shik(7)_
+        [[zong1 sik1 妝飾]]
+        dressed out, elegant, adorned;
+    - _(1)chong (4)l(i/)m_ [[zong1 lim4 妝奩]],
+        or
+      _k(a/)(3) (1)chong_ [[gaa3 zong1 嫁妝]],
+        a bride's trousseau, or dowry;
+    - _(1)sho (1)chong (4)p(')(u/)n_
+        [[so1 zong1 pun4 梳妝盆]],
+        a paper toilette burned to Diana in the 7th~moon;
+    - _s(o\)(3) (1)chong_
+        [[sou3 zong1 素妝]],
+        plainly dressed;
+    - _(1)chong (1)hong_
+        [[zong1 hong1 妝腔]],
+        proud, distant;
+    - _(4)yung (1)chong_
+        [[jung4 zong1 濃妝]],
+        overdressed, bedizened.
+    ==
+  ====
+$$
 
 ### 庄1 | _(1)Chong_ [[zong1]]
 
