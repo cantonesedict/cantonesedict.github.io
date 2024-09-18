@@ -48,6 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $剒3
+- $厝3
 - $錯3
 ==
 </nav>
@@ -105,6 +106,35 @@ E
   ====
 $$
 
+###+ 厝3 | _Ts(')ok(8)_ (cok3)
+
+$$
+R
+  ⼚ + 8
+U
+  U+539D
+A
+  ==
+  -{.modern} $錯3
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - The reading _ts(')ok(8)_ (cok3) for 厝 is not present in Williams;
+    an entry is included here for completeness.
+    ++
+    1. A whetstone.
+    ++
+  ==
+S
+  ==
+  - $厝cou3
+  ==
+$$
+
 ### 錯3 | _Ts(')ok(8)_ [[cok3]]
 
 $$
@@ -143,6 +173,10 @@ W
     [[here normalised to 剒; **see $剒cok3 for the canonical entry**]].
     --
   ====
+C
+  ==
+  - The "whetstone" sense is also spelt 厝; see $厝cok3.
+  ==
 S
   ==
   - $錯co3
