@@ -198,4 +198,10 @@ W
         laborers on a farm.
     ==
   ====
+C
+  ==
+  - Also "dealer", in gambling games.
+    <## TODO: 㨆莊 lam6 zong1 ##>
+    <## TODO: 過莊 gwo3 zong1 ##>
+  ==
 $$
