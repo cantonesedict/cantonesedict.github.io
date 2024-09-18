@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cok
-* %date-modified --> 2023-08-02
-* %copyright-prior-years -->
+* %date-modified --> 2024-09-18
+* %copyright-prior-years --> 2023--
 
 %%%
-
---{.modern}
-(From Page~592 of the original onwards.)
---
 
 #{.williams} Ts(')ok. [[cok]]
 
@@ -21,3 +17,25 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Ts(')ok. [[Page~592]]
+  ==
+WP
+  ==
+  - Ts(')ok <span class="modern">= [tsʰɔːk̚]</span>
+  ==
+MP
+  ==
+  - cok = [tsʰɔːk̚], [tɕʰɔːk̚] ((preferred))
+  ==
+$$
