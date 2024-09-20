@@ -47,6 +47,7 @@ $$
 - $粧1
 - $莊1
 - $裝1
+- $䚎1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -353,4 +354,56 @@ E
     1. To insert incense into a censer.
     ++
   ====
+$$
+
+### 䚎1 | _(1)Chong_ [[zong1]]
+
+$$
+R
+  ⾒ + 11
+U
+  U+468E
+A
+  ==
+  -{.modern} $𥊙 (⿰目⿳囟儿夊)1
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~27 (1)䚎]]
+    --
+    [[See $䚎cong1 for classical senses.]]
+    --
+    --
+    A colloquial word.
+    --
+    ==
+    - To peep through a crack;
+    - to hide one away;
+    - _(1)chong (4)k(')am (1)chong shuk(7)_
+        [[zong1 kam4 zong1 suk1 䚎擒䚎縮]]
+        to peep in and out;
+    - _(1)chong (5)h(a/) (5)k(')(u") (2)t(i/)m_
+        [[zong1 haa5 keoi5 dim2 䚎吓佢點]],
+        see how he acts;
+    - _(1)chong (5)k(')(u") ts(')o(3) ch(')(u")(3)_
+        [[zong1 keoi5 co3 cyu3 䚎佢錯處]]
+        mark his errors.
+    ==
+  ====
+E
+  ====
+  - 【䚎】 (zong1):
+    ++
+    1. To look whilst trying not to be seen.
+       ==
+       - 唔准䚎人 (m4 zeon2 zong1 jan4): "No peeping at others!"
+       ==
+    ++
+  ====
+S
+  ==
+  - $䚎cong1 (TODO)
+  ==
 $$
