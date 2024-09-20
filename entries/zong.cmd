@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zong
-* %date-modified --> 2024-09-18
+* %date-modified --> 2024-09-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -43,6 +43,7 @@ $$
 =={.modern}
 - $妝1
 - $庄1
+- $樁1
 - $粧1
 - $莊1
 - $裝1
@@ -129,6 +130,37 @@ W
     [[Alternative form of 莊. **See $莊zong1 for the canonical entry.**]]
     --
   ====
+$$
+
+### [樁]1 | _(1)Chong_ [[zong1]]
+
+$$
+R
+  ⽊ + 11
+U
+  U+6A01
+F
+  ==
+  - [[F1.95 樁]] 松樁
+  ==
+W
+  ====
+  - [[Page~27* (1)[樁]^]]
+    ==
+    - A club;
+    - a post, a stake driven deep into the ground;
+    - _(2)t(a/) (1)chong_
+        [[daa2 zong1 打樁]],
+        to drive piles;
+    - _(4)ts(')ung (1)chong_
+        [[cung4 zong1 松樁]],
+        fir piles.
+    ==
+  ====
+C
+  ==
+  - Williams misprints 樁 as ⿰才舂; here corrected.
+  ==
 $$
 
 ### 粧1 | _(1)Chong_ [[zong1]]
