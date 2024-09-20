@@ -44,6 +44,7 @@ $$
 - $妝1
 - $庄1
 - $樁1
+- $𥊙 (⿰目⿳囟儿夊)1
 - $粧1
 - $莊1
 - $裝1
@@ -161,6 +162,23 @@ W
 C
   ==
   - Williams misprints 樁 as ⿰才舂; here corrected.
+  ==
+$$
+
+###+ 𥊙1 (⿰目⿳囟儿夊) | _(1)Chong_ (zong1)
+
+$$
+R
+  ⽬ + 11
+U
+  U+25299
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Alternative form of 䚎. **See $䚎zong1 for the canonical entry.**
   ==
 $$
 
