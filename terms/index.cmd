@@ -239,11 +239,11 @@ window.onload = applyFilter;
     , caau2
     , [炒](/entries/caau#cantonese-炒)
   //
-    , caau2 jau4-2
-    , [炒魷](/entries/caau#cantonese-炒魷)
-  //
     , caau2 jau4 jyu4-2
     , [炒魷魚](/entries/caau#cantonese-炒魷魚)
+  //
+    , caau2 jau4-2
+    , [炒魷](/entries/caau#cantonese-炒魷)
   //
     , caau3
     , [摷](/entries/caau#cantonese-摷)
@@ -392,17 +392,17 @@ window.onload = applyFilter;
     , coeng3
     , [暢](/entries/coeng#cantonese-暢)
   //
-    , coeng4-2
-    , [腸](/entries/coeng#cantonese-腸)
-  //
-    , coeng4-2 fan2
-    , [腸粉](/entries/coeng#cantonese-腸粉)
-  //
     , coeng4 hei3
     , [長氣](/entries/coeng#cantonese-長氣)
   //
     , coeng4 meng6 ce3
     , [長命斜](/entries/ce#cantonese-長命斜)
+  //
+    , coeng4-2
+    , [腸](/entries/coeng#cantonese-腸)
+  //
+    , coeng4-2 fan2
+    , [腸粉](/entries/coeng#cantonese-腸粉)
   //
     , coi1
     , [啋](/entries/coi#cantonese-啋)
@@ -506,11 +506,11 @@ window.onload = applyFilter;
     , jat1 zan6
     , [一陣~\(later\)](/entries/zan#cantonese-一陣-later)
   //
-    , jat1 zan6-2
-    , [一陣~\(later\)](/entries/zan#cantonese-一陣-later)
-  //
     , jat1 zan6 gaan1
     , [一陣間](/entries/zan#cantonese-一陣間)
+  //
+    , jat1 zan6-2
+    , [一陣~\(later\)](/entries/zan#cantonese-一陣-later)
   //
     , jat1 zou2
     , [一早](/entries/zou#cantonese-一早)
@@ -878,11 +878,11 @@ window.onload = applyFilter;
     , zin3
     , [薦~\(verb\)](/entries/zin#cantonese-薦-verb)
   //
-    , zin3-2
-    , [薦~\(noun\)](/entries/zin#cantonese-薦-noun)
-  //
     , zin3 zeoi2
     , [箭嘴](/entries/zin#cantonese-箭嘴)
+  //
+    , zin3-2
+    , [薦~\(noun\)](/entries/zin#cantonese-薦-noun)
   //
     , zin6 gaak3
     , [賤格](/entries/zin#cantonese-賤格)
@@ -950,17 +950,17 @@ window.onload = applyFilter;
     , zong1 hoeng1
     , [裝香](/entries/zong#cantonese-裝香)
   //
-    , zong6-2 ce4
-    , [撞邪](/entries/zong#cantonese-撞邪)
-  //
-    , zong6-2 gwai2
-    , [撞鬼](/entries/zong#cantonese-撞鬼)
-  //
     , zong6 baan2
     , [撞板](/entries/zong#cantonese-撞板)
   //
     , zong6 coi2
     , [撞彩](/entries/zong#cantonese-撞彩)
+  //
+    , zong6-2 ce4
+    , [撞邪](/entries/zong#cantonese-撞邪)
+  //
+    , zong6-2 gwai2
+    , [撞鬼](/entries/zong#cantonese-撞鬼)
   //
     , zou1 zat1
     , [糟質](/entries/zou#cantonese-糟質)

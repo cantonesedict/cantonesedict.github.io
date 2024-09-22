@@ -815,10 +815,7 @@ class SplitCantoneseEntry(CantoneseEntry):
         return self.rank() < other.rank()
 
     def rank(self):
-        return self.term_sorting_jyutping(), self.term
-
-    def term_sorting_jyutping(self):
-        return self.term_jyutping.replace(' ', '~')   # so that spaces doesn't sort earlier than hyphens
+        return self.term_jyutping.split(), self.term
 
 
 class Statistician:

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caau
-* %date-modified --> 2024-07-15
+* %date-modified --> 2024-09-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -253,13 +253,13 @@ E
        - 炒單車 (caau2 daan1 ce1): "Stacked [my] bike."
        ==
     ++
-  - 【炒魷】 (caau2 jau4-2):
-    ++
-    1. Short for [炒魷魚](#cantonese-炒魷魚).
-    ++
   - 【炒魷魚】 (caau2 jau4 jyu4-2):
     ++
     1. To sack, to fire.
+    ++
+  - 【炒魷】 (caau2 jau4-2):
+    ++
+    1. Short for [炒魷魚](#cantonese-炒魷魚).
     ++
   ====
 $$
