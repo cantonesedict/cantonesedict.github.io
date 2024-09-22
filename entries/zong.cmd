@@ -58,6 +58,7 @@ $$
 - $樁1
 - $𥊙 (⿰目⿳囟儿夊)1
 - $粧1
+- $臧1
 - $莊1
 - $裝1
 - $䚎1
@@ -213,6 +214,36 @@ W
     [[Alternative form of 妝. **See $妝zong1 for the canonical entry.**]]
     --
   ====
+$$
+
+### 臧1 | _(1)Tsong_ [[zong1]]
+
+$$
+R
+  ⾂ + 8
+U
+  U+81E7
+F
+  ==
+  - [[F1.95 臧]] ::善也厚也又奴婢曰臧[獲]::
+  ==
+W
+  ====
+  - [[Page~593 (1)臧]]
+    ==
+    - Good, generous;
+    - virtuous, faithful;
+    - to scold slaves;
+    - _(1)tsong wok[(9)]_
+        [[zong1 wok6 臧獲]]
+        to berate slaves.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised 𫉬 (⿱艹⿰犭隻) to 獲.
+  - Williams' 臧獲: Corrected _wok(8)_ (wok3) to _wok(9)_ (wok6).
+  ==
 $$
 
 ### 莊1 | _(1)Chong_ [[zong1]]
