@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of Cantonese terms by Jyutping
-* %date-modified --> 2024-09-20
+* %date-modified --> 2024-09-22
 * %copyright-prior-years --> 2023--
 * %meta-description --> searchable index of Cantonese terms by Jyutping
 
@@ -157,6 +157,12 @@ window.onload = applyFilter;
   //
     , au3 nai4
     , [漚泥](/entries/au#cantonese-漚泥)
+  //
+    , baak6 zong6
+    , [白撞](/entries/zong#cantonese-白撞)
+  //
+    , baak6 zong6 jyu5
+    , [白撞雨](/entries/zong#cantonese-白撞雨)
   //
     , baau3 caak3
     , [爆坼](/entries/caak#cantonese-爆坼)
@@ -943,6 +949,18 @@ window.onload = applyFilter;
   //
     , zong1 hoeng1
     , [裝香](/entries/zong#cantonese-裝香)
+  //
+    , zong6-2 ce4
+    , [撞邪](/entries/zong#cantonese-撞邪)
+  //
+    , zong6-2 gwai2
+    , [撞鬼](/entries/zong#cantonese-撞鬼)
+  //
+    , zong6 baan2
+    , [撞板](/entries/zong#cantonese-撞板)
+  //
+    , zong6 coi2
+    , [撞彩](/entries/zong#cantonese-撞彩)
   //
     , zou1 zat1
     , [糟質](/entries/zou#cantonese-糟質)

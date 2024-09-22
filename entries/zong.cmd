@@ -512,10 +512,102 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $撞6
 - $狀6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 撞6 | _Chong(6)_ [[zong6]]
+
+$$
+R
+  ⼿ + 12
+U
+  U+649E
+V
+  ==
+  - zong6-2 (in 撞邪, 撞鬼)
+  ==
+F
+  ==
+  - [[F1.100 撞]] 衝突也又忽至曰撞
+  ==
+W
+  ====
+  - [[Page~28* 撞(6)]]
+    ==
+    - To beat, to pound;
+    - to run or knock against, to dash upon or against;
+    - to tap on, as a hoop;
+    - to strike accidentally or abruptly;
+    - _chong(6) ch(e/)uk[(9)]_
+        [[zong6 zoek6 撞着]]
+        to meet suddenly, to run against;
+    - _chong(6) p(')(i/)n(3)_
+        [[zong6 pin3 撞騙]]
+        to swindle, to peculate;
+    - _chong(6) (1)ng(a/)m_
+        [[zong6 ngaam1 撞啱]],
+        luckily met;
+    - _chong(6) ng(a/)k(9)_
+        [[zong6 ngaak6 撞額]]
+        face to face;
+    - _chong(6) (2)kwai_
+        [[zong6 gwai2 撞鬼]],
+        to meet a devil (a foreigner);
+    - _chong(6) (2)hau kw(a/)(3)_
+        [[zong6 hau2 gwaa3 撞口卦]]
+        to hear an ominous word;
+    - _chong(6) (4)'m k(i/)n(3)_
+        [[zong6 m4 gin3 撞唔見]]
+        I didn't meet him;
+    - _chong(6) (2)p(a/)n_
+        [[zong6 baan2 撞板]],
+        to strike castanets, _i.~e._ discordant, a disappointment;
+    - _p(a/)k(9) chong(6)_
+        [[baak6 zong6 白撞]]
+        to go into on a pretence, a thief;
+    - _p(a/)k(9) chong(6) (5)(u")_
+        [[baak6 zong6 jyu5 白撞雨]],
+        a sudden shower.
+    ==
+  ====
+C
+  ==
+  - Williams' 撞着: Corrected _ch(e/)uk(8)_ (zoek3) to _ch(e/)uk(9)_ (zoek6).
+  ==
+E
+  ====
+  - 【白撞】 (baak6 zong6):
+    ++
+    1. To steal by opportunistic trespass.
+    1. One who steals through opportunistic trespass.
+    ++
+  - 【白撞雨】 (baak6 zong6 jyu5):
+    ++
+    1. A sun shower.
+    ++
+  - 【撞板】 (zong6 baan2):
+    ++
+    1. To meet with failure,
+       to encounter a difficulty that halts an attempt at something.
+    ++
+  - 【撞彩】 (zong6 coi2):
+    ++
+    1. To obtain, succeed, win, etc. by luck or guessing.
+    ++
+  - 【撞邪】 (zong6-2 ce4):
+    ++
+    1. To be affected by malign supernatural forces.
+    ++
+  - 【撞鬼】 (zong6-2 gwai2):
+    ++
+    1. To be affected by a devil or ghost.
+    1. To have seen a ghost.
+    ++
+  ====
+$$
 
 ### 狀6 | _Chong(6)_ [[zong6]]
 
