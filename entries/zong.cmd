@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [zong1](#1)
 - [zong3](#3)
+- [zong6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -501,6 +502,70 @@ W
     - _chong(3) h(i/)(3)_
         [[zong3 hei3 壯氣]]
         obstinate, courageous.
+    ==
+  ====
+$$
+
+
+##{#6 .williams} Chong(6) Tsong(6) [[zong6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $狀6
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 狀6 | _Chong(6)_ [[zong6]]
+
+$$
+R
+  ⽝ + 4
+U
+  U+72C0
+V
+  ==
+  - zong6-2 (in 告狀)
+  ==
+F
+  ==
+  - [[F1.100 狀]] 體也形容也象也牒也
+  ==
+W
+  ====
+  - [[Page~28* 狀(6)]]
+    ==
+    - Appearance, form, fashion;
+    - to appear;
+    - to declare in writing;
+    - to accuse, to state;
+    - an accusation, a complaint;
+    - _(2)t(')ai chong(6)_
+        [[tai2 zong6 體狀]]
+        appearance;
+    - _chong(6) m(a/)u(6) (1)f(i/) (4)sh(e/)ung_
+        [[zong6 maau6 fei1 soeng4 狀貌非常]],
+        a beautiful face;
+    - _(5)m(o\) chong(6)_
+        [[mou5 zong6 冇狀]]
+        in dishabille, unprepared;
+    - _chong(6) (4)(u")n_
+        [[zong6 jyun4 狀元]],
+        first of the Hanlin [[]];
+    - _k(o\)(3) chong(6)_
+        [[gou3 zong6-2 告狀]]
+        to accuse one before the court;
+    - _chong(6) (4)ts(')z'_
+        [[zong6 ci4 狀詞]]
+        an accusation;
+    - _(1)kung chong(6)_
+        [[gung1 zong6 供狀]]
+        a plea or excuse in defence;
+    - _chong(6) (1)sz'_ [[zong6 si1 狀師]]
+        or
+      _chong(6) kwan(3)_ [[zong6 gwan3 狀棍]]
+      notaries, pettifoggers.
     ==
   ====
 $$
