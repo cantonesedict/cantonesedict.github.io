@@ -62,6 +62,7 @@ $$
 - $莊1
 - $裝1
 - $䚎1
+- $贓1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -466,6 +467,50 @@ E
 S
   ==
   - $䚎cong1 (TODO)
+  ==
+$$
+
+### 贓1 | _(1)Tsong_ [[zong1]]
+
+$$
+R
+  ⾙ + 14
+U
+  U+8D13
+F
+  ==
+  - [[F1.95 贓]] ::非理而得[財]物曰贓官之貪者曰贓官::
+  - [[F1.96 賍]] 同上
+  ==
+W
+  ====
+  - [[Page~593 (1)贓(1)賍]]
+    ==
+    - Booty, plunder, loot, stolen goods;
+    - to receive bribes;
+    - to suborn, to bribe;
+    - to hide, to secrete;
+    - _(1)tsong (1)k(u/)n_
+        [[zong1 gun1 贓官]],
+        an officer who takes bribes;
+    - _(2)h(i/) (1)tsong_
+        [[hei2 zong1 起贓]],
+        to seize the booty;
+    - _(1)tsong mat(9)_
+        [[zong1 mat6 贓物]]
+        spoil, things secreted;
+    - _(1)t(')(a/)m (1)tsong_
+        [[taam1 zong1 貪贓]],
+        sordid, covetous of bribes;
+    - _tso(6) (1)tsong_
+        [[zo6 zong1 坐贓]],
+        to take bribes;
+        bribery.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected missing final stroke of 財.
   ==
 $$
 
