@@ -512,11 +512,38 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $幢6
 - $撞6
 - $狀6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+###+ 幢6 | _Chong(6)_ (zong6)
+
+$$
+R
+  ⼱ + 12
+U
+  U+5E62
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - The reading _chong(6)_ (zong6) for 幢 is not present in Williams;
+    an entry is included here for completeness.
+    ++
+    1. Carriage-curtains.
+    ++
+  ==
+S
+  ==
+  - $幢cong4 (TODO)
+  - $幢tong4 (TODO)
+  ==
+$$
 
 ### 撞6 | _Chong(6)_ [[zong6]]
 
