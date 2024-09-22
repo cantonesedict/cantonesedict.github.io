@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zong
-* %date-modified --> 2024-09-20
+* %date-modified --> 2024-09-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -17,6 +17,14 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+- [zong1](#1)
+==
+</nav>
+<## /tones ##>
 
 $$
 WH
