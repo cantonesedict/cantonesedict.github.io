@@ -1711,6 +1711,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Character entry links
 |:
   //
+    , 6
+    ,
+      <nav class="sideways">
+      ==
+      - $牂zong1
+      ==
+      </nav>
+  //
     , 13
     ,
       <nav class="sideways">

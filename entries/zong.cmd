@@ -56,6 +56,7 @@ $$
 - $妝1
 - $庄1
 - $樁1
+- $牂1
 - $𥊙 (⿰目⿳囟儿夊)1
 - $粧1
 - $臧1
@@ -178,6 +179,30 @@ C
   ==
   - Williams misprints 樁 as ⿰才舂; here corrected.
   ==
+$$
+
+### 牂1 | _(1)Tsong_ [[zong1]]
+
+$$
+R
+  ⽙ + 6
+U
+  U+7242
+F
+  ==
+  - [[F1.96 牂]] 母羊也
+  ==
+W
+  ====
+  - [[Page~593 (1)牂]]
+    ==
+    - A ram or ewe;
+    - full, plenty;
+    - _(1)tsong (1)tsong_
+        [[zong1 zong1 牂牂]],
+        flourishing, as foliage.
+    ==
+  ====
 $$
 
 ###+ 𥊙1 (⿰目⿳囟儿夊) | _(1)Chong_ (zong1)
