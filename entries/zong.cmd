@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zong1](#1)
+- [zong3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -434,4 +435,72 @@ S
   ==
   - $䚎cong1 (TODO)
   ==
+$$
+
+
+##{#3 .williams} Chong(3) Tsong(3) [[zong3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $壯3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 壯3 | _Chong(3)_ [[zong3]]
+
+$$
+R
+  ⼠ + 4
+U
+  U+58EF
+F
+  ==
+  - [[F1.100 壯]] 强壯壯大壯盛
+  ==
+W
+  ====
+  - [[Page~28* 壯(3)]]
+    ==
+    - Robust, strong, bold, lusty, hardy, healthy;
+    - full grown, manhood;
+    - age of thirty;
+    - full, flourishing;
+    - a cauterization;
+    - _chong t(a/)i(6)_
+        [[zong3 daai6 壯大]]
+        lusty, large;
+    - _chong(3) wong(6)_
+        [[zong3 wong6 壯旺]]
+        fat, strong, as an animal;
+    - _chong(3) shing(6)_
+        [[zong3 sing6 壯盛]]
+        vigorous, prosperous, healthy;
+    - _chong(3) (5)yung_
+        [[zong3 jung5 壯勇]],
+        the ablebodied, the braves;
+    - _chong(3) (1)ting_
+        [[zong3 ding1 壯丁]],
+        full grown;
+    - _chong(3) sz'(6)_
+        [[zong3 si6 壯士]]
+        one accomplished in manly sports;
+    - _shi(u/)(3) chong(3)_
+        [[siu3 zong3 少壯]]
+        young and hearty;
+    - _(1)shi(u/) (1)s(a/)m chong(3)_
+        [[siu1 saam1 zong3 燒三壯]]
+        blistered it thrice;
+    - _chong(3) ch(u")(6) (5)k(')(u") (2)t(a/)m_
+        [[zong3 zyu6 keoi5 daam2 壯住佢膽]],
+        to inspirit him, get up his pluck;
+    - _chong(3) k(i/)n(6)_
+        [[zong3 gin6 壯健]]
+        robust;
+    - _chong(3) h(i/)(3)_
+        [[zong3 hei3 壯氣]]
+        obstinate, courageous.
+    ==
+  ====
 $$
