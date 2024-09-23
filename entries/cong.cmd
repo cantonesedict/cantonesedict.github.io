@@ -178,6 +178,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $厰2
+- $廠2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -203,6 +204,55 @@ W
 C
   ==
   - Fan Wan entry: Corrected headword ⿸厂敝 to 厰.
+  ==
+$$
+
+###+ 廠2 | _(2)Ch(')ong_ (cong2)
+
+$$
+R
+  ⼴ + 12
+U
+  U+5EE0
+A
+  ==
+  - $厰2
+  ==
+F
+  ==
+  - [[F1.98 ::[厰]::]] 屋無壁
+  ==
+W
+  ====
+  - [[Page~29* (2)厰; here normalised to 廠]]
+    ==
+    - An open shed;
+    - a covered place not walled in;
+    - a place to receive taxes, broad, spacious;
+    - a depository;
+    - a large workshop;
+    - _(4)m(u/)i t(')(a/)n(3) (2)ch(')ong_
+        [[mui4 taan3 cong2 煤炭廠]],
+        a coal dépôt;
+    - _(1)si(u/) (2)ch(')ong_
+        [[siu1 cong2 硝廠]],
+        a saltpetre gabel;
+    - _(4)p(')ung (2)ch(')ong_
+        [[pung4 cong2 篷廠]]^
+        a mat shed;
+    - _[(2)]ko [(1)]k(a/)n uk(7) (2)ho (2)ch(')ong_
+        [[go2 gaan1 uk1 hou2 cong2 嗰間屋好廠]],
+        that's a large house;
+    - _(2)ch(')ong (1)t(')eng_
+        [[cong2 teng1 廠廳]],
+        a summer arbor.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword ⿸厂敝 to 厰.
+  - Williams' 嗰間屋好廠: Corrected _ko(3)_ (go3) to _(2)ko_ (go2)
+    and corrected _(4)k(a/)n_ (gaan4) to _(1)k(a/)n_ (gaan1).
   ==
 $$
 
