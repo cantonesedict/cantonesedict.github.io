@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-09-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1422,6 +1422,9 @@ E
   --
   Olden attestation for 薦 _ts(i/)n(3)_ (zin3) meaning "mat/cushion":
   --
+  """"
+  ::《說文》葬：藏也从死在茻中一其中所以(:薦:)之::
+  """"
   """"
   ::B4.w435b0604 (:作甸切:) (:薦:) (:薦席:)又薦進也[...]^::
   """"
