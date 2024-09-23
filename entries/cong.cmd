@@ -177,6 +177,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $床4
+- $牀4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -188,6 +189,10 @@ R
   ⼴ + 4
 U
   U+5E8A
+A
+  ==
+  - $牀4
+  ==
 F
   ==
   - [[F1.97 床]] ::臥[榻]::
@@ -228,6 +233,31 @@ W
         [[soeng5 cong4 上床]],
         to go to bed.
     ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 㮼 to 榻.
+  ==
+$$
+
+### 牀4 | _(4)Ch(')ong_ [[cong4]]
+
+$$
+R
+  ⽙ + 4
+U
+  U+7240
+F
+  ==
+  - [[F1.97 床]] ::臥[榻]::
+  - [[F1.97 牀]] 同上
+  ==
+W
+  ====
+  - [[Page~28* (4)床(4)牀]]
+    --
+    [[Alternative form of 床. **See $床cong4 for the canonical entry.**]]
+    --
   ====
 C
   ==
