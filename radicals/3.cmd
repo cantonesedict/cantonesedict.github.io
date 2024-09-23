@@ -1174,6 +1174,14 @@ For all radicals, see [Index of characters by radical](./).
       ==
       </nav>
   //
+    , 4
+    ,
+      <nav class="sideways">
+      ==
+      - $床cong4
+      ==
+      </nav>
+  //
     , 6
     ,
       <nav class="sideways">

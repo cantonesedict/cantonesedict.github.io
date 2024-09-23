@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [cong1](#1)
+- [cong4](#4)
 ==
 </nav>
 <## /tones ##>
@@ -166,5 +167,70 @@ C
     to vernacular reading _(1)sh(a/)ng_ (saang1).
     Not "he trumps up a cause against me",
     but "he brings unnecessary trouble onto himself".
+  ==
+$$
+
+
+##{#4 .williams} (4)Ch(')ong (4)Ts(')ong [[cong4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways">
+=={.modern}
+- $床4
+==
+</nav>
+<## /tone-4-characters ##>
+
+### 床4 | _(4)Ch(')ong_ [[cong4]]
+
+$$
+R
+  ⼴ + 4
+U
+  U+5E8A
+F
+  ==
+  - [[F1.97 床]] ::臥[榻]::
+  - [[F1.97 牀]] 同上
+  ==
+W
+  ====
+  - [[Page~28* (4)床(4)牀]]
+    ==
+    - A bed, a couch;
+    - a settee;
+    - a suit of bed clothes;
+    - the boards which make a bed;
+    - a well-curb;
+    - a measure of 8~cubits;
+    - _yat(7) (4)ch(')ong (5)p(')(i/) yuk(9)_
+        [[jat1 cong4 pei5 juk6 一床被褥]]
+        mattrass, sheets, all complete;
+    - _(1)p(')(o\) (4)ch(')ong_
+        [[pou1 cong4 鋪床]],
+        make the bed;
+    - _yat(7) (1)ch(e/)ung (4)ch(')ong_
+        [[jat1 zoeng1 cong4 一張床]],
+        a bed;
+    - _t(a/)i(6) (4)ch(')ong_
+        [[daai6 cong4 大床]],
+        a double bedstead;
+    - _k(')ong(3) (4)ch(')ong_
+        [[kong3 cong4 匟床]],
+        the couch of honor in a hall;
+    - _(4)ch(')ong (1)p(')(o\)_
+        [[cong4 pou1 床鋪]],
+        bedding;
+    - _kwai(3) (1)f(i/) (4)ch(')ong_
+        [[gwai3 fei1 cong4 貴妃床]],
+        a couch with rolling ends;
+    - _(5)sh(e/)ung (4)ch(')ong_
+        [[soeng5 cong4 上床]],
+        to go to bed.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 㮼 to 榻.
   ==
 $$
