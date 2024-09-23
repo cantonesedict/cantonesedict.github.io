@@ -729,6 +729,7 @@ $$
 - $幢6
 - $撞6
 - $狀6
+- $臟6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -899,6 +900,39 @@ W
         or
       _chong(6) kwan(3)_ [[zong6 gwan3 狀棍]]
       notaries, pettifoggers.
+    ==
+  ====
+$$
+
+### 臟6 | _Tsong(6)_ [[zong6]]
+
+$$
+R
+  ⾁ + 18
+U
+  U+81DF
+F
+  ==
+  - [[F1.101 臟]] 臟腑五臟
+  ==
+W
+  ====
+  - [[Page~593 臟(6)]]
+    ==
+    - The viscera;
+    - the entrails;
+    - _(5)'ng tsong(6)_
+        [[ng5 zong6 五臟]]
+        the five viscera---heart, lungs, stomach, liver, and kidneys;
+    - _(1)ch(u") tsong(6) tuk(7)_
+        [[zyu1 zong6 duk1 豬臟篤]]
+        the cæcum of hogs;
+    - _(5)'ng tsong(6) luk(9) (2)f(u/)_
+        [[ng5 zong6 luk6 fu2 五臟六腑]],
+        all the inwards;
+    - _(4)m(o\) tsun(6) tsong(6)_
+        [[mou4 zeon6 zong6 無盡臟]]
+        a great eater, gluttonous.
     ==
   ====
 $$

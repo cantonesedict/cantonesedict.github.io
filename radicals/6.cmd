@@ -760,6 +760,14 @@ For all radicals, see [Index of characters by radical](./).
       - $臍ci4
       ==
       </nav>
+  //
+    , 18
+    ,
+      <nav class="sideways">
+      ==
+      - $臟zong6
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⾁-characters ##>
