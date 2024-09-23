@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zong
-* %date-modified --> 2024-09-22
+* %date-modified --> 2024-09-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -576,6 +576,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $壯3
+- $葬3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -635,6 +636,57 @@ W
         obstinate, courageous.
     ==
   ====
+$$
+
+### 葬3 | _Tsong[(3)]_ [[zong3]]
+
+$$
+R
+  ⾋ + 9
+U
+  U+846C
+F
+  ==
+  - [[F1.100 塟]] ::殯塟理也[瘞]也::
+  - [[F1.100 葬]] 同上
+  ==
+W
+  ====
+  - [[Page~593 葬[(3)]塟[(3)]^]]
+    ==
+    - To bury, to inter, to put under the ground;
+    - _tsong(3) (4)m(a/)i_
+        [[zong3 maai4 葬埋]],
+        to bury;
+    - _sung(3) tsong(3)_
+        [[sung3 zong3 送葬]]
+        to carry to the grave;
+    - _(2)koi tsong(3)_ [[goi2 zong3 改葬]]
+        or
+      _(1)ts(')(i/)n tsong(3)_ [[cin1 zong3 遷葬]]
+        to change bodies to another grave;
+    - _[(5)]hau tsong(3)_
+        [[hau5 zong3 厚葬]]
+        a deep grave;
+        to bury in rich dresses;
+    - _(2)fo tsong(3)_
+        [[fo2 zong3 火葬]]
+        to burn the dead, cremation;
+    - _(2)k(o\) tsong(3)_
+        [[gou2 zong3 稿葬]]
+        buried in a mat;
+    - _(2)p(a/) (5)k(')(u") k(a/)m(3) (1)[sh(a/)ng] tsong(3)_
+        [[baa2 keoi5 gaam3 saang1 zong3 把佢監生葬]]
+        to be buried alive.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿸疒圶 to 瘞.
+  - Williams misprints 葬(3)塟(3) as 葬(8)塟(8); here corrected.
+  - Williams' 厚葬: Changed Middle Chinese _hau(6)_ (hau6)
+    to common reading _(5)hau_ (hau5).
+  ==
 $$
 
 
