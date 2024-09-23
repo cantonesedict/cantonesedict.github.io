@@ -730,6 +730,7 @@ $$
 - $撞6
 - $狀6
 - $臟6
+- $藏6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -935,4 +936,42 @@ W
         a great eater, gluttonous.
     ==
   ====
+$$
+
+### 藏6 | _Tsong(6)_ [[zong6]]
+
+$$
+R
+  ⾋ + 14
+U
+  U+85CF
+F
+  ==
+  - [[F1.101 藏]] 收貨財處曰藏又過貪曰無盡藏
+  ==
+W
+  ====
+  - [[Page~593 藏(6)]]
+    ==
+    - A store-house, a retreat;
+    - a strong-box, a casket;
+    - _(4)m(o\) tsun(6) tsong(6)_
+        [[mou4 zeon6 zong6 無盡藏]]
+        exceedingly avaricious or greedy;
+    - _(1)sai tsong(6)_
+        [[sai1 zong6 西藏]]
+        Tibet;
+    - _yap(9) tsong(6)_
+        [[jap6 zong6 入藏]]
+        to lie torpid;
+        to keep out of sight;
+    - _t(i/)(6) tsong(6) (4)wong_
+        [[dei6 zong6 wong4 地藏王]],
+        name of a deified Budhist.
+    ==
+  ====
+S
+  ==
+  - $藏cong4 (TODO)
+  ==
 $$
