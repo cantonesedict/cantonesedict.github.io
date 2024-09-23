@@ -49,10 +49,29 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $刅1
 - $創1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 刅1 | _(1)Ch(')ong_ [[cong1]]
+
+$$
+R
+  ⼑ + 2
+U
+  U+5205
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~28* (1)創(1)刅]]
+    --
+    [[Alternative form of 創. **See $創cong1 for the canonical entry.**]]
+    --
+  ====
+$$
 
 ### 創1 | _(1)Ch(')ong_ [[cong1]]
 
@@ -71,9 +90,7 @@ V
   - cong3 (common)
   ==
 F
-  ==
-  - [[F1.89 戧]] ::[傷]也::
-  ==
+  [[Not present]]
 W
   ====
   - [[Page~28* (1)創(1)刅]]
@@ -89,7 +106,6 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected 楊 to 傷.
   - Whilst the classical reading for the "wound" sense is level-tone _(1)ch(')ong_ (cong1),
     the common reading departing-tone _ch(')ong(3)_ (cong3) is not unattested;
     Kangxi has ::又《唐韻》初亮切瘡去聲始也造也[...]又傷也《前漢匈奴傳》人民創艾戰鬭::.

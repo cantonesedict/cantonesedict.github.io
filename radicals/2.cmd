@@ -438,6 +438,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $切cai3
       - $切cit3
+      - $刅cong1
       ==
       </nav>
   //
