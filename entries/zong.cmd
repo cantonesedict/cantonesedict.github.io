@@ -575,11 +575,38 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $塟3
 - $壯3
 - $葬3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 塟3 | _Tsong[(3)]_ [[zong3]]
+
+$$
+R
+  ⼟ + 10
+U
+  U+585F
+F
+  ==
+  - [[F1.100 塟]] ::殯塟理也[瘞]也::
+  - [[F1.100 葬]] 同上
+  ==
+W
+  ====
+  - [[Page~593 葬[(3)]塟[(3)]^]]
+    --
+    [[Alternative form of 葬. **See $葬zong3 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿸疒圶 to 瘞.
+  - Williams misprints 葬(3)塟(3) as 葬(8)塟(8); here corrected.
+  ==
+$$
 
 ### 壯3 | _Chong(3)_ [[zong3]]
 
@@ -616,7 +643,7 @@ W
     - _chong(3) (1)ting_
         [[zong3 ding1 壯丁]],
         full grown;
-    - _chong(3) sz'(6)_
+    - _chong(3) #sz'(6)_
         [[zong3 si6 壯士]]
         one accomplished in manly sports;
     - _shi(u/)(3) chong(3)_
@@ -645,6 +672,10 @@ R
   ⾋ + 9
 U
   U+846C
+A
+  ==
+  - $塟3
+  ==
 F
   ==
   - [[F1.100 塟]] ::殯塟理也[瘞]也::
