@@ -643,7 +643,7 @@ W
     - _chong(3) (1)ting_
         [[zong3 ding1 壯丁]],
         full grown;
-    - _chong(3) #sz'(6)_
+    - _chong(3) sz'(6)_
         [[zong3 si6 壯士]]
         one accomplished in manly sports;
     - _shi(u/)(3) chong(3)_
