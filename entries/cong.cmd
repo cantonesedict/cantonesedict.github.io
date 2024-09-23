@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cong
-* %date-modified --> 2024-09-23
+* %date-modified --> 2024-09-24
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [cong1](#1)
+- [cong2](#2)
 - [cong4](#4)
 ==
 </nav>
@@ -167,6 +168,41 @@ C
     to vernacular reading _(1)sh(a/)ng_ (saang1).
     Not "he trumps up a cause against me",
     but "he brings unnecessary trouble onto himself".
+  ==
+$$
+
+
+##{#2 .williams} (2)Ch(')ong [[cong2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $厰2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 厰2 | _(2)Ch(')ong_ [[cong2]]
+
+$$
+R
+  ⼚ + 12
+U
+  U+53B0
+F
+  ==
+  - [[F1.98 ::[厰]::]] 屋無壁
+  ==
+W
+  ====
+  - [[Page~29* (2)厰]]
+    --
+    [[Alternative form of 廠. **See $廠cong2 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword ⿸厂敝 to 厰.
   ==
 $$
 
