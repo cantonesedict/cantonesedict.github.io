@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cong
-* %date-modified --> 2023-08-02
-* %copyright-prior-years -->
+* %date-modified --> 2024-09-23
+* %copyright-prior-years --> 2023--
 
 %%%
-
---{.modern}
-(From Page~28* (Ch(')ong) and Page~593 (Ts(')ong) of the original onwards.)
---
 
 #{.williams} Ch(')ong. Ts(')ong. [[cong]]
 
@@ -21,3 +17,27 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Ch(')ong. [[Page~28*]]
+  - Ts(')ong. [[Page~593]]
+  ==
+WP
+  ==
+  - Ch(')ong <span class="modern">= [tɕʰɔːŋ]</span>
+  - Ts(')ong <span class="modern">= [tsʰɔːŋ]</span>
+  ==
+MP
+  ==
+  - cong = [tsʰɔːŋ], [tɕʰɔːŋ] ((preferred))
+  ==
+$$
