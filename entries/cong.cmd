@@ -180,6 +180,7 @@ $$
 - $厰2
 - $廠2
 - $惝2
+- $愴2
 - $𢠵 (⿰忄敞)2
 - $昶2
 - $闖2
@@ -293,6 +294,36 @@ W
 C
   ==
   - Fan Wan entry: Corrected headword 𢠳 (⿰忄敝) to 𢠵 (⿰忄敞).
+  ==
+$$
+
+### 愴2 | _(2)Ch(')ong_ [[cong2]]
+
+$$
+R
+  ⼼ + 10
+U
+  U+6134
+F
+  ==
+  - [[F1.98 愴]] 悽愴言傷心也
+  ==
+W
+  ====
+  - [[Page~29* (2)愴]]
+    --
+    [[Reading variation. **See $愴cong3 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Strictly, the reading _(2)ch(')ong_ (cong2) in rising tone
+    is for the "disappointed" sense in 愴恍
+    (which is probably just a different spelling of 惝怳, see $惝cong2).
+  ==
+S
+  ==
+  - $愴cong3 (TODO)
   ==
 $$
 
