@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2024-07-28
+* %date-modified --> 2024-09-24
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -725,6 +725,7 @@ $$
 - $倡3
 - $唱3
 - $悵3
+- $昶3
 - $暢3
 - $蹡3
 - $韔3
@@ -844,6 +845,31 @@ S
   ==
 $$
 
+###+ 昶3 | _Ch(')(e/)ung(3)_ (coeng3)
+
+$$
+R
+  ⽇ + 5
+U
+  U+6636
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~29* (2)昶 _(2)Ch(')ong_ (cong2); _Ch(')(e/)ung(3)_ (coeng3) implied]]
+    --
+    Interchanged with 暢 [[**see $暢coeng3**]].
+    --
+    --
+    [[...]]
+    --
+  ====
+S
+  ==
+  - $昶cong2
+  ==
+$$
+
 ### 暢3 | _Ch(')(e/)ung(3)_ [[coeng3]]
 
 $$
@@ -851,6 +877,10 @@ R
   ⽇ + 10
 U
   U+66A2
+A
+  ==
+  - $昶3
+  ==
 F
   ==
   - [[F1.93 暢]] ::遂也通也[達]也::
