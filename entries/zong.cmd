@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zong
-* %date-modified --> 2024-09-23
+* %date-modified --> 2024-09-24
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -38,8 +38,6 @@ MP
   - zong = [tsɔːŋ], [tɕɔːŋ] ((preferred))
   ==
 $$
-
-<## TODO: $幢cong4 "- Williams erroneously puts 幢 under unaspirated _(4)chong_ (zong4)." ##>
 
 
 ##{#1 .williams} (1)Chong (1)Tsong [[zong1 陰平]]
@@ -752,7 +750,7 @@ C
   ==
 S
   ==
-  - $幢cong4 (TODO)
+  - $幢cong4
   - $幢tong4 (TODO)
   ==
 $$

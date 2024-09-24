@@ -262,11 +262,41 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $幢4
 - $床4
 - $牀4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 幢4 | _(4)[Ch(')ong]_ [[cong4]]
+
+$$
+R
+  ⼱ + 12
+U
+  U+5E62
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~28* (4)幢 _(4)Chong_ (zong4); here corrected to _(4)Ch(')ong_ (cong4)]]
+    ==
+    - Long embroidered scrolls or streamers in temples,
+      suspended from the roof,
+      and having a tilt at top.
+    ==
+  ====
+C
+  ==
+  - Williams erroneously puts 幢 under unaspirated _(4)chong_ (zong4).
+  ==
+S
+  ==
+  - $幢tong4 (TODO)
+  - $幢zong6
+  ==
+$$
 
 ### 床4 | _(4)Ch(')ong_ [[cong4]]
 
