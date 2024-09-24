@@ -432,11 +432,33 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $刱3
 - $創3
 - $愴3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 刱3 | _Ch(')ong(3)_ [[cong3]]
+
+$$
+R
+  ⼑ + 6
+U
+  U+5231
+F
+  ==
+  - [[F1.100 創]] 創造創始又懲創儆也
+  - [[F1.100 ⿰并刄]] 同上
+  ==
+W
+  ====
+  - [[Page~28* 創(3)刱(3)]]
+    --
+    [[Alternative form of 創. **See $創cong3 for the canonical entry.**]]
+    --
+  ====
+$$
 
 ### 創3 | _Ch(')ong(3)_ [[cong3]]
 
@@ -445,6 +467,10 @@ R
   ⼑ + 10
 U
   U+5275
+A
+  ==
+  - $刱3
+  ==
 F
   ==
   - [[F1.100 創]] 創造創始又懲創儆也

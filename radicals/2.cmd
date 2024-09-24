@@ -458,6 +458,7 @@ For all radicals, see [Index of characters by radical](./).
       - $刹caat3
       - $刺ci3
       - $刺cik3
+      - $刱cong3
       - $制zai3
       ==
       </nav>
