@@ -116,7 +116,7 @@ C
   ==
 S
   ==
-  - $創cong3 (TODO)
+  - $創cong3
   ==
 $$
 
@@ -432,10 +432,63 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $創3
 - $愴3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 創3 | _Ch(')ong(3)_ [[cong3]]
+
+$$
+R
+  ⼑ + 10
+U
+  U+5275
+F
+  ==
+  - [[F1.100 創]] 創造創始又懲創儆也
+  - [[F1.100 ⿰并刄]] 同上
+  ==
+W
+  ====
+  - [[Page~28* 創(3)刱(3)]]
+    ==
+    - To begin, to invent;
+    - to create, to found, to lay the foundation of;
+    - to take measures for;
+    - to reprove;
+    - the commencement, first;
+    - _ts(o\)(6) ch(')ong(3)_
+        [[zou6 cong3 造創]]
+        to invent;
+    - _ch(')ong(3) (2)ch(')(i/)_
+        [[cong3 ci2 創始]],
+        to begin;
+    - _ch(')ong(3) (i/)p(9)_
+        [[cong3 jip6 創業]]
+        to found a family or a settlement;
+    - _(1)t(')(i/)n t(i/)(6) (1)hoi ch(')ong(3)_
+        [[tin1 dei6 hoi1 cong3 天地開創]]
+        the creation;
+    - _ch(')ong(3) lap(9) (5)m(a/) (4)t(')au_
+        [[cong3 lap6 maa5 tau4 創立碼頭]],
+        to build a ferry or jetty;
+    - _(4)ch(')ing ch(')ong(3)_
+        [[cing4 cong3 懲創]]
+        to blame.
+    ==
+  ====
+C
+  ==
+  - Otherwise, a reading variation of the "wound/trauma" senses.
+    **See $創cong1 for the canonical entry.**
+  ==
+S
+  ==
+  - $創cong1
+  ==
+$$
 
 ###+ 愴3 | _Ch(')ong(3)_ (cong3)
 
