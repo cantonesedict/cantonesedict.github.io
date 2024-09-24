@@ -55,6 +55,7 @@ $$
 - $刅1
 - $創1
 - $瘡1
+- $䚎1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -169,6 +170,33 @@ C
     to vernacular reading _(1)sh(a/)ng_ (saang1).
     Not "he trumps up a cause against me",
     but "he brings unnecessary trouble onto himself".
+  ==
+$$
+
+###+ 䚎1 | _(1)Ch(')ong_ (cong1)
+
+$$
+R
+  ⾒ + 11
+U
+  U+468E
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~27* (1)䚎 _(1)Chong_ (zong1); here corrected to _(1)Ch(')ong_ (cong1)]]
+    ==
+    - To see indistinctly;
+    - to look at fixedly;
+    - to watch, as one does a new hand.
+    ==
+    --
+    [[...]]
+    --
+  ====
+S
+  ==
+  - $䚎zong1
   ==
 $$
 

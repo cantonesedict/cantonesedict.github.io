@@ -451,7 +451,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~27 (1)䚎]]
+  - [[Page~27* (1)䚎]]
     --
     [[See $䚎cong1 for classical senses.]]
     --
@@ -484,7 +484,7 @@ E
   ====
 S
   ==
-  - $䚎cong1 (TODO)
+  - $䚎cong1
   ==
 $$
 
