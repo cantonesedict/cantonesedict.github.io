@@ -55,6 +55,7 @@ $$
 - $倉1
 - $刅1
 - $創1
+- $滄1
 - $瘡1
 - $蒼1
 - $䚎1
@@ -169,6 +170,31 @@ S
   ==
   - $創cong3
   ==
+$$
+
+### 滄1 | _(1)Ts(')ong_ [[cong1]]
+
+$$
+R
+  ⽔ + 10
+U
+  U+6EC4
+F
+  ==
+  - [[F1.95 滄]] 滄浪水名又滄海也
+  ==
+W
+  ====
+  - [[Page~593 (1)滄]]
+    ==
+    - Vast like the sea;
+    - name of a river and lake;
+    - a superior district in Tientsin f(u/) [[天津府]];
+    - _(1)ts(')ong (2)hoi (1)ch(i/) l(e/)ung(6)_
+        [[cong1 hoi2 zi1 loeng6 滄海之量]]
+        to drink like the sea, able to drink much.
+    ==
+  ====
 $$
 
 ### 瘡1 | _(1)Ch(')ong_ [[cong1]]
