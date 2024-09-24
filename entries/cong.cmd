@@ -182,6 +182,7 @@ $$
 - $惝2
 - $𢠵 (⿰忄敞)2
 - $昶2
+- $闖2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -345,6 +346,50 @@ W
 S
   ==
   - $昶coeng3
+  ==
+$$
+
+### 闖2 | _(2)Ch(')ong_ [[cong2]]
+
+$$
+R
+  ⾨ + 10
+U
+  U+95D6
+V
+  ==
+  - cam3 (per 《廣韻》丑禁切)
+  ==
+F
+  ==
+  - [[F1.98 闖]] 闖進出頭貌又音滲
+  ==
+W
+  ====
+  - [[Page~29* (2)闖]]
+    ==
+    - A horse going out of a door;
+    - to thrust out the head, to appear;
+    - to bolt out;
+    - suddenly, forcibly, abruptly;
+    - _(2)ch(')ong wo(6)_
+        [[cong2 wo6 闖禍]]
+        to induce calamities;
+    - _(2)ch(')ong (1)kw(a/)n_
+        [[cong2 gwaan1 闖關]],
+        to slip by the custom-house;
+    - _(2)ch(')ong [ts(')(a/)k](9) (4)loi_
+        [[cong2 caak6 loi4 闖賊來]],
+        the rover Ch(')ong [[闖]] is on us!
+    ==
+    --
+    Also read _(1)sham_ (sam1).
+    --
+  ====
+C
+  ==
+  - Williams' 闖賊來: Corrected _ts(a/)k(9)_ (zaak6) to _ts(')(a/)k(9)_ (caak6).
+  - Williams' alternative reading: Per 《說文》讀若郴.
   ==
 $$
 
