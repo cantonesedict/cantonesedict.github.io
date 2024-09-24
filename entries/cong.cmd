@@ -52,6 +52,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $倉1
 - $刅1
 - $創1
 - $瘡1
@@ -59,6 +60,54 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 倉1 | _(1)Ts(')ong_ [[cong1]]
+
+$$
+R
+  ⼈ + 8
+U
+  U+5009
+V
+  ==
+  - cong2 (common in 倉卒)
+  ==
+F
+  ==
+  - [[F1.95 倉]] 倉廪藏谷之所又倉皇言懼也
+  ==
+W
+  ====
+  - [[Page~593 (1)倉]]
+    ==
+    - A granary of the government;
+    - a storehouse;
+    - a box, a bin, a compartment, a pigeon-hole;
+    - _kuk(7) (1)ts(')ong_
+        [[guk1 cong1 穀倉]],
+        a rice storehouse;
+    - _(1)ts(')ong (1)s(e/)ung_
+        [[cong1 soeng1 倉箱]],
+        bins or partitions in a granary;
+    - _fo(3) (1)ts(')ong_
+        [[fo3 cong1 貨倉]],
+        a pack-house, a go-down;
+    - _(1)hoi (1)ts(')ong_
+        [[hoi1 cong1 開倉]],
+        to dispense rice from the granaries;
+    - _yat(7) (1)ts(')ong (1)ts(')ong_
+        [[jat1 cong1 cong1 一倉倉]],
+        one bin or stall;
+    - _(1)ts(')ong ts(')(u")t(8)_
+        [[cong1 cyut3 倉卒]]
+        flurried, perturbed, alarmed.
+    ==
+  ====
+C
+  ==
+  - Williams' 一倉倉: Better rendered "individual bins".
+  ==
+$$
 
 ### 刅1 | _(1)Ch(')ong_ [[cong1]]
 

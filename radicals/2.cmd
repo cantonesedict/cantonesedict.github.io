@@ -167,6 +167,7 @@ For all radicals, see [Index of characters by radical](./).
       - $倬coek3
       - $倡coeng1
       - $倡coeng3
+      - $倉cong1
       - $借ze3
       - $値zi6
       - $値zik6
