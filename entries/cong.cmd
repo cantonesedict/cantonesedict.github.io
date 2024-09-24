@@ -181,6 +181,7 @@ $$
 - $廠2
 - $惝2
 - $𢠵 (⿰忄敞)2
+- $昶2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -315,6 +316,35 @@ W
 C
   ==
   - Fan Wan entry: Corrected headword 𢠳 (⿰忄敝) to 𢠵 (⿰忄敞).
+  ==
+$$
+
+### 昶2 | _(2)Ch(')ong_ [[cong2]]
+
+$$
+R
+  ⽇ + 5
+U
+  U+6636
+F
+  ==
+  - [[F1.98 昶]] 日長也明也通也舒也
+  ==
+W
+  ====
+  - [[Page~29* (2)昶]]
+    --
+    Interchanged with 暢 [[**see $暢coeng3**]].
+    --
+    ==
+    - A long day;
+    - bright, thorough, extended;
+    - filled.
+    ==
+  ====
+S
+  ==
+  - $昶coeng3 (TODO)
   ==
 $$
 

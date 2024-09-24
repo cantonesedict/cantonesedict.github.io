@@ -760,6 +760,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $昭ciu1
       - $昭ziu1
+      - $昶cong2
       - $昝zaan2
       - $昨zok3
       - $昨zok6
