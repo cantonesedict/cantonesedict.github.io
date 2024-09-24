@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [cong1](#1)
 - [cong2](#2)
+- [cong3](#3)
 - [cong4](#4)
 ==
 </nav>
@@ -318,12 +319,13 @@ W
 C
   ==
   - Strictly, the reading _(2)ch(')ong_ (cong2) in rising tone
-    is for the "disappointed" sense in 愴恍
+    is only for the "disappointed" sense in 愴恍
     (which is probably just a different spelling of 惝怳, see $惝cong2).
+    The "grief" sense is correctly departing-tone _ch(')ong(3)_ (cong3).
   ==
 S
   ==
-  - $愴cong3 (TODO)
+  - $愴cong3
   ==
 $$
 
@@ -421,6 +423,52 @@ C
   ==
   - Williams' 闖賊來: Corrected _ts(a/)k(9)_ (zaak6) to _ts(')(a/)k(9)_ (caak6).
   - Williams' alternative reading: Per 《說文》讀若郴.
+  ==
+$$
+
+
+##{#3 .williams} Ch(')ong(3) [[cong3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $愴3
+==
+</nav>
+<## /tone-3-characters ##>
+
+###+ 愴3 | _Ch(')ong(3)_ (cong3)
+
+$$
+R
+  ⼼ + 10
+U
+  U+6134
+V
+  ==
+  - cong2 (Fan Wan)
+  ==
+F
+  ==
+  - [[F1.98 愴 _(2)Ch(')ong_ (cong2)]] 悽愴言傷心也
+  ==
+W
+  ====
+  - [[Page~29* (2)愴 _(2)Ch(')ong_ (cong2); here normalised to _Ch(')ong(3)_ (cong3)]]
+    ==
+    - Grief;
+    - _(1)ts(')ai ch(')ong[(3)]_
+        [[cai1 cong3 悽愴]],
+        sorrow;
+        to pity;
+    - _ch(')ong[(3)] ch(')ak(7)_
+        [[cong3 cak1 愴惻]]
+        a wounded heart, distressed.
+    ==
+  ====
+S
+  ==
+  - $愴cong2
   ==
 $$
 
