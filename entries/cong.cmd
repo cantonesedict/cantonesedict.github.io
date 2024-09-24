@@ -56,6 +56,7 @@ $$
 - $刅1
 - $創1
 - $瘡1
+- $蒼1
 - $䚎1
 ==
 </nav>
@@ -219,6 +220,55 @@ C
     to vernacular reading _(1)sh(a/)ng_ (saang1).
     Not "he trumps up a cause against me",
     but "he brings unnecessary trouble onto himself".
+  ==
+$$
+
+### 蒼1 | _(1)Ts(')ong_ [[cong1]]
+
+$$
+R
+  ⾋ + 10
+U
+  U+84BC
+F
+  ==
+  - [[F1.95 蒼]] 靑色又蒼天
+  ==
+W
+  ====
+  - [[Page~593 (1)蒼]]
+    ==
+    - Occurs used for the last [[$倉1]], hastily;
+    - the green tint of plants, or the azure of the sky;
+    - flourishing, prospering;
+    - hoary, aged, old in service;
+    - _(1)ts(')ong (4)t(')au_
+        [[cong1 tau4 蒼頭]],
+        soldiers, so called from their green caps;
+        an old slave;
+    - _(1)ts(')ong (1)ts(')ong (2)ch(e/) (1)t(')(i/)n_
+        [[cong1 cong1 ze2 tin1 蒼蒼者天]],
+        the empyrean;
+        _met._ Providence;
+    - _(1)ts(')ong (5)l(o\)_
+        [[cong1 lou5 蒼老]],
+        old, waning;
+        an old man;
+    - _(1)ts(')ong (1)shang_
+        [[cong1 sang1 蒼生]]^
+        the people, living things;
+    - _(1)ts(')ong (4)wong_
+        [[cong1 wong4 蒼黃]],
+        hurried, flighty;
+    - _(1)ts(')ing (1)ts(')ong_
+        [[cing1 cong1 青蒼]],
+        a greenish bluish color.
+    ==
+  ====
+C
+  ==
+  - Williams' "used for the last":
+    Specifically, 蒼黃 is used for 倉皇, "hasty".
   ==
 $$
 
