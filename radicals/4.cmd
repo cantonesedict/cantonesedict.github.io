@@ -119,6 +119,7 @@ For all radicals, see [Index of characters by radical](./).
       - $惩cing4
       - $悵coeng3
       - $悵zoeng3
+      - $惝cong2
       ==
       </nav>
   //

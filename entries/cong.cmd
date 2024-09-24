@@ -179,6 +179,7 @@ $$
 =={.modern}
 - $厰2
 - $廠2
+- $惝2
 - $𢠵 (⿰忄敞)2
 ==
 </nav>
@@ -254,6 +255,42 @@ C
   - Fan Wan entry: Corrected headword ⿸厂敝 to 厰.
   - Williams' 嗰間屋好廠: Corrected _ko(3)_ (go3) to _(2)ko_ (go2)
     and corrected _(4)k(a/)n_ (gaan4) to _(1)k(a/)n_ (gaan1).
+  ==
+$$
+
+###+ 惝2 | _(2)Ch(')ong_ (cong2)
+
+$$
+R
+  ⼼ + 8
+U
+  U+60DD
+A
+  ==
+  - $𢠵 [[⿰忄敞]]2
+  ==
+V
+  ==
+  - tong2 (per 《集韻》坦㓪切)
+  ==
+F
+  ==
+  - [[F1.98 ::[⿰忄敞]::]] ::[⿰忄敞]恍也驚貌::
+  ==
+W
+  ====
+  - [[Page~29* (2)𢠵 (⿰忄敞); here normalised to 惝]]
+    ==
+    - Alarmed;
+    - frightened;
+    - _(2)ch(')ong (2)fong_,
+        [[cong2 fong2 惝怳]]
+        apprehensive, disappointed.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword 𢠳 (⿰忄敝) to 𢠵 (⿰忄敞).
   ==
 $$
 
