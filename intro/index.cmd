@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Introduction.
-* %date-modified --> 2024-04-07
+* %date-modified --> 2024-09-25
 * %copyright-prior-years --> 2023--
 * %meta-description --> Williams' introduction
 
@@ -134,7 +134,7 @@ changes in the finals are here given:---
 --{.williams}
 The frequency of the abrupt consonontal terminations _k_, _p_, and _t_,
 in the Canton [[廣州]] dialect, immediately strike a northerner from Ki(a/)ngs(u/) [[江蘇]],
-who has been used to hear all terminations soft and flowing ; but
+who has been used to hear all terminations soft and flowing; but
 the people from those provinces are said to learn this dialect sooner
 than those from Amoy [[廈門]] and Fuhchau [[福州]], whose nasal sounds and
 greater changes in the initials, are more difficult to accord with it.
