@@ -50,6 +50,7 @@ $$
 - $侏1
 - $朱1
 - $株1
+- $洙1
 - $瀦1
 - $猪1
 - $諸1
@@ -140,6 +141,32 @@ W
     - _(1)ch(u") (2)shau yat(7) (4)(u/)_
         [[zyu1 sau2 jat1 jyu4 株守一隅]],
         confined in a corner, kept back in obscurity.
+    ==
+  ====
+$$
+
+### 洙1 | _(1)Ch(u")_ [[zyu1]]
+
+$$
+R
+  ⽔ + 6
+U
+  U+6D19
+V
+  ==
+  - syu4 (per 《廣韻》市朱切)
+  ==
+F
+  ==
+  - [[F1.43 洙]] 洙泗
+  ==
+W
+  ====
+  - [[Page~30* (1)洙]]
+    ==
+    - A small stream in Sh(a/)ntung [[山東]]
+      flowing north from T(a/)i shan [[泰山]]
+      into the R.~Sz' [[泗]].
     ==
   ====
 $$
