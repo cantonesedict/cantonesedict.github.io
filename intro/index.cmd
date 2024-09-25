@@ -254,7 +254,7 @@ in letters, when they do not know, or cannot remember the proper
 characters. Another device to indicate colloquial words is to prefix
 the character _hau_ [[hau]] 口 mouth, or _yan_ [[jan]] 人 a man, at the side of some
 well known character of the same sound, but not always of the same
-tone. The words _tsoi(6)_ [[zoi6]] a cargo; _(1)k(a/) (2)fo_ [[gaa1 fo2]] 傢伙, furniture;
+tone. The words _tsoi(6)_ [[zoi6]] 儎 a cargo; _(1)k(a/) (2)fo_ [[gaa1 fo2]] 傢伙, furniture;
 _(5)mai_ [[mai5]] 咪 do not; _(1)ts(')oi_ [[coi1]] 啋 pshaw! and _(2)t(e/)_ [[de2]] 嗲 remiss, &c., are examples
 [[[Page~xiii of the original]{#page-xiii}<n20> here]]
 of this sort. Sometimes, again, a character which comes nearest in
