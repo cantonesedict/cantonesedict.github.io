@@ -224,7 +224,7 @@ C
   ==
 S
   ==
-  - $瑲coeng1 (TODO)
+  - $瑲coeng1
   ==
 $$
 

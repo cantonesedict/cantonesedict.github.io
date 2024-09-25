@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2024-09-24
+* %date-modified --> 2024-09-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -55,6 +55,7 @@ $$
 - $槍1
 - $牕1
 - $猖1
+- $瑲1
 - $窓1
 - $窗1
 - $窻1
@@ -351,6 +352,32 @@ W
         ungovernable, unrestrained.
     ==
   ====
+$$
+
+###+ 瑲1 | _(1)Ts(')(e/)ung_ (coeng1)
+
+$$
+R
+  ⽟ + 10
+U
+  U+7472
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~593 (1)瑲 _(1)Ts(')ong_ (cong1); here corrected to _(1)Ts(')(e/)ung_ (coeng1)]]
+    ==
+    - [[...]];
+    - a musical sound;
+    - _(1)[ts(')(e/)ung] (1)[ts(')(e/)ung]_
+        [[coeng1 coeng1 瑲瑲]],
+        the jingling of stones.
+    ==
+  ====
+S
+  ==
+  - $瑲cong1
+  ==
 $$
 
 ### 窓1 | _(1)Ch(')(e/)ung_ [[coeng1]]
