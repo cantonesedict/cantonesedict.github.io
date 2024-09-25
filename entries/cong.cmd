@@ -906,6 +906,7 @@ $$
 - $幢4
 - $床4
 - $牀4
+- $藏4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -1019,5 +1020,64 @@ W
 C
   ==
   - Fan Wan entry: Corrected 㮼 to 榻.
+  ==
+$$
+
+### 藏4 | _(4)Ts(')ong_ [[cong4]]
+
+$$
+R
+  ⾋ + 14
+U
+  U+85CF
+F
+  ==
+  - [[F1.97 藏]] ::[匿]也隱也[蓄]也::
+  ==
+W
+  ====
+  - [[Page~594 (4)藏]]
+    ==
+    - To store away, to put in safety;
+    - to contain;
+    - to hide, to conceal;
+    - to accumulate;
+    - to gather knowledge;
+    - _(4)ts(')ong (4)m(a/)i_
+        [[cong4 maai4 藏埋]],
+        to lay by;
+    - _(1)k(a/) (4)ts(')ong_
+        [[gaa1 cong4 家藏]],
+        heirlooms laid by, family treasures;
+    - _(5)m(o\) (4)ts(')ong (4)t(')au_
+        [[mou5 cong4 tau4-2 冇藏頭]],
+        no chance for profit;
+    - _(4)ts(')ong (2)p(a/)n_
+        [[cong4 baan2 藏版]],
+        to keep the blocks, to publish a book;
+    - _(1)p(a/)u (4)ts(')ong_
+        [[baau1 cong4 包藏]],
+        to keep from, not to divulge;
+    - _(1)shau (4)ts(')ong_
+        [[sau1 cong4 收藏]],
+        to receive, as in trust;
+    - _(4)'m hai(6) (4)ts(')ong (4)lung (1)ch(i/) (2)sho_
+        [[m4 hai6 cong4 lung4 zi1 so2 唔係藏龍之所]],
+        I'm not to be cribbed in this place;
+    - _(2)yan (4)ts(')ong_
+        [[jan2 cong4 隱藏]],
+        to conceal;
+    - _(4)ts(')ong (4)t(')au l(o\)(6) (5)m(i/)_
+        [[cong4 tau4 lou6 mei5 藏頭露尾]],
+        to give a partial account of, an inkling.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 慝 to 匿, and corrected malformed 蓄.
+  ==
+S
+  ==
+  - $藏zong6
   ==
 $$
