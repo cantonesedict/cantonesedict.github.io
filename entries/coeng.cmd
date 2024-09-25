@@ -66,6 +66,7 @@ $$
 - $鎗1
 - $鏘1
 - $閶1
+- $鯧1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -678,6 +679,32 @@ W
         door of paradise, kept by Kw(a/)nt(i/) [[關帝]] or Mars.
     ==
   ====
+$$
+
+###+ 鯧1 | _(1)Ch(')(e/)ung_ (coeng1)
+
+$$
+R
+  ⿂ + 8
+U
+  U+9BE7
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ====
+  - Effectively, 鯧 and 䱽 are the same semantic word "pomfret", but:
+    ==
+    - 鯧 is classically attested with reading _(1)ch(')(e/)ung_ (coeng1); and
+    - 䱽 is vernacular with reading _(1)ts(')ong_ (cong1)
+      (see $䱽cong1).
+    ==
+  ====
+S
+  ==
+  - $鯧cong1
+  ==
 $$
 
 

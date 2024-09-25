@@ -427,15 +427,17 @@ W
   ====
 C
   ====
-  - Effectively, 鯧 and 䱽 are the same semantic word, but:
+  - Effectively, 鯧 and 䱽 are the same semantic word "pomfret", but:
     ==
-    - 鯧 is the classically attested one, read _(1)ch(')(e/)ung_ (coeng1), and
-    - 䱽 is the vernacular one, read _(1)ts(')ong_ (cong1).
+    - 鯧 is classically attested with reading _(1)ch(')(e/)ung_ (coeng1)
+      (see $鯧coeng1); and
+    - 䱽 is vernacular with reading _(1)ts(')ong_ (cong1)
+      (see $䱽cong1).
     ==
   ====
 S
   ==
-  - $鯧coeng1 (TODO)
+  - $鯧coeng1
   ==
 $$
 

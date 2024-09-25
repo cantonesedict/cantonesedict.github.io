@@ -75,6 +75,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $鯧coeng1
       - $鯧cong1
       - $鯫zau1
       ==
