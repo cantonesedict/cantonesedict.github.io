@@ -61,6 +61,7 @@ $$
 - $艙1
 - $蒼1
 - $䚎1
+- $䱽1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -401,6 +402,48 @@ W
 S
   ==
   - $䚎zong1
+  ==
+$$
+
+### 䱽1 | _(1)Ts(')ong_ [[cong1]]
+
+$$
+R
+  ⿂ + 10
+U
+  U+4C7D
+F
+  ==
+  - [[F1.95 䱽]] 魚名
+  ==
+W
+  ====
+  - [[Page~594 (1)鯧(1)䱽]]
+    --
+    The second character [[䱽]] is unauthorized.
+    --
+    ==
+    - The pomfret;
+    - _p(a/)k(9) (1)ts(')ong (4)(u")_
+        [[baak6 cong1 jyu4-2 白䱽魚]],
+        the silver pomfret _(Stromateus argenteus)_;
+    - _hak(7) (1)ts(')ong_
+        [[hak1 cong1 黑䱽]],
+        the black pomfret _(Stromateus niger)_;
+    - _(4)wong [l(a/)p](9) (1)ts(')ong_
+        [[wong4 laap6 cong1 黃鱲䱽]],
+        the yellow pomfret _(Trachinotus auratus)_;
+    - _(1)f(a/) (1)ts(')ong_
+        [[faa1 cong1 花䱽]],
+        small pomfret _(Caranx malabaricus)_;
+    - _(1)kw(a/) (2)tsz' (1)ts(')ong_
+        [[gwaa1 zi2 cong1 瓜子䱽]],
+        long-finned pomfret _(Trachinotus asper)_.
+    ==
+  ====
+C
+  ==
+  - Williams' 黃鱲䱽: Changed _lap(9)_ (lap6) to longer syllable _l(a/)p(9)_ (laap6).
   ==
 $$
 
