@@ -946,6 +946,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $朿ci3
+      - $朱zyu1
       ==
       </nav>
   //

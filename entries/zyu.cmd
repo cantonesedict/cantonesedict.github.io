@@ -47,6 +47,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $朱1
 - $瀦1
 - $猪1
 - $諸1
@@ -54,6 +55,40 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 朱1 | _(1)Ch(u")_ [[zyu1]]
+
+$$
+R
+  ⽊ + 2
+U
+  U+6731
+F
+  ==
+  - [[F1.43 朱]] 紅色又姓
+  ==
+W
+  ====
+  - [[Page~29* (1)朱]]
+    ==
+    - A coniferæ with red heartwood;
+    - vermilion;
+    - a cinnabar red;
+    - _kung(6) k(i/)t(8) (1)ch(u") (4)ch(')an_
+        [[gung6 git3 zyu1 can4 共結朱陳]],
+        to make a contract of marriage;
+    - _(1)ch(u") pat(7)_
+        [[zyu1 bat1 朱筆]]
+        a vermilion pencil;
+    - _(1)ch(u") (4)m(u/)n_
+        [[zyu1 mun4 朱門]],
+        gentry, officials;
+    - _(1)ch(u") pat(7) (2)t(i/)m (4)t(')au_
+        [[zyu1 bat1 dim2 tau4 朱筆點頭]],
+        to dot off with a red point.
+    ==
+  ====
+$$
 
 ### 瀦1 | _(1)Ch(u")_ [[zyu1]]
 
