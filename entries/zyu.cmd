@@ -47,6 +47,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $侏1
 - $朱1
 - $瀦1
 - $猪1
@@ -55,6 +56,30 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 侏1 | _(1)Ch(u")_ [[zyu1]]
+
+$$
+R
+  ⼈ + 6
+U
+  U+4F8F
+F
+  ==
+  - [[F1.43 侏]] 侏儒矮人
+  ==
+W
+  ====
+  - [[Page~30* (1)侏]]
+    ==
+    - A pigmy;
+    - a short pillar in a roof like a king-post;
+    - _(1)ch(u") (4)(u")_
+        [[zyu1 jyu4 侏儒]],
+        a dwarf.
+    ==
+  ====
+$$
 
 ### 朱1 | _(1)Ch(u")_ [[zyu1]]
 
