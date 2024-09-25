@@ -49,6 +49,7 @@ $$
 =={.modern}
 - $侏1
 - $朱1
+- $株1
 - $瀦1
 - $猪1
 - $諸1
@@ -111,6 +112,34 @@ W
     - _(1)ch(u") pat(7) (2)t(i/)m (4)t(')au_
         [[zyu1 bat1 dim2 tau4 朱筆點頭]],
         to dot off with a red point.
+    ==
+  ====
+$$
+
+### 株1 | _(1)Ch(u")_ [[zyu1]]
+
+$$
+R
+  ⽊ + 6
+U
+  U+682A
+F
+  ==
+  - [[F1.43 株]] 樹株
+  ==
+W
+  ====
+  - [[Page~30* (1)株]]
+    ==
+    - The trunk or bole of a tree;
+    - a classifier of trees;
+    - degraded, low down;
+    - _(1)song sh(u")(6) ts(')at(7) (1)ch(u")_
+        [[song1 syu6 cat1 zyu1 桑樹七株]],
+        seven mulberry trees;
+    - _(1)ch(u") (2)shau yat(7) (4)(u/)_
+        [[zyu1 sau2 jat1 jyu4 株守一隅]],
+        confined in a corner, kept back in obscurity.
     ==
   ====
 $$

@@ -1002,6 +1002,7 @@ For all radicals, see [Index of characters by radical](./).
       - $桌zoek3
       - $桎zat6
       - $栽zoi1
+      - $株zyu1
       ==
       </nav>
   //
