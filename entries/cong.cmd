@@ -61,6 +61,7 @@ $$
 - $艙1
 - $蒼1
 - $䚎1
+- $鯧1
 - $䱽1
 ==
 </nav>
@@ -405,6 +406,39 @@ S
   ==
 $$
 
+### 鯧1 | _(1)Ts(')ong_ [[cong1]]
+
+$$
+R
+  ⿂ + 8
+U
+  U+9BE7
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~594 (1)鯧(1)䱽]]
+    --
+    [[Alternative form of 䱽. **See $䱽cong1 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, a reading variation. **See $鯧coeng1 for the canonical entry.**]]
+    --
+  ====
+C
+  ====
+  - Effectively, 鯧 and 䱽 are the same semantic word, but:
+    ==
+    - 鯧 is the classically attested one, read _(1)ch(')(e/)ung_ (coeng1), and
+    - 䱽 is the vernacular one, read _(1)ts(')ong_ (cong1).
+    ==
+  ====
+S
+  ==
+  - $鯧coeng1 (TODO)
+  ==
+$$
+
 ### 䱽1 | _(1)Ts(')ong_ [[cong1]]
 
 $$
@@ -412,6 +446,10 @@ R
   ⿂ + 10
 U
   U+4C7D
+A
+  ==
+  - $鯧1
+  ==
 F
   ==
   - [[F1.95 䱽]] 魚名
