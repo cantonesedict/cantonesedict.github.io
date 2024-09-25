@@ -49,6 +49,7 @@ $$
 =={.modern}
 - $猪1
 - $諸1
+- $豬1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -137,5 +138,69 @@ E
        - 咪噉諸事啦 (mai5 gam3 zyu1 si6 laa1): "Don't [be] so nosy!"
        ==
     ++
+  ====
+$$
+
+###+ 豬1 | _(1)Ch(u")_ (zyu1)
+
+$$
+R
+  ⾗ + 8
+U
+  U+732A
+H
+  May appear with 者 dotless (+8 assumed here) or dotted (+9),
+  depending on the font.
+A
+  ==
+  - $猪1
+  ==
+F
+  ==
+  - [[F1.43 猪]] 豕也
+  ==
+W
+  ====
+  - [[Page~29* (1)猪; here normalised to 豬]]
+    ==
+    - A hog;
+    - _(1)ch(u") (2)n(a/)_
+        [[zyu1 naa2 豬乸]],
+        a sow;
+    - _(1)ch(u") (1)kung_
+        [[zyu1 gung1 豬公]],
+        a boar;
+    - _(1)sh(a/)n (1)ch(u")_
+        [[saan1 zyu1 山豬]],
+        a wild boar;
+    - _(4)ts(')(o\) (1)ch(u") (1)f(a/)_
+        [[cou4 zyu1 faa1 槽豬花]],
+        to raise pigs;
+    - _(1)ch(u") yuk(9)_
+        [[zyu1 juk6 豬肉]]
+        pork;
+    - _(1)ch(u") (4)yau_
+        [[zyu1 jau4 豬油]],
+        lard, pork-fat;
+    - _(1)ch(u") (4)p(')o (1)sham_
+        [[zyu1 po4 sam1 豬婆參]],
+        a kind of warty beche-de-mer;
+    - _(1)ch(u") k(o\)m(3) (4)ngoi_
+        [[zyu1 gam3 ngoi4 豬咁呆]],
+        stupid as a pig;
+    - _(1)ch(u") luk(9)_ [[zyu1 luk6 豬樚]]
+        or
+      _(1)ch(u") tau(3)_ [[zyu1 dau3 豬竇]]
+        a pig-sty;
+    - _(1)ch(u") k(e/)uk(8) tung(3)_
+        [[zyu1 goek3 dung3 豬腳凍]]
+        pig's feet jelly;
+    - _(1)ch(u") (5)m(i/) (4)lung_
+        [[zyu1 mei5 lung4 豬尾龍]],
+        a spare-rib;
+    - _(1)ch(u") (4)p(')(a/)i kwat(7)_
+        [[zyu1 paai4 gwat1 豬排骨]]
+        pork-chops.
+    ==
   ====
 $$
