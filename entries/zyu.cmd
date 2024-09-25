@@ -47,12 +47,43 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $瀦1
 - $猪1
 - $諸1
 - $豬1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 瀦1 | _(1)Ch(u")_ [[zyu1]]
+
+$$
+R
+  ⽔ + 15
+U
+  U+7026
+H
+  May appear with 者 dotless (+15 assumed here) or dotted (+16),
+  depending on the font.
+A
+  ==
+  -{.modern} 潴
+  ==
+F
+  ==
+  - [[F1.44 潴]] 潴水水所聚
+  ==
+W
+  ====
+  - [[Page~29* (1)瀦]]
+    ==
+    - A pool where water settles;
+    - _(1)ch(u") (2)shui_
+        [[zyu1 seoi2 瀦水]],
+        an affluent of the Grand Canal in Sh(a/)ntung [[山東]].
+    ==
+  ====
+$$
 
 ### 猪1 | _(1)Ch(u")_ [[zyu1]]
 
@@ -147,7 +178,7 @@ $$
 R
   ⾗ + 8
 U
-  U+732A
+  U+8C6C
 H
   May appear with 者 dotless (+8 assumed here) or dotted (+9),
   depending on the font.

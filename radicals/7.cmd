@@ -327,6 +327,14 @@ For all radicals, see [Index of characters by radical](./).
       - $象zoeng6
       ==
       </nav>
+  //
+    , 8
+    ,
+      <nav class="sideways">
+      ==
+      - $豬zyu1
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⾗-characters ##>
