@@ -58,6 +58,7 @@ $$
 - $滄1
 - $瑲1
 - $瘡1
+- $艙1
 - $蒼1
 - $䚎1
 ==
@@ -277,6 +278,53 @@ C
     to vernacular reading _(1)sh(a/)ng_ (saang1).
     Not "he trumps up a cause against me",
     but "he brings unnecessary trouble onto himself".
+  ==
+$$
+
+### 艙1 | _(1)Ts(')ong_ [[cong1]]
+
+$$
+R
+  ⾈ + 10
+U
+  U+8259
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~594 (1)艙]]
+    --
+    An unauthorized character.
+    --
+    ==
+    - The compartments in a ship's hold;
+    - a hold;
+    - _(4)sh(u")n (1)ts(')ong_
+        [[syun4 cong1 船艙]],
+        the hold of a vessel;
+    - _(1)hoi (1)ts(')ong_
+        [[hoi1 cong1 開艙]]^
+        to begin to unlade;
+    - _s(o\)(3) (1)ts(')ong_
+        [[sou3 cong1 掃艙]],
+        the last lighter;
+    - _(1)ts(')ing (1)ts(')ong_
+        [[cing1 cong1 清艙]],
+        cargo all discharged;
+    - _(1)fung (1)ts(')ong_
+        [[fung1 cong1 封艙]],
+        to forbid trade;
+    - _t(a/)i(6) [(5)]t(')(o\) (1)ts(')ong_
+        [[daai6 tou5 zong2 大肚艙]],
+        the main hold;
+    - _(1)ts(')ong wai(6)_
+        [[cong1 wai6-2 艙位]]
+        the stowage.
+    ==
+  ====
+C
+  ==
+  - Williams' 大肚艙: Corrected _(2)t(')(o\)_ (tou2) to _(5)t(')(o\)_ (tou5).
   ==
 $$
 
