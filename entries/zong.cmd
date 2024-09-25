@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zong
-* %date-modified --> 2024-09-24
+* %date-modified --> 2024-09-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -930,6 +930,10 @@ W
         a great eater, gluttonous.
     ==
   ====
+C
+  ==
+  - Williams' 五臟: Not the stomach, but the spleen.
+  ==
 $$
 
 ### 藏6 | _Tsong(6)_ [[zong6]]
