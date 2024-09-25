@@ -63,6 +63,7 @@ $$
 - $䚎1
 - $鯧1
 - $䱽1
+- $鶬1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -484,6 +485,36 @@ W
 C
   ==
   - Williams' 黃鱲䱽: Changed _lap(9)_ (lap6) to longer syllable _l(a/)p(9)_ (laap6).
+  ==
+$$
+
+### 鶬1 | _(1)Ts(')ong_ [[cong1]]
+
+$$
+R
+  ⿃ + 10
+U
+  U+9DAC
+F
+  ==
+  - [[F1.95 鶬]] 鶬鶊鳥名
+  ==
+W
+  ====
+  - [[Page~594 (1)鶬]]
+    ==
+    - A kind of crane, plumage ashcolored, and cheeks red;
+    - _(1)ts(')ong [k(')(u/)t](8)_
+        [[cong1 kut3 鶬鴰]]
+        the black crane,
+        called _(4)t(')(i/)n (1)tam (1)kai_ [[tin4 dam1 gai1 田揼雞]],
+        or field tank hen.
+    ==
+  ====
+C
+  ==
+  - Williams' 鶬鴰: Changed Middle Chinese _k(u/)t(8)_ (gut3)
+    to common reading _k(')(u/)t(8)_ (kut3).
   ==
 $$
 
