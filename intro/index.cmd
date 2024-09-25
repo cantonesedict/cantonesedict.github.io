@@ -1652,7 +1652,7 @@ represented by Roman letters; there are however only 707 different
 syllables given in this Dictionary, many possible combinations, as
 _kw(o\)m_ [[gwam]], _t(a/)ng_ [[daang]], _l(u/)t_ [[lut]], _p(u")t_ [[byut]],
 _kw(e/)ung_ [[gwoeng]], _f(a/)m_ [[faam]], _foi_ [[foi]], _lon_ [[lon]],
-_shot_ [[sot]], _s(u/)n_ [[sun]], _[wi(u/)]_, &c.,
+_shot_ [[sot]], _s(u/)n_ [[sun]], _[wi(u/)]_ [[wiu]], &c.,
 not occuring in the dialect. The table of all the sounds here given
 will show the paucity of different vocables, though it does not
 probably include *all* the variations heard among the people, which
