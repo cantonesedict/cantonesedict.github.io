@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cong
-* %date-modified --> 2024-09-24
+* %date-modified --> 2024-09-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -56,6 +56,7 @@ $$
 - $刅1
 - $創1
 - $滄1
+- $瑲1
 - $瘡1
 - $蒼1
 - $䚎1
@@ -195,6 +196,36 @@ W
         to drink like the sea, able to drink much.
     ==
   ====
+$$
+
+### 瑲1 | _(1)Ts(')ong_ [[cong1]]
+
+$$
+R
+  ⽟ + 10
+U
+  U+7472
+F
+  ==
+  - [[F1.95 瑲]] 玉名
+  ==
+W
+  ====
+  - [[Page~593 (1)瑲]]
+    ==
+    - Color of gems;
+    - [[see $瑲coeng1 for onomatopoeic senses]].
+    ==
+  ====
+C
+  ==
+  - Strictly, the reading _(1)ts(')ong_ (cong1) is for the "gem-colour" sense only;
+    Kangxi quotes 又《類篇》千剛切音蒼玉色.
+  ==
+S
+  ==
+  - $瑲coeng1 (TODO)
+  ==
 $$
 
 ### 瘡1 | _(1)Ch(')ong_ [[cong1]]
