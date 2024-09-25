@@ -135,7 +135,7 @@ E
     ++
     1. Nosy or meddling.
        ==
-       - 咪噉諸事啦 (mai5 gam3 zyu1 si6 laa1): "Don't [be] so nosy!"
+       - 咪咁諸事啦 (mai5 gam3 zyu1 si6 laa1): "Don't [be] so nosy!"
        ==
     ++
   ====
