@@ -47,10 +47,34 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $猪1
 - $諸1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 猪1 | _(1)Ch(u")_ [[zyu1]]
+
+$$
+R
+  ⽝ + 8
+U
+  U+732A
+H
+  May appear with 者 dotless (+8 assumed here) or dotted (+9),
+  depending on the font.
+F
+  ==
+  - [[F1.43 猪]] 豕也
+  ==
+W
+  ====
+  - [[Page~29* (1)猪]]
+    --
+    [[Alternative form of 豬. **See $豬zyu1 for the canonical entry.**]]
+    --
+  ====
+$$
 
 ### 諸1 | _(1)Ch(u")_ [[zyu1]]
 
