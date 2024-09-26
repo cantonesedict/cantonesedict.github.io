@@ -681,6 +681,7 @@ $$
 =={.modern}
 - $丶2
 - $主2
+- $麈2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -807,4 +808,27 @@ C
   ==
   - Williams' 主宰: Corrected _(2)ts(')oi_ (coi2) to _(2)tsoi_ (zoi2).
   ==
+$$
+
+### 麈2 | _(2)Ch(u")_ [[zyu2]]
+
+$$
+R
+  ⿅ + 5
+U
+  U+9E88
+F
+  ==
+  - [[F1.46 麈]] 鹿之大者尾能主風
+  ==
+W
+  ====
+  - [[Page~31* (2)麈]]
+    ==
+    - A large ruminant, (a yak?) with a bushy tail;
+    - _(2)ch(u") (5)m(i/)_
+        [[zyu2 mei5 麈尾]],
+        a chowry used by fairies.
+    ==
+  ====
 $$
