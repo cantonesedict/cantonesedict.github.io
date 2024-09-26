@@ -63,6 +63,7 @@ $$
 - $諸1
 - $豬1
 - $邾1
+- $銖1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -642,6 +643,31 @@ W
       now the district of Tsau [[鄒]];
     - _(2)si(u/) (1)ch(u")_ [[siu2 zyu1 小邾]]^
       was a principality lying south of it.
+    ==
+  ====
+$$
+
+### 銖1 | _(1)Ch(u")_ [[zyu1]]
+
+$$
+R
+  ⾦ + 6
+U
+  U+9296
+F
+  ==
+  - [[F1.44 銖]] 錙銖
+  ==
+W
+  ====
+  - [[Page~30* (1)銖]]
+    ==
+    - A small ancient silver coin,
+      estimated as equal to 100~grains of millet;
+    - 24~made a tael;
+    - farthings, coppers;
+    - trifles;
+    - blunt, dull.
     ==
   ====
 $$
