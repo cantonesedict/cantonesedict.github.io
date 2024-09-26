@@ -1390,6 +1390,7 @@ For all radicals, see [Index of characters by radical](./).
       - $泲zi2
       - $沾zim1
       - $沼ziu2
+      - $注zyu3
       ==
       </nav>
   //

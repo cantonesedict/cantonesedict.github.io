@@ -935,10 +935,51 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $注3
 - $著3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 注3 | _Ch(u")(3)_ [[zyu3]]
+
+$$
+R
+  ⽔ + 5
+U
+  U+6CE8
+F
+  ==
+  - [[F1.47 注]] 意之所主又灌注厝注
+  ==
+W
+  ====
+  - [[Page~31* 注(3)]]
+    ==
+    - Water disparting in streamlets, to lead water in channels;
+    - to soak;
+    - to record;
+    - to comment;
+    - to collect;
+    - to strike;
+    - to fix the mind on;
+    - _ch(u")(3) (i/)(3)_
+        [[zyu3 ji3 注意]]
+        attend to closely;
+        attentive;
+    - _ch(u")(3) n(i/)m(6)_
+        [[zyu3 nim6 注念]]
+        to remember, to ponder;
+    - _ch(u")(3) muk(9)_
+        [[zyu3 muk6 注目]]
+        to gaze at.
+    ==
+  ====
+C
+  ==
+  - Also see $註zyu3 for the "record" and "commentary" senses.
+  ==
+$$
 
 ### 著3 | _Ch(u")(3)_ [[zyu3]]
 
