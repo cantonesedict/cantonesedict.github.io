@@ -681,6 +681,7 @@ $$
 =={.modern}
 - $丶2
 - $主2
+- $渚2
 - $煮2
 - $麈2
 ==
@@ -809,6 +810,32 @@ C
   ==
   - Williams' 主宰: Corrected _(2)ts(')oi_ (coi2) to _(2)tsoi_ (zoi2).
   ==
+$$
+
+### 渚2 | _(2)Ch(u")_ [[zyu2]]
+
+$$
+R
+  ⽔ + 8
+U
+  U+6E1A
+H
+  May appear with 者 dotless (+8 assumed here) or dotted (+9),
+  depending on the font.
+F
+  ==
+  - [[F1.46 渚]] 小洲也
+  ==
+W
+  ====
+  - [[Page~31* (2)渚]]
+    ==
+    - An affluent of the R.~Hw(a/)i [[淮]]
+      near H(u") chau [[許州]] in Hon(a/)n [[河南]];
+    - an islet;
+    - a place awash in a river.
+    ==
+  ====
 $$
 
 ### 煮2 | _(2)Ch(u")_ [[zyu2]]
