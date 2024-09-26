@@ -149,6 +149,7 @@ For all radicals, see [Index of characters by radical](./).
       - $証zing3
       - $詔ziu3
       - $詛zo3
+      - $註zyu3
       ==
       </nav>
   //

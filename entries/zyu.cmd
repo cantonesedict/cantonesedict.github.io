@@ -937,6 +937,7 @@ $$
 =={.modern}
 - $注3
 - $著3
+- $註3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -1017,5 +1018,55 @@ S
   ==
   - $著zoek3
   - $著zoek6
+  ==
+$$
+
+### 註3 | _Ch(u")(3)_ [[zyu3]]
+
+$$
+R
+  ⾔ + 5
+U
+  U+8A3B
+A
+  ==
+  - $注3
+  ==
+F
+  ==
+  - [[F1.47 註]] ::訓釋也[記]也::
+  ==
+W
+  ====
+  - [[Page~31* 註(3)]]
+    --
+    Used with the last two [[$著3, $注3]].
+    --
+    ==
+    - To define, to explain, to illustrate;
+    - to record, to write about;
+    - a commentary, note, definition;
+    - _ch(u")(3) shik(7)_
+        [[zyu3 sik1 註釋]]
+        to explain;
+    - _lok(9) ch(u")(3) (2)k(a/)i_
+        [[lok6 zyu3 gaai2 落註解]],
+        it needs a commentary;
+    - _ch(u")(3) (i/)(6)_ [[zyu3 ji6 註義]]
+        or
+      _ch(u")(3) (2)k(a/)i_ [[zyu3 gaai2 註解]],
+        an explanation;
+    - _(2)p(o\) ch(u")(3)_
+        [[bou2 zyu3 補註]]
+        to add to the comments.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿰訁㔾 to 記.
+  - Williams' "Used with the last two":
+    I have not seen 著 used for 註 (or vice versa).
+    Kangxi quotes 《毛詩序疏》註者著也,
+    but this is an explanation, not an interchanging.
   ==
 $$
