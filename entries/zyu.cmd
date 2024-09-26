@@ -62,6 +62,7 @@ $$
 - $誅1
 - $諸1
 - $豬1
+- $邾1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -618,6 +619,29 @@ W
     - _(1)ch(u") (4)p(')(a/)i kwat(7)_
         [[zyu1 paai4 gwat1 豬排骨]]
         pork-chops.
+    ==
+  ====
+$$
+
+### 邾1 | _(1)Ch(u")_ [[zyu1]]
+
+$$
+R
+  ⾢ + 6
+U
+  U+90BE
+F
+  ==
+  - [[F1.43 邾]] 國名
+  ==
+W
+  ====
+  - [[Page~30* (1)邾]]
+    ==
+    - A feudal state in the south of Sh(a/)ntung [[山東]],
+      now the district of Tsau [[鄒]];
+    - _(2)si(u/) (1)ch(u")_ [[siu2 zyu1 小邾]]^
+      was a principality lying south of it.
     ==
   ====
 $$

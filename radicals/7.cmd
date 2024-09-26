@@ -990,6 +990,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $郅zat1
       - $郅zat6
+      - $邾zyu1
       ==
       </nav>
   //
