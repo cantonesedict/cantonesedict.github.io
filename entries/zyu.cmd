@@ -681,6 +681,7 @@ $$
 =={.modern}
 - $丶2
 - $主2
+- $煮2
 - $麈2
 ==
 </nav>
@@ -807,6 +808,48 @@ W
 C
   ==
   - Williams' 主宰: Corrected _(2)ts(')oi_ (coi2) to _(2)tsoi_ (zoi2).
+  ==
+$$
+
+### 煮2 | _(2)Ch(u")_ [[zyu2]]
+
+$$
+R
+  ⽕ + 8
+U
+  U+716E
+H
+  May appear with 者 dotless (+8 assumed here) or dotted (+9),
+  depending on the font.
+A
+  ==
+  -{.modern} 煑
+  ==
+F
+  ==
+  - [[F1.46 煮]] ::烹[飪]也::
+  ==
+W
+  ====
+  - [[Page~31* (2)煮]]
+    ==
+    - To boil in water, to steep, to decoct;
+    - to cook, to dress food;
+    - boiled;
+    - _(2)ch(u") f(a/)n(6)_
+        [[zyu2 faan6 煮飯]]
+        to boil rice;
+    - _(2)ch(u") shuk(9)_
+        [[zyu2 suk6 煮熟]]
+        to cook thoroughly;
+    - _(2)ch(u") (5)ming_
+        [[zyu2 ming5 煮茗]],
+        to make tea, to give an entertainment.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 飳 to 飪.
   ==
 $$
 
