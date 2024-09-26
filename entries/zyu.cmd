@@ -938,6 +938,7 @@ $$
 - $注3
 - $炷3
 - $著3
+- $蛀3
 - $註3
 ==
 </nav>
@@ -1048,6 +1049,37 @@ S
   - $著zoek3
   - $著zoek6
   ==
+$$
+
+### 蛀3 | _Ch(u")(3)_ [[zyu3]]
+
+$$
+R
+  ⾍ + 5
+U
+  U+86C0
+F
+  ==
+  - [[F1.47 蛀]] 虫名
+  ==
+W
+  ====
+  - [[Page~31* 蛀(3)]]
+    ==
+    - An insect _(Ptinus)_ which eats books;
+    - moths in clothes, wood, &c.;
+    - to eat, as insects do;
+    - _ch(u")(3) l(a/)n(6)_
+        [[zyu3 laan6 蛀爛]]
+        spoiled by the worms;
+    - _ch(u")(3) (1)t(')ung_
+        [[zyu3 tung1 蛀通]],
+        all eaten through;
+    - _(4)ch(')ung ch(u")(3)_
+        [[cung4 zyu3 蟲蛀]]
+        worm-eaten.
+    ==
+  ====
 $$
 
 ### 註3 | _Ch(u")(3)_ [[zyu3]]
