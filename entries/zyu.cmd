@@ -57,6 +57,7 @@ $$
 - $硃1
 - $祩1
 - $䏭1
+- $茱1
 - $諸1
 - $豬1
 ==
@@ -388,6 +389,36 @@ W
     An unauthorized character
     [[here normalised to 珠; **see $珠zyu1 for the canonical entry**]].
     --
+  ====
+$$
+
+### 茱1 | _(1)Ch(u")_ [[zyu1]]
+
+$$
+R
+  ⾋ + 6
+U
+  U+8331
+V
+  ==
+  - syu4 (per 《廣韻》市朱切)
+  ==
+F
+  ==
+  - [[F1.43 茱]] 茱茰
+  ==
+W
+  ====
+  - [[Page~30* (1)茱]]
+    ==
+    - A warm, peppery medicine;
+    - _(1)ch(u") (4)(u")_
+        [[zyu1 jyu4 茱萸]],
+        hellebore;
+    - _(1)sh(a/)n (1)ch(u") (4)(u")_
+        [[saan1 zyu1 jyu4 山茱萸]],
+        the cornel?
+    ==
   ====
 $$
 

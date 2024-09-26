@@ -995,6 +995,7 @@ For all radicals, see [Index of characters by radical](./).
       - $茲zi1
       - $草cou2
       - $荐zin3
+      - $茱zyu1
       ==
       </nav>
   //
