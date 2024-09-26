@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2024-09-25
+* %date-modified --> 2024-09-26
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -53,6 +53,7 @@ $$
 - $洙1
 - $瀦1
 - $猪1
+- $珠1
 - $諸1
 - $豬1
 ==
@@ -221,6 +222,57 @@ W
     --
     [[Alternative form of 豬. **See $豬zyu1 for the canonical entry.**]]
     --
+  ====
+$$
+
+### 珠1 | _(1)Ch(u")_ [[zyu1]]
+
+$$
+R
+  ⽟ + 6
+U
+  U+73E0
+F
+  ==
+  - [[F1.43 珠]] 珍珠
+  ==
+W
+  ====
+  - [[Page~30* (1)珠]]
+    ==
+    - A pearl;
+    - a bead;
+    - a necklace;
+    - beadlike;
+    - pearly;
+    - fine, excellent;
+    - _(1)ch(u") (4)(u")n yuk(9) yun(6)_
+        [[zyu1 jyun4 juk6 jeon6 珠圓玉潤]]
+        pearly, fat cheeks;
+        handsome;
+    - _n(i/)m(6) (1)ch(u")_ [[nim6 zyu1 念珠]]^
+        or
+      _s(o\)(3) (1)ch(u")_ [[sou3 zyu1 素珠]],
+        a rosary;
+    - _y(e/)uk(9) (1)ch(u")_
+        [[joek6 zyu1 藥珠]],
+        seed pearls;
+    - _(5)ng(a/)n (1)ch(u")_
+        [[ngaan5 zyu1 眼珠]],
+        the iris;
+    - _(4)ch(')i(u/) (1)ch(u")_
+        [[ciu4 zyu1 朝珠]],
+        court beads;
+    - _yat(7) ch(')(u")n(3) (1)ch(u")_
+        [[jat1 cyun3 zyu1 一串珠]],
+        one string of pearls or beads;
+    - _y(e/)(6) (4)ming (1)ch(u")_
+        [[je6 ming4 zyu1 夜明珠]],
+        a carbuncle;
+    - _(1)ch(u") (2)p(o\)_
+        [[zyu1 bou2 珠寶]],
+        pearls.
+    ==
   ====
 $$
 
