@@ -683,6 +683,7 @@ $$
 - $主2
 - $渚2
 - $煮2
+- $翥2
 - $麈2
 ==
 </nav>
@@ -878,6 +879,30 @@ C
   ==
   - Fan Wan entry: Corrected 飳 to 飪.
   ==
+$$
+
+### 翥2 | _(2)Ch(u")_ [[zyu2]]
+
+$$
+R
+  ⽻ + 8
+U
+  U+7FE5
+H
+  May appear with 者 dotless (+8 assumed here) or dotted (+9),
+  depending on the font.
+F
+  ==
+  - [[F1.46 翥]] 飛舉也
+  ==
+W
+  ====
+  - [[Page~31* (2)翥]]
+    ==
+    - To fly up, to fly away;
+    - to soar, as a phœnix does.
+    ==
+  ====
 $$
 
 ### 麈2 | _(2)Ch(u")_ [[zyu2]]

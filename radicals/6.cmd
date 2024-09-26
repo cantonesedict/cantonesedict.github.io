@@ -545,6 +545,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $翟zaak6
+      - $翥zyu2
       ==
       </nav>
   //
