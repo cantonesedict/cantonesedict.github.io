@@ -819,6 +819,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $祥coeng4
       - $祭zai3
+      - $祩zyu1
       ==
       </nav>
   //

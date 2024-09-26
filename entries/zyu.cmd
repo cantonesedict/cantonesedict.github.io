@@ -55,6 +55,7 @@ $$
 - $猪1
 - $珠1
 - $硃1
+- $祩1
 - $諸1
 - $豬1
 ==
@@ -313,6 +314,33 @@ W
         essays of successful _k(u")jin_ [[舉人]] or _tsinsz'_ [[進士]].
     ==
   ====
+$$
+
+### 祩1 | _(1)Ch(u")_ [[zyu1]]
+
+$$
+R
+  ⽰ + 6
+U
+  U+7969
+V
+  ==
+  - zyu3 (per 《廣韻》之戍切)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~30* (1)祩]]
+    ==
+    - To curse, to imprecate misfortunes upon one.
+    ==
+  ====
+C
+  ==
+  - The level-tone reading _(1)ch(u")_ (zyu1) is not unattested;
+    Kangxi quotes 《集韻》《韻會》𠀤鐘輸切音朱呪祩.
+  ==
 $$
 
 ### 諸1 | _(1)Ch(u")_ [[zyu1]]
