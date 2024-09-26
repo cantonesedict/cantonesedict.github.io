@@ -58,6 +58,7 @@ $$
 - $祩1
 - $䏭1
 - $茱1
+- $蛛1
 - $諸1
 - $豬1
 ==
@@ -420,6 +421,36 @@ W
         the cornel?
     ==
   ====
+$$
+
+### 蛛1 | _(1)Ch(u")_ [[zyu1]]
+
+$$
+R
+  ⾍ + 6
+U
+  U+86DB
+F
+  ==
+  - [[F1.43 蛛]] ::蜘[蛛]::
+  ==
+W
+  ====
+  - [[Page~30* (1)蛛]]
+    ==
+    - The spider;
+    - _(1)ch(u") (1)sz'_
+        [[zyu1 si1 蛛絲]]
+        the spider's silk or web;
+    - _(1)ch(i/) (1)ch(u") lok(9) (1)shan (5)yau (2)h(i/) sz'(6)_
+        [[zi1 zyu1 lok6 san1 jau5 hei2 si6 蜘蛛落身有喜事]]
+        it is luck to have a spider fall on you.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed missing character 蛛.
+  ==
 $$
 
 ### 諸1 | _(1)Ch(u")_ [[zyu1]]
