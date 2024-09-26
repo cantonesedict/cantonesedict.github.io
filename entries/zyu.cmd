@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zyu1](#1)
+- [zyu2](#2)
 ==
 </nav>
 <## /tones ##>
@@ -669,5 +670,39 @@ W
     - trifles;
     - blunt, dull.
     ==
+  ====
+$$
+
+
+##{#2 .williams} (2)Ch(u") [[zyu2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $丶2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 丶2 | _(2)Ch(u")_ [[zyu2]]
+
+$$
+R
+  ⼂ + 0
+U
+  U+4E36
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~30* (2)丶]]
+    ==
+    - The flame of a lamp;
+    - a stop[,] a point;
+    - the third radical.
+    ==
+    --
+    Occurs used for the next [[$主2]].
+    --
   ====
 $$
