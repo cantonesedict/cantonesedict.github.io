@@ -54,6 +54,7 @@ $$
 - $瀦1
 - $猪1
 - $珠1
+- $硃1
 - $諸1
 - $豬1
 ==
@@ -272,6 +273,44 @@ W
     - _(1)ch(u") (2)p(o\)_
         [[zyu1 bou2 珠寶]],
         pearls.
+    ==
+  ====
+$$
+
+### 硃1 | _(1)Ch(u")_ [[zyu1]]
+
+$$
+R
+  ⽯ + 6
+U
+  U+7843
+F
+  ==
+  - [[F1.43 硃]] 銀硃硃砂
+  ==
+W
+  ====
+  - [[Page~30* (1)硃]]
+    ==
+    - Cinnabar;
+    - _(1)ch(u") (1)sh(a/)_
+        [[zyu1 saa1 硃砂]],
+        cinnabar ore;
+    - _(4)ngan (1)ch(u") (2)fan_
+        [[ngan4 zyu1 fan2 銀硃粉]],
+        vermilion;
+    - _(1)ch(u") mak(9)_
+        [[zyu1 mak6 硃墨]]
+        red ink;
+    - _(1)ch(u") (1)p(')ai_
+        [[zyu1 pai1 硃批]],
+        the emperor's rescript;
+    - _(1)ch(u") pat(7)_
+        [[zyu1 bat1 硃筆]]
+        an official autograph in red ink;
+    - _(1)ch(u") (2)k(u")n_
+        [[zyu1 gyun2 硃卷]],
+        essays of successful _k(u")jin_ [[舉人]] or _tsinsz'_ [[進士]].
     ==
   ====
 $$
