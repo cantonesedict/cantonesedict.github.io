@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [zyu1](#1)
 - [zyu2](#2)
+- [zyu3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -926,4 +927,54 @@ W
         a chowry used by fairies.
     ==
   ====
+$$
+
+
+##{#3 .williams} Ch(u")(3) [[zyu3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $著3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 著3 | _Ch(u")(3)_ [[zyu3]]
+
+$$
+R
+  ⾋ + 8
+U
+  U+8457
+H
+  May appear with 者 dotless (+8 assumed here) or dotted (+9),
+  depending on the font.
+F
+  ==
+  - [[F1.47 著]] 明也又著述
+  ==
+W
+  ====
+  - [[Page~31* 著(3)]]
+    ==
+    - To manifest;
+    - to set forth;
+    - clear;
+    - to narrate, to write;
+    - to fix, to settle;
+    - a porch;
+    - _ch(u")(3) tsok(8)_
+        [[zyu3 zok3 著作]]
+        to compose;
+    - _ch(u")(3) shut(9)_
+        [[zyu3 seot6 著述]]
+        to write an account of.
+    ==
+  ====
+S
+  ==
+  - $著zoek3
+  - $著zoek6
+  ==
 $$
