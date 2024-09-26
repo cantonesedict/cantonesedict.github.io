@@ -680,6 +680,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $丶2
+- $主2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -705,4 +706,105 @@ W
     Occurs used for the next [[$主2]].
     --
   ====
+$$
+
+### 主2 | _(2)Ch(u")_ [[zyu2]]
+
+$$
+R
+  ⼂ + 4
+U
+  U+4E3B
+F
+  ==
+  - [[F1.46 主]] 君也宰也又賓主
+  ==
+W
+  ====
+  - [[Page~30* (2)主]]
+    ==
+    - A rule, a lord, a master;
+    - a host;
+    - the chief, the head;
+    - to govern, to rule;
+    - to make one the head;
+    - certainly, undoubtedly, as a lord's behests;
+    - _p(i/)t(7) (2)ch(u") ying(3) fuk(7)_
+        [[bit1 zyu2 jing3 fuk1 必主應福]]
+        will doubtless bring luck;
+    - _(2)ch(u") tsoi(6) (5)n(i/) (1)k(a/)_
+        [[zyu2 zoi6 nei5 gaa1 主在你家]],
+        I will make you my lord in your house,
+        _i.e._ I am going to your house;
+    - _(2)ch(u") (1)kung_
+        [[zyu2 gung1 主公]],
+        your Highness, my Lord our prince;
+    - _(i/)p(9) (2)ch(u")_
+        [[jip6 zyu2 業主]],
+        landlord;
+    - _(1)kung (2)ch(u")_
+        [[gung1 zyu2 公主]],
+        a princess;
+    - _(5)sh(e/)ung (2)ch(u")_
+        [[soeng5 zyu2 上主]],
+        to put up the tablet;
+    - _(4)shui tsok(8) (2)ch(u")_
+        [[seoi4 zok3 zyu2 誰作主]],
+        who is head?
+    - _(4)yan (2)ch(u")_
+        [[jan4 zyu2 人主]]^
+        the sovereign;
+    - _(2)ch(u") sh(e/)ung(6)_
+        [[zyu2 soeng6 主上]]
+        H.~I.~M.;
+    - _(1)sh(i/) (2)ch(u")_
+        [[si1 zyu2 施主]],
+        a donor, a term used by priests;
+    - _(2)ch(u") (5)m(o\)_
+        [[zyu2 mou5 主母]],
+        a mistress of a house;
+    - _(1)chan (2)ch(u")_
+        [[zan1 zyu2 真主]],
+        the true God, used by Moslems;
+    - _(4)shan (2)ch(u")_
+        [[san4 zyu2 神主]],
+        the ancestral tablet;
+    - _(4)ts(')oi (2)ch(u") (2)l(o\)_
+        [[coi4 zyu2 lou2 財主佬]],
+        a rich man;
+    - _(2)ch(u") (i/)(3)_
+        [[zyu2 ji3 主意]]
+        the will, decision;
+    - _(2)ch(u") ch(i/)(6)_
+        [[zyu2 zi6 主治]]
+        to govern;
+    - _(2)ch(u") k(u/)(3)_
+        [[zyu2 gu3 主顧]]
+        a patron;
+    - _(2)ch(u") k(u/)(3)_
+        [[zyu2 gu3 主固]]
+        solid, firm;
+    - _(2)ch(u") (2)h(a/)u_
+        [[zyu2 haau2 主考]],
+        literary examiner;
+    - _(2)ch(u") (2)[tsoi]_
+        [[zyu2 zoi2 主宰]],
+        to direct, to control;
+        the head of;
+    - _(2)ch(u") (4)ch(')(i/)_
+        [[zyu2 ci4 主持]],
+        an abbot;
+        to manage;
+    - _(2)ch(u") (1)fan_
+        [[zyu2 fan1 主婚]],
+        manager of a marriage;
+    - _(5)yau (4)t(')au (2)ch(u")_
+        [[jau5 tau4 zyu2 有頭主]],
+        she has a head, she is married.
+    ==
+  ====
+C
+  ==
+  - Williams' 主宰: Corrected _(2)ts(')oi_ (coi2) to _(2)tsoi_ (zoi2).
+  ==
 $$

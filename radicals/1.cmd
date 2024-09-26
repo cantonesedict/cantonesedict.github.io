@@ -121,6 +121,14 @@ For all radicals, see [Index of characters by radical](./).
       - $丶zyu2
       ==
       </nav>
+  //
+    , 4
+    ,
+      <nav class="sideways">
+      ==
+      - $主zyu2
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⼂-characters ##>
