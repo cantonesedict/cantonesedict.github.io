@@ -936,6 +936,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $注3
+- $炷3
 - $著3
 - $註3
 ==
@@ -980,6 +981,34 @@ C
   ==
   - Also see $註zyu3 for the "record" and "commentary" senses.
   ==
+$$
+
+### 炷3 | _Ch(u")(3)_ [[zyu3]]
+
+$$
+R
+  ⽕ + 5
+U
+  U+70B7
+F
+  ==
+  - [[F1.47 炷]] 炷香
+  ==
+W
+  ====
+  - [[Page~31* 炷(3)]]
+    ==
+    - A wick;
+    - a stick of incense;
+    - to light;
+    - _yat(7) ch(u/)(3) (1)h(e/)ung_
+        [[jat1 zyu3 hoeng1 一炷香]],
+        a set of three incense sticks;
+    - _ch(u/)(3) (1)h(e/)ung_
+        [[zyu3 hoeng1 炷香]],
+        to light the incense stick.
+    ==
+  ====
 $$
 
 ### 著3 | _Ch(u")(3)_ [[zyu3]]
