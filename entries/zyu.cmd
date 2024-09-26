@@ -59,6 +59,7 @@ $$
 - $䏭1
 - $茱1
 - $蛛1
+- $誅1
 - $諸1
 - $豬1
 ==
@@ -450,6 +451,46 @@ W
 C
   ==
   - Fan Wan entry: Fixed missing character 蛛.
+  ==
+$$
+
+### 誅1 | _(1)Ch(u")_ [[zyu1]]
+
+$$
+R
+  ⾔ + 6
+U
+  U+8A85
+F
+  ==
+  - [[F1.43 誅]] 征誅
+  ==
+W
+  ====
+  - [[Page~30* (1)誅]]
+    ==
+    - To make judicial inquiry;
+    - to punish, to destroy, to kill;
+    - to exterminate;
+    - to reprove;
+    - to involve in;
+    - _(1)t(')(i/)n (1)ch(u")_
+        [[tin1 zyu1 天誅]],
+        divine (or imperial) punishment;
+    - _(1)ching (1)ch(u")_
+        [[zing1 zyu1 征誅]],
+        to punish refractory states;
+    - _(1)ch(u") m(i/)t(9)_
+        [[zyu1 mit6 誅滅]]
+        to extirpate;
+    - _(1)ch(u") [fat](9)_
+        [[zyu1 fat6 誅罰]]
+        to punish.
+    ==
+  ====
+C
+  ==
+  - Williams' 誅罰: Changed _f(a/)t(9)_ (faat6) to modern _fat(9)_ (fat6).
   ==
 $$
 
