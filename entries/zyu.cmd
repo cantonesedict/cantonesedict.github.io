@@ -56,6 +56,7 @@ $$
 - $珠1
 - $硃1
 - $祩1
+- $䏭1
 - $諸1
 - $豬1
 ==
@@ -234,9 +235,14 @@ R
   ⽟ + 6
 U
   U+73E0
+A
+  ==
+  - $䏭1 [[for "cheek" sense]]
+  ==
 F
   ==
   - [[F1.43 珠]] 珍珠
+  - [[F1.43 䏭]] 面䏭
   ==
 W
   ====
@@ -275,6 +281,27 @@ W
         [[zyu1 bou2 珠寶]],
         pearls.
     ==
+  - [[Page~30* (1)䏭; here normalised to 珠]]
+    --
+    [[...]]
+    --
+    ==
+    - The cheeks;
+    - _m(i/)n(6) (1)ch(u") (1)tan_
+        [[min6 zyu1 dan1 面珠墩]],
+        the cheeks.
+    ==
+  ====
+E
+  ====
+  - 【面珠】 (min6 zyu1):
+    ++
+    1. The cheek.
+    ++
+  - 【面珠墩】 (min6 zyu1 dan1):
+    ++
+    1. Synonym of [面珠](#cantonese-面珠).
+    ++
   ====
 $$
 
@@ -341,6 +368,27 @@ C
   - The level-tone reading _(1)ch(u")_ (zyu1) is not unattested;
     Kangxi quotes 《集韻》《韻會》𠀤鐘輸切音朱呪祩.
   ==
+$$
+
+### 䏭1 | _(1)Ch(u")_ [[zyu1]]
+
+$$
+R
+  ⾁ + 6
+U
+  U+43ED
+F
+  ==
+  - [[F1.43 䏭]] 面䏭
+  ==
+W
+  ====
+  - [[Page~30* (1)䏭]]
+    --
+    An unauthorized character
+    [[here normalised to 珠; **see $珠zyu1 for the canonical entry**]].
+    --
+  ====
 $$
 
 ### 諸1 | _(1)Ch(u")_ [[zyu1]]
