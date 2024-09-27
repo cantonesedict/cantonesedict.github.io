@@ -940,6 +940,7 @@ $$
 - $著3
 - $蛀3
 - $註3
+- $霔3
 - $駐3
 ==
 </nav>
@@ -1131,6 +1132,29 @@ C
     Kangxi quotes 《毛詩序疏》註者著也,
     but this is an explanation, not an interchanging.
   ==
+$$
+
+### 霔3 | _Ch(u")(3)_ [[zyu3]]
+
+$$
+R
+  ⾬ + 8
+U
+  U+9714
+F
+  ==
+  - [[F1.47 霔]] 時雨也
+  ==
+W
+  ====
+  - [[Page~31* 霔(3)]]
+    ==
+    - A seasonable shower;
+    - _ch(u")(3) (4)lam_
+        [[zyu3 lam4 霔霖]],
+        an opportune rain.
+    ==
+  ====
 $$
 
 ### 駐3 | _Ch(u")(3)_ [[zyu3]]
