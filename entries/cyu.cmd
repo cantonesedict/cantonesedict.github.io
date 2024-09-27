@@ -54,6 +54,7 @@ $$
 - $滁4
 - $篨4
 - $蜍4
+- $躕4
 - $除4
 ==
 </nav>
@@ -228,6 +229,33 @@ S
   ==
   - $蜍ceoi4 (TODO)
   - $蜍syu4 (TODO)
+  ==
+$$
+
+### [躕]4 | _(4)Ch(')(u")_ [[cyu4]]
+
+$$
+R
+  ⾜ + 15
+U
+  U+8E95
+F
+  [[F1.45 ::[蹰]::]] ::踟[蹰]::
+W
+  ====
+  - [[Page~32* (4)::[躕]::]]
+    --
+    [[Reading variation. **See $躕ceoi4 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised headword ⿰𧾷⿸广⿰豆寸 to 蹰.
+  - Williams entry: Normalised headword 𨆼 (⿰𧾷㕑) to 躕.
+  ==
+S
+  ==
+  - $躕ceoi4 (TODO)
   ==
 $$
 
