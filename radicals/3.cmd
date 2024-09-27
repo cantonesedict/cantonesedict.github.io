@@ -1222,6 +1222,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $廛cin4
       - $廠cong2
+      - $廚cyu4
       ==
       </nav>
 ''
