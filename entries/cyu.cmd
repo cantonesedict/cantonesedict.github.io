@@ -54,6 +54,7 @@ $$
 - $滁4
 - $篨4
 - $蜍4
+- $躇4
 - $躕4
 - $除4
 ==
@@ -229,6 +230,36 @@ S
   ==
   - $蜍ceoi4 (TODO)
   - $蜍syu4 (TODO)
+  ==
+$$
+
+### 躇4 | _(4)Ch(')(u")_ [[cyu4]]
+
+$$
+R
+  ⾜ + 12
+U
+  U+8E87
+H
+  May appear with 者 dotless (+12 assumed here) or dotted (+13),
+  depending on the font.
+F
+  ==
+  - [[F1.45 躇]] ::躊躇猶[豫]也::
+  ==
+W
+  ====
+  - [[Page~32* (4)躇]]
+    ==
+    - At a loss, perplexed;
+    - _(4)ch(')au (4)ch(')(u")_
+        [[cau4 cyu4 躊躇]],
+        embarrassed, hesitating, stopping to consider.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected illegible character to 豫.
   ==
 $$
 
