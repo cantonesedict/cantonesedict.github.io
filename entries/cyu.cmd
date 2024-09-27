@@ -139,9 +139,10 @@ C
     to determine when this is the case).
     From past experience:
     ==
-    - The classical reading _(2)ch(')(u")_ (cyu2) seems mandatory in the following:
-        處決.
-    - The common reading _(5)ch(')(u")_ (cyu5) seems preferred in the following:
+    - The classical reading _(2)ch(')(u")_ (cyu2) seems mandatory in
+        處決,
+        處置.
+    - The common reading _(5)ch(')(u")_ (cyu5) seems preferred in
         共處,
         判處,
         懲處,
@@ -153,7 +154,7 @@ C
         處方,
         處死,
         處罰.
-    - Either reading seems acceptable in the following:
+    - Either reading seems acceptable in
         處世,
         處事,
         處理.
