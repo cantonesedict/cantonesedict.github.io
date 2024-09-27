@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyu
-* %date-modified --> 2023-08-02
-* %copyright-prior-years -->
+* %date-modified --> 2024-09-27
+* %copyright-prior-years --> 2023--
 
 %%%
-
---{.modern}
-(From Page~32* of the original onwards.)
---
 
 #{.williams} Ch(')(u"). [[cyu]]
 
@@ -21,3 +17,25 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Ch(')(u"). [[Page~32*]]
+  ==
+WP
+  ==
+  - Ch(')(u") <span class="modern">= [tɕʰyː]</span>
+  ==
+MP
+  ==
+  - cyu = [tsʰyː], [tɕʰyː] ((preferred))
+  ==
+$$
