@@ -1230,6 +1230,7 @@ $$
 =={.modern}
 - $住6
 - $筯6
+- $箸6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -1318,5 +1319,50 @@ W
     --
     [[Alternative form of 箸. **See $箸zyu6 for the canonical entry.**]]
     --
+  ====
+$$
+
+### 箸6 | _Ch(u")(6)_ [[zyu6]]
+
+$$
+R
+  ⽵ + 8
+U
+  U+7BB8
+A
+  ==
+  - $筯6
+  ==
+F
+  ==
+  - [[F1.49 筯]] 快子
+  - [[F1.49 箸]] 同上
+  ==
+W
+  ====
+  - [[Page~31* 筯(6)箸(6)]]
+    ==
+    - Chopsticks;
+    - _(4)ng(a/) ch(u")(6) yat(7) t(u/)i(3)_
+        [[ngaa4 zyu6 jat1 deoi3 牙箸一對]]
+        a pair of ivory chopsticks;
+    - _(2)p(i/) ch(u")(6)_
+        [[bei2 zyu6 匕箸]]
+        spoons and chopsticks;
+    - _pat(7) (1)h(o\)m h(a/)(6) ch(u")(6)_
+        [[bat1 ham1 haa6 zyu6 不堪下箸]]
+        it is not worth nipping up, uneatable.
+    ==
+  ====
+E
+  ====
+  - 【箸】 (zyu6):
+    ++
+    1. Classifier for a chopstickful of long or strand-like food.
+       ==
+       - 夾箸麪 (gaap3 zyu6 min6): "Take [a] chopstickful of noodles."
+       - 留返箸菜 (lau4 faan1 zyu6 coi3): "Save [a] chopstickful of vegetables [for later]."
+       ==
+    ++
   ====
 $$

@@ -997,6 +997,9 @@ window.onload = applyFilter;
   //
     , zyu6
     , [住](/entries/zyu#cantonese-住)
+  //
+    , zyu6
+    , [箸](/entries/zyu#cantonese-箸)
 ''
 ||||
 <## /terms-table ##>

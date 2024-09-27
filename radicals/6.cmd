@@ -111,6 +111,7 @@ For all radicals, see [Index of characters by radical](./).
       - $箒zaau2
       - $箒zau2
       - $箋zin1
+      - $箸zyu6
       ==
       </nav>
   //
