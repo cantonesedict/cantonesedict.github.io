@@ -1279,6 +1279,17 @@ W
         [[jan2 bat1 zyu6 忍不住]]
         I can not bear it.
     ==
+  - [[Page~613 自(6) _Tsz'(6)_ (zi6); here corrected to 住 _Ch(u")(6)_ (zyu6)]]
+    ==
+    - [[...]];
+    - _(5)mai [ch(u")](6)_
+        [[mai5 zyu6 咪住]]
+        stop, hold up!
+    - _(4)'m (2)ho h(u")(3) [ch(u")](6)_
+        [[m4 hou2 heoi3 zyu6 唔好去住]]
+        don't go away, wait here a while;
+    - [[...]].
+    ==
   ====
 C
   ==
@@ -1295,7 +1306,11 @@ E
        - 着住長褲 (zoek3 zyu6 coeng4 fu3): "Wearing long pants."
        - 食住先 (sik6 zyu6 sin1): "[Let's be] eating first [before the others arrive]."
        - 睇住佢 (tai2 zyu6 keoi5): "Watch [over] him."
-       - 我揸住 (ngo5 zaa1 zyu3): "I'm holding [onto it]."
+       - 我揸住 (ngo5 zaa1 zyu6): "I'm holding [onto it]."
+       ==
+    1. Yet (for negative imperatives).
+       ==
+       - 咪行住 (mai5 haang4 zyu6): "Don't walk [off] yet!"
        ==
     ++
   ====

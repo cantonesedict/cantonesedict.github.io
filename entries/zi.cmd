@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-09-13
+* %date-modified --> 2024-09-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -4578,7 +4578,7 @@ W
     - _tsz'(6) ts(o\)(6)_
         [[zi6 zou6 自造]]
         our own manufacture;
-    - [[see $住zyu6 for vernacular "yet" senses]] [[TODO]];
+    - [[see $住zyu6 for vernacular "yet" senses]];
     - _tsz'(6) tsz'(6) tsoi(6) tsoi(6)_
         [[zi6 zi6 zoi6 zoi6 自自在在]]
         in high spirits;
