@@ -24,6 +24,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [zyu1](#1)
 - [zyu2](#2)
 - [zyu3](#3)
+- [zyu6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -1218,5 +1219,82 @@ W
         [[zyu3 maa5 駐馬]],
         to tarry a while at.
     ==
+  ====
+$$
+
+
+##{#6 .williams} Ch(u")(6) [[zyu6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $住6
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 住6 | _Ch(u")(6)_ [[zyu6]]
+
+$$
+R
+  ⼈ + 5
+U
+  U+4F4F
+F
+  ==
+  - [[F1.49 住]] 居住
+  ==
+W
+  ====
+  - [[Page~31* 住(6)]]
+    ==
+    - To desist from, to cease, to stop;
+    - to detain;
+    - to dwell, to live in;
+    - to endure;
+    - to withstand;
+    - to erect;
+    - after another verb, it is often merely a sign of past time, or that the action has rested;
+    - _(1)ch(a/) ch(u")(6)_
+        [[zaa1 zyu6 揸住]]
+        held it;
+    - _h(i/)t(8) ch(u")(6)_
+        [[hit3 zyu6 歇住]]
+        wait a little;
+    - _(2)shau ch(u")(6) l(o\)(6) (2)hau_
+        [[sau1 zyu6 lou6 hau2 守住路口]],
+        guard the passage;
+    - _ch(u")(6) p(o\)(6)_
+        [[zyu6 bou6 住步]]
+        to stop walking;
+    - _ch(u")(6) (2)shau_
+        [[zyu6 sau2 住手]],
+        hold up work;
+    - _(5)n(i/) ch(u")(6) (1)p(i/)n ch(')(u")(3)_
+        [[nei5 zyu6 bin1 cyu3 你住邊處]]
+        where do you live?
+    - _(2)yan pat(7) ch(u")(6)_
+        [[jan2 bat1 zyu6 忍不住]]
+        I can not bear it.
+    ==
+  ====
+C
+  ==
+  - Williams' "after another verb": Not a sign of past time, nor that action has rested,
+    but rather the continuous aspect, which marks that an action is continuing.
+    See below.
+  ==
+E
+  ====
+  - 【住】 (zyu6):
+    ++
+    1. Marker of the continuous aspect (ongoingness of an action).
+       ==
+       - 着住長褲 (zoek3 zyu6 coeng4 fu3): "Wearing long pants."
+       - 食住先 (sik6 zyu6 sin1): "[Let's be] eating first [before the others arrive]."
+       - 睇住佢 (tai2 zyu6 keoi5): "Watch [over] him."
+       - 我揸住 (ngo5 zaa1 zyu3): "I'm holding [onto it]."
+       ==
+    ++
   ====
 $$
