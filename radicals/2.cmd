@@ -241,6 +241,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $償coeng4
       - $儲cou5
+      - $儲cyu4
       - $儧zaan2
       ==
       </nav>

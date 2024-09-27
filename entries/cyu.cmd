@@ -47,6 +47,7 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $儲4
 - $樞4
 - $滁4
 - $篨4
@@ -55,6 +56,29 @@ $$
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 儲4 | _(4)Ch(')(u")_ [[cyu4]]
+
+$$
+R
+  ⼈ + 15
+U
+  U+5132
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~32* (4)儲]]
+    --
+    [[Reading variation (per 《廣韻》直魚切). **See $儲cyu5 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $儲cou5
+  - $儲cyu5 (TODO)
+  ==
+$$
 
 ### 樞4 | _(4)Ch(')(u")_ [[cyu4]]
 
