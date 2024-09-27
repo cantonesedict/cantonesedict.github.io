@@ -47,11 +47,36 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $滁4
 - $蜍4
 - $除4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 滁4 | _(4)Ch(')(u")_ [[cyu4]]
+
+$$
+R
+  ⽔ + 10
+U
+  U+6EC1
+F
+  ==
+  - [[F1.45 滁]] 水名
+  ==
+W
+  ====
+  - [[Page~32* (1)滁]]
+    --
+    [[Reading variation. **See $滁ceoi4 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $滁ceoi4 (TODO)
+  ==
+$$
 
 ### 蜍4 | _(4)Ch(')(u")_ [[cyu4]]
 
