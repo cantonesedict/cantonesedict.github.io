@@ -940,6 +940,7 @@ $$
 - $著3
 - $蛀3
 - $註3
+- $鑄3
 - $霔3
 - $駐3
 ==
@@ -1131,6 +1132,37 @@ C
     I have not seen 著 used for 註 (or vice versa).
     Kangxi quotes 《毛詩序疏》註者著也,
     but this is an explanation, not an interchanging.
+  ==
+$$
+
+### 鑄3 | _Ch(u")(3)_ [[zyu3]]
+
+$$
+R
+  ⾦ + 14
+U
+  U+9444
+F
+  ==
+  - [[F1.47 鑄]] ::[鎔]鑄::
+  ==
+W
+  ====
+  - [[Page~31* 鑄(3)]]
+    ==
+    - To melt, to fuse metals;
+    - to cast;
+    - _ch(u")(3) (4)ts(')(i/)n_
+        [[zyu3 cin4 鑄錢]],
+        to cast cash;
+    - _ch(u")(3) p(')(a/)u(3)_
+        [[zyu3 paau3 鑄炮]]
+        to make cannon.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 鋊 to 鎔.
   ==
 $$
 
