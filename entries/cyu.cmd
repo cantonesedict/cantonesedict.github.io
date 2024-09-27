@@ -48,6 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $儲4
+- $厨4
 - $廚4
 - $樞4
 - $滁4
@@ -78,6 +79,34 @@ S
   ==
   - $儲cou5
   - $儲cyu5 (TODO)
+  ==
+$$
+
+### 厨4 | _(4)Ch(')(u")_ [[cyu4]]
+
+$$
+R
+  ⼚ + 10
+U
+  U+53A8
+F
+  ==
+  - [[F1.45 ::[厨]::]] ::庖[厨]::
+  ==
+W
+  ====
+  - [[Page~32* (4)廚(4)厨]]
+    --
+    [[Alternative form of 廚, and reading variation. **See $廚ceoi4 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised headword ⿸广⿰豆寸 to 厨.
+  ==
+S
+  ==
+  - $厨ceoi4 (TODO)
   ==
 $$
 

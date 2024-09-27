@@ -797,6 +797,14 @@ For all radicals, see [Index of characters by radical](./).
       ==
       </nav>
   //
+    , 10
+    ,
+      <nav class="sideways">
+      ==
+      - $厨cyu4
+      ==
+      </nav>
+  //
     , 12
     ,
       <nav class="sideways">
