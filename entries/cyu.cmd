@@ -47,6 +47,7 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $樞4
 - $滁4
 - $篨4
 - $蜍4
@@ -54,6 +55,28 @@ $$
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 樞4 | _(4)Ch(')(u")_ [[cyu4]]
+
+$$
+R
+  ⽊ + 11
+U
+  U+6A1E
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~32* (4)樞]]
+    --
+    [[Idiosyncratic reading from Fan Wan. **See $樞syu1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $樞syu1 (TODO)
+  ==
+$$
 
 ### 滁4 | _(4)Ch(')(u")_ [[cyu4]]
 
