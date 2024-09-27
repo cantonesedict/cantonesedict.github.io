@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaap
-* %date-modified --> 2024-07-15
+* %date-modified --> 2024-09-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -681,8 +681,8 @@ W
     - _ts(a/)p(9) (4)t(')ong (2)kwo_
         [[zaap6 tong4 gwo2 雜糖果]],
         chowchow sweetmeats;
-    - _(5)'ng (1)fong ts(a/)p(9) (2)ch(')(u")_
-        [[ng5 fong1 zaap6 cyu2 五方雜處]],
+    - _(5)'ng (1)fong ts(a/)p(9) [(5)]ch(')(u")_
+        [[ng5 fong1 zaap6 cyu5 五方雜處]],
         a place where all sorts of people live;
     - _ts(a/)p(9) l(u")n(6)_
         [[zaap6 lyun6 雜亂]]
@@ -704,6 +704,8 @@ W
 C
   ==
   - Williams' "unassorted": An old word for unsorted or miscellaneous.
+  - Williams' 五方雜處: Changed Middle Chinese _(2)ch(')(u")_ (cyu2)
+    to common reading _(5)ch(')(u")_ (cyu5).
   ==
 E
   ====
