@@ -48,10 +48,33 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $処2
 - $處2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 処2 | _(2)Ch(')(u")_ [[cyu2]]
+
+$$
+R
+  ⼏ + 3
+U
+  U+51E6
+F
+  ==
+  - [[F1.46 處]] 止居也又處置
+  - [[F1.46 䖏]] 同上
+  - [[F1.46 処]] 同上
+  ==
+W
+  ====
+  - [[Page~32* (2)處(2)処]]
+    --
+    [[Alternative form of 處. **See $處cyu2 for the canonical entry.**]]
+    --
+  ====
+$$
 
 ### 處2 | _(2)Ch(')(u")_ [[cyu2]]
 

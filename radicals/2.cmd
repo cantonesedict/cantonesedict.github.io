@@ -399,6 +399,23 @@ For all radicals, see [Index of characters by radical](./).
 ## ⼏ (table)
 
 <## radical-⼏-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 3
+    ,
+      <nav class="sideways">
+      ==
+      - $処cyu2
+      ==
+      </nav>
+''
+||||
 <## /radical-⼏-characters ##>
 
 
