@@ -48,6 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $滁4
+- $篨4
 - $蜍4
 - $除4
 ==
@@ -67,7 +68,7 @@ F
   ==
 W
   ====
-  - [[Page~32* (1)滁]]
+  - [[Page~32* (4)滁]]
     --
     [[Reading variation. **See $滁ceoi4 for the canonical entry.**]]
     --
@@ -75,6 +76,30 @@ W
 S
   ==
   - $滁ceoi4 (TODO)
+  ==
+$$
+
+### 篨4 | _(4)Ch(')(u")_ [[cyu4]]
+
+$$
+R
+  ⽵ + 10
+U
+  U+7BE8
+F
+  ==
+  - [[F1.45 篨]] 籧篨醜疾也
+  ==
+W
+  ====
+  - [[Page~32* (4)篨]]
+    --
+    [[Reading variation. **See $篨ceoi4 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $篨ceoi4 (TODO)
   ==
 $$
 
@@ -89,7 +114,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~32* (1)蜍]]
+  - [[Page~32* (4)蜍]]
     --
     [[Reading variation. **See $蜍ceoi4 for the canonical entry.**]]
     --
@@ -114,7 +139,7 @@ F
   ==
 W
   ====
-  - [[Page~32* (1)除]]
+  - [[Page~32* (4)除]]
     --
     [[Reading variation. **See $除ceoi4 for the canonical entry.**]]
     --

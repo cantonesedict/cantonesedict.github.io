@@ -130,6 +130,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $篘cau1
       - $篪ci4
+      - $篨cyu4
       ==
       </nav>
   //
