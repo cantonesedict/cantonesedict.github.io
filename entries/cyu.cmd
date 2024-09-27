@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [cyu2](#2)
 - [cyu4](#4)
 ==
 </nav>
@@ -38,6 +39,109 @@ WP
 MP
   ==
   - cyu = [tsʰyː], [tɕʰyː] ((preferred))
+  ==
+$$
+
+
+##{#2 .williams} (2)Ch(')(u") [[cyu2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $處2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 處2 | _(2)Ch(')(u")_ [[cyu2]]
+
+$$
+R
+  ⾌ + 5
+U
+  U+8655
+A
+  ==
+  - $処2
+  -{.modern} 䖏
+  ==
+V
+  ==
+  - cyu5 (common in certain usages)
+  ==
+F
+  ==
+  - [[F1.46 處]] 止居也又處置
+  - [[F1.46 䖏]] 同上
+  - [[F1.46 処]] 同上
+  ==
+W
+  ====
+  - [[Page~32* (2)處(2)処]]
+    ==
+    - To dwell, to reside;
+    - to be, to act, to occupy the place of;
+    - while in;
+    - to distinguish, to manage, to judge, to decide on,
+      to attend to, to do what is proper;
+    - to place;
+    - _[(5)]ch(')(u") (2)tsz'_
+        [[cyu5 zi2 處子]]
+        a young lady;
+    - _(2)ch(')(u") ch(i/)(6) (1)t(')(a/)_
+        [[cyu2 zi6 taa1 處治他]],
+        do it for him, settle him, fix him;
+    - _(1)s(e/)ung [(5)]ch(')(u")_
+        [[soeng1 cyu5 相處]],
+        familiar, friendly;
+    - _[(5)]ch(')(u") (1)kwan (4)shan_
+        [[cyu5 gwan1 san4 處君臣]],
+        to be an officer;
+    - _(4)n(a/)n (2)ch(')(u")_
+        [[naan4 cyu2 難處]],
+        not easy to judge;
+    - _(2)ch(')(u") [k(')(u")t](8)_
+        [[cyu2 kyut3 處決]]
+        execute him;
+    - _[(5)]ch(')(u") (1)f(u/) (5)f(u/)_
+        [[cyu5 fu1 fu5 處夫婦]]^
+        when married.
+    ==
+  ====
+C
+  ====
+  - I have changed _(2)ch(')(u")_ (cyu2)
+    to the common reading _(5)ch(')(u")_ (cyu5) when it seems appropriate
+    (although I am not aware of any logic that can be used
+    to determine when this is the case).
+    From past experience:
+    ==
+    - The classical reading _(2)ch(')(u")_ (cyu2) seems mandatory in the following:
+        處決.
+    - The common reading _(5)ch(')(u")_ (cyu5) seems preferred in the following:
+        共處,
+        判處,
+        懲處,
+        獨處,
+        處分,
+        處境,
+        處女,
+        處斬,
+        處方,
+        處死,
+        處罰.
+    - Either reading seems acceptable in the following:
+        處世,
+        處事,
+        處理.
+    ==
+  - Williams' 處決: Changed Middle Chinese _k(u")t(8)_ (gyut3)
+    to common reading _k(')(u")t(8)_ (kyut3).
+  ====
+S
+  ==
+  - $處cyu3 (TODO)
+  - $處cyu5 (TODO)
   ==
 $$
 
