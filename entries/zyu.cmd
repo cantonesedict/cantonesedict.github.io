@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2024-09-26
+* %date-modified --> 2024-09-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -940,6 +940,7 @@ $$
 - $著3
 - $蛀3
 - $註3
+- $駐3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -1130,4 +1131,36 @@ C
     Kangxi quotes 《毛詩序疏》註者著也,
     but this is an explanation, not an interchanging.
   ==
+$$
+
+### 駐3 | _Ch(u")(3)_ [[zyu3]]
+
+$$
+R
+  ⾺ + 5
+U
+  U+99D0
+F
+  ==
+  - [[F1.47 駐]] 馬止也
+  ==
+W
+  ====
+  - [[Page~31* 駐(3)]]
+    ==
+    - To stop a horse;
+    - to rest, to tarry, to sojourn;
+    - a stopping-place;
+    - _ch(u")(3) tsuk(7)_
+        [[zyu3 zuk1 駐足]]
+        to lodge, to put up at;
+    - _ch(u")(3) ch(a/)p(8)_
+        [[zyu3 zaap3 駐劄]]
+        to board at;
+        stationed at, appointed to a post;
+    - _ch(u")(3) (5)m(a/)_
+        [[zyu3 maa5 駐馬]],
+        to tarry a while at.
+    ==
+  ====
 $$
