@@ -1229,6 +1229,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $住6
+- $筯6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -1296,5 +1297,26 @@ E
        - 我揸住 (ngo5 zaa1 zyu3): "I'm holding [onto it]."
        ==
     ++
+  ====
+$$
+
+### 筯6 | _Ch(u")(6)_ [[zyu6]]
+
+$$
+R
+  ⽵ + 7
+U
+  U+7B6F
+F
+  ==
+  - [[F1.49 筯]] 快子
+  - [[F1.49 箸]] 同上
+  ==
+W
+  ====
+  - [[Page~31* 筯(6)箸(6)]]
+    --
+    [[Alternative form of 箸. **See $箸zyu6 for the canonical entry.**]]
+    --
   ====
 $$
