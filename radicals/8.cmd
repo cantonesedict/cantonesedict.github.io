@@ -342,6 +342,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $除cyu4
       - $陣zan6
       - $陟zik1
       ==

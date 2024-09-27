@@ -48,6 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $蜍4
+- $除4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -72,5 +73,29 @@ S
   ==
   - $蜍ceoi4 (TODO)
   - $蜍syu4 (TODO)
+  ==
+$$
+
+### 除4 | _(4)Ch(')(u")_ [[cyu4]]
+
+$$
+R
+  ⾩ + 7
+U
+  U+9664
+F
+  ==
+  - [[F1.45 除]] 消除
+  ==
+W
+  ====
+  - [[Page~32* (1)除]]
+    --
+    [[Reading variation. **See $除ceoi4 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $除ceoi4 (TODO)
   ==
 $$
