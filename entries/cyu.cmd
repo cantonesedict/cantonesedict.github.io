@@ -450,6 +450,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $佇5
+- $竚5
 ==
 </nav>
 <## /tone-5-characters ##>
@@ -461,6 +462,10 @@ R
   ⼈ + 5
 U
   U+4F47
+A
+  ==
+  - $竚5
+  ==
 F
   ==
   - [[F1.47 佇]] 立也
@@ -479,5 +484,26 @@ W
         [[cyu5 mong6 佇望]]
         to be hoping, expecting.
     ==
+  ====
+$$
+
+### 竚5 | _(5)Ch(')(u")_ [[cyu5]]
+
+$$
+R
+  ⽴ + 5
+U
+  U+7ADA
+F
+  ==
+  - [[F1.47 佇]] 立也
+  - [[F1.47 竚]] 久立又企也
+  ==
+W
+  ====
+  - [[Page~32* (5)佇(5)竚]]
+    --
+    [[Alternative form of 佇. **See $佇cyu5 for the canonical entry.**]]
+    --
   ====
 $$
