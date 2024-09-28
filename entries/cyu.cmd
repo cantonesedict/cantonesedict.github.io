@@ -452,6 +452,7 @@ $$
 - $佇5
 - $宁5
 - $竚5
+- $紵5
 ==
 </nav>
 <## /tone-5-characters ##>
@@ -528,4 +529,35 @@ W
     [[Alternative form of 佇. **See $佇cyu5 for the canonical entry.**]]
     --
   ====
+$$
+
+### 紵5 | _(5)Ch(')(u")_ [[cyu5]]
+
+$$
+R
+  ⽷ + 5
+U
+  U+7D35
+F
+  ==
+  - [[F1.47 紵]] ::[絲]屬::
+  ==
+W
+  ====
+  - [[Page~32* (5)紵]]
+    --
+    Contracted to ⿰糸⿳宀一　,
+    unless it is used for the private name of Hienfung [[咸豐]].
+    --
+    ==
+    - A coarse kind of hemp;
+    - a coarse covering.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised 𮈔 (⿰糸系) to 絲.
+  - Williams' "Contracted to ⿰糸⿳宀一　":
+    Probably a mistake. The personal name of 咸豐 is 奕詝, not 奕紵.
+  ==
 $$
