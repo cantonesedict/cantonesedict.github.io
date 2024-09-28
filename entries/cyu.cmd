@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyu
-* %date-modified --> 2024-09-27
+* %date-modified --> 2024-09-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [cyu2](#2)
 - [cyu4](#4)
+- [cyu5](#5)
 ==
 </nav>
 <## /tones ##>
@@ -440,4 +441,43 @@ S
   ==
   - $除ceoi4 (TODO)
   ==
+$$
+
+
+##{#5 .williams} (5)Ch(')(u") [[cyu5 陽上]]
+
+<## tone-5-characters ##>
+<nav class="sideways">
+=={.modern}
+- $佇5
+==
+</nav>
+<## /tone-5-characters ##>
+
+### 佇5 | _(5)Ch(')(u")_ [[cyu5]]
+
+$$
+R
+  ⼈ + 5
+U
+  U+4F47
+F
+  ==
+  - [[F1.47 佇]] 立也
+  - [[F1.47 竚]] 久立又企也
+  ==
+W
+  ====
+  - [[Page~32* (5)佇(5)竚]]
+    ==
+    - To stand a long time;
+    - to wait, to look for;
+    - _(5)ch(')(u") lap(9)_
+        [[cyu5 lap6 佇立]]
+        to stand up;
+    - _(5)ch(')(u") mong(6)_
+        [[cyu5 mong6 佇望]]
+        to be hoping, expecting.
+    ==
+  ====
 $$
