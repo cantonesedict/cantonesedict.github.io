@@ -450,6 +450,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $佇5
+- $宁5
 - $竚5
 ==
 </nav>
@@ -483,6 +484,27 @@ W
     - _(5)ch(')(u") mong(6)_
         [[cyu5 mong6 佇望]]
         to be hoping, expecting.
+    ==
+  ====
+$$
+
+### 宁5 | _(5)Ch(')(u")_ [[cyu5]]
+
+$$
+R
+  ⼧ + 2
+U
+  U+5B81
+F
+  ==
+  - [[F1.47 宁]] 門屏之間曰宁
+  ==
+W
+  ====
+  - [[Page~32* (5)宁]]
+    ==
+    - A porch, a space between the gate and the screen;
+    - to accumulate.
     ==
   ====
 $$
