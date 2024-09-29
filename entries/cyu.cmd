@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyu
-* %date-modified --> 2024-09-28
+* %date-modified --> 2024-09-29
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -453,6 +453,7 @@ $$
 - $宁5
 - $竚5
 - $紵5
+- $羜5
 ==
 </nav>
 <## /tone-5-characters ##>
@@ -560,4 +561,27 @@ C
   - Williams' "Contracted to ⿰糸⿳宀一　":
     Probably a mistake. The personal name of 咸豐 is 奕詝, not 奕紵.
   ==
+$$
+
+### 羜5 | _(5)Ch(')(u")_ [[cyu5]]
+
+$$
+R
+  ⽺ + 5
+U
+  U+7F9C
+F
+  ==
+  - [[F1.47 羜]] 未成羊也
+  ==
+W
+  ====
+  - [[Page~32* (5)羜]]
+    ==
+    - A lamb five months old;
+    - _(4)f(i/) (5)ch(')(u")_
+        [[fei4 cyu5 肥羜]],
+        a fat lamb.
+    ==
+  ====
 $$
