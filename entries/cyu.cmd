@@ -477,6 +477,7 @@ $$
 - $佇5
 - $宁5
 - $杼5
+- $柱5
 - $楮5
 - $竚5
 - $紵5
@@ -566,6 +567,44 @@ W
 C
   ==
   - Fan Wan entry: Corrected 袖 to 柚 and corrected 𢴰 (⿰扌幾) to 機.
+  ==
+$$
+
+### 柱5 | _(5)Ch(')(u")_ [[cyu5]]
+
+$$
+R
+  ⽊ + 5
+U
+  U+67F1
+F
+  ==
+  - [[F1.47 柱]] 屋之棟也
+  ==
+W
+  ====
+  - [[Page~33* (5)柱]]
+    ==
+    - A post, a pillar, an upright support, a joist;
+    - a main dependance, a statesman;
+    - to support, to uphold;
+    - _kwok(8) (5)ch(')(u")_
+        [[gwok3 cyu5 國柱]],
+        a high officer;
+    - _(4)k(')ing (1)t(')(i/)n (5)ch(')(u")_
+        [[king4 tin1 cyu5 擎天柱]],
+        an atlas of the state;
+    - _(5)ch(')(u") [(2)]tan_
+        [[cyu5 dan2 柱墩]],
+        the pedestal;
+    - _(4)l(e/)ung (5)ch(')(u")_
+        [[loeng4 cyu5 梁柱]],
+        beams and columns, _met._ statesmen.
+    ==
+  ====
+C
+  ==
+  - Williams' 柱墩: Changed _(1)tan_ (dan1) to _(2)tan_ (dan2).
   ==
 $$
 
