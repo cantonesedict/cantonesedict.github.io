@@ -455,6 +455,7 @@ $$
 - $紵5
 - $羜5
 - $苧5
+- $貯5
 ==
 </nav>
 <## /tone-5-characters ##>
@@ -609,6 +610,41 @@ W
     - _(5)ch(')(u") (1)kan_
         [[cyu5 gan1 苧根]],
         its roots.
+    ==
+  ====
+$$
+
+### 貯5 | _(5)Ch(')(u")_ [[cyu5]]
+
+$$
+R
+  ⾙ + 5
+U
+  U+8CAF
+V
+  ==
+  - zyu2 (per 《廣韻》丁吕切)
+  ==
+F
+  ==
+  - [[F1.47 貯]] 積貯
+  ==
+W
+  ====
+  - [[Page~33* (5)貯]]
+    ==
+    - To hoard, to store up, to lay by in safety;
+    - a hoard, a treasure;
+    - _(5)ch(')(u") tsik(7)_
+        [[cyu5 zik1 貯積]]
+        to accumulate;
+    - _(5)ch(')(u") tun(6)_
+        [[cyu5 deon6 貯頓]]
+        to store up goods;
+    - _(4)ts(')(u")n (5)ch(')(u")_ [[cyun4 cyu5 存貯]]^
+        or
+      _(5)ch(')(u") (4)m(a/)i_ [[cyu5 maai4 貯埋]],
+        to lay by.
     ==
   ====
 $$
