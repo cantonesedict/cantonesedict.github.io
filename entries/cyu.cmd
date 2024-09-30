@@ -451,6 +451,7 @@ $$
 =={.modern}
 - $佇5
 - $宁5
+- $楮5
 - $竚5
 - $紵5
 - $羜5
@@ -509,6 +510,41 @@ W
     ==
     - A porch, a space between the gate and the screen;
     - to accumulate.
+    ==
+  ====
+$$
+
+### 楮5 | _(5)Ch(')(u")_ [[cyu5]]
+
+$$
+R
+  ⽊ + 8
+U
+  U+696E
+H
+  May appear with 者 dotless (+8 assumed here) or dotted (+9),
+  depending on the font.
+V
+  ==
+  - cyu2 (per 《廣韻》丑吕切)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~33* (5)楮]]
+    ==
+    - A mulberry _(Broussonetia papyfera)_
+      from whose bark paper and cloth can be made;
+    - _(5)ch(')(u") pai(6)_
+        [[cyu5 bai6 楮幣]]
+        paper money, a note;
+    - _(5)ch(')(u") (4)(i/)_
+        [[cyu5 ji4 楮儀]],
+        money given to defray funerals;
+    - _(5)ch(')(u") (4)ts(')(i/)n_
+        [[cyu5 cin4 楮錢]],
+        fancy paper burned in worship.
     ==
   ====
 $$
