@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $処2
+- $楮2
 - $處2
 ==
 </nav>
@@ -75,6 +76,30 @@ W
     [[Alternative form of 處. **See $處cyu2 for the canonical entry.**]]
     --
   ====
+$$
+
+###+ 楮2 | _(2)Ch(')(u")_ (cyu2)
+
+$$
+R
+  ⽊ + 8
+U
+  U+696E
+H
+  May appear with 者 dotless (+8 assumed here) or dotted (+9),
+  depending on the font.
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation (per 《廣韻》丑吕切). **See $楮cyu5 for the canonical entry.**
+  ==
+S
+  ==
+  - $楮cyu5
+  ==
 $$
 
 ### 處2 | _(2)Ch(')(u")_ [[cyu2]]
@@ -547,6 +572,10 @@ W
         fancy paper burned in worship.
     ==
   ====
+S
+  ==
+  - $楮cyu2
+  ==
 $$
 
 ### 竚5 | _(5)Ch(')(u")_ [[cyu5]]

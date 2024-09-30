@@ -1031,6 +1031,7 @@ For all radicals, see [Index of characters by radical](./).
       - $棹zaau6
       - $棹zoek3
       - $棌coi2
+      - $楮cyu2
       - $楮cyu5
       - $棧zaan2
       - $棧zaan6
