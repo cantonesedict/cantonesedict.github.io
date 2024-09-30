@@ -362,6 +362,7 @@ For all radicals, see [Index of characters by radical](./).
       - $抽cau1
       - $抯ce2
       - $拄cyu5
+      - $拄zyu2
       - $拃zaa6
       - $拓zek3
       - $招ziu1

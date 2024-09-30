@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2024-09-27
+* %date-modified --> 2024-09-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -718,6 +718,7 @@ $$
 =={.modern}
 - $丶2
 - $主2
+- $拄2
 - $渚2
 - $煮2
 - $翥2
@@ -847,6 +848,33 @@ W
 C
   ==
   - Williams' 主宰: Corrected _(2)ts(')oi_ (coi2) to _(2)tsoi_ (zoi2).
+  ==
+$$
+
+###+ 拄2 | _(2)Ch(u")_ (zyu2)
+
+$$
+R
+  ⼿ + 5
+U
+  U+62C4
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~33* (5)拄 _(5)Ch(')(u")_ (cyu5); here corrected to _(2)Ch(u")_ (zyu2)]]
+    --
+    [[...]]
+    --
+    ==
+    - A prop, a post to shore up;
+    - to pierce;
+    - to stick, to point at.
+    ==
+  ====
+S
+  ==
+  - $拄cyu5
   ==
 $$
 
