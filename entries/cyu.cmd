@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyu
-* %date-modified --> 2024-09-29
+* %date-modified --> 2024-09-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -454,6 +454,7 @@ $$
 - $竚5
 - $紵5
 - $羜5
+- $苧5
 ==
 </nav>
 <## /tone-5-characters ##>
@@ -582,6 +583,32 @@ W
     - _(4)f(i/) (5)ch(')(u")_
         [[fei4 cyu5 肥羜]],
         a fat lamb.
+    ==
+  ====
+$$
+
+### 苧5 | _(5)Ch(')(u")_ [[cyu5]]
+
+$$
+R
+  ⾋ + 5
+U
+  U+82E7
+F
+  ==
+  - [[F1.47 苧]] 苧麻
+  ==
+W
+  ====
+  - [[Page~33* (5)苧]]
+    ==
+    - A plant _(Bœhmeria tenacissima)_ grown for its fibres;
+    - _(5)ch(')(u") (4)m(a/)_
+        [[cyu5 maa4 苧麻]],
+        the grasscloth nettle;
+    - _(5)ch(')(u") (1)kan_
+        [[cyu5 gan1 苧根]],
+        its roots.
     ==
   ====
 $$
