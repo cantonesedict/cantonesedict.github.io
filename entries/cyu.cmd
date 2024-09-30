@@ -476,6 +476,7 @@ $$
 =={.modern}
 - $佇5
 - $宁5
+- $杼5
 - $楮5
 - $竚5
 - $紵5
@@ -537,6 +538,35 @@ W
     - to accumulate.
     ==
   ====
+$$
+
+### 杼5 | _(5)Ch(')(u")_ [[cyu5]]
+
+$$
+R
+  ⽊ + 4
+U
+  U+677C
+F
+  ==
+  - [[F1.47 杼]] ::杼[柚機]之緯也::
+  ==
+W
+  ====
+  - [[Page~33* (5)杼]]
+    ==
+    - A shuttle;
+    - thin, as a wheel;
+    - a fruit like a chestnut;
+    - _(5)m(u/)n (5)ch(')(u") (1)king (4)lun_
+        [[mun5 cyu5 ging1 leon4 滿杼經綸]],
+        learned as a full shuttle.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 袖 to 柚 and corrected 𢴰 (⿰扌幾) to 機.
+  ==
 $$
 
 ### 楮5 | _(5)Ch(')(u")_ [[cyu5]]
