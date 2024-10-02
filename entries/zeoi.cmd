@@ -55,6 +55,7 @@ $$
 =={.modern}
 - $追1
 - $錐1
+- $騅1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -153,6 +154,29 @@ W
     - _(4)p(')an (4)m(o\) lap(9) (1)chui (1)ch(i/) t(i/)(6)_
         [[pan4 mou4 lap6 zeoi1 zi1 dei6 貧無立錐之地]]
         miserably poor, not a place to stick an awl.
+    ==
+  ====
+$$
+
+### 騅1 | _(1)Chui_ [[zeoi1]]
+
+$$
+R
+  ⾺ + 8
+U
+  U+9A05
+F
+  ==
+  - [[F2.55 騅]] 馬之蒼黑者
+  ==
+W
+  ====
+  - [[Page~33* (1)騅]]
+    ==
+    - A black horse with white spots;
+    - _(1)(u/) (1)chui (5)m(a/)_
+        [[wu1 zeoi1 maa5 烏騅馬]],
+        the charger of H(a/)ng Y(u/) [[項羽]] of Tso [[楚]].
     ==
   ====
 $$
