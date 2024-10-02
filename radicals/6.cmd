@@ -1141,6 +1141,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $處cyu2
+      - $處cyu3
       - $處cyu5
       ==
       </nav>

@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [cyu2](#2)
+- [cyu3](#3)
 - [cyu4](#4)
 - [cyu5](#5)
 ==
@@ -190,7 +191,85 @@ C
   ====
 S
   ==
-  - $處cyu3 (TODO)
+  - $處cyu3
+  - $處cyu5
+  ==
+$$
+
+
+##{#3 .williams} Ch(')(u")(3) [[cyu3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $處3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 處3 | _Ch(')(u")(3)_ [[cyu3]]
+
+$$
+R
+  ⾌ + 5
+U
+  U+8655
+V
+  ==
+  - syu3 (vernacular for "place" sense)
+  ==
+F
+  ==
+  - [[F1.48 處]] 處所
+  ==
+W
+  ====
+  - [[Page~33* 處(3)]]
+    ==
+    - A place, a spot;
+    - a circumstance, a condition;
+    - added to nouns, it often forms the concrete,
+      as _ching(3) k(i/)n(3) (1)t(')(a/) (4)ling ch(')(u")(3)_
+        [[zing3 gin3 taa1 ling4 cyu3 正見它靈處]]
+        we now see its spirituality;
+    - _p(i/)t(9) ch(')(u")(3)_
+        [[bit6 cyu3 別處]]
+        elsewhere;
+    - _ch(')(u")(3) ch(')(u")(3)_
+        [[cyu3 cyu3 處處]]
+        everywhere;
+    - _[(2)]ko ch(')(u")(3)_
+        [[go2 cyu3 嗰處]]
+        there;
+    - _(1)p(i/)n ch(')(u")(3)_
+        [[bin1 cyu3 邊處]]
+        where?
+    - _(2)t(u")n ch(')(u")(3)_
+        [[dyun2 cyu3 短處]]
+        a failing;
+    - _(2)h(o\) ch(')(u")(3)_
+        [[hou2 cyu3 好處]]
+        well off.
+    ==
+  ====
+C
+  ==
+  - Williams' 嗰處: Corrected _ko(3)_ (go3) to _(2)ko_ (go2).
+  ==
+E
+  ====
+  - 【處】 (cyu3, syu3):
+    ++
+    1. Here.
+       ==
+       - 佢響處 (keoi5 hoeng2 cyu3): "He is here."
+       - 唔喺處 (m4 hai2 syu3): "[It] isn't here."
+       ==
+    ++
+  ====
+S
+  ==
+  - $處cyu2
   - $處cyu5
   ==
 $$
@@ -828,7 +907,7 @@ C
 S
   ==
   - $處cyu2
-  - $處cyu3 (TODO)
+  - $處cyu3
   ==
 $$
 
