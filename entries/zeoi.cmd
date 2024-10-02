@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [zeoi1](#1)
 ==
 </nav>
 <## /tones ##>
@@ -43,5 +44,78 @@ WP
 MP
   ==
   - zeoi = [tsɵy], [tɕɵy] ((preferred))
+  ==
+$$
+
+
+##{#1 .williams} (1)Chui (1)Ts(u") [[zeoi1 陰平]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $追1
+==
+</nav>
+<## /tone-1-characters ##>
+
+### 追1 | _(1)Chui_ [[zeoi1]]
+
+$$
+R
+  ⾡ + 6
+U
+  U+8FFD
+F
+  ==
+  - [[F2.55 追]] 追述追隨又追也
+  ==
+W
+  ====
+  - [[Page~33* (1)追]]
+    ==
+    - To pursue, to follow after;
+    - to come up with, to overtake, to catch;
+    - to sue;
+    - to seek out, to trace back;
+    - to reflect on, to look back on, retrospective;
+    - to expel;
+    - _(1)chui (2)kon_
+        [[zeoi1 gon2 追趕]],
+        to chase;
+    - _(1)chui t(o\)(3)_
+        [[zeoi2 dou3-2 追到]]
+        to catch, to reach;
+    - _(1)chui f(u/)i(3)_
+        [[zeoi1 fui3 追悔]]
+        to feel remorse;
+    - _(1)chui h(u")(3)_
+        [[zeoi1 heoi3 追去]]
+        to drive out;
+    - _(1)chui kau(3)_
+        [[zeoi1 gau3 追究]]
+        to investigate thoroughly;
+    - _(4)ngan pat(7) (1)chui (4)(u/)i_
+        [[ngan4 bat1 zeoi1 wui4 銀不追回]],
+        the money cannot be refunded;
+    - _(1)chui (5)k(')(u") (1)f(a/)n (4)lai_
+        [[zeoi1 keoi5 faan1 lai4 追佢返嚟]],
+        hurry him back here;
+    - _(1)chui (4)'m (5)sh(e/)ung lok(8)_
+        [[zeoi1 m4 soeng5 lok3 追唔上佢]]
+        could not catch him;
+    - _(1)chui (2)t(')(o\)_
+        [[zeoi1 tou2 追討]],
+        to dun;
+    - _(1)chui (1)fung_
+        [[zeoi1 fung1 追封]],
+        posthumous honors;
+    - _(1)chui n(i/)m(6)_
+        [[zeoi1 nim6 追念]]
+        to recollect.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: 追也 is self-referential.
   ==
 $$
