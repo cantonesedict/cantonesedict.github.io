@@ -189,6 +189,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $墜6
+- $縋6
 - $隊6
 ==
 </nav>
@@ -230,6 +231,33 @@ W
     - _chui(6) lok(9) (1)t(')oi_
         [[zeoi6 lok6 toi1 墜落胎]],
         a falling womb, an abortion.
+    ==
+  ====
+$$
+
+### 縋6 | _Chui(6)_ [[zeoi6]]
+
+$$
+R
+  ⽷ + 10
+U
+  U+7E0B
+F
+  ==
+  - [[F2.57 縋]] 以繩懸物而垂下曰縋
+  ==
+W
+  ====
+  - [[Page~33* 縋(6)]]
+    ==
+    - A rope;
+    - to let down by a cord;
+    - _chui(6) lok(9)_
+        [[zeoi6 lok6 縋落]]
+        to let down, as into a well, or over a wall;
+    - _chui(6) (4)(u")n_
+        [[zeoi6 jyun4 縋鉛]],
+        lead put in sycee.
     ==
   ====
 $$
