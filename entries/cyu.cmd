@@ -36,6 +36,10 @@ MP
   ==
   - cyu = [tsʰyː], [tɕʰyː] ((preferred))
   ==
+S
+  ==
+  - $ceoi
+  ==
 $$
 
 
