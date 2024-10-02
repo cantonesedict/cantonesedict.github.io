@@ -344,6 +344,7 @@ For all radicals, see [Index of characters by radical](./).
       - $綵coi2
       - $綻zaan6
       - $緅zau1
+      - $綴zeoi3
       - $綴zeoi6
       - $緇zi1
       ==

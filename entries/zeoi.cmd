@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zeoi1](#1)
+- [zeoi3](#3)
 - [zeoi6](#6)
 ==
 </nav>
@@ -183,6 +184,53 @@ W
 $$
 
 
+##{#3 .williams} <ins class="modern">Chui(3)</ins> Tsui(3) [[zeoi3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $綴3
+==
+</nav>
+<## /tone-3-characters ##>
+
+###+ 綴3 | _Chui(3)_ (zeoi3)
+
+$$
+R
+  ⽷ + 8
+U
+  U+7DB4
+V
+  ==
+  - zeoi6 (Fan Wan, common)
+  - zyut3 (common in 點綴)
+  - zyut6 (common in 點綴)
+  ==
+F
+  ==
+  - [[F2.57 綴 _Chui(6)_]] 冠系又聯也
+  ==
+W
+  ====
+  - [[Page~34* 綴(6) _Chui(6)_ (zeoi6); here normalised to _Chui(3)_ (zeoi3)]]
+    ==
+    - Connected;
+    - to carry on;
+    - to sew together;
+    - mixed, variegated;
+    - to oversee royal robes.
+    ==
+  ====
+S
+  ==
+  - $綴zeoi6
+  - $綴zyut3 (TODO)
+  - $綴zyut6 (TODO)
+  ==
+$$
+
+
 ##{#6 .williams} Chui(6) Ts(u")(6) Ts(u/)i(6) [[zeoi6 陽去]]
 
 <## tone-6-characters ##>
@@ -257,7 +305,7 @@ W
   ====
 S
   ==
-  - $綴zeoi3 (TODO)
+  - $綴zeoi3
   - $綴zyut3 (TODO)
   - $綴zyut6 (TODO)
   ==
