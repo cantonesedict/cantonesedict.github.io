@@ -189,6 +189,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $墜6
+- $隊6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -200,6 +201,10 @@ R
   ⼟ + 12
 U
   U+589C
+A
+  ==
+  - $隊6
+  ==
 F
   ==
   - [[F2.57 墜]] 落也
@@ -227,4 +232,29 @@ W
         a falling womb, an abortion.
     ==
   ====
+$$
+
+### 隊6 | _Chui(6)_ [[zeoi6]]
+
+$$
+R
+  ⾩ + 9
+U
+  U+968A
+F
+  ==
+  - [[F2.57 墜]] 落也
+  - [[F2.57 隊]] 同上
+  ==
+W
+  ====
+  - [[Page~33* 墜(6)隊(6)]]
+    --
+    [[Alternative form of 墜. **See $墜zeoi6 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $隊deoi6 (TODO)
+  ==
 $$
