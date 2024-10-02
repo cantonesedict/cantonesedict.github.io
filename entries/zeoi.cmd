@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zeoi1](#1)
+- [zeoi6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -177,6 +178,53 @@ W
     - _(1)(u/) (1)chui (5)m(a/)_
         [[wu1 zeoi1 maa5 烏騅馬]],
         the charger of H(a/)ng Y(u/) [[項羽]] of Tso [[楚]].
+    ==
+  ====
+$$
+
+
+##{#6 .williams} Chui(6) Ts(u")(6) Ts(u/)i(6) [[zeoi6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $墜6
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 墜6 | _Chui(6)_ [[zeoi6]]
+
+$$
+R
+  ⼟ + 12
+U
+  U+589C
+F
+  ==
+  - [[F2.57 墜]] 落也
+  - [[F2.57 隊]] 同上
+  ==
+W
+  ====
+  - [[Page~33* 墜(6)隊(6)]]
+    ==
+    - To fall, to tumble over;
+    - to slide;
+    - to fall down;
+    - to pull on;
+    - _chui(6) (1)tai_
+        [[zeoi6 dai1 墜低]],
+        pull it down;
+    - _lui(6) chui(6)_
+        [[leoi6 zeoi6 累墜]]
+        troublesome, requiring constant oversight;
+    - _chui(6) lok(9)_
+        [[zeoi6 lok6 墜落]]
+        to fall in ruins, to throw over;
+    - _chui(6) lok(9) (1)t(')oi_
+        [[zeoi6 lok6 toi1 墜落胎]],
+        a falling womb, an abortion.
     ==
   ====
 $$
