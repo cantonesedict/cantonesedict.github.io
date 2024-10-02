@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyu
-* %date-modified --> 2024-09-30
+* %date-modified --> 2024-10-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -477,6 +477,7 @@ $$
 - $佇5
 - $宁5
 - $拄5
+- $杵5
 - $杼5
 - $柱5
 - $楮5
@@ -564,6 +565,40 @@ W
 S
   ==
   - $拄zyu2
+  ==
+$$
+
+### 杵5 | _(5)Ch(')(u")_ [[cyu5]]
+
+$$
+R
+  ⽊ + 4
+U
+  U+6775
+V
+  ==
+  - cyu2 (per 《廣韻》昌與切)
+  ==
+F
+  ==
+  - [[F1.47 杵]] ::[舂]杵::
+  ==
+W
+  ====
+  - [[Page~33* (5)杵]]
+    ==
+    - A pestle, a beater;
+    - _yat(7) (4)t(')i(u/) (1)chung (5)ch(')(u")_
+        [[jat1 tiu4 zung1 cyu5 一條舂杵]],
+        a single pestle;
+    - _(5)ch(')(u") (5)k(')au_
+        [[cyu5 kau5 杵臼]],
+        mortar and pestle.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 春 to 舂.
   ==
 $$
 
