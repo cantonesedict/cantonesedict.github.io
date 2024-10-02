@@ -191,7 +191,7 @@ C
 S
   ==
   - $處cyu3 (TODO)
-  - $處cyu5 (TODO)
+  - $處cyu5
   ==
 $$
 
@@ -485,6 +485,7 @@ $$
 - $紵5
 - $羜5
 - $苧5
+- $處5
 - $貯5
 ==
 </nav>
@@ -807,6 +808,28 @@ W
         its roots.
     ==
   ====
+$$
+
+###+ 處5 | _(5)Ch(')(u")_ (cyu5)
+
+$$
+R
+  ⾌ + 5
+U
+  U+8655
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation. **See $處cyu2 for the canonical entry.**
+  ==
+S
+  ==
+  - $處cyu2
+  - $處cyu3 (TODO)
+  ==
 $$
 
 ### 貯5 | _(5)Ch(')(u")_ [[cyu5]]
