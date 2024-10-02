@@ -189,6 +189,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $墜6
+- $綴6
 - $縋6
 - $贅6
 - $隊6
@@ -234,6 +235,32 @@ W
         a falling womb, an abortion.
     ==
   ====
+$$
+
+### 綴6 | _Chui(6)_ [[zeoi6]]
+
+$$
+R
+  ⽷ + 8
+U
+  U+7DB4
+F
+  ==
+  - [[F2.57 綴]] 冠系又聯也
+  ==
+W
+  ====
+  - [[Page~34* 綴(6)]]
+    --
+    [[Reading variation. **See $綴zeoi3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $綴zeoi3 (TODO)
+  - $綴zyut3 (TODO)
+  - $綴zyut6 (TODO)
+  ==
 $$
 
 ### 縋6 | _Chui(6)_ [[zeoi6]]
