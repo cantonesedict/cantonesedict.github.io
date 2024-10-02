@@ -54,6 +54,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $追1
+- $錐1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -118,4 +119,40 @@ C
   ==
   - Fan Wan entry: 追也 is self-referential.
   ==
+$$
+
+### 錐1 | _(1)Chui_ [[zeoi1]]
+
+$$
+R
+  ⾦ + 8
+U
+  U+9310
+F
+  ==
+  - [[F2.55 錐]] 鎗劍之屬
+  ==
+W
+  ====
+  - [[Page~33* (1)錐]]
+    ==
+    - An awl, a borer;
+    - a sharp pointed tool;
+    - the apex, the point;
+    - to bore;
+    - trifling;
+    - _(1)chui (1)t(o\) m(u/)t(9)_
+        [[zeoi1 dou1 mut6 錐刀末]]
+        a small matter;
+    - _(4)m(o\) (1)chui_
+        [[mou4 zeoi1 毛錐]],
+        a pencil;
+    - _(1)chui (1)lung_
+        [[zeoi1 lung4-1 錐窿]],
+        to bore a hole;
+    - _(4)p(')an (4)m(o\) lap(9) (1)chui (1)ch(i/) t(i/)(6)_
+        [[pan4 mou4 lap6 zeoi1 zi1 dei6 貧無立錐之地]]
+        miserably poor, not a place to stick an awl.
+    ==
+  ====
 $$
