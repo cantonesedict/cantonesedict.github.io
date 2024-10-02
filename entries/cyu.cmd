@@ -313,7 +313,7 @@ W
 S
   ==
   - $儲cou5
-  - $儲cyu5 (TODO)
+  - $儲cyu5
   ==
 $$
 
@@ -554,6 +554,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $佇5
+- $儲5
 - $宁5
 - $拄5
 - $杵5
@@ -600,6 +601,46 @@ W
         to be hoping, expecting.
     ==
   ====
+$$
+
+###+ 儲5 | _(5)Ch(')(u")_ (cyu5)
+
+$$
+R
+  ⼈ + 15
+U
+  U+5132
+V
+  ==
+  - cyu4 (per 《廣韻》直魚切)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~32* (4)儲 _(4)Ch(')(u")_ (cyu4); here normalised to _(5)Ch(')(u")_ (cyu5)]]
+    ==
+    - To collect;
+    - to provide for need;
+    - furnished;
+    - to assist, to act as second to;
+    - _[(5)]ch(')(u") wai(6)_
+        [[cyu5 wai6 儲位]]
+        an heir-apparent;
+    - _[(5)]ch(')(u") (1)kwan_
+        [[cyu5 gwan1 儲君]],
+        son of a prince.
+    ==
+  ====
+C
+  ==
+  - Williams' 儲君: Not a son of a prince, but an heir to a monarch.
+  ==
+S
+  ==
+  - $儲cou5
+  - $儲cyu4
+  ==
 $$
 
 ### 宁5 | _(5)Ch(')(u")_ [[cyu5]]
