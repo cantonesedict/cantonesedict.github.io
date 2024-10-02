@@ -55,12 +55,38 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $且1
 - $追1
 - $錐1
 - $騅1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 且1 | _(1)Ts(u")_ [[zeoi1]]
+
+$$
+R
+  ⼀ + 4
+U
+  U+4E14
+F
+  ==
+  - [[F1.44 且]] 語詞
+  ==
+W
+  ====
+  - [[Page~594 (1)且]]
+    ==
+    - A phonetic particle, used in the Sh(i/) King [[詩經]]
+      at the end of sentences, as an affirmative.
+    ==
+  ====
+S
+  ==
+  - $且ce2
+  ==
+$$
 
 ### 追1 | _(1)Chui_ [[zeoi1]]
 
