@@ -190,6 +190,7 @@ $$
 =={.modern}
 - $墜6
 - $縋6
+- $贅6
 - $隊6
 ==
 </nav>
@@ -260,6 +261,51 @@ W
         lead put in sycee.
     ==
   ====
+$$
+
+### 贅6 | _Chui(6)_ [[zeoi6]]
+
+$$
+R
+  ⾙ + 11
+U
+  U+8D05
+V
+  ==
+  - zeoi3 (per 《廣韻》之芮切)
+  ==
+F
+  ==
+  - [[F2.57 贅]] ::謂以[物]質錢也又男附女家謂之贅壻::
+  ==
+W
+  ====
+  - [[Page~34* 贅(6)]]
+    ==
+    - To pledge, to pawn;
+    - connected with, hanging to, an excrescence, a useless appendage;
+    - a blemish;
+    - unsuitable;
+    - tautology, verbiage;
+    - a postscript;
+    - _yap(9) chui(6)_
+        [[jap6 zeoi6 入贅]]
+        to live in a wife's family;
+    - _chui(6) lui(6)_
+        [[zeoi6 leoi6 贅累]]
+        reiterated, verbose;
+    - _chui(6) (4)(i/)n_
+        [[zeoi6 jin4 贅言]],
+        to repeat;
+    - _chui(6) k(')ap(9)_
+        [[zeoi6 kap6 贅及]]
+        a postscript.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 𢪱 (⿰扌勿) to 物.
+  ==
 $$
 
 ### 隊6 | _Chui(6)_ [[zeoi6]]
