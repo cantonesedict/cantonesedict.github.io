@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2024-08-27
+* %date-modified --> 2024-10-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -139,8 +139,9 @@ E
     1. Suffixed after a verb to mark negative consequence.
        ==
        - 冷嚫 (laang5 can1): "[I've] caught [a] cold."
-       - 撞嚫 (zong6 can1): "[I've been] bumped into."
+       - 撞嚫 (zong6 can1): "[I've] bumped [something]."
        - 整嚫 (zing2 can1): "[I've] hurt [myself]."
+       - 跌嚫 (dit3 can1): "[I've] had [a] fall."
        ==
     1. Suffixed after a verb to indicate "every time".
        ==
