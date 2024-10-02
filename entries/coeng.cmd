@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2024-09-25
+* %date-modified --> 2024-10-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -436,7 +436,7 @@ W
         [[tin1 coeng1 天窗]],
         a sky-light;
     - _(1)ch(')(e/)ung (4)m(u/)n (5)[ch(')(a/)m]_
-        [[coeng1 mun4 caam5 窗門棖]],
+        [[coeng1 mun4-2 caam5 窗門棖]],
         a window-sill;
     - _(1)sh(u") (1)ch(')(e/)ung_ [[syu1 coeng1 書窗]],
         or
