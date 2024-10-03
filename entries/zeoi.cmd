@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2024-10-02
+* %date-modified --> 2024-10-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -56,6 +56,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $且1
+- $疽1
 - $追1
 - $錐1
 - $騅1
@@ -85,6 +86,41 @@ W
 S
   ==
   - $且ce2
+  ==
+$$
+
+### 疽1 | _(1)Ts(u")_ [[zeoi1]]
+
+$$
+R
+  ⽧ + 5
+U
+  U+75BD
+V
+  ==
+  - ceoi1 (per 《廣韻》七余切)
+  ==
+F
+  ==
+  - [[F1.44 疽]] ::[癰]疽::
+  ==
+W
+  ====
+  - [[Page~594 (1)疽]]
+    ==
+    - A deep-seated ulcer;
+    - a carbuncle or anthrax;
+    - _(1)yung (1)ts(u")_
+        [[jung1 zeoi1 癰疽]],
+        an old ulcer;
+    - _(5)sh(u")n (1)ts(u")_
+        [[syun5 zeoi1 吮疽]],
+        to suck out an ulcer.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿸疒⿰⿱丿邑隹 to 癰.
   ==
 $$
 
