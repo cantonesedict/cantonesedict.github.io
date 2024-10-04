@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2024-08-18
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -163,7 +163,7 @@ W
   ====
   - [[Page~548 (1)穧]]
     --
-    [[Idiosyncratic reading from Fan Wan. **See $穧zai6 for the canonical entry.**]]
+    [[Reading variation. **See $穧zai6 for the canonical entry.**]]
     --
   ====
 S
@@ -174,7 +174,7 @@ $$
 
 ### 賫1 | _(1)Tsai_ [[zai1]]
 
-$$
+$$.
 R
   ⾙ + 8
 U
@@ -195,7 +195,7 @@ $$
 
 ### 賷1 | _(1)Tsai_ [[zai1]]
 
-$$
+$$.
 R
   ⾙ + 10
 U
@@ -244,7 +244,7 @@ $$
 
 ### 隮1 | _(1)Tsai_ [[zai1]]
 
-$$
+$$.
 R
   ⾩ + 14
 U
@@ -567,7 +567,7 @@ $$
 
 ### 懠3 | _Tsai(3)_ [[zai3]]
 
-$$
+$$.
 R
   ⼼ + 14
 U
@@ -696,7 +696,7 @@ $$
 
 ### 晣3 | _Chai(3)_ [[zai3]]
 
-$$
+$$.
 R
   ⽇ + 7
 U
@@ -1102,6 +1102,7 @@ U
   U+7A67
 V
   ==
+  - zai1 (Fan Wan)
   - zai3 (alternative per 《廣韻》子計切)
   ==
 F
@@ -1110,7 +1111,7 @@ F
   ==
 W
   ====
-  - [[Page~548 (1)穧 _(1)Tsai_ (zai1); here corrected to _Tsai(6)_ (zai6)]]
+  - [[Page~548 (1)穧 _(1)Tsai_ (zai1); here normalised to _Tsai(6)_ (zai6)]]
     ==
     - To reap grain;
     - a handful of rice, as it is cut;
