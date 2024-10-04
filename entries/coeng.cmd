@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2024-10-02
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -73,7 +73,7 @@ $$
 
 ### 倡1 | _(1)Ch(')(e/)ung_ [[coeng1]]
 
-$$
+$$.
 R
   ⼈ + 8
 U
@@ -148,7 +148,7 @@ $$
 
 ### [𢃑]1 [[⿰巾昌]] | _(1)Ch(')(e/)ung_ [[coeng1]]
 
-$$
+$$.
 R
   ⼱ + 8
 U
@@ -309,7 +309,7 @@ $$
 
 ### 牕1 | _(1)Ch(')(e/)ung_ [[coeng1]]
 
-$$
+$$.
 R
   ⽚ + 11
 U
@@ -383,7 +383,7 @@ $$
 
 ### 窓1 | _(1)Ch(')(e/)ung_ [[coeng1]]
 
-$$
+$$.
 R
   ⽳ + 6
 U
@@ -468,7 +468,7 @@ $$
 
 ###+ 窻1 | _(1)Ch(')(e/)ung_ (coeng1)
 
-$$
+$$.
 R
   ⽳ + 11
 U
@@ -562,7 +562,7 @@ $$
 
 ### 蹡1 | _(1)Ts(')(e/)ung_ [[coeng1]]
 
-$$
+$$.
 R
   ⾜ + 11
 U
@@ -880,7 +880,7 @@ $$
 
 ###+ 悵3 | _Ch(')(e/)ung(3)_ (coeng3)
 
-$$
+$$.
 R
   ⼼ + 8
 U
@@ -901,7 +901,7 @@ $$
 
 ###+ 昶3 | _Ch(')(e/)ung(3)_ (coeng3)
 
-$$
+$$.
 R
   ⽇ + 5
 U
@@ -1081,7 +1081,7 @@ $$
 
 ### 償4 | _(4)Ch(')(e/)ung_ [[coeng4]]
 
-$$
+$$.
 R
   ⼈ + 15
 U
@@ -1193,7 +1193,7 @@ $$
 
 ### 塲4 | _(4)Ch(')(e/)ung_ [[coeng4]]
 
-$$
+$$.
 R
   ⼟ + 11
 U
@@ -1213,7 +1213,7 @@ $$
 
 ### 墻4 | _(4)Ts(')(e/)ung_ [[coeng4]]
 
-$$
+$$.
 R
   ⼟ + 13
 U
