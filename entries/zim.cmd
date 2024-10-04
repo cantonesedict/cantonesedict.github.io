@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zim
-* %date-modified --> 2024-08-25
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -385,7 +385,7 @@ $$
 
 ### 襜1 | _(1)Ch(i/)m_ [[zim1]]
 
-$$
+$$.
 R
   ⾐ + 13
 U
@@ -503,7 +503,7 @@ $$
 
 ### 䠨1 | _(1)Ch(i/)m_ [[zim1]]
 
-$$
+$$.
 R
   ⾜ + 13
 U
@@ -558,7 +558,7 @@ $$
 
 ### 黏1 | _(1)Ch(i/)m_ [[zim1]]
 
-$$
+$$.
 R
   ⿉ + 5
 U
@@ -604,7 +604,7 @@ $$
 
 ### 佔3 | _Ch(i/)m(3)_ [[zim3]]
 
-$$
+$$.
 R
   ⼈ + 3
 U
