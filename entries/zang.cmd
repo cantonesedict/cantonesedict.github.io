@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2024-07-28
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -742,7 +742,7 @@ $$
 
 ### 蹭3 | _Tsang(3)_ [[zang3]]
 
-$$
+$$.
 R
   ⾜ + 12
 U
@@ -776,7 +776,7 @@ $$
 
 ###+ 甑6 | _Tsang(6)_ (zang6)
 
-$$
+$$.
 R
   ⽡ + 12
 U
