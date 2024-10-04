@@ -677,6 +677,13 @@ E
        - 做廚 (zou6 cyu4-2): "Work [as a] chef."
        - 冇嘢做 (mou5 je5 zou6): "Out of work."
        ==
+    1. (_mahjong_) To try for a hand, especially a hand of a numbered suit.
+       ==
+       - 做牌 (zou6 paai4-2): "Going for [a numbered-suit] hand."
+       - 做大佢 (zou6 daai6 keoi5): "Make it big" (i.e. don't settle for a mediocre hand).
+       - 做索子 (zou6 sok3 zi2): "Going for rods."
+       - 做十三幺 (zou6 sap6 saam1 jiu1): "Going for Thirteen Littles."
+       ==
     ++
   - 【做低】 (zou6 dai1):
     ++
