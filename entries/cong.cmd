@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cong
-* %date-modified --> 2024-09-25
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -112,7 +112,7 @@ $$
 
 ### 刅1 | _(1)Ch(')ong_ [[cong1]]
 
-$$
+$$.
 R
   ⼑ + 2
 U
@@ -403,7 +403,7 @@ $$
 
 ### 鯧1 | _(1)Ts(')ong_ [[cong1]]
 
-$$
+$$.
 R
   ⿂ + 8
 U
@@ -531,7 +531,7 @@ $$
 
 ### 厰2 | _(2)Ch(')ong_ [[cong2]]
 
-$$
+$$.
 R
   ⼚ + 12
 U
@@ -640,7 +640,7 @@ $$
 
 ### 愴2 | _(2)Ch(')ong_ [[cong2]]
 
-$$
+$$.
 R
   ⼼ + 10
 U
@@ -671,7 +671,7 @@ $$
 
 ### 𢠵2 [[⿰忄敞]] | _(2)Ch(')ong_ [[cong2]]
 
-$$
+$$.
 R
   ⼼ + 12
 U
@@ -781,7 +781,7 @@ $$
 
 ### 刱3 | _Ch(')ong(3)_ [[cong3]]
 
-$$
+$$.
 R
   ⼑ + 6
 U
@@ -994,7 +994,7 @@ $$
 
 ### 牀4 | _(4)Ch(')ong_ [[cong4]]
 
-$$
+$$.
 R
   ⽙ + 4
 U
