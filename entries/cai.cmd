@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2024-07-15
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -59,7 +59,7 @@ $$
 
 ### 凄1 | _(1)Ts(')ai_ [[cai1]]
 
-$$
+$$.
 R
   ⼎ + 8
 U
@@ -134,7 +134,7 @@ $$
 
 ### 恓1 | _(1)Ts(')ai_ [[cai1]]
 
-$$
+$$.
 R
   ⼼ + 6
 U
@@ -188,7 +188,7 @@ $$
 
 ### [栖]1 | _(1)Ts(')ai_ [[cai1]]
 
-$$
+$$.
 R
   ⽊ + 8
 U
@@ -618,7 +618,7 @@ $$
 
 ### 泚5 | _(5)Ts(')ai_ [[cai5]]
 
-$$
+$$.
 R
   ⽔ + 6
 U
@@ -631,7 +631,7 @@ W
   ====
   - [[Page~550 (5)泚]]
     --
-    [[Idiosyncratic reading from Fan Wan. **See $泚ci2 for the canonical entry.**]]
+    [[Reading variation. **See $泚ci2 for the canonical entry.**]]
     --
   ====
 S
@@ -663,7 +663,7 @@ $$
 
 ### 鮆5 | _(5)Ts(')ai_ [[cai5]]
 
-$$
+$$.
 R
   ⿂ + 5
 U
