@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zek
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-10-04
 * %copyright-prior-years -->
 
 %%%
@@ -90,7 +90,7 @@ I have corrected Williams by placing 隻, 蹠跖, 炙, and 摭拓 under zek3 her
 
 ### 拓3 | _[Chek(8)]_ [[zek3]]
 
-$$
+$$.
 R
   ⼿ + 5
 U
@@ -131,6 +131,10 @@ U
 A
   ==
   - $拓3
+  ==
+V
+  ==
+  - zik3 (uncommon)
   ==
 F
   ==
@@ -515,7 +519,7 @@ $$
 
 ###+ 席6 | _Tsek(9)_ (zek6)
 
-$$
+$$.
 R
   ⼱ + 7
 U
