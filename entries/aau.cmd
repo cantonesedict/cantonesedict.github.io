@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aau
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -59,6 +59,10 @@ R
   ⼟ + 5
 U
   U+5773
+V
+  ==
+  - ngaau1 (ng prepend)
+  ==
 F
   [[Not present]]
 W
@@ -101,6 +105,10 @@ R
   ⼿ + 5
 U
   U+62D7
+V
+  ==
+  - ngaau2 (ng prepend)
+  ==
 F
   ==
   - [[F2.42 上聲 拗]] 屋狡切以手拉折物
@@ -184,6 +192,7 @@ U
 V
   ==
   - nap1 (vernacular)
+  - ngaau3 (ng prepend)
   ==
 F
   ==
@@ -225,6 +234,7 @@ A
 V
   ==
   - aau1 (per 《廣韻》於交切 for literary "uneven ground" senses)
+  - ngaau3 (ng prepend)
   ==
 F
   ==
@@ -267,6 +277,10 @@ R
   ⼿ + 5
 U
   U+62D7
+V
+  ==
+  - ngaau3 (ng prepend)
+  ==
 F
   ==
   - [[F2.42 去聲 拗]] 偏急不相合也
@@ -294,7 +308,7 @@ W
         whimsical, contrariwise.
     ==
     --
-    [[Alternative form of 詏 "argue". **See $詏aau3 for the canonical entry.**]]
+    [[Otherwise, an alternative form of 詏 "argue". **See $詏aau3 for the canonical entry.**]]
     --
   ====
 C
@@ -325,6 +339,10 @@ U
 A
   ==
   -{.modern} $拗3
+  ==
+V
+  ==
+  - ngaau3 (ng prepend)
   ==
 F
   [[Not present]]
