@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zit
-* %date-modified --> 2024-07-28
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -53,7 +53,7 @@ $$
 
 ### 折1 | _Ch(i/)t(7)_ [[zit1]]
 
-$$
+$$.
 R
   ⼿ + 4
 U
@@ -195,7 +195,7 @@ $$
 
 ### 喆3 | _Ch(i/)t(8)_ [[zit3]]
 
-$$
+$$.
 R
   ⼝ + 9
 U
@@ -555,7 +555,7 @@ $$
 
 ###+ 蟄3 | _Ch(i/)t(8)_ (zit3)
 
-$$
+$$.
 R
   ⾍ + 11
 U
