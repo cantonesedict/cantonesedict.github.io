@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2024-09-17
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -223,7 +223,7 @@ $$
 
 ###+ 砸3 | _Ch(a/)k(8)_ (zaak3)
 
-$$
+$$.
 R
   ⽯ + 5
 U
@@ -240,7 +240,7 @@ $$
 
 ###+ 磧3 | _Ch(a/)k(8)_ (zaak3)
 
-$$
+$$.
 R
   ⽯ + 11
 U
@@ -639,7 +639,7 @@ $$
 
 ### 擢6 | _Ch(a/)k(9)_ [[zaak6]]
 
-$$
+$$.
 R
   ⼿ + 14
 U
@@ -750,7 +750,7 @@ $$
 
 ###+ 矺6 | _Ch(a/)k(9)_ (zaak6)
 
-$$
+$$.
 R
   ⽯ + 3
 U
@@ -860,7 +860,7 @@ $$
 
 ### 讁6 | _Ch(a/)k(9)_ [[zaak6]]
 
-$$
+$$.
 R
   ⾔ + 15
 U
