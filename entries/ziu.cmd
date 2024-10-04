@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2024-07-21
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -159,7 +159,7 @@ $$
 
 ###+ 昭1 | _(1)Chi(u/)_ (ziu1)
 
-$$
+$$.
 R
   ⽇ + 5
 U
@@ -574,7 +574,7 @@ $$
 
 ### 剿2 | _[(2)]Tsi(u/)_ [[ziu2]]^
 
-$$
+$$.
 R
   ⼑ + 11
 U
@@ -704,7 +704,7 @@ $$
 
 ### 炤3 | _Chi(u/)(3)_ [[ziu3]]
 
-$$
+$$.
 R
   ⽕ + 5
 U
@@ -791,7 +791,7 @@ $$
 
 ### 燋3 | _Tsi(u/)(3)_ [[ziu3]]
 
-$$
+$$.
 R
   ⽕ + 12
 U
@@ -908,7 +908,7 @@ $$
 
 ### 兆6 | _Chi(u/)(6)_ [[ziu6]]
 
-$$
+$$.
 R
   ⼉ + 4
 U
@@ -1037,7 +1037,7 @@ $$
 
 ### 旐6 | _Chi(u/)(6)_ [[ziu6]]
 
-$$
+$$.
 R
   ⽅ + 8
 U
@@ -1087,7 +1087,7 @@ $$
 
 ### 齸6 | _Chi(u/)(6)_ [[ziu6]]
 
-$$
+$$.
 R
   ⿒ + 10
 U
