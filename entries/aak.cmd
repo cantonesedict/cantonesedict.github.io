@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aak
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -94,6 +94,7 @@ A
 V
   ==
   - ak1 (shorter syllable)
+  - ngaak1 (common)
   ==
 F
   [[Not present]]
@@ -112,15 +113,19 @@ W
   ====
 E
   ====
-  - 【呃】 (aak1):
+  - 【呃】 (aak1, ngaak1):
     ++
     1. To deceive, to trick, to scam.
        ==
-       - 你呃人 (nei5 aak1 jan4): "You're deceiving others."
+       - 你呃人 (nei5 ngaak1 jan4): "You're deceiving others."
        - 呃錢 (aak1 cin4-2): "[That's a] scam [for my] money."
        ==
     ++
   ====
+S
+  ==
+  - $呃ngaak1 (TODO)
+  ==
 $$
 
 ###+ 握1 | _(A/)k(7)_ (aak1)
@@ -153,6 +158,10 @@ R
   ⾞ + 4
 U
   U+8EDB
+V
+  ==
+  - ak1 (shorter syllable)
+  ==
 F
   ==
   - [[F2.33 軛 _Ak(7)_ (ak1)]] ::轅端橫[木]駕馬頸者::
@@ -227,6 +236,8 @@ U
 V
   ==
   - aak3-2 (vernacular rising-tone noun)
+  - ngaak3 (ng prepend)
+  - ngaak3-2 (ng prepend vernacular rising-tone noun)
   ==
 F
   ==
