@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cin
-* %date-modified --> 2024-07-28
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -160,7 +160,7 @@ $$
 
 ### 躚1 | _(1)Ts(')(i/)n_ [[cin1]]
 
-$$
+$$.
 R
   ⾜ + 15
 U
@@ -176,7 +176,7 @@ W
   ====
   - [[Page~574 (1)躚]]
     --
-    [[Idiosyncratic reading from Fan Wan. **See $躚sin1 for the canonical entry.**]]
+    [[Reading variation. **See $躚sin1 for the canonical entry.**]]
     --
   ====
 S
@@ -187,7 +187,7 @@ $$
 
 ### 迁1 | _(1)Ts(')(i/)n_ [[cin1]]
 
-$$
+$$.
 R
   ⾡ + 3
 U
@@ -329,7 +329,7 @@ $$
 
 ### 俴2 | _(2)Ts(')(i/)n_ [[cin2]]
 
-$$
+$$.
 R
   ⼈ + 8
 U
@@ -408,7 +408,7 @@ $$
 
 ###+ 踐2 | _(2)Ts(')(i/)n_ (cin2)
 
-$$
+$$.
 R
   ⾜ + 8
 U
@@ -430,7 +430,7 @@ $$
 
 ###+ 闡2 | _(2)Ch(')(i/)n_ (cin2)
 
-$$
+$$.
 R
   ⾨ + 12
 U
