@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2024-10-02
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -846,7 +846,7 @@ $$
 
 ### 趂3 | _Ch(')an(3)_ [[can3]]
 
-$$
+$$.
 R
   ⾛ + 5
 U
