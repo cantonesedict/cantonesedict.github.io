@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> co
-* %date-modified --> 2024-09-18
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -302,7 +302,7 @@ $$
 
 ### 瘥1 | _(1)Ts(')o_ [[co1]]
 
-$$
+$$.
 R
   ⽧ + 10
 U
@@ -572,13 +572,17 @@ R
   ⾁ + 7
 U
   U+811E
+V
+  ==
+  - co3 (Fan Wan)
+  ==
 F
   ==
   - [[F2.61 脞 _Ts(')o(3)_ (co3)]] 叢脞又細碎無大畧也
   ==
 W
   ====
-  - [[Page~583 脞(3) _Ts(')o(3)_ (co3); here corrected to _(2)Ts(')o_ (co2)]]
+  - [[Page~583 脞(3) _Ts(')o(3)_ (co3); here normalised to _(2)Ts(')o_ (co2)]]
     ==
     - To mince up meat;
     - broken to bits, minced;
@@ -677,7 +681,7 @@ W
   ====
   - [[Page~583 脞(3)]]
     --
-    [[Idiosyncratic reading from Fan Wan. **See $脞co2 for the canonical entry.**]]
+    [[Reading variation. **See $脞co2 for the canonical entry.**]]
     --
   ====
 S
@@ -844,7 +848,7 @@ $$
 
 ### 鉏4 | _[(4)]Ch(')o_ [[co4]]^
 
-$$
+$$.
 R
   ⾦ + 5
 U
@@ -919,7 +923,7 @@ $$
 
 ### 雛4 | _(4)Ch(')o_ [[co4]]
 
-$$
+$$.
 R
   ⾫ + 5
 U
@@ -954,7 +958,7 @@ $$
 
 ###+ 坐5 | _(5)Ts(')o_ (co5)
 
-$$
+$$.
 R
   ⼟ + 4
 U
