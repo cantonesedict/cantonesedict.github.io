@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceng
-* %date-modified --> 2024-07-05
+* %date-modified --> 2024-10-04
 * %copyright-prior-years -->
 
 %%%
@@ -62,7 +62,7 @@ $$
 
 ### 靑1 | _(1)Ts(')eng_ [[ceng1]]
 
-$$
+$$.
 R
   ⾭ + 0
 U
@@ -84,7 +84,7 @@ $$
 
 ### 青1 | _(1)Ts(')eng_ [[ceng1]]
 
-$$
+$$.
 R
   ⾭ + 0
 U
@@ -117,7 +117,7 @@ $$
 
 ### 請2 | _(2)Ts(')eng_ [[ceng2]]
 
-$$
+$$.
 R
   ⾔ + 8
 U
