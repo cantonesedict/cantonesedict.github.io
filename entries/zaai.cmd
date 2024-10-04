@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2024-07-15
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -52,7 +52,7 @@ $$
 
 ### [斋]1 | _(1)Ch(a/)i_ [[zaai1]]
 
-$$
+$$.
 R
   ⽂ + 6
 U
@@ -289,13 +289,17 @@ R
   ⽧ + 11
 U
   U+7635
+V
+  ==
+  - caai3 (Fan Wan)
+  ==
 F
   ==
   - [[F2.28 瘵 _Ch(')(a/)i(3)_ (caai3)]] 勞病
   ==
 W
   ====
-  - [[Page~11|n54 瘵(3) _Ch(')(a/)i(3)_ (caai3); here corrected to _Ch(a/)i(3)_ (zaai3)]]
+  - [[Page~11|n54 瘵(3) _Ch(')(a/)i(3)_ (caai3); here normalised to _Ch(a/)i(3)_ (zaai3)]]
     ==
     - Weary, sick;
     - _(4)l(o\) [ch(a/)i](3)_
@@ -435,7 +439,7 @@ $$
 
 ### 砦6 | _Ch(a/)i(6)_ [[zaai6]]
 
-$$
+$$.
 R
   ⽯ + 5
 U
