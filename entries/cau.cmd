@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2024-07-21
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -98,7 +98,7 @@ $$
 
 ### [愀]1 | _(1)Ts(')au_ [[cau1]]
 
-$$
+$$.
 R
   ⼼ + 9
 U
@@ -245,7 +245,7 @@ $$
 
 ### 揪1 | _(1)Ts(')au_ [[cau1]]
 
-$$
+$$.
 R
   ⼿ + 9
 U
@@ -267,7 +267,7 @@ $$
 
 ### 揫1 | _(1)Ts(')au_ [[cau1]]
 
-$$
+$$.
 R
   ⼿ + 9
 U
@@ -373,7 +373,7 @@ $$
 
 ### 甃1 | _(1)Ts(')au_ [[cau1]]
 
-$$
+$$.
 R
   ⽡ + 9
 U
@@ -610,7 +610,7 @@ $$
 
 ### 鰌1 | _(1)Ts(')au_ [[cau1]]
 
-$$
+$$.
 R
   ⿂ + 9
 U
@@ -817,7 +817,7 @@ $$
 
 ### 凑3 | _Ts(')au(3)_ [[cau3]]
 
-$$
+$$.
 R
   ⼎ + 9
 U
@@ -1120,7 +1120,7 @@ $$
 
 ### 仇4 | _(4)Ch(')au_ [[cau4]]
 
-$$
+$$.
 R
   ⼈ + 2
 U
@@ -1453,7 +1453,7 @@ $$
 
 ### 紬4 | _(4)Ch(')au_ [[cau4]]
 
-$$
+$$.
 R
   ⽷ + 5
 U
@@ -1642,7 +1642,7 @@ $$
 
 ### 讐4 | _(4)Ch(')au_ [[cau4]]
 
-$$
+$$.
 R
   ⾔ + 16
 U
@@ -1730,7 +1730,7 @@ $$
 
 ### 酋4 | _(4)Ts(')au_ [[cau4]]
 
-$$
+$$.
 R
   ⾣ + 2
 U
@@ -1754,7 +1754,7 @@ $$
 
 ### 酧4 | _(4)Ch(')au_ [[cau4]]
 
-$$
+$$.
 R
   ⾣ + 6
 U
