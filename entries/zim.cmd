@@ -516,7 +516,7 @@ W
   ====
   - [[Page~16* (1)䠨]]
     --
-    [[Idiosyncratic reading from Fan Wan. **See $䠨cim3 for the canonical entry.**]]
+    [[Reading variation. **See $䠨cim3 for the canonical entry.**]]
     --
   ====
 S
