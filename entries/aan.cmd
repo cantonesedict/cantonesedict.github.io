@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aan
-* %date-modified --> 2024-07-12
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -58,6 +58,10 @@ R
   ⽇ + 6
 U
   U+664F
+V
+  ==
+  - ngaan3 (ng prepend)
+  ==
 F
   ==
   - [[F2.70 晏]] ::日[旰]也晚也又安也::
@@ -154,6 +158,10 @@ U
 A
   ==
   -{.modern} 鴳
+  ==
+V
+  ==
+  - ngaan3 (ng prepend)
   ==
 F
   ==
