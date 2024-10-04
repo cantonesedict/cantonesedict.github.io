@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aap
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -53,7 +53,7 @@ $$
 
 ### 押3 | _(A/)p(8)_ [[aap3]]
 
-$$
+$$.
 R
   ⼿ + 5
 U
@@ -85,6 +85,8 @@ U
 V
   ==
   - aap3-2 (vernacular rising-tone noun)
+  - ngaap3 (ng prepend)
+  - ngaap3-2 (ng prepend vernacular rising-tone noun)
   ==
 F
   ==
