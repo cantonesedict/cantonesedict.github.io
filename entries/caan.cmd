@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caan
-* %date-modified --> 2024-04-15
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -55,7 +55,7 @@ $$
 
 ### 飡1 | _(1)Ts(')(a/)n_ [[caan1]]
 
-$$
+$$.
 R
   ⾷ + 2
 U
@@ -160,7 +160,7 @@ $$
 
 ### 剗2 | _(2)Ch(')(a/)n_ [[caan2]]
 
-$$
+$$.
 R
   ⼑ + 8
 U
@@ -565,7 +565,7 @@ $$
 
 ### 棖5 | _(5)Ch(')(a/)n_ [[caan5]]
 
-$$
+$$.
 R
   ⽊ + 8
 U
