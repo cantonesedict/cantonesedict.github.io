@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-09-27
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -154,7 +154,7 @@ $$
 
 ### 兹1 | _(1)Tsz'_ [[zi1]]
 
-$$
+$$.
 R
   ⼋ + 7
 U
@@ -177,7 +177,7 @@ $$
 
 ###+ 卮1 | _(1)Ch(i/)_ (zi1)
 
-$$
+$$.
 R
   ⼙ + 3
 U
@@ -355,7 +355,7 @@ $$
 
 ### 孶1 | _(1)Tsz'_ [[zi1]]
 
-$$
+$$.
 R
   ⼦ + 10
 U
@@ -633,7 +633,7 @@ $$
 
 ### 漬1 | _(1)Tsz'_ [[zi1]]
 
-$$
+$$.
 R
   ⽔ + 11
 U
@@ -656,7 +656,7 @@ $$
 
 ### 甾1 | _(1)Tsz'_ [[zi1]]
 
-$$
+$$.
 R
   ⽥ + 3
 U
@@ -770,13 +770,17 @@ R
   ⽰ + 5
 U
   U+7957
+V
+  ==
+  - zi2 (Fan Wan)
+  ==
 F
   ==
   - [[F1.39 祗 _(2)Ch(i/)_ (zi2)]] 敬也但也又音其
   ==
 W
   ====
-  - [[Page~40|n83 (2)祗 _(2)Ch(i/)_ (zi2); here corrected to _(1)Ch(i/)_ (zi1)]]
+  - [[Page~40|n83 (2)祗 _(2)Ch(i/)_ (zi2); here normalised to _(1)Ch(i/)_ (zi1)]]
     ==
     - To respect, to invocate;
     - [[...]];
@@ -918,7 +922,7 @@ $$
 
 ### 胾1 | _(1)Tsz'_ [[zi1]]
 
-$$
+$$.
 R
   ⾁ + 6
 U
@@ -1107,7 +1111,7 @@ $$
 
 ### 蛓1 | _(1)Tsz'_ [[zi1]]
 
-$$
+$$.
 R
   ⾍ + 6
 U
@@ -1806,7 +1810,7 @@ $$
 
 ###+ 坻2 | _(2)Ch(i/)_ (zi2)
 
-$$
+$$.
 R
   ⼟ + 5
 U
@@ -1969,7 +1973,7 @@ $$
 
 ### 帋2 | _(2)Ch(i/)_ [[zi2]]
 
-$$
+$$.
 R
   ⼱ + 4
 U
@@ -2394,7 +2398,7 @@ $$
 
 ### 祇2 | _(2)Ch(i/)_ [[zi2]]
 
-$$
+$$.
 R
   ⽰ + 4
 U
@@ -2453,7 +2457,7 @@ $$
 
 ### 祗2 | _(2)Ch(i/)_ [[zi2]]
 
-$$
+$$.
 R
   ⽰ + 5
 U
@@ -2466,7 +2470,7 @@ W
   ====
   - [[Page~40|n83 (2)祗]]
     --
-    [[Idiosyncratic reading from Fan Wan (for "respect" senses). **See $祗zi1 for the canonical entry.**]]
+    [[Reading variation (for "respect" senses). **See $祗zi1 for the canonical entry.**]]
     --
     --
     [[Otherwise, an alternative form of 只 (for "only" senses). **See $只zi2 for the canonical entry.**]]
@@ -2707,7 +2711,7 @@ $$
 
 ###+ 衹2 | _(2)Ch(i/)_ (zi2)
 
-$$
+$$.
 R
   ⾐ + 4
 U
@@ -2932,7 +2936,7 @@ $$
 
 ### 寘3 | _Ch(i/)(3)_ [[zi3]]
 
-$$
+$$.
 R
   ⼧ + 10
 U
@@ -3233,7 +3237,7 @@ $$
 
 ###+ 知3 | _Ch(i/)(3)_ (zi3)
 
-$$
+$$.
 R
   ⽮ + 3
 U
@@ -3584,7 +3588,7 @@ $$
 
 ### 識3 | _Ch(i/)(3)_ [[zi3]]
 
-$$
+$$.
 R
   ⾔ + 12
 U
@@ -3828,7 +3832,7 @@ $$
 
 ### 値6 | _Ch(i/)(6)_ [[zi6]]
 
-$$
+$$.
 R
   ⼈ + 8
 U
@@ -4422,7 +4426,7 @@ $$
 
 ### 穉6 | _Ch(i/)(6)_ [[zi6]]
 
-$$
+$$.
 R
   ⽲ + 12
 U
@@ -4443,7 +4447,7 @@ $$
 
 ### 竢6 | _Tsz'(6)_ [[zi6]]
 
-$$
+$$.
 R
   ⽴ + 7
 U
@@ -4769,7 +4773,7 @@ $$
 
 ### 飤6 | _Tsz'(6)_ [[zi6]]
 
-$$
+$$.
 R
   ⾷ + 2
 U
