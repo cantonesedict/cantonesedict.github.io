@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coek
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -283,7 +283,7 @@ $$
 
 ###+ 芍3 | _Ch(')(e/)uk(8)_ (coek3)
 
-$$
+$$.
 R
   ⾋ + 3
 U
@@ -304,7 +304,7 @@ $$
 
 ### 鵲3 | _Ts(')(e/)uk(8)_ [[coek3]]
 
-$$
+$$.
 R
   ⿃ + 8
 U
