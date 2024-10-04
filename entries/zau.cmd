@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2024-09-27
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -99,7 +99,7 @@ $$
 
 ### 僽1 | _(1)Tsau_ [[zau1]]
 
-$$
+$$.
 R
   ⼈ + 13
 U
@@ -383,7 +383,7 @@ $$
 
 ###+ 揫1 | _(1)Tsau_ (zau1)
 
-$$
+$$.
 R
   ⼿ + 9
 U
@@ -896,7 +896,7 @@ $$
 
 ### 帚2 | _(2)Chau_ [[zau2]]
 
-$$
+$$.
 R
   ⼱ + 5
 U
@@ -924,7 +924,7 @@ $$
 
 ### 箒2 | _(2)Chau_ [[zau2]]
 
-$$
+$$.
 R
   ⽵ + 8
 U
@@ -937,7 +937,7 @@ W
   ====
   - [[Page~25|n68 (2)帚(2)箒]]
     --
-    [[Alternative form of 帚, and expected but non-common reading. **See $帚zaau2 for the canonical entry.**]]
+    [[Alternative form of 帚, and reading variation (per 《廣韻》之九切). **See $帚zaau2 for the canonical entry.**]]
     --
   ====
 S
@@ -948,7 +948,7 @@ $$
 
 ### 肘2 | _(2)Chau_ [[zau2]]
 
-$$
+$$.
 R
   ⾁ + 3
 U
@@ -1251,7 +1251,7 @@ $$
 
 ### 呪3 | _Chau(3)_ [[zau3]]
 
-$$
+$$.
 R
   ⼝ + 5
 U
@@ -1826,7 +1826,7 @@ $$
 
 ### 籒6 | _Chau(6)_ [[zau6]]
 
-$$
+$$.
 R
   ⽵ + 15
 U
@@ -1978,7 +1978,7 @@ $$
 
 ### 驟6 | _Tsau(6)_ [[zau6]]
 
-$$
+$$.
 R
   ⾺ + 14
 U
