@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaang
-* %date-modified --> 2024-07-15
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -61,7 +61,7 @@ $$
 
 ### 崢1 | _(1)Ch(a/)ng_ [[zaang1]]
 
-$$
+$$.
 R
   ⼭ + 8
 U
@@ -83,7 +83,7 @@ $$
 
 ###+ 棦1 | _(1)Ch(a/)ng_ (zaang1)
 
-$$
+$$.
 R
   ⽊ + 8
 U
@@ -107,7 +107,7 @@ $$
 
 ### 爭1 | _(1)Ch(a/)ng_ [[zaang1]]
 
-$$
+$$.
 R
   ⽖ + 4
 U
@@ -129,7 +129,7 @@ $$
 
 ###+ 琤1 | _(1)Ch(a/)ng_ (zaang1)
 
-$$
+$$.
 R
   ⽟ + 8
 U
@@ -153,7 +153,7 @@ $$
 
 ###+ 箏1 | _(1)Ch(a/)ng_ (zaang1)
 
-$$
+$$.
 R
   ⽵ + 8
 U
@@ -237,7 +237,7 @@ $$
 
 ###+ 踭1 | _(1)Ch(a/)ng_ (zaang1)
 
-$$
+$$.
 R
   ⾜ + 8
 U
@@ -263,7 +263,7 @@ $$
 
 ###+ 錚1 | _(1)Ch(a/)ng_ (zaang1)
 
-$$
+$$.
 R
   ⾦ + 8
 U
@@ -298,7 +298,7 @@ $$
 
 ###+ 諍3 | _Ch(a/)ng(3)_ (zaang3)
 
-$$
+$$.
 R
   ⾔ + 8
 U
