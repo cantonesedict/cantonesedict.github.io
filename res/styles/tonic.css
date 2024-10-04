@@ -73,7 +73,7 @@ dd ul {
 
 
 dl {
-  border: 3px double var(--modern-colour);
+  border: 1px solid var(--modern-colour);
   padding: 0.3em 0.6em;
   margin-left: 1em;
   margin-right: 1em;
@@ -197,6 +197,11 @@ th, td {
   padding: 0.4em;
 }
 
+
+.canonical {
+  border-style: double;
+  border-width: 3px;
+}
 
 .font-test {
   font-size: 2em;
