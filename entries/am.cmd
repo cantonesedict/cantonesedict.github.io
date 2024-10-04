@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -66,6 +66,10 @@ R
   ⼝ + 9
 U
   U+557D
+V
+  ==
+  - ngam1 (ng prepend)
+  ==
 F
   [[Not present]]
 W
@@ -95,6 +99,10 @@ A
   ==
   - $菴1
   ==
+V
+  ==
+  - ngam1 (ng prepend)
+  ==
 F
   ==
   - [[F2.87 庵]] 園屋小草舍也又僧寺也
@@ -122,7 +130,7 @@ $$
 
 ### 菴1 | _(1)(O\)m_ [[am1]]
 
-$$
+$$.
 R
   ⾋ + 8
 U
@@ -143,7 +151,7 @@ $$
 
 ###+ 諳1 | _(1)(O\)m_ (am1)
 
-$$
+$$.
 R
   ⾔ + 9
 U
@@ -173,6 +181,10 @@ A
   ==
   - $䳺1
   ==
+V
+  ==
+  - ngam1 (ng prepend)
+  ==
 F
   ==
   - [[F2.87 䳺]] 䳺鶉鳥名
@@ -200,7 +212,7 @@ $$
 
 ### 䳺1 | _(1)(O\)m_ [[am1]]
 
-$$
+$$.
 R
   ⿃ + 11
 U
@@ -262,7 +274,7 @@ $$
 
 ### 掩2 | _(2)Am_ [[am2]]
 
-$$
+$$.
 R
   ⼿ + 8
 U
@@ -299,6 +311,10 @@ U
 A
   ==
   - $掩2
+  ==
+V
+  ==
+  - ngam2 (ng prepend)
   ==
 F
   ==
@@ -394,7 +410,7 @@ $$
 
 ### 欿2 | _(2)(O\)m_ [[am2]]
 
-$$
+$$.
 R
   ⽋ + 8
 U
@@ -407,7 +423,7 @@ W
   ====
   - [[Page~342 (2)欿]]
     --
-    [[Idiosyncratic reading from Fan Wan. **See $欿ham2 for the canonical entry.**]]
+    [[Reading variation. **See $欿ham2 for the canonical entry.**]]
     --
   ====
 S
@@ -426,6 +442,7 @@ U
 V
   ==
   - am1 (per 《廣韻》烏含切)
+  - ngam2 (ng prepend)
   ==
 F
   ==
@@ -465,6 +482,7 @@ U
 V
   ==
   - am3 (per 《廣韻》烏紺切)
+  - ngam2 (ng prepend)
   ==
 F
   ==
@@ -501,6 +519,10 @@ R
   ⿊ + 9
 U
   U+9EEF
+V
+  ==
+  - ngam2 (ng prepend)
+  ==
 F
   ==
   - [[F2.87 黯]] 黯黯不明貌又漢臣汲黯
@@ -537,6 +559,10 @@ R
   ⽇ + 9
 U
   U+6697
+V
+  ==
+  - ngam3 (ng prepend)
+  ==
 F
   ==
   - [[F2.88 暗]] 不明也又目不明貌
@@ -597,7 +623,7 @@ $$
 
 ###+ 闇3 | _(O\)m(3)_ (am3)
 
-$$
+$$.
 R
   ⾨ + 9
 U
