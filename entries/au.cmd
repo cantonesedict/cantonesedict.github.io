@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> au
-* %date-modified --> 2024-07-15
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -64,6 +64,10 @@ R
   ⼖ + 9
 U
   U+5340
+V
+  ==
+  - ngau1 (ng prepend)
+  ==
 F
   ==
   - [[F1.49 區]] 人姓又音拘
@@ -92,6 +96,10 @@ R
   ⽋ + 11
 U
   U+6B50
+V
+  ==
+  - ngau1 (ng prepend)
+  ==
 F
   ==
   - [[F1.49 歐]] 歐陽覆姓也
@@ -123,6 +131,10 @@ R
   ⽔ + 11
 U
   U+6F1A
+V
+  ==
+  - ngau1 (ng prepend)
+  ==
 F
   ==
   - [[F1.49 漚]] 水上泡
@@ -154,6 +166,10 @@ R
   ⽡ + 11
 U
   U+750C
+V
+  ==
+  - ngau1 (ng prepend)
+  ==
 F
   ==
   - [[F1.49 甌]] 茶甌
@@ -193,6 +209,10 @@ A
   ==
   - $歐1
   ==
+V
+  ==
+  - ngau1 (ng prepend)
+  ==
 F
   ==
   - [[F1.49 謳]] 謳歌長吟也
@@ -221,6 +241,10 @@ R
   ⿃ + 11
 U
   U+9DD7
+V
+  ==
+  - ngau1 (ng prepend)
+  ==
 F
   ==
   - [[F1.49 鷗]] 水鳥
@@ -261,6 +285,10 @@ R
   ⼝ + 11
 U
   U+5614
+V
+  ==
+  - ngau2 (ng prepend)
+  ==
 F
   ==
   - [[F1.54 嘔]] 吐也
@@ -313,6 +341,10 @@ R
   ⽎ + 11
 U
   U+6BC6
+V
+  ==
+  - ngau2 (ng prepend)
+  ==
 F
   ==
   - [[F1.54 毆]] 毆辱捶擊也
@@ -354,6 +386,10 @@ R
   ⽔ + 11
 U
   U+6F1A
+V
+  ==
+  - ngau3 (ng prepend)
+  ==
 F
   ==
   - [[F1.55 漚]] 以水久浸物曰漚
