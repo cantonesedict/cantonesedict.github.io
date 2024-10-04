@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ze
-* %date-modified --> 2024-09-10
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -136,7 +136,7 @@ $$
 
 ###+ 姐1 | _(1)Ts(e/)_ (ze1)
 
-$$
+$$.
 R
   ⼥ + 5
 U
@@ -577,7 +577,7 @@ $$
 
 ### 啫3 | _Ch(e/)(3)_ [[ze3]]
 
-$$
+$$.
 R
   ⼝ + 8
 U
@@ -666,7 +666,7 @@ $$
 
 ### 樜3 | _Ch(e/)(3)_ [[ze3]]
 
-$$
+$$.
 R
   ⽊ + 11
 U
@@ -741,7 +741,7 @@ $$
 
 ### 這3 | _Ch(e/)(3)_ [[ze3]]
 
-$$
+$$.
 R
   ⾡ + 7
 U
