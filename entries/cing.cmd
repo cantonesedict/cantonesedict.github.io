@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2024-07-28
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -99,7 +99,7 @@ $$
 
 ### 淸1 | _(1)Ts(')ing_ [[cing1]]
 
-$$
+$$.
 R
   ⽔ + 8
 U
@@ -359,6 +359,10 @@ R
   ⾍ + 13
 U
   U+87F6
+V
+  ==
+  - sing3 (common)
+  ==
 F
   ==
   - [[F1.71 蟶 _(2)Ch(')ing_ (cing2)]] 蚌屬
@@ -406,7 +410,7 @@ $$
 
 ### 靑1 | _(1)Ts(')ing_ [[cing1]]
 
-$$
+$$.
 R
   ⾭ + 0
 U
@@ -613,7 +617,7 @@ $$
 
 ### 檉2 | _(2)Ch(')ing_ [[cing2]]
 
-$$
+$$.
 R
   ⽊ + 13
 U
@@ -637,7 +641,7 @@ $$
 
 ### 蟶2 | _(2)Ch(')ing_ [[cing2]]
 
-$$
+$$.
 R
   ⾍ + 13
 U
@@ -791,7 +795,7 @@ $$
 
 ### 赬2 | _(2)Ch(')ing_ [[cing2]]
 
-$$
+$$.
 R
   ⾚ + 9
 U
@@ -862,7 +866,7 @@ $$
 
 ### 郢2 | _(2)Ch(')ing_ [[cing2]]
 
-$$
+$$.
 R
   ⾢ + 7
 U
@@ -1223,7 +1227,7 @@ $$
 
 ### 惩4 | _(4)Ch(')ing_ [[cing4]]
 
-$$
+$$.
 R
   ⼼ + 8
 U
