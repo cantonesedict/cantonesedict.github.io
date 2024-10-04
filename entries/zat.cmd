@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zat
-* %date-modified --> 2024-07-15
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -206,7 +206,7 @@ $$
 
 ### 郅1 | _Chat(7)_ [[zat1]]
 
-$$
+$$.
 R
   ⾢ + 6
 U
@@ -247,7 +247,7 @@ $$
 
 ### 隲1 | _Chat(7)_ [[zat1]]
 
-$$
+$$.
 R
   ⾩ + 14
 U
