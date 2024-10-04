@@ -59,7 +59,7 @@ $$
 
 ###+ 厄1 | _(A/)k(7)_ (aak1)
 
-$$
+$$.
 R
   ⼚ + 2
 U
@@ -70,9 +70,7 @@ W
   [[Not present]]
 C
   ==
-  - Most modern speakers prefer this longer syllable
-    over the shorter _ak(7)_ (ak1).
-    Nevertheless, **see $厄ak1 for the canonical entry**.
+  - Reading variation. **See $厄ak1 for the canonical entry.**
   ==
 S
   ==
@@ -130,7 +128,7 @@ $$
 
 ###+ 握1 | _(A/)k(7)_ (aak1)
 
-$$
+$$.
 R
   ⼿ + 9
 U
@@ -141,9 +139,7 @@ W
   [[Not present]]
 C
   ==
-  - Most modern speakers prefer this longer syllable
-    over the shorter _ak(7)_ (ak1).
-    Nevertheless, **see $握ak1 for the canonical entry**.
+  - Reading variation. **See $握ak1 for the canonical entry.**
   ==
 S
   ==
@@ -185,7 +181,7 @@ $$
 
 ### 阨1 | _(A/)k(7)_ [[aak1]]
 
-$$
+$$.
 R
   ⾩ + 4
 U
@@ -202,9 +198,7 @@ W
   ====
 C
   ==
-  - Most modern speakers prefer this longer syllable
-    over the shorter _ak(7)_ (ak1).
-    Nevertheless, **see $阨ak1 for the literary senses**.
+  - Reading variation. **See $阨ak1 for the canonical entry.**
   ==
 S
   ==
