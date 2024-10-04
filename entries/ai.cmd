@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ai
-* %date-modified --> 2024-05-28
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -68,6 +68,7 @@ A
 V
   ==
   - aai1 (longer syllable for particle sense)
+  - ngai1 (ng prepend for "beg" sense)
   ==
 F
   [[Not present]]
@@ -118,7 +119,7 @@ $$
 
 ### 𫫃1 [[⿰口挨]] | _(1)Ai_ [[ai1]]
 
-$$
+$$.
 R
   ⼝ + 10
 U
@@ -152,6 +153,10 @@ R
   ⽮ + 8
 U
   U+77EE
+V
+  ==
+  - ngai2 (ng prepend)
+  ==
 F
   ==
   - [[F1.31 矮]] 不高也
@@ -202,6 +207,10 @@ R
   ⼫ + 21
 U
   U+5C6D
+V
+  ==
+  - ngai3 (ng prepend)
+  ==
 F
   [[Not present]]
 W
@@ -240,6 +249,10 @@ R
   ⽇ + 12
 U
   U+66C0
+V
+  ==
+  - ngai3 (ng prepend)
+  ==
 F
   ==
   - [[F1.32 ::[曀]::]] 陰而風也
@@ -265,6 +278,10 @@ R
   ⽷ + 10
 U
   U+7E0A
+V
+  ==
+  - ngai3 (ng prepend)
+  ==
 F
   ==
   - [[F1.32 縊]] 懸樑自縊也
@@ -292,6 +309,10 @@ R
   ⽻ + 11
 U
   U+7FF3
+V
+  ==
+  - ngai3 (ng prepend)
+  ==
 F
   ==
   - [[F1.32 翳]] 障翳
@@ -343,6 +364,10 @@ R
   ⾁ + 12
 U
   U+26809
+V
+  ==
+  - ngai3 (ng prepend)
+  ==
 F
   [[Not present]]
 W
