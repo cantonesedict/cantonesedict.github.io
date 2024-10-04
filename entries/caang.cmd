@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caang
-* %date-modified --> 2024-08-27
+* %date-modified --> 2024-10-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -140,7 +140,7 @@ $$
 
 ### 撑1 | _(1)Ch(')(a/)ng_ [[caang1]]
 
-$$
+$$.
 R
   ⼿ + 12
 U
@@ -186,7 +186,7 @@ $$
 
 ###+ 罉1 | _(1)Ch(')(a/)ng_ (caang1)
 
-$$
+$$.
 R
   ⽸ + 12
 U
@@ -274,7 +274,7 @@ $$
 
 ###+ 橙2 | _(2)Ch(')(a/)ng_ (caang2)
 
-$$
+$$.
 R
   ⽊ + 12
 U
@@ -361,7 +361,7 @@ $$
 
 ### 撑3 | _Ch(')(a/)ng(3)_ [[caang3]]
 
-$$
+$$.
 R
   ⼿ + 12
 U
@@ -453,7 +453,7 @@ $$
 
 ### 倀4 | _(4)Ch(')(a/)ng_ [[caang4]]
 
-$$
+$$.
 R
   ⼈ + 8
 U
@@ -511,6 +511,10 @@ R
   ⽊ + 12
 U
   U+6A59
+A
+  ==
+  -{.modern} $棖4
+  ==
 V
   ==
   - caang4-2 (vernacular rising-tone noun)
