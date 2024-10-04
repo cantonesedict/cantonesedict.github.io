@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caat
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -94,7 +94,7 @@ $$
 
 ### 刹3 | _Ch(')(a/)t(8)_ [[caat3]]
 
-$$
+$$.
 R
   ⼑ + 6
 U
@@ -118,7 +118,7 @@ $$
 
 ###+ 剎3 | _Ch(')(a/)t(8)_ (caat3)
 
-$$
+$$.
 R
   ⼑ + 7
 U
