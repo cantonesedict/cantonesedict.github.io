@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zip
-* %date-modified --> 2024-07-24
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -96,7 +96,7 @@ $$
 
 ### 慴3 | _Ch(i/)p(8)_ [[zip3]]
 
-$$
+$$.
 R
   ⼼ + 11
 U
@@ -126,7 +126,7 @@ $$
 
 ###+ 懾3 | _Ch(i/)p(8)_ (zip3)
 
-$$
+$$.
 R
   ⼼ + 18
 U
@@ -350,7 +350,7 @@ $$
 
 ### 睫3 | _Ts(i/)p(8)_ [[zip3]]
 
-$$
+$$.
 R
   ⽬ + 8
 U
@@ -378,7 +378,7 @@ $$
 
 ### 褶3 | _Ch(i/)p(8)_ [[zip3]]
 
-$$
+$$.
 R
   ⾐ + 11
 U
