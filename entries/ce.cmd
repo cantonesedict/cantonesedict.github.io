@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2024-10-02
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -413,7 +413,7 @@ $$
 
 ### 抯2 | _(2)Ch(')(e/)_ [[ce2]]
 
-$$
+$$.
 R
   ⼿ + 5
 U
@@ -441,12 +441,13 @@ C
     3. _(2)ts(e/)_ (ze2) from 兹野切, also explained 取也.
     ++
     None of these are 陰上 _(2)ch(')(e/)_ (ce2).
+    Instead, see $扯ce2.
   ====
 $$
 
 ### 撦2 | _(2)Ch(')(e/)_ [[ce2]]
 
-$$
+$$.
 R
   ⼿ + 11
 U
@@ -540,7 +541,7 @@ E
   But whilst the reading _ts(')(e/)(3)_ (ce3) is a match,
   the explanation 斜逆也 seems more a metaphorical "heretical"
   than a physical "inclined" or "sloped",
-  so I am yet to be fully convinced of 笡.
+  so I am yet to be convinced of 笡.
   --
 S
   ==
