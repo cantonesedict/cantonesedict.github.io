@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2024-07-29
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -150,7 +150,7 @@ $$
 
 ###+ 搓1 | _(1)Ch(')(a/)i_ (caai1)
 
-$$
+$$.
 R
   ⼿ + 10
 U
@@ -275,7 +275,7 @@ $$
 
 ###+ 踩2 | _(2)Ch(')(a/)i_ (caai2)
 
-$$
+$$.
 R
   ⾜ + 8
 U
@@ -445,7 +445,7 @@ $$
 
 ### 瘵3 | _Ch(')(a/)i(3)_ [[caai3]]
 
-$$
+$$.
 R
   ⽧ + 11
 U
@@ -458,7 +458,7 @@ W
   ====
   - [[Page~11|n54 瘵(3)]]
     --
-    [[Idiosyncratic reading from Fan Wan. **See $瘵zaai3 for the canonical entry.**]]
+    [[Reading variation. **See $瘵zaai3 for the canonical entry.**]]
     --
   ====
 S
