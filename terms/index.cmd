@@ -986,6 +986,9 @@ window.onload = applyFilter;
     , zou6
     , [做](/entries/zou#cantonese-做)
   //
+    , zou6 dai1
+    , [做低](/entries/zou#cantonese-做低)
+  //
     , zou6 mat1
     , [做乜](/entries/zou#cantonese-做乜)
   //

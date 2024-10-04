@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zou
-* %date-modified --> 2024-09-10
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -676,6 +676,13 @@ E
        - 做嘢未 (zou6 je5 mei6): "[Do you] work yet?"
        - 做廚 (zou6 cyu4-2): "Work [as a] chef."
        - 冇嘢做 (mou5 je5 zou6): "Out of work."
+       ==
+    ++
+  - 【做低】 (zou6 dai1):
+    ++
+    1. To kill, to eliminate lethally.
+       ==
+       - 做低咗男主角 (zou6 dai1 zo2 naam4 zyu2 gok3): "[He] took out [the] male main character."
        ==
     ++
   - 【做乜】 (zou6 mat1):
