@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zap
-* %date-modified --> 2024-07-12
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -54,7 +54,7 @@ $$
 
 ### 𠽃1 [[⿰口執]] | _Tsap(7)_ [[zap1]]
 
-$$
+$$.
 R
   ⼝ + 11
 U
