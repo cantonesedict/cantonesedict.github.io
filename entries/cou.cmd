@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2024-10-02
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -253,7 +253,7 @@ $$
 
 ### 艸2 | _(2)Ts(')(o\)_ [[cou2]]
 
-$$
+$$.
 R
   ⾋ + 0
 U
@@ -444,7 +444,7 @@ $$
 
 ### 懆3 | _Ts(')(o\)(3)_ [[cou3]]
 
-$$
+$$.
 R
   ⼼ + 13
 U
@@ -543,7 +543,7 @@ $$
 
 ###+ 澡3 | _Ts(')(o\)(3)_ (cou3)
 
-$$
+$$.
 R
   ⽔ + 13
 U
@@ -1098,7 +1098,7 @@ $$
 
 ###+ 儲5 | _(5)Ts(')(o\)_ (cou5)
 
-$$
+$$.
 R
   ⼈ + 15
 U
