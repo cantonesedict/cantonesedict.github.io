@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeng
-* %date-modified --> 2024-07-28
+* %date-modified --> 2024-10-04
 * %copyright-prior-years -->
 
 %%%
@@ -67,7 +67,7 @@ $$
 
 ### 精1 | _(1)Tseng_ [[zeng1]]
 
-$$
+$$.
 R
   ⽶ + 8
 U
@@ -109,7 +109,7 @@ $$
 
 ### 井2 | _(2)Tseng_ [[zeng2]]
 
-$$
+$$.
 R
   ⼆ + 2
 U
@@ -148,7 +148,7 @@ $$
 
 ### 正3 | _Cheng(3)_ [[zeng3]]
 
-$$
+$$.
 R
   ⽌ + 1
 U
@@ -191,7 +191,7 @@ $$
 
 ### 淨6 | _Tseng(6)_ [[zeng6]]
 
-$$
+$$.
 R
   ⽔ + 8
 U
@@ -213,7 +213,7 @@ $$
 
 ###+ 穽6 | _Tseng(6)_ (zeng6)
 
-$$
+$$.
 R
   ⽳ + 4
 U
@@ -273,7 +273,7 @@ $$
 
 ###+ 阱6 | _Tseng(6)_ (zeng6)
 
-$$
+$$.
 R
   ⾩ + 4
 U
