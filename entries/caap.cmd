@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caap
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -86,7 +86,7 @@ $$
 
 ###+ 挿3 | _Ch(')(a/)p(8)_ (caap3)
 
-$$
+$$.
 R
   ⼿ + 7
 U
@@ -182,7 +182,7 @@ $$
 
 ### 揷3 | _Ch(')(a/)p(8)_ [[caap3]]
 
-$$
+$$.
 R
   ⼿ + 9
 U
