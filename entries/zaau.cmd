@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaau
-* %date-modified --> 2024-07-28
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -327,7 +327,7 @@ $$
 
 ###+ 箒2 | _(2)Ch(a/)u_ (zaau2)
 
-$$
+$$.
 R
   ⽵ + 8
 U
@@ -412,7 +412,7 @@ $$
 
 ### 棹3 | _Ch(a/)u(3)_ [[zaau3]]
 
-$$
+$$.
 R
   ⽊ + 8
 U
@@ -439,7 +439,7 @@ $$
 
 ### 櫂3 | _Ch(a/)u(3)_ [[zaau3]]
 
-$$
+$$.
 R
   ⽊ + 14
 U
@@ -572,7 +572,7 @@ $$
 
 ### 𦻐3 [[⿱艹焯]] | _Ch(a/)u(3)_ [[zaau3]]
 
-$$
+$$.
 R
   ⾋ + 12
 U
@@ -638,7 +638,7 @@ $$
 
 ###+ 棹6 | _Ch(a/)u(6)_ (zaau6)
 
-$$
+$$.
 R
   ⽊ + 8
 U
