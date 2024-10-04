@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ak
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -71,6 +71,8 @@ A
 V
   ==
   - aak1 (longer syllable)
+  - ngaak1 (ng prepend longer syllable)
+  - ngak1 (ng prepend)
   ==
 F
   ==
@@ -96,8 +98,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected headword 卮 to 戹.
-  - Most modern speakers prefer the longer syllable _(a/)k(7)_ (aak1);
-    see $厄aak1.
+  - Most modern speakers prefer the longer syllable _(a/)k(7)_ (aak1).
   - Williams erroneously has 𢨪 (⿸戶巳) for an alternative form instead of 戹.
   ==
 S
@@ -113,6 +114,12 @@ R
   ⼝ + 8
 U
   U+555E
+V
+  ==
+  - aak1 (longer syllable)
+  - ngaak1 (ng prepend longer syllable)
+  - ngak1 (ng prepend)
+  ==
 F
   [[Not present]]
 W
@@ -143,6 +150,12 @@ R
   ⼱ + 9
 U
   U+5E44
+V
+  ==
+  - aak1 (longer syllable)
+  - ngaak1 (ng prepend longer syllable)
+  - ngak1 (ng prepend)
+  ==
 F
   ==
   - [[F2.32 幄]] 覆帳也
@@ -168,6 +181,8 @@ U
 V
   ==
   - aak1 (longer syllable)
+  - ngaak1 (ng prepend longer syllable)
+  - ngak1 (ng prepend)
   ==
 F
   ==
@@ -195,8 +210,7 @@ W
   ====
 C
   ==
-  - Most modern speakers prefer the longer syllable _(a/)k(7)_ (aak1);
-    see $握aak1.
+  - Most modern speakers prefer the longer syllable _(a/)k(7)_ (aak1).
   ==
 S
   ==
@@ -211,6 +225,12 @@ R
   ⽔ + 9
 U
   U+6E25
+V
+  ==
+  - aak1 (longer syllable)
+  - ngaak1 (ng prepend longer syllable)
+  - ngak1 (ng prepend)
+  ==
 F
   ==
   - [[F2.32 渥]] ::厚也[沾]濡也洽也潤也::
@@ -251,6 +271,8 @@ U
 V
   ==
   - aak1 (longer syllable)
+  - ngaak1 (ng prepend longer syllable)
+  - ngak1 (ng prepend)
   ==
 F
   ==
@@ -271,8 +293,7 @@ W
   ====
 C
   ==
-  - Most modern speakers prefer the longer syllable _(a/)k(7)_ (aak1);
-    see $阨aak1.
+  - Most modern speakers prefer the longer syllable _(a/)k(7)_ (aak1).
   ==
 S
   ==
