@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2024-10-03
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -349,7 +349,7 @@ $$
 
 ### 綴6 | _Chui(6)_ [[zeoi6]]
 
-$$
+$$.
 R
   ⽷ + 8
 U
@@ -447,7 +447,7 @@ $$
 
 ### 隊6 | _Chui(6)_ [[zeoi6]]
 
-$$
+$$.
 R
   ⾩ + 9
 U
