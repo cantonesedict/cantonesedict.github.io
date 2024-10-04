@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aat
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -66,6 +66,10 @@ R
   ⼟ + 14
 U
   U+58D3
+V
+  ==
+  - ngaat3 (ng prepend)
+  ==
 F
   ==
   - [[F2.72 壓]] 鎮也覆也
@@ -117,6 +121,7 @@ U
 V
   ==
   - gaat3 (per 《正韻》訖黠切)
+  - ngaat3 (ng prepend)
   ==
 F
   ==
@@ -142,7 +147,7 @@ $$
 
 ###+ 戛3 | _(A/)t(8)_ (aat3)
 
-$$
+$$.
 R
   ⼽ + 7
 U
@@ -163,7 +168,7 @@ $$
 
 ### 戞3 | _(A/)t(8)_ [[aat3]]
 
-$$
+$$.
 R
   ⼽ + 8
 U
@@ -195,6 +200,7 @@ U
 V
   ==
   - aap3 (per 《廣韻》烏甲切)
+  - ngaat3 (ng prepend)
   ==
 F
   ==
@@ -301,6 +307,10 @@ R
   ⼿ + 9
 U
   U+63E0
+V
+  ==
+  - ngaat3 (ng prepend)
+  ==
 F
   ==
   - [[F2.72 揠]] 拔也助禾苗長也
@@ -320,7 +330,7 @@ $$
 
 ### 秸3 | _(A/)t(8)_ [[aat3]]
 
-$$
+$$.
 R
   ⽲ + 6
 U
@@ -349,6 +359,10 @@ R
   ⾡ + 9
 U
   U+904F
+V
+  ==
+  - ngaat3 (ng prepend)
+  ==
 F
   ==
   - [[F2.72 遏]] 止也絕也
@@ -381,6 +395,10 @@ R
   ⾨ + 8
 U
   U+95BC
+V
+  ==
+  - ngaat3 (ng prepend)
+  ==
 F
   ==
   - [[F2.72 閼]] 閉也塞也又音謁又音煙
@@ -407,6 +425,10 @@ R
   ⾴ + 6
 U
   U+981E
+V
+  ==
+  - ngaat3 (ng prepend)
+  ==
 F
   ==
   - [[F2.72 頞]] 額也
