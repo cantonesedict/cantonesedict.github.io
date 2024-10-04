@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2024-07-28
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -72,7 +72,7 @@ $$
 
 ### 呞1 | _(1)Ch(')(i/)_ [[ci1]]
 
-$$
+$$.
 R
   ⼝ + 5
 U
@@ -232,7 +232,7 @@ $$
 
 ### 痴1 | _(1)Ch(')(i/)_ [[ci1]]
 
-$$
+$$.
 R
   ⽧ + 8
 U
@@ -344,7 +344,7 @@ $$
 
 ### 𥼝1 [[⿰米禽]] | _(1)Ch(')(i/)_ [[ci1]]
 
-$$
+$$.
 R
   ⽶ + 13
 U
@@ -362,7 +362,7 @@ $$
 
 ### 胝1 | _(1)Ch(')(i/)_ [[ci1]]
 
-$$
+$$.
 R
   ⾁ + 5
 U
@@ -420,7 +420,7 @@ $$
 
 ### 褫1 | _(1)Ch(')(i/)_ [[ci1]]
 
-$$
+$$.
 R
   ⾐ + 10
 U
@@ -444,7 +444,7 @@ $$
 
 ### 訾1 | _(1)Ts(')z'_ [[ci1]]
 
-$$
+$$.
 R
   ⾔ + 6
 U
@@ -504,6 +504,7 @@ U
   U+9AB4
 V
   ==
+  - ci3 (Fan Wan)
   - ci4 (per 《廣韻》疾移切)
   - zi6 (per 《廣韻》疾智切)
   ==
@@ -513,7 +514,7 @@ F
   ==
 W
   ====
-  - [[Page~617 骴(3) _Ts(')z'(3)_ (ci3); here corrected to _(1)Ts(')z'_ (ci1)]]
+  - [[Page~617 骴(3) _Ts(')z'(3)_ (ci3); here normalised to _(1)Ts(')z'_ (ci1)]]
     ==
     - An old bone of men or beasts;
     - putrid bones, having some flesh on them.
@@ -687,7 +688,7 @@ $$
 
 ### 𪗪1 [[⿰齒司]] | _(1)Ch(')(i/)_ [[ci1]]
 
-$$
+$$.
 R
   ⿒ + 5
 U
@@ -1005,7 +1006,7 @@ $$
 
 ### 柂2 | _(2)Ch(')(i/)_ [[ci2]]
 
-$$
+$$.
 R
   ⽊ + 5
 U
@@ -1030,7 +1031,7 @@ $$
 
 ###+ 柿2 | _(2)Ts(')z'_ (ci2)
 
-$$
+$$.
 R
   ⽊ + 5
 U
@@ -1097,13 +1098,17 @@ R
   ⽔ + 6
 U
   U+6CDA
+V
+  ==
+  - cai5 (Fan Wan)
+  ==
 F
   ==
   - [[F1.31 泚 _(5)Ts(')ai_ (cai5)]] 汗出貌
   ==
 W
   ====
-  - [[Page~550 (5)泚 _(5)Ts(')ai_ (cai5); here corrected to _(2)Ts(')z'_ (ci2)]]
+  - [[Page~550 (5)泚 _(5)Ts(')ai_ (cai5); here normalised to _(2)Ts(')z'_ (ci2)]]
     ==
     - Perspiring, sweating on the forehead;
     - clear water;
@@ -1171,7 +1176,7 @@ $$
 
 ### 耻2 | _(2)Ch(')(i/)_ [[ci2]]
 
-$$
+$$.
 R
   ⽿ + 4
 U
@@ -1443,7 +1448,7 @@ $$
 
 ### 厠3 | _Ts(')z'(3)_ [[ci3]]
 
-$$
+$$.
 R
   ⼚ + 9
 U
@@ -1564,7 +1569,7 @@ $$
 
 ### 恣3 | _Ts(')z'(3)_ [[ci3]]
 
-$$
+$$.
 R
   ⼼ + 6
 U
@@ -1588,7 +1593,7 @@ $$
 
 ### 懥3 | _Ch(')(i/)(3)_ [[ci3]]
 
-$$
+$$.
 R
   ⼼ + 14
 U
@@ -1720,7 +1725,7 @@ $$
 
 ### 眥3 | _Ts(')z'(3)_ [[ci3]]
 
-$$
+$$.
 R
   ⽬ + 6
 U
@@ -1746,7 +1751,7 @@ $$
 
 ### 糦3 | _Ch(')(i/)(3)_ [[ci3]]
 
-$$
+$$.
 R
   ⽶ + 12
 U
@@ -1767,7 +1772,7 @@ $$
 
 ### 翄3 | _Ch(')(i/)(3)_ [[ci3]]
 
-$$
+$$.
 R
   ⽻ + 4
 U
@@ -1863,7 +1868,7 @@ $$
 
 ###+ 螆3 | _Ts(')z'(3)_ (ci3)
 
-$$
+$$.
 R
   ⾍ + 10
 U
@@ -1985,7 +1990,7 @@ W
   ====
   - [[Page~617 骴(3)]]
     --
-    [[Idiosyncratic reading from Williams. **See $骴ci1 for the canonical entry.**]]
+    [[Reading variation. **See $骴ci1 for the canonical entry.**]]
     --
   ====
 S
@@ -2087,7 +2092,7 @@ $$
 
 ###+ 弛4 | _(4)Ch(')(i/)_ (ci4)
 
-$$
+$$.
 R
   ⼸ + 3
 U
@@ -2198,7 +2203,7 @@ $$
 
 ### 柿4 | _(4)Ts(')z'_ [[ci4]]
 
-$$
+$$.
 R
   ⽊ + 5
 U
@@ -2211,7 +2216,7 @@ W
   ====
   - [[Page~616 (4)柿]]
     --
-    [[Idiosyncratic reading from Fan Wan. **See $柿ci5 for the canonical entry.**]]
+    [[Reading variation. **See $柿ci5 for the canonical entry.**]]
     --
   ====
 S
@@ -2338,7 +2343,7 @@ $$
 
 ### 疵4 | _(4)Ts(')z'_ [[ci4]]
 
-$$
+$$.
 R
   ⽧ + 6
 U
@@ -2653,7 +2658,7 @@ $$
 
 ### 辞4 | _(4)Ts(')z'_ [[ci4]]
 
-$$
+$$.
 R
   ⾟ + 6
 U
@@ -2915,7 +2920,7 @@ $$
 
 ### 鷀4 | _(4)Ts(')z'_ [[ci4]]
 
-$$
+$$.
 R
   ⿃ + 10
 U
@@ -3061,6 +3066,7 @@ U
   U+67FF
 V
   ==
+  - ci4 (Fan Wan)
   - ci5-2 (vernacular rising-tone noun)
   ==
 F
@@ -3069,7 +3075,7 @@ F
   ==
 W
   ====
-  - [[Page~616 (4)柿 _(4)Ts(')z'_ (ci4); here corrected to  _(5)Ts(')z'_ (ci5)]]
+  - [[Page~616 (4)柿 _(4)Ts(')z'_ (ci4); here normalised to  _(5)Ts(')z'_ (ci5)]]
     ==
     - The persimmon, the Diospyrus or China fig;
     - _(1)kon [(5)]ts(')z'_ [[gon1 ci5-2 乾柿]]
