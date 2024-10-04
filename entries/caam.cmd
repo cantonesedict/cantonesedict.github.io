@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2024-07-28
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -132,7 +132,7 @@ $$
 
 ### [叅]1 | _(1)Ts(')(a/)m_ [[caam1]]
 
-$$
+$$.
 R
   ⼛ + 10
 U
@@ -346,7 +346,7 @@ $$
 
 ### 𢡖2 [[⿰忄叅]] | _(2)Ts(')(a/)m_ [[caam2]]
 
-$$
+$$.
 R
   ⼼ + 12
 U
@@ -372,6 +372,10 @@ R
   ⼿ + 11
 U
   U+647B
+V
+  ==
+  - saam2 (per 《廣韻》所斬切)
+  ==
 F
   ==
   - [[F2.64 摻]] 羅而取之
@@ -379,18 +383,14 @@ F
 W
   ====
   - [[Page~554 (2)摻]]
-    --
-    [[Idiosyncratic reading from Fan Wan.
-    **See $摻saam1 and $摻saam2 for the canonical entries.**]]
-    --
+    ==
+    - [[See $摻saam1 for "delicate-hand" senses]];
+    - to take up with the hand.
+    ==
   <##
     ==
-    - saam2 (per 《廣韻》所斬切)
-    ==
-    ==
-    - A delicate hand, a hand with tapering fingers; --> 攕 saam1
-    - fine, tapering, small; --> 攕 saam1
-    - to take up with the hand. --> 摻 saam2
+    - A delicate hand, a hand with tapering fingers; --> 摻 saam1
+    - fine, tapering, small; --> 摻 saam1
     ==
   ##>
   ====
@@ -632,7 +632,7 @@ $$
 
 ### 慙4 | _(4)Ts(')(a/)m_ [[caam4]]
 
-$$
+$$.
 R
   ⼼ + 11
 U
@@ -689,7 +689,7 @@ $$
 
 ### 攙4 | _(4)Ch(')(a/)m_ [[caam4]]
 
-$$
+$$.
 R
   ⼿ + 17
 U
@@ -739,7 +739,7 @@ $$
 
 ### 𥕌4 [[⿰石斬]] | _(4)Ts(')(a/)m_ [[caam4]]
 
-$$
+$$.
 R
   ⽯ + 11
 U
@@ -760,7 +760,7 @@ $$
 
 ### 蚕4 | _(4)Ts(')(a/)m_ [[caam4]]
 
-$$
+$$.
 R
   ⾍ + 4
 U
@@ -913,7 +913,7 @@ $$
 
 ###+ 劖5 | _(5)Ts(')(a/)m_ (caam5)
 
-$$
+$$.
 R
   ⼑ + 17
 U
