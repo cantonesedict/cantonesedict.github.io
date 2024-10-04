@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2024-05-05
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -73,6 +73,10 @@ R
   ⼁ + 2
 U
   U+4E2B
+V
+  ==
+  - ngaa1 (ng prepend)
+  ==
 F
   ==
   - [[F2.74 丫]] 木之枝頭也
@@ -258,6 +262,10 @@ R
   ⿃ + 4
 U
   U+9D09
+V
+  ==
+  - ngaa1 (ng prepend)
+  ==
 F
   ==
   - [[F2.74 鴉]] 鳥名
@@ -307,6 +315,10 @@ U
 A
   ==
   - $瘂2
+  ==
+V
+  ==
+  - ngaa2 (ng prepend)
   ==
 F
   ==
@@ -413,7 +425,7 @@ A
   ==
 V
   ==
-  - a3 (shorter syllable)
+  - ngaa3 (ng prepend)
   ==
 F
   ==
@@ -534,6 +546,10 @@ R
   ⼥ + 8
 U
   U+5A6D
+V
+  ==
+  - ngaa3 (ng prepend)
+  ==
 F
   ==
   - [[F2.76 亞]] 姻婭兩壻相謂曰婭
