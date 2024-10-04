@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaat
-* %date-modified --> 2024-08-27
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -190,7 +190,7 @@ $$
 
 ### 茁3 | _Ch(a/)t(8)_ [[zaat3]]
 
-$$
+$$.
 R
   ⾋ + 5
 U
@@ -252,7 +252,7 @@ $$
 
 ### 曱6 | _[Ts(a/)t(9)]_ [[zaat6]]
 
-$$
+$$.
 R
   ⽈ + 1
 U
