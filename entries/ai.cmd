@@ -68,7 +68,7 @@ A
 V
   ==
   - aai1 (longer syllable for particle sense)
-  - ngai1 (ng prepend for "beg" sense)
+  - ngai1 (common for "beg" sense)
   ==
 F
   [[Not present]]
