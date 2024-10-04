@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2024-07-28
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -315,15 +315,11 @@ $$
 
 ### 吒3 | _Ch(')(a/)(3)_ [[caa3]]
 
-$$
+$$.
 R
   ⼝ + 3
 U
   U+5412
-A
-  ==
-  - $咤3
-  ==
 F
   [[Not present]]
 W
@@ -345,7 +341,7 @@ $$
 
 ### 咤3 | _Ch(')(a/)(3)_ [[caa3]]
 
-$$
+$$.
 R
   ⼝ + 6
 U
@@ -361,7 +357,7 @@ W
     Used for the last [[$詫3]]. [[**See $詫caa3 for the canonical entry.**]]
     --
     --
-    [[Otherwise, an alternative form of 吒. **See $吒caa3 for the canonical entry.**]]
+    [[Otherwise, an alternative form of 吒, and an idiosyncratic reading from Williams. **See $吒zaa3 for the canonical entry.**]]
     --
   ====
 $$
@@ -392,7 +388,7 @@ $$
 
 ### 蜡3 | _Ch(')(a/)(3)_ [[caa3]]
 
-$$
+$$.
 R
   ⾍ + 8
 U
@@ -715,7 +711,7 @@ $$
 
 ###+ 扠5 | _(5)Ch(')(a/)_ (caa5)
 
-$$
+$$.
 R
   ⼿ + 3
 U
