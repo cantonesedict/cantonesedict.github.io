@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2024-07-15
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -153,7 +153,7 @@ $$
 
 ### 祲1 | _(1)Ts(')am_ [[cam1]]
 
-$$
+$$.
 R
   ⽰ + 7
 U
@@ -201,7 +201,7 @@ $$
 
 ### 鋟1 | _(1)Ts(')am_ [[cam1]]
 
-$$
+$$.
 R
   ⾦ + 7
 U
@@ -345,7 +345,7 @@ $$
 
 ### [魫]2 | _(2)Ch(')am_ [[cam2]]
 
-$$
+$$.
 R
   ⿂ + 4
 U
@@ -392,7 +392,7 @@ $$
 
 ### 譖3 | _Ch(')am(3)_ [[cam3]]
 
-$$
+$$.
 R
   ⾔ + 12
 U
@@ -406,6 +406,9 @@ W
   - [[Page~15|n58 譖(3)]]
     --
     [[Reading variation. **See $譖zam3 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 讖 (for the vernacular "long-winded" sense). **See $讖cam3 for the canonical entry.**]]
     --
   ====
 C
@@ -428,6 +431,7 @@ U
 A
   ==
   -{.modern} 唚 (for vernacular "long-winded" sense)
+  -{.modern} $譖3 (for vernacular "long-winded" sense)
   ==
 F
   ==
@@ -569,7 +573,7 @@ $$
 
 ### 沈4 | _(4)Ch(')am_ [[cam4]]
 
-$$
+$$.
 R
   ⽔ + 4
 U
