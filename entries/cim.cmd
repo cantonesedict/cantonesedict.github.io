@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2024-07-28
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -96,7 +96,7 @@ $$
 
 ### 𠠃1 [[⿰⿳从一韭刂]] | _(1)Ts(')(i/)m_ [[cim1]]
 
-$$
+$$.
 R
   ⼑ + 14
 U
@@ -206,7 +206,7 @@ $$
 
 ###+ 幨1 | _(1)Ch(')(i/)m_ (cim1)
 
-$$
+$$.
 R
   ⼱ + 13
 U
@@ -580,7 +580,7 @@ $$
 
 ### [讇]2 | _(2)Ch(')(i/)m_ [[cim2]]
 
-$$
+$$.
 R
   ⾔ + 16
 U
@@ -705,7 +705,7 @@ $$
 
 ### 壍3 | _Ts(')(i/)m(3)_ [[cim3]]
 
-$$
+$$.
 R
   ⼟ + 14
 U
@@ -791,13 +791,17 @@ R
   ⾜ + 13
 U
   U+4828
+V
+  ==
+  - zim1 (Fan Wan)
+  ==
 F
   ==
   - [[F2.47 䠨 _(1)Ch(i/)m_ (zim1)]] 仰視
   ==
 W
   ====
-  - [[Page~16* (1)䠨 _(1)Ch(i/)m_ (zim1); here corrected to _Ch(')(i/)m(3)_ (cim3)]]
+  - [[Page~16* (1)䠨 _(1)Ch(i/)m_ (zim1); here normalised to _Ch(')(i/)m(3)_ (cim3)]]
     ==
     - A horse traveling at full speed.
     ==
@@ -914,7 +918,7 @@ $$
 
 ### 潜4 | _(4)Ts(')(i/)m_ [[cim4]]
 
-$$
+$$.
 R
   ⽔ + 12
 U
