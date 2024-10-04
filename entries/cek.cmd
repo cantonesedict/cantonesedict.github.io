@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cek
-* %date-modified --> 2024-06-25
+* %date-modified --> 2024-10-04
 * %copyright-prior-years -->
 
 %%%
@@ -82,6 +82,7 @@ U
 V
   ==
   - cek3-2 (in 間尺)
+  - cik3 (uncommon)
   ==
 F
   ==
@@ -211,7 +212,7 @@ $$
 
 ###+ 赤3 | _Ch(')ek(8)_ (cek3)
 
-$$
+$$.
 R
   ⾚ + 0
 U
