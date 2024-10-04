@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2024-07-28
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -405,7 +405,7 @@ $$
 
 ### 痄2 | _(2)Ch(a/)_ [[zaa2]]
 
-$$
+$$.
 R
   ⽧ + 5
 U
