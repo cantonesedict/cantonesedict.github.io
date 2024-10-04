@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ciu
-* %date-modified --> 2024-08-27
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -222,7 +222,7 @@ $$
 
 ###+ 鍫1 | _(1)Ts(')i(u/)_ (ciu1)
 
-$$
+$$.
 R
   ⾦ + 9
 U
@@ -289,7 +289,7 @@ $$
 
 ### 俏2 | _(2)Ts(')i(u/)_ [[ciu2]]
 
-$$
+$$.
 R
   ⼈ + 7
 U
@@ -313,7 +313,7 @@ $$
 
 ### 峭2 | _(2)Ts(')i(u/)_ [[ciu2]]
 
-$$
+$$.
 R
   ⼭ + 7
 U
@@ -409,7 +409,7 @@ $$
 
 ### 鞘2 | _(2)Ts(')i(u/)_ [[ciu2]]
 
-$$
+$$.
 R
   ⾰ + 7
 U
@@ -622,7 +622,7 @@ $$
 
 ### 譙3 | _Ts(')i(u/)(3)_ [[ciu3]]
 
-$$
+$$.
 R
   ⾔ + 12
 U
@@ -648,7 +648,7 @@ $$
 
 ### 鍫3 | _Ts(')i(u/)(3)_ [[ciu3]]
 
-$$
+$$.
 R
   ⾦ + 9
 U
