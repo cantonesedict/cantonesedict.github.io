@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zak
-* %date-modified --> 2024-10-02
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -230,7 +230,7 @@ $$
 
 ### 簀1 | _Chak(7)_ [[zak1]]
 
-$$
+$$.
 R
   ⽵ + 11
 U
@@ -261,7 +261,7 @@ $$
 
 ### 賾1 | _Chak(7)_ [[zak1]]
 
-$$
+$$.
 R
   ⾙ + 11
 U
@@ -292,7 +292,7 @@ $$
 
 ### 鯽1 | _Tsak(7)_ [[zak1]]
 
-$$
+$$.
 R
   ⿂ + 7
 U
