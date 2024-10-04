@@ -722,7 +722,7 @@ class Page:
                     r'(?: \) | \]\] )'
                     r'(?: \^ )?'
                     r'\n\n'
-                    r'[$]{2} \n'
+                    r'[$]{2} [.]? \n'
                     r'(?P<content>'
                     r'R \n'
                     r'[ ]{2} (?P<radical> \S ) [ ][+][ ] (?P<residual_stroke_count> [0-9]+ ) \n'

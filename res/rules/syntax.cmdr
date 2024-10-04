@@ -100,10 +100,16 @@ PartitioningReplacement: #.syntax.entry-values
 - tag_name: dd
 
 
+OrdinaryDictionaryReplacement: #.syntax.dot-to-non-canonical-entry
+- queue_position: BEFORE #divisions
+* $$. --> $${-class}
+
+
 FixedDelimitersReplacement: #.syntax.entries
 - queue_position: BEFORE #divisions
 - syntax_type: BLOCK
 - opening_delimiter: $$
+- attribute_specifications: .canonical
 - content_replacements:
     #unordered-lists
     #.syntax.entry-key-abbreviations
