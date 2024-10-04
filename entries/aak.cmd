@@ -161,6 +161,7 @@ U
 V
   ==
   - ak1 (shorter syllable)
+  - ngaak1 (ng prepend)
   ==
 F
   ==
@@ -189,10 +190,6 @@ R
   ⾩ + 4
 U
   U+9628
-V
-  ==
-  - ak1 (shorter syllable)
-  ==
 F
   [[Not present]]
 W
