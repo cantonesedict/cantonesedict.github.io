@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2024-07-14
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -139,7 +139,7 @@ $$
 
 ###+ 寁2 | _(2)Ts(a/)m_ (zaam2)
 
-$$
+$$.
 R
   ⼧ + 8
 U
@@ -215,7 +215,7 @@ $$
 
 ###+ 眨2 | _(2)Ch(a/)m_ (zaam2)
 
-$$
+$$.
 R
   ⽬ + 5
 U
@@ -348,7 +348,7 @@ $$
 
 ### 鏨5 | _(5)Ts(a/)m_ [[zaam5]]
 
-$$
+$$.
 R
   ⾦ + 11
 U
@@ -482,7 +482,7 @@ $$
 
 ### 賺6 | _Ch(a/)m(6)_ [[zaam6]]
 
-$$
+$$.
 R
   ⾙ + 10
 U
@@ -513,7 +513,7 @@ $$
 
 ###+ 鏨6 | _Ts(a/)m(6)_ (zaam6)
 
-$$
+$$.
 R
   ⾦ + 11
 U
