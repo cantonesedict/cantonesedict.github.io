@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2024-07-15
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -189,7 +189,7 @@ $$
 
 ### 碪1 | _(1)Cham_ [[zam1]]
 
-$$
+$$.
 R
   ⽯ + 9
 U
@@ -341,7 +341,7 @@ $$
 
 ### 鍼1 | _(1)Cham_ [[zam1]]
 
-$$
+$$.
 R
   ⾦ + 9
 U
@@ -572,7 +572,7 @@ W
   ==
   - [[Page~551 沁(3)]]
     --
-    [[Idiosyncratic reading from Fan Wan. **See $沁sam3 for the canonical entry.**]]
+    [[Reading variation. **See $沁sam3 for the canonical entry.**]]
     --
   ==
 S
