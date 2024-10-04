@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cat
-* %date-modified --> 2024-08-27
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -232,7 +232,7 @@ $$
 
 ###+ 𫵱6 (⿱山十) | _Ts(')at(9)_ (cat6)
 
-$$
+$$.
 R
   ⼭ + 2
 U
