@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2024-07-15
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -62,7 +62,7 @@ $$
 
 ### 儧2 | _(2)Ts(a/)n_ [[zaan2]]
 
-$$
+$$.
 R
   ⼈ + 15
 U
@@ -204,7 +204,7 @@ $$
 
 ###+ 棧2 | _(2)Ch(a/)n_ (zaan2)
 
-$$
+$$.
 R
   ⽊ + 8
 U
@@ -288,7 +288,7 @@ $$
 
 ### 䟎2 | _(2)Ts(a/)n_ [[zaan2]]
 
-$$
+$$.
 R
   ⾛ + 15
 U
@@ -400,7 +400,7 @@ $$
 
 ###+ 撰3 | _Ch(a/)n(3)_ (zaan3)
 
-$$
+$$.
 R
   ⼿ + 12
 U
@@ -423,7 +423,7 @@ $$
 
 ### 濺3 | _Ts(a/)n(3)_ [[zaan3]]
 
-$$
+$$.
 R
   ⽔ + 15
 U
@@ -718,7 +718,7 @@ $$
 
 ### 站6 | _Ch(a/)n(6)_ [[zaan6]]
 
-$$
+$$.
 R
   ⽴ + 5
 U
@@ -918,7 +918,7 @@ $$
 
 ### 贃6 | _Ch(a/)n(6)_ [[zaan6]]
 
-$$
+$$.
 R
   ⾙ + 11
 U
