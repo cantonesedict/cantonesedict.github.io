@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cik
-* %date-modified --> 2024-07-31
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -64,7 +64,7 @@ $$
 
 ### 勅1 | _Ch(')ik(7)_ [[cik1]]
 
-$$
+$$.
 R
   ⼒ + 7
 U
@@ -288,7 +288,7 @@ $$
 
 ### 螫1 | _Ch(')ik(7)_ [[cik1]]
 
-$$
+$$.
 R
   ⾍ + 11
 U
@@ -370,7 +370,7 @@ $$
 
 ### 鷘1 | _Ch(')ik(7)_ [[cik1]]
 
-$$
+$$.
 R
   ⿃ + 11
 U
@@ -454,7 +454,7 @@ $$
 
 ### 𤷫3 [[⿸疒刺]] | _Ts(')ik(8)_ [[cik3]]
 
-$$
+$$.
 R
   ⽧ + 8
 U
