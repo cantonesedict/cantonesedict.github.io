@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zan
-* %date-modified --> 2024-07-15
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -103,7 +103,7 @@ $$
 
 ### 甄1 | _(1)Chan_ [[zan1]]
 
-$$
+$$.
 R
   ⽡ + 9
 U
@@ -125,7 +125,7 @@ $$
 
 ### 眞1 | _(1)Chan_ [[zan1]]
 
-$$
+$$.
 R
   ⽬ + 5
 U
@@ -388,7 +388,7 @@ $$
 
 ### 鎭3 | _Chan(3)_ [[zan3]]
 
-$$
+$$.
 R
   ⾦ + 10
 U
@@ -646,7 +646,7 @@ $$
 
 ### 陳6 | _Chan(6)_ [[zan6]]
 
-$$
+$$.
 R
   ⾩ + 8
 U
