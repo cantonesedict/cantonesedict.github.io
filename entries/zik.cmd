@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2024-07-15
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -170,7 +170,7 @@ $$
 
 ### 卽1 | _Tsik(7)_ [[zik1]]
 
-$$
+$$.
 R
   ⼙ + 7
 U
@@ -241,7 +241,7 @@ $$
 
 ### 喞1 | _Tsik(7)_ [[zik1]]
 
-$$
+$$.
 R
   ⼝ + 9
 U
@@ -261,7 +261,7 @@ $$
 
 ### 嘖1 | _Tsik(7)_ [[zik1]]
 
-$$
+$$.
 R
   ⼝ + 11
 U
@@ -746,7 +746,7 @@ $$
 
 ### 蹟1 | _Tsik(7)_ [[zik1]]
 
-$$
+$$.
 R
   ⾜ + 11
 U
@@ -768,7 +768,7 @@ $$
 
 ### 迹1 | _Tsik(7)_ [[zik1]]
 
-$$
+$$.
 R
   ⾡ + 6
 U
@@ -873,7 +873,7 @@ $$
 
 ### 瘠3 | _Tsik(8)_ [[zik3]]
 
-$$
+$$.
 R
   ⽧ + 10
 U
@@ -897,7 +897,7 @@ $$
 
 ### 脊3 | _Tsik(8)_ [[zik3]]
 
-$$
+$$.
 R
   ⾁ + 6
 U
@@ -921,7 +921,7 @@ $$
 
 ### 蹐3 | _Tsik(8)_ [[zik3]]
 
-$$
+$$.
 R
   ⾜ + 10
 U
@@ -945,7 +945,7 @@ $$
 
 ### 隻3 | _Chik(8)_ [[zik3]]
 
-$$
+$$.
 R
   ⾫ + 2
 U
@@ -969,7 +969,7 @@ $$
 
 ### 鶺3 | _Tsik(8)_ [[zik3]]
 
-$$
+$$.
 R
   ⿃ + 10
 U
@@ -1046,7 +1046,7 @@ I have corrected Williams by placing 隻, 蹠跖, 炙, and 摭拓 under $zek3.]]
 
 ### 値6 | _Chik(9)_ [[zik6]]
 
-$$
+$$.
 R
   ⼈ + 8
 U
@@ -1702,7 +1702,7 @@ $$
 
 ###+ 蟄6 | _Chik(9)_ (zik6)
 
-$$
+$$.
 R
   ⾍ + 11
 U
