@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2024-09-23
+* %date-modified --> 2024-10-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -83,7 +83,7 @@ W
   ====
   - [[Page~16* (1)儃]]
     --
-    [[Idiosyncratic reading from Williams. **See $儃sin4 for the canonical entry.**]]
+    [[Reading variation. **See $儃sin4 for the canonical entry.**]]
     --
     --
     Read _sh(i/)n[(6)]_ [[sin6]]; [[**see $儃sin6**]].
@@ -152,7 +152,7 @@ $$
 
 ### 毡1 | _(1)Ch(i/)n_ [[zin1]]
 
-$$
+$$.
 R
   ⽑ + 5
 U
@@ -221,7 +221,7 @@ $$
 
 ### 氊1 | _(1)Ch(i/)n_ [[zin1]]
 
-$$
+$$.
 R
   ⽑ + 13
 U
@@ -479,7 +479,7 @@ $$
 
 ### 顫1 | _(1)Ch(i/)n_ [[zin1]]
 
-$$
+$$.
 R
   ⾴ + 13
 U
@@ -492,15 +492,9 @@ W
   ====
   - [[Page~17* (1)顫]]
     --
-    [[Idiosyncratic reading from Fan Wan. **See $顫zin3 for the canonical entry.**]]
+    [[Reading variation. **See $顫zin3 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - The level-tone reading _(1)ch(i/)n_ (zin1) is only attested
-    with the explanation "to discern smells";
-    Kangxi quotes 又《集韻》《韻會》《正韻》𠀤尸連切音羶《集韻》謂審於氣臭也《莊子外物篇》鼻徹爲顫《音義》顫舒延反.
-  ==
 S
   ==
   - $顫zin3
@@ -731,7 +725,7 @@ $$
 
 ### 碾2 | _(2)Ch(i/)n_ [[zin2]]
 
-$$
+$$.
 R
   ⽯ + 10
 U
@@ -836,7 +830,7 @@ $$
 
 ### 謭2 | _(2)Ts(i/)n_ [[zin2]]
 
-$$
+$$.
 R
   ⾔ + 11
 U
@@ -1008,7 +1002,7 @@ $$
 
 ###+ 墊3 | _Ts(i/)n(3)_ (zin3)
 
-$$
+$$.
 R
   ⼟ + 11
 U
@@ -1443,13 +1437,17 @@ R
   ⾴ + 13
 U
   U+986B
+V
+  ==
+  - zin1 (Fan Wan)
+  ==
 F
   ==
   - [[F1.20 顫 _(1)Ch(i/)n_ (zin1)]] 四肢奏掉曰顫
   ==
 W
   ====
-  - [[Page~17* (1)顫 _(1)Ch(i/)n_ (zin1); here corrected to _Ch(i/)n(3)_ (zin3)]]
+  - [[Page~17* (1)顫 _(1)Ch(i/)n_ (zin1); here normalised to _Ch(i/)n(3)_ (zin3)]]
     ==
     - The head awry;
     - shivering with cold;
@@ -1463,6 +1461,12 @@ W
         shivering.
     ==
   ====
+C
+  ==
+  - The level-tone reading _(1)ch(i/)n_ (zin1) is only attested
+    with the explanation "to discern smells";
+    Kangxi quotes 又《集韻》《韻會》《正韻》𠀤尸連切音羶《集韻》謂審於氣臭也《莊子外物篇》鼻徹爲顫《音義》顫舒延反.
+  ==
 S
   ==
   - $顫zin1
@@ -1587,7 +1591,7 @@ $$
 
 ### 踐6 | _Ts(i/)n(6)_ [[zin6]]
 
-$$
+$$.
 R
   ⾜ + 8
 U
