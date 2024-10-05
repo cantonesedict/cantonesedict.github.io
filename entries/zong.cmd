@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zong
-* %date-modified --> 2024-09-25
+* %date-modified --> 2024-10-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -123,7 +123,7 @@ $$
 
 ### 庄1 | _(1)Chong_ [[zong1]]
 
-$$
+$$.
 R
   ⼴ + 3
 U
@@ -199,7 +199,7 @@ $$
 
 ###+ 𥊙1 (⿰目⿳囟儿夊) | _(1)Chong_ (zong1)
 
-$$
+$$.
 R
   ⽬ + 11
 U
@@ -216,7 +216,7 @@ $$
 
 ### 粧1 | _(1)Chong_ [[zong1]]
 
-$$
+$$.
 R
   ⽶ + 6
 U
@@ -490,7 +490,7 @@ $$
 
 ### 賍1 | _(1)Tsong_ [[zong1]]
 
-$$
+$$.
 R
   ⾙ + 6
 U
@@ -576,7 +576,7 @@ $$
 
 ### 塟3 | _Tsong[(3)]_ [[zong3]]
 
-$$
+$$.
 R
   ⼟ + 10
 U
