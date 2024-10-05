@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoi
-* %date-modified --> 2024-09-15
+* %date-modified --> 2024-10-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -222,7 +222,7 @@ $$
 
 ### 灾1 | _(1)Tsoi_ [[zoi1]]
 
-$$
+$$.
 R
   ⽕ + 3
 U
@@ -245,7 +245,7 @@ $$
 
 ### 烖1 | _(1)Tsoi_ [[zoi1]]
 
-$$
+$$.
 R
   ⽕ + 6
 U
@@ -268,7 +268,7 @@ $$
 
 ###+ 甾1 | _(1)Tsoi_ (zoi1)
 
-$$
+$$.
 R
   ⽥ + 3
 U
@@ -289,7 +289,7 @@ $$
 
 ###+ 菑1 | _(1)Tsoi_ (zoi1)
 
-$$
+$$.
 R
   ⾋ + 8
 U
