@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoek
-* %date-modified --> 2024-09-10
+* %date-modified --> 2024-10-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -75,6 +75,7 @@ U
   U+52FA
 V
   ==
+  - coek3 (common)
   - soek3 (common)
   ==
 F
@@ -203,7 +204,7 @@ $$
 
 ### 杓3 | _Ch(e/)uk(8)_ [[zoek3]]
 
-$$
+$$.
 R
   ⽊ + 3
 U
@@ -228,7 +229,7 @@ $$
 
 ###+ 桌3 | _Ch(e/)uk(8)_ (zoek3)
 
-$$
+$$.
 R
   ⽊ + 6
 U
@@ -249,7 +250,7 @@ $$
 
 ###+ 棹3 | _Ch(e/)uk(8)_ (zoek3)
 
-$$
+$$.
 R
   ⽊ + 8
 U
@@ -549,7 +550,7 @@ $$
 
 ### 著3 | _Ch(e/)uk(8)_ [[zoek3]]
 
-$$
+$$.
 R
   ⾋ + 8
 U
@@ -770,7 +771,7 @@ $$
 
 ### 嚼6 | _Ts(e/)uk(9)_ [[zoek6]]
 
-$$
+$$.
 R
   ⼝ + 17
 U
@@ -794,7 +795,7 @@ $$
 
 ### 爝6 | _Ts(e/)uk(9)_ [[zoek6]]
 
-$$
+$$.
 R
   ⽕ + 17
 U
@@ -818,7 +819,7 @@ $$
 
 ### 皭6 | _Ts(e/)uk(9)_ [[zoek6]]
 
-$$
+$$.
 R
   ⽩ + 17
 U
@@ -964,7 +965,7 @@ $$
 
 ###+ 著6 | _Ch(e/)uk(9)_ (zoek6)
 
-$$
+$$.
 R
   ⾋ + 8
 U
