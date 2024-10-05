@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2024-07-21
+* %date-modified --> 2024-10-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -405,7 +405,7 @@ $$
 
 ### 䊢1 | _(1)Ts(e/)ung_ [[zoeng1]]
 
-$$
+$$.
 R
   ⽶ + 11
 U
@@ -583,7 +583,7 @@ $$
 
 ### 奬2 | _(2)Ts(e/)ung_ [[zoeng2]]
 
-$$
+$$.
 R
   ⼤ + 11
 U
@@ -848,7 +848,7 @@ $$
 
 ###+ 仗3 | _Ch(e/)ung(3)_ (zoeng3)
 
-$$
+$$.
 R
   ⼈ + 3
 U
