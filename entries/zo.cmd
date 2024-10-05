@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zo
-* %date-modified --> 2024-07-29
+* %date-modified --> 2024-10-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -150,7 +150,7 @@ $$
 
 ###+ 唨2 | _(2)Cho_ (zo2)
 
-$$
+$$.
 R
   ⼝ + 8
 U
@@ -264,7 +264,7 @@ $$
 
 ### 爼2 | _(2)Cho_ [[zo2]]
 
-$$
+$$.
 R
   ⽘ + 5
 U
