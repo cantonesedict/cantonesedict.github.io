@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2024-09-30
+* %date-modified --> 2024-10-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -250,7 +250,7 @@ $$
 
 ### 猪1 | _(1)Ch(u")_ [[zyu1]]
 
-$$
+$$.
 R
   ⽝ + 8
 U
@@ -415,7 +415,7 @@ $$
 
 ### 䏭1 | _(1)Ch(u")_ [[zyu1]]
 
-$$
+$$.
 R
   ⾁ + 6
 U
@@ -1381,7 +1381,7 @@ $$
 
 ### 筯6 | _Ch(u")(6)_ [[zyu6]]
 
-$$
+$$.
 R
   ⽵ + 7
 U
