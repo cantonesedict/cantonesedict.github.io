@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zok
-* %date-modified --> 2024-09-17
+* %date-modified --> 2024-10-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -117,7 +117,7 @@ $$
 
 ###+ 昨3 | _Tsok(8)_ (zok3)
 
-$$
+$$.
 R
   ⽇ + 5
 U
