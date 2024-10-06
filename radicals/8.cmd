@@ -146,7 +146,6 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $鏨caam5
-      - $鏨zaam5
       - $鏨zaam6
       - $鏟caan2
       - $鏚cik1

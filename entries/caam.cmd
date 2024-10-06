@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-10-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -974,7 +974,7 @@ S
   ==
 $$
 
-###+ 鏨5 | _(5)Ts(')(a/)m_ (caam5)
+### 鏨5 | _(5)[Ts(')(a/)m]_ [[caam5]]
 
 $$
 R
@@ -1045,7 +1045,6 @@ E
   ====
 S
   ==
-  - $鏨zaam5
   - $鏨zaam6
   ==
 $$
