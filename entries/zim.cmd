@@ -521,11 +521,15 @@ $$
 
 ### 䠨1 | _(1)Ch(i/)m_ [[zim1]]
 
-$$.
+$$
 R
   ⾜ + 13
 U
   U+4828
+V
+  ==
+  - cim3 (per 《廣韻》昌豔切)
+  ==
 F
   ==
   - [[F2.47 䠨]] 仰視
@@ -533,9 +537,9 @@ F
 W
   ====
   - [[Page~16* (1)䠨]]
-    --
-    [[Reading variation. **See $䠨cim3 for the canonical entry.**]]
-    --
+    ==
+    - A horse traveling at full speed.
+    ==
   ====
 S
   ==

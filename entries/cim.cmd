@@ -765,26 +765,19 @@ $$
 
 ###+ 䠨3 | _Ch(')(i/)m(3)_ (cim3)
 
-$$
+$$.
 R
   ⾜ + 13
 U
   U+4828
-V
-  ==
-  - zim1 (Fan Wan)
-  ==
 F
-  ==
-  - [[F2.47 䠨 _(1)Ch(i/)m_ (zim1)]] 仰視
-  ==
+  [[Not present]]
 W
-  ====
-  - [[Page~16* (1)䠨 _(1)Ch(i/)m_ (zim1); here normalised to _Ch(')(i/)m(3)_ (cim3)]]
-    ==
-    - A horse traveling at full speed.
-    ==
-  ====
+  [[Not present]]
+C
+  ==
+  - Reading variation (per 《廣韻》昌豔切). **See $䠨zim1 for the canonical entry.**
+  ==
 S
   ==
   - $䠨zim1
