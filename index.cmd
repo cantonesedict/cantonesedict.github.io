@@ -152,7 +152,7 @@ that version has severe paging issues:
   See [Eitel's Introduction] for details.
   --
 
-- [粵音資料集叢 (jyut.net)](https://jyut.net/)
+- [粵音資料集叢 (jyut.net)](https://jyut.net/), 石見田.
   --
   A database of Cantonese readings from various dictionaries.
   --
