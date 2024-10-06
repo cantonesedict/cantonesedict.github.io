@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> co
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-10-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -827,7 +827,7 @@ U
   U+7625
 V
   ==
-  - co1 (Williams)
+  - co1 (per Williams)
   ==
 F
   [[Not present]]

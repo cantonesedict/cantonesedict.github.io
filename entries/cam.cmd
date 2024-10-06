@@ -130,7 +130,7 @@ U
   U+6D78
 V
   ==
-  - zam3 (Williams, common)
+  - zam3 (per Williams, common)
   ==
 F
   [[Not present]]

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-10-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -388,7 +388,7 @@ U
   U+562C
 V
   ==
-  - saai3 (Williams alternative)
+  - saai3 (alternative per Williams)
   - zyut3 (for vernacular "suck" sense)
   ==
 F

@@ -942,7 +942,7 @@ U
   U+68D6
 V
   ==
-  - caan5 (Williams)
+  - caan5 (per Williams)
   ==
 F
   [[Not present]]

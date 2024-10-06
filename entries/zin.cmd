@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-10-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1327,7 +1327,7 @@ A
 V
   ==
   - din3 (for 墊 "padding")
-  - din6 (Williams for 墊 "padding")
+  - din6 (per Williams for 墊 "padding")
   - zin3-2 (vernacular rising-tone for "padding" senses)
   ==
 F
