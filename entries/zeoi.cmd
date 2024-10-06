@@ -56,6 +56,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $且1
+- $沮1
 - $疽1
 - $睢1
 - $苴1
@@ -91,6 +92,40 @@ W
 S
   ==
   - $且ce2
+  ==
+$$
+
+### 沮1 | _(1)Ts(u")_ [[zeoi1]]
+
+$$
+R
+  ⽔ + 5
+U
+  U+6CAE
+F
+  ==
+  - [[F1.44 沮]] 水名
+  ==
+W
+  ====
+  - [[Page~594 (1)沮]]
+    ==
+    - The name of an affluent of the Y(a/)ngtsz' ki(a/)ng [[揚子江]]
+      west of [Kingchau] f(u/) [[荊州府]] in H(u/)peh [[湖北]];
+    - an ancient district now the extreme southwest of Shens(i/) [[陝西]].
+    ==
+  ====
+C
+  ==
+  - Based on the presence of a bracket,
+    Williams considers rising-tone _(2)ts(u")_ (zeoi2)
+    an acceptable reading for the name sense.
+    This is incorrect.
+  - Williams' 荊州府: Corrected "K'ingchau" to unaspirated "Kingchau".
+  ==
+S
+  ==
+  - $沮zeoi2 (TODO)
   ==
 $$
 
