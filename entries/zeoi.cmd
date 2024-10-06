@@ -60,6 +60,7 @@ $$
 - $睢1
 - $追1
 - $錐1
+- $雎1
 - $騅1
 ==
 </nav>
@@ -148,6 +149,13 @@ W
     - [[otherwise **see $睢seoi1**]].
     ==
   ====
+C
+  ==
+  - The reading _(1)ts(u")_ (zeoi1) for 睢
+    is not attested in the Middle Chinese rime books.
+    It is possible that Williams has mistaken it for 雎,
+    which is what is present in Fan Wan (see $雎zeoi1).
+  ==
 S
   ==
   - $睢fai1 (TODO)
@@ -251,6 +259,33 @@ W
         miserably poor, not a place to stick an awl.
     ==
   ====
+$$
+
+###+ 雎1 | _(1)Ts(u")_ (zeoi1)
+
+$$
+R
+  ⾫ + 5
+U
+  U+96CE
+V
+  ==
+  - ceoi1 (per 《廣韻》七余切)
+  ==
+F
+  ==
+  - [[F1.44 雎]] 水鳥詩關關雎鳩
+  ==
+W
+  [[Not present]]
+C
+  ==
+  - Not present in Williams (who may have confused it with 睢, see $睢zeoi1);
+    an entry is included here for completeness.
+    ++
+    1. A type of waterbird.
+    ++
+  ==
 $$
 
 ### 騅1 | _(1)Chui_ [[zeoi1]]
