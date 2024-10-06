@@ -60,6 +60,7 @@ $$
 - $睢1
 - $苴1
 - $菹1
+- $趄1
 - $追1
 - $錐1
 - $雎1
@@ -221,6 +222,33 @@ W
     - salted vegetables;
     - a marshy plant or sedge;
     - a marsh.
+    ==
+  ====
+$$
+
+### 趄1 | _(1)Ts(u")_ [[zeoi1]]
+
+$$
+R
+  ⾛ + 5
+U
+  U+8D84
+V
+  ==
+  - ceoi1 (per 《廣韻》七余切)
+  ==
+F
+  ==
+  - [[F1.44 趄]] 趦趄行不進也
+  ==
+W
+  ====
+  - [[Page~594 (1)趄]]
+    ==
+    - To walk slowly, impeded in going;
+    - _(1)tsz' (1)ts(u")_
+        [[zi1 zeoi1 趑趄]],
+        hobbling, walking step by step.
     ==
   ====
 $$
