@@ -109,7 +109,7 @@ W
   ====
 C
   ==
-  - Williams' 丫頭, 丫鬟: Yes, people kept slaves in the 19th century.
+  - Williams' 丫頭, 丫鬟: Yes, people kept slaves in the 19th~century.
   - Williams' 丫頭, 丫鬟, 丫角髻: From the double-bun hairstyle.
   - Williams' 三丫路: Now rarely heard; 三叉路 is more common.
   ==
