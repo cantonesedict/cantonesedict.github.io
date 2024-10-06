@@ -446,6 +446,7 @@ $$
 =={.modern}
 - $咀2
 - $沮2
+- $齟2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -536,6 +537,32 @@ S
   ==
   - $沮zeoi1
   - $沮zeoi3
+  ==
+$$
+
+### 齟2 | _(2)Ts(u")_ [[zeoi2]]
+
+$$
+R
+  ⿒ + 5
+U
+  U+9F5F
+F
+  ==
+  - [[F1.46 齟]] 齟齬不相合也
+  ==
+W
+  ====
+  - [[Page~595 (2)齟]]
+    ==
+    - Irregular teeth, which do not interlock easily;
+    - discordant, as opinions, incongruous;
+    - to bite, to chew.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: The radical of the headword is printed very poorly.
   ==
 $$
 
