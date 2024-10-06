@@ -251,15 +251,28 @@ class Updater:
             )
             sys.exit(1)
 
-        bad_williams_unaspirated_45 = re.findall(
+        bad_williams_unaspirated_tone_45 = re.findall(
             pattern=r"\([45]\) (?: p | t(?!s) | k(?!w) | kw | ts | ch) (?! \( ' \) ) \S+",
             string=cmd_content,
             flags=re.IGNORECASE | re.VERBOSE,
         )
-        if bad_williams_unaspirated_45:
+        if bad_williams_unaspirated_tone_45:
             print(
-                f'Error in `{entry_cmd_name}`: bad Williams unaspirated tone 4 or 5 {bad_williams_unaspirated_45}'
+                f'Error in `{entry_cmd_name}`: bad Williams unaspirated tone 4 or 5 {bad_williams_unaspirated_tone_45}'
                 f'(suppress error with caret if unaspiration is legitimate)',
+                file=sys.stderr,
+            )
+            sys.exit(1)
+
+        bad_williams_aspirated_tone_6 = re.findall(
+            pattern=r"(?: p | t | k | kw | ts | ch) \( ' \) \S+ \(6\)",
+            string=cmd_content,
+            flags=re.IGNORECASE | re.VERBOSE,
+        )
+        if bad_williams_aspirated_tone_6:
+            print(
+                f'Error in `{entry_cmd_name}`: bad Williams aspirated tone 6 {bad_williams_aspirated_tone_6}'
+                f'(suppress error with caret if aspiration is legitimate)',
                 file=sys.stderr,
             )
             sys.exit(1)
