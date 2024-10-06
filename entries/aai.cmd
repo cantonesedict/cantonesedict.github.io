@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aai
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-10-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -172,11 +172,11 @@ C
   ==
   - Among the readings attested in Kangxi's Dictionary are:
     ++
-    1. jik1 (伊昔切), meaning "throat" (咽也);
-    1. aai3 (烏懈切), meaning "choke" (噎也).
+    1. _yik(7)_ (jik1) per 伊昔切, meaning "throat" (咽也);
+    1. _(a/)i(3)_ (aai3) per 烏懈切, meaning "choke" (噎也).
     ++
     Williams writes "A colloquial word"
-    presumably because the meaning attested under aai3 ("choke")
+    presumably because the meaning "choke" attested under _(a/)i(3)_ (aai3)
     does not match the vernacular Cantonese meaning.
 
   - Williams' 十嗌九爭銀: "Ten to one" is better rendered as "nine out of ten".

@@ -358,7 +358,6 @@ W
   ====
 C
   ==
-  - The reading cau1 is probably an alternative spelling of 抽.
   - Modern dictionaries distinguish 揫 for the "bind" sense,
     and 揪 for the "grasp/clutch" sense.
   - Kangxi considers 揪 to be the same as 揫,

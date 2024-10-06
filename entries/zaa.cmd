@@ -803,7 +803,7 @@ W
   ====
 C
   ==
-  - The reading zaa3 is per 《廣韻》又音乍.
+  - The reading _ch(a/)(3)_ (zaa3) is per 《廣韻》又音乍.
   ==
 S
   ==

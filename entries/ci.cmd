@@ -986,7 +986,7 @@ W
   ====
 C
   ====
-  - The reading ci2 is not unattested; Kangxi quotes 《正韻》尺里切音侈.
+  - The reading _(2)ch(')(i/)_ (ci2) is not unattested; Kangxi quotes 《正韻》尺里切音侈.
   - Williams' "with the same meanings": This is not quite correct.
     ==
     - 杝 read _(4)(i/)_ (ji4) is the name of a tree, see $杝ji4.

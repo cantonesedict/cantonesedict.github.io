@@ -489,8 +489,9 @@ W
   ====
 C
   ==
-  - The reading cam1 is not unattested; Kangxi quotes 又《集韻》《韻會》千尋切《正韻》千林切𠀤音侵義同.
-    In particular, 《洪武正韻牋》 explains 以瓜刻板 etc.
+  - The alternative reading _(1)ts(')am_ (cam1) is not unattested;
+    Kangxi quotes 又《集韻》《韻會》千尋切《正韻》千林切𠀤音侵義同.
+    In particular, 《洪武正韻牋》 explains it 以瓜刻板 etc.
   ==
 S
   ==

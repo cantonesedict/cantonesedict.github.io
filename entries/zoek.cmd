@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoek
-* %date-modified --> 2024-10-05
+* %date-modified --> 2024-10-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -417,7 +417,8 @@ C
   ==
   - Fan Wan entry: The unidentified character is ⿰正朿,
     possibly a badly typed 疎 (same as 疏).
-  - The reading zoek3 is not unattested; Kangxi quotes 《集韻》卽約切音爵義同.
+  - The reading _ts(e/)uk(8)_ (zoek3) is not unattested;
+    Kangxi quotes 《集韻》卽約切音爵義同.
   ==
 S
   ==

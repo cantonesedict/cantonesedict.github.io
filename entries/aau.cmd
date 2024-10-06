@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aau
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-10-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -262,7 +262,8 @@ W
   ====
 C
   ==
-  - The reading aau3 is not unattested; Kangxi quotes 《集韻》於敎切音拗.
+  - The reading _(a/)u(3)_ (aau3) is not unattested;
+    Kangxi quotes 《集韻》於敎切音拗義同.
   ==
 S
   ==

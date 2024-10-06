@@ -712,13 +712,14 @@ C
   ====
   - 《廣韻》 provides three readings:
     ==
-    - cam4 (per 徐林切)
-    - jam4 (per 餘針切)
-    - taam4 (per 徒含切).
+    - _(4)ts(')am_ (cam4) per 徐林切
+    - _(4)yam_ (jam4) per 餘針切
+    - _(4)t(')(a/)m_ (taam4) per 徒含切.
     ==
     The first two are explained 劒鼻 "sword's nose" (meaning knob)
     and the third is explained 劒口 "sword's mouth" (meaning edge).
-    Based on this, I conclude that the reading taam4 deserves its own entry;
+    Based on this,
+    I conclude that the reading _(4)t(')(a/)m_ (taam4) deserves its own entry;
     see $鐔taam4.
   ====
 S
@@ -806,7 +807,8 @@ C
   ====
   - Williams misprints 魫 as 𩵫 (⿰冘魚); here corrected.
   - See $魫cam2 for commentary on Williams' idiosyncratic reading _(2)ch(')am_ (cam2).
-  - The reading cam4 is not unattested; Kangxi quotes 《集韻》又持林切音沉.
+  - The reading _(4)ch(')am_ (cam4) is not unattested;
+    Kangxi has 又持林切音沉義同.
   ====
 S
   ==
