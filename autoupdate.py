@@ -265,7 +265,7 @@ class Updater:
             sys.exit(1)
 
         bad_williams_aspirated_tone_6 = re.findall(
-            pattern=r"(?: p | t | k | kw | ts | ch) \( ' \) \S+ \(6\)",
+            pattern=r"(?: p | t | k | kw | ts | ch) \( ' \) (?! \^ ) \S+ \(6\)",
             string=cmd_content,
             flags=re.IGNORECASE | re.VERBOSE,
         )
