@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zo
-* %date-modified --> 2024-10-05
+* %date-modified --> 2024-10-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -485,7 +485,7 @@ W
   ====
 C
   ==
-  - Williams' 助成嗰件事: Corrected _ko(3)_ (go3) to _(2)ko_ (go2).
+  - Williams' 助成嗰件事: Changed _ko(3)_ (go3) to modern _(2)ko_ (go2).
   ==
 $$
 

@@ -597,7 +597,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected headword ⿸厂敝 to 厰.
-  - Williams' 嗰間屋好廠: Corrected _ko(3)_ (go3) to _(2)ko_ (go2)
+  - Williams' 嗰間屋好廠: Changed _ko(3)_ (go3) to modern _(2)ko_ (go2)
     and corrected _(4)^k(a/)n_ (gaan4) to _(1)k(a/)n_ (gaan1).
   ==
 $$

@@ -4616,7 +4616,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected 巳 to 己.
-  - Williams' 自來嗰時: Corrected _ko(3)_ (go3) to _(2)ko_ (go2).
+  - Williams' 自來嗰時: Changed _ko(3)_ (go3) to modern _(2)ko_ (go2).
   ==
 $$
 
