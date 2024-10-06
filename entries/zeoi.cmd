@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-10-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -57,6 +57,7 @@ $$
 =={.modern}
 - $且1
 - $疽1
+- $睢1
 - $追1
 - $錐1
 - $騅1
@@ -121,6 +122,36 @@ W
 C
   ==
   - Fan Wan entry: Corrected ⿸疒⿰⿱丿邑隹 to 癰.
+  ==
+$$
+
+### 睢1 | _(1)Ts(u")_ [[zeoi1]]
+
+$$
+R
+  ⽬ + 8
+U
+  U+7762
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~594 (1)睢]]
+    --
+    [[Reading variation (for "glare/gaze-up" senses). **See $睢fai1 for the canonical entry.**]]
+    --
+    --
+    Read _(1)sui_ [[seoi1]];
+    --
+    ==
+    - [[See $睢fai1 for "self-contented" sense]];
+    - [[otherwise **see $睢seoi1**]].
+    ==
+  ====
+S
+  ==
+  - $睢fai1 (TODO)
+  - $睢seoi1 (TODO)
   ==
 $$
 
