@@ -574,7 +574,7 @@ U
   U+811E
 V
   ==
-  - co3 (Fan Wan)
+  - co3 (per Fan Wan)
   ==
 F
   ==

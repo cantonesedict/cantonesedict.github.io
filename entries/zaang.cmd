@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaang
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-10-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -188,7 +188,7 @@ A
   ==
 V
   ==
-  - zang1 (Fan Wan for 踭)
+  - zang1 (per Fan Wan for 踭)
   ==
 F
   ==
@@ -247,7 +247,7 @@ H
   depending on the font.
 V
   ==
-  - zang1 (Fan Wan)
+  - zang1 (per Fan Wan)
   ==
 F
   ==

@@ -331,7 +331,7 @@ U
   U+7DB4
 V
   ==
-  - zeoi6 (Fan Wan, common)
+  - zeoi6 (per Fan Wan, common)
   - zyut3 (common in 點綴)
   - zyut6 (common in 點綴)
   ==

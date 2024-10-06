@@ -1439,7 +1439,7 @@ U
   U+986B
 V
   ==
-  - zin1 (Fan Wan)
+  - zin1 (per Fan Wan)
   ==
 F
   ==

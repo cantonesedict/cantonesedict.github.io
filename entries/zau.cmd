@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-10-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -332,7 +332,7 @@ A
   ==
 V
   ==
-  - cau1 (Fan Wan)
+  - cau1 (per Fan Wan)
   ==
 F
   [[Not present]]
@@ -467,7 +467,7 @@ U
   U+6E6B
 V
   ==
-  - cau1 (Fan Wan)
+  - cau1 (per Fan Wan)
   ==
 F
   ==

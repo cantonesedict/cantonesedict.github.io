@@ -504,7 +504,7 @@ U
   U+9AB4
 V
   ==
-  - ci3 (Fan Wan)
+  - ci3 (per Fan Wan)
   - ci4 (per 《廣韻》疾移切)
   - zi6 (per 《廣韻》疾智切)
   ==
@@ -1100,7 +1100,7 @@ U
   U+6CDA
 V
   ==
-  - cai5 (Fan Wan)
+  - cai5 (per Fan Wan)
   ==
 F
   ==
@@ -1208,7 +1208,7 @@ U
   U+892B
 V
   ==
-  - ci1 (Fan Wan, common)
+  - ci1 (per Fan Wan, common)
   ==
 F
   ==
@@ -3066,7 +3066,7 @@ U
   U+67FF
 V
   ==
-  - ci4 (Fan Wan)
+  - ci4 (per Fan Wan)
   - ci5-2 (vernacular rising-tone noun)
   ==
 F

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-10-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -684,7 +684,7 @@ U
   U+8B56
 V
   ==
-  - cam3 (Fan Wan)
+  - cam3 (per Fan Wan)
   ==
 F
   ==

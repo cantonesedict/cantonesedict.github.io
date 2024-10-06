@@ -1102,7 +1102,7 @@ U
   U+7A67
 V
   ==
-  - zai1 (Fan Wan)
+  - zai1 (per Fan Wan)
   - zai3 (alternative per 《廣韻》子計切)
   ==
 F

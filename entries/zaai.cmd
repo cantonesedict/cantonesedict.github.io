@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-10-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -291,7 +291,7 @@ U
   U+7635
 V
   ==
-  - caai3 (Fan Wan)
+  - caai3 (per Fan Wan)
   ==
 F
   ==
