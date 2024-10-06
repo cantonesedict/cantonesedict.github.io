@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Home
-* %date-modified --> 2024-10-06
+* %date-modified --> 2024-10-07
 * %copyright-prior-years --> 2023--
 * %modern-colour --> crimson
 * %meta-description --> home page
@@ -152,7 +152,7 @@ that version has severe paging issues:
   See [Eitel's Introduction] for details.
   --
 
-- [粵音資料集叢 (jyut.net)](https://jyut.net/), 石見田.
+- [粵音資料集叢 (jyut.net)](https://jyut.net/), by 石見田.
   --
   A database of Cantonese readings from various dictionaries.
   --
