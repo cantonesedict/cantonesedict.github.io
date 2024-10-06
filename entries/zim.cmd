@@ -385,11 +385,19 @@ $$
 
 ### 襜1 | _(1)Ch(i/)m_ [[zim1]]
 
-$$.
+$$
 R
   ⾐ + 13
 U
   U+895C
+A
+  ==
+  - $幨1
+  ==
+V
+  ==
+  - cim1 (per 《廣韻》處占切)
+  ==
 F
   ==
   - [[F2.47 襜]] 整也
@@ -397,9 +405,19 @@ F
 W
   ====
   - [[Page~16* (1)襜]]
-    --
-    [[Reading variation. **See $襜cim1 for the canonical entry.**]]
-    --
+    ==
+    - An apron;
+    - a flap, a skirt;
+    - a curtain of a car;
+    - to adjust, to put the dress in order;
+    - _(4)ts(')(i/)n (1)ch(i/)m_
+        [[cin4 cim1 前襜]],
+        the front skirt;
+    - _(1)ch(i/)m (1)ch(i/)m_
+        [[cim1 cim1 襜襜]],
+        nice and trim;
+        flapping, as a curtain.
+    ==
   ====
 S
   ==
