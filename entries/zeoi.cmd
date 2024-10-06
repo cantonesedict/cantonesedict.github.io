@@ -127,7 +127,7 @@ C
 S
   ==
   - $沮zeoi2
-  - $沮zeoi3 (TODO)
+  - $沮zeoi3
   ==
 $$
 
@@ -497,20 +497,47 @@ C
 S
   ==
   - $沮zeoi1
-  - $沮zeoi3 (TODO)
+  - $沮zeoi3
   ==
 $$
 
 
-##{#3 .williams} <ins class="modern">Chui(3)</ins> Tsui(3) [[zeoi3 陰去]]
+##{#3 .williams} <ins class="modern">Chui(3)</ins> <ins class="modern">Ts(u")(3)</ins> Tsui(3) [[zeoi3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $沮3
 - $綴3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+###+ 沮3 | _Ts(u")(3)_ (zeoi3)
+
+$$
+R
+  ⽔ + 5
+U
+  U+6CAE
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~594 (2)沮 _(2)Ts(u")_ (zeoi2); here corrected to _Ts(u")(3)_ (zeoi3)]]
+    ==
+    - [[...]];
+    - _shap(7) [ts(u")](3)_
+        [[sap1 zeoi3 濕沮]]^,
+        damp, dank.
+    ==
+  ====
+S
+  ==
+  - $沮zeoi1
+  - $沮zeoi2
+  ==
+$$
 
 ###+ 綴3 | _Chui(3)_ (zeoi3)
 
