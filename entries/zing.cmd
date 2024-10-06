@@ -1463,7 +1463,7 @@ F
   ==
 W
   ====
-  - [[Page~21* 鄭(6) _Ch(')ing(6)_ (cing6); here corrected to _Ching(6)_ (zing6)]]
+  - [[Page~21* 鄭(6) _Ch(')^ing(6)_ (cing6); here corrected to _Ching(6)_ (zing6)]]
     --
     [[Reading variation. **See $鄭zeng6 for the canonical entry.**]]
     --
@@ -1471,7 +1471,7 @@ W
 C
   ==
   - Fan Wan entry: Removed extra character 又 at the end.
-  - Williams erroneously puts 鄭 under aspirated _ch(')ing(6)_ (cing6).
+  - Williams erroneously puts 鄭 under aspirated _ch(')^ing(6)_ (cing6).
   ==
 S
   ==

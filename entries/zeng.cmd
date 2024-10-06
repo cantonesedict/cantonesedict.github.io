@@ -249,7 +249,7 @@ F
   ==
 W
   ====
-  - [[Page~21* 鄭(6) _Ch(')ing(6)_ (cing6); here corrected to _Ching(6)_ (zing6) and normalised to _Cheng(6)_ (zeng6)]]
+  - [[Page~21* 鄭(6) _Ch(')^ing(6)_ (cing6); here corrected to _Ching(6)_ (zing6) and normalised to _Cheng(6)_ (zeng6)]]
     ==
     - A feudal state in the Chau [[周]] dynasty,
       now the prefecture of K(a/)ifung [[開封]] in Hon(a/)n [[河南]];
@@ -262,7 +262,7 @@ W
 C
   ==
   - Fan Wan entry: Removed extra character 又 at the end.
-  - Williams erroneously puts 鄭 under aspirated _ch(')ing(6)_ (cing6).
+  - Williams erroneously puts 鄭 under aspirated _ch(')^ing(6)_ (cing6).
   - Williams' 鄭重: In modern usage, only "solemn".
   ==
 S

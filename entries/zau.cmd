@@ -1820,7 +1820,7 @@ W
   ====
 C
   ==
-  - Williams' 籀太史: Corrected _t(')(a/)i(6)_ (taai6) to _t(')(a/)i(3)_ (taai3).
+  - Williams' 籀太史: Corrected _t(')^(a/)i(6)_ (taai6) to _t(')(a/)i(3)_ (taai3).
   ==
 $$
 
