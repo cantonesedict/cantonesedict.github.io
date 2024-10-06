@@ -59,6 +59,7 @@ $$
 - $疽1
 - $睢1
 - $苴1
+- $菹1
 - $追1
 - $錐1
 - $雎1
@@ -197,6 +198,29 @@ W
     - _(1)ts(u") ch(e/)ung(6)_
         [[zeoi1 zoeng6 苴杖]]
         the mourner's staff.
+    ==
+  ====
+$$
+
+### 菹1 | _(1)Ts(u")_ [[zeoi1]]
+
+$$
+R
+  ⾋ + 8
+U
+  U+83F9
+F
+  ==
+  - [[F1.44 菹]] 淹菜
+  ==
+W
+  ====
+  - [[Page~594 (1)菹]]
+    ==
+    - Pickled fruits, like melons;
+    - salted vegetables;
+    - a marshy plant or sedge;
+    - a marsh.
     ==
   ====
 $$

@@ -1035,6 +1035,7 @@ For all radicals, see [Index of characters by radical](./).
       - $菖coeng1
       - $萇coeng4
       - $菜coi3
+      - $菹zeoi1
       - $菑zi1
       - $菑zoi1
       - $菁zing1
