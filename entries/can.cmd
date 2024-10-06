@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-10-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1017,7 +1017,7 @@ W
     - a long time, an old thing;
     - many, all;
     - a feudal state near the present capital of Hon(a/)n [[河南]];
-    - _tsoi(6) (4)ch(')an [ts(')(u")t](9) (4)l(e/)ung_
+    - _tsoi(6) (4)ch(')an [ts(u")t](9) (4)l(e/)ung_
         [[zoi6 can4 zyut6 loeng4 在陳絕糧]],
         to lack food in Ch(')in---to be in straits;
     - _(1)p(')(o\) (4)ch(')an_
