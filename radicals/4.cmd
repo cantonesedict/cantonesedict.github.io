@@ -1396,6 +1396,7 @@ For all radicals, see [Index of characters by radical](./).
       - $治ci4
       - $治zi6
       - $沮zeoi1
+      - $沮zeoi2
       - $泲zi2
       - $沾zim1
       - $沼ziu2

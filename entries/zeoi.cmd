@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zeoi1](#1)
+- [zeoi2](#2)
 - [zeoi3](#3)
 - [zeoi6](#6)
 ==
@@ -119,13 +120,14 @@ C
   ==
   - Based on the presence of a bracket,
     Williams considers rising-tone _(2)ts(u")_ (zeoi2)
-    an acceptable reading for the name sense.
+    an acceptable alternative reading for the name sense.
     This is incorrect.
   - Williams' 荊州府: Corrected "K'ingchau" to unaspirated "Kingchau".
   ==
 S
   ==
-  - $沮zeoi2 (TODO)
+  - $沮zeoi2
+  - $沮zeoi3 (TODO)
   ==
 $$
 
@@ -434,6 +436,69 @@ W
         the charger of H(a/)ng Y(u/) [[項羽]] of Tso [[楚]].
     ==
   ====
+$$
+
+
+##{#2 .williams} (2)Ts(u") (2)Tsui [[zeoi2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $沮2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 沮2 | _(2)Ts(u")_ [[zeoi2]]
+
+$$
+R
+  ⽔ + 5
+U
+  U+6CAE
+V
+  ==
+  - ceoi1 (alternative per 《廣韻》七余切)
+  - zeoi6 (per 《廣韻》慈吕切)
+  ==
+F
+  ==
+  - [[F1.44 沮]] 沮邱
+  ==
+W
+  ====
+  - [[Page~594 (2)沮]]
+    ==
+    - To stop, to prohibit;
+    - to pass over;
+    - to divulge;
+    - to destroy;
+    - to discomfit;
+    - to scare;
+    - _(2)ts(u") (2)ch(i/)_
+        [[zeoi2 zi2 沮止]],
+        to quash, to stop;
+        to intrigue against;
+    - _(2)ts(u") tsok(9)_
+        [[zeoi2 zok6 沮怍]]
+        ashamed, awkward, as a rustic;
+    - _(2)ts(u") s(i/)t(8)_
+        [[zeoi2 sit3 沮泄]]
+        to let out, to blab;
+        to issue, as malaria;
+    - [[see $沮zeoi3 for "wet" senses]].
+    ==
+  ====
+C
+  ==
+  - The reading _(2)ts(u")_ (zeoi2) is not unattested;
+    Kangxi quotes 《正韻》再呂切𠀤音咀, explained 止也過也壞也.
+  ==
+S
+  ==
+  - $沮zeoi1
+  - $沮zeoi3 (TODO)
+  ==
 $$
 
 
