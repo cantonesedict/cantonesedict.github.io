@@ -444,10 +444,48 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $咀2
 - $沮2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 咀2 | _(2)Ts(u")_ [[zeoi2]]
+
+$$
+R
+  ⼝ + 5
+U
+  U+5480
+F
+  ==
+  - [[F1.46 咀]] 咀嚼
+  ==
+W
+  ====
+  - [[Page~595 (2)咀]]
+    ==
+    - To taste;
+    - to chew, to bite in order to taste;
+    - _(2)ts(u") ts(e/)uk[(8)] (5)h(a/)_
+        [[zeoi2 zoek3 haa5 咀嚼吓]],
+        take a bite of it;
+    - _(4)h(o\)m (1)ying (2)ts(u") [(4)]w(a/)_
+        [[ham4 jing1 zyu2 waa1 含英咀華]],
+        to learn and relish the beauties of a style.
+    ==
+  ====
+C
+  ==
+  - Williams' 咀嚼吓: Changed Middle Chinese _ts(e/)uk(9)_ (zoek6)
+    to common reading _ts(e/)uk(8)_ (zoek3).
+  - Williams' 含英咀華: Corrected _(1)w(a/)_ (waa1) to _(4)w(a/)_ (waa4).
+  - It is only in modern Cantonese
+    that 咀 _(2)ts(u")_ and 嘴 _(2)tsui_ are homophonous (both zeoi2),
+    and that 咀 is an alternative form of 嘴.
+    **See $嘴zeoi2 for the canonical entry.** (TODO)
+  ==
+$$
 
 ### 沮2 | _(2)Ts(u")_ [[zeoi2]]
 
@@ -463,7 +501,7 @@ V
   ==
 F
   ==
-  - [[F1.44 沮]] 沮邱
+  - [[F1.46 沮]] 沮邱
   ==
 W
   ====
