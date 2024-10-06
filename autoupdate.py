@@ -69,7 +69,7 @@ class Updater:
 
         Updater._check_syllables(entry_cmd_name, tone_syllable_ct_list)
         Updater._check_tones(entry_cmd_name, tone_syllable_ct_list, navigation_tones)
-        Updater._check_canto_tones(entry_cmd_name, tone_syllable_ct_list, navigation_tones)
+        Updater._check_canto_tones(entry_cmd_name, tone_syllable_ct_list)
 
         new_cmd_content = old_cmd_content
         new_cmd_content = Updater._normalise_radicals(new_cmd_content)
@@ -366,7 +366,7 @@ class Updater:
             sys.exit(1)
 
     @staticmethod
-    def _check_canto_tones(entry_cmd_name, tone_syllable_ct_list, navigation_tones):
+    def _check_canto_tones(entry_cmd_name, tone_syllable_ct_list):
         for tone, syllable, canto_tone in tone_syllable_ct_list:
             is_entering = syllable[-1] in 'ptk'
             if (tone, is_entering, canto_tone) not in [
