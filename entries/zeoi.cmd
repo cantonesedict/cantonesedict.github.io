@@ -58,6 +58,7 @@ $$
 - $且1
 - $疽1
 - $睢1
+- $苴1
 - $追1
 - $錐1
 - $雎1
@@ -161,6 +162,43 @@ S
   - $睢fai1 (TODO)
   - $睢seoi1 (TODO)
   ==
+$$
+
+### 苴1 | _(1)Ts(u")_ [[zeoi1]]
+
+$$
+R
+  ⾋ + 5
+U
+  U+82F4
+V
+  ==
+  - ceoi1 (per 《廣韻》七余切 for "grass-insole" sense)
+  - zeoi2 (alternative per 《廣韻》子與切 for "grass-insole" sense)
+  ==
+F
+  ==
+  - [[F1.44 苴]] 蔴無子曰苴又受賄賂曰包苴
+  ==
+W
+  ====
+  - [[Page~594 (1)苴]]
+    ==
+    - The female hemp plant;
+    - sackcloth;
+    - a rush, a sedge used for sandals;
+    - coarse, unpolished;
+    - _(1)ts(u") p(o\)(3)_
+        [[zeoi1 bou3 苴布]]
+        mourning sackcloth;
+    - _(2)p(o\) (1)ts(u")_
+        [[bou2 zeoi1 補苴]],
+        to correct bad composition;
+    - _(1)ts(u") ch(e/)ung(6)_
+        [[zeoi1 zoeng6 苴杖]]
+        the mourner's staff.
+    ==
+  ====
 $$
 
 ### 追1 | _(1)Chui_ [[zeoi1]]
