@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-10-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -749,7 +749,7 @@ W
     - _(4)'m tsai(3) sz'(6)_
         [[m4 zai3 si6 唔濟事]]
         he will not do, he is inefficient;
-    - _(4)tsai mat(7) sham(6) sz'(6)_
+    - _tsai(3) mat(7) sham(6) sz'(6)_
         [[zai3 mat1 sam6 si6 濟乜甚事]]
         what is he good for?
     - _(4)t(')ung (1)chau kung(6) tsai(3)_

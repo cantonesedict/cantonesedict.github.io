@@ -336,7 +336,7 @@ S
 $$
 
 
-##{#5 .williams} (5)Ts(a/)m [[zaam5 陽上]]
+##{#5 .williams} (5)^Ts(a/)m [[zaam5 陽上]]
 
 <## tone-5-characters ##>
 <nav class="sideways">
@@ -346,7 +346,7 @@ $$
 </nav>
 <## /tone-5-characters ##>
 
-### 鏨5 | _(5)Ts(a/)m_ [[zaam5]]
+### 鏨5 | _(5)^Ts(a/)m_ [[zaam5]]
 
 $$.
 R
@@ -364,9 +364,10 @@ W
   ==
 C
   ==
-  - Williams' placement under _(5)Ts(a/)m_ (zaam5) is problematic
+  - Williams' placement under _(5)^Ts(a/)m_ (zaam5) is problematic
     as an unaspirated initial cannot occur with 陽上 (tone~5).
     See $鏨caam5 for commentary.
+    <## TODO: Eliminate zaam5 as an entry and make caam5 a corrected entry ##>
   ==
 S
   ==

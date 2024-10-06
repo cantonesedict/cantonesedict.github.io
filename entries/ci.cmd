@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-10-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1438,7 +1438,7 @@ W
 C
   ==
   - Williams' 行刺: Metaphorically, to assassinate.
-  - Williams' 鏨刺: Corrected _(5)ts(a/)m_ (zaam5) to _(5)ts(')(a/)m_ (caam5).
+  - Williams' 鏨刺: Corrected _(5)^ts(a/)m_ (zaam5) to _(5)ts(')(a/)m_ (caam5).
   ==
 S
   ==

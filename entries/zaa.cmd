@@ -891,7 +891,7 @@ W
 $$
 
 
-##{#4 .modern} (4)Ch(a/) (zaa4 陽平)
+##{#4 .modern} (4)^Ch(a/) (zaa4 陽平)
 
 <## tone-4-characters ##>
 <nav class="sideways">
@@ -901,7 +901,7 @@ $$
 </nav>
 <## /tone-4-characters ##>
 
-###+ 喳4 | _(4)Ch(a/)_ (zaa4)
+###+ 喳4 | _(4)^Ch(a/)_ (zaa4)
 
 $$
 R

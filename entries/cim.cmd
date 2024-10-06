@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-10-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -269,7 +269,7 @@ W
   - [[Page~572 (1)殲]]
     ==
     - To destroy utterly, to exterminate, to pierce, to kill;
-    - _yat(7) (1)t(o\) (1)ts(')(i/)m (2)sz' (5)k'(u")_
+    - _yat(7) (1)t(o\) (1)ts(')(i/)m (2)sz' (5)k(')(u")_
         [[jat1 dou1 cim1 sei2 keoi5 一刀殲死佢]],
         stabbed him dead at a blow;
     - _(1)ts(')(i/)m k(')(u")t(8) (4)k(')(u") (1)f(u/)i_

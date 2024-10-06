@@ -598,7 +598,7 @@ C
   ==
   - Fan Wan entry: Corrected headword ⿸厂敝 to 厰.
   - Williams' 嗰間屋好廠: Corrected _ko(3)_ (go3) to _(2)ko_ (go2)
-    and corrected _(4)k(a/)n_ (gaan4) to _(1)k(a/)n_ (gaan1).
+    and corrected _(4)^k(a/)n_ (gaan4) to _(1)k(a/)n_ (gaan1).
   ==
 $$
 
@@ -916,7 +916,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~28* (4)幢 _(4)Chong_ (zong4); here corrected to _(4)Ch(')ong_ (cong4)]]
+  - [[Page~28* (4)幢 _(4)^Chong_ (zong4); here corrected to _(4)Ch(')ong_ (cong4)]]
     ==
     - Long embroidered scrolls or streamers in temples,
       suspended from the roof,
@@ -925,7 +925,7 @@ W
   ====
 C
   ==
-  - Williams erroneously puts 幢 under unaspirated _(4)chong_ (zong4).
+  - Williams erroneously puts 幢 under unaspirated _(4)^chong_ (zong4).
   ==
 S
   ==

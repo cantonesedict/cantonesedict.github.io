@@ -853,7 +853,7 @@ W
 C
   ==
   - Fan Wan entry: Normalised headword 𬋈 (⿱椎灬) to 樵.
-  - Williams' 樵夫: Corrected _(4)tsi(u/)_ (ziu4) to _(4)ts(')i(u/)_ (ciu4).
+  - Williams' 樵夫: Corrected _(4)^tsi(u/)_ (ziu4) to _(4)ts(')i(u/)_ (ciu4).
   ==
 $$
 
@@ -957,7 +957,7 @@ W
 C
   ==
   - Fan Wan entry: Normalised headword ⿱誰灬 to 譙.
-  - Williams' 譙車: Corrected _(4)tsi(u/)_ (ziu4) to _(4)ts(')i(u/)_ (ciu4).
+  - Williams' 譙車: Corrected _(4)^tsi(u/)_ (ziu4) to _(4)ts(')i(u/)_ (ciu4).
   ==
 S
   ==

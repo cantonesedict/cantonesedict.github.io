@@ -420,7 +420,7 @@ C
   ==
   - Fan Wan entry: Corrected 朿 to 束.
   - Williams' "Used for the preceding": I have not seen 裝 used for 妝.
-  - Williams' 裝轎: Corrected _(5)ki(u/)_ (giu6-5) to _(2)ki(u/)_ (giu6-2).
+  - Williams' 裝轎: Corrected _(5)^ki(u/)_ (giu6-5) to _(2)ki(u/)_ (giu6-2).
   - Williams' 扮着唐裝: Corrected _ch(e/)uk(8)_ (zoek3) to _ch(e/)uk(9)_ (zoek6).
   ==
 E

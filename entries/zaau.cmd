@@ -566,7 +566,7 @@ C
   ==
   - Fan Wan entry: Normalised headword 𦋇 (⿱罓卓) to 罩.
   - Williams entry: Normalised headword 𦋇 (⿱罓卓) to 罩.
-  - Williams' 轎罩: Corrected _(5)ki(u/)_ (giu6-5) to _(2)ki(u/)_ (giu6-2).
+  - Williams' 轎罩: Corrected _(5)^ki(u/)_ (giu6-5) to _(2)ki(u/)_ (giu6-2).
   ==
 $$
 

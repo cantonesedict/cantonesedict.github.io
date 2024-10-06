@@ -860,7 +860,7 @@ W
   ====
 C
   ==
-  - Williams' 不逞之徒: Corrected _(4)t(o\)_ (dou4) to _(4)t(')(o\)_ (tou4).
+  - Williams' 不逞之徒: Corrected _(4)^t(o\)_ (dou4) to _(4)t(')(o\)_ (tou4).
   ==
 $$
 

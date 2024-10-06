@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-10-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -503,7 +503,7 @@ W
     - _ts(')(e/)(3) (1)po_
         [[ce3 bo1 斜坡]],
         an ascending plain;
-    - _(4)hau (4)tau ts(')(e/)(3)_
+    - _(4)hau (4)t(')au ts(')(e/)(3)_
         [[hau4 tau4 ce3 喉頭斜]]
         greedy.
     ==

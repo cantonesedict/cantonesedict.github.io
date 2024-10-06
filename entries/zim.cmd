@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zim
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-10-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -256,7 +256,7 @@ W
     - _(1)ch(i/)m (5)(i/)m shai(3) (4)ts(')ing_
         [[zim1 jim5 sai3 cing4 沾染世情]],
         to be corrupted by bad influences;
-    - _(5)n(i/) (1)ch(i/)m ch(e/)uk[(9)] (5)yau tik(7) (4)'m (2)h(o\) (4)p(i/) h(i/)(3)_
+    - _(5)n(i/) (1)ch(i/)m ch(e/)uk[(9)] (5)yau tik(7) (4)'m (2)h(o\) (4)p(')(i/) h(i/)(3)_
         [[nei5 zim1 zoek6 jau5 dik1 m4 hou2 pei4 hei3 你沾着有滴唔好脾氣]]
         you have contracted a bad temper.
     ==

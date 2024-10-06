@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-10-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -633,7 +633,7 @@ W
     - _(4)ch(')am on(3)_
         [[cam4 on3 沉案]]
         to quash a case;
-    - _(4)cham nik[(7)]_
+    - _(4)ch(')am nik[(7)]_
         [[cam4 nik1 沉溺]]
         drowned, in doting on;
     - _(4)ch(')am [(5)ch(')ung]_

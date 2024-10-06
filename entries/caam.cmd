@@ -995,7 +995,7 @@ F
   ==
 W
   ====
-  - [[Page~553 (5)鏨 _(5)Ts(a/)m_ (zaam5); here corrected to _(5)Ts(')(a/)m_ (caam5)]]
+  - [[Page~553 (5)鏨 _(5)^Ts(a/)m_ (zaam5); here corrected to _(5)Ts(')(a/)m_ (caam5)]]
     ==
     - A stone-cutter's chissel;
     - a small cold chissel;
@@ -1022,7 +1022,7 @@ C
     based on the ordering with respect to other entries.
     Because 鏨 appears in the rising tone section, and strictly after 攬覽擥,
     which are 陽上 (tone~5), we conclude that 鏨 also is 陽上 (tone~5).
-    Williams' placement of 鏨 under _(5)Ts(a/)m_ (zaam5) is problematic
+    Williams' placement of 鏨 under _(5)^Ts(a/)m_ (zaam5) is problematic
     as an unaspirated initial cannot occur with 陽上 (tone~5).
     I have corrected this to the aspirated _(5)Ts(')(a/)m_ (caam5), because:
     ++

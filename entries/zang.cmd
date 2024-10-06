@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-10-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -187,7 +187,7 @@ W
     - _(5)ngo (2)h(o\) (1)tsang (5)k(')(u")_
         [[ngo5 hou2 zang1 keoi5 我好憎佢]],
         I perfectly detest him;
-    - _(5)tsang h(o\)(3) pat(7) (4)t(')ung_
+    - _(1)tsang h(o\)(3) pat(7) (4)t(')ung_
         [[zang1 hou3 bat1 tung4 憎好不同]],
         capricious, now hating and then loving.
     ==
