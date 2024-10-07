@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-10-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -521,7 +521,7 @@ W
   - [[Page~581 (1)鐎]]
     ==
     - A soldier's brass kettle or skillet,
-      about the size of a peck measure;
+      about the size of a peck [[斗]] measure;
     - a brass pan.
     ==
   ====

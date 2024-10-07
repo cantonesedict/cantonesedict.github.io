@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cong
-* %date-modified --> 2024-10-06
+* %date-modified --> 2024-10-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -959,7 +959,7 @@ W
     - a suit of bed clothes;
     - the boards which make a bed;
     - a well-curb;
-    - a measure of 8~cubits;
+    - a measure of 8~cubits [[八尺]];
     - _yat(7) (4)ch(')ong (5)p(')(i/) yuk(9)_
         [[jat1 cong4 pei5 juk6 一床被褥]]
         mattrass, sheets, all complete;

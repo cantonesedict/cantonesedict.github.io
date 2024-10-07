@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> au
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-10-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -77,12 +77,18 @@ W
   - [[Page~6 (1)區]]
     ==
     - A surname;
-    - a measure of four pecks [[四豆為區]];
+    - a measure of four pecks [[四豆]];
     - _puk(9) (1)au_
         [[buk6 au1 蹼區]],
         to conceal.
     ==
   ====
+C
+  ==
+  - Williams' "four pecks":
+    It is disputed whether one 豆 is 0.4~pecks (豆實四升)
+    or 1~peck (豆當爲斗毛居正曰豆古斗字).
+  ==
 S
   ==
   - $區keoi1 (TODO)

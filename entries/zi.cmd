@@ -393,7 +393,7 @@ W
   - [[Page~38|n81 (1)巵]]
     ==
     - A goblet;
-    - a cup holding four gills;
+    - a cup holding four gills [[四升]];
     - a syphon;
     - a vessel for serving rations;
     - _(2)tsau (1)ch(i/)_
@@ -401,10 +401,6 @@ W
         a wine syphon.
     ==
   ====
-C
-  ==
-  - Williams' "holding four gills": 受四升.
-  ==
 $$
 
 ### 支1 | _(1)Ch(i/)_ [[zi1]]
