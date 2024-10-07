@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-10-06
+* %date-modified --> 2024-10-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1612,7 +1612,7 @@ U
   U+4ED4
 V
   ==
-  - zi1 (per 《廣韻》子之切 for "bear" sense)
+  - zi1 (alternative per 《廣韻》子之切 for "bear" sense)
   ==
 F
   ==
@@ -1633,12 +1633,6 @@ W
         able to sustain important offices.
     ==
   ====
-C
-  ==
-  - Both level-tone 子之切 _(1)tsz'_ (zi1)
-    and rising-tone 即里切 _(2)tsz'_ (zi2)
-    are recorded in 《廣韻》 with the explanation 克也.
-  ==
 S
   ==
   - $仔zai2
