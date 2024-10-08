@@ -445,6 +445,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $咀2
+- $嘴2
 - $沮2
 - $齟2
 ==
@@ -484,7 +485,82 @@ C
   - It is only in modern Cantonese
     that 咀 _(2)ts(u")_ and 嘴 _(2)tsui_ are homophonous (both zeoi2),
     and that 咀 is an alternative form of 嘴.
-    **See $嘴zeoi2 for the canonical entry.** (TODO)
+    **See $嘴zeoi2 for the canonical entry.**
+  ==
+$$
+
+### 嘴2 | _(2)Tsui_ [[zeoi2]]
+
+$$
+R
+  ⼝ + 13
+U
+  U+5634
+A
+  ==
+  -{.modern} $咀2
+  ==
+F
+  ==
+  - [[F2.56 嘴]] 口唇也
+  ==
+W
+  ====
+  - [[Page~596 (2)嘴]]
+    ==
+    - The lips;
+    - a beak, a bill of a bird;
+    - a spout, a nozzle, an aperture, an adit;
+    - to wrangle, to chatter, to talk much and impudently, to give lip;
+    - _m(u/)t(8) (5)h(a/) (4)t(')i(u/) (2)tsui_
+        [[mut3 haa5 tiu4 zeoi2 抹吓條嘴]],
+        wipe your lips;
+    - _(1)ts(')an (2)tsui_
+        [[can1 zeoi2 親嘴]],
+        to kiss;
+    - _ts(e/)uk(8) (2)tsui_
+        [[zoek3 zeoi2 雀嘴]],
+        a bird's bill;
+    - _(1)(i/)n (4)t(')ung (2)tsui_
+        [[jin1 tung4-1 zeoi2 煙筒嘴]],
+        mouthpiece of a pipe;
+    - _(2)h(o\) (2)tsui (5)m(a/)_ [[hou2 zeoi2 maa5 好嘴馬]],
+        or
+      _(4)yau (2)tsui_ [[jau4 zeoi2 油嘴]],
+        glib at talking, garrulous;
+    - _(4)m(o\) t(a/)p(8) (2)tsui_
+        [[mou4 daap3 zeoi2 毋答嘴]],
+        don't interfere, as in a dispute;
+    - _(2)t(a/) (2)tsui (1)p(a/)_
+        [[daa2 zeoi2 baa1 打嘴巴]],
+        to beat the lips;
+    - _sung(3) (2)si(u/) (2)tsui_
+        [[sung3 siu2 zeoi2 送小嘴]],
+        to tell tales, to stir up ill feeling;
+    - _(1)pong (2)tsui_
+        [[bong1 zeoi2 幫嘴]],
+        to take the part of;
+    - _(4)ch(')(a/) (4)(u/) (2)tsui_
+        [[caa4 wu4-2 zeoi2 茶壺嘴]],
+        a teapot spout;
+    - _h(o\)(3) shik(9) (2)tsui (4)t(')au_
+        [[hou3 sik6 zeoi2 tau4 好食嘴頭]],
+        loving to eat this and that;
+    - _(5)n(i/) (5)m(o\) [(1)]to (2)tsui_
+        [[nei5 mou5 do1 zeoi2 你冇多嘴]],
+        don't you talk so much;
+    - _(2)tsui (2)kong (i/)[(6)]_
+        [[zeoi2 gong2 ji6 嘴講易]]
+        it's all very easy to talk;
+    - _(2)tsui (2)h(o\) ng(a/)ng(6)_
+        [[zeoi2 hou2 ngaang6 嘴好硬]]
+        he [won't] confess at all.
+    ==
+  ====
+C
+  ==
+  - Williams' 你冇多嘴: Corrected _(4)^to_ (do4) to _(1)to_ (do1).
+  - Williams' 嘴講易: Corrected _(i/)(3)_ (ji3) to _(i/)(6)_ (ji6).
   ==
 $$
 
