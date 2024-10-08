@@ -648,12 +648,51 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $最3
 - $沮3
 - $綴3
 - $醉3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 最3 | _Tsui(3)_ [[zeoi3]]
+
+$$
+R
+  ⼌ + 10
+U
+  U+6700
+F
+  ==
+  - [[F2.57 最]] 殿最前曰最後曰殿
+  ==
+W
+  ====
+  - [[Page~597 最(3)]]
+    ==
+    - To come together, to assemble;
+    - an adjective denoting the most important, the highest degree of;
+    - very, extremely, exceedingly;
+    - altogether;
+    - _tsui(3) sh(i/)n(6)_
+        [[zeoi3 sin6 最善]]
+        very good;
+    - _tsui(3) (4)n(a/)n_
+        [[zeoi3 naan4 最難]],
+        very difficult;
+    - _tsui(3) (2)kan i(u/)(3)_
+        [[zeoi3 gan2 jiu3 最緊要]]
+        highly important;
+    - _tsui(3) (1)s(i/)n_
+        [[zeoi3 sin1 最先]],
+        first, in the first place;
+    - _tsui(3) p(i/)n(6) tong(3)_
+        [[zeoi3 bin6 dong3 最便當]]
+        the most convenient, very handy.
+    ==
+  ====
+$$
 
 ###+ 沮3 | _Ts(u")(3)_ (zeoi3)
 
