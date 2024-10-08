@@ -1236,12 +1236,16 @@ W
       consisting of λ and 2π in Orion's head.
     ==
     --
-    Read _(1)tsui_ [[zeoi1]]; [[**see $觜zeoi1**]].
+    Read _(1)tsui_ [[zeoi1]];
     --
+    ==
+    - [[**See $觜zeoi1**]];
+    - [[see $觜zeoi2 for "pout" senses]].
+    ==
   ====
 S
   ==
-  - $觜zeoi1 (TODO)
+  - $觜zeoi1
   - $觜zeoi2 (TODO)
   ==
 $$

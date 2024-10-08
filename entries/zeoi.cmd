@@ -51,7 +51,7 @@ MP
 $$
 
 
-##{#1 .williams} (1)Chui (1)Ts(u") [[zeoi1 陰平]]
+##{#1 .williams} (1)Chui (1)Ts(u") (1)Tsui [[zeoi1 陰平]]
 
 <## tone-1-characters ##>
 <nav class="sideways">
@@ -62,6 +62,7 @@ $$
 - $睢1
 - $苴1
 - $菹1
+- $觜1
 - $趄1
 - $追1
 - $錐1
@@ -261,6 +262,38 @@ W
     - a marsh.
     ==
   ====
+$$
+
+### 觜1 | _(1)Tsui_ [[zeoi1]]
+
+$$
+R
+  ⾓ + 6
+U
+  U+89DC
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~612 (1)觜]]
+    --
+    [[...]]
+    --
+    --
+    Read _(1)tsui_ [[zeoi1]];
+    --
+    ==
+    - the horns of an owl;
+    - the curved corners of a roof, or ridgepole;
+    - to raise the egret on the head;
+    - [[see $觜zeoi2 for "pout" senses]].
+    ==
+  ====
+S
+  ==
+  - $觜zi1
+  - $觜zeoi2 (TODO)
+  ==
 $$
 
 ### 趄1 | _(1)Ts(u")_ [[zeoi1]]
