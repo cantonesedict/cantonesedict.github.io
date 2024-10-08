@@ -646,6 +646,7 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $叙6
 - $墜6
 - $序6
 - $敍6
@@ -656,6 +657,26 @@ $$
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 叙6 | _Ts(u")(6)_ [[zeoi6]]
+
+$$.
+R
+  ⼜ + 7
+U
+  U+53D9
+F
+  ==
+  - [[F1.48 敘]] 會也又陳述也又天敘五倫也
+  ==
+W
+  ====
+  - [[Page~595 敍(6)叙(6)]]
+    --
+    [[Alternative form of 敘. **See $敘zeoi6 for the canonical entry.**]]
+    --
+  ====
+$$
 
 ### 墜6 | _Chui(6)_ [[zeoi6]]
 
