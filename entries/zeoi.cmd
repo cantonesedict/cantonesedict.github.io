@@ -823,6 +823,7 @@ $$
 - $聚6
 - $藇6
 - $贅6
+- $辠6
 - $隊6
 - $鱮6
 ==
@@ -1228,6 +1229,27 @@ C
   ==
   - Fan Wan entry: Corrected 𢪱 (⿰扌勿) to 物.
   ==
+$$
+
+### 辠6 | _Ts(u/)i(6)_ [[zeoi6]]
+
+$$.
+R
+  ⾟ + 6
+U
+  U+8FA0
+F
+  ==
+  - [[F1.48 罪]] 罰也
+  - [[F1.48 辠]] 同上
+  ==
+W
+  ====
+  - [[Page~598 罪(6)辠(6)]]
+    --
+    [[Alternative form of 罪. **See $罪zeoi6 for the canonical entry.**]]
+    --
+  ====
 $$
 
 ### 隊6 | _Chui(6)_ [[zeoi6]]
