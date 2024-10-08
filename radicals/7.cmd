@@ -104,6 +104,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $觜zeoi1
+      - $觜zeoi2
       - $觜zi1
       ==
       </nav>

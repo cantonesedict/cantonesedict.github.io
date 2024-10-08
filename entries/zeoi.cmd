@@ -292,7 +292,7 @@ W
 S
   ==
   - $觜zi1
-  - $觜zeoi2 (TODO)
+  - $觜zeoi2
   ==
 $$
 
@@ -480,6 +480,7 @@ $$
 - $咀2
 - $嘴2
 - $沮2
+- $觜2
 - $齟2
 ==
 </nav>
@@ -645,6 +646,36 @@ S
   ==
   - $沮zeoi1
   - $沮zeoi3
+  ==
+$$
+
+###+ 觜2 | _(2)Tsui_ (zeoi2)
+
+$$
+R
+  ⾓ + 6
+U
+  U+89DC
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~612 (1)觜]]
+    --
+    [[...]]
+    --
+    --
+    Read _(1)tsui_ [[zeoi1]] [[here corrected to _(2)Tsui_ (zeoi2)]];
+    --
+    ==
+    - [[...]];
+    - to bristle up, to look incensed, to pout the lips in anger.
+    ==
+  ====
+S
+  ==
+  - $觜zi1
+  - $觜zeoi1
   ==
 $$
 

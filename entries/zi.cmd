@@ -1246,7 +1246,7 @@ W
 S
   ==
   - $觜zeoi1
-  - $觜zeoi2 (TODO)
+  - $觜zeoi2
   ==
 $$
 
