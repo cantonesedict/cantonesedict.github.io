@@ -653,6 +653,7 @@ $$
 - $敘6
 - $綴6
 - $縋6
+- $聚6
 - $贅6
 - $隊6
 ==
@@ -869,6 +870,49 @@ W
     - _chui(6) (4)(u")n_
         [[zeoi6 jyun4 縋鉛]],
         lead put in sycee.
+    ==
+  ====
+$$
+
+### 聚6 | _Ts(u")(6)_ [[zeoi6]]
+
+$$
+R
+  ⽿ + 8
+U
+  U+805A
+H
+  May appear as either ⿱取乑 or ⿱取⿸⿹亻人人 (assumed here),
+  depending on the font.
+F
+  ==
+  - [[F1.48 聚]] 會也又積聚
+  ==
+W
+  ====
+  - [[Page~595 聚(6)]]
+    ==
+    - To assemble, to congregate, to gather;
+    - to meet;
+    - to tend to, to concur;
+    - to incline towards, popular;
+    - to collect, to dwell together;
+    - a dwelling-place, a village;
+    - a conjunction, a meeting;
+    - a place of meeting;
+    - _ts(u")(6) (2)shau_
+        [[zeoi6 sau2 聚首]],
+        a concourse, a gathering of friends;
+    - _(4)'m ts(u")(6) (4)ts(')oi_
+        [[m4 zeoi6 coi4 唔聚財]]^
+        not a lucky place;
+        not a moneymaking man;
+    - _ts(u")(6) (2)p(o\) (4)t(')ong_
+        [[zeoi6 bou2 tong4 聚寶堂]],
+        the shrine of Plutus at the door;
+    - _ts(u")(6) (u/)i(6)_
+        [[zeoi6 wui6 聚會]]
+        to call a meeting
     ==
   ====
 $$
