@@ -148,9 +148,10 @@ For all radicals, see [Index of characters by radical](./).
       - $診can2
       - $詞ci4
       - $詐zaa3
+      - $詛zeoi2
+      - $詛zo3
       - $証zing3
       - $詔ziu3
-      - $詛zo3
       - $註zyu3
       ==
       </nav>

@@ -481,6 +481,7 @@ $$
 - $嘴2
 - $沮2
 - $觜2
+- $詛2
 - $齟2
 ==
 </nav>
@@ -676,6 +677,27 @@ S
   ==
   - $觜zi1
   - $觜zeoi1
+  ==
+$$
+
+###+ 詛2 | _(2)Ts(u")_ (zeoi2)
+
+$$.
+R
+  ⾔ + 5
+U
+  U+8A5B
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation. **See $詛zo3 for the canonical entry.**
+  ==
+S
+  ==
+  - $詛zo3
   ==
 $$
 
