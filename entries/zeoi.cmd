@@ -650,6 +650,7 @@ $$
 - $墜6
 - $序6
 - $敍6
+- $敘6
 - $綴6
 - $縋6
 - $贅6
@@ -666,9 +667,7 @@ R
 U
   U+53D9
 F
-  ==
-  - [[F1.48 敘]] 會也又陳述也又天敘五倫也
-  ==
+  [[Not present]]
 W
   ====
   - [[Page~595 敍(6)叙(6)]]
@@ -725,6 +724,12 @@ R
   ⼴ + 4
 U
   U+5E8F
+A
+  ==
+  - $叙6 [[for "order" and "preface" senses]]
+  - $敍6 [[for "order" and "preface" senses]]
+  -{.modern} $敘6 (for "order" and "preface" senses)
+  ==
 F
   ==
   - [[F1.48 序]] 次也又學名
@@ -766,15 +771,52 @@ R
 U
   U+654D
 F
-  ==
-  - [[F1.48 敘]] 會也又陳述也又天敘五倫也
-  ==
+  [[Not present]]
 W
   ====
   - [[Page~595 敍(6)叙(6)]]
     --
     [[Alternative form of 敘. **See $敘zeoi6 for the canonical entry.**]]
     --
+  ====
+$$
+
+###+ 敘6 | _Ts(u")(6)_ (zeoi6)
+
+$$
+R
+  ⽁ + 7
+U
+  U+6558
+A
+  ==
+  - $叙6
+  - $敍6
+  ==
+F
+  ==
+  - [[F1.48 敘]] 會也又陳述也又天敘五倫也
+  ==
+W
+  ====
+  - [[Page~595 敍(6)叙(6); here normalised to 敘]]
+    ==
+    - Similar to the preceding [[$序6]];
+    - to arrange, to order, to set in their proper places;
+    - to meet, to converse;
+    - to discourse or argue upon;
+    - order, series, rank;
+    - _(1)s(e/)ung ts(u")(6)_ [[soeng1 zeoi6 相敘]]
+        or
+      _ts(u")(6) (4)t(')(a/)m_ [[zeoi6 taam4 敘談]],
+        to converse;
+    - _(5)(i/) ts(u")(6)_
+        [[ji5 zeoi6 議敘]]
+        to deliberate upon the proper rewards;
+    - _(1)t(')(i/)n ts(u")(6)_
+        [[tin1 zeoi6 天敘]]
+        the five social relations.
+    ==
   ====
 $$
 
