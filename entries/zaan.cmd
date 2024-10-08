@@ -907,7 +907,7 @@ C
   - Williams' reading _(5)w(a/)n_ (waan5) for the authorised sense is incorrect,
     possibly based on the gloss 音綰
     (which is intended in the departing tone, not the rising tone).
-    The expected reading is waan3 from Middle Chinese 烏患切.
+    The expected reading is _w(a/)n(3)_ (waan3) from Middle Chinese 烏患切.
   ==
 S
   ==

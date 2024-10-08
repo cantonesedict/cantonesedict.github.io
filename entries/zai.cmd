@@ -1004,7 +1004,7 @@ C
   - Williams' reading _(1)tsai_ (zai1) for the "taste" sense is incorrect,
     possibly based on the gloss 音劑
     (which is intended in the departing tone, not the level tone).
-    The expected reading is zai6 from Middle Chinese 在詣切.
+    The expected reading is _tsai(6)_ (zai6) from Middle Chinese 在詣切.
     Moreover, for the "plaintive sound" sense, Kangxi quotes 《集韻》前西切.
   - Williams' 淡得嚌: Corrected _t(a/)m(6)_ (daam6 去聲) to _(5)t(')(a/)m_ (taam5 上聲).
   - Williams' 係得嚌: Dated.
