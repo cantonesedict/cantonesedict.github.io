@@ -650,6 +650,7 @@ $$
 =={.modern}
 - $沮3
 - $綴3
+- $醉3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -713,6 +714,56 @@ S
   - $綴zeoi6
   - $綴zyut3 (TODO)
   - $綴zyut6 (TODO)
+  ==
+$$
+
+### 醉3 | _Tsui(3)_ [[zeoi3]]
+
+$$
+R
+  ⾣ + 8
+U
+  U+9189
+F
+  ==
+  - [[F2.57 醉]] 酒醉
+  ==
+W
+  ====
+  - [[Page~597 醉(3)]]
+    ==
+    - Exhilirated with drink;
+    - intoxicated, fuddled, drunken;
+    - a debauch;
+    - fascinated, enchanted, devoted to, stupefied with;
+    - completely engrossed with;
+    - _(2)yam tsui(3)_
+        [[jam2 zeoi3 飲醉]]
+        drunken;
+    - _(4)'m (1)ch(i/) tsui(3)_
+        [[m4 zi1 zeoi3 唔知醉]]
+        not affected by liquor;
+    - _tsui(3) (2)tsau (2)l(o\)_
+        [[zeoi3 zau2 lou2 醉酒佬]]^
+        a drunkard;
+    - _(4)m(o\) (2)tsau (1)s(a/)m (1)fan tsui(3)_
+        [[mou4 zau2 saam1 fan1 zeoi3 無酒三分醉]]
+        he is half drunk, and has had no wine,
+        _i.~e._ he is very stupid, he does not know what he's about;
+    - _tsui(3) (1)h(e/)ung_
+        [[zeoi3 hoeng1 醉鄉]],
+        a drunken sot;
+    - _tsui(3) (4)(u") (4)nai_
+        [[zeoi3 jyu4 nai4 醉如泥]],
+        drunk as a clod;
+    - _t(a/)i(6) tsui(3)_
+        [[daai6 zeoi3 大醉]]
+        dead drunk.
+    ==
+  ====
+C
+  ==
+  - Williams' 無酒三分醉: Not half drunk, but three-tenths drunk.
   ==
 $$
 
