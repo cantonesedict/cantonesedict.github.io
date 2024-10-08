@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2024-10-06
+* %date-modified --> 2024-10-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -647,6 +647,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $墜6
+- $序6
 - $綴6
 - $縋6
 - $贅6
@@ -691,6 +692,46 @@ W
     - _chui(6) lok(9) (1)t(')oi_
         [[zeoi6 lok6 toi1 墜落胎]],
         a falling womb, an abortion.
+    ==
+  ====
+$$
+
+### 序6 | _Ts(u")(6)_ [[zeoi6]]
+
+$$
+R
+  ⼴ + 4
+U
+  U+5E8F
+F
+  ==
+  - [[F1.48 序]] 次也又學名
+  ==
+W
+  ====
+  - [[Page~595 序(6)]]
+    ==
+    - Eastern and western walls or rooms;
+    - a college, a school;
+    - an asylum for old men;
+    - a preface, an introduction, an exordium;
+    - order, precedence, series;
+    - to follow in order;
+    - _ts(')z'(3) ts(u")(6)_
+        [[ci3 zeoi6 次序]]
+        in order, seriatim, regularly;
+    - _tsok(8) yat(7) (1)p(')(i/)n ts(u")(6)_
+        [[zok3 jat1 pin1 zeoi6 作一篇序]]
+        to write a preface;
+    - _ts(u")(6) (2)ch(')(i/)_
+        [[zeoi6 ci2 序齒]],
+        to go by ages;
+    - _ts(u")(6) (4)ts(')(e/)ung_
+        [[zeoi6 coeng4 序庠]],
+        a district college;
+    - _ts(u")(6) sz'(6) (5)t(')o, tong(3)_
+        [[zeoi6 si6 to5 dong3 序事妥當]]
+        everything in its order.
     ==
   ====
 $$
