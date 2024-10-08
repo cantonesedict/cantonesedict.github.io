@@ -194,10 +194,6 @@ W
         a dangerous pass.
     ==
   ====
-S
-  ==
-  - $岨zeoi1 (TODO)
-  ==
 $$
 
 ### 左2 | _(2)Tso_ [[zo2]]
