@@ -657,6 +657,7 @@ $$
 - $藇6
 - $贅6
 - $隊6
+- $鱮6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -1013,4 +1014,26 @@ S
   ==
   - $隊deoi6 (TODO)
   ==
+$$
+
+### 鱮6 | _Ts(u")(6)_ [[zeoi6]]
+
+$$
+R
+  ⿂ + 14
+U
+  U+9C6E
+F
+  ==
+  - [[F1.48 鱮]] 魴鱮魚名
+  ==
+W
+  ====
+  - [[Page~595 鱮(6)]]
+    ==
+    - The tench or roach;
+    - a large, coarse species of carp
+      found in the rivers of Ki(a/)ngs(u/) [[江蘇]].
+    ==
+  ====
 $$
