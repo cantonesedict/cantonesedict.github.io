@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaap
-* %date-modified --> 2024-10-05
+* %date-modified --> 2024-10-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -704,8 +704,7 @@ W
 C
   ==
   - Williams' "unassorted": An old word for unsorted or miscellaneous.
-  - Williams' 五方雜處: Changed Middle Chinese _(2)ch(')(u")_ (cyu2)
-    to common reading _(5)ch(')(u")_ (cyu5).
+  - Williams' 五方雜處: Changed _(2)ch(')(u")_ (cyu2) to common reading _(5)ch(')(u")_ (cyu5).
   ==
 E
   ====

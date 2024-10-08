@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-10-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -707,8 +707,7 @@ W
   ====
 C
   ==
-  - Williams' 貓棧:
-    Changed Middle Chinese _(4)mi(u/)_ (miu4) to common reading _(1)m(a/)u_ (maau1).
+  - Williams' 貓棧: Changed _(4)mi(u/)_ (miu4) to common reading _(1)m(a/)u_ (maau1).
   ==
 S
   ==

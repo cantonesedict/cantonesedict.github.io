@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aat
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-10-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -291,8 +291,7 @@ C
     Note that 押 is (probably) cognate with 壓,
     and while 壓 also has a Middle Chinese reading of 烏甲切,
     its modern reading as aat3 is uncontroversial.
-  - Williams' 押韻: Changed Middle Chinese _wan(6)_ (wan6)
-    to common reading _(5)wan_ (wan5).
+  - Williams' 押韻: Changed _wan(6)_ (wan6) to common reading _(5)wan_ (wan5).
   ==
 S
   ==

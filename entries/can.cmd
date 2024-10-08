@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2024-10-06
+* %date-modified --> 2024-10-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -267,9 +267,7 @@ C
   - Williams provides no explanation for the vernacular _(1)ts(')an_ (can1),
     notwithstanding he has supplied examples of its use.
     Here it is normalised to 嚫; **see $嚫can1 for the canonical entry**.
-  - Williams' 娶親:
-    Changed Middle Chinese _ts(')(u")(3)_ (ceoi3)
-    to common reading _(2)ts(')(u")_ (ceoi2).
+  - Williams' 娶親: Changed _ts(')(u")(3)_ (ceoi3) to common reading _(2)ts(')(u")_ (ceoi2).
   - Williams' 成親:
     There is no connotation of sexual consummation in 成親.
     Although 成 can mean "complete" or "fulfil",
@@ -949,9 +947,7 @@ W
   ====
 C
   ==
-  - Williams' 塵垢:
-    Changed Middle Chinese _(2)kau_ (gau2)
-    to common reading _kau(3)_ (gau3).
+  - Williams' 塵垢: Changed _(2)kau_ (gau2) to common reading _kau(3)_ (gau3).
   ==
 E
   ====

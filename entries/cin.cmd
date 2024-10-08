@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cin
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-10-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -256,8 +256,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected 徒 to 徙.
-  - Williams' 押遷: Changed Middle Chinese _(a/)p(8)_ (aap3)
-    to common reading _(a/)t(8)_ (aat3).
+  - Williams' 押遷: Changed _(a/)p(8)_ (aap3) to common reading _(a/)t(8)_ (aat3).
   ==
 $$
 
@@ -766,7 +765,7 @@ W
 C
   ==
   - Williams' 幾錢重: Corrected _chung(6)_ (zung6 去聲) to _(5)ch(')ung_ (cung5 上聲).
-  - Williams' 錢板咁厚: Changed Middle Chinese alternative _hau(6)_ to _(5)hau_.
+  - Williams' 錢板咁厚: Changed _hau(6)_ (hau6) to common reading _(5)hau_ (hau5).
   ==
 E
   ====

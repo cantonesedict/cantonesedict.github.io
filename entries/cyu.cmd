@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyu
-* %date-modified --> 2024-10-06
+* %date-modified --> 2024-10-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -184,8 +184,7 @@ C
         處事,
         處理.
     ==
-  - Williams' 處決: Changed Middle Chinese _k(u")t(8)_ (gyut3)
-    to common reading _k(')(u")t(8)_ (kyut3).
+  - Williams' 處決: Changed _k(u")t(8)_ (gyut3) to common reading _k(')(u")t(8)_ (kyut3).
   ====
 S
   ==

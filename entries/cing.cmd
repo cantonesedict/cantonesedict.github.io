@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-10-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -951,8 +951,7 @@ W
   ====
 C
   ==
-  - Williams' 秤鉤: Changed Middle Chinese _(1)kau_ (gau1)
-    to common reading _(1)ngau_ (ngau1).
+  - Williams' 秤鉤: Changed _(1)kau_ (gau1) to common reading _(1)ngau_ (ngau1).
   - For the character 秤, Fan Wan records
     level-tone _(1)ch(')ing_ (cing1) for the verb "weigh"
     and departing-tone _ch(')ing(3)_ (cing3) for the noun "scales".
@@ -1469,8 +1468,7 @@ W
   ====
 C
   ==
-  - Williams' 裸裎: Changed Middle Chinese _(5)lo_ (lo5)
-    to common reading _(2)lo_ (lo2).
+  - Williams' 裸裎: Changed _(5)lo_ (lo5) to common reading _(2)lo_ (lo2).
   ==
 S
   ==

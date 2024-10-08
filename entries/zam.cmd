@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2024-10-06
+* %date-modified --> 2024-10-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -542,8 +542,7 @@ W
   ====
 C
   ==
-  - Williams' 曲肱而枕: Changed Middle Chinese _huk(7)_ (huk1)
-    to common reading _k(')uk(7)_ (kuk1).
+  - Williams' 曲肱而枕: Changed _huk(7)_ (huk1) to common reading _k(')uk(7)_ (kuk1).
   - Williams' "also read _cham(3)_":
     Strictly, the literary verb sense should *only*
     be read in the departing tone _cham(3)_ (zam3)
@@ -794,8 +793,6 @@ W
   ====
 C
   ==
-  - Williams' 朕兆:
-    Changed Middle Chinese _chi(u/)(6)_ (ziu6)
-    to common reading _shi(u/)(6)_ (siu6).
+  - Williams' 朕兆: Changed _chi(u/)(6)_ (ziu6) to common reading _shi(u/)(6)_ (siu6).
   ==
 $$

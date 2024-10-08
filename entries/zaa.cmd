@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2024-10-06
+* %date-modified --> 2024-10-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -768,10 +768,8 @@ W
   ====
 C
   ==
-  - Williams' 蚱蜢: Changed Middle Chinese _(5)mang_ (mang5)
-    to common reading _(5)m(a/)ng_ (maang5).
-  - Williams' 蚱蟬: Changed Middle Chinese _(4)sh(i/)n_ (sin4)
-    to common reading _(4)sh(i/)m_ (sim4).
+  - Williams' 蚱蜢: Changed _(5)mang_ (mang5) to common reading _(5)m(a/)ng_ (maang5).
+  - Williams' 蚱蟬: Changed _(4)sh(i/)n_ (sin4) to common reading _(4)sh(i/)m_ (sim4).
   ==
 $$
 

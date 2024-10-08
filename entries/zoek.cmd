@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoek
-* %date-modified --> 2024-10-06
+* %date-modified --> 2024-10-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -690,8 +690,7 @@ W
   ====
 C
   ==
-  - Williams' 雀舌花: Changed Middle Chinese _sh(i/)t(9)_ (sit6)
-    to common reading _sh(i/)t(8)_ (sit3).
+  - Williams' 雀舌花: Changed _sh(i/)t(9)_ (sit6) to common reading _sh(i/)t(8)_ (sit3).
   ==
 E
   ====

@@ -649,9 +649,7 @@ W
   ====
 C
   ==
-  - Williams' 沉溺:
-    Changed Middle Chinese _nik(9)_ (nik6)
-    to common reading _nik(7)_ (nik1).
+  - Williams' 沉溺: Changed _nik(9)_ (nik6) to common reading _nik(7)_ (nik1).
   - Williams' 沉重: Corrected _chung(6)_ (zung6 去聲) to _(5)ch(')ung_ (cung5 上聲).
   ==
 $$

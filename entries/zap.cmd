@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zap
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-10-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -238,8 +238,7 @@ C
   ==
   - Williams' alternative reading:
     This is an interchanging with 協.
-    Changed Middle Chinese _h(i/)p(9)_ (hip6)
-    to common reading _h(i/)p(8)_ (hip3).
+    Changed _h(i/)p(9)_ (hip6) to common reading _h(i/)p(8)_ (hip3).
   ==
 $$
 

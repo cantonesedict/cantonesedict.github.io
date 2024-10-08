@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2024-10-06
+* %date-modified --> 2024-10-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -684,9 +684,7 @@ W
   ====
 C
   ==
-  - Williams' 茶匙:
-    Changed Middle Chinese _(4)sh(i/)_ (si4)
-    to common reading _(4)ch(')(i/)_ (ci4).
+  - Williams' 茶匙: Changed _(4)sh(i/)_ (si4) to common reading _(4)ch(')(i/)_ (ci4).
   ==
 E
   ====

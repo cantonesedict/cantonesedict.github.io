@@ -507,8 +507,7 @@ W
   ====
 C
   ==
-  - Williams' 鶬鴰: Changed Middle Chinese _k(u/)t(8)_ (gut3)
-    to common reading _k(')(u/)t(8)_ (kut3).
+  - Williams' 鶬鴰: Changed _k(u/)t(8)_ (gut3) to common reading _k(')(u/)t(8)_ (kut3).
   ==
 $$
 

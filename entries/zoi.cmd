@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoi
-* %date-modified --> 2024-10-05
+* %date-modified --> 2024-10-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -114,8 +114,7 @@ W
   ====
 C
   ==
-  - Williams' 仁遠乎哉: Changed Middle Chinese _(4)(u/)_ (wu4)
-    to common reading _(4)f(u/)_ (fu4).
+  - Williams' 仁遠乎哉: Changed _(4)(u/)_ (wu4) to common reading _(4)f(u/)_ (fu4).
   - Williams' 野哉由也: Corrected _y(a/)(6)_ (jaa6) to _(5)y(a/)_ (jaa5).
   ==
 $$
@@ -684,7 +683,6 @@ C
   ==
   - Williams' 在位幾耐呢: Changed _(1)n(i/)_ (ni1) to modern _(1)n(e/)_ (ne1).
   - Williams' 在下低: Corrected _(2)tai_ (dai2) to _(1)tai_ (dai1).
-  - Williams' 不在乎: Changed Middle Chinese _(4)(u/)_ (wu4)
-    to common reading _(4)f(u/)_ (fu4).
+  - Williams' 不在乎: Changed _(4)(u/)_ (wu4) to common reading _(4)f(u/)_ (fu4).
   ==
 $$

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cek
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-10-08
 * %copyright-prior-years -->
 
 %%%
@@ -137,8 +137,7 @@ C
   - Williams has been misled by Fan Wan
     into placing this under _Ch(')ik(9)_ (cik6) / _Ch(')ek(9)_ (cek6).
     See remarks under $cek3.
-  - Williams' 尺蠖: Changed Middle Chinese _wok(8)_ (wok3)
-    to common reading _wok(9)_ (wok6).
+  - Williams' 尺蠖: Changed _wok(8)_ (wok3) to common reading _wok(9)_ (wok6).
   - Williams' 尺一之書: From the length of 1.1~_ch(')ek_
     for the writing-boards used for imperial decrees.
   - Williams' 尺度: More correctly the noun "measure", as 度 is in departing tone.

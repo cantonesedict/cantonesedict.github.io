@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2024-10-06
+* %date-modified --> 2024-10-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -630,9 +630,7 @@ W
   ====
 C
   ==
-  - Williams' 掣肘:
-    Changed Middle Chinese _(2)chau_ (zau2)
-    to common reading _(2)ch(a/)u_ (zaau2).
+  - Williams' 掣肘: Changed _(2)chau_ (zau2) to common reading _(2)ch(a/)u_ (zaau2).
   - Williams' 掣籤: Also given as an example
     under entering tone _ch(')(i/)t(8)_ (cit3)^,
     which is the proper reading for the "select" sense per Kangxi 又揭也取也.

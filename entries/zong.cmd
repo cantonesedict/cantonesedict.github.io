@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zong
-* %date-modified --> 2024-10-05
+* %date-modified --> 2024-10-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -707,8 +707,7 @@ C
   ==
   - Fan Wan entry: Corrected ⿸疒圶 to 瘞.
   - Williams misprints 葬(3)塟(3) as 葬(8)塟(8); here corrected.
-  - Williams' 厚葬: Changed Middle Chinese _hau(6)_ (hau6)
-    to common reading _(5)hau_ (hau5).
+  - Williams' 厚葬: Changed _hau(6)_ (hau6) to common reading _(5)hau_ (hau5).
   - Williams' 把佢監生葬: Changed _(1)shang_ (sang1)
     to vernacular reading _(1)sh(a/)ng_ (saang1).
   ==

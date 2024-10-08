@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2024-10-06
+* %date-modified --> 2024-10-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -823,8 +823,7 @@ W
   ====
 C
   ==
-  - Williams' 孟陬: Changed Middle Chinese _mang(6)_ (mang6)
-    to common reading _m(a/)ng(6)_ (maang6).
+  - Williams' 孟陬: Changed _mang(6)_ (mang6) to common reading _m(a/)ng(6)_ (maang6).
   ==
 $$
 
@@ -1316,8 +1315,7 @@ C
   ==
   - Fan Wan entry: Corrected duplicate headword 咒 to 呪.
   - Williams' 念咒: More reciting an incantation than a prayer.
-  - Williams' 禱咒: Changed Middle Chinese _(2)t(o\)_ (dou2)
-    to common reading _(2)t(')(o\)_ (tou2).
+  - Williams' 禱咒: Changed _(2)t(o\)_ (dou2) to common reading _(2)t(')(o\)_ (tou2).
   ==
 $$
 

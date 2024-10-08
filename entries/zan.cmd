@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zan
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-10-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -605,7 +605,7 @@ W
 C
   ==
   - Williams' 一陣陣冷:
-    Changed Middle Chinese _(5)lang_ (lang5) to common reading _(5)l(a/)ng_ (laang5).
+    Changed _(5)lang_ (lang5) to common reading _(5)l(a/)ng_ (laang5).
   - Williams' 使女人陣: Literally, "employ [the] women's formation".
   - Williams' 陣勢: Figuratively, the situation of the battle.
   ==

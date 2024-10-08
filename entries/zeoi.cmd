@@ -479,8 +479,7 @@ W
   ====
 C
   ==
-  - Williams' 咀嚼吓: Changed Middle Chinese _ts(e/)uk(9)_ (zoek6)
-    to common reading _ts(e/)uk(8)_ (zoek3).
+  - Williams' 咀嚼吓: Changed _ts(e/)uk(9)_ (zoek6) to common reading _ts(e/)uk(8)_ (zoek3).
   - Williams' 含英咀華: Corrected _(1)w(a/)_ (waa1) to _(4)w(a/)_ (waa4).
   - It is only in modern Cantonese
     that 咀 _(2)ts(u")_ and 嘴 _(2)tsui_ are homophonous (both zeoi2),

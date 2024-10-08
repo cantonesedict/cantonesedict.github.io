@@ -435,7 +435,7 @@ W
   ====
 C
   ==
-  - Williams' 觸礁: Changed Middle Chinese _ch(')uk(7)_ (cuk1)
+  - Williams' 觸礁: Changed _ch(')uk(7)_ (cuk1)
     (incorrectly printed _(1)ch(')uk_) to common reading _chuk(7)_ (zuk1).
   ==
 $$
@@ -1008,8 +1008,7 @@ W
   ====
 C
   ==
-  - Williams' 牛噍牡丹: Changed Middle Chinese _(5)mau_ (mau5)
-    to common reading _(5)m(a/)u_ (maau5).
+  - Williams' 牛噍牡丹: Changed _(5)mau_ (mau5) to common reading _(5)m(a/)u_ (maau5).
   ==
 E
   ====

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-10-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -204,9 +204,7 @@ W
   ====
 C
   ==
-  - Williams' 鵪鶉:
-    Changed Middle Chinese _(4)shun_ (seon4)
-    to common reading _(1)ch(')un_ (ceon1).
+  - Williams' 鵪鶉: Changed _(4)shun_ (seon4) to common reading _(1)ch(')un_ (ceon1).
   ==
 $$
 

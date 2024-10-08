@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zim
-* %date-modified --> 2024-10-06
+* %date-modified --> 2024-10-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -108,9 +108,7 @@ W
   ====
 C
   ==
-  - Williams' 占兆:
-    Changed Middle Chinese _chi(u/)(6)_ (ziu6)
-    to common reading _shi(u/)(6)_ (siu6).
+  - Williams' 占兆: Changed _chi(u/)(6)_ (ziu6) to common reading _shi(u/)(6)_ (siu6).
   ==
 E
   ====

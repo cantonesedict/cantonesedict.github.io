@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2024-10-06
+* %date-modified --> 2024-10-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -89,8 +89,7 @@ W
   ====
 C
   ==
-  - Williams' 僉押: Changed Middle Chinese _(a/)p(8)_ (aap3)
-    to common reading _(a/)t(8)_ (aat3).
+  - Williams' 僉押: Changed _(a/)p(8)_ (aap3) to common reading _(a/)t(8)_ (aat3).
   ==
 $$
 
