@@ -819,6 +819,7 @@ $$
 - $敘6
 - $綴6
 - $縋6
+- $罪6
 - $聚6
 - $藇6
 - $贅6
@@ -1040,6 +1041,78 @@ W
         lead put in sycee.
     ==
   ====
+$$
+
+### 罪6 | _Ts(u/)i(6)_ [[zeoi6]]
+
+$$
+R
+  ⽹ + 8
+U
+  U+7F6A
+A
+  ==
+  - $辠6
+  ==
+F
+  ==
+  - [[F1.48 罪]] 罰也
+  - [[F1.48 辠]] 同上
+  ==
+W
+  ====
+  - [[Page~598 罪(6)辠(6)]]
+    ==
+    - A bamboo net for fish;
+    - to become entangled in the net of the law;
+    - trespass, crime, sin, fault;
+    - a violation of the rules of the land or decorum;
+    - to criminate, to regard as a criminal;
+    - punishment, retribution;
+    - _tak(7) ts(u/)i(6) (1)(u") (1)t(')(i/)n_
+        [[dak1 zeoi6 jyu1 tin1 得罪於天]],
+        to sin against Heaven;
+    - _ts(u/)i(6) kwo(3)_
+        [[zeoi6 gwo3 罪過]]
+        a fault, a crime;
+    - _(4)(u")n ts(u/)i(6) (5)yau (2)ho (4)(u")n_
+        [[jyun4 zeoi6 jau5 ho2 jyun4 ？罪有可原]],
+        the crime can be exculpated;
+    - _[fat](9) ts(u/)i(6)_
+        [[fat6 zeoi6 罰罪]]
+        to punish crime;
+    - _sh(e/)(3) ts(u/)i(6)_
+        [[se3 zeoi6 赦罪]]
+        to forgive sins;
+    - _(1)kwan ts(u/)i(6)_
+        [[gwan1 zeoi6 軍罪]]
+        exile to (I/)l(i/) [[？？]];
+    - _sh(u")(3) ts(u/)i(6)_
+        [[syu3 zeoi6 恕罪]]
+        excuse me;
+    - _f(a/)n(6) ts(u/)i(6)_
+        [[faan6 zeoi6 犯罪]]
+        to offend the laws;
+    - _shuk(9) ts(u/)i(6)_
+        [[suk6 zeoi6 贖罪]]
+        to redeem or ransom criminals;
+    - _f(u/)(6) (1)king (2)ts(')ing ts(u/)i(6)_
+        [[fu6 ging1 cing2 zeoi6 負荊請罪]]
+        to take a rod and request punishment
+        --- an affected phrase of officers;
+    - _f(u/)i(3) ts(u/)i(6)_
+        [[fui3 zeoi6 悔罪]]
+        to repent of sins;
+    - _ts(u/)i(6) (2)sho (1)ying tak(7)_
+        [[zeoi6 so2 jing1 dak1 罪所應得]]
+        a punishment well deserved.
+    ==
+  ====
+C
+  ==
+  - Williams' 罪過: Also a polite (interjectional) apology.
+  - Williams' 罰罪: Changed _f(a/)t(9)_ (faat6) to modern _fat(9)_ (fat6).
+  ==
 $$
 
 ### 聚6 | _Ts(u")(6)_ [[zeoi6]]
