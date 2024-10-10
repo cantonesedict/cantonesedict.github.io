@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2024-10-08
+* %date-modified --> 2024-10-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -185,7 +185,7 @@ W
         [[zaa1 seoi2 zyu1 juk6 揸水豬肉]]
         water-sogged pork;
     - _(1)ch(a/) (2)fo (4)t(')ung_
-        [[zaa1 fo2 tung4 揸伙？]],
+        [[zaa1 fo2 tung4 揸火筒]],
         to be a scullion;
     - _(5)yau (1)ch(a/) (2)shau_
         [[jau5 zaa1 sau2 有揸手]]^
