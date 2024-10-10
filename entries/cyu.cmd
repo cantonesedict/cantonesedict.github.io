@@ -370,7 +370,7 @@ S
   ==
 $$
 
-### 樞4 | _(4)Ch(')(u")_ [[cyu4]]
+### [樞]4 | _(4)Ch(')(u")_ [[cyu4]]
 
 $$.
 R
@@ -386,6 +386,10 @@ W
     [[Idiosyncratic reading from Fan Wan. **See $樞syu1 for the canonical entry.**]]
     --
   ====
+C
+  ==
+  - Williams misprints 樞 as 摳; here corrected.
+  ==
 S
   ==
   - $樞syu1 (TODO)
