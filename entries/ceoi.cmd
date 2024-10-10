@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2024-10-09
+* %date-modified --> 2024-10-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -61,11 +61,42 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $滁4
 - $蜍4
 - $除4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 滁4 | _(4)Ch(')(u")_ [[ceoi4]]
+
+$$
+R
+  ⽔ + 10
+U
+  U+6EC1
+V
+  ==
+  - cyu4 (uncommon)
+  ==
+F
+  ==
+  - [[F1.45 滁]] 水名
+  ==
+W
+  ====
+  - [[Page~32* (4)滁]]
+    ==
+    - A branch of the R.~Y(a/)ngtsz' [[揚子]]
+      flowing in between Nanking [[南京]] and (I/)ching [[？？]];
+    - a city in the east of Ng(a/)nhwui [[安徽]].
+    ==
+  ====
+S
+  ==
+  - $滁cyu4
+  ==
+$$
 
 ### 蜍4 | _(4)Ch(')(u")_ [[ceoi4]]
 
