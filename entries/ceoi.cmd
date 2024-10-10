@@ -61,6 +61,7 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $廚4
 - $滁4
 - $篨4
 - $蜍4
@@ -68,6 +69,59 @@ $$
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 廚4 | _(4)Ch(')(u")_ [[ceoi4]]
+
+$$
+R
+  ⼴ + 12
+U
+  U+5EDA
+A
+  ==
+  - $厨4
+  ==
+V
+  ==
+  - ceoi4-2 (uncommon vernacular for "chef" sense)
+  - cyu4 (alternative)
+  - cyu4-2 (vernacular for "chef" sense)
+  ==
+F
+  ==
+  - [[F1.45 ::[厨]::]] ::庖[厨]::
+  ==
+W
+  ====
+  - [[Page~32* (4)廚(4)厨]]
+    ==
+    - A kitchen, a cook-room;
+    - a slaughter-house;
+    - a quiver;
+    - _(4)ch(')(u") (4)yan_ [[cyu4 jan4 廚人]]^
+        or
+      _(4)ch(')(u") (1)k(u/)n_ [[cyu4 gun1 廚官]],
+        a cook;
+    - _(1)pong (4)ch(')(u") (4)yan_
+        [[bong1 cyu4 jan4 幫廚人]],
+        a cook's mate, a scullion;
+    - _ki(u/)(3) ts(o\) (4)ch(')(u")_
+        [[giu3 zou6 cyu4-2 叫做廚]],
+        call the cook;
+    - _(4)ch(')(u") (4)fong_
+        [[cyu4 fong4-2 廚房]],
+        a kitchen.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised headword ⿸广⿰豆寸 to 厨.
+  ==
+S
+  ==
+  - $廚cyu4
+  ==
+$$
 
 ### 滁4 | _(4)Ch(')(u")_ [[ceoi4]]
 
