@@ -61,6 +61,7 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $厨4
 - $廚4
 - $滁4
 - $篨4
@@ -69,6 +70,34 @@ $$
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 厨4 | _(4)Ch(')(u")_ [[ceoi4]]
+
+$$.
+R
+  ⼚ + 10
+U
+  U+53A8
+F
+  ==
+  - [[F1.45 ::[厨]::]] ::庖[厨]::
+  ==
+W
+  ====
+  - [[Page~32* (4)廚(4)厨]]
+    --
+    [[Alternative form of 廚. **See $廚ceoi4 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised headword ⿸广⿰豆寸 to 厨.
+  ==
+S
+  ==
+  - $厨cyu4
+  ==
+$$
 
 ### 廚4 | _(4)Ch(')(u")_ [[ceoi4]]
 
