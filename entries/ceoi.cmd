@@ -62,6 +62,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $滁4
+- $篨4
 - $蜍4
 - $除4
 ==
@@ -95,6 +96,38 @@ W
 S
   ==
   - $滁cyu4
+  ==
+$$
+
+### 篨4 | _(4)Ch(')(u")_ [[ceoi4]]
+
+$$
+R
+  ⽵ + 10
+U
+  U+7BE8
+V
+  ==
+  - cyu4 (uncommon)
+  ==
+F
+  ==
+  - [[F1.45 篨]] 籧篨醜疾也
+  ==
+W
+  ====
+  - [[Page~32* (4)篨]]
+    ==
+    - A mat rolled up;
+    - _(4)k(')(u") (4)ch(')(u")_
+        [[keoi4 ceoi4 籧篨]],
+        a coarse mat;
+        _met._ a bad ailment, repulsive, hunchbacked.
+    ==
+  ====
+S
+  ==
+  - $篨cyu4
   ==
 $$
 
