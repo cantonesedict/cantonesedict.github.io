@@ -63,6 +63,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $吹1
+- $龡1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -114,6 +115,31 @@ W
         [[ceoi1 fo2 tung4 ceot1 san1 吹火筒出身]],
         began life as a firelighter.
     ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword (with 比-like centre-left instead of ⿲口口口) to 龡.
+  ==
+$$
+
+### 龡1 | _(1)Ch(')ui_ [[ceoi1]]
+
+$$
+R
+  ⿕ + 4
+U
+  U+9FA1
+F
+  ==
+  - [[F2.55 吹]] 風吹又吹噓
+  - [[F2.55 ::[龡]::]] 同上
+  ==
+W
+  ====
+  - [[Page~34* (1)吹(1)龡]]
+    --
+    [[Alternative form of 吹. **See $吹ceoi1 for the canonical entry.**]]
+    --
   ====
 C
   ==
