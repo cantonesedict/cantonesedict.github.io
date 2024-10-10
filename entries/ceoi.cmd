@@ -120,6 +120,40 @@ C
   ==
   - Fan Wan entry: Corrected headword (with 比-like centre-left instead of ⿲口口口) to 龡.
   ==
+E
+  ====
+  - 【吹】 (ceoi1):
+    ++
+    1. Short for [吹水](#cantonese-吹水).
+    1. Short for [吹脹](#cantonese-吹脹) in the rhetorical interrogative sense,
+       where one taunts a victim for retributive action
+       after inflicting an injustice upon them.
+       ==
+       - 吹呀 (ceoi1 a4): "[Gonna] rile [me]?" (i.e. what can you do in response?)
+       - 吹咩 (ceoi1 me1): "[Gonna] rile [me]?" (i.e. what can you do in response?)
+       ==
+    ++
+  - 【吹水】 (ceoi1 seoi2):
+    ++
+    1. To brag, to boast, to exaggerate.
+       ==
+       - 又吹水 (jau6 ceoi1 seoi2): "Talking big again [eh]?"
+       - 正一吹水哥 (zing1 jat1 ceoi1 seoi2 go1): "[He's a] right big-mouth."
+       ==
+    1. To converse casually.
+       ==
+       - 得閒吹吓水 (dak1 haan4 ceoi1 haa5 seoi2): "[When we're] free [let's] have [a] chat."
+       ==
+    ++
+  - 【吹脹】 (ceoi1 zoeng3):
+    ++
+    1. To vex, to irk.
+       ==
+       - 真係吹脹 (zan1 hai6 ceoi1 zoeng3): "[It's] really riled [me] up!"
+       - 吹佢唔脹 (ceoi1 keoi5 m4 zoeng3): "Can't rile him up."
+       ==
+    ++
+  ====
 $$
 
 ### 龡1 | _(1)Ch(')ui_ [[ceoi1]]
