@@ -66,6 +66,7 @@ $$
 - $滁4
 - $篨4
 - $蜍4
+- $躕4
 - $除4
 ==
 </nav>
@@ -242,6 +243,40 @@ S
   ==
   - $蜍cyu4
   - $蜍syu4 (TODO)
+  ==
+$$
+
+### [躕]4 | _(4)Ch(')(u")_ [[ceoi4]]
+
+$$
+R
+  ⾜ + 15
+U
+  U+8E95
+V
+  ==
+  - cyu4 (alternative)
+  ==
+F
+  [[F1.45 ::[蹰]::]] ::踟[蹰]::
+W
+  ====
+  - [[Page~32* (4)::[躕]::]]
+    ==
+    - Embarrassed, hindered;
+    - _(4)ch(')(i/) (4)ch(')(u")_
+        [[ci4 ceoi4 踟躕]],
+        entangled.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised headword ⿰𧾷⿸广⿰豆寸 to 蹰.
+  - Williams entry: Normalised headword 𨆼 (⿰𧾷㕑) to 躕.
+  ==
+S
+  ==
+  - $躕cyu4
   ==
 $$
 
