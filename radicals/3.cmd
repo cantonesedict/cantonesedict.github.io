@@ -102,6 +102,7 @@ For all radicals, see [Index of characters by radical](./).
       - $呀ngaa4
       - $呃aak1
       - $吵caau2
+      - $吹ceoi1
       - $呈cing4
       - $吱zi1
       ==

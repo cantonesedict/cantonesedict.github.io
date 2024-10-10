@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [ceoi1](#1)
 - [ceoi4](#4)
 ==
 </nav>
@@ -52,6 +53,71 @@ MP
 S
   ==
   - $cyu
+  ==
+$$
+
+
+##{#1 .williams} (1)Ch(')ui (1)Ts(')(u") (1)Ts(')(u/)i [[ceoi1 陰平]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $吹1
+==
+</nav>
+<## /tone-1-characters ##>
+
+### 吹1 | _(1)Ch(')ui_ [[ceoi1]]
+
+$$
+R
+  ⼝ + 4
+U
+  U+5439
+A
+  ==
+  - $龡1
+  ==
+F
+  ==
+  - [[F2.55 吹]] 風吹又吹噓
+  - [[F2.55 ::[龡]::]] 同上
+  ==
+W
+  ====
+  - [[Page~34* (1)吹(1)龡]]
+    ==
+    - To blow, as the wind or by breath;
+    - to whistle;
+    - to puff;
+    - a blast, a gust;
+    - to play on a wind instrument;
+    - _(1)ch(')ui (1)h(u") (5)h(a/)_
+        [[ceoi1 heoi1 haa5 吹噓吓]],
+        recommend him;
+    - _(1)ch(')ui ch(')(e/)ung(3)_
+        [[ceoi1 coeng3 吹唱]]
+        singing and playing;
+    - _(1)ch(')ui (4)t(')ung_
+        [[ceoi1 tung4 吹筒]],
+        to blow the sumpitan;
+    - _(1)ch(')ui (1)tang_
+        [[ceoi1 dang1 吹燈]],
+        blow out the lamp;
+    - _(1)tang (1)ch(')ui_
+        [[dang1 ceoi1 燈吹]],
+        a blowpipe;
+    - _(1)ch(')ui (2)t(a/) (2)l(o\)_
+        [[ceoi1 daa2 lou2 吹打佬]],
+        musicians;
+    - _(1)ch(')ui (2)fo (4)t(')ung ch(')ut(7) (1)shan_
+        [[ceoi1 fo2 tung4 ceot1 san1 吹火筒出身]],
+        began life as a firelighter.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword (with 比-like centre-left instead of ⿲口口口) to 龡.
   ==
 $$
 
