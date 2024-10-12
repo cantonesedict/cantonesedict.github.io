@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2024-10-10
+* %date-modified --> 2024-10-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -63,6 +63,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $吹1
+- $炊1
 - $龡1
 ==
 </nav>
@@ -77,6 +78,7 @@ U
   U+5439
 A
   ==
+  - $炊1
   - $龡1
   ==
 F
@@ -154,6 +156,37 @@ E
        ==
     ++
   ====
+$$
+
+### 炊1 | _(1)Ch(')ui_ [[ceoi1]]
+
+$$
+R
+  ⽕ + 4
+U
+  U+708A
+F
+  ==
+  - [[F2.55 炊]] ::炊[爨]::
+  ==
+W
+  ====
+  - [[Page~34* (1)炊]]
+    --
+    Used for the last [[$吹1]].
+    --
+    ==
+    - To dress food;
+    - to cook;
+    - _(1)ch(')ui f(a/)n(6)_
+        [[ceoi1 faan6 炊飯]]
+        to cook rice.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected bottom component of 爨 from 夾 to ⿳林大火.
+  ==
 $$
 
 ### 龡1 | _(1)Ch(')ui_ [[ceoi1]]
