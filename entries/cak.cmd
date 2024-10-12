@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cak
-* %date-modified --> 2024-10-05
+* %date-modified --> 2024-10-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -119,7 +119,7 @@ W
     - _pat(7) ch(')ak(7)_
         [[bat1 cak1 不測]]
         unexpected;
-    - _(1)t(')ui ch(')ak(7)_
+    - _(1)[t(')(u/)i] ch(')ak(7)_
         [[teoi1 cak1 推測]]
         to explain, to reason;
     - _pat(7) (2)ho ch(')ak(7)_
@@ -127,6 +127,10 @@ W
         incomprehensible.
     ==
   ====
+C
+  ==
+  - Williams' 推測: Corrected _(1)t(')ui_ to _(1)t(')(u/)i_.
+  ==
 S
   ==
   - $測caak1
