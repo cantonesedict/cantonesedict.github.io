@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-10-08
+* %date-modified --> 2024-10-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1477,7 +1477,7 @@ W
   - [[Page~611 (1)錙]]
     ==
     - A weight equal to six _(1)ch(u")_ [[zyu1]] 銖
-      or the fourth part of a tael,
+      or the fourth part of a tael [[両]],
       not now in use;
     - _(1)tsz' (1)ch(u")_
         [[zi1 zyu1 錙銖]],

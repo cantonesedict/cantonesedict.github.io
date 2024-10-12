@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2024-10-05
+* %date-modified --> 2024-10-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -702,7 +702,7 @@ W
     ==
     - A small ancient silver coin,
       estimated as equal to 100~grains of millet;
-    - 24~made a tael;
+    - 24~made a tael [[両]];
     - farthings, coppers;
     - trifles;
     - blunt, dull.

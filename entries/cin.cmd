@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cin
-* %date-modified --> 2024-10-08
+* %date-modified --> 2024-10-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -706,7 +706,7 @@ W
     - Copper coin, cash, coppers;
     - coin, a piece of money;
     - cash, wealth, money, property;
-    - a tenth of a tael, or mace, which the cash once weighed;
+    - a tenth of a tael [[両]], or mace, which the cash once weighed;
     - _(4)t(')ung (4)ts(')(i/)n_
         [[tung4 cin4 銅錢]],
         copper cash;
