@@ -401,6 +401,7 @@ For all radicals, see [Index of characters by radical](./).
       - $掙zaang6
       - $掙zang1
       - $掙zang3
+      - $推ceoi1
       - $掣cit3
       - $掣zai3
       - $採coi2

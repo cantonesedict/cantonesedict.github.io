@@ -63,6 +63,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $吹1
+- $推1
 - $炊1
 - $龡1
 ==
@@ -156,6 +157,31 @@ E
        ==
     ++
   ====
+$$
+
+### 推1 | _(1)Ch(')ui_ [[ceoi1]]
+
+$$.
+R
+  ⼿ + 8
+U
+  U+63A8
+F
+  ==
+  - [[F2.55 推]] 讓也奬也薦也又尋繹也
+  - [[F2.80 推 _(1)T(')(u/)i_ (teoi1)]] 透杯切盪也排擠也祛也
+  ==
+W
+  ====
+  - [[Page~34* (1)推]]
+    --
+    [[Reading variation (per 《廣韻》叉隹切). **See $推teoi1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $推teoi1 (TODO)
+  ==
 $$
 
 ### 炊1 | _(1)Ch(')ui_ [[ceoi1]]
