@@ -248,6 +248,7 @@ $$
 =={.modern}
 - $厨4
 - $廚4
+- $槌4
 - $滁4
 - $篨4
 - $蜍4
@@ -336,6 +337,54 @@ S
   ==
   - $廚cyu4
   ==
+$$
+
+### 槌4 | _(4)Ch(')ui_ [[ceoi4]]
+
+$$
+R
+  ⽊ + 10
+U
+  U+69CC
+A
+  ==
+  - $椎4
+  ==
+V
+  ==
+  - ceoi4-2 (vernacular rising-tone noun)
+  ==
+F
+  ==
+  - [[F2.56 椎]] 木椎
+  - [[F2.56 槌]] 同上
+  ==
+W
+  ====
+  - [[Page~34* (4)槌(4)椎]]
+    ==
+    - A mallet, a beater, a club, a bludgeon;
+    - a beetle;
+    - to beat, to strike;
+    - to throw;
+    - _(4)ch(')ui (2)k(u/)_
+        [[ceoi4 gu2 槌鼓]],
+        to drum;
+    - _(2)k(u/) (4)ch(')ui_
+        [[gu2 ceoi4 鼓槌]],
+        a drumstick;
+    - _(2)t(a/) (1)chong (4)ch(')ui_
+        [[daa2 zong1 ceoi4 打樁槌]],
+        a pile-hammer;
+    - _(4)lui (4)ch(')ui_
+        [[leoi4 ceoi4 ？槌]], [[TODO]]^
+        a triturating pestle;
+        _met._ large fingers;
+    - _(4)ch(')ui p(u/)i(3)_
+        [[ceoi4 bui3 槌？]] [[TODO]]
+        to shampoo[.]
+    ==
+  ====
 $$
 
 ### 滁4 | _(4)Ch(')(u")_ [[ceoi4]]

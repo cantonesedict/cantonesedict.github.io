@@ -1069,6 +1069,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $槎caa4
+      - $槌ceoi4
       - $槍coeng1
       - $榨zaa3
       - $榭ze6
