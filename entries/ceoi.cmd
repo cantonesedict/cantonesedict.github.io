@@ -12,8 +12,6 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 #{.williams} Ch(')(u") Ch(')ui. Ts(')(u"). Ts(')ui. Ts(')(u/)i. [[ceoi]]
 
-<## TODO: Prepend Ch(')(u") ##>
-
 <nav class="sideways">
 =={.modern}
 - (Work in progress)
@@ -403,14 +401,18 @@ W
         [[daa2 zong1 ceoi4 打樁槌]],
         a pile-hammer;
     - _(4)lui (4)ch(')ui_
-        [[leoi4 ceoi4 ？槌]], [[TODO]]^
+        [[leoi4 ceoi4 擂槌]],
         a triturating pestle;
         _met._ large fingers;
     - _(4)ch(')ui p(u/)i(3)_
-        [[ceoi4 bui3 槌？]] [[TODO]]
+        [[ceoi4 bui3 槌背]]
         to shampoo[.]
     ==
   ====
+C
+  ==
+  - Williams' 擂槌: Corrected _(4)lui_ to _(4)l(u/)i_.
+  ==
 $$
 
 ### 滁4 | _(4)Ch(')(u")_ [[ceoi4]]
