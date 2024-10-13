@@ -61,6 +61,7 @@ $$
 - $趄1
 - $追1
 - $錐1
+- $隹1
 - $雎1
 - $騅1
 ==
@@ -440,6 +441,27 @@ W
         miserably poor, not a place to stick an awl.
     ==
   ====
+$$
+
+###+ 隹1 | _(1)Chui_ (zeoi1)
+
+$$
+R
+  ⾫ + 0
+U
+  U+96B9
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Not present in Williams;
+    an entry is included here for completeness.
+    ++
+    1. Short-tailed birds in general.
+    ++
+  ==
 $$
 
 ###+ 雎1 | _(1)Ts(u")_ (zeoi1)
