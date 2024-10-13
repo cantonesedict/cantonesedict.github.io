@@ -1035,6 +1035,7 @@ For all radicals, see [Index of characters by radical](./).
       - $椆cau4
       - $椆zau3
       - $椎ceoi4
+      - $椎zeoi1
       - $棹coek3
       - $棹zaau3
       - $棹zaau6

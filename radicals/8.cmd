@@ -415,6 +415,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Character entry links
 |:
   //
+    , 0
+    ,
+      <nav class="sideways">
+      ==
+      - $隹zeoi1
+      ==
+      </nav>
+  //
     , 2
     ,
       <nav class="sideways">
