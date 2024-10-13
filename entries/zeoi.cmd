@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2024-10-08
+* %date-modified --> 2024-10-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -52,6 +52,7 @@ $$
 =={.modern}
 - $且1
 - $沮1
+- $椎1
 - $疽1
 - $睢1
 - $苴1
@@ -123,6 +124,32 @@ S
   ==
   - $沮zeoi2
   - $沮zeoi3
+  ==
+$$
+
+###+ 椎1 | _(1)Chui_ (zeoi1)
+
+$$
+R
+  ⽊ + 8
+U
+  U+690E
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - The reading _(1)chui_ (zeoi1) for 椎 is not present in Williams;
+    an entry is included here for completeness.
+    ++
+    1. A vertebra (in 脊椎 etc.).
+    1. A type of tree, like the chestnut but small.
+    ++
+  ==
+S
+  ==
+  - $椎ceoi4
   ==
 $$
 
