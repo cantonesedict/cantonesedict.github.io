@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2024-10-12
+* %date-modified --> 2024-10-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -390,7 +390,7 @@ W
     - A mallet, a beater, a club, a bludgeon;
     - a beetle;
     - to beat, to strike;
-    - to throw;
+    - [[see $槌deoi1 for "throw" senses]]; [[TODO]]
     - _(4)ch(')ui (2)k(u/)_
         [[ceoi4 gu2 槌鼓]],
         to drum;
@@ -412,6 +412,10 @@ W
 C
   ==
   - Williams' 擂槌: Corrected _(4)lui_ to _(4)l(u/)i_.
+  ==
+S
+  ==
+  - $槌deoi1 (TODO)
   ==
 $$
 
