@@ -245,10 +245,36 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $惴2
 - $揣2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 惴2 | _(2)Ch(')ui_ [[ceoi2]]
+
+$$.
+R
+  ⼼ + 9
+U
+  U+60F4
+F
+  ==
+  - [[F2.56 惴]] 恐懼貌
+  ==
+W
+  ====
+  - [[Page~34* (2)惴]]
+    --
+    [[Reading variation. **See $惴zeoi3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $惴cyun2 (TODO)
+  - $惴zeoi3 (TODO)
+  ==
+$$
 
 ### 揣2 | _(2)Ch(')ui_ [[ceoi2]]
 
