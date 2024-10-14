@@ -254,6 +254,7 @@ $$
 - $篨4
 - $蜍4
 - $躕4
+- $錘4
 - $除4
 ==
 </nav>
@@ -600,6 +601,71 @@ S
   ==
   - $躕cyu4
   ==
+$$
+
+### 錘4 | _(4)Ch(')ui_ [[ceoi4]]
+
+$$
+R
+  ⾦ + 9
+U
+  U+9318
+A
+  ==
+  - $鎚4
+  ==
+V
+  ==
+  - ceoi4-2 (vernacular rising-tone noun)
+  ==
+F
+  ==
+  - [[F2.56 錘]] 鉄錘又秤錘
+  ==
+W
+  ====
+  - [[Page~34* (4)錘(4)鎚]]
+    ==
+    - The weight on a steelyard;
+    - a hammer;
+    - to hammer;
+    - to beat, to pound;
+    - a blow, a knock;
+    - _(4)ch(')ui (4)t(')au_
+        [[ceoi4 tau4 錘頭]],
+        the fist;
+    - _(4)w(a/)ng (4)ch(')ui_
+        [[waang4 ceoi4 橫錘]],
+        a side blow;
+    - _yat[(7)] (4)ch(')ui (2)t(a/) (2)t(o\)_
+        [[jat1 ceoi4 daa2 dou2 一錘打倒]],
+        felled him with a blow;
+    - _(4)ch(')ui l(a/)n(6)_
+        [[ceoi4 laan6 錘爛]]
+        hammered to pieces.
+    ==
+    --
+    The first word [[錘]] also means a weight of 12~taels [[両]].
+    --
+  ====
+C
+  ==
+  - Williams' 一錘打倒: Corrected _yat_ (jat) to _yat(7)_ (jat1).
+  ==
+E
+  ====
+  - 【錘】 (ceoi4):
+    ++
+    1. A punch with the fist.
+       ==
+       - 打佢兩錘 (daa2 keoi5 loeng5 ceoi4): "Hit him [with] two blows."
+       ==
+    ++
+  - 【錘仔】 (ceoi4 zai2):
+    ++
+    1. A hammer.
+    ++
+  ====
 $$
 
 ### 除4 | _(4)Ch(')(u")_ [[ceoi4]]
