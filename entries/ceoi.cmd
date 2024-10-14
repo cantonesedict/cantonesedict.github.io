@@ -272,7 +272,7 @@ W
 S
   ==
   - $惴cyun2 (TODO)
-  - $惴zeoi3 (TODO)
+  - $惴zeoi3
   ==
 $$
 

@@ -132,6 +132,7 @@ For all radicals, see [Index of characters by radical](./).
       - $愀cau1
       - $愀ciu2
       - $惴ceoi2
+      - $惴zeoi3
       - $慈ci4
       ==
       </nav>

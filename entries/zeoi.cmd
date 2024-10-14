@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2024-10-12
+* %date-modified --> 2024-10-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -777,6 +777,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $最3
+- $惴3
 - $沮3
 - $綴3
 - $醉3
@@ -820,6 +821,38 @@ W
         the most convenient, very handy.
     ==
   ====
+$$
+
+###+ 惴3 | _Chui(3)_ (zeoi3)
+
+$$
+R
+  ⼼ + 9
+U
+  U+60F4
+F
+  ==
+  - [[F2.56 惴 _(2)Ch(')ui_ (ceoi2)]] 恐懼貌
+  ==
+W
+  ====
+  - [[Page~34* (2)惴 _(2)Ch(')ui_ (ceoi2); here normalised to _Chui(3)_ (zeoi3)]]
+    ==
+    - Mournful;
+    - in straits;
+    - _[chui(3)] [chui(3)]_
+        [[zeoi3 zeoi3 惴惴]],
+        [mourning], grieving;
+    - _[chui(3)] k(u")(6)_
+        [[zeoi3 geoi6 惴懼]]
+        anxious.
+    ==
+  ====
+S
+  ==
+  - $惴ceoi2
+  - $惴cyun2 (TODO)
+  ==
 $$
 
 ###+ 沮3 | _Ts(u")(3)_ (zeoi3)
