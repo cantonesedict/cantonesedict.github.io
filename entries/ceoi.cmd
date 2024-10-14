@@ -246,6 +246,7 @@ $$
 =={.modern}
 - $厨4
 - $廚4
+- $搥4
 - $椎4
 - $槌4
 - $滁4
@@ -338,6 +339,32 @@ S
   ==
 $$
 
+### 搥4 | _(4)Ch(')ui_ [[ceoi4]]
+
+$$.
+R
+  ⼿ + 10
+U
+  U+6425
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~34* (4)搥]]
+    --
+    Like the last [[$槌4]].
+    --
+    ==
+    - [[Alternative form of 捶. **See $捶ceoi4 for the canonical entry.**]]
+    - [[See $搥deoi1 for "throw" senses]].
+    ==
+  ====
+S
+  ==
+  - $搥deoi1 (TODO)
+  ==
+$$
+
 ### 椎4 | _(4)Ch(')ui_ [[ceoi4]]
 
 $$.
@@ -372,6 +399,7 @@ U
   U+69CC
 A
   ==
+  - $搥4
   - $椎4
   ==
 V
