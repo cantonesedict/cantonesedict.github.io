@@ -427,6 +427,7 @@ For all radicals, see [Index of characters by radical](./).
       - $揪zau1
       - $揫cau1
       - $揫zau1
+      - $揣ceoi2
       - $捶ceoi4
       - $揸zaa1
       ==

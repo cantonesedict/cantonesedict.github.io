@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [ceoi1](#1)
+- [ceoi2](#2)
 - [ceoi4](#4)
 ==
 </nav>
@@ -235,6 +236,41 @@ W
 C
   ==
   - Fan Wan entry: Corrected headword (with 比-like centre-left instead of ⿲口口口) to 龡.
+  ==
+$$
+
+
+##{#2 .williams} (2)Ch(')ui (2)Ts(')(u")[[ceoi2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $揣2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 揣2 | _(2)Ch(')ui_ [[ceoi2]]
+
+$$.
+R
+  ⼿ + 9
+U
+  U+63E3
+F
+  ==
+  - [[F2.56 揣]] 吹上聲揣度揣摩
+  ==
+W
+  ====
+  - [[Page~34* (2)揣]]
+    --
+    Also read _(2)ch(u")n_ [[cyun2]] [[**see $揣cyun2**]].
+    --
+  ====
+S
+  ==
+  - $揣cyun2 (TODO)
   ==
 $$
 
