@@ -255,6 +255,7 @@ $$
 - $蜍4
 - $躕4
 - $錘4
+- $鎚4
 - $除4
 ==
 </nav>
@@ -665,6 +666,24 @@ E
     ++
     1. A hammer.
     ++
+  ====
+$$
+
+### 鎚4 | _(4)Ch(')ui_ [[ceoi4]]
+
+$$.
+R
+  ⾦ + 10
+U
+  U+939A
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~34* (4)錘(4)鎚]]
+    --
+    [[Alternative form of 錘. **See $錘ceoi4 for the canonical entry.**]]
+    --
   ====
 $$
 
