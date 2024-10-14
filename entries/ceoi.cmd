@@ -246,6 +246,7 @@ $$
 =={.modern}
 - $厨4
 - $廚4
+- $捶4
 - $搥4
 - $椎4
 - $槌4
@@ -337,6 +338,33 @@ S
   ==
   - $廚cyu4
   ==
+$$
+
+###+ 捶4 | _(4)Ch(')ui_ (ceoi4)
+
+$$
+R
+  ⼿ + 9
+U
+  U+6376
+A
+  ==
+  - $搥4
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~34* (4)搥; here normalised to 捶]]
+    --
+    Like the last [[$槌4]].
+    --
+    ==
+    - To beat;
+    - to strike, as on a bell;
+    - [[...]].
+    ==
+  ====
 $$
 
 ### 搥4 | _(4)Ch(')ui_ [[ceoi4]]
