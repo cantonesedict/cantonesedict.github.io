@@ -585,6 +585,14 @@ For all radicals, see [Index of characters by radical](./).
       ==
       </nav>
   //
+    , 8
+    ,
+      <nav class="sideways">
+      ==
+      - $趣ceoi3
+      ==
+      </nav>
+  //
     , 10
     ,
       <nav class="sideways">

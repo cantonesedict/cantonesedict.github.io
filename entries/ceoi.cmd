@@ -527,6 +527,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $娶3
+- $趣3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -553,6 +554,50 @@ S
   ==
   - $娶ceoi2
   ==
+$$
+
+### 趣3 | _Ts(')(u")(3)_ [[ceoi3]]
+
+$$
+R
+  ⾛ + 8
+U
+  U+8DA3
+F
+  ==
+  - [[F1.48 趣]] 趣味趣致
+  ==
+W
+  ====
+  - [[Page~596 趣(3)]]
+    ==
+    - Similar to _(1)ts(')(u") (ceoi1) 趨 to run;
+    - to go, to advance quickly;
+    - to see what is proper and agreeable, and hasten to do it;
+    - to show alacrity or haste to please;
+    - to regard pleasurably;
+    - sprightly, playful, graceful;
+    - amusing, pleasing;
+    - _(4)'m shik(7) ts(')(u")(3)_
+        [[m4 sik1 ceoi3 唔識趣]]
+        unaccommodating, mulish;
+    - _tak(7) k(o\)m(3) ts(')(u")(3)_
+        [[dak1 gam3 ceoi3 得咁趣]]
+        very agreeable, humorous;
+    - _(2)h(o\) ts(')(u")(3)_
+        [[hou2 ceoi3 好趣]]
+        very lively, gleesome;
+    - _ts(')(u")(3) m(i/)(6)_
+        [[ceoi3 mei6 趣味]]
+        entertaining, as a friend;
+    - _ts(')(u")(3) ts(')(u")(3) tik(7)_
+        [[ceoi3 ceoi3 dik1 趣趣滴]]
+        rather pleasing, novel;
+    - _ch(i/)(3) ts(')(u")(3) hai(6) k(o\)m(3) ts(')(u")(3) tik(7)_
+        [[zi3 ceoi3 hai6 gam3 ceoi3 dik1 至趣係咁趣的]]
+        this is truly exhilirating, this is exquisite.
+    ==
+  ====
 $$
 
 
