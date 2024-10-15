@@ -1200,6 +1200,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $蛆ceoi1
+      - $蛆zeoi1
       - $蚳ci4
       - $蚱zaa3
       - $蛀zyu3

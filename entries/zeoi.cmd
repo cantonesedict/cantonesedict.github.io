@@ -57,6 +57,7 @@ $$
 - $睢1
 - $苴1
 - $菹1
+- $蛆1
 - $觜1
 - $趄1
 - $追1
@@ -284,6 +285,40 @@ W
     - a marsh.
     ==
   ====
+$$
+
+### 蛆1 | _(1)Ts(u")_ [[zeoi1]]
+
+$$
+R
+  ⾍ + 5
+U
+  U+86C6
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~595 (1)蛆]]
+    --
+    [[...]]
+    --
+    --
+    Read _(1)ts(u")_ [[zeoi1]],
+    --
+    ==
+    - a millipede;
+    - _tsik(7) (1)ts(u")_
+        [[zik1 zeoi1 蝍蛆]],
+        a centipede.
+    ==
+    --
+    [[Otherwise, a reading variation of the "maggot" sense. **See $蛆ceoi1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $蛆ceoi1
+  ==
 $$
 
 ### 觜1 | _(1)Tsui_ [[zeoi1]]
