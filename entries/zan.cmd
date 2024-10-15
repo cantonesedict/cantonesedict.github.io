@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zan
-* %date-modified --> 2024-10-08
+* %date-modified --> 2024-10-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -238,8 +238,11 @@ W
     [[...]]
     --
     --
-    Read _(2)chan_ [[zan2]]; rich, affluent, wealthy.
+    Read _(2)chan_ [[zan2]];
     --
+    ==
+    - rich, affluent, wealthy.
+    ==
   ====
 S
   ==
