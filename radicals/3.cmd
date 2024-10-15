@@ -572,6 +572,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $婭aa3
       - $娶ceoi2
+      - $娶ceoi3
       - $娼coeng1
       - $婕zit3
       ==

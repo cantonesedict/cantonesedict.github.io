@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [ceoi1](#1)
 - [ceoi2](#2)
+- [ceoi3](#3)
 - [ceoi4](#4)
 ==
 </nav>
@@ -420,17 +421,53 @@ R
   ⼥ + 8
 U
   U+5A36
+A
+  ==
+  -{.modern} $取2
+  ==
+V
+  ==
+  - ceoi3 (per 《廣韻》七句切)
+  ==
 F
-  [[Not present]]
+  ==
+  - [[F1.48 娶 _Ts(')(u")(3)_ (ceoi3)]] 取婦曰娶
+  ==
 W
-  [[Not present]]
+  ====
+  - [[Page~596 娶(3) _Ts(')(u")(3)_ (ceoi3); here normalised to _(2)Ts(')(u")_ (ceoi2)]]
+    ==
+    - To marry a woman with the legal ceremonies;
+    - a marriage;
+    - _[(2)]ts(')(u") (1)ts(')ai_ [[ceoi2 cai1 娶妻]],
+        or
+      _[(2)]ts(')(u") (5)l(o\) (4)p(')o_ [[ceoi2 lou5 po4 娶老婆]],
+        to take a wife;
+    - _[(2)]ts(')(u") (1)san (5)f(u/)_ [[ceoi2 san1 fu5 娶新婦]]^
+        or
+      _[(2)]ts(')(u") (1)[san1] (5)p(')(o\)_ [[ceoi2 san1 pou5 娶新婦]],
+        somebady marrying;
+    - _(4)wing [(2)]ts(')(u") (4)'m (4)ts(')ang_
+        [[wing4 ceoi2 m4 cang4 榮娶唔曾]],
+        have you been married yet?
+    - _[(2)]ts(')(u") ts(')(i/)p(8)_ [[ceoi2 cip3 娶妾]]
+        or
+      _[(2)]ts(')(u") (1)p(')(i/)n (4)fong_ [[ceoi2 pin1 fong4 娶偏房]],
+        to take a concubine home to one.
+    ==
+  ====
 C
   ==
-  - Reading variation. **See $娶ceoi3 for the canonical entry.**
+  - Williams' 娶新婦 (second occurrence): Corrected _(1)sam_ (sam1) to _(1)san_ (san1).
+    It is unclear if "somebady" is a typo for "somebody".
+    In any case, Williams fails to mention that the meaning is
+    to take a daughter-in-law.
+  - Williams' 榮娶唔曾: Bettered rendered "married" rather than "been married".
+    The verb 娶 is only used for men taking a wife.
   ==
 S
   ==
-  - $娶ceoi3 (TODO)
+  - $娶ceoi3
   ==
 $$
 
@@ -480,6 +517,41 @@ W
 S
   ==
   - $揣cyun2 (TODO)
+  ==
+$$
+
+
+##{#3 .williams} Ts(')(u")(3) Ts(')ui(3) [[ceoi3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $娶3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 娶3 | _Ts(')(u")(3)_ [[ceoi3]]
+
+$$
+R
+  ⼥ + 8
+U
+  U+5A36
+F
+  ==
+  - [[F1.48 娶]] 取婦曰娶
+  ==
+W
+  ====
+  - [[Page~596 娶(3)]]
+    --
+    [[Reading variation (per 《廣韻》七句切). **See $娶ceoi2 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $娶ceoi2
   ==
 $$
 
