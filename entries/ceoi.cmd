@@ -327,6 +327,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $取2
+- $娶2
 - $惴2
 - $揣2
 ==
@@ -409,6 +410,27 @@ C
   ==
   - Fan Wan entry: Corrected ⿱宀⿱宀厼 to 索,
     and normalised 𫉬 (⿱艹⿰犭隻) to 獲.
+  ==
+$$
+
+###+ 娶2 | _(2)Ts(')(u")_ (ceoi2)
+
+$$
+R
+  ⼥ + 8
+U
+  U+5A36
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation. **See $娶ceoi3 for the canonical entry.**
+  ==
+S
+  ==
+  - $娶ceoi3 (TODO)
   ==
 $$
 
