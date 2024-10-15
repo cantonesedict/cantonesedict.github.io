@@ -64,6 +64,7 @@ $$
 - $吹1
 - $推1
 - $炊1
+- $蛆1
 - $趨1
 - $龡1
 ==
@@ -212,6 +213,50 @@ W
 C
   ==
   - Fan Wan entry: Corrected bottom component of 爨 from 夾 to ⿳林大火.
+  ==
+$$
+
+### 蛆1 | _(1)Ts(')(u")_ [[ceoi1]]
+
+$$
+R
+  ⾍ + 5
+U
+  U+86C6
+V
+  ==
+  - zeoi1 (common)
+  ==
+F
+  ==
+  - [[F1.44 蛆]] 蛆虫
+  ==
+W
+  ====
+  - [[Page~595 (1)蛆]]
+    ==
+    - Maggots in putrid flesh;
+    - flyblows, eggs of flies;
+    - _(1)[sh(a/)ng] (1)ts(')(u")_
+        [[saang1 ceoi1 生蛆]],
+        it has bred worms;
+    - _s(u")t(8) (1)ts(')(u")_
+        [[syut3 ceoi1 雪蛆]],
+        worms found in snow in Sz'chuen [[四川]],
+        a sort of Protococcus.
+    ==
+    --
+    Read _(1)ts(u")_ [[zeoi1]], [[**see $蛆zeoi1**]].
+    --
+  ====
+C
+  ==
+  - Williams' 生蛆: Changed _(1)shang_ (sang1)
+    to vernacular reading _(1)sh(a/)ng_ (saang1).
+  ==
+S
+  ==
+  - $蛆zeoi1 (TODO)
   ==
 $$
 
