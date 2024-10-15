@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2024-10-08
+* %date-modified --> 2024-10-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1020,7 +1020,6 @@ $$
 - $呈4
 - $埕4
 - $情4
-- $惩4
 - $懲4
 - $晴4
 - $澄4
@@ -1224,24 +1223,6 @@ C
   ==
 $$
 
-### 惩4 | _(4)Ch(')ing_ [[cing4]]
-
-$$.
-R
-  ⼼ + 8
-U
-  U+60E9
-F
-  [[Not present]]
-W
-  ====
-  - [[Page~21* (4)惩(4)懲]]
-    --
-    [[Alternative form of 懲. **See $懲cing4 for the canonical entry.**]]
-    --
-  ====
-$$
-
 ### 懲4 | _(4)Ch(')ing_ [[cing4]]
 
 $$
@@ -1251,7 +1232,7 @@ U
   U+61F2
 A
   ==
-  - $惩4
+  - 惩
   ==
 F
   ==
