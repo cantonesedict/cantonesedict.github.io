@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2024-10-14
+* %date-modified --> 2024-10-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -64,6 +64,7 @@ $$
 - $吹1
 - $推1
 - $炊1
+- $趨1
 - $龡1
 ==
 </nav>
@@ -212,6 +213,41 @@ C
   ==
   - Fan Wan entry: Corrected bottom component of 爨 from 夾 to ⿳林大火.
   ==
+$$
+
+### 趨1 | _(1)Ts(')(u")_ [[ceoi1]]
+
+$$
+R
+  ⾛ + 10
+U
+  U+8DA8
+A
+  ==
+  - 趋
+  ==
+F
+  ==
+  - [[F1.44 趨]] 趨向
+  - [[F1.44 趋]] 同上
+  ==
+W
+  ====
+  - [[Page~595 (1)趨(1)趋]]
+    ==
+    - To hasten to one's place, to stride off, as in a superior's presence;
+    - to run, to walk quick;
+    - _(1)ts(')(u") (4)sh(i/)_
+        [[ceoi1 si4 趨時]],
+        to run after, as a fashion;
+    - _(1)ts(')(u") p(o\)(6)_
+        [[ceoi1 bou6 趨步]]
+        to straddle off, as a courier does;
+    - _(1)ts(')(u") (4)(i/)m f(u/)(6) shai(3)_
+        [[ceoi1 jim4 fu6 sai3 趨炎附勢]]
+        to run to the flame and stick to the strong --- a parasite.
+    ==
+  ====
 $$
 
 ### 龡1 | _(1)Ch(')ui_ [[ceoi1]]
