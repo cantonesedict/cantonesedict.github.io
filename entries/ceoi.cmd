@@ -382,13 +382,14 @@ S
 $$
 
 
-##{#4 .williams} (4)Ch(')(u") (4)Ch(')ui [[ceoi4 陽平]]
+##{#4 .williams} (4)Ch(')(u") (4)Ch(')ui (4)Ts(')(u") [[ceoi4 陽平]]
 
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
 - $厨4
 - $廚4
+- $徐4
 - $捶4
 - $搥4
 - $椎4
@@ -482,6 +483,39 @@ C
 S
   ==
   - $廚cyu4
+  ==
+$$
+
+### 徐4 | _(4)Ts(')(u")_ [[ceoi4]]
+
+$$
+R
+  ⼻ + 7
+U
+  U+5F90
+F
+  ==
+  - [[F1.45 徐]] ::[緩]也又姓::
+  ==
+W
+  ====
+  - [[Page~595 (4)徐]]
+    ==
+    - Grave, serious, leisurely;
+    - tardy, slow;
+    - composed, majestic, dignified;
+    - to walk carefully and formally;
+    - _(4)ts(')(u") p(o\)(6)_
+        [[ceoi4 bou6 徐步]]
+        to walk gracefully;
+    - _(4)ts(')(u") (4)ts(')(u")_
+        [[ceoi4 ceoi4 徐徐]],
+        gravely, tranquilly, as a gait.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿰糸⿱刀交 to 緩.
   ==
 $$
 
