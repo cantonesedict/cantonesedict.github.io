@@ -326,11 +326,91 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $取2
 - $惴2
 - $揣2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 取2 | _(2)Ts(')(u")_ [[ceoi2]]
+
+$$
+R
+  ⼜ + 6
+U
+  U+53D6
+F
+  ==
+  - [[F1.46 取]] ::[索]也[獲]也收也愛也攬也資也::
+  ==
+W
+  ====
+  - [[Page~595 (2)取]]
+    ==
+    - To take, to lay hold on, to use;
+    - to exact;
+    - to seize on, to take away;
+    - to assume, to appropriate;
+    - to receive, to apply to one's use;
+    - to take, as a wife [[see $娶ceoi2]];
+    - to get, to induce, to bring upon;
+    - taken, applied, selected;
+    - _(1)shau (2)ts(')(u")_
+        [[sau1 ceoi2 收取]],
+        to receive;
+    - _(2)ts(')(u") (4)'m (5)sh(e/)ung_
+        [[ceoi2 m4 soeng5 取唔上]],
+        not needed, unfit;
+    - _(2)ts(')(u") chung(3)_
+        [[ceoi2 zung3 取中]]
+        promoted, chosen, selected[;]
+    - _t(a/)i(6) (5)yau (2)ho (2)ts(')(u")_
+        [[daai6 jau5 ho2 ceoi2 大有可取]],
+        estimable, one who is liked;
+    - _(2)ts(')(u") ch(')ut(7)_
+        [[ceoi2 ceot1 取出]]
+        taken out;
+    - _(2)ts(')(u") yap(9)_
+        [[ceoi2 jap6 取入]]
+        brought in;
+    - _t(')(a/)m(3) (4)nong (2)ts(')(u") mat(9)_
+        [[taam3 nong4 ceoi2 mat6 探囊取物]]
+        [as easy as] [[these square brackets appear in the original text]]
+        taking cash out of the purse;
+    - _sok(8) (2)ts(')(u")_
+        [[sok3 ceoi2 索取]],
+        to beg earnestly for, as a loan;
+    - _(2)ts(')(u") si(u/)(3) (5)k(')(u")_
+        [[ceoi2 siu3 keoi5 取笑佢]],
+        to get the joke on him;
+    - _tsz'(6) (2)ts(')(u") wo(6)_
+        [[zi6 ceoi2 wo6 自取禍]]
+        to bring down misery on one's self;
+    - _tsau(6) t(i/)(6) (2)ts(')(u") (4)ts(')oi_
+        [[zau6 dei6 ceoi2 coi4 就地取材]],
+        happily I just then turned it up,
+        as something that was wanted;
+    - _(4)'m (4)shing kwo(3) (2)ts(')(u")_
+        [[m4 sing4 gwo3 ceoi2 唔成過取]],
+        I don't want much;
+    - _h(i/)p(8) (2)ts(')(u")_
+        [[hip3 ceoi2 脅取]],
+        to force from, to extort;
+    - _(4)p(')ang (4)man (2)ts(')(u") luk(9)_
+        [[pang4 man4 ceoi2 luk6 憑文取錄]]
+        to select the compositions according to their style;
+    - _(4)mung (2)ts(')(u") fo(3)_
+        [[mung4 ceoi2 fo3 蒙取貨]]
+        obliged to you for taking goods, --- as shopmen say.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿱宀⿱宀厼 to 索,
+    and normalised 𫉬 (⿱艹⿰犭隻) to 獲.
+  ==
+$$
 
 ### 惴2 | _(2)Ch(')ui_ [[ceoi2]]
 
