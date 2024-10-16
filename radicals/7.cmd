@@ -84,6 +84,14 @@ For all radicals, see [Index of characters by radical](./).
       - $䚎zong1
       ==
       </nav>
+  //
+    , 12
+    ,
+      <nav class="sideways">
+      ==
+      - $覷ceoi3
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⾒-characters ##>

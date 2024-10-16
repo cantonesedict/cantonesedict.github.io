@@ -528,6 +528,7 @@ $$
 =={.modern}
 - $娶3
 - $覰3
+- $覷3
 - $趣3
 ==
 </nav>
@@ -574,6 +575,38 @@ W
     --
     [[Alternative form of 覷. **See $覷ceoi3 for the canonical entry.**]]
     --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed headword 覻.
+  ==
+$$
+
+###+ 覷3 | _Ts(')(u")(3)_ (ceoi3)
+
+$$
+R
+  ⾒ + 12
+U
+  U+89B7
+A
+  ==
+  - $覰3
+  ==
+F
+  ==
+  - [[F1.48 ::[覻]::]] ::竊視曰[覻]::
+  ==
+W
+  ====
+  - [[Page~596 覰(3); here normalised to 覷]]
+    ==
+    - To spy, to look at;
+    - to peep, to descry, to reconnoitre;
+    - _ts(')(u")(3) (1)p(i/)n_
+        [[ceoi3 bin1 覷邊]],
+        to look after the frontiers closely.
+    ==
   ====
 C
   ==
