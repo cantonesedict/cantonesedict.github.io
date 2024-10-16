@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ciu
-* %date-modified --> 2024-10-06
+* %date-modified --> 2024-10-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -31,8 +31,8 @@ WH
   ==
 WP
   ==
-  - Ch(')i(u/) <span class="modern">= [tɕʰiuː]</span>
-  - Ts(')i(u/) <span class="modern">= [tsʰiuː]</span>
+  - Ch(')i(u/) <span class="modern">= [tɕʰiːu]</span>
+  - Ts(')i(u/) <span class="modern">= [tsʰiːu]</span>
   ==
 MP
   ==

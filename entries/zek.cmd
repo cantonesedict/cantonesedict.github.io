@@ -29,8 +29,8 @@ WH
   ==
 WP
   ==
-  - Chek <span class="modern">= [tɕɛːk̚]</span>
-  - Tsek <span class="modern">= [tsɛːk̚]</span>
+  - Chek <span class="modern">= [tɕɛk̚]</span>
+  - Tsek <span class="modern">= [tsɛk̚]</span>
   ==
 MP
   ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeng
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-10-16
 * %copyright-prior-years -->
 
 %%%
@@ -31,8 +31,8 @@ WH
   ==
 WP
   ==
-  - Cheng <span class="modern">= [tɕɛːŋ]</span>
-  - Tseng <span class="modern">= [tsɛːŋ]</span>
+  - Cheng <span class="modern">= [tɕɛŋ]</span>
+  - Tseng <span class="modern">= [tsɛŋ]</span>
   ==
 MP
   ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Introduction.
-* %date-modified --> 2024-09-25
+* %date-modified --> 2024-10-16
 * %copyright-prior-years --> 2023--
 * %meta-description --> Williams' introduction
 
@@ -974,6 +974,12 @@ in parenthesis under each number.
   a nasal or aspirate, as _ng(i/)n_, _h(i/)n_, _ng(i/)t_.
   _(Seen, leet.)_
 
+  {+++
+  --
+  (Effectively, _(i/)n_ = [iːn], and _(i/)t_ = [iːt̚].)
+  --
+  +++}
+
 2.
   _Wai_ [[wai]],
   like _buy_, _nigh_ [[in Received Pronunciation]].
@@ -981,6 +987,12 @@ in parenthesis under each number.
   into the longer sound of _(a/)i_ [[aai]] in the 14th~order, especially in those
   like _kwai_ [[gwai]] and _shai_ [[shai]].
   _(Lei, wī, fy.)_
+
+  {+++
+  --
+  (Effectively, _ai_ = [ɐi].)
+  --
+  +++}
 
 3.
   _K(i/)_ [[gi, now gei]],
@@ -992,6 +1004,12 @@ in parenthesis under each number.
   having no initial, as (i/) [[ji]] 二, (i/) [[ji]] 耳 are often heard _ng(i/)_.
   _(Tee, she, ki.)_
 
+  {+++
+  --
+  (Effectively, _(i/)_ = [iː].)
+  --
+  +++}
+
 4.
   _Ch(u:)_ [[zyu]],
   like _sue_, or the first part of the word _choose_ [[in Received Pronunciation]]. Words in
@@ -1001,6 +1019,12 @@ in parenthesis under each number.
   like the 22d~order [[eoi]], as 去, 侶, 女, 聚, 序;
   those under the other initials are less frequently mispronounced.
   _(Kuy, sue, n(u/), loÿ, u.)_
+
+  {+++
+  --
+  (Effectively, _(u:)_ = [yː].)
+  --
+  +++}
 
 5.
   _Sau_ [[sau]],
@@ -1012,6 +1036,12 @@ in parenthesis under each number.
   but a little practice will discriminate them.
   _(Tsow, shaw, hāw.)_
 
+  {+++
+  --
+  (Effectively, _au_ = [ɐu].)
+  --
+  +++}
+
 6.
   _Tung_ [[dung]], _tuk_ [[duk]],
   like the Irishism _wroong_ for _wrung_, and so nearly
@@ -1020,6 +1050,14 @@ in parenthesis under each number.
   _sung_, _hung_, _tongue_ [[in Received Pronunciation]].
   There are no variants in this final worth noticing.
   _(Soong, yok, tōk.)_
+
+  {+++
+  --
+  (Effectively, _ung_ = [oŋ], and _uk_ = [ok̚].
+  This is based on interpreting Williams' "so nearly _toong_, _took_"
+  as meaning slightly more open than /ʊŋ/ and /ʊk/, wherefore [oŋ] and [ok̚].)
+  --
+  +++}
 
 7.
 [[[Page~xvii of the original]{#page-xvii}<n24> here]]
@@ -1037,6 +1075,12 @@ in parenthesis under each number.
   Hi(a/)ngsh(a/)n [[香山]] district are recognized at Canton [[廣州]].
   _(Leng, paëng, te-ang, saung.)_
 
+  {+++
+  --
+  (Effectively, _ing_ = [ɪŋ], _ik_ = [ɪk̚], _eng_ = [ɛŋ], and _ek_ = [ɛk̚].)
+  --
+  +++}
+
 8.
   _Pan_ [[ban]], _pat_ [[bat]],
   like _fun_, _son_, _shun_, _tun_, _won_ [[in Received Pronunciation]],
@@ -1048,12 +1092,24 @@ in parenthesis under each number.
   districts of Sinhwui [[新會]] and K(a/)uy(a/)u [[高要]] southwest of Canton [[廣州]].
   _(Pun, kăn, fut, yet, chăt.)_
 
+  {+++
+  --
+  (Effectively, _an_ = [ɐn].)
+  --
+  +++}
+
 9.
   _Ch(e/)ung_ [[now zoeng]], _ch(e/)uk_ [[now zoek]],
   like the combined sounds in _say 'em_ [[in Received Pronunciation]]; there
   is no English word with this diphthong [[now not a diphthong]].
   The variations in this final are rare.
   _(Chaong, cheong, lay-ung, yok, naung, tsay-uk.)_
+
+  {+++
+  --
+  (Effectively, _(e/)ung_ = [eoŋ], and final _(e/)uk_ = [eok̚].)
+  --
+  +++}
 
 10.
   _Kong_ [[gong]], _kok_ [[gok]],
@@ -1063,6 +1119,12 @@ in parenthesis under each number.
   this final, even when as is occasionally the case, they are heard like
   _l(o\)ng_.
   _(Pawng, kawk, l(o/)k, w(o/)ng, hoak, tsoang.)_
+
+  {+++
+  --
+  (Effectively, _ong_ = [ɔːŋ], and _ok_ = [ɔːk̚].)
+  --
+  +++}
 
 11.
   _K(u/)_ [[gu]], _l(o\)_ [[lou]],
@@ -1078,6 +1140,14 @@ in parenthesis under each number.
   no trouble in distinguishing them.
   _(Lo, low, ku, foo.)_
 
+  {+++
+  --
+  (Effectively, _(u/)_ = [uː], and _(o\)_ = [ou].
+  The latter is based on Williams being American,
+  with American English having /oʊ/ instead of /əʊ/ for "_lo_, _hoe_, _flow_".)
+  --
+  +++}
+
 12.
   _Chi(u/)_ [[ziu]],
   like _new_, _few_ [[in Received Pronunciation]],
@@ -1087,12 +1157,27 @@ in parenthesis under each number.
   and also sliding into the 4th [[yu]] as 曉 _h(u:)_ [[hyu]] for _hi(u/)_ [[hiu]].
   _(Kew, chiu, tee-ue, t(i/)(u/).)_
 
+  {+++
+  --
+  (Effectively, _i(u/)_ = [iːu].
+  From [Eitel (1877)][eitel-iu], "a little more prominence is given to the sound _i_",
+  wherefore [iːu] instead of [iuː].)
+  --
+  [eitel-iu]: https://books.google.com/books?id=mh8TAAAAYAAJ&jtp=xiv
+  +++}
+
 13.
   _(U:)n_ [[jyun]], (u:)t [[jyut]],
   like the _u_ in _ruin_, _June_, _jute_, _dilute_ [[in Received Pronunciation]].
   The variations under this final are unimportant, and those are where the vowel is
   changed in a few words to _è_, as 煖 _nèn_ for _n(u:)n_ [[nyun]].
   _(Heuet, sh(u/)n, (u/)t, une, sute.)_
+
+  {+++
+  --
+  (Effectively, _(u:)n_ = [uːn], and _(u:)t_ = [uːt̚].)
+  --
+  +++}
 
 14.
 [[[Page~xviii of the original]{#page-xviii}<n25> here]]
@@ -1105,6 +1190,12 @@ in parenthesis under each number.
   he will constantly confound them.
   _(Pai, nie, tì, k(a/)i, kye.)_
 
+  {+++
+  --
+  (Effectively, _(a/)i_ = [aːi].)
+  --
+  +++}
+
 15.
   _Tang_ [[dang]], _tak_ [[dak]],
   like _tongue_, _sung_, _hung_, _muck_, _luck_ [[in Received Pronunciation]],
@@ -1116,6 +1207,12 @@ in parenthesis under each number.
   many of these variations are noticed in the body of the work.
   _(Pung, hăng, tuk, măk, hek, sh(a/)ng, y(a/)k.)_
 
+  {+++
+  --
+  (Effectively, _ang_ = [ɐŋ], and _ak_ = [ɐk̚].)
+  --
+  +++}
+
 16.
   _Sz'_ [[si]], _tsz'_ [[zi]],
    like no words in the English language, but much
@@ -1124,6 +1221,14 @@ in parenthesis under each number.
    changed into _sh(i/)_, _s(u:)_, _sz(u:)_, _sch(i/)_, _ts(u:)_, _ts(i/)_, _ch(')(i/)_,
    so that in many cases it is hard to recognize them.
    _(Sze, sz, sse, ss', tse.)_
+
+  {+++
+  --
+  (Effectively, _z'_ = [ɿː].
+  Note that the symbol ɿ (now considered obsolete) was historically used
+  by Sinologists for the so-called apical rime.)
+  --
+  +++}
 
 17.
   _Kam_ [[gam]], _kap_ [[gap]],
@@ -1134,12 +1239,24 @@ in parenthesis under each number.
   also are changed into short _e_, as _kem_, _nem_.
   _(Yum, shup, lăm[,] shăp.)_
 
+  {+++
+  --
+  (Effectively, _am_ = [ɐm].)
+  --
+  +++}
+
 18.
   _K(a/)u_ [[gaau]],
   like _how_ [[in Received Pronunciation]] very much prolonged; the difference between
   this, and the 5th~final [[au]] is merely in the longer sound of the _(a/)_ [[aa]].
   There are no variations in pronunciation worth noticing in this final.
   _(Pow, kaou, chaow.)_
+
+  {+++
+  --
+  (Effectively, _(a/)u_ = [aːu].)
+  --
+  +++}
 
 19.
   _Tsoi_ [[zoi]],
@@ -1150,12 +1267,24 @@ in parenthesis under each number.
   them; most of the words are uniformly sounded.
   _(Toy, suy.)_
 
+  {+++
+  --
+  (Effectively, _oi_ = [ɔɪ].)
+  --
+  +++}
+
 20.
   _K(i/)m_ [[gim]], _k(i/)p_ [[gip]],
   like _cream_, _seem_, _team_, _sheep_, _reap_ [[in Received Pronunciation]].
   The words under this final are very uniform, and there is no particular
   character worth noticing as a variant.
   _(Keem, leep.)_
+
+  {+++
+  --
+  (Effectively, _(i/)m_ = [iːm], and _(i/)p_ = [iːp̚].)
+  --
+  +++}
 
 21.
   _Tsun_ [[now zeon]], _tsut_ [[now zeot]],
@@ -1172,6 +1301,12 @@ in parenthesis under each number.
   than in the quality of the vowel.
   _(Tsun, soot.)_
 
+  {+++
+  --
+  (Effectively, _un_ = [un], and _ut_ = [ut̚].)
+  --
+  +++}
+
 22.
   _Sui_ [[now seoi]],
   a combination of _u_ in the preceding order with _i_; there is
@@ -1184,6 +1319,12 @@ in parenthesis under each number.
   these nearly homophonous words better than we do.
   _(Suy, mooy, soÿ, shoo-e.)_
 
+  {+++
+  --
+  (Effectively, _ui_ = [uɪ].)
+  --
+  +++}
+
 23.
   _Fo_ [[fo]],
   like _law_, _saw_, _taw_ [[in Received Pronunciation]],
@@ -1193,6 +1334,12 @@ in parenthesis under each number.
   This final undergoes no changes, that are worth noticing.
   _(Waw, h(o/), l(a/)w, hō.)_
 
+  {+++
+  --
+  (Effectively, _o_ = [ɔː].)
+  --
+  +++}
+
 24.
   _K(a/)m_ [[gaam]], _k(a/)p_ [[gaap]],
   like _calm_, _psalm_ [[in Received Pronunciation]],
@@ -1200,6 +1347,12 @@ in parenthesis under each number.
   The characters under this final are comparatively few, and the
   changes in their pronunciation very slight.
   _(Lahm, kam, tarm, chaap, kap.)_
+
+  {+++
+  --
+  (Effectively, _(a/)m_ = [aːm], and _(a/)p_ = [aːp̚].)
+  --
+  +++}
 
 25.
   _F(a/)n_ [[faan]], _f(a/)t_ [[faat]],
@@ -1210,6 +1363,12 @@ in parenthesis under each number.
   and so of others.
   _(Wan, pann, fat.)_
 
+  {+++
+  --
+  (Effectively, _(a/)n_ = [aːn], and _(a/)t_ = [aːt̚].)
+  --
+  +++}
+
 26.
   _K(a/)_ [[gaa]],
   like _ma_, _pa_ [[in Received Pronunciation]],
@@ -1217,12 +1376,24 @@ in parenthesis under each number.
   there are no variations in the characters found under it.
   _(Ka, fah, taa.)_
 
+  {+++
+  --
+  (Effectively, _(a/)_ = [aː].)
+  --
+  +++}
+
 27.
   _K(u/)n_ [[gun]], _k(u/)t_ [[gut]],
   like _loon_, _coot_, _moot_, _noon_ [[in Received Pronunciation]],
    presents no changes in
    the sounds of the few characters found under it worth noticing.
    _(Poon, foot.)_
+
+  {+++
+  --
+  (Effectively, _(u/)n_ = [uːn], and _(u/)t_ = [uːt̚].)
+  --
+  +++}
 
 28.
   _F(u/)i_ [[fui]] is a well defined diphthong,
@@ -1232,6 +1403,12 @@ in parenthesis under each number.
   the consonant has much influence on the quantity of the vowel.
   _(Tsoÿ, luÿ, kooy, nui, oo-e.)_
 
+  {+++
+  --
+  (Effectively, _(u/)i_ = [uːɪ].)
+  --
+  +++}
+
 29.
   _Ch(e/)_ [[now ze]],
   like _may_, _lay_, _they_, _yea_ [[in Received Pronunciation]];
@@ -1240,6 +1417,12 @@ in parenthesis under each number.
   under a few initials.
   _(Yay, ya, se-ay.)_
 
+  {+++
+  --
+  (Effectively, _(e/)_ = [eɪ].)
+  --
+  +++}
+
 30.
   _Kon_ [[gon]], _kot_ [[got]],
   like _lawn_, _brawn_, _fought_, _sought_ [[in Received Pronunciation]];
@@ -1247,6 +1430,12 @@ in parenthesis under each number.
   some of them, as _on_ [[on]] and _ngon_ [[ngon]]
   are heard like _ong_ [[ong]] and _ngong_ [[ngong]].
   _(Hoan, kon, (o/)n, kōt.)_
+
+  {+++
+  --
+  (Effectively, _on_ = [ɔːn], and _ot_ = [ɔːt̚].)
+  --
+  +++}
 
 31.
 [[[Page~xx of the original]{#page-xx}<n27> here]]
@@ -1258,6 +1447,12 @@ in parenthesis under each number.
   of the few words referred to this order.
   _(K(u/)m, kup, kōm, h(o/)m, h(a/)p, hōp, h(o/)p.)_
 
+  {+++
+  --
+  (Effectively, _(o\)m_ = [oum], and _(o\)p_ = [oup̚].)
+  --
+  +++}
+
 32.
   _P(')(a/)ng_ [[paang]], _p(a/)k_ [[baak]],
   sounded with a broad _a_,
@@ -1268,12 +1463,24 @@ in parenthesis under each number.
   ones.
   _(H(a/)k, lang, chak.)_
 
+  {+++
+  --
+  (Effectively, _(a/)ng_ = [aːŋ], and _(a/)k_ = [aːk̚].)
+  --
+  +++}
+
 33.
   _'Ng_ [[ng]], _'M_ [[m]],
   are sounds heard in all languages, in rapid conversation,
   but such as are seldom written; _hng_ and _hm_ is perhaps a
   better form of writing them than that here adopted.
   _(Im, 'm, ing, ng.)_
+
+  {+++
+  --
+  (Effectively, _ng_ = [ŋ̍], and _m_ = [m̩].)
+  --
+  +++}
 ++
 
 

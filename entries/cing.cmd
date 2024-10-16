@@ -31,8 +31,8 @@ WH
   ==
 WP
   ==
-  - Ch(')ing <span class="modern">= [tɕʰeŋ]</span>
-  - Ts(')ing <span class="modern">= [tsʰeŋ]</span>
+  - Ch(')ing <span class="modern">= [tɕʰɪŋ]</span>
+  - Ts(')ing <span class="modern">= [tsʰɪŋ]</span>
   ==
 MP
   ==

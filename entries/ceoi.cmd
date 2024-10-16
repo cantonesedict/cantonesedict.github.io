@@ -41,10 +41,10 @@ WH
 WP
   ==
   - Ch(')(u:) <span class="modern">= [tɕʰyː]</span>
-  - Ch(')ui <span class="modern">= [tɕʰui]</span>
+  - Ch(')ui <span class="modern">= [tɕʰuɪ]</span>
   - Ts(')(u:) <span class="modern">= [tsʰyː]</span>
-  - Ts(')ui <span class="modern">= [tsʰui]</span>
-  - Ts(')(u/)i <span class="modern">= [tsʰuːi]</span>
+  - Ts(')ui <span class="modern">= [tsʰuɪ]</span>
+  - Ts(')(u/)i <span class="modern">= [tsʰuːɪ]</span>
   ==
 MP
   ==
