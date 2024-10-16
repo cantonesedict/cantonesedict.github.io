@@ -178,7 +178,7 @@ W
     --
     ==
     - To stop, to desist;
-    - _(5)n(i/) (5)mai h(u")(3) tsz'(6) (1)ch(')o_
+    - _(5)n(i/) (5)mai h(u:)(3) tsz'(6) (1)ch(')o_
         [[nei5 mai5 heoi3 zi6 co1 你咪去？唨]],
         don't you go!
     - _(5)n(i/) (2)tang (5)h(a/) (1)ch(')o_
@@ -241,7 +241,7 @@ W
     ==
     - To twist by rubbing on the knee;
     - to rub or roll between the palms;
-    - _(1)ts(')o (4)m(a/)i yat(7) (4)t(')(u")n_
+    - _(1)ts(')o (4)m(a/)i yat(7) (4)t(')(u:)n_
         [[co1 maai4 jat1 tyun4 搓埋一團]],
         roll it into a ball;
     - _(1)ts(')o s(i/)n(3)_
@@ -250,7 +250,7 @@ W
     - _(1)ts(')o (1)h(e/)ung_
         [[co1 hoeng1 搓香]],
         to cover incense sticks by rolling;
-    - _(1)ts(')o (4)(u")n kam(6) (2)p(i/)n_
+    - _(1)ts(')o (4)(u:)n kam(6) (2)p(i/)n_
         [[co1 jyun4 gam6 bin2 搓圓撳扁]],
         can be rolled or flattened;
         _met._ an easy obliging man;

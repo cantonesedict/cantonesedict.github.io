@@ -119,7 +119,7 @@ W
     - _(2)tsau chat(7)_
         [[zau2 zat1 酒枳]]
         a bottle cork;
-    - _chat(7) shat(9) (5)k(')(u")_
+    - _chat(7) shat(9) (5)k(')(u:)_
         [[zat1 sat6 keoi5 枳實佢]],
         cork it tightly.
     ==
@@ -386,7 +386,7 @@ W
     - _chat(9) (2)tsz'_
         [[zat6 zi2 姪子]]
         a nephew;
-    - _chat(9) (5)n(u")_
+    - _chat(9) (5)n(u:)_
         [[zat6 neoi5-2 姪女]],
         a [niece];
     - _ngoi(6) chat(9)_
@@ -395,7 +395,7 @@ W
     - _(4)n(i/)n chat(9)_
         [[nin4 zat6-2 年姪]]
         sons of alumni of the same year;
-    - _k(u")n(3) chat(9)_
+    - _k(u:)n(3) chat(9)_
         [[gyun3 zat6 眷姪]]
         young relatives.
     ==
@@ -577,7 +577,7 @@ W
     - _chat(9) (2)shau chat(9) k(e/)uk(8)_
         [[zat6 sau2 zat6 goek3 窒手窒腳]]
         impeded, things not to one's liking;
-    - _chat(9) ch(u")(6) (5)k(')(u")_
+    - _chat(9) ch(u:)(6) (5)k(')(u:)_
         [[zat6 zyu6 keoi5 窒住佢]],
         stop it up tight;
     - _chat(9) ngoi(6)_

@@ -78,7 +78,7 @@ W
     - Extensive, distant;
     - large;
     - to show, to manifest;
-    - _(4)ming ch(')(e/)uk(8) (5)(u") ts(u/)i(6)_
+    - _(4)ming ch(')(e/)uk(8) (5)(u:) ts(u/)i(6)_
         [[ming4 coek3 jyu5 zeoi6 明倬汝罪]]
         to make your crime known.
     ==
@@ -115,7 +115,7 @@ W
     - _(1)ch(')i(u/) ch(')(e/)uk(8)_
         [[ciu1 coek3 超卓]]
         preëminent, superior to common;
-    - _ch(')(e/)uk(8) (u")t(9) (4)yan (4)kw(')an_
+    - _ch(')(e/)uk(8) (u:)t(9) (4)yan (4)kw(')an_
         [[coek3 jyut6 jan4 kwan4 卓越人群]],
         excelling other men;
     - _ch(')(e/)uk(8) lap(9)_
@@ -274,7 +274,7 @@ W
     - _(1)f(u/)n ch(')(e/)uk(8)_
         [[fun1 coek3 寬綽]]
         broad, liberal;
-    - _ch(')(e/)uk(8) ch(')(e/)uk(8) (5)yau (4)(u")_
+    - _ch(')(e/)uk(8) ch(')(e/)uk(8) (5)yau (4)(u:)_
         [[coek3 coek3 jau5 jyu4 綽綽有餘]],
         an overplus, more than enough.
     ==

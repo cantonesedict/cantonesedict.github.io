@@ -130,10 +130,10 @@ W
         [[aau2 sau2 geng2 拗手頸]],
         to try the strength of the hands;
         to fall out about a matter;
-    - _(2)(a/)u (2)ch(u")n (2)kong_
+    - _(2)(a/)u (2)ch(u:)n (2)kong_
         [[aau2 zyun2 gong2 拗轉講]],
         to speak in irony, badinage;
-    - _(2)(a/)u (4)(u")_
+    - _(2)(a/)u (4)(u:)_
         [[aau2 jyu4-2 拗魚]],
         to catch fish in a lifting net.
     ==
@@ -146,7 +146,7 @@ W
     - _(2)(a/)u (2)(a/)u tik(7)_
         [[aau2 aau2 dik1 拗拗滴]]
         a little crooked;
-    - _(2)(a/)u (1)l(u")n_
+    - _(2)(a/)u (1)l(u:)n_
         [[aau2 lyun1 拗攣]],
         to curve.
     ==
@@ -255,7 +255,7 @@ W
     --
     ==
     - a turn, a corner;
-    - _(2)ch(u")n (a/)u(3)_
+    - _(2)ch(u:)n (a/)u(3)_
         [[zyun2 aau3 轉坳]]
         turn the corner.
     ==

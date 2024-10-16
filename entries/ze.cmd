@@ -209,10 +209,10 @@ W
     - _(1)ch(e/) (1)sau_
         [[ze1 sau1 遮羞]],
         to conceal the face (as females);
-    - _(5)(u") (1)ch(e/)_
+    - _(5)(u:) (1)ch(e/)_
         [[jyu5 ze1 雨遮]],
         an umbrella;
-    - _(4)'m (1)ch(e/) tak(7) ch(u")(6)_
+    - _(4)'m (1)ch(e/) tak(7) ch(u:)(6)_
         [[m4 ze1 dak1 zyu6 唔遮得住]]
         it [won't] cover us, it can not be concealed;
     - _(1)ch(e/) shik(7)_
@@ -353,7 +353,7 @@ W
           [[hang4 ze2 行者]],
           a walker, he who is walking;
     - after nouns, indicates a class, as
-    - _(4)(u") (2)ch(e/)_
+    - _(4)(u:) (2)ch(e/)_
         [[jyu4 ze2 愚者]],
         the foolish;
     - _[(2)]sz' (2)ch(e/)_
@@ -450,7 +450,7 @@ W
   - [[Page~31|n74 這(3) _Ch(e/)(3)_ (ze3); here normalised to _(2)Ch(e/)_ (ze2)]]
     ==
     - A demonstrative pronoun, this, that;
-    - _[(2)]ch(e/) (5)[l(u")]_
+    - _[(2)]ch(e/) (5)[l(u:)]_
         [[ze2 leoi5 這裡]],
         here;
     - _[(2)]ch(e/) y(e/)ung(6)_
@@ -466,7 +466,7 @@ W
   ====
 C
   ==
-  - Williams' 這裡: Changed _(5)l(i/)_ (lei5) to common reading _(5)l(u")_ (leoi5).
+  - Williams' 這裡: Changed _(5)l(i/)_ (lei5) to common reading _(5)l(u:)_ (leoi5).
   - The character 這 is only attested in the Middle Chinese rime books
     under the reading 魚變切 _y(i/)n(6)_ (jin6)^, explained 迎也.
     Kangxi quotes 毛晃曰凡稱此箇爲者箇俗多改用這字這乃迎也,
@@ -523,7 +523,7 @@ W
     - _ts(e/)(3) (4)loi_
         [[ze3 loi4 借來]],
         to borrow;
-    - _ts(e/)(3) h(u")(3)_
+    - _ts(e/)(3) h(u:)(3)_
         [[ze3 heoi3 借去]]
         to lend;
     - _ts(e/)(3) (4)ngan_
@@ -538,7 +538,7 @@ W
     - _(1)s(e/)ung ts(e/)(3)_
         [[soeng1 ze3 相借]]
         to borrow of;
-    - _ts(e/)(3) (4)(u")_
+    - _ts(e/)(3) (4)(u:)_
         [[ze3 jyu4 借如]],
         supposing that;
     - _ts(e/)(3) shai(3) (4)wai ok(8)_
@@ -636,7 +636,7 @@ W
     - _(2)t(a/) kwo(3) ch(e/)(3)_
         [[daa2 gwo3 ze3 打過嗻]]
         let me whip you;
-    - _(2)tang (5)ngo h(u")(3) ts(o\)(6) mat(7) (5)y(e/) ch(e/)(3)_
+    - _(2)tang (5)ngo h(u:)(3) ts(o\)(6) mat(7) (5)y(e/) ch(e/)(3)_
         [[dang2 ngo5 heoi3 zou6 mat1 je5 ze3 等我去做乜嘢嗻]]
         let me do that first.
     ==
@@ -820,7 +820,7 @@ W
     - a high lookout, a keep, a turret;
     - a military school;
     - a fencing-room;
-    - _(u")t(9) ts(e/)(6)_
+    - _(u:)t(9) ts(e/)(6)_
         [[jyut6 ze6 月榭]]
         an open arbor.
     ==

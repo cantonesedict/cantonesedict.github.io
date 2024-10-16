@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 (From Page~96 & Page~717 of the original onwards.)
 --
 
-#{.williams} H(u"). [[heoi]]
+#{.williams} H(u:). [[heoi]]
 
 <nav class="sideways">
 =={.modern}

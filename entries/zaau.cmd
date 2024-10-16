@@ -378,7 +378,7 @@ W
     - _(2)[ch(a/)u] yat(9)_
         [[zaau2 jat6 肘腋]]
         arms and sides, _met._ near relatives;
-    - _(4)ts(')(i/)n (1)ch(u") (2)[ch(a/)u]_
+    - _(4)ts(')(i/)n (1)ch(u:) (2)[ch(a/)u]_
         [[cin4 zyu1 zaau2 前豬肘]],
         a shoulder of pork.
     ==
@@ -551,7 +551,7 @@ W
     - _(1)k(u/)n ch(a/)u(3)_
         [[gun1 zaau3 棺罩]]
         a network pall;
-    - _ch(a/)u(3) (4)(u")_
+    - _ch(a/)u(3) (4)(u:)_
         [[zaau3 jyu4-2 罩魚]],
         to catch fish;
     - _(1)kai ch(a/)u(3)_

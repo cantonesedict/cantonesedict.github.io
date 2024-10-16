@@ -168,7 +168,7 @@ W
     - (1)king ch(')(a/)t(8)_
         [[ging1 caat3 京察]],
         in the censorate;
-    - _ch(')(a/)t(8) t(u")t(9)_
+    - _ch(')(a/)t(8) t(u:)t(9)_
         [[caat3 dyut6 察奪]]
         examine and decide [respecting the petition.]
         [[these square brackets appear in the original text]]

@@ -177,7 +177,7 @@ W
         [[zak1 go3 則個]] in the court dialect
         is like _pa(6) lok(8)_ [[baa6 lok3 罷咯]]
         well, then;
-        _e.~g._ _sh(u")(3) [ts(u/)i](6) tsak(7) ko(3)_
+        _e.~g._ _sh(u:)(3) [ts(u/)i](6) tsak(7) ko(3)_
         [[syu3 zeoi6 zak1 go3 恕罪則個]]
         well, then I'll pardon the fault;
     - _(5)yau mat(9) (5)yau tsak(7)_
@@ -186,7 +186,7 @@ W
     - _(4)(i/)n tsak(7)_
         [[jin4 zak1 然則]]
         if so, then;
-    - _yat(7) tsak(7) (5)(i/) (2)h(i/), yat(7) tsak(7) (5)(i/) k(u")(6)_
+    - _yat(7) tsak(7) (5)(i/) (2)h(i/), yat(7) tsak(7) (5)(i/) k(u:)(6)_
         [[jat1 zak1 ji5 hei2 jat1 zak1 ji5 geoi6 一則以喜一則以懼]]
         to excite both our joy and fear;
     - _tsak(7) yat(7) (5)y(a/)_
@@ -335,7 +335,7 @@ W
   - [[Page~550 鯽(7); here normalised to 鰂]]
     ==
     - A species of bream _(Cyprinus gibelioides)_ with a long dorsal,
-      called _tsak(7) (5)n(a/) (4)(u")_ [[zak1 naa5 jyu4-2 鰂乸魚]];
+      called _tsak(7) (5)n(a/) (4)(u:)_ [[zak1 naa5 jyu4-2 鰂乸魚]];
     - _shuk(7) kwat(7) tsak(7)_
         [[suk1 gwat1 zak1 縮骨鰂]]
         the blunt headed bream _(Cyprinus abbreviatus)_;

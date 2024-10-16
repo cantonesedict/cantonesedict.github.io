@@ -320,7 +320,7 @@ W
     - _(4)ch(')(a/) (1)chong_
         [[caa4 zong1 茶莊]],
         a tea dépôt in the hills;
-    - _(1)ts(')(u")n (1)chong_
+    - _(1)ts(')(u:)n (1)chong_
         [[cyun1 zong1 村莊]],
         a village;
     - _(4)t(')(i/)n (1)chong_
@@ -464,10 +464,10 @@ W
     - _(1)chong (4)k(')am (1)chong shuk(7)_
         [[zong1 kam4 zong1 suk1 䚎擒䚎縮]]
         to peep in and out;
-    - _(1)chong (5)h(a/) (5)k(')(u") (2)t(i/)m_
+    - _(1)chong (5)h(a/) (5)k(')(u:) (2)t(i/)m_
         [[zong1 haa5 keoi5 dim2 䚎吓佢點]],
         see how he acts;
-    - _(1)chong (5)k(')(u") ts(')o(3) ch(')(u")(3)_
+    - _(1)chong (5)k(')(u:) ts(')o(3) ch(')(u:)(3)_
         [[zong1 keoi5 co3 cyu3 䚎佢錯處]]
         mark his errors.
     ==
@@ -644,7 +644,7 @@ W
     - _(1)shi(u/) (1)s(a/)m chong(3)_
         [[siu1 saam1 zong3 燒三壯]]
         blistered it thrice;
-    - _chong(3) ch(u")(6) (5)k(')(u") (2)t(a/)m_
+    - _chong(3) ch(u:)(6) (5)k(')(u:) (2)t(a/)m_
         [[zong3 zyu6 keoi5 daam2 壯住佢膽]],
         to inspirit him, get up his pluck;
     - _chong(3) k(i/)n(6)_
@@ -698,7 +698,7 @@ W
     - _(2)k(o\) tsong(3)_
         [[gou2 zong3 稿葬]]
         buried in a mat;
-    - _(2)p(a/) (5)k(')(u") k(a/)m(3) (1)[sh(a/)ng] tsong(3)_
+    - _(2)p(a/) (5)k(')(u:) k(a/)m(3) (1)[sh(a/)ng] tsong(3)_
         [[baa2 keoi5 gaam3 saang1 zong3 把佢監生葬]]
         to be buried alive.
     ==
@@ -804,7 +804,7 @@ W
     - _p(a/)k(9) chong(6)_
         [[baak6 zong6 白撞]]
         to go into on a pretence, a thief;
-    - _p(a/)k(9) chong(6) (5)(u")_
+    - _p(a/)k(9) chong(6) (5)(u:)_
         [[baak6 zong6 jyu5 白撞雨]],
         a sudden shower.
     ==
@@ -878,7 +878,7 @@ W
     - _(5)m(o\) chong(6)_
         [[mou5 zong6 冇狀]]
         in dishabille, unprepared;
-    - _chong(6) (4)(u")n_
+    - _chong(6) (4)(u:)n_
         [[zong6 jyun4 狀元]],
         first of the Hanlin [[]];
     - _k(o\)(3) chong(6)_
@@ -918,7 +918,7 @@ W
     - _(5)'ng tsong(6)_
         [[ng5 zong6 五臟]]
         the five viscera---heart, lungs, stomach, liver, and kidneys;
-    - _(1)ch(u") tsong(6) tuk(7)_
+    - _(1)ch(u:) tsong(6) tuk(7)_
         [[zyu1 zong6 duk1 豬臟篤]]
         the cæcum of hogs;
     - _(5)'ng tsong(6) luk(9) (2)f(u/)_

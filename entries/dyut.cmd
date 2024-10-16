@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 (From Page~629 & Page~728 of the original onwards.)
 --
 
-#{.williams} T(u")t. [[dyut]]
+#{.williams} T(u:)t. [[dyut]]
 
 <nav class="sideways">
 =={.modern}

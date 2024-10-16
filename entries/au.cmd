@@ -230,7 +230,7 @@ W
     - To sing songs in recitative;
     - a chant;
     - a ballad, a ditty;
-    - _(u")t(9) (1)au_
+    - _(u:)t(9) (1)au_
         [[jyut6 au1 粵謳]],
         Canton Songs;
     - _(1)au (4)yam_
@@ -314,7 +314,7 @@ W
     - to spit out;
     - a child's prattle;
     - to sing, to make a glad noise;
-    - _(2)au h(u")t(8)_
+    - _(2)au h(u:)t(8)_
         [[au2 hyut3 嘔血]]
         to spit blood;
     - _(2)au (1)f(a/)n ch(')ut(7) (4)lai_
@@ -422,7 +422,7 @@ W
     - _au(3) nau(6)_
         [[au3 nau6 漚腬]]
         glutted, loathing food;
-    - _(4)t(')ang [(5)]sh(i/)n au(3) (1)ch(u") yuk(9)_
+    - _(4)t(')ang [(5)]sh(i/)n au(3) (1)ch(u:) yuk(9)_
         [[tang4 sin5 au3 zyu1 juk6 藤鱔漚豬肉]]
         to fry eels in pork fat, _met._ to add insult to injury.
     ==

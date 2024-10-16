@@ -76,7 +76,7 @@ W
     - _(4)ngan (1)ch(')(a/)_
         [[ngan4 caa1 銀叉]],
         a silver fork;
-    - _(4)(u") (1)ch(')(a/)_
+    - _(4)(u:) (1)ch(')(a/)_
         [[jyu4 caa1 魚叉]],
         a fish grains;
     - _(1)ch(')(a/) (1)shi(u/)_
@@ -162,7 +162,7 @@ W
     - _t(a/)i(6) (1)ch(')(a/) tak(9) (1)ch'(a/)_
         [[daai6 caa1 dak6 caa1 大差特差]],
         very wrong;
-    - _(1)ch(')(a/) tak(7) (5)(u")n_
+    - _(1)ch(')(a/) tak(7) (5)(u:)n_
         [[caa1 dak1 jyun5 差得遠]],
         very different;
     - _(1)ch(')(a/) ts(')o(3) k(e/)uk(8)_
@@ -222,10 +222,10 @@ W
     ==
     - To fork out, to nip;
     - to drive out, to pitch out, to strike;
-    - _(1)ch(')(a/) ch(')ut(7) h(u")(3)_
+    - _(1)ch(')(a/) ch(')ut(7) h(u:)(3)_
         [[caa1 ceot1 heoi3 扠出去]]
         turn him out;
-    - _(1)ch(')(a/) ch(u")(6) (5)k(')(u")_
+    - _(1)ch(')(a/) ch(u:)(6) (5)k(')(u:)_
         [[caa1 zyu6 keoi5 扠住佢]],
         harpoon it.
     ==
@@ -646,7 +646,7 @@ W
     - _(4)ch(')(a/) (4)[ch(')(i/)]_
         [[caa4 ci4 茶匙]],
         a tea-spoon;
-    - _(4)ch(')(a/) (4)sh(u")n_
+    - _(4)ch(')(a/) (4)sh(u:)n_
         [[caa4 syun4 茶船]],
         a long tea saucer;
     - _(2)ch(')(a/)u (4)ch(')(a/)_
@@ -659,7 +659,7 @@ W
     - _(4)ch(')(a/) (4)lam_
         [[caa4 lam4 茶林]],
         a tea store;
-    - _(4)ch(')(a/) (1)k(u")_
+    - _(4)ch(')(a/) (1)k(u:)_
         [[caa4 geoi1 茶居]],
         a tea-saloon;
     - _(2)t(o\) (4)ch(')(a/) (4)lai_

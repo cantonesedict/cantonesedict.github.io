@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 (From Page~263 & Page~722 of the original onwards.)
 --
 
-#{.williams} L(u")n. [[lyun]]
+#{.williams} L(u:)n. [[lyun]]
 
 <nav class="sideways">
 =={.modern}

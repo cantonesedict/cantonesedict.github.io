@@ -138,13 +138,13 @@ W
     ==
     - To cut;
     - to stick in the throat;
-    - _(1)ts(')(i/)m (5)k(')(u") (4)hau (4)lung_
+    - _(1)ts(')(i/)m (5)k(')(u:) (4)hau (4)lung_
         [[cim1 keoi5 hau4 lung4 㔐佢喉嚨]],
         pierce his weasand;
-    - _(1)ts(')(i/)m (1)ch(u")_
+    - _(1)ts(')(i/)m (1)ch(u:)_
         [[cim1 zyu1 㔐豬]],
         to stick a pig;
-    - _(1)ts(')(i/)m sh(u")(6)_
+    - _(1)ts(')(i/)m sh(u:)(6)_
         [[cim1 syu6 㔐樹]]
         to ingraft by slips.
     ==
@@ -268,10 +268,10 @@ W
   - [[Page~572 (1)殲]]
     ==
     - To destroy utterly, to exterminate, to pierce, to kill;
-    - _yat(7) (1)t(o\) (1)ts(')(i/)m (2)sz' (5)k(')(u")_
+    - _yat(7) (1)t(o\) (1)ts(')(i/)m (2)sz' (5)k(')(u:)_
         [[jat1 dou1 cim1 sei2 keoi5 一刀殲死佢]],
         stabbed him dead at a blow;
-    - _(1)ts(')(i/)m k(')(u")t(8) (4)k(')(u") (1)f(u/)i_
+    - _(1)ts(')(i/)m k(')(u:)t(8) (4)k(')(u:) (1)f(u/)i_
         [[cim1 kyut3 keoi4 fui1 殲厥渠魁]],
         killed the chief himself.
     ==
@@ -365,7 +365,7 @@ W
     ==
     - Slips of bamboo written on for lots [[...]];
     - [[...]];
-    - _(1)ts(')(i/)m (5)(u")_
+    - _(1)ts(')(i/)m (5)(u:)_
         [[cim1 jyu5 籤語]],
         to draw lots for a response.
     ==
@@ -538,7 +538,7 @@ W
     - _(2)ch(')(i/)m m(i/)(6) (1)ch(i/) (4)yan_
         [[cim2 mei6 zi1 jan4 諂媚之人]],
         a flatterer;
-    - _(2)ch(')(i/)m (u")(6)_
+    - _(2)ch(')(i/)m (u:)(6)_
         [[cim2 jyu6 諂譽]]
         to praise extravagantly;
     - _(2)ch(')(i/)m si(u/)(3)_

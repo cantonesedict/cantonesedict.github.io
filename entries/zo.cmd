@@ -116,7 +116,7 @@ W
     - _(1)[ling] (2)cho (4)lai_
         [[ling1 zo2 lai4 拎咗嚟]],
         brought it;
-    - _h(u")(3) (2)cho_
+    - _h(u:)(3) (2)cho_
         [[heoi3 zo2 去咗]],
         gone.
     ==
@@ -229,7 +229,7 @@ W
     - _(2)tso sing(3)_
         [[zo2 sing3 左性]]
         crotchetty, set in his way;
-    - _ch(u")n[(3)] (1)w(a/)n (2)tso p(i/)n(6)_
+    - _ch(u:)n[(3)] (1)w(a/)n (2)tso p(i/)n(6)_
         [[zyun3 waan1 zo2 bin6 轉彎左便]]
         turn to the left hand;
     - _(1)s(e/)ung (2)tso_
@@ -245,14 +245,14 @@ W
     - _(2)tso (2)shau (1)k(a/)u yau(6) (2)shau_
         [[zo2 sau2 gaau1 jau6 sau2 左手交右手]],
         to exchange from hand to hand, _i.~e._ not to give credit;
-    - _l(i/)t(9) (1)(u") (2)tso_
+    - _l(i/)t(9) (1)(u:) (2)tso_
         [[lit6 jyu1 zo2 列於左]],
         written as follows.
     ==
   ====
 C
   ==
-  - Williams' 轉彎左便: Corrected _(2)ch(u")n_ (zyun2) to _ch(u")n(3)_ (zyun3).
+  - Williams' 轉彎左便: Corrected _(2)ch(u:)n_ (zyun2) to _ch(u:)n(3)_ (zyun3).
     Now simply 轉左.
   - Williams' 列於左: Perhaps this should be 列如左.
   ==
@@ -315,7 +315,7 @@ W
     - _(2)cho (4)n(a/)n_
         [[zo2 naan4 阻難]],
         difficulties;
-    - _(2)cho ch(u")(6)_
+    - _(2)cho ch(u:)(6)_
         [[zo2 zyu6 阻住]]
         to hinder, blocked up;
     - _(2)cho (2)tong_
@@ -350,7 +350,7 @@ $$
 --{.williams}
 [[Page~26*, before the entry for 詛]]
   <br>
-This character [[詛]] is often called _ch(u\)_ [[zoe]] or _ch(u")_ [[zyu]].
+This character [[詛]] is often called _ch(u\)_ [[zoe]] or _ch(u:)_ [[zyu]].
 --
 
 ### 佐3 | _Tso(3)_ [[zo3]]
@@ -417,7 +417,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected headword self-reference to 上.
-  - Williams records _ch(u\)_ (zoe) and _ch(u")_ (zyu)
+  - Williams records _ch(u\)_ (zoe) and _ch(u:)_ (zyu)
     as alternative readings without specifying the tone
     (see remarks under $zo3).
     The former I cannot justify.
@@ -530,10 +530,10 @@ W
     - _[(5)ts(')o] ki(u/)(6)_
         [[co5 giu6-2 坐轎]]
         to ride in a sedan;
-    - _tso(6) ts(u/)i(6) (1)(u") (5)n(i/)_
+    - _tso(6) ts(u/)i(6) (1)(u:) (5)n(i/)_
         [[zo6 zeoi6 jyu1 nei5 坐罪於你]],
         to bring the punishment upon you;
-    - _[(5)ts(')o] (u")t(9)_
+    - _[(5)ts(')o] (u:)t(9)_
         [[co5 jyut6-2 坐月]]
         the month after confinement;
     - _tso(6) wai(6)_

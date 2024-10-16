@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 (From Page~198 & Page~720 of the original onwards.)
 --
 
-#{.williams} K(u")t. [[gyut]]
+#{.williams} K(u:)t. [[gyut]]
 
 <nav class="sideways">
 =={.modern}

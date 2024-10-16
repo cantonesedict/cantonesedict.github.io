@@ -10,7 +10,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 %%%
 
-#{.williams} Chui. Ts(u"). Tsui. Ts(u/)i. [[zeoi]]
+#{.williams} Chui. Ts(u:). Tsui. Ts(u/)i. [[zeoi]]
 
 <## tones ##>
 <nav class="sideways">
@@ -27,14 +27,14 @@ $$
 WH
   ==
   - Chui. [[Page~33*]]
-  - Ts(u"). [[Page~594]]
+  - Ts(u:). [[Page~594]]
   - Tsui. [[Page~596]]
   - Ts(u/)i. [[Page~598]]
   ==
 WP
   ==
   - Chui <span class="modern">= [tɕui]</span>
-  - Ts(u") <span class="modern">= [tsyː]</span>
+  - Ts(u:) <span class="modern">= [tsyː]</span>
   - Tsui <span class="modern">= [tsui]</span>
   - Ts(u/)i <span class="modern">= [tsuːi]</span>
   ==
@@ -45,7 +45,7 @@ MP
 $$
 
 
-##{#1 .williams} (1)Chui (1)Ts(u") (1)Tsui [[zeoi1 陰平]]
+##{#1 .williams} (1)Chui (1)Ts(u:) (1)Tsui [[zeoi1 陰平]]
 
 <## tone-1-characters ##>
 <nav class="sideways">
@@ -69,7 +69,7 @@ $$
 </nav>
 <## /tone-1-characters ##>
 
-### 且1 | _(1)Ts(u")_ [[zeoi1]]
+### 且1 | _(1)Ts(u:)_ [[zeoi1]]
 
 $$
 R
@@ -120,7 +120,7 @@ S
   ==
 $$
 
-### 沮1 | _(1)Ts(u")_ [[zeoi1]]
+### 沮1 | _(1)Ts(u:)_ [[zeoi1]]
 
 $$
 R
@@ -143,7 +143,7 @@ W
 C
   ==
   - Based on the presence of a bracket,
-    Williams considers rising-tone _(2)ts(u")_ (zeoi2)
+    Williams considers rising-tone _(2)ts(u:)_ (zeoi2)
     an acceptable alternative reading for the name sense.
     This is incorrect.
   - Williams' 荊州府: Corrected "K'ingchau" to unaspirated "Kingchau".
@@ -155,7 +155,7 @@ S
   ==
 $$
 
-### 疽1 | _(1)Ts(u")_ [[zeoi1]]
+### 疽1 | _(1)Ts(u:)_ [[zeoi1]]
 
 $$
 R
@@ -176,10 +176,10 @@ W
     ==
     - A deep-seated ulcer;
     - a carbuncle or anthrax;
-    - _(1)yung (1)ts(u")_
+    - _(1)yung (1)ts(u:)_
         [[jung1 zeoi1 癰疽]],
         an old ulcer;
-    - _(5)sh(u")n (1)ts(u")_
+    - _(5)sh(u:)n (1)ts(u:)_
         [[syun5 zeoi1 吮疽]],
         to suck out an ulcer.
     ==
@@ -190,7 +190,7 @@ C
   ==
 $$
 
-### 睢1 | _(1)Ts(u")_ [[zeoi1]]
+### 睢1 | _(1)Ts(u:)_ [[zeoi1]]
 
 $$.
 R
@@ -215,7 +215,7 @@ W
   ====
 C
   ==
-  - The reading _(1)ts(u")_ (zeoi1) for 睢
+  - The reading _(1)ts(u:)_ (zeoi1) for 睢
     is not attested in the Middle Chinese rime books.
     It is possible that Williams has mistaken it for 雎,
     which is what is present in Fan Wan (see $雎zeoi1).
@@ -227,7 +227,7 @@ S
   ==
 $$
 
-### 苴1 | _(1)Ts(u")_ [[zeoi1]]
+### 苴1 | _(1)Ts(u:)_ [[zeoi1]]
 
 $$
 R
@@ -251,20 +251,20 @@ W
     - sackcloth;
     - a rush, a sedge used for sandals;
     - coarse, unpolished;
-    - _(1)ts(u") p(o\)(3)_
+    - _(1)ts(u:) p(o\)(3)_
         [[zeoi1 bou3 苴布]]
         mourning sackcloth;
-    - _(2)p(o\) (1)ts(u")_
+    - _(2)p(o\) (1)ts(u:)_
         [[bou2 zeoi1 補苴]],
         to correct bad composition;
-    - _(1)ts(u") ch(e/)ung(6)_
+    - _(1)ts(u:) ch(e/)ung(6)_
         [[zeoi1 zoeng6 苴杖]]
         the mourner's staff.
     ==
   ====
 $$
 
-### 菹1 | _(1)Ts(u")_ [[zeoi1]]
+### 菹1 | _(1)Ts(u:)_ [[zeoi1]]
 
 $$
 R
@@ -287,7 +287,7 @@ W
   ====
 $$
 
-### 蛆1 | _(1)Ts(u")_ [[zeoi1]]
+### 蛆1 | _(1)Ts(u:)_ [[zeoi1]]
 
 $$
 R
@@ -303,11 +303,11 @@ W
     [[...]]
     --
     --
-    Read _(1)ts(u")_ [[zeoi1]],
+    Read _(1)ts(u:)_ [[zeoi1]],
     --
     ==
     - a millipede;
-    - _tsik(7) (1)ts(u")_
+    - _tsik(7) (1)ts(u:)_
         [[zik1 zeoi1 蝍蛆]],
         a centipede.
     ==
@@ -353,7 +353,7 @@ S
   ==
 $$
 
-### 趄1 | _(1)Ts(u")_ [[zeoi1]]
+### 趄1 | _(1)Ts(u:)_ [[zeoi1]]
 
 $$
 R
@@ -373,7 +373,7 @@ W
   - [[Page~594 (1)趄]]
     ==
     - To walk slowly, impeded in going;
-    - _(1)tsz' (1)ts(u")_
+    - _(1)tsz' (1)ts(u:)_
         [[zi1 zeoi1 趑趄]],
         hobbling, walking step by step.
     ==
@@ -410,7 +410,7 @@ W
     - _(1)chui f(u/)i(3)_
         [[zeoi1 fui3 追悔]]
         to feel remorse;
-    - _(1)chui h(u")(3)_
+    - _(1)chui h(u:)(3)_
         [[zeoi1 heoi3 追去]]
         to drive out;
     - _(1)chui kau(3)_
@@ -419,7 +419,7 @@ W
     - _(4)ngan pat(7) (1)chui (4)(u/)i_
         [[ngan4 bat1 zeoi1 wui4 銀不追回]],
         the money cannot be refunded;
-    - _(1)chui (5)k(')(u") (1)f(a/)n (4)lai_
+    - _(1)chui (5)k(')(u:) (1)f(a/)n (4)lai_
         [[zeoi1 keoi5 faan1 lai4 追佢返嚟]],
         hurry him back here;
     - _(1)chui (4)'m (5)sh(e/)ung lok(8)_
@@ -499,7 +499,7 @@ C
   ==
 $$
 
-###+ 雎1 | _(1)Ts(u")_ (zeoi1)
+###+ 雎1 | _(1)Ts(u:)_ (zeoi1)
 
 $$
 R
@@ -550,7 +550,7 @@ W
 $$
 
 
-##{#2 .williams} (2)Ts(u") (2)Tsui [[zeoi2 陰上]]
+##{#2 .williams} (2)Ts(u:) (2)Tsui [[zeoi2 陰上]]
 
 <## tone-2-characters ##>
 <nav class="sideways">
@@ -565,7 +565,7 @@ $$
 </nav>
 <## /tone-2-characters ##>
 
-### 咀2 | _(2)Ts(u")_ [[zeoi2]]
+### 咀2 | _(2)Ts(u:)_ [[zeoi2]]
 
 $$
 R
@@ -582,10 +582,10 @@ W
     ==
     - To taste;
     - to chew, to bite in order to taste;
-    - _(2)ts(u") ts(e/)uk[(8)] (5)h(a/)_
+    - _(2)ts(u:) ts(e/)uk[(8)] (5)h(a/)_
         [[zeoi2 zoek3 haa5 咀嚼吓]],
         take a bite of it;
-    - _(4)h(o\)m (1)ying (2)ts(u") [(4)]w(a/)_
+    - _(4)h(o\)m (1)ying (2)ts(u:) [(4)]w(a/)_
         [[ham4 jing1 zyu2 waa1 含英咀華]],
         to learn and relish the beauties of a style.
     ==
@@ -595,7 +595,7 @@ C
   - Williams' 咀嚼吓: Changed _ts(e/)uk(9)_ (zoek6) to common reading _ts(e/)uk(8)_ (zoek3).
   - Williams' 含英咀華: Corrected _(1)w(a/)_ (waa1) to _(4)w(a/)_ (waa4).
   - It is only in modern Cantonese
-    that 咀 _(2)ts(u")_ and 嘴 _(2)tsui_ are homophonous (both zeoi2),
+    that 咀 _(2)ts(u:)_ and 嘴 _(2)tsui_ are homophonous (both zeoi2),
     and that 咀 is an alternative form of 嘴.
     **See $嘴zeoi2 for the canonical entry.**
   ==
@@ -676,7 +676,7 @@ C
   ==
 $$
 
-### 沮2 | _(2)Ts(u")_ [[zeoi2]]
+### 沮2 | _(2)Ts(u:)_ [[zeoi2]]
 
 $$
 R
@@ -702,14 +702,14 @@ W
     - to destroy;
     - to discomfit;
     - to scare;
-    - _(2)ts(u") (2)ch(i/)_
+    - _(2)ts(u:) (2)ch(i/)_
         [[zeoi2 zi2 沮止]],
         to quash, to stop;
         to intrigue against;
-    - _(2)ts(u") tsok(9)_
+    - _(2)ts(u:) tsok(9)_
         [[zeoi2 zok6 沮怍]]
         ashamed, awkward, as a rustic;
-    - _(2)ts(u") s(i/)t(8)_
+    - _(2)ts(u:) s(i/)t(8)_
         [[zeoi2 sit3 沮泄]]
         to let out, to blab;
         to issue, as malaria;
@@ -718,7 +718,7 @@ W
   ====
 C
   ==
-  - The reading _(2)ts(u")_ (zeoi2) is not unattested;
+  - The reading _(2)ts(u:)_ (zeoi2) is not unattested;
     Kangxi quotes 《正韻》再呂切𠀤音咀, explained 止也過也壞也.
   ==
 S
@@ -758,7 +758,7 @@ S
   ==
 $$
 
-###+ 詛2 | _(2)Ts(u")_ (zeoi2)
+###+ 詛2 | _(2)Ts(u:)_ (zeoi2)
 
 $$.
 R
@@ -779,7 +779,7 @@ S
   ==
 $$
 
-### 齟2 | _(2)Ts(u")_ [[zeoi2]]
+### 齟2 | _(2)Ts(u:)_ [[zeoi2]]
 
 $$
 R
@@ -806,7 +806,7 @@ C
 $$
 
 
-##{#3 .williams} <ins class="modern">Chui(3)</ins> <ins class="modern">Ts(u")(3)</ins> Tsui(3) [[zeoi3 陰去]]
+##{#3 .williams} <ins class="modern">Chui(3)</ins> <ins class="modern">Ts(u:)(3)</ins> Tsui(3) [[zeoi3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">
@@ -878,7 +878,7 @@ W
     - _[chui(3)] [chui(3)]_
         [[zeoi3 zeoi3 惴惴]],
         [mourning], grieving;
-    - _[chui(3)] k(u")(6)_
+    - _[chui(3)] k(u:)(6)_
         [[zeoi3 geoi6 惴懼]]
         anxious.
     ==
@@ -890,7 +890,7 @@ S
   ==
 $$
 
-###+ 沮3 | _Ts(u")(3)_ (zeoi3)
+###+ 沮3 | _Ts(u:)(3)_ (zeoi3)
 
 $$
 R
@@ -901,10 +901,10 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~594 (2)沮 _(2)Ts(u")_ (zeoi2); here corrected to _Ts(u")(3)_ (zeoi3)]]
+  - [[Page~594 (2)沮 _(2)Ts(u:)_ (zeoi2); here corrected to _Ts(u:)(3)_ (zeoi3)]]
     ==
     - [[...]];
-    - _shap(7) [ts(u")](3)_
+    - _shap(7) [ts(u:)](3)_
         [[sap1 zeoi3 濕沮]]^,
         damp, dank.
     ==
@@ -988,7 +988,7 @@ W
     - _tsui(3) (1)h(e/)ung_
         [[zeoi3 hoeng1 醉鄉]],
         a drunken sot;
-    - _tsui(3) (4)(u") (4)nai_
+    - _tsui(3) (4)(u:) (4)nai_
         [[zeoi3 jyu4 nai4 醉如泥]],
         drunk as a clod;
     - _t(a/)i(6) tsui(3)_
@@ -1003,7 +1003,7 @@ C
 $$
 
 
-##{#6 .williams} Chui(6) Ts(u")(6) Ts(u/)i(6) [[zeoi6 陽去]]
+##{#6 .williams} Chui(6) Ts(u:)(6) Ts(u/)i(6) [[zeoi6 陽去]]
 
 <## tone-6-characters ##>
 <nav class="sideways">
@@ -1026,7 +1026,7 @@ $$
 </nav>
 <## /tone-6-characters ##>
 
-### 叙6 | _Ts(u")(6)_ [[zeoi6]]
+### 叙6 | _Ts(u:)(6)_ [[zeoi6]]
 
 $$.
 R
@@ -1084,7 +1084,7 @@ W
   ====
 $$
 
-### 序6 | _Ts(u")(6)_ [[zeoi6]]
+### 序6 | _Ts(u:)(6)_ [[zeoi6]]
 
 $$
 R
@@ -1111,26 +1111,26 @@ W
     - a preface, an introduction, an exordium;
     - order, precedence, series;
     - to follow in order;
-    - _ts(')z'(3) ts(u")(6)_
+    - _ts(')z'(3) ts(u:)(6)_
         [[ci3 zeoi6 次序]]
         in order, seriatim, regularly;
-    - _tsok(8) yat(7) (1)p(')(i/)n ts(u")(6)_
+    - _tsok(8) yat(7) (1)p(')(i/)n ts(u:)(6)_
         [[zok3 jat1 pin1 zeoi6 作一篇序]]
         to write a preface;
-    - _ts(u")(6) (2)ch(')(i/)_
+    - _ts(u:)(6) (2)ch(')(i/)_
         [[zeoi6 ci2 序齒]],
         to go by ages;
-    - _ts(u")(6) (4)ts(')(e/)ung_
+    - _ts(u:)(6) (4)ts(')(e/)ung_
         [[zeoi6 coeng4 序庠]],
         a district college;
-    - _ts(u")(6) sz'(6) (5)t(')o, tong(3)_
+    - _ts(u:)(6) sz'(6) (5)t(')o, tong(3)_
         [[zeoi6 si6 to5 dong3 序事妥當]]
         everything in its order.
     ==
   ====
 $$
 
-### 敍6 | _Ts(u")(6)_ [[zeoi6]]
+### 敍6 | _Ts(u:)(6)_ [[zeoi6]]
 
 $$.
 R
@@ -1148,7 +1148,7 @@ W
   ====
 $$
 
-###+ 敘6 | _Ts(u")(6)_ (zeoi6)
+###+ 敘6 | _Ts(u:)(6)_ (zeoi6)
 
 $$
 R
@@ -1173,14 +1173,14 @@ W
     - to meet, to converse;
     - to discourse or argue upon;
     - order, series, rank;
-    - _(1)s(e/)ung ts(u")(6)_ [[soeng1 zeoi6 相敘]]
+    - _(1)s(e/)ung ts(u:)(6)_ [[soeng1 zeoi6 相敘]]
         or
-      _ts(u")(6) (4)t(')(a/)m_ [[zeoi6 taam4 敘談]],
+      _ts(u:)(6) (4)t(')(a/)m_ [[zeoi6 taam4 敘談]],
         to converse;
-    - _(5)(i/) ts(u")(6)_
+    - _(5)(i/) ts(u:)(6)_
         [[ji5 zeoi6 議敘]]
         to deliberate upon the proper rewards;
-    - _(1)t(')(i/)n ts(u")(6)_
+    - _(1)t(')(i/)n ts(u:)(6)_
         [[tin1 zeoi6 天敘]]
         the five social relations.
     ==
@@ -1233,7 +1233,7 @@ W
     - _chui(6) lok(9)_
         [[zeoi6 lok6 縋落]]
         to let down, as into a well, or over a wall;
-    - _chui(6) (4)(u")n_
+    - _chui(6) (4)(u:)n_
         [[zeoi6 jyun4 縋鉛]],
         lead put in sycee.
     ==
@@ -1266,13 +1266,13 @@ W
     - a violation of the rules of the land or decorum;
     - to criminate, to regard as a criminal;
     - punishment, retribution;
-    - _tak(7) ts(u/)i(6) (1)(u") (1)t(')(i/)n_
+    - _tak(7) ts(u/)i(6) (1)(u:) (1)t(')(i/)n_
         [[dak1 zeoi6 jyu1 tin1 得罪於天]],
         to sin against Heaven;
     - _ts(u/)i(6) kwo(3)_
         [[zeoi6 gwo3 罪過]]
         a fault, a crime;
-    - _(4)(u")n ts(u/)i(6) (5)yau (2)ho (4)(u")n_
+    - _(4)(u:)n ts(u/)i(6) (5)yau (2)ho (4)(u:)n_
         [[jyun4 zeoi6 jau5 ho2 jyun4 ？罪有可原]],
         the crime can be exculpated;
     - _[fat](9) ts(u/)i(6)_
@@ -1284,7 +1284,7 @@ W
     - _(1)kwan ts(u/)i(6)_
         [[gwan1 zeoi6 軍罪]]
         exile to (I/)l(i/) [[？？]];
-    - _sh(u")(3) ts(u/)i(6)_
+    - _sh(u:)(3) ts(u/)i(6)_
         [[syu3 zeoi6 恕罪]]
         excuse me;
     - _f(a/)n(6) ts(u/)i(6)_
@@ -1312,7 +1312,7 @@ C
   ==
 $$
 
-### 聚6 | _Ts(u")(6)_ [[zeoi6]]
+### 聚6 | _Ts(u:)(6)_ [[zeoi6]]
 
 $$
 R
@@ -1338,24 +1338,24 @@ W
     - a dwelling-place, a village;
     - a conjunction, a meeting;
     - a place of meeting;
-    - _ts(u")(6) (2)shau_
+    - _ts(u:)(6) (2)shau_
         [[zeoi6 sau2 聚首]],
         a concourse, a gathering of friends;
-    - _(4)'m ts(u")(6) (4)ts(')oi_
+    - _(4)'m ts(u:)(6) (4)ts(')oi_
         [[m4 zeoi6 coi4 唔聚財]]^
         not a lucky place;
         not a moneymaking man;
-    - _ts(u")(6) (2)p(o\) (4)t(')ong_
+    - _ts(u:)(6) (2)p(o\) (4)t(')ong_
         [[zeoi6 bou2 tong4 聚寶堂]],
         the shrine of Plutus at the door;
-    - _ts(u")(6) (u/)i(6)_
+    - _ts(u:)(6) (u/)i(6)_
         [[zeoi6 wui6 聚會]]
         to call a meeting
     ==
   ====
 $$
 
-### 藇6 | _Ts(u")(6)_ [[zeoi6]]
+### 藇6 | _Ts(u:)(6)_ [[zeoi6]]
 
 $$
 R
@@ -1373,7 +1373,7 @@ W
     - Good, agreeable, pleasant, as liquor.
     ==
     --
-    Read _(4)(u")_ [[jyu4]], [[**see $藇jyu4**]].
+    Read _(4)(u:)_ [[jyu4]], [[**see $藇jyu4**]].
     --
   ====
 S
@@ -1473,7 +1473,7 @@ S
   ==
 $$
 
-### 鱮6 | _Ts(u")(6)_ [[zeoi6]]
+### 鱮6 | _Ts(u:)(6)_ [[zeoi6]]
 
 $$
 R

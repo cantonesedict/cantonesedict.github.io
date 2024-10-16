@@ -322,13 +322,13 @@ W
   ====
   - [[Page~11|n54 (2)踹]]
     --
-    Also read _t(u")n[(3)]_ [[dyun3]].
+    Also read _t(u:)n[(3)]_ [[dyun3]].
     --
     ==
     - To stamp, to trample, to tread on with the heel;
     - to rase, to destroy;
     - the heel;
-    - _(2)ch(')(a/)i (5)(u")n sok(8)_
+    - _(2)ch(')(a/)i (5)(u:)n sok(8)_
         [[caai2 jyun5 sok3 踹軟索]]
         a treader on rope ladders---a thief;
     - _(2)p(i/) (1)sai (1)kw(a/) (4)p(')(i/) (5)n(i/) (2)ch(')(a/)i_
@@ -337,7 +337,7 @@ W
     - _(2)ch(')(a/)i p(')o(3) (4)ying (4)p(')(u/)n_
         [[caai2 po3 jing4 pun4 踹破營盤]],
         to remain victorious;
-    - _(2)ch(')(a/)i ch(u")(6) (5)k(')(u")_
+    - _(2)ch(')(a/)i ch(u:)(6) (5)k(')(u:)_
         [[caai2 zyu6 keoi5 踹住佢]],
         step on it;
     - _(2)k(i/) (4)sh(i/) (4)ngau (2)ch(')(a/)i k(e/)uk(8)_
@@ -356,7 +356,7 @@ W
   ====
 C
   ==
-  - Williams' "Also read [...]": Corrected _(2)t(u")n_ (dyun2) to _t(u")n(3)_ (dyun3).
+  - Williams' "Also read [...]": Corrected _(2)t(u:)n_ (dyun2) to _t(u:)n(3)_ (dyun3).
   - See $踩caai2 for commentary on 踩 versus 踹.
   ==
 S
@@ -402,7 +402,7 @@ W
     - To gnaw, to bite;
     - to eat rapidly;
     - to swallow, to bolt;
-    - _ch(')(a/)i(3) h(u")t(8)_
+    - _ch(')(a/)i(3) h(u:)t(8)_
         [[caai3 hyut3 嘬血]]
         to suck blood;
     - _ch(')(a/)i(3) ng(i/)t(9)_

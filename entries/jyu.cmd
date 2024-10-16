@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 (From Page~633 of the original onwards.)
 --
 
-#{.williams} (U"). [[jyu]]
+#{.williams} (U:). [[jyu]]
 
 <nav class="sideways">
 =={.modern}

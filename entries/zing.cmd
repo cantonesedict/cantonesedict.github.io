@@ -142,7 +142,7 @@ W
         [[zing1 sau1 征收]],
         to assess [taxes];
         [[these square brackets appear in the original text]]
-    - _(1)ching (1)ch(u")_
+    - _(1)ching (1)ch(u:)_
         [[zing1 zyu1 征誅]],
         to exterminate;
     - _ch(')ut(7) (1)ching_
@@ -325,10 +325,10 @@ W
   - [[Page~18* (1)楨]]
     ==
     - A kind of fir;
-    - _(5)n(u") (1)ching_
+    - _(5)n(u:) (1)ching_
         [[neoi5 zing1 女楨]],
         a coniferæ growing on T(a/)ish(a/)n [[太山]] in Sh(a/)ntung [[山東]];
-    - _(5)n(u") (1)ching (2)tsz'_
+    - _(5)n(u:) (1)ching (2)tsz'_
         [[neoi5 zing1 zi2 女楨子]]
         the seeds of this tree;
     - _(1)ching kon(3)_
@@ -359,7 +359,7 @@ W
   - [[Page~18* (1)正]]
     ==
     - The first;
-    - _(1)ching (u")t(9)_
+    - _(1)ching (u:)t(9)_
         [[zing1 jyut6 正月]]
         the first month of the year, January.
     ==
@@ -477,7 +477,7 @@ W
     - _f(a/)t(8) (1)tsing (1)kwong_
         [[faat3 zing1 gwong1 發睛光]],
         night blindness;
-    - _muk(9) pat(7) (2)ch(u")n (1)tsing_
+    - _muk(9) pat(7) (2)ch(u:)n (1)tsing_
         [[muk6 bat1 zyun2 zing1 目不轉睛]],
         eyes fixed.
     ==
@@ -554,7 +554,7 @@ W
     - _(1)tseng [(2)]kong t(a/)i(6) w(a/)(6)_
         [[zeng1 gong2 daai6 waa6 精講大話]]
         very clever at lying;
-    - _(5)k(')(u") hai(6) (1)tseng_
+    - _(5)k(')(u:) hai(6) (1)tseng_
         [[keoi5 hai6 zeng1 佢係精]]^
         he's smart enough;
     - _(1)tsing yuk(9)_
@@ -910,7 +910,7 @@ W
       _(2)ching (2)k(u/) ts(o\)(6) kw(a/)i(3)_ [[zing2 gu2 zou6 gwaai3 整古做怪]]
         to sham, as poverty;
         to dissemble, to simulate;
-    - _(2)ching (5)k(')(u") (2)kwai (5)m(a/)_
+    - _(2)ching (5)k(')(u:) (2)kwai (5)m(a/)_
         [[zing2 keoi5 gwai2 maa5 整佢鬼馬]],
         set a catch for him, as in play;
     - _(2)ching (4)ts(')ai_
@@ -1112,7 +1112,7 @@ W
     - _ching(3) (1)king_
         [[zing3 ging1 正經]],
         moral, virtuous;
-    - _ching(3) tsoi(6) (1)n(i/) ch(')(u")(3)_
+    - _ching(3) tsoi(6) (1)n(i/) ch(')(u:)(3)_
         [[zing3 zoi6 ni1 cyu3 正在呢處]]
         he was just here;
     - _[(5)ts(')o] cheng(3)_
@@ -1251,7 +1251,7 @@ W
     ==
     - The hot reflection of the sun;
     - the sun striking on one;
-    - _(i/)t(9) (4)t(')au ching(3) ch(u")(6)_
+    - _(i/)t(9) (4)t(')au ching(3) ch(u:)(6)_
         [[jit6 tau4-2 zing3 zyu6 熱頭蒸住]]
         the sun strikes on me.
     ==
@@ -1322,14 +1322,14 @@ W
     - _ching(3) (i/)m(6)_
         [[zing3 jim6 證驗]]
         to verify;
-    - _ching(3) k(u")[(3)]_
+    - _ching(3) k(u:)[(3)]_
         [[zing3 geoi3 證據]]
         evidence.
     ==
   ====
 C
   ==
-  - Williams' 證據: Corrected _k(u")(6)_ (geoi6) to _k(u")(3)_ (geoi3).
+  - Williams' 證據: Corrected _k(u:)(6)_ (geoi6) to _k(u:)(3)_ (geoi3).
   ==
 $$
 
@@ -1397,7 +1397,7 @@ W
     - _tseng(6) (2)shui (4)f(u/)_
         [[zeng6 seoi2 fu4]],
         a cleansing charm, used in houses;
-    - _yat(7) ko(3) (1)t(o\) h(u")(3) (1)kon tseng(6)_
+    - _yat(7) ko(3) (1)t(o\) h(u:)(3) (1)kon tseng(6)_
         [[jat1 go3 dou1 heoi3 gon1 zeng6 一個都去乾淨]]
         every one has gone.
     ==

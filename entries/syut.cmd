@@ -11,10 +11,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 %%%
 
 --{.modern}
-(From Page~460 (Sh(u")t) and Page~484 (S(u")t) of the original onwards.)
+(From Page~460 (Sh(u:)t) and Page~484 (S(u:)t) of the original onwards.)
 --
 
-#{.williams} Sh(u")t. S(u")t. [[syut]]
+#{.williams} Sh(u:)t. S(u:)t. [[syut]]
 
 <nav class="sideways">
 =={.modern}

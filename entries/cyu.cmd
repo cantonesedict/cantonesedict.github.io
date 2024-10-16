@@ -10,7 +10,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 %%%
 
-#{.williams} Ch(')(u"). [[cyu]]
+#{.williams} Ch(')(u:). [[cyu]]
 
 <## tones ##>
 <nav class="sideways">
@@ -26,11 +26,11 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 WH
   ==
-  - Ch(')(u"). [[Page~32*]]
+  - Ch(')(u:). [[Page~32*]]
   ==
 WP
   ==
-  - Ch(')(u") <span class="modern">= [tɕʰyː]</span>
+  - Ch(')(u:) <span class="modern">= [tɕʰyː]</span>
   ==
 MP
   ==
@@ -43,7 +43,7 @@ S
 $$
 
 
-##{#2 .williams} (2)Ch(')(u") [[cyu2 陰上]]
+##{#2 .williams} (2)Ch(')(u:) [[cyu2 陰上]]
 
 <## tone-2-characters ##>
 <nav class="sideways">
@@ -55,7 +55,7 @@ $$
 </nav>
 <## /tone-2-characters ##>
 
-### 処2 | _(2)Ch(')(u")_ [[cyu2]]
+### 処2 | _(2)Ch(')(u:)_ [[cyu2]]
 
 $$.
 R
@@ -77,7 +77,7 @@ W
   ====
 $$
 
-###+ 楮2 | _(2)Ch(')(u")_ (cyu2)
+###+ 楮2 | _(2)Ch(')(u:)_ (cyu2)
 
 $$.
 R
@@ -101,7 +101,7 @@ S
   ==
 $$
 
-### 處2 | _(2)Ch(')(u")_ [[cyu2]]
+### 處2 | _(2)Ch(')(u:)_ [[cyu2]]
 
 $$
 R
@@ -133,41 +133,41 @@ W
     - to distinguish, to manage, to judge, to decide on,
       to attend to, to do what is proper;
     - to place;
-    - _[(5)]ch(')(u") (2)tsz'_
+    - _[(5)]ch(')(u:) (2)tsz'_
         [[cyu5 zi2 處子]]
         a young lady;
-    - _(2)ch(')(u") ch(i/)(6) (1)t(')(a/)_
+    - _(2)ch(')(u:) ch(i/)(6) (1)t(')(a/)_
         [[cyu2 zi6 taa1 處治他]],
         do it for him, settle him, fix him;
-    - _(1)s(e/)ung [(5)]ch(')(u")_
+    - _(1)s(e/)ung [(5)]ch(')(u:)_
         [[soeng1 cyu5 相處]],
         familiar, friendly;
-    - _[(5)]ch(')(u") (1)kwan (4)shan_
+    - _[(5)]ch(')(u:) (1)kwan (4)shan_
         [[cyu5 gwan1 san4 處君臣]],
         to be an officer;
-    - _(4)n(a/)n (2)ch(')(u")_
+    - _(4)n(a/)n (2)ch(')(u:)_
         [[naan4 cyu2 難處]],
         not easy to judge;
-    - _(2)ch(')(u") [k(')(u")t](8)_
+    - _(2)ch(')(u:) [k(')(u:)t](8)_
         [[cyu2 kyut3 處決]]
         execute him;
-    - _[(5)]ch(')(u") (1)f(u/) (5)f(u/)_
+    - _[(5)]ch(')(u:) (1)f(u/) (5)f(u/)_
         [[cyu5 fu1 fu5 處夫婦]]^
         when married.
     ==
   ====
 C
   ====
-  - I have changed _(2)ch(')(u")_ (cyu2)
-    to the common reading _(5)ch(')(u")_ (cyu5) when it seems appropriate
+  - I have changed _(2)ch(')(u:)_ (cyu2)
+    to the common reading _(5)ch(')(u:)_ (cyu5) when it seems appropriate
     (although I am not aware of any logic that can be used
     to determine when this is the case).
     From past experience:
     ==
-    - The classical reading _(2)ch(')(u")_ (cyu2) seems mandatory in
+    - The classical reading _(2)ch(')(u:)_ (cyu2) seems mandatory in
         處決,
         處置.
-    - The common reading _(5)ch(')(u")_ (cyu5) seems preferred in
+    - The common reading _(5)ch(')(u:)_ (cyu5) seems preferred in
         共處,
         判處,
         懲處,
@@ -184,7 +184,7 @@ C
         處事,
         處理.
     ==
-  - Williams' 處決: Changed _k(u")t(8)_ (gyut3) to common reading _k(')(u")t(8)_ (kyut3).
+  - Williams' 處決: Changed _k(u:)t(8)_ (gyut3) to common reading _k(')(u:)t(8)_ (kyut3).
   ====
 S
   ==
@@ -194,7 +194,7 @@ S
 $$
 
 
-##{#3 .williams} Ch(')(u")(3) [[cyu3 陰去]]
+##{#3 .williams} Ch(')(u:)(3) [[cyu3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">
@@ -204,7 +204,7 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
-### 處3 | _Ch(')(u")(3)_ [[cyu3]]
+### 處3 | _Ch(')(u:)(3)_ [[cyu3]]
 
 $$
 R
@@ -226,25 +226,25 @@ W
     - A place, a spot;
     - a circumstance, a condition;
     - added to nouns, it often forms the concrete,
-      as _ching(3) k(i/)n(3) (1)t(')(a/) (4)ling ch(')(u")(3)_
+      as _ching(3) k(i/)n(3) (1)t(')(a/) (4)ling ch(')(u:)(3)_
         [[zing3 gin3 taa1 ling4 cyu3 正見它靈處]]
         we now see its spirituality;
-    - _p(i/)t(9) ch(')(u")(3)_
+    - _p(i/)t(9) ch(')(u:)(3)_
         [[bit6 cyu3 別處]]
         elsewhere;
-    - _ch(')(u")(3) ch(')(u")(3)_
+    - _ch(')(u:)(3) ch(')(u:)(3)_
         [[cyu3 cyu3 處處]]
         everywhere;
-    - _[(2)]ko ch(')(u")(3)_
+    - _[(2)]ko ch(')(u:)(3)_
         [[go2 cyu3 嗰處]]
         there;
-    - _(1)p(i/)n ch(')(u")(3)_
+    - _(1)p(i/)n ch(')(u:)(3)_
         [[bin1 cyu3 邊處]]
         where?
-    - _(2)t(u")n ch(')(u")(3)_
+    - _(2)t(u:)n ch(')(u:)(3)_
         [[dyun2 cyu3 短處]]
         a failing;
-    - _(2)h(o\) ch(')(u")(3)_
+    - _(2)h(o\) ch(')(u:)(3)_
         [[hou2 cyu3 好處]]
         well off.
     ==
@@ -272,7 +272,7 @@ S
 $$
 
 
-##{#4 .williams} (4)Ch(')(u") [[cyu4 陽平]]
+##{#4 .williams} (4)Ch(')(u:) [[cyu4 陽平]]
 
 <## tone-4-characters ##>
 <nav class="sideways">
@@ -291,7 +291,7 @@ $$
 </nav>
 <## /tone-4-characters ##>
 
-### 儲4 | _(4)Ch(')(u")_ [[cyu4]]
+### 儲4 | _(4)Ch(')(u:)_ [[cyu4]]
 
 $$.
 R
@@ -314,7 +314,7 @@ S
   ==
 $$
 
-### 厨4 | _(4)Ch(')(u")_ [[cyu4]]
+### 厨4 | _(4)Ch(')(u:)_ [[cyu4]]
 
 $$.
 R
@@ -342,7 +342,7 @@ S
   ==
 $$
 
-### 廚4 | _(4)Ch(')(u")_ [[cyu4]]
+### 廚4 | _(4)Ch(')(u:)_ [[cyu4]]
 
 $$.
 R
@@ -370,7 +370,7 @@ S
   ==
 $$
 
-### [樞]4 | _(4)Ch(')(u")_ [[cyu4]]
+### [樞]4 | _(4)Ch(')(u:)_ [[cyu4]]
 
 $$.
 R
@@ -396,7 +396,7 @@ S
   ==
 $$
 
-### 滁4 | _(4)Ch(')(u")_ [[cyu4]]
+### 滁4 | _(4)Ch(')(u:)_ [[cyu4]]
 
 $$.
 R
@@ -420,7 +420,7 @@ S
   ==
 $$
 
-### 篨4 | _(4)Ch(')(u")_ [[cyu4]]
+### 篨4 | _(4)Ch(')(u:)_ [[cyu4]]
 
 $$.
 R
@@ -444,7 +444,7 @@ S
   ==
 $$
 
-### 蜍4 | _(4)Ch(')(u")_ [[cyu4]]
+### 蜍4 | _(4)Ch(')(u:)_ [[cyu4]]
 
 $$.
 R
@@ -467,7 +467,7 @@ S
   ==
 $$
 
-### 躇4 | _(4)Ch(')(u")_ [[cyu4]]
+### 躇4 | _(4)Ch(')(u:)_ [[cyu4]]
 
 $$
 R
@@ -490,7 +490,7 @@ W
   - [[Page~32* (4)躇]]
     ==
     - At a loss, perplexed;
-    - _(4)ch(')au (4)ch(')(u")_
+    - _(4)ch(')au (4)ch(')(u:)_
         [[cau4 cyu4 躊躇]],
         embarrassed, hesitating, stopping to consider.
     ==
@@ -501,7 +501,7 @@ C
   ==
 $$
 
-### [躕]4 | _(4)Ch(')(u")_ [[cyu4]]
+### [躕]4 | _(4)Ch(')(u:)_ [[cyu4]]
 
 $$.
 R
@@ -528,7 +528,7 @@ S
   ==
 $$
 
-### 除4 | _(4)Ch(')(u")_ [[cyu4]]
+### 除4 | _(4)Ch(')(u:)_ [[cyu4]]
 
 $$.
 R
@@ -553,7 +553,7 @@ S
 $$
 
 
-##{#5 .williams} (5)Ch(')(u") [[cyu5 陽上]]
+##{#5 .williams} (5)Ch(')(u:) [[cyu5 陽上]]
 
 <## tone-5-characters ##>
 <nav class="sideways">
@@ -576,7 +576,7 @@ $$
 </nav>
 <## /tone-5-characters ##>
 
-### 佇5 | _(5)Ch(')(u")_ [[cyu5]]
+### 佇5 | _(5)Ch(')(u:)_ [[cyu5]]
 
 $$
 R
@@ -598,17 +598,17 @@ W
     ==
     - To stand a long time;
     - to wait, to look for;
-    - _(5)ch(')(u") lap(9)_
+    - _(5)ch(')(u:) lap(9)_
         [[cyu5 lap6 佇立]]
         to stand up;
-    - _(5)ch(')(u") mong(6)_
+    - _(5)ch(')(u:) mong(6)_
         [[cyu5 mong6 佇望]]
         to be hoping, expecting.
     ==
   ====
 $$
 
-###+ 儲5 | _(5)Ch(')(u")_ (cyu5)
+###+ 儲5 | _(5)Ch(')(u:)_ (cyu5)
 
 $$
 R
@@ -623,16 +623,16 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~32* (4)儲 _(4)Ch(')(u")_ (cyu4); here normalised to _(5)Ch(')(u")_ (cyu5)]]
+  - [[Page~32* (4)儲 _(4)Ch(')(u:)_ (cyu4); here normalised to _(5)Ch(')(u:)_ (cyu5)]]
     ==
     - To collect;
     - to provide for need;
     - furnished;
     - to assist, to act as second to;
-    - _[(5)]ch(')(u") wai(6)_
+    - _[(5)]ch(')(u:) wai(6)_
         [[cyu5 wai6 儲位]]
         an heir-apparent;
-    - _[(5)]ch(')(u") (1)kwan_
+    - _[(5)]ch(')(u:) (1)kwan_
         [[cyu5 gwan1 儲君]],
         son of a prince.
     ==
@@ -648,7 +648,7 @@ S
   ==
 $$
 
-### 宁5 | _(5)Ch(')(u")_ [[cyu5]]
+### 宁5 | _(5)Ch(')(u:)_ [[cyu5]]
 
 $$
 R
@@ -669,7 +669,7 @@ W
   ====
 $$
 
-### 拄5 | _(5)Ch(')(u")_ [[cyu5]]
+### 拄5 | _(5)Ch(')(u:)_ [[cyu5]]
 
 $$.
 R
@@ -694,7 +694,7 @@ S
   ==
 $$
 
-### 杵5 | _(5)Ch(')(u")_ [[cyu5]]
+### 杵5 | _(5)Ch(')(u:)_ [[cyu5]]
 
 $$
 R
@@ -714,10 +714,10 @@ W
   - [[Page~33* (5)杵]]
     ==
     - A pestle, a beater;
-    - _yat(7) (4)t(')i(u/) (1)chung (5)ch(')(u")_
+    - _yat(7) (4)t(')i(u/) (1)chung (5)ch(')(u:)_
         [[jat1 tiu4 zung1 cyu5 一條舂杵]],
         a single pestle;
-    - _(5)ch(')(u") (5)k(')au_
+    - _(5)ch(')(u:) (5)k(')au_
         [[cyu5 kau5 杵臼]],
         mortar and pestle.
     ==
@@ -728,7 +728,7 @@ C
   ==
 $$
 
-### 杼5 | _(5)Ch(')(u")_ [[cyu5]]
+### 杼5 | _(5)Ch(')(u:)_ [[cyu5]]
 
 $$
 R
@@ -746,7 +746,7 @@ W
     - A shuttle;
     - thin, as a wheel;
     - a fruit like a chestnut;
-    - _(5)m(u/)n (5)ch(')(u") (1)king (4)lun_
+    - _(5)m(u/)n (5)ch(')(u:) (1)king (4)lun_
         [[mun5 cyu5 ging1 leon4 滿杼經綸]],
         learned as a full shuttle.
     ==
@@ -757,7 +757,7 @@ C
   ==
 $$
 
-### 柱5 | _(5)Ch(')(u")_ [[cyu5]]
+### 柱5 | _(5)Ch(')(u:)_ [[cyu5]]
 
 $$
 R
@@ -775,16 +775,16 @@ W
     - A post, a pillar, an upright support, a joist;
     - a main dependance, a statesman;
     - to support, to uphold;
-    - _kwok(8) (5)ch(')(u")_
+    - _kwok(8) (5)ch(')(u:)_
         [[gwok3 cyu5 國柱]],
         a high officer;
-    - _(4)k(')ing (1)t(')(i/)n (5)ch(')(u")_
+    - _(4)k(')ing (1)t(')(i/)n (5)ch(')(u:)_
         [[king4 tin1 cyu5 擎天柱]],
         an atlas of the state;
-    - _(5)ch(')(u") [(2)]tan_
+    - _(5)ch(')(u:) [(2)]tan_
         [[cyu5 dan2 柱墩]],
         the pedestal;
-    - _(4)l(e/)ung (5)ch(')(u")_
+    - _(4)l(e/)ung (5)ch(')(u:)_
         [[loeng4 cyu5 梁柱]],
         beams and columns, _met._ statesmen.
     ==
@@ -795,7 +795,7 @@ C
   ==
 $$
 
-### 楮5 | _(5)Ch(')(u")_ [[cyu5]]
+### 楮5 | _(5)Ch(')(u:)_ [[cyu5]]
 
 $$
 R
@@ -817,13 +817,13 @@ W
     ==
     - A mulberry _(Broussonetia papyfera)_
       from whose bark paper and cloth can be made;
-    - _(5)ch(')(u") pai(6)_
+    - _(5)ch(')(u:) pai(6)_
         [[cyu5 bai6 楮幣]]
         paper money, a note;
-    - _(5)ch(')(u") (4)(i/)_
+    - _(5)ch(')(u:) (4)(i/)_
         [[cyu5 ji4 楮儀]],
         money given to defray funerals;
-    - _(5)ch(')(u") (4)ts(')(i/)n_
+    - _(5)ch(')(u:) (4)ts(')(i/)n_
         [[cyu5 cin4 楮錢]],
         fancy paper burned in worship.
     ==
@@ -834,7 +834,7 @@ S
   ==
 $$
 
-### 竚5 | _(5)Ch(')(u")_ [[cyu5]]
+### 竚5 | _(5)Ch(')(u:)_ [[cyu5]]
 
 $$.
 R
@@ -855,7 +855,7 @@ W
   ====
 $$
 
-### 紵5 | _(5)Ch(')(u")_ [[cyu5]]
+### 紵5 | _(5)Ch(')(u:)_ [[cyu5]]
 
 $$
 R
@@ -886,7 +886,7 @@ C
   ==
 $$
 
-### 羜5 | _(5)Ch(')(u")_ [[cyu5]]
+### 羜5 | _(5)Ch(')(u:)_ [[cyu5]]
 
 $$
 R
@@ -902,14 +902,14 @@ W
   - [[Page~32* (5)羜]]
     ==
     - A lamb five months old;
-    - _(4)f(i/) (5)ch(')(u")_
+    - _(4)f(i/) (5)ch(')(u:)_
         [[fei4 cyu5 肥羜]],
         a fat lamb.
     ==
   ====
 $$
 
-### 苧5 | _(5)Ch(')(u")_ [[cyu5]]
+### 苧5 | _(5)Ch(')(u:)_ [[cyu5]]
 
 $$
 R
@@ -925,17 +925,17 @@ W
   - [[Page~33* (5)苧]]
     ==
     - A plant _(Bœhmeria tenacissima)_ grown for its fibres;
-    - _(5)ch(')(u") (4)m(a/)_
+    - _(5)ch(')(u:) (4)m(a/)_
         [[cyu5 maa4 苧麻]],
         the grasscloth nettle;
-    - _(5)ch(')(u") (1)kan_
+    - _(5)ch(')(u:) (1)kan_
         [[cyu5 gan1 苧根]],
         its roots.
     ==
   ====
 $$
 
-###+ 處5 | _(5)Ch(')(u")_ (cyu5)
+###+ 處5 | _(5)Ch(')(u:)_ (cyu5)
 
 $$.
 R
@@ -957,7 +957,7 @@ S
   ==
 $$
 
-### 貯5 | _(5)Ch(')(u")_ [[cyu5]]
+### 貯5 | _(5)Ch(')(u:)_ [[cyu5]]
 
 $$
 R
@@ -978,15 +978,15 @@ W
     ==
     - To hoard, to store up, to lay by in safety;
     - a hoard, a treasure;
-    - _(5)ch(')(u") tsik(7)_
+    - _(5)ch(')(u:) tsik(7)_
         [[cyu5 zik1 貯積]]
         to accumulate;
-    - _(5)ch(')(u") tun(6)_
+    - _(5)ch(')(u:) tun(6)_
         [[cyu5 deon6 貯頓]]
         to store up goods;
-    - _(4)ts(')(u")n (5)ch(')(u")_ [[cyun4 cyu5 存貯]]^
+    - _(4)ts(')(u:)n (5)ch(')(u:)_ [[cyun4 cyu5 存貯]]^
         or
-      _(5)ch(')(u") (4)m(a/)i_ [[cyu5 maai4 貯埋]],
+      _(5)ch(')(u:) (4)m(a/)i_ [[cyu5 maai4 貯埋]],
         to lay by.
     ==
   ====

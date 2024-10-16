@@ -92,7 +92,7 @@ W
     - _(1)(a/)i (5)h(a/) tik(7)_
         [[aai1 haa5 dik1 挨吓滴]]
         lie down a little;
-    - _(1)(a/)i tak(7) h(u")(3)_
+    - _(1)(a/)i tak(7) h(u:)(3)_
         [[aai1 dak1 heoi3 挨得去]]
         it will answer;
     - _(1)(a/)i (4)m(u/)n (1)(a/)i (u/)(6)_

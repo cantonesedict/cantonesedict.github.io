@@ -311,7 +311,7 @@ W
     - _(1)tsi(u/) m(u/)t(9)_
         [[ziu1 mut6 椒末]]
         ground pepper;
-    - _(1)ch(')(u")n (1)tsi(u/)_
+    - _(1)ch(')(u:)n (1)tsi(u/)_
         [[cyun1 ziu1 川椒]],
         Sz'chuen [[四川]] pepper.
     ==
@@ -622,7 +622,7 @@ W
     - _(2)tsi(u/) m(i/)t(9)_
         [[ziu2 mit6 勦滅]]
         to extirpate, to rase, as is done to rebels or their towns;
-    - _(2)tsi(u/) ts(u")t(9) (2)tong (5)(u")_
+    - _(2)tsi(u/) ts(u:)t(9) (2)tong (5)(u:)_
         [[ziu2 zyut6 dong2 jyu5 勦絕黨與]],
         to extirpate all the adherents of a cabal.
     ==
@@ -776,10 +776,10 @@ W
     - _(2)t(a/) chi(u/)(3) m(i/)n(6)_
         [[daa2 ziu3 min6 打照面]]
         catch a glimpse of;
-    - _chi(u/)(3) (1)(i/) (5)k(')(u")_
+    - _chi(u/)(3) (1)(i/) (5)k(')(u:)_
         [[ziu3 ji1 keoi5 照依佢]],
         do as he does;
-    - _chi(u/)(3) ch(u")(6) (5)k(')(u")_
+    - _chi(u/)(3) ch(u:)(6) (5)k(')(u:)_
         [[ziu3 zyu6 keoi5 照住佢]],
         light him with a lantern;
     - _chi(u/)(3) k(i/)n(3) (5)n(i/) k(e/)(3) (1)sam (1)kon_

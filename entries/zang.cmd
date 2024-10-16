@@ -184,7 +184,7 @@ W
     - _hat(7) (4)yan (1)tsang_
         [[hat1 jan4 zang1 乞人憎]],
         to act so as to be hated;
-    - _(5)ngo (2)h(o\) (1)tsang (5)k(')(u")_
+    - _(5)ngo (2)h(o\) (1)tsang (5)k(')(u:)_
         [[ngo5 hou2 zang1 keoi5 我好憎佢]],
         I perfectly detest him;
     - _(1)tsang h(o\)(3) pat(7) (4)t(')ung_
@@ -250,7 +250,7 @@ W
   - [[Page~556 (1)曾]]
     ==
     - To duplicate, to add;
-    - _(1)tsang (1)s(u")n_
+    - _(1)tsang (1)s(u:)n_
         [[zang1 syun1 曾孫]],
         a great-grandson;
     - _(1)tsang (2)ts(o\) (5)m(o\)_
@@ -347,7 +347,7 @@ W
     - _(1)ch(a/)ng (1)kung_
         [[zaang1 gung1 爭功]],
         to emulate;
-    - _(1)[chang] t(u")t[(9)]_
+    - _(1)[chang] t(u:)t[(9)]_
         [[zang1 dyut6 爭奪]],
         to take by force;
     - _(1)[chang] chap(7)_
@@ -356,7 +356,7 @@ W
     - _(1)ch(a/)ng (5)yau h(a/)n(6)_
         [[zaang1 jau5 haan6 爭有限]]
         differs a little;
-    - _(1)ch(a/)ng tik(7) chuk(7) (2)t(o\) (5)k(')(u")_
+    - _(1)ch(a/)ng tik(7) chuk(7) (2)t(o\) (5)k(')(u:)_
         [[zaang1 dik1 zuk1 dou3-2 keoi5 爭滴捉到佢]],
         all but caught him;
     - _(1)[chang] (a/)u(3)_
@@ -380,7 +380,7 @@ C
     so normalisation to the shorter _(1)chang_ (zang1) is only appropriate
     in some instances.
   - Williams' 爭功: Not to emulate, but to claim merit.
-  - Williams' 爭奪: Corrected _t(u")t(8)_ (dyut3) to _t(u")t(9)_ (dyut6).
+  - Williams' 爭奪: Corrected _t(u:)t(8)_ (dyut3) to _t(u:)t(9)_ (dyut6).
   - Williams' 爭得多: Corrected _(1)t(o\)_ (dou1) to _(1)to_ (do1).
   ==
 E

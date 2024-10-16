@@ -616,7 +616,7 @@ W
     - _(1)t(')(i/)n h(a/)(6) (4)wan ts(a/)p(9)_
         [[tin1 haa6 wan4 zaap6 天下雲集]]
         crowded together from all quarters;
-    - _ts(u")(6) ts(a/)p(9)_
+    - _ts(u:)(6) ts(a/)p(9)_
         [[zeoi6 zaap6 聚集]]
         to assemble, to collect.
     ==
@@ -681,10 +681,10 @@ W
     - _ts(a/)p(9) (4)t(')ong (2)kwo_
         [[zaap6 tong4 gwo2 雜糖果]],
         chowchow sweetmeats;
-    - _(5)'ng (1)fong ts(a/)p(9) [(5)]ch(')(u")_
+    - _(5)'ng (1)fong ts(a/)p(9) [(5)]ch(')(u:)_
         [[ng5 fong1 zaap6 cyu5 五方雜處]],
         a place where all sorts of people live;
-    - _ts(a/)p(9) l(u")n(6)_
+    - _ts(a/)p(9) l(u:)n(6)_
         [[zaap6 lyun6 雜亂]]
         confused, put in disorder;
     - _(4)h(a/)n ts(a/)p(9) (4)yan (2)tang_
@@ -704,7 +704,7 @@ W
 C
   ==
   - Williams' "unassorted": An old word for unsorted or miscellaneous.
-  - Williams' 五方雜處: Changed _(2)ch(')(u")_ (cyu2) to common reading _(5)ch(')(u")_ (cyu5).
+  - Williams' 五方雜處: Changed _(2)ch(')(u:)_ (cyu2) to common reading _(5)ch(')(u:)_ (cyu5).
   ==
 E
   ====

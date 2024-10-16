@@ -83,14 +83,14 @@ W
     ==
     - An unbridled tongue;
     - vilifying, grumbling, scolding, slandering;
-    - _ch(i/)p(8) [(4)(u")]_
+    - _ch(i/)p(8) [(4)(u:)]_
         [[zip3 jyu4 囁嚅]],
         chattering, querulous.
     ==
   ====
 C
   ==
-  - Williams' 囁嚅: Corrected _(1)s(u")_ (seoi1) to _(4)(u")_ (jyu4).
+  - Williams' 囁嚅: Corrected _(1)s(u:)_ (seoi1) to _(4)(u:)_ (jyu4).
   ==
 $$
 

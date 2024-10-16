@@ -187,7 +187,7 @@ W
     - _(2)h(i/) [ko](3) (2)ts(')oi_
         [[hei2 go3 coi2 起個彩]],
         let us have a rejoicing, as after one is out of prison;
-    - _t(u")t(9) (2)ts(')oi_
+    - _t(u:)t(9) (2)ts(')oi_
         [[dyut6 coi2 奪彩]],
         to get to the goal, to win the praise;
     - _(2)ts(')oi (4)ts(')(i/)n_
@@ -477,7 +477,7 @@ W
     - _ts(')oi(3) shik(7)_
         [[coi3 sik1 菜色]]
         lank, half starved, like one who has lived on greens;
-    - _h(u")(3) (5)m(a/)i ts(')oi(3)_
+    - _h(u:)(3) (5)m(a/)i ts(')oi(3)_
         [[heoi3 maai5 coi3 去買菜]]
         gone to market;
     - _p(a/)k(8) ts(')oi(3)_
@@ -644,7 +644,7 @@ W
     - _(4)n(o\) (4)ts(')oi_
         [[nou4 coi4 奴才]],
         a slave;
-    - _(4)ts(')oi k(u")(6)_
+    - _(4)ts(')oi k(u:)(6)_
         [[coi4 geoi6 才具]]
         parts, talents;
     - _(4)ts(')oi (4)nang_
@@ -748,7 +748,7 @@ W
     - _(4)ts(')oi (2)h(o\)_
         [[coi4 hou2 纔好]],
         then it will do;
-    - _(4)ts(')oi h(u")(3)_
+    - _(4)ts(')oi h(u:)(3)_
         [[coi4 heoi3 纔去]]
         just gone.
     ==
@@ -830,7 +830,7 @@ W
     - profits;
     - bribes;
     - presents;
-    - _(4)ts(')oi (2)ch(u") (2)l(o\)_
+    - _(4)ts(')oi (2)ch(u:) (2)l(o\)_
         [[coi4 zyu2 lou2 財主佬]],
         a rich man;
     - _(4)ts(')oi (1)tung_

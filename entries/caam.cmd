@@ -250,7 +250,7 @@ W
     - _(1)ts(')(a/)m shing(6)_
         [[caam1 sing6 驂乘]]
         three sitters in a carriage;
-    - _t(')(u")t(8) (1)ts(')(a/)m (4)(i/) tsang(6)_
+    - _t(')(u:)t(8) (1)ts(')(a/)m (4)(i/) tsang(6)_
         [[tyut3 caam1 ji4 zang6 脫驂而贈]]
         he unhitched the wheelhorse and gave it to him.
     ==

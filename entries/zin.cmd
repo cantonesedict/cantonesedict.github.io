@@ -309,7 +309,7 @@ W
     - _yung(6) (4)yau (1)ts(i/)n_
         [[jung6 jau4 zin1 用油煎]],
         use fat in frying it;
-    - _m(a/)n(6) (2)fo (1)ts(i/)n (4)(u")_
+    - _m(a/)n(6) (2)fo (1)ts(i/)n (4)(u:)_
         [[maan6 fo2 zin1 jyu4-2 慢火煎魚]],
         a slow fire tries fish;
         _i.~e._ small bets will erelong drain the purse;
@@ -872,14 +872,14 @@ W
     - _(4)ts(')oi (2)ts(i/)n_
         [[coi4 zin2 材譾]],
         mediocre, of small capacity;
-    - _(2)ts(i/)n l(u")t[(9)]_
+    - _(2)ts(i/)n l(u:)t[(9)]_
         [[zin2 lyut6 譾劣]]
         mean, insignificant.
     ==
   ====
 C
   ==
-  - Williams' 譾劣: Changed _l(u")t(8)_ (lyut3) to _l(u")t(9)_ (lyut6).
+  - Williams' 譾劣: Changed _l(u:)t(8)_ (lyut3) to _l(u:)t(9)_ (lyut6).
   ==
 $$
 
@@ -901,7 +901,7 @@ W
     - To roll over half way;
     - to turn over;
     - [[see $輾nin5 for "mill" senses]];
-    - _(2)ch(i/)n (2)ch(u")n (2)f(a/)n [chak](7)_
+    - _(2)ch(i/)n (2)ch(u:)n (2)f(a/)n [chak](7)_
         [[zin2 zyun2 faan2 zak1 輾轉反側]]
         to turn back and forth, to think on.
     ==
@@ -1045,7 +1045,7 @@ W
     - a battle, an engagement;
     - war, hostilities;
     - military, pertaining to war;
-    - _h(u")t(8) ch(i/)n(3)_
+    - _h(u:)t(8) ch(i/)n(3)_
         [[hyut3 zin3 血戰]]
         a bloody fight;
     - _ch(i/)n(3) shing(3)_
@@ -1067,10 +1067,10 @@ W
     - _ch(i/)n(3) ch(i/)n(3) (1)king (1)king_
         [[zin3 zin3 ging1 ging1 戰戰兢兢]],
         frightened, afraid of;
-    - _ch(i/)n(3) (4)sh(u")n_
+    - _ch(i/)n(3) (4)sh(u:)n_
         [[zin3 syun4 戰船]],
         a war-junk, a ship of war;
-    - _ch(i/)n(3) (1)sh(u")_
+    - _ch(i/)n(3) (1)sh(u:)_
         [[zin3 syu1 戰書]],
         a challenge to fight.
     ==
@@ -1372,10 +1372,10 @@ W
     - _ts(i/)n(3) (2)ts(o\)_
         [[zin3 zou2 薦祖]],
         to worship ancestors;
-    - _(2)k(u") ts(i/)n(3)_
+    - _(2)k(u:) ts(i/)n(3)_
         [[geoi2 zin3 舉薦]]
         to recommend one;
-    - _(2)s(e/) ts(i/)n(3) (2)sh(u")_
+    - _(2)s(e/) ts(i/)n(3) (2)sh(u:)_
         [[se2 zin3 syu1 寫薦書]],
         to write an introductory letter;
     - _(5)yau ts(i/)n(3) (4)t(')au_,

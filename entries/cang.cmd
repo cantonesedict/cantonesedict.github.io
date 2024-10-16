@@ -68,7 +68,7 @@ W
     - still more, added to;
     - a step, a degree above;
     - a classifier of stories;
-    - _k(o\) (5)k(')(u") yat(7) (4)ts(')ang_
+    - _k(o\) (5)k(')(u:) yat(7) (4)ts(')ang_
         [[gou1 keoi5 jat1 cang4 高佢一層]],
         one peg higher than it;
     - _(4)m(o\) (4)ts(')ang_

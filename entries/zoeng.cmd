@@ -136,7 +136,7 @@ W
         [[zoeng1 gwan1 將軍]],
         a commander-in-chief, all of whom are Manchus;
         _met._ the best, the principal;
-    - _(1)ts(e/)ung (4)(u") (1)ch(i/) (4)ho_
+    - _(1)ts(e/)ung (4)(u:) (1)ch(i/) (4)ho_
         [[zoeng1 jyu4 zi1 ho4 將如之何]],
         how shall we then act?
     - _(1)ts(e/)ung (4)loi (1)ch(')ung (1)kung_
@@ -148,10 +148,10 @@ W
     - _(1)ts(e/)ung (2)p(u/)n (4)k(')au l(i/)(6)_
         [[zoeng1 bun2 kau4 lei6 將本求利]]
         to make money on a capital;
-    - _(1)sh(u") (1)ts(e/)ung_
+    - _(1)sh(u:) (1)ts(e/)ung_
         [[syu1 zoeng1 輸將]],
         to aid the government;
-    - _(1)ts(e/)ung (4)i(u/) (4)(i/)n (4)ch(')(u")n p(o\)(3)_
+    - _(1)ts(e/)ung (4)i(u/) (4)(i/)n (4)ch(')(u:)n p(o\)(3)_
         [[zoeng1 jiu4 jin4 cyun4 bou3 將謠言傳布]]
         to avail of strange words to make it known.
     ==
@@ -213,7 +213,7 @@ W
     - (1)ch(e/)ung (1)hoi (2)hau_
         [[zoeng1 hoi1 hau2 張開口]],
         open your mouth;
-    - _(2)ch(u") (1)ch(e/)ung_
+    - _(2)ch(u:) (1)ch(e/)ung_
         [[zyu2 zoeng1 主張]],
         to direct, to lord over;
     - _yat(7) (1)ch(e/)ung (4)m(u/)n (4)lim_
@@ -487,7 +487,7 @@ W
   - [[Page~34|n77 (1)鄣]]
     ==
     - A feudal state, now part of T(a/)i-ng(a/)n f(u/) [[泰安府]] in [Sh(a/)ntung] [[山東]];
-    - an ancient city in K(u") [[莒]], also in the modern Sh(a/)ntung [[山東]].
+    - an ancient city in K(u:) [[莒]], also in the modern Sh(a/)ntung [[山東]].
     ==
   ====
 $$
@@ -522,7 +522,7 @@ W
     - _h(i/)n(3) (1)ch(e/)ung_
         [[hin3 zoeng1 憲章]],
         magistrate's orders;
-    - _(1)ch(e/)ung k(u")(3)_
+    - _(1)ch(e/)ung k(u:)(3)_
         [[zoeng1 geoi3 章句]]
         sections and paragraphs;
     - _sh(o\)(3) (1)ch(e/)ung_
@@ -634,7 +634,7 @@ W
     - _h(o\)p(9) (2)ch(e/)ung_
         [[hap6 zoeng2 合掌]],
         to clasp the hands, as in prayer;
-    - _(2)ch(e/)ung ak(7) (1)ping (4)k(')(u")n_
+    - _(2)ch(e/)ung ak(7) (1)ping (4)k(')(u:)n_
         [[zoeng2 ak1 bing1 kyun4 掌握兵權]],
         to command the forces;
     - _(2)ch(e/)ung k(a/)u(3)_
@@ -650,7 +650,7 @@ W
     - _(2)ch(e/)ung kwai(6)_
         [[zoeng2 gwai6-2 掌櫃]]
         a bookkeeper, a salesman;
-    - _(i/)(6) (4)(u") (2)f(a/)n (2)ch(e/)ung_
+    - _(i/)(6) (4)(u:) (2)f(a/)n (2)ch(e/)ung_
         [[ji6 jyu4 faan2 zoeng2 易如反掌]],
         as easy as to turn the hand over.
     ==
@@ -680,7 +680,7 @@ W
     - _ch(a/)u(6) (2)ts(e/)ung_
         [[zaau6 zoeng2 櫂槳]],
         to row;
-    - _(2)ts(e/)ung (4)sh(u")n_
+    - _(2)ts(e/)ung (4)sh(u:)n_
         [[zoeng2 syun4 槳船]],
         a revenue cutter, because it has many oars.
     ==
@@ -710,7 +710,7 @@ W
     - to laud, to praise, to commend;
     - to vindicate, to give efficacy to;
     - to set on, as dogs;
-    - _(2)ts(e/)ung h(u")n(3)_
+    - _(2)ts(e/)ung h(u:)n(3)_
         [[zoeng2 hyun3 獎勸]]
         to exhort;
     - _(2)ts(e/)ung (2)sh(e/)ung_
@@ -802,7 +802,7 @@ W
     - _(2)ch(e/)ung (5)l(o\)_
         [[zoeng2 lou5 長老]],
         a Budhist priest;
-    - _(1)ts(u")n (2)ch(e/)ung_ [[zyun1 zoeng2 尊長]]^
+    - _(1)ts(u:)n (2)ch(e/)ung_ [[zyun1 zoeng2 尊長]]^
         or
       _(2)ch(e/)ung (2)ch(e/)_ [[zoeng2 ze2 長者]],
         an old man;
@@ -1103,7 +1103,7 @@ W
     - A debt, a claim, an account, a charge;
     - to reckon, to sum up;
     - to calculate[;]
-    - _(4)'m s(u")n(3) ch(e/)ung(3)_
+    - _(4)'m s(u:)n(3) ch(e/)ung(3)_
         [[m4 syun4 zoeng3 唔算賬]]
         do not put it to my account, it's none of my business;
     - _ngan(6) ch(e/)ung(3)_
@@ -1127,7 +1127,7 @@ W
     - _hau(6) ch(e/)ung(3)_
         [[hau6 zoeng3 候賬]]
         waiting for a settlement;
-    - _s(u")n(3) ch(e/)ung(3)_
+    - _s(u:)n(3) ch(e/)ung(3)_
         [[syun3 zoeng3 算賬]]
         to reckon accounts;
     - _ch(e/)ung(3) (2)p(o\)_
@@ -1182,7 +1182,7 @@ W
     - _(1)kon ts(e/)ung(3)_
         [[gon1 zoeng3 乾醬]]
         dried seasoning;
-    - _ts(e/)ung(3) (4)(u")n_
+    - _ts(e/)ung(3) (4)(u:)n_
         [[zoeng3 jyun4-2 醬園]],
         a shop where condiments are sold;
     - _ts(e/)ung(3) li(u/)(6)_
@@ -1486,7 +1486,7 @@ W
     - _(5)m(u/)n ch(e/)ung(6)_
         [[mun5 zoeng6 滿杖]]
         to beat 8O~strokes;
-    - _ch(e/)ung(6) (1)(u") (1)h(e/)ung_
+    - _ch(e/)ung(6) (1)(u:) (1)h(e/)ung_
         [[zoeng6 jyu1 hoeng1 杖於鄉]],
         a village sexagenarian;
     - _[sek(8)] ch(e/)ung(6)_

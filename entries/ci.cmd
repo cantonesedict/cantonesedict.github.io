@@ -283,7 +283,7 @@ W
     - _(1)ch(')(i/) (4)ngoi_
         [[ci1 ngoi4 癡呆]],
         foolish stolid;
-    - _(1)ch(')(i/) ch(u")t(8) [(2)]k(o\)m (1)ch(')(u")n l(u")n(6) ch(')(u")(3)_
+    - _(1)ch(')(i/) ch(u:)t(8) [(2)]k(o\)m (1)ch(')(u:)n l(u:)n(6) ch(')(u:)(3)_
         [[ci zyut3 gam2 cyun1 lyun6 cyu3 癡拙噉穿亂處]]
         running in and out, making such a rumpus;
     - _(1)ch(')(i/) (4)ts(')ing_
@@ -296,7 +296,7 @@ W
         [[bat1 ci1 bat1 lung4 不癡不聾]],
         if I am not foolish and deaf [I cannot reign];
         [[these square brackets appear in the original text]]
-    - _(1)sh(u") (1)ch(')(i/)_
+    - _(1)sh(u:) (1)ch(')(i/)_
         [[syu1 ci1 書癡]],
         doting on books;
     - _(1)ch(')(i/) (4)[mai] pat(7) (2)sing_
@@ -1075,7 +1075,7 @@ W
         that, this;
         you, I;
         there, here;
-    - _(4)(u") (2)ts(')z'_
+    - _(4)(u:) (2)ts(')z'_
         [[jyu4 ci2 如此]]
         like this;
     - _(4)'m tsoi(6) (2)ts(')z'_
@@ -1417,7 +1417,7 @@ W
     - _(4)hang ts(')z'(3)_
         [[hang4 ci3 行刺]]
         to stab to death;
-    - _tsok(8) (1)sh(i/) ts(')z'(3) (5)k(')(u")_
+    - _tsok(8) (1)sh(i/) ts(')z'(3) (5)k(')(u:)_
         [[zok3 si1 ci3 keoi5 作詩刺佢]],
         to pasquinade in verse;
     - _(5)[ts(')(a/)m] ts(')z'(3)_
@@ -1426,7 +1426,7 @@ W
     - _(4)t(')au ts(')z'(3)_
         [[tau4 ci3 投刺]]
         to send in a card;
-    - _sh(u")t(8) ts(')z'(3)_ [[syut3 ci3 說刺]]
+    - _sh(u:)t(8) ts(')z'(3)_ [[syut3 ci3 說刺]]
         or
       _(1)k(i/) ts(')z'(3)_ [[gei1 ci3 譏刺]]
         a sarcasm, an inuendo, a taunt;
@@ -1715,7 +1715,7 @@ W
     - splendor;
     - the glare of lights;
     - numerous;
-    - _(5)(i/) (4)yau kau(3) (2)fo, (u")(6) p(')ok(8) (u")(6) ch(')(i/)(3)_
+    - _(5)(i/) (4)yau kau(3) (2)fo, (u:)(6) p(')ok(8) (u:)(6) ch(')(i/)(3)_
         [[ji5 jau4 gau3 fo2 jyu6 pok3 jyu6 ci3 以油救火愈撲愈熾]]
         as if you should try to put out a fire with oil,
         the more the fiercer it burns.
@@ -1815,7 +1815,7 @@ W
     - _ch(')(i/)(3) yik(9)_
         [[ci3 jik6 翅翼]]
         wings;
-    - _(4)(u") ch(')(i/)(3)_
+    - _(4)(u:) ch(')(i/)(3)_
         [[jyu4 ci3 魚翅]]
         fins;
         the shark's fins;
@@ -1935,7 +1935,7 @@ W
     - _(4)mung ts(')z'(3) k(u/)(3)_
         [[mung4 ci3 gu3 蒙賜顧]]
         obliged for your patronage---a phrase on bills;
-    - _(u")(6) ts(')z'(3) (1)f(a/) (4)ling_
+    - _(u:)(6) ts(')z'(3) (1)f(a/) (4)ling_
         [[jyu6 ci3 faa1 ling4 御賜花翎]],
         an imperial gift of a peacock's feather.
     ==
@@ -2261,7 +2261,7 @@ W
         a mirage pool, a take-in, a mistake;
     - _(4)ch(')(i/) (4)t(')ong_ [[ci4 tong4 池塘]]^
         or
-      _(4)(u") (4)ch(')(i/)_ [[jyu4 ci4 魚池]],
+      _(4)(u:) (4)ch(')(i/)_ [[jyu4 ci4 魚池]],
         a fish-pool.
     ==
   ====
@@ -2451,7 +2451,7 @@ W
     ==
     - A kind of bamboo flute, with seven holes;
     - the sound resembles the wailing of children;
-    - _(4)ch(')(i/) (1)h(u")n_
+    - _(4)ch(')(i/) (1)h(u:)n_
         [[ci4 hyun1 篪壎]],
         two instruments which chord;
         fraternal love.
@@ -2514,7 +2514,7 @@ W
     - _(5)t(')(o\) (4)ts(')z'_
         [[tou5 ci4 肚臍]]
         the navel;
-    - _(5)n(u")n (4)ts(')z' (1)k(o\)_
+    - _(5)n(u:)n (4)ts(')z' (1)k(o\)_
         [[nyun5 ci4 gou1 暖臍膏]],
         a plaster to keep the navel warm.
     ==
@@ -2649,7 +2649,7 @@ W
   - [[Page~11* (4)踟]]
     ==
     - Irresolute;
-    - _(4)ch(')(i/) (4)ch(')(u")_
+    - _(4)ch(')(i/) (4)ch(')(u:)_
         [[ci4 cyu4 踟躕]],
         undecided, embarrassed, going on and then returning.
     ==
@@ -2705,7 +2705,7 @@ W
     -_(1)t(')(u/)i (4)ts(')z'_
         [[teoi1 ci4 推辭]]
         to decline, as an office;
-    - _(4)ts(')z' h(u")(3)_
+    - _(4)ts(')z' h(u:)(3)_
         [[ci4 heoi3 辭去]]
         to leave, as one's service;
     - _k(o\)(3) (4)ts(')z'_
@@ -2726,13 +2726,13 @@ W
     - _(4)ts(')z' (4)hang t(')(i/)p[(8)]_
         [[ci4 hang4 tip3-2 辭行帖]],
         a card to take leave;
-    - _(1)h(u") (4)ts(')z'_
+    - _(1)h(u:) (4)ts(')z'_
         [[heoi1 ci4 虛辭]]
         a falsehood;
-    - _t(')(a/)n(3) (5)(u") (4)ts(')z'_
+    - _t(')(a/)n(3) (5)(u:) (4)ts(')z'_
         [[taan3 jyu5 ci4 嘆語辭]]
         an interjection;
-    - _(2)h(o\) (4)ts(')z' k(u")(3)_
+    - _(2)h(o\) (4)ts(')z' k(u:)(3)_
         [[hou2 ci4 geoi3 好辭句]]
         a good style.
     ==
@@ -2879,7 +2879,7 @@ W
     - _(4)ch(')(i/) yik(9)_
         [[ci4 jik6 馳驛]]
         to ride post;
-    - _(4)ch(')(i/) (1)k(')(u")_
+    - _(4)ch(')(i/) (1)k(')(u:)_
         [[ci4 keoi1 馳驅]],
         to ride fast.
     ==

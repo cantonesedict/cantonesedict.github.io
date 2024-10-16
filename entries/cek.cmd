@@ -92,15 +92,15 @@ W
   ====
   - [[Page~15* 尺(8) _Ch(')ek(9)_ (cek6); here corrected to _Ch(')ek(8)_ (cek3)]]
     ==
-    - A cubit, or 10~_ts(')(u")n(3)_ [[寸]];
+    - A cubit, or 10~_ts(')(u:)n(3)_ [[寸]];
     - the Chinese foot;
-    - _ch(')ek[(8)] ts(')(u")n(3)_
+    - _ch(')ek[(8)] ts(')(u:)n(3)_
         [[cek3 cyun3 尺寸]]
         regular, proportioned;
-    - _(2)k(i/) (1)to ch(')ek[(8)] ts(')(u")n(3)_
+    - _(2)k(i/) (1)to ch(')ek[(8)] ts(')(u:)n(3)_
         [[gei2 do1 cek3 cyun3 幾多尺寸]]
         what are the dimensions?
-    - _(4)'m kau(3) ch(')ek[(8)] ts(')(u")n(3)_
+    - _(4)'m kau(3) ch(')ek[(8)] ts(')(u:)n(3)_
         [[m4 gau3 cek3 cyun3 唔夠尺寸]]
         not of full stature;
     - _(1)s(a/)m ch(')ek[(8)] f(a/)t(8)_
@@ -118,7 +118,7 @@ W
     - _ch(')ek[(8)] wok[(9)]_
         [[cek3 wok6 尺蠖]]
         a geometrical worm;
-    - _ch(')ek[(8)] yat(7) (1)ch(i/) (1)sh(u")_
+    - _ch(')ek[(8)] yat(7) (1)ch(i/) (1)sh(u:)_
         [[cek3 jat1 zi1 syu1 尺一之書]],
         an epistle, a note;
     - _ch(')ek[(8)] t(o\)(6)_

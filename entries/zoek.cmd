@@ -870,7 +870,7 @@ W
     - [[...]];
     - to cause, to order, to send;
     - a particle placed after verbs, showing a transitive and present action,
-      and is like _ch(u")(6)_ [[zyu6 住]] in colloquial;
+      and is like _ch(u:)(6)_ [[zyu6 住]] in colloquial;
     - before verbs, let, make, permit;
     - _(4)'m ch(e/)uk[(9)]_
         [[m4 zoek6 唔着]]
@@ -888,7 +888,7 @@ W
     - _ch(e/)uk[(9)] shat(9) (2)t(a/)_
         [[zoek6 sat6 daa2 着實打]],
         gave him a flogging;
-    - _(u")(6) (1)k(a/) ch(e/)uk[(9)] (4)mong_
+    - _(u:)(6) (1)k(a/) ch(e/)uk[(9)] (4)mong_
         [[jyu6 gaa1 zoek6 mong4 愈加着忙]],
         he was still more vexed;
     - _ch(e/)uk[(9)] sh(o\)(3)_
@@ -924,7 +924,7 @@ W
     - _ch(e/)uk[(9)] (4)'m ch(e/)uk[(9)]_
         [[zoek6 m4 zoek6 着唔着]]
         is it right or not?
-    - _(2)t(i/)m (u")(6) tak(7) ch(e/)uk[(9)]_
+    - _(2)t(i/)m (u:)(6) tak(7) ch(e/)uk[(9)]_
         [[dim2 jyu6 dak1 zoek6 點遇得着]]
         how shall I get to him?
     - _(4)m(o\) ch(e/)uk[(9)] lok(9)_

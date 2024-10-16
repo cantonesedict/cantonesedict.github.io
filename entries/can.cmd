@@ -210,7 +210,7 @@ W
     - _(1)ts(')an ts(')ik(7)_
         [[can1 cik1 親戚]]
         one's relatives;
-    - _[(2)]ts(')(u") (1)ts(')an_
+    - _[(2)]ts(')(u:) (1)ts(')an_
         [[ceoi2 can1 娶親]],
         to take a wife;
     - _(4)shing (1)ts(')an_
@@ -257,7 +257,7 @@ W
     - _(1)ts(')an sh(e/)ung(6) (1)k(a/) (1)ts(')an_
         [[can1 soeng6 gaa1 can1 親上加親]],
         to be doubly connected;
-    - _(4)p(')an (4)k(')ung t(u")n(6) luk(9) (1)ts(')an_
+    - _(4)p(')an (4)k(')ung t(u:)n(6) luk(9) (1)ts(')an_
         [[pan4 kung4 dyun6 luk6 can1 貧窮斷六親]],
         nobody knows his poor relations.
     ==
@@ -267,7 +267,7 @@ C
   - Williams provides no explanation for the vernacular _(1)ts(')an_ (can1),
     notwithstanding he has supplied examples of its use.
     Here it is normalised to 嚫; **see $嚫can1 for the canonical entry**.
-  - Williams' 娶親: Changed _ts(')(u")(3)_ (ceoi3) to common reading _(2)ts(')(u")_ (ceoi2).
+  - Williams' 娶親: Changed _ts(')(u:)(3)_ (ceoi3) to common reading _(2)ts(')(u:)_ (ceoi2).
   - Williams' 成親:
     There is no connotation of sexual consummation in 成親.
     Although 成 can mean "complete" or "fulfil",
@@ -447,14 +447,14 @@ W
     - To stretch;
     - still more, how much more;
     - to grin wide;
-    - _(2)ch(')an (u")t[(9)]_
+    - _(2)ch(')an (u:)t[(9)]_
         [[can2 jyut6 矧曰]]
         to say further.
     ==
   ====
 C
   ==
-  - Williams' 矧曰: Corrected _(u")t(8)_ (jyut3) to _(u")t(9)_ (jyut6).
+  - Williams' 矧曰: Corrected _(u:)t(8)_ (jyut3) to _(u:)t(9)_ (jyut6).
   ==
 $$
 
@@ -609,14 +609,14 @@ W
     - the last of the 28 constellations,
       _β_, _δ_, _η_, _γ_, in Corvus;
     - pegs of a lute;
-    - _(1)[(u")] (2)ch(')an_
+    - _(1)[(u:)] (2)ch(')an_
         [[jyu1 can2 紆軫]],
         crooked, winding.
     ==
   ====
 C
   ==
-  - Williams' 紆軫: Corrected _(1)h(u")_ (heoi1) to _(1)(u")_ (jyu1).
+  - Williams' 紆軫: Corrected _(1)h(u:)_ (heoi1) to _(1)(u:)_ (jyu1).
   ==
 $$
 
@@ -726,7 +726,7 @@ W
     - _(1)pong ch(')an(3)_
         [[bong1 can3 幫襯]]
         to give custom to;
-    - _ch(')an(3) ch(u")(6) (5)k(')(u")_
+    - _ch(')an(3) ch(u:)(6) (5)k(')(u:)_
         [[can3 zyu6 keoi5 襯住佢]],
         to fellowship;
     - _ch(')an(3) (2)ch(i/)_
@@ -820,7 +820,7 @@ W
     - to avail, to take;
     - to embrace an opportunity;
     - at the time of;
-    - _ch(')an(3) (1)h(u") (2)t(a/) (5)sh(i/)_
+    - _ch(')an(3) (1)h(u:) (2)t(a/) (5)sh(i/)_
         [[can3 heoi1 daa2 si5 趁墟打市]],
         to go to market;
     - _ch(')an(3) (4)sh(i/) hau(6)_
@@ -832,7 +832,7 @@ W
     - _ch(')an(3) (1)fung (2)shai (5)l(i/)_
         [[can3 fung1 sai2 lei5 趁風駛𢃇]],
         hoist sail when there's a wind;
-    - _ch(')an(3) (u")n(6)_
+    - _ch(')an(3) (u:)n(6)_
         [[can3 jyun6 趁願]]
         as I wished it;
     - _ch(')an(3) shai(3)_
@@ -1013,7 +1013,7 @@ W
     - a long time, an old thing;
     - many, all;
     - a feudal state near the present capital of Hon(a/)n [[河南]];
-    - _tsoi(6) (4)ch(')an [ts(u")t](9) (4)l(e/)ung_
+    - _tsoi(6) (4)ch(')an [ts(u:)t](9) (4)l(e/)ung_
         [[zoi6 can4 zyut6 loeng4 在陳絕糧]],
         to lack food in Ch(')in---to be in straits;
     - _(1)p(')(o\) (4)ch(')an_
@@ -1032,7 +1032,7 @@ W
   ====
 C
   ==
-  - Williams' 在陳絕糧: Corrected _ts(')(u")t(9)_ (cyut6) to _ts(u")t(9)_ (zyut6).
+  - Williams' 在陳絕糧: Corrected _ts(')(u:)t(9)_ (cyut6) to _ts(u:)t(9)_ (zyut6).
   ==
 S
   ==

@@ -218,7 +218,7 @@ W
     - A sort of broad-ax;
     - a pole-ax made square, a bill;
     - to hack, to chop;
-    - _(4)Sh(u") (1)ts(')(e/)ung_
+    - _(4)Sh(u:) (1)ts(')(e/)ung_
         [[syu4 coeng1 殳斨]],
         a statesman in the days of Shun [[舜]].
     ==
@@ -438,7 +438,7 @@ W
     - _(1)ch(')(e/)ung (4)m(u/)n (5)[ch(')(a/)m]_
         [[coeng1 mun4-2 caam5 窗門棖]],
         a window-sill;
-    - _(1)sh(u") (1)ch(')(e/)ung_ [[syu1 coeng1 書窗]],
+    - _(1)sh(u:) (1)ch(')(e/)ung_ [[syu1 coeng1 書窗]],
         or
       _(1)kai (1)ch(')(e/)ung_ [[gai1 coeng1 雞窗]],
         a schoolroom;
@@ -737,7 +737,7 @@ W
     - to dispute for, to struggle for;
     - sudden, abrupt, rude;
     - to rob, as bands do;
-    - _(2)ts(')(e/)ung p(a/)k(9) (2)k(i/) k(u")(3)_
+    - _(2)ts(')(e/)ung p(a/)k(9) (2)k(i/) k(u:)(3)_
         [[coeng2 baak6 gei2 geoi3 搶白幾句]]
         he denounced him in many phrases;
     - _(2)ts(')(e/)ung k(i/)p(8)_
@@ -749,10 +749,10 @@ W
     - _(2)ts(')(e/)ung [p(')(a/)u](3) (4)t(')au_
         [[coeng2 pau3 tau4 搶炮頭]],
         to struggle for the rocket stick on the 2d of 2d~month;
-    - _(2)ts(')(e/)ung t(u")t(9)_
+    - _(2)ts(')(e/)ung t(u:)t(9)_
         [[coeng2 dyut6 搶奪]]
         to snatch;
-    - _t(u")n(3) (2)ts(')(e/)ung_
+    - _t(u:)n(3) (2)ts(')(e/)ung_
         [[dyun3 coeng2 斷搶]],
         to grab at all.
     ==
@@ -823,7 +823,7 @@ W
     - _ch(')(e/)ung[(3)] (4)t(')au_
         [[coeng3 tau4 倡頭]],
         a leader;
-    - _ch(')(e/)ung[(3)] l(u")n(6)_
+    - _ch(')(e/)ung[(3)] l(u:)n(6)_
         [[coeng3 lyun6 倡亂]]
         to head a riot.
     ==
@@ -871,7 +871,7 @@ W
     - _ch(')(e/)ung(3) h(i/)(3)_
         [[coeng3 hei3 唱戲]]
         to recite plays;
-    - _ch(')(e/)ung(3) muk(9) (4)(u")_
+    - _ch(')(e/)ung(3) muk(9) (4)(u:)_
         [[coeng3 muk6 jyu4-2 唱木魚]],
         to sing in the Canton dialect.
     ==
@@ -950,7 +950,7 @@ W
     - remote, long;
     - exhilirating;
     - joy;
-    - _ch(')(e/)ung(3) (u")t(9)_
+    - _ch(')(e/)ung(3) (u:)t(9)_
         [[coeng3 jyut6 暢月]]
         the eleventh month;
     - _f(a/)i(3) ch(')(e/)ung(3)_
@@ -1043,10 +1043,10 @@ W
     ==
     - Sacrificial spirits, made by infusing millet and fragrant herbs;
     - mixed wine;
-    - _k(u")(6) ch(')(e/)ung(3)_
+    - _k(u:)(6) ch(')(e/)ung(3)_
         [[geoi6 coeng3 秬鬯]]
         odoriferous spirits;
-    - _(2)ch(u") ch(')(e/)ung(3)_
+    - _(2)ch(u:) ch(')(e/)ung(3)_
         [[zyu2 coeng3 主鬯]]
         a man who prepares the libations.
     ==
@@ -1132,7 +1132,7 @@ W
     - the society of, a company;
     - a classifier of affairs;
     - a fit, a spell;
-    - _(2)t(a/) t(a/)i(6) (4)ch(')(e/)ung (5)k(')(u")_
+    - _(2)t(a/) t(a/)i(6) (4)ch(')(e/)ung (5)k(')(u:)_
         [[daa2 daai6 coeng4 keoi5 打大場佢]],
         give him a sound drubbing;
     - _ch(i/)n(3) (4)ch(')(e/)ung_
@@ -1161,7 +1161,7 @@ W
         to open a gambling-house;
     - _yap(9) (1)fo (4)ch(')(e/)ung_
         [[jap6 fo1 coeng4 入科場]],
-        to enter the lists for a degree of _k(u")jin_ [[舉人]];
+        to enter the lists for a degree of _k(u:)jin_ [[舉人]];
     - _(1)k(u/)n (5)h(a/) (4)ch(')(e/)ung_
         [[gun1 haa5 coeng4 觀吓場]],
         made a trial;
@@ -1360,7 +1360,7 @@ W
     ==
     - A wall made of stone, brick, or mud;
     - a defense or wall;
-    - _(1)ch(u")n (4)ts(')(e/)ung_
+    - _(1)ch(u:)n (4)ts(')(e/)ung_
         [[zyun1 coeng4 磚牆]],
         a brick wall;
     - _(4)nai (4)ts(')(e/)ung_
@@ -1484,7 +1484,7 @@ W
     - _(2)h(o\) (4)ch(')(e/)ung (5)t(')(o\)_
         [[hou2 coeng4 tou5 好腸肚]],
         clever, learned;
-    - _si(u/)(3) (1)l(u")n (4)ch(')(e/)ung_
+    - _si(u/)(3) (1)l(u:)n (4)ch(')(e/)ung_
         [[siu3 lyun1 coeng4-2 笑攣腸]],
         laughed till his side ached;
     - _chik(9) (4)ch(')(e/)ung_
@@ -1653,7 +1653,7 @@ W
     - skilled, used to, practiced;
     - direct, straight;
     - the 168th~radical;
-    - _(4)ch(')(e/)ung (5)(u")n_
+    - _(4)ch(')(e/)ung (5)(u:)n_
         [[coeng4 jyun5 長遠]],
         durable;
     - _kok(8) (5)yau (2)sho (4)ch(')(e/)ung_
@@ -1687,13 +1687,13 @@ W
     - _(4)ch(')(e/)ung (1)shang pat(7) (5)l(o\)_
         [[coeng4 sang1 bat1 lou5 長生不老]],
         a green old age;
-    - _(4)ch(')(e/)ung (5)(u")n shai(3) k(a/)i(3)_
+    - _(4)ch(')(e/)ung (5)(u:)n shai(3) k(a/)i(3)_
         [[coeng4 jyun5 sai3 gaai3 長遠世界]]
         long continued, as a family;
-    - _(4)ch(')(e/)ung (2)t(u")n_
+    - _(4)ch(')(e/)ung (2)t(u:)n_
         [[coeng4 dyun2 長短]],
         the length of, the traits of character;
-    - _(4)ch(')(e/)ung (1)k(')(u")_
+    - _(4)ch(')(e/)ung (1)k(')(u:)_
         [[coeng4 keoi1 長驅]],
         go directly there.
     ==

@@ -125,7 +125,7 @@ W
     - _(2)p(a/)u (1)ts(')(a/)n_
         [[baau2 caan1 飽餐]],
         a good meal;
-    - _(1)ts(')(a/)n (4)wan (4)m(i/)n (u")t(9)_
+    - _(1)ts(')(a/)n (4)wan (4)m(i/)n (u:)t(9)_
         [[caan1 wan4 min4 jyut6 餐雲眠月]]
         dines in the clouds and sleeps on the moon --- an enthusiast;
     - _(1)ch(')(i/) f(a/)n(6) (1)ts(')(a/)n_
@@ -343,7 +343,7 @@ W
     - _yat(7) f(u/)(3) (2)ch(')(a/)n (4)k(')(i/)m_
         [[jat1 fu3 caan2 kim4 一副鏟鉗]],
         a set of shovel and tongs;
-    - _(2)ch(')(a/)n (2)ts(')(o\) (4)ch(')(u") (1)kan_
+    - _(2)ch(')(a/)n (2)ts(')(o\) (4)ch(')(u:) (1)kan_
         [[caan2 cou2 ceoi4 gan1 鏟草除根]],
         to root out, to extirpate;
     - _(2)ch(')(a/)n (1)sh(a/)n_
@@ -542,7 +542,7 @@ W
     - _(4)ts(')(a/)n (1)p(u/)i_
         [[caan4 bui1 殘杯]],
         heeltaps;
-    - _(4)ts(')(a/)n k(')(u")t(8)_
+    - _(4)ts(')(a/)n k(')(u:)t(8)_
         [[caan4 kyut3 殘缺]]
         deficient, injured;
     - _(4)ts(')(a/)n (2)yan_

@@ -285,7 +285,7 @@ W
     - _(2)h(i/) yat(7) [(4)]t(')i(u/) tsek(8)_
         [[hei2 jat1 tiu4 zek3 起一條脊]]
         raise a ridge;
-    - _(5)m(a/)i (4)(u") tsek(8)_
+    - _(5)m(a/)i (4)(u:) tsek(8)_
         [[maai5 jyu4 zek3 買魚脊]]
         buy the fish's back.
     ==

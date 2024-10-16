@@ -242,7 +242,7 @@ W
     - _(1)p(u/)n (1)ts(')(i/)n_
         [[bun1 cin1 搬遷]],
         to move, as one's residence;
-    - _(1)ts(')(i/)n (1)k(u")_
+    - _(1)ts(')(i/)n (1)k(u:)_
         [[cin1 geoi1 遷居]],
         to change one's lodgings;
     - _[(a/)t](8) (1)ts(')(i/)n_
@@ -496,7 +496,7 @@ W
     - _(4)ts(')(i/)n (4)t(')au_
         [[cin4 tau4 前頭]],
         in front;
-    - _(4)ts(')(i/)n (u")t(9)_
+    - _(4)ts(')(i/)n (u:)t(9)_
         [[cin4 jyut6 前月]]
         last month;
     - _(4)ts(')(i/)n (4)yan (2)t(a/) p(')(a/)(3) hau(6) (4)yan_
@@ -512,7 +512,7 @@ W
     - _tsoi(6) (4)ts(')(i/)n_
         [[zoi6 cin4 在前]],
         before, then;
-    - _(5)sh(e/)ung (4)ts(')(i/)n h(u")(3)_
+    - _(5)sh(e/)ung (4)ts(')(i/)n h(u:)(3)_
         [[soeng5 cin4 heoi3 上前去]]
         go ahead, go on;
     - _(2)tsau tung(6) pat(7) (4)ts(')(i/)n_
@@ -629,7 +629,7 @@ W
     - _(4)ch(')(i/)n (4)m(i/)n_
         [[cin4 min4 纏綿]],
         to think of;
-    - _(4)ch(')(i/)n ch(u")(6)_
+    - _(4)ch(')(i/)n ch(u:)(6)_
         [[cin4 zyu6 纏住]]
         importunate, to bother;
     - _(1)[ch(')(i/)] (4)ch(')(i/)n_
@@ -847,7 +847,7 @@ W
     - _[(5)ts(')(i/)n] t(a/)p(9)_
         [[cin5 daap6 踐踏]]
         to tread down or in;
-    - _[(5)ts(')(i/)n] k(u")(3)_
+    - _[(5)ts(')(i/)n] k(u:)(3)_
         [[cin5 geoi3 踐？]]
         to tread down the heels;
     - _[(5)ts(')(i/)n] wai(6)_

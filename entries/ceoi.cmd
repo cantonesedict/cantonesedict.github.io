@@ -10,7 +10,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 %%%
 
-#{.williams} Ch(')(u") Ch(')ui. Ts(')(u"). Ts(')ui. Ts(')(u/)i. [[ceoi]]
+#{.williams} Ch(')(u:) Ch(')ui. Ts(')(u:). Ts(')ui. Ts(')(u/)i. [[ceoi]]
 
 <nav class="sideways">
 =={.modern}
@@ -32,17 +32,17 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 WH
   ==
-  - Ch(')(u"). [[Page~32*]]
+  - Ch(')(u:). [[Page~32*]]
   - Ch(')ui. [[Page~34*]]
-  - Ts(')(u"). [[Page~595]]
+  - Ts(')(u:). [[Page~595]]
   - Ts(')ui. [[Page~597]]
   - Ts(')(u/)i. [[Page~598]]
   ==
 WP
   ==
-  - Ch(')(u") <span class="modern">= [tɕʰyː]</span>
+  - Ch(')(u:) <span class="modern">= [tɕʰyː]</span>
   - Ch(')ui <span class="modern">= [tɕʰui]</span>
-  - Ts(')(u") <span class="modern">= [tsʰyː]</span>
+  - Ts(')(u:) <span class="modern">= [tsʰyː]</span>
   - Ts(')ui <span class="modern">= [tsʰui]</span>
   - Ts(')(u/)i <span class="modern">= [tsʰuːi]</span>
   ==
@@ -57,7 +57,7 @@ S
 $$
 
 
-##{#1 .williams} (1)Ch(')ui (1)Ts(')(u") (1)Ts(')(u/)i [[ceoi1 陰平]]
+##{#1 .williams} (1)Ch(')ui (1)Ts(')(u:) (1)Ts(')(u/)i [[ceoi1 陰平]]
 
 <## tone-1-characters ##>
 <nav class="sideways">
@@ -98,7 +98,7 @@ W
     - to puff;
     - a blast, a gust;
     - to play on a wind instrument;
-    - _(1)ch(')ui (1)h(u") (5)h(a/)_
+    - _(1)ch(')ui (1)h(u:) (5)h(a/)_
         [[ceoi1 heoi1 haa5 吹噓吓]],
         recommend him;
     - _(1)ch(')ui ch(')(e/)ung(3)_
@@ -217,7 +217,7 @@ C
   ==
 $$
 
-### 蛆1 | _(1)Ts(')(u")_ [[ceoi1]]
+### 蛆1 | _(1)Ts(')(u:)_ [[ceoi1]]
 
 $$
 R
@@ -238,16 +238,16 @@ W
     ==
     - Maggots in putrid flesh;
     - flyblows, eggs of flies;
-    - _(1)[sh(a/)ng] (1)ts(')(u")_
+    - _(1)[sh(a/)ng] (1)ts(')(u:)_
         [[saang1 ceoi1 生蛆]],
         it has bred worms;
-    - _s(u")t(8) (1)ts(')(u")_
+    - _s(u:)t(8) (1)ts(')(u:)_
         [[syut3 ceoi1 雪蛆]],
         worms found in snow in Sz'chuen [[四川]],
         a sort of Protococcus.
     ==
     --
-    Read _(1)ts(u")_ [[zeoi1]], [[**see $蛆zeoi1**]].
+    Read _(1)ts(u:)_ [[zeoi1]], [[**see $蛆zeoi1**]].
     --
   ====
 C
@@ -261,7 +261,7 @@ S
   ==
 $$
 
-### 趨1 | _(1)Ts(')(u")_ [[ceoi1]]
+### 趨1 | _(1)Ts(')(u:)_ [[ceoi1]]
 
 $$
 R
@@ -283,13 +283,13 @@ W
     ==
     - To hasten to one's place, to stride off, as in a superior's presence;
     - to run, to walk quick;
-    - _(1)ts(')(u") (4)sh(i/)_
+    - _(1)ts(')(u:) (4)sh(i/)_
         [[ceoi1 si4 趨時]],
         to run after, as a fashion;
-    - _(1)ts(')(u") p(o\)(6)_
+    - _(1)ts(')(u:) p(o\)(6)_
         [[ceoi1 bou6 趨步]]
         to straddle off, as a courier does;
-    - _(1)ts(')(u") (4)(i/)m f(u/)(6) shai(3)_
+    - _(1)ts(')(u:) (4)(i/)m f(u/)(6) shai(3)_
         [[ceoi1 jim4 fu6 sai3 趨炎附勢]]
         to run to the flame and stick to the strong --- a parasite.
     ==
@@ -322,7 +322,7 @@ C
 $$
 
 
-##{#2 .williams} (2)Ch(')ui (2)Ts(')(u")[[ceoi2 陰上]]
+##{#2 .williams} (2)Ch(')ui (2)Ts(')(u:)[[ceoi2 陰上]]
 
 <## tone-2-characters ##>
 <nav class="sideways">
@@ -335,7 +335,7 @@ $$
 </nav>
 <## /tone-2-characters ##>
 
-### 取2 | _(2)Ts(')(u")_ [[ceoi2]]
+### 取2 | _(2)Ts(')(u:)_ [[ceoi2]]
 
 $$
 R
@@ -358,51 +358,51 @@ W
     - to take, as a wife [[see $娶ceoi2]];
     - to get, to induce, to bring upon;
     - taken, applied, selected;
-    - _(1)shau (2)ts(')(u")_
+    - _(1)shau (2)ts(')(u:)_
         [[sau1 ceoi2 收取]],
         to receive;
-    - _(2)ts(')(u") (4)'m (5)sh(e/)ung_
+    - _(2)ts(')(u:) (4)'m (5)sh(e/)ung_
         [[ceoi2 m4 soeng5 取唔上]],
         not needed, unfit;
-    - _(2)ts(')(u") chung(3)_
+    - _(2)ts(')(u:) chung(3)_
         [[ceoi2 zung3 取中]]
         promoted, chosen, selected[;]
-    - _t(a/)i(6) (5)yau (2)ho (2)ts(')(u")_
+    - _t(a/)i(6) (5)yau (2)ho (2)ts(')(u:)_
         [[daai6 jau5 ho2 ceoi2 大有可取]],
         estimable, one who is liked;
-    - _(2)ts(')(u") ch(')ut(7)_
+    - _(2)ts(')(u:) ch(')ut(7)_
         [[ceoi2 ceot1 取出]]
         taken out;
-    - _(2)ts(')(u") yap(9)_
+    - _(2)ts(')(u:) yap(9)_
         [[ceoi2 jap6 取入]]
         brought in;
-    - _t(')(a/)m(3) (4)nong (2)ts(')(u") mat(9)_
+    - _t(')(a/)m(3) (4)nong (2)ts(')(u:) mat(9)_
         [[taam3 nong4 ceoi2 mat6 探囊取物]]
         [as easy as] [[these square brackets appear in the original text]]
         taking cash out of the purse;
-    - _sok(8) (2)ts(')(u")_
+    - _sok(8) (2)ts(')(u:)_
         [[sok3 ceoi2 索取]],
         to beg earnestly for, as a loan;
-    - _(2)ts(')(u") si(u/)(3) (5)k(')(u")_
+    - _(2)ts(')(u:) si(u/)(3) (5)k(')(u:)_
         [[ceoi2 siu3 keoi5 取笑佢]],
         to get the joke on him;
-    - _tsz'(6) (2)ts(')(u") wo(6)_
+    - _tsz'(6) (2)ts(')(u:) wo(6)_
         [[zi6 ceoi2 wo6 自取禍]]
         to bring down misery on one's self;
-    - _tsau(6) t(i/)(6) (2)ts(')(u") (4)ts(')oi_
+    - _tsau(6) t(i/)(6) (2)ts(')(u:) (4)ts(')oi_
         [[zau6 dei6 ceoi2 coi4 就地取材]],
         happily I just then turned it up,
         as something that was wanted;
-    - _(4)'m (4)shing kwo(3) (2)ts(')(u")_
+    - _(4)'m (4)shing kwo(3) (2)ts(')(u:)_
         [[m4 sing4 gwo3 ceoi2 唔成過取]],
         I don't want much;
-    - _h(i/)p(8) (2)ts(')(u")_
+    - _h(i/)p(8) (2)ts(')(u:)_
         [[hip3 ceoi2 脅取]],
         to force from, to extort;
-    - _(4)p(')ang (4)man (2)ts(')(u") luk(9)_
+    - _(4)p(')ang (4)man (2)ts(')(u:) luk(9)_
         [[pang4 man4 ceoi2 luk6 憑文取錄]]
         to select the compositions according to their style;
-    - _(4)mung (2)ts(')(u") fo(3)_
+    - _(4)mung (2)ts(')(u:) fo(3)_
         [[mung4 ceoi2 fo3 蒙取貨]]
         obliged to you for taking goods, --- as shopmen say.
     ==
@@ -414,7 +414,7 @@ C
   ==
 $$
 
-###+ 娶2 | _(2)Ts(')(u")_ (ceoi2)
+###+ 娶2 | _(2)Ts(')(u:)_ (ceoi2)
 
 $$
 R
@@ -431,28 +431,28 @@ V
   ==
 F
   ==
-  - [[F1.48 娶 _Ts(')(u")(3)_ (ceoi3)]] 取婦曰娶
+  - [[F1.48 娶 _Ts(')(u:)(3)_ (ceoi3)]] 取婦曰娶
   ==
 W
   ====
-  - [[Page~596 娶(3) _Ts(')(u")(3)_ (ceoi3); here normalised to _(2)Ts(')(u")_ (ceoi2)]]
+  - [[Page~596 娶(3) _Ts(')(u:)(3)_ (ceoi3); here normalised to _(2)Ts(')(u:)_ (ceoi2)]]
     ==
     - To marry a woman with the legal ceremonies;
     - a marriage;
-    - _[(2)]ts(')(u") (1)ts(')ai_ [[ceoi2 cai1 娶妻]],
+    - _[(2)]ts(')(u:) (1)ts(')ai_ [[ceoi2 cai1 娶妻]],
         or
-      _[(2)]ts(')(u") (5)l(o\) (4)p(')o_ [[ceoi2 lou5 po4 娶老婆]],
+      _[(2)]ts(')(u:) (5)l(o\) (4)p(')o_ [[ceoi2 lou5 po4 娶老婆]],
         to take a wife;
-    - _[(2)]ts(')(u") (1)san (5)f(u/)_ [[ceoi2 san1 fu5 娶新婦]]^
+    - _[(2)]ts(')(u:) (1)san (5)f(u/)_ [[ceoi2 san1 fu5 娶新婦]]^
         or
-      _[(2)]ts(')(u") (1)[san1] (5)p(')(o\)_ [[ceoi2 san1 pou5 娶新婦]],
+      _[(2)]ts(')(u:) (1)[san1] (5)p(')(o\)_ [[ceoi2 san1 pou5 娶新婦]],
         somebady marrying;
-    - _(4)wing [(2)]ts(')(u") (4)'m (4)ts(')ang_
+    - _(4)wing [(2)]ts(')(u:) (4)'m (4)ts(')ang_
         [[wing4 ceoi2 m4 cang4 榮娶唔曾]],
         have you been married yet?
-    - _[(2)]ts(')(u") ts(')(i/)p(8)_ [[ceoi2 cip3 娶妾]]
+    - _[(2)]ts(')(u:) ts(')(i/)p(8)_ [[ceoi2 cip3 娶妾]]
         or
-      _[(2)]ts(')(u") (1)p(')(i/)n (4)fong_ [[ceoi2 pin1 fong4 娶偏房]],
+      _[(2)]ts(')(u:) (1)p(')(i/)n (4)fong_ [[ceoi2 pin1 fong4 娶偏房]],
         to take a concubine home to one.
     ==
   ====
@@ -511,7 +511,7 @@ W
   ====
   - [[Page~34* (2)揣]]
     --
-    Also read _(2)ch(u")n_ [[cyun2]] [[**see $揣cyun2**]].
+    Also read _(2)ch(u:)n_ [[cyun2]] [[**see $揣cyun2**]].
     --
   ====
 S
@@ -521,7 +521,7 @@ S
 $$
 
 
-##{#3 .williams} Ts(')(u")(3) Ts(')ui(3) [[ceoi3 陰去]]
+##{#3 .williams} Ts(')(u:)(3) Ts(')ui(3) [[ceoi3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">
@@ -534,7 +534,7 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
-### 娶3 | _Ts(')(u")(3)_ [[ceoi3]]
+### 娶3 | _Ts(')(u:)(3)_ [[ceoi3]]
 
 $$.
 R
@@ -558,7 +558,7 @@ S
   ==
 $$
 
-### 覰3 | _Ts(')(u")(3)_ [[ceoi3]]
+### 覰3 | _Ts(')(u:)(3)_ [[ceoi3]]
 
 $$.
 R
@@ -582,7 +582,7 @@ C
   ==
 $$
 
-###+ 覷3 | _Ts(')(u")(3)_ (ceoi3)
+###+ 覷3 | _Ts(')(u:)(3)_ (ceoi3)
 
 $$
 R
@@ -603,7 +603,7 @@ W
     ==
     - To spy, to look at;
     - to peep, to descry, to reconnoitre;
-    - _ts(')(u")(3) (1)p(i/)n_
+    - _ts(')(u:)(3) (1)p(i/)n_
         [[ceoi3 bin1 覷邊]],
         to look after the frontiers closely.
     ==
@@ -614,7 +614,7 @@ C
   ==
 $$
 
-### 趣3 | _Ts(')(u")(3)_ [[ceoi3]]
+### 趣3 | _Ts(')(u:)(3)_ [[ceoi3]]
 
 $$
 R
@@ -629,29 +629,29 @@ W
   ====
   - [[Page~596 趣(3)]]
     ==
-    - Similar to _(1)ts(')(u") (ceoi1) 趨 to run;
+    - Similar to _(1)ts(')(u:) (ceoi1) 趨 to run;
     - to go, to advance quickly;
     - to see what is proper and agreeable, and hasten to do it;
     - to show alacrity or haste to please;
     - to regard pleasurably;
     - sprightly, playful, graceful;
     - amusing, pleasing;
-    - _(4)'m shik(7) ts(')(u")(3)_
+    - _(4)'m shik(7) ts(')(u:)(3)_
         [[m4 sik1 ceoi3 唔識趣]]
         unaccommodating, mulish;
-    - _tak(7) k(o\)m(3) ts(')(u")(3)_
+    - _tak(7) k(o\)m(3) ts(')(u:)(3)_
         [[dak1 gam3 ceoi3 得咁趣]]
         very agreeable, humorous;
-    - _(2)h(o\) ts(')(u")(3)_
+    - _(2)h(o\) ts(')(u:)(3)_
         [[hou2 ceoi3 好趣]]
         very lively, gleesome;
-    - _ts(')(u")(3) m(i/)(6)_
+    - _ts(')(u:)(3) m(i/)(6)_
         [[ceoi3 mei6 趣味]]
         entertaining, as a friend;
-    - _ts(')(u")(3) ts(')(u")(3) tik(7)_
+    - _ts(')(u:)(3) ts(')(u:)(3) tik(7)_
         [[ceoi3 ceoi3 dik1 趣趣滴]]
         rather pleasing, novel;
-    - _ch(i/)(3) ts(')(u")(3) hai(6) k(o\)m(3) ts(')(u")(3) tik(7)_
+    - _ch(i/)(3) ts(')(u:)(3) hai(6) k(o\)m(3) ts(')(u:)(3) tik(7)_
         [[zi3 ceoi3 hai6 gam3 ceoi3 dik1 至趣係咁趣的]]
         this is truly exhilirating, this is exquisite.
     ==
@@ -659,7 +659,7 @@ W
 $$
 
 
-##{#4 .williams} (4)Ch(')(u") (4)Ch(')ui (4)Ts(')(u") [[ceoi4 陽平]]
+##{#4 .williams} (4)Ch(')(u:) (4)Ch(')ui (4)Ts(')(u:) [[ceoi4 陽平]]
 
 <## tone-4-characters ##>
 <nav class="sideways">
@@ -682,7 +682,7 @@ $$
 </nav>
 <## /tone-4-characters ##>
 
-### 厨4 | _(4)Ch(')(u")_ [[ceoi4]]
+### 厨4 | _(4)Ch(')(u:)_ [[ceoi4]]
 
 $$.
 R
@@ -710,7 +710,7 @@ S
   ==
 $$
 
-### 廚4 | _(4)Ch(')(u")_ [[ceoi4]]
+### 廚4 | _(4)Ch(')(u:)_ [[ceoi4]]
 
 $$
 R
@@ -738,17 +738,17 @@ W
     - A kitchen, a cook-room;
     - a slaughter-house;
     - a quiver;
-    - _(4)ch(')(u") (4)yan_ [[cyu4 jan4 廚人]]^
+    - _(4)ch(')(u:) (4)yan_ [[cyu4 jan4 廚人]]^
         or
-      _(4)ch(')(u") (1)k(u/)n_ [[cyu4 gun1 廚官]],
+      _(4)ch(')(u:) (1)k(u/)n_ [[cyu4 gun1 廚官]],
         a cook;
-    - _(1)pong (4)ch(')(u") (4)yan_
+    - _(1)pong (4)ch(')(u:) (4)yan_
         [[bong1 cyu4 jan4 幫廚人]],
         a cook's mate, a scullion;
-    - _ki(u/)(3) ts(o\) (4)ch(')(u")_
+    - _ki(u/)(3) ts(o\) (4)ch(')(u:)_
         [[giu3 zou6 cyu4-2 叫做廚]],
         call the cook;
-    - _(4)ch(')(u") (4)fong_
+    - _(4)ch(')(u:) (4)fong_
         [[cyu4 fong4-2 廚房]],
         a kitchen.
     ==
@@ -763,7 +763,7 @@ S
   ==
 $$
 
-### 徐4 | _(4)Ts(')(u")_ [[ceoi4]]
+### 徐4 | _(4)Ts(')(u:)_ [[ceoi4]]
 
 $$
 R
@@ -782,10 +782,10 @@ W
     - tardy, slow;
     - composed, majestic, dignified;
     - to walk carefully and formally;
-    - _(4)ts(')(u") p(o\)(6)_
+    - _(4)ts(')(u:) p(o\)(6)_
         [[ceoi4 bou6 徐步]]
         to walk gracefully;
-    - _(4)ts(')(u") (4)ts(')(u")_
+    - _(4)ts(')(u:) (4)ts(')(u:)_
         [[ceoi4 ceoi4 徐徐]],
         gravely, tranquilly, as a gait.
     ==
@@ -931,7 +931,7 @@ S
   ==
 $$
 
-### 滁4 | _(4)Ch(')(u")_ [[ceoi4]]
+### 滁4 | _(4)Ch(')(u:)_ [[ceoi4]]
 
 $$
 R
@@ -961,7 +961,7 @@ S
   ==
 $$
 
-### 篨4 | _(4)Ch(')(u")_ [[ceoi4]]
+### 篨4 | _(4)Ch(')(u:)_ [[ceoi4]]
 
 $$
 R
@@ -981,7 +981,7 @@ W
   - [[Page~32* (4)篨]]
     ==
     - A mat rolled up;
-    - _(4)k(')(u") (4)ch(')(u")_
+    - _(4)k(')(u:) (4)ch(')(u:)_
         [[keoi4 ceoi4 籧篨]],
         a coarse mat;
         _met._ a bad ailment, repulsive, hunchbacked.
@@ -993,7 +993,7 @@ S
   ==
 $$
 
-### 蜍4 | _(4)Ch(')(u")_ [[ceoi4]]
+### 蜍4 | _(4)Ch(')(u:)_ [[ceoi4]]
 
 $$
 R
@@ -1012,8 +1012,8 @@ W
   - [[Page~32* (4)蜍]]
     ==
     - A toad;
-    - _(4)sh(i/)m (4)ch(')(u")_ [[sim4 ceoi4 蟾蜍]],
-        vulgo, _(4)k(')am (4)k(')(u")_ [[kam4 keoi4 蠄蟝]],
+    - _(4)sh(i/)m (4)ch(')(u:)_ [[sim4 ceoi4 蟾蜍]],
+        vulgo, _(4)k(')am (4)k(')(u:)_ [[kam4 keoi4 蠄蟝]],
         a toad.
     ==
   ====
@@ -1024,7 +1024,7 @@ S
   ==
 $$
 
-### [躕]4 | _(4)Ch(')(u")_ [[ceoi4]]
+### [躕]4 | _(4)Ch(')(u:)_ [[ceoi4]]
 
 $$
 R
@@ -1042,7 +1042,7 @@ W
   - [[Page~32* (4)::[躕]::]]
     ==
     - Embarrassed, hindered;
-    - _(4)ch(')(i/) (4)ch(')(u")_
+    - _(4)ch(')(i/) (4)ch(')(u:)_
         [[ci4 ceoi4 踟躕]],
         entangled.
     ==
@@ -1141,7 +1141,7 @@ W
   ====
 $$
 
-### 除4 | _(4)Ch(')(u")_ [[ceoi4]]
+### 除4 | _(4)Ch(')(u:)_ [[ceoi4]]
 
 $$
 R
@@ -1170,35 +1170,35 @@ W
     - to vacate;
     - to divide;
     - besides, exclusive of;
-    - _(4)ch(')(u") lat(7)_
+    - _(4)ch(')(u:) lat(7)_
         [[ceoi4 lat1 除甩]]
         throw it away as useless;
-    - _(4)ch(')(u") (1)f(i/)_
+    - _(4)ch(')(u:) (1)f(i/)_
         [[ceoi4 fei1 除非]],
         if, when, thenceafter, premising, not reckoning;
-    - _(4)ch(')(u") ch(')ut(7)_
+    - _(4)ch(')(u:) ch(')ut(7)_
         [[ceoi4 ceot1 除出]]
         to exclude, to lay by;
-    - _(4)ch(')(u") fuk(9)_
+    - _(4)ch(')(u:) fuk(9)_
         [[ceoi4 fuk6 除服]]
         to lay aside mourning;
-    - _(1)kwai (4)ch(')(u")_
+    - _(1)kwai (4)ch(')(u:)_
         [[gwai1 ceoi4 歸除]],
         to multiply or divide;
-    - _(4)ch(')(u") (4)p(')(i/) (2)k(i/) (1)to (1)kan_
+    - _(4)ch(')(u:) (4)p(')(i/) (2)k(i/) (1)to (1)kan_
         [[ceoi4 pei4 gei2 do1 gan1 除皮幾多斤]],
         how many pounds beside the tare?
-    - _(4)ch(')(u") ch(')(a/)k(8) (4)m(a/)i shing(6) (1)n(i/) tik(7)_
+    - _(4)ch(')(u:) ch(')(a/)k(8) (4)m(a/)i shing(6) (1)n(i/) tik(7)_
         [[ceoi4 caak3 maai4 sing6 ni1 dik1 除拆埋剩呢滴]]
         so much remains after deducting;
-    - _(4)ch(')(u") (1)k(u/)n_
+    - _(4)ch(')(u:) (1)k(u/)n_
         [[ceoi4 gun1 除官]],
         to exchange office;
         to promote to a post;
-    - _(4)ch(')(u") (1)hi(u/) (5)n(i/) (4)m(o\) (4)yan ts(o\)(6) tak(7)_
+    - _(4)ch(')(u:) (1)hi(u/) (5)n(i/) (4)m(o\) (4)yan ts(o\)(6) tak(7)_
         [[ceoi4 hiu1 nei5 mou4 jan4 zou6 dak1 除嘵你無人做得]]
         nobody can do it besides you;
-    - _(4)ch(')(u") h(u")(3)_
+    - _(4)ch(')(u:) h(u:)(3)_
         [[ceoi4 heoi3 除去]]
         to push away, to eject.
     ==

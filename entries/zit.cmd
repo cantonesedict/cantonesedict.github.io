@@ -232,7 +232,7 @@ W
   - [[Page~728 婕(8)]]
     ==
     - Handsome, elegant;
-    - a female officer, called _ts(i/)t(8) (4)(u")_ [[zit3 jyu4 婕妤]],
+    - a female officer, called _ts(i/)t(8) (4)(u:)_ [[zit3 jyu4 婕妤]],
       a sort of palatial housekeeper.
     ==
   ====
@@ -308,7 +308,7 @@ W
     - _(1)ts(e/)ung (1)kung ch(i/)t(8) ts(u/)i(6)_
         [[zoeng1 gung1 zit3 zeoi6 將功折罪]]
         to atone for error by meritorious conduct;
-    - _ch(i/)t(8) (2)s(u")n_
+    - _ch(i/)t(8) (2)s(u:)n_
         [[zit3 syun2 折損]],
         to break;
     - _ch(i/)t(8) k(a/)(3)_
@@ -611,7 +611,7 @@ W
     - a portion, a half;
     - _(4)l(a/)n ts(i/)t[(9)]_ [[laan4 zit6 攔截]]
         or
-      _ts(i/)t(9) ch(u")(6) (5)k(')(u")_ [[zit6 zyu6 keoi5 截住佢]],
+      _ts(i/)t(9) ch(u:)(6) (5)k(')(u:)_ [[zit6 zyu6 keoi5 截住佢]],
         to stop, to arrest one's progress;
     - _(1)fan (5)l(e/)ung ts(i/)t(9)_
         [[fan1 loeng5 zit6 分兩截]]
@@ -619,7 +619,7 @@ W
     - _ts(i/)t(9) (1)(i/)_
         [[zit6 ji1 截衣]],
         a robe whose body and skirt are of two colors;
-    - _ts(i/)t(9) [(5)t(')(u")n]_
+    - _ts(i/)t(9) [(5)t(')(u:)n]_
         [[zit6 tyun5 截斷]]^
         to cut apart.
     ==
@@ -627,7 +627,7 @@ W
 C
   ==
   - Williams' 攔截: Corrected _ts(i/)t(8)_ (zit3) to _ts(i/)t(9)_ (zit6).
-  - Williams' 截斷: Corrected _t(u")n(6)_ (dyun6 去聲) to _(5)t(')(u")n_ (tyun5 上聲).
+  - Williams' 截斷: Corrected _t(u:)n(6)_ (dyun6 去聲) to _(5)t(')(u:)n_ (tyun5 上聲).
   ==
 $$
 

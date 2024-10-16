@@ -579,7 +579,7 @@ W
     ==
     - To weave;
     - woven;
-    - _chik(7) (4)(u")_
+    - _chik(7) (4)(u:)_
         [[zik1 jyu4 織餘]],
         a thrum left in the web;
     - _ts(')uk(7) chik(7)_
@@ -588,7 +588,7 @@ W
     - _chik(7) (1)k(i/)_
         [[zik1 gei1 織機]],
         a loom;
-    - _chik(7) (5)n(u")_
+    - _chik(7) (5)n(u:)_
         [[zik1 neoi5-2 織女]],
         the star Wega _α_ in Lyra;
     - _chik(7) p(o\)[(3)]_
@@ -637,7 +637,7 @@ W
     - _(1)p(i/) chik(7)_
         [[bei1 zik1 卑職]]
         my office;
-    - _chik(7) (4)(u")n_
+    - _chik(7) (4)(u:)n_
         [[zik1 jyun4 職員]],
         honorary title;
     - _(1)k(u/)n chik(7)_
@@ -1112,7 +1112,7 @@ W
     - _chik(9) sz'(6)_
         [[zik6 si6 值事]]
         do it in turn;
-    - _(4)'m (2)h(o\) chik(9) (u")(6)_
+    - _(4)'m (2)h(o\) chik(9) (u:)(6)_
         [[m4 hou2 zik6 jyu6 唔好值遇]]
         an unlucky event.
     ==
@@ -1142,7 +1142,7 @@ W
   - [[Page~14* 埴(9)]]
     ==
     - Adhesive clay;
-    - _(4)t(')(u")n chik(9)_
+    - _(4)t(')(u:)n chik(9)_
         [[tyun4 zik6 摶埴]]
         to mold in clay;
     - _ch(a/)k(9) chik(9)_
@@ -1175,7 +1175,7 @@ W
     - _chi(u/) tsik(9)_
         [[ziu1 zik6 朝夕]]
         morning and evening;
-    - _(4)ch(')(u") tsik(9)_
+    - _(4)ch(')(u:) tsik(9)_
         [[ceoi4 zik6 除夕]]
         last day of the year;
     - _(1)kam tsik(9)_
@@ -1206,7 +1206,7 @@ W
     - _tsik(9) tsing(6)_
         [[zik6 zing6 寂靜]]
         a dead silence;
-    - _(4)(u")n tsik(9)_
+    - _(4)(u:)n tsik(9)_
         [[jyun4 zik6 圓寂]]
         completely silent, said of a priest's death.
     ==
@@ -1439,10 +1439,10 @@ W
     - _(2)kang chik(9)_
         [[gang2 zik6 梗直]]
         inflexibly right;
-    - _chik(9) (4)ch(')ing h(u")(3)_
+    - _chik(9) (4)ch(')ing h(u:)(3)_
         [[zik6 cing4 heoi3 直程去]]
         go directly there;
-    - _yat(7) chik(9) h(u")(3)_
+    - _yat(7) chik(9) h(u:)(3)_
         [[jat1 zik6 heoi3 一直去]]
         go on straight;
     - _chik(9) tai(6) (2)sh(a/)ng_
@@ -1454,7 +1454,7 @@ W
     - _mok(9) sun(3) chik(9) (1)chung chik(9)_
         [[mok6 seon3 zik6 zung1 zik6 莫信直中直]]
         do not believe everything called true;
-    - _chik(9) (4)loi (1)n(i/) ch(')(u")(3)_
+    - _chik(9) (4)loi (1)n(i/) ch(')(u:)(3)_
         [[zik6 loi4 ni1 cyu3 直來呢處]]
         came straight here;
     - _(1)shan chik(9) k(e/)uk(8)_
@@ -1564,13 +1564,13 @@ W
     - A book for records, a tablet;
     - a list, a register of the people;
     - the place for enroling, one's native place;
-    - _(1)sh(u") tsik(9)_
+    - _(1)sh(u:) tsik(9)_
         [[syu1 zik6 書籍]]
         books;
     - _(4)(u/)i tsik(9)_
         [[wui4 zik6 回籍]]
         to return to one's home;
-    - _(4)(u")n tsik(9)_
+    - _(4)(u:)n tsik(9)_
         [[jyun4 zik6 原籍]]
         place where one's family originated;
     - _lok(9) tsik(9)_

@@ -149,7 +149,7 @@ W
         [[cou1 sik6 粗食]]
         coarse food;
         a gross eater;
-    - _(1)ts(')(o\) (4)(u")n_
+    - _(1)ts(')(o\) (4)(u:)n_
         [[cou1 jun4 粗完]],
         nearly done;
     - _(2)shau (1)ts(')(o\)_
@@ -308,7 +308,7 @@ W
     - _(2)ts(')(o\) (2)ts(')(o\) (5)li(u/) sz'(6)_
         [[cou2 cou2 liu5 si6 草草了事]]
         to finish up jobs heedlessly;
-    - _(2)ts(')(o\) (1)sh(u")_
+    - _(2)ts(')(o\) (1)sh(u:)_
         [[cou2 syu1 草書]],
         [running] hand;
     - _(2)ts(')(o\) (2)ts(')(o\)_
@@ -400,7 +400,7 @@ W
         [[on1 cou3 安厝]]
         to put a coffin in the grave or under a lodge;
         quietly reposing;
-    - _ts(')(o\)(3) ch(u")(3)_
+    - _ts(')(o\)(3) ch(u:)(3)_
         [[cou3 zyu3 厝註]]
         to cut an epitaph.
     ==
@@ -745,7 +745,7 @@ W
     - _lok(9) tik(7) (4)(i/)m ts(')(o\)(3)_
         [[lok6 dik1 jim4 cou3 落滴鹽醋]]
         be more severe with him, as with a pupil;
-    - _ts(o\)(6) ts(')(o\)(3) (4)'m (1)s(u")n_
+    - _ts(o\)(6) ts(')(o\)(3) (4)'m (1)s(u:)n_
         [[zou6 cou3 m4 syun1 做醋唔酸]],
         your vinegar has no sourness, *you* can do nothing;
     - _y(a/)k(8) (1)k(e/)ung ts(')(o\)(3)_
@@ -835,7 +835,7 @@ W
     - _(4)ts(')(o\) n(a/)u(6)_
         [[cou4 naau6 嘈鬧]]
         wrangling, squabbling;
-    - _(1)h(u") k(o\)m(3) (4)ts(')(o\)_
+    - _(1)h(u:) k(o\)m(3) (4)ts(')(o\)_
         [[heoi1 gam3 cou4 墟咁嘈]],
         noisy as a market;
     - _(4)ts(')(o\) (4)ts(')(o\) pai(3)_
@@ -1051,7 +1051,7 @@ W
   - [[Page~586 (4)艚]]
     ==
     - A junk, a smack;
-    - _p(a/)k(9) (4)ts(')(o\) (4)sh(u")n_
+    - _p(a/)k(9) (4)ts(')(o\) (4)sh(u:)n_
         [[baak6 cou4 syun4 白艚船]],
         sea-going junks;
     - _(4)ts(')(o\) (2)tsai_

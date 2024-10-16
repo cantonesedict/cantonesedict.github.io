@@ -128,7 +128,7 @@ W
     - _(2)k(a/)n ch(a/)t(8)_
         [[gaan2 zaat3 柬札]]
       or
-      _(1)sh(u") ch(a/)t(8)_
+      _(1)sh(u:) ch(a/)t(8)_
         [[syu1 zaat3 書札]]
         a letter.
     ==
@@ -171,7 +171,7 @@ W
         [[zi2 zaat3 紙紮]]
         paper houses, &c., to burn to the dead;
         also paper strings;
-    - _ch(a/)t(8) (4)m(a/)i (5)k(')(u")_
+    - _ch(a/)t(8) (4)m(a/)i (5)k(')(u:)_
         [[zaat3 maai4 keoi5 紮埋佢]],
         tie it up in a roll;
     - _yat(7) ch(a/)t(8) (1)f(a/)_

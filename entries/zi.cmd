@@ -120,7 +120,7 @@ W
     - _t(')(i/)n (1)ch(i/) (4)ming ming(6)_
         [[tin1 zi1 ming4 ming6 天之明命]]
         heaven's plain decree;
-    - _(4)(u") (1)ch(i/) noi(6) (4)ho_
+    - _(4)(u:) (1)ch(i/) noi(6) (4)ho_
         [[jyu4 zi1 noi6 ho4 如之奈何]]^
         if so, how then?
     - _m(i/)(6) (1)ch(i/) (5)yau (5)y(a/)_
@@ -141,7 +141,7 @@ W
     - _(4)hang (4)(i/) pat(7) ch(i/)(3) (2)ch(e/) (5)yau (1)ch(i/)_
         [[hang4 ji4 bat1 zi3 ze2 jau5 zi1 行而不至者有之]],
         to go and not arrive is common;
-    - _(2)ch(u") (1)ch(i/) (2)ch(e/) (1)ch(i/) wai(6) tai(3)_
+    - _(2)ch(u:) (1)ch(i/) (2)ch(e/) (1)ch(i/) wai(6) tai(3)_
         [[zyu2 zi1 ze2 zi1 wai6 dai3 主之者之謂帝]]
         that which rules is called supreme.
     ==
@@ -502,12 +502,12 @@ W
     - _(1)ch(i/) (i/)p(9)_
         [[zi1 jip6 枝葉]]
         branches and leaves;
-    - _(1)s(u")n (1)ch(i/)_
+    - _(1)s(u:)n (1)ch(i/)_
         [[syun1 zi1 酸枝]],
         Chinese ebony;
     - _(1)sh(a/)n (1)ch(i/)_
         [[saan1 zi1 山枝]],
-        wild (1)s(u")n-(1)ch(i/) [[酸枝]] wood, a hard timber.
+        wild (1)s(u:)n-(1)ch(i/) [[酸枝]] wood, a hard timber.
     ==
   ====
 $$
@@ -555,7 +555,7 @@ W
   - [[Page~611 (1)淄]]
     ==
     - A river in the northeast of Sh(a/)ntung [[山東]] flowing into the sea;
-    - _(1)Tsz' (1)ch(')(u")n_
+    - _(1)Tsz' (1)ch(')(u:)n_
         [[zi1 cyun1 淄川]],
         a district in Sh(a/)ntung [[山東]];
         a dark color.
@@ -1049,7 +1049,7 @@ W
     - _n(i/)m(6) (1)tsz' tsoi(6) (1)tsz'_
         [[nim6 zi1 zoi6 zi1 念茲在茲]]
         thinking of a thing without distraction;
-    - _(1)(u") (1)tsz'_
+    - _(1)(u:) (1)tsz'_
         [[jyu1 zi1 於茲]]
         hereupon, now then---an illative phrase.
     ==
@@ -1143,7 +1143,7 @@ W
   - [[Page~38|n81 (1)蜘]]
     ==
     - A spider;
-    - _(1)ch(i/) (1)ch(u")_
+    - _(1)ch(i/) (1)ch(u:)_
         [[zi1 zyu1 蜘蛛]],
         a spider, a general name for all kinds of aranea.
     ==
@@ -1423,7 +1423,7 @@ W
     ==
     - Unable to advance, either from fear or disability;
     - to go awry;
-    - _(1)tsz' (1)ts(u")_
+    - _(1)tsz' (1)ts(u:)_
         [[zi1 zeoi1 趑趄]],
         impeded.
     ==
@@ -1476,10 +1476,10 @@ W
   ====
   - [[Page~611 (1)錙]]
     ==
-    - A weight equal to six _(1)ch(u")_ [[zyu1]] 銖
+    - A weight equal to six _(1)ch(u:)_ [[zyu1]] 銖
       or the fourth part of a tael [[両]],
       not now in use;
-    - _(1)tsz' (1)ch(u")_
+    - _(1)tsz' (1)ch(u:)_
         [[zi1 zyu1 錙銖]],
         a little trifle, a mere penny, a mite.
     ==
@@ -1745,7 +1745,7 @@ W
   ====
   - [[Page~40|n83 (2)咫]]
     ==
-    - An ancient short cubit of 8~_ts(')(u")n_ [[寸]],
+    - An ancient short cubit of 8~_ts(')(u:)n_ [[寸]],
       same as an English foot;
     - small degree of;
     - _(2)ch(i/) ch(')ek(8) (1)ch(i/) t(i/)(6)_
@@ -1895,7 +1895,7 @@ W
     - added to many nouns,
       it indicates that they are smaller than others of the same sort;
     - the 39th~radical;
-    - _(2)tsz' (1)s(u")n_
+    - _(2)tsz' (1)s(u:)n_
         [[zi2 sun1 子孫]],
         children, descendants;
     - _t(')(a/)i(3) (2)tsz'_
@@ -1907,7 +1907,7 @@ W
     - _(2)ch(e/)ung (2)tsz'_
         [[zoeng2 zi2 長子]]
         the eldest son;
-    - _(1)sh(u") (1)t(a/)i (2)tsz'_
+    - _(1)sh(u:) (1)t(a/)i (2)tsz'_
         [[syu1 daai1 zi2 書獃子]]
         a stupid scholar;
     - _ch(')ik(8) (2)tsz'_
@@ -2044,7 +2044,7 @@ W
     - a particular, a mode;
     - to point out;
     - used for the last [[$旨2]];
-    - _(2)ch(i/) (4)n(a/)m [(1)k(u")]_
+    - _(2)ch(i/) (4)n(a/)m [(1)k(u:)]_
         [[zi2 naam4 geoi1 指南車]],
         the compass;
     - _shap(9) (2)ch(i/) (4)t(')(a/)n (1)pang_
@@ -2093,7 +2093,7 @@ W
   ====
 C
   ==
-  - Williams' 指南車: Corrected _(1)ch(')(e/)_ (ce1) to _(1)k(u")_ (geoi1).
+  - Williams' 指南車: Corrected _(1)ch(')(e/)_ (ce1) to _(1)k(u:)_ (geoi1).
     Strictly, this is the south-pointing chariot.
     The compass is now called 指南針.
   - Williams' 指手畫腳: Figuratively, to make overt criticism, to assume authority and give out orders, etc.
@@ -2197,7 +2197,7 @@ W
         [[zi2 gik1 枳棘]]
         hedged up;
         thorny;
-    - _(2)ch(i/) k(u")(6)_
+    - _(2)ch(i/) k(u:)(6)_
         [[zi2 geoi6 枳椇]]
         the _Hovenia dulcis_;
     - _(2)ch(i/) hok(8)_
@@ -2287,7 +2287,7 @@ W
         [[zi1 zi2 知止]]^
         to know when to stop;
     - [[...]];
-    - _(2)ch(i/) pat(7) ch(u")(6)_
+    - _(2)ch(i/) pat(7) ch(u:)(6)_
         [[zi2 bat1 zyu6 止不住]]
         will not stop, cannot be stopped;
     - _(2)ch(i/) n(o\)(6)_
@@ -2556,7 +2556,7 @@ W
     - _(2)ch(i/) p(a/)k(9)_
         [[zi2 baak6 紙帛]]
         paper houses and clothes burned in sacrifices;
-    - _(1)king (u")n(6) (2)ch(i/)_
+    - _(1)king (u:)n(6) (2)ch(i/)_
         [[ging1 jyun6 zi2 ？？紙]],
         cotton paper;
     - _(1)kai (4)p(')(i/) (2)ch(i/)_
@@ -2574,7 +2574,7 @@ W
     - _king(3) sik(7) tsz'(6) (2)ch(i/)_
         [[ging3 sik1 zi6 zi2 敬惜字紙]],
         respect written paper;
-    - _yat(7) (2)ch(i/) (1)sh(u")_
+    - _yat(7) (2)ch(i/) (1)sh(u:)_
         [[jat1 zi2 syu1 一紙書]],
         one letter;
     - _fong(3) (2)ch(i/) (4)i(u/)_
@@ -2781,7 +2781,7 @@ W
     - The toes;
     - a foundation of a wall;
     - the feet;
-    - _(2)k(u") (2)ch(i/) (1)k(o\)_
+    - _(2)k(u:) (2)ch(i/) (1)k(o\)_
         [[geoi2 zi2 gou1 舉趾高]],
         to step high, to trip along;
     - _(4)hang (2)ch(i/)_
@@ -3316,7 +3316,7 @@ W
     - to reject, to dismiss;
     - to put aside;
     - to determine, to judge, to decide;
-    - _(2)ch(')(u") ch(i/)(3)_
+    - _(2)ch(')(u:) ch(i/)(3)_
         [[cyu2 zi3 處置]]
         to punish, treat as a criminal;
     - _ch(i/)(3) p(a/)n(6)_
@@ -3419,7 +3419,7 @@ W
     - _(1)tung ch(i/)(3)_
         [[dung1 zi3 冬至]]
         the winter solstice;
-    - _ch(i/)(3) (1)(u")_
+    - _ch(i/)(3) (1)(u:)_
         [[zi3 jyu1 至於]],
         with respect to;
     - _ch(i/)(3) (2)shi(u/)_
@@ -3500,7 +3500,7 @@ W
     - that, in order to;
     - to put forth;
     - the extreme;
-    - _ch(i/)(3) [(2)]shai (5))k(')(u") (4)loi_
+    - _ch(i/)(3) [(2)]shai (5))k(')(u:) (4)loi_
         [[zi3 sai2 keoi5 loi4 致使佢來]],
         make him come;
     - _ch(i/)(3) (i/)(3)_
@@ -3574,7 +3574,7 @@ W
     - _(1)s(a/)m kwok(8) ch(i/)(3)_
         [[saam1 gwok3 zi3 三國誌]]
         annals of the Three States;
-    - _ch(i/)(3) (1)sh(u")_
+    - _ch(i/)(3) (1)sh(u:)_
         [[zi3 syu1 誌書]],
         history, records;
     - _ch(i/)(3) (1)u(") (2)ts(')z'_
@@ -3813,7 +3813,7 @@ W
     - _lap(9) tsz'(6) (4)(u/)i (1)yam_
         [[lap6 zi6 wui4 jam1 立俟回音]],
         wait for an answer;
-    - _tsz'(6) h(a/)(6) (u")t(9)_
+    - _tsz'(6) h(a/)(6) (u:)t(9)_
         [[zi6 haa6 jyut6 俟下月]]
         till next month.
     ==
@@ -3921,7 +3921,7 @@ W
     - _kai(3) tsz'(6)_
         [[gai3 zi6 繼嗣]]
         an adopted heir;
-    - _ts(u")t(9) tsz'(6)_
+    - _ts(u:)t(9) tsz'(6)_
         [[zyut6 zi6 絕嗣]]
         posterity cut off;
     - _(4)m(o\) tsz'(6) (4)t(')(a/)n_
@@ -3982,7 +3982,7 @@ W
     - _yat(7) (1)ch(e/)ung tsz'(6)_
         [[jat1 zoeng1 zi6 一張字]]
         a note, an order;
-    - _(5)m(o\) tsz'(6) (4)(u")n_
+    - _(5)m(o\) tsz'(6) (4)(u:)n_
         [[mou5 zi6 jyun4 冇字緣]],
         no mind for learning;
     - _(1)f(a/) (5)m(a/) tsz'(6)_
@@ -4006,7 +4006,7 @@ W
         or
       _tsz'(6) nap(7)_ [[zi6 nap1 字粒]]
         a type;
-    - _(1)ts(u")n tsz'(6)_
+    - _(1)ts(u:)n tsz'(6)_
         [[zyun1 zi6 尊字]]
         what is your respected style?
     - _p(i/)t(9) tsz'(6)_
@@ -4126,7 +4126,7 @@ C
   ==
   - Fan Wan entry: Corrected headword ⿱彑⿲土矢比 to 彘.
   - Williams' 人彘: The "speech of a princess"
-    is actually a designation by Empress~L(u") (呂后)
+    is actually a designation by Empress~L(u:) (呂后)
     after horrifically maiming her rival Lady~Ts(')ik (戚夫人),
     as alleged in 《呂太后本紀》.
     The weight of this phrase cannot be fully comprehended
@@ -4183,7 +4183,7 @@ W
     - _ch(i/)(6) (1)k(a/)_
         [[zi6 gaa1 治家]],
         to order a family;
-    - _ch(i/)(6) l(u")n(6)_
+    - _ch(i/)(6) l(u:)n(6)_
         [[zi6 lyun6 治亂]]
         to suppress rebellion.
     ==
@@ -4310,7 +4310,7 @@ W
     - _ngoi(6) ch(i/)(6)_
         [[ngoi6 zi6 外痔]]
         blind piles;
-    - _(1)ch(')(u")n (4)ch(')(e/)ung ch(i/)(6)_
+    - _(1)ch(')(u:)n (4)ch(')(e/)ung ch(i/)(6)_
         [[cyun1 coeng4 zi6 穿腸痔]]
         fistula in ano.
     ==
@@ -4372,7 +4372,7 @@ W
     - _(4)m(o\) tsz'(6)_
         [[mou4 zi6 無祀]]
         no descendants;
-    - _(4)(u")n tsz'(6)_
+    - _(4)(u:)n tsz'(6)_
         [[jyun4 zi6 元祀]]
         first year of a reign;
     - _tsz'(6) (4)shan_
@@ -4488,7 +4488,7 @@ W
   - [[Page~614 笥(6)]]
     ==
     - A hamper, a basket;
-    - _(1)sh(u") tsz'(6)_
+    - _(1)sh(u:) tsz'(6)_
         [[syu1 zi6 書笥]]
         a portable book and writing-case;
     - _fuk(7) tsz'(6)_
@@ -4587,10 +4587,10 @@ W
     - _tsz'(6) hau(6)_
         [[zi6 hau6 自後]]
         henceforth;
-    - _tsz'(6) (5)yau (2)ch(u") (i/)(3)_
+    - _tsz'(6) (5)yau (2)ch(u:) (i/)(3)_
         [[zi6 jau5 zyu2 ji3 自有主意]]
         I will manage it;
-    - _tsz'(6) (4)ts(')am (2)t(u")n k(i/)n(3)_
+    - _tsz'(6) (4)ts(')am (2)t(u:)n k(i/)n(3)_
         [[zi6 cam4 dyun2 gin3 自尋短見]]
         self destruction, suicide;
     - _tsz'(6) tsok(8) tsz'(6) shau(6)_

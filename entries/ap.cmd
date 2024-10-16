@@ -89,7 +89,7 @@ W
     - _ap(7) (1)ch(')ong_
         [[ap1 cong1 洽瘡]],
         to poultice;
-    - _(1)(u/)i (4)sh(u") ap(7) (u/)(6)_
+    - _(1)(u/)i (4)sh(u:) ap(7) (u/)(6)_
         [[wui1 syu4 ap1 wu6 煨薯洽芋]]
         to roast a potato or taro in ashes;
         _met._ to enjoy one's self secretly.

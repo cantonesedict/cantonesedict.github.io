@@ -159,16 +159,16 @@ W
     - _(1)ch(')au (2)h(i/)_
         [[cau1 hei2 抽起]],
         lift it out;
-    - _(1)ch(')au ch(')ing(3) (5)k(')(u") (4)lai_
+    - _(1)ch(')au ch(')ing(3) (5)k(')(u:) (4)lai_
         [[cau1 cing3 keoi5 lai4 抽秤]],
         bring him along;
     - _(2)t(a/) (1)ch(')au (1)fung_
         [[daa2 cau1 fung1 打抽風]],
         to beg aid;
-    - _(2)p(i/) (2)p(i/)n (1)ch(')au (5)k(')(u")_
+    - _(2)p(i/) (2)p(i/)n (1)ch(')au (5)k(')(u:)_
         [[bei2 bin1 cau1 keoi5 畀鞭抽佢]],
         drive him off with a whip;
-    - _(1)ch(')au (5)k(')(u") (5)l(e/)ung (5)h(a/)_
+    - _(1)ch(')au (5)k(')(u:) (5)l(e/)ung (5)h(a/)_
         [[cau1 keoi5 loeng5 haa5 抽佢兩吓]],
         whipped him twice;
     - _(1)ch(')au (1)shau_
@@ -417,7 +417,7 @@ W
     - Convalescent;
     - curable;
     - to cure;
-    - _k(')(u")t(8) tsat(9) [fat](7) (1)ch(')au_
+    - _k(')(u:)t(8) tsat(9) [fat](7) (1)ch(')au_
         [[kyut3 zat6 fat1 cau1 厥疾弗瘳]],
         his disease was incurable.
     ==
@@ -656,7 +656,7 @@ W
         [[hoi2 cau1 海鰍]],
         a sea-dragon, myriads of miles long;
         a long, narrow boat;
-    - _(1)ts(')au (4)(u") kwat(7)_
+    - _(1)ts(')au (4)(u:) kwat(7)_
         [[cau1 jyu4 gwat1 鰍魚骨]]
         whalebone.
     ==
@@ -742,7 +742,7 @@ W
     - ashamed of;
     - to compare;
     - a group, a sort;
-    - _k(i/)n(3) (2)ch(')au pat(7) (4)(u") (4)ts(')ong ch(u")t(8)_
+    - _k(i/)n(3) (2)ch(')au pat(7) (4)(u:) (4)ts(')ong ch(u:)t(8)_
         [[gin3 cau2 bat1 jyu4 cong4 zyut3 見醜不如藏拙]]
         to shame one is worse than keeping one's incapacity private;
     - _[meng](6) (2)ch(')au_
@@ -890,7 +890,7 @@ W
     - a concurrence of circumstances, to estimate the probabilities of;
     - to strive to excel;
     - for;
-    - _(5)n(i/) h(u")(3) ts(')au(3) (5)ngo (2)t(a/) [t(')ing](3)_
+    - _(5)n(i/) h(u:)(3) ts(')au(3) (5)ngo (2)t(a/) [t(')ing](3)_
         [[nei5 heoi3 cau3 ngo5 daa2 ting3 你去湊我打聽]]
         will you go and learn about it for me;
     - _ts(')au(3) (2)h(a/)u_
@@ -900,7 +900,7 @@ W
         [[cau3 ngaam1 湊啱]],
         a lucky hit;
         just the thing;
-    - _(2)p(i/) (1)sam (1)k(i/) ts(')au(3) (5)k(')(u")_
+    - _(2)p(i/) (1)sam (1)k(i/) ts(')au(3) (5)k(')(u:)_
         [[bei2 sam1 gei1 cau3 keoi5 畀心機湊佢]],
         look carefully after him;
     - _(2)t(')ai (4)lai ts(')au(3)_
@@ -1416,7 +1416,7 @@ W
     - _(1)[k(a/)ng] (4)ch(')au_
         [[gaang1 cau4 更籌]],
         a watchman beating the hour;
-    - _tuk(9) (2)k(i/) (4)ch(')au (1)sh(u")_
+    - _tuk(9) (2)k(i/) (4)ch(')au (1)sh(u:)_
         [[duk6 gei2 cau4 syu1 讀幾籌書]],
         how many times have you studied it?
     - _p(')(a/)i(3) (4)ch(')au_
@@ -1509,10 +1509,10 @@ W
     - _(4)ning (4)ch(')au_
         [[ning4 cau4 寧綢]],
         finest pongee;
-    - _(4)sh(u") (4)l(e/)ung (4)ch(')au_
+    - _(4)sh(u:) (4)l(e/)ung (4)ch(')au_
         [[syu4 loeng4 cau4 薯莨綢]],
         rust colored senshaw;
-    - _(4)ch(')au t(u")n(6)_
+    - _(4)ch(')au t(u:)n(6)_
         [[cau4 dyun6 綢緞]]
         silks and satins;
     - _(2)fong (4)ch(')au_
@@ -1524,7 +1524,7 @@ W
     - _(2)k(a/)n (4)ch(')au_
         [[gaan2 cau4 繭綢]],
         coarse rough serge;
-    - _(1)ch(')(u")n (4)ch(')au_
+    - _(1)ch(')(u:)n (4)ch(')au_
         [[cyun1 cau4 川綢]],
         Sz'chuen [[四川]] pongee.
     ==
@@ -1694,7 +1694,7 @@ W
   - [[Page~27|n70 (4)躊]]
     ==
     - Embarrassed;
-    - _(4)ch(')au (4)ch(')(u")_
+    - _(4)ch(')au (4)ch(')(u:)_
         [[cau4 cyu4 躊躇]],
         undecided, undetermined, unable to progress.
     ==
@@ -1809,7 +1809,7 @@ W
     - _(4)ch(')au (4)shan_
         [[cau4 san4 酬神]]^
         to thank the gods;
-    - _(4)ch(')au (u")n(6)_
+    - _(4)ch(')au (u:)n(6)_
         [[cau4 jyun6 酬願]]
         to make a thank offering;
     - _(4)ch(')au (4)l(o\)_

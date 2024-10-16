@@ -106,7 +106,7 @@ W
     - _(4)p(')ing (1)ts(')ai_
         [[ping4 cai1 平妻]],
         equal to a wife, _i.~e._ a concubine;
-    - _[(2)]ts(')(u") (1)ts(')ai_
+    - _[(2)]ts(')(u:) (1)ts(')ai_
         [[ceoi2 cai1 娶妻]],
         to take a wife;
     - _(4)(i/)n (1)ts(')ai_
@@ -122,7 +122,7 @@ W
   ====
 C
   ==
-  - Williams' 娶妻: Changed _ts(')(u")(3)_ (ceoi3) to common reading _(2)ts(')(u")_ (ceoi2).
+  - Williams' 娶妻: Changed _ts(')(u:)(3)_ (ceoi3) to common reading _(2)ts(')(u:)_ (ceoi2).
   ==
 S
   ==
@@ -237,7 +237,7 @@ W
     - _(1)kai (1)ts(')ai_
         [[gai1 cai1 雞棲]],
         a hen-roost;
-    - _ts(a/)m(6) (4)sh(i/) (1)ts(')ai ch(u")(6)_
+    - _ts(a/)m(6) (4)sh(i/) (1)ts(')ai ch(u:)(6)_
         [[zaam6 si4 cai1 zyu6 暫時棲住]]
         to live here for a while;
     - _(4)m(o\) teng(6) (1)ts(')ai (1)shan_
@@ -275,7 +275,7 @@ W
     - a cold wind;
     - shivering, freezing;
     - calamitous, afflicted, grievous;
-    - _(1)fung (5)(u") (1)ts(')ai (1)ts(')ai_
+    - _(1)fung (5)(u:) (1)ts(')ai (1)ts(')ai_
         [[fung1 jyu5 cai1 cai1 風雨淒淒]],
         sleety rain and wind;
     - _(1)ts(')ai ts(')(i/)t(8)_
@@ -562,7 +562,7 @@ W
     - _(4)ts(')ai (1)chau_
         [[cai4 zau1 齊州]],
         an old name for China;
-    - _yat(7) (4)ts(')ai h(u")(3)_
+    - _yat(7) (4)ts(')ai h(u:)(3)_
         [[jat1 cai4 heoi3 一齊去]]
         all go at once;
     - _(1)shau (4)ts(')ai ch(e/)ung(3) muk(9)_

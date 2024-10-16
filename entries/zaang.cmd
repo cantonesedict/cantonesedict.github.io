@@ -201,7 +201,7 @@ W
     - The tendon Achilles;
     - the heel;
     - the elbow;
-    - _yat(7) (1)ch(a/)ng (2)t(a/) kwo(3) h(u")(3)_
+    - _yat(7) (1)ch(a/)ng (2)t(a/) kwo(3) h(u:)(3)_
         [[jat1 zaang1 daa2 gwo3 heoi3 一㬹打過去]]
         elbowed him off;
     - _(2)cham (1)ch(a/)ng_

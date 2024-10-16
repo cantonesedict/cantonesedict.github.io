@@ -82,7 +82,7 @@ W
     - _(1)ts(o\) yam(6)_
         [[zou1 jam6 租賃]]
         to lease;
-    - _(1)ts(o\) uk(7) ch(u")(6)_
+    - _(1)ts(o\) uk(7) ch(u:)(6)_
         [[zou1 uk1 zyu6 租屋住]]
         to live in a hired honse;
     - _sh(e/)ung(6) (4)k(')(i/) (1)ts(o\)_
@@ -122,7 +122,7 @@ W
     - _(2)tsau (1)ts(o\)_
         [[zau2 zou1 酒糟]],
         distiller's grains;
-    - _(1)ts(o\) (4)(u")_
+    - _(1)ts(o\) (4)(u:)_
         [[zou1 jyu4-2 糟魚]],
         fish laid in grains of glutinous rice;
     - _(1)ts(o\) (1)hong (1)ch(i/) (1)ts(')ai_
@@ -178,7 +178,7 @@ W
     - _(1)ts(o\) wo(6)_
         [[zou1 wo6 遭禍]]
         to suffer calamity;
-    - _(4)'m (1)ts(o\) t(')(a/)t(8) (5)k(')(u")_
+    - _(4)'m (1)ts(o\) t(')(a/)t(8) (5)k(')(u:)_
         [[m4 zou1 taat3 keoi5 唔遭塌佢]],
         be patient with him, don't berate him.
     ==
@@ -553,7 +553,7 @@ W
     - _(2)t(o\) ts(o\)(3)_
         [[dou2 zou3 倒灶]]
         upset the furnace, _i.~e._ failed, bankrupt;
-    - _(4)hang (4)sh(u")n ts(o\)(3)_
+    - _(4)hang (4)sh(u:)n ts(o\)(3)_
         [[hang4 syun4 zou3 行船灶]]
         portable furnaces, cabooses;
     - _ts(o\)(3) (4)shan_ [[zou3 san4 灶神]]^

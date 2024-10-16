@@ -172,7 +172,7 @@ W
   ====
   - [[Page~31|n74 (1)車]]
     --
-    Not often read _(1)k(u")_ [[geoi1]].
+    Not often read _(1)k(u:)_ [[geoi1]].
     --
     ==
     - A chariot, a carriage, a cart, any vehicle;
@@ -190,7 +190,7 @@ W
     - _(1)ch(')(e/) [(2)]m(e/)_
         [[ce1 me2 車歪]],
         a teetotum;
-    - _(1)ch(')(e/) [(2)]m(e/) k(o\)m(3) ch(u")n[(3)]_
+    - _(1)ch(')(e/) [(2)]m(e/) k(o\)m(3) ch(u:)n[(3)]_
         [[ce1 me2 gam3 zyun3 車歪咁轉]],
         fidgetty as a teetotum;
     - _(1)ch(')(e/) (4)lun_
@@ -209,7 +209,7 @@ W
         [[fo2 ce1 火車]],
         a locomotive.
     ==
-  - [[Page~183 (1)車 _(1)K(u")_ (geoi1); here corrected to _(1)Ch(')(e/)_ (ce1)]]
+  - [[Page~183 (1)車 _(1)K(u:)_ (geoi1); here corrected to _(1)Ch(')(e/)_ (ce1)]]
     ==
     - [[...]];
     - the jaw-bones;
@@ -220,7 +220,7 @@ C
   ==
   - Williams' 車歪: Corrected _(4)m(e/)_ (me4) to _(2)m(e/)_ (me2).
   - Williams' 車歪咁轉: Corrected _(4)m(e/)_ (me4) to _(2)m(e/)_ (me2),
-    and corrected _(2)ch(u")n_ (zyun2) to _ch(u")n(3)_ (zyun3).
+    and corrected _(2)ch(u:)n_ (zyun2) to _ch(u:)n(3)_ (zyun3).
   ==
 S
   ==
@@ -379,7 +379,7 @@ W
     - _(2)ch(')(e/) (4)m(a/)i_
         [[ce2 maai4 扯埋]],
         to pull up, to close, as a skylight;
-    - _(2)ch(')(e/) ch(u")(6)_
+    - _(2)ch(')(e/) ch(u:)(6)_
         [[ce2 zyu6 扯住]]
         to stop from going.
     ==

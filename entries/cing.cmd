@@ -283,7 +283,7 @@ W
     - to admire;
     - to feign, to plead as an excuse;
     - a designation, an appellation, a name;
-    - _tsz'(6) (1)ch(')ing (4)k(')(i/) f(u/)(6) (u")t[(9)] (1)k(a/) f(u/)(6)_
+    - _tsz'(6) (1)ch(')ing (4)k(')(i/) f(u/)(6) (u:)t[(9)] (1)k(a/) f(u/)(6)_
         [[zi6 cing1 kei4 fu6 jyut6 gaa1 fu6 自稱其父曰家父]]
         one styles his own father _k(a/)-f(u/)_ [[gaa fu]];
     - _(1)ch(')ing (1)f(u/)_
@@ -308,7 +308,7 @@ W
   ====
 C
   ==
-  - Williams' 自稱其父曰家父: Corrected _(u")t(8)_ (jyut3) to _(u")t(9)_ (jyut6).
+  - Williams' 自稱其父曰家父: Corrected _(u:)t(8)_ (jyut3) to _(u:)t(9)_ (jyut6).
   ==
 S
   ==
@@ -466,7 +466,7 @@ W
     - _fat(9) (1)ts(')ing_
         [[fat6 cing1 佛青]],
         ultra-marine;
-    - _(4)(u")n (1)ts(')ing_
+    - _(4)(u:)n (1)ts(')ing_
         [[jyun4 cing1 玄青]],
         black;
     - _(1)ts(')ing (1)kam_
@@ -604,7 +604,7 @@ W
     - _(2)ch(')ing kau(3)_
         [[cing2 gau3 拯救]]
         to save from danger;
-    - _(2)ch(')ing (4)man (1)(u") (2)shui (2)fo (1)ch(i/) (1)chung_
+    - _(2)ch(')ing (4)man (1)(u:) (2)shui (2)fo (1)ch(i/) (1)chung_
         [[cing2 man4 jyu1 seoi2 fo2 zi1 zung1 拯民於水火之中]],
         to save the people from danger like fire and water.
     ==
@@ -769,7 +769,7 @@ W
         thank you;
         good bye;
         (the word _chin-chin_ is derived from this phrase;)
-    - _(2)ts(')eng h(u")(3) shik(9) f(a/)n[(6)]_
+    - _(2)ts(')eng h(u:)(3) shik(9) f(a/)n[(6)]_
         [[ceng2 heoi3 sik6 faan6 請去食飯]]
         invited out to dine.
     ==
@@ -1201,7 +1201,7 @@ W
     - _(1)sz' (4)ts(')ing_
         [[si1 cing4 私情]],
         illicit, fornicating;
-    - _(4)ts(')ing (u")(6) ts(o\)(6)_
+    - _(4)ts(')ing (u:)(6) ts(o\)(6)_
         [[cing4 jyun6 zou6 情願做]]
         I'll willingly do it;
     - _(4)ts(')ing sh(e/)ung(6) ok(8) kwo(3)_
@@ -1283,7 +1283,7 @@ W
     - _(1)t(')(i/)n (4)ts(')ing_
         [[tin1 cing4 天晴]],
         a clear sky;
-    - _(5)(u") (4)ts(')ing_
+    - _(5)(u:) (4)ts(')ing_
         [[jyu5 cing4 雨晴]],
         it has stopped raining.
     ==
@@ -1366,7 +1366,7 @@ W
   ====
   - [[Page~20* (4)程]]
     ==
-    - The 1⁄100th part of a _ts(')(u")n(3)_ [[cyun3]];
+    - The 1⁄100th part of a _ts(')(u:)n(3)_ [[cyun3]];
     - a portion or percentage;
     - a rule, a pattern, a regulation, to rule;
     - a limit, a period;

@@ -205,7 +205,7 @@ W
     - An order, a prohibition or command from the emperor;
     - an ordinance, a special precept;
     - a charter, a commission;
-    - _ch(')ik(7) (1)sh(u")_
+    - _ch(')ik(7) (1)sh(u:)_
         [[cik1 syu1 敕書]],
         credentials;
         letters-patent;
@@ -272,7 +272,7 @@ W
     - _ch(')ik(7) ch(')ut(7)_
         [[cik1 ceot1 斥出]]
         to remove, to expel;
-    - _ch(')ik(7) p(a/)k(9) (5)k(')(u")_
+    - _ch(')ik(7) p(a/)k(9) (5)k(')(u:)_
         [[cik1 baak6 keoi5 斥白佢]],
         rate him plainly;
     - _ch(')ik(7) f(a/)t(8)_

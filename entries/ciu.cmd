@@ -787,7 +787,7 @@ W
     - _(4)ch(')i(u/) kung(3)_
         [[ciu4 gung3 朝貢]]
         to hand up tribute;
-    - _(2)ch(u")n (4)ch(')i(u/)_
+    - _(2)ch(u:)n (4)ch(')i(u/)_
         [[zyun2 ciu4 轉朝]],
         to change the dynasty;
     - _yat(7) (4)ch(')i(u/) (1)t(')(i/)n (2)tsz' yat(7) (4)ch(')i(u/) (4)shan_
@@ -949,7 +949,7 @@ W
     ==
     - A lookout tower or loft;
     - [[...]];
-    - _(4)[ts(')i(u/)] (1)k(u")_
+    - _(4)[ts(')i(u/)] (1)k(u:)_
         [[ciu4 geoi1 譙車]],
         a high turret laid on wheels for archers.
     ==

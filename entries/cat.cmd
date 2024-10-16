@@ -89,7 +89,7 @@ W
     - _ts(')at(7) tsik(9)_
         [[cat1 zik6 七夕]]
         7th~evening of the 7th~month, a festival;
-    - _ts(')at(7) ts(u")t(9)_
+    - _ts(')at(7) ts(u:)t(9)_
         [[cat1 zyut6 七絕]]
         a pentameter of four lines;
     - _ts(')at(7) lut[(9)]_
@@ -198,7 +198,7 @@ W
     - _ts(')at(7) (1)tsing_
         [[cat1 zing1 漆精]],
         fine varnish;
-    - _(4)ts(')ing (4)(u") (1)k(a/)u ts(')at(7)_
+    - _(4)ts(')ing (4)(u:) (1)k(a/)u ts(')at(7)_
         [[cing4 jyu4 gaau1 cat1 情如膠漆]]
         his disposition is very affectionate;
     - _(1)kam ts(')at(7)_
@@ -207,7 +207,7 @@ W
     - _yap(9) ts(')at(7)_
         [[jap6 cat1 入漆]]
         been varnished;
-    - _ts(')at(7) sh(u")(6)_
+    - _ts(')at(7) sh(u:)(6)_
         [[cat1 syu6 漆樹]]
         the varnish tree.
     ==

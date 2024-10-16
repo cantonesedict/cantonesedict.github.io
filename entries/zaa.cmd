@@ -181,7 +181,7 @@ W
     - _(1)ch(a/) tak(7) (2)wan_
         [[zaa1 dak1 wan2 揸得穩]],
         I hold it safely;
-    - _(1)ch(a/) (2)shui (1)ch(u") yuk(9)_
+    - _(1)ch(a/) (2)shui (1)ch(u:) yuk(9)_
         [[zaa1 seoi2 zyu1 juk6 揸水豬肉]]
         water-sogged pork;
     - _(1)ch(a/) (2)fo (4)t(')ung_
@@ -194,10 +194,10 @@ W
         [[mou5 zaa1 naa4 冇揸拿]],
         nothing to hold on by;
         a Budhist priest is so nicknamed;
-    - _(1)ch(a/) (4)k(')(u")n (4)t(')au_
+    - _(1)ch(a/) (4)k(')(u:)n (4)t(')au_
         [[zaa1 kyun4 tau4 揸拳頭]],
         to double up the fist;
-    - _(1)ch(a/) ch(u")(6) kai(3) (2)tsai_
+    - _(1)ch(a/) ch(u:)(6) kai(3) (2)tsai_
         [[zaa1 zyu6 gai3 zai2 揸住髻仔]],
         to grab him by the tail;
     - _(1)ch(a/) l(a/)n(6)_
@@ -438,7 +438,7 @@ W
     ==
     - A rank condiment of fish or flesh and salted hashed fine,
       with red rice and oil;
-    - _(2)ch(a/) (4)(u")_
+    - _(2)ch(a/) (4)(u:)_
         [[zaa2 jyu4 鮓魚]],
         a sort of Medusa or sea-blubber;
     - _[(5)]l(a/) (2)ch(a/)_

@@ -78,7 +78,7 @@ W
     - to prize;
     - a delicacy;
     - a rarity, a treasure;
-    - _(1)chan (1)ch(u")_
+    - _(1)chan (1)ch(u:)_
         [[zan1 zyu1 珍珠]],
         pearls;
     - _(1)chan (2)p(o\)_
@@ -91,7 +91,7 @@ W
     - _(1)chan m(i/)(6)_
         [[zan1 mei6 珍味]]
         delicious;
-    - _(1)chan (1)ch(u") (2)fan_
+    - _(1)chan (1)ch(u:) (2)fan_
         [[zan1 zyu1 fan2 珍珠粉]],
         pearl sago;
     - _(2)ch(e/)ung sh(e/)ung(6) (1)chan_
@@ -345,7 +345,7 @@ W
     - _t(a/)i(6) chan(3) (1)k(a/) (1)shing_
         [[daai6 zan3 gaa1 sing1 大振家聲]],
         made his family famous;
-    - _chan(3) (4)m(a/)i yat(7) (4)t(')(u")n_
+    - _chan(3) (4)m(a/)i yat(7) (4)t(')(u:)n_
         [[zan3 maai4 jat1 tyun4 振埋一團]],
         cuddled up in a heap, as a shivering child;
     - _chan(3) (1)(i/)_
@@ -574,7 +574,7 @@ W
     - _yat(7) chan(6) chan(6) (5)[l(a/)ng]_
         [[jat1 zan6 zan6 laang5 一陣陣冷]],
         growing colder;
-    - _(2)shai (5)n(u") (4)yan chan(6)_
+    - _(2)shai (5)n(u:) (4)yan chan(6)_
         [[sai2 neoi5 jan4-2 zan6 使女人陣]]
         to send a woman to get it;
     - _(4)mai (4)wan chan(6)_
@@ -591,10 +591,10 @@ W
         [[zan6 sai3 陣勢]]
         the ranks;
         courageous;
-    - _yat(7) chan(6) (5)(u")_
+    - _yat(7) chan(6) (5)(u:)_
         [[jat1 zan6 jyu5 一陣雨]],
         a shower;
-    - _yat(7) chan(6) (1)fung (5)(u")_
+    - _yat(7) chan(6) (1)fung (5)(u:)_
         [[jat1 zan6 fung1 jyu5 一陣風雨]],
         a squall;
     - _yat(7) chan(6) (4)ming, yat(7) chan(6) (4)'m (4)ming_

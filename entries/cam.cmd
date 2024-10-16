@@ -84,7 +84,7 @@ W
     - _(1)ts(')am (2)p(u/)n_
         [[cam1 bun2 侵本]],
         to draw on the principal;
-    - _(1)ts(')am tik(7) yap(9) h(u")(3)_
+    - _(1)ts(')am tik(7) yap(9) h(u:)(3)_
         [[cam1 dik1 jap6 heoi3 侵滴入去]]
         stick in a few bad ones;
     - _(1)ts(')am (1)p(i/)n (4)p(')(a/)i_
@@ -139,7 +139,7 @@ W
   - [[Page~551 浸(3) _Tsam(3)_ (zam3); here corrected to _(1)Ts(')am_ (cam1)]]
     ==
     - [[...]];
-    - _k(')(i/) sh(u")t(8) [(1)ts(')am] (4)yam_
+    - _k(')(i/) sh(u:)t(8) [(1)ts(')am] (4)yam_
         [[kei4 syut3 cam1 jam4 其說浸淫]],
         his words are insidious and persuasive;
     - [[...]].
@@ -444,7 +444,7 @@ W
     - To verify, to prove;
     - a prognostic;
     - to fulfill;
-    - _ch(')am(3) (5)(u")_
+    - _ch(')am(3) (5)(u:)_
         [[cam3 jyu5 讖語]],
         a prophecy, a hidden meaning;
     - _ch(')am(3) h(i/)(3)_
@@ -540,7 +540,7 @@ W
     - _(2)ch(a/)u (4)ts(')am_
         [[zaau2 cam4 找尋]],
         to seek everywhere for;
-    - _(4)ts(')am ch(')an(3) t(o\)(3) (5)k(')(u")_
+    - _(4)ts(')am ch(')an(3) t(o\)(3) (5)k(')(u:)_
         [[cam4 can3 dou3-2 keoi5 尋趁到佢]],
         I've got track of him;
     - _(4)ts(')am (1)kan man(6) (2)tai_
@@ -627,7 +627,7 @@ W
     - _(4)ch(')am m(u/)t(9)_
         [[cam4 mut6 沉沒]]
         to lose in the water;
-    - _(4)ch(')am (1)(u")n_
+    - _(4)ch(')am (1)(u:)n_
         [[cam4 jyun1 沉淵]],
         lost in the depths;
     - _(4)ch(')am on(3)_
@@ -852,7 +852,7 @@ W
   - [[Page~552 (4)鱘]]
     ==
     - The sturgeon;
-    - _(4)ts(')am (4)lung (4)(u")_
+    - _(4)ts(')am (4)lung (4)(u:)_
         [[cam4 lung4 jyu4-2 鱘龍魚]],
         the sturgeon.
     ==

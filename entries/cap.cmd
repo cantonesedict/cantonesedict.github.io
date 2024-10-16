@@ -150,7 +150,7 @@ W
     - _ts(')ap(7) (1)sz'_
         [[cap1 si1 緝私]]
         to watch smugglers;
-    - _ts(')ap(7) (1)sz' (4)sh(u")n_
+    - _ts(')ap(7) (1)sz' (4)sh(u:)n_
         [[cap1 si1 syun4 緝私船]],
         revenue cutters;
     - _ts(')ap(7) ch(e/)uk(9)_

@@ -89,7 +89,7 @@ W
     - _(1)ch(i/)m pat(7) (4)ling_
         [[zim1 bat1 ling4 占不靈]],
         a false prediction;
-    - _(1)ch(i/)m s(u")n(3) (5)h(a/)_
+    - _(1)ch(i/)m s(u:)n(3) (5)h(a/)_
         [[zim1 syun3 haa5 占算吓]],
         cast a lot about it;
     - _(1)ch(i/)m kw(a/)(3)_
@@ -321,7 +321,7 @@ W
     - _(1)ch(i/)m mong(6)_
         [[zim1 mong6 瞻望]]
         to long for, to anticipate;
-    - _(1)ch(i/)m (2)p(i/) yat(9) (u")t(9)_
+    - _(1)ch(i/)m (2)p(i/) yat(9) (u:)t(9)_
         [[zim1 bei2 jat6 jyut6 瞻彼日月]]
         I look at the sun and moon, _i.~e._ on my conscience;
     - _(1)ch(i/)m sh(i/)(6)_
@@ -364,7 +364,7 @@ W
     - _(1)ch(i/)m (5)mai_
         [[zim1 mai5 粘米]],
         white rice, of which there are many kinds, as
-        _s(u")t(8) (1)ch(i/)m_ [[syut3 zim1 雪粘]],
+        _s(u:)t(8) (1)ch(i/)m_ [[syut3 zim1 雪粘]],
         _(2)ai (4)mi(u/) (1)ch(i/)m_ [[ai2 miu4 zim1 矮苖粘]],
         _(1)ch(i/)m (2)tsai_ [[zim1 zai2 粘仔]],
         &c.
@@ -510,7 +510,7 @@ W
     - _peng(6) (1)ch(i/)m_
         [[beng6 zim1 病譫]],
         out of his head, incoherent;
-    - _(1)ch(i/)m (5)(u")_
+    - _(1)ch(i/)m (5)(u:)_
         [[zim1 jyu5 譫語]],
         wandering talk.
     ==
@@ -667,7 +667,7 @@ W
     - _p(a/)(3) ch(i/)m(3)_
         [[baa3 zim3 霸占]]
         to take possession of;
-    - _ch(i/)m(3) (1)s(i/)n h(u")(3)_
+    - _ch(i/)m(3) (1)s(i/)n h(u:)(3)_
         [[zim3 sin1 heoi3 占先去]]
         to assume precedence;
     - _ch(i/)m(3) (2)si(u/) sh(i/)n(6)_
@@ -741,7 +741,7 @@ W
     - _ts(i/)m(6) ts(')z'(3)_
         [[zim6 ci3 漸次]]
         many times, gradually;
-    - _(4)ts(')un ts(u")(6) ts(i/)m(6) tsun(3)_
+    - _(4)ts(')un ts(u:)(6) ts(i/)m(6) tsun(3)_
         [[ceon4 zeoi6 zim6 zeon3 循序漸進]]
         to follow on regularly, to advance in order.
     ==

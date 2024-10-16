@@ -114,7 +114,7 @@ W
     - to make a show;
     - an inclined post, a fulcrum, a prop, a stay;
     - to border on, to adjoin, to stretch or run up into;
-    - _(1)ch(')(a/)ng (4)sh(u")n_
+    - _(1)ch(')(a/)ng (4)sh(u:)n_
         [[caang1 syun4 撐船]],
         to pole a boat;
     - _(1)ch(')(a/)ng t(o\)(6)_
@@ -127,7 +127,7 @@ W
     - _(1)ch(')ung (1)ch(')(a/)ng_
         [[cung1 caang1 充撐]],
         to curry favor among friends;
-    - _(1)ch(')(a/)ng (5)sh(e/)ung h(u")(3) sh(a/)i(3)_
+    - _(1)ch(')(a/)ng (5)sh(e/)ung h(u:)(3) sh(a/)i(3)_
         [[caang1 soeng5 heoi3 saai3 撐上去曬]]
         stretch them up to dry.
     ==
@@ -332,13 +332,13 @@ W
     ==
     - To stretch out, to open;
     - [[see $𨅝caang3 for leg-thrusting senses]];
-    - _ch(')(a/)ng(3) (1)i(u/) (5)k(')(i/) ch(u")(6)_
+    - _ch(')(a/)ng(3) (1)i(u/) (5)k(')(i/) ch(u:)(6)_
         [[caang3 jiu1 kei5 zyu6 撐腰企住]]
         to stand akimbo;
     - _ch(')(a/)ng(3) (1)hoi (1)ch(e/)ung (4)m(u/)n_
         [[caang3 hoi1 coeng1 mun4-2 住開窗門]],
         fasten open the window;
-    - _ch(')(a/)ng(3) ch(u")(6)_
+    - _ch(')(a/)ng(3) ch(u:)(6)_
         [[caang3 zyu6 撐住]]
         to open by a stretcher;
     - [[...]];
@@ -406,7 +406,7 @@ W
     - [[...]];
     - kick at;
     - [[...]];
-    - _ch(')(a/)ng(3) (5)k(')(u") ch(')ut(7) h(u")(3)_
+    - _ch(')(a/)ng(3) (5)k(')(u:) ch(')ut(7) h(u:)(3)_
         [[caang3 keoi5 ceot1 heoi3 𨅝佢出去]]
         kick him out;
         expel him;

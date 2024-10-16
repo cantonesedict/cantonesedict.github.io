@@ -294,7 +294,7 @@ W
     ==
     - A heap, a handful, a pile;
     - a group, a knot;
-    - _ch(u")(6) (4)m(a/)i yat(7) tsap(7)_
+    - _ch(u:)(6) (4)m(a/)i yat(7) tsap(7)_
         [[zyu6 maai4 jat1 zap1 住埋一蓻]]
         living in a single community;
     - _[(5)ts(')o] (4)m(a/)i yat(7) tsap(7)_

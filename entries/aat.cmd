@@ -98,7 +98,7 @@ W
     - _(a/)t(8) (1)king_
         [[aat3 ging1 壓驚]],
         to quiet one's fears;
-    - _(a/)t(8) ch(u")(6)_
+    - _(a/)t(8) ch(u:)(6)_
         [[aat3 zyu6 壓住]]
         to steady;
     - _chan(3) (a/)t(8)_
@@ -223,7 +223,7 @@ W
     - _[(a/)t](8) fo(3)_
         [[aat3 fo3 押貨]]
         to escort goods;
-    - _[(a/)t](8) (5)k(')(u") ts(o\)(6)_
+    - _[(a/)t](8) (5)k(')(u:) ts(o\)(6)_
         [[aat3 keoi5 zou6 押佢做]]
         make him do it;
     - _[(a/)t](8) sung(3) (4)yan_
@@ -236,7 +236,7 @@ W
     - _[(a/)t](8) [(5)]wan_
         [[aat3 wan5 押韻]]^
         to rhyme;
-    - _[(a/)t](8) (4)sh(u")n_
+    - _[(a/)t](8) (4)sh(u:)n_
         [[aat3 syun4 押船]],
         custom-house boats, guard-boats;
     - _[(a/)t](8) chan(6)_

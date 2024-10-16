@@ -99,7 +99,7 @@ W
     - _(1)(a/) (1)ch(')(a/)_
         [[aa1 caa1 丫杈]],
         a fork, a rest for clothes' sticks;
-    - _sh(u")(6) (1)(a/)_
+    - _sh(u:)(6) (1)(a/)_
         [[syu6 aa1 樹丫]]^
         fork of a tree;
     - _(1)s(a/)m (1)(a/) l(o\)(6)_
@@ -149,7 +149,7 @@ W
     - _(1)(a/) wai(3)_
         [[aa1 wai3 吖？]]
         poor, necessitous;
-    - _(5)k(')(u") (2)k(o\)m w(a/)(6) (1)(a/)_
+    - _(5)k(')(u:) (2)k(o\)m w(a/)(6) (1)(a/)_
         [[keoi5 gam2 waa6 aa1 佢噉話吖]],
         he said so;
     - _mat(7) (5)y(e/) (1)(a/)_
@@ -438,7 +438,7 @@ W
     - to esteem lightly, to regard as inferior;
     - second, next to, junior, inferior;
     - [[see $阿aa3 for name prefix senses]]
-    - _pat(7) (a/)(3) (1)(u") (4)yan_
+    - _pat(7) (a/)(3) (1)(u:) (4)yan_
         [[bat1 aa3 jyu1 jan4 不亞於人]],
         not inferior to others.
     ==

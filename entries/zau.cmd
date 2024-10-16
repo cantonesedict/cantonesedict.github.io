@@ -161,7 +161,7 @@ W
     - _(1)chau (2)ch(i/)_
         [[zau1 zi1 周知]],
         let all know;
-    - _h(u")(3) k(i/)n(3) (1)chau (1)kung_
+    - _h(u:)(3) k(i/)n(3) (1)chau (1)kung_
         [[heoi3 gin3 zau1 gung1 去見周公]],
         he's gone to see Duke~Chau---asleep;
     - _(1)chau mat(9)_
@@ -173,10 +173,10 @@ W
     - _(1)chau (4)wai_
         [[zau1 wai4 周圍]],
         everywhere, all around;
-    - _(1)chau (4)s(u")n_
+    - _(1)chau (4)s(u:)n_
         [[zau1 syun4 周旋]]^
         to circulate, to treat friends well;
-    - _(1)chau (4)ts(')(u")n_
+    - _(1)chau (4)ts(')(u:)n_
         [[zau1 cyun4 周全]],
         to bring a thing about, to remove ill feeling, to explain;
     - _(2)h(o\) (1)chau ch(i/)[(3)]_
@@ -345,7 +345,7 @@ W
     - to collect, to assemble;
     - to lift, to grasp, to clutch;
     - to gripe;
-    - _(1)[tsau] ch(u")(6)_
+    - _(1)[tsau] ch(u:)(6)_
         [[zau1 zyu6 揪住]]
         to seize fast;
     - _(1)[tsau] (5)(i/)_
@@ -438,7 +438,7 @@ W
     ==
     - A spot encircled by streams, or in the water, as an islet;
     - a place where men collect, a village;
-    - _(4)ng(o\) (4)(u") (1)chau_
+    - _(4)ng(o\) (4)(u:) (1)chau_
         [[ngou4 jyu4 zau1 鰲魚洲]],
         Whampoa I.;
     - _(4)ch(')(e/)ung (1)chau_
@@ -842,7 +842,7 @@ W
   ====
   - [[Page~560 (1)騶]]
     ==
-    - A fabulous feline beast, called _(1)tsau (4)(u")_ [[zau1 jyu4 騶虞]],
+    - A fabulous feline beast, called _(1)tsau (4)(u:)_ [[zau1 jyu4 騶虞]],
       emblematic of kindness to animals and gentleness;
     - a royal groom or hostler.
     ==
@@ -1005,7 +1005,7 @@ W
     - _(2)tsau tak(7) m(a/)n(6)_
         [[zau2 dak1 maan6 走得慢]]
         she sails slowly;
-    - _(2)tsau h(u")(3)_
+    - _(2)tsau h(u:)(3)_
         [[zau2 heoi3 走去]]
         to run off;
     - _(2)tsau (2)shai_
@@ -1338,7 +1338,7 @@ W
     - to peck with the bill, the twittering of birds.
     ==
     --
-    Also read _(1)ch(u")_ [[zyu1]] [[**see $咮zyu1**]].
+    Also read _(1)ch(u:)_ [[zyu1]] [[**see $咮zyu1**]].
     --
   ====
 C
@@ -1692,14 +1692,14 @@ W
     - _(2)k(o\)m tsau(6) (2)h(o\)_
         [[gam2 zau6 hou2 噉就好]],
         this is right;
-    - _tsau(6) (1)k(a/) h(u")(3)_
+    - _tsau(6) (1)k(a/) h(u:)(3)_
         [[zau6 gaa1 heoi3 就家去]]
         then I'll go;
         he's about going;
     - _tsau(6) (1)s(i/)n_
         [[zau6 sin1 就先]],
         just a little while ago, just now;
-    - _tsau(6) ch(i/)(3) h(u")(3)_
+    - _tsau(6) ch(i/)(3) h(u:)(3)_
         [[zau6 zi3 heoi3 就至去]]
         he's just gone;
     - _tsau(6) (2)shau_
@@ -1715,7 +1715,7 @@ W
     - _tsau(6) hai(6) ko(3) tik(7)_
         [[zau6 hai6 go3 dik1 就係個滴]]
         it is just that;
-    - _tsau(6) t(i/)(6) (2)ts(')(u") (4)ts(')oi_
+    - _tsau(6) t(i/)(6) (2)ts(')(u:) (4)ts(')oi_
         [[zau6 dei6 ceoi2 coi4 就地取材]],
         this will serve the purpose;
         he will do for the occasion;

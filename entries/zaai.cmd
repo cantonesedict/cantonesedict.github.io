@@ -146,7 +146,7 @@ W
     - _(4)h(a/)n (1)ch(a/)i_
         [[haan4 zaai1 閒齋]],
         a closet;
-    - _(1)sh(u") (1)ch(a/)i_
+    - _(1)sh(u:) (1)ch(a/)i_
         [[syu1 zaai1 書齋]],
         a library;
     - _(1)ts(')ing (1)ch(a/)i_
@@ -167,7 +167,7 @@ W
     - _(4)lo hon(3) (1)ch(a/)i_
         [[lo4 hon3 zaai1 羅漢齋]],
         all sorts of vegetables;
-    - _(1)ch(a/)i (1)k(u")_
+    - _(1)ch(a/)i (1)k(u:)_
         [[zaai1 geoi1 齋居]],
         to live at ease;
     - _(1)ch(a/)i (1)chong_
@@ -182,7 +182,7 @@ W
     - _mat(7) (4)yan w(a/)(6) (1)ch(a/)i_
         [[mat1 jan4 waa6 zaai1 乜人話齋]],
         somebody has said;
-    - _(2)h(o\) (5)ts(')z' (5)k(')(u") w(a/)(6) (1)ch(a/)i_
+    - _(2)h(o\) (5)ts(')z' (5)k(')(u:) w(a/)(6) (1)ch(a/)i_
         [[hou2 ci5 keoi5 waa6 zaai1 好似佢話齋]],
         just as he said.
     ==
@@ -256,7 +256,7 @@ W
     - _h(i/)m(3) ch(a/)i(3)_
         [[him3 zaai3 欠債]]
         to owe a debt;
-    - _ch(a/)i(3) (2)ch(u")_
+    - _ch(a/)i(3) (2)ch(u:)_
         [[zaai3 zyu2]],
         a creditor;
     - _ch(a/)i(3) (2)tsai_
@@ -386,7 +386,7 @@ W
     - _ts(')(a/)k(9) ch(a/)i(6)_
         [[caak6 zaai6 賊寨]]
         a robber's hold;
-    - _ch(a/)i(6) (2)ch(u")_
+    - _ch(a/)i(6) (2)ch(u:)_
         [[zaai6 zyu2 寨主]],
         wife of a bandit chief who guards the hold;
     - _(2)t(a/) ch(a/)i(6)_

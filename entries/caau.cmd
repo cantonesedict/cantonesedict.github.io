@@ -114,7 +114,7 @@ W
     - Interchanged with $抄1 to copy;
     - a document, a government paper, a receipt;
     - paper money;
-    - _(4)sh(u")n [(1)]ch(')(a/)u_
+    - _(4)sh(u:)n [(1)]ch(')(a/)u_
         [[syun4 caau1 船鈔]]^
         tonnage dues, charges on ships;
     - _fong(3) [(1)]ch(')(a/)u_
@@ -357,7 +357,7 @@ W
     - a den, a retreat;
     - a lurking place;
     - to nestle, to make a nest;
-    - _(4)ch(')(a/)u (u")t(9)_
+    - _(4)ch(')(a/)u (u:)t(9)_
         [[caau4 jyut6 巢穴]]
         to skulk in, as a brigand;
     - _(4)ch(')(a/)u (1)wo_ [[caau4 wo1 巢窩]],

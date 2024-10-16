@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 (From Page~451 of the original onwards.)
 --
 
-#{.williams} Sh(u"). [[syu]]
+#{.williams} Sh(u:). [[syu]]
 
 <nav class="sideways">
 =={.modern}

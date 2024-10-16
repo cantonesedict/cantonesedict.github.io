@@ -312,7 +312,7 @@ OrdinaryDictionaryReplacement: #.syntax.diacritics
 *   (U/) --> Ú
 #
 # U+00DC LATIN CAPITAL LETTER U WITH DIAERESIS
-*   (U") --> Ü
+*   (U:) --> Ü
 #
 # U+00E1 LATIN SMALL LETTER A WITH ACUTE
 *   (a/) --> á
@@ -336,7 +336,7 @@ OrdinaryDictionaryReplacement: #.syntax.diacritics
 *   (u/) --> ú
 #
 # U+00FC LATIN SMALL LETTER U WITH DIAERESIS
-*   (u") --> ü
+*   (u:) --> ü
 
 
 OrdinaryDictionaryReplacement: #.syntax.typography

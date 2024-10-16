@@ -86,7 +86,7 @@ W
     - _ts(')(i/)t(8) yuk(9)_
         [[cit3 juk6 切肉]]
         minced meat;
-    - _ts(')(i/)t(8) mat(9) h(u")(3)_
+    - _ts(')(i/)t(8) mat(9) h(u:)(3)_
         [[cit3 mat6 heoi3 切勿去]]
         stay, don't go;
     - _ts(')(i/)t(8) mak(9)_
@@ -231,10 +231,10 @@ W
     - _ch(')(i/)t(8) (4)nung_
         [[cit3 nung4 撤膿]],
         to come to a head, as a boil;
-    - _(2)p(i/) (1)fung ch(')(i/)t(8) h(u")(3)_
+    - _(2)p(i/) (1)fung ch(')(i/)t(8) h(u:)(3)_
         [[bei2 fung1 cit3 heoi3 畀風撤去]]
         whisked away by the wind;
-    - _ch(')(i/)t(8) h(u")(3)_
+    - _ch(')(i/)t(8) h(u:)(3)_
         [[cit3 heoi3 撤去]]
         to send or take away;
     - _ch(')(i/)t(8) (1)hoi_
@@ -328,7 +328,7 @@ W
     --
     ==
     - A very little, a bit, not half enough;
-    - _(2)t(u")n ch(')(i/)t(8) k(o\)m(3) (2)t(u")n_
+    - _(2)t(u:)n ch(')(i/)t(8) k(o\)m(3) (2)t(u:)n_
         [[dyun2 cit3 gam3 dyun2 短設咁短]],
         not half long enough.
     ==

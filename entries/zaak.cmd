@@ -156,7 +156,7 @@ W
     - to lay a weight on;
     - to squeeze smooth, to press;
     - [[...]];
-    - _ch(a/)k(8) ch(u")(6) (5)k(')(u")_
+    - _ch(a/)k(8) ch(u:)(6) (5)k(')(u:)_
         [[zaak3 zyu6 keoi5 矺住佢]],
         keep it down;
     - _ch(a/)k(8) (2)sz'_
@@ -731,7 +731,7 @@ W
     - _w(a/)t(9) ch(a/)k(9)_
         [[waat6 zaak6 滑澤]]
         glossy;
-    - _(5)(u") ch(a/)k(9)_
+    - _(5)(u:) ch(a/)k(9)_
         [[jyu5 zaak6 雨澤]]
         wet with rain;
     - _(1)yan ch(a/)k(9)_

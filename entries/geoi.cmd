@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 (From Page~182 & Page~719 of the original onwards.)
 --
 
-#{.williams} K(u"). [[geoi]]
+#{.williams} K(u:). [[geoi]]
 
 <nav class="sideways">
 =={.modern}

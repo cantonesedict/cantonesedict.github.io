@@ -99,7 +99,7 @@ W
     - _yat(7) (1)ts(')ong (1)ts(')ong_
         [[jat1 cong1 cong1 一倉倉]],
         one bin or stall;
-    - _(1)ts(')ong ts(')(u")t(8)_
+    - _(1)ts(')ong ts(')(u:)t(8)_
         [[cong1 cyut3 倉卒]]
         flurried, perturbed, alarmed.
     ==
@@ -245,7 +245,7 @@ W
     - _(1)ch(')ong (1)n(a/)_
         [[cong1 naa1 瘡𤶸]],
         a scar;
-    - _(1)ch(')ong (1)ch(')(u")n_
+    - _(1)ch(')ong (1)ch(')(u:)n_
         [[cong1 cyun1 瘡穿]],
         to open a boil;
     - _(1)ch(')ong lau(6)_
@@ -296,7 +296,7 @@ W
     ==
     - The compartments in a ship's hold;
     - a hold;
-    - _(4)sh(u")n (1)ts(')ong_
+    - _(4)sh(u:)n (1)ts(')ong_
         [[syun4 cong1 船艙]],
         the hold of a vessel;
     - _(1)hoi (1)ts(')ong_
@@ -459,7 +459,7 @@ W
     --
     ==
     - The pomfret;
-    - _p(a/)k(9) (1)ts(')ong (4)(u")_
+    - _p(a/)k(9) (1)ts(')ong (4)(u:)_
         [[baak6 cong1 jyu4-2 白䱽魚]],
         the silver pomfret _(Stromateus argenteus)_;
     - _hak(7) (1)ts(')ong_

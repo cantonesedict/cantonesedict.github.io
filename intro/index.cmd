@@ -91,9 +91,9 @@ changes in the finals are here given:---
     , into _kan_ [[gan]], _chun_ [[zeon]].
   //
     , _iueh_
-    , into _(u")t_ [[yut]];
+    , into _(u:)t_ [[yut]];
     , as _liueh_, _chueh_,
-    , into _l(u")t_ [[lyut]], _ch(u")t_ [[zyut]].
+    , into _l(u:)t_ [[lyut]], _ch(u:)t_ [[zyut]].
   //
     , _(a/)ng_
     , into _ong_ [[ong]];
@@ -101,9 +101,9 @@ changes in the finals are here given:---
     , into _kwong_ [[gwong]], _pong_ [[bong]].
   //
     , _iuen_
-    , into _(u")n_ [[yun]];
+    , into _(u:)n_ [[yun]];
     , as _hiuen_, _kiuen_,
-    , into _h(u")n_ [[hyun]], _k(u")n_ [[gyun]].
+    , into _h(u:)n_ [[hyun]], _k(u:)n_ [[gyun]].
   //
     , _ui_
     , into _(u/)i_ [[ui]];
@@ -164,7 +164,7 @@ The standard of pronunciation for the Canton [[廣州]] dialect is a small
 duodecimo handbook, sometimes issued separately, but more frequently
 combined with a letter-writer and forms of invitation, cards,
 funeral eulogies, &c., so that one may help to sell the other. It is
-called _Kong-(u/) ch(')ik-tuk, Fan-wan ts(')(u")t-i(u/) h(o\)p ts(a/)p_
+called _Kong-(u/) ch(')ik-tuk, Fan-wan ts(')(u:)t-i(u/) h(o\)p ts(a/)p_
 [[gong wu cik duk fan wan cyut jiu hap zaap]] 江湖尺牘分韻撮要合集
 Letters for Travelers and a Collection of
 Important Characters divided by their Tones. The preface of the
@@ -322,7 +322,7 @@ include the terminations in the fourth tone.
     ; 4
     ; _P(')ing Shing_ [[ping sing 平聲]].
     ; _Sh(e/)ung Shing_ [[soeng sing 上聲]].
-    ; _H(u") Shing_ [[heoi sing 去聲]].
+    ; _H(u:) Shing_ [[heoi sing 去聲]].
     ; _Yap Shing_ [[jap sing 入聲]].
     ; No.
     ; 1
@@ -331,7 +331,7 @@ include the terminations in the fourth tone.
     ; 4
     ; _P(')ing Shing_ [[ping sing 平聲]].
     ; _Sh(e/)ung Shing_ [[soeng sing 上聲]].
-    ; _H(u") Shing_ [[heoi sing 去聲]].
+    ; _H(u:) Shing_ [[heoi sing 去聲]].
     ; _Yap Shing_ [[jap sing 入聲]].
 |:
   //
@@ -397,18 +397,18 @@ include the terminations in the fourth tone.
     , 主
     , 著
     ,
-    , (1)ch(u") [[zyu1]]
-    , (2)ch(u") [[zyu2]]
-    , ch(u")(3) [[zyu3]]
+    , (1)ch(u:) [[zyu1]]
+    , (2)ch(u:) [[zyu2]]
+    , ch(u:)(3) [[zyu3]]
     ,
     , 4
     , 如
     , 語
     , 寓
     ,
-    , (4)(u") [[jyu4]]
-    , (5)(u") [[jyu5]]
-    , (u")(6) [[jyu6]]
+    , (4)(u:) [[jyu4]]
+    , (5)(u:) [[jyu5]]
+    , (u:)(6) [[jyu6]]
     ,
   //
     , 5
@@ -568,19 +568,19 @@ include the terminations in the fourth tone.
     , 婉
     , 怨
     , 乙
-    , (1)(u")n [[jyun1]]
-    , (2)(u")n [[jyun2]]
-    , (u")n(3) [[jyun3]]
-    , (u")t(8) [[jyut3]]
+    , (1)(u:)n [[jyun1]]
+    , (2)(u:)n [[jyun2]]
+    , (u:)n(3) [[jyun3]]
+    , (u:)t(8) [[jyut3]]
     , 13
     , 元
     , 軟
     , 願
     , 月
-    , (4)(u")n [[jyun4]]
-    , (5)(u")n [[jyun5]]
-    , (u")n(6) [[jyun6]]
-    , (u")t(9) [[jyut6]]
+    , (4)(u:)n [[jyun4]]
+    , (5)(u:)n [[jyun5]]
+    , (u:)n(6) [[jyun6]]
+    , (u:)t(9) [[jyut6]]
   //
     , 14
     , 皆
@@ -993,7 +993,7 @@ in parenthesis under each number.
   _(Tee, she, ki.)_
 
 4.
-  _Ch(u")_ [[zyu]],
+  _Ch(u:)_ [[zyu]],
   like _sue_, or the first part of the word _choose_ [[in Received Pronunciation]]. Words in
   this order beginning with _h_ [[h]], _l_ [[l]], _n_ [[n]], and _ts_ [[z]],
   are often heard sliding into
@@ -1084,14 +1084,14 @@ in parenthesis under each number.
   both vowels being plainly sounded.
   This final is now and then heard like _(e/)u_,
   as 要 _(e/)u_ for _i(u/)_; 溺 _n(e/)u_ for _ni(u/)_;
-  and also sliding into the 4th [[yu]] as 曉 _h(u")_ [[hyu]] for _hi(u/)_ [[hiu]].
+  and also sliding into the 4th [[yu]] as 曉 _h(u:)_ [[hyu]] for _hi(u/)_ [[hiu]].
   _(Kew, chiu, tee-ue, t(i/)(u/).)_
 
 13.
-  _(U")n_ [[jyun]], (u")t [[jyut]],
+  _(U:)n_ [[jyun]], (u:)t [[jyut]],
   like the _u_ in _ruin_, _June_, _jute_, _dilute_ [[in Received Pronunciation]].
   The variations under this final are unimportant, and those are where the vowel is
-  changed in a few words to _è_, as 煖 _nèn_ for _n(u")n_ [[nyun]].
+  changed in a few words to _è_, as 煖 _nèn_ for _n(u:)n_ [[nyun]].
   _(Heuet, sh(u/)n, (u/)t, une, sute.)_
 
 14.
@@ -1121,7 +1121,7 @@ in parenthesis under each number.
    like no words in the English language, but much
    like a hiss. The people of Canton [[廣州]] itself pronounce these two words
    very clearly, but in the villages around and south of it, they are
-   changed into _sh(i/)_, _s(u")_, _sz(u")_, _sch(i/)_, _ts(u")_, _ts(i/)_, _ch(')(i/)_,
+   changed into _sh(i/)_, _s(u:)_, _sz(u:)_, _sch(i/)_, _ts(u:)_, _ts(i/)_, _ch(')(i/)_,
    so that in many cases it is hard to recognize them.
    _(Sze, sz, sse, ss', tse.)_
 
@@ -1420,11 +1420,11 @@ give more trouble, perhaps, than the others.
 - 16,~17. The initial _sh_ is called _s_ along the coast;
   in the districts of Hi(a/)ngsh(a/)n [[香山]], Sinning [[新寧]] and Sinngan [[新安]],
   this obtains to a very great extent;
-  _shui_ 水, _sh(u")_ 書, _shuk_ 熟, _sh(a/)ng shing_ 省城, &c. &c.,
-  being heard _sui_, _s(u")_, and _s(a/)ng sing_, as in the Ti(e/)chi(u/) [[潮州]] and Amoy [[廈門]]
+  _shui_ 水, _sh(u:)_ 書, _shuk_ 熟, _sh(a/)ng shing_ 省城, &c. &c.,
+  being heard _sui_, _s(u:)_, and _s(a/)ng sing_, as in the Ti(e/)chi(u/) [[潮州]] and Amoy [[廈門]]
   dialects. The initial _sh_ is a complete shibboleth to the people of
   those districts. West of Canton [[廣州]], many are found who change _sz'_ [[si]]
-  into _s(u")_ [[syu]], and a large part of the words beginning with _s_ are changed
+  into _s(u:)_ [[syu]], and a large part of the words beginning with _s_ are changed
   into _sh_ just the opposite of the usage at Macao [[澳門]].
   [[See rant at 2,~20. for more on _sh_ versus _s_.]]
 ====
@@ -1493,8 +1493,8 @@ in the following table:---
     , _k(u/), f(u/)n, p(u/)t_.
   //
     , 11.
-    , _(u")_ as in French _jeune_ [[not really]], _l'une_ [[yes]];
-    , _s(u")t, (u")t_.
+    , _(u:)_ as in French _jeune_ [[not really]], _l'une_ [[yes]];
+    , _s(u:)t, (u:)t_.
   //
     , 12.
     , _(u\)_ as in _turn_ [[in Received Pronunciation]];
@@ -1650,7 +1650,7 @@ By combining all the fifty-three finals with all the twenty-three
 initials, there would be 1229 [[I get 53~×~23 = 1219]] sounds in the dialect which could be
 represented by Roman letters; there are however only 707 different
 syllables given in this Dictionary, many possible combinations, as
-_kw(o\)m_ [[gwam]], _t(a/)ng_ [[daang]], _l(u/)t_ [[lut]], _p(u")t_ [[byut]],
+_kw(o\)m_ [[gwam]], _t(a/)ng_ [[daang]], _l(u/)t_ [[lut]], _p(u:)t_ [[byut]],
 _kw(e/)ung_ [[gwoeng]], _f(a/)m_ [[faam]], _foi_ [[foi]], _lon_ [[lon]],
 _shot_ [[sot]], _s(u/)n_ [[sun]], _[wi(u/)]_ [[wiu]], &c.,
 not occuring in the dialect. The table of all the sounds here given
@@ -1746,7 +1746,7 @@ without the tones superadded; but at Ningpo there is more dissimilarity,
 as an example will show.
 --
 """"{.williams}
-_C(u")-go t(')in-s yin-c(')ih-lœ, lih-lœ hyiang-en-go jing-siu-pin._
+_C(u:)-go t(')in-s yin-c(')ih-lœ, lih-lœ hyiang-en-go jing-siu-pin._
 """"
 
 --{.williams}
@@ -1843,11 +1843,11 @@ something like the mark used by the Chinese, as here exhibited.
   //
     , _sh(e/)ung p(')ing_ [[seung ping]],
     , _sh(e/)ung sh(e/)ung_ [[seung seung]],
-    , _sh(e/)ung h(u")_ [[seung heoi]],
+    , _sh(e/)ung h(u:)_ [[seung heoi]],
     , _sh(e/)ung yap_ [[seung jap]],
     , _h(a/) p(')ing_ [[haa ping]],
     , _h(a/) sh(e/)ung_ [[haa seung]],
-    , _h(a/) h(u")_ [[haa heoi]],
+    , _h(a/) h(u:)_ [[haa heoi]],
     , _h(a/) yap_ [[haa jap]],
   //
     , _or upper monotone_
@@ -1904,7 +1904,7 @@ three last are collectively called _chak(7) (1)shing_ [[zak1 sing1]] 仄聲 or d
 tones, the first retains its name. If the beginner gets a good idea
 and practice of the _(4)p(')ing (1)shing_ [[ping4 sing1 平聲]], therefore, he will more easily get
 the others. The _(5)sh(e/)ung (1)shing_ [[soeng5 sing1 上聲]] is also called the ascending or rising
-tone; the _h(u")(3) (1)shing_ [[heoi3 sing1 去聲]] the departing or falling tone;
+tone; the _h(u:)(3) (1)shing_ [[heoi3 sing1 去聲]] the departing or falling tone;
 and the _yap(9) (1)shing_ [[jap6 sing1 入聲]]
 the entering or abrupt tone; these appellations are simply the literal
 renderings of the native terms.
@@ -1967,9 +1967,9 @@ liable to be misunderstood if he pronounces a word a little wrong,
 as _heng_ [[heng]] for _hing_ [[hing]], _ch(e/)uk_ for _ts(e/)uk_ [[now merged into zoek]], than if he gives it the wrong tone.
 For instance, a native will consider this sentence in the Canton
 dialect 擰一張床呢處, less barbarously pronounced if he
-hears it _(1)ling yet(7) (1)ch(a/)ng (4)ts(')ong (1)n(i/) sh(')(u")(3)_
+hears it _(1)ling yet(7) (1)ch(a/)ng (4)ts(')ong (1)n(i/) sh(')(u:)(3)_
 [[ling1 jet1 zaang1 cong4 ni1 syu3]], with all the tones correct,
-than if it should be spoken _ning(6) yat(9) (2)ch(e/)ung ch(')ong(3) n(i/)(3) (1)ch[(')](u")_
+than if it should be spoken _ning(6) yat(9) (2)ch(e/)ung ch(')ong(3) n(i/)(3) (1)ch[(')](u:)_
 [[ning6 jat6 zoeng2 cong3 ni3 cyu1]], with
 all the tones wrong, which would perhaps be nonsense to him.
 --
@@ -2067,7 +2067,7 @@ final, like the following:---
   [[jau5 jau4 dau6 zau2 kau4 sau2 sau6]] 有油荳酒求叟售
   ask the old man to buy my oil, pulse, or wine.
 
-- _(5)K(')au (5)yau tau(6) (2)kau (2)tau, (5)k(')(u") (1)t(')au tsau(6) [(2)]tsau_
+- _(5)K(')au (5)yau tau(6) (2)kau (2)tau, (5)k(')(u:) (1)t(')au tsau(6) [(2)]tsau_
   [[kau5 jau5 dau6 gau2 dau2 keoi5 tau1 zau6 zau2]] 舅有荳九斗佢偷就走
   he stole ten pecks of uncle's beans and ran off.
 
@@ -2129,8 +2129,8 @@ then the _h(a/)(6) (4)p(')ing (1)shing_ [[haa6 ping4 sing1]] 下平聲  or lower
 followed by the _sh(e/)ung[(6)] (5)sh(e/)ung_ [[soeng6 soeng5]] 上上,
 and _h(a/)(6) (5)sh(e/)ung_ [[haa6 soeng5]] 下上,
 or upper and lower rising tone,
-the _sh(e/)ung[(6)] h(u")(3)_ [[soeng6 heoi3]] ::[上]去::, and
-lastly the _h(a/)(6) h(u")(3)_ [[haa6 heoi3]] 下去 or upper and lower retiring tone,
+the _sh(e/)ung[(6)] h(u:)(3)_ [[soeng6 heoi3]] ::[上]去::, and
+lastly the _h(a/)(6) h(u:)(3)_ [[haa6 heoi3]] 下去 or upper and lower retiring tone,
 always in this same order. The other two tones,
 the _sh(e/)ung[(6)] yap(9)_ [[soeng6 jap6]] 上入
 and _h(a/)(6) yap(9)_ [[haa6 jap6]] 下入

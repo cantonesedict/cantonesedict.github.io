@@ -155,7 +155,7 @@ W
     - _(4)sh(i/) ch(')(a/)p(8)_
         [[si4 caap3 匙插]]
         a narrow purse;
-    - _ch(')(a/)p(8) (2)shau lok(9) h(u")(3)_
+    - _ch(')(a/)p(8) (2)shau lok(9) h(u:)(3)_
         [[caap3 sau2 lok6 heoi3 插手落去]]
         to meddle in officiously;
     - _p(a/)t(8) (4)t(')oi p(a/)t(8) ch(')(a/)p(8)_

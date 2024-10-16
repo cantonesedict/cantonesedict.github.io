@@ -113,10 +113,10 @@ W
     - _(1)chai (4)m(a/)i_
         [[zai1 maai4 擠埋]],
         put it aside;
-    - _(1)chai (1)p(i/)n ch(')(u")(3)_
+    - _(1)chai (1)p(i/)n ch(')(u:)(3)_
         [[zai1 bin1 cyu3 擠邊處]]
         where shall I put it?
-    - _(1)chai (1)p(i/)n ch(')(u")(3) (1)t(o\) (2)h(o\)_
+    - _(1)chai (1)p(i/)n ch(')(u:)(3) (1)t(o\) (2)h(o\)_
         [[zai1 bin1 cyu3 dou1 hou2 擠邊處都好]],
         put [it] down anywhere.
     ==
@@ -386,7 +386,7 @@ W
     - A child, a son;
     - a diminutive;
     - a little thing, the smaller of two;
-    - _(2)tsai (5)n(u")_
+    - _(2)tsai (5)n(u:)_
         [[zai2 neoi5-2 仔女]],
         sons and daughters, children;
     - _(1)kw(a/)i (2)tsai_
@@ -398,7 +398,7 @@ W
     - _sai(3) (1)man (2)tsai_
         [[sai3 man1 zai2 細蚊仔]],
         children, lads;
-    - _(1)ch(u") (2)tsai_
+    - _(1)ch(u:) (2)tsai_
         [[zyu1 zai2 豬仔]],
         a pig;
     - _(2)kau (2)tsai_
@@ -543,7 +543,7 @@ W
     - _tsz'(6) chai(3)_
         [[zi6 zai3 自制]]
         self-restraint;
-    - _chai(3) (1)sh(u")_
+    - _chai(3) (1)sh(u:)_
         [[zai3 syu1 制書]],
         an imperial dispatch;
     - _chai(3) t(o\)(6)_
@@ -856,7 +856,7 @@ W
     - _(5)m(i/) chai(3)_
         [[mei5 zai3 美製]]
         well made;
-    - _(u")(6) chai(3)_
+    - _(u:)(6) chai(3)_
         [[jyu6 zai3 御製]]
         done by his Majesty;
     - _(2)h(o\) chai(3) f(a/)t(8)_
@@ -907,7 +907,7 @@ W
     - _tsai(3) ts(i/)p(8)_
         [[zai3 zip3 際接]]
         to receive, to blend, to meet;
-    - _(2)h(o\) tsai(3) (u")(6)_
+    - _(2)h(o\) tsai(3) (u:)(6)_
         [[hou2 zai3 jyu6 好際遇]]
         a good opportunity, a favorable juncture;
     - _(2)ts(')z' tsai(3)_
@@ -1052,7 +1052,7 @@ W
     - _shik(9) chai(6)_
         [[sik6 zai6 食滯]]
         indigestible;
-    - _chai(6) ch(u")(6)_
+    - _chai(6) ch(u:)(6)_
         [[zai6 zyu6 滯住]]
         to restrain;
         impeded;

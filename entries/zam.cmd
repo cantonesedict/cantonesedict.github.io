@@ -165,7 +165,7 @@ W
     - _muk(9) (1)cham_
         [[muk6 zam1 木砧]],
         a horse block;
-    - _(1)ch(u") (2)p(i/) (1)cham_
+    - _(1)ch(u:) (2)p(i/) (1)cham_
         [[zyu1 bei2 zam1 豬髀砧]],
         a fillet of pork;
     - _(1)cham (2)p(a/)n_
@@ -309,7 +309,7 @@ W
     - to prick;
     - to use needles in acupuncture;
     - leaves of the pine;
-    - _(1)ch(')(u")n (1)cham_
+    - _(1)ch(')(u:)n (1)cham_
         [[cyun1 zam1 穿針]],
         to thread a needle;
     - _[(2)]k(u/) (4)ch(')ui (1)cham_
@@ -321,7 +321,7 @@ W
     - _(1)cham (2)ch(i/)_
         [[zam1 zi2 針黹]],
         to embroider;
-    - _(4)hon (2)sh(u") (1)cham_
+    - _(4)hon (2)sh(u:) (1)cham_
         [[hon4 syu2 zam1 寒暑針]]^
         a thermometer;
     - _(5)ng(a/)n (1)cham_
@@ -639,7 +639,7 @@ W
     - _tsam(3) shap(7)_
         [[zam3 sap1 浸濕]]
         wet it, soak it;
-    - _(2)p(i/) (2)shui tsam(3) ch(u")(6)_
+    - _(2)p(i/) (2)shui tsam(3) ch(u:)(6)_
         [[bei2 seoi2 zam3 zyu6 畀水浸住]]
         cover it with water;
     - [[see $浸cam1 for use in 浸淫]];

@@ -362,7 +362,7 @@ W
     - _tsok(9) shek(9)_
         [[zok6 sek6 鑿石]]
         to cut stone;
-    - _ts(u")n(3) tsok(9)_
+    - _ts(u:)n(3) tsok(9)_
         [[zyun3 zok6 鑽鑿]]
         to bore a bole, to punch the face;
     - _(1)k(u/)n (4)ts(')oi tsok(9)_

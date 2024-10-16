@@ -182,7 +182,7 @@ W
     - _(2)ch(a/)m (1)shui_
         [[zaam2 zeoi1 斬衰]],
         mourning for parents;
-    - _(2)ch(a/)m (5)t(')(u")n_
+    - _(2)ch(a/)m (5)t(')(u:)n_
         [[zaam2 tyun5 斬斷]],
         to cut in two, to break off, as a business;
     - _(2)ch(a/)m (4)t(')au_
@@ -373,10 +373,10 @@ W
     - _ts(a/)m(6) (2)yan_
         [[zaam6 jan2 暫忍]],
         be patient;
-    - _ts(a/)m(6) (u")(6)_
+    - _ts(a/)m(6) (u:)(6)_
         [[zaam6 jyu6 暫遇]]
         suddenly met him;
-    - _ts(a/)m(6) ch(u")(6)_
+    - _ts(a/)m(6) ch(u:)(6)_
         [[zaam6 zyu6 暫住]]
         a temporary lodging;
     - _(2)ho ts(a/)m(6) pat(7) (2)ho (4)sh(e/)ung_

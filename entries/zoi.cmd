@@ -80,13 +80,13 @@ W
     - _(4)k(')(i/) k(u/)(3) (4)ho (1)tsoi_
         [[kei4 gu3 ho4 zoi1 其故何哉]],
         on what account, pray?
-    - _(4)ho (5)yau (1)(u") (5)ngo (1)tsoi_
+    - _(4)ho (5)yau (1)(u:) (5)ngo (1)tsoi_
         [[ho4 jau5 jyu1 ngo5 zoi1 何有於我哉]],
         what is this to me?
     - _(2)h(i/) (2)ho sik(7) (1)tsoi_
         [[hei2 ho2 sik1 zoi1 豈可惜哉]],
         would you pity him!
-    - _(4)yan (5)(u")n (4)[f(u/)] (1)tsoi_
+    - _(4)yan (5)(u:)n (4)[f(u/)] (1)tsoi_
         [[jan4 jyun5 fu4 zoi1 仁遠乎哉]],
         has humanity so far gone!
     - _(1)on pat(7) (1)p(i/) (1)tsoi_
@@ -347,7 +347,7 @@ W
     - _(2)tsoi s(e/)ung(3)_
         [[zoi2 soeng3 宰相]]
         a prime-minister;
-    - _(2)ch(u") (2)tsoi_
+    - _(2)ch(u:) (2)tsoi_
         [[zyu2 zoi2 主宰]],
         the ruler of all, the chief governor;
         the mind;
@@ -357,7 +357,7 @@ W
     - _kam(3) (2)ch(i/) (4)t(')(o\) (2)tsoi_
         [[gam3 zi2 tou4 zoi2 禁止屠宰]],
         prohibited the butchering of animals, as in time of drought;
-    - _(u")n(6) (2)tsoi_
+    - _(u:)n(6) (2)tsoi_
         [[jyun6 zoi2 縣宰]],
         a district [magistrate];
     - _(2)tsoi (4)ngau_
@@ -502,13 +502,13 @@ W
     - _tsoi(3) (5)m(u/)n_
         [[zoi3 mun5 載滿]],
         loaded full;
-    - _tsoi(3) lok(9) (4)ho (1)sh(u")_
+    - _tsoi(3) lok(9) (4)ho (1)sh(u:)_
         [[zoi3 lok6 ho4 syu1 載落何書]],
         in what book is it recorded?
     - _(4)'m kau(3) tsoi(3)_
         [[m4 gau3 zoi3 唔夠載]]
         not enough to load it;
-    - _(5)m(o\) (5)y(e/) tsoi(3) ch(u")[(6)]_
+    - _(5)m(o\) (5)y(e/) tsoi(3) ch(u:)[(6)]_
         [[mou5 je5 zoi3 zyu6 冇嘢載住]]
         I've nothing to put it in;
     - _(2)p(i/) ko(3) (5)t(')(o\) tsoi(3)_
@@ -521,7 +521,7 @@ W
   ====
 C
   ==
-  - Williams' 冇嘢載住: Corrected _ch(u")(3)_ (zyu3) to _ch(u")(6)_ (zyu6).
+  - Williams' 冇嘢載住: Corrected _ch(u:)(3)_ (zyu3) to _ch(u:)(6)_ (zyu6).
   ==
 S
   ==
@@ -562,7 +562,7 @@ W
     - _(2)k(i/) shap(9) tsoi(6)_
         [[gei2 sap6 zoi6 幾十儎]]
         several scores of cargoes;
-    - _(4)sh(u")n (5)m(u/)n tsoi(6)_
+    - _(4)sh(u:)n (5)m(u/)n tsoi(6)_
         [[syun4 mun5 zoi6 船滿儎]]
         the ship is loaded;
     - _ch(a/)k(8) tsoi(6) shek(9)_
@@ -617,7 +617,7 @@ W
     - _(4)'m tsoi(6) uk(7)_
         [[m4 zoi6 uk1 唔在屋]]
         not at home;
-    - _(4)'m tsoi(6) ch(')(u")(3)_
+    - _(4)'m tsoi(6) ch(')(u:)(3)_
         [[m4 zoi6 cyu3 唔在處]]
         not in, not here;
     - _(i/)n(6) tsoi(6)_
@@ -671,7 +671,7 @@ W
     - _pat(7) tsoi(6) (4)[f(u/)]_
         [[bat1 zoi6 fu4 不在乎]],
         does not consist in;
-    - _tsoi(6) (1)p(i/)n ch(')(u")(3)_
+    - _tsoi(6) (1)p(i/)n ch(')(u:)(3)_
         [[zoi6 bin1 cyu3 在邊處]]
         where is it?
     - _tsoi(6) (5)n(i/)_

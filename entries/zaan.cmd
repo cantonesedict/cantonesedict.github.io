@@ -337,7 +337,7 @@ W
     - _yat[(9)] yat(9) (4)loi (2)ts(a/)n_
         [[jat6 jat6 loi4 zaan2 日日來趲]],
         he comes urging me daily;
-    - _(2)ts(a/)n (5)k(')(u") (2)h(i/) (1)shan_
+    - _(2)ts(a/)n (5)k(')(u:) (2)h(i/) (1)shan_
         [[zaan2 keoi5 hei2 san1 趲佢起身]],
         urge him to get out of bed.
     ==
@@ -649,10 +649,10 @@ W
         to narrate.
     ==
     --
-    Read _(2)s(u")n_ [[syun2]]; [[**see $撰syun2**]].
+    Read _(2)s(u:)n_ [[syun2]]; [[**see $撰syun2**]].
     --
     --
-    Read _s(u")n(3)_ [[syun3]]; [[**see $撰syun3**]].
+    Read _s(u:)n(3)_ [[syun3]]; [[**see $撰syun3**]].
     --
   ====
 C
