@@ -691,7 +691,7 @@ W
 $$
 
 
-##{#4 .williams} (4)Ch(')(u:) (4)Ch(')ui (4)Ts(')(u:) [[ceoi4 陽平]]
+##{#4 .williams} (4)Ch(')(u:) (4)Ch(')ui (4)Ts(')(u:) (4)Ts(')ui [[ceoi4 陽平]]
 
 <## tone-4-characters ##>
 <nav class="sideways">
@@ -710,6 +710,7 @@ $$
 - $錘4
 - $鎚4
 - $除4
+- $隨4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -1252,4 +1253,68 @@ S
   ==
   - $除cyu4
   ==
+$$
+
+### 隨4 | _(4)Ts(')ui_ [[ceoi4]]
+
+$$
+R
+  ⾩ + 13
+U
+  U+96A8
+F
+  ==
+  - [[F2.56 隨]] 從也順也
+  ==
+W
+  ====
+  - [[Page~597 (4)隨]]
+    ==
+    - To follow, to accord with, to yield, to comply obediently;
+    - to permit, to let;
+    - the way or usage of;
+    - an adverb, according to, as, like, wherever;
+    - forthwith, presently;
+    - a feudal state now _(4)Ts(')ui (1)chau_ [[ceoi4 zau1 隨州]]^
+      in the northeast of H(u/)peh [[湖北]];
+    - _(4)ts(')ui (4)sh(i/) ts(o\)(6)_
+        [[ceoi4 si4 zou6 隨時做]]
+        do it as I have time;
+    - _(4)ts(')ui p(i/)n(6)_
+        [[ceoi4 bin6-2 隨便]]
+        as you please;
+        very well;
+    - _(4)ts(')ui (5)ngo (4)lai_
+        [[ceoi4 ngo5 lai4 隨我嚟]],
+        come after me;
+    - _(4)ts(')ui tsoi(6) (5)ngo_
+        [[ceoi4 zoi6 ngo5 隨在我]],
+        the decision is with me;
+    - _(4)ts(')ui tak(7) (5)k(')(u:)_
+        [[ceoi4 dak1 keoi5 隨得佢]],
+        let him do as he likes;
+    - _(4)ts(')ui yat(7) t(o\)(3) (i/)(6)_
+        [[ceoi4 jat1 dou3 ji6 隨一到二]]
+        do the second like (or after) the first;
+    - _(4)ts(')ui k(a/)(3) m(u/)i(6)_
+        [[ceoi4 gaa3 mui6-2 隨嫁妹]]
+        a waiting-maid given at marriage, like Zilpah;
+    - _(4)ts(')ui ch(')(u:)(3) (2)kong_
+        [[ceoi4 cyu3 gong2 隨處講]],
+        talkiing about it everywhere;
+    - _(4)ts(')ui (2)shi(u/) (4)loi_
+        [[ceoi4 siu2 loi4 隨少來]],
+        bring a little of it, as you can get it;
+    - _(4)ts(')ui tsik(7)_
+        [[ceoi4 zik1 隨即]]
+        immediately;
+    - _(4)ts(')ui ch(')(u:)(3) (1)k(a/)i (4)(i/)n_
+        [[ceoi4 cyu3 gaai1 jin4 隨處皆然]],
+        it is all about, they are everywhere.
+    ==
+    --
+    A colloquial word
+    [[here normalised to 𡃴; **see $𡃴ceoi4 for the canonical entry**]]. [[TODO]]
+    --
+  ====
 $$
