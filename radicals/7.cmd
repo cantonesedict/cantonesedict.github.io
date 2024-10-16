@@ -79,6 +79,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $覰ceoi3
       - $䚎cong1
       - $䚎zong1
       ==

@@ -527,6 +527,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $娶3
+- $覰3
 - $趣3
 ==
 </nav>
@@ -553,6 +554,30 @@ W
 S
   ==
   - $娶ceoi2
+  ==
+$$
+
+### 覰3 | _Ts(')(u")(3)_ [[ceoi3]]
+
+$$.
+R
+  ⾒ + 11
+U
+  U+89B0
+F
+  ==
+  - [[F1.48 ::[覻]::]] ::竊視曰[覻]::
+  ==
+W
+  ====
+  - [[Page~596 覰(3)]]
+    --
+    [[Alternative form of 覷. **See $覷ceoi3 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed headword 覻.
   ==
 $$
 
