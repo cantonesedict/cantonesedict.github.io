@@ -2137,7 +2137,7 @@ and _h(a/)(6) yap(9)_ [[haa6 jap6]] 下入
 will of course be found under other syllables.
 --
 
-<ins class="modern">
+{+++
 --
 (This modernised version of the Tonic Dictionary
 is necessarily arranged differently to Williams' original:
@@ -2172,7 +2172,7 @@ is necessarily arranged differently to Williams' original:
 Nevertheless, the Williams romanisations and the olden namings (陰陽平上去入)
 are supplied alongside the modern Jyutping for reference.)
 --
-</ins>
++++}
 
 --{.williams}
 In printing the volume, two main objects have been aimed at.
