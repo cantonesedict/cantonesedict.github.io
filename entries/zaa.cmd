@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2024-10-10
+* %date-modified --> 2024-10-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -773,7 +773,7 @@ C
   ==
 $$
 
-###+ 蜡3 | _Ch(a/)(3)_ (zaa3)
+### 蜡3 | _Ch(a/)(3)_ [[zaa3]]
 
 $$
 R
@@ -783,10 +783,12 @@ U
 V
   ==
   - caa3 (per Fan Wan)
+  - caai3 (per Fan Wan)
   - zaa6 (per 《廣韻》鋤駕切)
   ==
 F
   ==
+  - [[F2.28 蜡 _Ch(')(a/)i(3)_ (caai3)]] ::[釵]去聲祭名[八]蜡所以報[土]也::
   - [[F2.76 蜡 _Ch(')(a/)(3)_ (caa3)]] 八蜡祭名
   ==
 W
@@ -798,14 +800,26 @@ W
         [[baat3 zaa3 八蜡]]
         a sacrifice of thanksgiving to the earth in winter for ripening crops.
     ==
+  - [[Page~596 蜡(3)]]
+    --
+    Read _ch(a/)(3)_ [[zaa3]];
+    --
+    ==
+    - the sacrifice made at the winter solstice,
+      when the cold binds everything close.
+    ==
   ====
 C
   ==
   - The reading _ch(a/)(3)_ (zaa3) is per 《廣韻》又音乍.
+  - Fan Wan entry: Corrected ⿰釒⿱丿乂 to 釵, corrected 入 to 八,
+    and corrected 士 to 土.
   ==
 S
   ==
   - $蜡caa3
+  - $蜡ceoi3
+  - $蜡laap6 (TODO)
   ==
 $$
 

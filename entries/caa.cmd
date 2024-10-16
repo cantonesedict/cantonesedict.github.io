@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2024-10-08
+* %date-modified --> 2024-10-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -395,6 +395,7 @@ U
   U+8721
 F
   ==
+  - [[F2.28 蜡 _Ch(')(a/)i(3)_ (caai3)]] ::[釵]去聲祭名[八]蜡所以報[土]也::
   - [[F2.76 蜡]] 八蜡祭名
   ==
 W
@@ -404,8 +405,15 @@ W
     [[Reading variation. **See $蜡zaa3 for the canonical entry.**]]
     --
   ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿰釒⿱丿乂 to 釵, corrected 入 to 八,
+    and corrected 士 to 土.
+  ==
 S
   ==
+  - $蜡ceoi3
+  - $蜡laap6 (TODO)
   - $蜡zaa3
   ==
 $$

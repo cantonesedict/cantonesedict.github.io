@@ -1233,6 +1233,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $蜡caa3
+      - $蜡ceoi3
       - $蜡zaa3
       - $蜻cing1
       - $蜻zing1
