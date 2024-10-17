@@ -527,6 +527,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $娶3
+- $翠3
 - $蜡3
 - $覰3
 - $覷3
@@ -556,6 +557,47 @@ W
 S
   ==
   - $娶ceoi2
+  ==
+$$
+
+### 翠3 | _Ts(')ui(3)_ [[ceoi3]]
+
+$$
+R
+  ⽻ + 8
+U
+  U+7FE0
+F
+  ==
+  - [[F2.56 翠]] ::翡翠鳥羽也赤[曰]翡靑曰翠::
+  ==
+W
+  ====
+  - [[Page~597 翠(3)]]
+    ==
+    - The female of a kingfisher, whose feathers are used in plumagery;
+    - _ts(')ui(3) ki(u/)(6)_
+        [[ceoi3 giu6-2 翠轎]]
+        a bridal chair covered with feathers;
+    - _ts(')ui(3) (4)t(')ing_
+        [[ceoi3 ting4 翠亭]],
+        a feathered shrine or car;
+    - _(2)t(i/)m ts(')ui(3)_
+        [[dim2 ceoi3 點翠]]
+        to put on feathers;
+    - _ts(')ui(3) (4)m(o\)_
+        [[ceoi3 mou4 翠毛]],
+        the kingfisher's feathers;
+    - _ts(')ui(3) shik(7)_
+        [[ceoi3 sik1 翠色]]
+        a purplish blue.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 日 to 曰.
+  - Williams' 翠亭: Probably not car.
+  - Williams' 翠色: More cyan or green, especially jade-like green.
   ==
 $$
 
