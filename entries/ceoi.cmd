@@ -711,6 +711,7 @@ $$
 - $錘4
 - $鎚4
 - $除4
+- $隋4
 - $隨4
 ==
 </nav>
@@ -1300,6 +1301,31 @@ E
 S
   ==
   - $除cyu4
+  ==
+$$
+
+### 隋4 | _(4)Ts(')ui_ [[ceoi4]]
+
+$$
+R
+  ⾩ + 9
+U
+  U+968B
+F
+  ==
+  - [[F2.56 隋]] 國名
+  ==
+W
+  ====
+  - [[Page~597 (4)隋]]
+    ==
+    - A dynasty, which ruled from A.~D.~590--620,
+      preceding the T(')(a/)ng [[唐]] dynasty.
+    ==
+  ====
+C
+  ==
+  - Williams' "590--620": These years are approximate.
   ==
 $$
 
