@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2024-10-16
+* %date-modified --> 2024-10-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -697,6 +697,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $厨4
+- $𡃴 (⿰口隨)4
 - $廚4
 - $徐4
 - $捶4
@@ -741,6 +742,53 @@ S
   ==
   - $厨cyu4
   ==
+$$
+
+###+ 𡃴4 (⿰口隨) | _(4)Ts(')ui_ (ceoi4)
+
+$$
+R
+  ⼝ + 16
+U
+  U+210F4
+A
+  ==
+  - $隨4
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~597 (4)隨; here normalised to 𡃴]]
+    --
+    [[...]]
+    --
+    --
+    A colloquial word.
+    --
+    ==
+    - A smell, a stench;
+    - bad breath;
+    - _yat(7) pung(6) (4)ts(')ui_
+        [[jat1 bung6 ceoi4 一𩗴𡃴]],
+        a stench;
+    - _(5)yau tik(7) (4)ts(')ui sik(7)_
+        [[jau5 dik1 ceoi4 sik1 有滴𡃴息]]
+        there is some bad smell.
+    ==
+  ====
+E
+  ====
+  - 【𡃴】 (ceoi4):
+    ++
+    1. A smell or odour.
+       ==
+       - 有𠹻𡃴 (jau5 zam6 ceoi4): "There's [an] odour."
+       - 男人𡃴 (naam4 jan4 ceoi4): "Man smell."
+       - 老人𡃴 (lou5 jan4 ceoi4): "Old person smell."
+       ==
+    ++
+  ====
 $$
 
 ### 廚4 | _(4)Ch(')(u:)_ [[ceoi4]]
@@ -1314,7 +1362,7 @@ W
     ==
     --
     A colloquial word
-    [[here normalised to 𡃴; **see $𡃴ceoi4 for the canonical entry**]]. [[TODO]]
+    [[here normalised to 𡃴; **see $𡃴ceoi4 for the canonical entry**]].
     --
   ====
 $$
