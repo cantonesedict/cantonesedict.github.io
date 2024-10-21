@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2024-10-08
+* %date-modified --> 2024-10-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -521,6 +521,10 @@ E
        - 到未啊 (dou3 mei6 a3): "[Are we] there yet?"
        - 未到啊 (mei6 dou3 a3): "Not there yet."
        - 有排啊 (jau5 paai4 a3): "[It'll] be ages."
+       ==
+    1. A vocative particle, especially used before airing a grievance.
+       ==
+       - 阿爹啊 (aa3 de1 a3): "Dad!"
        ==
     ++
   - 【啊-list】 (aa3):
