@@ -663,6 +663,11 @@ E
        - 今晚呀 (gam1 maan5-1 a4): "Tonight?"
        - 唔飲呀 (m4 jam2 a4): "[Oh, you're] not drinking [it]?"
        ==
+    1. A vocative particle, especially used before asking a question.
+       ==
+       - 爹爹呀 (de1 de1 a4): "Daddy," (followed by a question).
+       - 女呀 (aa3 neoi5-2 a4): "Daughter," (followed by a question).
+       ==
     ++
   ====
 S
