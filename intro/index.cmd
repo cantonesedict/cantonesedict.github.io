@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Introduction.
-* %date-modified --> 2024-10-16
+* %date-modified --> 2024-10-22
 * %copyright-prior-years --> 2023--
 * %meta-description --> Williams' introduction
 
@@ -1094,7 +1094,7 @@ in parenthesis under each number.
 
   {+++
   --
-  (Effectively, _an_ = [ɐn].)
+  (Effectively, _an_ = [ɐn], and _at_ = [ɐt̚].)
   --
   +++}
 
@@ -1107,7 +1107,7 @@ in parenthesis under each number.
 
   {+++
   --
-  (Effectively, _(e/)ung_ = [eoŋ], and final _(e/)uk_ = [eok̚].)
+  (Effectively, _(e/)ung_ = [eoŋ], and _(e/)uk_ = [eok̚].)
   --
   +++}
 
@@ -1241,7 +1241,7 @@ in parenthesis under each number.
 
   {+++
   --
-  (Effectively, _am_ = [ɐm].)
+  (Effectively, _am_ = [ɐm], and _ap_ = [ɐp̚].)
   --
   +++}
 
