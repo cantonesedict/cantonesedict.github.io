@@ -500,6 +500,9 @@ F
 W
   ====
   - [[Page~1|n44 呀(3); here normalised to 啊]]
+    --
+    A colloquial word.
+    --
     ==
     - A final particle, adding intensity to the meaning;
     - _(4)'m (2)h(o\) (a/)(3)_
