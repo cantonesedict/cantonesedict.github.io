@@ -9,6 +9,14 @@ Pages are written in [Conway-Markdown (CMD)][cmd].
 
 ## Workflow
 
+Dependencies:
+
+```bash
+pipx install conwaymd
+```
+
+Build:
+
 ```bash
 ./autoupdate.py
 cmd --all
