@@ -62,6 +62,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $催1
 - $吹1
 - $崔1
 - $推1
@@ -72,6 +73,49 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 催1 | _(1)Ts(')(u/)i_ [[ceoi1]]
+
+$$
+R
+  ⼈ + 11
+U
+  U+50AC
+F
+  ==
+  - [[F2.80 催]] 促也趲也
+  ==
+W
+  ====
+  - [[Page~598 (1)催]]
+    ==
+    - To urge, to press, to egg on;
+    - to importune;
+    - to hasten, as the payment of a debt;
+    - to reiterate;
+    - _mok(9) ko(3) (1)ts(')(u/)i (5)ngo_
+        [[mok6 go3 ceoi1 ngo5 莫個催我]],
+        don't hurry me;
+    - _(1)ts(')(u/)i pik(7)_ [[ceoi3 bik1 催逼]]
+        or
+      _(1)ts(')(u/)i (2)kam_ [[ceoi1 gam2 催？]],
+        to urge on, to stimulate;
+    - _(1)ts(')(u/)i (5)k(')(u:) f(a/)i(3) tik(7)_
+        [[ceoi1 keoi5 faai3 dik1 催佢快滴]]
+        hurry him on a little;
+    - _[fat](9) k(a/)i(3) (2)tsau (1)ts(')(u/)i_
+        [[fat6 gaai3 zau2 ceoi1 乏价走催]],
+        I've no servant to send to hasten you --- a phrase on invitation cards;
+    - _(2)h(i/) shai(3) k(o\)m(3) (1)ts(')(u/)i_
+        [[hei2 sai3 gam3 ceoi1 起勢咁催]],
+        hurrying and urging one rather causelessly.
+    ==
+  ====
+C
+  ==
+  - Williams' 乏价走催: Changed _f(a/)t(9)_ (faat6) to modern _fat(9)_ (fat6).
+  ==
+$$
 
 ### 吹1 | _(1)Ch(')ui_ [[ceoi1]]
 
