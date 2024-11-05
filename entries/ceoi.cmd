@@ -63,6 +63,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $吹1
+- $崔1
 - $推1
 - $炊1
 - $蛆1
@@ -158,6 +159,34 @@ E
        - 吹佢唔脹 (ceoi1 keoi5 m4 zoeng3): "Can't rile him up."
        ==
     ++
+  ====
+$$
+
+### 崔1 | _(1)Ts(')(u/)i_ [[ceoi1]]
+
+$$
+R
+  ⼭ + 8
+U
+  U+5D14
+V
+  ==
+  - ceoi4 (per 《廣韻》昨回切 for "lofty" sense)
+  ==
+F
+  ==
+  - [[F2.80 崔]] 高貌又姓
+  ==
+W
+  ====
+  - [[Page~598 (1)崔]]
+    ==
+    - Lofty, mountainous;
+    - rugged, as a hilly country;
+    - _(1)ts(')(u/)i (4)ngai_
+        [[ceoi1 ngai4 崔嵬]],
+        lofty, rocky hills and peaks.
+    ==
   ====
 $$
 
