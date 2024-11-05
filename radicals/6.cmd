@@ -737,6 +737,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $脃ceoi3
       - $脆ceoi3
       - $脊zek3
       - $脊zik3

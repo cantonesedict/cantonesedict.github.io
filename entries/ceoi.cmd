@@ -529,6 +529,7 @@ $$
 - $娶3
 - $毳3
 - $翠3
+- $脃3
 - $脆3
 - $蜡3
 - $覰3
@@ -638,6 +639,27 @@ C
   - Williams' 翠亭: Probably not car.
   - Williams' 翠色: More cyan or green, especially jade-like green.
   ==
+$$
+
+### 脃3 | _Ts(')ui(3)_ [[ceoi3]]
+
+$$.
+R
+  ⾁ + 6
+U
+  U+8103
+H
+  May appear as either ⿰⺼色 (assumed here) or ⿰⺼⿱刀巴,
+  depending on the font.
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~597 脃(3)脆(3)]]
+    --
+    [[Alternative form of 脆. **See $脆ceoi3 for the canonical entry.**]]
+    --
+  ====
 $$
 
 ### 脆3 | _Ts(')ui(3)_ [[ceoi3]]
