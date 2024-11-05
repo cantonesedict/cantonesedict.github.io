@@ -529,6 +529,7 @@ $$
 - $娶3
 - $毳3
 - $翠3
+- $脆3
 - $蜡3
 - $覰3
 - $覷3
@@ -637,6 +638,62 @@ C
   - Williams' 翠亭: Probably not car.
   - Williams' 翠色: More cyan or green, especially jade-like green.
   ==
+$$
+
+### 脆3 | _Ts(')ui(3)_ [[ceoi3]]
+
+$$
+R
+  ⾁ + 6
+U
+  U+8106
+A
+  ==
+  - $脃3
+  ==
+F
+  ==
+  - [[F2.56 脆]] 物易斷也又輕薄也
+  ==
+W
+  ====
+  - [[Page~597 脃(3)脆(3)]]
+    ==
+    - Delicate, easily broken;
+    - brittle, crackling;
+    - shivery, crumbling;
+    - crisp, light, as crust;
+    - trifling, unsteady in character;
+    - _(2)shong ts(')ui(3)_
+        [[song2 ceoi3 爽脆]]
+        delicate, as cakes;
+    - _(1)kon ts(')ui(3)_
+        [[gon1 ceoi3 乾脆]]
+        cracks when dry;
+    - _(4)h(a/)m ts(')ui(3) (1)f(a/) (1)shang_
+        [[haam4 ceoi3 faa1 sang1 鹹脆花生]],
+        baked salt ground nuts;
+    - _(4)t(')i(u/) meng(6) ap(7) ap(7) ts(')ui(3)_
+        [[tiu4 meng6 ap1 ap1 ceoi3 條命洽洽脆]]
+        life snaps asunder like crust.
+    ==
+  ====
+C
+  ==
+  - Williams' 爽脆: More crunchy than delicate.
+  - Williams' 乾脆: Figuratively, clear-cut.
+  ==
+E
+  ====
+  - 【扑扑脆】 (bok1 bok1 ceoi3):
+    ++
+    1. Crispy. (Also heard as lok1 lok1 ceoi3, or ngok1 ngok1 ceoi3.)
+    ++
+  - 【脆扑扑】 (ceoi3 bok1 bok1):
+    ++
+    1. Crispy.
+    ++
+  ====
 $$
 
 ### 蜡3 | _Ts(')(u:)(3)_ [[ceoi3]]
