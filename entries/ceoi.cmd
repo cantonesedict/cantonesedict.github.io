@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2024-10-17
+* %date-modified --> 2024-11-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -527,6 +527,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $娶3
+- $毳3
 - $翠3
 - $蜡3
 - $覰3
@@ -557,6 +558,43 @@ W
 S
   ==
   - $娶ceoi2
+  ==
+$$
+
+### 毳3 | _Ts(')ui(3)_ [[ceoi3]]
+
+$$
+R
+  ⽑ + 8
+U
+  U+6BF3
+F
+  ==
+  - [[F2.56 毳 _Ch(')ui(3)_]] 獸毛褥也
+  ==
+W
+  ====
+  - [[Page~597 毳(3)]]
+    ==
+    - The down on birds, the fine undergrowth of hair on animals;
+    - birds molting;
+    - furry, downy, soft, fine, delicate;
+    - like felt, velvety;
+    - _(4)m(i/)n ts(')ui(3)_
+        [[min4 ceoi3 綿毳]]
+        cotton staple;
+    - _(2)fo ts(')ui(3)_
+        [[fo2 ceoi3 火毳]]
+        asbestos cloth;
+    - _ts(')ui(3) mok(9)_
+        [[ceoi3 mok6 毳幕]]
+        a felt tent.
+    ==
+  ====
+C
+  ==
+  - 《廣韻》 gives both 此芮切 _ts(')ui(3)_ (Williams)
+    and 楚稅切 _ch(')ui(3)_ (Fan Wan).
   ==
 $$
 
