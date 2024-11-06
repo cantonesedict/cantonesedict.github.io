@@ -1503,6 +1503,7 @@ For all radicals, see [Index of characters by radical](./).
       - $漚au3
       - $漅caau4
       - $漆cat1
+      - $漼ceoi2
       - $漼ceoi4
       - $漕cou4
       - $滯zai6

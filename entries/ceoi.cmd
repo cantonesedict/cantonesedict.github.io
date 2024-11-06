@@ -538,6 +538,7 @@ $$
 - $娶2
 - $惴2
 - $揣2
+- $漼2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -724,6 +725,35 @@ W
 S
   ==
   - $揣cyun2 (TODO)
+  ==
+$$
+
+###+ 漼2 | _(2)Ts(')(u/)i_ (ceoi2)
+
+$$
+R
+  ⽔ + 11
+U
+  U+6F3C
+F
+  ==
+  - [[F2.81 漼 _(4)Ts(')(u/)i_ (ceoi4)]] 情回切水深貌
+  ==
+W
+  ====
+  - [[Page~598 (4)漼 _(4)Ts(')(u/)i_ (ceoi4); here corrected to _(2)Ts(')(u/)i_ (ceoi2)]]
+    ==
+    - Deep, clear water;
+    - tears trickling down;
+    - fresh, new, clean;
+    - spoiling, ruining;
+    - [[...]];
+    - name of a stream.
+    ==
+  ====
+S
+  ==
+  - $漼ceoi4
   ==
 $$
 
