@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2024-11-05
+* %date-modified --> 2024-11-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -67,6 +67,7 @@ $$
 - $崔1
 - $推1
 - $炊1
+- $璀1
 - $蛆1
 - $趨1
 - $龡1
@@ -287,6 +288,35 @@ W
 C
   ==
   - Fan Wan entry: Corrected bottom component of 爨 from 夾 to ⿳林大火.
+  ==
+$$
+
+### 璀1 | _(1)Ts(')(u/)i_ [[ceoi1]]
+
+$$
+R
+  ⽟ + 11
+U
+  U+7480
+V
+  ==
+  - ceoi2 (per 《廣韻》七罪切 )
+  ==
+F
+  ==
+  - [[F2.80 璀]] ::璀[璨]丰彩貌::
+  ==
+W
+  ====
+  - [[Page~598 (1)璀]]
+    ==
+    - The lustre of a gem;
+    - a gem hanging down, as from the girdle.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 琛 to 璨.
   ==
 $$
 
