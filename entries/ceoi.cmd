@@ -1017,7 +1017,7 @@ W
 $$
 
 
-##{#4 .williams} (4)Ch(')(u:) (4)Ch(')ui (4)Ts(')(u:) (4)Ts(')ui [[ceoi4 陽平]]
+##{#4 .williams} (4)Ch(')(u:) (4)Ch(')ui (4)Ts(')(u:) (4)Ts(')ui (4)Ts(')(u/)i [[ceoi4 陽平]]
 
 <## tone-4-characters ##>
 <nav class="sideways">
@@ -1028,6 +1028,7 @@ $$
 - $徐4
 - $捶4
 - $搥4
+- $摧4
 - $椎4
 - $槌4
 - $滁4
@@ -1254,6 +1255,30 @@ W
 S
   ==
   - $搥deoi1 (TODO)
+  ==
+$$
+
+### 摧4 | _(4)Ts(')(u/)i_ [[ceoi4]]
+
+$$.
+R
+  ⼿ + 11
+U
+  U+6467
+F
+  ==
+  - [[F2.81 摧]] 挫也折也抑也阻摧
+  ==
+W
+  ====
+  - [[Page~598 (4)摧]]
+    --
+    [[Reading variation (per 《廣韻》昨回切). **See $摧ceoi1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $摧ceoi1
   ==
 $$
 
