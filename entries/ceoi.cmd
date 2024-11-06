@@ -10,7 +10,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 %%%
 
-#{.williams} Ch(')(u:) Ch(')ui. Ts(')(u:). Ts(')ui. Ts(')(u/)i. [[ceoi]]
+#{.williams} Ch(')(u:). Ch(')ui. Ts(')(u:). Ts(')ui. Ts(')(u/)i. [[ceoi]]
 
 <nav class="sideways">
 =={.modern}
@@ -529,7 +529,7 @@ C
 $$
 
 
-##{#2 .williams} (2)Ch(')ui (2)Ts(')(u:)[[ceoi2 陰上]]
+##{#2 .williams} (2)Ch(')ui (2)Ts(')(u:) [[ceoi2 陰上]]
 
 <## tone-2-characters ##>
 <nav class="sideways">
