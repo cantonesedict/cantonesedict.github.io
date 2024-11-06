@@ -367,7 +367,7 @@ class Updater:
         gathered_syllables = set(syllable for _, syllable, _ in tone_syllable_ct_list)
         if gathered_syllables and gathered_syllables != {cmd_syllable}:
             print(
-                f'Error in `{entry_cmd_name}`: gathered_syllables {gathered_syllables} != `{{{cmd_syllable}}}`',
+                f'Error in `{entry_cmd_name}`: gathered_syllables {gathered_syllables} ≠ `{{{cmd_syllable}}}`',
                 file=sys.stderr,
             )
             sys.exit(1)
@@ -398,7 +398,7 @@ class Updater:
         syllable_tones = [tone for tone, _, _ in tone_syllable_ct_list]
         if syllable_tones != navigation_tones:
             print(
-                f'Error in `{entry_cmd_name}`: syllable tones {syllable_tones} != navigation tones {navigation_tones}',
+                f'Error in `{entry_cmd_name}`: syllable tones {syllable_tones} ≠ navigation tones {navigation_tones}',
                 file=sys.stderr,
             )
             sys.exit(1)
@@ -499,7 +499,7 @@ class Updater:
 
             if h3s != h2s:
                 print(
-                    f'Error in `{entry_cmd_name}` (tone {tone}): h3s {h3s} != h2s {h2s}',
+                    f'Error in `{entry_cmd_name}` (tone {tone}): h3s {h3s} ≠ h2s {h2s}',
                     file=sys.stderr,
                 )
                 sys.exit(1)
