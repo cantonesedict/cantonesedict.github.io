@@ -75,6 +75,7 @@ class Updater:
         williams_h2s_from_tone = Updater._gather_williams_h2s_from_tone(old_cmd_content, navigation_tones)
         williams_h3s_from_tone = Updater._gather_williams_h3s_from_tone(old_cmd_content, navigation_tones)
 
+        Updater._check_williams_h2_h3_consistency(entry_cmd_name, williams_h2s_from_tone, williams_h3s_from_tone)
         Updater._check_williams_h1_h2_consistency(entry_cmd_name, williams_h1s, williams_h2s_from_tone)
 
         new_cmd_content = old_cmd_content
@@ -482,6 +483,19 @@ class Updater:
             flags=re.VERBOSE,
         )
         return clean_line.split()
+
+    @staticmethod
+    def _check_williams_h2_h3_consistency(entry_cmd_name, williams_h2s_from_tone, williams_h3s_from_tone):
+        for tone, tone_h2s in williams_h2s_from_tone.items():
+            h2s = set(tone_h2s)
+            h3s = set(williams_h3s_from_tone[tone])
+
+            if h2s != h3s:
+                print(
+                    f'Error in `{entry_cmd_name}` (tone {tone}): h2s {h2s} != h3s {h3s}',
+                    file=sys.stderr,
+                )
+                sys.exit(1)
 
     @staticmethod
     def _check_williams_h1_h2_consistency(entry_cmd_name, williams_h1s, williams_h2s_from_tone):
