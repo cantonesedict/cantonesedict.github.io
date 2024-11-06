@@ -75,6 +75,8 @@ class Updater:
         williams_h2s_from_tone = Updater._gather_williams_h2s_from_tone(old_cmd_content, navigation_tones)
         williams_h3s_from_tone = Updater._gather_williams_h3s_from_tone(old_cmd_content, navigation_tones)
 
+        Updater._check_williams_h1_h2_consistency(entry_cmd_name, williams_h1s, williams_h2s_from_tone)
+
         new_cmd_content = old_cmd_content
         new_cmd_content = Updater._normalise_radicals(new_cmd_content)
         new_cmd_content = Updater._update_page_tones_navigation(new_cmd_content, tone_syllable_ct_list)
@@ -474,12 +476,31 @@ class Updater:
     @staticmethod
     def extract_williams_hs(line):
         clean_line = re.sub(
-            pattern='< [/]? ins .*? > | [._\[\]] | \([1-9]\)',
+            pattern='< [/]? ins .*? > | [._\[\]^] | \([1-9]\)',
             repl='',
             string=line,
             flags=re.VERBOSE,
         )
         return clean_line.split()
+
+    @staticmethod
+    def _check_williams_h1_h2_consistency(entry_cmd_name, williams_h1s, williams_h2s_from_tone):
+        if not williams_h2s_from_tone:
+            return
+
+        h1s = set(williams_h1s)
+        h2s = set(
+            h2
+            for tone_h2s in williams_h2s_from_tone.values()
+            for h2 in tone_h2s
+        )
+
+        if h1s != h2s:
+            print(
+                f'Error in `{entry_cmd_name}`: h1s {h1s} != h2s {h2s}',
+                file=sys.stderr,
+            )
+            sys.exit(1)
 
     @staticmethod
     def _normalise_radicals(cmd_content):
