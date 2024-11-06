@@ -71,6 +71,8 @@ class Updater:
         Updater._check_tones(entry_cmd_name, tone_syllable_ct_list, navigation_tones)
         Updater._check_canto_tones(entry_cmd_name, tone_syllable_ct_list)
 
+        williams_h1s = Updater._gather_williams_h1s(old_cmd_content)
+
         new_cmd_content = old_cmd_content
         new_cmd_content = Updater._normalise_radicals(new_cmd_content)
         new_cmd_content = Updater._update_page_tones_navigation(new_cmd_content, tone_syllable_ct_list)
@@ -420,6 +422,26 @@ class Updater:
             ]
             for tone, syllable, _ in tone_syllable_ct_list
         }
+
+    @staticmethod
+    def _gather_williams_h1s(cmd_content):
+        return Updater.extract_williams_hs(
+            re.search(
+                pattern=r'^ \# \{.*?\} [ ] (?P<h1s_raw> .*? ) [ ]? (?: \( | \[\[ ) [a-z]+ (?: \) | \]\] ) $',
+                string=cmd_content,
+                flags=re.MULTILINE | re.VERBOSE,
+            ).group('h1s_raw')
+        )
+
+    @staticmethod
+    def extract_williams_hs(line):
+        clean_line = re.sub(
+            pattern='< [/]? ins .*? > | [.\[\]]',
+            repl='',
+            string=line,
+            flags=re.VERBOSE,
+        )
+        return clean_line.split()
 
     @staticmethod
     def _normalise_radicals(cmd_content):
