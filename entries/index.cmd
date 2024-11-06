@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of entry pages by Jyutping
-* %date-modified --> 2024-10-08
+* %date-modified --> 2024-11-06
 * %copyright-prior-years --> 2023--
 * %meta-description --> index of entry pages by Jyutping
 
@@ -140,7 +140,7 @@ See also: [Index of Cantonese terms by Jyutping](/terms/).
 - $ce
 - $cek
 - $ceng
-- $ceoi (work in progress)
+- $ceoi
 - $ceon (work in progress)
 - $ceot (work in progress)
 - $ci
