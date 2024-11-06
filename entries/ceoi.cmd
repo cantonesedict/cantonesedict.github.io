@@ -69,6 +69,7 @@ $$
 - $炊1
 - $璀1
 - $蛆1
+- $衰1
 - $趨1
 - $龡1
 ==
@@ -361,6 +362,35 @@ C
 S
   ==
   - $蛆zeoi1
+  ==
+$$
+
+### 衰1 | _(1)Ts(')(u/)i_ [[ceoi1]]
+
+$$.
+R
+  ⾐ + 4
+U
+  U+8870
+F
+  ==
+  - [[F2.80 衰]] ::齊衰[喪]服也::
+  - [[F2.80 縗]] ::同[上]::
+  ==
+W
+  ====
+  - [[Page~598 (1)衰(1)縗]]
+    --
+    [[Alternative form of 縗. **See $縗ceoi1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 裘 to 喪, and corrected 土 to 上.
+  ==
+S
+  ==
+  - $衰seoi1 (TODO)
   ==
 $$
 
