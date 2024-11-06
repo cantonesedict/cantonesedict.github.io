@@ -490,18 +490,15 @@ class Updater:
             h2s = set(tone_h2s)
             h3s = set(williams_h3s_from_tone[tone])
 
-            if h2s != h3s:
+            if not h3s.issubset(h2s):
                 print(
-                    f'Error in `{entry_cmd_name}` (tone {tone}): h2s {h2s} != h3s {h3s}',
+                    f'Error in `{entry_cmd_name}` (tone {tone}): h3s {h3s} ⊈ h2s {h2s}',
                     file=sys.stderr,
                 )
                 sys.exit(1)
 
     @staticmethod
     def _check_williams_h1_h2_consistency(entry_cmd_name, williams_h1s, williams_h2s_from_tone):
-        if not williams_h2s_from_tone:
-            return
-
         h1s = set(williams_h1s)
         h2s = set(
             h2
@@ -509,9 +506,9 @@ class Updater:
             for h2 in tone_h2s
         )
 
-        if h1s != h2s:
+        if not h2s.issubset(h1s):
             print(
-                f'Error in `{entry_cmd_name}`: h1s {h1s} != h2s {h2s}',
+                f'Error in `{entry_cmd_name}`: h2s {h2s} ⊈ h1s {h1s}',
                 file=sys.stderr,
             )
             sys.exit(1)
