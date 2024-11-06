@@ -68,6 +68,7 @@ $$
 - $推1
 - $炊1
 - $璀1
+- $縗1
 - $蛆1
 - $衰1
 - $趨1
@@ -318,6 +319,39 @@ W
 C
   ==
   - Fan Wan entry: Corrected 琛 to 璨.
+  ==
+$$
+
+### 縗1 | _(1)Ts(')(u/)i_ [[ceoi1]]
+
+$$
+R
+  ⽷ + 10
+U
+  U+7E17
+A
+  ==
+  - $衰1
+  ==
+F
+  ==
+  - [[F2.80 衰]] ::齊衰[喪]服也::
+  - [[F2.80 縗]] ::同[上]::
+  ==
+W
+  ====
+  - [[Page~598 (1)衰(1)縗]]
+    ==
+    - The unhemmed, frayed edges of mourning clothes, which are left so;
+    - to ravel out;
+    - _(2)ch(a/)m (1)ts(')(u/)i_
+        [[zaam2 ceoi1 斬縗]],
+        clipped, unhemmed.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 裘 to 喪, and corrected 土 to 上.
   ==
 $$
 
