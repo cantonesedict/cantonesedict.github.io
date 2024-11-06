@@ -497,6 +497,13 @@ class Updater:
                 )
                 sys.exit(1)
 
+            if h3s != h2s:
+                print(
+                    f'Error in `{entry_cmd_name}` (tone {tone}): h3s {h3s} != h2s {h2s}',
+                    file=sys.stderr,
+                )
+                sys.exit(1)
+
     @staticmethod
     def _check_williams_h1_h2_consistency(entry_cmd_name, williams_h1s, williams_h2s_from_tone):
         h1s = set(williams_h1s)
