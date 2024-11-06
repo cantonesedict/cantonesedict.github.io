@@ -520,6 +520,13 @@ class Updater:
             )
             sys.exit(1)
 
+        if h2s and h2s != h1s:
+            print(
+                f'Error in `{entry_cmd_name}`: h2s {h2s} ≠ h1s {h1s}',
+                file=sys.stderr,
+            )
+            sys.exit(1)
+
     @staticmethod
     def _normalise_radicals(cmd_content):
         return re.sub(
