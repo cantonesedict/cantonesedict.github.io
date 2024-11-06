@@ -73,6 +73,7 @@ class Updater:
 
         williams_h1s = Updater._gather_williams_h1s(old_cmd_content)
         williams_h2s_from_tone = Updater._gather_williams_h2s_from_tone(old_cmd_content, navigation_tones)
+        williams_h3s_from_tone = Updater._gather_williams_h3s_from_tone(old_cmd_content, navigation_tones)
 
         new_cmd_content = old_cmd_content
         new_cmd_content = Updater._normalise_radicals(new_cmd_content)
@@ -452,9 +453,28 @@ class Updater:
         }
 
     @staticmethod
+    def _gather_williams_h3s_from_tone(cmd_content, navigation_tones):
+        return {
+            tone: [
+                williams_h3
+                for h3s_raw in re.findall(
+                    pattern=fr'''
+                        ^ \#\#\# .*? \|
+                         [ ] (?P<h3s_raw> .*? ) [ ]?
+                          (?: \( | \[\[ ) [a-z]+{tone} (?: \) | \]\] ) $
+                    ''',
+                    string=cmd_content,
+                    flags=re.MULTILINE | re.VERBOSE,
+                )
+                for williams_h3 in Updater.extract_williams_hs(h3s_raw)
+            ]
+            for tone in navigation_tones
+        }
+
+    @staticmethod
     def extract_williams_hs(line):
         clean_line = re.sub(
-            pattern='< [/]? ins .*? > | [.\[\]] | \([1-9]\)',
+            pattern='< [/]? ins .*? > | [._\[\]] | \([1-9]\)',
             repl='',
             string=line,
             flags=re.VERBOSE,
