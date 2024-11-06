@@ -529,7 +529,7 @@ C
 $$
 
 
-##{#2 .williams} (2)Ch(')ui (2)Ts(')(u:) [[ceoi2 陰上]]
+##{#2 .williams} (2)Ch(')ui (2)Ts(')(u:) <ins class="modern">(2)Ts(')(u/)i</ins> [[ceoi2 陰上]]
 
 <## tone-2-characters ##>
 <nav class="sideways">

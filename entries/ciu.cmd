@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ciu
-* %date-modified --> 2024-10-16
+* %date-modified --> 2024-11-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -41,7 +41,7 @@ MP
 $$
 
 
-##{#1 .williams} (1)Ch(')i(u/) [[ciu1 陰平]]
+##{#1 .williams} (1)Ch(')i(u/) <ins class="modern">(1)Ts(')i(u/)</ins> [[ciu1 陰平]]
 
 <## tone-1-characters ##>
 <nav class="sideways">

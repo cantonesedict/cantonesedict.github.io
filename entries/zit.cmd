@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zit
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-11-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -140,7 +140,7 @@ E
 $$
 
 
-##{#3 .williams} Ch(i/)t(8) [[zit3 低陰入]]
+##{#3 .williams} Ch(i/)t(8) Ts(i/)t(8) [[zit3 低陰入]]
 
 <## tone-3-characters ##>
 <nav class="sideways">

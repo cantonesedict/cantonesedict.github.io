@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2024-10-16
+* %date-modified --> 2024-11-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -771,7 +771,7 @@ S
 $$
 
 
-##{#3 .williams} Ch(')(e/)ung(3) [[coeng3 陰去]]
+##{#3 .williams} Ch(')(e/)ung(3) <ins class="modern">Ts(')(e/)ung(3)</ins> [[coeng3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">
