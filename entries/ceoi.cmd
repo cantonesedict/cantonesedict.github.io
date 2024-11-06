@@ -66,6 +66,7 @@ $$
 - $吹1
 - $崔1
 - $推1
+- $摧1
 - $炊1
 - $璀1
 - $縗1
@@ -259,6 +260,45 @@ W
 S
   ==
   - $推teoi1 (TODO)
+  ==
+$$
+
+###+ 摧1 | _(1)Ts(')(u/)i_ (ceoi1)
+
+$$
+R
+  ⼿ + 11
+U
+  U+6467
+V
+  ==
+  - ceoi4 (per 《廣韻》昨回切)
+  ==
+F
+  ==
+  - [[F2.81 摧 _(4)Ts(')(u/)i_ (ceoi4)]] 挫也折也抑也阻摧
+  ==
+W
+  ====
+  - [[Page~598 (4)摧 _(4)Ts(')(u/)i_ (ceoi4); here normalised to _(1)Ts(')(u/)i_ (ceoi1)]]
+    ==
+    - To stop, to drive back, to repress;
+    - to overpower, to set down;
+    - to push upon, to thrust forward, to crowd against, to impel;
+    - to break, as the wind does trees;
+    - to reach;
+    - to put out, to extinguish, as a family;
+    - _[(1)]ts(')(u/)i yik(7)_
+        [[ceoi1 jik1 摧抑]]
+        to abate, to put down;
+    - _[(1)]ts(')(u/)i ch(i/)t(8)_
+        [[ceoi1 zit3 摧折]]
+        to break off by pushing against.
+    ==
+  ====
+S
+  ==
+  - $摧ceoi4
   ==
 $$
 
