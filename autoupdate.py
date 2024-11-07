@@ -74,9 +74,10 @@ class Updater:
         williams_h1s = Updater._gather_williams_h1s(old_cmd_content)
         williams_h2s_from_tone = Updater._gather_williams_h2s_from_tone(old_cmd_content, navigation_tones)
         williams_h3s_from_tone = Updater._gather_williams_h3s_from_tone(old_cmd_content, navigation_tones)
+        is_done = '(Work in progress)' not in old_cmd_content
 
         Updater._check_williams_h2_h3_consistency(entry_cmd_name, williams_h2s_from_tone, williams_h3s_from_tone)
-        Updater._check_williams_h1_h2_consistency(entry_cmd_name, williams_h1s, williams_h2s_from_tone)
+        Updater._check_williams_h1_h2_consistency(entry_cmd_name, williams_h1s, williams_h2s_from_tone, is_done)
 
         new_cmd_content = old_cmd_content
         new_cmd_content = Updater._normalise_radicals(new_cmd_content)
@@ -505,7 +506,7 @@ class Updater:
                 sys.exit(1)
 
     @staticmethod
-    def _check_williams_h1_h2_consistency(entry_cmd_name, williams_h1s, williams_h2s_from_tone):
+    def _check_williams_h1_h2_consistency(entry_cmd_name, williams_h1s, williams_h2s_from_tone, is_done):
         h1s = set(williams_h1s)
         h2s = set(
             h2
@@ -520,7 +521,7 @@ class Updater:
             )
             sys.exit(1)
 
-        if h2s and h2s != h1s:
+        if is_done and h2s != h1s:
             print(
                 f'Error in `{entry_cmd_name}`: h2s {h2s} ≠ h1s {h1s}',
                 file=sys.stderr,
