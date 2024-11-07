@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $囑1
 - $柷1
+- $燭1
 - $矚1
 - $祝1
 - $竹1
@@ -119,6 +120,53 @@ W
     ==
   ====
 $$
+
+### 燭1 | _Chuk(7)_ [[zuk1]]
+
+$$
+R
+  ⽕ + 13
+U
+  U+71ED
+F
+  ==
+  - [[F1.63 燭]] 火燭
+  ==
+W
+  ====
+  - [[Page~35* 燭(7)]]
+    ==
+    - A candle;
+    - to illumine;
+    - _l(a/)p(9) chuk(7)_
+        [[laap6 zuk1 蠟燭]]
+        a wax candle, a candle;
+    - _(2)fo chuk(7)_
+        [[fo2 zuk1 火燭]]
+        a house on fire;
+    - _(4)yau chuk(7)_
+        [[jau4 zuk1 油燭]]
+        painted candles;
+    - _hon(3) chuk(7)_
+        [[hon3 zuk1 看燭]]
+        show candles;
+    - _(5)m(u/)i yat(9) (2)fo chuk(7) (2)ki (1)to_
+        [[mui5 jat6 fo2 zuk1 gei2 do1 每日火燭幾多]],
+        what are your daily expenses?
+    - _chuk(7) (1)f(a/)_
+        [[zuk1 faa1 燭花]],
+        spreading wick, an omen;
+    - _chuk(7) (4)t(')oi_
+        [[zuk1 toi4 燭臺]],
+        a candlestick;
+    - _(4)m(o\) (4)m(i/) pat(7) chuk(7)_
+        [[mou4 mei4 bat1 zuk1 無微不燭]]
+        lighted everywhere, to assist one's poor relations.
+    ==
+  ====
+$$
+
+<## TODO: 火燭 fo2 zuk1, 火燭車 fo2 zuk1 ce1  ##>
 
 ### 矚1 | _Chuk(7)_ [[zuk1]]
 
