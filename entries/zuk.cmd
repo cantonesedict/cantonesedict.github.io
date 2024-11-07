@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $竹1
+- $築1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -99,5 +100,39 @@ E
     ++
     1. The character component 𥫗. (Literally, "bamboo flower atop".)
     ++
+  ====
+$$
+
+### 築1 | _Chuk(7)_ [[zuk1]]
+
+$$
+R
+  ⽵ + 10
+U
+  U+7BC9
+F
+  ==
+  - [[F1.63 築]] 擣也築室築城
+  ==
+W
+  ====
+  - [[Page~34* 築(7)]]
+    ==
+    - To make adobie walls;
+    - to rear, to pile up earth;
+    - to build, to erect;
+    - _chuk(7) (4)ts(')(e/)ung_
+        [[zuk1 coeng4 築牆]],
+        to build a [wall];
+    - _chuk(7) (5)m(a/) (4)t(')au_
+        [[zuk1 maa5 tau4 築碼頭]],
+        to lay a jetty;
+    - _chuk(7) (4)ch(')(e/)ung (2)p(o\)_
+        [[zuk1 coeng4 bou2 築場圃]],
+        to lay out a kitchen-garden;
+    - _chuk(7) (4)t(')(i/)n (1)k(i/)_
+        [[zuk1 tin4 gei1 築田基]],
+        to raise dikes in or between fields.
+    ==
   ====
 $$
