@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zuk
-* %date-modified --> 2023-08-02
-* %copyright-prior-years -->
+* %date-modified --> 2024-11-07
+* %copyright-prior-years --> 2023--
 
 %%%
-
---{.modern}
-(From Page~34* (Chuk) and Page~598 (Tsuk) of the original onwards.)
---
 
 #{.williams} Chuk. Tsuk. [[zuk]]
 
@@ -21,3 +17,27 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Chuk. [[Page~34*]]
+  - Tsuk. [[Page~598]]
+  ==
+WP
+  ==
+  - Chuk <span class="modern">= [tɕok̚]</span>
+  - Tsuk <span class="modern">= [tsok̚]</span>
+  ==
+MP
+  ==
+  - zuk = [tsok̚], [tɕok̚] ((preferred))
+  ==
+$$
