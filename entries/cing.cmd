@@ -520,7 +520,7 @@ C
   ==
 E
   ====
-  - 【標青】 (biu1 ceng1):
+  - 【標青】 (biu1 ceng1): <## TODO: move under 標 biu1 ##>
     ++
     1. Outstanding, excellent.
     ++

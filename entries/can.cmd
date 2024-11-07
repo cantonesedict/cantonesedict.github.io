@@ -739,7 +739,7 @@ W
   ====
 E
   ====
-  - 【幫襯】 (bong1 can3):
+  - 【幫襯】 (bong1 can3): <## TODO: move under 幫 bong1 ##>
     ++
     1. To patronise (be a customer of a business).
     ++

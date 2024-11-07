@@ -195,7 +195,7 @@ C
   ==
 E
   ====
-  - 【話齋】 (waa6 zaai1):
+  - 【話齋】 (waa6 zaai1): <## TODO: move under 話 waa6 ##>
     ++
     1. Emphatic form of "[as he] said".
       ==

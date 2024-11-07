@@ -353,7 +353,7 @@ W
   ====
 E
   ====
-  - 【煙鏟】 (jin1 caan2):
+  - 【煙鏟】 (jin1 caan2): <## TODO: move under 煙 jin1 ##>
     ++
     1. A heavy smoker.
        ==
