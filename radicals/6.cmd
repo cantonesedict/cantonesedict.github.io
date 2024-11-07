@@ -75,6 +75,14 @@ For all radicals, see [Index of characters by radical](./).
       ==
       </nav>
   //
+    , 2
+    ,
+      <nav class="sideways">
+      ==
+      - $竺zuk1
+      ==
+      </nav>
+  //
     , 4
     ,
       <nav class="sideways">

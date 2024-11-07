@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $竹1
+- $竺1
 - $筑1
 - $築1
 ==
@@ -101,6 +102,29 @@ E
     ++
     1. The character component 𥫗. (Literally, "bamboo flower atop".)
     ++
+  ====
+$$
+
+### 竺1 | _Chuk(7)_ [[zuk1]]
+
+$$
+R
+  ⽵ + 2
+U
+  U+7AFA
+F
+  ==
+  - [[F1.63 竺]] 天竺國
+  ==
+W
+  ====
+  - [[Page~35* 竺(7)]]
+    ==
+    - A country;
+    - _(1)t(')(i/)n chuk(7) kwok(8)_
+        [[tin1 zuk1 gwok3 天竺國]]
+        India, or the land where Budha was born.
+    ==
   ====
 $$
 
