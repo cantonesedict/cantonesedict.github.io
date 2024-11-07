@@ -1038,7 +1038,7 @@ window.onload = applyFilter;
     , [捉伊人](/entries/zuk#cantonese-捉伊人)
   //
     , zuk1 zi6 sat1
-    , [捉字蝨](/entries/zi#cantonese-捉字蝨)
+    , [捉字蝨](/entries/zuk#cantonese-捉字蝨)
   //
     , zyu1 coeng4 fan2
     , [豬腸粉](/entries/coeng#cantonese-豬腸粉)

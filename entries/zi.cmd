@@ -4023,13 +4023,6 @@ W
         a mark, traces of writing.
     ==
   ====
-E
-  ====
-  - 【捉字蝨】 (zuk1 zi6 sat1):
-    ++
-    1. To nit-pick choice of words (or writing more generally).
-    ++
-  ====
 $$
 
 ### 寺6 | _Tsz'(6)_ [[zi6]]

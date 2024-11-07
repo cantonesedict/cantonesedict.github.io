@@ -159,6 +159,10 @@ E
     ++
     1. Hide and seek.
     ++
+  - 【捉字蝨】 (zuk1 zi6 sat1):
+    ++
+    1. To nit-pick choice of words (or writing more generally).
+    ++
   ====
 $$
 
