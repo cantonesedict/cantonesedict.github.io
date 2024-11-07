@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-11-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -597,15 +597,9 @@ W
 C
   ==
   - Fan Wan entry: Corrected 䩑 to 靷.
-  - In vernacular Cantonese, 鞦韆 is switched to 韆鞦, "thousand autumns".
+  - In Cantonese, 韆鞦 (cin1 cau1) "thousand autumns"
+    is preferred over 鞦韆 (cau1 cin1). See [韆鞦](cin#cantonese-韆鞦).
   ==
-E
-  ====
-  - 【韆鞦】 (cin1 cau1):
-    ++
-    1. A hanging-seat swing.
-    ++
-  ====
 $$
 
 ### 鰌1 | _(1)Ts(')au_ [[cau1]]

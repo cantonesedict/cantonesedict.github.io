@@ -375,7 +375,7 @@ window.onload = applyFilter;
     , [僭建](/entries/cim#cantonese-僭建)
   //
     , cin1 cau1
-    , [韆鞦](/entries/cau#cantonese-韆鞦)
+    , [韆鞦](/entries/cin#cantonese-韆鞦)
   //
     , cin4-2 ngan4-2
     , [錢銀](/entries/cin#cantonese-錢銀)

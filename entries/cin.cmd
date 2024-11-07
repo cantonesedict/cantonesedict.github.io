@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cin
-* %date-modified --> 2024-10-12
+* %date-modified --> 2024-11-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -307,9 +307,29 @@ W
   ====
 C
   ==
-  - In vernacular Cantonese, 鞦韆 is switched to 韆鞦, "thousand autumns".
-    See [韆鞦](cau#cantonese-韆鞦).
+  - In Cantonese, 韆鞦 (cin1 cau1) "thousand autumns"
+    is preferred over 鞦韆 (cau1 cin1). See below.
   ==
+E
+  ====
+  - 【韆鞦】 (cin1 cau1):
+    ++
+    1. A hanging-seat swing.
+    ++
+  ====
+  --
+  Whilst 鞦韆 (cau1 cin1) "autumns thousand"
+  is the form attested in Middle Chinese,
+  Kangxi quotes commentary saying that
+  千秋 (cin1 cau1) "thousand autumns" is the original (being a well-wish),
+  with 秋千 (cau1 cin1) "autumns thousand" being a verbal corruption
+  that later got spelt 鞦韆:
+  --
+  """"
+  ::K. (:韆:) [...]《廣韻》鞦韆繩戲也《集韻》鞦韆北方戲以習輕趫者\
+  《張有復古編》詞人高無際作鞦韆賦漢武帝後庭繩戲\
+  (:本云千秋:)祝壽詞也(:語譌轉爲秋千後人譌爲鞦韆:)::
+  """"
 $$
 
 
