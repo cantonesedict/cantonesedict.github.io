@@ -49,6 +49,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $囑1
 - $柷1
 - $祝1
 - $竹1
@@ -58,6 +59,42 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 囑1 | _Chuk(7)_ [[zuk1]]
+
+$$
+R
+  ⼝ + 21
+U
+  U+56D1
+F
+  ==
+  - [[F1.63 囑]] 囑括又吩咐也
+  ==
+W
+  ====
+  - [[Page~35* 囑(7)]]
+    ==
+    - To order, to bid, to enjoin;
+    - _chuk(7) f(u/)[(3)]_
+        [[zuk1 fu3 囑咐]]
+        to desire, to charge;
+    - _chuk(7) (1)sh(u:)_
+        [[zuk1 syu1 囑書]],
+        a will;
+    - _chuk(7) t(')ok(8)_
+        [[zuk1 tok3 囑託]]
+        to commission;
+    - _(5)m(a/)i chuk(7)_
+        [[maai5 zuk1 買囑]]
+        to bribe, to get evidence in one's favor.
+    ==
+  ====
+C
+  ==
+  - Williams' 囑咐: Changed _f(u/)(6)_ (fu6) to common reading _f(u/)(3)_ (fu3).
+  ==
+$$
 
 ### 柷1 | _Chuk(7)_ [[zuk1]]
 
