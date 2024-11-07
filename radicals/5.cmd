@@ -623,6 +623,14 @@ For all radicals, see [Index of characters by radical](./).
       - $瞻zim1
       ==
       </nav>
+  //
+    , 21
+    ,
+      <nav class="sideways">
+      ==
+      - $矚zuk1
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⽬-characters ##>

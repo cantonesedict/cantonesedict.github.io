@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $囑1
 - $柷1
+- $矚1
 - $祝1
 - $竹1
 - $竺1
@@ -115,6 +116,27 @@ W
     - _chuk(7) (5)(u:)_
         [[zuk1 jyu5 柷圉]],
         instruments to direct a band.
+    ==
+  ====
+$$
+
+### 矚1 | _Chuk(7)_ [[zuk1]]
+
+$$
+R
+  ⽬ + 21
+U
+  U+77DA
+F
+  ==
+  - [[F1.63 矚]] 視之甚也
+  ==
+W
+  ====
+  - [[Page~35* 矚(7)]]
+    ==
+    - To gaze, to look earnestly;
+    - to fix the eyes on.
     ==
   ====
 $$
