@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $竹1
+- $筑1
 - $築1
 ==
 </nav>
@@ -100,6 +101,27 @@ E
     ++
     1. The character component 𥫗. (Literally, "bamboo flower atop".)
     ++
+  ====
+$$
+
+### 筑1 | _Chuk(7)_ [[zuk1]]
+
+$$
+R
+  ⽵ + 6
+U
+  U+7B51
+F
+  ==
+  - [[F1.64 筑]] 擊筑
+  ==
+W
+  ====
+  - [[Page~35* 筑(7)]]
+    ==
+    - A sort of bamboo dulcimer with 13~cords,
+      used in worship at the municipal temple.
+    ==
   ====
 $$
 
