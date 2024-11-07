@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $柷1
+- $祝1
 - $竹1
 - $竺1
 - $筑1
@@ -77,6 +78,48 @@ W
     - _chuk(7) (5)(u:)_
         [[zuk1 jyu5 柷圉]],
         instruments to direct a band.
+    ==
+  ====
+$$
+
+### 祝1 | _Chuk(7)_ [[zuk1]]
+
+$$
+R
+  ⽰ + 5
+U
+  U+795D
+F
+  ==
+  - [[F1.63 祝]] 禱祝又祝壽又祝融火神也
+  ==
+W
+  ====
+  - [[Page~35* 祝(7)]]
+    ==
+    - To pray, to supplicate;
+    - to recite prayers;
+    - _chuk(7) (2)t(')(o\)_
+        [[zuk1 tou2 祝禱]],
+        to pray;
+    - _chuk(7) (4)man_
+        [[zuk1 man4 祝文]],
+        a prayer;
+    - _chuk(7) fuk(7)_
+        [[zuk1 fuk1 祝福]]
+        to bless;
+    - _chuk(7) k(o\)(3)_
+        [[zuk1 gou3 祝告]]
+        to implore;
+    - _tuk(9) chuk(7) (1)k(u/)n_
+        [[zuk6 zuk1 gun1 讀祝官]],
+        one who reads the prayers;
+    - _chuk(7) shau(6)_
+        [[zuk1 sau6 祝壽]]
+        to congratulate on one's birthday;
+    - _mi(u/)(6) chuk(7)_
+        [[miu6 zuk1 廟祝]]
+        an acolyth in the temples.
     ==
   ====
 $$
