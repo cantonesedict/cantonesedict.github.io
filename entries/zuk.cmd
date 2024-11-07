@@ -58,6 +58,7 @@ $$
 - $竺1
 - $筑1
 - $築1
+- $粥1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -355,4 +356,45 @@ W
         to raise dikes in or between fields.
     ==
   ====
+$$
+
+### 粥1 | _Chuk(7)_ [[zuk1]]
+
+$$
+R
+  ⽶ + 6
+U
+  U+7CA5
+F
+  ==
+  - [[F1.63 粥]] ::[糜]粥::
+  ==
+W
+  ====
+  - [[Page~35* 粥(7)]]
+    ==
+    - Congee;
+    - gruel;
+    - _(1)p(o\) chuk(7)_
+        [[bou1 zuk1 煲粥]]
+        to boil congee;
+    - _(1)ch(u:) yuk(9) chuk(7)_
+        [[zyu1 juk6 zuk1 豬肉粥]]
+        a rice porridge with bits of pork in it;
+    - _chuk(7) (2)yam_
+        [[zuk1 jam2 粥飲]],
+        gruel of congee.
+    ==
+    --
+    Also read _yuk(9)_ [[juk6]] [[**see $粥juk6**]].
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 縻 to 糜.
+  ==
+S
+  ==
+  - $粥juk6 (TODO)
+  ==
 $$

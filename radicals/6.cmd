@@ -246,6 +246,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $粢zi1
       - $粧zong1
+      - $粥zuk1
       ==
       </nav>
   //
