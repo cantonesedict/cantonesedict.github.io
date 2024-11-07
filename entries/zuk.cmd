@@ -49,6 +49,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $柷1
 - $竹1
 - $竺1
 - $筑1
@@ -56,6 +57,29 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 柷1 | _Chuk(7)_ [[zuk1]]
+
+$$
+R
+  ⽊ + 5
+U
+  U+67F7
+F
+  ==
+  - [[F1.63 柷]] 柷圉樂器也
+  ==
+W
+  ====
+  - [[Page~35* 柷(7)]]
+    ==
+    - A sort of tub with a stick in the centre;
+    - _chuk(7) (5)(u:)_
+        [[zuk1 jyu5 柷圉]],
+        instruments to direct a band.
+    ==
+  ====
+$$
 
 ### 竹1 | _Chuk(7)_ [[zuk1]]
 
