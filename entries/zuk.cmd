@@ -93,4 +93,11 @@ W
         a kind of large fireworks.
     ==
   ====
+E
+  ====
+  - 【竹花頭】 (zuk1 faa1 tau4-2):
+    ++
+    1. The character component 𥫗. (Literally, "bamboo flower atop".)
+    ++
+  ====
 $$
