@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $囑1
+- $捉1
 - $柷1
 - $燭1
 - $矚1
@@ -97,6 +98,68 @@ C
   ==
   - Williams' 囑咐: Changed _f(u/)(6)_ (fu6) to common reading _f(u/)(3)_ (fu3).
   ==
+$$
+
+### 捉1 | _Chuk(7)_ [[zuk1]]
+
+$$
+R
+  ⼿ + 7
+U
+  U+6349
+V
+  ==
+  - zuk3 (uncommon)
+  ==
+F
+  ==
+  - [[F1.94 ::[捉]:: _Ch(e/)uk(8)_ (zoek3)]] ::捕也[搦]也::
+  ==
+W
+  ====
+  - [[Page~35* 捉(7)]]
+    ==
+    - To seize, to grasp, to gripe and hold;
+    - to catch;
+    - _chuk(7) (4)n(a/)_
+        [[zuk1 naa4 捉拿]],
+        to pursue, for the purpose of seizing;
+    - _chuk(7) wok(9)_
+        [[zuk1 wok6 捉獲]]
+        to arrest a criminal;
+    - _chuk(7) yung(6) (4)shan_
+        [[zuk1 jung6 san4 捉用神]],
+        to divine;
+    - _chuk(7) (5)l(o\) (2)sh(u:)_
+        [[zuk1 lou5 syu2 捉老鼠]],
+        to catch rats;
+    - _chuk(7) (1)t(o\)_
+        [[zuk1 dou1 捉刀]],
+        'to grasp the knife,'
+        to countenance or help one, to inform the government.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword ⿰木足 to 捉, and corrected 榒 to 搦.
+  ==
+E
+  ====
+  - 【捉】 (zuk1):
+    ++
+    1. To play a board game.
+       ==
+       - 捉棋 (zuk1 kei4-2): "Play chess."
+       - 捉圍棋 (zuk1 wai4 kei4-2): "Play surrounding-chess" (i.e. go).
+       - 捉一鋪 (zuk1 jat1 pou1): "Play one game [of chess]."
+       - 唔識捉 (m4 sik1 zuk1): "[I] don't know [how to] play."
+       ==
+    ++
+  - 【捉伊人】 (zuk1 ji1 jan4-1):
+    ++
+    1. Hide and seek.
+    ++
+  ====
 $$
 
 ### 柷1 | _Chuk(7)_ [[zuk1]]

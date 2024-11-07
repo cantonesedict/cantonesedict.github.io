@@ -1028,8 +1028,14 @@ window.onload = applyFilter;
     , zou6 me1
     , [做咩](/entries/zou#cantonese-做咩)
   //
+    , zuk1
+    , [捉](/entries/zuk#cantonese-捉)
+  //
     , zuk1 faa1 tau4-2
     , [竹花頭](/entries/zuk#cantonese-竹花頭)
+  //
+    , zuk1 ji1 jan4-1
+    , [捉伊人](/entries/zuk#cantonese-捉伊人)
   //
     , zuk1 zi6 sat1
     , [捉字蝨](/entries/zi#cantonese-捉字蝨)
