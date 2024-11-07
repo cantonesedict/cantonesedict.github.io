@@ -318,6 +318,10 @@ W
   ====
 E
   ====
+  - 【狗爪邊】 (gau2 zaau2 bin1):
+    ++
+    1. The character component 犭. (Literally, "dog's paw beside".)
+    ++
   - 【狗爪頭】 (gau2 zaau2 tau4):
     ++
     1. The character component 爫. (Literally, "dog's paw atop".)
