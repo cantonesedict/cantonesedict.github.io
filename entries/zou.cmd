@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zou
-* %date-modified --> 2024-10-05
+* %date-modified --> 2024-11-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -665,6 +665,8 @@ C
   - Williams' "used for the next": I have not seen 做 used for 造.
   - Williams' 做生意: Changed _(1)shang_ (sang1)
     to vernacular reading _(1)sh(a/)ng_ (saang1).
+  - Williams' 你做得唔做得: This is dated syntax. In modern Cantonese,
+    it would be 你做唔做得, with only the verb hugging the negative.
   - Williams' 做得唔鹹唔淡: Corrected _t(a/)m(6)_ (daam6 去聲) to _(5)t(')(a/)m_ (taam5 上聲).
   ==
 E

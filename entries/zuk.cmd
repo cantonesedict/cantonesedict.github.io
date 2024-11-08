@@ -541,7 +541,8 @@ W
 C
   ==
   - Williams' 不足道: More not worth speaking of, than beyond description.
-  - Williams' 足數唔足: This is dated syntax; the modern word order is 足唔足數.
+  - Williams' 足數唔足: This is dated syntax. In modern Cantonese,
+    it would be 足唔足數, with only the verb hugging the negative.
   ==
 S
   ==
