@@ -535,7 +535,7 @@ W
         whole dollars alone are reckoned to be full coin.
     ==
     --
-    Read _ts(u:)(6)_; [[**see $足zeoi6**]].
+    Read _ts(u:)(6)_ [[zeoi6]]; [[**see $足zeoi6**]].
     --
   ====
 C
@@ -546,7 +546,7 @@ C
   ==
 S
   ==
-  - $足zeoi3 (TODO)
+  - $足zeoi3
   - $足zeoi6 (TODO)
   ==
 $$

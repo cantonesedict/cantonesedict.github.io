@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2024-10-16
+* %date-modified --> 2024-11-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -815,6 +815,7 @@ $$
 - $惴3
 - $沮3
 - $綴3
+- $足3
 - $醉3
 ==
 </nav>
@@ -949,6 +950,43 @@ S
   - $綴zeoi6
   - $綴zyut3 (TODO)
   - $綴zyut6 (TODO)
+  ==
+$$
+
+###+ 足3 | _Ts(u:)(3)_ (zeoi3)
+
+$$
+R
+  ⾜ + 0
+U
+  U+8DB3
+V
+  ==
+  - zeoi6 (Fan Wan)
+  ==
+F
+  ==
+  - [[F1.48 足 _Ts(u:)(6)_ (zeoi6)]] 足恭恭之過也
+  ==
+W
+  ====
+  - [[Page~598 足(7)]]
+    --
+    Read _ts(u:)(6)_ [[zeoi6]] [[here normalised to _Ts(u:)(3)_ (zeoi3)]];
+    --
+    ==
+    - to act respectfully in order to flatter one;
+    - careful of one's words;
+    - to increase;
+    - _ts(u:)[(3)] (1)kung (1)(u:) (4)yan_
+        [[zeoi3 gung1 jyu1 jan4 足恭於人]],
+        to humor and flatter people.
+    ==
+  ====
+S
+  ==
+  - $足zeoi6 (TODO)
+  - $足zuk1
   ==
 $$
 
