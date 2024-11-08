@@ -475,6 +475,7 @@ $$
 =={.modern}
 - $濁6
 - $蓫6
+- $躅6
 - $逐6
 ==
 </nav>
@@ -536,6 +537,29 @@ C
   ==
   - Fan Wan entry: Normalised headword ⿺辶⿱艹豕 to 蓫.
   ==
+$$
+
+### 躅6 | _Chuk(9)_ [[zuk6]]
+
+$$
+R
+  ⾜ + 13
+U
+  U+8E85
+F
+  ==
+  - [[F1.66 躅]] 蹢躅行貌
+  ==
+W
+  ====
+  - [[Page~35* 躅(9)]]
+    ==
+    - To walk unsteady;
+    - _ch(a/)k(9) chuk(9)_
+        [[zaak6 zuk6 躑躅]]
+        irresolute, to walk unevenly.
+    ==
+  ====
 $$
 
 ### 逐6 | _Chuk(9)_ [[zuk6]]
