@@ -477,6 +477,7 @@ $$
 - $濁6
 - $蓫6
 - $躅6
+- $軸6
 - $逐6
 ==
 </nav>
@@ -593,6 +594,40 @@ W
         irresolute, to walk unevenly.
     ==
   ====
+$$
+
+### 軸6 | _Chuk(9)_ [[zuk6]]
+
+$$
+R
+  ⾞ + 5
+U
+  U+8EF8
+F
+  ==
+  - [[F1.66 軸]] ::車軸又[盡]也::
+  ==
+W
+  ====
+  - [[Page~35* 軸(9)]]
+    ==
+    - The end of an axle or nave;
+    - a pivot, centre of motion;
+    - the roller of a map;
+    - a drawing, a picture;
+    - _tsai(3) chuk(9)_
+        [[zai3 zuk6 祭軸]]
+        a eulogistic inscription for a dead man
+        suspended near the coffin before burial;
+    - _w(a/)(6) (1)s(a/)m chuk(9)_
+        [[waa6-2 saam1 zuk6 畫三軸]]
+        three drawings.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected missing 灬 in 盡.
+  ==
 $$
 
 ### 逐6 | _Chuk(9)_ [[zuk6]]

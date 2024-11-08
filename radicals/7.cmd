@@ -807,6 +807,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $軫can2
       - $軹zi2
+      - $軸zuk6
       ==
       </nav>
   //
