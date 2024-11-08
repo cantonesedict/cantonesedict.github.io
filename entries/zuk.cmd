@@ -552,11 +552,12 @@ S
 $$
 
 
-##{#6 .williams} Chuk(9) [[zuk6 陽入]]
+##{#6 .williams} Chuk(9) Tsuk(9) [[zuk6 陽入]]
 
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $俗6
 - $妯6
 - $濁6
 - $蓫6
@@ -566,6 +567,56 @@ $$
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 俗6 | _Tsuk(9)_ [[zuk6]]
+
+$$
+R
+  ⼈ + 7
+U
+  U+4FD7
+F
+  ==
+  - [[F1.66 俗]] 風俗
+  ==
+W
+  ====
+  - [[Page~599 俗(9)]]
+    ==
+    - What common people desire;
+    - inelegant, uneducated, common, vulgar, unpolished, rude;
+    - the groveling, common, low, business of life;
+    - the laity;
+    - _tsuk(9) w(a/)(6)_
+        [[zuk6 waa6-2 俗話]]
+        common talk, colloquial, in distinction from the book style;
+    - _(1)fung tsuk(9)_
+        [[fung1 zuk6 風俗]]
+        manners, customs of a place;
+    - _shai(3) tsuk(9)_
+        [[sai3 zuk6 世俗]]
+        manners of the age;
+    - _tsuk(9) tsz'(6) (5)ng(a/)n_
+        [[zuk6 zi6 ngaan5 俗字眼]],
+        a vulgar expression;
+    - _w(a/)n tsuk(9)_
+        [[waan4 zuk6 還俗]]
+        to again become a layman;
+    - _(4)ch(')an tsuk(9)_
+        [[can4 zuk6 塵俗]]
+        the busy world;
+    - _tsuk(9) (1)k(a/)_
+        [[zuk6 gaa1 俗家]],
+        the laity;
+    - _t(')(u:)t(8) tsuk(9)_
+        [[tyut3 zuk6 脫俗]]
+        to eschew vulgarity;
+    - _tsuk(9) (4)yan_
+        [[zuk6 jan4 俗人]],
+        a vulgar person.
+    ==
+  ====
+$$
 
 ### 妯6 | _Chuk(9)_ [[zuk6]]
 
