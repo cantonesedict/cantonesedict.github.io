@@ -473,10 +473,35 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $蓫6
 - $逐6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 蓫6 | _Chuk(9)_ [[zuk6]]
+
+$$
+R
+  ⾋ + 11
+U
+  U+84EB
+F
+  ==
+  - [[F1.66 ::[蓫]::]] 追逐驅逐斥逐
+  ==
+W
+  ====
+  - [[Page~35* 蓫(9)]]
+    ==
+    - Weeds which are hard to root out, such as the dock or thistles.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised headword ⿺辶⿱艹豕 to 蓫.
+  ==
+$$
 
 ### 逐6 | _Chuk(9)_ [[zuk6]]
 
