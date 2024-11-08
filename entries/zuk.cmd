@@ -473,11 +473,46 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $濁6
 - $蓫6
 - $逐6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 濁6 | _Chuk(9)_ [[zuk6]]
+
+$$
+R
+  ⽔ + 13
+U
+  U+6FC1
+F
+  ==
+  - [[F1.66 濁]] 混濁不淸也
+  ==
+W
+  ====
+  - [[Page~35* 濁(9)]]
+    ==
+    - Muddy, turbid, thick, foul;
+    - impure, vicious;
+    - profligate;
+    - _chuk(9) (1)ts(')ing_
+        [[zuk6 cing1 濁清]],
+        corrupt --- pure, foul --- clear;
+    - _chuk(9) (4)yau_
+        [[zuk6 jau4 濁油]],
+        thick oil;
+    - _chuk(9) (4)lau_
+        [[zuk6 lau4 濁流]],
+        the rabble;
+    - _chuk(9) (2)shui_
+        [[zuk6 seoi2 濁水]],
+        turbid water.
+    ==
+  ====
+$$
 
 ### 蓫6 | _Chuk(9)_ [[zuk6]]
 
