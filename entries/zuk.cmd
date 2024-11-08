@@ -547,7 +547,7 @@ C
 S
   ==
   - $足zeoi3
-  - $足zeoi6 (TODO)
+  - $足zeoi6
   ==
 $$
 

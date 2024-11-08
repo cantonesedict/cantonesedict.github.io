@@ -972,6 +972,9 @@ W
   ====
   - [[Page~598 足(7)]]
     --
+    [[...]]
+    --
+    --
     Read _ts(u:)(6)_ [[zeoi6]] [[here normalised to _Ts(u:)(3)_ (zeoi3)]];
     --
     ==
@@ -985,7 +988,7 @@ W
   ====
 S
   ==
-  - $足zeoi6 (TODO)
+  - $足zeoi6
   - $足zuk1
   ==
 $$
@@ -1057,6 +1060,7 @@ $$
 - $聚6
 - $藇6
 - $贅6
+- $足6
 - $辠6
 - $隊6
 - $鱮6
@@ -1462,6 +1466,32 @@ W
 C
   ==
   - Fan Wan entry: Corrected 𢪱 (⿰扌勿) to 物.
+  ==
+$$
+
+### 足6 | _Ts(u:)(6)_ [[zeoi6]]
+
+$$.
+R
+  ⾜ + 0
+U
+  U+8DB3
+F
+  ==
+  - [[F1.48 足]] 足恭恭之過也
+  ==
+W
+  ====
+  - [[Page~598 足(7)]]
+    --
+    Read _ts(u:)(6)_ [[zeoi6]];
+    [[a reading variation. **See $足zeoi3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $足zeoi3
+  - $足zuk1
   ==
 $$
 
