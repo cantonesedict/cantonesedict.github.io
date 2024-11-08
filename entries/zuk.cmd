@@ -473,6 +473,7 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $妯6
 - $濁6
 - $蓫6
 - $躅6
@@ -480,6 +481,38 @@ $$
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 妯6 | _Chuk(9)_ [[zuk6]]
+
+$$
+R
+  ⼥ + 5
+U
+  U+59AF
+V
+  ==
+  - suk6 (Fan Wan)
+  ==
+F
+  ==
+  - [[F1.66 妯 _Shuk(9)_ (suk6)]] 妯娌嬸姆[曰]妯娌
+  ==
+W
+  ====
+  - [[Page~35* 妯(9)]]
+    ==
+    - Two sisters-in-law call each other _chuk(9) (5)l(i/)_ [[zuk6 lei5 妯娌]];
+    - also called _chau(3) (5)l(i/)_ [[zau3 lei5 妯娌]] in Canton.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 口 to 曰.
+  - Williams' "also called":
+    I suspect _chau(3)_ (zau3) is a typo for _chau(6)_ (zau6)^,
+    which would be a misreading based on analogy with 袖.
+  ==
+$$
 
 ### 濁6 | _Chuk(9)_ [[zuk6]]
 
