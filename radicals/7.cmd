@@ -643,6 +643,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Character entry links
 |:
   //
+    , 0
+    ,
+      <nav class="sideways">
+      ==
+      - $足zuk1
+      ==
+      </nav>
+  //
     , 4
     ,
       <nav class="sideways">

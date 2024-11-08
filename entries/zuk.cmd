@@ -45,7 +45,7 @@ MP
 $$
 
 
-##{#1 .williams} Chuk(7) [[zuk1 高陰入]]
+##{#1 .williams} Chuk(7) Tsuk(7) [[zuk1 高陰入]]
 
 <## tone-1-characters ##>
 <nav class="sideways">
@@ -61,6 +61,7 @@ $$
 - $筑1
 - $築1
 - $粥1
+- $足1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -464,6 +465,88 @@ C
 S
   ==
   - $粥juk6 (TODO)
+  ==
+$$
+
+### 足1 | _Tsuk(7)_ [[zuk1]]
+
+$$
+R
+  ⾜ + 0
+U
+  U+8DB3
+F
+  ==
+  - [[F1.65 足]] 脚也備足足完足
+  ==
+W
+  ====
+  - [[Page~598 足(7)]]
+    ==
+    - The leg;
+    - the foot;
+    - enough, sufficient;
+    - full, satiated, no deficiency;
+    - entirely, in full, wholly;
+    - to satisfy, to please;
+    - to satisfy the wants of;
+    - pure, as silver;
+    - actions, conduct;
+    - the 137th~radical of characters relating to going;
+    - _shap(9) tsuk(7)_
+        [[sap6 zuk1 十足]]
+        complete in all respects;
+    - _(2)shau tsuk(7)_
+        [[sau2 zuk1 手足]]
+        hands and feet, brothers;
+    - _tsuk(7) (5)ling_
+        [[zuk1 ling5 足領]],
+        enough! no more, I beg of you!
+    - _tsz'(6) tsuk(7)_
+        [[zi6 zuk1 自足]]
+        self-sufficient, conceited;
+    - _tsuk(7) tsuk(7) (2)wan (5)n(i/) p(u/)n(3) yat(9)_
+        [[zuk1 zuk1 wan2 nei5 bun3 jat6 足足搵你一日]]
+        I've annoyed you half a day;
+    - _shat(7) tsuk(7)_
+        [[sat1 zuk1 失足]]
+        to slip and fall;
+        to make a blunder, a faux-pas;
+    - _tsuk(7) h(a/)(6)_
+        [[zuk1 haa6 足下]]
+        your presence, said to a friend;
+    - _(4)'m (1)ch(i/) tsuk(7)_
+        [[m4 zi1 zuk1 唔知足]]
+        discontented, never satisfied;
+    - _pat(7) tsuk(7) t(o\)(6)_
+        [[bat1 zuk1 dou6 不足道]]
+        beyond description, can not be spoken of;
+    - _tsuk(7) sh(o\)(3) (4)'m tsuk(7)_
+        [[zuk1 sou3 m4 zuk1 足數唔足]]
+        is the number just right?
+    - _(1)fung tsuk(7)_
+        [[fung1 zuk1 豐足]]
+        prosperous, to the heart's content;
+    - _(4)yan (1)sam (5)m(o\) (i/)m(3) tsuk(7)_
+        [[jan4 sam1 mou5 jim3 zuk1 人心冇饜足]]
+        the heart is never satisfied;
+    - _(4)(u:)n tong(3) tsuk(7) (2)tsz'_
+        [[jyun4 dong3 zuk1 zi2 圓當足子]]
+        whole dollars alone are reckoned to be full coin.
+    ==
+    --
+    Read _ts(u:)(6)_; [[**see $足zeoi6**]].
+    --
+  ====
+C
+  ==
+  - Williams' 不足道: More not worth speaking of, than beyond description.
+  - Williams' 足數唔足: This is dated syntax; the modern word order is 足唔足數.
+  ==
+S
+  ==
+  - $足zeoi3 (TODO)
+  - $足zeoi6 (TODO)
   ==
 $$
 
