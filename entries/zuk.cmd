@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zuk
-* %date-modified --> 2024-11-07
+* %date-modified --> 2024-11-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zuk1](#1)
+- [zuk6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -464,4 +465,56 @@ S
   ==
   - $粥juk6 (TODO)
   ==
+$$
+
+
+##{#6 .williams} Chuk(9) [[zuk6 陽入]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $逐6
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 逐6 | _Chuk(9)_ [[zuk6]]
+
+$$
+R
+  ⾡ + 7
+U
+  U+9010
+F
+  ==
+  - [[F1.66 逐]] 追逐驅逐斥逐
+  ==
+W
+  ====
+  - [[Page~35* 逐(9)]]
+    ==
+    - To push or drive out;
+    - to order away;
+    - to expel;
+    - to take up in order;
+    - _chuk(9) ch(')ut(7)_
+        [[zuk6 ceoi1 逐出]]
+        to drive out;
+    - _chuk(9) m(a/)(6)_
+        [[zuk6 maa6 逐罵]]
+        to drive out with harsh language;
+    - _chuk(9) (2)shi(u/) tsun(3) p(o\)(6)_
+        [[zuk6 siu2 zeon3 bou6 逐少進步]]
+        to advance gradually, to learn step by step;
+    - _chuk(9) yat(7) chuk(9) (i/)(6)_
+        [[zuk6 jat1 zuk6 ji6 逐一逐二]]
+        to take up one by one;
+    - _chuk(9) chuk(9)_
+        [[zuk6 zuk6 逐逐]]
+        in earnest;
+    - _(2)kon chuk(9)_
+        [[gon2 zuk6 趕逐]]
+        to drive out, to eject.
+    ==
+  ====
 $$
