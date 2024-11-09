@@ -478,7 +478,7 @@ class Updater:
     @staticmethod
     def extract_williams_hs(line):
         clean_line = re.sub(
-            pattern='< [/]? ins .*? > | [._\[\]^] | \([1-9]\)',
+            pattern=r'< [/]? ins .*? > | [._\[\]^] | \([1-9]\)',
             repl='',
             string=line,
             flags=re.VERBOSE,
