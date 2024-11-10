@@ -561,7 +561,9 @@ $$
 - $妯6
 - $族6
 - $濁6
+- $簇6
 - $蓫6
+- $蔟6
 - $躅6
 - $軸6
 - $逐6
@@ -729,6 +731,35 @@ W
   ====
 $$
 
+### 簇6 | _Tsuk(9)_ [[zuk6]]
+
+$$.
+R
+  ⽵ + 11
+U
+  U+7C07
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~599 蔟(9)簇(9)]]
+    --
+    These two [[蔟, 簇]] are used interchangeably.
+    --
+    --
+    [[Reading variation. **See $簇cuk1 for the canonical entry.**]]
+    --
+    --
+    Also read _ts(')au(3)_ [[cau3]] [[**see $簇cau3**]].
+    --
+  ====
+S
+  ==
+  - $簇cau3 (TODO)
+  - $簇cuk1 (TODO)
+  ==
+$$
+
 ### 蓫6 | _Chuk(9)_ [[zuk6]]
 
 $$
@@ -750,6 +781,37 @@ W
 C
   ==
   - Fan Wan entry: Normalised headword ⿺辶⿱艹豕 to 蓫.
+  ==
+$$
+
+### 蔟6 | _Tsuk(9)_ [[zuk6]]
+
+$$.
+R
+  ⾋ + 11
+U
+  U+851F
+F
+  ==
+  - [[F1.66 蔟]] 聚也又音秀
+  ==
+W
+  ====
+  - [[Page~599 蔟(9)簇(9)]]
+    --
+    These two [[蔟, 簇]] are used interchangeably.
+    --
+    --
+    [[Reading variation. **See $蔟cuk1 for the canonical entry.**]]
+    --
+    --
+    Also read _ts(')au(3)_ [[cau3]] [[**see $蔟cau3**]].
+    --
+  ====
+S
+  ==
+  - $蔟cau3 (TODO)
+  - $蔟cuk1 (TODO)
   ==
 $$
 
