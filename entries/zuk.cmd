@@ -562,6 +562,7 @@ $$
 - $族6
 - $濁6
 - $簇6
+- $續6
 - $蓫6
 - $蔟6
 - $躅6
@@ -756,6 +757,51 @@ S
   ==
   - $簇cau3
   - $簇cuk1 (TODO)
+  ==
+$$
+
+### 續6 | _Tsuk(9)_ [[zuk6]]
+
+$$
+R
+  ⽷ + 15
+U
+  U+7E8C
+H
+  May appear as either ⿰糹賣 (assumed here) or ⿰糹𧶠,
+  depending on the font.
+W
+  ====
+  - [[Page~599 續(9)]]
+    ==
+    - To continue, to join on, to succeed;
+    - to keep up;
+    - tied together, ligatured;
+    - following, continuous, successively;
+    - carrying on what another has begun;
+    - _ts(i/)p(8) tsuk(9)_
+        [[zip3 zuk6 接續]]
+        to join on, as a short cord;
+        to take up and carry on;
+    - _tsuk(9) [(2)]ts(')(u:)_ [[zuk6 ceoi2 續娶]]^
+        or
+      _tsuk(9) (4)(i/)n_ [[zuk6 jyin4 續弦]],
+        to join the guitar string---to take a second wife;
+    - _luk(9) tsuk(9) (5)yau (4)lai_
+        [[luk6 zuk6 jau5 lai4 陸續有嚟]],
+        coming one after another;
+    - _(4)ch(')(u:)n tsuk(9)_
+        [[cyun4 zuk6 傳續]]
+        to continue a family;
+    - _tsuk(9) ch(u:)(6) (5)m(i/) ts(o\)(6)_
+        [[zuk6 zyu6 mei5 zou6 續住？做]]
+        to work by spells.
+    ==
+  ====
+C
+  ==
+  - Williams' 續娶: Changed _ts(')(u:)(3)_ (ceoi3) to common reading _(2)ts(')(u:)_ (ceoi2).
+  - Williams' 續娶, 續弦: Specifically, to remarry after becoming a widower.
   ==
 $$
 
