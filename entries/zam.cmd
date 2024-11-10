@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2024-10-08
+* %date-modified --> 2024-11-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -436,7 +436,7 @@ W
     ==
     - A pillow; a stake;
     - a crossbar in a carriage;
-    - [[see $枕zam3 for verb senses]]
+    - [[see $枕zam3 for verb senses]];
     - _(2)cham (1)p(i/)n_
         [[zam2 bin1 枕邊]],
         in bed, in private;
@@ -524,7 +524,7 @@ W
   ====
   - [[Page~14|n57 (2)枕 _(2)Cham_ (zam2); here normalised to _Cham(3)_ (zam3)]]
     ==
-    - [[See $枕zam2 for noun senses]]
+    - [[See $枕zam2 for noun senses]];
     - to pillow on, to lie near to;
     - contiguous, adjacent, lying on;
     - _(2)sz' (2)ch(e/) (1)s(e/)ung cham[(3)] tsik(9)_

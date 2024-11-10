@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2024-10-22
+* %date-modified --> 2024-11-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -437,7 +437,7 @@ W
     - Hunchbacked;
     - to esteem lightly, to regard as inferior;
     - second, next to, junior, inferior;
-    - [[see $阿aa3 for name prefix senses]]
+    - [[see $阿aa3 for name prefix senses]];
     - _pat(7) (a/)(3) (1)(u:) (4)yan_
         [[bat1 aa3 jyu1 jan4 不亞於人]],
         not inferior to others.
@@ -592,7 +592,7 @@ W
   ====
   - [[Page~2 亞(3)阿(3)]]
     ==
-    - [[see $亞aa3 for "second/inferior" senses]]
+    - [[see $亞aa3 for "second/inferior" senses]];
     - a syllable prefixed to proper names,
       for which the second [[$阿3]] is often used;
     - it also impersonates epithets;

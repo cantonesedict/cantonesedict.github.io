@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2024-10-08
+* %date-modified --> 2024-11-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -469,7 +469,7 @@ W
   - [[Page~549 濟(3) _Tsai(3)_ (zai3); here corrected to _(2)Tsai_ (zai2)]]
     ==
     - Name of a river;
-    - [[see $濟zai3 for senses read in departing tone]]
+    - [[see $濟zai3 for senses read in departing tone]];
     - _[(2)]tsai [(2)]tsai_
         [[zai2 zai2 濟濟]]^
         abundant; a concourse.
@@ -733,7 +733,7 @@ W
   ====
   - [[Page~549 濟(3)]]
     ==
-    - [[See $濟zai2 for senses read in rising tone]]
+    - [[See $濟zai2 for senses read in rising tone]];
     - to assist, to succor, to benefit;
     - to furnish gratuitous aid;
     - to relieve;

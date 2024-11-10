@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2024-10-08
+* %date-modified --> 2024-11-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -700,7 +700,7 @@ W
     ==
     - The guard on the hilt of a sword;
     - a dagger, a dirk;
-    - [[see $鐔taam4 for "sword's edge" sense]]
+    - [[see $鐔taam4 for "sword's edge" sense]].
     <##
     - the edge of a sword.
     ##>

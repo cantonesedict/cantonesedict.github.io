@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2024-10-16
+* %date-modified --> 2024-11-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -124,7 +124,7 @@ W
   ====
   - [[Page~8 (1)汊(1)岔]]
     ==
-    - [...] roads diverging;
+    - [[...]] roads diverging;
     - _(1)s(a/)m (1)ch(')(a/) l(o\)(6) (2)hau_
         [[saam1 caa1 lou6 hau2 三岔路口]],
         a trivium;
@@ -249,8 +249,8 @@ W
   ====
   - [[Page~8 (1)汊(1)岔]]
     ==
-    - Streams [...] diverging;
-    - [[see $岔caa1 for "branching road" sense]]
+    - Streams [[...]] diverging;
+    - [[see $岔caa1 for "branching road" sense]];
     - _(1)s(a/)m (1)ch(')(a/) (4)ho_
         [[saam1 caa1 ho4 三汊河]],
         a river in Li(a/)utung [[遼東]].

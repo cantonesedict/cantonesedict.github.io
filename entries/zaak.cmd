@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2024-10-08
+* %date-modified --> 2024-11-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -415,7 +415,7 @@ W
     - To reprove, to reprimand, to blame;
     - to punish, to fine;
     - to sustain, to be responsible for, to have charge of;
-    - [[see $矺zaak3 for "weight/crush" senses]]
+    - [[see $矺zaak3 for "weight/crush" senses]];
     - to ask, to demand;
     - _ch(a/)k(8) fat(9)_
         [[zaak3 fat6 責罰]]

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2024-11-06
+* %date-modified --> 2024-11-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1400,7 +1400,7 @@ W
     - A mallet, a beater, a club, a bludgeon;
     - a beetle;
     - to beat, to strike;
-    - [[see $槌deoi1 for "throw" senses]]; [[TODO]]
+    - [[see $槌deoi1 for "throw" senses]];
     - _(4)ch(')ui (2)k(u/)_
         [[ceoi4 gu2 槌鼓]],
         to drum;

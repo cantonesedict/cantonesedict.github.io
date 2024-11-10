@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2024-10-08
+* %date-modified --> 2024-11-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -236,7 +236,7 @@ W
     - _(1)ts(')an pat(7) (2)s(e/)_
         [[can1 bat1 se2 親筆寫]],
         wrote it myself;
-    - [[see $嚫can1 for vernacular senses]]
+    - [[see $嚫can1 for vernacular senses]];
     - _(1)ts(')an (i/)t(9)_
         [[can1 jit6 親熱]]
         very intimate;
