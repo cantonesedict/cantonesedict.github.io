@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zok
-* %date-modified --> 2024-10-06
+* %date-modified --> 2024-11-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -149,6 +149,7 @@ $$
 - $濯6
 - $酢6
 - $鑿6
+- $鷟6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -385,5 +386,40 @@ C
     Corrected _t(')eng(3)_ (teng3) to _t(')ing(3)_ (ting3).
     Note that in this sense ("clear"),
     the classical reading of 鑿 is _tsok(8)_ (zok3) per 《廣韻》則落切.
+  ==
+$$
+
+###+ 鷟6 | _Chok(9)_ (zok6)
+
+$$.
+R
+  ⿃ + 11
+U
+  U+9DDF
+V
+  ==
+  - zuk6 (Fan Wan)
+  ==
+F
+  ==
+  - [[F1.66 鷟 _Tsuk(9)_ (zuk6)]] 鸑鷟鳥名
+  ==
+W
+  ====
+  - [[Page~599 鷟(9) _Tsuk(9)_ (zuk6); here normalised to _Chok(9)_ (zok6)]]
+    ==
+    - A phœnix of a carnation color;
+    - a large species of duck near river banks;
+    - an albatross.
+    ==
+  ====
+C
+  ==
+  - The reading _tsuk(9)_ (zuk6) is not unattested;
+    Kangxi has 又叶昨木切音族義同.
+  ==
+S
+  ==
+  - $鷟zuk6
   ==
 $$

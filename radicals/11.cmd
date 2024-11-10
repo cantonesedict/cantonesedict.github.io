@@ -199,6 +199,7 @@ For all radicals, see [Index of characters by radical](./).
       - $鷗au1
       - $鷘cik1
       - $鷓ze3
+      - $鷟zok6
       - $鷟zuk6
       ==
       </nav>
