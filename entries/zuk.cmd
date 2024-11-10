@@ -565,6 +565,7 @@ $$
 - $續6
 - $蓫6
 - $蔟6
+- $藚6
 - $躅6
 - $軸6
 - $逐6
@@ -855,6 +856,30 @@ S
   - $蔟cau3
   - $蔟cuk1 (TODO)
   ==
+$$
+
+### 藚6 | _Tsuk(9)_ [[zuk6]]
+
+$$
+R
+  ⾋ + 15
+U
+  U+85DA
+H
+  May appear as either ⿱艹賣 (assumed here) or ⿱艹𧶠,
+  depending on the font.
+F
+  ==
+  - [[F1.66 藚]] 草名
+  ==
+W
+  ====
+  - [[Page~599 藚(9)]]
+    ==
+    - A marshy, grassy[,] and climbing plant, with leaves like purslane,
+      called also cow's lips [[牛脣]].
+    ==
+  ====
 $$
 
 ### 躅6 | _Chuk(9)_ [[zuk6]]
