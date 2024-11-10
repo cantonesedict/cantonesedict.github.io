@@ -803,6 +803,7 @@ $$
 - $湊3
 - $糗3
 - $臭3
+- $蔟3
 - $𧽒 (⿺走臭)3
 - $輳3
 ==
@@ -1018,6 +1019,51 @@ W
 C
   ==
   - Williams' 臭味: More a bad smell than a bad taste.
+  ==
+$$
+
+### 蔟3 | _Ts(')au(3)_ [[cau3]]
+
+$$
+R
+  ⾋ + 11
+U
+  U+851F
+A
+  ==
+  - $簇3
+  ==
+F
+  ==
+  - [[F1.66 蔟]] 聚也又音秀
+  ==
+W
+  ====
+  - [[Page~599 蔟(9)簇(9)]]
+    --
+    These two [[蔟, 簇]] are used interchangeably.
+    --
+    --
+    [[...]]
+    --
+    --
+    Also read _ts(')au(3)_ [[cau3]].
+    --
+  ====
+C
+  ==
+  - Williams intends the reading _ts(')au(3)_ (cau3)
+    as an alternative for the other senses,
+    but strictly, it is for the musical-pitch sense,
+    included here for completeness:
+    ++
+    1. Used in 太蔟 (one of the twelve musical pitches; the first lunar month).
+    ++
+  ==
+S
+  ==
+  - $蔟cuk1 (TODO)
+  - $蔟zuk6
   ==
 $$
 

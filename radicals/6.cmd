@@ -1107,13 +1107,14 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $蔯can4
+      - $蔟cau3
+      - $蔟zuk6
       - $蔡coi3
       - $蓻zap1
       - $蔗ze3
       - $蔣zoeng1
       - $蔣zoeng2
       - $蓫zuk6
-      - $蔟zuk6
       ==
       </nav>
   //
