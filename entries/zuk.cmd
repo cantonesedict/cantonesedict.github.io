@@ -744,9 +744,6 @@ W
   ====
   - [[Page~599 蔟(9)簇(9)]]
     --
-    These two [[蔟, 簇]] are used interchangeably.
-    --
-    --
     [[Reading variation. **See $簇cuk1 for the canonical entry.**]]
     --
     --
@@ -755,7 +752,7 @@ W
   ====
 S
   ==
-  - $簇cau3 (TODO)
+  - $簇cau3
   - $簇cuk1 (TODO)
   ==
 $$
@@ -798,9 +795,6 @@ F
 W
   ====
   - [[Page~599 蔟(9)簇(9)]]
-    --
-    These two [[蔟, 簇]] are used interchangeably.
-    --
     --
     [[Reading variation. **See $蔟cuk1 for the canonical entry.**]]
     --

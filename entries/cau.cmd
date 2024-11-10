@@ -801,6 +801,7 @@ $$
 - $凑3
 - $嗅3
 - $湊3
+- $簇3
 - $糗3
 - $臭3
 - $蔟3
@@ -933,6 +934,35 @@ E
   ====
 $$
 
+### 簇3 | _Ts(')au(3)_ [[cau3]]
+
+$$.
+R
+  ⽵ + 11
+U
+  U+7C07
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~599 蔟(9)簇(9)]]
+    --
+    [[...]]
+    --
+    --
+    Also read _ts(')au(3)_ [[cau3]].
+    --
+    --
+    [[Alternative form of 蔟. **See $蔟cau3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $簇cuk1 (TODO)
+  - $簇zuk6
+  ==
+$$
+
 ### 糗3 | _Ch(')au(3)_ [[cau3]]
 
 $$
@@ -1034,9 +1064,7 @@ A
   - $簇3
   ==
 F
-  ==
-  - [[F1.66 蔟]] 聚也又音秀
-  ==
+  [[Not present]]
 W
   ====
   - [[Page~599 蔟(9)簇(9)]]
@@ -1054,7 +1082,7 @@ C
   ==
   - Williams intends the reading _ts(')au(3)_ (cau3)
     as an alternative for the other senses,
-    but strictly, it is for the musical-pitch sense,
+    but strictly it is for the musical-pitch sense,
     included here for completeness:
     ++
     1. Used in 太蔟 (one of the twelve musical pitches; the first lunar month).

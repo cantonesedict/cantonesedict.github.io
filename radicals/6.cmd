@@ -160,10 +160,11 @@ For all radicals, see [Index of characters by radical](./).
       - $篸caam1
       - $篸caam2
       - $篸zaam1
+      - $簇cau3
+      - $簇zuk6
       - $簀zaai3
       - $簀zaak3
       - $簀zak1
-      - $簇zuk6
       ==
       </nav>
   //
