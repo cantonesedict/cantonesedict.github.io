@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2024-10-06
+* %date-modified --> 2024-11-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -256,7 +256,7 @@ W
         _met._ poverty;
     - _fung(6) (1)ch(')(a/)i_
         [[fung6 caai1 鳳釵]],
-        an ornamental hair-pin with a phoenix.
+        an ornamental hair-pin with a phœnix.
     ==
   ====
 $$
