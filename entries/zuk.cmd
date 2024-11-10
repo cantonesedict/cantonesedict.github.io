@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zuk
-* %date-modified --> 2024-11-08
+* %date-modified --> 2024-11-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -559,6 +559,7 @@ $$
 =={.modern}
 - $俗6
 - $妯6
+- $族6
 - $濁6
 - $蓫6
 - $躅6
@@ -648,6 +649,50 @@ C
     I suspect _chau(3)_ (zau3) is a typo for _chau(6)_ (zau6)^,
     which would be a misreading based on analogy with 袖.
   ==
+$$
+
+### 族6 | _Tsuk(9)_ [[zuk6]]
+
+$$
+R
+  ⽅ + 7
+U
+  U+65CF
+F
+  ==
+  - [[F1.66 族]] 宗族
+  ==
+W
+  ====
+  - [[Page~599 族(9)]]
+    ==
+    - A barb of a dart;
+    - to collect, to draw together, as a banner does;
+    - a clan, a tribe;
+    - a family or kindred of the same surname;
+    - degrees of kin;
+    - a class, a kind;
+    - _(1)tsung tsuk(9)_
+        [[zung1 zuk6 宗族]]
+        of the same clan;
+    - _tsuk(9) (2)p(')(o\)_
+        [[zuk6 pou2 族譜]],
+        a genealogical register of the clan;
+    - _ch(')ut(7) tsuk(9)_
+        [[ceot1 zuk6 出族]]
+        to disown, to turn out of the clan;
+    - _tsuk(9) (5)l(o\)_
+        [[zuk6 lou5 族老]],
+        a senior in a clan;
+    - _(1)s(a/)m tsuk(9)_
+        [[saam1 zuk6 三族]]
+        father, self, and son;
+        father, mother, and wife's kindred;
+    - _(2)shui tsuk(9)_
+        [[seoi2 zuk6 水族]]
+        aquatic animals.
+    ==
+  ====
 $$
 
 ### 濁6 | _Chuk(9)_ [[zuk6]]
