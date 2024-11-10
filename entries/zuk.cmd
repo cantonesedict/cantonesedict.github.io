@@ -568,6 +568,7 @@ $$
 - $軸6
 - $逐6
 - $鏃6
+- $鷟6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -931,4 +932,28 @@ W
     - sharp[,] pointed.
     ==
   ====
+$$
+
+### 鷟6 | _Tsuk(9)_ [[zuk6]]
+
+$$.
+R
+  ⿃ + 11
+U
+  U+9DDF
+F
+  ==
+  - [[F1.66 鷟]] 鸑鷟鳥名
+  ==
+W
+  ====
+  - [[Page~599 鷟(9)]]
+    --
+    [[Reading variation. **See $鷟zok6 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $鷟zok6 (TODO)
+  ==
 $$
