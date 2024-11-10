@@ -567,6 +567,7 @@ $$
 - $躅6
 - $軸6
 - $逐6
+- $鏃6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -903,6 +904,31 @@ W
     - _(2)kon chuk(9)_
         [[gon2 zuk6 趕逐]]
         to drive out, to eject.
+    ==
+  ====
+$$
+
+### 鏃6 | _Tsuk(9)_ [[zuk6]]
+
+$$
+R
+  ⾦ + 11
+U
+  U+93C3
+V
+  ==
+  - zuk1 (per 《廣韻》作木切)
+  ==
+F
+  ==
+  - [[F1.66 鏃]] 箭嘴
+  ==
+W
+  ====
+  - [[Page~599 鏃(9)]]
+    ==
+    - The barb of a dart or arrow, the iron head of a dart;
+    - sharp[,] pointed.
     ==
   ====
 $$
