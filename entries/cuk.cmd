@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $慉1
 - $搐1
+- $束1
 - $畜1
 - $蓄1
 ==
@@ -103,6 +104,46 @@ W
     - to shake rudely.
     ==
   ====
+$$
+
+### 束1 | _Ch(')uk(7)_ [[cuk1]]
+
+$$
+R
+  ⽊ + 3
+U
+  U+675F
+F
+  ==
+  - [[F1.64 ::[束]::]] ::[束]縛約[束]又[束]脩[束]帶::
+  ==
+W
+  ====
+  - [[Page~36* 束(7)]]
+    ==
+    - To bind or bundle a number of things;
+    - to tie up in a sheaf;
+    - to coerce, to restrain;
+    - a bundle, a sheaf;
+    - _ch(')uk(7) [pok](8)_
+        [[cuk1 bok3 束縛]]
+        to cord up;
+    - _(2)k(u/)n ch(')uk(7)_
+        [[gun2 cuk1 管束]]
+        to restrain those under one;
+    - _ch(')uk(7) (1)sau_
+        [[cuk1 sau1 束修]],
+        a teacher's pay;
+    - _ch(')uk(7) (2)shau toi(6) pai(6)_
+        [[cuk1 sau2 doi6 bai6 束手待斃]]
+        in the utmost distress, no work.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword 朿 to 束.
+  - Williams' 束縛: Changed _fok(8)_ (fok3) to common reading _pok(8)_ (bok3).
+  ==
 $$
 
 ### 畜1 | _Ch(')uk(7)_ [[cuk1]]
