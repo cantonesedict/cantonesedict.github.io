@@ -53,6 +53,7 @@ $$
 - $搐1
 - $束1
 - $畜1
+- $矗1
 - $蓄1
 ==
 </nav>
@@ -178,6 +179,32 @@ W
     - _ch(')uk(7) (5)y(e/)ung_
         [[cuk1 joeng5 畜養]],
         to raise cattle.
+    ==
+  ====
+$$
+
+### 矗1 | _Ch(')uk(7)_ [[cuk1]]
+
+$$
+R
+  ⽬ + 19
+U
+  U+77D7
+H
+  May appear with components as the right component of 値 or 值 (assumed here),
+  depending on the font.
+F
+  ==
+  - [[F1.64 矗]] 聳上也高起也又直也齊也
+  ==
+W
+  ====
+  - [[Page~36* 矗(7)]]
+    ==
+    - High, eminent;
+    - equal, even, straight;
+    - to raise;
+    - luxuriant growth.
     ==
   ====
 $$
