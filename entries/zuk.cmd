@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zuk
-* %date-modified --> 2024-11-10
+* %date-modified --> 2024-11-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -55,6 +55,7 @@ $$
 - $筑1
 - $築1
 - $粥1
+- $觸1
 - $足1
 ==
 </nav>
@@ -459,6 +460,54 @@ C
 S
   ==
   - $粥juk6 (TODO)
+  ==
+$$
+
+###+ 觸1 | _Chuk(7)_ (zuk1)
+
+$$
+R
+  ⾓ + 13
+U
+  U+89F8
+V
+  ==
+  - cuk1 (per 《廣韻》尺玉切)
+  ==
+F
+  ==
+  - [[F1.64 觸 _Ch(')uk(7)_ (cuk1)]] 突也犯也抵觸惑也
+  - [[F1.64 触 _Ch(')uk(7)_ (cuk1)]] 同上
+  ==
+W
+  ====
+  - [[Page~36* 觸(7) _Ch(')uk(7)_ (cuk1); here normalised to _Chuk(7)_ (zuk1)]]
+    ==
+    - To gore, to push as an ox;
+    - to oppose, to excite;
+    - _[chuk](7) f(a/)n(6)_
+        [[zuk1 faan6 觸犯]]
+        to insult;
+    - _[chuk](7) n(o\)(6)_
+        [[zuk1 nou6 觸怒]]
+        to irritate;
+    - _[chuk](7) (2)h(i/)_
+        [[zuk1 hei2 觸起]],
+        startling, to recollect suddenly;
+    - _[chuk](7) muk(9) (1)sh(e/)ung (1)sam_
+        [[zuk1 muk6 soeng1 sam1 觸目傷心]],
+        distressing and affecting;
+    - _[chuk](7) (4)hon_
+        [[zuk1 hon4 觸寒]],
+        to take cold;
+    - _[chuk](7) (1)sh(a/)n (1)ch(i/) lik(9)_
+        [[zuk1 saan1 zi1 lik6 觸山之力]]
+        extraordinary strength.
+    ==
+  ====
+S
+  ==
+  - $觸cuk1
   ==
 $$
 

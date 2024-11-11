@@ -131,6 +131,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $觸cuk1
+      - $觸zuk1
       ==
       </nav>
 ''
