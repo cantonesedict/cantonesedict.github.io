@@ -49,11 +49,39 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $慉1
 - $畜1
 - $蓄1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 慉1 | _Ch(')uk(7)_ [[cuk1]]
+
+$$
+R
+  ⼼ + 10
+U
+  U+6149
+F
+  ==
+  - [[F1.64 慉]] 亦養也
+  ==
+W
+  ====
+  - [[Page~36* 慉(7)]]
+    ==
+    - To sustain;
+    - to encourage;
+    - _ch(')uk(7) (1)ki(u/)_
+        [[cuk1 giu1 慉驕]],
+        to excite pride;
+    - _ch(')uk(7) n(o\)(6)_
+        [[cuk1 nou6 慉怒]]
+        to stir up anger.
+    ==
+  ====
+$$
 
 ### 畜1 | _Ch(')uk(7)_ [[cuk1]]
 
