@@ -55,6 +55,7 @@ $$
 - $畜1
 - $矗1
 - $蓄1
+- $觸1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -234,4 +235,29 @@ W
         to bring up slave girls.
     ==
   ====
+$$
+
+### 觸1 | _Ch(')uk(7)_ [[cuk1]]
+
+$$.
+R
+  ⾓ + 13
+U
+  U+89F8
+F
+  ==
+  - [[F1.64 觸]] 突也犯也抵觸惑也
+  - [[F1.64 触]] 同上
+  ==
+W
+  ====
+  - [[Page~36* 觸(7)]]
+    --
+    [[Reading variation (per 《廣韻》尺玉切). **See $觸zuk1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $觸zuk1 (TODO)
+  ==
 $$
