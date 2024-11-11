@@ -448,6 +448,7 @@ For all radicals, see [Index of characters by radical](./).
       - $搥ceoi4
       - $搶coeng1
       - $搶coeng2
+      - $搐cuk1
       - $搾zaa3
       ==
       </nav>

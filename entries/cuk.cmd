@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $慉1
+- $搐1
 - $畜1
 - $蓄1
 ==
@@ -79,6 +80,27 @@ W
     - _ch(')uk(7) n(o\)(6)_
         [[cuk1 nou6 慉怒]]
         to stir up anger.
+    ==
+  ====
+$$
+
+### 搐1 | _Ch(')uk(7)_ [[cuk1]]
+
+$$
+R
+  ⼿ + 10
+U
+  U+6410
+F
+  ==
+  - [[F1.64 搐]] 宰制也
+  ==
+W
+  ====
+  - [[Page~36* 搐(7)]]
+    ==
+    - To drag along, to pull by force, as one drags an ox;
+    - to shake rudely.
     ==
   ====
 $$
