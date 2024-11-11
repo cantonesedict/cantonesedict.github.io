@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $畜1
+- $蓄1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -86,6 +87,33 @@ W
     - _ch(')uk(7) (5)y(e/)ung_
         [[cuk1 joeng5 畜養]],
         to raise cattle.
+    ==
+  ====
+$$
+
+### 蓄1 | _Ch(')uk(7)_ [[cuk1]]
+
+$$
+R
+  ⾋ + 10
+U
+  U+84C4
+F
+  ==
+  - [[F1.64 蓄]] 積也藏也
+  ==
+W
+  ====
+  - [[Page~36* 蓄(7)]]
+    ==
+    - To collect, to accumulate, to hoard;
+    - to nourish, to rear;
+    - _ch(')uk(7) tsik(7)_
+        [[cuk1 zik1 蓄積]]
+        to collect together;
+    - _ch(')uk(7) (1)(a/) (4)t(')au_
+        [[cuk1 aa1 tau4 蓄丫頭]],
+        to bring up slave girls.
     ==
   ====
 $$
