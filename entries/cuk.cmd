@@ -65,6 +65,7 @@ $$
 - $蹙1
 - $速1
 - $遬1
+- $顣1
 - $餗1
 ==
 </nav>
@@ -480,6 +481,12 @@ W
         [[cuk1 cuk1 蹙蹙]]
         contracted.
     ==
+  - [[Page~600 顣(7); here normalised to 蹙]]
+    ==
+    - Interchanged with the last [[蹙]], to frown;
+    - to wrinkle the forehead;
+    - anxious, careworn.
+    ==
   ====
 $$
 
@@ -549,6 +556,27 @@ W
     - attentive, respectful;
     - alert, speedy.
     ==
+  ====
+$$
+
+### 顣1 | _Ts(')uk(7)_ [[cuk1]]
+
+$$
+R
+  ⾴ + 11
+U
+  U+9863
+F
+  ==
+  - [[F1.64 蹙]] 頻蹙愁貌又急也廹也
+  - [[F1.64 顣]] 同上
+  ==
+W
+  ====
+  - [[Page~600 顣(7)]]
+    --
+    [[Alternative form of 蹙. **See $蹙cuk1 for the canonical entry.**]]
+    --
   ====
 $$
 
