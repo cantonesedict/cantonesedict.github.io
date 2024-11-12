@@ -55,6 +55,7 @@ $$
 - $畜1
 - $矗1
 - $蓄1
+- $觫1
 - $觸1
 - $速1
 - $餗1
@@ -237,6 +238,35 @@ W
         to bring up slave girls.
     ==
   ====
+$$
+
+### 觫1 | _Ts(')uk(7)_ [[cuk1]]
+
+$$
+R
+  ⾓ + 7
+U
+  U+89EB
+F
+  ==
+  - [[F1.65 ::[觫]::]] ::觳[觫]恐懼貌::
+  ==
+W
+  ====
+  - [[Page~600 觫(7)]]
+    ==
+    - Horns beginning to start;
+    - to start, to tremble;
+    - _huk(9) ts(')uk(7)_
+        [[huk6 cuk1 觳觫]]
+        frightened, as oxen are in presence of lions;
+        in a terrible fright.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword ⿰角朿 to 觫.
+  ==
 $$
 
 ### 觸1 | _Ch(')uk(7)_ [[cuk1]]
