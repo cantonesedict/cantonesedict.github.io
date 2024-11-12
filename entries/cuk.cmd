@@ -57,6 +57,7 @@ $$
 - $蓄1
 - $觸1
 - $速1
+- $餗1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -304,4 +305,29 @@ W
         as quick as possible.
     ==
   ====
+$$
+
+### 餗1 | _Ts(')uk(7)_ [[cuk1]]
+
+$$
+R
+  ⾷ + 7
+U
+  U+9917
+F
+  ==
+  - [[F1.64 ::[餗]::]] ::鼎實也易覆[餗]::
+  ==
+W
+  ====
+  - [[Page~600 餗(7)]]
+    ==
+    - The prepared contents of a boiler or kettle;
+    - pot-luck, dressed food.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword ⿰飠朿 to 餗.
+  ==
 $$
