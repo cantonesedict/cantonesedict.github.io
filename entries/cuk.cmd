@@ -57,6 +57,7 @@ $$
 - $𣙙 (⿰木敕)1
 - $畜1
 - $矗1
+- $簇1
 - $簌1
 - $𫂙 (⿱𥫗敕)1
 - $蓄1
@@ -307,6 +308,59 @@ W
   ====
 $$
 
+###+ 簇1 | _Ts(')uk(7)_ (cuk1)
+
+$$
+R
+  ⽵ + 11
+U
+  U+7C07
+A
+  ==
+  - $蔟1
+  ==
+V
+  ==
+  - zuk6 (Williams)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~599 蔟(9)簇(9) _Tsuk(9)_ (zuk6); here normalised to _Ts(')uk(7)_ (cuk1)]]
+    --
+    These two [[蔟, 簇]] are used interchangeably.
+    --
+    ==
+    - Tufts of small bamboo;
+    - to collect, to crowd together;
+    - a crowd of people;
+    - [[see $蔟cuk1 for "nest" and "silkworm-frame" senses]];
+    - a mold for cakes;
+    - head or barb of a dart;
+    - _[ts(')uk(7)] (2)yung (4)ts(')(i/)n (4)loi_
+        [[cuk1 jung2 cin4 loi4 簇擁前來]],
+        came pressing on in a crowd.
+    ==
+    --
+    Also read _ts(')au(3)_ [[cau3]] [[**see $簇cau3**]].
+    --
+  ====
+C
+  ==
+  - Williams does not provide separate entries for 簇 and $蔟1.
+    I have split things up accordingly.
+  - Strictly, the "arrowhead" and "cake-mould" senses
+    should be read _ch(')ok(8)_ (cok3);
+    Kangxi quotes 又《玉篇》楚角切矢金也 and 又《集韻》測角切音娕作餠具.
+  ==
+S
+  ==
+  - $簇cau3
+  - $簇zuk6
+  ==
+$$
+
 ###+ 簌1 | _Ts(')uk(7)_ (cuk1)
 
 $$
@@ -443,7 +497,7 @@ W
     These two [[蔟, 簇]] are used interchangeably.
     --
     ==
-    - [[See $簇cuk1 for "small-bamboo" and other senses]];
+    - [[See $簇cuk1 for "small-bamboo", "cluster", and other senses]];
     - a nest;
     - a framework or whisk on which silk-worms spin coccoons;
     - [[...]].

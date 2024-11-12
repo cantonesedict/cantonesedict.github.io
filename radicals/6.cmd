@@ -161,6 +161,7 @@ For all radicals, see [Index of characters by radical](./).
       - $篸caam2
       - $篸zaam1
       - $簇cau3
+      - $簇cuk1
       - $簇zuk6
       - $簌cuk1
       - $𫂙 (⿱𥫗敕)cuk1
