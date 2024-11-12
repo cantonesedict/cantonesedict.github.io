@@ -735,6 +735,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $蹡coeng1
       - $蹡coeng3
+      - $蹙cuk1
       - $蹠zek3
       - $蹟zik1
       ==

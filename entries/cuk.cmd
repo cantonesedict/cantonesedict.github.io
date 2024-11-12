@@ -62,6 +62,7 @@ $$
 - $蔌1
 - $觫1
 - $觸1
+- $蹙1
 - $速1
 - $遬1
 - $餗1
@@ -440,6 +441,46 @@ S
   ==
   - $觸zuk1
   ==
+$$
+
+### 蹙1 | _Ts(')uk(7)_ [[cuk1]]
+
+$$
+R
+  ⾜ + 11
+U
+  U+8E59
+A
+  ==
+  - $顣1
+  ==
+V
+  ==
+  - zuk1 (per 《廣韻》子六切)
+  ==
+F
+  ==
+  - [[F1.64 蹙]] 頻蹙愁貌又急也廹也
+  - [[F1.64 顣]] 同上
+  ==
+W
+  ====
+  - [[Page~600 蹙(7)]]
+    ==
+    - Pressed upon, urged, impelled;
+    - cramped, cribbed;
+    - embarrassed;
+    - to wrinkle, to rumple, to draw in;
+    - retractile;
+    - disquieted, uneasy, reduced to extremity;
+    - _pik(7) ts(')uk(7)_
+        [[bik1 cuk1 迫蹙]]
+        to press or urge vehemently;
+    - _ts(')uk(7) ts(')uk(7)_
+        [[cuk1 cuk1 蹙蹙]]
+        contracted.
+    ==
+  ====
 $$
 
 ### 速1 | _Ts(')uk(7)_ [[cuk1]]
