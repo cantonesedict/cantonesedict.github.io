@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cuk
-* %date-modified --> 2024-11-11
+* %date-modified --> 2024-11-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -44,7 +44,7 @@ MP
 $$
 
 
-##{#1 .williams} Ch(')uk(7) [[cuk1 高陰入]]
+##{#1 .williams} Ch(')uk(7) Ts(')uk(7) [[cuk1 高陰入]]
 
 <## tone-1-characters ##>
 <nav class="sideways">
@@ -56,6 +56,7 @@ $$
 - $矗1
 - $蓄1
 - $觸1
+- $速1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -260,4 +261,47 @@ S
   ==
   - $觸zuk1
   ==
+$$
+
+### 速1 | _Ts(')uk(7)_ [[cuk1]]
+
+$$
+R
+  ⾡ + 7
+U
+  U+901F
+F
+  ==
+  - [[F1.64 速]] 急也廹也
+  ==
+W
+  ====
+  - [[Page~600 速(7)]]
+    ==
+    - Hasty, quick, hurried;
+    - fleet, as a deer;
+    - with haste;
+    - to call, to invite;
+    - _tsik(7) ts(')uk(7)_
+        [[zik1 cuk1 即速]]
+        instantly, presently;
+    - _ts(')uk(7) h(u:)(3)_
+        [[cuk1 heoi3 速去]]
+        go quickly;
+    - _ts(')uk(7) ts(')uk(7)_
+        [[cuk1 cuk1 速速]]
+        no connection with;
+        friendless;
+    - _(4)'m tsoi(6) k(o\)m(3) (4)mong ts(')uk(7)_
+        [[m4 zoi6 gam3 mong4 cuk1 唔在咁忙速]]
+        don't be so precipitate, flurried;
+    - _ts(')uk(7) yuk(9)_
+        [[cuk1 juk6 速玉]]
+        to hurry the steps [of a guest];
+        [[these square brackets appear in the original text]]
+    - _(2)fo ts(')uk(7)_
+        [[fo2 cuk1 火速]]
+        as quick as possible.
+    ==
+  ====
 $$
