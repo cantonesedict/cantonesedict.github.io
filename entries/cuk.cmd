@@ -56,6 +56,7 @@ $$
 - $𣙙 (⿰木敕)1
 - $畜1
 - $矗1
+- $簌1
 - $𫂙 (⿱𥫗敕)1
 - $蓄1
 - $觫1
@@ -267,6 +268,32 @@ W
     - equal, even, straight;
     - to raise;
     - luxuriant growth.
+    ==
+  ====
+$$
+
+###+ 簌1 | _Ts(')uk(7)_ (cuk1)
+
+$$
+R
+  ⽵ + 11
+U
+  U+7C0C
+A
+  ==
+  - $𫂙 [[⿱𥫗敕]]1
+  ==
+F
+  ==
+  - [[F1.64 ⿱𥫗敕]] 窶陋也
+  ==
+W
+  ====
+  - [[Page~600 𫂙(7) (⿱𥫗敕); here normalised to 簌]]
+    ==
+    - To sift, and cause to shower down;
+    - close, thickset;
+    - showering down, like autumnal leaves blown by the wind.
     ==
   ====
 $$
