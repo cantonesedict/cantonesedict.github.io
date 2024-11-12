@@ -1120,6 +1120,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $蔯can4
       - $蔟cau3
+      - $蔟cuk1
       - $蔟zuk6
       - $蔡coi3
       - $蔌cuk1

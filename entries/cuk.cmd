@@ -61,6 +61,7 @@ $$
 - $𫂙 (⿱𥫗敕)1
 - $蓄1
 - $蔌1
+- $蔟1
 - $觫1
 - $觸1
 - $蹙1
@@ -417,6 +418,49 @@ W
 C
   ==
   - Fan Wan entry: The explanation 果名 is erroneous.
+  ==
+$$
+
+###+ 蔟1 | _Ts(')uk(7)_ (cuk1)
+
+$$
+R
+  ⾋ + 11
+U
+  U+851F
+V
+  ==
+  - zuk6 (Fan Wan)
+  ==
+F
+  ==
+  - [[F1.66 蔟 _Tsuk(9)_ (zuk6)]] 聚也又音秀
+  ==
+W
+  ====
+  - [[Page~599 蔟(9)簇(9) _Tsuk(9)_ (zuk6); here normalised to _Ts(')uk(7)_ (cuk1)]]
+    --
+    These two [[蔟, 簇]] are used interchangeably.
+    --
+    ==
+    - [[See $簇cuk1 for "small-bamboo" and other senses]];
+    - a nest;
+    - a framework or whisk on which silk-worms spin coccoons;
+    - [[...]].
+    ==
+    --
+    Also read _ts(')au(3)_ [[cau3]] [[**see $蔟cau3**]].
+    --
+  ====
+C
+  ==
+  - Williams does not provide separate entries for $簇1 and 蔟.
+    I have split things up accordingly.
+  ==
+S
+  ==
+  - $蔟cau3
+  - $蔟zuk6
   ==
 $$
 
