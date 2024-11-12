@@ -52,6 +52,7 @@ $$
 - $慉1
 - $搐1
 - $束1
+- $樕1
 - $𣙙 (⿰木敕)1
 - $畜1
 - $矗1
@@ -149,6 +150,37 @@ C
   ==
   - Fan Wan entry: Corrected headword 朿 to 束.
   - Williams' 束縛: Changed _fok(8)_ (fok3) to common reading _pok(8)_ (bok3).
+  ==
+$$
+
+###+ 樕1 | _Ts(')uk(7)_ (cuk1)
+
+$$
+R
+  ⽊ + 11
+U
+  U+6A15
+A
+  ==
+  - $𣙙 [[⿰木敕]]1
+  ==
+F
+  ==
+  - [[F1.64 ::[⿰木敕]::]] ::樸[⿰木敕]小木也::
+  ==
+W
+  ====
+  - [[Page~600 𣙙(7) (⿰木敕); here normalised to 樕]]
+    ==
+    - A small tree, a shrub, a sapling;
+    - _puk(9) ts(')uk(7)_
+        [[buk6 cuk1 樸樕]]
+        small trees, suitable for posts.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword ⿰木敇 to 𣙙 (⿰木敕).
   ==
 $$
 

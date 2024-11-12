@@ -1096,6 +1096,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $槧cim3
       - $槽cou4
+      - $樕cuk1
       - $𣙙 (⿰木敕)cuk1
       - $樞cyu4
       - $樝zaa1
