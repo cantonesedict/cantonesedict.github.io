@@ -49,6 +49,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $促1
 - $慉1
 - $搐1
 - $束1
@@ -71,6 +72,34 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 促1 | _Ts(')uk(7)_ [[cuk1]]
+
+$$
+R
+  ⼈ + 7
+U
+  U+4FC3
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~600 促(7)]]
+    ==
+    - To constrain;
+    - near, short, close;
+    - urgent, pressed upon;
+    - small, shortened;
+    - hampered;
+    - _kuk(9) ts(')uk(7)_
+        [[guk6 cuk1 侷促]]
+        a narrow, small space;
+    - _ts(')uk(7) sat(7) (4)t(')(a/)m (1)sam_
+        [[cuk1 sat1 taam4 sam1 促膝談心]],
+        to draw together and talk, as long absent friends.
+    ==
+  ====
+$$
 
 ### 慉1 | _Ch(')uk(7)_ [[cuk1]]
 
