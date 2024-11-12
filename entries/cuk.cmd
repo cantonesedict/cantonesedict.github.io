@@ -52,6 +52,7 @@ $$
 - $慉1
 - $搐1
 - $束1
+- $𣙙 (⿰木敕)1
 - $畜1
 - $矗1
 - $蓄1
@@ -148,6 +149,30 @@ C
   ==
   - Fan Wan entry: Corrected headword 朿 to 束.
   - Williams' 束縛: Changed _fok(8)_ (fok3) to common reading _pok(8)_ (bok3).
+  ==
+$$
+
+### 𣙙1 [[⿰木敕]] | _Ts(')uk(7)_ [[cuk1]]
+
+$$.
+R
+  ⽊ + 11
+U
+  U+23659
+F
+  ==
+  - [[F1.64 ::[⿰木敕]::]] ::樸[⿰木敕]小木也::
+  ==
+W
+  ====
+  - [[Page~600 𣙙(7) (⿰木敕)]]
+    --
+    [[Alternative form of 樕. **See $樕cuk1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword ⿰木敇 to 𣙙 (⿰木敕).
   ==
 $$
 
