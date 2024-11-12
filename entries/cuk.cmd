@@ -63,6 +63,7 @@ $$
 - $觫1
 - $觸1
 - $蹙1
+- $蹴1
 - $速1
 - $遬1
 - $顣1
@@ -488,6 +489,51 @@ W
     - anxious, careworn.
     ==
   ====
+C
+  ==
+  - Otherwise, an alternative form of 蹴. **See $蹴cuk1 for the canonical entry.**
+  ==
+$$
+
+### 蹴1 | _Ts(')uk(7)_ [[cuk1]]
+
+$$
+R
+  ⾜ + 12
+U
+  U+8E74
+A
+  ==
+  -{.modern} $蹙1
+  -{.modern} 蹵
+  ==
+V
+  ==
+  - zuk1 (alternative per 《廣韻》子六切)
+  ==
+F
+  ==
+  - [[F1.65 蹴]] 踐踏也
+  ==
+W
+  ====
+  - [[Page~600 蹴(7)]]
+    --
+    Similar to the last two [[$蹙1, $顣1]].
+    --
+    ==
+    - To tread on, to press with the foot;
+    - to kick;
+    - _ts(')uk(7) (4)(i/)n_
+        [[cuk1 jin4 蹴然]],
+        reverential.
+    ==
+  ====
+C
+  ==
+  - Williams' "Similar to the last two": Not quite.
+    It is $蹙1 that is used for 蹴.
+  ==
 $$
 
 ### 速1 | _Ts(')uk(7)_ [[cuk1]]
