@@ -1007,6 +1007,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $遷cin1
+      - $遬cuk1
       - $遮ze1
       - $遭zou1
       ==

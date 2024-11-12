@@ -63,6 +63,7 @@ $$
 - $觫1
 - $觸1
 - $速1
+- $遬1
 - $餗1
 ==
 </nav>
@@ -480,6 +481,32 @@ W
     - _(2)fo ts(')uk(7)_
         [[fo2 cuk1 火速]]
         as quick as possible.
+    ==
+  ====
+$$
+
+### 遬1 | _Ts(')uk(7)_ [[cuk1]]
+
+$$
+R
+  ⾡ + 11
+U
+  U+906C
+F
+  ==
+  - [[F1.65 遬]] 齊遬
+  ==
+W
+  ====
+  - [[Page~600 遬(7)]]
+    --
+    Similar to the next [[$蹙1]].
+    --
+    ==
+    - To step smartly to one's place;
+    - to dispatch, to hurry through;
+    - attentive, respectful;
+    - alert, speedy.
     ==
   ====
 $$
