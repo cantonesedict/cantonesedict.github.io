@@ -59,6 +59,7 @@ $$
 - $簌1
 - $𫂙 (⿱𥫗敕)1
 - $蓄1
+- $蔌1
 - $觫1
 - $觸1
 - $速1
@@ -296,6 +297,10 @@ W
     - showering down, like autumnal leaves blown by the wind.
     ==
   ====
+C
+  ==
+  - Fan Wan entry: The explanation seems to be for 蔌 in the "meagre" sense, not 𫂙 (⿱𥫗敕).
+  ==
 $$
 
 ### 𫂙1 [[⿱𥫗敕]] | _Ts(')uk(7)_ [[cuk1]]
@@ -316,6 +321,10 @@ W
     [[Alternative form of 簌. **See $簌cuk1 for the canonical entry.**]]
     --
   ====
+C
+  ==
+  - Fan Wan entry: The explanation seems to be for 蔌 in the "meagre" sense, not 𫂙 (⿱𥫗敕).
+  ==
 $$
 
 ### 蓄1 | _Ch(')uk(7)_ [[cuk1]]
@@ -343,6 +352,39 @@ W
         to bring up slave girls.
     ==
   ====
+$$
+
+### 蔌1 | _Ts(')uk(7)_ [[cuk1]]
+
+$$
+R
+  ⾋ + 11
+U
+  U+850C
+F
+  ==
+  - [[F1.64 蔌]] 果名
+  ==
+W
+  ====
+  - [[Page~600 蔌(7)]]
+    ==
+    - Vegetables, legumes, kitchen herbs;
+    - _ts(')oi(3) ts(')uk(7)_
+        [[coi3 cuk1 菜蔌]]
+        vegetables;
+    - _ts(')uk(7) ts(')uk(7)_
+        [[cuk1 cuk1 蔌蔌]]
+        mean;
+    - _ts(')uk(7) ts(')uk(7) (1)fung (1)wai_
+        [[cuk1 cuk1 fung1 wai1 蔌蔌風威]],
+        the stern wind whistling along.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: The explanation 果名 is erroneous.
+  ==
 $$
 
 ### 觫1 | _Ts(')uk(7)_ [[cuk1]]
