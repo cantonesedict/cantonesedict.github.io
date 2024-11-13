@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $啍1
+- $諄1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -91,3 +92,26 @@ S
 $$
 
 <## TODO: 慢啍啍 maan6 tan1 tan1, maan6 tan4 tan4 ##>
+
+### 諄1 | _(1)Chun_ [[zeon1]]
+
+$$
+R
+  ⾔ + 8
+U
+  U+8AC4
+F
+  ==
+  - [[F2.52 諄]] 詳語貌又懇誠也
+  ==
+W
+  ====
+  - [[Page~36* (1)諄]]
+    ==
+    - To inculcate, to tell repeatedly;
+    - _(1)chun (1)chun (4)(i/)n (1)ch(i/)_
+        [[zeon1 zeon1 jin4 zi1 諄諄言之]],
+        to make plain, to impress on one.
+    ==
+  ====
+$$
