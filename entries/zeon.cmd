@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $啍1
+- $肫1
 - $諄1
 ==
 </nav>
@@ -92,6 +93,30 @@ S
 $$
 
 <## TODO: 慢啍啍 maan6 tan1 tan1, maan6 tan4 tan4 ##>
+
+### 肫1 | _(1)Chun_ [[zeon1]]
+
+$$
+R
+  ⾁ + 4
+U
+  U+80AB
+F
+  ==
+  - [[F2.52 肫]] 懇至貌
+  ==
+W
+  ====
+  - [[Page~36* (1)肫]]
+    ==
+    - Bones of the face;
+    - earnest, sincere;
+    - _(1)chun (1)chun_
+        [[zeon1 zeon1 肫肫]],
+        decided, firm.
+    ==
+  ====
+$$
 
 ### 諄1 | _(1)Chun_ [[zeon1]]
 
