@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [zeon1](#1)
 ==
 </nav>
 <## /tones ##>
@@ -41,3 +42,52 @@ MP
   - zeon = [tsɵn], [tɕɵn] ((preferred))
   ==
 $$
+
+
+##{#1 .williams} (1)Chun [[zeon1 陰平]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $啍1
+==
+</nav>
+<## /tone-1-characters ##>
+
+### 啍1 | _(1)Chun_ [[zeon1]]
+
+$$
+R
+  ⼝ + 8
+U
+  U+554D
+F
+  ==
+  - [[F2.52 啍]] 啍啍重語貌
+  ==
+W
+  ====
+  - [[Page~36* (1)啍]]
+    ==
+    - Garrulous;
+    - _(1)chun (1)chun_
+        [[zeon1 zeon1 啍啍]],
+        to reiterate, to say over and over.
+    ==
+    --
+    Read _(1)[t(')un]_ [[teon1]]; [[**see $啍teon1**]].
+    --
+  ====
+C
+  ==
+  - Williams' alternative reading: Corrected _(1)tun_ (deon1) to _(1)t(')un_ (teon1).
+  ==
+S
+  ==
+  - $啍tan1 (TODO)
+  - $啍tan4 (TODO)
+  - $啍teon1 (TODO)
+  ==
+$$
+
+<## TODO: 慢啍啍 maan6 tan1 tan1, maan6 tan4 tan4 ##>
