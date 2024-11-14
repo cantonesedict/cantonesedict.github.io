@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $啍1
+- $屯1
 - $窀1
 - $肫1
 - $諄1
@@ -95,6 +96,38 @@ S
 $$
 
 <## TODO: 慢啍啍 maan6 tan1 tan1, maan6 tan4 tan4 ##>
+
+### 屯1 | _(1)Chun_ [[zeon1]]
+
+$$
+R
+  ⼬ + 1
+U
+  U+5C6F
+F
+  ==
+  - [[F2.52 屯]] ::[高]屯難也屈也::
+  ==
+W
+  ====
+  - [[Page~36* (1)屯]]
+    ==
+    - Budding plants;
+    - difficult to proceed;
+    - avaricious;
+    - pressed down;
+    - the 3d of the diagrams.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected missing bottom-left in 高.
+  ==
+S
+  ==
+  - $屯tyun4 (TODO)
+  ==
+$$
 
 ### 窀1 | _(1)Chun_ [[zeon1]]
 

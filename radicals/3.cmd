@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 3-stroke radicals
-* %date-modified --> 2024-11-13
+* %date-modified --> 2024-11-15
 * %copyright-prior-years -->
 * %meta-description --> index of characters with 3-stroke radicals
 
@@ -896,6 +896,23 @@ For all radicals, see [Index of characters by radical](./).
 ## ⼬ (sprout)
 
 <## radical-⼬-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 1
+    ,
+      <nav class="sideways">
+      ==
+      - $屯zeon1
+      ==
+      </nav>
+''
+||||
 <## /radical-⼬-characters ##>
 
 
