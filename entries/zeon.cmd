@@ -53,6 +53,7 @@ $$
 - $窀1
 - $肫1
 - $諄1
+- $迍1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -160,6 +161,29 @@ W
     - _(1)chun (1)chun (4)(i/)n (1)ch(i/)_
         [[zeon1 zeon1 jin4 zi1 諄諄言之]],
         to make plain, to impress on one.
+    ==
+  ====
+$$
+
+### 迍1 | _(1)Chun_ [[zeon1]]
+
+$$
+R
+  ⾡ + 4
+U
+  U+8FCD
+F
+  ==
+  - [[F2.52 迍]] 迍邅
+  ==
+W
+  ====
+  - [[Page~36* (1)迍]]
+    ==
+    - A vain effort to progress;
+    - _(1)chun (1)ch(i/)n_
+        [[zeon1 zin1 迍邅]],
+        making no advance, unsuccessful.
     ==
   ====
 $$
