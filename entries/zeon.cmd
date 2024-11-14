@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2024-11-13
+* %date-modified --> 2024-11-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $啍1
+- $窀1
 - $肫1
 - $諄1
 ==
@@ -93,6 +94,28 @@ S
 $$
 
 <## TODO: 慢啍啍 maan6 tan1 tan1, maan6 tan4 tan4 ##>
+
+### 窀1 | _(1)Chun_ [[zeon1]]
+
+$$
+R
+  ⽳ + 4
+U
+  U+7A80
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~36* (1)窀]]
+    ==
+    - To inter;
+    - _(1)chun tsik(9)_
+        [[zeon1 zik6 窀穸]]
+        the grave;
+        to put away in a vault or grave.
+    ==
+  ====
+$$
 
 ### 肫1 | _(1)Chun_ [[zeon1]]
 
