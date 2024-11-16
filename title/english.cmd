@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> English Title Page: A Tonic Dictionary of the Chinese Language in the Canton Dialect.
-* %date-modified --> 2024-04-07
+* %date-modified --> 2024-11-16
 * %copyright-prior-years --> 2023--
 * %meta-description --> English title page
 
@@ -33,7 +33,7 @@ _(1)Ying (4)W(a/) (1)Fan Wan[(6)] Ts(')(u:)t(8) I(u/)(3)._
   jing1 waa4 fan1 wan6 cyut3 jiu3.
 
 - Corrected _Wan(3)_ (wan3) to _Wan(6)_ (wan6).
-  The reading of 韻 in 陽去 (tone~6) is that according to the 分韻 itself,
+  The reading of 韻 in 陽去 (tone~6) is that according to the Fan Wan (分韻) itself,
   which has followed Middle Chinese 王問切.
 
 - The reading of 韻 preferred by most modern speakers is in 陽上 (tone~5).

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Home
-* %date-modified --> 2024-10-07
+* %date-modified --> 2024-11-16
 * %copyright-prior-years --> 2023--
 * %modern-colour --> crimson
 * %meta-description --> home page
@@ -124,7 +124,7 @@ that version has severe paging issues:
   by 虞學圃 and 溫岐石.
   --
   An 1838 re-engraving (道光十八年重鐫)
-  containing Fan Wan 《分韻撮要》 in the lower half of its pages,
+  containing the Fan Wan 《分韻撮要》 in the lower half of its pages,
   as scanned by Trove (in collaboration with the National Library of Australia).
   --
 
