@@ -1560,6 +1560,7 @@ give more trouble, perhaps, than the others.
       //
         ; Vowel afterwards
         ;{c=3} Favoured post-merger initials
+    |:
       //
         , [aː] aa
         ,{r=5} _ts_ [ts]
