@@ -413,6 +413,8 @@ that collapses the merged pairs (including Jyutping).
 - [ip](#final-ip)
 - [it](#final-it)
 - [iu](#final-iu)
+- [m](#final-m)
+- [ng](#final-ng)
 - [o](#final-o)
 - [oe](#final-oe)
 - [oek](#final-oek)
@@ -997,6 +999,34 @@ that collapses the merged pairs (including Jyutping).
     , [__ü__ as in __ü__ber], in German,
       followed by [__t__ as in a__t__las] with no audibly released T
     ,
+''
+||||
+
+
+###{#syllabic .modern} Syllabic consonants
+
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; 韻
+    ; IPA
+    ; Jyutping
+    ; Approximation
+    ; Remarks
+|:
+  //
+    , 唔
+    , [m̩]
+    ,{#final-m} m
+    , [__m__ as in su__m__], but longer
+    ,
+  //
+    , 吾
+    , [ŋ̍]
+    ,{#final-ng} ng
+    , [__ng__ as in si__ng__], but longer
+    , Often unlearnedly replaced with syllabic m~[m̩].
 ''
 ||||
 
