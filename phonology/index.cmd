@@ -254,7 +254,35 @@ I have followed standard Jyutping here and used the unlabialised initial.
 ####{#pre-merger-initials .modern} Note on pre-merger initials
 
 --{.modern}
-Modern Cantonese has merged the pairs:
+As noted [in Williams' 1856 introduction](/intro/#initials-ch-ts):
+--
+""{.williams}
+2,~20. The initials _ch_ and _ts_ are constantly confounded, and some
+persons are absolutely unable to detect the difference, more frequently
+calling the words under _ts_ as _ch_, than contrariwise.
+All characters
+with the sounds _tsz'_ and _ts(')z'_ are liable to be heard _ch(i/)_ and
+_ch(')(i/)_, with a stronger breathing than those properly read _ch(i/)_ and
+_ch(')(i/)_.
+""
+
+--{.modern}
+[Moreover](/intro/#initials-sh-s):
+--
+""{.williams}
+16,~17. The initial _sh_ is called _s_ along the coast;
+in the districts of Hi(a/)ngsh(a/)n [[香山]], Sinning [[新寧]] and Sinngan [[新安]],
+this obtains to a very great extent;
+_shui_ 水, _sh(u:)_ 書, _shuk_ 熟, _sh(a/)ng shing_ 省城, &c. &c.,
+being heard _sui_, _s(u:)_, _suk_, and _s(a/)ng sing_, as in the Ti(e/)chi(u/) [[潮州]] and Amoy [[廈門]]
+dialects. The initial _sh_ is a complete shibboleth to the people of
+those districts. West of Canton [[廣州]], many are found who change _sz'_
+into _s(u:)_, and a large part of the words beginning with _s_ are changed
+into _sh_ just the opposite of the usage at Macao [[澳門]].
+""
+
+--{.modern}
+Indeed modern Cantonese has merged the pairs:
 --
 =={.modern}
 - [ts] (Williams' _ts_) and [tɕ] (Williams' _ch_),
@@ -299,7 +327,7 @@ For example, the modern speaker will prefer:
 - [saːŋ tɕʰɔːy] over [ɕaːŋ tsʰɔːy] for 生菜.
 ==
 --{.modern}
-This subtlety is not captured by any modern romanisation scheme
+These subtleties are not captured by any modern romanisation scheme
 that collapses the merged pairs (including Jyutping).
 --
 

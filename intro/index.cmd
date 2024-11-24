@@ -1530,7 +1530,8 @@ give more trouble, perhaps, than the others.
   in this way, so that if one does not see the character, he will look
   for it under _h_ or _ng_.
 
-- 2,~20. The initials _ch_ and _ts_ are constantly confounded, and some
+-{#initials-ch-ts}
+  2,~20. The initials _ch_ and _ts_ are constantly confounded, and some
   persons are absolutely unable to detect the difference, more frequently
   calling the words under _ts_ as _ch_, than contrariwise.
   All characters
@@ -1541,70 +1542,9 @@ give more trouble, perhaps, than the others.
 
   {+++
   --
-  (Indeed modern Cantonese has merged the pairs:
-  --
-  ==
-  - _ch_~[tɕ] and _ts_~[ts] (represented in Jyutping as z);
-  - _ch(')_~[tɕʰ] and _ts(')_~[tsʰ] (represented in Jyutping as c); and
-  - _sh_~[ɕ] and _s_~[s] (represented in Jyutping as s).
-  ==
-  --
-  But it is not quite as simple as that.
-  In two decades of personal experience,
-  I have perceived a *tendency* for speakers to
-  consistently favour specific initials depending on the vowel afterward:
-  --
-  ||||{.wide}
-  ''
-    |^
-      //
-        ; Vowel afterwards
-        ;{c=3} Favoured post-merger initials
-    |:
-      //
-        , [aː] aa
-        ,{r=5} _ts_ [ts]
-        ,{r=5} _ts(')_ [tsʰ]
-        ,{r=10} _s_ [s]
-      //
-        , [ɐ] a
-      //
-        , [ɛː] e
-      //
-        , [e] i
-      //
-        , [iː] i
-      //
-        , [ɔː] o
-        ,{r=6} _ch_ [tɕ]
-        ,{r=6} _ch(')_ [tɕʰ]
-      //
-        , [o] o
-      //
-        , [uː] u
-      //
-        , [œ] oe
-      //
-        , [ɵ] eo
-      //
-        , [yː] yu
-        , _sh_ [ɕ]
-  ''
-  ||||
-  --
-  For example, the modern speaker will prefer:
-  --
-  ==
-  - _sek_ [sɛːk̚] over _shek_ [ɕɛːk̚] for 石;
-  - _s(a/)ng ch(')oi_ [saːŋ tɕʰɔːy] over
-    _sh(a/)ng ts(')oi_ [ɕaːŋ tsʰɔːy] for 生菜.
-  ==
-  --
-  This subtlety is not captured by any modern romanisation scheme
-  that collapses the merged pairs.
-  --
-  --
-  Here endeth the rant.)
+  (For more discussion,
+  see [note on pre-merger initials](/phonology/#pre-merger-initials)
+  in the modern Cantonese phonology page.)
   --
   +++}
 
@@ -1625,16 +1565,24 @@ give more trouble, perhaps, than the others.
   init[i]al consonant before some vowels, they never interchange them
   before others.
 
-- 16,~17. The initial _sh_ is called _s_ along the coast;
+-{#initials-sh-s}
+  16,~17. The initial _sh_ is called _s_ along the coast;
   in the districts of Hi(a/)ngsh(a/)n [[香山]], Sinning [[新寧]] and Sinngan [[新安]],
   this obtains to a very great extent;
   _shui_ 水, _sh(u:)_ 書, _shuk_ 熟, _sh(a/)ng shing_ 省城, &c. &c.,
-  being heard _sui_, _s(u:)_, and _s(a/)ng sing_, as in the Ti(e/)chi(u/) [[潮州]] and Amoy [[廈門]]
+  being heard _sui_, _s(u:)_, _suk_, and _s(a/)ng sing_, as in the Ti(e/)chi(u/) [[潮州]] and Amoy [[廈門]]
   dialects. The initial _sh_ is a complete shibboleth to the people of
-  those districts. West of Canton [[廣州]], many are found who change _sz'_ [[si]]
-  into _s(u:)_ [[syu]], and a large part of the words beginning with _s_ are changed
+  those districts. West of Canton [[廣州]], many are found who change _sz'_
+  into _s(u:)_, and a large part of the words beginning with _s_ are changed
   into _sh_ just the opposite of the usage at Macao [[澳門]].
-  [[See rant at 2,~20. for more on _sh_ versus _s_.]]
+
+  {+++
+  --
+  (For more discussion,
+  see [note on pre-merger initials](/phonology/#pre-merger-initials)
+  in the modern Cantonese phonology page.)
+  --
+  +++}
 ====
 --{.williams}
 These five classes of changes are the most frequent, and with
