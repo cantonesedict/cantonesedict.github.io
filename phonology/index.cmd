@@ -377,6 +377,7 @@ that collapses the merged pairs (including Jyutping).
 
 <nav class="sideways">
 =={.modern}
+- [a](#final-a)
 - [aa](#final-aa)
 - [aai](#final-aai)
 - [aak](#final-aak)
@@ -386,6 +387,14 @@ that collapses the merged pairs (including Jyutping).
 - [aap](#final-aap)
 - [aat](#final-aat)
 - [aau](#final-aau)
+- [ai](#final-ai)
+- [ak](#final-ak)
+- [am](#final-am)
+- [an](#final-an)
+- [ang](#final-ang)
+- [ap](#final-ap)
+- [at](#final-at)
+- [au](#final-au)
 ==
 </nav>
 
@@ -408,7 +417,7 @@ that collapses the merged pairs (including Jyutping).
     ,{#final-aa} aa
     , [__ar__ as in c__ar__],
       in a general Australian accent with strictly no R consonant
-    ,
+    , Often shortened to [final a~\[ɐ\]](#final-a) for vernacular characters.
   //
     , 釵
     , [aːi]
@@ -467,6 +476,93 @@ that collapses the merged pairs (including Jyutping).
     ,{#final-aak} aak
     , [__ar__ as in c__ar__],
       in a general Australian accent with strictly no R consonant,
+      followed by [__c__ as in do__c__tor] with no audibly released C
+    ,
+''
+||||
+
+
+###{#nucleus-a .modern} Nucleus [ɐ]
+
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; 韻
+    ; IPA
+    ; Jyutping
+    ; Approximation
+    ; Remarks
+|:
+  //
+    , 喳
+    , [ɐ]
+    ,{#final-a} a
+    , [__u__ as in c__u__t],
+      in a general Australian accent
+    , Only heard for vernacular characters
+      as a shortened form of [final aa~\[aː\]](#final-aa).
+  //
+    , 仔
+    , [ɐi]
+    ,{#final-ai} ai
+    , [__u__ as in c__u__t],
+      in a general Australian accent,
+      followed by [__ee__ as in b__ee__],
+      in Received Pronunciation
+    ,
+  //
+    , 走
+    , [ɐu]
+    ,{#final-au} au
+    , [__u__ as in c__u__t],
+      in a general Australian accent,
+      followed by [__u__ as in p__u__ll],
+      in a general Australian accent
+    ,
+  //
+    , 針
+    , [ɐm]
+    ,{#final-am} am
+    , [__um__ as in s__um__],
+      in a general Australian accent,
+    ,
+  //
+    , 真
+    , [ɐn]
+    ,{#final-an} an
+    , [__un__ as in s__un__],
+      in a general Australian accent,
+    ,
+  //
+    , 增
+    , [ɐŋ]
+    ,{#final-ang} ang
+    , [__ung__ as in s__ung__],
+      in a general Australian accent,
+    ,
+  //
+    , 汁
+    , [ɐp̚]
+    ,{#final-ap} ap
+    , [__u__ as in c__u__t],
+      in a general Australian accent,
+      followed by [__p__ as in co__p__ter] with no audibly released P
+    ,
+  //
+    , 疾
+    , [ɐt̚]
+    ,{#final-at} at
+    , [__u__ as in c__u__t],
+      in a general Australian accent,
+      followed by [__t__ as in a__t__las] with no audibly released T
+    ,
+  //
+    , 仄
+    , [ɐk̚]
+    ,{#final-ak} ak
+    , [__u__ as in c__u__t],
+      in a general Australian accent,
       followed by [__c__ as in do__c__tor] with no audibly released C
     ,
 ''
