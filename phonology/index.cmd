@@ -429,6 +429,9 @@ that collapses the merged pairs (including Jyutping).
 - [un](#final-un)
 - [ung](#final-ung)
 - [ut](#final-ut)
+- [yu](#final-yu)
+- [yun](#final-yun)
+- [yut](#final-yut)
 ==
 </nav>
 
@@ -956,6 +959,42 @@ that collapses the merged pairs (including Jyutping).
     ,{#final-eot} eot
     , [__o__ as in butt__o__n],
       in a general Australian accent,
+      followed by [__t__ as in a__t__las] with no audibly released T
+    ,
+''
+||||
+
+
+###{#nucleus-yu .modern} Nucleus [yː]
+
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; 韻
+    ; IPA
+    ; Jyutping
+    ; Approximation
+    ; Remarks
+|:
+  //
+    , 遇
+    , [yː]
+    ,{#final-yu} yu
+    , [__ü__ as in __ü__ber], in German
+    ,
+  //
+    , 願
+    , [yːn]
+    ,{#final-yun} yun
+    , [__ü__ as in __ü__ber], in German,
+      followed by [__n__ as in si__n__]
+    ,
+  //
+    , 月
+    , [yːt̚]
+    ,{#final-yut} yut
+    , [__ü__ as in __ü__ber], in German,
       followed by [__t__ as in a__t__las] with no audibly released T
     ,
 ''
