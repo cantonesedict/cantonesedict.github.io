@@ -18,6 +18,19 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 
 #{.modern} %title
 
+--{.modern}
+The Cantonese phonology by which this dictionary has been organised
+is best described as modern (late 20th-century) Hong Kong Cantonese,
+although there will be instances where usages
+specific to Canton (Guangzhou) have been recorded,
+either because they appeared in Williams (1856),
+or because they are interesting in their own right.
+--
+--{.modern}
+For the phonology of the Ts(')ing Dynasty Cantonese recorded by Williams,
+see [Williams' introduction](/intro/).
+--
+
 
 ##{#initials .modern} Initials
 
