@@ -140,7 +140,7 @@ see [Williams' introduction](/intro/).
 ||||
 
 
-###{#dental-alveolar .modern} Velar and glottal (but not approximant)
+###{#velar-glottal .modern} Velar and glottal (but not approximant)
 
 ||||{.wide}
 ''{.modern}
@@ -335,7 +335,7 @@ that collapses the merged pairs (including Jyutping).
 --
 
 
-###{#sibilant .modern} Null or null-like
+###{#null .modern} Null or null-like
 
 ||||{.wide}
 ''{.modern}
