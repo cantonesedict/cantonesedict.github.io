@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caat
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-11-24
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -62,6 +62,7 @@ U
   U+5237
 V
   ==
+  - caat3-2 (vernacular rising-tone noun)
   - saat3 (per 《廣韻》數刮切)
   ==
 F
