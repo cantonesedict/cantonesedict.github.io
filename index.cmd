@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Home
-* %date-modified --> 2024-11-16
+* %date-modified --> 2024-11-24
 * %copyright-prior-years --> 2023--
 * %modern-colour --> crimson
 * %meta-description --> home page
@@ -55,6 +55,7 @@ by [Samuel Wells Williams].
 
 - Front matter (modern)
   ==
+  - [Cantonese phonology](/phonology/)
   - [Font test page](/font-test/)
   ==
 
@@ -206,7 +207,7 @@ consisting of:
 1. Collating the entries by Jyutping
    (noting that there are phonological differences between
    the Ts(')ing Dynasty Cantonese recorded by Williams
-   and modern Hong Kong Cantonese);
+   and [modern Hong Kong Cantonese](/phonology/));
 
 1. Under each Jyutping pronunciation,
    sorting the entries by radical+strokes, then Unicode code point;
