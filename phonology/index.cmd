@@ -417,6 +417,12 @@ that collapses the merged pairs (including Jyutping).
 - [ong](#final-ong)
 - [ot](#final-ot)
 - [ou](#final-ou)
+- [u](#final-u)
+- [ui](#final-ui)
+- [uk](#final-uk)
+- [un](#final-un)
+- [ung](#final-ung)
+- [ut](#final-ut)
 ==
 </nav>
 
@@ -807,6 +813,69 @@ that collapses the merged pairs (including Jyutping).
       in a general Australian accent with strictly no R consonant,
       followed by [__c__ as in do__c__tor] with no audibly released C
     , Sometimes pronounced with the vowel more open, i.e. [ɒːk̚].
+''
+||||
+
+
+###{#nucleus-u .modern} Nucleus [uː, o]
+
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; 韻
+    ; IPA
+    ; Jyutping
+    ; Approximation
+    ; Remarks
+|:
+  //
+    , 呼
+    , [uː]
+    ,{#final-u} u
+    , [__u__ as in p__u__ll],
+      in a general Australian accent, but longer
+    ,
+  //
+    , 灰
+    , [uːy]
+    ,{#final-ui} ui
+    , [__u__ as in p__u__ll],
+      in a general Australian accent, but longer,
+      followed by [__ü__ as in __ü__ber], in German
+    , Also pronounced an unrounded coda, i.e. [uːi].
+  //
+    , 歡
+    , [uːn]
+    ,{#final-un} un
+    , [__u__ as in p__u__ll],
+      in a general Australian accent, but longer,
+      followed by [__n__ as in si__n__]
+    ,
+  //
+    , 風
+    , [oŋ]
+    ,{#final-ung} ung
+    , halfway between [__oo__ as in t__oo__k] and [__or__ as in n__or__],
+      both in a general Australian accent with strictly no R consonant,
+      followed by [__ng__ as in si__ng__]
+    ,
+  //
+    , 闊
+    , [uːt̚]
+    ,{#final-ut} ut
+    , [__u__ as in p__u__ll],
+      in a general Australian accent, but longer,
+      followed by [__t__ as in a__t__las] with no audibly released T
+    ,
+  //
+    , 福
+    , [ok̚]
+    ,{#final-uk} uk
+    , halfway between [__oo__ as in t__oo__k] and [__or__ as in n__or__],
+      both in a general Australian accent with strictly no R consonant,
+      followed by [__c__ as in do__c__tor] with no audibly released C
+    ,
 ''
 ||||
 
