@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 -6.5 11 6" width="480px" xmlns="http://www.w3.org/2000/svg">
+<style>
+line {
+  stroke: crimson;
+  stroke-width: 2;
+  vector-effect: non-scaling-stroke;
+}
+text {
+  fill: crimson;
+  font-family: sans-serif;
+  font-size: 0.4px;
+  text-anchor: middle;
+}
+.heading {
+  font-size: 0.35px;
+}
+</style>
+<g transform="translate(0.85 0.15)">
+  <text y="-6" dy="-0.7em" class="heading">pitch</text>
+  <text y="-6" dy="0.5em" class="heading">numeral</text>
+  <text y="-5">5</text>
+  <text y="-4">4</text>
+  <text y="-3">3</text>
+  <text y="-2">2</text>
+  <text y="-1">1</text>
+</g>
+<g transform="translate(4.7 0)">
+  <text y="-5" dy="-0.4em">tone 1 <tspan lang="zh-Hant">陰平</tspan></text>
+  <line x1="-2.5" y1="-5" x2="2.5" y2="-5"/>
+
+  <text y="-4" dx="-0.4" dy="-0.4em" transform="rotate(-21.8 0 -4)">tone 2 <tspan lang="zh-Hant">陰上</tspan></text>
+  <line x1="-2.5" y1="-3" x2="2.5" y2="-5"/>
+
+  <text y="-3" dx="0.5" dy="-0.4em">tone 3 <tspan lang="zh-Hant">陰去</tspan></text>
+  <line x1="-2.5" y1="-3" x2="2.5" y2="-3"/>
+
+  <text y="-1" dy="-0.4em">tone 4 <tspan lang="zh-Hant">陽平</tspan></text>
+  <line x1="-2.5" y1="-1" x2="2.5" y2="-1"/>
+
+  <text y="-2.5" dx="-1.5" dy="-0.4em" transform="rotate(-11.3 0 -2.5)">tone 5 <tspan lang="zh-Hant">陽上</tspan></text>
+  <line x1="-2.5" y1="-2" x2="2.5" y2="-3"/>
+
+  <text y="-2" dx="1.5" dy="-0.4em">tone 6 <tspan lang="zh-Hant">陽去</tspan></text>
+  <line x1="-2.5" y1="-2" x2="2.5" y2="-2"/>
+</g>
+<g transform="translate(9.5 0)">
+  <text y="-5" dy="-0.4em">tone 7 <tspan lang="zh-Hant">高陰入</tspan></text>
+  <line x1="-1.2" y1="-5" x2="1.2" y2="-5"/>
+
+  <text y="-3" dy="-0.4em">tone 8 <tspan lang="zh-Hant">低陰入</tspan></text>
+  <line x1="-1.2" y1="-3" x2="1.2" y2="-3"/>
+
+  <text y="-2" dy="-0.4em">tone 9 <tspan lang="zh-Hant">陽入</tspan></text>
+  <line x1="-1.2" y1="-2" x2="1.2" y2="-2"/>
+</g>
+</svg>

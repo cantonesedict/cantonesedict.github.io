@@ -66,7 +66,7 @@ see [Williams' introduction](/intro/).
 ''{.modern}
 |^
   //
-    ; 聲
+    ; Ex.
     ; IPA
     ; Jyutping
     ; Approximation
@@ -106,7 +106,7 @@ see [Williams' introduction](/intro/).
 ''{.modern}
 |^
   //
-    ; 聲
+    ; Ex.
     ; IPA
     ; Jyutping
     ; Approximation
@@ -146,7 +146,7 @@ see [Williams' introduction](/intro/).
 ''{.modern}
 |^
   //
-    ; 聲
+    ; Ex.
     ; IPA
     ; Jyutping
     ; Approximation
@@ -213,7 +213,7 @@ I have followed standard Jyutping here and used the unlabialised initial.
 ''{.modern}
 |^
   //
-    ; 聲
+    ; Ex.
     ; IPA
     ; Jyutping
     ; Approximation
@@ -341,7 +341,7 @@ that collapses the merged pairs (including Jyutping).
 ''{.modern}
 |^
   //
-    ; 聲
+    ; Ex.
     ; IPA
     ; Jyutping
     ; Approximation
@@ -444,7 +444,7 @@ that collapses the merged pairs (including Jyutping).
 ''{.modern}
 |^
   //
-    ; 韻
+    ; Ex.
     ; IPA
     ; Jyutping
     ; Approximation
@@ -527,7 +527,7 @@ that collapses the merged pairs (including Jyutping).
 ''{.modern}
 |^
   //
-    ; 韻
+    ; Ex.
     ; IPA
     ; Jyutping
     ; Approximation
@@ -614,7 +614,7 @@ that collapses the merged pairs (including Jyutping).
 ''{.modern}
 |^
   //
-    ; 韻
+    ; Ex.
     ; IPA
     ; Jyutping
     ; Approximation
@@ -686,7 +686,7 @@ that collapses the merged pairs (including Jyutping).
 ''{.modern}
 |^
   //
-    ; 韻
+    ; Ex.
     ; IPA
     ; Jyutping
     ; Approximation
@@ -763,7 +763,7 @@ that collapses the merged pairs (including Jyutping).
 ''{.modern}
 |^
   //
-    ; 韻
+    ; Ex.
     ; IPA
     ; Jyutping
     ; Approximation
@@ -834,7 +834,7 @@ that collapses the merged pairs (including Jyutping).
 ''{.modern}
 |^
   //
-    ; 韻
+    ; Ex.
     ; IPA
     ; Jyutping
     ; Approximation
@@ -897,7 +897,7 @@ that collapses the merged pairs (including Jyutping).
 ''{.modern}
 |^
   //
-    ; 韻
+    ; Ex.
     ; IPA
     ; Jyutping
     ; Approximation
@@ -933,7 +933,7 @@ that collapses the merged pairs (including Jyutping).
 ''{.modern}
 |^
   //
-    ; 韻
+    ; Ex.
     ; IPA
     ; Jyutping
     ; Approximation
@@ -973,7 +973,7 @@ that collapses the merged pairs (including Jyutping).
 ''{.modern}
 |^
   //
-    ; 韻
+    ; Ex.
     ; IPA
     ; Jyutping
     ; Approximation
@@ -1009,7 +1009,7 @@ that collapses the merged pairs (including Jyutping).
 ''{.modern}
 |^
   //
-    ; 韻
+    ; Ex.
     ; IPA
     ; Jyutping
     ; Approximation
@@ -1032,3 +1032,155 @@ that collapses the merged pairs (including Jyutping).
 
 
 ##{#tones .modern} Tones
+
+###{#tone-diagram .modern} Diagram of tones
+
+||{.image-container}
+  ![Diagram showing the pitch contours of the nine tones of Cantonese.](tone-diagram.svg)
+||
+
+###{#tone-table .modern} Table of tones
+
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Ex.
+    ; #
+    ; Tone
+    ; IPA (numerals)
+    ; Jyutping
+    ; Remarks
+|:
+  //{#tone-1}
+    , 婚
+    , 1
+    , 陰平 (dark level)
+    , [fɐn˥˥] (55)
+    , fan1
+    , In Canton (Guangzhou), there is apparently a distinction
+      between high-level and high-falling.
+      I have not made such a distinction here,
+      both because I am unfamiliar with it
+      and because I have a bias in favour of [fɐn˥˥] (55)
+      (it is a level tone after all).
+  //{#tone-2}
+    , 粉
+    , 2
+    , 陰上 (dark rising)
+    , [fɐn˧˥] (35)
+    , fan2
+    , May start lower, i.e. [fɐn˨˥] (25).
+  //{#tone-3}
+    , 訓
+    , 3
+    , 陰去 (dark departing)
+    , [fɐn˧˧] (33)
+    , fan3
+    ,
+  //{#tone-4}
+    , 焚
+    , 4
+    , 陽平 (light level)
+    , [fɐn˩˩] (11)
+    , fan4
+    , Also pronounced slightly falling, i.e. [fɐn˨˩] (21),
+      especially if the syllable is drawn-out
+      (as in operatic or theatrical dialogue).
+      I have a bias in favour of [fɐn˩˩] (11)
+      (it is a level tone after all).
+  //{#tone-5}
+    , 奮
+    , 5
+    , 陽上 (light rising)
+    , [fɐn˨˧] (23)
+    , fan5
+    ,
+  //{#tone-6}
+    , 份
+    , 6
+    , 陽去 (light departing)
+    , [fɐn˨˨] (22)
+    , fan6
+    ,
+  //{#tone-7}
+    , 忽
+    , 7
+    , 高陰入 (higher dark departing)
+    , [fɐt̚˥] \(5\)
+    , fat1
+    , Sometimes called 高入. The name 高陰入 is preferable
+      as it preserves the qualifier 陰 "dark".
+      Also see [note on entering tones](#entering-tones).
+  //{#tone-8}
+    ,
+    , 8
+    , 低陰入 (lower dark departing)
+    , [fɐt̚˧] \(3\)
+    , fat3
+    , Sometimes called 中入. The name 低陰入 is preferable
+      as it preserves the qualifier 陰 "dark".
+      Also see [note on entering tones](#entering-tones).
+  //{#tone-9}
+    , 佛
+    , 9
+    , 陽入 (lower dark departing)
+    , [fɐt̚˨] \(2\)
+    , fat6
+    , Sometimes called 低入. The name 陽入 is preferable
+      as it preserves the qualifier 陽 "light".
+      Also see [note on entering tones](#entering-tones).
+''
+||||
+
+####{#entering-tones .modern} Note on entering tones
+
+--{.modern}
+Cantonese preserves the Middle Chinese correspondence
+between the nasal codas [m], [n], [ŋ]
+and the unreleased stops [p̚], [t̚], [k̚].
+The Middle Chinese entering tone (入聲) is reflected in modern Cantonese
+[tone~7 (高陰入)](#tone-7), [tone~8 (低陰入)](#tone-8), and [tone~9 (陽入)](#tone-9).
+--
+--{.modern}
+Whilst entering tones are not tones in a strict phonetic sense,
+with some authors casting them as tone~1, tone~3, and tone~6,
+it is vital to maintain the distinction because:
+--
+++{.modern}
+1. Pronunciations in olden dictionaries can only be understood
+   in terms of the nasal-stop correspondence
+   (e.g. 登入聲 in the Kangxi entry for 德); and
+2. Tone patterns in poetry (平仄) will be incorrect
+   if tone~7 (高陰入) is cast as tone~1 (陰平).
+++
+--{.modern}
+Unfortunately, Jyutping uses tone numbers 1, 3, 6 in place of 7, 8, 9.
+I have reluctantly followed Jyutping with its numbering,
+but have still used the names 高陰入, 低陰入, and 陽入
+to preserve the distinction.
+--
+
+####{#tone-changes .modern} Note on tone changes
+
+--{.modern}
+Tone changes are a feature of vernacular Cantonese.
+These are denoted in this dictionary by appending a hyphen and the new tone
+after the original tone in the Jyutping romanisation.
+--
+--{.modern}
+Typical examples of tone change are:
+--
+=={.modern}
+- A change to rising tone marking a word as a noun
+  (rather than an adjective or verb),
+  e.g. 畫 waa6-2 "painting", or 鑿 zok6-2 "chisel"; and
+
+- A change to dark level tone because it sounds better,
+  e.g. 今晚 gam1 maan5-1, or 後尾 hau6-1 mei5-1.
+==
+--{.modern}
+Such tone changes are *not* tone sandhi,
+because they apply unpredictably to specific words,
+rather than in a systematic manner due to the tone of surrounding syllables.
+--
