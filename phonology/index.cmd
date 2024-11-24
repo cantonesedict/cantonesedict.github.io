@@ -554,7 +554,7 @@ that collapses the merged pairs (including Jyutping).
     ,{#final-am} am
     , [__um__ as in s__um__],
       in a general Australian accent,
-    ,
+    , Also pronounced [om] in vernacular 噉 (gam2) and 咁 (gam3).
   //
     , 真
     , [ɐn]
