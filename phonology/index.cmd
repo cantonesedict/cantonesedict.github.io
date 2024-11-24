@@ -410,6 +410,13 @@ that collapses the merged pairs (including Jyutping).
 - [ip](#final-ip)
 - [it](#final-it)
 - [iu](#final-iu)
+- [o](#final-o)
+- [oi](#final-oi)
+- [ok](#final-ok)
+- [on](#final-on)
+- [ong](#final-ong)
+- [ot](#final-ot)
+- [ou](#final-ou)
 ==
 </nav>
 
@@ -729,6 +736,77 @@ that collapses the merged pairs (including Jyutping).
       both in a general Australian accent,
       followed by [__c__ as in do__c__tor] with no audibly released C
     ,
+''
+||||
+
+
+###{#nucleus-o .modern} Nucleus [ɔː, o]
+
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; 韻
+    ; IPA
+    ; Jyutping
+    ; Approximation
+    ; Remarks
+|:
+  //
+    , 歌
+    , [ɔː]
+    ,{#final-o} o
+    , [__or__ as in n__or__],
+      in a general Australian accent with strictly no R consonant
+    ,
+  //
+    , 該
+    , [ɔːy]
+    ,{#final-oi} oi
+    , [__or__ as in n__or__],
+      in a general Australian accent with strictly no R consonant,
+      followed by [__ü__ as in __ü__ber], in German
+    , Also pronounced an unrounded coda, i.e. [ɔːi].
+  //
+    , 高
+    , [ou]
+    ,{#final-ou} ou
+    , [__or__ as in n__or__],
+      in a general Australian accent with strictly no R consonant,
+      but much shorter,
+      followed by [__u__ as in p__u__ll], in a general Australian accent
+    ,
+  //
+    , 干
+    , [ɔːn]
+    ,{#final-on} on
+    , [__orn__ as in h__orn__],
+      in a general Australian accent with strictly no R consonant
+    ,
+  //
+    , 江
+    , [ɔːŋ]
+    ,{#final-ong} ong
+    , [__or__ as in n__or__],
+      in a general Australian accent with strictly no R consonant,
+      followed by [__ng__ as in si__ng__]
+    , Sometimes pronounced with the vowel more open, i.e. [ɒːŋ].
+  //
+    , 葛
+    , [ɔːt̚]
+    ,{#final-ot} ot
+    , [__or__ as in n__or__],
+      in a general Australian accent with strictly no R consonant,
+      followed by [__t__ as in a__t__las] with no audibly released T
+    ,
+  //
+    , 各
+    , [ɔːk̚]
+    ,{#final-ok} ok
+    , [__or__ as in n__or__],
+      in a general Australian accent with strictly no R consonant,
+      followed by [__c__ as in do__c__tor] with no audibly released C
+    , Sometimes pronounced with the vowel more open, i.e. [ɒːk̚].
 ''
 ||||
 
