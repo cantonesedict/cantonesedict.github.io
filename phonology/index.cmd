@@ -129,7 +129,7 @@ see [Williams' introduction](/intro/).
     , [n]
     ,{#initial-n} n
     , [__n__ as in __n__igh]
-    , Often unlearnedly replaced with initial l~[l].
+    , Often lazily replaced with initial l~[l].
   //
     , 啦
     , [l]
@@ -171,7 +171,7 @@ see [Williams' introduction](/intro/).
     ,{#initial-ng} ng
     , [__ng__ as in si__ng__er]
     ,
-      Often unlearnedly dropped, leaving a [null initial](#initial-null).
+      Often lazily dropped, leaving a [null initial](#initial-null).
       For literary characters, initial ng~[ŋ] is the correct one
       (as opposed to the null initial) when the tone is light (陽).
   //
@@ -1026,7 +1026,7 @@ that collapses the merged pairs (including Jyutping).
     , [ŋ̍]
     ,{#final-ng} ng
     , [__ng__ as in si__ng__], but longer
-    , Often unlearnedly replaced with syllabic m~[m̩].
+    , Often lazily replaced with syllabic m~[m̩].
 ''
 ||||
 
@@ -1184,3 +1184,23 @@ Such tone changes are *not* tone sandhi,
 because they apply unpredictably to specific words,
 rather than in a systematic manner due to the tone of surrounding syllables.
 --
+
+
+##{#pronunciation .modern} Note on pronunciation
+
+--{.modern}
+Whenever the topic of "correct" Cantonese pronunciation is discussed,
+it is important to distinguish between two different phenomena:
+--
+++{.modern}
+1. __"Lazy pronunciation"__ (懶音), which refers to common substitutions
+   such as replacing initial n~[n] with l~[l], dropping initial ng~[ŋ],
+   or replacing syllabic ng~[ŋ̍] with m~[m̩].
+   Correcting "lazy pronunciation" is a largely uncontroversial topic.
+
+2. __"Incorrect reading"__ (錯讀), which refers to incorrect reading of characters
+   according to some authority.
+   For example, some authorities regard the common reading ming5 for 銘
+   as incorrect, with ming4 (per 《廣韻》莫經切) to be used instead.
+   Correcting allegedly "incorrect readings" is a highly controversial topic.
+++
