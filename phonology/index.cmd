@@ -375,5 +375,102 @@ that collapses the merged pairs (including Jyutping).
 
 ##{#finals .modern} Finals
 
+<nav class="sideways">
+=={.modern}
+- [aa](#final-aa)
+- [aai](#final-aai)
+- [aak](#final-aak)
+- [aam](#final-aam)
+- [aan](#final-aan)
+- [aang](#final-aang)
+- [aap](#final-aap)
+- [aat](#final-aat)
+- [aau](#final-aau)
+==
+</nav>
+
+
+###{#nucleus-aa .modern} Nucleus [aː]
+
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; 韻
+    ; IPA
+    ; Jyutping
+    ; Approximation
+    ; Remarks
+|:
+  //
+    , 叉
+    , [aː]
+    ,{#final-aa} aa
+    , [__ar__ as in c__ar__],
+      in a general Australian accent with strictly no R consonant
+    ,
+  //
+    , 釵
+    , [aːi]
+    ,{#final-aai} aai
+    , [__y__ as in m__y__],
+      in Received Pronunciation
+    ,
+  //
+    , 抄
+    , [aːu]
+    ,{#final-aau} aau
+    , [__ow__ as in c__ow__],
+      in Received Pronunciation
+    ,
+  //
+    , 參
+    , [aːm]
+    ,{#final-aam} aam
+    , [__arm__ as in ch__arm__],
+      in a general Australian accent with strictly no R consonant
+    ,
+  //
+    , 餐
+    , [aːn]
+    ,{#final-aan} aan
+    , [__arn__ as in b__arn__],
+      in a general Australian accent with strictly no R consonant
+    ,
+  //
+    , 撐
+    , [aːŋ]
+    ,{#final-aang} aang
+    , [__ar__ as in c__ar__],
+      in a general Australian accent with strictly no R consonant,
+      followed by [__ng__ as in si__ng__]
+    ,
+  //
+    , 餐
+    , [aːp̚]
+    ,{#final-aap} aap
+    , [__ar__ as in c__ar__],
+      in a general Australian accent with strictly no R consonant,
+      followed by [__p__ as in co__p__ter] with no audibly released P
+    ,
+  //
+    , 察
+    , [aːt̚]
+    ,{#final-aat} aat
+    , [__ar__ as in c__ar__],
+      in a general Australian accent with strictly no R consonant,
+      followed by [__t__ as in a__t__las] with no audibly released T
+    ,
+  //
+    , 拆
+    , [aːk̚]
+    ,{#final-aak} aak
+    , [__ar__ as in c__ar__],
+      in a general Australian accent with strictly no R consonant,
+      followed by [__c__ as in do__c__tor] with no audibly released C
+    ,
+''
+||||
+
 
 ##{#tones .modern} Tones
