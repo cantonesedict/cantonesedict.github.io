@@ -34,6 +34,311 @@ see [Williams' introduction](/intro/).
 
 ##{#initials .modern} Initials
 
+<nav class="sideways">
+=={.modern}
+- [(null)](#initial-null)
+- [b](#initial-b)
+- [c](#initial-c)
+- [d](#initial-d)
+- [f](#initial-f)
+- [g](#initial-g)
+- [gw](#initial-gw)
+- [h](#initial-h)
+- [j](#initial-j)
+- [k](#initial-k)
+- [kw](#initial-kw)
+- [l](#initial-l)
+- [m](#initial-m)
+- [n](#initial-n)
+- [ng](#initial-ng)
+- [p](#initial-p)
+- [s](#initial-s)
+- [t](#initial-t)
+- [w](#initial-w)
+- [z](#initial-z)
+==
+</nav>
+
+
+###{#labial .modern} Labial
+
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; 聲
+    ; IPA
+    ; Jyutping
+    ; Approximation
+    ; Remarks
+|:
+  //
+    , 巴
+    , [p]
+    ,{#initial-b} b
+    , [__p__ as in s__p__y]
+    , Strictly unvoiced, i.e. not to be pronounced [__b__ as in __b__ye].
+  //
+    , 怕
+    , [pʰ]
+    ,{#initial-p} p
+    , [__p__ as in __p__ie]
+    ,
+  //
+    , 媽
+    , [m]
+    ,{#initial-m} m
+    , [__m__ as in __m__y]
+    ,
+  //
+    , 花
+    , [f]
+    ,{#initial-f} f
+    , [__f__ as in __f__ee]
+    ,
+''
+||||
+
+
+###{#dental-alveolar .modern} Dental/Alveolar (but not sibilant)
+
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; 聲
+    ; IPA
+    ; Jyutping
+    ; Approximation
+    ; Remarks
+|:
+  //
+    , 打
+    , [t]
+    ,{#initial-d} d
+    , [__t__ as in s__t__y]
+    , Strictly unvoiced, i.e. not to be pronounced [__d__ as in __d__ye].
+  //
+    , 他
+    , [tʰ]
+    ,{#initial-t} t
+    , [__t__ as in __t__ie], in Received Pronunciation
+    , To be pronounced crisply, with no dwell on the aspirate.
+  //
+    , 那
+    , [n]
+    ,{#initial-n} n
+    , [__n__ as in __n__igh]
+    , Unlearnedly replaced with the initial l~[l].
+  //
+    , 啦
+    , [l]
+    ,{#initial-l} l
+    , [__l__ as in __l__ie]
+    ,
+''
+||||
+
+
+###{#dental-alveolar .modern} Velar and glottal (but not approximant)
+
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; 聲
+    ; IPA
+    ; Jyutping
+    ; Approximation
+    ; Remarks
+|:
+  //
+    , 家
+    , [k]
+    ,{#initial-g} g
+    , [__k__ as in s__k__y]
+    , Strictly unvoiced, i.e. not to be pronounced [__g__ as in __g__uy].
+      Also see [note on labialised initials](#labialised-initials).
+  //
+    , 卡
+    , [kʰ]
+    ,{#initial-k} k
+    , [__k__ as in __k__ey]
+    , See [note on labialised initials](#labialised-initials).
+  //
+    , 牙
+    , [ŋ]
+    ,{#initial-ng} ng
+    , [__ng__ as in si__ng__er]
+    , Unlearnedly dropped, leaving a null initial.
+  //
+    , 蝦
+    , [h]
+    ,{#initial-h} h
+    , [__h__ as in __h__e]
+    ,
+  //
+    , 瓜
+    , [kʷ]
+    ,{#initial-gw} gw
+    , [__qu__ as in s__qu__eeze]
+    , Strictly unvoiced, i.e. not to be pronounced [__Gw__ as in __Gw__en].
+      Also see [note on labialised initials](#labialised-initials).
+  //
+    , 誇
+    , [kʷʰ]
+    ,{#initial-kw} kw
+    , [__qu__ as in __qu__een]
+    , See [note on labialised initials](#labialised-initials).
+''
+||||
+
+####{#labialised-initials .modern} Note on labialised initials
+
+--{.modern}
+For characters such as 官 where the main vowel is u~[uː], it is contested
+whether the initial is unlabialised (gun~[kuːn]) or labialised (gwun~[kʷuːn]).
+Whilst I personally sit in the labialised camp
+(per romanisations such as Kwun Tong for 官塘 and Kwu Tung for 古洞),
+I have followed standard Jyutping here and used the unlabialised initial.
+--
+
+
+###{#sibilant .modern} Sibilant
+
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; 聲
+    ; IPA
+    ; Jyutping
+    ; Approximation
+    ; Remarks
+|:
+  //
+    , 將
+    , [ts]
+    ,{#initial-z r=2} z
+    , [__ts__ as in lis__ts__]
+    ,{r=2} See [note on pre-merger initials](#pre-merger-initials).
+  //
+    , 張
+    , [tɕ]
+    , halfway between [__ts__ as in lis__ts__] and [__t__ as in s__t__upid],
+      with the latter in a sufficiently broad Australian accent
+      where the T is pronounced like [__ch__ as in __ch__ew]
+  //
+    , 槍
+    , [tsʰ]
+    ,{#initial-c r=2} c
+    , [__ts__ as in hi__ts__]
+    ,{r=2} See [note on pre-merger initials](#pre-merger-initials).
+  //
+    , 昌
+    , [tɕʰ]
+    , halfway between [__ts__ as in hi__ts__] and [__ch__ as in hit__ch__]
+  //
+    , 相
+    , [s]
+    ,{#initial-s r=2} s
+    , [__s__ as in __s__igh]
+    ,{r=2} See [note on pre-merger initials](#pre-merger-initials).
+  //
+    , 傷
+    , [ɕ]
+    , halfway between [__s__ as in __s__igh] and [__sh__ as in __sh__y]
+''
+||||
+
+####{#pre-merger-initials .modern} Note on pre-merger initials
+
+--{.modern}
+Modern Cantonese has merged the pairs:
+--
+=={.modern}
+- [ts] (Williams' _ts_) and [tɕ] (Williams' _ch_),
+  both [Jyutping z](#initial-z);
+- [tsʰ] (Williams' _ts(')_) and [tɕʰ] (Williams' _ch(')_),
+  both [Jyutping c](#initial-c); and
+- [s] (Williams' _s_) and [ɕ] (Williams' _sh_),
+  both [Jyutping s](#initial-s).
+==
+--{.modern}
+But it is not quite as simple as that.
+In two decades of personal experience,
+I have perceived a *tendency* for speakers to
+consistently favour specific initials depending on the vowel afterward:
+--
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Vowel afterwards
+    ;{c=3} Favoured post-merger initials
+|:
+  //
+    , [aː], [ɐ], [ɛː], [e], [iː]
+    , [ts]
+    , [tsʰ]
+    ,{r=2} [s]
+  //
+    , [ɔː], [o], [uː], [œ], [ɵ]
+    ,{r=2} [tɕ]
+    ,{r=2} [tɕʰ]
+  //
+    , [yː]
+    , [ɕ]
+''
+||||
+--{.modern}
+For example, the modern speaker will prefer:
+--
+=={.modern}
+- [sɛːk̚] over [ɕɛːk̚] for 石;
+- [saːŋ tɕʰɔːy] over [ɕaːŋ tsʰɔːy] for 生菜.
+==
+--{.modern}
+This subtlety is not captured by any modern romanisation scheme
+that collapses the merged pairs (including Jyutping).
+--
+
+
+###{#sibilant .modern} Null or null-like
+
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; 聲
+    ; IPA
+    ; Jyutping
+    ; Approximation
+    ; Remarks
+|:
+  //
+    , 丫
+    , (null)
+    ,{#initial-null} (null)
+    , (no consonant)
+    , The null initial.
+      Often the initial ng~[ŋ] is prepended hypercorrectively
+      (e.g. ngaap3 instead of aap3 for 鴨 "duck").
+  //
+    , 也
+    , [j]
+    ,{#initial-j} j
+    , [__y__ as in __y__e]
+    , Williams and some modern linguists take this to be a medial vowel [iː].
+  //
+    , 華
+    , [w]
+    ,{#initial-w} w
+    , [__w__ as in __w__e]
+    , Williams and some modern linguists take this to be a medial vowel [uː].
+''
+||||
+
 
 ##{#finals .modern} Finals
 

@@ -113,6 +113,10 @@ h2.modern {
   border-bottom: 1px solid var(--modern-colour);
 }
 
+h4 {
+  margin-bottom: 0;
+}
+
 
 header {
   margin-left: calc(-1 * var(--body-padding-horizontal));
