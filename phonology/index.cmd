@@ -129,7 +129,7 @@ see [Williams' introduction](/intro/).
     , [n]
     ,{#initial-n} n
     , [__n__ as in __n__igh]
-    , Often unlearnedly replaced with the initial l~[l].
+    , Often unlearnedly replaced with initial l~[l].
   //
     , 啦
     , [l]
@@ -172,7 +172,7 @@ see [Williams' introduction](/intro/).
     , [__ng__ as in si__ng__er]
     ,
       Often unlearnedly dropped, leaving a [null initial](#initial-null).
-      For literary characters, the initial ng~[ŋ] is the correct one
+      For literary characters, initial ng~[ŋ] is the correct one
       (as opposed to the null initial) when the tone is light (陽).
   //
     , 蝦
@@ -353,7 +353,7 @@ that collapses the merged pairs (including Jyutping).
     ,{#initial-null} (null)
     , (no consonant)
     , The null initial.
-      Often the [initial ng~\[ŋ\]](#initial-ng) is prepended hypercorrectively
+      Often [initial ng~\[ŋ\]](#initial-ng) is prepended hypercorrectively
       (e.g. ngaap3 instead of aap3 for 鴨 "duck").
       For literary characters, the null initial is the correct one
       (as opposed to initial ng~[ŋ]) when the tone is dark (陰).
@@ -395,6 +395,13 @@ that collapses the merged pairs (including Jyutping).
 - [ap](#final-ap)
 - [at](#final-at)
 - [au](#final-au)
+- [e](#final-e)
+- [ei](#final-ei)
+- [ek](#final-ek)
+- [em](#final-em)
+- [eng](#final-eng)
+- [ep](#final-ep)
+- [eu](#final-eu)
 ==
 </nav>
 
@@ -563,6 +570,78 @@ that collapses the merged pairs (including Jyutping).
     ,{#final-ak} ak
     , [__u__ as in c__u__t],
       in a general Australian accent,
+      followed by [__c__ as in do__c__tor] with no audibly released C
+    ,
+''
+||||
+
+
+###{#nucleus-e .modern} Nucleus [ɛː] or [e]
+
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; 韻
+    ; IPA
+    ; Jyutping
+    ; Approximation
+    ; Remarks
+|:
+  //
+    , 爹
+    , [ɛː]
+    ,{#final-e} e
+    , [__e__ as in y__e__ah],
+      in a general Australian accent, but slightly longer
+    ,
+  //
+    , 地
+    , [ei]
+    ,{#final-ei} ei
+    , [__ay__ as in b__ay__],
+      in Received Pronunciation, but with shorter A and longer Y
+    ,
+  //
+    , 掉
+    , [ɛːu]
+    ,{#final-eu} eu
+    , [__e__ as in y__e__ah],
+      in a general Australian accent,
+      followed by [__u__ as in p__u__ll], in a general Australian accent
+    , Only heard in vernacular readings,
+      usually as a variation of [final iu~\[iːu\]](#final-iu).
+  //
+    , 舔
+    , [ɛːm]
+    ,{#final-em} em
+    , [__em__ as in h__em__],
+      in a general Australian accent, but longer
+    , Only heard in vernacular readings,
+      often as a variation of [final im~\[iːm\]](#final-im).
+  //
+    , 贏
+    , [ɛːŋ]
+    ,{#final-eng} eng
+    , [__e__ as in y__e__ah],
+      in a general Australian accent, but slightly longer,
+      followed by [__ng__ as in si__ng__]
+    ,
+  //
+    , 夾
+    , [ɛːp̚]
+    ,{#final-ep} ep
+    , [__e__ as in y__e__ah],
+      in a general Australian accent, but slightly longer,
+      followed by [__p__ as in co__p__ter] with no audibly released P
+    , Only heard in vernacular readings,
+      often as a variation of [final ip~\[iːp̚\]](#final-ip).
+  //
+    , 尺
+    , [ɛːk̚]
+    ,{#final-ek} ek
+    , [__e__ as in y__e__ah],
+      in a general Australian accent, but slightly longer,
       followed by [__c__ as in do__c__tor] with no audibly released C
     ,
 ''
