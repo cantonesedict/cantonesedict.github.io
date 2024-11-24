@@ -402,6 +402,14 @@ that collapses the merged pairs (including Jyutping).
 - [eng](#final-eng)
 - [ep](#final-ep)
 - [eu](#final-eu)
+- [i](#final-i)
+- [ik](#final-ik)
+- [im](#final-im)
+- [in](#final-in)
+- [ing](#final-ing)
+- [ip](#final-ip)
+- [it](#final-it)
+- [iu](#final-iu)
 ==
 </nav>
 
@@ -576,7 +584,7 @@ that collapses the merged pairs (including Jyutping).
 ||||
 
 
-###{#nucleus-e .modern} Nucleus [ɛː] or [e]
+###{#nucleus-e .modern} Nucleus [ɛː, e]
 
 ||||{.wide}
 ''{.modern}
@@ -642,6 +650,83 @@ that collapses the merged pairs (including Jyutping).
     ,{#final-ek} ek
     , [__e__ as in y__e__ah],
       in a general Australian accent, but slightly longer,
+      followed by [__c__ as in do__c__tor] with no audibly released C
+    ,
+''
+||||
+
+
+###{#nucleus-i .modern} Nucleus [iː, e]
+
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; 韻
+    ; IPA
+    ; Jyutping
+    ; Approximation
+    ; Remarks
+|:
+  //
+    , 而
+    , [iː]
+    ,{#final-i} i
+    , [__ee__ as in b__ee__],
+      in Received Pronunciation
+    ,
+  //
+    , 堯
+    , [iːu]
+    ,{#final-iu} iu
+    , [__ee__ as in b__ee__],
+      in Received Pronunciation,
+      followed by [__u__ as in p__u__ll], in a general Australian accent
+    ,
+  //
+    , 嚴
+    , [iːm]
+    ,{#final-im} im
+    , [__eem__ as in s__eem__],
+      in Received Pronunciation
+    ,
+  //
+    , 言
+    , [iːn]
+    ,{#final-in} in
+    , [__een__ as in s__een__],
+      in Received Pronunciation
+    ,
+  //
+    , 形
+    , [eŋ]
+    ,{#final-ing} ing
+    , halfway between [__i__ as in t__i__n] and [__e__ as in t__e__n],
+      both in a general Australian accent,
+      followed by [__ng__ as in si__ng__]
+    ,
+  //
+    , 葉
+    , [iːp̚]
+    ,{#final-ip} ip
+    , [__ee__ as in b__ee__],
+      in Received Pronunciation,
+      followed by [__p__ as in co__p__ter] with no audibly released P
+    ,
+  //
+    , 熱
+    , [iːt̚]
+    ,{#final-it} it
+    , [__ee__ as in b__ee__],
+      in Received Pronunciation,
+      followed by [__t__ as in a__t__las] with no audibly released T
+    ,
+  //
+    , 亦
+    , [ek̚]
+    ,{#final-ik} ik
+    , halfway between [__i__ as in t__i__n] and [__e__ as in t__e__n],
+      both in a general Australian accent,
       followed by [__c__ as in do__c__tor] with no audibly released C
     ,
 ''
