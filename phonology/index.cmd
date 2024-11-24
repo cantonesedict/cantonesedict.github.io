@@ -400,6 +400,9 @@ that collapses the merged pairs (including Jyutping).
 - [ek](#final-ek)
 - [em](#final-em)
 - [eng](#final-eng)
+- [eoi](#final-eoi)
+- [eon](#final-eon)
+- [eot](#final-eot)
 - [ep](#final-ep)
 - [eu](#final-eu)
 - [i](#final-i)
@@ -914,6 +917,46 @@ that collapses the merged pairs (including Jyutping).
     ,{#final-oek} oek
     , [__ö__ as in H__ö__lle], in German,
       followed by [__c__ as in do__c__tor] with no audibly released C
+    ,
+''
+||||
+
+
+###{#nucleus-eo .modern} Nucleus [ɵ]
+
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; 韻
+    ; IPA
+    ; Jyutping
+    ; Approximation
+    ; Remarks
+|:
+  //
+    , 需
+    , [ɵy]
+    ,{#final-eoi} eoi
+    , [__o__ as in butt__o__n],
+      in a general Australian accent,
+      followed by [__ü__ as in __ü__ber], in German
+    ,
+  //
+    , 詢
+    , [ɵn]
+    ,{#final-eon} eon
+    , [__o__ as in butt__o__n],
+      in a general Australian accent,
+      followed by [__n__ as in si__n__]
+    ,
+  //
+    , 戌
+    , [ɵt̚]
+    ,{#final-eot} eot
+    , [__o__ as in butt__o__n],
+      in a general Australian accent,
+      followed by [__t__ as in a__t__las] with no audibly released T
     ,
 ''
 ||||
