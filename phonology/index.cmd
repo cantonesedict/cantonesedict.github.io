@@ -411,6 +411,9 @@ that collapses the merged pairs (including Jyutping).
 - [it](#final-it)
 - [iu](#final-iu)
 - [o](#final-o)
+- [oe](#final-oe)
+- [oek](#final-oek)
+- [oeng](#final-oeng)
 - [oi](#final-oi)
 - [ok](#final-ok)
 - [on](#final-on)
@@ -874,6 +877,42 @@ that collapses the merged pairs (including Jyutping).
     ,{#final-uk} uk
     , halfway between [__oo__ as in t__oo__k] and [__or__ as in n__or__],
       both in a general Australian accent with strictly no R consonant,
+      followed by [__c__ as in do__c__tor] with no audibly released C
+    ,
+''
+||||
+
+
+###{#nucleus-oe .modern} Nucleus [œ]
+
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; 韻
+    ; IPA
+    ; Jyutping
+    ; Approximation
+    ; Remarks
+|:
+  //
+    , 靴
+    , [œː]
+    ,{#final-oe} oe
+    , [__ö__ as in H__ö__lle], in German
+    ,
+  //
+    , 香
+    , [œːŋ]
+    ,{#final-oeng} oeng
+    , [__ö__ as in H__ö__lle], in German,
+      followed by [__ng__ as in si__ng__]
+    ,
+  //
+    , 卻
+    , [œːk̚]
+    ,{#final-oek} oek
+    , [__ö__ as in H__ö__lle], in German,
       followed by [__c__ as in do__c__tor] with no audibly released C
     ,
 ''
