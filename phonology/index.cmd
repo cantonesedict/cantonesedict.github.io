@@ -129,7 +129,7 @@ see [Williams' introduction](/intro/).
     , [n]
     ,{#initial-n} n
     , [__n__ as in __n__igh]
-    , Unlearnedly replaced with the initial l~[l].
+    , Often unlearnedly replaced with the initial l~[l].
   //
     , 啦
     , [l]
@@ -170,7 +170,10 @@ see [Williams' introduction](/intro/).
     , [ŋ]
     ,{#initial-ng} ng
     , [__ng__ as in si__ng__er]
-    , Unlearnedly dropped, leaving a null initial.
+    ,
+      Often unlearnedly dropped, leaving a [null initial](#initial-null).
+      For literary characters, the initial ng~[ŋ] is the correct one
+      (as opposed to the null initial) when the tone is light (陽).
   //
     , 蝦
     , [h]
@@ -350,8 +353,10 @@ that collapses the merged pairs (including Jyutping).
     ,{#initial-null} (null)
     , (no consonant)
     , The null initial.
-      Often the initial ng~[ŋ] is prepended hypercorrectively
+      Often the [initial ng~\[ŋ\]](#initial-ng) is prepended hypercorrectively
       (e.g. ngaap3 instead of aap3 for 鴨 "duck").
+      For literary characters, the null initial is the correct one
+      (as opposed to initial ng~[ŋ]) when the tone is dark (陰).
   //
     , 也
     , [j]
