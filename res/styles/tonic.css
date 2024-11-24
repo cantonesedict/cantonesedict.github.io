@@ -249,6 +249,10 @@ th, td {
   color: var(--modern-colour-mark);
 }
 
+h4 .permalink{
+  background-size: 0.8em;
+  padding-left: 1.3em;
+}
 .permalink {
   background-image: url(/res/styles/permalink.svg);
   background-position: center left;
