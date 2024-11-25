@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Cantonese phonology
-* %date-modified --> 2024-11-24
+* %date-modified --> 2024-11-25
 * %copyright-prior-years -->
 * %meta-description --> Cantonese phonology
 
@@ -1106,7 +1106,7 @@ that collapses the merged pairs (including Jyutping).
   //{#tone-7}
     , 忽
     , 7
-    , 高陰入 (higher dark departing)
+    , 高陰入 (higher dark entering)
     , [fɐt̚˥] \(5\)
     , fat1
     , Sometimes called 高入. The name 高陰入 is preferable
@@ -1115,7 +1115,7 @@ that collapses the merged pairs (including Jyutping).
   //{#tone-8}
     ,
     , 8
-    , 低陰入 (lower dark departing)
+    , 低陰入 (lower dark entering)
     , [fɐt̚˧] \(3\)
     , fat3
     , Sometimes called 中入. The name 低陰入 is preferable
@@ -1124,7 +1124,7 @@ that collapses the merged pairs (including Jyutping).
   //{#tone-9}
     , 佛
     , 9
-    , 陽入 (lower dark departing)
+    , 陽入 (light entering)
     , [fɐt̚˨] \(2\)
     , fat6
     , Sometimes called 低入. The name 陽入 is preferable
