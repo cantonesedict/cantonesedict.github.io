@@ -132,7 +132,7 @@ see [Williams' introduction](/intro/).
     , [tʰ]
     ,{#initial-t} t
     , [__t__ as in __t__ie], in Received Pronunciation
-    , To be pronounced crisply, with no dwell on the aspirate.
+    , To be pronounced lightly and cleanly, with no dwell on the aspirate.
   //
     , 那
     , [n]
