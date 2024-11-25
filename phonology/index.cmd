@@ -1191,8 +1191,7 @@ Typical examples of tone change are:
 --{.modern}
 Such tone changes are *not* tone sandhi,
 because they apply to specific words,
-rather than indiscriminately to all words
-due to the tone of a word and its surrounding syllables.
+rather than indiscriminately to certain sequences of tones.
 --
 
 
