@@ -1178,15 +1178,24 @@ These are denoted in this dictionary by appending a hyphen and the new tone numb
 after the original tone number in the Jyutping romanisation.
 --
 --{.modern}
-Typical examples of tone change are:
+Examples of tone change include:
 --
 =={.modern}
-- A change to rising tone marking a word as a noun
+- A change to rising-tone marking a word as a noun
   (rather than an adjective or verb),
-  e.g. 畫 waa6-2 "painting", or 鑿 zok6-2 "chisel"; and
+  e.g. 畫 waa6-2, or 鑿 zok6-2.
 
-- A change to dark-level tone because it sounds better,
-  e.g. 今晚 gam1 maan5-1, or 後尾 hau6-1 mei5-1.
+- A change to rising-tone on the second character of a reduplication
+  (where the reduplicated character is not tone~1),
+  e.g. 慢慢 maan6 maan6-2, 婷婷 ting4 ting4-2, or 熱熱地 jit6 jit6-2 dei6-2.
+
+- A change to high level-tone because it sounds better,
+  e.g. 慢慢 maan6 maan6-1, 今晚 gam1 maan5-1, or 後尾 hau6-1 mei5-1.
+
+- A change to low level-tone because it sounds better,
+  e.g. 長沙灣 coeng4 saa1 waan1-4.
+
+- Unique tone changes such as 輕輕 heng1-6 heng1.
 ==
 --{.modern}
 Such tone changes are *not* tone sandhi,
