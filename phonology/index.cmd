@@ -1064,7 +1064,7 @@ that collapses the merged pairs (including Jyutping).
   //{#tone-1}
     , 婚
     , 1
-    , 陰平 (dark level)
+    , 陰平 (dark-level)
     , [fɐn˥˥] (55)
     , fan1
     , In Canton (Guangzhou), there is apparently a distinction
@@ -1076,21 +1076,21 @@ that collapses the merged pairs (including Jyutping).
   //{#tone-2}
     , 粉
     , 2
-    , 陰上 (dark rising)
+    , 陰上 (dark-rising)
     , [fɐn˧˥] (35)
     , fan2
     , May start lower, i.e. [fɐn˨˥] (25).
   //{#tone-3}
     , 訓
     , 3
-    , 陰去 (dark departing)
+    , 陰去 (dark-departing)
     , [fɐn˧˧] (33)
     , fan3
     ,
   //{#tone-4}
     , 焚
     , 4
-    , 陽平 (light level)
+    , 陽平 (light-level)
     , [fɐn˩˩] (11)
     , fan4
     , Also pronounced slightly falling, i.e. [fɐn˨˩] (21),
@@ -1101,21 +1101,21 @@ that collapses the merged pairs (including Jyutping).
   //{#tone-5}
     , 奮
     , 5
-    , 陽上 (light rising)
+    , 陽上 (light-rising)
     , [fɐn˨˧] (23)
     , fan5
     ,
   //{#tone-6}
     , 份
     , 6
-    , 陽去 (light departing)
+    , 陽去 (light-departing)
     , [fɐn˨˨] (22)
     , fan6
     ,
   //{#tone-7}
     , 忽
     , 7
-    , 高陰入 (higher dark entering)
+    , 高陰入 (higher-dark-entering)
     , [fɐt̚˥] \(5\)
     , fat1
     , Sometimes called 高入. The name 高陰入 is preferable
@@ -1124,7 +1124,7 @@ that collapses the merged pairs (including Jyutping).
   //{#tone-8}
     ,
     , 8
-    , 低陰入 (lower dark entering)
+    , 低陰入 (lower-dark-entering)
     , [fɐt̚˧] \(3\)
     , fat3
     , Sometimes called 中入. The name 低陰入 is preferable
@@ -1133,7 +1133,7 @@ that collapses the merged pairs (including Jyutping).
   //{#tone-9}
     , 佛
     , 9
-    , 陽入 (light entering)
+    , 陽入 (light-entering)
     , [fɐt̚˨] \(2\)
     , fat6
     , Sometimes called 低入. The name 陽入 is preferable
@@ -1185,7 +1185,7 @@ Typical examples of tone change are:
   (rather than an adjective or verb),
   e.g. 畫 waa6-2 "painting", or 鑿 zok6-2 "chisel"; and
 
-- A change to dark level tone because it sounds better,
+- A change to dark-level tone because it sounds better,
   e.g. 今晚 gam1 maan5-1, or 後尾 hau6-1 mei5-1.
 ==
 --{.modern}
