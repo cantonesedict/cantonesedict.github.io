@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2024-11-15
+* %date-modified --> 2024-11-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zeon1](#1)
+- [zeon2](#2)
 ==
 </nav>
 <## /tones ##>
@@ -218,5 +219,56 @@ W
         [[zeon1 zin1 迍邅]],
         making no advance, unsuccessful.
     ==
+  ====
+$$
+
+
+##{#2 .williams} (2)Chun [[zeon2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $准2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 准2 | _(2)Chun_ [[zeon2]]
+
+$$
+R
+  ⼎ + 8
+U
+  U+51C6
+F
+  ==
+  - [[F2.53 准]] 信也實也
+  ==
+W
+  ====
+  - [[Page~36* (2)准]]
+    ==
+    - To permit, to approve;
+    - to allow, to decide;
+    - to receive;
+    - on, upon, as a day;
+    - _(2)chun chong(6)_
+        [[zeon2 zong6 准狀]]
+        grant the petition;
+    - [[see $準zeon2 for "prepare" and "accurate" senses]];
+    - _(2)chun (4)hang_
+        [[zeon2 hang4 准行]],
+        allowed to be done;
+    - _(2)chun sun(3)_
+        [[zeon2 seon3 准信]]
+        to believe;
+    - _(2)chun (5)(i/) shap(9) yat(9)_
+        [[zeon2 ji5 sap6 jat6 准以十日]]
+        permission for ten days;
+    - [[...]].
+    ==
+    --
+    Used for the following [[$凖2; here normalised to $準2; **see $準zeon2 for the canonical entry**]].
+    --
   ====
 $$
