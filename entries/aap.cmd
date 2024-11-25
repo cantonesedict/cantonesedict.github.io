@@ -86,7 +86,7 @@ V
   ==
   - aap3-2 (vernacular rising-tone noun)
   - ngaap3 (hypercorrected initial)
-  - ngaap3-2 (hypercorrected initial, vernacular rising-tone noun)
+  - ngaap3-2 (hypercorrected initial and vernacular rising-tone noun)
   ==
 F
   ==

@@ -71,7 +71,7 @@ A
 V
   ==
   - aak1 (longer syllable)
-  - ngaak1 (hypercorrected initial, longer syllable)
+  - ngaak1 (hypercorrected initial and longer syllable)
   - ngak1 (hypercorrected initial)
   ==
 F
@@ -117,7 +117,7 @@ U
 V
   ==
   - aak1 (longer syllable)
-  - ngaak1 (hypercorrected initial, longer syllable)
+  - ngaak1 (hypercorrected initial and longer syllable)
   - ngak1 (hypercorrected initial)
   ==
 F
@@ -153,7 +153,7 @@ U
 V
   ==
   - aak1 (longer syllable)
-  - ngaak1 (hypercorrected initial, longer syllable)
+  - ngaak1 (hypercorrected initial and longer syllable)
   - ngak1 (hypercorrected initial)
   ==
 F
@@ -181,7 +181,7 @@ U
 V
   ==
   - aak1 (longer syllable)
-  - ngaak1 (hypercorrected initial, longer syllable)
+  - ngaak1 (hypercorrected initial and longer syllable)
   - ngak1 (hypercorrected initial)
   ==
 F
@@ -228,7 +228,7 @@ U
 V
   ==
   - aak1 (longer syllable)
-  - ngaak1 (hypercorrected initial, longer syllable)
+  - ngaak1 (hypercorrected initial and longer syllable)
   - ngak1 (hypercorrected initial)
   ==
 F
@@ -271,7 +271,7 @@ U
 V
   ==
   - aak1 (longer syllable)
-  - ngaak1 (hypercorrected initial, longer syllable)
+  - ngaak1 (hypercorrected initial and longer syllable)
   - ngak1 (hypercorrected initial)
   ==
 F

@@ -228,7 +228,7 @@ V
   ==
   - aak3-2 (vernacular rising-tone noun)
   - ngaak3 (hypercorrected initial)
-  - ngaak3-2 (hypercorrected initial, vernacular rising-tone noun)
+  - ngaak3-2 (hypercorrected initial and vernacular rising-tone noun)
   ==
 F
   ==
