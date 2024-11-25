@@ -1191,17 +1191,27 @@ due to the tone of a word and its surrounding syllables.
 
 --{.modern}
 Whenever the topic of "correct" Cantonese pronunciation is discussed,
-it is important to distinguish between two different phenomena:
+it is important to distinguish between two competencies:
 --
 ++{.modern}
-1. __"Lazy pronunciation"__ (懶音), which refers to common substitutions
-   such as replacing initial n~[n] with l~[l], dropping initial ng~[ŋ],
+1. The __ability to accurately sound a given reading__ of a character; and
+2. The __knowledge of the correct reading__ of a character.
+++
+--{.modern}
+The corresponding *incompetencies* are two distinct phenomena:
+--
+++{.modern}
+1. __"Lazy pronunciation"__ (懶音)
+   is the failure to accurately sound a given reading of a character.
+   Examples include replacing initial n~[n] with l~[l], dropping initial ng~[ŋ],
    or replacing syllabic ng~[ŋ̍] with m~[m̩].
    Correcting "lazy pronunciation" is a largely uncontroversial topic.
 
-2. __"Incorrect reading"__ (錯讀), which refers to incorrect reading of characters
-   according to some authority.
-   For example, some authorities regard the common reading ming5 for 銘
-   as incorrect, with ming4 (per 《廣韻》莫經切) to be used instead.
+2. __"Incorrect reading"__ (錯讀)
+   is the failure to know or apply the correct reading of a character,
+   where "correct reading" is defined by some linguistic authority.
+   For example, Richard Ho (何文匯) regards
+   the common reading ming5 for 銘 (attested in Fan Wan) as incorrect,
+   with ming4 the "correct reading" per 《廣韻》莫經切.
    Correcting allegedly "incorrect readings" is a highly controversial topic.
 ++
