@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2024-10-08
+* %date-modified --> 2024-11-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -68,7 +68,7 @@ U
   U+557D
 V
   ==
-  - ngam1 (ng prepend)
+  - ngam1 (hypercorrected initial)
   ==
 F
   [[Not present]]
@@ -101,7 +101,7 @@ A
   ==
 V
   ==
-  - ngam1 (ng prepend)
+  - ngam1 (hypercorrected initial)
   ==
 F
   ==
@@ -183,7 +183,7 @@ A
   ==
 V
   ==
-  - ngam1 (ng prepend)
+  - ngam1 (hypercorrected initial)
   ==
 F
   ==
@@ -312,7 +312,7 @@ A
   ==
 V
   ==
-  - ngam2 (ng prepend)
+  - ngam2 (hypercorrected initial)
   ==
 F
   ==
@@ -440,7 +440,7 @@ U
 V
   ==
   - am1 (per 《廣韻》烏含切)
-  - ngam2 (ng prepend)
+  - ngam2 (hypercorrected initial)
   ==
 F
   ==
@@ -480,7 +480,7 @@ U
 V
   ==
   - am3 (per 《廣韻》烏紺切)
-  - ngam2 (ng prepend)
+  - ngam2 (hypercorrected initial)
   ==
 F
   ==
@@ -519,7 +519,7 @@ U
   U+9EEF
 V
   ==
-  - ngam2 (ng prepend)
+  - ngam2 (hypercorrected initial)
   ==
 F
   ==
@@ -559,7 +559,7 @@ U
   U+6697
 V
   ==
-  - ngam3 (ng prepend)
+  - ngam3 (hypercorrected initial)
   ==
 F
   ==

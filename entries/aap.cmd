@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aap
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-11-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -85,8 +85,8 @@ U
 V
   ==
   - aap3-2 (vernacular rising-tone noun)
-  - ngaap3 (ng prepend)
-  - ngaap3-2 (ng prepend vernacular rising-tone noun)
+  - ngaap3 (hypercorrected initial)
+  - ngaap3-2 (hypercorrected initial, vernacular rising-tone noun)
   ==
 F
   ==

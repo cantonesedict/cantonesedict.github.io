@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aan
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-11-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -60,7 +60,7 @@ U
   U+664F
 V
   ==
-  - ngaan3 (ng prepend)
+  - ngaan3 (hypercorrected initial)
   ==
 F
   ==
@@ -161,7 +161,7 @@ A
   ==
 V
   ==
-  - ngaan3 (ng prepend)
+  - ngaan3 (hypercorrected initial)
   ==
 F
   ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ak
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-11-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -71,8 +71,8 @@ A
 V
   ==
   - aak1 (longer syllable)
-  - ngaak1 (ng prepend longer syllable)
-  - ngak1 (ng prepend)
+  - ngaak1 (hypercorrected initial, longer syllable)
+  - ngak1 (hypercorrected initial)
   ==
 F
   ==
@@ -117,8 +117,8 @@ U
 V
   ==
   - aak1 (longer syllable)
-  - ngaak1 (ng prepend longer syllable)
-  - ngak1 (ng prepend)
+  - ngaak1 (hypercorrected initial, longer syllable)
+  - ngak1 (hypercorrected initial)
   ==
 F
   [[Not present]]
@@ -153,8 +153,8 @@ U
 V
   ==
   - aak1 (longer syllable)
-  - ngaak1 (ng prepend longer syllable)
-  - ngak1 (ng prepend)
+  - ngaak1 (hypercorrected initial, longer syllable)
+  - ngak1 (hypercorrected initial)
   ==
 F
   ==
@@ -181,8 +181,8 @@ U
 V
   ==
   - aak1 (longer syllable)
-  - ngaak1 (ng prepend longer syllable)
-  - ngak1 (ng prepend)
+  - ngaak1 (hypercorrected initial, longer syllable)
+  - ngak1 (hypercorrected initial)
   ==
 F
   ==
@@ -228,8 +228,8 @@ U
 V
   ==
   - aak1 (longer syllable)
-  - ngaak1 (ng prepend longer syllable)
-  - ngak1 (ng prepend)
+  - ngaak1 (hypercorrected initial, longer syllable)
+  - ngak1 (hypercorrected initial)
   ==
 F
   ==
@@ -271,8 +271,8 @@ U
 V
   ==
   - aak1 (longer syllable)
-  - ngaak1 (ng prepend longer syllable)
-  - ngak1 (ng prepend)
+  - ngaak1 (hypercorrected initial, longer syllable)
+  - ngak1 (hypercorrected initial)
   ==
 F
   ==

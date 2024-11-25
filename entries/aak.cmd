@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aak
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-11-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -157,7 +157,7 @@ U
 V
   ==
   - ak1 (shorter syllable)
-  - ngaak1 (ng prepend)
+  - ngaak1 (hypercorrected initial)
   ==
 F
   ==
@@ -227,8 +227,8 @@ U
 V
   ==
   - aak3-2 (vernacular rising-tone noun)
-  - ngaak3 (ng prepend)
-  - ngaak3-2 (ng prepend vernacular rising-tone noun)
+  - ngaak3 (hypercorrected initial)
+  - ngaak3-2 (hypercorrected initial, vernacular rising-tone noun)
   ==
 F
   ==

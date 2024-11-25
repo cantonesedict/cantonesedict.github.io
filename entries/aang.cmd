@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aang
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-11-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -86,7 +86,7 @@ A
 V
   ==
   - ang1 (shorter syllable)
-  - ngaang1 (ng prepend)
+  - ngaang1 (hypercorrected initial)
   ==
 F
   ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ai
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-11-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -155,7 +155,7 @@ U
   U+77EE
 V
   ==
-  - ngai2 (ng prepend)
+  - ngai2 (hypercorrected initial)
   ==
 F
   ==
@@ -209,7 +209,7 @@ U
   U+5C6D
 V
   ==
-  - ngai3 (ng prepend)
+  - ngai3 (hypercorrected initial)
   ==
 F
   [[Not present]]
@@ -251,7 +251,7 @@ U
   U+66C0
 V
   ==
-  - ngai3 (ng prepend)
+  - ngai3 (hypercorrected initial)
   ==
 F
   ==
@@ -280,7 +280,7 @@ U
   U+7E0A
 V
   ==
-  - ngai3 (ng prepend)
+  - ngai3 (hypercorrected initial)
   ==
 F
   ==
@@ -311,7 +311,7 @@ U
   U+7FF3
 V
   ==
-  - ngai3 (ng prepend)
+  - ngai3 (hypercorrected initial)
   ==
 F
   ==
@@ -366,7 +366,7 @@ U
   U+26809
 V
   ==
-  - ngai3 (ng prepend)
+  - ngai3 (hypercorrected initial)
   ==
 F
   [[Not present]]

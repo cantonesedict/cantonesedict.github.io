@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aau
-* %date-modified --> 2024-10-06
+* %date-modified --> 2024-11-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -61,7 +61,7 @@ U
   U+5773
 V
   ==
-  - ngaau1 (ng prepend)
+  - ngaau1 (hypercorrected initial)
   ==
 F
   [[Not present]]
@@ -107,7 +107,7 @@ U
   U+62D7
 V
   ==
-  - ngaau2 (ng prepend)
+  - ngaau2 (hypercorrected initial)
   ==
 F
   ==
@@ -192,7 +192,7 @@ U
 V
   ==
   - nap1 (vernacular)
-  - ngaau3 (ng prepend)
+  - ngaau3 (hypercorrected initial)
   ==
 F
   ==
@@ -234,7 +234,7 @@ A
 V
   ==
   - aau1 (per 《廣韻》於交切 for literary "uneven ground" senses)
-  - ngaau3 (ng prepend)
+  - ngaau3 (hypercorrected initial)
   ==
 F
   ==
@@ -280,7 +280,7 @@ U
   U+62D7
 V
   ==
-  - ngaau3 (ng prepend)
+  - ngaau3 (hypercorrected initial)
   ==
 F
   ==
@@ -343,7 +343,7 @@ A
   ==
 V
   ==
-  - ngaau3 (ng prepend)
+  - ngaau3 (hypercorrected initial)
   ==
 F
   [[Not present]]

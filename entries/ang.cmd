@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ang
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-11-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -109,7 +109,7 @@ U
   U+9DAF
 V
   ==
-  - ngang1 (ng prepend)
+  - ngang1 (hypercorrected initial)
   ==
 F
   ==
@@ -166,7 +166,7 @@ U
 V
   ==
   - gang2 (per 《廣韻》古杏切)
-  - ngang2 (ng prepend)
+  - ngang2 (hypercorrected initial)
   ==
 F
   ==
