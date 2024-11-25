@@ -1165,8 +1165,8 @@ to preserve the distinction.
 
 --{.modern}
 Tone changes are a feature of vernacular Cantonese.
-These are denoted in this dictionary by appending a hyphen and the new tone
-after the original tone in the Jyutping romanisation.
+These are denoted in this dictionary by appending a hyphen and the new tone number
+after the original tone number in the Jyutping romanisation.
 --
 --{.modern}
 Typical examples of tone change are:
