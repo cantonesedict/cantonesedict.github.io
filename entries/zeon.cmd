@@ -230,6 +230,7 @@ $$
 =={.modern}
 - $准2
 - $凖2
+- $準2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -256,7 +257,7 @@ W
     - _(2)chun chong(6)_
         [[zeon2 zong6 准狀]]
         grant the petition;
-    - [[see $準zeon2 for "prepare" and "accurate" senses]];
+    - [[see $準zeon2 for "prepare" sense]];
     - _(2)chun (4)hang_
         [[zeon2 hang4 准行]],
         allowed to be done;
@@ -266,10 +267,12 @@ W
     - _(2)chun (5)(i/) shap(9) yat(9)_
         [[zeon2 ji5 sap6 jat6 准以十日]]
         permission for ten days;
-    - [[...]].
+    - _(2)chun shat(9) k(o\)m(3) (1)to_
+        [[zeon2 sat6 gam3 do1 准實咁多]],
+        worth just that.
     ==
     --
-    Used for the following [[$凖2; here normalised to $準2; **see $準zeon2 for the canonical entry**]].
+    Used for the following [[$凖2]].
     --
   ====
 $$
@@ -284,7 +287,6 @@ U
 F
   ==
   - [[F2.53 凖]] 凖則平也擬也
-  - [[F2.53 准]] 信也實也
   ==
 W
   ====
@@ -292,5 +294,60 @@ W
     --
     [[Alternative form of 準. **See $準zeon2 for the canonical entry.**]]
     --
+  ====
+$$
+
+###+ 準2 | _(2)Chun_ (zeon2)
+
+$$
+R
+  ⽔ + 10
+U
+  U+6E96
+A
+  ==
+  - $准2
+  - $凖2
+  ==
+F
+  ==
+  - [[F2.53 凖]] 凖則平也擬也
+  ==
+W
+  ====
+  - [[Page~36* (2)准; here normalised to 準]]
+    ==
+    - [[...]];
+    - _(2)chun p(i/)(6)_
+        [[zeon2 bei6 準備]]
+        to prepare for;
+    - [[...]].
+    ==
+    --
+    [[...]]
+    --
+  - [[Page~36* (2)凖; here normalised to 準]]
+    ==
+    - To equalize, to fix, to adjust;
+    - to level, to measure;
+    - a rule, a [gauge], a plumb, a line;
+    - even, exact, just;
+    - to run true, as a watch;
+    - _(5)yau (2)chun (4)t(')au_
+        [[jau5 zeon2 tau4 有準頭]],
+        he has the right [gauge], skilled in;
+    - _(2)chun ch(i/)t(8)_
+        [[zeon2 zit3 準折]]
+        to barter;
+    - _(2)chun (4)shing_
+        [[zeon2 sing4 準繩]],
+        a marking-line;
+    - _(2)chun tsak(7)_
+        [[zeon2 zak1 準則]]
+        a custom, a rule;
+    - _(2)chun (4)'m (2)chun_
+        [[zeon2 m4 zeon2 準唔準]],
+        is it exact?
+    ==
   ====
 $$
