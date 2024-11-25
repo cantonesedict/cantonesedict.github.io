@@ -18,6 +18,15 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 
 #{.modern} %title
 
+<nav class="sideways">
+=={.modern}
+- [Initials](#initials)
+- [Finals](#finals)
+- [Tones](#tones)
+- [Pronunciation](#pronunciation)
+==
+</nav>
+
 --{.modern}
 The Cantonese phonology by which this dictionary has been organised
 is best described as modern (late 20th-century) Hong Kong Cantonese,
