@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Font test page
-* %date-modified --> 2023-07-28
-* %copyright-prior-years -->
+* %date-modified --> 2024-11-25
+* %copyright-prior-years --> 2023--
 * %meta-description --> Font test page for tone marks
 
 OrdinaryDictionaryReplacement: #.no-black-serif-note
@@ -20,7 +20,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 
 #{.modern} %title
 
-##{.modern} Ideographic tone marks: four tones
+##{#four-tones .modern} Ideographic tone marks: four tones
 
 --{.modern}
 These tone marks are combining characters,
@@ -61,7 +61,7 @@ and should appear as circles on one of the four corners of a character
 ||||
 
 
-##{.modern} Modifier letters: eight tones
+##{#eight-tones .modern} Modifier letters: eight tones
 
 --{.modern}
 These modifier letters are *not* combining characters;
