@@ -229,6 +229,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $准2
+- $凖2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -269,6 +270,27 @@ W
     ==
     --
     Used for the following [[$凖2; here normalised to $準2; **see $準zeon2 for the canonical entry**]].
+    --
+  ====
+$$
+
+### 凖2 | _(2)Chun_ [[zeon2]]
+
+$$.
+R
+  ⼎ + 10
+U
+  U+51D6
+F
+  ==
+  - [[F2.53 凖]] 凖則平也擬也
+  - [[F2.53 准]] 信也實也
+  ==
+W
+  ====
+  - [[Page~36* (2)凖]]
+    --
+    [[Alternative form of 準. **See $準zeon2 for the canonical entry.**]]
     --
   ====
 $$

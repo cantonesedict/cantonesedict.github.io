@@ -405,6 +405,14 @@ For all radicals, see [Index of characters by radical](./).
       - $凑cau3
       ==
       </nav>
+  //
+    , 10
+    ,
+      <nav class="sideways">
+      ==
+      - $凖zeon2
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⼎-characters ##>
