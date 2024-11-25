@@ -77,7 +77,7 @@ see [Williams' introduction](/intro/).
     , [p]
     ,{#initial-b} b
     , [__p__ as in s__p__y]
-    , Strictly unvoiced, i.e. not to be pronounced [__b__ as in __b__ye].
+    , Strictly unvoiced, i.e. *not* to be pronounced [__b__ as in __b__ye].
   //
     , 怕
     , [pʰ]
@@ -117,7 +117,7 @@ see [Williams' introduction](/intro/).
     , [t]
     ,{#initial-d} d
     , [__t__ as in s__t__y]
-    , Strictly unvoiced, i.e. not to be pronounced [__d__ as in __d__ye].
+    , Strictly unvoiced, i.e. *not* to be pronounced [__d__ as in __d__ye].
   //
     , 他
     , [tʰ]
@@ -157,7 +157,7 @@ see [Williams' introduction](/intro/).
     , [k]
     ,{#initial-g} g
     , [__k__ as in s__k__y]
-    , Strictly unvoiced, i.e. not to be pronounced [__g__ as in __g__uy].
+    , Strictly unvoiced, i.e. *not* to be pronounced [__g__ as in __g__uy].
       Also see [note on labialised initials](#labialised-initials).
   //
     , 卡
@@ -185,7 +185,7 @@ see [Williams' introduction](/intro/).
     , [kʷ]
     ,{#initial-gw} gw
     , [__qu__ as in s__qu__eeze]
-    , Strictly unvoiced, i.e. not to be pronounced [__Gw__ as in __Gw__en].
+    , Strictly unvoiced, i.e. *not* to be pronounced [__Gw__ as in __Gw__en].
       Also see [note on labialised initials](#labialised-initials).
   //
     , 誇
