@@ -248,6 +248,9 @@ th, td {
 .modern mark {
   color: var(--modern-colour-mark);
 }
+.modern th, .modern td {
+  border-color: var(--modern-colour);
+}
 
 h4 .permalink{
   background-size: 0.8em;
