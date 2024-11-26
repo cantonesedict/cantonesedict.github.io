@@ -53,6 +53,7 @@ $$
 =={.modern}
 - $啍1
 - $屯1
+- $樽1
 - $津1
 - $窀1
 - $肫1
@@ -130,6 +131,73 @@ S
   ==
   - $屯tyun4 (TODO)
   ==
+$$
+
+### 樽1 | _(1)Tsun_ [[zeon1]]
+
+$$
+R
+  ⽊ + 12
+U
+  U+6A3D
+A
+  ==
+  - $尊1
+  - $罇1
+  ==
+F
+  ==
+  - [[F2.51 樽]] 酒樽
+  - [[F2.51 鐏]] 同上
+  - [[F2.51 ::[罇]::]] 同上
+  - [[F2.51 尊]] 同上
+  ==
+W
+  ====
+  - [[Page~600 (1)樽(1)罇(1)尊]]
+    ==
+    - A vase for libations;
+    - a vase for wine;
+    - a bottle, a decanter;
+    - a vase, a jar;
+    - full, flourishing foliage;
+    - to stop;
+    - _yat(7) (1)tsun (2)tsau_
+        [[jat1 zeon1 zau2 一樽酒]],
+        a bottle of spirits;
+    - _(1)f(a/) (1)tsun_
+        [[faa1 zeon1 花樽]],
+        a flower-vase;
+    - _(1)hoi (1)tsun_
+        [[hoi1 zeon1 開樽]],
+        open the bottle.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised ⿰𦈢尊 to 罇.
+  ==
+E
+  ====
+  - 【樽】 (zeon1):
+    ++
+    1. A bottle.
+       ==
+       - 樽豉油 (zeon1 si6 jau4): "[The] bottle of soy sauce."
+       - 樽水 (zeon1 seoi2): "[The] bottle of water."
+       - 樽裝水 (zeon1 zong1 seoi2): "Bottled water."
+       - 水樽 (seoi2 zeon1): "Water bottle."
+       - 膠樽 (gaau1 zeon1): "Plastic bottle."
+       - 酒樽 (zau2 zeon1): "Wine bottle."
+       - 玻璃樽 (bo1 lei4-1 zeon1): "Glass bottle."
+       ==
+    1. A vase.
+       ==
+       - 花樽 (faa1 zeon1): "[A] flower vase."
+       ==
+    ++
+  ====
+  <## TODO: 樽領 zeon1 leng5 ##>
 $$
 
 ### 津1 | _(1)Tsun_ [[zeon1]]

@@ -1116,6 +1116,7 @@ For all radicals, see [Index of characters by radical](./).
       - $橙caang2
       - $橙caang4
       - $樵ciu4
+      - $樽zeon1
       - $橡zoeng6
       ==
       </nav>
