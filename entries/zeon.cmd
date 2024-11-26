@@ -46,13 +46,14 @@ MP
 $$
 
 
-##{#1 .williams} (1)Chun [[zeon1 陰平]]
+##{#1 .williams} (1)Chun (1)Tsun [[zeon1 陰平]]
 
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
 - $啍1
 - $屯1
+- $津1
 - $窀1
 - $肫1
 - $諄1
@@ -129,6 +130,56 @@ S
   ==
   - $屯tyun4 (TODO)
   ==
+$$
+
+### 津1 | _(1)Tsun_ [[zeon1]]
+
+$$
+R
+  ⽔ + 6
+U
+  U+6D25
+F
+  ==
+  - [[F2.51 津]] 濟渡處又津液
+  ==
+W
+  ====
+  - [[Page~600 (1)津]]
+    ==
+    - A ford, a ferry;
+    - a landing-place, a ghaut;
+    - to ford, to cross a stream;
+    - to imbue, to moisten, to soften by soaking;
+    - to split wood by the hands;
+    - spittle;
+    - _(1)tsun (4)l(e/)ung_
+        [[zeon1 loeng5 津梁]],
+        ends of a bridge;
+    - _(1)tsun yat(9)_
+        [[zeon1 jat6 津溢]]
+        saliva;
+    - _(1)tsun (2)hau_
+        [[zeon1 hau2 津口]],
+        a ferry;
+    - _(1)kw(a/)n (1)tsun_
+        [[gwaan1 zeon1 關津]],
+        excise stations, guard-houses;
+    - _man(6) (1)tsun_
+        [[man6 zeon1 問津]],
+        to ask the way;
+    - _(1)shang (1)tsun_
+        [[sang1 zeon1 生津]],
+        to produce saliva;
+    - __(1)t(')(i/)n (1)tsun_
+        [[tin1 zeon1 天津]],
+        the constellation Cygnus;
+        the port of Peking [[北京]];
+    - _(1)tsun (1)tsun (5)yau m(i/)(6)_
+        [[zeon1 zeon1 jau5 mei6 津津有味]]
+        I relish it more and more.
+    ==
+  ====
 $$
 
 ### 窀1 | _(1)Chun_ [[zeon1]]
