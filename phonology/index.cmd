@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Cantonese phonology
-* %date-modified --> 2024-11-25
+* %date-modified --> 2024-11-26
 * %copyright-prior-years -->
 * %meta-description --> Cantonese phonology
 
@@ -1157,7 +1157,7 @@ with some authors casting them as tone~1, tone~3, and tone~6,
 it is vital to maintain the distinction because:
 --
 ++{.modern}
-1. Pronunciations in olden dictionaries can only be understood
+1. Some pronunciations in olden dictionaries can only be understood
    in terms of the nasal-stop correspondence
    (e.g. 登入聲 in the Kangxi entry for 德); and
 2. Tone patterns in poetry (平仄) will be incorrect
