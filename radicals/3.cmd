@@ -793,6 +793,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $尋cam4
+      - $尊zeon1
       ==
       </nav>
 ''

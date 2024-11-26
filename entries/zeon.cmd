@@ -52,6 +52,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $啍1
+- $尊1
 - $屯1
 - $樽1
 - $津1
@@ -101,6 +102,37 @@ S
 $$
 
 <## TODO: 慢啍啍 maan6 tan1 tan1, maan6 tan4 tan4 ##>
+
+### 尊1 | _(1)Tsun_ [[zeon1]]
+
+$$.
+R
+  ⼨ + 9
+U
+  U+5C0A
+F
+  ==
+  - [[F2.51 樽]] 酒樽
+  - [[F2.51 鐏]] 同上
+  - [[F2.51 ::[罇]::]] 同上
+  - [[F2.51 尊]] 同上
+  ==
+W
+  ====
+  - [[Page~600 (1)樽(1)罇(1)尊]]
+    --
+    [[Alternative form of 樽. **See $樽zeon1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised ⿰𦈢尊 to 罇.
+  ==
+S
+  ==
+  - $尊zyun1 (TODO)
+  ==
+$$
 
 ### 屯1 | _(1)Chun_ [[zeon1]]
 
