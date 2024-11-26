@@ -56,6 +56,7 @@ $$
 - $樽1
 - $津1
 - $窀1
+- $罇1
 - $肫1
 - $諄1
 - $迍1
@@ -270,6 +271,33 @@ W
         to put away in a vault or grave.
     ==
   ====
+$$
+
+### 罇1 | _(1)Tsun_ [[zeon1]]
+
+$$.
+R
+  ⽸ + 12
+U
+  U+7F47
+F
+  ==
+  - [[F2.51 樽]] 酒樽
+  - [[F2.51 鐏]] 同上
+  - [[F2.51 ::[罇]::]] 同上
+  - [[F2.51 尊]] 同上
+  ==
+W
+  ====
+  - [[Page~600 (1)樽(1)罇(1)尊]]
+    --
+    [[Alternative form of 樽. **See $樽zeon1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised ⿰𦈢尊 to 罇.
+  ==
 $$
 
 ### 肫1 | _(1)Chun_ [[zeon1]]
