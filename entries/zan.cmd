@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zan
-* %date-modified --> 2024-10-16
+* %date-modified --> 2024-11-26
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -257,6 +257,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $侲3
+- $圳3
 - $帪3
 - $振3
 - $賑3
@@ -286,6 +287,43 @@ W
         boys who play at funerals.
     ==
   ====
+$$
+
+###+ 圳3 | _Chan(3)_ (zan3)
+
+$$
+R
+  ⼟ + 3
+U
+  U+5733
+V
+  ==
+  - zeon3 (Fan Wan)
+  ==
+F
+  ==
+  - [[F2.54 圳 _Chun(3)_ (zeon3)]] 諄去聲水劣也
+  ==
+W
+  ====
+  - [[Page~36* 圳(3) _Chun(3)_ (zeon3); here normalised to _Chan(3)_ (zan3)]]
+    ==
+    - A rapid in a stream;
+    - _[chan](3) (2)hau_
+        [[zan3 hau2 圳口]],
+        a place where the water runs swiftly.
+    ==
+  ====
+C
+  ==
+  - Kangxi quotes 《字彙補》市流切音酬
+    for a reading of _(4)shau_ (sau4) or _(4)ch(')au_ (cau4),
+    explained 江楚閒田畔水溝謂之圳, i.e. drainage in a field.
+  ==
+S
+  ==
+  - $圳zeon3
+  ==
 $$
 
 ### 帪3 | _Chan(3)_ [[zan3]]

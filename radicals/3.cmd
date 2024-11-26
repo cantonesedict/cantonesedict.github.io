@@ -323,6 +323,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $圳zan3
       - $圳zeon3
       - $在zoi6
       ==
