@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [zeon1](#1)
 - [zeon2](#2)
+- [zeon3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -350,4 +351,39 @@ W
         is it exact?
     ==
   ====
+$$
+
+
+##{#3 .williams} Chun(3) [[zeon3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $圳3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 圳3 | _Chun(3)_ [[zeon3]]
+
+$$.
+R
+  ⼟ + 3
+U
+  U+5733
+F
+  ==
+  - [[F2.54 圳]] 諄去聲水劣也
+  ==
+W
+  ====
+  - [[Page~36* 圳(3)]]
+    --
+    [[Idiosyncratic reading from Fan Wan. **See $圳zan3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $圳zan3 (TODO)
+  ==
 $$
