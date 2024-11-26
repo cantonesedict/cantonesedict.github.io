@@ -193,8 +193,7 @@ sup {
 
 
 table {
-  border-collapse: separate;
-  border-spacing: 1px;
+  border-collapse: collapse;
 }
 th, td {
   border: 1px solid black;
