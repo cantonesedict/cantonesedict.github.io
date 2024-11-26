@@ -371,13 +371,13 @@ that collapses the merged pairs (including Jyutping).
     , [j]
     ,{#initial-j} j
     , [__y__ as in __y__e]
-    , Williams and some modern linguists take this to be a medial vowel [iː].
+    , Williams considers the initial to be null when the main vowel is [iː].
   //
     , 華
     , [w]
     ,{#initial-w} w
     , [__w__ as in __w__e]
-    , Williams and some modern linguists take this to be a medial vowel [uː].
+    , Williams considers the initial to be null when the main vowel is [uː].
 ''
 ||||
 
