@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2024-11-25
+* %date-modified --> 2024-11-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -61,6 +61,7 @@ $$
 - $肫1
 - $諄1
 - $迍1
+- $遵1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -400,6 +401,52 @@ W
         making no advance, unsuccessful.
     ==
   ====
+$$
+
+### 遵1 | _(1)Tsun_ [[zeon1]]
+
+$$
+R
+  ⾡ + 12
+U
+  U+9075
+V
+  ==
+  - zyun1 (uncommon vernacular)
+  ==
+F
+  ==
+  - [[F2.51 遵]] 循也率也
+  ==
+W
+  ====
+  - [[Page~601 (1)遵]]
+    ==
+    - To follow a superior;
+    - to comply with, to obey, to conform to, to act as required, to yield;
+    - to induce to follow, to influence to obey;
+    - obedience, acquiescence;
+    - _(1)tsun (2)ch(i/)_
+        [[zeon1 zi2 遵旨]],
+        to obey the [emperor's] behests;
+    - _(1)yam (2)ts(')z' (1)yam (1)tsun_
+        [[jam1 ci2 jam1 zeon1 欽此欽遵]],
+        to stand in awe and obey;
+    - _(1)tsun f(a/)t(8)_
+        [[zeon1 faat3 遵法]]
+        to obey the laws;
+    - _(1)tsun (1)(i/)_
+        [[zeon1 ji1 遵依]],
+        to cordially receive.
+    ==
+  ====
+C
+  ==
+  - Williams' 欽此欽遵: A phrase that concludes imperial edicts.
+    Note that 欽此 is indicative, whilst 欽遵 is imperative,
+    so the phrase is better rendered
+    "[the] revered [edict is] thus, [the] revered [edict] obey!"
+  ==
 $$
 
 
