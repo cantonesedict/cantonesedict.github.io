@@ -54,6 +54,7 @@ $$
 - $啍1
 - $尊1
 - $屯1
+- $榛1
 - $樽1
 - $津1
 - $窀1
@@ -164,6 +165,33 @@ C
 S
   ==
   - $屯tyun4 (TODO)
+  ==
+$$
+
+### 榛1 | _(1)Tsun_ [[zeon1]]
+
+$$
+R
+  ⽊ + 10
+U
+  U+699B
+F
+  ==
+  - [[F2.52 榛]] ::榛[檜]木名::
+  ==
+W
+  ====
+  - [[Page~601 (1)榛]]
+    ==
+    - A fruit like the hazel or filbert, smaller than the chestnut;
+    - wood, brushwood;
+    - thorny bushes, as in thickset hedges.
+    ==
+  ====
+C
+  ==
+  - Strictly, the pre-merger reading should be _(1)chun_ per 《廣韻》側詵切.
+  - Fan Wan entry: Changed 橧 to 檜.
   ==
 $$
 
