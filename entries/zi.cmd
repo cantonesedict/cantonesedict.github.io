@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-10-12
+* %date-modified --> 2024-11-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -4500,7 +4500,7 @@ U
   U+801C
 F
   ==
-  - [[F2.36 ::[耜]::]] 耒[耜]耕田所以起土者
+  - [[F2.36 ::[耜]::]] ::耒[耜]耕田所以起土者::
   ==
 W
   ====

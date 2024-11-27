@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zit
-* %date-modified --> 2024-11-06
+* %date-modified --> 2024-11-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -645,7 +645,7 @@ V
   ==
 F
   ==
-  - [[F1.27 ::[捷]::]] 勝也敏疾也報勝曰[捷]報
+  - [[F1.27 ::[捷]::]] ::勝也敏疾也報勝曰[捷]報::
   ==
 W
   ====

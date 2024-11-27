@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zong
-* %date-modified --> 2024-10-08
+* %date-modified --> 2024-11-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -588,7 +588,7 @@ F
   ==
 W
   ====
-  - [[Page~593 葬[(3)]塟[(3)]^]]
+  - [[Page~593 ::葬[(3)]塟[(3)]::^]]
     --
     [[Alternative form of 葬. **See $葬zong3 for the canonical entry.**]]
     --
@@ -675,7 +675,7 @@ F
   ==
 W
   ====
-  - [[Page~593 葬[(3)]塟[(3)]^]]
+  - [[Page~593 ::葬[(3)]塟[(3)]::^]]
     ==
     - To bury, to inter, to put under the ground;
     - _tsong(3) (4)m(a/)i_

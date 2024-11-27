@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zuk
-* %date-modified --> 2024-11-12
+* %date-modified --> 2024-11-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -681,7 +681,7 @@ V
   ==
 F
   ==
-  - [[F1.66 妯 _Shuk(9)_ (suk6)]] 妯娌嬸姆[曰]妯娌
+  - [[F1.66 妯 _Shuk(9)_ (suk6)]] ::妯娌嬸姆[曰]妯娌::
   ==
 W
   ====
