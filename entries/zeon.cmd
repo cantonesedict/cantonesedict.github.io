@@ -582,6 +582,7 @@ $$
 - $准2
 - $凖2
 - $準2
+- $燼2
 - $盡2
 ==
 </nav>
@@ -743,6 +744,39 @@ W
     - _(2)chun (4)'m (2)chun_
         [[zeon2 m4 zeon2 準唔準]],
         is it exact?
+    ==
+  ====
+$$
+
+### 燼2 | _(2)Tsun_ [[zeon2]]
+
+$$
+R
+  ⽕ + 14
+U
+  U+71FC
+V
+  ==
+  - zeon6 (per 《廣韻》徐刃切)
+  ==
+F
+  ==
+  - [[F2.53 燼]] 火燭之灰也燒後曰燼
+  ==
+W
+  ====
+  - [[Page~601 (2)燼]]
+    ==
+    - The ashes, embers, snuff, or residue after combustion;
+    - a quenched brand;
+    - the residuum;
+    - the relics, what is left, as of a conquered people;
+    - _f(a/)(3) (4)wai (1)f(u/)i (2)tsun_
+        [[faa3 wai4 fui1 zeon2 化為灰燼]],
+        all turned to ashes;
+    - _(4)(u:) (2)tsun_
+        [[jyu4 zeon2 餘燼]],
+        the remains, as of embers.
     ==
   ====
 $$
