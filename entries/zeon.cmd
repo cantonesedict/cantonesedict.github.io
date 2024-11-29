@@ -582,6 +582,7 @@ $$
 - $准2
 - $凖2
 - $準2
+- $盡2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -744,6 +745,27 @@ W
         is it exact?
     ==
   ====
+$$
+
+###+ 盡2 | _(2)Tsun_ (zeon2)
+
+$$.
+R
+  ⽫ + 9
+U
+  U+76E1
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Alternative form of 儘. **See $儘zeon2 for the canonical entry.**
+  ==
+S
+  ==
+  - $盡zeon6 (TODO)
+  ==
 $$
 
 
