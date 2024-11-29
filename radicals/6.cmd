@@ -1120,6 +1120,7 @@ For all radicals, see [Index of characters by radical](./).
       - $蒺zat6
       - $蓆zek6
       - $蓆zik6
+      - $蓁zeon1
       - $蒸zing1
       - $蒸zing3
       ==

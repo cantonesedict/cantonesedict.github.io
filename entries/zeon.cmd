@@ -62,6 +62,7 @@ $$
 - $罇1
 - $肫1
 - $臻1
+- $蓁1
 - $諄1
 - $迍1
 - $遵1
@@ -441,6 +442,35 @@ W
     - _p(a/)k(8) fuk(7) (4)p(')ing (1)tsun_
         [[baak3 fuk1 ping4 zeon1 百福駢臻]],
         may all happiness come here.
+    ==
+  ====
+C
+  ==
+  - Strictly, the pre-merger reading should be _(1)chun_ per 《廣韻》側詵切.
+  ==
+$$
+
+### 蓁1 | _(1)Tsun_ [[zeon1]]
+
+$$
+R
+  ⾋ + 10
+U
+  U+84C1
+F
+  ==
+  - [[F2.69 蓁]] 美盛貌
+  ==
+W
+  ====
+  - [[Page~601 (1)蓁]]
+    ==
+    - Abundant, exuberant herbage;
+    - bushy trees;
+    - collected, an accumulation of;
+    - _(4)k(')(i/) (i/)p(9) (1)tsun (1)tsun_
+        [[kei4 jip6 zeon1 zeon1 其葉蓁蓁]],
+        how abundant is the foliage.
     ==
   ====
 C
