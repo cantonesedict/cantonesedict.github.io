@@ -61,6 +61,7 @@ $$
 - $窀1
 - $罇1
 - $肫1
+- $臻1
 - $諄1
 - $迍1
 - $遵1
@@ -416,6 +417,36 @@ W
         decided, firm.
     ==
   ====
+$$
+
+### 臻1 | _(1)Tsun_ [[zeon1]]
+
+$$
+R
+  ⾄ + 10
+U
+  U+81FB
+F
+  ==
+  - [[F2.69 臻]] 至也
+  ==
+W
+  ====
+  - [[Page~601 (1)臻]]
+    ==
+    - To arrive or extend to;
+    - the utmost, the highest degree;
+    - many, a multitude;
+    - to collect, to congregate;
+    - _p(a/)k(8) fuk(7) (4)p(')ing (1)tsun_
+        [[baak3 fuk1 ping4 zeon1 百福駢臻]],
+        may all happiness come here.
+    ==
+  ====
+C
+  ==
+  - Strictly, the pre-merger reading should be _(1)chun_ per 《廣韻》側詵切.
+  ==
 $$
 
 ### 諄1 | _(1)Chun_ [[zeon1]]
