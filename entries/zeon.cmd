@@ -572,17 +572,61 @@ C
 $$
 
 
-##{#2 .williams} (2)Chun [[zeon2 陰上]]
+##{#2 .williams} (2)Chun (2)Tsun [[zeon2 陰上]]
 
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $儘2
 - $准2
 - $凖2
 - $準2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 儘2 | _(2)Tsun_ [[zeon2]]
+
+$$
+R
+  ⼈ + 14
+U
+  U+5118
+A
+  ==
+  - $盡2
+  ==
+V
+  ==
+  - zeon6 (common)
+  ==
+F
+  ==
+  - [[F2.53 儘]] 皆也
+  ==
+W
+  ====
+  - [[Page~601 (2)儘]]
+    ==
+    - Same as _tsun(6)_ [[zeon6]] 盡 to finish; empty; all; the utmost degree;
+    - _(2)tsun (2)ho (5)(i/)_
+        [[zeon2 ho2 ji5 儘可以]],
+        it can be done;
+    - _(2)tsun k(i/)n(3)_
+        [[zeon2 gin3 儘見]]
+        seen it through, seen the whole.
+    ==
+  ====
+C
+  ==
+  - The common reading zeon6 is reinforced by modern use of 盡快, 盡力, etc.
+    instead of 儘快, 儘力, etc.
+  ==
+S
+  ==
+  - $儘zeon6 (TODO)
+  ==
+$$
 
 ### 准2 | _(2)Chun_ [[zeon2]]
 
