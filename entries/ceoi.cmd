@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2024-11-10
+* %date-modified --> 2024-11-29
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1051,7 +1051,7 @@ W
   ====
   - [[Page~596 趣(3)]]
     ==
-    - Similar to _(1)ts(')(u:) (ceoi1) 趨 to run;
+    - Similar to _(1)ts(')(u:)_ (ceoi1) 趨 to run;
     - to go, to advance quickly;
     - to see what is proper and agreeable, and hasten to do it;
     - to show alacrity or haste to please;

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2024-10-16
+* %date-modified --> 2024-11-29
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -210,7 +210,7 @@ W
     - _(1)ch(e/)ung (4)y(e/)ung_
         [[zoeng1 joeng4 張揚]]^
         to make known;
-    - (1)ch(e/)ung (1)hoi (2)hau_
+    - _(1)ch(e/)ung (1)hoi (2)hau_
         [[zoeng1 hoi1 hau2 張開口]],
         open your mouth;
     - _(2)ch(u:) (1)ch(e/)ung_

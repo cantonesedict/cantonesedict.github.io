@@ -302,7 +302,7 @@ W
     - _(1)shang (1)tsun_
         [[sang1 zeon1 生津]],
         to produce saliva;
-    - __(1)t(')(i/)n (1)tsun_
+    - _(1)t(')(i/)n (1)tsun_
         [[tin1 zeon1 天津]],
         the constellation Cygnus;
         the port of Peking [[北京]];

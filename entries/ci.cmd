@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2024-10-06
+* %date-modified --> 2024-11-29
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -3121,7 +3121,7 @@ W
     - _(5)ts(')z' (2)shui_
         [[ci5 seoi2 汜水]],
         a small river in Hon(a/)n [[河南]],
-        west of K(')(a/)ifung f(u/)_ [[開封府]],
+        west of K(')(a/)ifung f(u/) [[開封府]],
         having a town of the same name.
     ==
   ====

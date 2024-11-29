@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caat
-* %date-modified --> 2024-11-24
+* %date-modified --> 2024-11-29
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -166,8 +166,8 @@ W
     - _k(a/)m(3) ch(')(a/)t(8)_
         [[gaam3 caat3 鑒察]]
         beg you to look at, said by suppliants;
-    - (1)king ch(')(a/)t(8)_
-        [[ging1 caat3 京察]],
+    - _(1)king ch(')(a/)t(8)_
+        [[ging1 caat3 京察]]
         in the censorate;
     - _ch(')(a/)t(8) t(u:)t(9)_
         [[caat3 dyut6 察奪]]
