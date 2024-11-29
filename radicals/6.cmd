@@ -1170,6 +1170,7 @@ For all radicals, see [Index of characters by radical](./).
       - $藏cong4
       - $藏zong6
       - $藇zeoi6
+      - $藎zeon2
       - $藉zik6
       ==
       </nav>

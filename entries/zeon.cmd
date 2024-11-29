@@ -584,6 +584,7 @@ $$
 - $準2
 - $燼2
 - $盡2
+- $藎2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -779,6 +780,10 @@ W
         the remains, as of embers.
     ==
   ====
+C
+  ==
+  - The "remainder" sense is also spelt 藎 (see $藎zeon2).
+  ==
 S
   ==
   - $燼zeon6
@@ -804,6 +809,38 @@ S
   ==
   - $盡zeon6 (TODO)
   ==
+$$
+
+### 藎2 | _(2)Tsun_ [[zeon2]]
+
+$$
+R
+  ⾋ + 14
+U
+  U+85CE
+V
+  ==
+  - zeon6 (per 《廣韻》徐刃切)
+  ==
+F
+  ==
+  - [[F2.53 藎]] 忠愛曰藎臣
+  ==
+W
+  ====
+  - [[Page~601 (2)藎]]
+    ==
+    - Similar to the last [[$燼2]];
+    - a plant whose roots afford a yellow dye;
+    - a residue;
+    - to advance constantly;
+    - sincere, as in attachment to;
+    - _(2)tsun (4)shan_ [[zeon2 san4 藎臣]],
+        or
+      _(1)chung (2)tsun_ [[zung1 zeon2 忠藎]],
+        a loyal minister.
+    ==
+  ====
 $$
 
 
