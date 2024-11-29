@@ -621,8 +621,8 @@ W
   ====
 C
   ==
-  - The common reading zeon6 is reinforced by modern use of 盡快, 盡力, etc.
-    instead of 儘快, 儘力, etc.
+  - The common reading zeon6 is reinforced by modern use of 盡快, 盡力, 盡量, etc.
+    instead of 儘快, 儘力, 儘量, etc.
   ==
 S
   ==
