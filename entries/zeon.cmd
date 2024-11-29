@@ -779,6 +779,10 @@ W
         the remains, as of embers.
     ==
   ====
+S
+  ==
+  - $燼zeon6
+  ==
 $$
 
 ###+ 盡2 | _(2)Tsun_ (zeon2)
@@ -844,6 +848,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $儘6
+- $燼6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -866,5 +871,26 @@ C
 S
   ==
   - $儘zeon2
+  ==
+$$
+
+###+ 燼6 | _Tsun(6)_ (zeon6)
+
+$$.
+R
+  ⽕ + 14
+U
+  U+71FC
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation (per 《廣韻》徐刃切). **See $燼zeon2 for the canonical entry.**
+  ==
+S
+  ==
+  - $燼zeon2
   ==
 $$

@@ -1696,6 +1696,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $燼zeon2
+      - $燼zeon6
       ==
       </nav>
   //
