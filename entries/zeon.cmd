@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2024-11-27
+* %date-modified --> 2024-11-29
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -57,6 +57,7 @@ $$
 - $榛1
 - $樽1
 - $津1
+- $溱1
 - $窀1
 - $罇1
 - $肫1
@@ -310,6 +311,38 @@ W
         I relish it more and more.
     ==
   ====
+$$
+
+### 溱1 | _(1)Tsun_ [[zeon1]]
+
+$$
+R
+  ⽔ + 10
+U
+  U+6EB1
+F
+  ==
+  - [[F2.69 溱]] 水名
+  ==
+W
+  ====
+  - [[Page~601 (1)溱]]
+    ==
+    - A small stream in Hon(a/)n [[河南]],
+      one of the headwaters of the R.~Hw(a/)i [[淮]];
+    - to reach to;
+    - _(1)tsun (1)tsun_
+        [[zeon1 zeon1 溱溱]],
+        numerous, abundant;
+        at ease, loose.
+    ==
+  ====
+C
+  ==
+  - Strictly, the pre-merger reading should be _(1)chun_ per 《廣韻》側詵切.
+  - Williams' "R.~Hw(a/)i": This is following a typo (淮) in Kangxi.
+    《說文》 has 匯, not 淮.
+  ==
 $$
 
 ### 窀1 | _(1)Chun_ [[zeon1]]
