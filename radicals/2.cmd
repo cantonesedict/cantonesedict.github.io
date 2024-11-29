@@ -237,6 +237,7 @@ For all radicals, see [Index of characters by radical](./).
       - $儕caai4
       - $儔cau4
       - $儘zeon2
+      - $儘zeon6
       ==
       </nav>
   //

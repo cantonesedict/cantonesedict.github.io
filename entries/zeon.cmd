@@ -24,6 +24,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [zeon1](#1)
 - [zeon2](#2)
 - [zeon3](#3)
+- [zeon6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -624,7 +625,7 @@ C
   ==
 S
   ==
-  - $儘zeon6 (TODO)
+  - $儘zeon6
   ==
 $$
 
@@ -777,5 +778,37 @@ W
 S
   ==
   - $圳zan3
+  ==
+$$
+
+
+##{#6 .williams} Tsun(6) [[zeon6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $儘6
+==
+</nav>
+<## /tone-6-characters ##>
+
+###+ 儘6 | _Tsun(6)_ (zeon6)
+
+$$.
+R
+  ⼈ + 14
+U
+  U+5118
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation. **See $儘zeon2 for the canonical entry.**
+  ==
+S
+  ==
+  - $儘zeon2
   ==
 $$
