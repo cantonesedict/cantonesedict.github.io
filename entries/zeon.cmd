@@ -585,6 +585,7 @@ $$
 - $燼2
 - $盡2
 - $藎2
+- $贐2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -839,6 +840,38 @@ W
         or
       _(1)chung (2)tsun_ [[zung1 zeon2 忠藎]],
         a loyal minister.
+    ==
+  ====
+$$
+
+### 贐2 | _(2)Tsun_ [[zeon2]]
+
+$$
+R
+  ⾙ + 14
+U
+  U+8D10
+A
+  ==
+  -{.modern} 賮
+  ==
+V
+  ==
+  - zeon6 (per 《廣韻》徐刃切 for 賮)
+  ==
+F
+  ==
+  - [[F2.53 贐]] 送行之禮曰贐
+  ==
+W
+  ====
+  - [[Page~601 (2)贐]]
+    ==
+    - Precious things;
+    - presents given to friends going on a journey;
+    - _(2)tsun (4)(i/)_
+        [[zeon2 ji4 贐儀]],
+        parting gifts of ceremony.
     ==
   ====
 $$
