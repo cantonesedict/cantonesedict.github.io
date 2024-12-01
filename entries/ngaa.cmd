@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ngaa
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-12-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -80,6 +80,18 @@ W
     - _(4)ng(a/) (1)l(a/)n (5)mai_
         [[ngaa4 laan1 mai5 呀囒米]],
         cochineal.
+    ==
+  ====
+C
+  ====
+  - It is tempting to declare that the "wrangling" and "wide-mouth" senses
+    ought to be read _(1)h(a/)_ (haa1) per 《廣韻》許加切,
+    but it is much more complicated than that.
+    The character 呀 also appears under 《廣韻》五加切 _(4)ng(a/)_ (ngaa4), explained 吧呀.
+    In turn, the character 吧 has two readings:
+    ==
+    - 普巴切 _(1)p(')(a/)_ (paa1), explained 吧呀大口皃 (whence big-mouth); and
+    - 伯加切 _(1)p(a/)_ (baa1), explained 吧呀小兒忿爭 (whence children wrangling).
     ==
   ====
 S
