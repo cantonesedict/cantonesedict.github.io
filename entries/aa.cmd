@@ -330,9 +330,9 @@ W
   ====
   - [[Page~1|n44 (2)啞]]
     ==
-    - The confused noise of children studying;
-    - dumb;
-    - to keep silent, for which the next [[$瘂2]] is used;
+    - The confused noise of children studying [[Kangxi: 啞嘔小兒學言]];
+    - dumb [[Kangxi: 瘖也]];
+    - to keep silent [[Kangxi: 不言也]], for which the next [[$瘂2]] is used;
     - _(2)(a/) [(4)]mai_
         [[aa2 mai4 啞謎]]^
         an enigma;

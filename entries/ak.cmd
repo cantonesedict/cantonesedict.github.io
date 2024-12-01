@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ak
-* %date-modified --> 2024-11-25
+* %date-modified --> 2024-12-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -134,7 +134,7 @@ W
     ==
     - _ak(7) ak(7)_
         [[ak1 ak1 啞啞]]
-        the sound of giggling.
+        the sound of giggling [[Kangxi: 笑語之聲也]].
     ==
   ====
 S
