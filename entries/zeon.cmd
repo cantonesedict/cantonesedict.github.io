@@ -882,6 +882,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $儁3
 - $圳3
 - $進3
 - $鐫3
@@ -889,6 +890,26 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 儁3 | _Tsun(3)_ [[zeon3]]
+
+$$.
+R
+  ⼈ + 13
+U
+  U+5101
+F
+  ==
+  - [[F2.53 儁]] 知過千人
+  ==
+W
+  ====
+  - [[Page~602 儁(3)]]
+    --
+    [[Alternative form of 俊. **See $俊zeon3 for the canonical entry.**]]
+    --
+  ====
+$$
 
 ### 圳3 | _Chun(3)_ [[zeon3]]
 
