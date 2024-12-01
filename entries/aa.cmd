@@ -564,7 +564,7 @@ W
   ====
   - [[Page~2 婭(3)]]
     ==
-    - Brothers-in-law;
+    - Brothers-in-law [[Kangxi: 兩壻相謂曰婭 etc.]];
     - _(1)yan (a/)(3)_
         [[jan1 aa3 姻婭]]
         relatives by marriage, especially brothers or parents;
