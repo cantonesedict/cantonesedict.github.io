@@ -133,7 +133,7 @@ W
     ==
     - To dismiss care;
     - contented, lighthearted;
-    - happy looking;
+    - happy looking [[Kangxi: 無愁貌]];
     - _(a/)t(8) (4)(i/)n_
         [[aat3 jin4 恝然]],
         pleased.
@@ -318,7 +318,7 @@ W
   ====
   - [[Page~5 揠(8)]]
     ==
-    - To pull up;
+    - To pull up [[Kangxi: 拔也]];
     - to eradicate;
     - _(a/)t(8) (4)mi(u/)_
         [[aat3 miu4 揠苗]],
