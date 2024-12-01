@@ -240,10 +240,10 @@ W
   ====
   - [[Page~3 渥(7)]]
     ==
-    - To moisten, to soak;
+    - To moisten, to soak [[Kangxi: 霑也]];
     - to enrich with favors;
     - to fertilize;
-    - to cover or daub thick;
+    - to cover or daub thick [[Kangxi: 厚漬也]];
     - shining, rich;
     - _ak(7) (4)mung_
         [[ak1 mung4 渥蒙]],
