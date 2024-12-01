@@ -324,6 +324,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $阨aai3
       - $阨aak1
       - $阨ak1
       - $阱zeng6

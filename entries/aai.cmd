@@ -123,6 +123,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $嗌3
+- $阨3
 - $隘3
 ==
 </nav>
@@ -193,6 +194,31 @@ E
   ====
 $$
 
+###+ 阨3 | _(A/)i(3)_ (aai3)
+
+$$.
+R
+  ⾩ + 4
+U
+  U+9628
+F
+  ==
+  - [[F2.32 阨]] 困窮也
+  ==
+W
+  ====
+  - [[Page~3 阨(7) _Ak(7)_ (ak1); here corrected to _(A/)i(3)_ (aai3)]]
+    --
+    [[Alternative form of 隘. **See $隘aai3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $阨aak1
+  - $阨ak1
+  ==
+$$
+
 ### 隘3 | _(A/)i(3)_ [[aai3]]
 
 $$
@@ -200,6 +226,10 @@ R
   ⾩ + 10
 U
   U+9698
+A
+  ==
+  -{.modern} $阨3
+  ==
 V
   ==
   - ngaai3 (hypercorrected initial)
@@ -223,6 +253,13 @@ W
     - _h(a/)p(9) (a/)i(3)_
         [[haap6 aai3 狹隘]]
         narrow as a pass; a contracted mind.
+    ==
+  - [[Page~3 阨(7) _Ak(7)_ (ak1); here corrected to _(A/)i(3)_ (aai3) and normalised to 隘]]
+    ==
+    - [[...]];
+    - a defile, a pass [[Kangxi: 阸陋也]];
+    - a dangerous path;
+    - [[...]].
     ==
   ====
 S

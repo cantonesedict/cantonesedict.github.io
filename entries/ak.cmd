@@ -281,7 +281,7 @@ V
   ==
 F
   ==
-  - [[F2.32 阨 _(A/)i(3)_ (aai3)]] 困窮也
+  - [[F2.32 阨]] 困窮也
   ==
 W
   ====
@@ -293,9 +293,8 @@ W
     ==
   - [[Page~3 阨(7)]]
     ==
-    - An obstruction, a stop;
-    - a defile, a pass;
-    - a dangerous path;
+    - An obstruction [[Kangxi: 限也]], a stop [[Kangxi: 塞也]];
+    - [[see $阨aai3 for "defile/pass" senses]];
     - embarrassed, distressed, poor;
     - _kw(')an(3) ak(7)_
         [[kwan3 ak1 困阨]]
@@ -308,13 +307,14 @@ C
   ==
 S
   ==
+  - $阨aai3
   - $阨aak1
   ==
 $$
 
 ###+ 隘1 | _Ak(7)_ (ak1)
 
-$$
+$$.
 R
   ⾩ + 10
 U
