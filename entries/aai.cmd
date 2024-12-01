@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aai
-* %date-modified --> 2024-11-25
+* %date-modified --> 2024-12-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -71,12 +71,12 @@ W
   - [[Page~2 (1)挨]]
     ==
     - To lean upon, to trust to;
-    - to push away, to carry on the back;
-    - to place alongside;
-    - to strike;
-    - to force, to crowd, as with the elbows;
+    - to push away [[Kangxi: 推也]], to carry on the back;
+    - to place alongside [[Kangxi: 旁排也]];
+    - to strike [[Kangxi: 擊也]];
+    - to force, to crowd [[Kangxi: 强進曰挨]], as with the elbows;
     - to graft;
-    - next, near;
+    - next, near [[Kangxi: 今俗凡物相近謂之挨]];
     - passable;
     - to lie down, to recline;
     - _(1)(a/)i (4)m(a/)i (1)n(i/) p(i/)n(6)_
@@ -123,6 +123,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $嗌3
+- $阨3
 - $隘3
 ==
 </nav>
@@ -170,15 +171,6 @@ W
   ====
 C
   ==
-  - Among the readings attested in Kangxi's Dictionary are:
-    ++
-    1. _yik(7)_ (jik1) per 伊昔切, meaning "throat" (咽也);
-    1. _(a/)i(3)_ (aai3) per 烏懈切, meaning "choke" (噎也).
-    ++
-    Williams writes "A colloquial word"
-    presumably because the meaning "choke" attested under _(a/)i(3)_ (aai3)
-    does not match the vernacular Cantonese meaning.
-
   - Williams' 十嗌九爭銀: "Ten to one" is better rendered as "nine out of ten".
   ==
 E
@@ -202,6 +194,31 @@ E
   ====
 $$
 
+###+ 阨3 | _(A/)i(3)_ (aai3)
+
+$$.
+R
+  ⾩ + 4
+U
+  U+9628
+F
+  ==
+  - [[F2.32 阨]] 困窮也
+  ==
+W
+  ====
+  - [[Page~3 阨(7) _Ak(7)_ (ak1); here corrected to _(A/)i(3)_ (aai3)]]
+    --
+    [[Alternative form of 隘. **See $隘aai3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $阨aak1
+  - $阨ak1
+  ==
+$$
+
 ### 隘3 | _(A/)i(3)_ [[aai3]]
 
 $$
@@ -209,6 +226,10 @@ R
   ⾩ + 10
 U
   U+9698
+A
+  ==
+  -{.modern} $阨3
+  ==
 V
   ==
   - ngaai3 (hypercorrected initial)
@@ -222,9 +243,10 @@ W
   - [[Page~3 隘(3)]]
     ==
     - A pass, a defile;
-    - narrow, confined, straitened; distressed, urgent;
+    - narrow [[Kangxi: ::[陋]也::]], confined, straitened;
+    - distressed, urgent [[Kangxi: 急也陝也]];
     - narrowminded, mean;
-    - impeded, stopped up;
+    - [[see $隘ak1 for "obstructed" sense]];
     - _(4)yan k(o\)m(3) (a/)i(3)_
         [[jan4 gam3 aai3 人咁隘]]
         way is all crowded, a jam;
@@ -232,5 +254,16 @@ W
         [[haap6 aai3 狹隘]]
         narrow as a pass; a contracted mind.
     ==
+  - [[Page~3 阨(7) _Ak(7)_ (ak1); here corrected to _(A/)i(3)_ (aai3) and normalised to 隘]]
+    ==
+    - [[...]];
+    - a defile, a pass [[Kangxi: 阸陋也]];
+    - a dangerous path;
+    - [[...]].
+    ==
   ====
+S
+  ==
+  - $隘ak1
+  ==
 $$

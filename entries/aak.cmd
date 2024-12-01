@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aak
-* %date-modified --> 2024-11-25
+* %date-modified --> 2024-12-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -169,7 +169,7 @@ W
   - [[Page~3 軛(7)]]
     ==
     - A yoke;
-    - the yoke of a carriage;
+    - the yoke of a carriage [[Kangxi: 轅端橫木駕馬領者]];
     - a yoke, a restraint, a principle of conscience.
     ==
   ====
@@ -202,6 +202,7 @@ C
   ==
 S
   ==
+  - $阨aai3
   - $阨ak1
   ==
 $$

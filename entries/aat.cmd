@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aat
-* %date-modified --> 2024-11-25
+* %date-modified --> 2024-12-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -78,9 +78,9 @@ W
   ====
   - [[Page~6 壓(8)]]
     ==
-    - To overthrow, as a wall;
-    - to supply a want;
-    - to press down, to steady, to settle;
+    - To overthrow, as a wall [[Kangxi: 壞也]];
+    - to supply a want [[Kangxi: 塞補也]];
+    - to press down, to steady, to settle [[Kangxi: 一曰鎭壓]];
     - to bend;
     - to subject, to suppress, to conquer;
     - to injure, to oppress;
@@ -133,7 +133,7 @@ W
     ==
     - To dismiss care;
     - contented, lighthearted;
-    - happy looking;
+    - happy looking [[Kangxi: 無愁貌]];
     - _(a/)t(8) (4)(i/)n_
         [[aat3 jin4 恝然]],
         pleased.
@@ -210,8 +210,8 @@ W
   ====
   - [[Page~5 押(8) _(A/)p(8)_ (aap3); here normalised to _(A/)t(8)_ (aat3)]]
     ==
-    - To sign, to affix a seal, to stamp;
-    - to control, to guard;
+    - To sign, to affix a seal, to stamp [[Kangxi: 署也]];
+    - to control, to guard [[Kangxi: 按也一曰管拘也]];
     - to arrest, to seize, to detain;
     - to compel, to force;
     - to escort;
@@ -318,7 +318,7 @@ W
   ====
   - [[Page~5 揠(8)]]
     ==
-    - To pull up;
+    - To pull up [[Kangxi: 拔也]];
     - to eradicate;
     - _(a/)t(8) (4)mi(u/)_
         [[aat3 miu4 揠苗]],
@@ -370,10 +370,10 @@ W
   ====
   - [[Page~5 遏(8)]]
     ==
-    - To stop, to bring to a standstill;
+    - To stop, to bring to a standstill [[Kangxi: 遏止也]];
     - unforeseen obstacle;
-    - to reach, to arrive;
-    - to cut off, to put a stop to;
+    - to reach, to arrive [[Kangxi: 逮也]];
+    - to cut off, to put a stop to [[Kangxi: 絕也]];
     - _(2)cho (a/)t(8)_
         [[zo2 aat3 阻遏]]
         to stop one doing, to restrain;
@@ -406,8 +406,8 @@ W
   ====
   - [[Page~6 閼(8)]]
     ==
-    - To shut, to stop up;
-    - to obstruct;
+    - To shut, to stop up [[Kangxi: 遮壅也]];
+    - to obstruct [[Kangxi: 止也塞也]];
     - to suffocate;
     - to prevent superiors knowing;
     - _(a/)t(8) sak(7)_
@@ -436,9 +436,9 @@ W
   ====
   - [[Page~6 頞(8)]]
     ==
-    - The root of the nose;
+    - The root of the nose [[Kangxi: 鼻莖也]];
     - the frontal sinus;
-    - a saddle;
+    - a saddle [[Kangxi: 頞鞍也]];
     - _ts(')uk(7) (a/)t(8)_
         [[cuk1 aat3 蹙頞]]
         to knit the brows;

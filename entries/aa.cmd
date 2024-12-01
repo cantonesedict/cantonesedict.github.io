@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2024-11-25
+* %date-modified --> 2024-12-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -85,7 +85,7 @@ W
   ====
   - [[Page~1|n44 (1)丫]]
     ==
-    - A fork, a crotch;
+    - A fork, a crotch [[Kangxi: 物之岐頭]];
     - the parting of two branches, fingers, or tines;
     - _(1)(a/) (4)t(')au_
         [[aa1 tau4 丫頭]]^
@@ -275,7 +275,7 @@ W
   ====
   - [[Page~1|n44 (1)鴉]]
     ==
-    - A raven with a white streak on its breast;
+    - A raven with a white streak on its breast [[Kangxi: 小而腹下白 etc.]];
     - _(5)l(o\) (1)(a/)_
         [[lou5 aa1 老鴉]],
         a raven or crow;
@@ -330,9 +330,9 @@ W
   ====
   - [[Page~1|n44 (2)啞]]
     ==
-    - The confused noise of children studying;
-    - dumb;
-    - to keep silent, for which the next [[$瘂2]] is used;
+    - The confused noise of children studying [[Kangxi: 啞嘔小兒學言]];
+    - dumb [[Kangxi: 瘖也]];
+    - to keep silent [[Kangxi: 不言也]], for which the next [[$瘂2]] is used;
     - _(2)(a/) [(4)]mai_
         [[aa2 mai4 啞謎]]^
         an enigma;
@@ -345,11 +345,11 @@ W
     --
   - [[Page~1|n44 (2)瘂; here normalised to 啞]]
     ==
-    - Dumb, unable to speak;
+    - Dumb, unable to speak [[Kangxi: 瘖瘂也]];
     - dull, faded;
     - a cracked sound, as a bell;
     - wheezing;
-    - nape of the neck;
+    - nape of the neck [[Kangxi: 人身項後入髮際五分爲瘂門]];
     - _(2)(a/) (2)tsai_
         [[aa2 zai2 啞仔]],
         a dumb boy;
@@ -434,9 +434,9 @@ W
   ====
   - [[Page~2 亞(3)阿(3)]]
     ==
-    - Hunchbacked;
+    - Hunchbacked [[Kangxi: 象人局背之形]];
     - to esteem lightly, to regard as inferior;
-    - second, next to, junior, inferior;
+    - second, next to, junior, inferior [[Kangxi: 亞次也]];
     - [[see $阿aa3 for name prefix senses]];
     - _pat(7) (a/)(3) (1)(u:) (4)yan_
         [[bat1 aa3 jyu1 jan4 不亞於人]],
@@ -564,7 +564,7 @@ W
   ====
   - [[Page~2 婭(3)]]
     ==
-    - Brothers-in-law;
+    - Brothers-in-law [[Kangxi: 兩壻相謂曰婭 etc.]];
     - _(1)yan (a/)(3)_
         [[jan1 aa3 姻婭]]
         relatives by marriage, especially brothers or parents;

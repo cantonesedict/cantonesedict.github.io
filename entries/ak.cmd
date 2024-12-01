@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ak
-* %date-modified --> 2024-11-25
+* %date-modified --> 2024-12-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -53,6 +53,7 @@ $$
 - $握1
 - $渥1
 - $阨1
+- $隘1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -83,7 +84,7 @@ W
   ====
   - [[Page~3 厄(7)]]
     ==
-    - Knots in a tree;
+    - Knots in a tree [[Kangxi: 木節也]];
     - small door in a house;
     - impeded, cramped;
     - to be ill-used, to be straitened;
@@ -134,7 +135,7 @@ W
     ==
     - _ak(7) ak(7)_
         [[ak1 ak1 啞啞]]
-        the sound of giggling.
+        the sound of giggling [[Kangxi: 笑語之聲也]].
     ==
   ====
 S
@@ -192,7 +193,7 @@ W
   ====
   - [[Page~3 握(7)]]
     ==
-    - To grasp, to hold within the hand;
+    - To grasp, to hold within the hand [[Kangxi: 搤持也]];
     - a little, as much as the palm can hold;
     - _ak(7) teng(6)_
         [[ak1 deng6 握定]]
@@ -268,6 +269,10 @@ R
   ⾩ + 4
 U
   U+9628
+A
+  ==
+  -{.modern} $隘1
+  ==
 V
   ==
   - aak1 (longer syllable)
@@ -280,11 +285,16 @@ F
   ==
 W
   ====
+  - [[Page~3 隘(3) _(A/)i(3)_ (aai3); here corrected to _Ak(7)_ (ak1) and normalised to 阨]]
+    ==
+    - [[...]];
+    - impeded, stopped up;
+    - [[...]].
+    ==
   - [[Page~3 阨(7)]]
     ==
-    - An obstruction, a stop;
-    - a defile, a pass;
-    - a dangerous path;
+    - An obstruction [[Kangxi: 限也]], a stop [[Kangxi: 塞也]];
+    - [[see $阨aai3 for "defile/pass" senses]];
     - embarrassed, distressed, poor;
     - _kw(')an(3) ak(7)_
         [[kwan3 ak1 困阨]]
@@ -297,6 +307,31 @@ C
   ==
 S
   ==
+  - $阨aai3
   - $阨aak1
+  ==
+$$
+
+###+ 隘1 | _Ak(7)_ (ak1)
+
+$$.
+R
+  ⾩ + 10
+U
+  U+9698
+F
+  ==
+  - [[F2.28 隘 _(A/)i(3)_ (aai3)]] 窄狹也陋也塞也
+  ==
+W
+  ====
+  - [[Page~3 隘(3) _(A/)i(3)_ (aai3); here corrected to _Ak(7)_ (ak1)]]
+    --
+    [[Alternative form of 阨. **See $阨ak1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $隘aai3
   ==
 $$

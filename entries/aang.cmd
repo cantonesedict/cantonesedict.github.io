@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aang
-* %date-modified --> 2024-11-25
+* %date-modified --> 2024-12-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -99,7 +99,7 @@ W
   ====
   - [[Page~4 (1)罃 _(1)Ang_ (ang1); here normalised to 罌]]
     ==
-    - An earthen jar, with a narrow neck, to hold oil, &c.;
+    - An earthen jar, with a narrow neck, to hold oil, &c. [[Kangxi: 備火長頸甁也]];
     - _(1)ang ong(3) (2)tsai_
         [[ang1 ong3 zai2 罌盎仔]],
         a tadpole.
@@ -109,7 +109,7 @@ W
     Used with the last but four [[$罃ang1]].
     --
     ==
-    - a vase, a jar, a gallipot, an earthen pitcher;
+    - a vase, a jar, a gallipot, an earthen pitcher [[Kangxi: 缶也, 甁也, 瓦器也]];
     - _(4)t(')ong (2)kwo (1)(a/)ng_
         [[tong4 gwo2 aang1 糖果罌]],
         a jar of sweetmeats;

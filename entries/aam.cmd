@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aam
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-12-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -70,7 +70,7 @@ W
   ====
   - [[Page~4 (2)菡]]
     ==
-    -  An unopened flower;
+    -  An unopened flower [[Kangxi: 菡猶含也未吐之意]];
     - _(2)(a/)m t(a/)m(6)_
         [[aam2 daam6 菡萏]]^,
         the lotus flower;

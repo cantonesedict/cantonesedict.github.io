@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aan
-* %date-modified --> 2024-11-25
+* %date-modified --> 2024-12-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -71,10 +71,10 @@ W
   - [[Page~4 晏(3)]]
     ==
     - Evening, sunset;
-    - a serene, clear, sky;
-    - tardy, behindhand;
-    - peaceful, gentle;
-    - rich, full, said of furs;
+    - a serene, clear, sky [[Kangxi: 天淸也]];
+    - tardy, behindhand [[Kangxi: 晚也]];
+    - peaceful, gentle [[Kangxi: 和柔也]];
+    - rich, full [[Kangxi: 鮮盛也]], said of furs;
     - a tiffin;
     - _(2)h(i/) (1)shan (a/)n(3)_
         [[hei2 san1 aan3 起身晏]]
@@ -172,7 +172,7 @@ W
   - [[Page~4 鷃(3)]]
     ==
     - A kind of small partridge, which breeds on the ground,
-      and is said to crow in the morning.
+      and is said to crow in the morning [[Kangxi: 常晨鳴如雞]].
     ==
   ====
 C
