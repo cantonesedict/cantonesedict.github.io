@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aat
-* %date-modified --> 2024-11-25
+* %date-modified --> 2024-12-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -210,8 +210,8 @@ W
   ====
   - [[Page~5 押(8) _(A/)p(8)_ (aap3); here normalised to _(A/)t(8)_ (aat3)]]
     ==
-    - To sign, to affix a seal, to stamp;
-    - to control, to guard;
+    - To sign, to affix a seal, to stamp [[Kangxi: 署也]];
+    - to control, to guard [[Kangxi: 按也一曰管拘也]];
     - to arrest, to seize, to detain;
     - to compel, to force;
     - to escort;
