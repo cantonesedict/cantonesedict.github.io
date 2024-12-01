@@ -888,6 +888,7 @@ $$
 - $峻3
 - $浚3
 - $濬3
+- $睃3
 - $進3
 - $鐫3
 - $雋3
@@ -1086,6 +1087,42 @@ W
     [[Alternative form of 浚. **See $浚zeon3 for the canonical entry.**]]
     --
   ====
+$$
+
+### 睃3 | _Tsun(3)_ [[zeon3]]
+
+$$
+R
+  ⽬ + 7
+U
+  U+7743
+F
+  ==
+  - [[F2.54 睃]] 明也
+  ==
+W
+  ====
+  - [[Page~602 睃(3)]]
+    ==
+    - To see;
+    - a man's name;
+    - _Tsun(3) Tsun(3) ch(e/)uk(8)_
+        [[zeon3 zeon3 zoek3 睃晉灼]]
+        a hero who lived in the H(a/)n [[漢]] dynasty.
+    ==
+  ====
+C
+  ==
+  - Strictly, the proper-name sense
+    should be read _(1)ts(u:)n_ (zyun1);
+    Kangxi has 又遵全切音鐫人名
+    (notwithstanding the common reading of 鐫 is now zeon3).
+  - Williams' 睃晉灼: This is a misreading by Williams.
+    Kangxi quotes 《前漢諸侯王表》魯文王睃晉灼讀.
+    This should be punctuated as "魯文王睃。晉灼讀。",
+    with 晉灼讀 indicating that the reading _(1)ts(u:)n_ (zyun1) (for 睃)
+    is a pronunciation according to the scholar 晉灼.
+  ==
 $$
 
 ### 進3 | _Tsun(3)_ [[zeon3]]
