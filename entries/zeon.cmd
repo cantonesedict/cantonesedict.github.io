@@ -884,6 +884,7 @@ $$
 =={.modern}
 - $圳3
 - $進3
+- $鐫3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -976,6 +977,45 @@ C
   ==
   - Williams' 前進: Corrected _(1)ts(i/)n_ (zin1) to _(4)ts(')(i/)n_ (cin4),
     and corrected _tsun(6)_ (zeon6) to _tsun(3)_ (zeon3).
+  ==
+$$
+
+### 鐫3 | _Tsun(3)_ [[zeon3]]
+
+$$
+R
+  ⾦ + 13
+U
+  U+942B
+V
+  ==
+  - zyun1 (per 《廣韻》子泉切)
+  ==
+F
+  ==
+  - [[F2.53 鐫]] 雕刻也
+  ==
+W
+  ====
+  - [[Page~601 鐫(3)]]
+    ==
+    - To engrave, to carve;
+    - to cut, to chissel;
+    - to censure or degrade an officer;
+    - _(1)san tsun(3)_
+        [[san1 zeon3 新鐫]]
+        a new edition, as of blocks;
+    - _tsun(3) k(')ap(7)_
+        [[zeon3 kap1 鐫級]]
+        to reduce an officer in rank;
+    - _tsun(3) shek(9)_
+        [[zeon3 sek6 鐫石]]
+        to cut in stone, as an epitaph.
+    ==
+  ====
+S
+  ==
+  - $鐫zyun1 (TODO)
   ==
 $$
 
