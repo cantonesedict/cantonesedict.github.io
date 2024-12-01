@@ -888,6 +888,7 @@ $$
 - $峻3
 - $浚3
 - $濬3
+- $畯3
 - $睃3
 - $進3
 - $鐫3
@@ -1086,6 +1087,28 @@ W
     --
     [[Alternative form of 浚. **See $浚zeon3 for the canonical entry.**]]
     --
+  ====
+$$
+
+### 畯3 | _Tsun(3)_ [[zeon3]]
+
+$$
+R
+  ⽥ + 7
+U
+  U+756F
+F
+  ==
+  - [[F2.54 畯]] 田畯治農之官
+  ==
+W
+  ====
+  - [[Page~602 畯(3)]]
+    ==
+    - An officer who superintended the fields;
+    - a land-office;
+    - a husbandman, a peasant.
+    ==
   ====
 $$
 
