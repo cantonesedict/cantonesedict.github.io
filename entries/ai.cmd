@@ -378,7 +378,7 @@ W
   ====
   - [[Page~2 𦠉(3) (⿰⺼壹)]]
     ==
-    - Lean, cadaverous, meager, poor.
+    - Lean, cadaverous, meager, poor [[Kangxi: ::[瘦]也::]].
     ==
   ====
 C
