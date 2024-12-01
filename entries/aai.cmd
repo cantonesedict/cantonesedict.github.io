@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aai
-* %date-modified --> 2024-11-25
+* %date-modified --> 2024-12-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -71,12 +71,12 @@ W
   - [[Page~2 (1)挨]]
     ==
     - To lean upon, to trust to;
-    - to push away, to carry on the back;
-    - to place alongside;
-    - to strike;
-    - to force, to crowd, as with the elbows;
+    - to push away [[Kangxi: 推也]], to carry on the back;
+    - to place alongside [[Kangxi: 旁排也]];
+    - to strike [[Kangxi: 擊也]];
+    - to force, to crowd [[Kangxi: 强進曰挨]], as with the elbows;
     - to graft;
-    - next, near;
+    - next, near [[Kangxi: 今俗凡物相近謂之挨]];
     - passable;
     - to lie down, to recline;
     - _(1)(a/)i (4)m(a/)i (1)n(i/) p(i/)n(6)_
