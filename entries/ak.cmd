@@ -165,8 +165,8 @@ W
   ====
   - [[Page~3 幄(7)]]
     ==
-    - A curtain, a screen;
-    - a large tent, a markee;
+    - A curtain, a screen [[Kangxi: 帳也, 幬也]];
+    - a large tent, a markee [[Kangxi: 大帷]];
     - to protect, to shelter.
     ==
   ====
