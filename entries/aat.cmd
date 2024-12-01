@@ -406,8 +406,8 @@ W
   ====
   - [[Page~6 閼(8)]]
     ==
-    - To shut, to stop up;
-    - to obstruct;
+    - To shut, to stop up [[Kangxi: 遮壅也]];
+    - to obstruct [[Kangxi: 止也塞也]];
     - to suffocate;
     - to prevent superiors knowing;
     - _(a/)t(8) sak(7)_
