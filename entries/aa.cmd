@@ -275,7 +275,7 @@ W
   ====
   - [[Page~1|n44 (1)鴉]]
     ==
-    - A raven with a white streak on its breast;
+    - A raven with a white streak on its breast [[Kangxi: 小而腹下白 etc.]];
     - _(5)l(o\) (1)(a/)_
         [[lou5 aa1 老鴉]],
         a raven or crow;
