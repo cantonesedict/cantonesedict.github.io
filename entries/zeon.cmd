@@ -894,6 +894,7 @@ $$
 - $進3
 - $鐫3
 - $雋3
+- $駿3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -1332,6 +1333,33 @@ S
   ==
   - $雋syun5 (TODO)
   ==
+$$
+
+### 駿3 | _Tsun(3)_ [[zeon3]]
+
+$$
+R
+  ⾺ + 7
+U
+  U+99FF
+F
+  ==
+  - [[F2.54 駿]] 良馬
+  ==
+W
+  ====
+  - [[Page~602 駿(3)]]
+    ==
+    - A steed, a stately, fine horse;
+    - dignified, majestic;
+    - large;
+    - excelling;
+    - rapid;
+    - _tsun(3) f(a/)t(8)_
+        [[zeon3 faat3 駿發]]
+        quick, as in getting rich.
+    ==
+  ====
 $$
 
 
