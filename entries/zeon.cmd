@@ -1142,7 +1142,7 @@ C
     should be read _(1)ts(u:)n_ (zyun1);
     Kangxi has 又遵全切音鐫人名
     (notwithstanding the common reading of 鐫 is now zeon3).
-  - Williams' 睃晉灼: This is a misreading by Williams.
+  - Williams' 睃晉灼: This is a misreading.
     Kangxi quotes 《前漢諸侯王表》魯文王睃晉灼讀.
     This should be punctuated as "魯文王睃。晉灼讀。",
     with 晉灼讀 indicating that the reading _(1)ts(u:)n_ (zyun1) (for 睃)

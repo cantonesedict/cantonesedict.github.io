@@ -153,7 +153,7 @@ W
   ====
 C
   ==
-  - Williams' "to drag along": This is a misreading of 手拉也.
+  - Williams' "to drag along": This is a misreading of Kangxi 手拉也.
   ==
 E
   ====

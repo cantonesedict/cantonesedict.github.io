@@ -302,7 +302,7 @@ W
   ====
 C
   ==
-  - Williams' "warp of cloth": This is a misreading of 經也.
+  - Williams' "warp of cloth": This is a misreading of Kangxi 經也.
   ==
 $$
 
