@@ -468,6 +468,7 @@ For all radicals, see [Index of characters by radical](./).
       - $雛co1
       - $雛co4
       - $雎zeoi1
+      - $雋zeon3
       - $雉zi6
       ==
       </nav>

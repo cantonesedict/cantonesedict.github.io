@@ -885,6 +885,7 @@ $$
 - $圳3
 - $進3
 - $鐫3
+- $雋3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -1016,6 +1017,33 @@ W
 S
   ==
   - $鐫zyun1 (TODO)
+  ==
+$$
+
+### 雋3 | _Tsun(3)_ [[zeon3]]
+
+$$.
+R
+  ⾫ + 5
+U
+  U+96CB
+F
+  ==
+  - [[F2.53 雋]] 永也味之長也
+  ==
+W
+  ====
+  - [[Page~602 雋(3)]]
+    ==
+    - [[See $雋syun5 for "fatty-flesh" senses]].
+    ==
+    --
+    [[Alternative form of 俊. **See $俊zeon3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $雋syun5 (TODO)
   ==
 $$
 
