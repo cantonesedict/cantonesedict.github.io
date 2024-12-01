@@ -890,6 +890,7 @@ $$
 - $濬3
 - $畯3
 - $睃3
+- $竣3
 - $進3
 - $鐫3
 - $雋3
@@ -1145,6 +1146,46 @@ C
     This should be punctuated as "魯文王睃。晉灼讀。",
     with 晉灼讀 indicating that the reading _(1)ts(u:)n_ (zyun1) (for 睃)
     is a pronunciation according to the scholar 晉灼.
+  ==
+$$
+
+### 竣3 | _Tsun(3)_ [[zeon3]]
+
+$$
+R
+  ⽴ + 7
+U
+  U+7AE3
+V
+  ==
+  - ceon1 (per 《廣韻》七倫切)
+  ==
+F
+  ==
+  - [[F2.53 峻]] 退也完也
+  ==
+W
+  ====
+  - [[Page~602 竣(3)]]
+    ==
+    - To stop work, to finish, to complete a task;
+    - completed, done;
+    - to stand still, to wait aside, to retire;
+    - proud;
+    - _k(o\)(3) tsun(3)_
+        [[gou3 zeon3 告竣]]
+        to make known the completion;
+    - _tsun(3) (1)kung_
+        [[zeon3 gung1 竣工]],
+        to finish the work;
+    - _sz'(6) tsun(3)_
+        [[si6 zeon3 事竣]]
+        the affair is completed.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Seems to have been erroneously placed under $峻3.
   ==
 $$
 
