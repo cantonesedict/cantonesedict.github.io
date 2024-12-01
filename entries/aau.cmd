@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aau
-* %date-modified --> 2024-11-25
+* %date-modified --> 2024-12-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -244,7 +244,7 @@ W
   ====
   - [[Page~6 (1)坳 _(1)(A/)u_ (aau1); here normalised to _(A/)u(3)_ (aau3)]]
     ==
-    - A furrow, a hollow;
+    - A furrow, a hollow [[Kangxi: 窊下也]];
     - an unevenness in the ground;
     - undulations;
     - rolling, as land.
