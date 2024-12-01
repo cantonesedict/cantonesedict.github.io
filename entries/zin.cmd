@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2024-10-06
+* %date-modified --> 2024-12-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1175,11 +1175,6 @@ W
         to decoct medicines.
     ==
   ====
-C
-  ==
-  - Williams' 煎燶: Corrected _(4)nung_ (nung4) to _(1)nung_ (nung1).
-  - Williams' 熬煎: Corrected _ng(o\)(6)_ (ngou6) to _(4)ng(o\)_ (ngou4).
-  ==
 S
   ==
   - $煎zin1
