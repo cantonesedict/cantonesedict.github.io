@@ -78,9 +78,9 @@ W
   ====
   - [[Page~6 壓(8)]]
     ==
-    - To overthrow, as a wall;
-    - to supply a want;
-    - to press down, to steady, to settle;
+    - To overthrow, as a wall [[Kangxi: 壞也]];
+    - to supply a want [[Kangxi: 塞補也]];
+    - to press down, to steady, to settle [[Kangxi: 一曰鎭壓]];
     - to bend;
     - to subject, to suppress, to conquer;
     - to injure, to oppress;
