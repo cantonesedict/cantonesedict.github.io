@@ -261,8 +261,8 @@ W
   ====
   - [[Page~2 曀(3)]]
     ==
-    - Cloudy and windy;
-    - the sun obscured and nearly hid by the clouds.
+    - Cloudy and windy [[Kangxi: 隂而風也]];
+    - the sun obscured and nearly hid by the clouds [[Kangxi: 雲風曀日光 etc.]].
     ==
   ====
 C
