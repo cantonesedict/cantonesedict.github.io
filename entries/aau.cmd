@@ -117,7 +117,7 @@ W
   ====
   - [[Page~7 (2)拗]]
     ==
-    - To snap a thing in two;
+    - To snap a thing in two [[Kangxi: 手拉也, 折也]];
     - to twist, to break;
     - to drag along;
     - _(2)(a/)u ch(i/)t(8)_
@@ -151,6 +151,10 @@ W
         to curve.
     ==
   ====
+C
+  ==
+  - Williams' "to drag along": This is a misreading of 手拉也.
+  ==
 E
   ====
   - 【拗】 (aau2):
@@ -290,8 +294,8 @@ W
   ====
   - [[Page~7 拗(3)]]
     ==
-    - Obstinate, self-willed, perverse;
-    - to rush against madly;
+    - Obstinate, self-willed, perverse [[Kangxi: 拗戾]];
+    - to rush against madly [[Kangxi: 固相違也]];
     - _(a/)u(3) (2)keng_
         [[aau3 geng2 拗頸]],
         stiffnecked;
