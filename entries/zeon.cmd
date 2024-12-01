@@ -885,6 +885,7 @@ $$
 - $俊3
 - $儁3
 - $圳3
+- $峻3
 - $進3
 - $鐫3
 - $雋3
@@ -992,6 +993,34 @@ W
 S
   ==
   - $圳zan3
+  ==
+$$
+
+### 峻3 | _Tsun(3)_ [[zeon3]]
+
+$$
+R
+  ⼭ + 7
+U
+  U+5CFB
+F
+  ==
+  - [[F2.53 峻]] 退也完也
+  ==
+W
+  ====
+  - [[Page~602 峻(3)]]
+    ==
+    - High, lofty, steep, as mountains;
+    - impetuous, hasty, stern, severe, as one's temper;
+    - _tsun(3) (1)tsai_
+        [[zeon3 zai1 峻劑]],
+        a powerful medicine.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: The explanation seems to be for $竣1, not 峻.
   ==
 $$
 
