@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2024-11-29
+* %date-modified --> 2024-12-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -877,12 +877,13 @@ W
 $$
 
 
-##{#3 .williams} Chun(3) [[zeon3 陰去]]
+##{#3 .williams} Chun(3) Tsun(3) [[zeon3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
 - $圳3
+- $進3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -908,6 +909,73 @@ W
 S
   ==
   - $圳zan3
+  ==
+$$
+
+### 進3 | _Tsun(3)_ [[zeon3]]
+
+$$
+R
+  ⾡ + 8
+U
+  U+9032
+F
+  ==
+  - [[F2.53 進]] 登也升也向前去也
+  ==
+W
+  ====
+  - [[Page~601 進(3)]]
+    ==
+    - To advance, to enter, to go up or on, to get on;
+    - to present, to bring forward, to introduce, to promote, to recommend;
+    - to make progress in;
+    - to come near;
+    - a promotion, an advance;
+    - a division of a hong [[行]];
+    - _tsun(3) kung(3)_
+        [[zeon3 gung3 進貢]]
+        to bring in tribute;
+    - _(1)ch(')o tsun(3) p(o\)(6)_
+        [[co1 zeon3 bou6 初進步]]
+        the first step ahead --- to be a si(u/)ts'(a/)i [[秀才]];
+    - _tsun(3) hok(9)_
+        [[zeon3 hok6 進學]]
+        to enter school;
+    - _(2)k(i/) tsun(3) (1)sham_
+        [[gei2 zeon3 sam1 幾進深]],
+        of how many divistons deep?
+    - _tsun(3) t(')(u/)i(3) (5)l(e/)ung (4)n(a/)n_
+        [[zeon3 teoi3 loeng5 naan4 進退兩難]],
+        hard to advance or retreat, embarrassed;
+    - _tsun(3) (1)shan (1)ch(i/) kai(3)_
+        [[zeon3 san1 zi1 gai3 進身之計]]
+        a contrivance to advance one's self;
+    - _(1)k(o\) tsun(3)_
+        [[gou1 zeon3 高進]]
+        high attainments, as in degrees;
+    - _chung(3) tsun(3) sz'(6)_
+        [[zung3 zeon3 si6 中進士]]
+        to reach the third literary degree;
+    - _tsun(3) (2)fo t(a/)i(3) kat(7)_
+        [[zeon3 fo2 daai3 gat1 進伙帶吉]]
+        let prosperity come on the new house
+        --- said when moving into another dwelling;
+    - _(5)yan tsun(3)_
+        [[jan5 zeon3 引進]]
+        to bring [forward];
+    - _(5)m(o\) (2)ch(e/)ung tsun(3)_
+        [[mou5 zoeng2 zeon3 冇長進]]
+        he makes no headway, he does not improve;
+    - _[(4)ts(')(i/)n] tsun[(3)]_
+        [[cin4 zeon3 前進]]
+        to make progress.
+    ==
+  ====
+C
+  ==
+  - Williams' 前進: Corrected _(1)ts(i/)n_ (zin1) to _(4)ts(')(i/)n_ (cin4),
+    and corrected _tsun(6)_ (zeon6) to _tsun(3)_ (zeon3).
   ==
 $$
 
