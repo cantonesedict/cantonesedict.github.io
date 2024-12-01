@@ -370,10 +370,10 @@ W
   ====
   - [[Page~5 遏(8)]]
     ==
-    - To stop, to bring to a standstill;
+    - To stop, to bring to a standstill [[Kangxi: 遏止也]];
     - unforeseen obstacle;
-    - to reach, to arrive;
-    - to cut off, to put a stop to;
+    - to reach, to arrive [[Kangxi: 逮也]];
+    - to cut off, to put a stop to [[Kangxi: 絕也]];
     - _(2)cho (a/)t(8)_
         [[zo2 aat3 阻遏]]
         to stop one doing, to restrain;
