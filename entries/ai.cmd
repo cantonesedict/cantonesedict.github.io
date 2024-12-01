@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ai
-* %date-modified --> 2024-11-25
+* %date-modified --> 2024-12-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -166,7 +166,7 @@ W
   - [[Page~2 (2)矮]]
     ==
     - Low;
-    - diminutive, short;
+    - diminutive, short [[Kangxi: 短人也, 矬也]];
     - _(2)ai [(2)]l(o\) (2)tsai_
         [[ai2 lou2 zai2 矮佬仔]],
         a pigmy, a little old man;
