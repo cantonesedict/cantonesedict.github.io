@@ -345,11 +345,11 @@ W
     --
   - [[Page~1|n44 (2)瘂; here normalised to 啞]]
     ==
-    - Dumb, unable to speak;
+    - Dumb, unable to speak [[Kangxi: 瘖瘂也]];
     - dull, faded;
     - a cracked sound, as a bell;
     - wheezing;
-    - nape of the neck;
+    - nape of the neck [[Kangxi: 人身項後入髮際五分爲瘂門]];
     - _(2)(a/) (2)tsai_
         [[aa2 zai2 啞仔]],
         a dumb boy;
