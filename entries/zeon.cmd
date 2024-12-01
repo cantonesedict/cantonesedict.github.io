@@ -909,6 +909,12 @@ W
     [[Alternative form of 俊. **See $俊zeon3 for the canonical entry.**]]
     --
   ====
+C
+  ==
+  - Fan Wan entry: The bottom-right component of the headword 儁
+    is printed with the central horizontal stroke wide
+    and joining onto the two vertical strokes on the sides.
+  ==
 $$
 
 ### 圳3 | _Chun(3)_ [[zeon3]]
@@ -1035,6 +1041,12 @@ W
         to cut in stone, as an epitaph.
     ==
   ====
+C
+  ==
+  - Fan Wan entry: The bottom-right component of the headword 鐫
+    is printed with the central horizontal stroke wide
+    and joining onto the two vertical strokes on the sides.
+  ==
 S
   ==
   - $鐫zyun1 (TODO)
@@ -1062,6 +1074,12 @@ W
     [[Alternative form of 俊. **See $俊zeon3 for the canonical entry.**]]
     --
   ====
+C
+  ==
+  - Fan Wan entry: The bottom component of the headword 雋
+    is printed with the central horizontal stroke wide
+    and joining onto the two vertical strokes on the sides.
+  ==
 S
   ==
   - $雋syun5 (TODO)
