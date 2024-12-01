@@ -887,6 +887,7 @@ $$
 - $圳3
 - $峻3
 - $浚3
+- $濬3
 - $進3
 - $鐫3
 - $雋3
@@ -1034,7 +1035,7 @@ U
   U+6D5A
 A
   ==
-  - $濬1 [[for "deep", "dig", and proper-name senses]]
+  - $濬3 [[for "deep", "dig", and proper-name senses]]
   ==
 F
   ==
@@ -1064,6 +1065,27 @@ C
     To me, it does not make sense for *only* the proper-name sense
     to get this treatment, when 《廣韻》 also has 私閏切 for 濬, explained 深也.
   ==
+$$
+
+### 濬3 | _Tsun(3)_ [[zeon3]]
+
+$$.
+R
+  ⽔ + 14
+U
+  U+6FEC
+F
+  ==
+  - [[F2.53 浚]] 深也
+  - [[F2.53 濬]] 同上
+  ==
+W
+  ====
+  - [[Page~602 浚(3)濬(3)]]
+    --
+    [[Alternative form of 浚. **See $浚zeon3 for the canonical entry.**]]
+    --
+  ====
 $$
 
 ### 進3 | _Tsun(3)_ [[zeon3]]

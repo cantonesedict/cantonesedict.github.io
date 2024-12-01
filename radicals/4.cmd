@@ -1562,6 +1562,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $濟zai2
       - $濟zai3
+      - $濬zeon3
       - $濯zok6
       ==
       </nav>
