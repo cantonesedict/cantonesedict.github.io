@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> hei
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-12-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -65,7 +65,7 @@ W
   ====
   - [[Page~2 屭(3) _Ai(3)_ (ai3); here corrected to _H(i/)(3)_ (hei3)]]
     ==
-    - Strong, herculean, athletic.
+    - Strong, herculean, athletic [[Kangxi: 壯大貌]].
     ==
     --
     [[See $屭ai3 for vernacular senses.]]
