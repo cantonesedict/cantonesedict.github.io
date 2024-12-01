@@ -290,7 +290,7 @@ W
   ====
   - [[Page~2 縊(3)]]
     ==
-    - To hang, to strangle one's self;
+    - To hang [[Kangxi: 懸繩曰縊]], to strangle one's self;
     - the warp of cloth;
     - _ai(3) (2)sz' (2)kwai_
         [[ai3 sei2 gwai2 縊死鬼]],
@@ -300,6 +300,10 @@ W
         hung by the neck.
     ==
   ====
+C
+  ==
+  - Williams' "warp of cloth": This is a misreading of 經也.
+  ==
 $$
 
 ### 翳3 | _Ai(3)_ [[ai3]]
