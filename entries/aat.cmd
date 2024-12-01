@@ -436,9 +436,9 @@ W
   ====
   - [[Page~6 頞(8)]]
     ==
-    - The root of the nose;
+    - The root of the nose [[Kangxi: 鼻莖也]];
     - the frontal sinus;
-    - a saddle;
+    - a saddle [[Kangxi: 頞鞍也]];
     - _ts(')uk(7) (a/)t(8)_
         [[cuk1 aat3 蹙頞]]
         to knit the brows;
