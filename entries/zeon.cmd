@@ -882,6 +882,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $俊3
 - $儁3
 - $圳3
 - $進3
@@ -890,6 +891,59 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 俊3 | _Tsun(3)_ [[zeon3]]
+
+$$
+R
+  ⼈ + 7
+U
+  U+4FCA
+A
+  ==
+  - $儁3
+  - $雋3
+  ==
+F
+  ==
+  - [[F2.53 儁]] 知過千人
+  - [[F2.53 俊]] 才過千人
+  ==
+W
+  ====
+  - [[Page~602 雋(3); here corrected to _Tsun(3)_ (zeon3) and normalised to 俊]]
+    --
+    [[...]]
+    --
+    --
+    [Also] a hero.
+    --
+  - [[Page~602 儁(3); here normalised to 俊]]
+    ==
+    - Valiant, brave;
+    - superior, excelling others in skill or wisdom;
+    - to overcome;
+    - unusual, strange.
+    ==
+  - [[Page~602 俊(3)]]
+    ==
+    - Similar to the last [[儁]];
+    - superior, remarkable, one of a thousand;
+    - eminent;
+    - _(1)ying tsun(3)_
+        [[jing1 zeon3 英俊]]
+        a brave man, a young hero;
+    - _(4)kw(')an kwai(3) tsun(3) sau(3)_
+        [[kwan4 gwai3 zeon3 sau3 群季俊秀]]
+        all distinguished for accomplishments and beauty.
+    ==
+  ====
+C
+  ==
+  - Williams erroneously marks the "hero" sense of 雋
+    as "read _tsui(3)_ (zeoi3)"; here corrected.
+  ==
+$$
 
 ### 儁3 | _Tsun(3)_ [[zeon3]]
 

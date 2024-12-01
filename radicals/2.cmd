@@ -156,6 +156,7 @@ For all radicals, see [Index of characters by radical](./).
       - $俏ciu3
       - $促cuk1
       - $侲zan3
+      - $俊zeon3
       - $俟zi6
       - $俎zo2
       - $俗zuk6
