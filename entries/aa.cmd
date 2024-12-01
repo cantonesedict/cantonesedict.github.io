@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2024-11-25
+* %date-modified --> 2024-12-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -85,7 +85,7 @@ W
   ====
   - [[Page~1|n44 (1)丫]]
     ==
-    - A fork, a crotch;
+    - A fork, a crotch [[Kangxi: 物之岐頭]];
     - the parting of two branches, fingers, or tines;
     - _(1)(a/) (4)t(')au_
         [[aa1 tau4 丫頭]]^
