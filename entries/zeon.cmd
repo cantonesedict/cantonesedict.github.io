@@ -1216,7 +1216,7 @@ W
         to bring in tribute;
     - _(1)ch(')o tsun(3) p(o\)(6)_
         [[co1 zeon3 bou6 初進步]]
-        the first step ahead --- to be a si(u/)ts'(a/)i [[秀才]];
+        the first step ahead --- to be a si(u/)ts(')(a/)i [[秀才]];
     - _tsun(3) hok(9)_
         [[zeon3 hok6 進學]]
         to enter school;
