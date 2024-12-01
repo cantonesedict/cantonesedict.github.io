@@ -886,6 +886,7 @@ $$
 - $儁3
 - $圳3
 - $峻3
+- $浚3
 - $進3
 - $鐫3
 - $雋3
@@ -1021,6 +1022,47 @@ W
 C
   ==
   - Fan Wan entry: The explanation seems to be for $竣1, not 峻.
+  ==
+$$
+
+### 浚3 | _Tsun(3)_ [[zeon3]]
+
+$$
+R
+  ⽔ + 7
+U
+  U+6D5A
+A
+  ==
+  - $濬1 [[for "deep", "dig", and proper-name senses]]
+  ==
+F
+  ==
+  - [[F2.53 浚]] 深也
+  - [[F2.53 濬]] 同上
+  ==
+W
+  ====
+  - [[Page~602 浚(3)濬(3)]]
+    ==
+    - Deep, profound, as water;
+    - to dig a channel, to deepen a water-course;
+    - deep, serious, as reverence;
+    - abstruse;
+    - well read;
+    - to use part of, to employ;
+    - a district in Hon(a/)n [[河南]];
+    - _tsun(3) (2)tseng_
+        [[zeon3 zeng2 浚井]],
+        to deepen a well.
+    ==
+  ====
+C
+  ==
+  - Some modern Cantonese dictionaries prescribe the reading seon3
+    for the proper-name sense, presumably per 《廣韻》私閏切.
+    To me, it does not make sense for *only* the proper-name sense
+    to get this treatment, when 《廣韻》 also has 私閏切 for 濬, explained 深也.
   ==
 $$
 
