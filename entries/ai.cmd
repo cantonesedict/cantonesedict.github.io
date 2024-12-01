@@ -325,15 +325,15 @@ W
   ====
   - [[Page~2 翳(3)]]
     ==
-    - A feather fan or screen, a flabellum;
-    - to screen, to intercept;
-    - to seclude from observation;
-    - to keep close, to repress;
-    - to destroy;
+    - A feather fan or screen, a flabellum [[Kangxi: 華蓋也]];
+    - to screen, to intercept [[Kangxi: 翳猶屛也]];
+    - to seclude from observation [[Kangxi: 翳掩也]];
+    - to keep close, to repress [[Kangxi: 隱也蔽也, 䕃也]];
+    - to destroy [[Kangxi: 一曰滅也]];
     - anything that intercepts;
     - an obscurity in the eyes;
-    - trees dying;
-    - a fabulous sort of pheasant.
+    - trees dying [[Kangxi: 木立死曰葘自死爲翳]];
+    - a fabulous sort of pheasant [[Kangxi: 鳥名也似鳳]].
     ==
     --
     A colloquial word.
