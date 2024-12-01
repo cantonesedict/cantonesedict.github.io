@@ -84,7 +84,7 @@ W
   ====
   - [[Page~3 厄(7)]]
     ==
-    - Knots in a tree;
+    - Knots in a tree [[Kangxi: 木節也]];
     - small door in a house;
     - impeded, cramped;
     - to be ill-used, to be straitened;
