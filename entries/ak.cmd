@@ -53,6 +53,7 @@ $$
 - $握1
 - $渥1
 - $阨1
+- $隘1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -268,6 +269,10 @@ R
   ⾩ + 4
 U
   U+9628
+A
+  ==
+  -{.modern} $隘1
+  ==
 V
   ==
   - aak1 (longer syllable)
@@ -276,10 +281,16 @@ V
   ==
 F
   ==
-  - [[F2.32 阨]] 困窮也
+  - [[F2.32 阨 _(A/)i(3)_ (aai3)]] 困窮也
   ==
 W
   ====
+  - [[Page~3 隘(3) _(A/)i(3)_ (aai3); here corrected to _Ak(7)_ (ak1) and normalised to 阨]]
+    ==
+    - [[...]];
+    - impeded, stopped up;
+    - [[...]].
+    ==
   - [[Page~3 阨(7)]]
     ==
     - An obstruction, a stop;
@@ -298,5 +309,29 @@ C
 S
   ==
   - $阨aak1
+  ==
+$$
+
+###+ 隘1 | _Ak(7)_ (ak1)
+
+$$
+R
+  ⾩ + 10
+U
+  U+9698
+F
+  ==
+  - [[F2.28 隘 _(A/)i(3)_ (aai3)]] 窄狹也陋也塞也
+  ==
+W
+  ====
+  - [[Page~3 隘(3) _(A/)i(3)_ (aai3); here corrected to _Ak(7)_ (ak1)]]
+    --
+    [[Alternative form of 阨. **See $阨ak1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $隘aai3
   ==
 $$

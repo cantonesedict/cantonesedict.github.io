@@ -213,9 +213,10 @@ W
   - [[Page~3 隘(3)]]
     ==
     - A pass, a defile;
-    - narrow, confined, straitened; distressed, urgent;
+    - narrow [[Kangxi: ::[陋]也::]], confined, straitened;
+    - distressed, urgent [[Kangxi: 急也陝也]];
     - narrowminded, mean;
-    - impeded, stopped up;
+    - [[see $隘ak1 for "obstructed" sense]];
     - _(4)yan k(o\)m(3) (a/)i(3)_
         [[jan4 gam3 aai3 人咁隘]]
         way is all crowded, a jam;
@@ -224,4 +225,8 @@ W
         narrow as a pass; a contracted mind.
     ==
   ====
+S
+  ==
+  - $隘ak1
+  ==
 $$
