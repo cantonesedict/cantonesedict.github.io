@@ -170,15 +170,6 @@ W
   ====
 C
   ==
-  - Among the readings attested in Kangxi's Dictionary are:
-    ++
-    1. _yik(7)_ (jik1) per 伊昔切, meaning "throat" (咽也);
-    1. _(a/)i(3)_ (aai3) per 烏懈切, meaning "choke" (噎也).
-    ++
-    Williams writes "A colloquial word"
-    presumably because the meaning "choke" attested under _(a/)i(3)_ (aai3)
-    does not match the vernacular Cantonese meaning.
-
   - Williams' 十嗌九爭銀: "Ten to one" is better rendered as "nine out of ten".
   ==
 E
