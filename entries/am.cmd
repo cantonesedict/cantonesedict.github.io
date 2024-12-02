@@ -460,9 +460,9 @@ W
   ====
   - [[Page~342 (2)諳]]
     ==
-    - Accustomed, skilled in, versed;
-    - to know, fully acquainted with;
-    - knowing thoroughly, to commit to memory, to recite, to chant or repeat;
+    - Accustomed, skilled in, versed [[Kangxi: 練也歷也, 熟聞也]];
+    - to know, fully acquainted with [[Kangxi: 悉也, 知也, 曉也]];
+    - knowing thoroughly, to commit to memory [[Kangxi: 記也, 憶也]], to recite, to chant or repeat [[Kangxi: 誦也大聲也]];
     - _(2)(o\)m l(i/)n(6)_
         [[am2 lin6 諳練]]
         well practiced in, mature;
