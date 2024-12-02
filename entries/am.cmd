@@ -330,13 +330,13 @@ F
   ==
 W
   ====
-  - [[Page~3 (2)掩; here normalised to 揞]]
+  - [[Page~3 (2)掩 _(2)Am_ (am2); here normalised to 揞 _(2)(O\)m_ (am2)]]
     --
     A colloquial word.
     --
     ==
-    - To cover with the hand;
-    - to conceal from;
+    - To cover with the hand [[Kangxi 揞: 手覆也]];
+    - to conceal from [[Kangxi 揞: 藏也]];
     - _(2)am (4)m(a/)i (1)sh(e/)ung (5)ng(a/)n_,
         [[am2 maai4 soeng1 ngaan5 揞埋雙眼]]
         to cover both eyes;
@@ -349,8 +349,8 @@ W
     ==
   - [[Page~341 (1)掩(2)揞]]
     ==
-    - To cover, to hide, to screen, by putting something on;
-    - to, extinguish, to suppress;
+    - To cover, to hide, to screen, by putting something on [[Kangxi 揞: 掩也]];
+    - to extinguish, to suppress;
     - _(2)(o\)m ch(u:)(6) (2)hau_
         [[am2 zyu6 hau2 揞住口]],
         to put the hand over the mouth;
@@ -392,6 +392,11 @@ W
 C
   ==
   - Fan Wan entry: Corrected 𡈼 to 也.
+  - Williams' "to extinguish, to suppress":
+    Kangxi has 《揚子方言》滅也荆楚曰揞 under the reading 於咸切黯平聲 _(1)am_ (am1).
+    But [《抱經堂叢書》本](https://ctext.org/library.pl?if=en&file=82373&page=111)
+    annotates a reading of 烏感反 _(2)am_ (am2),
+    and says that 滅 is a typo for 藏.
   - Williams' 揞白迷濛: Corrected _p(a/)k(8)_ (baak3) to _p(a/)k(9)_ (baak6).
   - Williams' 揞背手: Now rarely heard; 揞口費 is more common for "hush money".
   ==
@@ -409,7 +414,7 @@ E
   Olden attestation for 揞 _(2)(o\)m_ (am2) meaning "cover":
   --
   """"
-  ::B3.w349b0901 烏感切 (:揞:) (:手覆:)::
+  ::B3.w349b0901 (:烏感切:) (:揞:) (:手覆:)::
   """"
   """"
   ::K. (:揞:) 《唐韻》《集韻》《韻會》《正韻》(:𠀤烏感切庵上聲藏也手覆也:)[...]::
