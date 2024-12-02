@@ -327,7 +327,7 @@ W
     ==
     - A feather fan or screen, a flabellum [[Kangxi: 華蓋也]];
     - to screen, to intercept [[Kangxi: 翳猶屛也]];
-    - to seclude from observation [[Kangxi: 翳掩也]];
+    - to seclude from observation [[Kangxi: 翳障也]];
     - to keep close, to repress [[Kangxi: 隱也蔽也, 䕃也]];
     - to destroy [[Kangxi: 一曰滅也]];
     - anything that intercepts;
