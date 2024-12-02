@@ -84,8 +84,8 @@ W
   ====
   - [[Page~3 厄(7)]]
     ==
-    - Knots in a tree [[Kangxi: 木節也]];
-    - small door in a house;
+    - [[See $厄ngo5 for "tree-knot" sense]];
+    - small door in a house [[Kangxi: 同戹]];
     - impeded, cramped;
     - to be ill-used, to be straitened;
     - _ak(7) (4)k(')ung_
@@ -105,6 +105,7 @@ C
 S
   ==
   - $厄aak1
+  - $厄ngo5 (TODO)
   ==
 $$
 
