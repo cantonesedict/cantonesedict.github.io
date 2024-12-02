@@ -86,7 +86,7 @@ C
   ====
   - It is tempting to declare that the "wrangling" and "wide-mouth" senses
     ought to be read _(1)h(a/)_ (haa1) per 《廣韻》許加切,
-    but it is much more complicated than that.
+    but it is more complicated than that.
     The character 呀 also appears under 《廣韻》五加切 _(4)ng(a/)_ (ngaa4), explained 吧呀.
     In turn, the character 吧 has two readings:
     ==
