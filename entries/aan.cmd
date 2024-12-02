@@ -74,7 +74,7 @@ W
     - a serene, clear, sky [[Kangxi: 天淸也]];
     - tardy, behindhand [[Kangxi: 晚也]];
     - peaceful, gentle [[Kangxi: 和柔也]];
-    - rich, full [[Kangxi: 鮮盛也]], said of furs;
+    - rich, full, said of furs [[Kangxi: 鮮盛也 etc.]];
     - a tiffin;
     - _(2)h(i/) (1)shan (a/)n(3)_
         [[hei2 san1 aan3 起身晏]]
