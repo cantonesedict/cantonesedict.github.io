@@ -267,7 +267,7 @@ W
 C
   ==
   - The reading _(a/)u(3)_ (aau3) is not unattested;
-    Kangxi quotes 《集韻》於敎切音拗義同.
+    Kangxi has 《集韻》於敎切音拗義同.
   ==
 S
   ==
