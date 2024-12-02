@@ -195,6 +195,7 @@ U
   U+51F9
 V
   ==
+  - aau1 (per 《集韻》於交切)
   - nap1 (vernacular)
   - ngaau3 (hypercorrected initial)
   ==
@@ -206,7 +207,7 @@ W
   ====
   - [[Page~7 凹(3)]]
     ==
-    - Indented;
+    - Indented [[Kangxi: 窊也]];
     - meandering;
     - the dip of the horizon, the undulations in hills;
     - a hole, a depression, a pit;
