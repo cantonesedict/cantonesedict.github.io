@@ -1254,6 +1254,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $庵am1
+      - $庵ap3
       ==
       </nav>
   //

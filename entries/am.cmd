@@ -118,8 +118,8 @@ W
   ====
   - [[Page~341 (1)庵(1)菴]]
     ==
-    - A round hut, a thatched cottage, a straw hovel for soldiers or guard;
-    - a pig-sty;
+    - A round hut [[Kangxi: 圜屋爲庵]], a thatched cottage, a straw hovel [[Kangxi: 小草舍也]] for soldiers or guard;
+    - [[see $庵ap3 for "pig-sty" sense]];
     - a nunnery;
     - _(1)sz' (1)k(u/) (1)(o\)m_
         [[si1 gu1 am1 師姑庵]],
@@ -132,6 +132,10 @@ W
         a convent.
     ==
   ====
+S
+  ==
+  - $庵ap3
+  ==
 $$
 
 ### 菴1 | _(1)(O\)m_ [[am1]]

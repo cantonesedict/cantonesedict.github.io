@@ -10,12 +10,13 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 %%%
 
-#{.williams} Ap. [[ap]]
+#{.williams} Ap. <ins class="modern">(O\)p.</ins> [[ap]]
 
 <## tones ##>
 <nav class="sideways">
 =={.modern}
 - [ap1](#1)
+- [ap3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -24,10 +25,12 @@ $$
 WH
   ==
   - Ap. [[Page~4]]
+  - <ins class="modern">(O\)p. (Not present)</ins>
   ==
 WP
   ==
   - Ap <span class="modern">= [ɐp̚]</span>
+  - <span class="modern">(O\)p = [oup̚]</span>
   ==
 MP
   ==
@@ -107,5 +110,44 @@ S
   - $洽hap1 (TODO)
   - $洽hap6 (TODO)
   - $洽haap6 (TODO)
+  ==
+$$
+
+
+##{#3 .modern} (O\)p(8) (ap3 低陰入)
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $庵3
+==
+</nav>
+<## /tone-3-characters ##>
+
+###+ 庵3 | _(O\)p(8)_ (ap3)
+
+$$
+R
+  ⼴ + 8
+U
+  U+5EB5
+V
+  ==
+  - ngap3 (hypercorrected initial)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~341 (1)庵(1)菴 _(1)(O\)m_ (am1); here corrected to _(O\)p(8)_ (ap3)]]
+    ==
+    - [[...]];
+    - a pig-sty;
+    - [[...]].
+    ==
+  ====
+S
+  ==
+  - $庵am1
   ==
 $$
