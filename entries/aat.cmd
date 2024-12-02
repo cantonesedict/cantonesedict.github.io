@@ -80,9 +80,9 @@ W
     ==
     - To overthrow, as a wall [[Kangxi: 壞也]];
     - to supply a want [[Kangxi: 塞補也]];
-    - to press down, to steady, to settle [[Kangxi: 一曰鎭壓]];
+    - to press down, to steady, to settle [[Kangxi: 笮也]];
     - to bend;
-    - to subject, to suppress, to conquer;
+    - to subject, to suppress, to conquer [[Kangxi: 一曰鎭壓]];
     - to injure, to oppress;
     - to repress, as alarm;
     - to intimidate;
