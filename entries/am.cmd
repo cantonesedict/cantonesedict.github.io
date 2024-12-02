@@ -584,8 +584,8 @@ W
   ====
   - [[Page~342 暗(3)]]
     ==
-    - Sun obscured by clouds or otherwise;
-    - dark, dimly lighted, sombre;
+    - Sun obscured by clouds or otherwise [[Kangxi: 日無光也]];
+    - dark, dimly lighted [[Kangxi: 不明也]], sombre;
     - gloomy, not shining bright;
     - clandestine, unobserved, secret, underhand;
     - dull, not perspicacious;
