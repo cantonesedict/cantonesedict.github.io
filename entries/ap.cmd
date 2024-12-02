@@ -142,7 +142,7 @@ W
   - [[Page~341 (1)庵(1)菴 _(1)(O\)m_ (am1); here corrected to _(O\)p(8)_ (ap3)]]
     ==
     - [[...]];
-    - a pig-sty;
+    - a pig-sty [[Kangxi: 豕屋]];
     - [[...]].
     ==
   ====
