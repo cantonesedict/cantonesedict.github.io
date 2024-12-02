@@ -268,9 +268,9 @@ W
   ====
   - [[Page~3 (2)唵]]
     ==
-    - To feed with the hands;
-    - to hold in the mouth;
-    - a word used by Budhists.
+    - To feed with the hands [[Kangxi: 手進食也]];
+    - to hold in the mouth [[Kangxi: 含也]];
+    - a word used by Budhists [[Kangxi: 釋呪多用唵字]].
     ==
   ====
 C
