@@ -203,7 +203,7 @@ W
   ====
   - [[Page~341 (1)䳺; here normalised to 鵪]]
     ==
-    - A quail;
+    - A quail [[Kangxi 䳺: 䳺鶉]];
     - _(1)(o\)m [(1)ch(')un]_
         [[am1 ceon1 鵪鶉]],
         a quail, under which two or three species of Coturnix are included;
