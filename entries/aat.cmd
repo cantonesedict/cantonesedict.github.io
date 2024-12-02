@@ -210,7 +210,7 @@ W
   ====
   - [[Page~5 押(8) _(A/)p(8)_ (aap3); here normalised to _(A/)t(8)_ (aat3)]]
     ==
-    - To sign, to affix a seal, to stamp [[Kangxi: 署也]];
+    - To sign, to affix a seal, to stamp [[Kangxi: 署也 etc.]];
     - to control, to guard [[Kangxi: 按也一曰管拘也]];
     - to arrest, to seize, to detain;
     - to compel, to force;
