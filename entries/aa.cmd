@@ -61,6 +61,7 @@ _ngat_ [[ngat]].
 - $吖1
 - $呀1
 - $啊1
+- $啞1
 - $鴉1
 ==
 </nav>
@@ -255,6 +256,34 @@ S
   ==
 $$
 
+###+ 啞1 | _(1)(A/)_ (aa1)
+
+$$
+R
+  ⼝ + 8
+U
+  U+555E
+V
+  ==
+  - ngaa1 (hypercorrected initial)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~1|n44 (2)啞 _(2)(A/)_ (aa2); here corrected to _(1)(A/)_ (aa1)]]
+    ==
+    - The confused noise of children studying [[Kangxi: 啞嘔小兒學言]];
+    - [[...]].
+    ==
+  ====
+S
+  ==
+  - $啞aa2
+  - $啞ak1
+  ==
+$$
+
 ### 鴉1 | _(1)(A/)_ [[aa1]]
 
 $$
@@ -330,7 +359,7 @@ W
   ====
   - [[Page~1|n44 (2)啞]]
     ==
-    - The confused noise of children studying [[Kangxi: 啞嘔小兒學言]];
+    - [[See $啞aa1 for "child-learning-speech" sense]];
     - dumb [[Kangxi: 瘖也]];
     - to keep silent [[Kangxi: 不言也]], for which the next [[$瘂2]] is used;
     - _(2)(a/) [(4)]mai_
@@ -370,6 +399,7 @@ C
   ==
 S
   ==
+  - $啞aa1
   - $啞ak1
   ==
 $$

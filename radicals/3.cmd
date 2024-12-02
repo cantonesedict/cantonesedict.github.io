@@ -159,6 +159,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $啊aa1
       - $啊aa3
+      - $啞aa1
       - $啞aa2
       - $啞ak1
       - $唵am2
