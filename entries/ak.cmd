@@ -195,7 +195,7 @@ W
   ====
   - [[Page~3 握(7)]]
     ==
-    - To grasp, to hold within the hand [[Kangxi: 搤持也]];
+    - To grasp, to hold within the hand [[Kangxi: 搤持也 etc.]];
     - a little, as much as the palm can hold;
     - _ak(7) teng(6)_
         [[ak1 deng6 握定]]
