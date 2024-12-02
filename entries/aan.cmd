@@ -171,7 +171,8 @@ W
   ====
   - [[Page~4 鷃(3)]]
     ==
-    - A kind of small partridge, which breeds on the ground,
+    - A kind of small [[Kangxi: 小雀也]] partridge,
+      which breeds on the ground [[Kangxi: 鷃不木處]],
       and is said to crow in the morning [[Kangxi: 常晨鳴如雞]].
     ==
   ====
