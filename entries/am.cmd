@@ -505,12 +505,12 @@ W
   ====
   - [[Page~342 (2)闇]]
     ==
-    - To shut the door, to withdraw from society, to retire from;
-    - retired, dark, an obscure recess;
+    - To shut the door [[Kangxi: 閉門也]], to withdraw from society, to retire from;
+    - retired, dark, an obscure recess [[Kangxi: 冥也, 幽也]];
     - ignorant, dark minded;
-    - badly lighted;
-    - evening;
-    - an eclipse;
+    - badly lighted [[Kangxi: 不明也]];
+    - evening [[Kangxi: 闇夜也]];
+    - an eclipse [[Kangxi: 闇日月食也]];
     - _(2)(o\)m (4)m(u/)n ts(e/)(6) h(a/)k(8)_
         [[am2 mun4 ze6 haak3 闇門謝客]]
         to decline to see friends;
