@@ -544,7 +544,7 @@ W
   ====
   - [[Page~342 (2)黯]]
     ==
-    - Dark, pitch dark, dark as a midnight;
+    - Dark, pitch dark [[Kangxi: 深黑也]], dark as a midnight;
     - astonied and silent, as if lost in amazement;
     - _K(')ap(7) (2)(O\)m_
         [[kap1 am2 汲黯]]^
