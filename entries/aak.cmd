@@ -169,8 +169,8 @@ W
   ====
   - [[Page~3 軛(7)]]
     ==
-    - A yoke;
-    - the yoke of a carriage [[Kangxi: 轅端橫木駕馬領者]];
+    - A yoke [[Kangxi: 轅端橫木駕馬領者]];
+    - the yoke of a carriage;
     - a yoke, a restraint, a principle of conscience.
     ==
   ====
