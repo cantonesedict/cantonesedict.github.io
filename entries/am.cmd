@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2024-11-25
+* %date-modified --> 2024-12-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -76,14 +76,20 @@ W
   ====
   - [[Page~724 (1)啽]]
     ==
-    - To snore;
+    - [[See $啽ngam4 for "sleep-talk" senses]];
     - _(1)(o\)m mak(9)_
         [[am1 mak6 啽默]]
         to be silent; to give no answer, as one [who] is very sleepy.
     ==
   ====
+C
+  ==
+  - The reading _(1)(o\)m_ (am1) is not unattested;
+    《正韻》 has the reading 烏含切, explained 啽嘿不言 etc.
+  ==
 S
   ==
+  - $啽ngam4 (TODO)
   - $啽ngap1 (TODO)
   ==
 $$
