@@ -464,9 +464,9 @@ W
   ====
   - [[Page~2 亞(3)阿(3)]]
     ==
-    - Hunchbacked [[Kangxi: 象人局背之形]];
+    - Hunchbacked [[Kangxi 亞: 象人局背之形]];
     - to esteem lightly, to regard as inferior;
-    - second, next to, junior, inferior [[Kangxi: 亞次也]];
+    - second, next to, junior, inferior [[Kangxi 亞: 亞次也]];
     - [[see $阿aa3 for name prefix senses]];
     - _pat(7) (a/)(3) (1)(u:) (4)yan_
         [[bat1 aa3 jyu1 jan4 不亞於人]],
