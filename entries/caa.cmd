@@ -666,9 +666,9 @@ W
   ====
   - [[Page~9|n52 (4)槎]]
     ==
-    - Drift-wood;
-    - a small raft;
-    - to fell trees, to hew wood;
+    - Drift-wood [[Kangxi: 同查]];
+    - a small raft [[Kangxi: 桴也]];
+    - to fell trees, to hew wood [[Kangxi: 衺斫也]];
     - _(4)shing (4)ch(')(a/)_
         [[sing4 caa4 乘槎]],
         to raft timber.
