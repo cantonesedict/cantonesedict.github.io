@@ -389,13 +389,13 @@ R
   ⼥ + 3
 U
   U+597C
-V
-  ==
-  - zaa3 (per 《廣韻》陟駕切)
-  ==
 A
   ==
   -{.modern} 姹
+  ==
+V
+  ==
+  - zaa3 (per 《廣韻》陟駕切)
   ==
 F
   ==
@@ -405,7 +405,7 @@ W
   ====
   - [[Page~9|n52 奼(3)]]
     ==
-    - A handsome girl, a beautiful unmarried young lady [[Kangxi: 美女也]].
+    - A handsome girl [[Kangxi: 美女也]], a beautiful unmarried young lady [[Kangxi: 少女也]].
     ==
   ====
 $$
