@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2024-11-10
+* %date-modified --> 2024-12-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -69,7 +69,7 @@ W
     ==
     - A fork in a road;
     - a prong, a crotch;
-    - to cross or interlace the fingers;
+    - to cross or interlace the fingers [[Kangxi: 手指相錯, 指相交也]];
     - _(4)wo (1)ch(')(a/)_
         [[wo4 caa1 禾叉]],
         a pitch-fork;
