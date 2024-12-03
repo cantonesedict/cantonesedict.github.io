@@ -595,8 +595,8 @@ W
   ====
   - [[Page~11|n54 (4)豺]]
     ==
-    - A ravenous beast;
-    - a lynx or wolf;
+    - A ravenous beast [[Kangxi: 豺貪殘之獸]];
+    - a lynx or wolf [[Kangxi: 狼屬]];
     - _(4)ch(')(a/)i (4)long (1)tong t(o\)(6)_
         [[caai4 long4 dong1 dou6 豺狼當道]]
         the wolf is in the way---said of oppressive rulers;
