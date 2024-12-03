@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2024-10-16
+* %date-modified --> 2024-12-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -549,7 +549,7 @@ W
   ====
   - [[Page~9|n52 吒(3)咤(3) _Ch(')(a/)(3)_ (caa3); here corrected to _Ch(a/)(3)_ (zaa3)]]
     ==
-    - To foam and sputter in anger;
+    - To foam and sputter in anger [[Kangxi: 噴也叱怒也]];
     - to talk angrily;
     - to grumble;
     - _ch(')ik(7) [ch(a/)](3)_
