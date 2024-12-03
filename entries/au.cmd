@@ -156,7 +156,7 @@ W
     Read _(1)au_ [[au1]];
     --
     ==
-    - bubbles on the water;
+    - bubbles on the water [[Kangxi: 浮漚也]];
     - frothy spume.
     ==
   ====
@@ -441,8 +441,8 @@ W
   ====
   - [[Page~6 漚(3)]]
     ==
-    - To soak, to macerate, to steep;
-    - to soften by soaking;
+    - To soak, to macerate, to steep [[Kangxi: 久漬也]];
+    - to soften by soaking [[Kangxi: 漚柔也]];
     - _au(3) l(a/)n(6)_
         [[au3 laan6 漚爛]]
          soaked and spoiled;
