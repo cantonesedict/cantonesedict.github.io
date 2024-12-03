@@ -48,6 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $區1
+- $嘔1
 - $歐1
 - $漚1
 - $甌1
@@ -92,6 +93,38 @@ C
 S
   ==
   - $區keoi1 (TODO)
+  ==
+$$
+
+###+ 嘔1 | _(1)Au_ (au1)
+
+$$
+R
+  ⼝ + 11
+U
+  U+5614
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~6 (2)嘔 _(2)Au_ (au2); here corrected to _(1)Au_ (au1)]]
+    --
+    [[...]].
+    --
+    ==
+    - [[...]];
+    - a child's prattle [[Kangxi: 唲嘔小兒語也]];
+    - to sing, to make a glad noise [[Kangxi: 與謳通]] [[**see $謳au1**]];
+    - [[...]];
+    - _[(1)]au (1)(a/)_
+        [[au1 aa1 嘔啞]],
+        children humming;
+    - [[...]].
+    ==
+  ====
+S
+  ==
+  - $嘔au2
   ==
 $$
 
@@ -214,6 +247,7 @@ U
   U+8B33
 A
   ==
+  -{.modern} $嘔1
   - $歐1
   ==
 V
@@ -315,14 +349,13 @@ W
   ====
   - [[Page~6 (2)嘔]]
     --
-    Interchanged with the last [[$歐1]].
+    Interchanged with the last [[$歐1]] [[Kangxi: 與歐同]].
     --
     ==
-    - To vomit;
+    - To vomit [[Kangxi: 吐也]];
     - the noise of retching;
     - to spit out;
-    - a child's prattle;
-    - to sing, to make a glad noise;
+    - [[see $嘔au1 for "child-talk" and "sing" senses]];
     - _(2)au h(u:)t(8)_
         [[au2 hyut3 嘔血]]
         to spit blood;
@@ -336,9 +369,7 @@ W
     - _(2)au (1)hi(u/) (2)k(i/) t(a/)m(6)_
         [[au2 hiu1 gei2 daam6 嘔嘵幾啖]]
         threw up several times;
-    - _(2)au (1)(a/)_
-        [[au2 aa1 嘔啞]],
-        children humming;
+    - [[...]];
     - _(2)au t(')(o\)(3)_
         [[au2 tou3 嘔吐]]
         to puke;
@@ -347,6 +378,10 @@ W
         seasick.
     ==
   ====
+S
+  ==
+  - $嘔au1
+  ==
 $$
 
 ###+ 歐2 | _(2)Au_ (au2)
