@@ -240,7 +240,7 @@ W
   - [[Page~583 (1)搓]]
     ==
     - To twist by rubbing on the knee;
-    - to rub or roll between the palms;
+    - to rub or roll between the palms [[Kangxi: 搓挪也]];
     - _(1)ts(')o (4)m(a/)i yat(7) (4)t(')(u:)n_
         [[co1 maai4 jat1 tyun4 搓埋一團]],
         roll it into a ball;
