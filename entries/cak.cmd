@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cak
-* %date-modified --> 2024-10-12
+* %date-modified --> 2024-12-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -70,7 +70,7 @@ W
   ====
   - [[Page~12|n55 惻(7)]]
     ==
-    - Secret grief, distress;
+    - Secret grief, distress [[Kangxi: 痛也]];
     - to pity, to commisserate, to sympathize;
     - _ch(')ak(7) [(2)]yan (1)ch(i/) (1)sam_
         [[cak1 jan2 zi1 sam1 惻隱之心]],
