@@ -519,7 +519,7 @@ W
   ====
   - [[Page~11|n54 (4)儕]]
     ==
-    - A class, a company;
+    - A class, a company [[Kangxi: 等輩也]];
     - persons of the same sort;
     - it makes the plural of the first person;
     - _(4)'ng (4)ch(')(a/)i_
