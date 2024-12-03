@@ -128,7 +128,7 @@ W
   ====
   - [[Page~8 (1)汊(1)岔]]
     ==
-    - [[...]] roads diverging [[Kangxi: 三分路也]];
+    - [[...]] roads diverging [[Kangxi 岔: 三分路也]];
     - _(1)s(a/)m (1)ch(')(a/) l(o\)(6) (2)hau_
         [[saam1 caa1 lou6 hau2 三岔路口]],
         a trivium;
@@ -253,13 +253,17 @@ R
   ⽔ + 3
 U
   U+6C4A
+V
+  ==
+  - caa3 (per 《集韻》楚嫁切)
+  ==
 F
   [[Not present]]
 W
   ====
   - [[Page~8 (1)汊(1)岔]]
     ==
-    - Streams [[...]] diverging;
+    - Streams [[...]] diverging [[Kangxi 汊: 水岐流也]];
     - [[see $岔caa1 for "branching road" sense]];
     - _(1)s(a/)m (1)ch(')(a/) (4)ho_
         [[saam1 caa1 ho4 三汊河]],
@@ -271,6 +275,10 @@ C
   - Williams does not provide separate entries for $岔1 and 汊,
     probably following Kangxi, which has 與汊同 under 岔.
     I have split things up accordingly.
+  ==
+S
+  ==
+  - $汊caa3
   ==
 $$
 
@@ -318,6 +326,7 @@ $$
 - $咤3
 - $奼3
 - $岔3
+- $汊3
 - $蜡3
 - $詫3
 ==
@@ -399,7 +408,7 @@ $$
 
 ###+ 岔3 | _Ch(')(a/)(3)_ (caa3)
 
-$$
+$$.
 R
   ⼭ + 4
 U
@@ -415,6 +424,27 @@ C
 S
   ==
   - $岔caa1
+  ==
+$$
+
+###+ 汊3 | _Ch(')(a/)(3)_ (caa3)
+
+$$.
+R
+  ⽔ + 3
+U
+  U+6C4A
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation (per 《集韻》楚嫁切). **See $汊caa1 for the canonical entry.**
+  ==
+S
+  ==
+  - $汊caa1
   ==
 $$
 
