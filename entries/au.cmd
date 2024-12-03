@@ -114,20 +114,21 @@ W
   ====
   - [[Page~6 (1)歐]]
     --
-    To sing; to crow merrily; in which it is like the last [[$謳1]].
+    [[Alternative form of 謳. **See $謳au1 for the canonical entry.**]]
     --
     --
-    Used for the next [[$嘔2]], to vomit;
-    --
-    --
-    [[Otherwise:]]
+    Used for the next [[嘔]], to vomit [[**see $嘔au2**]];
     --
     ==
     - _(1)au (1)t(o\)_
         [[au1 dou1 歐刀]],
-        a headsman's sword.
+        a headsman's sword [[Kangxi: 𠛬人之刀也]].
     ==
   ====
+S
+  ==
+  - $歐au2
+  ==
 $$
 
 ### 漚1 | _(1)Au_ [[au1]]
@@ -237,6 +238,12 @@ W
         [[au1 jam4 謳吟]],
         to sing songs.
     ==
+  - [[Page~6 (1)歐; here normalised to 謳]]
+    ==
+    - To sing;
+    - to crow merrily;
+    - in which it is like the last [[謳]] [[Kangxi 歐: 與謳同氣出而歌也]].
+    ==
   ====
 $$
 
@@ -279,6 +286,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $嘔2
+- $歐2
 - $毆2
 ==
 </nav>
@@ -291,6 +299,10 @@ R
   ⼝ + 11
 U
   U+5614
+A
+  ==
+  - $歐2
+  ==
 V
   ==
   - ngau2 (hypercorrected initial)
@@ -304,9 +316,6 @@ W
   - [[Page~6 (2)嘔]]
     --
     Interchanged with the last [[$歐1]].
-    --
-    --
-    [[Otherwise:]]
     --
     ==
     - To vomit;
@@ -338,6 +347,34 @@ W
         seasick.
     ==
   ====
+$$
+
+###+ 歐2 | _(2)Au_ (au2)
+
+$$.
+R
+  ⽋ + 11
+U
+  U+6B50
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~6 (1)歐 _(1)Au_ (au1); _(2)Au_ (au2) implied]]
+    --
+    [[...]]
+    --
+    --
+    Used for the next [[嘔]], to vomit [[**see $嘔au2**]];
+    --
+    --
+    [[...]].
+    --
+  ====
+S
+  ==
+  - $歐au1
+  ==
 $$
 
 ### 毆2 | _(2)Au_ [[au2]]
