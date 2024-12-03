@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caak
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-12-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -191,8 +191,8 @@ W
   ====
   - [[Page~14|n57 坼(8)]]
     ==
-    - To rive, to crack;
-    - to open, to burst open, as buds;
+    - To rive, to crack [[Kangxi: 裂也]];
+    - to open, to burst open, as buds [[Kangxi: 植物房初開也]];
     - split, riven, cracked;
     - _k(a/)p(8) ch(')(a/)k(8)_
         [[gaap3 caak3 甲坼]]
