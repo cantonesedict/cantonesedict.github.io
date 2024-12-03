@@ -245,7 +245,7 @@ W
   ====
   - [[Page~11|n54 (1)釵]]
     ==
-    - A broad hair-pin;
+    - A broad hair-pin [[Kangxi: 筓屬]];
     - _met._ females;
     - _puk(7) (1)ch(')(a/)i_
         [[buk1 caai1 卜釵]],
