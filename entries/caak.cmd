@@ -305,7 +305,7 @@ W
   ====
   - [[Page~14|n57 栅(8); here normalised to 柵]]
     ==
-    - Posts of a stockade;
+    - Posts of a stockade [[Kangxi 柵: 編樹木也, 豎木以立柵也]];
     - a railing;
     - a palisade;
     - _(1)hon ch(')(a/)k(8)_
