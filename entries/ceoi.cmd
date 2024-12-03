@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2024-11-29
+* %date-modified --> 2024-12-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -966,7 +966,7 @@ W
     [[**see $臘laap6 and $蠟laap6**]]. [[TODO]]
     --
     ==
-    - A flyblow, eggs of the common fly.
+    - A flyblow, eggs of the common fly [[Kangxi: 蠅膽也]].
     ==
     --
     Read _ch(a/)(3)_ [[zaa3]]; [[**see $蜡zaa3**]].

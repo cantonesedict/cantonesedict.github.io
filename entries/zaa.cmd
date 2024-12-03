@@ -795,7 +795,7 @@ W
   ====
   - [[Page~9|n52 蜡(3) _Ch(')(a/)(3)_ (caa3); here normalised to _Ch(a/)(3)_ (zaa3)]]
     ==
-    - To bind up, sealed up, as in winter;
+    - To bind up, sealed up, as in winter [[Kangxi: 蜡也者索也 etc.]];
     - _p(a/)t(8) [ch(a/)](3)_
         [[baat3 zaa3 八蜡]]
         a sacrifice of thanksgiving to the earth in winter for ripening crops.
@@ -805,8 +805,8 @@ W
     Read _ch(a/)(3)_ [[zaa3]];
     --
     ==
-    - the sacrifice made at the winter solstice,
-      when the cold binds everything close.
+    - the sacrifice made at the winter solstice [[Kangxi: 年終祭名]],
+      when the cold binds everything close [[Kangxi: 蜡也者索也 etc.]].
     ==
   ====
 C
