@@ -301,7 +301,7 @@ W
   ====
   - [[Page~583 (1)艖 _(1)Ts(')o_ (co1)]]
     ==
-    - A skiff;
+    - A skiff [[Kangxi: 小舟也]];
     - _(4)(i/)m (1)[ch(')(a/)]_
         [[jim4 caa1 鹽艖]],
         a salt boat, vessels used in salt transportation.
