@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2024-11-08
+* %date-modified --> 2024-12-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -962,7 +962,7 @@ U
   U+8DB3
 V
   ==
-  - zeoi6 (Fan Wan)
+  - zeoi6 (per Fan Wan)
   ==
 F
   ==
