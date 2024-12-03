@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2024-10-06
+* %date-modified --> 2024-12-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -301,7 +301,7 @@ W
   ====
   - [[Page~11|n54 瘵(3) _Ch(')(a/)i(3)_ (caai3); here normalised to _Ch(a/)i(3)_ (zaai3)]]
     ==
-    - Weary, sick;
+    - Weary, sick [[Kangxi: 勞病也, 病也]];
     - _(4)l(o\) [ch(a/)i](3)_
         [[lou4 zaai3 癆瘵]]
         consumption, a wasting disease;
