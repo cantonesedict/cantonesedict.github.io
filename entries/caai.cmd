@@ -176,6 +176,9 @@ R
   ⽝ + 8
 U
   U+731C
+H
+  May appear as either ⿰犭靑 or ⿰犭青 (assumed here),
+  depending on the font.
 F
   ==
   - [[F2.25 猜]] 疑也度也
@@ -184,10 +187,10 @@ W
   ====
   - [[Page~11|n54 (1)猜]]
     ==
-    - To guess; to doubt, to conjecture;
+    - To guess; to doubt, to conjecture [[Kangxi: 疑也]];
     - to dislike;
-    - to abhor;
-    - to fear, to apprehend, lest;
+    - to abhor [[Kangxi: 恨也]];
+    - to fear, to apprehend, lest [[Kangxi: 懼也]];
     - _(1)ch(')(a/)i yat(7) kuk(9) (1)chung_
         [[caai1 jat1 guk6 zung1 猜一焗盅]],
         to bet a glass of wine;
