@@ -251,9 +251,9 @@ W
   ====
   - [[Page~14|n57 拆[(8)]^]]
     ==
-    - To break up or open;
+    - To break up or open [[Kangxi: 裂也開也]];
     - to split, to unrip;
-    - to destroy, to pull down, to take away;
+    - to destroy [[Kangxi: 毀也]], to pull down, to take away;
     - to dissect, to take to pieces;
     - _ch(')(a/)k(8) sh(e/)(3)_
         [[caak3 se3 拆舍]]
