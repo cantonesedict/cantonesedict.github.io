@@ -354,10 +354,10 @@ W
   ====
   - [[Page~13|n56 策(8)]]
     ==
-    - A bamboo slip, such as books were once engraved on;
+    - A bamboo slip [[Kangxi: ::策[簡]也::]], such as books were once engraved on;
     - a book, writings;
-    - a stratagem, a plan, a means, an expedient, a scheme;
-    - a switch, a whip;
+    - a stratagem, a plan, a means, an expedient, a scheme [[Kangxi: 籌也謀也]];
+    - a switch, a whip [[Kangxi: 馬箠]];
     - a divining slip;
     - to switch;
     - _(2)k(a/)n ch(')(a/)k(8)_
