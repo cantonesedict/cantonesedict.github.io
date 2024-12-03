@@ -435,7 +435,7 @@ W
   ====
   - [[Page~583 (1)瘥 _(1)Ts(')o_ (co1); here corrected to _Ch(')(a/)i(3)_ (caai3)]]
     ==
-    - To get convalescent, to recover;
+    - To get convalescent, to recover [[Kangxi: 疾愈也, 瘥癒也]];
     - [[...]].
     ==
   ====

@@ -836,7 +836,7 @@ W
   - [[Page~583 (1)瘥 _(1)Ts(')o_ (co1); here normalised to _(4)Ts(')o_ (co4)]]
     ==
     - [[See $瘥caai3 for "recover" senses]];
-    - a slight ailment, slight epidemic, like influenza.
+    - a slight ailment [[Kangxi: 病也]], slight epidemic, like influenza.
     ==
   ====
 S
