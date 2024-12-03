@@ -266,7 +266,7 @@ W
   ====
   - [[Page~6 (1)鷗]]
     ==
-    - A gull;
+    - A gull [[Kangxi: 鷗水鴞也]];
     - _p(a/)k(9) (1)au_
         [[baak6 au1 白鷗]]^
       or _(4)h(a/)n (1)au_
