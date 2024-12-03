@@ -228,8 +228,8 @@ W
   ====
   - [[Page~6 (1)謳]]
     ==
-    - To sing songs in recitative;
-    - a chant;
+    - To sing songs in recitative [[Kangxi: 歌也]];
+    - a chant [[Kangxi: 吟也]];
     - a ballad, a ditty;
     - _(u:)t(9) (1)au_
         [[jyut6 au1 粵謳]],
