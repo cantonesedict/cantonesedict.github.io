@@ -402,7 +402,7 @@ W
   ====
   - [[Page~11|n54 嘬(3)]]
     ==
-    - To gnaw, to bite;
+    - To gnaw, to bite [[Kangxi: 齧也]];
     - to eat rapidly;
     - to swallow, to bolt;
     - _ch(')(a/)i(3) h(u:)t(8)_
