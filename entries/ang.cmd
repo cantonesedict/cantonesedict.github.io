@@ -176,8 +176,8 @@ W
   ====
   - [[Page~4 (2)哽]]
     ==
-    - Stoppage in the throat;
-    - hesitation in speech from rage or impediment;
+    - Stoppage in the throat [[Kangxi: 咽塞也]];
+    - hesitation in speech from rage or impediment [[Kangxi: 語爲舌所介也, 語爲人所忿疑也]];
     - _(2)ang (i/)t(8)_
         [[ang2 jit3 哽咽]]
         sobbing;
