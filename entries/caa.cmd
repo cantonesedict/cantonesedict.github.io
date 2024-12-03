@@ -118,13 +118,17 @@ R
   ⼭ + 4
 U
   U+5C94
+V
+  ==
+  - caa3 (per 《字彙補》丑亞切)
+  ==
 F
   [[Not present]]
 W
   ====
   - [[Page~8 (1)汊(1)岔]]
     ==
-    - [[...]] roads diverging;
+    - [[...]] roads diverging [[Kangxi: 三分路也]];
     - _(1)s(a/)m (1)ch(')(a/) l(o\)(6) (2)hau_
         [[saam1 caa1 lou6 hau2 三岔路口]],
         a trivium;
@@ -133,10 +137,16 @@ W
   ====
 C
   ==
+  - The reading _(1)ch(')(a/)_ (caa1) is not unattested;
+    《洪武正韻牋》逸字 has the reading 初加切.
   - Williams does not provide separate entries for 岔 and $汊1,
     probably following Kangxi, which has 與汊同 under 岔.
     I have split things up accordingly.
-  - Williams' 三岔路口: Also written 三叉路口.
+  - Williams' 三岔路口: Also spelt 三叉路口.
+  ==
+S
+  ==
+  - $岔caa3
   ==
 $$
 
@@ -307,6 +317,7 @@ $$
 - $吒3
 - $咤3
 - $奼3
+- $岔3
 - $蜡3
 - $詫3
 ==
@@ -384,6 +395,27 @@ W
     - A handsome girl, a beautiful unmarried young lady.
     ==
   ====
+$$
+
+###+ 岔3 | _Ch(')(a/)(3)_ (caa3)
+
+$$
+R
+  ⼭ + 4
+U
+  U+5C94
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Reading variation (per 《字彙補》丑亞切). **See $岔caa1 for the canonical entry.**
+  ==
+S
+  ==
+  - $岔caa1
+  ==
 $$
 
 ### 蜡3 | _Ch(')(a/)(3)_ [[caa3]]
