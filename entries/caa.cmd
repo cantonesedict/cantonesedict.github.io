@@ -691,7 +691,7 @@ W
   ====
   - [[Page~8 (4)茶]]
     ==
-    - Tea;
+    - Tea [[Kangxi: 春藏葉可以爲飮, 茗也]];
     - the infusion of tea, tea;
     - _(1)p(o\) (4)ch(')(a/)_
         [[bou1 caa4 煲茶]]^
