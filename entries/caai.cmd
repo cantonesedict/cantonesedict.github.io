@@ -486,7 +486,7 @@ W
   - [[Page~11|n54 蠆(3)]]
     ==
     - The sting of a bee, or other insect;
-    - a sort of scorpion with a long tail.
+    - a sort of scorpion with a long tail [[Kangxi: 螫蟲]].
     ==
   ====
 $$
