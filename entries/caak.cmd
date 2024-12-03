@@ -430,7 +430,7 @@ W
   ====
   - [[Page~551 蠈(9)]]
     ==
-    - A fly which eats the grain at its joints;
+    - A fly which eats the grain at its joints [[Kangxi: 食禾節蟲]];
     - a sort of Hessian fly,
       commonly called _(4)wong (4)ch(')ung_ [[wong4 cung4 黃蟲]]^
       or the yellow bug.
