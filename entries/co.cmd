@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> co
-* %date-modified --> 2024-10-06
+* %date-modified --> 2024-12-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -354,7 +354,7 @@ $$
 
 ### 艖1 | _(1)Ts(')o_ [[co1]]
 
-$$
+$$.
 R
   ⾈ + 10
 U
