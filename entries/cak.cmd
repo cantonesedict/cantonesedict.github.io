@@ -107,9 +107,9 @@ W
   ====
   - [[Page~12|n55 測(7)]]
     ==
-    - To sound, to fathom;
-    - to estimate, to measure;
-    - clear, as varnish;
+    - To sound, to fathom [[Kangxi: 深所至也, 度深曰測]];
+    - to estimate, to measure [[Kangxi: 凡測度之稱]];
+    - clear, as varnish [[Kangxi: 淸也 etc.]];
     - _ch(')ak(7) tok(9)_
         [[cak1 dok6 測度]]
         to comprehend, to conjecture;
