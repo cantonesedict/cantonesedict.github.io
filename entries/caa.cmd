@@ -504,8 +504,8 @@ W
   ====
   - [[Page~9|n52 詫(3)]]
     ==
-    - To talk extravagantly, to vaunt;
-    - to deceive;
+    - To talk extravagantly, to vaunt [[Kangxi: 誇也]];
+    - to deceive [[Kangxi: 誑也]];
     - _ch(')(a/)(3) (i/)(6)_
         [[caa3 ji6 詫異]]
         strange, foolish.
