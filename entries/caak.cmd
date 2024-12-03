@@ -396,7 +396,7 @@ W
   ====
   - [[Page~14|n57 茦(8)]]
     ==
-    - A thorn, a spike, a prickle;
+    - A thorn, a spike, a prickle [[Kangxi: 莿也, 茦刺]];
     - to prick, to pierce with a thorn.
     ==
   ====
