@@ -626,8 +626,8 @@ W
   ====
   - [[Page~9|n52 (4)查]]
     ==
-    - A raft, a float;
-    - to examine, to inquire into;
+    - A raft, a float [[Kangxi: 水中浮木]];
+    - to examine, to inquire into [[Kangxi: 考察也]];
     - it appears that, having learned, I have ascertained;
     - _(4)ch(')(a/) ch(')(a/)t(8)_
         [[caa4 caat3 查察]]
