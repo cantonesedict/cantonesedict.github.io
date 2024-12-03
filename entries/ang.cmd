@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ang
-* %date-modified --> 2024-11-25
+* %date-modified --> 2024-12-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -95,7 +95,7 @@ W
   ====
   - [[Page~4 (1)罃]]
     --
-    [[Alternative form of 罌. **See $罌aang1 for the canonical entry.**]]
+    [[Alternative form of 罌, and reading variation. **See $罌aang1 for the canonical entry.**]]
     --
   ====
 $$
