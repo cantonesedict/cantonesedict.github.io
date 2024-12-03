@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2024-11-29
+* %date-modified --> 2024-12-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -170,7 +170,7 @@ W
   ====
   - [[Page~615 (1)差]]
     ==
-    - Uneven, projecting irregularly;
+    - Uneven, projecting irregularly [[Kangxi: 不齊等也]];
     - _(1)ts(')(a/)m (1)ts(')z'_
         [[caam1 ci1 參差]]
         irregular, not uniform;

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2024-11-10
+* %date-modified --> 2024-12-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -68,7 +68,7 @@ W
   ====
   - [[Page~11|n54 (1)差]]
     ==
-    - To commission, to send on a message;
+    - To commission, to send on a message [[Kangxi: 差使也]];
     - to manage, to act;
     - a messenger, an envoy;
     - a legate, a commissioner;

@@ -165,8 +165,8 @@ W
   ====
   - [[Page~8 (1)差]]
     ==
-    - Mistaken;
-    - to err, to differ;
+    - Mistaken [[Kangxi: 舛也]];
+    - to err, to differ [[Kangxi: 貳也不相値也]];
     - to miss the mark, to exceed;
     - error, fault, discrepancy, excess, differing, unlike, unassorted;
     - _t(a/)i(6) (1)ch(')(a/) tak(9) (1)ch'(a/)_
