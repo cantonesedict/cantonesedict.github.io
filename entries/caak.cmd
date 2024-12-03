@@ -422,6 +422,10 @@ R
   ⾍ + 13
 U
   U+8808
+A
+  ==
+  -{.modern} $賊6
+  ==
 F
   ==
   - [[F2.33 蠈]] 蟊蠈食禾之虫也
@@ -458,14 +462,14 @@ W
   ====
   - [[Page~551 賊(9)]]
     ==
-    - A thief, a robber, a highwayman;
+    - A thief, a robber, a highwayman [[Kangxi: 盜也]];
     - a bandit;
     - seditious, those who rise against the government;
     - the enemy;
     - a term of contempt;
-    - to rob, to murder;
-    - to maltreat, to oppress;
-    - a fly in grain;
+    - to rob [[Kangxi: 刧人也]], to murder [[Kangxi: 殺人曰賊]];
+    - to maltreat, to oppress [[Kangxi: 賊虐]];
+    - a fly in grain [[Kangxi: 害苗之蟲]] [[**see $蠈caak6**]];
     - _(5)l(o\) ts(')(a/)k(9)_
         [[lou5 caak6-2 老賊]]
         an old robber;
