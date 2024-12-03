@@ -544,10 +544,10 @@ W
   ====
   - [[Page~11|n54 (4)柴]]
     ==
-    - Firewood, faggots;
-    - brushwood;
+    - Firewood, faggots [[Kangxi: 燔柴曰柴]];
+    - brushwood [[Kangxi: 小木散材]];
     - fuel;
-    - to stop up;
+    - to stop up [[Kangxi: 塞也]];
     - _yat(7) (2)p(a/) (4)ch(')(a/)i_
         [[jat1 baa2 caai4 一把柴]],
         a faggot of firewood;
