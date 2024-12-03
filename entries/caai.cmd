@@ -313,7 +313,7 @@ A
   ==
 V
   ==
-  - cyun2 (per 《廣韻》市兖切 rising)
+  - cyun5 (per 《廣韻》市兖切 rising)
   - dyun3 (per 《廣韻》丁貫切)
   - jaai2 (vernacular)
   ==
@@ -328,9 +328,9 @@ W
     Also read _t(u:)n[(3)]_ [[dyun3]].
     --
     ==
-    - To stamp, to trample, to tread on with the heel;
+    - To stamp, to trample, to tread on with the heel [[Kangxi: 踹足蹀足也]];
     - to rase, to destroy;
-    - the heel;
+    - the heel [[Kangxi: 足踹也, 足跟也]];
     - _(2)ch(')(a/)i (5)(u:)n sok(8)_
         [[caai2 jyun5 sok3 踹軟索]]
         a treader on rope ladders---a thief;
