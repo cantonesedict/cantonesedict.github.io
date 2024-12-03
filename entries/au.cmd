@@ -185,7 +185,7 @@ W
   ====
   - [[Page~6 (1)甌]]
     ==
-    - A bowl, a deep cup;
+    - A bowl [[Kangxi: 小盆也, 瓦器]], a deep cup [[Kangxi: 今俗謂盌深者爲甌]];
     - _(5)ng(a/) (1)au_
         [[ngaa5 au1 瓦甌]],
         a basin to hold water;
