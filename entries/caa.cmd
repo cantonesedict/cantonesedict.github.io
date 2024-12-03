@@ -230,7 +230,7 @@ W
   ====
   - [[Page~8 (1)扠]]
     ==
-    - To fork out, to nip;
+    - To fork out, to nip [[Kangxi: 挾取也]];
     - to drive out, to pitch out, to strike;
     - _(1)ch(')(a/) ch(')ut(7) h(u:)(3)_
         [[caa1 ceot1 heoi3 扠出去]]
