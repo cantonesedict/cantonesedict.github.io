@@ -431,7 +431,7 @@ W
   ====
   - [[Page~6 (2)毆]]
     ==
-    - To fight, to hit with a stick;
+    - To fight, to hit with a stick [[Kangxi: 捶毄物也, 以杖擊也]];
     - to strike, to knock;
     - _tau(3) (2)au_
         [[dau3 au2 鬥毆]],
