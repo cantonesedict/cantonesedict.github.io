@@ -119,9 +119,9 @@ W
   ====
   - [[Page~4 (1)鶯]]
     ==
-    - The nightingale, or a gay species of thrush
-      that nestles on the willow and sings well;
-    - variegated plumes;
+    - The nightingale [[Kangxi: 鶯鳥也卽黃鸝]],
+      or a gay species of thrush that nestles on the willow and sings well;
+    - variegated plumes [[Kangxi: 鳥羽文]];
     - _(4)wong (1)ang_
         [[wong4 ang1 黃鶯]],
         the mango bird;
