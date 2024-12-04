@@ -250,8 +250,8 @@ W
   ====
   - [[Page~553 (1)驂]]
     ==
-    - Three horses abreast in a chariot;
-    - the horses outside of the thills;
+    - Three horses abreast in a chariot [[Kangxi: 驂馬, 駕三馬也]];
+    - the horses outside of the thills [[Kangxi: 車中兩馬曰服兩馬驂其外小退曰驂]];
     - _(1)ts(')(a/)m shing(6)_
         [[caam1 sing6 驂乘]]
         three sitters in a carriage;
