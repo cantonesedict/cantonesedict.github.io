@@ -217,8 +217,8 @@ W
   ====
   - [[Page~554 (2)篸 _Ts(')(a/)m_ (caam2); here corrected to _(1)Ts(')(a/)m_ (caam1)]]
     ==
-    - Bamboos varying in length;
-    - a pandean pipe;
+    - Bamboos varying in length [[Kangxi: 篸⿱𥫗差竹貌]];
+    - a pandean pipe [[Kangxi: 洞簫也]];
     - [[...]].
     ==
   ====

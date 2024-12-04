@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2024-10-06
+* %date-modified --> 2024-12-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -67,11 +67,6 @@ W
     --
     [[Alternative form of 簪. **See $簪zaam1 for the canonical entry.**]]
     --
-    ==
-    - [[...]];
-    - a hair-pin;
-    - [[...]].
-    ==
   ====
 S
   ==
@@ -118,6 +113,12 @@ W
     - _(1)kai (1)ts(a/)m (5)mai_
         [[gai1 zaam1 mai5 雞簪米]],
         the fowl pecks the rice---a colloquial phrase.
+    ==
+  - [[Page~554 (2)篸 _Ts(')(a/)m_ (caam2); here corrected to _(1)Ts(a/)m_ (zaam1) and normalised to 簪]]
+    ==
+    - [[...]];
+    - a hair-pin [[Kangxi 篸: 同簪]];
+    - [[...]].
     ==
   ====
 $$
