@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2024-10-06
+* %date-modified --> 2024-12-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -76,15 +76,18 @@ W
   ====
   - [[Page~553 ::(1)參(1)[叅]^::]]
     ==
-    - To be concerned with, to join with for consultation,
+    - To be concerned with [[Kangxi 參: 干與也]], to join with for consultation [[Kangxi 參: 相謁也]],
       to advise, to give counsel to;
-    - to blend, to mix, to form one of three;
-    - to have an audience, to salute, to see one;
+    - to blend, to mix, to form one of three [[Kangxi 參: 三相參爲參]];
+    - to have an audience, to salute, to see one [[Kangxi 參: 覲也]];
     - to impeach, to report to the throne on other officers;
     - confused, mixed, as colors;
     - a deposition, an impeachment;
-    - the 20th constellation, consisting of stars
+    - [[see $參sam1 for constellation sense]];
+      <##
+      the 20th constellation, consisting of stars
       _α_, _β_, _γ_, _δ_, _η_, _ξ_, _ε_ and _χ_ in Orion;
+      ##>
     - _(1)ts(')(a/)m tsau(3)_
         [[caam1 zau3 參奏]]
         to memorialize against;
