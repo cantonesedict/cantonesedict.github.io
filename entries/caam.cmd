@@ -175,9 +175,9 @@ W
   ====
   - [[Page~16|n59 (4)攙 _(4)Ch(')(a/)m_ (caam4); here normalised to _(1)Ch(')(a/)m_ (caam1)]]
     ==
-    - To stab;
-    - to sustain, to support, to lead;
-    - to supply awant, to make up;
+    - To stab [[Kangxi: 刺也]];
+    - to sustain, to support [[Kangxi: 一曰扶也]], to lead;
+    - to supply a want, to make up;
     - to divide with another;
     - to pull out;
     - _[(1)]ch(')(a/)m fan(6) (4)lai (1)t(')(i/)m_
@@ -195,6 +195,8 @@ C
     Kangxi records the canonical reading 楚銜切 _(1)ch(')(a/)m_ (caam1),
     explained both "stab" (刺也) and "arm-support" (一曰扶也).
     It is possible that Williams has mistakenly parsed 楚銜切 as 陽平 rather than 陰平.
+  - Williams' "to supply a want, to make up", "to divide with another", "to pull out":
+    Kangxi has 完補也一曰旁掣也 under the reading 仕懺切鑱去聲 _ch(a/)m(6)_ (zaam6).
   ==
 S
   ==
