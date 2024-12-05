@@ -224,8 +224,8 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
-- $𫵱 (⿱山十)6
-- $𨳍 (⿵門七)6
+- ${𫵱=⿱山十}6
+- ${𨳍=⿵門七}6
 ==
 </nav>
 <## /tone-6-characters ##>

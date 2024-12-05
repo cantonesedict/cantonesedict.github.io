@@ -273,7 +273,7 @@ window.onload = applyFilter;
     , [襯](/entries/can#cantonese-襯)
   //
     , cat6
-    , [𨳍](/entries/cat#cantonese-𨳍)
+    , [{𨳍=⿵門七}](/entries/cat#cantonese-𨳍)
   //
     , cau1
     , [抽](/entries/cau#cantonese-抽)
@@ -336,7 +336,7 @@ window.onload = applyFilter;
     , [除](/entries/ceoi#cantonese-除)
   //
     , ceoi4
-    , [𡃴](/entries/ceoi#cantonese-𡃴)
+    , [{𡃴=⿰口隨}](/entries/ceoi#cantonese-𡃴)
   //
     , ceoi4 zai2
     , [錘仔](/entries/ceoi#cantonese-錘仔)
@@ -765,7 +765,7 @@ window.onload = applyFilter;
     , [浸](/entries/zam#cantonese-浸)
   //
     , zam6
-    , [𠹻](/entries/zam#cantonese-𠹻)
+    , [{𠹻=⿰口朕}](/entries/zam#cantonese-𠹻)
   //
     , zan6 gaan1
     , [陣間](/entries/zan#cantonese-陣間)

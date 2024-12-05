@@ -2884,7 +2884,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
-- $𫪦 (⿰口知)3
+- ${𫪦=⿰口知}3
 - $寘3
 - $志3
 - $恣3

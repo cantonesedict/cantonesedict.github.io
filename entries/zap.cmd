@@ -43,7 +43,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
-- $𠽃 (⿰口執)1
+- ${𠽃=⿰口執}1
 - $執1
 - $汁1
 - $縶1

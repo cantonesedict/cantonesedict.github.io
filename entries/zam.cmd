@@ -719,7 +719,7 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
-- $𠹻 (⿰口朕)6
+- ${𠹻=⿰口朕}6
 - $朕6
 ==
 </nav>
