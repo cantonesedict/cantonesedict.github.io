@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2024-12-04
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -301,8 +301,8 @@ W
   ====
   - [[Page~554 (2)慘(2)𢡖 (⿰忄叅)]]
     ==
-    - Cruel, hard-hearted, inhuman;
-    - to be afflicted, injured, wounded in the mind;
+    - Cruel, hard-hearted, inhuman [[Kangxi 慘: 毒也]];
+    - to be afflicted, injured, wounded in the mind [[Kangxi 慘: 痛也]];
     - a superlative, applied to sufferings;
     - _(1)p(i/) (2)ts(')(a/)m_
         [[bei1 caam2 悲慘]],
