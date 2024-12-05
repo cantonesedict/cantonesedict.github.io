@@ -206,7 +206,7 @@ th, td {
   border-width: 3px;
 }
 
-.composition:focus::after, .composition:hover::after {
+.composition:active::after, .composition:hover::after {
   color: var(--modern-colour);
   content: ' (' attr(title) ')';
   font-family: var(--modern-font);
