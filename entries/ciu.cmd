@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ciu
-* %date-modified --> 2024-11-06
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -734,7 +734,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Normalised headword 𭵼 (⿱惟灬) to 憔.
+  - Fan Wan entry: Normalised headword {𭵼=⿱惟灬} to 憔.
     The incomprehensible character looks like ⿱䒑用.
   ==
 $$
@@ -852,7 +852,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Normalised headword 𬋈 (⿱椎灬) to 樵.
+  - Fan Wan entry: Normalised headword {𬋈=⿱椎灬} to 樵.
   - Williams' 樵夫: Corrected _(4)^tsi(u/)_ (ziu4) to _(4)ts(')i(u/)_ (ciu4).
   ==
 $$

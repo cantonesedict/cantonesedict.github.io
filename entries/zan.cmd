@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zan
-* %date-modified --> 2024-12-03
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -66,7 +66,7 @@ A
 F
   ==
   - [[F1.79 珍]] 寶也重也貴也又珍珠
-  - [[F1.79 ⿰𤣩⿱𠆢㣺]] 同上
+  - [[F1.79 {？=⿰𤣩⿱𠆢㣺}]] 同上
   - [[F1.79 珎]] 同上
   ==
 W

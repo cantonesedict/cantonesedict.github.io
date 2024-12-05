@@ -74,7 +74,7 @@ U
 F
   ==
   - [[F2.47 僉]] 咸也皆也共也
-  - [[F2.47 ⿳人⿻丅口从]] 咸也皆也共也
+  - [[F2.47 {？=⿳人⿻丅口从}]] 咸也皆也共也
   ==
 W
   ====
@@ -103,11 +103,11 @@ U
   U+20803
 F
   ==
-  - [[F2.47 ⿰⿳艹非一刂]] ::[切]也割也::
+  - [[F2.47 {？=⿰⿳艹非一刂}]] ::[切]也割也::
   ==
 W
   ====
-  - [[Page~571 (1)𠠃 (⿰⿳从一韭刂)]]
+  - [[Page~571 (1){𠠃=⿰⿳从一韭刂}]]
     --
     [[Alternative form of 㔐. **See $㔐cim1 for the canonical entry.**]]
     --
@@ -131,11 +131,11 @@ A
   ==
 F
   ==
-  - [[F2.47 ⿰⿳艹非一刂]] ::[切]也割也::
+  - [[F2.47 {？=⿰⿳艹非一刂}]] ::[切]也割也::
   ==
 W
   ====
-  - [[Page~571 (1)𠠃 (⿰⿳从一韭刂); here normalised to 㔐]]
+  - [[Page~571 (1){𠠃=⿰⿳从一韭刂}; here normalised to 㔐]]
     ==
     - To cut;
     - to stick in the throat;
@@ -153,7 +153,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected 竊 to 切.
-  - I have normalised 𠠃 (⿰⿳从一韭刂) to 㔐 for the better font support.
+  - I have normalised {𠠃=⿰⿳从一韭刂} to 㔐 for the better font support.
   ==
 E
   ====
@@ -589,7 +589,7 @@ C
   ==
   - Fan Wan entry: Corrected headword 謟 to 諂, headword ⿵門謟 to 讇,
     and headword self-reference to 上.
-  - Williams misprints 讇 as 𨶒 (⿵門舀); here corrected.
+  - Williams misprints 讇 as {𨶒=⿵門舀}; here corrected.
   ==
 $$
 
@@ -616,7 +616,7 @@ C
   ==
   - Fan Wan entry: Corrected headword 謟 to 諂, headword ⿵門謟 to 讇,
     and headword self-reference to 上.
-  - Williams misprints 讇 as 𨶒 (⿵門舀); here corrected.
+  - Williams misprints 讇 as {𨶒=⿵門舀}; here corrected.
   ==
 $$
 

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2024-11-10
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -86,10 +86,6 @@ W
     Also read _(4)t(')(i/)n_ [[tin4]]; [[**see $嗔tin4**]].
     --
   ====
-C
-  ==
-  - Fan Wan and Williams both print this as ⿰口眞.
-  ==
 S
   ==
   - $嗔tin4 (TODO)
@@ -177,10 +173,6 @@ W
         angry beyond measure.
     ==
   ====
-C
-  ==
-  - Fan Wan and Williams both print this as ⿰目眞.
-  ==
 $$
 
 ### 親1 | _(1)Ts(')an_ [[can1]]
@@ -387,7 +379,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Normalised ⿱執灬 to 熱.
+  - Fan Wan entry: Normalised {𤍠=⿱執灬} to 熱.
   - An entry for 疢 (not 疹) is included here for completeness.
     ++
     1. Fever.
@@ -517,10 +509,6 @@ W
         whose black bair will not change?
     ==
   ====
-C
-  ==
-  - Fan Wan and Williams both print this as ⿰糸眞.
-  ==
 $$
 
 ### 袗2 | _(2)Ch(')an_ [[can2]]
@@ -646,10 +634,6 @@ W
     - a fine head of black hair.
     ==
   ====
-C
-  ==
-  - Fan Wan and Williams both print this as ⿱髟眞.
-  ==
 $$
 
 

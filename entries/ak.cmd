@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ak
-* %date-modified --> 2024-12-02
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -100,7 +100,7 @@ C
   ==
   - Fan Wan entry: Corrected headword 卮 to 戹.
   - Most modern speakers prefer the longer syllable _(a/)k(7)_ (aak1).
-  - Williams erroneously has 𢨪 (⿸戶巳) for an alternative form instead of 戹.
+  - Williams erroneously has {𢨪=⿸戶巳} for an alternative form instead of 戹.
   ==
 S
   ==

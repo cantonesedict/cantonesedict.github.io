@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2024-10-08
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -903,7 +903,7 @@ C
   - Fan Wan entry: The supplied dissection 中淡切 is incorrect,
     as it results in the 陰去 reading _ch(a/)m(3)_ (zaam3)^,
     rather than the intended 陽去 reading _ch(a/)m(6)_ (zaam6).
-    Normalised 𫉬 (⿱艹⿰犭隻) to 獲.
+    Normalised {𫉬=⿱艹⿰犭隻} to 獲.
   - Williams' reading _(5)w(a/)n_ (waan5) for the authorised sense is incorrect,
     possibly based on the gloss 音綰
     (which is intended in the departing tone, not the rising tone).

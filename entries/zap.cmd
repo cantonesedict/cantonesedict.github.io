@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zap
-* %date-modified --> 2024-10-08
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -63,7 +63,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~557 𠽃(7) (⿰口執)]]
+  - [[Page~557 {𠽃=⿰口執}(7)]]
     --
     [[Alternative form of 蓻. **See $蓻zap1 for the canonical entry.**]]
     --
@@ -287,7 +287,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~557 𠽃(7) (⿰口執); here normalised to 蓻]]
+  - [[Page~557 {𠽃=⿰口執}(7); here normalised to 蓻]]
     --
     A colloquial word.
     --

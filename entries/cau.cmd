@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2024-11-12
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1110,7 +1110,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~28|n71 (5)𧽒 (⿺走臭)]]
+  - [[Page~28|n71 (5){𧽒=⿺走臭}]]
     --
     Read _ch(')au(3)_ [[cau3]];
     --
@@ -1915,7 +1915,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~28|n71 (5)𧽒 (⿺走臭)]]
+  - [[Page~28|n71 (5){𧽒=⿺走臭}]]
     --
     Read _ch(')au(3)_ [[cau3]]; [[**see $𧽒 (⿺走臭)cau3**]].
     --
@@ -1925,7 +1925,7 @@ W
     ==
     - To sprain the ankle;
     - _(5)ch(')au (1)ts(')an k(e/)uk(8)_
-        [[cau5 can1 goek3 𧽒嚫腳]]
+        [[cau5 can1 goek3 {𧽒=⿺走臭}嚫腳]]
         sprained the foot.
     ==
   ====

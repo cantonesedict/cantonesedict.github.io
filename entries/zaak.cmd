@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2024-11-10
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -483,7 +483,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Normalised headword 𧷤 (⿲丿臣責) to 賾.
+  - Fan Wan entry: Normalised headword {𧷤=⿲丿臣責} to 賾.
   ==
 S
   ==
@@ -814,7 +814,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~13|n56 𧓸(9) (⿰虫鄭)]]
+  - [[Page~13|n56 {𧓸=⿰虫鄭}(9)]]
     ==
     - A large green caterpillar,
       called _ch(a/)k(9) chuk(9)_ [[zaak6 zuk6 𧓸蠋]]

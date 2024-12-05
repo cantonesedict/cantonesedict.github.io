@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-12-02
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -535,7 +535,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected 𣑱 (⿱汍木) to 染.
+  - Fan Wan entry: Corrected {𣑱=⿱汍木} to 染.
   ==
 $$
 
@@ -1556,7 +1556,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected headword 𪔇 (⿱木鼎) to 鼒.
+  - Fan Wan entry: Corrected headword {𪔇=⿱木鼎} to 鼒.
   ==
 $$
 
@@ -2207,7 +2207,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Normalised 𣗥 (⿰束束) to 棘.
+  - Fan Wan entry: Normalised {𣗥=⿰束束} to 棘.
   - Williams' 枳椇: Kangxi quotes 《集韻》舉綺切《韻會》居矣切𠀤音己,
     i.e. a reading of _(2)k(i/)_ (gei2), for 枳椇.
   - Williams' 枳殼: Not _Hovenia dulcis_ seeds,
@@ -2922,11 +2922,11 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~40|n83 𫪦(3) (⿰口知)]]
+  - [[Page~40|n83 {𫪦=⿰口知}(3)]]
     ==
     - A colloquial particle, implying doubt;
     - _(4)loi m(i/)(6) ch(i/)(3)_
-        [[loi4 mei6 zi3 來未𫪦]]
+        [[loi4 mei6 zi3 來未{𫪦=⿰口知}]]
         I doubt if he is here yet.
     ==
   ====
@@ -2954,10 +2954,6 @@ W
     [[Alternative form of 置. **See $置zi3 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - Fan Wan and Williams both print 置 with last stroke ㇗, and 寘 as ⿰宀眞.
-  ==
 $$
 
 ### 志3 | _Ch(i/)(3)_ [[zi3]]
@@ -3295,6 +3291,9 @@ R
   ⽹ + 8
 U
   U+7F6E
+H
+  May appear with bottom component as the right component of 値 or 值 (assumed here),
+  depending on the font.
 A
   ==
   - $寘3
@@ -3342,10 +3341,6 @@ W
         ashamed, no place to hide myself.
     ==
   ====
-C
-  ==
-  - Fan Wan and Williams both print 置 with last stroke ㇗, and 寘 as ⿰宀眞.
-  ==
 $$
 
 ###+ 胾3 | _Ch(i/)(3)_ (zi3)
@@ -4513,7 +4508,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected 𮋦 (⿰耒目) to 耜.
+  - Fan Wan entry: Corrected {𮋦=⿰耒目} to 耜.
   ==
 $$
 

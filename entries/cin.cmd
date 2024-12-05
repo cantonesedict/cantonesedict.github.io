@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cin
-* %date-modified --> 2024-11-07
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -717,11 +717,11 @@ V
 F
   ==
   - [[F1.21 錢]] 十分爲錢
-  - [[F1.21 ⿸⿻丿丨丶]] 同上
+  - [[F1.21 {？=⿸⿻丿丨丶}]] 同上
   ==
 W
   ====
-  - [[Page~575 (4)錢(4)⿸⿻勹丿丶]]
+  - [[Page~575 (4)錢(4){？=⿸⿻勹丿丶}]]
     ==
     - Copper coin, cash, coppers;
     - coin, a piece of money;

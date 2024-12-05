@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2024-12-03
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -612,7 +612,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected ⿱宀⿱宀厼 to 索,
-    and normalised 𫉬 (⿱艹⿰犭隻) to 獲.
+    and normalised {𫉬=⿱艹⿰犭隻} to 獲.
   ==
 $$
 
@@ -1129,7 +1129,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Normalised headword ⿸广⿰豆寸 to 厨.
+  - Fan Wan entry: Normalised headword {𢊍=⿸广⿰豆寸} to 厨.
   ==
 S
   ==
@@ -1229,7 +1229,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Normalised headword ⿸广⿰豆寸 to 厨.
+  - Fan Wan entry: Normalised headword {𢊍=⿸广⿰豆寸} to 厨.
   ==
 S
   ==
@@ -1574,7 +1574,7 @@ W
 C
   ==
   - Fan Wan entry: Normalised headword ⿰𧾷⿸广⿰豆寸 to 蹰.
-  - Williams entry: Normalised headword 𨆼 (⿰𧾷㕑) to 躕.
+  - Williams entry: Normalised headword {𨆼=⿰𧾷㕑} to 躕.
   ==
 S
   ==

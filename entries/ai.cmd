@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ai
-* %date-modified --> 2024-12-02
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -74,7 +74,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~2 (1)𫫃 (⿰口挨); here normalised to 哎]]
+  - [[Page~2 (1){𫫃=⿰口挨}; here normalised to 哎]]
     ==
     - A particle of surprise or pain;
     - to beg, to ask;
@@ -128,7 +128,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~2 (1)𫫃 (⿰口挨)]]
+  - [[Page~2 (1){𫫃=⿰口挨}]]
     --
     [[Alternative form of 哎. **See $哎ai1 for the canonical entry.**]]
     --
@@ -267,7 +267,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected headword 𦠉 (⿰⺼壹) to 曀.
+  - Fan Wan entry: Corrected headword {𦠉=⿰⺼壹} to 曀.
   ==
 $$
 
@@ -376,13 +376,13 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~2 𦠉(3) (⿰⺼壹)]]
+  - [[Page~2 {𦠉=⿰⺼壹}(3)]]
     ==
     - Lean, cadaverous, meager, poor [[Kangxi: ::[瘦]也::]].
     ==
   ====
 C
   ==
-  - Fan Wan entry: The headword 𦠉 (⿰⺼壹) is actually a misprint of $曀3.
+  - Fan Wan entry: The headword {𦠉=⿰⺼壹} is actually a misprint of $曀3.
   ==
 $$

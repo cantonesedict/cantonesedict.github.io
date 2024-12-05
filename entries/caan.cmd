@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caan
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -242,7 +242,7 @@ U
   U+5D7C
 F
   ==
-  - [[F2.69 嵼]] ⿰山蹇嵼山屈曲貌
+  - [[F2.69 嵼]] {𡾰=⿰山蹇}嵼山屈曲貌
   ==
 W
   ====
@@ -250,7 +250,7 @@ W
     ==
     - Tortuous paths among the mountains;
     - _(2)k(i/)n (2)ch(')(a/)n_
-        [[gin2 caan2 ⿰山蹇嵼]],
+        [[gin2 caan2 {𡾰=⿰山蹇}嵼]],
         winding, crooked, as paths.
     ==
   ====

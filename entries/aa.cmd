@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2024-12-02
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -353,7 +353,7 @@ F
   ==
   - [[F2.75 啞]] 口不能言曰啞
   - [[F2.75 瘂]] 同上
-  - [[F2.75 ⿸疒㰳]] 同上
+  - [[F2.75 {𤺘=⿸疒㰳}]] 同上
   ==
 W
   ====
@@ -415,7 +415,7 @@ F
   ==
   - [[F2.75 啞]] 口不能言曰啞
   - [[F2.75 瘂]] 同上
-  - [[F2.75 ⿸疒㰳]] 同上
+  - [[F2.75 {𤺘=⿸疒㰳}]] 同上
   ==
 W
   ====

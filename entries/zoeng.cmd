@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2024-11-29
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -657,7 +657,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Normalised 𬋩 (⿱爫⿱冖㠯) to 管.
+  - Fan Wan entry: Normalised {𬋩=⿱爫⿱冖㠯} to 管.
   ==
 $$
 
@@ -1040,7 +1040,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Normalised ⿱執灬 to 熱.
+  - Fan Wan entry: Normalised {𤍠=⿱執灬} to 熱.
   ==
 $$
 

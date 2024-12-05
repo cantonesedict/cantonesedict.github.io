@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cak
-* %date-modified --> 2024-12-03
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -79,7 +79,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected 𭙡 (⿸广甬) to 痛.
+  - Fan Wan entry: Corrected {𭙡=⿸广甬} to 痛.
   - Williams' 惻隱之心: Corrected _(4)yan_ (jan4) to _(2)yan_ (jan2).
   ==
 S
