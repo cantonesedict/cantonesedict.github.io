@@ -367,6 +367,12 @@ FixedDelimitersReplacement: #.syntax.highlight
 - tag_name: mark
 
 
+RegexDictionaryReplacement: #.syntax.composition-titles
+* \{ (?P<character> \S ) = (?P<composition> \S+? ) \}
+    -->
+  <span title="\g<composition>">\g<character></span>
+
+
 FixedDelimitersReplacement: #.syntax.chinese-lang-forced
 - queue_position: BEFORE #escape-idle-html
 - syntax_type: INLINE
@@ -375,11 +381,17 @@ FixedDelimitersReplacement: #.syntax.chinese-lang-forced
 - prohibited_content: BLOCKS
 - closing_delimiter: ::
 - tag_name: span
-- concluding_replacements: #placeholder-protect
+- concluding_replacements:
+    #.syntax.composition-titles
+    #placeholder-protect
 
 
 RegexDictionaryReplacement: #.syntax.chinese-lang
 - queue_position: BEFORE #escape-idle-html
-* (?P<chinese_run> [꜀-꜇]? (?: [⺀-〿㇀-㇣㐀-鿼豈-龎！-｠𠀀-𱍊]+ [꜀-꜇]? )+ )
+* (?P<chinese_run>
+    [꜀-꜇]? [{]?
+    (?: [⺀-〿㇀-㇣㐀-鿼豈-龎！-｠𠀀-𱍊]+ [{=}]? [꜀-꜇]? )+
+  )
     -->
   <span lang="zh-Hant">\g<chinese_run></span>
+- concluding_replacements: #.syntax.composition-titles
