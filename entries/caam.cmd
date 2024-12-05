@@ -396,7 +396,7 @@ W
   - [[Page~554 (2)摻]]
     ==
     - [[See $摻saam1 for "delicate-hand" senses]];
-    - to take up with the hand.
+    - to take up with the hand [[Kangxi: 取也一曰執也]].
     ==
   <##
     ==
