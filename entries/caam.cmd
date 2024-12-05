@@ -347,6 +347,12 @@ W
     - already.
     ==
   ====
+C
+  ==
+  - The Kangxi entry is simply 《正字通》俗？字,
+    where the illegible character is one of ⿰忄⿱⿰兂兂曰 or 㦧,
+    neither of which I can locate.
+  ==
 $$
 
 ### 𢡖2 [[⿰忄叅]] | _(2)Ts(')(a/)m_ [[caam2]]
