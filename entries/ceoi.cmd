@@ -1137,7 +1137,7 @@ S
   ==
 $$
 
-###+ 𡃴4 (⿰口隨) | _(4)Ts(')ui_ (ceoi4)
+###+ {𡃴=⿰口隨}4 | _(4)Ts(')ui_ (ceoi4)
 
 $$
 R
@@ -1152,7 +1152,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~597 (4)隨; here normalised to 𡃴]]
+  - [[Page~597 (4)隨; here normalised to {𡃴=⿰口隨}]]
     --
     [[...]]
     --
@@ -1163,22 +1163,22 @@ W
     - A smell, a stench;
     - bad breath;
     - _yat(7) pung(6) (4)ts(')ui_
-        [[jat1 bung6 ceoi4 一𩗴𡃴]],
+        [[jat1 bung6 ceoi4 一𩗴{𡃴=⿰口隨}]],
         a stench;
     - _(5)yau tik(7) (4)ts(')ui sik(7)_
-        [[jau5 dik1 ceoi4 sik1 有滴𡃴息]]
+        [[jau5 dik1 ceoi4 sik1 有滴{𡃴=⿰口隨}息]]
         there is some bad smell.
     ==
   ====
 E
   ====
-  - 【𡃴】 (ceoi4):
+  - 【{𡃴=⿰口隨}】 (ceoi4):
     ++
     1. A smell or odour.
        ==
-       - 有𠹻𡃴 (jau5 zam6 ceoi4): "There's [an] odour."
-       - 男人𡃴 (naam4 jan4 ceoi4): "Man smell."
-       - 老人𡃴 (lou5 jan4 ceoi4): "Old person smell."
+       - 有𠹻{𡃴=⿰口隨} (jau5 zam6 ceoi4): "There's [an] odour."
+       - 男人{𡃴=⿰口隨} (naam4 jan4 ceoi4): "Man smell."
+       - 老人{𡃴=⿰口隨} (lou5 jan4 ceoi4): "Old person smell."
        ==
     ++
   ====

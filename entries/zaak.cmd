@@ -803,7 +803,7 @@ S
   ==
 $$
 
-### 𧓸6 [[⿰虫鄭]] | _Ch(a/)k(9)_ [[zaak6]]
+### {𧓸=⿰虫鄭}6 | _Ch(a/)k(9)_ [[zaak6]]
 
 $$
 R
@@ -817,7 +817,7 @@ W
   - [[Page~13|n56 {𧓸=⿰虫鄭}(9)]]
     ==
     - A large green caterpillar,
-      called _ch(a/)k(9) chuk(9)_ [[zaak6 zuk6 𧓸蠋]]
+      called _ch(a/)k(9) chuk(9)_ [[zaak6 zuk6 {𧓸=⿰虫鄭}蠋]]
       which feeds on bean leaves.
     ==
   ====

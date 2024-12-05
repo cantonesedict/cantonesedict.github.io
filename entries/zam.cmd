@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2024-11-10
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -725,7 +725,7 @@ $$
 </nav>
 <## /tone-6-characters ##>
 
-###+ 𠹻6 (⿰口朕) | _Cham(6)_ (zam6)
+###+ {𠹻=⿰口朕}6 | _Cham(6)_ (zam6)
 
 $$
 R
@@ -740,27 +740,27 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~15|n58 朕(6); here normalised to 𠹻]]
+  - [[Page~15|n58 朕(6); here normalised to {𠹻=⿰口朕}]]
     --
     A colloquial word.
     --
     ==
     - A puff, as of smoke;
     - _yat(7) cham(6) (1)(i/)n_
-        [[jat1 zam6 jin1 一𠹻煙]],
+        [[jat1 zam6 jin1 一{𠹻=⿰口朕}煙]],
         a puff of smoke;
     - _yat(7) cham(6) (2)fo (2)fan_
-        [[jat1 zam6 fo2 fan2 一𠹻火粉]],
+        [[jat1 zam6 fo2 fan2 一{𠹻=⿰口朕}火粉]],
         an explosion of incense.
     ==
   ====
 E
   ====
-  - 【𠹻】 (zam6):
+  - 【{𠹻=⿰口朕}】 (zam6):
     ++
     1. Classifier for smells and odours.
        ==
-       - 有𠹻味 (jau5 zam6 mei6): "There's [a] smell."
+       - 有{𠹻=⿰口朕}味 (jau5 zam6 mei6): "There's [a] smell."
        ==
     ++
   ====

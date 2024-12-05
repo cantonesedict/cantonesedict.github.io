@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2024-12-03
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -119,7 +119,7 @@ W
   ====
 $$
 
-### 𠾵1 [[⿰口揸]] | _(1)Ch(a/)_ [[zaa1]]
+### {𠾵=⿰口揸}1 | _(1)Ch(a/)_ [[zaa1]]
 
 $$
 R
@@ -130,16 +130,16 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~7 (1)𠾵]]
+  - [[Page~7 (1){𠾵=⿰口揸}]]
     --
     A colloquial particle implying a short time;
     --
     ==
     - _(2)tang (5)ha(a/) (1)ch(a/)!_
-        [[dang2 haa5 zaa1 等吓𠾵]]^
+        [[dang2 haa5 zaa1 等吓{𠾵=⿰口揸}]]^
         wait a moment;
     - _(2)yam (4)ch(')(a/) (1)ch(a/)_
-        [[jam2 caa4 zaa1 飲茶𠾵]],
+        [[jam2 caa4 zaa1 飲茶{𠾵=⿰口揸}]],
         only just to take a cup of tea.
     ==
   ====
