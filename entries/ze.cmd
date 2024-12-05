@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ze
-* %date-modified --> 2024-11-25
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -107,7 +107,7 @@ U
 F
   ==
   - [[F2.83 嗟]] ::嘆詞又痛[惜]也::
-  - [[F2.83 ⿰口蓍]] 同上
+  - [[F2.83 {𭋦=⿰口蓍}]] 同上
   ==
 W
   ====

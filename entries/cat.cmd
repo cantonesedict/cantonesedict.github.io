@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cat
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -224,13 +224,13 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
-- $𫵱 (⿱山十)6
-- $𨳍 (⿵門七)6
+- ${𫵱=⿱山十}6
+- ${𨳍=⿵門七}6
 ==
 </nav>
 <## /tone-6-characters ##>
 
-###+ 𫵱6 (⿱山十) | _Ts(')at(9)_ (cat6)
+###+ {𫵱=⿱山十}6 | _Ts(')at(9)_ (cat6)
 
 $$.
 R
@@ -243,11 +243,11 @@ W
   [[Not present]]
 C
   ==
-  - Alternative form of 𨳍. **See $𨳍cat6 for the canonical entry.**
+  - Alternative form of {𨳍=⿵門七}. **See $𨳍cat6 for the canonical entry.**
   ==
 $$
 
-###+ 𨳍6 (⿵門七) | _Ts(')at(9)_ (cat6)
+###+ {𨳍=⿵門七}6 | _Ts(')at(9)_ (cat6)
 
 $$
 R
@@ -256,7 +256,7 @@ U
   U+28CCD
 A
   ==
-  -{.modern} $𫵱 (⿱山十)6
+  -{.modern} ${𫵱=⿱山十}6
   ==
 F
   [[Not present]]
@@ -268,17 +268,17 @@ E
   **One of the five profanities censored on Hong Kong television.**
   --
   ====
-  - 【𨳍】 (cat6):
+  - 【{𨳍=⿵門七}】 (cat6):
     ++
     1. (_vulgar_) A flaccid penis.
     ++
     --
     A literal translation would be "droop-dick".
-    For non-literal senses, see the [Wiktionary entry for 𨳍][wiktionary-𨳍].
+    For non-literal senses, see the [Wiktionary entry for {𨳍=⿵門七}][wiktionary-𨳍].
     --
   ====
   --
-  Suprisingly, the alternative form 𫵱 (⿱山十) is recorded in
+  Suprisingly, the alternative form {𫵱=⿱山十} is recorded in
   [Eitel (1877)][eitel-dict-cat^6] under _ts(')at(9)_ (cat6);
   the entry simply reads "_V[ulgar]._ the penis".
   --

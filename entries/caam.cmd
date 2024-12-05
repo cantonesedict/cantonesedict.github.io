@@ -217,7 +217,7 @@ W
   ====
   - [[Page~554 (2)篸 _Ts(')(a/)m_ (caam2); here corrected to _(1)Ts(')(a/)m_ (caam1)]]
     ==
-    - Bamboos varying in length [[Kangxi: 篸⿱𥫗差竹貌]];
+    - Bamboos varying in length [[Kangxi: 篸{𥰭=⿱𥫗差}竹貌]];
     - a pandean pipe [[Kangxi: 洞簫也]];
     - [[...]].
     ==
@@ -225,7 +225,7 @@ W
 C
   ==
   - Strictly, the pre-merger reading should be _(1)ch(')(a/)m_;
-    Kangxi quotes 《集韻》初簪切 for the phrase 篸𥰭 (⿱𥫗差),
+    Kangxi quotes 《集韻》初簪切 for the phrase 篸{𥰭=⿱𥫗差},
     which is the bamboo version of 參差.
   ==
 S
@@ -274,7 +274,7 @@ $$
 =={.modern}
 - $慘2
 - $憯2
-- $𢡖 (⿰忄叅)2
+- ${𢡖=⿰忄叅}2
 - $摻2
 - $篸2
 ==
@@ -290,16 +290,16 @@ U
   U+6158
 A
   ==
-  - $𢡖 [[⿰忄叅]]2
+  - ${𢡖=⿰忄叅}2
   ==
 F
   ==
-  - [[F2.64 ⿰忄叅]] 酷毒也愁戚也甚也
+  - [[F2.64 {𢡖=⿰忄叅}]] 酷毒也愁戚也甚也
   - [[F2.64 慘]] 同上
   ==
 W
   ====
-  - [[Page~554 (2)慘(2)𢡖 (⿰忄叅)]]
+  - [[Page~554 (2)慘(2){𢡖=⿰忄叅}]]
     ==
     - Cruel, hard-hearted, inhuman [[Kangxi 慘: 毒也]];
     - to be afflicted, injured, wounded in the mind [[Kangxi 慘: 痛也]];
@@ -355,7 +355,7 @@ C
   ==
 $$
 
-### 𢡖2 [[⿰忄叅]] | _(2)Ts(')(a/)m_ [[caam2]]
+### {𢡖=⿰忄叅}2 | _(2)Ts(')(a/)m_ [[caam2]]
 
 $$.
 R
@@ -364,12 +364,12 @@ U
   U+22856
 F
   ==
-  - [[F2.64 ⿰忄叅]] 酷毒也愁戚也甚也
+  - [[F2.64 {𢡖=⿰忄叅}]] 酷毒也愁戚也甚也
   - [[F2.64 慘]] 同上
   ==
 W
   ====
-  - [[Page~554 (2)慘(2)𢡖 (⿰忄叅)]]
+  - [[Page~554 (2)慘(2){𢡖=⿰忄叅}]]
     --
     [[Alternative form of 慘. **See $慘caam2 for the canonical entry.**]]
     --
@@ -420,7 +420,7 @@ U
   U+7BF8
 F
   ==
-  - [[F2.64 ⿱𥫗彡]] 竹器
+  - [[F2.64 {？=⿱𥫗彡}]] 竹器
   - [[F2.64 篸]] 同上
   ==
 W
@@ -562,7 +562,7 @@ $$
 - $慚4
 - $攙4
 - $毚4
-- $𥕌 (⿰石斬)4
+- ${𥕌=⿰石斬}4
 - $蚕4
 - $蠶4
 - $讒4
@@ -615,7 +615,7 @@ A
   ==
   -{.modern} 嶃
   -{.modern} 磛
-  - $𥕌 [[⿰石斬]]4
+  - ${𥕌=⿰石斬}4
   ==
 F
   ==
@@ -624,7 +624,7 @@ F
   ==
 W
   ====
-  - [[Page~554 (4)巉(4)𥕌 (⿰石斬)]]
+  - [[Page~554 (4)巉(4){𥕌=⿰石斬}]]
     ==
     - A high, inaccessible peak or cliff;
     - a cloud-capt summit;
@@ -747,7 +747,7 @@ C
   ==
 $$
 
-### 𥕌4 [[⿰石斬]] | _(4)Ts(')(a/)m_ [[caam4]]
+### {𥕌=⿰石斬}4 | _(4)Ts(')(a/)m_ [[caam4]]
 
 $$.
 R
@@ -761,7 +761,7 @@ F
   ==
 W
   ====
-  - [[Page~554 (4)巉(4)𥕌 (⿰石斬)]]
+  - [[Page~554 (4)巉(4){𥕌=⿰石斬}]]
     --
     [[Alternative form of 巉. **See $巉caam4 for the canonical entry.**]]
     --

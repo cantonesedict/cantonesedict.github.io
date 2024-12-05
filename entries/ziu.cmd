@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2024-10-16
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -595,7 +595,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected 王 to 上.
-  - Williams misprints (2)剿(2)勦 as (1)剿(1)⿰巢刀; here corrected.
+  - Williams misprints (2)剿(2)勦 as (1)剿(1){𠞰=⿰巢刀}; here corrected.
   ==
 $$
 
@@ -631,7 +631,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected 王 to 上.
-  - Williams misprints (2)剿(2)勦 as (1)剿(1)⿰巢刀; here corrected.
+  - Williams misprints (2)剿(2)勦 as (1)剿(1){𠞰=⿰巢刀}; here corrected.
   ==
 $$
 

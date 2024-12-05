@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zong
-* %date-modified --> 2024-11-27
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -49,7 +49,7 @@ $$
 - $庄1
 - $樁1
 - $牂1
-- $𥊙 (⿰目⿳囟儿夊)1
+- ${𥊙=⿰目⿳囟儿夊}1
 - $粧1
 - $臧1
 - $莊1
@@ -197,7 +197,7 @@ W
   ====
 $$
 
-###+ 𥊙1 (⿰目⿳囟儿夊) | _(1)Chong_ (zong1)
+###+ {𥊙=⿰目⿳囟儿夊}1 | _(1)Chong_ (zong1)
 
 $$.
 R
@@ -260,7 +260,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Normalised 𫉬 (⿱艹⿰犭隻) to 獲.
+  - Fan Wan entry: Normalised {𫉬=⿱艹⿰犭隻} to 獲.
   - Williams' 臧獲: Corrected _wok(8)_ (wok3) to _wok(9)_ (wok6).
   ==
 $$
@@ -445,7 +445,7 @@ U
   U+468E
 A
   ==
-  -{.modern} $𥊙 (⿰目⿳囟儿夊)1
+  -{.modern} ${𥊙=⿰目⿳囟儿夊}1
   ==
 F
   [[Not present]]

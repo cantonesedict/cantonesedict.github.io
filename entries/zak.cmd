@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zak
-* %date-modified --> 2024-10-08
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -282,7 +282,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Normalised headword 𧷤 (⿲丿臣責) to 賾.
+  - Fan Wan entry: Normalised headword {𧷤=⿲丿臣責} to 賾.
   ==
 S
   ==

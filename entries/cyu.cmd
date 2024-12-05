@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyu
-* %date-modified --> 2024-10-10
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -334,7 +334,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Normalised headword ⿸广⿰豆寸 to 厨.
+  - Fan Wan entry: Normalised headword {𢊍=⿸广⿰豆寸} to 厨.
   ==
 S
   ==
@@ -362,7 +362,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Normalised headword ⿸广⿰豆寸 to 厨.
+  - Fan Wan entry: Normalised headword {𢊍=⿸广⿰豆寸} to 厨.
   ==
 S
   ==
@@ -520,7 +520,7 @@ W
 C
   ==
   - Fan Wan entry: Normalised headword ⿰𧾷⿸广⿰豆寸 to 蹰.
-  - Williams entry: Normalised headword 𨆼 (⿰𧾷㕑) to 躕.
+  - Williams entry: Normalised headword {𨆼=⿰𧾷㕑} to 躕.
   ==
 S
   ==
@@ -753,7 +753,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected 袖 to 柚 and corrected 𢴰 (⿰扌幾) to 機.
+  - Fan Wan entry: Corrected 袖 to 柚 and corrected {𢴰=⿰扌幾} to 機.
   ==
 $$
 
@@ -880,7 +880,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Normalised 𮈔 (⿰糸系) to 絲.
+  - Fan Wan entry: Normalised {𮈔=⿰糸系} to 絲.
   - Williams' "Contracted to ⿰糸⿳宀一　":
     Probably a mistake. The personal name of 咸豐 is 奕詝, not 奕紵.
   ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zap
-* %date-modified --> 2024-10-08
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -43,7 +43,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
-- $𠽃 (⿰口執)1
+- ${𠽃=⿰口執}1
 - $執1
 - $汁1
 - $縶1
@@ -52,7 +52,7 @@ $$
 </nav>
 <## /tone-1-characters ##>
 
-### 𠽃1 [[⿰口執]] | _Tsap(7)_ [[zap1]]
+### {𠽃=⿰口執}1 | _Tsap(7)_ [[zap1]]
 
 $$.
 R
@@ -63,7 +63,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~557 𠽃(7) (⿰口執)]]
+  - [[Page~557 {𠽃=⿰口執}(7)]]
     --
     [[Alternative form of 蓻. **See $蓻zap1 for the canonical entry.**]]
     --
@@ -280,14 +280,14 @@ U
   U+84FB
 A
   ==
-  - $𠽃 (⿰口執)1
+  - ${𠽃=⿰口執}1
   -{.modern} $執1
   ==
 F
   [[Not present]]
 W
   ====
-  - [[Page~557 𠽃(7) (⿰口執); here normalised to 蓻]]
+  - [[Page~557 {𠽃=⿰口執}(7); here normalised to 蓻]]
     --
     A colloquial word.
     --

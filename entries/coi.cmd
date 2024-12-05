@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coi
-* %date-modified --> 2024-10-16
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -732,7 +732,7 @@ A
 F
   ==
   - [[F2.44 纔]] ::暫也[僅]也又剛纔方纔::
-  - [[F2.44 ⿰糸⿱㲋二]] ::同[上]::
+  - [[F2.44 {？=⿰糸⿱㲋二}]] ::同[上]::
   ==
 W
   ====

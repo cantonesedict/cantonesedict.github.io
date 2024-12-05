@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zim
-* %date-modified --> 2024-10-08
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -205,7 +205,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected 𭘖 (⿰巾古) to 帖.
+  - Fan Wan entry: Corrected {𭘖=⿰巾古} to 帖.
   ==
 S
   ==
@@ -467,7 +467,7 @@ U
 F
   ==
   - [[F2.47 詹]] 姓亦竹名
-  - [[F2.47 ⿸厃⿱儿舌]] 同上
+  - [[F2.47 ::[{𦧕=⿸厃⿱儿舌}]::]] 同上
   ==
 W
   ====
@@ -487,7 +487,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected headword ⿸厃⿱八𠮷 to 𦧕 (⿸厃⿱儿舌).
+  - Fan Wan entry: Corrected headword ⿸厃⿱八𠮷 to {𦧕=⿸厃⿱儿舌}.
   ==
 $$
 

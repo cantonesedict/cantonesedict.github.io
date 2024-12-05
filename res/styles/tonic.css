@@ -206,6 +206,12 @@ th, td {
   border-width: 3px;
 }
 
+.composition:active::after, .composition:hover::after {
+  color: var(--modern-colour);
+  content: ' (' attr(title) ')';
+  font-family: var(--modern-font);
+}
+
 .font-test {
   font-size: 2em;
   text-align: center;

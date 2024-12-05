@@ -47,7 +47,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $僉1
-- $𠠃 (⿰⿳从一韭刂)1
+- ${𠠃=⿰⿳从一韭刂}1
 - $㔐1
 - $孅1
 - $幨1
@@ -74,7 +74,7 @@ U
 F
   ==
   - [[F2.47 僉]] 咸也皆也共也
-  - [[F2.47 ⿳人⿻丅口从]] 咸也皆也共也
+  - [[F2.47 {？=⿳人⿻丅口从}]] 咸也皆也共也
   ==
 W
   ====
@@ -94,7 +94,7 @@ C
   ==
 $$
 
-### 𠠃1 [[⿰⿳从一韭刂]] | _(1)Ts(')(i/)m_ [[cim1]]
+### {𠠃=⿰⿳从一韭刂}1 | _(1)Ts(')(i/)m_ [[cim1]]
 
 $$.
 R
@@ -103,11 +103,11 @@ U
   U+20803
 F
   ==
-  - [[F2.47 ⿰⿳艹非一刂]] ::[切]也割也::
+  - [[F2.47 {？=⿰⿳艹非一刂}]] ::[切]也割也::
   ==
 W
   ====
-  - [[Page~571 (1)𠠃 (⿰⿳从一韭刂)]]
+  - [[Page~571 (1){𠠃=⿰⿳从一韭刂}]]
     --
     [[Alternative form of 㔐. **See $㔐cim1 for the canonical entry.**]]
     --
@@ -127,15 +127,15 @@ U
   U+3510
 A
   ==
-  - $𠠃 [[⿰⿳从一韭刂]]1
+  - ${𠠃=⿰⿳从一韭刂}1
   ==
 F
   ==
-  - [[F2.47 ⿰⿳艹非一刂]] ::[切]也割也::
+  - [[F2.47 {？=⿰⿳艹非一刂}]] ::[切]也割也::
   ==
 W
   ====
-  - [[Page~571 (1)𠠃 (⿰⿳从一韭刂); here normalised to 㔐]]
+  - [[Page~571 (1){𠠃=⿰⿳从一韭刂}; here normalised to 㔐]]
     ==
     - To cut;
     - to stick in the throat;
@@ -153,7 +153,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected 竊 to 切.
-  - I have normalised 𠠃 (⿰⿳从一韭刂) to 㔐 for the better font support.
+  - I have normalised {𠠃=⿰⿳从一韭刂} to 㔐 for the better font support.
   ==
 E
   ====
@@ -171,13 +171,13 @@ E
   Olden attestation for 㔐 _(1)ts(')(i/)m_ (cim1) meaning "cut" or "sever":
   --
   """"
-  ::B2.w248b0403 (:七廉切:) (:𠠃:) (:𠠃切割也:)::
+  ::B2.w248b0403 (:七廉切:) (:{𠠃=⿰⿳从一韭刂}:) (:{𠠃=⿰⿳从一韭刂}切割也:)::
   """"
   """"
-  ::K. (:𠠃:) 《五音集韻》(:七廉切音籤切割也:)::
+  ::K. (:{𠠃=⿰⿳从一韭刂}:) 《五音集韻》(:七廉切音籤切割也:)::
   """"
   """"
-  ::K. (:㔐:) 《玉篇》(:千廉切音僉割也:)〇按《五音集韻》(:作𠠃:)::
+  ::K. (:㔐:) 《玉篇》(:千廉切音僉割也:)〇按《五音集韻》(:作{𠠃=⿰⿳从一韭刂}:)::
   """"
 $$
 
@@ -589,7 +589,7 @@ C
   ==
   - Fan Wan entry: Corrected headword 謟 to 諂, headword ⿵門謟 to 讇,
     and headword self-reference to 上.
-  - Williams misprints 讇 as 𨶒 (⿵門舀); here corrected.
+  - Williams misprints 讇 as {𨶒=⿵門舀}; here corrected.
   ==
 $$
 
@@ -616,7 +616,7 @@ C
   ==
   - Fan Wan entry: Corrected headword 謟 to 諂, headword ⿵門謟 to 讇,
     and headword self-reference to 上.
-  - Williams misprints 讇 as 𨶒 (⿵門舀); here corrected.
+  - Williams misprints 讇 as {𨶒=⿵門舀}; here corrected.
   ==
 $$
 

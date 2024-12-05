@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2024-11-10
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -361,7 +361,7 @@ W
   ====
 C
   ====
-  - Williams misprints 魫 as 𩵫 (⿰冘魚); here corrected.
+  - Williams misprints 魫 as {𩵫=⿰冘魚}; here corrected.
   - Williams' placement under _(2)Ch(')am_ (cam2) is idiosyncratic
     (and probably erroneous) because it does not follow any of the following:
     ==
@@ -774,7 +774,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Normalised headword 𩰿 (⿱㚘鬲) to 鬵.
+  - Fan Wan entry: Normalised headword {𩰿=⿱㚘鬲} to 鬵.
   ==
 $$
 
@@ -803,7 +803,7 @@ W
   ====
 C
   ====
-  - Williams misprints 魫 as 𩵫 (⿰冘魚); here corrected.
+  - Williams misprints 魫 as {𩵫=⿰冘魚}; here corrected.
   - See $魫cam2 for commentary on Williams' idiosyncratic reading _(2)ch(')am_ (cam2).
   - The reading _(4)ch(')am_ (cam4) is not unattested;
     Kangxi has 又持林切音沉義同.

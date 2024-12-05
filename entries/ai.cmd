@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ai
-* %date-modified --> 2024-12-02
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -48,7 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $哎1
-- $𫫃 (⿰口挨)1
+- ${𫫃=⿰口挨}1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -62,7 +62,7 @@ U
   U+54CE
 A
   ==
-  - $𫫃 [[⿰口挨]]1
+  - ${𫫃=⿰口挨}1
   -{.modern} 唉
   ==
 V
@@ -74,7 +74,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~2 (1)𫫃 (⿰口挨); here normalised to 哎]]
+  - [[Page~2 (1){𫫃=⿰口挨}; here normalised to 哎]]
     ==
     - A particle of surprise or pain;
     - to beg, to ask;
@@ -117,7 +117,7 @@ E
   ====
 $$
 
-### 𫫃1 [[⿰口挨]] | _(1)Ai_ [[ai1]]
+### {𫫃=⿰口挨}1 | _(1)Ai_ [[ai1]]
 
 $$.
 R
@@ -128,7 +128,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~2 (1)𫫃 (⿰口挨)]]
+  - [[Page~2 (1){𫫃=⿰口挨}]]
     --
     [[Alternative form of 哎. **See $哎ai1 for the canonical entry.**]]
     --
@@ -195,7 +195,7 @@ $$
 - $曀3
 - $縊3
 - $翳3
-- $𦠉 (⿰⺼壹)3
+- ${𦠉=⿰⺼壹}3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -267,7 +267,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected headword 𦠉 (⿰⺼壹) to 曀.
+  - Fan Wan entry: Corrected headword {𦠉=⿰⺼壹} to 曀.
   ==
 $$
 
@@ -361,7 +361,7 @@ W
   ====
 $$
 
-### 𦠉3 [[⿰⺼壹]] | _Ai(3)_ [[ai3]]
+### {𦠉=⿰⺼壹}3 | _Ai(3)_ [[ai3]]
 
 $$
 R
@@ -376,13 +376,13 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~2 𦠉(3) (⿰⺼壹)]]
+  - [[Page~2 {𦠉=⿰⺼壹}(3)]]
     ==
     - Lean, cadaverous, meager, poor [[Kangxi: ::[瘦]也::]].
     ==
   ====
 C
   ==
-  - Fan Wan entry: The headword 𦠉 (⿰⺼壹) is actually a misprint of $曀3.
+  - Fan Wan entry: The headword {𦠉=⿰⺼壹} is actually a misprint of $曀3.
   ==
 $$

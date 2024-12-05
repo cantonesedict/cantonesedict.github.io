@@ -408,15 +408,10 @@ class Updater:
     def _gather_toned_characters_from_tone(cmd_content, tone_syllable_ct_list):
         return {
             tone: [
-                re.sub(
-                    pattern=r'\[\[ (?P<composition> .+? ) \]\]',
-                    repl=r'(\g<composition>)',
-                    string=match.expand(fr'\g<character>\g<etc>{tone}'),
-                    flags=re.VERBOSE,
-                )
+                match.expand(fr'\g<character>{tone}')
                 for match in re.finditer(
                     pattern=(
-                        fr'^ \#\#\# [+]? [ ] \[? (?P<character> \S ) \]? {tone} (?P<etc> .*? )'
+                        fr'^ \#\#\# [+]? [ ] \[? (?P<character> \S+? ) \]? {tone}'
                         fr'[ ][|][ ]'
                         fr'.*?'
                         fr'(?: \( | \[\[ ) {syllable}{tone} (?: \) | \]\] )'
@@ -768,7 +763,7 @@ class Indexer:
                     f'      <nav class="sideways">',
                     f'      ==',
                     *[
-                        f'      - ${Indexer._append_composition(character, c_from_c)}{jyutping}'
+                        f'      - ${Indexer._composed_character(character, c_from_c)}{jyutping}'
                         for character, jyutping_readings in j_from_c_from_r[residual_stroke_count].items()
                         for jyutping in jyutping_readings
                     ],
@@ -783,9 +778,9 @@ class Indexer:
         ])
 
     @staticmethod
-    def _append_composition(character, composition_from_character):
+    def _composed_character(character, composition_from_character):
         try:
-            return f'{character} ({composition_from_character[character]})'
+            return '{' + f'{character}={composition_from_character[character]}' + '}'
         except KeyError:
             return character
 
@@ -846,8 +841,7 @@ class Page:
                 pattern=(
                     r'^ [#]{3} [+]? '
                     r'[ ]'
-                    r'\[? (?P<character> \S ) \]? .'
-                    r'(?: [ ] (?: \( | \[\[ ) (?P<composition> .+? ) (?: \) | \]\] ) )?'
+                    r'\[? \{? (?P<character> \S ) [=]? (?P<composition> \S*? ) \}? \]? .'
                     r'[ ][|][ ]'
                     r'.*?'
                     r'(?: \( | \[\[ )'
@@ -891,13 +885,16 @@ class CantoneseEntry:
         self.term_jyutping = term_jyutping
         self.page_jyutping = page_jyutping
         self.link_text = f'{term}{parenthetical_disambiguation}'
-        self.relative_url = f'{page_jyutping}#cantonese-{term}{disambiguation}'
+        self.relative_url = f'{page_jyutping}#cantonese-{self.clean_term()}{disambiguation}'
 
     def split(self):
         return (
             SplitCantoneseEntry(self.term, self.disambiguation, split_term_jyutping, self.page_jyutping)
             for split_term_jyutping in re.split(pattern=r'\s*,\s*', string=self.term_jyutping)
         )
+
+    def clean_term(self):
+        return re.sub(pattern=r'\{(?P<character>\S)=\S+\}', repl=r'\g<character>', string=self.term)
 
 
 class CharacterEntry:
@@ -948,7 +945,7 @@ class SplitCantoneseEntry(CantoneseEntry):
         return self.rank() < other.rank()
 
     def rank(self):
-        return self.term_jyutping.split(), self.term
+        return self.term_jyutping.split(), self.clean_term()
 
 
 class Statistician:

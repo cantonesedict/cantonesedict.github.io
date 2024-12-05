@@ -164,9 +164,9 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $憯caam2
-      - $𢡖 (⿰忄叅)caam2
+      - ${𢡖=⿰忄叅}caam2
       - $憔ciu4
-      - $𢠵 (⿰忄敞)cong2
+      - ${𢠵=⿰忄敞}cong2
       - $憎zang1
       ==
       </nav>
@@ -1099,7 +1099,7 @@ For all radicals, see [Index of characters by radical](./).
       - $槧cim3
       - $槽cou4
       - $樕cuk1
-      - $𣙙 (⿰木敕)cuk1
+      - ${𣙙=⿰木敕}cuk1
       - $樞cyu4
       - $樝zaa1
       - $槢zaap6

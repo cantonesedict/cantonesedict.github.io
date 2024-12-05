@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cuk
-* %date-modified --> 2024-12-03
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -48,12 +48,12 @@ $$
 - $搐1
 - $束1
 - $樕1
-- $𣙙 (⿰木敕)1
+- ${𣙙=⿰木敕}1
 - $畜1
 - $矗1
 - $簇1
 - $簌1
-- $𫂙 (⿱𥫗敕)1
+- ${𫂙=⿱𥫗敕}1
 - $蓄1
 - $蔌1
 - $蔟1
@@ -194,15 +194,15 @@ U
   U+6A15
 A
   ==
-  - $𣙙 [[⿰木敕]]1
+  - ${𣙙=⿰木敕}1
   ==
 F
   ==
-  - [[F1.64 ::[⿰木敕]::]] ::樸[⿰木敕]小木也::
+  - [[F1.64 {𣙙=⿰木敕}]] ::樸{𣙙=⿰木敕}小木也::
   ==
 W
   ====
-  - [[Page~600 𣙙(7) (⿰木敕); here normalised to 樕]]
+  - [[Page~600 {𣙙=⿰木敕}(7); here normalised to 樕]]
     ==
     - A small tree, a shrub, a sapling;
     - _puk(9) ts(')uk(7)_
@@ -212,11 +212,11 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected headword ⿰木敇 to 𣙙 (⿰木敕).
+  - Fan Wan entry: Corrected headword ⿰木敇 to {𣙙=⿰木敕}.
   ==
 $$
 
-### 𣙙1 [[⿰木敕]] | _Ts(')uk(7)_ [[cuk1]]
+### {𣙙=⿰木敕}1 | _Ts(')uk(7)_ [[cuk1]]
 
 $$.
 R
@@ -225,18 +225,18 @@ U
   U+23659
 F
   ==
-  - [[F1.64 ::[⿰木敕]::]] ::樸[⿰木敕]小木也::
+  - [[F1.64 {𣙙=⿰木敕}]] ::樸{𣙙=⿰木敕}小木也::
   ==
 W
   ====
-  - [[Page~600 𣙙(7) (⿰木敕)]]
+  - [[Page~600 {𣙙=⿰木敕}(7)]]
     --
     [[Alternative form of 樕. **See $樕cuk1 for the canonical entry.**]]
     --
   ====
 C
   ==
-  - Fan Wan entry: Corrected headword ⿰木敇 to 𣙙 (⿰木敕).
+  - Fan Wan entry: Corrected headword ⿰木敇 to {𣙙=⿰木敕}.
   ==
 $$
 
@@ -364,15 +364,15 @@ U
   U+7C0C
 A
   ==
-  - $𫂙 [[⿱𥫗敕]]1
+  - ${𫂙=⿱𥫗敕}1
   ==
 F
   ==
-  - [[F1.64 ⿱𥫗敕]] 窶陋也
+  - [[F1.64 {𫂙=⿱𥫗敕}]] 窶陋也
   ==
 W
   ====
-  - [[Page~600 𫂙(7) (⿱𥫗敕); here normalised to 簌]]
+  - [[Page~600 {𫂙=⿱𥫗敕}(7); here normalised to 簌]]
     ==
     - To sift, and cause to shower down;
     - close, thickset;
@@ -381,11 +381,11 @@ W
   ====
 C
   ==
-  - Fan Wan entry: The explanation seems to be for 蔌 in the "meagre" sense, not 𫂙 (⿱𥫗敕).
+  - Fan Wan entry: The explanation seems to be for 蔌 in the "meagre" sense, not {𫂙=⿱𥫗敕}.
   ==
 $$
 
-### 𫂙1 [[⿱𥫗敕]] | _Ts(')uk(7)_ [[cuk1]]
+### {𫂙=⿱𥫗敕}1 | _Ts(')uk(7)_ [[cuk1]]
 
 $$.
 R
@@ -394,18 +394,18 @@ U
   U+2B099
 F
   ==
-  - [[F1.64 ⿱𥫗敕]] 窶陋也
+  - [[F1.64 {𫂙=⿱𥫗敕}]] 窶陋也
   ==
 W
   ====
-  - [[Page~600 𫂙(7) (⿱𥫗敕)]]
+  - [[Page~600 {𫂙=⿱𥫗敕}(7)]]
     --
     [[Alternative form of 簌. **See $簌cuk1 for the canonical entry.**]]
     --
   ====
 C
   ==
-  - Fan Wan entry: The explanation seems to be for 蔌 in the "meagre" sense, not 𫂙 (⿱𥫗敕).
+  - Fan Wan entry: The explanation seems to be for 蔌 in the "meagre" sense, not {𫂙=⿱𥫗敕}.
   ==
 $$
 

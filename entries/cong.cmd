@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cong
-* %date-modified --> 2024-10-08
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -521,7 +521,7 @@ $$
 - $廠2
 - $惝2
 - $愴2
-- $𢠵 (⿰忄敞)2
+- ${𢠵=⿰忄敞}2
 - $昶2
 - $闖2
 ==
@@ -610,7 +610,7 @@ U
   U+60DD
 A
   ==
-  - $𢠵 [[⿰忄敞]]2
+  - ${𢠵=⿰忄敞}2
   ==
 V
   ==
@@ -618,11 +618,11 @@ V
   ==
 F
   ==
-  - [[F1.98 ::[⿰忄敞]::]] ::[⿰忄敞]恍也驚貌::
+  - [[F1.98 ::[{𢠵=⿰忄敞}]::]] ::[{𢠵=⿰忄敞}]恍也驚貌::
   ==
 W
   ====
-  - [[Page~29* (2)𢠵 (⿰忄敞); here normalised to 惝]]
+  - [[Page~29* (2){𢠵=⿰忄敞}; here normalised to 惝]]
     ==
     - Alarmed;
     - frightened;
@@ -633,7 +633,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected headword 𢠳 (⿰忄敝) to 𢠵 (⿰忄敞).
+  - Fan Wan entry: Corrected headword {𢠳=⿰忄敝} to {𢠵=⿰忄敞}.
   ==
 $$
 
@@ -668,7 +668,7 @@ S
   ==
 $$
 
-### 𢠵2 [[⿰忄敞]] | _(2)Ch(')ong_ [[cong2]]
+### {𢠵=⿰忄敞}2 | _(2)Ch(')ong_ [[cong2]]
 
 $$.
 R
@@ -677,18 +677,18 @@ U
   U+22835
 F
   ==
-  - [[F1.98 ::[⿰忄敞]::]] ::[⿰忄敞]恍也驚貌::
+  - [[F1.98 ::[{𢠵=⿰忄敞}]::]] ::[{𢠵=⿰忄敞}]恍也驚貌::
   ==
 W
   ====
-  - [[Page~29* (2)𢠵 (⿰忄敞)]]
+  - [[Page~29* (2){𢠵=⿰忄敞}]]
     --
     [[Alternative form of 惝. **See $惝cong2 for the canonical entry.**]]
     --
   ====
 C
   ==
-  - Fan Wan entry: Corrected headword 𢠳 (⿰忄敝) to 𢠵 (⿰忄敞).
+  - Fan Wan entry: Corrected headword {𢠳=⿰忄敝} to {𢠵=⿰忄敞}.
   ==
 $$
 
@@ -788,7 +788,7 @@ U
 F
   ==
   - [[F1.100 創]] 創造創始又懲創儆也
-  - [[F1.100 ⿰并刄]] 同上
+  - [[F1.100 {？=⿰并刄}]] 同上
   ==
 W
   ====
@@ -813,7 +813,7 @@ A
 F
   ==
   - [[F1.100 創]] 創造創始又懲創儆也
-  - [[F1.100 ⿰并刄]] 同上
+  - [[F1.100 {？=⿰并刄}]] 同上
   ==
 W
   ====

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cek
-* %date-modified --> 2024-10-16
+* %date-modified --> 2024-12-05
 * %copyright-prior-years -->
 
 %%%
@@ -48,7 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $尺3
-- $𤷫 (⿸疒刺)3
+- ${𤷫=⿸疒刺}3
 - $赤3
 ==
 </nav>
@@ -65,7 +65,7 @@ of 尺 (_ch(')ik_) in its own series
 Based on this ordering, Williams has inferred that
 the character 尺 is read 陽入 _ch(')ik(9)_ (cik6).
 However, since Fan Wan has a separate series
-for 勅勑敕斥叱螫⿰敕鳥赤 (_ch(')ik(7)_),
+for 勅勑敕斥叱螫{𪅙=⿰敕鳥}赤 (_ch(')ik(7)_),
 it appears that its authors have attempted to distinguish
 the vernacular rime _ek_ from the literary rime _ik_,
 notwithstanding all series appear under 第七英影應益.
@@ -155,7 +155,7 @@ S
   ==
 $$
 
-### 𤷫3 [[⿸疒刺]] | _[Ts(')ek](8)_ [[cek3]]
+### {𤷫=⿸疒刺}3 | _[Ts(')ek](8)_ [[cek3]]
 
 $$
 R

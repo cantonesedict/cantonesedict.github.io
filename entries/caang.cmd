@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caang
-* %date-modified --> 2024-10-05
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -301,7 +301,7 @@ $$
 =={.modern}
 - $撐3
 - $撑3
-- $𨅝 (⿰𧾷牚)3
+- ${𨅝=⿰𧾷牚}3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -380,7 +380,7 @@ S
   ==
 $$
 
-###+ 𨅝3 (⿰𧾷牚) | _Ch(')(a/)ng(3)_ (caang3)
+###+ {𨅝=⿰𧾷牚}3 | _Ch(')(a/)ng(3)_ (caang3)
 
 $$
 R
@@ -446,7 +446,7 @@ $$
 - $倀4
 - $棖4
 - $橙4
-- $𥋇 (⿰目掌)4
+- ${𥋇=⿰目掌}4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -551,7 +551,7 @@ S
   ==
 $$
 
-###+ 𥋇4 (⿰目掌) | _(4)Ch(')(a/)ng_ (caang4)
+###+ {𥋇=⿰目掌}4 | _(4)Ch(')(a/)ng_ (caang4)
 
 $$
 R

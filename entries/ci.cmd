@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2024-12-03
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -55,7 +55,7 @@ $$
 - $痴1
 - $癡1
 - $笞1
-- $𥼝 (⿰米禽)1
+- ${𥼝=⿰米禽}1
 - $胝1
 - $蚩1
 - $褫1
@@ -65,7 +65,7 @@ $$
 - $鴟1
 - $黐1
 - $齝1
-- $𪗪 (⿰齒司)1
+- ${𪗪=⿰齒司}1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -83,7 +83,7 @@ F
   ==
 W
   ====
-  - [[Page~10* (1)呞(1)𪗪 (⿰齒司)]]
+  - [[Page~10* (1)呞(1){𪗪=⿰齒司}]]
     --
     [[Alternative form of 齝. **See $齝ci1 for the canonical entry.**]]
     --
@@ -117,7 +117,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Normalised headword 𠷣 (⿰口虽) to 嗤.
+  - Fan Wan entry: Normalised headword {𠷣=⿰口虽} to 嗤.
   ==
 $$
 
@@ -149,8 +149,8 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Normalised headword 𡟎 (⿰女虽) to 媸.
-  - Williams misprints 媸 as 𡟎 (⿰女⿱山虫); here corrected.
+  - Fan Wan entry: Normalised headword {𡟎=⿰女虽} to 媸.
+  - Williams misprints 媸 as {𡟎=⿰女⿱山虫}; here corrected.
   - Williams' 妍媸自見: Corrected _k(i/)n(6)_ (gin6) to _(i/)n(6)_ (jin6).
   ==
 $$
@@ -342,7 +342,7 @@ W
   ====
 $$
 
-### 𥼝1 [[⿰米禽]] | _(1)Ch(')(i/)_ [[ci1]]
+### {𥼝=⿰米禽}1 | _(1)Ch(')(i/)_ [[ci1]]
 
 $$.
 R
@@ -353,7 +353,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~10* (1)𥼝 (⿰米禽)(1)黐]]
+  - [[Page~10* (1){𥼝=⿰米禽}(1)黐]]
     --
     [[Alternative form of 黐. **See $黐ci1 for the canonical entry.**]]
     --
@@ -566,13 +566,13 @@ U
   U+9ED0
 A
   ==
-  - $𥼝 [[⿰米禽]]1
+  - ${𥼝=⿰米禽}1
   ==
 F
   [[Not present]]
 W
   ====
-  - [[Page~10* (1)𥼝 (⿰米禽)(1)黐]]
+  - [[Page~10* (1){𥼝=⿰米禽}(1)黐]]
     ==
     - To attach to, to stick on;
     - glutinous, sticky, pasty;
@@ -666,7 +666,7 @@ U
 A
   ==
   - $呞1
-  - $𪗪 [[⿰齒司]]1
+  - ${𪗪=⿰齒司}1
   ==
 F
   ==
@@ -674,7 +674,7 @@ F
   ==
 W
   ====
-  - [[Page~10* (1)呞(1)𪗪 (⿰齒司); here normalised to 齝]]
+  - [[Page~10* (1)呞(1){𪗪=⿰齒司}; here normalised to 齝]]
     ==
     - To ruminate, to chew the cud, vulgarly called
       _(4)ngau t(')(o\)(3) (2)ts(')(o\)_
@@ -686,7 +686,7 @@ W
   ====
 $$
 
-### 𪗪1 [[⿰齒司]] | _(1)Ch(')(i/)_ [[ci1]]
+### {𪗪=⿰齒司}1 | _(1)Ch(')(i/)_ [[ci1]]
 
 $$.
 R
@@ -697,7 +697,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~10* (1)呞(1)𪗪 (⿰齒司)]]
+  - [[Page~10* (1)呞(1){𪗪=⿰齒司}]]
     --
     [[Alternative form of 齝. **See $齝ci1 for the canonical entry.**]]
     --
@@ -2939,10 +2939,6 @@ W
     [[Alternative form of 鶿. **See $鶿ci4 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - Fan Wan and Williams both print this as ⿰兹鳥.
-  ==
 $$
 
 

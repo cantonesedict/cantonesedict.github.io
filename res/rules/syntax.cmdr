@@ -11,10 +11,13 @@ OrdinaryDictionaryReplacement: #.syntax.addition-marker-to-class
 RegexDictionaryReplacement: #.syntax.character-headings
 - queue_position: BEFORE #headings
 * ^[#]{3} (?P<addition_marker> [+]? )
-    [ ] (?P<bracketed> \[? (?P<character> \S ) \]? ) (?P<tone_number> [1-6] )
-    (?P<etc> .*? ) [ ][|][ ] (?P<reading> .* )
+    [ ]
+    (?P<headword>
+      \[? \{? (?P<character> \S ) (?: = \S+ \} )? \]?
+    )
+    (?P<tone_number> [1-6] ) [ ][|][ ] (?P<reading> .* )
     -->
-  ###{#\g<tone_number>\g<character> .williams\g<addition_marker>} <span class="headword">::\g<bracketed>::\g<etc></span> \g<reading>
+  ###{#\g<tone_number>\g<character> .williams\g<addition_marker>} <span class="headword">::{}\g<headword>::</span> \g<reading>
 - concluding_replacements: #.syntax.addition-marker-to-class
 
 
@@ -128,12 +131,32 @@ RegexDictionaryReplacement: #.syntax.radical-strokes-spaces
   \g<radical>~+~\g<strokes>
 
 
+RegexDictionaryReplacement: #.syntax.composition-titles
+* \{ (?P<character> \S ) = (?P<composition> \S+? ) \}
+    -->
+  <span class="composition" title="\g<composition>">\g<character></span>
+
+
+RegexDictionaryReplacement: #.syntax.composition-characters
+* \{ (?P<character> \S ) = (?P<composition> \S+? ) \}
+    -->
+  \g<character>
+
+
+RegexDictionaryReplacement: #.syntax.strip-compositions
+* \( [|] (?P<term> \S+? ) [|] \)
+    -->
+  \g<term>
+- concluding_replacements: #.syntax.composition-characters
+
+
 RegexDictionaryReplacement: #.syntax.cantonese-entries
 - queue_position: BEFORE #.syntax.entries
 * [-] [ ] 【 (?P<term> [^\s-]+ ) (?P<disambiguation> [\S]* ) 】
     -->
-  -{#cantonese-\g<term>\g<disambiguation>}
-    []{.permalink aria-label=Permalink}(#cantonese-\g<term>\g<disambiguation>)【\g<term>】
+  -{#cantonese-(|\g<term>|)\g<disambiguation>}
+    []{.permalink aria-label=Permalink}(#cantonese-(|\g<term>|)\g<disambiguation>)【\g<term>】
+- concluding_replacements: #.syntax.strip-compositions
 
 
 RegexDictionaryReplacement: #.syntax.entry-links
@@ -144,22 +167,14 @@ RegexDictionaryReplacement: #.syntax.entry-links
 * [$] (?P<jyutping> [a-z]+ )
     -->
   [\g<jyutping>](/entries/\g<jyutping>)
-* [$] (?P<character> [^a-z] ) [ ] (?P<etc> [\(\[]+ [\S]*? [\)\]]+ )
+* [$] (?P<headword> \{? (?P<character> \S) [=]? \S*? \}? )
   (?P<jyutping> [a-z]+ ) (?P<tone_number> [1-6] )
     -->
-  [\g<character>~\g<etc>~\g<jyutping>\g<tone_number>](/entries/\g<jyutping>#\g<tone_number>\g<character>)
-* [$] (?P<character> [^a-z] )
-  (?P<jyutping> [a-z]+ ) (?P<tone_number> [1-6] )
-    -->
-  [\g<character>~\g<jyutping>\g<tone_number>](/entries/\g<jyutping>#\g<tone_number>\g<character>)
-* [$] (?P<character> [^a-z] ) [ ] (?P<etc> [\(\[]+ [\S]*? [\)\]]+ )
+  [\g<headword>~\g<jyutping>\g<tone_number>](/entries/\g<jyutping>#\g<tone_number>\g<character>)
+* [$] (?P<headword> \{? (?P<character> \S) [=]? \S*? \}? )
   (?P<tone_number> [1-6] )
     -->
-  [\g<character>~\g<etc>](#\g<tone_number>\g<character>)
-* [$] (?P<character> [^a-z] )
-  (?P<tone_number> [1-6] )
-    -->
-  [\g<character>](#\g<tone_number>\g<character>)
+  [\g<headword>](#\g<tone_number>\g<character>)
 
 
 RegexDictionaryReplacement: #.syntax.radical-links
@@ -263,7 +278,7 @@ RegexDictionaryReplacement: #.syntax.link-abbreviations-kwong-wan
   [ ]
   (?P<dissection> (?: \(: )? [\S]+ (?: :\) )? )
   [ ]
-  (?P<headword> (?: \(: )? [\S] (?: :\) )? )
+  (?P<headword> (?: \(: )? [\S]+ (?: :\) )? )
   [ ]
     -->
   [《廣韻》\g<dissection>：\g<headword>](https://kanji-database.sourceforge.net/dict/sbgy/v\g<volume_number>.html#\g<id_>)：
@@ -273,7 +288,7 @@ RegexDictionaryReplacement: #.syntax.source-abbreviation-kangxi
 - queue_position: BEFORE #specified-links
 * K[.]
   [ ]
-  (?P<headword> (?: \(: )? [\S] (?: :\) )? )
+  (?P<headword> (?: \(: )? [\S]+ (?: :\) )? )
   [ ]
     -->
   《康熙字典》\g<headword>：
@@ -375,11 +390,17 @@ FixedDelimitersReplacement: #.syntax.chinese-lang-forced
 - prohibited_content: BLOCKS
 - closing_delimiter: ::
 - tag_name: span
-- concluding_replacements: #placeholder-protect
+- concluding_replacements:
+    #.syntax.composition-titles
+    #placeholder-protect
 
 
 RegexDictionaryReplacement: #.syntax.chinese-lang
 - queue_position: BEFORE #escape-idle-html
-* (?P<chinese_run> [꜀-꜇]? (?: [⺀-〿㇀-㇣㐀-鿼豈-龎！-｠𠀀-𱍊]+ [꜀-꜇]? )+ )
+* (?P<chinese_run>
+    [꜀-꜇]? [{]?
+    (?: [⺀-〿㇀-㇣㐀-鿼豈-龎！-｠𠀀-𱍊]+ [{=}]? [꜀-꜇]? )+
+  )
     -->
   <span lang="zh-Hant">\g<chinese_run></span>
+- concluding_replacements: #.syntax.composition-titles

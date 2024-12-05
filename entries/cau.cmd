@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2024-11-12
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -805,7 +805,7 @@ $$
 - $糗3
 - $臭3
 - $蔟3
-- $𧽒 (⿺走臭)3
+- ${𧽒=⿺走臭}3
 - $輳3
 ==
 </nav>
@@ -1095,7 +1095,7 @@ S
   ==
 $$
 
-### 𧽒3 [[⿺走臭]] | _Ch(')au(3)_ [[cau3]]
+### {𧽒=⿺走臭}3 | _Ch(')au(3)_ [[cau3]]
 
 $$
 R
@@ -1110,7 +1110,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~28|n71 (5)𧽒 (⿺走臭)]]
+  - [[Page~28|n71 (5){𧽒=⿺走臭}]]
     --
     Read _ch(')au(3)_ [[cau3]];
     --
@@ -1123,7 +1123,7 @@ W
   ====
 S
   ==
-  - $𧽒 (⿺走臭)cau5
+  - ${𧽒=⿺走臭}cau5
   ==
 $$
 
@@ -1899,12 +1899,12 @@ $$
 <## tone-5-characters ##>
 <nav class="sideways">
 =={.modern}
-- $𧽒 (⿺走臭)5
+- ${𧽒=⿺走臭}5
 ==
 </nav>
 <## /tone-5-characters ##>
 
-### 𧽒5 [[⿺走臭]] | _(5)Ch(')au_ [[cau5]]
+### {𧽒=⿺走臭}5 | _(5)Ch(')au_ [[cau5]]
 
 $$
 R
@@ -1915,9 +1915,9 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~28|n71 (5)𧽒 (⿺走臭)]]
+  - [[Page~28|n71 (5){𧽒=⿺走臭}]]
     --
-    Read _ch(')au(3)_ [[cau3]]; [[**see $𧽒 (⿺走臭)cau3**]].
+    Read _ch(')au(3)_ [[cau3]]; [[**see ${𧽒=⿺走臭}cau3**]].
     --
     --
     A colloquial word.
@@ -1925,12 +1925,12 @@ W
     ==
     - To sprain the ankle;
     - _(5)ch(')au (1)ts(')an k(e/)uk(8)_
-        [[cau5 can1 goek3 𧽒嚫腳]]
+        [[cau5 can1 goek3 {𧽒=⿺走臭}嚫腳]]
         sprained the foot.
     ==
   ====
 S
   ==
-  - $𧽒 (⿺走臭)cau3
+  - ${𧽒=⿺走臭}cau3
   ==
 $$

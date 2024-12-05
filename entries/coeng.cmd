@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2024-11-06
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -48,7 +48,7 @@ $$
 =={.modern}
 - $倡1
 - $娼1
-- $𢃑 (⿰巾昌)1
+- ${𢃑=⿰巾昌}1
 - $搶1
 - $斨1
 - $昌1
@@ -146,7 +146,7 @@ W
   ====
 $$
 
-### [𢃑]1 [[⿰巾昌]] | _(1)Ch(')(e/)ung_ [[coeng1]]
+### [{𢃑=⿰巾昌}]1 | _(1)Ch(')(e/)ung_ [[coeng1]]
 
 $$.
 R
@@ -155,18 +155,18 @@ U
   U+220D1
 F
   ==
-  - [[F1.90 ⿰巾昌]] 披衣不帶曰⿰巾昌
+  - [[F1.90 ⿰巾昌]] 披衣不帶曰{𢃑=⿰巾昌}
   ==
 W
   ====
-  - [[Page~36|n79 ::(1)[𢃑]:: (⿰巾昌)]]
+  - [[Page~36|n79 ::(1)[{𢃑=⿰巾昌}]::]]
     --
     [[Alternative form of 裮. **See $裮coeng1 for the canonical entry.**]]
     --
   ====
 C
   ==
-  - Williams misprints 𢃑 (⿰巾昌) as 帽; here corrected.
+  - Williams misprints {𢃑=⿰巾昌} as 帽; here corrected.
   ==
 $$
 
@@ -515,22 +515,22 @@ U
   U+88EE
 A
   ==
-  - $𢃑 [[⿰巾昌]]1
+  - ${𢃑=⿰巾昌}1
   ==
 F
   ==
-  - [[F1.90 ⿰巾昌]] 披衣不帶曰⿰巾昌
+  - [[F1.90 ⿰巾昌]] 披衣不帶曰{𢃑=⿰巾昌}
   ==
 W
   ====
-  - [[Page~36|n79 ::(1)[𢃑]:: (⿰巾昌); here normalised to 裮]]
+  - [[Page~36|n79 ::(1)[{𢃑=⿰巾昌}]::; here normalised to 裮]]
     ==
     - Loose flowing garments thrown on one without a cincture.
     ==
   ====
 C
   ==
-  - Williams misprints 𢃑 (⿰巾昌) as 帽; here corrected.
+  - Williams misprints {𢃑=⿰巾昌} as 帽; here corrected.
   ==
 $$
 

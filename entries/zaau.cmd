@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaau
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -408,7 +408,7 @@ $$
 - $㷹3
 - $笊3
 - $罩3
-- $𦻐 (⿱艹焯)3
+- ${𦻐=⿱艹焯}3
 - $踔3
 ==
 </nav>
@@ -485,7 +485,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~29|n72 𦻐(3) (⿱艹焯); here normalised to 㷹]]
+  - [[Page~29|n72 {𦻐=⿱艹焯}(3); here normalised to 㷹]]
     ==
     - Blazing fire;
     - to fry;
@@ -568,13 +568,13 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Normalised headword 𦋇 (⿱罓卓) to 罩.
-  - Williams entry: Normalised headword 𦋇 (⿱罓卓) to 罩.
+  - Fan Wan entry: Normalised headword {𦋇=⿱罓卓} to 罩.
+  - Williams entry: Normalised headword {𦋇=⿱罓卓} to 罩.
   - Williams' 轎罩: Corrected _(5)^ki(u/)_ (giu6-5) to _(2)ki(u/)_ (giu6-2).
   ==
 $$
 
-### 𦻐3 [[⿱艹焯]] | _Ch(a/)u(3)_ [[zaau3]]
+### {𦻐=⿱艹焯}3 | _Ch(a/)u(3)_ [[zaau3]]
 
 $$.
 R
@@ -589,7 +589,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~29|n72 𦻐(3) (⿱艹焯)]]
+  - [[Page~29|n72 {𦻐=⿱艹焯}(3)]]
     --
     [[Alternative form of 㷹. **See $㷹zaau3 for the canonical entry.**]]
     --

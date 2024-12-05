@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2024-10-16
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1404,7 +1404,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected 𠎧 (⿰亻絜) to 潔.
+  - Fan Wan entry: Corrected {𠎧=⿰亻絜} to 潔.
   - Williams' 淨重: Corrected _chung(6)_ (zung6 去聲) to _(5)ch(')ung_ (cung5 上聲).
   ==
 E
