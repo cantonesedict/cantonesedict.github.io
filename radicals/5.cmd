@@ -369,8 +369,8 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $瘂aa2
-      - $𤷫 (⿸疒刺)cek3
-      - $𤷫 (⿸疒刺)cik3
+      - ${𤷫=⿸疒刺}cek3
+      - ${𤷫=⿸疒刺}cik3
       - $痴ci1
       ==
       </nav>
@@ -620,7 +620,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $䁪zaam2
-      - $𥊙 (⿰目⿳囟儿夊)zong1
+      - ${𥊙=⿰目⿳囟儿夊}zong1
       ==
       </nav>
   //
@@ -628,7 +628,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $𥋇 (⿰目掌)caang4
+      - ${𥋇=⿰目掌}caang4
       - $瞪cing4
       - $瞧ciu4
       ==
@@ -784,7 +784,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $𥕌 (⿰石斬)caam4
+      - ${𥕌=⿰石斬}caam4
       - $磧zaak3
       - $磧zik1
       ==

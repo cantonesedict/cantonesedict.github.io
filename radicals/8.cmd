@@ -242,7 +242,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $𨳍 (⿵門七)cat6
+      - ${𨳍=⿵門七}cat6
       ==
       </nav>
   //

@@ -625,8 +625,8 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $𧽒 (⿺走臭)cau3
-      - $𧽒 (⿺走臭)cau5
+      - ${𧽒=⿺走臭}cau3
+      - ${𧽒=⿺走臭}cau5
       - $趨ceoi1
       ==
       </nav>
@@ -747,7 +747,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $𨅝 (⿰𧾷牚)caang3
+      - ${𨅝=⿰𧾷牚}caang3
       - $蹴cuk1
       - $躇cyu4
       - $蹭zang3

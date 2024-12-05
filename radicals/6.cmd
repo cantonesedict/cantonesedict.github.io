@@ -164,7 +164,7 @@ For all radicals, see [Index of characters by radical](./).
       - $簇cuk1
       - $簇zuk6
       - $簌cuk1
-      - $𫂙 (⿱𥫗敕)cuk1
+      - ${𫂙=⿱𥫗敕}cuk1
       - $簀zaai3
       - $簀zaak3
       - $簀zak1
@@ -303,7 +303,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $𥼝 (⿰米禽)ci1
+      - ${𥼝=⿰米禽}ci1
       ==
       </nav>
 ''
@@ -813,7 +813,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $𦠉 (⿰⺼壹)ai3
+      - ${𦠉=⿰⺼壹}ai3
       - $膲ziu1
       ==
       </nav>
@@ -1148,7 +1148,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $𦻐 (⿱艹焯)zaau3
+      - ${𦻐=⿱艹焯}zaau3
       - $蕉ziu1
       ==
       </nav>
@@ -1348,7 +1348,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $𧓸 (⿰虫鄭)zaak6
+      - ${𧓸=⿰虫鄭}zaak6
       ==
       </nav>
   //

@@ -763,7 +763,7 @@ class Indexer:
                     f'      <nav class="sideways">',
                     f'      ==',
                     *[
-                        f'      - ${Indexer._append_composition(character, c_from_c)}{jyutping}'
+                        f'      - ${Indexer._composed_character(character, c_from_c)}{jyutping}'
                         for character, jyutping_readings in j_from_c_from_r[residual_stroke_count].items()
                         for jyutping in jyutping_readings
                     ],
@@ -778,9 +778,9 @@ class Indexer:
         ])
 
     @staticmethod
-    def _append_composition(character, composition_from_character):
+    def _composed_character(character, composition_from_character):
         try:
-            return f'{character} ({composition_from_character[character]})'
+            return '{' + f'{character}={composition_from_character[character]}' + '}'
         except KeyError:
             return character
 

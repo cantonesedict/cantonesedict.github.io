@@ -445,7 +445,7 @@ U
   U+468E
 A
   ==
-  -{.modern} $𥊙 (⿰目⿳囟儿夊)1
+  -{.modern} ${𥊙=⿰目⿳囟儿夊}1
   ==
 F
   [[Not present]]

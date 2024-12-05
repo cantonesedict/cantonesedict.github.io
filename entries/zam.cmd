@@ -788,7 +788,7 @@ W
         subtile, recondite.
     ==
     --
-    A colloquial word [[here normalised to 𠹻; **see $𠹻 (⿰口朕)zam6 for the canonical entry**]].
+    A colloquial word [[here normalised to 𠹻; **see ${𠹻=⿰口朕}zam6 for the canonical entry**]].
     --
   ====
 C

@@ -167,22 +167,14 @@ RegexDictionaryReplacement: #.syntax.entry-links
 * [$] (?P<jyutping> [a-z]+ )
     -->
   [\g<jyutping>](/entries/\g<jyutping>)
-* [$] (?P<character> [^a-z] ) [ ] (?P<etc> [\(\[]+ [\S]*? [\)\]]+ )
+* [$] (?P<headword> \{? (?P<character> \S) [=]? \S*? \}? )
   (?P<jyutping> [a-z]+ ) (?P<tone_number> [1-6] )
     -->
-  [\g<character>~\g<etc>~\g<jyutping>\g<tone_number>](/entries/\g<jyutping>#\g<tone_number>\g<character>)
-* [$] (?P<character> [^a-z] )
-  (?P<jyutping> [a-z]+ ) (?P<tone_number> [1-6] )
-    -->
-  [\g<character>~\g<jyutping>\g<tone_number>](/entries/\g<jyutping>#\g<tone_number>\g<character>)
-* [$] (?P<character> [^a-z] ) [ ] (?P<etc> [\(\[]+ [\S]*? [\)\]]+ )
+  [\g<headword>~\g<jyutping>\g<tone_number>](/entries/\g<jyutping>#\g<tone_number>\g<character>)
+* [$] (?P<headword> \{? (?P<character> \S) [=]? \S*? \}? )
   (?P<tone_number> [1-6] )
     -->
-  [\g<character>~\g<etc>](#\g<tone_number>\g<character>)
-* [$] (?P<character> [^a-z] )
-  (?P<tone_number> [1-6] )
-    -->
-  [\g<character>](#\g<tone_number>\g<character>)
+  [\g<headword>](#\g<tone_number>\g<character>)
 
 
 RegexDictionaryReplacement: #.syntax.radical-links

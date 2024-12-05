@@ -282,7 +282,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Normalised headword 𧷤 (⿲丿臣責) to 賾.
+  - Fan Wan entry: Normalised headword {𧷤=⿲丿臣責} to 賾.
   ==
 S
   ==

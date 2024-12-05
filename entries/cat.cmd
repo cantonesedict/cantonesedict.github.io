@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cat
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -256,7 +256,7 @@ U
   U+28CCD
 A
   ==
-  -{.modern} $𫵱 (⿱山十)6
+  -{.modern} ${𫵱=⿱山十}6
   ==
 F
   [[Not present]]
