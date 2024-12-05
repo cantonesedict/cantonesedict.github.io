@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2024-10-08
+* %date-modified --> 2024-12-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -52,6 +52,7 @@ $$
 - $孅1
 - $幨1
 - $憸1
+- $摻1
 - $殲1
 - $瀸1
 - $簽1
@@ -246,6 +247,41 @@ W
         a flatterer.
     ==
   ====
+$$
+
+###+ 摻1 | _(1)Ts(')(i/)m_ (cim1)
+
+$$
+R
+  ⼿ + 11
+U
+  U+647B
+V
+  ==
+  - saam1 (per 《廣韻》所咸切)
+  ==
+F
+  ==
+  - [[F2.47 摻]] 與纖同又音覽
+  ==
+W
+  ====
+  - [[Page~554 (2)摻 _(2)Ts(')(a/)m_ (caam2); here corrected to _(1)Ts(')(i/)m_ (cim1)]]
+    ==
+    - A delicate hand [[Kangxi: 女手貌]], a hand with tapering fingers;
+    - fine, tapering, small;
+    - [[...]].
+    ==
+  ====
+C
+  ==
+  - The reading _(1)ts(')(i/)m_ (cim1) is not unattested;
+    Kangxi has 又《集韻》《韻會》《正韻》𠀤思廉切音纖義同.
+  ==
+S
+  ==
+  - $摻caam2
+  ==
 $$
 
 ### 殲1 | _(1)Ts(')(i/)m_ [[cim1]]

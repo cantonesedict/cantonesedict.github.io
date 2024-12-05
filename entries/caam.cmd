@@ -395,20 +395,19 @@ W
   ====
   - [[Page~554 (2)摻]]
     ==
-    - [[See $摻saam1 for "delicate-hand" senses]];
+    - [[See $摻cim1 for "delicate-hand" senses]];
     - to take up with the hand [[Kangxi: 取也一曰執也]].
     ==
   <##
     ==
-    - A delicate hand, a hand with tapering fingers; --> 摻 saam1
-    - fine, tapering, small; --> 摻 saam1
+    - A delicate hand, a hand with tapering fingers; --> 摻 cim1 (saam1)
+    - fine, tapering, small; --> 摻 cim1 (saam1)
     ==
   ##>
   ====
 S
   ==
-  - $摻saam1 (TODO)
-  - $摻saam2 (TODO)
+  - $摻cim1
   ==
 $$
 
