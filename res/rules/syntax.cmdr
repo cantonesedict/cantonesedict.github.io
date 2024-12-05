@@ -134,7 +134,7 @@ RegexDictionaryReplacement: #.syntax.radical-strokes-spaces
 RegexDictionaryReplacement: #.syntax.composition-titles
 * \{ (?P<character> \S ) = (?P<composition> \S+? ) \}
     -->
-  <span title="\g<composition>">\g<character></span>
+  <span class="composition" title="\g<composition>">\g<character></span>
 
 
 RegexDictionaryReplacement: #.syntax.composition-characters
