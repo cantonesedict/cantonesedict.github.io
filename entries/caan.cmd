@@ -275,14 +275,14 @@ W
   ====
   - [[Page~20|n63 (2)產]]
     ==
-    - To produce, to grow;
+    - To produce, to grow [[Kangxi: 生也]];
     - to bear, to increase;
     - an estate, a patrimony;
-    - an occupation;
-    - the productions of a country;
+    - an occupation [[Kangxi: 民業曰產]];
+    - the productions of a country [[Kangxi: 本其所生長之地曰產]];
     - natives;
-    - a sort of flageolet;
-    - a birth, act of parturition;
+    - a sort of flageolet [[Kangxi: 大籥似笛三孔而短]];
+    - a birth, act of parturition [[Kangxi: 婦生子曰產]];
     - _(2)p(o\) (2)ch(')(a/)n_
         [[bou2 caan2 保產]],
         a strengthening pill;
