@@ -440,7 +440,7 @@ W
   ====
   - [[Page~556 璨(3)]]
     ==
-    - The lustre of gem, a bright gem;
+    - The lustre of gem, a bright gem [[Kangxi: 玉光也]];
     - _(1)ts(')(u/)i ts(')(a/)n(3)_
         [[ceoi1 caan3 璀璨]]
         pendent gems, said of hanging flowers like the Vanda.
