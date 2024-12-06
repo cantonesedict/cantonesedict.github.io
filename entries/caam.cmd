@@ -225,7 +225,7 @@ W
 C
   ==
   - Strictly, the pre-merger reading should be _(1)ch(')(a/)m_;
-    Kangxi quotes 《集韻》初簪切 for the phrase 篸{𥰭=⿱𥫗差},
+    Kangxi has 《集韻》初簪切 for the phrase 篸{𥰭=⿱𥫗差},
     which is the bamboo version of 參差.
   ==
 S
