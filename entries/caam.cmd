@@ -544,7 +544,7 @@ W
   ====
   - [[Page~16|n59 杉(3)]]
     ==
-    - Fir, pine;
+    - Fir, pine [[Kangxi: 煔似松]];
     - _ch(')(a/)m(3) muk(9)_
         [[caam3 muk6 杉木]]
         deal;
