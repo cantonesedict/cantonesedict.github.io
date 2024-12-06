@@ -913,7 +913,7 @@ W
   - [[Page~554 (4)饞]]
     ==
     - To gormandise, to be fond of eating;
-    - greedy, gluttonous, voracious;
+    - greedy, gluttonous, voracious [[Kangxi: 不廉, 饕也]];
     - _(2)hau (4)ts(')(a/)m_
         [[hau2 caam4 口饞]],
         omniverous.
