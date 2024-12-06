@@ -746,7 +746,8 @@ W
   ====
   - [[Page~554 (4)毚]]
     ==
-    - Crafty, wily, artful, as a hare, which has many ways of escape;
+    - Crafty, wily, artful, as a hare [[Kangxi: 狡兔也]],
+      which has many ways of escape;
     - _(4)ts(')(a/)m t(')(o\)(3)_
         [[caam4 tou3 毚兔]]
         a crafty rabbit.
