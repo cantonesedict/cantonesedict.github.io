@@ -520,15 +520,15 @@ W
   ====
   - [[Page~556 (4)殘]]
     ==
-    - To ruin, to destroy;
+    - To ruin, to destroy [[Kangxi: 賊也]];
     - to injure, to spoil;
-    - to mangle, to tread on;
-    - to kill, to slaughter;
-    - mischievous, wicked, cruel;
+    - to mangle, to tread on [[Kangxi: 殘踐也]];
+    - to kill, to slaughter [[Kangxi: 殺也]];
+    - mischievous, wicked, cruel [[Kangxi: 惡也]];
     - spoiled, pillaged;
     - withered;
-    - broken food, leavings;
-    - deficient, nearly used up, ready to vanish away;
+    - broken food, leavings [[Kangxi: 食餘也]];
+    - deficient [[Kangxi: 殘缺也]], nearly used up, ready to vanish away;
     - _(4)ts(')(a/)n hoi(6)_
         [[caan4 hoi6 殘害]]
         truculent, savage;
