@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> au
-* %date-modified --> 2024-12-03
+* %date-modified --> 2024-12-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -486,7 +486,7 @@ W
         [[au3 mui4 漚霉]],
         soaked till moldy;
     - _(4)'m (1)k(')am au(3)_
-        [[m4 kam1 au3 唔𠸐漚]]
+        [[m4 kam1 au3 唔{𠸐=⿰口衿}漚]]
         it will spoil if soaked long;
     - _au(3) t(o\)(3) ch(')au(3)_
         [[au3 dou3 cau3 漚到臭]]
