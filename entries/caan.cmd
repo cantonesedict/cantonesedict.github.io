@@ -200,10 +200,10 @@ W
   ====
   - [[Page~20|n63 (2)剷(2)剗]]
     --
-    Interchanged with the next [[$鏟2]].
+    Interchanged with the next [[$鏟2]] [[Kangxi 剷: 與鏟{𠟉=⿰孱刂}通]].
     --
     ==
-    - To level off, to spade up;
+    - To level off [[Kangxi 剗: 削也, 平也]], to spade up;
     - to reap;
     - to trim iron;
     - _(2)ch(')(a/)n t(')ai(3) (1)t(o\)_
@@ -217,6 +217,10 @@ W
         sandalwood shavings burned for the dead.
     ==
   ====
+C
+  ==
+  - Williams' "to reap": Kangxi has 刈也 under the reading 側展切音展 _(2)ch(i/)n_ (zin2).
+  ==
 E
   ====
   - 【剷】 (caan2):
