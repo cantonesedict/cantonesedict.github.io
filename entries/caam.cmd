@@ -822,14 +822,14 @@ W
   ====
   - [[Page~553 (4)蠶(4)蚕]]
     ==
-    - The silkworm;
-    - caterpillars which weave coccoons;
+    - The silkworm [[Kangxi 蠶: 絲蟲也]];
+    - caterpillars which weave coccoons [[Kangxi 蠶: 任絲也]];
     - _(4)ts(')(a/)m (4)ch(')ung_
         [[caam4 cung4-2 蠶蟲]],
         the silk-worm;
     - _(4)ts(')(a/)m (4)ch(')ung (1)kon_
         [[caam4 cung4-2 gon1 蠶蟲乾]],
-        dried siikworms used for food;
+        dried silkworms used for food;
     - _(4)ts(')(a/)m (1)k(u/)_
         [[caam4 gu1 蠶姑]],
         goddess of silkgrowers;
