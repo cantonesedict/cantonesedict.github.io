@@ -1014,7 +1014,7 @@ A
   ==
 V
   ==
-  - zaam6 (per 《廣韻》藏濫切)
+  - zaam6 (alternative per 《廣韻》藏濫切)
   ==
 F
   ==
@@ -1025,7 +1025,7 @@ W
   - [[Page~553 (5)鏨 _(5)^Ts(a/)m_ (zaam5); here corrected to _(5)Ts(')(a/)m_ (caam5)]]
     ==
     - A stone-cutter's chissel;
-    - a small cold chissel;
+    - a small cold chissel [[Kangxi: 小鑿也]];
     - to pierce, as a thorn;
     - to cut in, to cut or chissel out;
     - to carve, as flowers;
