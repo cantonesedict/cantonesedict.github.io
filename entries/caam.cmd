@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2024-12-05
+* %date-modified --> 2024-12-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -471,6 +471,10 @@ R
   ⼈ + 17
 U
   U+5133
+V
+  ==
+  - caam4 (per 《廣韻》士咸切) for "ugly" sense
+  ==
 F
   ==
   - [[F2.64 杉]] 儳越叅雜也
@@ -479,14 +483,22 @@ W
   ====
   - [[Page~16|n59 懺(3)]]
     ==
-    - Irregular, disorderly, as undrilled troops;
-    - unequal, uneven;
+    - Irregular, disorderly [[Kangxi: 儳互不齊也]], as undrilled troops [[Kangxi: 師次不整]];
+    - unequal, uneven [[Kangxi: 亦不齊也]];
     - _(4)l(a/)m ch(')(a/)m(3)_
         [[laam4 caam3 儖儳]]
-        ugly;
+        ugly [[Kangxi: 惡貌]];
         confused, disorderly, sulky.
     ==
   ====
+C
+  ==
+  - Williams' "Irregular, disorderly, as undrilled troops":
+    Kangxi has this sense under 士咸切 _ch(')(a/)m_ (caam4).
+    Still, the reading _ch(')(a/)m(3)_ (caam3)
+    for the generic sense of "uneven" is not unattested;
+    Kangxi has 又《集韻》初鑒切音懺亦不齊也又雜言也.
+  ==
 $$
 
 ### 懺3 | _Ch(')(a/)m(3)_ [[caam3]]
