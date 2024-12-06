@@ -336,10 +336,10 @@ W
   ====
   - [[Page~20|n63 (2)鏟]]
     ==
-    - A thin iron plate;
+    - A thin iron plate [[Kangxi: 鏶也]];
     - a shovel, a plane;
-    - a spoke-shave, an iron shave;
-    - to cut and pare;
+    - a spoke-shave, an iron shave [[Kangxi: 一曰平䥫, 平木鐵器]];
+    - to cut and pare [[Kangxi: 損削也]];
     - to level;
     - _wok(9) (2)ch(')(a/)n_
         [[wok6 caan2 鑊鏟]],
