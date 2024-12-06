@@ -516,7 +516,7 @@ W
   ====
   - [[Page~16|n59 懺(3)]]
     ==
-    - To repent;
+    - To repent [[Kangxi: 悔也]];
     - to confess one's errors;
     - _ch(')(a/)m(3) f(u/)i(3)_
         [[caam3 fui3 懺悔]]
