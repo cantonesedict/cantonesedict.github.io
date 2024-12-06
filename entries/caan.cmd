@@ -464,14 +464,14 @@ W
   - [[Page~556 粲(3)]]
     ==
     - Half a _(2)tau_ [[dau2 斗]] or peck;
-    - a meal;
-    - many, much, a multitude;
-    - clear, bright;
+    - a meal [[Kangxi: 餐也]];
+    - many, much, a multitude [[Kangxi: 衆意]];
+    - clear, bright [[Kangxi: 察也明也, 光明也]];
     - to agree upon;
     - fine, excellent;
     - beautiful, as a woman;
-    - to laugh, smiling;
-    - fine rice;
+    - to laugh, smiling [[Kangxi: 笑貌]];
+    - fine rice [[Kangxi: 精鑿食也]];
     - _p(a/)k(9) ts(')(a/)n(3)_
         [[ba`ak6 caan3 白粲]]
         white rice, anciently picked over by criminals;
@@ -486,6 +486,12 @@ W
         a worthless fellow --- a colloquial phrase.
     ==
   ====
+C
+  ==
+  - Williams' "Half a _(2)tau_ or peck":
+    This is a misreading of Kangxi 爲米六斗大半斗曰粲,
+    which puts the measure at 6⅔~pecks, not half a peck.
+  ==
 $$
 
 
