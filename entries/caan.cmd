@@ -252,7 +252,7 @@ W
   ====
   - [[Page~20|n63 (2)嵼]]
     ==
-    - Tortuous paths among the mountains;
+    - Tortuous paths among the mountains [[Kangxi: {𡾰=⿰山蹇}嵼山屈曲貌]];
     - _(2)k(i/)n (2)ch(')(a/)n_
         [[gin2 caan2 {𡾰=⿰山蹇}嵼]],
         winding, crooked, as paths.
