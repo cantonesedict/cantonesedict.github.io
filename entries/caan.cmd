@@ -395,7 +395,7 @@ W
   ====
   - [[Page~556 燦(3)]]
     ==
-    - Resplendent, clear;
+    - Resplendent, clear [[Kangxi: 燦爛明瀞貌]];
     - attractive, bright, gay;
     - _ts(')(a/)n(3) l(a/)n(6)_
         [[caan3 laan6 燦爛]]
