@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Search by character or code point
-* %date-modified --> 2024-07-15
+* %date-modified --> 2024-12-06
 * %copyright-prior-years -->
 * %meta-description --> search by Chinese character or by Unicode code point
 
@@ -50,24 +50,26 @@ let nbsp = String.fromCodePoint(0x00A0);
 
 function appendCharacterWithComposition(targetElement, character, composition)
 {
-  let characterSpanElement = document.createElement('span');
-  characterSpanElement.lang = 'zh-Hant';
-  characterSpanElement.appendChild(document.createTextNode(character));
-  targetElement.appendChild(characterSpanElement);
+  let langSpanElement = document.createElement('span');
+  langSpanElement.lang = 'zh-Hant';
 
+  let textParentElement;
   if (composition === undefined)
   {
-    return;
+    textParentElement = langSpanElement;
+  }
+  else
+  {
+    let compositionElement = document.createElement('span');
+    compositionElement.className = 'composition';
+    compositionElement.title = composition;
+
+    langSpanElement.appendChild(compositionElement);
+    textParentElement = compositionElement;
   }
 
-  targetElement.appendChild(document.createTextNode(`${nbsp}(`));
-
-  let compositionSpanElement = document.createElement('span');
-  compositionSpanElement.lang = 'zh-Hant';
-  compositionSpanElement.appendChild(document.createTextNode(composition));
-  targetElement.appendChild(compositionSpanElement);
-
-  targetElement.appendChild(document.createTextNode(')'));
+  textParentElement.appendChild(document.createTextNode(character));
+  targetElement.appendChild(textParentElement);
 }
 
 async function performSearch()
