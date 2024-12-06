@@ -598,8 +598,8 @@ W
   ====
   - [[Page~553 (4)劖]]
     ==
-    - To cut apart, to chop;
-    - to chissel off;
+    - To cut apart, to chop [[Kangxi: 斷也]];
+    - to chissel off [[Kangxi: 劖鑿也]];
     - to cut with a burin;
     - _(4)ts(')(a/)m (1)t(o\)_
         [[caam4 dou1 劖刀]],
