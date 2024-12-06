@@ -525,7 +525,7 @@ W
       _[(5)ts(')o] ch(e/)(3)_ [[co5 ze3 坐嗻]]
         good bye, said to the host;
     - _tso(6) (5)l(i/)_
-        [[zo6 lei5 坐𢃇]],
+        [[zo6 lei5 坐{𢃇=⿰巾里}]],
         to let down sail;
     - _[(5)ts(')o] ki(u/)(6)_
         [[co5 giu6-2 坐轎]]

@@ -733,21 +733,21 @@ E
   ====
   --
   There is an argument that 垃雜 _l(a/)p(9) ts(a/)p(9)_ (laap6 zaap6)
-  should be spelt 擸𢶍.
-  Indeed 擸𢶍 has an expected reading of _lap(9) tsap(9)_ (lap6 zap6)^,
+  should be spelt 擸{𢶍=⿰扌䪞}.
+  Indeed 擸{𢶍=⿰扌䪞} has an expected reading of _lap(9) tsap(9)_ (lap6 zap6)^,
   and is explained "broken" or "cluttered":
   --
   """"
-  ::B5.w546a0106 (:盧盍切:) (:擸:) 折也(:又擸𢶍破壞也:)::
+  ::B5.w546a0106 (:盧盍切:) (:擸:) 折也(:又擸{𢶍=⿰扌䪞}破壞也:)::
   """"
   """"
-  ::B5.w546a1002 (:才盍切:) (:𢶍:) (:擸𢶍和雜:)::
+  ::B5.w546a1002 (:才盍切:) (:{𢶍=⿰扌䪞}:) (:擸{𢶍=⿰扌䪞}和雜:)::
   """"
   """"
-  ::K. (:𢶍:) 《唐韻》(:才盍切:)《集韻》(:疾盍切{𠀤=⿱夶一}音䪞讀若慙入聲擸𢶍和雜也:)[...]::
+  ::K. (:{𢶍=⿰扌䪞}:) 《唐韻》(:才盍切:)《集韻》(:疾盍切{𠀤=⿱夶一}音䪞讀若慙入聲擸{𢶍=⿰扌䪞}和雜也:)[...]::
   """"
   --
-  However, since 擸𢶍 is also considered
+  However, since 擸{𢶍=⿰扌䪞} is also considered
   the original spelling of 垃圾 laap6 saap3 "rubbish",
   it would be confusing to use it for laap6 zaap6 also.
   As a compromise that acknowledges the (probable) common ancestry,

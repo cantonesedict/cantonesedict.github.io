@@ -216,16 +216,16 @@ window.onload = applyFilter;
     , [鐺](/entries/caang#cantonese-鐺)
   //
     , caang3
-    , [𨅝](/entries/caang#cantonese-𨅝)
+    , [{𨅝=⿰𧾷牚}](/entries/caang#cantonese-𨅝)
   //
     , caang3 toi4-2 goek3
-    , [𨅝檯腳](/entries/caang#cantonese-𨅝檯腳)
+    , [{𨅝=⿰𧾷牚}檯腳](/entries/caang#cantonese-𨅝檯腳)
   //
     , caang4
-    , [𥋇](/entries/caang#cantonese-𥋇)
+    , [{𥋇=⿰目掌}](/entries/caang#cantonese-𥋇)
   //
     , caang4 ngaan5
-    , [𥋇眼](/entries/caang#cantonese-𥋇眼)
+    , [{𥋇=⿰目掌}眼](/entries/caang#cantonese-𥋇眼)
   //
     , caap3 zong1 gaa3 wo6
     , [插贓嫁禍](/entries/caap#cantonese-插贓嫁禍)
@@ -303,7 +303,7 @@ window.onload = applyFilter;
     , [唓](/entries/ce#cantonese-唓)
   //
     , cek3
-    , [𤷫](/entries/cek#cantonese-𤷫)
+    , [{𤷫=⿸疒刺}](/entries/cek#cantonese-𤷫)
   //
     , ceng1
     , [青](/entries/cing#cantonese-青)
@@ -525,10 +525,10 @@ window.onload = applyFilter;
     , [好彩](/entries/coi#cantonese-好彩)
   //
     , jaang3
-    , [𨅝](/entries/caang#cantonese-𨅝)
+    , [{𨅝=⿰𧾷牚}](/entries/caang#cantonese-𨅝)
   //
     , jaang3 toi4-2 goek3
-    , [𨅝檯腳](/entries/caang#cantonese-𨅝檯腳)
+    , [{𨅝=⿰𧾷牚}檯腳](/entries/caang#cantonese-𨅝檯腳)
   //
     , jat1 cau1 ji6 nang3
     , [一抽二褦](/entries/cau#cantonese-一抽二褦)

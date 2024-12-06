@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaau
-* %date-modified --> 2024-12-05
+* %date-modified --> 2024-12-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -475,7 +475,7 @@ U
   U+3DF9
 A
   ==
-  - $𦻐3
+  - ${𦻐=⿱艹焯}3
   ==
 V
   ==
@@ -583,7 +583,7 @@ U
   U+26ED0
 A
   ==
-  - $𦻐3
+  - ${𦻐=⿱艹焯}3
   ==
 F
   [[Not present]]

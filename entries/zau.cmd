@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2024-12-05
+* %date-modified --> 2024-12-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1361,7 +1361,7 @@ U
 F
   ==
   - [[F1.55 奏]] 奏本
-  - [[F1.55 𩱛]] 與奏同
+  - [[F1.55 {𩱛=⿰鬲⿳⿶凵⿻⿻⿻⿻㐅丶丶丶丶儿夊}]] 與奏同
   ==
 W
   ====
@@ -1399,7 +1399,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: The alternative form 𩱛 (i.e. 糭 but with 鬲 in place of 米)
+  - Fan Wan entry: The alternative form {𩱛=⿰鬲⿳⿶凵⿻⿻⿻⿻㐅丶丶丶丶儿夊} (i.e. 糭 but with 鬲 in place of 米)
     is likely an error.
   ==
 $$

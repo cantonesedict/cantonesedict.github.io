@@ -310,20 +310,26 @@ class Updater:
     @staticmethod
     def _check_composition_heuristic(entry_cmd_name, cmd_content):
         whitelisted_characters = ''.join([
+            '𠂉',
             '𠆢',
             '𠫓',
             '𡈼',
+            '𤣩',
             '𥫗',
+            '𦈢',
+            '𦣝',
+            '𦣞',
+            '𧶠',
             '𧾷',
         ])
         unexpanded_characters = re.findall(
-            pattern=f'(?![{whitelisted_characters}])[𠀀-𱍊](?![=^])',
+            pattern=f'(?![{whitelisted_characters}])[𠀀-𱍊](?![=@^])',
             string=cmd_content,
         )
         if unexpanded_characters:
             print(
                 f'Error in `{entry_cmd_name}`: missing composition for extension characters {unexpanded_characters} '
-                f'(suppress error with caret if omission is legitimate)',
+                f'(suppress error with at (in run) or caret (alone) if omission is legitimate)',
                 file=sys.stderr,
             )
             sys.exit(1)

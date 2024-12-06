@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zap
-* %date-modified --> 2024-12-05
+* %date-modified --> 2024-12-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -339,7 +339,7 @@ E
   ::B5.w543b0405 子入切 (:蓻:) 草生多皃::
   """"
   """"
-  ::K. (:蓻:) 《唐韻》子入切音𥠋草生多貌　又《玉篇》茅芽也[...]::
+  ::K. (:蓻:) 《唐韻》子入切音{𥠋=⿰禾咠}草生多貌　又《玉篇》茅芽也[...]::
   """"
 $$
 

@@ -223,7 +223,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: The unidentified character is ⿵𡗜弓, where 𡗜 is ⿻大丷.
+  - Fan Wan entry: The unidentified character is ⿵𡗜@弓, where 𡗜@ is ⿻大丷.
   - Williams' 主張: Dated; 主張 now means to assert or hold a position or opinion.
   ==
 $$

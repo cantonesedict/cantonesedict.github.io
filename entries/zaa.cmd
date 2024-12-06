@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2024-12-05
+* %date-modified --> 2024-12-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -331,7 +331,7 @@ E
        the unswallowable remains after chewing untender meat or stringy vegetables.
       ==
       - 渣都冇 (zaa1 dou1 mou5): "Even [the] scraps are gone."
-      - 𦧲渣 (loe1 zaa1): "Spit out [the] scraps."
+      - {𦧲=⿰舌累}渣 (loe1 zaa1): "Spit out [the] scraps."
       ==
     ++
   ====
@@ -456,7 +456,7 @@ E
     ++
     1. Dirty.
       ==
-      - 𨋢掣揦鮓 (lip1 zai3 laa5 zaa2): "[The] lift button [is] dirty."
+      - {𨋢=⿰車立}掣揦鮓 (lip1 zai3 laa5 zaa2): "[The] lift button [is] dirty."
       ==
     ++
   - 【鮓】 (zaa2):
