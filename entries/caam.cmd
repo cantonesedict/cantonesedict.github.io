@@ -638,7 +638,7 @@ W
   ====
   - [[Page~554 (4)巉(4){𥕌=⿰石斬}]]
     ==
-    - A high, inaccessible peak or cliff;
+    - A high, inaccessible peak or cliff [[Kangxi: 巉巖高也]];
     - a cloud-capt summit;
     - _(4)ts(')(a/)m (4)ng(a/)m_
         [[caam4 ngaam4 巉巖]],
