@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ciu
-* %date-modified --> 2024-12-05
+* %date-modified --> 2024-12-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -399,7 +399,7 @@ C
   ==
   - Williams misprints 愀 as 愁; here corrected.
   - The reading _(1)ts(')au_ (cau1) from Fan Wan is not otherwise unattested;
-    Kangxi quotes ::[...]愀然變容[...]又《集韻》雌由切音秋[...]義𠀤同::.
+    Kangxi quotes ::[...]愀然變容[...]又《集韻》雌由切音秋[...]義{𠀤=⿱夶一}同::.
   ==
 S
   ==

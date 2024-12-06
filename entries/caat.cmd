@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caat
-* %date-modified --> 2024-11-29
+* %date-modified --> 2024-12-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -220,7 +220,7 @@ C
   ==
   - Fan Wan entry: Corrected headword 摖 to 擦.
   - The character 擦 is not attested in the Middle Chinese rime books.
-    Kangxi quotes 《篇海》《字彙》𠀤初戛切音察,
+    Kangxi quotes 《篇海》《字彙》{𠀤=⿱夶一}初戛切音察,
     which is _ch(')(a/)t(8)_ rather than _ts(')(a/)t(8)_.
   - In modern usage, the noun sense of "brush" is spelt 刷; see $刷caat3.
   ==

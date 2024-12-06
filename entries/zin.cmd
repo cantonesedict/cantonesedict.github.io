@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2024-12-01
+* %date-modified --> 2024-12-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -824,7 +824,7 @@ C
   ==
   - The non-《廣韻》 readings _(1)ts(i/)n_ (zin1) and _(2)ts(i/)n_ (zin2)
     are not unattested; Kangxi quotes
-    ::又《集韻》[...]又子淺切箋上聲又《集韻》《韻會》將先切《正韻》則前切𠀤音箋義𠀤同::.
+    ::又《集韻》[...]又子淺切箋上聲又《集韻》《韻會》將先切《正韻》則前切{𠀤=⿱夶一}音箋義{𠀤=⿱夶一}同::.
   ==
 $$
 
@@ -1460,7 +1460,7 @@ C
   ==
   - The level-tone reading _(1)ch(i/)n_ (zin1) is only attested
     with the explanation "to discern smells";
-    Kangxi quotes 又《集韻》《韻會》《正韻》𠀤尸連切音羶《集韻》謂審於氣臭也《莊子外物篇》鼻徹爲顫《音義》顫舒延反.
+    Kangxi quotes 又《集韻》《韻會》《正韻》{𠀤=⿱夶一}尸連切音羶《集韻》謂審於氣臭也《莊子外物篇》鼻徹爲顫《音義》顫舒延反.
   ==
 S
   ==

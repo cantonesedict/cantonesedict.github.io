@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coi
-* %date-modified --> 2024-12-05
+* %date-modified --> 2024-12-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -283,7 +283,7 @@ W
 C
   ==
   - The reading _(2)ts(')oi_ (coi2) is not unattested;
-    Kangxi quotes 《集韻》《韻會》《正韻》𠀤此宰切音采.
+    Kangxi quotes 《集韻》《韻會》《正韻》{𠀤=⿱夶一}此宰切音采.
   ==
 $$
 
@@ -390,12 +390,12 @@ C
   - Note that the "fief" sense is recorded in Kangxi
     under both rising _(2)ts(')oi_ (coi2) and departing _ts(')oi(3)_ (coi3):
     """"
-    ::K. (:采:) 《唐韻》(:倉宰切:)《集韻》《韻會》(:此宰切𠀤音採:)[...]\
+    ::K. (:采:) 《唐韻》(:倉宰切:)《集韻》《韻會》(:此宰切{𠀤=⿱夶一}音採:)[...]\
     又官也\
     《書堯典》帝曰疇咨若予采《傳》采事也馬云官也\
     《禮明堂位》九采之國《疏》各掌當州諸侯之事　\
     (:又采地:)《禮禮運》大夫有采以處其子孫《前漢地理志》大夫韓武子食采於韓原[...]^\
-    (:又:)《韻會》《正韻》(:𠀤倉代切音菜臣食邑:)\
+    (:又:)《韻會》《正韻》(:{𠀤=⿱夶一}倉代切音菜臣食邑:)\
     《周禮天官八則註》公卿大夫采邑音菜\
     《孟子元士受地視子男註》所受采地之制音菜\
     《前漢食貨志註》采官也因官食地故曰采地[...]::

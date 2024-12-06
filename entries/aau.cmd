@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aau
-* %date-modified --> 2024-12-02
+* %date-modified --> 2024-12-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -375,6 +375,6 @@ E
   Olden attestation for 詏 _(a/)u(3)_ (aau3) meaning "argue":
   --
   """"
-  ::K. (:詏:) 《集韻》《正韻》(:𠀤於敎切妖去聲言逆也:)::
+  ::K. (:詏:) 《集韻》《正韻》(:{𠀤=⿱夶一}於敎切妖去聲言逆也:)::
   """"
 $$

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2024-12-05
+* %date-modified --> 2024-12-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -772,7 +772,7 @@ C
   Olden attestation for 親 _ts(')an(3)_ (can3) meaning "in-laws":
   --
   """"
-  ::K. (:親:) [...]^(:又《唐韻》七遴切《集韻》《韻會》七刃切《正韻》寸遴切𠀤七去聲:)\
+  ::K. (:親:) [...]^(:又《唐韻》七遴切《集韻》《韻會》七刃切《正韻》寸遴切{𠀤=⿱夶一}七去聲:)\
   [...]　(:又《廣韻》親家也《集韻》婚姻相謂爲親:)[...]::
   """"
 S

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2024-10-12
+* %date-modified --> 2024-12-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -409,7 +409,7 @@ W
 C
   ==
   - The level-tone reading _(1)ch(u:)_ (zyu1) is not unattested;
-    Kangxi quotes 《集韻》《韻會》𠀤鐘輸切音朱呪祩.
+    Kangxi quotes 《集韻》《韻會》{𠀤=⿱夶一}鐘輸切音朱呪祩.
   ==
 $$
 

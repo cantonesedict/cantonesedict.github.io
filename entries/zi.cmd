@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-12-05
+* %date-modified --> 2024-12-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2208,7 +2208,7 @@ W
 C
   ==
   - Fan Wan entry: Normalised {𣗥=⿰束束} to 棘.
-  - Williams' 枳椇: Kangxi quotes 《集韻》舉綺切《韻會》居矣切𠀤音己,
+  - Williams' 枳椇: Kangxi quotes 《集韻》舉綺切《韻會》居矣切{𠀤=⿱夶一}音己,
     i.e. a reading of _(2)k(i/)_ (gei2), for 枳椇.
   - Williams' 枳殼: Not _Hovenia dulcis_ seeds,
     but the skin of the Chinese bitter orange.
@@ -3063,7 +3063,7 @@ W
 C
   ==
   - The alternative reading ci3 is not unattested;
-    Kangxi quotes ::又《集韻》[...]又丑吏切音眙[...]義𠀤同::.
+    Kangxi quotes ::又《集韻》[...]又丑吏切音眙[...]義{𠀤=⿱夶一}同::.
   ==
 S
   ==

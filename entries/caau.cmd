@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caau
-* %date-modified --> 2024-10-06
+* %date-modified --> 2024-12-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -442,7 +442,7 @@ W
 C
   ==
   - The reading _(4)ch(')(a/)u_ (caau4) is not unattested;
-    Kangxi quotes 又《集韻》《韻會》《正韻》𠀤鋤交切音巢義同.
+    Kangxi quotes 又《集韻》《韻會》《正韻》{𠀤=⿱夶一}鋤交切音巢義同.
   ==
 $$
 

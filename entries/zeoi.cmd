@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2024-12-05
+* %date-modified --> 2024-12-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -719,7 +719,7 @@ W
 C
   ==
   - The reading _(2)ts(u:)_ (zeoi2) is not unattested;
-    Kangxi quotes 《正韻》再呂切𠀤音咀, explained 止也過也壞也.
+    Kangxi quotes 《正韻》再呂切{𠀤=⿱夶一}音咀, explained 止也過也壞也.
   ==
 S
   ==

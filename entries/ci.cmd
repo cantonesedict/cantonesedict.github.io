@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2024-12-05
+* %date-modified --> 2024-12-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -651,8 +651,8 @@ E
   ::B1.w120b0605 (:丑知切:) (:黐:) (:所以粘鳥:)又吕支切::
   """"
   """"
-  ::K. (:黐:) (:《廣韻》丑知切《集韻》《正韻》抽知切𠀤音摛《玉篇》黏也\
-  《廣韻》黐膠所以黏鳥:)　又《廣韻》呂支切《集韻》鄰知切𠀤音離義同::
+  ::K. (:黐:) (:《廣韻》丑知切《集韻》《正韻》抽知切{𠀤=⿱夶一}音摛《玉篇》黏也\
+  《廣韻》黐膠所以黏鳥:)　又《廣韻》呂支切《集韻》鄰知切{𠀤=⿱夶一}音離義同::
   """"
 $$
 

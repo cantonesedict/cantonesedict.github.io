@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aan
-* %date-modified --> 2024-12-02
+* %date-modified --> 2024-12-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -140,7 +140,7 @@ E
   ::B4.w434a0201 (:烏澗切:) (:晏:) 柔也天淸也(:又晚也:)又姓左傳齊有晏氏代爲大夫::
   """"
   """"
-  ::K. (:晏:) 《唐韻》(:烏㵎切:)《集韻》《韻會》《正韻》(:於諫切𠀤音曣:)[...]^\
+  ::K. (:晏:) 《唐韻》(:烏㵎切:)《集韻》《韻會》《正韻》(:於諫切{𠀤=⿱夶一}音曣:)[...]^\
   (:又:)《玉篇》(:晚也:)\
   《儀禮士相見禮》問日之早晏\
   《淮南子天文訓》日至于桑野是謂晏食\

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zit
-* %date-modified --> 2024-11-27
+* %date-modified --> 2024-12-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -239,7 +239,7 @@ W
 C
   ==
   - Williams' "Handsome, elegant":
-    Kangxi quotes 又《集韻》七接切音妾又疾葉切音捷𠀤美貌
+    Kangxi quotes 又《集韻》七接切音妾又疾葉切音捷{𠀤=⿱夶一}美貌
     (i.e. either _ts(')(i/)p(8)_ (cip3) or _ts(i/)p(9)_ (zip6))
     for the "beautiful" sense.
   ==

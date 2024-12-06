@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2024-12-05
+* %date-modified --> 2024-12-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -203,7 +203,7 @@ E
   ::B5.w535a0608 (:陟革切:) (:矺:) (:磓也:)::
   """"
   """"
-  ::K. (:矺:) 《廣韻》《集韻》(:𠀤陟格切音舴:)同磔省詳磔字註　\
+  ::K. (:矺:) 《廣韻》《集韻》(:{𠀤=⿱夶一}陟格切音舴:)同磔省詳磔字註　\
   (:又:)《廣韻》(:磓也:)[...]::
   """"
   --
@@ -213,7 +213,7 @@ E
   ::B1.w145a0806 都回切 (:磓:) (:落也:)亦作塠::
   """"
   """"
-  ::K. (:磓:) 《廣韻》《集韻》《韻會》《正韻》𠀤都回切音堆(:聚石也又以石投下也:)亦作塠[...]::
+  ::K. (:磓:) 《廣韻》《集韻》《韻會》《正韻》{𠀤=⿱夶一}都回切音堆(:聚石也又以石投下也:)亦作塠[...]::
   """"
 S
   ==

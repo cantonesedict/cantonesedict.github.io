@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2024-12-05
+* %date-modified --> 2024-12-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -244,7 +244,7 @@ C
       """"
       """"
       ::K. (:朝:) 古文晁\
-      《唐韻》《廣韻》《集韻》《類篇》《韻會》(:𠀤陟遙切音昭:)[...]^\
+      《唐韻》《廣韻》《集韻》《類篇》《韻會》(:{𠀤=⿱夶一}陟遙切音昭:)[...]^\
       (:又朝鮮國名:)[...]::
       """"
     - _(4)ch(')i(u/)_ (ciu4) is recorded in 《史記索隱》,

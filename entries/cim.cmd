@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2024-12-05
+* %date-modified --> 2024-12-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -276,7 +276,7 @@ W
 C
   ==
   - The reading _(1)ts(')(i/)m_ (cim1) is not unattested;
-    Kangxi has 又《集韻》《韻會》《正韻》𠀤思廉切音纖義同.
+    Kangxi has 又《集韻》《韻會》《正韻》{𠀤=⿱夶一}思廉切音纖義同.
   ==
 S
   ==
@@ -525,7 +525,7 @@ W
 C
   ==
   - The alternative reading _(1)ts(')am_ (cam1) is not unattested;
-    Kangxi quotes 又《集韻》《韻會》千尋切《正韻》千林切𠀤音侵義同.
+    Kangxi quotes 又《集韻》《韻會》千尋切《正韻》千林切{𠀤=⿱夶一}音侵義同.
     In particular, 《洪武正韻牋》 explains it 以瓜刻板 etc.
   ==
 S
@@ -866,7 +866,7 @@ C
   - Williams' "quick, rapid, urgent":
     This sense is not attested under the reading _(4)ts(')(i/)m_ (cim4);
     《廣韻》 has 側吟切 _(1)cham_ (zam1), explained 速也,
-    and Kangxi quotes 《唐韻》側吟切《集韻》《韻會》緇岑切𠀤音簪 _(1)ch(a/)m_ (zaam1), explained 疾也.
+    and Kangxi quotes 《唐韻》側吟切《集韻》《韻會》緇岑切{𠀤=⿱夶一}音簪 _(1)ch(a/)m_ (zaam1), explained 疾也.
   ==
 E
   ====
@@ -882,7 +882,7 @@ E
   Olden attestation for 撍 _(4)ts(')(i/)m_ (cim4) meaning "select":
   --
   """"
-  ::K. (:撍:) [...]^(:又《集韻》慈鹽切《韻會》昨鹽切𠀤音潛摘也:)[...]::
+  ::K. (:撍:) [...]^(:又《集韻》慈鹽切《韻會》昨鹽切{𠀤=⿱夶一}音潛摘也:)[...]::
   """"
 $$
 

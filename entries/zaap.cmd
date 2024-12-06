@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaap
-* %date-modified --> 2024-11-06
+* %date-modified --> 2024-12-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -744,7 +744,7 @@ E
   ::B5.w546a1002 (:才盍切:) (:𢶍:) (:擸𢶍和雜:)::
   """"
   """"
-  ::K. (:𢶍:) 《唐韻》(:才盍切:)《集韻》(:疾盍切𠀤音䪞讀若慙入聲擸𢶍和雜也:)[...]::
+  ::K. (:𢶍:) 《唐韻》(:才盍切:)《集韻》(:疾盍切{𠀤=⿱夶一}音䪞讀若慙入聲擸𢶍和雜也:)[...]::
   """"
   --
   However, since 擸𢶍 is also considered

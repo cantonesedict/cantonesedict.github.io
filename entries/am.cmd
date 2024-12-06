@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2024-12-03
+* %date-modified --> 2024-12-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -417,7 +417,7 @@ E
   ::B3.w349b0901 (:烏感切:) (:揞:) (:手覆:)::
   """"
   """"
-  ::K. (:揞:) 《唐韻》《集韻》《韻會》《正韻》(:𠀤烏感切庵上聲藏也手覆也:)[...]::
+  ::K. (:揞:) 《唐韻》《集韻》《韻會》《正韻》(:{𠀤=⿱夶一}烏感切庵上聲藏也手覆也:)[...]::
   """"
 $$
 

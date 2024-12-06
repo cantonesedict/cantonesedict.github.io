@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoi
-* %date-modified --> 2024-10-16
+* %date-modified --> 2024-12-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -584,7 +584,7 @@ C
     ::B4.w427a0106 (:昨代切:) (:載:) (:運也:)::
     """"
     """"
-    ::K. (:載:) [...]又《廣韻》《集韻》《韻會》(:𠀤昨代切音在:)《集韻》(:舟車運物也:)\
+    ::K. (:載:) [...]又《廣韻》《集韻》《韻會》(:{𠀤=⿱夶一}昨代切音在:)《集韻》(:舟車運物也:)\
     《詩小雅》其車旣載《註》(:才再反:)[...]::
     """"
   ==
