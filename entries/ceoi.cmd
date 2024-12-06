@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2024-12-05
+* %date-modified --> 2024-12-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1163,7 +1163,7 @@ W
     - A smell, a stench;
     - bad breath;
     - _yat(7) pung(6) (4)ts(')ui_
-        [[jat1 bung6 ceoi4 一𩗴{𡃴=⿰口隨}]],
+        [[jat1 bung6 ceoi4 一{𩗴=⿺風奉}{𡃴=⿰口隨}]],
         a stench;
     - _(5)yau tik(7) (4)ts(')ui sik(7)_
         [[jau5 dik1 ceoi4 sik1 有滴{𡃴=⿰口隨}息]]
@@ -1176,7 +1176,7 @@ E
     ++
     1. A smell or odour.
        ==
-       - 有𠹻{𡃴=⿰口隨} (jau5 zam6 ceoi4): "There's [an] odour."
+       - 有{𠹻=⿰口朕}{𡃴=⿰口隨} (jau5 zam6 ceoi4): "There's [an] odour."
        - 男人{𡃴=⿰口隨} (naam4 jan4 ceoi4): "Man smell."
        - 老人{𡃴=⿰口隨} (lou5 jan4 ceoi4): "Old person smell."
        ==
@@ -1830,7 +1830,7 @@ W
     ==
     --
     A colloquial word
-    [[here normalised to 𡃴; **see $𡃴ceoi4 for the canonical entry**]].
+    [[here normalised to {𡃴=⿰口隨}; **see ${𡃴=⿰口隨}ceoi4 for the canonical entry**]].
     --
   ====
 $$

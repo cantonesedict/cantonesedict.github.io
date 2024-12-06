@@ -388,7 +388,7 @@ W
         [[hou2 ci5 aa3 po4 pei4 gam3 caau4 好似阿婆皮咁巢]],
         wrinkled as a granny's face;
     - _(4)ch(')(a/)u (1)mang (1)mang_
-        [[caau4 mang1 mang1 巢𠵼𠵼]],
+        [[caau4 mang1 mang1 巢{𠵼=⿰口孟}{𠵼=⿰口孟}]],
         creased, rumpled.
     ==
   ====
@@ -402,7 +402,7 @@ E
     ++
     1. Wrinkled.
        ==
-       - 巢𠵼𠵼 (caau4 mang1 mang1): "Wrinkly."
+       - 巢{𠵼=⿰口孟}{𠵼=⿰口孟} (caau4 mang1 mang1): "Wrinkly."
        - 巢皮 (caau4 pei4): "Wrinkled skin."
        ==
     ++

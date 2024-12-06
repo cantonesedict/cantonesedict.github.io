@@ -267,7 +267,7 @@ class Updater:
         )
         if bad_williams_unaspirated_tone_45:
             print(
-                f'Error in `{entry_cmd_name}`: bad Williams unaspirated tone 4 or 5 {bad_williams_unaspirated_tone_45}'
+                f'Error in `{entry_cmd_name}`: bad Williams unaspirated tone 4 or 5 {bad_williams_unaspirated_tone_45} '
                 f'(suppress error with caret if unaspiration is legitimate)',
                 file=sys.stderr,
             )
@@ -280,7 +280,7 @@ class Updater:
         )
         if bad_williams_aspirated_tone_6:
             print(
-                f'Error in `{entry_cmd_name}`: bad Williams aspirated tone 6 {bad_williams_aspirated_tone_6}'
+                f'Error in `{entry_cmd_name}`: bad Williams aspirated tone 6 {bad_williams_aspirated_tone_6} '
                 f'(suppress error with caret if aspiration is legitimate)',
                 file=sys.stderr,
             )
@@ -310,16 +310,20 @@ class Updater:
     @staticmethod
     def _check_composition_heuristic(entry_cmd_name, cmd_content):
         whitelisted_characters = ''.join([
-            CJK_UNIFIED_IDEOGRAPH_RADICALS,
+            '𠆢',
+            '𠫓',
             '𡈼',
+            '𥫗',
+            '𧾷',
         ])
         unexpanded_characters = re.findall(
-            pattern=f'(?![{whitelisted_characters}])[𠀀-𱍊](?!=)',
+            pattern=f'(?![{whitelisted_characters}])[𠀀-𱍊](?![=^])',
             string=cmd_content,
         )
         if unexpanded_characters:
             print(
-                f'Error in `{entry_cmd_name}`: characters without composition expansion {unexpanded_characters}',
+                f'Error in `{entry_cmd_name}`: missing composition for extension characters {unexpanded_characters} '
+                f'(suppress error with caret if omission is legitimate)',
                 file=sys.stderr,
             )
             sys.exit(1)

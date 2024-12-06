@@ -463,14 +463,14 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~571 𤷫(8)]]
+  - [[Page~571 {𤷫=⿸疒刺}(8)]]
     --
-    [[Reading variation. **See $𤷫cek3 for the canonical entry.**]]
+    [[Reading variation. **See ${𤷫=⿸疒刺}cek3 for the canonical entry.**]]
     --
   ====
 S
   ==
-  - $𤷫cek3
+  - ${𤷫=⿸疒刺}cek3
   ==
 $$
 
@@ -535,7 +535,7 @@ W
   ====
 C
   ==
-  - Otherwise, an alternative form of 𤷫. **See $𤷫cek3 for the canonical entry.**
+  - Otherwise, an alternative form of {𤷫=⿸疒刺}. **See ${𤷫=⿸疒刺}cek3 for the canonical entry.**
   ==
 S
   ==

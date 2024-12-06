@@ -814,7 +814,7 @@ W
         [[can3 gei1 wui6 趁機會]]
         take advantage of the opportunity;
     - _ch(')an(3) (1)fung (2)shai (5)l(i/)_
-        [[can3 fung1 sai2 lei5 趁風駛𢃇]],
+        [[can3 fung1 sai2 lei5 趁風駛{𢃇=⿰巾里}]],
         hoist sail when there's a wind;
     - _ch(')an(3) (u:)n(6)_
         [[can3 jyun6 趁願]]

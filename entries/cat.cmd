@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cat
-* %date-modified --> 2024-12-05
+* %date-modified --> 2024-12-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -243,7 +243,7 @@ W
   [[Not present]]
 C
   ==
-  - Alternative form of {𨳍=⿵門七}. **See $𨳍cat6 for the canonical entry.**
+  - Alternative form of {𨳍=⿵門七}. **See ${𨳍=⿵門七}cat6 for the canonical entry.**
   ==
 $$
 
@@ -274,7 +274,7 @@ E
     ++
     --
     A literal translation would be "droop-dick".
-    For non-literal senses, see the [Wiktionary entry for {𨳍=⿵門七}][wiktionary-𨳍].
+    For non-literal senses, see the [Wiktionary entry for {𨳍=⿵門七}][wiktionary-𨳍^].
     --
   ====
   --
@@ -285,4 +285,4 @@ E
 $$
 
 [eitel-dict-cat^6]: https://books.google.com/books?id=mh8TAAAAYAAJ&jtp=774
-[wiktionary-𨳍]: https://en.wiktionary.org/wiki/𨳍
+[wiktionary-𨳍^]: https://en.wiktionary.org/wiki/𨳍^

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cong
-* %date-modified --> 2024-12-05
+* %date-modified --> 2024-12-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -243,7 +243,7 @@ W
     ==
     - A sore, ulcer, boil, or eruption;
     - _(1)ch(')ong (1)n(a/)_
-        [[cong1 naa1 瘡𤶸]],
+        [[cong1 naa1 瘡{𤶸=⿸疒那}]],
         a scar;
     - _(1)ch(')ong (1)ch(')(u:)n_
         [[cong1 cyun1 瘡穿]],

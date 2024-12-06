@@ -155,7 +155,7 @@ W
     ==
     - _(1)au (1)t(o\)_
         [[au1 dou1 歐刀]],
-        a headsman's sword [[Kangxi: 𠛬人之刀也]].
+        a headsman's sword [[Kangxi: {𠛬=⿰幵刂}人之刀也]].
     ==
   ====
 S
