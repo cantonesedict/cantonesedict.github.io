@@ -666,7 +666,7 @@ F
   ==
 W
   ====
-  - [[Page~554 (4)慚]]
+  - [[Page~554 (4)慚(4)慙]]
     --
     [[Alternative form of 慚. **See $慚caam4 for the canonical entry.**]]
     --
@@ -691,9 +691,9 @@ F
   ==
 W
   ====
-  - [[Page~554 (4)慚]]
+  - [[Page~554 (4)慚(4)慙]]
     ==
-    - Ashamed, mortified, chopfallen;
+    - Ashamed, mortified, chopfallen [[Kangxi 慙: 媿也]];
     - to feel ashamed of, to blush for;
     - to be sensible of one's defects or failure;
     - _(1)sau (4)ts(')(a/)m_
