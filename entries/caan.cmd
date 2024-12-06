@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caan
-* %date-modified --> 2024-12-05
+* %date-modified --> 2024-12-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -94,10 +94,10 @@ W
   ====
   - [[Page~555 (1)餐(1)飡]]
     ==
-    - To swallow, to eat;
-    - a meal;
+    - To swallow [[Kangxi 餐: 吞也]], to eat;
+    - a meal [[Kangxi 餐: 飮饌曰餐]];
     - a classifier of meals;
-    - to gather and to select;
+    - to gather and to select [[Kangxi 餐: 採也]];
     - _yat(7) (1)ts(')(a/)n f(a/)n(6)_
         [[jat1 caan1 faan6 一餐飯]]
         a meal;
