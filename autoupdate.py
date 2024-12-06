@@ -61,6 +61,7 @@ class Updater:
         Updater._check_post_tone_commas_heuristic(entry_cmd_name, old_cmd_content)
         Updater._check_williams_romanisation_heuristic(entry_cmd_name, old_cmd_content)
         Updater._check_jyutping_romanisation_heuristic(entry_cmd_name, old_cmd_content)
+        Updater._check_composition_heuristic(entry_cmd_name, old_cmd_content)
         Updater._check_insertion_context(entry_cmd_name, old_cmd_content)
 
         tone_syllable_ct_list = Updater._gather_tone_syllable_ct_list(old_cmd_content)
@@ -305,6 +306,23 @@ class Updater:
             re.search(pattern=r'\b y', string=string, flags=re.VERBOSE)
             or re.search(pattern=r'[789]', string=string)
         )
+
+    @staticmethod
+    def _check_composition_heuristic(entry_cmd_name, cmd_content):
+        whitelisted_characters = ''.join([
+            CJK_UNIFIED_IDEOGRAPH_RADICALS,
+            '𡈼',
+        ])
+        unexpanded_characters = re.findall(
+            pattern=f'(?![{whitelisted_characters}])[𠀀-𱍊](?!=)',
+            string=cmd_content,
+        )
+        if unexpanded_characters:
+            print(
+                f'Error in `{entry_cmd_name}`: characters without composition expansion {unexpanded_characters}',
+                file=sys.stderr,
+            )
+            sys.exit(1)
 
     @staticmethod
     def _check_insertion_context(entry_cmd_name, cmd_content):
