@@ -527,7 +527,7 @@ W
   ====
   - [[Page~21|n64 (4)橙]]
     ==
-    - The coolie orange;
+    - The coolie orange [[Kangxi: 橘屬 etc.]];
     - _(4)ch(')(a/)ng (2)tsau_
         [[caang4-2 zau2 橙酒]],
         spirits in which orange peel has been soaked;
