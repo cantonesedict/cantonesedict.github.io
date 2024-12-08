@@ -110,7 +110,7 @@ W
     - To prop, to shore up;
     - to fasten open, as with a stretcher;
     - to pole;
-    - to push off;
+    - to push off [[Kangxi 撐: 撥也]];
     - to make a show;
     - an inclined post, a fulcrum, a prop, a stay;
     - to border on, to adjoin, to stretch or run up into;
