@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2024-10-06
+* %date-modified --> 2024-12-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -652,9 +652,13 @@ W
     Read _chang(3)_ [[zang3]];
     --
     ==
-    - to file[.]
+    - to file [[Kangxi: 掙剉也]] [.]
     ==
   ====
+C
+  ==
+  - Williams' "to file": Note that 剉也 might mean "to break" instead.
+  ==
 S
   ==
   - $掙caang1

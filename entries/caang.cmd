@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caang
-* %date-modified --> 2024-12-06
+* %date-modified --> 2024-12-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -73,7 +73,7 @@ W
     Read _(1)ch(')(a/)ng_ [[caang1]];.
     --
     ==
-    - to pierce, to stab.
+    - to pierce, to stab [[Kangxi: 刺也]].
     ==
     --
     [[...]]
