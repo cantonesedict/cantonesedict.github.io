@@ -463,10 +463,15 @@ F
 W
   ====
   - [[Page~21|n64 (4)倀]]
-    --
-    [[Reading variation. **See $倀coeng1 for the canonical entry.**]]
-    --
+    ==
+    - [[See $倀coeng1 for "crazed" and "tiger-victim ghost" senses]].
+    ==
   ====
+C
+  ==
+  - For the reading _(4)ch(')(a/)ng_ (caang4),
+    Kangxi has 又除庚切音棖獨立貌, "standing alone".
+  ==
 S
   ==
   - $倀coeng1

@@ -46,6 +46,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $倀1
 - $倡1
 - $娼1
 - ${𢃑=⿰巾昌}1
@@ -70,6 +71,33 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+###+ 倀1 | _(1)Ch(')(e/)ung_ (coeng1)
+
+$$
+R
+  ⼈ + 8
+U
+  U+5000
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~21|n64 (4)倀 _(4)Ch(')(a/)ng_ (caang4); here corrected to _(1)Ch(')(e/)ung_ (coeng1)]]
+    ==
+    - Groping, going blindly [[Kangxi: 狂行不知所如也 etc.]];
+    - madly [[Kangxi: 狂也]], carelessly;
+    - to fall down [[Kangxi: 一曰仆也]];
+    - _[(1)ch(')(e/)ung] (2)kwai_
+        [[coeng1 gwai2 倀鬼]],
+        a lares eaten by a tiger, _met._ one who entices to evil courses.
+    ==
+  ====
+S
+  ==
+  - $倀caang4
+  ==
+$$
 
 ### 倡1 | _(1)Ch(')(e/)ung_ [[coeng1]]
 
