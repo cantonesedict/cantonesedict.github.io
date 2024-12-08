@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2024-12-06
+* %date-modified --> 2024-12-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -275,6 +275,8 @@ W
   ====
 C
   ==
+  - Strictly, the Williams reading should be _(2)(o\)m_ per 《廣韻》烏感切,
+    rather than _(2)am_ (notwithstanding both are am2 in modern Cantonese).
   - Williams' "a word used by Budhists":
     A transliteration of the Sanskrit <span lang="sa">ॐ</span> (_Om_).
   ==
