@@ -345,11 +345,11 @@ W
   ====
   - [[Page~549 (1)萋]]
     ==
-    - Luxuriaut foliage;
+    - Luxuriaut foliage [[Kangxi: 草盛貌]];
     - _(1)ts(')ai (1)ts(')ai_
         [[cai1 cai1 萋萋]],
-        moving clouds;
-        a man exerting himself.
+        moving clouds [[Kangxi: 雲行貌]];
+        a man exerting himself [[Kangxi: 萋萋臣盡力也]].
     ==
   ====
 $$
