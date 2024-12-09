@@ -353,7 +353,7 @@ W
   ====
   - [[Page~29|n72 (4)巢]]
     ==
-    - A nest on a tree;
+    - A nest on a tree [[Kangxi: 鳥在木上曰巢 etc.]];
     - a den, a retreat;
     - a lurking place;
     - to nestle, to make a nest;
