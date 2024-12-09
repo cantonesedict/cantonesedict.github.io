@@ -111,9 +111,9 @@ W
   ====
   - [[Page~30|n73 鈔(3) _Ch(')(a/)u(3)_ (caau3); here normalised to _(1)Ch(')(a/)u_ (caau1)]]
     ==
-    - Interchanged with $抄1 to copy;
-    - a document, a government paper, a receipt;
-    - paper money;
+    - Interchanged with $抄1 to copy [[Kangxi: 今俗別作抄, 謄寫也]];
+    - a document, a government paper, a receipt [[Kangxi: 官收物而給印信文憑也]];
+    - paper money [[Kangxi: 楮貨名]];
     - _(4)sh(u:)n [(1)]ch(')(a/)u_
         [[syun4 caau1 船鈔]]^
         tonnage dues, charges on ships;
@@ -135,7 +135,7 @@ C
   ==
   - Both the level reading 楚交切 _(1)ch(')(a/)u_ (caau1)
     and the departing reading 初敎切 _ch(')(a/)u(3)_ (caau3)
-    are attested in 《廣韻》.
+    are attested in 《廣韻》, explained 略也 "seize".
   ==
 S
   ==
