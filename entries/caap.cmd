@@ -126,13 +126,13 @@ W
   ====
   - [[Page~23|n66 揷(8); here normalised to 插]]
     ==
-    - To insert, to pierce, to set in, to stick into;
+    - To insert, to pierce, to set in, to stick into [[Kangxi 插: 刺肉也, 刺入也]];
     - to tuck in, to thrust into or through;
     - to transplant;
     - to set in a socket;
     - to meddle, to interfere in;
-    - an iron pointed pole used to carry sheaves, or pry up clods,
-      for which 鍤 is also used;
+    - an iron pointed pole used to carry sheaves [[Kangxi: 插者擔也 etc.]], or pry up clods,
+      for which 鍤 is also used [[Kangxi: 與鍤同刺土器也]];
     - _ch(')(a/)p(8) (1)y(e/)ung_
         [[caap3 joeng1 插秧]],
         to set out rice shoots;
