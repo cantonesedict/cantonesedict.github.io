@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caap
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-12-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -68,10 +68,10 @@ W
     Wrongly used for the last [[$揷3]].
     --
     ==
-    - To take, to receive;
-    - to raise;
-    - to curtsey with the hands bowed to the ground;
-    - to tuck up the skirts.
+    - To take, to receive [[Kangxi: 收也, 取也獲也]];
+    - to raise [[Kangxi: 引也舉也]]];
+    - to curtsey with the hands bowed to the ground [[Kangxi: 拜手至地也]];
+    - to tuck up the skirts [[Kangxi: 扱衽曰襭 etc.]].
     ==
   ====
 C
