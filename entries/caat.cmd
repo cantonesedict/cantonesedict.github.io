@@ -158,8 +158,8 @@ W
   ====
   - [[Page~24|n67 察(8)]]
     ==
-    - To examine, to judge, to search out the truth;
-    - to observe closely, to inquire into all particulars;
+    - To examine, to judge, to search out the truth [[Kangxi: 覆審也, 諦也知也]];
+    - to observe closely, to inquire into all particulars [[Kangxi: 考也廉視也]];
     - _(4)ch(')(a/) ch(')(a/)t(8)_
         [[caa4 caat3 查察]]
         to scrutinize;
