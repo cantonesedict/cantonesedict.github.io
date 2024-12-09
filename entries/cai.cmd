@@ -324,7 +324,7 @@ W
   ====
   - [[Page~549 (1)緀]]
     ==
-    - The stripes, colored or plain, in silken fabrics;
+    - The stripes, colored or plain, in silken fabrics [[Kangxi: 帛文貌]];
     - ornamented, blended colors and stripes.
     ==
   ====
