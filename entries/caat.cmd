@@ -260,7 +260,7 @@ W
   ====
   - [[Page~24|n67 獺(8)]]
     ==
-    - An otter;
+    - An otter [[Kangxi: 如小狗 etc.]];
     - _(1)sh(a/)n ch(')(a/)t(8)_
         [[saan1 caat3 山獺]]
         a beaver, or fresh-water otter;
