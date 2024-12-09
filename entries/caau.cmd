@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caau
-* %date-modified --> 2024-12-06
+* %date-modified --> 2024-12-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -65,10 +65,10 @@ W
   ====
   - [[Page~29|n72 (1)抄]]
     ==
-    - To take, to seize;
+    - To take, to seize [[Kangxi: 略取也]];
     - to search;
-    - to engross, to transcribe;
-    - to lade out, to spoon out;
+    - to engross, to transcribe [[Kangxi: 謄寫也]];
+    - to lade out, to spoon out [[Kangxi: 叉取也]];
     - to confiscate, to escheat, to sequestrate, to resume;
     - _(2)shau (1)ch(')(a/)u_
         [[sau2 caau1 手抄]],
