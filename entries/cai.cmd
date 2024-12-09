@@ -219,6 +219,10 @@ A
   ==
   - $栖1
   ==
+V
+  ==
+  - sai1 (per 《廣韻》先稽切)
+  ==
 F
   ==
   - [[F1.28 棲]] 棲息又牀也
@@ -227,12 +231,12 @@ W
   ====
   - [[Page~550 ::(1)棲(1)[栖]^::]]
     ==
-    - To roost, to perch, to nestle;
+    - To roost, to perch, to nestle [[Kangxi 栖: 日在西方而鳥棲 etc.]] [[Kangxi 棲: 同栖鳥棲也]];
     - to sojourn, to stay at, to reside;
-    - to settle down, to rest, to repose;
+    - to settle down, to rest, to repose [[Kangxi 栖: 凡物止息皆曰栖]];
     - at peace;
     - a perch, a roost;
-    - a sleeping-place;
+    - a sleeping-place [[Kangxi 棲: 棲謂之牀]];
     - a lodging-place;
     - _(1)kai (1)ts(')ai_
         [[gai1 cai1 雞棲]],
