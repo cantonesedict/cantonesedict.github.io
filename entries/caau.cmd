@@ -432,17 +432,19 @@ W
   ====
   - [[Page~30|n73 (4)漅]]
     ==
-    - Name of a large lake in the south of the province of Ng(a/)nhwui [[安徽]].
+    - Name of a large lake
+      in the south of the province of Ng(a/)nhwui [[安徽]] [[Kangxi: 湖名]].
     ==
     --
-    Also read _(2)tsi(u/)_ [[ziu2]].
-    The last [[$巢4]] is usually used for this.
+    Also read _[(2)]tsi(u/)_ [[ziu2]].
+    The last [[$巢4]] is usually used for this [[Kangxi: 亦作巢]].
     --
   ====
 C
   ==
   - The reading _(4)ch(')(a/)u_ (caau4) is not unattested;
-    Kangxi quotes 又《集韻》《韻會》《正韻》{𠀤=⿱夶一}鋤交切音巢義同.
+    Kangxi has 又《集韻》《韻會》《正韻》{𠀤=⿱夶一}鋤交切音巢義同.
+  - Williams' alternative reading: Corrected _(1)tsi(u/)_ (ziu1) to _(2)tsi(u/)_ (ziu2).
   ==
 $$
 
