@@ -274,8 +274,8 @@ W
   ====
   - [[Page~549 (1)凄(1)淒]]
     ==
-    - Intense cold;
-    - bleak, cloudy, wintry;
+    - Intense cold [[Kangxi 淒: 寒涼也]];
+    - bleak, cloudy [[Kangxi 淒: 雲雨起貌]], wintry;
     - a cold wind;
     - shivering, freezing;
     - calamitous, afflicted, grievous;
