@@ -172,8 +172,8 @@ W
     Similar to the last [[$淒1]];
     --
     ==
-    - grieved, afflicted, sorrowing;
-    - suffering from hunger;
+    - grieved, afflicted, sorrowing [[Kangxi: 痛也, 悲也]];
+    - suffering from hunger [[Kangxi: 悽悽饑病貌]];
     - _(1)p(i/) (1)ts(')ai_
         [[bei1 cai1 悲悽]],
         pitiable, suffering;
