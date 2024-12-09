@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2024-10-08
+* %date-modified --> 2024-12-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -90,7 +90,7 @@ W
   ====
   - [[Page~549 (1)妻]]
     ==
-    - A wife, a partner, a spouse, a consort who is takea with legal ceremonies;
+    - A wife, a partner [[Kangxi: 妻與己齊者也]], a spouse, a consort who is taken with legal ceremonies;
     - _(1)ts(')ai (2)tsz'_
         [[cai1 zi2 妻子]]
         a wife;
@@ -415,7 +415,7 @@ W
     Also read _ts(')ai(3)_ [[cai3]];
     --
     ==
-    - to give a daughter as wife to one.
+    - to give a daughter as wife to one [[Kangxi: 以女嫁人曰妻之]].
     ==
   ====
 S
