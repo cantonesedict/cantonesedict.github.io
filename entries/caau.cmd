@@ -490,7 +490,7 @@ W
   ====
   - [[Page~30|n73 (4)轈]]
     ==
-    - A turret on a chariot, from the top of which to observe the troops.
+    - A turret on a chariot, from the top of which to observe the troops [[Kangxi: 兵高車加巢以望敵也]].
     ==
   ====
 $$
