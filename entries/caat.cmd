@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caat
-* %date-modified --> 2024-12-06
+* %date-modified --> 2024-12-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -73,10 +73,10 @@ W
   ====
   - [[Page~427 刷(8) _Sh(a/)t(8)_ (saat3); here normalised to _Ch(')(a/)t(8)_ (caat3)]]
     ==
-    - A brush, a scraper;
+    - A brush, a scraper [[Kangxi: 刮也]];
     - a curry-comb;
     - to brush;
-    - to cleanse, to scour, to scrub;
+    - to cleanse, to scour, to scrub [[Kangxi: 刷淸也]];
     - a card for cotton;
     - to print, as the Chinese do;
     - _(2)hon [ch(')(a/)t](8)_
