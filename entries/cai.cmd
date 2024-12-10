@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2024-12-09
+* %date-modified --> 2024-12-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -386,7 +386,7 @@ W
     - All, every, the whole;
     - _yat(7) ts(')ai(3)_
         [[jat1 cai3 一切]]
-        the entire lot;
+        the entire lot [[Kangxi: 一切大凡也]];
     - _chi(u/)(3) k(u/)(3) yat(7) ts(')ai(3)_
         [[ziu3 gu3 jat1 cai3 照顧一切]]
         I thank you for all your kindness.

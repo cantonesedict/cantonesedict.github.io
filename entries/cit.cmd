@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cit
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-12-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -69,14 +69,14 @@ W
   ====
   - [[Page~580 切(8)]]
     ==
-    - To cut, to carve, to mince, to slice;
-    - to urge, to press;
+    - To cut, to carve, to mince, to slice [[Kangxi: 割也刻也]];
+    - to urge, to press [[Kangxi: 迫也急也]];
     - a superlative, very, vehement, earnest, eager,
       pressing, important, serious, momentous;
-    - the important parts, a resumé;
-    - sincere;
-    - to feel, as the pulse;
-    - to spell, to express a sound by joining initials and finals;
+    - the important parts, a resumé [[Kangxi: 切要也]];
+    - sincere [[Kangxi: 愨實也]];
+    - to feel, as the pulse [[Kangxi: 切按也]];
+    - to spell, to express a sound by joining initials and finals [[Kangxi: 反切]];
     - _ts(')(i/)t(8) i(u/)(3)_
         [[cit3 jiu3 切要]]
         important;
