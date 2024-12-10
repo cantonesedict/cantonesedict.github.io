@@ -527,7 +527,7 @@ W
   ====
   - [[Page~550 (4)蠐]]
     ==
-    - A maggot;
+    - A maggot [[Kangxi: 蠐螬]];
     - _(4)ts(')ai (4)ts(')(o\)_
         [[cai4 cou4 蠐螬]],
         a grub, larvæ in mulberry and other trees.
