@@ -443,7 +443,7 @@ W
   ====
   - [[Page~550 砌(3)]]
     ==
-    - A stone step;
+    - A stone step [[Kangxi: 階甃也]];
     - ornamented tiles laid for steps;
     - to lay, as tiles;
     - to place regularly, to fit in;
