@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2024-11-10
+* %date-modified --> 2024-12-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -47,6 +47,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $劑1
+- $懠1
 - $擠1
 - $穧1
 - $賫1
@@ -89,6 +90,32 @@ W
         a check, a bond, made so as to cut in twain for evidence.
     ==
   ====
+$$
+
+###+ 懠1 | _(1)Tsai_ (zai1)
+
+$$
+R
+  ⼼ + 14
+U
+  U+61E0
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~549 懠(3) _Tsai(3)_ (zai3); here corrected to _(1)Tsai_ (zai1)]]
+    ==
+    - [[...]];
+    - suspicious, envious of [[Kangxi: 懠疑猶猜疑也]];
+    - to doubt;
+    - [[...]].
+    ==
+  ====
+S
+  ==
+  - $懠cai4
+  - $懠zai3
+  ==
 $$
 
 ### 擠1 | _(1)Chai_ _(1)Tsai_ [[zai1]]
@@ -586,6 +613,7 @@ W
 S
   ==
   - $懠cai4
+  - $懠zai1
   ==
 $$
 

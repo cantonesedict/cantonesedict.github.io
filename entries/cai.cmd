@@ -498,9 +498,8 @@ W
   ====
   - [[Page~549 懠(3) _Tsai(3)_ (zai3); here corrected to _(4)Ts(')ai_ (cai4)]]
     ==
-    - Angry, enraged;
-    - suspicious, envious of;
-    - to doubt;
+    - Angry, enraged [[Kangxi: 怒也]];
+    - [[see $懠zai1 for "doubt" senses]];
     - _(1)t(i/)n (1)ch(i/) (1)fong [(4)ts(')ai]_
         [[tin1 zi1 fong1 cai4 天之方懠]]^
         when heaven is angry.
@@ -508,6 +507,7 @@ W
   ====
 S
   ==
+  - $懠zai1
   - $懠zai3
   ==
 $$
