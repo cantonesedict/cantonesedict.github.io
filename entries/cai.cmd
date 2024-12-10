@@ -663,7 +663,7 @@ W
   ====
   - [[Page~550 (5)薺]]
     ==
-    - Cress, shepherd's purse;
+    - Cress, shepherd's purse [[Kangxi: 甘菜]];
     - a term for small esculent plants like pepper-grass, cress, mint.
     ==
   ====
