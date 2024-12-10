@@ -550,13 +550,13 @@ W
   ====
   - [[Page~550 (4)齊]]
     ==
-    - Even, equal, uniform;
+    - Even [[Kangxi: 整也]], equal [[Kangxi: 等也]], uniform;
     - to equalize, to tranquillize;
     - to adjust, to classify, to arrange methodically or according to rank;
     - at once, all, together, alike;
     - quick, smart;
     - good;
-    - to discriminate;
+    - to discriminate [[Kangxi: 辨也]];
     - an ancient feudal state comprising the part of Sh(a/)ntung [[山東]]
       east of T(')(a/)i sh(a/)n [[泰山]];
     - the 210th~radical;
@@ -598,6 +598,11 @@ W
         to govern a family.
     ==
   ====
+C
+  ==
+  - Williams' "good": Kangxi has 又《廣韻》好也, but it is unclear
+    whether 好 is rising-tone "good" or departing-tone "fond".
+  ==
 S
   ==
   - $齊zaai1
