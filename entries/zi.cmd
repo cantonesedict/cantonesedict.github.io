@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-12-06
+* %date-modified --> 2024-12-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1584,6 +1584,7 @@ $$
 - $止2
 - $沚2
 - $泲2
+- $泚2
 - $滓2
 - $祇2
 - $祉2
@@ -2358,6 +2359,30 @@ C
     Moreover, rising-tone zai2 is more correct than departing-tone zai3,
     because the reading of 濟 explained 水名 is the rising-tone one,
     namely 子禮切 _(2)tsai_ (zai2).
+  ==
+$$
+
+###+ 泚2 | _(2)Tsz'_ (zi2)
+
+$$
+R
+  ⽔ + 6
+U
+  U+6CDA
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~550 (5)泚 _(5)Ts(')ai_ (cai5); here corrected to _(2)Tsz'_ (zi2)]]
+    ==
+    - [[...]];
+    - name of a stream [[Kangxi: 水名]].
+    ==
+  ====
+S
+  ==
+  - $泚cai5
+  - $泚ci2
   ==
 $$
 

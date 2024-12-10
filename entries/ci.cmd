@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2024-12-06
+* %date-modified --> 2024-12-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1110,10 +1110,10 @@ W
   ====
   - [[Page~550 (5)泚 _(5)Ts(')ai_ (cai5); here normalised to _(2)Ts(')z'_ (ci2)]]
     ==
-    - Perspiring, sweating on the forehead;
-    - clear water;
+    - Perspiring [[Kangxi: 汗出貌]], sweating on the forehead;
+    - clear water [[Kangxi: 水淸也]];
     - fresh, clean;
-    - name of a stream.
+    - [[see $泚zi2 for proper-name sense]].
     ==
   ====
 C
@@ -1124,6 +1124,7 @@ C
 S
   ==
   - $泚cai5
+  - $泚zi2
   ==
 $$
 

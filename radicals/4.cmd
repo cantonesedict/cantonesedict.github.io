@@ -1446,6 +1446,7 @@ For all radicals, see [Index of characters by radical](./).
       - $洽ap1
       - $泚cai5
       - $泚ci2
+      - $泚zi2
       - $洲zau1
       - $津zeon1
       - $洊zin3
