@@ -742,7 +742,7 @@ W
   ====
   - [[Page~15|n58 (4)霃]]
     ==
-    - Dark, cloudy for a long time;
+    - Dark, cloudy for a long time [[Kangxi: 久隂也]];
     - _(1)yam (1)yam (4)ch(')am (4)ch(')am_
         [[jam1 jam1 cam4 cam4 陰陰霃霃]],
         dull, rainy-looking.
