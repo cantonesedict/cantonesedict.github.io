@@ -873,7 +873,7 @@ W
   ====
   - [[Page~19|n62 齔(3)]]
     ==
-    - To shed the milk teeth, as children do;
+    - To shed the milk teeth, as children do [[Kangxi: 毀齒也 etc.]];
     - shedding or renewing the teeth.
     ==
   ====
