@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2024-12-06
+* %date-modified --> 2024-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -977,7 +977,7 @@ W
   ====
   - [[Page~18|n61 (4)蔯]]
     ==
-    - A medicinal herb, good for rheumatism;
+    - A medicinal herb [[Kangxi: 茵蔯也]], good for rheumatism;
     - _(1)yan (4)ch(')an_
         [[jan1 can4 茵蔯]],
         a plant like origanum.
