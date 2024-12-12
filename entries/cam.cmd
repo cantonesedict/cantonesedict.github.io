@@ -831,9 +831,9 @@ W
   ====
   - [[Page~552 (4)鱏]]
     ==
-    - An enormous fish, with a long nose,
+    - An enormous fish, with a long nose [[Kangxi: 鱏長鼻魚也重千斤]],
       found in the Y(a/)ngtsz' ki(a/)ng [[揚子江]];
-      probably a sturgeon.
+    - probably a sturgeon.
     ==
   ====
 $$
