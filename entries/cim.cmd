@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2024-12-06
+* %date-modified --> 2024-12-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -505,7 +505,8 @@ U
   U+92DF
 V
   ==
-  - cam1 (alternative)
+  - cam1 (per Fan Wan)
+  - cam2 (per 《廣韻》七稔切)
   - zim1 (per 《廣韻》子廉切)
   ==
 F
@@ -516,17 +517,18 @@ W
   ====
   - [[Page~552 (1)鋟 _(1)Ts(')am_ (cam1); here normalised to _(1)Ts(')(i/)m_ (cim1)]]
     ==
-    - To cut, to engrave;
-    - sharp-pointed;
+    - To cut, to engrave [[Kangxi: 刻也]];
+    - sharp-pointed [[Kangxi: 錐也]];
     - a point;
     - an awl, a graver.
     ==
   ====
 C
   ==
-  - The alternative reading _(1)ts(')am_ (cam1) is not unattested;
-    Kangxi quotes 又《集韻》《韻會》千尋切《正韻》千林切{𠀤=⿱夶一}音侵義同.
-    In particular, 《洪武正韻牋》 explains it 以瓜刻板 etc.
+  - The reading _(1)ts(')am_ (cam1) is not unattested;
+    Kangxi has 又《集韻》《韻會》千尋切《正韻》千林切{𠀤=⿱夶一}音侵義同
+    (reference the "sharp-pointed/awl" sense 錐也),
+    and 《洪武正韻牋》 has the reading 七林切, explained 以瓜刻板 etc.
   ==
 S
   ==

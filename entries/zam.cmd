@@ -222,7 +222,7 @@ U
 V
   ==
   - cam1 (per Fan Wan)
-  - zam3 (alternative per 《廣韻》子禁切)
+  - zam3 (alternative per 《廣韻》子鴆切)
   ==
 F
   ==
