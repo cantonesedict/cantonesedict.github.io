@@ -681,8 +681,8 @@ W
   ====
   - [[Page~19|n62 櫬(3)]]
     ==
-    - A coffin;
-    - to collect firewood;
+    - A coffin [[Kangxi: 棺也]];
+    - to collect firewood [[Kangxi: 櫬采薪]];
     - _(1)k(u/)n ch(')an(3)_
         [[gun1 can3 棺櫬]]
         a coffin;
