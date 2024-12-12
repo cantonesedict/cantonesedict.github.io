@@ -769,8 +769,8 @@ W
   ====
   - [[Page~552 (4)鬵]]
     ==
-    - A vase with a large belly and small mouth;
-    - a large kettle or boiler.
+    - A vase with a large belly and small mouth [[Kangxi: 一曰鼎大上小下若甑曰鬵]];
+    - a large kettle or boiler [[Kangxi: 大釜也]].
     ==
   ====
 C
