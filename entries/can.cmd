@@ -708,11 +708,11 @@ W
   ====
   - [[Page~18|n61 襯(3)]]
     ==
-    - Inner garments;
+    - Inner garments [[Kangxi: 近身衣也]];
     - to help, to assist;
     - to patronize;
     - to befriend;
-    - to give;
+    - to give [[Kangxi: 施與亦曰襯]];
     - to give effect to, to show off;
     - to match;
     - _ch(')an(3) (1)kan_
