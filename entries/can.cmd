@@ -511,13 +511,13 @@ W
   ====
   - [[Page~18|n61 (2)縝]]
     ==
-    - Filaments from a coccoon;
-    - a thread;
-    - to tie;
-    - black;
+    - Filaments from a coccoon [[Kangxi: 縝緻也]];
+    - a thread [[Kangxi: 縝纑縷也]];
+    - to tie [[Kangxi: 結也單也]];
+    - black [[Kangxi: 縝黑也]];
     - _(4)shui (2)ch(')an pat(7) pin(3)_
         [[seoi4 can2 bat1 bin3 誰縝不變]]
-        whose black bair will not change?
+        whose black hair will not change?
     ==
   ====
 $$
