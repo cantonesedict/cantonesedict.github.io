@@ -72,7 +72,7 @@ W
   ====
   - [[Page~17|n60 (1)嗔]]
     ==
-    - To get angry;
+    - To get angry [[Kangxi: 怒也]];
     - passionate, angry;
     - to rail;
     - _(1)shang (1)ch(')an_
