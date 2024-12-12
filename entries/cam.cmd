@@ -706,7 +706,7 @@ U
   U+9414
 V
   ==
-  - jam4 (per 《廣韻》餘針切)
+  - jam4 (alternative per 《廣韻》餘針切)
   ==
 F
   ==
@@ -716,27 +716,10 @@ W
   ====
   - [[Page~552 (4)鐔]]
     ==
-    - The guard on the hilt of a sword;
-    - a dagger, a dirk;
+    - The guard on the hilt of a sword [[Kangxi: 劒鼻也]];
+    - a dagger, a dirk [[Kangxi: 鐔似劒而小]];
     - [[see $鐔taam4 for "sword's edge" sense]].
-    <##
-    - the edge of a sword.
-    ##>
     ==
-  ====
-C
-  ====
-  - 《廣韻》 provides three readings:
-    ==
-    - _(4)ts(')am_ (cam4) per 徐林切
-    - _(4)yam_ (jam4) per 餘針切
-    - _(4)t(')(a/)m_ (taam4) per 徒含切.
-    ==
-    The first two are explained 劒鼻 "sword's nose" (meaning knob)
-    and the third is explained 劒口 "sword's mouth" (meaning edge).
-    Based on this,
-    I conclude that the reading _(4)t(')(a/)m_ (taam4) deserves its own entry;
-    see $鐔taam4.
   ====
 S
   ==
