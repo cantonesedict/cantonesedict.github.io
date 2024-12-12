@@ -197,6 +197,11 @@ W
     Used for _(1)sham_ [[sam1]] 參 ginseng, but erroneously.
     --
   ====
+C
+  ==
+  - Williams' "erroneously": Actually, Kangxi considers 薓 the original form,
+    and 葠 and 參 variants for _(1)sham_ (sam1) "ginseng".
+  ==
 $$
 
 ### 鋟1 | _(1)Ts(')am_ [[cam1]]
