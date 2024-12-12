@@ -181,7 +181,7 @@ $$
 
 ### 葠1 | _(1)Ts(')am_ [[cam1]]
 
-$$
+$$.
 R
   ⾋ + 9
 U
@@ -194,13 +194,18 @@ W
   ====
   - [[Page~552 (1)葠]]
     --
-    Used for _(1)sham_ [[sam1]] 參 ginseng, but erroneously.
+    Used for _(1)sham_ [[sam1]] 參 ginseng, but erroneously
+    [[**see $葠sam1**]].
     --
   ====
 C
   ==
   - Williams' "erroneously": Actually, Kangxi considers 薓 the original form,
     and 葠 and 參 variants for _(1)sham_ (sam1) "ginseng".
+  ==
+S
+  ==
+  - $葠sam1 (TODO)
   ==
 $$
 
