@@ -693,7 +693,7 @@ W
   ====
   - [[Page~15|n58 譖(3) _Ch(')am(3)_ (cam3); here normalised to _Cham(3)_ (zam3)]]
     ==
-    - To slander, to vilify;
+    - To slander, to vilify [[Kangxi: 愬也, 䛼也, 讒也]];
     - to discredit;
     - _[cham](3) (4)(i/)n_
         [[zam3 jin4 譖言]],
