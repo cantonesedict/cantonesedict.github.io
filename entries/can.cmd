@@ -167,7 +167,7 @@ W
   ====
   - [[Page~18|n61 (1)瞋]]
     ==
-    - To stare at angrily, to glare at;
+    - To stare at angrily, to glare at [[Kangxi: 張目也, 怒也]];
     - _(1)ch(')an n(o\)(6) (4)m(o\) t(o\)(6)_
         [[can1 nou6 mou4 dou6 瞋怒無度]]
         angry beyond measure.
