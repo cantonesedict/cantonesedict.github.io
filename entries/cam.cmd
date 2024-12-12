@@ -630,12 +630,12 @@ W
   ====
   - [[Page~15|n58 (4)沉(4)沈]]
     ==
-    - To sink;
+    - To sink [[Kangxi 沈: 沒也]];
     - to immerse;
     - to put under water, to be lost;
     - to quash, to suppress;
     - muddy, deep, dull, as colors;
-    - a lake;
+    - a lake [[Kangxi 沈: 齊人謂湖曰沈]];
     - _shat(9) (2)shau (4)ch(')am chui(6)_
         [[sat6 sau2 cam4 zeoi6 實首沉墜]]
         garrulous;
