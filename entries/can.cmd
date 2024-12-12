@@ -307,7 +307,7 @@ W
   ====
   - [[Page~18|n61 (2)哂]]
     ==
-    - To smile, with slight contempt;
+    - To smile, with slight contempt [[Kangxi: 笑也, 微笑]];
     - to look pleased;
     - _(2)ch(')an si(u/)(3)_
         [[can2 siu3 哂笑]]
