@@ -249,10 +249,10 @@ W
   - [[Page~552 (1)駸]]
     ==
     - Occurs used for the preceding [[$侵1]];
-    - properly a swift horse;
+    - properly a swift horse [[Kangxi: 駸駸馬行疾貌]];
     - _(1)ts(')am (1)ts(')am_
         [[cam1 cam1 駸駸]],
-        a fast ruuning courser.
+        a fast running courser.
     ==
   ====
 C
