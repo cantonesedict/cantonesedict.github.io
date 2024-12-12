@@ -600,14 +600,14 @@ W
   ====
   - [[Page~18|n61 (2)軫]]
     ==
-    - The boards of a carriage;
+    - The boards of a carriage [[Kangxi: 車後橫木也]];
     - the cross board;
-    - to move;
+    - to move [[Kangxi: 轉也動也]];
     - a carriage;
-    - cramped, disturbed, distressed;
-    - the last of the 28 constellations,
+    - cramped, disturbed, distressed [[Kangxi: 軫懷痛念也]];
+    - the last of the 28 constellations [[Kangxi: 宿名]],
       _β_, _δ_, _η_, _γ_, in Corvus;
-    - pegs of a lute;
+    - pegs of a lute [[Kangxi: ::琴下轉[絃]者謂之軫::]];
     - _(1)[(u:)] (2)ch(')an_
         [[jyu1 can2 紆軫]],
         crooked, winding.
@@ -615,6 +615,9 @@ W
   ====
 C
   ==
+  - Williams' "boards of a carriage":
+    Strictly speaking, 橫木 does not specifically refer to boards,
+    only to "horizontal timber".
   - Williams' 紆軫: Corrected _(1)h(u:)_ (heoi1) to _(1)(u:)_ (jyu1).
   ==
 $$
