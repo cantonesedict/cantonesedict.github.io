@@ -339,15 +339,25 @@ W
   - [[Page~18|n61 (2)畛]]
     ==
     - To divide fields;
-    - to come before the gods;
+    - to come before the gods [[Kangxi: 致也]];
     - to announce the emperor's coming;
-    - to die;
+    - to die [[Kangxi: 殄也, 謂殄絕]];
     - a motive;
     - _(4)kw(')ai (2)ch(')an_
         [[kwai4 can2 畦畛]],
         dikes between fields.
     ==
   ====
+C
+  ==
+  - Williams' "To divide fields":
+    The roads dividing fields, rather than the action of dividing fields.
+    Kangxi has 井田閒陌也.
+  - Williams' "to announce the emperor's coming":
+    Not necessarily the emperor's coming.
+    Kangxi merely has 吿也.
+  - Williams' "to die": Better rendered "to exterminate".
+  ==
 $$
 
 ### 疢2 | _(2)Ch(')an_ [[can2]]
