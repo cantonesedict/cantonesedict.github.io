@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2024-12-06
+* %date-modified --> 2024-12-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -613,11 +613,12 @@ W
     ==
   - [[Page~551 浸(3) _Tsam(3)_]]
     ==
-    - To soak through, to penetrate;
-    - to saturate, to steep in, to macerate, to wet;
-    - to submerge, to immerse; to flood, to lay under water, as fields;
+    - To soak through, to penetrate [[Kangxi: 漬也]];
+    - to saturate, to steep in, to macerate, to wet [[Kangxi: 潤也]];
+    - to submerge, to immerse [[Kangxi: 沒也]];
+    - to flood, to lay under water, as fields [[Kangxi: 涵也沈也澤之總名也]];
     - drenched, wet, imbued with, watered;
-    - gradually, gently;
+    - gradually, gently [[Kangxi: 漸也]];
     - _tsam(3) (2)sz'_
         [[zam3 sei2 浸死]]
         drowned;
