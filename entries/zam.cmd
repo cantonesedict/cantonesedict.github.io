@@ -221,28 +221,27 @@ U
   U+7972
 V
   ==
-  - cam1 (in 祲祥)
-  - zam3 (per 《廣韻》子禁切)
+  - cam1 (per Fan Wan)
+  - zam3 (alternative per 《廣韻》子禁切)
   ==
 F
   ==
-  - [[F2.36 ::[祲]:: _(1)Ts(')am_ (cam1)]] 情氣感祥也
+  - [[F2.36 ::[祲]:: _(1)Ts(')am_ (cam1)]] 精氣感祥也
   ==
 W
   ====
-  - [[Page~552 (1)祲 _(1)Ts(')am_ (cam1); here corrected to _(1)Tsam_ (zam1)]]
+  - [[Page~552 (1)祲 _(1)Ts(')am_ (cam1); here normalised to _(1)Tsam_ (zam1)]]
     ==
     - To influence, to act upon;
-    - a malign halo;
-    - abundant, great, full.
+    - a malign halo [[Kangxi: 妖氛也]];
+    - abundant, great, full [[Kangxi: 盛也]].
     ==
   ====
 C
   ==
+  - The reading _(1)ts(')am_ (cam1) is not unattested;
+    《洪武正韻牋》 has the reading 七林切, explained 精氣感祥又日旁氣.
   - Fan Wan entry: Corrected headword 䘲 to 祲.
-  - Although Fan Wan's reading _(1)ts(')am_ (cam1)
-    does appear in Kangxi (七林反),
-    its scope is limited to the place name 祲祥.
   ==
 S
   ==

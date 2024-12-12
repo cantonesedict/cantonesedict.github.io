@@ -160,13 +160,13 @@ U
   U+7972
 F
   ==
-  - [[F2.36 ::[祲]::]] 情氣感祥也
+  - [[F2.36 ::[祲]::]] 精氣感祥也
   ==
 W
   ====
   - [[Page~552 (1)祲]]
     --
-    [[Reading variation (in 祲祥). **See $祲zam1 for the canonical entry.**]]
+    [[Reading variation. **See $祲zam1 for the canonical entry.**]]
     --
   ====
 C
