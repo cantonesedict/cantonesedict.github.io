@@ -907,7 +907,7 @@ W
   ====
   - [[Page~18|n61 (4)塵]]
     ==
-    - Dust, small particles;
+    - Dust, small particles [[Kangxi: 埃也]];
     - effluvia, atoms, molecules;
     - the world;
     - worldly vice and pleasures;
