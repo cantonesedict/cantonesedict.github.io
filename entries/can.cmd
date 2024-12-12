@@ -541,8 +541,8 @@ W
   ====
   - [[Page~18|n61 (2)袗]]
     ==
-    - Single thin garments, black silk worn in summer;
-    - embroidered garments;
+    - Single thin garments [[Kangxi: 單也]], black silk worn in summer [[Kangxi: ::[玄]服::]];
+    - embroidered garments [[Kangxi: 畫衣]];
     - _(2)ch(')an (1)h(i/) kwik(7)_
         [[can2 hei1 gwik1 袗絺綌]]
         single grasscloth.
