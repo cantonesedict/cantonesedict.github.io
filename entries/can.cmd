@@ -190,15 +190,15 @@ W
   ====
   - [[Page~554 (1)親]]
     ==
-    - To love, to be attached to;
+    - To love, to be attached to [[Kangxi: 愛也]];
     - liking, pleased with;
-    - near, intimate;
-    - near to, belonging to one's self, personal, myself;
-    - a relative, related to, having affinity, kindred, kin, kith;
-    - parents;
-    - a wife;
+    - near, intimate [[Kangxi: 近也]];
+    - near to, belonging to one's self, personal, myself [[Kangxi: 躬也, 親猶自也]];
+    - a relative, related to, having affinity, kindred, kin, kith [[Kangxi: 襯也, 姻也, 親者屬也, 親九族也]];
+    - parents [[Kangxi: ::六親父母[...]也::]];
+    - a wife [[Kangxi: ::六親[...]妻[...]也::]];
     - affianced;
-    - used for _(1)san_ [[san1 新]], new;
+    - used for _(1)san_ [[san1 新]], new [[Kangxi: 通作新]];
     - _(1)ts(')an ts(')ik(7)_
         [[can1 cik1 親戚]]
         one's relatives;
