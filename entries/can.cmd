@@ -350,12 +350,11 @@ W
   ====
 C
   ==
-  - Williams' "To divide fields":
-    The roads dividing fields, rather than the action of dividing fields.
-    Kangxi has 井田閒陌也.
-  - Williams' "to announce the emperor's coming":
-    Not necessarily the emperor's coming.
-    Kangxi merely has 吿也.
+  - Williams' "To divide fields": This is a misreading of Kangxi 井田閒陌也,
+    which refers to the roads that divide fields,
+    rather than to the action of dividing fields.
+  - Williams' "to announce the emperor's coming": Kangxi merely has 吿也,
+    which is not specific to the emperor's coming.
   - Williams' "to die": Better rendered "to exterminate".
   ==
 $$
@@ -447,7 +446,7 @@ W
   - [[Page~18|n61 (2)矧]]
     ==
     - To stretch;
-    - still more, how much more;
+    - still more, how much more [[Kangxi: 况也]];
     - to grin wide;
     - _(2)ch(')an (u:)t[(9)]_
         [[can2 jyut6 矧曰]]
@@ -456,6 +455,8 @@ W
   ====
 C
   ==
+  - Williams' "to grin wide": This is a misreading of Kangxi 笑不至矧,
+    in which 矧 means "teeth", not "grin wide".
   - Williams' 矧曰: Corrected _(u:)t(8)_ (jyut3) to _(u:)t(9)_ (jyut6).
   ==
 $$
