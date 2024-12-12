@@ -417,10 +417,10 @@ W
   ====
   - [[Page~18|n61 (2)疹(2)疢]]
     ==
-    - Pustules of any kind;
-    - eruptions, pimples;
+    - Pustules of any kind [[Kangxi: 疹診也有結氣可得診見也]];
+    - eruptions, pimples [[Kangxi: 癮疹皮外小起也]];
     - a cutaneous disease;
-    - sore lips;
+    - sore lips [[Kangxi: 脣瘍也]];
     - _tau(6) (2)ch(')an_
         [[dau6 can2 痘疹]]^
         small pox pustules;
