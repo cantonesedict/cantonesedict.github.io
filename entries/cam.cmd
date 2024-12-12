@@ -523,14 +523,14 @@ W
   - [[Page~552 (4)尋]]
     ==
     - To hunt after, to search, on the track of;
-    - to seek, to investigate;
-    - to use, to employ;
-    - to continue, to connect with;
+    - to seek, to investigate [[Kangxi: 繹理也, 求也]];
+    - to use, to employ [[Kangxi: 用也]];
+    - to continue, to connect with [[Kangxi: 仍也繼也]];
     - usually, ordinarily;
-    - temporary, unexpectedly;
+    - temporary, unexpectedly [[Kangxi: 俄也]];
     - for a long time;
-    - common;
-    - a measure of eight cubits [[八尺]], or like the outstretched arms;
+    - common [[Kangxi: 俗謂庸常爲尋常]];
+    - a measure of eight cubits [[度名, 八尺曰尋]], or like the outstretched arms;
     - _(4)ts(')am (4)'m ch(e/)uk(9)_
         [[cam4 m4 zoek6 尋唔着]]
         I can not find it;
@@ -572,6 +572,9 @@ W
 C
   ==
   - Fan Wan entry: The headword 尋 is printed like ⿳彑⿰工几寸.
+  - Williams' "for a long time": Kangxi's explanation 長也
+    is accompanied by an example ending in 凡物長謂之尋,
+    so it appears to indicate spatial length rather than temporal.
   - Williams' 尋物: Probably assimilation of 尋日 (cam4 jat6) into 尋物 (cam4 mat6).
   ==
 E
