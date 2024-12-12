@@ -644,7 +644,7 @@ W
   ====
   - [[Page~18|n61 (2)鬒]]
     ==
-    - Bushy, black hair;
+    - Bushy, black hair [[Kangxi: 稠髮也, 黑髮也]];
     - a fine head of black hair.
     ==
   ====
