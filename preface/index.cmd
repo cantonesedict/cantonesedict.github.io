@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Preface.
-* %date-modified --> 2024-02-25
+* %date-modified --> 2024-12-12
 * %copyright-prior-years --> 2023--
 * %meta-description --> Williams' preface
 
@@ -89,7 +89,7 @@ one under examination. For instance, take the word _(5)lai_ [[lai5]] 禮, an imp
 one in Chinese literature. K(a/)ngh(i/) [[康熙]] says it means, "To follow
 (or tread in) [[履也]]; whatever men do in serving the gods to obtain
 happiness [[所以事神致福也]]; to put in form [[體也]], to obtain (or show) the form of an act [[得其事體也]]. A
-surname [[又姓]]." None of the metaphorical and derivative senses are
+surname [[姓]]." None of the metaphorical and derivative senses are
 given, which, as will be seen by reference to the character, have
 now become important and common. These generally have yet to
 be carefully collected from good authors, and their application
