@@ -456,8 +456,8 @@ W
   ====
   - [[Page~15|n58 讖(3)]]
     ==
-    - To verify, to prove;
-    - a prognostic;
+    - To verify, to prove [[Kangxi: 驗也]];
+    - a prognostic [[Kangxi: 凡讖緯皆言將來之驗也]];
     - to fulfill;
     - _ch(')am(3) (5)(u:)_
         [[cam3 jyu5 讖語]],
