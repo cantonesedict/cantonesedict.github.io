@@ -1004,13 +1004,13 @@ W
   ====
   - [[Page~18|n61 (4)陳]]
     ==
-    - To arrange, to set in order, to spread out;
+    - To arrange, to set in order, to spread out [[Kangxi: 列也布也]];
     - to say, to reply;
     - to state, to express;
     - to memorialize;
-    - a long time, an old thing;
-    - many, all;
-    - a feudal state near the present capital of Hon(a/)n [[河南]];
+    - a long time, an old thing [[Kangxi: 故也, 久也]];
+    - many, all [[Kangxi: 衆也]];
+    - a feudal state [[Kangxi: 國名]] near the present capital of Hon(a/)n [[河南]];
     - _tsoi(6) (4)ch(')an [ts(u:)t](9) (4)l(e/)ung_
         [[zoi6 can4 zyut6 loeng4 在陳絕糧]],
         to lack food in Ch(')in---to be in straits;
