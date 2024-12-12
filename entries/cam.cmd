@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2024-12-05
+* %date-modified --> 2024-12-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -71,10 +71,10 @@ W
   ====
   - [[Page~552 (1)侵]]
     ==
-    - To usurp, to incroach upon, to enter gradually;
-    - to appropriate, to plunder, to invade;
+    - To usurp, to incroach upon, to enter gradually [[Kangxi: 漸進也]];
+    - to appropriate, to plunder, to invade [[Kangxi: 朘削也]];
     - possessed, by as a spirit;
-    - bad, calamitous, as a year;
+    - bad, calamitous, as a year [[Kangxi: 歲凶]];
     - _(1)ts(')am hoi(6)_
         [[cam1 hoi6 侵害]]
         to injure insensibly;
@@ -285,9 +285,14 @@ W
     Read _(2)ts(')am_ [[cam2]];
     --
     ==
-    - diminutive, small.
+    - diminutive, small [[Kangxi: 貌不揚也, 短小曰侵]].
     ==
   ====
+C
+  ==
+  - Fan Wan entry: The explanation 漸進也 is erroneous
+    (it should apply to the level-tone reading _(1)ts(')am_ (cam1)).
+  ==
 S
   ==
   - $侵cam1
