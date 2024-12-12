@@ -481,10 +481,10 @@ W
   - [[Page~18|n61 (2)紾]]
     ==
     - To bind with cords;
-    - to turn[,] to twist;
+    - to turn[,] to twist [[Kangxi: 轉也]];
     - to revolve;
     - a revolution;
-    - perverse, crabbed.
+    - perverse, crabbed [[Kangxi: 戾也]].
     ==
   ====
 $$
