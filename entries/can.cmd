@@ -814,7 +814,7 @@ W
   ====
   - [[Page~19|n62 趁(3)趂(3)]]
     ==
-    - To follow, to come up behind, to walk after;
+    - To follow, to come up behind, to walk after [[Kangxi 趁: {𧾍=⿺走亶}也, 自後及之也, 逐也]];
     - to avail, to take;
     - to embrace an opportunity;
     - at the time of;
