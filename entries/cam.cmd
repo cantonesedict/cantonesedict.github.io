@@ -380,9 +380,9 @@ C
   - Williams' placement under _(2)Ch(')am_ (cam2) is idiosyncratic
     (and probably erroneous) because it does not follow any of the following:
     ==
-    - zam2 per Fan Wan (which places it between 枕 and 怎)
-    - cam4 per 《集韻》又持林切 quoted by Kangxi.
-    - sam2 per 《廣韻》式任切 rising.
+    - _(2)cham_ (zam2) per Fan Wan (which places it between 枕 and 怎)
+    - _(4)ch(')am_ (cam4) per 《集韻》又持林切 quoted by Kangxi.
+    - _(2)sham_ (sam2) per 《廣韻》式任切 rising.
     ==
     It is possible that Williams has simply misprinted (4)魫 as (2)魫,
     in which case _(2)ch(')am_ (cam4) is intended.
@@ -803,6 +803,7 @@ U
 V
   ==
   - sam2 (per 《廣韻》式任切 rising)
+  - zam2 (per Fan Wan)
   ==
 F
   ==
@@ -812,16 +813,16 @@ W
   ====
   - [[Page~15|n58 (2)[魫] _(2)Ch(')am_ (cam2); here corrected to _(4)Ch(')am_ (cam4)]]
     ==
-    - The roe or eggs of fish;
+    - The roe or eggs of fish [[Kangxi: 魚子]];
     - the name of a fish.
     ==
   ====
 C
   ====
-  - Williams misprints 魫 as {𩵫=⿰冘魚}; here corrected.
-  - See $魫cam2 for commentary on Williams' idiosyncratic reading _(2)ch(')am_ (cam2).
   - The reading _(4)ch(')am_ (cam4) is not unattested;
     Kangxi has 又持林切音沉義同.
+  - Williams misprints 魫 as {𩵫=⿰冘魚}; here corrected.
+  - See $魫cam2 for commentary on Williams' idiosyncratic reading _(2)ch(')am_ (cam2).
   ====
 S
   ==
