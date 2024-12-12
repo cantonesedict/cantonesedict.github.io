@@ -324,14 +324,14 @@ W
   ====
   - [[Page~552 (2)寢]]
     ==
-    - To sleep;
+    - To sleep [[Kangxi: 臥也]];
     - rest, sleep;
-    - to rest, to desist, to repose;
-    - a back chamber, a bed-chamber;
-    - an adytum in a temple;
+    - to rest, to desist, to repose [[Kangxi: 息也]];
+    - a back chamber, a bed-chamber [[Kangxi: 堂室也]];
+    - an adytum in a temple [[Kangxi: 寢廟凡廟前曰廟後曰寢]];
     - a retiring-room in a palace;
-    - a dwelling-house;
-    - a mausoleum or house near a grave;
+    - a dwelling-house [[Kangxi: 凡居室皆曰寢]];
+    - a mausoleum or house near a grave [[Kangxi: 陵寢]];
     - _(1)on (2)ts(')am_
         [[on1 cam2 安寢]],
         to sleep quietly;
