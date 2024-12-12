@@ -569,8 +569,8 @@ W
   ====
   - [[Page~18|n61 (2)診]]
     ==
-    - To examine, to look at;
-    - to try, to verify;
+    - To examine, to look at [[Kangxi: 視也]];
+    - to try, to verify [[Kangxi: 驗也]];
     - _(2)ch(')an mung(6)_
         [[can2 mung6 診夢]]
         to interpret a dream;
