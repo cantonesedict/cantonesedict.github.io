@@ -1876,6 +1876,7 @@ U
 A
   ==
   - $酧4
+  -{.modern} 醻
   ==
 F
   ==
@@ -1886,7 +1887,7 @@ W
   ====
   - [[Page~27|n70 (4)酬(4)酧]]
     ==
-    - To pledge a guest;
+    - To pledge a guest [[Kangxi: 主人實觶酬賔]];
     - to recompense;
     - to make a return;
     - to invite a guest to drink;
