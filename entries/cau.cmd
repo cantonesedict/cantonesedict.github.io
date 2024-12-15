@@ -990,7 +990,7 @@ W
   ====
   - [[Page~28|n71 糗(3)]]
     ==
-    - Roasted or parched wheat or rice;
+    - Roasted or parched wheat or rice [[Kangxi: 熬米麥也又乾飯屑也]];
     - coarsely pounded rice like grits;
     - _ch(')au(3) (4)l(e/)ung_
         [[cau3 loeng4 糗糧]],
