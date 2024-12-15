@@ -213,12 +213,12 @@ W
   ====
   - [[Page~558 輯(7)]]
     ==
-    - To collect the materials to form a chariot, a car well arranged;
-    - union, concord, agreement;
+    - To collect the materials to form a chariot, a car well arranged [[Kangxi: 車和輯也 etc.]];
+    - union, concord, agreement [[Kangxi: 和也, 睦也]];
     - to make every thing agreeable, put in its proper place;
     - to compile;
-    - to act gently and cordially;
-    - to collect, to congregate;
+    - to act gently and cordially [[Kangxi: 顏色和柔亦曰輯]];
+    - to collect, to congregate [[Kangxi: 斂也]];
     - _(4)wo ts(')ap(7)_
         [[wo4 cap1 和輯]]
         in good accord, to pacify;
