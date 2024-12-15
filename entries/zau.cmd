@@ -1474,9 +1474,9 @@ W
   ====
   - [[Page~563 (1)甃 _(1)Ts(')au_ (cau1); here corrected to _Chau(3)_ (zau3)]]
     ==
-    - The brick lining of a well;
-    - to lay, as bricks;
-    - to pile up;
+    - The brick lining of a well [[Kangxi: 井甓也]];
+    - to lay, as bricks [[Kangxi: 結砌也]];
+    - to pile up [[Kangxi: 以塼壘井修井之壞謂之甃]];
     - to finish off a well.
     ==
   ====
