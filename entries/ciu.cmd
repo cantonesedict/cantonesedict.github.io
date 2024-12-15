@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ciu
-* %date-modified --> 2024-12-06
+* %date-modified --> 2024-12-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -439,6 +439,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $俏3
+- $偢3
 - $峭3
 - $肖3
 - $誚3
@@ -492,6 +493,30 @@ C
 S
   ==
   - $俏ciu2
+  ==
+$$
+
+###+ 偢3 | _Ts(')i(u/)(3)_ (ciu3)
+
+$$
+R
+  ⼈ + 9
+U
+  U+5062
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~562 (1)偢 _(1)Ts(')au_ (cau1); here corrected to _Ts(')i(u/)(3)_ (ciu3)]]
+    ==
+    - Malevolent [[Kangxi: 傻偢不仁]];
+    - ill-natured;
+    - [[...]].
+    ==
+  ====
+S
+  ==
+  - $偢cau1
   ==
 $$
 

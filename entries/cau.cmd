@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2024-12-05
+* %date-modified --> 2024-12-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -71,7 +71,7 @@ $$
 
 ### 偢1 | _(1)Ts(')au_ [[cau1]]
 
-$$
+$$.
 R
   ⼈ + 9
 U
@@ -82,17 +82,13 @@ W
   ====
   - [[Page~562 (1)偢]]
     ==
-    - Malevolent;
-    - ill-natured;
-    - [[see $瞅cau1 for "notice" sense.]]
+    - [[See $偢ciu3 for "inhumane" sense]];
+    - [[Alternative form of 瞅. **See $瞅cau1 for the canonical entry.**]]
     ==
   ====
-C
+S
   ==
-  - The character 偢 is not attested in the Middle Chinese rime books.
-    Kangxi quotes 《集韻》七肖切音峭傻偢不仁;
-    from this, the expected reading (for the classical "malevolent" sense)
-    is 去聲 ciu3, not 上聲 ciu2 as recorded by some.
+  - $偢ciu3
   ==
 $$
 
