@@ -1319,11 +1319,17 @@ W
   ====
   - [[Page~27|n70 (4)幬]]
     ==
-    - A single curtain on a carriage;
-    - a leather screen or partition;
+    - A ~~single~~ curtain on a carriage [[Kangxi: 車帷也]];
+    - a leather screen or partition [[Kangxi: 幔轂之革也]];
     - [[see $幬dou6 for "cover" senses]].
     ==
   ====
+C
+  ==
+  - Williams' "single curtain": The qualifier "single" is erroneous.
+    Whilst the main definition of 幬 in Kangxi is 襌帳也,
+    襌 means "unlined", which is slightly different to "single".
+  ==
 S
   ==
   - $幬dou6 (TODO)
