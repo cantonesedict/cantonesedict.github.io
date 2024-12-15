@@ -1699,7 +1699,7 @@ W
   - [[Page~26|n69 (4)讐(4)仇; here normalised to 讎]]
     ==
     - [[See $仇sau4 for "enmity" senses]];
-    - to verify, to collate with;
+    - to verify, to collate with [[Kangxi: 應驗也]];
     - [[...]];
     - used for the next [[$酬4]];
     - [[...]];
