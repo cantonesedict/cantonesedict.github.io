@@ -391,15 +391,18 @@ W
   ====
   - [[Page~562 ::(1)[愀]^:: _(1)Ts(')au_ (cau1); here normalised to _(2)Ts(')i(u/)_ (ciu2)]]
     ==
-    - To blush, to redden, to change color;
-    - downhearted, sad.
+    - To blush, to redden, to change color [[Kangxi: 容色變也]];
+    - ~~downhearted, sad~~.
     ==
   ====
 C
   ==
+  - The reading _(1)ts(')au_ (cau1) is not unattested;
+    Kangxi has ::[...]愀然變容[...]又《集韻》雌由切音秋[...]義{𠀤=⿱夶一}同::.
   - Williams misprints 愀 as 愁; here corrected.
-  - The reading _(1)ts(')au_ (cau1) from Fan Wan is not otherwise unattested;
-    Kangxi quotes ::[...]愀然變容[...]又《集韻》雌由切音秋[...]義{𠀤=⿱夶一}同::.
+    Note that, in misprinting 愀 as 愁,
+    Williams has included the definition "downhearted, sad".
+    That definition is only applicable to 愁, and has been struck here.
   ==
 S
   ==
