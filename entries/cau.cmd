@@ -1455,9 +1455,9 @@ W
   ====
   - [[Page~27|n70 (4)稠]]
     ==
-    - Grain growing close;
+    - Grain growing close [[Kangxi: 穊也]];
     - thick set, close together;
-    - crowded, dense;
+    - crowded, dense [[Kangxi: 密也]];
     - _(4)yan (1)(i/)n (4)ch(')au mat(9)_
         [[jan4 jin1 cau4 mat6 人煙稠密]]
         people closely crowded;
