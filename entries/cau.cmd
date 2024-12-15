@@ -1788,6 +1788,10 @@ W
         undecided, undetermined, unable to progress.
     ==
   ====
+C
+  ==
+  - Williams' "Embarrassed": In the (now) archaic sense of "impeded", "obstructed".
+  ==
 $$
 
 ### 遒4 | _(4)Ts(')au_ [[cau4]]

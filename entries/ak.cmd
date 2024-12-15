@@ -306,6 +306,7 @@ W
 C
   ==
   - Most modern speakers prefer the longer syllable _(a/)k(7)_ (aak1).
+  - Williams' "Embarrassed": In the (now) archaic sense of "impeded", "obstructed".
   ==
 S
   ==

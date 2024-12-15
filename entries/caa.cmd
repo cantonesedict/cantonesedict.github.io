@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2024-12-06
+* %date-modified --> 2024-12-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -551,7 +551,7 @@ W
   ====
   - [[Page~9|n52 (4)嗏]]
     ==
-    - A euphonic final sound used in chanting, to prolong the line.
+    - A euphonic final sound used in chanting, to prolong the line [[Fan Wan: 唱曲長聲也]].
     ==
   ====
 $$

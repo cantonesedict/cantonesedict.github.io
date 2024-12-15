@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ang
-* %date-modified --> 2024-12-03
+* %date-modified --> 2024-12-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -297,8 +297,8 @@ C
   ==
 S
   ==
-  - $更gaang1
-  - $更gang1
-  - $更gang3
+  - $更gaang1 (TODO)
+  - $更gang1 (TODO)
+  - $更gang3 (TODO)
   ==
 $$
