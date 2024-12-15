@@ -1298,7 +1298,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected ⿰才巳 to 犯.
-  - Williams' "to handcuff": Kangxi has 囚拘也主拘繫當𠛬殺者
+  - Williams' "to handcuff": Kangxi has 囚拘也主拘繫當{𠛬=⿰幵刂}殺者
     followed by commentary on various wooden restraints
     depending on the crime/punishment.
     In particular, 桎 applies to the feet,
