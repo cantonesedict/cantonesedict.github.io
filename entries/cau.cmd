@@ -1319,16 +1319,14 @@ W
   ====
   - [[Page~27|n70 (4)幬]]
     ==
-    - A ~~single~~ curtain on a carriage [[Kangxi: 車帷也]];
+    - A single curtain [[Kangxi: 襌帳也]] on a carriage [[Kangxi: 車帷也]];
     - a leather screen or partition [[Kangxi: 幔轂之革也]];
     - [[see $幬dou6 for "cover" senses]].
     ==
   ====
 C
   ==
-  - Williams' "single curtain": The qualifier "single" is erroneous.
-    Whilst the main definition of 幬 in Kangxi is 襌帳也,
-    襌 means "unlined", which is slightly different to "single".
+  - Williams' "single curtain": Better rendered "unlined curtain".
   ==
 S
   ==
@@ -1657,8 +1655,8 @@ W
   ====
   - [[Page~27|n70 (4)裯]]
     ==
-    - A single coverlet;
-    - a bed curtain;
+    - A single coverlet [[Kangxi: 被也, 襌被也]];
+    - a bed curtain [[Kangxi: 牀帳也]];
     - an under-shirt;
     - to cover, as with bed clothes.
     ==
@@ -1666,6 +1664,10 @@ W
     Read _(1)t(o\)_ [[dou1]]; [[**see $裯dou1**]].
     --
   ====
+C
+  ==
+  - Williams' "single coverlet": Better rendered "unlined coverlet".
+  ==
 S
   ==
   - $裯dou1 (TODO)
