@@ -1246,14 +1246,14 @@ W
   ====
   - [[Page~27|n70 (4)儔]]
     --
-    Used for the preceding [[$疇4]].
+    Used for the preceding [[$疇4]] [[Kangxi: 通作疇]].
     --
     ==
-    - A company of four;
-    - a party;
+    - A company of four [[Kangxi: 四人爲儔]];
+    - a party [[Kangxi: 衆也]];
     - a comrade;
     - a mate, fellows, friends;
-    - a class;
+    - a class [[Kangxi: 等類也]];
     - _(4)ch(')au lui(6)_
         [[cau4 leoi6 儔類]]
         a concourse;
