@@ -340,9 +340,9 @@ W
   ====
   - [[Page~562 (1)揫(1)揪 _(1)Ts(')au_ (cau1); here normalised to _(1)Tsau_ (zau1)]]
     ==
-    - To bind, to gather in sheaves;
+    - To bind, to gather in sheaves [[Kangxi 揫: 束也, 斂也]];
     - to compress in binding;
-    - to collect, to assemble;
+    - to collect, to assemble [[Kangxi 揫: 聚也]];
     - to lift, to grasp, to clutch;
     - to gripe;
     - _(1)[tsau] ch(u:)(6)_
