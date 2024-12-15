@@ -1782,7 +1782,7 @@ W
   ====
   - [[Page~27|n70 (4)躊]]
     ==
-    - Embarrassed;
+    - Embarrassed [[Kangxi: 躊躇也]];
     - _(4)ch(')au (4)ch(')(u:)_
         [[cau4 cyu4 躊躇]],
         undecided, undetermined, unable to progress.
