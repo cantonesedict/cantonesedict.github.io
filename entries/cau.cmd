@@ -546,7 +546,7 @@ W
   ====
   - [[Page~26|n69 (1)篘]]
     ==
-    - A strainer made of wicker or bamboo for straining spirits.
+    - A strainer made of wicker or bamboo for straining spirits [[Kangxi: 酒籠漉取酒也]].
     ==
   ====
 $$
