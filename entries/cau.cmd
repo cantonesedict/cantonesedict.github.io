@@ -856,7 +856,7 @@ W
   ====
   - [[Page~28|n71 嗅(3)]]
     ==
-    - To smell, to perceive odors as a dog does;
+    - To smell [[Kangxi: 以鼻就臭, 以鼻取氣]], to perceive odors as a dog does;
     - the plaintive cry of birds.
     ==
   ====
