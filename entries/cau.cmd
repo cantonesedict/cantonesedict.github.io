@@ -1490,8 +1490,8 @@ W
   ====
   - [[Page~28|n71 (4)籌]]
     ==
-    - To compute, to calculate;
-    - to devise, to plan, to arrange;
+    - To compute, to calculate [[Kangxi: 籌算也]];
+    - to devise, to plan, to arrange [[Kangxi: 籌策]];
     - a lot;
     - a reed;
     - a time, a tally, a tillot;
@@ -1522,6 +1522,7 @@ W
   ====
 C
   ==
+  - Williams' "To compute, to calculate": Alternatively, a counting-stick.
   - Williams' 更籌: Corrected _(1)kang_ (gang1) to _(1)k(a/)ng_ (gaang1).
   ==
 E
