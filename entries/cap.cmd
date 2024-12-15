@@ -173,6 +173,10 @@ R
   ⾋ + 9
 U
   U+847A
+V
+  ==
+  - zap1 (per 《廣韻》子入切 for "spinous-grass" sense)
+  ==
 F
   ==
   - [[F2.39 葺]] 修補也
@@ -181,9 +185,9 @@ W
   ====
   - [[Page~558 葺(7)]]
     ==
-    - To put in order, to repair;
-    - to cover, to thatch;
-    - a spinous grass;
+    - To put in order, to repair [[Kangxi: 修補也]];
+    - to cover, to thatch [[Kangxi: 覆也, 苫也]];
+    - a spinous grass [[Kangxi: 茨也]];
     - _(1)sau ts(')ap(7)_
         [[sau1 cap1 修葺]]
         to refit, as a house;
