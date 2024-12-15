@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cat
-* %date-modified --> 2024-12-06
+* %date-modified --> 2024-12-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -140,7 +140,8 @@ W
     --
     --
     The second [[柒]], used for the compound form,
-    is also a sort of tree, and a contracted form of the next [[$漆1]].
+    is also a sort of tree [[Kangxi 柒: 木名]],
+    and a contracted form of the next [[$漆1]] [[Kangxi 柒: 俗漆字]].
     --
   ====
 C
