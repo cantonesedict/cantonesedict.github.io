@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cap
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-12-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -69,9 +69,9 @@ W
   ====
   - [[Page~557 戢(7)]]
     ==
-    - To collect in an arsenal, to store up weapons;
-    - to gather;
-    - to desist from, to lay aside, as arms;
+    - To collect in an arsenal, to store up weapons [[Kangxi: 藏兵也]];
+    - to gather [[Kangxi: 斂也]];
+    - to desist from [[Kangxi: 止也]], to lay aside, as arms;
     - to fold, as wings;
     - _(4)ts(')ai ts(')ap(7) ts(')ap(7)_
         [[cai4 cap1 cap1 齊戢戢]]
