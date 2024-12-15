@@ -857,7 +857,7 @@ W
   - [[Page~28|n71 嗅(3)]]
     ==
     - To smell [[Kangxi: 以鼻就臭, 以鼻取氣]], to perceive odors as a dog does;
-    - the plaintive cry of birds.
+    - the plaintive cry of birds [[Fan Wan: 鳥哀鳴聲]].
     ==
   ====
 $$
@@ -1400,9 +1400,9 @@ W
   ====
   - [[Page~28|n71 (4)犨]]
     ==
-    - A white ox;
-    - the lowing or snorting of a cow;
-    - to issue from, to proceed from.
+    - A white ox [[Fan Wan: 白色牛]];
+    - the lowing or snorting of a cow [[Kangxi: 牛息聲]];
+    - to issue from, to proceed from [[Kangxi: 出也]].
     ==
   ====
 $$
