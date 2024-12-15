@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caan
-* %date-modified --> 2024-12-06
+* %date-modified --> 2024-12-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -463,7 +463,7 @@ W
   ====
   - [[Page~556 粲(3)]]
     ==
-    - Half a _(2)tau_ [[dau2 斗]] or peck;
+    - ~~Half a _(2)tau_ [[dau2 斗]] or peck;~~
     - a meal [[Kangxi: 餐也]];
     - many, much, a multitude [[Kangxi: 衆意]];
     - clear, bright [[Kangxi: 察也明也, 光明也]];

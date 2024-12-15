@@ -402,7 +402,7 @@ C
   - Williams misprints 愀 as 愁; here corrected.
     Note that, in misprinting 愀 as 愁,
     Williams has included the definition "downhearted, sad".
-    That definition is only applicable to 愁, and has been struck here.
+    That definition is only applicable to 愁.
   ==
 S
   ==

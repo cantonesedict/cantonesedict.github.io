@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ak
-* %date-modified --> 2024-12-05
+* %date-modified --> 2024-12-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -82,7 +82,7 @@ F
   ==
 W
   ====
-  - [[Page~3 厄(7)]]
+  - [[Page~3 ::厄(7)~~{𢨪=⿸戶巳}(7)~~::]]
     ==
     - [[See $厄ngo5 for "tree-knot" sense]];
     - small door in a house [[Kangxi: 同戹]];

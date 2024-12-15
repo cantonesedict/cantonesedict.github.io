@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aau
-* %date-modified --> 2024-12-06
+* %date-modified --> 2024-12-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -119,7 +119,7 @@ W
     ==
     - To snap a thing in two [[Kangxi: 手拉也, 折也]];
     - to twist, to break;
-    - to drag along;
+    - ~~to drag along;~~
     - _(2)(a/)u ch(i/)t(8)_
         [[aau2 zit3 拗折]]
         to break in two;

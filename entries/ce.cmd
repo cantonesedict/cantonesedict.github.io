@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2024-10-16
+* %date-modified --> 2024-12-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -237,7 +237,6 @@ $$
 - $且2
 - $哆2
 - $扯2
-- $抯2
 - $撦2
 ==
 </nav>
@@ -399,37 +398,6 @@ W
         I'm off.
     ==
   ====
-E
-  ====
-  - 【扯】 (ce2):
-    ++
-    1. To leave.
-       ==
-       - 你扯啦 (nei5 ce2 laa1): "Leave!"
-       ==
-    ++
-  ====
-$$
-
-### 抯2 | _(2)Ch(')(e/)_ [[ce2]]
-
-$$.
-R
-  ⼿ + 5
-U
-  U+62AF
-F
-  ==
-  - [[F2.84 抯]] 止也拽也
-  - [[F2.84 扯]] 同上
-  ==
-W
-  ====
-  - [[Page~31|n74 (2)撦(2)抯(2)扯]]
-    --
-    [[...]]
-    --
-  ====
 C
   ====
   - Fan Wan (and Williams following it) considers 抯 the same as 扯.
@@ -441,7 +409,16 @@ C
     3. _(2)ts(e/)_ (ze2) from 兹野切, also explained 取也.
     ++
     None of these are 陰上 _(2)ch(')(e/)_ (ce2).
-    Instead, see $扯ce2.
+  ====
+E
+  ====
+  - 【扯】 (ce2):
+    ++
+    1. To leave.
+       ==
+       - 你扯啦 (nei5 ce2 laa1): "Leave!"
+       ==
+    ++
   ====
 $$
 

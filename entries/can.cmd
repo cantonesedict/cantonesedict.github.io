@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2024-12-13
+* %date-modified --> 2024-12-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -338,9 +338,9 @@ W
   ====
   - [[Page~18|n61 (2)畛]]
     ==
-    - To divide fields;
+    - ~~To divide fields;~~
     - to come before the gods [[Kangxi: 致也]];
-    - to announce the emperor's coming;
+    - to announce ~~the emperor's coming~~;
     - to die [[Kangxi: 殄也, 謂殄絕]];
     - a motive;
     - _(4)kw(')ai (2)ch(')an_
@@ -447,7 +447,7 @@ W
     ==
     - To stretch;
     - still more, how much more [[Kangxi: 况也]];
-    - to grin wide;
+    - ~~to grin wide;~~
     - _(2)ch(')an (u:)t[(9)]_
         [[can2 jyut6 矧曰]]
         to say further.

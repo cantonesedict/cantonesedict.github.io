@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2024-12-12
+* %date-modified --> 2024-12-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -194,13 +194,13 @@ W
   ====
   - [[Page~552 (1)葠]]
     --
-    Used for _(1)sham_ [[sam1]] 參 ginseng, but erroneously
+    Used for _(1)sham_ [[sam1]] 參 ginseng, ~~but erroneously~~
     [[**see $葠sam1**]].
     --
   ====
 C
   ==
-  - Williams' "erroneously": Actually, Kangxi considers 薓 the original form,
+  - Williams' "but erroneously": Actually, Kangxi considers 薓 the original form,
     and 葠 and 參 variants for _(1)sham_ (sam1) "ginseng".
   ==
 S

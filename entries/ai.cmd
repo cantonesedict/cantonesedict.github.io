@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ai
-* %date-modified --> 2024-12-05
+* %date-modified --> 2024-12-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -291,7 +291,7 @@ W
   - [[Page~2 縊(3)]]
     ==
     - To hang, to strangle one's self [[Kangxi: 經也, 懸繩曰縊]];
-    - the warp of cloth;
+    - ~~the warp of cloth;~~
     - _ai(3) (2)sz' (2)kwai_
         [[ai3 sei2 gwai2 縊死鬼]],
         ghost of a suicide;
@@ -302,7 +302,7 @@ W
   ====
 C
   ==
-  - Williams' "warp of cloth": This is a misreading of Kangxi 經也.
+  - Williams' "the warp of cloth": This is a misreading of Kangxi 經也.
   ==
 $$
 
