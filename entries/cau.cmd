@@ -882,15 +882,15 @@ W
   ====
   - [[Page~563 凑(3)湊(3)]]
     ==
-    - To collect, to gather;
+    - To collect, to gather [[Kangxi: 一曰聚也]];
     - to run together;
     - to run into each other;
-    - a gathering on the water, as at a regatta;
+    - a gathering on the water, as at a regatta [[Kangxi: 水上人所會也]];
     - a reunion;
     - to go with one, to take care of;
     - with, together;
     - a concurrence of circumstances, to estimate the probabilities of;
-    - to strive to excel;
+    - to strive to excel [[Kangxi: 競進也]];
     - for;
     - _(5)n(i/) h(u:)(3) ts(')au(3) (5)ngo (2)t(a/) [t(')ing](3)_
         [[nei5 heoi3 cau3 ngo5 daa2 ting3 你去湊我打聽]]
