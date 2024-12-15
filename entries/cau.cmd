@@ -420,17 +420,17 @@ W
   ====
   - [[Page~26|n69 (1)瘳]]
     ==
-    - Convalescent;
+    - Convalescent [[Kangxi: 疾病瘉也]];
     - curable;
     - to cure;
-    - _k(')(u:)t(8) tsat(9) [fat](7) (1)ch(')au_
-        [[kyut3 zat6 fat1 cau1 厥疾弗瘳]],
+    - _k(')(u:)t(8) tsat(9) pat(7) (1)ch(')au_
+        [[kyut3 zat6 bat1 cau1 厥疾不瘳]],
         his disease was incurable.
     ==
   ====
 C
   ==
-  - Williams' 厥疾弗瘳: Corrected _pat(7)_ (bat1) to _fat(7)_ (fat1) per 《書經》.
+  - Williams' 厥疾不瘳: 《書經》 has 厥疾弗瘳.
   ==
 $$
 
