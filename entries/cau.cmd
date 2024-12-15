@@ -565,8 +565,8 @@ W
   - [[Page~27|n70 (4)紬 _(4)Ch(')au_ (cau4); here corrected to _(1)Ch(')au_ (cau1)]]
     ==
     - [[...]];
-    - to draw out threads for weaving;
-    - to arrange the details of a subject, to search for first causes;
+    - to draw out threads for weaving [[Kangxi: 紬抽也]];
+    - to arrange the details of a subject, to search for first causes [[Kangxi: 紬繹者引其端緒也]];
     - [[...]].
     ==
   ====
@@ -1541,8 +1541,8 @@ W
   ====
   - [[Page~27|n70 (4)紬]]
     ==
-    - [[See $綢cau4 for "silk" senses]];
-    - [[see $紬cau1 for "draw out" senses]].
+    - [[Alternative form of 綢. **See $綢cau4 for the canonical entry.**]]
+    - [[See $紬cau1 for "draw out" senses]].
     ==
   ====
 S
