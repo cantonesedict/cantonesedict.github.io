@@ -489,8 +489,8 @@ W
     --
     ==
     - [[See $簇cuk1 for "small-bamboo", "cluster", and other senses]];
-    - a nest;
-    - a framework or whisk on which silk-worms spin coccoons;
+    - a nest [[Kangxi 蔟: 巢也]];
+    - a framework or whisk on which silk-worms spin coccoons [[Kangxi 蔟: ::行[蠶]蓐::]];
     - [[...]].
     ==
     --
