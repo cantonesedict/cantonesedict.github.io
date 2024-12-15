@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cang
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-12-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -64,9 +64,9 @@ W
     ==
     - A story of a house;
     - a layer, a strata, a tier, a stage;
-    - a lamina, a plate, or whatever is piled or laid on;|
+    - a lamina, a plate, or whatever is piled or laid on [[Kangxi: 凡物之重者通曰層]];
     - still more, added to;
-    - a step, a degree above;
+    - a step, a degree above [[Kangxi: 級也]];
     - a classifier of stories;
     - _k(o\) (5)k(')(u:) yat(7) (4)ts(')ang_
         [[gou1 keoi5 jat1 cang4 高佢一層]],
