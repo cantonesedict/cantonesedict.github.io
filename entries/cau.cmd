@@ -1280,8 +1280,8 @@ W
   ====
   - [[Page~563 (4)囚]]
     ==
-    - To imprison, to confine, to cage;
-    - to handcuff;
+    - To imprison, to confine, to cage [[Kangxi: 繫也, 拘也]];
+    - ~~to handcuff;~~
     - a prisoner, a felon;
     - a prison;
     - _(4)ts(')au (4)lung_
@@ -1298,6 +1298,11 @@ W
 C
   ==
   - Fan Wan entry: Corrected ⿰才巳 to 犯.
+  - Williams' "to handcuff": Kangxi has 囚拘也主拘繫當𠛬殺者
+    followed by commentary on various wooden restraints
+    depending on the crime/punishment.
+    In particular, 桎 applies to the feet,
+    so 囚 is better rendered generically as "restrain", rather than "handcuff".
   ==
 $$
 
