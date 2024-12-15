@@ -116,9 +116,9 @@ W
   ====
   - [[Page~557 濈(7)]]
     ==
-    - Water rapidly flowing out;
-    - rapid;
-    - cordial, harmonious, agreeing;
+    - Water rapidly flowing out [[Kangxi: 濈水行出也]];
+    - rapid [[Kangxi: 疾貌]];
+    - cordial, harmonious, agreeing [[Kangxi: 和也]];
     - to accord with.
     ==
   ====
