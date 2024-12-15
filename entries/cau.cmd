@@ -591,7 +591,7 @@ W
   ====
   - [[Page~563 (1)鞦]]
     ==
-    - The traces of a carriage;
+    - The traces of a carriage [[Kangxi: 車鞦也]];
     - _(1)ts(')au (1)ts(')(i/)n_
         [[cau1 cin1 鞦韆]],
         a swing, a whirligig, a see-saw;
