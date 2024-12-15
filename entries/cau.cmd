@@ -488,11 +488,11 @@ W
   ====
   - [[Page~562 (1)秋]]
     ==
-    - Autumn;
+    - Autumn [[Kangxi: 金行之時]];
     - harvest, the time of reaping;
     - the return of the year, a year;
     - autumnal;
-    - sorrowful, unhappy;
+    - sorrowful, unhappy [[Kangxi: 西方者秋秋愁也 etc.]];
     - _mak(9) (1)ts(')au_
         [[mak6 cau1 麥秋]],
         wheat harvest;
