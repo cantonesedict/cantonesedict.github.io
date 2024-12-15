@@ -1352,8 +1352,8 @@ W
   ====
   - [[Page~27|n70 (4)惆]]
     ==
-    - Disappointed;
-    - deceived;
+    - Disappointed [[Kangxi: 失意也]];
+    - ~~deceived;~~
     - frustrated;
     - _(4)ch(')au ch(e/)ung(3)_
         [[cau4 zoeng3 惆悵]]
