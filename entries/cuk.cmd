@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cuk
-* %date-modified --> 2024-12-05
+* %date-modified --> 2024-12-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -326,12 +326,11 @@ W
     These two [[蔟, 簇]] are used interchangeably.
     --
     ==
-    - Tufts of small bamboo;
-    - to collect, to crowd together;
+    - Tufts of small bamboo [[Kangxi 簇: 小竹]];
+    - to collect, to crowd together [[Kangxi 蔟: 與簇同聚也攢也]];
     - a crowd of people;
     - [[see $蔟cuk1 for "nest" and "silkworm-frame" senses]];
-    - a mold for cakes;
-    - head or barb of a dart;
+    - [[see $簇cok3 for "cake-frame" and "arrowhead" senses]];
     - _[ts(')uk(7)] (2)yung (4)ts(')(i/)n (4)loi_
         [[cuk1 jung2 cin4 loi4 簇擁前來]],
         came pressing on in a crowd.
@@ -344,13 +343,11 @@ C
   ==
   - Williams does not provide separate entries for 簇 and $蔟1.
     I have split things up accordingly.
-  - Strictly, the "arrowhead" and "cake-mould" senses
-    should be read _ch(')ok(8)_ (cok3);
-    Kangxi quotes 又《玉篇》楚角切矢金也 and 又《集韻》測角切音娕作餠具.
   ==
 S
   ==
   - $簇cau3
+  - $簇cok3
   - $簇zuk6
   ==
 $$

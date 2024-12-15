@@ -5,12 +5,12 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cok
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-12-15
 * %copyright-prior-years --> 2023--
 
 %%%
 
-#{.williams} Ts(')ok. [[cok]]
+#{.williams} <ins class="modern">Ch(')ok</ins> Ts(')ok. [[cok]]
 
 <## tones ##>
 <nav class="sideways">
@@ -23,10 +23,12 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 WH
   ==
+  - <ins class="modern">Ch(')ok. (Not present)</ins>
   - Ts(')ok. [[Page~592]]
   ==
 WP
   ==
+  - <span class="modern">Ch(')ok = [tɕʰɔːk̚]</span>
   - Ts(')ok <span class="modern">= [tsʰɔːk̚]</span>
   ==
 MP
@@ -36,13 +38,14 @@ MP
 $$
 
 
-##{#3 .williams} Ts(')ok(8) [[cok3 低陰入]]
+##{#3 .williams} <ins class="modern">Ch(')ok(8)</ins> Ts(')ok(8) [[cok3 低陰入]]
 
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
 - $剒3
 - $厝3
+- $簇3
 - $錯3
 ==
 </nav>
@@ -126,6 +129,39 @@ C
 S
   ==
   - $厝cou3
+  ==
+$$
+
+###+ 簇3 | _Ch(')ok(8)_ (cok3)
+
+$$
+R
+  ⽵ + 11
+U
+  U+7C07
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~599 蔟(9)簇(9) _Tsuk(9)_ (zuk6); here corrected to _Ch(')ok(8)_ (cok3)]]
+    --
+    [[...]]
+    --
+    ==
+    - [[...]];
+    - a mold for cakes [[Kangxi 簇: 作餠具]];
+    - head or barb of a dart [[Kangxi 簇: 矢金也]];
+    - [[...]].
+    ==
+    --
+    [[...]]
+    --
+  ====
+S
+  ==
+  - $簇cau3
+  - $簇cuk1
+  - $簇zuk6
   ==
 $$
 
