@@ -110,7 +110,7 @@ W
   - [[Page~557 (4)曾]]
     ==
     - An adverb of time;
-    - past, already, done;
+    - past, already, done [[Kangxi: 經也, 嘗也]];
     - how?
     - a sign of past time;
     - _(4)'m (4)ts(')ang_ [[m4 cang4 唔曾]]^
