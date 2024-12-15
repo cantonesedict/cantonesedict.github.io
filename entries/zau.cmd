@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2024-12-06
+* %date-modified --> 2024-12-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -479,8 +479,8 @@ W
     - [[...]];
     - a small tributary of the Yellow~R.
       near Lin hien [[臨縣]] in Sh(a/)ns(i/) [[山西]];
-    - cool;
-    - mournful, to excite sad feelings.
+    - cool [[Kangxi: 涼貌]];
+    - mournful [[Kangxi: 憂愁貌]], to excite sad feelings.
     ==
   ====
 S

@@ -327,10 +327,15 @@ W
   ====
   - [[Page~562 (1)湫]]
     ==
-    - A pond, a fish-pond, a pool;
+    - A pond, a fish-pond, a pool [[Kangxi: 北人呼水池爲湫]];
     - [[see $湫zau1 for proper name and other senses]];
     ==
   ====
+C
+  ==
+  - Kangxi has the "pool" sense under 卽由切 or 將由切 _(1)tsau_ (zau1),
+    but 《廣韻》 has 七由切 _ts(')au_ (cau1), explained 水池名北人呼.
+  ==
 S
   ==
   - $湫zau1
