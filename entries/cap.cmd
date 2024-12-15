@@ -139,8 +139,8 @@ W
   ====
   - [[Page~557 緝(7)]]
     ==
-    - To twist a cord;
-    - to join, to continue;
+    - To twist a cord [[Kangxi: 績也]];
+    - to join, to continue [[Kangxi: 續也]];
     - to come after, to follow, to succeed;
     - to pursue, to follow after, to be on the search for;
     - to apprehend;
