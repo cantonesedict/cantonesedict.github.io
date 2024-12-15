@@ -350,13 +350,18 @@ R
   ⽕ + 9
 U
   U+714D
+V
+  ==
+  - cau5 (per 《玉篇》慈糾切)
+  - ziu2 (per 《玉篇》子了切)
+  ==
 F
   [[Not present]]
 W
   ====
   - [[Page~563 (1)煍]]
     ==
-    - To change the color of;
+    - To change the color of [[Kangxi: 變色也]];
     - to colly, to blacken, as with smoke;
     - _(2)fo (4)t(')(a/)m (1)ts(')au_
         [[fo2 taam4 cau1 火燂煍]],
