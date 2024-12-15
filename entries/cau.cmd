@@ -1375,7 +1375,7 @@ W
   ====
   - [[Page~27|n70 (4)椆]]
     ==
-    - A hard kind of wood resembling rose wood;
+    - A hard kind of wood resembling rose wood [[Kangxi: 木也]];
     - [[see $椆zau3 for "boat-pole" senses]].
     ==
   ====
