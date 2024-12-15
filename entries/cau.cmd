@@ -1149,9 +1149,9 @@ W
   ====
   - [[Page~563 輳(3)]]
     ==
-    - Similar to the preceding [[$湊3]];
-    - centre of a wheel, place where the rays centre;
-    - to collect, to bring together;
+    - Similar to the preceding [[$湊3]] [[Kangxi: 通作湊]];
+    - centre of a wheel, place where the rays centre [[Kangxi: 輻輳輻共轂也]];
+    - to collect, to bring together [[Kangxi: 輳聚也]];
     - concentrated.
     ==
   ====
