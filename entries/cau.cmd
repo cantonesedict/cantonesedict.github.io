@@ -734,14 +734,14 @@ W
   ====
   - [[Page~28|n71 (2)醜]]
     ==
-    - Ugly, deformed, vile, ill looking;
+    - Ugly, deformed, vile, ill looking [[Kangxi: 貌惡也]];
     - disagreeable;
-    - disgraceful, shameful, ashamed;
-    - to hate, to dislike;
+    - disgraceful, shameful, ashamed [[Kangxi: 羞也]];
+    - to hate, to dislike [[Kangxi: 惡之也]];
     - shamefaced;
     - ashamed of;
-    - to compare;
-    - a group, a sort;
+    - to compare [[Kangxi: 比也]];
+    - a group, a sort [[Kangxi: 類也]];
     - _k(i/)n(3) (2)ch(')au pat(7) (4)(u:) (4)ts(')ong ch(u:)t(8)_
         [[gin3 cau2 bat1 jyu4 cong4 zyut3 見醜不如藏拙]]
         to shame one is worse than keeping one's incapacity private;
