@@ -302,7 +302,7 @@ W
     - the tree is like a yew or cypress;
     - _(1)ts(')au (4)p(')ing_
         [[cau1 ping4 楸枰]],
-        a chess-board.
+        a chess-board [[Kangxi: 棊局也]].
     ==
   ====
 C
