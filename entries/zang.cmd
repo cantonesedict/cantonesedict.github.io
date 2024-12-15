@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2024-12-08
+* %date-modified --> 2024-12-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -249,7 +249,7 @@ W
   ====
   - [[Page~556 (1)曾]]
     ==
-    - To duplicate, to add;
+    - To duplicate, to add [[Kangxi: 曾猶重也]];
     - _(1)tsang (1)s(u:)n_
         [[zang1 syun1 曾孫]],
         a great-grandson;
