@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2024-12-05
+* %date-modified --> 2024-12-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -281,6 +281,11 @@ E
     1. Classifier for lamps or lights.
        ==
        - 盞燈壞咗 (zaan2 dang1 waai6 zo2): "[The] light's broken."
+       ==
+    1. Only, just (for emphasising that a negative outcome is highly likely).
+       ==
+       - 盞嘥氣 (zaan2 saai1 hei3): "[Talking to him] will just [be a] waste of breath."
+       - 行得慢咪盞遲到 (haang4 dak1 maan6 mai6 zaan2 ci4 dou3): "[If we] walk slow then [we'll] only arrive late, [won't we]?"
        ==
     ++
   ====
