@@ -135,15 +135,15 @@ W
   ====
   - [[Page~26|n69 (1)抽]]
     ==
-    - To take from, to take out;
+    - To take from, to take out [[Kangxi: 拔也除也]];
     - to take a dividend;
     - to expand, as spring does;
     - to lift;
     - to levy, to assess, as duty;
     - to select, to draw out;
-    - to utter aloud;
+    - to utter aloud [[Kangxi: 讀也]];
     - to whip;
-    - to receive one's portion;
+    - to receive one's portion [[Kangxi: 收也]];
     - to raise water;
     - a tenth, a tithe;
     - _(1)ch(')au (2)shui_
