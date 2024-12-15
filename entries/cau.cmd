@@ -1427,12 +1427,12 @@ W
   - [[Page~27|n70 (4)疇]]
     ==
     - A cultivated field;
-    - to till, to cultivate;
-    - a field of hemp;
-    - formerly, time past;
+    - to till, to cultivate [[Kangxi: 耕治之也]];
+    - a field of hemp [[Kangxi: 麻田曰疇]];
+    - formerly, time past [[Kangxi: 曩也]];
     - to class;
-    - a class, sort;
-    - who?
+    - a class, sort [[Kangxi: 類也]];
+    - who? [[Kangxi: 疇誰也]]
     - _(4)ch(')au sik(7)_
         [[cau4 sik1 疇昔]]
         formerly, in time past.
