@@ -1809,11 +1809,11 @@ W
   ====
   - [[Page~563 (4)遒]]
     ==
-    - To urge, to constrain, to press upon;
+    - To urge, to constrain, to press upon [[Kangxi: 迫也]];
     - a crowd, a throng;
-    - to exhaust, to carry to the utmost, to end;
-    - brave, strong, unyielding;
-    - to bring together;
+    - to exhaust, to carry to the utmost, to end [[Kangxi: 盡也]];
+    - brave, strong, unyielding [[Kangxi: 健也勁也]];
+    - to bring together [[Kangxi: 聚也]];
     - _(4)ts(')au (4)yan_
         [[cau4 jan4 遒人]],
         a herald.
