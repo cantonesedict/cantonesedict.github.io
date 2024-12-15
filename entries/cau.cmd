@@ -1571,7 +1571,7 @@ W
   ====
   - [[Page~27|n70 (4)紬; here normalised to 綢]]
     ==
-    - Silk;
+    - Silk [[Kangxi 紬: 大絲繒也]];
     - pongee, senshaw, levantine, lustring;
     - [[...]];
     - _(1)[sh(a/)ng] (4)ch(')au_
@@ -1607,8 +1607,8 @@ W
   - [[Page~27|n70 (4)綢]]
     ==
     - Used for the last [[$紬4]], when denoting silk;
-    - to bind, to wrap around, to twine about;
-    - close, thick, crowded;
+    - to bind, to wrap around, to twine about [[Kangxi 綢: 綢縛束也]];
+    - close, thick, crowded [[Kangxi 綢: 繆也]];
     - _(4)ch(')au (4)mau_
         [[cau4 mau4 綢繆]],
         to tie up;
