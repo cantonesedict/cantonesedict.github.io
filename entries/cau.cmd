@@ -678,7 +678,7 @@ W
   ====
   - [[Page~563 (1)鶖]]
     ==
-    - A long legged bird like an adjutant, having red eyes and bare neck;
+    - A long legged bird like an adjutant, having red eyes and bare neck [[Kangxi: 水鳥也 etc.]];
     - it eats snakes.
     ==
   ====
