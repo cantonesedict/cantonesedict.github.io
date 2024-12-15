@@ -1122,7 +1122,7 @@ W
     Read _ch(')au(3)_ [[cau3]];
     --
     ==
-    - to walk, to go as if weary.
+    - to walk, to go as if weary [[Kangxi: 行也, 䠢{𧽒=⿺走臭}疲行貌]].
     ==
     --
     [[...]]
