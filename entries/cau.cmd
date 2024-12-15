@@ -1014,11 +1014,11 @@ W
   ====
   - [[Page~28|n71 臭(3)]]
     ==
-    - To track by the scent;
-    - effluvia, savor, smell, putridity, odor, stench;
-    - to stink;
-    - scent;
-    - to rot;
+    - To track by the scent [[Kangxi: 禽走臭而知其迹者犬也]];
+    - effluvia, savor, smell, putridity, odor, stench [[Kangxi: 凡氣之總名]];
+    - to stink [[Kangxi: 惡氣]];
+    - scent [[Kangxi: 香也]];
+    - to rot [[Kangxi: 敗也]];
     - to smell;
     - disreputable;
     - a bad name;
