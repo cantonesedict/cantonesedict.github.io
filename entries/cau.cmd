@@ -648,7 +648,7 @@ W
   - [[Page~563 (1)鰌(1)鰍]]
     ==
     - An eel;
-    - the mud or conger eel;
+    - the mud or conger eel [[Kangxi 鰌: 鰼也]];
     - _(4)nai (1)ts(')au_
         [[nai4 cau1 泥鰍]],
         a freshwater eel;
