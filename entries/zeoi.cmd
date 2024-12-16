@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2024-12-06
+* %date-modified --> 2024-12-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -85,7 +85,7 @@ W
   - [[Page~594 (1)且]]
     ==
     - A phonetic particle, used in the Sh(i/) King [[詩經]]
-      at the end of sentences, as an affirmative.
+      at the end of sentences, as an affirmative [[Kangxi: 語餘聲]].
     ==
   ====
 S

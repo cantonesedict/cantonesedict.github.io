@@ -257,12 +257,12 @@ W
   ====
   - [[Page~31|n74 (2)且]]
     ==
-    - A conjunctive particle;
+    - A conjunctive particle [[Kangxi: 借曰之辭]];
     - and, further, moreover, still;
-    - also, and also;
-    - thus, so;
+    - also, and also [[Kangxi: 又也]];
+    - thus, so [[Kangxi: 此也]];
     - still, yet;
-    - a word of doubt, if, should;
+    - a word of doubt, if, should [[Kangxi: 未定之辭]];
     - _(4)hang (2)ch(')(e/)_
         [[hang4 ce2 行且]],
         on the point of being;
