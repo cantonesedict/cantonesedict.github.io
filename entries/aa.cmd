@@ -366,7 +366,7 @@ W
         hard to bear it patiently.
     ==
     --
-    Also read _ak(7)_ [[ak1]]; [[**see $啞ak1**]].
+    [[...]]
     --
   - [[Page~1|n44 (2)瘂; here normalised to 啞]]
     ==

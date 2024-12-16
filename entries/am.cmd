@@ -386,9 +386,11 @@ W
     - _(2)(o\)m p(u/)i(6) (2)shau_
         [[am2 bui6 sau2 揞背手]]^
         to give hush-money, to bribe.
-    - The first character [[掩]] is read _(2)(i/)m_ [[jim2]],
-      but also used with this meaning in the _p(')ing shing_ [[平聲]] [[am1]].
     ==
+    --
+    The first character [[掩]] is read _(2)(i/)m_ [[jim2]],
+    but also used with this meaning in the _p(')ing shing_ [[平聲]].
+    --
   ====
 C
   ==

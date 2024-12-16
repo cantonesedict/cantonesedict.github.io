@@ -168,7 +168,7 @@ W
   ====
   - [[Page~31|n74 (1)車]]
     --
-    Not often read _(1)k(u:)_ [[geoi1]] [[**see $車geoi1**]].
+    [[...]]
     --
     ==
     - A chariot, a carriage, a cart, any vehicle [[Kangxi: 輿輪總名]];

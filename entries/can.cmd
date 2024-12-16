@@ -83,7 +83,7 @@ W
         to scold.
     ==
     --
-    Also read _(4)t(')(i/)n_ [[tin4]]; [[**see $嗔tin4**]].
+    [[...]]
     --
   ====
 S

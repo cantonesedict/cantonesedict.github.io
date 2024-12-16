@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> co
-* %date-modified --> 2024-12-06
+* %date-modified --> 2024-12-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -367,10 +367,7 @@ W
   ====
   - [[Page~583 (1)艖]]
     --
-    [[...]]
-    --
-    --
-    Also read _(1)ch(')(a/)_ [[caa1]] [[**see $艖caa1 for the canonical entry**]].
+    [[Reading variation. **See $艖caa1 for the canonical entry.**]]
     --
   ====
 S

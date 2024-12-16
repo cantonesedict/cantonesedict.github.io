@@ -117,7 +117,7 @@ W
         an accomplished wife aud handsome concubine.
     ==
     --
-    Also read _ts(')ai(3)_ [[cai3]]; [[**see $妻cai3**]].
+    [[...]]
     --
   ====
 C

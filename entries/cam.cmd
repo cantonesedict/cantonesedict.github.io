@@ -98,7 +98,7 @@ W
         to intimidate, to oppress.
     ==
     --
-    Read _(2)ts(')am_ [[cam2]]; [[**see $侵cam2**]].
+    [[...]]
     --
   ====
 E

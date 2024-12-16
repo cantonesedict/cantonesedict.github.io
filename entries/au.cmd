@@ -109,7 +109,7 @@ W
   ====
   - [[Page~6 (2)嘔 _(2)Au_ (au2); here corrected to _(1)Au_ (au1)]]
     --
-    [[...]].
+    [[...]]
     --
     ==
     - [[...]];
@@ -403,7 +403,7 @@ W
     Used for the next [[嘔]], to vomit [[**see $嘔au2**]];
     --
     --
-    [[...]].
+    [[...]]
     --
   ====
 S
@@ -499,7 +499,7 @@ W
         to fry eels in pork fat, _met._ to add insult to injury.
     ==
     --
-    Read _(1)au_ [[au1]]; [[**see $漚au1**]].
+    [[...]]
     --
   ====
 C

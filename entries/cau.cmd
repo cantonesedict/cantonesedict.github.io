@@ -1625,7 +1625,7 @@ W
         to be intimate with, to consult upon.
     ==
     --
-    Also read _(1)t(')(o\)_ [[tou1]]; [[**see $綢tou1**]].
+    [[...]]
     --
   ====
 C
@@ -1660,7 +1660,7 @@ W
     - to cover, as with bed clothes.
     ==
     --
-    Read _(1)t(o\)_ [[dou1]]; [[**see $裯dou1**]].
+    [[...]]
     --
   ====
 C
@@ -1941,7 +1941,7 @@ W
   ====
   - [[Page~28|n71 (5){𧽒=⿺走臭}]]
     --
-    Read _ch(')au(3)_ [[cau3]]; [[**see ${𧽒=⿺走臭}cau3**]].
+    [[...]]
     --
     --
     A colloquial word.

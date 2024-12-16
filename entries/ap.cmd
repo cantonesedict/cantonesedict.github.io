@@ -70,7 +70,7 @@ W
   ====
   - [[Page~4 洽(7)]]
     --
-    Read _h(a/)p(9)_ [[haap6]] [[**see $洽haap6**]].
+    [[...]]
     --
     --
     A colloquial word.
