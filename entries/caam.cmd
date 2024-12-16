@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2024-12-06
+* %date-modified --> 2024-12-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -83,7 +83,7 @@ W
     - to impeach, to report to the throne on other officers;
     - confused, mixed, as colors;
     - a deposition, an impeachment;
-    - [[see $參sam1 for constellation sense]];
+    - [[...]];
       <##
       the 20th constellation, consisting of stars
       _α_, _β_, _γ_, _δ_, _η_, _ξ_, _ε_ and _χ_ in Orion;
@@ -395,7 +395,7 @@ W
   ====
   - [[Page~554 (2)摻]]
     ==
-    - [[See $摻cim1 for "delicate-hand" senses]];
+    - [[...]];
     - to take up with the hand [[Kangxi: 取也一曰執也]].
     ==
   <##
@@ -427,8 +427,7 @@ W
   ====
   - [[Page~554 (2)篸]]
     ==
-    - [[See $篸caam1 for "irregular bamboo / pipe" senses]];
-    - [[see $篸zaam1 for "hairpin" sense]];
+    - [[...]];
     - an open basket like a fan;
     - _fat(7) (2)ts(')(a/)m_
         [[fat1 caam2 㧾篸]],
