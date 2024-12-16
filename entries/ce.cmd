@@ -314,19 +314,18 @@ W
     - [[....]];
     - _(2)[ch(')(e/)] (4)(i/)n_
         [[ce2 jin4 哆然]],
-        sneering at, disobedient[.]
+        sneering at, disobedient [[Kangxi: 哆然衆有不服之心]]
     ==
     --
     Also read _(2)ch(')(e/)_ [[ce2]];
     --
     ==
-    - the lower lip hanging down.
+    - the lower lip hanging down [[Kangxi: 脣下垂貌]].
     ==
   ====
 C
   ==
-  - Williams' 哆然: Corrected _(2)ch(')(i/)_ (ci2) to _(2)ch(')(e/)_ (ce2)
-    (per Kangxi 《註》哆然衆有不服之心).
+  - Williams' 哆然: Corrected _(2)ch(')(i/)_ (ci2) to _(2)ch(')(e/)_ (ce2).
   ==
 S
   ==

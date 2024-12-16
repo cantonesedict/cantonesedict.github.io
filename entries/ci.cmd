@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2024-12-10
+* %date-modified --> 2024-12-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -795,26 +795,25 @@ R
   ⼝ + 6
 U
   U+54C6
+V
+  ==
+  - de2 (per 《集韻》丁寫切 for "fish-gape" sense)
+  ==
 F
   [[Not present]]
 W
   ====
   - [[Page~12* (2)哆]]
     ==
-    - Gaping;
-    - an open mouth, like a fish;
+    - Gaping [[Kangxi: 張口也]];
+    - an open mouth, like a fish [[Kangxi: 魚口張貌]];
     - large lipped;
-    - [[see $哆ce2 for "disobedient" sense]][.]
+    - [[...]]^
     ==
     --
-    Also read _(2)ch(')(e/)_ [[ce2]]; [[**see $哆ce2**]].
+    [[...]]
     --
   ====
-C
-  ==
-  - Williams' "like a fish": Kangxi reads _(2)t(e/)_ (de2),
-    quoting 《集韻》丁寫切爹上聲魚口張貌.
-  ==
 S
   ==
   - $哆ce2
