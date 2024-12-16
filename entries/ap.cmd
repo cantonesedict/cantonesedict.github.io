@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ap
-* %date-modified --> 2024-10-04
+* %date-modified --> 2024-12-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -62,7 +62,7 @@ U
   U+6D3D
 V
   ==
-  - ngap1 (common)
+  - ngap1 (alternative)
   ==
 F
   [[Not present]]
@@ -110,6 +110,7 @@ S
   - $洽hap1 (TODO)
   - $洽hap6 (TODO)
   - $洽haap6 (TODO)
+  - $洽ngap1 (TODO)
   ==
 $$
 

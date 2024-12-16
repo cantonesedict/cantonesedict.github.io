@@ -202,7 +202,7 @@ U
   U+3F98
 V
   ==
-  - ngang2 (common)
+  - ngang2 (alternative)
   ==
 F
   [[Not present]]
@@ -251,6 +251,7 @@ E
 S
   ==
   - $㾘gang2 (TODO) <## illness ##>
+  - $㾘ngang2 (TODO)
   ==
 $$
 

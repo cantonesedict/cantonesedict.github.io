@@ -61,10 +61,13 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~5 _At(7)_]]
+  - [[Page~5 _At(7)_; here assigned to 扤]]
     --
-    A colloquial word
-    [[here normalised to 扤; **see $扤ngat1 for the canonical entry**]].
+    [[Reading variation. **See $扤ngat1 for the canonical entry.**]]
     --
   ====
+S
+  ==
+  - $扤ngat1 (TODO)
+  ==
 $$

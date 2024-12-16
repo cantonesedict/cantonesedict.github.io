@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caau
-* %date-modified --> 2024-12-09
+* %date-modified --> 2024-12-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -345,6 +345,10 @@ R
   ⼮ + 8
 U
   U+5DE2
+A
+  ==
+  - $窠4 [[for vernacular "wrinkled" sense]]
+  ==
 F
   ==
   - [[F2.41 巢]] 鳥在木上曰巢
@@ -461,17 +465,13 @@ W
   ====
   - [[Page~30|n73 (4)窠]]
     --
-    [[Idiosyncratic reading from Williams. **See $窠wo1 for the canonical entry.**]]
-    --
-    --
-    A colloquial word
-    [[here normalised to 巢; **see $巢caau4 for the canonical entry**]].
+    [[Alternative form of 巢. **See $巢caau4 for the canonical entry.**]]
     --
   ====
 S
   ==
   - $窠fo1 (TODO)
-  - $窠wo1 (TODO)
+  - $窠wo1 (TODO) <## correction of Williams ##>
   ==
 $$
 

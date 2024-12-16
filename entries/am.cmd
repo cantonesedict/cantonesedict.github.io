@@ -295,8 +295,7 @@ W
   ====
   - [[Page~3 (2)掩]]
     --
-    A colloquial word
-    [[here normalised to 揞; **see $揞am2 for the canonical entry**]].
+    [[Alternative form of 揞. **See $揞am2 for the canonical entry.**]]
     --
   ====
 C

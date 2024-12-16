@@ -93,7 +93,7 @@ A
 V
   ==
   - ak1 (shorter syllable)
-  - ngaak1 (common)
+  - ngaak1 (alternative)
   ==
 F
   [[Not present]]
@@ -193,8 +193,7 @@ W
   ====
   - [[Page~3 阨(7) _(A/)k(7)_ (aak1)]]
     --
-    A colloquial word;
-    [[here normalised to 呃; **see $呃aak1 for the canonical entry**]].
+    [[Alternative form of 呃. **See $呃aak1 for the canonical entry.**]]
     --
     --
     [[Otherwise, a reading variation. **See $阨ak1 for the canonical entry.**]]

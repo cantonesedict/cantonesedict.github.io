@@ -219,11 +219,7 @@ W
   ====
   - [[Page~1|n44 (1)呀]]
     --
-    A colloquial word
-    [[here normalised to 吖; **see $吖aa1 for the canonical entry**]].
-    --
-    --
-    Read _(4)ng(a/)_ [[ngaa4]]; [[**see $呀ngaa4**]].
+    [[Alternative form of 吖. **See $吖aa1 for the canonical entry.**]]
     --
   ====
 S
@@ -490,11 +486,7 @@ W
   ====
   - [[Page~1|n44 呀(3)]]
     --
-    A colloquial word
-    [[here normalised to 啊; **see $啊aa3 for the canonical entry**]].
-    --
-    --
-    Also spoken _(a/)(6)_ [[aa6]]; [[**see $呀aa6**]].
+    [[Alternative form of 啊. **See $啊aa3 for the canonical entry.**]]
     --
   ====
 S

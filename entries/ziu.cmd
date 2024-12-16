@@ -674,8 +674,8 @@ W
   [[Not present]]
 P
   ++
-  1. Narrow [[Kangxi: 湫隘也]].
-  1. Low-lying [[Kangxi: 湫下也]].
+  1. Narrow (Kangxi: 湫隘也).
+  1. Low-lying (Kangxi: 湫下也).
   ++
 S
   ==

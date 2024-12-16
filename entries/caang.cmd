@@ -178,10 +178,13 @@ W
     - a prop.
     ==
     --
-    Read _ch(')(a/)ng(3)_ [[caang3]];
-    [[here normalised to 撐; **see $撐caang3 for the canonical entry**]].
+    [[...]].
     --
   ====
+S
+  ==
+  - $橕caang3
+  ==
 $$
 
 ###+ 罉1 | _(1)Ch(')(a/)ng_ (caang1)
@@ -301,6 +304,7 @@ $$
 =={.modern}
 - $撐3
 - $撑3
+- $橕3
 - ${𨅝=⿰𧾷牚}3
 ==
 </nav>
@@ -315,6 +319,7 @@ U
   U+6490
 A
   ==
+  - $橕3
   - $撑3
   -{.modern} ${𨅝=⿰𧾷牚}3
   ==
@@ -380,6 +385,28 @@ S
   ==
 $$
 
+### 橕3 | _Ch(')(a/)ng(3)_ [[caang3]]
+
+$$
+R
+  ⽊ + 12
+U
+  U+6A55
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~21|n64 (1)橕 Read _ch(')(a/)ng(3)_ (caang3)]]
+    --
+    [[Alternative form of 撐 or {𨅝=⿰𧾷牚}. **See $撐caang3 and ${𨅝=⿰𧾷牚}caang3 for the canonical entries.**]].
+    --
+  ====
+S
+  ==
+  - $橕caang1
+  ==
+$$
+
 ###+ {𨅝=⿰𧾷牚}3 | _Ch(')(a/)ng(3)_ (caang3)
 
 $$
@@ -387,6 +414,10 @@ R
   ⾜ + 12
 U
   U+2815D
+A
+  ==
+  - $橕3
+  ==
 V
   ==
   - jaang3 (alternative)
