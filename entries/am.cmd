@@ -76,10 +76,10 @@ W
   ====
   - [[Page~724 (1)啽]]
     ==
-    - [[See $啽ngam4 for "sleep-talk" senses]];
+    - [[...]];
     - _(1)(o\)m mak(9)_
         [[am1 mak6 啽默]]
-        to be silent; to give no answer, as one [who] is very sleepy.
+        to be silent; to give no answer, ~~as one [who] is very sleepy~~.
     ==
   ====
 C
@@ -119,7 +119,7 @@ W
   - [[Page~341 (1)庵(1)菴]]
     ==
     - A round hut [[Kangxi: 圜屋爲庵]], a thatched cottage, a straw hovel [[Kangxi: 小草舍也]] for soldiers or guard;
-    - [[see $庵ap3 for "pig-sty" sense]];
+    - [[...]];
     - a nunnery;
     - _(1)sz' (1)k(u/) (1)(o\)m_
         [[si1 gu1 am1 師姑庵]],
