@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caak
-* %date-modified --> 2024-12-06
+* %date-modified --> 2024-12-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -273,8 +273,11 @@ W
     - _(5)yau mat(7) ch(')(a/)k(8) f(a/)t(8)_
         [[jau5 mat1 caak3 faat3 有乜拆法]]
         what way shall we arrange the matter?
-    - [[see $坼caak3 for "cracked" senses]].
+    - [[...]].
     ==
+    --
+    [[Otherwise, an alternative form of 坼. **See $坼caak3 for the canonical entry.**]]
+    --
   ====
 C
   ==
