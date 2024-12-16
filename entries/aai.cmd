@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aai
-* %date-modified --> 2024-12-02
+* %date-modified --> 2024-12-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -246,7 +246,7 @@ W
     - narrow [[Kangxi: ::[陋]也::, 陝也]], confined, straitened;
     - distressed, urgent [[Kangxi: 急也]];
     - narrowminded, mean;
-    - [[see $隘ak1 for "obstructed" sense]];
+    - [[...]];
     - _(4)yan k(o\)m(3) (a/)i(3)_
         [[jan4 gam3 aai3 人咁隘]]
         way is all crowded, a jam;
