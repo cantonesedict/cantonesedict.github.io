@@ -946,7 +946,7 @@ class CharacterEntry:
                 sys.exit(1)
 
         content_keys = ''.join(re.findall(pattern='^[A-Z]', string=content, flags=re.MULTILINE))
-        canonical_keys_iter = iter('RUHAVFWCES')
+        canonical_keys_iter = iter('RUHAVFWCPES')
         if not all(content_key in canonical_keys_iter for content_key in content_keys):
             print(f'Error: bad content keys {content_keys} for character {character} {code_point}', file=sys.stderr)
             sys.exit(1)

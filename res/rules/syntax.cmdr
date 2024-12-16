@@ -72,6 +72,8 @@ RegexDictionaryReplacement: #.syntax.entry-key-abbreviations
                 ,{.williams}
 * ^C$ --> ; Conway's commentary
                 ,{.modern}
+* ^P$ --> ; Conway's supplementary entry
+                ,{.modern}
 * ^E$ --> ; Conway's Cantonese entry
                 ,{.modern}
 * ^S$ --> ; See also
@@ -115,6 +117,7 @@ FixedDelimitersReplacement: #.syntax.entries
 - attribute_specifications: .canonical
 - content_replacements:
     #unordered-lists
+    #ordered-lists
     #.syntax.entry-key-abbreviations
     #.syntax.entry-keys
     #.syntax.entry-values
