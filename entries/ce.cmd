@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2024-12-15
+* %date-modified --> 2024-12-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -107,8 +107,8 @@ W
   ====
   - [[Page~31|n74 (1)奢]]
     ==
-    - Wasteful, extravagant;
-    - to spread out;
+    - Wasteful, extravagant [[Kangxi: 侈也]];
+    - to spread out [[Kangxi: 張也]];
     - affluent;
     - _(1)ch(')(e/) mong(6)_
         [[ce1 mong6 奢望]]
