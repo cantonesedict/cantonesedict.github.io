@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aak
-* %date-modified --> 2024-12-02
+* %date-modified --> 2024-12-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -191,16 +191,15 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~3 阨(7)]]
+  - [[Page~3 阨(7) _(A/)k(7)_ (aak1)]]
     --
     A colloquial word;
     [[here normalised to 呃; **see $呃aak1 for the canonical entry**]].
     --
+    --
+    [[Otherwise, a reading variation. **See $阨ak1 for the canonical entry.**]]
+    --
   ====
-C
-  ==
-  - Reading variation. **See $阨ak1 for the canonical entry.**
-  ==
 S
   ==
   - $阨aai3
