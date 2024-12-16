@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2024-12-08
+* %date-modified --> 2024-12-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -352,7 +352,7 @@ W
   - [[Page~341 (1)掩(2)揞]]
     ==
     - To cover, to hide, to screen, by putting something on [[Kangxi 揞: 掩也]];
-    - to extinguish, to suppress;
+    - ~~to extinguish, to suppress;~~
     - _(2)(o\)m ch(u:)(6) (2)hau_
         [[am2 zyu6 hau2 揞住口]],
         to put the hand over the mouth;
@@ -371,10 +371,10 @@ W
     - _(2)(o\)m (1)fung (4)k(')am_
         [[am2 fung1 kam4 揞風琴]],
         to play a piano;
-    - _(2)(o\)m mit(9)_
+    - ~~_(2)(o\)m mit(9)_
         [[am2 mit6 揞滅]]
         to put out, as fire;
-        to quash;
+        to quash;~~
     - _(2)(o\)m p(a/)k[(9)] (4)mai (4)mung_
         [[am2 baak6 mai4 mung4 揞白迷濛]],
         blindman's buff;
@@ -394,8 +394,8 @@ W
 C
   ==
   - Fan Wan entry: Corrected 𡈼 to 也.
-  - Williams' "to extinguish, to suppress":
-    Kangxi has 《揚子方言》滅也荆楚曰揞 under the reading 於咸切黯平聲 _(1)am_ (am1).
+  - Williams' "to extinguish, to suppress", 揞滅:
+    Kangxi 揞 has 《揚子方言》滅也荆楚曰揞 under the reading 於咸切黯平聲 _(1)am_ (am1).
     But [《抱經堂叢書》本](https://ctext.org/library.pl?if=en&file=82373&page=111)
     annotates a reading of 烏感反 _(2)am_ (am2),
     and says that 滅 is a typo for 藏.
