@@ -177,9 +177,9 @@ W
     ==
     - To stab [[Kangxi: 刺也]];
     - to sustain, to support [[Kangxi: 一曰扶也]], to lead;
-    - to supply a want, to make up;
+    - [[...]];
     - to divide with another;
-    - to pull out;
+    - [[...]];
     - _[(1)]ch(')(a/)m fan(6) (4)lai (1)t(')(i/)m_
         [[caam1 fan6 lai4 tim1 攙分嚟添]],
         make another share for him;
@@ -190,17 +190,16 @@ W
   ====
 C
   ==
-  - Whilst _(4)ch(')(a/)m_ (caam4) is not unattested in Middle Chinese,
+  - Whilst _(4)ch(')(a/)m_ (caam4) is attested in Middle Chinese,
     it is only explained "stab" (刺也).
     Kangxi records the canonical reading 楚銜切 _(1)ch(')(a/)m_ (caam1),
     explained both "stab" (刺也) and "arm-support" (一曰扶也).
     It is possible that Williams has mistakenly parsed 楚銜切 as 陽平 rather than 陰平.
-  - Williams' "to supply a want, to make up", "to divide with another", "to pull out":
-    Kangxi has 完補也一曰旁掣也 under the reading 仕懺切鑱去聲 _ch(a/)m(6)_ (zaam6).
   ==
 S
   ==
   - $攙caam4
+  - $攙zaam6
   ==
 $$
 
@@ -721,6 +720,7 @@ W
 S
   ==
   - $攙caam1
+  - $攙zaam6
   ==
 $$
 

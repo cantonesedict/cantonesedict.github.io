@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2024-12-05
+* %date-modified --> 2024-12-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -341,6 +341,7 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $攙6
 - $暫6
 - $站6
 - $賺6
@@ -348,6 +349,33 @@ $$
 ==
 </nav>
 <## /tone-6-characters ##>
+
+###+ 攙6 | _Ch(a/)m(6)_ (zaam6)
+
+$$
+R
+  ⼿ + 17
+U
+  U+6519
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~16|n59 (4)攙 _(4)Ch(')(a/)m_ (caam4); here corrected to _Ch(a/)m(6)_ (zaam6)]]
+    ==
+    - [[...]];
+    - to supply a want, to make up [[Kangxi: 完補也]];
+    - [[...]];
+    - to pull out [[Kangxi: 一曰旁掣也]];
+    - [[...]].
+    ==
+  ====
+S
+  ==
+  - $攙caam1
+  - $攙caam4
+  ==
+$$
 
 ### 暫6 | _Ts(a/)m(6)_ [[zaam6]]
 
