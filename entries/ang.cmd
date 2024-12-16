@@ -250,7 +250,7 @@ E
   ====
 S
   ==
-  - $㾘gang2 (TODO)
+  - $㾘gang2 (TODO) <## illness ##>
   ==
 $$
 

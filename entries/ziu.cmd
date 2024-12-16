@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2024-12-06
+* %date-modified --> 2024-12-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -672,15 +672,11 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - The reading _(2)tsi(u/)_ (ziu2) for 湫 is not present in Williams;
-    an entry is included here for completeness.
-    ++
-    1. Narrow.
-    1. Low-lying.
-    ++
-  ==
+P
+  ++
+  1. Narrow [[Kangxi: 湫隘也]].
+  1. Low-lying [[Kangxi: 湫下也]].
+  ++
 S
   ==
   - $湫cau1

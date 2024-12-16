@@ -81,10 +81,9 @@ F
 W
   ====
   - [[Page~562 (1)偢]]
-    ==
-    - [[See $偢ciu3 for "inhumane" sense]];
-    - [[Alternative form of 瞅. **See $瞅cau1 for the canonical entry.**]]
-    ==
+    --
+    [[Alternative form of 瞅. **See $瞅cau1 for the canonical entry.**]]
+    --
   ====
 S
   ==
@@ -328,7 +327,7 @@ W
   - [[Page~562 (1)湫]]
     ==
     - A pond, a fish-pond, a pool [[Kangxi: 北人呼水池爲湫]];
-    - [[see $湫zau1 for proper name and other senses]];
+    - [[...]];
     ==
   ====
 C
@@ -1322,7 +1321,7 @@ W
     ==
     - A single curtain [[Kangxi: 襌帳也]] on a carriage [[Kangxi: 車帷也]];
     - a leather screen or partition [[Kangxi: 幔轂之革也]];
-    - [[see $幬dou6 for "cover" senses]].
+    - [[...]].
     ==
   ====
 C
@@ -1331,7 +1330,7 @@ C
   ==
 S
   ==
-  - $幬dou6 (TODO)
+  - $幬dou6 (TODO) <## cover ##>
   - $幬tou4 (TODO)
   ==
 $$
@@ -1375,7 +1374,7 @@ W
   - [[Page~27|n70 (4)椆]]
     ==
     - A hard kind of wood resembling rose wood [[Kangxi: 木也]];
-    - [[see $椆zau3 for "boat-pole" senses]].
+    - [[...]].
     ==
   ====
 S
@@ -1552,10 +1551,9 @@ F
 W
   ====
   - [[Page~27|n70 (4)紬]]
-    ==
-    - [[Alternative form of 綢. **See $綢cau4 for the canonical entry.**]]
-    - [[See $紬cau1 for "draw out" senses]].
-    ==
+    --
+    [[Alternative form of 綢. **See $綢cau4 for the canonical entry.**]]
+    --
   ====
 S
   ==
@@ -1699,10 +1697,10 @@ W
   ====
   - [[Page~26|n69 (4)讐(4)仇; here normalised to 讎]]
     ==
-    - [[See $仇sau4 for "enmity" senses]];
-    - to verify, to collate with [[Kangxi: 應驗也]];
+    - [[...]]; <## TODO: 仇 sau4 "enmity" ##>
+    - to verify, to collate with [[Kangxi 讎: 應驗也]];
     - [[...]];
-    - used for the next [[$酬4]];
+    - used for the next [[$酬4]] [[Kangxi 讎: 通作酬]];
     - [[...]];
     - _(4)ch(')au t(u/)i(3)_
         [[cau4 deoi3 讎對]]
@@ -1722,7 +1720,6 @@ C
     - The "proofread" sense is spelt 讎 and read _(4)ch(')au_ (cau4).
     ==
     I have split things up accordingly.
-  - Williams' "used for the next": I have not seen 讎 used for 酬.
   ====
 S
   ==

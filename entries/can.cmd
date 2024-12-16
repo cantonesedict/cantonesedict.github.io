@@ -228,7 +228,7 @@ W
     - _(1)ts(')an pat(7) (2)s(e/)_
         [[can1 bat1 se2 親筆寫]],
         wrote it myself;
-    - [[see $嚫can1 for vernacular senses]];
+    - [[...]];
     - _(1)ts(')an (i/)t(9)_
         [[can1 jit6 親熱]]
         very intimate;
@@ -253,12 +253,12 @@ W
         [[pan4 kung4 dyun6 luk6 can1 貧窮斷六親]],
         nobody knows his poor relations.
     ==
+    --
+    [[Otherwise, an alternative form of 嚫. **See $嚫can1 for the canonical entry.**]]
+    --
   ====
 C
   ==
-  - Williams provides no explanation for the vernacular _(1)ts(')an_ (can1),
-    notwithstanding he has supplied examples of its use.
-    Here it is normalised to 嚫; **see $嚫can1 for the canonical entry**.
   - Williams' 娶親: Changed _ts(')(u:)(3)_ (ceoi3) to common reading _(2)ts(')(u:)_ (ceoi2).
   - Williams' 成親:
     There is no connotation of sexual consummation in 成親.

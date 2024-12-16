@@ -129,7 +129,7 @@ C
 S
   ==
   - $參saam1 (TODO)
-  - $參sam1 (TODO)
+  - $參sam1 (TODO) <## constellation ##>
   ==
 $$
 
@@ -398,12 +398,6 @@ W
     - [[...]];
     - to take up with the hand [[Kangxi: 取也一曰執也]].
     ==
-  <##
-    ==
-    - A delicate hand, a hand with tapering fingers; --> 摻 cim1 (saam1)
-    - fine, tapering, small; --> 摻 cim1 (saam1)
-    ==
-  ##>
   ====
 S
   ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2024-12-10
+* %date-modified --> 2024-12-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -499,7 +499,7 @@ W
   - [[Page~549 懠(3) _Tsai(3)_ (zai3); here corrected to _(4)Ts(')ai_ (cai4)]]
     ==
     - Angry, enraged [[Kangxi: 怒也]];
-    - [[see $懠zai1 for "doubt" senses]];
+    - [[...]];
     - _(1)t(i/)n (1)ch(i/) (1)fong [(4)ts(')ai]_
         [[tin1 zi1 fong1 cai4 天之方懠]]^
         when heaven is angry.

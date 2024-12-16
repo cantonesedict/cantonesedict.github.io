@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2024-12-15
+* %date-modified --> 2024-12-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -718,12 +718,12 @@ W
     ==
     - The guard on the hilt of a sword [[Kangxi: 劒鼻也]];
     - a dagger, a dirk [[Kangxi: 鐔似劒而小]];
-    - [[see $鐔taam4 for "sword's edge" sense]].
+    - [[...]].
     ==
   ====
 S
   ==
-  - $鐔taam4 (TODO)
+  - $鐔taam4 (TODO) <## sword's edge ##>
   ==
 $$
 
