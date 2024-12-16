@@ -172,10 +172,10 @@ W
   ====
   - [[Page~31|n74 (1)車]]
     --
-    Not often read _(1)k(u:)_ [[geoi1]].
+    Not often read _(1)k(u:)_ [[geoi1]] [[**see $車geoi1**]].
     --
     ==
-    - A chariot, a carriage, a cart, any vehicle;
+    - A chariot, a carriage, a cart, any vehicle [[Kangxi: 輿輪總名]];
     - a framed wheel;
     - to turn a wheel, to roll over;
     - _(2)shui (1)ch(')(e/)_
@@ -212,7 +212,7 @@ W
   - [[Page~183 (1)車 _(1)K(u:)_ (geoi1); here corrected to _(1)Ch(')(e/)_ (ce1)]]
     ==
     - [[...]];
-    - the jaw-bones;
+    - the jaw-bones [[Kangxi: 牙車牙所載也 etc.]];
     - [[...]].
     ==
   ====
