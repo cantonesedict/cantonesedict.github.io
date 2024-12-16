@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> au
-* %date-modified --> 2024-12-06
+* %date-modified --> 2024-12-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -355,7 +355,7 @@ W
     - To vomit [[Kangxi: 吐也]];
     - the noise of retching;
     - to spit out;
-    - [[see $嘔au1 for "child-talk" and "sing" senses]];
+    - [[...]];
     - _(2)au h(u:)t(8)_
         [[au2 hyut3 嘔血]]
         to spit blood;
