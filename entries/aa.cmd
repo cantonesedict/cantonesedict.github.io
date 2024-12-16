@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2024-12-05
+* %date-modified --> 2024-12-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -359,7 +359,7 @@ W
   ====
   - [[Page~1|n44 (2)啞]]
     ==
-    - [[See $啞aa1 for "child-learning-speech" sense]];
+    - [[...]];
     - dumb [[Kangxi: 瘖也]];
     - to keep silent [[Kangxi: 不言也]], for which the next [[$瘂2]] is used;
     - _(2)(a/) [(4)]mai_
@@ -448,10 +448,6 @@ R
   ⼆ + 6
 U
   U+4E9E
-A
-  ==
-  - $阿3 [[not considered an alternative in modern usage]]
-  ==
 V
   ==
   - ngaa3 (hypercorrected initial)
@@ -467,7 +463,7 @@ W
     - Hunchbacked [[Kangxi 亞: 象人局背之形]];
     - to esteem lightly, to regard as inferior;
     - second, next to, junior, inferior [[Kangxi 亞: 亞次也]];
-    - [[see $阿aa3 for name prefix senses]];
+    - [[...]];
     - _pat(7) (a/)(3) (1)(u:) (4)yan_
         [[bat1 aa3 jyu1 jan4 不亞於人]],
         not inferior to others.
@@ -612,19 +608,15 @@ R
   ⾩ + 5
 U
   U+963F
-A
-  ==
-  - $亞3 [[not considered an alternative in modern usage]]
-  ==
 F
   [[Not present]]
 W
   ====
   - [[Page~2 亞(3)阿(3)]]
     ==
-    - [[see $亞aa3 for "second/inferior" senses]];
+    - [[...]];
     - a syllable prefixed to proper names,
-      for which the second [[$阿3]] is often used;
+      for which the second [[阿]] is often used;
     - it also impersonates epithets;
     - _(a/)(3) m(u/)i(6)_
         [[aa3 mui6-2 阿妹]]
