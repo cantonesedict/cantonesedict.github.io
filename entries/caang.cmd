@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caang
-* %date-modified --> 2024-12-08
+* %date-modified --> 2024-12-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -331,7 +331,7 @@ W
     --
     ==
     - To stretch out, to open;
-    - [[see ${𨅝=⿰𧾷牚}caang3 for leg-thrusting senses]];
+    - [[...]];
     - _ch(')(a/)ng(3) (1)i(u/) (5)k(')(i/) ch(u:)(6)_
         [[caang3 jiu1 kei5 zyu6 撐腰企住]]
         to stand akimbo;
@@ -453,7 +453,7 @@ $$
 
 ### 倀4 | _(4)Ch(')(a/)ng_ [[caang4]]
 
-$$.
+$$
 R
   ⼈ + 8
 U
@@ -463,15 +463,19 @@ F
 W
   ====
   - [[Page~21|n64 (4)倀]]
-    ==
-    - [[See $倀coeng1 for "crazed" and "tiger-victim ghost" senses]].
-    ==
+    --
+    [[...]]
+    --
   ====
 C
   ==
-  - For the reading _(4)ch(')(a/)ng_ (caang4),
-    Kangxi has 又除庚切音棖獨立貌, "standing alone".
+  - The reading _(4)ch(')(a/)ng_ for 倀 is present in Williams,
+    but not with the correct senses.
   ==
+P
+  ++
+  1. Standing alone (Kangxi: 獨立貌).
+  ++
 S
   ==
   - $倀coeng1
@@ -491,17 +495,11 @@ F
   ==
 W
   [[Not present]]
-C
-  ==
-  - Fan Wan entry: Strictly, 棖 should be read _(4)ch(')(e/)ung_ (coeng4)
-    (per Kangxi 《唐韻古音》直良切音長) for the name 申棖.
-  - The reading _(4)ch(')(a/)ng_ (caang4) for 棖 is not present in Williams;
-    an entry is included here for completeness.
-    ++
-    1. A door-post.
-    1. Alternative form of $橙4.
-    ++
-  ==
+P
+  ++
+  1. A door-post (Kangxi: 棖謂之楔, 棖門兩旁長木).
+  1. Alternative form of $橙4 (Kangxi: 果名卽橙也).
+  ++
 S
   ==
   - $棖caam5

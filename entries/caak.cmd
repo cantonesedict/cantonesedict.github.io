@@ -515,16 +515,12 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ====
-  - The reading _ts(')(a/)k(9)_ (caak6) for 鰂 is not present in Williams;
-    an entry is included here for completeness.
-    ++
-    1. The cuttlefish, as in 鰞鰂 _(1)(u/) ts(')(a/)k(9)_ (wu1 caak6)^,
-       also written 烏賊.
-       Note that in Cantonese, it is usually called 墨魚, "inkfish".
-    ++
-  ====
+P
+  ++
+  1. The cuttlefish, as in 鰞鰂 _(1)(u/) ts(')(a/)k(9)_ (wu1 caak6)^,
+      also written 烏賊.
+      Note that in Cantonese, it is usually called 墨魚, "inkfish".
+  ++
 S
   ==
   - $鰂zak1

@@ -131,14 +131,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Not present in Williams;
-    an entry is included here for completeness.
-    ++
-    1. To knead, to rub.
-    ++
-  ==
+P
+  ++
+  1. To knead, to rub.
+  ++
 E
   ====
   - 【搋波】 (caai1 bo1):

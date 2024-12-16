@@ -143,14 +143,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - The reading _(1)ch(')(e/)_ (ce1) for 尺 is not present in Williams;
-    an entry is included here for completeness.
-    ++
-    1. The equivalent to solfège _re_ in 工尺譜 (Gongche notation).
-    ++
-  ==
+P
+  ++
+  1. The equivalent to solfège _re_ in 工尺譜 (Gongche notation).
+  ++
 S
   ==
   - $尺cek3

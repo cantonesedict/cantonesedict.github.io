@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2024-12-15
+* %date-modified --> 2024-12-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -382,19 +382,21 @@ W
   ====
   - [[Page~18|n61 (2)疹(2)疢]]
     --
-    [[Williams incorrectly considers 疢 as an alternative form of $疹2,
-    when it is actually the other way round.]]
+    [[...]]
     --
   ====
 C
   ==
   - Fan Wan entry: Normalised {𤍠=⿱執灬} to 熱.
-  - An entry for 疢 (not 疹) is included here for completeness.
-    ++
-    1. Fever.
-    1. Sickness.
-    ++
+  - Williams incorrectly considers 疢 as an alternative form of $疹2
+    when it is actually the other way round.
+    An entry for 疢 (not 疹) is here supplemented.
   ==
+P
+  ++
+  1. Fever (Kangxi: 熱病也).
+  1. Sickness (Kangxi: 疢猶病也).
+  ++
 $$
 
 ### 疹2 | _(2)Ch(')an_ [[can2]]
@@ -771,17 +773,13 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ====
-  - The reading _ts(')an(3)_ (can3) for 親 is not present in Williams;
-    an entry is included here for completeness.
-    ++
-    1. Pertaining to the in-laws.
-       ==
-       - 親家 (can3 gaa1): "[The] in-laws' family [of my son/daughter]."
-       ==
-    ++
-  ====
+P
+  ++
+  1. Pertaining to the in-laws.
+      ==
+      - 親家 (can3 gaa1): "[The] in-laws' family [of my son/daughter]."
+      ==
+  ++
   --
   Olden attestation for 親 _ts(')an(3)_ (can3) meaning "in-laws":
   --
