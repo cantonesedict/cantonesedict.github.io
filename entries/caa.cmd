@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2024-12-16
+* %date-modified --> 2024-12-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -346,10 +346,7 @@ W
   ====
   - [[Page~9|n52 吒(3)咤(3)]]
     --
-    Used for the last [[$詫3]]. [[**See $詫caa3 for the canonical entry.**]]
-    --
-    --
-    [[Otherwise, an idiosyncratic reading from Fan Wan. **See $吒zaa3 for the canonical entry.**]]
+    [[Alternative form of 詫. **See $詫caa3 for the canonical entry.**]]
     --
   ====
 S
@@ -374,10 +371,7 @@ W
   ====
   - [[Page~9|n52 吒(3)咤(3)]]
     --
-    Used for the last [[$詫3]]. [[**See $詫caa3 for the canonical entry.**]]
-    --
-    --
-    [[Otherwise, an alternative form of 吒, and an idiosyncratic reading from Williams. **See $吒zaa3 for the canonical entry.**]]
+    [[Alternative form of 詫. **See $詫caa3 for the canonical entry.**]]
     --
   ====
 $$
@@ -510,6 +504,13 @@ W
         [[caa3 ji6 詫異]]
         strange, foolish.
     ==
+  - [[Page~9|n52 吒(3)咤(3)]]
+    --
+    Used for the last [[詫]].
+    --
+    --
+    [[...]]
+    --
   ====
 C
   ==
