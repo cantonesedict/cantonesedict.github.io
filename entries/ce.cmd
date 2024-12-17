@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2024-12-16
+* %date-modified --> 2024-12-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -351,9 +351,9 @@ F
   ==
 W
   ====
-  - [[Page~31|n74 (2)撦(2)抯(2)扯]]
+  - [[Page~31|n74 ::(2)撦~~(2)抯~~(2)扯::]]
     ==
-    - To tear open, to pull apart;
+    - To tear open, to pull apart [[Kangxi 撦: 裂開也]];
     - to tear away;
     - to pull up or on;
     - to haul, to drag;
@@ -396,9 +396,9 @@ W
 C
   ====
   - Fan Wan (and Williams following it) considers 抯 the same as 扯.
-    Strictly, this is erroneous; the three readings in Middle Chinese are:
+    Strictly, this is erroneous; the three readings in 《廣韻》 are:
     ++
-    1. _(1)ch(a/)_ (zaa1) from 側加切, explained 挹也 (quoting 說文);
+    1. _(1)ch(a/)_ (zaa1) from 側加切, explained 挹也 (per 說文);
     2. _ts(e/)(6)_ (ze6) from 徐野切, explained 取也
        (or _(5)ts(')(e/)_ (ce5) if insisting on rising tone); and
     3. _(2)ts(e/)_ (ze2) from 兹野切, also explained 取也.
@@ -431,7 +431,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~31|n74 (2)撦(2)抯(2)扯]]
+  - [[Page~31|n74 ::(2)撦~~(2)抯~~(2)扯::]]
     --
     [[Alternative form of 扯. **See $扯ce2 for the canonical entry.**]]
     --
