@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caang
-* %date-modified --> 2024-12-16
+* %date-modified --> 2024-12-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -198,10 +198,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Alternative form of 鐺. **See $鐺caang1 for the canonical entry.**
-  ==
+P
+  ++
+  1. Alternative form of 鐺. **See $鐺caang1 for the canonical entry.**
+  ++
 $$
 
 ###+ 鐺1 | _(1)Ch(')(a/)ng_ (caang1)
@@ -286,10 +286,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Reading variation (vernacular rising-tone noun). **See $橙caang4 for the canonical entry.**
-  ==
+P
+  ++
+  1. Reading variation (vernacular rising-tone noun). **See $橙caang4 for the canonical entry.**
+  ++
 S
   ==
   - $橙caang4
@@ -375,10 +375,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Alternative form of 撐. **See $撐caang3 for the canonical entry.**
-  ==
+P
+  ++
+  1. Alternative form of 撐. **See $撐caang3 for the canonical entry.**
+  ++
 S
   ==
   - $撑caang1

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2024-12-03
+* %date-modified --> 2024-12-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -155,10 +155,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Alternative form of 搋. **See $搋caai1 for the canonical entry.**
-  ==
+P
+  ++
+  1. Alternative form of 搋. **See $搋caai1 for the canonical entry.**
+  ++
 S
   ==
   - $搓co1
@@ -285,15 +285,18 @@ W
   [[Not present]]
 C
   ==
-  - Alternative form of 踹. **See $踹caai2 for the canonical entry.**
   - The character 踩 is not attested in the Middle Chinese rime books.
     Perhaps the pre-merger reading should be
     _(2)ts(')(a/)i_ instead of _(2)ch(')(a/)i_
     based on the initial of the phonetic 采,
     but the syllable _ts(')(a/)i_ does not exist under any tone in Fan Wan.
-  - For the purposes of Cantonese 踩 is indistiguishable from 踹.
-    Note that the Mandarin readings are distinct.
+  - For the purposes of Cantonese, 踩 is indistiguishable from 踹.
+    Note that the Mandarin readings are distinct (cǎi and chuài).
   ==
+P
+  ++
+  1. Alternative form of 踹. **See $踹caai2 for the canonical entry.**
+  ++
 $$
 
 ### 踹2 | _(2)Ch(')(a/)i_ [[caai2]]

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aat
-* %date-modified --> 2024-12-02
+* %date-modified --> 2024-12-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -156,10 +156,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Reading variation. **See $戛gaat3 for the canonical entry.**
-  ==
+P
+  ++
+  1. Reading variation. **See $戛gaat3 for the canonical entry.**
+  ++
 S
   ==
   - $戛gaat3 (TODO)

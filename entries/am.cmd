@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2024-12-16
+* %date-modified --> 2024-12-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -170,10 +170,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Reading variation (per 《廣韻》烏含切). **See $諳am2 for the canonical entry.**
-  ==
+P
+  ++
+  1. Reading variation (per 《廣韻》烏含切). **See $諳am2 for the canonical entry.**
+  ++
 S
   ==
   - $諳am2
@@ -648,10 +648,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Reading variation (per 《廣韻》烏紺切). **See $闇am2 for the canonical entry.**
-  ==
+P
+  ++
+  1. Reading variation (per 《廣韻》烏紺切). **See $闇am2 for the canonical entry.**
+  ++
 S
   ==
   - $闇am2

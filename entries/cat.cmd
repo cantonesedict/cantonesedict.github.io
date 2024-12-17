@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cat
-* %date-modified --> 2024-12-15
+* %date-modified --> 2024-12-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -106,7 +106,7 @@ W
         to write seven essays.
     ==
     --
-    [[**See $柒cat1 for the alternative form.**]]
+    The second [[柒]] [is] used for the compound form [[...]].
     --
   ====
 C
@@ -139,15 +139,14 @@ W
     [[...]]
     --
     --
-    The second [[柒]], used for the compound form,
+    [[Alternative form of 七 (to prevent alteration). **See $七cat1 for the canonical entry.**]]
+    --
+    --
+    The second [[柒]] [[...]]
     is also a sort of tree [[Kangxi 柒: 木名]],
     and a contracted form of the next [[$漆1]] [[Kangxi 柒: 俗漆字]].
     --
   ====
-C
-  ==
-  - Alternative form of 七 (to prevent alteration). **See $七cat1 for the canonical entry.**
-  ==
 $$
 
 ### [漆]1 | _Ts(')at(7)_ [[cat1]]
@@ -242,10 +241,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Alternative form of {𨳍=⿵門七}. **See ${𨳍=⿵門七}cat6 for the canonical entry.**
-  ==
+P
+  ++
+  1. Alternative form of {𨳍=⿵門七}. **See ${𨳍=⿵門七}cat6 for the canonical entry.**
+  ++
 $$
 
 ###+ {𨳍=⿵門七}6 | _Ts(')at(9)_ (cat6)

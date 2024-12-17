@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caak
-* %date-modified --> 2024-12-16
+* %date-modified --> 2024-12-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -66,10 +66,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Reading variation. **See $惻cak1 for the canonical entry.**
-  ==
+P
+  ++
+  1. Reading variation. **See $惻cak1 for the canonical entry.**
+  ++
 S
   ==
   - $惻cak1
@@ -87,10 +87,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Reading variation. **See $測cak1 for the canonical entry.**
-  ==
+P
+  ++
+  1. Reading variation. **See $測cak1 for the canonical entry.**
+  ++
 S
   ==
   - $測cak1

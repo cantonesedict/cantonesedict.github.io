@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2024-12-16
+* %date-modified --> 2024-12-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -242,10 +242,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Alternative form of 吖. **See $吖aa1 for the canonical entry.**
-  ==
+P
+  ++
+  1. Alternative form of 吖. **See $吖aa1 for the canonical entry.**
+  ++
 S
   ==
   - $啊aa3

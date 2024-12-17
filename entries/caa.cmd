@@ -415,10 +415,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Reading variation (per 《字彙補》丑亞切). **See $岔caa1 for the canonical entry.**
-  ==
+P
+  ++
+  1. Reading variation (per 《字彙補》丑亞切). **See $岔caa1 for the canonical entry.**
+  ++
 S
   ==
   - $岔caa1
@@ -436,10 +436,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Reading variation (per 《集韻》楚嫁切). **See $汊caa1 for the canonical entry.**
-  ==
+P
+  ++
+  1. Reading variation (per 《集韻》楚嫁切). **See $汊caa1 for the canonical entry.**
+  ++
 S
   ==
   - $汊caa1
@@ -793,10 +793,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Alternative form of 搽. **See $搽caa5 for the canonical entry.**
-  ==
+P
+  ++
+  1. Alternative form of 搽. **See $搽caa5 for the canonical entry.**
+  ++
 S
   ==
   - $扠caa1
