@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cik
-* %date-modified --> 2024-12-05
+* %date-modified --> 2024-12-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -493,11 +493,11 @@ W
   ====
   - [[Page~14* 赤(8)]]
     ==
-    - Carnation, purplish or light red;
-    - flesh color;
-    - naked, destitute, barren, poor;
+    - Carnation, purplish or light red [[Kangxi: 朱色也]];
+    - flesh color [[Kangxi: ::[...]肉色也::]];
+    - naked, destitute, barren, poor [[Kangxi: 空盡無物曰赤]];
     - to redden;
-    - to denude;
+    - to denude [[Kangxi: 裸裎曰赤體見肉色也]];
     - the 155th~radical of characters referring to red;
     - _ch(')ik(8) (2)t(a/)m_
         [[cik3 daam2 赤膽]],
@@ -532,11 +532,10 @@ W
         [[cik3 dei6 赤地]]
         barren wastes.
     ==
+    --
+    [[Otherwise, an alternative form of {𤷫=⿸疒刺}. **See ${𤷫=⿸疒刺}cek3 for the canonical entry.**]]
+    --
   ====
-C
-  ==
-  - Otherwise, an alternative form of {𤷫=⿸疒刺}. **See ${𤷫=⿸疒刺}cek3 for the canonical entry.**
-  ==
 S
   ==
   - $赤cek3

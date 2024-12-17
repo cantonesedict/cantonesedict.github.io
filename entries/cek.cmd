@@ -220,11 +220,11 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Reading variation. **See $赤cik3 for the canonical entry.**
-  - Otherwise, an alternative form of {𤷫=⿸疒刺}. **See ${𤷫=⿸疒刺}cek3 for the canonical entry.**
-  ==
+P
+  ++
+  1. Reading variation. **See $赤cik3 for the canonical entry.**
+  1. Aternative form of {𤷫=⿸疒刺}. **See ${𤷫=⿸疒刺}cek3 for the canonical entry.**
+  ++
 S
   ==
   - $赤cik3
