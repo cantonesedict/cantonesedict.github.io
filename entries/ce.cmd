@@ -553,8 +553,8 @@ W
   - [[Page~565 (4)斜]]
     ==
     - Slanting, inclined, oblique, across, crisscross,
-      diagonal, aslant, not with the rule;
-    - distorted, scattered;
+      diagonal, aslant, not with the rule [[Kangxi: 不正也]];
+    - distorted, scattered [[Kangxi: 散也]];
     - often used for the preceding [[$邪4]];
     - _(4)ts(')(e/) (4)man p(o\)(3)_
         [[ce4 man4 bou3 斜紋布]]
