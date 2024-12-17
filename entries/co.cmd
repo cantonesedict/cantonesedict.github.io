@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> co
-* %date-modified --> 2024-12-16
+* %date-modified --> 2024-12-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -313,7 +313,7 @@ W
   ====
   - [[Page~583 (1)瘥]]
     --
-    [[Reading variation. **See $瘥co4 for the canonical entries.**]]
+    [[Reading variation. **See $瘥co4 for the canonical entry.**]]
     --
   ====
 S

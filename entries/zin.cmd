@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2024-12-06
+* %date-modified --> 2024-12-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -738,7 +738,7 @@ W
   ====
   - [[Page~17* (2)碾]]
     --
-    [[Reading variation. **See $碾nin5 for the canonical entries.**]]
+    [[Reading variation. **See $碾nin5 for the canonical entry.**]]
     --
   ====
 S
