@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cek
-* %date-modified --> 2024-12-16
+* %date-modified --> 2024-12-17
 * %copyright-prior-years -->
 
 %%%
@@ -155,7 +155,7 @@ S
   ==
 $$
 
-### {𤷫=⿸疒刺}3 | _[Ts(')ek](8)_ [[cek3]]
+###+ {𤷫=⿸疒刺}3 | _Ts(')ek(8)_ (cek3)
 
 $$
 R
@@ -174,7 +174,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~571 {𤷫=⿸疒刺}(8)]]
+  - [[Page~571 {𤷫=⿸疒刺}(8) _Ts(')ik(8)_ (cik3); _Ts(')ek(8)_ (cek3) exemplified]]
     ==
     - A fullness in the stomach;
     - a pain from laughing;
