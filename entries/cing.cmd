@@ -710,11 +710,11 @@ W
   ====
   - [[Page~578 (2)請]]
     ==
-    - To request, to ask courteously, to pray, to beg;
+    - To request, to ask courteously, to pray, to beg [[Kangxi: 謁也, 求也, 乞也問也, 祈也扣也]];
     - to request liberty to do, to ask, as for orders;
     - to invite, to bid, to engage;
     - to confess, to acknowledge;
-    - to inform;
+    - to inform [[Kangxi: 吿也]];
     - _(2)ts(')ing [(5)ts(')o]_
         [[cing2 co5 請坐]]^
         please be seated;
