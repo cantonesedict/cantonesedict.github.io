@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2024-10-16
+* %date-modified --> 2024-12-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -456,7 +456,7 @@ W
   - [[Page~577 (1)靑(1)青]]
     ==
     - The color of nature,
-      as the azure of the sky or the green of growing plants;
+      as the azure of the sky or the green of growing plants [[Kangxi 靑: 靑生也]];
     - a very light green or blue tint;
     - wan, fading away, pale;
     - the 174th~radical;
