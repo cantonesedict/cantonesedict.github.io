@@ -616,10 +616,10 @@ W
   ====
   - [[Page~564 (4)邪]]
     ==
-    - Deflected, inclined, swerving from the right line;
+    - Deflected, inclined, swerving from the right line [[Kangxi: 不正也]];
     - whatever leads astray;
-    - depraved, bad, crooked, vicious, corrupting, obscene;
-    - specious, deluding;
+    - depraved, bad, crooked, vicious, corrupting, obscene [[Kangxi: 姦思也]];
+    - specious, deluding [[Kangxi: 佞也]];
     - heretical, illegal, not acknowledged by the state, or in the classics;
     - _(4)'m sun(3) (4)ts(')(e/)_
         [[m4 seon3 ce4-2 唔信邪]]^
