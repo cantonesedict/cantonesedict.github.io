@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> au
-* %date-modified --> 2024-12-16
+* %date-modified --> 2024-12-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -147,16 +147,16 @@ W
   ====
   - [[Page~6 (1)歐]]
     --
-    [[Alternative form of 謳. **See $謳au1 for the canonical entry.**]]
-    --
-    --
-    Used for the next [[嘔]], to vomit [[**see $嘔au2**]];
+    [[...]]
     --
     ==
     - _(1)au (1)t(o\)_
         [[au1 dou1 歐刀]],
         a headsman's sword [[Kangxi: {𠛬=⿰幵刂}人之刀也]].
     ==
+    --
+    [[Otherwise, an alternative form of 謳. **See $謳au1 for the canonical entry.**]]
+    --
   ====
 S
   ==
@@ -347,9 +347,19 @@ F
   ==
 W
   ====
+  - [[Page~6 (1)歐 _(1)Au_ (au1); _(2)Au_ (au2) implied]]
+    --
+    [[...]]
+    --
+    --
+    Used for the next [[嘔]], to vomit;
+    --
+    --
+    [[...]]
+    --
   - [[Page~6 (2)嘔]]
     --
-    Interchanged with the last [[$歐1]] [[Kangxi: 與歐同]].
+    Interchanged with the last [[$歐2]] [[Kangxi: 與歐同]].
     --
     ==
     - To vomit [[Kangxi: 吐也]];
@@ -397,13 +407,7 @@ W
   ====
   - [[Page~6 (1)歐 _(1)Au_ (au1); _(2)Au_ (au2) implied]]
     --
-    [[...]]
-    --
-    --
-    Used for the next [[嘔]], to vomit [[**see $嘔au2**]];
-    --
-    --
-    [[...]]
+    [[Alternative form of 嘔. **See $嘔au2 for the canonical entry.**]]
     --
   ====
 S
