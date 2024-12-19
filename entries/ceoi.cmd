@@ -748,12 +748,12 @@ W
   ====
   - [[Page~598 (4)漼 _(4)Ts(')(u/)i_ (ceoi4); here corrected to _(2)Ts(')(u/)i_ (ceoi2)]]
     ==
-    - Deep, clear water;
-    - tears trickling down;
-    - fresh, new, clean;
-    - spoiling, ruining;
+    - Deep [[Kangxi: 深也]], clear water;
+    - tears trickling down [[Kangxi: 涕垂貌]];
+    - fresh, new [[Kangxi: 鮮明也]], clean;
+    - spoiling, ruining [[Kangxi: 壞貌]];
     - [[...]];
-    - name of a stream.
+    - name of a stream [[Kangxi: 水名]].
     ==
   ====
 S
@@ -1485,8 +1485,8 @@ W
   ====
   - [[Page~598 (4)漼]]
     ==
-    - [[See $漼ceoi2 for "depth" and other senses]];
-    - snow drifted;
+    - [[...]];
+    - snow drifted [[Kangxi: 漼溰雪霜積聚貌]];
     - [[...]].
     ==
   ====
