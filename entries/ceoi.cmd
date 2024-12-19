@@ -562,11 +562,11 @@ W
   ====
   - [[Page~595 (2)取]]
     ==
-    - To take, to lay hold on, to use;
+    - To take, to lay hold on [[Kangxi: 捕取也]], to use;
     - to exact;
     - to seize on, to take away;
-    - to assume, to appropriate;
-    - to receive, to apply to one's use;
+    - to assume, to appropriate [[Kangxi: 資也收也]];
+    - to receive [[Kangxi: 受也]], to apply to one's use;
     - to take, as a wife [[see $娶ceoi2]];
     - to get, to induce, to bring upon;
     - taken, applied, selected;
