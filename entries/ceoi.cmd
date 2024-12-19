@@ -1699,15 +1699,15 @@ W
   ====
   - [[Page~32* (4)除]]
     ==
-    - Steps to a palace;
-    - a vestibule;
-    - to exclude, to remove;
+    - Steps to a palace [[Kangxi: 殿陛也]];
+    - a vestibule [[Kangxi: 除謂門屛之閒]];
+    - to exclude, to remove [[Kangxi: 去也]];
     - to deduct, to subtract;
     - to except from;
-    - to cure;
-    - to exchange;
-    - to vacate;
-    - to divide;
+    - to cure [[Kangxi: 病愈者或謂之除]];
+    - to exchange [[Kangxi: 易也]];
+    - to vacate [[Kangxi: 開也]];
+    - to divide [[Kangxi: 算法有乗除]];
     - besides, exclusive of;
     - _(4)ch(')(u:) lat(7)_
         [[ceoi4 lat1 除甩]]
