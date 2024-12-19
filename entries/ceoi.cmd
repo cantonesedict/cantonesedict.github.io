@@ -1620,7 +1620,7 @@ W
   ====
   - [[Page~34* (4)錘(4)鎚]]
     ==
-    - The weight on a steelyard;
+    - The weight on a steelyard [[Kangxi 錘: 稱錘也]];
     - a hammer;
     - to hammer;
     - to beat, to pound;
