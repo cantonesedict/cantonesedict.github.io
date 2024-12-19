@@ -1579,7 +1579,7 @@ W
   ====
   - [[Page~32* (4)::[躕]::]]
     ==
-    - Embarrassed, hindered;
+    - Embarrassed, hindered [[Kangxi: 踟躕行不進貌]];
     - _(4)ch(')(i/) (4)ch(')(u:)_
         [[ci4 ceoi4 踟躕]],
         entangled.
@@ -1589,6 +1589,7 @@ C
   ==
   - Fan Wan entry: Normalised headword ⿰𧾷⿸广⿰豆寸 to 蹰.
   - Williams entry: Normalised headword {𨆼=⿰𧾷㕑} to 躕.
+  - Williams' "Embarrassed": In the (now) archaic sense of "impeded", "obstructed".
   ==
 S
   ==
