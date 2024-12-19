@@ -924,10 +924,10 @@ W
   ====
   - [[Page~597 脃(3)脆(3)]]
     ==
-    - Delicate, easily broken;
+    - Delicate, easily broken [[Kangxi 脃: 小耎易斷也]];
     - brittle, crackling;
     - shivery, crumbling;
-    - crisp, light, as crust;
+    - crisp, light [[Kangxi 脃: 輕也]], as crust;
     - trifling, unsteady in character;
     - _(2)shong ts(')ui(3)_
         [[song2 ceoi3 爽脆]]
