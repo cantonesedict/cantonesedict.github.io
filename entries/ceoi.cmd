@@ -974,20 +974,19 @@ W
   ====
   - [[Page~596 蜡(3)]]
     --
-    Used as a form of 臘 and 蠟 _l(a/)p(9)_ [[laap6]]
-    [[**see $臘laap6 and $蠟laap6**]]. [[TODO]]
+    [[...]]
     --
     ==
     - A flyblow, eggs of the common fly [[Kangxi: 蠅膽也]].
     ==
     --
-    Read _ch(a/)(3)_ [[zaa3]]; [[**see $蜡zaa3**]].
+    [[...]]
     --
   ====
 S
   ==
   - $蜡caa3
-  - $蜡laap6 (TODO)
+  - $蜡laap6 (TODO) <## Used as a form of 臘 and 蠟 _l(a/)p(9)_ [[laap6]] ##>
   - $蜡zaa3
   ==
 $$

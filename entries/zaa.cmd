@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2024-12-06
+* %date-modified --> 2024-12-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -801,6 +801,9 @@ W
         a sacrifice of thanksgiving to the earth in winter for ripening crops.
     ==
   - [[Page~596 蜡(3)]]
+    --
+    [[...]]
+    --
     --
     Read _ch(a/)(3)_ [[zaa3]];
     --
