@@ -105,15 +105,11 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - The reading _(1)chui_ (zeoi1) for 椎 is not present in Williams;
-    an entry is included here for completeness.
-    ++
-    1. A vertebra (in 脊椎 etc.).
-    1. A type of tree, like the chestnut but small.
-    ++
-  ==
+P
+  ++
+  1. A vertebra (in 脊椎 etc.).
+  1. A type of tree, like the chestnut but small (Kangxi: 木名似栗而小).
+  ++
 S
   ==
   - $椎ceoi4
