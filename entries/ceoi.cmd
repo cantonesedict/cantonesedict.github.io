@@ -1549,7 +1549,7 @@ W
   ====
   - [[Page~32* (4)蜍]]
     ==
-    - A toad;
+    - A toad [[Kangxi: 蟾蜍也]];
     - _(4)sh(i/)m (4)ch(')(u:)_ [[sim4 ceoi4 蟾蜍]],
         vulgo, _(4)k(')am (4)k(')(u:)_ [[kam4 keoi4 蠄蟝]],
         a toad.
