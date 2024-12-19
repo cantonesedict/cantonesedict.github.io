@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2024-12-16
+* %date-modified --> 2024-12-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -194,8 +194,7 @@ W
   ====
   - [[Page~552 (1)葠]]
     --
-    Used for _(1)sham_ [[sam1]] 參 ginseng, ~~but erroneously~~
-    [[**see $葠sam1**]].
+    Used for _(1)sham_ [[sam1]] 參 ginseng, ~~but erroneously~~.
     --
   ====
 C
@@ -205,7 +204,7 @@ C
   ==
 S
   ==
-  - $葠sam1 (TODO)
+  - $葠sam1 (TODO) <## delete 葠 cam1 and normalise under 參 sam1 ##>
   ==
 $$
 

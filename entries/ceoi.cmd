@@ -567,7 +567,7 @@ W
     - to seize on, to take away;
     - to assume, to appropriate [[Kangxi: 資也收也]];
     - to receive [[Kangxi: 受也]], to apply to one's use;
-    - to take, as a wife [[see $娶ceoi2]];
+    - to take, as a wife [[**see $娶ceoi2**]];
     - to get, to induce, to bring upon;
     - taken, applied, selected;
     - _(1)shau (2)ts(')(u:)_
