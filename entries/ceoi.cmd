@@ -1801,7 +1801,7 @@ W
   ====
   - [[Page~597 (4)隨]]
     ==
-    - To follow, to accord with, to yield, to comply obediently;
+    - To follow, to accord with, to yield, to comply obediently [[Kangxi: 從也順也]];
     - to permit, to let;
     - the way or usage of;
     - an adverb, according to, as, like, wherever;
@@ -1844,8 +1844,7 @@ W
         it is all about, they are everywhere.
     ==
     --
-    A colloquial word
-    [[here normalised to {𡃴=⿰口隨}; **see ${𡃴=⿰口隨}ceoi4 for the canonical entry**]].
+    [[Otherwise, an alternative form of {𡃴=⿰口隨}. **See ${𡃴=⿰口隨}ceoi4 for the canonical entry.**]]
     --
   ====
 $$
