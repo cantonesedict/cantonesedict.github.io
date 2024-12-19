@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aang
-* %date-modified --> 2024-12-05
+* %date-modified --> 2024-12-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -48,6 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $甖1
+- $罃1
 - $罌1
 ==
 </nav>
@@ -71,6 +72,27 @@ W
   ====
 $$
 
+###+ 罃1 | _(1)(A/)ng_ (aang1)
+
+$$.
+R
+  ⽸ + 10
+U
+  U+7F43
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 罌. **See $罌aang1 for the canonical entry.**
+  ++
+S
+  ==
+  - $罃ang1
+  ==
+$$
+
 ### 罌1 | _(1)(A/)ng_ [[aang1]]
 
 $$
@@ -80,7 +102,7 @@ U
   U+7F4C
 A
   ==
-  - [罃 _(1)Ang_ [[ang1]]](ang#1罃)
+  - $罃1
   - $甖1
   ==
 V
