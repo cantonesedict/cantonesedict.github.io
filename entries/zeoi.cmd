@@ -866,6 +866,11 @@ R
   ⼼ + 9
 U
   U+60F4
+V
+  ==
+  - ceoi2 (per Fan Wan)
+  - cyun2 (common)
+  ==
 F
   ==
   - [[F2.56 惴 _(2)Ch(')ui_ (ceoi2)]] 恐懼貌
@@ -874,16 +879,21 @@ W
   ====
   - [[Page~34* (2)惴 _(2)Ch(')ui_ (ceoi2); here normalised to _Chui(3)_ (zeoi3)]]
     ==
-    - Mournful;
-    - in straits;
+    - ~~Mournful;~~
+    - ~~in straits;~~
     - _[chui(3)] [chui(3)]_
         [[zeoi3 zeoi3 惴惴]],
-        [mourning], grieving;
+        ~~[mourning], grieving~~;
     - _[chui(3)] k(u:)(6)_
         [[zeoi3 geoi6 惴懼]]
         anxious.
     ==
   ====
+C
+  ==
+  - Williams' "Mournful", "in straits": Not really.
+    Better rendered "anxious" or "apprehensive".
+  ==
 S
   ==
   - $惴ceoi2
