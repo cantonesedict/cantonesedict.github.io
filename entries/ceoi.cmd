@@ -1301,7 +1301,7 @@ W
     Like the last [[$槌4]].
     --
     ==
-    - To beat;
+    - To beat [[Kangxi 捶: 以杖擊也]];
     - to strike, as on a bell;
     - [[...]].
     ==
