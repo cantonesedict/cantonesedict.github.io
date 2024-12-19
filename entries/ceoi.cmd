@@ -356,8 +356,8 @@ W
   ====
   - [[Page~598 (1)璀]]
     ==
-    - The lustre of a gem;
-    - a gem hanging down, as from the girdle.
+    - The lustre of a gem [[Kangxi: 璀璨玉光也]];
+    - a gem hanging down, as from the girdle [[Kangxi: 璀璨珠垂貌]].
     ==
   ====
 C
