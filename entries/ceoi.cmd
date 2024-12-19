@@ -820,8 +820,8 @@ W
   ====
   - [[Page~597 毳(3)]]
     ==
-    - The down on birds, the fine undergrowth of hair on animals;
-    - birds molting;
+    - The down on birds, the fine undergrowth of hair on animals [[Kangxi: 獸細毛也]];
+    - ~~birds molting;~~
     - furry, downy, soft, fine, delicate;
     - like felt, velvety;
     - _(4)m(i/)n ts(')ui(3)_
@@ -837,8 +837,9 @@ W
   ====
 C
   ==
-  - 《廣韻》 gives both 此芮切 _ts(')ui(3)_ (Williams)
-    and 楚稅切 _ch(')ui(3)_ (Fan Wan).
+  - 《廣韻》 gives both 此芮切 _ts(')ui(3)_ (per Williams)
+    and 楚稅切 _ch(')ui(3)_ (per Fan Wan).
+  - Williams' "birds molting": Probably a misreading of Kangxi 鳥腹毛曰毳.
   ==
 $$
 
