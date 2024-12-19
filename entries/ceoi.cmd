@@ -276,12 +276,12 @@ W
   ====
   - [[Page~598 (4)摧 _(4)Ts(')(u/)i_ (ceoi4); here normalised to _(1)Ts(')(u/)i_ (ceoi1)]]
     ==
-    - To stop, to drive back, to repress;
+    - To stop, to drive back, to repress [[Kangxi: 挫也抑也]];
     - to overpower, to set down;
-    - to push upon, to thrust forward, to crowd against, to impel;
-    - to break, as the wind does trees;
-    - to reach;
-    - to put out, to extinguish, as a family;
+    - to push upon, to thrust forward, to crowd against, to impel [[Kangxi: 擠也]];
+    - to break [[Kangxi: 一曰折也]], as the wind does trees;
+    - to reach [[Kangxi: 摧詹至也]];
+    - to put out, to extinguish, as a family [[Kangxi: 滅也]];
     - _[(1)]ts(')(u/)i yik(7)_
         [[ceoi1 jik1 摧抑]]
         to abate, to put down;
