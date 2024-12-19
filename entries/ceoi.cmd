@@ -223,7 +223,7 @@ W
   ====
   - [[Page~598 (1)崔]]
     ==
-    - Lofty, mountainous;
+    - Lofty, mountainous [[Kangxi: 高大也, 崔嵬也]];
     - rugged, as a hilly country;
     - _(1)ts(')(u/)i (4)ngai_
         [[ceoi1 ngai4 崔嵬]],
