@@ -136,9 +136,9 @@ W
   ====
   - [[Page~34* (1)吹(1)龡]]
     ==
-    - To blow, as the wind or by breath;
+    - To blow [[Kangxi: 噓也, 出氣也]], as the wind or by breath;
     - to whistle;
-    - to puff;
+    - to puff [[Kangxi: 吹噓相佐助也]];
     - a blast, a gust;
     - to play on a wind instrument;
     - _(1)ch(')ui (1)h(u:) (5)h(a/)_
