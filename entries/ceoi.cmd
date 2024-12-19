@@ -1220,9 +1220,9 @@ W
   ====
   - [[Page~32* (4)廚(4)厨]]
     ==
-    - A kitchen, a cook-room;
+    - A kitchen, a cook-room [[Kangxi: 庖屋也]];
     - a slaughter-house;
-    - a quiver;
+    - a quiver [[Kangxi 廚: 櫝也]];
     - _(4)ch(')(u:) (4)yan_ [[cyu4 jan4 廚人]]^
         or
       _(4)ch(')(u:) (1)k(u/)n_ [[cyu4 gun1 廚官]],
