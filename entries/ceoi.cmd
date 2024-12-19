@@ -724,7 +724,7 @@ W
   ====
   - [[Page~34* (2)揣]]
     --
-    Also read _(2)ch(u:)n_ [[cyun2]] [[**see $揣cyun2**]].
+    [[Reading variation (per 《廣韻》初委切). **See $揣cyun2 for the canonical entry.**]]
     --
   ====
 S
