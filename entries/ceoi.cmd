@@ -649,7 +649,7 @@ W
   ====
   - [[Page~596 娶(3) _Ts(')(u:)(3)_ (ceoi3); here normalised to _(2)Ts(')(u:)_ (ceoi2)]]
     ==
-    - To marry a woman with the legal ceremonies;
+    - To marry a woman with the legal ceremonies [[Kangxi: ::[取]婦也::]];
     - a marriage;
     - _[(2)]ts(')(u:) (1)ts(')ai_ [[ceoi2 cai1 娶妻]],
         or
@@ -657,8 +657,8 @@ W
         to take a wife;
     - _[(2)]ts(')(u:) (1)san (5)f(u/)_ [[ceoi2 san1 fu5 娶新婦]]^
         or
-      _[(2)]ts(')(u:) (1)[san1] (5)p(')(o\)_ [[ceoi2 san1 pou5 娶新婦]],
-        somebady marrying;
+      _(2)[ts(')(u:)] (1)[san1] (5)p(')(o\)_ [[ceoi2 san1 pou5 娶新婦]],
+        [somebody] marrying;
     - _(4)wing [(2)]ts(')(u:) (4)'m (4)ts(')ang_
         [[wing4 ceoi2 m4 cang4 榮娶唔曾]],
         have you been married yet?
@@ -670,12 +670,13 @@ W
   ====
 C
   ==
-  - Williams' 娶新婦 (second occurrence): Corrected _(1)sam_ (sam1) to _(1)san_ (san1).
-    It is unclear if "somebady" is a typo for "somebody".
-    In any case, Williams fails to mention that the meaning is
-    to take a daughter-in-law.
-  - Williams' 榮娶唔曾: Bettered rendered "married" rather than "been married".
-    The verb 娶 is only used for men taking a wife.
+  - Williams' 娶新婦 (second occurrence):
+    Corrected _(2)ts(')(o\)_ (cou2) to _(2)ts(')(u:)_ (ceoi2)
+    and corrected _(1)sam_ (sam1) to _(1)san_ (san1).
+    Not somebody marrying, but to take a daughter-in-law.
+  - Williams' 榮娶唔曾: Bettered rendered "have you married"
+    rather than "have you been married".
+    The verb 娶 is only used for a man taking a wife.
   ==
 S
   ==
