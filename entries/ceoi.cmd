@@ -136,9 +136,9 @@ W
   ====
   - [[Page~34* (1)吹(1)龡]]
     ==
-    - To blow [[Kangxi: 噓也, 出氣也]], as the wind or by breath;
+    - To blow [[Kangxi 吹: 噓也, 出氣也]], as the wind or by breath;
     - to whistle;
-    - to puff [[Kangxi: 吹噓相佐助也]];
+    - to puff [[Kangxi 吹: 吹噓相佐助也]];
     - a blast, a gust;
     - to play on a wind instrument;
     - _(1)ch(')ui (1)h(u:) (5)h(a/)_
@@ -163,6 +163,13 @@ W
         [[ceoi1 fo2 tung4 ceot1 san1 吹火筒出身]],
         began life as a firelighter.
     ==
+  - [[Page~34* (1)炊; here normalised to 吹]]
+    --
+    Used for the last [[吹]] [[Kangxi 炊: 與吹同]].
+    --
+    --
+    [[...]]
+    --
   ====
 C
   ==
@@ -311,15 +318,18 @@ W
   ====
   - [[Page~34* (1)炊]]
     --
-    Used for the last [[$吹1]].
+    [[...]]
     --
     ==
     - To dress food;
-    - to cook;
+    - to cook [[Kangxi: 爨也]];
     - _(1)ch(')ui f(a/)n(6)_
         [[ceoi1 faan6 炊飯]]
         to cook rice.
     ==
+    --
+    [[Otherwise, an alternative form of 吹. **See $吹ceoi1 for the canonical entry.**]]
+    --
   ====
 C
   ==
