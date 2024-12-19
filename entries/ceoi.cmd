@@ -1321,16 +1321,12 @@ W
   ====
   - [[Page~34* (4)搥]]
     --
-    Like the last [[$槌4]].
+    [[Alternative form of 捶. **See $捶ceoi4 for the canonical entry.**]]
     --
-    ==
-    - [[Alternative form of 捶. **See $捶ceoi4 for the canonical entry.**]]
-    - [[See $搥deoi1 for "throw" senses]].
-    ==
   ====
 S
   ==
-  - $搥deoi1 (TODO)
+  - $搥deoi1 (TODO) <## throw ##>
   ==
 $$
 
