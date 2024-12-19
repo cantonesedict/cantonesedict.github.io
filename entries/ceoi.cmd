@@ -1511,13 +1511,20 @@ W
   ====
   - [[Page~32* (4)篨]]
     ==
-    - A mat rolled up;
+    - A mat [[Kangxi: 籧篨竹席]] rolled up;
     - _(4)k(')(u:) (4)ch(')(u:)_
         [[keoi4 ceoi4 籧篨]],
         a coarse mat;
-        _met._ a bad ailment, repulsive, hunchbacked.
+        _met._ a bad ailment [[Kangxi: 醜疾名]], repulsive, ~~hunchbacked~~.
     ==
   ====
+C
+  ==
+  - Williams' "hunchbacked": More swollen.
+    Kangxi has 編籧篨爲囷如人之擁腫而不能俯故以名醜疾也,
+    so 籧篨 is the inability to look down
+    (which is somewhat the opposite of being hunchbacked).
+  ==
 S
   ==
   - $篨cyu4
