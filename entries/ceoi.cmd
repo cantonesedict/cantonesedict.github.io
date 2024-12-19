@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2024-12-06
+* %date-modified --> 2024-12-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -87,7 +87,7 @@ W
   ====
   - [[Page~598 (1)催]]
     ==
-    - To urge, to press, to egg on;
+    - To urge, to press, to egg on [[Kangxi: 促也迫也]];
     - to importune;
     - to hasten, as the payment of a debt;
     - to reiterate;
