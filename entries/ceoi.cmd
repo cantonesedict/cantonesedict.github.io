@@ -986,7 +986,7 @@ W
 S
   ==
   - $蜡caa3
-  - $蜡laap6 (TODO) <## Used as a form of 臘 and 蠟 _l(a/)p(9)_ [[laap6]] ##>
+  - $蜡laap6 (TODO) <## Used as a form of 臘 and 蠟 _l(a/)p(9)_ ##>
   - $蜡zaa3
   ==
 $$
@@ -1034,7 +1034,7 @@ W
   ====
   - [[Page~596 覰(3); here normalised to 覷]]
     ==
-    - To spy, to look at;
+    - To spy, to look at [[Kangxi 覰: 伺視也]];
     - to peep, to descry, to reconnoitre;
     - _ts(')(u:)(3) (1)p(i/)n_
         [[ceoi3 bin1 覷邊]],
