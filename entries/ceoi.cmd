@@ -858,7 +858,7 @@ W
   ====
   - [[Page~597 翠(3)]]
     ==
-    - The female of a kingfisher, whose feathers are used in plumagery;
+    - The female of a kingfisher, whose feathers are used in plumagery [[Kangxi: 靑羽雀也, 雄曰翡雌曰翠]];
     - _ts(')ui(3) ki(u/)(6)_
         [[ceoi3 giu6-2 翠轎]]
         a bridal chair covered with feathers;
