@@ -1264,8 +1264,8 @@ W
   - [[Page~595 (4)徐]]
     ==
     - Grave, serious, leisurely;
-    - tardy, slow;
-    - composed, majestic, dignified;
+    - tardy, slow [[Kangxi: 緩也, 遲也]];
+    - composed [[Kangxi: 安行也]], majestic, dignified [[Kangxi: 威儀也]];
     - to walk carefully and formally;
     - _(4)ts(')(u:) p(o\)(6)_
         [[ceoi4 bou6 徐步]]
