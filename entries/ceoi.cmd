@@ -386,7 +386,7 @@ W
   ====
   - [[Page~598 (1)衰(1)縗]]
     ==
-    - The unhemmed, frayed edges of mourning clothes, which are left so;
+    - The unhemmed, frayed edges of mourning clothes [[Kangxi: 喪服也]], which are left so;
     - to ravel out;
     - _(2)ch(a/)m (1)ts(')(u/)i_
         [[zaam2 ceoi1 斬縗]],
