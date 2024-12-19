@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2024-12-16
+* %date-modified --> 2024-12-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -309,7 +309,7 @@ W
     - a millipede;
     - _tsik(7) (1)ts(u:)_
         [[zik1 zeoi1 蝍蛆]],
-        a centipede.
+        a centipede [[Kangxi: 蝍蛆食蛇蜈蚣也]].
     ==
     --
     [[Otherwise, a reading variation of the "maggot" sense. **See $蛆ceoi1 for the canonical entry.**]]

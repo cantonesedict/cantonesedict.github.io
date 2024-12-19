@@ -418,8 +418,8 @@ W
   ====
   - [[Page~595 (1)蛆]]
     ==
-    - Maggots in putrid flesh;
-    - flyblows, eggs of flies;
+    - Maggots in putrid flesh [[Kangxi: 肉中蟲也]];
+    - flyblows, eggs of flies [[Kangxi: 蠅乳]];
     - _(1)[sh(a/)ng] (1)ts(')(u:)_
         [[saang1 ceoi1 生蛆]],
         it has bred worms;
@@ -429,7 +429,7 @@ W
         a sort of Protococcus.
     ==
     --
-    Read _(1)ts(u:)_ [[zeoi1]], [[**see $蛆zeoi1**]].
+    [[...]].
     --
   ====
 C
