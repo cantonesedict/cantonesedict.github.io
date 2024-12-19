@@ -1404,10 +1404,10 @@ W
   ====
   - [[Page~34* (4)槌(4)椎]]
     ==
-    - A mallet, a beater, a club, a bludgeon;
+    - A mallet, a beater, a club, a bludgeon [[Kangxi 槌: 棒槌所以擊也]];
     - a beetle;
-    - to beat, to strike;
-    - [[see $槌deoi1 for "throw" senses]];
+    - to beat, to strike [[Kangxi 槌: 擊也]];
+    - [[...]];
     - _(4)ch(')ui (2)k(u/)_
         [[ceoi4 gu2 槌鼓]],
         to drum;
@@ -1432,7 +1432,7 @@ C
   ==
 S
   ==
-  - $槌deoi1 (TODO)
+  - $槌deoi1 (TODO) <## throw ##>
   ==
 $$
 
