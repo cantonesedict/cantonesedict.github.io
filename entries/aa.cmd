@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2024-12-17
+* %date-modified --> 2024-12-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -168,6 +168,9 @@ W
     - An interjection used in answers, denoting surprise or alarm;
     - alas! dreadful.
     ==
+    --
+    [[...]]
+    --
   ====
 C
   ==
