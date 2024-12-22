@@ -3044,8 +3044,8 @@ W
   - [[Page~617 恣(3) _Ts(')z'(3)_ (ci3); here normalised to _Tsz'(3)_ (zi3)]]
     ==
     - Relaxation, dissipation;
-    - licentious, gay, loose;
-    - to follow one's passions, to throw off all restraint;
+    - licentious, gay, loose [[Kangxi: 縱也]];
+    - to follow one's passions, to throw off all restraint [[Kangxi: 恣謂狡㹟淫戲不以禮也]];
     - _fong(3) [tsz'](3)_
         [[fong3 zi3 放恣]]
         profligate, dissipated;
