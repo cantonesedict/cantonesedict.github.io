@@ -540,7 +540,7 @@ W
   - [[Page~10* (1){𥼝=⿰米禽}(1)黐]]
     ==
     - To attach to, to stick on;
-    - glutinous, sticky, pasty;
+    - glutinous, sticky, pasty [[Kangxi 黐: 黏也]];
     - _(1)ch(')(i/) (1)k(a/)u_
         [[ci1 gaau1 黐膠]],
         birdlime;
