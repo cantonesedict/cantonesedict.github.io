@@ -1264,20 +1264,19 @@ W
   - [[Page~615 (1)訾 _(1)Ts(')z'_ (ci1); here corrected to _(1)Tsz'_ (zi1)]]
     ==
     - [[...]];
-    - to think, to consult;
-    - to restrict, to limit;
+    - to think, to consult [[Kangxi: 思也, 量也]];
+    - to restrict, to limit [[Kangxi: 限也]];
     - [[...]];
     - its meaning varies according to the one joined with it.
     ==
   ====
-C
-  ==
-  - Also a surname.
-  - Also used for $貲zi1.
-  ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  1. Alternative form of 貲. **See $貲zi1 for the canonical entry.**
+  ++
 S
   ==
-  - $訾ci1
   - $訾zi2
   ==
 $$
@@ -1314,6 +1313,10 @@ R
   ⾙ + 6
 U
   U+8CB2
+A
+  ==
+  -{.modern} $訾1
+  ==
 F
   ==
   - [[F2.34 貲]] 財也貨也
@@ -2768,22 +2771,21 @@ W
   ====
   - [[Page~615 (1)訾 _(1)Ts(')z'_ (ci1); here corrected to _(2)Tsz'_ (zi2)]]
     ==
-    - To speak hastily, to utter things unadvisedly;
-    - to slander, to detract from;
-    - [[see $訾zi1 for other senses]];
-    - faulty, licentious;
-    - impertinent, evil;
+    - To speak hastily, to utter things unadvisedly [[Kangxi: 不思稱意也]];
+    - to slander, to detract from [[Kangxi: 毀也]];
+    - [[...]];
+    - faulty, licentious [[Kangxi: 恣也]];
+    - ~~impertinent, evil;~~
     - its meaning varies according to the one joined with it.
     ==
   ====
 C
   ==
-  - Williams' "impertinent, evil": Possibly a misreading of Kangxi 惡也.
+  - Williams' "impertinent, evil": This is a misreading of Kangxi 惡也.
     Here, 惡 is departing tone (loathe), not entering tone (evil).
   ==
 S
   ==
-  - $訾ci1
   - $訾zi1
   ==
 $$
