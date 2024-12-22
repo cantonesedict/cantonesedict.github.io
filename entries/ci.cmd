@@ -710,9 +710,9 @@ W
   ====
   - [[Page~616 (2)佌]]
     ==
-    - Small, contracted, diminutive;
+    - Small, contracted, diminutive [[Kangxi: 佌佌小也]];
     - _(2)ts(')z' (2)ts(')z' (1)ch(i/) mat(9)_
-        [[ci2 ci2 zi1 mat6]]
+        [[ci2 ci2 zi1 mat6 佌佌之物]]
         a very little thing.
     ==
   ====
