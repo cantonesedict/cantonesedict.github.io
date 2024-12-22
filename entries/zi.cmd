@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-12-10
+* %date-modified --> 2024-12-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -897,7 +897,7 @@ W
   ====
   - [[Page~10* (1)胝 _(1)Ch(')(i/)_ (ci1); here normalised to _(1)Ch(i/)_ (zi1)]]
     ==
-    - Thickened skin on the hand;
+    - Thickened skin [[Kangxi: 腄也, 腁胝, 皮厚也]] on the hand;
     - growing callous;
     - _[(4)]p(')(i/)n (1)[ch(i/)]_
         [[pin4 zi1 胼胝]],
@@ -906,7 +906,7 @@ W
   ====
 C
   ==
-  - Whilst Kangxi quotes 《集韻》稱脂切 _(1)ch(')(i/)_ (ci1),
+  - Whilst Kangxi has the reading _(1)ch(')(i/)_ (ci1) per 《集韻》稱脂切,
     it is explained 鳥胃 "bird's stomach" (same as 胵).
   - Williams' 胼胝: Corrected _(1)p(')(i/)n_ (pin1) to _(4)p(')(i/)n_ (pin4).
   ==
