@@ -506,7 +506,7 @@ W
   ====
   - [[Page~10* (1)鴟]]
     ==
-    - A kind of owl, or a sort of hawk;
+    - A kind of owl, or a sort of hawk [[Kangxi: 䳠也]];
     - _kok(8) (1)ch(')(i/)_ [[gok3 ci1 角鴟]]^
         or
       _(1)ch(')(i/) (1)hi(u/)_ [[ci1 hiu1 鴟鴞]],
