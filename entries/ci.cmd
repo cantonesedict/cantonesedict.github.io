@@ -1051,14 +1051,9 @@ W
     - Perspiring [[Kangxi: 汗出貌]], sweating on the forehead;
     - clear water [[Kangxi: 水淸也]];
     - fresh, clean;
-    - [[see $泚zi2 for proper-name sense]].
+    - [[...]].
     ==
   ====
-C
-  ==
-  - Williams' "name of a stream": Kangxi reads _(2)tsz'_ (zi2)^,
-    quoting 《集韻》蔣氏切音紫水名.
-  ==
 S
   ==
   - $泚cai5
