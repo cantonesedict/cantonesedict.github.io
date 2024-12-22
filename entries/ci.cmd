@@ -800,7 +800,7 @@ W
   ====
   - [[Page~11* (2)始]]
     ==
-    - The beginning;
+    - The beginning [[Kangxi: 初也]];
     - an opening, a start;
     - to begin, to commence;
     - at the beginning of a sentence, it often means then, was, at that time;
