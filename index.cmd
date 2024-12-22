@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Home
-* %date-modified --> 2024-11-24
+* %date-modified --> 2024-12-22
 * %copyright-prior-years --> 2023--
 * %modern-colour --> crimson
 * %meta-description --> home page
@@ -158,9 +158,21 @@ that version has severe paging issues:
   A database of Cantonese readings from various dictionaries.
   --
 
+- [漢語多功能字庫](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/),
+  by the Research Centre for Humanities Computing at CUHK.
+  --
+  "Multi-function Chinese Character Database", including Cantonese readings.
+  --
+
 - [韻典網 (ytenx.org)](https://ytenx.org/), by BYVoid.
   --
   A database of the olden rime dictionaries (《廣韻》 etc.).
+  --
+
+- [說文解字 (shuowen.org)](https://www.shuowen.org/),
+  by 'an art lover languishing as a programmer'
+  --
+  A database of 《說文解字》, including commentary by 段玉裁.
   --
 
 - [Chinese Text Project Dictionary](https://ctext.org/dictionary.pl?if=en),
