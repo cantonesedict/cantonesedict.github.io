@@ -276,8 +276,8 @@ W
   ====
   - [[Page~10* (1)癡(1)痴]]
     ==
-    - Foolish, silly;
-    - stupid, inapt;
+    - Foolish, silly [[Kangxi 癡: 不慧也]];
+    - stupid, inapt [[Kangxi 癡: 癡者神思不足]];
     - idiotic;
     - doting after, lustful, hankering;
     - out of his head, wandering;
@@ -285,7 +285,7 @@ W
         [[ci1 ngoi4 癡呆]],
         foolish stolid;
     - _(1)ch(')(i/) ch(u:)t(8) [(2)]k(o\)m (1)ch(')(u:)n l(u:)n(6) ch(')(u:)(3)_
-        [[ci zyut3 gam2 cyun1 lyun6 cyu3 癡拙噉穿亂處]]
+        [[ci1 zyut3 gam2 cyun1 lyun6 cyu3 癡拙噉穿亂處]]
         running in and out, making such a rumpus;
     - _(1)ch(')(i/) (4)ts(')ing_
         [[ci1 cing4 癡情]],
