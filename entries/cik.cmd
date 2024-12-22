@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cik
-* %date-modified --> 2024-12-17
+* %date-modified --> 2024-12-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -436,14 +436,25 @@ W
   ====
   - [[Page~571 刺(8)]]
     ==
-    - To bore through;
+    - To bore through [[Kangxi: 穿也傷也]];
     - to stab;
-    - to embroider;
+    - to embroider [[Kangxi: 針黹也]];
     - to tattoo, to mark the skin;
     - a prickle, a thorn;
     - _ts(')ik(8) ts(')ik(8) pat(7) (1)yau_
         [[cik3 cik3 bat1 jau1 刺刺不休]],
-        incessant talking.
+        incessant talking [[Kangxi: 刺刺多言貌]].
+    ==
+  - [[Page~617 刺(3) _Ts(')z'(3)_ (ci3); here corrected to _Ts(')ik(8)_ (cik3)]]
+    ==
+    - [[...]];
+    - to pole, as a boat [[Kangxi: 撐也]];
+    - [[...]];
+    - to pry into, to overhear [[Kangxi: 偵伺也]];
+    - [[...]];
+    - _[ts(')ik(8)] [ts(')ik(8)]_
+        [[cik3 cik3 刺刺]]
+        to talk much [[Kangxi: 刺刺多言貌]].
     ==
   ====
 S

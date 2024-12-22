@@ -1326,7 +1326,7 @@ U
   U+523A
 V
   ==
-  - cik3 (alternative for verb senses)
+  - cik3 (alternative for "stab" senses)
   ==
 F
   ==
@@ -1336,21 +1336,21 @@ W
   ====
   - [[Page~617 刺(3)]]
     ==
-    - A thorn;
+    - A thorn [[Kangxi: 棘芒也]];
     - a sting;
-    - to pierce, to prick, to thrust a sharp point into;
-    - to embroider;
+    - to pierce, to prick, to thrust a sharp point into [[Kangxi: 針刺也]];
+    - to embroider [[Kangxi: 以針黹物曰刺]];
     - to brand, to tattoo;
     - to cut into;
-    - a visiting-card, because it was once cut in wood;
-    - to stab and kill;
+    - a visiting-card [[Kangxi: 書姓名於奏白曰刺]], because it was once cut in wood;
+    - to stab [[Kangxi: 刺直傷也]] and kill [[Kangxi: 刺殺也]];
     - to spade up, as plants with a trowel;
-    - to pole, as a boat;
-    - to reprehend, to blame;
+    - [[...]];
+    - to reprehend, to blame [[Kangxi: 刺責之]];
     - to criticise, to lampoon;
     - satire;
-    - to pry into, to overhear;
-    - to examine;
+    - [[...]];
+    - to examine [[Kangxi: 刺訊決也]];
     - _ts(')z'(3) (4)ng(a/)_
         [[ci3 ngaa4 刺牙]],
         to pick the teeth;
@@ -1370,9 +1370,7 @@ W
         or
       _(1)k(i/) ts(')z'(3)_ [[gei1 ci3 譏刺]]
         a sarcasm, an inuendo, a taunt;
-    - _ts(')z'(3) ts(')z'(3)_
-        [[ci3 ci3 刺刺]]
-        to talk much.
+    - [[...]].
     ==
   ====
 C
