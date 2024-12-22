@@ -400,8 +400,8 @@ W
   ====
   - [[Page~10* (1)蚩]]
     ==
-    - A worm;
-    - ignorant, stupid;
+    - A worm [[Kangxi: 蟲名]];
+    - ignorant, stupid [[Kangxi: 騃也]];
     - unpolished, sincere, rustic;
     - to impose on;
     - to treat as if ignorant, to despise;
