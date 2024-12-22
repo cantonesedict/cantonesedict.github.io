@@ -820,15 +820,11 @@ $$
 
 ### 弛2 | _(2)Ch(')(i/)_ [[ci2]]
 
-$$
+$$.
 R
   ⼸ + 3
 U
   U+5F1B
-V
-  ==
-  - ci4 (common)
-  ==
 F
   ==
   - [[F1.39 弛]] ::放也[棄]也廢也::
@@ -836,30 +832,10 @@ F
 W
   ====
   - [[Page~11* (2)弛]]
-    ==
-    - A bow unstrung;
-    - to let go the string of a bow;
-    - to relax;
-    - to cast off;
-    - injured, spoiled;
-    - easy, dissolute, unconcerned;
-    - _fai(3) (2)ch(')(i/)_
-        [[fai3 ci2 廢弛]],
-        heedless, careless;
-        to fail, to grow old or useless, obsolete;
-    - _(2)k(a/)i (2)ch(')(i/)_
-        [[gaai2 ci2 解弛]],
-        to unloose, to throw off;
-    - _(2)ch(')(i/) lik(9)_
-        [[ci2 lik6 弛力]]
-        remiss.
-    ==
+    --
+    [[Reading variation (per 《廣韻》施是切). **See $弛ci4 for the canonical entry.**]]
+    --
   ====
-C
-  ==
-  - Rising tone is expected from Middle Chinese 施是切,
-    but level tone ci4 is commonly heard (possibly from analogy with 池, 馳).
-  ==
 S
   ==
   - $弛ci4
@@ -2068,19 +2044,41 @@ $$
 
 ###+ 弛4 | _(4)Ch(')(i/)_ (ci4)
 
-$$.
+$$
 R
   ⼸ + 3
 U
   U+5F1B
+V
+  ==
+  - ci2 (per 《廣韻》施是切)
+  ==
 F
-  [[Not present]]
+  ==
+  - [[F1.39 弛 _(2)Ch(')(i/)_ (ci2)]] ::放也[棄]也廢也::
+  ==
 W
-  [[Not present]]
-C
-  ==
-  - Reading variation. **See $弛ci2 for the canonical entry.**
-  ==
+  ====
+  - [[Page~11* (2)弛 _(2)Ch(')(i/)_ (ci2); here normalised to _(4)Ch(')(i/)_ (ci4)]]
+    ==
+    - A bow unstrung [[Kangxi: 弓解也]];
+    - to let go the string of a bow [[Kangxi: 放也]];
+    - to relax [[Kangxi: 緩也]];
+    - to cast off [[Kangxi: 置也舍也]];
+    - injured, spoiled [[Kangxi: 壞也]];
+    - easy, dissolute, unconcerned [[Kangxi: 易也]];
+    - _fai(3) (2)ch(')(i/)_
+        [[fai3 ci2 廢弛]],
+        heedless, careless;
+        to fail, to grow old or useless, obsolete;
+    - _(2)k(a/)i (2)ch(')(i/)_
+        [[gaai2 ci2 解弛]],
+        to unloose, to throw off;
+    - _(2)ch(')(i/) lik(9)_
+        [[ci2 lik6 弛力]]
+        remiss.
+    ==
+  ====
 S
   ==
   - $弛ci2
