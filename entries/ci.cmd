@@ -1490,11 +1490,11 @@ W
   ====
   - [[Page~617 廁(3)厠(3)]]
     ==
-    - To cleanse, to wash;
-    - a place which must be kept clean;
-    - a privy, a necessary;
-    - in order, to put in proper places, as guests;
-    - a gorge, where a stream forces its way;
+    - To cleanse, to wash [[Kangxi 廁: 廁淸也]];
+    - a place which must be kept clean [[Kangxi 廁: ::[...]至穢之處宜常修治使潔淸也::]];
+    - a privy, a necessary [[Kangxi 廁: 或曰溷, 或曰圊]];
+    - in order, to put in proper places, as guests [[Kangxi 廁: 閒也次也]];
+    - a gorge, where a stream forces its way [[Kangxi 廁: 高岸夾水曰廁]];
     - _ts(')z'(3) (1)h(a/)ng_ [[ci3 haang1 廁坑]]^
         or
       _ts(')z'(3) (2)sho_ [[ci3 so2 廁所]],
