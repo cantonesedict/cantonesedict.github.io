@@ -329,8 +329,8 @@ W
   - [[Page~10* (1)笞]]
     ==
     - To punish with a bamboo, to bastinado;
-    - to correct, so as to reform;
-    - to scourge, to flog, to bamboo;
+    - to correct, so as to reform [[Kangxi: 笞者所以敎之也]];
+    - to scourge, to flog, to bamboo [[Kangxi: 捶擊也]];
     - _(1)ch(')(i/) ch(e/)ung(6)_
         [[ci1 zoeng6 笞杖]]
         the stick used in a y(a/)mun [[衙門]] to punish;
