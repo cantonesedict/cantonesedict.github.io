@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2024-12-17
+* %date-modified --> 2024-12-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -118,7 +118,7 @@ W
   ====
   - [[Page~341 (1)庵(1)菴]]
     ==
-    - A round hut [[Kangxi: 圜屋爲庵]], a thatched cottage, a straw hovel [[Kangxi: 小草舍也]] for soldiers or guard;
+    - A round hut [[Kangxi 庵: 圜屋爲庵]], a thatched cottage, a straw hovel [[Kangxi 庵: 小草舍也]] for soldiers or guard;
     - [[...]];
     - a nunnery;
     - _(1)sz' (1)k(u/) (1)(o\)m_
