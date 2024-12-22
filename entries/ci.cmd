@@ -210,7 +210,7 @@ W
   ====
   - [[Page~615 (4)疵 _(4)Ts(')z'_ (ci4); here normalised to _(1)Ts(')z'_ (ci1)]]
     ==
-    - Malady, disease, infirmity;
+    - Malady [[Kangxi: 病也]], disease, infirmity;
     - an imperfection, as a mole;
     - a failing, a fault;
     - an eccentricity;
