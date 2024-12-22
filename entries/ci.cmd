@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2024-12-19
+* %date-modified --> 2024-12-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -105,7 +105,7 @@ W
   ====
   - [[Page~10* (1)嗤]]
     ==
-    - Laughing;
+    - Laughing [[Kangxi: 笑貌]];
     - to laugh at;
     - _(1)h(o\)m (1)ch(')(i/)_
         [[ham1 ci1 堪嗤]],
