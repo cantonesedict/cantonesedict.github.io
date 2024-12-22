@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ak
-* %date-modified --> 2024-12-16
+* %date-modified --> 2024-12-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -306,7 +306,7 @@ W
 C
   ==
   - Most modern speakers prefer the longer syllable _(a/)k(7)_ (aak1).
-  - Williams' "Embarrassed": In the (now) archaic sense of "impeded", "obstructed".
+  - Williams' "embarrassed": In the (now) archaic sense of "impeded", "obstructed".
   ==
 S
   ==
