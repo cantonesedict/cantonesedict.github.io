@@ -1184,7 +1184,7 @@ W
   ====
   - [[Page~12* (2)豕]]
     ==
-    - A hog, a pig;
+    - A hog, a pig [[Kangxi: 彘也]];
     - the [152d]~radical of characters relating mostly to swine;
     - _(2)ch(')(i/) yuk(9)_
         [[ci2 juk6 豕肉]]
