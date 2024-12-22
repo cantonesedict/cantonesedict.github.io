@@ -978,10 +978,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Reading variation (vernacular rising-tone noun). **See $柿ci5 for the canonical entry.**
-  ==
+P
+  ++
+  1. Reading variation (vernacular rising-tone noun). **See $柿ci5 for the canonical entry.**
+  ++
 S
   ==
   - $柿ci4
@@ -3063,7 +3063,8 @@ W
   ====
 C
   ==
-  - Strictly, the pre-merger reading should be _(5)ch(')(i/)_ per 《廣韻》鉏里切.
+  - Strictly, the pre-merger reading should be _(5)ch(')(i/)_
+    per 《廣韻》鉏里切 for {𣐈=⿰木⿹巿丿}.
   ==
 S
   ==
