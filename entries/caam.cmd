@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2024-12-19
+* %date-modified --> 2024-12-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -692,7 +692,7 @@ W
         [[sau1 caam4 羞慚]],
         to redden from mortification;
     - _t(a/)i(6) (4)(i/)n pat(7) (4)ts(')(a/)m_
-        [[daai6 jin4 bat caam4 大言不慚]],
+        [[daai6 jin4 bat1 caam4 大言不慚]],
         he does not blush for a lie, he has no modesty;
     - _(4)ts(')(a/)m tak(7)_
         [[caam4 dak1 慚德]]
