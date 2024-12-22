@@ -46,7 +46,6 @@ $$
 =={.modern}
 - $凄1
 - $妻1
-- $恓1
 - $悽1
 - $栖1
 - $棲1
@@ -130,29 +129,7 @@ S
   ==
 $$
 
-### 恓1 | _(1)Ts(')ai_ [[cai1]]
-
-$$.
-R
-  ⼼ + 6
-U
-  U+6053
-F
-  ==
-  - [[F1.28 恓]] 惶懼也
-  ==
-W
-  ====
-  - [[Page~550 (1)恓]]
-    --
-    [[Idiosyncratic reading from Fan Wan. **See $恓sai1 for the canonical entry.**]]
-    --
-  ====
-S
-  ==
-  - $恓sai1 (TODO)
-  ==
-$$
+<## TODO: 恓 cai1 --> sai1 ##>
 
 ### 悽1 | _(1)Ts(')ai_ [[cai1]]
 
