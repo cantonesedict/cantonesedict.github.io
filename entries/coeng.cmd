@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2024-12-05
+* %date-modified --> 2024-12-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -187,7 +187,7 @@ F
   ==
 W
   ====
-  - [[Page~36|n79 ::(1)[{𢃑=⿰巾昌}]::]]
+  - [[Page~36|n79 ::(1)[{𢃑=⿰巾昌}]^::]]
     --
     [[Alternative form of 裮. **See $裮coeng1 for the canonical entry.**]]
     --

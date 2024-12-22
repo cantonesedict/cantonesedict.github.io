@@ -63,6 +63,7 @@ class Updater:
         Updater._check_jyutping_romanisation_heuristic(entry_cmd_name, old_cmd_content)
         Updater._check_composition_heuristic(entry_cmd_name, old_cmd_content)
         Updater._check_insertion_context(entry_cmd_name, old_cmd_content)
+        Updater._check_inadvertent_reference_definition(entry_cmd_name, old_cmd_content)
 
         tone_syllable_ct_list = Updater._gather_tone_syllable_ct_list(old_cmd_content)
         navigation_tones = Updater._gather_navigation_tones(old_cmd_content)
@@ -359,7 +360,22 @@ class Updater:
         )
         if non_contextual_insertion_contexts:
             print(
-                f'Error in `{entry_cmd_name}`: non-contextual insertions {non_contextual_insertion_contexts}',
+                f'Error in `{entry_cmd_name}`: non-contextual insertions {non_contextual_insertion_contexts} '
+                f'(insert caret between closing square bracket and colon)',
+                file=sys.stderr,
+            )
+            sys.exit(1)
+
+    @staticmethod
+    def _check_inadvertent_reference_definition(entry_cmd_name, cmd_content):
+        inadvertent_runs = re.findall(
+            pattern=r'[^\S\n]+ \[ [\s]* [^\]]*? [\s]* \] [:] [\S]+ $',
+            string=cmd_content,
+            flags=re.MULTILINE | re.VERBOSE,
+        )
+        if inadvertent_runs:
+            print(
+                f'Error in `{entry_cmd_name}`: inadvertent reference definitions {inadvertent_runs}',
                 file=sys.stderr,
             )
             sys.exit(1)

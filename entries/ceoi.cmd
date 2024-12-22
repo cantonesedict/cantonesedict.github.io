@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2024-12-19
+* %date-modified --> 2024-12-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1577,7 +1577,7 @@ F
   [[F1.45 ::[蹰]::]] ::踟[蹰]::
 W
   ====
-  - [[Page~32* (4)::[躕]::]]
+  - [[Page~32* (4)::[躕]^::]]
     ==
     - Embarrassed, hindered [[Kangxi: 踟躕行不進貌]];
     - _(4)ch(')(i/) (4)ch(')(u:)_
