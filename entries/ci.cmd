@@ -457,7 +457,7 @@ W
   ====
   - [[Page~615 (1)雌]]
     ==
-    - The female of birds, a hen bird;
+    - The female of birds, a hen bird [[Kangxi: 鳥母也]];
     - _met._ weak;
     - _k(i/)n(3) ko(3) (1)ts(')z' (4)hung_
         [[gin3 go3 ci1 hung4 見個雌雄]],
