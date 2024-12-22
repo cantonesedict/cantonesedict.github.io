@@ -1076,14 +1076,14 @@ W
   ====
   - [[Page~12* (2)矢]]
     ==
-    - An arrow or dart;
+    - An arrow or dart [[Kangxi: 弓弩矢也]];
     - swift as an arrow;
     - direct, openly;
-    - to set forth, to arrange;
-    - to swear, to vow;
+    - to set forth, to arrange [[Kangxi: ::[陳]也::]];
+    - to swear, to vow [[Kangxi: 誓也]];
     - to display;
     - to resolve, to form a purpose;
-    - [[see $矢si2 for "shit" senses]];
+    - [[...]];
     - the 111th~radical;
     - _yat(7) (2)ch(')(i/) (1)ch(i/) t(i/)(6)_
         [[jat1 ci2 zi1 dei6 一矢之地]]
@@ -1104,7 +1104,7 @@ W
   ====
 S
   ==
-  - $矢si2 (TODO)
+  - $矢si2 (TODO) <## shit ##>
   ==
 $$
 
