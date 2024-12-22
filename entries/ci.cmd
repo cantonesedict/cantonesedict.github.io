@@ -1424,8 +1424,8 @@ W
   - [[Page~12* 啻(3)]]
     ==
     - Only;
-    - to stop at;
-    - an overplus;
+    - to stop at [[Kangxi: 啻猶止也猶言何止]];
+    - an overplus [[Kangxi: 餘也, 過多也]];
     - _pat(7) ch(')(i/)(3)_
         [[bat1 ci3 不啻]]
         not only, more than;
@@ -1437,12 +1437,14 @@ W
         more than father and mother.
     ==
     --
-    Often read _tai(3)_ [[dai3]].
+    ~~Often read _tai(3)_ [[dai3]].~~
     --
   ====
 C
   ==
   - Fan Wan entry: Corrected 伹 to 但.
+  - Williams' alternative reading: Kangxi has 《集韻》丁計切音帝高聲　一曰諟也,
+    whose explanations do not correspond to the senses given here.
   ==
 $$
 
