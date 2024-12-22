@@ -1004,7 +1004,7 @@ W
   ====
   - [[Page~616 (2)此]]
     ==
-    - A pronoun, this;
+    - A pronoun, this [[Kangxi: 此者彼之對]];
     - here, now;
     - this, the last spoken of;
     - the thing in hand;
