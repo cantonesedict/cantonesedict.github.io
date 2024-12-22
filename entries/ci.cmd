@@ -1464,8 +1464,8 @@ W
   - [[Page~12* 幟(3)]]
     ==
     - The fringe or border on a flag;
-    - a flag, a streamer or pennon, long and fringed;
-    - to tie or sew on fringes, as a signal;
+    - a flag, a streamer or pennon, long and fringed [[Kangxi: 旌旗之屬, 旗幟, 標也, 旛也]];
+    - to tie or sew on fringes, as a signal [[Kangxi: 記也]];
     - to signalize.
     ==
   ====
