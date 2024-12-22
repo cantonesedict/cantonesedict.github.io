@@ -477,24 +477,14 @@ R
   ⾻ + 6
 U
   U+9AB4
-V
-  ==
-  - ci3 (per Fan Wan)
-  - ci4 (per 《廣韻》疾移切)
-  - zi6 (per 《廣韻》疾智切)
-  ==
 F
-  ==
-  - [[F2.35 骴 _Ts(')z'(3)_ (ci3)]] 殘骨
-  ==
+  [[Not present]]
 W
-  ====
-  - [[Page~617 骴(3) _Ts(')z'(3)_ (ci3); here normalised to _(1)Ts(')z'_ (ci1)]]
-    ==
-    - An old bone of men or beasts;
-    - putrid bones, having some flesh on them.
-    ==
-  ====
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $骴ci3 for the canonical entry.**
+  ++
 S
   ==
   - $骴ci3
@@ -1957,6 +1947,16 @@ R
   ⾻ + 6
 U
   U+9AB4
+A
+  ==
+  -{.modern} 胔
+  ==
+V
+  ==
+  - ci1 (per common parsing of 音疵)
+  - ci4 (per 《廣韻》疾移切)
+  - zi6 (per 《廣韻》疾智切)
+  ==
 F
   ==
   - [[F2.35 骴]] 殘骨
@@ -1964,9 +1964,10 @@ F
 W
   ====
   - [[Page~617 骴(3)]]
-    --
-    [[Reading variation. **See $骴ci1 for the canonical entry.**]]
-    --
+    ==
+    - An old bone of men or beasts [[Kangxi: ::鳥獸殘骨[曰]骴::, 謂死人骨也]];
+    - putrid bones, having some flesh on them [[Kangxi: 骨之尚有肉者, 肉腐曰胔, 有骨曰胔亦作骴]].
+    ==
   ====
 S
   ==
