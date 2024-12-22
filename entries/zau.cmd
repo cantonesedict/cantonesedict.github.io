@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2024-12-15
+* %date-modified --> 2024-12-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1483,10 +1483,6 @@ W
 C
   ==
   - Fan Wan entry: Corrected 并 to 井.
-  ==
-S
-  ==
-  - $甃cau1
   ==
 $$
 

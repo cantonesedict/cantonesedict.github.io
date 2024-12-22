@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2024-12-16
+* %date-modified --> 2024-12-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -55,7 +55,6 @@ $$
 - $楸1
 - $湫1
 - $煍1
-- $甃1
 - $瘳1
 - $瞅1
 - $秋1
@@ -373,34 +372,6 @@ W
 C
   ==
   - Williams' : Changed _h(a/)k(7)_ (haak1) to _hak(7)_ (hak1).
-  ==
-$$
-
-### 甃1 | _(1)Ts(')au_ [[cau1]]
-
-$$.
-R
-  ⽡ + 9
-U
-  U+7503
-F
-  ==
-  - [[F1.50 甃]] ::[井]甓又結砌也::
-  ==
-W
-  ====
-  - [[Page~563 (1)甃]]
-    --
-    [[Idiosyncratic reading from Fan Wan. **See $甃zau3 for the canonical entry.**]]
-    --
-  ====
-C
-  ==
-  - Fan Wan entry: Corrected 并 to 井.
-  ==
-S
-  ==
-  - $甃zau3
   ==
 $$
 
