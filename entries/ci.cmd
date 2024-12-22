@@ -862,8 +862,8 @@ W
   ====
   - [[Page~12* (2)恥(2)耻]]
     ==
-    - Ashamed;
-    - to feel shame, disgraced, humbled, chagrined;
+    - Ashamed [[Kangxi 恥: 辱也]];
+    - to feel shame, disgraced, humbled, chagrined [[Kangxi 恥: 慙也]];
     - to blush or redden;
     - _(1)sau (2)ch(')(i/)_
         [[sau1 ci2 羞恥]],
