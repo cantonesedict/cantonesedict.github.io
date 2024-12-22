@@ -1212,14 +1212,14 @@ W
   ====
   - [[Page~12* (2)齒]]
     ==
-    - The upper front teeth;
+    - The upper front teeth [[Kangxi: 口齗骨也, 上曰齒下曰牙]];
     - _met._ the mouth, words;
-    - age, years;
-    - sort, class;
+    - age, years ~~[[Kangxi: 齒壽也]]~~;
+    - sort, class [[Kangxi: 類也]];
     - associates, equals;
-    - to commence;
-    - to sort, to class by the age;
-    - to record, to write in;
+    - to commence [[Kangxi: 齒始也]];
+    - to sort, to class by the age [[Kangxi: 年也又列也, ::論量[...]歲數::]];
+    - ~~to record, to write in;~~
     - the 211th~radical of characters relating to teeth;
     - _(2)ch(')(i/) (2)ch(e/)ung_
         [[ci2 zoeng2 齒長]],
@@ -1246,6 +1246,12 @@ W
   ====
 C
   ==
+  - Kangxi 齒壽也: Modern editions have 壽也 corrected to 齯齒壽也
+    per the original text of 《爾雅釋詁》.
+  - Williams' "to record, to write in":
+    This is (I think) a misreading of Kangxi 錄也.
+    Kangxi 錄 has 《增韻》齒也總也, i.e. to command.
+    (Note that 《廣韻》 has 齒録也 for this sense, which is not very helpful.)
   - Williams' 年齒每催: A misspelling of 年矢每催
     (from Thousand Character Classic).
   ==
