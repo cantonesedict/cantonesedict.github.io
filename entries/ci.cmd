@@ -901,8 +901,8 @@ A
   ==
 V
   ==
-  - ci5 (per 《廣韻》池爾切 rising)
-  - to1 (per Kangxi quoting 詩經)
+  - ci5 (per 《廣韻》池爾切)
+  - to1 (alternative per Kangxi 託何切)
   ==
 F
   ==
@@ -912,30 +912,28 @@ W
   ====
   - [[Page~12* (2)杝(2)柂]]
     ==
-    - To split wood with the grain;
-    - to fall down;
-    - [[see $杝ji4 for "name of a tree" senses]].
+    - To split wood with the grain [[Kangxi 杝: 析薪也, 杝隨其理也]];
+    - to fall down [[Kangxi 杝: 落也]];
+    - [[...]].
     ==
     --
-    These are also read
+    ~~These are also read
       _(4)(i/)_ [[ji4]],
       _(4)l(i/)_ [[lei4]], and
       _(4)t(')o_ [[to4]],
-    with the same meanings.
+    with the same meanings~~.
     --
   ====
 C
   ====
-  - The reading _(2)ch(')(i/)_ (ci2) is not unattested; Kangxi quotes 《正韻》尺里切音侈.
-  - Williams' "with the same meanings": This is not quite correct.
+  - The reading _(2)ch(')(i/)_ (ci2) is not unattested; Kangxi has 《正韻》尺里切音侈.
+  - Williams' "read [...] with the same meanings": This is not quite correct.
     ==
     - 杝 read _(4)(i/)_ (ji4) is the name of a tree, see $杝ji4.
     - 杝 read _(4)l(i/)_ (lei4) is used for 離.
-    - 杝 read _(4)t(')o_ (to4) is probably a mistaken parsing
-      by Williams of 託何切音佗 _(1)t(')o_ (to1),
+    - 杝 read _(4)t(')o_ (to4) is a mistaken parsing of Kangxi 託何切音佗 _(1)t(')o_ (to1),
       which is the only reading having the same meaning
-      of "splitting with the grain"
-      (Kangxi quotes 《詩小雅》伐木掎矣析薪杝矣 for this reading).
+      of "splitting with the grain".
     ==
   ====
 S
