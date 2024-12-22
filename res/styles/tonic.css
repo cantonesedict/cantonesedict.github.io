@@ -91,6 +91,14 @@ dl ul {
 dl + h2 {
   margin-top: 1.7em;
 }
+dl.modern {
+  border: none;
+  margin: 0;
+  padding: 0 0.6em;
+}
+dl.modern dd {
+  margin-left: 1.5em;
+}
 
 
 dt {

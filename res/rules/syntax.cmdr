@@ -118,6 +118,7 @@ FixedDelimitersReplacement: #.syntax.entries
 - content_replacements:
     #unordered-lists
     #ordered-lists
+    #paragraphs
     #.syntax.entry-key-abbreviations
     #.syntax.entry-keys
     #.syntax.entry-values

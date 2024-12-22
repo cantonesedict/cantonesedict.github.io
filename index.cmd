@@ -120,17 +120,19 @@ that version has severe paging issues:
 
 ###{#other-references .modern} Other useful references
 
-===={.modern}
-- [《江湖尺牘分韻撮要合集》 (1838)][fan-wan],
+$${.modern}
+; [《江湖尺牘分韻撮要合集》 (1838)][fan-wan],
   by 虞學圃 and 溫岐石.
+  ,
   --
   An 1838 re-engraving (道光十八年重鐫)
   containing the Fan Wan 《分韻撮要》 in the lower half of its pages,
   as scanned by Trove (in collaboration with the National Library of Australia).
   --
 
-- [''A Chinese Dictionary in the Cantonese Dialect'' (1877)][eitel-dict],
+; [''A Chinese Dictionary in the Cantonese Dialect'' (1877)][eitel-dict],
   by [Ernst Johann Eitel].
+  ,
   --
   An expansion of Williams' ''Tonic Dictionary''.
   The goals of this expansion included:
@@ -153,39 +155,45 @@ that version has severe paging issues:
   See [Eitel's Introduction] for details.
   --
 
-- [粵音資料集叢 (jyut.net)](https://jyut.net/), by 石見田.
+; [粵音資料集叢 (jyut.net)](https://jyut.net/), by 石見田.
+  ,
   --
   A database of Cantonese readings from various dictionaries.
   --
 
-- [漢語多功能字庫](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/),
+; [漢語多功能字庫](https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/),
   by the Research Centre for Humanities Computing at CUHK.
+  ,
   --
   "Multi-function Chinese Character Database", including Cantonese readings.
   --
 
-- [韻典網 (ytenx.org)](https://ytenx.org/), by BYVoid.
+; [韻典網 (ytenx.org)](https://ytenx.org/), by BYVoid.
+  ,
   --
   A database of the olden rime dictionaries (《廣韻》 etc.).
   --
 
-- [說文解字 (shuowen.org)](https://www.shuowen.org/),
+; [說文解字 (shuowen.org)](https://www.shuowen.org/),
   by 'an art lover languishing as a programmer'
+  ,
   --
   A database of 《說文解字》, including commentary by 段玉裁.
   --
 
-- [Chinese Text Project Dictionary](https://ctext.org/dictionary.pl?if=en),
+; [Chinese Text Project Dictionary](https://ctext.org/dictionary.pl?if=en),
   by Donald Sturgeon.
+  ,
   --
   Easy reference to radical+strokes, Unihan readings, 《廣韻》, and 《康熙字典》.
   --
 
-- [萌典 (moedict.tw)](https://www.moedict.tw/), by [Audrey Tang].
+; [萌典 (moedict.tw)](https://www.moedict.tw/), by [Audrey Tang].
+  ,
   --
   Taiwan g0v (gov-zero) dictionary.
   --
-====
+$$
 
 [google]: https://books.google.com/books?id=X8JhunQfImoC
 [onb]: https://search.onb.ac.at/permalink/f/128lc6g/ONB_alma21317554760003338
