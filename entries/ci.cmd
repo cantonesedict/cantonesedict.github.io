@@ -737,7 +737,7 @@ W
   ====
   - [[Page~12* (2)侈]]
     ==
-    - Extravagant, profuse;
+    - Extravagant, profuse [[Kangxi: 奢也泰也]];
     - large, superfluous;
     - prodigal;
     - _(1)ch(')(e/) (2)ch(')(i/)_
