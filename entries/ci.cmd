@@ -1302,10 +1302,10 @@ W
   ====
   - [[Page~616 佽(3)]]
     ==
-    - Light, nimble, sprightly;
-    - to help, to assist;
-    - to compare;
-    - for, instead;
+    - Light, nimble, sprightly [[Kangxi: ::佽飛[...]輕疾若飛也::]];
+    - to help, to assist [[Kangxi: 助也]];
+    - to compare [[Kangxi: 比也]];
+    - for, instead [[Kangxi: 代也遞也]];
     - _ts(')z'(3) cho(6)_
         [[ci3 zo6 佽助]]
         to aid.
