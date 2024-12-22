@@ -136,9 +136,9 @@ W
   ====
   - [[Page~11* ::(1)[媸]^::]]
     ==
-    - Ugly;
+    - Ugly [[Kangxi: 醜也]];
     - a homely woman;
-    - lewd, worthless, foolish;
+    - lewd [[Kangxi: 淫也]], worthless, foolish [[Kangxi: 癡也]];
     - _(1)ch(')(i/) (4)n(o\)_
         [[ci1 nou4 媸奴]],
         a harridan;
@@ -151,6 +151,7 @@ C
   ==
   - Fan Wan entry: Normalised headword {𡟎=⿰女虽} to 媸.
   - Williams misprints 媸 as {𡟎=⿰女⿱山虫}; here corrected.
+  - Williams' "homely": In the sense of "unattractive".
   - Williams' 妍媸自見: Corrected _k(i/)n(6)_ (gin6) to _(i/)n(6)_ (jin6).
   ==
 $$
