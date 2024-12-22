@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2024-12-19
+* %date-modified --> 2024-12-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -261,14 +261,13 @@ C
 $$
 
 
-##{#2 .williams} (2)Ch(')am (2)Ts(')am [[cam2 陰上]]
+##{#2 .williams} (2)Ts(')am [[cam2 陰上]]
 
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
 - $侵2
 - $寢2
-- $魫2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -355,41 +354,6 @@ W
         room behind the hall.
     ==
   ====
-$$
-
-### [魫]2 | _(2)Ch(')am_ [[cam2]]
-
-$$.
-R
-  ⿂ + 4
-U
-  U+9B6B
-F
-  [[Not present]]
-W
-  ====
-  - [[Page~15|n58 ::(2)[魫]^::]]
-    --
-    [[Idiosyncratic reading from Williams. **See $魫cam4 for the canonical entry.**]]
-    --
-  ====
-C
-  ====
-  - Williams misprints 魫 as {𩵫=⿰冘魚}; here corrected.
-  - Williams' placement under _(2)Ch(')am_ (cam2) is idiosyncratic
-    (and probably erroneous) because it does not follow any of the following:
-    ==
-    - _(2)cham_ (zam2) per Fan Wan (which places it between 枕 and 怎)
-    - _(4)ch(')am_ (cam4) per 《集韻》又持林切 quoted by Kangxi.
-    - _(2)sham_ (sam2) per 《廣韻》式任切 rising.
-    ==
-    It is possible that Williams has simply misprinted (4)魫 as (2)魫,
-    in which case _(2)ch(')am_ (cam4) is intended.
-  ====
-S
-  ==
-  - $魫cam4
-  ==
 $$
 
 
@@ -807,12 +771,16 @@ C
   - The reading _(4)ch(')am_ (cam4) is not unattested;
     Kangxi has 又持林切音沉義同.
   - Williams misprints 魫 as {𩵫=⿰冘魚}; here corrected.
-  - See $魫cam2 for commentary on Williams' idiosyncratic reading _(2)ch(')am_ (cam2).
+  - Williams' placement under _(2)Ch(')am_ (cam2) is erroneous
+    because it does not follow any of the following:
+    ==
+    - _(2)cham_ (zam2) per Fan Wan (which places it between 枕 and 怎)
+    - _(4)ch(')am_ (cam4) per 《集韻》又持林切 in Kangxi.
+    - _(2)sham_ (sam2) per 《廣韻》式任切 rising.
+    ==
+    It is possible that Williams has simply misprinted (4)魫 as (2)魫,
+    in which case _(4)ch(')am_ (cam4) is intended.
   ====
-S
-  ==
-  - $魫cam2
-  ==
 $$
 
 ### 鱏4 | _(4)Ts(')am_ [[cam4]]
