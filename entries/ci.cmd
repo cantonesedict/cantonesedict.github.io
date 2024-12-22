@@ -641,12 +641,12 @@ W
   ====
   - [[Page~10* (1)呞(1){𪗪=⿰齒司}; here normalised to 齝]]
     ==
-    - To ruminate, to chew the cud, vulgarly called
+    - To ruminate, to chew the cud [[Kangxi 齝: 吐而噍也]], vulgarly called
       _(4)ngau t(')(o\)(3) (2)ts(')(o\)_
         [[ngau4 tou3 cou2 牛吐草]].
     ==
     --
-    The Fan Wan defines it [[呞]] to gape.
+    The Fan Wan defines it [[呞]] to gape [[Fan Wan: 口張開也]].
     --
   ====
 $$
