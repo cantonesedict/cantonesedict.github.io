@@ -2511,14 +2511,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - The reading _(4)ts(')z'_ (ci4) for 茲 is not present in Williams;
-    an entry is included here for completeness.
-    ++
-    1. Used in 龜茲 (Kucha, the name of a kingdom).
-    ++
-  ==
+P
+  ++
+  1. Used in 龜茲 (Kucha, the name of a kingdom) (Kangxi: 國名).
+  ++
 S
   ==
   - $茲zi1

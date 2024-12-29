@@ -1032,9 +1032,9 @@ W
   ====
   - [[Page~610 (1)茲(1)兹]]
     ==
-    - Herbs and shrubs in great abundance;
-    - a mat;
-    - an adjective, this;
+    - Herbs and shrubs in great abundance [[Kangxi 茲: 草木多益也]];
+    - a mat [[Kangxi 茲: 蓐席也]];
+    - an adjective, this [[Kangxi 茲: 此也]];
     - an adverb, here;
     - a conjunction, but, still;
     - _(1)tsz' (2)ch(e/)_
