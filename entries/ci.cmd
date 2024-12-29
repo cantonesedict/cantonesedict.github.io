@@ -2183,8 +2183,8 @@ W
   ====
   - [[Page~11* (4)池]]
     ==
-    - A tank, a pool, a pond;
-    - a ditch, a fosse;
+    - A tank, a pool, a pond [[Kangxi: ::治也[...]停水曰池::]];
+    - a ditch, a fosse [[Kangxi: 城塹曰溝池]];
     - stagnant water;
     - _(4)[shing] (4)ch(')(i/)_
         [[sing4 ci4 城池]],
