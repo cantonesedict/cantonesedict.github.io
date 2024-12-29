@@ -2597,7 +2597,7 @@ W
   ====
   - [[Page~11* (4)踟]]
     ==
-    - Irresolute;
+    - Irresolute [[Kangxi: 踟躕行不進也]];
     - _(4)ch(')(i/) (4)ch(')(u:)_
         [[ci4 cyu4 踟躕]],
         undecided, embarrassed, going on and then returning.
