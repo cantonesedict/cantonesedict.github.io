@@ -2448,8 +2448,8 @@ W
   ====
   - [[Page~616 (4)臍]]
     ==
-    - The navel;
-    - to cut off even;
+    - The navel [[Kangxi: 肶臍也]];
+    - ~~to cut off even;~~
     - _(4)ts(')z' t(a/)i(3)_
         [[ci4 daai3-2 臍帶]]
         the umbilical cord;
@@ -2465,6 +2465,13 @@ W
         a plaster to keep the navel warm.
     ==
   ====
+C
+  ==
+  - Williams' "to cut off even": This is a misreading of
+    either Kangxi 劑也 (which means "portion")
+    or Kangxi 通作齊 (which indicates that 臍 can be written 齊,
+    not the other way around).
+  ==
 $$
 
 ### 茨4 | _(4)Ts(')z'_ [[ci4]]
