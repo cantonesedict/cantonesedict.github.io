@@ -2920,7 +2920,7 @@ W
   - [[Page~616 (5)似]]
     ==
     - Like, similar;
-    - as, as if, as it were, appearing, resembling;
+    - as, as if, as it were, appearing, resembling [[Kangxi: 肖也]];
     - to appear, to have the aspect of;
     - _(2)ho (5)ts(')z'_
         [[hou2 ci5 好似]]
