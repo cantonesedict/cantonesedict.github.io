@@ -929,7 +929,7 @@ C
   - The reading _(2)ch(')(i/)_ (ci2) is not unattested; Kangxi has 《正韻》尺里切音侈.
   - Williams' "read [...] with the same meanings": This is not quite correct.
     ==
-    - 杝 read _(4)(i/)_ (ji4) is the name of a tree, see $杝ji4.
+    - 杝 read _(4)(i/)_ (ji4) is the name of a tree.
     - 杝 read _(4)l(i/)_ (lei4) is used for 離.
     - 杝 read _(4)t(')o_ (to4) is a mistaken parsing of Kangxi 託何切音佗 _(1)t(')o_ (to1),
       which is the only reading having the same meaning
