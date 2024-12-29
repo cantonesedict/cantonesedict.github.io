@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-12-22
+* %date-modified --> 2024-12-29
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -3070,7 +3070,7 @@ U
   U+61E5
 V
   ==
-  - ci3 (alternative)
+  - ci3 (alternative per 《集韻》丑吏切)
   ==
 F
   ==
@@ -3080,7 +3080,7 @@ W
   ====
   - [[Page~12* 懥(3) _Ch(')(i/)(3)_ (ci3); here normalised to _Ch(i/)(3)_ (zi3)]]
     ==
-    - Vexation, irritated;
+    - ~~Vexation, irritated;~~
     - hatred;
     - _(5)fan [ch(i/)](3)_
         [[fan5 zi3 忿懥]]
@@ -3089,8 +3089,7 @@ W
   ====
 C
   ==
-  - The alternative reading ci3 is not unattested;
-    Kangxi quotes ::又《集韻》[...]又丑吏切音眙[...]義{𠀤=⿱夶一}同::.
+  - Williams' "Vexation, irritated": Not vexed, but angered (Kangxi: 怒也).
   ==
 S
   ==
