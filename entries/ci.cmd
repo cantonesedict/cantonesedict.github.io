@@ -1720,10 +1720,10 @@ W
   ====
   - [[Page~12* 翅(3)翄(3)]]
     --
-    Used for the last [[$啻3]].
+    Used for the last [[$啻3]] [[Kangxi 翅: 同啻]].
     --
     ==
-    - Wings;
+    - Wings [[Kangxi 翄: 翼也]];
     - fins;
     - _ch(')(i/)(3) yik(9)_
         [[ci3 jik6 翅翼]]
