@@ -2489,10 +2489,10 @@ W
   ====
   - [[Page~616 (4)茨]]
     ==
-    - To thatch;
+    - To thatch [[Kangxi: 以茅蓋屋]];
     - grass on a wall;
-    - a spinous trailing plant with triangular seed;
-    - to collect;
+    - a spinous trailing plant with triangular seed [[Kangxi: 蒺藜也]];
+    - to collect [[Kangxi: 積也聚也]];
     - _(4)ts(')z' (1)k(u/)_
         [[ci4 gu1 茨菰]],
         the _Caladium sagittifolium_, a species of Arum.
