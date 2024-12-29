@@ -1818,10 +1818,10 @@ W
   ====
   - [[Page~617 賜(3)]]
     ==
-    - To confer;
+    - To confer [[Kangxi: 予也]];
     - bestowed by a superior, usually refers to the emperor;
     - imperial grants;
-    - a favor;
+    - a favor [[Kangxi: 賜猶惠也]];
     - a benefit;
     - _(2)sh(e/)ung ts(')z'(3)_
         [[soeng2 ci3 賞賜]]
