@@ -2648,10 +2648,10 @@ W
     ==
     - Similar to the last [[$詞4]];
     - an expression, a word, a particle, a part of speech;
-    - evidence, speech, words;
-    - to refuse, to decline with thanks;
-    - to resign, to leave, to go, to retire, to depart;
-    -_(1)t(')(u/)i (4)ts(')z'_
+    - evidence [[Kangxi: 訟辭也]], speech, words [[Kangxi: 辭說也]];
+    - to refuse, to decline with thanks [[Kangxi: 卻不受也]];
+    - to resign, to leave, to go, to retire, to depart [[Kangxi: 別去也]];
+    - _(1)t(')(u/)i (4)ts(')z'_
         [[teoi1 ci4 推辭]]
         to decline, as an office;
     - _(4)ts(')z' h(u:)(3)_
