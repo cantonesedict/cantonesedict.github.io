@@ -1971,11 +1971,11 @@ W
   ====
   - [[Page~11* (4)坻]]
     ==
-    - An islet;
-    - a ledge of rocks in a stream;
+    - An islet [[Kangxi: 小渚曰沚小沚曰坻]];
+    - a ledge of rocks in a stream [[Kangxi: 水中高地也]];
     - a bank;
     - to bank in;
-    - [[see $坁zi2 for "stop" senses]].
+    - [[...]].
     ==
   ====
 S
