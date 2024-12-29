@@ -2071,9 +2071,9 @@ W
   ====
   - [[Page~615 (4)慈]]
     ==
-    - Maternal affection;
-    - love, kindness, mercy, compassion;
-    - gentle, soft, tender to;
+    - Maternal affection [[Kangxi: 父母之愛子也]];
+    - love [[Kangxi: 愛也]], kindness, mercy, compassion;
+    - gentle, soft, tender to [[Kangxi: 柔也]];
     - a mother;
     - _(1)k(a/) (4)ts(')z'_
         [[gaa1 ci4 家慈]]
