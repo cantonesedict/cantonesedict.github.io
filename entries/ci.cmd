@@ -1591,16 +1591,16 @@ W
   ====
   - [[Page~616 次(3)]]
     ==
-    - Neither first nor best;
+    - Neither first nor best [[Kangxi: 不前不精也]];
     - coming after, second in order, inferior, secondary;
     - next, succeeding;
-    - to put in order;
-    - a halting-place, an encampment[,]
-      a rest-house, an inn, a shed or stall;
-    - a mansion;
-    - a position, as of the stars;
-    - a time, a place, a stated post;
-    - to halt, to reach;
+    - to put in order [[Kangxi: 位次]];
+    - a halting-place, an encampment [[Kangxi: 師止曰次, 安行旅之處爲旅次]][;]
+    - a rest-house, an inn, a shed or stall [[Kangxi: 凡舍皆曰次]];
+    - a mansion [[Kangxi: 次舍]];
+    - a position, as of the stars [[Kangxi: 星之躔舍爲次]];
+    - a time, a place [[Kangxi: 處也]], a stated post;
+    - to halt, to reach [[Kangxi: 至也]];
     - _ts(')z'(3) tai(6)_
         [[ci3 dai6 次第]]
         in order, regularly;
