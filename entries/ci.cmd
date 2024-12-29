@@ -1571,7 +1571,7 @@ W
     To be distinguished from 束 _ch(')uk(7)_ [[cuk1]] to bind.
     --
     ==
-    -  A thorn, a prickle, a sliver, a sharp slit.
+    -  A thorn, a prickle, a sliver, a sharp slit [[Kangxi: 木芒也]].
     ==
   ====
 $$
