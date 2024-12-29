@@ -3063,10 +3063,10 @@ W
   ====
   - [[Page~616 (5)汜]]
     ==
-    - A stream leaving the main branch, and afterwards flowing into it again;
+    - A stream leaving the main branch, and afterwards flowing into it again [[Kangxi: 水別復入水也]];
     - _(5)ts(')z' (2)shui_
         [[ci5 seoi2 汜水]],
-        a small river in Hon(a/)n [[河南]],
+        a small river in Hon(a/)n [[河南]] [[Kangxi: 水名 etc.]],
         west of K(')(a/)ifung f(u/) [[開封府]],
         having a town of the same name.
     ==
