@@ -2000,7 +2000,7 @@ W
   ====
   - [[Page~11* (4)墀]]
     ==
-    - A porch, a vestibule or piazza, reached by a few steps;
+    - A porch, a vestibule or piazza, reached by a few steps [[Kangxi: 涂地也, 階上地也]];
     - a courtyard;
     - the path or walk somewhat elevated between the gate and palace;
     - _(1)t(a/)n (4)ch(')(i/)_
