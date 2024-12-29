@@ -1765,14 +1765,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - The reading _ts(')z'(3)_ (ci3) for 蛓 is not present in Williams;
-    an entry is included here for completeness.
-    ++
-    1. A type of hairy caterpillar.
-    ++
-  ==
+P
+  ++
+  1. A type of hairy caterpillar (Kangxi: 毛蟲也).
+  ++
 S
   ==
   - $蛓zi1
@@ -1793,10 +1789,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Alternative form of 蛓. **See $蛓ci3 for the canonical entry.**
-  ==
+P
+  ++
+  1. Alternative form of 蛓. **See $蛓ci3 for the canonical entry.**
+  ++
 S
   ==
   - $螆zi1
