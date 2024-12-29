@@ -2857,7 +2857,7 @@ W
   ====
   - [[Page~616 (4)鷀; here normalised to 鶿]]
     ==
-    - The fishing cormorant, the _Phalacrocorax_;
+    - The fishing cormorant [[Kangxi 鶿: 水鳥]], the _Phalacrocorax_;
     - _(4)l(o\) (4)ts(')z'_
         [[lou4 ci4 鸕鶿]]
         the cormorant, poetically called
