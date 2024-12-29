@@ -1274,7 +1274,6 @@ $$
 - $朿3
 - $次3
 - $熾3
-- $眥3
 - $糦3
 - $翄3
 - $翅3
@@ -1661,32 +1660,6 @@ W
         the more the fiercer it burns.
     ==
   ====
-$$
-
-### 眥3 | _Ts(')z'(3)_ [[ci3]]
-
-$$.
-R
-  ⽬ + 6
-U
-  U+7725
-F
-  ==
-  - [[F2.35 眥]] 目際也
-  - [[F2.35 眦]] 同上
-  ==
-W
-  ====
-  - [[Page~617 眥(3)]]
-    --
-    [[Idiosyncratic reading from Fan Wan. **See $眥zi6 and $眥zaai6 for the canonical entries.**]]
-    --
-  ====
-S
-  ==
-  - $眥zaai6
-  - $眥zi6
-  ==
 $$
 
 ### 糦3 | _Ch(')(i/)(3)_ [[ci3]]

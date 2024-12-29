@@ -4342,6 +4342,10 @@ A
   ==
   -{.modern} 眦
   ==
+V
+  ==
+  - ci1 (common)
+  ==
 F
   ==
   - [[F2.35 眥 _Ts(')z'(3)_ (ci3)]] 目際也
@@ -4351,14 +4355,13 @@ W
   ====
   - [[Page~617 眥(3) _Ts(')z'(3)_ (ci3); here corrected to _Tsz'(6)_ (zi6)]]
     ==
-    - The canthus or corner of the eye;
-    - [[see $眥zaai6 for "looking angrily" senses]];
+    - The canthus or corner of the eye [[Kangxi: 目厓也]];
+    - [[...]];
     - a lappel, the place where it folds over.
     ==
   ====
 S
   ==
-  - $眥ci3
   - $眥zaai6
   ==
 $$

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2024-12-10
+* %date-modified --> 2024-12-29
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -426,13 +426,12 @@ W
     ==
     - [[...]];
     - a fierce look;
-    - to look at angrily;
+    - to look at angrily [[Kangxi: 恨視也]];
     - [[...]].
     ==
   ====
 S
   ==
-  - $眥ci3
   - $眥zi6
   ==
 $$
