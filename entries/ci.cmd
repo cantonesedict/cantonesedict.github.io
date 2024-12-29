@@ -2355,10 +2355,10 @@ W
   ====
   - [[Page~615 (4)祠]]
     ==
-    - To sacrifice to ancestors in the spring;
+    - To sacrifice to ancestors in the spring [[Kangxi: 祭也, 春曰祠]];
     - a family shrine, an ancestral temple;
-    - a temple, a shrine;
-    - to get a blessing;
+    - a temple, a shrine [[Kangxi: 廟也]];
+    - to get a blessing [[Kangxi: 報賽也, 求福曰禱得求曰祠]];
     - _(4)shan (4)ts(')z'_
         [[san4 ci4 神祠]]
         shrine to the gods, said of the national ones;
