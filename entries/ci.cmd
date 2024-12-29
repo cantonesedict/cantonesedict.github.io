@@ -1871,9 +1871,9 @@ W
   ====
   - [[Page~12* 饎(3)糦(3)]]
     ==
-    - To cook or dress provisions;
-    - wine and food, victuals;
-    - millet used in sacrifice;
+    - To cook or dress provisions [[Kangxi 饎: 炊黍稷曰饎]];
+    - wine and food [[Kangxi 饎: 饎酒食也]], victuals;
+    - millet used in sacrifice [[Kangxi 糦: 大祭亦稷也]];
     - _ch(')(i/)(3) ch(a/)n(6)_
         [[ci3 zaan6 饎饌]]
         food and drink;
