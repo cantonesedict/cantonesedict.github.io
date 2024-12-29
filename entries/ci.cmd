@@ -2323,8 +2323,8 @@ W
   ====
   - [[Page~615 (4)磁]]
     ==
-    - The loadstone;
-    - [[see $瓷ci4 for "porcelain" senses]];
+    - The loadstone [[Kangxi: 石名可以引鍼]];
+    - [[...]];
     - _(4)ts(')z' shek(9)_
         [[ci4 sek6 磁石]]
         the loadstone;
