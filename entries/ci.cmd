@@ -2403,7 +2403,7 @@ $$
 
 ###+ 糍4 | _(4)Ts(')z'_ (ci4)
 
-$$
+$$.
 R
   ⽶ + 10
 U
@@ -2417,8 +2417,12 @@ W
   [[Not present]]
 C
   ==
-  - Alternative form of 餈. **See $餈ci4 for the canonical entry.**
-  - Nevertheless, 糯米糍 is the more common spelling for 糯米餈.
+  - Although 餈 is the orthodox form of 糍,
+    糯米糍 is the more common spelling for 糯米餈.
+  ==
+P
+  ==
+  1. Alternative form of 餈. **See $餈ci4 for the canonical entry.**
   ==
 E
   ====
