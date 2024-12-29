@@ -1805,7 +1805,7 @@ W
   - [[Page~11* (4)坻 _(4)Ch(')(i/)_ (ci4); here normalised to 坁, and corrected to _(2)Ch(i/)_ (zi2)]]
     ==
     - [[...]];
-    - to stop.
+    - to stop [[Kangxi 坻: 止也]].
     ==
   ====
 $$
