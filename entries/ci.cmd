@@ -2117,7 +2117,7 @@ W
   ====
   - [[Page~11* (4)持]]
     ==
-    - To take, to lay hold of, to grasp;
+    - To take, to lay hold of, to grasp [[Kangxi: 握也, 執也]];
     - to observe or maintain;
     - firm, decided;
     - to direct resolutely;
