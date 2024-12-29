@@ -2560,12 +2560,12 @@ W
   ====
   - [[Page~615 (4)詞]]
     ==
-    - An expression, a phrase, a sentence, a word;
+    - An expression, a phrase, a sentence, a word [[Kangxi: 說也, 言也]];
     - a particle;
-    - a writing, an accusation;
-    - to speak, to tell the thoughts, to say[;]
-    - to accuse;
-    - to request, to ask;
+    - a writing [[Kangxi: 文也]], an accusation;
+    - to speak, to tell the thoughts, to say [[Kangxi: 意內而言外也]][;]
+    - to accuse [[Kangxi: 吿也]];
+    - to request, to ask [[Kangxi: 請也]];
     - _(4)ts(')z' pat(7) t(a/)t(9) (i/)(3)_
         [[ci4 bat1 daat6 ji3 詞不達意]]
         the sentence does not fully convey the idea;
