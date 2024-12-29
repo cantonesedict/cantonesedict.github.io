@@ -2391,8 +2391,8 @@ W
   ====
   - [[Page~11* (4)篪]]
     ==
-    - A kind of bamboo flute, with seven holes;
-    - the sound resembles the wailing of children;
+    - A kind of bamboo flute, with seven holes [[Kangxi: 管樂也, 周禮云篪七孔]];
+    - the sound resembles the wailing of children [[Kangxi: 篪啼也 etc.]];
     - _(4)ch(')(i/) (1)h(u:)n_
         [[ci4 hyun1 篪壎]],
         two instruments which chord;
