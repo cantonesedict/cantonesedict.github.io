@@ -1652,7 +1652,7 @@ W
   - [[Page~12* 熾(3)]]
     ==
     - Flame, blaze;
-    - splendor;
+    - splendor [[Kangxi: 熾盛也]];
     - the glare of lights;
     - numerous;
     - _(5)(i/) (4)yau kau(3) (2)fo, (u:)(6) p(')ok(8) (u:)(6) ch(')(i/)(3)_
