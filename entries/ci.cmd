@@ -2228,13 +2228,13 @@ W
   ====
   - [[Page~9* 治(6) _Ch(i/)(6)_ (zi6); here corrected to _(4)Ch(')(i/)_ (ci4)]]
     ==
-    - Name of a stream in the east of Sh(a/)ntung [[山東]];
+    - Name of a stream [[Kangxi: 水名]] in the east of Sh(a/)ntung [[山東]];
     - [[...]].
     ==
   ====
 C
   ==
-  - Also the classical reading for verb senses of govern.
+  - Also the classical reading for verb senses of "govern".
     Notwithstanding, in modern usage,
     the level-tone reading _(4)ch(')(i/)_ (ci4) is considered obsolete.
     See $治zi6 for commentary.

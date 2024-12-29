@@ -4171,13 +4171,13 @@ W
   ====
   - [[Page~9* 治(6)]]
     ==
-    - [[See $治ci4 for proper-noun senses]];
-    - to govern, to rule well, to manage;
+    - [[...]];
+    - to govern, to rule well, to manage [[Kangxi: 亦理也]];
     - to heal;
-    - to oversee, to care for;
+    - to oversee [[Kangxi: 監督也]], to care for;
     - to form;
-    - to try causes;
-    - experienced, talented;
+    - to try causes [[Kangxi: 聽獄之成辭亦曰治]];
+    - experienced, talented [[Kangxi: 才多亦曰治]];
     - prosperity, good government;
     - _ch(i/)(6) (1)song_
         [[zi6 song1 治喪]],
