@@ -4680,8 +4680,8 @@ W
   ====
   - [[Page~11* (4)遲 _(4)Ch(')(i/)_ (ci4); here corrected to _Ch(i/)(6)_ (zi6)]]
     ==
-    - [[,,,]];
-    - to wait for;
+    - [[...]];
+    - to wait for [[Kangxi: 待也]];
     - [[...]].
     ==
   ====

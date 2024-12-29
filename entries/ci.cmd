@@ -2707,11 +2707,11 @@ W
   ====
   - [[Page~11* (4)遲]]
     ==
-    - Slow, dilatory;
+    - Slow, dilatory [[Kangxi: 徐行也]];
     - late, tardy;
-    - not urgent;
+    - not urgent [[Kangxi: 緩也, 緩而不迫也]];
     - to delay, to walk leisurely;
-    - [[see $遲zi6 for "await" senses]];
+    - [[...]];
     - to procrastinate;
     - _(4)loi tak(7) (4)ch(')(i/)_
         [[loi4 dak1 ci4 來得遲]],
