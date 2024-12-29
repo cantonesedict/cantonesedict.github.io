@@ -2265,7 +2265,7 @@ W
   - [[Page~615 (4)磁; here normalised to 瓷]]
     ==
     - [[...]];
-    - porcelain, chinaware;
+    - porcelain, chinaware [[Kangxi: 瓦器也]];
     - [[...]];
     - _(4)ts(')z' h(i/)(3)_
         [[ci4 hei3 瓷器]]
