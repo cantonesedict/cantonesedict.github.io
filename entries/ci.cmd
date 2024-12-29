@@ -2780,7 +2780,7 @@ W
   - [[Page~616 (4)餈]]
     ==
     - Unleavened cakes;
-    - pancakes, or dumplings made of rice flour;
+    - pancakes, or dumplings made of rice flour [[Kangxi: 稻餠也]];
     - _(4)yau (4)ts(')z'_
         [[jau4 ci4 油餈]]
         cakes fried in fat;
