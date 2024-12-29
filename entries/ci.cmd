@@ -2536,7 +2536,7 @@ W
   ====
   - [[Page~11* (4)蚳]]
     ==
-    - Eggs or larva of ants. One says, a bloodsucker.
+    - Eggs or larva of ants [[Kangxi: 蟻卵也]]. ~~One says, a bloodsucker.~~
     ==
   ====
 $$
