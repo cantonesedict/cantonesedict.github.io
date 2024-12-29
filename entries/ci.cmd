@@ -2811,8 +2811,8 @@ W
   ====
   - [[Page~11* (4)馳]]
     ==
-    - To gallop, to ride fast, as a courier;
-    - a fleet horse;
+    - To gallop, to ride fast [[Kangxi: 走奔也, 馳騖也疾驅也]], as a courier;
+    - ~~a fleet horse;~~
     - to go fast;
     - fast;
     - far, spread abroad;
