@@ -135,9 +135,13 @@ W
     - pained, mournful.
     ==
     --
-    [[Alternative form of 戚 for the "grief" sense. **See $戚cik1 for the canonical entry.**]]
+    Used for the preceding [[$戚1]] [[Kangxi: 又通作戚]].
     --
   ====
+C
+  ==
+  - Williams' "Used for the preceding": Only in the "grief" sense.
+  ==
 $$
 
 ### 戚1 | _Ts(')ik(7)_ [[cik1]]
@@ -160,21 +164,21 @@ W
   ====
   - [[Page~570 戚(7)]]
     ==
-    - A sort of pole-ax;
+    - A sort of pole-ax [[Kangxi: 戉類, 戚斧也]];
     - to compassionate, to pity;
-    - mournful, sorry;
-    - angry, aroused, vexed;
-    - deformed, marked in any way;
-    - near, related to, dear to;
-    - relatives;
+    - mournful, sorry [[Kangxi: 哀也]];
+    - angry [[Kangxi: 憤也]], aroused, vexed [[Kangxi: 憂也, 惱也]];
+    - deformed, ~~marked in any way~~ [[Kangxi: 醜疾人曰戚施]];
+    - near, related to, dear to [[Kangxi: 戚近也]];
+    - relatives [[Kangxi: 親也]];
     - _(1)ts(')an ts(')ik(7)_
-        [[can1 cik]]
+        [[can1 cik1 親戚]]
         one's kindred;
     - _(1)yau ts(')ik(7) (1)s(e/)ung (1)kw(a/)n_
-        [[jau1 cik1 soeng1 gwaan1]],
+        [[jau1 cik1 soeng1 gwaan1 休戚相關]],
         to feel for other's woes, mutually effected;
     - _ts(')ik(7) ts(')ik(7)_
-        [[cik1 cik1]]
+        [[cik1 cik1 戚戚]]
         melancholy.
     ==
   ====
