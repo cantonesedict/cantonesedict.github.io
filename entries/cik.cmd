@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cik
-* %date-modified --> 2024-12-22
+* %date-modified --> 2024-12-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -99,7 +99,7 @@ W
   ====
   - [[Page~15* 叱(7)]]
     ==
-    - To scold, to cry out to;
+    - To scold [[Kangxi {𠮟=⿰口七}: 訶也]], to cry out to;
     - to hoot at;
     - to mention;
     - _ch(')ik(7) m(a/)(6)_
