@@ -130,12 +130,12 @@ W
   ====
   - [[Page~571 慼(7)]]
     ==
-    - Grief, sorrow;
+    - Grief, sorrow [[Kangxi: 憂也]];
     - to be afflicted, to be sad;
     - pained, mournful.
     ==
     --
-    Used for the preceding [[$戚1]].
+    [[Alternative form of 戚 for the "grief" sense. **See $戚cik1 for the canonical entry.**]]
     --
   ====
 $$
@@ -149,7 +149,7 @@ U
   U+621A
 A
   ==
-  -{.modern} $慼1 (for "grief" senses)
+  -{.modern} $慼1 (for "grief" sense)
   -{.modern} $鏚1 (for "pole-ax" sense)
   ==
 F
