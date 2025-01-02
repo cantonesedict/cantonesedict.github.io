@@ -842,7 +842,7 @@ U
 A
   ==
   - $凑3
-  - $輳3
+  - $輳3 [[for "gather" senses]]
   ==
 F
   ==
@@ -890,6 +890,11 @@ W
     - _ts(')au(3) h(o\)p(9)_
         [[cau3 hap6 湊合]]
         to group.
+    ==
+  - [[Page~563 輳(3)]]
+    ==
+    - Similar to the preceding [[湊]] [[Kangxi 輳: 通作湊]];
+    - [[...]].
     ==
   ====
 C
@@ -1120,11 +1125,14 @@ W
   ====
   - [[Page~563 輳(3)]]
     ==
-    - Similar to the preceding [[$湊3]] [[Kangxi: 通作湊]];
+    - [[...]];
     - centre of a wheel, place where the rays centre [[Kangxi: 輻輳輻共轂也]];
     - to collect, to bring together [[Kangxi: 輳聚也]];
     - concentrated.
     ==
+    --
+    [[Alternative form of $湊3 (for the "gather" senses).]]
+    --
   ====
 $$
 
@@ -1412,6 +1420,9 @@ W
   - [[Page~27|n70 (4)儔; here normalised to 疇]]
     --
     Used for the preceding [[疇]] [[for the "who" sense]] [[Kangxi 儔: ::誰也[...]與疇同::]].
+    --
+    --
+    [[...]]
     --
   ====
 $$
@@ -1871,7 +1882,7 @@ W
     ==
     - [[...]];
     - used for the next [[酬]] [[Kangxi 讎: 通作酬]];
-    - [[...]];
+    - [[...]].
     ==
   - [[Page~27|n70 (4)酬(4)酧]]
     ==

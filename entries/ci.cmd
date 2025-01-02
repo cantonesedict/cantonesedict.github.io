@@ -1442,6 +1442,9 @@ W
     --
     Used for the last [[啻]] [[Kangxi 翅: 同啻]].
     --
+    --
+    [[...]]
+    --
   ====
 C
   ==
@@ -2586,6 +2589,11 @@ W
         [[zong6 ci4 狀詞]]
         an accusation, a petition.
     ==
+  - [[Page~615 (4)辭(4)辞]]
+    ==
+    - Similar to the last [[詞]];
+    - [[...]].
+    ==
   ====
 $$
 
@@ -2653,7 +2661,7 @@ W
   ====
   - [[Page~615 (4)辭(4)辞]]
     ==
-    - Similar to the last [[$詞4]];
+    - [[...]];
     - an expression, a word, a particle, a part of speech;
     - evidence [[Kangxi: 訟辭也]], speech, words [[Kangxi: 辭說也]];
     - to refuse, to decline with thanks [[Kangxi: 卻不受也]];
@@ -2692,6 +2700,9 @@ W
         [[hou2 ci4 geoi3 好辭句]]
         a good style.
     ==
+    --
+    [[Alternative form of $詞4.]]
+    --
   ====
 C
   ==

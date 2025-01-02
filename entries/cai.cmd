@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2024-12-16
+* %date-modified --> 2025-01-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -146,7 +146,7 @@ W
   ====
   - [[Page~549 (1)悽]]
     --
-    Similar to the last [[$淒1]];
+    [[...]]
     --
     ==
     - grieved, afflicted, sorrowing [[Kangxi: 痛也, 悲也]];
@@ -158,6 +158,9 @@ W
         [[cai1 cai1 悽悽]],
         gaunt, famishing.
     ==
+    --
+    [[Alternative form of $淒1 (for the "grieved/afflicted" senses).]]
+    --
   ====
 $$
 
@@ -278,6 +281,13 @@ W
     ==
     --
     The second [[淒]] also means gathering clouds.
+    --
+  - [[Page~549 (1)悽; here normalised to 淒]]
+    --
+    Similar to the last [[淒]];
+    --
+    --
+    [[...]]
     --
   ====
 $$

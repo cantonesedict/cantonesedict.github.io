@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cat
-* %date-modified --> 2024-12-17
+* %date-modified --> 2025-01-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -139,12 +139,13 @@ W
     [[...]]
     --
     --
-    [[Alternative form of 七 (to prevent alteration). **See $七cat1 for the canonical entry.**]]
+    The second [[柒]] [[...]] is also a sort of tree [[Kangxi 柒: 木名]] [[...]].
     --
     --
-    The second [[柒]] [[...]]
-    is also a sort of tree [[Kangxi 柒: 木名]],
-    and a contracted form of the next [[$漆1]] [[Kangxi 柒: 俗漆字]].
+    [[Otherwise, an alternative form of 七 (to prevent alteration). **See $七cat1 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 漆. **See $漆cat1 for the canonical entry.**]]
     --
   ====
 $$
@@ -166,6 +167,14 @@ F
   ==
 W
   ====
+  - [[Page~559 七(7)柒(7); here normalised to 漆]]
+    --
+    [[...]]
+    --
+    --
+    The second [[柒]] [[...]] is also [[...]]
+    a contracted form of the next [[::[漆]::]] [[Kangxi 柒: 俗漆字]].
+    --
   - [[Page~559 ::[漆](7)::]]
     ==
     - Varnish, lacquer;

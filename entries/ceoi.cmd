@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2024-12-22
+* %date-modified --> 2025-01-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1298,13 +1298,16 @@ W
   ====
   - [[Page~34* (4)搥; here normalised to 捶]]
     --
-    Like the last [[$槌4]].
+    [[...]]
     --
     ==
     - To beat [[Kangxi 捶: 以杖擊也]];
     - to strike, as on a bell;
     - [[...]].
     ==
+    --
+    [[Alternative form of $槌4 (for the verb senses).]]
+    --
   ====
 $$
 
@@ -1389,6 +1392,7 @@ U
 A
   ==
   - $搥4
+  -{.modern} $捶4 (for verb senses)
   - $椎4
   ==
 V
@@ -1425,6 +1429,13 @@ W
         [[ceoi4 bui3 槌背]]
         to shampoo[.]
     ==
+  - [[Page~34* (4)搥]]
+    --
+    Like the last [[槌]].
+    --
+    --
+    [[...]]
+    --
   ====
 C
   ==

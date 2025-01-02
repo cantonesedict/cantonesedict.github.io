@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caan
-* %date-modified --> 2024-12-15
+* %date-modified --> 2025-01-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -189,7 +189,7 @@ U
 A
   ==
   - $剗2
-  -{.modern} $鏟2
+  - $鏟2
   ==
 F
   ==
@@ -200,7 +200,7 @@ W
   ====
   - [[Page~20|n63 (2)剷(2)剗]]
     --
-    Interchanged with the next [[$鏟2]] [[Kangxi 剷: 與鏟{𠟉=⿰孱刂}通]].
+    Interchanged with the next [[鏟]] [[Kangxi 剷: 與鏟{𠟉=⿰孱刂}通]].
     --
     ==
     - To level off [[Kangxi 剗: 削也, 平也]], to spade up;
@@ -326,7 +326,7 @@ U
   U+93DF
 A
   ==
-  -{.modern} $剷2
+  - $剷2
   ==
 F
   ==

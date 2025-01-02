@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> au
-* %date-modified --> 2024-12-17
+* %date-modified --> 2025-01-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -359,7 +359,7 @@ W
     --
   - [[Page~6 (2)嘔]]
     --
-    Interchanged with the last [[$歐2]] [[Kangxi: 與歐同]].
+    Interchanged with the last [[歐]] [[Kangxi: 與歐同吐也]].
     --
     ==
     - To vomit [[Kangxi: 吐也]];
