@@ -254,10 +254,10 @@ W
   ====
   - [[Page~14* 斥(7)]]
     ==
-    - To exclude, to expel, to send off, to drive off;
+    - To exclude, to expel, to send off, to drive off [[Kangxi: 逐也遠也]];
     - to scold;
-    - to pry into;
-    - reaching far, extending to, extensive, plenty;
+    - to pry into [[Kangxi: 斥度也{𠋫=⿰亻侯}視也望也]];
+    - reaching far, extending to, extensive [[Kangxi: 斥廣也]], plenty [[Kangxi: ::[...]言其多::]];
     - _ch(')ik(7) chuk(9)_
         [[cik1 zuk6 斥逐]]
         to order away;
@@ -286,7 +286,7 @@ W
   ====
 C
   ==
-  - Williams' 斥法: Juggle, meaning to perform magical trickery.
+  - Williams' "to juggle": In the (now) archaic sense of performing magical trickery.
   ==
 $$
 
