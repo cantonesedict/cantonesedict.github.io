@@ -304,6 +304,13 @@ F
   ==
 W
   ====
+  - [[Page~572 (1)瀸; here normalised to 殲]]
+    ==
+    - [[...]] [[Kangxi 瀸: 滅也通殲]];
+    - _(1)ts(')(i/)m m(i/)t(9)_
+        [[cim1 mit6 殲滅]]
+        to extirpate.
+    ==
   - [[Page~572 (1)殲]]
     ==
     - To destroy utterly, to exterminate [[Kangxi: 殲盡也]], to pierce, to kill;
@@ -336,14 +343,14 @@ W
   ====
   - [[Page~572 (1)瀸]]
     ==
-    - To soak, to moisten, to dampen;
-    - to overflow;
-    - a spring appearing and reäppearing;
-    - occurs used for the next [[$殲1]];
-    - _(1)ts(')(i/)m m(i/)t(9)_
-        [[cim1 mit6 瀸滅]]
-        to extirpate.
+    - To soak, to moisten, to dampen [[Kangxi: 漬也洽也]];
+    - ~~to overflow;~~
+    - a spring appearing and reäppearing [[Kangxi: 泉一見一否爲瀸 etc.]];
+    - [[...]].
     ==
+    --
+    [[Otherwise, an alternative form of 殲. **See $殲cim1 for the canonical entry.**]]
+    --
   ====
 $$
 
