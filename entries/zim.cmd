@@ -404,10 +404,10 @@ W
   ====
   - [[Page~16* (1)襜]]
     ==
-    - An apron;
+    - An apron [[Kangxi: 衣蔽前謂之襜]];
     - a flap, a skirt;
-    - a curtain of a car;
-    - to adjust, to put the dress in order;
+    - a curtain of a car [[Kangxi: 帷也, 車上施帷 etc.]];
+    - to adjust, to put the dress in order [[Kangxi: 整貌]];
     - _(4)ts(')(i/)n (1)ch(i/)m_
         [[cin4 cim1 前襜]],
         the front skirt;
