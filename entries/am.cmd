@@ -305,7 +305,7 @@ W
 C
   ==
   - Williams has am2 "cover" twice: once as 掩 _(2)Am_ (am2) on Page~3,
-    and once as 掩 _(1)(O\)m_ (am1) as a variant of $揞2 _(2)(O\)m_ (am2)
+    and once as 掩 _(1)(O\)m_ (am1) as a variant of 揞 _(2)(O\)m_ (am2)
     on Page~341.
   ==
 S

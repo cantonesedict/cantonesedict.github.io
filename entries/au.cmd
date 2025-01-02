@@ -272,12 +272,15 @@ W
         [[au1 jam4 謳吟]],
         to sing songs.
     ==
-  - [[Page~6 (1)歐; here normalised to 謳]]
+  - [[Page~6 (1)歐]]
     ==
     - To sing;
     - to crow merrily;
     - in which it is like the last [[謳]] [[Kangxi 歐: 與謳同氣出而歌也]].
     ==
+    --
+    [[...]]
+    --
   ====
 $$
 

@@ -282,7 +282,7 @@ W
     --
     The second [[淒]] also means gathering clouds.
     --
-  - [[Page~549 (1)悽; here normalised to 淒]]
+  - [[Page~549 (1)悽]]
     --
     Similar to the last [[淒]];
     --

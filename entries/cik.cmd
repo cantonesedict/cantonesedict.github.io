@@ -177,7 +177,7 @@ W
         [[cik1 cik1 戚戚]]
         melancholy.
     ==
-  - [[Page~571 慼(7); here normalised to 戚]]
+  - [[Page~571 慼(7)]]
     --
     [[...]]
     --

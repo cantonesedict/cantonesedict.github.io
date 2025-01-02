@@ -163,7 +163,7 @@ W
         [[ceoi1 fo2 tung4 ceot1 san1 吹火筒出身]],
         began life as a firelighter.
     ==
-  - [[Page~34* (1)炊; here normalised to 吹]]
+  - [[Page~34* (1)炊]]
     --
     Used for the last [[吹]] [[Kangxi 炊: 與吹同]].
     --

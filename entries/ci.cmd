@@ -1438,7 +1438,7 @@ W
     --
     ~~Often read _tai(3)_ [[dai3]].~~
     --
-  - [[Page~12* 翅(3)翄(3); here normalised to 啻]]
+  - [[Page~12* 翅(3)翄(3)]]
     --
     Used for the last [[啻]] [[Kangxi 翅: 同啻]].
     --

@@ -1417,7 +1417,7 @@ W
         [[cau4 sik1 疇昔]]
         formerly, in time past.
     ==
-  - [[Page~27|n70 (4)儔; here normalised to 疇]]
+  - [[Page~27|n70 (4)儔]]
     --
     Used for the preceding [[疇]] [[for the "who" sense]] [[Kangxi 儔: ::誰也[...]與疇同::]].
     --
@@ -1878,7 +1878,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 ::(4)讐~~(4)仇~~::; here normalised to 酬]]
+  - [[Page~26|n69 ::(4)讐~~(4)仇~~::]]
     ==
     - [[...]];
     - used for the next [[酬]] [[Kangxi 讎: 通作酬]];

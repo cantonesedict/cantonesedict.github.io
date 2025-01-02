@@ -377,7 +377,7 @@ W
     - dull, faded;
     - a cracked sound, as a bell;
     - wheezing;
-    - nape of the neck [[Kangxi 瘂: 人身項後入髮際五分爲瘂門]];
+    - [[...]];
     - _(2)(a/) (2)tsai_
         [[aa2 zai2 啞仔]],
         a dumb boy;
@@ -405,7 +405,7 @@ $$
 
 ### 瘂2 | _(2)(A/)_ [[aa2]]
 
-$$.
+$$
 R
   ⽧ + 8
 U
@@ -419,8 +419,13 @@ F
 W
   ====
   - [[Page~1|n44 (2)瘂]]
+    ==
+    - [[...]];
+    - nape of the neck [[Kangxi 瘂: 人身項後入髮際五分爲瘂門]];
+    - [[...]].
+    ==
     --
-    [[Alternative form of 啞. **See $啞aa2 for the canonical entry.**]]
+    [[Otherwise, an alternative form of 啞. **See $啞aa2 for the canonical entry.**]]
     --
   ====
 $$
