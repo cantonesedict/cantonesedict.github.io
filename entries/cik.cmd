@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cik
-* %date-modified --> 2024-12-30
+* %date-modified --> 2025-01-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -207,7 +207,7 @@ W
   - [[Page~14* 勅(7)敕(7)]]
     ==
     - An order, a prohibition or command from the emperor;
-    - an ordinance, a special precept;
+    - an ordinance, a special precept [[Kangxi: ::[誡]也::]];
     - a charter, a commission;
     - _ch(')ik(7) (1)sh(u:)_
         [[cik1 syu1 敕書]],
