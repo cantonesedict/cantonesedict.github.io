@@ -306,7 +306,7 @@ W
   ====
   - [[Page~572 (1)殲]]
     ==
-    - To destroy utterly, to exterminate, to pierce, to kill;
+    - To destroy utterly, to exterminate [[Kangxi: 殲盡也]], to pierce, to kill;
     - _yat(7) (1)t(o\) (1)ts(')(i/)m (2)sz' (5)k(')(u:)_
         [[jat1 dou1 cim1 sei2 keoi5 一刀殲死佢]],
         stabbed him dead at a blow;
