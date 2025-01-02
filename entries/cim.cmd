@@ -240,8 +240,8 @@ W
   ====
   - [[Page~572 (1)憸]]
     ==
-    - Disputatious, skilled at arguing;
-    - insidious, lying flattery;
+    - Disputatious, skilled at arguing [[Kangxi: 小人而謂之憸者形容其沾沾便捷之狀也]];
+    - insidious, lying flattery [[Kangxi: 憸詖也]];
     - _ts(')(i/)m (4)yan_
         [[cim1 jan4 憸人]],
         a flatterer.
