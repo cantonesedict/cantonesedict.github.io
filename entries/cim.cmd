@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2024-12-12
+* %date-modified --> 2025-01-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -80,9 +80,9 @@ W
   ====
   - [[Page~571 (1)僉]]
     ==
-    - All, the whole;
-    - an unanimous voice, the general opinion;
-    - a flail;
+    - All, the whole [[Kangxi: 皆也咸也]];
+    - an unanimous voice, the general opinion [[Kangxi: 衆共言之也]];
+    - a flail [[Kangxi: 連枷亦曰僉打穀具也]];
     - _(1)ts(')(i/)m [(a/)t](8)_
         [[cim1 aat3 僉押]]
         all signed it.
