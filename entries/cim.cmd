@@ -199,7 +199,7 @@ W
     - [[...]].
     ==
     --
-    [[Otherwise, an alternative form of 纖. **See $纖cim1 for the canonical entry.**]]
+    [[Otherwise, an alternative form of 纖 (for the "delicate" senses). **See $纖cim1 for the canonical entry.**]]
     --
   ====
 $$
@@ -273,7 +273,7 @@ W
     - [[...]].
     ==
     --
-    [[Alternative form of 纖. See $纖cim1.]]
+    [[Alternative form of 纖 (for the "delicate" senses). See $纖cim1.]]
     --
   ====
 C
@@ -458,8 +458,8 @@ U
   U+7E96
 A
   ==
-  - $摻1
-  - $孅1
+  - $摻1 [[for "delicate" senses]]
+  - $孅1 [[for "delicate" senses]]
   ==
 F
   ==
