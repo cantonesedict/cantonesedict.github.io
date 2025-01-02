@@ -135,13 +135,9 @@ W
     - pained, mournful.
     ==
     --
-    Used for the preceding [[$戚1]] [[Kangxi: 又通作戚]].
+    Used for the preceding [[$戚1]] [[for the "grief" sense]] [[Kangxi: 又通作戚]].
     --
   ====
-C
-  ==
-  - Williams' "Used for the preceding": Only in the "grief" sense.
-  ==
 $$
 
 ### 戚1 | _Ts(')ik(7)_ [[cik1]]
@@ -329,10 +325,10 @@ W
   ====
   - [[Page~571 鏚(7)]]
     --
-    [[Alternative form of $戚1.]]
+    [[Alternative form of $戚1 (for the "pole-ax" sense).]]
     --
     ==
-    - A sort of pole-ax, a bill;
+    - A sort of pole-ax, a bill [[Kangxi: 干鏚斧鉞也, 鏚斧也]];
     - an ornamental kind of ax carried in processions.
     ==
   ====
