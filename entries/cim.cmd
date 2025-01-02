@@ -194,13 +194,13 @@ W
   ====
   - [[Page~572 (1)孅]]
     ==
-    - Similar to the preceding [[$纖1]];
-    - slender, sharp-pointed, acute;
-    - crafty, subtle;
-    - _(1)ts(')(i/)m y(e/)uk(9)_
-        [[cim1 joek6 孅弱]]
-        weak and delicate.
+    - [[...]];
+    - crafty, subtle [[Kangxi: 孅趨巧佞也]];
+    - [[...]].
     ==
+    --
+    [[Otherwise, an alternative form of 纖. **See $纖cim1 for the canonical entry.**]]
+    --
   ====
 $$
 
@@ -471,6 +471,15 @@ W
     - _(1)ts(')(i/)m (1)i(u/)_
         [[cim1 jiu1 纖腰]],
         a slender waist,
+    ==
+  - [[Page~572 (1)孅; here normalised to 纖]]
+    ==
+    - [[...]];
+    - slender, sharp-pointed, acute [[Kangxi 孅: 銳細也與纖通]];
+    - [[...]];
+    - _(1)ts(')(i/)m y(e/)uk(9)_
+        [[cim1 joek6 纖弱]]
+        weak and delicate.
     ==
   ====
 $$
