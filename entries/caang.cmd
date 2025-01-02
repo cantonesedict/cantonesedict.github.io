@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caang
-* %date-modified --> 2024-12-17
+* %date-modified --> 2025-01-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -529,7 +529,7 @@ W
 P
   ++
   1. A door-post (Kangxi: 棖謂之楔, 棖門兩旁長木).
-  1. Alternative form of $橙4 (Kangxi: 果名卽橙也).
+  1. Alternative form of 橙 (Kangxi: 果名卽橙也). **See $橙caang4 for the canonical entry.**
   ++
 S
   ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aau
-* %date-modified --> 2024-12-15
+* %date-modified --> 2025-01-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -327,7 +327,7 @@ C
     ==
     Nevertheless, being stubborn is not too far from being argumentative;
     together with 拗 being a more commonly seen character,
-    its use as an alternative form of $詏aau3 is understandable.
+    its use as an alternative form of 詏 is understandable.
   ====
 S
   ==
@@ -357,9 +357,11 @@ W
 C
   ==
   - There is a subtle difference between $拗aau3 "stubborn" and $詏aau3 "argue".
-    Nevertheless, being stubborn is not too far from being argumentative;
-    **see $拗aau3 for the canonical entry of "stubborn".**
   ==
+P
+  ++
+  1. Defiant speech (Kangxi: 言逆也).
+  ++
 E
   ====
   - 【詏】 (aau3):

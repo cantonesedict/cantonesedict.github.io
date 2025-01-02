@@ -2701,7 +2701,7 @@ W
         a good style.
     ==
     --
-    [[Alternative form of $詞4.]]
+    [[Alternative form of 詞. See $詞ci4.]]
     --
   ====
 C

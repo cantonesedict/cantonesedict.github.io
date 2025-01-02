@@ -1306,7 +1306,7 @@ W
     - [[...]].
     ==
     --
-    [[Alternative form of $槌4 (for the verb senses).]]
+    [[Alternative form of 槌 (for the verb senses). See $槌ceoi4.]]
     --
   ====
 $$

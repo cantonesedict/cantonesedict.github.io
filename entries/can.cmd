@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2024-12-16
+* %date-modified --> 2025-01-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -388,7 +388,7 @@ W
 C
   ==
   - Fan Wan entry: Normalised {𤍠=⿱執灬} to 熱.
-  - Williams incorrectly considers 疢 as an alternative form of $疹2
+  - Williams incorrectly considers 疢 as an alternative form of 疹
     when it is actually the other way round.
     An entry for 疢 (not 疹) is here supplemented.
   ==

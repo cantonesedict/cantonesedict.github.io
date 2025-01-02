@@ -1131,7 +1131,7 @@ W
     - concentrated.
     ==
     --
-    [[Alternative form of $湊3 (for the "gather" senses).]]
+    [[Alternative form of 湊 (for the "gather" senses). See $湊cau3.]]
     --
   ====
 $$

@@ -135,7 +135,7 @@ W
     - pained, mournful.
     ==
     --
-    [[Alternative form of $戚1 (for the "grief" sense).]]
+    [[Alternative form of 戚 (for the "grief" sense). See $戚cik1.]]
     --
   ====
 $$
@@ -336,7 +336,7 @@ W
     - an ornamental kind of ax carried in processions.
     ==
     --
-    [[Alternative form of $戚1 (for the "pole-ax" sense).]]
+    [[Alternative form of 戚 (for the "pole-ax" sense). See $戚cik1.]]
     --
   ====
 C

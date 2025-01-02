@@ -159,7 +159,7 @@ W
         gaunt, famishing.
     ==
     --
-    [[Alternative form of $淒1 (for the "grieved/afflicted" senses).]]
+    [[Alternative form of 淒 (for the "grieved/afflicted" senses). See $淒cai1.]]
     --
   ====
 $$
