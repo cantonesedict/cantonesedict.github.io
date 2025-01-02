@@ -369,10 +369,9 @@ W
   ====
   - [[Page~571 (1)簽]]
     ==
-    - Slips of bamboo written on for lots,
-      for which the next one is used [[**see $籤cim1**]];
-    - to subscribe, to write one's name;
-    - a sort of basket;
+    - [[...]];
+    - to subscribe, to write one's name [[Kangxi: 簽書文字也]];
+    - a sort of basket [[Kangxi: 簽籯籠也]];
     - _(1)ts(')(i/)m tsz'(6)_
         [[cim1 zi6 簽字]]
         a circular, a subscription paper;
@@ -387,6 +386,9 @@ W
         to join in engaging a teacher;
     - [[...]].
     ==
+    --
+    [[Otherwise, an alternative form of 籤. **See $籤cim1 for the canonical entry.**]]
+    --
   ====
 $$
 
