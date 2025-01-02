@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoek
-* %date-modified --> 2024-10-16
+* %date-modified --> 2025-01-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -507,14 +507,10 @@ W
   ====
   - [[Page~32|n75 禚(8)]]
     ==
-    - A city in the feudal state of Ts(i/) [[齊]],
+    - A city in the feudal state of [Ts(')(i/)] [[齊]] [[Kangxi: 齊地名]],
       now a place in Sh(a/)ntung [[山東]] province.
     ==
   ====
-C
-  ==
-  - Williams entry: Corrected Ts(i/) to Ts(')(i/).
-  ==
 $$
 
 ### 芍3 | _Ch(e/)uk(8)_ [[zoek3]]
