@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2024-12-22
+* %date-modified --> 2025-01-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -247,17 +247,13 @@ W
   ====
   - [[Page~552 (1)駸]]
     ==
-    - Occurs used for the preceding [[$侵1]];
+    - ~~Occurs used for the preceding [[侵]];~~
     - properly a swift horse [[Kangxi: 駸駸馬行疾貌]];
     - _(1)ts(')am (1)ts(')am_
         [[cam1 cam1 駸駸]],
         a fast running courser.
     ==
   ====
-C
-  ==
-  - Williams' "used for the preceding": I have not seen 駸 used for 侵.
-  ==
 $$
 
 

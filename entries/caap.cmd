@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caap
-* %date-modified --> 2024-12-17
+* %date-modified --> 2025-01-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -65,7 +65,7 @@ W
   ====
   - [[Page~23|n66 扱(8)]]
     --
-    Wrongly used for the last [[$揷3]].
+    Wrongly used for the last [[揷]].
     --
     ==
     - To take, to receive [[Kangxi: 收也, 取也獲也]];

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aang
-* %date-modified --> 2024-12-19
+* %date-modified --> 2025-01-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -128,7 +128,7 @@ W
     ==
   - [[Page~4 (1)甖(1)罌]]
     --
-    Used with the last but four [[$罃ang1]].
+    Used with the last but four [[罃 _(1)Ang_ (ang1)]].
     --
     ==
     - a vase, a jar, a gallipot, an earthen pitcher [[Kangxi 罌: 缶也, 甁也, 瓦器也]];

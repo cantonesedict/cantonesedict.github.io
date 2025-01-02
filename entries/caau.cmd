@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caau
-* %date-modified --> 2024-12-19
+* %date-modified --> 2025-01-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -441,7 +441,7 @@ W
     ==
     --
     Also read _[(2)]tsi(u/)_ [[ziu2]].
-    The last [[$巢4]] is usually used for this [[Kangxi: 亦作巢]].
+    The last [[巢]] is usually used for this [[Kangxi: 亦作巢]].
     --
   ====
 C

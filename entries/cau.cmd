@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2024-12-22
+* %date-modified --> 2025-01-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1217,7 +1217,7 @@ W
   ====
   - [[Page~27|n70 (4)儔]]
     --
-    Used for the preceding [[$疇4]] [[Kangxi: 通作疇]].
+    [[...]]
     --
     ==
     - A company of four [[Kangxi: 四人爲儔]];
@@ -1233,6 +1233,9 @@ W
         [[cau4 dong2 儔黨]],
         to join one's clique or party.
     ==
+    --
+    [[Otherwise, an alternative form of 疇 (for the "who" sense). **See $疇cau4 for the canonical entry.**]]
+    --
   ====
 $$
 
@@ -1385,7 +1388,7 @@ U
   U+7587
 A
   ==
-  - $儔4
+  - $儔4 [[for "who" sense]]
   ==
 F
   ==
@@ -1406,6 +1409,10 @@ W
         [[cau4 sik1 疇昔]]
         formerly, in time past.
     ==
+  - [[Page~27|n70 (4)儔; here normalised to 疇]]
+    --
+    Used for the preceding [[疇]] [[for the "who" sense]] [[Kangxi 儔: ::誰也[...]與疇同::]].
+    --
   ====
 $$
 
@@ -1587,7 +1594,7 @@ W
   ====
   - [[Page~27|n70 (4)綢]]
     ==
-    - Used for the last [[$紬4]], when denoting silk;
+    - Used for the last [[紬]], when denoting silk;
     - to bind, to wrap around, to twine about [[Kangxi 綢: 綢縛束也]];
     - close, thick, crowded [[Kangxi 綢: 繆也]];
     - _(4)ch(')au (4)mau_
@@ -1671,14 +1678,15 @@ W
     - [[...]]; <## TODO: 仇 sau4 "enmity" ##>
     - to verify, to collate with [[Kangxi 讎: 應驗也]];
     - [[...]];
-    - used for the next [[$酬4]] [[Kangxi 讎: 通作酬]];
-    - [[...]];
     - _(4)ch(')au t(u/)i(3)_
         [[cau4 deoi3 讎對]]
         to collate;
         [[...]];
     - [[...]].
     ==
+    --
+    [[Otherwise, an alternative form of 酬. **See $酬cau4 for the canonical entry.**]]
+    --
   ====
 C
   ====
@@ -1717,7 +1725,10 @@ W
     [[Alternative form of 仇 "enmity", and reading variation. **See $仇sau4 for the canonical entry.**]]
     --
     --
-    [[Alternative form of 讎 "proofread". **See $讎cau4 for the canonical entry.**]]
+    [[Otherwise, an alternative form of 讎 "proofread". **See $讎cau4 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 酬. **See $酬cau4 for the canonical entry.**]]
     --
   ====
 C
@@ -1844,6 +1855,8 @@ U
   U+916C
 A
   ==
+  -{.modern} $讎4
+  - $讐4
   - $酧4
   -{.modern} 醻
   ==
@@ -1854,6 +1867,12 @@ F
   ==
 W
   ====
+  - [[Page~26|n69 ::(4)讐~~(4)仇~~::; here normalised to 酬]]
+    ==
+    - [[...]];
+    - used for the next [[酬]] [[Kangxi 讎: 通作酬]];
+    - [[...]];
+    ==
   - [[Page~27|n70 (4)酬(4)酧]]
     ==
     - To pledge a guest [[Kangxi: 主人實觶酬賔]];

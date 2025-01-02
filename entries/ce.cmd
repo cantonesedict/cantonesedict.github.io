@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2024-12-17
+* %date-modified --> 2025-01-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -555,7 +555,7 @@ W
     - Slanting, inclined, oblique, across, crisscross,
       diagonal, aslant, not with the rule [[Kangxi: 不正也]];
     - distorted, scattered [[Kangxi: 散也]];
-    - often used for the preceding [[$邪4]];
+    - ~~often used for the preceding [[邪]];~~
     - _(4)ts(')(e/) (4)man p(o\)(3)_
         [[ce4 man4 bou3 斜紋布]]
         drillings, twilled cloth;
@@ -579,11 +579,6 @@ W
         cross-eyed.
     ==
   ====
-C
-  ==
-  - Williams' "used for the preceding":
-    I have only seen this in the other direction, i.e. using 邪 for 斜.
-  ==
 E
   ====
   - 【西斜】 (sai1 ce4):

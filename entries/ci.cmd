@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2024-12-29
+* %date-modified --> 2025-01-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1438,6 +1438,10 @@ W
     --
     ~~Often read _tai(3)_ [[dai3]].~~
     --
+  - [[Page~12* 翅(3)翄(3); here normalised to 啻]]
+    --
+    Used for the last [[啻]] [[Kangxi 翅: 同啻]].
+    --
   ====
 C
   ==
@@ -1720,7 +1724,7 @@ W
   ====
   - [[Page~12* 翅(3)翄(3)]]
     --
-    Used for the last [[$啻3]] [[Kangxi 翅: 同啻]].
+    [[...]]
     --
     ==
     - Wings [[Kangxi 翄: 翼也]];
@@ -1743,6 +1747,9 @@ W
       _(1)t(u/)i ch(')(i/)(3)_ [[deoi1 ci3 堆翅]]
         are sorts of shark's fins.
     ==
+    --
+    [[Otherwise, an alternative form of 啻. **See $啻ci3 for the canonical entry.**]]
+    --
   ====
 C
   ==

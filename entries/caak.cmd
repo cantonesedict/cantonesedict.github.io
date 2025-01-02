@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caak
-* %date-modified --> 2024-12-17
+* %date-modified --> 2025-01-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -377,13 +377,9 @@ W
         to whip a horse.
     ==
     --
-    Used for the next [[$茦3]].
+    ~~Used for the next [[茦]].~~
     --
   ====
-C
-  ==
-  - Williams' "Used for the next": I have not seen 策 used for 茦.
-  ==
 $$
 
 ### 茦3 | _Ch(')(a/)k(8)_ [[caak3]]

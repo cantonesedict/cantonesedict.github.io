@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2024-12-19
+* %date-modified --> 2025-01-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -360,7 +360,7 @@ W
     ==
     - [[...]];
     - dumb [[Kangxi: 瘖也]];
-    - to keep silent [[Kangxi: 不言也]], for which the next [[$瘂2]] is used;
+    - to keep silent [[Kangxi: 不言也]], for which the next [[瘂]] is used;
     - _(2)(a/) [(4)]mai_
         [[aa2 mai4 啞謎]]^
         an enigma;
