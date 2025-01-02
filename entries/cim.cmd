@@ -419,11 +419,11 @@ W
     ==
   - [[Page~571 ::(1)[籤]^::]]
     ==
-    - Similar to the above [[$簽1]];
-    - a slip, a lot;
+    - Similar to the above [[簽]];
+    - a slip, a lot [[Kangxi: 驗也, 竹籤用以卜者]];
     - a warrant, a permit, a ticket having the officer's name on it;
-    - to probe, to bore through;
-    - sharp-pointed;
+    - to probe, to bore through [[Kangxi: ::一曰[...]貫也::]];
+    - sharp-pointed [[Kangxi: 一曰銳也]];
     - _chai(3) (1)ts(')(i/)m_ [[zai3 cim1 掣籤]]^
         or
       _(1)ch(a/) (1)ts(')(i/)m_ [[zaa1 cim1 揸籤]],
