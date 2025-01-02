@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2024-12-22
+* %date-modified --> 2025-01-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -262,6 +262,10 @@ R
   ⼝ + 8
 U
   U+5535
+V
+  ==
+  - ngam2 (hypercorrected initial)
+  ==
 F
   [[Not present]]
 W
