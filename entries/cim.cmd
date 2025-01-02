@@ -458,7 +458,7 @@ U
   U+7E96
 A
   ==
-  - 摻
+  - $摻1
   - $孅1
   ==
 F
@@ -470,10 +470,10 @@ W
   ====
   - [[Page~572 (1)纖(1)摻]]
     ==
-    - Fine silk;
-    - small, delicate, like silken fibres;
-    - silk woven with a white woof and black warp;
-    - niggardly, stingy;
+    - Fine silk [[Kangxi: 繒帛之細者謂之纖]];
+    - small, delicate [[Kangxi: 細也, 纖小也, 纖細也]], like silken fibres;
+    - silk woven with a white woof and black warp [[Kangxi: 黑經白緯曰纖]];
+    - niggardly, stingy [[Kangxi: 纖儉嗇也]];
     - _(1)ts(')(i/)m (4)h(o\)_
         [[cim1 hou4 纖毫]],
         like a fibre, minute;
