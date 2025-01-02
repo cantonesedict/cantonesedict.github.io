@@ -137,7 +137,7 @@ W
   ====
   - [[Page~571 (1){𠠃=⿰⿳从一韭刂}; here normalised to 㔐]]
     ==
-    - To cut;
+    - To cut [[Kangxi {𠠃=⿰⿳从一韭刂}: 切割也]];
     - to stick in the throat;
     - _(1)ts(')(i/)m (5)k(')(u:) (4)hau (4)lung_
         [[cim1 keoi5 hau4 lung4 㔐佢喉嚨]],
