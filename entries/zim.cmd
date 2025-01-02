@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zim
-* %date-modified --> 2024-12-06
+* %date-modified --> 2025-01-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -182,6 +182,10 @@ R
   ⼱ + 13
 U
   U+5E68
+A
+  ==
+  - $襜1
+  ==
 V
   ==
   - cim1 (per 《廣韻》處占切)
@@ -195,11 +199,11 @@ W
   ====
   - [[Page~16* (1)幨]]
     --
-    Similar to the last [[$襜1]].
+    Similar to the last [[襜]].
     --
     ==
-    - A curtain of a carriage;
-    - a curtain over an opening;
+    - A curtain of a carriage [[Kangxi: 車襜]];
+    - a curtain over an opening [[Kangxi: 帷也]];
     - an overlap which hides a seam.
     ==
   ====
@@ -388,10 +392,6 @@ R
   ⾐ + 13
 U
   U+895C
-A
-  ==
-  - $幨1
-  ==
 V
   ==
   - cim1 (per 《廣韻》處占切)
@@ -416,6 +416,9 @@ W
         nice and trim;
         flapping, as a curtain.
     ==
+    --
+    [[Alternative form of 幨. See $幨zim1.]]
+    --
   ====
 S
   ==
