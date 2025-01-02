@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ak
-* %date-modified --> 2024-12-22
+* %date-modified --> 2025-01-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -72,7 +72,6 @@ A
 V
   ==
   - aak1 (longer syllable)
-  - ngaak1 (hypercorrected initial and longer syllable)
   - ngak1 (hypercorrected initial)
   ==
 F
@@ -119,7 +118,6 @@ U
 V
   ==
   - aak1 (longer syllable)
-  - ngaak1 (hypercorrected initial and longer syllable)
   - ngak1 (hypercorrected initial)
   ==
 F
@@ -156,7 +154,6 @@ U
 V
   ==
   - aak1 (longer syllable)
-  - ngaak1 (hypercorrected initial and longer syllable)
   - ngak1 (hypercorrected initial)
   ==
 F
@@ -184,7 +181,6 @@ U
 V
   ==
   - aak1 (longer syllable)
-  - ngaak1 (hypercorrected initial and longer syllable)
   - ngak1 (hypercorrected initial)
   ==
 F
@@ -231,7 +227,6 @@ U
 V
   ==
   - aak1 (longer syllable)
-  - ngaak1 (hypercorrected initial and longer syllable)
   - ngak1 (hypercorrected initial)
   ==
 F
@@ -278,7 +273,6 @@ A
 V
   ==
   - aak1 (longer syllable)
-  - ngaak1 (hypercorrected initial and longer syllable)
   - ngak1 (hypercorrected initial)
   ==
 F
