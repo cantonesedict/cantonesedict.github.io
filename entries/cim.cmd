@@ -272,6 +272,9 @@ W
     - fine, tapering, small;
     - [[...]].
     ==
+    --
+    [[Alternative form of 纖. See $纖cim1.]]
+    --
   ====
 C
   ==
