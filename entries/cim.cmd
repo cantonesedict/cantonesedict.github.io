@@ -804,7 +804,7 @@ U
   U+69E7
 V
   ==
-  - cim5 (alternative)
+  - cim5 (alternative per 《廣韻》慈染切)
   ==
 F
   ==
@@ -814,7 +814,7 @@ W
   ====
   - [[Page~572 槧(3)]]
     ==
-    - Boards for cutting books on;
+    - Boards for cutting books on [[Kangxi: 牘樸也]];
     - tablets for memoranda, tablets to be written on with a pencil.
     ==
   ====
