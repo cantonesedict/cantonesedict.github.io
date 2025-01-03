@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zim
-* %date-modified --> 2025-01-02
+* %date-modified --> 2025-01-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -539,9 +539,14 @@ W
   ====
   - [[Page~16* (1)䠨]]
     ==
-    - A horse traveling at full speed.
+    - A horse traveling at full speed [[Kangxi: 馬急行]].
     ==
   ====
+C
+  ==
+  - Fan Wan entry: The explanation 仰視 is erroneous,
+    (it explains 瞻 rather than 䠨).
+  ==
 S
   ==
   - $䠨cim3
