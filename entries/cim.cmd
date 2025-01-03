@@ -785,8 +785,8 @@ W
   ====
   - [[Page~572 暹(3)]]
     ==
-    - The increasing light and splendor of the sun;
-    - advancing, rising higher and higher;
+    - The increasing light and splendor of the sun [[Kangxi: 日光升也]];
+    - advancing, rising higher and higher [[Fan Wan: 進也]];
     - _Ts(')(i/)m (4)lo kwok(8)_
         [[cim3 lo4 gwok3 暹羅國]]
         Siam, a word probably corrupted from _Sien_
