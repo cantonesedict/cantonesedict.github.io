@@ -867,16 +867,22 @@ R
   ⼿ + 12
 U
   U+648D
+V
+  ==
+  - zaam2 (per 《廣韻》子感切 for "hand-movement" sense)
+  - zaam3 (per Kangxi 作紺切 for "take-up" sense)
+  - zam1 (per 《廣韻》側吟切 for "speed" sense)
+  ==
 F
   [[Not present]]
 W
   ====
   - [[Page~572 (4)撍]]
     ==
-    - To move with the hand, to take up;
-    - to select, to pull out, as from a pile;
+    - To move with the hand [[Kangxi: 手動也]], to take up [[Kangxi: 掇也]];
+    - to select [[Kangxi: 摘也]], to pull out, as from a pile;
     - to draw, as lots;
-    - quick, rapid, urgent;
+    - quick, rapid, urgent [[Kangxi: 疾也, 速也]];
     - _(4)ts(')(i/)m (4)'m (2)t(o\)_
         [[cim4 m4 dou3-2 撍唔到]],
         I drew a blank lot;
@@ -890,10 +896,8 @@ W
   ====
 C
   ==
-  - Williams' "quick, rapid, urgent":
-    This sense is not attested under the reading _(4)ts(')(i/)m_ (cim4);
-    《廣韻》 has 側吟切 _(1)cham_ (zam1), explained 速也,
-    and Kangxi quotes 《唐韻》側吟切《集韻》《韻會》緇岑切{𠀤=⿱夶一}音簪 _(1)ch(a/)m_ (zaam1), explained 疾也.
+  - The reading _(4)ts(')(i/)m_ (cim4) is not unattested for the "select" sense;
+    Kangxi has 又《集韻》慈鹽切《韻會》昨鹽切{𠀤=⿱夶一}音潛摘也.
   ==
 E
   ====
