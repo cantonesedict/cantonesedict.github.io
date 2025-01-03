@@ -728,7 +728,7 @@ W
   ====
   - [[Page~572 塹(3)壍(3)]]
     ==
-    - The moat around a wall, a fosse, a ditch;
+    - The moat around a wall [[Kangxi 塹: 遶城水也]], a fosse, a ditch [[Kangxi 塹: 坑也]];
     - a sluice to lead water upon trees;
     - to deepen, to dig out;
     - _kwat[(9)] ts(')(i/)m(3)_
