@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2025-01-02
+* %date-modified --> 2025-01-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -589,7 +589,7 @@ W
   ====
   - [[Page~16* ::(2)諂(2)[讇]^::]]
     ==
-    - To flatter, to lie to;
+    - To flatter [[Kangxi: 同讇省諛也]], to lie to;
     - to cajole;
     - to give a god or man worship or praise not due to him;
     - to fawn on, to court;
