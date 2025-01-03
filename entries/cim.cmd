@@ -679,9 +679,9 @@ W
   ====
   - [[Page~572 僭(3)]]
     ==
-    - To arrogate to one's self, to usurp, to assume;
+    - To arrogate to one's self, to usurp, to assume [[Kangxi: 假也, 儗也]];
     - to overstep one's limits or rank;
-    - dubious, false;
+    - [[...]];
     - usurped, despotic, assuming;
     - _ts(')(i/)m(3) fan(6)_
         [[cim3 fan6 僭分]]
@@ -702,6 +702,10 @@ E
     1. Unauthorised addition of a structure to a building.
     ++
   ====
+S
+  ==
+  - $僭zam3
+  ==
 $$
 
 ### 塹3 | _Ts(')(i/)m(3)_ [[cim3]]

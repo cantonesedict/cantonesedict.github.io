@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2024-12-12
+* %date-modified --> 2025-01-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -498,6 +498,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $僭3
 - $枕3
 - $沁3
 - $浸3
@@ -505,6 +506,30 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+###+ 僭3 | _Cham(3)_ (zam3)
+
+$$
+R
+  ⼈ + 12
+U
+  U+50ED
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~572 僭(3) _Ts(')(i/)m(3)_ (cim3); here corrected to _Cham(3)_ (zam3)]]
+    ==
+    - [[...]];
+    - dubious, false [[Kangxi: 僭始不信之端也 etc.]];
+    - [[...]].
+    ==
+  ====
+S
+  ==
+  - $僭cim3
+  ==
+$$
 
 ### 枕3 | _Cham(3)_ [[zam3]]
 
