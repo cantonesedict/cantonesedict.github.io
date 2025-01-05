@@ -592,8 +592,8 @@ W
   ====
   - [[Page~17* (4)廛]]
     ==
-    - Ground allotted a serf;
-    - a shop, a village market, a bazaar;
+    - Ground allotted a serf [[Kangxi: 一畝半一家之居 etc.]];
+    - a shop, a village market, a bazaar [[Kangxi: 市邸也]];
     - _(4)ts(')un (4)hang (4)ch(')(i/)n sz'(3)_
         [[ceon4 hang4 cin4 si3 巡行廛肆]]
         to inspect the markets;
