@@ -723,9 +723,9 @@ W
   ====
   - [[Page~575 (4)錢(4){？=⿸⿻勹丿丶}]]
     ==
-    - Copper coin, cash, coppers;
-    - coin, a piece of money;
-    - cash, wealth, money, property;
+    - Copper coin, cash, coppers [[Kangxi: 冶銅爲錢]];
+    - coin, a piece of money [[Kangxi: 易貨也]];
+    - cash, wealth, money, property [[Kangxi: 財也]];
     - a tenth of a tael [[両]], or mace, which the cash once weighed;
     - _(4)t(')ung (4)ts(')(i/)n_
         [[tung4 cin4 銅錢]],

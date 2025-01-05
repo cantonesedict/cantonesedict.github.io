@@ -927,14 +927,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - The reading _(2)ts(i/)n_ (zin2) for 錢 is not present in Williams;
-    an entry is included here for completeness.
-    ++
-    1. A farming tool.
-    ++
-  ==
+P
+  ++
+  1. A farming tool.
+  ++
 S
   ==
   - $錢cin4
