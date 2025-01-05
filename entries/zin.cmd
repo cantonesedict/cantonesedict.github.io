@@ -960,8 +960,8 @@ W
   ====
   - [[Page~17* (2)闡]]
     ==
-    - To open, to spread out, to enlarge from the original condition;
-    - manifest, clear, plain;
+    - To open, to spread out, to enlarge from the original condition [[Kangxi: 開也]];
+    - manifest, clear, plain [[Kangxi: 顯也, 明也]];
     - _(2)ch(i/)n (1)hoi_
         [[zin2 hoi1 闡開]],
         to open, to extend;
