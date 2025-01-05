@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zou
-* %date-modified --> 2024-11-08
+* %date-modified --> 2025-01-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -678,6 +678,11 @@ E
        - 做嘢未 (zou6 je5 mei6): "[Do you] work yet?"
        - 做廚 (zou6 cyu4-2): "Work [as a] chef."
        - 冇嘢做 (mou5 je5 zou6): "Out of work."
+       ==
+    1. To be airing or broadcasting.
+       ==
+       - 做緊新聞 (zou6 gan2 san1 man4-2): "[The] news [is] on."
+       - 做完 (zou6 jyun4): "[The show has] finished airing."
        ==
     1. (_mahjong_) To try for a hand, especially a hand of a numbered suit.
        ==
