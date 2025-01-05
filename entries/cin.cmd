@@ -206,8 +206,8 @@ W
   ====
 C
   ==
-  - Note that 《廣韻》 considers this a different word to 遷,
-    explained 伺候也進也又迁葬又標記也.
+  - Note that 《廣韻》 considers 迁 a different word to 遷,
+    with 迁 explained 伺候也進也又迁葬又標記也.
   ==
 $$
 
