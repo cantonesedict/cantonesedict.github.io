@@ -275,8 +275,8 @@ W
   ====
   - [[Page~574 (1)阡]]
     ==
-    - A road going north and south;
-    - a cross-way through a field, a path to a grave.
+    - A road going north and south [[Kangxi: 路南北爲阡]];
+    - a cross-way through a field, a path to a grave [[Kangxi: 墓道也]].
     ==
   ====
 $$
