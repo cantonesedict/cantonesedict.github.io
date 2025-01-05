@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2025-01-03
+* %date-modified --> 2025-01-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -936,10 +936,10 @@ W
   ====
   - [[Page~572 (4)潛(4)潜]]
     ==
-    - To ford, to wade across, to cross water;
-    - to dive, to walk on the bottom;
-    - to hide away, to abscond, to secrete one's self;
-    - an ancient name for the River H(a/)n [[漢]];
+    - To ford, to wade across, to cross water [[Kangxi 潛: 涉水也]];
+    - to dive [[Kangxi 潛: 潛涵沉也又游也]], to walk on the bottom [[Kangxi 潛: 潛行水中亦曰游]];
+    - to hide away, to abscond, to secrete one's self [[Kangxi 潛: 藏也]];
+    - an ancient name for the River H(a/)n [[漢]] [[Kangxi 潛: 漢水之別名]];
     - carefully, feeling one's way, heedfully;
     - a cess-pool;
     - _(4)ts(')(i/)m p(o\)(6)_
