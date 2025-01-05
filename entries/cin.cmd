@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cin
-* %date-modified --> 2024-12-19
+* %date-modified --> 2025-01-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -76,7 +76,7 @@ W
   ====
   - [[Page~574 (1)千]]
     ==
-    - A thousand;
+    - A thousand [[Kangxi: 十百也]];
     - many, an indefinite number;
     - _(1)ts(')(i/)n m(a/)n(6) i(u/)(3) ts(o\)(6)_
         [[cin1 maan6 jiu3 zou6 千萬要做]]
