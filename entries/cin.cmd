@@ -301,14 +301,14 @@ W
     ==
     - To swing to and fro, to play upon the whirligig;
     - _(1)ts(')au (1)ts(')(i/)n_
-        [[cau1 cin1]],
-        a swing.
+        [[cau1 cin1 鞦韆]],
+        a swing [[Kangxi: 鞦韆繩戲也]].
     ==
   ====
 C
   ==
   - In Cantonese, 韆鞦 (cin1 cau1) "thousand autumns"
-    is preferred over 鞦韆 (cau1 cin1). See below.
+    is preferred over 鞦韆 (cau1 cin1) "autumns thousand". See below.
   ==
 E
   ====
@@ -320,7 +320,7 @@ E
   --
   Whilst 鞦韆 (cau1 cin1) "autumns thousand"
   is the form attested in Middle Chinese,
-  Kangxi quotes commentary saying that
+  Kangxi has commentary saying that
   千秋 (cin1 cau1) "thousand autumns" is the original (being a well-wish),
   with 秋千 (cau1 cin1) "autumns thousand" being a verbal corruption
   that later got spelt 鞦韆:
@@ -328,7 +328,7 @@ E
   """"
   ::K. (:韆:) [...]《廣韻》鞦韆繩戲也《集韻》鞦韆北方戲以習輕趫者\
   《張有復古編》詞人高無際作鞦韆賦漢武帝後庭繩戲\
-  (:本云千秋:)祝壽詞也(:語譌轉爲秋千後人譌爲鞦韆:)::
+  (:本云千秋祝壽詞也語譌轉爲秋千後人譌爲鞦韆:)::
   """"
 $$
 
