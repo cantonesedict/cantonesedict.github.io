@@ -627,7 +627,7 @@ W
   ====
   - [[Page~17* (4)纏]]
     ==
-    - To wind around, to bind up, to wrap, to bandage;
+    - To wind around [[Kangxi: 繞也]], to bind up [[Kangxi: 約也, 束也]], to wrap, to bandage;
     - to entwine, to cling to;
     - to molest, to implicate;
     - to bother;
