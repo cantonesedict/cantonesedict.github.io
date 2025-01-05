@@ -385,12 +385,12 @@ W
   ====
   - [[Page~575 (2)淺]]
     ==
-    - Shallow, not deep;
+    - Shallow, not deep [[Kangxi: 水不深也]];
     - superficial, not profound;
     - light, as coloring;
     - easy, having few strokes, simple, as characters;
-    - short-haired;
-    - dripping;
+    - short-haired [[Kangxi: 凡獸之淺毛者皆曰淺]];
+    - ~~dripping;~~
     - _(1)sham (2)ts(')(i/)n_
         [[sam1 cin2 深淺]],
         deep---shallow;
@@ -420,8 +420,8 @@ W
   ====
 C
   ==
-  - Williams' "dripping": Probably a misinterpretation of interchangeable
-    $濺zin1 and $濺zin3.
+  - Williams' "dripping": This is a misinterpretation of the senses
+    interchangeable with $濺zin1, $濺zin3, or $灒zaan3.
   ==
 $$
 
