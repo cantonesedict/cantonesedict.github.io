@@ -498,12 +498,12 @@ W
   ====
   - [[Page~575 (4)前]]
     ==
-    - Before, in front of, in presence of;
-    - in advance;
-    - previously;
+    - Before, in front of, in presence of [[Kangxi: 前後之對]];
+    - in advance [[Kangxi: 又進也]];
+    - previously [[Kangxi: 先也, 猶故也]];
     - formerly, anciently;
     - the former;
-    - to advance, to lead forward;
+    - to advance, to lead forward [[Kangxi: 前猶導也]];
     - _(4)ts(')(i/)n hau(6)_
         [[cin4 hau6 前後]]
         before, after;
