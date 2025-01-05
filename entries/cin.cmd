@@ -458,10 +458,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Reading variation (per 《廣韻》昌善切). **See $闡zin2 for the canonical entry.**
-  ==
+P
+  ++
+  1. Reading variation (per 《廣韻》昌善切). **See $闡zin2 for the canonical entry.**
+  ++
 S
   ==
   - $闡zin2
