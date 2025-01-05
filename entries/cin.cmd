@@ -234,11 +234,11 @@ W
   ====
   - [[Page~574 (1)遷(1)迁]]
     ==
-    - To move, to remove, to place elsewhere;
-    - to ascend;
+    - To move, to remove, to place elsewhere [[Kangxi: 移物曰遷]];
+    - to ascend [[Kangxi 遷: 登也, 去下之高也]];
     - to be promoted;
-    - to change, to transpose, to improve;
-    - to banish, to deport, to drive off;
+    - to change, to transpose [[Kangxi 遷: 變易也]], to improve [[Kangxi 遷: 遷徙也]];
+    - to banish, to deport, to drive off [[Kangxi 遷: 謫也放逐也]];
     - _(1)p(u/)n (1)ts(')(i/)n_
         [[bun1 cin1 搬遷]],
         to move, as one's residence;
