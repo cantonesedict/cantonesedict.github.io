@@ -149,8 +149,8 @@ W
   ====
   - [[Page~574 (1)芊]]
     ==
-    - Exuberant foliage, flourishing vegetation;
-    - green, like jade;
+    - Exuberant foliage, flourishing vegetation [[Kangxi: 芊芊草盛貌]];
+    - green, like jade [[Kangxi: 碧貌]];
     - _(1)ts(')(i/)n (1)ts(')(i/)n_
         [[cin1 cin1 芊芊]],
         luxuriant.
