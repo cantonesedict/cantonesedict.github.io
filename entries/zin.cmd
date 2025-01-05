@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2024-12-17
+* %date-modified --> 2025-01-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1597,10 +1597,7 @@ W
   ====
   - [[Page~574 踐(6)]]
     --
-    [[...]]
-    --
-    --
-    Often read _(5)ts(')(i/)n_ [[cin5]] [[**see $踐cin5**]].
+    [[Reading variation. **See $踐cin5 for the canonical entry.**]]
     --
   ====
 S

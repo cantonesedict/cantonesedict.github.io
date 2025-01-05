@@ -436,10 +436,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Reading variation. **See $踐cin5 for the canonical entry.**
-  ==
+P
+  ++
+  1. Reading variation. **See $踐cin5 for the canonical entry.**
+  ++
 S
   ==
   - $踐cin5
@@ -844,7 +844,7 @@ S
   ==
 $$
 
-###+ 踐5 | _(5)Ts(')(i/)n_ (cin5)
+### 踐5 | _(5)Ts(')(i/)n_ [[cin5]]
 
 $$
 R
@@ -854,7 +854,7 @@ U
 V
   ==
   - cin2 (common)
-  - zin6 (recasting to departing)
+  - zin6 (recast to departing)
   ==
 F
   [[Not present]]
@@ -862,9 +862,9 @@ W
   ====
   - [[Page~574 踐(6) _Ts(i/)n(6)_ (zin6); here normalised _(5)Ts(')(i/)n_ (cin5)]]
     ==
-    - To tread upon, to trample on or over;
-    - to walk, to step;
-    - to arrange out;
+    - To tread upon, to trample on or over [[Kangxi: 履也]];
+    - ~~to walk,~~ to step;
+    - ~~to arrange out;~~
     - _[(5)ts(')(i/)n] (4)(i/)n_
         [[cin5 jin4 踐言]],
         to fulfill one's promise;
@@ -880,9 +880,15 @@ W
         to walk in another's steps.
     ==
     --
-    [[...]]
+    Often read _(5)ts(')(i/)n_ [[cin5]].
     --
   ====
+C
+  ==
+  - Williams' "to walk", "to arrange out":
+    These are misreadings of Kangxi 行也, 列也
+    (which mean "column" and "row" rather than "walk" and "arrange").
+  ==
 S
   ==
   - $踐cin2
