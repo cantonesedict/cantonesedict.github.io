@@ -361,7 +361,7 @@ W
   ====
   - [[Page~575 (2)俴]]
     --
-    [[Idiosyncratic reading from Fan Wan. **See $俴cin5 for the canonical entry.**]]
+    [[Reading variation. **See $俴cin5 for the canonical entry.**]]
     --
   ====
 S
@@ -822,15 +822,19 @@ R
   ⼈ + 8
 U
   U+4FF4
+V
+  ==
+  - cin2 (Fan Wan)
+  ==
 F
   ==
   - [[F1.22 俴 _(2)Ts(')(i/)n_ (cin2)]] 淺也詩小戎俴收
   ==
 W
   ====
-  - [[Page~575 (2)俴 _(2)Ts(')(i/)n_ (cin2); here corrected to  _(5)Ts(')(i/)n_ (cin5)]]
+  - [[Page~575 (2)俴 _(2)Ts(')(i/)n_ (cin2); here normalised to  _(5)Ts(')(i/)n_ (cin5)]]
     ==
-    - Shallow, thin, beaten out, as a piece of metal;
+    - Shallow, thin, beaten out, as a piece of metal [[Kangxi: 淺也 etc.]];
     - superficial, ignorant.
     ==
   ====
