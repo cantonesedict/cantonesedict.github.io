@@ -215,10 +215,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Reading variation (per 《廣韻》處占切). **See $幨zim1 for the canonical entry.**
-  ==
+P
+  ++
+  1. Reading variation (per 《廣韻》處占切). **See $幨zim1 for the canonical entry.**
+  ++
 S
   ==
   - $幨zim1
@@ -507,10 +507,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Reading variation (per 《廣韻》處占切). **See $襜zim1 for the canonical entry.**
-  ==
+P
+  ++
+  1. Reading variation (per 《廣韻》處占切). **See $襜zim1 for the canonical entry.**
+  ++
 S
   ==
   - $襜zim1
@@ -838,9 +838,9 @@ F
 W
   [[Not present]]
 C
-  ==
-  - Reading variation (per 《廣韻》昌豔切). **See $䠨zim1 for the canonical entry.**
-  ==
+  ++
+  1. Reading variation (per 《廣韻》昌豔切). **See $䠨zim1 for the canonical entry.**
+  ++
 S
   ==
   - $䠨zim1

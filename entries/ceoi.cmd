@@ -986,7 +986,7 @@ W
 S
   ==
   - $蜡caa3
-  - $蜡laap6 (TODO) <## Used as a form of 臘 and 蠟 _l(a/)p(9)_ ##>
+  - $蜡laap6 (TODO) <## Use^d as a form of 臘 and 蠟 _l(a/)p(9)_ ##>
   - $蜡zaa3
   ==
 $$
