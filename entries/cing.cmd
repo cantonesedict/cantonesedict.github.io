@@ -337,16 +337,17 @@ W
   - [[Page~576 (1)蜻 _(1)Tsing_ (zing1); here corrected to _(1)Ts(')ing_ (cing1)]]
     ==
     - A dragon-fly, called _(1)[ts(')ing] [(4)]t(')ing_ [[cing1 ting4 蜻蜓]],
-      which sips the water;
+      which sips the water [[Kangxi: 蜻蜓蟲]];
     - [[...]];
     - _(1)[ts(')ing] (4)ling_
         [[cing1 ling4 蜻蛉]],
-        a kind of locust.
+        ~~a kind of locust~~.
     ==
   ====
 C
   ==
   - Williams' 蜻蜓: Corrected _(1)t(')ing_ (ting1) to _(4)t(')ing_ (ting4).
+  - Williams' "a kind of locust": This explanation is dubious.
   ==
 S
   ==

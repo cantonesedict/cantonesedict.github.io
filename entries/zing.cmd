@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2024-12-05
+* %date-modified --> 2024-12-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -720,10 +720,10 @@ W
   ====
   - [[Page~576 (1)蜻]]
     ==
-    - [[See $蜻cing1 for "dragonfly" senses]];
+    - [[...]];
     - _(1)tsing l(i/)t(9)_
         [[zing1 lit6 蜻蛚]]
-        a sort of cricket;
+        a sort of cricket [[Kangxi: ::蜻蛚也[...]詳蟀字註::]];
     - [[...]].
     ==
   ====
