@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2024-12-17
+* %date-modified --> 2025-01-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -87,14 +87,10 @@ W
   ====
   - [[Page~21* (2)檉 _(2)Ch(')ing_ (cing2); here corrected to _(1)Ch(')ing_ (cing1)]]
     ==
-    - A reddish bark willow, growing by water courses,
-      and thought to indicate rain.
+    - A reddish bark willow, growing by water courses [[Kangxi: 河柳也]],
+      and thought to indicate rain [[Kangxi: 天之將雨檉先起氣以應之故一名雨師]].
     ==
   ====
-S
-  ==
-  - $檉cing2
-  ==
 $$
 
 ### 淸1 | _(1)Ts(')ing_ [[cing1]]
@@ -572,7 +568,6 @@ $$
 <nav class="sideways">
 =={.modern}
 - $拯2
-- $檉2
 - $蟶2
 - $裎2
 - $請2
@@ -612,30 +607,6 @@ W
 C
   ==
   - Williams' 拯民於水火之中: Better rendered "from amidst water [and] fire".
-  ==
-$$
-
-### 檉2 | _(2)Ch(')ing_ [[cing2]]
-
-$$.
-R
-  ⽊ + 13
-U
-  U+6A89
-F
-  ==
-  - [[F1.71 檉]] 河邊柳
-  ==
-W
-  ====
-  - [[Page~21* (2)檉]]
-    --
-    [[Idiosyncratic reading from Fan Wan. **See $檉cing1 for the canonical entry.**]]
-    --
-  ====
-S
-  ==
-  - $檉cing1
   ==
 $$
 
