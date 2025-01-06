@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2025-01-02
+* %date-modified --> 2025-01-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -255,7 +255,7 @@ $$
 </nav>
 <## /tone-2-characters ##>
 
-### 唵2 | _(2)Am_ [[am2]]
+### 唵2 | _(2)[(O\)m]_ [[am2]]
 
 $$
 R
@@ -270,7 +270,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~3 (2)唵]]
+  - [[Page~3 (2)唵 _(2)Am_; here corrected to _(2)(O\)m_]]
     ==
     - To feed with the hands [[Kangxi: 手進食也]];
     - to hold in the mouth [[Kangxi: 含也]];
@@ -279,8 +279,8 @@ W
   ====
 C
   ==
-  - Strictly, the Williams reading should be _(2)(o\)m_ per 《廣韻》烏感切,
-    rather than _(2)am_ (notwithstanding both are am2 in modern Cantonese).
+  - Corrected the Williams pronunciation from _(2)am_ to _(2)(o\)m_
+    per 《廣韻》烏感切 (notwithstanding both map to am2 in modern Cantonese).
   - Williams' "a word used by Budhists":
     A transliteration of the Sanskrit <span lang="sa">ॐ</span> (_Om_).
   ==
