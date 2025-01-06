@@ -374,14 +374,14 @@ W
   ====
   - [[Page~21* (2)蟶 _(2)Ch(')ing_ (cing2); here corrected to _(1)Ch(')ing_ (cing1)]]
     ==
-    - A bivalve, the razor-sheath or Solen,
+    - A bivalve [[Kangxi: 蚌屬]], the razor-sheath or Solen,
       also called _(1)sh(a/) (4)lo_ [[saa1 lo4 沙螺]],
       or sand screw.
     ==
   ====
 S
   ==
-  - $蟶cing2
+  - $蟶sing3 (TODO)
   ==
 $$
 
@@ -575,7 +575,6 @@ $$
 <nav class="sideways">
 =={.modern}
 - $拯2
-- $蟶2
 - $裎2
 - $請2
 - $赬2
@@ -614,30 +613,6 @@ W
 C
   ==
   - Williams' 拯民於水火之中: Better rendered "from amidst water [and] fire".
-  ==
-$$
-
-### 蟶2 | _(2)Ch(')ing_ [[cing2]]
-
-$$.
-R
-  ⾍ + 13
-U
-  U+87F6
-F
-  ==
-  - [[F1.71 蟶]] 蚌屬
-  ==
-W
-  ====
-  - [[Page~21* (2)蟶]]
-    --
-    [[Idiosyncratic reading from Fan Wan. **See $蟶cing1 for the canonical entry.**]]
-    --
-  ====
-S
-  ==
-  - $蟶cing1
   ==
 $$
 
