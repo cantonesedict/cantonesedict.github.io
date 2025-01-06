@@ -212,7 +212,7 @@ $$
 
 ### 秤1 | _(1)Ch(')ing_ [[cing1]]
 
-$$
+$$.
 R
   ⽲ + 5
 U
@@ -224,32 +224,10 @@ F
 W
   ====
   - [[Page~20* (1)秤]]
-    ==
-    - Same as the last [[$稱1]], but usually applied only to weighing;
-    - to adjust;
-    - to weigh;
-    - _(1)ch(')ing t(o\)(3) (2)chun_
-        [[cing1 dou3 zeon2 秤到準]],
-        it is weighed exactly;
-    - _(1)ch(')ing (4)ch(')(a/)_
-        [[cing1 caa4 秤茶]],
-        to weigh teas.
-    ==
+    --
+    [[Alternative form of 稱 (for the "weigh" sense). **See $稱cing1 for the canonical entry.**]]
+    --
   ====
-C
-  ==
-  - For the character 秤, Fan Wan records
-    level-tone _(1)ch(')ing_ (cing1) for the verb "weigh"
-    and departing-tone _ch(')ing(3)_ (cing3) for the noun "scales".
-    This is consistent with the classical tone distinction for 稱
-    (level-tone verb and departing-tone noun),
-    notwithstanding 《廣韻》 only records departing-tone for the character 秤.
-  - In modern Cantonese usage, the verb "weigh" is nevertheless
-    commonly read in departing tone as _ch(')ing(3)_ (cing3).
-    Williams has also recorded departing-tone 稱 for the verb "weigh";
-    it is unclear whether this is a mistake on his part
-    or a deliberate attestation of (classical-violating) usage in Cantonese.
-  ==
 S
   ==
   - $秤cing3
@@ -263,10 +241,15 @@ R
   ⽲ + 9
 U
   U+7A31
+A
+  ==
+  - $秤1 [[for "weigh" sense]]
+  ==
 F
   ==
   - [[F1.68 稱]] 稱揚稱舉稱道
   - [[F1.68 称]] 同上
+  - [[F1.68 秤]] 較物輕重
   ==
 W
   ====
@@ -301,9 +284,32 @@ W
         [[cing1 beng6 稱病]]
         to malinger, to feign sickness.
     ==
+  - [[Page~20* (1)秤; here normalised to 稱]]
+    ==
+    - Same as the last [[稱]], but usually applied only to weighing;
+    - to adjust;
+    - to weigh;
+    - _(1)ch(')ing t(o\)(3) (2)chun_
+        [[cing1 dou3 zeon2 稱到準]],
+        it is weighed exactly;
+    - _(1)ch(')ing (4)ch(')(a/)_
+        [[cing1 caa4 稱茶]],
+        to weigh teas.
+    ==
   ====
 C
   ==
+  - For the character 秤, Fan Wan records
+    level-tone _(1)ch(')ing_ (cing1) for the verb "weigh"
+    and departing-tone _ch(')ing(3)_ (cing3) for the noun "scales".
+    This is consistent with the classical tone distinction for 稱
+    (level-tone verb and departing-tone noun),
+    notwithstanding 《廣韻》 only records departing-tone for the character 秤.
+  - In modern Cantonese usage, the verb "weigh" is nevertheless
+    commonly read in departing tone as _ch(')ing(3)_ (cing3).
+    Williams has also recorded departing-tone 稱 for the verb "weigh";
+    it is unclear whether this is a mistake on his part
+    or a deliberate attestation of (classical-violating) usage in Cantonese.
   - Williams' 自稱其父曰家父: Corrected _(u:)t(8)_ (jyut3) to _(u:)t(9)_ (jyut6).
   ==
 S
@@ -891,7 +897,7 @@ W
   - [[Page~21* 稱(3); here normalised to 秤]]
     ==
     - To weigh, to adjust;
-    - a steelyard or dotchin;
+    - a steelyard or dotchin [[Kangxi 秤: 正斤兩也]];
     - [[...]];
     - _ch(')ing(3) fo(3)_
         [[cing3 fo3 秤貨]]
@@ -922,7 +928,6 @@ W
   ====
 C
   ==
-  - Williams' 秤鉤: Changed _(1)kau_ (gau1) to common reading _(1)ngau_ (ngau1).
   - For the character 秤, Fan Wan records
     level-tone _(1)ch(')ing_ (cing1) for the verb "weigh"
     and departing-tone _ch(')ing(3)_ (cing3) for the noun "scales".
@@ -935,6 +940,7 @@ C
     (here normalised to the character 秤);
     it is unclear whether this is a mistake on his part
     or a deliberate attestation of (classical-violating) usage in Cantonese.
+  - Williams' 秤鉤: Changed _(1)kau_ (gau1) to common reading _(1)ngau_ (ngau1).
   ==
 S
   ==
