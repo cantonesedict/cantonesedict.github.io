@@ -255,8 +255,8 @@ W
   ====
   - [[Page~20* (1)稱]]
     ==
-    - To call, to name, to designate, to style;
-    - to say, to talk about;
+    - To call, to name, to designate, to style [[Kangxi: 名號謂之稱]];
+    - to say [[Kangxi: 言也]], to talk about [[Kangxi: 揚也謂也]];
     - to simulate;
     - to compliment, to commend;
     - to admire;
@@ -288,7 +288,7 @@ W
     ==
     - Same as the last [[稱]], but usually applied only to weighing;
     - to adjust;
-    - to weigh;
+    - to weigh [[Kangxi 稱: 知輕重也]];
     - _(1)ch(')ing t(o\)(3) (2)chun_
         [[cing1 dou3 zeon2 稱到準]],
         it is weighed exactly;
@@ -963,9 +963,9 @@ W
   ====
   - [[Page~21* 稱(3)]]
     ==
-    - [[See $秤cing3 for "scales" and "weigh" senses]];
-    - suitable, as one wishes;
-    - corresponding to, satisfied with;
+    - [[...]];
+    - suitable [[Kangxi: 適物之宜也]], as one wishes [[Kangxi: 愜意]];
+    - corresponding to [[Kangxi: 相等也]], satisfied with;
     - [[...]];
     - _(2)ho (5)(i/) (1)s(e/)ung ch(')ing(3)_
         [[ho2 ji5 soeng1 cing3 可以相稱]]
@@ -981,6 +981,9 @@ W
         [[cing3 ji3 稱意]]
         as I like.
     ==
+    --
+    [[Otherwise, an alternative form of 秤. **See $秤cing3 for the canonical entry.**]]
+    --
   ====
 S
   ==
