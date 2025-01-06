@@ -136,8 +136,8 @@ W
   ====
   - [[Page~577 (1)淸; here normalised to 清]]
     ==
-    - Pure, limpid, clear, unsullied, sharpsighted;
-    - clean, incorruptible, right principled;
+    - Pure, limpid [[Kangxi 淸: 朖也]], clear [[Kangxi 淸: 澂水之貌]], unsullied, sharpsighted [[Kangxi 淸: 視淸明也]];
+    - clean [[Kangxi 淸: 潔也]], incorruptible, right principled;
     - clear, ringing, as a sound;
     - to settle, to become clear;
     - to purify;
