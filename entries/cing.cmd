@@ -392,6 +392,14 @@ R
   ⾚ + 9
 U
   U+8D6C
+A
+  ==
+  -{.modern} 䞓
+  ==
+V
+  ==
+  - zing1 (common)
+  ==
 F
   ==
   - [[F1.71 頳 _(2)Ch(')ing_ (cing2)]] 赤色
@@ -401,14 +409,10 @@ W
   - [[Page~21* (2)赬 _(2)Ch(')ing_ (cing2); here corrected to _(1)Ch(')ing_ (cing1)]]
     ==
     - A carnation or pink color;
-    - cloth dyed twice over, to dye red;
+    - cloth dyed twice over [[Kangxi: 再染謂之赬]], to dye red [[Kangxi: 赬染赤]];
     - _met._ distressing toil which flushes one.
     ==
   ====
-S
-  ==
-  - $赬cing2
-  ==
 $$
 
 ### 靑1 | _(1)Ts(')ing_ [[cing1]]
@@ -577,7 +581,6 @@ $$
 - $拯2
 - $裎2
 - $請2
-- $赬2
 - $逞2
 - $郢2
 ==
@@ -743,30 +746,6 @@ C
 S
   ==
   - $請ceng2
-  ==
-$$
-
-### 赬2 | _(2)Ch(')ing_ [[cing2]]
-
-$$.
-R
-  ⾚ + 9
-U
-  U+8D6C
-F
-  ==
-  - [[F1.71 頳]] 赤色
-  ==
-W
-  ====
-  - [[Page~21* (2)赬]]
-    --
-    [[Idiosyncratic reading from Fan Wan. **See $赬cing1 for the canonical entry.**]]
-    --
-  ====
-S
-  ==
-  - $赬cing1
   ==
 $$
 
