@@ -978,6 +978,12 @@ R
   ⼝ + 4
 U
   U+5448
+H
+  May appear as ⿱口𡈼 (assumed here) or ⿱口王,
+  depending on the font.
+  The two forms are actually separate characters in Kangxi
+  (p.179#2 and p.181#17 respectively).
+  The definitions here pertain to the first (⿱口𡈼).
 F
   ==
   - [[F1.69 呈]] 申也示也露也
@@ -990,7 +996,7 @@ W
     - to present a petition or statement;
     - to offer, to present to;
     - to state to;
-    - to show, to discover;
+    - to show, ~~to discover~~ [[Kangxi: 示也見也, 露也]];
     - _(4)ch(')ing (5)sh(e/)ung_
         [[cing4 soeng5 呈上]],
         to inform another;
@@ -1019,6 +1025,8 @@ W
   ====
 C
   ==
+  - Williams' "to discover": This is a misreading of Kangxi 見也.
+    Here, 見 is used for 現, "reveal".
   - Williams' 呈子: Corrected _(2)sz'_ (si2) to _(2)tsz'_ (zi2).
   ==
 E
