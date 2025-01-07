@@ -769,12 +769,12 @@ W
   ====
   - [[Page~21* (2)逞]]
     ==
-    - Froward, presuming, confident of one's power or pretensions;
-    - precipitate, hasty;
+    - Froward, presuming, confident of one's power or pretensions [[Kangxi: 矜而自逞也]];
+    - precipitate, hasty [[Kangxi: 疾也]];
     - to act on an impulse;
-    - pleased with;
-    - to pervade;
-    - to exhaust;
+    - pleased with [[Kangxi: 快也]];
+    - to pervade [[Kangxi: 極也]];
+    - to exhaust [[Kangxi: 盡也]];
     - _pat(7) (2)ch(')ing_
         [[bat1 cing2 不逞]],
         dissatisfied, careless of;
