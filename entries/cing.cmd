@@ -1190,7 +1190,7 @@ W
   ====
   - [[Page~21* (4)惩(4)懲]]
     ==
-    - To repress, to curb;
+    - To repress, to curb [[Kangxi: 㣻也]];
     - to warn;
     - to reprove, to reprimand;
     - a warning, a caution, a lesson;
