@@ -1226,8 +1226,8 @@ W
   ====
   - [[Page~578 (4)情]]
     ==
-    - The sky clearing up after rain, the clear blue sky;
-    - the stars coming out;
+    - The sky clearing up after rain [[Kangxi: 雨止也晴明也無雲也]], the clear blue sky;
+    - the stars coming out [[Kangxi: 夝雨而夜除星見也, 今俗作晴非]];
     - _(1)t(')(i/)n (4)ts(')ing_
         [[tin1 cing4 天晴]],
         a clear sky;
