@@ -1110,7 +1110,7 @@ W
   ====
   - [[Page~578 (4)情]]
     ==
-    - The passions, reckoned to be seven;
+    - The passions [[Kangxi: 人欲之謂情]], reckoned to be seven [[Kangxi: 喜怒哀懼愛惡欲]];
     - the feelings, the desires;
     - temper, passion, affection;
     - lust, concupiscence;
