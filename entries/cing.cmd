@@ -1288,7 +1288,7 @@ W
   ====
   - [[Page~21* (4)瞪]]
     ==
-    - To stare at, to look straight at, to fix the eye on;
+    - To stare at, to look straight at [[Kangxi: 直視也]], to fix the eye on;
     - _(4)ch(')ing (5)ng(a/)n mong(6)_
         [[cing4 ngaan5 mong6 瞪眼望]]
         gazed at with fixed eyes;
