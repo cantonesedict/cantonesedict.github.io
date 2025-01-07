@@ -1314,10 +1314,10 @@ W
   ====
   - [[Page~20* (4)程]]
     ==
-    - The 1⁄100th part of a _ts(')(u:)n(3)_ [[cyun3]];
+    - ~~The 1⁄100th part of a _ts(')(u:)n(3)_ [[cyun3 寸]] [[Kangxi: ::[...]十程爲分十分爲寸::]]~~;
     - a portion or percentage;
-    - a rule, a pattern, a regulation, to rule;
-    - a limit, a period;
+    - a rule, a pattern, a regulation [[Kangxi: 式也]], to rule;
+    - a limit, a period [[Kangxi: 期也, 限也]];
     - a job or measure;
     - an allowance;
     - a part;
@@ -1366,6 +1366,8 @@ W
   ====
 C
   ==
+  - Williams' "1⁄100th part [...]": According to 段玉裁's annotations of 《說文》,
+    十程爲分 should be 一程爲分. This makes 程 a tenth of a 寸.
   - Williams' 九程九都有: Better rendered "nine out of nine" than "ten to one".
   - Williams' 得返九程半: Corrected _tak(9)_ (dak6) to _tak(7)_ (dak1).
   ==
