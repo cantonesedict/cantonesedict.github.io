@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2025-01-06
+* %date-modified --> 2025-01-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -602,9 +602,9 @@ W
   ====
   - [[Page~21* (2)拯]]
     ==
-    - To rescue, to pull out, as from a well;
+    - To rescue [[Kangxi: 救也助也, 援也]], to pull out, as from a well;
     - to deliver, to save;
-    - to raise up;
+    - to raise up [[Kangxi: 舉也]];
     - _(2)ch(')ing kau(3)_
         [[cing2 gau3 拯救]]
         to save from danger;
