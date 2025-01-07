@@ -1254,13 +1254,13 @@ W
   - [[Page~21* (4)澄]]
     ==
     - Still water;
-    - limpid, clear;
+    - limpid, clear [[Kangxi: 水靜而淸也]];
     - _(4)ch(')ing (1)ts(')ing_
         [[cing4 cing1 澄清]],
         pure, still.
     ==
     --
-    Also colloquially called _tang(6)_ [[dang6]] [[**see $澄dang6**]].
+    [[...]]
     --
   ====
 C
