@@ -632,12 +632,17 @@ W
   [[Not present]]
 C
   ==
-  - The reading _(2)ch(')ing_ (cing2) for 裎 is not present in Williams;
-    an entry is included here for completeness.
-    ++
-    1. An unlined garment.
-    ++
+  - 《廣韻》 has 丑郢切 _(2)ch(')ing_ (cing2) explained 襌衣.
+    Kangxi erroneously has 《揚子方言》襌衣無袌者謂之裎衣
+    under the level-tone reading _(4)ch(')ing_ (cing4).
+    It correctly has synonymous (but easily misinterpreted) 深衣也
+    under the rising-tone reading _(2)ch(')ing_ (cing2).
+    Note that the text of 《揚子方言》 is ::襌衣[...]無袌者謂之裎衣古謂之深衣::.
   ==
+P
+  ++
+  1. An unlined garment (Kangxi: 深衣也).
+  ++
 S
   ==
   - $裎cing4
@@ -1373,10 +1378,10 @@ W
   ====
   - [[Page~21* (4)裎]]
     ==
-    - The upper part of the body;
-    - naked;
+    - ~~The upper part of the body;~~
+    - naked [[Kangxi: 倮也]];
     - to disrobe one's self;
-    - a girdle;
+    - a girdle [[Kangxi: 佩紟謂之裎, 裎佩帶也]];
     - _[(2)]lo (4)ch(')ing_
         [[lo2 cing4 裸裎]],
         naked.
