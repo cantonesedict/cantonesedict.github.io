@@ -1422,8 +1422,8 @@ W
   ====
   - [[Page~21* (4)酲]]
     ==
-    - To drink till sick and drunk;
-    - half sobered, and ashamed at being drunk;
+    - To drink till sick and drunk [[Kangxi: 病酒也]];
+    - half sobered, and ashamed at being drunk [[Kangxi: 一曰醉而覺也]];
     - feelings after a bout.
     ==
   ====
