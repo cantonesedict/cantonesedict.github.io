@@ -286,7 +286,7 @@ W
   ====
   - [[Page~23* 澈(8)]]
     ==
-    - Pure, transparent, pellucid;
+    - Pure, transparent, pellucid [[Kangxi: 水澄也]];
     - _(4)ch(')ing ch(')(i/)t(8)_
         [[cing4 cit3 澄澈]]
         pureminded, clear.
