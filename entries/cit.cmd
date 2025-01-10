@@ -309,13 +309,13 @@ W
   ====
   - [[Page~23* 設(8)]]
     ==
-    - To institute, to establish;
-    - to set forth;
+    - To institute, to establish [[Kangxi: 立也]];
+    - to set forth [[Kangxi: 施陳也]];
     - to spread, as a net;
-    - to arrange, to place, to set up;
-    - to suppose;
-    - a band of soldiers, or its officer;
-    - large, said of a sword;
+    - to arrange, to place, to set up [[Kangxi: 置也]];
+    - to suppose [[Kangxi: 假借之辭]];
+    - a band of soldiers, or its officer [[Kangxi: 突厥別部典兵者曰設]];
+    - large, said of a sword [[Kangxi: 大也]];
     - _(4)'m (2)shai ch(')(i/)t(8) (1)k(u/)n_
         [[m4 sai2 cit3 gun1 唔使設官]],
         not to care anything for the magistrates, or there's no need of them;
