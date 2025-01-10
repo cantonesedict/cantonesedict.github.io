@@ -136,9 +136,9 @@ W
   ====
   - [[Page~25* (1)超]]
     ==
-    - To leap over, to trip;
-    - to hop across, to vault, to step over, to go before, to precede;
-    - to excel, to surpass;
+    - To leap over, to trip [[Kangxi: 跳也]];
+    - to hop across, to vault, to step over, to go before, to precede [[Kangxi: 出前也]];
+    - to excel, to surpass [[Kangxi: 超卓也]];
     - to promote;
     - to raise;
     - _(1)ch(')i(u/) [pat](9)_
@@ -164,6 +164,7 @@ W
   ====
 C
   ==
+  - Williams' "to trip": In the (now) dated sense of skipping lightly.
   - Williams' 超拔: Changed _p(a/)t(9)_ (baat6) to modern _pat(9)_ (bat6).
   - Williams' 超生: Also to be reincarnated.
   ==
