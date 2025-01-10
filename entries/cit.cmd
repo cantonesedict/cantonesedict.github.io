@@ -373,7 +373,7 @@ W
   ====
   - [[Page~23* 轍(8)]]
     ==
-    - A rut of a wheel;
+    - A rut of a wheel [[Kangxi: 車輪所碾迹也]];
     - _k(')ok(8) ch(')(i/)t(8)_
         [[kok3 cit3 涸轍]]
         a dry rut;
