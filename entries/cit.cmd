@@ -244,10 +244,10 @@ W
   ====
   - [[Page~23* 撤(8)]]
     ==
-    - To send away, to remove;
+    - To send away, to remove [[Kangxi: 除去也]];
     - to reject, to recall;
     - to put aside;
-    - to take off, to flay;
+    - to take off, to flay [[Kangxi: 抽也剝也]];
     - _ch(')(i/)t(8) (4)nung_
         [[cit3 nung4 撤膿]],
         to come to a head, as a boil;
