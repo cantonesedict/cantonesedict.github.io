@@ -97,9 +97,9 @@ W
   ====
   - [[Page~25* (1)昭]]
     ==
-    - The brightness of the sun;
-    - bright, splendid;
-    - manifest;
+    - The brightness of the sun [[Kangxi: 日明也]];
+    - bright, splendid [[Kangxi: 明也, 光也]];
+    - manifest [[Kangxi: 昭見也, 著也]];
     - luminous, refulgent;
     - _(1)ch(')i(u/) muk(9)_
         [[ciu1 muk6 昭穆]]
