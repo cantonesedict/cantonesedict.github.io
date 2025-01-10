@@ -260,8 +260,8 @@ W
   ====
   - [[Page~582 鍫(3) _Ts(')i(u/)(3)_ (ciu3); here normalised to 鍬, and corrected to _(1)Ts(')i(u/)_ (ciu1)]]
     ==
-    - A spade or pick;
-    - an implement fur turning up the ground;
+    - A spade or pick [[Kangxi 鍫: 臿也]];
+    - an implement for turning up the ground;
     - to dig deep;
     - _[(1)]ts(')i(u/) (4)t(')ong_
         [[ciu1 tong4 鍬塘]],
