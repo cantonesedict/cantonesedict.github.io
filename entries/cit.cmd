@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cit
-* %date-modified --> 2024-12-10
+* %date-modified --> 2025-01-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -162,12 +162,12 @@ W
   ====
   - [[Page~23* 徹(8)]]
     ==
-    - Pervious, perspicacious, discerning;
-    - to penetrate, to pass through;
-    - to remove, to take away;
-    - a road, a thoroughfare;
-    - to skin, to peel off, to destroy;
-    - to cultivate;
+    - Pervious, perspicacious, discerning [[Kangxi: 通也]];
+    - to penetrate, to pass through [[Kangxi: 徹達也]];
+    - to remove, to take away [[Kangxi: 去也]];
+    - ~~a road, a thoroughfare;~~
+    - to skin, to peel off [[Kangxi: 剝取也]], to destroy [[Kangxi: 毀也]];
+    - to cultivate [[Kangxi: 治也]];
     - _ch(')(i/)t(8) ch(a/)n(6)_
         [[cit3 zaan6 徹饌]]
         to remove food;
@@ -179,6 +179,15 @@ W
         fully known.
     ==
   ====
+C
+  ==
+  - Williams' "a road, a thoroughfare": This is a misreading of Kangxi 道也
+    (but an understandable one, since no example is supplied).
+    According to 段玉裁's annotations of 《說文》,
+    this explanation applies to 天命不徹 (in 《詩經》).
+    There, 徹 is usually interpreted as "follow/comply",
+    although James Legge interprets it as "explain".
+  ==
 $$
 
 ### 掣3 | _Ch(')(i/)t(8)_ [[cit3]]
