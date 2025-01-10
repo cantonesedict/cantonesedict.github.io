@@ -201,9 +201,20 @@ F
   [[Not present]]
 W
   ====
+  - [[Page~10|n53 掣(3) _Chai(3)_ (zai3); here corrected to _Ch(')(i/)t(8)_ (cit3)]]
+    ==
+    - [[...]];
+    - to take, to choose out, to raise up [[Kangxi: 揭也取也]];
+    - to select;
+    - to pull, to draw [[Kangxi: 挽也]];
+    - _[ch(')(i/)t(8)] (1)ts(')(i/)m_
+        [[cit3 cim1 掣籤]],
+        to draw lots;
+    - [[...]].
+    ==
   - [[Page~23* 掣(8)]]
     ==
-    - To choose, to draw out;
+    - To choose, to draw out [[Kangxi: 取也]];
     - _ch(')(i/)t(8) (1)ts(')(i/)m_
         [[cit3 cim1 掣籤]],
         to draw lots for official duty.
