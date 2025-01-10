@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ciu
-* %date-modified --> 2024-12-15
+* %date-modified --> 2025-01-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -71,9 +71,9 @@ W
   ====
   - [[Page~25* (1)弨]]
     ==
-    - To fly back, as a bow;
-    - to spring back;
-    - a bow unbent.
+    - To fly back, as a bow [[Kangxi: 弓反也]];
+    - to spring back [[Kangxi: 翻起曰弨]];
+    - a bow unbent [[Kangxi: 弓弛貌]].
     ==
   ====
 $$
