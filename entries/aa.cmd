@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2025-01-02
+* %date-modified --> 2025-01-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -472,11 +472,14 @@ W
         [[bat1 aa3 jyu1 jan4 不亞於人]],
         not inferior to others.
     ==
+    --
+    [[Otherwise, an alternative form of 阿. **See $阿aa3 for the canonical entry.**]]
+    --
   ====
 C
   ==
   - Williams does not provide separate entries for 亞 and $阿3,
-    but notes that $阿3 is "often used" for the name prefix sense.
+    but notes that 阿 is "often used" for the name prefix sense.
     I have split things up accordingly.
   ==
 $$
@@ -608,6 +611,10 @@ R
   ⾩ + 5
 U
   U+963F
+A
+  ==
+  - $亞3
+  ==
 F
   [[Not present]]
 W
