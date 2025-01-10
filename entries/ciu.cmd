@@ -207,10 +207,10 @@ W
   ====
   - [[Page~25* (1)釗]]
     ==
-    - To pare, to lop off;
-    - to see, to wait on;
-    - distant;
-    - to encourage;
+    - To pare, to lop off [[Kangxi: 刓也]];
+    - to see, to wait on [[Kangxi: 見也]];
+    - distant [[Kangxi: 遠也]];
+    - to encourage [[Kangxi: 釗勉也]];
     - _(5)m(i/)n (1)ch(')i(u/)_
         [[min5 ciu1 勉釗]],
         to stimulate one;
