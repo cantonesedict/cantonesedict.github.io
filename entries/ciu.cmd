@@ -792,7 +792,7 @@ W
   ====
   - [[Page~25* (4)潮]]
     ==
-    - The morning tide;
+    - The morning tide [[Kangxi: 隨月消長早曰潮晚曰汐]];
     - moist, damp;
     - _(2)ch(e/)ung (4)ch(')i(u/)_
         [[zoeng2 ciu4 長朝]],
