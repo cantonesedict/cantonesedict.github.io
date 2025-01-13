@@ -281,7 +281,6 @@ $$
 =={.modern}
 - $悄2
 - $愀2
-- $鞘2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -354,31 +353,6 @@ C
 S
   ==
   - $愀cau1
-  ==
-$$
-
-### 鞘2 | _(2)Ts(')i(u/)_ [[ciu2]]
-
-$$.
-R
-  ⾰ + 7
-U
-  U+9798
-F
-  ==
-  - [[F2.5 鞘]] 刀劍殿
-  ==
-W
-  ====
-  - [[Page~582 (2)鞘]]
-    --
-    [[Idiosyncratic reading from Fan Wan. **See $鞘ciu3 for the canonical entry.**]]
-    --
-  ====
-S
-  ==
-  - $鞘ciu3
-  - $鞘saau1 (TODO)
   ==
 $$
 
@@ -650,14 +624,15 @@ W
   ====
   - [[Page~582 (2)鞘 _(2)Ts(')i(u/)_ (ciu2); here corrected to _Ts(')i(u/)(3)_ (ciu3)]]
     ==
-    - A scabbard, a sheath,
+    - A scabbard, a sheath [[Kangxi: 刀室也]] [[...]].
+      <##
       in which sense this is often called _(1)sh(a/)u_ [[saau1]],
-      while that sound more properly means a whip [[**see $鞘saau1**]].
+      while that sound more properly means a whip.
+      ##>
     ==
   ====
 S
   ==
-  - $鞘ciu2
   - $鞘saau1 (TODO)
   ==
 $$
