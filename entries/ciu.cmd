@@ -305,7 +305,7 @@ W
   ====
   - [[Page~581 (2)悄]]
     ==
-    - Sad, downcast, sorrowing;
+    - Sad, downcast, sorrowing [[Kangxi: 憂也]];
     - _(1)yau (1)sam (2)ts(')i(u/) (2)ts(')i(u/)_
         [[jau1 sam1 ciu2 ciu2 憂心悄悄]],
         sick at heart, quietly sad, sorrowing in secret.
