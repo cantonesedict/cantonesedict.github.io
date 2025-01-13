@@ -772,9 +772,9 @@ W
   - [[Page~581 (4)樵]]
     ==
     - Wood fit for fuel;
-    - scattered wood;
-    - to cut fuel;
-    - a lookout terrace for which the next is used [[**see $譙ciu4**]];
+    - scattered wood [[Kangxi: 散木也]];
+    - to cut fuel [[Kangxi: 采薪曰樵]];
+    - [[...]];
     - _(4)[ts(')i(u/)] (1)f(u/)_
         [[ciu4 fu1 樵夫]],
         a woodcutter;
@@ -791,6 +791,9 @@ W
         [[sai1 ciu4 西樵]],
         a hilly district southwest of Canton.
     ==
+    --
+    [[Otherwise, an alternative form of 譙. **See $譙ciu4 for the canonical entry.**]]
+    --
   ====
 C
   ==
