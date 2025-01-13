@@ -408,6 +408,14 @@ W
         [[ciu3 saang1 俏生]],
         like life, as puppets or images.
     ==
+  - [[Page~582 肖(3); here corrected to 俏]]
+    ==
+    - [[...]];
+    - _ts(')i(u/)(3) (4)p(')(i/)_
+        [[ciu3 pei4 俏皮]],
+        pretty;
+    - [[...]].
+    ==
   ====
 C
   ==
@@ -484,14 +492,14 @@ W
   ====
   - [[Page~582 肖(3)]]
     ==
-    - To assimilate, to imitate;
-    - a likeness or relationship between parent and child,
+    - To assimilate, to imitate [[Kangxi: 肖法也]];
+    - a likeness or relationship between parent and child [[Kangxi: 骨肉相似也]],
       said to be proved by mixing their blood;
-    - resembling, like;
-    - small;
-    - a class;
+    - resembling, like [[Kangxi: 似也]];
+    - small [[Kangxi: 小也]];
+    - ~~a class;~~
     - alike;
-    - [[see $肖siu1 for "decline/wane" and "lost/scattered" senses]];
+    - [[...]];
     - _pat(7) ts(')i(u/)(3)_
         [[bat1 ciu3 不肖]]
         not like it, inferior, degenerate;
@@ -499,17 +507,15 @@ W
     - _ts(')i(u/)(3) (5)n(i/) ko(3) y(e/)ung(6)_
         [[ciu3 nei5 go3 joeng6-2 肖你個樣]]
         resembles you, as a bust or child;
-    - _ts(')i(u/)(3) (4)p(')(i/)_
-        [[ciu3 pei4 肖皮]],
-        pretty;
+    - [[...]];
     - _shap(9) (i/)(6) (1)shang ts(')i(u/)(3)_
-        [[sap6 ji6 sang1 ciu3]]
+        [[sap6 ji6 sang1 ciu3 十二生肖]]
         the twelve animals which are thought to be like the twelve branches.
     ==
   ====
 C
   ==
-  - Williams' 肖皮: Probably a misspelling of 俏皮.
+  - Williams' "a class": This is a misreading of Kangxi 類也.
   ==
 S
   ==
@@ -891,7 +897,7 @@ W
     ==
     - [[...]];
     - a lookout terrace, for which the next [[譙]] is used [[Kangxi 樵: 與譙通, ::[...]高樓以望敵也::]];
-    - [[...]];
+    - [[...]].
     ==
   - [[Page~581 (4)譙]]
     --
