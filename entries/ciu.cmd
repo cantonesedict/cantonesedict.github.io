@@ -237,10 +237,6 @@ W
     [[Alternative form of 鍬. **See $鍬ciu1 for the canonical entry.**]]
     --
   ====
-S
-  ==
-  - $鍫ciu3
-  ==
 $$
 
 ###+ 鍬1 | _(1)Ts(')i(u/)_ (ciu1)
@@ -368,7 +364,6 @@ $$
 - $肖3
 - $誚3
 - $譙3
-- $鍫3
 - $鞘3
 ==
 </nav>
@@ -586,28 +581,6 @@ W
 S
   ==
   - $譙ciu4
-  ==
-$$
-
-### 鍫3 | _Ts(')i(u/)(3)_ [[ciu3]]
-
-$$.
-R
-  ⾦ + 9
-U
-  U+936B
-F
-  [[Not present]]
-W
-  ====
-  - [[Page~582 鍫(3)]]
-    --
-    [[Alternative form of 鍬, and idiosyncratic reading from Williams. **See $鍬ciu1 for the canonical entry.**]]
-    --
-  ====
-S
-  ==
-  - $鍫ciu1
   ==
 $$
 
