@@ -668,7 +668,7 @@ W
   ====
   - [[Page~581 (4)憔]]
     ==
-    -  Lean, anxious and starving;
+    -  Lean [[Kangxi: 憔悴瘦也]], anxious and starving;
     - _(4)ts(')i(u/) sui(6)_
         [[ciu4 seoi6 憔悴]]
         distressed from a want of food.
