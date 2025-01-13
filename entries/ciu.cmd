@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ciu
-* %date-modified --> 2025-01-10
+* %date-modified --> 2025-01-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -279,7 +279,6 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
-- $俏2
 - $峭2
 - $悄2
 - $愀2
@@ -287,30 +286,6 @@ $$
 ==
 </nav>
 <## /tone-2-characters ##>
-
-### 俏2 | _(2)Ts(')i(u/)_ [[ciu2]]
-
-$$.
-R
-  ⼈ + 7
-U
-  U+4FCF
-F
-  ==
-  - [[F2.5 俏]] 密行也又似也像也
-  ==
-W
-  ====
-  - [[Page~581 (2)俏]]
-    --
-    [[Idiosyncratic reading from Fan Wan. **See $俏ciu3 for the canonical entry.**]]
-    --
-  ====
-S
-  ==
-  - $俏ciu3
-  ==
-$$
 
 ### 峭2 | _(2)Ts(')i(u/)_ [[ciu2]]
 
@@ -469,8 +444,8 @@ W
   ====
   - [[Page~581 (2)俏 _(2)Ts(')i(u/)_ (ciu2); here corrected to _Ts(')i(u/)(3)_ (ciu3)]]
     ==
-    - Like, as if, similar;
-    - handsome, pretty, beautiful;
+    - Like, as if, similar [[Kangxi: 似也像也]];
+    - handsome, pretty, beautiful [[Kangxi: 好貌]];
     - superior;
     - _ts(')i(u/)[(3)] (4)p(')(i/)_
         [[ciu3 pei4 俏皮]],
@@ -493,10 +468,6 @@ C
   ==
   - Williams' 生得俏, 俏生: Changed _(1)shang_ (sang1)
     to vernacular reading _(1)sh(a/)ng_ (saang1).
-  ==
-S
-  ==
-  - $俏ciu2
   ==
 $$
 
