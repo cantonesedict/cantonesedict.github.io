@@ -574,11 +574,7 @@ W
   ====
   - [[Page~581 (4)譙]]
     --
-    Often used for _ts(')i(u/)(3)_ [[ciu3]] 誚, to scold
-    [[**see $誚ciu3 for the canonical entry**]].
-    --
-    --
-    [[...]]
+    [[Alternative form of 誚. **See $誚ciu3 for the canonical entry.**]]
     --
   ====
 S
@@ -881,18 +877,28 @@ R
   ⾔ + 12
 U
   U+8B59
+A
+  ==
+  - $樵4
+  ==
 F
   ==
   - [[F2.5 ::[譙]::]] 地名又殺也
   ==
 W
   ====
+  - [[Page~581 (4)樵]]
+    ==
+    - [[...]];
+    - a lookout terrace, for which the next [[譙]] is used [[Kangxi: 與譙通, ::[...]高樓以望敵也::]];
+    - [[...]];
+    ==
   - [[Page~581 (4)譙]]
     --
-    [[See $譙ciu3 for "scold" senses.]]
+    [[...]]
     --
     ==
-    - A lookout tower or loft;
+    - A lookout tower or loft [[Kangxi: 樓之別稱也]];
     - [[...]];
     - _(4)[ts(')i(u/)] (1)k(u:)_
         [[ciu4 geoi1 譙車]],
