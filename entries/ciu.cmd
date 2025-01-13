@@ -538,21 +538,21 @@ F
   ==
 W
   ====
-  - [[Page~581 (4)譙; here normalised to 誚]]
+  - [[Page~581 (4)譙]]
     --
-    Often used for _ts(')i(u/)(3)_ [[ciu3]] 誚, to scold.
+    Often used for _ts(')i(u/)(3)_ [[ciu3]] 誚, to scold [[Kangxi: 譙誚二字古通]].
     --
     ==
     - [[...]];
-    - to ridicule;
-    - to bawl out at;
-    - to reprehend;
+    - to ridicule [[Kangxi 譙: 嬈譊也]];
+    - to bawl out at [[Kangxi 譙: 呵也]];
+    - to reprehend [[Kangxi 譙: 責也]];
     - [[...]].
     ==
   - [[Page~582 誚(3)]]
     ==
     - To ridicule;
-    - to blame, to reprehend;
+    - to blame, to reprehend [[Kangxi: 讓也, 誚責也]];
     - to speak harshly against;
     - _(1)k(i/) ts(')i(u/)(3)_
         [[gei1 ciu3 譏誚]]
@@ -890,7 +890,7 @@ W
   - [[Page~581 (4)樵]]
     ==
     - [[...]];
-    - a lookout terrace, for which the next [[譙]] is used [[Kangxi: 與譙通, ::[...]高樓以望敵也::]];
+    - a lookout terrace, for which the next [[譙]] is used [[Kangxi 樵: 與譙通, ::[...]高樓以望敵也::]];
     - [[...]];
     ==
   - [[Page~581 (4)譙]]
