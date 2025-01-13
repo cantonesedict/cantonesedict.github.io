@@ -698,8 +698,8 @@ W
     ==
     - A court;
     - the court, the palace;
-    - to attend an audience, to go to court, to show fealty;
-    - to have an audience, to hold a levee;
+    - to attend an audience, to go to court, to show fealty [[Kangxi: 陪朝也, 臣見君曰朝]];
+    - to have an audience, to hold a levee [[Kangxi: 天子無事與諸侯相見曰朝]];
     - an audience;
     - a dynasty;
     - courtly, fashionable;

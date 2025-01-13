@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2025-01-10
+* %date-modified --> 2025-01-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -198,7 +198,7 @@ W
   ====
   - [[Page~23* (1)朝(1)晁]]
     ==
-    - Dawn, morning;
+    - Dawn, morning [[Kangxi: 旦也, 朝早也]];
     - early;
     - _(1)chi(u/) (5)m(a/)n_
         [[ziu1 maan5 朝晚]],
@@ -220,7 +220,7 @@ W
         every morning;
     - _(1)Chi(u/) (1)[s(i/)n] kwok(8)_
         [[ziu1 sin1 gwok3 朝鮮國]]
-        Corea;
+        Corea [[Kangxi: 朝鮮國名]];
     - _yung(6) (1)chi(u/) m(i/)(6)_
         [[jung6 ziu1 mei6 用朝未]]
         have you breakfasted?
