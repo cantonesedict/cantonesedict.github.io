@@ -838,7 +838,7 @@ W
   - [[Page~581 (4)瞧]]
     ==
     - To look at, to see;
-    - to look at furtively, to glance at;
+    - to look at furtively [[Kangxi: 偸視貌]], to glance at;
     - _(4)ts(')i(u/) yat(7) (4)ts(')i(u/)_
         [[ciu4 jat1 ciu4 瞧一瞧]],
         I had a look at it.
