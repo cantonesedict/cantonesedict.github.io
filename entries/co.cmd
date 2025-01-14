@@ -704,10 +704,10 @@ W
   ====
   - [[Page~583 挫(3)]]
     ==
-    - To break, to wound;
+    - To break, to wound [[Kangxi: 摧也, 挫折也]];
     - to take off the edge, to humble;
     - to oppress, to treat harshly;
-    - to trim, to file off;
+    - ~~to trim, to file off;~~
     - _ts(')o(3) (4)k(')(i/) yui(6) h(i/)(3)_
         [[co3 kei4 jeoi6 hei3 挫其銳氣]]
         to bring down his valor;
