@@ -856,7 +856,7 @@ E
     ++
   - 【唔錯】 (m4 co3):
     ++
-    1. Not bad.
+    1. Not bad (in quality).
        ==
        - 唔錯吖 (m4 co3 a1): "Not bad!"
        ==

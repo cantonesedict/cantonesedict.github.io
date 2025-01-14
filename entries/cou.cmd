@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2024-10-06
+* %date-modified --> 2025-01-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -780,12 +780,12 @@ W
   ====
   - [[Page~588 錯(3)]]
     --
-    Interchanged with the two last [[$厝3, $措3]].
+    ~~Interchanged with the two last [[厝, 措]].~~
     --
     ==
-    - [[See $錯cok3 for "whetstone" senses]];
-    - to place;
-    - to hide, to store away.
+    - [[...]];
+    - to place [[Kangxi: 錯置也]];
+    - to hide, to store away [[Kangxi: 藏也]].
     ==
   ====
 S

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cok
-* %date-modified --> 2024-12-15
+* %date-modified --> 2025-01-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -172,6 +172,10 @@ R
   ⾦ + 8
 U
   U+932F
+A
+  ==
+  -{.modern} $厝3 (for "whetstone" sense)
+  ==
 F
   ==
   - [[F1.102 錯]] 舛也乖也誤也亂也
@@ -183,30 +187,25 @@ W
     [[...]]
     --
     ==
-    - To cut or work stones;
+    - To cut or work stones [[Kangxi: 治玉石曰錯]];
     - [[...]].
     ==
   - [[Page~592 錯(8)]]
     ==
-    - To wash or plate with gold;
-    - the stripes, striæ, streaks, &c., in stones or fabrics;
-    - to file or polish;
-    - to tattoo;
-    - a stone for grinding gems or glass;
-    - mixed, crossed, barred, confused;
+    - To ~~wash or~~ plate with gold [[Kangxi: 金涂也]];
+    - the stripes, striæ, streaks, &c., in stones or fabrics [[Kangxi: 錯衡文衡也]];
+    - to file or polish [[Kangxi: 鑢也, 治玉石曰錯]];
+    - to tattoo [[Kangxi: 錯臂亦文身謂以丹靑錯畫其臂]];
+    - a stone for grinding gems or glass [[Kangxi: 厲石也, 錯石也可以琢玉]];
+    - mixed, crossed, barred, confused [[Kangxi: 雜也, 亂也]];
     - _ts(')ok(8) p(i/)(3)_
         [[cok3 bei3 錯臂]]
         to tattoo the arm.
     ==
     --
-    A colloquial word
-    [[here normalised to 剒; **see $剒cok3 for the canonical entry**]].
+    [[Otherwise, an alternative form of 剒. **See $剒cok3 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - The "whetstone" sense is also spelt 厝; see $厝cok3.
-  ==
 S
   ==
   - $錯co3
