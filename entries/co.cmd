@@ -444,11 +444,11 @@ W
   ====
   - [[Page~583 (1)蹉]]
     ==
-    - To slip;
-    - to err;
+    - To slip [[Kangxi: 蹉跌也]];
+    - to err [[Kangxi: 蹉過也]];
     - _(1)ts(')o (4)t(')o_
         [[co1 to4 蹉跎]],
-        to miss the time, to lose the opportunity.
+        to miss the time, to lose the opportunity [[Kangxi: 蹉跎失時也]].
     ==
   ====
 $$
