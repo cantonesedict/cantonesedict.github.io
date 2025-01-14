@@ -472,7 +472,7 @@ W
   ====
   - [[Page~26* (4)雛 _(4)Ch(')o_ (co4); here normalised to _(1)Ch(')o_ (co1)]]
     ==
-    - A chick, a fledgeling;
+    - A chick, a fledgeling [[Kangxi: 雞子也]];
     - the callow young of birds;
     - _[(1)]ch(')o (1)kai_
         [[co1 gai1 雛雞]],
