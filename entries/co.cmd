@@ -637,10 +637,10 @@ W
   ====
   - [[Page~583 脞(3) _Ts(')o(3)_ (co3); here normalised to _(2)Ts(')o_ (co2)]]
     ==
-    - To mince up meat;
+    - To mince up meat [[Kangxi: 一曰切肉爲脞]];
     - broken to bits, minced;
-    - small;
-    - to attend to trifles.
+    - small [[Kangxi: 小也]];
+    - to attend to trifles [[Kangxi: 叢脞細碎無大略]].
     ==
   ====
 S
@@ -721,7 +721,7 @@ $$
 
 ### 脞3 | _Ts(')o(3)_ [[co3]]
 
-$$
+$$.
 R
   ⾁ + 7
 U
