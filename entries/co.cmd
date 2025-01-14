@@ -607,14 +607,13 @@ W
   ====
   - [[Page~26* ::(2)[礎]^::]]
     ==
-    - The stone base of a pillar or column;
+    - The stone base of a pillar or column [[Kangxi: 柱下石, 礩也]];
     - a pedestal;
     - a plinth.
     ==
   ====
 C
   ==
-  - Fan Wan erroneously has 礎 as a variant of 磉 _(2)song_ (song2).
   - Williams misprints 礎 as ⿰石⿱林⿱冖⿱一龰; here corrected.
   ==
 $$
