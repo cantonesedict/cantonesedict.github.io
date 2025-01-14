@@ -110,22 +110,14 @@ R
   ⼚ + 8
 U
   U+539D
-A
-  ==
-  -{.modern} $錯3
-  ==
 F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - The reading _ts(')ok(8)_ (cok3) for 厝 is not present in Williams;
-    an entry is included here for completeness.
-    ++
-    1. A whetstone.
-    ++
-  ==
+P
+  ++
+  1. Alternative form of 錯 (for the "whetstone" sense). **See $錯cok3 for the canonical entry.**
+  ++
 S
   ==
   - $厝cou3

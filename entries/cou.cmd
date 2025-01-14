@@ -393,22 +393,25 @@ W
   ====
   - [[Page~587 厝(3)]]
     ==
-    - A large flat stone, fit for a gravestone;
-    - to place, to put a body away properly;
-    - interchanged with the next [[$措3]];
+    - ~~A large flat stone, fit for a gravestone;~~
+    - to place [[Kangxi: 厝置也]], to put a body away properly;
+    - interchanged with the next [[措]] [[Kangxi: 同措]];
     - _(1)on ts(')(o\)(3)_
         [[on1 cou3 安厝]]
         to put a coffin in the grave or under a lodge;
         quietly reposing;
     - _ts(')(o\)(3) ch(u:)(3)_
         [[cou3 zyu3 厝註]]
-        to cut an epitaph.
+        ~~to cut~~ an epitaph.
     ==
+    --
+    [[Alternative form of 措 (for the "place", "bury", "conceal" senses). See $措cou3.]]
+    --
   ====
 C
   ==
-  - Williams' "large flat stone, fit for a gravestone" and 厝註:
-    Williams seems to have conflated the "whetstone" sense of 厝,
+  - Williams' "large flat stone, fit for a gravestone" and "to cut":
+    Williams has conflated the "whetstone" sense of 厝,
     which should be read in entering tone _ts(')ok(8)_ (cok3)^,
     with the "placement" sense _ts(')(o\)(3)_ (cou3).
     Unlike the "placement" sense, the "whetstone" sense
@@ -780,13 +783,16 @@ W
   ====
   - [[Page~588 錯(3)]]
     --
-    ~~Interchanged with the two last [[厝, 措]].~~
+    Interchanged with the two last [[厝, 措]].
     --
     ==
     - [[...]];
     - to place [[Kangxi: 錯置也]];
     - to hide, to store away [[Kangxi: 藏也]].
     ==
+    --
+    [[Alternative form of 措 (for the "place", "bury", "conceal" senses). See $措cou3.]]
+    --
   ====
 S
   ==
