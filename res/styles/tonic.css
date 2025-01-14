@@ -70,7 +70,12 @@ dd blockquote {
 dd ol {
   padding-left: 1.5em;
 }
+dd p {
+  margin: 0.3em 0 0.15em;
+}
 dd ul {
+  margin-top: 0;
+  margin-bottom: 0;
   padding-left: 1.3em;
 }
 
@@ -80,13 +85,6 @@ dl {
   padding: 0.3em 0.6em;
   margin-left: 1em;
   margin-right: 1em;
-}
-dl dd p {
-  margin: 0.3em 0 0.15em;
-}
-dl ul {
-  margin-top: 0;
-  margin-bottom: 0;
 }
 dl + h2 {
   margin-top: 1.7em;
