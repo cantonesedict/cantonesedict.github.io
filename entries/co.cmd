@@ -109,8 +109,8 @@ W
   ====
   - [[Page~26* (1)初]]
     ==
-    - To cut out garments;
-    - to begin, to commence;
+    - To cut out garments [[Kangxi: 裁衣之始也]];
+    - to begin, to commence [[Kangxi: 始也]];
     - the first, the beginning;
     - incipient, at first;
     - _(a/)(3) (1)ch(')o (1)ko_
@@ -122,8 +122,8 @@ W
     - _(1)ch(')o (1)ch(')o_
         [[co1 co1 初初]],
         at first;
-    - _(1)ch(')o (4)t(')au f(a/)t(8) [(5)sh(i/)]_
-        [[co1 tau4 faat3 sai3 初頭發市]]^
+    - _(1)ch(')o (4)t(')au f(a/)t(8) shai(3)_
+        [[co1 tau4 faat3 sai3 初頭發勢]]^
         a great show at starting;
     - _[(1)]ch(')o (4)loi p(o\)(6) t(o\)(3)_
         [[co1 loi4 bou6 dou3 初來步到]]
@@ -147,8 +147,8 @@ W
   ====
 C
   ==
+  - Williams' "To cut out garments": Specifically, the beginning of producing clothes.
   - Williams' 初間, 初旬, 初幾: Here, "decade" means ten days.
-  - Williams' 初頭發市: Corrected _shai(3)_ (sai3) to _(5)sh(i/)_ (si5).
   - Williams' 初來步到: Corrected _(4)ch(')o_ (co4) to _(1)ch(')o_ (co1).
   - Williams' 初生: More newborn than firstborn.
   ==
