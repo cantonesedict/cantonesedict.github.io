@@ -416,8 +416,8 @@ W
   ====
   - [[Page~26* (1)芻]]
     ==
-    - To cut grass;
-    - hay, fodder, grass for animals;
+    - To cut grass [[Kangxi: 刈草也]];
+    - hay, fodder, grass for animals [[Kangxi: 芻者飼牛馬之草, ::草[食]曰芻::]];
     - _yat(7) ch(')uk(7) (1)ch(')o_
         [[jat1 cuk1 co1 一束芻]],
         a bundle of hay;
