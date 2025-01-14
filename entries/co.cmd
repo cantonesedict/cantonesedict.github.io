@@ -539,13 +539,13 @@ W
   ====
   - [[Page~26* (2)楚]]
     ==
-    - A coppice, a bramble-bush, a thicket;
+    - A coppice, a bramble-bush, a thicket [[Kangxi: 叢木也]];
     - a clump of trees;
-    - spinous;
-    - distinct, clear, orderly;
+    - spinous [[Kangxi: 楚楚茨棘貌]];
+    - distinct, clear, orderly [[Kangxi: 楚楚鮮明貌]];
     - well done, properly finished;
-    - painful, sharp;
-    - a feudal state in the Chau [[周]] dynasty
+    - painful [[Kangxi: 辛楚痛也]], sharp;
+    - a feudal state [[Kangxi: 國名]] in the Chau [[周]] dynasty
       now the chief part of H(u/)n(a/)n [[湖南]] and H(u/)peh [[湖北]];
     - _(1)ts(')ing (2)ch(')o_
         [[cing1 co2 清楚]],
@@ -560,6 +560,10 @@ W
         [[fu2 co2 苦楚]],
         distressing, suffering.
     ==
+  - [[Page~26* (2)憷]]
+    --
+    Interchanged with the last [[楚]], in the senses of painful, suffering [[Kangxi 憷: 通作楚]].
+    --
   ====
 $$
 
