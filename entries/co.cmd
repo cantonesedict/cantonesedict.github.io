@@ -750,14 +750,14 @@ R
   ⾦ + 7
 U
   U+92BC
+A
+  ==
+  - $剉3
+  ==
 V
   ==
   - co4 (per 《廣韻》昨禾切 for "boiler" sense)
   - zuk6 (per 《廣韻》昨木切 for "boiler" sense)
-  ==
-A
-  ==
-  - $剉3
   ==
 F
   ==
