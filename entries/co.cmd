@@ -358,9 +358,16 @@ F
   ==
 W
   ====
+  - [[Page~583 (1)瑳]]
+    --
+    [[...]]
+    --
+    --
+    Used for the next [[磋]] [[Kangxi 瑳: 與磋同]].
+    --
   - [[Page~583 (1)磋]]
     ==
-    - To polish, to work on;
+    - To polish, to work on [[Kangxi: 磨治也, 治象曰磋]];
     - to cut and polish;
     - to work at, to make good, as composition;
     - _ts(')(i/)t(8) (1)ts(')o_
