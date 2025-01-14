@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zo
-* %date-modified --> 2024-10-08
+* %date-modified --> 2025-01-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -159,10 +159,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Alternative form of 咗. **See $咗zo2 for the canonical entry.**
-  ==
+P
+  ++
+  1. Alternative form of 咗. **See $咗zo2 for the canonical entry.**
+  ++
 S
   ==
   - $唨co1
