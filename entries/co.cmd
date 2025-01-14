@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> co
-* %date-modified --> 2024-12-17
+* %date-modified --> 2025-01-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -82,12 +82,16 @@ W
   ====
   - [[Page~583 (1)傞]]
     ==
-    - The drunken frolics of a man in liquor;
+    - The drunken frolics of a man in liquor [[Kangxi: 醉舞貌]];
     - _(1)ts(')o (1)ts(')o_
         [[co1 co1 傞傞]],
         drunken antics.
     ==
   ====
+C
+  ==
+  - Williams' "frolics": Specifically, dancing.
+  ==
 $$
 
 ### 初1 | _(1)Ch(')o_ [[co1]]
