@@ -515,7 +515,7 @@ W
   ====
   - [[Page~26* (2)憷]]
     --
-    Interchanged with the last [[$楚2]], in the senses of painful, suffering.
+    [[Alternative form of 楚 (for the "pain/suffering" senses). **See $楚co2 for the canonical entry.**]]
     --
   ====
 $$
