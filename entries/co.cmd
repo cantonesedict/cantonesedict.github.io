@@ -750,6 +750,11 @@ R
   ⾦ + 7
 U
   U+92BC
+V
+  ==
+  - co4 (per 《廣韻》昨禾切 for "boiler" sense)
+  - zuk6 (per 《廣韻》昨木切 for "boiler" sense)
+  ==
 A
   ==
   - $剉3
@@ -761,9 +766,16 @@ F
   ==
 W
   ====
+  - [[Page~583 剉(3)]]
+    --
+    [[...]]
+    --
+    --
+    Often used for the next [[銼]].
+    --
   - [[Page~583 銼(3)]]
     ==
-    - An iron pan or boiler;
+    - An iron pan or boiler [[Kangxi: 鍑也]];
     - a file, a rasp;
     - to rasp, to file, to smooth off the sharp or rough points;
     - to rub down;
