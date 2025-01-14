@@ -680,11 +680,11 @@ W
   ====
   - [[Page~583 剉(3)]]
     ==
-    - To cut, to lop off the corners and sharp points, to trim and prune;
+    - To cut, to lop off the corners and sharp points, to trim and prune [[Kangxi: 折傷也, 斫也, 斬截也]];
     - to cut up, to cut to pieces.
     ==
     --
-    Often used for the next [[$銼3]].
+    [[Otherwise, an alternative form of 銼. **See $銼co3 for the canonical entry.**]]
     --
   ====
 $$
