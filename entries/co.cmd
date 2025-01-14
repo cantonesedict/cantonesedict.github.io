@@ -957,8 +957,8 @@ W
   ====
   - [[Page~26* ::[(4)]鉏[(4)]鋤::]]
     ==
-    - A hoe, a mattoc;
-    - to hoe, to cultivate;
+    - A hoe, a mattoc [[Kangxi 鉏: 立薅所用也, 助也去穢助苗也]];
+    - to hoe, to cultivate [[Kangxi 鉏: 治田也]];
     - _(4)ch(')o (4)t(')(i/)n_
         [[co4 tin4 鋤田]],
         to dig;
