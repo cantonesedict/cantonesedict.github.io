@@ -215,17 +215,24 @@ W
   ====
   - [[Page~583 (1)嵯]]
     ==
-    - Uneven hills;
-    - _(1)ts(')o (4)ngo_
+    - ~~Uneven hills;~~
+    - ~~_(1)ts(')o (4)ngo_
         [[co1 ngo4 嵯峨]],
-        the inequalities of hills, the undulating outline of mountains.
+        the inequalities of hills, the undulating outline of mountains.~~
     ==
   ====
 C
   ==
   - The reading _(1)ts(')o_ (co1) is not unattested;
-    Kangxi quotes 《集韻》《韻會》《正韻》{𠀤=⿱夶一}倉何切音磋《說文》嵯峨山石貌.
+    Kangxi has 《集韻》《韻會》《正韻》{𠀤=⿱夶一}倉何切音磋《說文》嵯峨山石貌.
+  - Williams' "Uneven hills" etc.: These explanations only apply to the reading
+    楚宜切 _(1)ch(')(i/)_ (ci1) for use in the phrase 㠁嵯,
+    which is the mountain version of 參差.
   ==
+P
+  ++
+  1. Used in 嵯峨 (lofty, mountainous).
+  ++
 $$
 
 ### 搓1 | _(1)Ts(')o_ [[co1]]
