@@ -288,6 +288,10 @@ R
   ⽟ + 10
 U
   U+7473
+V
+  ==
+  - co2 (alternative per 《廣韻》千可切)
+  ==
 F
   ==
   - [[F2.58 瑳]] ::玉[鮮]白色::
@@ -296,18 +300,21 @@ W
   ====
   - [[Page~583 (1)瑳]]
     ==
-    - A white, lustrous, stone;
-    - fresh, beautiful;
-    - to smile, to look fascinating.
+    - A white, lustrous, stone [[Kangxi: 玉色鮮白也]];
+    - [[...]].
     ==
     --
-    Used for the next [[$磋1]].
+    [[Otherwise, an alternative form of 磋. **See $磋co1 for the canonical entry.**]]
     --
   ====
 C
   ==
   - Fan Wan entry: Corrected 解 to 鮮 (notwithstanding
     the olden dictionaries read 玉色鮮白).
+  ==
+S
+  ==
+  - $瑳co2
   ==
 $$
 
@@ -479,6 +486,7 @@ $$
 =={.modern}
 - $憷2
 - $楚2
+- $瑳2
 - $礎2
 - $脞2
 ==
@@ -546,6 +554,33 @@ W
         distressing, suffering.
     ==
   ====
+$$
+
+###+ 瑳2 | _(2)Ts(')o_ (co2)
+
+$$
+R
+  ⽟ + 10
+U
+  U+7473
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~583 (1)瑳 _(1)Ts(')o_ (co1); here corrected to _(2)Ts(')o_ (co2)]]
+    ==
+    - [[...]];
+    - fresh, beautiful [[Kangxi: 凡物鮮盛亦曰瑳, 鮮盛貌]];
+    - to smile, to look fascinating [[Kangxi: 笑貌, 瑳巧笑貌]].
+    ==
+    --
+    [[Also a reading variation. See $瑳co1.]]
+    --
+  ====
+S
+  ==
+  - $瑳co1
+  ==
 $$
 
 ### [礎]2 | _(2)Ch(')o_ [[co2]]
