@@ -504,16 +504,16 @@ W
   ====
   - [[Page~582 坐(6)]]
     ==
-    - To sit;
+    - To sit [[Kangxi: 行之對也]];
     - to sit on the heels;
     - sitting, remaining;
     - a session;
-    - a seat, a place [[see $座zo6]];
-    - to maintain, to hold;
+    - [[...]];
+    - to maintain, to hold [[Kangxi: 猶守也]];
     - involved in, implicated;
-    - to sit in judgement on, to judge;
+    - ~~to sit in judgement on,~~ to judge;
     - to place, to set down;
-    - to kneel;
+    - to kneel [[Kangxi: 古者謂跪爲坐]];
     - _(2)ts(')ing [(5)ts(')o]_
         [[cing2 co5 請坐]]^
         please be seated;
@@ -573,6 +573,9 @@ W
         [[daa2 zo6 caam1 sim4 打坐參禪]],
         to squat and contemplate, as Budhists do.
     ==
+    --
+    [[Otherwise, an alternative form of 座. **See $座zo6 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -654,6 +657,12 @@ F
   ==
 W
   ====
+  - [[Page~582 坐(6); here normalised to 座]]
+    ==
+    - [[...]];
+    - a seat, a place;
+    - [[...]].
+    ==
   - [[Page~583 座(6)]]
     ==
     - A seat, a throne;

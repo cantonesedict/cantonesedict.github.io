@@ -1023,7 +1023,7 @@ $$
 
 ###+ 坐5 | _(5)Ts(')o_ (co5)
 
-$$.
+$$
 R
   ⼟ + 4
 U
@@ -1033,9 +1033,9 @@ F
 W
   [[Not present]]
 C
-  ==
-  - Reading variation (verb-like vernacular). **See $坐zo6 for the canonical entry.**
-  ==
+  ++
+  1. Reading variation (verb-like vernacular). See $坐zo6.
+  ++
 S
   ==
   - $坐zo6
