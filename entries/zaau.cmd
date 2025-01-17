@@ -403,7 +403,6 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
-- $櫂3
 - $㷹3
 - $笊3
 - $罩3
@@ -412,31 +411,6 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
-
-### 櫂3 | _Ch(a/)u(3)_ [[zaau3]]
-
-$$.
-R
-  ⽊ + 14
-U
-  U+6AC2
-F
-  ==
-  - [[F2.42 棹]] 進船之器
-  - [[F2.43 櫂]] 同上
-  ==
-W
-  ====
-  - [[Page~29|n72 櫂(3)棹(3)掉(3)]]
-    --
-    [[Idiosyncratic reading from Fan Wan. **See $櫂zaau6 for the canonical entry.**]]
-    --
-  ====
-S
-  ==
-  - $櫂zaau6
-  ==
-$$
 
 ###+ 㷹3 | _Ch(a/)u(3)_ (zaau3)
 
@@ -660,10 +634,10 @@ W
   ====
   - [[Page~29|n72 櫂(3)棹(3)掉(3) _Ch(a/)u(3)_ (zaau3); here corrected to _Ch(a/)u(6)_ (zaau6)]]
     ==
-    - To row;
+    - To row [[Kangxi: 言使舟櫂進也]];
     - to shoot an arrow;
     - to throw away;
-    - a long oar;
+    - a long oar [[Kangxi: 所以進船也, 短曰檝長曰櫂]];
     - _ch(a/)u[(6)] k(e/)uk(8)_
         [[zaau6 goek3 櫂腳]]
         to limp, as the lame do;
@@ -687,14 +661,10 @@ W
         throw it out in the street.
     ==
     --
-    The two last of these characters [[$棹6, 掉]]
+    The two last of these characters [[棹, 掉]]
     are improperly used in Canton for the first [[櫂]].
     --
   ====
-S
-  ==
-  - $櫂zaau3
-  ==
 $$
 
 ###+ 驟6 | _Ch(a/)u(6)_ (zaau6)

@@ -1137,7 +1137,6 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $櫂zaau3
       - $櫂zaau6
       ==
       </nav>
