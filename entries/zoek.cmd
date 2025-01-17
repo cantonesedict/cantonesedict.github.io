@@ -709,8 +709,8 @@ W
   ====
   - [[Page~565 鵲(8) _Ts(')(e/)uk(8)_ (coek3); here normalised to _Ts(e/)uk(8)_ (zoek3)]]
     ==
-    - A magpie, a jackdaw;
-    - a jay;
+    - A magpie, a jackdaw [[Kangxi: 鳥名喜鵲也]];
+    - a jay [[Kangxi: 練鵲]];
     - _(2)h(i/) [ts(e/)uk](8)_ [[hei2 zoek3 喜鵲]]
         or
       _(1)kon [ts(e/)uk](8)_ [[gon1 zoek3 乾鵲]]
