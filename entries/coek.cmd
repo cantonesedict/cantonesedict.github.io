@@ -175,7 +175,7 @@ W
   ====
   - [[Page~33|n76 棹(8); here normalised to 桌]]
     ==
-    - A table;
+    - A table [[Kangxi 桌: 俗呼几案曰桌]];
     - a stand;
     - [[...]];
     - _ch(')(e/)uk(8) (2)tsz'_
