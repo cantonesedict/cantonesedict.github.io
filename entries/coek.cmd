@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coek
-* %date-modified --> 2024-10-16
+* %date-modified --> 2025-01-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -75,9 +75,9 @@ W
   ====
   - [[Page~33|n76 倬(8)]]
     ==
-    - Extensive, distant;
-    - large;
-    - to show, to manifest;
+    - Extensive, ~~distant~~;
+    - large [[Kangxi: 大也]];
+    - to show, to manifest [[Kangxi: 著也, 明貌]];
     - _(4)ming ch(')(e/)uk(8) (5)(u:) ts(u/)i(6)_
         [[ming4 coek3 jyu5 zeoi6 明倬汝罪]]
         to make your crime known.
