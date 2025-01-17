@@ -259,14 +259,13 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Alternative form of 桌, and reading variation. **See $桌coek3 for the canonical entry.**
-  ==
+P
+  ++
+  1. Alternative form of 桌, and reading variation. **See $桌coek3 for the canonical entry.**
+  ++
 S
   ==
   - $棹coek3
-  - $棹zaau3
   - $棹zaau6
   ==
 $$

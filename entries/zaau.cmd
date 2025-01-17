@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaau
-* %date-modified --> 2024-12-06
+* %date-modified --> 2025-01-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -403,7 +403,6 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
-- $棹3
 - $櫂3
 - $㷹3
 - $笊3
@@ -413,33 +412,6 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
-
-### 棹3 | _Ch(a/)u(3)_ [[zaau3]]
-
-$$.
-R
-  ⽊ + 8
-U
-  U+68F9
-F
-  ==
-  - [[F2.42 棹]] 進船之器
-  - [[F2.43 櫂]] 同上
-  ==
-W
-  ====
-  - [[Page~29|n72 櫂(3)棹(3)掉(3)]]
-    --
-    [[Alternative form of 櫂, and idiosyncratic reading from Fan Wan. **See $櫂zaau6 for the canonical entry.**]]
-    --
-  ====
-S
-  ==
-  - $棹coek3
-  - $棹zaau6
-  - $棹zoek3
-  ==
-$$
 
 ### 櫂3 | _Ch(a/)u(3)_ [[zaau3]]
 
@@ -654,7 +626,7 @@ F
   ==
 W
   ====
-  - [[Page~29|n72 櫂(3)棹(3)掉(3) _Ch(a/)u(3)_ (zaau3)]]
+  - [[Page~29|n72 櫂(3)棹(3)掉(3) _Ch(a/)u(3)_ (zaau3); here corrected to _Ch(a/)u(6)_ (zaau6)]]
     --
     [[Alternative form of 櫂. **See $櫂zaau6 for the canonical entry.**]]
     --
@@ -662,7 +634,6 @@ W
 S
   ==
   - $棹coek3
-  - $棹zaau3
   - $棹zoek3
   ==
 <## TODO: 棹忌 zaau6 gei6 ##>
