@@ -105,13 +105,13 @@ W
   - [[Page~33|n76 卓(8)]]
     ==
     - Firm, stable;
-    - lofty and profound;
+    - lofty [[Kangxi: 高也]] and profound;
     - distant;
     - to establish;
     - to expect;
-    - to surpass;
+    - to surpass [[Kangxi: 超卓也]];
     - eminent in, raised above others;
-    - at, reached, as a time;
+    - ~~at, reached, as a time;~~
     - _(1)ch(')i(u/) ch(')(e/)uk(8)_
         [[ciu1 coek3 超卓]]
         preëminent, superior to common;
