@@ -315,19 +315,30 @@ $$
 
 ###+ 芍3 | _Ch(')(e/)uk(8)_ (coek3)
 
-$$.
+$$
 R
   ⾋ + 3
 U
   U+828D
+V
+  ==
+  - zoek3 (per 《廣韻》張略切)
+  ==
 F
-  [[Not present]]
+  ==
+  - [[F1.94 芍 _Ch(e/)uk(8)_ (zoek3)]] 芍藥花名
+  ==
 W
-  [[Not present]]
-C
-  ==
-  - Reading variation. **See $芍zoek3 for the canonical entry.**
-  ==
+  ====
+  - [[Page~32|n75 芍(8) _Ch(e/)uk(8)_ (zoek3); here normalised to _Ch(')(e/)uk(8)_ (coek3)]]
+    ==
+    - The peony [[Kangxi: 芍藥猶綽約也]];
+    - also the dahlia;
+    - _[ch(')(e/)uk(8)] y(e/)uk(9)_
+        [[coek3 joek6 芍藥]]
+        peony roots, a medicine.
+    ==
+  ====
 S
   ==
   - $芍zoek3

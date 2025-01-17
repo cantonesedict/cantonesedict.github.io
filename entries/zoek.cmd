@@ -498,7 +498,7 @@ $$
 
 ### 芍3 | _Ch(e/)uk(8)_ [[zoek3]]
 
-$$
+$$.
 R
   ⾋ + 3
 U
@@ -514,13 +514,9 @@ F
 W
   ====
   - [[Page~32|n75 芍(8)]]
-    ==
-    - The peony;
-    - also the dahlia;
-    - _ch(e/)uk(8) y(e/)uk(9)_
-        [[zoek3 joek6 芍藥]]
-        peony roots, a medicine.
-    ==
+    --
+    [[Reading variation (per 《廣韻》張略切). **See $芍coek3 for the canonical entry.**]]
+    --
   ====
 S
   ==
