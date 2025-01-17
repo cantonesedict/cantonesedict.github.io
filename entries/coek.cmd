@@ -231,10 +231,37 @@ R
   ⽕ + 3
 U
   U+707C
+V
+  ==
+  - zoek3 (per 《廣韻》之若切)
+  ==
 F
-  [[Not present]]
+  ==
+  - [[F1.94 灼 _Ch(e/)uk(8)_ (zoek3)]] 燒也炙也昭也又灼灼華盛貌
+  ==
 W
-  [[Not present]]
+  ====
+  - [[Page~32|n75 灼(8) _Ch(e/)uk(8)_ (zoek3); here normalised to _Ch(')(e/)uk(8)_ (coek3)]]
+    ==
+    - To burn [[Kangxi: 炙也, 熱也]];
+    - to singe, to cauterize ~~with moxa~~ [[Kangxi: 熱也]];
+    - alarmed [[Kangxi: 灼驚也]];
+    - clear, distinct [[Kangxi: 明也]];
+    - luxuriant, as flowers [[Kangxi: 灼灼花盛貌]];
+    - _[ch(')(e/)uk(8)] (1)kwai_
+        [[coek3 gwai1 灼龜]],
+        to singe a terrapin's shell;
+    - _[ch(')(e/)uk(8)] l(a/)n(6)_
+        [[coek3 laan6 灼爛]]
+        to raise a blister;
+    - _[ch(')(e/)uk(8)] ng(a/)i(6)_
+        [[coek3 ngaai6 灼艾]]
+        to burn the moxa;
+    - _[ch(')(e/)uk(8)] [ch(')(e/)uk(8)]_
+        [[coek3 coek3 灼灼]]
+        splendid, as flowers.
+    ==
+  ====
 E
   ====
   - 【灼】 (coek3):

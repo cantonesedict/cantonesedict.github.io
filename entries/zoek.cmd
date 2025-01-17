@@ -272,7 +272,7 @@ $$
 
 ### 灼3 | _Ch(e/)uk(8)_ [[zoek3]]
 
-$$
+$$.
 R
   ⽕ + 3
 U
@@ -284,25 +284,9 @@ F
 W
   ====
   - [[Page~32|n75 灼(8)]]
-    ==
-    - To burn;
-    - to singe, to cauterize with moxa;
-    - alarmed;
-    - clear, distinct;
-    - luxuriant, as flowers;
-    - _ch(e/)uk(8) (1)kwai_
-        [[zoek3 gwai1 灼龜]],
-        to singe a terrapin's shell;
-    - _ch(e/)uk(8) l(a/)n(6)_
-        [[zoek3 laan6 灼爛]]
-        to raise a blister;
-    - _ch(e/)uk(8) ng(a/)i(6)_
-        [[zoek3 ngaai6 灼艾]]
-        to burn the moxa;
-    - _ch(e/)uk(8) ch(e/)uk(8)_
-        [[zoek3 zoek3 灼灼]]
-        splendid, as flowers.
-    ==
+    --
+    [[Reading variation (per 《廣韻》之若切). **See $灼coek3 for the canonical entry.**]]
+    --
   ====
 S
   ==
