@@ -135,13 +135,17 @@ R
   ⼽ + 14
 U
   U+6233
+V
+  ==
+  - cok3 (alternative for "stamp" sense)
+  ==
 F
   [[Not present]]
 W
   ====
   - [[Page~33|n76 戳(8)]]
     ==
-    - To stab or spear;
+    - To stab or spear [[Kangxi: 槍戳也]];
     - a seal used by constables;
     - _k(')oi(3) ch(')(e/)uk(8)_
         [[koi3 coek3 蓋戳]]
