@@ -294,8 +294,8 @@ W
   ====
   - [[Page~33|n76 綽(8)]]
     ==
-    - Large, ample;
-    - slow, leisurely;
+    - Large, ample [[Kangxi: 緩也, 綽綽寬也, 綽猶多也]];
+    - ~~slow, leisurely;~~
     - _ch(')(e/)uk(8) y(e/)uk(8)_
         [[coek3 joek3 綽約]]
         delicate, as a girl;
@@ -307,6 +307,10 @@ W
         an overplus, more than enough.
     ==
   ====
+C
+  ==
+  - Williams' "slow, leisurely": This is a misreading of Kangxi 緩也.
+  ==
 $$
 
 ###+ 芍3 | _Ch(')(e/)uk(8)_ (coek3)
