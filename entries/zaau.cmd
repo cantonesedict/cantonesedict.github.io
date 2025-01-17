@@ -579,12 +579,36 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $掉6
 - $棹6
 - $櫂6
 - $驟6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+###+ 掉6 | _Ch(a/)u(6)_ (zaau6)
+
+$$.
+R
+  ⼿ + 8
+U
+  U+6389
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~29|n72 櫂(3)棹(3)掉(3) _Ch(a/)u(3)_ (zaau3); here corrected to _Ch(a/)u(6)_ (zaau6)]]
+    --
+    [[Alternative form of 棹. **See $棹zaau6 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $掉deu6 (TODO)
+  - $掉diu6 (TODO)
+  ==
+$$
 
 ###+ 棹6 | _Ch(a/)u(6)_ (zaau6)
 
@@ -595,7 +619,7 @@ U
   U+68F9
 A
   ==
-  - 掉
+  - $掉6
   - $櫂6
   ==
 F

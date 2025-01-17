@@ -408,6 +408,7 @@ For all radicals, see [Index of characters by radical](./).
       - $掣zai3
       - $採coi2
       - $措cou3
+      - $掉zaau6
       - $掫zau1
       - $接zip3
       - $捷zit6
