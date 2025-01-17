@@ -588,11 +588,16 @@ $$
 
 ###+ 棹6 | _Ch(a/)u(6)_ (zaau6)
 
-$$.
+$$
 R
   ⽊ + 8
 U
   U+68F9
+A
+  ==
+  - 掉
+  - $櫂6
+  ==
 F
   ==
   - [[F2.42 棹 _Ch(a/)u(3)_ (zaau3)]] 進船之器
@@ -601,8 +606,36 @@ F
 W
   ====
   - [[Page~29|n72 櫂(3)棹(3)掉(3) _Ch(a/)u(3)_ (zaau3); here corrected to _Ch(a/)u(6)_ (zaau6)]]
+    ==
+    - To row [[Kangxi 櫂: 言使舟櫂進也]];
+    - to shoot an arrow;
+    - to throw away;
+    - a long oar [[Kangxi 櫂: 所以進船也, 短曰檝長曰櫂]];
+    - _ch(a/)u[(6)] k(e/)uk(8)_
+        [[zaau6 goek3 棹腳]]
+        to limp, as the lame do;
+    - _ch(a/)u[(6)] chung(3)_
+        [[zaau6 zung3 棹中]]
+        to hit the bull's-eye;
+    - _ch(a/)u[(6)] (2)ts(e/)ung_
+        [[zaau6 zoeng2 棹槳]],
+        to pull an oar;
+    - _ch(a/)u[(6)] (4)m(a/)i (4)t(')au_
+        [[zaau6 maai4 tau4 棹埋頭]],
+        to pull ashore;
+    - _ch(a/)u[(6)] kwo(3) (2)hoi_
+        [[zaau6 gwo3 hoi2 棹過海]],
+        to pull across the river;
+    - _ch(')ut(7) lik(9) ch(a/)u[(6)]_
+        [[ceot1 lik6 zaau6 出力棹]]
+        row harder;
+    - _ch(a/)u[(6)] ch(')ut(7) (1)k(a/)i_
+        [[zaau6 ceot1 gaai1 棹出街]],
+        throw it out in the street.
+    ==
     --
-    [[Alternative form of 櫂. **See $櫂zaau6 for the canonical entry.**]]
+    The ~~two~~ last of these characters [[~~棹,~~ 掉]]
+    are improperly used in Canton for the first [[櫂]].
     --
   ====
 S
@@ -615,16 +648,11 @@ $$
 
 ###+ 櫂6 | _Ch(a/)u(6)_ (zaau6)
 
-$$
+$$.
 R
   ⽊ + 14
 U
   U+6AC2
-A
-  ==
-  - $棹6
-  - 掉
-  ==
 F
   ==
   - [[F2.42 棹 _Ch(a/)u(3)_ (zaau3)]] 進船之器
@@ -633,36 +661,8 @@ F
 W
   ====
   - [[Page~29|n72 櫂(3)棹(3)掉(3) _Ch(a/)u(3)_ (zaau3); here corrected to _Ch(a/)u(6)_ (zaau6)]]
-    ==
-    - To row [[Kangxi: 言使舟櫂進也]];
-    - to shoot an arrow;
-    - to throw away;
-    - a long oar [[Kangxi: 所以進船也, 短曰檝長曰櫂]];
-    - _ch(a/)u[(6)] k(e/)uk(8)_
-        [[zaau6 goek3 櫂腳]]
-        to limp, as the lame do;
-    - _ch(a/)u[(6)] chung(3)_
-        [[zaau6 zung3 櫂中]]
-        to hit the bull's-eye;
-    - _ch(a/)u[(6)] (2)ts(e/)ung_
-        [[zaau6 zoeng2 櫂槳]],
-        to pull an oar;
-    - _ch(a/)u[(6)] (4)m(a/)i (4)t(')au_
-        [[zaau6 maai4 tau4 櫂埋頭]],
-        to pull ashore;
-    - _ch(a/)u[(6)] kwo(3) (2)hoi_
-        [[zaau6 gwo3 hoi2 櫂過海]],
-        to pull across the river;
-    - _ch(')ut(7) lik(9) ch(a/)u[(6)]_
-        [[ceot1 lik6 zaau6 出力櫂]]
-        row harder;
-    - _ch(a/)u[(6)] ch(')ut(7) (1)k(a/)i_
-        [[zaau6 ceot1 gaai1 櫂出街]],
-        throw it out in the street.
-    ==
     --
-    The two last of these characters [[棹, 掉]]
-    are improperly used in Canton for the first [[櫂]].
+    [[Alternative form of 棹. **See $棹zaau6 for the canonical entry.**]]
     --
   ====
 $$
