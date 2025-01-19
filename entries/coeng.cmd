@@ -1413,10 +1413,10 @@ W
   ====
   - [[Page~568 (4)戕]]
     ==
-    - A spear, a wooden lance;
-    - a post;
+    - ~~A spear, a wooden lance;~~
+    - [[...]];
     - to kill;
-    - to rob, to maltreat;
+    - ~~to rob,~~ to maltreat [[Kangxi: 槍也, 戕者卒暴之名]];
     - _(4)ts(')(e/)ung (1)sh(e/)ung_
         [[coeng4 soeng1 戕傷]],
         to wound;
@@ -1425,6 +1425,17 @@ W
         to kill and rob.
     ==
   ====
+C
+  ==
+  - Williams' "A spear, a wooden lance": This is a misreading of Kangxi 槍也.
+    According to 段玉裁's annotations of 《說文》 (which has 搶也 originally),
+    the intended meaning is 槍者歫也歫謂相抵爲害 (to do harm by collision),
+    with an annotation of the Book of Poetry reading 戕殘也 (to harm cruelly).
+  ==
+S
+  ==
+  - $戕zong1
+  ==
 $$
 
 ### 檣4 | _(4)Ts(')(e/)ung_ [[coeng4]]

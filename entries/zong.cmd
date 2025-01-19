@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zong
-* %date-modified --> 2024-12-05
+* %date-modified --> 2025-01-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -47,6 +47,7 @@ $$
 =={.modern}
 - $妝1
 - $庄1
+- $戕1
 - $樁1
 - $牂1
 - ${𥊙=⿰目⿳囟儿夊}1
@@ -140,6 +141,30 @@ W
     [[Alternative form of 莊. **See $莊zong1 for the canonical entry.**]]
     --
   ====
+$$
+
+###+ 戕1 | _(1)Tsong_ (zong1)
+
+$$
+R
+  ⼽ + 4
+U
+  U+6215
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~568 (4)戕 _(4)Ts(')(e/)ung_ (coeng4); here corrected to _(1)Tsong_ (zong1)]]
+    ==
+    - [[...]];
+    - a post [[Kangxi: 戕戙{𣏾=⿰木戈}也]];
+    - [[...]].
+    ==
+  ====
+S
+  ==
+  - $戕coeng4
+  ==
 $$
 
 ### [樁]1 | _(1)Chong_ [[zong1]]
