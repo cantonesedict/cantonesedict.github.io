@@ -131,13 +131,13 @@ W
   ====
   - [[Page~591 (2)寀]]
     ==
-    - Lands or cities allotted for the revenue of officers;
+    - Lands or cities allotted for the revenue of officers [[Kangxi: 謂寀地]];
     - _(2)ts(')oi t(i/)(6)_
         [[coi2 dei6 寀地]]
         territory set apart for grandees;
     - _(4)li(u/) (2)ts'oi_
         [[liu4 coi2 寮寀]],
-        officers exercising jurisdiction over the same circuit.
+        officers exercising jurisdiction over the same circuit [[Kangxi: 寀寮官也, 官地爲寀同官爲寮]].
     ==
   ====
 $$
