@@ -1159,8 +1159,8 @@ W
   ====
   - [[Page~37|n80 韔(3)]]
     ==
-    - A bow case;
-    - to put a bow into its case.
+    - A bow case [[Kangxi: 弓衣也]];
+    - to put a bow into its case [[Kangxi: 韔韜也]].
     ==
   ====
 $$
