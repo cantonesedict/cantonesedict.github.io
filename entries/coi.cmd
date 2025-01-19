@@ -554,12 +554,17 @@ W
   ====
   - [[Page~591 蔡(3)]]
     ==
-    - Grass, herbs, esculent herbs;
-    - a law, a rule;
+    - Grass, herbs, esculent herbs [[Kangxi: 草也]];
+    - ~~a law, a rule;~~
     - name of a feudal state, now J(u/)ning f(u/) [[汝寧府]]
       in the southeast of Hon(a/)n [[河南]].
     ==
   ====
+C
+  ==
+  - Williams' "a law, a rule": This is a misreading of Kangxi 蔡法也.
+    Here, 法 means "punishment" (with 蔡 specifically meaning "banishment").
+  ==
 $$
 
 ### 賽3 | _Ts(')oi(3)_ [[coi3]]
