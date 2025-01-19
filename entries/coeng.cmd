@@ -1674,7 +1674,7 @@ W
   ====
   - [[Page~36|n79 (4)萇]]
     ==
-    - A sort of fruit, the carambola _(Averrhoa)_,
+    - A sort of fruit, the carambola _(Averrhoa)_ [[Kangxi: 萇楚, 今羊桃也]],
       also called the _(4)y(e/)ung (4)t(')(o\)_ [[joeng4 tou4 羊桃]],
       or sheep's peach.
     ==
