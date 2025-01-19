@@ -332,10 +332,10 @@ W
   ====
   - [[Page~591 (2)綵]]
     --
-    Interchanged with the last [[$彩2]].
+    Interchanged with the last [[彩]].
     --
     ==
-    - Variegated, colored silk;
+    - Variegated, colored silk [[Kangxi: 五綵備]];
     - particolored;
     - _k(i/)t(8) (2)ts(')oi_ [[git3 coi2 結綵]],
         or
