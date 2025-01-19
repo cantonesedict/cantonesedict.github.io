@@ -582,10 +582,10 @@ W
   ====
   - [[Page~592 賽(3)]]
     ==
-    - To recompense, to thank;
+    - To recompense, to thank [[Kangxi: 報也]];
     - to strive to surpass, to contest for, to emulate, to match;
     - excelling, contesting;
-    - to announce a thank offering, to make an offering;
+    - ~~to announce~~ a thank offering, to make an offering [[Kangxi: 今俗報祭曰賽神]];
     - a show of;
     - _ts(')oi(3) (1)tang_
         [[coi3 dang1 賽燈]],
@@ -601,6 +601,10 @@ W
         to wager.
     ==
   ====
+C
+  ==
+  - Williams' "to announce": This is a misreading of 報 in Kangxi 今俗報祭曰賽神.
+  ==
 $$
 
 
