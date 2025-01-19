@@ -996,10 +996,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Reading variation (per 《廣韻》丑亮切). **See $悵zoeng3 for the canonical entry.**
-  ==
+P
+  ++
+  1. Reading variation (per 《廣韻》丑亮切). **See $悵zoeng3 for the canonical entry.**
+  ++
 S
   ==
   - $悵zoeng3
