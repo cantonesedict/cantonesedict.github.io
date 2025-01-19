@@ -1568,9 +1568,9 @@ W
   ====
   - [[Page~568 (4)翔]]
     ==
-    - To soar, to hover over;
-    - to look back;
-    - dignified, severe, stern;
+    - To soar, to hover over [[Kangxi: 回飛也]];
+    - to look back [[Kangxi: 翔廻顧也]];
+    - dignified, severe, stern [[Kangxi: 莊敬貌]];
     - _(4)(u/)i (4)ts(')(e/)ung_
         [[wui4 coeng4 回翔]],
         to look back regretfully.
