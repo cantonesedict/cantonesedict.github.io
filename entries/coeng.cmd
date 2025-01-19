@@ -1382,9 +1382,9 @@ W
   ====
   - [[Page~567 (4)庠]]
     ==
-    - An asylum for aged people in ancient times,
-      a village school, a college, a gymnasium, an academy;
-    - to teach;
+    - An asylum for aged people in ancient times [[Kangxi: 禮官養老處也]],
+      a village school, a college, a gymnasium, an academy [[Kangxi: 上庠右學大學也下庠左學小學也]];
+    - to teach [[Kangxi: 庠者養也]];
     - _(4)ts(')(e/)ung (1)shang_
         [[coeng4 sang1 庠生]],
         a si(u/)ts(')(a/)i [[秀才]];
