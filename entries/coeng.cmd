@@ -598,7 +598,7 @@ W
   ====
   - [[Page~36|n79 ::(1)[{𢃑=⿰巾昌}]::; here normalised to 裮]]
     ==
-    - Loose flowing garments thrown on one without a cincture.
+    - Loose flowing garments thrown on one without a cincture [[Kangxi 裮: 披裮, 披衣不帶也]].
     ==
   ====
 C
