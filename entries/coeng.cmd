@@ -1453,7 +1453,7 @@ W
   ====
   - [[Page~568 (4)檣]]
     ==
-    - A mast, any spar or mast which sustains the sails;
+    - A mast, any spar or mast which sustains the sails [[Kangxi: 船檣帆柱也]];
     - _(4)f(a/)n (4)ts(')(e/)ung_
         [[faan4 coeng4 帆檣]],
         masts and sails.
