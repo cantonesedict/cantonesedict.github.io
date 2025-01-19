@@ -445,9 +445,10 @@ For all radicals, see [Index of characters by radical](./).
       - $搋caai1
       - $搓caai1
       - $搓co1
-      - $搥ceoi4
+      - $搶caang1
       - $搶coeng1
       - $搶coeng2
+      - $搥ceoi4
       - $搐cuk1
       - $搾zaa3
       ==

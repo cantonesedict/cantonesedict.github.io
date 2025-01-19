@@ -45,6 +45,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $掙1
+- $搶1
 - $撐1
 - $撑1
 - $槍1
@@ -85,6 +86,29 @@ S
   - $掙zaang6
   - $掙zang1
   - $掙zang3
+  ==
+$$
+
+###+ 搶1 | _(1)Ch(')(a/)ng_ (caang1)
+
+$$
+R
+  ⼿ + 10
+U
+  U+6436
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~567 (1)搶 _(1)Ts(')(e/)ung_ (coeng1); here corrected to _(1)Ch(')(a/)ng_ (caang1)]]
+    --
+    [[Alternative form of 槍. **See $槍caang1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $搶coeng1
+  - $搶coeng2
   ==
 $$
 
@@ -170,7 +194,7 @@ U
   U+69CD
 A
   ==
-  - 搶
+  - $搶1
   ==
 F
   [[Not present]]
