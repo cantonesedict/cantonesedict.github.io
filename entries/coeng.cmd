@@ -809,13 +809,15 @@ W
         to grab at all.
     ==
     --
-    Read _(1)ts(')ong_ [[cong1]]; to saw.
+    ~~Read _(1)ts(')ong_ [[cong1]]; to saw [[Kangxi: 搶搪鋸也]]~~.
     --
   ====
 C
   ==
   - Williams' "sudden, abrupt, rude": This is a misreading of Kangxi 突也.
   - Williams' 搶炮頭: Corrected _p(')au(3)_ (pau3) to _p(')(a/)u(3)_ (paau3).
+  - Williams' "to saw": This sense should actually be written 槍,
+    as seen under 《集韻》千剛切. Kangxi 搶搪 is a typo for 槍搪.
   ==
 S
   ==
