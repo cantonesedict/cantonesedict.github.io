@@ -1019,10 +1019,7 @@ W
   ====
   - [[Page~29* (2)昶 _(2)Ch(')ong_ (cong2); _Ch(')(e/)ung(3)_ (coeng3) implied]]
     --
-    Interchanged with 暢 [[**see $暢coeng3**]].
-    --
-    --
-    [[...]]
+    [[Alternative form of 暢. **See $暢coeng3 for the canonical entry.**]]
     --
   ====
 S
@@ -1070,6 +1067,13 @@ W
         [[coeng3 mau6 暢茂]]
         flourishing.
     ==
+  - [[Page~29* (2)昶 _(2)Ch(')ong_ (cong2); _Ch(')(e/)ung(3)_ (coeng3) implied]]
+    --
+    Interchanged with 暢 [[Kangxi 昶: 昶與暢同]].
+    --
+    --
+    [[...]]
+    --
   ====
 C
   ==
