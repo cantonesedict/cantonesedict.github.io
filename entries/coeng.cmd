@@ -496,7 +496,7 @@ W
   ====
   - [[Page~36|n79 (1)窓(1)窗(1)牕]]
     ==
-    - A window, an aperture to admit light;
+    - A window, an aperture to admit light [[Kangxi: 助戸爲明]];
     - a sash;
     - a venetian blind, a shutter;
     - a school;
@@ -534,6 +534,7 @@ W
   ====
 C
   ==
+  - Williams' "sash": In the sense of the sliding panel in a sash window.
   - Williams' 窗門棖: Changed uncommon reading _(5)ch(')(a/)n_ (caan5) to _(5)ch(')(a/)m_ (caam5).
   ==
 $$
