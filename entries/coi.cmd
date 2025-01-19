@@ -302,7 +302,7 @@ W
   ====
   - [[Page~591 (2)睬]]
     ==
-    - To pay attention to, to notice, to greet;
+    - To pay attention to, to notice, to greet [[Kangxi: 偢睬俗言也]];
     - _(4)'m (1)ts(')au (4)'m (2)ts(')oi_
         [[m4 cau1 m4 coi2 唔瞅唔睬]]^
         the cut direct, not to recognize;

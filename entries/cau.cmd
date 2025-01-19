@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2025-01-05
+* %date-modified --> 2025-01-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -435,10 +435,18 @@ C
   ==
   - The character 瞅 is not attested in the Middle Chinese rime books,
     nor is it recorded in Kangxi.
-    Modern Cantonese dictionaries typically record a reading of cau2,
+    Modern Cantonese dictionaries typically record a reading of cau2 (rising tone),
     which I wager is from analogy with the Mandarin reading chǒu.
-    Yet the common Cantonese reading is cau1, consistent with Williams,
+    And yet:
+    ++
+    1. The variant form 偢 appears under the Kangxi entry for 睬,
+       with the explicit reading _(1)ts(')au_ (cau1) in level tone:
+       """"
+       ::K. 睬 《字彙補》此宰切音彩(:偢睬:)俗言也詞家多用此字(:偢音秋:)::
+       """"
+    1. The common Cantonese reading is cau1, consistent with Williams,
     and as sung by Alan Tam in 誰可改變 (1984) (containing the phrase 不瞅不睬).
+    ++
   ==
 $$
 
