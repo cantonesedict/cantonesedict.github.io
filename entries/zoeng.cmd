@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2024-12-05
+* %date-modified --> 2025-01-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -966,7 +966,7 @@ W
   ====
   - [[Page~34|n77 悵(3)]]
     ==
-    - Disappointment;
+    - Disappointment [[Kangxi: 望恨也]];
     - vexed;
     - _ch(e/)ung(3) ch(e/)ung(3)_
         [[zoeng3 zoeng3 悵悵]]
