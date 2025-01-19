@@ -786,6 +786,10 @@ R
   ⿂ + 8
 U
   U+9BE7
+A
+  ==
+  -{.modern} 䱽
+  ==
 F
   [[Not present]]
 W
@@ -799,6 +803,10 @@ C
       (see $䱽cong1).
     ==
   ====
+P
+  ++
+  1. The pomfret (Kangxi: 鯧鯸魚名, 閩人譌爲䱽魚).
+  ++
 S
   ==
   - $鯧cong1

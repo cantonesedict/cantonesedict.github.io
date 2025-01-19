@@ -411,19 +411,6 @@ W
     --
     [[Alternative form of 䱽. **See $䱽cong1 for the canonical entry.**]]
     --
-    --
-    [[Otherwise, a reading variation. **See $鯧coeng1 for the canonical entry.**]]
-    --
-  ====
-C
-  ====
-  - Effectively, 鯧 and 䱽 are the same semantic word "pomfret", but:
-    ==
-    - 鯧 is classically attested with reading _(1)ch(')(e/)ung_ (coeng1)
-      (see $鯧coeng1); and
-    - 䱽 is vernacular with reading _(1)ts(')ong_ (cong1)
-      (see $䱽cong1).
-    ==
   ====
 S
   ==
