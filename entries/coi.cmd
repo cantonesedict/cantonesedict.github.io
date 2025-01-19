@@ -244,7 +244,7 @@ W
   ====
   - [[Page~591 (2)採]]
     ==
-    - To select, to choose, to pick, to pluck, as leaves;
+    - To select, to choose, to pick, to pluck, as leaves [[Kangxi: 摘也取也㩜也]];
     - to take with the hand;
     - _(2)ts(')oi (1)song_
         [[coi2 song1 採桑]],
