@@ -770,7 +770,7 @@ W
   ====
   - [[Page~36|n79 (1)閶]]
     ==
-    - The door of heaven;
+    - The door of heaven [[Kangxi: 天門也]];
     - a gate of S(u/)chau [[蘇州]];
     - _(1)ch(')(e/)ung h(o\)p(9)_
         [[coeng1 hap6 閶闔]]
