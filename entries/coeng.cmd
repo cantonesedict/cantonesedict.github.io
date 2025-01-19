@@ -630,6 +630,11 @@ W
     - to move towards a superior quickly [[Kangxi: 士大夫之威儀也]];
     - to gambol, to skip about [[Kangxi: 舞貌]].
     ==
+  - [[Page~567 (1)蹡]]
+    ==
+    - Similar to the preceding [[蹌]];
+    - [[...]].
+    ==
   ====
 $$
 
@@ -647,10 +652,9 @@ F
 W
   ====
   - [[Page~567 (1)蹡]]
-    ==
-    - Similar to the preceding [[$蹌1]];
-    - [[see $蹡coeng3 for "walk irregularly" senses]].
-    ==
+    --
+    [[Alternative form of 蹌. **See $蹌coeng1 for the canonical entry.**]]
+    --
   ====
 S
   ==
@@ -1073,7 +1077,7 @@ W
   - [[Page~567 (1)蹡 _(1)Ts(')(e/)ung_ (coeng1); here corrected to _Ts(')(e/)ung(3)_ (coeng3)]]
     ==
     - [[...]];
-    - to move irregularly, to go across, to walk awry.
+    - to move irregularly, to go across, to walk awry [[Kangxi: 同蹌行不正貌]].
     ==
   ====
 S
