@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coi
-* %date-modified --> 2024-12-06
+* %date-modified --> 2025-01-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -75,7 +75,7 @@ W
         pox take you!
     ==
     --
-    Read _(1)hi(u/)_ [[hiu1]]; [[**see $啋hiu1**]].
+    [[...]]
     --
   ====
 E
