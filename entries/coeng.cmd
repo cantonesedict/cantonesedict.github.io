@@ -1726,9 +1726,9 @@ W
   ====
   - [[Page~567 (4)詳]]
     ==
-    - To examine carefully, to learn and report upon, to inquire fully into;
-    - to discourse upon, to reason upon;
-    - to state the circumstances, to minutely narrate;
+    - To examine carefully, to learn and report upon, to inquire fully into [[Kangxi: 審議也]];
+    - to discourse upon [[Kangxi: 論也]], to reason upon [[Kangxi: 諟也]];
+    - to state the circumstances, to minutely narrate [[Kangxi: 詳言之也, 詳悉也]];
     - the detail, the particulars, the facts, the arguments;
     - minutely, fully;
     - _(4)ts(')(e/)ung (5)h(a/)_
