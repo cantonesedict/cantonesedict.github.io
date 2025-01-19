@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2024-12-22
+* %date-modified --> 2025-01-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -113,11 +113,15 @@ F
 W
   ====
   - [[Page~36|n79 (1)倡]]
-    ==
-    - [[See $倡coeng3 for "lead" senses]];
-    - used for the last [[$猖1]] and next [[$娼1]];
-    - [[...]].
-    ==
+    --
+    [[Reading variation. **See $倡coeng3 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 娼. **See $娼coeng1 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 猖. **See $猖coeng1 for the canonical entry.**]]
+    --
   ====
 S
   ==
@@ -835,7 +839,7 @@ W
   ====
   - [[Page~36|n79 (1)倡 _(1)Ch(')(e/)ung_ (coeng1); here normalised to _Ch(')(e/)ung(3)_ (coeng3)]]
     ==
-    - To lead, to go before, to seduce or induce;
+    - To lead, to go before [[Kangxi: 倡發歌句也]], to seduce or induce;
     - a leader;
     - an example, a guide;
     - [[...]];
