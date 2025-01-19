@@ -771,12 +771,12 @@ W
   ====
   - [[Page~34|n77 (2)長]]
     ==
-    - Old, senior, superior, greater;
-    - to excel, to increase;
-    - to grow, to extend, to advance;
+    - Old, senior, superior, greater [[Kangxi: 長雄長之長]];
+    - to excel, to increase [[Kangxi: 進也]];
+    - to grow [[Kangxi: 生長也]], to extend, to advance;
     - to prosper;
     - to elevate, to think highly of;
-    - an elder, a superior;
+    - an elder [[Kangxi: 齒高也]], a superior [[Kangxi: 位高也]];
     - _(2)p(o\) (2)ch(e/)ung_
         [[bou2 zoeng2 保長]],
         a constable;
@@ -1607,14 +1607,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - The reading _ch(e/)ung(6)_ (zoeng6) for 長 is not present in Williams;
-    an entry is included here for completeness.
-    ++
-    1. Excess or surplus.
-    ++
-  ==
+P
+  ++
+  1. Excess or surplus (Kangxi: 餘也, 多也宂也剰也).
+  ++
 S
   ==
   - $長coeng4

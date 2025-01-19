@@ -1769,10 +1769,10 @@ W
   ====
   - [[Page~36|n79 (4)長]]
     ==
-    - Long in time or distance, far off;
-    - constantly, regularly;
+    - Long in time [[Kangxi: 久也]] or distance [[Kangxi: 短之對也]], far off [[Kangxi: 遠也]];
+    - constantly, regularly [[Kangxi: 常也]];
     - always, continual;
-    - superiors;
+    - superiors [[Kangxi: 長弟猶云先後也]];
     - skilled, used to, practiced;
     - direct, straight;
     - the 168th~radical;
