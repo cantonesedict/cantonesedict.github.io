@@ -278,14 +278,14 @@ W
   ====
   - [[Page~591 (2)棌]]
     ==
-    - A sort of tree, whose wood is hard and durable,
+    - A sort of tree [[Kangxi: 槲也]], whose wood is hard and durable,
       like that of the chestnut or locust.
     ==
   ====
 C
   ==
   - The reading _(2)ts(')oi_ (coi2) is not unattested;
-    Kangxi quotes 《集韻》《韻會》《正韻》{𠀤=⿱夶一}此宰切音采.
+    Kangxi has 《集韻》《韻會》《正韻》{𠀤=⿱夶一}此宰切音采.
   ==
 $$
 
