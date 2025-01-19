@@ -442,7 +442,7 @@ W
   ====
   - [[Page~591 塞(3)]]
     ==
-    - A boundary, a frontier, a limit;
+    - A boundary, a frontier, a limit [[Kangxi: 邊界也]];
     - _ch(')ut(7) ts(')oi(3)_
         [[ceot1 coi3 出塞]]
         to travel abroad;
