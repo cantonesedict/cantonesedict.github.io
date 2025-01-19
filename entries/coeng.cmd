@@ -740,12 +740,17 @@ W
   ====
   - [[Page~567 (1)鏘]]
     ==
-    - The sound of stones, bells and drums;
-    - a noise;
+    - The sound of stones, bells and drums [[Kangxi: 玉聲也一曰樂聲]];
+    - a noise [[Kangxi: 鏘聲也]];
     - a tinkling;
     - _(1)hang (1)ts(')(e/)ung_
         [[hang1 coeng1 鏗鏘]],
         the ring of metallic things.
+    ==
+  - [[Page~567 (1)鎗]]
+    ==
+    - Interchanged with the last [[鏘]];
+    - [[...]].
     ==
   ====
 $$
