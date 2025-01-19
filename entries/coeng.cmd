@@ -1198,7 +1198,6 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
-- $償4
 - $場4
 - $塲4
 - $墻4
@@ -1218,33 +1217,7 @@ $$
 </nav>
 <## /tone-4-characters ##>
 
-### 償4 | _(4)Ch(')(e/)ung_ [[coeng4]]
-
-$$.
-R
-  ⼈ + 15
-U
-  U+511F
-F
-  ==
-  - [[F1.91 償]] ::[賠]償還也酬也報也::
-  ==
-W
-  ====
-  - [[Page~37|n80 (4)償]]
-    --
-    Correctly read _(4)sh(e/)ung_ [[soeng4]]. [[**See $償soeng4 for the canonical entry.**]] [[TODO]]
-    --
-  ====
-C
-  ==
-  - Fan Wan entry: Corrected ⿰貝音 to 賠.
-  ==
-S
-  ==
-  - $償soeng4 (TODO)
-  ==
-$$
+<## TODO: 償 soeng4 ##>
 
 ###+ 場4 | _(4)Ch(')(e/)ung_ (coeng4)
 
