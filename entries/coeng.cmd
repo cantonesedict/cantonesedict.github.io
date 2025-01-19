@@ -441,7 +441,7 @@ W
   - [[Page~593 (1)瑲 _(1)Ts(')ong_ (cong1); here corrected to _(1)Ts(')(e/)ung_ (coeng1)]]
     ==
     - [[...]];
-    - a musical sound;
+    - a musical sound [[Kangxi: 玉聲也, 一曰樂聲]];
     - _(1)[ts(')(e/)ung] (1)[ts(')(e/)ung]_
         [[coeng1 coeng1 瑲瑲]],
         the jingling of stones.

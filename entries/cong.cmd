@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cong
-* %date-modified --> 2024-12-15
+* %date-modified --> 2025-01-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -211,15 +211,10 @@ W
   ====
   - [[Page~593 (1)瑲]]
     ==
-    - Color of gems;
-    - [[see $瑲coeng1 for onomatopoeic senses]].
+    - Color of gems [[Kangxi: 玉色]];
+    - [[...]].
     ==
   ====
-C
-  ==
-  - Strictly, the reading _(1)ts(')ong_ (cong1) is for the "gem-colour" sense only;
-    Kangxi quotes 又《類篇》千剛切音蒼玉色.
-  ==
 S
   ==
   - $瑲coeng1
