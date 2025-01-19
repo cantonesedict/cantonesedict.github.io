@@ -677,7 +677,7 @@ W
     ==
     - A long day [[Kangxi: 日長也]];
     - bright [[Kangxi: 明久也]], thorough [[Kangxi: 通也]], extended [[Kangxi: 舒也]];
-    - ~~filled.~~
+    - [[...]].
     ==
   ====
 S

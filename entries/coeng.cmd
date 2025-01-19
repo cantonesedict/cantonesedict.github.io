@@ -1047,11 +1047,11 @@ W
   ====
   - [[Page~37|n80 暢(3)]]
     ==
-    - The inner qualities developing;
-    - penetrating, thorough, spreading;
-    - to fill;
+    - ~~The inner qualities developing;~~
+    - penetrating, thorough, spreading [[Kangxi: 通暢又達也]];
+    - to fill [[Kangxi: 暢充也]];
     - joyous, contented, in good spirits;
-    - remote, long;
+    - remote, long [[Kangxi: 長也]];
     - exhilirating;
     - joy;
     - _ch(')(e/)ung(3) (u:)t(9)_
@@ -1071,13 +1071,16 @@ W
     --
     Interchanged with 暢 [[Kangxi 昶: 昶與暢同]].
     --
-    --
-    [[...]]
-    --
+    ==
+    - [[...]];
+    - filled.
+    ==
   ====
 C
   ==
   - Fan Wan entry: Corrected 逹 to 達.
+  - Williams' "The inner qualities developing":
+    This is a misreading of a Kangxi 《易坤卦》美在其中而暢於四支《疏》有美在中必通暢於外 as a definition, when it is actually an example.
   ==
 E
   ====
