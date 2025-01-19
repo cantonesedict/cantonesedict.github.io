@@ -385,12 +385,22 @@ W
   ====
   - [[Page~36|n79 (1)猖]]
     ==
-    -  A herd of animals fleeing;
+    -  ~~A herd of animals fleeing;~~
     -  _(1)ch(')(e/)ung (4)kw(')ong_
         [[coeng1 kwong4 猖狂]],
-        ungovernable, unrestrained.
+        ungovernable, unrestrained [[Kangxi: 猖狂]].
+    ==
+  - [[Page~36|n79 (1)倡]]
+    ==
+    - [[...]];
+    - used for the last [[猖]] [[Kangxi 倡: 亦作猖]] [[...]];
+    - [[...]].
     ==
   ====
+C
+  ==
+  - Williams' "A herd of animals fleeing": This is a misreading of Kangxi 狂駭也.
+  ==
 $$
 
 ###+ 瑲1 | _(1)Ts(')(e/)ung_ (coeng1)
