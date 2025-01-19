@@ -626,9 +626,9 @@ W
   ====
   - [[Page~567 (1)蹌]]
     ==
-    - To walk rapidly;
-    - to move towards a superior quickly;
-    - to gambol, to skip about.
+    - To walk rapidly [[Kangxi: 恐動趨步, 蹌巧趨貌]];
+    - to move towards a superior quickly [[Kangxi: 士大夫之威儀也]];
+    - to gambol, to skip about [[Kangxi: 舞貌]].
     ==
   ====
 $$
