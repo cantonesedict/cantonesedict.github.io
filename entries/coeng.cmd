@@ -215,6 +215,10 @@ R
   ⼿ + 10
 U
   U+6436
+A
+  ==
+  - $槍1
+  ==
 F
   ==
   - [[F1.89 搶]] 拒也
@@ -231,7 +235,19 @@ W
         [[ji5 tau4 coeng1 dei6 以頭搶地]]
         to knock the head against the ground.
     ==
+  - [[Page~567 (1)槍; here normalised to 搶]]
+    ==
+    - [[...]];
+    - to bow the head low [[Kangxi 槍: 抵也]];
+    - [[...]].
+    ==
   ====
+C
+  ==
+  - Williams' "to bow the head low": Better rendered "to knock".
+    Bowing of the head is merely the specific case of
+    knocking the head against the ground (頭槍地, per the example in Kangxi).
+  ==
 S
   ==
   - $搶coeng2
@@ -327,10 +343,10 @@ W
   ====
   - [[Page~567 (1)槍]]
     ==
-    - Interchanged with the last [[$鎗1]];
-    - a spear, sharp at both ends;
+    - Interchanged with the last [[鎗]];
+    - a spear, sharp at both ends [[Kangxi: 木兩頭銳也]];
     - a lance, a boarding-pike;
-    - to bow the head low;
+    - [[...]];
     - _(1)ts(')(e/)ung f(a/)t(8)_
         [[coeng1 faat3 槍法]]
         the hand manual;
@@ -342,6 +358,9 @@ W
         to give a back thrust when unhorsed,
         to leave in the lurch, to outwit.
     ==
+    --
+    [[Otherwise, an alternative form of 搶. **See $搶coeng1 for the canonical entry.**]]
+    --
   ====
 S
   ==
