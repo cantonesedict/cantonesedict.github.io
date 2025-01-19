@@ -223,10 +223,10 @@ W
   ====
   - [[Page~567 (1)搶]]
     ==
-    - To defend, to withstand;
-    - to thrust at;
-    - to rush against;
-    - a comet;
+    - To defend, to withstand [[Kangxi: 拒也]];
+    - to thrust at [[Kangxi: 搶猶刺也]];
+    - to rush against [[Kangxi: 突也]];
+    - [[...]];
     - _(5)(i/) (4)t(')au (1)ts(')(e/)ung t(i/)(6)_
         [[ji5 tau4 coeng1 dei6 以頭搶地]]
         to knock the head against the ground.
@@ -343,6 +343,10 @@ W
         to leave in the lurch, to outwit.
     ==
   ====
+S
+  ==
+  - $槍caang1
+  ==
 $$
 
 ### 牕1 | _(1)Ch(')(e/)ung_ [[coeng1]]
@@ -781,9 +785,9 @@ W
   ====
   - [[Page~568 (2)搶]]
     ==
-    - To take, to extort, to force away, to ravish, to snatch;
+    - To take, to extort, to force away, to ravish, to snatch [[Kangxi: 爭取也]];
     - to dispute for, to struggle for;
-    - sudden, abrupt, rude;
+    - ~~sudden, abrupt, rude;~~
     - to rob, as bands do;
     - _(2)ts(')(e/)ung p(a/)k(9) (2)k(i/) k(u:)(3)_
         [[coeng2 baak6 gei2 geoi3 搶白幾句]]
@@ -810,6 +814,7 @@ W
   ====
 C
   ==
+  - Williams' "sudden, abrupt, rude": This is a misreading of Kangxi 突也.
   - Williams' 搶炮頭: Corrected _p(')au(3)_ (pau3) to _p(')(a/)u(3)_ (paau3).
   ==
 S

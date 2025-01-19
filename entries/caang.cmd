@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caang
-* %date-modified --> 2025-01-02
+* %date-modified --> 2025-01-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -47,6 +47,7 @@ $$
 - $掙1
 - $撐1
 - $撑1
+- $槍1
 - $橕1
 - $罉1
 - $鐺1
@@ -157,6 +158,34 @@ W
 S
   ==
   - $撑caang3
+  ==
+$$
+
+###+ 槍1 | _(1)Ch(')(a/)ng_ (caang1)
+
+$$
+R
+  ⽊ + 10
+U
+  U+69CD
+A
+  ==
+  - 搶
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~567 (1)搶 _(1)Ts(')(e/)ung_ (coeng1); here corrected to _(1)Ch(')(a/)ng_ (caang1) and normalised to 槍]]
+    ==
+    - [[...]];
+    - a comet [[Kangxi 搶: 欃槍或作攙搶彗星也]];
+    - [[...]].
+    ==
+  ====
+S
+  ==
+  - $槍coeng1
   ==
 $$
 
