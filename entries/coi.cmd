@@ -163,7 +163,7 @@ W
     ==
     - Variegated, mixed or ornamented with different colors;
     - elegant, gay, colored;
-    - beautiful, as the figures in silks or gems;
+    - beautiful, as the figures in silks or gems [[Kangxi: 文章也]];
     - lucky, pleased;
     - _(1)kwong (2)ts(')oi_
         [[gwong1 coi2 光彩]],
@@ -200,10 +200,12 @@ W
         [[ng5 coi2 五彩]],
         variegated, colored.
     ==
+    --
+    [[Otherwise, an alternative form of 綵. **See $綵coi2 for the canonical entry.**]]
+    --
   ====
 C
   ==
-  - Also used for $綵coi2.
   - Williams' 起個彩: Corrected _kwo(3)_ (gwo3) to _ko(3)_ (go3).
   ==
 E
