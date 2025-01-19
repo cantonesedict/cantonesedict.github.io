@@ -146,9 +146,15 @@ F
   ==
 W
   ====
+  - [[Page~36|n79 (1)倡]]
+    ==
+    - [[...]];
+    - used for the [[...]] next [[娼]] [[Kangxi 倡: 別作娼]];
+    - [[...]].
+    ==
   - [[Page~36|n79 (1)娼]]
     ==
-    - A singing woman;
+    - A singing woman [[Kangxi 倡: ::倡優女樂[...]別作娼::]];
     - a courtesan;
     - _(1)ch(')(e/)ung (4)m(u/)n_
         [[coeng1 mun4 娼門]],
