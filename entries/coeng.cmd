@@ -1481,8 +1481,8 @@ W
   ====
   - [[Page~568 (4)牆(4)墻]]
     ==
-    - A wall made of stone, brick, or mud;
-    - a defense or wall;
+    - A wall made of stone, brick, or mud [[Kangxi: 垣蔽也, 牆謂之墉]];
+    - a defense or wall [[Kangxi: 牆所以防非常]];
     - _(1)ch(u:)n (4)ts(')(e/)ung_
         [[zyun1 coeng4 磚牆]],
         a brick wall;
