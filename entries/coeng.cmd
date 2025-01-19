@@ -282,16 +282,16 @@ W
   ====
   - [[Page~35|n78 (1)昌]]
     ==
-    - Light of the sun;
-    - fine words;
-    - elegant, flourishing, prosperous;
+    - Light of the sun [[Kangxi: 一曰日光也]];
+    - fine words [[Kangxi: 美言也]];
+    - elegant, flourishing, prosperous [[Kangxi: 盛也, 昌盛壯貌]];
     - increasing in wealth or peace;
     - powerful;
     - effulgent;
-    - good;
+    - good [[Kangxi: 當也, 昌狡好貌]];
     - rich, affluent;
     - to increase;
-    - to illuminate a thing;
+    - ~~to illuminate~~ a thing [[Kangxi: 物也]];
     - _(1)ch(')(e/)ung shing(6)_
         [[coeng1 sing6 昌盛]]
         prosperous, well-off;
