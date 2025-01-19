@@ -550,10 +550,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Alternative form of 窗. **See $窗coeng1 for the canonical entry.**
-  ==
+P
+  ++
+  1. Alternative form of 窗. **See $窗coeng1 for the canonical entry.**
+  ++
 $$
 
 ### 菖1 | _(1)Ch(')(e/)ung_ [[coeng1]]
