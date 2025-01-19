@@ -1180,7 +1180,7 @@ W
   ====
   - [[Page~37|n80 鬯(3)]]
     ==
-    - Sacrificial spirits, made by infusing millet and fragrant herbs;
+    - Sacrificial spirits, made by infusing millet and fragrant herbs [[Kangxi: ::以秬釀{𩰪=⿳⿴𦥑缶冖⿰鬯彡}艸芬芳[條暢]以降神也::, 鬯香酒奉宗廟之盛也]];
     - mixed wine;
     - _k(u:)(6) ch(')(e/)ung(3)_
         [[geoi6 coeng3 秬鬯]]
