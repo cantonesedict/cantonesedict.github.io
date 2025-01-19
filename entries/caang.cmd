@@ -51,6 +51,7 @@ $$
 - $槍1
 - $橕1
 - $罉1
+- $鎗1
 - $鐺1
 ==
 </nav>
@@ -253,8 +254,35 @@ W
   [[Not present]]
 P
   ++
-  1. Alternative form of 鐺. **See $鐺caang1 for the canonical entry.**
+  1. Alternative form of 鐺 (for the vernacular "pot" sense). **See $鐺caang1 for the canonical entry.**
   ++
+$$
+
+###+ 鎗1 | _(1)Ch(')(a/)ng_ (caang1)
+
+$$
+R
+  ⾦ + 10
+U
+  U+9397
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~567 (1)鎗 _(1)Ts(')(e/)ung_ (coeng1); here corrected to _(1)Ch(')(a/)ng_ (caang1)]]
+    ==
+    - [[...]];
+    - the tinkle of bells, a jingling sound [[Kangxi: 鐘聲也]];
+    - [[...]];
+    ==
+    --
+    [[Otherwise, an alternative form of 鐺. **See $鐺caang1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $鎗coeng1
+  ==
 $$
 
 ###+ 鐺1 | _(1)Ch(')(a/)ng_ (caang1)
@@ -266,7 +294,8 @@ U
   U+943A
 A
   ==
-  - $罉1
+  - $罉1 [[for vernacular "pot" sense]]
+  - $鎗1
   ==
 V
   ==
@@ -275,7 +304,14 @@ V
 F
   [[Not present]]
 W
-  [[Not present]]
+  ====
+  - [[Page~567 (1)鎗 _(1)Ts(')(e/)ung_ (coeng1); here corrected to _(1)Ch(')(a/)ng_ (caang1) and normalised to 鐺]]
+    ==
+    - [[...]];
+    - a sort of pot [[Kangxi 鐺: 釜屬, 鬴有足曰鐺]] to hold spirits [[Kangxi 鐺: 三足溫酒器也]];
+    - [[...]];
+    ==
+  ====
 E
   ====
   - 【鐺】 (caang1):
@@ -310,10 +346,13 @@ E
   ==
   - The original character is 鎗, read _(1)ch(')ang_ (cang1),
     meaning a pot with legs.
-  - Later, 鐺 (otherwise read _(1)tong_ (dong1), an onomatopoeia for bells),
-    is used vulgarly for 鎗.
+  - Later, 鐺 is used vulgarly for 鎗.
   - Later, the character 罉 is created for the Cantonese vernacular sense
     of flat-bottomed pot.
+  ==
+S
+  ==
+  - $鐺dong1 (TODO)
   ==
 $$
 

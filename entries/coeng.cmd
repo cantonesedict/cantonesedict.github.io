@@ -360,6 +360,9 @@ W
         to leave in the lurch, to outwit.
     ==
     --
+    [[Alternative form of 鎗. See $鎗coeng1.]]
+    --
+    --
     [[Otherwise, an alternative form of 搶. **See $搶coeng1 for the canonical entry.**]]
     --
   ====
@@ -685,8 +688,7 @@ W
   ====
   - [[Page~567 (1)鎗]]
     ==
-    - Interchanged with the last [[$鏘1]];
-    - [[see $鎗caang1 for "bell-sound" and "pot" senses]];
+    - [[...]];
     - a gun;
     - a spear;
     - _[(5)]ni(u/) (1)ts(')(e/)ung_
@@ -702,10 +704,20 @@ W
         [[fung1 coeng1 風鎗]]^
         an air-gun.
     ==
+    --
+    [[Alternative form of 槍. See $槍coeng1.]]
+    --
+    --
+    [[Otherwise, an alternative form of 鏘. **See $鏘coeng1 for the canonical entry.**]]
+    --
   ====
 C
   ==
   - Williams' 鳥鎗: Corrected _(2)ni(u/)_ (niu2) to _(5)ni(u/)_ (niu5).
+  ==
+S
+  ==
+  - $鎗caang1
   ==
 $$
 
