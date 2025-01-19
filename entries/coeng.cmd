@@ -1702,7 +1702,7 @@ W
         the cinnamon rose.
     ==
     --
-    Also read _sik(7)_ [[sik1]] [[**see $薔sik1**]].
+    [[...]]
     --
   ====
 S
