@@ -55,7 +55,6 @@ $$
 - $艙1
 - $蒼1
 - $䚎1
-- $鯧1
 - $䱽1
 - $鶬1
 ==
@@ -396,28 +395,6 @@ S
   ==
 $$
 
-### 鯧1 | _(1)Ts(')ong_ [[cong1]]
-
-$$.
-R
-  ⿂ + 8
-U
-  U+9BE7
-F
-  [[Not present]]
-W
-  ====
-  - [[Page~594 (1)鯧(1)䱽]]
-    --
-    [[Alternative form of 䱽. **See $䱽cong1 for the canonical entry.**]]
-    --
-  ====
-S
-  ==
-  - $鯧coeng1
-  ==
-$$
-
 ### 䱽1 | _(1)Ts(')ong_ [[cong1]]
 
 $$
@@ -427,7 +404,7 @@ U
   U+4C7D
 A
   ==
-  - $鯧1
+  - 鯧
   ==
 F
   ==
@@ -459,9 +436,15 @@ W
     ==
   ====
 C
-  ==
+  ====
+  - Effectively, 鯧 and 䱽 are the same semantic word "pomfret", but:
+    ==
+    - 鯧 is classical with reading _(1)ch(')(e/)ung_ (coeng1)
+      (see $鯧coeng1); and
+    - 䱽 is vernacular with reading _(1)ts(')ong_ (cong1).
+    ==
   - Williams' 黃鱲䱽: Changed _lap(9)_ (lap6) to longer syllable _l(a/)p(9)_ (laap6).
-  ==
+  ====
 $$
 
 ### 鶬1 | _(1)Ts(')ong_ [[cong1]]

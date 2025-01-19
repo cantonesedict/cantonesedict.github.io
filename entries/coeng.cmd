@@ -798,7 +798,7 @@ C
   ====
   - Effectively, 鯧 and 䱽 are the same semantic word "pomfret", but:
     ==
-    - 鯧 is classically attested with reading _(1)ch(')(e/)ung_ (coeng1); and
+    - 鯧 is classical with reading _(1)ch(')(e/)ung_ (coeng1); and
     - 䱽 is vernacular with reading _(1)ts(')ong_ (cong1)
       (see $䱽cong1).
     ==
@@ -807,10 +807,6 @@ P
   ++
   1. The pomfret (Kangxi: 鯧鯸魚名, 閩人譌爲䱽魚).
   ++
-S
-  ==
-  - $鯧cong1
-  ==
 $$
 
 
