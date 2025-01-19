@@ -1597,7 +1597,7 @@ W
   ====
   - [[Page~36|n79 (4)腸]]
     ==
-    - The bowels;
+    - The bowels [[Kangxi: 大小腸藏府之二名也]];
     - the intestines;
     - tripe;
     - _met._ the feelings, the affections;
@@ -1655,7 +1655,7 @@ E
   ====
 S
   ==
-  - Williams' 牛腸: Only tripe in the sense of entrails (specifically intestine).
+  - Williams' "tripe", 牛腸: Only tripe in the sense of entrails (specifically the intestines).
   ==
 $$
 
