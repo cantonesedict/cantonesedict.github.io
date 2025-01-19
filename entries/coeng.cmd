@@ -1359,7 +1359,7 @@ W
   ====
   - [[Page~568 (4)嬙]]
     ==
-    - Female officers in the imperial hareem;
+    - Female officers in the imperial hareem [[Kangxi: 嬪嬙婦官名]];
     - _pan(3) (4)ts(')(e/)ung_
         [[ban3 coeng4 嬪嬙]],
         a lady of the bedchamber.
