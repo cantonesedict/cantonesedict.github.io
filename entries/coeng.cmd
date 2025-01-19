@@ -571,7 +571,7 @@ W
   ====
   - [[Page~36|n79 (1)菖]]
     ==
-    - The flag _(Acorus)_;
+    - The flag _(Acorus)_ [[Kangxi: 菖蒲蒲類之昌盛者]];
     - _(1)ch(')(e/)ung (4)p(')(o\)_
         [[coeng1 pou4 菖蒲]],
         sweet flag, hung on door lintels to drive away maleficent influences.
