@@ -956,9 +956,9 @@ W
   ====
   - [[Page~37|n80 唱(3)]]
     ==
-    - To sing in recitative;
+    - To sing in recitative [[Kangxi: 發歌也]];
     - to cry out, to give the word;
-    - to lead, to conduct, as singing;
+    - to lead, to conduct, as singing [[Kangxi: 導也]];
     - to crow;
     - _(1)ts(')ing ch(')(e/)ung(3)_
         [[cing1 coeng3 清唱]]
