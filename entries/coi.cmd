@@ -472,7 +472,7 @@ W
   ====
   - [[Page~591 菜(3)]]
     ==
-    - Vegetables, edible herbs, greens;
+    - Vegetables, edible herbs, greens [[Kangxi: 草之可食者, 蔬也]];
     - food, viands;
     - _(2)h(o\) ts(')oi(3)_
         [[hou2 coi3 好菜]]
@@ -485,13 +485,13 @@ W
         dishes on the table, not rice;
     - _ts(')oi(3) shik(7)_
         [[coi3 sik1 菜色]]
-        lank, half starved, like one who has lived on greens;
+        lank, half starved, like one who has lived on greens [[Kangxi: 食菜之饑色]];
     - _h(u:)(3) (5)m(a/)i ts(')oi(3)_
         [[heoi3 maai5 coi3 去買菜]]
         gone to market;
     - _p(a/)k(8) ts(')oi(3)_
         [[baak6 coi3 白菜]]
-        broccoli, the pehtsai [[白菜]];
+        ~~broccoli~~, the pehtsai [[白菜]];
     - _(4)h(a/)m ts(')oi(3)_
         [[haam4 coi3 鹹菜]]
         sour crout;
@@ -524,7 +524,6 @@ W
   ====
 C
   ==
-  - Williams' 白菜: Not broccoli, but the bok-choy.
   - Williams' 生菜: Changed _(1)shang_ (sang1)
     to vernacular reading _(1)sh(a/)ng_ (saang1).
   ==
