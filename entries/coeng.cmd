@@ -1238,8 +1238,8 @@ W
   ====
   - [[Page~37|n80 (4)塲; here normalised to 場]]
     ==
-    - An arena, an area, a lot, a field;
-    - an altar, a sacrificial ground;
+    - An arena [[Kangxi 場: 戰爭之地曰戰場]], an area, a lot, a field [[Kangxi 場: 收禾圃曰場]];
+    - an altar, a sacrificial ground [[Kangxi 場: 祭神道也]];
     - a playhouse;
     - the society of, a company;
     - a classifier of affairs;
