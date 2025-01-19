@@ -1526,8 +1526,8 @@ W
   ====
   - [[Page~567 (4)祥]]
     ==
-    - Happiness, felicity, fortune, goodness;
-    - an omen, a sign, a prognostic;
+    - Happiness, felicity, fortune [[Kangxi: 福也]], goodness [[Kangxi: 一云善也]];
+    - an omen, a sign, a prognostic [[Kangxi: 凡吉凶之兆皆曰祥, 祥詳也, 祥者善惡之徵]];
     - _(4)ts(')(e/)ung sui(6)_
         [[coeng4 seoi6 祥瑞]]
         lucky omens;
@@ -1538,7 +1538,7 @@ W
         and
       _t(a/)i(6) (4)ts(')(e/)ung_ [[daai6 coeng4 大祥]],
         are the sacrifices to ancestors at the end of one and two years,
-        when the mourning is altered;
+        when the mourning is altered [[Kangxi: 祭名 etc.]];
     - _pat(7) (4)ts(')(e/)ung (1)ch(i/) [shi(u/)](6)_
         [[bat1 coeng4 zi1 siu6 不祥之兆]]
         a most unlucky omen;
