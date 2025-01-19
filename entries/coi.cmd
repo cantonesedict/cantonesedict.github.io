@@ -359,6 +359,10 @@ R
   ⾤ + 1
 U
   U+91C7
+A
+  ==
+  -{.modern} 埰 (for "fief" sense)
+  ==
 V
   ==
   - coi3 (alternative for "fief" sense)
@@ -374,10 +378,10 @@ W
     To be distinguished from 釆 _p(i/)n(6)_ [[bin6]] to divide.
     --
     ==
-    - To pluck, to choose, to take with the hand;
-    - variegated, adorned with colors;
-    - cities allotted to officers for revenue;
-    - in these senses the three next [[$採2, $寀2, $彩2]] are used;
+    - To pluck, to choose, to take with the hand [[Kangxi: 捋取也, 擇也]];
+    - variegated, adorned with colors [[Kangxi: 采色, 物采]];
+    - cities allotted to officers for revenue [[Kangxi: 采地]];
+    - in these senses the three next [[採, 寀, 彩]] are used;
     - a business, an employment;
     - _(2)ts(')oi yap[(7)]_
         [[coi2 jap1 采邑]],
@@ -386,22 +390,25 @@ W
         [[naap6 coi2 納采]],
         to choose and send the betrothal presents.
     ==
+    --
+    [[Alternative form of 寀, 彩, and 採. See $寀coi2, $彩coi2, and $採coi2.]]
+    --
   ====
 C
   ==
   - Note that the "fief" sense is recorded in Kangxi
-    under both rising _(2)ts(')oi_ (coi2) and departing _ts(')oi(3)_ (coi3):
+    under *both* rising _(2)ts(')oi_ (coi2) and departing _ts(')oi(3)_ (coi3):
     """"
-    ::K. (:采:) 《唐韻》(:倉宰切:)《集韻》《韻會》(:此宰切{𠀤=⿱夶一}音採:)[...]\
-    又官也\
-    《書堯典》帝曰疇咨若予采《傳》采事也馬云官也\
-    《禮明堂位》九采之國《疏》各掌當州諸侯之事　\
+    ::K. (:采:) 《唐韻》(:倉宰切:)《集韻》《韻會》(:此宰切{𠀤=⿱夶一}音採:)[...]^\
     (:又采地:)《禮禮運》大夫有采以處其子孫《前漢地理志》大夫韓武子食采於韓原[...]^\
     (:又:)《韻會》《正韻》(:{𠀤=⿱夶一}倉代切音菜臣食邑:)\
     《周禮天官八則註》公卿大夫采邑音菜\
     《孟子元士受地視子男註》所受采地之制音菜\
     《前漢食貨志註》采官也因官食地故曰采地[...]::
     """"
+    Prescription of the departing-tone reading _ts(')oi(3)_ (coi3)
+    is a result of zealously following 《廣韻》,
+    which only has the departing reading 倉代切 for the alternative form 埰.
   - Williams' 采邑: Corrected _yap(9)_ (jap6) to _yap(7)_ (jap1).
   ==
 $$
