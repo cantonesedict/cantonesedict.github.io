@@ -636,6 +636,10 @@ W
     - [[...]].
     ==
   ====
+S
+  ==
+  - $蹌coeng3
+  ==
 $$
 
 ### 蹡1 | _(1)Ts(')(e/)ung_ [[coeng1]]
@@ -862,6 +866,7 @@ $$
 - $悵3
 - $昶3
 - $暢3
+- $蹌3
 - $蹡3
 - $韔3
 - $鬯3
@@ -1063,6 +1068,27 @@ E
   ====
 $$
 
+###+ 蹌3 | _Ts(')(e/)ung(3)_ (coeng3)
+
+$$.
+R
+  ⾜ + 10
+U
+  U+8E4C
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 蹡. **See $蹡coeng3 for the canonical entry.**
+  ++
+S
+  ==
+  - $蹌coeng1
+  ==
+$$
+
 ###+ 蹡3 | _Ts(')(e/)ung(3)_ (coeng3)
 
 $$
@@ -1070,6 +1096,10 @@ R
   ⾜ + 11
 U
   U+8E61
+A
+  ==
+  -{.modern} $蹌3
+  ==
 F
   [[Not present]]
 W
