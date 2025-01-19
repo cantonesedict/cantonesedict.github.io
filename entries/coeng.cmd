@@ -253,9 +253,9 @@ W
   ====
   - [[Page~567 (1)斨]]
     ==
-    - A sort of broad-ax;
-    - a pole-ax made square, a bill;
-    - to hack, to chop;
+    - A sort of broad-ax [[Kangxi: 斨卽斧也]];
+    - a pole-ax made square, a bill [[Kangxi: 方銎斧也]];
+    - to hack, to chop [[Kangxi: 斨戕也]];
     - _(4)Sh(u:) (1)ts(')(e/)ung_
         [[syu4 coeng1 殳斨]],
         a statesman in the days of Shun [[舜]].
