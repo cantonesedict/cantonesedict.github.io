@@ -308,7 +308,7 @@ W
         a centipede [[Kangxi: 蝍蛆食蛇蜈蚣也]].
     ==
     --
-    [[Otherwise, a reading variation of the "maggot" sense. **See $蛆ceoi1 for the canonical entry.**]]
+    [[Otherwise, a reading variation. **See $蛆ceoi1 for the canonical entry.**]]
     --
   ====
 S

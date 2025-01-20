@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2024-12-19
+* %date-modified --> 2025-01-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -72,19 +72,14 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ====
-  - The reading _(1)ch(a/)_ (zaa1) for 吒 is not present in Williams;
-    an entry is included here for completeness.
-    ++
-    1. Used in mythological names.
-       ==
-       - 哪吒 (naa4 zaa1): "Nezha."
-       ==
-    1. Reading variation of _ch(a/)(3)_ (zaa3).
-       **See $吒zaa3 for the canonical entry.**
-    ++
-  ====
+P
+  ++
+  1. Used in mythological names.
+      ==
+      - 哪吒 (naa4 zaa1): "Nezha."
+      ==
+  1. Reading variation. **See $吒zaa3 for the canonical entry.**
+  ++
 S
   ==
   - $吒caa3
@@ -560,7 +555,7 @@ W
 C
   ==
   - The alternative reading zaa1 is not unattested;
-    Kangxi quotes 《玉篇》知加切《集韻》陟加切.
+    Kangxi has 《玉篇》知加切《集韻》陟加切.
   ==
 S
   ==
