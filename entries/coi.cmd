@@ -813,9 +813,9 @@ W
   ====
   - [[Page~590 (4)裁]]
     ==
-    - To make clothes, to cut out garments;
-    - to tear, to cut off;
-    - to moderate, to reduce, to deny, to diminish;
+    - To make clothes, to cut out garments [[Kangxi: 制衣也]];
+    - to tear, to cut off [[Kangxi: 裂也]];
+    - to moderate, to reduce, to deny, to diminish [[Kangxi: 節也]];
     - to guess, to plan;
     - to regulate;
     - _(4)ts(')oi (4)fung (2)l(o\)_
@@ -823,7 +823,7 @@ W
         a tailor;
     - _tsz'(6) (4)ts(')oi_
         [[zi6 coi4 自裁]],
-        suicide;
+        suicide [[Kangxi: 自裁自殺也]];
     - _(4)ts(')oi (1)(i/)_
         [[coi4 ji1 裁衣]],
         to cut out clothes;
@@ -838,6 +838,7 @@ W
   ====
 C
   ==
+  - Williams' "to regulate": Also to make rulings, to decide judicially.
   - Williams' 自裁: Literally, to "self-resolve".
   ==
 $$
