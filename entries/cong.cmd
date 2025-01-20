@@ -68,6 +68,10 @@ R
   ⼈ + 8
 U
   U+5009
+A
+  ==
+  - $蒼1 [[in 倉皇 spelt 蒼黃]]
+  ==
 V
   ==
   - cong2 (common in 倉卒)
@@ -100,13 +104,23 @@ W
         one bin or stall;
     - _(1)ts(')ong ts(')(u:)t(8)_
         [[cong1 cyut3 倉卒]]
-        ~~flurried, perturbed, alarmed~~.
+        flurried, ~~perturbed, alarmed~~.
+    ==
+  - [[Page~593 (1)蒼; here normalised to 倉]]
+    ==
+    - Occurs used for the last [[倉]], hastily;
+    - [[...]];
+    - _(1)ts(')ong (4)wong_
+        [[cong1 wong4 倉皇]],
+        hurried, flighty [[Kangxi 蒼: 蒼黃急遽貌]];
+    - [[...]].
     ==
   ====
 C
   ==
   - Williams' 一倉倉: Better rendered "individual bins".
-  - Williams' 倉卒: Not flurried etc., but hurried or hasty (Kangxi: 倉卒悤遽貌).
+  - Williams' 倉卒: Not perturbed or alarmed.
+    More hurried or hasty (Kangxi: 倉卒悤遽貌) than flurried.
   ==
 $$
 
@@ -335,13 +349,13 @@ W
   ====
   - [[Page~593 (1)蒼]]
     ==
-    - Occurs used for the last [[$倉1]], hastily;
-    - the green tint of plants, or the azure of the sky;
-    - flourishing, prospering;
-    - hoary, aged, old in service;
+    - [[...]];
+    - the green tint of plants [[Kangxi: 草色也]], or the azure of the sky;
+    - flourishing, prospering [[Kangxi: 茂也]];
+    - hoary, aged, old in service [[Kangxi: 老也]];
     - _(1)ts(')ong (4)t(')au_
         [[cong1 tau4 蒼頭]],
-        soldiers, so called from their green caps;
+        soldiers, so called from their green caps [[Kangxi: 蒼頭, 士卒靑帛巾]];
         an old slave;
     - _(1)ts(')ong (1)ts(')ong (2)ch(e/) (1)t(')(i/)n_
         [[cong1 cong1 ze2 tin1 蒼蒼者天]],
@@ -354,19 +368,15 @@ W
     - _(1)ts(')ong (1)shang_
         [[cong1 sang1 蒼生]]^
         the people, living things;
-    - _(1)ts(')ong (4)wong_
-        [[cong1 wong4 蒼黃]],
-        hurried, flighty;
+    - [[...]];
     - _(1)ts(')ing (1)ts(')ong_
         [[cing1 cong1 青蒼]],
         a greenish bluish color.
     ==
+    --
+    [[Otherwise, an alternative form of 倉 (in 倉皇 spelt 蒼黃). **See $倉cong1 for the canonical entry.**]]
+    --
   ====
-C
-  ==
-  - Williams' "used for the last":
-    Specifically, 蒼黃 is used for 倉皇, "hasty".
-  ==
 $$
 
 ###+ 䚎1 | _(1)Ch(')ong_ (cong1)
