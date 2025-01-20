@@ -473,7 +473,7 @@ W
   ====
   - [[Page~594 (1)鶬]]
     ==
-    - A kind of crane, plumage ashcolored, and cheeks red;
+    - A kind of crane [[Kangxi: 今呼鶬鴰, 鶬大如鶴]], plumage ashcolored [[Kangxi: 靑蒼色亦有灰色者]], and cheeks red [[Kangxi: 兩頰紅]];
     - _(1)ts(')ong [k(')(u/)t](8)_
         [[cong1 kut3 鶬鴰]]
         the black crane,
