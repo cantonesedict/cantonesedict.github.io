@@ -150,7 +150,7 @@ W
   ====
   - [[Page~28* (1)創(1)刅]]
     ==
-    - To wound, to cut and injure;
+    - To wound, to cut and injure [[Kangxi: 傷也]];
     - to butt, to gore;
     - a wound, a cut;
     - wounded, gashed;
@@ -785,7 +785,7 @@ W
   ====
   - [[Page~28* 創(3)刱(3)]]
     ==
-    - To begin, to invent;
+    - To begin, to invent [[Kangxi: 始也造也]];
     - to create, to found, to lay the foundation of;
     - to take measures for;
     - to reprove;
@@ -809,11 +809,14 @@ W
         [[cing4 cong3 懲創]]
         to blame.
     ==
+    --
+    [[Otherwise, a reading variation. **See $創cong1 for the canonical entry.**]]
+    --
   ====
 C
   ==
-  - Otherwise, a reading variation of the "wound/trauma" senses.
-    **See $創cong1 for the canonical entry.**
+  - Williams' "to reprove": Not necessarily to rebuke.
+    Here, Kangxi 懲也 is better interpreted as taking heed/warning.
   ==
 S
   ==
