@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2024-12-17
+* %date-modified --> 2025-01-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -502,7 +502,7 @@ W
     - to deceive [[Kangxi: 誑也]];
     - _ch(')(a/)(3) (i/)(6)_
         [[caa3 ji6 詫異]]
-        strange, foolish.
+        ~~strange, foolish~~.
     ==
   - [[Page~9|n52 吒(3)咤(3)]]
     --
@@ -514,7 +514,7 @@ W
   ====
 C
   ==
-  - Williams' 詫異: Better rendered "wonder" or "astonishment".
+  - Williams' 詫異: Not "strange" or "foolish", but "wonder" or "astonishment".
   ==
 $$
 

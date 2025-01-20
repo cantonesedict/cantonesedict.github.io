@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cang
-* %date-modified --> 2024-12-15
+* %date-modified --> 2025-01-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -123,7 +123,7 @@ W
         it is already done;
     - _(4)ho (4)ts(')ang_
         [[ho4 cang4 何曾]],
-        when will it be?
+        when ~~will it be~~?
     - _(4)ts(')ang k(i/)n(3)_
         [[cang4 gin3 曾見]]
         I have seen it;
@@ -135,7 +135,7 @@ W
 C
   ==
   - Williams' 唔曾: Dated.
-  - Williams' 何曾: Better rendered "when [did it] ever".
+  - Williams' 何曾: Better rendered "when was it".
   ==
 S
   ==

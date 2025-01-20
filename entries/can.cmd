@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2025-01-02
+* %date-modified --> 2025-01-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -340,8 +340,8 @@ W
     ==
     - ~~To divide fields;~~
     - to come before the gods [[Kangxi: 致也]];
-    - to announce ~~the emperor's coming~~;
-    - to die [[Kangxi: 殄也, 謂殄絕]];
+    - to announce ~~the emperor's coming~~ [[Kangxi: 吿也]];
+    - ~~to die~~;
     - a motive;
     - _(4)kw(')ai (2)ch(')an_
         [[kwai4 can2 畦畛]],
@@ -353,9 +353,8 @@ C
   - Williams' "To divide fields": This is a misreading of Kangxi 井田閒陌也,
     which refers to the roads that divide fields,
     rather than to the action of dividing fields.
-  - Williams' "to announce the emperor's coming": Kangxi merely has 吿也,
-    which is not specific to the emperor's coming.
-  - Williams' "to die": Better rendered "to exterminate".
+  - Williams' "to announce the emperor's coming": Not specific to the emperor's coming.
+  - Williams' "to die": Better rendered "to exterminate" (Kangxi: 殄也, 謂殄絕).
   ==
 $$
 
