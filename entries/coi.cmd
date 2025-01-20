@@ -859,10 +859,10 @@ W
   - [[Page~590 (4)財]]
     ==
     - Wealth, riches, valuables, property, possessions, goods,
-      whatever men can use;
-    - profits;
-    - bribes;
-    - presents;
+      whatever men can use [[Kangxi: 人所寶也, 可入用者也, etc.]];
+    - ~~profits;~~
+    - ~~bribes;~~
+    - presents [[Kangxi: 賂也]];
     - _(4)ts(')oi (2)ch(u:) (2)l(o\)_
         [[coi4 zyu2 lou2 財主佬]],
         a rich man;
@@ -901,6 +901,7 @@ W
   ====
 C
   ==
+  - Williams' "bribes": This is a misreading of Kangxi 賂也.
   - Williams' 財可以通神: Corrected _(2)(i/)_ (ji2) to _(5)(i/)_ (ji5).
   ==
 $$
