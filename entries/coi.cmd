@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coi
-* %date-modified --> 2025-01-19
+* %date-modified --> 2025-01-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -641,9 +641,8 @@ W
   ====
   - [[Page~590 (4)才]]
     ==
-    - Materials, stuff, or the substance of things,
-      for which the next [[$材4]] is used;
-    - talents, capacity, ability, powers;
+    - [[...]];
+    - talents, capacity, ability, powers [[Kangxi: 一曰能也, 質也力也]];
     - endowments, genius, gifts;
     - a person, a graduate;
     - _(4)ts(')oi (2)tsz'_
@@ -654,7 +653,8 @@ W
         literary talents;
     - _(1)s(a/)m (4)ts(')oi_
         [[saam1 coi4 三才]],
-        the three powers---are heaven, earth, man, who rule all things;
+        the three powers---are heaven, earth, man [[Kangxi: 天地人爲三才]],
+        who rule all things;
     - _yat(7) (2)pi(u/) (4)yan (4)ts(')oi_
         [[jat1 biu2 jan4 coi4 一表人才]],
         a fine looking man;
@@ -683,11 +683,13 @@ W
         [[hou2 hau2 coi4 好口才]],
         eloquent.
     ==
+    --
+    [[Otherwise, an alternative form of 材. **See $材coi4 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 纔. **See $纔coi4 for the canonical entry.**]]
+    --
   ====
-C
-  ==
-  - Also used for $纔coi4.
-  ==
 $$
 
 ### 材4 | _(4)Ts(')oi_ [[coi4]]
