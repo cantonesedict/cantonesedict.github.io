@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2025-01-02
+* %date-modified --> 2025-01-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -276,7 +276,7 @@ W
         still further;
     - _(2)ch(')(e/) m(a/)n(6)_
         [[ce2 maan6 且慢]]
-        by and by, presently;
+        ~~by and by, presently~~;
     - _(1)k(u/) (2)ch(')(e/)_ [[gu1 ce2 姑且]]^
         or
       _ts(a/)m(6) (2)ch(')(e/)_ [[zaam6 ce2 暫且]],
@@ -290,7 +290,7 @@ C
     whose reading is _(2)ch(')(e/)_ (ce2) per 《廣韻》昌者切.
     Notwithstanding, this is all academic given the initials _ts(')_ and _ch(')_ are now considered merged.
   - Williams' 且信且疑: Corrected _san(3)_ (san3) to _sun(3)_ (seon3).
-  - Williams' 且慢: More an imperative "slow down" or "hang on" than adverbial "soon" or "shortly".
+  - Williams' 且慢: Not an adverbial "soon" or "shortly", but an imperative "slow down" or "hang on".
   ==
 S
   ==

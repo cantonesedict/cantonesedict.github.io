@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2025-01-19
+* %date-modified --> 2025-01-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1034,12 +1034,12 @@ W
         rank, noisome, as bad fish;
     - _ch(')au(3) m(i/)(6)_
         [[cau3 mei6 臭味]]
-        a bad taste.
+        ~~a bad taste~~.
     ==
   ====
 C
   ==
-  - Williams' 臭味: More a bad smell than a bad taste.
+  - Williams' 臭味: Not a bad taste, but a bad smell.
   ==
 $$
 

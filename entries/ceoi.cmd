@@ -873,7 +873,7 @@ W
         the kingfisher's feathers;
     - _ts(')ui(3) shik(7)_
         [[ceoi3 sik1 翠色]]
-        a purplish blue.
+        ~~a purplish blue~~.
     ==
   ====
 C
@@ -1526,12 +1526,12 @@ W
     - _(4)k(')(u:) (4)ch(')(u:)_
         [[keoi4 ceoi4 籧篨]],
         a coarse mat;
-        _met._ a bad ailment [[Kangxi: 醜疾名]], repulsive, ~~hunchbacked~~.
+        _met._ a bad ailment, repulsive [[Kangxi: 醜疾名]], ~~hunchbacked~~.
     ==
   ====
 C
   ==
-  - Williams' "hunchbacked": More swollen.
+  - Williams' 籧篨: Not hunchbacked, but swollen.
     Kangxi has 編籧篨爲囷如人之擁腫而不能俯故以名醜疾也,
     so 籧篨 is the inability to look down
     (which is somewhat the opposite of being hunchbacked).

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2025-01-05
+* %date-modified --> 2025-01-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -445,7 +445,7 @@ W
 C
   ==
   - Williams misprints 籤 as 韱; here corrected.
-  - Williams' 摮籤: More shaking out than drawing.
+  - Williams' 摮籤: Specifically, the lots are shaken out of a tube.
   ==
 $$
 

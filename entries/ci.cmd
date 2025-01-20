@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2025-01-02
+* %date-modified --> 2025-01-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1741,7 +1741,7 @@ W
         the shark's fins;
     - _(2)ch(i/)n ch(')(i/)(3)_
         [[zin2 ci3 展翅]]
-        to flap the wings;
+        ~~to flap the wings~~;
     - _ch(')(i/)(3) (4)p(')(a/)i_
         [[ci3 paai4 翅排]],
         spread out like a comb;
@@ -1756,7 +1756,7 @@ W
   ====
 C
   ==
-  - Williams' 展翅: More spreading than flapping.
+  - Williams' 展翅: Not to flap the wings, but to spread.
   ==
 $$
 
@@ -2768,10 +2768,6 @@ W
         the sun goes down slowly.
     ==
   ====
-C
-  ==
-  - Williams' 遲吓添: More "a while later", since this is vernacular.
-  ==
 S
   ==
   - $遲zi6

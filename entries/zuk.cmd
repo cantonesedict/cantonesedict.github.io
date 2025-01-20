@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zuk
-* %date-modified --> 2024-12-15
+* %date-modified --> 2025-01-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -583,7 +583,7 @@ W
   ====
 C
   ==
-  - Williams' 不足道: More not worth speaking of, than beyond description.
+  - Williams' 不足道: More "not worth speaking of", than "beyond description".
   - Williams' 足數唔足: This is dated syntax. In modern Cantonese,
     it would be 足唔足數, with only the verb hugging the negative.
   ==

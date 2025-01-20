@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2024-12-22
+* %date-modified --> 2025-01-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1298,7 +1298,7 @@ W
     - a prayer;
     - _n(i/)m(6) chau(3)_
         [[nim6 zau3 念咒]]
-        to recite prayers;
+        ~~to recite prayers~~;
     - _(2)[t(')(o\)] chau(3)_
         [[tou2 zau3 禱咒]]
         to curse;
@@ -1314,7 +1314,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected duplicate headword 咒 to 呪.
-  - Williams' 念咒: More reciting an incantation than a prayer.
+  - Williams' 念咒: Not to recite a prayer, but an incantation.
   - Williams' 禱咒: Changed _(2)t(o\)_ (dou2) to common reading _(2)t(')(o\)_ (tou2).
   ==
 $$

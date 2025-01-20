@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2024-12-06
+* %date-modified --> 2025-01-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -134,7 +134,7 @@ W
         to reduce to subjection;
     - _(1)ching (2)t(')(o\)_
         [[zing1 tou2 征討]],
-        to collect tribute by force;
+        ~~to collect tribute~~ by force;
     - _(1)ching (1)f(u/)_
         [[zing1 fu1 征夫]],
         warriors;
@@ -158,7 +158,7 @@ W
   ====
 C
   ==
-  - Williams' 征討: More to subjugate than to collect tribute.
+  - Williams' 征討: Not to collect tribute, but to punish.
   - Williams' 征伐: Changed _f(a/)t(9)_ (faat6) to modern _fat(9)_ (fat6).
   ==
 $$

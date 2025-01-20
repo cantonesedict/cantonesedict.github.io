@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2025-01-19
+* %date-modified --> 2025-01-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1809,7 +1809,7 @@ W
         an old comrade;
     - _(4)ch(')(e/)ung (1)shang pat(7) (5)l(o\)_
         [[coeng4 sang1 bat1 lou5 長生不老]],
-        a green old age;
+        ~~a green old age~~;
     - _(4)ch(')(e/)ung (5)(u:)n shai(3) k(a/)i(3)_
         [[coeng4 jyun5 sai3 gaai3 長遠世界]]
         long continued, as a family;
@@ -1823,7 +1823,7 @@ W
   ====
 C
   ==
-  - Williams' 長生不老: More immortal than simply vigorous in age.
+  - Williams' 長生不老: Not simply vigorous in age, but immortal.
   ==
 E
   ====
