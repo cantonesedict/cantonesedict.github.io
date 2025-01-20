@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cong
-* %date-modified --> 2025-01-19
+* %date-modified --> 2025-01-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -80,7 +80,7 @@ W
   ====
   - [[Page~593 (1)倉]]
     ==
-    - A granary of the government;
+    - A granary [[Kangxi: 穀藏也]] of the government;
     - a storehouse;
     - a box, a bin, a compartment, a pigeon-hole;
     - _kuk(7) (1)ts(')ong_
@@ -100,12 +100,13 @@ W
         one bin or stall;
     - _(1)ts(')ong ts(')(u:)t(8)_
         [[cong1 cyut3 倉卒]]
-        flurried, perturbed, alarmed.
+        ~~flurried, perturbed, alarmed~~ [[Kangxi: 倉卒悤遽貌]].
     ==
   ====
 C
   ==
   - Williams' 一倉倉: Better rendered "individual bins".
+  - Williams' 倉卒: Not flurried, but hurried or hasty.
   ==
 $$
 
