@@ -392,9 +392,9 @@ W
   ====
   - [[Page~27* (1)䚎 _(1)Chong_ (zong1); here corrected to _(1)Ch(')ong_ (cong1)]]
     ==
-    - To see indistinctly;
-    - to look at fixedly;
-    - to watch, as one does a new hand.
+    - To see indistinctly [[Kangxi: 視不明也]];
+    - to look at fixedly [[Kangxi: 一曰直視]];
+    - ~~to watch, as one does a new hand.~~
     ==
     --
     [[...]]

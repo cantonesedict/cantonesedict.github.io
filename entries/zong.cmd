@@ -478,7 +478,7 @@ W
   ====
   - [[Page~27* (1)䚎]]
     --
-    [[See $䚎cong1 for classical senses.]]
+    [[...]]
     --
     --
     A colloquial word.
