@@ -759,7 +759,7 @@ U
   U+7E94
 A
   ==
-  -{.modern} 才
+  -{.modern} $才4
   ==
 F
   ==
@@ -773,7 +773,7 @@ W
     - An adverb of time;
     - near to, at hand, nearly reaching to;
     - in a short time, thereupon, presently,
-      then, just then, just now, scarcely;
+      then, just then, just now, scarcely [[Kangxi: 僅也]];
     - _(1)fong (4)ts(')oi_
         [[fong1 coi4 方纔]],
         then, a little while ago;
@@ -785,7 +785,7 @@ W
         just gone.
     ==
     --
-    Read _(1)sh(a/)m_ [[saam1]]; [[**see $纔saam1**]].
+    [[...]]
     --
   ====
 C
