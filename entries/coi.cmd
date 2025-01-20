@@ -629,6 +629,10 @@ R
   ⼿ + 0
 U
   U+624D
+A
+  ==
+  -{.modern} $材4
+  ==
 V
   ==
   - coi4-2 (vernacular rising-tone noun in 秀才)
@@ -709,9 +713,15 @@ F
   ==
 W
   ====
+  - [[Page~590 (4)才]]
+    ==
+    - Materials, stuff, or the substance of things,
+      for which the next [[材]] is used;
+    - [[...]].
+    ==
   - [[Page~590 (4)材]]
     ==
-    - Materials of which things are made;
+    - Materials of which things are made [[Kangxi: 五材金木水火土也 etc.]];
     - nature, qualities;
     - timber, lumber, wood;
     - materièl, stuff;
@@ -730,6 +740,9 @@ W
         [[ng5 coi4 五材]],
         the five elements.
     ==
+    --
+    [[Otherwise, an alternative form of 才. **See $才coi4 for the canonical entry.**]]
+    --
   ====
 C
   ==
