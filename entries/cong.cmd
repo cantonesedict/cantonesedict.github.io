@@ -187,7 +187,7 @@ W
   - [[Page~593 (1)滄]]
     ==
     - Vast like the sea;
-    - name of a river and lake;
+    - name of a river and lake [[Kangxi: 水名, 河名, 湖名]];
     - a superior district in Tientsin f(u/) [[天津府]];
     - _(1)ts(')ong (2)hoi (1)ch(i/) l(e/)ung(6)_
         [[cong1 hoi2 zi1 loeng6 滄海之量]]
