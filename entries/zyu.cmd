@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2024-12-06
+* %date-modified --> 2025-01-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1319,7 +1319,7 @@ W
     - to endure;
     - to withstand;
     - to erect;
-    - after another verb, it is often merely a sign of past time, or that the action has rested;
+    - after another verb~~, it is often merely a sign of past time, or that the action has rested~~;
     - _(1)ch(a/) ch(u:)(6)_
         [[zaa1 zyu6 揸住]]
         held it;

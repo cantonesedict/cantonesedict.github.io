@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zo
-* %date-modified --> 2025-01-14
+* %date-modified --> 2025-01-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -571,7 +571,7 @@ W
         to sit till the rice is cold, _i.~e._ to take [French] leave;
     - _(2)t(a/) tso(6) (1)ts(')(a/)m (4)[sh(i/)m]_
         [[daa2 zo6 caam1 sim4 打坐參禪]],
-        to squat and contemplate, as Budhists do.
+        to ~~squat and~~ contemplate, as Budhists do.
     ==
     --
     [[Otherwise, an alternative form of 座. **See $座zo6 for the canonical entry.**]]

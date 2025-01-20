@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyu
-* %date-modified --> 2024-12-22
+* %date-modified --> 2025-01-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -634,7 +634,7 @@ W
         an heir-apparent;
     - _[(5)]ch(')(u:) (1)kwan_
         [[cyu5 gwan1 儲君]],
-        son of a prince.
+        ~~son of a prince~~.
     ==
   ====
 C

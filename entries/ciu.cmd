@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ciu
-* %date-modified --> 2025-01-13
+* %date-modified --> 2025-01-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -802,7 +802,7 @@ W
         to go with the tide;
     - _(4)ch(')i(u/) shap(7)_
         [[ciu4 sap1 潮濕]]
-        damp ground;
+        damp ~~ground~~;
     - _(4)ch(')i(u/) (4)t(')(i/)n_
         [[ciu4 tin4 潮田]],
         tidal grounds;

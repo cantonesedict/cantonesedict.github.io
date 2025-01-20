@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2024-12-19
+* %date-modified --> 2025-01-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -887,7 +887,7 @@ W
   ====
 C
   ==
-  - Williams' "Mournful", "in straits": Not really.
+  - Williams' "Mournful", etc.: These are misreadings of Kangxi 憂懼也.
     Better rendered "anxious" or "apprehensive".
   ==
 S

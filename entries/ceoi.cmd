@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2025-01-02
+* %date-modified --> 2025-01-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -658,7 +658,7 @@ W
     - _[(2)]ts(')(u:) (1)san (5)f(u/)_ [[ceoi2 san1 fu5 娶新婦]]^
         or
       _(2)[ts(')(u:)] (1)[san1] (5)p(')(o\)_ [[ceoi2 san1 pou5 娶新婦]],
-        [somebody] marrying;
+        ~~[somebody] marrying~~;
     - _(4)wing [(2)]ts(')(u:) (4)'m (4)ts(')ang_
         [[wing4 ceoi2 m4 cang4 榮娶唔曾]],
         have you been married yet?

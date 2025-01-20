@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2024-12-29
+* %date-modified --> 2025-01-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2206,7 +2206,7 @@ W
         the _Hovenia dulcis_;
     - _(2)ch(i/) hok(8)_
         [[zi2 hok3 枳殼]]
-        its seeds, used for medicine.
+        ~~its seeds,~~ used for medicine.
     ==
   ====
 C
@@ -2214,7 +2214,7 @@ C
   - Fan Wan entry: Normalised {𣗥=⿰束束} to 棘.
   - Williams' 枳椇: Kangxi quotes 《集韻》舉綺切《韻會》居矣切{𠀤=⿱夶一}音己,
     i.e. a reading of _(2)k(i/)_ (gei2), for 枳椇.
-  - Williams' 枳殼: Not _Hovenia dulcis_ seeds,
+  - Williams' 枳殼: Not the seeds of _Hovenia dulcis_,
     but the skin of the Chinese bitter orange.
   ==
 S
@@ -3941,7 +3941,7 @@ W
         descendants;
     - _kai(3) tsz'(6)_
         [[gai3 zi6 繼嗣]]
-        an adopted heir;
+        an ~~adopted~~ heir;
     - _ts(u:)t(9) tsz'(6)_
         [[zyut6 zi6 絕嗣]]
         posterity cut off;

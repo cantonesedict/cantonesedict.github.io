@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cit
-* %date-modified --> 2025-01-10
+* %date-modified --> 2025-01-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -102,7 +102,7 @@ W
         [[cit3 co1 切磋]],
         to turn in a lathe;
         to work and carve;
-        to dehort, as a friend;
+        ~~to dehort, as a friend;~~
     - _ts(')(i/)t(8) (1)yam_
         [[cit3 jam1 切音]],
         to spell, to join an initial and a final;
@@ -113,8 +113,8 @@ W
   ====
 C
   ==
-  - Williams' 切磋: Not so much to dehort as to learn from one another
-    through an activity (e.g. sparring, a game, etc.).
+  - Williams' 切磋: Not to dehort, but to learn from one another,
+    especially through an activity (e.g. sparring, a game, etc.).
   ==
 E
   ====

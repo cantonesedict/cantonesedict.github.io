@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ze
-* %date-modified --> 2024-12-05
+* %date-modified --> 2025-01-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -122,7 +122,7 @@ W
         to sigh;
     - _(1)ts(e/) (4)loi (1)ch(i/) shik(9)_
         [[ze1 loi4 zi1 sik6 嗟來之食]]
-        to groan and beg one's bread.
+        ~~to groan and beg one's bread~~.
     ==
   ====
 C

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zong
-* %date-modified --> 2025-01-19
+* %date-modified --> 2025-01-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -942,7 +942,7 @@ W
     - the entrails;
     - _(5)'ng tsong(6)_
         [[ng5 zong6 五臟]]
-        the five viscera---heart, lungs, stomach, liver, and kidneys;
+        the five viscera---heart, lungs, [spleen], liver, and kidneys;
     - _(1)ch(u:) tsong(6) tuk(7)_
         [[zyu1 zong6 duk1 豬臟篤]]
         the cæcum of hogs;
@@ -956,7 +956,7 @@ W
   ====
 C
   ==
-  - Williams' 五臟: Not the stomach, but the spleen.
+  - Williams' 五臟: Corrected "stomach" to "spleen".
   ==
 $$
 

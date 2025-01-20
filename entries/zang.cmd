@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2024-12-15
+* %date-modified --> 2025-01-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -346,7 +346,7 @@ W
         to go to law;
     - _(1)ch(a/)ng (1)kung_
         [[zaang1 gung1 爭功]],
-        to emulate;
+        ~~to emulate~~;
     - _(1)[chang] t(u:)t[(9)]_
         [[zang1 dyut6 爭奪]],
         to take by force;

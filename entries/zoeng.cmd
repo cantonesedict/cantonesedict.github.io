@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2025-01-19
+* %date-modified --> 2025-01-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -811,7 +811,7 @@ W
         old, older;
     - _pat(7) (2)ch(e/)ung tsun(3)_
         [[bat1 zoeng2 zeon3 不長進]]
-        untrustworthy.
+        ~~untrustworthy~~.
     ==
   ====
 C

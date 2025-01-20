@@ -100,13 +100,13 @@ W
         one bin or stall;
     - _(1)ts(')ong ts(')(u:)t(8)_
         [[cong1 cyut3 倉卒]]
-        ~~flurried, perturbed, alarmed~~ [[Kangxi: 倉卒悤遽貌]].
+        ~~flurried, perturbed, alarmed~~.
     ==
   ====
 C
   ==
   - Williams' 一倉倉: Better rendered "individual bins".
-  - Williams' 倉卒: Not flurried, but hurried or hasty.
+  - Williams' 倉卒: Not flurried etc., but hurried or hasty (Kangxi: 倉卒悤遽貌).
   ==
 $$
 

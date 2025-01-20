@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2025-01-03
+* %date-modified --> 2025-01-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -667,7 +667,7 @@ W
     - _(2)p(i/) (2)shui tsam(3) ch(u:)(6)_
         [[bei2 seoi2 zam3 zyu6 畀水浸住]]
         cover it with water;
-    - [[see $浸cam1 for use in 浸淫]];
+    - [[...]];
     - _tsam(3) (2)tsau_
         [[zam3 zau2 浸酒]],
         spirits in which fruits have been soaked;
@@ -678,7 +678,7 @@ W
   ====
 C
   ==
-  - Williams' 水浸: Not overflowed, but flooded.
+  - Williams' 水浸: Specifically, flooded.
   - Williams' 汗浸紅顏: Although 紅顏 does not preclude men,
     it is generally used to describe a lady's face.
   ==
