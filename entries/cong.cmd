@@ -236,7 +236,7 @@ W
   ====
   - [[Page~28* (1)瘡]]
     ==
-    - A sore, ulcer, boil, or eruption;
+    - A sore, ulcer, boil, or eruption [[Kangxi: 痏也, 瘍也]];
     - _(1)ch(')ong (1)n(a/)_
         [[cong1 naa1 瘡{𤶸=⿸疒那}]],
         a scar;
@@ -254,7 +254,7 @@ W
         a boil;
     - _w(a/)t(8) yuk(9) (2)lo (1)ch(')ong (1)[sh(a/)ng]_,
         [[waat3 juk6 lo2 cong1 saang1 挖肉攞瘡生]]
-        he scrapes the flesh to make a sore --- he trumps up a cause against me;
+        he scrapes the flesh to make a sore ~~--- he trumps up a cause against me~~;
     - _k(i/)(3) (1)ch(')ong_
         [[gei3 cong1 寄瘡]],
         to give away a boil.
