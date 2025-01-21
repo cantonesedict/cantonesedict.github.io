@@ -68,12 +68,12 @@ W
   ====
   - [[Page~586 (1)操]]
     ==
-    - To take, to hold, to grasp;
+    - To take, to hold, to grasp [[Kangxi: 把持也]];
     - to manage;
     - to exercise, to drill;
     - expert, used to;
     - to maintain, to restrain one's self, to moderate one's desires;
-    - [[see $操cou3 for "integrity" senses]];
+    - [[...]];
     - _(1)ts(')(o\) (2)(i/)n_ [[cou1 jin2 操演]]^
         or
       _h(a/)[(6)] (1)ts(')(o\)_ [[haa6 cou1 下操]],
@@ -94,7 +94,7 @@ W
   ====
 C
   ==
-  - Williams' 下操: Corrected _(5)h(a/)_ (haa5) to _h(a/)(6)_ (haa6).
+  - Williams' 下操: Changed _(5)h(a/)_ (haa5) to modern _h(a/)(6)_ (haa6).
   ==
 S
   ==
@@ -533,7 +533,7 @@ W
   - [[Page~586 (1)操 _(1)Ts(')(o\)_ (cou1); here corrected to _Ts(')(o\)(3)_ (cou3)]]
     ==
     - [[...]];
-    - a purpose, a design, self-imposed rule;
+    - a purpose, a design, self-imposed rule [[Kangxi: 所守也持念也, 所執持之志行也]];
     - consistent, principled;
     - [[...]].
     ==
