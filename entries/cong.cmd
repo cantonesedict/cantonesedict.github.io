@@ -1008,9 +1008,9 @@ W
   ====
   - [[Page~594 (4)藏]]
     ==
-    - To store away, to put in safety;
+    - To store away [[Kangxi: 蓄也]], to put in safety;
     - to contain;
-    - to hide, to conceal;
+    - to hide, to conceal [[Kangxi: 匿也]];
     - to accumulate;
     - to gather knowledge;
     - _(4)ts(')ong (4)m(a/)i_
