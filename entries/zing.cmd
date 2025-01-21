@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2025-01-20
+* %date-modified --> 2025-01-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1586,7 +1586,7 @@ W
   ====
 C
   ==
-  - Williams' alternative reading: Corrected _leng(6)_ (leng6) to _leng(3)_ (leng3).
+  - Williams' "Often pronounced [...]": Corrected _leng(6)_ (leng6) to _leng(3)_ (leng3).
   ==
 S
   ==

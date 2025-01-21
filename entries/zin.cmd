@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2025-01-05
+* %date-modified --> 2025-01-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -91,7 +91,7 @@ W
   ====
 C
   ==
-  - Williams' alternative reading:
+  - Williams' "Read [...]":
     Corrected _sh(i/)n(3)_ (sin3) to _sh(i/)n(6)_ (sin6).
   ==
 S

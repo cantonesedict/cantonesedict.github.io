@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2024-12-01
+* %date-modified --> 2025-01-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -97,7 +97,7 @@ W
   ====
 C
   ==
-  - Williams' alternative reading: Corrected _(1)tun_ (deon1) to _(1)t(')un_ (teon1).
+  - Williams' "Read [...]": Corrected _(1)tun_ (deon1) to _(1)t(')un_ (teon1).
   ==
 S
   ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2025-01-15
+* %date-modified --> 2025-01-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -515,7 +515,7 @@ W
   ====
 C
   ==
-  - Williams' alternative reading: Corrected _ch(')(a/)k(8)_ (caak3) to _ch(a/)k(8)_ (zaak3).
+  - Williams' "Read [...]": Corrected _ch(')(a/)k(8)_ (caak3) to _ch(a/)k(8)_ (zaak3).
   ==
 $$
 

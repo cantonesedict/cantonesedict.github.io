@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caau
-* %date-modified --> 2025-01-02
+* %date-modified --> 2025-01-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -448,7 +448,7 @@ C
   ==
   - The reading _(4)ch(')(a/)u_ (caau4) is not unattested;
     Kangxi has 又《集韻》《韻會》《正韻》{𠀤=⿱夶一}鋤交切音巢義同.
-  - Williams' alternative reading: Corrected _(1)tsi(u/)_ (ziu1) to _(2)tsi(u/)_ (ziu2).
+  - Williams' "Also read [...]": Corrected _(1)tsi(u/)_ (ziu1) to _(2)tsi(u/)_ (ziu2).
   ==
 $$
 

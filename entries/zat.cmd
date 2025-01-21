@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zat
-* %date-modified --> 2024-10-04
+* %date-modified --> 2025-01-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -353,7 +353,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected ⿱𠫓耒 to 棄.
-  - Williams' alternative reading:
+  - Williams' "Read [...]":
     Corrected _(1)h(i/)_ (hei1) to _h(i/)(3)_ (hei3).
   ==
 S

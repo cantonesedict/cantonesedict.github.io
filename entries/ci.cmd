@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2025-01-20
+* %date-modified --> 2025-01-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1449,8 +1449,8 @@ W
 C
   ==
   - Fan Wan entry: Corrected 伹 to 但.
-  - Williams' alternative reading: Kangxi has 《集韻》丁計切音帝高聲　一曰諟也,
-    whose explanations do not correspond to the senses given here.
+  - Williams' "Often read [...]": Kangxi has 《集韻》丁計切音帝高聲　一曰諟也,
+    which does not correspond to the senses given here.
   ==
 $$
 

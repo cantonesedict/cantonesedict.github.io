@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zit
-* %date-modified --> 2024-12-06
+* %date-modified --> 2025-01-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -681,7 +681,7 @@ W
 C
   ==
   - Fan Wan entry: Normalised headword (with right component like 偼) to 捷.
-  - Williams' alternative reading: Corrected _ts(i/)p(8)_ (zip3) to _ts(i/)p(9)_ (zip6).
+  - Williams' "also read [...]": Corrected _ts(i/)p(8)_ (zip3) to _ts(i/)p(9)_ (zip6).
   ==
 $$
 

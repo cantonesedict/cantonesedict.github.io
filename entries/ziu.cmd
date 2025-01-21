@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2025-01-13
+* %date-modified --> 2025-01-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1103,7 +1103,7 @@ W
   ====
 C
   ==
-  - Williams' alternative reading: Corrected _yik(9)_ (jik6) to _yik(7)_ (jik1).
+  - Williams' "Read [...]": Corrected _yik(9)_ (jik6) to _yik(7)_ (jik1).
   ==
 S
   ==
