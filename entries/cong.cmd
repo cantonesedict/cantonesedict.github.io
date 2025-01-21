@@ -704,6 +704,7 @@ U
 V
   ==
   - cam3 (per 《廣韻》丑禁切)
+  - cong3 (per 《說文注》俗語轉若刱)
   ==
 F
   ==
@@ -713,8 +714,8 @@ W
   ====
   - [[Page~29* (2)闖]]
     ==
-    - A horse going out of a door;
-    - to thrust out the head, to appear;
+    - A horse going out of a door [[Kangxi: 馬出門貌]];
+    - to thrust out the head, to appear [[Kangxi: 出頭貌]];
     - to bolt out;
     - suddenly, forcibly, abruptly;
     - _(2)ch(')ong wo(6)_
@@ -728,13 +729,13 @@ W
         the rover Ch(')ong [[闖]] is on us!
     ==
     --
-    Also read _(1)sham_ (sam1).
+    Also read _(1)sham_ [[sam1]] [[Kangxi: ::《說文》[...]讀若郴::]].
     --
   ====
 C
   ==
   - Williams' 闖賊來: Corrected _ts(a/)k(9)_ (zaak6) to _ts(')(a/)k(9)_ (caak6).
-  - Williams' alternative reading: Per 《說文》讀若郴.
+  - Williams' "Also read [...]": Or _(1)ch(')am_ (cam1) per 《廣韻》丑林切 for 郴.
   ==
 $$
 
