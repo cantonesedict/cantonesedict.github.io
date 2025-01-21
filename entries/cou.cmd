@@ -111,7 +111,6 @@ U
   U+7C97
 A
   ==
-  -{.modern} 麄
   - $麤1
   ==
 F
@@ -124,8 +123,8 @@ W
   ====
   - [[Page~586 (1)粗(1)麤]]
     ==
-    - Coarse, uncleaned, dirty, as rice just thrashed;
-    - large, open, coarse;
+    - Coarse [[Kangxi: 略也疏也]], uncleaned, dirty, as rice just thrashed;
+    - large, open, coarse [[Kangxi: ::大也[...]物不精也::]];
     - rude, vulgar, boisterous, unpolished;
     - gross, indecent, dirty;
     - harsh, as a voice;
@@ -161,17 +160,17 @@ W
     - _(1)ts(')(o\) (2)shai t(a/)i(6) yung(6)_
         [[cou1 sai2 daai6 jung6 粗使大用]]
         careless in spending money;
-    - _(1)(u/) (1)ts(')(o\)_
+    - ~~_(1)(u/) (1)ts(')(o\)_
         [[wu1 cou1 污粗]],
-        dirty, unwashed.
+        dirty, unwashed~~.
     ==
     --
-    [[**See $麤cou1 for the alternative form.**]]
+    [[...]]
     --
   ====
 C
   ==
-  - Williams' 污粗: Should be 污糟.
+  - Williams' 污粗: Should instead appear under 糟 as 污糟.
   ==
 $$
 
