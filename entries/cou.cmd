@@ -123,8 +123,8 @@ W
   ====
   - [[Page~586 (1)粗(1)麤]]
     ==
-    - Coarse [[Kangxi: 略也疏也]], uncleaned, dirty, as rice just thrashed;
-    - large, open, coarse [[Kangxi: ::大也[...]物不精也::]];
+    - Coarse [[Kangxi 粗: 略也疏也]], uncleaned, dirty, as rice just thrashed;
+    - large, open, coarse [[Kangxi 粗: ::大也[...]物不精也::]];
     - rude, vulgar, boisterous, unpolished;
     - gross, indecent, dirty;
     - harsh, as a voice;
@@ -194,14 +194,13 @@ W
     [[...]]
     --
     ==
-    - The second form [[麤]] also means to take long leaps as a deer;
-    - to take precautions.
+    - The second form [[麤]] also means to take long leaps as a deer [[Kangxi 麤: 行超遠也]];
+    - to take precautions [[Kangxi 麤: 警防也]].
     ==
+    --
+    [[Otherwise, an alternative form of 粗. **See $粗cou1 for the canonical entry.**]]
+    --
   ====
-C
-  ==
-  - Otherwise, an alternative form of 粗. **See $粗cou1 for the canonical entry.**
-  ==
 $$
 
 
