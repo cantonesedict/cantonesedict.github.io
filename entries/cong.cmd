@@ -930,12 +930,12 @@ W
   ====
   - [[Page~28* (4)床(4)牀]]
     ==
-    - A bed, a couch;
+    - A bed, a couch [[Kangxi 牀: 安身之坐者, 人所坐臥曰牀]];
     - a settee;
     - a suit of bed clothes;
     - the boards which make a bed;
     - a well-curb;
-    - a measure of 8~cubits [[八尺]];
+    - a measure of 8~cubits [[Kangxi 牀: 八尺曰牀]];
     - _yat(7) (4)ch(')ong (5)p(')(i/) yuk(9)_
         [[jat1 cong4 pei5 juk6 一床被褥]]
         mattrass, sheets, all complete;
