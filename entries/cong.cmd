@@ -894,7 +894,7 @@ W
   ====
   - [[Page~28* (4)幢 _(4)^Chong_ (zong4); here corrected to _(4)Ch(')ong_ (cong4)]]
     ==
-    - Long embroidered scrolls or streamers in temples,
+    - Long embroidered scrolls or streamers [[Kangxi: 旌旗之屬]] in temples,
       suspended from the roof,
       and having a tilt at top.
     ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zong
-* %date-modified --> 2025-01-20
+* %date-modified --> 2025-01-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -764,14 +764,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - The reading _chong(6)_ (zong6) for 幢 is not present in Williams;
-    an entry is included here for completeness.
-    ++
-    1. Carriage-curtains.
-    ++
-  ==
+P
+  ++
+  1. Carriage-curtains (Kangxi: ::后妃車[幰]::).
+  ++
 S
   ==
   - $幢cong4
