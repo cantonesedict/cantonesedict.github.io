@@ -590,7 +590,7 @@ A
   ==
 V
   ==
-  - tong2 (per 《集韻》坦㓪切)
+  - tong2 (alternative per 《集韻》坦㓪切)
   ==
 F
   ==
@@ -600,11 +600,11 @@ W
   ====
   - [[Page~29* (2){𢠵=⿰忄敞}; here normalised to 惝]]
     ==
-    - Alarmed;
+    - Alarmed [[Kangxi {𢠵=⿰忄敞}: {𢠵=⿰忄敞}怳驚貌或省作惝]];
     - frightened;
     - _(2)ch(')ong (2)fong_,
         [[cong2 fong2 惝怳]]
-        apprehensive, disappointed.
+        apprehensive, disappointed [[Kangxi 惝: 惝怳失意不悅貌]].
     ==
   ====
 C
