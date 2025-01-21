@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cong
-* %date-modified --> 2025-01-20
+* %date-modified --> 2025-01-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -547,8 +547,8 @@ W
   ====
   - [[Page~29* (2)厰; here normalised to 廠]]
     ==
-    - An open shed;
-    - a covered place not walled in;
+    - An open shed [[Kangxi 廠: 露舍也]];
+    - a covered place not walled in [[Kangxi 廠: 屋無壁也]];
     - a place to receive taxes, broad, spacious;
     - a depository;
     - a large workshop;
