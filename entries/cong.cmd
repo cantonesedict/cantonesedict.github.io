@@ -615,7 +615,7 @@ $$
 
 ### 愴2 | _(2)Ch(')ong_ [[cong2]]
 
-$$.
+$$
 R
   ⼼ + 10
 U
@@ -631,13 +631,10 @@ W
     [[Reading variation. **See $愴cong3 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - Strictly, the reading _(2)ch(')ong_ (cong2) in rising tone
-    is only for the "disappointed" sense in 愴恍
-    (which is probably just a different spelling of 惝怳, see $惝cong2).
-    The "grief" sense is correctly departing-tone _ch(')ong(3)_ (cong3).
-  ==
+P
+  ++
+  1. Used in 愴怳 (disappointed) (Kangxi: 愴怳失意貌).
+  ++
 S
   ==
   - $愴cong3
@@ -853,7 +850,7 @@ W
   ====
   - [[Page~29* (2)愴 _(2)Ch(')ong_ (cong2); here normalised to _Ch(')ong(3)_ (cong3)]]
     ==
-    - Grief;
+    - Grief [[Kangxi: 傷也]];
     - _(1)ts(')ai ch(')ong[(3)]_
         [[cai1 cong3 悽愴]],
         sorrow;
