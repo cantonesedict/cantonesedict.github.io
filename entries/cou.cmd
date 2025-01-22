@@ -548,19 +548,30 @@ $$
 
 ###+ 澡3 | _Ts(')(o\)(3)_ (cou3)
 
-$$.
+$$
 R
   ⽔ + 13
 U
   U+6FA1
+V
+  ==
+  - zou2 (per 《廣韻》子晧切)
+  ==
 F
-  [[Not present]]
+  ==
+  - [[F2.13 澡 _(2)Ts(u/)_ (zou2)]] 洗滌
+  ==
 W
-  [[Not present]]
-C
-  ==
-  - Reading variation. **See $澡zou2 for the canonical entry.**
-  ==
+  ====
+  - [[Page~584 (2)澡 _(2)Ts(o\)_ (zou2); here normalised to _Ts(')(o\)(3)_ (cou3)]]
+    ==
+    - To bathe, to wash the person [[Kangxi: 澡洗也]];
+    - to cleanse the heart, to reform [[Kangxi: 借作修潔意]];
+    - _(2)sai [ts(')(o\)(3)]_
+        [[sai2 cou3 洗澡]],
+        to bathe.
+    ==
+  ====
 S
   ==
   - $澡zou2

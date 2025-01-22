@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zou
-* %date-modified --> 2025-01-05
+* %date-modified --> 2025-01-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -319,15 +319,11 @@ $$
 
 ### 澡2 | _(2)Ts(o\)_ [[zou2]]
 
-$$
+$$.
 R
   ⽔ + 13
 U
   U+6FA1
-V
-  ==
-  - cou3 (common)
-  ==
 F
   ==
   - [[F2.13 澡 _(2)Ts(u/)_]] 洗滌
@@ -335,13 +331,9 @@ F
 W
   ====
   - [[Page~584 (2)澡]]
-    ==
-    - To bathe, to wash the person;
-    - to cleanse the heart, to reform;
-    - _(2)sai (2)ts(o\)_
-        [[sai2 zou2 洗澡]],
-        to bathe.
-    ==
+    --
+    [[Reading variation (per 《廣韻》子晧切). **See $澡cou3 for the canonical entry.**]]
+    --
   ====
 S
   ==
