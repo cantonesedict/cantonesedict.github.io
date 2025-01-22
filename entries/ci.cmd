@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2025-01-21
+* %date-modified --> 2025-01-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2241,12 +2241,14 @@ W
     - Name of a stream [[Kangxi: 水名]] in the east of Sh(a/)ntung [[山東]];
     - [[...]].
     ==
+    --
+    [[Otherwise, a reading variation (for literary verb senses). **See $治zi6 for the canonical entry.**]]
+    --
   ====
 C
   ==
-  - Also the classical reading for verb senses of "govern".
-    Notwithstanding, in modern usage,
-    the level-tone reading _(4)ch(')(i/)_ (ci4) is considered obsolete.
+  - In modern usage, the level-tone reading _(4)ch(')(i/)_ (ci4)
+    for the verb senses is considered obsolete.
     See $治zi6 for commentary.
   ==
 S
