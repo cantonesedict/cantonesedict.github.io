@@ -432,6 +432,9 @@ W
     - the hum of men;
     - to cry out [[Kangxi 噪: 呼噪也]].
     ==
+    --
+    [[Alternative form of 譟. See $譟cou3.]]
+    --
   ====
 $$
 
@@ -645,14 +648,18 @@ R
   ⾔ + 13
 U
   U+8B5F
+A
+  ==
+  -{.modern} $噪3
+  ==
 F
   [[Not present]]
 W
   ====
   - [[Page~728 譟(3)]]
     ==
-    - The noise of a crowd;
-    - a clamor, a disturbance;
+    - The noise of a crowd [[Kangxi: 羣呼煩擾也, 聒也, 羣呼曰譟]];
+    - a clamor, a disturbance [[Kangxi: 擾也]];
     - _(4)yan (1)to (2)k(u/) [ts(')(o\)](3)_
         [[jan4 do1 gu2 cou3 人多鼓譟]]
         a great hallooing.
