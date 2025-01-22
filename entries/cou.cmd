@@ -591,7 +591,7 @@ W
   ====
   - [[Page~587 燥(3)]]
     ==
-    - Dry, scorched, chapped, parched;
+    - Dry, scorched, chapped, parched [[Kangxi: 乾也]];
     - to dry by the fire;
     - fierce, untameable;
     - _(1)kon ts(')(o\)(3)_
