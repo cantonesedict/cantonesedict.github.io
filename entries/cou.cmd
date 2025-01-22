@@ -596,7 +596,7 @@ W
     ==
     - Dry, scorched, chapped, parched [[Kangxi: 乾也]];
     - to dry by the fire;
-    - fierce, untameable;
+    - [[...]];
     - _(1)kon ts(')(o\)(3)_
         [[gon1 cou3 乾燥]]
         parched up, drought;
@@ -608,6 +608,9 @@ W
         [[cau1 cou3 秋燥]]
         heats of autumn.
     ==
+    --
+    [[Otherwise, an alternative form of 躁. **See $躁cou3 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -678,17 +681,27 @@ R
   ⾜ + 13
 U
   U+8E81
+A
+  ==
+  -{.modern} $燥3
+  ==
 F
   ==
   - [[F2.16 躁 _Ts(')(u/)(3)_]] 浮躁妄動也急進也
   ==
 W
   ====
+  - [[Page~587 燥(3); here normalised to 躁]]
+    ==
+    - [[...]];
+    - fierce, untameable;
+    - [[...]].
+    ==
   - [[Page~587 躁(3)]]
     ==
-    - Hasty, heedless, precipitate;
-    - to go quickly;
-    - dried up by the heat, and therefore light;
+    - Hasty, heedless, precipitate [[Kangxi: 疾也]];
+    - to go quickly [[Kangxi: 躁猶動也]];
+    - dried up by the heat, and therefore light [[Kangxi: 躁燥也物燥乃動而飛揚也]];
     - fierce, violent;
     - _ts(')(o\)(3) p(o\)(6)_
         [[cou3 bou6 躁暴]]
