@@ -495,13 +495,13 @@ W
   ====
   - [[Page~587 措(3)]]
     ==
-    - To cast away, to throw down, to place, to put in its place;
-    - to make known, to show abroad;
+    - To cast away, to throw down, to place, to put in its place [[Kangxi: 措置也, 投也]];
+    - to make known, to show abroad [[Kangxi: 舉也]];
     - to conceal, to set aside;
     - to bury;
-    - to take at unawares;
-    - to use, to employ;
-    - to relinquish;
+    - ~~to take at unawares;~~
+    - to use, to employ [[Kangxi: 施布也, 措猶用也]];
+    - to relinquish [[Kangxi: 委置也]];
     - arranged, well ordered;
     - a rule;
     - _(4)m(o\) (2)sho ts(')(o\)(3) (2)shau tsuk(7)_
@@ -512,15 +512,12 @@ W
         elegant phraseology, words well spoken.
     ==
     --
-    Read _[ch(a/)k](8)_ [[zaak3]].
+    [[...]]
     --
-    ==
-    - To pursue after, to chase, to ferret out.
-    ==
   ====
-C
+S
   ==
-  - Williams' "Read [...]": Corrected _ch(')(a/)k(8)_ (caak3) to _ch(a/)k(8)_ (zaak3).
+  - $措zaak3
   ==
 $$
 

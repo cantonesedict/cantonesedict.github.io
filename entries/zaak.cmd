@@ -43,6 +43,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $嘖3
+- $措3
 - $柞3
 - $矺3
 - $砸3
@@ -96,6 +97,38 @@ C
 S
   ==
   - $嘖zik1
+  ==
+$$
+
+### 措3 | _[Ch(a/)k](8)_ [[zaak3]]
+
+$$
+R
+  ⼿ + 8
+U
+  U+63AA
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~587 措(3)]]
+    --
+    [[...]]
+    --
+    --
+    Read _[ch(a/)k](8)_ [[zaak3]].
+    --
+    ==
+    - To pursue after, to chase, to ferret out [[Kangxi: 追捕也]].
+    ==
+  ====
+C
+  ==
+  - Williams' "Read [...]": Corrected _ch(')(a/)k(8)_ (caak3) to _ch(a/)k(8)_ (zaak3).
+  ==
+S
+  ==
+  - $措cou3
   ==
 $$
 
