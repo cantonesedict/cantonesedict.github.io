@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2025-01-21
+* %date-modified --> 2025-01-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -218,31 +218,19 @@ $$
 
 ###+ 懆2 | _(2)Ts(')(o\)_ (cou2)
 
-$$
+$$.
 R
   ⼼ + 13
 U
   U+61C6
-V
-  ==
-  - cou3 (per Fan Wan)
-  ==
 F
-  ==
-  - [[F2.16 懆 _Ts(')(u/)(3)_]] 憂貌
-  ==
+  [[Not present]]
 W
-  ====
-  - [[Page~587 懆(3) _Ts(')(o\)(3)_ (cou3); here normalised to _(2)Ts(')(o\)_ (cou2)]]
-    ==
-    - Chagrined, thoughtful, sad, vexed;
-    - covetous;
-    - affected by;
-    - _(1)tsi(u/) [(2)]ts(')(o\)_
-        [[ziu1 cou2 焦懆]]^
-        discontented and anxious.
-    ==
-  ====
+  [[Not present]]
+P
+  ++
+  1. Reading variation (per 《廣韻》采老切 for the "distressed" sense). **See $懆cou3 for the canonical entry.**
+  ++
 S
   ==
   - $懆cou3
@@ -445,11 +433,15 @@ $$
 
 ### 懆3 | _Ts(')(o\)(3)_ [[cou3]]
 
-$$.
+$$
 R
   ⼼ + 13
 U
   U+61C6
+V
+  ==
+  - cou2 (per 《廣韻》采老切 for "distressed" sense)
+  ==
 F
   ==
   - [[F2.16 懆 _Ts(')(u/)(3)_]] 憂貌
@@ -457,10 +449,21 @@ F
 W
   ====
   - [[Page~587 懆(3)]]
-    --
-    [[Reading variation. **See $懆cou2 for the canonical entry.**]]
-    --
+    ==
+    - Chagrined, thoughtful, sad, vexed [[Kangxi: 愁不安也]];
+    - covetous [[Kangxi: 貪也]];
+    - affected by;
+    - _(1)tsi(u/) [(2)]ts(')(o\)_
+        [[ziu1 cou2 焦懆]]^
+        discontented and anxious.
+    ==
   ====
+C
+  ==
+  - The reading _ts(')(o\)(3)_ (cou3) is not unattested for the "distressed" sense;
+    《集韻》 has the reading 七到切, explained 貪也不安也
+    (covering both the "greed" and "distressed" senses).
+  ==
 S
   ==
   - $懆cou2
