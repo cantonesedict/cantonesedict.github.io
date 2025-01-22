@@ -416,6 +416,10 @@ R
   ⼝ + 13
 U
   U+566A
+A
+  ==
+  -{.modern} 喿
+  ==
 F
   ==
   - [[F2.16 噪 _Ts(')(u/)(3)_]] 群鳥鳴聲
@@ -424,9 +428,9 @@ W
   ====
   - [[Page~587 噪(3)]]
     ==
-    - The chirping and singing of many birds;
+    - The chirping and singing of many birds [[Kangxi 喿: 鳥羣鳴也, 或作噪{𠹏=⿰口蚤}]];
     - the hum of men;
-    - to cry out.
+    - to cry out [[Kangxi 噪: 呼噪也]].
     ==
   ====
 $$
