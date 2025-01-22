@@ -278,13 +278,13 @@ W
   ====
   - [[Page~587 (2)草(2)艸]]
     ==
-    - Herbs, grasses, plants with herbaceous stems;
+    - Herbs, grasses, plants with herbaceous stems [[Kangxi: 百卉也]];
     - plants in general;
-    - hastily, carelessly;
+    - hastily, carelessly [[Kangxi: ::苟[簡]曰草草::]];
     - the running hand;
     - a rough copy, original draft;
     - the 140th~radical of characters relating to herbs;
-    - to cut grass, to mow;
+    - to cut grass, to mow [[Kangxi: 草艾謂艾取草也]];
     - _(2)ts(')(o\) muk(9)_
         [[cou2 muk6 草木]]
         plants;
