@@ -864,11 +864,11 @@ W
   ====
   - [[Page~585 造(6)]]
     ==
-    - To build, to make, to construct;
+    - To build, to make, to construct [[Kangxi: 建也作也爲也]];
     - to create;
     - to act;
-    - to do;
-    - to begin, to commence;
+    - to do [[Kangxi: 造爲也]];
+    - to begin, to commence [[Kangxi: 始也]];
     - a crop;
     - _k(i/)n(3) ts(o\)(6)_
         [[gin3 zou6 建造]]

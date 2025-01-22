@@ -732,12 +732,12 @@ W
   ====
   - [[Page~587 造(3)]]
     ==
-    - To go to, to arrive;
-    - to advance, to enter;
-    - to contain;
+    - To go to, to arrive [[Kangxi: 就也, 詣也]];
+    - to advance, to enter [[Kangxi: 進也]];
+    - to contain [[Kangxi: 納也, 造猶內也內與納同]];
     - _ts(')(o\) ts(')z'(3)_
         [[cou3 ci3 造次]]
-        hurried, thoughtless.
+        hurried, thoughtless [[Kangxi: 造次急遽也]].
     ==
   ====
 C
@@ -1193,10 +1193,10 @@ W
         to lay up.
     ==
   ====
-C
-  ==
-  - This reading is also used in the place name 新造.
-  ==
+P
+  ++
+  1. Used in 新造 (the name of a town in Canton).
+  ++
 E
   ====
   - 【造】 (cou5):
