@@ -630,7 +630,7 @@ W
   ====
   - [[Page~587 糙(3)]]
     ==
-    - Coarse rice, paddy which has only been hulled, and not cleaned;
+    - Coarse rice [[Kangxi: 粗米未舂]], ~~paddy which has only been hulled, and not cleaned~~;
     - _ts(')(o\)(3) (5)mai (1)l(a/)n_
         [[cou3 mai5 laan1 糙米欄]],
         Coarse Rice street, in Canton.
