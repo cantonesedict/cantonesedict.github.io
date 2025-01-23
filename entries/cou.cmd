@@ -1039,9 +1039,9 @@ W
   ====
   - [[Page~586 (4)殂]]
     ==
-    - To die;
-    - dead;
-    - a path to the grave;
+    - To die [[Kangxi: 往死也]];
+    - ~~dead;~~
+    - ~~a path to the grave;~~
     - _(4)ts(')(o\) lok(9)_
         [[cou4 lok6 殂落]]
         to pass away, to die.
