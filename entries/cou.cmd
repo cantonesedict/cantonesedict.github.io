@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2025-01-22
+* %date-modified --> 2025-01-24
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -871,8 +871,8 @@ W
   ====
   - [[Page~586 (4)嘈]]
     ==
-    - Noise, clamor, hubbub;
-    - an outcry;
+    - Noise, clamor, hubbub [[Kangxi: 聲也]];
+    - an outcry [[Kangxi: 喧嘈]];
     - to make a din;
     - to vociferate;
     - _(4)ts(')(o\) n(a/)u(6)_
