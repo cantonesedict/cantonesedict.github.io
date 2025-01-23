@@ -924,8 +924,8 @@ W
   - [[Page~586 (4)徂]]
     ==
     - To go up;
-    - to proceed, to travel;
-    - to preserve, to lay up;
+    - to proceed, to travel [[Kangxi: 往也]];
+    - to preserve [[Kangxi: 存也]], to lay up;
     - _(4)ts(')(o\) ts(e/)(6)_
         [[cou4 ze6 徂謝]]
         to fade, as flowers.
