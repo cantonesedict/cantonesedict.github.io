@@ -948,10 +948,10 @@ W
   ====
   - [[Page~586 (4)曹]]
     ==
-    - A sort of revising judge;
-    - a judge of appeals;
-    - a place where officers meet;
-    - a company, a class;
+    - ~~A sort of revising judge~~;
+    - ~~a judge of appeals;~~
+    - a place where officers meet [[Kangxi: 曹羣也]];
+    - a company, a class [[Kangxi: 曹輩也]];
     - denotes the plural of persons;
     - _luk(9) (4)ts(')(o\)_
         [[luk6 cou4 六曹]],
@@ -971,6 +971,19 @@ W
         a famous general A.D.~250.
     ==
   ====
+C
+  ==
+  - Williams' "A sort of revising judge", "a judge of appeals":
+    These are misreadings of Kangxi ::獄之兩[曹]也在廷東从㯥治事者[从曰]::.
+    Here, 獄 means "litigation" rather than "gaol",
+    and 段玉裁's annotations of 《說文》 interpret 㒳曹
+    as referring to the plaintiff and the defendant (㒳曹今俗所謂原吿被吿也).
+    Note that the two characters "从曰" are missing in Kangxi;
+    their presence in 《說文》 implies that
+    治事者 is just the explanation of the bottom component 曰,
+    rather than the definition of the character as a whole
+    (as Williams has taken it to be).
+  ==
 $$
 
 ### 槽4 | _(4)Ts(')(o\)_ [[cou4]]
