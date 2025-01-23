@@ -1001,9 +1001,9 @@ W
   ====
   - [[Page~586 (4)槽]]
     ==
-    - A trough, a log channeled out, a manger;
-    - a vat, a tub for spirits;
-    - a sort of fruit;
+    - A trough, a log channeled out, a manger [[Kangxi: 畜獸之食器]];
+    - a vat, a tub for spirits [[Kangxi: 酒槽酒坊也]];
+    - a sort of fruit [[Kangxi: 枸槽子果名]];
     - _(5)m(a/) (4)ts(')(o\)_
         [[maa5 cou4 馬槽]],
         a manger;
