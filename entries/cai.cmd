@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2025-01-02
+* %date-modified --> 2025-01-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -520,6 +520,10 @@ W
         a grub, larvæ in mulberry and other trees.
     ==
   ====
+C
+  ==
+  - Williams' "A maggot": Better rendered "scarab".
+  ==
 $$
 
 ### 齊4 | _(4)Ts(')ai_ [[cai4]]
