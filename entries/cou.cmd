@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2025-01-24
+* %date-modified --> 2025-01-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1068,12 +1068,12 @@ W
   ====
   - [[Page~586 (4)漕]]
     ==
-    - A mill-race, a sluice through which water runs;
-    - a gulf, a gorge;
-    - a canal;
-    - to lead on water, to turn a water course;
+    - A mill-race, a sluice through which water runs [[Kangxi: ::水轉[穀]也::]];
+    - ~~a gulf, a gorge;~~
+    - a canal [[Kangxi: 水轉曰漕]];
+    - to lead on water, to turn a water course [[Kangxi: 水運曰漕]];
     - to convey revenue to Peking [[北京]];
-    - occurs used for the next [[$艚4]];
+    - ~~occurs used for the next [[艚]];~~
     - _(4)ts(')(o\) wan(6)_
         [[cou4 wan6 漕運]]
         to transport grain, to take it to the army;
