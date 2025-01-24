@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyu
-* %date-modified --> 2025-01-20
+* %date-modified --> 2025-01-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -615,6 +615,9 @@ R
   ⼈ + 15
 U
   U+5132
+H
+  May appear with 者 dotless (+15 assumed here) or dotted (+16),
+  depending on the font.
 V
   ==
   - cyu4 (per 《廣韻》直魚切)
@@ -625,10 +628,10 @@ W
   ====
   - [[Page~32* (4)儲 _(4)Ch(')(u:)_ (cyu4); here normalised to _(5)Ch(')(u:)_ (cyu5)]]
     ==
-    - To collect;
+    - To collect [[Kangxi: 偫也]];
     - to provide for need;
     - furnished;
-    - to assist, to act as second to;
+    - to assist, to act as second to [[Kangxi: 副也]];
     - _[(5)]ch(')(u:) wai(6)_
         [[cyu5 wai6 儲位]]
         an heir-apparent;
