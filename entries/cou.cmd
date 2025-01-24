@@ -1094,10 +1094,6 @@ R
   ⾈ + 11
 U
   U+825A
-A
-  ==
-  - $漕4
-  ==
 F
   ==
   - [[F2.12 艚 _(4)Ts(')(u/)_]] 艚船
@@ -1106,7 +1102,7 @@ W
   ====
   - [[Page~586 (4)艚]]
     ==
-    - A junk, a smack;
+    - A junk, a smack [[Kangxi: 小船也]];
     - _p(a/)k(9) (4)ts(')(o\) (4)sh(u:)n_
         [[baak6 cou4 syun4 白艚船]],
         sea-going junks;
