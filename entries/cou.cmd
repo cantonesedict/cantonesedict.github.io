@@ -1128,12 +1128,16 @@ W
   ====
   - [[Page~587 (4)艚]]
     ==
-    - Maggots in ordure;
+    - Maggots in ordure [[Kangxi: 蟦蠐螬, 在糞土中者]];
     - _(4)ts(')ai (4)ts(')(o\)_
         [[cai4 cou4 蠐螬]],
         grubs found in filth, which curl themselves up.
     ==
   ====
+C
+  ==
+  - Williams' "Maggots": Better rendered "scarabs".
+  ==
 $$
 
 
