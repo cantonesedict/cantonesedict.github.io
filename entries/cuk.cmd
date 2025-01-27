@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cuk
-* %date-modified --> 2024-12-15
+* %date-modified --> 2025-01-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -82,9 +82,9 @@ W
   ====
   - [[Page~600 促(7)]]
     ==
-    - To constrain;
-    - near, short, close;
-    - urgent, pressed upon;
+    - To constrain [[Kangxi: 局促小貌]];
+    - near, short, close [[Kangxi: 迫也近也密也]];
+    - urgent, pressed upon [[Kangxi: 刺促]];
     - small, shortened;
     - hampered;
     - _kuk(9) ts(')uk(7)_
