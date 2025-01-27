@@ -500,16 +500,16 @@ W
   ====
   - [[Page~600 蔌(7)]]
     ==
-    - Vegetables, legumes, kitchen herbs;
+    - Vegetables, legumes, kitchen herbs [[Kangxi: 菜謂之蔌, 蔌者菜茹之總名]];
     - _ts(')oi(3) ts(')uk(7)_
         [[coi3 cuk1 菜蔌]]
         vegetables;
     - _ts(')uk(7) ts(')uk(7)_
         [[cuk1 cuk1 蔌蔌]]
-        mean;
+        mean [[Kangxi: 蔌蔌陋也]];
     - _ts(')uk(7) ts(')uk(7) (1)fung (1)wai_
         [[cuk1 cuk1 fung1 wai1 蔌蔌風威]],
-        the stern wind whistling along.
+        the stern wind whistling along [[Kangxi: 風聲勁疾之貌]].
     ==
   ====
 C
