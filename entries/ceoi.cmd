@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2025-01-20
+* %date-modified --> 2025-01-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -567,7 +567,7 @@ W
     - to seize on, to take away;
     - to assume, to appropriate [[Kangxi: 資也收也]];
     - to receive [[Kangxi: 受也]], to apply to one's use;
-    - to take, as a wife [[**see $娶ceoi2**]];
+    - [[...]];
     - to get, to induce, to bring upon;
     - taken, applied, selected;
     - _(1)shau (2)ts(')(u:)_
@@ -618,6 +618,9 @@ W
         [[mung4 ceoi2 fo3 蒙取貨]]
         obliged to you for taking goods, --- as shopmen say.
     ==
+    --
+    [[Otherwise, an alternative form of 娶. **See $娶ceoi2 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -635,7 +638,7 @@ U
   U+5A36
 A
   ==
-  -{.modern} $取2
+  - $取2
   ==
 V
   ==
@@ -647,6 +650,12 @@ F
   ==
 W
   ====
+  - [[Page~595 (2)取; here normalised to 娶]]
+    ==
+    - [[...]];
+    - to take, as a wife;
+    - [[...]].
+    ==
   - [[Page~596 娶(3) _Ts(')(u:)(3)_ (ceoi3); here normalised to _(2)Ts(')(u:)_ (ceoi2)]]
     ==
     - To marry a woman with the legal ceremonies [[Kangxi: ::[取]婦也::]];
