@@ -826,7 +826,7 @@ W
   ====
   - [[Page~600 餗(7)]]
     ==
-    - The prepared contents of a boiler or kettle;
+    - The prepared contents of a boiler or kettle [[Kangxi: 鼎實也]];
     - pot-luck, dressed food.
     ==
   ====
