@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> au
-* %date-modified --> 2025-01-02
+* %date-modified --> 2025-01-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -114,13 +114,15 @@ W
     ==
     - [[...]];
     - a child's prattle [[Kangxi: 唲嘔小兒語也]];
-    - to sing, to make a glad noise [[Kangxi: 與謳通]] [[**see $謳au1**]];
     - [[...]];
     - _[(1)]au (1)(a/)_
         [[au1 aa1 嘔啞]],
         children humming;
     - [[...]].
     ==
+    --
+    [[Otherwise, an alternative form of 謳. **See $謳au1 for the canonical entry.**]]
+    --
   ====
 S
   ==
@@ -247,7 +249,7 @@ U
   U+8B33
 A
   ==
-  -{.modern} $嘔1
+  - $嘔1
   - $歐1
   ==
 V
@@ -281,6 +283,15 @@ W
     --
     [[...]]
     --
+  - [[Page~6 (2)嘔 _(2)Au_ (au2); here corrected to _(1)Au_ (au1)]]
+    --
+    [[...]]
+    --
+    ==
+    - [[...]];
+    - to sing, to make a glad noise [[Kangxi 嘔: 與謳通]];
+    - [[...]].
+    ==
   ====
 $$
 
