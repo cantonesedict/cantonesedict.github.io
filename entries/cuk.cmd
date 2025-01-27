@@ -643,6 +643,7 @@ A
   ==
 V
   ==
+  - cik1 (per 《集韻》倉厯切 for "contracted" sense)
   - zuk1 (per 《廣韻》子六切)
   ==
 F
@@ -654,9 +655,9 @@ W
   ====
   - [[Page~600 蹙(7)]]
     ==
-    - Pressed upon, urged, impelled;
+    - Pressed upon, urged, impelled [[Kangxi: 迫也, 近也]];
     - cramped, cribbed;
-    - embarrassed;
+    - ~~embarrassed;~~
     - to wrinkle, to rumple, to draw in;
     - retractile;
     - disquieted, uneasy, reduced to extremity;
@@ -665,19 +666,18 @@ W
         to press or urge vehemently;
     - _ts(')uk(7) ts(')uk(7)_
         [[cuk1 cuk1 蹙蹙]]
-        contracted.
+        contracted [[Kangxi: ::蹙蹙[縮]小貌::, 蹙蹙小之貌]].
     ==
-  - [[Page~600 顣(7); here normalised to 蹙]]
+    --
+    [[Otherwise, an alternative form of 蹴. **See $蹴cuk1 for the canonical entry.**]]
+    --
+  - [[Page~600 顣(7)]]
     ==
-    - Interchanged with the last [[蹙]], to frown;
+    - Interchanged with the last [[蹙]], to frown [[Kangxi 顣: 顣頞鼻頤促貌]];
     - to wrinkle the forehead;
     - anxious, careworn.
     ==
   ====
-C
-  ==
-  - Otherwise, an alternative form of 蹴. **See $蹴cuk1 for the canonical entry.**
-  ==
 $$
 
 ### 蹴1 | _Ts(')uk(7)_ [[cuk1]]
