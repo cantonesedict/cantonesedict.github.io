@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2025-01-20
+* %date-modified --> 2025-01-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -936,12 +936,6 @@ F
 W
   ====
   - [[Page~599 蔟(9)簇(9)]]
-    --
-    [[...]]
-    --
-    --
-    Also read _ts(')au(3)_ [[cau3]].
-    --
     --
     [[Alternative form of 蔟. **See $蔟cau3 for the canonical entry.**]]
     --

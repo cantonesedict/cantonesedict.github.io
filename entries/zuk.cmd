@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zuk
-* %date-modified --> 2025-01-20
+* %date-modified --> 2025-01-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -792,9 +792,6 @@ W
   - [[Page~599 蔟(9)簇(9)]]
     --
     [[Reading variation. **See $簇cuk1 for the canonical entry.**]]
-    --
-    --
-    Also read _ts(')au(3)_ [[cau3]] [[**see $簇cau3**]].
     --
   ====
 S

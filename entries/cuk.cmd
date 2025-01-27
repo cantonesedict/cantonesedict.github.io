@@ -353,7 +353,7 @@ U
   U+7C07
 A
   ==
-  - $蔟1
+  - $蔟1 [[for "collect" sense]]
   ==
 V
   ==
@@ -371,18 +371,18 @@ W
     - Tufts of small bamboo [[Kangxi 簇: 小竹]];
     - to collect, to crowd together [[Kangxi 蔟: 與簇同聚也攢也]];
     - a crowd of people;
-    - [[see $蔟cuk1 for "nest" and "silkworm-frame" senses]];
-    - [[see $簇cok3 for "cake-frame" and "arrowhead" senses]];
+    - [[...]];
     - _[ts(')uk(7)] (2)yung (4)ts(')(i/)n (4)loi_
         [[cuk1 jung2 cin4 loi4 簇擁前來]],
         came pressing on in a crowd.
     ==
     --
-    Also read _ts(')au(3)_ [[cau3]] [[**see $簇cau3**]].
+    [[...]].
     --
   ====
 C
   ==
+  - Williams' "used interchangeably": Here only for the "collect" sense.
   - Williams does not provide separate entries for 簇 and $蔟1.
     I have split things up accordingly.
   ==
