@@ -135,7 +135,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~599 ~~蔟(9)~~簇(9) _Tsuk(9)_ (zuk6); here corrected to _Ch(')ok(8)_ (cok3)]]
+  - [[Page~599 ::~~蔟(9)~~簇(9):: _Tsuk(9)_ (zuk6); here corrected to _Ch(')ok(8)_ (cok3)]]
     --
     [[...]]
     --

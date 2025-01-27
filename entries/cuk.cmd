@@ -360,12 +360,14 @@ V
   - zuk6 (per Williams)
   ==
 F
-  [[Not present]]
+  ==
+  - [[F1.66 蔟 _Tsuk(9)_ (zuk6)]] 聚也又音秀
+  ==
 W
   ====
   - [[Page~599 蔟(9)簇(9) _Tsuk(9)_ (zuk6); here normalised to _Ts(')uk(7)_ (cuk1)]]
     --
-    These two [[蔟, 簇]] are used interchangeably.
+    [[...]]
     --
     ==
     - Tufts of small bamboo [[Kangxi 簇: 小竹]];
@@ -525,18 +527,21 @@ F
   ==
 W
   ====
-  - [[Page~599 蔟(9)簇(9) _Tsuk(9)_ (zuk6); here normalised to _Ts(')uk(7)_ (cuk1)]]
+  - [[Page~599 ::蔟(9)~~簇(9)~~:: _Tsuk(9)_ (zuk6); here normalised to _Ts(')uk(7)_ (cuk1)]]
     --
-    These two [[蔟, 簇]] are used interchangeably.
+    [[...]]
     --
     ==
-    - [[See $簇cuk1 for "small-bamboo", "cluster", and other senses]];
+    - [[...]];
     - a nest [[Kangxi 蔟: 巢也]];
     - a framework or whisk on which silk-worms spin coccoons [[Kangxi 蔟: ::行[蠶]蓐::]];
     - [[...]].
     ==
     --
-    Also read _ts(')au(3)_ [[cau3]] [[**see $蔟cau3**]].
+    [[...]]
+    --
+    --
+    [[Otherwise, an alternative form of 簇 (for the "collect" sense). **See $簇cuk1 for the canonical entry.**]]
     --
   ====
 C

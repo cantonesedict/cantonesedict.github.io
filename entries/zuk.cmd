@@ -884,12 +884,9 @@ F
   ==
 W
   ====
-  - [[Page~599 蔟(9)簇(9)]]
+  - [[Page~599 ::蔟(9)~~簇(9)~~::]]
     --
     [[Reading variation. **See $蔟cuk1 for the canonical entry.**]]
-    --
-    --
-    Also read _ts(')au(3)_ [[cau3]] [[**see $蔟cau3**]].
     --
   ====
 S
