@@ -715,10 +715,6 @@ W
         reverential [[Kangxi: 蹴然敬貌]].
     ==
   ====
-C
-  ==
-  - Williams' "Similar to the last two": It is 蹙 that is used for 蹴.
-  ==
 $$
 
 ### 速1 | _Ts(')uk(7)_ [[cuk1]]
