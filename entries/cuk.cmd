@@ -695,6 +695,7 @@ A
 V
   ==
   - zuk1 (alternative per 《廣韻》子六切)
+  - zuk6 (per 《集韻》就六切 for "respectful" sense)
   ==
 F
   ==
@@ -704,20 +705,19 @@ W
   ====
   - [[Page~600 蹴(7)]]
     --
-    Similar to the last two [[$蹙1, $顣1]].
+    ~~Similar to the last two [[蹙, 顣]].~~
     --
     ==
-    - To tread on, to press with the foot;
+    - To tread on, to press with the foot [[Kangxi: 躡也]];
     - to kick;
     - _ts(')uk(7) (4)(i/)n_
         [[cuk1 jin4 蹴然]],
-        reverential.
+        reverential [[Kangxi: 蹴然敬貌]].
     ==
   ====
 C
   ==
-  - Williams' "Similar to the last two": Not quite.
-    It is $蹙1 that is used for 蹴.
+  - Williams' "Similar to the last two": It is 蹙 that is used for 蹴.
   ==
 $$
 
