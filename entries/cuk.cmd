@@ -219,7 +219,7 @@ W
   ====
   - [[Page~600 {𣙙=⿰木敕}(7); here normalised to 樕]]
     ==
-    - A small tree, a shrub, a sapling;
+    - A small tree, a shrub, a sapling [[Kangxi: 樸樕小木也]];
     - _puk(9) ts(')uk(7)_
         [[buk6 cuk1 樸樕]]
         small trees, suitable for posts.
