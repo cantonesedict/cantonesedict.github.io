@@ -415,8 +415,8 @@ W
   ====
   - [[Page~600 {𫂙=⿱𥫗敕}(7); here normalised to 簌]]
     ==
-    - To sift, and cause to shower down;
-    - close, thickset;
+    - To sift, and cause to shower down [[Kangxi: 篩也]];
+    - close, thickset [[Kangxi: 茂密貌]];
     - showering down, like autumnal leaves blown by the wind.
     ==
   ====
