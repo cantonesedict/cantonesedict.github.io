@@ -175,7 +175,7 @@ W
   ====
   - [[Page~36* 束(7)]]
     ==
-    - To bind or bundle a number of things;
+    - To bind or bundle a number of things [[Kangxi: 縛也]];
     - to tie up in a sheaf;
     - to coerce, to restrain;
     - a bundle, a sheaf;
