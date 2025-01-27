@@ -262,10 +262,6 @@ R
   ⽥ + 5
 U
   U+755C
-A
-  ==
-  -{.modern} $蓄1
-  ==
 F
   ==
   - [[F1.64 畜]] 畜養
@@ -278,7 +274,7 @@ W
     - to domesticate, to herd;
     - to cultivate;
     - to restrain [[Kangxi: 畜止也]];
-    - to gather [[Kangxi: 積也]] [[**see $蓄cuk1**]];
+    - [[...]];
     - to bear with [[Kangxi: 容也]];
     - to obey [[Kangxi: 順也]];
     - domestic animals [[Kangxi: 六畜]];
@@ -291,6 +287,18 @@ W
     - _ch(')uk(7) (5)y(e/)ung_
         [[cuk1 joeng5 畜養]],
         to raise cattle.
+    ==
+    --
+    [[Otherwise, an alternative form of 蓄. **See $蓄cuk1 for the canonical entry.**]]
+    --
+  - [[Page~36* 蓄(7); here corrected to 畜]]
+    ==
+    - [[...]];
+    - to nourish, to rear;
+    - [[...]];
+    - _ch(')uk(7) (1)(a/) (4)t(')au_
+        [[cuk1 aa1 tau4 畜丫頭]],
+        to bring up slave girls.
     ==
   ====
 C
@@ -463,7 +471,7 @@ U
   U+84C4
 A
   ==
-  -{.modern} $畜1
+  - $畜1
   ==
 F
   ==
@@ -471,16 +479,20 @@ F
   ==
 W
   ====
+  - [[Page~36* 畜(7); here normalised to 蓄]]
+    ==
+    - [[...]];
+    - to gather [[Kangxi 畜: 積也]];
+    - [[...]].
+    ==
   - [[Page~36* 蓄(7)]]
     ==
     - To collect, to accumulate, to hoard [[Kangxi: 積也, 聚也藏也]];
-    - to nourish, to rear [[**see $畜cuk1**]];
+    - [[...]];
     - _ch(')uk(7) tsik(7)_
         [[cuk1 zik1 蓄積]]
         to collect together;
-    - _ch(')uk(7) (1)(a/) (4)t(')au_
-        [[cuk1 aa1 tau4 蓄丫頭]],
-        to bring up slave girls.
+    - [[...]].
     ==
   ====
 $$
