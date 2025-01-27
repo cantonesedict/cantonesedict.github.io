@@ -154,8 +154,8 @@ W
   ====
   - [[Page~36* 搐(7)]]
     ==
-    - To drag along, to pull by force, as one drags an ox;
-    - to shake rudely.
+    - To drag along, to pull by force, as one drags an ox [[Kangxi: 牽制也]];
+    - to shake rudely [[Kangxi: 搐謂動而痛也]].
     ==
   ====
 $$
