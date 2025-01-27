@@ -262,6 +262,10 @@ R
   ⽥ + 5
 U
   U+755C
+A
+  ==
+  -{.modern} $蓄1
+  ==
 F
   ==
   - [[F1.64 畜]] 畜養
@@ -274,7 +278,7 @@ W
     - to domesticate, to herd;
     - to cultivate;
     - to restrain [[Kangxi: 畜止也]];
-    - to gather [[Kangxi: 積也]];
+    - to gather [[Kangxi: 積也]] [[**see $蓄cuk1**]];
     - to bear with [[Kangxi: 容也]];
     - to obey [[Kangxi: 順也]];
     - domestic animals [[Kangxi: 六畜]];
@@ -457,6 +461,10 @@ R
   ⾋ + 10
 U
   U+84C4
+A
+  ==
+  -{.modern} $畜1
+  ==
 F
   ==
   - [[F1.64 蓄]] 積也藏也
@@ -465,8 +473,8 @@ W
   ====
   - [[Page~36* 蓄(7)]]
     ==
-    - To collect, to accumulate, to hoard;
-    - to nourish, to rear;
+    - To collect, to accumulate, to hoard [[Kangxi: 積也, 聚也藏也]];
+    - to nourish, to rear [[**see $畜cuk1**]];
     - _ch(')uk(7) tsik(7)_
         [[cuk1 zik1 蓄積]]
         to collect together;
