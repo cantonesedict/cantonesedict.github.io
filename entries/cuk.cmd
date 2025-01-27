@@ -584,7 +584,7 @@ W
     - _huk(9) ts(')uk(7)_
         [[huk6 cuk1 觳觫]]
         frightened, as oxen are in presence of lions;
-        in a terrible fright.
+        in a terrible fright [[Kangxi: 觳觫懼死貌]].
     ==
   ====
 C
