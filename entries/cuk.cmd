@@ -270,14 +270,14 @@ W
   ====
   - [[Page~36* 畜(7)]]
     ==
-    - To rear, to feed, to raise;
+    - To rear, to feed, to raise [[Kangxi: 養也]];
     - to domesticate, to herd;
     - to cultivate;
-    - to restrain;
-    - to gather;
-    - to bear with;
-    - to obey;
-    - domestic animals;
+    - to restrain [[Kangxi: 畜止也]];
+    - to gather [[Kangxi: 積也]];
+    - to bear with [[Kangxi: 容也]];
+    - to obey [[Kangxi: 順也]];
+    - domestic animals [[Kangxi: 六畜]];
     - _ch(')uk(7) (1)shang_
         [[cuk1 sang1 畜牲]],
         you brute!
@@ -288,6 +288,33 @@ W
         [[cuk1 joeng5 畜養]],
         to raise cattle.
     ==
+  ====
+C
+  ====
+  - Much confusion exists in relation to the Middle Chinese readings
+    of this character.
+    ==
+    - 《廣韻》 has two headline readings:
+      ++
+      1. 丑救切 _ch(')au(3)_ (cau3) for the "livestock sense"; and
+      2. 許竹切 _huk(7)_ (huk1) for the "rear" sense.
+      ++
+      But within these two entries, it also provides alternative readings
+      (又許宥許六丑六三切 and 又丑六許救二切 respectively),
+      and it is unclear whether these are intended as cross-references
+      or as genuine alternatives for the senses given.
+    - Kangxi has a hodgepodge:
+      ++
+      1. 丑六切 _ch(')uk(7)_ (cuk1) for "rearing-field" (田畜也)^,
+         "gather" (積也), and "restrain" (止也), among other senses;
+      1. 許六切 _huk(7)_ (huk1) for "rear" (養也)^, "tolerate" (容也)^,
+         "livestock" (六畜) (with a note that 今人{𠀤=⿱夶一}讀作昌六反),
+         and "obey" (順也), among other senses;
+      1. 許救切 _jau(3)_ (jau3) for "non-working livestock" (養之曰畜用之曰牲); and
+      1. 丑救切 _ch(')au(3)_ (cau3) for "domesticated animal" (在野曰獸在家曰畜).
+      ++
+    ==
+    Modern Cantonese simply merges all readings into _ch(')uk(7)_ (cuk1).
   ====
 $$
 
