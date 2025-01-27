@@ -336,10 +336,10 @@ W
   ====
   - [[Page~36* 矗(7)]]
     ==
-    - High, eminent;
-    - equal, even, straight;
+    - High, eminent [[Kangxi: 聳上貌, 高起也]];
+    - equal, even [[Kangxi: 齊也]], straight [[Kangxi: 直也, 長直貌]];
     - to raise;
-    - luxuriant growth.
+    - luxuriant growth [[Kangxi: 草木盛也]].
     ==
   ====
 $$
