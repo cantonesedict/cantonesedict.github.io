@@ -736,10 +736,10 @@ W
   ====
   - [[Page~600 速(7)]]
     ==
-    - Hasty, quick, hurried;
+    - Hasty, quick, hurried [[Kangxi: 疾也]];
     - fleet, as a deer;
     - with haste;
-    - to call, to invite;
+    - to call, to invite [[Kangxi: 召也]];
     - _tsik(7) ts(')uk(7)_
         [[zik1 cuk1 即速]]
         instantly, presently;
@@ -748,7 +748,7 @@ W
         go quickly;
     - _ts(')uk(7) ts(')uk(7)_
         [[cuk1 cuk1 速速]]
-        no connection with;
+        no connection with [[Kangxi: 速速不相親附之貌]];
         friendless;
     - _(4)'m tsoi(6) k(o\)m(3) (4)mong ts(')uk(7)_
         [[m4 zoi6 gam3 mong4 cuk1 唔在咁忙速]]
