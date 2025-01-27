@@ -104,6 +104,10 @@ R
   ⼼ + 10
 U
   U+6149
+V
+  ==
+  - huk1 (per 《廣韻》許竹切)
+  ==
 F
   ==
   - [[F1.64 慉]] 亦養也
@@ -112,16 +116,27 @@ W
   ====
   - [[Page~36* 慉(7)]]
     ==
-    - To sustain;
-    - to encourage;
-    - _ch(')uk(7) (1)ki(u/)_
+    - To sustain [[Kangxi: 慉養也]];
+    - to encourage [[Kangxi: 起也]];
+    - ~~_ch(')uk(7) (1)ki(u/)_
         [[cuk1 giu1 慉驕]],
-        to excite pride;
-    - _ch(')uk(7) n(o\)(6)_
+        to excite pride;~~
+    - ~~_ch(')uk(7) n(o\)(6)_
         [[cuk1 nou6 慉怒]]
-        to stir up anger.
+        to stir up anger.~~
     ==
   ====
+C
+  ==
+  - Broadly, there are two interpretations of this character:
+    ++
+    1. To uplift (《說文》起也, defended by 段玉裁's annotations); and
+    1. To sustain (per 《朱傳》, 《箋》, 《正義》 as appears in Kangxi).
+    ++
+  - Williams' 慉驕: This is a misreading of Kangxi 慉驕也,
+    which is an explanation of meaning (punctuated 慉、驕也),
+    rather than an example of a two-character phrase.
+  ==
 $$
 
 ### 搐1 | _Ch(')uk(7)_ [[cuk1]]
