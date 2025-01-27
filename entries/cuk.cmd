@@ -775,15 +775,19 @@ W
   ====
   - [[Page~600 遬(7)]]
     --
-    Similar to the next [[$蹙1]].
+    Similar to the next [[蹙]].
     --
     ==
     - To step smartly to one's place;
     - to dispatch, to hurry through;
-    - attentive, respectful;
-    - alert, speedy.
+    - attentive, respectful [[Kangxi: 猶蹙蹙也]];
+    - alert, speedy [[Kangxi: 剽遬疾也]].
     ==
   ====
+C
+  ==
+  - Williams' "smartly": In the sense of "quickly".
+  ==
 $$
 
 ### 顣1 | _Ts(')uk(7)_ [[cuk1]]
