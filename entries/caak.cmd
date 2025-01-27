@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caak
-* %date-modified --> 2025-01-02
+* %date-modified --> 2025-01-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -423,7 +423,7 @@ U
   U+8808
 A
   ==
-  -{.modern} $賊6
+  - $賊6
   ==
 F
   ==
@@ -431,6 +431,12 @@ F
   ==
 W
   ====
+  - [[Page~551 賊(9); here normalised to 蠈]]
+    ==
+    - [[...]];
+    - a fly in grain [[Kangxi 賊: 害苗之蟲]];
+    - [[...]].
+    ==
   - [[Page~551 蠈(9)]]
     ==
     - A fly which eats the grain at its joints [[Kangxi: 食禾節蟲]];
@@ -468,7 +474,7 @@ W
     - a term of contempt;
     - to rob [[Kangxi: 刧人也]], to murder [[Kangxi: 殺人曰賊]];
     - to maltreat, to oppress [[Kangxi: 賊虐]];
-    - a fly in grain [[Kangxi: 害苗之蟲]] [[**see $蠈caak6**]];
+    - [[...]];
     - _(5)l(o\) ts(')(a/)k(9)_
         [[lou5 caak6-2 老賊]]
         an old robber;
@@ -495,8 +501,11 @@ W
         booty;
     - _ts(')(a/)k(9) (4)ying_
         [[caak6-2 jing4 賊型]],
-        a susplcious looking fellow.
+        a suspicious looking fellow.
     ==
+    --
+    [[Otherwise, an alternative form of 蠈. **See $蠈caak6 for the canonical entry.**]]
+    --
   ====
 $$
 
