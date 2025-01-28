@@ -586,6 +586,7 @@ U
   U+4F47
 A
   ==
+  -{.modern} $宁5
   - $竚5
   ==
 F
@@ -667,9 +668,15 @@ W
   ====
   - [[Page~32* (5)宁]]
     ==
-    - A porch, a space between the gate and the screen;
-    - to accumulate.
+    - A porch, a space between the gate and the screen [[Kangxi: 門屛之閒謂之宁]];
+    - [[...]].
     ==
+    --
+    [[Otherwise, an alternative form of 佇. **See $佇cyu5 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 貯. **See $貯cyu5 for the canonical entry.**]]
+    --
   ====
 $$
 
@@ -968,6 +975,10 @@ R
   ⾙ + 5
 U
   U+8CAF
+A
+  ==
+  - $宁5
+  ==
 V
   ==
   - zyu2 (per 《廣韻》丁吕切)
@@ -978,6 +989,11 @@ F
   ==
 W
   ====
+  - [[Page~32* (5)宁; here normalised to 貯]]
+    ==
+    - [[...]];
+    - to accumulate [[Kangxi: ::宁[辨]積物也::]].
+    ==
   - [[Page~33* (5)貯]]
     ==
     - To hoard, to store up, to lay by in safety;
