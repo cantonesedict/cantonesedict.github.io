@@ -127,10 +127,10 @@ W
   ====
   - [[Page~32* (2)處(2)処]]
     ==
-    - To dwell, to reside;
+    - To dwell, to reside [[Kangxi: 居也]];
     - to be, to act, to occupy the place of;
     - while in;
-    - to distinguish, to manage, to judge, to decide on,
+    - to distinguish [[Kangxi: 分別也]], to manage, to judge, to decide on,
       to attend to, to do what is proper;
     - to place;
     - _[(5)]ch(')(u:) (2)tsz'_
@@ -223,7 +223,7 @@ W
   ====
   - [[Page~33* 處(3)]]
     ==
-    - A place, a spot;
+    - A place, a spot [[Kangxi: 所也]];
     - a circumstance, a condition;
     - added to nouns, it often forms the concrete,
       as _ching(3) k(i/)n(3) (1)t(')(a/) (4)ling ch(')(u:)(3)_
@@ -949,10 +949,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Reading variation. **See $處cyu2 for the canonical entry.**
-  ==
+P
+  ++
+  1. Reading variation. **See $處cyu2 for the canonical entry.**
+  ++
 S
   ==
   - $處cyu2
