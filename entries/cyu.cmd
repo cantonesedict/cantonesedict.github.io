@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyu
-* %date-modified --> 2025-01-25
+* %date-modified --> 2025-01-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -91,10 +91,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Reading variation (per 《廣韻》丑吕切). **See $楮cyu5 for the canonical entry.**
-  ==
+P
+  ++
+  1. Reading variation (per 《廣韻》丑吕切). **See $楮cyu5 for the canonical entry.**
+  ++
 S
   ==
   - $楮cyu5
@@ -818,8 +818,8 @@ W
   ====
   - [[Page~33* (5)楮]]
     ==
-    - A mulberry _(Broussonetia papyfera)_
-      from whose bark paper and cloth can be made;
+    - A mulberry _(Broussonetia papyfera)_ [[Kangxi: 榖也]]
+      from whose bark paper and cloth can be made [[Kangxi: 江南人績其皮以爲布又擣以爲紙]];
     - _(5)ch(')(u:) pai(6)_
         [[cyu5 bai6 楮幣]]
         paper money, a note;
