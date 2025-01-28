@@ -492,12 +492,13 @@ W
     - At a loss, perplexed;
     - _(4)ch(')au (4)ch(')(u:)_
         [[cau4 cyu4 躊躇]],
-        embarrassed, hesitating, stopping to consider.
+        embarrassed, hesitating, stopping to consider [[Kangxi: 躊躇猶豫也]].
     ==
   ====
 C
   ==
   - Fan Wan entry: Corrected illegible character to 豫.
+  - Williams' "embarrassed": In the (now) archaic sense of "impeded", "obstructed".
   ==
 $$
 
