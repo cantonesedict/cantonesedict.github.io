@@ -597,7 +597,7 @@ W
   ====
   - [[Page~32* (5)佇(5)竚]]
     ==
-    - To stand a long time;
+    - To stand a long time [[Kangxi: 佇久立也]];
     - to wait, to look for;
     - _(5)ch(')(u:) lap(9)_
         [[cyu5 lap6 佇立]]
