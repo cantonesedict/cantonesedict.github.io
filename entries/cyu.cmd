@@ -382,7 +382,7 @@ W
   ====
   - [[Page~32* (4)樞]]
     --
-    [[Idiosyncratic reading from Fan Wan. **See $樞syu1 for the canonical entry.**]]
+    [[Idio* reading from Fan Wan. **See $樞syu1 for the canonical entry.**]]
     --
   ====
 C
