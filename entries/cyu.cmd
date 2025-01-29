@@ -859,19 +859,21 @@ W
   ====
   - [[Page~32* (5)紵]]
     --
-    Contracted to ⿰糸⿳宀一　,
-    unless it is used for the private name of Hienfung [[咸豐]].
+    ~~Contracted to ⿰糸⿳宀一　 [[紵 with the last stroke unwritten]],
+    unless it is used for the private name of Hienfung [[咸豐]].~~
     --
     ==
-    - A coarse kind of hemp;
-    - a coarse covering.
+    - A ~~coarse~~ kind of hemp [[Kangxi: ~~檾屬細者爲絟粗者爲紵~~, 紵亦麻也]];
+    - a ~~coarse~~ covering.
     ==
   ====
 C
   ==
   - Fan Wan entry: Normalised {𮈔=⿰糸系} to 絲.
-  - Williams' "Contracted to ⿰糸⿳宀一　":
-    Probably a mistake. The personal name of 咸豐 is 奕詝, not 奕紵.
+  - Williams' "coarse": According to 段玉裁's annotations of 《說文》,
+    粗者爲紵 should be replaced with 布白而細曰紵.
+  - Williams' "Contracted to ⿰糸⿳宀一　": Likely a mistake.
+    The personal name of Emperor 咸豐 is 奕詝, not 奕紵.
   ==
 $$
 
