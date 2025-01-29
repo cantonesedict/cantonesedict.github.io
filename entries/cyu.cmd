@@ -757,9 +757,9 @@ W
   ====
   - [[Page~33* (5)柱]]
     ==
-    - A post, a pillar, an upright support, a joist;
+    - A post, a pillar, an upright support, a joist [[Kangxi: 楹也]];
     - a main dependance, a statesman;
-    - to support, to uphold;
+    - [[...]];
     - _kwok(8) (5)ch(')(u:)_
         [[gwok3 cyu5 國柱]],
         a high officer;
@@ -777,6 +777,10 @@ W
 C
   ==
   - Williams' 柱墩: Changed _(1)tan_ (dan1) to _(2)tan_ (dan2).
+  ==
+S
+  ==
+  - $柱zyu2
   ==
 $$
 

@@ -719,6 +719,7 @@ $$
 - $丶2
 - $主2
 - $拄2
+- $柱2
 - $渚2
 - $煮2
 - $翥2
@@ -858,10 +859,20 @@ R
   ⼿ + 5
 U
   U+62C4
+A
+  ==
+  - $柱2
+  ==
 F
   [[Not present]]
 W
   ====
+  - [[Page~33* (5)柱 _(5)Ch(')(u:)_ (cyu5); here corrected to _(2)Ch(u:)_ (zyu2) and normalised to 拄]]
+    ==
+    - [[...]];
+    - to support, to uphold;
+    - [[...]].
+    ==
   - [[Page~33* (5)拄 _(5)Ch(')(u:)_ (cyu5); here corrected to _(2)Ch(u:)_ (zyu2)]]
     --
     ~~Used for the last [[柱]].~~
@@ -874,9 +885,31 @@ W
   ====
 C
   ==
-  - Williams' "Used for the last": It is the other way round (拄 may be written 柱).
+  - Williams' "Used for the last": It is the other way round (柱 is used for 拄).
   - Williams' "to pierce": This is a misreading of Kangxi 刺也,
     which is a *metaphorical* pierce (i.e. to satirise).
+  ==
+$$
+
+###+ 柱2 | _(2)Ch(u:)_ (zyu2)
+
+$$.
+R
+  ⽊ + 5
+U
+  U+67F1
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~33* (5)柱 _(5)Ch(')(u:)_ (cyu5); here corrected to _(2)Ch(u:)_ (zyu2)]]
+    --
+    [[Alternative form of 拄. **See $拄zyu2 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $柱cyu5
   ==
 $$
 
