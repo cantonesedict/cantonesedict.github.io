@@ -976,7 +976,7 @@ W
     ==
   - [[Page~33* (5)貯]]
     ==
-    - To hoard, to store up, to lay by in safety;
+    - To hoard, to store up, to lay by in safety [[Kangxi: 積也, 藏也]];
     - a hoard, a treasure;
     - _(5)ch(')(u:) tsik(7)_
         [[cyu5 zik1 貯積]]
