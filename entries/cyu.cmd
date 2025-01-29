@@ -892,7 +892,7 @@ W
   ====
   - [[Page~32* (5)羜]]
     ==
-    - A lamb five months old;
+    - A lamb five months old [[Kangxi: 五月羔也]];
     - _(4)f(i/) (5)ch(')(u:)_
         [[fei4 cyu5 肥羜]],
         a fat lamb.
