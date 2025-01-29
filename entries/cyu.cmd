@@ -915,7 +915,7 @@ W
   ====
   - [[Page~33* (5)苧]]
     ==
-    - A plant _(Bœhmeria tenacissima)_ grown for its fibres;
+    - A plant _(Bœhmeria tenacissima)_ grown for its fibres [[Kangxi: 草名可爲繩]];
     - _(5)ch(')(u:) (4)m(a/)_
         [[cyu5 maa4 苧麻]],
         the grasscloth nettle;
