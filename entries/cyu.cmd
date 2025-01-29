@@ -728,9 +728,9 @@ W
   ====
   - [[Page~33* (5)杼]]
     ==
-    - A shuttle;
-    - thin, as a wheel;
-    - a fruit like a chestnut;
+    - A shuttle [[Kangxi: 機之持緯者]];
+    - thin, as a wheel [[Kangxi: 薄也]];
+    - a fruit like a chestnut [[Kangxi: 或作芧栗屬]];
     - _(5)m(u/)n (5)ch(')(u:) (1)king (4)lun_
         [[mun5 cyu5 ging1 leon4 滿杼經綸]],
         learned as a full shuttle.
