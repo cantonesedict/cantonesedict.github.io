@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyu
-* %date-modified --> 2025-01-28
+* %date-modified --> 2025-01-29
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -562,7 +562,6 @@ $$
 - $佇5
 - $儲5
 - $宁5
-- $拄5
 - $杵5
 - $杼5
 - $柱5
@@ -678,31 +677,6 @@ W
     [[Otherwise, an alternative form of 貯. **See $貯cyu5 for the canonical entry.**]]
     --
   ====
-$$
-
-### 拄5 | _(5)Ch(')(u:)_ [[cyu5]]
-
-$$.
-R
-  ⼿ + 5
-U
-  U+62C4
-F
-  [[Not present]]
-W
-  ====
-  - [[Page~33* (5)拄]]
-    --
-    Used for the last [[$柱5]].
-    --
-    --
-    [[Otherwise, an idiosyncratic reading from Williams. **See $拄zyu2 for the canonical entry.**]]
-    --
-  ====
-S
-  ==
-  - $拄zyu2
-  ==
 $$
 
 ### 杵5 | _(5)Ch(')(u:)_ [[cyu5]]

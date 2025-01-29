@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2025-01-20
+* %date-modified --> 2025-01-29
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -864,17 +864,19 @@ W
   ====
   - [[Page~33* (5)拄 _(5)Ch(')(u:)_ (cyu5); here corrected to _(2)Ch(u:)_ (zyu2)]]
     --
-    [[...]]
+    ~~Used for the last [[柱]].~~
     --
     ==
-    - A prop, a post to shore up;
-    - to pierce;
-    - to stick, to point at.
+    - ~~A prop, a post~~ to shore up [[Kangxi: 牚也支也]];
+    - ~~to pierce;~~
+    - to stick, to point at [[Kangxi: 刺也距也一曰從旁指也]].
     ==
   ====
-S
+C
   ==
-  - $拄cyu5
+  - Williams' "Used for the last": It is the other way round (拄 may be written 柱).
+  - Williams' "to pierce": This is a misreading of Kangxi 刺也,
+    which is a *metaphorical* pierce (i.e. to satirise).
   ==
 $$
 
