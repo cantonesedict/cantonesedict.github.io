@@ -698,7 +698,7 @@ W
   ====
   - [[Page~33* (5)杵]]
     ==
-    - A pestle, a beater;
+    - A pestle, a beater [[Kangxi: 舂杵也]];
     - _yat(7) (4)t(')i(u/) (1)chung (5)ch(')(u:)_
         [[jat1 tiu4 zung1 cyu5 一條舂杵]],
         a single pestle;
