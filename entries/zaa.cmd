@@ -474,6 +474,7 @@ $$
 - $乍3
 - $吒3
 - $咋3
+- $咤3
 - $搾3
 - $榨3
 - $炸3
@@ -530,11 +531,11 @@ U
   U+5412
 A
   ==
-  - 咤
+  - $咤3
   ==
 V
   ==
-  - zaa1 (alternative)
+  - zaa1 (alternative per 《集韻》陟加切)
   ==
 F
   ==
@@ -604,6 +605,28 @@ E
       ==
     ++
   ====
+$$
+
+###+ 咤3 | _Ch(a/)(3)_ (zaa3)
+
+$$.
+R
+  ⼝ + 6
+U
+  U+54A4
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~9|n52 吒(3)咤(3) _Ch(')(a/)(3)_ (caa3); here corrected to _Ch(a/)(3)_ (zaa3)]]
+    --
+    [[Alternative form of 吒. **See $吒zaa3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $咤caa3
+  ==
 $$
 
 ### 搾3 | _Ch(a/)(3)_ [[zaa3]]

@@ -374,6 +374,10 @@ W
     [[Alternative form of 詫. **See $詫caa3 for the canonical entry.**]]
     --
   ====
+S
+  ==
+  - $咤zaa3
+  ==
 $$
 
 ### 奼3 | _Ch(')(a/)(3)_ [[caa3]]
