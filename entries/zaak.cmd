@@ -53,6 +53,7 @@ $$
 - $笮3
 - $簀3
 - $舴3
+- $蚱3
 - $責3
 - $賾3
 ==
@@ -453,6 +454,27 @@ C
   ==
   - Williams' 舴艋: Changed _mang_ (mang) to common reading _m(a/)ng_ (maang),
     and corrected tone _(6)_ (去聲) to _(5)_ (上聲).
+  ==
+$$
+
+###+ 蚱3 | _Ch(a/)k(8)_ (zaak3)
+
+$$.
+R
+  ⾍ + 5
+U
+  U+86B1
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation (per 《廣韻》側伯切). **See $蚱zaa3 for the canonical entry.**
+  ++
+S
+  ==
+  - $蚱zaa3
   ==
 $$
 

@@ -767,6 +767,10 @@ R
   ⾍ + 5
 U
   U+86B1
+V
+  ==
+  - zaak3 (per 《廣韻》側伯切)
+  ==
 F
   [[Not present]]
 W
@@ -784,8 +788,14 @@ W
   ====
 C
   ==
+  - The reading _ch(a/)(3)_ (zaa3) is not unattested;
+    Kangxi has 又《集韻》側駕切音詐義同.
   - Williams' 蚱蜢: Changed _(5)mang_ (mang5) to common reading _(5)m(a/)ng_ (maang5).
   - Williams' 蚱蟬: Changed _(4)sh(i/)n_ (sin4) to common reading _(4)sh(i/)m_ (sim4).
+  ==
+S
+  ==
+  - $蚱zaak3
   ==
 $$
 
