@@ -279,7 +279,7 @@ W
   ====
   - [[Page~7 (1)樝]]
     ==
-    - A sour red berry as large as a cherry,
+    - A sour red berry as large as a cherry [[Kangxi: 似棃而酢]],
       called _(1)sh(a/)n (1)ch(a/)_ [[saan1 zaa1 山樝]],
       used for its acid.
     ==
