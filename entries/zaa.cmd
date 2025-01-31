@@ -404,7 +404,7 @@ W
   ====
   - [[Page~8 (2)痄]]
     --
-    [[Reading variation (per 《廣韻》側下切 rising). **See $痄zaa3 for the canonical entry.**]]
+    [[Reading variation (per 《廣韻》側下切). **See $痄zaa3 for the canonical entry.**]]
     --
   ====
 $$
@@ -706,7 +706,7 @@ U
   U+75C4
 V
   ==
-  - zaa2 (per 《廣韻》側下切 rising)
+  - zaa2 (per 《廣韻》側下切)
   ==
 F
   [[Not present]]

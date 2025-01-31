@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2025-01-02
+* %date-modified --> 2025-01-31
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -747,7 +747,7 @@ U
   U+9B6B
 V
   ==
-  - sam2 (per 《廣韻》式任切 rising)
+  - sam2 (per ::《廣韻》式[荏]切::)
   - zam2 (per Fan Wan)
   ==
 F
