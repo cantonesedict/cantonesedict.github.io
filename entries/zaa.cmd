@@ -301,8 +301,8 @@ W
   ====
   - [[Page~7 (1)渣]]
     ==
-    - Name of a river;
-    - dregs, grounds, residuum;
+    - Name of a river [[Kangxi: 水名]];
+    - dregs, grounds, residuum [[Kangxi: 俗以此爲渣滓字]];
     - sediment, settlings, refuse after expressing juice;
     - _(2)tsz' (2)kang (1)ch(a/)_
         [[zi2 gang2 zaa1 紫梗渣]],
@@ -312,13 +312,9 @@ W
         there's no refuse left.
     ==
     --
-    Often used for the two next [[$樝1, $皻1]].
+    ~~Often used for the two next [[樝, 皻]].~~
     --
   ====
-C
-  ==
-  - Williams' "used for the two next": I have not seen 渣 used for 樝 or 皻.
-  ==
 E
   ====
   - 【渣】 (zaa1):
