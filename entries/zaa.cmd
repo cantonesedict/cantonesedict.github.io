@@ -505,9 +505,9 @@ W
   ====
   - [[Page~8 乍(3)]]
     ==
-    - At first, suddenly, hastily;
-    - for a moment;
-    - inadvertently, unexpectedly;
+    - At first [[Kangxi: 初也]], suddenly, hastily [[Kangxi: 猝也]];
+    - for a moment [[Kangxi: 暫也]];
+    - inadvertently, unexpectedly [[Kangxi: 忽也]];
     - _ch(a/)(3) (5)yau ch(a/)(3) (4)m(o\)_
         [[zaa3 jau5 zaa3 mou4 乍有乍無]],
         all at once there is some and then we have none;
