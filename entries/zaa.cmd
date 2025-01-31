@@ -336,17 +336,13 @@ R
   ⽪ + 11
 U
   U+76BB
-A
-  ==
-  -{.modern} 皶
-  ==
 F
   [[Not present]]
 W
   ====
   - [[Page~7 (1)皻]]
     ==
-    - Pimples on the nose, wine blotches;
+    - Pimples on the nose [[Kangxi: 鼻上皰]], wine blotches [[Kangxi: 紅暈似瘡浮起著面鼻者曰酒皻]];
     - pimples on the skin;
     - _(2)tsau (1)ch(a/)_
         [[zau2 zaa1 酒皻]],
