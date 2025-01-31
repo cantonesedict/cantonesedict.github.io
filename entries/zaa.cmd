@@ -151,6 +151,13 @@ F
   [[Not present]]
 W
   ====
+  - [[Page~7 (1)㪥; here corrected to 揸]]
+    ==
+    - [[...]];
+    - _(1)ch(a/) (5)y(e/)_
+        [[zaa1 je5 揸嘢]],
+        to handle.
+    ==
   - [[Page~7 (1)揸]]
     --
     A unauthorized character.
@@ -253,16 +260,10 @@ W
   ====
   - [[Page~7 (1)㪥]]
     ==
-    - To put the hand upon, to feel, to press down, to take;
-    - _(1)ch(a/) (5)y(e/)_
-        [[zaa1 je5 㪥嘢]],
-        to handle.
+    - To put the hand upon, to feel, to press down [[Kangxi: 以指按也]], to take [[Kangxi: 取也]];
+    - [[...]].
     ==
   ====
-C
-  ==
-  - Williams' 㪥嘢: Probably meant to appear under 揸 as 揸嘢.
-  ==
 $$
 
 ### 樝1 | _(1)Ch(a/)_ [[zaa1]]
