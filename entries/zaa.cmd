@@ -717,16 +717,11 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Not present in Williams,
-    and not attested in the Middle Chinese rime books;
-    an entry is included here for completeness.
-    ++
-    1. To blow up.
-    1. To deep-fry.
-    ++
-  ==
+P
+  ++
+  1. To blow up.
+  1. To deep-fry.
+  ++
 $$
 
 ###+ 痄3 | _Ch(a/)(3)_ (zaa3)
