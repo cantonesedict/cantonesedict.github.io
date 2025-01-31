@@ -114,6 +114,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $呞ci1
       - $咋zaa3
+      - $咋zaak3
       - $周zau1
       - $呪zau3
       - $咒zau3

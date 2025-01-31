@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2024-12-06
+* %date-modified --> 2025-01-31
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -42,6 +42,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $咋3
 - $嘖3
 - $措3
 - $柞3
@@ -57,6 +58,31 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+###+ 咋3 | _Ch(a/)k(8)_ (zaak3)
+
+$$
+R
+  ⼝ + 5
+U
+  U+548B
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~8 咋(3) _Ch(a/)(3)_ (zaa3); here corrected to _Ch(a/)k(8)_ (zaak3)]]
+    --
+    A loud sound, a rude noise [[Kangxi: 大聲]].
+    --
+    --
+    [[...]]
+    --
+  ====
+S
+  ==
+  - $咋zaa3
+  ==
+$$
 
 ###+ 嘖3 | _Ch(a/)k(8)_ (zaak3)
 

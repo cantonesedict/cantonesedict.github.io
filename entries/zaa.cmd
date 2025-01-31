@@ -581,11 +581,8 @@ F
 W
   ====
   - [[Page~8 咋(3)]]
-    ==
-    - A loud sound, a rude noise.
-    ==
     --
-    [A colloquial word.]
+    [[...]]
     --
     ==
     - A colloquial particle implying doubt, perhaps;
@@ -605,6 +602,10 @@ E
       ==
     ++
   ====
+S
+  ==
+  - $咋zaak3
+  ==
 $$
 
 ###+ 咤3 | _Ch(a/)(3)_ (zaa3)
