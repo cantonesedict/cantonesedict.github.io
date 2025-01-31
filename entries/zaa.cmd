@@ -674,6 +674,11 @@ F
   ==
 W
   ====
+  - [[Page~8 醡(3)]]
+    ==
+    - [[...]];
+    - used for the next [[榨]] [[Kangxi 醡: 打油具]].
+    ==
   - [[Page~8 榨(3)]]
     ==
     - An oil-press [[Kangxi: 打油具也]];
@@ -924,10 +929,13 @@ W
   ====
   - [[Page~8 醡(3)]]
     ==
-    - A wine press;
+    - A wine press [[Kangxi: 壓酒具也]];
     - to press or separate spirits;
-    - used for the next [[$榨3]].
+    - [[...]].
     ==
+    --
+    [[Otherwise, an alternative form of 榨. **See $榨zaa3 for the canonical entry.**]]
+    --
   ====
 $$
 
