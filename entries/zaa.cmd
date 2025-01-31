@@ -430,10 +430,8 @@ W
   - [[Page~7 (2)鮓]]
     ==
     - A rank condiment of fish or flesh and salted hashed fine,
-      with red rice and oil;
-    - _(2)ch(a/) (4)(u:)_
-        [[zaa2 jyu4 鮓魚]],
-        a sort of Medusa or sea-blubber;
+      with red rice and oil [[Kangxi: 藏魚也 etc.]];
+    - [[...]];
     - _[(5)]l(a/) (2)ch(a/)_
         [[laa5 zaa2 揦鮓]],
         rank, dirty, foul.
@@ -461,6 +459,10 @@ E
       ==
     ++
   ====
+S
+  ==
+  - $鮓zaa6
+  ==
 $$
 
 
@@ -948,6 +950,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $拃6
+- $鮓6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -976,4 +979,30 @@ E
     ++
   ====
   <## TODO: 揦返拃沙 laa2 faan1 zaa6 saa1 ##>
+$$
+
+###+ 鮓6 | _Ch(a/)(6)_ (zaa6)
+
+$$
+R
+  ⿂ + 5
+U
+  U+9B93
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~7 (2)鮓 _(2)Ch(a/)_ (zaa2); here corrected to _Ch(a/)(6)_ (zaa6)]]
+    ==
+    - [[...]];
+    - _ch(a/)[(6)] (4)(u:)_
+        [[zaa6 jyu4 鮓魚]],
+        a sort of Medusa or sea-blubber [[Kangxi: 海魚名 etc.]];
+    - [[...]].
+    ==
+  ====
+S
+  ==
+  - $鮓zaa2
+  ==
 $$
