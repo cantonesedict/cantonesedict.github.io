@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zok
-* %date-modified --> 2024-12-03
+* %date-modified --> 2025-01-31
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -330,6 +330,10 @@ W
     - to recompense, to return a compliment.
     ==
   ====
+S
+  ==
+  - $酢cou3
+  ==
 $$
 
 ### 鑿6 | _Tsok(9)_ [[zok6]]

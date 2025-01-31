@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2025-01-25
+* %date-modified --> 2025-01-31
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -357,6 +357,7 @@ $$
 - $譟3
 - $躁3
 - $造3
+- $酢3
 - $醋3
 - $錯3
 ==
@@ -751,6 +752,27 @@ S
   ==
 $$
 
+###+ 酢3 | _Ts(')(o\)(3)_ (cou3)
+
+$$.
+R
+  ⾣ + 5
+U
+  U+9162
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 醋. **See $醋cou3 for the canonical entry.**
+  ++
+S
+  ==
+  - $酢zok6
+  ==
+$$
+
 ### 醋3 | _Ts(')(o\)(3)_ [[cou3]]
 
 $$
@@ -760,7 +782,7 @@ U
   U+918B
 A
   ==
-  -{.modern} 酢
+  -{.modern} $酢3
   ==
 F
   ==
