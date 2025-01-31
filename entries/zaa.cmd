@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2025-01-20
+* %date-modified --> 2025-01-31
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -103,7 +103,7 @@ W
     A colloquial word in the north;
     --
     ==
-    - I, myself;
+    - I, myself [[Kangxi: 俗稱自己爲咱]];
     - _(1)ts(a/) (1)k(a/)_
         [[zaa1 gaa1 咱家]],
         I, me;
