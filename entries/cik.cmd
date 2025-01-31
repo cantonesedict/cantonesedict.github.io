@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cik
-* %date-modified --> 2025-01-02
+* %date-modified --> 2025-01-31
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -91,6 +91,10 @@ R
   ⼝ + 2
 U
   U+53F1
+V
+  ==
+  - cat1 (per 《廣韻》昌栗切)
+  ==
 F
   ==
   - [[F1.74 叱]] 呵叱怒罵也
