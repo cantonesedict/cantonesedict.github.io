@@ -867,10 +867,10 @@ W
   ====
   - [[Page~8 詐(3)]]
     ==
-    - To deceive, to cheat, to impose upon;
-    - erroneous, false;
+    - To deceive, to cheat, to impose upon [[Kangxi: 欺也]];
+    - erroneous, false [[Kangxi: 僞也]];
     - to feign, to make believe;
-    - artful, cunning;
+    - artful, cunning [[Kangxi: 詭譎也]];
     - fraudulent;
     - _ch(a/)(3) (2)kwai ch(a/)(3) (5)m(a/)_
         [[zaa3 gwai2 zaa3 maa5 詐鬼詐馬]],
