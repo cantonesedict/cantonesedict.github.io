@@ -407,6 +407,11 @@ W
     [[Reading variation (per 《廣韻》側下切). **See $痄zaa3 for the canonical entry.**]]
     --
   ====
+S
+  ==
+  - $痄caa4
+  - $痄zaa3
+  ==
 $$
 
 ### 鮓2 | _(2)Ch(a/)_ [[zaa2]]
@@ -714,8 +719,8 @@ W
   ====
   - [[Page~8 (2)痄 _(2)Ch(a/)_ (zaa2); here normalised to _Ch(a/)(3)_ (zaa3)]]
     ==
-    - A running ulcer;
-    - a severe disease;
+    - A running ulcer [[Kangxi: 瘡不合也]];
+    - [[...]];
     - _(1)[sh(a/)ng] ch(a/)[(3)] (1)soi_
         [[saang1 zaa3 soi1 生痄腮]],
         a swelling on the cheek.
@@ -728,6 +733,7 @@ C
   ==
 S
   ==
+  - $痄caa4
   - $痄zaa2
   ==
 $$

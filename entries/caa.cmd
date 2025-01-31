@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2025-01-20
+* %date-modified --> 2025-01-31
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -528,6 +528,7 @@ $$
 - $搽4
 - $查4
 - $槎4
+- $痄4
 - $茶4
 ==
 </nav>
@@ -675,6 +676,31 @@ W
         to raft timber.
     ==
   ====
+$$
+
+###+ 痄4 | _(4)Ch(')(a/)_ (caa4)
+
+$$
+R
+  ⽧ + 5
+U
+  U+75C4
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~8 (2)痄 _(2)Ch(a/)_ (zaa2); here corrected to _(4)Ch(')(a/)_ (caa4)]]
+    ==
+    - [[...]];
+    - a severe disease [[Kangxi: 痄疨病甚]];
+    - [[...]].
+    ==
+  ====
+S
+  ==
+  - $痄zaa2
+  - $痄zaa3
+  ==
 $$
 
 ### 茶4 | _(4)Ch(')(a/)_ [[caa4]]
