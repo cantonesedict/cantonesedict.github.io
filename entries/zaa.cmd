@@ -632,34 +632,26 @@ $$
 
 ### 搾3 | _Ch(a/)(3)_ [[zaa3]]
 
-$$
+$$.
 R
   ⼿ + 10
 U
   U+643E
 F
   ==
+  - [[F2.76 榨]] 壓油之器又糖榨
   - [[F2.76 搾]] ::以[手]壓物::
   ==
 W
   ====
   - [[Page~8 搾(3)]]
     --
-    An unauthorized character.
+    [[Alternative form of 榨. **See $榨zaa3 for the canonical entry.**]]
     --
-    ==
-    - To press down, to squeeze between the hand;
-    - _(5)l(o\) (1)hong (1)t(o\) ch(a/)(3) ch'ut(7) (4)yau_
-        [[lou5 hong1 dou1 zaa3 ceot1 jau4 老糠都搾出油]],
-        he even squeezes oil from rice chaff.
-    ==
   ====
 C
   ==
   - Fan Wan entry: Corrected 千 to 手.
-  - Williams does not consider 搾 (pressing with the hand)
-    interchangeable with 榨 (pressing with a machine);
-    see $榨zaa3 for the "machine-press" senses.
   ==
 $$
 
@@ -672,12 +664,13 @@ U
   U+69A8
 A
   ==
-  -{.modern} $搾3
+  - $搾3
   - $醡3
   ==
 F
   ==
   - [[F2.76 榨]] 壓油之器又糖榨
+  - [[F2.76 搾]] ::以[手]壓物::
   ==
 W
   ====
@@ -696,12 +689,20 @@ W
         [[zaa3 liu4 榨寮]],
         a sugar-press shed.
     ==
+  - [[Page~8 搾(3)]]
+    --
+    An unauthorized character.
+    --
+    ==
+    - To press down, to squeeze between the hand;
+    - _(5)l(o\) (1)hong (1)t(o\) ch(a/)(3) ch'ut(7) (4)yau_
+        [[lou5 hong1 dou1 zaa3 ceot1 jau4 老糠都搾出油]],
+        he even squeezes oil from rice chaff.
+    ==
   ====
 C
   ==
-  - Williams does not consider 搾 (pressing with the hand)
-    interchangeable with 榨 (pressing with a machine);
-    see $搾zaa3 for the "hand-press" senses.
+  - Fan Wan entry: Corrected 千 to 手.
   ==
 $$
 
