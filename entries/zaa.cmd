@@ -233,7 +233,7 @@ W
   ====
   - [[Page~7 (1)撾]]
     ==
-    - To beat a drum or a bell with a stick.
+    - To beat a drum or a bell with a stick [[Kangxi: 擊也, 擊鼓也]].
     ==
   ====
 $$
