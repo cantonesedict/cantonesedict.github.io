@@ -676,7 +676,7 @@ W
   ====
   - [[Page~8 榨(3)]]
     ==
-    - An oil-press;
+    - An oil-press [[Kangxi: 打油具也]];
     - a sugar press;
     - to press or extract juices;
     - _lok(9) ch(a/)(3) (4)ch(')ong_
