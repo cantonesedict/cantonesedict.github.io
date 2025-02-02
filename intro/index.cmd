@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Introduction.
-* %date-modified --> 2024-10-22
+* %date-modified --> 2025-02-02
 * %copyright-prior-years --> 2023--
 * %meta-description --> Williams' introduction
 
@@ -1143,9 +1143,11 @@ in parenthesis under each number.
   {+++
   --
   (Effectively, _(u/)_ = [uː], and _(o\)_ = [ou].
-  The latter is based on Williams being American,
-  with American English having /oʊ/ instead of /əʊ/ for "_lo_, _hoe_, _flow_".)
+  The latter is based on 19th century _o_ as in _stone_,
+  which is somewhere between [oːu] and [oʊ];
+  see [vowel shift chart].)
   --
+  [vowel shift chart]: https://en.wikipedia.org/wiki/File:Great_Vowel_Shift.svg
   +++}
 
 12.
