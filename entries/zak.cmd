@@ -48,7 +48,6 @@ $$
 - $則1
 - $昃1
 - $簀1
-- $賾1
 - $鯽1
 - $鰂1
 ==
@@ -256,37 +255,6 @@ S
   ==
   - $簀zaai3
   - $簀zaak3
-  ==
-$$
-
-### 賾1 | _Chak(7)_ [[zak1]]
-
-$$.
-R
-  ⾙ + 11
-U
-  U+8CFE
-H
-  May appear with left component as 𦣝 (+10) or 𦣞 (+11 assumed here),
-  depending on the font.
-F
-  ==
-  - [[F2.32 ::[賾]::]] 深也雜也
-  ==
-W
-  ====
-  - [[Page~12|n55 賾(7)]]
-    --
-    [[Idiosyncratic reading from Fan Wan. **See $賾zaak3 for the canonical entry.**]]
-    --
-  ====
-C
-  ==
-  - Fan Wan entry: Normalised headword {𧷤=⿲丿臣責} to 賾.
-  ==
-S
-  ==
-  - $賾zaak3
   ==
 $$
 

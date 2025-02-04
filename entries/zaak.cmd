@@ -574,6 +574,10 @@ U
 H
   May appear with left component as 𦣝 (+10) or 𦣞 (+11 assumed here),
   depending on the font.
+A
+  ==
+  - $嘖3
+  ==
 V
   ==
   - zaak6 (per 《廣韻》士革切)
@@ -586,24 +590,20 @@ W
   ====
   - [[Page~12|n55 賾(7) _Chak(7)_ (zak1); here corrected to _Ch(a/)k(8)_ (zaak3)]]
     ==
-    - Obscure, hard of understanding;
+    - Obscure, hard of understanding [[Kangxi: 謂幽深難見]];
     - the secret springs, the hidden cause;
     - occult, profound.
     ==
   - [[Page~569 嘖(7)賾(7) _Tsik(7)_ (zik1); here corrected to _Ch(a/)k(8)_ (zaak3)]]
     ==
     - [[...]];
-    - distant, retired, hidden;
+    - distant, retired, hidden [[Kangxi: 與賾通]];
     - [[...]].
     ==
   ====
 C
   ==
   - Fan Wan entry: Normalised headword {𧷤=⿲丿臣責} to 賾.
-  ==
-S
-  ==
-  - $賾zak1
   ==
 $$
 
