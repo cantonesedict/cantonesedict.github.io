@@ -481,18 +481,13 @@ W
   ====
   - [[Page~10|n53 豸(6)]]
     ==
-    - A fabulous feline beast, called _(5)h(a/)i ch(a/)i(6)_ [[haai5 zaai6 獬豸]]
-      embroidered on censor's robes, indicative of discrimination.
+    - A fabulous ~~feline~~ beast, called _(5)h(a/)i ch(a/)i(6)_ [[haai5 zaai6 獬豸]]
+      embroidered on censor's robes, indicative of discrimination [[Kangxi: 法冠或謂之獬豸冠獬豸神羊能別曲直故以爲冠]].
     ==
     --
-    Read _ch(i/)[(6)]_ [[zi6]]; [[**see $豸zi6**]].
+    [[...]]
     --
   ====
-C
-  ==
-  - Williams' "Read [...]":
-    Corrected _(2)ch(i/)_ (zi2) to _ch(i/)(6)_ (zi6).
-  ==
 S
   ==
   - $豸zi6

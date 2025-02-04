@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2025-01-21
+* %date-modified --> 2025-02-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -4645,21 +4645,23 @@ F
 W
   ====
   - [[Page~10|n53 豸(6)]]
-    ==
-    - [[...]].
-    ==
+    --
+    [[...]]
+    --
     --
     Read _ch(i/)[(6)]_ [[zi6]];
     --
     ==
-    - the 153d~radical of characters of feline beasts;
-    - a worm, a hairless grub.
+    - the 153d~radical of characters of ~~feline~~ beasts;
+    - a worm, a hairless grub [[Kangxi: 有足謂之蟲無足謂之豸]].
     ==
   ====
 C
   ==
   - Williams' "Read [...]":
     Corrected _(2)ch(i/)_ (zi2) to _ch(i/)(6)_ (zi6).
+  - Williams' "feline beasts": Not feline beasts, but long-backed beasts
+    ready to pounce (Kangxi: ::獸長[脊]行豸豸然欲有所司殺形::).
   ==
 S
   ==
