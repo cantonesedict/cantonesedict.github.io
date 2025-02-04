@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zok
-* %date-modified --> 2025-01-31
+* %date-modified --> 2025-02-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -269,12 +269,12 @@ W
   ====
   - [[Page~592 柞(9)]]
     ==
-    - A spinous tree of firm wood,
-      whose new leaves appear as the old ones fall;
-    - a locust?
+    - A ~~spinous~~ tree of firm wood,
+      whose new leaves appear as the old ones fall [[Kangxi: 柞堅韌之木新葉將生故葉乃落]];
+    - ~~a locust?~~
     ==
     --
-    Read _ch(a/)k(8)_ [[zaak3]] [[**see $柞zaak3**]].
+    [[...]]
     --
   ====
 S

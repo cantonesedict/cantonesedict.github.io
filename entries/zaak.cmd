@@ -176,8 +176,8 @@ W
     --
     ==
     - to root up trees;
-    - to fell trees;
-    - narrow, confined.
+    - to fell trees [[Kangxi: 除草曰芟除木曰柞]];
+    - narrow, confined [[Kangxi: 窄陿也]].
     ==
   ====
 S
