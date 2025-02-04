@@ -404,16 +404,20 @@ W
   - [[Page~12|n55 笮(8)]]
     ==
     - [[...]];
-    - a quiver;
-    - a bamboo ceiling of a roof;
-    - to hasten out;
-    - to press;
-    - to tattoo or brand, as a punishment.
+    - a quiver [[Kangxi: 矢箙]];
+    - a bamboo ceiling of a roof [[Kangxi: 屋上板, 在瓦之下棼之上]];
+    - to hasten out [[Kangxi: 出去疾也]];
+    - to press [[Kangxi: 壓也]];
+    - [[...]].
     ==
     --
     [[Otherwise, an alternative form of 窄. **See $窄zaak3 for the canonical entry.**]]
     --
   ====
+S
+  ==
+  - $笮zok6
+  ==
 $$
 
 ###+ 簀3 | _Ch(a/)k(8)_ (zaak3)

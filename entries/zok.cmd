@@ -147,6 +147,7 @@ $$
 - $昨6
 - $柞6
 - $濯6
+- $笮6
 - $酢6
 - $鑿6
 - $鷟6
@@ -309,6 +310,29 @@ W
         to sprinkle (_i.~e._~cleanse) the heart.
     ==
   ====
+$$
+
+###+ 笮6 | _Tsok(9)_ (zok6)
+
+$$
+R
+  ⽵ + 5
+U
+  U+7B2E
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~12|n55 笮(8) _Ch(a/)k(8)_ (zaak3); here corrected to _Tsok(9)_ (zok6)]]
+    ==
+    - [[...]];
+    - to tattoo or brand, as a punishment [[Kangxi: {𠛬=⿰幵刂}名, 黥{𠛬=⿰幵刂}也]].
+    ==
+  ====
+S
+  ==
+  - $笮zaak3
+  ==
 $$
 
 ### 酢6 | _Tsok(9)_ [[zok6]]
