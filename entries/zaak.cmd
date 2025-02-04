@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2025-01-31
+* %date-modified --> 2025-02-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -399,6 +399,10 @@ R
   ⽵ + 11
 U
   U+7C00
+V
+  ==
+  - zak1 (per Fan Wan)
+  ==
 F
   ==
   - [[F2.32 簀 _Chak(7)_ (zak1)]] ？？也
@@ -407,13 +411,13 @@ W
   ====
   - [[Page~12|n55 簀(7) _Chak(7)_ (zak1); here normalised to _Ch(a/)k(8)_ (zaak3)]]
     ==
-    - Boards of a bed;
-    - a bed mat;
-    - to collect;
-    - luxuriant.
+    - Boards of a bed [[Kangxi: 牀棧也]];
+    - a bed mat [[Kangxi: 簀謂之笫]];
+    - to collect [[Kangxi: 積聚也]];
+    - luxuriant [[Kangxi: 簀積也言茂盛似如積聚]].
     ==
     --
-    Read _ch(a/)i(3)_ [[zaai3]]; [[**see $簀zaai3**]].
+    [[...]]
     --
   ====
 C

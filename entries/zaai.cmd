@@ -340,7 +340,7 @@ W
     Read _ch(a/)i(3)_ [[zaai3]];
     --
     ==
-    - a strainer for spirits.
+    - a strainer for spirits [[Kangxi: 壓酒具]].
     ==
   ====
 S
