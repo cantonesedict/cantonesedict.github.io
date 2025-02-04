@@ -94,6 +94,7 @@ U
   U+5616
 V
   ==
+  - zaak6 (per 《廣韻》士革切 for "cry out" sense)
   - zik1 (per Fan Wan, common)
   ==
 F
@@ -102,25 +103,21 @@ F
   ==
 W
   ====
-  - [[Page~569 嘖(7)賾(7) _Tsik(7)_ (zik1); here normalised to _Ch(a/)k(8)_ (zaak3)]]
+  - [[Page~569 ::嘖(7)~~賾(7)~~:: _Tsik(7)_ (zik1); here normalised to _Ch(a/)k(8)_ (zaak3)]]
     ==
-    - To bawl, to cry after;
-    - to dispute about, noisy quarreling;
-    - [[see $賾zaak3 for "abstruse" senses]];
+    - To bawl, to cry after [[Kangxi: 大呼也, 㗲嘖叫也]];
+    - to dispute about, noisy quarreling [[Kangxi: 大呼聲, 爭言貌]];
+    - [[...]];
     - garrulous, impertinent or meddlesome;
-    - to assent to;
+    - ~~to assent to;~~
     - _[ch(a/)k(8)] [ch(a/)k(8)] ts(a/)n(3)_
-        [[zaak3 zaak3 zaan3]]
-        to chuckle adimiringly.
+        [[zaak3 zaak3 zaan3 嘖嘖讚]]
+        to chuckle admiringly.
     ==
+    --
+    [[Otherwise, an alternative form of 賾. **See $賾zaak3 for the canonical entry.**]]
+    --
   ====
-C
-  ==
-  - Williams records 賾 as an alternative form of 嘖,
-    but this is only true for the "abstruse" senses,
-    which he has already recorded under _chak(7)_ (zak1)^,
-    here normalised to _ch(a/)k(8)_ (zaak3).
-  ==
 S
   ==
   - $嘖zik1
