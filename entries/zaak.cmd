@@ -525,11 +525,11 @@ W
   ====
   - [[Page~12|n55 責(8)]]
     ==
-    - To reprove, to reprimand, to blame;
-    - to punish, to fine;
-    - to sustain, to be responsible for, to have charge of;
-    - [[see $矺zaak3 for "weight/crush" senses]];
-    - to ask, to demand;
+    - To reprove, to reprimand, to blame [[Kangxi: 責讓也]];
+    - to punish [[Kangxi: 誅責也]], to fine;
+    - to sustain, to be responsible for, to have charge of [[Kangxi: 任也]];
+    - [[...]];
+    - to ask [[Kangxi: 問也]], to demand [[Kangxi: 求也]];
     - _ch(a/)k(8) fat(9)_
         [[zaak3 fat6 責罰]]
         to fine;
@@ -551,6 +551,9 @@ W
         onerous duties devolve on him;
     - [[...]].
     ==
+    --
+    [[Otherwise, an alternative form of 矺. **See $矺zaak3 for the canonical entry.**]]
+    --
   ====
 C
   ==
