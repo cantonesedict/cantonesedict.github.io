@@ -177,8 +177,11 @@ W
     ==
     - to root up trees;
     - to fell trees [[Kangxi: 除草曰芟除木曰柞]];
-    - narrow, confined [[Kangxi: 窄陿也]].
+    - [[...]].
     ==
+    --
+    [[Otherwise, an alternative form of 窄. **See $窄zaak3 for the canonical entry.**]]
+    --
   ====
 S
   ==
@@ -329,6 +332,7 @@ U
   U+7A84
 A
   ==
+  - $柞3
   - $笮3
   ==
 F
@@ -339,7 +343,7 @@ W
   ====
   - [[Page~12|n55 窄(8)]]
     ==
-    - Narrow, strait;
+    - Narrow, strait [[Kangxi: 狹也迫也隘也]];
     - compressed;
     - groveling, mean, narrow-minded;
     - _pik(7) ch(a/)k(8)_
@@ -360,6 +364,22 @@ W
     - _ch(a/)k(8) l(o\)(6)_
         [[zaak3 lou6 窄路]]
         a lane.
+    ==
+  - [[Page~12|n55 笮(8)]]
+    ==
+    - Like the last [[窄]] [[Kangxi 笮: 狹也廹也]];
+    - [[...]].
+    ==
+  - [[Page~592 柞(9); here normalised to 窄]]
+    --
+    [[...]]
+    --
+    --
+    Read _ch(a/)k(8)_ [[zaak3]]
+    --
+    ==
+    - [[...]];
+    - narrow, confined [[Kangxi 柞: 窄陿也]].
     ==
   ====
 C
@@ -383,13 +403,16 @@ W
   ====
   - [[Page~12|n55 笮(8)]]
     ==
-    - Like the last [[$窄3]];
+    - [[...]];
     - a quiver;
     - a bamboo ceiling of a roof;
     - to hasten out;
     - to press;
     - to tattoo or brand, as a punishment.
     ==
+    --
+    [[Otherwise, an alternative form of 窄. **See $窄zaak3 for the canonical entry.**]]
+    --
   ====
 $$
 
