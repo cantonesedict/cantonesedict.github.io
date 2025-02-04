@@ -838,10 +838,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Reading variation. **See $矺zaak3 for the canonical entry.**
-  ==
+P
+  ++
+  1. Reading variation. **See $矺zaak3 for the canonical entry.**
+  ++
 S
   ==
   - $矺zaak3
