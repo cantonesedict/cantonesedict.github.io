@@ -255,9 +255,9 @@ W
   ====
   - [[Page~10|n53 債(3)]]
     ==
-    - To bear a burden;
+    - To bear a burden [[Kangxi: 負也]];
     - to owe;
-    - a debt;
+    - a debt [[Kangxi: 今俗負財曰債]];
     - _h(i/)m(3) ch(a/)i(3)_
         [[him3 zaai3 欠債]]
         to owe a debt;
