@@ -384,10 +384,10 @@ W
   ====
   - [[Page~10|n53 寨(6)砦(6)]]
     ==
-    - A stockade, a palisade;
+    - A stockade, a palisade [[Kangxi: 山居以木柵, 籬落也]];
     - an encampment;
     - a stockaded village;
-    - a sheep-pen;
+    - a sheep-pen [[Kangxi: 羊栖宿處也]];
     - _ts(')(a/)k(9) ch(a/)i(6)_
         [[caak6 zaai6 賊寨]]
         a robber's hold;
