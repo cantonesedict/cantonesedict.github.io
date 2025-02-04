@@ -124,10 +124,10 @@ W
   ====
   - [[Page~10|n53 ::(1)齋(1)[斋]^::]]
     ==
-    - To respect, to reverence;
-    - to abstain from;
-    - pure, reverential, serious;
-    - a retiring room, a closet;
+    - To respect, to reverence [[Kangxi: 恭也, 齋敬也]];
+    - to abstain from [[Kangxi: 潔也, 洗心曰齋]];
+    - pure, reverential, serious [[Kangxi: 莊也]];
+    - a retiring room, a closet [[Kangxi: 燕居之室曰齋]];
     - _(2)t(a/) (1)ch(a/)i_
         [[daa2 zaai1 打齋]],
         to get a soul out of tartarus;
@@ -193,6 +193,7 @@ W
   ====
 C
   ==
+  - Williams entry: Normalised headword ⿱攵而 to 斋.
   - Williams' 齋戒: Properly, abstinence from all pleasures (meat, alcohol, sex).
   - Williams' 齋醮: Corrected _tsi(u/)(6)_ (ziu6) to _tsi(u/)(3)_ (ziu3).
   - Williams' 羅漢齋: The name of a dish, commonly called Buddha's Delight.
