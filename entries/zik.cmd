@@ -434,7 +434,7 @@ W
   ====
   - [[Page~569 磧(7)]]
     ==
-    - Rocks under water, half-tide rocks, a stony bottom;
+    - Rocks under water, half-tide rocks, a stony bottom [[Kangxi: 水陼有石者]];
     - covered with sand and stones.
     ==
   ====
