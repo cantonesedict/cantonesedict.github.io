@@ -289,9 +289,13 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
+P
+  ++
+  1. Alternative form of 矺. **See $矺zaak3 for the canonical entry.**
+  ++
+S
   ==
-  - Alternative form of 矺. **See $矺zaak3 for the canonical entry.**
+  - $砸zaap3
   ==
 $$
 
