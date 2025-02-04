@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2025-01-21
+* %date-modified --> 2025-02-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -78,7 +78,7 @@ $$
 
 ### 齊1 | _(1)Ch(a/)i_ [[zaai1]]
 
-$$
+$$.
 R
   ⿑ + 0
 U
@@ -93,13 +93,8 @@ W
   ====
   - [[Page~10|n53 (1)齊]]
     --
-    Interchanged with the last [[$齋1]] [[Kangxi: 與齋同]].
+    [[Alternative form of 齋. **See $齋zaai1 for the canonical entry.**]]
     --
-    ==
-    - To respect;
-    - decorous;
-    - the heart pure, to chasten the desires.
-    ==
   ====
 S
   ==
@@ -185,6 +180,15 @@ W
     - _(2)h(o\) (5)ts(')z' (5)k(')(u:) w(a/)(6) (1)ch(a/)i_
         [[hou2 ci5 keoi5 waa6 zaai1 好似佢話齋]],
         just as he said.
+    ==
+  - [[Page~10|n53 (1)齊]]
+    --
+    Interchanged with the last [[齋]] [[Kangxi: 與齋同]].
+    --
+    ==
+    - To respect;
+    - decorous;
+    - the heart pure, to chasten the desires.
     ==
   ====
 C
