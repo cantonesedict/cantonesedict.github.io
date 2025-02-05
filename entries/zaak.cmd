@@ -681,6 +681,11 @@ R
   ⼿ + 11
 U
   U+6458
+V
+  ==
+  - tik1 (per 《廣韻》他歷切 for "pick", "point", and "start" senses)
+  - zaak3 (per 《廣韻》陟革切 for "take" sense)
+  ==
 F
   ==
   - [[F2.89 摘]] 以手折花曰擇
@@ -690,10 +695,10 @@ W
   - [[Page~13|n56 摘(9)]]
     ==
     - To pluck, to cull;
-    - to pull, to pick;
-    - to lay hold of;
-    - to move on, to start;
-    - to point out;
+    - to pull, to pick [[Kangxi: 拓果樹實也]];
+    - to lay hold of [[Kangxi: 手取也]];
+    - to move on, to start [[Kangxi: 發也動也]];
+    - to point out [[Kangxi: 一曰指近之也]];
     - _ch(a/)k(9) yan(3)_
         [[zaak6 jan3 摘印]]
         to take away [an officer's] [[these square brackets appear in the original text]] seal;
