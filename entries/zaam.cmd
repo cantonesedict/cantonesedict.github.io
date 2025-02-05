@@ -437,6 +437,10 @@ R
   ⽴ + 5
 U
   U+7AD9
+V
+  ==
+  - zaam3 (per 《廣韻》陟陷切)
+  ==
 F
   ==
   - [[F2.71 站 _Ch(a/)n(6)_ (zaan6)]] 站立也又音賺
@@ -458,7 +462,7 @@ W
     ==
   - [[Page~19|n62 站(6) _Ch(a/)n(6)_ (zaan6); here corrected to _Ch(a/)m(6)_ (zaam6)]]
     ==
-    - To stand;
+    - To stand [[Kangxi: 久立也]];
     - to stand erect;
     - to stop;
     - a stoppage;
@@ -476,10 +480,6 @@ C
     _ch(a/)n(6)_ (zaan6) to be the canonical reading of 站,
     with 賺 to be read _ch(a/)m(6)_ (zaam6).
   - Williams' 驛站: Stage meaning a relay station for horses.
-  ==
-S
-  ==
-  - $站zaan6
   ==
 $$
 

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2025-02-05
+* %date-modified --> 2025-02-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -604,7 +604,6 @@ $$
 =={.modern}
 - $撰6
 - $棧6
-- $站6
 - $綻6
 - $虥6
 - $譔6
@@ -717,34 +716,6 @@ C
 S
   ==
   - $棧zaan2
-  ==
-$$
-
-### 站6 | _Ch(a/)n(6)_ [[zaan6]]
-
-$$.
-R
-  ⽴ + 5
-U
-  U+7AD9
-F
-  ==
-  - [[F2.71 站]] 站立也又音賺
-  ==
-W
-  ====
-  - [[Page~19|n62 站(6)]]
-    --
-    [[Idiosyncratic reading from Fan Wan. **See $站zaam6 for the canonical entry.**]]
-    --
-  ====
-C
-  ==
-  - Fan Wan entry: Note that Fan Wan considers 賺 to be read _ch(a/)m(6)_ (zaam6).
-  ==
-S
-  ==
-  - $站zaam6
   ==
 $$
 
