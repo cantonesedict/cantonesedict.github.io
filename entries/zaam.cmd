@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2024-12-16
+* %date-modified --> 2025-02-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -54,7 +54,7 @@ $$
 
 ###+ 篸1 | _(1)Ts(a/)m_ (zaam1)
 
-$$
+$$.
 R
   ⽵ + 11
 U
