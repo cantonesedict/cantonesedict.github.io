@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2025-01-20
+* %date-modified --> 2025-02-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -837,7 +837,7 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
+P
   ++
   1. Reading variation (per 《廣韻》昌豔切). **See $䠨zim1 for the canonical entry.**
   ++

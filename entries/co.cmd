@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> co
-* %date-modified --> 2025-01-14
+* %date-modified --> 2025-02-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1032,7 +1032,7 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
+P
   ++
   1. Reading variation (verb-like vernacular). See $坐zo6.
   ++
