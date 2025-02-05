@@ -225,10 +225,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Alternative form of 䁪. **See $䁪zaam2 for the canonical entry.**
-  ==
+P
+  ++
+  1. Alternative form of 䁪. **See $䁪zaam2 for the canonical entry.**
+  ++
 S
   ==
   - $眨zaap3
