@@ -794,8 +794,8 @@ W
   ====
   - [[Page~13|n56 擲(9)]]
     ==
-    - To throw down, to throw at;
-    - to throw away, to reject;
+    - To throw down, to throw at [[Kangxi: 投也]];
+    - to throw away, to reject [[Kangxi: 拋也掉也]];
     - to waste, as one's time;
     - _ch(a/)k(9) (4)(u/)i_
         [[zaak6 wui4 擲回]],
