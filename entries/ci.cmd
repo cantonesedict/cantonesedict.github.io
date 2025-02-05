@@ -2433,9 +2433,9 @@ C
     糯米糍 is the more common spelling for 糯米餈.
   ==
 P
-  ==
+  ++
   1. Alternative form of 餈. **See $餈ci4 for the canonical entry.**
-  ==
+  ++
 E
   ====
   - 【糯米糍】 (no6 mai5 ci4):
