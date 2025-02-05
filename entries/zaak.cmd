@@ -715,6 +715,14 @@ W
         [[zaak6 deng2 摘頂]],
         to take away an officer's button.
     ==
+  - [[Page~13|n56 翟(9)]]
+    --
+    [[...]]
+    --
+    --
+    ~~This~~ and the last [[摘]] are also read _t(')ik(7)_ [[tik1]]
+    ~~with the same meanings~~.
+    --
   ====
 C
   ==
@@ -902,21 +910,16 @@ W
   ====
   - [[Page~13|n56 翟(9)]]
     ==
-    - A surname.
+    - A surname [[Kangxi: 亦姓]].
     ==
     --
-    This and the last [[$摘6]] are also read _t(')ik(7)_ [[tik1]]
-    with the same meanings.
+    ~~This~~ [[...]] ~~also read _t(')ik(7)_ [[tik1]]
+    with the same meanings.~~
     --
   ====
 C
   ====
   - Fan Wan entry: Corrected 伙 to 狄, and removed extraneous trailing 翟.
-  - Williams' "also read _t(')ik(7)_ [...]": this is not quite correct.
-    ==
-    - 摘 is also read _t(')ik(7)_ (tik1) (per 《廣韻》他歷切); but
-    - 翟 is also read _tik(9)_ (dik6) (per 《廣韻》徒歷切).
-    ==
   ====
 S
   ==
