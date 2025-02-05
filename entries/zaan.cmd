@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2024-12-15
+* %date-modified --> 2025-02-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -164,7 +164,7 @@ W
   ====
   - [[Page~555 (2)寁]]
     ==
-    - Promptly, quickly;
+    - Promptly, quickly [[Kangxi: 居之速也]];
     - with haste;
     - to hasten, to accelerate.
     ==
