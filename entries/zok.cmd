@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zok
-* %date-modified --> 2025-02-04
+* %date-modified --> 2025-02-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -196,10 +196,10 @@ W
   ====
   - [[Page~13|n56 擢(9) _Ch(a/)k(9)_ (zaak6); here normalised to _Chok(9)_ (zok6)]]
     ==
-    - To pull up;
-    - to take out, to select, to raise, to promote;
+    - To pull up [[Kangxi: 引也]];
+    - to take out, to select, to raise, to promote [[Kangxi: 拔也, 抽也出也]];
     - to employ in office;
-    - to reject, to extinguish, as good resolutions;
+    - ~~to reject, to extinguish, as good resolutions;~~
     - _[chok](9) f(a/)t(8) (4)n(a/)n (2)sh(o\)_
         [[zok6 faat3 naan4 sou2 擢髮難數]],
         the hairs can not be counted by pulling them out---\
