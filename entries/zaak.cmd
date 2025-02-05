@@ -1011,6 +1011,10 @@ R
   ⾜ + 15
 U
   U+8E91
+V
+  ==
+  - zik6 (per 《廣韻》直炙切)
+  ==
 F
   ==
   - [[F2.89 躑]] 躑躅蟲名人之奔走追逐也
@@ -1020,11 +1024,15 @@ W
   ====
   - [[Page~13|n56 躑(9)]]
     ==
-    - Going back and forth;
-    - embarrassed, undecided;
+    - Going back and forth [[Kangxi: 躑躅猶踟躕也]];
+    - embarrassed, undecided [[Kangxi: 躑躅行不進也]];
     - _ch(a/)k(9) chuk(9)_
         [[zaak6 zuk6 躑躅]]
         irresolute.
     ==
   ====
+C
+  ==
+  - Williams' "embarrassed": In the (now) archaic sense of "impeded", "obstructed".
+  ==
 $$
