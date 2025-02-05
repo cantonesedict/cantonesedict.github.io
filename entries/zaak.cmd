@@ -958,6 +958,10 @@ A
   ==
   - $讁6
   ==
+V
+  ==
+  - zaak3 (alternative per 《廣韻》陟革切)
+  ==
 F
   ==
   - [[F2.89 讁]] 責也貶也
@@ -967,11 +971,11 @@ W
   ====
   - [[Page~13|n56 謫(9)讁(9)]]
     ==
-    - To blame, to reprehend;
-    - to [disgrace] officers, to punish by disgracing;
-    - to scold, to be angry at, to find fault with;
-    - flaw, error;
-    - a change of appearance;
+    - To blame, to reprehend [[Kangxi 謫: 責也, 咎也]];
+    - to [disgrace] officers, to punish [[Kangxi: 罰也]] by disgracing;
+    - to scold, to be angry at [[Kangxi: 怒也]], to find fault with;
+    - flaw, error [[Kangxi: 罪也過也]];
+    - a change of appearance [[Kangxi: 變氣也]];
     - _ch(a/)k(9) (1)k(a/)n_
         [[zaak6 gaan1 謫奸]],
         to disgrace an officer.
