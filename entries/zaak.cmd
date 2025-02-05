@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2025-02-04
+* %date-modified --> 2025-02-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -648,11 +648,11 @@ W
   ====
   - [[Page~13|n56 宅(9)]]
     ==
-    - A dwelling, a mansion, a residence;
+    - A dwelling, a mansion, a residence [[Kangxi: 居也, 謂居處也]];
     - a grave;
-    - to dwell, to fix, to settle;
-    - to conform to;
-    - an office, a station;
+    - to dwell, to fix, to settle [[Kangxi: 定也]];
+    - ~~to conform to;~~
+    - an office, a station [[Kangxi: 所居之位亦曰宅]];
     - _(4)y(e/)ung ch(a/)k(9)_
         [[joeng4 zaak6 陽宅]]
         houses, residences;
