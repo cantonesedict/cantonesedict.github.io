@@ -407,10 +407,10 @@ W
   ====
   - [[Page~553 暫(6)]]
     ==
-    - A part of a day;
+    - ~~A part of a day;~~
     - for the time being, briefly, shortly, for a short time,
-      in the interim, meanwhile;
-    - suddenly;
+      in the interim, meanwhile [[Kangxi: 不久也, 須臾也]];
+    - suddenly [[Kangxi: 暫猶卒也]];
     - _ts(a/)m(6) (4)sh(i/)_
         [[zaam6 si4 暫時]],
         a litte while;
