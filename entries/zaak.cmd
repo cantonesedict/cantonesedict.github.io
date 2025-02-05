@@ -105,8 +105,8 @@ W
   ====
   - [[Page~569 ::嘖(7)~~賾(7)~~:: _Tsik(7)_ (zik1); here normalised to _Ch(a/)k(8)_ (zaak3)]]
     ==
-    - To bawl, to cry after [[Kangxi: 大呼也, 㗲嘖叫也]];
-    - to dispute about, noisy quarreling [[Kangxi: 大呼聲, 爭言貌]];
+    - To bawl, to cry after [[Kangxi 嘖: 大呼也, 㗲嘖叫也]];
+    - to dispute about, noisy quarreling [[Kangxi 嘖: 大呼聲, 爭言貌]];
     - [[...]];
     - garrulous, impertinent or meddlesome;
     - ~~to assent to;~~
@@ -597,7 +597,7 @@ W
   - [[Page~569 嘖(7)賾(7) _Tsik(7)_ (zik1); here corrected to _Ch(a/)k(8)_ (zaak3)]]
     ==
     - [[...]];
-    - distant, retired, hidden [[Kangxi: 與賾通]];
+    - distant, retired, hidden [[Kangxi 嘖: 與賾通]];
     - [[...]].
     ==
   ====
@@ -972,10 +972,10 @@ W
   - [[Page~13|n56 謫(9)讁(9)]]
     ==
     - To blame, to reprehend [[Kangxi 謫: 責也, 咎也]];
-    - to [disgrace] officers, to punish [[Kangxi: 罰也]] by disgracing;
-    - to scold, to be angry at [[Kangxi: 怒也]], to find fault with;
-    - flaw, error [[Kangxi: 罪也過也]];
-    - a change of appearance [[Kangxi: 變氣也]];
+    - to [disgrace] officers, to punish [[Kangxi 謫: 罰也]] by disgracing;
+    - to scold, to be angry at [[Kangxi 謫: 怒也]], to find fault with;
+    - flaw, error [[Kangxi 謫: 罪也過也]];
+    - a change of appearance [[Kangxi 謫: 變氣也]];
     - _ch(a/)k(9) (1)k(a/)n_
         [[zaak6 gaan1 謫奸]],
         to disgrace an officer.
