@@ -738,7 +738,7 @@ W
   ====
   - [[Page~13|n56 擇(9)]]
     ==
-    - To select, to pick out, to choose, to prefer;
+    - To select, to pick out, to choose, to prefer [[Kangxi: 揀選也]];
     - _ch(a/)k(9) yat(9)_
         [[zaak6 jat6-2 擇日]]
         to choose a [lucky] [[these square brackets appear in the original text]] day;
