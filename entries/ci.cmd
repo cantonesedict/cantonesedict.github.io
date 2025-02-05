@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2025-01-22
+* %date-modified --> 2025-02-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2620,6 +2620,10 @@ W
         undecided, embarrassed, going on and then returning.
     ==
   ====
+C
+  ==
+  - Williams' "embarrassed": In the (now) archaic sense of "impeded", "obstructed".
+  ==
 $$
 
 ### 辞4 | _(4)Ts(')z'_ [[ci4]]
