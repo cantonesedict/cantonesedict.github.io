@@ -173,15 +173,15 @@ W
   ====
   - [[Page~15|n58 (2)斬]]
     ==
-    - To sunder, to cut in two;
-    - to cut off;
+    - To sunder, to cut in two [[Kangxi: 截也, 裁也]];
+    - to cut off [[Kangxi: ::斬[...]卽斷也::]];
     - to execute, to decapitate;
     - capital;
     - to root up;
     - to break off, as [intercourse];
-    - faded, forgotten, vanished;
-    - _(2)ch(a/)m (1)shui_
-        [[zaam2 zeoi1 斬衰]],
+    - ~~faded, forgotten, vanished;~~
+    - _(2)ch(a/)m (1)[ts(')(u/)i]_
+        [[zaam2 ceoi1 斬衰]],
         mourning for parents;
     - _(2)ch(a/)m (5)t(')(u:)n_
         [[zaam2 tyun5 斬斷]],
@@ -208,6 +208,7 @@ W
   ====
 C
   ==
+  - Williams' 斬衰: Corrected _(1)shui_ (seoi1) to _(1)ts(')(u/)i_ (ceoi1).
   - Williams' 腰斬: Now used figuratively for midway cancellation or termination.
   - Williams' 斬伐: Changed _f(a/)t(9)_ (faat6) to modern _fat(9)_ (fat6).
   ==
