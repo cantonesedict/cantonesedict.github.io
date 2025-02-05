@@ -942,7 +942,7 @@ W
     ==
     - A large green caterpillar,
       called _ch(a/)k(9) chuk(9)_ [[zaak6 zuk6 {𧓸=⿰虫鄭}蠋]]
-      which feeds on bean leaves.
+      which feeds on bean leaves [[Kangxi: 𧓸蠋蟲名]].
     ==
   ====
 $$
