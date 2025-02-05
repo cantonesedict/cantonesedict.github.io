@@ -95,9 +95,9 @@ W
   - [[Page~553 (1)簪]]
     ==
     - A hairpin, clasp, or bodkin, used to confine the hair
-      or fasten the coiffure;
+      or fasten the coiffure [[Kangxi: 首筓也]];
     - to insert in the hair, to stick on the head;
-    - quick, brisk, to collect speedily;
+    - quick, brisk, ~~to collect~~ speedily [[Kangxi: 疾也]];
     - _(1)ts(a/)m (5)p(')(a/)ng_
         [[zaam1 paang5 簪棒]],
         a hairpin;
