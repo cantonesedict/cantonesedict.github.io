@@ -893,8 +893,7 @@ W
   ====
   - [[Page~20|n63 贃(6)]]
     --
-    An unauthorized word
-    [[here normalised to 賺; **see $賺zaan6 for the canonical entry**]].
+    [[Alternative form of 賺. **See $賺zaan6 for the canonical entry.**]]
     --
   ====
 <##
@@ -909,6 +908,10 @@ W
     (which is intended in the departing tone, not the rising tone).
     The expected reading is _w(a/)n(3)_ (waan3) from Middle Chinese 烏患切.
 ##>
+S
+  ==
+  - $贃waan3 (TODO)
+  ==
 $$
 
 ### 輚6 | _Ch(a/)n(6)_ [[zaan6]]
