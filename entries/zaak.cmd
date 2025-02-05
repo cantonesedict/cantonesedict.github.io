@@ -832,16 +832,16 @@ W
   ====
   - [[Page~13|n56 澤(9)]]
     ==
-    - A marsh, a fen, a pool;
-    - to fertilize, to soften, to enrich;
-    - to anoint, to make to shine;
+    - A marsh, a fen, a pool [[Kangxi: 澤水之鐘也, 水草交厝名之爲澤]];
+    - to fertilize, to soften, to enrich [[Kangxi: 澤者言其潤澤萬物以阜民用也]];
+    - to anoint, to make to shine [[Kangxi: 光潤也]];
     - to benefit, to favor;
     - humid, slippery, smooth;
-    - to show kindness to;
-    - to wash, to moisten;
+    - to show kindness to [[Kangxi: 德澤]];
+    - to wash [[Kangxi: 洗濯曰澤]], to moisten;
     - to make to grow;
     - fertile;
-    - redolent of, as fragrance;
+    - redolent of, as fragrance [[Kangxi: 香澤]];
     - favor, kindness;
     - _(2)shau ch(a/)k(9)_
         [[sau2 zaak6 手澤]]
