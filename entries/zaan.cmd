@@ -823,7 +823,7 @@ U
   U+8CFA
 A
   ==
-  -{.modern} $贃6
+  - $贃6
   ==
 V
   ==
@@ -837,13 +837,9 @@ W
   ====
   - [[Page~16|n59 賺(6) _Ch(a/)m(6)_ (zaam6); here normalised to _Ch(a/)n(6)_ (zaan6)]]
     ==
-    - To impede, to hinder;
-    - to sell, to profit;
-    - to gain unfairly, to palm off poor goods;
-    - _(2)cho [ch(a/)n](6)_
-        [[zo2 zaan6 阻賺]]
-        to deceive;
-        to hinder.
+    - [[...]];
+    - [[...]] to profit;
+    - [[...]].
     ==
   - [[Page~20|n63 贃(6); here normalised to 賺]]
     --
@@ -868,11 +864,8 @@ W
         nothing but a trouble.
     ==
     --
-    Read _(5)w(a/)n_ [[waan5]];
+    [[...]]
     --
-    ==
-    - to sell goods at a profit.
-    ==
   ====
 C
   ==
@@ -880,10 +873,6 @@ C
     as it results in the 陰去 reading _ch(a/)m(3)_ (zaam3)^,
     rather than the intended 陽去 reading _ch(a/)m(6)_ (zaam6).
     Normalised {𫉬=⿱艹⿰犭隻} to 獲.
-  - Williams' reading _(5)w(a/)n_ (waan5) for the authorised sense is incorrect,
-    possibly based on the gloss 音綰
-    (which is intended in the departing tone, not the rising tone).
-    The expected reading is _w(a/)n(3)_ (waan3) from Middle Chinese 烏患切.
   ==
 S
   ==
@@ -908,6 +897,18 @@ W
     [[here normalised to 賺; **see $賺zaan6 for the canonical entry**]].
     --
   ====
+<##
+    --
+    Read _(5)w(a/)n_ [^[waan5]];
+    --
+    ==
+    - to sell goods at a profit.
+    ==
+  - Williams' reading _(5)w(a/)n_ (waan5) for the authorised sense is incorrect,
+    possibly based on the gloss 音綰
+    (which is intended in the departing tone, not the rising tone).
+    The expected reading is _w(a/)n(3)_ (waan3) from Middle Chinese 烏患切.
+##>
 $$
 
 ### 輚6 | _Ch(a/)n(6)_ [[zaan6]]

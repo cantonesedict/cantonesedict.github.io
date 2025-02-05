@@ -485,7 +485,7 @@ $$
 
 ### 賺6 | _Ch(a/)m(6)_ [[zaam6]]
 
-$$.
+$$
 R
   ⾙ + 10
 U
@@ -497,8 +497,17 @@ F
 W
   ====
   - [[Page~16|n59 賺(6)]]
+    ==
+    - To impede, to hinder [[Fan Wan: 阻之也]];
+    - to sell [[Kangxi: 賣也]], [[...]];
+    - to gain unfairly, to palm off poor goods [[Kangxi: 一曰市物失實]];
+    - _(2)cho ch(a/)m(6)_
+        [[zo2 zaan6 阻賺]]
+        to deceive;
+        to hinder.
+    ==
     --
-    [[Reading variation (per 《集韻》直陷切). **See $賺zaan6 for the canonical entry.**]]
+    [[Otherwise, a reading variation (per 《集韻》直陷切). **See $賺zaan6 for the canonical entry.**]]
     --
   ====
 C
