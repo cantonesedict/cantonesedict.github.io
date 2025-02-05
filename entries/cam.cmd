@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2025-01-31
+* %date-modified --> 2025-02-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -455,6 +455,7 @@ $$
 - $尋4
 - $沈4
 - $沉4
+- $湛4
 - $燖4
 - $鐔4
 - $霃4
@@ -580,6 +581,7 @@ U
 A
   ==
   - $沈4
+  - $湛4
   ==
 F
   ==
@@ -623,11 +625,40 @@ W
         [[cam4 hoeng1 沉香]],
         aloes.
     ==
+  - [[Page~16|n59 湛(3) _Ch(a/)m(3)_ (zaam3); here corrected to _(4)Ch(')am_ (cam4) and normalised to 沉]]
+    ==
+    - [[...]];
+    - to sink in [[Kangxi 湛: 與沈同]];
+    - [[...]].
+    ==
   ====
 C
   ==
   - Williams' 沉溺: Changed _nik(9)_ (nik6) to common reading _nik(7)_ (nik1).
   - Williams' 沉重: Corrected _chung(6)_ (zung6 去聲) to _(5)ch(')ung_ (cung5 上聲).
+  ==
+$$
+
+###+ 湛4 | _(4)Ch(')am_ (cam4)
+
+$$.
+R
+  ⽔ + 9
+U
+  U+6E5B
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~16|n59 湛(3) _Ch(a/)m(3)_ (zaam3); here corrected to _(4)Ch(')am_ (cam4)]]
+    --
+    [[Alternative form of 沉. **See $沉cam4 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $湛zaam3
+  - $湛zam3
   ==
 $$
 

@@ -285,6 +285,10 @@ R
   ⽔ + 9
 U
   U+6E5B
+V
+  ==
+  - zaam6 (per Kangxi 宅減切)
+  ==
 F
   ==
   - [[F2.65 湛]] 澄湛清也淡也又姓
@@ -293,14 +297,17 @@ W
   ====
   - [[Page~16|n59 湛(3)]]
     ==
-    - A northern affluent of the Yellow R. near Sh(a/)ns(i/) [[山西]];
-    - to sink in;
-    - to soak, to immerse, to imbibe, as a sponge;
-    - to plunge in;
-    - deep, limpid, still, as water;
-    - clear, calm, as a quiet moonlight.
+    - A northern affluent of the Yellow~R. near Sh(a/)ns(i/) [[山西]] [[Kangxi: 一曰湛水豫章浸 etc.]];
+    - [[...]];
+    - deep [[Kangxi: 深貌]], limpid, still [[Kangxi: 澄也澹也]], as water;
+    - clear, calm [[Kangxi: 湛安也]], as a quiet moonlight.
     ==
   ====
+S
+  ==
+  - $湛cam4
+  - $湛zam3
+  ==
 $$
 
 ### 蘸3 | _Ch(a/)m(3)_ [[zaam3]]

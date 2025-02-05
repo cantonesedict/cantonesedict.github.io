@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2025-01-20
+* %date-modified --> 2025-02-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -502,6 +502,7 @@ $$
 - $枕3
 - $沁3
 - $浸3
+- $湛3
 - $譖3
 ==
 </nav>
@@ -611,6 +612,10 @@ R
   ⽔ + 7
 U
   U+6D78
+A
+  ==
+  - $湛3
+  ==
 V
   ==
   - zam6 (for vernacular "drown" sense)
@@ -634,6 +639,13 @@ W
     - _mok(7) yat(7) cham(3) (4)p(')(i/)_
         [[mok1 jat1 zam3 pei4 剝一浸皮]],
         pull off one covering.
+    ==
+  - [[Page~16|n59 湛(3) _Ch(a/)m(3)_ (zaam3); here corrected to _Tsam(3)_ (zam3) and normalised to 浸]]
+    ==
+    - [[...]];
+    - to soak, to immerse, to imbibe, as a sponge [[Kangxi: 與浸同漬也]];
+    - to plunge in [[Kangxi: 投物水中也]];
+    - [[...]].
     ==
   - [[Page~551 浸(3) _Tsam(3)_]]
     ==
@@ -696,6 +708,29 @@ E
 S
   ==
   - $浸cam1
+  ==
+$$
+
+###+ 湛3 | _Tsam(3)_ (zam3)
+
+$$.
+R
+  ⽔ + 9
+U
+  U+6E5B
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~16|n59 湛(3) _Ch(a/)m(3)_ (zaam3); here corrected to _Tsam(3)_ (zam3)]]
+    --
+    [[Alternative form of 浸. **See $浸zam3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $湛cam4
+  - $湛zaam3
   ==
 $$
 
