@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2025-02-05
+* %date-modified --> 2025-02-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -317,6 +317,13 @@ R
   ⾋ + 19
 U
   U+8638
+H
+  May appear as either ⿱艹醮 or ⿱艹⿱醀灬 (assumed here),
+  depending on the font.
+V
+  ==
+  - jaam5 (vernacular)
+  ==
 F
   ==
   - [[F2.65 ::[蘸]::]] ::以物淬[水]中::
@@ -325,11 +332,11 @@ W
   ====
   - [[Page~16|n59 蘸(3)]]
     ==
-    - To dip, as a pencil in ink, or sop a morsel in gravy;
+    - To dip [[Kangxi: 以物投水也]], as a pencil in ink, or sop a morsel in gravy;
     - used by some for baptize.
     ==
     --
-    Vulgarly pronounced _(5)y(a/)m_ [[jaam5]]; [[**see $蘸jaam5**]].
+    [[...]]
     --
   ====
 C
