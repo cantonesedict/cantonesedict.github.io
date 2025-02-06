@@ -788,8 +788,8 @@ W
   ====
   - [[Page~19|n62 綻(6)]]
     ==
-    - A rent seam;
-    - to rip, to tear, to rend;
+    - A rent seam [[Kangxi: 衣縫]];
+    - to rip, to tear, to rend [[Kangxi: 綻猶解也]];
     - a hint, inkling;
     - _p(')o(3) ch(a/)n(6)_
         [[po3 zaan6 破綻]]
