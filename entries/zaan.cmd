@@ -432,10 +432,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Reading variation. **See $撰zaan6 for the canonical entry.**
-  ==
+P
+  ++
+  1. Reading variation. **See $撰zaan6 for the canonical entry.**
+  ++
 S
   ==
   - $撰syun2 (TODO)
@@ -642,7 +642,7 @@ U
   U+64B0
 A
   ==
-  -{.modern} $譔6
+  - $譔6
   ==
 V
   ==
@@ -656,10 +656,10 @@ W
   ====
   - [[Page~19|n62 撰(6)]]
     ==
-    - To regulate, to correct, to dispose in order;
-    - to grasp;
-    - to compose, to record;
-    - a rule, a statute;
+    - ~~To regulate, to correct, to dispose in order;~~
+    - to grasp [[Kangxi: 持也]];
+    - to compose, to record [[Kangxi: 撰述也屬辭記事曰撰]];
+    - a rule, a statute [[Kangxi: 則也]];
     - a received maxim;
     - a business, an act;
     - to edit, to revise books, to publish;
@@ -671,10 +671,7 @@ W
         to narrate.
     ==
     --
-    Read _(2)s(u:)n_ [[syun2]]; [[**see $撰syun2**]].
-    --
-    --
-    Read _s(u:)n(3)_ [[syun3]]; [[**see $撰syun3**]].
+    [[...]]
     --
   ====
 C
