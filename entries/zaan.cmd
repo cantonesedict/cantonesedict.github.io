@@ -820,10 +820,10 @@ W
   ====
   - [[Page~19|n62 虥(6)]]
     ==
-    - A tiger cat;
+    - A tiger cat [[Kangxi: 貓也]];
     - _ch(a/)n(6) (4)[mi(u/)]_
         [[zaan6 miu4 虥苗]],
-        a tiger shedding its hair.
+        ~~a tiger shedding its hair~~.
     ==
   ====
 C
@@ -832,6 +832,8 @@ C
     Note that 虥苗 is also spelt 虥貓, as the Middle Chinese reading of 貓
     is homophonous with 苗 _(4)mi(u/)_ (miu4).
     In any case, Williams' _(4)m(a/)i_ (maai4) is a typo.
+    Also "shedding its hair" is a misreading of Kangxi 虎竊毛謂之虦貓.
+    Here, 竊 means "light-coloured".
   ==
 $$
 
