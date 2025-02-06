@@ -197,7 +197,7 @@ W
     Sometimes used for _(1)ts(a/)_ [[zaa1]] 咱 I, me, in the north.
     --
     ==
-    - A surname.
+    - A surname [[Kangxi: 姓也]].
     ==
   ====
 $$
