@@ -480,14 +480,14 @@ A
   ==
 F
   ==
-  - [[F2.70 灒]] 汚酒也
+  - [[F2.70 灒]] ::汚[洒]也::
   ==
 W
   ====
   - [[Page~555 濺(3)灒(3)]]
     ==
-    - To stir up muddy water;
-    - turbid water;
+    - To stir up muddy water [[Kangxi 灒: 汙灑也]];
+    - ~~turbid water;~~
     - to spatter;
     - to rebound, to recoil;
     - resilient;
@@ -505,6 +505,10 @@ W
         spattered against me.
     ==
   ====
+C
+  ==
+  - Fan Wan entry: Corrected 酒 to 洒.
+  ==
 $$
 
 ### 瓚3 | _Ts(a/)n(3)_ [[zaan3]]
