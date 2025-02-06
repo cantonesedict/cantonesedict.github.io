@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2025-01-21
+* %date-modified --> 2025-02-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -274,7 +274,7 @@ W
   ====
   - [[Page~574 濺(3) _Ts(i/)n(3)_ (zin3); here corrected to _(1)Ts(i/)n_ (zin1)]]
     ==
-    - A swift current;
+    - A swift current [[Kangxi: 濺濺水疾流貌]];
     - a raceway;
     - [[...]].
     ==
@@ -1123,9 +1123,9 @@ W
   ====
   - [[Page~574 濺(3)]]
     ==
-    - [[See $濺zin1 for "quick flow" senses]];
+    - [[...]];
     - to spatter up, to dash against;
-    - to squirt out, to spurt, as blood.
+    - to squirt out, to spurt [[Kangxi: 水激也]], as blood.
     ==
   ====
 C
