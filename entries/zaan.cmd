@@ -398,9 +398,9 @@ W
   ====
   - [[Page~19|n62 (2)醆]]
     ==
-    - Muddy, unsettled spirits;
+    - Muddy, unsettled spirits [[Kangxi: 酒濁而微淸也]];
     - liquor beginning to clear;
-    - a cup, a goblet.
+    - a cup, a goblet [[Kangxi: 爵也]].
     ==
   ====
 $$
