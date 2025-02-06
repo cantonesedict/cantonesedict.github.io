@@ -267,7 +267,7 @@ W
   ====
   - [[Page~19|n62 (2)盞]]
     ==
-    - A shallow cup for oil;
+    - A shallow cup ~~for oil~~ [[Kangxi: 杯也, 酒盞最小杯也]];
     - a wine saucer;
     - the classifier of lamps;
     - _(1)tang (2)ch(a/)n_
@@ -277,6 +277,9 @@ W
         [[jat1 zaan2 dang1 一盞燈]],
         a lamp.
     ==
+    --
+    [[Otherwise, an alternative form of 琖. **See $琖zaan2 for the canonical entry.**]]
+    --
   ====
 E
   ====
