@@ -572,11 +572,11 @@ W
   ====
   - [[Page~555 讚(3)]]
     ==
-    - To praise, to commend, to laud;
+    - To praise, to commend, to laud [[Kangxi: 稱人之美曰讚]];
     - to sing praises to;
-    - to record the praises of;
-    - to assist;
-    - to explain;
+    - to record the praises of [[Kangxi: 又錄也]];
+    - to assist [[Kangxi: 佐也]];
+    - to explain [[Kangxi: 解也]];
     - _tak(7) (4)yan ts(a/)n(3)_
         [[dak1 jan4 zaan3 得人讚]]
         to be praised, praiseworthy;
