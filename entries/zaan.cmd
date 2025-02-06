@@ -230,6 +230,10 @@ R
   ⽟ + 8
 U
   U+7416
+A
+  ==
+  -{.modern} $盞2
+  ==
 F
   ==
   - [[F2.69 醆]] ::爵也夏曰醆殷曰[斝]周曰爵皆酒器也::
@@ -239,7 +243,7 @@ W
   ====
   - [[Page~19|n62 (2)琖]]
     ==
-    - A wine-cup, made deeper than the preceding [[$盞2]], of jade, or other valuable stone.
+    - A wine-cup, made ~~deeper than the preceding [[盞]],~~ of jade, or other valuable stone [[Kangxi: 玉爵也, 玉琖小杯]].
     ==
   ====
 C
