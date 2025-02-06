@@ -1029,9 +1029,10 @@ W
   ====
   - [[Page~19|n62 饌(6)]]
     ==
-    - To eat, to drink; to feed persons;
-    - to provide for;
-    - dressed food[;]
+    - To eat, to drink;
+    - to feed persons;
+    - to provide for [[Kangxi: 具食也, ::謂饌[陳]具設之也::]];
+    - dressed food [[Kangxi: 飯食也]][;]
     - _ch(')(i/)t(8) ch(a/)n(6)_
         [[cit3 zaan6 設饌]]
         to set out a dinner;
