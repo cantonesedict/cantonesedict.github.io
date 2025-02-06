@@ -518,6 +518,10 @@ R
   ⽟ + 19
 U
   U+74DA
+V
+  ==
+  - zaan6 (per 《廣韻》藏旱切)
+  ==
 F
   ==
   - [[F2.70 瓚]] 玉瓚祭器也受五升
@@ -526,10 +530,17 @@ W
   ====
   - [[Page~555 瓚(3)]]
     ==
-    - A sort of stone sceptre made with a cup, used in pouring out libations;
+    - A sort of stone ~~sceptre made with a~~ cup, used in pouring out libations [[Kangxi: ::瓚亦圭也[...]以進于神也::, 一曰祼器, 瓚者器名 etc.]];
     - a kind of bottle used in worship.
     ==
   ====
+C
+  ==
+  - The reading _ts(a/)n(3)_ (zaan3) is not unattested;
+    Kangxi has 又《集韻》則旰切音贊圭也.
+    Here, 圭也 can arguably be interpreted in the "cup" sense
+    rather than the "tablet" sense.
+  ==
 $$
 
 ### 讚3 | _Ts(a/)n(3)_ [[zaan3]]
