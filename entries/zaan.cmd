@@ -570,6 +570,13 @@ F
   ==
 W
   ====
+  - [[Page~555 贊(3)]]
+    ==
+    - [[...]];
+    - to praise, to commend,
+      in which sense it is interchanged with the next [[讚]];
+    - [[...]].
+    ==
   - [[Page~555 讚(3)]]
     ==
     - To praise, to commend, to laud [[Kangxi: 稱人之美曰讚]];
@@ -615,14 +622,13 @@ W
   ====
   - [[Page~555 贊(3)]]
     ==
-    - To visit a superior, to come before a god;
-    - to second, to assist in bringing forward,
+    - To visit a superior, to come before a god [[Kangxi: 見也]];
+    - to second [[Kangxi: 贊佐也]], to assist in bringing forward [[Kangxi: 出也助也]],
       to introduce, to bring a present to one;
-    - to make clear, to bring to light;
-    - to go out;
+    - to make clear, to bring to light [[Kangxi: 贊明也]];
+    - ~~to go out;~~
     - to give evidence;
-    - to praise, to commend,
-      in which sense it is interchanged with the next [[$讚3]];
+    - [[...]];
     - _ts(a/)n(3) cho(6)_
         [[zaan3 zo6 贊助]]
         to aid in, to further;
@@ -636,6 +642,9 @@ W
         [[zaan3 gin3 贊見]]
         to visit.
     ==
+    --
+    [[Otherwise, an alternative form of 讚. **See $讚zaan3 for the canonical entry.**]]
+    --
   ====
 C
   ==
