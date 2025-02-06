@@ -99,7 +99,7 @@ W
   ====
   - [[Page~555 (2)儧; here normalised to 儹]]
     ==
-    - To accumulate, to collect together, to hoard up, to store.
+    - To accumulate, to collect together, to hoard up, to store [[Kangxi 儧: 聚而計事也]].
     ==
   ====
 $$
