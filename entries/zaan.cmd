@@ -1000,13 +1000,18 @@ W
   ====
   - [[Page~19|n62 輚(6)]]
     ==
-    - A tumbril for carrying the wounded;
-    - a hearse;
+    - A tumbril ~~for carrying the wounded~~;
+    - ~~a hearse;~~
     - _ch(a/)n(6) l(o\)(6)_
         [[zaan6 lou6 輚輅]]
-        a military carriage for sleeping in.
+        a ~~military~~ carriage for sleeping in [[Kangxi: 輚輅臥車]].
     ==
   ====
+C
+  ==
+  - Williams' "military carriage":
+    This is a separate sense for 輚 itself (Kangxi: 兵車也).
+  ==
 $$
 
 ### 饌6 | _Ch(a/)n(6)_ [[zaan6]]
