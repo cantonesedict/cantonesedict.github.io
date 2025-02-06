@@ -711,6 +711,19 @@ W
     --
     [[...]]
     --
+  - [[Page~19|n62 譔(6)]]
+    --
+    Same as the above [[撰]].
+    --
+    ==
+    - [[...]];
+    - _ch(a/)n(6) (4)man_
+        [[zaan6 man4 譔文]],
+        to write essays;
+    - _p(a/)i(3) ch(a/)n(6)_
+        [[baai3 zaan6 拜譔]]
+        to prepare a eulogistic paper.
+    ==
   ====
 C
   ==
@@ -856,18 +869,20 @@ W
   ====
   - [[Page~19|n62 譔(6)]]
     --
-    Same as the above [[$撰6]].
+    [[...]]
     --
     ==
-    - To exhort by precepts;
-    - _ch(a/)n(6) (4)man_
-        [[zaan6 man4 譔文]],
-        to write essays;
-    - _p(a/)i(3) ch(a/)n(6)_
-        [[baai3 zaan6 拜譔]]
-        to prepare a eulogistic paper.
+    - To exhort [[Kangxi: 專敎也]] by precepts;
+    - [[...]].
     ==
+    --
+    [[Otherwise, an alternative form of 撰. **See $撰zaan6 for the canonical entry.**]]
+    --
   ====
+C
+  ==
+  - Williams' "exhort": Better rendered "teach".
+  ==
 $$
 
 ###+ 賺6 | _Ch(a/)n(6)_ (zaan6)
