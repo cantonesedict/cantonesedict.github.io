@@ -213,10 +213,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Reading variation (vernacular rising-tone noun). **See $棧zaan6 for the canonical entry.**
-  ==
+P
+  ++
+  1. Reading variation (vernacular rising-tone noun). **See $棧zaan6 for the canonical entry.**
+  ++
 S
   ==
   - $棧zaan6
@@ -680,6 +680,7 @@ U
   U+68E7
 V
   ==
+  - zaan2 (per Kangxi 阻限切 for "small-bridge" sense)
   - zaan6-2 (vernacular rising-tone noun)
   ==
 F
@@ -690,14 +691,14 @@ W
   ====
   - [[Page~19|n62 棧(6)]]
     ==
-    - A covered loft;
+    - ~~A covered loft;~~
     - palisades;
-    - a scaffold;
-    - a covered, planked road cut out of the side of hills;
-    - a hearse, a workshop;
+    - a scaffold [[Kangxi: 棚也]];
+    - a covered, planked road cut out of the side of hills [[Kangxi: 閣也, 木棧道也]];
+    - a hearse [[Kangxi: 柩車亦謂之棧]], a workshop;
     - a warehouse;
-    - a storehouse, a etable, a pen, a sheepcote;
-    - a wooden bridge or pathway;
+    - a storehouse, a stable [[Kangxi: 馬棧亦編木爲之]], a pen, a sheepcote;
+    - a wooden bridge [[Kangxi: 小橋曰棧]] or pathway [[Kangxi: 編木曰棧]];
     - _ch(a/)n(6) (4)fong_
         [[zaan6-2 fong4 棧房]],
         a warehouse, a packhouse;
