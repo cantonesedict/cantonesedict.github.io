@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2025-01-21
+* %date-modified --> 2025-02-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -857,7 +857,7 @@ A
   ==
 V
   ==
-  - zeon6 (per 《廣韻》徐刃切 for 賮)
+  - zeon6 (per 《廣韻》徐刃切)
   ==
 F
   ==
