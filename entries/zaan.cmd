@@ -329,6 +329,12 @@ A
   ==
   - $䟎2
   ==
+V
+  ==
+  - zaan3 (per 《廣韻》則旰切 for "scatter" sense)
+  - zaan6 (per 《廣韻》藏旱切 for "scatter" sense)
+  - zou1 (per 《集韻》宗蘇切 for "run" sense)
+  ==
 F
   ==
   - [[F2.69 趲]] 催也促也
@@ -337,9 +343,9 @@ W
   ====
   - [[Page~555 (2)䟎; here normalised to 趲]]
     ==
-    - To walk, to get on;
-    - to flee, to run away, to scatter, to put to flight;
-    - to hasten, to urge, to quicken, to press;
+    - To walk, to get on [[Kangxi 趲: 走也]];
+    - to flee, to run away, to scatter, to put to flight [[Kangxi 趲: 散走也]];
+    - to hasten, to urge, to quicken, to press [[Kangxi: 逼使走也]];
     - _(2)ts(a/)n p(o\)(6)_
         [[zaan2 bou6 趲步]]
         to walk quicker;
@@ -356,6 +362,11 @@ W
   ====
 C
   ==
+  - The reading _(2)ts(a/)n_ (zaan2) is not unattested;
+    Kangxi has ::《集韻》[...]又子罕切:: for the "run" sense.
+    However, note that 《集韻》 actually has 子䍐切 for the "hasten" sense,
+    explained 逼使赱也.
+  - Williams' "To walk": More correctly, to run.
   - Williams' 日日來趲: Corrected _yat(7)_ (jat1) to _yat(9)_ (jat6).
   ==
 E
