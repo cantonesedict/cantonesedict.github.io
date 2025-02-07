@@ -247,20 +247,16 @@ U
 H
   May appear as either ⿰𧾷争 (+6) or ⿰𧾷爭 (+8 assumed here),
   depending on the font.
-V
-  ==
-  - zang1 (per Fan Wan)
-  ==
 F
   ==
   - [[F2.29 踭 _(1)Chang_ (zang1)]] 足跟筋也
   ==
 W
   [[Not present]]
-C
-  ==
-  - Alternative form of 㬹. **See $㬹zaang1 for the canonical entry.**
-  ==
+P
+  ++
+  1. Alternative form of 㬹. **See $㬹zaang1 for the canonical entry.**
+  ++
 $$
 
 ###+ 錚1 | _(1)Ch(a/)ng_ (zaang1)
