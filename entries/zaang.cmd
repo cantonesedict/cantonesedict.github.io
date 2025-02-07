@@ -164,10 +164,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Reading variation. **See $箏zang1 for the canonical entry.**
-  ==
+P
+  ++
+  1. Reading variation. **See $箏zang1 for the canonical entry.**
+  ++
 S
   ==
   - $箏zang1

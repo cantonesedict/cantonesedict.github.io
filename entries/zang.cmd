@@ -511,7 +511,7 @@ W
   ====
   - [[Page~20|n63 (1)箏]]
     ==
-    - A kind of harpsichord with 12~copper strings;
+    - A kind of harpsichord with 12~copper strings [[Kangxi: ::鼓[絃]竹身樂也::, ::箏瑟類本十二[絃]今則十三::]];
     - _(1)fung (1)chang_
         [[fung1 zang1 風箏]],
         glasses hung to jingle in the wind;
