@@ -215,17 +215,13 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ====
-  - The reading _(1)chang_ (zang1) for 掙 is not present in Williams;
-    an entry is included here for completeness.
-    ++
-    1. To struggle, to break free.
-       ==
-       - 掙扎 (zang1 zaat3): "Struggle."
-       ==
-    ++
-  ====
+P
+  ++
+  1. To struggle, to break free.
+      ==
+      - 掙扎 (zang1 zaat3): "Struggle."
+      ==
+  ++
 S
   ==
   - $掙caang1
@@ -668,12 +664,13 @@ W
     Read _chang(3)_ [[zang3]];
     --
     ==
-    - to file [[Kangxi: 掙剉也]] [.]
+    - ~~to file[.]~~
     ==
   ====
 C
   ==
-  - Williams' "to file": Note that 剉也 might mean "to break" instead.
+  - Williams' "to file": This is a misreading of Kangxi 掙剉也.
+    Here, 剉 means "break" or "snap", not "file".
   ==
 S
   ==

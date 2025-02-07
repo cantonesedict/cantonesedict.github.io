@@ -387,10 +387,7 @@ W
         determined, energetic, as in bearing pain.
     ==
     --
-    Read _(1)ch(')(a/)ng_ [[caang1]]; [[**see $掙caang1**]].
-    --
-    --
-    Read _chang(3)_ [[zang3]]; [[**see $掙zang3**]].
+    [[...]]
     --
   ====
 E
