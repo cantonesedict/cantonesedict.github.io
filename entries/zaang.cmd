@@ -190,7 +190,7 @@ A
   ==
 V
   ==
-  - zang1 (per Fan Wan for 踭)
+  - zang1 (per Fan Wan)
   ==
 F
   ==
@@ -200,7 +200,7 @@ W
   ====
   - [[Page~21|n64 (1)㬹]]
     ==
-    - The tendon Achilles;
+    - The tendon Achilles [[Kangxi: 足跟筋也]];
     - the heel;
     - the elbow;
     - _yat(7) (1)ch(a/)ng (2)t(a/) kwo(3) h(u:)(3)_
