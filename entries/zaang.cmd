@@ -338,10 +338,10 @@ F
   ==
 W
   [[Not present]]
-C
-  ==
-  - Reading variation. **See $諍zang3 for the canonical entry.**
-  ==
+P
+  ++
+  1. Reading variation. **See $諍zang3 for the canonical entry.**
+  ++
 S
   ==
   - $諍zang3

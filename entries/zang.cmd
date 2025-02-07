@@ -762,12 +762,20 @@ W
   - [[Page~20|n63 諍(3)]]
     ==
     - To remonstrate with;
-    - to stop a wrong;
+    - to stop a wrong [[Kangxi: 止也, 謂止其失也, 諫諍救正也]];
     - _k(a/)n(3) chang(3)_
         [[gaan3 zang3 諫諍]]
         to reprove one's sovereign;
         to reprehend.
     ==
+  - [[Page~20|n63 (1)爭 _(1)Ch(a/)ng_ (zaang1); _Chang(3)_ (zang3) implied]]
+    ==
+    - [[...]];
+    - to reprove, to remonstrate, in which senses it is used for the last [[諍]] [[Kangxi 爭: 本作諍諫諍也止也]].
+    ==
+    --
+    [[...]]
+    --
   ====
 C
   ==
