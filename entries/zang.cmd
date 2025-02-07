@@ -460,7 +460,7 @@ W
   ====
   - [[Page~20|n63 (1)琤]]
     ==
-    - The tinkling sound of gems when they are struck or rung together.
+    - The tinkling sound of gems when they are struck or rung together [[Kangxi: 玉聲]].
     ==
   ====
 S

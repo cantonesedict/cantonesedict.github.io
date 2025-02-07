@@ -143,10 +143,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Reading variation. **See $琤zang1 for the canonical entry.**
-  ==
+P
+  ++
+  1. Reading variation. **See $琤zang1 for the canonical entry.**
+  ++
 S
   ==
   - $琤zang1
