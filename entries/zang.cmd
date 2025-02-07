@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2025-01-20
+* %date-modified --> 2025-02-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -143,7 +143,7 @@ W
   - [[Page~21|n64 (1)崢 _(1)Ch(a/)ng_ (zaang1); here normalised to _(1)Chang_ (zang1)]]
     ==
     - To rise above;
-    - conspicuous, eminent, like a lofty mountain;
+    - conspicuous, eminent, like a lofty mountain [[Kangxi: 崝嶸也]];
     - _(4)t(')au kok(8) (1)[chang] (4)[wing]_
         [[tau4 gok3 zang1 wing4 頭角崢嶸]]^
         a noble appearance, dignified.
