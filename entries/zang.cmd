@@ -290,7 +290,7 @@ W
   ====
   - [[Page~20|n63 (1)棦]]
     ==
-    - A bundle of sticks, a number of sticks tied up into a faggot.
+    - A bundle of sticks, a number of sticks tied up into a faggot [[Kangxi: ::木[束]也::]].
     ==
   ====
 S
