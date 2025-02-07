@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2025-02-07
+* %date-modified --> 2025-02-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -318,11 +318,15 @@ W
   ====
   - [[Page~20|n63 (1)爭 _(1)Ch(a/)ng_ (zaang1); here normalised to _(1)Chang_ (zang1) when appropriate]]
     ==
-    - To wrangle, to strive for precedence;
-    - to contest, to litigate;
-    - to reprove, to remonstrate, in which senses it is used for the last [[$諍3]].
-    - A colloquial word;
-    - just, only, nearly, a little;
+    - To wrangle, to strive for precedence [[Kangxi: 引也, 競也]];
+    - to contest, to litigate [[Kangxi: 訟也]];
+    - [[...]].
+    ==
+    --
+    ~~A colloquial word;~~
+    --
+    ==
+    - ~~just, only, nearly, a little;~~
     - _(1)[chang] noi(6)_
         [[zang1 noi6 爭奈]]
         but still, howbeit, nevertheless;
@@ -379,6 +383,9 @@ C
     is preferred in the vernacular register,
     so normalisation to the shorter _(1)chang_ (zang1) is only appropriate
     in some instances.
+  - Williams' "A colloquial word" etc.: Yes it is a vernacular word,
+    but the meaning is to differ or to lack (see below),
+    not "just", "only", etc.
   - Williams' 爭功: Not to emulate, but to claim merit.
   - Williams' 爭奪: Corrected _t(u:)t(8)_ (dyut3) to _t(u:)t(9)_ (dyut6).
   - Williams' 爭得多: Corrected _(1)t(o\)_ (dou1) to _(1)to_ (do1).
@@ -396,6 +403,7 @@ E
     1. To lack, to be missing, to be short.
        ==
        - 爭對筷子 (zaang1 deoi3 faai3 zi2): "Short [a] pair of chopsticks."
+       - 爭一毫 (zaang1 jat1 hou4): "Ten cents short."
        ==
     1. To owe.
        ==
@@ -424,6 +432,8 @@ E
 S
   ==
   - $爭zaang1
+  - $爭zaang3
+  - $爭zang3
   ==
 $$
 
@@ -626,6 +636,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $掙3
+- $爭3
 - $甑3
 - $諍3
 - $蹭3
@@ -664,6 +675,30 @@ S
   - $掙caang1
   - $掙zaang6
   - $掙zang1
+  ==
+$$
+
+###+ 爭3 | _Chang(3)_ (zang3)
+
+$$.
+R
+  ⽖ + 4
+U
+  U+722D
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~20|n63 (1)爭 _(1)Ch(a/)ng_ (zaang1); _Chang(3)_ (zang3) implied]]
+    --
+    [[Alternative form of 諍. **See $諍zang3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $爭zaang1
+  - $爭zaang3
+  - $爭zang1
   ==
 $$
 
@@ -712,7 +747,7 @@ H
   depending on the font.
 A
   ==
-  - 爭
+  - $爭3
   ==
 V
   ==

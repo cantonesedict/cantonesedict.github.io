@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaang
-* %date-modified --> 2025-02-07
+* %date-modified --> 2025-02-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -123,7 +123,9 @@ W
   ====
 S
   ==
+  - $爭zaang3
   - $爭zang1
+  - $爭zang3
   ==
 $$
 
@@ -291,10 +293,34 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $爭3
 - $諍3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+###+ 爭3 | _Ch(a/)ng(3)_ (zaang3)
+
+$$.
+R
+  ⽖ + 4
+U
+  U+722D
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 諍, and reading variation. **See $諍zang3 for the canonical entry.**
+  ++
+S
+  ==
+  - $爭zaang1
+  - $爭zang1
+  - $爭zang3
+  ==
+$$
 
 ###+ 諍3 | _Ch(a/)ng(3)_ (zaang3)
 
