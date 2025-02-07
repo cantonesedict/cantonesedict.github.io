@@ -619,10 +619,15 @@ W
   ====
   - [[Page~20|n63 (1)錚]]
     ==
-    - A small cymbal, a small sized gong;
-    - the ringing sound of metals.
+    - A small cymbal, a small sized gong [[Kangxi: 鉦也]];
+    - the ringing sound of metals [[Kangxi: 金聲也]].
     ==
   ====
+C
+  ==
+  - The reading _(1)chang_ (zang1) is not unattested;
+    Kangxi has 《唐韻》側莖切《集韻》葘莖切{𠀤=⿱夶一}音爭《說文》金聲也.
+  ==
 S
   ==
   - $錚zaang1
