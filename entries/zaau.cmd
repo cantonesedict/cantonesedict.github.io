@@ -177,9 +177,9 @@ W
   ====
   - [[Page~25|n68 (2)帚(2)箒 _(2)Chau_ (zau2); here normalised to  _(2)Ch(a/)u_ (zaau2)]]
     ==
-    - A besom;
+    - A besom [[Kangxi 箒: 箕箒也]];
     - a broom;
-    - to sweep up dirt, for which the first [[帚]] is most proper;
+    - to sweep up dirt [[Kangxi 帚: 糞也, 掃除糞穢也]], for which the first [[帚]] is most proper;
     - _chap(7) (1)k(i/) (2)[ch(a/)u]_
         [[zap1 gei1 zaau2 執箕帚]],
         term for a wife or concubine.
