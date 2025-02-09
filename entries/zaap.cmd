@@ -304,10 +304,6 @@ R
   ⽊ + 11
 U
   U+69E2
-V
-  ==
-  - zap6 (per 《廣韻》似入切)
-  ==
 F
   ==
   - [[F2.39 ::[槢]:: _Tsap(9)_ (zap6)]] 堅木
@@ -316,7 +312,7 @@ W
   ====
   - [[Page~559 槢(9)]]
     ==
-    - Firm, hard wood;
+    - Firm, hard wood [[Kangxi: 堅木]];
     - durable timber;
     - _ts(a/)p(9) muk(9)_
         [[zaap6 muk6 槢木]]
