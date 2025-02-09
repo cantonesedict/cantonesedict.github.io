@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zip
-* %date-modified --> 2024-11-06
+* %date-modified --> 2025-02-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -393,14 +393,8 @@ W
   ====
   - [[Page~22* 褶(8)]]
     --
-    Used for the last,
-    but always read _ch(a/)p(8)_ or _ts(a/)p(8)_ [[**see $褶zaap3**]].
+    [[Reading variation. **See $褶zaap3 for the canonical entry.**]]
     --
-    ==
-    - [[See $褶dip6 for "lined garment" senses]];
-    - [[See $褶zaap6 for "riding jacket" senses]];
-    - [[...]].
-    ==
   ====
 S
   ==

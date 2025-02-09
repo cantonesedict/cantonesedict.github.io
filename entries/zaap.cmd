@@ -181,20 +181,22 @@ U
   U+8936
 V
   ==
-  - zip3 (from 摺)
+  - zip3 (per 襵)
   ==
 F
   [[Not present]]
 W
   ====
-  - [[Page~22* 褶(8)]]
+  - [[Page~22* 褶(8) _Ch(i/)p(8)_ (zip3)]]
     --
-    Used for the last [[$襵zip3]],
-    but always read _ch(a/)p(8)_ or _ts(a/)p(8)_.
+    Used for the last [[襵]],
+    but always read _ch(a/)p(8)_ or _ts(a/)p(8)_ [[both zaap3]].
     --
     ==
-    - [[See $褶dip6 for "lined garment" senses]];
-    - [[See $褶zaap6 for "riding jacket" senses]];
+    <##
+    - [[TODO: 褶dip6 for "lined garment" senses]];
+    ##>
+    - [[...]];
     - _(4)kw(')an ch(a/)p(8)_
         [[kwan4 zaap3 裙褶]]
         the plaits on a petticoat;
@@ -400,7 +402,7 @@ W
     --
     ==
     - [[...]];
-    - a lined riding jacket;
+    - a lined riding jacket [[Kangxi: 袴褶騎服]];
     - _f(u/)(3) [ts(a/)p(9)]_
         [[fu3 zaap6 袴褶]]
         overalls for horseback;
