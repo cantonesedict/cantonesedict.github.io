@@ -502,7 +502,7 @@ W
   ====
   - [[Page~22|n65 鈒(9)]]
     --
-    Read _s(a/)p(8)_ [[saap3]]; [[**see $鈒saap3**]].
+    [[...]]
     --
     --
     A colloquial word.
