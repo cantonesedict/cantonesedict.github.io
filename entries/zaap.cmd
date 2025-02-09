@@ -807,10 +807,6 @@ R
   ⾬ + 11
 U
   U+972B
-V
-  ==
-  - zap6 (per 《廣韻》似入切)
-  ==
 F
   ==
   - [[F2.40 霫 _Tsap(9)_ (zap6)]] 大雨
@@ -819,9 +815,28 @@ W
   ====
   - [[Page~559 霫(9)]]
     ==
-    - A great shower, rainy;
-    - an ancient tribe of northerners near Corea or Manchuria,
-      spoken of during the T(')(a/)ng [[唐]] dynasty.
+    - A great shower [[Kangxi: 雴霫大雨也]], [[...]];
+    - an ancient tribe of northerners ~~near Corea or Manchuria~~,
+      spoken of during the T(')(a/)ng [[唐]] dynasty [[Kangxi: 白霫北狄國]].
     ==
+    <##
+    - [[...]], rainy [[Kangxi: 雨貌, 霫霫雨也]];
+    - an ancient tribe of northerners near Corea or Manchuria [[Kangxi: 奚霫東北夷名]],
+      ~~spoken of during the T(')(a/)ng [[唐]] dynasty~~.
+    ##>
   ====
+C
+  ==
+  - Williams' "near Corea or Manchuria": This is an erroneous merging
+    of two distinct proper-noun (barbarian group) senses:
+    ++
+    1. 霫 _sap(7)_ (sap1) as in 奚霫 from the north-east (see $霫sap1); and
+    2. 霫 _ts(a/)p(9)_ (zaap6) as in 白霫 from the north.
+    ++
+    The second of these is the one where Kangxi has an example from 《唐書回鶻傳》.
+  ==
+S
+  ==
+  - $霫sap1 (TODO)
+  ==
 $$
