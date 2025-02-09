@@ -600,10 +600,6 @@ R
   ⾩ + 14
 U
   U+96B0
-V
-  ==
-  - zap6 (per 《廣韻》似入切)
-  ==
 F
   ==
   - [[F2.39 隰 _Tsap(9)_ (zap6)]] 下溼曰隰
@@ -612,8 +608,8 @@ W
   ====
   - [[Page~559 隰(9)]]
     ==
-    - Low, marshy land;
-    - a pool, a morass, wet meadows at the base of hills;
+    - Low, marshy land [[Kangxi: 下濕曰隰]];
+    - a pool, a morass, wet meadows at the base of hills [[Kangxi: 阪下濕也]];
     - _ts(a/)p(9) (4)t(')(i/)n_
         [[zaap6 tin4 隰田]],
         low wet fields, marshes.
