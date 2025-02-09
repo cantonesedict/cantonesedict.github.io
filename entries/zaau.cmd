@@ -292,10 +292,10 @@ W
     ==
   - [[Page~29|n72 (2)抓]]
     --
-    Interchanged with the last [[$爪2]].
+    Interchanged with the last [[爪]].
     --
     ==
-    - To scratch, to titillate;
+    - To scratch, to titillate [[Kangxi: 搔也]];
     - to tear with the claws;
     - to cajole.
     ==
