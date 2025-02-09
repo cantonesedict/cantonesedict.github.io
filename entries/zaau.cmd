@@ -516,7 +516,7 @@ W
   ====
   - [[Page~29|n72 罩(3)]]
     ==
-    - A net, or basket to catch mud fish by covering them;
+    - A net, or basket to catch mud fish by covering them [[Kangxi: 捕魚器也]];
     - to catch or cover over;
     - to shade;
     - a shade, a cover, a protection from wind or dust;
