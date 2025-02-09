@@ -443,10 +443,6 @@ R
   ⾐ + 16
 U
   U+8972
-V
-  ==
-  - zap6 (per 《廣韻》似入切)
-  ==
 F
   ==
   - [[F2.39 襲 _Tsap(9)_ (zap6)]] 重衣也因也又潛師揜取曰襲
@@ -455,13 +451,13 @@ W
   ====
   - [[Page~558 襲(9)]]
     ==
-    - Double garments, lined robes, a court dress;
+    - Double garments [[Kangxi: 重衣也]], ~~lined robes, a court dress~~;
     - a suit;
-    - a robe fastened on the left side;
-    - collected;
-    - repeated;
-    - to make a foray, to invade, to steal into;
-    - to receive, to inherit;
+    - a robe fastened on the left side [[Kangxi: 左袵袍也]];
+    - ~~collected;~~
+    - repeated [[Kangxi: 重也]];
+    - to make a foray, to invade, to steal into [[Kangxi: 掩其不備也]];
+    - to receive, to inherit [[Kangxi: 受也]];
     - hereditary, descending in a family;
     - _shai(3) ts(a/)p(9)_
         [[sai3 zaap6 世襲]]
@@ -477,6 +473,16 @@ W
         a hereditary baron.
     ==
   ====
+C
+  ==
+  - Williams' "Double garments": Seen classically in the verb sense,
+    i.e. to put on a second layer of clothing.
+  - Williams' "a court dress": This is a misreading of Kangxi 襲朝服
+    as a definition, when it is actually an example for the verb sense 服也,
+    to wear.
+  - Williams' "collected": This is a misreading of Kangxi 合也.
+    Here, 合 means "match".
+  ==
 $$
 
 ### 鈒6 | _Ch(a/)p(9)_ [[zaap6]]
