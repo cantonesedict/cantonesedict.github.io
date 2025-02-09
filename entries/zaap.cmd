@@ -276,7 +276,7 @@ W
   ====
   - [[Page~22|n65 极(9)]]
     --
-    Read _k(')ap(7)_ [[kap1]]; [[**see $极kap1**]].
+    [[...]]
     --
     --
     A colloquial word.
