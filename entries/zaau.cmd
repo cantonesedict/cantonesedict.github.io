@@ -110,9 +110,9 @@ W
   ====
   - [[Page~28|n71 (1)嘲]]
     ==
-    - To deride, to jeer at;
+    - To deride, to jeer at [[Kangxi: 謔也]];
     - to ridicule;
-    - raillery;
+    - ~~raillery;~~
     - _p(a/)k(9) (1)ch(a/)u_
         [[baak6 zaau1 白嘲]],
         a pasquinade;
@@ -123,7 +123,19 @@ W
         [[zaau1 maa6 嘲罵]]
         to jeer and rail at.
     ==
+  - [[Page~28|n71 (1)啁]]
+    --
+    Interchanged with the last [[嘲]] [[Kangxi 啁: 與嘲謿通]].
+    --
+    --
+    [[...]]
+    --
   ====
+C
+  ==
+  - Williams' "raillery": To my knowledge, 嘲 is used for malicious or spiteful
+    ridicule, not for good-natured banter.
+  ==
 $$
 
 
