@@ -332,10 +332,6 @@ R
   ⽻ + 5
 U
   U+7FD2
-V
-  ==
-  - zap6 (per 《廣韻》似入切)
-  ==
 F
   ==
   - [[F2.39 習 _Tsap(9)_ (zap6)]] ::學慣熟也狎也[練]也::
@@ -344,10 +340,10 @@ W
   ====
   - [[Page~558 習(9)]]
     ==
-    - A continued flight;
+    - A continued flight [[Kangxi: 數飛也]];
     - to repeat the same act, to practice,
       to get accustomed to, to become skilled in;
-    - practice, use, custom, habit, exercise, repetition;
+    - practice, use, custom, habit, exercise, repetition [[Kangxi: 習重也]];
     - _hok(9) ts(a/)p(9)_
         [[hok6 zaap6 學習]]
         apprenticed to;
@@ -378,6 +374,9 @@ W
 C
   ==
   - Fan Wan entry: Corrected 綀 to 練.
+  - Williams' "A continued flight": Better rendered "repeated flight".
+    In Kangxi 數飛也, note that 數 is to be read in entering tone,
+    _shok(8)_ (sok3).
   - Williams' 習俗使然: Corrected _(5)sh(i/)_ (si5) to _(2)sz'_ (si2).
   ==
 $$
