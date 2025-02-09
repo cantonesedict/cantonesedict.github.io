@@ -479,6 +479,10 @@ R
   ⽵ + 4
 U
   U+7B0A
+V
+  ==
+  - zaau2 (alternative per 《廣韻》側絞切 for "strainer" sense)
+  ==
 F
   ==
   - [[F2.42 笊]] 笊籬
@@ -487,8 +491,8 @@ W
   ====
   - [[Page~29|n72 笊(3)]]
     ==
-    - A skimmer made of bamboo or iron wire;
-    - nests in caves;
+    - A skimmer made of bamboo or iron wire [[Kangxi: 笊篱竹器]];
+    - nests in caves [[Kangxi: 鳥居穴曰笊居樹曰巢]];
     - _ch(a/)u(3) (4)l(i/)_
         [[zaau3 lei4-1 笊籬]],
         a wire ladle.
