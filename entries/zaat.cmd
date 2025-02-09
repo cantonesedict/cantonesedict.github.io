@@ -79,7 +79,7 @@ P
   ++
   1. To pierce, to jab, to push through.
   1. To spread, to extend.
-  1. Used in 掙扎; see $掙zang1.
+  1. Used in [掙扎](zang#1掙) (to struggle, to break free).
   ++
 E
   ====
