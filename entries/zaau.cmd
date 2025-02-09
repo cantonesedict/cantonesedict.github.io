@@ -390,16 +390,16 @@ W
   ====
   - [[Page~25|n68 (2)肘 _(2)Chau_ (zau2); here normalised to  _(2)Ch(a/)u_ (zaau2)]]
     ==
-    - The fore-arm;
-    - the elbow, the wrist;
-    - to take by the wrist;
+    - ~~The fore-arm;~~
+    - the elbow [[Kangxi: 臂節也]], ~~the wrist~~;
+    - to take by ~~the wrist~~ [[Kangxi: 爲人捉其肘而留之亦曰肘]];
     - a quarter of an animal;
     - _(2)shau (2)[ch(a/)u]_
         [[sau2 zaau2 手肘]],
         the elbow;
     - _(2)[ch(a/)u] yat(9)_
         [[zaau2 jat6 肘腋]]
-        arms and sides, _met._ near relatives;
+        ~~arms and sides~~, _met._ near relatives;
     - _(4)ts(')(i/)n (1)ch(u:) (2)[ch(a/)u]_
         [[cin4 zyu1 zaau2 前豬肘]],
         a shoulder of pork.
@@ -408,6 +408,9 @@ W
 C
   ==
   - Fan Wan entry: Corrected headword 刖 to 肘.
+  - Williams' "the wrist": This is a misreading of Kangxi 《徐曰》寸口手腕動脈處也,
+    which is a very unilluminating attempt to explain 寸手寸口也 from 《說文》.
+  - Williams' "arms and sides": Better rendered "elbows and armpits"
   ==
 S
   ==
