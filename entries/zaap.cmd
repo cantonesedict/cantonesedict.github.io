@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaap
-* %date-modified --> 2025-02-05
+* %date-modified --> 2025-02-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -47,6 +47,7 @@ $$
 - $劄3
 - $眨3
 - $砸3
+- $箚3
 - $褶3
 ==
 </nav>
@@ -59,6 +60,10 @@ R
   ⼑ + 12
 U
   U+5284
+A
+  ==
+  -{.modern} $箚3
+  ==
 F
   ==
   - [[F2.66 劄]] ::帋劄又以針[刺]也又柬疏謂之劄子::
@@ -67,21 +72,21 @@ W
   ====
   - [[Page~22|n65 劄(8)]]
     ==
-    - To prick, to puncture;
+    - To prick, to puncture [[Kangxi 箚: 以鍼刺也]];
     - to embroider;
-    - a document, a paper;
+    - a document, a paper [[Kangxi 箚: 牋劄用以奏事非表非狀者謂之劄子]];
     - a particular sort of paper;
-    - a diploma;
+    - ~~a diploma;~~
     - a contract;
     - to write out, as a list of prices;
     - a reply from a higher officer;
-    - a remonstrance to the emperor;
+    - ~~a remonstrance to the emperor;~~
     - _(2)ch(i/) ch(a/)p(8)_
         [[zi2 zaap3 紙劄]]
         stationery;
     - _ch(a/)p(8) (2)tsz'_
         [[zaap3 zi2 劄子]]
-        a remonstrance;
+        ~~a remonstrance~~;
     - _k(a/)m(3) ch(a/)p(8)_
         [[gaam3 zaap3 監劄]]
         a diploma bought by a _kiensang_ [[監生]];
@@ -102,6 +107,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected 剌 to 刺.
+  - Kangxi has 箚 (⿱𥫗㓣) for the headword, but 劄 (⿰答刂) in the explanations.
   ==
 $$
 
@@ -147,6 +153,23 @@ S
   ==
   - $砸zaak3
   ==
+$$
+
+###+ 箚3 | _Ch(a/)p(8)_ (zaap3)
+
+$$.
+R
+  ⽵ + 8
+U
+  U+7B9A
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 劄. **See $劄zaap3 for the canonical entry.**
+  ++
 $$
 
 ### 褶3 | _Ch(a/)p(8)_ _Ts(a/)p(8)_ [[zaap3]]
