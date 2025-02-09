@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaau
-* %date-modified --> 2025-01-17
+* %date-modified --> 2025-02-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -65,16 +65,19 @@ W
   ====
   - [[Page~28|n71 (1)啁]]
     --
-    Interchanged with the last [[$嘲1]].
+    [[...]]
     --
     ==
-    - Chirping, bickering of birds;
+    - Chirping, bickering of birds [[Kangxi: 啁哳鳥鳴也]];
     - _(1)ch(a/)u (1)ch(a/)u (1)sheng_
         [[zaau1 zaau1 seng1 啁啁聲]],
         chirping of birds.
     ==
     --
-    Read _(1)t(o\)_ [[dou1]]; [[**see $啁dou1**]].
+    [[...]]
+    --
+    --
+    [[Otherwise, an alternative form of 嘲. **See $嘲zaau1 for the canonical entry.**]]
     --
   ====
 C

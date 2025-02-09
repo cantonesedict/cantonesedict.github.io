@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2025-01-20
+* %date-modified --> 2025-02-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -214,14 +214,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - The reading _(1)chau_ (zau1) for 啁 is not present in Williams;
-    an entry is included here for completeness.
-    ++
-    1. Used in 啁噍 (sound of birds).
-    ++
-  ==
+P
+  ++
+  1. Used in 啁噍 (sound of birds) (Kangxi: 啁噍鳥聲).
+  ++
 S
   ==
   - $啁dou1 (TODO)
