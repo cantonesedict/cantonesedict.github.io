@@ -151,8 +151,8 @@ W
   ====
   - [[Page~24|n67 扎(8); here normalised to 紮]]
     ==
-    - [[See $扎zaat3 for "pluck up" sense]];
-    - to bind, to bind around, to bundle up;
+    - [[...]];
+    - to bind, to bind around, to bundle up [[Kangxi: 纏束也]];
     - a bundle;
     - to make or cut out paper images;
     - _ch(a/)t(8) yat(7) ch(a/)t(8)_
