@@ -624,10 +624,6 @@ R
   ⾫ + 4
 U
   U+96C6
-V
-  ==
-  - zap6 (per 《廣韻》秦入切)
-  ==
 F
   ==
   - [[F2.40 集 _Tsap(9)_ (zap6)]] 聚集會集
@@ -636,16 +632,16 @@ W
   ====
   - [[Page~558 集(9)]]
     ==
-    - To flock together
+    - To flock together [[Kangxi: 本作雧羣鳥在木上也]];
     - to gather, as clouds;
-    - to assemble, to come together, to congregate, to collect;
-    - to bring together;
-    - to go directly to the mark;
+    - to assemble, to come together, to congregate, to collect [[Kangxi: 合也, 聚也會也]];
+    - to bring together [[Kangxi: 同也, 集齊也]];
+    - ~~to go directly to the mark;~~
     - to mix properly, to blend;
-    - to make a collection, to compile;
+    - to make a collection, to compile [[Kangxi: 雜也]];
     - a miscellany, ana;
     - a place where people collect, as a market;
-    - often interchanged with the last [[$雜6]];
+    - ~~often interchanged with the last [[雜]];~~
     - _(4)ts(')ai ts(a/)p(9)_
         [[cai4 zaap6 齊集]]
         came together, a full concourse;
@@ -671,8 +667,8 @@ W
   ====
 C
   ==
-  - Williams' "often interchanged with the last":
-    Not really in modern usage.
+  - Williams' "to go directly to the mark": Perhaps intended for Kangxi 就也成也,
+    but that is better rendered "accomplished" or "completed".
   ==
 $$
 
