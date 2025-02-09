@@ -699,14 +699,14 @@ W
   ====
   - [[Page~558 雜(9)襍(9)]]
     ==
-    - A mixture of different colors or ingredients;
+    - A mixture of different colors [[Kangxi: 五彩相合也]] or ingredients;
     - particolored, streaked;
     - mixed, unassorted, blended, mingled, confused;
-    - various, all sorts, miscellaneous, heterogenous, fragmentary;
+    - various, all sorts, miscellaneous, heterogenous, fragmentary [[Kangxi: 碎也]];
     - to mix, to confuse;
-    - to repeat;
-    - to revolve;
-    - to bore through;
+    - ~~to repeat;~~
+    - to revolve [[Kangxi: 帀也]];
+    - to bore through [[Kangxi: 穿也]];
     - _ts(a/)p(9) fo(3)_
         [[zaap6 fo3 雜貨]]
         miscellaneous goods;
@@ -747,7 +747,7 @@ W
   ====
 C
   ==
-  - Williams' "unassorted": An old word for unsorted or miscellaneous.
+  - Williams' "unassorted": Meaning "unsorted" or "miscellaneous".
   - Williams' 五方雜處: Changed _(2)ch(')(u:)_ (cyu2) to common reading _(5)ch(')(u:)_ (cyu5).
   ==
 E
@@ -794,7 +794,7 @@ E
   However, since 擸{𢶍=⿰扌䪞} is also considered
   the original spelling of 垃圾 laap6 saap3 "rubbish",
   it would be confusing to use it for laap6 zaap6 also.
-  As a compromise that acknowledges the (probable) common ancestry,
+  As a compromise that acknowledges the possible common ancestry,
   I have opted to spell laap6 zaap6 as 垃雜,
   even though the common spelling is 立雜.
   --
