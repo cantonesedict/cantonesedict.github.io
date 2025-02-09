@@ -51,6 +51,7 @@ $$
 - $灼3
 - $綽3
 - $芍3
+- $踔3
 - $鵲3
 ==
 </nav>
@@ -342,6 +343,35 @@ W
 S
   ==
   - $芍zoek3
+  ==
+$$
+
+### 踔3 | _Ch(')(e/)uk(8)_ [[coek3]]
+
+$$
+R
+  ⾜ + 8
+U
+  U+8E14
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~29|n72 踔(3)]]
+    --
+    [[...]]
+    --
+    --
+    Read _ch(')euk(8)_ [[coek3]];
+    --
+    ==
+    - to leap far and high [[Kangxi: 踔高遠也]];
+    - to walk lamely [[Kangxi: 踸踔跛者行也]].
+    ==
+  ====
+S
+  ==
+  - $踔zaau3
   ==
 $$
 

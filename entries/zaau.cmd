@@ -580,17 +580,17 @@ W
   ====
   - [[Page~29|n72 踔(3)]]
     ==
-    - To tread on;
-    - to stretch ahead in running;
+    - To tread on [[Kangxi: 踶也]];
+    - to stretch ahead in running [[Kangxi: 踔走也, 踔踰也, 踔猶越也]];
     - to jump over.
     ==
     --
-    Read _ch(')euk(8)_ [[coek3]]; [[**see $踔coek3**]].
+    [[...]]
     --
   ====
 S
   ==
-  - $踔coek3 (TODO)
+  - $踔coek3
   ==
 $$
 
