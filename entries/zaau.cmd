@@ -211,7 +211,7 @@ W
   - [[Page~29|n72 (2)找]]
     ==
     - To seek;
-    - to make up the deficiency, to supply what is wanted;
+    - to make up the deficiency, to supply what is wanted [[Kangxi: 俗音爪補不足曰找]];
     - to barter, to swap, to exchange;
     - _(2)ch(a/)u (5)n(i/) f(u/)i(3) h(i/)(3)_
         [[zaau2 nei5 fui3 hei3 找你晦氣]]
@@ -233,7 +233,7 @@ W
         a money-changer's shop.
     ==
     --
-    Also read _(4)w(a/)_ [[waa4]]; same as 划; [[**see $划waa4 for the canonical entry**]]. [[TODO]]
+    [[...]]
     --
   ====
 C
