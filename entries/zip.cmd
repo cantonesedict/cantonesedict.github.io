@@ -395,6 +395,9 @@ W
     --
     [[Reading variation. **See $褶zaap3 for the canonical entry.**]]
     --
+    --
+    [[Otherwise, an alternative form of 襵. **See $襵zip3 for the canonical entry.**]]
+    --
   ====
 S
   ==
@@ -413,7 +416,7 @@ U
   U+8975
 A
   ==
-  - [褶 _Ch(a/)p(8)_ [[zaap3]]](zaap#3褶)
+  - $褶3
   ==
 F
   ==
@@ -425,12 +428,16 @@ W
   ====
   - [[Page~22* 襵(8)]]
     ==
-    - To fold garments;
+    - To fold garments [[Kangxi: 詘也]];
     - to plait, to double;
-    - plaits, frounces, gathers, like those of a Chinese lady's petticoat;
+    - plaits, frounces, gathers [[Kangxi: 謂衣襞積]], like those of a Chinese lady's petticoat;
     - plaited.
     ==
   ====
+C
+  ==
+  - For the vernacular form, see $褶zaap3.
+  ==
 $$
 
 ### 輒3 | _Ch(i/)p(8)_ [[zip3]]

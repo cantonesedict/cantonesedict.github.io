@@ -207,6 +207,7 @@ W
   ====
 C
   ==
+  - For the literary form, see $襵zip3.
   - Williams' 打褶: Changed _ch(i/)p(8)_ (zip3)
     to common reading _ch(a/)p(8)_ (zaap3).
   ==
