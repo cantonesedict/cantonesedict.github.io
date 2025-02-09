@@ -317,8 +317,8 @@ W
   ====
   - [[Page~29|n72 (2)爪]]
     ==
-    - Claws, talons, nails;
-    - [[see $抓zaau2 for verb senses]];
+    - Claws, talons, nails [[Kangxi: 覆手曰爪, 手足甲也]];
+    - [[...]];
     - an agent, a minion;
     - the 87th~radical;
     - _(2)ch(a/)u (4)ng(a/)_
@@ -330,6 +330,9 @@ W
         [[maai5 baan6 zaau2 買辦爪]],
         a comprador's market-man.
     ==
+    --
+    [[Otherwise, an alternative form of 抓. **See $抓zaau2 for the canonical entry.**]]
+    --
   ====
 E
   ====
