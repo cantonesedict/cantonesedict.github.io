@@ -216,6 +216,10 @@ R
   ⾞ + 1
 U
   U+8ECB
+V
+  ==
+  - aat3 (per 《廣韻》烏黠切)
+  ==
 F
   [[Not present]]
 W
@@ -224,7 +228,7 @@ W
     ==
     - Creaking roll of a wheel;
     - a creaking, grating, sound;
-    - punishment of the rack or wheel;
+    - punishment of the ~~rack or~~ wheel [[Kangxi: {𠛬=⿰幵刂}名]];
     - _(1)s(e/)ung (4)mo ch(a/)t(8)_
         [[soeng1 mo4 zaat3 相磨軋]]
         to harass or impede each other;
