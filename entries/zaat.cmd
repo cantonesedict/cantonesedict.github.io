@@ -113,12 +113,12 @@ W
   ====
   - [[Page~24|n67 札(8)]]
     ==
-    - A tablet for writing;
+    - A tablet for writing [[Kangxi: 牒也, 牒亦木牘也]];
     - a letter, a document, writings;
-    - untimely death;
-    - a thin slip of wood;
-    - fold of armor;
-    - a paddle;
+    - untimely death [[Kangxi: 夭死爲札]];
+    - a thin slip of wood [[Kangxi: ::札木[簡]之薄小者也::]];
+    - fold of armor [[Kangxi: 甲葉也]];
+    - a paddle [[Kangxi: 撥水之櫂曰札形似札也]];
     - _ng(a/)n(6) ch(a/)t(8)_
         [[ngaan6 zaat3 雁札]]
         an epistle;
