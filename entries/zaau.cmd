@@ -731,11 +731,11 @@ W
   ====
   - [[Page~562 驟(6) _Tsau(6)_ (zau6); here normalised to _Ch(a/)u(6)_ (zaau6)]]
     ==
-    - A fleet horse;
-    - to run;
-    - quick, fleet;
+    - ~~A fleet horse;~~
+    - to run [[Kangxi: 奔也]];
+    - quick, fleet [[Kangxi: 馬疾步也]];
     - pressing, urgent;
-    - frequently, repeatedly;
+    - frequently, repeatedly [[Kangxi: 數也]];
     - _[ch(a/)u](6) (4)(i/)n (4)(i/) (4)loi_
         [[zaau6 jin4 ji4 loi4 驟然而來]],
         arrived very quickly;
@@ -744,6 +744,11 @@ W
         it can not be dune in an instant.
     ==
   ====
+C
+  ==
+  - Williams' "A fleet horse": The character 驟 does not refer to a fast horse,
+    but to the fact that a horse being fast (i.e. galloping).
+  ==
 S
   ==
   - $驟zau6
