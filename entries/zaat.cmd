@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaat
-* %date-modified --> 2024-10-04
+* %date-modified --> 2025-02-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -68,22 +68,19 @@ W
   ====
   - [[Page~24|n67 扎(8)]]
     ==
-    - To pluck up;
-    - [[see $紮zaat3 for "bind/bundle" senses]].
+    - To pluck up [[Kangxi: 拔也]];
+    - [[...]].
     ==
+    --
+    [[Otherwise, an alternative form of 紮. **See $紮zaat3 for the canonical entry.**]]
+    --
   ====
-C
-  ==
-  - For the bind/bundle and station senses, the character is properly 紮,
-    which is not present in either Fan Wan or Williams.
-    **See $紮zaat3 for the canonical entry.**
-  - An entry for the other senses of 扎 is included here for completeness.
-    ++
-    1. To pierce, to jab, to push through.
-    1. To spread, to extend.
-    1. Used in 掙扎; see $掙zang1.
-    ++
-  ==
+P
+  ++
+  1. To pierce, to jab, to push through.
+  1. To spread, to extend.
+  1. Used in 掙扎; see $掙zang1.
+  ++
 E
   ====
   - 【扎馬】 (zaat3 maa5):
