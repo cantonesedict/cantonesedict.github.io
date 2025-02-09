@@ -549,6 +549,11 @@ R
   ⾨ + 5
 U
   U+9598
+V
+  ==
+  - aap3 (per 《廣韻》烏甲切 for "barrier" sense)
+  - gap3 (per 《廣韻》古盍切 for "shut" sense)
+  ==
 F
   ==
   - [[F2.66 閘]] 閘門
@@ -557,11 +562,11 @@ W
   ====
   - [[Page~22|n65 閘(9)]]
     ==
-    - A guarded gate, a barrier, a barricade;
+    - A guarded gate, a barrier, a barricade [[Kangxi: 開閉門也]];
     - dam;
     - a barrier like a turnstile or a stockade;
     - a lock, a flood-gate;
-    - to shut a gate;
+    - to shut a gate [[Kangxi: 閉門也]];
     - _ch(a/)p(9) ts(a/)p(9)_
         [[zaap6 zaap6 閘？]]
         a guard-house at a gate;
