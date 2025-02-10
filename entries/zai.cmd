@@ -320,6 +320,10 @@ C
     Kangxi only has them interchangeable for the "ascend" sense.
     I have split things up accordingly, with duplication where appropriate.
   ==
+S
+  ==
+  - $隮zai3
+  ==
 $$
 
 ### 齎1 | _(1)Tsai_ [[zai1]]
@@ -551,6 +555,7 @@ $$
 - $穄3
 - $製3
 - $際3
+- $隮3
 - $霽3
 ==
 </nav>
@@ -945,6 +950,28 @@ W
         _met._ to receive a favor.
     ==
   ====
+$$
+
+###+ 隮3 | _Tsai(3)_ (zai3)
+
+$$
+R
+  ⾩ + 14
+U
+  U+96AE
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. To fall (Kangxi: 隮墜).
+  1. Reading variation. **See $隮zai1 for the canonical entry.**
+  ++
+S
+  ==
+  - $隮zai1
+  ==
 $$
 
 ### 霽3 | _Tsai(3)_ [[zai3]]
