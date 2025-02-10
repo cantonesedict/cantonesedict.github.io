@@ -184,7 +184,7 @@ $$
 
 ### 穧1 | _(1)Tsai_ [[zai1]]
 
-$$
+$$.
 R
   ⽲ + 14
 U
@@ -1102,7 +1102,7 @@ U
 V
   ==
   - zai1 (per Fan Wan)
-  - zai3 (alternative per 《廣韻》子計切)
+  - zai3 (alternative per 《廣韻》子計切 and 子例切)
   ==
 F
   ==
@@ -1112,11 +1112,19 @@ W
   ====
   - [[Page~548 (1)穧 _(1)Tsai_ (zai1); here normalised to _Tsai(6)_ (zai6)]]
     ==
-    - To reap grain;
-    - a handful of rice, as it is cut;
-    - to put it together to bind into sheaves.
+    - To reap grain [[Kangxi: 穫刈也]];
+    - a handful of rice [[Kangxi: 一曰撮也]], as it is cut;
+    - to put it together to bind into sheaves [[Kangxi: 刈禾把數, 穧禾之鋪而未束者]].
     ==
   ====
+C
+  ==
+  - Williams' "as it is cut": It is unclear whether 撮也 "pinch" applies
+    to the grain (after harvesting) or to the crop (during harvest).
+  - Williams' "to bind into sheaves":
+    Better rendered "*in preparation for binding* into sheaves".
+    The act of binding is explicitly excluded in the meaning of 穧.
+  ==
 S
   ==
   - $穧zai1
