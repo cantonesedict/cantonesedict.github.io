@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2025-01-10
+* %date-modified --> 2025-02-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -67,6 +67,10 @@ R
   ⼑ + 14
 U
   U+5291
+V
+  ==
+  - zai6 (per 《廣韻》在詣切 for "portion" and "medicine" senses)
+  ==
 F
   ==
   - [[F1.28 劑]] 調劑又劑量
@@ -75,10 +79,10 @@ W
   ====
   - [[Page~548 (1)劑]]
     ==
-    - To pare, to cut even, to trim;
-    - to equalize, to portion, to adjust;
+    - To pare, to cut even, to trim [[Kangxi: 劑翦齊也, 齊截也]];
+    - to equalize, to portion, to adjust [[Kangxi: 分劑]];
     - to compound, as pills;
-    - a dose, a recipe;
+    - a dose, a recipe [[Kangxi: 藥劑]];
     - _yat(7) (1)tsai y(e/)uk(9)_
         [[jat1 zai1 joek6 一劑藥]]
         a dose of medicine;
@@ -87,7 +91,7 @@ W
         to arrange amicably;
     - _chat(7) (1)tsai_
         [[zat1 zai1 質劑]],
-        a check, a bond, made so as to cut in twain for evidence.
+        a check, a bond, made so as to cut in twain for evidence [[Kangxi: 質劑謂兩書一札而別之也 etc.]].
     ==
   ====
 $$
