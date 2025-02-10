@@ -255,9 +255,9 @@ R
   ⾜ + 14
 U
   U+8E8B
-A
+V
   ==
-  - $隮1
+  - zai3 (alternative per 《廣韻》子計切)
   ==
 F
   ==
@@ -268,21 +268,37 @@ W
   ====
   - [[Page~548 (1)躋(1)隮]]
     ==
-    - To ascend, to go up, as stairs, to mount a steep hill;
+    - To ascend, to go up, as stairs, to mount a steep hill [[Kangxi 躋: 登也, 躋升也, 亦作隮]];
     - to reach;
-    - to rise, as vapor;
-    - a rainbow.
+    - [[...]].
     ==
+    --
+    [[Alternative form of 隮 (for the "ascend" sense). See $隮zai1.]]
+    --
   ====
+C
+  ==
+  - Williams does not provide separate entries for 躋 and $隮1.
+    Kangxi only has them interchangeable for the "ascend" sense.
+    I have split things up accordingly, with duplication where appropriate.
+  ==
 $$
 
 ### 隮1 | _(1)Tsai_ [[zai1]]
 
-$$.
+$$
 R
   ⾩ + 14
 U
   U+96AE
+A
+  ==
+  - $躋1 [[for "ascend" sense]]
+  ==
+V
+  ==
+  - zai3 (alternative per 《廣韻》子計切)
+  ==
 F
   ==
   - [[F1.28 躋]] 登也升也
@@ -291,10 +307,19 @@ F
 W
   ====
   - [[Page~548 (1)躋(1)隮]]
-    --
-    [[Alternative form of 躋. **See $躋zai1 for the canonical entry.**]]
-    --
+    ==
+    - To ascend, to go up, as stairs, to mount a steep hill [[Kangxi 隮: 登也]];
+    - [[...]];
+    - to rise, as vapor [[Kangxi 隮: 氣也升也]];
+    - a rainbow [[Kangxi 隮: 隮虹也]].
+    ==
   ====
+C
+  ==
+  - Williams does not provide separate entries for $躋1 and 隮.
+    Kangxi only has them interchangeable for the "ascend" sense.
+    I have split things up accordingly, with duplication where appropriate.
+  ==
 $$
 
 ### 齎1 | _(1)Tsai_ [[zai1]]
