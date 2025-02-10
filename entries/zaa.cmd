@@ -553,11 +553,6 @@ W
         to rail at.
     ==
   ====
-C
-  ==
-  - The alternative reading zaa1 is not unattested;
-    Kangxi has 《玉篇》知加切《集韻》陟加切.
-  ==
 S
   ==
   - $吒caa3

@@ -335,7 +335,7 @@ A
   ==
 V
   ==
-  - zaan3 (per 《廣韻》則旰切 for "scatter" sense)
+  - zaan3 (per 《廣韻》則旰切 for "scatter" sense and 《集韻》則旰切 for "hasten" sense)
   - zaan6 (per 《廣韻》藏旱切 for "scatter" sense)
   - zou1 (per 《集韻》宗蘇切 for "run" sense)
   ==
