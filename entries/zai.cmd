@@ -118,7 +118,6 @@ W
 S
   ==
   - $懠cai4
-  - $懠zai3
   ==
 $$
 
@@ -515,7 +514,6 @@ $$
 <nav class="sideways">
 =={.modern}
 - $制3
-- $懠3
 - $掣3
 - $晢3
 - $晣3
@@ -594,31 +592,6 @@ W
         a close surveillance.
     ==
   ====
-$$
-
-### 懠3 | _Tsai(3)_ [[zai3]]
-
-$$.
-R
-  ⼼ + 14
-U
-  U+61E0
-F
-  ==
-  - [[F1.32 懠]] 怒也
-  ==
-W
-  ====
-  - [[Page~549 懠(3)]]
-    --
-    [[Idiosyncratic reading from Fan Wan. **See $懠cai4 for the canonical entry.**]]
-    --
-  ====
-S
-  ==
-  - $懠cai4
-  - $懠zai1
-  ==
 $$
 
 ### 掣3 | _Chai(3)_ [[zai3]]
