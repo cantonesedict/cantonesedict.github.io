@@ -128,6 +128,10 @@ R
   ⼿ + 14
 U
   U+64E0
+V
+  ==
+  - zai3 (per 《廣韻》子計切 for "push" sense)
+  ==
 F
   ==
   - [[F1.28 擠]] 排也推也
@@ -148,11 +152,11 @@ W
         where shall I put it?
     - _(1)chai (1)p(i/)n ch(')(u:)(3) (1)t(o\) (2)h(o\)_
         [[zai1 bin1 cyu3 dou1 hou2 擠邊處都好]],
-        put [it] down anywhere.
+        put ~~in~~ it down anywhere.
     ==
   - [[Page~548 (1)擠 _(1)Tsai_ (zai1)]]
     ==
-    - To push, to push over, to upset;
+    - To push, to push over, to upset [[Kangxi: 排也一曰推也, 擠墜也]];
     - to press upon, to crowd;
     - _(1)tsai (2)yung_
         [[zai1 jung2 擠擁]],
