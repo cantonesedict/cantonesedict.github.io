@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2025-01-27
+* %date-modified --> 2025-02-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -255,7 +255,7 @@ W
   ====
   - [[Page~34* (1)推]]
     --
-    [[Reading variation (per 《廣韻》叉隹切). **See $推teoi1 for the canonical entry.**]]
+    [[Reading variation. **See $推teoi1 for the canonical entry.**]]
     --
   ====
 S
@@ -733,7 +733,7 @@ W
   ====
   - [[Page~34* (2)揣]]
     --
-    [[Reading variation (per 《廣韻》初委切). **See $揣cyun2 for the canonical entry.**]]
+    [[Reading variation. **See $揣cyun2 for the canonical entry.**]]
     --
   ====
 S
@@ -805,7 +805,7 @@ W
   ====
   - [[Page~596 娶(3)]]
     --
-    [[Reading variation (per 《廣韻》七句切). **See $娶ceoi2 for the canonical entry.**]]
+    [[Reading variation. **See $娶ceoi2 for the canonical entry.**]]
     --
   ====
 S
@@ -1357,7 +1357,7 @@ W
   ====
   - [[Page~598 (4)摧]]
     --
-    [[Reading variation (per 《廣韻》昨回切). **See $摧ceoi1 for the canonical entry.**]]
+    [[Reading variation. **See $摧ceoi1 for the canonical entry.**]]
     --
   ====
 S

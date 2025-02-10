@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2025-02-06
+* %date-modified --> 2025-02-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -150,7 +150,7 @@ W
   [[Not present]]
 P
   ++
-  1. Reading variation (per 《廣韻》子感切). **See $寁zaan2 for the canonical entry.**
+  1. Reading variation. **See $寁zaan2 for the canonical entry.**
   ++
 S
   ==
@@ -507,7 +507,7 @@ W
         to hinder.
     ==
     --
-    [[Otherwise, a reading variation (per 《集韻》直陷切). **See $賺zaan6 for the canonical entry.**]]
+    [[Otherwise, a reading variation. **See $賺zaan6 for the canonical entry.**]]
     --
   ====
 C
@@ -536,7 +536,7 @@ W
   [[Not present]]
 P
   ++
-  1. Reading variation (per 《廣韻》藏濫切). **See $鏨caam5 for the canonical entry.**
+  1. Reading variation. **See $鏨caam5 for the canonical entry.**
   ++
 S
   ==

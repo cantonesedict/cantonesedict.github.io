@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2025-02-09
+* %date-modified --> 2025-02-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -903,7 +903,7 @@ W
   ====
   - [[Page~25|n68 (2)帚(2)箒]]
     --
-    [[Reading variation (per 《廣韻》之九切). **See $帚zaau2 for the canonical entry.**]]
+    [[Reading variation. **See $帚zaau2 for the canonical entry.**]]
     --
   ====
 C
@@ -931,7 +931,7 @@ W
   ====
   - [[Page~25|n68 (2)帚(2)箒]]
     --
-    [[Alternative form of 帚, and reading variation (per 《廣韻》之九切). **See $帚zaau2 for the canonical entry.**]]
+    [[Alternative form of 帚, and reading variation. **See $帚zaau2 for the canonical entry.**]]
     --
   ====
 S
@@ -955,7 +955,7 @@ W
   ====
   - [[Page~25|n68 (2)肘]]
     --
-    [[Reading variation (per 《廣韻》陟柳切). **See $肘zaau2 for the canonical entry.**]]
+    [[Reading variation. **See $肘zaau2 for the canonical entry.**]]
     --
   ====
 C
@@ -1980,7 +1980,7 @@ W
   ====
   - [[Page~562 驟(6)]]
     --
-    [[Reading variation (per 《廣韻》鋤祐切). **See $驟zaau6 for the canonical entry.**]]
+    [[Reading variation. **See $驟zaau6 for the canonical entry.**]]
     --
   ====
 C

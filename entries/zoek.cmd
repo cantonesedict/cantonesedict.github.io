@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoek
-* %date-modified --> 2025-01-17
+* %date-modified --> 2025-02-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -285,7 +285,7 @@ W
   ====
   - [[Page~32|n75 灼(8)]]
     --
-    [[Reading variation (per 《廣韻》之若切). **See $灼coek3 for the canonical entry.**]]
+    [[Reading variation. **See $灼coek3 for the canonical entry.**]]
     --
   ====
 S
@@ -515,7 +515,7 @@ W
   ====
   - [[Page~32|n75 芍(8)]]
     --
-    [[Reading variation (per 《廣韻》張略切). **See $芍coek3 for the canonical entry.**]]
+    [[Reading variation. **See $芍coek3 for the canonical entry.**]]
     --
   ====
 S
@@ -759,7 +759,7 @@ W
   ====
   - [[Page~565 嚼(9)]]
     --
-    [[Reading variation (per 《廣韻》在爵切). **See $嚼zoek3 for the canonical entry.**]]
+    [[Reading variation. **See $嚼zoek3 for the canonical entry.**]]
     --
   ====
 S
@@ -783,7 +783,7 @@ W
   ====
   - [[Page~565 爝(9)]]
     --
-    [[Reading variation (per 《廣韻》在爵切). **See $爝zoek3 for the canonical entry.**]]
+    [[Reading variation. **See $爝zoek3 for the canonical entry.**]]
     --
   ====
 S
@@ -807,7 +807,7 @@ W
   ====
   - [[Page~565 皭(9)]]
     --
-    [[Reading variation (per 《廣韻》在爵切). **See $皭zoek3 for the canonical entry.**]]
+    [[Reading variation. **See $皭zoek3 for the canonical entry.**]]
     --
   ====
 C

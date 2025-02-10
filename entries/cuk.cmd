@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cuk
-* %date-modified --> 2025-01-27
+* %date-modified --> 2025-02-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -621,7 +621,7 @@ W
   ====
   - [[Page~36* 觸(7)]]
     --
-    [[Reading variation (per 《廣韻》尺玉切). **See $觸zuk1 for the canonical entry.**]]
+    [[Reading variation. **See $觸zuk1 for the canonical entry.**]]
     --
   ====
 S

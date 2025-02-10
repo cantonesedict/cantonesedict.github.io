@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coek
-* %date-modified --> 2025-01-17
+* %date-modified --> 2025-02-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -390,7 +390,7 @@ W
   ====
   - [[Page~565 鵲(8)]]
     --
-    [[Reading variation (per 《廣韻》七雀切). **See $鵲zoek3 for the canonical entry.**]]
+    [[Reading variation. **See $鵲zoek3 for the canonical entry.**]]
     --
   ====
 S

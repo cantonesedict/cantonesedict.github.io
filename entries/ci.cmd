@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2025-02-05
+* %date-modified --> 2025-02-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -833,7 +833,7 @@ W
   ====
   - [[Page~11* (2)弛]]
     --
-    [[Reading variation (per 《廣韻》施是切). **See $弛ci4 for the canonical entry.**]]
+    [[Reading variation. **See $弛ci4 for the canonical entry.**]]
     --
   ====
 S
@@ -1552,7 +1552,7 @@ W
   ====
   - [[Page~12* 懥(3)]]
     --
-    [[Reading variation (per 《集韻》丑吏切). **See $懥zi3 for the canonical entry.**]]
+    [[Reading variation. **See $懥zi3 for the canonical entry.**]]
     --
   ====
 S
@@ -2311,7 +2311,7 @@ W
   ====
   - [[Page~615 (4)疵]]
     --
-    [[Reading variation (per 《廣韻》疾移切). **See $疵ci1 for the canonical entry.**]]
+    [[Reading variation. **See $疵ci1 for the canonical entry.**]]
     --
   ====
 S

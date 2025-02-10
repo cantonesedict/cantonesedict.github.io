@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2025-02-06
+* %date-modified --> 2025-02-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1408,7 +1408,7 @@ W
   [[Not present]]
 C
   ==
-  - Reading variation (per 《廣韻》徐刃切). **See $燼zeon2 for the canonical entry.**
+  - Reading variation. **See $燼zeon2 for the canonical entry.**
   ==
 S
   ==

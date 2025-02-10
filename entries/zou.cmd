@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zou
-* %date-modified --> 2025-01-22
+* %date-modified --> 2025-02-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -332,7 +332,7 @@ W
   ====
   - [[Page~584 (2)澡]]
     --
-    [[Reading variation (per 《廣韻》子晧切). **See $澡cou3 for the canonical entry.**]]
+    [[Reading variation. **See $澡cou3 for the canonical entry.**]]
     --
   ====
 S

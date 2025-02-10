@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cin
-* %date-modified --> 2025-01-05
+* %date-modified --> 2025-02-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -460,7 +460,7 @@ W
   [[Not present]]
 P
   ++
-  1. Reading variation (per 《廣韻》昌善切). **See $闡zin2 for the canonical entry.**
+  1. Reading variation. **See $闡zin2 for the canonical entry.**
   ++
 S
   ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2025-01-31
+* %date-modified --> 2025-02-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -404,7 +404,7 @@ W
   ====
   - [[Page~8 (2)痄]]
     --
-    [[Reading variation (per 《廣韻》側下切). **See $痄zaa3 for the canonical entry.**]]
+    [[Reading variation. **See $痄zaa3 for the canonical entry.**]]
     --
   ====
 S

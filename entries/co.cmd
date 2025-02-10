@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> co
-* %date-modified --> 2025-02-06
+* %date-modified --> 2025-02-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1001,7 +1001,7 @@ W
   ====
   - [[Page~26* (4)雛]]
     --
-    [[Reading variation (per 《廣韻》仕于切). **See $雛co1 for the canonical entry.**]]
+    [[Reading variation. **See $雛co1 for the canonical entry.**]]
     --
   ====
 S

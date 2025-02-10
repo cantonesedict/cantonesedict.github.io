@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caau
-* %date-modified --> 2025-01-21
+* %date-modified --> 2025-02-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -315,7 +315,7 @@ W
   ====
   - [[Page~30|n73 鈔(3)]]
     --
-    [[Reading variation (per 《廣韻》初敎切). **See $鈔caau1 for the canonical entry.**]]
+    [[Reading variation. **See $鈔caau1 for the canonical entry.**]]
     --
   ====
 S

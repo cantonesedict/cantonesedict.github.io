@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2025-01-31
+* %date-modified --> 2025-02-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -229,7 +229,7 @@ W
   [[Not present]]
 P
   ++
-  1. Reading variation (per 《廣韻》采老切 for the "distressed" sense). **See $懆cou3 for the canonical entry.**
+  1. Reading variation (for the "distressed" sense). **See $懆cou3 for the canonical entry.**
   ++
 S
   ==
