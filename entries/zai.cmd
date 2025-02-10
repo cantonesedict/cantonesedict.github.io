@@ -156,7 +156,7 @@ W
     ==
   - [[Page~548 (1)擠 _(1)Tsai_ (zai1)]]
     ==
-    - To push, to push over, to upset [[Kangxi: 排也一曰推也, 擠墜也]];
+    - To push [[Kangxi: 排也一曰推也]], to push over, to upset [[Kangxi: 擠墜也]];
     - to press upon, to crowd;
     - _(1)tsai (2)yung_
         [[zai1 jung2 擠擁]],
