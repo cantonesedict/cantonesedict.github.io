@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2025-02-10
+* %date-modified --> 2025-02-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -338,6 +338,10 @@ A
   - $賫1
   - $賷1
   ==
+V
+  ==
+  - zi1 (alternative per 《廣韻》即夷切)
+  ==
 F
   ==
   - [[F1.28 齎]] 送也行道所用也
@@ -360,14 +364,14 @@ W
     ==
   - [[Page~548 (1)齎]]
     --
-    Interchanged with the preceding [[$賷1]].
+    Interchanged with the preceding [[賷, 賫]] [[Kangxi 賷: 齎或作賷]].
     --
     ==
-    - To take in both hands, to offer;
-    - to give to;
-    - to prepare necessaries for a journey;
-    - to supply, to leave and store up;
-    - a sigh;
+    - To take in both hands [[Kangxi: 持也]], to offer [[Kangxi: 持遺人也]];
+    - to give to [[Kangxi: 付也, 送也]];
+    - ~~to prepare~~ necessaries for a journey [[Kangxi: 行道所用也]];
+    - to supply, to ~~leave and~~ store up [[Kangxi: 裝也]];
+    - a sigh [[Kangxi: 歎聲]];
     - _(1)tsai tsau(3) (1)k(u/)n_
         [[zai1 zau3 gun1 齎奏官]],
         a courier, a bearer of dispatches;
@@ -379,6 +383,10 @@ W
         to hand up to.
     ==
   ====
+C
+  ==
+  - Williams' "leave": This is a misreading of Kangxi 遺也.
+  ==
 $$
 
 ### 齏1 | _(1)Tsai_ [[zai1]]
