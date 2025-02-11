@@ -960,13 +960,13 @@ W
   ====
   - [[Page~548 際(3)]]
     ==
-    - A limit, a border, a region, the line of junction of two things;
-    - the time or place where another begins;
-    - to join, to begin;
+    - A limit, a border, ~~a region~~ [[Kangxi: 方也, 邊也畔也]], the line of junction of two things [[Kangxi: 壁會也]];
+    - the time or place where another begins [[Kangxi: 際接也]];
+    - to join [[Kangxi: 合也, 會也]], ~~to begin~~;
     - the time of occurring, now, since;
     - _(2)sz' (1)shang (1)ch(i/) tsai(3)_
         [[si2 sang1 zi1 zai3 死生之際]]
-        between life aud death;
+        between life and death;
     - _tsai(3) ts(i/)p(8)_
         [[zai3 zip3 際接]]
         to receive, to blend, to meet;
@@ -982,6 +982,11 @@ W
         _met._ to receive a favor.
     ==
   ====
+C
+  ==
+  - Williams' "a region": This is a misreading of Kangxi 方也.
+    Here, 方 means perimeter, not place.
+  ==
 $$
 
 ###+ 隮3 | _Tsai(3)_ (zai3)
