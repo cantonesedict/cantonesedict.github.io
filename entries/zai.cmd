@@ -876,7 +876,7 @@ W
   ====
   - [[Page~548 穄(3)]]
     ==
-    - A sort of panicled millet which is not glutinous, and resembles wheat;
+    - A sort of panicled millet which is not glutinous, and resembles wheat [[Kangxi: {𪎭=⿸麻黍}也, 穄似麥而不黏]];
       it grows in Shens(i/) [[陝西]].
     ==
   ====
