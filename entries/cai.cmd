@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2025-02-10
+* %date-modified --> 2025-02-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -459,12 +459,42 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $嚌4
 - $懠4
 - $蠐4
 - $齊4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+###+ 嚌4 | _(4)Ts(')ai_ (cai4)
+
+$$
+R
+  ⼝ + 14
+U
+  U+568C
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~549 嚌(6) read _(1)Tsai_ (zai1); here corrected to _(4)Ts(')ai_ (cai4)]]
+    --
+    ~~Read _(1)tsai_ [[zai1]].~~
+    --
+    ==
+    - [[...]];
+    - a plaintive sound [[Kangxi: 鳥哀聲]].
+    ==
+    --
+    [[...]]
+    --
+  ====
+S
+  ==
+  - $嚌zai6
+  ==
+$$
 
 ###+ 懠4 | _(4)Ts(')ai_ (cai4)
 
