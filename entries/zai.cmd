@@ -539,13 +539,17 @@ W
   ====
   - [[Page~549 濟(3) _Tsai(3)_ (zai3); here corrected to _(2)Tsai_ (zai2)]]
     ==
-    - Name of a river;
-    - [[see $濟zai3 for senses read in departing tone]];
+    - Name of a river [[Kangxi: 水名]];
+    - [[...]];
     - _[(2)]tsai [(2)]tsai_
         [[zai2 zai2 濟濟]]^
-        abundant; a concourse.
+        abundant; a concourse [[Kangxi: 濟濟衆盛之貌]].
     ==
   ====
+S
+  ==
+  - $濟zai3
+  ==
 $$
 
 
@@ -772,14 +776,14 @@ W
   ====
   - [[Page~549 濟(3)]]
     ==
-    - [[See $濟zai2 for senses read in rising tone]];
-    - to assist, to succor, to benefit;
-    - to furnish gratuitous aid;
+    - [[...]];
+    - to assist, to succor, to benefit [[Kangxi: 益也]];
+    - to furnish gratuitous aid [[Kangxi: 賙救也]];
     - to relieve;
-    - to cross a stream;
-    - to make successful, to further, to bring about, to complete;
-    - able, apt, clever;
-    - used for the next [[$霽3]];
+    - to cross a stream [[Kangxi: 渡也]];
+    - to make successful, to further, to bring about, to complete [[Kangxi: 成也]];
+    - able, apt, clever [[Fan Wan: 通也]];
+    - [[...]];
     - _kau(3) tsai(3)_
         [[gau3 zai3 救濟]]
         to save and relieve;
@@ -803,7 +807,14 @@ W
         to supply another's wants;
     - [[...]].
     ==
+    --
+    [[Otherwise, an alternative form of 霽. **See $霽zai3 for the canonical entry.**]]
+    --
   ====
+S
+  ==
+  - $濟zai2
+  ==
 $$
 
 ### 祭3 | _Tsai(3)_ [[zai3]]
@@ -999,6 +1010,12 @@ F
   ==
 W
   ====
+  - [[Page~549 濟(3)]]
+    ==
+    - [[...]];
+    - used for the next [[霽]] [[Kangxi 濟: 與霽通亦止也]];
+    - [[...]].
+    ==
   - [[Page~549 霽(3)]]
     ==
     - The rain stopping, the clouds clearing away and the blue sky appearing;
