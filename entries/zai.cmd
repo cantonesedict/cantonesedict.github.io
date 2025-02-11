@@ -836,8 +836,8 @@ W
   - [[Page~548 祭(3)]]
     ==
     - To sacrifice, to offer slaughtered victims before the gods or penates,
-      which are also usually cooked;
-    - to bring an oblation, to approach before the gods;
+      which are also usually cooked [[Kangxi: 祭祀也]];
+    - to bring an oblation, to approach before the gods [[Kangxi: 人事至於神也]];
     - the time of worship;
     - a sacrifice, an offering;
     - _tsai(3) shing(3)_
