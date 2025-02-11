@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2025-02-04
+* %date-modified --> 2025-02-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1626,7 +1626,7 @@ W
   ====
   - [[Page~612 (2)仔]]
     ==
-    - To bear, to carry;
+    - To bear, to carry [[Kangxi: 克也任也]];
     - to undertake, as an officer;
     - _(2)tsz' sai(3)_
         [[zi2 sai3 仔細]]
