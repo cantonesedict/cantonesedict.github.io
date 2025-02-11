@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zit
-* %date-modified --> 2025-01-21
+* %date-modified --> 2025-02-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -149,6 +149,7 @@ $$
 - $喆3
 - $婕3
 - $折3
+- $晢3
 - $櫛3
 - $浙3
 - $癤3
@@ -343,6 +344,27 @@ S
   ==
   - $折sit6 (TODO)
   - $折zit1
+  ==
+$$
+
+###+ 晢3 | _Ch(i/)t(8)_ (zit3)
+
+$$
+R
+  ⽇ + 7
+U
+  U+6662
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Bright (Kangxi: 昭晢明也).
+  ++
+S
+  ==
+  - $晢zai3
   ==
 $$
 

@@ -714,13 +714,13 @@ A
   ==
 F
   ==
-  - [[F1.32 ::[晣]::]] 小星明也又音？
+  - [[F1.32 ::[晣]::]] 小星明也又音若
   ==
 W
   ====
   - [[Page~9|n52 晣(3); here normalised to 晢]]
     ==
-    - Brightness of stars;
+    - Brightness of stars [[Kangxi 晢: 星光也]];
     - _(4)ming (1)sing chai(3) chai(3)_
         [[ming4 sing1 zai3 zai3 明星晢晢]]
         the twinkling lustre of the stars.
@@ -728,9 +728,13 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected headword 䀿 to 晣. The character 若
-    printed for the alternative reading (又音) does not make sense;
-    likely either 昔 _sik(7)_ (sik1) or 折 _ch(i/)t(8)_ (zit3) was intended.
+  - Fan Wan entry: Corrected headword 䀿 to 晣.
+    The alternative reading (又音若) does not make sense;
+    possibly 折 _ch(i/)t(8)_ (zit3) was intended.
+  ==
+S
+  ==
+  - $晢zit3
   ==
 $$
 
@@ -743,7 +747,7 @@ U
   U+6663
 F
   ==
-  - [[F1.32 ::[晣]::]] 小星明也又音？
+  - [[F1.32 ::[晣]::]] 小星明也又音若
   ==
 W
   ====
@@ -754,9 +758,9 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected headword 䀿 to 晣. The character 若
-    printed for the alternative reading (又音) does not make sense;
-    likely either 昔 _sik(7)_ (sik1) or 折 _ch(i/)t(8)_ (zit3) was intended.
+  - Fan Wan entry: Corrected headword 䀿 to 晣.
+    The alternative reading (又音若) does not make sense;
+    possibly 折 _ch(i/)t(8)_ (zit3) was intended.
   ==
 $$
 
