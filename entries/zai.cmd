@@ -404,8 +404,8 @@ W
   ====
   - [[Page~548 (1)齏]]
     ==
-    - A sort of leek;
-    - to prepare and compound, to blend, to mix, as tastes;
+    - A sort of leek [[Kangxi: {𩐌=⿱隊韭}也]];
+    - to prepare and compound, to blend, to mix [[Kangxi: 膾酢也 etc.]], as tastes;
     - to make dishes of vegetables as the poor have compounded, mixed;
     - to compare, as opinions;
     - _(4)wo (1)tsai_
