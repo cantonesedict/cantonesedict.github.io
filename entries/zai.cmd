@@ -1022,6 +1022,10 @@ A
   ==
   - $濟3
   ==
+V
+  ==
+  - zai6 (alternative per 《集韻》才詣切)
+  ==
 F
   ==
   - [[F1.32 霽]] 雨止而日光也
@@ -1036,7 +1040,7 @@ W
     ==
   - [[Page~549 霽(3)]]
     ==
-    - The rain stopping, the clouds clearing away and the blue sky appearing;
+    - The rain stopping [[Kangxi: 雨止也]], the clouds clearing away and the blue sky appearing [[Kangxi: 晴也, 雨晴曰霽]];
     - _(4)ts(')ing tsai(3)_
         [[cing4 zai3 晴霽]]
         a fair sky.
