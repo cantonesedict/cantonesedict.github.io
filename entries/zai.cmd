@@ -1147,7 +1147,7 @@ W
   - [[Page~10|n53 滯(6)]]
     ==
     - Water impeded;
-    - condensed, congealed;
+    - condensed, congealed [[Kangxi: 凝也]];
     - to obstruct, to stop;
     - indigestible, disagreeing, piled up;
     - _shik(9) chai(6)_
