@@ -580,10 +580,6 @@ R
   ⼑ + 6
 U
   U+5236
-A
-  ==
-  - $製3 [[for "create/make" senses]]
-  ==
 F
   ==
   - [[F1.32 制]] 節也禁也
@@ -592,11 +588,11 @@ W
   ====
   - [[Page~9|n52 制(3)]]
     ==
-    - To adjust, to cut, to form;
-    - to govern, to regulate, to rule;
-    - to limit, to hinder, to prevent;
-    - to invent, to make;
-    - a law, a rule, a regulation;
+    - To adjust, to cut, to form [[Kangxi: 裁也]];
+    - to govern, to regulate, to rule [[Kangxi: 正也御也檢也]];
+    - to limit, to hinder, to prevent [[Kangxi: 禁制也]];
+    - [[...]];
+    - a law, a rule, a regulation [[Kangxi: 成法曰制]];
     - _tsoi(6) chai(3)_ [[zoi6 zai3 在制]] or
       _(2)shau chai(3)_ [[sau2 zai3 守制]]
         to wear mourning for parents;
@@ -620,7 +616,7 @@ W
         self-restraint;
     - _chai(3) (1)sh(u:)_
         [[zai3 syu1 制書]],
-        an imperial dispatch;
+        an imperial dispatch [[Kangxi: 天子之言曰制書]];
     - _chai(3) t(o\)(6)_
         [[zai3 dou6 制度]]
         a pattern, laws;
@@ -637,6 +633,9 @@ W
         [[zai3 fok3 制縛]]
         a close surveillance.
     ==
+    --
+    [[Otherwise, an alternative form of 製. **See $製zai3 for the canonical entry.**]]
+    --
   ====
 $$
 
@@ -886,23 +885,33 @@ R
   ⾐ + 8
 U
   U+88FD
+A
+  ==
+  - $制3
+  ==
 F
   ==
   - [[F1.32 製]] 造也作也
   ==
 W
   ====
+  - [[Page~9|n52 制(3); here normalised to 製]]
+    ==
+    - [[...]];
+    - to invent, to make;
+    - [[...]].
+    ==
   - [[Page~9|n52 製(3)]]
     --
-    Interchanged with the last [[$制3]].
+    Interchanged with the last [[制]].
     --
     ==
-    - To invent, to make;
-    - to cut out clothes;
-    - a fashion, a mode;
+    - To invent, to make [[Kangxi: 造也]];
+    - to cut out clothes [[Kangxi: 裁也]];
+    - a fashion, a mode [[Kangxi: 式也]];
     - to compound, as medicines;
     - a pattern;
-    - a fur cloak;
+    - a fur cloak [[Kangxi: 裘也]];
     - _(5)m(i/) chai(3)_
         [[mei5 zai3 美製]]
         well made;
