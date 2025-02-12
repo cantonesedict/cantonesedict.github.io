@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2025-02-04
+* %date-modified --> 2025-02-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -836,14 +836,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - The reading _tsik(7)_ (zik1) for 鯽 is not present in Williams;
-    an entry is included here for completeness.
-    ++
-    1. The crucian carp.
-    ++
-  ==
+P
+  ++
+  1. The crucian carp.
+  ++
 S
   ==
   - $鯽zak1
