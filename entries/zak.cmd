@@ -98,6 +98,10 @@ R
   ⼈ + 9
 U
   U+5074
+A
+  ==
+  -{.modern} $仄1
+  ==
 F
   ==
   - [[F2.32 側 _Ch(')ak(7)_ (cak1)]] 傍邊曰側
@@ -106,13 +110,13 @@ W
   ====
   - [[Page~12|n55 側(7)]]
     ==
-    - Side, the side;
+    - Side, the side [[Kangxi: 旁也]];
     - on the side;
-    - to incline, to bow down, to bend;
+    - to incline [[Kangxi: 傾也]], to bow down, to bend;
     - lateral;
     - perverted;
-    - mean, low;
-    - rebellious, seditious;
+    - mean, low [[Kangxi: ::[卑]隘也::]];
+    - rebellious, seditious [[Kangxi: 叛黨曰反側]];
     - _chak(7) shat(7)_
         [[zak1 sat1 側室]]
         a coucubine;
