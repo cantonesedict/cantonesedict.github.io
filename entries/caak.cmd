@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caak
-* %date-modified --> 2025-01-27
+* %date-modified --> 2025-02-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -522,9 +522,8 @@ W
   [[Not present]]
 P
   ++
-  1. The cuttlefish, as in 鰞鰂 _(1)(u/) ts(')(a/)k(9)_ (wu1 caak6)^,
-      also written 烏賊.
-      Note that in Cantonese, it is usually called 墨魚, "inkfish".
+  1. Used in 鰞鰂 (cuttlefish) (Kangxi: 鰞鰂魚名, 一名墨魚).
+     Note that in Cantonese, the synonym 墨魚 "inkfish" is preferred.
   ++
 S
   ==
