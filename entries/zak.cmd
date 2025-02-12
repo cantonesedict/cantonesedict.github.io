@@ -161,14 +161,14 @@ W
   ====
   - [[Page~550 則(7)]]
     ==
-    - A rule, a precept, a law, a regulation;
-    - a principle;
-    - a pattern, an exainple;
-    - a standard, a measure by which to test an act;
-    - to conform to rule, to imitate, to walk by;
+    - A rule, a precept, a law, a regulation [[Kangxi: 法也, 則常也]];
+    - a principle [[Kangxi: 天理不差曰則]];
+    - a pattern [[Kangxi: 則等畫物也]], an example;
+    - a standard, a measure by which to test an act [[Kangxi: 凡制度品式皆曰則]];
+    - to conform to rule, to imitate, to walk by [[Kangxi: 法其可法者曰則]];
     - an illative particle, denoting a result, a reason for, a cause for;
     - wherefore, immediately, then;
-    - a conditional particle, after that, in that case;
+    - a conditional particle, after that, in that case [[Kangxi: 助辭又然後之辭]];
     - therefore, next, consequently;
     - _f(a/)t(8) tsak(7)_
         [[faat3 zak1 法則]]
