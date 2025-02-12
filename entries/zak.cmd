@@ -224,9 +224,9 @@ W
   ====
   - [[Page~12|n55 昃(7)]]
     ==
-    - The sun declining to the west;
-    - the afternoon;
-    - to wane, as the moon;
+    - The sun declining to the west [[Kangxi: 日昃昳中也]];
+    - the afternoon [[Kangxi: 日中則昃]];
+    - ~~to wane, as the moon;~~
     - _yat(9) chak(7)_
         [[jat6 zak1 日昃]]
         day is declining.
