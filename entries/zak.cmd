@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zak
-* %date-modified --> 2025-02-04
+* %date-modified --> 2025-02-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -69,8 +69,8 @@ W
   ====
   - [[Page~12|n55 仄(7)]]
     ==
-    - Inclined, slanting, leaning, oblique;
-    - the name of the three deflected tones [[上聲, 去聲, 入聲]];
+    - Inclined, slanting, leaning, oblique [[Kangxi: 人處厂下有慮傾側之象]];
+    - the name of the three deflected tones [[上聲, 去聲, 入聲]] [[Kangxi: 平仄字聲也]];
     - _(1)k(')ing chak(7)_
         [[king1 zak1 傾仄]]
         tipped over, upset;
@@ -81,6 +81,9 @@ W
         [[zak1 lau6 仄陋]]
         vile, erring.
     ==
+    --
+    [[Alternative form of 側. See $側zak1.]]
+    --
   ====
 C
   ==
