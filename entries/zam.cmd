@@ -856,18 +856,18 @@ W
   ====
   - [[Page~15|n58 朕(6)]]
     ==
-    - Anciently used for I;
-    - now the royal We, Ourself;
+    - Anciently used for I [[Kangxi: 我也, 古者貴賤皆自稱朕]];
+    - now the royal We, Ourself [[Kangxi: ::秦始皇[...]定爲至尊之稱:: etc.]];
     - _cham(6) [shi(u/)](6)_
         [[zam6 siu6 朕兆]]
         subtile, recondite.
     ==
     --
-    A colloquial word [[here normalised to {𠹻=⿰口朕}; **see ${𠹻=⿰口朕}zam6 for the canonical entry**]].
+    [[Otherwise, an alternative form of {𠹻=⿰口朕}. **See ${𠹻=⿰口朕}zam6 for the canonical entry.**]]
     --
   ====
 C
   ==
-  - Williams' 朕兆: Changed _chi(u/)(6)_ (ziu6) to common reading _shi(u/)(6)_ (siu6).
+  - Williams' 朕兆: Changed _chi(u/)(6)_ (ziu6) to common reading _shi(u/)(6)_ (siu6). Whilst it can mean "subtle", it usually means "omen".
   ==
 $$
