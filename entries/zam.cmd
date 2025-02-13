@@ -110,7 +110,7 @@ $$
 
 ### 椹1 | _(1)Cham_ [[zam1]]
 
-$$
+$$.
 R
   ⽊ + 9
 U
@@ -120,17 +120,27 @@ F
 W
   ====
   - [[Page~14|n57 (1)椹]]
+    <##
     --
-    Used for _sham[(6)]_ [[sam6]] $葚6, the mulberry seed.
+    TODO: Used for _sham[(6)]_ [[sam6]] 葚, the mulberry seed.
+    --
+    ##>
+    --
+    [[...]]
     --
     ==
-    - An ax or bill;
-    - a staff.
+    - ~~An ax or bill;~~
+    - ~~a staff.~~
     ==
+    --
+    [[Alternative form of 砧. **See $砧zam1 for the canonical entry.**]]
+    --
   ====
 C
   ==
-  - Williams' 葚: Changed improper reading _(4)sham_ (sam4) to _sham(6)_ (sam6).
+  - Williams' "An ax or bill": This is a misreading of Kangxi 鐵椹斫木櫍也.
+    Here, 鐵椹 is the anvil or block that is supporting the wood being chopped,
+    not the axe that is chopping the wood.
   ==
 S
   ==
@@ -148,6 +158,7 @@ U
   U+7827
 A
   ==
+  -{.modern} $椹1
   - $碪1
   ==
 F
