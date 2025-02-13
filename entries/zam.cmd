@@ -459,9 +459,10 @@ W
   ====
   - [[Page~14|n57 (2)枕]]
     ==
-    - A pillow; a stake;
-    - a crossbar in a carriage;
-    - [[see $枕zam3 for verb senses]];
+    - A pillow [[Kangxi: 臥薦首者]];
+    - ~~a stake;~~
+    - a crossbar in a carriage [[Kangxi: 車後橫木也]];
+    - [[...]];
     - _(2)cham (1)p(i/)n_
         [[zam2 bin1 枕邊]],
         in bed, in private;
@@ -486,17 +487,15 @@ W
         to sleep quietly.
     ==
     --
-    As a verb, also read _cham(3)_ [[zam3]] [[**see $枕zam3**]].
+    [[...]]
     --
   ====
 C
   ==
-  - Williams' "also read _cham(3)_":
-    Strictly, the literary verb sense should *only*
-    be read in the departing tone _cham(3)_ (zam3)
-    (notwithstanding some vernacular verb senses are in rising tone).
-    The rising tone reading _(2)cham_ (zam2) is for the literary noun sense.
-    I have split things up accordingly.
+  - Kangxi has the "crossbar" and "bone" senses
+    under departing-tone 之賃切 _cham(3)_ (zam3).
+    I believe that, as nouns, they should appear here,
+    under rising-tone 章荏切 _(2)cham_ (zam2).
   ==
 E
   ====
@@ -565,17 +564,13 @@ R
   ⽊ + 4
 U
   U+6795
-V
-  ==
-  - zam2 (for vernacular verb senses)
-  ==
 F
   [[Not present]]
 W
   ====
-  - [[Page~14|n57 (2)枕 _(2)Cham_ (zam2); here normalised to _Cham(3)_ (zam3)]]
+  - [[Page~14|n57 (2)枕 _(2)Cham_ (zam2); _Cham(3)_ (zam3) optional, here enforced]]
     ==
-    - [[See $枕zam2 for noun senses]];
+    - [[...]];
     - to pillow on, to lie near to;
     - contiguous, adjacent, lying on;
     - _(2)sz' (2)ch(e/) (1)s(e/)ung cham[(3)] tsik(9)_
@@ -588,18 +583,12 @@ W
     - [[...]].
     ==
     --
-    As a verb, also read _cham(3)_ [[zam3]].
+    As a verb, ~~also~~ read _cham(3)_ [[zam3]].
     --
   ====
 C
   ==
   - Williams' 曲肱而枕: Changed _huk(7)_ (huk1) to common reading _k(')uk(7)_ (kuk1).
-  - Williams' "also read _cham(3)_":
-    Strictly, the literary verb sense should *only*
-    be read in the departing tone _cham(3)_ (zam3)
-    (notwithstanding some vernacular verb senses are in rising tone).
-    The rising tone reading _(2)cham_ (zam2) is for the literary noun sense.
-    I have split things up accordingly.
   ==
 S
   ==
