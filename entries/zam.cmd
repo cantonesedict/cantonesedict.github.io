@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2025-02-05
+* %date-modified --> 2025-02-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -73,10 +73,10 @@ W
   ====
   - [[Page~14|n57 (1)斟]]
     ==
-    - To pour from or into;
+    - To pour from or into [[斟益也, 言斟酌而益之]];
     - to lade out, to lighten;
-    - to deliberate, to adjust;
-    - a ladle, a spoon;
+    - to deliberate, to adjust [[Kangxi: 斟取也, 計也]];
+    - a ladle, a spoon [[Kangxi: 勺也]];
     - _(1)cham (5)t(')o lok(8)_
         [[zam1 to5 lok3 斟妥咯]]
         all well settled;
