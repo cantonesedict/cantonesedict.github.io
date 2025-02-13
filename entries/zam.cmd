@@ -320,10 +320,10 @@ W
   ====
   - [[Page~14|n57 (1)針(1)鍼]]
     ==
-    - A needle;
+    - A needle [[Kangxi 鍼: 所以縫布帛之錐也, 或作箴亦作針]];
     - a cauterizing probe;
-    - to prick;
-    - to use needles in acupuncture;
+    - to prick [[Kangxi 鍼: 刺也]];
+    - to use needles in acupuncture [[Kangxi 針: 針灸法]];
     - leaves of the pine;
     - _(1)ch(')(u:)n (1)cham_
         [[cyun1 zam1 穿針]],
@@ -352,7 +352,7 @@ W
     Used for the last [[針]].
     --
     ==
-    - A probe, a surgeon's needle;
+    - A probe, a surgeon's needle [[Kangxi 箴: 古者以石爲箴所以刺病]];
     - to probe;
     - [[...]];.
     ==
