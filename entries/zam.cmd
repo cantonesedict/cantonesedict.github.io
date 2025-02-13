@@ -439,7 +439,7 @@ W
         used in the court dialect.
     ==
     --
-    This is usually read _(2)sham_ [[sam2]].
+    ~~This is usually read _(2)sham_ [[sam2]].~~
     --
   ====
 $$
