@@ -275,22 +275,28 @@ W
   ====
   - [[Page~14|n57 (1)箴]]
     --
-    Used for the last [[$針1]].
+    [[...]]
     --
     ==
-    - A probe, a surgeon's needle;
-    - to probe;
-    - a caution, a check;
+    - [[...]];
+    - a caution, a check [[Kangxi: 規戒也]];
     - pointed, urgent;
-    - to exhort, to rebuke, to urge to reform;
+    - to exhort, to rebuke, to urge to reform [[Kangxi: 箴者諫誨之辭]];
     - _(1)cham (1)kw(')ai_
         [[zam1 kwai1 箴規]]^
         admonition, rebukes;
-    - _(1)cham (4)ming_
-        [[zam1 ming4 箴銘]],
+    - _(1)cham [(5)]ming_
+        [[zam1 ming5 箴銘]],
         cautionary maxims.
     ==
+    --
+    [[Otherwise, an alternative form of 針. **See $針zam1 for the canonical entry.**]]
+    --
   ====
+C
+  ==
+  - Williams' 箴銘: Changed _(4)ming_ (ming4) to common reading _(5)ming_ (ming5).
+  ==
 $$
 
 ### 針1 | _(1)Cham_ [[zam1]]
@@ -340,6 +346,15 @@ W
     - _(1)man (1)cham_
         [[man1 zam1 蚊針]],
         a musquito's sting.
+    ==
+  - [[Page~14|n57 (1)箴]]
+    --
+    Used for the last [[針]].
+    --
+    ==
+    - A probe, a surgeon's needle;
+    - to probe;
+    - [[...]];.
     ==
   ====
 C
