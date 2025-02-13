@@ -170,8 +170,8 @@ W
   ====
   - [[Page~14|n57 (1)砧(1)碪]]
     ==
-    - A stone to beat clothes on;
-    - an anvil;
+    - A stone to beat clothes on [[Kangxi: 擣衣石也]];
+    - an anvil [[Kangxi 椹: 鐵椹斫木櫍也]];
     - a block for lifting by athletes;
     - _muk(9) (1)cham_
         [[muk6 zam1 木砧]],
