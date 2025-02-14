@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2025-02-08
+* %date-modified --> 2025-02-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -622,7 +622,7 @@ W
 C
   ==
   - The reading _(1)chang_ (zang1) is not unattested;
-    Kangxi has 《唐韻》側莖切《集韻》葘莖切{𠀤=⿱夶一}音爭《說文》金聲也.
+    《集韻》 has the reading 甾莖切, explained 說文金聲也.
   ==
 S
   ==
