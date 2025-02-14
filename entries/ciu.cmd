@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ciu
-* %date-modified --> 2025-01-20
+* %date-modified --> 2025-02-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -322,7 +322,7 @@ U
   U+6100
 V
   ==
-  - cau1 (per Fan Wan)
+  - cau1 (alternative per 《集韻》雌由切)
   - cau5 (alternative per 《廣韻》在九切)
   ==
 F
@@ -339,8 +339,6 @@ W
   ====
 C
   ==
-  - The reading _(1)ts(')au_ (cau1) is not unattested;
-    Kangxi has ::[...]愀然變容[...]又《集韻》雌由切音秋[...]義{𠀤=⿱夶一}同::.
   - Williams misprints 愀 as 愁; here corrected.
     Note that, in misprinting 愀 as 愁,
     Williams has included the definition "downhearted, sad".
