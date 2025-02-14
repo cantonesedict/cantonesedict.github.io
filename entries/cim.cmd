@@ -890,7 +890,7 @@ W
 C
   ==
   - The reading _(4)ts(')(i/)m_ (cim4) is not unattested for the "select" sense;
-    Kangxi has 又《集韻》慈鹽切《韻會》昨鹽切{𠀤=⿱夶一}音潛摘也.
+    《集韻》 has the reading 慈鹽切, explained 摘也.
   ==
 E
   ====
