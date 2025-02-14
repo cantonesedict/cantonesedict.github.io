@@ -162,11 +162,11 @@ W
   ====
   - [[Page~16|n59 (1)眞(1)真]]
     ==
-    - True, sincere, unfeigned, genuine, pure;
+    - True, sincere, unfeigned, genuine, pure [[Kangxi 眞: 不虛假也, 實也僞之反也]];
     - in fact, truly, indeed, no mistake;
     - a likeness;
-    - actual, not secondary;
-    - spiritual, subtle, pure, unmixed;
+    - actual, not secondary [[Kangxi 眞: 正也]];
+    - spiritual, subtle, pure, unmixed [[Kangxi 眞: 神也淳也精也]];
     - _(1)chan (4)yan_
         [[zan1 jan4 真人]],
         a sprite, a phantom of a man[;]
@@ -175,7 +175,7 @@ W
         in fact, it was like;
     - _(2)s(e/) (1)chan_
         [[se2 zan1 寫真]],
-        to draw portraits;
+        to draw portraits [[Kangxi 眞: 畫像曰寫眞]];
     - _(1)chan hai(6)_
         [[zan1 hai6 真係]]
         it is so;
@@ -202,7 +202,7 @@ W
 C
   ==
   - Williams' 真人:
-    The classical meaning of 真 is, Kangxi quotes, 《說文》仙人變形而登天也,
+    Kangxi has 《說文》仙人變形而登天也 under 眞, i.e.
     "The immortal man changing form and ascending to Heaven".
     In modern non-Taoist usage this sense is now obsolete,
     and 真人 now simply means "real person".
