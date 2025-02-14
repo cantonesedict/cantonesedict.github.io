@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2025-02-06
+* %date-modified --> 2025-02-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -546,8 +546,8 @@ W
 C
   ==
   - The reading _ts(a/)n(3)_ (zaan3) is not unattested;
-    Kangxi has 又《集韻》則旰切音贊圭也.
-    Here, 圭也 can arguably be interpreted in the "cup" sense
+    《集韻》 has the reading 則旰切, explained 圭也,
+    which can arguably be interpreted in the "cup" sense
     rather than the "tablet" sense.
   ==
 $$
