@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2025-02-10
+* %date-modified --> 2025-02-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -993,7 +993,7 @@ W
   ====
   - [[Page~36* 圳(3)]]
     --
-    [[Idiosyncratic reading from Fan Wan. **See $圳zan3 for the canonical entry.**]]
+    [[Reading variation. **See $圳zan3 for the canonical entry.**]]
     --
   ====
 S

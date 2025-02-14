@@ -303,6 +303,7 @@ U
   U+5733
 V
   ==
+  - cau4 (per Kangxi 市流切)
   - zeon3 (per Fan Wan)
   ==
 F
@@ -319,12 +320,11 @@ W
         a place where the water runs swiftly.
     ==
   ====
-C
-  ==
-  - Kangxi quotes 《字彙補》市流切音酬
-    for a reading of _(4)shau_ (sau4) or _(4)ch(')au_ (cau4),
-    explained 江楚閒田畔水溝謂之圳, i.e. drainage in a field.
-  ==
+P
+  ++
+  1. Drainage in a field (Kangxi: 江楚閒田畔水溝謂之圳).
+  1. Used in 深圳 (Shenzhen).
+  ++
 S
   ==
   - $圳zeon3
