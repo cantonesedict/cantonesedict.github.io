@@ -338,15 +338,24 @@ R
   ⼱ + 7
 U
   U+5E2A
+V
+  ==
+  - zan1 (per 《廣韻》職鄰切)
+  ==
 F
   [[Not present]]
 W
   ====
   - [[Page~17|n60 帪(3)]]
     ==
-    - A bag to tie on a horse's head, in which his fodder is placed.
+    - A bag to tie on a horse's head, in which his fodder is placed [[Kangxi: 囊也馬兜也, 帪飤馬橐]].
     ==
   ====
+C
+  ==
+  - The reading _chan(3)_ (zan3) is not unattested;
+    《集韻》 has the reading 之刃切, explained 方言飤馬槖.
+  ==
 $$
 
 ### 振3 | _Chan(3)_ [[zan3]]
