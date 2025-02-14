@@ -279,7 +279,7 @@ W
 C
   ==
   - The reading _(1)ts(')(i/)m_ (cim1) is not unattested;
-    Kangxi has 又《集韻》《韻會》《正韻》{𠀤=⿱夶一}思廉切音纖義同.
+    《集韻》 has the reading 思廉切, explained 摻摻女好手貌.
   ==
 S
   ==
