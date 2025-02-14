@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zan
-* %date-modified --> 2025-02-10
+* %date-modified --> 2025-02-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -73,10 +73,10 @@ W
   ====
   - [[Page~16|n59 (1)珍]]
     ==
-    - Valuable, precious, excellent;
-    - important, rare, noble;
+    - Valuable, precious [[Kangxi: 寶也, 貴也]], excellent [[Kangxi: 美也]];
+    - important [[Kangxi: 重也]], rare [[Kangxi: 奇也]], noble;
     - to prize;
-    - a delicacy;
+    - a delicacy [[Kangxi: 食之美者亦曰珍]];
     - a rarity, a treasure;
     - _(1)chan (1)ch(u:)_
         [[zan1 zyu1 珍珠]],
