@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coi
-* %date-modified --> 2025-01-20
+* %date-modified --> 2025-02-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -285,7 +285,7 @@ W
 C
   ==
   - The reading _(2)ts(')oi_ (coi2) is not unattested;
-    Kangxi has 《集韻》《韻會》《正韻》{𠀤=⿱夶一}此宰切音采.
+    《集韻》 has the reading 此宰切, explained 木也 with example 漢書唐虞棌椽.
   ==
 $$
 
