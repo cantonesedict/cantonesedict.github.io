@@ -241,7 +241,7 @@ W
     Read _(2)chan_ [[zan2]];
     --
     ==
-    - rich, affluent, wealthy.
+    - rich, affluent, wealthy [[Kangxi: 富也]].
     ==
   ====
 S
@@ -409,7 +409,7 @@ W
   - [[Page~17|n60 賑(3)]]
     ==
     - A largess, a bounty;
-    - to give, to relieve, to supply;
+    - to give, to relieve, to supply [[Kangxi: 贍也給也]];
     - _chan(3) tsai(3)_
         [[zan3 zai3 賑濟]]
         to give to the poor;
@@ -418,9 +418,15 @@ W
         to feed the hungry.
     ==
     --
-    Read _(2)chan_ [[zan2]]; [[**see $賑zan2**]].
+    [[...]]
     --
   ====
+C
+  ==
+  - Williams' "bounty": In the sense of an act of generosity.
+    *Not* an abundance of wealth,
+    which belongs under the rising-tone reading _(2)chan_ (zan2).
+  ==
 S
   ==
   - $賑zan2
