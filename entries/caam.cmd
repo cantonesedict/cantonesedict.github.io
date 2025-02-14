@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2025-02-10
+* %date-modified --> 2025-02-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -224,8 +224,8 @@ W
 C
   ==
   - Strictly, the pre-merger reading should be _(1)ch(')(a/)m_;
-    Kangxi has 《集韻》初簪切 for the phrase 篸{𥰭=⿱𥫗差},
-    which is the bamboo version of 參差.
+    《集韻》 has the reading 初簪切, explained 篸差竹貌.
+    Kangxi spells this as 篸{𥰭=⿱𥫗差}, making it the bamboo version of 參差.
   ==
 S
   ==
