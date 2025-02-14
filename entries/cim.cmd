@@ -526,7 +526,7 @@ U
   U+92DF
 V
   ==
-  - cam1 (per 《集韻》千尋切)
+  - cam1 (alternative per 《集韻》千尋切)
   - cam2 (per 《廣韻》七稔切)
   - zim1 (per 《廣韻》子廉切)
   ==
