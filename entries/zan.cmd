@@ -281,12 +281,17 @@ W
   ====
   - [[Page~17|n60 侲(3)]]
     ==
-    - A boy of ten or twelve years;
+    - A boy [[Kangxi: 童子也]] ~~of ten or twelve years~~;
     - _chan(3) (4)t(')ung_
         [[zan3 tung4 侲童]],
-        boys who play at funerals.
+        boys who play at funerals [[Kangxi: 挽歌亦用侲童]].
     ==
   ====
+C
+  ==
+  - Williams' "of ten or twelve years": This appears in Kangxi's example,
+    ::《後漢禮儀志》[...]選中黃門子弟十歲以上十二以下::, but is not part of the definition.
+  ==
 $$
 
 ###+ 圳3 | _Chan(3)_ (zan3)
