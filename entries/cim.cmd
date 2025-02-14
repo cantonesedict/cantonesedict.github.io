@@ -526,7 +526,7 @@ U
   U+92DF
 V
   ==
-  - cam1 (per Fan Wan)
+  - cam1 (per 《集韻》千尋切)
   - cam2 (per 《廣韻》七稔切)
   - zim1 (per 《廣韻》子廉切)
   ==
@@ -544,13 +544,6 @@ W
     - an awl, a graver.
     ==
   ====
-C
-  ==
-  - The reading _(1)ts(')am_ (cam1) is not unattested;
-    Kangxi has 又《集韻》《韻會》千尋切《正韻》千林切{𠀤=⿱夶一}音侵義同
-    (reference the "sharp-pointed/awl" sense 錐也),
-    and 《洪武正韻牋》 has the reading 七林切, explained 以瓜刻板 etc.
-  ==
 S
   ==
   - $鋟cam1
