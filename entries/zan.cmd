@@ -492,9 +492,9 @@ W
   ====
   - [[Page~17|n60 鎭(3); here normalised to 鎮]]
     ==
-    - To press down;
+    - To press down [[Kangxi 鎭: 博壓也, 重也壓也]];
     - to repress, to keep in subjection;
-    - to pacify, to protect;
+    - to pacify, to protect [[Kangxi 鎭: 安也]];
     - to overrule evil influences, as hills or pagodas do;
     - to guard, to keep quiet;
     - a mart, a trading-place;
