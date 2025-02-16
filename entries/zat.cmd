@@ -354,7 +354,7 @@ W
   ====
   - [[Page~24|n67 姪(9)]]
     ==
-    - A brother's children;
+    - A brother's children [[Kangxi: 兄弟之女也, 兄弟之子]];
     - _chat(9) (2)tsz'_
         [[zat6 zi2 姪子]]
         a nephew;
