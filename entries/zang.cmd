@@ -104,12 +104,21 @@ R
   ⼟ + 12
 U
   U+589E
+A
+  ==
+  - $曾1
+  ==
 F
   ==
   - [[F2.29 增]] 益也加也
   ==
 W
   ====
+  - [[Page~556 (1)曾]]
+    ==
+    - [[...]], to add [[Kangxi 曾: 與增同]];
+    - [[...]].
+    ==
   - [[Page~556 (1)增]]
     ==
     - To add, to double, to increase [[Kangxi: 益也]];
@@ -250,7 +259,7 @@ W
   ====
   - [[Page~556 (1)曾]]
     ==
-    - To duplicate, to add [[Kangxi: 曾猶重也]];
+    - To duplicate [[Kangxi: 曾猶重也]], [[...]];
     - _(1)tsang (1)s(u:)n_
         [[zang1 syun1 曾孫]],
         a great-grandson;
@@ -261,7 +270,14 @@ W
         [[zang1 zou2 曾祖]],
         a great-grandfather.
     ==
+    --
+    [[Otherwise, an alternative form of 增. **See $增zang1 for the canonical entry.**]]
+    --
   ====
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 S
   ==
   - $曾cang4
