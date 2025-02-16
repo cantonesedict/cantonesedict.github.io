@@ -308,15 +308,11 @@ $$
 
 ### 咥6 | _Chat(9)_ [[zat6]]
 
-$$
+$$.
 R
   ⼝ + 6
 U
   U+54A5
-V
-  ==
-  - dit6 (per 《廣韻》徒結切)
-  ==
 F
   ==
   - [[F1.87 咥]] ::易履虎尾不咥人亨詩又音[棄]::
@@ -324,18 +320,13 @@ F
 W
   ====
   - [[Page~24|n67 咥(9)]]
-    ==
-    - To bite, to snap at.
-    ==
     --
-    Read _h(i/)[(3)]_ [[hei3]][;] [[**see $咥hei3**]].
+    [[Reading variation. **See $咥dit6 for the canonical entry.**]]
     --
   ====
 C
   ==
   - Fan Wan entry: Corrected ⿱𠫓耒 to 棄.
-  - Williams' "Read [...]":
-    Corrected _(1)h(i/)_ (hei1) to _h(i/)(3)_ (hei3).
   ==
 S
   ==
