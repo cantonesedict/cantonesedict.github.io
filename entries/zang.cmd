@@ -497,16 +497,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - The reading _(1)chang_ (zang1) for 睜
-    is not attested in the Middle Chinese rime books
-    (which result in zing6 per 《廣韻》疾郢切, explained 眳睜不恱視也, now obsolete).
-    An entry is included here for completeness.
-    ++
-    1. To open the eyes, especially suddenly.
-    ++
-  ==
+P
+  ++
+  1. To open the eyes, especially suddenly.
+  ++
 $$
 
 ### 箏1 | _(1)Chang_ [[zang1]]
