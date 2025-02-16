@@ -214,7 +214,7 @@ W
   ====
   - [[Page~22|n65 汁(7)]]
     ==
-    - Gravy, juice;
+    - Gravy, juice [[Kangxi: 液也]];
     - thickened liquor;
     - slosh;
     - the juices or essence of a thing got by expressing;
@@ -230,14 +230,17 @@ W
         not had a mouthful of gravy to suck---I've had no benefit from it.
     ==
     --
-    Also read _h(i/)p[(8)]_ [[hip3]]; harmonious.
+    [[...]]
     --
   ====
 C
   ==
-  - Williams' "Also read [...]":
-    This is an interchanging with 協.
-    Changed _h(i/)p(9)_ (hip6) to common reading _h(i/)p(8)_ (hip3).
+  - Williams' "thickened liquor": From Kangxi's example 汁獻涗於醆酒,
+    with commentary noting that 汁獻 is also spelt 汁莎.
+  ==
+S
+  ==
+  - $汁hip3 (TODO)
   ==
 $$
 
