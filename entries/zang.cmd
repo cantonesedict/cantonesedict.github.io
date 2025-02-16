@@ -661,7 +661,6 @@ $$
 - $爭3
 - $甑3
 - $諍3
-- $蹭3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -810,7 +809,7 @@ S
   ==
 $$
 
-### 蹭3 | _Tsang(3)_ [[zang3]]
+<##
 
 $$.
 R
@@ -823,7 +822,7 @@ W
   ====
   - [[Page~556 蹭(3)]]
     --
-    [[Idiosyncratic reading from Williams. **See $蹭sang3 for the canonical entry.**]]
+    [[Idio* reading from Williams. **See $蹭sang3 for the canonical entry.**]]
     --
   ====
 S
@@ -831,6 +830,8 @@ S
   - $蹭sang3 (TODO)
   ==
 $$
+
+##>
 
 
 ##{#6 .williams} Tsang(6) [[zang6 陽去]]
