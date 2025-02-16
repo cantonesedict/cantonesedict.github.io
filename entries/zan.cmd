@@ -623,7 +623,7 @@ A
   ==
 V
   ==
-  - zan6-2 (for vernacular "later" sense 一陣)
+  - zan6-2 (in 一陣 for vernacular "later" and subjunctive marker senses)
   ==
 F
   ==
@@ -634,7 +634,7 @@ W
   ====
   - [[Page~17|n60 陣(6)陳(6)]]
     ==
-    - A rank, a file of soldiers, a battalion;
+    - A rank, a file of soldiers, a battalion [[Kangxi: 旅也, 列也]];
     - an army;
     - to arrange, to place in ranks;
     - a little while, passing, transitory;
@@ -683,6 +683,7 @@ C
   - Williams' 一陣陣冷:
     Changed _(5)lang_ (lang5) to common reading _(5)l(a/)ng_ (laang5).
   - Williams' 使女人陣: Literally, "employ [the] women's formation".
+  - Williams' 擺陣: Better rendered "to set up a formation".
   - Williams' 陣勢: Figuratively, the situation of the battle.
   ==
 E
@@ -710,8 +711,16 @@ E
   - 【一陣間】 (jat1 zan6 gaan1):
     ++
     1. Synonym of 一陣
-       (in both the ["moment"](#cantonese-一陣-moment) sense
-       and the ["later" / subjunctive marker](#cantonese-一陣-later) senses).
+       (both in the ["moment"](#cantonese-一陣-moment) sense
+       and in the ["later" and subjunctive marker](#cantonese-一陣-later) senses).
+    ++
+  - 【陣】 (zan6):
+    ++
+    1. Short for [一陣](#cantonese-一陣-moment) in the "moment" sense.
+       ==
+       - 等陣啊 (dang2 zan6 a3): "Hold on [a] bit."
+       - 瞓咗陣 (fan3 zo2 zan6): "Slept [for a] bit."
+       ==
     ++
   - 【陣間】 (zan6 gaan1):
     ++
