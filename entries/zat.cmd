@@ -635,6 +635,10 @@ R
   ⾍ + 6
 U
   U+86ED
+V
+  ==
+  - zat1 (per 《廣韻》之日切)
+  ==
 F
   ==
   - [[F1.87 蛭]] 虫名
@@ -643,10 +647,10 @@ W
   ====
   - [[Page~24|n67 蛭(9)]]
     ==
-    - A leech;
+    - A leech [[Kangxi: 水蛭 etc.]];
     - _(2)shui chat(9)_
         [[seoi2 zat6 水蛭]]
-        a blood-sucker, of which there are several kinds.
+        a blood-sucker, of which there are several kinds [[Kangxi: ::[...]有數種[...]得齧人腹中有血者[...]::]].
     ==
   ====
 $$
