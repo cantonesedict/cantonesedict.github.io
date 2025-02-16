@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zan
-* %date-modified --> 2025-02-14
+* %date-modified --> 2025-02-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -365,10 +365,6 @@ R
   ⼿ + 7
 U
   U+632F
-A
-  ==
-  - $震3 [[for "shake" and "move" senses]]
-  ==
 F
   ==
   - [[F1.84 振]] 振奮振動振作止也收也藏也
@@ -377,16 +373,16 @@ W
   ====
   - [[Page~17|n60 振(3)]]
     ==
-    - To shake, to move;
-    - to stir up, to agitate;
+    - To shake, to move [[Kangxi: 裂也又動也]];
+    - to stir up, to agitate [[Kangxi: 一曰奮也]];
     - to excite, to stimulate;
-    - to repair, to restore, to put in order;
-    - to rescue, to save;
+    - to repair, to restore, to put in order [[Kangxi: 整也]];
+    - to rescue, to save [[Kangxi: 舉救也, 拯也]];
     - to joggle;
-    - to flap, as wings;
+    - to flap, as wings [[Kangxi: 鳥羣飛貌]];
     - to terrify;
-    - to uphold, to stop;
-    - to receive, to contain;
+    - to uphold, to stop [[Kangxi: 止也]];
+    - to receive, to contain [[Kangxi: 收也]];
     - _chan(3) tung(6)_
         [[zan3 dung6 振動]]
         to shake, to set about, up and doing;
@@ -404,6 +400,12 @@ W
         [[zan3 ji1 振衣]],
         to shake the dress.
     ==
+    --
+    [[Alternative form of 賑. See $賑zan3.]]
+    --
+    --
+    [[Alternative form of 震. See $震zan3.]]
+    --
   ====
 $$
 
@@ -414,6 +416,10 @@ R
   ⾙ + 7
 U
   U+8CD1
+A
+  ==
+  -{.modern} $振3
+  ==
 F
   ==
   - [[F1.84 賑]] 賙濟也
@@ -528,6 +534,10 @@ R
   ⾬ + 7
 U
   U+9707
+A
+  ==
+  - $振3
+  ==
 F
   ==
   - [[F1.84 震]] ::卦名動也起也[懼]也威也::
@@ -536,7 +546,7 @@ W
   ====
   - [[Page~17|n60 震(3)]]
     --
-    Interchanged with the last [[$振3]].
+    Interchanged with the last [[振]].
     --
     ==
     - To quiver;
