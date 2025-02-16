@@ -135,15 +135,15 @@ W
   ====
   - [[Page~23|n66 質(7)]]
     ==
-    - Substance, essence, nature, the material of;
-    - plain, unadorned;
-    - sincere, honest;
-    - to cross-examine, to confront;
-    - to establish, to substantiate;
-    - opposite to, to appear in presence of;
+    - Substance, essence, nature, the material of [[Kangxi: 質猶性也]];
+    - plain, unadorned [[Kangxi: 樸也, 質猶本也]];
+    - sincere, honest [[Kangxi: 實也, 質誠也]];
+    - to cross-examine, to confront [[Kangxi: 問也定也]];
+    - to establish, to substantiate [[Kangxi: 質體也]];
+    - opposite to, to appear in presence of [[Kangxi: 質猶對也]];
     - firm, as a texture;
     - a disposition, a habit;
-    - a target;
+    - a target [[Kangxi: 的質也]];
     - _h(i/)(3) chat(7)_
         [[hei3 zat1 氣質]]
         the complexion;

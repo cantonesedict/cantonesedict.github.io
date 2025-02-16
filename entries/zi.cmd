@@ -3674,7 +3674,7 @@ W
   - [[Page~9* 質(3)]]
     ==
     - A pledge, a hostage;
-    - to pledge, to guaranty;
+    - to pledge, to guaranty [[Kangxi: 以物相贅]];
     - to pawn;
     - _on(3) ch(i/)(3)_
         [[on3 zi3 按質]]
