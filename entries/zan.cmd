@@ -549,16 +549,16 @@ W
     Interchanged with the last [[振]].
     --
     ==
-    - To quiver;
+    - To quiver [[Kangxi: 震動也]];
     - to shiver;
-    - the 51st diagram, belongs to thunder;
-    - to shake, as by thunder;
-    - to quicken, as a fœtus [[correctly _(1)shan_ (san1); see $娠san1]];
-    - to awe, to impress;
+    - the 51st~diagram, belongs to thunder [[Kangxi: 卦名]];
+    - to shake, as by thunder [[Kangxi: 劈歷振物者, 震雷也]];
+    - [[...]];
+    - to awe, to impress [[Kangxi: 威也]];
     - thundering, terrible, as a sound;
     - dire, awful;
-    - to intimidate;
-    - to raise;
+    - to intimidate [[Kangxi: 震懼也]];
+    - to raise [[Kangxi: 起也]];
     - to alarm;
     - _t(i/)(6) chan(3)_
         [[dei6 zan3 地震]]
@@ -581,6 +581,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected ⿰亻瞿 to 懼.
+  - Williams' "to raise": Better rendered "to start".
   - Williams' 震驚: Corrected _(1)keng_ (geng1) to _(1)king_ (ging1).
   ==
 E
@@ -591,6 +592,10 @@ E
     1. (_slang_) To have an orgasm.
     ++
   ====
+S
+  ==
+  - $震san1 (TODO)  <## to quicken, as a fœtus (娠) ##>
+  ==
 $$
 
 
