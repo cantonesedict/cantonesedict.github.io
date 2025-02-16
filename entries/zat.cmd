@@ -265,11 +265,11 @@ W
   ====
   - [[Page~23|n66 ::[騭](7)隲(7)::]]
     ==
-    - A stallion;
+    - A stallion [[Kangxi: 牡馬也, 牡曰騭]];
     - to mount;
-    - to ascend;
-    - to raise, to promote;
-    - to fix, to determine;
+    - to ascend [[Kangxi: 乗馬登山也]];
+    - to raise, to promote [[Kangxi: 騭陞也]];
+    - to fix, to determine [[Kangxi: 定也]];
     - _(1)yam chat(7)_
         [[jam1 zat1 陰騭]]
         to think upon kindly, a secret benevolence;
