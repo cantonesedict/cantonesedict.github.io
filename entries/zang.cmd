@@ -547,6 +547,10 @@ R
   ⽷ + 12
 U
   U+7E52
+V
+  ==
+  - cang4 (per 《廣韻》疾陵切)
+  ==
 F
   ==
   - [[F2.29 繒]] ::魚[網]::
@@ -556,14 +560,16 @@ W
   ====
   - [[Page~556 (1)繒]]
     ==
-    - A general name for common silken fabrics, as pongee, sarsnet, lutestring.
+    - A general name for common silken fabrics, as pongee, sarsnet, lutestring [[Kangxi: 帛也]].
     ==
   ====
 C
   ==
+  - The reading _(1)tsang_ (zang1) is not unattested;
+    《集韻》 has the reading 咨騰切, explained 帛也.
   - Fan Wan erroneously has 繒 explained ::魚[網]:: (綱 corrected to 網),
     and a strange character (like 曾, but with 丅 conjoined to the middle component between 八 above and 曰 below)
-    explained 同上, which has here been normalised to 罾.
+    explained 同上, here normalised to 罾.
   ==
 $$
 
