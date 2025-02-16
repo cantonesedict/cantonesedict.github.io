@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2025-01-21
+* %date-modified --> 2025-02-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1365,7 +1365,7 @@ U
   U+6DE8
 A
   ==
-  - $凈6
+  - 凈
   ==
 V
   ==
@@ -1377,6 +1377,13 @@ F
   ==
 W
   ====
+  - [[Page~20|n63 ::(1)[凈]^::]]
+    --
+    [[...]]
+    --
+    --
+    Incorrectly but commonly used for 淨 _tsing(6)_ [[zing6]] clean.
+    --
   - [[Page~576 淨(6)]]
     ==
     - Clean, pure, spotless, undefiled;
@@ -1405,6 +1412,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected {𠎧=⿰亻絜} to 潔.
+  - Williams entry: Normalised headword 净 to 凈.
   - Williams' 淨重: Corrected _chung(6)_ (zung6 去聲) to _(5)ch(')ung_ (cung5 上聲).
   ==
 E

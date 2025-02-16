@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2025-02-14
+* %date-modified --> 2025-02-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -74,16 +74,21 @@ R
   ⼎ + 8
 U
   U+51C8
+V
+  ==
+  - caang1 (per 《廣韻》楚耕切)
+  - zaang1 (longer syllable)
+  ==
 F
   [[Not present]]
 W
   ====
   - [[Page~20|n63 ::(1)[凈]^::]]
     ==
-    - Cold, shivering.
+    - Cold, shivering [[Kangxi 凈: 冷貌]].
     ==
     --
-    Incorrectly but commonly used for 淨 _tsing(6)_ [[zing6]] clean [[**see $淨zing6**]].
+    [[...]]
     --
   ====
 C
