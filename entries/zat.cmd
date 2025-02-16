@@ -664,7 +664,7 @@ U
   U+87C4
 V
   ==
-  - zaap6 (per 《廣韻》直立切 lengthened)
+  - zaap6 (per 《廣韻》直立切)
   - zik6 (common)
   - zit3 (common)
   ==
@@ -676,9 +676,9 @@ W
   ====
   - [[Page~24|n67 窒(9)]]
     ==
-    - Retired into silence;
+    - Retired into silence [[Kangxi: 藏也, 蟄靜也]];
     - to burrow;
-    - insects burrowing, or becoming torpid in holes;
+    - insects burrowing, or becoming torpid in holes [[Kangxi: 藏伏靜處也]];
     - _(1)king chat(9)_
         [[ging1 zat6 驚蟄]]
         "excited insects,"
