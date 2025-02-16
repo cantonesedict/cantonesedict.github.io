@@ -402,6 +402,12 @@ F
   ==
 W
   ====
+  - [[Page~559 疾(9)]]
+    ==
+    - [[...]];
+    - used for the next [[嫉]];
+    - [[...]].
+    ==
   - [[Page~559 嫉(9)]]
     ==
     - Envy, jealousy [[Kangxi: 妎也]];
@@ -498,12 +504,12 @@ W
   ====
   - [[Page~559 疾(9)]]
     ==
-    - Sickness, a disease which comes suddenly on one;
-    - calamities, afflictions;
-    - urgent, pressing, prompt, hasty;
-    - unlucky, infelicitous;
-    - to hate, to dislike, to envy;
-    - used for the next [[$嫉6]];
+    - Sickness, a disease which comes suddenly on one [[Kangxi: 病也一曰急也 etc.]];
+    - ~~calamities~~, afflictions [[Kangxi: 患也]];
+    - urgent, pressing, prompt, hasty [[Kangxi: 速也, 急也]];
+    - unlucky, infelicitous [[Kangxi: 惡也]];
+    - to hate, to dislike, to envy [[Kangxi: 怨也]];
+    - [[...]];
     - _tsat(9) peng(6)_
         [[zat6 beng6 疾病]]
         disease, ailments;
@@ -532,6 +538,9 @@ W
         [[caan4 zat6 zi1 jan4 殘疾之人]],
         thoroughly diseased.
     ==
+    --
+    [[Otherwise, an alternative form of 嫉. **See $嫉zat6 for the canonical entry.**]]
+    --
   ====
 C
   ==
