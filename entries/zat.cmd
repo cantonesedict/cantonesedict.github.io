@@ -423,6 +423,10 @@ R
   ⼿ + 6
 U
   U+6303
+V
+  ==
+  - zat1 (per 《廣韻》陟栗切)
+  ==
 F
   ==
   - [[F1.87 挃]] 刈禾聲也詩獲之挃挃
@@ -431,10 +435,15 @@ W
   ====
   - [[Page~24|n67 挃(9)]]
     ==
-    - To cut down grain;
-    - to beat, to knock with the fist.
+    - To cut down grain [[Kangxi: 挃挃穫也]];
+    - to beat, to knock with the fist [[Kangxi: 撞挃也]].
     ==
   ====
+C
+  ==
+  - Williams' "To cut down grain": More specifically,
+    the sound of cutting grain (Kangxi: 穫禾聲).
+  ==
 $$
 
 ### 桎6 | _Chat(9)_ [[zat6]]
