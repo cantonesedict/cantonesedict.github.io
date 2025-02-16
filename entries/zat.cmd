@@ -619,8 +619,8 @@ W
   ====
   - [[Page~559 蒺(9)]]
     ==
-    - Gorse, furze;
-    - a thorny shrub, whose seeds are biting and spicy;
+    - Gorse, furze [[Kangxi: 蒺䔧藥草]];
+    - a thorny shrub [[Kangxi: 其刺傷人甚疾而利也]], whose seeds are biting and spicy;
     - _tsat(9) (4)lai_
         [[zat6 lai4 蒺藜]],
         a very spinous plant, the seeds are used in diseases of the eye.
