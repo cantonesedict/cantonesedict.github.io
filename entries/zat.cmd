@@ -465,9 +465,10 @@ W
   ====
   - [[Page~24|n67 桎(9)]]
     ==
-    - Fetters, gyves, stocks of wood or iron;
-    - to manacle; to pierce;
-    - a thing to clog wheels;
+    - Fetters, gyves, stocks of wood or iron [[Kangxi: 足械也]];
+    - to manacle;
+    - to pierce [[Kangxi: 桎刺也]];
+    - a thing to clog wheels [[Kangxi: 桎鎋所以制車者]];
     - _chat(9) kuk(7)_
         [[zat6 guk1 桎梏]]
         fetters;
