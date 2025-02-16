@@ -2210,6 +2210,10 @@ R
   ⽊ + 5
 U
   U+67B3
+V
+  ==
+  - gei2 (per 《集韻》舉綺切 in 枳椇)
+  ==
 F
   ==
   - [[F1.39 枳]] ::枳[棘]又枳殼藥名::
@@ -2218,14 +2222,14 @@ W
   ====
   - [[Page~40|n83 (2)枳]]
     ==
-    - A hedge thorn, a spinous tree;
-    - a fruit like a pumelo, with a thick skin;
-    - hurtful, like thorns;
+    - A hedge thorn, a spinous tree [[Kangxi: 木高多刺]];
+    - a fruit like a pumelo, with a thick skin [[Kangxi: 木似橘]];
+    - hurtful [[Kangxi: 枳害也]], ~~like thorns~~;
     - _(2)ch(i/) kik(7)_
         [[zi2 gik1 枳棘]]
         hedged up;
         thorny;
-    - _(2)ch(i/) k(u:)(6)_
+    - _(2)ch(i/) [(2)]k(u:)_^
         [[zi2 geoi6 枳椇]]
         the _Hovenia dulcis_;
     - _(2)ch(i/) hok(8)_
@@ -2236,8 +2240,8 @@ W
 C
   ==
   - Fan Wan entry: Normalised {𣗥=⿰束束} to 棘.
-  - Williams' 枳椇: Kangxi quotes 《集韻》舉綺切《韻會》居矣切{𠀤=⿱夶一}音己,
-    i.e. a reading of _(2)k(i/)_ (gei2), for 枳椇.
+  - Williams' "hurtful": In the sense of "harmful".
+  - Williams' 枳椇: Corrected _k(u:)(6)_ (geoi6) to _(2)k(u:)_ (geoi2).
   - Williams' 枳殼: Not the seeds of _Hovenia dulcis_,
     but the skin of the Chinese bitter orange.
   ==
