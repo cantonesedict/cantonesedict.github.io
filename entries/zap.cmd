@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zap
-* %date-modified --> 2025-01-21
+* %date-modified --> 2025-02-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -86,13 +86,13 @@ W
   - [[Page~22|n65 執(7)]]
     ==
     - To take in the hand, to pick up, to lay hold of, to grasp;
-    - to apprehend, to catch;
-    - to maintain, to retain;
-    - to stop up;
+    - to apprehend, to catch [[Kangxi: 捕也]];
+    - to maintain, to retain [[Kangxi: 守也持也]];
+    - to stop up [[Kangxi: 塞也]];
     - a handfull;
     - _chap(7) (5)yau_
         [[zap1 jau5 執友]],
-        a father's old friend;
+        a father's old friend [[Kangxi: 父之友曰執友]];
     - _(1)shau chap(7)_
         [[sau1 zap1 收執]]
         to receive and keep [as evidence];
@@ -126,11 +126,10 @@ W
         [[zap1 sau2 執手]],
         take by the hand.
     ==
+    --
+    [[Otherwise, an alternative form of 蓻. **See $蓻zap1 for the canonical entry.**]]
+    --
   ====
-C
-  ==
-  - For zap1 meaning "pinch" or "tuft", see $蓻zap1.
-  ==
 E
   ====
   - 【執】 (zap1):
