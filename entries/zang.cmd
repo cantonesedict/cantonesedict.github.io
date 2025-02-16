@@ -112,8 +112,8 @@ W
   ====
   - [[Page~556 (1)增]]
     ==
-    - To add, to double, to increase;
-    - repeated, doubled;
+    - To add, to double, to increase [[Kangxi: 益也]];
+    - repeated, doubled [[Kangxi: 一曰重也]];
     - _(1)k(a/) (1)tsang_
         [[gaa1 zang1 加增]],
         to augment;
