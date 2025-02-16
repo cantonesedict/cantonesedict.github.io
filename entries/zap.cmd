@@ -260,10 +260,10 @@ W
   ====
   - [[Page~22|n65 縶(7)]]
     ==
-    - To fetter a horse or cow;
+    - To fetter a horse [[Kangxi: 縶絆也]] or cow;
     - fetters, shackles;
-    - to bind, to secure;
-    - a cord.
+    - to bind, to secure [[Kangxi: 相縶也連也]];
+    - a cord [[Kangxi: 縷也]].
     ==
   ====
 C
