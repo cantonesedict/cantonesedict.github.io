@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2025-02-11
+* %date-modified --> 2025-02-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1643,7 +1643,7 @@ S
   ==
 $$
 
-###+ 只2 | _(2)Ch(i/)_ (zi2)
+### 只2 | _(2)Ch(i/)_ [[zi2]]
 
 $$
 R
@@ -1657,14 +1657,34 @@ A
   - $祗2
   -{.modern} $衹2
   ==
+V
+  ==
+  - zat1 (per 《五音集韻》之日切)
+  ==
 F
   ==
   - [[F1.39 止]] 息也定也但也
   - [[F1.39 祗]] 敬也但也又音其
   - [[F1.39 只]] 樂只君子
+  - [[F1.86 只 _Chat(7)_ (zat1)]] 專也又語詞
   ==
 W
   ====
+  - [[Page~23|n66 只(7) _Chat(7)_ (zat1)]]
+    ==
+    - Only, merely;
+    - but, however, yet;
+    - _chat(7) (2)h(o\) (2)k(o\)m ch(e/)[(3)]_
+        [[zat1 hou2 gam2 ze3 只好噉嗻]],
+        this way alone;
+    - _chat(7) tak(7)_
+        [[zat1 dak1 只得]]
+        no otherwise, only could.
+    ==
+    --
+    Also read _(2)ch(i/)_ [[zi2]], in the same senses;
+    and only _(2)ch(i/)_ [[zi2]], when it is used as a final particle [[Kangxi: 語已詞也]].
+    --
   - [[Page~39|n82 (2)止; here normalised to 只]]
     ==
     - [[...]];
@@ -1700,6 +1720,10 @@ C
   ==
   - The sense in the example 樂只君子 given by Fan Wan
     for 只 is classical speech-assist.
+  - Williams' 只好噉啫: Corrected _(2)ch(e/)_ (ze2) to _ch(e/)(3)_ (ze3).
+  - In classical terms, the reading _chat(7)_ (zat1) for 只 is vulgar.
+    《五音集韻》 has the reading 之日切, with the note 本之爾切本無質音今讀若質俗所音増.
+  - In modern terms, the reading _chat(7)_ (zat1) is obsolete.
   ==
 S
   ==

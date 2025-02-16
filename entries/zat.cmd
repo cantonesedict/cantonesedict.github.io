@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zat
-* %date-modified --> 2025-02-10
+* %date-modified --> 2025-02-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -57,7 +57,7 @@ $$
 
 ### 只1 | _Chat(7)_ [[zat1]]
 
-$$
+$$.
 R
   ⼝ + 2
 U
@@ -69,29 +69,10 @@ F
 W
   ====
   - [[Page~23|n66 只(7)]]
-    ==
-    - Only, merely;
-    - but, however, yet;
-    - _chat(7) (2)h(o\) (2)k(o\)m ch(e/)[(3)]_
-        [[zat1 hou2 gam2 ze3 只好噉嗻]],
-        this way alone;
-    - _chat(7) tak(7)_
-        [[zat1 dak1 只得]]
-        no otherwise, only could.
-    ==
     --
-    Also read _(2)ch(i/)_ [[zi2]], in the same senses;
-    and only _(2)ch(i/)_ [[zi2]], when it is used as a final particle.
-    [[**See $只zi2.**]]
+    [[Reading variation. **See $只zi2 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - Williams' 只好噉啫: Corrected _(2)ch(e/)_ (ze2) to _ch(e/)(3)_ (ze3).
-  - In classical terms, the reading _chat(7)_ (zat1) for 只 is vulgar;
-    Kangxi quotes 《五音集韻》之日切音質本之爾切無質音今讀若質俗音新增.
-  - In modern terms, the reading _chat(7)_ (zat1) is obsolete.
-  ==
 S
   ==
   - $只zi2
