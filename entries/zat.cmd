@@ -220,8 +220,8 @@ W
   ====
   - [[Page~23|n66 鑕(7)]]
     ==
-    - An ax, a hatchet;
-    - an anvil or iron block, used by smiths and others.
+    - An ax, a hatchet [[Kangxi: 斧也]];
+    - an anvil or iron block [[Kangxi: 鐵鑕砧, 斧鑕椹也]], used by smiths and others.
     ==
   ====
 $$
