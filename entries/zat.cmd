@@ -404,7 +404,7 @@ W
   ====
   - [[Page~559 嫉(9)]]
     ==
-    - Envy, jealousy;
+    - Envy, jealousy [[Kangxi: 妎也]];
     - to envy, to dislike, as a competitor;
     - _tsat(9) (4)(i/)n_
         [[zat6 jin4 嫉賢]],
