@@ -589,7 +589,7 @@ W
   ====
   - [[Page~556 (1)罾]]
     ==
-    - A lifting net, suspended by the corners;
+    - A lifting net, suspended by the corners [[Kangxi: ::罾魚網也形似[仰]繖蓋四維而舉之::]];
     - _kw(a/)(3) (1)tsang_
         [[gwaa3 zang1 掛罾]],
         to let down the net;
@@ -608,7 +608,7 @@ C
   ==
   - Fan Wan erroneously has 繒 explained ::魚[網]:: (綱 corrected to 網),
     and a strange character (like 曾, but with 丅 conjoined to the middle component between 八 above and 曰 below)
-    explained 同上, which has here been normalised to 罾.
+    explained 同上, here normalised to 罾.
   - Williams' 拗罾 etc.: Corrected _(2)au_ (au2) to _(2)(a/)u_ (aau2).
   ==
 $$
