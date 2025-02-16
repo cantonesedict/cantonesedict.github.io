@@ -179,7 +179,7 @@ W
   ====
   - [[Page~556 (1)憎]]
     ==
-    - To hate, to dislike, to abominate;
+    - To hate, to dislike, to abominate [[Kangxi: 惡也]];
     - _(2)ho (1)tsang_
         [[ho2 zang1 可憎]],
         hateful;
@@ -201,7 +201,7 @@ E
   ====
   - 【乞人憎】 (hat1 jan4 zang1):
     ++
-    1. Despicable. (Literally, "begging others' hate".)
+    1. Despicable. (Literally, "begging others to hate".)
        ==
        - 真係乞人憎 (zan1 hai6 hat1 jan4 zang1): "[That] really is despicable."
        ==
