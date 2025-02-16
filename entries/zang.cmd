@@ -744,8 +744,8 @@ W
   ====
   - [[Page~556 甑(3)]]
     ==
-    - A boiler for distilling, an alembic, a still made of pewter;
-    - a boiler for steaming rice;
+    - A boiler for distilling [[Fan Wan: 酒甑]], an alembic, a still made of pewter;
+    - a boiler for steaming [[Kangxi: 甗也]] rice;
     - to steam, to distil;
     - _lok(9) tsang(3) (1)ching_
         [[lok6 zang3 zing1 落甑蒸]],
@@ -855,10 +855,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Reading variation. **See $甑zang3 for the canonical entry.**
-  ==
+P
+  ++
+  1. Reading variation. **See $甑zang3 for the canonical entry.**
+  ++
 S
   ==
   - $甑zang3
