@@ -555,6 +555,10 @@ R
   ⽳ + 6
 U
   U+7A92
+V
+  ==
+  - zat1 (per 《廣韻》陟栗切)
+  ==
 F
   ==
   - [[F1.87 窒]] 窒塞不通也
@@ -563,8 +567,9 @@ W
   ====
   - [[Page~23|n66 窒(9)]]
     ==
-    - To close, to stop up the mouth of;
-    - to hamper, the moon in opposition;
+    - To close [[Kangxi: 塞也]], to stop up the mouth of;
+    - to hamper[;]
+    - the moon in opposition [[Kangxi: 月在庚曰窒]];
     - _chat(9) (2)shau chat(9) k(e/)uk(8)_
         [[zat6 sau2 zat6 goek3 窒手窒腳]]
         impeded, things not to one's liking;
