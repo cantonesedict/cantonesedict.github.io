@@ -881,9 +881,9 @@ W
   ====
   - [[Page~557 贈(6)]]
     ==
-    - To present, to give to, to bestow on;
+    - To present, to give to, to bestow on [[Kangxi: 贈送也]];
     - to confer, as by the crown;
-    - to add to;
+    - to add to [[Kangxi: 贈增也]];
     - _tsang(6) sung(3)_
         [[zang6 sung3 贈送]]
         to give a present to;
