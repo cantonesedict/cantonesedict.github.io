@@ -693,10 +693,10 @@ W
   ====
   - [[Page~23|n66 郅(7) _Chat(7)_ (zat1); here normalised to _Chat(9)_ (zat6)]]
     ==
-    - To ascend, to go up, as a hill;
+    - To ascend, to go up [[Kangxi: 登也]], as a hill;
     - flourishing, as an age;
-    - very, exceedingly;
-    - name of a city;
+    - very, exceedingly [[Kangxi: 至也]];
+    - name of a city [[Kangxi: 郁郅古縣名]];
     - _chat[(9)] (4)lung_
         [[zat6 lung4 郅隆]],
         very grand;
