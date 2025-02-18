@@ -257,7 +257,7 @@ W
     ==
     - A district, less than a prefecture;
     - a continent, a great division;
-    - an island;
+    - an island [[Kangxi: 水中可居曰州]];
     - _(1)ch(i/) (1)chau_
         [[zi1 zau1 知州]],
         the magistrate over a _chau_ [[zau 州]] district;
@@ -275,7 +275,7 @@ W
   ====
 C
   ==
-  - In modern usage, the "continent" and "island" senses are spelt 洲; see $洲zau1.
+  - In modern usage, the "continent" and "island" senses are spelt 洲. See $洲zau1.
   ==
 $$
 
