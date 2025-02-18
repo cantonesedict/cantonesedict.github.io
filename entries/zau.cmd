@@ -256,8 +256,8 @@ W
   - [[Page~25|n68 (1)州]]
     ==
     - A district, less than a prefecture;
-    - a continent, a great division;
-    - an island [[Kangxi: 水中可居曰州]];
+    - [[...]], a great division;
+    - [[...]];
     - _(1)ch(i/) (1)chau_
         [[zi1 zau1 知州]],
         the magistrate over a _chau_ [[zau 州]] district;
@@ -272,11 +272,10 @@ W
         [[duk6 goek3 zau1 獨腳州]],
         a district without subdivisions.
     ==
+    --
+    [[Otherwise, an alternative form of 洲. **See $洲zau1 for the canonical entry.**]]
+    --
   ====
-C
-  ==
-  - In modern usage, the "continent" and "island" senses are spelt 洲. See $洲zau1.
-  ==
 $$
 
 ### 掫1 | _(1)Tsau_ [[zau1]]
@@ -416,16 +415,27 @@ R
   ⽔ + 6
 U
   U+6D32
+A
+  ==
+  - $州1
+  ==
 F
   ==
   - [[F1.49 洲]] 水中可居之也
   ==
 W
   ====
+  - [[Page~25|n68 (1)州]]
+    ==
+    - [[...]];
+    - a continent, [[...]];
+    - an island [[Kangxi 州: 水中可居曰州]];
+    - [[...]].
+    ==
   - [[Page~25|n68 (1)洲]]
     ==
-    - A spot encircled by streams, or in the water, as an islet;
-    - a place where men collect, a village;
+    - A spot encircled by streams, or in the water, as an islet [[Kangxi: 水渚也, 水中可居曰洲]];
+    - a place where men collect, a village [[Kangxi: 聚也人及鳥物所聚息之處也]];
     - _(4)ng(o\) (4)(u:) (1)chau_
         [[ngou4 jyu4 zau1 鰲魚洲]],
         Whampoa I.;
@@ -436,13 +446,18 @@ W
         [[gau2 zau1 九洲]],
         the Nine Is. near Macao;
     - _(1)ts(')ing (1)chau_
-        [[cing1 zau1 清洲]],
+        [[cing1 zau1 青洲]],
         Green I. off Macao;
     - _(1)sh(a/) (1)chau_
         [[saa1 zau1 沙洲]],
         sands, a sand-bank.
     ==
   ====
+C
+  ==
+  - In modern usage, 州 is used exclusively in the "administrative division" sense,
+    and never for the "island/continent" sense, which is always spelt 洲.
+  ==
 $$
 
 ###+ 湫1 | _(1)Tsau_ (zau1)
