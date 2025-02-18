@@ -558,8 +558,8 @@ W
   ====
   - [[Page~560 (1)諏]]
     ==
-    - To consult with, to take advice,
-      to inquire into matters of government publicly;
+    - To consult with [[Kangxi: 聚謀也]], to take advice,
+      to inquire into matters of government publicly [[Kangxi: 問政事也]];
     - to choose;
     - _(1)tsau kat(7)_
         [[zau1 gat1 諏吉]]
