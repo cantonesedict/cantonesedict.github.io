@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ciu
-* %date-modified --> 2025-02-14
+* %date-modified --> 2025-02-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -334,7 +334,7 @@ W
   - [[Page~562 ::(1)[愀]^:: _(1)Ts(')au_ (cau1); here normalised to _(2)Ts(')i(u/)_ (ciu2)]]
     ==
     - To blush, to redden, to change color [[Kangxi: 容色變也]];
-    - ~~downhearted, sad~~.
+    - ~~downhearted, sad.~~
     ==
   ====
 C

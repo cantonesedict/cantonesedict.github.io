@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2025-02-10
+* %date-modified --> 2025-02-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -162,7 +162,7 @@ W
         careless in spending money;
     - ~~_(1)(u/) (1)ts(')(o\)_
         [[wu1 cou1 污粗]],
-        dirty, unwashed~~.
+        dirty, unwashed.~~
     ==
     --
     [[...]]

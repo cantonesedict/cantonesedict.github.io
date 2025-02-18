@@ -91,7 +91,7 @@ W
   - [[Page~25|n68 (1)侜]]
     ==
     - To conceal, to shade, to hide [[Kangxi: 有廱蔽也]];
-    - ~~something stretched for a shade~~.
+    - ~~something stretched for a shade.~~
     ==
   ====
 C

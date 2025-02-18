@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2025-02-10
+* %date-modified --> 2025-02-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -859,7 +859,7 @@ W
         to grab at all.
     ==
     --
-    ~~Read _(1)ts(')ong_ [[cong1]]; to saw [[Kangxi: 搶搪鋸也]]~~.
+    ~~Read _(1)ts(')ong_ [[cong1]]; to saw [[Kangxi: 搶搪鋸也]].~~
     --
   ====
 C
