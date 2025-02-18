@@ -508,8 +508,8 @@ W
   ====
   - [[Page~560 (1)緅]]
     ==
-    - Silk first dyed red thrice, and then twice dipped in black;
-    - a dark red-like puce.
+    - Silk first dyed red thrice, and then twice dipped in black [[Kangxi: 五入爲緅, 染纁者三入而成又再染以黑則爲緅]];
+    - a dark red-like puce [[Kangxi: 帛靑赤色也]].
     ==
   ====
 $$
