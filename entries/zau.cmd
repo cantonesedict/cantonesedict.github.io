@@ -124,7 +124,7 @@ W
   - [[Page~25|n68 (1)周]]
     ==
     - Universal, complete, entire [[Kangxi: 備也]];
-    - to supply, to provide, to assist;
+    - [[...]];
     - plenty, enough;
     - to make a circuit, to environ [[Kangxi: 周帀也]];
     - a famous dynasty, B.~C.~1122--255 [[Kangxi: 周代名]];
@@ -162,6 +162,9 @@ W
         [[hou2 zau1 zi3 好周置]],
         it is excellent.
     ==
+    --
+    [[Otherwise, an alternative form of 賙. **See $賙zau1 for the canonical entry.**]]
+    --
   - [[Page~25|n68 (1)週]]
     --
     Often used for the last [[周]].
@@ -637,15 +640,25 @@ R
   ⾙ + 8
 U
   U+8CD9
+A
+  ==
+  - $周1
+  ==
 F
   ==
   - [[F1.49 賙]] 賑恤也
   ==
 W
   ====
+  - [[Page~25|n68 (1)周; here normalised to 賙]]
+    ==
+    - [[...]];
+    - to supply, to provide, to assist;
+    - [[...]].
+    ==
   - [[Page~25|n68 (1)賙]]
     ==
-    - To bestow charity;
+    - To bestow charity [[Kangxi: 給也贍也]];
     - _(1)chau tsai(3)_
         [[zau1 zai3 賙濟]]
         to relieve the indigent, as a society or government;
