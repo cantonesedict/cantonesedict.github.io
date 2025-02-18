@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2025-02-10
+* %date-modified --> 2025-02-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -91,10 +91,15 @@ W
   ====
   - [[Page~25|n68 (1)侜]]
     ==
-    - To conceal, to shade, to hide;
-    - something stretched for a shade.
+    - To conceal, to shade, to hide [[Kangxi: 有廱蔽也]];
+    - ~~something stretched for a shade~~.
     ==
   ====
+C
+  ==
+  - Williams' "stretched": This is a misreading of Kangxi ::侜張[...]誑也::,
+    to deceive.
+  ==
 $$
 
 ### 僽1 | _(1)Tsau_ [[zau1]]
