@@ -228,14 +228,14 @@ W
   ====
   - [[Page~560 (1)啾]]
     ==
-    - The wail of infants;
+    - The wail of infants [[Kangxi: 小兒聲也]];
     - the hum of insects;
     - _(1)tsau tsik(7)_
         [[zau1 zik1 啾唧]]
         the cry of small children;
     - _(1)tsau (1)tsau_
         [[zau1 zau1 啾啾]],
-        the chattering of birds, squeaking of rats.
+        the chattering of birds [[Kangxi: 啾啾鳴聲]], squeaking of rats.
     ==
   ====
 $$
