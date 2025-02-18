@@ -529,9 +529,9 @@ W
   ====
   - [[Page~25|n68 (1)舟]]
     ==
-    - A boat, a vessel, a craft of any sort;
+    - A boat, a vessel, a craft of any sort [[Kangxi: 船也]];
     - to go in a boat;
-    - to transport, to carry in a vessel;
+    - to transport, to carry in a vessel [[Kangxi: 載也]];
     - the 137th~radical of characters relating to ships;
     - _(1)p(')(i/)n (1)chau_
         [[pin1 zau1 扁舟]],
