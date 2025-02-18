@@ -402,9 +402,9 @@ W
   ====
   - [[Page~560 (1)棷]]
     ==
-    - A kind of wood suitable for fuel;
-    - it is used for making watchmen's alarms;
-    - a surname.
+    - A kind of wood suitable for fuel [[Kangxi: 木薪也]];
+    - ~~it is used for making watchmen's alarms;~~
+    - ~~a surname.~~
     ==
   ====
 $$
