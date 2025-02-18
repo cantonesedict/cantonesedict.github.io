@@ -294,13 +294,17 @@ W
   ====
   - [[Page~560 (1)掫]]
     ==
-    - To strike the rounds at night, to pace the beat at night;
-    - to seize, to take with the hand;
+    - To strike the rounds at night, to pace the beat at night [[Kangxi: 夜戒守有所擊也]];
+    - [[...]];
     - _(2)kan (1)tsau (1)tsau_
         [[gan2 zau1 zau1 緊掫掫]],
         tie it up very tight,---a colloquial phrase.
     ==
   ====
+S
+  ==
+  - $掫cau1
+  ==
 $$
 
 ###+ 揪1 | _(1)Tsau_ (zau1)

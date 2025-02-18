@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 4-stroke radicals
-* %date-modified --> 2025-02-11
+* %date-modified --> 2025-02-18
 * %copyright-prior-years --> 2024--
 * %meta-description --> index of characters with 4-stroke radicals
 
@@ -402,6 +402,8 @@ For all radicals, see [Index of characters by radical](./).
       - $掙zaang6
       - $掙zang1
       - $掙zang3
+      - $掫cau1
+      - $掫zau1
       - $推ceoi1
       - $掣cit3
       - $掣zai3
@@ -409,7 +411,6 @@ For all radicals, see [Index of characters by radical](./).
       - $措cou3
       - $措zaak3
       - $掉zaau6
-      - $掫zau1
       - $接zip3
       - $捷zit6
       - $掌zoeng2

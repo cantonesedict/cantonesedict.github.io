@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2025-02-10
+* %date-modified --> 2025-02-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -50,6 +50,7 @@ $$
 - $偢1
 - $愀1
 - $抽1
+- $掫1
 - $揪1
 - $揫1
 - $楸1
@@ -235,6 +236,30 @@ E
     1. To fight one-on-one.
     ++
   ====
+$$
+
+###+ 掫1 | _(1)Ch(')au_ (cau1)
+
+$$
+R
+  ⼿ + 8
+U
+  U+63AB
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~560 (1)掫 _(1)Tsau_ (zau1); here corrected to _(1)Ch(')au_ (cau1)]]
+    ==
+    - [[...]];
+    - to seize, to take with the hand [[Kangxi: 手取物也]];
+    - [[...]].
+    ==
+  ====
+S
+  ==
+  - $掫zau1
+  ==
 $$
 
 ### 揪1 | _(1)Ts(')au_ [[cau1]]
