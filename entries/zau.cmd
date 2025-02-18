@@ -47,7 +47,6 @@ $$
 <nav class="sideways">
 =={.modern}
 - $侜1
-- $僽1
 - $周1
 - $啁1
 - $啾1
@@ -99,34 +98,6 @@ C
   ==
   - Williams' "stretched": This is a misreading of Kangxi ::侜張[...]誑也::,
     to deceive.
-  ==
-$$
-
-### 僽1 | _(1)Tsau_ [[zau1]]
-
-$$.
-R
-  ⼈ + 13
-U
-  U+50FD
-F
-  [[Not present]]
-W
-  ====
-  - [[Page~560 (1)僽]]
-    --
-    [[Idiosyncratic reading from Williams. **See $僽zau3 for the canonical entry.**]]
-    --
-  ====
-C
-  ==
-  - Strictly, the reading _(1)chau_ (zau1) in level tone
-    is for the sense "anxious" or "sorrowful"
-    (per Kangxi 《韻會》側鳩切音鄒愁貌或作偢).
-  ==
-S
-  ==
-  - $僽zau3
   ==
 $$
 
@@ -1235,17 +1206,13 @@ W
   ====
   - [[Page~560 (1)僽 _(1)Tsau_ (zau1); here corrected to _Tsau(3)_ (zau3)]]
     ==
-    - To scold, to rail at;
+    - To scold, to rail at [[Kangxi: 僝僽惡言詈也]];
     - abusive, scurrilous language;
     - _(4)sh(a/)n tsau[(3)]_
         [[saan4 zau3 僝僽]],
         to say outrageous things, to irritate.
     ==
   ====
-S
-  ==
-  - $僽zau1
-  ==
 $$
 
 ### 呪3 | _Chau(3)_ [[zau3]]
