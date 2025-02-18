@@ -581,20 +581,25 @@ R
   ⾔ + 10
 U
   U+8B05
+V
+  ==
+  - cau1 (per 《廣韻》楚鳩切)
+  ==
 F
   [[Not present]]
 W
   ====
   - [[Page~560 (1)謅]]
     ==
-    - To whisper, to speak into one's ear;
+    - To whisper [[Kangxi: 小言私授謂之謅]], to speak into one's ear;
     - to speak in a low tone.
     ==
   ====
 C
   ==
-  - Strictly, the pre-merger reading should be _(1)chau_;
-    Kangxi quotes 《集韻》甾尤切音鄒.
+  - The reading zau1 is not unattested, though strictly,
+    the pre-merger reading should be _(1)chau_;
+    《集韻》 has the reading 甾尤切, explained 小言私授謂之謅.
   ==
 $$
 
