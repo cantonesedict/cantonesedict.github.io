@@ -108,9 +108,12 @@ R
   ⼝ + 5
 U
   U+5468
+H
+  May appear with the central vertical stroke not poking through (assumed here)
+  or poking through and touching the component 口.
 A
   ==
-  -{.modern} $週1
+  - $週1
   ==
 F
   ==
@@ -120,17 +123,17 @@ W
   ====
   - [[Page~25|n68 (1)周]]
     ==
-    - Universal, complete, entire;
+    - Universal, complete, entire [[Kangxi: 備也]];
     - to supply, to provide, to assist;
     - plenty, enough;
-    - to make a circuit, to environ;
-    - a famous dynasty, B.~C.~1122--255;
+    - to make a circuit, to environ [[Kangxi: 周帀也]];
+    - a famous dynasty, B.~C.~1122--255 [[Kangxi: 周代名]];
     - secret, fine, subtle;
-    - close together, fine;
-    - a curve, a bend;
-    - to extend everywhere;
-    - honest, trustworthy;
-    - to the end, entirely;
+    - close together, fine [[Kangxi: 密也]];
+    - a curve, a bend [[Kangxi: 曲也]];
+    - to extend everywhere [[Kangxi: 徧也]];
+    - honest, trustworthy [[Kangxi: 忠信也]];
+    - to the end [[Kangxi: 終也]], entirely;
     - _(2)h(o\) (1)chau t(o\)(3)_
         [[hou2 zau1 dou3 好周到]]
         all things prepared;
@@ -159,11 +162,20 @@ W
         [[hou2 zau1 zi3 好周置]],
         it is excellent.
     ==
+  - [[Page~25|n68 (1)週]]
+    --
+    Often used for the last [[周]].
+    --
+    ==
+    - [[...]];
+    - _(1)chau (4)sh(i/) (1)t(o\) hai(6) (2)k(o\)m_
+        [[zau1 si4 dou1 hai6 gam2 周時都係噉]],
+        he is ever the same.
+    ==
   ====
 C
   ==
   - Williams' 好周置: Corrected _(1)ch(i/)_ (zi1) to _ch(i/)(3)_ (zi3).
-  - Williams records 周時 under 週 (which is interchangeable); see $週zau1.
   ==
 E
   ====
@@ -670,10 +682,6 @@ R
   ⾡ + 8
 U
   U+9031
-A
-  ==
-  -{.modern} $周1
-  ==
 F
   ==
   - [[F1.49 週]] 回也也
@@ -682,11 +690,11 @@ W
   ====
   - [[Page~25|n68 (1)週]]
     --
-    Often used for the last [[$周1]].
+    [[...]]
     --
     ==
-    - To revolve, to circulate;
-    - to inform people;
+    - To revolve, to circulate [[Kangxi: 迴也]];
+    - ~~to inform people;~~
     - a year;
     - _(1)chau (4)n(i/)n wong(6) s(e/)ung(3)_
         [[zau1 nin4 wong6 soeng3 週年旺相]]
@@ -697,10 +705,11 @@ W
     - _yat(7) (1)chau_
         [[jat1 zau1 一週]],
         a circuit, a year;
-    - _(1)chau (4)sh(i/) (1)t(o\) hai(6) (2)k(o\)m_
-        [[zau1 si4 dou1 hai6 gam2 週時都係噉]],
-        he is ever the same.
+    - [[...]].
     ==
+    --
+    [[Alternative form of 周. See $周zau1.]]
+    --
   ====
 $$
 
