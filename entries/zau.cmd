@@ -618,7 +618,7 @@ W
   ====
   - [[Page~25|n68 (1)譸]]
     ==
-    - Hurried, bustling, to impose upon, to deceive;
+    - ~~Hurried, bustling~~, to impose upon, to deceive [[Kangxi: 譸張誑也]];
     - _(1)chau (1)ch(e/)ung [(4)]wai w(a/)n(6)_
         [[zau1 zoeng1 wai4 waan6 譸張為幻]]
         to delude with false appearances.
