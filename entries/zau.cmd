@@ -705,9 +705,9 @@ W
   ====
   - [[Page~25|n68 (1)輖]]
     ==
-    - A heavily laden cart, which 1s low in front;
-    - a heavy load;
-    - heavy.
+    - A heavily laden cart, which is low in front [[Kangxi: 低也一曰車前重也]];
+    - a heavy load [[Kangxi: 重載也]];
+    - heavy [[Kangxi: 重也]].
     ==
   ====
 $$
