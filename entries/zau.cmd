@@ -766,7 +766,7 @@ W
   - [[Page~560 (1)鄒]]
     ==
     - A district in the southwest of Sh(a/)ntung [[山東]] on the Yellow River;
-    - an ancient city in L(u/) [[魯]], where Mencius was born.
+    - an ancient city in L(u/) [[魯]] [[Kangxi: 魯縣 etc.]], where Mencius was born.
     ==
   ====
 C
