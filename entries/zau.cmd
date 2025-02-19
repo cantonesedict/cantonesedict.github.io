@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2025-02-18
+* %date-modified --> 2025-02-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -684,8 +684,8 @@ W
   ====
   - [[Page~25|n68 (1)輈]]
     ==
-    - A frame in front of a carriage near which the driver sits;
-    - a sort of dashboard.
+    - A frame in front of a carriage [[Kangxi: 車轅也 etc.]] near which the driver sits;
+    - ~~a sort of dashboard~~.
     ==
   ====
 $$
