@@ -66,6 +66,7 @@ $$
 - $輈1
 - $輖1
 - $週1
+- $郰1
 - $鄒1
 - $鄹1
 - $陬1
@@ -750,6 +751,44 @@ W
   ====
 $$
 
+###+ 郰1 | _(1)Tsau_ (zau1)
+
+$$
+R
+  ⾢ + 8
+U
+  U+90F0
+A
+  ==
+  - $鄹1
+  - $陬1
+  ==
+F
+  ==
+  - [[F1.50 鄹]] 孔子故鄕
+  ==
+W
+  ====
+  - [[Page~560 (1)鄹; here normalised to 郰]]
+    ==
+    - The district in L(u/) [[魯]] where Confucius was born [[Kangxi 郰: 魯下邑孔子之鄕]],
+      now in Yenchau f(u/) [[兗州府]] in Sh(a/)ntung [[山東]];
+    - it is not far from the preceding [[鄒]].
+    ==
+  - [[Page~560 (1)陬; here normalised to 郰]]
+    ==
+    - [[...]];
+    - _(1)tsau yap(7)_
+        [[zau1 jap1 郰邑]]
+        the residence of Confucius, and interchanged with the preceding [[鄹]].
+    ==
+  ====
+C
+  ==
+  - Strictly, the pre-merger reading should be _(1)chau_ per 《廣韻》側鳩切.
+  ==
+$$
+
 ### 鄒1 | _(1)Tsau_ [[zau1]]
 
 $$
@@ -757,6 +796,10 @@ R
   ⾢ + 10
 U
   U+9112
+A
+  ==
+  -{.modern} $鄹1
+  ==
 F
   ==
   - [[F1.50 鄒]] 國名又姓
@@ -777,15 +820,11 @@ $$
 
 ### 鄹1 | _(1)Tsau_ [[zau1]]
 
-$$
+$$.
 R
   ⾢ + 14
 U
   U+9139
-A
-  ==
-  - $陬1
-  ==
 F
   ==
   - [[F1.50 鄹]] 孔子故鄕
@@ -793,11 +832,12 @@ F
 W
   ====
   - [[Page~560 (1)鄹]]
-    ==
-    - The district in L(u/) [[魯]] where Confucius was born,
-      now in Yenchau f(u/) [[兗州府]] in Sh(a/)ntung [[山東]];
-    - it is not far from the preceding [[$鄒1]].
-    ==
+    --
+    [[Alternative form of 鄒. **See $鄒zau1 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 郰. **See $郰zau1 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -834,10 +874,11 @@ W
     - _(4)shing (1)tsau_
         [[sing4 zau1 城陬]],
         the corner of a wall;
-    - _(1)tsau yap(7)_
-        [[zau1 jap1 陬邑]]
-        the residence of Confucius, and interchanged with the preceding [[$鄹1]].
+    - [[...]].
     ==
+    --
+    [[Otherwise, an alternative form of 郰. **See $郰zau1 for the canonical entry.**]]
+    --
   ====
 C
   ==
