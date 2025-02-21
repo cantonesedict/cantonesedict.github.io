@@ -1414,7 +1414,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _(u/)i_ = [uːi].)
+  (Best guess: _(u/)i_ = [uːɪ].)
   --
   +++}
 
