@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zan
-* %date-modified --> 2025-02-16
+* %date-modified --> 2025-02-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -209,6 +209,23 @@ C
   - Williams' 真贓正犯:
     Corrected _fan(6)_ (fan6) to _f(a/)n(6)_ (faan6).
   ==
+E
+  ====
+  - 【認真】 (jing6-2 zan1):
+    ++
+    1. (_degree_) Really, truly.
+       ==
+       - 認真傻 (jing6-2 zan1 so4): "[That's] truly dumb."
+       ==
+    ++
+  - 【嚟真】 (lai4-2 zan1):
+    ++
+    1. To do for real (as opposed to a practice, test, or fake run).
+       ==
+       - 今次嚟真㗎喇 (gam1 ci3 lai4-2 zan1 ga3 la3): "This time [it's] for real!"
+       ==
+    ++
+  ====
 $$
 
 
