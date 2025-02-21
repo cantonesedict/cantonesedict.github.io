@@ -987,7 +987,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Effectively, _(i/)n_ = [iːn], and _(i/)t_ = [iːt̚].)
+  (Best guess: _(i/)n_ = [iːn], and _(i/)t_ = [iːt̚].)
   --
   +++}
 
@@ -1001,7 +1001,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Effectively, _ai_ = [ɐi].)
+  (Best guess: _ai_ = [ɐi]. 19th-century English /ʌi/ is almost indistinguishable.)
   --
   +++}
 
@@ -1017,7 +1017,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Effectively, _(i/)_ = [iː].)
+  (Best guess: _(i/)_ = [iː].)
   --
   +++}
 
@@ -1033,7 +1033,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Effectively, _(u:)_ = [yː].)
+  (Best guess: _(u:)_ = [yː].)
   --
   +++}
 
@@ -1049,7 +1049,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Effectively, _au_ = [ɐu].)
+  (Best guess: _au_ = [ɐu]. 19th-century English /ɑu/ is almost indistinguishable.)
   --
   +++}
 
@@ -1064,7 +1064,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Effectively, _ung_ = [oŋ], and _uk_ = [ok̚].
+  (Best guess: _ung_ = [oŋ], and _uk_ = [ok̚].
   This is based on interpreting Williams' "so nearly _toong_, _took_"
   as meaning slightly more open than /ʊŋ/ and /ʊk/, wherefore [oŋ] and [ok̚].)
   --
