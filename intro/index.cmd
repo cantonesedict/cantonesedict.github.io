@@ -1534,7 +1534,7 @@ give more trouble, perhaps, than the others.
 --
 ===={.williams}
 - 1. All words having no initial consonant, are very liable to have
-  a nasal _ng_ [[ng]] or an _h_ [[h]] prefixed to them, or to have the vowel altered.
+  a nasal _ng_ or an _h_ prefixed to them, or to have the vowel altered.
   The people in Hi(a/)ngsh(a/)n [[香山]], Macao [[澳門]], and Sin-ng(a/)n [[新安]], change many words
   in this way, so that if one does not see the character, he will look
   for it under _h_ or _ng_.
@@ -1558,20 +1558,20 @@ give more trouble, perhaps, than the others.
   +++}
 
 - 4. The people along the coast and south of Canton [[廣州]] often alter the
-  initial _f_ [[f]] into _h_ [[h]] or _w_ [[w]] in some words, and retain it in others; it
-  changes sooner before _(a/)_ [[aa]] or _a_ [[a]],
-  than before _(i/)_ [[long i]] or _u_ [[u]].
+  initial _f_ into _h_ or _w_ in some words, and retain it in others; it
+  changes sooner before _(a/)_ or _a_,
+  than before _(i/)_ or _u_.
 
-- 10,~11. The two initials _l_ [[l]] and _m_ [[m]] are frequently so interchanged in
+- 10,~11. The two initials _l_ and _m_ are frequently so interchanged in
   the mouths of some people, that one is much puzzled to distinguish
   them, and even _n_ is altered too;
-    as _l(a/)m_ [[laam]] 南 for _n(a/)m_ [[naam]];
-    _m(a/)n_ [[maan]] 欄 for _l(a/)n_ [[laan]];
-    _l(o\)_ [[lou]] 奴 for _n(o\)_ [[nou]];
+    as _l(a/)m_ 南 for _n(a/)m_;
+    _m(a/)n_ 欄 for _l(a/)n_;
+    _l(o\)_ 奴 for _n(o\)_;
     &c.
   The number of such words is not very
   great, and while the few who speak thus cannot discriminate the
-  init[i]al consonant before some vowels, they never interchange them
+  [initial] consonant before some vowels, they never interchange them
   before others.
 
 -{#initials-sh-s}
