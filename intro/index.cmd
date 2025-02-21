@@ -1720,7 +1720,7 @@ in the following table:---
 
 --{.williams}
 The consonants need no illustration, as they are uniformly
-pronounced as in English [[modulo aspirates]]:---
+pronounced as in English [[modulo aspirates, and likely with [ɕ] in place of [ʃ]^]]:---
 --
 
 ||||{.wide}
