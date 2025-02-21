@@ -1346,7 +1346,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Effectively, _o_ = [ɔː].)
+  (Best guess: _o_ = [ɔː].)
   --
   +++}
 
@@ -1360,7 +1360,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Effectively, _(a/)m_ = [aːm], and _(a/)p_ = [aːp̚].)
+  (Best guess: _(a/)m_ = [aːm], and _(a/)p_ = [aːp̚].)
   --
   +++}
 
@@ -1375,7 +1375,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Effectively, _(a/)n_ = [aːn], and _(a/)t_ = [aːt̚].)
+  (Best guess: _(a/)n_ = [aːn], and _(a/)t_ = [aːt̚].)
   --
   +++}
 
@@ -1388,7 +1388,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Effectively, _(a/)_ = [aː].)
+  (Best guess: _(a/)_ = [aː].)
   --
   +++}
 
@@ -1401,7 +1401,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Effectively, _(u/)n_ = [uːn], and _(u/)t_ = [uːt̚].)
+  (Best guess: _(u/)n_ = [uːn], and _(u/)t_ = [uːt̚].)
   --
   +++}
 
