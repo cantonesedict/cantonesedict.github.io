@@ -30,7 +30,7 @@ WH
   ==
 WP
   ==
-  - Tsoi <span class="modern">= [tsɔi]</span>
+  - Tsoi <span class="modern">= [tsɔɪ]</span>
   ==
 MP
   ==

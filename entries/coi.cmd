@@ -30,7 +30,7 @@ WH
   ==
 WP
   ==
-  - Ts(')oi <span class="modern">= [tsʰɔi]</span>
+  - Ts(')oi <span class="modern">= [tsʰɔɪ]</span>
   ==
 MP
   ==

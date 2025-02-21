@@ -1278,7 +1278,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _oi_ = [ɔi].)
+  (Best guess: _oi_ = [ɔɪ].)
   --
   +++}
 
