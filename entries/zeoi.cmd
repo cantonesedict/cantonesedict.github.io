@@ -36,7 +36,7 @@ WP
   - Chui <span class="modern">= [tɕʊi]</span>
   - Ts(u:) <span class="modern">= [tsyː]</span>
   - Tsui <span class="modern">= [tsʊi]</span>
-  - Ts(u/)i <span class="modern">= [tsuːɪ]</span>
+  - Ts(u/)i <span class="modern">= [tsuːi]</span>
   ==
 MP
   ==
