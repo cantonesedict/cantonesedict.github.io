@@ -2313,13 +2313,13 @@ is necessarily arranged differently to Williams' original:
   The syllables are arranged by the Jyutping spelling
   of the modern Hong Kong Cantonese pronunciation
   (see [Index of entry pages by Jyutping](/entries/))
-  for practicality in the 21st century,
+  for practicality in the 21st~century,
   as no one except Conway cares about the Williams romanisation.
   --
   --
   In addition to the ordering being different,
   the groupings themselves will be different to the Williams groupings
-  due to phonological changes that have occurred since the mid-19th century
+  due to phonological changes that have occurred since the mid-19th~century
   (e.g.~the merging of the pairs _ts_ & _ch_, _ts(')_ & _ch(')_, and _s_ & _sh_).
   --
 
