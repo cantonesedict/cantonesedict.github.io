@@ -1313,7 +1313,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Effectively, _un_ = [un], and _ut_ = [ut̚].)
+  (Best guess: _un_ = [ʊn], and _ut_ = [ʊt̚].)
   --
   +++}
 

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2025-02-14
+* %date-modified --> 2025-02-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -37,8 +37,8 @@ WH
   ==
 WP
   ==
-  - Chun <span class="modern">= [tɕun]</span>
-  - Tsun <span class="modern">= [tsun]</span>
+  - Chun <span class="modern">= [tɕʊn]</span>
+  - Tsun <span class="modern">= [tsʊn]</span>
   ==
 MP
   ==
