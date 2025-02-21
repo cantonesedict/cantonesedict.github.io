@@ -29,8 +29,8 @@ WH
   ==
 WP
   ==
-  - Ch(')ik <span class="modern">= [tɕʰek̚]</span>
-  - Ts(')ik <span class="modern">= [tsʰek̚]</span>
+  - Ch(')ik <span class="modern">= [tɕʰɪk̚]</span>
+  - Ts(')ik <span class="modern">= [tsʰɪk̚]</span>
   ==
 MP
   ==
