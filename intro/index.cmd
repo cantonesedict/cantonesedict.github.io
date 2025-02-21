@@ -1503,29 +1503,29 @@ The first one is a mute, and used when the final only is pronounced,
 having no consonant before it.
 --
 ++{.williams}
-1. Au [[au]] 毆
-2. Chi [[merged into zi]] 之
-3. Ch(')ut [[merged into ceot]] 出
-4. Fung [[fung]] 風
-5. Hoi [[hoi]] 開
-6. K(i/)n [[gin]] 見
-7. K(')ing [[king]] 傾
-8. Kwai [[gwai]] 鬼
-9. Kw(')(a/) [[kwa]] 誇
-10. Lam [[lam]] 林
-11. M(a/) [[maa]] 馬
-12. N(a/)m [[naam]] 南
-13. Ng(a/) [[ngaa]] 牙
-14. P(a/) [[baa]] 把
-15. P(')o [[po]] 婆
-16. S(a/)m [[saam]] 三
-17. Shing [[merged into sing]] 聖
-18. T(a/) [[daa]] 打
-19. T(')oi [[toi]] 台
-20. Tsing [[zing]] 精
-21. Ts(')ai [[cai]] [齊]
-22. W(a/) [[waa]] 華
-23. Ying [[jing]] 英
+1. Au 毆 [[null initial]]
+2. Chi 之 [[Best guess: _ch_ = [tɕ]^]]
+3. Ch(')ut 出 [[Best guess: _ch(')_ = [tɕʰ]^]]
+4. Fung 風 [[Best guess: _f_ = [f]^]]
+5. Hoi 開 [[Best guess: _h_ = [h]^]]
+6. K(i/)n 見 [[Best guess: _k_ = [k]^]]
+7. K(')ing 傾 [[Best guess: _k(')_ = [kʰ]^]]
+8. Kwai 鬼 [[Best guess: _kw_ = [kʷ]^]]
+9. Kw(')(a/) 誇 [[Best guess: _kw(')_ = [kʷʰ]^]]
+10. Lam 林 [[Best guess: _l_ = [l]^]]
+11. M(a/) 馬 [[Best guess: _m_ = [m]^]]
+12. N(a/)m 南 [[Best guess: _n_ = [n]^]]
+13. Ng(a/) 牙 [[Best guess: _ng_ = [ŋ]^]]
+14. P(a/) 把 [[Best guess: _p_ = [p]^]]
+15. P(')o 婆 [[Best guess: _p(')_ = [pʰ]^]]
+16. S(a/)m 三 [[Best guess: _s_ = [s]^]]
+17. Shing 聖 [[Best guess: _sh_ = [ɕ]^]]
+18. T(a/) 打 [[Best guess: _t_ = [t]^]]
+19. T(')oi 台 [[Best guess: _t(')_ = [tʰ]^]]
+20. Tsing 精 [[Best guess: _ts_ = [ts]^]]
+21. Ts(')ai [齊] [[Best guess: _ts(')_ = [tsʰ]^]]
+22. W(a/) 華 [[Best guess: _w_ = [w]^]]
+23. Ying 英 [[Best guess: _y_ = [j]^]]
 ++
 --{.williams}
 The diversities in the initials are so much fewer than those in the
