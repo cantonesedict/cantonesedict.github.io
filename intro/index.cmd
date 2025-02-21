@@ -1185,7 +1185,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Effectively, _(u:)n_ = [uːn], and _(u:)t_ = [uːt̚].)
+  (Best guess: _(u:)n_ = [yːn], and _(u:)t_ = [yːt̚].)
   --
   +++}
 
