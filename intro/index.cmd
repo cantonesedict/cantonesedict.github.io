@@ -1658,7 +1658,7 @@ in the following table:---
     , _k(u/), f(u/)n, p(u/)t_.
   //
     , 11.
-    , _(u:)_ as in French _jeune_ [[not really]], _l'une_ [[yes]];
+    , _(u:)_ as in French ~~_jeune_~~, _l'une_;
     , _s(u:)t, (u:)t_.
   //
     , 12.
