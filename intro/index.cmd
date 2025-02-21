@@ -1106,7 +1106,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Effectively, _an_ = [ɐn], and _at_ = [ɐt̚].)
+  (Best guess: _an_ = [ɐn], and _at_ = [ɐt̚]. English /ʌ/ is almost indistinguishable.)
   --
   +++}
 
@@ -1119,7 +1119,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Effectively, _(e/)ung_ = [eoŋ], and _(e/)uk_ = [eok̚].)
+  (Best guess: _(e/)ung_ = [eoŋ], and _(e/)uk_ = [eok̚].)
   --
   +++}
 
@@ -1134,7 +1134,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Effectively, _ong_ = [ɔːŋ], and _ok_ = [ɔːk̚].)
+  (Best guess: _ong_ = [ɔːŋ], and _ok_ = [ɔːk̚].)
   --
   +++}
 
@@ -1154,7 +1154,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Effectively, _(u/)_ = [uː], and _(o\)_ = [ou].)
+  (Best guess: _(u/)_ = [uː], and _(o\)_ = [ou].)
   --
   +++}
 
@@ -1169,7 +1169,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Effectively, _i(u/)_ = [iːu].
+  (Best guess: _i(u/)_ = [iːu].
   From [Eitel (1877)][eitel-iu], "a little more prominence is given to the sound _i_",
   wherefore [iːu] instead of [iuː].)
   --
