@@ -977,7 +977,7 @@ see [vowel shift chart].)
 +++}
 
 ++{.williams}
-1.
+1.{#final-order-1}
   _S(i/)n_ [[sin]], s(i/)t [[sit]],
   like _seen_, _seat_, _peat_, _mean_.
   Several of the words commencing with a vowel,
@@ -991,7 +991,7 @@ see [vowel shift chart].)
   --
   +++}
 
-2.
+2.{#final-order-2}
   _Wai_ [[wai]],
   like _buy_, _nigh_.
   Words under this final occasionally run
@@ -1005,7 +1005,7 @@ see [vowel shift chart].)
   --
   +++}
 
-3.
+3.{#final-order-3}
   _K(i/)_ [[gi, now gei]],
   like _me_, _flee_.
   A few words beginning with _k_ [[g]], p [[b]] and _f_ [[f]], are
@@ -1021,7 +1021,7 @@ see [vowel shift chart].)
   --
   +++}
 
-4.
+4.{#final-order-4}
   _Ch(u:)_ [[zyu]],
   like _sue_, or the first part of the word _choose_. Words in
   this order beginning with _h_ [[h]], _l_ [[l]], _n_ [[n]], and _ts_ [[z]],
@@ -1037,7 +1037,7 @@ see [vowel shift chart].)
   --
   +++}
 
-5.
+5.{#final-order-5}
   _Sau_ [[sau]],
   like _now_, _cow_, _how_.
   Words in this order like _au_ [[au]] 漚, 嘔,
@@ -1053,7 +1053,7 @@ see [vowel shift chart].)
   --
   +++}
 
-6.
+6.{#final-order-6}
   _Tung_ [[dung]], _tuk_ [[duk]],
   like the Irishism _wroong_ for _wrung_, and so nearly
   _toong_, _took_, that it is [doubtful] whether this final ought not to be
@@ -1070,7 +1070,7 @@ see [vowel shift chart].)
   --
   +++}
 
-7.
+7.{#final-order-7}
 [[[Page~xvii of the original]{#page-xvii}<n24> here]]
   _Ying_ [[jing]], _yik_ [[jik]],
   like _sing_, _king_, _quick_, _wing_.
@@ -1092,7 +1092,7 @@ see [vowel shift chart].)
   --
   +++}
 
-8.
+8.{#final-order-8}
   _Pan_ [[ban]], _pat_ [[bat]],
   like _fun_, _son_, _shun_, _tun_, _won_,
   never like _man_, _fan_, _hat_, _cat_.
@@ -1109,7 +1109,7 @@ see [vowel shift chart].)
   --
   +++}
 
-9.
+9.{#final-order-9}
   _Ch(e/)ung_ [[now zoeng]], _ch(e/)uk_ [[now zoek]],
   like the combined sounds in _say 'em_; there
   is no English word with this diphthong [[now not a diphthong]].
@@ -1122,7 +1122,7 @@ see [vowel shift chart].)
   --
   +++}
 
-10.
+10.{#final-order-10}
   _Kong_ [[gong]], _kok_ [[gok]],
   like _long_, _song_, _wrong_, _hawk_, _baulk_;
   never like _sock_, _lock_.
@@ -1137,7 +1137,7 @@ see [vowel shift chart].)
   --
   +++}
 
-11.
+11.{#final-order-11}
   _K(u/)_ [[gu]], _l(o\)_ [[lou]],
   as _coo_, _cuckoo_, _lo_, _hoe_, _flow_.
   The compilers of the Fan Wan [[分韻]] seem to have been unable to distinguish the characters
@@ -1157,7 +1157,7 @@ see [vowel shift chart].)
   --
   +++}
 
-12.
+12.{#final-order-12}
   _Chi(u/)_ [[ziu]],
   like _new_, _few_,
   both vowels being plainly sounded.
@@ -1175,7 +1175,7 @@ see [vowel shift chart].)
   [eitel-iu]: https://books.google.com/books?id=mh8TAAAAYAAJ&jtp=xiv
   +++}
 
-13.
+13.{#final-order-13}
   _(U:)n_ [[jyun]], (u:)t [[jyut]],
   like the _u_ in _ruin_, _June_, _jute_, _dilute_.
   The variations under this final are unimportant, and those are where the vowel is
@@ -1188,7 +1188,7 @@ see [vowel shift chart].)
   --
   +++}
 
-14.
+14.{#final-order-14}
 [[[Page~xviii of the original]{#page-xviii}<n25> here]]
   _K(a/)i_ [[gaai]],
   like _aye_, _aisle_,
@@ -1205,7 +1205,7 @@ see [vowel shift chart].)
   --
   +++}
 
-15.
+15.{#final-order-15}
   _Tang_ [[dang]], _tak_ [[dak]],
   like _tongue_, _sung_, _hung_, _muck_, _luck_,
   never like _hang_, _bang_, _jack_, _sack_.
@@ -1222,7 +1222,7 @@ see [vowel shift chart].)
   --
   +++}
 
-16.
+16.{#final-order-16}
   _Sz'_ [[si]], _tsz'_ [[zi]],
    like no words in the English language, but much
    like a hiss. The people of Canton [[廣州]] itself pronounce these two words
@@ -1239,7 +1239,7 @@ see [vowel shift chart].)
   --
   +++}
 
-17.
+17.{#final-order-17}
   _Kam_ [[gam]], _kap_ [[gap]],
   like _hum_, _some_, _come_, _sup_, _tup_,
   never like _ham_, _rap_, nor _came_, _lame_, _nape_, _rape_.
@@ -1254,7 +1254,7 @@ see [vowel shift chart].)
   --
   +++}
 
-18.
+18.{#final-order-18}
   _K(a/)u_ [[gaau]],
   like _how_ very much prolonged; the difference between
   this, and the 5th~final [[au]] is merely in the longer sound of the _(a/)_ [[aa]].
@@ -1267,7 +1267,7 @@ see [vowel shift chart].)
   --
   +++}
 
-19.
+19.{#final-order-19}
   _Tsoi_ [[zoi]],
   like _boy_, _noise_, _loiter_.
   The _oi_ in some of the words referred to [in] this final,
@@ -1282,7 +1282,7 @@ see [vowel shift chart].)
   --
   +++}
 
-20.
+20.{#final-order-20}
   _K(i/)m_ [[gim]], _k(i/)p_ [[gip]],
   like _cream_, _seem_, _team_, _sheep_, _reap_.
   The words under this final are very uniform, and there is no particular
@@ -1295,7 +1295,7 @@ see [vowel shift chart].)
   --
   +++}
 
-21.
+21.{#final-order-21}
   _Tsun_ [[now zeon]], _tsut_ [[now zeot]],
   like the _u_ in _put_, _nuisance_, the sound lying
   between the vowel sounds in _fun_ and _fool_,
@@ -1316,7 +1316,7 @@ see [vowel shift chart].)
   --
   +++}
 
-22.
+22.{#final-order-22}
   _Sui_ [[now seoi]],
   a combination of _u_ in the preceding order with _i_; there is
   no similar sound in English. Words under the 4th~final [[yu]]
@@ -1334,7 +1334,7 @@ see [vowel shift chart].)
   --
   +++}
 
-23.
+23.{#final-order-23}
   _Fo_ [[fo]],
   like _law_, _saw_, _taw_,
   not _lo_, _no_, _two_;
@@ -1349,7 +1349,7 @@ see [vowel shift chart].)
   --
   +++}
 
-24.
+24.{#final-order-24}
   _K(a/)m_ [[gaam]], _k(a/)p_ [[gaap]],
   like _calm_, _psalm_,
   not like _ham_, _jamb_, _rap_, _map_.
@@ -1363,7 +1363,7 @@ see [vowel shift chart].)
   --
   +++}
 
-25.
+25.{#final-order-25}
   _F(a/)n_ [[faan]], _f(a/)t_ [[faat]],
   like _Jahn_, _father_,
   not like _fan_, _fat_, _man_, _mat_.
@@ -1378,7 +1378,7 @@ see [vowel shift chart].)
   --
   +++}
 
-26.
+26.{#final-order-26}
   _K(a/)_ [[gaa]],
   like _ma_, _pa_,
   a syllable that can hardly be mispronounced;
@@ -1391,7 +1391,7 @@ see [vowel shift chart].)
   --
   +++}
 
-27.
+27.{#final-order-27}
   _K(u/)n_ [[gun]], _k(u/)t_ [[gut]],
   like _loon_, _coot_, _moot_, _noon_,
    presents no changes in
@@ -1404,7 +1404,7 @@ see [vowel shift chart].)
   --
   +++}
 
-28.
+28.{#final-order-28}
   _F(u/)i_ [[fui]] is a well defined diphthong,
   like _buoy_,
   broader than _sui_ [[seoi]] in the 22d~order,
@@ -1418,7 +1418,7 @@ see [vowel shift chart].)
   --
   +++}
 
-29.
+29.{#final-order-29}
   _Ch(e/)_ [[now ze]],
   like _may_, _lay_, _they_, _yea_;
   it has few aberrations,
@@ -1432,7 +1432,7 @@ see [vowel shift chart].)
   --
   +++}
 
-30.
+30.{#final-order-30}
   _Kon_ [[gon]], _kot_ [[got]],
   like _lawn_, _brawn_, _fought_, _sought_;
   there are very few characters under final, and in the mouths of many persons
@@ -1446,7 +1446,7 @@ see [vowel shift chart].)
   --
   +++}
 
-31.
+31.{#final-order-31}
 [[[Page~xx of the original]{#page-xx}<n27> here]]
   _K(o\)m_ [[now gam]], _k(o\)p_ [[now gap]],
   like _home_, _comb_, _hope_,
@@ -1462,7 +1462,7 @@ see [vowel shift chart].)
   --
   +++}
 
-32.
+32.{#final-order-32}
   _P(')(a/)ng_ [[paang]], _p(a/)k_ [[baak]],
   sounded with a broad _a_,
   and not like _bang_, _hang_, _crack_.
@@ -1478,7 +1478,7 @@ see [vowel shift chart].)
   --
   +++}
 
-33.
+33.{#final-order-33}
   _'Ng_ [[ng]], _'M_ [[m]],
   are sounds heard in all languages, in rapid conversation,
   but such as are seldom written; _hng_ and _hm_ is perhaps a
