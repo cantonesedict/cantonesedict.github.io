@@ -1088,7 +1088,8 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Effectively, _ing_ = [ɪŋ], _ik_ = [ɪk̚], _eng_ = [ɛŋ], and _ek_ = [ɛk̚].)
+  (Best guess: _ing_ = [eŋ], _ik_ = [ek̚], _eng_ = [ɛŋ], and _ek_ = [ɛk̚].
+  For the first two of these, note that English /ɪ/ is very similar to [e].)
   --
   +++}
 
