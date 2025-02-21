@@ -1106,7 +1106,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _an_ = [ɐn], and _at_ = [ɐt̚]. English /ʌ/ is almost indistinguishable.)
+  (Best guess: _an_ = [ɐn], and _at_ = [ɐt̚]. English /ʌ/ is almost indistinguishable from [ɐ].)
   --
   +++}
 
