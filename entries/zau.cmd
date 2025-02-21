@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2025-02-19
+* %date-modified --> 2025-02-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -771,7 +771,7 @@ W
   ====
   - [[Page~560 (1)鄹; here normalised to 郰]]
     ==
-    - The district in L(u/) [[魯]] where Confucius was born [[Kangxi 郰: 魯下邑孔子之鄕]],
+    - The district in L(u/) [[魯]] where Confucius was born [[Kangxi 郰: 魯下邑孔子之鄕, 又通作鄹, 又通作陬]],
       now in Yenchau f(u/) [[兗州府]] in Sh(a/)ntung [[山東]];
     - it is not far from the preceding [[鄒]].
     ==
