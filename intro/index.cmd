@@ -1202,7 +1202,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Effectively, _(a/)i_ = [aːi].)
+  (Best guess: _(a/)i_ = [aːi].)
   --
   +++}
 
@@ -1219,7 +1219,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Effectively, _ang_ = [ɐŋ], and _ak_ = [ɐk̚].)
+  (Best guess: _ang_ = [ɐŋ], and _ak_ = [ɐk̚]. English /ʌ/ is almost indistinguishable from [ɐ].)
   --
   +++}
 
@@ -1234,7 +1234,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Effectively, _z'_ = [ɿː].
+  (Best guess: _z'_ = [ɿː].
   Note that the symbol ɿ (now considered obsolete) was historically used
   by Sinologists for the so-called apical rime.)
   --
@@ -1251,7 +1251,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Effectively, _am_ = [ɐm], and _ap_ = [ɐp̚].)
+  (Best guess: _am_ = [ɐm], and _ap_ = [ɐp̚]. English /ʌ/ is almost indistinguishable from [ɐ].)
   --
   +++}
 
@@ -1264,7 +1264,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Effectively, _(a/)u_ = [aːu].)
+  (Best guess: _(a/)u_ = [aːu].)
   --
   +++}
 
