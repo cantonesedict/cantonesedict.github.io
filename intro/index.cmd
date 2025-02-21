@@ -978,10 +978,10 @@ see [vowel shift chart].)
 
 ++{.williams}
 1.{#final-order-1}
-  _S(i/)n_ [[sin]], s(i/)t [[sit]],
+  _S(i/)n_, s(i/)t,
   like _seen_, _seat_, _peat_, _mean_.
   Several of the words commencing with a vowel,
-  as _(i/)n_ [[jin]] 言, _(i/)n_ [[jin]] 現, _(i/)t_ [[jit]] 熱, are heard with
+  as _(i/)n_ 言, _(i/)n_ 現, _(i/)t_ 熱, are heard with
   a nasal or aspirate, as _ng(i/)n_, _h(i/)n_, _ng(i/)t_.
   _(Seen, leet.)_
 
@@ -992,11 +992,11 @@ see [vowel shift chart].)
   +++}
 
 2.{#final-order-2}
-  _Wai_ [[wai]],
+  _Wai_,
   like _buy_, _nigh_.
   Words under this final occasionally run
-  into the longer sound of _(a/)i_ [[aai]] in the 14th~order, especially in those
-  like _kwai_ [[gwai]] and _shai_ [[shai]].
+  into the longer sound of _(a/)i_ in the [14th~order](#final-order-14), especially in those
+  like _kwai_ and _shai_.
   _(Lei, wī, fy.)_
 
   {+++
@@ -1006,13 +1006,13 @@ see [vowel shift chart].)
   +++}
 
 3.{#final-order-3}
-  _K(i/)_ [[gi, now gei]],
+  _K(i/)_,
   like _me_, _flee_.
-  A few words beginning with _k_ [[g]], p [[b]] and _f_ [[f]], are
-  frequently heard like the [29th]~final,
+  A few words beginning with _k_, _p_ and _f_, are
+  frequently heard like the [\[29th\]~final](#final-order-29),
   as _k(i/)_ 騎, _p(i/)_ 俾, _f(i/)_ 非, _k(i/)_ 己,
   pronounced _k(e/)_, _p(e/)_, _f(e/)_, or _k(e/)_; but this is the exception. Others
-  having no initial, as (i/) [[ji]] 二, (i/) [[ji]] 耳 are often heard _ng(i/)_.
+  having no initial, as (i/) 二, (i/) 耳 are often heard _ng(i/)_.
   _(Tee, she, ki.)_
 
   {+++
@@ -1022,12 +1022,12 @@ see [vowel shift chart].)
   +++}
 
 4.{#final-order-4}
-  _Ch(u:)_ [[zyu]],
+  _Ch(u:)_,
   like _sue_, or the first part of the word _choose_. Words in
-  this order beginning with _h_ [[h]], _l_ [[l]], _n_ [[n]], and _ts_ [[z]],
+  this order beginning with _h_, _l_, _n_, and _ts_,
   are often heard sliding into
-  _hui_ [[heoi]], _lui_ [[leoi]], _nui_ [[neoi]], _tsui_ [[zeoi]],
-  like the 22d~order [[eoi]], as 去, 侶, 女, 聚, 序;
+  _hui_, _lui_, _nui_, _tsui_,
+  like the [22d~order](#final-order-22), as 去, 侶, 女, 聚, 序;
   those under the other initials are less frequently mispronounced.
   _(Kuy, sue, n(u/), loÿ, u.)_
 
@@ -1038,12 +1038,12 @@ see [vowel shift chart].)
   +++}
 
 5.{#final-order-5}
-  _Sau_ [[sau]],
+  _Sau_,
   like _now_, _cow_, _how_.
-  Words in this order like _au_ [[au]] 漚, 嘔,
+  Words in this order like _au_ 漚, 嘔,
   having no initial, often seem to a beginner to lengthen the vowels
-  into _(a/)u_ [[aau]], like the 18th~order, as also do those like
-  _chau_ [[zau]] 肘 _hau_ [[hau]] 后 and _p(')au_ [[pau]], 剖
+  into _(a/)u_, like the [18th~order](#final-order-18), as also do those like
+  _chau_ 肘 _hau_ 后 and _p(')au_, 剖
   but a little practice will discriminate them.
   _(Tsow, shaw, hāw.)_
 
@@ -1054,7 +1054,7 @@ see [vowel shift chart].)
   +++}
 
 6.{#final-order-6}
-  _Tung_ [[dung]], _tuk_ [[duk]],
+  _Tung_, _tuk_,
   like the Irishism _wroong_ for _wrung_, and so nearly
   _toong_, _took_, that it is [doubtful] whether this final ought not to be
   written _t(u/)ng_, _t(u/)k_; it must never be sounded like the English words
@@ -1072,17 +1072,17 @@ see [vowel shift chart].)
 
 7.{#final-order-7}
 [[[Page~xvii of the original]{#page-xvii}<n24> here]]
-  _Ying_ [[jing]], _yik_ [[jik]],
+  _Ying_, _yik_,
   like _sing_, _king_, _quick_, _wing_.
-  So many words under this order change the final into _eng_ [[eng]] and _ek_ [[ek]],
+  So many words under this order change the final into _eng_ and _ek_,
   that a separate list has been made of them in the general Table of Sounds,
   but the proportion is small;
   all the common words are noticed in the body of the Dictionary.
   At Macao [[澳門]] and thereabouts, a large proportion change
-  the final into _ang_ [[ang]] and _ak_ [[ak]] of the 15th~order,
+  the final into _ang_ and _ak_ of the [15th~order](#final-order-15),
   as 兄, 京, 明, 擰, 兵,
-  into _hang_ [[hang]], _kang_ [[gang]], _mang_ [[mang]],
-  _nang_ [[nang]], _pang_ [[bang]], &c., by which the people from
+  into _hang_, _kang_, _mang_,
+  _nang_, _pang_, &c., by which the people from
   Hi(a/)ngsh(a/)n [[香山]] district are recognized at Canton [[廣州]].
   _(Leng, paëng, te-ang, saung.)_
 
@@ -1093,12 +1093,12 @@ see [vowel shift chart].)
   +++}
 
 8.{#final-order-8}
-  _Pan_ [[ban]], _pat_ [[bat]],
+  _Pan_, _pat_,
   like _fun_, _son_, _shun_, _tun_, _won_,
   never like _man_, _fan_, _hat_, _cat_.
   Variants in the _yap shing_ [[jap sing 入聲]],
-  passing into the long sound _(a/)t_ [[aat]]
-  of the 25th~order, are occasionally heard, but a more frequent change
+  passing into the long sound _(a/)t_
+  of the [25th~order](#final-order-25), are occasionally heard, but a more frequent change
   is into _p(i/)n_, _p(i/)t_, or _pen_, _pet_, which is peculiar to the people of the
   districts of Sinhwui [[新會]] and K(a/)uy(a/)u [[高要]] southwest of Canton [[廣州]].
   _(Pun, kăn, fut, yet, chăt.)_
@@ -1110,9 +1110,9 @@ see [vowel shift chart].)
   +++}
 
 9.{#final-order-9}
-  _Ch(e/)ung_ [[now zoeng]], _ch(e/)uk_ [[now zoek]],
+  _Ch(e/)ung_, _ch(e/)uk_,
   like the combined sounds in _say 'em_; there
-  is no English word with this diphthong [[now not a diphthong]].
+  is no English word with this diphthong.
   The variations in this final are rare.
   _(Chaong, cheong, lay-ung, yok, naung, tsay-uk.)_
 
@@ -1123,7 +1123,7 @@ see [vowel shift chart].)
   +++}
 
 10.{#final-order-10}
-  _Kong_ [[gong]], _kok_ [[gok]],
+  _Kong_, _kok_,
   like _long_, _song_, _wrong_, _hawk_, _baulk_;
   never like _sock_, _lock_.
   There is no difficulty in recognizing all words under
@@ -1138,13 +1138,13 @@ see [vowel shift chart].)
   +++}
 
 11.{#final-order-11}
-  _K(u/)_ [[gu]], _l(o\)_ [[lou]],
+  _K(u/)_, _l(o\)_,
   as _coo_, _cuckoo_, _lo_, _hoe_, _flow_.
   The compilers of the Fan Wan [[分韻]] seem to have been unable to distinguish the characters
-  under this final into the two terminations of _(u/)_ [[u]] and _(o\)_ [[ou]],
+  under this final into the two terminations of _(u/)_ and _(o\)_,
   and have combined them apparently because in the court dialect most of
-  them ended in _(u/)_. Those beginning with _l_ [[l]], _m_ [[m]],
-  _sh_ [[merged into s]], and _s_ [[s]] slide
+  them ended in _(u/)_. Those beginning with _l_, _m_,
+  _sh_, and _s_ slide
   from _l(u/)_, _m(u/)_, _s(u/)_, _sh(u/)_,
   into _l(o\)_, _m(o\)_, _sh(o\)_, _s(o\)_,
   but under other initials there is
@@ -1158,12 +1158,12 @@ see [vowel shift chart].)
   +++}
 
 12.{#final-order-12}
-  _Chi(u/)_ [[ziu]],
+  _Chi(u/)_,
   like _new_, _few_,
   both vowels being plainly sounded.
   This final is now and then heard like _(e/)u_,
   as 要 _(e/)u_ for _i(u/)_; 溺 _n(e/)u_ for _ni(u/)_;
-  and also sliding into the 4th [[yu]] as 曉 _h(u:)_ [[hyu]] for _hi(u/)_ [[hiu]].
+  and also sliding into the [4th](#final-order-4) as 曉 _h(u:)_ for _hi(u/)_.
   _(Kew, chiu, tee-ue, t(i/)(u/).)_
 
   {+++
@@ -1176,10 +1176,10 @@ see [vowel shift chart].)
   +++}
 
 13.{#final-order-13}
-  _(U:)n_ [[jyun]], (u:)t [[jyut]],
+  _(U:)n_, (u:)t,
   like the _u_ in _ruin_, _June_, _jute_, _dilute_.
   The variations under this final are unimportant, and those are where the vowel is
-  changed in a few words to _è_, as 煖 _nèn_ for _n(u:)n_ [[nyun]].
+  changed in a few words to _è_, as 煖 _nèn_ for _n(u:)n_.
   _(Heuet, sh(u/)n, (u/)t, une, sute.)_
 
   {+++
@@ -1190,11 +1190,11 @@ see [vowel shift chart].)
 
 14.{#final-order-14}
 [[[Page~xviii of the original]{#page-xviii}<n25> here]]
-  _K(a/)i_ [[gaai]],
+  _K(a/)i_,
   like _aye_, _aisle_,
   never shortened into _nigh_, _fly_, like the
-  2d~final [[ai]], though that frequently is prolonged into this. The Chinese
-  discriminate between the diphthongs _ai_ [[ai]] and _(a/)i_ [[aai]] with much accuracy,
+  [2d~final](#final-order-2), though that frequently is prolonged into this. The Chinese
+  discriminate between the diphthongs _ai_ and _(a/)i_ with much accuracy,
   and the student should pay particular attention to them at first, or
   he will constantly confound them.
   _(Pai, nie, tì, k(a/)i, kye.)_
@@ -1206,13 +1206,13 @@ see [vowel shift chart].)
   +++}
 
 15.{#final-order-15}
-  _Tang_ [[dang]], _tak_ [[dak]],
+  _Tang_, _tak_,
   like _tongue_, _sung_, _hung_, _muck_, _luck_,
   never like _hang_, _bang_, _jack_, _sack_.
   There are many words placed under this
   final, which from the constant tendency to lengthen the vowel are
-  heard like the 32d~final [[aang]],
-  as 生 _sh(a/)ng_ [[saang]] for _shang_ [[sang]], 行 _h(a/)ng_ [[haang]] for _hang_ [[hang]], 北 _p(a/)k_ [[baak]] for _pak_ [[bak]], &c.;
+  heard like the [32d~final](#final-order-32),
+  as 生 _sh(a/)ng_ for _shang_, 行 _h(a/)ng_ for _hang_, 北 _p(a/)k_ for _pak_, &c.;
   many of these variations are noticed in the body of the work.
   _(Pung, hăng, tuk, măk, hek, sh(a/)ng, y(a/)k.)_
 
@@ -1223,7 +1223,7 @@ see [vowel shift chart].)
   +++}
 
 16.{#final-order-16}
-  _Sz'_ [[si]], _tsz'_ [[zi]],
+  _Sz'_, _tsz'_,
    like no words in the English language, but much
    like a hiss. The people of Canton [[廣州]] itself pronounce these two words
    very clearly, but in the villages around and south of it, they are
@@ -1240,11 +1240,11 @@ see [vowel shift chart].)
   +++}
 
 17.{#final-order-17}
-  _Kam_ [[gam]], _kap_ [[gap]],
+  _Kam_, _kap_,
   like _hum_, _some_, _come_, _sup_, _tup_,
   never like _ham_, _rap_, nor _came_, _lame_, _nape_, _rape_.
   A few words properly referred to this final lengthen the vowel into
-  _k(a/)m_ [[gaam]], _k(a/)p_ [[gaap]], like the 24th, and others
+  _k(a/)m_, _k(a/)p_, like the [24th](#final-order-24), and others
   also are changed into short _e_, as _kem_, _nem_.
   _(Yum, shup, lăm[,] shăp.)_
 
@@ -1255,9 +1255,9 @@ see [vowel shift chart].)
   +++}
 
 18.{#final-order-18}
-  _K(a/)u_ [[gaau]],
+  _K(a/)u_,
   like _how_ very much prolonged; the difference between
-  this, and the 5th~final [[au]] is merely in the longer sound of the _(a/)_ [[aa]].
+  this, and the [5th~final](#final-order-5) is merely in the longer sound of the _(a/)_.
   There are no variations in pronunciation worth noticing in this final.
   _(Pow, kaou, chaow.)_
 
@@ -1268,10 +1268,10 @@ see [vowel shift chart].)
   +++}
 
 19.{#final-order-19}
-  _Tsoi_ [[zoi]],
+  _Tsoi_,
   like _boy_, _noise_, _loiter_.
   The _oi_ in some of the words referred to [in] this final,
-  inclines to _ui_ [[eoi]] of the 22d, as 來 內 台 _lui_, _nui_, _t[(')]ui_,
+  inclines to _ui_ of the [22d](#final-order-22), as 來 內 台 _lui_, _nui_, _t[(')]ui_,
   for _loi_, _noi_, _t[(')]oi_, but a little care will easily discriminate
   them; most of the words are uniformly sounded.
   _(Toy, suy.)_
@@ -1283,7 +1283,7 @@ see [vowel shift chart].)
   +++}
 
 20.{#final-order-20}
-  _K(i/)m_ [[gim]], _k(i/)p_ [[gip]],
+  _K(i/)m_, _k(i/)p_,
   like _cream_, _seem_, _team_, _sheep_, _reap_.
   The words under this final are very uniform, and there is no particular
   character worth noticing as a variant.
@@ -1296,11 +1296,11 @@ see [vowel shift chart].)
   +++}
 
 21.{#final-order-21}
-  _Tsun_ [[now zeon]], _tsut_ [[now zeot]],
+  _Tsun_, _tsut_,
   like the _u_ in _put_, _nuisance_, the sound lying
   between the vowel sounds in _fun_ and _fool_,
-  in the 8th [[an]] and 27th [[un]] orders;
-  the 8th, 21st and 27th finals _pan_ [[ban]], _tsun_ [[zeon]], _k(u/)n_ [[gun]],
+  in the [8th](#final-order-8) and [27th orders](#final-order-27);
+  the [8th](#final-order-8), [21st](#final-order-21) and [27th finals](#final-order-27) _pan_, _tsun_, _k(u/)n_,
   are kept very distinct by the Chinese, and must not be confounded. It is not
   easy to distinguish the _u_ in this order
   from the _u_ in _tung_, _tuk_, as
@@ -1317,13 +1317,13 @@ see [vowel shift chart].)
   +++}
 
 22.{#final-order-22}
-  _Sui_ [[now seoi]],
+  _Sui_,
   a combination of _u_ in the preceding order with _i_; there is
-  no similar sound in English. Words under the 4th~final [[yu]]
-  commencing with _s_ [[s]], _l_ [[l]] or _n_ [[n]],
+  no similar sound in English. Words under the [4th~final](#final-order-4)
+  commencing with _s_, _l_ or _n_,
   easily run into this, and some of those placed here,
-  as _tsui_ [[zeoi]], _yui_ [[jeoi]], _tui_ [[deoi]],
-  also run into the 28th~order [[ui]]. The Chinese, who are
+  as _tsui_, _yui_, _tui_,
+  also run into the [28th~order](#final-order-28). The Chinese, who are
   not fettered or guided by any alphabetic sounds, often discriminate
   these nearly homophonous words better than we do.
   _(Suy, mooy, soÿ, shoo-e.)_
@@ -1335,11 +1335,11 @@ see [vowel shift chart].)
   +++}
 
 23.{#final-order-23}
-  _Fo_ [[fo]],
+  _Fo_,
   like _law_, _saw_, _taw_,
   not _lo_, _no_, _two_;
   the _o_ as in _long_, _sawn_,
-  as in the 10th [[ong]] and 30th [[on]] orders.
+  as in the [10th](#final-order-10) and [30th orders](#final-order-30).
   This final undergoes no changes, that are worth noticing.
   _(Waw, h(o/), l(a/)w, hō.)_
 
@@ -1350,7 +1350,7 @@ see [vowel shift chart].)
   +++}
 
 24.{#final-order-24}
-  _K(a/)m_ [[gaam]], _k(a/)p_ [[gaap]],
+  _K(a/)m_, _k(a/)p_,
   like _calm_, _psalm_,
   not like _ham_, _jamb_, _rap_, _map_.
   The characters under this final are comparatively few, and the
@@ -1364,7 +1364,7 @@ see [vowel shift chart].)
   +++}
 
 25.{#final-order-25}
-  _F(a/)n_ [[faan]], _f(a/)t_ [[faat]],
+  _F(a/)n_, _f(a/)t_,
   like _Jahn_, _father_,
   not like _fan_, _fat_, _man_, _mat_.
   In the district of Shunteh [[順德]], some characters in this order take a
@@ -1379,7 +1379,7 @@ see [vowel shift chart].)
   +++}
 
 26.{#final-order-26}
-  _K(a/)_ [[gaa]],
+  _K(a/)_,
   like _ma_, _pa_,
   a syllable that can hardly be mispronounced;
   there are no variations in the characters found under it.
@@ -1392,7 +1392,7 @@ see [vowel shift chart].)
   +++}
 
 27.{#final-order-27}
-  _K(u/)n_ [[gun]], _k(u/)t_ [[gut]],
+  _K(u/)n_, _k(u/)t_,
   like _loon_, _coot_, _moot_, _noon_,
    presents no changes in
    the sounds of the few characters found under it worth noticing.
@@ -1405,9 +1405,9 @@ see [vowel shift chart].)
   +++}
 
 28.{#final-order-28}
-  _F(u/)i_ [[fui]] is a well defined diphthong,
+  _F(u/)i_ is a well defined diphthong,
   like _buoy_,
-  broader than _sui_ [[seoi]] in the 22d~order,
+  broader than _sui_ in the [22d~order](#final-order-22),
   and having only one initial in common with that;
   the consonant has much influence on the quantity of the vowel.
   _(Tsoÿ, luÿ, kooy, nui, oo-e.)_
@@ -1419,7 +1419,7 @@ see [vowel shift chart].)
   +++}
 
 29.{#final-order-29}
-  _Ch(e/)_ [[now ze]],
+  _Ch(e/)_,
   like _may_, _lay_, _they_, _yea_;
   it has few aberrations,
   and most of those are mispronunciations from the 3d~order,
@@ -1433,11 +1433,11 @@ see [vowel shift chart].)
   +++}
 
 30.{#final-order-30}
-  _Kon_ [[gon]], _kot_ [[got]],
+  _Kon_, _kot_,
   like _lawn_, _brawn_, _fought_, _sought_;
   there are very few characters under final, and in the mouths of many persons
-  some of them, as _on_ [[on]] and _ngon_ [[ngon]]
-  are heard like _ong_ [[ong]] and _ngong_ [[ngong]].
+  some of them, as _on_ and _ngon_
+  are heard like _ong_ and _ngong_.
   _(Hoan, kon, (o/)n, kōt.)_
 
   {+++
@@ -1448,7 +1448,7 @@ see [vowel shift chart].)
 
 31.{#final-order-31}
 [[[Page~xx of the original]{#page-xx}<n27> here]]
-  _K(o\)m_ [[now gam]], _k(o\)p_ [[now gap]],
+  _K(o\)m_, _k(o\)p_,
   like _home_, _comb_, _hope_,
   not like _some_, _come_, _sup_,
   or _tom_, _hop_;
@@ -1463,10 +1463,10 @@ see [vowel shift chart].)
   +++}
 
 32.{#final-order-32}
-  _P(')(a/)ng_ [[paang]], _p(a/)k_ [[baak]],
+  _P(')(a/)ng_, _p(a/)k_,
   sounded with a broad _a_,
   and not like _bang_, _hang_, _crack_.
-  Many words under the 15th~final [[ang]] are so uniformly sounded
+  Many words under the [15th~final](#final-order-15) are so uniformly sounded
   like this that they should properly have been placed under it; there
   is a constant tendency of the short vowels to lengthen into the broader
   ones.
@@ -1479,7 +1479,7 @@ see [vowel shift chart].)
   +++}
 
 33.{#final-order-33}
-  _'Ng_ [[ng]], _'M_ [[m]],
+  _'Ng_, _'M_,
   are sounds heard in all languages, in rapid conversation,
   but such as are seldom written; _hng_ and _hm_ is perhaps a
   better form of writing them than that here adopted.
