@@ -33,9 +33,9 @@ WH
   ==
 WP
   ==
-  - Chui <span class="modern">= [tɕʊi]</span>
+  - Chui <span class="modern">= [tɕʊɪ]</span>
   - Ts(u:) <span class="modern">= [tsyː]</span>
-  - Tsui <span class="modern">= [tsʊi]</span>
+  - Tsui <span class="modern">= [tsʊɪ]</span>
   - Ts(u/)i <span class="modern">= [tsuːi]</span>
   ==
 MP

@@ -1330,7 +1330,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _ui_ = [ʊi].)
+  (Best guess: _ui_ = [ʊɪ].)
   --
   +++}
 
