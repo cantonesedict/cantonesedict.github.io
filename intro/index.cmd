@@ -1331,7 +1331,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Effectively, _ui_ = [uɪ].)
+  (Best guess: _ui_ = [ʊi].)
   --
   +++}
 
