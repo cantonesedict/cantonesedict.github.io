@@ -1292,7 +1292,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Effectively, _(i/)m_ = [iːm], and _(i/)p_ = [iːp̚].)
+  (Best guess: _(i/)m_ = [iːm], and _(i/)p_ = [iːp̚].)
   --
   +++}
 
