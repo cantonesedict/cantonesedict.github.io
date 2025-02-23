@@ -2093,7 +2093,7 @@ W
   - [[Page~562 鷲(6)]]
     ==
     - A large accipitrine bird;
-    - perhaps a harpy eagle, or a whitish headed condor.
+    - perhaps a harpy eagle, or a whitish headed condor [[Kangxi: ::鷲悍多力[...]卽白鵰也::]].
     ==
   ====
 $$
