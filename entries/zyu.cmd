@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2025-01-29
+* %date-modified --> 2025-02-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -111,18 +111,15 @@ W
     Also read _(1)ch(u:)_ [[zyu1]].
     --
     ==
-    - Loquacious, chattering, as birds;
-    - _(1)ch(u:) (4)(u:)_
+    - Loquacious, chattering [[Kangxi: 讋咮多言貌]], as birds;
+    - ~~_(1)ch(u:) (4)(u:)_
         [[zyu1 jyu4 咮？]],
-        talkative.
+        talkative~~.
     ==
   ====
 C
   ==
   - Fan Wan entry: Corrected headword 㹸 to 貌.
-  - Williams' 咮？: If intended to be 咮嚅, then it is erroneous.
-    Kangxi quotes 又《集韻》汝朱切音儒與嚅同囁嚅多言也,
-    so 咮 is used for 嚅 (rather than forming a compound with it).
   ==
 S
   ==

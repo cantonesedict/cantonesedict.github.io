@@ -1401,11 +1401,11 @@ W
   ====
   - [[Page~26|n69 咮(3)]]
     ==
-    - The bill of birds;
-    - to peck with the bill, the twittering of birds.
+    - The bill of birds [[Kangxi: 鳥口也, 咮喙也]];
+    - to peck with the bill, ~~the twittering of birds~~.
     ==
     --
-    Also read _(1)ch(u:)_ [[zyu1]] [[**see $咮zyu1**]].
+    [[...]]
     --
   ====
 C
