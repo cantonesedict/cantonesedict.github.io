@@ -1609,7 +1609,7 @@ W
   ====
   - [[Page~561 縐(3)]]
     ==
-    - Crape;
+    - Crape [[Kangxi: 絺之細者]];
     - rumpled, crenulated, crinkled, crisp, frizzled;
     - to corrugate, to wrinkle;
     - [[...]];
