@@ -1957,10 +1957,10 @@ W
   ====
   - [[Page~26|n69 胄(6)]]
     ==
-    - Descendants, posterity;
+    - Descendants, posterity [[Kangxi: 後也]];
     - _chau(6) (2)tsz'_
         [[zau6 zi2 胄子]]
-        the eldest son;
+        the eldest son [[Kangxi: 長也 etc.]];
     - _[chau](6) yui(6)_
         [[zau6 jeoi6 胄裔]]
         posterity;
