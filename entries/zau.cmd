@@ -1682,10 +1682,10 @@ W
   ====
   - [[Page~26|n69 冑(6)]]
     --
-    Often confounded with the last [[$胄6]].
+    Often confounded with the last [[胄]].
     --
     ==
-    - A helmet, a morion;
+    - A helmet, a morion [[Kangxi: 兜鍪]];
     - _k(a/)p(8) chau(6)_
         [[gaap3 zau6 甲冑]]
         helmets and cuirasses.
