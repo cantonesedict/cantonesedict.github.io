@@ -1198,8 +1198,8 @@ W
   ====
   - [[Page~561 (2)酒]]
     ==
-    - Spirits;
-    - distilled liquor made from rice;
+    - Spirits [[Kangxi: 就也所以就人性之善惡]];
+    - distilled liquor made from rice [[Kangxi: 酒酉也釀之米麴酉澤久而味美也]];
     - it is applied also to beer, wine, and other liquors;
     - given to drink;
     - to redden;
