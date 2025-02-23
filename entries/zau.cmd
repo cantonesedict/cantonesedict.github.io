@@ -901,9 +901,9 @@ W
   ====
   - [[Page~560 (1)騶]]
     ==
-    - A fabulous feline beast, called _(1)tsau (4)(u:)_ [[zau1 jyu4 騶虞]],
-      emblematic of kindness to animals and gentleness;
-    - a royal groom or hostler.
+    - A fabulous ~~feline~~ beast, called _(1)tsau (4)(u:)_ [[zau1 jyu4 騶虞]],
+      emblematic of kindness to animals and gentleness [[Kangxi: 騶虞義獸至德所感則見馬之屬]];
+    - a royal groom or hostler [[Kangxi: 廐御也]].
     ==
   ====
 C
