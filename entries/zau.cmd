@@ -1926,11 +1926,11 @@ W
   ====
   - [[Page~26|n69 紂(6)]]
     ==
-    - A crupper;
+    - A crupper [[Kangxi: 馬緧也]];
     - a silk trace;
     - _Chau(6) (4)wong_
         [[zau6 wong4 紂王]],
-        the infamous king who ended the Sh(a/)ng [[商]] dynasty.
+        the infamous king who ended the Sh(a/)ng [[商]] dynasty [[Kangxi: 帝辛天下謂之紂]].
     ==
   ====
 C
