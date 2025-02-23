@@ -1486,7 +1486,7 @@ W
   ====
   - [[Page~26|n69 晝(3)]]
     ==
-    - A day, daytime, daylight;
+    - A day, daytime, daylight [[Kangxi: 日之出入與夜爲界]];
     - _chau(3) y(e/)(6) pat(7) h(i/)t(8)_
         [[zau3 je6 bat1 hit3 晝夜不歇]]
         going incessantly, never resting;
