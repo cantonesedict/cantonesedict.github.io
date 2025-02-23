@@ -1840,6 +1840,10 @@ R
   ⼭ + 5
 U
   U+5CAB
+V
+  ==
+  - jau4 (alternative per 《集韻》夷周切)
+  ==
 F
   ==
   - [[F1.55 ::[岫]::]] ::山有石穴曰[岫]::
@@ -1848,8 +1852,8 @@ W
   ====
   - [[Page~562 岫(6)]]
     ==
-    - A den, a cave among the hills;
-    - a glen, a ravine, gorge, or defile.
+    - A den, a cave among the hills [[Kangxi: 山穴也]];
+    - a glen, a ravine, gorge, or defile [[Kangxi: 山有穴爲岫]].
     ==
   ====
 C
