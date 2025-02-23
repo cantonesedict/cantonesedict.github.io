@@ -920,6 +920,12 @@ R
   ⿂ + 8
 U
   U+9BEB
+V
+  ==
+  - cau2 (per 《集韻》此苟切 for "little (man)" sense)
+  - cau4 (per 《廣韻》徂鉤切)
+  - zau6 (per 《廣韻》仕垢切)
+  ==
 F
   ==
   - [[F1.50 魚名又鯫生小人也]]
@@ -928,13 +934,18 @@ W
   ====
   - [[Page~560 (1)鯫]]
     ==
-    - Minnows, white fish which skip over the water;
-    - _met._ a simpleton;
+    - Minnows, white fish [[Kangxi: 白魚也, 一曰小魚]] which skip over the water;
+    - _met._ a simpleton [[Kangxi: 小人貌也]];
     - _(1)tsau (1)shang_
         [[zau1 sang1 鯫生]],
         a foolish fellow.
     ==
   ====
+C
+  ==
+  - The reading _(1)tsau_ (zau1) is not unattested, at least for the "small fish" sense;
+    《集韻》has the reading 將侯切, explained 小魚也.
+  ==
 $$
 
 
