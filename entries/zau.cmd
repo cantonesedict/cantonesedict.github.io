@@ -1570,10 +1570,16 @@ F
   ==
 W
   ====
+  - [[Page~561 縐(3)]]
+    ==
+    - [[...]];
+    - used for the next [[皺]];
+    - [[...]].
+    ==
   - [[Page~561 皺(3)]]
     ==
-    - The skin wrinkled from age;
-    - frowning;
+    - The skin wrinkled [[Kangxi: 面皺也]] from age;
+    - frowning [[Kangxi: 眉攢也]];
     - _tsau(3) (4)m(i/) (4)t(')au_
         [[zau3 mei4 tau4 皺眉頭]],
         to scowl;
@@ -1606,7 +1612,7 @@ W
     - Crape;
     - rumpled, crenulated, crinkled, crisp, frizzled;
     - to corrugate, to wrinkle;
-    - used for the next [[$皺3]];
+    - [[...]];
     - _tsau(3) (1)sh(a/)_
         [[zau3 saa1 縐紗]],
         crape;
@@ -1629,6 +1635,9 @@ W
         [[zau3 man4 縐紋]],
         marks of wrinkles.
     ==
+    --
+    [[Alternative form of 皺. See $皺zau3.]]
+    --
   ====
 C
   ==
