@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2025-02-21
+* %date-modified --> 2025-02-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -860,14 +860,14 @@ W
   ====
   - [[Page~560 (1)陬]]
     ==
-    - An angle or corner of a city wall, where it is retried;
-    - a bastion;
+    - An angle or corner [[Kangxi: 阪隅也]] ~~of a city wall~~, where it is retired;
+    - ~~a bastion;~~
     - a nook, a corner;
-    - to live together;
-    - abashed, ashamed;
+    - to live together [[Kangxi: 聚居也]];
+    - abashed, ashamed [[Kangxi: ::[卑]陬愧恧貌::]];
     - _[m(a/)ng](6) (1)tsau_
         [[maang6 zau1 孟陬]],
-        the first month;
+        the first month [[Kangxi: 正月爲孟陬]];
     - _(o\)m(3) (1)tsau_
         [[am3 zau1 暗陬]],
         a dark corner;
