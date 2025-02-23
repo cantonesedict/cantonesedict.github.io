@@ -1993,8 +1993,8 @@ W
   ====
   - [[Page~562 袖(6)]]
     ==
-    - The sleeve;
-    - to put into the sleeve, to receive in the hand;
+    - The sleeve [[Kangxi: 袂也, 袖由也手所由出入也]];
+    - to put into the sleeve, to receive in the hand [[Kangxi: 亦言受也以受手也]];
     - _tsau(6) (2)hau_
         [[zau6 hau2 袖口]],
         a cuff;
