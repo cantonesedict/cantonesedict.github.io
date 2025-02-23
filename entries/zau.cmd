@@ -1435,8 +1435,8 @@ W
   - [[Page~561 奏(3)]]
     ==
     - To report to the throne, to memorialize the emperor,
-      to tell the sovereign, to cause him to hear or know;
-    - songs or tunes;
+      to tell the sovereign, to cause him to hear or know [[Kangxi: 人臣言事章疏曰奏]];
+    - songs or tunes [[Kangxi: 樂一更端曰奏]];
     - to play music;
     - _tsau(3) (2)p(u/)n_
         [[zau3 bun2 奏本]],
