@@ -1714,17 +1714,13 @@ W
   ====
   - [[Page~26|n69 宙(6)]]
     ==
-    - To contain, as the earth does;
-    - including all ages, from ancient times till now.
+    - ~~To contain, as the earth does;~~
+    - including all ages, from ancient times till now [[Kangxi: 往古來今謂之宙]].
     ==
   ====
 C
   ==
   - Fan Wan entry: Corrected 行 to 往.
-  - Williams' "as the earth does": Not quite.
-    Kangxi quotes 《說文》舟車所極覆也下覆爲宇上奠爲宙,
-    so it is 宇 that is as the earth below,
-    while 宙 is instead as the firmament above.
   ==
 $$
 
