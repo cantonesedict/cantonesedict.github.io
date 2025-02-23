@@ -1058,10 +1058,10 @@ W
   ====
   - [[Page~561 (2)走]]
     ==
-    - To go;
+    - To go [[Kangxi: 走猶去也]];
     - to sail;
     - to travel;
-    - to run, to hasten, to quicken one's steps;
+    - to run, to hasten, to quicken one's steps [[Kangxi: 趨也]];
     - to flee, to run off, to clear out;
     - the 156th~radical of characters relating to going;
     - _(2)tsau kwo(3) (2)k(i/) (2)sh(a/)ng_
