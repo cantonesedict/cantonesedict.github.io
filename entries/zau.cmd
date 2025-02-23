@@ -1739,15 +1739,15 @@ W
   ====
   - [[Page~561 就(6)]]
     ==
-    - The place to which things tend or culminate at;
+    - The place to which things tend or culminate at [[Kangxi: 就高也从京从尤, 尤異也尤高人所就之處]];
     - to go towards, to approach, to draw near;
-    - to accompany, accommodated to, to follow;
-    - to complete, to make a circuit, to meet;
+    - to accompany, accommodated to, to follow [[Kangxi: 從也]];
+    - to complete [[Kangxi: 成也]], to make a circuit [[Kangxi: 帀也]], to meet [[Kangxi: 迎也]];
     - completed, finished;
     - to come near in point of time;
     - an adverb, then, immediately, just, just now, presently, forthwith;
     - a conjunction, then, if, as if;
-    - able to do, willing;
+    - able to do [[Kangxi: 能也]], ~~willing~~;
     - _tsau(6) ching(3) (4)loi_
         [[zau6 zing3 loi3 就正來]],
         he has just come;
