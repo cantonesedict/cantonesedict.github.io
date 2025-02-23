@@ -382,10 +382,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Alternative form of 揪. **See $揪zau1 for the canonical entry.**
-  ==
+P
+  ++
+  1. Alternative form of 揪. **See $揪zau1 for the canonical entry.**
+  ++
 S
   ==
   - $揫cau1
