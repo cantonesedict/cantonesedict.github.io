@@ -1359,10 +1359,10 @@ W
   ====
   - [[Page~26|n69 咒(3)呪(3)]]
     ==
-    - To imprecate, to rail at, to curse;
+    - To imprecate, to rail at, to curse [[Kangxi 呪: 呪詛也]];
     - to pray or recite spells;
     - an incantation, an imprecation, a charm, a spell;
-    - a prayer;
+    - ~~a prayer;~~
     - _n(i/)m(6) chau(3)_
         [[nim6 zau3 念咒]]
         ~~to recite prayers~~;
