@@ -339,6 +339,9 @@ R
   ⽼ + 4
 U
   U+8005
+H
+  May appear dotless (assumed here) or dotted,
+  depending on the font.
 F
   ==
   - [[F2.84 者]] 語助詞指人指物之稱
@@ -347,13 +350,13 @@ W
   ====
   - [[Page~30|n73 (2)者]]
     ==
-    - A relative or demonstrative pronoun;
-    - it, this, that, he, who, what;
+    - A ~~relative or~~ demonstrative pronoun [[Kangxi: ::此也[...]今俗多用這字::]];
+    - ~~it, this~~, that, he, who, what;
     - following verbs, it forms a noun, as
       - _(4)hang (2)ch(e/)_
           [[hang4 ze2 行者]],
           a walker, he who is walking;
-    - after nouns, indicates a class, as
+    - ~~after nouns~~, indicates a class, as
     - _(4)(u:) (2)ch(e/)_
         [[jyu4 ze2 愚者]],
         the foolish;
@@ -394,6 +397,7 @@ W
   ====
 C
   ==
+  - Williams' "after nouns": This should say "after adjectives".
   - Williams' 死者: Corrected _sz'(3)_ (si3) to _(2)sz'_ (si2).
   - Williams' 中也者天下之大本也: Changed _(5)h(a/)_ (haa5) to modern _h(a/)(6)_ (haa6).
   ==
