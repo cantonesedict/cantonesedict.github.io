@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ze
-* %date-modified --> 2025-01-21
+* %date-modified --> 2025-02-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -113,10 +113,10 @@ W
   ====
   - [[Page~563 (1)嗟]]
     ==
-    - To sigh, to lament:
-    - painful regrets;
-    - an interjection of admiration;
-    - ah! alas!
+    - To sigh, to lament [[Kangxi: 嗟歎也]];
+    - painful regrets [[Kangxi: 一曰痛惜也]];
+    - an interjection of admiration [[Kangxi: 咨也]];
+    - ah! alas! [[Kangxi: 嗟佐也言不足以盡意故發此聲以自佐也]]
     - _(1)ts(e/) t(')(a/)n(3)_
         [[ze1 taan3 嗟嘆]]
         to sigh;
@@ -129,7 +129,8 @@ C
   ==
   - Fan Wan entry: Corrected ⿰亻肯 to 惜.
   - Williams' 嗟來之食: Not to beg for food, but food given in contempt.
-    Per 《禮檀弓》, 嗟來食 "alas come eat" was the utterance of the wealthy man 黔敖
+    Per 《禮檀弓》, the phrase 嗟來食 "alas come eat"
+    was the utterance of the wealthy man 黔敖
     as he handed out food and drink to the famished.
   ==
 $$
