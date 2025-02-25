@@ -657,6 +657,10 @@ R
   ⽊ + 5
 U
   U+67D8
+A
+  ==
+  -{.modern} $樜3
+  ==
 F
   ==
   - [[F2.84 柘]] 桑柘木名
@@ -690,7 +694,10 @@ W
   ====
   - [[Page~31|n74 蔗(3)樜(3)]]
     --
-    [[Alternative form of 蔗. **See $蔗ze3 for the canonical entry.**]]
+    [[Alternative form of 柘. **See $柘ze3 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 蔗. **See $蔗ze3 for the canonical entry.**]]
     --
   ====
 $$
