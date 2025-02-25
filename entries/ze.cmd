@@ -895,13 +895,13 @@ W
   ====
   - [[Page~564 謝(6)]]
     ==
-    - To decline, to withdraw from, to refuse, to go away;
+    - To decline, to withdraw from, to refuse [[Kangxi: 辭去也]], to go away [[Kangxi: 去也]];
     - to resign, to throw up;
-    - to stop intercourse with;
-    - declining, fading, as flowers;
-    - to express, to inform;
-    - to thank, to express gratitude;
-    - to acknowledge, to confess;
+    - to stop intercourse with [[Kangxi: 絕也]];
+    - declining, fading [[Kangxi: 退也衰也彫落也]], as flowers;
+    - to express, to inform [[Kangxi: 吿也]];
+    - to thank, to express gratitude [[Kangxi: 拜賜曰謝]];
+    - to acknowledge, to confess [[Kangxi: 自以爲過曰謝]];
     - to excuse one's self;
     - _(1)to ts(e/)(6)_
         [[do1 ze6 多謝]]
