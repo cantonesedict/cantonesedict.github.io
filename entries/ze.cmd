@@ -146,10 +146,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Reading variation (vernacular). **See $姐ze2 for the canonical entry.**
-  ==
+P
+  ++
+  1. Reading variation (vernacular). **See $姐ze2 for the canonical entry.**
+  ++
 S
   ==
   - $姐ze2
@@ -279,12 +279,12 @@ W
   ====
   - [[Page~563 (2)姐]]
     ==
-    - An elder sister;
+    - An elder sister [[Kangxi: 今俗弟呼女兄曰姐]];
     - a miss;
-    - formerly applied to one's mother;
-    - proud, saucy;
+    - formerly applied to one's mother [[Kangxi: 蜀人呼母曰姐]];
+    - proud, saucy [[Kangxi: 一曰慢也]];
     - _(2)ts(e/) m(u/)i(6)_
-        [[ze2 mui6 姐妹]]
+        [[ze2 mui6-2 姐妹]]
         sisters;
     - _t(a/)i(6) (2)ts(e/)_
         [[daai6 ze2-1 大姐]],
