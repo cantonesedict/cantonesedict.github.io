@@ -870,7 +870,7 @@ W
   ====
   - [[Page~564 灺(6)]]
     ==
-    - The snuff of a candle;
+    - The snuff of a candle [[Kangxi: 燭㶳]];
     - the expiring wick of a lamp.
     ==
   ====
