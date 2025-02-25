@@ -591,8 +591,7 @@ W
   ====
   - [[Page~31|n74 啫(3)]]
     --
-    A colloquial particle
-    [[here normalised to 嗻; **see $嗻ze3 for the canonical entry**]].
+    [[Alternative form of 嗻. **See $嗻ze3 for the canonical entry.**]]
     --
   ====
 S
