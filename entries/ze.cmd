@@ -723,7 +723,7 @@ W
   ====
   - [[Page~31|n74 蔗(3)樜(3)]]
     ==
-    - The sugar cane;
+    - The sugar cane [[Kangxi 蔗: 甘蔗也]];
     - _(i/)t(9) ch(e/)(3)_
         [[jit6 ze3 熱蔗]]
         boiled sugar-cane;
