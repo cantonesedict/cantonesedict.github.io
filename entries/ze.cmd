@@ -520,14 +520,14 @@ W
   ====
   - [[Page~564 借(3)]]
     ==
-    - To assist;
-    - to lend, to borrow;
+    - To assist [[Kangxi: 助也]];
+    - to lend, to borrow [[Kangxi: 假也貸也]];
     - to ask for, to beg of;
     - to make a pretext of;
     - to pretend, to assume, to suppose;
-    - if, for example, supposing, assuming;
+    - if, for example, supposing, assuming [[Kangxi: 設辭]];
     - to use for illustration;
-    - to praise;
+    - to praise [[Kangxi: 推獎也]];
     - _ts(e/)(3) (4)loi_
         [[ze3 loi4 借來]],
         to borrow;
