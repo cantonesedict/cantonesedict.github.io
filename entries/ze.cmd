@@ -665,9 +665,12 @@ W
   ====
   - [[Page~31|n74 柘(3)]]
     ==
-    - Sometimes used for the above [[$蔗3]];
-    - a tree whose leaves are fed to silk worms.
+    - [[...]];
+    - a tree whose leaves are fed to silk worms [[Kangxi: 桑屬, 柘葉飼蠶爲絲]].
     ==
+    --
+    [[Otherwise, an alternative form of 蔗. **See $蔗ze3 for the canonical entry.**]]
+    --
   ====
 $$
 
@@ -701,6 +704,7 @@ U
   U+8517
 A
   ==
+  - $柘3
   - $樜3
   ==
 F
@@ -738,6 +742,11 @@ W
     - _t(o\)[(3)] t(a/)m(6) ch(e/)(3)_
         [[dou3 daam6 ze3 倒啖蔗]]
         he eats his cane backwards, he has the best still coming.
+    ==
+  - [[Page~31|n74 柘(3)]]
+    ==
+    - Sometimes used for the above [[蔗]] [[Kangxi 柘: 諸柘一曰甘蔗]];
+    - [[...]].
     ==
   ====
 C
