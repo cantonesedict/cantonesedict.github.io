@@ -838,16 +838,21 @@ W
   ====
   - [[Page~564 榭(6)]]
     ==
-    - A terrace having trees around it, an arbor;
-    - a place for storing musical instruments;
+    - A terrace [[Kangxi: 臺有屋也]] ~~having trees around it, an arbor~~;
+    - a place for storing musical instruments [[Kangxi: 榭者所以藏樂器]];
     - a high lookout, a keep, a turret;
-    - a military school;
+    - a military school [[Kangxi: 講武之屋曰榭]];
     - a fencing-room;
     - _(u:)t(9) ts(e/)(6)_
         [[jyut6 ze6 月榭]]
-        an open arbor.
+        ~~an open arbor~~.
     ==
   ====
+C
+  ==
+  - Williams' "having trees", "an arbor": This is a misreading of Kangxi 有木曰榭.
+    Here, 木 means "timber" in the sense of construction, rather than "tree".
+  ==
 $$
 
 ### 灺6 | _Ts(e/)(6)_ [[ze6]]
