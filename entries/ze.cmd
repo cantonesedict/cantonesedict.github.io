@@ -197,9 +197,9 @@ W
   ====
   - [[Page~30|n73 (1)遮]]
     ==
-    - To cover, to screen, to vail, to conceal;
+    - To cover, to screen, to vail, to conceal [[Kangxi: 蔽也]];
     - to shade;
-    - to intercept;
+    - to intercept [[Kangxi: 斷也, 攔也]];
     - a parasol, a shade;
     - _(1)ch(e/) (2)(i/)m_
         [[ze1 jim2 遮掩]],
