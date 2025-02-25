@@ -171,8 +171,8 @@ W
   ====
   - [[Page~563 (1)罝]]
     ==
-    - A net with which hares are caught;
-    - a net for beasts;
+    - A net with which hares are caught [[Kangxi: 兔罔也]];
+    - a net for beasts [[Kangxi: 獸罟曰罝]];
     - to stop the way, as a net does.
     ==
   ====
