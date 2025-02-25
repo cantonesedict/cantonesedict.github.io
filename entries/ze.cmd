@@ -421,16 +421,20 @@ W
   ====
   - [[Page~31|n74 (2)赭]]
     ==
-    - Ochre color;
-    - a carnation or reddish brown;
+    - Ochre color [[Kangxi: 赤土也]];
+    - a carnation or reddish brown [[Kangxi: 赤也]];
     - _(2)ch(e/) shek(9)_
         [[ze2 sek6 赭石]]
         ochre;
     - _(2)ch(e/) (1)(i/)_
         [[ze2 ji1 赭衣]],
-        reddish garments worn by felons.
+        reddish garments worn by felons [[Kangxi: 赭衣罪人服]].
     ==
   ====
+C
+  ==
+  - Williams' "carnation": In the (now) archaic sense of reddish skin colour.
+  ==
 $$
 
 ###+ 這2 | _(2)Ch(e/)_ (ze2)
