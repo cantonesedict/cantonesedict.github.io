@@ -801,7 +801,7 @@ W
   ====
   - [[Page~31|n74 鷓(3)]]
     ==
-    - The partridge;
+    - The partridge [[Kangxi: 鳥名鷓鴣越雉也]];
     - it also includes francolins and grouse;
     - _ch(e/)(3) (1)k(u/)_
         [[ze3 gu1 鷓鴣]],
