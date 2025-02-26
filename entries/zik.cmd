@@ -861,12 +861,6 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
---{.williams}
-[[Page~569, after 踖 _tsik(7)_ (zik1)]]
-  <br>
-(This [[脊]] and the next [[席, here corrected to 蓆]] are often read _tsek_.)
---
-
 ### 瘠3 | _Tsik(8)_ [[zik3]]
 
 $$.
