@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaat
-* %date-modified --> 2025-02-09
+* %date-modified --> 2025-02-26
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -262,7 +262,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~560 曱(9)]]
+  - [[Page~560 曱(9) _Ts(')(a/)t(9)_ (caat6); here corrected to _Ts(a/)t(9)_ (zaat6)]]
     --
     [[Alternative form of 甴 where 曱甴 is reversed. **See $甴zaat6 for the canonical entry.**]]
     --
@@ -297,7 +297,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~560 曱(9); here normalised to 甴]]
+  - [[Page~560 曱(9) _Ts(')(a/)t(9)_ (caat6); here corrected to _Ts(a/)t(9)_ (zaat6) and normalised to 甴]]
     --
     A colloquial word.
     --
@@ -310,6 +310,8 @@ W
 C
   ==
   - Williams' 曱甴: Changed _(1)K(a/)_ (gaa1) to _K(a/)t(9)_ (gaat6).
+    The second character is correctly _ts(a/)t(9)_ (zaat6)
+    despite the entry being erroneously placed under _ts(')(a/)t(9)_ (caat6).
   ==
 E
   ====
