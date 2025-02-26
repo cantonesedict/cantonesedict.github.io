@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cat
-* %date-modified --> 2025-01-02
+* %date-modified --> 2025-02-26
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -37,7 +37,7 @@ MP
 $$
 
 --{.williams}
-(These are often pronounced like the next [[_ts(')(a/)t_ ($caat)]].)
+(These are often pronounced like the next [[_ts(')(a/)t_ (caat)]].)
 --
 
 
