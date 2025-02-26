@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2025-02-18
+* %date-modified --> 2025-02-26
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1194,12 +1194,6 @@ $$
 </nav>
 <## /tone-4-characters ##>
 
---{.williams}
-[[Page~563, before the three entries for _(4)ts(')au_ (cau4)]]
-  <br>
-(The three next [[$囚4, $酋4, $遒4]] are often read _ch(')au_.)
---
-
 ### 仇4 | _(4)Ch(')au_ [[cau4]]
 
 $$.
@@ -1288,6 +1282,10 @@ F
   ==
 W
   ====
+  - [[Page~563 before (4)囚]]
+    --
+    (The three next [[囚, 酋, 遒]] are often read _ch(')au_.)
+    --
   - [[Page~563 (4)囚]]
     ==
     - To imprison, to confine, to cage [[Kangxi: 繫也, 拘也]];
@@ -1826,6 +1824,10 @@ F
   ==
 W
   ====
+  - [[Page~563 before (4)囚]]
+    --
+    (The three next [[囚, 酋, 遒]] are often read _ch(')au_.)
+    --
   - [[Page~563 (4)遒]]
     ==
     - To urge, to constrain, to press upon [[Kangxi: 迫也]];
@@ -1860,7 +1862,7 @@ W
   ====
 S
   ==
-  - $酋jau4 (TODO)
+  - $酋jau4 (TODO) <## including 酋 _(4)ch(')au_ remark ##>
   ==
 $$
 
