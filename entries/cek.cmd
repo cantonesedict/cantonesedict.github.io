@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cek
-* %date-modified --> 2025-01-20
+* %date-modified --> 2025-02-26
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -54,24 +54,6 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
---{.williams}
-[[Page~15*, before the lone entry for _ch(')ik(9)_ (cik6)]]
-  <br>
-(The next character [[尺]] is usually pronounced _ch(')ek_.)
-  <br>
-[[Here, Williams has been misled by Fan Wan's placement
-of 尺 (_ch(')ik_) in its own series
-*after* 劇屐 (_k(')ik(9)_) and 溺 (_nik(9)_), which are 陽入; see F1.78.
-Based on this ordering, Williams has inferred that
-the character 尺 is read 陽入 _ch(')ik(9)_ (cik6).
-However, since Fan Wan has a separate series
-for 勅勑敕斥叱螫{𪅙=⿰敕鳥}赤 (_ch(')ik(7)_),
-it appears that its authors have attempted to distinguish
-the vernacular rime _ek_ from the literary rime _ik_,
-notwithstanding all series appear under 第七英影應益.
-I have corrected Williams by placing 尺 under cek3 here.]]
---
-
 ### 尺3 | _Ch(')ek[(8)]_ [[cek3]]
 
 $$
@@ -90,7 +72,11 @@ F
   ==
 W
   ====
-  - [[Page~15* 尺(8) _Ch(')ek(9)_ (cek6); here corrected to _Ch(')ek(8)_ (cek3)]]
+  - [[Page~15* before 尺(9)]]
+    --
+    (The next character [[尺]] is usually pronounced _ch(')ek_ [[cek]].)
+    --
+  - [[Page~15* 尺(9) _Ch(')ik(9)_ (cik6); _Ch(')ek(9)_ (cek6) exemplified; here corrected to _Ch(')ek(8)_ (cek3)]]
     ==
     - A cubit, or 10~_ts(')(u:)n(3)_ [[Kangxi: 十寸也]];
     - the Chinese foot;
@@ -134,9 +120,17 @@ W
   ====
 C
   ==
-  - Williams has been misled by Fan Wan
-    into placing this under _Ch(')ik(9)_ (cik6) / _Ch(')ek(9)_ (cek6).
-    See remarks under $cek3.
+  - Williams has been misled by Fan Wan's placement
+    of 尺 (_ch(')ik_) in its own series
+    *after* 劇屐 (_k(')ik(9)_) and 溺 (_nik(9)_), which are 陽入 (see F1.78).
+    Based on this ordering, Williams has inferred that
+    the character 尺 is read 陽入 _ch(')ik(9)_ (cik6).
+    However, since Fan Wan has a separate series
+    for 勅勑敕斥叱螫{𪅙=⿰敕鳥}赤 (_ch(')ik(7)_),
+    it appears that its authors have attempted to distinguish
+    the vernacular rime _-ek_ from the literary rime _-ik_,
+    notwithstanding all series appear under 第七英影應益.
+    I have corrected Williams by placing 尺 under _ch(')ek(8)_ (cek3) here.
   - Williams' 尺蠖: Changed _wok(8)_ (wok3) to common reading _wok(9)_ (wok6).
   - Williams' 尺一之書: From the length of 1.1~_ch(')ek_
     for the writing-boards used for imperial decrees.

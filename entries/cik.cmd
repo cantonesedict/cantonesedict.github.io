@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cik
-* %date-modified --> 2025-01-31
+* %date-modified --> 2025-02-26
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -415,24 +415,6 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
-
---{.williams}
-[[Page~15*, before the lone entry for _ch(')ik(9)_ (cik6)]]
-  <br>
-(The next character [[尺]] is usually pronounced _ch(')ek_.)
-  <br>
-[[Here, Williams has been misled by Fan Wan's placement
-of 尺 (_ch(')ik_) in its own series
-*after* 劇屐 (_k(')ik(9)_) and 溺 (_nik(9)_), which are 陽入; see F1.78.
-Based on this ordering, Williams has inferred that
-the character 尺 is read 陽入 _ch(')ik(9)_ (cik6).
-However, since Fan Wan has a separate series
-for 勅勑敕斥叱螫{𪅙=⿰敕鳥}赤 (_ch(')ik(7)_),
-it appears that its authors have attempted to distinguish
-the vernacular rime _ek_ from the literary rime _ik_,
-notwithstanding all series appear under 第七英影應益.
-I have corrected Williams by placing 尺 under $cek3.]]
---
 
 ### 刺3 | _Ts(')ik(8)_ [[cik3]]
 
