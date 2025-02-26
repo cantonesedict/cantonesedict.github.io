@@ -29,6 +29,11 @@ WH
   - Ch(')ing. [[Page~20*]]
   - Ts(')ing. [[Page~577]]
   ==
+WV
+  ==
+  - Ts(')ing.
+    (All these characters are often pronounced _ts(')eng_ [[ceng]].)
+  ==
 WP
   ==
   - Ch(')ing <span class="modern">= [tɕʰɪŋ]</span>
@@ -38,19 +43,17 @@ MP
   ==
   - cing = [tsʰeŋ] ((preferred)), [tɕʰeŋ]
   ==
+C
+  ==
+  - Williams' "often pronounced _ts(')eng_":
+    In modern Cantonese, this is only applicable to 青 and 請 (and possibly 清),
+    and not applicable to 情 and 晴.
+  ==
 S
   ==
   - $ceng
   ==
 $$
-
---{.williams}
-[[Page~577, under the heading for Ts(')ing (cing)]]
-  <br>
-(All these characters are often pronounced _ts(')eng_ [[ceng]].)
-  <br>
-[[Notwithstanding, this only applies to 青 and 請 (and possibly 清).]]
---
 
 
 ##{#1 .williams} (1)Ch(')ing (1)Ts(')ing [[cing1 陰平]]
@@ -1143,7 +1146,7 @@ W
     - _(4)m(o\) (4)ts(')oi (4)ts(')ing_
         [[mou4 coi4 cing4 無才情]],
         inapt, stolid;
-    - _(4)[ts(')eng] (4)yau_
+    - _(4)[ts(')ing] (4)yau_
         [[cing4 jau4 情由]],
         circumstances or causes of a thing;
     - _(1)sz' (4)ts(')ing_
