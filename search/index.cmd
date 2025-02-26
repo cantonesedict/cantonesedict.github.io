@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Search by character or code point
-* %date-modified --> 2024-12-06
-* %copyright-prior-years -->
+* %date-modified --> 2025-02-26
+* %copyright-prior-years --> 2024--
 * %meta-description --> search by Chinese character or by Unicode code point
 
 OrdinaryDictionaryReplacement: #.no-black-serif-note
@@ -124,24 +124,20 @@ async function performSearch()
 
     let entriesCellElement = rowElement.insertCell(-1);
 
-    let entriesNavElement = document.createElement('nav');
-    entriesNavElement.className = 'sideways';
-    entriesCellElement.appendChild(entriesNavElement);
+    if (jyutpingReadings.length > 1)
+    {
+      let openingBraceTextNode = document.createTextNode('{');
+      entriesCellElement.appendChild(openingBraceTextNode);
+    }
 
-    let entriesListElement = document.createElement('ul');
-    entriesNavElement.appendChild(entriesListElement);
-
-    for (const jyutping of jyutpingReadings)
+    for (const [readingIndex, jyutping] of jyutpingReadings.entries())
     {
       let syllable = jyutping.replace(/[1-6]/g, '');
       let tone = jyutping.replace(/[a-z]/g, '');
 
-      let itemElement = document.createElement('li');
-      entriesListElement.appendChild(itemElement);
-
       let linkElement = document.createElement('a');
       linkElement.href = `/entries/${syllable}#${tone}${character}`;
-      itemElement.appendChild(linkElement);
+      entriesCellElement.appendChild(linkElement);
 
       appendCharacterWithComposition(linkElement, character, composition);
 
@@ -151,6 +147,18 @@ async function performSearch()
       let toneSuperscriptElement = document.createElement('sup');
       toneSuperscriptElement.appendChild(document.createTextNode(tone));
       linkElement.appendChild(toneSuperscriptElement);
+
+      if (readingIndex + 1 < jyutpingReadings.length)
+      {
+        let separatorTextNode = document.createTextNode(', ');
+        entriesCellElement.appendChild(separatorTextNode);
+      }
+    }
+
+    if (jyutpingReadings.length > 1)
+    {
+      let closingBraceTextNode = document.createTextNode('}');
+      entriesCellElement.appendChild(closingBraceTextNode);
     }
   }
 }

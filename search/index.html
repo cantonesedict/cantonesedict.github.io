@@ -140,24 +140,20 @@ async function performSearch()
 
     let entriesCellElement = rowElement.insertCell(-1);
 
-    let entriesNavElement = document.createElement('nav');
-    entriesNavElement.className = 'sideways';
-    entriesCellElement.appendChild(entriesNavElement);
+    if (jyutpingReadings.length > 1)
+    {
+      let openingBraceTextNode = document.createTextNode('{');
+      entriesCellElement.appendChild(openingBraceTextNode);
+    }
 
-    let entriesListElement = document.createElement('ul');
-    entriesNavElement.appendChild(entriesListElement);
-
-    for (const jyutping of jyutpingReadings)
+    for (const [readingIndex, jyutping] of jyutpingReadings.entries())
     {
       let syllable = jyutping.replace(/[1-6]/g, '');
       let tone = jyutping.replace(/[a-z]/g, '');
 
-      let itemElement = document.createElement('li');
-      entriesListElement.appendChild(itemElement);
-
       let linkElement = document.createElement('a');
       linkElement.href = `/entries/${syllable}#${tone}${character}`;
-      itemElement.appendChild(linkElement);
+      entriesCellElement.appendChild(linkElement);
 
       appendCharacterWithComposition(linkElement, character, composition);
 
@@ -167,6 +163,18 @@ async function performSearch()
       let toneSuperscriptElement = document.createElement('sup');
       toneSuperscriptElement.appendChild(document.createTextNode(tone));
       linkElement.appendChild(toneSuperscriptElement);
+
+      if (readingIndex + 1 < jyutpingReadings.length)
+      {
+        let separatorTextNode = document.createTextNode(', ');
+        entriesCellElement.appendChild(separatorTextNode);
+      }
+    }
+
+    if (jyutpingReadings.length > 1)
+    {
+      let closingBraceTextNode = document.createTextNode('}');
+      entriesCellElement.appendChild(closingBraceTextNode);
     }
   }
 }
@@ -187,9 +195,9 @@ window.onload = performSearch;
 </table>
 </div>
 <footer class="modern">
-© 2024 Conway.<br>
+© 2024–2025 Conway.<br>
 Source: <a href="https://github.com/cantonesedict/cantonesedict.github.io/blob/master/search/index.cmd"><code>search/index.cmd</code></a>.
-Last modified: <time datetime="2024-12-06">2024-12-06</time>.
+Last modified: <time datetime="2025-02-26">2025-02-26</time>.
 </footer>
 </body>
 </html>
