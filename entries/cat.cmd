@@ -26,6 +26,11 @@ WH
   ==
   - Ts(')at. [[Page~559]]
   ==
+WV
+  ==
+  - Ts(')at.
+    (These are often pronounced like the next [[_ts(')(a/)t_ (caat)]].)
+  ==
 WP
   ==
   - Ts(')at <span class="modern">= [tsʰɐt̚]</span>
@@ -35,10 +40,6 @@ MP
   - cat = [tsʰɐt̚] ((preferred)), [tɕʰɐt̚]
   ==
 $$
-
---{.williams}
-(These are often pronounced like the next [[_ts(')(a/)t_ (caat)]].)
---
 
 
 ##{#1 .williams} Ts(')at(7) [[cat1 高陰入]]
