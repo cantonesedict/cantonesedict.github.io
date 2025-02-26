@@ -76,7 +76,7 @@ W
     --
     (The next character [[尺]] is usually pronounced _ch(')ek_ [[cek]].)
     --
-  - [[Page~15* 尺(9) _Ch(')ik(9)_ (cik6); _Ch(')ek(9)_ (cek6) exemplified; here corrected to _Ch(')ek(8)_ (cek3)]]
+  - [[Page~15* 尺(9) _Ch(')ik(9)_ (cik6); _Ch(')ek(9)_ (cek6) implied by variational note; here corrected to _Ch(')ek(8)_ (cek3)]]
     ==
     - A cubit, or 10~_ts(')(u:)n(3)_ [[Kangxi: 十寸也]];
     - the Chinese foot;
