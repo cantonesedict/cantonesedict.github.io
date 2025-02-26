@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2025-02-16
+* %date-modified --> 2025-02-26
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1014,32 +1014,6 @@ $$
 </nav>
 <## /tone-6-characters ##>
 
---{.williams}
-[[Page~14*, before the last three entries for _chik(9)_ (zik6)]]
-  <br>
-(The three next characters [[隻, 蹠跖, 炙]] are usually pronounced _chek_.)
-  <br>
-[[Here, Williams has been misled by Fan Wan's placement of the three series
-  跖蹠拓隻炙 (_chik_),
-  尺 (_ch(')ik_), and
-  石碩鼫 (_shik_)
-*after* 劇屐 (_k(')ik(9)_) and 溺 (_nik(9)_), which are 陽入; see F1.78.
-Based on this ordering, Williams has inferred that
-the characters 隻, 蹠跖, and 炙 are read 陽入 _chik(9)_ (zik6).
-However, since Fan Wan has separate series
-for 直値殖植稙湜埴 (_chik(9)_) and 食蝕 (_shik(9)_),
-it appears that its authors have attempted to distinguish
-the vernacular rime _ek_ from the literary rime _ik_,
-notwithstanding all series appear under 第七英影應益.
-I have corrected Williams by placing 隻, 蹠跖, 炙, and 摭拓 under $zek3.]]
---
-
---{.williams}
-[[Page~569, after 踖 _tsik(7)_ (zik1)]]
-  <br>
-(This [[脊]] and the next [[席, here corrected to 蓆]] are often read _tsek_.)
---
-
 ### 値6 | _Chik(9)_ [[zik6]]
 
 $$.
@@ -1611,6 +1585,11 @@ F
   ==
 W
   ====
+  - [[Page~569 before 脊(8)]]
+    --
+    (This [[脊]] and the next [[席, here corrected to 蓆]]
+    are often read _tsek_ [[zek]].)
+    --
   - [[Page~570 席(9); here corrected to 蓆]]
     ==
     - Interchanged with the next [[蓆, here corrected to $席6]], meaning a mat;

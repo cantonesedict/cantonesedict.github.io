@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zek
-* %date-modified --> 2024-10-04
-* %copyright-prior-years -->
+* %date-modified --> 2025-02-26
+* %copyright-prior-years --> 2024--
 
 %%%
 
@@ -62,32 +62,6 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
---{.williams}
-[[Page~14*, before the last three entries for _chik(9)_ (zik6)]]
-  <br>
-(The three next characters [[隻, 蹠跖, 炙]] are usually pronounced _chek_.)
-  <br>
-[[Here, Williams has been misled by Fan Wan's placement of the three series
-  跖蹠拓隻炙 (_chik_),
-  尺 (_ch(')ik_), and
-  石碩鼫 (_shik_)
-*after* 劇屐 (_k(')ik(9)_) and 溺 (_nik(9)_), which are 陽入; see F1.78.
-Based on this ordering, Williams has inferred that
-the characters 隻, 蹠跖, and 炙 are read 陽入 _chik(9)_ (zik6).
-However, since Fan Wan has separate series
-for 直値殖植稙湜埴 (_chik(9)_) and 食蝕 (_shik(9)_),
-it appears that its authors have attempted to distinguish
-the vernacular rime _ek_ from the literary rime _ik_,
-notwithstanding all series appear under 第七英影應益.
-I have corrected Williams by placing 隻, 蹠跖, 炙, and 摭拓 under zek3 here.]]
---
-
---{.williams}
-[[Page~569, after 踖 _tsik(7)_ (zik1)]]
-  <br>
-(This [[脊]] and the next [[席, here corrected to 蓆]] are often read _tsek_.)
---
-
 ### 拓3 | _[Chek(8)]_ [[zek3]]
 
 $$.
@@ -95,13 +69,17 @@ R
   ⼿ + 5
 U
   U+62D3
+V
+  ==
+  - zik3 (uncommon)
+  ==
 F
   ==
   - [[F1.78 拓]] 拾也又充拓又托推也斥開也拓落不偶也
   ==
 W
   ====
-  - [[Page~14* 摭(9)拓(9) _Chik(9)_ (zik6); here corrected to _Chek(8)_ (zek3)]]
+  - [[Page~14* 摭(9)拓(9) _Chik(9)_ (zik6); here corrected to _Chik(8)_ (zik3) and normalised to _Chek(8)_ (zek3)]]
     --
     [[Alternative form of 摭. **See $摭zek3 for the canonical entry.**]]
     --
@@ -111,9 +89,17 @@ W
   ====
 C
   ==
-  - Williams has been misled by Fan Wan
-    into placing this under _Chik(9)_ (zik6).
-    See remarks under $zek3.
+  - Williams has been misled by Fan Wan's placement
+    of the series 跖蹠拓隻炙 (_chik_)
+    *after* 劇屐 (_k(')ik(9)_) and 溺 (_nik(9)_), which are 陽入 (see F1.78).
+    Based on this ordering, Williams has inferred that
+    the character 拓 is read 陽入 _chik(9)_ (zik6).
+    However, since Fan Wan has a separate series
+    for 直値殖植稙湜埴 (_chik(9)_),
+    it appears that its authors have attempted to distinguish
+    the vernacular rime _-ek_ from the literary rime _-ik_,
+    notwithstanding all series appear under 第七英影應益.
+    I have corrected Williams by placing 拓 under _chek(8)_ (cek3) here.
   ==
 S
   ==
@@ -142,7 +128,7 @@ F
   ==
 W
   ====
-  - [[Page~14* 摭(9)拓(9) _Chik(9)_ (zik6); here corrected to _Chek(8)_ (zek3)]]
+  - [[Page~14* 摭(9)拓(9) _Chik(9)_ (zik6); here corrected to _Chik(8)_ (zik3) and normalised to _Chek(8)_ (zek3)]]
     ==
     - To take up;
     - to collect, to gather;
@@ -153,9 +139,17 @@ W
   ====
 C
   ==
-  - Williams has been misled by Fan Wan
-    into placing this under _Chik(9)_ (zik6).
-    See remarks under $zek3.
+  - Williams has been misled by Fan Wan's placement
+    of the series 跖蹠拓隻炙 (_chik_)
+    *after* 劇屐 (_k(')ik(9)_) and 溺 (_nik(9)_), which are 陽入 (see F1.78).
+    Based on this ordering, Williams has inferred that
+    the character 拓 is read 陽入 _chik(9)_ (zik6).
+    However, since Fan Wan has a separate series
+    for 直値殖植稙湜埴 (_chik(9)_),
+    it appears that its authors have attempted to distinguish
+    the vernacular rime _-ek_ from the literary rime _-ik_,
+    notwithstanding all series appear under 第七英影應益.
+    I have corrected Williams by placing 摭 under _chek(8)_ (cek3) here.
   ==
 $$
 
@@ -176,7 +170,11 @@ F
   ==
 W
   ====
-  - [[Page~14* 炙(9) _Chek(9)_ (zek6); here corrected to _Chek(8)_ (zek3)]]
+  - [[Page~14* before 隻(9)]]
+    --
+    (The three next characters [[隻, 蹠跖, 炙]] are usually pronounced _chek_ [[zek]].)
+    --
+  - [[Page~14* 炙(9) _Chik(9)_ (zik6); _Chek(9)_ (zek6) implied by variational note; here corrected to _Chek(8)_ (zek3)]]
     ==
     - To roast;
     - to broil;
@@ -204,9 +202,17 @@ W
   ====
 C
   ==
-  - Williams has been misled by Fan Wan
-    into placing this under _Chik(9)_ (zik6).
-    See remarks under $zek3.
+  - Williams has been misled by Fan Wan's placement
+    of the series 跖蹠拓隻炙 (_chik_)
+    *after* 劇屐 (_k(')ik(9)_) and 溺 (_nik(9)_), which are 陽入 (see F1.78).
+    Based on this ordering, Williams has inferred that
+    the character 炙 is read 陽入 _chik(9)_ (zik6).
+    However, since Fan Wan has a separate series
+    for 直値殖植稙湜埴 (_chik(9)_),
+    it appears that its authors have attempted to distinguish
+    the vernacular rime _-ek_ from the literary rime _-ik_,
+    notwithstanding all series appear under 第七英影應益.
+    I have corrected Williams by placing 炙 under _chek(8)_ (cek3) here.
   - Williams' 膾炙人口: Corrected _(2)k(u/)i_ (gui2) to _(2)k(')(u/)i_ (kui2).
   ==
 $$
@@ -264,7 +270,12 @@ F
   ==
 W
   ====
-  - [[Page~569 脊(8)]]
+  - [[Page~569 before 脊(8)]]
+    --
+    (This [[脊]] and the next [[席, here corrected to 蓆]]
+    are often read _tsek_ [[zek]].)
+    --
+  - [[Page~569 脊(8) _Tsik(8)_ (zik3); _Tsek(8)_ (zek3) implied by variational note]]
     ==
     - The back-bone, the spine;
     - the back;
@@ -322,7 +333,11 @@ F
   ==
 W
   ====
-  - [[Page~14* 蹠(9)跖(9) _Chek(9)_ (zek6); here corrected to _Chek(8)_ (zek3)]]
+  - [[Page~14* before 隻(9)]]
+    --
+    (The three next characters [[隻, 蹠跖, 炙]] are usually pronounced _chek_ [[zek]].)
+    --
+  - [[Page~14* 蹠(9)跖(9) _Chik(9)_ (zik6); _Chek(9)_ (zek6) implied by variational note; here corrected to _Chek(8)_ (zek3)]]
     ==
     - [[See $蹠3 for "tread" and "leap" senses]];
     - the sole of the foot;
@@ -335,9 +350,17 @@ W
   ====
 C
   ==
-  - Williams has been misled by Fan Wan
-    into placing this under _Chik(9)_ (zik6).
-    See remarks under $zek3.
+  - Williams has been misled by Fan Wan's placement
+    of the series 跖蹠拓隻炙 (_chik_)
+    *after* 劇屐 (_k(')ik(9)_) and 溺 (_nik(9)_), which are 陽入 (see F1.78).
+    Based on this ordering, Williams has inferred that
+    the character 跖 is read 陽入 _chik(9)_ (zik6).
+    However, since Fan Wan has a separate series
+    for 直値殖植稙湜埴 (_chik(9)_),
+    it appears that its authors have attempted to distinguish
+    the vernacular rime _-ek_ from the literary rime _-ik_,
+    notwithstanding all series appear under 第七英影應益.
+    I have corrected Williams by placing 跖 under _chek(8)_ (cek3) here.
   - Williams does not provide separate entries for 跖 and $蹠3.
     I have split things up accordingly.
   ==
@@ -395,7 +418,11 @@ F
   ==
 W
   ====
-  - [[Page~14* 蹠(9)跖(9) _Chek(9)_ (zek6); here corrected to _Chek(8)_ (zek3)]]
+  - [[Page~14* before 隻(9)]]
+    --
+    (The three next characters [[隻, 蹠跖, 炙]] are usually pronounced _chek_ [[zek]].)
+    --
+  - [[Page~14* 蹠(9)跖(9) _Chik(9)_ (zik6); _Chek(9)_ (zek6) implied by variational note; here corrected to _Chek(8)_ (zek3)]]
     ==
     - To tread on;
     - to leap;
@@ -404,9 +431,17 @@ W
   ====
 C
   ==
-  - Williams has been misled by Fan Wan
-    into placing this under _Chik(9)_ (zik6).
-    See remarks under $zek3.
+  - Williams has been misled by Fan Wan's placement
+    of the series 跖蹠拓隻炙 (_chik_)
+    *after* 劇屐 (_k(')ik(9)_) and 溺 (_nik(9)_), which are 陽入 (see F1.78).
+    Based on this ordering, Williams has inferred that
+    the character 蹠 is read 陽入 _chik(9)_ (zik6).
+    However, since Fan Wan has a separate series
+    for 直値殖植稙湜埴 (_chik(9)_),
+    it appears that its authors have attempted to distinguish
+    the vernacular rime _-ek_ from the literary rime _-ik_,
+    notwithstanding all series appear under 第七英影應益.
+    I have corrected Williams by placing 蹠 under _chek(8)_ (cek3) here.
   - Williams does not provide separate entries for $跖3 and 蹠.
     I have split things up accordingly.
   ==
@@ -433,7 +468,11 @@ F
   ==
 W
   ====
-  - [[Page~14* 隻(9) _Chek(9)_ (zek6); here corrected to _Chek(8)_ (zek3)]]
+  - [[Page~14* before 隻(9)]]
+    --
+    (The three next characters [[隻, 蹠跖, 炙]] are usually pronounced _chek_ [[zek]].)
+    --
+  - [[Page~14* 隻(9) _Chik(9)_ (zik6); _Chek(9)_ (zek6) implied by variational note; here corrected to _Chek(8)_ (zek3)]]
     ==
     - One, single, not a pair, one of a pair;
     - a classifier of vessels, boats, animals, birds, and of things in pairs,
@@ -458,9 +497,17 @@ W
   ====
 C
   ==
-  - Williams has been misled by Fan Wan
-    into placing this under _Chik(9)_ (zik6) / _Chek(9)_ (zek6).
-    See remarks under $zek3.
+  - Williams has been misled by Fan Wan's placement
+    of the series 跖蹠拓隻炙 (_chik_)
+    *after* 劇屐 (_k(')ik(9)_) and 溺 (_nik(9)_), which are 陽入 (see F1.78).
+    Based on this ordering, Williams has inferred that
+    the character 隻 is read 陽入 _chik(9)_ (zik6).
+    However, since Fan Wan has a separate series
+    for 直値殖植稙湜埴 (_chik(9)_),
+    it appears that its authors have attempted to distinguish
+    the vernacular rime _-ek_ from the literary rime _-ik_,
+    notwithstanding all series appear under 第七英影應益.
+    I have corrected Williams by placing 隻 under _chek(8)_ (cek3) here.
   ==
 S
   ==
@@ -511,12 +558,6 @@ $$
 </nav>
 <## /tone-6-characters ##>
 
---{.williams}
-[[Page~569, after 踖 _tsik(7)_ (zik1)]]
-  <br>
-(This [[脊]] and the next [[席, here corrected to 蓆]] are often read _tsek_.)
---
-
 ###+ 席6 | _Tsek(9)_ (zek6)
 
 $$.
@@ -552,7 +593,7 @@ F
   ==
 W
   ====
-  - [[Page~570 席(9); here corrected to 蓆]]
+  - [[Page~570 席(9) _Tsik(9)_ (zik6); _Tsek(9)_ (zek6) implied by variational note; here corrected to 蓆]]
     --
     [[Reading variation (vernacular for "mat" senses). **See $蓆zik6 for the canonical entry.**]]
     --
