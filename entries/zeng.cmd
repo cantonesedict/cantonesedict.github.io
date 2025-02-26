@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeng
-* %date-modified --> 2024-10-16
-* %copyright-prior-years -->
+* %date-modified --> 2025-02-26
+* %copyright-prior-years --> 2024--
 
 %%%
 
@@ -59,12 +59,6 @@ $$
 </nav>
 <## /tone-1-characters ##>
 
---{.williams}
-[[Page~576, after 蜻 _(1)tsing_ (zing1)]]
-  <br>
-(The three next [[精, 井, 淨]] are often pronounced _tseng_ [[zeng]])
---
-
 ### 精1 | _(1)Tseng_ [[zeng1]]
 
 $$.
@@ -79,7 +73,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~576 (1)精]]
+  - [[Page~576 (1)精 _(1)Tsing_ (zing1); _(1)Tseng_ (zeng1) implied by variational note]]
     --
     [[Reading variation (vernacular for "clever" sense). **See $精zing1 for the canonical entry.**]]
     --
@@ -101,12 +95,6 @@ $$
 </nav>
 <## /tone-2-characters ##>
 
---{.williams}
-[[Page~576, after 蜻 _(1)tsing_ (zing1)]]
-  <br>
-(The three next [[精, 井, 淨]] are often pronounced _tseng_ [[zeng]])
---
-
 ### 井2 | _(2)Tseng_ [[zeng2]]
 
 $$.
@@ -118,7 +106,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~576 (2)井]]
+  - [[Page~576 (2)井 _(2)Tsing_ (zing2); _(2)Tseng_ (zeng2) implied by variational note]]
     --
     [[Reading variation. **See $井zing2 for the canonical entry.**]]
     --
@@ -140,12 +128,6 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
---{.williams}
-[[Page~19*, before the entries for _(2)ching_ (zing2) and _ching(3)_ (zing3)]]
-  <br>
-(The two next characters [[整, 正]] are often pronounced _cheng_ [[zeng]].)
---
-
 ### 正3 | _Cheng(3)_ [[zeng3]]
 
 $$.
@@ -157,7 +139,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~19* 正(3)]]
+  - [[Page~19* 正(3) _Ching(3)_ (zing3); _Cheng(3)_ (zeng3) implied by variational note]]
     --
     [[Reading variation (vernacular adjective). **See $正zing3 for the canonical entry.**]]
     --
@@ -183,12 +165,6 @@ $$
 </nav>
 <## /tone-6-characters ##>
 
---{.williams}
-[[Page~576, after 蜻 _(1)tsing_ (zing1)]]
-  <br>
-(The three next [[精, 井, 淨]] are often pronounced _tseng_ [[zeng]])
---
-
 ### 淨6 | _Tseng(6)_ [[zeng6]]
 
 $$.
@@ -200,7 +176,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~576 淨(6)]]
+  - [[Page~576 淨(6) _Tsing(6)_ (zing6); _Tseng(6)_ (zeng6) implied by variational note]]
     --
     [[Reading variation (vernacular adjective "clean"). **See $淨zing6 for the canonical entry.**]]
     --

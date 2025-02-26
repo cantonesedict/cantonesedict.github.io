@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2025-02-16
+* %date-modified --> 2025-02-26
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -70,12 +70,6 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
-
---{.williams}
-[[Page~576, after 蜻 _(1)tsing_ (zing1)]]
-  <br>
-(The three next [[精, 井, 淨]] are often pronounced _tseng_ [[zeng]])
---
 
 ### 偵1 | _(1)Ching_ [[zing1]]
 
@@ -528,6 +522,10 @@ F
   ==
 W
   ====
+  - [[Page~576 before (1)精]]
+    --
+    (The three next [[精, 井, 淨]] are often pronounced _tseng_ [[zeng]])
+    --
   - [[Page~576 (1)精]]
     ==
     - Cleaned rice;
@@ -810,18 +808,6 @@ $$
 </nav>
 <## /tone-2-characters ##>
 
---{.williams}
-[[Page~19*, before the entries for _(2)ching_ (zing2) and _ching(3)_ (zing3)]]
-  <br>
-(The two next characters [[整, 正]] are often pronounced _cheng_ [[zeng]].)
---
-
---{.williams}
-[[Page~576, after 蜻 _(1)tsing_ (zing1)]]
-  <br>
-(The three next [[精, 井, 淨]] are often pronounced _tseng_ [[zeng]])
---
-
 ### 井2 | _(2)Tsing_ [[zing2]]
 
 $$
@@ -839,6 +825,10 @@ F
   ==
 W
   ====
+  - [[Page~576 before (1)精]]
+    --
+    (The three next [[精, 井, 淨]] are often pronounced _tseng_ [[zeng]])
+    --
   - [[Page~576 (2)井]]
     ==
     - A well;
@@ -897,6 +887,10 @@ F
   ==
 W
   ====
+  - [[Page~19* before (2)整]]
+    --
+    (The two next characters [[整, 正]] are often pronounced _cheng_ [[zeng]].)
+    --
   - [[Page~19* (2)整]]
     ==
     - To even off, to place evenly;
@@ -939,11 +933,10 @@ W
   ====
 C
   ==
-  - Williams records _(2)cheng_ (zeng2) as an alternative reading
-    (see remarks under $zing2).
+  - Williams considers _(2)cheng_ (zeng2) a possible reading variation for 整.
     However, I have never heard 整 read _(2)cheng_ (zeng2).
   - Williams' 整色水: More commonly 整色整水.
-  - Williams' 整橋修路: Corrected _(2)cheng_ (zeng2) to _(2)ching_ (zing2),
+  - Williams' 整橋修路: Changed _(2)cheng_ (zeng2) to _(2)ching_ (zing2),
     and corrected _(1)k(')i(u/)_ (kiu1) to _(4)k(')i(u/)_ (kiu4).
   - Williams' 整壞: Corrected _(4)w(a/)i_ (waai4) to _w(a/)i(6)_ (waai6).
   ==
@@ -992,12 +985,6 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
-
---{.williams}
-[[Page~19*, before the entries for _(2)ching_ (zing2) and _ching(3)_ (zing3)]]
-  <br>
-(The two next characters [[整, 正]] are often pronounced _cheng_ [[zeng]].)
---
 
 ### 政3 | _Ching(3)_ [[zing3]]
 
@@ -1067,6 +1054,10 @@ F
   ==
 W
   ====
+  - [[Page~19* before (2)整]]
+    --
+    (The two next characters [[整, 正]] are often pronounced _cheng_ [[zeng]].)
+    --
   - [[Page~19* 正(3)]]
     ==
     - Correct, straight, right, not awry, erect, even;
@@ -1350,12 +1341,6 @@ $$
 </nav>
 <## /tone-6-characters ##>
 
---{.williams}
-[[Page~576, after 蜻 _(1)tsing_ (zing1)]]
-  <br>
-(The three next [[精, 井, 淨]] are often pronounced _tseng_ [[zeng]])
---
-
 ### 淨6 | _Tsing(6)_ [[zing6]]
 
 $$
@@ -1383,6 +1368,10 @@ W
     --
     --
     Incorrectly but commonly used for 淨 _tsing(6)_ [[zing6]] clean.
+    --
+  - [[Page~576 before (1)精]]
+    --
+    (The three next [[精, 井, 淨]] are often pronounced _tseng_ [[zeng]])
     --
   - [[Page~576 淨(6)]]
     ==
