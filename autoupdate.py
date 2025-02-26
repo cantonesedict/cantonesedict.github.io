@@ -808,9 +808,8 @@ class Indexer:
                     f'      <nav class="sideways">',
                     f'      ==',
                     *[
-                        f'      - ${Indexer._composed_character(character, c_from_c)}{jyutping}'
+                        f'      - {Indexer._entry_links_cmd_content(character, jyutping_readings, c_from_c)}'
                         for character, jyutping_readings in j_from_c_from_r[residual_stroke_count].items()
-                        for jyutping in jyutping_readings
                     ],
                     f'      ==',
                     f'      </nav>',
@@ -821,6 +820,16 @@ class Indexer:
             "||||",
             "",
         ])
+
+    @staticmethod
+    def _entry_links_cmd_content(character, jyutping_readings, composition_from_character):
+        composed_character = Indexer._composed_character(character, composition_from_character)
+        entry_links_sequence = ', '.join(f'${composed_character}{jyutping}' for jyutping in jyutping_readings)
+
+        if len(jyutping_readings) > 1:
+            return '{' + entry_links_sequence + '}'
+        else:
+            return entry_links_sequence
 
     @staticmethod
     def _composed_character(character, composition_from_character):

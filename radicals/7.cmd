@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 7-stroke radicals
-* %date-modified --> 2025-02-19
+* %date-modified --> 2025-02-26
 * %copyright-prior-years --> 2024--
 * %meta-description --> index of characters with 7-stroke radicals
 
@@ -70,8 +70,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $親can1
-      - $親can3
+      - {$親can1, $親can3}
       ==
       </nav>
   //
@@ -80,8 +79,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $覰ceoi3
-      - $䚎cong1
-      - $䚎zong1
+      - {$䚎cong1, $䚎zong1}
       ==
       </nav>
   //
@@ -112,9 +110,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $觜zeoi1
-      - $觜zeoi2
-      - $觜zi1
+      - {$觜zeoi1, $觜zeoi2, $觜zi1}
       ==
       </nav>
   //
@@ -138,8 +134,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $觸cuk1
-      - $觸zuk1
+      - {$觸cuk1, $觸zuk1}
       ==
       </nav>
 ''
@@ -174,8 +169,7 @@ For all radicals, see [Index of characters by radical](./).
       - $診can2
       - $詞ci4
       - $詐zaa3
-      - $詛zeoi2
-      - $詛zo3
+      - {$詛zeoi2, $詛zo3}
       - $証zing3
       - $詔ziu3
       - $註zyu3
@@ -188,8 +182,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $詫caa3
       - $詳coeng4
-      - $訾zi1
-      - $訾zi2
+      - {$訾zi1, $訾zi2}
       - $詹zim1
       - $誅zyu1
       ==
@@ -208,11 +201,9 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $請ceng2
-      - $請cing2
+      - {$請ceng2, $請cing2}
       - $諂cim2
-      - $諍zaang3
-      - $諍zang3
+      - {$諍zaang3, $諍zang3}
       - $諏zau1
       - $諄zeon1
       - $諓zin2
@@ -224,8 +215,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $諳am1
-      - $諳am2
+      - {$諳am1, $諳am2}
       - $諮zi1
       ==
       </nav>
@@ -253,10 +243,8 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $譖cam3
-      - $譖zam3
-      - $譙ciu3
-      - $譙ciu4
+      - {$譖cam3, $譖zam3}
+      - {$譙ciu3, $譙ciu4}
       - $譔zaan6
       - $識zi3
       - $證zing3
@@ -386,8 +374,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $豸zaai6
-      - $豸zi6
+      - {$豸zaai6, $豸zi6}
       ==
       </nav>
   //
@@ -461,8 +448,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $賑zan2
-      - $賑zan3
+      - {$賑zan2, $賑zan3}
       ==
       </nav>
   //
@@ -472,8 +458,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $賜ci3
       - $賫zai1
-      - $質zat1
-      - $質zi3
+      - {$質zat1, $質zi3}
       - $賙zau1
       - $賤zin6
       - $賬zoeng3
@@ -485,8 +470,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $賽coi3
-      - $賺zaam6
-      - $賺zaan6
+      - {$賺zaam6, $賺zaan6}
       - $賷zai1
       ==
       </nav>
@@ -539,8 +523,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $赤cek3
-      - $赤cik3
+      - {$赤cek3, $赤cik3}
       ==
       </nav>
   //
@@ -622,8 +605,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - ${𧽒=⿺走臭}cau3
-      - ${𧽒=⿺走臭}cau5
+      - {${𧽒=⿺走臭}cau3, ${𧽒=⿺走臭}cau5}
       - $趨ceoi1
       ==
       </nav>
@@ -663,9 +645,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $足zeoi3
-      - $足zeoi6
-      - $足zuk1
+      - {$足zeoi3, $足zeoi6, $足zuk1}
       ==
       </nav>
   //
@@ -699,11 +679,8 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $踩caai2
       - $踟ci4
-      - $踐cin2
-      - $踐cin5
-      - $踐zin6
-      - $踔coek3
-      - $踔zaau3
+      - {$踐cin2, $踐cin5, $踐zin6}
+      - {$踔coek3, $踔zaau3}
       - $踭zaang1
       - $踖zik1
       ==
@@ -723,10 +700,8 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $蹉co1
-      - $蹌coeng1
-      - $蹌coeng3
-      - $蹐zek3
-      - $蹐zik3
+      - {$蹌coeng1, $蹌coeng3}
+      - {$蹐zek3, $蹐zik3}
       ==
       </nav>
   //
@@ -734,8 +709,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $蹡coeng1
-      - $蹡coeng3
+      - {$蹡coeng1, $蹡coeng3}
       - $蹙cuk1
       - $蹠zek3
       - $蹟zik1
@@ -756,8 +730,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $䠨cim3
-      - $䠨zim1
+      - {$䠨cim3, $䠨zim1}
       - $躁cou3
       - $躅zuk6
       ==
@@ -776,8 +749,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $躕ceoi4
-      - $躕cyu4
+      - {$躕ceoi4, $躕cyu4}
       - $躚cin1
       - $躔cin4
       - $躑zaak6
@@ -846,8 +818,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $輈zau1
       - $輊zi3
-      - $載zoi2
-      - $載zoi3
+      - {$載zoi2, $載zoi3}
       ==
       </nav>
   //
@@ -985,12 +956,9 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $逞cing2
-      - $造cou3
-      - $造cou5
-      - $造zou6
+      - {$造cou3, $造cou5, $造zou6}
       - $速cuk1
-      - $這ze2
-      - $這ze3
+      - {$這ze2, $這ze3}
       - $逐zuk6
       ==
       </nav>
@@ -1028,8 +996,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $遲ci4
-      - $遲zi6
+      - {$遲ci4, $遲zi6}
       - $遵zeon1
       ==
       </nav>
@@ -1069,8 +1036,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $郅zat1
-      - $郅zat6
+      - {$郅zat1, $郅zat6}
       - $邾zyu1
       ==
       </nav>
@@ -1111,8 +1077,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $鄭zeng6
-      - $鄭zing6
+      - {$鄭zeng6, $鄭zing6}
       ==
       </nav>
   //
@@ -1161,8 +1126,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $酢cou3
-      - $酢zok6
+      - {$酢cou3, $酢zok6}
       ==
       </nav>
   //

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 8-stroke radicals
-* %date-modified --> 2025-02-10
+* %date-modified --> 2025-02-26
 * %copyright-prior-years --> 2024--
 * %meta-description --> index of characters with 8-stroke radicals
 
@@ -69,8 +69,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $鈪aak3
-      - $鈔caau1
-      - $鈔caau3
+      - {$鈔caau1, $鈔caau3}
       - $鈒zaap6
       ==
       </nav>
@@ -96,8 +95,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $鋟cam1
-      - $鋟cim1
+      - {$鋟cam1, $鋟cim1}
       - $銼co3
       - $鋤co4
       ==
@@ -107,13 +105,9 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $錢cin4
-      - $錢zin2
-      - $錯co3
-      - $錯cok3
-      - $錯cou3
-      - $錚zaang1
-      - $錚zang1
+      - {$錢cin4, $錢zin2}
+      - {$錯co3, $錯cok3, $錯cou3}
+      - {$錚zaang1, $錚zang1}
       - $錐zeoi1
       - $錙zi1
       ==
@@ -135,8 +129,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $鎗caang1
-      - $鎗coeng1
+      - {$鎗caang1, $鎗coeng1}
       - $鎚ceoi4
       - $鎭zan3
       - $鎮zan3
@@ -147,8 +140,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $鏨caam5
-      - $鏨zaam6
+      - {$鏨caam5, $鏨zaam6}
       - $鏟caan2
       - $鏚cik1
       - $鏘coeng1
@@ -217,9 +209,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $長coeng4
-      - $長zoeng2
-      - $長zoeng6
+      - {$長coeng4, $長zoeng2, $長zoeng6}
       ==
       </nav>
 ''
@@ -275,8 +265,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $闇am2
-      - $闇am3
+      - {$闇am2, $闇am3}
       ==
       </nav>
   //
@@ -292,8 +281,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $闡cin2
-      - $闡zin2
+      - {$闡cin2, $闡zin2}
       ==
       </nav>
 ''
@@ -324,11 +312,8 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $阨aai3
-      - $阨aak1
-      - $阨ak1
-      - $阱zeng6
-      - $阱zing6
+      - {$阨aai3, $阨aak1, $阨ak1}
+      - {$阱zeng6, $阱zing6}
       - $阯zi2
       ==
       </nav>
@@ -347,8 +332,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $除ceoi4
-      - $除cyu4
+      - {$除ceoi4, $除cyu4}
       - $陣zan6
       - $陟zik1
       ==
@@ -358,8 +342,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $陳can4
-      - $陳zan6
+      - {$陳can4, $陳zan6}
       - $陬zau1
       ==
       </nav>
@@ -377,8 +360,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $隘aai3
-      - $隘ak1
+      - {$隘aai3, $隘ak1}
       ==
       </nav>
   //
@@ -404,8 +386,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $隰zaap6
-      - $隮zai1
-      - $隮zai3
+      - {$隮zai1, $隮zai3}
       - $隲zat1
       ==
       </nav>
@@ -443,8 +424,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $隻zek3
-      - $隻zik3
+      - {$隻zek3, $隻zik3}
       ==
       </nav>
   //
@@ -468,8 +448,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $雛co1
-      - $雛co4
+      - {$雛co1, $雛co4}
       - $雎zeoi1
       - $雋zeon3
       - $雉zi6
@@ -560,10 +539,8 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $靑ceng1
-      - $靑cing1
-      - $青ceng1
-      - $青cing1
+      - {$靑ceng1, $靑cing1}
+      - {$青ceng1, $青cing1}
       ==
       </nav>
   //
