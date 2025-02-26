@@ -52,6 +52,8 @@ FixedDelimitersReplacement: #.syntax.modern-insertion-block
 RegexDictionaryReplacement: #.syntax.entry-key-abbreviations
 * ^WH$ --> ; Williams (1856) headings
                 ,{.williams}
+* ^WV$ --> ; Williams (1856) variational notes
+                ,{.williams}
 * ^WP$ --> ; Williams (1856) pronunciation
                 ,{.williams}
 * ^MP$ --> ; Modern pronunciation

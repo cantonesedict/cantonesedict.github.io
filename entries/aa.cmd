@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2025-01-10
+* %date-modified --> 2025-02-26
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -29,6 +29,15 @@ WH
   ==
   - (A/). [[Page~1|n44]]
   ==
+WV
+  ==
+  - (A/).
+    Words in _a_ [[a]] or _(a/)_ [[aa]],
+    are often heard beginning with _ng_ [[ng]],
+    as _ng(a/)_ [[ngaa]],
+    _ngai_ [[ngai]],
+    _ngat_ [[ngat]].
+  ==
 WP
   ==
   - (A/) <span class="modern">= [aː]</span>
@@ -37,19 +46,20 @@ MP
   ==
   - aa = [aː]
   ==
+C
+  ==
+  - Williams' "often heard beginning with _ng_":
+    Generally speaking, for literary characters,
+    initial _ng-_ is only expected for the light tones (陽平, 陽上, 陽去, 陽入)
+    per the phonology of Middle Chinese.
+    Prepending initial _ng-_ on the dark tones (陰平, 陰上, 陰去, 陰入)
+    is hypercorrection (in the case of literary characters).
+  ==
 S
   ==
   - $ngaa
   ==
 $$
-
---{.williams}
-Words in _a_ [[a]] or _(a/)_ [[aa]],
-are often heard beginning with _ng_ [[ng]],
-as _ng(a/)_ [[ngaa]],
-_ngai_ [[ngai]],
-_ngat_ [[ngat]].
---
 
 
 ##{#1 .williams} (1)(A/) [[aa1 陰平]]
