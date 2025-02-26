@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Introduction.
-* %date-modified --> 2025-02-21
+* %date-modified --> 2025-02-26
 * %copyright-prior-years --> 2023--
 * %meta-description --> Williams' introduction
 
@@ -1815,10 +1815,10 @@ By combining all the fifty-three finals with all the twenty-three
 initials, there would be 1229 [[I get 53~×~23 = 1219]] sounds in the dialect which could be
 represented by Roman letters; there are however only 707 different
 syllables given in this Dictionary, many possible combinations, as
-_kw(o\)m_ [[gwam]], _t(a/)ng_ [[daang]], _l(u/)t_ [[lut]], _p(u:)t_ [[byut]],
-_kw(e/)ung_ [[gwoeng]], _f(a/)m_ [[faam]], _foi_ [[foi]], _lon_ [[lon]],
-_shot_ [[sot]], _s(u/)n_ [[sun]], _[wi(u/)]_ [[wiu]], &c.,
-not occuring in the dialect. The table of all the sounds here given
+_kw(o\)m_, _t(a/)ng_, _l(u/)t_, _p(u:)t_,
+_kw(e/)ung_, _f(a/)m_, _foi_, _lon_,
+_shot_, _s(u/)n_, _[wi(u/)]_, &c.,
+not [occurring] in the dialect. The table of all the sounds here given
 will show the paucity of different vocables, though it does not
 probably include *all* the variations heard among the people, which
 however most frequently run into other sounds occurring in the table,
