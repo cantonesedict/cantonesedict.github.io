@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zo
-* %date-modified --> 2025-02-16
+* %date-modified --> 2025-02-26
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -347,12 +347,6 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
---{.williams}
-[[Page~26*, before the entry for 詛]]
-  <br>
-This character [[詛]] is often called _ch(u\)_ [[zoe]] or _ch(u:)_ [[zyu]].
---
-
 ### 佐3 | _Tso(3)_ [[zo3]]
 
 $$
@@ -405,6 +399,10 @@ F
   ==
 W
   ====
+  - [[Page~26* before 詛(3)]]
+    --
+    This character [[詛]] is often called ~~_ch(u\)_ [[zoe]] or~~ _ch(u:)_ [[zyu]].
+    --
   - [[Page~26* 詛(3)]]
     ==
     - To curse, to imprecate;
@@ -418,8 +416,7 @@ C
   ==
   - Fan Wan entry: Corrected headword self-reference to 上.
   - Williams records _ch(u\)_ (zoe) and _ch(u:)_ (zyu)
-    as alternative readings without specifying the tone
-    (see remarks under $zo3).
+    as alternative readings without specifying the tone.
     The former I cannot justify.
     The latter is consistent with Kangxi quoting 《集韻》遵遇切娵去聲.
   - The common reading zeoi2 is perhaps from identifying 詛咒 with 咀咒,
