@@ -401,10 +401,6 @@ R
   ⾜ + 11
 U
   U+8E60
-A
-  ==
-  - $跖3
-  ==
 V
   ==
   - zik3 (alternative)
@@ -420,12 +416,15 @@ W
     --
     (The three next characters [[隻, 蹠跖, 炙]] are usually pronounced _chek_ [[zek]].)
     --
-  - [[Page~14* 蹠(9)跖(9) _Chik(9)_ (zik6); _Chek(9)_ (zek6) implied by variational note; here corrected to _Chek(8)_ (zek3)]]
+  - [[Page~14* ::蹠(9)~~跖(9)~~:: _Chik(9)_ (zik6); _Chek(9)_ (zek6) implied by variational note; here corrected to _Chek(8)_ (zek3)]]
     ==
-    - To tread on;
-    - to leap;
-    - [[see $跖3 for "sole" senses]].
+    - To tread on [[Kangxi: 足履踐也, 蹠蹈也, 蹠踐也]];
+    - to leap [[Kangxi: 楚人謂跳躍曰蹠]];
+    - [[...]].
     ==
+    --
+    [[Otherwise, an alternative form of 跖. **See $跖zek3 for the canonical entry.**]]
+    --
   ====
 C
   ==
