@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zek
-* %date-modified --> 2025-02-26
+* %date-modified --> 2025-02-27
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -69,10 +69,6 @@ R
   ⼿ + 5
 U
   U+62D3
-V
-  ==
-  - zik3 (uncommon)
-  ==
 F
   ==
   - [[F1.78 拓]] 拾也又充拓又托推也斥開也拓落不偶也
@@ -82,9 +78,6 @@ W
   - [[Page~14* 摭(9)拓(9) _Chik(9)_ (zik6); here corrected to _Chik(8)_ (zik3) and normalised to _Chek(8)_ (zek3)]]
     --
     [[Alternative form of 摭. **See $摭zek3 for the canonical entry.**]]
-    --
-    --
-    Also read _t(')ok(8)_ [[tok3]]; [[**see $拓tok3**]].
     --
   ====
 C
