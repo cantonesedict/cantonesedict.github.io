@@ -231,11 +231,11 @@ W
   ====
   - [[Page~568 瘠(8) _Tsik(8)_ (zik3); here normalised to _Tsek(8)_ (zek3)]]
     ==
-    - Lean, thin, reduced to a bone, emaciated;
+    - Lean, thin, reduced to a bone, emaciated [[Kangxi: 瘦也]];
     - poor, as land;
     - to make lean;
     - to impoverish;
-    - to retrench, to bring down;
+    - to retrench, to bring down [[Kangxi: 瘠謂省約]];
     - _[tsek](8) (2)t(')(o\)_
         [[zek3 tou2 瘠土]],
         meagre soil.
