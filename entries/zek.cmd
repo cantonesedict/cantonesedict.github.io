@@ -384,8 +384,8 @@ W
   - [[Page~569 蹐(8) _Tsik(8)_ (zik3); here normalised to _Tsek(8)_ (zek3)]]
     ==
     - To step carefully;
-    - short steps, a mincing walk;
-    - to walk here and there.
+    - short steps, a mincing walk [[Kangxi: 小步也]];
+    - ~~to walk here and there.~~
     ==
   ====
 S
