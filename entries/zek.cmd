@@ -471,7 +471,7 @@ W
     --
   - [[Page~14* 隻(9) _Chik(9)_ (zik6); _Chek(9)_ (zek6) implied by variational note; here corrected to _Chek(8)_ (zek3)]]
     ==
-    - One, single, not a pair, one of a pair;
+    - One, single, not a pair, one of a pair [[Kangxi: 鳥一枚也, 奇也, 物單曰隻]];
     - a classifier of vessels, boats, animals, birds, and of things in pairs,
       as legs, arms eyes, cups, saucers, &c.;
     - _chek[(8)] (1)shan_
