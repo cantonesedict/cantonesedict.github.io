@@ -169,11 +169,11 @@ W
     --
   - [[Page~14* 炙(9) _Chik(9)_ (zik6); _Chek(9)_ (zek6) implied by variational note; here corrected to _Chek(8)_ (zek3)]]
     ==
-    - To roast;
+    - To roast [[Kangxi: 炮肉也, 炕火曰炙]];
     - to broil;
     - to dry or toast before the fire;
     - to heat;
-    - near;
+    - near [[Kangxi: 親近也]];
     - to approach, to approximate;
     - to fry in honey, as some physic is;
     - _(2)[k(')(u/)i] chek[(8)] (4)yan (2)hau_
@@ -207,6 +207,7 @@ C
     notwithstanding all series appear under 第七英影應益.
     I have corrected Williams by placing 炙 under _chek(8)_ (cek3) here.
   - Williams' 膾炙人口: Corrected _(2)k(u/)i_ (gui2) to _(2)k(')(u/)i_ (kui2).
+  - Williams' "near": Specifically, to come under the (positive) influence of another.
   ==
 $$
 
