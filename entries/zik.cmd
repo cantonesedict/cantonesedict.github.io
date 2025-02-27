@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2025-02-26
+* %date-modified --> 2025-02-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1193,12 +1193,13 @@ W
   ====
   - [[Page~570 蓆(9); here corrected to 席]]
     ==
-    - Mats; a mat spread for eating on;
+    - Mats [[Kangxi 席: 藉也, 牀席也, 薦席]];
+    - a mat spread for eating on;
     - a repast, a meal, a table;
-    - pliable, without force of character;
-    - affection for;
-    - to depend on;
-    - rest, quiet;
+    - pliable, without force of character [[Kangxi 席: 席釋也可卷可釋]];
+    - ~~affection for;~~
+    - to depend on [[Kangxi 席: 資也因也]];
+    - rest, quiet [[Kangxi 席: 安也]];
     - to spread upon, to lay out, as a mat;
     - _(2)tsau tsik(9)_
         [[zau2 zik6 酒席]]
@@ -1225,11 +1226,16 @@ W
         [[gam1 maan5 tung4 zik6 今晚同席]]
         I dine with you this evening.
     ==
+    --
+    [[Alternative form of 蓆 (for the "mat" sense). See $蓆zik6.]]
+    --
   ====
 C
   ==
   - Williams has mixed up 席 and 蓆.
-    Which is easy to do, as 席 is an alternative form of 蓆; see $蓆zik6.
+    Which is easy to do, as 席 is interchanged with 蓆 for the "mat" sense.
+  - Williams' "affection for": Whilst the phrase 席寵 exists,
+    the meaning of 席 therein is still "depend" or "rely".
   - Williams' 埋席: Strictly, to draw near and take one's seat at the table.
   ==
 S
@@ -1566,11 +1572,11 @@ U
   U+84C6
 A
   ==
-  - $席6
+  - $席6 [[for "mat" sense]]
   ==
 V
   ==
-  - zek6 (vernacular for "mat" senses)
+  - zek6 (vernacular for "mat" sense)
   ==
 F
   ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zek
-* %date-modified --> 2025-02-27
+* %date-modified --> 2025-02-28
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -566,10 +566,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Alternative form of 蓆, and reading variation (vernacular for "mat" senses). **See $蓆zik6 for the canonical entry.**
-  ==
+P
+  ++
+  1. Alternative form of 蓆, and reading variation (vernacular for the "mat" sense). **See $蓆zik6 for the canonical entry.**
+  ++
 S
   ==
   - $席zik6
@@ -592,7 +592,7 @@ W
   ====
   - [[Page~570 席(9) _Tsik(9)_ (zik6); _Tsek(9)_ (zek6) implied by variational note; here corrected to 蓆]]
     --
-    [[Reading variation (vernacular for "mat" senses). **See $蓆zik6 for the canonical entry.**]]
+    [[Reading variation (vernacular for the "mat" sense). **See $蓆zik6 for the canonical entry.**]]
     --
   ====
 C
