@@ -271,13 +271,13 @@ W
     --
   - [[Page~569 脊(8) _Tsik(8)_ (zik3); _Tsek(8)_ (zek3) implied by variational note]]
     ==
-    - The back-bone, the spine;
+    - The back-bone, the spine [[Kangxi: 背呂也, 背脊]];
     - the back;
     - convergent, as the ribs;
     - the ridge of a house;
-    - a sierra, a ridge;
-    - a bone;
-    - a principle;
+    - a sierra, a ridge [[Kangxi: 山脊]];
+    - ~~a bone;~~
+    - a principle [[Kangxi: 理也]];
     - _p(u/)i(3) tsek(8) kwat(7)_
         [[bui3 zek3 gwat1 背脊骨]]
         the spine;
@@ -297,6 +297,8 @@ W
   ====
 C
   ==
+  - Williams' "a bone": Only as an alternative form of 㱴 (Kangxi: 與㱴通死骨也),
+    which has a different reading.
   - Williams' 起一條脊: Corrected _(1)t(')i(u/)_ (tiu1) to _(4)t(')i(u/)_ (tiu4).
   ==
 S
