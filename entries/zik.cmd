@@ -1592,27 +1592,27 @@ W
     --
   - [[Page~570 席(9); here corrected to 蓆]]
     ==
-    - Interchanged with the next [[蓆, here corrected to $席6]], meaning a mat;
-    - flowing;
-    - wide, large, as garments;
-    - ample;
+    - Interchanged with the next [[here corrected to 席]], meaning a mat [[Kangxi 蓆: 與薦席之席通]];
+    - ~~flowing;~~
+    - wide, large, as garments [[Kangxi 蓆: 蓆大也]];
+    - ample [[Kangxi 蓆: 廣多也]];
     - _(2)ts(')(o\) tsek(9)_
-        [[cou2 zek6]]
+        [[cou2 zek6 草蓆]]
         grass mats;
     - _(4)t(')ang tsek(9)_
-        [[tang4 zek6]]
+        [[tang4 zek6 藤蓆]]
         rattan mats;
     - _chik(7) tsek(9)_
-        [[zik1 zek6]]
+        [[zik1 zek6 織蓆]]
         to weave mats;
     - _(1)k(a/)i (4)man tsek(9)_
-        [[gaai1 man4 zek6]]
+        [[gaai1 man4 zek6 佳文蓆]]
         fine mats;
     - _(1)f(a/) tsek(9)_
-        [[faa1 zek6]]
+        [[faa1 zek6 花蓆]]
         colored mats;
     - _tsek(9) (1)p(a/)u_
-        [[zek6 baau1]],
+        [[zek6 baau1 蓆包]],
         a mat bag.
     ==
   ====
