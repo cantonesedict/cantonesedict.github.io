@@ -335,13 +335,13 @@ W
     --
   - [[Page~14* 蹠(9)跖(9) _Chik(9)_ (zik6); _Chek(9)_ (zek6) implied by variational note; here corrected to _Chek(8)_ (zek3)]]
     ==
-    - [[See $蹠3 for "tread" and "leap" senses]];
-    - the sole of the foot;
+    - [[...]];
+    - the sole of the foot [[Kangxi: 足下]];
     - metatarsus of birds;
     - _t(o\)(6) chek[(8)]_
         [[dou6 zek3 盜跖]]
         a leader of thieves,
-        a certain Robin Hood in the days of Ts(')in [[秦]].
+        a certain Robin Hood ~~in the days of Ts(')in [[秦]]~~.
     ==
   ====
 C
@@ -359,6 +359,8 @@ C
     I have corrected Williams by placing 跖 under _chek(8)_ (cek3) here.
   - Williams does not provide separate entries for 跖 and $蹠3.
     I have split things up accordingly.
+  - Williams' "in the days of Ts(')in": Not dynastic Ts(')in (秦),
+    but the Spring and Autumn period.
   ==
 $$
 
