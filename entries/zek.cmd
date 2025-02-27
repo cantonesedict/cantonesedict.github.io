@@ -123,7 +123,7 @@ W
   ====
   - [[Page~14* 摭(9)拓(9) _Chik(9)_ (zik6); here corrected to _Chik(8)_ (zik3) and normalised to _Chek(8)_ (zek3)]]
     ==
-    - To take up;
+    - To take up [[Kangxi 摭: 拓或从庶, 取也, 猶拾取也]];
     - to collect, to gather;
     - _[chek(8)] chap(7)_
         [[zek3 zap1 摭執]]
@@ -136,7 +136,7 @@ C
     of the series 跖蹠拓隻炙 (_chik_)
     *after* 劇屐 (_k(')ik(9)_) and 溺 (_nik(9)_), which are 陽入 (see F1.78).
     Based on this ordering, Williams has inferred that
-    the character 拓 is read 陽入 _chik(9)_ (zik6).
+    the character 拓 (and hence 摭) is read 陽入 _chik(9)_ (zik6).
     However, since Fan Wan has a separate series
     for 直値殖植稙湜埴 (_chik(9)_),
     it appears that its authors have attempted to distinguish
