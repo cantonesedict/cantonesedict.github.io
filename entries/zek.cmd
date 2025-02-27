@@ -531,7 +531,7 @@ W
   ====
   - [[Page~569 鶺(8) _Tsik(8)_ (zik3); here normalised to _Tsek(8)_ (zek3)]]
     ==
-    - A wagtail, called _[tsek](8) (4)ling_ [[zek3 ling4 鶺鴒]];
+    - A wagtail, called _[tsek](8) (4)ling_ [[zek3 ling4 鶺鴒]] [[Kangxi: 鶺鴒]];
     - it has a mottled, black neck;
     - another name for it is _(4)ts(')(i/)n (5)m(o\)_ [[cin4 mou5 錢母]],
       or money mother.
