@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeng
-* %date-modified --> 2025-02-26
+* %date-modified --> 2025-03-02
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -198,10 +198,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Alternative form of 阱, and reading variation (vernacular). **See $阱zing6 for the canonical entry.**
-  ==
+P
+  ++
+  1. Alternative form of 阱, and reading variation (vernacular). **See $阱zing6 for the canonical entry.**
+  ++
 S
   ==
   - $穽zing6
