@@ -573,8 +573,8 @@ W
   ====
   - [[Page~595 (2)咀]]
     ==
-    - To taste;
-    - to chew, to bite in order to taste;
+    - To taste [[Kangxi: 含味也]];
+    - to chew, to bite in order to taste [[Kangxi: 咀嚼]];
     - _(2)ts(u:) ts(e/)uk[(8)] (5)h(a/)_
         [[zeoi2 zoek3 haa5 咀嚼吓]],
         take a bite of it;
@@ -582,6 +582,9 @@ W
         [[ham4 jing1 zyu2 waa1 含英咀華]],
         to learn and relish the beauties of a style.
     ==
+    --
+    [[Otherwise, an alternative form of 嘴. **See $嘴zeoi2 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -590,7 +593,6 @@ C
   - It is only in modern Cantonese
     that 咀 _(2)ts(u:)_ and 嘴 _(2)tsui_ are homophonous (both zeoi2),
     and that 咀 is an alternative form of 嘴.
-    **See $嘴zeoi2 for the canonical entry.**
   ==
 $$
 
@@ -667,6 +669,9 @@ C
   ==
   - Williams' 你冇多嘴: Corrected _(4)^to_ (do4) to _(1)to_ (do1).
   - Williams' 嘴講易: Corrected _(i/)(3)_ (ji3) to _(i/)(6)_ (ji6).
+  - It is only in modern Cantonese
+    that 咀 _(2)ts(u:)_ and 嘴 _(2)tsui_ are homophonous (both zeoi2),
+    and that 咀 is an alternative form of 嘴.
   ==
 $$
 
