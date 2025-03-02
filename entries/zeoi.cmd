@@ -534,7 +534,7 @@ W
   ====
   - [[Page~33* (1)騅]]
     ==
-    - A black horse with white spots;
+    - A black horse with white spots [[Kangxi: 蒼白雜毛騅]];
     - _(1)(u/) (1)chui (5)m(a/)_
         [[wu1 zeoi1 maa5 烏騅馬]],
         the charger of H(a/)ng Y(u/) [[項羽]] of Tso [[楚]].
