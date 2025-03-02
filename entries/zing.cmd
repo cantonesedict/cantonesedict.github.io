@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2025-02-26
+* %date-modified --> 2025-03-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -528,14 +528,14 @@ W
     --
   - [[Page~576 (1)精]]
     ==
-    - Cleaned rice;
-    - selected, ripe, mature;
-    - fine, subtle, delicate;
+    - Cleaned rice [[Kangxi: 鑿也]];
+    - selected [[Kangxi: 擇也]], ripe, mature [[Kangxi: 熟也]];
+    - fine, subtle, delicate [[Kangxi: 細也]];
     - the best, the finest;
-    - unmixed, devoted to, accustomed to, expert at;
-    - skillful, as in strategy;
-    - the pure parts of anything, etherial, subtle;
-    - the essence of things;
+    - unmixed, devoted to [[Kangxi: 專一也]], accustomed to, expert at;
+    - skillful, as in strategy [[Kangxi: 巧也]];
+    - the pure parts of anything [[Kangxi: 凡物之純至者皆曰精]], etherial, subtle;
+    - the essence of things [[Kangxi: 靈也眞氣也]];
     - it is prefixed to other adjectives to show a high degree of;
     - the animal spirits;
     - the semen, the germinating principle of nature;
@@ -594,6 +594,7 @@ C
   - Williams' 精講大話: Corrected _kong(3)_ (gong3) to _(2)kong_ (gong2).
   - Williams' 精乖: Changed _(1)tsing_ (zing1)
     to vernacular reading _(1)tseng_ (zeng1).
+  - Williams' 你精我唔呆: Here, "cute" means "clever".
   - Williams' 精甩辮: Corrected _lut(7)_ (leot1) to _lat(7)_ (lat1).
   ==
 S
