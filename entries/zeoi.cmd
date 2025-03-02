@@ -513,14 +513,10 @@ F
   ==
 W
   [[Not present]]
-C
-  ==
-  - Not present in Williams (who may have confused it with 睢, see $睢zeoi1);
-    an entry is included here for completeness.
-    ++
-    1. A type of waterbird.
-    ++
-  ==
+P
+  ++
+  1. A type of waterbird.
+  ++
 $$
 
 ### 騅1 | _(1)Chui_ [[zeoi1]]
