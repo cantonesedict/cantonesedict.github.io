@@ -1381,12 +1381,12 @@ W
     --
   - [[Page~576 淨(6)]]
     ==
-    - Clean, pure, spotless, undefiled;
+    - Clean, pure, spotless, undefiled [[Kangxi: 無垢也潔也]];
     - upright, guileless;
     - to wash clean, to cleanse;
     - only;
     - all;
-    - a rapids in the R.~H(a/)n [[漢]];
+    - a rapids in the R.~H(a/)n [[漢]] [[Kangxi: 灘名, 漢水東爲淨灘]];
     - _(1)kon tseng(6)_
         [[gon1 zeng6 乾淨]]
         clean, pure;
@@ -1419,6 +1419,7 @@ E
        - 淨麵 (zing6 min6): "Only noodles."
        - 淨魚蛋 (zing6 jyu4 daan6-2): "Only fish-balls" (i.e. without noodles).
        - 淨食餸 (zing6 sik6 sung3): "Only eating dishes" (i.e. without rice).
+       - 淨係佢去 (zing6 hai6 keoi5 heoi3): "Only he is going."
        ==
     ++
   ====
