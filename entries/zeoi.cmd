@@ -265,6 +265,11 @@ R
   ⾋ + 8
 U
   U+83F9
+V
+  ==
+  - ze1 (per 《集韻》咨邪切 for "marsh-plant" sense)
+  - zeoi3 (per ::《集韻》[將]豫切:: for "marsh-plant" sense)
+  ==
 F
   ==
   - [[F1.44 菹]] 淹菜
@@ -273,10 +278,10 @@ W
   ====
   - [[Page~594 (1)菹]]
     ==
-    - Pickled fruits, like melons;
+    - Pickled fruits, like melons [[Kangxi: 酢菜也]];
     - salted vegetables;
-    - a marshy plant or sedge;
-    - a marsh.
+    - a marshy plant or sedge [[Kangxi: 澤生草曰菹]];
+    - ~~a marsh.~~
     ==
   ====
 $$
