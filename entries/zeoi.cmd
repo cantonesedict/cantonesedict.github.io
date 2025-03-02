@@ -797,6 +797,10 @@ R
   ⿒ + 5
 U
   U+9F5F
+V
+  ==
+  - zeoi6 (per 《廣韻》牀吕切)
+  ==
 F
   ==
   - [[F1.46 齟]] 齟齬不相合也
@@ -805,9 +809,9 @@ W
   ====
   - [[Page~595 (2)齟]]
     ==
-    - Irregular teeth, which do not interlock easily;
+    - Irregular teeth, which do not interlock easily [[Kangxi: 齒不相値曰齟齬]];
     - discordant, as opinions, incongruous;
-    - to bite, to chew.
+    - to bite, to chew [[Kangxi: 齧也, 嚼也]].
     ==
   ====
 C
