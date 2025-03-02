@@ -175,7 +175,7 @@ W
   ====
   - [[Page~594 (1)疽]]
     ==
-    - A deep-seated ulcer;
+    - A deep-seated ulcer [[Kangxi: 久癰也]];
     - a carbuncle or anthrax;
     - _(1)yung (1)ts(u:)_
         [[jung1 zeoi1 癰疽]],
