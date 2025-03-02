@@ -490,14 +490,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Not present in Williams;
-    an entry is included here for completeness.
-    ++
-    1. Short-tailed birds in general.
-    ++
-  ==
+P
+  ++
+  1. Short-tailed birds in general (Kangxi: 鳥之短尾總名也).
+  ++
 $$
 
 ###+ 雎1 | _(1)Ts(u:)_ (zeoi1)
