@@ -832,11 +832,11 @@ W
     --
   - [[Page~576 (2)井]]
     ==
-    - A well;
+    - A well [[Kangxi: 穴地出水曰井]];
     - a deep pit;
-    - a field laid out regularly;
+    - a field laid out regularly [[Kangxi: 田九百畝曰井象九區之形]];
     - to draw water;
-    - arranged, laid out regularly;
+    - arranged, laid out regularly [[Kangxi: 井井經畫端整貌]];
     - _(2)tseng (2)shui_
         [[zeng2 seoi2 井水]],
         well water;
@@ -869,6 +869,11 @@ W
         to rinse the old well, _i.~e._ to marry a rich widow.
     ==
   ====
+C
+  ==
+  - Williams' "a field laid out regularly": Not wrong,
+    but misses the definition as nine hundred _mau_ (畝) of land area.
+  ==
 S
   ==
   - $井zeng2
