@@ -1507,17 +1507,18 @@ W
   ====
   - [[Page~577 穽(6)阱(6)]]
     ==
-    - A pit, a pitfall, a hole to catch beasts in [[Kangxi: 坑也, 陷也]];
-    - to fall into a pit;
+    - A pit, a pitfall, a hole to catch beasts in [[Kangxi 阱: 坑也, 陷也]];
+    - ~~to fall into a pit;~~
     - _h(a/)m(6) tsing(6)_
         [[haam6 zing6 陷阱]]
-        to tumble into a hole.
+        ~~to tumble into~~ a hole.
     ==
   ====
 C
   ==
-  - Williams' 陷阱: In modern usage, only used as a noun.
-    Note 陷 is commonly read short as _ham(6)_ (ham6).
+  - Williams' "to fall into a pit": This is a misreading of Kangxi 陷也,
+    which is intended as a noun, not a verb.
+  - Williams' 陷阱: Changed _h(a/)m(6)_ (haam6) to common reading _ham(6)_ (ham6).
   ==
 S
   ==
