@@ -231,7 +231,7 @@ U
 V
   ==
   - ceoi1 (per 《廣韻》七余切 for "grass-insole" sense)
-  - zeoi2 (alternative per 《廣韻》子與切 for "grass-insole" sense)
+  - zeoi2 (per 《廣韻》子與切 for "grass-insole" sense)
   ==
 F
   ==
@@ -241,9 +241,9 @@ W
   ====
   - [[Page~594 (1)苴]]
     ==
-    - The female hemp plant;
+    - ~~The female~~ hemp ~~plant~~ [[Kangxi: 麻也]];
     - sackcloth;
-    - a rush, a sedge used for sandals;
+    - a rush, a sedge used for sandals [[Kangxi: 履中草]];
     - coarse, unpolished;
     - _(1)ts(u:) p(o\)(3)_
         [[zeoi1 bou3 苴布]]
