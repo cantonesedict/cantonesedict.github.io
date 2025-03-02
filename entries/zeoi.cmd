@@ -394,12 +394,12 @@ W
   ====
   - [[Page~33* (1)追]]
     ==
-    - To pursue, to follow after;
-    - to come up with, to overtake, to catch;
+    - To pursue [[Kangxi: 逐也]], to follow after [[Kangxi: 隨也]];
+    - to come up with [[Kangxi: 送也]], to overtake, to catch [[Kangxi: 逮也]];
     - to sue;
-    - to seek out, to trace back;
+    - to seek out, to trace back [[Kangxi: 凡上遡已往曰追]];
     - to reflect on, to look back on, retrospective;
-    - to expel;
+    - ~~to expel;~~
     - _(1)chui (2)kon_
         [[zeoi1 gon2 追趕]],
         to chase;
@@ -409,9 +409,9 @@ W
     - _(1)chui f(u/)i(3)_
         [[zeoi1 fui3 追悔]]
         to feel remorse;
-    - _(1)chui h(u:)(3)_
+    - ~~_(1)chui h(u:)(3)_
         [[zeoi1 heoi3 追去]]
-        to drive out;
+        to drive out~~;
     - _(1)chui kau(3)_
         [[zeoi1 gau3 追究]]
         to investigate thoroughly;
@@ -438,6 +438,8 @@ W
 C
   ==
   - Fan Wan entry: 追也 is self-referential.
+  - Williams' "to sue": In the sense of seeking by request.
+  - Williams' "to expel": This is a misreading of Kangxi 逐也.
   ==
 $$
 
