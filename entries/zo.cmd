@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zo
-* %date-modified --> 2025-02-26
+* %date-modified --> 2025-03-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -405,7 +405,7 @@ W
     --
   - [[Page~26* 詛(3)]]
     ==
-    - To curse, to imprecate;
+    - To curse, to imprecate [[Kangxi: 詶也, 呪詛]];
     - bad language, curses;
     - _chau(3) cho(3)_
         [[zau3 zo3 咒詛]]
@@ -418,7 +418,9 @@ C
   - Williams records _ch(u\)_ (zoe) and _ch(u:)_ (zyu)
     as alternative readings without specifying the tone.
     The former I cannot justify.
-    The latter is consistent with Kangxi quoting 《集韻》遵遇切娵去聲.
+    The latter rhymes with 《集韻》遵遇切 _ts(u:)(3)_ (zyu3)^, explained 詶也,
+    and also with 咀 _(2)ts(u:)_,
+    but in both cases the pre-merger initial is inconsistent.
   - The common reading zeoi2 is perhaps from identifying 詛咒 with 咀咒,
     noting that Fan Wan considers 咀 an alternative form of 詛 _cho(3)_ (zo3).
   ==

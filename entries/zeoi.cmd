@@ -780,10 +780,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Reading variation. **See $詛zo3 for the canonical entry.**
-  ==
+P
+  ++
+  1. Reading variation. **See $詛zo3 for the canonical entry.**
+  ++
 S
   ==
   - $詛zo3
