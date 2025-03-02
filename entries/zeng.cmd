@@ -227,12 +227,12 @@ W
   ====
   - [[Page~21* 鄭(6) _Ch(')^ing(6)_ (cing6); here corrected to _Ching(6)_ (zing6) and normalised to _Cheng(6)_ (zeng6)]]
     ==
-    - A feudal state in the Chau [[周]] dynasty,
+    - A feudal state [[Kangxi: 國名]] in the Chau [[周]] dynasty,
       now the prefecture of K(a/)ifung [[開封]] in Hon(a/)n [[河南]];
     - it was first placed where the capital of Shens(i/) [[陝西]] lies;
     - _[cheng](6) chung(6)_
         [[zeng6 zung6 鄭重]]
-        prudent, inflexible.
+        prudent, ~~inflexible~~.
     ==
   ====
 C
