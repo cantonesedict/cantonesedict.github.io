@@ -371,7 +371,7 @@ W
   ====
   - [[Page~594 (1)趄]]
     ==
-    - To walk slowly, impeded in going;
+    - To walk slowly, impeded in going [[Kangxi: 趑趄也]];
     - _(1)tsz' (1)ts(u:)_
         [[zi1 zeoi1 趑趄]],
         hobbling, walking step by step.
