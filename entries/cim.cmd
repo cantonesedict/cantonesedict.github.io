@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2025-02-14
+* %date-modified --> 2025-03-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -544,6 +544,11 @@ W
     - an awl, a graver.
     ==
   ====
+C
+  ==
+  - The reading _(1)ts(')(i/)m_ (cim1) is not unattested;
+    《集韻》 has the reading 千廉切, explained 刻也.
+  ==
 S
   ==
   - $鋟cam1
