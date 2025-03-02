@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2025-02-16
+* %date-modified --> 2025-03-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1232,16 +1232,12 @@ W
   ====
   - [[Page~612 (1)觜]]
     ==
-    - The 21st~zodiacal constellation,
+    - The 21st~zodiacal constellation [[Kangxi: 星名觜觿西方宿也]],
       consisting of λ and 2π in Orion's head.
     ==
     --
-    Read _(1)tsui_ [[zeoi1]];
+    [[...]]
     --
-    ==
-    - [[**See $觜zeoi1**]];
-    - [[see $觜zeoi2 for "pout" senses]].
-    ==
   ====
 S
   ==

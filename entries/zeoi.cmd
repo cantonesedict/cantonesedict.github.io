@@ -339,10 +339,10 @@ W
     Read _(1)tsui_ [[zeoi1]];
     --
     ==
-    - the horns of an owl;
+    - the horns of an owl [[Kangxi: ::鴟[舊]頭上角觜也::]];
     - the curved corners of a roof, or ridgepole;
     - to raise the egret on the head;
-    - [[see $觜zeoi2 for "pout" senses]].
+    - [[...]].
     ==
   ====
 S
@@ -610,6 +610,7 @@ U
 A
   ==
   -{.modern} $咀2
+  -{.modern} $觜2
   ==
 F
   ==
@@ -746,13 +747,22 @@ W
     [[...]]
     --
     --
-    Read _(1)tsui_ [[zeoi1]] [[here corrected to _(2)Tsui_ (zeoi2)]];
+    ~~Read _(1)tsui_ [[zeoi1]]~~ [[here corrected to _(2)Tsui_ (zeoi2)]];
     --
     ==
     - [[...]];
-    - to bristle up, to look incensed, to pout the lips in anger.
+    - ~~to bristle up, to look incensed, to pout~~ the lips ~~in anger~~ [[Kangxi: 喙也]].
     ==
+    --
+    [[Alternative form of 嘴. See $嘴zeoi2.]]
+    --
   ====
+C
+  ==
+  - Williams' "to bristle up" etc.: This is a misreading of Kangxi's examples
+    (武人厲其觜吻 and 列膆破觜). There is no inherent connotation of anger in 觜,
+    which simply means "beak" or "lips".
+  ==
 S
   ==
   - $觜zi1
