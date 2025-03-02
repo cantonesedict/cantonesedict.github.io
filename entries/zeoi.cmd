@@ -459,16 +459,16 @@ W
   - [[Page~33* (1)錐]]
     ==
     - An awl, a borer;
-    - a sharp pointed tool;
+    - a sharp pointed tool [[Kangxi: 銳器也]];
     - the apex, the point;
     - to bore;
     - trifling;
     - _(1)chui (1)t(o\) m(u/)t(9)_
         [[zeoi1 dou1 mut6 錐刀末]]
-        a small matter;
+        a small matter [[Kangxi: 錐刀末喩小事]];
     - _(4)m(o\) (1)chui_
         [[mou4 zeoi1 毛錐]],
-        a pencil;
+        a pencil [[Kangxi: 毛錐筆也]];
     - _(1)chui (1)lung_
         [[zeoi1 lung4-1 錐窿]],
         to bore a hole;
