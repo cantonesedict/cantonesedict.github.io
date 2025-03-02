@@ -617,7 +617,7 @@ W
   - [[Page~596 (2)嘴]]
     ==
     - The lips;
-    - a beak, a bill of a bird;
+    - a beak, a bill of a bird [[Kangxi {𠲿=⿰口束}: 鳥喙也]];
     - a spout, a nozzle, an aperture, an adit;
     - to wrangle, to chatter, to talk much and impudently, to give lip;
     - _m(u/)t(8) (5)h(a/) (4)t(')i(u/) (2)tsui_
