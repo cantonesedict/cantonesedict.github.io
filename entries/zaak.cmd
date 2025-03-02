@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2025-02-10
+* %date-modified --> 2025-03-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -960,7 +960,7 @@ A
   ==
 V
   ==
-  - zaak3 (alternative per 《廣韻》陟革切)
+  - zaak3 (per 《廣韻》陟革切)
   ==
 F
   ==
@@ -981,6 +981,13 @@ W
         to disgrace an officer.
     ==
   ====
+C
+  ==
+  - Whilst 《廣韻》 has the headline reading 陟革切 _ch(a/)k(8)_ (zaak3)^,
+    it also has the in-entry alternative 又丈厄切 _ch(a/)k(9)_ (zaak6).
+    It is unclear whether this was intended as a cross-reference
+    or as a genuine alternative for the "blame" sense.
+  ==
 $$
 
 ### 讁6 | _Ch(a/)k(9)_ [[zaak6]]
