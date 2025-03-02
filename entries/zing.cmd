@@ -1507,7 +1507,7 @@ W
   ====
   - [[Page~577 穽(6)阱(6)]]
     ==
-    - A pit, a pitfall, a hole to catch beasts in;
+    - A pit, a pitfall, a hole to catch beasts in [[Kangxi: 坑也, 陷也]];
     - to fall into a pit;
     - _h(a/)m(6) tsing(6)_
         [[haam6 zing6 陷阱]]

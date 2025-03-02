@@ -258,10 +258,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Reading variation (vernacular). **See $阱zing6 for the canonical entry.**
-  ==
+P
+  ++
+  1. Reading variation (vernacular). **See $阱zing6 for the canonical entry.**
+  ++
 S
   ==
   - $阱zing6
