@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2025-02-21
+* %date-modified --> 2025-03-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -123,6 +123,10 @@ R
   ⽔ + 5
 U
   U+6CAE
+V
+  ==
+  - ceoi1 (per 《廣韻》七余切)
+  ==
 F
   ==
   - [[F1.44 沮]] 水名
@@ -131,15 +135,16 @@ W
   ====
   - [[Page~594 (1)沮]]
     ==
-    - The name of an affluent of the Y(a/)ngtsz' ki(a/)ng [[揚子江]]
+    - The name of an affluent of the Y(a/)ngtsz' ki(a/)ng [[揚子江]]  [[Kangxi: 水名, 水出漢中房陵東入江]]
       west of [Kingchau] f(u/) [[荊州府]] in H(u/)peh [[湖北]];
     - an ancient district now the extreme southwest of Shens(i/) [[陝西]].
     ==
   ====
 C
   ==
-  - Based on the presence of a bracket,
-    Williams considers rising-tone _(2)ts(u:)_ (zeoi2)
+  - The reading _(1)ts(u:)_ (zeoi1) is not unattested;
+    《集韻》 has the reading 子余切, explained 水名說文出漢中房陵東入江.
+  - Williams considers rising-tone _(2)ts(u:)_ (zeoi2)
     an acceptable alternative reading for the name sense.
     This is incorrect.
   - Williams' 荊州府: Corrected "K'ingchau" to unaspirated "Kingchau".
@@ -681,7 +686,7 @@ U
   U+6CAE
 V
   ==
-  - ceoi1 (alternative per 《廣韻》七余切)
+  - ceoi1 (alternative per 《廣韻》七余切 for "halt" sense)
   - zeoi6 (per 《廣韻》慈吕切)
   ==
 F
@@ -692,12 +697,12 @@ W
   ====
   - [[Page~594 (2)沮]]
     ==
-    - To stop, to prohibit;
-    - to pass over;
-    - to divulge;
-    - to destroy;
-    - to discomfit;
-    - to scare;
+    - To stop, to prohibit [[Kangxi: 止也]];
+    - ~~to pass over;~~
+    - to divulge [[Kangxi: 沮泄謂泄漏也]];
+    - to destroy [[Kangxi: 壞也]];
+    - to discomfit [[Kangxi: 敗也]];
+    - to scare [[Kangxi: 沮謂恐怖之也]];
     - _(2)ts(u:) (2)ch(i/)_
         [[zeoi2 zi2 沮止]],
         to quash, to stop;
@@ -709,13 +714,16 @@ W
         [[zeoi2 sit3 沮泄]]
         to let out, to blab;
         to issue, as malaria;
-    - [[see $沮zeoi3 for "wet" senses]].
+    - [[...]].
     ==
   ====
 C
   ==
   - The reading _(2)ts(u:)_ (zeoi2) is not unattested;
-    Kangxi quotes 《正韻》再呂切{𠀤=⿱夶一}音咀, explained 止也過也壞也.
+    《洪武正韻牋》 has the reading 再呂切, explained 止之也遏也鬲也抑也.
+  - Williams' "to pass over": Kangxi has 過也, but it is unclear
+    whether this means "pass" or "excessive".
+  - Williams' "discomfit": In the (now) archaic sense of "defeat".
   ==
 S
   ==
