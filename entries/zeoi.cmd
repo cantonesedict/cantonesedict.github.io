@@ -206,20 +206,13 @@ W
     --
     [[Reading variation (for "glare/gaze-up" senses). **See $睢fai1 for the canonical entry.**]]
     --
-    --
-    Read _(1)sui_ [[seoi1]];
-    --
-    ==
-    - [[See $睢fai1 for "self-contented" sense]];
-    - [[otherwise **see $睢seoi1**]].
-    ==
   ====
 C
   ==
   - The reading _(1)ts(u:)_ (zeoi1) for 睢
     is not attested in the Middle Chinese rime books.
     It is possible that Williams has mistaken it for 雎,
-    which is what is present in Fan Wan (see $雎zeoi1).
+    which is what is present in Fan Wan.
   ==
 S
   ==
