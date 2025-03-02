@@ -355,7 +355,7 @@ W
     - The first;
     - _(1)ching (u:)t(9)_
         [[zing1 jyut6 正月]]
-        the first month of the year, January.
+        the first month of the year, January [[Kangxi: 歲之首月也]].
     ==
   ====
 C
@@ -1066,16 +1066,16 @@ W
     --
   - [[Page~19* 正(3)]]
     ==
-    - Correct, straight, right, not awry, erect, even;
+    - Correct [[Kangxi: 是也]], straight, right, not awry, erect [[Kangxi: 方直不曲謂之正]], even;
     - not inclined, not deflected;
-    - regular, usual[,] proper;
-    - the first, principal;
+    - regular, usual[,] proper [[Kangxi: 常也, 物以正爲常]];
+    - the first, principal [[Kangxi: 正長也]];
     - just, at the time of;
     - constant, usual;
     - genuine, real[,] as goods;
     - to put in order;
     - to assume, to enter on, as an office;
-    - to adjust, to govern, to execute the laws, to punish;
+    - to adjust, to govern, to execute the laws, to punish [[Kangxi: 治其罪亦曰正]];
     - _[cheng](3) (4)'m [cheng](3)_
         [[zeng3 m4 zeng3 正唔正]]
         is it proper?
