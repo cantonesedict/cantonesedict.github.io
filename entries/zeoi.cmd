@@ -990,35 +990,35 @@ R
   ⾜ + 0
 U
   U+8DB3
-V
-  ==
-  - zeoi6 (per Fan Wan)
-  ==
 F
   ==
   - [[F1.48 足 _Ts(u:)(6)_ (zeoi6)]] 足恭恭之過也
   ==
 W
   ====
-  - [[Page~598 足(7)]]
+  - [[Page~598 足(7) read _Ts(u:)(6)_ (zeoi6); here corrected to _Ts(u:)(3)_ (zeoi3)]]
     --
     [[...]]
     --
     --
-    Read _ts(u:)(6)_ [[zeoi6]] [[here normalised to _Ts(u:)(3)_ (zeoi3)]];
+    ~~Read _ts(u:)(6)_ [[zeoi6]];~~
     --
     ==
     - to act respectfully in order to flatter one;
-    - careful of one's words;
-    - to increase;
+    - ~~careful of one's words;~~
+    - to increase [[Kangxi: 添物也, 益也]];
     - _ts(u:)[(3)] (1)kung (1)(u:) (4)yan_
         [[zeoi3 gung1 jyu1 jan4 足恭於人]],
         to humor and flatter people.
     ==
   ====
+C
+  ==
+  - Williams' "to flatter one": Better defined as "excessive" (Kangxi: 過也),
+    in that 足恭 means "excessively deferential".
+  ==
 S
   ==
-  - $足zeoi6
   - $足zuk1
   ==
 $$
@@ -1090,7 +1090,6 @@ $$
 - $聚6
 - $藇6
 - $贅6
-- $足6
 - $辠6
 - $隊6
 - $鱮6
@@ -1496,32 +1495,6 @@ W
 C
   ==
   - Fan Wan entry: Corrected {𢪱=⿰扌勿} to 物.
-  ==
-$$
-
-### 足6 | _Ts(u:)(6)_ [[zeoi6]]
-
-$$.
-R
-  ⾜ + 0
-U
-  U+8DB3
-F
-  ==
-  - [[F1.48 足]] 足恭恭之過也
-  ==
-W
-  ====
-  - [[Page~598 足(7)]]
-    --
-    Read _ts(u:)(6)_ [[zeoi6]];
-    [[a reading variation. **See $足zeoi3 for the canonical entry.**]]
-    --
-  ====
-S
-  ==
-  - $足zeoi3
-  - $足zuk1
   ==
 $$
 

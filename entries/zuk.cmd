@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zuk
-* %date-modified --> 2025-01-27
+* %date-modified --> 2025-03-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -526,16 +526,16 @@ W
   ====
   - [[Page~598 足(7)]]
     ==
-    - The leg;
+    - The leg [[Kangxi: 人之足也]];
     - the foot;
-    - enough, sufficient;
+    - enough, sufficient [[Kangxi: 滿也止也]];
     - full, satiated, no deficiency;
     - entirely, in full, wholly;
     - to satisfy, to please;
     - to satisfy the wants of;
     - pure, as silver;
     - actions, conduct;
-    - the 137th~radical of characters relating to going;
+    - the [157th]~radical of characters relating to going;
     - _shap(9) tsuk(7)_
         [[sap6 zuk1 十足]]
         complete in all respects;
@@ -578,19 +578,19 @@ W
         whole dollars alone are reckoned to be full coin.
     ==
     --
-    Read _ts(u:)(6)_ [[zeoi6]]; [[**see $足zeoi6**]].
+    [[...]]
     --
   ====
 C
   ==
+  - Williams radical: Corrected 137th to 157th.
   - Williams' 不足道: More "not worth speaking of", than "beyond description".
   - Williams' 足數唔足: This is dated syntax. In modern Cantonese,
-    it would be 足唔足數, with only the verb hugging the negative.
+    it would be 足唔足數, with only the adjective hugging the negative.
   ==
 S
   ==
   - $足zeoi3
-  - $足zeoi6
   ==
 $$
 
