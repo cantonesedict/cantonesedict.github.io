@@ -1038,7 +1038,7 @@ W
   ====
   - [[Page~597 醉(3)]]
     ==
-    - Exhilirated with drink;
+    - Exhilirated with drink [[Kangxi: 爲酒所酣曰醉]];
     - intoxicated, fuddled, drunken;
     - a debauch;
     - fascinated, enchanted, devoted to, stupefied with;
