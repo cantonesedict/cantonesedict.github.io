@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2025-03-02
+* %date-modified --> 2025-03-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -851,19 +851,19 @@ W
   ====
   - [[Page~597 最(3)]]
     ==
-    - To come together, to assemble;
-    - an adjective denoting the most important, the highest degree of;
-    - very, extremely, exceedingly;
-    - altogether;
+    - To come together, to assemble [[Kangxi: 聚也]];
+    - an adjective denoting the most important, the highest degree of [[Kangxi: 極也, 最爲第一]];
+    - ~~very, extremely, exceedingly;~~
+    - altogether [[Kangxi: 最都凡也]];
     - _tsui(3) sh(i/)n(6)_
         [[zeoi3 sin6 最善]]
-        very good;
+        ~~very good~~;
     - _tsui(3) (4)n(a/)n_
         [[zeoi3 naan4 最難]],
-        very difficult;
+        ~~very difficult~~;
     - _tsui(3) (2)kan i(u/)(3)_
         [[zeoi3 gan2 jiu3 最緊要]]
-        highly important;
+        ~~highly important~~;
     - _tsui(3) (1)s(i/)n_
         [[zeoi3 sin1 最先]],
         first, in the first place;
@@ -872,6 +872,11 @@ W
         the most convenient, very handy.
     ==
   ====
+C
+  ==
+  - Williams' "very, extremely, exceedingly":
+    These should instead be rendered "most", as 最 is superlative.
+  ==
 $$
 
 ###+ 惴3 | _Chui(3)_ (zeoi3)
