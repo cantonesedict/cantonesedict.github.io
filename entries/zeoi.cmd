@@ -968,11 +968,11 @@ W
   ====
   - [[Page~34* 綴(6) _Chui(6)_ (zeoi6); here normalised to _Chui(3)_ (zeoi3)]]
     ==
-    - Connected;
-    - to carry on;
-    - to sew together;
-    - mixed, variegated;
-    - to oversee royal robes.
+    - Connected [[Kangxi: 連也, 緝也]];
+    - to carry on [[Kangxi: 綴言不絕也]];
+    - to sew together [[Kangxi: 綴猶結也]];
+    - mixed, variegated [[Kangxi: 綴雜彩有文之具]];
+    - to oversee royal robes [[Kangxi: 掌衣服 etc.]].
     ==
   ====
 S
