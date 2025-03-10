@@ -1179,11 +1179,11 @@ W
   ====
   - [[Page~595 序(6)]]
     ==
-    - Eastern and western walls ~~or rooms~~ [[Kangxi: 東西牆謂之序]];
-    - a college, a school [[Kangxi: 學也]];
+    - Eastern and western walls ~~or rooms~~ [[Kangxi 序: 東西牆謂之序]];
+    - a college, a school [[Kangxi 序: 學也]];
     - an asylum for old men;
     - a preface, an introduction, an exordium [[Kangxi 敍: 凡書策舉其綱要列卷首爲敍或作序]];
-    - order, precedence, series [[Kangxi: 次也]];
+    - order, precedence, series [[Kangxi 序: 次也]];
     - to follow in order;
     - _ts(')z'(3) ts(u:)(6)_
         [[ci3 zeoi6 次序]]
@@ -1200,6 +1200,17 @@ W
     - _ts(u:)(6) sz'(6) (5)t(')o, tong(3)_
         [[zeoi6 si6 to5 dong3 序事妥當]]
         everything in its order.
+    ==
+  - [[Page~595 敍(6)叙(6)]]
+    ==
+    - Similar to the preceding [[序]];
+    - to arrange, to order, to set in their proper places;
+    - [[...]];
+    - order, series, rank [[Kangxi 敍: 次第也, 敍謂次敍]];
+    - [[...]];
+    - _(1)t(')(i/)n ts(u:)(6)_
+        [[tin1 zeoi6 天敘]]
+        the five social relations.
     ==
   ====
 $$
@@ -1245,11 +1256,10 @@ W
   ====
   - [[Page~595 敍(6)叙(6); here normalised to 敘]]
     ==
-    - Similar to the preceding [[$序6]];
-    - to arrange, to order, to set in their proper places;
+    - [[...]];
     - to meet, to converse;
     - to discourse or argue upon;
-    - order, series, rank;
+    - [[...]];
     - _(1)s(e/)ung ts(u:)(6)_ [[soeng1 zeoi6 相敘]]
         or
       _ts(u:)(6) (4)t(')(a/)m_ [[zeoi6 taam4 敘談]],
@@ -1257,10 +1267,11 @@ W
     - _(5)(i/) ts(u:)(6)_
         [[ji5 zeoi6 議敘]]
         to deliberate upon the proper rewards;
-    - _(1)t(')(i/)n ts(u:)(6)_
-        [[tin1 zeoi6 天敘]]
-        the five social relations.
+    - [[...]].
     ==
+    --
+    [[Otherwise, an alternative form of 序. **See $序zeoi6 for the canonical entry.**]]
+    --
   ====
 $$
 
