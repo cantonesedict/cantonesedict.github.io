@@ -414,13 +414,17 @@ W
   ====
   - [[Page~36* (1)肫]]
     ==
-    - Bones of the face;
-    - earnest, sincere;
+    - Bones of the face [[Kangxi: 面頯也]];
+    - earnest, sincere [[Kangxi: 懇誠貌]];
     - _(1)chun (1)chun_
         [[zeon1 zeon1 肫肫]],
-        decided, firm.
+        ~~decided, firm~~.
     ==
   ====
+C
+  ==
+  - Williams' "decided, firm": Better rendered "earnest" or "sincere".
+  ==
 $$
 
 ### 臻1 | _(1)Tsun_ [[zeon1]]
