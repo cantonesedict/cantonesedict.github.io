@@ -474,6 +474,10 @@ R
   ⾋ + 10
 U
   U+84C1
+V
+  ==
+  - ceon4 (per 《集韻》鋤臻切 for "tree-thicket" sense)
+  ==
 F
   ==
   - [[F2.69 蓁]] 美盛貌
@@ -482,9 +486,9 @@ W
   ====
   - [[Page~601 (1)蓁]]
     ==
-    - Abundant, exuberant herbage;
-    - bushy trees;
-    - collected, an accumulation of;
+    - Abundant, exuberant herbage [[Kangxi: 草盛貌]];
+    - bushy trees [[Kangxi: 與榛通木叢生也]];
+    - collected, an accumulation of [[Kangxi: 積聚之貌]];
     - _(4)k(')(i/) (i/)p(9) (1)tsun (1)tsun_
         [[kei4 jip6 zeon1 zeon1 其葉蓁蓁]],
         how abundant is the foliage.
