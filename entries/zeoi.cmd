@@ -1209,7 +1209,7 @@ W
     - order, series, rank [[Kangxi 敍: 次第也, 敍謂次敍]];
     - [[...]];
     - _(1)t(')(i/)n ts(u:)(6)_
-        [[tin1 zeoi6 天敘]]
+        [[tin1 zeoi6 天序]]
         the five social relations.
     ==
   ====
