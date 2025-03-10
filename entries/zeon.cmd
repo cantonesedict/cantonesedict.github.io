@@ -330,14 +330,17 @@ W
   ====
   - [[Page~601 (1)溱]]
     ==
-    - A small stream in Hon(a/)n [[河南]],
+    - A small stream in Hon(a/)n [[河南]] [[Kangxi: 水名在河南]],
       one of the headwaters of the R.~Hw(a/)i [[淮]];
-    - to reach to;
+    - [[...]];
     - _(1)tsun (1)tsun_
         [[zeon1 zeon1 溱溱]],
-        numerous, abundant;
-        at ease, loose.
+        numerous, abundant [[Kangxi: 溱溱衆也, 溱溱盛貌]];
+        at ease, loose [[Kangxi: 舒也]].
     ==
+    --
+    [[Otherwise, an alternative form of 臻. **See $臻zeon1 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -427,12 +430,22 @@ R
   ⾄ + 10
 U
   U+81FB
+A
+  ==
+  - $溱1
+  ==
 F
   ==
   - [[F2.69 臻]] 至也
   ==
 W
   ====
+  - [[Page~601 (1)溱]]
+    ==
+    - [[...]];
+    - to reach to [[Kangxi 溱: 至也與臻同]];
+    - [[...]].
+    ==
   - [[Page~601 (1)臻]]
     ==
     - To arrive or extend to;
