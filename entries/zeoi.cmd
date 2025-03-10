@@ -1418,12 +1418,12 @@ W
   ====
   - [[Page~595 聚(6)]]
     ==
-    - To assemble, to congregate, to gather;
+    - To assemble, to congregate [[Kangxi: 會也]], to gather [[Kangxi: 斂也]];
     - to meet;
     - to tend to, to concur;
-    - to incline towards, popular;
+    - to incline towards, popular [[Kangxi: 聚謂衆所宜]];
     - to collect, to dwell together;
-    - a dwelling-place, a village;
+    - a dwelling-place, a village [[Kangxi: 居也邑落也, 聚謂村落也]];
     - a conjunction, a meeting;
     - a place of meeting;
     - _ts(u:)(6) (2)shau_
