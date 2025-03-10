@@ -741,12 +741,12 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~612 (1)觜]]
+  - [[Page~612 (1)觜 read _(1)tsui_ (zeoi1); here corrected to _(2)Tsui_ (zeoi2)]]
     --
     [[...]]
     --
     --
-    ~~Read _(1)tsui_ [[zeoi1]]~~ [[here corrected to _(2)Tsui_ (zeoi2)]];
+    ~~Read _(1)tsui_ [[zeoi1]];~~
     --
     ==
     - [[...]];
