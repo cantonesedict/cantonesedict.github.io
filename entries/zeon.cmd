@@ -222,11 +222,11 @@ W
   - [[Page~600 (1)樽(1)罇(1)尊]]
     ==
     - A vase for libations;
-    - a vase for wine;
+    - a vase for wine [[Kangxi 樽: 酒器也]];
     - a bottle, a decanter;
     - a vase, a jar;
-    - full, flourishing foliage;
-    - to stop;
+    - full, flourishing foliage [[Kangxi 樽: ::[...]樽乃林木茂盛之字::]];
+    - to stop [[Kangxi 樽: 止也]];
     - _yat(7) (1)tsun (2)tsau_
         [[jat1 zeon1 zau2 一樽酒]],
         a bottle of spirits;
