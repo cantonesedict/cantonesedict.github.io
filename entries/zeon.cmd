@@ -452,10 +452,10 @@ W
     ==
   - [[Page~601 (1)臻]]
     ==
-    - To arrive or extend to;
+    - To arrive or extend to [[Kangxi: 至也, 及也]];
     - the utmost, the highest degree;
-    - many, a multitude;
-    - to collect, to congregate;
+    - many, a multitude [[Kangxi: 衆也]];
+    - to collect, to congregate [[Kangxi: 聚也]];
     - _p(a/)k(8) fuk(7) (4)p(')ing (1)tsun_
         [[baak3 fuk1 ping4 zeon1 百福駢臻]],
         may all happiness come here.
