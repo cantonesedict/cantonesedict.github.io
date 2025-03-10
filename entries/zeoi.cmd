@@ -1489,11 +1489,11 @@ W
   ====
   - [[Page~34* 贅(6)]]
     ==
-    - To pledge, to pawn;
-    - connected with, hanging to, an excrescence, a useless appendage;
+    - To pledge, to pawn [[Kangxi: 以物質錢]];
+    - connected with, hanging to [[Kangxi: 贅屬也, 贅猶綴也謂繫綴而屬之]], an excrescence [[Kangxi: 贅屬也橫生一肉屬著體也]], a useless appendage;
     - a blemish;
     - unsuitable;
-    - tautology, verbiage;
+    - tautology, verbiage [[Kangxi: 言煩也]];
     - a postscript;
     - _yap(9) chui(6)_
         [[jap6 zeoi6 入贅]]
