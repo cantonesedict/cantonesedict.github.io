@@ -552,7 +552,7 @@ W
   ====
   - [[Page~36* (1)迍]]
     ==
-    - A vain effort to progress;
+    - A vain effort to progress [[Kangxi: 迍邅也]];
     - _(1)chun (1)ch(i/)n_
         [[zeon1 zin1 迍邅]],
         making no advance, unsuccessful.
