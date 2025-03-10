@@ -184,15 +184,17 @@ W
   ====
   - [[Page~601 (1)榛]]
     ==
-    - A fruit like the hazel or filbert, smaller than the chestnut;
-    - wood, brushwood;
-    - thorny bushes, as in thickset hedges.
+    - A fruit like the hazel or filbert, smaller than the chestnut [[Kangxi: 果實如小栗]];
+    - ~~wood, brushwood;~~
+    - thorny bushes, as in thickset hedges [[Kangxi: 一曰蕪也]].
     ==
   ====
 C
   ==
   - Strictly, the pre-merger reading should be _(1)chun_ per 《廣韻》側詵切.
   - Fan Wan entry: Changed 橧 to 檜.
+  - Williams' "wood, brushwood": This is a misreading of Kangxi 木也,
+    which means "[a type of] tree".
   ==
 $$
 
