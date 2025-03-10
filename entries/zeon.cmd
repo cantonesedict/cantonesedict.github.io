@@ -280,11 +280,11 @@ W
   ====
   - [[Page~600 (1)津]]
     ==
-    - A ford, a ferry;
+    - A ford [[Kangxi: 渡也, 津是渡處]], a ferry;
     - a landing-place, a ghaut;
     - to ford, to cross a stream;
-    - to imbue, to moisten, to soften by soaking;
-    - to split wood by the hands;
+    - to imbue, to moisten [[Kangxi: 潤也]], to soften by soaking;
+    - ~~to split wood by the hands;~~
     - spittle;
     - _(1)tsun (4)l(e/)ung_
         [[zeon1 loeng5 津梁]],
