@@ -1110,7 +1110,10 @@ W
   ====
   - [[Page~595 敍(6)叙(6)]]
     --
-    [[Alternative form of 敘. **See $敘zeoi6 for the canonical entry.**]]
+    [[Alternative form of 序. **See $序zeoi6 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 敘. **See $敘zeoi6 for the canonical entry.**]]
     --
   ====
 $$
@@ -1176,11 +1179,11 @@ W
   ====
   - [[Page~595 序(6)]]
     ==
-    - Eastern and western walls or rooms;
-    - a college, a school;
+    - Eastern and western walls ~~or rooms~~ [[Kangxi: 東西牆謂之序]];
+    - a college, a school [[Kangxi: 學也]];
     - an asylum for old men;
-    - a preface, an introduction, an exordium;
-    - order, precedence, series;
+    - a preface, an introduction, an exordium [[Kangxi 敍: 凡書策舉其綱要列卷首爲敍或作序]];
+    - order, precedence, series [[Kangxi: 次也]];
     - to follow in order;
     - _ts(')z'(3) ts(u:)(6)_
         [[ci3 zeoi6 次序]]
