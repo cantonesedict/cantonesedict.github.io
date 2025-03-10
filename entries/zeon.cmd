@@ -137,6 +137,9 @@ R
   ⼬ + 1
 U
   U+5C6F
+H
+  May appear with first stroke ㇐ (assumed here) or ㇒,
+  depending on the font.
 F
   ==
   - [[F2.52 屯]] ::[高]屯難也屈也::
@@ -145,9 +148,9 @@ W
   ====
   - [[Page~36* (1)屯]]
     ==
-    - Budding plants;
-    - difficult to proceed;
-    - avaricious;
+    - ~~Budding plants;~~
+    - difficult to proceed [[Kangxi: 屯邅難行不進貌]];
+    - avaricious [[Kangxi: 吝也]];
     - pressed down;
     - the 3d of the diagrams.
     ==
@@ -155,6 +158,10 @@ W
 C
   ==
   - Fan Wan entry: Corrected missing bottom-left in 高.
+  - Williams' "Budding plants": This is a misreading of Kangxi 象艸木之初生
+    as a definition, when it is simply the 《說文》 glyph explanation.
+  - Williams' "difficult to proceed": Ideally Williams should have given
+    the noun definition "difficulty" (Kangxi: 難也).
   ==
 S
   ==
