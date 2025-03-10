@@ -1217,7 +1217,10 @@ W
   ====
   - [[Page~595 敍(6)叙(6)]]
     --
-    [[Alternative form of 敘. **See $敘zeoi6 for the canonical entry.**]]
+    [[Alternative form of 序. **See $序zeoi6 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 敘. **See $敘zeoi6 for the canonical entry.**]]
     --
   ====
 $$
