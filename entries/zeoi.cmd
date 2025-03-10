@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2025-03-07
+* %date-modified --> 2025-03-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1135,7 +1135,7 @@ W
   ====
   - [[Page~33* 墜(6)隊(6)]]
     ==
-    - To fall, to tumble over;
+    - To fall, to tumble over [[Kangxi 墜: ::[陊]也::, 落也]];
     - to slide;
     - to fall down;
     - to pull on;
