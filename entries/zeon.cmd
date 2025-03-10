@@ -529,7 +529,7 @@ W
     --
   - [[Page~36* (1)諄]]
     ==
-    - To inculcate, to tell repeatedly;
+    - To inculcate, to tell repeatedly [[Kangxi: 吿曉之熟也, 誨言重複也]];
     - _(1)chun (1)chun (4)(i/)n (1)ch(i/)_
         [[zeon1 zeon1 jin4 zi1 諄諄言之]],
         to make plain, to impress on one.
