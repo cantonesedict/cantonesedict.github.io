@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2025-02-21
+* %date-modified --> 2025-03-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -73,7 +73,7 @@ $$
 
 ### 啍1 | _(1)Chun_ [[zeon1]]
 
-$$
+$$.
 R
   ⼝ + 8
 U
@@ -85,20 +85,10 @@ F
 W
   ====
   - [[Page~36* (1)啍]]
-    ==
-    - Garrulous;
-    - _(1)chun (1)chun_
-        [[zeon1 zeon1 啍啍]],
-        to reiterate, to say over and over.
-    ==
     --
-    Read _(1)[t(')un]_ [[teon1]]; [[**see $啍teon1**]].
+    [[Alternative form of 諄. **See $諄zeon1 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - Williams' "Read [...]": Corrected _(1)tun_ (deon1) to _(1)t(')un_ (teon1).
-  ==
 S
   ==
   - $啍tan1 (TODO)
@@ -487,12 +477,26 @@ R
   ⾔ + 8
 U
   U+8AC4
+A
+  ==
+  - $啍1
+  ==
 F
   ==
   - [[F2.52 諄]] 詳語貌又懇誠也
   ==
 W
   ====
+  - [[Page~36* (1)啍]]
+    ==
+    - Garrulous [[Kangxi 啍: 同諄]];
+    - _(1)chun (1)chun_
+        [[zeon1 zeon1 啍啍]],
+        to reiterate, to say over and over [[Kangxi 啍: 啍啍多言者也]].
+    ==
+    --
+    [[...]]
+    --
   - [[Page~36* (1)諄]]
     ==
     - To inculcate, to tell repeatedly;
