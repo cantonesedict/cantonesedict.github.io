@@ -1316,8 +1316,8 @@ W
   ====
   - [[Page~33* 縋(6)]]
     ==
-    - A rope;
-    - to let down by a cord;
+    - A rope [[Kangxi: 縋繩索也]];
+    - to let down by a cord [[Kangxi: 以繩有所懸也]];
     - _chui(6) lok(9)_
         [[zeoi6 lok6 縋落]]
         to let down, as into a well, or over a wall;
