@@ -1348,10 +1348,10 @@ W
   ====
   - [[Page~598 罪(6)辠(6)]]
     ==
-    - A bamboo net for fish;
+    - A bamboo net for fish [[Kangxi 罪: 捕魚竹罔]];
     - to become entangled in the net of the law;
     - trespass, crime, sin, fault;
-    - a violation of the rules of the land or decorum;
+    - a violation of the rules of the land or decorum [[Kangxi 辠: ::辠犯法也[...]秦以辠似皇字改爲罪::]];
     - to criminate, to regard as a criminal;
     - punishment, retribution;
     - _tak(7) ts(u/)i(6) (1)(u:) (1)t(')(i/)n_
