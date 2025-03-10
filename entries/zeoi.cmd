@@ -1458,10 +1458,10 @@ W
   ====
   - [[Page~595 藇(6)]]
     ==
-    - Good, agreeable, pleasant, as liquor.
+    - Good, agreeable, pleasant [[Kangxi: 美貌]], as liquor.
     ==
     --
-    Read _(4)(u:)_ [[jyu4]], [[**see $藇jyu4**]].
+    [[...]]
     --
   ====
 S
