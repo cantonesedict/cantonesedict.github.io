@@ -363,7 +363,7 @@ W
   ====
   - [[Page~36* (1)窀]]
     ==
-    - To inter;
+    - To inter [[Kangxi: 窀穸下棺也]];
     - _(1)chun tsik(9)_
         [[zeon1 zik6 窀穸]]
         the grave;
