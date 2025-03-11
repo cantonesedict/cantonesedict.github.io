@@ -850,9 +850,9 @@ W
   ====
   - [[Page~611 (1)緇]]
     ==
-    - Dark colored silk, dyed many times;
-    - the dark color of a sediment;
-    - black;
+    - Dark colored silk [[Kangxi: 帛黑色, 緇謂之皁]], dyed many times [[Kangxi: 七入爲緇, 緅又復再染以黑乃成緇矣]];
+    - the dark color of a sediment [[Kangxi: 緇滓也泥緇黑色者曰滓此色然也]];
+    - black [[Kangxi: 緇黑色]];
     - _(1)tsz' (1)(i/)_
         [[zi1 ji1 緇衣]],
         black garments.
@@ -861,7 +861,7 @@ W
 C
   ==
   - Strictly, the pre-merger reading should be _(1)ch(i/)_ per 《廣韻》側持切.
-  - Fan Wan entry: The explanation seems to be for $輜1, not 緇.
+  - Fan Wan entry: The explanation seems to be for 輜, not 緇.
   ==
 $$
 
