@@ -1467,10 +1467,10 @@ W
   ====
   - [[Page~611 (1)輜]]
     ==
-    - End of the axle within the nave;
-    - treasure wagons, or such as carry arms and spoil;
-    - large wagons with places for sleeping and carrying stores;
-    - manure carts;
+    - [[...]];
+    - ~~treasure wagons, or such as carry arms and spoil;~~
+    - large wagons with places for sleeping and carrying stores [[Kangxi: 輜車載輜重臥息其中之車也]];
+    - ~~manure carts;~~
     - _(1)tsz' chung(6)_
         [[zi1 zung6 輜重]]
         baggage wagons of an army.
@@ -1479,7 +1479,13 @@ W
 C
   ==
   - Strictly, the pre-merger reading should be _(1)ch(i/)_ per 《廣韻》側持切.
-  - Fan Wan entry: Seems to have been erroneously placed under $緇1.
+  - Fan Wan entry: Seems to have been erroneously placed under 緇.
+  - Williams' "manure carts": This is a misreading of Kangxi 厠也.
+    Here, 厠 means "mingled", not "toilet".
+  ==
+S
+  ==
+  - $輜zi3
   ==
 $$
 
@@ -2982,6 +2988,7 @@ $$
 - $贄3
 - $躓3
 - $輊3
+- $輜3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -3837,6 +3844,46 @@ W
       or turning down, from the lading.
     ==
   ====
+$$
+
+###+ 輜3 | _Ch(i/)(3)_ (zi3)
+
+$$
+R
+  ⾞ + 8
+U
+  U+8F1C
+A
+  ==
+  - $菑3
+  -{.modern} 葘
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~611 ::~~(1)甾~~(1)菑:: _(1)Tsz'_ (zi1); here corrected to _Ch(i/)(3)_ (zi3)]]
+    --
+    [[...]]
+    --
+    --
+    Occurs used for the next [[輜]].
+    --
+  - [[Page~611 (1)輜 _(1)Tsz'_ (zi1); here corrected to _Ch(i/)(3)_ (zi3)]]
+    ==
+    - ~~End of the axle~~ within the nave [[Kangxi: 車輻入牙曰輜, 與葘通, 葘謂輻入轂中者也]];
+    - [[...]].
+    ==
+  ====
+C
+  ==
+  - Williams' "End of the axle": Not quite.
+    Better rendered as "spokes going into the nave".
+  ==
+S
+  ==
+  - $輜zi1
+  ==
 $$
 
 
