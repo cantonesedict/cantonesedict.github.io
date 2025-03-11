@@ -1073,7 +1073,7 @@ For all radicals, see [Index of characters by radical](./).
       - $萇coeng4
       - $菜coi3
       - $菹zeoi1
-      - {$菑zi1, $菑zoi1}
+      - {$菑zi1, $菑zi3, $菑zoi1}
       - $菁zing1
       - {$著zoek3, $著zoek6, $著zyu3}
       ==

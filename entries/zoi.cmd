@@ -302,13 +302,14 @@ F
   ==
 W
   [[Not present]]
-C
-  ==
-  - Alternative form of 災. **See $災zoi1 for the canonical entry.**
-  ==
+P
+  ++
+  1. Alternative form of 災. **See $災zoi1 for the canonical entry.**
+  ++
 S
   ==
   - $菑zi1
+  - $菑zi3
   ==
 $$
 

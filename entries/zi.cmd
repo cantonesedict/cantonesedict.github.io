@@ -1096,6 +1096,7 @@ U
 A
   ==
   - $甾1
+  -{.modern} 葘
   ==
 F
   ==
@@ -1105,25 +1106,24 @@ W
   ====
   - [[Page~611 (1)甾(1)菑]]
     ==
-    - Waste, untilled land, overgrown, jungly;
+    - Waste, untilled land, overgrown, jungly [[Kangxi: 不耕田也]];
     - to clear new or waste land;
-    - ground under cultivation one year;
+    - ground under cultivation one year [[Kangxi: 田一歲曰葘]];
     - to open a road;
-    - to cut, to rend;
-    - a dead tree still standing.
+    - [[...]].
     ==
     --
-    Occurs used for the next [[$輜1]].
+    [[...]]
     --
   ====
 C
   ==
   - Strictly, the pre-merger reading should be _(1)ch(i/)_ per 《廣韻》側持切.
   - Fan Wan entry: Corrected 革 to 草.
-  - Williams' "used for the next": I have not seen 菑 used for 輜.
   ==
 S
   ==
+  - $菑zi3
   - $菑zoi1
   ==
 $$
@@ -2974,6 +2974,7 @@ $$
 - $胾3
 - $至3
 - $致3
+- $菑3
 - $觶3
 - $誌3
 - $識3
@@ -3592,6 +3593,49 @@ C
   ==
   - Williams' 致使佢來: Corrected _shai(3)_ (sai3) to _(2)shai_ (sai2).
   - Williams' 致命: Now "fatal".
+  ==
+$$
+
+###+ 菑3 | _Ch(i/)(3)_ _Tsz'(3)_ (zi3)
+
+$$
+R
+  ⾋ + 8
+U
+  U+83D1
+A
+  ==
+  -{.modern} 葘
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~611 ::~~(1)甾~~(1)菑:: _(1)Tsz'_ (zi1); here corrected to _Ch(i/)(3)_ and _Tsz'(3)_ (zi3)]]
+    ==
+    - [[...]];
+    - to cut, to rend [[Kangxi: 剖也裂也]];
+    - a dead tree still standing [[Kangxi: 木立死曰葘]].
+    ==
+    --
+    [[...]]
+    --
+    --
+    [[Otherwise, an alternative form of 輜. **See $輜zi3 for the canonical entry.**]]
+    --
+  ====
+C
+  ====
+  - In terms of pre-merger readings:
+    ==
+    - The "cut/rend" sense is _ch(i/)(3)_ per Kangxi 側吏切; and
+    - The "dead-tree" sense is _tsz'(3)_ per Kangxi 資四切.
+    ==
+  ====
+S
+  ==
+  - $菑zi1
+  - $菑zoi1
   ==
 $$
 
