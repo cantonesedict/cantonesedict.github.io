@@ -364,6 +364,10 @@ W
     [[Otherwise, an alternative form of 孜. **See $孜zi1 for the canonical entry.**]]
     --
   ====
+S
+  ==
+  - $孳zi6
+  ==
 $$
 
 ### 孶1 | _(1)Tsz'_ [[zi1]]
@@ -387,6 +391,10 @@ W
     [[Otherwise, an alternative form of 孜. **See $孜zi1 for the canonical entry.**]]
     --
   ====
+S
+  ==
+  - $孶zi6
+  ==
 $$
 
 ### 巵1 | _(1)Ch(i/)_ [[zi1]]
@@ -3794,6 +3802,8 @@ $$
 - $值6
 - $嗣6
 - $字6
+- $孳6
+- $孶6
 - $寺6
 - $巳6
 - $彘6
@@ -4084,6 +4094,52 @@ W
         a mark, traces of writing.
     ==
   ====
+$$
+
+###+ 孳6 | _Tsz'(6)_ (zi6)
+
+$$
+R
+  ⼦ + 9
+U
+  U+5B73
+A
+  ==
+  -{.modern} $孶6
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Breast transformation (during pregnancy) (Kangxi: 乳化也).
+  ++
+S
+  ==
+  - $孳zi1
+  ==
+$$
+
+###+ 孶6 | _Tsz'(6)_ (zi6)
+
+$$.
+R
+  ⼦ + 10
+U
+  U+5B76
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 孳. **See $孳zi6 for the canonical entry.**
+  ++
+S
+  ==
+  - $孶zi1
+  ==
 $$
 
 ### 寺6 | _Tsz'(6)_ [[zi6]]

@@ -651,7 +651,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $孳zi1
+      - {$孳zi1, $孳zi6}
       ==
       </nav>
   //
@@ -659,7 +659,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $孶zi1
+      - {$孶zi1, $孶zi6}
       ==
       </nav>
 ''
