@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2025-02-14
+* %date-modified --> 2025-03-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1948,6 +1948,7 @@ $$
 - $磁4
 - $祠4
 - $篪4
+- $粢4
 - $糍4
 - $臍4
 - $茨4
@@ -2413,6 +2414,28 @@ W
   ====
 $$
 
+###+ 粢4 | _(4)Ts(')z'_ (ci4)
+
+$$.
+R
+  ⽶ + 6
+U
+  U+7CA2
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~612 (1)粢 _(1)Tsz'_ (zi1); here corrected to _(4)Ts(')z'_ (ci4)]]
+    --
+    [[Alternative form of 餈. **See $餈ci4 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $粢zi1
+  ==
+$$
+
 ###+ 糍4 | _(4)Ts(')z'_ (ci4)
 
 $$.
@@ -2789,6 +2812,7 @@ U
   U+9908
 A
   ==
+  - $粢4
   -{.modern} $糍4
   ==
 F
@@ -2797,6 +2821,11 @@ F
   ==
 W
   ====
+  - [[Page~612 (1)粢 _(1)Tsz'_ (zi1); here corrected to _(4)Ts(')z'_ (ci4) and normalised to 餈]]
+    ==
+    - [[...]];
+    - a cake of glutinous rice [[Kangxi 粢: 稻餠與餈同]].
+    ==
   - [[Page~616 (4)餈]]
     ==
     - Unleavened cakes;
@@ -2805,7 +2834,7 @@ W
         [[jau4 ci4 油餈]]
         cakes fried in fat;
     - _(4)y(e/) (4)ts(')z'_
-        [[je ci4 椰餈]]
+        [[je4 ci4 椰餈]]
         cocoanut flour cakes.
     ==
   ====

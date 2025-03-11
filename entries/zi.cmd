@@ -820,14 +820,18 @@ W
   ====
   - [[Page~612 (1)粢]]
     ==
-    - A common name for grains and pulse;
+    - A common name for grains ~~and pulse~~ [[Kangxi: 稷也]];
     - rice used in sacrifices, which must be of the best;
-    - a cake of glutinous rice.
+    - [[...]].
     ==
   ====
 C
   ==
   - Fan Wan entry: Corrected ⿱禾氺 to 黍.
+  ==
+S
+  ==
+  - $粢ci4
   ==
 $$
 
