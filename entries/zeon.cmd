@@ -1097,12 +1097,12 @@ W
   ====
   - [[Page~602 浚(3)濬(3)]]
     ==
-    - Deep, profound, as water;
+    - Deep, profound [[Kangxi: 深也]], as water;
     - to dig a channel, to deepen a water-course;
-    - deep, serious, as reverence;
+    - deep, serious, as reverence [[Kangxi: 稟浚敬也]];
     - abstruse;
     - well read;
-    - to use part of, to employ;
+    - to use part of, to employ [[Kangxi: 抒也, 抒取出之也]];
     - a district in Hon(a/)n [[河南]];
     - _tsun(3) (2)tseng_
         [[zeon3 zeng2 浚井]],
@@ -1112,7 +1112,7 @@ W
 C
   ==
   - Some modern Cantonese dictionaries prescribe the reading seon3
-    for the proper-name sense, presumably per 《廣韻》私閏切.
+    for the proper-name sense of 浚, presumably per 《廣韻》私閏切.
     To me, it does not make sense for *only* the proper-name sense
     to get this treatment, when 《廣韻》 also has 私閏切 for 濬, explained 深也.
   ==
