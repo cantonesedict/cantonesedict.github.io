@@ -584,11 +584,11 @@ W
   ====
   - [[Page~611 (1)淄]]
     ==
-    - A river in the northeast of Sh(a/)ntung [[山東]] flowing into the sea;
+    - A river in the northeast of Sh(a/)ntung [[山東]] [[Kangxi: 水名]] flowing into the sea;
     - _(1)Tsz' (1)ch(')(u:)n_
         [[zi1 cyun1 淄川]],
         a district in Sh(a/)ntung [[山東]];
-        a dark color.
+    - a dark color [[Kangxi: 黑色曰淄]].
     ==
   ====
 C
