@@ -911,8 +911,8 @@ W
   ====
   - [[Page~601 (2)贐]]
     ==
-    - Precious things;
-    - presents given to friends going on a journey;
+    - Precious things [[Kangxi 賮: 財貨也]];
+    - presents given to friends going on a journey [[Kangxi 賮: 送行財幣也]];
     - _(2)tsun (4)(i/)_
         [[zeon2 ji4 贐儀]],
         parting gifts of ceremony.
