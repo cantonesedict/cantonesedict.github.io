@@ -978,8 +978,8 @@ W
     ==
   - [[Page~602 俊(3)]]
     ==
-    - Similar to the last [[儁]];
-    - superior, remarkable, one of a thousand;
+    - Similar to the last [[儁]] [[Kangxi 俊: ::與儁[...]通::]];
+    - superior, remarkable, one of a thousand [[Kangxi 俊: ::材[過]千人也:: etc.]];
     - eminent;
     - _(1)ying tsun(3)_
         [[jing1 zeon3 英俊]]
