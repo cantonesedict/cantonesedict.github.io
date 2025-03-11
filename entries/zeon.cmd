@@ -688,7 +688,7 @@ W
     - _(2)chun chong(6)_
         [[zeon2 zong6 准狀]]
         grant the petition;
-    - [[see $準zeon2 for "prepare" sense]];
+    - [[...]];
     - _(2)chun (4)hang_
         [[zeon2 hang4 准行]],
         allowed to be done;
@@ -703,7 +703,7 @@ W
         worth just that.
     ==
     --
-    Used for the following [[$凖2]].
+    [[Otherwise, an alternative form of 準. **See $準zeon2 for the canonical entry.**]]
     --
   ====
 $$
