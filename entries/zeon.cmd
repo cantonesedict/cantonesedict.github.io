@@ -1216,10 +1216,10 @@ W
   ====
   - [[Page~602 竣(3)]]
     ==
-    - To stop work, to finish, to complete a task;
-    - completed, done;
-    - to stand still, to wait aside, to retire;
-    - proud;
+    - To stop work, to finish, to complete a task [[Kangxi: 止也]];
+    - completed, done [[Kangxi: 事畢也]];
+    - to stand still, to wait aside, to retire [[Kangxi: 退立也]];
+    - ~~proud;~~
     - _k(o\)(3) tsun(3)_
         [[gou3 zeon3 告竣]]
         to make known the completion;
@@ -1233,7 +1233,11 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Seems to have been erroneously placed under $峻3.
+  - Fan Wan entry: Seems to have been erroneously placed under 峻.
+  - Williams' "proud": This is a misreading of Kangxi 倨也.
+    Here, 倨 is used for 踞.
+    According to 段玉裁's annotations of 《說文》, 倨也 as seen in 《廣韻》
+    is evidence that the explanation of 竣 should be 居也.
   ==
 $$
 
