@@ -1154,7 +1154,7 @@ W
   ====
   - [[Page~602 畯(3)]]
     ==
-    - An officer who superintended the fields;
+    - An officer who superintended the fields [[Kangxi: 農夫也一曰典田官, 田畯田大夫也]];
     - a land-office;
     - a husbandman, a peasant.
     ==
