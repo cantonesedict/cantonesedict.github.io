@@ -241,10 +241,10 @@ W
   ====
   - [[Page~611 (1)咨]]
     ==
-    - To deliberate, to plan, to consult;
+    - To deliberate, to plan, to consult [[Kangxi: 謀事曰咨, 咨謀也]];
     - to state or ask in writing;
     - a document, a dispatch between equals in rank;
-    - an interjection, ah, oh!
+    - an interjection, ah, oh! [[Kangxi: 嗟咨{𨲠=⿰镸差}也, 咨嗟也]]
     - to sigh;
     - _(1)tsz' (4)man_
         [[zi1 man4 咨文]],
