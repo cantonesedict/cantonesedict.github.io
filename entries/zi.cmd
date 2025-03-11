@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2025-03-02
+* %date-modified --> 2025-03-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -108,11 +108,11 @@ W
   - [[Page~38|n81 (1)之]]
     ==
     - A sign of the genitive;
-    - when placed between two nouns or verbs, answers to who, which, that;
+    - when placed between ~~two nouns or verbs~~, answers to who, which, that;
     - a pronoun, he, she, it, them;
     - often used in the abstract, after a noun,
       or as a relative particle, in apposition;
-    - to progress;
+    - ~~to progress;~~
     - to go to;
     - _[t(')ing](3) (1)ch(i/) (1)ch(i/) (4)yan_
         [[ting3 zi1 zi1 jan4 聽之之人]],
@@ -148,6 +148,10 @@ W
   ====
 C
   ==
+  - The senses given in Kangxi are too unsatisfactory
+    to be mapped to Williams' definitions.
+    For example, where Kangxi has 語助辭 "speech-assist word" (i.e. particle),
+    the examples given are actually for the objective pronoun sense.
   - Williams' 聽之之人: Corrected _t(')eng(3)_ (teng3) to _t(')ing(3)_ (ting3).
   ==
 $$
