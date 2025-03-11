@@ -1011,7 +1011,7 @@ W
   - [[Page~38|n81 (1)芝]]
     ==
     - A sort of boletus or branched mushroom,
-      regarded as felicitous from its durability;
+      regarded as felicitous [[Kangxi: 神草也]] from its durability;
     - _(1)ch(i/) (4)m(a/)_
         [[zi1 maa4 芝麻]],
         sesamum;
@@ -1026,6 +1026,13 @@ W
         an elegant house, as of the genii;
         _met._ intimate with good men.
     ==
+  ====
+E
+  ====
+  - 【芝士】 (zi1 si6-2):
+    ++
+    1. Cheese.
+    ++
   ====
 $$
 
