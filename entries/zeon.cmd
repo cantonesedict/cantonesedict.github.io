@@ -790,6 +790,10 @@ R
   ⽕ + 14
 U
   U+71FC
+A
+  ==
+  -{.modern} 㶳
+  ==
 V
   ==
   - zeon6 (per 《廣韻》徐刃切)
@@ -802,10 +806,10 @@ W
   ====
   - [[Page~601 (2)燼]]
     ==
-    - The ashes, embers, snuff, or residue after combustion;
+    - The ashes [[Kangxi 㶳: 火餘也]], embers [[Kangxi 㶳: 火餘木]], snuff [[Kangxi 㶳: 灺也, 燭餘也]], or residue after combustion;
     - a quenched brand;
     - the residuum;
-    - the relics, what is left, as of a conquered people;
+    - the relics, what is left, as of a conquered people [[Kangxi 燼: 燼遺民]];
     - _f(a/)(3) (4)wai (1)f(u/)i (2)tsun_
         [[faa3 wai4 fui1 zeon2 化為灰燼]],
         all turned to ashes;
@@ -1443,10 +1447,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Reading variation. **See $燼zeon2 for the canonical entry.**
-  ==
+P
+  ++
+  1. Reading variation. **See $燼zeon2 for the canonical entry.**
+  ++
 S
   ==
   - $燼zeon2
