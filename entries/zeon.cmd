@@ -1256,10 +1256,10 @@ W
   ====
   - [[Page~601 進(3)]]
     ==
-    - To advance, to enter, to go up or on, to get on;
-    - to present, to bring forward, to introduce, to promote, to recommend;
-    - to make progress in;
-    - to come near;
+    - To advance, to enter, to go up or on, to get on [[Kangxi: 登也, 升也, 前也]];
+    - to present, to bring forward, to introduce, to promote, to recommend [[Kangxi: 薦也]];
+    - to make progress in [[Kangxi: 效也]];
+    - to come near [[Kangxi: 近也]];
     - a promotion, an advance;
     - a division of a hong [[行]];
     - _tsun(3) kung(3)_
