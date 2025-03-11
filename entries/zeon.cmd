@@ -962,12 +962,12 @@ F
   ==
 W
   ====
-  - [[Page~602 雋(3); here corrected to _Tsun(3)_ (zeon3) and normalised to 俊]]
+  - [[Page~602 雋(3) read _Tsui(3)_ (zeoi3); here corrected to _Tsun(3)_ (zeon3) and normalised to 俊]]
     --
     [[...]]
     --
     --
-    [Also] a hero.
+    Also ~~read _tsui(3)_ [[zeoi3]]~~ a hero [[Kangxi 雋: 與儁通]].
     --
   - [[Page~602 儁(3); here normalised to 俊]]
     ==
@@ -994,8 +994,9 @@ C
   - Fan Wan entry: The bottom-right component of the headword 儁
     is printed with the central horizontal stroke wide
     and joining onto the two vertical strokes on the sides.
-  - Williams erroneously marks the "hero" sense of 雋
-    as "read _tsui(3)_ (zeoi3)"; here corrected.
+  - Williams' "read _tsui(3)_": This is a mistaken interpretation of
+    Kangxi ::[將]遂切音醉:: as being applicable to the "hero" sense (與儁通).
+    It is only applicable to the earlier "pestle" sense (本作檇).
   ==
 $$
 
@@ -1367,9 +1368,6 @@ F
 W
   ====
   - [[Page~602 雋(3)]]
-    ==
-    - [[See $雋syun5 for "fatty-flesh" senses]].
-    ==
     --
     [[Alternative form of 俊. **See $俊zeon3 for the canonical entry.**]]
     --
