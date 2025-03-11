@@ -557,7 +557,7 @@ W
   ====
   - [[Page~39|n82 (1)梔]]
     ==
-    - A tree used to dye yellow, a species of Gardenia;
+    - A tree used to dye yellow, a species of Gardenia [[Kangxi: ::[黃木]可染::]];
     - _(4)wong (1)ch(i/)_
         [[wong4 zi1 黃梔]],
         the becho nut, used in dyeing, and as a medicine in fevers.
