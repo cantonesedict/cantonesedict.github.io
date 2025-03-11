@@ -755,14 +755,14 @@ W
     - [[...]].
     ==
     --
-    [[...]]
+    Used for the following [[凖]].
     --
   - [[Page~36* (2)凖; here normalised to 準]]
     ==
-    - To equalize, to fix, to adjust;
+    - To equalize, to fix, to adjust [[Kangxi 準: 謂準擊平正之也]];
     - to level, to measure;
-    - a rule, a [gauge], a plumb, a line;
-    - even, exact, just;
+    - a rule, a [gauge], a plumb, a line  [[Kangxi 準: 平也]];
+    - even, exact, just [[Kangxi 準: 均也]];
     - to run true, as a watch;
     - _(5)yau (2)chun (4)t(')au_
         [[jau5 zeon2 tau4 有準頭]],
