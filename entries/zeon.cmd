@@ -972,9 +972,9 @@ W
   - [[Page~602 儁(3); here normalised to 俊]]
     ==
     - Valiant, brave;
-    - superior, excelling others in skill or wisdom;
-    - to overcome;
-    - unusual, strange.
+    - superior, excelling others in skill or wisdom [[Kangxi 儁: 卓特也]];
+    - to overcome [[Kangxi 儁: 得儁曰克, 勝也]];
+    - unusual, strange [[Kangxi 儁: 異也]].
     ==
   - [[Page~602 俊(3)]]
     ==
@@ -991,6 +991,9 @@ W
   ====
 C
   ==
+  - Fan Wan entry: The bottom-right component of the headword 儁
+    is printed with the central horizontal stroke wide
+    and joining onto the two vertical strokes on the sides.
   - Williams erroneously marks the "hero" sense of 雋
     as "read _tsui(3)_ (zeoi3)"; here corrected.
   ==
