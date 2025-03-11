@@ -792,7 +792,7 @@ W
     ==
     - To respect, to invocate;
     - [[...]];
-    - respect, awe, reverence;
+    - respect, awe, reverence [[Kangxi: 敬也]];
     - [[...]];
     - _[(1)]ch(i/) king(3)_
         [[zi1 ging3 祗敬]]
@@ -1660,10 +1660,10 @@ U
   U+53EA
 A
   ==
-  - $止2
-  - $祇2
-  - $祗2
-  -{.modern} $衹2
+  - $止2 [[for "only" senses]]
+  - $祇2 [[for "only" senses]]
+  - $祗2 [[for "only" senses]]
+  -{.modern} $衹2 (for "only" senses)
   ==
 V
   ==
@@ -2532,15 +2532,15 @@ W
   ====
   - [[Page~40|n83 (2)祗]]
     --
-    [[Reading variation (for "respect" senses). **See $祗zi1 for the canonical entry.**]]
+    [[Reading variation. **See $祗zi1 for the canonical entry.**]]
     --
     --
-    [[Otherwise, an alternative form of 只 (for "only" senses). **See $只zi2 for the canonical entry.**]]
+    [[Otherwise, an alternative form of 只 (for the "only" senses). **See $只zi2 for the canonical entry.**]]
     --
   ====
 C
   ==
-  - Easily confused with 祇, see $祇zi2.
+  - This character is easily confused with 祇 (see $祇zi2).
   ==
 S
   ==
