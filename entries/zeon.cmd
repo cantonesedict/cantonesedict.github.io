@@ -1168,6 +1168,10 @@ R
   ⽬ + 7
 U
   U+7743
+V
+  ==
+  - zyun1 (per 《集韻》遵全切 for name sense)
+  ==
 F
   ==
   - [[F2.54 睃]] 明也
@@ -1176,24 +1180,20 @@ W
   ====
   - [[Page~602 睃(3)]]
     ==
-    - To see;
-    - a man's name;
-    - _Tsun(3) Tsun(3) ch(e/)uk(8)_
+    - To see [[Kangxi: 視也]];
+    - a man's name [[Kangxi: 人名]];
+    - ~~_Tsun(3) Tsun(3) ch(e/)uk(8)_
         [[zeon3 zeon3 zoek3 睃晉灼]]
-        a hero who lived in the H(a/)n [[漢]] dynasty.
+        a hero who lived in the H(a/)n [[漢]] dynasty~~.
     ==
   ====
 C
   ==
-  - Strictly, the proper-name sense
-    should be read _(1)ts(u:)n_ (zyun1);
-    Kangxi has 又遵全切音鐫人名
-    (notwithstanding the common reading of 鐫 is now zeon3).
-  - Williams' 睃晉灼: This is a misreading.
-    Kangxi quotes 《前漢諸侯王表》魯文王睃晉灼讀.
-    This should be punctuated as "魯文王睃。晉灼讀。",
-    with 晉灼讀 indicating that the reading _(1)ts(u:)n_ (zyun1) (for 睃)
-    is a pronunciation according to the scholar 晉灼.
+  - Williams' 睃晉灼: This is a misreading of Kangxi's example,
+    《前漢諸侯王表》魯文王睃晉灼讀.
+    This example should be punctuated as "魯文王睃。晉灼讀。",
+    with 晉灼讀 indicating that the reading _(1)ts(u:)n_ (zyun1)
+    is the pronunciation of 睃 according to the scholar 晉灼.
   ==
 $$
 
