@@ -229,7 +229,7 @@ U
   U+54A8
 A
   ==
-  - $諮1 [[for "consult" senses]]
+  - $諮1 [[for "consultation" senses]]
   ==
 F
   ==
@@ -254,6 +254,14 @@ W
     - _(4)(i/) (1)tsz'_
         [[ji4 zi1 移咨]]
         to send a dispatch.
+    ==
+  - [[Page~611 (1)諮]]
+    --
+    Used for the last [[咨]] [[Kangxi 諮: 與咨同]].
+    --
+    ==
+    - To deliberate, to consult, to devise a way [[Kangxi 諮: 謀也]];
+    - to ask about [[Kangxi 諮: 問也]].
     ==
   ====
 $$
@@ -1302,7 +1310,7 @@ $$
 
 ### 諮1 | _(1)Tsz'_ [[zi1]]
 
-$$
+$$.
 R
   ⾔ + 9
 U
@@ -1316,12 +1324,8 @@ W
   ====
   - [[Page~611 (1)諮]]
     --
-    Used for the last [[$咨1]].
+    [[Alternative form of 咨 (for the "consultation" senses). **See $咨zi1 for the canonical entry.**]]
     --
-    ==
-    - To deliberate, to consult, to devise a way;
-    - to ask about.
-    ==
   ====
 $$
 
