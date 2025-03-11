@@ -704,13 +704,12 @@ W
   ====
   - [[Page~37|n80 (1)知]]
     ==
-    - To know, to perceive, to apprehend;
-    - to be acquainted with;
+    - To know, to perceive, to apprehend [[Kangxi: 識也覺也, 喩也]];
+    - to be acquainted with [[Kangxi: 相交曰知]];
     - to tell, to inform;
-    - a fellow, a friend;
-    - knowledge, wisdom
-      [[correctly departing tone _ch(i/)(3)_ (zi3) when used for $智3]];
-    - to remember;
+    - a fellow, a friend [[Kangxi: 匹也]];
+    - knowledge, [[...]];
+    - to remember [[Kangxi: 猶記憶也]];
     - _(1)ch(i/) kwo(3) p(i/)t(7) (2)koi_
         [[zi1 gwo3 bit1 goi2 知過必改]],
         reform when you know your wrong;
@@ -3178,7 +3177,7 @@ U
   U+667A
 A
   ==
-  -{.modern} $知3
+  - $知3
   ==
 F
   ==
@@ -3186,6 +3185,12 @@ F
   ==
 W
   ====
+  - [[Page~37|n80 (1)知 _(1)Ch(i/)_ (zi1); here corrected to _Ch(i/)(3)_ (zi3) and normalised to 智]]
+    ==
+    - [[...]];
+    - [[...]], wisdom;
+    - [[...]].
+    ==
   - [[Page~9* 智(3)]]
     ==
     - Wisdom, understanding, talent;
@@ -3301,11 +3306,12 @@ U
 F
   [[Not present]]
 W
-  [[Not present]]
-C
-  ==
-  - Alternative form of 智. **See $智zi3 for the canonical entry.**.
-  ==
+  ====
+  - [[Page~37|n80 (1)知 _(1)Ch(i/)_ (zi1); here corrected to _Ch(i/)(3)_ (zi3)]]
+    --
+    [[Alternative form of 智. **See $智zi3 for the canonical entry.**]]
+    --
+  ====
 S
   ==
   - $知zi1
