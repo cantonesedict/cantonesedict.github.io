@@ -620,15 +620,15 @@ W
   ====
   - [[Page~610 (1)滋]]
     ==
-    - Occurs used for the last [[$茲1]];
-    - sweet, pleasant, rich;
+    - ~~Occurs used for the last [[茲]]~~;
+    - sweet, pleasant, rich [[Kangxi: 滋味也]];
     - humid, soft;
-    - to increase, to grow;
+    - to increase, to grow [[Kangxi: 蒔也長也益也]];
     - to enrich, to moisten, to fertilize;
     - to rise, to overflow;
-    - moisture, juices, sap;
-    - numerous, many;
-    - muddy;
+    - moisture, juices, sap [[Kangxi: 液也]];
+    - numerous, many [[Kangxi: 多也蕃也]];
+    - muddy [[Kangxi: 濁也]];
     - _(1)tsz' sz'(6)_
         [[zi1 si6 滋事]]
         to get up a row, to make trouble, to embroil;
@@ -652,8 +652,8 @@ W
   ====
 C
   ==
-  - Williams' "used for the last":
-    I have only seen this in the other direction, i.e. using 茲 for 滋.
+  - Williams' "used for the last": This is a misreading of Kangxi 通作兹,
+    (which indicates that 兹 can be written 滋, not the other way around).
   ==
 $$
 
