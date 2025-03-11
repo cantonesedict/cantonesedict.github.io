@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2025-03-10
+* %date-modified --> 2025-03-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -741,7 +741,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~612 (1)觜 read _(1)tsui_ (zeoi1); here corrected to _(2)Tsui_ (zeoi2)]]
+  - [[Page~612 (1)觜 read _(1)Tsui_ (zeoi1); here corrected to _(2)Tsui_ (zeoi2)]]
     --
     [[...]]
     --
