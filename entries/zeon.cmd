@@ -1327,9 +1327,9 @@ W
   ====
   - [[Page~601 鐫(3)]]
     ==
-    - To engrave, to carve;
+    - To engrave, to carve [[Kangxi: ::一曰[琢]石也::]];
     - to cut, to chissel;
-    - to censure or degrade an officer;
+    - to censure or degrade an officer [[Kangxi: 謫也 etc.]];
     - _(1)san tsun(3)_
         [[san1 zeon3 新鐫]]
         a new edition, as of blocks;
