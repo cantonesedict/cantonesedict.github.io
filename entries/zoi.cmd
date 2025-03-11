@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoi
-* %date-modified --> 2024-12-06
+* %date-modified --> 2025-03-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -276,10 +276,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Alternative form of 災. **See $災zoi1 for the canonical entry.**
-  ==
+P
+  ++
+  1. Alternative form of 災. **See $災zoi1 for the canonical entry.**
+  ++
 S
   ==
   - $甾zi1

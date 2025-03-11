@@ -575,6 +575,10 @@ R
   ⽔ + 8
 U
   U+6DC4
+A
+  ==
+  -{.modern} $甾1
+  ==
 F
   ==
   - [[F2.34 淄]] 黑色水名又臨淄齊地也
@@ -669,7 +673,10 @@ W
   ====
   - [[Page~611 (1)甾(1)菑]]
     --
-    [[Alternative form of 菑. **See $菑zi1 for the canonical entry.**]]
+    [[Alternative form of 淄. **See $淄zi1 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 菑. **See $菑zi1 for the canonical entry.**]]
     --
   ====
 C
