@@ -512,10 +512,10 @@ W
   ====
   - [[Page~38|n81 (1)枝]]
     ==
-    - A branch, a twig;
+    - A branch [[Kangxi: 木別生條也]], a twig;
     - a slender post;
-    - to scatter, to branch off;
-    - a tributary of a river;
+    - to scatter, to branch off [[Kangxi: 散也]];
+    - a tributary of a river [[Kangxi: 水別于他水入于大水及海者命曰枝水]];
     - a classifier of slender things, as pencils, flowers, pens, &c.;
     - _(1)ch(i/) kon(3)_
         [[zi1 gon3 枝幹]]
@@ -537,7 +537,7 @@ W
         Chinese ebony;
     - _(1)sh(a/)n (1)ch(i/)_
         [[saan1 zi1 山枝]],
-        wild (1)s(u:)n-(1)ch(i/) [[酸枝]] wood, a hard timber.
+        wild _(1)s(u:)n-(1)ch(i/)_ [[酸枝]] wood, a hard timber.
     ==
   ====
 $$
