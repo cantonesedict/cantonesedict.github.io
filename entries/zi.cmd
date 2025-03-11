@@ -416,15 +416,21 @@ W
   ====
   - [[Page~38|n81 (1)巵]]
     ==
-    - A goblet;
-    - a cup holding four gills [[四升]];
-    - a syphon;
-    - a vessel for serving rations;
+    - A goblet [[Kangxi: 圜器也]];
+    - a cup holding four gills [[Kangxi: 巵酒器也受四升]];
+    - ~~a syphon;~~
+    - ~~a vessel for serving rations;~~
     - _(2)tsau (1)ch(i/)_
         [[zau2 zi1 酒巵]],
-        a wine syphon.
+        ~~a wine syphon~~.
     ==
   ====
+C
+  ==
+  - Williams' "a vessel for serving rations": This is a misreading of Kangxi 所以節飮食.
+    Here, 節飮食 is the moderation of consumption for self-cultivation,
+    rather than the rationing of food/drink due to limited resources.
+  ==
 $$
 
 ### 支1 | _(1)Ch(i/)_ [[zi1]]
