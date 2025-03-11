@@ -1064,8 +1064,8 @@ W
   ====
   - [[Page~602 峻(3)]]
     ==
-    - High, lofty, steep, as mountains;
-    - impetuous, hasty, stern, severe, as one's temper;
+    - High, lofty, steep, as mountains [[Kangxi: 高也, 險也, 大也]];
+    - impetuous, hasty, stern, severe [[Kangxi: 峭也速也嚴急也]], as one's temper;
     - _tsun(3) (1)tsai_
         [[zeon3 zai1 峻劑]],
         a powerful medicine.
@@ -1073,7 +1073,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: The explanation seems to be for $竣1, not 峻.
+  - Fan Wan entry: The explanation seems to be for 竣, not 峻.
   ==
 $$
 
