@@ -880,7 +880,7 @@ W
   ====
   - [[Page~38|n81 (1)肢]]
     ==
-    - The limbs;
+    - The limbs [[Kangxi: 體四胑也]];
     - _sz'(3) (1)ch(i/)_
         [[sei3 zi1 四肢]],
         the four limbs;
