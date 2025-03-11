@@ -839,10 +839,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Alternative form of 儘. **See $儘zeon2 for the canonical entry.**
-  ==
+P
+  ++
+  1. Alternative form of 儘. **See $儘zeon2 for the canonical entry.**
+  ++
 S
   ==
   - $盡zeon6 (TODO)
