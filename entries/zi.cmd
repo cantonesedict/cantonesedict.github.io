@@ -310,6 +310,13 @@ F
   ==
 W
   ====
+  - [[Page~611 (1)孶]]
+    ==
+    - [[...]];
+    - unwearied, repeated, diligent,
+      in which it is the same as the next [[孜]] [[Kangxi 孳: 與孜同]];
+    - [[...]].
+    ==
   - [[Page~611 (1)孜]]
     ==
     - Unceasing, unwearied effort, untiring diligence [[Kangxi: 一曰力篤愛也勤也]];
@@ -325,7 +332,7 @@ $$
 
 $$
 R
-  ⼦ + 10
+  ⼦ + 9
 U
   U+5B73
 A
@@ -340,13 +347,12 @@ W
   ====
   - [[Page~611 (1)孶; here normalised to 孳]]
     ==
-    - To bear, to produce;
+    - To bear, to produce [[Kangxi: 孳息也]];
     - to suckle, to nourish, said of animals;
-    - to grow, to increase;
+    - to grow, to increase [[Kangxi 孳: 汲汲生也]];
     - ardent, affectionate, loving;
     - strong love, like a mother's;
-    - unwearied, repeated, diligent,
-      in which it is the same as the next [[$孜1]];
+    - [[...]];
     - _(1)tsz' sik(7)_
         [[zi1 sik1 孳息]]
         to bear young;
@@ -354,6 +360,9 @@ W
         [[maan6 mat6 zi1 sang1 萬物孳生]],
         all things gradually multiply.
     ==
+    --
+    [[Otherwise, an alternative form of 孜. **See $孜zi1 for the canonical entry.**]]
+    --
   ====
 $$
 
@@ -373,6 +382,9 @@ W
   - [[Page~611 (1)孶]]
     --
     [[Alternative form of 孳. **See $孳zi1 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 孜. **See $孜zi1 for the canonical entry.**]]
     --
   ====
 $$
