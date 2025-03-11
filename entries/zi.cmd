@@ -190,10 +190,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Alternative form of 巵. **See $巵zi1 for the canonical entry.**
-  ==
+P
+  ++
+  1. Alternative form of 巵. **See $巵zi1 for the canonical entry.**
+  ++
 $$
 
 ### 吱1 | _(1)Ch(i/)_ [[zi1]]
