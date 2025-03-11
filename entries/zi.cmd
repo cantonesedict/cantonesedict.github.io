@@ -312,7 +312,7 @@ W
   ====
   - [[Page~611 (1)孜]]
     ==
-    - Unceasing, unwearied effort, untiring diligence;
+    - Unceasing, unwearied effort, untiring diligence [[Kangxi: 一曰力篤愛也勤也]];
     - self-denying attachment;
     - _(1)tsz' (1)tsz' (4)wai sh(i/)n(6)_
         [[zi1 zi1 wai4 sin6 孜孜為善]]
