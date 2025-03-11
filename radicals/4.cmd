@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 4-stroke radicals
-* %date-modified --> 2025-02-26
+* %date-modified --> 2025-03-11
 * %copyright-prior-years --> 2024--
 * %meta-description --> index of characters with 4-stroke radicals
 
@@ -1448,7 +1448,7 @@ For all radicals, see [Index of characters by radical](./).
       - {$漼ceoi2, $漼ceoi4}
       - $漕cou4
       - $滯zai6
-      - {$漬zi1, $漬zi3, $漬zik1}
+      - {$漬zi3, $漬zik1}
       - {$漸zim1, $漸zim6}
       - $漳zoeng1
       - $漿zoeng1

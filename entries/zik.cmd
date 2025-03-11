@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2025-02-28
+* %date-modified --> 2025-03-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -359,7 +359,7 @@ W
   ====
   - [[Page~611 (1)漬]]
     --
-    Usually pronounced _tsik(7)_ [[zik1]] [[**see $漬zik1**]].
+    Usually pronounced _tsik(7)_ [[zik1]].
     --
     ==
     - [[...]];
@@ -377,7 +377,6 @@ C
   ==
 S
   ==
-  - $漬zi1
   - $漬zi3
   ==
 $$

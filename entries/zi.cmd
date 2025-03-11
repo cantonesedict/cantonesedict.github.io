@@ -61,7 +61,6 @@ $$
 - $梔1
 - $淄1
 - $滋1
-- $漬1
 - $甾1
 - $知1
 - $祗1
@@ -654,29 +653,6 @@ C
   ==
   - Williams' "used for the last": This is a misreading of Kangxi 通作兹,
     (which indicates that 兹 can be written 滋, not the other way around).
-  ==
-$$
-
-### 漬1 | _(1)Tsz'_ [[zi1]]
-
-$$.
-R
-  ⽔ + 11
-U
-  U+6F2C
-F
-  [[Not present]]
-W
-  ====
-  - [[Page~611 (1)漬]]
-    --
-    [[Idiosyncratic reading from Williams. **See $漬zi3 for the canonical entry.**]]
-    --
-  ====
-S
-  ==
-  - $漬zi3
-  - $漬zik1
   ==
 $$
 
@@ -3241,21 +3217,20 @@ W
   ====
   - [[Page~611 (1)漬 _(1)Tsz'_ (zi1); here corrected to _Tsz'(3)_ (zi3)]]
     --
-    Usually pronounced _tsik(7)_ [[zik1]] [[**see $漬zik1**]].
+    ~~Usually pronounced _tsik(7)_ [[zik1]].~~
     --
     ==
-    - To soak, to steep;
-    - to dye;
+    - To soak, to steep [[Kangxi: 漚也]];
+    - to dye [[Kangxi: 染也]];
     - water-soaked, moldy, damaged by soaking;
     - _tsam(3) tsz'[(3)]_
-        [[zam3 zi3]]
+        [[zam3 zi3 浸漬]]
         under water;
-    - [[see $漬zik1 for "stain" senses]].
+    - [[...]].
     ==
   ====
 S
   ==
-  - $漬zi1
   - $漬zik1
   ==
 $$
