@@ -3434,7 +3434,7 @@ W
   ====
   - [[Page~611 (1)胾 _(1)Tsz'_ (zi1); here normalised to _Ch(i/)(3)_ (zi3)]]
     ==
-    - To cut up meat into steaks or morsels for eating;
+    - To cut up meat into steaks or morsels for eating [[Kangxi: 大臠也, 切肉曰胾]];
     - slices, steaks, bits of meat.
     ==
   ====
