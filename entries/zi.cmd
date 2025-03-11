@@ -971,14 +971,14 @@ W
   ====
   - [[Page~38|n81 (1)脂]]
     ==
-    - Grease, suet, lard, fat;
+    - Grease, suet, lard, fat [[Kangxi: 戴角者脂無角者膏]];
     - hard gums of trees;
-    - _met._ honors, glory;
-    - to grease;
+    - _met._ honors, glory [[Kangxi: 以喩榮祿也]];
+    - to grease [[Kangxi: 用以利物曰脂]];
     - fat animals;
     - _(1)(i/)n (1)ch(i/)_
         [[jin1 zi1 胭脂]],
-        rouge;
+        rouge [[Kangxi: 燕脂以紅藍花汁凝脂爲之 etc.]];
     - _(4)man (1)ch(i/)_
         [[man4 zi1 民脂]],
         the fat of the people, _i.~e._ their money;
