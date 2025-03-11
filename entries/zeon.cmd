@@ -1134,7 +1134,7 @@ W
   ====
   - [[Page~602 浚(3)濬(3)]]
     --
-    [[Alternative form of 浚. **See $浚zeon3 for the canonical entry.**]]
+    [[Alternative form of 浚 (for the "deep", "dig", and proper-name senses). **See $浚zeon3 for the canonical entry.**]]
     --
   ====
 $$
