@@ -449,17 +449,17 @@ W
   - [[Page~38|n81 (1)支]]
     ==
     - To branch, to diverge;
-    - to hold;
+    - ~~to hold;~~
     - to give, to pay;
-    - to prop, to succor;
+    - to prop, to succor [[Kangxi: 持也, 支拄也]];
     - a branch;
     - posterity, descendants;
     - a sept or tribe;
     - to attend to;
     - to bear up, to stand firm;
-    - diverging, parting;
-    - the twelve horary characters;
-    - to measure;
+    - diverging, parting [[Kangxi: 一曰分也]];
+    - the twelve horary characters [[Kangxi: 十二支辰名]];
+    - ~~to measure;~~
     - the 65th~radical;
     - _(1)p(a/)u (1)ch(i/)_
         [[baau1 zi1 包支]],
