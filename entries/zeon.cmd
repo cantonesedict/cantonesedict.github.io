@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2025-03-10
+* %date-modified --> 2025-03-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -646,7 +646,7 @@ W
   ====
   - [[Page~601 (2)儘]]
     ==
-    - Same as _tsun(6)_ [[zeon6]] 盡 to finish; empty; all; the utmost degree;
+    - [[...]]; all; the utmost degree;
     - _(2)tsun (2)ho (5)(i/)_
         [[zeon2 ho2 ji5 儘可以]],
         it can be done;
@@ -1407,7 +1407,7 @@ $$
 </nav>
 <## /tone-6-characters ##>
 
-###+ 儘6 | _Tsun(6)_ (zeon6)
+### 儘6 | _Tsun(6)_ [[zeon6]]
 
 $$.
 R
@@ -1417,11 +1417,15 @@ U
 F
   [[Not present]]
 W
-  [[Not present]]
-C
-  ==
-  - Reading variation. **See $儘zeon2 for the canonical entry.**
-  ==
+  ====
+  - [[Page~601 (2)儘 _(2)Tsun_ (zeon2); _Tsun(6)_ (zeon6) implied]]
+    --
+    [[Alternative form of 盡. **See $盡zeon6 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, a reading variation. **See $儘zeon2 for the canonical entry.**]]
+    --
+  ====
 S
   ==
   - $儘zeon2
@@ -1448,3 +1452,5 @@ S
   - $燼zeon2
   ==
 $$
+
+<## TODO: - Same as _tsun(6)_ [[zeon6]^] 盡 to finish; empty; [[...]^] ##>
