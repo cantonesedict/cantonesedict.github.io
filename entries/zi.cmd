@@ -274,7 +274,7 @@ W
   ====
   - [[Page~612 (1)姿]]
     ==
-    - Manner, gait, form, carriage, air;
+    - Manner, gait, form, carriage, air [[Kangxi: 態也]];
     - beautiful, graceful;
     - agreeable parts;
     - natural endowments;
