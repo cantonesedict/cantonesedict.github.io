@@ -793,6 +793,7 @@ U
 A
   ==
   -{.modern} 㶳
+  - $藎2 [[for "remainder" sense]]
   ==
 V
   ==
@@ -817,11 +818,14 @@ W
         [[jyu4 zeon2 餘燼]],
         the remains, as of embers.
     ==
+  - [[Page~601 (2)藎]]
+    ==
+    - Similar to the last [[燼]];
+    - [[...]];
+    - a residue [[Kangxi 藎: 藎餘也]];
+    - [[...]].
+    ==
   ====
-C
-  ==
-  - The "remainder" sense is also spelt 藎 (see $藎zeon2).
-  ==
 S
   ==
   - $燼zeon6
@@ -868,16 +872,19 @@ W
   ====
   - [[Page~601 (2)藎]]
     ==
-    - Similar to the last [[$燼2]];
-    - a plant whose roots afford a yellow dye;
-    - a residue;
-    - to advance constantly;
-    - sincere, as in attachment to;
+    - [[...]];
+    - a plant whose roots afford a yellow dye [[Kangxi: 藎草一名黃草一名盭草可染黃]];
+    - [[...]];
+    - to advance constantly [[Kangxi: 藎進也]];
+    - sincere, as in attachment to [[Kangxi: 藎忠愛之篤進進無已也]];
     - _(2)tsun (4)shan_ [[zeon2 san4 藎臣]],
         or
       _(1)chung (2)tsun_ [[zung1 zeon2 忠藎]],
         a loyal minister.
     ==
+    --
+    [[Otherwise, an alternative form of 燼 (for the "remainder" sense). **See $燼zeon2 for the canonical entry.**]]
+    --
   ====
 $$
 
