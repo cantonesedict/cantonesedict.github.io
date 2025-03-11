@@ -1165,7 +1165,7 @@ W
   ====
   - [[Page~38|n81 (1)蜘]]
     ==
-    - A spider;
+    - A spider [[Kangxi: 蜘蛛]];
     - _(1)ch(i/) (1)ch(u:)_
         [[zi1 zyu1 蜘蛛]],
         a spider, a general name for all kinds of aranea.
