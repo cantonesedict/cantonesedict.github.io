@@ -954,6 +954,7 @@ A
   ==
   - $儁3
   - $雋3
+  - $駿3
   ==
 F
   ==
@@ -987,6 +988,12 @@ W
     - _(4)kw(')an kwai(3) tsun(3) sau(3)_
         [[kwan4 gwai3 zeon3 sau3 群季俊秀]]
         all distinguished for accomplishments and beauty.
+    ==
+  - [[Page~602 駿(3); here normalised to 俊]]
+    ==
+    - [[...]];
+    - excelling [[Kangxi 駿: 與俊同英儁也]];
+    - [[...]].
     ==
   ====
 C
@@ -1057,6 +1064,10 @@ R
   ⼭ + 7
 U
   U+5CFB
+A
+  ==
+  -{.modern} $駿3
+  ==
 F
   ==
   - [[F2.53 峻]] 退也完也
@@ -1399,15 +1410,21 @@ W
   ====
   - [[Page~602 駿(3)]]
     ==
-    - A steed, a stately, fine horse;
+    - A steed, a stately, fine horse [[Kangxi: 馬之美稱]];
     - dignified, majestic;
-    - large;
-    - excelling;
-    - rapid;
+    - large [[Kangxi: 大也]];
+    - [[...]];
+    - rapid [[Kangxi: 速也, 駿者猶迅也, 駿疾也]];
     - _tsun(3) f(a/)t(8)_
         [[zeon3 faat3 駿發]]
         quick, as in getting rich.
     ==
+    --
+    [[Otherwise, an alternative form of 俊. **See $俊zeon3 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 峻. **See $峻zeon3 for the canonical entry.**]]
+    --
   ====
 $$
 
