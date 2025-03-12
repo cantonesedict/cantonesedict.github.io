@@ -876,7 +876,7 @@ U
 A
   ==
   - $凑3
-  - $輳3 [[for "gather" senses]]
+  - $輳3 (for "gather" senses)
   ==
 F
   ==
@@ -1422,7 +1422,7 @@ U
   U+7587
 A
   ==
-  - $儔4 [[for "who" sense]]
+  - $儔4 (for "who" sense)
   ==
 F
   ==

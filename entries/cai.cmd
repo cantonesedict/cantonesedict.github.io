@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2025-02-11
+* %date-modified --> 2025-03-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -244,7 +244,7 @@ U
 A
   ==
   - $凄1
-  - $悽1 [[for "grieved/afflicted" senses]]
+  - $悽1 (for "grieved/afflicted" senses)
   ==
 F
   ==

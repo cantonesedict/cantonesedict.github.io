@@ -63,7 +63,7 @@ U
   U+4E03
 A
   ==
-  - $柒1 [[anti-alteration]]
+  - $柒1 (anti-alteration)
   ==
 F
   ==

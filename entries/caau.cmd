@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caau
-* %date-modified --> 2025-02-14
+* %date-modified --> 2025-03-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -347,7 +347,7 @@ U
   U+5DE2
 A
   ==
-  - $窠4 [[for vernacular "wrinkled" sense]]
+  - $窠4 (for vernacular "wrinkled" sense)
   ==
 F
   ==

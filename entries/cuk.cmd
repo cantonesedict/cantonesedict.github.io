@@ -365,7 +365,7 @@ U
   U+7C07
 A
   ==
-  - $蔟1 [[for "collect" sense]]
+  - $蔟1 (for "collect" sense)
   ==
 V
   ==

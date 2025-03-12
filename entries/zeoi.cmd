@@ -1167,8 +1167,8 @@ U
   U+5E8F
 A
   ==
-  - $叙6 [[for "order" and "preface" senses]]
-  - $敍6 [[for "order" and "preface" senses]]
+  - $叙6 (for "order" and "preface" senses)
+  - $敍6 (for "order" and "preface" senses)
   - $敘6 (for "order" and "preface" senses)
   ==
 F

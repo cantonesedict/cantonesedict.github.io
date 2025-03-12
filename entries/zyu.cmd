@@ -277,7 +277,7 @@ U
   U+73E0
 A
   ==
-  - $䏭1 [[for "cheek" sense]]
+  - $䏭1 (for "cheek" sense)
   ==
 F
   ==

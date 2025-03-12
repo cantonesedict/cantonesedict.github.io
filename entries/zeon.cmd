@@ -793,7 +793,7 @@ U
 A
   ==
   - 㶳
-  - $藎2 [[for "remainder" sense]]
+  - $藎2 (for "remainder" sense)
   ==
 V
   ==
@@ -1098,7 +1098,7 @@ U
   U+6D5A
 A
   ==
-  - $濬3 [[for "deep", "dig", and proper-name senses]]
+  - $濬3 (for "deep", "dig", and proper-name senses)
   ==
 F
   ==

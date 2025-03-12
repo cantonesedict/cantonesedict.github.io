@@ -458,8 +458,8 @@ U
   U+7E96
 A
   ==
-  - $摻1 [[for "delicate" senses]]
-  - $孅1 [[for "delicate" senses]]
+  - $摻1 (for "delicate" senses)
+  - $孅1 (for "delicate" senses)
   ==
 F
   ==

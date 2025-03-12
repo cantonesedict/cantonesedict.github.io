@@ -153,7 +153,7 @@ U
   U+621A
 A
   ==
-  - $慼1 [[for "grief" sense]]
+  - $慼1 (for "grief" sense)
   - $鏚1 (for "pole-ax" sense)
   ==
 F

@@ -294,7 +294,7 @@ U
   U+943A
 A
   ==
-  - $罉1 [[for vernacular "pot" sense]]
+  - $罉1 (for vernacular "pot" sense)
   - $鎗1
   ==
 V

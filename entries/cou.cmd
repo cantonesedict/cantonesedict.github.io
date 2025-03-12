@@ -487,8 +487,8 @@ U
   U+63AA
 A
   ==
-  - $厝3 [[for "place", "bury", "conceal" senses]]
-  - $錯3 [[for "place", "bury", "conceal" senses]]
+  - $厝3 (for "place", "bury", "conceal" senses)
+  - $錯3 (for "place", "bury", "conceal" senses)
   ==
 F
   ==

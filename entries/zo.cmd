@@ -287,7 +287,7 @@ U
   U+963B
 A
   ==
-  - $岨2 [[for "mountain-pass" sense]]
+  - $岨2 (for "mountain-pass" sense)
   ==
 F
   ==

@@ -531,7 +531,7 @@ U
   U+7E3E
 A
   ==
-  - $勣1 [[for "achievement" and "merit" senses]]
+  - $勣1 (for "achievement" and "merit" senses)
   ==
 F
   ==
@@ -1571,7 +1571,7 @@ U
   U+84C6
 A
   ==
-  - $席6 [[for "mat" sense]]
+  - $席6 (for "mat" sense)
   ==
 V
   ==

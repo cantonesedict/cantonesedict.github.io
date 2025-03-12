@@ -246,7 +246,7 @@ U
   U+7A31
 A
   ==
-  - $秤1 [[for "weigh" sense]]
+  - $秤1 (for "weigh" sense)
   ==
 F
   ==

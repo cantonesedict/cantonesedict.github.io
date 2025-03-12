@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2025-02-10
+* %date-modified --> 2025-03-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -970,7 +970,7 @@ U
   U+564D
 A
   ==
-  - [齸 _Chi(u/)(6)_ [[ziu6]]](#6齸)
+  - [齸 _Chi(u/)(6)_ (ziu6)](#6齸)
   ==
 V
   ==

@@ -229,7 +229,7 @@ U
   U+54A8
 A
   ==
-  - $諮1 [[for "consultation" senses]]
+  - $諮1 (for "consultation" senses)
   ==
 F
   ==
@@ -1681,9 +1681,9 @@ U
   U+53EA
 A
   ==
-  - $止2 [[for "only" senses]]
-  - $祇2 [[for "only" senses]]
-  - $祗2 [[for "only" senses]]
+  - $止2 (for "only" senses)
+  - $祇2 (for "only" senses)
+  - $祗2 (for "only" senses)
   - $衹2 (for "only" senses)
   ==
 V
@@ -2196,7 +2196,7 @@ U
   U+65E8
 A
   ==
-  - $指2 [[for "intention" senses]]
+  - $指2 (for "intention" senses)
   ==
 F
   ==
@@ -3051,7 +3051,7 @@ U
   U+5FD7
 A
   ==
-  - $誌3 [[for "record" senses]]
+  - $誌3 (for "record" senses)
   ==
 F
   ==
@@ -3472,7 +3472,7 @@ U
   U+81F3
 A
   ==
-  - $致3 [[for "unto" senses]]
+  - $致3 (for "unto" senses)
   ==
 F
   ==
