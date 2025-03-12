@@ -483,6 +483,9 @@ W
         not inferior to others.
     ==
     --
+    [[Otherwise, an alternative form of 婭. **See $婭aa3 for the canonical entry.**]]
+    --
+    --
     [[Otherwise, an alternative form of 阿. **See $阿aa3 for the canonical entry.**]]
     --
   ====
@@ -591,6 +594,10 @@ R
   ⼥ + 8
 U
   U+5A6D
+A
+  ==
+  - $亞3
+  ==
 V
   ==
   - ngaa3 (hypercorrected initial)
