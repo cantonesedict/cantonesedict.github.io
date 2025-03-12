@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -520,6 +520,10 @@ C
   ==
   - Williams' 詫異: Not "strange" or "foolish", but "wonder" or "astonishment".
   ==
+P
+  ++
+  1. Astonished.
+  ++
 $$
 
 
