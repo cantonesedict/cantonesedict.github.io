@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -851,9 +851,7 @@ R
 U
   U+7DC7
 F
-  ==
-  - [[F2.34 緇]] 車屬
-  ==
+  [[Not present]]
 W
   ====
   - [[Page~611 (1)緇]]
@@ -869,7 +867,7 @@ W
 C
   ==
   - Strictly, the pre-merger reading should be _(1)ch(i/)_ per 《廣韻》側持切.
-  - Fan Wan entry: The explanation seems to be for 輜, not 緇.
+  - Fan Wan entry: The headword 緇 is a misprint of $輜1.
   ==
 $$
 
@@ -1478,7 +1476,7 @@ U
   U+8F1C
 F
   ==
-  - [[F2.34 緇]] 車屬
+  - [[F2.34 ::[輜]::]] 車屬
   ==
 W
   ====
@@ -1496,7 +1494,7 @@ W
 C
   ==
   - Strictly, the pre-merger reading should be _(1)ch(i/)_ per 《廣韻》側持切.
-  - Fan Wan entry: Seems to have been erroneously placed under 緇.
+  - Fan Wan entry: Corrected headword $緇1 to 輜.
   - Williams' "manure carts": This is a misreading of Kangxi 厠也.
     Here, 厠 means "mingled", not "toilet".
   ==
