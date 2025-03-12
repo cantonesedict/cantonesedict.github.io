@@ -4462,7 +4462,7 @@ U
   U+6D98
 F
   ==
-  - [[F2.35 竢]] 水涯又音哀
+  - [[F2.35 ::[涘]::]] 水涯又音哀
   ==
 W
   ====
@@ -4477,7 +4477,7 @@ W
 C
   ==
   - Strictly, the pre-merger reading should be _ch(i/)(6)_ per 《廣韻》牀史切.
-  - Fan Wan entry: Seems to have been erroneously placed under $竢6.
+  - Fan Wan entry: Corrected headword $竢6 to 涘.
   ==
 $$
 
@@ -4675,9 +4675,7 @@ R
 U
   U+7AE2
 F
-  ==
-  - [[F2.35 竢]] 水涯又音哀
-  ==
+  [[Not present]]
 W
   ====
   - [[Page~614 俟(6)竢(6)]]
@@ -4688,7 +4686,7 @@ W
 C
   ==
   - Strictly, the pre-merger reading should be _ch(i/)(6)_ per 《廣韻》牀史切.
-  - Fan Wan entry: The explanation seems to be for $涘6, not 竢.
+  - Fan Wan entry: The headword 竢 is a misprint of $涘6.
   ==
 $$
 
