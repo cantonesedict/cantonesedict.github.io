@@ -65,7 +65,7 @@ RegexDictionaryReplacement: #.syntax.entry-key-abbreviations
 * ^H$ --> ; Han unification vigilance
                 ,{.modern}
 * ^A$ --> ; Alternative forms
-                ,{.williams}
+                ,{.modern}
 * ^V$ --> ; Reading variations
                 ,{.modern}
 * ^F$ --> ; Fan Wan entry
