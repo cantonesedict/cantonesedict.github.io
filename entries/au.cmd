@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> au
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -160,6 +160,10 @@ W
     [[Otherwise, an alternative form of 謳. **See $謳au1 for the canonical entry.**]]
     --
   ====
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 S
   ==
   - $歐au2
