@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1069,9 +1069,7 @@ A
   - $駿3
   ==
 F
-  ==
-  - [[F2.53 峻]] 退也完也
-  ==
+  [[Not present]]
 W
   ====
   - [[Page~602 峻(3)]]
@@ -1085,7 +1083,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: The explanation seems to be for 竣, not 峻.
+  - Fan Wan entry: The headword 峻 is a misprint of $竣3.
   ==
 $$
 
@@ -1222,7 +1220,7 @@ V
   ==
 F
   ==
-  - [[F2.53 峻]] 退也完也
+  - [[F2.53 ::[竣]::]] 退也完也
   ==
 W
   ====
@@ -1245,7 +1243,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Seems to have been erroneously placed under 峻.
+  - Fan Wan entry: Corrected headword $峻3 to 竣.
   - Williams' "proud": This is a misreading of Kangxi 倨也.
     Here, 倨 is used for 踞.
     According to 段玉裁's annotations of 《說文》, 倨也 as seen in 《廣韻》
