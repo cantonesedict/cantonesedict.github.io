@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cuk
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -420,9 +420,7 @@ A
   - ${𫂙=⿱𥫗敕}1
   ==
 F
-  ==
-  - [[F1.64 {𫂙=⿱𥫗敕}]] 窶陋也
-  ==
+  [[Not present]]
 W
   ====
   - [[Page~600 {𫂙=⿱𥫗敕}(7); here normalised to 簌]]
@@ -434,7 +432,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: The explanation seems to be for 蔌 in the "meagre" sense, not {𫂙=⿱𥫗敕}.
+  - Fan Wan entry: The headword {𫂙=⿱𥫗敕} is a misprint of $蔌1.
   ==
 $$
 
@@ -446,9 +444,7 @@ R
 U
   U+2B099
 F
-  ==
-  - [[F1.64 {𫂙=⿱𥫗敕}]] 窶陋也
-  ==
+  [[Not present]]
 W
   ====
   - [[Page~600 {𫂙=⿱𥫗敕}(7)]]
@@ -458,7 +454,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: The explanation seems to be for 蔌 in the "meagre" sense, not {𫂙=⿱𥫗敕}.
+  - Fan Wan entry: The headword {𫂙=⿱𥫗敕} is a misprint of $蔌1.
   ==
 $$
 
@@ -507,6 +503,7 @@ U
 F
   ==
   - [[F1.64 蔌]] 果名
+  - [[F1.64 ::[蔌]::]] 窶陋也
   ==
 W
   ====
@@ -526,7 +523,8 @@ W
   ====
 C
   ==
-  - Fan Wan entry: The explanation 果名 is erroneous.
+  - Fan Wan entry: The original entry with headword 蔌, explained 果名, is erroneous.
+    Corrected headword ${𫂙=⿱𥫗敕}1 to 蔌.
   ==
 $$
 
