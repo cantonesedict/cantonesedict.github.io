@@ -362,7 +362,7 @@ class Updater:
         if non_contextual_insertion_contexts:
             print(
                 f'Error in `{entry_cmd_name}`: non-contextual insertions {non_contextual_insertion_contexts} '
-                f'(insert caret between closing square bracket and colon)',
+                f'(insert caret between closing square bracket and colon if insertion is legitimate)',
                 file=sys.stderr,
             )
             sys.exit(1)
