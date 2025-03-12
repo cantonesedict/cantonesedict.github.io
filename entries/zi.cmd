@@ -1296,11 +1296,13 @@ W
     - [[...]];
     - its meaning varies according to the one joined with it.
     ==
+    --
+    [[Otherwise, an alternative form of 貲. **See $貲zi1 for the canonical entry.**]]
+    --
   ====
 P
   ++
   1. A surname (Kangxi: 姓).
-  1. Alternative form of 貲. **See $貲zi1 for the canonical entry.**
   ++
 S
   ==
