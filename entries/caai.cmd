@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -95,6 +95,10 @@ W
         a courier with dispatches.
     ==
   ====
+P
+  ++
+  1. To select, to choose (Kangxi: 擇也, ::[簡]也::).
+  ++
 E
   ====
   - 【差】 (caai1):
