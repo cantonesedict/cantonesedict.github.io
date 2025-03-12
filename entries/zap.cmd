@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zap
-* %date-modified --> 2025-02-16
+* %date-modified --> 2025-03-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -283,7 +283,7 @@ U
 A
   ==
   - ${𠽃=⿰口執}1
-  -{.modern} $執1
+  - $執1
   ==
 F
   [[Not present]]

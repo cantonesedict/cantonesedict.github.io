@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2025-03-02
+* %date-modified --> 2025-03-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -576,7 +576,7 @@ U
   U+8AC2
 A
   ==
-  -{.modern} $讇2
+  - $讇2
   ==
 F
   ==

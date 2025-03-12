@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cik
-* %date-modified --> 2025-02-26
+* %date-modified --> 2025-03-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -154,7 +154,7 @@ U
 A
   ==
   - $慼1 [[for "grief" sense]]
-  -{.modern} $鏚1 (for "pole-ax" sense)
+  - $鏚1 (for "pole-ax" sense)
   ==
 F
   ==

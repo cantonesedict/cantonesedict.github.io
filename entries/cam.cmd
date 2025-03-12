@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2025-02-05
+* %date-modified --> 2025-03-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -404,8 +404,8 @@ U
   U+8B96
 A
   ==
-  -{.modern} 唚 (for vernacular "long-winded" sense)
-  -{.modern} $譖3 (for vernacular "long-winded" sense)
+  - 唚 (for vernacular "long-winded" sense)
+  - $譖3 (for vernacular "long-winded" sense)
   ==
 F
   ==

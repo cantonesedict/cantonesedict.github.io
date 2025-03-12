@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2025-02-18
+* %date-modified --> 2025-03-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -419,7 +419,7 @@ U
   U+566A
 A
   ==
-  -{.modern} 喿
+  - 喿
   ==
 F
   ==
@@ -654,7 +654,7 @@ U
   U+8B5F
 A
   ==
-  -{.modern} $噪3
+  - $噪3
   ==
 F
   [[Not present]]
@@ -684,7 +684,7 @@ U
   U+8E81
 A
   ==
-  -{.modern} $燥3
+  - $燥3
   ==
 F
   ==
@@ -782,7 +782,7 @@ U
   U+918B
 A
   ==
-  -{.modern} $酢3
+  - $酢3
   ==
 F
   ==
@@ -1208,7 +1208,7 @@ H
   depending on the font.
 A
   ==
-  -{.modern} $儲5
+  - $儲5
   ==
 F
   [[Not present]]

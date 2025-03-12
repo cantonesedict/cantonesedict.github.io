@@ -605,8 +605,8 @@ U
   U+5634
 A
   ==
-  -{.modern} $咀2
-  -{.modern} $觜2
+  - $咀2
+  - $觜2
   ==
 F
   ==
@@ -1169,7 +1169,7 @@ A
   ==
   - $叙6 [[for "order" and "preface" senses]]
   - $敍6 [[for "order" and "preface" senses]]
-  -{.modern} $敘6 (for "order" and "preface" senses)
+  - $敘6 (for "order" and "preface" senses)
   ==
 F
   ==

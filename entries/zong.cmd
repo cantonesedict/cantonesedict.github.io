@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zong
-* %date-modified --> 2025-01-21
+* %date-modified --> 2025-03-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -470,7 +470,7 @@ U
   U+468E
 A
   ==
-  -{.modern} ${𥊙=⿰目⿳囟儿夊}1
+  - ${𥊙=⿰目⿳囟儿夊}1
   ==
 F
   [[Not present]]

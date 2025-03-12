@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2025-02-14
+* %date-modified --> 2025-03-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -113,7 +113,7 @@ U
   U+373A
 A
   ==
-  -{.modern} {𡣶=⿰女賛}
+  - {𡣶=⿰女賛}
   ==
 V
   ==
@@ -236,7 +236,7 @@ U
   U+7416
 A
   ==
-  -{.modern} $盞2
+  - $盞2
   ==
 F
   ==
@@ -481,7 +481,7 @@ U
 A
   ==
   - $濺3
-  -{.modern} 濽
+  - 濽
   ==
 F
   ==
@@ -525,7 +525,7 @@ U
   U+74DA
 A
   ==
-  -{.modern} 瓉
+  - 瓉
   ==
 V
   ==
@@ -561,7 +561,7 @@ U
   U+8B9A
 A
   ==
-  -{.modern} 讃
+  - 讃
   - $贊3
   ==
 F
@@ -612,7 +612,7 @@ U
   U+8D0A
 A
   ==
-  -{.modern} 賛
+  - 賛
   ==
 F
   ==

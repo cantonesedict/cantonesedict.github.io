@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2025-02-23
+* %date-modified --> 2025-03-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -227,7 +227,7 @@ H
   depending on the font.
 A
   ==
-  -{.modern} 潴
+  - 潴
   ==
 F
   ==
@@ -948,7 +948,7 @@ H
   depending on the font.
 A
   ==
-  -{.modern} 煑
+  - 煑
   ==
 F
   ==

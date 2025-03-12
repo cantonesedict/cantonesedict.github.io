@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zit
-* %date-modified --> 2025-02-16
+* %date-modified --> 2025-03-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -90,9 +90,9 @@ H
   depending on the font.
 A
   ==
-  -{.modern} 㘉
+  - 㘉
   - $折1
-  -{.modern} 瀄 (for "squirt" senses)
+  - 瀄 (for "squirt" senses)
   ==
 F
   [[Not present]]

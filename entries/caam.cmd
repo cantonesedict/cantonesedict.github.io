@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2025-02-14
+* %date-modified --> 2025-03-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -617,8 +617,8 @@ U
   U+5DC9
 A
   ==
-  -{.modern} 嶃
-  -{.modern} 磛
+  - 嶃
+  - 磛
   - ${𥕌=⿰石斬}4
   ==
 F
@@ -1002,7 +1002,7 @@ U
   U+93E8
 A
   ==
-  -{.modern} $劖5 (for vernacular "pierce" sense)
+  - $劖5 (for vernacular "pierce" sense)
   ==
 V
   ==

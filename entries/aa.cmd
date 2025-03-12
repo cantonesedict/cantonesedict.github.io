@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2025-02-26
+* %date-modified --> 2025-03-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -135,8 +135,8 @@ U
   U+5416
 A
   ==
-  -{.modern} $呀1
-  -{.modern} $啊1
+  - $呀1
+  - $啊1
   ==
 V
   ==
@@ -528,7 +528,7 @@ U
   U+554A
 A
   ==
-  -{.modern} $呀3
+  - $呀3
   ==
 V
   ==

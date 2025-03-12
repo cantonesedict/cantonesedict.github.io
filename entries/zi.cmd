@@ -308,7 +308,7 @@ U
   U+5B5C
 A
   ==
-  -{.modern} $孳1
+  - $孳1
   - $孶1
   ==
 F
@@ -413,7 +413,7 @@ U
   U+5DF5
 A
   ==
-  -{.modern} $卮1
+  - $卮1
   ==
 F
   ==
@@ -585,7 +585,7 @@ U
   U+6DC4
 A
   ==
-  -{.modern} $甾1
+  - $甾1
   ==
 F
   ==
@@ -620,8 +620,8 @@ H
   depending on the font.
 A
   ==
-  -{.modern} $兹1
-  -{.modern} $茲1
+  - $兹1
+  - $茲1
   ==
 F
   ==
@@ -1104,7 +1104,7 @@ U
 A
   ==
   - $甾1
-  -{.modern} 葘
+  - 葘
   ==
 F
   ==
@@ -1338,7 +1338,7 @@ U
   U+8CB2
 A
   ==
-  -{.modern} $訾1
+  - $訾1
   ==
 F
   ==
@@ -1437,7 +1437,7 @@ U
   U+8D91
 A
   ==
-  -{.modern} 趦
+  - 趦
   ==
 F
   ==
@@ -1684,7 +1684,7 @@ A
   - $止2 [[for "only" senses]]
   - $祇2 [[for "only" senses]]
   - $祗2 [[for "only" senses]]
-  -{.modern} $衹2 (for "only" senses)
+  - $衹2 (for "only" senses)
   ==
 V
   ==
@@ -2915,7 +2915,7 @@ U
   U+962F
 A
   ==
-  -{.modern} 趾
+  - 趾
   ==
 F
   ==
@@ -3616,7 +3616,7 @@ U
   U+83D1
 A
   ==
-  -{.modern} 葘
+  - 葘
   ==
 F
   [[Not present]]
@@ -3681,7 +3681,7 @@ U
   U+8A8C
 A
   ==
-  -{.modern} $志3
+  - $志3
   - $識3
   ==
 F
@@ -3860,7 +3860,7 @@ U
 A
   ==
   - $菑3
-  -{.modern} 葘
+  - 葘
   ==
 F
   [[Not present]]
@@ -4205,7 +4205,7 @@ U
   U+5B73
 A
   ==
-  -{.modern} $孶6
+  - $孶6
   ==
 F
   [[Not present]]
@@ -4536,7 +4536,7 @@ U
   U+7725
 A
   ==
-  -{.modern} 眦
+  - 眦
   ==
 V
   ==
@@ -4607,7 +4607,7 @@ U
   U+7A1A
 A
   ==
-  -{.modern} 稺
+  - 稺
   - $穉6
   ==
 F

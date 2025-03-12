@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2025-02-18
+* %date-modified --> 2025-03-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -488,7 +488,7 @@ A
   ==
   - $牕1
   - $窓1
-  -{.modern} $窻1
+  - $窻1
   ==
 F
   ==
@@ -788,7 +788,7 @@ U
   U+9BE7
 A
   ==
-  -{.modern} 䱽
+  - 䱽
   ==
 F
   [[Not present]]
@@ -1126,7 +1126,7 @@ U
   U+8E61
 A
   ==
-  -{.modern} $蹌3
+  - $蹌3
   ==
 F
   [[Not present]]

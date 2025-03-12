@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2025-03-02
+* %date-modified --> 2025-03-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -198,8 +198,8 @@ U
   U+77FA
 A
   ==
-  -{.modern} $砸3
-  -{.modern} $磧3
+  - $砸3
+  - $磧3
   - $責3
   ==
 V

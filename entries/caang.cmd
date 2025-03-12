@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caang
-* %date-modified --> 2025-01-19
+* %date-modified --> 2025-03-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -413,7 +413,7 @@ A
   ==
   - $橕3
   - $撑3
-  -{.modern} ${𨅝=⿰𧾷牚}3
+  - ${𨅝=⿰𧾷牚}3
   ==
 F
   [[Not present]]
@@ -639,7 +639,7 @@ U
   U+6A59
 A
   ==
-  -{.modern} $棖4
+  - $棖4
   ==
 V
   ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cok
-* %date-modified --> 2025-01-15
+* %date-modified --> 2025-03-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -166,7 +166,7 @@ U
   U+932F
 A
   ==
-  -{.modern} $厝3 (for "whetstone" sense)
+  - $厝3 (for "whetstone" sense)
   ==
 F
   ==

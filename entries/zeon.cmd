@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2025-03-11
+* %date-modified --> 2025-03-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -792,7 +792,7 @@ U
   U+71FC
 A
   ==
-  -{.modern} 㶳
+  - 㶳
   - $藎2 [[for "remainder" sense]]
   ==
 V
@@ -897,7 +897,7 @@ U
   U+8D10
 A
   ==
-  -{.modern} 賮
+  - 賮
   ==
 V
   ==
@@ -1066,7 +1066,7 @@ U
   U+5CFB
 A
   ==
-  -{.modern} $駿3
+  - $駿3
   ==
 F
   ==

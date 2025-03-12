@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2025-02-10
+* %date-modified --> 2025-03-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -84,7 +84,7 @@ U
   U+7C2A
 A
   ==
-  -{.modern} $篸1
+  - $篸1
   ==
 F
   ==
@@ -244,7 +244,7 @@ U
   U+406A
 A
   ==
-  -{.modern} $眨2
+  - $眨2
   ==
 F
   [[Not present]]

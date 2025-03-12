@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2025-01-20
+* %date-modified --> 2025-03-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -132,8 +132,8 @@ U
   U+5C3A
 A
   ==
-  -{.modern} 伬 (for an octave lower)
-  -{.modern} 鿈 (for an octave higher)
+  - 伬 (for an octave lower)
+  - 鿈 (for an octave higher)
   ==
 V
   ==
@@ -542,7 +542,7 @@ U
   U+659C
 A
   ==
-  -{.modern} $邪4
+  - $邪4
   ==
 F
   ==
