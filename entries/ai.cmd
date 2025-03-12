@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ai
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -267,7 +267,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected headword {𦠉=⿰⺼壹} to 曀.
+  - Fan Wan entry: Corrected headword ${𦠉=⿰⺼壹}3 to 曀.
   ==
 $$
 
@@ -383,6 +383,6 @@ W
   ====
 C
   ==
-  - Fan Wan entry: The headword {𦠉=⿰⺼壹} is actually a misprint of $曀3.
+  - Fan Wan entry: The headword {𦠉=⿰⺼壹} is a misprint of $曀3.
   ==
 $$
