@@ -547,7 +547,7 @@ W
   ====
   - [[Page~11|n54 (4)柴]]
     ==
-    - Firewood, faggots [[Kangxi: 燔柴曰柴]];
+    - Firewood, faggots;
     - brushwood [[Kangxi: 小木散材]];
     - fuel;
     - to stop up [[Kangxi: 塞也]];
@@ -581,6 +581,11 @@ W
         faggots of wood.
     ==
   ====
+P
+  ++
+  1. To burn firewood (for sacrifice) (Kangxi: 燔柴曰柴).
+  1. To protect (Kangxi: 護也).
+  ++
 $$
 
 ### 豺4 | _(4)Ch(')(a/)i_ [[caai4]]
