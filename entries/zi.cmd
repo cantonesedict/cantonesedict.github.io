@@ -1350,8 +1350,8 @@ W
   ====
   - [[Page~611 (1)貲]]
     ==
-    - A fine paid to redeem one's self;
-    - riches, goods, wealth;
+    - A fine paid to redeem one's self [[Kangxi: 小罰以財自贖也]];
+    - riches, goods, wealth [[Kangxi: 財也貨也]];
     - _(1)tsz' (4)ts(')(i/)n_
         [[zi1 cin4 貲錢]],
         money;
@@ -1363,9 +1363,13 @@ W
         family possessions.
     ==
     --
-    Used for the next [[$資1]].
+    [[Otherwise, an alternative form of 資. **See $資zi1 for the canonical entry.**]]
     --
   ====
+P
+  ++
+  1. To estimate, to measure (Kangxi: 與訾同).
+  ++
 $$
 
 ### 資1 | _(1)Tsz'_ [[zi1]]
@@ -1385,6 +1389,13 @@ F
   ==
 W
   ====
+  - [[Page~611 (1)貲]]
+    --
+    [[...]]
+    --
+    --
+    Used for the next [[資]].
+    --
   - [[Page~611 (1)資]]
     ==
     - Property, riches, things of value;
