@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -558,6 +558,10 @@ W
         a distinguished statesman of the H(a/)n [[漢]] dynasty.
     ==
   ====
+P
+  ++
+  1. Saddened at parting (Kangxi: 黯然傷別貌).
+  ++
 $$
 
 
