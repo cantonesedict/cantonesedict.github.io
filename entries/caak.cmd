@@ -380,6 +380,10 @@ W
     ~~Used for the next [[茦]].~~
     --
   ====
+P
+  ++
+  1. Yarrow for divination (Kangxi: 蓍也, 策神蓍也).
+  ++
 $$
 
 ### 茦3 | _Ch(')(a/)k(8)_ [[caak3]]
