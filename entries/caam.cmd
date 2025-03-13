@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2025-03-13
+* %date-modified --> 2025-03-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -862,10 +862,10 @@ W
   ====
   - [[Page~554 (4)讒]]
     ==
-    - To adulate, to humor, to flatter;
+    - ~~To adulate, to humor, to flatter;~~
     - to misrepresent, to gloss over, to calumniate,
-      to asperse, to traduce, to detract [[Kangxi: 譖也, 崇飾惡言毀善害能也]];
-    - servility;
+      to asperse, to traduce, to detract [[Kangxi: 譖也, 崇飾惡言毀善害能也, 傷良曰讒]];
+    - ~~servility;~~
     - detraction, malignity;
     - _(4)ts(')(a/)m ning(6)_
         [[caam4 ning6 讒佞]]
@@ -890,10 +890,7 @@ W
 C
   ==
   - Strictly, the pre-merger reading should be _(4)ch(')(a/)m_ per 《廣韻》士咸切.
-  - Williams' "To adulate, to humor, to flatter":
-    Whilst Kangxi has 佞也 "flatter", it appears in the same group as 譖也,
-    so it should be interpreted as clarifying the meaning "slander",
-    not supplying the meaning "flatter".
+  - Williams' "To adulate, to humor, to flatter": Kangxi 佞也 is unhelpful.
   - Williams' 讒諂: Corrected _(2)ch(i/)m_ (zim2) to _(2)ch(')(i/)m_ (cim2).
   ==
 $$
