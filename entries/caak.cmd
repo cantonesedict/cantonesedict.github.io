@@ -249,7 +249,7 @@ F
   ==
 W
   ====
-  - [[Page~14|n57 拆[(8)]^]]
+  - [[Page~14|n57 ::拆[(8)]^::]]
     ==
     - To break up or open [[Kangxi: 裂也開也]];
     - to split, to unrip;

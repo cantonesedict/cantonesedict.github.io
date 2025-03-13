@@ -361,8 +361,7 @@ class Updater:
         )
         if non_contextual_insertion_contexts:
             print(
-                f'Error in `{entry_cmd_name}`: non-contextual insertions {non_contextual_insertion_contexts} '
-                f'(insert caret between closing square bracket and colon if insertion is legitimate)',
+                f'Error in `{entry_cmd_name}`: non-contextual insertions {non_contextual_insertion_contexts}',
                 file=sys.stderr,
             )
             sys.exit(1)
@@ -376,7 +375,8 @@ class Updater:
         )
         if inadvertent_runs:
             print(
-                f'Error in `{entry_cmd_name}`: inadvertent reference definitions {inadvertent_runs}',
+                f'Error in `{entry_cmd_name}`: inadvertent reference definitions {inadvertent_runs}'
+                f'(insert caret between closing square bracket and colon)',
                 file=sys.stderr,
             )
             sys.exit(1)
