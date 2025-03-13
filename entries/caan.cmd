@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caan
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -177,6 +177,10 @@ W
     [[Alternative form of 剷. **See $剷caan2 for the canonical entry.**]]
     --
   ====
+S
+  ==
+  - $剗zin2
+  ==
 $$
 
 ### 剷2 | _(2)Ch(')(a/)n_ [[caan2]]
@@ -200,11 +204,11 @@ W
   ====
   - [[Page~20|n63 (2)剷(2)剗]]
     --
-    Interchanged with the next [[鏟]] [[Kangxi 剷: 與鏟{𠟉=⿰孱刂}通]].
+    Interchanged with the next [[鏟]].
     --
     ==
     - To level off [[Kangxi 剗: 削也, 平也]], to spade up;
-    - to reap;
+    - [[...]];
     - to trim iron;
     - _(2)ch(')(a/)n t(')ai(3) (1)t(o\)_
         [[caan2 tai3 dou1 剷剃刀]],
@@ -216,11 +220,10 @@ W
         [[caan2 hoeng1 剷香]],
         sandalwood shavings burned for the dead.
     ==
+    --
+    [[Alternative form of 鏟. See $鏟caan2.]]
+    --
   ====
-C
-  ==
-  - Williams' "to reap": Kangxi has 刈也 under the reading 側展切音展 _(2)ch(i/)n_ (zin2).
-  ==
 E
   ====
   - 【剷】 (caan2):
@@ -354,6 +357,9 @@ W
         [[caan2 saan1 鏟山]],
         to scarp hills, to dig in a level.
     ==
+    --
+    [[Alternative form of 剷. See $剷caan2.]]
+    --
   ====
 E
   ====

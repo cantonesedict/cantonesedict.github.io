@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -578,6 +578,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $剪2
+- $剗2
 - $展2
 - $戩2
 - $碾2
@@ -651,6 +652,33 @@ E
        ==
     ++
   ====
+$$
+
+###+ 剗2 | _(2)Ch(i/)n_ (zin2)
+
+$$
+R
+  ⼑ + 11
+U
+  U+5257
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~20|n63 ::~~(2)剷~~(2)剗:: _(2)Ch(')(a/)n_ (caan2); here corrected to _(2)Ch(i/)n_ (zin2)]]
+    --
+    [[...]]
+    --
+    ==
+    - [[...]];
+    - to reap [[Kangxi 剗: 刈也]];
+    - [[...]].
+    ==
+  ====
+S
+  ==
+  - $剗caan2
+  ==
 $$
 
 ### 展2 | _(2)Ch(i/)n_ [[zin2]]
