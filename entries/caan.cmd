@@ -478,13 +478,13 @@ W
     - many, much, a multitude [[Kangxi: 衆意]];
     - clear, bright [[Kangxi: 察也明也, 光明也]];
     - to agree upon;
-    - fine, excellent;
+    - fine, excellent [[Kangxi: 優也]];
     - beautiful, as a woman;
     - to laugh, smiling [[Kangxi: 笑貌]];
     - fine rice [[Kangxi: 精鑿食也]];
     - _p(a/)k(9) ts(')(a/)n(3)_
-        [[ba`ak6 caan3 白粲]]
-        white rice, anciently picked over by criminals;
+        [[baak6 caan3 白粲]]
+        white rice, anciently picked over by criminals [[Kangxi: 漢{𠛬=⿰幵刂}有白粲 etc.]];
     - _ts(')(a/)n(3) ts(')(a/)n(3)_
         [[caan3 caan3 粲粲]]
         elegant, as dress;
