@@ -138,7 +138,7 @@ W
     - to pole;
     - to push off [[Kangxi 撐: 撥也]];
     - to make a show;
-    - an inclined post, a fulcrum, a prop, a stay;
+    - an inclined post [[Kangxi: 與樘同, 樘衺柱也]], a fulcrum, a prop, a stay;
     - to border on, to adjoin, to stretch or run up into;
     - _(1)ch(')(a/)ng (4)sh(u:)n_
         [[caang1 syun4 撐船]],
@@ -158,6 +158,11 @@ W
         stretch them up to dry.
     ==
   ====
+C
+  ==
+  - Williams' "inclined post": According to 段玉裁's annotations of 《說文》,
+    the qualifier 衺 (inclined) should not be present before 柱 (pillar).
+  ==
 S
   ==
   - $撐caang3
