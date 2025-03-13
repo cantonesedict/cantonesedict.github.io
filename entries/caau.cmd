@@ -413,6 +413,10 @@ C
   ==
   - Williams' 好似阿婆皮咁巢: Corrected _(2)ts(')z'_ (ci2) to _(5)ts(')z'_ (ci5).
   ==
+P
+  ++
+  1. A large free-reed instrument (Kangxi: 樂器, 大笙謂之巢).
+  ++
 E
   ====
   - 【巢】 (caau4):
