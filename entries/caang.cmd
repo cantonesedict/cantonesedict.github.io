@@ -234,7 +234,7 @@ W
     ==
     - A branch stretching out;
     - a fulcrum;
-    - a prop.
+    - a prop [[Kangxi: 橕之言䟫也]].
     ==
     --
     [[...]]
@@ -484,7 +484,7 @@ $$
 
 ### 橕3 | _Ch(')(a/)ng(3)_ [[caang3]]
 
-$$
+$$.
 R
   ⽊ + 12
 U
