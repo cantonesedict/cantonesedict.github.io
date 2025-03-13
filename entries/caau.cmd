@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caau
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -57,6 +57,10 @@ R
   ⼿ + 4
 U
   U+6284
+A
+  ==
+  - $鈔1
+  ==
 F
   ==
   - [[F2.41 抄]] 抄寫
@@ -89,6 +93,11 @@ W
         [[caau1 saai3 抄嗮]]
         it is all copied.
     ==
+  - [[Page~30|n73 鈔(3) _Ch(')(a/)u(3)_ (caau3); _(1)Ch(')(a/)u_ (caau1) implied]]
+    ==
+    - Interchanged with 抄 to copy [[Kangxi: 今俗別作抄, 謄寫也]];
+    - [[...]].
+    ==
   ====
 $$
 
@@ -111,7 +120,7 @@ W
   ====
   - [[Page~30|n73 鈔(3) _Ch(')(a/)u(3)_ (caau3); here normalised to _(1)Ch(')(a/)u_ (caau1)]]
     ==
-    - Interchanged with $抄1 to copy [[Kangxi: 今俗別作抄, 謄寫也]];
+    - [[...]];
     - a document, a government paper, a receipt [[Kangxi: 官收物而給印信文憑也]];
     - paper money [[Kangxi: 楮貨名]];
     - _(4)sh(u:)n [(1)]ch(')(a/)u_
@@ -130,6 +139,9 @@ W
         [[seoi3 caau1 稅鈔]]^
         duties on goods, transit dues.
     ==
+    --
+    [[Otherwise, an alternative form of 抄. **See $抄caau1 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -239,6 +251,7 @@ E
   ====
   - 【炒】 (caau2):
     ++
+    1. To stir-fry.
     1. Short for [炒魷魚](#cantonese-炒魷魚).
        ==
        - 炒咗佢 (caau2 zo2 keoi5): "Fired him."
