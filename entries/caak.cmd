@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caak
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -204,7 +204,7 @@ W
         [[caak3 caak3 dei6-2 seng1 坼坼地聲]],
         a wheezing, cracked voice.
     ==
-  - [[Page~14|n57 拆(8); here normalised to 坼]]
+  - [[Page~14|n57 ::拆[(8)]::; here normalised to 坼]]
     ==
     - [[...]]^
     - _ch(')(a/)k(8) (2)hau yat(9)_
