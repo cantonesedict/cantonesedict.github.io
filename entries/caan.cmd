@@ -452,6 +452,10 @@ W
         pendent gems, said of hanging flowers like the Vanda.
     ==
   ====
+P
+  ++
+  1. Beautiful jade (Kangxi: 美玉).
+  ++
 $$
 
 ### 粲3 | _Ts(')(a/)n(3)_ [[caan3]]
