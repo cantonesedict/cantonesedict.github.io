@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -255,7 +255,7 @@ W
   - [[Page~549 (1)凄(1)淒]]
     ==
     - Intense cold [[Kangxi 淒: 寒涼也]];
-    - bleak, cloudy [[Kangxi 淒: 雲雨起貌]], wintry;
+    - bleak, cloudy, wintry [[Kangxi 淒: 雲雨起貌]];
     - a cold wind;
     - shivering, freezing;
     - calamitous, afflicted, grievous;
