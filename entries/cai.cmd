@@ -551,7 +551,7 @@ W
   ====
 C
   ==
-  - Williams' "A maggot": Better rendered "scarab".
+  - Williams' "A maggot": Better rendered "scarab beetle grub".
   ==
 $$
 
