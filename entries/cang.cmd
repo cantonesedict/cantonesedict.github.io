@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cang
-* %date-modified --> 2025-01-20
+* %date-modified --> 2025-03-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -64,7 +64,7 @@ W
     ==
     - A story of a house;
     - a layer, a strata, a tier, a stage;
-    - a lamina, a plate, or whatever is piled or laid on [[Kangxi: 凡物之重者通曰層]];
+    - a lamina, a plate, or whatever is piled or laid on;
     - still more, added to;
     - a step, a degree above [[Kangxi: 級也]];
     - a classifier of stories;
@@ -92,6 +92,11 @@ C
   ==
   - Williams' 重一層: Corrected _chung(6)_ (zung6 去聲) to _(5)ch(')ung_ (cung5 上聲).
   ==
+P
+  ++
+  1. A multi-storey house (Kangxi: 重屋也).
+  1. Multi-layered (Kangxi: 凡物之重者通曰層).
+  ++
 $$
 
 ### 曾4 | _(4)Ts(')ang_ [[cang4]]
