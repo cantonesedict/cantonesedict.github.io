@@ -464,10 +464,14 @@ W
   ====
 C
   ==
-  - Williams' "to grin wide": This is a misreading of Kangxi 笑不至矧,
-    in which 矧 means "teeth", not "grin wide".
+  - Williams' "to grin wide": This is a misreading of Kangxi's example 笑不至矧,
+    in which 矧 means "tooth (base)", not "grin wide".
   - Williams' 矧曰: Corrected _(u:)t(8)_ (jyut3) to _(u:)t(9)_ (jyut6).
   ==
+P
+  ++
+  1. The base of a tooth (Kangxi: 齒本曰矧大笑則見).
+  ++
 $$
 
 ### 紾2 | _(2)Ch(')an_ [[can2]]
