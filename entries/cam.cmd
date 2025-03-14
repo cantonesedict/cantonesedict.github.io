@@ -791,19 +791,19 @@ W
   - [[Page~15|n58 (2)[魫] _(2)Ch(')am_ (cam2); here corrected to _(4)Ch(')am_ (cam4)]]
     ==
     - The roe or eggs of fish [[Kangxi: 魚子]];
-    - the name of a fish.
+    - the name of a fish [[Fan Wan: 魚名]].
     ==
   ====
 C
   ====
   - The reading _(4)ch(')am_ (cam4) is not unattested;
-    Kangxi has 又持林切音沉義同.
+    《集韻》 has the reading 持林切, explained 魚子也.
   - Williams misprints 魫 as {𩵫=⿰冘魚}; here corrected.
   - Williams' placement under _(2)Ch(')am_ (cam2) is erroneous
     because it does not follow any of the following:
     ==
     - _(2)cham_ (zam2) per Fan Wan (which places it between 枕 and 怎)
-    - _(4)ch(')am_ (cam4) per 《集韻》又持林切 in Kangxi.
+    - _(4)ch(')am_ (cam4) per 《集韻》持林切.
     - _(2)sham_ (sam2) per 《廣韻》式任切 rising.
     ==
     It is possible that Williams has simply misprinted (4)魫 as (2)魫,
