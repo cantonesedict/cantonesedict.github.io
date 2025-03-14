@@ -959,6 +959,7 @@ W
   ====
 C
   ==
+  - Williams' "confused times": Especially warfare.
   - Williams' 塵垢: Changed _(2)kau_ (gau2) to common reading _kau(3)_ (gau3).
   ==
 E
@@ -974,7 +975,7 @@ E
   --
   There is also the extended version 沙塵白霍,
   but that leads into a rabbit hole of debate about the origins of the phrase,
-  and whether 塵 should be written 陳, and 霍 should be written 攉 or 醭.
+  and whether 塵 should be written 陳, and whether 霍 should be written 攉 or 醭.
   --
 $$
 
