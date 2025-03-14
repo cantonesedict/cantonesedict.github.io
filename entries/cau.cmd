@@ -1416,9 +1416,18 @@ W
     ==
     - A white ox [[Fan Wan: 白色牛]];
     - the lowing or snorting of a cow [[Kangxi: 牛息聲]];
-    - to issue from, to proceed from [[Kangxi: 出也]].
+    - ~~to issue from, to proceed from.~~
     ==
   ====
+C
+  ==
+  - Williams' "to issue from, to proceed from":
+    This is a misreading of Kangxi 出也. Here, 出 means "protruding".
+  ==
+P
+  ++
+  1. Protruding (Kangxi: 出也).
+  ++
 $$
 
 ### 疇4 | _(4)Ch(')au_ [[cau4]]
