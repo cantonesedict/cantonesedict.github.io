@@ -704,6 +704,11 @@ W
         a sort of dead house or shed at a grave.
     ==
   ====
+P
+  ++
+  1. Hibiscus flowers (Kangxi: 櫬木槿, 今王蒸).
+  1. The Chinese parasol tree (Kangxi: 櫬梧, 今梧桐).
+  ++
 $$
 
 ### 襯3 | _Ch(')an(3)_ [[can3]]
