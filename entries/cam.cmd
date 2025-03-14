@@ -347,6 +347,10 @@ W
         room behind the hall.
     ==
   ====
+P
+  ++
+  1. Ugly in appearance.
+  ++
 $$
 
 
