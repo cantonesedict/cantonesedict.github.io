@@ -1047,6 +1047,10 @@ C
   ==
   - Williams' 在陳絕糧: Corrected _ts(')(u:)t(9)_ (cyut6) to _ts(u:)t(9)_ (zyut6).
   ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 S
   ==
   - $陳zan6
