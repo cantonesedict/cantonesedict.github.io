@@ -669,6 +669,10 @@ W
         whalebone.
     ==
   ====
+C
+  ==
+  - Williams' "eel": More a loach than an eel.
+  ==
 $$
 
 ### 鶖1 | _(1)Ts(')au_ [[cau1]]
