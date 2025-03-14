@@ -489,7 +489,7 @@ W
     - to continue, to connect with [[Kangxi: 仍也繼也]];
     - usually, ordinarily;
     - temporary, unexpectedly [[Kangxi: 俄也]];
-    - for a long time;
+    - ~~for a long time;~~
     - common [[Kangxi: 俗謂庸常爲尋常]];
     - a measure of eight cubits [[度名, 八尺曰尋]], or like the outstretched arms;
     - _(4)ts(')am (4)'m ch(e/)uk(9)_
