@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -139,7 +139,7 @@ W
     - to expand, as spring does;
     - to lift;
     - to levy, to assess, as duty;
-    - to select, to draw out;
+    - ~~to select~~, to draw out [[Kangxi: 引也]];
     - to utter aloud [[Kangxi: 讀也]];
     - to whip;
     - to receive one's portion [[Kangxi: 收也]];
