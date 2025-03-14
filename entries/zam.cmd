@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -702,6 +702,9 @@ W
         [[zam3 jap6 sam1 浸入心]],
         it is wet through.
     ==
+    --
+    [[Otherwise, a reading variation. **See $浸cam1 for the canonical entry.**]]
+    --
   ====
 C
   ==
