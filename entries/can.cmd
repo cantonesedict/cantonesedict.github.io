@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -356,6 +356,11 @@ C
   - Williams' "to announce the emperor's coming": Not specific to the emperor's coming.
   - Williams' "to die": Better rendered "to exterminate" (Kangxi: 殄也, 謂殄絕).
   ==
+P
+  ++
+  1. Roads that divide fields (Kangxi: 井田閒陌也).
+  1. To exterminate (Kangxi: 殄也, 謂殄絕).
+  ++
 $$
 
 ### 疢2 | _(2)Ch(')an_ [[can2]]
