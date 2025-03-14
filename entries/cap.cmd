@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cap
-* %date-modified --> 2024-12-15
+* %date-modified --> 2025-03-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -175,7 +175,7 @@ U
   U+847A
 V
   ==
-  - zap1 (per 《廣韻》子入切 for "spinous-grass" sense)
+  - zap1 (per 《廣韻》子入切 for "spinous-grass" sense; per Kangxi 子入切 for "piled" sense)
   ==
 F
   ==
@@ -196,6 +196,10 @@ W
         to repair.
     ==
   ====
+P
+  ++
+  1. Piled, stacked (Kangxi: 累也).
+  ++
 $$
 
 ### 輯1 | _Ts(')ap(7)_ [[cap1]]
