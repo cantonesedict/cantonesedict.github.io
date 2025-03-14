@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cak
-* %date-modified --> 2024-12-05
+* %date-modified --> 2025-03-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -107,7 +107,7 @@ W
   ====
   - [[Page~12|n55 測(7)]]
     ==
-    - To sound, to fathom [[Kangxi: 深所至也, 度深曰測]];
+    - To sound, to fathom [[Kangxi: 度深曰測]];
     - to estimate, to measure [[Kangxi: 凡測度之稱]];
     - clear, as varnish [[Kangxi: 淸也 etc.]];
     - _ch(')ak(7) tok(9)_
@@ -131,6 +131,11 @@ C
   ==
   - Williams' 推測: Corrected _(1)t(')ui_ to _(1)t(')(u/)i_.
   ==
+P
+  ++
+  1. Extreme depth (Kangxi: 深所至也).
+  1. Deep.
+  ++
 S
   ==
   - $測caak1
