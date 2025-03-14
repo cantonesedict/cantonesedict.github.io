@@ -427,6 +427,10 @@ C
   ==
   - Williams' 厥疾不瘳: 《書經》 has 厥疾弗瘳.
   ==
+P
+  ++
+  1. To diminish, to damage (Kangxi: 損也).
+  ++
 $$
 
 ###+ 瞅1 | _(1)Ts(')au_ (cau1)
