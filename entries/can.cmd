@@ -398,8 +398,8 @@ C
   ==
 P
   ++
-  1. Fever (Kangxi: 熱病也).
-  1. Sickness (Kangxi: 疢猶病也).
+  1. Fever (Kangxi 疢: 熱病也).
+  1. Sickness (Kangxi 疢: 疢猶病也).
   ++
 $$
 
@@ -420,12 +420,12 @@ F
   ==
 W
   ====
-  - [[Page~18|n61 (2)疹(2)疢]]
+  - [[Page~18|n61 ::(2)疹~~(2)疢~~::]]
     ==
-    - Pustules of any kind [[Kangxi: 疹診也有結氣可得診見也]];
-    - eruptions, pimples [[Kangxi: 癮疹皮外小起也]];
+    - Pustules of any kind [[Kangxi 疹: 疹診也有結氣可得診見也]];
+    - eruptions, pimples [[Kangxi 疹: 癮疹皮外小起也]];
     - a cutaneous disease;
-    - sore lips [[Kangxi: 脣瘍也]];
+    - sore lips [[Kangxi 疹: 脣瘍也]];
     - _tau(6) (2)ch(')an_
         [[dau6 can2 痘疹]]^
         small pox pustules;
@@ -433,6 +433,9 @@ W
         [[baan1 can2 斑疹]],
         eruptions.
     ==
+    --
+    [[Otherwise, an alternative form of 疢. **See $疢can2 for the canonical entry.**]]
+    --
   ====
 $$
 
