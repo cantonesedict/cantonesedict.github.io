@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cit
-* %date-modified --> 2025-01-20
+* %date-modified --> 2025-03-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -116,6 +116,11 @@ C
   - Williams' 切磋: Not to dehort, but to learn from one another,
     especially through an activity (e.g. sparring, a game, etc.).
   ==
+P
+  ++
+  1. To bite or gnash (the teeth).
+  1. Close (in the sense of near).
+  ++
 E
   ====
   - 【切】 (cit3):
