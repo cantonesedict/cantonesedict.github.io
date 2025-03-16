@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -211,6 +211,10 @@ C
   - Williams' 拎清: Changed _(1)ning_ (ning1) to _(1)ling_ (ling1).
   - Williams' 清數: Changed _ts(')eng_ (ceng1) to _ts(')ing_ (cing1).
   ==
+P
+  ++
+  1. Quiet.
+  ++
 $$
 
 ### 秤1 | _(1)Ch(')ing_ [[cing1]]
