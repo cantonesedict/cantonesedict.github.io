@@ -519,6 +519,10 @@ C
   ==
   - Fan Wan entry: Corrected 欔 to 攫.
   ==
+P
+  ++
+  1. Short for 鴟夷 (a wineskin) (Kangxi: 鴟夷革囊也, 盛酒者也).
+  ++
 $$
 
 ### 黐1 | _(1)Ch(')(i/)_ [[ci1]]
