@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cok
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -60,7 +60,7 @@ U
   U+5252
 A
   ==
-  - $錯3
+  - $錯3 (for vernacular "choppiness" and "jolt" senses)
   ==
 F
   [[Not present]]
@@ -86,6 +86,12 @@ W
         amazed, alarmed and amused.
     ==
   ====
+P
+  ++
+  1. To work, to cut, to polish (Kangxi: 治樸之名, 亦作錯).
+     (Alternative form of 錯 (for the "cut/work" sense). See $錯cok3.)
+  1. To chop off.
+  ++
 E
   ====
   - 【剒】 (cok3):
@@ -166,6 +172,7 @@ U
   U+932F
 A
   ==
+  - $剒3 (for "cut/work" sense)
   - $厝3 (for "whetstone" sense)
   ==
 F
@@ -195,7 +202,7 @@ W
         to tattoo the arm.
     ==
     --
-    [[Otherwise, an alternative form of 剒. **See $剒cok3 for the canonical entry.**]]
+    [[Otherwise, an alternative form of 剒 (for the vernacular "choppiness" and "jolt" senses). **See $剒cok3 for the canonical entry.**]]
     --
   ====
 S
