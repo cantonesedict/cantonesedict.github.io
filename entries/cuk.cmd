@@ -491,6 +491,10 @@ W
     - [[...]].
     ==
   ====
+C
+  ==
+  - Used in 蓄意 ("premeditated", "deliberate").
+  ==
 $$
 
 ### 蔌1 | _Ts(')uk(7)_ [[cuk1]]
