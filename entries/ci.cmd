@@ -3006,6 +3006,11 @@ W
         they resemble each other.
     ==
   ====
+P
+  ++
+  1. To continue (Kangxi: 嗣也).
+  1. To present, to give (Kangxi: 况也奉也).
+  ++
 E
   ====
   - 【似】 (ci5):
