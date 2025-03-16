@@ -593,6 +593,10 @@ W
         to bathe.
     ==
   ====
+P
+  ++
+  1. To wash the hands (per 《說文》洒手也).
+  ++
 S
   ==
   - $澡zou2
