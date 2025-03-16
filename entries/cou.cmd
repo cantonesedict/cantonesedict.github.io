@@ -722,7 +722,7 @@ W
   - [[Page~587 躁(3)]]
     ==
     - Hasty, heedless, precipitate [[Kangxi: 疾也]];
-    - to go quickly [[Kangxi: 躁猶動也]];
+    - ~~to go quickly~~;
     - dried up by the heat, and therefore light [[Kangxi: 躁燥也物燥乃動而飛揚也]];
     - fierce, violent;
     - _ts(')(o\)(3) p(o\)(6)_
@@ -734,6 +734,10 @@ W
         light, testy, wavering.
     ==
   ====
+P
+  ++
+  1. To act, to act up (Kangxi: 躁猶動也).
+  ++
 $$
 
 ### 造3 | _Ts(')(o\)(3)_ [[cou3]]
