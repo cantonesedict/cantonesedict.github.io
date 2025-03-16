@@ -211,6 +211,10 @@ W
         to drink like the sea, able to drink much.
     ==
   ====
+P
+  ++
+  1. Cold (Kangxi: 寒也).
+  ++
 $$
 
 ### 瑲1 | _(1)Ts(')ong_ [[cong1]]
