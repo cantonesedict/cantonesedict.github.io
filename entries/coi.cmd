@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coi
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -565,6 +565,12 @@ C
   - Williams' "a law, a rule": This is a misreading of Kangxi 蔡法也.
     Here, 法 means "punishment" (with 蔡 specifically meaning "banishment").
   ==
+P
+  ++
+  1. A great turtle (Kangxi: 蔡國君之守龜 etc.).
+  1. Banishment (Kangxi: 蔡法也).
+  1. A surname (Kangxi: 姓).
+  ++
 $$
 
 ### 賽3 | _Ts(')oi(3)_ [[coi3]]
