@@ -1253,6 +1253,7 @@ W
 C
   ==
   - Fan Wan entry: Normalised headword {𢊍=⿸广⿰豆寸} to 厨.
+  - Williams' "quiver": Better rendered "box" or "cabinet".
   ==
 S
   ==
