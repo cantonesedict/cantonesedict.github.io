@@ -1046,8 +1046,8 @@ W
   ====
   - [[Page~596 覰(3); here normalised to 覷]]
     ==
-    - To spy, to look at [[Kangxi 覰: 伺視也]];
-    - to peep, to descry, to reconnoitre;
+    - To spy, to look at;
+    - to peep, to descry, to reconnoitre [[Kangxi 覰: 伺視也]];
     - _ts(')(u:)(3) (1)p(i/)n_
         [[ceoi3 bin1 覷邊]],
         to look after the frontiers closely.
