@@ -780,8 +780,8 @@ W
     - precipitate, hasty [[Kangxi: 疾也]];
     - to act on an impulse;
     - pleased with [[Kangxi: 快也]];
-    - to pervade [[Kangxi: 極也]];
-    - to exhaust [[Kangxi: 盡也]];
+    - ~~to pervade;~~
+    - to exhaust [[Kangxi: 極也盡也]];
     - _pat(7) (2)ch(')ing_
         [[bat1 cing2 不逞]],
         dissatisfied, careless of;
@@ -806,6 +806,10 @@ C
   ==
   - Williams' 不逞之徒: Corrected _(4)^t(o\)_ (dou4) to _(4)t(')(o\)_ (tou4).
   ==
+P
+  ++
+  1. To resolve (Kangxi: 解也).
+  ++
 $$
 
 ### 郢2 | _(2)Ch(')ing_ [[cing2]]
