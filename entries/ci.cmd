@@ -3137,4 +3137,8 @@ W
         having a town of the same name.
     ==
   ====
+P
+  ++
+  1. Unflowing water (Kangxi: 一曰汜窮瀆也, 謂困窮不通之水瀆名汜也).
+  ++
 $$
