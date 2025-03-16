@@ -669,13 +669,17 @@ W
         an heir-apparent;
     - _[(5)]ch(')(u:) (1)kwan_
         [[cyu5 gwan1 儲君]],
-        ~~son of a prince~~.
+        ~~son of~~ a prince.
     ==
   ====
 C
   ==
   - Williams' 儲君: Not a son of a prince, but an heir to a monarch.
   ==
+P
+  ++
+  1. To await.
+  ++
 S
   ==
   - $儲cou5
