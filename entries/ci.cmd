@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -174,8 +174,7 @@ W
     - _(1)ts(')(a/)m (1)ts(')z'_
         [[caam1 ci1 參差]]
         irregular, not uniform;
-    - _(1)ts(')z' (2)ho (4)yan (i/)(3)_
-        [[ci1 ho2 jan4 ji3 差可人意]]
+    - [[...]].
     ==
   ====
 C

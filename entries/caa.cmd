@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2025-03-13
+* %date-modified --> 2025-03-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -190,6 +190,13 @@ W
     - _ch(')ing(3) (1)ch(')(a/) s(a/)i(3)_
         [[cing3 caa1 saai3 秤差嗮]]
         all weighed wrong.
+    ==
+  - [[Page~615 (1)差 _(1)Ts(')z'_ (ci1); here corrected to _(1)Ch(')(a/)_ (caa1)]]
+    ==
+    - [[...]];
+    - _(1)[ch(')(a/)] (2)ho (4)yan (i/)(3)_
+        [[caa1 ho2 jan4 ji3 差可人意]]
+        like what most men think.
     ==
   ====
 C
