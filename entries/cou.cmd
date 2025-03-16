@@ -1122,7 +1122,7 @@ W
     ==
     - A mill-race, a sluice through which water runs [[Kangxi: ::水轉[穀]也::]];
     - ~~a gulf, a gorge;~~
-    - a canal [[Kangxi: 水轉曰漕]];
+    - a canal;
     - to lead on water, to turn a water course [[Kangxi: 水運曰漕]];
     - to convey revenue to Peking [[北京]];
     - ~~occurs used for the next [[艚]];~~
