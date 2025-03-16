@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -90,7 +90,7 @@ W
     - To urge, to press, to egg on [[Kangxi: 促也迫也]];
     - to importune;
     - to hasten, as the payment of a debt;
-    - to reiterate;
+    - ~~to reiterate;~~
     - _mok(9) ko(3) (1)ts(')(u/)i (5)ngo_
         [[mok6 go3 ceoi1 ngo5 莫個催我]],
         don't hurry me;
