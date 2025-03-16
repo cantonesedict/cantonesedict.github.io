@@ -1617,7 +1617,7 @@ W
     - a rest-house, an inn, a shed or stall [[Kangxi: 凡舍皆曰次]];
     - a mansion [[Kangxi: 次舍]];
     - a position, as of the stars [[Kangxi: 星之躔舍爲次]];
-    - a time, a place [[Kangxi: 處也]], a stated post;
+    - a time, a place, a stated post;
     - to halt, to reach [[Kangxi: 至也]];
     - _ts(')z'(3) tai(6)_
         [[ci3 dai6 次第]]
