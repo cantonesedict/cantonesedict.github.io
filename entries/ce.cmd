@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -253,12 +253,12 @@ W
   ====
   - [[Page~31|n74 (2)且]]
     ==
-    - A conjunctive particle [[Kangxi: 借曰之辭]];
+    - A conjunctive particle;
     - and, further, moreover, still;
     - also, and also [[Kangxi: 又也]];
     - thus, so [[Kangxi: 此也]];
     - still, yet;
-    - a word of doubt, if, should [[Kangxi: 未定之辭]];
+    - ~~a word of doubt~~, if, should [[Kangxi: 借曰之辭]];
     - _(4)hang (2)ch(')(e/)_
         [[hang4 ce2 行且]],
         on the point of being;
@@ -289,9 +289,18 @@ C
     Fan Wan groups it with 扯 (same as 撦),
     whose reading is _(2)ch(')(e/)_ (ce2) per 《廣韻》昌者切.
     Notwithstanding, this is all academic given the initials _ts(')_ and _ch(')_ are now considered merged.
+  - Williams' "a word of doubt": This is an attempt at rendering Kangxi 未定之辭.
+    A better rendering is "[a] word [indicating] uncertainness".
+    Note that it is a separate sense to subjunctive "if", "should".
   - Williams' 且信且疑: Corrected _san(3)_ (san3) to _sun(3)_ (seon3).
   - Williams' 且慢: Not an adverbial "soon" or "shortly", but an imperative "slow down" or "hang on".
   ==
+P
+  ++
+  1. Temporarily, for now.
+  1. Shall, about to (Kangxi: 將也).
+  1. Or.
+  ++
 S
   ==
   - $且zeoi1
