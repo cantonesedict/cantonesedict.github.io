@@ -237,6 +237,10 @@ W
         lofty, rocky hills and peaks.
     ==
   ====
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 $$
 
 ### 推1 | _(1)Ch(')ui_ [[ceoi1]]
