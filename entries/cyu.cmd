@@ -792,7 +792,7 @@ W
   ====
   - [[Page~33* (5)柱]]
     ==
-    - A post, a pillar, an upright support, a joist [[Kangxi: 楹也]];
+    - A post, a pillar, an upright support, ~~a joist~~ [[Kangxi: 楹也]];
     - a main dependance, a statesman;
     - [[...]];
     - _kwok(8) (5)ch(')(u:)_
