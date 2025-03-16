@@ -842,6 +842,10 @@ W
     - superficial, ignorant.
     ==
   ====
+P
+  ++
+  1. Unarmoured.
+  ++
 S
   ==
   - $俴cin2
