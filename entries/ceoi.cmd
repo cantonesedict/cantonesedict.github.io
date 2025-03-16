@@ -1634,7 +1634,7 @@ U
   U+9318
 A
   ==
-  - $鎚4
+  - $鎚4 (for "hammer" senses)
   ==
 V
   ==
@@ -1667,11 +1667,14 @@ W
         hammered to pieces.
     ==
     --
-    The first word [[錘]] also means a weight of 12~taels [[両]].
+    The first word [[錘]] also means a weight of 12~taels [[Kangxi: 六兩曰鍿倍鍿曰錘〇按此與說文解異]].
     --
   ====
 C
   ==
+  - Williams' "12~taels": As noted by Kangxi,
+    this differs from the 《說文》 definition of 八銖,
+    which works out to one third of a tael.
   - Williams' 一錘打倒: Corrected _yat_ (jat) to _yat(7)_ (jat1).
   ==
 E
@@ -1703,7 +1706,7 @@ W
   ====
   - [[Page~34* (4)錘(4)鎚]]
     --
-    [[Alternative form of 錘. **See $錘ceoi4 for the canonical entry.**]]
+    [[Alternative form of 錘 (for the "hammer" senses). **See $錘ceoi4 for the canonical entry.**]]
     --
   ====
 $$
