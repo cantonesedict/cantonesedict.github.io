@@ -243,7 +243,7 @@ $$
 
 ### 艸2 | _(2)Ts(')(o\)_ [[cou2]]
 
-$$.
+$$
 R
   ⾋ + 0
 U
@@ -256,9 +256,21 @@ F
 W
   ====
   - [[Page~587 (2)草(2)艸]]
+    ==
+    - [[...]];
+    - the 140th~radical of characters relating to herbs;
+    - [[...]].
+    ==
     --
-    [[Alternative form of 草. **See $草cou2 for the canonical entry.**]]
+    [[Alternative form of 草. See $草cou2.]]
     --
+  ====
+E
+  ====
+  - 【草花頭】 (cou2 faa1 tau4-2):
+    ++
+    1. The character component 艹. (Literally, "grass flower atop".)
+    ++
   ====
 $$
 
@@ -282,13 +294,13 @@ W
   ====
   - [[Page~587 (2)草(2)艸]]
     ==
-    - Herbs, grasses, plants with herbaceous stems [[Kangxi: 百卉也]];
+    - Herbs, grasses, plants with herbaceous stems [[Kangxi 草: 百卉也]];
     - plants in general;
-    - hastily, carelessly [[Kangxi: ::苟[簡]曰草草::]];
+    - hastily, carelessly [[Kangxi 草: ::苟[簡]曰草草::]];
     - the running hand;
     - a rough copy, original draft;
-    - the 140th~radical of characters relating to herbs;
-    - to cut grass, to mow [[Kangxi: 草艾謂艾取草也]];
+    - [[...]];
+    - to cut grass, to mow [[Kangxi 草: 草艾謂艾取草也]];
     - _(2)ts(')(o\) muk(9)_
         [[cou2 muk6 草木]]
         plants;
@@ -335,13 +347,6 @@ C
   - Williams' 草菅人命: Corrected _(2)k(u/)n_ (gun2) to _(1)k(a/)n_ (gaan1).
     Williams has likely misread 菅 as 管.
   ==
-E
-  ====
-  - 【草花頭】 (cou2 faa1 tau4-2):
-    ++
-    1. The character component 艹. (Literally, "grass flower atop".)
-    ++
-  ====
 $$
 
 
