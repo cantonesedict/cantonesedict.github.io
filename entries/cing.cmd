@@ -263,9 +263,9 @@ W
   - [[Page~20* (1)稱]]
     ==
     - To call, to name, to designate, to style [[Kangxi: 名號謂之稱]];
-    - to say [[Kangxi: 言也]], to talk about [[Kangxi: 揚也謂也]];
+    - to say [[Kangxi: 言也]], to talk about;
     - to simulate;
-    - to compliment, to commend;
+    - to compliment, to commend [[Kangxi: 揚也謂也]];
     - to admire;
     - to feign, to plead as an excuse;
     - a designation, an appellation, a name;
