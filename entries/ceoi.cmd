@@ -1074,7 +1074,7 @@ W
   ====
   - [[Page~596 趣(3)]]
     ==
-    - Similar to _(1)ts(')(u:)_ (ceoi1) 趨 to run;
+    - Similar to _(1)ts(')(u:)_ [[ceoi1]] 趨 to run;
     - to go, to advance quickly [[Kangxi: 疾也]];
     - to see what is proper and agreeable, and hasten to do it;
     - to show alacrity or haste to please [[Kangxi: 遽也]];
