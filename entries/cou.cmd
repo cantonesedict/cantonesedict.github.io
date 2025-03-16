@@ -1031,6 +1031,11 @@ C
     rather than the definition of the character as a whole
     (as Williams has taken it to be).
   ==
+P
+  ++
+  1. Plaintiff and defendant (Kangxi: ::獄之兩[曹]也:: etc.).
+  1. A surname (Kangxi: 姓).
+  ++
 $$
 
 ### 槽4 | _(4)Ts(')(o\)_ [[cou4]]
