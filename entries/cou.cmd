@@ -172,6 +172,10 @@ C
   ==
   - Williams' 污粗: Should instead appear under 糟 as 污糟.
   ==
+P
+  ++
+  1. Cylindrically thick.
+  ++
 $$
 
 ### 麤1 | _(1)Ts(')(o\)_ [[cou1]]
