@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -297,6 +297,10 @@ U
 A
   ==
   - $瀸1
+  ==
+V
+  ==
+  - zim1 (per 《廣韻》子廉切)
   ==
 F
   ==
