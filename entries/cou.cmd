@@ -528,6 +528,10 @@ W
     [[...]]
     --
   ====
+C
+  ==
+  - Williams' "relinquish": Better rendered "abandon".
+  ==
 S
   ==
   - $措zaak3
