@@ -1110,6 +1110,10 @@ W
         to affirm constantly.
     ==
   ====
+P
+  ++
+  1. Upright (Kangxi: 正也直也).
+  ++
 S
   ==
   - $矢si2 (TODO) <## shit ##>
