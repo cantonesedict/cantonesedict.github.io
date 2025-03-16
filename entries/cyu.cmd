@@ -75,6 +75,10 @@ W
     [[Alternative form of 處. **See $處cyu2 for the canonical entry.**]]
     --
   ====
+S
+  ==
+  - $処cyu3
+  ==
 $$
 
 ###+ 楮2 | _(2)Ch(')(u:)_ (cyu2)
@@ -200,10 +204,32 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $処3
 - $處3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+###+ 処3 | _Ch(')(u:)(3)_ (cyu3)
+
+$$.
+R
+  ⼏ + 3
+U
+  U+51E6
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 處. **See $處cyu3 for the canonical entry.**
+  ++
+S
+  ==
+  - $処cyu2
+  ==
+$$
 
 ### 處3 | _Ch(')(u:)(3)_ [[cyu3]]
 
@@ -212,6 +238,10 @@ R
   ⾌ + 5
 U
   U+8655
+A
+  ==
+  - $処3
+  ==
 V
   ==
   - syu3 (vernacular for "place" sense)
