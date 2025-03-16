@@ -1292,6 +1292,10 @@ C
   ==
   - Fan Wan entry: Corrected ⿰糸⿱刀交 to 緩.
   ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 $$
 
 ###+ 捶4 | _(4)Ch(')ui_ (ceoi4)
