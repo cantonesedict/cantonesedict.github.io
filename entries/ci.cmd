@@ -929,7 +929,8 @@ W
   ====
 C
   ====
-  - The reading _(2)ch(')(i/)_ (ci2) is not unattested; Kangxi has 《正韻》尺里切音侈.
+  - The reading _(2)ch(')(i/)_ (ci2) is not unattested;
+    《洪武正韻牋》 has the reading 尺里切, explained 析木？其理.
   - Williams' "read [...] with the same meanings": This is not quite correct.
     ==
     - 杝 read _(4)(i/)_ (ji4) is the name of a tree.
