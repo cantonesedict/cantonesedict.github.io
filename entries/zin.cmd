@@ -983,7 +983,7 @@ W
   [[Not present]]
 P
   ++
-  1. A farming tool.
+  1. A farming tool (Kangxi: 銚也古田器).
   ++
 S
   ==
