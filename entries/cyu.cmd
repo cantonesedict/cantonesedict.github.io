@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyu
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -162,7 +162,7 @@ C
     to the common reading _(5)ch(')(u:)_ (cyu5) when it seems appropriate
     (although I am not aware of any logic that can be used
     to determine when this is the case).
-    From past experience:
+    From personal experience:
     ==
     - The classical reading _(2)ch(')(u:)_ (cyu2) seems mandatory in
         處決,
@@ -172,6 +172,7 @@ C
         判處,
         懲處,
         獨處,
+        相處,
         處分,
         處境,
         處女,
