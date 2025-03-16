@@ -766,6 +766,7 @@ U
 A
   ==
   - $才4
+  - $裁4
   ==
 F
   ==
@@ -841,12 +842,18 @@ W
       _t(a/)i(6) (4)ts(')oi_ [[daai6 coi4 大裁]],
         a scant pattern, a full pattern.
     ==
+    --
+    [[Otherwise, an alternative form of 纔. **See $纔coi4 for the canonical entry.**]]
+    --
   ====
 C
   ==
-  - Williams' "to regulate": Also to make rulings, to decide judicially.
   - Williams' 自裁: Literally, to "self-resolve".
   ==
+P
+  ++
+  1. To judge, to adjudicate, to make a ruling (Kangxi: 鑒別也).
+  ++
 $$
 
 ### 財4 | _(4)Ts(')oi_ [[coi4]]
