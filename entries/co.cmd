@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> co
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -565,6 +565,10 @@ W
     Interchanged with the last [[楚]], in the senses of painful, suffering [[Kangxi 憷: 通作楚]].
     --
   ====
+P
+  ++
+  1. A rod or cane used to beat offenders (Kangxi: 楚荆也扑撻犯禮者).
+  ++
 $$
 
 ###+ 瑳2 | _(2)Ts(')o_ (co2)
