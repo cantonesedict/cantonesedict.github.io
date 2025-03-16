@@ -943,7 +943,7 @@ W
     - to hide away, to abscond, to secrete one's self [[Kangxi 潛: 藏也]];
     - an ancient name for the River H(a/)n [[漢]] [[Kangxi 潛: 漢水之別名]];
     - carefully, feeling one's way, heedfully;
-    - a cess-pool;
+    - ~~a cess-pool;~~
     - _(4)ts(')(i/)m p(o\)(6)_
         [[cim4 bou6 潛步]]
         careful steps;
@@ -953,6 +953,17 @@ W
     - _(4)ch(')am (4)ts(')(i/)m_
         [[cam4 cim4 沉潛]],
         reserved, diligent.
+    ==
+  ====
+C
+  ====
+  - Williams' "cess-pool": This is not correct.
+    Perhaps "fish-pool", per Kangxi 魚之所息謂之潛, 潛糝也.
+    According to 段玉裁's annotations of 《說文》,
+    there are (competing) interpretations of 糝 in 潛糝也:
+    ==
+    - Wood dropped into water, around which fish gather; and
+    - Water into which grain is thrown, to feed fish.
     ==
   ====
 $$
