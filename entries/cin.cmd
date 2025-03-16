@@ -868,9 +868,9 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~574 踐(6) _Ts(i/)n(6)_ (zin6); here normalised _(5)Ts(')(i/)n_ (cin5)]]
+  - [[Page~574 踐(6) _Ts(i/)n(6)_ (zin6); often read _(5)Ts(')(i/)n_ (cin5)]]
     ==
-    - To tread upon, to trample on or over [[Kangxi: 履也]];
+    - To tread upon [[Kangxi: 履也]], to trample on or over [[Kangxi: 踐蹋也, 踐殘也使殘壞也]];
     - ~~to walk,~~ to step;
     - ~~to arrange out;~~
     - _[(5)ts(')(i/)n] (4)(i/)n_
