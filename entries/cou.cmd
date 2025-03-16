@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -544,6 +544,10 @@ W
     - [[...]].
     ==
   ====
+P
+  ++
+  1. Zither music (Kangxi: 琴曲也).
+  ++
 S
   ==
   - $操cou1
