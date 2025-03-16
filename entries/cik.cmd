@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cik
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -295,6 +295,12 @@ C
   ==
   - Williams' "to juggle": In the (now) archaic sense of performing magical trickery.
   ==
+P
+  ++
+  1. Salty earth (Kangxi: 斥謂地鹹).
+  1. To open up (Kangxi: 斥開也).
+  1. To allocate or spend.
+  ++
 $$
 
 ### 螫1 | _Ch(')ik(7)_ [[cik1]]
