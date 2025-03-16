@@ -405,12 +405,12 @@ W
 C
   ====
   - Fan Wan (and Williams following it) considers 抯 the same as 扯.
-    Strictly, this is erroneous; the three readings in 《廣韻》 are:
+    Strictly, this is erroneous; the three readings of 抯 in 《廣韻》 are:
     ++
-    1. _(1)ch(a/)_ (zaa1) from 側加切, explained 挹也 (per 說文);
-    2. _ts(e/)(6)_ (ze6) from 徐野切, explained 取也
+    1. _(1)ch(a/)_ (zaa1) per 側加切, explained 挹也 (per 說文);
+    2. _ts(e/)(6)_ (ze6) per 徐野切, explained 取也
        (or _(5)ts(')(e/)_ (ce5) if insisting on rising tone); and
-    3. _(2)ts(e/)_ (ze2) from 兹野切, also explained 取也.
+    3. _(2)ts(e/)_ (ze2) per 兹野切, also explained 取也.
     ++
     None of these are 陰上 _(2)ch(')(e/)_ (ce2).
   ====
