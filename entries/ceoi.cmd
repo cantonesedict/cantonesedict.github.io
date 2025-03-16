@@ -877,7 +877,7 @@ W
         a bridal chair covered with feathers;
     - _ts(')ui(3) (4)t(')ing_
         [[ceoi3 ting4 翠亭]],
-        a feathered shrine or car;
+        a feathered shrine ~~or car~~;
     - _(2)t(i/)m ts(')ui(3)_
         [[dim2 ceoi3 點翠]]
         to put on feathers;
@@ -892,7 +892,6 @@ W
 C
   ==
   - Fan Wan entry: Corrected 日 to 曰.
-  - Williams' 翠亭: Probably not car.
   - Williams' 翠色: More cyan or green, especially jade-like green.
   ==
 $$
