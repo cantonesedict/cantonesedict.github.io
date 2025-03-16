@@ -496,7 +496,7 @@ W
   ====
   - [[Page~595 (1)趨(1)趋]]
     ==
-    - To hasten to one's place [[Kangxi: 疾行曰趨趨赴也赴所至也]], to stride off, as in a superior's presence;
+    - To hasten to one's place [[Kangxi: 疾行曰趨趨赴也赴所至也, 趨今之捷步]], to stride off [[Kangxi: 行而張足曰趨]], as in a superior's presence;
     - to run, to walk quick [[Kangxi 趨: 走也, 行也]];
     - _(1)ts(')(u:) (4)sh(i/)_
         [[ceoi1 si4 趨時]],
