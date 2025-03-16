@@ -546,6 +546,10 @@ W
     [[Otherwise, an alternative form of {𤷫=⿸疒刺}. **See ${𤷫=⿸疒刺}cek3 for the canonical entry.**]]
     --
   ====
+P
+  ++
+  1. Ardent, loyal.
+  ++
 S
   ==
   - $赤cek3
