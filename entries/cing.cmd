@@ -1382,6 +1382,11 @@ C
   - Williams' 九程九都有: Better rendered "nine out of nine" than "ten to one".
   - Williams' 得返九程半: Corrected _tak(9)_ (dak6) to _tak(7)_ (dak1).
   ==
+P
+  ++
+  1. Measurement (Kangxi: 程者物之準也, 程度量之總名).
+  1. A surname (Kangxi: 姓).
+  ++
 $$
 
 ### 裎4 | _(4)Ch(')ing_ [[cing4]]
