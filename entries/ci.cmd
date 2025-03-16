@@ -1031,6 +1031,10 @@ W
         for this very kindness.
     ==
   ====
+P
+  ++
+  1. Thus, then.
+  ++
 $$
 
 ###+ 泚2 | _(2)Ts(')z'_ (ci2)
