@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cin
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -422,6 +422,10 @@ C
   ==
   - Williams' "dripping": This is a misinterpretation of the senses
     interchangeable with $濺zin1, $濺zin3, or $灒zaan3.
+  ==
+S
+  ==
+  - $淺zin1
   ==
 $$
 

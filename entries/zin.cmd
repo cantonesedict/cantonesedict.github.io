@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2025-03-14
+* %date-modified --> 2025-03-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -52,6 +52,7 @@ $$
 - $毡1
 - $氈1
 - $氊1
+- $淺1
 - $湔1
 - $濺1
 - $煎1
@@ -240,6 +241,27 @@ W
   ====
 $$
 
+###+ 淺1 | _(1)Ts(i/)n_ (zin1)
+
+$$.
+R
+  ⽔ + 8
+U
+  U+6DFA
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 濺. **See $濺zin1 for the canonical entry.**
+  ++
+S
+  ==
+  - $淺cin2
+  ==
+$$
+
 ### 湔1 | _(1)Ts(i/)n_ [[zin1]]
 
 $$
@@ -268,6 +290,10 @@ R
   ⽔ + 15
 U
   U+6FFA
+A
+  ==
+  - $淺1
+  ==
 F
   [[Not present]]
 W
