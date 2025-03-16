@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -343,6 +343,7 @@ C
   ==
   - Fan Wan entry: Normalised headword ⿱艹⿰酉隹 (missing 灬) to 蘸,
     and corrected 禾 to 水.
+  - Williams' "pencil": In the (now) dated sense of a brush.
   ==
 S
   ==

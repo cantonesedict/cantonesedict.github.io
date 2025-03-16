@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -159,6 +159,10 @@ W
         to dot off with a red point.
     ==
   ====
+C
+  ==
+  - Williams' "pencil": In the (now) dated sense of a brush.
+  ==
 $$
 
 ### 株1 | _(1)Ch(u:)_ [[zyu1]]

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2025-03-13
+* %date-modified --> 2025-03-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -547,6 +547,10 @@ W
         wild _(1)s(u:)n-(1)ch(i/)_ [[酸枝]] wood, a hard timber.
     ==
   ====
+C
+  ==
+  - Williams' "pencils": In the (now) dated sense of a brush.
+  ==
 $$
 
 ### 梔1 | _(1)Ch(i/)_ [[zi1]]

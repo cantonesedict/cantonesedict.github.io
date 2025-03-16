@@ -825,6 +825,7 @@ C
   - 《廣韻》 has four readings, among which 慈染切 _(5)ts(')(i/)m_ (cim5)
     and 七豔切 _ts(')(i/)m(3)_ (cim3) have explanations
     consistent with the "board" sense.
+  - Williams' "pencil": In the (now) dated sense of a brush.
   ==
 $$
 

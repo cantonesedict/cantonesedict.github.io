@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -477,6 +477,10 @@ W
         miserably poor, not a place to stick an awl.
     ==
   ====
+C
+  ==
+  - Williams' "pencil": In the (now) dated sense of a brush.
+  ==
 $$
 
 ###+ 隹1 | _(1)Chui_ (zeoi1)
