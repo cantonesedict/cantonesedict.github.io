@@ -638,6 +638,7 @@ U
 A
   ==
   - $材4
+  - $財4
   ==
 V
   ==
@@ -712,6 +713,7 @@ U
 A
   ==
   - $才4
+  - $財4
   ==
 F
   ==
@@ -767,6 +769,7 @@ A
   ==
   - $才4
   - $裁4
+  - $財4
   ==
 F
   ==
@@ -812,6 +815,10 @@ R
   ⾐ + 6
 U
   U+88C1
+A
+  ==
+  - $財4
+  ==
 F
   ==
   - [[F2.44 裁]] 裁衣又裁度裁製
@@ -911,6 +918,18 @@ W
         [[nei5 m4 hai6 coi4 san4 你唔係財神]],
         you've bought nothing of me, you've given me no custom.
     ==
+    --
+    [[Otherwise, an alternative form of 才. **See $才coi4 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 材. **See $材coi4 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 纔. **See $纔coi4 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 裁. **See $裁coi4 for the canonical entry.**]]
+    --
   ====
 C
   ==
