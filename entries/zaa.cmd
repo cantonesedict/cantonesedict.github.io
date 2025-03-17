@@ -500,7 +500,7 @@ U
   U+4E4D
 A
   ==
-  - $詐3 (for "sudden/unexpected" senses)
+  - $詐3
   ==
 V
   ==
@@ -904,7 +904,7 @@ W
         to feign to be good.
     ==
     --
-    [[Otherwise, an alternative form of 乍 (for the "sudden/unexpected" senses). **See $乍zaa3 for the canonical entry.**]]
+    [[Otherwise, an alternative form of 乍. **See $乍zaa3 for the canonical entry.**]]
     --
   ====
 C
