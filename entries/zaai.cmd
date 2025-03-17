@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -124,10 +124,10 @@ W
   ====
   - [[Page~10|n53 ::(1)齋(1)[斋]^::]]
     ==
-    - To respect, to reverence [[Kangxi: 恭也, 齋敬也]];
-    - to abstain from [[Kangxi: 潔也, 洗心曰齋]];
-    - pure, reverential, serious [[Kangxi: 莊也]];
-    - a retiring room, a closet [[Kangxi: 燕居之室曰齋]];
+    - To respect, to reverence [[Kangxi 齋: 恭也, 齋敬也]];
+    - to abstain from [[Kangxi 齋: 潔也, 洗心曰齋]];
+    - pure, reverential, serious [[Kangxi 齋: 莊也]];
+    - a retiring room, a closet [[Kangxi 齋: 燕居之室曰齋]];
     - _(2)t(a/) (1)ch(a/)i_
         [[daa2 zaai1 打齋]],
         to get a soul out of tartarus;
