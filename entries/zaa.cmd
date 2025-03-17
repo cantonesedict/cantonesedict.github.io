@@ -500,6 +500,7 @@ U
   U+4E4D
 A
   ==
+  - $咋3
   - $詐3
   ==
 V
@@ -577,7 +578,7 @@ U
   U+548B
 V
   ==
-  - za3 (shorter syllable)
+  - za3 (shorter syllable for vernacular sense)
   ==
 F
   [[Not present]]
@@ -594,6 +595,9 @@ W
         [[gam2 joeng6-2 zaa3 噉樣咋]]
         so will do, eh!
     ==
+    --
+    [[Otherwise, an alternative form of 乍. **See $乍zaa3 for the canonical entry.**]]
+    --
   ====
 E
   ====

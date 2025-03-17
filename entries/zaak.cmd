@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -67,6 +67,10 @@ R
   ⼝ + 5
 U
   U+548B
+V
+  ==
+  - zaak6 (per 《洪武正韻牋》士革切 for "bite" sense)
+  ==
 F
   [[Not present]]
 W
@@ -79,6 +83,10 @@ W
     [[...]]
     --
   ====
+P
+  ++
+  1. To eat (Kangxi: 啖也), to bite (Kangxi: 嚙也).
+  ++
 S
   ==
   - $咋zaa3
