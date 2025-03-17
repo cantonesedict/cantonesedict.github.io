@@ -723,7 +723,7 @@ W
   [[Not present]]
 P
   ++
-  1. To blow up.
+  1. To blow up, to explode, to make explode.
   1. To deep-fry.
   ++
 $$
