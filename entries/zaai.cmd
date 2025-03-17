@@ -236,6 +236,7 @@ $$
 - $債3
 - $瘵3
 - $簀3
+- $責3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -247,6 +248,10 @@ R
   ⼈ + 11
 U
   U+50B5
+A
+  ==
+  - $責3
+  ==
 F
   ==
   - [[F2.28 債]] 齋去聲債負揭借銀曰債負
@@ -347,6 +352,27 @@ S
   ==
   - $簀zaak3
   - $簀zak1
+  ==
+$$
+
+###+ 責3 | _Ch(a/)i(3)_ (zaai3)
+
+$$.
+R
+  ⾙ + 4
+U
+  U+8CAC
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 債. **See $債zaai3 for the canonical entry.**
+  ++
+S
+  ==
+  - $責zaak3
   ==
 $$
 

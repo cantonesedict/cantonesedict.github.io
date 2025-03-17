@@ -588,6 +588,10 @@ C
   - Williams' 責罰 (second occurrence): Changed _f(a/)t(9)_ (faat6)
     to modern _fat(9)_ (fat6).
   ==
+S
+  ==
+  - $責zaai3
+  ==
 $$
 
 ###+ 賾3 | _Ch(a/)k(8)_ (zaak3)
