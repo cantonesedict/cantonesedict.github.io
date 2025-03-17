@@ -902,6 +902,10 @@ C
   ==
   - Williams' 手澤: Metaphorically, brilliant works by the hand of one now deceased.
   ==
+P
+  ++
+  1. Undergarments (Kangxi: 褻衣曰澤).
+  ++
 $$
 
 ###+ 矺6 | _Ch(a/)k(9)_ (zaak6)
