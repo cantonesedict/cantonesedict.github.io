@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -112,6 +112,10 @@ W
         we.
     ==
   ====
+C
+  ==
+  - Williams' 咱們: Specifically, the inclusive "we".
+  ==
 $$
 
 ### {𠾵=⿰口揸}1 | _(1)Ch(a/)_ [[zaa1]]
