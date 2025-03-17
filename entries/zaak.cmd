@@ -153,6 +153,9 @@ W
     ==
     - To pursue after, to chase, to ferret out [[Kangxi: 追捕也]].
     ==
+    --
+    [[Otherwise, an alternative form of 笮 (for the "crush" sense). **See $笮zaak3 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -242,13 +245,20 @@ W
 C
   ==
   - This character (in the vernacular "weight/crush" senses) is commonly written 砸.
-    In my opinion, 矺 is a better character to use than 砸 because:
+    In my opinion, 矺 is a better character to use than $砸3 because:
     ++
     1. 矺 is attested in Middle Chinese
        with both reasonable sound and reasonable meaning
-       (zaak3 per 《廣韻》陟革切, explained 磓也, to stone); and
+       (zaak3 per 《廣韻》陟革切, explained 磓也, to stone downward); and
     2. 砸 is otherwise read zaap3.
     ++
+  - This character (in the vernacular "weight/crush" senses) is sometimes written $笮3.
+    In my opinion, 笮 is a poor character to use
+    because it is *not* specific to pressure being applied *vertically*.
+    Indeed for 笮, Kangxi has ::又《增韻》壓也通作措《史記梁世家》李太后與爭門措指\
+    《註》晉灼曰措字借以爲笮師古曰爲門扇所笮::,
+    and in this example I think it more likely for the dowager's finger
+    to have been crushed *horizontally* by the door, rather than vertically.
   ==
 E
   ====
@@ -258,7 +268,7 @@ E
        ==
        - 矺住張紙 (zaak6 zyu6 zoeng1 zi2): "Weigh down [the] piece of paper."
        ==
-    1. To crush with a heavy object.
+    1. To crush (vertically) with a heavy object.
        ==
        - 矺扁咗 (zaak3 bin2 zo2): "Squashed flat."
        ==
@@ -405,6 +415,10 @@ R
   ⽵ + 5
 U
   U+7B2E
+A
+  ==
+  - $措3 (for "crush" sense)
+  ==
 F
   [[Not present]]
 W
@@ -422,6 +436,10 @@ W
     [[Otherwise, an alternative form of 窄. **See $窄zaak3 for the canonical entry.**]]
     --
   ====
+C
+  ==
+  - For Cantonese "weight/crush", see $矺zaak3.
+  ==
 S
   ==
   - $笮zok6
