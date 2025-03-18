@@ -587,7 +587,7 @@ W
     - To praise, to commend, to laud [[Kangxi: 稱人之美曰讚]];
     - to sing praises to;
     - to record the praises of [[Kangxi: 又錄也]];
-    - to assist [[Kangxi: 佐也]];
+    - [[...]];
     - to explain [[Kangxi: 解也]];
     - _tak(7) (4)yan ts(a/)n(3)_
         [[dak1 jan4 zaan3 得人讚]]
@@ -605,6 +605,9 @@ W
         [[zaan3 dak1 gwo3 頌得過]]
         laudable.
     ==
+    --
+    [[Otherwise, an alternative form of 贊. **See $贊zaan3 for the canonical entry.**]]
+    --
   ====
 $$
 
@@ -617,6 +620,7 @@ U
   U+8D0A
 A
   ==
+  - $讚3
   - 賛
   ==
 F
@@ -650,6 +654,12 @@ W
     --
     [[Otherwise, an alternative form of 讚. **See $讚zaan3 for the canonical entry.**]]
     --
+  - [[Page~555 讚(3)]]
+    ==
+    - [[...]];
+    - to assist [[Kangxi 讚: 佐也]];
+    - [[...]].
+    ==
   ====
 C
   ==
