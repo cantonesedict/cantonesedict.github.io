@@ -799,6 +799,10 @@ C
   ==
   - Williams' 貓棧: Changed _(4)mi(u/)_ (miu4) to common reading _(1)m(a/)u_ (maau1).
   ==
+P
+  ++
+  1. An inn or guesthouse.
+  ++
 S
   ==
   - $棧zaan2
