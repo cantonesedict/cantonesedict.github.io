@@ -899,7 +899,7 @@ W
     [[...]]
     --
     ==
-    - To exhort [[Kangxi: 專敎也]] by precepts;
+    - ~~To exhort by precepts~~ [[Kangxi: 專敎也]];
     - [[...]].
     ==
     --
@@ -908,7 +908,7 @@ W
   ====
 C
   ==
-  - Williams' "exhort": Better rendered "teach".
+  - Williams' "To exhort by precepts": Better rendered "To teach focusedly".
   ==
 $$
 
