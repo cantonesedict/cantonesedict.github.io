@@ -695,7 +695,7 @@ U
   U+64B0
 A
   ==
-  - $譔6
+  - $譔6 (for "write" and "compile" senses)
   ==
 V
   ==
@@ -744,6 +744,10 @@ C
   ==
   - Fan Wan entry: Corrected 㫦 to 脩.
   ==
+P
+  ++
+  1. An aspiration, an inclination, a bent.
+  ++
 S
   ==
   - $撰syun2 (TODO)
@@ -891,7 +895,7 @@ W
     - [[...]].
     ==
     --
-    [[Otherwise, an alternative form of 撰. **See $撰zaan6 for the canonical entry.**]]
+    [[Otherwise, an alternative form of 撰 (for the "write" and "compile" senses). **See $撰zaan6 for the canonical entry.**]]
     --
   ====
 C
