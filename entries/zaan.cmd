@@ -838,6 +838,10 @@ W
         rip the seams.
     ==
   ====
+P
+  ++
+  1. To blossom, as in 綻放.
+  ++
 $$
 
 
