@@ -899,7 +899,7 @@ W
     [[...]]
     --
     ==
-    - ~~To exhort by precepts~~ [[Kangxi: 專敎也]];
+    - To exhort [[Kangxi: 專敎也]] by precepts [[Kangxi: 善言也]];
     - [[...]].
     ==
     --
