@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaat
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -179,10 +179,10 @@ W
         cut out to the life.
     ==
   ====
-C
-  ==
-  - Also to station, as in 紮營.
-  ==
+P
+  ++
+  1. To station, as in 紮營.
+  ++
 $$
 
 ### 茁3 | _Ch(a/)t(8)_ [[zaat3]]
