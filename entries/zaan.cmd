@@ -551,6 +551,10 @@ C
     which can arguably be interpreted in the "cup" sense
     rather than the "tablet" sense.
   ==
+P
+  ++
+  1. Impure jade (Kangxi: 三玉二石也).
+  ++
 $$
 
 ### 讚3 | _Ts(a/)n(3)_ [[zaan3]]
