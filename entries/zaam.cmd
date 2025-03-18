@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2025-03-16
+* %date-modified --> 2025-03-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -503,7 +503,7 @@ W
     - to sell [[Kangxi: 賣也]], [[...]];
     - to gain unfairly, to palm off poor goods [[Kangxi: 一曰市物失實]];
     - _(2)cho ch(a/)m(6)_
-        [[zo2 zaan6 阻賺]]
+        [[zo2 zaam6 阻賺]]
         to deceive;
         to hinder.
     ==
