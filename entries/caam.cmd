@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2025-03-14
+* %date-modified --> 2025-03-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -465,8 +465,8 @@ U
   U+5133
 V
   ==
-  - caam4 (per 《廣韻》士咸切 for "ugly" sense; per Kangxi 士咸切 for "quick" sense)
-  - zaam6 (per 《廣韻》仕陷切 for "imprudent-speech" sense; per 《集韻》仕懺切 for "flippant" sense)
+  - caam4 (per 《廣韻》士咸切 for "ugly" sense and Kangxi 士咸切 for "quick" sense)
+  - zaam6 (per 《廣韻》仕陷切 for "imprudent-speech" sense and 《集韻》仕懺切 for "flippant" sense)
   ==
 F
   ==

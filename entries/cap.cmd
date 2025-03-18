@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cap
-* %date-modified --> 2025-03-14
+* %date-modified --> 2025-03-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -175,7 +175,7 @@ U
   U+847A
 V
   ==
-  - zap1 (per 《廣韻》子入切 for "spinous-grass" sense; per Kangxi 子入切 for "piled" sense)
+  - zap1 (per 《廣韻》子入切 for "spinous-grass" sense and Kangxi 子入切 for "piled" sense)
   ==
 F
   ==
