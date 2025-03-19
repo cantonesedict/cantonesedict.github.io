@@ -229,7 +229,7 @@ W
   ====
   - [[Page~24|n67 軋(8)]]
     ==
-    - Creaking roll of a wheel;
+    - ~~Creaking~~ roll of a wheel [[Kangxi: 車輾也]];
     - a creaking, grating, sound;
     - punishment of the ~~rack or~~ wheel [[Kangxi: {𠛬=⿰幵刂}名]];
     - _(1)s(e/)ung (4)mo ch(a/)t(8)_
@@ -240,6 +240,12 @@ W
         creaking, jingling.
     ==
   ====
+C
+  ==
+  - Williams' "Creaking [...]": This is a misreading of Kangxi 車載重蹍軋有聲也
+    as a definition, when it is actually an example.
+  - Williams' "roll of a wheel": Specifically, to run over or crush with a rolling wheel.
+  ==
 $$
 
 
