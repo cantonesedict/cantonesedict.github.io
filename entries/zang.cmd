@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -691,6 +691,10 @@ C
   ==
   - Williams' "to file": This is a misreading of Kangxi 掙剉也.
     Here, 剉 means "break" or "snap", not "file".
+  ==
+P
+  ==
+  1. To break, to snap (Kangxi: 掙剉也).
   ==
 S
   ==
