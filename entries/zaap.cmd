@@ -682,6 +682,7 @@ W
   ====
 C
   ==
+  - Williams' "To flock together": Specifically, to do so on a tree.
   - Williams' "to go directly to the mark": Perhaps intended for Kangxi 就也成也,
     but that is better rendered "accomplished" or "completed".
   ==
