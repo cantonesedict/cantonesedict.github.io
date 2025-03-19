@@ -488,6 +488,11 @@ C
   - Williams' "collected": This is a misreading of Kangxi 合也.
     Here, 合 means "match".
   ==
+P
+  ++
+  1. To wear (Kangxi: 服也).
+  1. To match (Kangxi: 合也).
+  ++
 $$
 
 ### 鈒6 | _Ch(a/)p(9)_ [[zaap6]]
