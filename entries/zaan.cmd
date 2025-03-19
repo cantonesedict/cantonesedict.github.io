@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2025-03-18
+* %date-modified --> 2025-03-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -840,7 +840,10 @@ W
   ====
 P
   ++
-  1. To blossom, as in 綻放.
+  1. To blossom.
+      ==
+      - 綻放 (zaan6 fong3): "[To] blossom."
+      ==
   ++
 $$
 
