@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaap
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -379,6 +379,11 @@ C
     _shok(8)_ (sok3).
   - Williams' 習俗使然: Corrected _(5)sh(i/)_ (si5) to _(2)sz'_ (si2).
   ==
+P
+  ++
+  1. An acquaintance, a familiar.
+  1. A surname (Kangxi: 姓).
+  ++
 $$
 
 ###+ 褶6 | _Ts(a/)p(9)_ (zaap6)
