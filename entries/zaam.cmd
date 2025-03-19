@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2025-03-18
+* %date-modified --> 2025-03-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -322,7 +322,7 @@ H
   depending on the font.
 V
   ==
-  - jaam5 (vernacular)
+  - jaam5 (vernacular mapping)
   ==
 F
   ==

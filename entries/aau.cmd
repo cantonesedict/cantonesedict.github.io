@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aau
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -196,7 +196,7 @@ U
 V
   ==
   - aau1 (per 《集韻》於交切)
-  - nap1 (vernacular)
+  - nap1 (vernacular mapping)
   - ngaau3 (hypercorrected initial)
   ==
 F
