@@ -625,6 +625,11 @@ W
         low wet fields, marshes.
     ==
   ====
+P
+  ++
+  1. Newly cleared or developed land (Kangxi: 隰謂新發田也).
+  1. The waterside or riverside (Kangxi: ::[...]水邊也::).
+  ++
 $$
 
 ### 集6 | _Ts(a/)p(9)_ [[zaap6]]
