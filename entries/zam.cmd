@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2025-03-14
+* %date-modified --> 2025-03-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -511,6 +511,10 @@ E
        ==
     ++
   ====
+P
+  ++
+  1. A certain bone within the head of a fish (Kangxi: 魚腦中骨曰枕 etc.).
+  ++
 S
   ==
   - $枕zam3
