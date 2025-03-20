@@ -711,11 +711,20 @@ W
     --
   ====
 C
-  ==
+  ====
+  - Some hold that the reading variation zam6 for the vernacular "drown" sense
+    is from Middle Chinese 直禁切 _cham(6)_ (zam6) for 沈 (now spelt 沉).
+    For this departing-tone reading of 沈, note that:
+    ==
+    - 《廣韻》 provides no explanation (it simply cross-references
+      the level-tone reading _ch(')am_ (cam4) as 又直壬切).
+    - 《集韻》 has the explanation 沒也.
+    - Kangxi has 亦沒也 followed by the alternative sense 一曰投物水中也.
+    ==
   - Williams' 水浸: Specifically, flooded.
   - Williams' 汗浸紅顏: Although 紅顏 does not preclude men,
     it is generally used to describe a lady's face.
-  ==
+  ====
 E
   ====
   - 【浸】 (zam3):
@@ -730,6 +739,7 @@ E
 S
   ==
   - $浸cam1
+  - $浸zam6
   ==
 $$
 
@@ -803,6 +813,7 @@ $$
 =={.modern}
 - ${𠹻=⿰口朕}6
 - $朕6
+- $浸6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -876,5 +887,27 @@ W
 C
   ==
   - Williams' 朕兆: Changed _chi(u/)(6)_ (ziu6) to common reading _shi(u/)(6)_ (siu6). Whilst it can mean "subtle", it usually means "omen".
+  ==
+$$
+
+###+ 浸6 | _Cham(6)_ (zam6)
+
+$$.
+R
+  ⽔ + 7
+U
+  U+6D78
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation (for the vernacular "drown" sense). **See $浸zam3 for the canonical entry.**
+  ++
+S
+  ==
+  - $浸cam1
+  - $浸zam3
   ==
 $$
