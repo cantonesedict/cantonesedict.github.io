@@ -497,6 +497,10 @@ C
     I believe that, as nouns, they should appear here,
     under rising-tone 章荏切 _(2)cham_ (zam2).
   ==
+P
+  ++
+  1. A certain bone within the head of a fish (Kangxi: 魚腦中骨曰枕 etc.).
+  ++
 E
   ====
   - 【後尾枕】 (hau6 mei5 zam2):
@@ -511,10 +515,6 @@ E
        ==
     ++
   ====
-P
-  ++
-  1. A certain bone within the head of a fish (Kangxi: 魚腦中骨曰枕 etc.).
-  ++
 S
   ==
   - $枕zam3

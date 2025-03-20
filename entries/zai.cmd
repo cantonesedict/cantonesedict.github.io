@@ -691,6 +691,10 @@ C
   - Williams' 掣肘: Changed _(2)chau_ (zau2) to common reading _(2)ch(a/)u_ (zaau2).
   - Williams' "to embarrass": In the (now) archaic sense of "impede", "obstruct".
   ==
+P
+  ++
+  1. To hinder by pulling or tugging back (Kangxi: 甹夆掣曳也).
+  ++
 E
   ====
   - 【掣】 (zai3):
@@ -708,10 +712,6 @@ E
       ==
     ++
   ====
-P
-  ++
-  1. To hinder by pulling or tugging back (Kangxi: 甹夆掣曳也).
-  ++
 S
   ==
   - $掣cit3
