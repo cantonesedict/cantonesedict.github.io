@@ -888,6 +888,10 @@ C
   ==
   - Williams' 朕兆: Changed _chi(u/)(6)_ (ziu6) to common reading _shi(u/)(6)_ (siu6). Whilst it can mean "subtle", it usually means "omen".
   ==
+P
+  ++
+  1. An omen.
+  ++
 $$
 
 ###+ 浸6 | _Cham(6)_ (zam6)
