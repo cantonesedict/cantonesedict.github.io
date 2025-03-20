@@ -1063,6 +1063,10 @@ W
         a fair sky.
     ==
   ====
+P
+  ++
+  1. To cease, to stop (Kangxi: 霽止也).
+  ++
 $$
 
 
