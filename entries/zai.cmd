@@ -665,7 +665,7 @@ W
   ====
   - [[Page~10|n53 掣(3)]]
     ==
-    - To obstruct, to hinder from entering [[Kangxi: 滯隔不進也]];
+    - To obstruct, to hinder ~~from entering~~ [[Kangxi: 滯隔不進也]];
     - [[...]];
     - _(1)h(i/)n chai(3)_
         [[hin1 zai3 牽掣]]
@@ -686,6 +686,8 @@ W
   ====
 C
   ==
+  - Williams' "from entering": This is a misreading of Kangxi 滯隔不進也.
+    Here, 進 means "advancing", not "entering".
   - Williams' 掣肘: Changed _(2)chau_ (zau2) to common reading _(2)ch(a/)u_ (zaau2).
   - Williams' "to embarrass": In the (now) archaic sense of "impede", "obstruct".
   ==
@@ -706,6 +708,10 @@ E
       ==
     ++
   ====
+P
+  ++
+  1. To hinder by pulling or tugging back (Kangxi: 甹夆掣曳也).
+  ++
 S
   ==
   - $掣cit3
