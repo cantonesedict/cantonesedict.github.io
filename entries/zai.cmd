@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -636,6 +636,17 @@ W
     --
     [[Otherwise, an alternative form of 製. **See $製zai3 for the canonical entry.**]]
     --
+  ====
+E
+  ====
+  - 【制】 (zai3):
+    ++
+    1. Willing (to do), accepting (of an outcome).
+       ==
+       - 制唔制 (zai3 m4 zai3): "[Are you] willing [or] not?"
+       - 我唔制 (ngo5 m4 zai3): "I don't accept [this]!"
+       ==
+    ++
   ====
 $$
 
