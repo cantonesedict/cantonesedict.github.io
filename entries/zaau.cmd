@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaau
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -136,6 +136,10 @@ C
   - Williams' "raillery": To my knowledge, 嘲 is used for malicious or spiteful
     ridicule, not for good-natured banter.
   ==
+P
+  ++
+  1. To recite (especially metrical poetry).
+  ++
 $$
 
 
