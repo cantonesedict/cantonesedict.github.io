@@ -304,6 +304,14 @@ W
     - to cajole.
     ==
   ====
+C
+  ==
+  - Williams' "gripe": In the (now) archaic sense of "seize" or "grasp".
+  ==
+P
+  ++
+  1. To seize, to grasp.
+  ++
 $$
 
 ### 爪2 | _(2)Ch(a/)u_ [[zaau2]]
