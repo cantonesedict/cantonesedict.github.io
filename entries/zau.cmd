@@ -824,6 +824,10 @@ C
   ==
   - Strictly, the pre-merger reading should be _(1)chau_ per 《廣韻》側鳩切.
   ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 $$
 
 ### 鄹1 | _(1)Tsau_ [[zau1]]
