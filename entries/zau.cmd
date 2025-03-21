@@ -1592,6 +1592,10 @@ C
   ==
   - Fan Wan entry: Corrected 并 to 井.
   ==
+P
+  ++
+  1. To adorn, to decorate (Kangxi: 甃猶飾也).
+  ++
 $$
 
 ### 皺3 | _Tsau(3)_ [[zau3]]
