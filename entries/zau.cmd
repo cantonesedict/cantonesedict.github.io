@@ -1506,6 +1506,10 @@ C
   - Fan Wan entry: The alternative form {𩱛=⿰鬲⿳⿶凵⿻⿻⿻⿻㐅丶丶丶丶儿夊} (i.e. 糭 but with 鬲 in place of 米)
     is likely an error.
   ==
+P
+  ++
+  1. To put forward, to offer (Kangxi: 進也薦也).
+  ++
 $$
 
 ### 晝3 | _Chau(3)_ [[zau3]]
