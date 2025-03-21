@@ -1788,7 +1788,7 @@ W
     - to go towards, to approach, to draw near;
     - to accompany, accommodated to, to follow [[Kangxi: 從也]];
     - to complete [[Kangxi: 成也]], to make a circuit [[Kangxi: 帀也]], to meet [[Kangxi: 迎也]];
-    - completed, finished;
+    - completed, finished [[Kangxi: 終也]];
     - to come near in point of time;
     - an adverb, then, immediately, just, just now, presently, forthwith;
     - a conjunction, then, if, as if;
