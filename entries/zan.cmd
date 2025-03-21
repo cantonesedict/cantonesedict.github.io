@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zan
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -292,6 +292,10 @@ R
   ⼈ + 7
 U
   U+4FB2
+V
+  ==
+  - zan1 (per 《廣韻》職鄰切 for "horsekeeper" sense)
+  ==
 F
   [[Not present]]
 W
@@ -306,9 +310,20 @@ W
   ====
 C
   ==
+  - Kangxi has both the "boy" sense and the "horsekeeper" sense
+    under departing-tone 之刃切 _chan(3)_ (zan3)^,
+    followed by the permissive level-tone variation 之人切音眞 _(1)chan_ (zan1)
+    for (presumably) the latter sense.
+    In contrast, 《廣韻》 distinguishes
+    the "horsekeeper" sense under departing-tone 章刃切 _chan(3)_ (zan3)
+    from the "boy ghost-expeller" sense under level-tone 職鄰切 _(1)chan_ (zan1).
   - Williams' "of ten or twelve years": This appears in Kangxi's example,
     ::《後漢禮儀志》[...]選中黃門子弟十歲以上十二以下::, but is not part of the definition.
   ==
+P
+  ++
+  1. A groom, a horsekeeper (Kangxi: 燕齊閒謂養馬者爲侲).
+  ++
 $$
 
 ###+ 圳3 | _Chan(3)_ (zan3)
