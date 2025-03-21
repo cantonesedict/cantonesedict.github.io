@@ -335,7 +335,7 @@ U
   U+5733
 V
   ==
-  - cau4 (per Kangxi 市流切)
+  - cau4 (per Kangxi 市流切 for "field drainage" sense)
   - zeon3 (per Fan Wan)
   ==
 F
