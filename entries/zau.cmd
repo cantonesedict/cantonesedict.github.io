@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -406,10 +406,14 @@ W
   - [[Page~560 (1)棷]]
     ==
     - A kind of wood suitable for fuel [[Kangxi: 木薪也]];
-    - ~~it is used for making watchmen's alarms;~~
+    - [[...]];
     - ~~a surname.~~
     ==
   ====
+S
+  ==
+  - $棷zau2
+  ==
 $$
 
 ### 洲1 | _(1)Chau_ [[zau1]]
@@ -955,6 +959,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $帚2
+- $棷2
 - $箒2
 - $肘2
 - $走2
@@ -988,6 +993,30 @@ C
 S
   ==
   - $帚zaau2
+  ==
+$$
+
+###+ 棷2 | _(2)Chau_ (zau2)
+
+$$
+R
+  ⽊ + 8
+U
+  U+68F7
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~560 (1)棷 _(1)Tsau_ (zau1); here corrected to _(2)Chau_ (zau2)]]
+    ==
+    - [[...]];
+    - ~~it is used for making~~ watchmen's alarms [[Kangxi: 夜戒守有所擊也]];
+    - [[...]].
+    ==
+  ====
+S
+  ==
+  - $棷zau1
   ==
 $$
 
