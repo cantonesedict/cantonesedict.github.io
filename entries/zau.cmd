@@ -609,6 +609,10 @@ C
     the pre-merger reading should be _(1)chau_;
     《集韻》 has the reading 甾尤切, explained 小言私授謂之謅.
   ==
+P
+  ++
+  1. To make up, to fabricate.
+  ++
 $$
 
 ### 譸1 | _(1)Chau_ [[zau1]]
