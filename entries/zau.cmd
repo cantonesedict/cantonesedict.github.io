@@ -1898,7 +1898,7 @@ W
   - [[Page~562 岫(6)]]
     ==
     - A den, a cave among the hills [[Kangxi: 山穴也]];
-    - a glen, a ravine, gorge, or defile [[Kangxi: 山有穴爲岫]].
+    - a glen, a ravine, gorge, or defile.
     ==
   ====
 C
