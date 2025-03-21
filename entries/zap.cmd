@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zap
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -130,6 +130,11 @@ W
     [[Otherwise, an alternative form of 蓻. **See $蓻zap1 for the canonical entry.**]]
     --
   ====
+P
+  ++
+  1. To manage, to judge (Kangxi: 處也).
+  1. To carry out, to execute.
+  ++
 E
   ====
   - 【執】 (zap1):
