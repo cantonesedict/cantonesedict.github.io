@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2025-03-18
+* %date-modified --> 2025-03-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -722,7 +722,7 @@ W
   ====
   - [[Page~16|n59 (4)攙]]
     --
-    [[Reading variation (for literary "stab" sense). **See $攙caam1 for the canonical entry.**]]
+    [[Reading variation (for the "stab" sense). **See $攙caam1 for the canonical entry.**]]
     --
   ====
 S

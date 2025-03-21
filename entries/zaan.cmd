@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2025-03-19
+* %date-modified --> 2025-03-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -219,7 +219,7 @@ W
   [[Not present]]
 P
   ++
-  1. Reading variation (vernacular rising-tone noun). **See $棧zaan6 for the canonical entry.**
+  1. Reading variation (for "small-bridge" sense and vernacular rising-tone noun). **See $棧zaan6 for the canonical entry.**
   ++
 S
   ==
