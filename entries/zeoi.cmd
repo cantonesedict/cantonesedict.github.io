@@ -1024,19 +1024,23 @@ W
     ~~Read _ts(u:)(6)_ [[zeoi6]];~~
     --
     ==
-    - to act respectfully in order to flatter one;
+    - ~~to act respectfully in order to flatter one;~~
     - ~~careful of one's words;~~
     - to increase [[Kangxi: 添物也, 益也]];
     - _ts(u:)[(3)] (1)kung (1)(u:) (4)yan_
         [[zeoi3 gung1 jyu1 jan4 足恭於人]],
-        to humor and flatter people.
+        ~~to humor and flatter people~~.
     ==
   ====
 C
   ==
-  - Williams' "to flatter one": Better defined as "excessive" (Kangxi: 過也),
+  - Williams' "to act respectfully [...]": Better defined as "excessive",
     in that 足恭 means "excessively deferential".
   ==
+P
+  ++
+  1. Excessive (Kangxi: 過也).
+  ++
 S
   ==
   - $足zuk1
