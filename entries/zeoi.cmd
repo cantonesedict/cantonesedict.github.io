@@ -736,6 +736,13 @@ C
     whether this means "pass" or "excessive".
   - Williams' "discomfit": In the (now) archaic sense of "defeat".
   ==
+P
+  ++
+  1. Dejected, despondent.
+      ==
+      - 沮喪 (zeoi2 song3): "Dejected."
+      ==
+  ++
 S
   ==
   - $沮zeoi1
