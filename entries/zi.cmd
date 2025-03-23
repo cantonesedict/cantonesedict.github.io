@@ -1405,10 +1405,10 @@ W
     --
   - [[Page~611 (1)資]]
     ==
-    - Property, riches, things of value;
+    - Property, riches, things of value [[Kangxi: 貨也]];
     - necessaries, articles wanted;
     - a fee, a douceur, a treat, a present;
-    - to take;
+    - to take [[Kangxi: 資取也]];
     - to depend on another;
     - what belongs to one, what ts natural, as disposition;
     - what was had at the first;
@@ -1437,15 +1437,24 @@ W
         without any sources or dependence.
     ==
     --
-    Occurs used for the next [[$漬1]].
+    ~~Occurs used for the next [[漬]].~~
     --
   ====
 C
   ==
+  - Williams' "to take": Perhaps "to utilise".
   - Williams' 酒資, 檳資: Very dated.
   - Williams' 資格: Now "eligibility".
-  - Williams' "used for the next": I have not seen 資 used for 漬.
   ==
+P
+  ++
+  1. To accumulate.
+  1. To supply, to aid.
+      ==
+      - 資敵 (zi1 dik6): "Supply [the] enemy."
+      - 資助 (zi1 zo6): "Subsidise."
+      ==
+  ++
 $$
 
 ### 趑1 | _(1)Tsz'_ [[zi1]]
