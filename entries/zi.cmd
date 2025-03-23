@@ -1644,13 +1644,14 @@ W
   ====
   - [[Page~612 (1)鼒]]
     ==
-    - A small round tripod;
-    - a round lid or cover of a tripod.
+    - A small round tripod [[Kangxi: 小鼎也]];
+    - a round lid ~~or cover of a~~ tripod [[Kangxi: 鼎之圜掩上者]].
     ==
   ====
 C
   ==
   - Fan Wan entry: Corrected headword {𪔇=⿱木鼎} to 鼒.
+  - Williams' "round lid or cover": This should be "round-lidded or covered".
   ==
 $$
 
