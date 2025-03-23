@@ -1614,13 +1614,19 @@ W
   ====
   - [[Page~612 (1)髭]]
     ==
-    - The mustaches, which the Chinese wear long;
-    - beautiful, good-looking;
+    - The mustaches [[Kangxi: 口上須也]], which the Chinese wear long;
+    - ~~beautiful, good-looking;~~
     - _(1)tsz' (1)s(o\)_
         [[zi1 sou1 髭鬚]],
         the mustaches.
     ==
   ====
+C
+  ==
+  - Williams' "beautiful, good-looking":
+    This is taking Kangxi 《釋名》髭姿也爲姿容之美也 as a standalone definition,
+    when it is intended as an homophony-definition of the "moustache" sense.
+  ==
 $$
 
 ### 鼒1 | _(1)Tsz'_ [[zi1]]
