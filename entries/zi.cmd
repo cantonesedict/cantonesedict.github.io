@@ -1582,6 +1582,9 @@ R
   ⾦ + 9
 U
   U+93A1
+H
+  May appear as either ⿰釒兹 (+9 assumed here) or ⿰釒茲 (+10),
+  depending on the font.
 F
   ==
   - [[F2.34 鎡]] 鋤頭之屬
@@ -1590,7 +1593,7 @@ W
   ====
   - [[Page~610 (1)鎡]]
     ==
-    - A hoe for removing weeds, called _(1)tsz' (1)k(i/)_ [[zi1 gei1 鎡基]],
+    - A hoe ~~for removing weeds~~, called _(1)tsz' (1)k(i/)_ [[zi1 gei1 鎡基]] [[Kangxi: 鎡錤鉏也]],
       having a long narrow blade.
     ==
   ====
