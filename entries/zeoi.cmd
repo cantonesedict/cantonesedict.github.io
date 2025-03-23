@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2025-03-16
+* %date-modified --> 2025-03-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -88,6 +88,11 @@ W
       at the end of sentences, as an affirmative [[Kangxi: 語餘聲]].
     ==
   ====
+P
+  ++
+  1. Numerous, many (Kangxi: 多貌).
+  1. The sixth lunar month (Kangxi: 六月爲且).
+  ++
 S
   ==
   - $且ce2
