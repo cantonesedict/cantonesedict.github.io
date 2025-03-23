@@ -515,6 +515,10 @@ A
   ==
   - $啍1
   ==
+V
+  ==
+  - zeon3 (per Kangxi 之閏切 for "assist" sense)
+  ==
 F
   ==
   - [[F2.52 諄]] 詳語貌又懇誠也
@@ -539,6 +543,11 @@ W
         to make plain, to impress on one.
     ==
   ====
+P
+  ++
+  1. Sincere, earnest (Kangxi: 誠懇貌).
+  1. To assist (Kangxi: 佐也).
+  ++
 $$
 
 ### 迍1 | _(1)Chun_ [[zeon1]]
