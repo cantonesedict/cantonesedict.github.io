@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2025-03-16
+* %date-modified --> 2025-03-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -112,7 +112,7 @@ W
     - often used in the abstract, after a noun,
       or as a relative particle, in apposition;
     - ~~to progress;~~
-    - to go to;
+    - to go to [[Kangxi: 往也]];
     - _[t(')ing](3) (1)ch(i/) (1)ch(i/) (4)yan_
         [[ting3 zi1 zi1 jan4 聽之之人]],
         the person who hears him;
@@ -147,12 +147,17 @@ W
   ====
 C
   ==
-  - The senses given in Kangxi are too unsatisfactory
-    to be mapped to Williams' definitions.
+  - Many of the senses given in Kangxi are too unsatisfactory
+    to be mapped to Williams' definitions above.
     For example, where Kangxi has 語助辭 "speech-assist word" (i.e. particle),
     the examples given are actually for the objective pronoun sense.
   - Williams' 聽之之人: Corrected _t(')eng(3)_ (teng3) to _t(')ing(3)_ (ting3).
   ==
+P
+  ++
+  1. This (Kangxi: 此也).
+  1. Till, until (Kangxi: 至也).
+  ++
 $$
 
 ### 兹1 | _(1)Tsz'_ [[zi1]]
