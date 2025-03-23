@@ -446,6 +446,10 @@ C
   - Williams' "to sue": In the sense of seeking by request.
   - Williams' "to expel": This is a misreading of Kangxi 逐也.
   ==
+S
+  ==
+  - $追deoi1 (TODO)
+  ==
 $$
 
 ### 錐1 | _(1)Chui_ [[zeoi1]]
