@@ -794,6 +794,10 @@ W
         is it exact?
     ==
   ====
+P
+  ++
+  1. To imitate, to emulate (Kangxi: 則也倣也).
+  ++
 $$
 
 ### 燼2 | _(2)Tsun_ [[zeon2]]
