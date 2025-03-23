@@ -1180,6 +1180,10 @@ W
         a falling womb, an abortion.
     ==
   ====
+C
+  ==
+  - Williams' "to pull on": Specifically, to tug downward by hung weight.
+  ==
 $$
 
 ### 序6 | _Ts(u:)(6)_ [[zeoi6]]
