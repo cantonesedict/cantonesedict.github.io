@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zek
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-23
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -442,6 +442,10 @@ C
   - Williams does not provide separate entries for $跖3 and 蹠.
     I have split things up accordingly.
   ==
+P
+  ++
+  1. To go unto (Kangxi: 蹠適也).
+  ++
 $$
 
 ### 隻3 | _[Chek(8)]_ [[zek3]]
