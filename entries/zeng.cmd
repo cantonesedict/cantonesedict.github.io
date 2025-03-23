@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeng
-* %date-modified --> 2025-03-02
+* %date-modified --> 2025-03-23
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -232,7 +232,7 @@ W
     - it was first placed where the capital of Shens(i/) [[陝西]] lies;
     - _[cheng](6) chung(6)_
         [[zeng6 zung6 鄭重]]
-        prudent, ~~inflexible~~.
+        prudent [[Kangxi: 鄭重殷勤之意]], ~~inflexible~~.
     ==
   ====
 C
@@ -241,6 +241,10 @@ C
   - Williams erroneously puts 鄭 under aspirated _ch(')^ing(6)_ (cing6).
   - Williams' 鄭重: In modern usage, only "solemn".
   ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 S
   ==
   - $鄭zing6
