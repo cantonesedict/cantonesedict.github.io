@@ -1549,6 +1549,10 @@ R
   ⾦ + 8
 U
   U+9319
+A
+  ==
+  - 鍿
+  ==
 F
   ==
   - [[F2.34 錙]] 耕田之器又錙銖
@@ -1557,7 +1561,7 @@ W
   ====
   - [[Page~611 (1)錙]]
     ==
-    - A weight equal to six _(1)ch(u:)_ [[zyu1]] 銖
+    - A weight equal to six _(1)ch(u:)_ [[zyu1]] 銖 [[Kangxi: 六銖也]]
       or the fourth part of a tael [[両]],
       not now in use;
     - _(1)tsz' (1)ch(u:)_
