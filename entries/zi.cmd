@@ -1915,13 +1915,17 @@ W
   ====
   - [[Page~39|n82 (2)址]]
     ==
-    - A foundation, fundamental;
+    - A foundation [[Kangxi: 基也]], fundamental;
     - one's own country or origin;
     - _(1)k(i/) (2)ch(i/)_
         [[gei1 zi2 基址]],
         a foundation, a base, a dependance.
     ==
   ====
+P
+  ++
+  1. A site.
+  ++
 $$
 
 ###+ 坁2 | _(2)Ch(i/)_ (zi2)
