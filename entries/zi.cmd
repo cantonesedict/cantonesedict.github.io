@@ -2046,18 +2046,18 @@ W
   ====
   - [[Page~612 (2)子]]
     ==
-    - A son, anciently it meant a child;
+    - A son [[Kangxi: 男子之通稱]], anciently it meant a child [[Kangxi: 女子亦稱子]];
     - a boy, a lad, a person;
-    - an heir, posterity, issue;
+    - an heir, posterity, issue [[Kangxi: 息也嗣也]];
     - interest on money;
     - seeds of plants;
-    - a sage, a philosopher, a venerable and worthy man;
+    - a sage, a philosopher, a venerable and worthy man [[Kangxi: 子者人之嘉稱故凡成德謂之君子 etc.]];
     - Confucius;
-    - you, Sir, a term of address, somewhat like comrades;
-    - a degree of nobility, a viscount;
+    - you, Sir, a term of address, ~~somewhat like comrades~~;
+    - a degree of nobility, a viscount [[Kangxi: 公侯伯子男凡五等]];
     - the first of the twelve stems, denoted by the rat;
     - the third watch, from 11~P.~M. to 1~A.~M.;
-    - the people, in distinction from their prince;
+    - ~~the people, in distinction from their prince;~~
     - a spot, as of dirt or on dice;
     - added to many nouns,
       it indicates that they are smaller than others of the same sort;
@@ -2131,6 +2131,9 @@ W
   ====
 C
   ==
+  - Williams' "the people, [...]": This is a misreading of Kangxi 子庶民也.
+    This is an example from 《中庸》, where 子 is a verb (to treat as children).
+    It is *not* a zero-copula statement explaining 子 as 庶民.
   - Williams' 子母錢: Corrected _(4)m(o\)_ (mou4) to _(5)m(o\)_ (mou5).
   - Williams' 長子: Appears twice.
   ==
