@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1301,6 +1301,7 @@ C
   - Williams' 141~English inches:
     The Ts(')ing Dynasty _ch(')ek_ (尺) was only standardised to 14⅝~inches
     by the British in Hong Kong in [Ordinance No.~8 of 1885].
+    See also commentary at $咫zi2.
   ==
 $$
 

@@ -1873,9 +1873,9 @@ W
   ====
   - [[Page~40|n83 (2)咫]]
     ==
-    - An ancient short cubit of 8~_ts(')(u:)n_ [[寸]],
+    - An ancient short cubit of 8~_ts(')(u:)n_ [[寸]] [[Kangxi: 中婦人手長八寸謂之咫周尺也]],
       same as an English foot;
-    - small degree of;
+    - small degree of [[Kangxi: 咫言少也]];
     - _(2)ch(i/) ch(')ek(8) (1)ch(i/) t(i/)(6)_
         [[zi2 cek3 zi1 dei6 咫尺之地]]
         a little way, a small interval.
@@ -1884,8 +1884,21 @@ W
 C
   ==
   - Fan Wan entry: Corrected (second) 尺 to 寸.
+  - Williams' "same as an English foot": Similar, but not exactly the same.
+    From Williams' entry for $丈zoeng6,
+    he effectively puts the _ch(')ek_ 尺 at 14.1~inches.
+    80% of this is 11.28~inches, which is somewhat short of an English foot.
+    If we take the _ch(')ek_ 尺 to be 14⅝~inches
+    per the later [Ordinance No.~8 of 1885] in British Hong Kong,
+    80% of this is 11.7~inches, which is close enough to an English foot.
   ==
+P
+  ++
+  1. Short in distance, near (Kangxi: 咫咫尺閒也).
+  ++
 $$
+
+[Ordinance No.~8 of 1885]: https://web.archive.org/web/20220609133538/https://oelawhk.lib.hku.hk/archive/files/52fa22f83069cf6a385779d462a0f6e7.pdf
 
 ### 址2 | _(2)Ch(i/)_ [[zi2]]
 
