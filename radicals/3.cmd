@@ -542,6 +542,7 @@ For all radicals, see [Index of characters by radical](./).
       - $姒ci5
       - $妾cip3
       - {$姐ze1, $姐ze2}
+      - $姉zi2
       - $姊zi2
       - $妯zuk6
       ==

@@ -1668,6 +1668,7 @@ $$
 - $址2
 - $坁2
 - $坻2
+- $姉2
 - $姊2
 - $子2
 - $帋2
@@ -1974,6 +1975,23 @@ S
   ==
 $$
 
+###+ 姉2 | _(2)Tsz'_ (zi2)
+
+$$.
+R
+  ⼥ + 5
+U
+  U+59C9
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 姊. **See $姊zi2 for the canonical entry.**
+  ++
+$$
+
 ### 姊2 | _(2)Tsz'_ [[zi2]]
 
 $$
@@ -1983,7 +2001,7 @@ U
   U+59CA
 A
   ==
-  - 姉
+  - $姉2
   ==
 F
   ==
