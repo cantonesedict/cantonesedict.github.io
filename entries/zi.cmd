@@ -1981,6 +1981,10 @@ R
   ⼥ + 5
 U
   U+59CA
+A
+  ==
+  - 姉
+  ==
 F
   ==
   - [[F2.35 姊]] 姐也女之長者曰姊
@@ -1989,7 +1993,7 @@ W
   ====
   - [[Page~613 (2)姊]]
     ==
-    - An elder sister;
+    - An elder sister [[Kangxi 姉: ::男子謂女子先生[爲]姉::]];
     - a school-mistress;
     - _(2)tsz' m(u/)i(6)_
         [[zi2 mui6-2 姊妹]]
