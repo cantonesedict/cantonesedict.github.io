@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2025-03-23
+* %date-modified --> 2025-03-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1838,15 +1838,23 @@ W
   ====
   - [[Page~613 (2)呰]]
     ==
-    - To molest, to be needlessly strict;
-    - to revile;
-    - weak;
-    - a defect, a flaw.
+    - ~~To molest, to be needlessly strict;~~
+    - to revile [[Kangxi: 苛也, 口毀也]];
+    - weak [[Kangxi: 弱也]];
+    - [[...]].
     ==
   ====
 C
   ==
+  - Williams' "to be needlessly strict": Here, Williams has been misled
+    by the space in Kangxi between 《說文》苛也 and 又《玉篇》口毀也.
+    This space should not be present, as both mean the same sense "denigrate".
   - Fan Wan entry: Corrected 溺 to 弱.
+  ==
+S
+  ==
+  - $呰ci1
+  - $呰ci4
   ==
 $$
 

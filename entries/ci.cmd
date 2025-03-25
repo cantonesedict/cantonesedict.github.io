@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2025-03-16
+* %date-modified --> 2025-03-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -48,6 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $呞1
+- $呰1
 - $嗤1
 - $媸1
 - $差1
@@ -87,6 +88,29 @@ W
     [[Alternative form of 齝. **See $齝ci1 for the canonical entry.**]]
     --
   ====
+$$
+
+###+ 呰1 | _(1)Ts(')z'_ (ci1)
+
+$$.
+R
+  ⼝ + 6
+U
+  U+5470
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~613 (2)呰 _(2)Tsz'_ (zi2); here corrected to _(4)Ts(')z'_ (ci4) and normalised to _(1)Ts(')z'_ (ci1)]]
+    --
+    [[Alternative form of 疵. **See $疵ci1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $呰ci4
+  - $呰zi2
+  ==
 $$
 
 ### 嗤1 | _(1)Ch(')(i/)_ [[ci1]]
@@ -195,6 +219,10 @@ R
   ⽧ + 6
 U
   U+75B5
+A
+  ==
+  - $呰1
+  ==
 V
   ==
   - ci4 (per 《廣韻》疾移切)
@@ -206,6 +234,11 @@ F
   ==
 W
   ====
+  - [[Page~613 (2)呰 _(2)Tsz'_ (zi2); here corrected to _(4)Ts(')z'_ (ci4) and normalised to 疵 _(1)Ts(')z'_ (ci1)]]
+    ==
+    - [[...]];
+    - a defect, a flaw [[Kangxi 呰: 瑕也]].
+    ==
   - [[Page~615 (4)疵 _(4)Ts(')z'_ (ci4); here normalised to _(1)Ts(')z'_ (ci1)]]
     ==
     - Malady [[Kangxi: 病也]], disease, infirmity;
@@ -1947,6 +1980,7 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $呰4
 - $坻4
 - $墀4
 - $弛4
@@ -1978,6 +2012,29 @@ $$
 ==
 </nav>
 <## /tone-4-characters ##>
+
+###+ 呰4 | _(4)Ts(')z'_ (ci4)
+
+$$.
+R
+  ⼝ + 6
+U
+  U+5470
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~613 (2)呰 _(2)Tsz'_ (zi2); here corrected to _(4)Ts(')z'_ (ci4)]]
+    --
+    [[Alternative form of 疵, and reading variation. **See $疵ci1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $呰ci1
+  - $呰zi2
+  ==
+$$
 
 ### 坻4 | _(4)Ch(')(i/)_ [[ci4]]
 
