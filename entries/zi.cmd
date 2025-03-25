@@ -2177,16 +2177,12 @@ F
   ==
 W
   [[Not present]]
-C
-  ==
-  - The reading _(2)ch(i/)_ (zi2) for 徵 is not present in Williams;
-    an entry is included here for completeness.
-    ++
-    1. The note a perfect fifth (ratio 81:54 = 3:2 under 史記 tuning)
-       above 宮 in the olden Chinese pentatonic scale,
-       equivalent to _sol_ in solfège.
-    ++
-  ==
+P
+  ++
+  1. The note a perfect fifth (ratio 81:54 = 3:2 per 《史記》 tuning)
+      above 宮 in the olden Chinese pentatonic scale,
+      equivalent to _sol_ in solfège (Kangxi: 宮徵也, ::[...]五音配夏::).
+  ++
 S
   ==
   - $徵zing1

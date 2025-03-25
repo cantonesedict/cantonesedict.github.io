@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -172,15 +172,15 @@ W
   ====
   - [[Page~19* (1)徵]]
     ==
-    - To act;
-    - to set in motion;
+    - ~~To act;~~
+    - ~~to set in motion;~~
     - to witness, to testify;
-    - to cite, to summon;
+    - to cite, to summon [[Kangxi: 召也]];
     - to verify;
-    - evidence;
-    - to inquire after;
-    - to gather together;
-    - to aim at;
+    - evidence [[Kangxi: 證也明也]];
+    - to inquire after [[Kangxi: 問也]];
+    - to gather together [[Kangxi: 斂也]];
+    - ~~to aim at;~~
     - to raise, as troops;
     - to collect, as taxes;
     - fullfilment, proof;
@@ -211,6 +211,15 @@ W
         accomplished.
     ==
   ====
+P
+  ++
+  1. To seek (Kangxi: 求也).
+  1. A sign, an omen.
+     ==
+     - 病徵 (beng6 zing1): "Sign of disease."
+     - 徵兆 (zing1 siu6): "Omen".
+     ==
+  ++
 S
   ==
   - $徵zi2
