@@ -2658,7 +2658,7 @@ W
     Often confounded with and used for _(2)ch(i/)_ [[zi2]] 祗.
     --
     --
-    [[In particular, an alternative form of 只 (for the "only" senses). **See $只zi2 for the canonical entry.**]]
+    [[Alternative form of 只 (for the "only" senses). **See $只zi2 for the canonical entry.**]]
     --
   ====
 C
