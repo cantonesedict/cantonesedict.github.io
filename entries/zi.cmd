@@ -2528,8 +2528,8 @@ W
   ====
   - [[Page~39|n82 (2)沚]]
     ==
-    - An islet;
-    - to take up one's lodging on an island;
+    - An islet [[Kangxi: 小渚曰沚]];
+    - to take up one's lodging on an island [[Kangxi: 止息也可以止息其上]];
     - _(2)chi(u/) (2)ch(i/)_
         [[ziu2 zi2 沼沚]],
         an islet in a pond.
