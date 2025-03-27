@@ -2546,8 +2546,8 @@ U
   U+6CF2
 V
   ==
-  - zai2 (from 濟 rising)
-  - zai3 (from 濟 departing)
+  - zai2 (per 《集韻》子禮切)
+  - zai3 (common)
   ==
 F
   ==
@@ -2557,17 +2557,17 @@ W
   ====
   - [[Page~613 (2)泲]]
     ==
-    - Name of a river on the east of China;
-    - to strain spirits;
-    - a strainer made of plants.
+    - Name of a river on the east of China [[Kangxi: 泲沇也東流於海]];
+    - to strain spirits [[Kangxi: 莤泲釃酒也]];
+    - ~~a strainer made of plants.~~
     ==
   ====
 C
   ==
-  - Kangxi quotes 《玉篇》古文濟字, so strictly 泲 should be read as 濟.
-    Moreover, rising-tone zai2 is more correct than departing-tone zai3,
-    because the reading of 濟 explained 水名 is the rising-tone one,
-    namely 子禮切 _(2)tsai_ (zai2).
+  - Kangxi has 《玉篇》古文濟字. The common reading zai3 in departing tone
+    is probably a result of using the wrong reading of 濟.
+    The reading of 濟 corresponding to the proper-name sense
+    is rising-tone 子禮切 _(2)tsai_ (zai2).
   ==
 $$
 
