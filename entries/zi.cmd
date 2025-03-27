@@ -2602,6 +2602,11 @@ R
   ⽔ + 10
 U
   U+6ED3
+V
+  ==
+  - zi1 (per Kangxi ::又平聲[...]滓音湽::)
+  - zoi2 (common)
+  ==
 F
   ==
   - [[F2.35 滓]] 洒滓渣滓
@@ -2610,7 +2615,7 @@ W
   ====
   - [[Page~613 (2)滓]]
     ==
-    - Sediments, dregs;
+    - Sediments, dregs [[Kangxi: 澱也]];
     - _chap(7) (2)tsz'_
         [[zap1 zi2 汁滓]]
         grains from spirits;
@@ -2625,6 +2630,12 @@ W
 C
   ==
   - Strictly, the pre-merger reading should be _(2)ch(i/)_ per 《廣韻》阻史切.
+  - The common reading zoi2 (after the phonetic 宰) is considered unlearned;
+    I have not yet encountered a dictionary that records it.
+  ==
+S
+  ==
+  - $滓zoi2
   ==
 $$
 

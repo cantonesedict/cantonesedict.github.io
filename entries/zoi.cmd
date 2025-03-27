@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoi
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -320,6 +320,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $宰2
+- $滓2
 - $載2
 ==
 </nav>
@@ -366,6 +367,27 @@ W
         to kill an ox.
     ==
   ====
+$$
+
+###+ 滓2 | _(2)Tsoi_ (zoi2)
+
+$$.
+R
+  ⽔ + 10
+U
+  U+6ED3
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $滓zi2 for the canonical entry.**
+  ++
+S
+  ==
+  - $滓zi2
+  ==
 $$
 
 ### 載2 | _(2)Tsoi_ [[zoi2]]
