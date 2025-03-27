@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2025-03-25
+* %date-modified --> 2025-03-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2204,12 +2204,12 @@ W
   ====
   - [[Page~39|n82 (2)指]]
     ==
-    - A finger, a toe;
+    - A finger [[Kangxi: 手指也 etc.]], a toe [[Kangxi: ::將指[...]足大指也::]];
     - to point, to refer to;
-    - to teach, to command;
-    - a particular, a mode;
-    - to point out;
-    - used for the last [[$旨2]];
+    - ~~to teach~~, to command [[Kangxi: 指麾也]];
+    - ~~a particular, a mode;~~
+    - to point out [[Kangxi: 示也]];
+    - [[...]];
     - _(2)ch(i/) (4)n(a/)m [(1)k(u:)]_
         [[zi2 naam4 geoi1 指南車]],
         the compass;
@@ -2256,14 +2256,23 @@ W
         [[zi2 sat6 指實]]
         certain, sure.
     ==
+    --
+    [[Otherwise, an alternative form of 旨. **See $旨zi2 for the canonical entry.**]]
+    --
   ====
 C
   ==
+  - Williams' "to command": Better rendered "to give directions".
   - Williams' 指南車: Corrected _(1)ch(')(e/)_ (ce1) to _(1)k(u:)_ (geoi1).
     Strictly, this is the south-pointing chariot.
     The compass is now called 指南針.
   - Williams' 指手畫腳: Figuratively, to make overt criticism, to assume authority and give out orders, etc.
   ==
+P
+  ++
+  1. To rebuke, to criticise (Kangxi: 斥也).
+  1. To rely on, to hope for.
+  ++
 E
   ====
   - 【尾指】 (mei5-1 zi2)
@@ -2305,7 +2314,8 @@ U
   U+65E8
 A
   ==
-  - $指2 (for "intention" senses)
+  - 恉 (for "intention" senses)
+  - $指2 (for "intention" and "fine" senses)
   ==
 F
   ==
@@ -2337,6 +2347,12 @@ W
     - _yat(7) (1)ch(e/)ung (1)ch(i/) t(a/)i(6) (2)ch(i/)_
         [[jat1 zoeng1 zi1 daai6 zi2 一章之大旨]],
         an important remark, a synopsis.
+    ==
+  - [[Page~39|n82 (2)指]]
+    ==
+    - [[...]];
+    - used for the last [[旨]] [[Kangxi 指: 與旨恉通意向也, 歸趣也, 美也]];
+    - [[...]].
     ==
   ====
 $$
