@@ -2463,14 +2463,14 @@ W
   ====
   - [[Page~39|n82 (2)止]]
     ==
-    - To stop;
-    - to lodge, to dwell, to rest;
-    - that which the mind rests in, an object;
-    - to detain;
-    - interrupted, stopped;
-    - to cease from, to desist, to be still;
+    - To stop [[Kangxi: 停也足也]];
+    - to lodge, to dwell [[Kangxi: 居也]], to rest [[Kangxi: 息也]];
+    - that which the mind rests in [[Kangxi: 心之所安爲止]], an object [[Kangxi: 止者必至於是而不遷之謂]];
+    - ~~to detain;~~
+    - interrupted, stopped [[Kangxi: 已也]];
+    - to cease from, to desist, to be still [[Kangxi: 靜也, 不妄動也]];
     - to remain, to wait;
-    - [[see $只zi2 for "only" senses]];
+    - [[...]];
     - the 77th~radical of characters mostly relating to rest;
     - [[...]];
     - _(1)ch(i/) (2)ch(i/)_
@@ -2490,7 +2490,27 @@ W
         [[mou4 dai2 zi2 無底止]],
         nothing to stop at.
     ==
+    --
+    [[Otherwise, an alternative form of 只 (for the "only" senses). **See $只zi2 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 趾 (for the "foot" sense). **See $趾zi2 for the canonical entry.**]]
+    --
   ====
+C
+  ==
+  - Williams' "to detain": Either a poor rendering of Kangxi 留也
+    or a misreading of Kangxi 凡戰而被獲曰止.
+  ==
+P
+  ++
+  1. To keep (Kangxi: 留也).
+  1. To be captured in battle (Kangxi: 凡戰而被獲曰止).
+  1. Demeanour, bearing (Kangxi: 容止).
+  1. Behaviour (Kangxi: 舉止).
+  1. A mallet used for a certain musical instrument (Kangxi: 所以鼓柷謂之止, 止者其椎名也).
+  1. Speech-assist (Kangxi: 語辭), specifically a final particle.
+  ++
 $$
 
 ### 沚2 | _(2)Ch(i/)_ [[zi2]]
@@ -2983,6 +3003,10 @@ R
   ⾜ + 4
 U
   U+8DBE
+A
+  ==
+  - $止2 (for "foot" sense)
+  ==
 F
   ==
   - [[F1.39 趾]] 脚趾
