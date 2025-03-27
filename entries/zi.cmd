@@ -2420,9 +2420,9 @@ W
   ====
   - [[Page~612 (2)梓]]
     ==
-    - A sort of tree, considered to be the best of all trees
-      (a sort of cedar?);
-    - to cut blocks for books;
+    - A sort of tree [[Kangxi: 楸也]],
+      considered to be the best of all trees [[Kangxi: 梓爲百木長故呼梓爲木王 etc.]] (a sort of cedar?);
+    - to cut blocks for books [[Kangxi: 俗謂鋟文書於板曰梓]];
     - one's village;
     - _(2)tsz' (5)l(i/)_
         [[zi2 lei5 梓里]],
@@ -2433,15 +2433,19 @@ W
     - _(2)tsz' (4)hang_
         [[zi2 hang4 梓行]],
         printed by <`....`>;
-    - _(2)tsz' (4)t(')(a/)n_
+    - ~~_(2)tsz' (4)t(')(a/)n_
         [[zi2 taan4 梓檀]],
-        a solid kind of black wood
+        a solid kind of black wood~~.
     ==
   ====
 C
   ==
   - Williams' 梓檀: Should probably be 紫檀.
   ==
+P
+  ++
+  1. Woodwork (Kangxi: 治木器曰梓).
+  ++
 $$
 
 ### 止2 | _(2)Ch(i/)_ [[zi2]]
