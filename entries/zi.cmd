@@ -2690,7 +2690,7 @@ W
   ====
   - [[Page~39|n82 (2)祉]]
     ==
-    - Happiness;
+    - Happiness [[Kangxi: 福也]];
     - _fuk(7) (2)ch(i/)_
         [[fuk1 zi2 福祉]],
         blessed, happy, enduring felicity;
