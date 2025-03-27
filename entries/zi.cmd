@@ -2325,10 +2325,10 @@ W
   ====
   - [[Page~39|n82 (2)旨]]
     ==
-    - Meaning, intention;
-    - excellent;
+    - Meaning, intention [[Kangxi: 意也志也]];
+    - excellent [[Kangxi: 美也]];
     - pleasant tasted, delicate;
-    - a decretal, orders;
+    - a decretal, orders [[Kangxi: 凡天子諭吿臣民曰詔旨下承上曰奉旨]];
     - _fung(6) (2)ch(i/)_
         [[fung6 zi2 奉旨]],
         to receive orders;
