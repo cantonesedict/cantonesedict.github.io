@@ -2748,17 +2748,35 @@ W
   - [[Page~613 (2)秭]]
     ==
     - A stack of corn;
-    - to number;
-    - the ninth place in notation[,] a hundred [million];
-    - a weight of 640~peculs.
+    - ~~to number;~~
+    - ~~the ninth place in notation[,] a hundred [million];~~
+    - a weight of 640~peculs [[Kangxi: 六萬四千斤也]].
     ==
   ====
 C
   ====
-  - Williams' "to number": A misreading of Kangxi 數也.
+  - Williams' "to number": This is a misreading of Kangxi 數也.
     Here, 數 is a noun (departing), not a verb (rising).
-  - Williams' 640~peculs: 六萬四千斤.
+  - Williams' "ninth place [...]": By "ninth place in notation",
+    Williams intends 10<sup>8</sup>, which is incorrect.
+    Here, Williams has been misled by Fan Wan's progression (億兆京秭),
+    which is missing 垓 before 秭.
   ====
+P
+  ++
+  1. A large number (Kangxi: 數也).
+     Based on the progression 億兆京垓秭 etc., one of the following:
+      ==
+      - 10<sup>9</sup>
+        (starting from 億 = 10<sup>5</sup> and going up by factors of 10);
+      - 10<sup>12</sup>
+        (starting from 億 = 10<sup>8</sup> and going up by factors of 10);
+      - 10<sup>24</sup>
+        (starting from 億 = 10<sup>8</sup> and going up by factors of 10<sup>4</sup>);
+      - 10<sup>128</sup>
+        (starting from 億 = 10<sup>8</sup> and going up by squares).
+      ==
+  ++
 $$
 
 ### 紙2 | _(2)Ch(i/)_ [[zi2]]
