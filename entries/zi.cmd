@@ -3094,11 +3094,15 @@ W
   ====
   - [[Page~40|n83 (2)軹]]
     ==
-    - The hole in the hub of a wheel, [where] the nave projects;
-    - the end of the nave projecting from the hub;
-    - diverging, like the forks of a road.
+    - The hole in the hub of a wheel [[Kangxi: 車輪小穿]], ~~[where] the nave projects~~;
+    - the end ~~of the nave~~ projecting from the hub [[Kangxi: 軹指也如指而見于轂頭也, 軹謂轊頭也]];
+    - diverging, like the forks of a road [[Kangxi: 岐也]].
     ==
   ====
+C
+  ==
+  - Williams' "nave": Both occurrences of "nave" should be "axle".
+  ==
 $$
 
 ### 阯2 | _(2)Ch(i/)_ [[zi2]]
