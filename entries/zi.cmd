@@ -2891,8 +2891,8 @@ W
   ====
   - [[Page~613 (2)紫]]
     ==
-    - A reddish blue, a clay color, a nankeen tint;
-    - a fugacious, undecided hue;
+    - A reddish blue [[Kangxi: 帛靑赤色]], ~~a clay color~~, a nankeen tint;
+    - ~~a fugacious, undecided hue;~~
     - _(2)tsz' (4)t(')ong shik(7)_
         [[zi2 tong4 sik1 紫棠色]]
         a dark complexion;
@@ -2923,6 +2923,16 @@ W
         a god worshiped for protection against malaria.
     ==
   ====
+C
+  ==
+  - Williams' "fugacious, undecided hue":
+    This is an attempt at rendering Kangxi ::紫閒色[...]:: (with 閒 departing).
+    A better rendering would be "mixed hue".
+    Note that the intent of the original Chinese is merely to note that
+    purple is an *instance* of mixed hue (非正色 = not one of 青黃赤白黑).
+    The intent is not to define the character 紫
+    as meaning "mixed hue" in the general sense.
+  ==
 $$
 
 ### 耔2 | _(2)Tsz'_ [[zi2]]
