@@ -2950,7 +2950,7 @@ W
   ====
   - [[Page~612 (2)耔]]
     ==
-    - To weed and hoe earth around the roots of plants, to hill.
+    - To ~~weed and hoe~~ earth around the roots of plants, to hill [[Kangxi: 壅苗本也]].
     ==
   ====
 $$
