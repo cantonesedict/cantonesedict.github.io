@@ -3058,8 +3058,8 @@ W
   - [[Page~39|n82 (2)趾]]
     ==
     - The toes;
-    - a foundation of a wall;
-    - the feet;
+    - a foundation of a wall [[Kangxi: 趾城足也]];
+    - the feet [[Kangxi: 趾足也]];
     - _(2)k(u:) (2)ch(i/) (1)k(o\)_
         [[geoi2 zi2 gou1 舉趾高]],
         to step high, to trip along;
