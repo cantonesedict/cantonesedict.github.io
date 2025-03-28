@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2025-03-27
+* %date-modified --> 2025-03-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2799,7 +2799,7 @@ W
   ====
   - [[Page~39|n82 (2)帋(2)紙]]
     ==
-    - Paper;
+    - Paper [[Kangxi: 絮一苫也 etc.]];
     - a document;
     - _yat(7) (1)ch(e/)ung (2)ch(i/)_
         [[jat1 zoeng1 zi2 一張紙]],
