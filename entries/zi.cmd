@@ -3160,7 +3160,7 @@ W
   ====
   - [[Page~39|n82 (2)黹]]
     ==
-    - To embroider;
+    - To embroider [[Kangxi: ::[...]黹謂刺繡也::]];
     - embroidered, braided;
     - to put on braid or lace;
     - the 204th~radical, relating to embroidery;
@@ -3169,6 +3169,10 @@ W
         to sew, to do needle work.
     ==
   ====
+P
+  ++
+  1. Needlework (Kangxi: 箴縷所紩衣).
+  ++
 $$
 
 
