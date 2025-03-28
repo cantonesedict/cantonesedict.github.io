@@ -2970,8 +2970,8 @@ W
   ====
   - [[Page~613 (2)胏]]
     ==
-    - The remnants of a meal;
-    - dried meat with the bones in it;
+    - The remnants of a meal [[Kangxi: 食所遺也]];
+    - dried meat with the bones in it [[Kangxi: 脯有骨也]];
     - _(1)kon (2)tsz'_
         [[gon1 zi2 乾胏]]
         dried meat.
