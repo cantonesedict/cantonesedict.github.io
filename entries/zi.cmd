@@ -1908,6 +1908,10 @@ R
   ⼟ + 4
 U
   U+5740
+A
+  ==
+  - $阯2
+  ==
 F
   ==
   - [[F1.39 址]] 基址
@@ -3067,6 +3071,9 @@ W
         [[hang4 zi2 行趾]],
         to walk.
     ==
+    --
+    [[Otherwise, an alternative form of 阯 (in 交阯 spelt 交趾). **See $阯zi2 for the canonical entry.**]]
+    --
   ====
 E
   ====
@@ -3114,7 +3121,7 @@ U
   U+962F
 A
   ==
-  - 趾
+  - $趾2 (in 交阯 spelt 交趾)
   ==
 F
   ==
@@ -3124,11 +3131,14 @@ W
   ====
   - [[Page~39|n82 (2)阯]]
     ==
-    - Used for the last [[$趾2]];
+    - ~~Used for the last [[趾]];~~
     - _(1)K(a/)u (2)ch(i/)_
         [[gaau1 zi2 交阯]],
-        Cochinchina, said to be applied to it because men and women bathed together.
+        Cochinchina [[Kangxi: 交阯漢郡名]], said to be applied to it because men and women bathed together [[Kangxi: 其俗男女同川而浴故曰交阯]].
     ==
+    --
+    [[Otherwise, an alternative form of 址. **See $址zi2 for the canonical entry.**]]
+    --
   ====
 C
   ==
