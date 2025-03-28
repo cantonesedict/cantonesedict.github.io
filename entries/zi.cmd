@@ -2994,10 +2994,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Alternative form of 只. **See $只zi2 for the canonical entry.**
-  ==
+P
+  ++
+  1. Alternative form of 只 (for the "only" senses). **See $只zi2 for the canonical entry.**
+  ++
 S
   ==
   - $衹kei4 (TODO)
