@@ -3571,6 +3571,10 @@ R
   ⽷ + 9
 U
   U+7DFB
+A
+  ==
+  - $致3 (for "fine/delicate" senses)
+  ==
 V
   ==
   - zi6 (per 《廣韻》直利切)
@@ -3704,10 +3708,6 @@ R
   ⾄ + 0
 U
   U+81F3
-A
-  ==
-  - $致3 (for "unto" senses)
-  ==
 F
   ==
   - [[F1.41 至]] 到也極也
@@ -3805,27 +3805,27 @@ W
   ====
   - [[Page~40|n83 致(3)]]
     --
-    Interchanged with the last [[$至3]].
+    ~~Interchanged with the last [[至]].~~
     --
     ==
     - To go, to cause to go;
-    - to convey to;
+    - to convey to [[Kangxi: 送詣也]];
     - leading to, tending;
     - to accompany;
     - to visit;
-    - to communicate, to intimate to;
-    - to resign, to give over to;
-    - to induce, bring on;
-    - to jeopard, to hazard;
-    - to regulate, to control, to order;
+    - to communicate [[Kangxi: 傳致也]], to intimate to;
+    - to resign, to give over to [[Kangxi: 納也]];
+    - to induce, bring on [[Kangxi: 招致也]];
+    - to jeopard, to hazard [[Kangxi: 委也]];
+    - to regulate, to control, to order [[Kangxi: 制也]];
     - an aim, object, or end;
     - a tendency;
-    - to investigate fully;
+    - to investigate fully [[Kangxi: 致猶㴱審也]];
     - used before a verb, implies what is caused to be done;
     - that, in order to;
     - to put forth;
-    - the extreme;
-    - _ch(i/)(3) [(2)]shai (5))k(')(u:) (4)loi_
+    - ~~the extreme;~~
+    - _ch(i/)(3) [(2)]shai (5)k(')(u:) (4)loi_
         [[zi3 sai2 keoi5 loi4 致使佢來]],
         make him come;
     - _ch(i/)(3) (i/)(3)_
@@ -3838,12 +3838,23 @@ W
         [[zi3 ming6 致命]]
         delivered his orders.
     ==
+    --
+    [[Otherwise, an alternative form of 緻 (for the "fine/delicate" senses). **See $緻zi3 for the canonical entry.**]]
+    --
   ====
 C
   ==
+  - Williams' "Interchanged with the last": Kangxi has the sense 至也,
+    but this should not be regarded as an interchanging.
+  - Williams' "tending": In the sense of contributing toward an outcome.
   - Williams' 致使佢來: Corrected _shai(3)_ (sai3) to _(2)shai_ (sai2).
   - Williams' 致命: Now "fatal".
   ==
+P
+  ++
+  1. To arrive (Kangxi: 至也).
+  1. To do fully, to the utmost (Kangxi: 極也).
+  ++
 $$
 
 ###+ 菑3 | _Ch(i/)(3)_ _Tsz'(3)_ (zi3)
