@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2025-03-28
+* %date-modified --> 2025-03-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -3262,10 +3262,6 @@ R
   ⼼ + 3
 U
   U+5FD7
-A
-  ==
-  - $誌3 (for "record" senses)
-  ==
 F
   ==
   - [[F1.41 志]] 心之所之也
@@ -3274,12 +3270,10 @@ W
   ====
   - [[Page~40|n83 志(3)]]
     ==
-    - The will, the inclination;
+    - The will, the inclination [[Kangxi: 志者心之所之也]];
     - a good resolution, a resolve;
     - a sense of right, firm purpose;
-    - to record;
-    - history, annals;
-    - statistical or topographical works;
+    - [[...]];
     - _t(a/)i(6) ch(i/)(3)_
         [[daai6 zi3 大志]]
         high thoughts;
@@ -3293,6 +3287,9 @@ W
         [[zi3 sing4 志誠]],
         ingenuous, guileless.
     ==
+    --
+    [[Otherwise, an alternative form of 誌 (for the "record" senses). **See $誌zi3 for the canonical entry.**]]
+    --
   ====
 $$
 
@@ -3894,7 +3891,7 @@ U
   U+8A8C
 A
   ==
-  - $志3
+  - $志3 (for "record" senses)
   - $識3
   ==
 F
@@ -3904,12 +3901,20 @@ F
   ==
 W
   ====
+  - [[Page~40|n83 志(3)]]
+    ==
+    - [[...]];
+    - to record [[Kangxi 志: 又記也與誌同或作識]];
+    - history, annals;
+    - statistical or topographical works;
+    - [[...]].
+    ==
   - [[Page~40|n83 誌(3)識(3)]]
     ==
     - To remember;
     - to record;
     - to write, to inscribe;
-    - used for the last [[$志3]];
+    - ~~used for the last [[志]];~~
     - _m(o\)(6) ch(i/)(3)_
         [[mou6 zi3 墓誌]]
         an epitaph, a eulogy;
