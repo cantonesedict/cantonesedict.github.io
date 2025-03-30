@@ -3381,13 +3381,13 @@ W
   ====
   - [[Page~9* 摯(3)]]
     ==
-    - To seize with the hand, to grasp;
-    - to arrive at, to reach to;
-    - to extend;
-    - to present to;
-    - to advance, to enter, to go to the edge;
-    - to break down, as trees from weight of snow;
-    - used for the next [[$贄3]];
+    - To seize with the hand, to grasp [[Kangxi: 握持也]];
+    - to arrive at, to reach to [[Kangxi: 一曰至也, 臻也]];
+    - ~~to extend;~~
+    - [[...]];
+    - to advance [[Kangxi: 進也]], ~~to enter, to go to the edge~~;
+    - to break down [[Kangxi: 傷折也]], as trees from weight of snow;
+    - [[...]];
     - _(4)ts(')ing ch(i/)(3)_
         [[cing4 zi3 情摯]]
         a great liking for;
@@ -3398,7 +3398,15 @@ W
         [[zi3 hei2 摯起]],
         to pick one up.
     ==
+    --
+    [[Otherwise, an alternative form of 贄. **See $贄zi3 for the canonical entry.**]]
+    --
   ====
+P
+  ++
+  1. Extreme, utmost (Kangxi: 極也).
+  1. Sincere, earnest.
+  ++
 $$
 
 ### 智3 | _Ch(i/)(3)_ [[zi3]]
@@ -4008,6 +4016,14 @@ F
   ==
 W
   ====
+  - [[Page~9* 摯(3)]]
+    ==
+    - [[...]];
+    - to present to;
+    - [[...]];
+    - used for the next [[贄]] [[Kangxi: 執物以爲相見之禮也與贄質通]];
+    - [[...]].
+    ==
   - [[Page~9* 贄(3)]]
     ==
     - A present to make way for one, given at an audience or first interview,
