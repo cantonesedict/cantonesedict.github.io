@@ -3503,14 +3503,19 @@ W
   ====
   - [[Page~9* 疐(3)]]
     ==
-    - Hindered, embarrassed, prevented from acting or advancing;
-    - to slink away, as a dog does.
+    - Hindered, embarrassed, prevented from acting or advancing [[Kangxi: 頓也, 礙不行也]];
+    - ~~to slink away, as a dog does.~~
     ==
   ====
 C
   ==
   - Fan Wan entry: Corrected 癡 to 礙.
+  - Williams' "embarrassed": In the (now) archaic sense of "impeded", "obstructed".
   ==
+P
+  ++
+  1. To tumble, to stumble (Kangxi: 頓也跲也, 疐仆也).
+  ++
 $$
 
 ### 痣3 | _Ch(i/)(3)_ [[zi3]]
