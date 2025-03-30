@@ -3583,10 +3583,10 @@ W
   ====
   - [[Page~9* 緻(3)]]
     ==
-    - To mend clothes;
-    - close, fine, as cloth;
+    - To mend clothes [[Kangxi: 補也, 縫補敝衣也]];
+    - close, fine, as cloth [[Kangxi: 密也]];
     - soft, delicate;
-    - tattered;
+    - ~~tattered;~~
     - handsome, elegant;
     - _(1)tsing ch(i/)(3)_
         [[zing1 zi3 精緻]]
@@ -3596,6 +3596,13 @@ W
         careful, particular.
     ==
   ====
+C
+  ==
+  - Williams' "tattered": This is a misreading of Kangxi 其敝者謂之緻.
+    This is an example from 《揚子方言》 describing
+    the *mending* of tattered clothes as 緻,
+    not the tattered clothes themselves.
+  ==
 $$
 
 ### 置3 | _Ch(i/)(3)_ [[zi3]]
