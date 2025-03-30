@@ -3288,7 +3288,7 @@ W
         ingenuous, guileless.
     ==
     --
-    [[Otherwise, an alternative form of 誌 (for the "record" senses). **See $誌zi3 for the canonical entry.**]]
+    [[Otherwise, an alternative form of 誌. **See $誌zi3 for the canonical entry.**]]
     --
   ====
 $$
@@ -3891,7 +3891,7 @@ U
   U+8A8C
 A
   ==
-  - $志3 (for "record" senses)
+  - $志3
   - $識3
   ==
 F
