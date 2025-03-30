@@ -3525,6 +3525,10 @@ R
   ⽧ + 7
 U
   U+75E3
+A
+  ==
+  - $誌3
+  ==
 F
   ==
   - [[F1.41 痣]] 疤痣
@@ -3940,7 +3944,7 @@ U
 A
   ==
   - $志3
-  - $識3
+  - $識3 (for "remember" and "record" senses)
   ==
 F
   ==
@@ -3959,8 +3963,8 @@ W
     ==
   - [[Page~40|n83 誌(3)識(3)]]
     ==
-    - To remember;
-    - to record;
+    - To remember [[Kangxi 識: 與誌同記也]];
+    - to record [[Kangxi 誌: 記誌也]];
     - to write, to inscribe;
     - ~~used for the last [[志]];~~
     - _m(o\)(6) ch(i/)(3)_
@@ -3976,6 +3980,9 @@ W
         [[zi3 jyu1 ci2 誌於此]]
         mind is fixed on this.
     ==
+    --
+    [[Otherwise, an alternative form of 痣. **See $痣zi3 for the canonical entry.**]]
+    --
   ====
 $$
 
@@ -3995,7 +4002,7 @@ W
   ====
   - [[Page~40|n83 誌(3)識(3)]]
     --
-    [[Alternative form of 誌. **See $誌zi3 for the canonical entry.**]]
+    [[Alternative form of 誌 (for the "remember" and "record" senses). **See $誌zi3 for the canonical entry.**]]
     --
   ====
 S
