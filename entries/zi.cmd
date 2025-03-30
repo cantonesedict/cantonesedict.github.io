@@ -3716,13 +3716,13 @@ W
   ====
   - [[Page~40|n83 至(3)]]
     ==
-    - To come, to go to, to reach;
+    - To come [[Kangxi: 來也]], to go to, to reach [[Kangxi: 達也由此達彼也]];
     - to arrive, the summit or end;
     - a preposition, to, at, even, till, up to;
     - as to, respecting, in order to;
-    - an adverb, much, greatly;
-    - most, very, the superlative degree;
-    - the solstice;
+    - ~~an adverb, much, greatly;~~
+    - most, ~~very~~, the superlative degree [[Kangxi: 極也, 至謂至極也]];
+    - the solstice [[Kangxi: 冬至隂之復也夏至陽之復也]];
     - the 133d~radical;
     - _ch(i/)(3) kik(9)_
         [[zi3 gik6 至極]]
@@ -3773,6 +3773,11 @@ C
   - Williams' 至到: In the vernacular register, "until".
   - Williams' 至着: Corrected _ch(e/)uk(8)_ (zoek3) to _ch(e/)uk(9)_ (zoek6).
   ==
+P
+  ++
+  1. Perfect, good (Kangxi: 善也).
+  1. Great (Kangxi: 大也).
+  ++
 E
   ====
   - 【至】 (zi3):
