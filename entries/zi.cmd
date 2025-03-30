@@ -3915,11 +3915,19 @@ W
   ====
   - [[Page~9* 觶(3)]]
     ==
-    - A goblet or cup holding three _(1)shing_ [[sing1 升]] or gills;
+    - A goblet or cup [[Kangxi: 鄕飮酒角也, 酒觴也]] holding three _(1)shing_ [[sing1 升]] or gills [[Kangxi: 三升曰觶觶適也]];
     - a cup;
-    - to fine one so many cups.
+    - ~~to fine one so many cups.~~
     ==
   ====
+C
+  ==
+  - Williams' "fine": Better rendered "punish ... with".
+  ==
+P
+  ++
+  1. To punish with drink in a drinking game (Kangxi: 罰爵也).
+  ++
 $$
 
 ### 誌3 | _Ch(i/)(3)_ [[zi3]]
