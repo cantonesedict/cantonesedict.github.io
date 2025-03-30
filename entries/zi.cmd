@@ -3628,12 +3628,12 @@ W
   ====
   - [[Page~9* 置(3)寘(3)]]
     ==
-    - To make firm, to establish, to place;
+    - To make firm, to establish [[Kangxi: 立也, 設也]], to place;
     - to appoint;
-    - to arrange;
+    - to arrange [[Kangxi: 安置也]];
     - to purchase for one's self;
-    - to employ;
-    - to reject, to dismiss;
+    - ~~to employ;~~
+    - to reject, to dismiss [[Kangxi: 赦也, ::[...]與罷同意置之則去之也::]];
     - to put aside;
     - to determine, to judge, to decide;
     - _(2)ch(')(u:) ch(i/)(3)_
@@ -3662,6 +3662,10 @@ W
         ashamed, no place to hide myself.
     ==
   ====
+P
+  ++
+  1. A relay station for horses (Kangxi: 置若今之驛也).
+  ++
 $$
 
 ###+ 胾3 | _Ch(i/)(3)_ (zi3)
