@@ -3356,10 +3356,10 @@ W
         enraged, in a great anger.
     ==
   ====
-C
-  ==
-  - Williams' "Vexation, irritated": Not vexed, but angered (Kangxi: 怒也).
-  ==
+P
+  ++
+  1. Angry (Kangxi: 怒也).
+  ++
 S
   ==
   - $懥ci3
