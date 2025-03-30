@@ -3434,7 +3434,7 @@ W
     ==
   - [[Page~9* 智(3)]]
     ==
-    - Wisdom, understanding, talent;
+    - Wisdom, understanding [[Kangxi: 智知也無所不知也]], ~~talent~~;
     - knowledge;
     - prudence;
     - wise, considerate, discreet;
