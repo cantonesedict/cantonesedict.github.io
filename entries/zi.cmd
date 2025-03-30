@@ -3206,6 +3206,7 @@ $$
 - $躓3
 - $輊3
 - $輜3
+- $鷙3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -3400,6 +3401,9 @@ W
     ==
     --
     [[Otherwise, an alternative form of 贄. **See $贄zi3 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 鷙. **See $鷙zi3 for the canonical entry.**]]
     --
   ====
 P
@@ -4173,6 +4177,39 @@ C
 S
   ==
   - $輜zi1
+  ==
+$$
+
+### [鷙]3 | _Ch(i/)(3)_ [[zi3]]
+
+$$
+R
+  ⿃ + 11
+U
+  U+9DD9
+A
+  ==
+  - $摯3
+  ==
+F
+  ==
+  - [[F1.41 鷙]] 惡鳥
+  ==
+W
+  ====
+  - [[Page~9* ::[鷙](3)::]]
+    ==
+    - Birds of prey, accipitrine birds [[Kangxi: 擊殺鳥也, 猛鳥也]];
+    - violent, ruthless, hawklike [[Kangxi: 又凡鳥之勇獸之猛者皆曰鷙]];
+    - ~~to seize by violence.~~
+    ==
+  ====
+C
+  ==
+  - Williams misprints 鷙 as ⿱⿰辛丸鳥; here corrected.
+  - Williams' "to seize by violence": This is a misreading of Kangxi 鷙執也.
+    This describes the "bird-of-prey" sense as "[a bird that] seizeth".
+    It does not define a verb.
   ==
 $$
 
