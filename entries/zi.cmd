@@ -3515,6 +3515,7 @@ C
 P
   ++
   1. To tumble, to stumble (Kangxi: 頓也跲也, 疐仆也).
+     (Alternative form of 躓. See $躓zi3.)
   ++
 $$
 
@@ -4093,6 +4094,10 @@ R
   ⾜ + 15
 U
   U+8E93
+A
+  ==
+  - $疐3
+  ==
 F
   ==
   - [[F1.41 躓]] 顚蹶
@@ -4101,7 +4106,7 @@ W
   ====
   - [[Page~9* 躓(3)]]
     ==
-    - To stumble;
+    - To stumble [[Kangxi: 跲也]];
     - to trip and fall down;
     - _(1)t(i/)n ch(i/)(3)_
         [[din1 zi3 顛躓]]
