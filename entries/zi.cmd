@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2025-03-30
+* %date-modified --> 2025-03-31
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -3533,7 +3533,7 @@ W
   ====
   - [[Page~40|n83 痣(3)]]
     ==
-    - A mole, a hair-mole;
+    - A mole, a hair-mole [[Kangxi: 黑子也]];
     - black or red spots on the body;
     - _m(i/)n(6) ch(i/)(3)_
         [[min6 zi3 面痣]]
