@@ -4131,7 +4131,7 @@ W
   - [[Page~9* 輊(3)]]
     ==
     - A carriage with a front lower than the back,
-      or turning down, from the lading.
+      or turning down, from the lading [[Kangxi: 低也, 車前重也]].
     ==
   ====
 $$
