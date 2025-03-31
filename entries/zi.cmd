@@ -4302,7 +4302,7 @@ W
   ====
   - [[Page~614 俟(6)竢(6)]]
     ==
-    - To wait, to stay;
+    - To wait, to stay [[Kangxi: 待也]];
     - to wait upon;
     - to expect, to look for, to hope;
     - to prepare for;
@@ -4322,6 +4322,10 @@ C
   ==
   - Strictly, the pre-merger reading should be _ch(i/)(6)_ per 《廣韻》牀史切.
   ==
+P
+  ++
+  1. Used in 俟俟 (walking slowly in a large group) (Kangxi: 俟俟衆多徐行貌).
+  ++
 S
   ==
   - $俟kei4 (TODO)
