@@ -4586,6 +4586,10 @@ R
   ⼨ + 3
 U
   U+5BFA
+A
+  ==
+  - $䦙6
+  ==
 V
   ==
   - zi6-2 (vernacular rising-tone noun)
@@ -4593,6 +4597,7 @@ V
 F
   ==
   - [[F2.36 寺]] 僧舍也又官名如大理寺之類又寺人閹宦也
+  - [[F2.36 䦙]] 亦作寺閹宦也
   ==
 W
   ====
@@ -4623,6 +4628,15 @@ W
     --
     ~~Used for the next [[䦙]].~~
     --
+  - [[Page~614 䦙(6); here normalised to 寺]]
+    ==
+    - A court, a hall where officers hold sittings [[Kangxi 䦙: 廷也有法度者也本作寺]];
+    - an eunuch;
+    - a chamberlain, an officer in waiting;
+    - _tsz'(6) (4)yan_
+        [[zi6 jan4 寺人]],
+        an eunuch.
+    ==
   ====
 $$
 
@@ -5226,27 +5240,21 @@ $$
 
 ### 䦙6 | _Tsz'(6)_ [[zi6]]
 
-$$
+$$.
 R
   ⾨ + 6
 U
   U+4999
-A
-  ==
-  - $寺6
-  ==
 F
   ==
   - [[F2.36 䦙]] 亦作寺閹宦也
   ==
 W
   ====
-  - A court, a hall where officers hold sittings;
-  - an eunuch;
-  - a chamberlain, an officer in waiting;
-  - _tsz'(6) (4)yan_
-      [[zi6 jan4 䦙人]],
-      an eunuch.
+  - [[Page~614 䦙(6)]]
+    --
+    [[Alternative form of 寺. **See $寺zi6 for the canonical entry.**]]
+    --
   ====
 $$
 
