@@ -4410,11 +4410,11 @@ W
   - [[Page~614 嗣(6)]]
     ==
     - To connect, as a family;
-    - to adopt;
-    - to inherit, to succeed to;
+    - ~~to adopt;~~
+    - to inherit, to succeed to [[Kangxi: 嗣續也繼也]];
     - children, posterity, heirs, descendants;
-    - an adopted heir;
-    - to practice, to learn fully;
+    - an ~~adopted~~ heir;
+    - to practice, to learn fully [[Kangxi: 嗣習也]];
     - till;
     - hereafter, then;
     - _hau(6) tsz'(6)_
