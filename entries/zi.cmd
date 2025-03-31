@@ -4599,9 +4599,9 @@ W
   - [[Page~614 寺(6)]]
     ==
     - An official residence, chambers about a court;
-    - a court, an office, a hall;
-    - an eunuch;
-    - a monastery, a Budhist temple;
+    - a court, an office, a hall [[Kangxi: 廷也有法度者也]];
+    - an eunuch [[Kangxi: 宦寺]];
+    - a monastery, a Budhist temple [[Kangxi: ::[...]後名浮屠所居皆曰寺::]];
     - Budhists;
     - _tsz'(6) (4)m(u/)n_
         [[zi6 mun4 寺門]],
@@ -4621,7 +4621,7 @@ W
         to saunter in a monastery.
     ==
     --
-    Used for the next [[$䦙6]].
+    ~~Used for the next [[䦙]].~~
     --
   ====
 $$
