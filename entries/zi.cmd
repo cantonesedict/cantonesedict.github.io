@@ -4367,10 +4367,6 @@ A
   ==
   - $値6
   ==
-V
-  ==
-  - zik6 (common)
-  ==
 F
   ==
   - [[F1.34 値 _Chai(6)_ (zai6)]] 遇也當也又音直作價值
@@ -4379,17 +4375,19 @@ W
   ====
   - [[Page~10* 値(6); here normalised to 值]]
     ==
-    - To manage, to take hold of;
-    - to occur, to meet with, to happen;
-    - _shik(7) ch(i/)(6)_
-        [[sik1 zi6 適值]]
-        it so happened.
+    - To manage, to take hold of [[Kangxi 値: 又持也]];
+    - [[...]].
+    ==
+    --
+    [[Otherwise, a reading variation. **See $值zik6 for the canonical entry.**]]
+    --
+  - [[Page~13* 値(9) _Chik(9)_ (zik6); here corrected to _Ch(i/)(6)_ (zi6) and normalised to 值]]
+    ==
+    - [[...]];
+    - [[...]], to hold in the hand;
+    - [[...]].
     ==
   ====
-C
-  ==
-  - In modern usage, the reading _ch(i/)(6)_ (zi6) is obsolete.
-  ==
 S
   ==
   - $值zik6

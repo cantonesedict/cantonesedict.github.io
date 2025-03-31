@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-03-31
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1041,7 +1041,11 @@ U
 A
   ==
   - $値6
-  - $直6
+  - $直6 (for "value/worth" sense)
+  ==
+V
+  ==
+  - zi6 (per Kangxi 直吏切 for "meet/happen" sense)
   ==
 F
   ==
@@ -1049,13 +1053,21 @@ F
   ==
 W
   ====
+  - [[Page~10* 値(6) _Ch(i/)(6)_ (zi6); here normalised to 值 _Chik(9)_ (zik6)]]
+    ==
+    - [[...]];
+    - to occur, to meet with, to happen [[Kangxi 値: 又遇也]];
+    - _shik(7) [chik(9)]_
+        [[sik1 zik6 適值]]
+        it so happened.
+    ==
   - [[Page~13* 値(9); here normalised to 值]]
     ==
-    - Price, value, worth of;
+    - Price, value, worth of [[Kangxi 値: 物價曰値或作直]];
     - just;
     - to meet;
     - happened, chanced, occurred;
-    - a turn, to hold in the hand;
+    - a turn, [[...]];
     - to manage, to attend to;
     - _chik(9) (4)'m chik(9)_
         [[zik6 m4 zik6 值唔值]]
@@ -1080,6 +1092,11 @@ W
         an unlucky event.
     ==
   ====
+C
+  ==
+  - In modern usage, the reading _ch(i/)(6)_ (zi6) for the "meet/happen" sense
+    is obsolete.
+  ==
 S
   ==
   - $值zi6
