@@ -4458,14 +4458,14 @@ W
   ====
   - [[Page~613 字(6)]]
     ==
-    - A character, a letter;
+    - A character [[Kangxi: 文字 etc.]], a letter;
     - lettered, marked, written on;
     - a writing, a letter, an order;
     - a word, a symbol of thought;
-    - to bear, to nourish, to love, to suckle;
-    - the style or title taken at marriage;
-    - a name, a designation;
-    - to betroth a daughter;
+    - to bear, to nourish, to love, to suckle [[Kangxi: 乳也又愛也]];
+    - the style or title [[Kangxi: 名字, 男子二十冠而字]] ~~taken at marriage~~ [[Kangxi: 女子許嫁筓而字]];
+    - ~~a name~~, a designation;
+    - to betroth a daughter [[Kangxi: 女許嫁曰字]];
     - _(2)s(e/) tsz'(6)_
         [[se2 zi6 寫字]]
         to write;
@@ -4525,6 +4525,12 @@ W
         a mark, traces of writing.
     ==
   ====
+C
+  ==
+  - Williams' "taken at marriage": Per 《禮記》, men are styled at twenty,
+    whilst women are styled at betrothal
+    (whence 待字 "awaiting style-name" for a daughter unbetrothed).
+  ==
 $$
 
 ###+ 孳6 | _Tsz'(6)_ (zi6)
