@@ -4260,6 +4260,12 @@ R
   ⼈ + 5
 U
   U+4F3A
+V
+  ==
+  - si1 (per 《廣韻》息兹切)
+  - si3 (per 《廣韻》相吏切)
+  - si6 (alternative)
+  ==
 F
   ==
   - [[F2.35 伺]] 窺竊也候也
@@ -4269,7 +4275,7 @@ W
   - [[Page~614 伺(6)]]
     ==
     - To wait upon, to wait for;
-    - to spy, to narrowly examine;
+    - to spy, to narrowly examine [[Kangxi: 偵{𠋫=⿰亻侯}也又察也]];
     - _tsz'(6) hau(6)_
         [[zi6 hau6 伺候]]
         in readiness, waiting.
