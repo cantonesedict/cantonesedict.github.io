@@ -4655,7 +4655,7 @@ W
   ====
   - [[Page~614 巳(6)]]
     ==
-    - The sixth of the 12~branches, denoted by a snake,
+    - The sixth of the 12~branches, denoted by a snake [[Kangxi: ::[...]故巳爲蛇象形::]],
       and corresponding to 9--11~A.~M.
     ==
   ====
