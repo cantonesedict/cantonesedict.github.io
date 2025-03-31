@@ -4676,26 +4676,26 @@ W
   ====
   - [[Page~10* 彘(6)]]
     ==
-    - A sow, a pig;
+    - A sow, a pig [[Kangxi: 豕也, 豬也]];
     - _(4)yan ch(i/)(6)_
         [[jan4 zi6 人彘]]
-        a corpse cut to pieces,
-        alludes to a speech of a princess of the H(a/)n [[漢]] dynasty.
+        ~~a corpse cut to pieces~~,
+        alludes to a speech of ~~a princess of~~ the H(a/)n [[漢]] dynasty.
     ==
   ====
 C
   ==
   - Fan Wan entry: Corrected headword ⿱彑⿲土矢比 to 彘.
-  - Williams' 人彘: The "speech of a princess"
-    is actually a designation by Empress~L(u:) (呂后)
+  - Williams' 人彘: Neither "a corpse cut to pieces" nor "of a princess",
+    but a designation made by Empress~L(u:) (呂后)
     after horrifically maiming her rival Lady~Ts(')ik (戚夫人),
     as alleged in 《呂太后本紀》.
     The weight of this phrase cannot be fully comprehended
     until one reads that text, which describes extreme cruelty
     such as I will not quote here.
-    (For those that wish to spare themselves from that text,
+    For them that wish to spare themselves from that text,
     the result is that 人彘 "human sow" is used
-    to refer to victims of horrific cruelty.)
+    to refer to victims of horrific cruelty.
   ==
 $$
 
