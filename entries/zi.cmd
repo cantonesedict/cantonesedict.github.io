@@ -4840,8 +4840,8 @@ W
   ====
   - [[Page~614 牸(6)]]
     ==
-    - A cow;
-    - the female of domesticated animals;
+    - A cow [[Kangxi: 牝牛]];
+    - the female of domesticated animals [[Kangxi: 牝馬亦曰牸, 牸雌也]];
     - _tsz'(6) (5)m(a/)_
         [[zi6 maa5 牸馬]],
         a mare.
