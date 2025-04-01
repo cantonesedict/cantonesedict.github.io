@@ -4938,11 +4938,11 @@ W
   ====
   - [[Page~614 祀(6)]]
     ==
-    - To sacrifice to gods or devils, to offer sacrifices;
+    - To sacrifice to gods ~~or devils~~, to offer sacrifices [[Kangxi: 祭也]];
     - sacrificial;
     - a sacrifice;
-    - a year;
-    - like, as if;
+    - a year [[Kangxi: 年也]];
+    - like, as if [[Kangxi: 祀者似也]];
     - _(4)m(o\) tsz'(6)_
         [[mou4 zi6 無祀]]
         no descendants;
@@ -4957,6 +4957,11 @@ W
         to worship ancestors.
     ==
   ====
+C
+  ==
+  - Williams' "devils": This is a poor choice of wording.
+    A better choice would be "ancestral spirits" or "ghosts".
+  ==
 $$
 
 ### 稚6 | _Ch(i/)(6)_ [[zi6]]
