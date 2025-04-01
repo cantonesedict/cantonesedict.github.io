@@ -4864,8 +4864,8 @@ W
   ====
   - [[Page~10* 痔(6)]]
     ==
-    - The piles;
-    - to gnaw, as insects do;
+    - The piles [[Kangxi: 後病也, 隱瘡也]];
+    - ~~to gnaw, as insects do;~~
     - _ch(i/)(6) (1)ch(')ong_
         [[zi6 cong1 痔瘡]],
         piles;
@@ -4880,6 +4880,12 @@ W
         fistula in ano.
     ==
   ====
+C
+  ==
+  - Williams' "to gnaw, as insects do": This is a misreading of Kangxi 痔食也蟲食之也,
+    which is an (erroneous) explanation from 《釋名》
+    that haemorrhoids are (or caused by) some parasite feeding on the person.
+  ==
 $$
 
 ###+ 眥6 | _Tsz'(6)_ (zi6)
