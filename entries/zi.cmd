@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2025-03-31
+* %date-modified --> 2025-04-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -4698,7 +4698,7 @@ C
     until one reads that text, which describes extreme cruelty
     such as I will not quote here.
     For them that wish to spare themselves from that text,
-    the result is that 人彘 "human sow" is used
+    the result is that 人彘 "human swine" is used
     to refer to victims of horrific cruelty.
   ==
 $$
