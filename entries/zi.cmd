@@ -4812,7 +4812,7 @@ W
   ====
   - [[Page~614 涘(6)]]
     ==
-    - The banks of a river, the shores or mouth of a stream;
+    - The banks of a river [[Kangxi: 水厓也]], the shores or mouth of a stream;
     - _(2)shui tsz'(6)_
         [[seoi2 zi6 水涘]]
         the bank.
