@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2025-04-01
+* %date-modified --> 2025-04-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -4985,9 +4985,9 @@ W
   ====
   - [[Page~10* 穉(6)稚(6)]]
     ==
-    - Small, delicate;
+    - Small, delicate [[Kangxi 稺: 凡人物幼小皆曰稺]];
     - young, tender;
-    - young grain, or that which ripens late;
+    - young grain, or that which ripens late [[Kangxi 稺: 幼禾也, 晚禾]];
     - _(4)t(')ung ch(i/)(6)_
         [[tung4 zi6 童稚]]
         a youngster;
