@@ -5082,6 +5082,14 @@ R
   ⽾ + 5
 U
   U+801C
+A
+  ==
+  - 㭒
+  ==
+V
+  ==
+  - ci5 (not recast to departing)
+  ==
 F
   ==
   - [[F2.36 ::[耜]::]] ::耒[耜]耕田所以起土者::
@@ -5090,7 +5098,7 @@ W
   ====
   - [[Page~614 耜(6)]]
     ==
-    - A ploughshare;
+    - A ploughshare [[Kangxi: 臿也, 耜者耒之金也]];
     - a colter, the part of a plough which enters the earth;
     - a plough.
     ==
