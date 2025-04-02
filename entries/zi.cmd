@@ -5124,10 +5124,10 @@ W
   ====
   - [[Page~613 自(6)]]
     ==
-    - A preposition, from, commencing at;
-    - a pronoun, self, I;
+    - A preposition, from, commencing at [[Kangxi: 由也, 從也]];
+    - a pronoun, self, I [[Kangxi: ::[己]也::]];
     - my own, myself, personally;
-    - to use;
+    - to use [[Kangxi: 用也]];
     - the 132d~radical;
     - _tsz'(6) (2)k(i/)_
         [[zi6 gei2 自己]],
@@ -5165,7 +5165,7 @@ W
     - _tsz'(6) ts(o\)(6)_
         [[zi6 zou6 自造]]
         our own manufacture;
-    - [[see $住zyu6 for vernacular "yet" senses]];
+    - [[...]];
     - _tsz'(6) tsz'(6) tsoi(6) tsoi(6)_
         [[zi6 zi6 zoi6 zoi6 自自在在]]
         in high spirits;
@@ -5197,6 +5197,10 @@ C
   - Fan Wan entry: Corrected 巳 to 己.
   - Williams' 自來嗰時: Changed _ko(3)_ (go3) to modern _(2)ko_ (go2).
   ==
+P
+  ++
+  1. Of itself, naturally (Kangxi: 自然無勉强也).
+  ++
 $$
 
 ### 豸6 | _Ch(i/)[(6)]_ [[zi6]]
