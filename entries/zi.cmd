@@ -5064,7 +5064,7 @@ W
   ====
   - [[Page~614 笥(6)]]
     ==
-    - A hamper, a basket;
+    - A hamper, a basket [[Kangxi: 飯及衣之器也]];
     - _(1)sh(u:) tsz'(6)_
         [[syu1 zi6 書笥]]
         a portable book and writing-case;
