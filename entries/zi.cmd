@@ -5300,10 +5300,10 @@ W
   ====
   - [[Page~10* 雉(6)]]
     ==
-    - A pheasant, including also francolins;
+    - A pheasant [[Kangxi: 雉有十四種 etc.]], including also francolins;
     - an embrasure on a wall;
-    - to rule;
-    - to put in order;
+    - ~~to rule;~~
+    - ~~to put in order;~~
     - _ch(i/)(6) (5)m(i/)_
         [[zi6 mei5 雉尾]],
         pheasant's tail feathers, used by actors;
@@ -5318,6 +5318,18 @@ W
         the south door of a seraglio.
     ==
   ====
+C
+  ==
+  - Williams' "to rule", "to put in order":
+    These are attempts at rendering Kangxi 雉理也.
+    The text of 《揚子方言》 is ::紕繹督雉理也[...]凡物曰督之絲曰繹之::.
+    The meaning of this passage is beyond me,
+    but my guess would be "to elicit".
+  ==
+P
+  ++
+  1. A unit of wall area (Kangxi: 方丈曰堵三堵曰雉).
+  ++
 $$
 
 ### 食6 | _Tsz'(6)_ [[zi6]]
