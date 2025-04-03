@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caang
-* %date-modified --> 2025-03-14
+* %date-modified --> 2025-04-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -495,7 +495,7 @@ W
   ====
   - [[Page~21|n64 (1)橕 Read _ch(')(a/)ng(3)_ (caang3)]]
     --
-    [[Alternative form of 撐 or {𨅝=⿰𧾷牚}. **See $撐caang3 and ${𨅝=⿰𧾷牚}caang3 for the canonical entries.**]].
+    [[Alternative form of 撐 and {𨅝=⿰𧾷牚}. **See $撐caang3 and ${𨅝=⿰𧾷牚}caang3 for the canonical entries.**]].
     --
   ====
 S
