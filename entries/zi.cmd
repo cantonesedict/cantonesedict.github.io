@@ -5405,7 +5405,6 @@ U
   U+98FC
 A
   ==
-  - $食6
   - $飤6
   ==
 F
@@ -5416,13 +5415,13 @@ W
   ====
   - [[Page~614 飤(6)飼(6)]]
     ==
-    - To feed, to nourish;
+    - To feed, to nourish [[Kangxi: 以食食人也]];
     - to set food before;
     - to rear, as animals;
-    - feed, provisions, eatables.
+    - feed, provisions, eatables [[Kangxi 飤: 糧也, 食也與飼同]].
     ==
     --
-    Interchanged with the next [[$食6]].
+    [[Alternative form of 食. See $食zi6.]]
     --
   ====
 $$
