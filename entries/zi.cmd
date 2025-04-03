@@ -5391,7 +5391,7 @@ W
   ====
   - [[Page~614 飤(6)飼(6)]]
     --
-    [[Alternative form of 飼. **See $飼zi6 for the canonical entry.**]]
+    [[Alternative form of 食 and 飼. **See $食zi6 and $飼zi6 for the canonical entries.**]]
     --
   ====
 $$
