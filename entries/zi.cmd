@@ -5341,6 +5341,7 @@ U
   U+98DF
 A
   ==
+  - $飤6
   - $飼6
   ==
 F
@@ -5349,11 +5350,18 @@ F
   ==
 W
   ====
+  - [[Page~614 飤(6)飼(6)]]
+    --
+    [[...]]
+    --
+    --
+    Interchanged with the next [[食]].
+    --
   - [[Page~614 食(6)]]
     ==
-    - To feed, to set food before;
-    - to bring up;
-    - food, provision;
+    - To feed, to set food before [[Kangxi: 以食與人也]];
+    - to bring up [[Kangxi: 食謂乳養之也, 食養生也]];
+    - food [[Kangxi: 食飯屬也]], provision [[Kangxi: 糧也]];
     - _(4)ngau (4)y(e/)ung (4)yan (2)sho tsz'(6)_
         [[ngau4 joeng4 jan4 so2 zi6 牛羊人所食]]
         men rear sheep and oxen.
@@ -5361,8 +5369,12 @@ W
   ====
 C
   ==
-  - The olden form for 飼; see $飼zi6.
   - Fan Wan entry: Corrected 偎 to 餵.
+  ==
+S
+  ==
+  - $食ji6 (TODO)
+  - $食sik6 (TODO)
   ==
 $$
 
