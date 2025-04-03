@@ -306,7 +306,7 @@ H
   depending on the font.
 V
   ==
-  - zat1 (per 《廣韻》資悉切 for "brick" and "ember" senses)
+  - zat1 (per 《廣韻》資悉切 for "fired-brick" and "ember" senses)
   - zik6 (per 《廣韻》秦力切 for "abhor" senses)
   ==
 F
@@ -317,18 +317,24 @@ W
   ====
   - [[Page~568 堲(7)]]
     ==
-    - To make bricks;
-    - to make an arched grave;
-    - the snuff of a candle, embers;
-    - to dislike, to have a horror of, to snuff at.
+    - To make bricks [[Kangxi: ::火[熟]曰堲::]];
+    - ~~to make an arched grave;~~
+    - the snuff of a candle, embers [[Kangxi: 火之餘燼曰堲]];
+    - to dislike, to have a horror of, to snuff at [[Kangxi: 堲疾也]].
     ==
   ====
 C
   ==
   - Fan Wan entry: Corrected ⿰糸⿱免丿 to 讒.
-  - The reading _tsik(7)_ (zik1) is not unattested;
-    《廣韻》 has 子力切, notwithstanding it is explained 風堲
-    (which I do not comprehend).
+  - The reading _tsik(7)_ (zik1) is not unattested for the "fired-brick" sense;
+    《集韻》has the reading 節力切, explained 燒土周棺也.
+  - Kangxi has the "abhor" sense under 子力切 _tsik(7)_ (zik1).
+    However, 《廣韻》 explains this reading as 風堲 (which I do not comprehend),
+    with the "abhor" sense instead given under 秦力切 _tsik(9)_ (zik6).
+  - Williams' "to make an arched grave": This is a poor rendering of
+    Kangxi 堲者冶土爲{？=⿰缶專}而四周于棺之坎也.
+    The idea here is that fired-brick is used
+    to encase about the four sides of a coffin (四周于棺).
   ==
 $$
 
