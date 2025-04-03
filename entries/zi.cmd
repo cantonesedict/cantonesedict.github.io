@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2025-04-02
+* %date-modified --> 2025-04-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -5323,8 +5323,8 @@ C
   - Williams' "to rule", "to put in order":
     These are attempts at rendering Kangxi 雉理也.
     The text of 《揚子方言》 is ::紕繹督雉理也[...]凡物曰督之絲曰繹之::.
-    The meaning of this passage is beyond me,
-    but my guess would be "to elicit".
+    The common meaning of the characters presented in this passage
+    is beyond me, but my guess would be _to elicit_.
   ==
 P
   ++
