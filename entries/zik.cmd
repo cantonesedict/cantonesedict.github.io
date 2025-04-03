@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2025-03-31
+* %date-modified --> 2025-04-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -90,11 +90,11 @@ W
   ====
   - [[Page~569 勣(7)]]
     ==
-    - Merit, praiseworthy acts;
+    - Merit, praiseworthy acts [[Kangxi: 功也]];
     - meritorious deeds, conduct worthy of reward.
     ==
     --
-    Interchanged with the next [[$績1]].
+    [[Alternative form of 績 (for the "achievement" and "merit" senses). See $績zik1.]]
     --
   ====
 $$
@@ -539,6 +539,13 @@ F
   ==
 W
   ====
+  - [[Page~569 勣(7)]]
+    --
+    [[...]]
+    --
+    --
+    Interchanged with the next [[績]] [[Kangxi 勣: 通作績]].
+    --
   - [[Page~569 績(7)]]
     ==
     - To twist hempen threads on the knee;
