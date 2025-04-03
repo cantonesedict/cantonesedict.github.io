@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zan
-* %date-modified --> 2025-03-21
+* %date-modified --> 2025-04-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -655,7 +655,7 @@ A
   ==
 V
   ==
-  - zan6-2 (in 一陣 for vernacular "later" and subjunctive marker senses)
+  - zan6-2 (for vernacular "time", "later", and subjunctive marker senses)
   ==
 F
   ==
@@ -746,12 +746,20 @@ E
        (both in the ["moment"](#cantonese-一陣-moment) sense
        and in the ["later" and subjunctive marker](#cantonese-一陣-later) senses).
     ++
-  - 【陣】 (zan6):
+  - 【陣-moment】 (zan6):
     ++
     1. Short for [一陣](#cantonese-一陣-moment) in the "moment" sense.
        ==
        - 等陣啊 (dang2 zan6 a3): "Hold on [a] bit."
        - 瞓咗陣 (fan3 zo2 zan6): "Slept [for a] bit."
+       ==
+    ++
+  - 【陣-time】 (zan6, zan6-2):
+    ++
+    1. A time, or period of time, or era.
+       ==
+       - 嗰陣 (go2 zan6-2): "[At] that time."
+       - 家陣 (gaa1 zan6-2): "Nowadays."
        ==
     ++
   - 【陣間】 (zan6 gaan1):

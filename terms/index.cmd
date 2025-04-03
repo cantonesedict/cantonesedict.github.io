@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of Cantonese terms by Jyutping
-* %date-modified --> 2025-03-20
+* %date-modified --> 2025-04-03
 * %copyright-prior-years --> 2023--
 * %meta-description --> searchable index of Cantonese terms by Jyutping
 
@@ -777,10 +777,16 @@ window.onload = applyFilter;
     , [{𠹻=⿰口朕}](/entries/zam#cantonese-𠹻)
   //
     , zan6
-    , [陣](/entries/zan#cantonese-陣)
+    , [陣~\(moment\)](/entries/zan#cantonese-陣-moment)
+  //
+    , zan6
+    , [陣~\(time\)](/entries/zan#cantonese-陣-time)
   //
     , zan6 gaan1
     , [陣間](/entries/zan#cantonese-陣間)
+  //
+    , zan6-2
+    , [陣~\(time\)](/entries/zan#cantonese-陣-time)
   //
     , zap1
     , [執](/entries/zap#cantonese-執)
