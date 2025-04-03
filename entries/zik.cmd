@@ -122,13 +122,13 @@ W
   ====
   - [[Page~568 卽(7); here normalised to 即]]
     ==
-    - Eating, about to eat;
+    - ~~Eating~~, about to eat [[Kangxi 卽: 卽猶就也就食也]];
     - an adverb, now, immediately, soon, presently, when, then, forthwith;
-    - now;
-    - near;
-    - if, perhaps;
-    - this, that is, or, alias;
-    - the snuff of a candle;
+    - now [[Kangxi 卽: 今也]];
+    - near [[Kangxi 卽: 卽尼也, 尼近也]];
+    - if, perhaps [[Kangxi 卽: 卽猶若也]];
+    - ~~this~~, that is, or, alias;
+    - the snuff of a candle [[Kangxi 卽: 燭炬之燼曰卽]];
     - _tsik(7) tsik(7)_
         [[zik1 zik1 即即]]
         an abundance, full of;
@@ -163,9 +163,16 @@ W
   ====
 C
   ==
+  - Williams' "Eating": 《說文》卽食也 is unhelpful.
+  - Williams' "about to eat": Better rendered "nearing to eat".
   - Williams' 即使間: Corrected _(4)sh(i/)_ (si4) to _(2)sz'_ (si2).
   - Williams' 即即返嚟: Corrected _(4)loi_ (loi4) to _(4)lai_ (lai4).
   ==
+P
+  ++
+  1. To ascend, to assume a position.
+  1. (_copula_) To be (precisely).
+  ++
 $$
 
 ### 卽1 | _Tsik(7)_ [[zik1]]
