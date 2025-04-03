@@ -214,13 +214,17 @@ W
   ====
   - [[Page~568 喞(7); here normalised to 唧]]
     ==
-    - The noise of a crowd;
+    - The noise of a crowd [[Kangxi 喞: 啾喞也, 啾喞衆聲]];
     - the hum of insects;
     - _(1)tsau tsik(7)_
         [[zau1 zik1 啾唧]]
         a hubbub.
     ==
   ====
+P
+  ++
+  1. (_onomatopoeia_) A clicking (or perhaps chirping) sound (Kangxi: 喞聲也).
+  ++
 E
   ====
   - 【唧】 (zik1):
