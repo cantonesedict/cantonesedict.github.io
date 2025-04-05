@@ -417,8 +417,8 @@ W
   ====
   - [[Page~569 ::[畟](7)::]]
     ==
-    - A sharp agricultural instrument like a mattoc;
-    - to attend to husbandry.
+    - ~~A~~ sharp ~~agricultural instrument~~ like a mattoc [[Kangxi: 治稼畟畟進也, 畟畟耜也, 言嚴利]];
+    - ~~to attend to husbandry~~.
     ==
   ====
 C
@@ -426,8 +426,10 @@ C
   - Fan Wan entry: Corrected headword ⿳由儿夂 to 畟, and corrected 犬 to 尖.
   - Williams misprints 畟 as ⿳田儿又; here corrected.
   - The reading _tsik(7)_ (zik1) is not unattested;
-    《廣韻》 has 子力切, though without explanation (except 又初力切),
-    and Kangxi quotes 又《集韻》節力切音卽義同.
+    《集韻》 has the reading 節力切 _tsik(7)_ (zik1)^, explained 畟畟耜利也.
+    Whilst 《廣韻》 also has the reading 子力切 _tsik(7)_ (zik1)^,
+    it is without explanation
+    (it simply cross-references _ch(')ik(7)_ (cik1) as 又初力切).
   ==
 $$
 
