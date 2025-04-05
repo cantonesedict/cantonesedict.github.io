@@ -791,15 +791,20 @@ R
   ⾜ + 8
 U
   U+8E16
+V
+  ==
+  - cik1 (per 《集韻》七迹切 for "with demeanour/bearing" sense)
+  - zik6 (per 《廣韻》秦昔切 and 《集韻》祥亦切 for "stride/tread over" sense)
+  ==
 F
   [[Not present]]
 W
   ====
   - [[Page~569 踖(7)]]
     ==
-    - To stride;
-    - to straddle or step over a thing;
-    - to walk reverently, to step in a formal manner, to measure one's steps.
+    - To stride [[Kangxi: 長脛行也]];
+    - to straddle or step over a thing [[Kangxi: 踖猶躐也, 踐也]];
+    - to walk reverently, to step in a formal manner, to measure one's steps [[Kangxi: 一曰踧踖也, 踧踖敬貌, 踧踖恭敬也]].
     ==
   ====
 $$
