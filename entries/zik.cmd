@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2025-04-03
+* %date-modified --> 2025-04-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -357,7 +357,7 @@ W
   ====
   - [[Page~569 幘(7)]]
     ==
-    - A turban or cloth wound around the head;
+    - A turban or cloth wound around the head [[Kangxi: 髮有巾曰幘 etc.]];
     - a kerchief used instead of a cap.
     ==
   ====
