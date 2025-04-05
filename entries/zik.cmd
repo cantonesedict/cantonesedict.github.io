@@ -515,6 +515,10 @@ R
   ⽲ + 11
 U
   U+7A4D
+V
+  ==
+  - zi3 (per 《廣韻》子智切 for "store" sense)
+  ==
 F
   ==
   - [[F1.74 積]] 聚也蓄也累也
@@ -523,8 +527,8 @@ W
   ====
   - [[Page~569 積(7)]]
     ==
-    - To gather, to hoard up, to accumulate, to store;
-    - to increase, to add to, to pile upon;
+    - To gather, to hoard up, to accumulate [[Kangxi: 聚也]], to store [[Kangxi: 聚也儲蓄也]];
+    - to increase, to add to, to pile upon [[Kangxi: 累也]];
     - increasingly;
     - _f(a/)t(8) tsik(7)_
         [[faat3 zik1 發積]]
@@ -546,6 +550,10 @@ W
         to hoard or lay by.
     ==
   ====
+P
+  ++
+  1. A product (result of multiplication), area, or volume.
+  ++
 $$
 
 ### 績1 | _Tsik(7)_ [[zik1]]
