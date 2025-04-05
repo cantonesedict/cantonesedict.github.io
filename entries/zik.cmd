@@ -582,24 +582,29 @@ W
     --
   - [[Page~569 績(7)]]
     ==
-    - To twist hempen threads on the knee;
-    - to split hempen fibres;
-    - merit by laudable works;
-    - an affair, a business;
-    - to complete, to bring to a conclusion;
-    - to join, to piece;
+    - To twist hempen threads [[Kangxi: 緝也]] on the knee;
+    - ~~to split hempen fibres;~~
+    - merit by laudable works [[Kangxi: 績功也]];
+    - ~~an affair, a business;~~
+    - to complete, to bring to a conclusion [[Kangxi: 事也成也]];
+    - ~~to join, to piece;~~
     - _tsik(7) (4)m(a/)_
         [[zik1 maa4 績麻]],
         to twist hemp;
     - _(1)kung tsik(7)_
         [[gung1 zik1 功績]]
-        works of public merit.
+        works of ~~public~~ merit.
     ==
   ====
 C
   ==
-  - Williams' "public merit": Here he may be confusing 功 with 公.
+  - Williams' "public merit": Public is 公, not 功.
   ==
+P
+  ++
+  1. An achievement (Kangxi: 績業也).
+  1. To continue (Kangxi: 績繼也).
+  ++
 $$
 
 ### 織1 | _Chik(7)_ [[zik1]]
