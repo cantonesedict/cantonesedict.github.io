@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2025-03-25
+* %date-modified --> 2025-04-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1320,6 +1320,7 @@ $$
 - $次3
 - $熾3
 - $糦3
+- $織3
 - $翄3
 - $翅3
 - $蛓3
@@ -1506,6 +1507,10 @@ R
   ⼱ + 12
 U
   U+5E5F
+A
+  ==
+  - $織3
+  ==
 F
   ==
   - [[F1.42 幟]] 旗幟
@@ -1733,6 +1738,27 @@ W
     [[Alternative form of 饎. **See $饎ci3 for the canonical entry.**]]
     --
   ====
+$$
+
+###+ 織3 | _Ch(')(i/)(3)_ (ci3)
+
+$$.
+R
+  ⽷ + 12
+U
+  U+7E54
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 幟. **See $幟ci3 for the canonical entry.**
+  ++
+S
+  ==
+  - $織zik1
+  ==
 $$
 
 ### 翄3 | _Ch(')(i/)(3)_ [[ci3]]

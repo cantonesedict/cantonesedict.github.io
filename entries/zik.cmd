@@ -614,6 +614,10 @@ R
   ⽷ + 12
 U
   U+7E54
+V
+  ==
+  - zi3 (per Kangxi 職利切 for "dyed-weave" sense)
+  ==
 F
   ==
   - [[F1.76 織]] 扣結布帛之總名
@@ -622,7 +626,7 @@ W
   ====
   - [[Page~13* 織(7)]]
     ==
-    - To weave;
+    - To weave [[Kangxi: 作布帛之總名]];
     - woven;
     - _chik(7) (4)(u:)_
         [[zik1 jyu4 織餘]],
@@ -644,6 +648,10 @@ W
 C
   ==
   - Williams' 織布: Corrected _p(o\)(6)_ (bou6) to _p(o\)(3)_ (bou3).
+  ==
+S
+  ==
+  - $織ci3
   ==
 $$
 
