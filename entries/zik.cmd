@@ -868,9 +868,9 @@ W
   ====
   - [[Page~13* 陟(7)]]
     ==
-    - To ascend, to enter on a higher office;
-    - promoted, advanced;
-    - to mount, to go up;
+    - To ascend, to enter on a higher office [[Kangxi: 陟陞也, 登也]];
+    - promoted, advanced [[Kangxi: 進也]];
+    - ~~to mount, to go up;~~
     - to advance, to proceed to;
     - _chik(7) (4)lam_
         [[zik1 lam4 陟臨]],
