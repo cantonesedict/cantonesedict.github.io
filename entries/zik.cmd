@@ -670,14 +670,14 @@ W
   ====
   - [[Page~13* 職(7)]]
     ==
-    - To govern, to rule;
-    - to attend to;
-    - to record;
-    - to act officially;
-    - having the direction of;
-    - official duty;
+    - To govern, to rule [[Kangxi: 執掌也]];
+    - ~~to attend to;~~
+    - ~~to record;~~
+    - ~~to act officially;~~
+    - having the direction of [[Kangxi: 職主也]];
+    - official duty [[Kangxi: 職事也]];
     - title, office;
-    - tribute, offerings or presents of other states;
+    - tribute, offerings or presents of other states [[Kangxi: 貢也]];
     - _chik(7) (2)shau_
         [[zik1 sau2 職守]],
         to direct;
@@ -710,7 +710,7 @@ W
         to hold an office;
     - _chik(7) chik(7)_
         [[zik1 zik1 職職]]
-        many;
+        many [[Kangxi: 職職多也]];
     - _chik(7) fan(6)_
         [[zik1 fan6 職分]]
         a title, official duties.
@@ -718,7 +718,9 @@ W
   ====
 C
   ==
-  - Williams' 職員: Now simply "employee".
+  - Williams' "to record": This is a misreading of Kangxi 記微也, "knower of minutiae".
+    Here, 記 means "know", not "record".
+  - Williams' 職員: In modern usage, "employee".
   ==
 $$
 
