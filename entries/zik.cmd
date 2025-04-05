@@ -477,28 +477,35 @@ W
   ====
   - [[Page~569 稷(7)]]
     ==
-    - Panicled millet _(Milium)_, one of the five grains;
-    - quick, rapid;
-    - the god of agriculture;
+    - Panicled millet _(Milium)_, one of the five grains [[Kangxi: {𪗉=⿵齊禾}也五穀之長]];
+    - quick, rapid [[Kangxi: 疾也]];
+    - the god of agriculture [[Kangxi: 神名 etc.]];
     - _(5)sh(e/) tsik(7)_
         [[se5 zik1 社稷]]
         the Ceres of the Chinese;
         its altars have no roofs;
     - _hau(6) tsik(7)_
         [[hau6 zik1 后稷]]
-        a god of harvests;
+        ~~a god of harvests~~;
     - _h(a/)(6) tsik(7)_
         [[haa6 zik1 下稷]]
-        afternoon.
+        afternoon [[Kangxi: 稷昃也下稷謂晡時]].
     ==
   ====
 C
   ==
   - Fan Wan entry: Corrected ⿱⿻一火氺 to 黍.
-  - For 下稷, Kangxi has
-    又與昃通《穀梁傳定十五年》戊午日下稷乃克葬《註》稷昃也下稷謂晡時
-    (i.e. 稷 is used for 昃, with 下稷 meaning 晡時, which means 申時).
+  - Williams' "god of agriculture": Better rendered "god of grains".
+  - Williams' 社稷: Strictly two gods, one of soil (社) and one of grains (稷).
+  - Williams' 后稷: Not quite a god, though a legendary figure.
+  - Williams' 下稷: This is an alternative spelling of 下昃,
+    explained 晡時, explained 申時.
   ==
+P
+  ++
+  1. Used in the titles of agricultural officials (Kangxi: 農官名曰后稷),
+     after the legendary 后稷.
+  ++
 $$
 
 ### 積1 | _Tsik(7)_ [[zik1]]
