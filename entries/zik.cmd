@@ -746,10 +746,10 @@ W
   ====
   - [[Page~569 迹(7)跡(7)蹟(7)]]
     ==
-    - A trace, a foot-mark, a foot-step;
-    - vestiges, effects, consequences, signs;
-    - the results of previous conduct;
-    - to trace out, to follow up, to search for the effects of;
+    - A trace, a foot-mark, a foot-step [[Kangxi 迹: 步處也, 足跡也]];
+    - vestiges, effects, consequences, signs [[Kangxi 迹: 凡有形可見者皆曰迹]];
+    - the results of previous conduct [[Kangxi 迹: 凡功業可見者曰迹]];
+    - to trace out, to follow up, to search for the effects of [[Kangxi 迹: 循實而考之亦曰迹]];
     - _k(e/)uk(8) tsik(7)_
         [[goek3 zik1 腳跡]]
         a foot-print;
@@ -777,6 +777,11 @@ W
         bad feelings left in the mind.
     ==
   ====
+P
+  ++
+  1. A vestige, a remnant (Kangxi 迹: 凡前人所遺留者曰迹).
+  1. To follow, to adhere to (Kangxi 迹: 凡有所遵循亦曰迹).
+  ++
 $$
 
 ### 踖1 | _Tsik(7)_ [[zik1]]
