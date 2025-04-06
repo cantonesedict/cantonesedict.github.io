@@ -1213,10 +1213,10 @@ W
   ====
   - [[Page~570 夕(9)]]
     ==
-    - Evening, dusk;
+    - Evening, dusk [[Kangxi: 晨之對暮也]];
     - late;
     - last day of, as a year or month;
-    - out of the perpendicular;
+    - out of the perpendicular [[Kangxi: 斜也]];
     - the 36th~radical;
     - _chi(u/) tsik(9)_
         [[ziu1 zik6 朝夕]]
@@ -1229,6 +1229,10 @@ W
         this evening.
     ==
   ====
+P
+  ++
+  1. An evening meeting (Kangxi: 朝見曰朝夕見曰夕).
+  ++
 $$
 
 ### 寂6 | _Tsik(9)_ [[zik6]]
