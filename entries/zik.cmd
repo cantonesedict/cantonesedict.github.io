@@ -1457,8 +1457,8 @@ W
   ====
   - [[Page~570 汐(9)]]
     ==
-    - The evening tide, high tide at sunset;
-    - the name of a stream.
+    - The evening tide, high tide at sunset [[Kangxi: 海濤早曰潮夕曰汐]];
+    - the name of a stream [[Kangxi: 水名]].
     ==
   ====
 $$
