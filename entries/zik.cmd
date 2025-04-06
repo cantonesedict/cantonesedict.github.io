@@ -1250,8 +1250,8 @@ W
   ====
   - [[Page~570 寂(9)]]
     ==
-    - Still, silent, as an uninhabited house;
-    - quiet, unmoved, like a recluse;
+    - Still, silent, as an uninhabited house [[Kangxi: 無人聲也]];
+    - quiet, unmoved, like a recluse [[Kangxi: 靜也安也]];
     - solitary, desolate, lonesome;
     - _tsik(9) tsing(6)_
         [[zik6 zing6 寂靜]]
@@ -1261,6 +1261,10 @@ W
         completely silent, said of a priest's death.
     ==
   ====
+C
+  ==
+  - Williams' "recluse": In the (now) archaic sense of a place of seclusion.
+  ==
 $$
 
 ### [席]6 | _Tsik(9)_ [[zik6]]
