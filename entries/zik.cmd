@@ -1673,6 +1673,10 @@ R
   ⽵ + 14
 U
   U+7C4D
+A
+  ==
+  - $藉6
+  ==
 F
   ==
   - [[F1.78 籍]] 書籍典籍又册籍也
@@ -1699,13 +1703,14 @@ W
     - _(1)sh(e/)ung tsik(9)_
         [[soeng1 zik6 雙籍]]
         enrolled in two places;
-    - _(4)long tsik(9)_
-        [[long4 zik6 狼籍]]
-        notorious, infamous;
+    - [[...]];
     - _(4)m(o\) tsik(9) (4)yau (4)man_
         [[mou4 zik6 jau4 man4 無籍遊民]],
         vagrants, gypsey-like, without origin.
     ==
+    --
+    [[Otherwise, an alternative form of 藉. **See $藉zik6 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -1788,10 +1793,14 @@ R
   ⾋ + 14
 U
   U+85C9
+A
+  ==
+  - $籍6
+  ==
 V
   ==
   - ze3 (alternative for "mat" and "borrow" senses)
-  - ze6 (per 《廣韻》慈夜切 for "mat" and "borrow" senses)
+  - ze6 (per 《廣韻》慈夜切 for "mat" and "borrow" senses and per Kangxi 慈夜切 for "generous" sense)
   ==
 F
   ==
@@ -1799,18 +1808,26 @@ F
   ==
 W
   ====
+  - [[Page~570 籍(9); here normalised to 藉]]
+    ==
+    - [[...]];
+    - _(4)long tsik(9)_
+        [[long4 zik6 狼藉]]
+        notorious, infamous;
+    - [[...]].
+    ==
   - [[Page~570 藉(9)]]
     ==
-    - A mat on which things can be presented;
+    - A mat on which things can be presented [[Kangxi: 祭藉也]];
     - to borrow;
-    - to assist, to help;
+    - ~~to assist, to help;~~
     - to use for a while;
     - to borrow from, to avail of, to make a means;
     - by;
     - in all which senses it is often read _ts(e/)(3)_ [[ze3]];
-    - in confusion, disturbed;
-    - liberal, generous;
-    - to lead, as by a string;
+    - in confusion [[Kangxi: 狼藉離披雜亂貌]], ~~disturbed~~;
+    - liberal, generous [[Kangxi: 寬博有餘也]];
+    - to lead, as by a string [[Kangxi: 藉繩也]];
     - _tsik(9) fuk(7)_
         [[zik6 fuk1 藉福]]
         by your kindness, I am well;
@@ -1827,7 +1844,22 @@ W
         [[zik6 sai3 藉勢]]
         to use the authority of others.
     ==
+    --
+    [[Otherwise, an alternative form of 籍. **See $籍zik6 for the canonical entry.**]]
+    --
   ====
+C
+  ==
+  - Williams' "to assist, to help": This is a misreading of Kangxi 助者藉也.
+    This is an example from Mencius, where 藉也 "borrowing/dependence"
+    is used to explain the specific instance of 助 in the earlier 殷人七十而助.
+    It does *not* define 藉 as "assist/help".
+  - Williams' "by a string": Better rendered "by a rope".
+  ==
+P
+  ++
+  1. To give tribute (Kangxi: 藉謂貢獻).
+  ++
 $$
 
 ###+ 蟄6 | _Chik(9)_ (zik6)
