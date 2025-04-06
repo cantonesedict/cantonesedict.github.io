@@ -1666,7 +1666,7 @@ C
   ==
 $$
 
-### 籍6 | _Tsik(9)_ [[zik6]]
+### [籍]6 | _Tsik(9)_ [[zik6]]
 
 $$
 R
@@ -1683,7 +1683,7 @@ F
   ==
 W
   ====
-  - [[Page~570 籍(9)]]
+  - [[Page~570 ::[籍](9)::]]
     ==
     - A book for records [[Kangxi: 書籍]], ~~a tablet~~;
     - a list, a register of the people [[Kangxi: 戸籍]];
@@ -1714,6 +1714,7 @@ W
   ====
 C
   ==
+  - Williams misprints 籍 as ⿱𥫗⿰耒⿱龷月; here corrected.
   - Williams' 雙籍: Now 雙重國籍 for "dual nationality".
   ==
 P
@@ -1808,7 +1809,7 @@ F
   ==
 W
   ====
-  - [[Page~570 籍(9); here normalised to 藉]]
+  - [[Page~570 ::[籍](9)::; here normalised to 藉]]
     ==
     - [[...]];
     - _(4)long tsik(9)_
@@ -1850,6 +1851,7 @@ W
   ====
 C
   ==
+  - Williams misprints 籍 as ⿱𥫗⿰耒⿱龷月; here corrected.
   - Williams' "to assist, to help": This is a misreading of Kangxi 助者藉也.
     This is an example from Mencius, where 藉也 "borrowing/dependence"
     is used to explain the specific instance of 助 in the earlier 殷人七十而助.
