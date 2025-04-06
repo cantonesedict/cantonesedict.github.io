@@ -1107,7 +1107,7 @@ U
 A
   ==
   - $値6
-  - $直6 (for "value/worth" sense)
+  - $直6
   ==
 V
   ==
@@ -1126,6 +1126,14 @@ W
     - _shik(7) [chik(9)]_
         [[sik1 zik6 適值]]
         it so happened.
+    ==
+  - [[Page~13* 直(9)]]
+    ==
+    - [[...]];
+    - price of;
+    - [[...]];
+    - used for the ~~three~~ next [[値, ~~殖, 植~~]];
+    - [[...]].
     ==
   - [[Page~13* 値(9); here normalised to 值]]
     ==
@@ -1511,17 +1519,17 @@ W
   ====
   - [[Page~13* 直(9)]]
     ==
-    - To look ahead;
-    - straight, direct;
+    - To look ahead [[Kangxi: 正見也]];
+    - straight, direct [[Kangxi: 正也, 不曲也]];
     - straightforward, upright, true;
     - just, exactly;
-    - to stretch off, to proceed, to go direct;
+    - to stretch off [[Kangxi: 伸也]], to proceed, to go direct;
     - to make straight, to straighten;
-    - price of;
-    - only, merely, but;
-    - purposely;
+    - [[...]];
+    - only, merely, but [[Kangxi: 猶但也]];
+    - purposely [[Kangxi: 猶故也]];
     - stiff and straight;
-    - used for the three next [[$値6, $殖6, $植6]];
+    - [[...]];
     - _ching(3) chik(9)_
         [[zing3 zik6 正直]]
         upright;
@@ -1556,11 +1564,21 @@ W
         [[zik6 si6 直士]]
         a headman in a neighborhood.
     ==
+    --
+    [[Otherwise, an alternative form of 值. **See $值zik6 for the canonical entry.**]]
+    --
   ====
 C
   ==
-  - Williams' "used for the three next": I have not seen 直 used for 殖 or 植.
+  - Williams' "To look ahead": Better rendered "To look straight ahead".
   ==
+P
+  ++
+  1. Smooth (Kangxi: 順也).
+  1. Suitable (Kangxi: 猶宜也).
+  1. To right a wrong (Kangxi: 理枉曰直).
+  1. Speech-assist, specifically an initial particle (Kangxi: 語發聲).
+  ++
 E
   ====
   - 【直程】 (zik6 cing4):
