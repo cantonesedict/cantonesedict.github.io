@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2025-04-03
+* %date-modified --> 2025-04-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -3188,6 +3188,7 @@ $$
 - $懥3
 - $摯3
 - $智3
+- $植3
 - $漬3
 - $疐3
 - $痣3
@@ -3457,6 +3458,32 @@ W
   ====
 $$
 
+###+ 植3 | _Ch(i/)(3)_ (zi3)
+
+$$.
+R
+  ⽊ + 8
+U
+  U+690D
+H
+  May appear with right component as 値 or 值 (assumed here),
+  depending on the font.
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~13* 植(9) _Chik(9)_ (zik6); here corrected to _Ch(i/)(3)_ (zi3)]]
+    --
+    [[Alternative form of 置. **See $置zi3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $植zi6
+  - $植zik6
+  ==
+$$
+
 ###+ 漬3 | _Tsz'(3)_ (zi3)
 
 $$
@@ -3631,6 +3658,7 @@ H
 A
   ==
   - $寘3
+  - $植3
   ==
 F
   ==
@@ -3673,6 +3701,12 @@ W
     - _ch(i/)(3) (1)shan (4)m(o\) t(i/)(6)_
         [[zi3 san1 mou4 dei6 置身無地]]
         ashamed, no place to hide myself.
+    ==
+  - [[Page~13* 植(9) _Chik(9)_ (zik6); here corrected to _Ch(i/)(3)_ (zi3)]]
+    ==
+    - [[...]];
+    - to place, to lay down [[Kangxi 植: 通置]];
+    - [[...]].
     ==
   ====
 P
@@ -4230,6 +4264,7 @@ $$
 - $寺6
 - $巳6
 - $彘6
+- $植6
 - $治6
 - $涘6
 - $牸6
@@ -4700,6 +4735,31 @@ C
     For them that wish to spare themselves from that text,
     the result is that 人彘 "human swine" is used
     to refer to victims of horrific cruelty.
+  ==
+$$
+
+###+ 植6 | _Ch(i/)(6)_ (zi6)
+
+$$.
+R
+  ⽊ + 8
+U
+  U+690D
+H
+  May appear with right component as 値 or 值 (assumed here),
+  depending on the font.
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation (for the verb "plant" sense and the "lean" sense). **See $植zik6 for the canonical entry.**
+  ++
+S
+  ==
+  - $植zi3
+  - $植zik6
   ==
 $$
 

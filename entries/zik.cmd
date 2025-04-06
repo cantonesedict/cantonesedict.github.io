@@ -1344,6 +1344,10 @@ U
 H
   May appear with right component as 値 or 值 (assumed here),
   depending on the font.
+V
+  ==
+  - zi6 (per 《廣韻》直吏切 for verb "plant" sense and Kangxi 直吏切 for "lean" sense)
+  ==
 F
   ==
   - [[F1.78 植]] ::立也置也[栽]也種也::
@@ -1352,19 +1356,19 @@ W
   ====
   - [[Page~13* 植(9)]]
     ==
-    - To plant, to set up, to transplant or set out;
-    - erect, standing upright;
-    - to lean on, as a staff;
-    - to place, to lay down;
+    - To plant [[Kangxi: 種也]], to set up [[Kangxi: 樹立也]], to transplant or set out;
+    - erect, standing upright [[Kangxi: 立也]];
+    - to lean on, as a staff [[Kangxi: 倚也]];
+    - [[...]];
     - _(1)tsoi chik(9)_
         [[zoi1 zik6 栽植]]
         to set out;
     - _chik(9) (4)k(')(i/) ch(e/)ung(6)_
         [[zik6 kei4 zoeng6 植其杖]]
-        put his staff down;
+        ~~put his staff down~~;
     - _(u/)(6) chik(9)_
         [[wu6 zik6 戶植]]
-        door-posts;
+        door-posts [[Kangxi: 植謂戸之維持鏁者也植木爲之]];
     - _chik(9) muk(9)_
         [[zik6 muk6 植木]]
         to transplant trees.
@@ -1373,6 +1377,20 @@ W
 C
   ==
   - Fan Wan entry: Corrected 裁 to 栽.
+  - Williams' 植其杖: Legge's rendering, "planted his staff", is better.
+    Kangxi instead interprets this as "leant upon his staff"
+    under the reading _ch(i/)(6)_ (zi6).
+    For "put his staff down", this would instead be under
+    the reading _ch(i/)(3)_ (zi3) for 置.
+  ==
+P
+  ++
+  1. A plant (Kangxi: 根生之屬曰植).
+  ++
+S
+  ==
+  - $植zi3
+  - $植zi6
   ==
 $$
 
