@@ -1681,8 +1681,8 @@ W
   ====
   - [[Page~570 籍(9)]]
     ==
-    - A book for records, a tablet;
-    - a list, a register of the people;
+    - A book for records [[Kangxi: 書籍]], ~~a tablet~~;
+    - a list, a register of the people [[Kangxi: 戸籍]];
     - the place for enroling, one's native place;
     - _(1)sh(u:) tsik(9)_
         [[syu1 zik6 書籍]]
@@ -1711,6 +1711,11 @@ C
   ==
   - Williams' 雙籍: Now 雙重國籍 for "dual nationality".
   ==
+P
+  ++
+  1. Land tax (Kangxi: 租籍).
+  1. (The emperor) personally tilling the field (Kangxi: 籍田 etc.).
+  ++
 $$
 
 ### [蓆]6 | _Tsik(9)_ [[zik6]]
