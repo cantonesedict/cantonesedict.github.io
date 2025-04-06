@@ -1470,6 +1470,10 @@ R
   ⽔ + 9
 U
   U+6E5C
+V
+  ==
+  - sat6 (common)
+  ==
 F
   ==
   - [[F1.78 湜]] ::水淸見[底]也::
@@ -1478,9 +1482,9 @@ W
   ====
   - [[Page~14* 湜(9)]]
     ==
-    - Pure, limpid water, through which the bottom can be seen;
+    - Pure, limpid water, through which the bottom can be seen [[Kangxi: 水淸底見也]];
     - pure-minded;
-    - to maintain firmly.
+    - to maintain firmly [[Kangxi: 一曰持正貌]].
     ==
   ====
 C
