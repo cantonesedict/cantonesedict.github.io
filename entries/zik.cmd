@@ -1649,14 +1649,21 @@ W
   ====
   - [[Page~570 穸(9)]]
     ==
-    - Dark, obscure, as a winter night;
+    - ~~Dark, obscure, as a winter night;~~
     - a vault;
-    - a niche or recess in a sepulchre;
+    - ~~a niche or recess in~~ a sepulchre [[Kangxi: 窀穸也]];
     - _(1)chun tsik(9)_
         [[zeon1 zik6 窀穸]]
         the tomb, the grave.
     ==
   ====
+C
+  ==
+  - Williams' "Dark, obscure, as a winter night":
+    This is taking Kangxi ::《註》窀厚也穸夜也[...]一曰[...]長夜謂之穸::
+    as a definition for 穸, when it is simply an attempt in commentary
+    to explain the glyphs 窀穸.
+  ==
 $$
 
 ### 籍6 | _Tsik(9)_ [[zik6]]
