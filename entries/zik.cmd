@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2025-04-05
+* %date-modified --> 2025-04-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1187,13 +1187,13 @@ W
   ====
   - [[Page~14* 埴(9)]]
     ==
-    - Adhesive clay;
+    - Adhesive clay [[Kangxi: 黏土也]];
     - _(4)t(')(u:)n chik(9)_
         [[tyun4 zik6 摶埴]]
         to mold in clay;
     - _ch(a/)k(9) chik(9)_
         [[zaak6 zik6 擿埴]]
-        to feel one's way with a stick.
+        to feel one's way with a stick [[Kangxi: 瞽者以杖擿地而後行謂之擿埴]].
     ==
   ====
 $$
