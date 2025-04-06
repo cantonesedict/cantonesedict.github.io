@@ -1412,24 +1412,34 @@ W
   ====
   - [[Page~13* 殖(9)]]
     ==
-    - To grow, to increase, to flourish, to enrich, to amass;
-    - as money;
-    - to plant;
-    - to raise the price of;
+    - To grow, to increase, to flourish [[Kangxi: 生也, 蕃也長也]][;]
+    - to enrich, to amass[,] as money [[Kangxi: 興生財利曰殖]];
+    - to plant [[Kangxi: 種也]];
+    - ~~to raise the price of;~~
     - gain;
-    - price, value;
-    - rotten bones;
+    - ~~price, value;~~
+    - rotten ~~bones~~ [[Kangxi: 脂膏久殖也]];
     - _shang chik(9)_
         [[sang1 zik6 生殖]]
         to grow, to increase;
     - _chik(9) fo(3)_
         [[zik6 fo3 殖貨]]
-        to raise the price;
+        ~~to raise the price;~~
     - _(2)ch(e/)ung chik(9) m(a/)n(6) mat(9)_
         [[zoeng2 zik6 maan6 mat6 長殖萬物]]
         nature flourishes.
     ==
   ====
+C
+  ==
+  - Williams' 殖貨: Not to raise the price, but to accumulate commodities.
+  ==
+P
+  ++
+  1. To cultivate (Kangxi: 封殖也).
+  1. To establish (Kangxi: 立也).
+  1. Level and upright (Kangxi: 殖殖平正也).
+  ++
 $$
 
 ### 汐6 | _Tsik(9)_ [[zik6]]
