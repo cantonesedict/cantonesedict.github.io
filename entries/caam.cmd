@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2025-03-21
+* %date-modified --> 2025-04-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -574,6 +574,7 @@ $$
 - $慚4
 - $攙4
 - $毚4
+- $漸4
 - ${𥕌=⿰石斬}4
 - $蚕4
 - $蠶4
@@ -626,6 +627,7 @@ U
 A
   ==
   - 嶃
+  - $漸4
   - 磛
   - ${𥕌=⿰石斬}4
   ==
@@ -758,6 +760,32 @@ C
   ==
   - Strictly, the pre-merger reading should be _(4)ch(')(a/)m_ per 《廣韻》士咸切 and 鋤銜切.
   - Fan Wan entry: Corrected 免 to 兔.
+  ==
+$$
+
+###+ 漸4 | _(4)Ts(')(a/)m_ (caam4)
+
+$$.
+R
+  ⽔ + 11
+U
+  U+6F38
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Strictly, the pre-merger reading should be _(4)ch(')(a/)m_ per 《集韻》鋤銜切.
+  ==
+P
+  ++
+  1. Alternative form of 巉. **See $巉caam4 for the canonical entry.**
+  ++
+S
+  ==
+  - $漸zim1
+  - $漸zim6
   ==
 $$
 

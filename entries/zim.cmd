@@ -290,15 +290,16 @@ W
   - [[Page~571 漸(6) _Ts(i/)m(6)_ (zim6); here corrected to _(1)Ts(i/)m_ (zim1)]]
     ==
     - [[...]];
-    - to find its way in, as water does;
+    - to find its way in, as water does [[Kangxi: 流入也]];
     - [[...]];
     - to flow;
-    - to imbibe, to tinge, to soak, to penetrate;
+    - to imbibe, to tinge, to soak, to penetrate [[Kangxi: 漬也濕也, 浸也染也]];
     - [[...]].
     ==
   ====
 S
   ==
+  - $漸caam4
   - $漸zim6
   ==
 $$
@@ -741,9 +742,9 @@ W
   - [[Page~571 漸(6)]]
     ==
     - Name of an affluent of the Y(a/)ngtsz' ki(a/)ng [[揚子江]]
-      near Ng(a/)nking f(u/) [[安慶府]];
-    - [[see $漸zim1 for "inflow" and "soak" senses]];
-    - to advance by degrees, slowly, by little and little;
+      near Ng(a/)nking f(u/) [[安慶府]] [[Kangxi: 水名, 水出丹陽黟南蠻中東入海]];
+    - [[...]];
+    - to advance by degrees, slowly, by little and little [[Kangxi: 漸次也進也稍也 etc.]];
     - stealthily, as decay;
     - [[...]];
     - _ts(i/)m(6) ts(i/)m(6) (4)loi_
@@ -763,6 +764,7 @@ W
   ====
 S
   ==
+  - $漸caam4
   - $漸zim1
   ==
 $$
