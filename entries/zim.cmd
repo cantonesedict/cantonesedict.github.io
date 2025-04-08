@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zim
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-04-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -83,9 +83,9 @@ W
   - [[Page~15* (1)占]]
     ==
     - To divine, to cast lots;
-    - divination, casting lots;
-    - to observe, to wait for a verification;
-    - to look towards;
+    - divination, casting lots [[Kangxi: 視兆問也]];
+    - to observe, to wait for a verification [[Kangxi: {𠋫=⿰亻侯}也, 視也]];
+    - to look towards [[Kangxi: 占亦瞻也]];
     - _(1)ch(i/)m pat(7) (4)ling_
         [[zim1 bat1 ling4 占不靈]],
         a false prediction;
@@ -643,7 +643,7 @@ F
   ==
 W
   ====
-  - [[Page~15* (1)占(1)佔]]
+  - [[Page~16* 占(3)佔(3)]]
     --
     [[Alternative form of 占. **See $占zim3 for the canonical entry.**]]
     --
@@ -667,11 +667,11 @@ F
   ==
 W
   ====
-  - [[Page~15* (1)占(1)佔]]
+  - [[Page~16* 占(3)佔(3)]]
     ==
-    - To usurp, to seize, to take forcibly;
+    - To usurp, to seize, to take forcibly [[Kangxi: 固有也, 擅據也著位也]];
     - to assume, to arrogate, to take the liberty;
-    - to possess;
+    - to possess [[Kangxi: 有也]];
     - _p(a/)(3) ch(i/)m(3)_
         [[baa3 zim3 霸占]]
         to take possession of;
@@ -680,7 +680,7 @@ W
         to assume precedence;
     - _ch(i/)m(3) (2)si(u/) sh(i/)n(6)_
         [[zim3 siu2 sin6 占小善]]
-        to praise one's self;
+        ~~to praise one's self;~~
     - _ch(i/)m(3) (4)p(')(i/)n (4)(i/)_
         [[zim3 pin4 ji4-2 占便宜]],
         to take what one likes, to assume more for one's self;
@@ -695,6 +695,8 @@ W
 C
   ==
   - Fan Wan entry: Corrected illegible character to 據.
+  - Williams' "to praise one's self": This is a misreading of Kangxi 占小善者,
+    which should be rendered "he that possesseth [even a] little quality".
   ==
 S
   ==
