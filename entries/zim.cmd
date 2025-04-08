@@ -319,7 +319,7 @@ W
   ====
   - [[Page~16* (1)瞻]]
     ==
-    - To look up to, to reverence, to regard with respect;
+    - To look up to, to reverence, to regard with respect [[Kangxi: 仰視曰瞻]];
     - _(1)ch(i/)m (5)y(e/)ung_
         [[zim1 joeng5 瞻仰]],
         to look up to;
@@ -338,6 +338,10 @@ W
         to expect.
     ==
   ====
+P
+  ++
+  1. To look forward.
+  ++
 $$
 
 ### 粘1 | _(1)Ch(i/)m_ [[zim1]]
