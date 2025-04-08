@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2025-04-05
+* %date-modified --> 2025-04-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1447,6 +1447,10 @@ W
     [[Alternative form of 廁. **See $廁ci3 for the canonical entry.**]]
     --
   ====
+C
+  ==
+  - Strictly, the pre-merger reading should be _ch(')(i/)(3)_ per 《廣韻》初吏切 for 廁.
+  ==
 $$
 
 ### 啻3 | _Ch(')(i/)(3)_ [[ci3]]
