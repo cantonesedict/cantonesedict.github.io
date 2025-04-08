@@ -269,6 +269,13 @@ W
     --
     [[Otherwise, an alternative form of 覘. **See $覘zim1 for the canonical entry.**]]
     --
+  - [[Page~15* (1)霑]]
+    --
+    Interchanged with the last [[沾]].
+    --
+    --
+    [[...]]
+    --
   ====
 C
   ==
@@ -601,11 +608,11 @@ W
   ====
   - [[Page~15* (1)霑]]
     --
-    Interchanged with the last [[$沾1]].
+    [[...]]
     --
     ==
-    - A drizzling, dripping, pattering, rain;
-    - to wet through;
+    - A drizzling, dripping, pattering, rain [[Kangxi: 雨{𩃵=⿱雨染}也]];
+    - to wet through [[Kangxi: 霑濕也又濡也漬也]];
     - soaked, saturated;
     - _(1)ch(i/)m tsuk(7)_
         [[zim1 zuk1 霑足]]
@@ -614,6 +621,9 @@ W
         [[zim1 ji1 霑衣]],
         wet clothes.
     ==
+    --
+    [[Alternative form of 沾. See $沾zim1.]]
+    --
   ====
 $$
 
