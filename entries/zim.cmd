@@ -537,7 +537,7 @@ W
   ====
   - [[Page~16* (1)譫]]
     ==
-    - Wordy, loquacious;
+    - Wordy, loquacious [[Kangxi: 多言也]];
     - _peng(6) (1)ch(i/)m_
         [[beng6 zim1 病譫]],
         out of his head, incoherent;
@@ -546,6 +546,10 @@ W
         wandering talk.
     ==
   ====
+P
+  ++
+  1. Delirium (Kangxi: 病也).
+  ++
 $$
 
 ### 䠨1 | _(1)Ch(i/)m_ [[zim1]]
