@@ -699,8 +699,9 @@ W
 C
   ==
   - Fan Wan entry: Corrected illegible character to 據.
-  - Williams' "to praise one's self": This is a misreading of Kangxi 占小善者,
-    which should be rendered "he that possesseth [even a] little quality".
+  - Williams' "to praise one's self": This is a misreading of 占小善
+    from Kangxi's example 《韓愈進學解》占小善者率以錄, which should be rendered
+    "they that possess [even a] little quality [are] all employed".
   ==
 S
   ==
