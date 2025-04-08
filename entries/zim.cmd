@@ -266,6 +266,9 @@ W
         [[nei5 zim1 zoek6 jau5 dik1 m4 hou2 pei4 hei3 你沾着有滴唔好脾氣]]
         you have contracted a bad temper.
     ==
+    --
+    [[Otherwise, an alternative form of 覘. **See $覘zim1 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -442,6 +445,10 @@ R
   ⾒ + 5
 U
   U+8998
+A
+  ==
+  - $沾1
+  ==
 V
   ==
   - cim1 (per 《廣韻》丑廉切)
@@ -454,7 +461,7 @@ W
   ====
   - [[Page~15* (1)覘]]
     ==
-    - To peep, to spy at, to glance at;
+    - To peep, to spy at, to glance at [[Kangxi: 窺也]];
     - _(1)ch(i/)m hau(6)_
         [[zim1 hau6 覘候]]
         to wait for;
