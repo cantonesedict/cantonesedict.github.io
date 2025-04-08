@@ -561,6 +561,7 @@ U
   U+4828
 V
   ==
+  - cim1 (per 《集韻》處占切)
   - cim3 (per 《廣韻》昌豔切)
   ==
 F
@@ -576,7 +577,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: The explanation 仰視 is erroneous,
+  - Fan Wan entry: The explanation 仰視 is erroneous
     (it explains 瞻 rather than 䠨).
   ==
 S
