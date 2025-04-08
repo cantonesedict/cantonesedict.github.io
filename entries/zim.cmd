@@ -142,7 +142,7 @@ W
   ====
   - [[Page~571 (1)尖]]
     ==
-    - Sharp, pointed, acute, tapering to a peak or point;
+    - Sharp, pointed, acute, tapering to a peak or point [[Kangxi: 末銳也小也]];
     - wedge-like, pyramidal, conical, or needle-shaped;
     - clever, ingenious;
     - _(2)ting (1)ts(i/)m_
@@ -150,7 +150,7 @@ W
         ready at, smart;
     - _yuk(9) (1)ts(i/)m_
         [[juk6 zim1 玉尖]],
-        a lady's fingers;
+        a lady's fingers [[Kangxi: 玉尖十尖指也]];
     - _(1)ts(i/)m l(i/)(6)_
         [[zim1 lei6 尖利]]
         sharp, quick-witted;
@@ -162,6 +162,10 @@ W
         to dress in women's shoes, to act the female parts.
     ==
   ====
+P
+  ++
+  1. Harsh or ear-piercing (of sound).
+  ++
 E
   ====
   - 【打尖】 (daa2 zim1):
