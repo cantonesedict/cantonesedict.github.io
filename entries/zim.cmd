@@ -314,6 +314,10 @@ R
   ⽬ + 13
 U
   U+77BB
+A
+  ==
+  - $詹1
+  ==
 F
   ==
   - [[F2.47 瞻]] 瞻仰
@@ -492,22 +496,30 @@ W
   ====
   - [[Page~16* (1)詹]]
     ==
-    - Tattling, wordy;
-    - to reach;
-    - at, extreme, such a time;
+    - ~~Tattling~~, wordy [[Kangxi: 多言也]];
+    - to reach [[Kangxi: 至也]];
+    - ~~at, extreme, such a time;~~
     - to examine and direct;
     - _ch(i/)m ch(i/)m_
         [[zim1 zim1 詹詹]],
         loquacious;
-    - _(2)kan ch(i/)m_
+    - _(2)kan (1)ch(i/)m_
         [[gan2 zim1 謹詹]],
-        carefully provide.
+        ~~carefully provide~~.
     ==
+    --
+    [[Otherwise, an alternative form of 瞻. **See $瞻zim1 for the canonical entry.**]]
+    --
   ====
 C
   ==
   - Fan Wan entry: Corrected headword ⿸厃⿳八土口 to {𦧕=⿸厃⿱儿舌}.
+  - Williams' 謹詹: Not to provide, but to set/choose.
   ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 $$
 
 ### 譫1 | _(1)Ch(i/)m_ [[zim1]]
