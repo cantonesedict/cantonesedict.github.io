@@ -240,7 +240,7 @@ W
   ====
   - [[Page~15* (1)沾]]
     ==
-    - To moisten, to tinge;
+    - To moisten, to tinge [[Kangxi: 漬也濡也]];
     - to receive benefits;
     - to participate in;
     - to be a recipient of;
