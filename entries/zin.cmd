@@ -539,6 +539,10 @@ R
   ⾡ + 13
 U
   U+9085
+V
+  ==
+  - zin6 (per 《廣韻》持碾切 for "turn" sense and 除善切 for "shift/move" sense)
+  ==
 F
   ==
   - [[F1.20 邅]] 迍邅
@@ -547,12 +551,17 @@ W
   ====
   - [[Page~17* (1)邅]]
     ==
-    - Unable to advance;
+    - Unable to advance [[Kangxi: 迍邅難行不進貌]];
     - _(1)chun (1)ch(i/)n_
         [[zeon1 zin1 迍邅]],
         making no progress, unlucky in life, unfortunate.
     ==
   ====
+P
+  ++
+  1. To turn (Kangxi: 轉也逐也).
+  1. To shift, to move (Kangxi: 移也).
+  ++
 $$
 
 ### 顫1 | _(1)Ch(i/)n_ [[zin1]]
