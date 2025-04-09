@@ -299,10 +299,14 @@ W
   ====
   - [[Page~573 (1)湔]]
     ==
-    - To sprinkle with the hand, to bespatter;
-    - name of a river in Sz'chuen [[四川]].
+    - To sprinkle with the hand, to bespatter [[Kangxi: 手瀚也灑也傍沾也]];
+    - name of a river in Sz'chuen [[四川]] [[Kangxi: 水名]].
     ==
   ====
+P
+  ++
+  1. To wash.
+  ++
 $$
 
 ###+ 濺1 | _(1)Ts(i/)n_ (zin1)
