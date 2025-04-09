@@ -497,6 +497,10 @@ R
   ⽺ + 13
 U
   U+7FB6
+A
+  ==
+  - 羴
+  ==
 V
   ==
   - sin1 (per 《廣韻》式連切)
@@ -509,9 +513,9 @@ W
   ====
   - [[Page~17* (1)羶]]
     ==
-    - The rank oder of goats;
+    - The rank oder of goats [[Kangxi: 羊臭也, 羊脂也羊氣也]];
     - frowzy;
-    - sheep's fat, mutton tallow;
+    - ~~sheep's fat, mutton tallow;~~
     - _ch(')au(3) (1)ch(i/)n_
         [[cau3 zin1 臭羶]],
         fetid, rank;
@@ -520,6 +524,12 @@ W
         frowzy.
     ==
   ====
+C
+  ==
+  - Williams' "sheep's fat, mutton tallow": Here, Williams has been misled
+    by Kangxi 羊脂也, which (I think) is intended not just as "sheep's fat",
+    but should be interpolated to "[the smell of] sheep's fat".
+  ==
 $$
 
 ### 邅1 | _(1)Ch(i/)n_ [[zin1]]
