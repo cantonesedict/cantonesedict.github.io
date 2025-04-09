@@ -154,11 +154,18 @@ W
   ====
   - [[Page~16* (1)旃]]
     ==
-    - A silken banner;
-    - a crooked flag-staff;
-    - to signalize one to come.
+    - A silken banner [[Kangxi: 通帛爲旃]];
+    - a crooked flag-staff [[Kangxi: 旗曲柄也]];
+    - ~~to signalize one to come.~~
     ==
+    --
+    [[Otherwise, an alternative form of 氈. **See $氈zin1 for the canonical entry.**]]
+    --
   ====
+P
+  ++
+  1. Contraction of 之焉.
+  ++
 $$
 
 ### 毡1 | _(1)Ch(i/)n_ [[zin1]]
@@ -191,6 +198,7 @@ U
   U+6C08
 A
   ==
+  - $旃1
   - $毡1
   - $氊1
   ==
