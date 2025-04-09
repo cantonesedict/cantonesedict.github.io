@@ -99,6 +99,10 @@ W
     [[...]]
     --
   ====
+C
+  ==
+  - Williams' 儃佪: Corrected _(1)(u/)i_ (wui1) to _(4)(u/)i_ (wui4).
+  ==
 S
   ==
   - $儃sin4 (TODO)
