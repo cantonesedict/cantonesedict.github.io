@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2025-03-16
+* %date-modified --> 2025-04-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -76,6 +76,11 @@ R
   ⼈ + 13
 U
   U+5103
+V
+  ==
+  - sin4 (per 《廣韻》市連切)
+  - taan4 (per 《廣韻》徒干切)
+  ==
 F
   ==
   - [[F1.20 儃]] 態也又儃回不進也
@@ -83,22 +88,22 @@ F
 W
   ====
   - [[Page~16* (1)儃]]
+    ==
+    - Manner, air, figure [[Kangxi: 態也]];
+    - look;
+    - _(1)ch(i/)n [(4)](u/)i_
+        [[zin1 wui4 儃佪]],
+        undecided whether to go on, irresolute [[Kangxi: 儃佪不進貌]].
+    ==
     --
-    [[Reading variation. **See $儃sin4 for the canonical entry.**]]
-    --
-    --
-    Read _sh(i/)n[(6)]_ [[sin6]]; [[**see $儃sin6**]].
+    [[...]]
     --
   ====
-C
-  ==
-  - Williams' "Read [...]":
-    Corrected _sh(i/)n(3)_ (sin3) to _sh(i/)n(6)_ (sin6).
-  ==
 S
   ==
   - $儃sin4 (TODO)
   - $儃sin6 (TODO)
+  - $儃taan2 (TODO)
   ==
 $$
 
