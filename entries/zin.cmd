@@ -400,20 +400,16 @@ R
   ⽪ + 13
 U
   U+76BD
-V
-  ==
-  - zin2 (per 《廣韻》知演切)
-  ==
 F
   [[Not present]]
 W
   ====
   - [[Page~17* (1)皽]]
     ==
-    - To tear off, as a scab or placard;
+    - ~~To tear off, as a scab or placard;~~
     - to flay;
     - to rip up;
-    - thin scurf skin, a scab;
+    - [[...]];
     - _(1)ch(i/)n (2)h(i/)_
         [[zin1 hei2 皽起]],
         rip it up;
@@ -422,6 +418,10 @@ W
         rip it off.
     ==
   ====
+S
+  ==
+  - $皽zin2
+  ==
 $$
 
 ### 箋1 | _(1)Ts(i/)n_ [[zin1]]
@@ -638,6 +638,7 @@ $$
 - $剗2
 - $展2
 - $戩2
+- $皽2
 - $碾2
 - $翦2
 - $諓2
@@ -806,6 +807,34 @@ W
         unlimited.
     ==
   ====
+$$
+
+###+ 皽2 | _(2)Ch(i/)n_ (zin2)
+
+$$
+R
+  ⽪ + 13
+U
+  U+76BD
+V
+  ==
+  - ziu1 (alternative per 《廣韻》止遥切)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~17* (1)皽 _(1)Ch(i/)n_ (zin1); here corrected to _(2)Ch(i/)n_ (zin2)]]
+    ==
+    - [[...]];
+    - thin scurf skin, a scab [[Kangxi: 離也, 皮寬也, 皮肉之上魄膜也]];
+    - [[...]].
+    ==
+  ====
+S
+  ==
+  - $皽zin1
+  ==
 $$
 
 ### 碾2 | _(2)Ch(i/)n_ [[zin2]]
