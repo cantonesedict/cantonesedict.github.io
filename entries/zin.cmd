@@ -353,7 +353,7 @@ W
   ====
   - [[Page~572 (1)煎]]
     ==
-    - To fry, to roast in a pan;
+    - To fry, to roast in a pan [[Kangxi: 熬也, 火去汁也, 熟煑也, 火乾也, etc.]];
     - to vex, to harass;
     - _(1)ts(i/)n (1)k(o\)_
         [[zin1 gou1 煎膏]],
@@ -371,10 +371,10 @@ W
     - _[(4)]ng(o\) (1)ts(i/)n_
         [[ngou4 zin1 熬煎]],
         to simmer, to decoct;
-        vexed, irritated.
+        ~~vexed, irritated~~.
     ==
     --
-    Read _ts(i/)n(3)_ [[zin3]]; [[**see $煎zin3**]].
+    [[...]]
     --
   ====
 C
@@ -382,6 +382,11 @@ C
   - Williams' 煎燶: Corrected _(4)nung_ (nung4) to _(1)nung_ (nung1).
   - Williams' 熬煎: Corrected _ng(o\)(6)_ (ngou6) to _(4)ng(o\)_ (ngou4).
   ==
+P
+  ++
+  1. To shallow-fry.
+  1. To smelt.
+  ++
 S
   ==
   - $煎zin3
@@ -1251,6 +1256,10 @@ W
         to decoct medicines.
     ==
   ====
+P
+  ++
+  1. Used in 甲煎 (a fragrant concoction) (Kangxi: 甲煎香名).
+  ++
 S
   ==
   - $煎zin1
