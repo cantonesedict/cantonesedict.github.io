@@ -566,11 +566,15 @@ $$
 
 ### 顫1 | _(1)Ch(i/)n_ [[zin1]]
 
-$$.
+$$
 R
   ⾴ + 13
 U
   U+986B
+V
+  ==
+  - sin1 (per 《集韻》尸連切)
+  ==
 F
   ==
   - [[F1.20 顫]] 四肢奏掉曰顫
@@ -582,6 +586,10 @@ W
     [[Reading variation. **See $顫zin3 for the canonical entry.**]]
     --
   ====
+P
+  ++
+  1. Discerning of smells (Kangxi: 謂審於氣臭也).
+  ++
 S
   ==
   - $顫zin3
@@ -1591,9 +1599,9 @@ W
   ====
   - [[Page~17* (1)顫 _(1)Ch(i/)n_ (zin1); here normalised to _Ch(i/)n(3)_ (zin3)]]
     ==
-    - The head awry;
+    - ~~The head awry [[Kangxi: 頭不正也]]~~;
     - shivering with cold;
-    - the limbs cold and trembling;
+    - the limbs cold and trembling [[Kangxi: 四支寒動也]];
     - fearful, frightened;
     - _sz'(3) (1)ch(i/) ch(i/)n[(3)] tung(6)_
         [[si3 zi1 zin3 dung6 四肢顫動]]
@@ -1605,9 +1613,9 @@ W
   ====
 C
   ==
-  - The level-tone reading _(1)ch(i/)n_ (zin1) is only attested
-    with the explanation "to discern smells";
-    Kangxi quotes 又《集韻》《韻會》《正韻》{𠀤=⿱夶一}尸連切音羶《集韻》謂審於氣臭也《莊子外物篇》鼻徹爲顫《音義》顫舒延反.
+  - Williams' "The head awry": According to 段玉裁's annotations of 《說文》,
+    頭不正也 should instead be 頭不定也 "the head not steady".
+    In other words, shaking or trembling.
   ==
 S
   ==
