@@ -478,9 +478,16 @@ W
     - A man's name,
       called _(1)Ts(i/)n (1)Hang_ [[zin1 hang1 籛鏗]], or Tsien Hing,
       who lived in the Sh(a/)ng [[商]] and Chau [[周]] dynasties,
-      to the age of 767, and then vanished.
+      to the age of 767, ~~and then vanished~~
+      [[Kangxi: ::彭祖姓籛名鏗[...]歷夏殷周年七百六十七歲而不衰::]].
     ==
   ====
+C
+  ==
+  - Williams' "man's name": Specifically, a surname (Kangxi: 姓也).
+  - Williams' "and then vanished": This is a misreading of Kangxi 而不衰,
+    which should be rendered "and waned not".
+  ==
 $$
 
 ### 羶1 | _(1)Ch(i/)n_ [[zin1]]
