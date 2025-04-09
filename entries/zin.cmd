@@ -209,9 +209,9 @@ F
   ==
 W
   ====
-  - [[Page~16* (1)毡(1)氊; here normalised to 氊]]
+  - [[Page~16* (1)毡(1)氊; here normalised to 氈]]
     ==
-    - Hair or wool worked into a felt;
+    - Hair or wool worked into a felt [[Kangxi 氈: 撚毛也]];
     - coarse woolens, as blankets, carpets, rugs;
     - _t(i/)(6) (1)ch(i/)n_
         [[dei6 zin1 地氈]],
