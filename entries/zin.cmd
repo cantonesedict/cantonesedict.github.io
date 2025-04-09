@@ -116,22 +116,27 @@ U
   U+6214
 F
   ==
-  - [[F1.20 戔]] 戔戔淺少之貌
+  - [[F1.20 戔]] ::戔戔淺[小]之貌::
   ==
 W
   ====
   - [[Page~573 (1)戔]]
     --
-    Used for _(4)ts(')(a/)n_ 殘 cruel.
-    --
-    --
-    [[Otherwise:]]
+    [[...]]
     --
     ==
-    - Small, narrow, cramped;
+    - Small, narrow, cramped [[Kangxi: 戔戔淺小之意]];
     - contracted, as one's mind.
     ==
   ====
+C
+  ==
+  - Fan Wan entry: Corrected 少 to 小.
+  ==
+S
+  ==
+  - $戔caan4
+  ==
 $$
 
 ### 旃1 | _(1)Ch(i/)n_ [[zin1]]

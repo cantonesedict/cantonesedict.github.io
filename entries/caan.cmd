@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caan
-* %date-modified --> 2025-03-14
+* %date-modified --> 2025-04-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -510,10 +510,33 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $戔4
 - $殘4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 戔4 | _(4)Ts(')(a/)n_ [[caan4]]
+
+$$.
+R
+  ⼽ + 4
+U
+  U+6214
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~573 (1)戔 used for _(4)Ts(')(a/)n_ (caan4)]]
+    --
+    [[Alternative form of 殘. **See $殘caan4 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $戔zin1
+  ==
+$$
 
 ### 殘4 | _(4)Ts(')(a/)n_ [[caan4]]
 
@@ -522,6 +545,10 @@ R
   ⽍ + 8
 U
   U+6B98
+A
+  ==
+  - $戔4
+  ==
 F
   ==
   - [[F2.68 殘]] 傷殘餘也落也賤也害也
@@ -569,6 +596,13 @@ W
         [[caan4 jan2 殘忍]],
         cruel, unfeeling.
     ==
+  - [[Page~573 (1)戔 used for _(4)Ts(')(a/)n_ (caan4)]]
+    --
+    Used for _(4)ts(')(a/)n_ [[caan4]] 殘 cruel [[Kangxi 戔: 通作殘]].
+    --
+    --
+    [[...]]
+    --
   ====
 P
   ++
