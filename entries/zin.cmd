@@ -439,8 +439,8 @@ W
   ====
   - [[Page~573 (1)箋]]
     ==
-    - Tablets or slips on which to make memoranda;
-    - a letter, a writing;
+    - Tablets or slips on which to make memoranda [[Kangxi: 表識書也]];
+    - a letter, a writing [[Kangxi: 書也]];
     - note paper with water-line or stamped pictures;
     - writings handed to the monarch;
     - _(1)ts(i/)n (2)ch(i/)_
@@ -454,6 +454,10 @@ W
         glazed billet paper.
     ==
   ====
+P
+  ++
+  1. A commentary at a lower level than a 傳 or 註, used self-deprecatingly (Kangxi: ::聖人制作曰經賢者著述曰傳[...]謙敬不敢言註但表識其不明者耳::).
+  ++
 $$
 
 ### 籛1 | _(1)Ts(i/)n_ [[zin1]]
