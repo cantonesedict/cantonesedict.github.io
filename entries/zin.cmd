@@ -1054,7 +1054,7 @@ W
   - [[Page~573 (2)謭; here normalised to 譾]]
     ==
     - Shallow-pated, superficial, not profound;
-    - unskilled, shallow, not deep;
+    - unskilled, shallow, not deep [[Kangxi: 淺也]];
     - _(4)ts(')oi (2)ts(i/)n_
         [[coi4 zin2 材譾]],
         mediocre, of small capacity;
