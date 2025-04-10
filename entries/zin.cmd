@@ -988,7 +988,7 @@ U
 V
   ==
   - cin5 (per 《廣韻》慈演切)
-  - zin1 (alternative)
+  - zin1 (alternative per ::《集韻》[將]先切::)
   - zin6 (per 《廣韻》才線切)
   ==
 F
@@ -999,19 +999,18 @@ W
   ====
   - [[Page~573 (2)諓]]
     ==
-    - To flatter;
-    - pleasant, kind words;
-    - sly insinuations;
+    - To flatter [[Kangxi: 諂也]];
+    - pleasant, kind words [[Kangxi: 善言也]];
+    - sly insinuations [[Kangxi: 巧讒貌]];
     - _(2)ts(i/)n (2)ts(i/)n_
         [[zin2 zin2 諓諓]],
-        shallow, artful talk.
+        shallow, artful talk [[Kangxi: 巧言也, 淺薄貌]].
     ==
   ====
 C
   ==
-  - The non-《廣韻》 readings _(1)ts(i/)n_ (zin1) and _(2)ts(i/)n_ (zin2)
-    are not unattested; Kangxi quotes
-    ::又《集韻》[...]又子淺切箋上聲又《集韻》《韻會》將先切《正韻》則前切{𠀤=⿱夶一}音箋義{𠀤=⿱夶一}同::.
+  - The reading _(2)ts(i/)n_ (zin2) is not unattested;
+    《集韻》 has the reading 子淺切, explained 諓諓淺薄皃一曰巧言也一曰善也.
   ==
 $$
 
