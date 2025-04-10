@@ -1489,6 +1489,7 @@ U
 A
   ==
   - $洊3
+  - $薦3
   ==
 V
   ==
@@ -1503,13 +1504,20 @@ W
   ====
   - [[Page~573 荐(3)]]
     ==
-    - Interchanged with the last [[$薦3]];
+    - [[...]];
     - also to continue;
-    - some;
-    - to succeed, to recur repeatedly, as a famine;
+    - ~~some;~~
+    - to succeed, to recur repeatedly [[Kangxi: 重也, 仍也]], as a famine;
     - repeatedly, again.
     ==
+    --
+    [[Otherwise, an alternative form of 薦. **See $薦zin3 for the canonical entry.**]]
+    --
   ====
+P
+  ++
+  1. Nomadic (Kangxi: ::荐草也[言][...]逐水草而居徙無常處::).
+  ++
 $$
 
 ### 薦3 | _Ts(i/)n(3)_ [[zin3]]
@@ -1591,6 +1599,11 @@ W
     - _ts(i/)n(3) (2)h(i/)_
         [[zin3 hei2 薦起]]^
         raise it up.
+    ==
+  - [[Page~573 荐(3)]]
+    ==
+    - Interchanged with the last [[薦]];
+    - [[...]].
     ==
   ====
 E
