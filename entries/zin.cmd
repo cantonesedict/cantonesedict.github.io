@@ -1088,9 +1088,9 @@ W
   ====
   - [[Page~17* (2)輾]]
     ==
-    - To roll over half way;
-    - to turn over;
-    - [[see $輾nin5 for "mill" senses]];
+    - To roll over half way [[Kangxi: 輾者轉之半也]];
+    - to turn over [[Kangxi: 轉也]];
+    - [[...]];
     - _(2)ch(i/)n (2)ch(u:)n (2)f(a/)n [chak](7)_
         [[zin2 zyun2 faan2 zak1 輾轉反側]]
         to turn back and forth, to think on.
