@@ -713,7 +713,7 @@ W
   ====
   - [[Page~573 (2)翦(2)剪]]
     ==
-    - [[See $翦zin2 for classical senses]];
+    - [[...]];
     - to cut off smooth, to clip even;
     - to shear;
     - shears, scissors;
@@ -733,6 +733,9 @@ W
         to manage, to plan;
     - [[...]].
     ==
+    --
+    [[Otherwise, an alternative form of 翦. **See $翦zin2 for the canonical entry.**]]
+    --
   ====
 C
   ====
@@ -740,6 +743,7 @@ C
   - Williams does not provide separate entries for 剪 and $翦2.
     In modern usage, the "scissors" sense is spelt 剪,
     whilst the other (classical) senses are spelt 翦.
+    I have split things up accordingly.
   - Williams' 鈒剪: Corrected _ch(a/)p(8)_ (zaap3) to _ch(a/)p(9)_ (zaap6).
   ====
 E
