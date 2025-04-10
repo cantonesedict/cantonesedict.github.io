@@ -663,8 +663,8 @@ W
   ====
   - [[Page~17* (1)鸇]]
     ==
-    - A falcon, goshawk, or kite;
-    - a yellow bird which pursues pigeons;
+    - A falcon, goshawk, or kite [[Kangxi: 鷙鳥]];
+    - a yellow bird which pursues pigeons [[Kangxi: ::鸇似鷂黃色[...]擊鳩鴿燕雀食之::]];
     - a sparrow-hawk.
     ==
   ====
