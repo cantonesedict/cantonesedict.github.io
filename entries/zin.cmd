@@ -852,15 +852,22 @@ W
   ====
   - [[Page~573 (2)戩]]
     ==
-    - To destroy, to kill, to exterminate;
+    - [[...]];
     - to finish, to exhaust;
-    - to clip, to shear;
-    - entirely;
+    - [[...]];
+    - entirely [[Kangxi: 盡也]];
     - _pat(7) (2)ts(i/)n_
         [[bat1 zin2 不戩]],
         unlimited.
     ==
+    --
+    [[Otherwise, an alternative form of 翦. **See $翦zin2 for the canonical entry.**]]
+    --
   ====
+P
+  ++
+  1. A blessing.
+  ++
 $$
 
 ###+ 皽2 | _(2)Ch(i/)n_ (zin2)
@@ -925,6 +932,7 @@ U
 A
   ==
   - $剪2
+  - $戩2
   ==
 F
   ==
@@ -952,6 +960,13 @@ W
     --
     [[Otherwise, an alternative form of 剪. **See $剪zin2 for the canonical entry.**]]
     --
+  - [[Page~573 (2)戩; here normalised to 翦]]
+    ==
+    - To destroy, to kill, to exterminate [[Kangxi 戩: 與翦通, 滅也]];
+    - [[...]];
+    - to clip, to shear;
+    - [[...]].
+    ==
   ====
 C
   ====
