@@ -1567,12 +1567,12 @@ W
     ==
   - [[Page~573 薦(3)]]
     ==
-    - Grass eaten by animals;
+    - Grass eaten by animals [[Kangxi: 獸之所食草也]];
     - pasturage;
-    - to lead animals to good pastures;
+    - ~~to lead animals to good pastures;~~
     - to introduce, to recommend;
-    - to lay out food;
-    - to adore, to worship without a victim;
+    - to lay out [[Kangxi: 進也]] food [[Kangxi: 未食未飮曰薦 etc.]];
+    - to adore, to worship without a victim [[Kangxi: 無牲而祭曰薦]];
     - to wedge, to wedge in;
     - _ts(i/)n(3) (4)t(')oi k(e/)uk(8)_
         [[zin3 toi4-2 goek3 薦檯腳]]
@@ -1600,12 +1600,19 @@ W
         [[zin3 hei2 薦起]]^
         raise it up.
     ==
+    --
+    [[Otherwise, an alternative form of 荐. **See $荐zin3 for the canonical entry.**]]
+    --
   - [[Page~573 荐(3)]]
     ==
     - Interchanged with the last [[薦]];
     - [[...]].
     ==
   ====
+P
+  ++
+  1. A straw mat (Kangxi 荐: 荐薦席也).
+  ++
 E
   ====
   - 【薦-noun】 (zin3, zin3-2):
