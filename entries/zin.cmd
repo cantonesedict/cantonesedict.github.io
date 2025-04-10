@@ -1422,13 +1422,13 @@ W
   ====
   - [[Page~573 箭(3)]]
     ==
-    - An arrow;
+    - An arrow [[Kangxi: 矢也]];
     - an archer;
     - a bowshot;
     - to dart out very quickly;
     - swift, like an arrow;
-    - a slender sort of bamboo;
-    - bristling;
+    - a slender sort of bamboo [[Kangxi: 竹之小者曰箭, 箭篠也]];
+    - ~~bristling;~~
     - _sh(e/)(6) ts(i/)n(3)_
         [[se6 zin3 射箭]]
         to shoot an arrow;
