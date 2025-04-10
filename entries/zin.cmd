@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2025-04-09
+* %date-modified --> 2025-04-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -612,7 +612,7 @@ W
   ====
   - [[Page~17* (1)饘]]
     ==
-    - Congee or gruel made from rice, thoroughly boiled;
+    - Congee or gruel made from rice, thoroughly boiled [[Kangxi: 糜也]];
     - _(1)ch(i/)n chuk(7)_
         [[zin1 zuk1 饘粥]]
         congee.
