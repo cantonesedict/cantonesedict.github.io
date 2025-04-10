@@ -800,13 +800,13 @@ W
   ====
   - [[Page~17* (2)展]]
     ==
-    - To open out, to unroll, and inspect;
-    - to exhibit, to disentangle;
-    - to stretch out at one's ease, to expand;
-    - to judge of, to look into;
-    - true, sincere;
+    - To open out, to unroll [[Kangxi: 開也]], ~~and inspect~~;
+    - to exhibit [[Kangxi: ::展陳也::]], to disentangle;
+    - to stretch out at one's ease [[Kangxi: 舒也]], to expand;
+    - to judge of, to look into [[Kangxi: 審也視也, 展省閱也]];
+    - true, sincere [[Kangxi: 一曰誠也]];
     - cheerful, pleasant;
-    - gratified;
+    - ~~gratified;~~
     - _yuk(9) (2)ch(i/)n_
         [[juk6 zin2 玉展]],
         may you open this;
@@ -826,7 +826,15 @@ W
         [[zin2 haan6 展限]]
         to extend the time.
     ==
+    --
+    [[Otherwise, an alternative form of 輾. **See $輾zin2 for the canonical entry.**]]
+    --
   ====
+P
+  ++
+  1. To record (Kangxi: 展猶錄也).
+  1. To implement, to bring about.
+  ++
 $$
 
 ### 戩2 | _(2)Ts(i/)n_ [[zin2]]
@@ -1054,6 +1062,10 @@ R
   ⾞ + 10
 U
   U+8F3E
+A
+  ==
+  - $展2
+  ==
 F
   ==
   - [[F1.22 輾]] 轉之半曰輾
