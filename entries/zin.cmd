@@ -1397,8 +1397,8 @@ W
   ====
   - [[Page~574 牮(3)]]
     ==
-    - A prop to shore up a leaning house;
-    - a sluice or weir of earth or stone to lead water.
+    - A prop to shore up a leaning house [[Kangxi: 屋斜用牮]];
+    - a sluice or weir of earth or stone to lead water [[Kangxi: 以土石遮水亦曰牮]].
     ==
   ====
 C
