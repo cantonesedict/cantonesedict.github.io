@@ -635,13 +635,17 @@ W
   ====
   - [[Page~17* (1)鱣]]
     ==
-    - A sea-monster;
-    - a large sturgeon, or perhaps a grampus;
+    - ~~A sea-monster;~~
+    - a large sturgeon, or perhaps a grampus [[Kangxi: 大魚似鱏 etc.]];
     - _(1)ch(i/)n (4)k(')ing_
         [[zin1 king4 鱣鯨]],
         whales and grampuses, applied to an unscrupulous, grasping man.
     ==
   ====
+S
+  ==
+  - $鱣sin5 (TODO)
+  ==
 $$
 
 ### 鸇1 | _(1)Ch(i/)n_ [[zin1]]
