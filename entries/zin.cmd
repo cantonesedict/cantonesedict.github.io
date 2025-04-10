@@ -1716,9 +1716,9 @@ W
   ====
   - [[Page~574 餞(3)]]
     ==
-    - To present food to one, to give a farewell dinner to;
-    - to send food to;
-    - parting present of money or food;
+    - To present food to one, to give a farewell dinner to [[Kangxi: 送去也, 酒食送也]];
+    - ~~to send food to;~~
+    - parting present of ~~money or~~ food [[Kangxi: 餞者進飮食之名也]];
     - comfits;
     - _ts(i/)n(3) (4)hang_
         [[zin3 hang4 餞行]],
@@ -1734,6 +1734,10 @@ W
         presents to a traveler.
     ==
   ====
+P
+  ++
+  1. To send off by accompanying (Kangxi: 凡送皆曰餞).
+  ++
 $$
 
 
