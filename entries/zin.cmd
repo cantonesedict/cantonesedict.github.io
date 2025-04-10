@@ -1276,6 +1276,10 @@ R
   ⽔ + 6
 U
   U+6D0A
+A
+  ==
+  - 瀳
+  ==
 V
   ==
   - zin6 (per 《廣韻》在甸切)
@@ -1288,14 +1292,21 @@ W
   ====
   - [[Page~573 洊(3)]]
     ==
-    - Water flowing on;
+    - ~~Water flowing on;~~
     - a stream bursting forth again;
-    - repeated;
+    - repeated [[Kangxi 洊: 通薦]];
     - _ts(i/)n(3) lik(9)_
         [[zin3 lik6 洊歷]]
         successively.
     ==
+    --
+    [[Alternative form of 荐. See $荐zin3.]]
+    --
   ====
+P
+  ++
+  1. Water arriving (Kangxi 瀳: 水至也).
+  ++
 $$
 
 ### 濺3 | _Ts(i/)n(3)_ [[zin3]]
@@ -1475,6 +1486,10 @@ R
   ⾋ + 6
 U
   U+8350
+A
+  ==
+  - $洊3
+  ==
 V
   ==
   - zin6 (per 《廣韻》在甸切)
