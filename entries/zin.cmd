@@ -1767,9 +1767,9 @@ W
   ====
   - [[Page~574 賤(6)]]
     ==
-    - Worthless, vile, mean, low, ignoble, base;
-    - cheap, low-priced;
-    - to disesteem, to depreciate, to lower;
+    - Worthless, vile, mean, low, ignoble, base [[Kangxi: ::[卑]下也不貴也::]];
+    - cheap, low-priced [[Kangxi: 賈少也]];
+    - to disesteem, to depreciate, to lower [[Kangxi: 輕賤]];
     - used for what belongs to one's self;
     - _(4)p(')an ts(i/)n(6)_
         [[pan4 zin6 貧賤]]
