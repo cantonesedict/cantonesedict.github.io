@@ -714,7 +714,7 @@ W
   - [[Page~573 (2)翦(2)剪]]
     ==
     - [[...]];
-    - to cut off smooth, to clip even;
+    - to cut off smooth, to clip even [[Kangxi 翦: 翦齊也]];
     - to shear;
     - shears, scissors;
     - [[...]];
@@ -741,9 +741,9 @@ C
   ====
   - Fan Wan entry: Corrected 栽 to 裁 and ⿰糸殳 to 殺.
   - Williams does not provide separate entries for 剪 and $翦2.
-    In modern usage, the "scissors" sense is spelt 剪,
+    In modern usage, the "scissors" and "cut" senses is spelt 剪,
     whilst the other (classical) senses are spelt 翦.
-    I have split things up accordingly.
+    I have split things up accordingly, with duplication where appropriate.
   - Williams' 鈒剪: Corrected _ch(a/)p(8)_ (zaap3) to _ch(a/)p(9)_ (zaap6).
   ====
 E
@@ -927,12 +927,12 @@ W
   ====
   - [[Page~573 (2)翦(2)剪]]
     ==
-    - Even, regular, as feathers grow;
-    - to cut off smooth, to clip even;
-    - [[see $剪zin2 for "scissors" senses]];
-    - to kill, to destroy;
-    - to reduce, to clip off;
-    - light, as a dye;
+    - Even, regular, as feathers grow [[Kangxi 翦: 羽生也]];
+    - to cut off smooth, to clip even [[Kangxi 翦: 翦齊也, 齊斷也]];
+    - [[...]];
+    - to kill, to destroy [[Kangxi 翦: 殺也, 翦斷滅之言也]];
+    - to reduce, to clip off [[Kangxi 翦: 翦削也]];
+    - light, as a dye [[Kangxi 翦: 翦淺也]];
     - [[...]];
     - _(2)ts(i/)n (2)ts(i/)n_
         [[zin2 zin2 翦翦]],
@@ -941,13 +941,17 @@ W
         [[zin2 dei6 kau4 wo4 翦地求和]],
         to give up territory and beg for peace.
     ==
+    --
+    [[Otherwise, an alternative form of 剪. **See $剪zin2 for the canonical entry.**]]
+    --
   ====
 C
   ====
   - Fan Wan entry: Corrected 栽 to 裁 and ⿰糸殳 to 殺.
   - Williams does not provide separate entries for $剪2 and 翦.
-    In modern usage, the "scissors" sense is spelt 剪,
+    In modern usage, the "scissors" and "cut" senses is spelt 剪,
     whilst the other (classical) senses are spelt 翦.
+    I have split things up accordingly, with duplication where appropriate.
   ====
 $$
 
