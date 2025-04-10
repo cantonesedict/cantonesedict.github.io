@@ -1225,9 +1225,9 @@ W
   ====
   - [[Page~17* 戰(3)]]
     ==
-    - To fight;
-    - to be alarmed, struck with dread;
-    - fearful, anxious;
+    - To fight [[Kangxi: 鬭也]];
+    - ~~to be alarmed~~, struck with dread [[Kangxi: 懼也]];
+    - fearful, ~~anxious~~;
     - a battle, an engagement;
     - war, hostilities;
     - military, pertaining to war;
