@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2025-03-22
+* %date-modified --> 2025-04-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -956,7 +956,7 @@ W
 C
   ==
   - The reading _(1)tsau_ (zau1) is not unattested, at least for the "small fish" sense;
-    《集韻》has the reading 將侯切, explained 小魚也.
+    《集韻》 has the reading 將侯切, explained 小魚也.
   ==
 $$
 

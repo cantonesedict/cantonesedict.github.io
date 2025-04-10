@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2025-04-06
+* %date-modified --> 2025-04-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -327,7 +327,7 @@ C
   ==
   - Fan Wan entry: Corrected ⿰糸⿱免丿 to 讒.
   - The reading _tsik(7)_ (zik1) is not unattested for the "fired-brick" sense;
-    《集韻》has the reading 節力切, explained 燒土周棺也.
+    《集韻》 has the reading 節力切, explained 燒土周棺也.
   - Kangxi has the "abhor" sense under 子力切 _tsik(7)_ (zik1).
     However, 《廣韻》 explains this reading as 風堲 (which I do not comprehend),
     with the "abhor" sense instead given under 秦力切 _tsik(9)_ (zik6).
