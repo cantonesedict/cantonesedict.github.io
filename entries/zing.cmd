@@ -121,12 +121,12 @@ W
   ====
   - [[Page~18* (1)征]]
     ==
-    - To go;
-    - to take;
+    - ~~To go~~;
+    - to take [[Kangxi: 征取也]];
     - to collect taxes;
-    - to go out to chastise, to reduce refractory states,
+    - to go out to chastise, to reduce refractory states [[Kangxi: 征伐也, 征者上伐下也]],
       to subjugate, to conquer;
-    - to spy;
+    - ~~to spy;~~
     - _(1)ching [fat](9)_
         [[zing1 fat6 征伐]]
         to reduce to subjection;
@@ -156,9 +156,14 @@ W
   ====
 C
   ==
+  - Williams' "To go": Better rendered "An expedition".
   - Williams' 征討: Not to collect tribute, but to punish.
   - Williams' 征伐: Changed _f(a/)t(9)_ (faat6) to modern _fat(9)_ (fat6).
   ==
+P
+  ++
+  1. An expedition, a long journey (Kangxi: 行也).
+  ++
 $$
 
 ### 徵1 | _(1)Ching_ [[zing1]]
