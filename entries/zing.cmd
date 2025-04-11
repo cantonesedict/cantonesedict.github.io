@@ -255,10 +255,10 @@ W
   - [[Page~575 (1)旌]]
     ==
     - A banner, a standard having plumes,
-      which when waved encourage the troops;
+      which when waved encourage the troops [[Kangxi: 析羽注旄首所以進士卒]];
     - to make signals;
     - insignia, signals;
-    - to discriminate, to make manifest, to prove, to show forth;
+    - ~~to discriminate~~, to make manifest, to prove, to show forth [[Kangxi: 旌旗所以表識貴賤故傳以旌爲識, 旌章也, 旌表也, 旌明也]];
     - _tsing (4)k(')(i/)_
         [[zing1 kei4 旌旗]],
         flags;
@@ -271,6 +271,12 @@ W
         and often placed over the door.
     ==
   ====
+C
+  ==
+  - Williams' "to discriminate":
+    This is a misreading of Kangxi ::《書畢命》旌別淑慝《傳》言當識別[...]::.
+    Here, 旌 means "[make] known". It is 別 which means "discriminate".
+  ==
 S
   ==
   - $旌sing1 (TODO)
