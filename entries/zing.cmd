@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2025-03-25
+* %date-modified --> 2025-04-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -78,6 +78,10 @@ R
   ⼈ + 9
 U
   U+5075
+V
+  ==
+  - cing1 (per 《廣韻》丑貞切)
+  ==
 F
   ==
   - [[F1.68 偵]] ::[伺]探也::
@@ -88,7 +92,7 @@ W
     ==
     - A spy (vulgo, _ye(6) pat(7) [(1)]shau_ [[je6 bat1 sau1 夜不收]]),
       a scout;
-    - to reconnoitre, to inquire;
+    - to reconnoitre, to inquire [[Kangxi: {𠋫=⿰亻侯}也探伺也]];
     - _(4)yau (1)ching_ [[jau4 zing1 遊偵]]^
         or
       _(1)ching t(')(a/)m(3)_ [[zing1 taam3 偵探]]
