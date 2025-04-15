@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2025-03-19
+* %date-modified --> 2025-04-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -693,9 +693,9 @@ C
     Here, 剉 means "break" or "snap", not "file".
   ==
 P
-  ==
+  ++
   1. To break, to snap (Kangxi: 掙剉也).
-  ==
+  ++
 S
   ==
   - $掙caang1
