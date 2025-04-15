@@ -538,7 +538,7 @@ W
   ====
   - [[Page~18* (1)禎]]
     ==
-    - A favourable omen;
+    - A favourable omen [[Kangxi: 祥也]];
     - felicitous, lucky;
     - _(1)ching (4)ts(')(e/)ung_
         [[zing1 coeng4 禎祥]],
