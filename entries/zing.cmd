@@ -1683,22 +1683,21 @@ W
   ====
   - [[Page~577 靚(6)]]
     --
-    Often pronounced _leng[(3)]_ [[leng3]] in Canton [[**see $靚leng3**]].
+    [[...]]
     --
     ==
-    - To call, to invite;
-    - to allure;
-    - to ornament, to bedizen;
-    - still;
+    - To call, to invite [[Kangxi: 召也]];
+    - ~~to allure;~~
+    - to ornament, to bedizen [[Kangxi: 裝飾也]];
+    - [[...]];
     - _tsing(6) shik(7)_
         [[zing6 sik1 靚飾]]
         dark eyebrows and clear skin.
     ==
+    --
+    [[Otherwise, an alternative form of 靜. **See $靜zing6 for the canonical entry.**]]
+    --
   ====
-C
-  ==
-  - Williams' "Often pronounced [...]": Corrected _leng(6)_ (leng6) to _leng(3)_ (leng3).
-  ==
 S
   ==
   - $靚leng3 (TODO)
@@ -1715,6 +1714,10 @@ U
 H
   May appear as either ⿰靑爭 or ⿰青爭 (assumed here),
   depending on the font.
+A
+  ==
+  - $靚6
+  ==
 F
   ==
   - [[F1.73 靜]] 寂也定也
@@ -1753,6 +1756,15 @@ W
     - _y(e/)(6) tsing(6)_
         [[je6 zing6 夜靜]]
         the stilly night.
+    ==
+  - [[Page~577 靚(6); here normalised to 靜]]
+    --
+    [[...]]
+    --
+    ==
+    - [[...]];
+    - still;
+    - [[...]].
     ==
   ====
 $$
