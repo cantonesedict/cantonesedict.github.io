@@ -822,9 +822,9 @@ W
   ====
   - [[Page~18* (1)貞]]
     ==
-    - To divine by shells;
+    - To divine by shells [[Kangxi: 卜問也]];
     - chaste, virtuous;
-    - pure, correct, moral;
+    - pure, correct, moral [[Kangxi: 貞正也]];
     - uncorrupted;
     - well principled;
     - _(1)ching k(i/)t(8)_
@@ -841,6 +841,10 @@ W
         inflexibly upright or virtuous.
     ==
   ====
+P
+  ++
+  1. Resolved, resolute (Kangxi: 貞定也精定不動惑也).
+  ++
 $$
 
 ### 鉦1 | _(1)Ching_ [[zing1]]
