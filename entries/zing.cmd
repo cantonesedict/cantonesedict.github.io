@@ -1393,8 +1393,8 @@ W
   ====
   - [[Page~20* 證(3)]]
     ==
-    - To prove, to confront, to testify;
-    - to substantiate;
+    - To prove, to confront, to testify [[Kangxi: 告也]];
+    - to substantiate [[Kangxi: 驗也, {𠋫=⿰亻侯}也質也]];
     - to prove by authorities;
     - evidence;
     - _ching(3) (4)yan_
