@@ -414,14 +414,14 @@ W
   ====
   - [[Page~18* (1)烝]]
     ==
-    - [[See $蒸zing1 for "steam" senses]];
-    - a multitude, all;
-    - to enter, to advance;
-    - clouds of dust;
-    - liberal, princely;
-    - a winter sacrifice;
-    - to commit incest with superiors in rank;
-    - to lay down;
+    - [[...]];
+    - a multitude, all [[Kangxi: 衆也]];
+    - ~~to enter~~, to advance [[Kangxi: 進也]];
+    - clouds of dust [[Kangxi: 塵也, 人衆所以生塵埃]];
+    - ~~liberal~~, princely [[Kangxi: 君也]];
+    - a winter sacrifice [[Kangxi: ::冬祭[曰]烝::, 進品物也]];
+    - ~~to commit incest with superiors in rank;~~
+    - ~~to lay down;~~
     - _(1)t(')(i/)n (1)shang (1)ching (4)man_
         [[tin1 sang1 zing1 man4 天生烝民]]^
         heaven produced all men;
@@ -435,12 +435,20 @@ W
         to intrude one's self;
     - [[...]].
     ==
+    --
+    [[Otherwise, an alternative form of 蒸. **See $蒸zing1 for the canonical entry.**]]
+    --
   ====
 C
   ==
-  - "Steam" senses have been normalised to 蒸 per modern usage. See $蒸zing1.
-  - Williams' "incest with superiors": More generally, adultery with an elder.
+  - Williams' "incest with superiors": Better rendered "adultery with an elder" (e.g. father's concubine).
   ==
+P
+  ++
+  1. Air convecting upward from a fire (Kangxi: 火气上行也).
+  1. Speech-assist, specifically an initial particle (Kangxi: 烝發語辭).
+  1. To commit adultery with an elder (Kangxi: 上淫曰烝).
+  ++
 $$
 
 ### 癥1 | _(1)Ching_ [[zing1]]
