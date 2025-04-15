@@ -405,6 +405,10 @@ R
   ⽕ + 6
 U
   U+70DD
+A
+  ==
+  - $蒸1
+  ==
 F
   ==
   - [[F1.68 烝]] 衆也
@@ -437,6 +441,18 @@ W
     ==
     --
     [[Otherwise, an alternative form of 蒸. **See $蒸zing1 for the canonical entry.**]]
+    --
+  - [[Page~18* (1)蒸]]
+    --
+    Used for the last [[烝]] [[Kangxi 蒸: 通烝]].
+    --
+    ==
+    - [[...]];
+    - all, numerous [[Kangxi 蒸: 衆也]];
+    - [[...]].
+    ==
+    --
+    [[...]]
     --
   ====
 C
@@ -727,23 +743,28 @@ W
     ==
   - [[Page~18* (1)蒸]]
     --
-    Used for the last [[$烝1]].
+    [[...]]
     --
     ==
-    - Twigs of hemp for burning;
-    - small firewood;
-    - hemp torches;
+    - Twigs of hemp for burning [[Kangxi: 折麻中榦也]];
+    - small firewood [[Kangxi: 麤曰薪細曰蒸]];
+    - ~~hemp torches;~~
     - vapor, steam;
-    - all, numerous;
+    - [[...]];
     - to rise, as vapor or steam;
     - _(1)ching (1)ching yat(9) (5)sh(e/)ung_
         [[zing1 zing1 jat6 soeng5 蒸蒸日上]],
         daily rising better and higher.
     ==
     --
-    Read _ching(3)_ [[**see $蒸zing3**]].
+    [[Otherwise, an alternative form of 烝. **See $烝zing1 for the canonical entry.**]]
     --
   ====
+C
+  ==
+  - Williams' "to rise, as vapor or steam": Kangxi has this sense
+    under departing-tone _ching(3)_ (zing3) (see $蒸zing3).
+  ==
 S
   ==
   - $蒸zing3
@@ -1292,7 +1313,7 @@ W
     [[...]]
     --
     --
-    Read _ching(3)_ [[**see $蒸zing3**]].
+    Read _ching(3)_ [[zing3]].
     --
     ==
     - The hot reflection of the sun;
@@ -1302,6 +1323,10 @@ W
         the sun strikes on me.
     ==
   ====
+P
+  ++
+  1. Vapour or air rising (Kangxi: 氣之上達也).
+  ++
 S
   ==
   - $蒸zing1
