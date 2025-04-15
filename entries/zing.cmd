@@ -1641,11 +1641,11 @@ W
   ====
   - [[Page~577 靖(6)]]
     ==
-    - To become clean and quiet;
-    - small, fine;
-    - to plan, to think carefully on;
-    - to tranquillize, to restore peace, to clear, as the sea from pirates;
-    - to regulate, to settle disturbances;
+    - To become ~~clean and~~ quiet;
+    - small, fine [[Kangxi: 一曰細貌]];
+    - to plan [[Kangxi: 謀也]], to think carefully on [[Kangxi: 思也]];
+    - to tranquillize, to restore peace, to clear [[Kangxi: 和也, 安也]], as the sea from pirates;
+    - to regulate, to settle disturbances [[Kangxi: 理也, 靖治也]];
     - _t(i/)(6) (1)fong (1)on tsing(6)_
         [[dei6 fong1 on1 zing6 地方安靖]]
         the land is now quiet;
@@ -1654,6 +1654,15 @@ W
         to put down the rebels.
     ==
   ====
+C
+  ==
+  - Williams' "clean": Here, Williams has been misled by Kangxi 立淨也,
+    which is a typo for 立竫也 "standing quiet".
+  ==
+P
+  ++
+  1. Respectful, observant, of few words (Kangxi: 恭己鮮言曰靖).
+  ++
 $$
 
 ### 靚6 | _Tsing(6)_ [[zing6]]
