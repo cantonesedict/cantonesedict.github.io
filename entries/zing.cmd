@@ -468,7 +468,7 @@ W
   ====
   - [[Page~19* (1)癥]]
     ==
-    - Colic arising from obstruction;
+    - Colic arising from obstruction [[Kangxi: 腹結病也]];
     - obstinate constipation;
     - _(1)ching [(2)k(a/)]_
         [[zing1 gaa2 癥瘕]],
