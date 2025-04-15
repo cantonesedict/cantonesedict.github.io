@@ -1090,7 +1090,7 @@ W
   ====
   - [[Page~19* 政(3)]]
     ==
-    - To rule, to govern;
+    - To rule, to govern [[Kangxi: 正也 etc.]];
     - a standard, a regulator;
     - a treatise, a guide on a subject;
     - government, politics;
