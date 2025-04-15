@@ -1362,11 +1362,14 @@ W
   ====
   - [[Page~20* 証(3)]]
     --
-    Interchanged with the above [[$證3]].
+    [[...]]
     --
     ==
-    - To remonstrate with, to admonish, to expostulate.
+    - To remonstrate with, to admonish, to expostulate [[Kangxi: 諫也]].
     ==
+    --
+    [[Otherwise, an alternative form of 證. **See $證zing3 for the canonical entry.**]]
+    --
   ====
 $$
 
@@ -1410,6 +1413,13 @@ W
         [[zing3 geoi3 證據]]
         evidence.
     ==
+  - [[Page~20* 証(3)]]
+    --
+    Interchanged with the above [[證]].
+    --
+    --
+    [[...]]
+    --
   ====
 C
   ==
