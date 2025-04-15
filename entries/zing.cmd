@@ -342,16 +342,16 @@ W
   ====
   - [[Page~18* (1)楨]]
     ==
-    - A kind of fir;
+    - ~~A kind of fir;~~
     - _(5)n(u:) (1)ching_
         [[neoi5 zing1 女楨]],
-        a coniferæ growing on T(a/)ish(a/)n [[太山]] in Sh(a/)ntung [[山東]];
+        a coniferæ growing on T(a/)ish(a/)n [[太山]] in Sh(a/)ntung [[山東]] [[Kangxi: ::太山之上多楨[木]::, 女楨也]];
     - _(5)n(u:) (1)ching (2)tsz'_
         [[neoi5 zing1 zi2 女楨子]]
         the seeds of this tree;
     - _(1)ching kon(3)_
         [[zing1 gon3 楨榦]]
-        planks with which adobie walls are made;
+        planks with which adobie walls are made [[Kangxi: 楨榦築牆所立兩木也]];
       vulgo,
         _k(a/)p(8) (4)ts(')(e/)ung (2)p(a/)n_
         [[gaap3 coeng4 baan2 夾牆板]].
@@ -361,6 +361,11 @@ C
   ==
   - Fan Wan entry: Corrected ⿰龺余 to 榦.
   ==
+P
+  ++
+  1. Hardwood (Kangxi: 剛木也).
+  1. A support, a pillar.
+  ++
 $$
 
 ### 正1 | _(1)Ching_ [[zing1]]
