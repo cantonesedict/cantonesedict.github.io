@@ -862,7 +862,7 @@ W
   ====
   - [[Page~19* (1)鉦]]
     ==
-    - Cymbals set in a frame, used to signalize a halt in armies;
+    - Cymbals set in a frame, used to signalize a halt in armies [[Kangxi: 鐃類也 etc., 鉦以靜之鼓以動之]];
     - a cymbal used by priests, a brass tamborine;
     - _kw(a/)(3) (4)t(')ung (1)ching_
         [[gwaa3 tung4 zing1 掛銅鉦]],
