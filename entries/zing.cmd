@@ -515,6 +515,12 @@ W
         eyes fixed.
     ==
   ====
+C
+  ==
+  - Kangxi 目珠子也, is to me, a poor definition.
+    It is not clear whether 珠子 is the whole eyeball,
+    from the iris inward, or just the pupil.
+  ==
 $$
 
 ### 禎1 | _(1)Ching_ [[zing1]]
