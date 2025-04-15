@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2025-04-11
+* %date-modified --> 2025-04-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -298,7 +298,7 @@ W
   ====
   - [[Page~576 (1)晶]]
     ==
-    - Lustre, brightness;
+    - Lustre, brightness [[Kangxi: 精光也]];
     - clear, pure, light;
     - crystal;
     - crystaline;
