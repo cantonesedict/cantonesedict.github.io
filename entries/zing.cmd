@@ -428,7 +428,7 @@ W
     - [[...]];
     - _(1)ching (4)sh(e/)ung_
         [[zing1 soeng4 烝嘗]],
-        sacrifice in winter;
+        sacrifice ~~in winter~~;
         property left by a person;
     - _(1)ching tsun(3)_
         [[zing1 zun3 烝進]]
@@ -442,6 +442,8 @@ W
 C
   ==
   - Williams' "incest with superiors": Better rendered "adultery with an elder" (e.g. father's concubine).
+  - Williams' 烝嘗: Not just winter sacrifice, but sacrifice in general
+    (烝 for winter, and 嘗 for autumn).
   ==
 P
   ++
