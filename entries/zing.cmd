@@ -961,6 +961,10 @@ R
   ⽁ + 12
 U
   U+6574
+A
+  ==
+  - {𢿫=⿱⿰束攴正}
+  ==
 F
   ==
   - [[F1.72 整]] 修造也齊也葺也理也
@@ -973,7 +977,7 @@ W
     --
   - [[Page~19* (2)整]]
     ==
-    - To even off, to place evenly;
+    - To even off, to place evenly [[Kangxi {𢿫=⿱⿰束攴正}: 齊也]];
     - to repair, to mend, to put in order, to make;
     - to arrange;
     - to adjust;
@@ -1020,6 +1024,11 @@ C
     and corrected _(1)k(')i(u/)_ (kiu1) to _(4)k(')i(u/)_ (kiu4).
   - Williams' 整壞: Corrected _(4)w(a/)i_ (waai4) to _w(a/)i(6)_ (waai6).
   ==
+P
+  ++
+  1. Whole, entire.
+  1. Whole (of a number).
+  ++
 E
   ====
   - 【整】 (zing2):
