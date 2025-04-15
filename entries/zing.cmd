@@ -1726,14 +1726,14 @@ W
   ====
   - [[Page~577 靜(6)]]
     ==
-    - Still, silent, impassible, imperturbable;
-    - at rest, quiet;
-    - peaceable, mild;
-    - pure, like a pool;
+    - Still [[Kangxi: 動之對也]], silent, ~~impassible~~, imperturbable;
+    - at rest [[Kangxi: 息也]], quiet [[Kangxi: 靜安也]];
+    - peaceable, mild [[Kangxi: 和也]];
+    - pure, like a pool [[Kangxi: 澄也]];
     - no bustle;
-    - to judge;
+    - to judge [[Kangxi: 審也]];
     - to ponder, to meditate on;
-    - to desist;
+    - to desist [[Kangxi: 息也]];
     - _(1)sam (2)shui tsing(6)_
         [[sam1 seoi2 zing6 心水靜]]
         contented, patient;
@@ -1767,4 +1767,9 @@ W
     - [[...]].
     ==
   ====
+P
+  ++
+  1. To plan, to plot (Kangxi: 靜謀也).
+  1. Chaste (Kangxi: 靜貞靜也).
+  ++
 $$
