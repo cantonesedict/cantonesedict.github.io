@@ -658,10 +658,6 @@ U
 H
   May appear as either ⿱艹靑 or ⿱艹青 (assumed here),
   depending on the font.
-V
-  ==
-  - cing1 (common)
-  ==
 F
   ==
   - [[F1.67 菁]] 草盛也
@@ -670,14 +666,22 @@ W
   ====
   - [[Page~576 (1)菁]]
     ==
-    - Scallion blossoms;
-    - a kind of three ribbed rush;
-    - flowery, elegant, flourishing;
+    - Scallion blossoms [[Kangxi: 韭華也]];
+    - a kind of three ribbed rush [[Kangxi: 菁茅, 江淮之閒有一茅而三脊 etc.]];
+    - [[...]];
     - _(4)m(o\) (1)tsing_
         [[mou4 zing1 蕪菁]]^
         a sort of greens like mustard.
     ==
   ====
+P
+  ++
+  1. Splendid, magnificent (Kangxi: 菁華英也).
+  ++
+S
+  ==
+  - $菁cing1
+  ==
 $$
 
 ### 蒸1 | _(1)Ching_ [[zing1]]

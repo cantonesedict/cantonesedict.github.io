@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2025-03-16
+* %date-modified --> 2025-04-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -66,6 +66,7 @@ $$
 - $清1
 - $秤1
 - $稱1
+- $菁1
 - $蜻1
 - $蟶1
 - $赬1
@@ -322,6 +323,35 @@ C
 S
   ==
   - $稱cing3
+  ==
+$$
+
+###+ 菁1 | _(1)Ts(')ing_ (cing1)
+
+$$
+R
+  ⾋ + 8
+U
+  U+83C1
+H
+  May appear as either ⿱艹靑 or ⿱艹青 (assumed here),
+  depending on the font.
+F
+  ==
+  - [[F1.67 菁 _(1)Tsing_ (zing1)]] 草盛也
+  ==
+W
+  ====
+  - [[Page~576 (1)菁 _(1)Tsing_ (zing1); here corrected to _(1)Ts(')ing_ (cing1)]]
+    ==
+    - [[...]];
+    - flowery, ~~elegant~~, flourishing [[Kangxi: 菁菁花盛貌]];
+    - [[...]].
+    ==
+  ====
+S
+  ==
+  - $菁zing1
   ==
 $$
 
