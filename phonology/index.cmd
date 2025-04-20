@@ -1218,7 +1218,7 @@ it is important to distinguish between two phenomena:
    or replacing syllabic ng~[ŋ̍] with m~[m̩].
    Correcting "lazy pronunciation" is a largely uncontroversial topic.
 
-2. __"Incorrect reading"__ (錯讀):
+2. __"Incorrect reading"__ (錯讀).
    This is the failure to know or apply the correct reading of a character,
    where "correct reading" is defined by some linguistic authority.
    For example, Richard Ho (何文匯) regards
