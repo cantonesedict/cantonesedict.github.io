@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Cantonese phonology
-* %date-modified --> 2024-11-26
-* %copyright-prior-years -->
+* %date-modified --> 2025-04-20
+* %copyright-prior-years --> 2024--
 * %meta-description --> Cantonese phonology
 
 OrdinaryDictionaryReplacement: #.no-black-serif-note
@@ -1208,24 +1208,18 @@ rather than indiscriminately to certain sequences of tones.
 
 --{.modern}
 Whenever the topic of "correct" Cantonese pronunciation is discussed,
-it is important to distinguish between two competencies:
+it is important to distinguish between two phenomena:
 --
 ++{.modern}
-1. The __ability to accurately sound a given reading__ of a character; and
-2. The __knowledge of the correct reading__ of a character.
-++
---{.modern}
-The corresponding *incompetencies* are two distinct phenomena:
---
-++{.modern}
-1. __"Lazy pronunciation"__ (懶音)
-   is the failure to accurately sound a given reading of a character.
+1. __"Lazy pronunciation"__ (懶音).
+   This is the replacement of certain sounds
+   with more easily pronounceable substitutes.
    Examples include replacing initial n~[n] with l~[l], dropping initial ng~[ŋ],
    or replacing syllabic ng~[ŋ̍] with m~[m̩].
    Correcting "lazy pronunciation" is a largely uncontroversial topic.
 
-2. __"Incorrect reading"__ (錯讀)
-   is the failure to know or apply the correct reading of a character,
+2. __"Incorrect reading"__ (錯讀):
+   This is the failure to know or apply the correct reading of a character,
    where "correct reading" is defined by some linguistic authority.
    For example, Richard Ho (何文匯) regards
    the common reading ming5 for 銘 (attested in Fan Wan) as incorrect,
