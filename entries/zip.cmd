@@ -301,7 +301,7 @@ W
   ====
   - [[Page~578 褶(8)]]
     ==
-    - An oar, a paddle, or whatever is used to propel a boat;
+    - An oar, a paddle, or whatever is used to propel a boat [[Kangxi: 舟櫂也, 行舟具]];
     - to row;
     - to avail of for one's purposes.
     ==
