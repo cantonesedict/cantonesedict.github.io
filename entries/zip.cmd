@@ -228,8 +228,8 @@ W
   ====
   - [[Page~22* 摺(8)]]
     ==
-    - To fold, to double up;
-    - to break, to destroy, to injure;
+    - To fold, to double up [[Kangxi: 摺疊也]];
+    - [[...]], to destroy [[Kangxi: 敗也]], [[...]];
     - to pile up;
     - to bend, as the knee;
     - a fold, a doubling over;
@@ -271,6 +271,10 @@ C
     and fixed missing apostrophe at the end of _(2)tsz'_.
   - Williams' 摺疊: Corrected _t(')(i/)p(8)_ (tip3) to _t(i/)p(9)_ (dip6).
   ==
+P
+  ++
+  1. A folded booklet.
+  ++
 E
   ====
   - 【摺埋】 (zip3 maai4):
@@ -278,6 +282,10 @@ E
     1. To fold, to shut up (of a business).
     ++
   ====
+S
+  ==
+  - $摺laap6 (TODO) <## - to break, ((...)), to injure ##>
+  ==
 $$
 
 ### 楫3 | _Ts(i/)p(8)_ [[zip3]]
