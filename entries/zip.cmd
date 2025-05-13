@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zip
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-05-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -75,17 +75,21 @@ W
   ====
   - [[Page~22* 囁(8)]]
     ==
-    - An unbridled tongue;
-    - vilifying, grumbling, scolding, slandering;
+    - An unbridled tongue [[Kangxi: 口無節也]];
+    - ~~vilifying~~, grumbling [[Kangxi: 私罵也]], ~~scolding, slandering~~;
     - _ch(i/)p(8) [(4)(u:)]_
         [[zip3 jyu4 囁嚅]],
-        chattering, querulous.
+        chattering, querulous [[Kangxi: 囁嚅多言也]].
     ==
   ====
 C
   ==
   - Williams' 囁嚅: Corrected _(1)s(u:)_ (seoi1) to _(4)(u:)_ (jyu4).
   ==
+P
+  ++
+  1. The mouth moving (Kangxi: 口動也).
+  ++
 $$
 
 ### 慴3 | _Ch(i/)p(8)_ [[zip3]]
