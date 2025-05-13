@@ -158,13 +158,13 @@ W
   ====
   - [[Page~579 接(8)]]
     ==
-    - To receive in the hand;
-    - to receive, to connect, to join, to succeed;
-    - combined with, united to;
+    - To receive in the hand [[Kangxi: 持也受也承也]];
+    - to receive, to connect, to join [[Kangxi: 接續也連也]], to succeed;
+    - combined with, united to [[Kangxi: 合也]];
     - to take in, as jobs;
-    - to meet, to associate with;
+    - to meet, to associate with [[Kangxi: 交也, 會也]];
     - to take, as reflected light;
-    - quick;
+    - quick [[Kangxi: 捷也]];
     - _(4)ying ts(i/)p(8)_
         [[jing4 zip3 迎接]]
         to greet, to go and meet, as a visitor;
@@ -207,6 +207,10 @@ C
   ==
   - Williams' 接官亭: Corrected _(4)t(')eng_ (teng4) to _(4)t(')ing_ (ting4).
   ==
+P
+  ++
+  1. To catch.
+  ++
 $$
 
 ### 摺3 | _Ch(i/)p(8)_ [[zip3]]
