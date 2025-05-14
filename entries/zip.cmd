@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zip
-* %date-modified --> 2025-05-13
+* %date-modified --> 2025-05-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -327,34 +327,44 @@ W
     --
   - [[Page~578 浹(8)]]
     --
-     Interchanged with _h(i/)p_ [[hip]] 挾 to assist.
+    ~~Interchanged with _h(i/)p_ [[hip]] 挾 to assist.~~
     --
     ==
-    - Water flowing through;
-    - moistened, imbibed, damp;
+    - Water flowing through [[Kangxi: 徹也]];
+    - moistened, imbibed, damp [[Kangxi: 謂潤澤浹洽相霑徹也]];
     - to instil, to penetrate;
-    - a complete turn of, a circuit;
+    - a complete turn of, a circuit [[Kangxi: 周浹猶周匝也]];
     - _ts(i/)p(8) yat(9)_
         [[zip3 jat6 浹日]]
         a decade;
     - _ts(i/)p(8) (4)shan_
         [[zip3 san4 浹辰]]^
         twelve days or hours, a circuit of the 12~branches;
-    - _ts(i/)p(8) h(a/)p(9)_
-        [[zip3 haap6 浹洽]]
+    - _ts(i/)p(8) [hap(7)]_
+        [[zip3 hap1 浹洽]]
         fully imbued with, to interpenetrate;
         to treat cordially, as friends.
     ==
   ====
 C
-  ==
+  ====
   - Fan Wan entry: The incomprehensible character looks like 液 minus 亻.
   - Williams records _h(a/)p_ (haap) and _h(i/)p_ (hip)
     as alternative readings without specifying the tone.
-    The former is consistent with Kangxi quoting 《集韻》轄夾切音洽浹渫水貌.
-    The latter I cannot justify.
-  - Williams' 浹日: Here, "decade" means ten days (from 甲 to 癸).
-  ==
+    ==
+    - The former is consistent with 《集韻》轄夾切 _h(a/)p(9)_ (haap6)
+      for 浹 used in 浹渫.
+    - The latter is dubious. Note that the similar character {𠗉=⿰冫夾}
+      has three readings:
+      ++
+      1. 胡頰切 _h(i/)p(9)_ (hip6)^, explained {𠗉=⿰冫夾}{𠗨=⿰冫枼}冰凍.
+      2. 子協切 _ts(i/)p(8)_ (zip3)^, explained {𠗉=⿰冫夾}{𠗨=⿰冫枼} with cross reference 又音狎.
+      3. 胡甲切 _h(a/)p(9)_ (haap6)^, explained {𠗉=⿰冫夾}{𠗨=⿰冫枼}冰凍相著.
+      ++
+    ==
+  - Williams' 浹日: Here, "decade" means ten days (甲 through 癸).
+  - Williams' 浹洽: Changed _h(a/)p(9)_ (haap6) to common reading _hap(7)_ (hap1).
+  ====
 S
   ==
   - $浹gaap3 (TODO)
