@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zip
-* %date-modified --> 2025-05-14
+* %date-modified --> 2025-05-29
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -470,6 +470,10 @@ R
   ⾞ + 7
 U
   U+8F12
+V
+  ==
+  - zit3 (common)
+  ==
 F
   ==
   - [[F2.51 輒]] 急然也專也卽也就也
@@ -478,12 +482,22 @@ W
   ====
   - [[Page~22* 輒(8)]]
     ==
-    - The sides of a a carriage, where arms are stuck;
-    - unceremoniously, suddenly, abruptly;
-    - directly, without permission;
+    - The sides of a ~~a~~ carriage [[Kangxi: 車兩輢也]], where arms are stuck;
+    - unceremoniously, suddenly, abruptly [[Kangxi: 忽然也]];
+    - directly, without permission [[Kangxi: 專輒也]];
     - _ch(i/)p(8) (4)(i/)n_
         [[zip3 jin4 輒然]],
         forthwith.
     ==
   ====
+C
+  ==
+  - Williams' 輒然: Also "unmoving".
+  ==
+P
+  ++
+  1. The feet unable to move past (or cross over) one another (Kangxi: 足疾也, ::輒者何兩足不[能]相過也:: etc.).
+  1. Immediately.
+  1. Always, invariably.
+  ++
 $$
