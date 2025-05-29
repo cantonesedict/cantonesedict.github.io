@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zit
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-05-29
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -717,6 +717,7 @@ U
 V
   ==
   - zip3 (per 《廣韻》即葉切)
+  - zit3 (common)
   ==
 F
   ==
@@ -726,7 +727,7 @@ W
   ====
   - [[Page~579 睫(8) _Ts(i/)p(8)_ (zip3); here normalised to _Ts(i/)t(9)_ (zit6)]]
     ==
-    - The eye-lashes;
+    - The eye-lashes [[Kangxi: 目旁毛也]];
     - _met._ the eye;
     - _sh(e/)ung(6) [ts(i/)t(9)]_
         [[soeng6 zit6 上睫]]
