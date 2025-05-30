@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zit
-* %date-modified --> 2025-05-29
+* %date-modified --> 2025-05-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -64,11 +64,7 @@ W
   ====
   - [[Page~22* 折(7)]]
     --
-    [[...]]
-    --
-    --
-    A colloquial word.
-    [[here normalised to 擳; **see $擳zit1 for the canonical entry**]].
+    [[Alternative form of 擳. **See $擳zit1 for the canonical entry.**]]
     --
   ====
 S
@@ -261,25 +257,25 @@ W
   ====
   - [[Page~22* 折(8)]]
     ==
-    - To sunder, to snap in two, to break off;
-    - to fold, to bend;
-    - to oppress, to repress;
-    - to reprehend;
-    - to decide, to discriminate;
+    - To sunder, to snap in two, to break off [[Kangxi: 拗折也]];
+    - to fold, to bend [[Kangxi: 屈也]];
+    - to oppress, to repress [[Kangxi: 挫也]];
+    - to reprehend [[Kangxi: 直指人過失也]];
+    - to decide, to discriminate [[Kangxi: 斷之也]];
     - to deduct;
-    - to stop, to injure;
-    - to lose one's heir;
+    - to stop [[Kangxi: 止也]], to injure;
+    - to lose one's heir [[Kangxi: 父喪子曰折]];
     - an act of a play;
     - to exchange, to lose in trade;
     - to make amends for, to set over against;
     - to abase, to lower;
-    - unmarried;
+    - ~~unmarried;~~
     - _ch(i/)t(8) ts(i/)t(8) h(a/)(6) (1)k(a/)u_
         [[zit3 zit3 haa6 gaau1 折節下交]],
         to condescend to men of low estate;
     - _ch(i/)t(8) yuk(9)_
         [[zit3 juk6 折獄]]
-        to have a jail delivery;
+        ~~to have a jail delivery~~;
     - _(5)m(u/)i p(')at(7) ch(i/)t(8) (4)l(e/)ung (i/)(6) shek(9)_
         [[mui5 pat1 zit3 loeng4 ji6 sek6 每匹折量二石]]
         each piece was reckoned as two stone of corn;
@@ -317,16 +313,25 @@ W
         to lower the price.
     ==
     --
-    A colloquial word [[**see $折zit1**]].
-    --
-    --
     [[...]]
     --
   ====
 C
   ==
+  - Williams' "unmarried": This is a misreading of Kangxi 未婚曰折.
+    This explanation is subcommentary specific to the sense of early death.
+  - Williams' 折獄: In the classical register, this is not "jail delivery",
+    but to make judgement (折) in a litigation (獄).
   - Williams' 幾成折: Corrected _(1)shing_ (sing1) to _(4)shing_ (sing4).
   ==
+P
+  ++
+  1. To turn, to change direction (Kangxi: 曲也).
+  1. To destroy (Kangxi: 毀也).
+  1. To die early, especially before marriage (Kangxi: 短折不祿也, 未婚曰折).
+  1. A setback, a difficulty.
+  1. To admire, to be convinced of.
+  ++
 E
   ====
   - 【折】 (zit3):
