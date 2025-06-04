@@ -386,8 +386,8 @@ W
   ====
   - [[Page~579 櫛(8)]]
     ==
-    - A comb of any kind;
-    - to comb, to clean;
+    - A comb of any kind [[Kangxi: 梳枇之總名也]];
+    - to comb, to clean [[Kangxi: 理髮也]];
     - _(1)kan ts(i/)t(8)_
         [[gan1 zit3 巾櫛]]
         towels and combs.
@@ -397,6 +397,10 @@ C
   ==
   - Strictly, the pre-merger reading should be _ch(i/)t(8)_ per 《廣韻》阻瑟切.
   ==
+P
+  ++
+  1. To remove, to weed out (Kangxi: 剔除也).
+  ++
 $$
 
 ### [浙]3 | _Ch(i/)t(8)_ [[zit3]]
