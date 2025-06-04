@@ -418,7 +418,7 @@ W
   ====
   - [[Page~23* ::[浙](8)::]]
     ==
-    - A river in Chehki(a/)ng [[浙江]],
+    - A river [[Kangxi: 江名]] in Chehki(a/)ng [[浙江]],
       called _Ch(i/)t(8) (2)shui_ [[zit3 seoi2 浙水]],
       from which the province is named.
     ==
