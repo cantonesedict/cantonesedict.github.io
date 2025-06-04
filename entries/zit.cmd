@@ -221,7 +221,8 @@ U
   U+5A55
 V
   ==
-  - zip3 (per 《廣韻》即葉切)
+  - zip3 (per 《廣韻》即葉切 for "woman-officer" sense)
+  - zip6 (per 《集韻》疾葉切 for "beautiful" sense)
   ==
 F
   [[Not present]]
@@ -229,18 +230,11 @@ W
   ====
   - [[Page~728 婕(8)]]
     ==
-    - Handsome, elegant;
+    - Handsome, elegant [[Kangxi: 美貌]];
     - a female officer, called _ts(i/)t(8) (4)(u:)_ [[zit3 jyu4 婕妤]],
-      a sort of palatial housekeeper.
+      a sort of palatial housekeeper [[Kangxi: 婕妤婦官]].
     ==
   ====
-C
-  ==
-  - Williams' "Handsome, elegant":
-    Kangxi quotes 又《集韻》七接切音妾又疾葉切音捷{𠀤=⿱夶一}美貌
-    (i.e. either _ts(')(i/)p(8)_ (cip3) or _ts(i/)p(9)_ (zip6))
-    for the "beautiful" sense.
-  ==
 $$
 
 ### 折3 | _Ch(i/)t(8)_ [[zit3]]
