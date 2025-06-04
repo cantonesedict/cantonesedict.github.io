@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zit
-* %date-modified --> 2025-05-30
+* %date-modified --> 2025-06-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -166,6 +166,7 @@ U
 A
   ==
   - $喆3
+  - 嚞
   ==
 F
   ==
@@ -176,7 +177,7 @@ W
   ====
   - [[Page~22* 哲(8)喆(8)]]
     ==
-    - Wise, perspicacious, sage;
+    - Wise, perspicacious, sage [[Kangxi: 哲智也, 哲知也]];
     - to know intuitively;
     - versed in;
     - to be fully aware of;
