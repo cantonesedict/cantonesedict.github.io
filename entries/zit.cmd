@@ -447,7 +447,7 @@ W
   ====
   - [[Page~580 癤(8)]]
     ==
-    - A small boil, a pimple, a sore.
+    - A small boil, a pimple, a sore [[Kangxi: 癰也, 瘍類與癰疽別瘍之小者爲癤]].
     ==
   ====
 $$
