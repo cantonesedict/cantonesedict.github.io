@@ -902,7 +902,6 @@ $$
 - $噍6
 - $旐6
 - $趙6
-- $齸6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -972,10 +971,6 @@ R
   ⼝ + 12
 U
   U+564D
-A
-  ==
-  - [齸 _Chi(u/)(6)_ (ziu6)](#6齸)
-  ==
 V
   ==
   - zeu6 (vernacular)
@@ -984,9 +979,9 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~24* 齸(6) _Chi(u/)(6)_; here normalised to 噍 _Tsi(u/)(6)_]]
+  - [[Page~24* 齸(6) _Chi(u/)(6)_; here corrected to 噍 _Tsi(u/)(6)_]]
     --
-    A colloquial word.
+    ~~A colloquial word.~~
     --
     ==
     - To chew the cud, to ruminate;
@@ -1085,33 +1080,4 @@ W
   ====
 $$
 
-### 齸6 | _Chi(u/)(6)_ [[ziu6]]
-
-$$.
-R
-  ⿒ + 10
-U
-  U+9F78
-F
-  [[Not present]]
-W
-  ====
-  - [[Page~24* 齸(6)]]
-    --
-    A colloquial word
-    [[here normalised to 噍; **see $噍ziu6 for the canonical entry**]].
-    --
-    --
-    Read _yik[(7)]_ [[zik1]] [[**see $齸jik1**]].
-    --
-  ====
-C
-  ==
-  - Williams' "Read [...]": Corrected _yik(9)_ (jik6) to _yik(7)_ (jik1).
-  ==
-S
-  ==
-  - $齸jat6 (TODO)
-  - $齸jik1 (TODO)
-  ==
-$$
+<## $齸jik1 (TODO) ##>
