@@ -564,7 +564,7 @@ W
   ====
   - [[Page~23* 蜇(8)]]
     ==
-    - A sting;
+    - A sting [[Kangxi: 蟲螫也]];
     - any part of insects which inflicts a poisonous wound;
     - _ch(i/)t(8) (4)p(')(i/)_
         [[zit3 pei4 蜇皮]],
@@ -576,6 +576,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected 毋 to 母.
+  - Williams' 水母: "Blubber" in the sense of jellyfish (海蜇).
   ==
 $$
 
