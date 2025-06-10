@@ -680,13 +680,13 @@ W
   ====
   - [[Page~580 捷(9)]]
     ==
-    - To obtain a victory;
-    - successful, victorious;
-    - a victory;
-    - to complete;
-    - to announce, as a victory or promotion;
-    - hastily, prompt, quick, as a herald;
-    - joyful news;
+    - ~~To obtain a victory;~~
+    - successful, victorious [[Kangxi: 尅也]];
+    - a victory [[Kangxi: 勝也]];
+    - to complete [[Kangxi: 成也]];
+    - to announce, as a victory or promotion [[Kangxi: 報勝曰捷]];
+    - hastily, prompt, quick [[Kangxi: 佽也疾也急也]], as a herald;
+    - ~~joyful news;~~
     - _kap(7) ts(i/)t(9)_
         [[gap1 zit6 急捷]]
         nimble, fleet;
@@ -712,6 +712,10 @@ C
   - Fan Wan entry: Normalised headword (with right component like 偼) to 捷.
   - Williams' "also read [...]": Corrected _ts(i/)p(8)_ (zip3) to _ts(i/)p(9)_ (zip6).
   ==
+P
+  ++
+  1. That obtained through warfare (Kangxi: 獵也軍獲得也).
+  ++
 $$
 
 ###+ 睫6 | _Ts(i/)t(9)_ (zit6)
