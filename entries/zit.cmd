@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zit
-* %date-modified --> 2025-06-04
+* %date-modified --> 2025-06-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -471,14 +471,14 @@ W
   ====
   - [[Page~579 節(8)]]
     ==
-    - The joint of bamboos;
+    - The joint of bamboos [[Kangxi: 竹節也]];
     - a joint, a knot, a node;
     - an article, a verse, a section of a chapter;
     - a limit, a term;
     - a holiday, a festival;
-    - a time, a regular interval;
+    - a time, a regular interval [[Kangxi: 時節]];
     - an emergency, the period or manner of doing a thing;
-    - economy, temperance, moderation;
+    - economy, temperance, moderation [[Kangxi: 止也檢也制也 etc.]];
     - chastity, virtue, in widows;
     - to limit a thing, to maintain, to restrain one's passions;
     - to mark, as music;
@@ -494,7 +494,7 @@ W
         no limits to his outlay, careless;
     - _(4)f(u/) ts(i/)t(8)_
         [[fu4 zit3 符節]]
-        tally, passport, credentials;
+        tally, passport, credentials [[Kangxi: 符節所以示信]];
     - _ts(i/)t(8) (i/)(6)_
         [[zit3 ji6 節義]]
         chaste, in not remarrying;
