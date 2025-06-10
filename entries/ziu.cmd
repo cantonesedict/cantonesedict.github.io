@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-06-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -78,11 +78,15 @@ W
   ====
   - [[Page~580 (1)噍]]
     ==
-    - A husky, suppressed voice;
-    - the chattering of birds;
-    - harsh, dissonant cry.
+    - ~~A husky, suppressed voice;~~
+    - the chattering of birds [[Kangxi: 啁噍聲也, 鳥聲]];
+    - harsh, dissonant cry [[Kangxi: 噍{𠴫=⿰口叔}也]].
     ==
   ====
+P
+  ++
+  1. Urgent (Kangxi: 噍子遙反謂急也).
+  ++
 S
   ==
   - $噍ziu6
@@ -994,7 +998,7 @@ W
     --
   - [[Page~581 噍(6)]]
     ==
-    - To bite, to chew, to gnaw;
+    - To bite, to chew, to gnaw [[Kangxi: 齧也, 嚼也]];
     - _(4)ngau tsi(u/)(6) (5)[m(a/)u] (1)t(a/)n_
         [[ngau4 ziu6 maau5 daan1 牛噍牡丹]],
         the ox eats the peony, (not knowing it from grass);
