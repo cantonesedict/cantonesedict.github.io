@@ -313,6 +313,7 @@ class Updater:
         whitelisted_characters = ''.join([
             '𠂉',
             '𠆢',
+            '𠔿',
             '𠫓',
             '𡈼',
             '𤣩',

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2025-06-10
+* %date-modified --> 2025-06-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -108,9 +108,9 @@ W
   ====
   - [[Page~24* (1)招]]
     ==
-    - To beckon, to motion to with the hand, to hail;
-    - to let people know;
-    - to invite, to induce;
+    - To beckon, to motion to with the hand, to hail [[Kangxi: 手呼也 etc.]];
+    - ~~to let people know;~~
+    - to invite, to induce [[Kangxi: 來之也]];
     - to raise, as troops;
     - to confess;
     - self-crimination;
@@ -153,6 +153,14 @@ W
         the god of wealth, worshiped at shop doors.
     ==
   ====
+P
+  ++
+  1. To seek (Kangxi: 求也).
+  1. To recruit.
+  1. To tie, to restrain (Kangxi: {𦊰=⿱𠔿䏍}也, 招羈其足也).
+  1. An archery target.
+  1. (_martial arts_) A move, a strike, a technique (or instance thereof).
+  ++
 E
   ====
   - 【招績】 (ziu1 zik1):
