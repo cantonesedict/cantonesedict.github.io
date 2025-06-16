@@ -405,22 +405,18 @@ W
   ====
   - [[Page~581 燋(3) _Tsi(u/)(3)_ (ziu3); here corrected to _(1)Tsi(u/)_ (ziu1)]]
     ==
-    - Properly used for the last [[$醮3]],
-      in the sense of burning the moxa;
-    - to char wood, to sear, to scorch;
-    - _kau(3) (1)s(a/)m [(1)]tsi(u/)_
-        [[gau3 saam1 ziu1 灸三燋]]^
-        to apply the moxa thrice;
+    - [[...]];
+    - to char ~~wood~~, to sear, to scorch [[Kangxi: 傷火]];
+    - [[...]];
     - _[(1)]tsi(u/) muk(9)_
-        [[ziu1 muk6 灸木]]
+        [[ziu1 muk6 燋木]]
         to char wood to bend it.
     ==
   ====
-C
-  ==
-  - Williams' "used for the last": I have not seen 燋 used for 醮,
-    nor 醮 used in the sense of moxibustion.
-  ==
+P
+  ++
+  1. That used to ignite torches (Kangxi: 所以然持火也).
+  ++
 S
   ==
   - $燋ziu3
@@ -811,7 +807,7 @@ $$
 
 ### 燋3 | _Tsi(u/)(3)_ [[ziu3]]
 
-$$.
+$$
 R
   ⽕ + 12
 U
@@ -821,16 +817,20 @@ F
 W
   ====
   - [[Page~581 燋(3)]]
-    --
-    [[Idiosyncratic reading from Williams. **See $燋ziu1 for the canonical entry.**]]
-    --
+    ==
+    - ~~Properly used for the last [[醮]],
+      in the sense of burning the moxa;~~
+    - [[...]];
+    - _kau(3) (1)s(a/)m tsi(u/)(3)_
+        [[gau3 saam1 ziu3 灸三燋]]^
+        to apply the moxa thrice;
+    - [[...]].
+    ==
   ====
-C
-  ==
-  - Strictly, the reading _tsi(u/)(3)_ (ziu3) in departing tone
-    is for the "plastromancy-torch" sense
-    (per Kangxi 《集韻》子肖切音醮灼龜炬也《儀禮燕禮註》灼燋也《釋文》燋哉妙反).
-  ==
+P
+  ++
+  1. A torch used in plastromancy (Kangxi: 灼龜炬也).
+  ++
 S
   ==
   - $燋ziu1
