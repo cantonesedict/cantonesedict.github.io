@@ -480,12 +480,14 @@ W
   - [[Page~580 (1)膲]]
     ==
     - The parts of the body between the heart and groin,
-      three imaginary organs which regulate the secretions.
+      three imaginary organs which regulate the secretions
+      [[Kangxi: 人之三膲, 三膲無形之府通作焦 etc.]].
     ==
   ====
 C
   ==
   - Fan Wan entry: Normalised malformed 臟 to 臟.
+  - Williams' "three imaginary organs": The "triple burner" (三膲) of Chinese medicine.
   ==
 $$
 
