@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2025-06-11
+* %date-modified --> 2025-06-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -310,7 +310,7 @@ W
   ====
   - [[Page~580 (1)椒]]
     ==
-    - Pepper;
+    - Pepper [[Kangxi: 莍也 etc.]];
     - peppery, hot;
     - _(4)(u/) (1)tsi(u/)_
         [[wu4 ziu1 胡椒]],
@@ -320,7 +320,7 @@ W
         cayenne or red pepper;
     - _(1)tsi(u/) (4)fong_
         [[ziu1 fong4 椒房]],
-        the "pepper room," is a term for a queen;
+        the "pepper room," is a term for a queen [[Kangxi: 皇后以椒塗壁稱椒房取其溫也]];
     - _(1)tsi(u/) m(u/)t(9)_
         [[ziu1 mut6 椒末]]
         ground pepper;
@@ -329,6 +329,10 @@ W
         Sz'chuen [[四川]] pepper.
     ==
   ====
+P
+  ++
+  1. A mountaintop (Kangxi: 山頂亦曰椒).
+  ++
 $$
 
 ### 焦1 | _(1)Tsi(u/)_ [[ziu1]]
