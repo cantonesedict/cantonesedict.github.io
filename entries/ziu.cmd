@@ -354,10 +354,10 @@ W
   ====
   - [[Page~580 (1)焦]]
     ==
-    - Scorched, burned;
-    - blackened, charred;
-    - smell of burning;
-    - vexed, harassed, anxious;
+    - Scorched, burned [[Kangxi: 火所傷也]];
+    - blackened, charred [[Kangxi: 火燒黑也]];
+    - smell of burning [[Kangxi: 火之臭味也]];
+    - vexed, harassed, anxious [[Kangxi: 凡苦焦者皆屬焉]];
     - _(1)tsi(u/) (1)p(a/) (1)kon_
         [[ziu1 baa1 gon1 焦疤乾]],
         dry, at the last extremity, starving;
@@ -372,7 +372,7 @@ W
         in great distress.
     ==
     --
-    Used for the next [[$膲1]].
+    [[Otherwise, an alternative form of 膲. **See $膲ziu1 for the canonical entry.**]]
     --
   ====
 E
@@ -474,6 +474,13 @@ F
   ==
 W
   ====
+  - [[Page~580 (1)焦]]
+    --
+    [[...]]
+    --
+    --
+    Used for the next [[膲]] [[Kangxi 焦: ::三焦者[...]別作膲::]].
+    --
   - [[Page~580 (1)膲]]
     ==
     - The parts of the body between the heart and groin,
