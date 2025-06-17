@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2025-06-16
+* %date-modified --> 2025-06-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -506,7 +506,7 @@ W
   ====
   - [[Page~580 (1)蕉]]
     ==
-    - The banana or plantain;
+    - The banana or plantain [[Kangxi: 芭蕉]];
     - _(1)h(e/)ung (4)ng(a/) (1)tsi(u/)_
         [[hoeng1 ngaa4 ziu1 香芽蕉]],
         green plantains;
@@ -521,6 +521,10 @@ W
         thin skinned plantains.
     ==
   ====
+P
+  ++
+  1. Raw hemp, which has not yet been treated by soaking.
+  ++
 $$
 
 ### 鐎1 | _(1)Tsi(u/)_ [[ziu1]]
