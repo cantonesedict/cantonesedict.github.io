@@ -572,7 +572,7 @@ W
   ====
   - [[Page~581 (1)鷦]]
     ==
-    - A wren;
+    - A wren [[Kangxi: 鷦{𪃦=⿰眇鳥}桃蟲也一名鷦鷯]];
     - _(1)tsi(u/) (4)li(u/)_
         [[ziu1 liu4 鷦鷯]],
         a wren, tarin, tody, or some such small bird,
