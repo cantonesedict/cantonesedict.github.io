@@ -546,8 +546,8 @@ W
   ====
   - [[Page~581 (1)鐎]]
     ==
-    - A soldier's brass kettle or skillet,
-      about the size of a peck [[斗]] measure;
+    - A ~~soldier's~~ brass kettle or skillet,
+      about the size of a peck [[斗]] measure [[Kangxi: 鐎斗也, 溫器三足而有柄, etc.]];
     - a brass pan.
     ==
   ====
