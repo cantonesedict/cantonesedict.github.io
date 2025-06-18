@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caau
-* %date-modified --> 2025-03-14
+* %date-modified --> 2025-06-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -343,6 +343,7 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $勦4
 - $巢4
 - $漅4
 - $窠4
@@ -350,6 +351,27 @@ $$
 ==
 </nav>
 <## /tone-4-characters ##>
+
+###+ 勦4 | _(4)Ch(')(a/)u_ (caau4)
+
+$$
+R
+  ⼒ + 11
+U
+  U+52E6
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Nimble (Kangxi: 輕捷也).
+  ++
+S
+  ==
+  - $勦ziu2
+  ==
+$$
 
 ### 巢4 | _(4)Ch(')(a/)u_ [[caau4]]
 

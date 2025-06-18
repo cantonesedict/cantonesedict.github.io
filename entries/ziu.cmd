@@ -662,6 +662,10 @@ P
   1. To toil (Kangxi: 勞也).
   1. Alternative form of 剿. **See $剿ziu2 for the canonical entry.**
   ++
+S
+  ==
+  - $勦caau4
+  ==
 $$
 
 ### 沼2 | _(2)Chi(u/)_ [[ziu2]]
