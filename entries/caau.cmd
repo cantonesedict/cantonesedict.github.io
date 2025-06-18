@@ -45,6 +45,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $剿1
+- $勦1
 - $抄1
 - $鈔1
 ==
@@ -74,6 +75,28 @@ P
 S
   ==
   - $剿ziu2
+  ==
+$$
+
+###+ 勦1 | _(1)Ch(')(a/)u_ (caau1)
+
+$$.
+R
+  ⼒ + 11
+U
+  U+52E6
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 剿. **See $剿caau1 for the canonical entry.**
+  ++
+S
+  ==
+  - $勦caau4
+  - $勦ziu2
   ==
 $$
 
@@ -399,6 +422,7 @@ P
   ++
 S
   ==
+  - $勦caau1
   - $勦ziu2
   ==
 $$

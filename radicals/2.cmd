@@ -608,7 +608,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - {$勦caau4, $勦ziu2}
+      - {$勦caau1, $勦caau4, $勦ziu2}
       - $勣zik1
       ==
       </nav>
