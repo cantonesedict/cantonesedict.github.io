@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2025-06-17
+* %date-modified --> 2025-06-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -600,40 +600,15 @@ $$
 
 ### 剿2 | _[(2)]Tsi(u/)_ [[ziu2]]^
 
-$$.
+$$
 R
   ⼑ + 11
 U
   U+527F
-F
-  ==
-  - [[F2.6 勦]] 征勦截殺也又勦集
-  - [[F2.6 剿]] ::同[上]::
-  ==
-W
-  ====
-  - [[Page~581 ::[(2)]剿[(2)勦]::]]
-    --
-    [[Alternative form of 勦. **See $勦ziu2 for the canonical entry.**]]
-    --
-  ====
-C
-  ==
-  - Fan Wan entry: Corrected 王 to 上.
-  - Williams misprints (2)剿(2)勦 as (1)剿(1){𠞰=⿰巢刀}; here corrected.
-  ==
-$$
-
-### [勦]2 | _[(2)]Tsi(u/)_ [[ziu2]]^
-
-$$
-R
-  ⼒ + 11
-U
-  U+52E6
 A
   ==
-  - $剿2
+  - {𠞰=⿰巢刀}
+  - $勦2
   ==
 F
   ==
@@ -642,22 +617,51 @@ F
   ==
 W
   ====
-  - [[Page~581 ::[(2)]剿[(2)勦]::]]
+  - [[Page~581 ::[(2)]剿[(2)]{𠞰=⿰巢刀}::]]
     ==
     - To destroy utterly, to exterminate, to devastate;
     - _(2)tsi(u/) m(i/)t(9)_
-        [[ziu2 mit6 勦滅]]
+        [[ziu2 mit6 剿滅]]
         to extirpate, to rase, as is done to rebels or their towns;
     - _(2)tsi(u/) ts(u:)t(9) (2)tong (5)(u:)_
-        [[ziu2 zyut6 dong2 jyu5 勦絕黨與]],
+        [[ziu2 zyut6 dong2 jyu5 剿絕黨與]],
         to extirpate all the adherents of a cabal.
     ==
   ====
 C
   ==
   - Fan Wan entry: Corrected 王 to 上.
-  - Williams misprints (2)剿(2)勦 as (1)剿(1){𠞰=⿰巢刀}; here corrected.
+  - Williams misprints (2)剿(2){𠞰=⿰巢刀} as (1)剿(1){𠞰=⿰巢刀}; here corrected.
   ==
+P
+  ++
+  1. To cut off (Kangxi {𠞰=⿰巢刀}: 絕也).
+  ++
+$$
+
+###+ 勦2 | _(2)Tsi(u/)_ (ziu2)
+
+$$
+R
+  ⼒ + 11
+U
+  U+52E6
+F
+  ==
+  - [[F2.6 勦]] 征勦截殺也又勦集
+  - [[F2.6 剿]] ::同[上]::
+  ==
+W
+  [[Not present]]
+C
+  ==
+  - Fan Wan entry: Corrected 王 to 上.
+  ==
+P
+  ++
+  1. To toil (Kangxi: 勞也).
+  1. Alternative form of 剿. **See $剿ziu2 for the canonical entry.**
+  ++
 $$
 
 ### 沼2 | _(2)Chi(u/)_ [[ziu2]]
