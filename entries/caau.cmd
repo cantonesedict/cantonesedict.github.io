@@ -44,11 +44,38 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $剿1
 - $抄1
 - $鈔1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+###+ 剿1 | _(1)Ch(')(a/)u_ (caau1)
+
+$$
+R
+  ⼑ + 11
+U
+  U+527F
+A
+  ==
+  - {𠞰=⿰巢刀}
+  - $勦1
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. To plagiarise, to copy. (Alternative form of 抄. See $抄caau1.)
+  ++
+S
+  ==
+  - $剿ziu2
+  ==
+$$
 
 ### 抄1 | _(1)Ch(')(a/)u_ [[caau1]]
 
@@ -59,6 +86,9 @@ U
   U+6284
 A
   ==
+  - $剿1
+  - {𠞰=⿰巢刀}
+  - $勦1
   - $鈔1
   ==
 F

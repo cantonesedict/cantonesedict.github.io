@@ -535,8 +535,8 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $剷caan2
+      - {$剿caau1, $剿ziu2}
       - $剗zin2
-      - $剿ziu2
       ==
       </nav>
   //
