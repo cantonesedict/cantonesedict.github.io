@@ -1555,7 +1555,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - {$炤ciu1, $炤ziu3}
+      - {$炤ciu1, $炤ziu1, $炤ziu3}
       - $炸zaa3
       - $炷zyu3
       ==

@@ -52,6 +52,7 @@ $$
 - $昭1
 - $朝1
 - $椒1
+- $炤1
 - $焦1
 - $燋1
 - $礁1
@@ -333,6 +334,28 @@ P
   ++
   1. A mountaintop (Kangxi: 山頂亦曰椒).
   ++
+$$
+
+###+ 炤1 | _(1)Chi(u/)_ (ziu1)
+
+$$.
+R
+  ⽕ + 5
+U
+  U+70A4
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 昭, and reading variation. **See $昭ciu1 for the canonical entry.**
+  ++
+S
+  ==
+  - $炤ciu1
+  - $炤ziu3
+  ==
 $$
 
 ### 焦1 | _(1)Tsi(u/)_ [[ziu1]]
@@ -759,6 +782,7 @@ W
 S
   ==
   - $炤ciu1
+  - $炤ziu1
   ==
 $$
 
