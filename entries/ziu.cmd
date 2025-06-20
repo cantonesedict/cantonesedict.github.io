@@ -807,7 +807,7 @@ W
   - [[Page~24* 照(3)炤(3)]]
     ==
     - Light;
-    - to illuminate, to brighten, to shine on;
+    - to illuminate, to brighten, to shine on [[Kangxi: 明所燭也]];
     - to patronize, to regard, to care for, to oversee, to assist;
     - conformably to, as, according to, like, same as;
     - _chi(u/)(3) keng(3)_
@@ -850,6 +850,12 @@ W
         I can see through your design.
     ==
   ====
+P
+  ++
+  1. To reflect.
+  1. To inform.
+  1. (_adverb_) Still (used to describe an action being done despite reasons against it).
+  ++
 $$
 
 ### 燋3 | _Tsi(u/)(3)_ [[ziu3]]
