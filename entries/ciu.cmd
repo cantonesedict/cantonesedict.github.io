@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ciu
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-06-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -48,6 +48,7 @@ $$
 =={.modern}
 - $弨1
 - $昭1
+- $炤1
 - $超1
 - $釗1
 - $鍫1
@@ -85,6 +86,10 @@ R
   ⽇ + 5
 U
   U+662D
+A
+  ==
+  - $炤1
+  ==
 V
   ==
   - ziu1 (per 《廣韻》止遥切)
@@ -118,6 +123,27 @@ W
 S
   ==
   - $昭ziu1
+  ==
+$$
+
+###+ 炤1 | _(1)Ch(')i(u/)_ (ciu1)
+
+$$.
+R
+  ⽕ + 5
+U
+  U+70A4
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 昭. **See $昭ciu1 for the canonical entry.**
+  ++
+S
+  ==
+  - $炤ziu3
   ==
 $$
 

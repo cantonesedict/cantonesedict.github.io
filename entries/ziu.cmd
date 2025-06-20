@@ -756,6 +756,10 @@ W
     [[Alternative form of 照. **See $照ziu3 for the canonical entry.**]]
     --
   ====
+S
+  ==
+  - $炤ciu1
+  ==
 $$
 
 ### 照3 | _Chi(u/)(3)_ [[ziu3]]
