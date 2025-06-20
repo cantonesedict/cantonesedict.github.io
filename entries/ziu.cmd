@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2025-06-18
+* %date-modified --> 2025-06-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -688,7 +688,7 @@ W
   ====
   - [[Page~24* (2)沼]]
     ==
-    - A pool or tank, used for a fishpond;
+    - A pool or tank [[Kangxi: 池也一說圓曰池曲曰沼]], used for a fishpond;
     - _(4)l(i/)n (2)chi(u/)_
         [[lin4 ziu2 蓮沼]],
         a water-lily pond;
