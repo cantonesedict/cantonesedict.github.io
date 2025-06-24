@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2025-06-20
+* %date-modified --> 2025-06-24
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -905,10 +905,10 @@ W
   ====
   - [[Page~24* 詔(3)]]
     ==
-    - To promulge, to announce, to proclaim;
-    - to teach, to exhort, to instruct the empire;
+    - To promulge, to announce, to proclaim [[Kangxi: 吿也]];
+    - to teach, to exhort, to instruct ~~the empire~~ [[Kangxi: 導也 etc.]];
     - a proclamation;
-    - to encourage;
+    - ~~to encourage;~~
     - _(1)yan chi(u/)(3)_
         [[jan1 ziu3 恩詔]]
         a gracious command, as a pardon;
@@ -923,6 +923,16 @@ W
         to be called into the presence.
     ==
   ====
+C
+  ==
+  - Williams' "to encourage": This is a misreading of Kangxi 謂贊勉.
+    Here, 贊勉 is to guide, not to encourage.
+  ==
+P
+  ++
+  1. An order from above, especially from the emperor (上命也秦漢以下天子獨稱之).
+  1. Written proclamation (Kangxi: 播吿之書也).
+  ++
 $$
 
 ### 醮3 | _Tsi(u/)(3)_ [[ziu3]]
