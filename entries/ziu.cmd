@@ -950,12 +950,12 @@ W
   ====
   - [[Page~581 醮(3)]]
     ==
-    - To sacrifice to ancestors and spirits;
-    - a sacrifice, a requiem;
-    - to give a cup of wine to a son at his wedding;
-    - finished, used up;
-    - to complete;
-    - to burn moxa;
+    - To sacrifice to ancestors and spirits [[Kangxi: 醮祭也]];
+    - a sacrifice, a requiem [[Kangxi: 凡僧道設壇祈禱曰醮]];
+    - to give a cup of wine to a son at his wedding [[Kangxi: 父親醮子 etc.]];
+    - finished, used up [[Kangxi: 盡也]];
+    - ~~to complete;~~
+    - ~~to burn moxa;~~
     - _(2)t(a/) tsi(u/)(3)_ [[daa2 ziu3 打醮]]
         or
       _k(i/)n(3) tsi(u/)(3)_ [[gin3 ziu3 建醮]]
@@ -971,6 +971,19 @@ W
         the autumnal festival to the God of Fire.
     ==
   ====
+C
+  ==
+  - Williams' "wine to a son at his wedding": Also at the capping ceremony
+    where a twenty-year-old son is given his style-name. See below.
+  - Williams' "to complete": Better rendered "to exhaust".
+  ==
+P
+  ++
+  1. The giving of a cup of wine from father to son
+     at a capping or wedding cermony (Kangxi: 冠娶禮祭),
+     where the son does not return a cup to the father (Kangxi: 酌而無酬酢曰醮).
+  1. To marry (of a woman), especially to remarry.
+  ++
 $$
 
 
