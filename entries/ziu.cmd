@@ -1164,15 +1164,33 @@ W
   ====
   - [[Page~24* 趙(6)]]
     ==
-    - To hasten to;
-    - to announce to a suzerain;
+    - To hasten to [[Kangxi: 趨趙也]];
+    - to announce to a suzerain [[Kangxi: 趙朝也本小邑朝事于大國也]];
     - a long time;
-    - sharp, acute;
+    - ~~sharp, acute;~~
     - a few;
-    - a feudal state in the south of Sh(a/)ns(i/) [[山西]] and Chihl(i/) [[直隸]],
+    - a feudal state [[Kangxi: 國名]] in the south of Sh(a/)ns(i/) [[山西]] and Chihl(i/) [[直隸]],
       its capital was the present Ch(a/)uching [[趙城]] in Sh(a/)ns(i/) [[山西]].
     ==
   ====
+C
+  ==
+  - Williams' "a long time", "a few": Per 久也 and 少也 from 《廣韻》.
+    I am not aware of any texts that use these senses.
+  - Williams' "sharp": This is perhaps a rendering of Fan Wan 利也,
+    which is likely erroneous.
+  - Williams' "acute": This is a misreading of 刺也,
+    which belongs under the reading _(5)t(')i(u/)_ (tiu5)
+    per 《集韻》徒了切.
+  ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
+S
+  ==
+  - $趙tiu5 (TODO)
+  ==
 $$
 
 <## $齸jik1 (TODO) ##>
