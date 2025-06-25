@@ -296,12 +296,12 @@ W
   ====
   - [[Page~25* (2)阻]]
     ==
-    - To hinder, to impede, to stop, to make delay;
-    - grieved;
-    - dangerous;
+    - To hinder, to impede [[Kangxi: 隔也]], to stop, to make delay;
+    - grieved [[Kangxi: 憂也]];
+    - ~~dangerous;~~
     - an impediment;
     - a defile;
-    - to suspect, to doubt;
+    - to suspect, to doubt [[Kangxi: 疑也]];
     - _(2)h(i/)m (2)cho_
         [[him2 zo2 險阻]],
         an obstruction in the way;
@@ -328,8 +328,7 @@ W
         to retard or interrupt business.
     ==
     --
-    A colloquial word
-    [[here normalised to 咗; **see $咗zo2 for the canonical entry**]].
+    [[Otherwise, an alternative form of 咗. **See $咗zo2 for the canonical entry.**]]
     --
   - [[Page~26* (2)岨]]
     --
@@ -343,6 +342,12 @@ W
         a dangerous pass.
     ==
   ====
+P
+  ++
+  1. A difficulty (Kangxi: 阻艱難也).
+  1. To rely upon (Kangxi: 阻恃也).
+  1. To reject.
+  ++
 $$
 
 
