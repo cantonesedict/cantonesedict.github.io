@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zo
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-06-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -75,16 +75,17 @@ W
   ====
   - [[Page~25* (2)爼; here normalised to 俎]]
     ==
-    - A basin or bowl like a tripod, used in sacrifice;
+    - A basin or bowl like a tripod, used in sacrifice [[Kangxi: 祭享之器]];
     - _(2)cho tau(6)_
         [[zo2 dau6 俎豆]]
         a basin used in worship.
     ==
   ====
-C
-  ==
-  - Also a table or chopping board.
-  ==
+P
+  ++
+  1. A small table (Kangxi: 俎几也).
+  1. A chopping board (Kangxi: 刀俎, 俎椹版也).
+  ++
 $$
 
 ###+ 咗2 | _(2)Cho_ (zo2)
