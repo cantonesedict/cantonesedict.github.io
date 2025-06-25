@@ -205,15 +205,15 @@ W
   ====
   - [[Page~582 (2)左]]
     ==
-    - The left, the left hand;
+    - The left [[Kangxi: 左右之對]], the left hand;
     - second;
     - an assistant;
-    - deflected;
-    - depraved, bad;
-    - to degrade, to reduce in rank;
+    - deflected [[Kangxi: 僻左不正也]];
+    - depraved, bad [[Kangxi: 手足便右以左爲僻故凡幽猥皆曰僻左]];
+    - to degrade, to reduce in rank [[Kangxi: 漢時依古法朝廷之列以右爲尊故謂降秩爲左遷]];
     - _(2)tso (i/)m(6)_
         [[zo2 jim6 左驗]]
-        to verify, to prove, as a coadjutor can;
+        to verify, to prove, as a coadjutor can [[Kangxi: 左證左也]];
     - _(2)tso p(i/)n(6)_
         [[zo2 bin6 左便]]
         on the left;
@@ -249,6 +249,10 @@ C
   - Williams' 轉彎左便: Corrected _(2)ch(u:)n_ (zyun2) to _ch(u:)n(3)_ (zyun3).
     Now simply 轉左.
   - Williams' 列於左: Perhaps this should be 列如左.
+  ==
+S
+  ==
+  - $左zo3
   ==
 $$
 
@@ -348,6 +352,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $佐3
+- $左3
 - $詛3
 ==
 </nav>
@@ -360,6 +365,10 @@ R
   ⼈ + 5
 U
   U+4F50
+A
+  ==
+  - $左3
+  ==
 V
   ==
   - zo2 (common in 佐敦)
@@ -385,6 +394,27 @@ W
         low officers assisting in a y(a/)mun [[衙門]].
     ==
   ====
+$$
+
+###+ 左3 | _Tso(3)_ (zo3)
+
+$$.
+R
+  ⼯ + 2
+U
+  U+5DE6
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 佐. **See $佐zo3 for the canonical entry.**
+  ++
+S
+  ==
+  - $左zo2
+  ==
 $$
 
 ### 詛3 | _Cho(3)_ [[zo3]]
