@@ -172,7 +172,7 @@ $$
 
 ### 岨2 | _(2)Cho_ [[zo2]]
 
-$$
+$$.
 R
   ⼭ + 5
 U
@@ -185,15 +185,8 @@ W
   ====
   - [[Page~26* (2)岨]]
     --
-    Used instead of the last [[$阻2]].
+    [[Alternative form of 岨 (for the "mountain-pass" sense). **See $阻zo2 for the canonical entry.**]]
     --
-    ==
-    - Cliffs;
-    - a defile;
-    - _(2)h(i/)m (2)cho_
-        [[him2 zo2 險岨]],
-        a dangerous pass.
-    ==
   ====
 $$
 
@@ -293,6 +286,7 @@ A
 F
   ==
   - [[F2.60 阻]] 阻滯阻隔險阻
+  - [[F2.60 岨]] 險岨
   ==
 W
   ====
@@ -333,6 +327,17 @@ W
     A colloquial word
     [[here normalised to 咗; **see $咗zo2 for the canonical entry**]].
     --
+  - [[Page~26* (2)岨]]
+    --
+    Used instead of the last [[阻]].
+    --
+    ==
+    - Cliffs;
+    - a defile;
+    - _(2)h(i/)m (2)cho_
+        [[him2 zo2 險岨]],
+        a dangerous pass.
+    ==
   ====
 $$
 
