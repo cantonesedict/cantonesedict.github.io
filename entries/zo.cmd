@@ -695,6 +695,10 @@ A
   ==
   - $坐6
   ==
+V
+  ==
+  - zo6-2 (vernacular rising-tone noun for "base" sense)
+  ==
 F
   ==
   - [[F.62 座]] 位也
@@ -709,7 +713,7 @@ W
     ==
   - [[Page~583 座(6)]]
     ==
-    - A seat, a throne;
+    - A seat [[Kangxi: 牀座也, 坐具]], a throne;
     - a shrine;
     - a classifier of houses, towers, hills, cities, pagodas,
       movable pavilions, &c.;
@@ -734,4 +738,9 @@ C
   ==
   - Williams' 起得三座屋: Corrected _h(i/)(3)_ (hei3) to _(2)h(i/)_ (hei2).
   ==
+P
+  ++
+  1. A stand or base.
+  1. Short for 星座 (constellation).
+  ++
 $$
