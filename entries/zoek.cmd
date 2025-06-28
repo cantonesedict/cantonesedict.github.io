@@ -369,11 +369,11 @@ W
   - [[Page~565 爵(8)]]
     ==
     - A cyathus with three legs,
-    - a cup for libations, a metallic wine cup;
-    - a bamboo wine pottle;
-    - a degree of nobility, rank, station;
+    - a cup for libations [[Kangxi: 禮器也 etc.]], a metallic wine cup;
+    - a bamboo wine pottle [[Kangxi: 竹器所以酌酒也]];
+    - a degree of nobility, rank, station [[Kangxi: 爵位也, 封也 etc.]];
     - nobility;
-    - occurs for the preceding [[$雀3]];
+    - [[...]];
     - _ts(e/)uk(8) (1)p(u/)i_
         [[zoek3 bui1 爵杯]],
         a wine cup;
@@ -391,6 +391,9 @@ W
         income of a nobleman.
     ==
   ====
+  --
+  [[Otherwise, an alternative form of 雀. **See $雀zoek3 for the canonical entry.**]]
+  --
 $$
 
 ###+ 皭3 | _Ts(e/)uk(8)_ (zoek3)
@@ -696,6 +699,12 @@ W
     - _ts(e/)uk(8) sh(i/)t[(8)] (1)f(a/)_
         [[zoek3 sit3 faa1 雀舌花]],
         the _Gardenia radicans_.
+    ==
+  - [[Page~565 爵(8)]]
+    ==
+    - [[...]];
+    - occurs for the preceding [[雀]];
+    - [[...]].
     ==
   ====
 C
