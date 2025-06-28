@@ -199,18 +199,21 @@ W
   ====
   - [[Page~32|n75 斫(8)]]
     ==
-    - To cut with a sword or knife;
+    - To cut with a sword or knife [[Kangxi: 刀斫]];
     - to amputate;
-    - to chop, to hew;
+    - to chop, to hew [[Kangxi: 擊也]];
     - _ch(e/)uk(8) (1)hoi_
         [[zoek3 hoi1 斫開]],
         to cut open.
     ==
     --
-    Often read _t(e/)uk(8)_ [[doek3]]
-    [[here normalised to 剁; **see $剁doek3 for the canonical entry**]].
+    [[...]]
     --
   ====
+S
+  ==
+  - $斫doek3 (TODO) <## normalised to $剁doek3 ##>
+  ==
 $$
 
 ### 杓3 | _Ch(e/)uk(8)_ [[zoek3]]
