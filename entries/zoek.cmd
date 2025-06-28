@@ -606,12 +606,12 @@ W
     ==
   - [[Page~32|n75 酌(8)]]
     ==
-    - To pour out liquor, to fill a cup;
+    - To pour out liquor, to fill a cup [[Kangxi: 盛酒行觴也, 酌猶斟也]];
     - a cup, a glass;
-    - _met._ wine, liquor;
+    - _met._ wine, liquor [[Kangxi: 淸酌酒也]];
     - a dinner, a feast;
-    - to avail of, to choose the good and act upon it;
-    - to deliberate;
+    - to avail of, to choose the good and act upon it [[Kangxi: 取善而行曰酌, 酌猶取也]];
+    - to deliberate [[Kangxi: 參酌]];
     - to imitate or adopt;
     - _(1)[ts(')(a/)m] ch(e/)uk(8)_ [[caam1 zoek3 參酌]]
         or
