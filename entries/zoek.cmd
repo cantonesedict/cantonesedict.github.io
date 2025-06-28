@@ -456,7 +456,7 @@ W
   - [[Page~32|n75 着(8)著(8)]]
     ==
     - [[...]];
-    - to cover over, to put on, as clothes;
+    - to cover over, to put on, as clothes [[Kangxi 著: 被服也]];
     - [[...]];
     - _(2)h(o\) ch(e/)uk(8)_
         [[hou2 zoek3 好着]]
@@ -491,10 +491,13 @@ E
     ++
   ====
   --
-  Olden attestation for 着 (same as 著) _ch(e/)uk(8)_ (zoek3) meaning "wear":
+  Olden attestation for 著 (alternative form 着) _ch(e/)uk(8)_ (zoek3) meaning "wear":
   --
   """"
   ::B5.w529b0204 (:張略切:) (:著:) (:服衣於身:)又直略張豫二切::
+  """"
+  """"
+  ::K. (:著:) [...]又《類篇》(:陟略切音芍被服也:)[...]::
   """"
 S
   ==
@@ -975,6 +978,13 @@ C
     and 陽入 _ch(e/)uk(9)_ (zoek6) (other senses).
     I have split things up accordingly.
   ==
+P
+  ++
+  1. To put (Kangxi 著: 著置也).
+  1. To attach (Kangxi 著: 附也).
+  1. To contact, to touch (Kangxi 著: 著地無足).
+  1. A plan, a stratagem.
+  ++
 E
   ====
   - 【着-on】 (zoek6):
