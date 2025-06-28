@@ -419,7 +419,7 @@ W
   ====
   - [[Page~565 皭(9) _Ts(e/)uk(9)_ (zoek6); here normalised to _Ts(e/)uk(8)_ (zoek3)]]
     ==
-    - A white color, pure, unsullied, clean;
+    - A white color [[Kangxi: 白色]], pure, unsullied, clean [[Kangxi: 淨貌]];
     - nice, clean looking.
     ==
   ====
@@ -428,7 +428,7 @@ C
   - Fan Wan entry: The unidentified character is ⿰正朿,
     possibly a badly typed 疎 (same as 疏).
   - The reading _ts(e/)uk(8)_ (zoek3) is not unattested;
-    Kangxi quotes 《集韻》卽約切音爵義同.
+    《集韻》 has the reading 即約切, explained 白色.
   ==
 S
   ==
