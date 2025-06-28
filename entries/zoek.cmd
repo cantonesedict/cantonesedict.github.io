@@ -469,13 +469,13 @@ W
     ==
     --
     This character is often distinguished into
-    _ch(e/)uk(8)_ [[zoek3]] & _ch(e/)uk(9)_ [[zoek6]] [[**see $着zoek6**]].
+    _ch(e/)uk(8)_ [[zoek3]] & _ch(e/)uk(9)_ [[zoek6]].
     --
   ====
 C
   ==
   - Williams (following Fan Wan) does not provide separate entries
-    for 陰入 _ch(e/)uk(8)_ (zoek3) (clothing senses)
+    for 陰入 _ch(e/)uk(8)_ (zoek3) ("wear" sense)
     and 陽入 _ch(e/)uk(9)_ (zoek6) (other senses).
     I have split things up accordingly.
   ==
@@ -971,13 +971,13 @@ W
     ==
     --
     This character is often distinguished into
-    _ch(e/)uk(8)_ [[zoek3]] [[**see $着zoek3**]] & _ch(e/)uk(9)_ [[zoek6]].
+    _ch(e/)uk(8)_ [[zoek3]] & _ch(e/)uk(9)_ [[zoek6]].
     --
   ====
 C
   ==
   - Williams (following Fan Wan) does not provide separate entries
-    for 陰入 _ch(e/)uk(8)_ (zoek3) (clothing senses)
+    for 陰入 _ch(e/)uk(8)_ (zoek3) ("wear" sense)
     and 陽入 _ch(e/)uk(9)_ (zoek6) (other senses).
     I have split things up accordingly.
   ==
