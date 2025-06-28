@@ -671,13 +671,13 @@ W
   ====
   - [[Page~565 雀(3)]]
     ==
-    - A sparrow;
-    - a term for small birds, like the finch or lark;
-    - a kind of cap;
-    - a kind of wheat;
+    - A sparrow [[Kangxi: 依人小鳥也]];
+    - a term for small birds [[Fan Wan: 小鳥亦曰雀]], like the finch or lark;
+    - ~~a kind of cap;~~
+    - a kind of wheat [[Kangxi: 蘥雀麥, 卽燕麥也]];
     - _ts(e/)uk(8) lap(9)_
         [[zoek3 lap6 雀立]]
-        to skip, to hop, as a sparrow;
+        to skip, to hop, as a sparrow [[Kangxi: 雀立踊也]];
     - _(2)hung ts(e/)uk(8)_
         [[hung2 zoek3-2 孔雀]]
         a peacock;
@@ -712,6 +712,9 @@ W
   ====
 C
   ==
+  - Williams' "a kind of cap": This is a misreading of Kangxi 雀韋弁.
+    The subcommentary makes it clear that 雀 is an adjective describing the *colour* of the cap
+    (Kangxi: 雀言如雀頭色也).
   - Williams' 雀舌花: Changed _sh(i/)t(9)_ (sit6) to common reading _sh(i/)t(8)_ (sit3).
   ==
 E
