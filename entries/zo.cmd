@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zo
-* %date-modified --> 2025-06-25
+* %date-modified --> 2025-06-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -387,7 +387,7 @@ W
   - [[Page~582 佐(3)]]
     ==
     - To assist, to second;
-    - an assistant, a deputy, a second, a substitute;
+    - an assistant, a deputy, a second [[Kangxi: 輔也貳也]], a substitute;
     - _tso(3) (5)ling_
         [[zo3 ling5 佐領]],
         a major-general, a resident among the Mongols;
@@ -399,6 +399,10 @@ W
         low officers assisting in a y(a/)mun [[衙門]].
     ==
   ====
+P
+  ++
+  1. To encourage (to drink or to eat).
+  ++
 $$
 
 ###+ 左3 | _Tso(3)_ (zo3)
