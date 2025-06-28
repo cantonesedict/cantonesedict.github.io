@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoek
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-06-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -86,17 +86,19 @@ W
   ====
   - [[Page~32|n75 勺(8)]]
     ==
-    - A ladle or spoon;
+    - A ladle or spoon [[Kangxi: ::[所以]挹取也::]];
     - a spoonful;
-    - to bale or pour out;
-    - to adopt, to follow;
+    - [[...]];
     - _[lau](6) ch(e/)uk(8)_
         [[lau6 zoek3 漏勺]]
         a cullender;
     - _yat(7) ch(e/)uk(8) (2)shui (1)ch(i/) (1)to_
         [[jat1 zoek3 seoi2 zi1 do1 一勺水之多]],
-        much as a spoonful of water.
+        much as a spoonful of water [[Kangxi: 一勺水之多言少也]].
     ==
+    --
+    [[Otherwise, an alternative form of 酌. **See $酌zoek3 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -557,12 +559,23 @@ R
   ⾣ + 3
 U
   U+914C
+A
+  ==
+  - $勺3
+  ==
 F
   ==
   - [[F1.94 酌]] 注也斟也益也挹取也沽也又叅酌審擇量度也
   ==
 W
   ====
+  - [[Page~32|n75 勺(8); here normalised to 酌]]
+    ==
+    - [[...]];
+    - to bale or pour out;
+    - to adopt, to follow;
+    - [[...]].
+    ==
   - [[Page~32|n75 酌(8)]]
     ==
     - To pour out liquor, to fill a cup;
