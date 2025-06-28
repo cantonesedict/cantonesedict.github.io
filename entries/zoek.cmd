@@ -117,6 +117,9 @@ R
   ⼝ + 17
 U
   U+56BC
+H
+  May appear with bottom-left of right component as the bottom of 飠 (+17 assumed here) or 𩙿 (+18),
+  depending on the font.
 V
   ==
   - zoek6 (per 《廣韻》在爵切)
@@ -309,6 +312,9 @@ R
   ⽕ + 17
 U
   U+721D
+H
+  May appear with bottom-left of right component as the bottom of 飠 (+17 assumed here) or 𩙿 (+18),
+  depending on the font.
 V
   ==
   - ziu3 (per 《廣韻》子肖切)
@@ -344,9 +350,12 @@ $$
 
 $$
 R
-  ⽖ + 14
+  ⽖ + 13
 U
   U+7235
+H
+  May appear with bottom-left component as the bottom of 飠 (+13 assumed here) or 𩙿 (+14),
+  depending on the font.
 F
   ==
   - [[F1.94 爵]] 鳥名又酒爵又爵祿
@@ -387,6 +396,9 @@ R
   ⽩ + 17
 U
   U+76AD
+H
+  May appear with bottom-left of right component as the bottom of 飠 (+17 assumed here) or 𩙿 (+18),
+  depending on the font.
 V
   ==
   - ziu3 (per 《廣韻》子肖切)
@@ -770,6 +782,9 @@ R
   ⼝ + 17
 U
   U+56BC
+H
+  May appear with bottom-left of right component as the bottom of 飠 (+17 assumed here) or 𩙿 (+18),
+  depending on the font.
 F
   ==
   - [[F1.94 嚼]] 咀嚼咬嚼
@@ -795,6 +810,9 @@ R
   ⽕ + 17
 U
   U+721D
+H
+  May appear with bottom-left of right component as the bottom of 飠 (+17 assumed here) or 𩙿 (+18),
+  depending on the font.
 F
   ==
   - [[F1.94 爝]] 炬火也
@@ -819,6 +837,9 @@ R
   ⽩ + 17
 U
   U+76AD
+H
+  May appear with bottom-left of right component as the bottom of 飠 (+17 assumed here) or 𩙿 (+18),
+  depending on the font.
 F
   ==
   - [[F1.94 皭]] 白色又？淨也

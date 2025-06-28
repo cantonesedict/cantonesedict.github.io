@@ -1137,6 +1137,9 @@ R
   ⼝ + 17
 U
   U+56BC
+H
+  May appear with bottom-left of right component as the bottom of 飠 (+17 assumed here) or 𩙿 (+18),
+  depending on the font.
 F
   [[Not present]]
 W

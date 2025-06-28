@@ -324,6 +324,7 @@ class Updater:
             '𦥑',
             '𧶠',
             '𧾷',
+            '𩙿',
         ])
         unexpanded_characters = re.findall(
             pattern=f'(?![{whitelisted_characters}])[𠀀-𱍊](?![=@^])',
