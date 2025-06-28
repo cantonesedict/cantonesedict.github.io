@@ -175,7 +175,7 @@ W
   ====
   - [[Page~32|n75 妁(8)]]
     ==
-    - A go-between;
+    - A go-between [[Kangxi: 媒也]];
     - to consult about a marriage;
     - _(4)m(u/)i ch(e/)uk(8)_
         [[mui4 zoek3 媒妁]]
