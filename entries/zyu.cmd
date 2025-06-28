@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2025-03-16
+* %date-modified --> 2025-06-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1133,12 +1133,12 @@ W
   ====
   - [[Page~31* 著(3)]]
     ==
-    - To manifest;
+    - To manifest [[Kangxi: 明也]];
     - to set forth;
     - clear;
     - to narrate, to write;
-    - to fix, to settle;
-    - a porch;
+    - ~~to fix, to settle;~~
+    - ~~a porch;~~
     - _ch(u:)(3) tsok(8)_
         [[zyu3 zok3 著作]]
         to compose;
@@ -1147,6 +1147,10 @@ W
         to write an account of.
     ==
   ====
+P
+  ++
+  1. To mark (Kangxi: 著標著也).
+  ++
 S
   ==
   - $著zoek3
