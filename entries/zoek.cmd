@@ -129,7 +129,7 @@ W
   ====
   - [[Page~565 嚼(9) _Ts(e/)uk(9)_ (zoek6); here normalised to _Ts(e/)uk(8)_ (zoek3)]]
     ==
-    - To chew, to bite, to ruminate, to craunch, to mumble, to munch, to masticate;
+    - To chew, to bite, ~~to ruminate~~, to craunch, to mumble, to munch, to masticate [[Kangxi: 齧也]];
     - a mouthful, a bite;
     - _(5)ng(a/)u ts(e/)uk[(8)]_
         [[ngaau5 zoek3 咬嚼]]
@@ -145,8 +145,14 @@ W
         to bite and chew phrases---pedantry.
     ==
   ====
+C
+  ==
+  - Williams' "to ruminate": Not incorrect per 《說文》噍或从爵,
+    but 噍 is now read _tsi(u/)(6)_ (ziu6) per ::《廣韻》才[笑]切::.
+  ==
 S
   ==
+  - $嚼ziu6
   - $嚼zoek6
   ==
 $$
@@ -777,6 +783,7 @@ W
   ====
 S
   ==
+  - $嚼ziu6
   - $嚼zoek3
   ==
 $$
