@@ -320,8 +320,8 @@ H
   depending on the font.
 V
   ==
-  - ziu3 (per 《廣韻》子肖切)
-  - zoek6 (per 《廣韻》在爵切)
+  - ziu3 (alternative per 《廣韻》子肖切)
+  - zoek6 (alternative per 《廣韻》在爵切)
   ==
 F
   ==
@@ -337,6 +337,7 @@ W
   ====
 C
   ==
+  - Per 《說文》苣火祓也, a torch specifically for warding off evil.
   - Both the dark-entering reading 即略切 _ts(e/)uk(8)_ (zoek3)
     and the light-entering reading 在爵切 _ts(e/)uk(9)_ (zoek6)
     are attested in 《廣韻》, explained 炬火 "torch fire",
