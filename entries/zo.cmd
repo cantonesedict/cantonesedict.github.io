@@ -503,8 +503,8 @@ W
   ====
   - [[Page~26* 助(6)]]
     ==
-    - To assist, to help;
-    - strengthening, beneficial;
+    - To assist, to help [[Kangxi: 左也]];
+    - strengthening, beneficial [[Kangxi: 益也]];
     - to succor;
     - _(1)s(e/)ung cho(6)_
         [[soeng1 zo6 相助]]
