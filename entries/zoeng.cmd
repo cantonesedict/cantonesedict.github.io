@@ -489,11 +489,18 @@ W
     - [[...]];
     - _(1)k(u/) [(1)]ts(e/)ung_
         [[gu1 zoeng1 菰蔣]],
-        an aquatic grain;
+        an aquatic grain [[Kangxi: 苽蔣]];
         wild rice;
-    - [[...]].
+    - _[(1)]ts(e/)ung (4)[m(a/)u]_
+        [[zoeng1 maau4 蔣茅]],
+        stubble, straw.
     ==
   ====
+C
+  ==
+  - Williams' 菰蔣: Specifically, _Zizania latifolia_ (or Manchurian wild rice).
+  - Williams' 蔣茅: Corrected _(4)mau_ (mau4) to _(4)m(a/)u_ (maau4).
+  ==
 S
   ==
   - $蔣zoeng2
@@ -788,17 +795,10 @@ W
   ====
   - [[Page~566 (2)蔣]]
     ==
-    - A surname;
-    - [[see $蔣zoeng1 for "Manchurian wild rice" sense]];
-    - _(2)ts(e/)ung (4)[m(a/)u]_
-        [[zoeng2 maau4 蔣茅]],
-        stubble, straw.
+    - A surname [[Kangxi: 姓]];
+    - [[...]].
     ==
   ====
-C
-  ==
-  - Williams' 蔣茅: Corrected _(4)mau_ (mau4) to _(4)m(a/)u_ (maau4).
-  ==
 S
   ==
   - $蔣zoeng1
