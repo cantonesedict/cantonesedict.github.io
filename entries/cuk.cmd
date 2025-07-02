@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cuk
-* %date-modified --> 2025-03-16
+* %date-modified --> 2025-07-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -116,7 +116,7 @@ W
   ====
   - [[Page~36* 慉(7)]]
     ==
-    - To sustain [[Kangxi: 慉養也]];
+    - To sustain [[Kangxi: ::[慉]養也::]];
     - to encourage [[Kangxi: 起也]];
     - ~~_ch(')uk(7) (1)ki(u/)_
         [[cuk1 giu1 慉驕]],
@@ -133,7 +133,7 @@ C
     1. To uplift (《說文》起也, defended by 段玉裁's annotations); and
     1. To sustain (per 《朱傳》, 《箋》, 《正義》 as appears in Kangxi).
     ++
-  - Williams' 慉驕: This is a misreading of Kangxi 慉驕也,
+  - Williams' 慉驕: This is a misreading of Kangxi ::[慉]驕也::,
     which is an explanation of meaning (to be punctuated 慉、驕也),
     rather than an example of a two-character phrase.
   ==
@@ -155,7 +155,7 @@ W
   - [[Page~36* 搐(7)]]
     ==
     - To drag along, to pull by force, as one drags an ox [[Kangxi: 牽制也]];
-    - to shake rudely [[Kangxi: 搐謂動而痛也]].
+    - to shake rudely [[Kangxi: ::[搐]謂動而痛也::]].
     ==
   ====
 $$
@@ -273,11 +273,11 @@ W
     - To rear, to feed, to raise [[Kangxi: 養也]];
     - to domesticate, to herd;
     - to cultivate;
-    - to restrain [[Kangxi: 畜止也]];
+    - to restrain [[Kangxi: ::[畜]止也::]];
     - [[...]];
     - to bear with [[Kangxi: 容也]];
     - to obey [[Kangxi: 順也]];
-    - domestic animals [[Kangxi: 六畜]];
+    - domestic animals [[Kangxi: ::六[畜]^::]];
     - _ch(')uk(7) (1)shang_
         [[cuk1 sang1 畜牲]],
         you brute!
@@ -478,7 +478,7 @@ W
   - [[Page~36* 畜(7); here normalised to 蓄]]
     ==
     - [[...]];
-    - to gather [[Kangxi 畜: 積也]];
+    - to gather [[Kangxi ::[畜]::^: 積也]];
     - [[...]].
     ==
   - [[Page~36* 蓄(7)]]
