@@ -323,7 +323,7 @@ W
     - apprehensive;
     - _(1)ch(e/)ung (4)wong_
         [[zoeng1 wong4 慞惶]],
-        terrified, fearful;
+        terrified, fearful [[Kangxi: 慞惶懼也]];
         a horrified look.
     ==
   ====
