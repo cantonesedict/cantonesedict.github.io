@@ -546,6 +546,11 @@ W
     - an ancient city in K(u:) [[莒]], also in the modern Sh(a/)ntung [[山東]].
     ==
   ====
+C
+  ==
+  - The two senses in Kangxi are 《說文》紀邑也 and 莒邑.
+    It is not clear to me whether these are states or cities (or one each).
+  ==
 $$
 
 ### 章1 | _(1)Ch(e/)ung_ [[zoeng1]]
