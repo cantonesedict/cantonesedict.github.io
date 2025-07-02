@@ -1299,7 +1299,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $張zoeng1
+      - {$張zoeng1, $張zoeng3}
       ==
       </nav>
 ''

@@ -189,6 +189,10 @@ R
   ⼸ + 8
 U
   U+5F35
+V
+  ==
+  - zoeng3 (per Kangxi 知亮切 for "boast" sense)
+  ==
 F
   ==
   - [[F1.89 張]] 開也設山？也又宿名
@@ -197,11 +201,11 @@ W
   ====
   - [[Page~33|n76 (1)張]]
     ==
-    - To draw a bow;
-    - to extend, to stretch, to open;
+    - To draw a bow [[Kangxi: ::施弓[弦]也::]];
+    - to extend, to stretch, to open [[Kangxi: 開也]];
     - to draw up, as a list;
     - to increase;
-    - to boast;
+    - to boast [[Kangxi: 自侈大也]];
     - to state, to proclaim, to publish;
     - a classifier of things spread out, as a table, chair, bed, paper, &c.;
     - _(1)ch(e/)ung kw(a/)(3)_
@@ -240,6 +244,31 @@ C
   ==
   - Fan Wan entry: The unidentified character is ⿵𡗜@弓, where 𡗜@ is ⿻大丷.
   - Williams' 主張: Dated; 主張 now means to assert or hold a position or opinion.
+  ==
+P
+  ++
+  1. Great (Kangxi: 大也).
+  1. To spread (Kangxi: 施也).
+  1. To set out, to arrange (Kangxi: 設也).
+  1. To string (a string instrument) (Kangxi: ::施[絃]曰張::).
+  1. To spread a net to catch animals (Kangxi: 羅取鳥獸曰張).
+  1. A surname (Kangxi: 姓).
+  1. To look.
+  ++
+E
+  ====
+  - 【張】 (zoeng1):
+    ++
+    1. (_mahjong_) Classifier for (revealed) tiles. Also spelt 章.
+       ==
+       - 九張 (gau2 zoeng1): "Nine tiles [revealed]" (three melds).
+       - 十二張 (sap6 ji6 zoeng1): "Twelve tiles [revealed]" (four melds).
+       ==
+    ++
+  ====
+S
+  ==
+  - $張zoeng3
   ==
 $$
 
@@ -850,6 +879,7 @@ $$
 - $仗3
 - $將3
 - $帳3
+- $張3
 - $悵3
 - $漲3
 - $瘴3
@@ -923,6 +953,10 @@ R
   ⼱ + 8
 U
   U+5E33
+A
+  ==
+  - $張3
+  ==
 F
   ==
   - [[F1.92 帳]] 帷幕也
@@ -961,6 +995,28 @@ W
         a scroll given to old people.
     ==
   ====
+$$
+
+###+ 張3 | _Ch(e/)ung(3)_ (zoeng3)
+
+$$.
+R
+  ⼸ + 8
+U
+  U+5F35
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 帳. **See $帳zoeng3 for the canonical entry.**
+  1. Alternative form of 脹. **See $脹zoeng3 for the canonical entry.**
+  ++
+S
+  ==
+  - $張zoeng1
+  ==
 $$
 
 ### 悵3 | _Ch(e/)ung(3)_ [[zoeng3]]
@@ -1067,6 +1123,10 @@ R
   ⾁ + 8
 U
   U+8139
+A
+  ==
+  - $張3
+  ==
 F
   ==
   - [[F1.92 脹]] 腫脹
