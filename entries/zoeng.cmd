@@ -54,6 +54,7 @@ $$
 - $樟1
 - $漳1
 - $漿1
+- $獐1
 - $璋1
 - $䊢1
 - $蔣1
@@ -429,6 +430,34 @@ C
   ==
 $$
 
+###+ 獐1 | _(1)Ch(e/)ung_ (zoeng1)
+
+$$
+R
+  ⽝ + 11
+U
+  U+7350
+A
+  ==
+  - $麞1
+  ==
+F
+  ==
+  - [[F1.89 獐]] 鹿屬無角
+  - [[F1.89 麞]] 獸名
+  ==
+W
+  ====
+  - [[Page~34|n77 (1)麞; here normalised to 獐]]
+    ==
+    - A kind of chevrotain or gazelle, hornless, and of elegant shape [[Kangxi 麞: 與獐同, 麋屬, 麞如小鹿而美]];
+    - _(4)ngan (1)ch(e/)ung_
+        [[ngan4 zoeng1 銀獐]],
+        the white gazelle---appears in good reigns [[Kangxi 麞: 符瑞志有銀麞白色王者{𠛬=⿰幵刂}罰中理則出]].
+    ==
+  ====
+$$
+
 ### 璋1 | _(1)Ch(e/)ung_ [[zoeng1]]
 
 $$
@@ -612,24 +641,22 @@ $$
 
 ### 麞1 | _(1)Ch(e/)ung_ [[zoeng1]]
 
-$$
+$$.
 R
   ⿅ + 11
 U
   U+9E9E
 F
   ==
+  - [[F1.89 獐]] 鹿屬無角
   - [[F1.89 麞]] 獸名
   ==
 W
   ====
   - [[Page~34|n77 (1)麞]]
-    ==
-    - A kind of chevrotain or gazelle, hornless, and of elegant shape;
-    - _(4)ngan (1)ch(e/)ung_
-        [[ngan4 zoeng1 銀麞]],
-        the white gazelle---appears in good reigns.
-    ==
+    --
+    [[Alternative form of 獐. **See $獐zoeng1 for the canonical entry.**]]
+    --
   ====
 $$
 
