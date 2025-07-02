@@ -444,7 +444,7 @@ W
   ====
   - [[Page~34|n77 (1)璋]]
     ==
-    - A kind of plaything made of jade;
+    - A kind of plaything made of jade [[Kangxi: 剡上爲圭半圭爲璋]];
     - _lung(6) (1)ch(e/)ung_
         [[lung6 zoeng1 弄璋]],
         to bear a son.
