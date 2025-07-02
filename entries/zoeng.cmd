@@ -568,15 +568,15 @@ W
   ====
   - [[Page~33|n76 (1)章]]
     ==
-    - A piece of music;
-    - a chapter, a section;
+    - A piece of music [[Kangxi: 樂竟爲一章]];
+    - a chapter, a section [[Kangxi: 篇章]];
     - a composition;
     - a statement;
-    - rules, laws, regulations;
-    - clear, beautiful, manifest;
+    - rules, laws, regulations [[Kangxi: 條也程也]];
+    - clear [[Kangxi: 明也]], beautiful [[Kangxi: 文章也]], manifest;
     - a display;
-    - a grove;
-    - a metonic cycle;
+    - ~~a grove;~~
+    - a metonic cycle [[Kangxi: ::[...]十九年爲一章[...]::]];
     - _(2)ts(')oi (1)ch(e/)ung_
         [[coi2 zoeng1 彩章]],
         variegated;
@@ -598,9 +598,16 @@ W
     - _(4)t(')(o\) (1)ch(e/)ung_ [[tou4 zoeng1 圖章]]^
         or
       _yan(3) (1)ch(e/)ung_ [[jan3 zoeng1 印章]],
-      a seal.
+      a seal [[Kangxi: 印章]].
     ==
   ====
+P
+  ++
+  1. Colourful adornment (Kangxi: 采也).
+  1. A completed matter or composition (Kangxi: 成事成文曰章).
+  1. Great forest trees (Kangxi: 大林木曰章).
+  1. Order.
+  ++
 $$
 
 ### 麞1 | _(1)Ch(e/)ung_ [[zoeng1]]
