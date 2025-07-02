@@ -522,7 +522,7 @@ W
   ====
   - [[Page~566 (1)螿]]
     ==
-    - Small species of cicada or grasshopper, whose elytra are green.
+    - Small species of cicada or grasshopper, whose elytra are green [[Kangxi: 寒螿蟬屬 etc.]].
     ==
   ====
 $$
