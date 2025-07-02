@@ -399,7 +399,7 @@ W
   ====
   - [[Page~566 (1)漿(1)䊢]]
     ==
-    - Thick, half fluid, pasty;
+    - Thick, half fluid, pasty [[Kangxi: 酢漿也一曰水米汁相將也]];
     - starch, syrup, pus, or matter;
     - to starch;
     - broth boiled down thick, congee;
