@@ -344,7 +344,7 @@ W
   ====
   - [[Page~33|n76 (1)樟]]
     ==
-    - The camphor _(Laurus camphora)_;
+    - The camphor _(Laurus camphora)_ [[Kangxi: 豫樟木也 etc.]];
     - _(1)ch(e/)ung muk(9)_
         [[zoeng1 muk6 樟⽊]]
         camphor wood;
