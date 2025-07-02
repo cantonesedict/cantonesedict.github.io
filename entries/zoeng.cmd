@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2025-03-25
+* %date-modified --> 2025-07-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -80,15 +80,19 @@ W
   ====
   - [[Page~33|n76 (1)嫜]]
     ==
-    - A husband's father;
+    - A husband's father [[Kangxi: 夫之父母也]];
     - _(1)k(u/) (1)ch(e/)ung_
         [[gu1 zoeng1 姑嫜]],
         a husband's parents;
     - _(1)hing (1)ch(e/)ung_
         [[hing1 zoeng1 兄嫜]],
-        a husband's brother.
+        a husband's brother [[Kangxi: 夫之兄曰兄嫜]].
     ==
   ====
+C
+  ==
+  - Williams' 兄嫜: Specifically, a husband's older brother.
+  ==
 $$
 
 ### 將1 | _(1)Ts(e/)ung_ [[zoeng1]]
