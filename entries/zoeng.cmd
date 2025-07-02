@@ -373,8 +373,8 @@ W
   ====
   - [[Page~34|n77 (1)漳]]
     ==
-    - Name of a river;
-    - the prefecture of Ch(a/)ngchau [[漳州]] in Fuhkien [[福建]] near Amoy [[廈門]].
+    - Name of a river [[Kangxi: 水名]];
+    - the prefecture of Ch(a/)ngchau [[漳州]] [[Kangxi: 州名]] in Fuhkien [[福建]] near Amoy [[廈門]].
     ==
   ====
 $$
