@@ -253,6 +253,7 @@ P
   1. To string (a string instrument) (Kangxi: ::施[絃]曰張::).
   1. To spread a net to catch animals (Kangxi: 羅取鳥獸曰張).
   1. A surname (Kangxi: 姓).
+  1. A position, an opinion.
   1. To look.
   ++
 E
