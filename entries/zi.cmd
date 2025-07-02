@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2025-04-06
+* %date-modified --> 2025-07-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -3825,7 +3825,7 @@ E
   ====
   - 【至】 (zi3):
     ++
-    1. Short for [先至](sin#cantonese-先至) ("only", "only then"). (TODO)
+    1. Short for [先至](sin#cantonese-先至) (only, only then). (TODO)
        ==
        - 噉至得咖嘛 (gam2 zi3 dak1 ga1 maa3): "Only like so [will it] work."
        ==
