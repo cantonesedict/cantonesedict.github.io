@@ -288,16 +288,20 @@ W
   ====
   - [[Page~33|n76 (1)彰]]
     ==
-    - Luminous;
+    - Luminous [[Kangxi: 明也, 著也]];
     - beautiful;
     - elegant;
-    - to manifest;
-    - variegated plumage or pelage;
+    - to manifest [[Kangxi: 著明之也]];
+    - variegated plumage or pelage [[Kangxi: 毛髮貌謂鳥獸羽毛之文]];
     - _(1)ch(e/)ung (4)ming_
         [[zoeng1 ming4 彰明]],
         clearly exhibited.
     ==
   ====
+P
+  ++
+  1. Adorned (Kangxi: 文彰也, 文章飾也).
+  ++
 $$
 
 ### 慞1 | _(1)Ch(e/)ung_ [[zoeng1]]
