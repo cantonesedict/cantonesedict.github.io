@@ -776,7 +776,7 @@ W
   ====
   - [[Page~566 (2)槳]]
     ==
-    - An oar;
+    - An oar [[Kangxi: 楫屬 etc.]];
     - _ch(a/)u(6) (2)ts(e/)ung_
         [[zaau6 zoeng2 櫂槳]],
         to row;
