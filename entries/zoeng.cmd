@@ -110,20 +110,20 @@ W
   ====
   - [[Page~565 (1)將]]
     ==
-    - To take, to hold in the hand;
-    - sign of the future, shall, will, about to go;
+    - To take, to hold in the hand [[Kangxi: 扶持也]];
+    - sign of the future, shall, will, about to go [[Kangxi: 將甫始之辭]];
     - sometimes a form of the accusative;
     - then, soon, presently;
-    - to help, to accommodate;
-    - to use, to avail of, to go with, to escort, to accompany;
-    - great, stout;
-    - long, large;
-    - to receive and act upon, endued with;
-    - to act;
-    - to progress, to increase, to approach, to advance towards a mark;
-    - to follow;
-    - going, passing, as time;
-    - the side;
+    - to help, to accommodate [[Kangxi: 助也]];
+    - to use, to avail of, to go with, to escort, to accompany [[Kangxi: 送也]];
+    - great [[Kangxi: 大也]], ~~stout~~;
+    - long [[Kangxi: 長也]], ~~large~~;
+    - to receive and act upon, endued with [[Kangxi: 承也奉也行也]];
+    - to act [[Kangxi: 將行也]];
+    - to progress, ~~to increase~~, to approach, to advance [[Kangxi: 進也]] ~~towards a mark~~;
+    - to follow [[Kangxi: 從也隨也]];
+    - going, passing, as time [[Kangxi: 去也 etc.]];
+    - the side [[Kangxi: 側也]];
     - _(1)ts(e/)ung (4)loi_
         [[zoeng1 loi4 將來]]^
         presently;
@@ -162,11 +162,22 @@ W
   ====
 C
   ==
+  - Williams' "to act": Perhaps "to perform", or "to implement".
   - Williams' 將軍: In the non-Manchu context, a general;
     in Chinese chess, to check.
   ==
+P
+  ++
+  1. Or (Kangxi: 抑然之辭).
+  1. And, also (Kangxi: 且也).
+  1. To provide for, to support (Kangxi: 養也).
+  1. Strong, vigorous (Kangxi: 壯也).
+  1. To recuperate.
+  1. (_Chinese chess_) Short for 將軍 (to check).
+  ++
 S
   ==
+  - $將coeng1
   - $將zoeng3
   ==
 $$
@@ -886,8 +897,8 @@ W
   ====
   - [[Page~566 將(3)]]
     ==
-    - To take charge of troops, to lead troops into the field, to act as a general;
-    - a general, a leader;
+    - To take charge of troops, to lead troops into the field, to act as a general [[Kangxi: 將之也]];
+    - a general, a leader [[Kangxi: 將帥也]];
     - _[(5)]l(o\) ts(e/)ung(3)_
         [[lou5 zoeng3 老將]]
         a soldier.
@@ -900,6 +911,7 @@ C
   ==
 S
   ==
+  - $將coeng1
   - $將zoeng1
   ==
 $$

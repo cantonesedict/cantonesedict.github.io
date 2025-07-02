@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-07-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -49,6 +49,7 @@ $$
 - $倀1
 - $倡1
 - $娼1
+- $將1
 - ${𢃑=⿰巾昌}1
 - $搶1
 - $斨1
@@ -182,6 +183,31 @@ W
         to be a whore.
     ==
   ====
+$$
+
+###+ 將1 | _(1)Ts(')(e/)ung_ (coeng1)
+
+$$
+R
+  ⼨ + 8
+U
+  U+5C07
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. To request, to ask (Kangxi: 請也幾願辭也).
+  1. (_onomatopoeia_) The sound of tinkling (Kangxi: 聲也).
+  1. Stern and proper (Kangxi: 嚴正貌).
+  1. Collected (Kangxi: 集也).
+  ++
+S
+  ==
+  - $將zoeng1
+  - $將zoeng3
+  ==
 $$
 
 ### [{𢃑=⿰巾昌}]1 | _(1)Ch(')(e/)ung_ [[coeng1]]
