@@ -711,11 +711,11 @@ W
   ====
   - [[Page~34|n77 (2)掌]]
     ==
-    - The palm of the hand;
+    - The palm of the hand [[Kangxi: 手中也, 手心也謂指本也]];
     - the paw or sole of animals;
     - a webbed foot;
     - to grasp;
-    - to rule, to control;
+    - to rule, to control [[Kangxi: 職掌主也]];
     - a control, a jurisdiction;
     - _(2)shau (2)ch(e/)ung_
         [[sau2 zoeng2 手掌]],
@@ -754,6 +754,11 @@ C
   ==
   - Fan Wan entry: Normalised {𬋩=⿱爫⿱冖㠯} to 管.
   ==
+P
+  ++
+  1. Used in 鞅掌 (uncomposed, bustling) (Kangxi: 鞅掌失容也, 言促遽也, 言事煩不暇爲容儀也).
+  1. To slap.
+  ++
 $$
 
 ### 槳2 | _(2)Ts(e/)ung_ [[zoeng2]]
