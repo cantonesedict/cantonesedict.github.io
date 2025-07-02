@@ -806,10 +806,10 @@ W
   ====
   - [[Page~566 (2)奬; here normalised to 獎]]
     ==
-    - To exhort, to animate, to excite, to encourage;
-    - to laud, to praise, to commend;
-    - to vindicate, to give efficacy to;
-    - to set on, as dogs;
+    - To exhort, to animate, to excite, to encourage [[Kangxi 奬: 勸勉也]];
+    - to laud, to praise, to commend [[Kangxi 奬: 褒美也]];
+    - ~~to vindicate~~, to give efficacy to [[Kangxi 奬: 助也]];
+    - ~~to set on, as dogs;~~
     - _(2)ts(e/)ung h(u:)n(3)_
         [[zoeng2 hyun3 獎勸]]
         to exhort;
@@ -822,6 +822,16 @@ W
         why so much overpraise?
     ==
   ====
+C
+  ==
+  - Williams' "to set on, as dogs": This is a misreading of Kangxi 嗾犬厲之也.
+    This is the 《說文》 explanation of the hound radical, and should be rendered
+    "[to] sound at [an] hound [to] encourage it".
+  ==
+P
+  ++
+  1. A reward, a prize.
+  ++
 $$
 
 ### 蔣2 | _(2)Ts(e/)ung_ [[zoeng2]]
