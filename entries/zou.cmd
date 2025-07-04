@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zou
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-07-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -854,7 +854,7 @@ R
 U
   U+9020
 H
-  May appear as either ⿺辶吿 or ⿰辶告 (assumed here),
+  May appear as either ⿺辶吿 or ⿺辶告 (assumed here),
   depending on the font.
 F
   ==
