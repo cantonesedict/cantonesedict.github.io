@@ -1420,6 +1420,10 @@ R
   ⼀ + 2
 U
   U+4E08
+V
+  ==
+  - zoeng6-2 (vernacular rising-tone noun in 姑丈, 姨丈)
+  ==
 F
   ==
   - [[F1.93 丈]] 十尺曰丈又大丈夫
@@ -1428,9 +1432,9 @@ W
   ====
   - [[Page~35|n78 丈(6)]]
     ==
-    - Ten _ch(')ek_ [[尺]] or 141~English inches;
+    - Ten _ch(')ek_ [[尺]] [[Kangxi: 十尺曰丈]] or 141~English inches;
     - to measure;
-    - an elder;
+    - an elder [[Kangxi: 長老之稱]];
     - _ch(e/)ung(6) (4)l(e/)ung_
         [[zoeng6 loeng4 丈量]],
         to measure land;
@@ -1455,6 +1459,7 @@ C
     The Ts(')ing Dynasty _ch(')ek_ (尺) was only standardised to 14⅝~inches
     by the British in Hong Kong in [Ordinance No.~8 of 1885].
     See also commentary at $咫zi2.
+  - Williams' "abbot of a monastery": Originally the *residence* of the abbot (Kangxi: 釋氏所居曰方丈).
   ==
 $$
 
