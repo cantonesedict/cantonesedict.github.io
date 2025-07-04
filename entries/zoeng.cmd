@@ -1589,7 +1589,7 @@ W
         not according to rule.
     ==
     --
-    [[Alternative form of 象 (for the "image" senses). See $象zoeng6.]]
+    [[Alternative form of 象 (for the "resemble", "imitate", and "image" senses). See $象zoeng6.]]
     --
   ====
 $$
@@ -1732,7 +1732,7 @@ U
   U+8C61
 A
   ==
-  - $像6 (for "image" senses)
+  - $像6 (for "resemble", "imitate", and "image" senses)
   - 𧰼
   ==
 F
@@ -1743,14 +1743,14 @@ W
   ====
   - [[Page~566 象(6)]]
     ==
-    - An elephant;
+    - An elephant [[Kangxi: 長鼻牙南越大獸 etc.]];
     - a figure, a form, an image;
-    - the shape things take;
+    - the shape things take [[Kangxi: 象形也]];
     - superstitious auguries or fancy;
     - imagination, resemblance;
-    - a law;
+    - a law [[Kangxi: 法也]];
     - to imitate;
-    - pantomime;
+    - ~~pantomime;~~
     - _ts(e/)ung(6) (4)ng(a/)_
         [[zoeng6 ngaa4 象牙]]^
         ivory;
@@ -1774,6 +1774,10 @@ W
     - [[...]].
     ==
   ====
+C
+  ==
+  - Williams' 象皮: The "rubber" sense is now spelt 橡皮.
+  ==
 E
   ====
   - 【大笨象】 (daai6 ban6 zoeng6):
