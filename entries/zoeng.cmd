@@ -1132,14 +1132,17 @@ W
   ====
   - [[Page~35|n78 漲(3)]]
     ==
-    - An inundation;
-    - to overflow;
+    - An inundation [[Kangxi: 水大貌]];
+    - to overflow [[Kangxi: 溢也]];
     - a sheet of water;
-    - the southern sea;
+    - the southern sea [[Kangxi: 南海名]];
     - _(2)shui ch(e/)ung(3)_
         [[seoi2 zoeng3 水漲]]
         water is rising, overflowing.
     ==
+    --
+    [[Otherwise, an alternative form of 脹. **See $脹zoeng3 for the canonical entry.**]]
+    --
   ====
 $$
 
@@ -1188,6 +1191,7 @@ U
 A
   ==
   - $張3
+  - $漲3
   ==
 F
   ==
