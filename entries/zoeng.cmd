@@ -1605,7 +1605,7 @@ W
   ====
   - [[Page~567 匠(6)]]
     ==
-    - A workman, a mechanic, an artisan of any kind;
+    - A workman, a mechanic, an artisan of any kind [[Kangxi: 工匠]];
     - _(2)t(a/) (4)ngan ts(e/)ung(6)_
         [[daa2 ngan4-2 zoeng6 打銀匠]]
         a silversmith;
@@ -1620,6 +1620,10 @@ W
         a mechanic.
     ==
   ====
+C
+  ==
+  - Originally, a carpenter (Kangxi: 木工也).
+  ==
 $$
 
 ### 杖6 | _Ch(e/)ung(6)_ [[zoeng6]]
