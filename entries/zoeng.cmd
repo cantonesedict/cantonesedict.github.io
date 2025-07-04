@@ -1548,17 +1548,17 @@ U
   U+50CF
 F
   ==
-  - [[F1.93 像]] ::形像又倣[模]也::
+  - [[F1.93 像]] 形像又倣摸也
   ==
 W
   ====
   - [[Page~566 像(6)]]
     ==
-    - Interchanged with the preceding [[$象6]];
-    - like, similar;
+    - [[...]];
+    - like, similar [[Kangxi: 形象也肖似也]];
     - a figure, image, likeness;
     - a statue, an idol;
-    - to resemble, to imitate;
+    - to resemble, to imitate [[Kangxi: 摹倣也]];
     - _(5)ngau ts(e/)ung(6)_
         [[ngau5 zoeng6 偶像]]
         a statue;
@@ -1581,11 +1581,10 @@ W
         [[m4 zoeng6 joeng6-2 唔像樣]]
         not according to rule.
     ==
+    --
+    [[Alternative form of 象 (for the "image" senses). See $象zoeng6.]]
+    --
   ====
-C
-  ==
-  - Fan Wan entry: Corrected 摸 to 模.
-  ==
 $$
 
 ### 匠6 | _Ts(e/)ung(6)_ [[zoeng6]]
@@ -1754,6 +1753,11 @@ W
     - _t(a/)i(6) pan(6) ts(e/)ung(6)_
         [[daai6 ban6 zoeng6 大笨象]]
         stupid, dull.
+    ==
+  - [[Page~566 像(6)]]
+    ==
+    - Interchanged with the preceding [[象]];
+    - [[...]].
     ==
   ====
 E
