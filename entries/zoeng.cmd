@@ -1161,7 +1161,7 @@ W
   ====
   - [[Page~35|n78 瘴(3)]]
     ==
-    - Malaria;
+    - Malaria [[Kangxi: 瘴癘也, 熱病]];
     - pestilential vapors;
     - pestiferous air;
     - _(1)(i/)n ch(e/)ung(3)_
