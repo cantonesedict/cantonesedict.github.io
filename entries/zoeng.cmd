@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2025-07-02
+* %date-modified --> 2025-07-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -961,10 +961,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Reading variation (for "battle" sense, except in 陣仗). **See $仗zoeng6 for the canonical entry.**
-  ==
+P
+  ++
+  1. Reading variation (for "battle" sense, except in 陣仗). **See $仗zoeng6 for the canonical entry.**
+  ++
 S
   ==
   - $仗zoeng6
@@ -1463,7 +1463,7 @@ W
     ==
     - A sharp weapon;
     - to fight;
-    - to rely on, to lean on, to look up to;
+    - to rely on, to lean on, to look up to [[Kangxi: 憑倚也]];
     - _(2)t(a/) shing(3) ch(e/)ung(6)_
         [[daa2 sing3 zoeng6-3 打勝仗]]
         to get the victory;
@@ -1490,6 +1490,16 @@ W
         to trust to.
     ==
   ====
+C
+  ==
+  - Williams' "A sharp weapon": Better rendered "weaponry".
+  ==
+P
+  ++
+  1. Weaponry (Kangxi: 劒戟總名).
+  1. Battle.
+  1. To hold, to wield.
+  ++
 E
   ====
   - 【大陣仗】 (daai6 zan6 zoeng6):
