@@ -1705,15 +1705,11 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Not present in Williams;
-    an entry is included here for completeness.
-    ++
-    1. Acorn.
-    1. Rubber (from the rubber tree), used in compounds.
-    ++
-  ==
+P
+  ++
+  1. Acorn, the fruit of the oak (Kangxi: 栩實也).
+  1. Rubber (from the rubber tree), used in compounds.
+  ++
 E
   ====
   - 【橡筋】 (zoeng6 gan1):
