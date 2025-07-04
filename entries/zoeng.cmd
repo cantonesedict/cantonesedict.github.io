@@ -1324,7 +1324,7 @@ W
   ====
   - [[Page~566 醬(3)]]
     ==
-    - A sort of sauce, pickle or condiment, made of salt and sugar;
+    - A sort of sauce, pickle or condiment [[Kangxi: 醢也, 醢肉醬也又豉醬又菜茹亦謂之醬]], made of salt and sugar;
     - relishes, seasoning, like oilmen's stores;
     - salted preparations;
     - _(1)kon ts(e/)ung(3)_
