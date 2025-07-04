@@ -1472,6 +1472,10 @@ R
   ⼈ + 3
 U
   U+4ED7
+A
+  ==
+  - $杖6 (for "rely" sense)
+  ==
 V
   ==
   - zoeng6-3 (for "battle" sense, except in 陣仗)
@@ -1645,10 +1649,10 @@ W
   ====
   - [[Page~35|n78 杖(6)]]
     ==
-    - A cane, a staff;
-    - a cudgel, a club;
-    - to lean on;
-    - to hold;
+    - A cane, a staff [[Kangxi: 所以扶行也]];
+    - a cudgel, a club [[Kangxi: 木梃也]];
+    - to lean on [[Kangxi: 憑倚也]];
+    - to hold [[Kangxi: 持也]];
     - to beat;
     - aged, an old man;
     - to mourn;
@@ -1677,6 +1681,9 @@ W
         [[zap1 zoeng6 執杖]]
         to carry a staff at a funeral.
     ==
+    --
+    [[Alternative form of 仗 (for the "rely" sense). See $仗zoeng6.]]
+    --
   ====
 C
   ==
