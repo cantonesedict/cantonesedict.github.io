@@ -1024,13 +1024,13 @@ W
   ====
   - [[Page~34|n77 帳(3)]]
     ==
-    - A curtain, a screen;
+    - A curtain, a screen [[Kangxi: 帳張也張施於牀上也, 帷也張也幬也]];
     - a tent;
-    - a house;
-    - to calculate;
+    - ~~a house;~~
+    - ~~to calculate;~~
     - to spread;
-    - a reason, a plan;
-    - an account, for which the next is used [[**see $賬zoeng3**]];
+    - ~~a reason, a plan;~~
+    - [[...]];
     - _p(o\)(3) ch(e/)ung(3)_
         [[bou3 zoeng3 布帳]]
         an awning;
@@ -1053,6 +1053,9 @@ W
         [[sau6 zoeng3 壽帳]]
         a scroll given to old people.
     ==
+    --
+    [[Otherwise, an alternative form of 賬. **See $賬zoeng3 for the canonical entry.**]]
+    --
   ====
 $$
 
@@ -1230,6 +1233,12 @@ F
   ==
 W
   ====
+  - [[Page~34|n77 帳(3)]]
+    ==
+    - [[...]];
+    - an account, for which the next [[賬]] is used [[Kangxi 帳: 計簿也]];
+    - [[...]].
+    ==
   - [[Page~34|n77 賬(3)]]
     --
     An unauthorized character.
