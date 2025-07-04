@@ -1201,7 +1201,7 @@ W
   ====
   - [[Page~35|n78 脹(3)]]
     ==
-    - A swelled belly;
+    - A swelled belly [[Kangxi: 腹滿也]];
     - a swelling;
     - dropsical;
     - _(2)shui ch(e/)ung(3)_
