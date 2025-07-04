@@ -1364,14 +1364,14 @@ W
   ====
   - [[Page~35|n78 障(3)]]
     ==
-    - To separate;
-    - to divide;
+    - To separate [[Kangxi: 隔也]];
+    - to divide [[Kangxi: 界也]];
     - to shut up, to include;
     - to raise an embankment;
     - something which prevents progress;
     - an intervening distance;
-    - a barricade, a trench, a fence;
-    - a protection, as a carpet;
+    - a barricade [[Kangxi: 障衞也]], a trench, a fence;
+    - a protection, ~~as a carpet~~;
     - a dike, a terminus;
     - _(2)p(a/)n ch(e/)ung(3)_
         [[baan2 zoeng3 板障]]
@@ -1388,6 +1388,11 @@ W
         to close against ingress.
     ==
   ====
+P
+  ++
+  1. A screen (Kangxi: 步障也).
+  1. Used in 故障 (malfunction, failure).
+  ++
 $$
 
 
