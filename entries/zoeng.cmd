@@ -1546,6 +1546,9 @@ R
   ⼈ + 12
 U
   U+50CF
+H
+  May appear as either ⿰亻象 (assumed here) or ⿰亻𧰼,
+  depending on the font.
 F
   ==
   - [[F1.93 像]] 形像又倣摸也
@@ -1684,6 +1687,9 @@ R
   ⽊ + 12
 U
   U+6A61
+H
+  May appear as either ⿰木象 (assumed here) or ⿰木𧰼,
+  depending on the font.
 F
   [[Not present]]
 W
@@ -1720,6 +1726,7 @@ U
 A
   ==
   - $像6 (for "image" senses)
+  - 𧰼
   ==
 F
   ==
