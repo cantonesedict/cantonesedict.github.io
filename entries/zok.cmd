@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zok
-* %date-modified --> 2025-02-05
+* %date-modified --> 2025-07-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -65,10 +65,10 @@ W
   ====
   - [[Page~592 作(8)]]
     ==
-    - To act, to do, to make;
-    - to begin, to discover, to invent;
-    - to arise, to appear;
-    - to rouse, to animate, as to a reform;
+    - To act, to do, to make [[Kangxi: 爲也]];
+    - to begin [[Kangxi: 始也]], to discover, to invent [[Kangxi: 造也]];
+    - to arise, to appear [[Kangxi: 興起也]];
+    - to rouse, to animate [[Kangxi: 振也]], as to a reform;
     - work, workmanship;
     - _tsok(8) (4)wai_
         [[zok3 wai4 作為]]^
@@ -113,6 +113,13 @@ C
   ==
   - Williams' 工作: Now "work".
   ==
+E
+  ====
+  - 【老作】 (lou5 zok3):
+    ++
+    1. To make up, to fabricate.
+    ++
+  ====
 $$
 
 ###+ 昨3 | _Tsok(8)_ (zok3)
