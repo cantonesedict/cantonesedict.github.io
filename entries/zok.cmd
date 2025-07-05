@@ -306,17 +306,26 @@ W
   ====
   - [[Page~26* 濯(9)]]
     ==
-    - To rinse, to wash;
-    - fat, sleek, bright;
-    - to drink;
+    - To rinse, to wash [[Kangxi: {𤃬=⿰氵⿰龺⿱𠆢赤}也, 濯滌也, 濯漑也]];
+    - fat [[Kangxi: 濯濯肥也]], sleek, bright [[Kangxi: 光明也]];
+    - ~~to drink [[Kangxi: 飮也]]~~;
     - _chok(9) chok(9)_
         [[zok6 zok6 濯濯]]
         sleek, as fat animals;
     - _(2)sh(a/) chok(9)_
         [[saa2 zok6 灑濯]]
-        to sprinkle (_i.~e._~cleanse) the heart.
+        to sprinkle (_i.~e._~cleanse) the heart [[Kangxi: 洗心亦曰洒濯]].
     ==
   ====
+C
+  ==
+  - Williams' "to drink": Kangxi 將飮之而跪之曰賜濯 is erroneous.
+    Here, 賜濯 should be 賜灌 from the Classic of Rites.
+  ==
+P
+  ++
+  1. Without vegetation (of a hill) (Kangxi: 山無草木之貌).
+  ++
 $$
 
 ###+ 笮6 | _Tsok(9)_ (zok6)
