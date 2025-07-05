@@ -446,7 +446,7 @@ U
   U+9DDF
 V
   ==
-  - zuk6 (per Fan Wan)
+  - zuk6 (per Kangxi 叶昨木切 and Fan Wan)
   ==
 F
   ==
@@ -456,16 +456,11 @@ W
   ====
   - [[Page~599 鷟(9) _Tsuk(9)_ (zuk6); here normalised to _Chok(9)_ (zok6)]]
     ==
-    - A phœnix of a carnation color;
-    - a large species of duck near river banks;
+    - A phœnix of a carnation color [[Kangxi: 鸑鷟也, 紫鳳曰鷟]];
+    - a large species of duck near river banks [[Kangxi: 江中有鸑鷟似鳧而大此別一種]];
     - an albatross.
     ==
   ====
-C
-  ==
-  - The reading _tsuk(9)_ (zuk6) is not unattested;
-    Kangxi has 又叶昨木切音族義同.
-  ==
 S
   ==
   - $鷟zuk6
