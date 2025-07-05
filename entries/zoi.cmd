@@ -488,9 +488,9 @@ W
   - [[Page~589 再(3)]]
     ==
     - Again;
-    - doubled, repeated;
-    - a second time;
-    - then, further, continued, longer;
+    - doubled, repeated [[Kangxi: 兩也, 重也]];
+    - a second time [[Kangxi: 一舉而二也]];
+    - then, further, continued, longer [[Kangxi: 仍也]];
     - to repeat;
     - _(2)ts(')ing tsoi(3) (2)kong_
         [[cing2 zoi3 gong2 請再講]],
