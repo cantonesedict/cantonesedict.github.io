@@ -641,7 +641,7 @@ W
         freight money;
     - _(1)chong m(a/)n(6) p(a/)t(8) tsoi(6)_
         [[zong1 maan6 baat3 zoi6 裝萬八儎]]
-        she carries 18,000 catties.
+        she carries 18,000~catties.
     ==
   ====
 $$
