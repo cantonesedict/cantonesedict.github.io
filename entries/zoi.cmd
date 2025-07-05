@@ -137,10 +137,10 @@ W
   ====
   - [[Page~588 (1)栽]]
     ==
-    - To plant seed;
-    - to set out saplings, to put suckers in the ground;
+    - To plant seed [[Kangxi: 種也]];
+    - to set out saplings, to put suckers in the ground [[Kangxi: 草木之殖曰栽]];
     - to hill, to heap up earth at the roots;
-    - a sapling;
+    - a sapling [[Kangxi: 穉曰栽長曰樹]];
     - to assist;
     - _(1)f(a/) (1)tsoi_
         [[faa1 zoi1 花栽]],
@@ -153,6 +153,14 @@ W
         he is worthy of your care.
     ==
   ====
+P
+  ++
+  1. To tumble, to fall.
+  ++
+S
+  ==
+  - $栽zoi6
+  ==
 $$
 
 ### 災1 | _(1)Tsoi_ [[zoi1]]
@@ -563,6 +571,7 @@ $$
 =={.modern}
 - $儎6
 - $在6
+- $栽6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -710,5 +719,26 @@ C
   - Williams' 在位幾耐呢: Changed _(1)n(i/)_ (ni1) to modern _(1)n(e/)_ (ne1).
   - Williams' 在下低: Corrected _(2)tai_ (dai2) to _(1)tai_ (dai1).
   - Williams' 不在乎: Changed _(4)(u/)_ (wu4) to common reading _(4)f(u/)_ (fu4).
+  ==
+$$
+
+###+ 栽6 | _Tsoi(6)_ (zoi6)
+
+$$
+R
+  ⽊ + 6
+U
+  U+683D
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Long panelling used to construct walls (Kangxi: 築牆長板).
+  ++
+S
+  ==
+  - $栽zoi1
   ==
 $$
