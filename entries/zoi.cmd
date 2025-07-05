@@ -416,8 +416,8 @@ W
   ====
   - [[Page~589 (2)載]]
     ==
-    - A year;
-    - to commence, as after a full revolution;
+    - A year [[Kangxi: 年也]];
+    - to commence, as after a full revolution [[Kangxi: 載始也取物終更始之義]];
     - _p(u/)n(3) (2)tsoi_
         [[bun3 zoi2 半載]],
         half a year;
@@ -428,6 +428,31 @@ W
         [[gei2 zoi2 幾載]],
         several years.
     ==
+  - [[Page~589 載(3) _Tsoi(3)_ (zoi3); here corrected to _(2)Tsoi_ (zoi2)]]
+    ==
+    - [[...]];
+    - an incalculably high number;
+    - [[...]].
+    ==
+  ====
+C
+  ====
+  - Williams' "incalculably high number":
+    Based on the progression 億兆京垓秭壤溝澗正載, one of the following:
+    ==
+    - 10<sup>14</sup>
+      (starting from 億 = 10<sup>5</sup> and going up by factors of 10);
+    - 10<sup>17</sup>
+      (starting from 億 = 10<sup>8</sup> and going up by factors of 10);
+    - 10<sup>44</sup>
+      (starting from 億 = 10<sup>8</sup> and going up by factors of 10<sup>4</sup>);
+    - 10<sup>4096</sup>
+      (starting from 億 = 10<sup>8</sup> and going up by squares).
+    ==
+    It is an intuitive feeling that has led me to put this sense
+    under rising-tone _(2)tsoi_ (zoi2) rather than departing-tone _tsoi(3)_ (zoi3)^,
+    noting I have not seen solid evidence to back up my decision.
+    I am happy to be proven wrong, and for Williams to be vindicated.
   ====
 S
   ==
@@ -512,6 +537,10 @@ R
   ⾞ + 6
 U
   U+8F09
+V
+  ==
+  - zoi6 (per 《廣韻》昨代切 for "transport" sense)
+  ==
 F
   ==
   - [[F2.45 載]] 裝載又載籍
@@ -520,16 +549,16 @@ W
   ====
   - [[Page~589 載(3)]]
     ==
-    - To contain, to hold, as a carriage or ship;
-    - to fill in, to load on, to bear, to sustain;
-    - to act, to do, to [fulfil], to effect;
-    - to record;
-    - to adorn, to beautify;
-    - to load in and transport;
+    - To contain, to hold, as a carriage or ship [[Kangxi: 乗也]];
+    - to fill in, to load on, to bear, to sustain [[Kangxi: 承也勝也]];
+    - to act, to do [[Kangxi: 行也]], to [fulfil] [[Kangxi: 成也]], to effect;
+    - to record [[Kangxi: 記載也]];
+    - to adorn, to beautify [[Kangxi: 飾也]];
+    - to load in and transport [[Kangxi: 舟車運物也]];
     - written, recorded;
-    - filled, loaded;
-    - an auxiliary word, then, thereupon;
-    - an incalculably high number;
+    - filled, loaded [[Kangxi: 滿也]];
+    - an auxiliary word, then, thereupon [[Kangxi: 則也助語辭]];
+    - [[...]];
     - _(1)chong tsoi(3)_
         [[zong1 zoi3 裝載]]
         to store, to load, as a carriage;
@@ -557,6 +586,10 @@ C
   ==
   - Williams' 冇嘢載住: Corrected _ch(u:)(3)_ (zyu3) to _ch(u:)(6)_ (zyu6).
   ==
+P
+  ++
+  1. Deeds, works (Kangxi: 事也).
+  ++
 S
   ==
   - $載zoi2
@@ -611,18 +644,6 @@ W
         she carries 18,000 catties.
     ==
   ====
-C
-  ==
-  - Although Williams deems this "a colloquial word",
-    there is olden attestation for 載 _tsoi(6)_ (zoi6) meaning "load":
-    """"
-    ::B4.w427a0106 (:昨代切:) (:載:) (:運也:)::
-    """"
-    """"
-    ::K. (:載:) [...]又《廣韻》《集韻》《韻會》(:{𠀤=⿱夶一}昨代切音在:)《集韻》(:舟車運物也:)\
-    《詩小雅》其車旣載《註》(:才再反:)[...]::
-    """"
-  ==
 $$
 
 ### 在6 | _Tsoi(6)_ [[zoi6]]
