@@ -352,11 +352,11 @@ W
   ====
   - [[Page~588 (2)宰]]
     ==
-    - To govern, to rule, to superintend;
-    - to fashion to one's liking;
-    - a ruler, a headman, a governor;
-    - to slaughter animals, to butcher, to skin and dress animals;
-    - to cook;
+    - To govern, to rule, to superintend [[Kangxi: 治也, 主也, 制也, 爲事物主也]];
+    - ~~to fashion to one's liking;~~
+    - a ruler, a headman, a governor [[Kangxi: 官稱]];
+    - to slaughter animals, to butcher, to skin and dress animals [[Kangxi: 屠也烹也]];
+    - ~~to cook;~~
     - _(2)tsoi s(e/)ung(3)_
         [[zoi2 soeng3 宰相]]
         a prime-minister;
@@ -366,7 +366,7 @@ W
         the mind;
     - _(1)k(a/) (2)tsoi_
         [[gaa1 zoi2 家宰]],
-        a steward;
+        a steward [[Kangxi: 家臣之長曰宰, 諸宰家宰也]];
     - _kam(3) (2)ch(i/) (4)t(')(o\) (2)tsoi_
         [[gam3 zi2 tou4 zoi2 禁止屠宰]],
         prohibited the butchering of animals, as in time of drought;
