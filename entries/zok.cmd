@@ -133,10 +133,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Reading variation. **See $昨zok6 for the canonical entry.**
-  ==
+P
+  ++
+  1. Reading variation. **See $昨zok6 for the canonical entry.**
+  ++
 S
   ==
   - $昨zok6
@@ -238,7 +238,7 @@ W
   ====
   - [[Page~592 昨(9)]]
     ==
-    - Yesterday;
+    - Yesterday [[Kangxi: 累日也, 昨日隔一宵也]];
     - time past;
     - recently;
     - _tsok(9) yat(9)_
