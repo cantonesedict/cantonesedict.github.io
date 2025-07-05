@@ -366,8 +366,8 @@ W
   ====
   - [[Page~592 酢(9)]]
     ==
-    - To pledge a host, to return health;
-    - to recompense, to return a compliment.
+    - To pledge a host, to return health [[Kangxi: 客酌主人也, 酬酢]];
+    - to recompense, to return a compliment [[Kangxi: 酢報也]].
     ==
   ====
 S
