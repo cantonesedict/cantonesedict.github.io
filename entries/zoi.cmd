@@ -188,9 +188,9 @@ W
   ====
   - [[Page~588 (1)災(1)灾(1)烖]]
     ==
-    - Natural calamities, as floods or drought;
+    - Natural calamities [[Kangxi 災: 天火也]], as floods or drought;
     - divine judgments, plagues;
-    - misfortunes, miseries, dangers;
+    - misfortunes, miseries, dangers [[Kangxi 災: 害也]];
     - adverse, calamitous, unfortunate;
     - _(1)tsoi hoi(6)_
         [[zoi1 hoi6 災害]]
