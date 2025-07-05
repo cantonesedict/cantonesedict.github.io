@@ -662,13 +662,13 @@ W
   - [[Page~589 在(6)]]
     ==
     - To be in, to pertain to, to be at;
-    - to reside, to remain, to live, to dwell at;
+    - to reside, to remain, to live, to dwell at [[Kangxi {𡉈=⿸扌土}: 居也]];
     - to belong to, to consist in;
     - involved in, depending on;
     - to be preserved or continue;
-    - existing, being, alive;
+    - existing, being, alive [[Kangxi {𡉈=⿸扌土}: 存也]];
     - is in, in, at;
-    - to examine;
+    - to examine [[Kangxi {𡉈=⿸扌土}: 察也]];
     - a place, a home;
     - _(4)'m tsoi(6) uk(7)_
         [[m4 zoi6 uk1 唔在屋]]
@@ -741,6 +741,10 @@ C
   - Williams' 在下低: Corrected _(2)tai_ (dai2) to _(1)tai_ (dai1).
   - Williams' 不在乎: Changed _(4)(u/)_ (wu4) to common reading _(4)f(u/)_ (fu4).
   ==
+P
+  ++
+  1. Whereabouts (Kangxi: 所在也).
+  ++
 $$
 
 ###+ 栽6 | _Tsoi(6)_ (zoi6)
