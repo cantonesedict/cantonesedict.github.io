@@ -177,7 +177,7 @@ W
   ====
   - [[Page~592 怍(9)]]
     ==
-    - Ashamed, disconcerted, out of countenance;
+    - Ashamed, disconcerted [[Kangxi: 慚也, 心作動也]], out of countenance [[Kangxi: 顏色變也, 色不和曰怍]];
     - to blush, to redden;
     - blushing, shamefaced.
     ==
