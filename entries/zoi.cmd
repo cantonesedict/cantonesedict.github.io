@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoi
-* %date-modified --> 2025-03-27
+* %date-modified --> 2025-07-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -70,13 +70,13 @@ W
   ====
   - [[Page~588 (1)哉]]
     ==
-    - An interjection of praise or surprise;
-    - an interrogative particle, intimating doubt or conviction, according to the scope;
+    - An interjection [[Kangxi: 言之閒也]] of praise or surprise;
+    - an interrogative particle, intimating doubt or conviction, according to the scope [[Kangxi: 疑辭也]];
     - a superlative;
-    - a particle placed after important words to draw attention,
+    - a particle placed after important words to draw attention [[Kangxi: 語助]],
       but the regimen alters its meaning much;
-    - to begin;
-    - to burst forth, as plants in spring;
+    - to begin [[Kangxi: 哉始也]];
+    - ~~to burst forth, as plants in spring;~~
     - _(4)k(')(i/) k(u/)(3) (4)ho (1)tsoi_
         [[kei4 gu3 ho4 zoi1 其故何哉]],
         on what account, pray?
@@ -114,6 +114,9 @@ W
   ====
 C
   ==
+  - Williams' "to burst forth, as plants in spring": This is a misreading of Kangxi 說文云才草木之初也以聲近借爲哉始之哉,
+    which says that the "begin" sense of 哉 was sometimes spelt 才 due to the phonetic nearness
+    and the (now considered incorrect) explanation of 才 as a sprouting plant in 《說文》.
   - Williams' 仁遠乎哉: Changed _(4)(u/)_ (wu4) to common reading _(4)f(u/)_ (fu4).
   - Williams' 野哉由也: Corrected _y(a/)(6)_ (jaa6) to _(5)y(a/)_ (jaa5).
   ==
