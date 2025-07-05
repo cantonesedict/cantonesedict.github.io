@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2025-07-04
+* %date-modified --> 2025-07-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -400,7 +400,7 @@ W
   ====
   - [[Page~566 (1)漿(1)䊢]]
     ==
-    - Thick, half fluid, pasty [[Kangxi: 酢漿也一曰水米汁相將也]];
+    - Thick, half fluid, pasty [[Kangxi 漿: 酢漿也一曰水米汁相將也]];
     - starch, syrup, pus, or matter;
     - to starch;
     - broth boiled down thick, congee;
