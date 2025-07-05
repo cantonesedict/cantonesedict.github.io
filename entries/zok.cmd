@@ -385,6 +385,7 @@ U
   U+947F
 V
   ==
+  - zok3 (per 《廣韻》則落切 for "bright/clear" sense)
   - zok6-2 (vernacular rising-tone noun)
   ==
 F
@@ -395,12 +396,12 @@ W
   ====
   - [[Page~592 鑿(9)]]
     ==
-    - A chissel, a punch;
+    - A chissel, a punch [[Kangxi: 鏨也, 鑿所以穿木也]];
     - a cold chissel;
-    - to cut, to bore into, to chissel;
+    - to cut, to bore into, to chissel [[Kangxi: 穿木也]];
     - to dig, as a well;
-    - to open out, as a road;
-    - to brand, to mark, as a thief;
+    - to open out, as a road [[Kangxi: 開也]];
+    - to brand, to mark [[Kangxi: 黥{𠛬=⿰幵刂}]], as a thief;
     - _shek(9) tsok(9)_
         [[sek6 zok6-2 石鑿]]
         a stone chissel;
@@ -426,11 +427,14 @@ C
   ==
   - Fan Wan entry: Normalised headword ⿱⿰凿殳金 to 鑿,
     and corrected ⿱⿰車⿱𠂉力金 to 鏨.
-  - Williams' 言之鑿鑿可聽:
-    Corrected _t(')eng(3)_ (teng3) to _t(')ing(3)_ (ting3).
-    Note that in this sense ("clear"),
-    the classical reading of 鑿 is _tsok(8)_ (zok3) per 《廣韻》則落切.
+  - Williams' 言之鑿鑿可聽: Corrected _t(')eng(3)_ (teng3) to _t(')ing(3)_ (ting3).
   ==
+P
+  ++
+  1. To employ far-fetched or outlandish reasoning (Kangxi: 恣意不求合義理謂之鑿).
+  1. Bright, clear (Kangxi: 鮮明貌).
+  1. Definite, reliable, irrefutable.
+  ++
 $$
 
 ###+ 鷟6 | _Chok(9)_ (zok6)
