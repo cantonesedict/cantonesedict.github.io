@@ -726,11 +726,11 @@ W
   ====
   - [[Page~28* 壯(3)]]
     ==
-    - Robust, strong, bold, lusty, hardy, healthy;
-    - full grown, manhood;
-    - age of thirty;
-    - full, flourishing;
-    - a cauterization;
+    - Robust, strong, bold, lusty, hardy, healthy [[Kangxi: 彊也]];
+    - full grown [[Kangxi: 大也]], manhood;
+    - age of thirty [[Kangxi: 三十曰壯]];
+    - full, flourishing [[Kangxi: 盛也]];
+    - a cauterization [[Kangxi: 醫用艾灸一灼謂之壯]];
     - _chong t(a/)i(6)_
         [[zong3 daai6 壯大]]
         lusty, large;
@@ -766,6 +766,11 @@ W
         obstinate, courageous.
     ==
   ====
+P
+  ++
+  1. To enlarge.
+  1. The eighth lunar month (Kangxi: 八月爲壯).
+  ++
 $$
 
 ### 葬3 | _Tsong[(3)]_ [[zong3]]
