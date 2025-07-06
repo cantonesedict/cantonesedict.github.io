@@ -626,9 +626,9 @@ W
   - [[Page~593 (1)贓(1)賍]]
     ==
     - Booty, plunder, loot, stolen goods;
-    - to receive bribes;
-    - to suborn, to bribe;
-    - to hide, to secrete;
+    - to receive bribes [[Kangxi: 納賄曰贓]];
+    - ~~to suborn, to bribe;~~
+    - ~~to hide, to secrete;~~
     - _(1)tsong (1)k(u/)n_
         [[zong1 gun1 贓官]],
         an officer who takes bribes;
@@ -650,6 +650,8 @@ W
 C
   ==
   - Fan Wan entry: Corrected missing final stroke of 財.
+  - Williams' "to hide, to secrete": This is a misreading of Kangxi 藏也,
+    which should be rendered as a noun, "[that] stored".
   ==
 $$
 
