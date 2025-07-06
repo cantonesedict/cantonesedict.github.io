@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cong
-* %date-modified --> 2025-03-16
+* %date-modified --> 2025-07-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -887,6 +887,7 @@ $$
 - $幢4
 - $床4
 - $牀4
+- $臧4
 - $藏4
 ==
 </nav>
@@ -1004,6 +1005,27 @@ C
   ==
 $$
 
+###+ 臧4 | _(4)Ts(')ong_ (cong4)
+
+$$.
+R
+  ⾂ + 8
+U
+  U+81E7
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 藏. **See $藏cong4 for the canonical entry.**
+  ++
+S
+  ==
+  - $臧zong1
+  ==
+$$
+
 ### 藏4 | _(4)Ts(')ong_ [[cong4]]
 
 $$
@@ -1011,6 +1033,10 @@ R
   ⾋ + 14
 U
   U+85CF
+A
+  ==
+  - $臧4
+  ==
 F
   ==
   - [[F1.97 藏]] ::[匿]也隱也[蓄]也::
