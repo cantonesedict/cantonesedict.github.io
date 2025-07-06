@@ -876,6 +876,7 @@ U
   U+649E
 V
   ==
+  - cong4 (alternative per 《廣韻》宅江切)
   - zong6-2 (in 撞邪, 撞鬼)
   ==
 F
@@ -887,9 +888,9 @@ W
   - [[Page~28* 撞(6)]]
     ==
     - To beat, to pound;
-    - to run or knock against, to dash upon or against;
+    - to run or knock against, to dash upon or against [[Kangxi: 突也又擊也]];
     - to tap on, as a hoop;
-    - to strike accidentally or abruptly;
+    - to strike accidentally or abruptly [[Kangxi: ::[卂]擣也::]];
     - _chong(6) ch(e/)uk[(9)]_
         [[zong6 zoek6 撞着]]
         to meet suddenly, to run against;
