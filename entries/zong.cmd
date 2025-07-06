@@ -182,8 +182,8 @@ W
   ====
   - [[Page~27* (1)[樁]^]]
     ==
-    - A club;
-    - a post, a stake driven deep into the ground;
+    - ~~A club;~~
+    - a post, a stake driven deep into the ground [[Kangxi: 橛杙也]];
     - _(2)t(a/) (1)chong_
         [[daa2 zong1 打樁]],
         to drive piles;
