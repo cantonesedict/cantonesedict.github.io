@@ -1037,7 +1037,7 @@ W
   ====
   - [[Page~593 臟(6)]]
     ==
-    - The viscera;
+    - The viscera [[Kangxi: 五臟也 etc.]];
     - the entrails;
     - _(5)'ng tsong(6)_
         [[ng5 zong6 五臟]]
