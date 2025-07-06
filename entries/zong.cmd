@@ -793,7 +793,7 @@ W
   ====
   - [[Page~593 ::葬[(3)]塟[(3)]::^]]
     ==
-    - To bury, to inter, to put under the ground;
+    - To bury, to inter, to put under the ground [[Kangxi: 葬者藏也]];
     - _tsong(3) (4)m(a/)i_
         [[zong3 maai4 葬埋]],
         to bury;
