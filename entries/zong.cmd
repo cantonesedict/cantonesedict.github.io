@@ -213,11 +213,11 @@ W
   ====
   - [[Page~593 (1)牂]]
     ==
-    - A ram or ewe;
-    - full, plenty;
+    - A ~~ram or~~ ewe [[Kangxi: 牡羒牝牂]];
+    - full, plenty [[Kangxi: 盛也]];
     - _(1)tsong (1)tsong_
         [[zong1 zong1 牂牂]],
-        flourishing, as foliage.
+        flourishing, as foliage [[Kangxi: 牂牂然盛貌]].
     ==
   ====
 $$
