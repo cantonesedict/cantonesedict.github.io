@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zong
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-07-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -82,7 +82,7 @@ W
   ====
   - [[Page~27* (1)粧(1)妝]]
     ==
-    - To adorn the head;
+    - To adorn [[Kangxi: 飾也]] the head;
     - ornamented, dressed;
     - to dress;
     - to rouge, to adorn;
