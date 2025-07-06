@@ -73,6 +73,7 @@ U
 A
   ==
   - $粧1
+  - $裝1
   ==
 F
   ==
@@ -119,6 +120,11 @@ W
     - _(4)yung (1)chong_
         [[jung4 zong1 濃妝]],
         overdressed, bedizened.
+    ==
+  - [[Page~27* (1)裝]]
+    ==
+    - Used for the preceding [[妝]];
+    - [[...]].
     ==
   ====
 $$
@@ -404,14 +410,14 @@ W
   ====
   - [[Page~27* (1)裝]]
     ==
-    - Used for the preceding [[$妝1]];
-    - to bind, to tie on, to dress;
+    - [[...]];
+    - to bind, to tie on, to dress [[Kangxi: 裝束也]];
     - style, dress, fashion;
-    - to put into, to store, to load or stow in;
+    - to put into, to store, to load or stow in [[Kangxi: 裹也]];
     - to pack;
     - to catch in, as rain;
     - to receive, to contain;
-    - to send to, as a present;
+    - to send to, as a present [[Kangxi: 齎也]];
     - _(4)hang (1)chong_
         [[hang4 zong1 行裝]],
         dress for travel;
@@ -462,6 +468,9 @@ W
         [[zong1 cuk1 hou2 hon3 裝束好看]]
         well dressed.
     ==
+    --
+    [[Otherwise, an alternative form of 妝. **See $妝zong1 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -470,6 +479,21 @@ C
   - Williams' 裝轎: Corrected _(5)^ki(u/)_ (giu6-5) to _(2)ki(u/)_ (giu6-2).
   - Williams' 扮着唐裝: Corrected _ch(e/)uk(8)_ (zoek3) to _ch(e/)uk(9)_ (zoek6).
   ==
+P
+  ++
+  1. To contain within oneself, to conceal (Kangxi: 藏也).
+  1. Used to denote book-binding.
+     ==
+     - 平裝 (ping4 zong1): "Paperback."
+     - 精裝 (zing1 zong1): "Hardback."
+     - 線裝 (sin3 zong1): "Thread-bound."
+     ==
+  1. Used to denote packaging.
+     ==
+     - 罐裝 (gun3 zong1): "Canned."
+     ==
+  1. To pretend, to fake.
+  ++
 E
   ====
   - 【裝飯】 (zong1 faan6):
