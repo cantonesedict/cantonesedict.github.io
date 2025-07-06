@@ -301,6 +301,7 @@ P
 S
   ==
   - $臧cong4
+  - $臧zong6
   ==
 $$
 
@@ -781,6 +782,7 @@ $$
 - $撞6
 - $狀6
 - $臟6
+- $臧6
 - $藏6
 ==
 </nav>
@@ -959,6 +961,10 @@ R
   ⾁ + 18
 U
   U+81DF
+A
+  ==
+  - $臧6
+  ==
 F
   ==
   - [[F1.101 臟]] 臟腑五臟
@@ -989,6 +995,29 @@ C
   ==
 $$
 
+###+ 臧6 | _Tsong(6)_ (zong6)
+
+$$.
+R
+  ⾂ + 8
+U
+  U+81E7
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 藏. **See $藏zong6 for the canonical entry.**
+  1. Alternative form of 臟. **See $臟zong6 for the canonical entry.**
+  ++
+S
+  ==
+  - $臧cong4
+  - $臧zong1
+  ==
+$$
+
 ### 藏6 | _Tsong(6)_ [[zong6]]
 
 $$
@@ -996,6 +1025,10 @@ R
   ⾋ + 14
 U
   U+85CF
+A
+  ==
+  - $臧6
+  ==
 F
   ==
   - [[F1.101 藏]] 收貨財處曰藏又過貪曰無盡藏

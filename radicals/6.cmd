@@ -837,7 +837,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - {$臧cong4, $臧zong1}
+      - {$臧cong4, $臧zong1, $臧zong6}
       ==
       </nav>
 ''
