@@ -978,8 +978,8 @@ W
   ====
   - [[Page~28* 狀(6)]]
     ==
-    - Appearance, form, fashion;
-    - to appear;
+    - Appearance, form [[Kangxi: 形也]], fashion;
+    - ~~to appear;~~
     - to declare in writing;
     - to accuse, to state;
     - an accusation, a complaint;
@@ -994,7 +994,7 @@ W
         in dishabille, unprepared;
     - _chong(6) (4)(u:)n_
         [[zong6 jyun4 狀元]],
-        first of the Hanlin [[]];
+        first of the Hanlin [[翰林]];
     - _k(o\)(3) chong(6)_
         [[gou3 zong6-2 告狀]]
         to accuse one before the court;
@@ -1010,6 +1010,12 @@ W
       notaries, pettifoggers.
     ==
   ====
+P
+  ++
+  1. To describe (Kangxi: 形容之也陳也).
+  1. Merit (recorded in writing) (Kangxi: ::言[...]功狀::).
+  1. A situation.
+  ++
 $$
 
 ### 臟6 | _Tsong(6)_ [[zong6]]
