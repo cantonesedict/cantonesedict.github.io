@@ -325,12 +325,12 @@ W
   ====
   - [[Page~27* (1)莊]]
     ==
-    - Plants growing rank or luxuriantly;
-    - sedate, serious, grave, stern;
+    - Plants growing rank or luxuriantly [[Kangxi: 草盛貌, 艸芽之壯也]];
+    - sedate, serious, grave, stern [[Kangxi: 嚴也]];
     - correct in conduct;
-    - adorned;
-    - a farmhouse;
-    - a road;
+    - adorned [[Kangxi: 盛飾也]];
+    - a farmhouse [[Kangxi: 田舍也]];
+    - a road [[Kangxi: 莊六軌之道]];
     - _(1)chong (4)(i/)m_
         [[zong1 jim4 莊嚴]],
         severely stern;
@@ -341,7 +341,7 @@ W
         [[hong1 zong1 康莊]],
         a level road.
     ==
-  - [[Page~27* (1)庄; here normalised to 莊]]
+  - [[Page~27* (1)庄]]
     ==
     - Used for the above [[莊]];
     - a barn, a grange, a cottage, a workshed;
@@ -376,10 +376,17 @@ W
   ====
 C
   ==
-  - Also "dealer", in gambling games.
+  - Williams' "a road": Specifically, a major road.
+  - Williams' 山莊: Better rendered "villa" or "manor".
+  ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  1. A villa.
+  1. The dealer or banker in gambling games.
+  ++
     <## TODO: 㨆莊 lam6 zong1 ##>
     <## TODO: 過莊 gwo3 zong1 ##>
-  ==
 $$
 
 ### 裝1 | _(1)Chong_ [[zong1]]
