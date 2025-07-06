@@ -50,6 +50,7 @@ $$
 - $戕1
 - $樁1
 - $牂1
+- ${𥅾=⿰目庄}1
 - ${𥊙=⿰目⿳囟儿夊}1
 - $粧1
 - $臧1
@@ -227,6 +228,23 @@ W
         flourishing, as foliage [[Kangxi: 牂牂然盛貌]].
     ==
   ====
+$$
+
+###+ {𥅾=⿰目庄}1 | _(1)Chong_ (zong1)
+
+$$.
+R
+  ⽬ + 6
+U
+  U+2517E
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 䚎. **See $䚎zong1 for the canonical entry.**
+  ++
 $$
 
 ###+ {𥊙=⿰目⿳囟儿夊}1 | _(1)Chong_ (zong1)
@@ -516,6 +534,7 @@ U
   U+468E
 A
   ==
+  - ${𥅾=⿰目庄}1
   - ${𥊙=⿰目⿳囟儿夊}1
   ==
 F
