@@ -58,6 +58,7 @@ $$
 - $䚎1
 - $賍1
 - $贓1
+- $贜1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -558,6 +559,7 @@ A
   ==
   - $臧1
   - $賍1
+  - $贜1
   ==
 F
   ==
@@ -594,6 +596,23 @@ C
   ==
   - Fan Wan entry: Corrected missing final stroke of 財.
   ==
+$$
+
+###+ 贜1 | _(1)Tsong_ (zong1)
+
+$$.
+R
+  ⾙ + 18
+U
+  U+8D1C
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 贓. **See $贓zong1 for the canonical entry.**
+  ++
 $$
 
 
