@@ -275,19 +275,28 @@ W
   ====
   - [[Page~593 (1)臧]]
     ==
-    - Good, generous;
+    - Good [[Kangxi: 臧善也]], generous [[Kangxi: 厚也]];
     - virtuous, faithful;
-    - to scold slaves;
+    - to scold slaves [[Kangxi: ::[...]罵奴曰臧罵婢曰獲::]];
     - _(1)tsong wok[(9)]_
         [[zong1 wok6 臧獲]]
         to berate slaves.
     ==
+    --
+    [[Otherwise, an alternative form of 贓. **See $贓zong1 for the canonical entry.**]]
+    --
   ====
 C
   ==
   - Fan Wan entry: Normalised {𫉬=⿱艹⿰犭隻} to 獲.
+  - Williams' "to scold slaves": Specifically, male slaves.
   - Williams' 臧獲: Corrected _wok(8)_ (wok3) to _wok(9)_ (wok6).
   ==
+P
+  ++
+  1. To commend, to praise.
+  1. A slave.
+  ++
 $$
 
 ### 莊1 | _(1)Chong_ [[zong1]]
@@ -547,6 +556,7 @@ U
   U+8D13
 A
   ==
+  - $臧1
   - $賍1
   ==
 F
