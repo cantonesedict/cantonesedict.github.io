@@ -233,10 +233,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Alternative form of 䚎. **See $䚎zong1 for the canonical entry.**
-  ==
+P
+  ++
+  1. Alternative form of 䚎. **See $䚎zong1 for the canonical entry.**
+  ++
 $$
 
 ### 粧1 | _(1)Chong_ [[zong1]]
