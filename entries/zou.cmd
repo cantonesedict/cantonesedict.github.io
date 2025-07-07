@@ -241,8 +241,8 @@ W
   ====
   - [[Page~584 (2)早]]
     ==
-    - The morning;
-    - early, soon;
+    - The morning [[Kangxi: 晨也]];
+    - early, soon [[Kangxi: 先也]];
     - betimes, beforehand, early, previously;
     - just commenced, unskilled;
     - then, presently;
