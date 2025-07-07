@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zou
-* %date-modified --> 2025-07-04
+* %date-modified --> 2025-07-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -68,7 +68,7 @@ W
     ==
     - Rent in kind;
     - rental, rent;
-    - tribute, taxes;
+    - tribute, taxes [[Kangxi: 凡稅皆曰租]];
     - to rent;
     - _(1)ts(o\) (4)ngan_
         [[zou1 ngan4 租銀]],
@@ -96,6 +96,12 @@ W
         to raise the rent.
     ==
   ====
+P
+  ++
+  1. Land tax levied on farmers (Kangxi: 田賦也).
+  1. To accumulate (Kangxi: 積也).
+  1. Grain-stalks (Kangxi: 田中禾稭也).
+  ++
 $$
 
 ### 糟1 | _(1)Ts(o\)_ [[zou1]]
