@@ -169,10 +169,10 @@ W
   ====
   - [[Page~584 (1)遭]]
     ==
-    - To encounter, to meet;
+    - To encounter, to meet [[Kangxi: 遇也]];
     - to suffer, to endure, to occur, to happen;
-    - to cruize, to go about;
-    - to make a revolution;
+    - to cruize, to go about [[Kangxi: 巡也]];
+    - to make a revolution [[Kangxi: 遭猶匝也]];
     - an occasion, a time;
     - _(1)ts(o\) ts(')(a/)k(9) k(i/)p(8)_
         [[zou1 caak6 gip3 遭賊劫]]
@@ -197,6 +197,10 @@ W
         be patient with him, don't berate him.
     ==
   ====
+P
+  ++
+  1. To meander (Kangxi: 邐行也).
+  ++
 $$
 
 
