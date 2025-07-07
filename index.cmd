@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Home
-* %date-modified --> 2024-12-22
+* %date-modified --> 2025-07-07
 * %copyright-prior-years --> 2023--
 * %modern-colour --> crimson
 * %meta-description --> home page
@@ -232,14 +232,14 @@ consisting of:
 1. Under each Jyutping pronunciation,
    sorting the entries by radical+strokes, then Unicode code point;
 
-1. Inserting Jyutping (__%modern-colour sans-serif text__)
+1. Inserting Jyutping (%modern-colour sans-serif text)
    alongside the Williams romanisations;
 
-1. Inserting characters (__%modern-colour sans-serif text__)
+1. Inserting characters (%modern-colour sans-serif text)
    if not already supplied alongside the Williams romanisations,
    where practicable (with assistance from Eitel's 1877 Dictionary);
 
-1. Inserting commentary (__%modern-colour sans-serif text__)
+1. Inserting commentary (%modern-colour sans-serif text)
    and cross-reference links (blue);
 
 1. Adding entries for some characters that were not recorded by Williams.
