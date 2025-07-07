@@ -375,7 +375,7 @@ W
   - [[Page~585 (2)璪]]
     ==
     - Pendents of precious stones or pearls
-      hung like beads around the edge of a coronet.
+      hung like beads around the edge of a coronet [[Kangxi: 雜采絲貫玉爲冕飾]].
     ==
   ====
 $$
