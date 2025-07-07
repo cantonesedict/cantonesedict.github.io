@@ -119,8 +119,7 @@ W
   ====
   - [[Page~584 (1)糟]]
     ==
-    - The sediment;
-    - grains left after distilling spirits;
+    - The sediment [of] grains left after distilling spirits [[Kangxi: 酒滓也, 泲曰淸不泲曰糟]];
     - dregs;
     - _(1)ts(o\) (1)hong_
         [[zou1 hong1 糟糠]],
@@ -136,6 +135,15 @@ W
         a wife who has passed through poverty with one.
     ==
   ====
+C
+  ==
+  - Williams' "The sediment": Corrected succeeding semicolon to "of".
+  ==
+P
+  ++
+  1. To pickle in wine.
+  1. To rot, to decompose.
+  ++
 E
   ====
   - 【糟質】 (zou1 zat1):
