@@ -497,13 +497,13 @@ W
   ====
   - [[Page~585 (2)藻]]
     ==
-    - A sort of aquatic grass (a Vallisneria?)
-      which ducks delight in;
+    - A sort of aquatic grass (a Vallisneria?) [[Kangxi: 水草也]]
+      which ducks delight in [[Kangxi: 鳧得水藻言喜悅也]];
     - to joy in, delighted with;
     - _met._ fine composition, because this grass is marked;
     - _(4)f(u/) (2)ts(o\) (1)ch(i/) sz'(6)_
         [[fu4 zou2 zi1 si6 鳧藻之士]]
-        officers mutually pleased;
+        officers ~~mutually~~ pleased;
     - _(2)hoi (2)ts(o\)_
         [[hoi2 zou2 海藻]],
         conferva or algæ.
