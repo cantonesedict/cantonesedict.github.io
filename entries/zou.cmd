@@ -322,7 +322,7 @@ W
   ====
   - [[Page~584 (2)棗]]
     ==
-    - The fruit of the Cannarium or jujube tree;
+    - The fruit of the Cannarium or jujube tree [[Kangxi: 果名 etc.]];
     - _mat(9) (2)ts(o\)_
         [[mat6 zou2 蜜棗]],
         dried dates, the fruit of this tree;
@@ -330,7 +330,7 @@ W
         [[hung4 zou2 紅棗]],
         red jujube plums;
     - the _(2)ts(o\)_ [[zou2 棗]] and _lut(9)_ [[leot6 栗]]
-      are emblematic of female virtue.
+      are emblematic of female virtue [[Kangxi: 以早自謹飭爲義棗早也栗肅也]].
     ==
   ====
 $$
