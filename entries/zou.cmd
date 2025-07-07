@@ -452,13 +452,34 @@ W
   - [[Page~584 (2)組]]
     ==
     - A band, a fillet, a string, a tape,
-      for tying the dress or hair;
-    - a fringe or tuft of silk;
+      for tying [[Kangxi: 綬屬其小者以爲冕纓]] ~~the dress or hair~~;
+    - ~~a fringe or tuft of silk;~~
     - _(2)k(a/)i (2)ts(o\) (1)kwai (4)t(')(i/)n_
         [[gaai2 zou2 gwai1 tin4 解組歸田]],
         to untie the cord and go home --- to resign office.
     ==
   ====
+C
+  ====
+  - Williams' "the dress or hair": These are not technically wrong,
+    per Kangxi's examples from 《儀禮士喪禮》 pertaining to tying:
+    ==
+    - 著組繫《註》組繫可爲結也 (in the context of tying an eye-covering/veil)
+    - 鬠用組《註》用組組束髮也 (for tying the hair)
+    ==
+    However, the *main* definition of 組
+    should not be specific to these applications.
+    The metaphorical sense of "official" comes from the use of such ribbon
+    to tie up an official seal (hence Williams' 解組歸田).
+  ====
+P
+  ++
+  1. Woven ribbon (Kangxi: 組織組也).
+  1. Thin, wide ribbon (Kangxi: 組紃俱爲絛薄闊爲組似繩者爲紃).
+  1. An official (or his seal).
+  1. A group, an organisation.
+  1. To group, to organise.
+  ++
 $$
 
 ### 藻2 | _(2)Ts(o\)_ [[zou2]]
