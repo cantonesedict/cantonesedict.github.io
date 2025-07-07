@@ -242,7 +242,8 @@ consisting of:
 1. Inserting commentary (%modern-colour sans-serif text)
    and cross-reference links (blue);
 
-1. Adding entries for some characters that were not recorded by Williams.
+1. Adding supplementary entries for some characters or senses
+   that were not recorded by Williams.
 ++
 --{.modern}
 **No effort has been made to alter or censor the 1856 Williams text
