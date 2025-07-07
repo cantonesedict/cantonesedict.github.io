@@ -395,15 +395,15 @@ W
   ====
   - [[Page~584 (2)祖]]
     ==
-    - A grandfather;
-    - a progenitor;
+    - A grandfather [[Kangxi: 父之父也]];
+    - a progenitor [[Kangxi: 又先祖始祖通謂之祖]];
     - ancestors;
     - the founder of a family;
-    - an ancestral temple;
-    - the beginning, the origin, the first, as of a family;
-    - to do like, to imitate a founder;
-    - accustomed to;
-    - to worship wayside gods;
+    - an ancestral temple [[Kangxi: 始廟也]];
+    - the beginning, the origin, the first [[Kangxi: 始也上也本也]], ~~as of a family~~;
+    - to do like, to imitate a founder [[Kangxi: 法也]];
+    - accustomed to [[Kangxi: 習也]];
+    - to worship wayside gods [[Kangxi: 祭道神曰祖]];
     - _(1)s(i/)n (2)ts(o\)_ [[sin1 zou2 先祖]]^
         or
       _(2)ts(o\) f(u/)(6)_ [[zou2 fu6 祖父]]
@@ -422,7 +422,7 @@ W
         [[zou2 miu6-2 祖廟]]
         a temple of Sh(a/)ngt(i/) [[上帝]];
         an ancestral temple;
-    - _ling(6) (2)ts(o\)_
+    - _~~(5)n(i/)~~ ling(6) (2)ts(o\)_
         [[ling6 zou2 令祖]],
         your grandfather;
     - _(1)k(a/) (2)ts(o\)_
@@ -430,10 +430,10 @@ W
         my [live] [[these square brackets appear in the original text]] grandfather.
     ==
   ====
-C
-  ==
-  - Williams' 令祖: Corrected from 你令祖.
-  ==
+P
+  ++
+  1. To give a farewell feast.
+  ++
 $$
 
 ### 組2 | _(2)Ts(o\)_ [[zou2]]
