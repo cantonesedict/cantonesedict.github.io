@@ -280,6 +280,13 @@ W
         [[zou2 zou2 早早]]^
         very early.
     ==
+  - [[Page~584 (2)蚤]]
+    --
+    Used for the preceding [[早]].
+    --
+    --
+    [[...]]
+    --
   ====
 E
   ====
@@ -527,14 +534,21 @@ W
   ====
   - [[Page~584 (2)蚤]]
     --
-    Used for the preceding [[$早2]].
+    [[...]]
     --
     ==
-    - A flea;
-    - sand fleas, or those produced in sandy ground;
-    - the rut or trace of a wheel.
+    - A flea [[Kangxi: 嚙人跳蟲也]];
+    - sand fleas, or those produced in sandy ground [[Kangxi: 土乾則生蚤]];
+    - [[...]].
     ==
+    --
+    [[Otherwise, an alternative form of 早. **See $早zou2 for the canonical entry.**]]
+    --
   ====
+S
+  ==
+  - $蚤zaau2
+  ==
 $$
 
 

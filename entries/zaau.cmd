@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaau
-* %date-modified --> 2025-03-20
+* %date-modified --> 2025-07-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -154,6 +154,7 @@ $$
 - $爪2
 - $箒2
 - $肘2
+- $蚤2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -321,6 +322,10 @@ R
   ⽖ + 0
 U
   U+722A
+A
+  ==
+  - $蚤2
+  ==
 F
   ==
   - [[F2.42 爪]] 手足甲也
@@ -427,6 +432,57 @@ C
 S
   ==
   - $肘zau2
+  ==
+$$
+
+###+ 蚤2 | _(2)Ch(a/)u_ (zaau2)
+
+$$
+R
+  ⾍ + 4
+U
+  U+86A4
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~584 (2)蚤 _(2)Ts(o\)_ (zou2); here corrected to _(2)Ch(a/)u_ (zaau2)]]
+    --
+    [[...]]
+    --
+    ==
+    - [[...]];
+    - ~~the rut or trace of a wheel.~~
+    ==
+    --
+    [[Alternative form of 爪. See $爪zaau2.]]
+    --
+  ====
+C
+  ==
+  - Williams' "the rut or trace of a wheel":
+    This is a misreading of Kangxi 謂幅入牙中者也,
+    which is the commentary for the example 《周禮冬官考工記》眡其綆欲其蚤之正也.
+    Admittedly, this example is an incredibly difficult passage to parse,
+    and I too would have failed were it not for 段玉裁's annotations of 《說文》,
+    specifically on the character 箄:
+    """"
+    ::[...]按考工記注鄭司農云綆讀爲關東言餠之餠謂輪箄也\
+    ？謂輪雖箄爪牙必正也[...]箄謂偏僻[...]::
+    """"
+    The passage (眡其綆欲其蚤之正也) therefore reads,
+    "Viewing its deviation, [he] wisheth [that] it [be] clawed correct".
+    The probable meaning is that a crooked wheel
+    should still have spokes going into (or "clawing") the hub perpendicularly.
+  ==
+P
+  ++
+  1. The nails (or to trim them) (Kangxi: 蚤讀爲爪, 謂除手足爪也).
+  1. To install spokes of a wheel perpendicularly into the hub (Kangxi: 蚤當爲爪謂幅入牙中者也).
+  ++
+S
+  ==
+  - $蚤zou2
   ==
 $$
 
