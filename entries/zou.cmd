@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zou
-* %date-modified --> 2025-07-07
+* %date-modified --> 2025-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -584,7 +584,7 @@ W
   - [[Page~585 竈(3)灶(3)]]
     ==
     - A furnace;
-    - a place for cooking, a kitchen-range;
+    - a place for cooking, a kitchen-range [[Kangxi 竈: 炊竈也]];
     - a bunch of grass for fuel;
     - _ts(o\)(3) kwat(7) (1)lung_
         [[zou3 gwat1 lung4-1 灶骨窿]],
