@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2025-04-10
+* %date-modified --> 2025-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -463,7 +463,7 @@ W
   ====
 C
   ==
-  - In modern usage, 州 is used exclusively in the "administrative division" sense,
+  - In modern usage, 州 is used exclusively in the "administrative-division" sense,
     and never for the "island/continent" sense, which is always spelt 洲.
   ==
 $$
@@ -955,7 +955,7 @@ W
   ====
 C
   ==
-  - The reading _(1)tsau_ (zau1) is not unattested, at least for the "small fish" sense;
+  - The reading _(1)tsau_ (zau1) is not unattested, at least for the "small-fish" sense;
     《集韻》 has the reading 將侯切, explained 小魚也.
   ==
 $$

@@ -194,7 +194,7 @@ W
     --
     ==
     <##
-    - [[TODO: 褶dip6 for "lined garment" senses]];
+    - [[TODO: 褶dip6 for "lined-garment" senses]];
     ##>
     - [[...]];
     - _(4)kw(')an ch(a/)p(8)_

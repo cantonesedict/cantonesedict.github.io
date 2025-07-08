@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aau
-* %date-modified --> 2025-03-19
+* %date-modified --> 2025-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -69,7 +69,7 @@ W
   ====
   - [[Page~6 (1)坳]]
     ==
-    - [[Reading variation (for literary "uneven ground" senses). **See $坳aau3 for the canonical entry.**]]
+    - [[Reading variation (for literary "uneven-ground" senses). **See $坳aau3 for the canonical entry.**]]
     ==
     --
     A colloquial word.
@@ -238,7 +238,7 @@ A
   ==
 V
   ==
-  - aau1 (per 《廣韻》於交切 for literary "uneven ground" senses)
+  - aau1 (per 《廣韻》於交切 for literary "uneven-ground" senses)
   - ngaau3 (hypercorrected initial)
   ==
 F

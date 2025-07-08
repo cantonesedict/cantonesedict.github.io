@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2025-03-17
+* %date-modified --> 2025-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -102,7 +102,7 @@ U
   U+5616
 V
   ==
-  - zaak6 (per 《廣韻》士革切 for "cry out" sense)
+  - zaak6 (per 《廣韻》士革切 for "cry-out" sense)
   - zik1 (per Fan Wan, common)
   ==
 F
