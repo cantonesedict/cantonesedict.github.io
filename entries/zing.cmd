@@ -1721,7 +1721,7 @@ A
   ==
 V
   ==
-  - zing6-2 (rising second in vernacular 靜靜地)
+  - zing6-2 (rising second in vernacular 靜靜地, 靜靜雞)
   ==
 F
   ==
@@ -1777,4 +1777,15 @@ P
   1. To plan, to plot (Kangxi: 靜謀也).
   1. Chaste (Kangxi: 靜貞靜也).
   ++
+E
+  ====
+  - 【靜雞雞】 (zing6 gai1 gai1):
+    ++
+    1. Synonym of [靜靜雞](#cantonese-靜靜雞).
+    ++
+  - 【靜靜雞】 (zing6 zing6-2 gai1):
+    ++
+    1. Quietly, stealthily.
+    ++
+  ====
 $$
