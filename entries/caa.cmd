@@ -16,6 +16,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [caa1](#1)
+- [caa2](#2)
 - [caa3](#3)
 - [caa4](#4)
 - [caa5](#5)
@@ -321,6 +322,46 @@ S
   ==
   - $艖co1
   ==
+$$
+
+
+##{#2 .williams} (2)Ch(')(a/) [[caa2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $鑔2
+==
+</nav>
+<## /tone-2-characters ##>
+
+###+ 鑔2 | _(2)Ch(')(a/)_ (caa2)
+
+$$
+R
+  ⾦ + 14
+U
+  U+9454
+V
+  ==
+  - caa4 (for onomatopoeic senses; low first in reduplication 鑔鑔)
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. A (usually small) cymbal.
+     ==
+     - 打鑔鑔 (daa2 caa4 caa2): "Play the cymbal."
+     - 京鑔 (ging1 caa2): "The capital-[style] cymbal."
+     ==
+  1. (_onomatopoeia_) The sound of cymbals in Chinese opera.
+     ==
+     - 鑔鑔拼 (caa4 caa4 peng3): "Char char pang!"
+     ==
+  ++
 $$
 
 
