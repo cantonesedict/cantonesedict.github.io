@@ -31,8 +31,8 @@ WH
   ==
 WP
   ==
-  - Ching <span class="modern">= [tɕɪŋ]</span>
-  - Tsing <span class="modern">= [tsɪŋ]</span>
+  - Ching <span class="modern">= *[tɕɪŋ]</span>
+  - Tsing <span class="modern">= *[tsɪŋ]</span>
   ==
 MP
   ==

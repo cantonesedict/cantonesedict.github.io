@@ -29,7 +29,7 @@ WH
   ==
 WP
   ==
-  - (A/)u <span class="modern">= [aːu]</span>
+  - (A/)u <span class="modern">= *[aːu]</span>
   ==
 MP
   ==

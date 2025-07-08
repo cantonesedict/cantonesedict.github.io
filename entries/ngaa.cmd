@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ngaa
-* %date-modified --> 2024-12-02
+* %date-modified --> 2025-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -33,7 +33,7 @@ WH
   ==
 WP
   ==
-  - Ng(a/) <span class="modern">= [ŋaː]</span>
+  - Ng(a/) <span class="modern">= *[ŋaː]</span>
   ==
 MP
   ==

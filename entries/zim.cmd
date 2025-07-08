@@ -30,8 +30,8 @@ WH
   ==
 WP
   ==
-  - Ch(i/)m <span class="modern">= [tɕiːm]</span>
-  - Ts(i/)m <span class="modern">= [tsiːm]</span>
+  - Ch(i/)m <span class="modern">= *[tɕiːm]</span>
+  - Ts(i/)m <span class="modern">= *[tsiːm]</span>
   ==
 MP
   ==

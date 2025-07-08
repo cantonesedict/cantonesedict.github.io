@@ -30,7 +30,7 @@ WH
   ==
 WP
   ==
-  - Ch(')(a/)u <span class="modern">= [tɕʰaːu]</span>
+  - Ch(')(a/)u <span class="modern">= *[tɕʰaːu]</span>
   ==
 MP
   ==

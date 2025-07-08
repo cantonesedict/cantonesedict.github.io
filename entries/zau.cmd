@@ -31,8 +31,8 @@ WH
   ==
 WP
   ==
-  - Chau <span class="modern">= [tɕɐu]</span>
-  - Tsau <span class="modern">= [tsɐu]</span>
+  - Chau <span class="modern">= *[tɕɐu]</span>
+  - Tsau <span class="modern">= *[tsɐu]</span>
   ==
 MP
   ==

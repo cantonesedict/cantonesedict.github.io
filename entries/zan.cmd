@@ -30,7 +30,7 @@ WH
   ==
 WP
   ==
-  - Chan <span class="modern">= [tɕɐn]</span>
+  - Chan <span class="modern">= *[tɕɐn]</span>
   ==
 MP
   ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Introduction.
-* %date-modified --> 2025-02-26
+* %date-modified --> 2025-07-08
 * %copyright-prior-years --> 2023--
 * %meta-description --> Williams' introduction
 
@@ -987,7 +987,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _(i/)n_ = [iːn], and _(i/)t_ = [iːt̚].)
+  (Best guess: _(i/)n_ = *[iːn], and _(i/)t_ = *[iːt̚].)
   --
   +++}
 
@@ -1001,7 +1001,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _ai_ = [ɐi]. 19th-century English /ʌi/ is almost indistinguishable.)
+  (Best guess: _ai_ = *[ɐi]. 19th-century English /ʌi/ is almost indistinguishable.)
   --
   +++}
 
@@ -1017,7 +1017,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _(i/)_ = [iː].)
+  (Best guess: _(i/)_ = *[iː].)
   --
   +++}
 
@@ -1033,7 +1033,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _(u:)_ = [yː].)
+  (Best guess: _(u:)_ = *[yː].)
   --
   +++}
 
@@ -1049,7 +1049,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _au_ = [ɐu]. 19th-century English /ɑu/ is almost indistinguishable.)
+  (Best guess: _au_ = *[ɐu]. 19th-century English /ɑu/ is almost indistinguishable.)
   --
   +++}
 
@@ -1064,7 +1064,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _ung_ = [oŋ], and _uk_ = [ok̚].
+  (Best guess: _ung_ = *[oŋ], and _uk_ = *[ok̚].
   This is based on interpreting Williams' "so nearly _toong_, _took_"
   as meaning slightly more open than /ʊŋ/ and /ʊk/, wherefore [oŋ] and [ok̚].)
   --
@@ -1088,7 +1088,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _ing_ = [ɪŋ], _ik_ = [ɪk̚], _eng_ = [ɛŋ], and _ek_ = [ɛk̚].)
+  (Best guess: _ing_ = *[ɪŋ], _ik_ = *[ɪk̚], _eng_ = *[ɛŋ], and _ek_ = *[ɛk̚].)
   --
   +++}
 
@@ -1105,7 +1105,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _an_ = [ɐn], and _at_ = [ɐt̚]. English /ʌ/ is almost indistinguishable from [ɐ].)
+  (Best guess: _an_ = *[ɐn], and _at_ = *[ɐt̚]. English /ʌ/ is almost indistinguishable from [ɐ].)
   --
   +++}
 
@@ -1118,7 +1118,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _(e/)ung_ = [eoŋ], and _(e/)uk_ = [eok̚].)
+  (Best guess: _(e/)ung_ = *[eoŋ], and _(e/)uk_ = *[eok̚].)
   --
   +++}
 
@@ -1133,7 +1133,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _ong_ = [ɔːŋ], and _ok_ = [ɔːk̚].)
+  (Best guess: _ong_ = *[ɔːŋ], and _ok_ = *[ɔːk̚].)
   --
   +++}
 
@@ -1153,7 +1153,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _(u/)_ = [uː], and _(o\)_ = [ou].)
+  (Best guess: _(u/)_ = *[uː], and _(o\)_ = *[ou].)
   --
   +++}
 
@@ -1168,7 +1168,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _i(u/)_ = [iːu].
+  (Best guess: _i(u/)_ = *[iːu].
   From [Eitel (1877)][eitel-iu], "a little more prominence is given to the sound _i_",
   wherefore [iːu] instead of [iuː].)
   --
@@ -1184,7 +1184,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _(u:)n_ = [yːn], and _(u:)t_ = [yːt̚].)
+  (Best guess: _(u:)n_ = *[yːn], and _(u:)t_ = *[yːt̚].)
   --
   +++}
 
@@ -1201,7 +1201,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _(a/)i_ = [aːi].)
+  (Best guess: _(a/)i_ = *[aːi].)
   --
   +++}
 
@@ -1218,7 +1218,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _ang_ = [ɐŋ], and _ak_ = [ɐk̚]. English /ʌ/ is almost indistinguishable from [ɐ].)
+  (Best guess: _ang_ = *[ɐŋ], and _ak_ = *[ɐk̚]. English /ʌ/ is almost indistinguishable from [ɐ].)
   --
   +++}
 
@@ -1233,7 +1233,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _z'_ = [ɿː].
+  (Best guess: _z'_ = *[ɿː].
   Note that the symbol ɿ (now considered obsolete) was historically used
   by Sinologists for the so-called apical rime.)
   --
@@ -1250,7 +1250,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _am_ = [ɐm], and _ap_ = [ɐp̚]. English /ʌ/ is almost indistinguishable from [ɐ].)
+  (Best guess: _am_ = *[ɐm], and _ap_ = *[ɐp̚]. English /ʌ/ is almost indistinguishable from [ɐ].)
   --
   +++}
 
@@ -1263,7 +1263,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _(a/)u_ = [aːu].)
+  (Best guess: _(a/)u_ = *[aːu].)
   --
   +++}
 
@@ -1278,7 +1278,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _oi_ = [ɔɪ].)
+  (Best guess: _oi_ = *[ɔɪ].)
   --
   +++}
 
@@ -1291,7 +1291,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _(i/)m_ = [iːm], and _(i/)p_ = [iːp̚].)
+  (Best guess: _(i/)m_ = *[iːm], and _(i/)p_ = *[iːp̚].)
   --
   +++}
 
@@ -1312,7 +1312,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _un_ = [ʊn], and _ut_ = [ʊt̚].)
+  (Best guess: _un_ = *[ʊn], and _ut_ = *[ʊt̚].)
   --
   +++}
 
@@ -1330,7 +1330,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _ui_ = [ʊɪ].)
+  (Best guess: _ui_ = *[ʊɪ].)
   --
   +++}
 
@@ -1345,7 +1345,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _o_ = [ɔː].)
+  (Best guess: _o_ = *[ɔː].)
   --
   +++}
 
@@ -1359,7 +1359,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _(a/)m_ = [aːm], and _(a/)p_ = [aːp̚].)
+  (Best guess: _(a/)m_ = *[aːm], and _(a/)p_ = *[aːp̚].)
   --
   +++}
 
@@ -1374,7 +1374,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _(a/)n_ = [aːn], and _(a/)t_ = [aːt̚].)
+  (Best guess: _(a/)n_ = *[aːn], and _(a/)t_ = *[aːt̚].)
   --
   +++}
 
@@ -1387,7 +1387,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _(a/)_ = [aː].)
+  (Best guess: _(a/)_ = *[aː].)
   --
   +++}
 
@@ -1400,7 +1400,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _(u/)n_ = [uːn], and _(u/)t_ = [uːt̚].)
+  (Best guess: _(u/)n_ = *[uːn], and _(u/)t_ = *[uːt̚].)
   --
   +++}
 
@@ -1414,7 +1414,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _(u/)i_ = [uːɪ].)
+  (Best guess: _(u/)i_ = *[uːɪ].)
   --
   +++}
 
@@ -1428,7 +1428,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _(e/)_ = [eɪ].)
+  (Best guess: _(e/)_ = *[eɪ].)
   --
   +++}
 
@@ -1442,7 +1442,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _on_ = [ɔːn], and _ot_ = [ɔːt̚].)
+  (Best guess: _on_ = *[ɔːn], and _ot_ = *[ɔːt̚].)
   --
   +++}
 
@@ -1458,7 +1458,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _(o\)m_ = [oum], and _(o\)p_ = [oup̚].)
+  (Best guess: _(o\)m_ = *[oum], and _(o\)p_ = *[oup̚].)
   --
   +++}
 
@@ -1474,7 +1474,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _(a/)ng_ = [aːŋ], and _(a/)k_ = [aːk̚].)
+  (Best guess: _(a/)ng_ = *[aːŋ], and _(a/)k_ = *[aːk̚].)
   --
   +++}
 
@@ -1487,7 +1487,7 @@ see [vowel shift chart].)
 
   {+++
   --
-  (Best guess: _ng_ = [ŋ̍], and _m_ = [m̩].)
+  (Best guess: _ng_ = *[ŋ̍], and _m_ = *[m̩].)
   --
   +++}
 ++
@@ -1504,28 +1504,28 @@ having no consonant before it.
 --
 ++{.williams}
 1. Au 毆 [[null initial]]
-2. Chi 之 [[Best guess: _ch_ = [tɕ]^]]
-3. Ch(')ut 出 [[Best guess: _ch(')_ = [tɕʰ]^]]
-4. Fung 風 [[Best guess: _f_ = [f]^]]
-5. Hoi 開 [[Best guess: _h_ = [h]^]]
-6. K(i/)n 見 [[Best guess: _k_ = [k]^]]
-7. K(')ing 傾 [[Best guess: _k(')_ = [kʰ]^]]
-8. Kwai 鬼 [[Best guess: _kw_ = [kʷ]^]]
-9. Kw(')(a/) 誇 [[Best guess: _kw(')_ = [kʷʰ]^]]
-10. Lam 林 [[Best guess: _l_ = [l]^]]
-11. M(a/) 馬 [[Best guess: _m_ = [m]^]]
-12. N(a/)m 南 [[Best guess: _n_ = [n]^]]
-13. Ng(a/) 牙 [[Best guess: _ng_ = [ŋ]^]]
-14. P(a/) 把 [[Best guess: _p_ = [p]^]]
-15. P(')o 婆 [[Best guess: _p(')_ = [pʰ]^]]
-16. S(a/)m 三 [[Best guess: _s_ = [s]^]]
-17. Shing 聖 [[Best guess: _sh_ = [ɕ]^]]
-18. T(a/) 打 [[Best guess: _t_ = [t]^]]
-19. T(')oi 台 [[Best guess: _t(')_ = [tʰ]^]]
-20. Tsing 精 [[Best guess: _ts_ = [ts]^]]
-21. Ts(')ai [齊] [[Best guess: _ts(')_ = [tsʰ]^]]
-22. W(a/) 華 [[Best guess: _w_ = [w]^]]
-23. Ying 英 [[Best guess: _y_ = [j]^]]
+2. Chi 之 [[Best guess: _ch_ = *[tɕ]^]]
+3. Ch(')ut 出 [[Best guess: _ch(')_ = *[tɕʰ]^]]
+4. Fung 風 [[_f_ = [f]^]]
+5. Hoi 開 [[_h_ = [h]^]]
+6. K(i/)n 見 [[_k_ = [k]^]]
+7. K(')ing 傾 [[_k(')_ = [kʰ]^]]
+8. Kwai 鬼 [[_kw_ = [kʷ]^]]
+9. Kw(')(a/) 誇 [[_kw(')_ = [kʷʰ]^]]
+10. Lam 林 [[_l_ = [l]^]]
+11. M(a/) 馬 [[_m_ = [m]^]]
+12. N(a/)m 南 [[_n_ = [n]^]]
+13. Ng(a/) 牙 [[_ng_ = [ŋ]^]]
+14. P(a/) 把 [[_p_ = [p]^]]
+15. P(')o 婆 [[_p(')_ = [pʰ]^]]
+16. S(a/)m 三 [[_s_ = [s]^]]
+17. Shing 聖 [[Best guess: _sh_ = *[ɕ]^]]
+18. T(a/) 打 [[_t_ = [t]^]]
+19. T(')oi 台 [[_t(')_ = [tʰ]^]]
+20. Tsing 精 [[_ts_ = [ts]^]]
+21. Ts(')ai [齊] [[_ts(')_ = [tsʰ]^]]
+22. W(a/) 華 [[_w_ = [w]^]]
+23. Ying 英 [[_y_ = [j]^]]
 ++
 --{.williams}
 The diversities in the initials are so much fewer than those in the

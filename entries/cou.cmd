@@ -31,7 +31,7 @@ WH
   ==
 WP
   ==
-  - Ts(')(o\) <span class="modern">= [tsʰou]</span>
+  - Ts(')(o\) <span class="modern">= *[tsʰou]</span>
   ==
 MP
   ==

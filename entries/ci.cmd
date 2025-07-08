@@ -32,8 +32,8 @@ WH
   ==
 WP
   ==
-  - Ch(')(i/) <span class="modern">= [tɕʰiː]</span>
-  - Ts(')z' <span class="modern">= [tsʰɿː]</span>
+  - Ch(')(i/) <span class="modern">= *[tɕʰiː]</span>
+  - Ts(')z' <span class="modern">= *[tsʰɿː]</span>
   ==
 MP
   ==

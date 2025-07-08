@@ -29,8 +29,8 @@ WH
   ==
 WP
   ==
-  - Chat <span class="modern">= [tɕɐt̚]</span>
-  - Tsat <span class="modern">= [tsɐt̚]</span>
+  - Chat <span class="modern">= *[tɕɐt̚]</span>
+  - Tsat <span class="modern">= *[tsɐt̚]</span>
   ==
 MP
   ==

@@ -27,7 +27,7 @@ WH
   ==
 WP
   ==
-  - (A/)n <span class="modern">= [aːn]</span>
+  - (A/)n <span class="modern">= *[aːn]</span>
   ==
 MP
   ==

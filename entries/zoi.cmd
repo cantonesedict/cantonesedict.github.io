@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoi
-* %date-modified --> 2025-07-05
+* %date-modified --> 2025-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -30,7 +30,7 @@ WH
   ==
 WP
   ==
-  - Tsoi <span class="modern">= [tsɔɪ]</span>
+  - Tsoi <span class="modern">= *[tsɔɪ]</span>
   ==
 MP
   ==

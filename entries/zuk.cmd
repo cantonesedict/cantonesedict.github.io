@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zuk
-* %date-modified --> 2025-03-07
+* %date-modified --> 2025-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -29,8 +29,8 @@ WH
   ==
 WP
   ==
-  - Chuk <span class="modern">= [tɕok̚]</span>
-  - Tsuk <span class="modern">= [tsok̚]</span>
+  - Chuk <span class="modern">= *[tɕok̚]</span>
+  - Tsuk <span class="modern">= *[tsok̚]</span>
   ==
 MP
   ==

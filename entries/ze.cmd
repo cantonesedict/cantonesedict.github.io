@@ -31,8 +31,8 @@ WH
   ==
 WP
   ==
-  - Ch(e/) <span class="modern">= [tɕeɪ]</span>
-  - Ts(e/) <span class="modern">= [tseɪ]</span>
+  - Ch(e/) <span class="modern">= *[tɕeɪ]</span>
+  - Ts(e/) <span class="modern">= *[tseɪ]</span>
   ==
 MP
   ==

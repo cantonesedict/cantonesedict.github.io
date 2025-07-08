@@ -30,8 +30,8 @@ WH
   ==
 WP
   ==
-  - Chik <span class="modern">= [tɕɪk̚]</span>
-  - Tsik <span class="modern">= [tsɪk̚]</span>
+  - Chik <span class="modern">= *[tɕɪk̚]</span>
+  - Tsik <span class="modern">= *[tsɪk̚]</span>
   ==
 MP
   ==

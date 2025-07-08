@@ -32,8 +32,8 @@ WH
   ==
 WP
   ==
-  - Ch(')au <span class="modern">= [tɕʰɐu]</span>
-  - Ts(')au <span class="modern">= [tsʰɐu]</span>
+  - Ch(')au <span class="modern">= *[tɕʰɐu]</span>
+  - Ts(')au <span class="modern">= *[tsʰɐu]</span>
   ==
 MP
   ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2025-03-20
+* %date-modified --> 2025-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -31,8 +31,8 @@ WH
   ==
 WP
   ==
-  - Cham <span class="modern">= [tɕɐm]</span>
-  - Tsam <span class="modern">= [tsɐm]</span>
+  - Cham <span class="modern">= *[tɕɐm]</span>
+  - Tsam <span class="modern">= *[tsɐm]</span>
   ==
 MP
   ==

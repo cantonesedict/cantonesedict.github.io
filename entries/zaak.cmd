@@ -28,7 +28,7 @@ WH
   ==
 WP
   ==
-  - Ch(a/)k <span class="modern">= [tɕaːk̚]</span>
+  - Ch(a/)k <span class="modern">= *[tɕaːk̚]</span>
   ==
 MP
   ==

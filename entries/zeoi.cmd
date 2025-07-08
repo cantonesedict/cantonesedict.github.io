@@ -33,10 +33,10 @@ WH
   ==
 WP
   ==
-  - Chui <span class="modern">= [tɕʊɪ]</span>
-  - Ts(u:) <span class="modern">= [tsyː]</span>
-  - Tsui <span class="modern">= [tsʊɪ]</span>
-  - Ts(u/)i <span class="modern">= [tsuːɪ]</span>
+  - Chui <span class="modern">= *[tɕʊɪ]</span>
+  - Ts(u:) <span class="modern">= *[tsyː]</span>
+  - Tsui <span class="modern">= *[tsʊɪ]</span>
+  - Ts(u/)i <span class="modern">= *[tsuːɪ]</span>
   ==
 MP
   ==

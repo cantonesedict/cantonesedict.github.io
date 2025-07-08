@@ -31,8 +31,8 @@ WH
   ==
 WP
   ==
-  - Chai <span class="modern">= [tɕɐi]</span>
-  - Tsai <span class="modern">= [tsɐi]</span>
+  - Chai <span class="modern">= *[tɕɐi]</span>
+  - Tsai <span class="modern">= *[tsɐi]</span>
   ==
 MP
   ==

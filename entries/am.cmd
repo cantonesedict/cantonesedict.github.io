@@ -30,8 +30,8 @@ WH
   ==
 WP
   ==
-  - Am <span class="modern">= [ɐm]</span>
-  - (O\)m <span class="modern">= [oum]</span>
+  - Am <span class="modern">= *[ɐm]</span>
+  - (O\)m <span class="modern">= *[oum]</span>
   ==
 MP
   ==
