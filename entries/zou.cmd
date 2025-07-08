@@ -792,7 +792,7 @@ W
   ====
   - [[Page~585 皁(6)皂(6)]]
     --
-    [[Alternative form of 皂. **See $皂zou6 for the canonical entry.**]]
+    [[Alternative form of 皂 (for all senses except "soap"). **See $皂zou6 for the canonical entry.**]]
     --
   ====
 $$
@@ -806,7 +806,12 @@ U
   U+7682
 A
   ==
-  - $皁6
+  - $皁6 (for all senses except "soap")
+  - 草 (for "acorn" sense)
+  ==
+V
+  ==
+  - zau2 (per Kangxi 叶子苟切 for "unhardened-seed" sense)
   ==
 F
   ==
@@ -816,10 +821,10 @@ W
   ====
   - [[Page~585 皁(6)皂(6)]]
     ==
-    - A black color;
-    - underlings, lictors, low officers who execute commands;
-    - a stud of twelve horses;
-    - a manger or pen;
+    - A black color [[Kangxi 皁: 色黑也 etc.]];
+    - underlings, lictors, low officers who execute commands [[Kangxi 皁: 皁隸臣也, 賤人也]];
+    - a stud of twelve horses [[Kangxi 皁: 馬十二匹爲皁]];
+    - a manger or pen [[Kangxi 皁: 櫪也, 馬閑, 食牛馬器以木作如槽]];
     - _ts(o\)(6) (1)p(a/)n_
         [[zou6 baan1 皂班]],
         torturers;
@@ -838,6 +843,12 @@ C
   ==
   - Fan Wan entry: Corrected ⿰⿱匕示隶 to 隸.
   ==
+P
+  ++
+  1. Used in 皂斗 (acorn) (Kangxi 皁: 草斗櫟實也).
+  1. Seed that is yet to harden (Kangxi 皁: 穀實未堅曰皁).
+  1. Soap.
+  ++
 $$
 
 ### 祚6 | _Ts(o\)(6)_ [[zou6]]
