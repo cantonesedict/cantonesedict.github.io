@@ -901,12 +901,12 @@ W
   ====
   - [[Page~585 胙(6)]]
     ==
-    - Roasted flesh offered in sacrifices;
-    - to set up an altar to Ceres;
-    - to recompense, to reward;
-    - blessings, happiness;
+    - Roasted flesh offered in sacrifices [[Kangxi: 祭福肉也 etc.]];
+    - to set up an altar to Ceres [[Kangxi: 建置社稷曰胙]];
+    - to recompense, to reward [[Kangxi: 報也有德之人必有美報]];
+    - blessings, happiness [[Kangxi: 福也]];
     - to bless;
-    - a seat, a place;
+    - a seat, a place [[Kangxi: 位也]];
     - _ts(o\)(6) yuk(9)_
         [[zou6 juk6 胙肉]]
         sacrificial flesh;
