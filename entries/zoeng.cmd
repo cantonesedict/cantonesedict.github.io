@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2025-07-05
+* %date-modified --> 2025-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1192,6 +1192,10 @@ A
   ==
   - $張3
   - $漲3
+  ==
+V
+  ==
+  - zoeng3-2 (rising second in 脹脹地)
   ==
 F
   ==

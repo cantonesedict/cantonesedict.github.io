@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2025-03-16
+* %date-modified --> 2025-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -927,6 +927,10 @@ U
 A
   ==
   - $脃3
+  ==
+V
+  ==
+  - ceoi3-2 (rising second in 脆脆地)
   ==
 F
   ==

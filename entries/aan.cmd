@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aan
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -60,6 +60,7 @@ U
   U+664F
 V
   ==
+  - aan3-2 (rising second in 晏晏地)
   - ngaan3 (hypercorrected initial)
   ==
 F

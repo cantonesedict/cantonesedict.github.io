@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2025-04-10
+* %date-modified --> 2025-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1511,6 +1511,10 @@ U
 H
   May appear as the right component of 値 or 值 (assumed here),
   depending on the font.
+V
+  ==
+  - zik6-2 (rising second in 直直地)
+  ==
 F
   ==
   - [[F1.78 直]] 正直不偏開也伸也常也但也

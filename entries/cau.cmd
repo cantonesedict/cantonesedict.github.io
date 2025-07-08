@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2025-03-14
+* %date-modified --> 2025-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1017,6 +1017,10 @@ R
   ⾃ + 4
 U
   U+81ED
+V
+  ==
+  - cau3-2 (rising second in 臭臭地)
+  ==
 F
   ==
   - [[F1.55 臭]] 氣息也又臭穢

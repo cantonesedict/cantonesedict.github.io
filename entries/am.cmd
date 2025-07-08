@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2025-03-13
+* %date-modified --> 2025-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -585,6 +585,7 @@ U
   U+6697
 V
   ==
+  - am3-2 (rising second in 暗暗地)
   - ngam3 (hypercorrected initial)
   ==
 F

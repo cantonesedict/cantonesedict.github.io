@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2025-03-16
+* %date-modified --> 2025-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -465,6 +465,10 @@ R
   ⽃ + 7
 U
   U+659C
+V
+  ==
+  - ce3-2 (rising second in 斜斜地)
+  ==
 F
   [[Not present]]
 W

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caan
-* %date-modified --> 2025-04-09
+* %date-modified --> 2025-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -548,6 +548,10 @@ U
 A
   ==
   - $戔4
+  ==
+V
+  ==
+  - caan4-2 (rising second in 殘殘地)
   ==
 F
   ==

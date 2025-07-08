@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caau
-* %date-modified --> 2025-06-18
+* %date-modified --> 2025-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -437,6 +437,10 @@ U
 A
   ==
   - $窠4 (for vernacular "wrinkled" sense)
+  ==
+V
+  ==
+  - caau4-2 (rising second in 巢巢地)
   ==
 F
   ==

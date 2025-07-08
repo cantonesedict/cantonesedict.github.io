@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2025-03-23
+* %date-modified --> 2025-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1054,6 +1054,10 @@ R
   ⾣ + 8
 U
   U+9189
+V
+  ==
+  - zeoi3-2 (rising second in 醉醉地)
+  ==
 F
   ==
   - [[F2.57 醉]] 酒醉

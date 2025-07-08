@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caang
-* %date-modified --> 2025-04-03
+* %date-modified --> 2025-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -693,6 +693,10 @@ R
   ⽬ + 12
 U
   U+252C7
+V
+  ==
+  - caang4-2 (rising second in {𥋇=⿰目掌}{𥋇=⿰目掌}地)
+  ==
 F
   [[Not present]]
 W

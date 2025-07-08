@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zat
-* %date-modified --> 2025-03-12
+* %date-modified --> 2025-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -558,6 +558,7 @@ U
 V
   ==
   - zat1 (per 《廣韻》陟栗切)
+  - zat6-2 (rising second in 窒窒地)
   ==
 F
   ==

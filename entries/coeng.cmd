@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2025-07-02
+* %date-modified --> 2025-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1787,6 +1787,10 @@ R
   ⾧ + 0
 U
   U+9577
+V
+  ==
+  - coeng4-2 (rising second in 長長地)
+  ==
 F
   ==
   - [[F1.91 長]] 長久永遠也

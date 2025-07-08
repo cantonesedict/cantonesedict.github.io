@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2025-04-15
+* %date-modified --> 2025-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1136,6 +1136,7 @@ U
 V
   ==
   - zeng3 (vernacular adjective)
+  - zeng3-2 (rising second in 正正地)
   ==
 F
   ==
@@ -1717,6 +1718,10 @@ H
 A
   ==
   - $靚6
+  ==
+V
+  ==
+  - zing6-2 (rising second in 靜靜地)
   ==
 F
   ==

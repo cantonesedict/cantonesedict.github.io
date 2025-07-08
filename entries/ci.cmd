@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2025-04-08
+* %date-modified --> 2025-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -3059,6 +3059,10 @@ R
   ⼈ + 5
 U
   U+4F3C
+V
+  ==
+  - ci5-2 (rising second in 似似地)
+  ==
 F
   ==
   - [[F2.35 似]] 如也肖也

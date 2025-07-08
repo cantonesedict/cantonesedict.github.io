@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2025-07-04
+* %date-modified --> 2025-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -910,6 +910,10 @@ R
   ⼝ + 11
 U
   U+5608
+V
+  ==
+  - cou4-2 (rising second in 嘈嘈地)
+  ==
 F
   ==
   - [[F2.12 嘈 _(4)Ts(')(u/)_]] ::[喧]也又胡酒也::
