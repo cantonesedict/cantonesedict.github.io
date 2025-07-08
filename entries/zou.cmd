@@ -1000,9 +1000,9 @@ W
   ====
   - [[Page~585 阼(6)]]
     ==
-    - The steps on the east to ascend to the hall;
+    - The steps on the east to ascend to the hall [[Kangxi: 主階也, ::阼階東階[...]^::]];
     - steps;
-    - landing where the host receives his guest at the top of the stairs.
+    - landing where the host receives his guest at the top of the stairs [[Kangxi: ::[...]所以答酢賔客::]].
     ==
   ====
 $$
