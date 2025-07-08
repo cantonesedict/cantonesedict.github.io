@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2025-07-02
+* %date-modified --> 2025-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -595,6 +595,7 @@ U
   U+6DC4
 A
   ==
+  - 湽
   - $甾1
   ==
 F
@@ -860,6 +861,9 @@ R
   ⽷ + 8
 U
   U+7DC7
+H
+  May appear as either ⿰糹甾 (+8 assumed here) or ⿰糹⿱⿻巛一田 (+9),
+  depending on the font.
 F
   [[Not present]]
 W
@@ -1512,6 +1516,10 @@ R
   ⾞ + 8
 U
   U+8F1C
+A
+  ==
+  - 輺
+  ==
 F
   ==
   - [[F2.34 ::[輜]::]] 車屬
@@ -4185,6 +4193,7 @@ A
   ==
   - $菑3
   - 葘
+  - 輺
   ==
 F
   [[Not present]]
