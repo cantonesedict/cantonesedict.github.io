@@ -21,3 +21,5 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<## TODO: 言 jin4-2 (vernacular rising-tone noun in Cantonese opera senses) ##>
