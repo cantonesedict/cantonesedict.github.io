@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ze
-* %date-modified --> 2025-03-23
+* %date-modified --> 2025-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -268,8 +268,8 @@ U
   U+59D0
 V
   ==
-  - ze2-1 (vernacular)
-  - ze2-4 (low endearing suffix after a name; also low first in reduplication 姐姐 ze2-4 ze2-1)
+  - ze2-1 (vernacular; high second in reduplication 姐姐)
+  - ze2-4 (low endearing suffix after a name; low first in reduplication 姐姐)
   ==
 F
   ==

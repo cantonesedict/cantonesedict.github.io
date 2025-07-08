@@ -1195,7 +1195,7 @@ A
   ==
 V
   ==
-  - zoeng3-2 (rising second in 脹脹地)
+  - zoeng3-2 (rising second in vernacular 脹脹地)
   ==
 F
   ==

@@ -551,7 +551,7 @@ A
   ==
 V
   ==
-  - caan4-2 (rising second in 殘殘地)
+  - caan4-2 (rising second in vernacular 殘殘地)
   ==
 F
   ==

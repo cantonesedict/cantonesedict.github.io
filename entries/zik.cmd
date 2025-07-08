@@ -1513,7 +1513,7 @@ H
   depending on the font.
 V
   ==
-  - zik6-2 (rising second in 直直地)
+  - zik6-2 (rising second in vernacular 直直地)
   ==
 F
   ==

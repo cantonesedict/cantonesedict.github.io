@@ -467,7 +467,7 @@ U
   U+659C
 V
   ==
-  - ce3-2 (rising second in 斜斜地)
+  - ce3-2 (rising second in vernacular 斜斜地)
   ==
 F
   [[Not present]]

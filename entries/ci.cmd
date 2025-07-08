@@ -3061,7 +3061,7 @@ U
   U+4F3C
 V
   ==
-  - ci5-2 (rising second in 似似地)
+  - ci5-2 (rising second in vernacular 似似地)
   ==
 F
   ==

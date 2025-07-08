@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zim
-* %date-modified --> 2025-04-08
+* %date-modified --> 2025-07-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -769,7 +769,7 @@ U
   U+6F38
 V
   ==
-  - zim6-2 (rising second in reduplication 漸漸 zim6 zim6-2)
+  - zim6-2 (rising second in reduplication 漸漸)
   ==
 F
   ==

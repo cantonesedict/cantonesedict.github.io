@@ -1019,7 +1019,7 @@ U
   U+81ED
 V
   ==
-  - cau3-2 (rising second in 臭臭地)
+  - cau3-2 (rising second in vernacular 臭臭地)
   ==
 F
   ==

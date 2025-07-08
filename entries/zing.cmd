@@ -1136,7 +1136,7 @@ U
 V
   ==
   - zeng3 (vernacular adjective)
-  - zeng3-2 (rising second in 正正地)
+  - zeng3-2 (rising second in vernacular 正正地)
   ==
 F
   ==
@@ -1721,7 +1721,7 @@ A
   ==
 V
   ==
-  - zing6-2 (rising second in 靜靜地)
+  - zing6-2 (rising second in vernacular 靜靜地)
   ==
 F
   ==

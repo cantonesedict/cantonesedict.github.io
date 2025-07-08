@@ -930,7 +930,7 @@ A
   ==
 V
   ==
-  - ceoi3-2 (rising second in 脆脆地)
+  - ceoi3-2 (rising second in vernacular 脆脆地)
   ==
 F
   ==

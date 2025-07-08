@@ -60,7 +60,7 @@ U
   U+664F
 V
   ==
-  - aan3-2 (rising second in 晏晏地)
+  - aan3-2 (rising second in vernacular 晏晏地)
   - ngaan3 (hypercorrected initial)
   ==
 F

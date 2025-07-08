@@ -440,7 +440,7 @@ A
   ==
 V
   ==
-  - caau4-2 (rising second in 巢巢地)
+  - caau4-2 (rising second in vernacular 巢巢地)
   ==
 F
   ==

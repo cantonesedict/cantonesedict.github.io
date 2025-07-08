@@ -1789,7 +1789,7 @@ U
   U+9577
 V
   ==
-  - coeng4-2 (rising second in 長長地)
+  - coeng4-2 (rising second in vernacular 長長地)
   ==
 F
   ==

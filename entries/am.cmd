@@ -585,7 +585,7 @@ U
   U+6697
 V
   ==
-  - am3-2 (rising second in 暗暗地)
+  - am3-2 (rising second in vernacular 暗暗地)
   - ngam3 (hypercorrected initial)
   ==
 F

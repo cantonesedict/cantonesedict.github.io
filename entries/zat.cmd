@@ -558,7 +558,7 @@ U
 V
   ==
   - zat1 (per 《廣韻》陟栗切)
-  - zat6-2 (rising second in 窒窒地)
+  - zat6-2 (rising second in vernacular 窒窒地)
   ==
 F
   ==

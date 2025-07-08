@@ -695,7 +695,7 @@ U
   U+252C7
 V
   ==
-  - caang4-2 (rising second in {𥋇=⿰目掌}{𥋇=⿰目掌}地)
+  - caang4-2 (rising second in vernacular {𥋇=⿰目掌}{𥋇=⿰目掌}地)
   ==
 F
   [[Not present]]

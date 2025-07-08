@@ -1056,7 +1056,7 @@ U
   U+9189
 V
   ==
-  - zeoi3-2 (rising second in 醉醉地)
+  - zeoi3-2 (rising second in vernacular 醉醉地)
   ==
 F
   ==

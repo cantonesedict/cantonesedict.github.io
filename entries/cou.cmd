@@ -912,7 +912,7 @@ U
   U+5608
 V
   ==
-  - cou4-2 (rising second in 嘈嘈地)
+  - cou4-2 (rising second in vernacular 嘈嘈地)
   ==
 F
   ==

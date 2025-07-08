@@ -355,7 +355,7 @@ A
   ==
 V
   ==
-  - zaak3-2 (rising second in 窄窄地)
+  - zaak3-2 (rising second in vernacular 窄窄地)
   ==
 F
   ==

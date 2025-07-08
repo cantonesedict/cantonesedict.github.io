@@ -399,7 +399,7 @@ U
   U+632F
 V
   ==
-  - zan3-2 (rising second in 振振地)
+  - zan3-2 (rising second in vernacular 振振地)
   ==
 F
   ==
