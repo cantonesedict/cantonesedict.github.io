@@ -664,7 +664,7 @@ W
     ==
     - To do, to make, to act;
     - to be, to perform the duties of;
-    - much used for the next [[$造6]];
+    - ~~much used for the next [[造]];~~
     - _ts(o\)(6) tak(7)_
         [[zou6 dak1 做得]]
         very well, it will do;
@@ -707,7 +707,10 @@ W
   ====
 C
   ==
-  - Williams' "used for the next": I have not seen 做 used for 造.
+  - Williams' "much used for the next": I have not seen 做 used for 造.
+    The only sense that is liable to confusion is the "make" sense of 做,
+    but this is rarely used in Cantonese,
+    which typically only uses the "do/perform/be" senses of 做.
   - Williams' 做生意: Changed _(1)shang_ (sang1)
     to vernacular reading _(1)sh(a/)ng_ (saang1).
   - Williams' 你做得唔做得: This is dated syntax. In modern Cantonese,
