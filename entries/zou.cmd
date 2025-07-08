@@ -866,9 +866,9 @@ W
   ====
   - [[Page~585 祚(6)]]
     ==
-    - Happiness derived from wealth or office;
+    - Happiness [[Kangxi: 福也]] ~~derived from~~ wealth [[Kangxi: 祿也]] or office [[Kangxi: 位也]];
     - dignities, felicity;
-    - a year;
+    - a year [[Kangxi: 歲也]];
     - _fuk(7) ts(o\)(6)_
         [[fuk6 zou6 福祚]]
         good fortune;
@@ -880,6 +880,10 @@ W
         to recreate in one's old age.
     ==
   ====
+C
+  ==
+  - Williams' "wealth": Or, "salary".
+  ==
 $$
 
 ### 胙6 | _Ts(o\)(6)_ [[zou6]]
