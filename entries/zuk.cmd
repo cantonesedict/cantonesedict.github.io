@@ -116,8 +116,8 @@ W
   ====
   - [[Page~35* 捉(7)]]
     ==
-    - To seize, to grasp, to gripe and hold;
-    - to catch;
+    - To seize, to grasp, to gripe and hold [[Kangxi: 搤也一曰握也]];
+    - to catch [[Kangxi: 捕也]];
     - _chuk(7) (4)n(a/)_
         [[zuk1 naa4 捉拿]],
         to pursue, for the purpose of seizing;
