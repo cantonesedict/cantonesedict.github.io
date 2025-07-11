@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zuk
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-07-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -76,7 +76,7 @@ W
   ====
   - [[Page~35* 囑(7)]]
     ==
-    - To order, to bid, to enjoin;
+    - To order, to bid, to enjoin [[Kangxi: 付囑也, 託也]];
     - _chuk(7) f(u/)[(3)]_
         [[zuk1 fu3 囑咐]]
         to desire, to charge;
