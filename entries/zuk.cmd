@@ -170,6 +170,10 @@ R
   ⽊ + 5
 U
   U+67F7
+V
+  ==
+  - cuk1 (alternative per 《廣韻》昌六切)
+  ==
 F
   ==
   - [[F1.63 柷]] 柷圉樂器也
@@ -178,10 +182,10 @@ W
   ====
   - [[Page~35* 柷(7)]]
     ==
-    - A sort of tub with a stick in the centre;
+    - A sort of tub with a stick in the centre [[Kangxi: 柷狀如桼桶方二尺四寸深一尺八寸中有椎柄連厎挏之令左右擊]];
     - _chuk(7) (5)(u:)_
-        [[zuk1 jyu5 柷圉]],
-        instruments to direct a band.
+        [[zuk1 jyu5 柷敔]],
+        instruments to direct a band [[Kangxi: 郭璞云樂之初擊柷以作之樂之末戛敔以止之]].
     ==
   ====
 $$
