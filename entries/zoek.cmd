@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoek
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -987,6 +987,7 @@ P
   1. To attach (Kangxi 著: 附也).
   1. To contact, to touch (Kangxi 著: 著地無足).
   1. A plan, a stratagem.
+  1. To catch fire, to ignite.
   ++
 E
   ====
