@@ -265,7 +265,7 @@ W
   ====
   - [[Page~35* 矚(7)]]
     ==
-    - To gaze, to look earnestly;
+    - To gaze, to look earnestly [[Kangxi: 視也, 視之甚也]];
     - to fix the eyes on.
     ==
   ====
