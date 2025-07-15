@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zuk
-* %date-modified --> 2025-07-11
+* %date-modified --> 2025-07-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -206,7 +206,7 @@ W
   - [[Page~35* 燭(7)]]
     ==
     - A candle;
-    - to illumine;
+    - to illumine [[Kangxi: 照也]];
     - _l(a/)p(9) chuk(7)_
         [[laap6 zuk1 蠟燭]]
         a wax candle, a candle;
@@ -233,9 +233,22 @@ W
         lighted everywhere, to assist one's poor relations.
     ==
   ====
+P
+  ++
+  1. A torch (Kangxi: 庭燎火燭也, 燈燭).
+  ++
+E
+  ====
+  - 【火燭】 (fo2 zuk1):
+    ++
+    1. Fire (as an accident, danger, or disaster).
+    ++
+  - 【火燭車】 (fo2 zuk1 ce1):
+    ++
+    1. A fire truck.
+    ++
+  ====
 $$
-
-<## TODO: 火燭 fo2 zuk1, 火燭車 fo2 zuk1 ce1  ##>
 
 ### 矚1 | _Chuk(7)_ [[zuk1]]
 
