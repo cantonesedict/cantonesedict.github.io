@@ -465,6 +465,12 @@ W
         to raise dikes in or between fields.
     ==
   ====
+P
+  ++
+  1. A pestle for pounding earth.
+  1. To pound with a pestle (Kangxi: 擣也).
+  1. A residence, a building.
+  ++
 $$
 
 ### 粥1 | _Chuk(7)_ [[zuk1]]
