@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-07-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1320,6 +1320,7 @@ $$
 - $椆3
 - $甃3
 - $皺3
+- $祝3
 - $縐3
 ==
 </nav>
@@ -1386,6 +1387,7 @@ U
 A
   ==
   - $呪3
+  - $祝3
   ==
 F
   ==
@@ -1636,6 +1638,27 @@ W
 C
   ==
   - Strictly, the pre-merger reading should be _chau(3)_ per 《廣韻》側救切.
+  ==
+$$
+
+###+ 祝3 | _Chau(3)_ (zau3)
+
+$$.
+R
+  ⽰ + 5
+U
+  U+795D
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 咒. **See $咒zau3 for the canonical entry.**
+  ++
+S
+  ==
+  - $祝zuk1
   ==
 $$
 

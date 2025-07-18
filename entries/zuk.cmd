@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zuk
-* %date-modified --> 2025-07-15
+* %date-modified --> 2025-07-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -311,6 +311,10 @@ W
         an acolyth in the temples.
     ==
   ====
+S
+  ==
+  - $祝zau3
+  ==
 $$
 
 ### 竹1 | _Chuk(7)_ [[zuk1]]
