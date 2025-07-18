@@ -339,7 +339,7 @@ W
   ====
   - [[Page~34* 竹(7)]]
     ==
-    - The bamboo;
+    - The bamboo [[Kangxi: 冬生靑艸 etc.]];
     - _chuk(7) (2)k(')(e/)ung_
         [[zuk1 koeng2 竹蔃]],
         whangees, bamboo roots;
@@ -363,6 +363,11 @@ W
         a kind of large fireworks.
     ==
   ====
+P
+  ++
+  1. Bamboo musical instruments (Kangxi: 八音之一).
+  1. Bamboo writing slips (Kangxi: 竹{𥳑=⿱𥫗閒}).
+  ++
 E
   ====
   - 【竹花頭】 (zuk1 faa1 tau4-2):
