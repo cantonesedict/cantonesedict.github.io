@@ -301,7 +301,7 @@ W
         [[zuk1 gou3 祝告]]
         to implore;
     - _tuk(9) chuk(7) (1)k(u/)n_
-        [[zuk6 zuk1 gun1 讀祝官]],
+        [[duk6 zuk1 gun1 讀祝官]],
         one who reads the prayers;
     - _chuk(7) shau(6)_
         [[zuk1 sau6 祝壽]]
@@ -311,6 +311,13 @@ W
         an acolyth in the temples.
     ==
   ====
+P
+  ++
+  1. A person that makes offerings/sacrifices to tablets/deities (Kangxi: 贊主人饗神者, 祝祭主贊詞者, etc.).
+  1. To wish (well).
+  1. To cut off (Kangxi: 斷也).
+  1. A surname (Kangxi: 姓).
+  ++
 S
   ==
   - $祝zau3
