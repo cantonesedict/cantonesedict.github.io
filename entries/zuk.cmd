@@ -395,9 +395,13 @@ W
     - A country;
     - _(1)t(')(i/)n chuk(7) kwok(8)_
         [[tin1 zuk1 gwok3 天竺國]]
-        India, or the land where Budha was born.
+        India, or the land where Budha was born [[Kangxi: 天竺國名]].
     ==
   ====
+S
+  ==
+  - $竺duk1 (TODO)
+  ==
 $$
 
 ### 筑1 | _Chuk(7)_ [[zuk1]]
