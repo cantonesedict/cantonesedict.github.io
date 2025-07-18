@@ -419,10 +419,18 @@ W
   ====
   - [[Page~35* 筑(7)]]
     ==
-    - A sort of bamboo dulcimer with 13~cords,
-      used in worship at the municipal temple.
+    - A sort of bamboo dulcimer with 13~cords [[Kangxi: ::筑似箏而十三[絃]^::]],
+      ~~used in worship at the municipal temple~~.
     ==
   ====
+C
+  ==
+  - 13 is the number of strings per 《廣韻》. Other sources have 5 or 21.
+  ==
+P
+  ++
+  1. Short for 貴陽.
+  ++
 $$
 
 ### 築1 | _Chuk(7)_ [[zuk1]]
