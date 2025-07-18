@@ -57,6 +57,7 @@ $$
 - $粥1
 - $觸1
 - $足1
+- $鬻1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -480,6 +481,10 @@ R
   ⽶ + 6
 U
   U+7CA5
+A
+  ==
+  - $鬻1
+  ==
 F
   ==
   - [[F1.63 粥]] ::[糜]粥::
@@ -488,7 +493,7 @@ W
   ====
   - [[Page~35* 粥(7)]]
     ==
-    - Congee;
+    - Congee [[Kangxi: 糜也]];
     - gruel;
     - _(1)p(o\) chuk(7)_
         [[bou1 zuk1 煲粥]]
@@ -501,13 +506,17 @@ W
         gruel of congee.
     ==
     --
-    Also read _yuk(9)_ [[juk6]] [[**see $粥juk6**]].
+    [[...]]
     --
   ====
 C
   ==
   - Fan Wan entry: Corrected 縻 to 糜.
   ==
+P
+  ++
+  1. A meek or feeble appearance (Kangxi: ::粥粥[卑]謙貌::, 粥粥柔弱專愚之貌).
+  ++
 S
   ==
   - $粥juk6 (TODO)
@@ -642,6 +651,27 @@ C
 S
   ==
   - $足zeoi3
+  ==
+$$
+
+###+ 鬻1 | _Chuk(7)_ (zuk1)
+
+$$.
+R
+  ⿀ + 12
+U
+  U+9B3B
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 粥. **See $粥zuk1 for the canonical entry.**
+  ++
+S
+  ==
+  - $鬻juk6 (TODO)
   ==
 $$
 
