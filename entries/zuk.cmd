@@ -971,7 +971,7 @@ W
   ====
   - [[Page~35* 蓫(9)]]
     ==
-    - Weeds which are hard to root out, such as the dock or thistles.
+    - Weeds which are hard to root out, such as the dock or thistles [[Kangxi: 蓫惡菜也, 牛蘈也陸註今人謂之羊蹄]].
     ==
   ====
 C
