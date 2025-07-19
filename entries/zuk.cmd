@@ -1051,9 +1051,14 @@ W
     - To walk unsteady;
     - _ch(a/)k(9) chuk(9)_
         [[zaak6 zuk6 躑躅]]
-        irresolute, to walk unevenly.
+        irresolute, to walk unevenly [[Kangxi: 蹢躅]].
     ==
   ====
+P
+  ++
+  1. A footprint, a trace, a result (Kangxi: 迹也).
+  1. To stamp with the foot (Kangxi: 躑躅以足擊地).
+  ++
 $$
 
 ### 軸6 | _Chuk(9)_ [[zuk6]]
