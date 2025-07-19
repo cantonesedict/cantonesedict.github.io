@@ -684,6 +684,7 @@ $$
 - $俗6
 - $妯6
 - $族6
+- $柚6
 - $濁6
 - $簇6
 - $續6
@@ -832,6 +833,31 @@ P
   1. Collective familial punishment (Kangxi: 一人有罪{𠛬=⿰幵刂}及父母妻子).
   1. To exterminate.
   ++
+$$
+
+###+ 柚6 | _Chuk(9)_ (zuk6)
+
+$$.
+R
+  ⽊ + 5
+U
+  U+67DA
+F
+  ==
+  - [[F1.66 柚]] 杼柚布機之受經者
+  ==
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 軸 (for the "spindle/spool" sense). **See $軸zuk6 for the canonical entry.**
+  ++
+S
+  ==
+  - $柚jau2 (TODO)
+  - $柚jau4 (TODO)
+  - $柚jau6 (TODO)
+  ==
 $$
 
 ### 濁6 | _Chuk(9)_ [[zuk6]]
@@ -1068,15 +1094,20 @@ R
   ⾞ + 5
 U
   U+8EF8
+A
+  ==
+  - $柚6 (for "spindle/spool" sense)
+  ==
 F
   ==
   - [[F1.66 軸]] ::車軸又[盡]也::
+  - [[F1.66 柚]] 杼柚布機之受經者
   ==
 W
   ====
   - [[Page~35* 軸(9)]]
     ==
-    - The end of an axle or nave;
+    - ~~The end of~~ an axle ~~or nave~~ [[Kangxi: 持輪 etc.]];
     - a pivot, centre of motion;
     - the roller of a map;
     - a drawing, a picture;
@@ -1093,6 +1124,12 @@ C
   ==
   - Fan Wan entry: Corrected missing 灬 in 盡.
   ==
+P
+  ++
+  1. A spindle or spool (Kangxi: 織具, 杼持緯者軸受經者).
+  1. A roll, a scroll (Kangxi: 卷軸).
+  1. An ailment of immobilisation (Kangxi: 病也, 盤桓不行之意).
+  ++
 $$
 
 ### 逐6 | _Chuk(9)_ [[zuk6]]
