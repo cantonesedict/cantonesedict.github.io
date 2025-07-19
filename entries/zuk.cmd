@@ -1197,8 +1197,8 @@ W
   ====
   - [[Page~599 鏃(9)]]
     ==
-    - The barb of a dart or arrow, the iron head of a dart;
-    - sharp[,] pointed.
+    - The barb of a dart or arrow, the iron head of a dart [[Kangxi: 箭鏃也]];
+    - sharp ~~pointed~~ [[Kangxi: 利也]].
     ==
   ====
 $$
