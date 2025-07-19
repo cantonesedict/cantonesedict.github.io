@@ -849,7 +849,7 @@ W
   ====
   - [[Page~35* 濁(9)]]
     ==
-    - Muddy, turbid, thick, foul;
+    - Muddy, turbid, thick, foul [[Kangxi: 水不淸也]];
     - impure, vicious;
     - profligate;
     - _chuk(9) (1)ts(')ing_
@@ -865,6 +865,20 @@ W
         [[zuk6 seoi2 濁水]],
         turbid water.
     ==
+  ====
+P
+  ++
+  1. (_phonetics_) Voiced.
+  ++
+E
+  ====
+  - 【濁】 (zuk6):
+    ++
+    1. To choke.
+       ==
+       - 飲水濁嚫 (jam2 seoi2 zuk6 can1): "Choked [while] drinking water."
+       ==
+    ++
   ====
 $$
 
