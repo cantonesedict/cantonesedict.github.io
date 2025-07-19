@@ -920,9 +920,9 @@ W
   ====
   - [[Page~599 續(9)]]
     ==
-    - To continue, to join on, to succeed;
+    - To continue, to join on, to succeed [[Kangxi: 繼也]];
     - to keep up;
-    - tied together, ligatured;
+    - tied together, ligatured [[Kangxi: 連也]];
     - following, continuous, successively;
     - carrying on what another has begun;
     - _ts(i/)p(8) tsuk(9)_
@@ -949,6 +949,11 @@ C
   - Williams' 續娶: Changed _ts(')(u:)(3)_ (ceoi3) to common reading _(2)ts(')(u:)_ (ceoi2).
   - Williams' 續娶, 續弦: Specifically, to remarry after becoming a widower.
   ==
+P
+  ++
+  1. To renew, to extend.
+  1. To reprise.
+  ++
 $$
 
 ### 蓫6 | _Chuk(9)_ [[zuk6]]
