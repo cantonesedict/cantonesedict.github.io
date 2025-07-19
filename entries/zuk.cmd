@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zuk
-* %date-modified --> 2025-07-18
+* %date-modified --> 2025-07-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -714,8 +714,8 @@ W
   ====
   - [[Page~599 俗(9)]]
     ==
-    - What common people desire;
-    - inelegant, uneducated, common, vulgar, unpolished, rude;
+    - What common people desire [[Kangxi: 俗欲也俗人所欲也]];
+    - inelegant, uneducated, common, vulgar, unpolished, rude [[Kangxi: 不雅曰俗]];
     - the groveling, common, low, business of life;
     - the laity;
     - _tsuk(9) w(a/)(6)_
@@ -723,7 +723,7 @@ W
         common talk, colloquial, in distinction from the book style;
     - _(1)fung tsuk(9)_
         [[fung1 zuk6 風俗]]
-        manners, customs of a place;
+        manners, customs of a place [[Kangxi: 習也上所化曰風下所習曰俗]];
     - _shai(3) tsuk(9)_
         [[sai3 zuk6 世俗]]
         manners of the age;
