@@ -1147,9 +1147,9 @@ W
   ====
   - [[Page~35* 逐(9)]]
     ==
-    - To push or drive out;
+    - To push or drive out [[Kangxi: 驅也]];
     - to order away;
-    - to expel;
+    - to expel [[Kangxi: 斥也放也]];
     - to take up in order;
     - _chuk(9) ch(')ut(7)_
         [[zuk6 ceoi1 逐出]]
@@ -1165,12 +1165,17 @@ W
         to take up one by one;
     - _chuk(9) chuk(9)_
         [[zuk6 zuk6 逐逐]]
-        in earnest;
+        in earnest [[Kangxi: 逐逐篤實也]];
     - _(2)kon chuk(9)_
         [[gon2 zuk6 趕逐]]
         to drive out, to eject.
     ==
   ====
+P
+  ++
+  1. To chase, to pursue (Kangxi: 追也).
+  1. To contend, to strive (Kangxi: 競也).
+  ++
 $$
 
 ### 鏃6 | _Tsuk(9)_ [[zuk6]]
