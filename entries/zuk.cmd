@@ -800,12 +800,12 @@ W
   ====
   - [[Page~599 族(9)]]
     ==
-    - A barb of a dart;
-    - to collect, to draw together, as a banner does;
+    - A barb of a dart [[Kangxi: 矢鋒也]];
+    - to collect, to draw together, as a banner does [[Kangxi: 一曰从㫃㫃所以標衆矢之所集又聚也]];
     - a clan, a tribe;
-    - a family or kindred of the same surname;
+    - a family or kindred [[Kangxi: 族者屬也]] of the same surname;
     - degrees of kin;
-    - a class, a kind;
+    - a class, a kind [[Kangxi: 族類也]];
     - _(1)tsung tsuk(9)_
         [[zung1 zuk6 宗族]]
         of the same clan;
@@ -820,13 +820,18 @@ W
         a senior in a clan;
     - _(1)s(a/)m tsuk(9)_
         [[saam1 zuk6 三族]]
-        father, self, and son;
+        father, self, and son [[Kangxi: 三族謂父子孫]];
         father, mother, and wife's kindred;
     - _(2)shui tsuk(9)_
         [[seoi2 zuk6 水族]]
         aquatic animals.
     ==
   ====
+P
+  ++
+  1. Collective familial punishment (Kangxi: 一人有罪{𠛬=⿰幵刂}及父母妻子).
+  1. To exterminate.
+  ++
 $$
 
 ### 濁6 | _Chuk(9)_ [[zuk6]]
