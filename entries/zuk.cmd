@@ -768,8 +768,8 @@ W
   ====
   - [[Page~35* 妯(9)]]
     ==
-    - Two sisters-in-law call each other _chuk(9) (5)l(i/)_ [[zuk6 lei5 妯娌]];
-    - also called _chau(3) (5)l(i/)_ [[zau3 lei5 妯娌]] in Canton.
+    - Two sisters-in-law call each other _chuk(9) (5)l(i/)_ [[zuk6 lei5 妯娌]] [[Kangxi: 兄弟之妻相呼曰妯娌]];
+    - ~~also called _chau(3) (5)l(i/)_ [[zau3 lei5]] in Canton.~~
     ==
   ====
 C
@@ -778,6 +778,10 @@ C
   - Williams' "also called":
     I suspect _chau(3)_ (zau3) is a typo for _chau(6)_ (zau6)^,
     which would be a misreading based on analogy with 袖.
+  ==
+S
+  ==
+  - $妯cau1
   ==
 $$
 

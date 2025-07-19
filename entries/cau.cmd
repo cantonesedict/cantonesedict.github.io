@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-07-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -48,6 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $偢1
+- $妯1
 - $愀1
 - $抽1
 - $掫1
@@ -88,6 +89,36 @@ W
 S
   ==
   - $偢ciu3
+  ==
+$$
+
+###+ 妯1 | _(1)Ch(')au_ (cau1)
+
+$$
+R
+  ⼥ + 5
+U
+  U+59AF
+V
+  ==
+  - cau4 (alternative per 《集韻》陳留切 for "moved" sense)
+  - dik6 (alternative per 《集韻》亭歴切 for "moved" and "unsettled" senses)
+  - duk6 (alternative per 《集韻》徒沃切 for "moved" sense)
+  - luk6 (alternative per 《集韻》盧谷切 for "moved" sense)
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. The heart moved (Kangxi: 心動也).
+  1. Moved (Kangxi: 動也).
+  1. Unsettled (Kangxi: 人不靜曰妯 etc.).
+  ++
+S
+  ==
+  - $妯zuk6
   ==
 $$
 
