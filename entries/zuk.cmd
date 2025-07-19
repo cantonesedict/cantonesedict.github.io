@@ -1024,9 +1024,13 @@ W
   - [[Page~599 藚(9)]]
     ==
     - A marshy, grassy[,] and climbing plant, with leaves like purslane,
-      called also cow's lips [[牛脣]].
+      called also cow's lips [[Kangxi: 水舄也, 藚牛脣, 今澤瀉也]].
     ==
   ====
+C
+  ==
+  - Specifically, the water plantain.
+  ==
 $$
 
 ### 躅6 | _Chuk(9)_ [[zuk6]]
