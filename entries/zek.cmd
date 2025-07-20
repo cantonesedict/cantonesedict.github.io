@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zek
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-07-20
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -15,6 +15,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [zek1](#1)
 - [zek3](#3)
 - [zek6](#6)
 ==
@@ -39,6 +40,70 @@ MP
 S
   ==
   - $zik
+  ==
+$$
+
+
+##{#1 .williams} <ins class="modern">Tsek(7)</ins> [[zek1 高陰入]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $唧1
+- $喞1
+==
+</nav>
+<## /tone-1-characters ##>
+
+###+ 唧1 | _Tsek(7)_ (zek1)
+
+$$
+R
+  ⼝ + 7
+U
+  U+5527
+A
+  ==
+  - $喞1
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+E
+  ====
+  - 【唧】 (zek1):
+    ++
+    1. An final particle of emphasis or emotion.
+       ==
+       - 得未唧 (dak1 mei6 zek1): "[Are you] ready or not?"
+       ==
+    ++
+  ====
+S
+  ==
+  - $唧zik1
+  ==
+$$
+
+###+ 喞1 | _Tsek(7)_ (zek1)
+
+$$.
+R
+  ⼝ + 9
+U
+  U+559E
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 唧. **See $唧zek1 for the canonical entry.**
+  ++
+S
+  ==
+  - $喞zik1
   ==
 $$
 

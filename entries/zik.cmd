@@ -246,7 +246,7 @@ E
   ====
 S
   ==
-  - $唧zek1 (TODO)
+  - $唧zek1
   ==
 $$
 
@@ -268,6 +268,10 @@ W
     [[Alternative form of 唧. **See $唧zik1 for the canonical entry.**]]
     --
   ====
+S
+  ==
+  - $喞zek1
+  ==
 $$
 
 ### 嘖1 | _Tsik(7)_ [[zik1]]

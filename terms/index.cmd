@@ -902,6 +902,9 @@ window.onload = applyFilter;
     , ze1 lei2
     , [啫喱](/entries/ze#cantonese-啫喱)
   //
+    , zek1
+    , [唧](/entries/zek#cantonese-唧)
+  //
     , zek3 cau1
     , [隻抽](/entries/cau#cantonese-隻抽)
   //
