@@ -512,6 +512,10 @@ R
   ⾍ + 6
 U
   U+86DB
+A
+  ==
+  - 鼄
+  ==
 F
   ==
   - [[F1.43 蛛]] ::蜘[蛛]::
@@ -520,7 +524,7 @@ W
   ====
   - [[Page~30* (1)蛛]]
     ==
-    - The spider;
+    - The spider [[Kangxi: 蜘蛛也]];
     - _(1)ch(u:) (1)sz'_
         [[zyu1 si1 蛛絲]]
         the spider's silk or web;
