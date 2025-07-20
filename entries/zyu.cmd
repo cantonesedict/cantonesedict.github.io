@@ -1115,7 +1115,7 @@ W
   ====
   - [[Page~31* (2)麈]]
     ==
-    - A large ruminant, (a yak?) with a bushy tail;
+    - A large ruminant, (a yak?) with a bushy tail [[Kangxi: 麋屬, 麈似鹿而大其尾辟麈]];
     - _(2)ch(u:) (5)m(i/)_
         [[zyu2 mei5 麈尾]],
         a chowry used by fairies.
