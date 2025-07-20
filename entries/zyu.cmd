@@ -1562,13 +1562,13 @@ W
   ====
   - [[Page~31* 住(6)]]
     ==
-    - To desist from, to cease, to stop;
+    - To desist from, to cease, to stop [[Kangxi: 止也]];
     - to detain;
-    - to dwell, to live in;
+    - to dwell, to live in [[Kangxi: 居也]];
     - to endure;
     - to withstand;
-    - to erect;
-    - after another verb~~, it is often merely a sign of past time, or that the action has rested~~;
+    - ~~to erect [[Kangxi: 立也]];~~
+    - after another verb, ~~it is often merely a sign of past time, or that the action has rested~~;
     - _(1)ch(a/) ch(u:)(6)_
         [[zaa1 zyu6 揸住]]
         held it;
