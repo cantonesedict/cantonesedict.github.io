@@ -602,14 +602,14 @@ W
   ====
   - [[Page~29* (1)諸]]
     ==
-    - To discriminate, to discuss;
-    - not one alone, all, several, many, every;
+    - To discriminate, ~~to discuss~~ [[Kangxi: 辯也, 別異之辭]];
+    - not one alone, all, several, many, every [[Kangxi: 非一也皆言也, 凡衆也]];
     - in, respecting;
     - a pronoun at the end of a sentence, or a word implying doubt
-      [[contraction of 之乎]];
+      [[contraction of 之乎]] [[Kangxi: 有諸疑辭]];
     - a sign of the dative, upon, to, from, at
-      [[contraction of 之於]];
-    - it is often introduced to make rhythm;
+      [[contraction of 之於]] [[Kangxi: 諸猶於也]];
+    - it is often introduced to make rhythm [[Kangxi: 語助辭]];
     - _(1)sh(u:) (1)ch(u:) (1)shan_
         [[syu1 zyu1 san1 書諸紳]],
         wrote it on his girdle;
@@ -636,6 +636,15 @@ W
         all sorts of things.
     ==
   ====
+C
+  ==
+  - Williams' "to discuss": This is a misreading of Kangxi 辯也.
+    Here, 辯 is used for 辨.
+  ==
+P
+  ++
+  1. Synonym of 之 (third-person object pronoun) (Kangxi: 諸之也).
+  ++
 E
   ====
   - 【諸事】 (zyu1 si6):
