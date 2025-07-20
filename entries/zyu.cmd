@@ -1133,6 +1133,7 @@ $$
 - $澍3
 - $炷3
 - $祝3
+- $箸3
 - $翥3
 - $著3
 - $蛀3
@@ -1275,6 +1276,27 @@ S
   ==
 $$
 
+###+ 箸3 | _Ch(u:)(3)_ (zyu3)
+
+$$.
+R
+  ⽵ + 8
+U
+  U+7BB8
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 著. **See $著zyu3 for the canonical entry.**
+  ++
+S
+  ==
+  - $箸zyu6
+  ==
+$$
+
 ###+ 翥3 | _Ch(u:)(3)_ (zyu3)
 
 $$
@@ -1317,6 +1339,10 @@ U
 H
   May appear with 者 dotless (+8 assumed here) or dotted (+9),
   depending on the font.
+A
+  ==
+  - $箸3
+  ==
 F
   ==
   - [[F1.47 著]] 明也又著述
@@ -1669,7 +1695,7 @@ W
   ====
   - [[Page~31* 筯(6)箸(6)]]
     ==
-    - Chopsticks;
+    - Chopsticks [[Kangxi: 匙箸飯具]];
     - _(4)ng(a/) ch(u:)(6) yat(7) t(u/)i(3)_
         [[ngaa4 zyu6 jat1 deoi3 牙箸一對]]
         a pair of ivory chopsticks;
@@ -1692,4 +1718,8 @@ E
        ==
     ++
   ====
+S
+  ==
+  - $箸zyu3
+  ==
 $$

@@ -127,7 +127,7 @@ For all radicals, see [Index of characters by radical](./).
       - $箚zaap3
       - {$箒zaau2, $箒zau2}
       - $箋zin1
-      - $箸zyu6
+      - {$箸zyu3, $箸zyu6}
       ==
       </nav>
   //
