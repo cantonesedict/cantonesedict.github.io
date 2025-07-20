@@ -754,6 +754,10 @@ R
   ⾦ + 6
 U
   U+9296
+V
+  ==
+  - syu4 (per 《廣韻》市朱切)
+  ==
 F
   ==
   - [[F1.44 銖]] 錙銖
@@ -762,14 +766,19 @@ W
   ====
   - [[Page~30* (1)銖]]
     ==
-    - A small ancient silver coin,
-      estimated as equal to 100~grains of millet;
-    - 24~made a tael [[両]];
-    - farthings, coppers;
+    - ~~A small ancient silver coin~~,
+      estimated as equal to 100~grains of millet [[Kangxi: 一曰十黍爲絫十絫爲銖]];
+    - 24~made a tael [[両]] [[Kangxi: 二十四銖爲兩]];
+    - ~~farthings, coppers;~~
     - trifles;
-    - blunt, dull.
+    - blunt, dull [[Kangxi: 鈍也]].
     ==
   ====
+C
+  ==
+  - I have not seen any texts define 銖 as being an actual coin
+    rather than merely as a unit of weight.
+  ==
 $$
 
 
