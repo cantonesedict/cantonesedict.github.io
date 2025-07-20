@@ -320,7 +320,7 @@ W
   ====
   - [[Page~30* (1)珠]]
     ==
-    - A pearl;
+    - A pearl [[Kangxi: 蚌之隂精]];
     - a bead;
     - a necklace;
     - beadlike;
@@ -364,6 +364,10 @@ W
         the cheeks.
     ==
   ====
+C
+  ==
+  - Williams' 眼珠: Or, "eyeball".
+  ==
 E
   ====
   - 【面珠】 (min6 zyu1):
