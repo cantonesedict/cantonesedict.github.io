@@ -73,6 +73,10 @@ R
   ⼈ + 6
 U
   U+4F8F
+A
+  ==
+  - $朱1
+  ==
 F
   ==
   - [[F1.43 侏]] 侏儒矮人
@@ -142,9 +146,9 @@ W
   ====
   - [[Page~29* (1)朱]]
     ==
-    - A coniferæ with red heartwood;
+    - A coniferæ with red heartwood [[Kangxi: 赤心木松柏之屬]];
     - vermilion;
-    - a cinnabar red;
+    - a cinnabar red [[Kangxi: 朱赤深纁也]];
     - _kung(6) k(i/)t(8) (1)ch(u:) (4)ch(')an_
         [[gung6 git3 zyu1 can4 共結朱陳]],
         to make a contract of marriage;
@@ -158,11 +162,25 @@ W
         [[zyu1 bat1 dim2 tau4 朱筆點頭]],
         to dot off with a red point.
     ==
+    --
+    [[Otherwise, an alternative form of 侏. **See $侏zyu1 for the canonical entry.**]]
+    --
   ====
 C
   ==
   - Williams' "pencil": In the (now) dated sense of a brush.
   ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
+E
+  ====
+  - 【朱古力】 (zyu1 gu2-1 lik6-1):
+    ++
+    1. Chocolate.
+    ++
+  ====
 $$
 
 ### 株1 | _(1)Ch(u:)_ [[zyu1]]
