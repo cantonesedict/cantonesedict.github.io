@@ -554,11 +554,11 @@ W
   ====
   - [[Page~30* (1)誅]]
     ==
-    - To make judicial inquiry;
-    - to punish, to destroy, to kill;
-    - to exterminate;
-    - to reprove;
-    - to involve in;
+    - ~~To make judicial inquiry;~~
+    - to punish [[Kangxi: 罰也]], to destroy, to kill [[Kangxi: 討也, 殺也, 誅者戮其人]];
+    - to exterminate [[Kangxi: 罪及餘人曰誅]];
+    - to reprove [[Kangxi: 責也 etc.]];
+    - ~~to involve in;~~
     - _(1)t(')(i/)n (1)ch(u:)_
         [[tin1 zyu1 天誅]],
         divine (or imperial) punishment;
@@ -577,6 +577,11 @@ C
   ==
   - Williams' 誅罰: Changed _f(a/)t(9)_ (faat6) to modern _fat(9)_ (fat6).
   ==
+P
+  ++
+  1. To rid (Kangxi: 翦除也).
+  1. To seek.
+  ++
 $$
 
 ### 諸1 | _(1)Ch(u:)_ [[zyu1]]
