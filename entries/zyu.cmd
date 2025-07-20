@@ -848,10 +848,10 @@ W
     --
   - [[Page~30* (2)主]]
     ==
-    - A rule, a lord, a master;
-    - a host;
+    - A rule, a lord, a master [[Kangxi: 君也]];
+    - a host [[Kangxi: 賔之對也]];
     - the chief, the head;
-    - to govern, to rule;
+    - to govern, to rule [[Kangxi: 宰也守也宗也]];
     - to make one the head;
     - certainly, undoubtedly, as a lord's behests;
     - _p(i/)t(7) (2)ch(u:) ying(3) fuk(7)_
@@ -869,7 +869,7 @@ W
         landlord;
     - _(1)kung (2)ch(u:)_
         [[gung1 zyu2 公主]],
-        a princess;
+        a princess [[Kangxi: 天子女曰公主]];
     - _(5)sh(e/)ung (2)ch(u:)_
         [[soeng5 zyu2 上主]],
         to put up the tablet;
@@ -893,7 +893,7 @@ W
         the true God, used by Moslems;
     - _(4)shan (2)ch(u:)_
         [[san4 zyu2 神主]],
-        the ancestral tablet;
+        the ancestral tablet [[Kangxi: 神主宗廟立以棲神用栗木爲之]];
     - _(4)ts(')oi (2)ch(u:) (2)l(o\)_
         [[coi4 zyu2 lou2 財主佬]],
         a rich man;
@@ -932,6 +932,15 @@ C
   ==
   - Williams' 主宰: Corrected _(2)ts(')oi_ (coi2) to _(2)tsoi_ (zoi2).
   ==
+P
+  ++
+  1. An owner.
+  1. Main, principal.
+  1. A person or party involved.
+  1. To signify.
+  1. To occupy (Kangxi: 主猶坐也).
+  1. Short for 公主.
+  ++
 $$
 
 ###+ 拄2 | _(2)Ch(u:)_ (zyu2)
