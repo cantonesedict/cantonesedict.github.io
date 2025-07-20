@@ -740,7 +740,7 @@ W
   - [[Page~30* (1)邾]]
     ==
     - A feudal state in the south of Sh(a/)ntung [[山東]],
-      now the district of Tsau [[鄒]];
+      now the district of Tsau [[鄒]] [[Kangxi: 魯附庸國 etc., 邾今魯國鄒縣也]];
     - _(2)si(u/) (1)ch(u:)_ [[siu2 zyu1 小邾]]^
       was a principality lying south of it.
     ==
