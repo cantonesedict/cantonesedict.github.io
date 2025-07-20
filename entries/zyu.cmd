@@ -1043,6 +1043,7 @@ H
 A
   ==
   - 煑
+  - 䰞
   ==
 F
   ==
@@ -1053,7 +1054,7 @@ W
   - [[Page~31* (2)煮]]
     ==
     - To boil in water, to steep, to decoct;
-    - to cook, to dress food;
+    - to cook [[Kangxi 煑: 亨也]], to dress food;
     - boiled;
     - _(2)ch(u:) f(a/)n(6)_
         [[zyu2 faan6 煮飯]]
