@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-07-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -139,7 +139,7 @@ W
 C
   ==
   - The reading _(1)ch(')(a/)_ (caa1) is not unattested;
-    《洪武正韻牋》逸字 has the reading 初加切.
+    the character 岔 appears under 《洪武正韻牋》初加切逸字.
   - Williams does not provide separate entries for 岔 and $汊1,
     probably following Kangxi, which has 與汊同 under 岔.
     I have split things up accordingly.
