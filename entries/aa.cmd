@@ -556,7 +556,7 @@ E
   ====
   - 【啊-final】 (a3, aa3):
     ++
-    1. A final particle.
+    1. A final particle (with a hint of emphasis).
        ==
        - 到未啊 (dou3 mei6 a3): "[Are we] there yet?"
        - 未到啊 (mei6 dou3 a3): "Not there yet."
