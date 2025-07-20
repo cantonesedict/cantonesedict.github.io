@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-07-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -976,10 +976,6 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - [Jyutping.org suggests using 喳 as the canonical character for zaa4.]
-  ==
 E
   ====
   - 【喳】 (za4, zaa4):

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ai
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-07-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -67,7 +67,6 @@ A
   ==
 V
   ==
-  - aai1 (longer syllable for particle sense)
   - ngai1 (common for "beg" sense)
   ==
 F
@@ -92,7 +91,6 @@ W
 C
   ==
   - Williams' 哎求你: Corrected _(1)k(')au_ (kau1) to _(4)k(')au_ (kau4).
-  - [Jyutping.org suggests using 哎 as the canonical character for ai1 or aai1.]
   ==
 E
   ====

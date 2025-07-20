@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-07-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -182,10 +182,6 @@ W
     [[...]]
     --
   ====
-C
-  ==
-  - [Jyutping.org suggests using 吖 as the canonical character for aa1.]
-  ==
 E
   ====
   - 【吖】 (a1, aa1):
@@ -555,7 +551,6 @@ W
 C
   ==
   - Williams' 唔好啊: Also an emphatic form of the imperative "don't".
-  - [Jyutping.org suggests using 啊 as the canonical character for aa3.]
   ==
 E
   ====
@@ -700,10 +695,6 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - [Jyutping.org suggests using 呀 as the canonical character for aa4.]
-  ==
 E
   ====
   - 【呀】 (a4):
