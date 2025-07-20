@@ -1307,8 +1307,7 @@ W
   ====
   - [[Page~31* 蛀(3)]]
     ==
-    - An insect _(Ptinus)_ which eats books;
-    - moths in clothes, wood, &c.;
+    - An insect _(Ptinus)_ which eats books~~; moths in~~ clothes, wood, &c. [[Kangxi: 木蠹蟲亦名蛀蟲]];
     - to eat, as insects do;
     - _ch(u:)(3) l(a/)n(6)_
         [[zyu3 laan6 蛀爛]]
