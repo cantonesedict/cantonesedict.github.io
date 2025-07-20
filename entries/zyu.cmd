@@ -1157,13 +1157,12 @@ W
   ====
   - [[Page~31* 注(3)]]
     ==
-    - Water disparting in streamlets, to lead water in channels;
+    - ~~Water disparting in streamlets~~, to lead water in channels [[Kangxi: 引也]];
     - to soak;
-    - to record;
-    - to comment;
-    - to collect;
-    - to strike;
-    - to fix the mind on;
+    - [[...]];
+    - to collect [[Kangxi: 聚也]];
+    - to strike [[Kangxi: 擊也]];
+    - to fix the mind on [[Kangxi: 意所嚮曰注]];
     - _ch(u:)(3) (i/)(3)_
         [[zyu3 ji3 注意]]
         attend to closely;
@@ -1175,11 +1174,15 @@ W
         [[zyu3 muk6 注目]]
         to gaze at.
     ==
+    --
+    [[Otherwise, an alternative form of 註. **See $註zyu3 for the canonical entry.**]]
+    --
   ====
-C
-  ==
-  - Also see $註zyu3 for the "record" and "commentary" senses.
-  ==
+P
+  ++
+  1. To pour in, to inject (Kangxi: 灌也, 水流射也).
+  1. A stake, a wager.
+  ++
 $$
 
 ### 炷3 | _Ch(u:)(3)_ [[zyu3]]
@@ -1333,6 +1336,13 @@ F
   ==
 W
   ====
+  - [[Page~31* 注(3)]]
+    ==
+    - [[...]];
+    - to record [[Kangxi 注: 記也 etc.]];
+    - to comment [[Kangxi 注: 凡以傳釋經曰注通作註]];
+    - [[...]].
+    ==
   - [[Page~31* 註(3)]]
     --
     Used with the last two [[$著3, $注3]].
