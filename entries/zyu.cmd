@@ -232,7 +232,7 @@ W
     ==
     - A small stream in Sh(a/)ntung [[山東]]
       flowing north from T(a/)i shan [[泰山]]
-      into the R.~Sz' [[泗]].
+      into the R.~Sz' [[泗]] [[Kangxi: 水名, 洙水出泰山郡蓋縣臨樂子山西北入泗]].
     ==
   ====
 $$
