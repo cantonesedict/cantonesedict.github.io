@@ -1192,6 +1192,10 @@ R
   ⽕ + 5
 U
   U+70B7
+V
+  ==
+  - zyu2 (alternative per 《廣韻》之庾切)
+  ==
 F
   ==
   - [[F1.47 炷]] 炷香
@@ -1200,7 +1204,7 @@ W
   ====
   - [[Page~31* 炷(3)]]
     ==
-    - A wick;
+    - A wick [[Kangxi: 燈炷也, 火炷燼所著者]];
     - a stick of incense;
     - to light;
     - _yat(7) ch(u/)(3) (1)h(e/)ung_
