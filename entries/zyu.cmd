@@ -1394,7 +1394,7 @@ W
   ====
   - [[Page~31* 鑄(3)]]
     ==
-    - To melt, to fuse metals;
+    - To melt, to fuse metals [[Kangxi: 銷金成器也, 鎔鑄也]];
     - to cast;
     - _ch(u:)(3) (4)ts(')(i/)n_
         [[zyu3 cin4 鑄錢]],
@@ -1408,6 +1408,10 @@ C
   ==
   - Fan Wan entry: Corrected 鋊 to 鎔.
   ==
+P
+  ++
+  1. To form, to cultivate.
+  ++
 $$
 
 ### 霔3 | _Ch(u:)(3)_ [[zyu3]]
