@@ -1131,6 +1131,7 @@ $$
 =={.modern}
 - $注3
 - $炷3
+- $祝3
 - $翥3
 - $著3
 - $蛀3
@@ -1215,6 +1216,28 @@ W
         to light the incense stick.
     ==
   ====
+$$
+
+###+ 祝3 | _Ch(u:)(3)_ (zyu3)
+
+$$
+R
+  ⽰ + 5
+U
+  U+795D
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. To apply medicine topically (Kangxi: 祝讀如注病之注謂附著藥也).
+  ++
+S
+  ==
+  - $祝zau3
+  - $祝zuk1
+  ==
 $$
 
 ###+ 翥3 | _Ch(u:)(3)_ (zyu3)
