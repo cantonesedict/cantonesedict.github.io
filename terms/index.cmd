@@ -467,6 +467,9 @@ window.onload = applyFilter;
     , dak1 cik1
     , [得敕](/entries/cik#cantonese-得敕)
   //
+    , dak1 zai6
+    , [得嚌](/entries/zai#cantonese-得嚌)
+  //
     , faa1 zi2
     , [花紙](/entries/zi#cantonese-花紙)
   //
@@ -598,6 +601,9 @@ window.onload = applyFilter;
   //
     , maa4 zoek3-2
     , [麻雀](/entries/zoek#cantonese-麻雀)
+  //
+    , mat1 zai6
+    , [乜嚌](/entries/zai#cantonese-乜嚌)
   //
     , mei5-1 zi2
     , [尾指](/entries/zi#cantonese-尾指)
@@ -763,9 +769,6 @@ window.onload = applyFilter;
   //
     , zai3
     , [掣](/entries/zai#cantonese-掣)
-  //
-    , zai6
-    , [嚌](/entries/zai#cantonese-嚌)
   //
     , zai6
     , [滯](/entries/zai#cantonese-滯)

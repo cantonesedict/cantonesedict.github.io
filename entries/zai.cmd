@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-07-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1129,6 +1129,14 @@ C
   ==
 E
   ====
+  - 【得嚌】 (dak1 zai6):
+    ++
+    1. A final particle of excessive degree.
+      ==
+      - 多得嚌 (do1 dak1 zai6): "Too much."
+      - 熱得嚌 (jit6 dak1 zai6): "[It's] too hot."
+      ==
+    ++
   - 【咁嚌】 (gam3 zai6):
     ++
     1. A final particle of almostness.
@@ -1137,12 +1145,12 @@ E
       - 食完咁嚌 (sik6 jyun4 gam3 zai6): "[We've] finished eating, almost."
       ==
     ++
-  - 【嚌】 (zai6):
+  - 【乜嚌】 (mat1 zai6):
     ++
-    1. A final particle of excessive degree.
+    1. A final particle of almost-nothingness.
       ==
-      - 多得嚌 (do1 dak1 zai6): "Too much."
-      - 熱得嚌 (jit6 dak1 zai6): "[It's] too hot."
+      - 冇乜嚌 (mou5 mat1 zai6): "Almost nothing."
+      - 冇食乜嚌 (mou5 sik6 mat1 zai6): "Barely ate any [of it]."
       ==
     ++
   ====
