@@ -13,6 +13,7 @@ Dependencies:
 
 ```bash
 pipx install conwaymd
+pipx install html5validator
 ```
 
 Build:
@@ -20,6 +21,7 @@ Build:
 ```bash
 ./autoupdate.py
 cmd --all
+html5validator --root .
 ```
 
 
