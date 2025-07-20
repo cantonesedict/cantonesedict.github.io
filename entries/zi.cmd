@@ -159,6 +159,10 @@ P
   1. This (Kangxi: 此也).
   1. Till, until (Kangxi: 至也).
   ++
+S
+  ==
+  - $之zaa1
+  ==
 $$
 
 ### 兹1 | _(1)Tsz'_ [[zi1]]

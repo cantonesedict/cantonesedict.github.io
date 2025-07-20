@@ -671,6 +671,9 @@ window.onload = applyFilter;
     , waa6 zaai1
     , [話齋](/entries/zaai#cantonese-話齋)
   //
+    , za1 maa3
+    , [之嘛](/entries/zaa#cantonese-之嘛)
+  //
     , za3
     , [咋](/entries/zaa#cantonese-咋)
   //

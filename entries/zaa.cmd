@@ -47,6 +47,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $之1
 - $吒1
 - $咱1
 - ${𠾵=⿰口揸}1
@@ -60,6 +61,55 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+###+ 之1 | _(1)Ch(a/)_ (zaa1)
+
+$$
+R
+  ⼃ + 3
+U
+  U+4E4B
+V
+  ==
+  - za1 (shorter syllable)
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Modern Cantonese dictionaries indicate a reading of zi1 maa3 for 之嘛.
+    I disagree with this reading for three reasons:
+    ++
+    1. I have only heard za1 maa3.
+    2. I believe that 之嘛 (za1 maa3)
+       is a contraction of 啫 (ze1) + 吖嘛 (a1 maa3),
+       in the same way that {𠺢=⿰口家}嘛 (ga1 maa3)
+       is shortened from 嘅 (ge3) + 吖嘛 (a1 maa3).
+    3. I believe that any insistence on the reading of zi1 maa3
+       is a case of incorrectly letting the spelling
+       dictate the pronunciation.
+       It would be more helpful if za1 maa3 were written {𠾵=⿰口揸}嘛 instead,
+       but unfortunately the spelling 之嘛 is already well established.
+    ++
+  ==
+E
+  ====
+  - 【之嘛】 (za1 maa3):
+    ++
+    1. A final particle of limitation, especially used defensively.
+      ==
+      - 講笑之嘛 (gong2 siu3 za1 maa3): "Just kidding!"
+      - 等兩日之嘛 (dang2 loeng5 jat6 za1 maa3): "[It's] just [a] two-day wait."
+      ==
+    ++
+  ====
+S
+  ==
+  - $之zi1
+  ==
+$$
 
 ###+ 吒1 | _(1)Ch(a/)_ (zaa1)
 
