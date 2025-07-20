@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-07-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -81,11 +81,11 @@ W
   ====
   - [[Page~30* (1)侏]]
     ==
-    - A pigmy;
-    - a short pillar in a roof like a king-post;
+    - A pigmy [[Kangxi: 侏儒容貌短小也]];
+    - a short pillar in a roof like a king-post [[Kangxi: 梁上短柱亦曰侏儒]];
     - _(1)ch(u:) (4)(u:)_
         [[zyu1 jyu4 侏儒]],
-        a dwarf.
+        a dwarf [[Kangxi: 侏儒短人也]].
     ==
   ====
 $$
