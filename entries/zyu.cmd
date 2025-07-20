@@ -163,6 +163,9 @@ W
         to dot off with a red point.
     ==
     --
+    [[Otherwise, an alternative form of 硃. **See $硃zyu1 for the canonical entry.**]]
+    --
+    --
     [[Otherwise, an alternative form of 侏. **See $侏zyu1 for the canonical entry.**]]
     --
   ====
@@ -388,6 +391,10 @@ R
   ⽯ + 6
 U
   U+7843
+A
+  ==
+  - $朱1
+  ==
 F
   ==
   - [[F1.43 硃]] 銀硃硃砂
@@ -396,7 +403,7 @@ W
   ====
   - [[Page~30* (1)硃]]
     ==
-    - Cinnabar;
+    - Cinnabar [[Kangxi: 丹砂也]];
     - _(1)ch(u:) (1)sh(a/)_
         [[zyu1 saa1 硃砂]],
         cinnabar ore;
