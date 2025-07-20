@@ -358,7 +358,7 @@ W
     ==
   - [[Page~30* (1)䏭; here normalised to 珠]]
     --
-    [[...]]
+    An unauthorized character.
     --
     ==
     - The cheeks;
@@ -470,8 +470,7 @@ W
   ====
   - [[Page~30* (1)䏭]]
     --
-    An unauthorized character
-    [[here normalised to 珠; **see $珠zyu1 for the canonical entry**]].
+    [[Alternative form of 珠 (for the "cheek" sense). **See $珠zyu1 for the canonical entry.**]]
     --
   ====
 $$
