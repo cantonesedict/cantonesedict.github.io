@@ -812,12 +812,12 @@ W
   ====
   - [[Page~30* (2)丶]]
     ==
-    - The flame of a lamp;
-    - a stop[,] a point;
+    - The flame of a lamp [[Kangxi: 鐙中火丶也]];
+    - a stop[,] a point [[Kangxi: 有所絕止丶而識之也]];
     - the third radical.
     ==
     --
-    Occurs used for the next [[$主2]].
+    [[Otherwise, an alternative form of 主. **See $主zyu2 for the canonical entry.**]]
     --
   ====
 $$
@@ -829,12 +829,23 @@ R
   ⼂ + 4
 U
   U+4E3B
+A
+  ==
+  - $丶2
+  ==
 F
   ==
   - [[F1.46 主]] 君也宰也又賓主
   ==
 W
   ====
+  - [[Page~30* (2)丶]]
+    --
+    [[...]]
+    --
+    --
+    Occurs used for the next [[主]] [[Kangxi 丶: 借爲主宰字]].
+    --
   - [[Page~30* (2)主]]
     ==
     - A rule, a lord, a master;
