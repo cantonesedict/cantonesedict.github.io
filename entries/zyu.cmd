@@ -1348,12 +1348,12 @@ W
     ==
   - [[Page~31* 註(3)]]
     --
-    Used with the last two [[$著3, $注3]].
+    Used with the last ~~two~~ [[~~著~~, 注]].
     --
     ==
-    - To define, to explain, to illustrate;
-    - to record, to write about;
-    - a commentary, note, definition;
+    - To define, to explain, to illustrate [[Kangxi: 訓釋也, 註者著也言爲之解說使其義著明也]];
+    - to record, to write about [[Kangxi: 識也, 記物曰註]];
+    - a commentary, note, definition [[Kangxi: 疏也解也]];
     - _ch(u:)(3) shik(7)_
         [[zyu3 sik1 註釋]]
         to explain;
@@ -1374,8 +1374,8 @@ C
   - Fan Wan entry: Corrected ⿰訁㔾 to 記.
   - Williams' "Used with the last two":
     I have not seen 著 used for 註 (or vice versa).
-    Kangxi quotes 《毛詩序疏》註者著也,
-    but this is an explanation, not an interchanging.
+    Kangxi's reference to 《毛詩序疏》註者著也 is an explanation,
+    not an interchanging.
   ==
 $$
 
