@@ -443,13 +443,15 @@ W
   ====
   - [[Page~30* (1)祩]]
     ==
-    - To curse, to imprecate misfortunes upon one.
+    - To curse, to imprecate misfortunes upon one [[Kangxi: 咒祩, 詛也]].
     ==
   ====
 C
   ==
   - The level-tone reading _(1)ch(u:)_ (zyu1) is not unattested;
-    Kangxi quotes 《集韻》《韻會》{𠀤=⿱夶一}鐘輸切音朱呪祩.
+    《集韻》 has the readings 鍾輸切 (explained 博雅詛也) and 追輸切 (explained 詛也).
+    Moreover, the 《廣韻》 entry for 秼 is likely a typo for 祩;
+    it has the reading 章俱切, and is explained 詛也又音注.
   ==
 $$
 
