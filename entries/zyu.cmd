@@ -250,6 +250,7 @@ H
 A
   ==
   - 潴
+  - $豬1
   ==
 F
   ==
@@ -259,12 +260,21 @@ W
   ====
   - [[Page~29* (1)瀦]]
     ==
-    - A pool where water settles;
+    - A pool where water settles [[Kangxi: 水所停也]];
     - _(1)ch(u:) (2)shui_
         [[zyu1 seoi2 瀦水]],
         an affluent of the Grand Canal in Sh(a/)ntung [[山東]].
     ==
   ====
+C
+  ==
+  - Williams' 瀦水: Probably a reference to 瀦水河, now 洙水河.
+    In the generic sense, 瀦水 just means "gathered waters".
+  ==
+P
+  ++
+  1. To gather.
+  ++
 $$
 
 ### 猪1 | _(1)Ch(u:)_ [[zyu1]]
@@ -678,6 +688,9 @@ W
         [[zyu1 paai4 gwat1 豬排骨]]
         pork-chops.
     ==
+    --
+    [[Otherwise, an alternative form of 瀦. **See $瀦zyu1 for the canonical entry.**]]
+    --
   ====
 $$
 
