@@ -1513,7 +1513,7 @@ W
   ====
   - [[Page~31* 駐(3)]]
     ==
-    - To stop a horse;
+    - To stop a horse [[Kangxi: 馬立也, 馬止也]];
     - to rest, to tarry, to sojourn;
     - a stopping-place;
     - _ch(u:)(3) tsuk(7)_
@@ -1528,6 +1528,10 @@ W
         to tarry a while at.
     ==
   ====
+P
+  ++
+  1. To halt, to stay.
+  ++
 $$
 
 
