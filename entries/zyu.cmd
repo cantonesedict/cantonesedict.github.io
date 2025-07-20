@@ -494,7 +494,7 @@ W
   ====
   - [[Page~30* (1)茱]]
     ==
-    - A warm, peppery medicine;
+    - A warm, peppery medicine [[Kangxi: 茱萸藥名]];
     - _(1)ch(u:) (4)(u:)_
         [[zyu1 jyu4 茱萸]],
         hellebore;
