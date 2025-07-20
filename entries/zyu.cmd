@@ -1075,7 +1075,7 @@ $$
 
 ### 翥2 | _(2)Ch(u:)_ [[zyu2]]
 
-$$
+$$.
 R
   ⽻ + 8
 U
@@ -1090,11 +1090,14 @@ F
 W
   ====
   - [[Page~31* (2)翥]]
-    ==
-    - To fly up, to fly away;
-    - to soar, as a phœnix does.
-    ==
+    --
+    [[Reading variation. **See $翥zyu3 for the canonical entry.**]]
+    --
   ====
+S
+  ==
+  - $翥zyu3
+  ==
 $$
 
 ### 麈2 | _(2)Ch(u:)_ [[zyu2]]
@@ -1128,6 +1131,7 @@ $$
 =={.modern}
 - $注3
 - $炷3
+- $翥3
 - $著3
 - $蛀3
 - $註3
@@ -1204,6 +1208,38 @@ W
         to light the incense stick.
     ==
   ====
+$$
+
+###+ 翥3 | _Ch(u:)(3)_ (zyu3)
+
+$$
+R
+  ⽻ + 8
+U
+  U+7FE5
+H
+  May appear with 者 dotless (+8 assumed here) or dotted (+9),
+  depending on the font.
+V
+  ==
+  - zyu2 (per 《洪武正韻牋》腫庾切逸字)
+  ==
+F
+  ==
+  - [[F1.46 翥 _(2)Ch(u:)_ (zyu2)]] 飛舉也
+  ==
+W
+  ====
+  - [[Page~31* (2)翥 _(2)Ch(u:)_ (zyu2); here normalised to _Ch(u:)(3)_ (zyu3)]]
+    ==
+    - To fly up [[Kangxi: 飛舉也]], to fly away;
+    - to soar [[Kangxi: 翥舉也, 謂軒翥也]], as a phœnix does.
+    ==
+  ====
+S
+  ==
+  - $翥zyu2
+  ==
 $$
 
 ### 著3 | _Ch(u:)(3)_ [[zyu3]]
