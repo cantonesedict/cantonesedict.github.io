@@ -1022,9 +1022,9 @@ W
   ====
   - [[Page~31* (2)渚]]
     ==
-    - An affluent of the R.~Hw(a/)i [[淮]]
-      near H(u:) chau [[許州]] in Hon(a/)n [[河南]];
-    - an islet;
+    - An affluent ~~of the R.~Hw(a/)i [[淮]]
+      near H(u:) chau [[許州]] in Hon(a/)n [[河南]]~~ [[Kangxi: 水名, 水出常山中丘逢山東入湡]];
+    - an islet [[Kangxi: 小洲曰渚]];
     - a place awash in a river.
     ==
   ====
