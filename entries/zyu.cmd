@@ -198,9 +198,9 @@ W
   ====
   - [[Page~30* (1)株]]
     ==
-    - The trunk or bole of a tree;
-    - a classifier of trees;
-    - degraded, low down;
+    - The trunk or bole of a tree [[Kangxi: 木根也徐曰在土曰根在土上曰株]];
+    - a classifier of trees [[Kangxi: 木身也]];
+    - degraded, low down [[Kangxi: 謂最處底下也]];
     - _(1)song sh(u:)(6) ts(')at(7) (1)ch(u:)_
         [[song1 syu6 cat1 zyu1 桑樹七株]],
         seven mulberry trees;
