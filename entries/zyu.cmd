@@ -1130,6 +1130,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $注3
+- $澍3
 - $炷3
 - $祝3
 - $翥3
@@ -1150,6 +1151,10 @@ R
   ⽔ + 5
 U
   U+6CE8
+A
+  ==
+  - $澍3
+  ==
 F
   ==
   - [[F1.47 注]] 意之所主又灌注厝注
@@ -1184,6 +1189,36 @@ P
   1. To pour in, to inject (Kangxi: 灌也, 水流射也).
   1. A stake, a wager.
   ++
+$$
+
+###+ 澍3 | _Ch(u:)(3)_ (zyu3)
+
+$$
+R
+  ⽔ + 12
+U
+  U+6F8D
+A
+  ==
+  - $霔3
+  ==
+V
+  ==
+  - syu6 (alternative per 《廣韻》常句切)
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Timely rain (Kangxi: 時雨澍生萬物).
+  1. Alternative form of 注. **See $注zyu3 for the canonical entry.**
+  ++
+S
+  ==
+  - $澍syu6 (TODO)
+  ==
 $$
 
 ### 炷3 | _Ch(u:)(3)_ [[zyu3]]
@@ -1452,11 +1487,14 @@ W
   ====
   - [[Page~31* 霔(3)]]
     ==
-    - A seasonable shower;
+    - A seasonable shower [[Kangxi: 霔霖, 霖霔, 本作澍時雨澍生萬物]];
     - _ch(u:)(3) (4)lam_
         [[zyu3 lam4 霔霖]],
         an opportune rain.
     ==
+    --
+    [[Alternative form of 澍. See $澍zyu3.]]
+    --
   ====
 $$
 
