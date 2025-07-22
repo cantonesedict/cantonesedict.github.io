@@ -952,6 +952,7 @@ $$
 - $朘3
 - $浚3
 - $濬3
+- $瑨3
 - $畯3
 - $睃3
 - $竣3
@@ -1294,6 +1295,30 @@ W
     --
     [[Alternative form of 浚 (for the "deep", "dig", and proper-name senses). **See $浚zeon3 for the canonical entry.**]]
     --
+  ====
+$$
+
+### 瑨3 | _Tsun(3)_ [[zeon3]]
+
+$$
+R
+  ⽟ + 10
+U
+  U+7468
+H
+  May appear as either ⿰𤣩晉 (assumed here) or ⿰𤣩晋,
+  depending on the font.
+F
+  ==
+  - [[F2.54 瑨]] 美石也
+  ==
+W
+  ====
+  - [[Page~602 瑨(3)]]
+    ==
+    - A pebble or secondary gem [[Kangxi: 次玉]];
+    - a stone which may be considered precious [[Kangxi: 美石]].
+    ==
   ====
 $$
 
