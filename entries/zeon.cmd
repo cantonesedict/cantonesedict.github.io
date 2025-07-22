@@ -955,6 +955,7 @@ $$
 - $畯3
 - $睃3
 - $竣3
+- $縉3
 - $進3
 - $鐫3
 - $雋3
@@ -1121,6 +1122,8 @@ H
 A
   ==
   - $晉3
+  - $縉3 (in 搢紳 spelt 縉紳)
+  - 薦
   ==
 F
   ==
@@ -1142,12 +1145,32 @@ W
     - to shake [[Kangxi: 振也]].
     ==
     --
-    Used for the next [[縉]].
+    ~~Used for the next [[縉]].~~
     --
+  - [[Page~602 縉(3); here normalised to 搢]]
+    ==
+    - [[...]];
+    - ~~to wrap around;~~
+    - ~~to gird, as with a sash;~~
+    - _tsun(3) (1)shan_
+        [[zeon3 san1 搢紳]],
+        the "~~red~~ sashes" are the gentry or literati;
+    - _tsun(3) (1)shan (4)ts(')(u:)n (1)shu_
+        [[zeon3 san1 cyun4 syu1 搢紳全書]],
+        the red book;
+    - _tsun(3) (1)shan (1)s(i/)n (1)[sh(a/)ng]_
+        [[zeon3 san1 sin1 saang1 搢紳先生]],
+        a literary gentleman.
+    ==
   ====
 C
   ==
   - Fan Wan entry: Corrected 千 to 于.
+  - Williams' "Used for the next": It is the other way round (縉 is used for 搢).
+  - Williams' "to wrap around", "to gird": These are incorrect.
+    Here, 縉 is used for 搢, meaning "insert" or "tuck" (Kangxi 縉: 扱也).
+  - Williams' 搢紳先生: Changed _(1)shang_ (sang1)
+    to vernacular reading _(1)sh(a/)ng_ (saang1).
   ==
 $$
 
@@ -1374,6 +1397,34 @@ C
     According to 段玉裁's annotations of 《說文》, 倨也 as seen in 《廣韻》
     is evidence that the explanation of 竣 should be 居也.
   ==
+$$
+
+### 縉3 | _Tsun(3)_ [[zeon3]]
+
+$$
+R
+  ⽷ + 10
+U
+  U+7E09
+H
+  May appear as either ⿰糹晉 (assumed here) or ⿰糹晋,
+  depending on the font.
+F
+  ==
+  - [[F2.54 縉]] ::居官曰縉紳插笏[于]大帶之間曰縉::
+  - [[F2.54 搢]] 同上
+  ==
+W
+  ====
+  - [[Page~602 縉(3)]]
+    ==
+    - Carnation colored silk [[Kangxi: 帛赤色]], a light red [[Kangxi: 縉淺赤色也]];
+    - [[...]].
+    ==
+    --
+    [[Otherwise, an alternative form of 搢. **See $搢zeon3 for the canonical entry.**]]
+    --
+  ====
 $$
 
 ### 進3 | _Tsun(3)_ [[zeon3]]

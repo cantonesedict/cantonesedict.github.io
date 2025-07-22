@@ -382,6 +382,7 @@ For all radicals, see [Index of characters by radical](./).
       - $縗ceoi1
       - $縐zau3
       - $縋zeoi6
+      - $縉zeon3
       ==
       </nav>
   //
