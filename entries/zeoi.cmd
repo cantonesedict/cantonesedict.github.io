@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-07-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -45,7 +45,7 @@ MP
 $$
 
 
-##{#1 .williams} (1)Chui (1)Ts(u:) (1)Tsui [[zeoi1 陰平]]
+##{#1 .williams} (1)Chui (1)Ts(u:) (1)Tsui <ins class="modern">(1)Ts(u/)i</ins> [[zeoi1 陰平]]
 
 <## tone-1-characters ##>
 <nav class="sideways">
@@ -55,6 +55,7 @@ $$
 - $沮1
 - $疽1
 - $睢1
+- $脧1
 - $苴1
 - $菹1
 - $蛆1
@@ -224,6 +225,51 @@ S
   - $睢fai1 (TODO)
   - $睢seoi1 (TODO)
   ==
+$$
+
+###+ 脧1 | _(1)Ts(u/)i_ (zeoi1)
+
+$$
+R
+  ⾁ + 7
+U
+  U+8127
+A
+  ==
+  - 䘒
+  ==
+V
+  ==
+  - zoe1 (vernacular)
+  - zoe1-4 (low first in reduplication 脧脧)
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - For the visually similar character under the moon radical, see $朘syun1. (TODO)
+  - In the entry for the moon-radical character,
+    Kangxi carefully notes that the left component is *not* meat (不从肉).
+  - In the entry for the meat-radical character,
+    Kangxi erroneously includes senses for the moon-radical character.
+  ==
+P
+  ++
+  1. A boy's genitals (Kangxi: 赤子隂也).
+  ++
+E
+  ====
+  - 【脧】 (zoe1):
+    ++
+    1. The penis.
+       ==
+       - 脧 (zoe1): "Peen."
+       - 脧脧 (zoe1-4 zoe1): "Willy."
+       ==
+    ++
+  ====
 $$
 
 ### 苴1 | _(1)Ts(u:)_ [[zeoi1]]
