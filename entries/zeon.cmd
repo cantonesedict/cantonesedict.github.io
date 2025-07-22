@@ -956,6 +956,7 @@ $$
 - $進3
 - $鐫3
 - $雋3
+- $餕3
 - $駿3
 ==
 </nav>
@@ -1434,6 +1435,28 @@ S
   ==
   - $雋syun5 (TODO)
   ==
+$$
+
+### 餕3 | _Tsun(3)_ [[zeon3]]
+
+$$
+R
+  ⾷ + 7
+U
+  U+9915
+F
+  ==
+  - [[F2.54 餕]] 食餘物也
+  ==
+W
+  ====
+  - [[Page~602 餕(3)]]
+    ==
+    - Hot food [[Kangxi: 熟食也]];
+    - to eat the remnants of an offering [[Kangxi: 祭畢食神之餘]] or a meal [[Kangxi: 凡食人之餘及日晚食饌之餘皆云餕]];
+    - the leavings on the table [[Kangxi: 食之餘也]].
+    ==
+  ====
 $$
 
 ### 駿3 | _Tsun(3)_ [[zeon3]]
