@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-07-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -947,6 +947,7 @@ $$
 - $儁3
 - $圳3
 - $峻3
+- $朘3
 - $浚3
 - $濬3
 - $畯3
@@ -1101,6 +1102,31 @@ W
 C
   ==
   - Fan Wan entry: The headword 峻 is a misprint of $竣3.
+  ==
+$$
+
+### 朘3 | _Tsun(3)_ [[zeon3]]
+
+$$.
+R
+  ⽉ + 7
+U
+  U+6718
+F
+  ==
+  - [[F2.53 朘]] 削也竭也
+  ==
+W
+  ====
+  - [[Page~602 朘(3)]]
+    --
+    [[Reading variation. **See $朘syun1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $朘syun1 (TODO)
+  - $朘zyun1 (TODO)
   ==
 $$
 
