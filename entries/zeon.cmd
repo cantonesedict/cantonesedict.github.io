@@ -947,6 +947,7 @@ $$
 - $儁3
 - $圳3
 - $峻3
+- $搢3
 - $晉3
 - $朘3
 - $浚3
@@ -1107,6 +1108,49 @@ C
   ==
 $$
 
+### 搢3 | _Tsun(3)_ [[zeon3]]
+
+$$
+R
+  ⼿ + 10
+U
+  U+6422
+H
+  May appear as either ⿰扌晉 (assumed here) or ⿰扌晋,
+  depending on the font.
+A
+  ==
+  - $晉3
+  ==
+F
+  ==
+  - [[F2.54 縉]] ::居官曰縉紳插笏[于]大帶之間曰縉::
+  - [[F2.54 搢]] 同上
+  ==
+W
+  ====
+  - [[Page~602 晉(3)晋(3); here normalised to 搢]]
+    ==
+    - [[...]];
+    - to stick [[Kangxi 晉: 晉插也]], as into a case or about the person;
+    - [[...]].
+    ==
+  - [[Page~602 搢(3)]]
+    ==
+    - To stick into, to insert [[Kangxi: 插也]];
+    - to put in, as into a socket;
+    - to shake [[Kangxi: 振也]].
+    ==
+    --
+    Used for the next [[縉]].
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 千 to 于.
+  ==
+$$
+
 ### 晉3 | _Tsun(3)_ [[zeon3]]
 
 $$
@@ -1128,11 +1172,14 @@ W
   - [[Page~602 晉(3)晋(3)]]
     ==
     - To increase, to flourish, to grow, as the sun makes all things [[Kangxi: 進也日出萬物進也, 晉進也, 以今釋古古之晉字卽以進長爲義]];
-    - to stick [[Kangxi: 晉插也]], as into a case or about the person; <## TODO: 搢zeon3 ##>
+    - [[...]];
     - to curb in a horse [[Kangxi: 晉猶抑也]];
     - name of a dynasty, divided into the Western and Eastern Tsin, A.D.~265--419;
     - a feudal state [[Kangxi: 國名]], now the southern part of Sh(a/)ns(i/) [[山西]].
     ==
+    --
+    [[Otherwise, an alternative form of 搢. **See $搢zeon3 for the canonical entry.**]]
+    --
   ====
 P
   ++
