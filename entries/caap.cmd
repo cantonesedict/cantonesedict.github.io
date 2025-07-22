@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caap
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-07-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -69,7 +69,7 @@ W
     --
     ==
     - To take, to receive [[Kangxi: 收也, 取也獲也]];
-    - to raise [[Kangxi: 引也舉也]]];
+    - to raise [[Kangxi: 引也舉也]];
     - to curtsey with the hands bowed to the ground [[Kangxi: 拜手至地也]];
     - to tuck up the skirts [[Kangxi: 扱衽曰襭 etc.]].
     ==
