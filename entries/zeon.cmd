@@ -947,6 +947,7 @@ $$
 - $儁3
 - $圳3
 - $峻3
+- $晉3
 - $朘3
 - $浚3
 - $濬3
@@ -1104,6 +1105,39 @@ C
   ==
   - Fan Wan entry: The headword 峻 is a misprint of $竣3.
   ==
+$$
+
+### 晉3 | _Tsun(3)_ [[zeon3]]
+
+$$
+R
+  ⽇ + 6
+U
+  U+6649
+A
+  ==
+  - 晋
+  ==
+F
+  ==
+  - [[F2.54 晉]] 進也又國名又卦名
+  - [[F2.54 晋]] 同上
+  ==
+W
+  ====
+  - [[Page~602 晉(3)晋(3)]]
+    ==
+    - To increase, to flourish, to grow, as the sun makes all things [[Kangxi: 進也日出萬物進也, 晉進也, 以今釋古古之晉字卽以進長爲義]];
+    - to stick [[Kangxi: 晉插也]], as into a case or about the person; <## TODO: 搢zeon3 ##>
+    - to curb in a horse [[Kangxi: 晉猶抑也]];
+    - name of a dynasty, divided into the Western and Eastern Tsin, A.D.~265--419;
+    - a feudal state [[Kangxi: 國名]], now the southern part of Sh(a/)ns(i/) [[山西]].
+    ==
+  ====
+P
+  ++
+  1. To rise, to promote.
+  ++
 $$
 
 ### 朘3 | _Tsun(3)_ [[zeon3]]
