@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2025-07-22
+* %date-modified --> 2025-07-24
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -659,7 +659,10 @@ W
   ====
   - [[Page~601 (2)儘]]
     ==
-    - [[...]]; all; the utmost degree;
+    - ~~Same as _tsun(6)_ [[zeon6]] 盡 to finish;~~
+    - ~~empty;~~
+    - all [[Kangxi 盡: 皆也]];
+    - the utmost degree [[Kangxi 盡: 極也, 盡之也]];
     - _(2)tsun (2)ho (5)(i/)_
         [[zeon2 ho2 ji5 儘可以]],
         it can be done;
@@ -672,7 +675,13 @@ C
   ==
   - The common reading zeon6 is reinforced by modern use of 盡快, 盡力, 盡量, etc.
     instead of 儘快, 儘力, 儘量, etc.
+  - Williams' "Same as [...]": This is a misreading of Kangxi 同盡,
+    which is only intended for the reading _(2)tsun_ (zeon2).
   ==
+P
+  ++
+  1. To allow, to let (Kangxi 盡: 任也, 縱令也, 俗作儘).
+  ++
 S
   ==
   - $儘zeon6
@@ -866,7 +875,7 @@ P
   ++
 S
   ==
-  - $盡zeon6 (TODO)
+  - $盡zeon6
   ==
 $$
 
@@ -1657,6 +1666,7 @@ $$
 =={.modern}
 - $儘6
 - $燼6
+- $盡6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -1707,4 +1717,105 @@ S
   ==
 $$
 
-<## TODO: - Same as _tsun(6)_ [[zeon6]^] 盡 to finish; empty; [[...]^] ##>
+### 盡6 | _Tsun(6)_ [[zeon6]]
+
+$$
+R
+  ⽫ + 9
+U
+  U+76E1
+A
+  ==
+  - 尽
+  ==
+F
+  ==
+  - [[F2.54 盡]] 空也竭也終也悉也
+  - [[F2.54 尽]] 同上
+  ==
+W
+  ====
+  - [[Page~602 盡(6)尽(6)]]
+    ==
+    - An empty vessel [[Kangxi: 器中空也]];
+    - to exhaust, to use all [[Kangxi: 竭也]];
+    - ~~to indulge, as one's grief;~~
+    - a quantity used up, a work brought to an end;
+    - made an end of [[Kangxi: 止也, 終也]], as life;
+    - finished, achieved, empty, exhausted;
+    - all, entirely, fully, wholly [[Kangxi: 悉也]];
+    - to do to the utmost, with the whole of;
+    - a superlative, the uttermost, extreme;
+    - _tsun(6) (5)ngo (1)sam_
+        [[zeon6 ngo5 sam1 盡我心]],
+        [obeying] [[these square brackets appear in the original text]]
+        with my whole heart;
+    - _tsun(6) t(i/)(6) k(o\)m(3) (1)to_
+        [[zeon6 dei6-2 gam3 do1 盡地咁多]],
+        there's only so much;
+    - _tsun(6) t(i/)(6) ts(o\)(6)_
+        [[zeon6 dei6-2 zou6 盡地做]]
+        use it all up then;
+    - _yung(6) tsun(6) (1)sam (1)k(i/)_
+        [[jung6 zeon6 sam1 gei1 用盡心機]],
+        employing all my abilities;
+    - _(1)k(a/) (4)ts(')oi s(a/)n(3) tsun(6)_
+        [[gaa1 coi4 saan3 zeon6 家財散盡]]
+        the whole estate is dissipated;
+    - _sh(a/)t(8) ko(3) tsun(6) ts(u:)t(9)_
+        [[saat3 go3 zeon6 zyut6 殺個盡絕]]
+        slew them all;
+    - _tsun(6) (u:)t(9)_
+        [[zeon6 jyut6 盡月]]
+        the twelfth month;
+    - _tsun(6) (u:)t(9) (2)p(i/) (5)n(i/)_
+        [[zeon6 jyut6 bei2 nei5 盡月畀你]],
+        I'll pay you at the ~~at the~~ month's end;
+    - _(2)k(o\)m ts(e/)(6) pat(7) tsun(6)_
+        [[gam2 ze6 bat1 zeon6 感謝不盡]]
+        I cannot express all my thanks;
+    - _tsun(6) chik(7)_
+        [[zeon6 zik1 盡職]]
+        to perform one's official duties fully;
+    - _(4)[h(a/)ng] tsun(6)_
+        [[haang4 zeon6 行盡]]
+        gone through the whole, gone all over;
+    - _tsun(6) (1)n(i/) (1)p(o\)_
+        [[zeon6 ni1 bou1 盡呢煲]],
+        try this one chance;
+        one chance left;
+    - _tsun(6) hai(6) (2)shui tsik(7)_
+        [[zeon6 hai6 seoi2 zik1 盡係水漬]]
+        all are water-soaked;
+    - _tsz'(6) tsun(6)_
+        [[zi6 zeon6 自盡]]
+        put an end to himself;
+    - _tsun(6) (4)t(')au_
+        [[zeon6 tau4 盡頭]],
+        gone to the end, at the extreme;
+    - _(4)m(o\) (4)k(')ung tsun(6)_
+        [[mou4 kung4 zeon6 無窮盡]]
+        inexhaustible;
+    - _tsun(6) ts(i/)t(8)_
+        [[zeon6 zit3 盡節]]
+        died a martyr to chastity.
+    ==
+  ====
+C
+  ==
+  - Williams' 盡地做: Better rendered "do to the extent possible".
+  - Williams' 行盡: Changed _(4)hang_ (hang4)
+    to vernacular reading _(4)h(a/)ng_ (haang4).
+  ==
+E
+  ====
+  - 【盡地】 (zeon6 dei6-2):
+    ++
+    1. Fully, to the extent possible, all in.
+    ++
+  ====
+S
+  ==
+  - $盡zeon2
+  ==
+$$
