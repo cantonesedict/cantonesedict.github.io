@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $春1
 - $椿1
+- $膥1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -88,6 +89,9 @@ W
         [[san1 ceon1 新春]],
         the first month.
     ==
+    --
+    [[Otherwise, an alternative form of 膥. **See $膥ceon1 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -144,3 +148,63 @@ C
     _(1)ch(')un (4)t(')ing_ (ceon1 ting4).
   ==
 $$
+
+### [膥]1 | _(1)Ch(')un_ [[ceon1]]
+
+$$
+R
+  ⾁ + 11
+U
+  U+81A5
+A
+  ==
+  - $春1
+  ==
+F
+  ==
+  - [[F2.52 ::[膥]::]] ::鳥之[卵]::
+  ==
+W
+  ====
+  - [[Page~37* ::(1)[膥]^::]]
+    ==
+    - An egg, fish roe, crab's eggs;
+    - _(4)lui (1)kung (1)ch(')un_
+        [[leoi4 gung1 ceon1 雷公膥]],
+        'thunder eggs,' truffles?
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised headword {𱼚=⿰未⿱成肉} to 膥,
+    and corrected missing left dot in 卵.
+  - Williams entry: Normalised headword {𱼚=⿰未⿱成肉} to 膥.
+  ==
+E
+  ====
+  - 【膥】 (ceon1):
+    ++
+    1. Egg or roe.
+       ==
+       - 雞膥 (gai1 ceon1): "Chicken egg."
+       - 魚膥 (jyu4 ceon1): "Fish roe."
+       - 水蛇膥咁長 (seoi2 se4 ceon1 gam3 coeng4): "Long as water-snake eggs."
+       ==
+    1. (_vulgar_) The testicles.
+       ==
+       - 燒膥袋 (siu1 ceon1 doi6): "Burnt ball sack" (see ''The Conmen in Vegas'').
+       ==
+    ++
+    --
+    For the (vulgar) intensifier senses,
+    and also for the hypothesised relation to springtime in Old Chinese,
+    see the [Wiktionary entry for 春][wiktionary-春].
+    --
+  - 【石膥】 (sek6 ceon1):
+    ++
+    1. A pebble.
+    ++
+  ====
+$$
+
+[wiktionary-春]: https://en.wiktionary.org/w/index.php?title=春&oldid=85392183#Etymology_2
