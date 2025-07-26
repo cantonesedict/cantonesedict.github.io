@@ -1028,6 +1028,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $楸cau1
+      - $椿ceon1
       - $楚co2
       - $椹zam1
       - $楨zing1

@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $春1
+- $椿1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -100,4 +101,46 @@ P
   1. Vitality, life.
   1. A type of alcohol (Kangxi: 酒名).
   ++
+$$
+
+### 椿1 | _(1)Ch(')un_ [[ceon1]]
+
+$$
+R
+  ⽊ + 9
+U
+  U+693F
+F
+  ==
+  - [[F2.52 椿]] 木名父曰椿母曰萱
+  ==
+W
+  ====
+  - [[Page~37* (1)椿]]
+    ==
+    - A longlived tree [[Kangxi: 上古有大椿者以八千歲爲春八千歲爲秋]], a kind of banian;
+    - _(1)ch(')un (4)t(')ong_
+        [[ceon1 tong4 椿堂]],
+        ~~a father~~;
+    - _(1)ch(')un (1)h(u:)n_
+        [[ceon1 hyun1 椿萱]],
+        father and mother.
+    ==
+    --
+    A colloquial word.
+    --
+    ==
+    - A classifier of affairs;
+    - an incident, an adventure;
+    - _yat(7) (1)ch(')un (4)k(')(i/) sz'(6)_
+        [[jat1 ceon1 kei4 si6 一椿奇事]]
+        a singular affair.
+    ==
+  ====
+C
+  ==
+  - Williams' 椿堂: This would be father and mother.
+    Father alone would instead be 椿庭
+    _(1)ch(')un (4)t(')ing_ (ceon1 ting4).
+  ==
 $$
