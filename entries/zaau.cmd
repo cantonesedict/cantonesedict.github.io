@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaau
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-07-26
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -582,7 +582,7 @@ F
   ==
 W
   ====
-  - [[Page~29|n72 罩(3)]]
+  - [[Page~29|n72 [罩](3)]]
     ==
     - A net, or basket to catch mud fish by covering them [[Kangxi: 捕魚器也]];
     - to catch or cover over;
