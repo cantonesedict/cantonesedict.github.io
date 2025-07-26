@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cat
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-07-26
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -295,4 +295,4 @@ E
 $$
 
 [eitel-dict-cat^6]: https://books.google.com/books?id=mh8TAAAAYAAJ&jtp=774
-[wiktionary-𨳍^]: https://en.wiktionary.org/wiki/𨳍^
+[wiktionary-𨳍^]: https://en.wiktionary.org/w/index.php?title=𨳍^&oldid=83683622
