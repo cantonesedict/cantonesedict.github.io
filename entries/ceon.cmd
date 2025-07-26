@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceon
-* %date-modified --> 2023-08-02
-* %copyright-prior-years -->
+* %date-modified --> 2025-07-26
+* %copyright-prior-years --> "2023, "
 
 %%%
-
---{.modern}
-(From Page~37* (Ch(')un) and Page~603 (Ts(')un) of the original onwards.)
---
 
 #{.williams} Ch(')un. Ts(')un. [[ceon]]
 
@@ -21,3 +17,27 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Ch(')un. [[Page~37*]]
+  - Ts(')un. [[Page~603]]
+  ==
+WP
+  ==
+  - Ch(')un <span class="modern">= *[tɕʰʊn]</span>
+  - Ts(')un <span class="modern">= *[tsʰʊn]</span>
+  ==
+MP
+  ==
+  - ceon = [tsʰɵn], [tɕʰɵn] ((preferred))
+  ==
+$$
