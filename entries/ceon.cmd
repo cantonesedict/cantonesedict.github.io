@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceon
-* %date-modified --> 2025-07-26
+* %date-modified --> 2025-07-27
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -192,7 +192,8 @@ E
        ==
     1. (_vulgar_) The testicles.
        ==
-       - 燒膥袋 (siu1 ceon1 doi6): "Burnt ball sack" (see ''The Conmen in Vegas'').
+       - 燒膥袋 (siu1 ceon1 doi6): "[Have your] ball sack burnt"
+         (as a punishment in hell; see ''The Conmen in Vegas'').
        ==
     ++
     --
