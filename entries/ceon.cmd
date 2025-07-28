@@ -219,6 +219,7 @@ $$
 =={.modern}
 - $惷2
 - $蠢2
+- $踳2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -306,4 +307,43 @@ P
   ++
   1. Insolent, disrespectful (Kangxi: 蠢不遜也).
   ++
+$$
+
+### 踳2 | _(2)Ch(')un_ [[ceon2]]
+
+$$
+R
+  ⾜ + 9
+U
+  U+8E33
+V
+  ==
+  - cyun2 (per 《集韻》尺兖切)
+  ==
+F
+  ==
+  - [[F2.53 踳]] ::雜也乖[舛]也::
+  ==
+W
+  ====
+  - [[Page~37* (2)踳]]
+    ==
+    - Blended, mixed, as colors;
+    - _(2)ch(')un pok(8)_
+        [[ceon2 bok3 踳駮]]
+        variegated, colors dissimilar [[Kangxi: 踳駮色雜不同]].
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿰夕生 to 舛.
+  ==
+P
+  ++
+  1. Opposing, going against (Kangxi: 踳駮相乖舛).
+  ++
+S
+  ==
+  - $踳cyun2 (TODO)
+  ==
 $$
