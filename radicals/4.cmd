@@ -410,6 +410,7 @@ For all radicals, see [Index of characters by radical](./).
       - {$揫cau1, $揫zau1}
       - $揣ceoi2
       - $捶ceoi4
+      - $揗ceon4
       - $揸zaa1
       ==
       </nav>

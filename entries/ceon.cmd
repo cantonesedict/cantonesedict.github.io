@@ -274,8 +274,8 @@ W
   ====
   - [[Page~37* ::~~(2)舂~~(2)蠢::]]
     ==
-    - To crawl, to wriggle, as worms [[Kangxi: 蟲動也]];
-    - to move, to stir [[Kangxi: 蠢作也, 蠢動作也]];
+    - To crawl, to wriggle, as worms [[Kangxi 蠢: 蟲動也]];
+    - to move, to stir [[Kangxi 蠢: 蠢作也, 蠢動作也]];
     - foolish, simple.
     ==
     --
@@ -356,6 +356,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $循4
+- $揗4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -367,6 +368,10 @@ R
   ⼻ + 9
 U
   U+5FAA
+A
+  ==
+  - $揗4 (for "comply", "rub", and "console" senses)
+  ==
 F
   ==
   - [[F2.52 循]] 順也又遵循撫循又循良
@@ -414,4 +419,41 @@ P
   1. Orderly, gradually (Kangxi: 循次序也).
   1. To rub (Kangxi: 循摩也).
   ++
+$$
+
+### 揗4 | _(4)Ts(')un_ [[ceon4]]
+
+$$
+R
+  ⼿ + 9
+U
+  U+63D7
+V
+  ==
+  - seon6 (per 《廣韻》食尹切 and 食閏切)
+  ==
+F
+  ==
+  - [[F2.52 揗]] 以手相安慰曰揗
+  ==
+W
+  ====
+  - [[Page~603 (4)揗]]
+    ==
+    - To pat, to stroke;
+    - to encourage, to soothe [[Kangxi: 手相安慰也]];
+    - to take a sympathizing interest in [[Kangxi: 凡以恩相撫以心相恤皆曰揗]].
+    ==
+    --
+    [[Alternative form of 循 (for the "comply", "rub", and "console" senses). See $循ceon4.]]
+    --
+  ====
+P
+  ++
+  1. To rub (Kangxi: 摩也).
+  ++
+S
+  ==
+  - $揗tan4 (TODO)
+  ==
 $$
