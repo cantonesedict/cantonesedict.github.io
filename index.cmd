@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Home
-* %date-modified --> 2025-07-07
+* %date-modified --> 2025-07-28
 * %copyright-prior-years --> 2023--
 * %modern-colour --> crimson
 * %meta-description --> home page
@@ -186,6 +186,14 @@ $${.modern}
   ,
   --
   Easy reference to radical+strokes, Unihan readings, 《廣韻》, and 《康熙字典》.
+  --
+
+; [Dictionary of Chinese Character Variants](https://dict.variants.moe.edu.tw/),
+  by the Ministry of Education.
+  ,
+  --
+  A comprehensive variant character dictionary, with convenient scans of
+  olden character and rime dictionaries in the side bar.
   --
 
 ; [萌典 (moedict.tw)](https://www.moedict.tw/), by [Audrey Tang].
