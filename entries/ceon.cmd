@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceon
-* %date-modified --> 2025-07-27
+* %date-modified --> 2025-07-28
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [ceon1](#1)
+- [ceon2](#2)
 ==
 </nav>
 <## /tones ##>
@@ -209,3 +210,62 @@ E
 $$
 
 [wiktionary-春]: https://en.wiktionary.org/w/index.php?title=春&oldid=85392183#Etymology_2
+
+
+##{#2 .williams} (2)Ch(')un [[ceon2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $蠢2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 蠢2 | _(2)Ch(')un_ [[ceon2]]
+
+$$
+R
+  ⾍ + 15
+U
+  U+8822
+F
+  ==
+  - [[F2.53 蠢]] ::愚也[鈍]也又虫[動曰蠢]::
+  ==
+W
+  ====
+  - [[Page~37* ::~~(2)舂~~(2)蠢::]]
+    ==
+    - To crawl, to wriggle, as worms [[Kangxi: 蟲動也]];
+    - to move, to stir [[Kangxi: 蠢作也, 蠢動作也]];
+    - foolish, simple.
+    ==
+    --
+    ~~The first also means embarrassed;~~
+    --
+    ==
+    - _(2)ch(')un tun(6)_
+        [[ceon2 deon6 蠢鈍]]
+        silly, a simpleton;
+    - _(2)ch(')un (4)ts(')oi_
+        [[ceon2 coi4 蠢材]],
+        doltish;
+    - _(2)ch(')un chik(9)_
+        [[ceon2 zik6 蠢直]]
+        unaffected;
+    - _chai(3) (2)ch(')un_
+        [[zai3 ceon2 ？蠢]],
+        appearing foolish, silly looking[.]
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed 鈍, and corrected 虫曰蠢動 to 虫動曰蠢.
+  - Williams erroneously has 舂 as an alternative form.
+  ==
+P
+  ++
+  1. Insolent, disrespectful (Kangxi: 蠢不遜也).
+  ++
+$$
