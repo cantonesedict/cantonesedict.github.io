@@ -217,10 +217,41 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $惷2
 - $蠢2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+###+ 惷2 | _(2)Ch(')un_ (ceon2)
+
+$$
+R
+  ⼼ + 9
+U
+  U+60F7
+A
+  ==
+  - $蠢2
+  ==
+F
+  ==
+  - [[F2.53 惷]] ::[亂]也::
+  ==
+W
+  [[Not present]]
+C
+  ==
+  - Fan Wan entry: Corrected malformed 亂.
+  ==
+P
+  ++
+  1. Disorderly (Kangxi: 亂也).
+  1. Agitated (Kangxi: 惷惷動擾貌).
+  1. Thick.
+  1. Alternative form of 蠢. **See $蠢ceon2 for the canonical entry.**
+  ++
+$$
 
 ### 蠢2 | _(2)Ch(')un_ [[ceon2]]
 
@@ -229,6 +260,10 @@ R
   ⾍ + 15
 U
   U+8822
+A
+  ==
+  - $惷2
+  ==
 F
   ==
   - [[F2.53 蠢]] ::愚也[鈍]也又虫[動曰蠢]::
@@ -258,11 +293,14 @@ W
         [[zai3 ceon2 ？蠢]],
         appearing foolish, silly looking[.]
     ==
+    --
+    [[Otherwise, an alternative form of 惷. **See $惷ceon2 for the canonical entry.**]]
+    --
   ====
 C
   ==
   - Fan Wan entry: Corrected malformed 鈍, and corrected 虫曰蠢動 to 虫動曰蠢.
-  - Williams erroneously has 舂 as an alternative form.
+  - Williams erroneously has 舂 for an alternative form instead of 惷.
   ==
 P
   ++
