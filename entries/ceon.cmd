@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [ceon1](#1)
 - [ceon2](#2)
+- [ceon4](#4)
 ==
 </nav>
 <## /tones ##>
@@ -346,4 +347,71 @@ S
   ==
   - $踳cyun2 (TODO)
   ==
+$$
+
+
+##{#4 .williams} (4)Ts(')un [[ceon4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways">
+=={.modern}
+- $循4
+==
+</nav>
+<## /tone-4-characters ##>
+
+### 循4 | _(4)Ts(')un_ [[ceon4]]
+
+$$
+R
+  ⼻ + 9
+U
+  U+5FAA
+F
+  ==
+  - [[F2.52 循]] 順也又遵循撫循又循良
+  ==
+W
+  ====
+  - [[Page~603 (4)循]]
+    ==
+    - To follow a leader;
+    - to comply with [[Kangxi: 自也率循也]];
+    - to accord [[Kangxi: 行順也]], to follow or go round with [[Kangxi: 依也]];
+    - to revolve [[Kangxi: 循環謂旋繞往來]];
+    - to inspect, to go the rounds, to perambulate, to go on the circuit [[Kangxi: 巡也]]; <## TODO: alternative form of $巡ceon4 ##>
+    - good [[Kangxi: 善也]], ~~easy, docile~~;
+    - ~~leisurely;~~
+    - to soothe, to console [[Kangxi: 撫循慰安也]];
+    - to explain [[Kangxi: 述也]];
+    - _(4)ts(')un (1)kw(')ai t(o\)(6) (2)k(u:)_
+        [[ceon4 kwai1 dou6 geoi2 循規蹈矩]],
+        to accord with and follow instructions;
+    - _(4)ts(')un f(a/)t(8)_
+        [[ceon4 faat3 循法]]
+        to obey the laws;
+    - _(1)yan (4)ts(')un 'ng(6) sz'(6)_
+        [[jan1 ceon4 ng6 si6 因循誤事]]
+        lazily hindering the prosecution of business;
+    - _(1)yan (4)ts(')un_
+        [[jan1 ceon4 因循]],
+        not interfering with, indifferent to [[Kangxi: 無所作爲曰因循]];
+    - _(4)ts(')un (4)ts(')un sh(i/)n(6) (5)yau_
+        [[ceon4 ceon4 sin6 jau5 循循善誘]],
+        gradually and gently lead him on, as to good habits;
+    - _(4)ts(')un (4)hang [kau(6)] sz'(6)_
+        [[ceon4 hang4 gau6 si6 循行舊事]]
+        act as has been formerly done.
+    ==
+  ====
+C
+  ==
+  - Williams' 循規蹈矩: Better rendered "the rules" than "instructions".
+  - Williams' 循行舊事: Corrected _k(o\)(3)_ (gou3) to _kau(6)_ (gau6).
+  ==
+P
+  ++
+  1. Orderly, gradually (Kangxi: 循次序也).
+  1. To rub (Kangxi: 循摩也).
+  ++
 $$
