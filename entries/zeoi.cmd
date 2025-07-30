@@ -906,7 +906,8 @@ $$
 
 $$
 R
-  ⼌ + 10 (or ⽈ + 8)
+  ⼌ + 10 (per 《說文》冃部)
+  ⽈ + 8 (per Kangxi radical)
 U
   U+6700
 F

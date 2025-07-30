@@ -574,7 +574,7 @@ class Updater:
     @staticmethod
     def _normalise_radicals(cmd_content):
         return re.sub(
-            pattern=r'^R\n  \S [+] [0-9]+$',
+            pattern=r'^R\n  \S [+] [0-9]+',
             repl=lambda match: match.group().translate(RADICAL_NORMALISATION_TABLE),
             string=cmd_content,
             flags=re.MULTILINE,
@@ -910,6 +910,7 @@ class Page:
                     r'(?P<content>'
                     r'R \n'
                     r'[ ]{2} (?P<radical> \S ) [ ][+][ ] (?P<residual_stroke_count> [0-9]+ ) .* \n'
+                    r'(?: [ ]{2} (?P<radical_2> \S ) [ ][+][ ] (?P<residual_stroke_count_2> [0-9]+ ) .* \n )?'
                     r'U \n'
                     r'[ ]{2} (?P<code_point> U[+][0-9A-F]{4,5} ) $'
                     r'[\s\S]*? \n'

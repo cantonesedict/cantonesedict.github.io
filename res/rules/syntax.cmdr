@@ -49,6 +49,21 @@ FixedDelimitersReplacement: #.syntax.modern-insertion-block
 - tag_name: ins
 
 
+RegexDictionaryReplacement: #.syntax.entry-radical-strokes
+* ^R \n
+  [ ]+ (?P<radical_strokes> .* ) (?= \n U )
+    -->
+  ; Radical + residual strokes
+    ,{.modern} \g<radical_strokes>
+* ^R \n
+  [ ]+ (?P<radical_strokes> .* ) \n
+  [ ]+ (?P<radical_strokes_2> .* ) (?= \n U )
+    -->
+  ; Radical + residual strokes
+    ,{.modern} \g<radical_strokes>
+    ,{.modern} \g<radical_strokes_2>
+
+
 RegexDictionaryReplacement: #.syntax.entry-key-abbreviations
 * ^WH$ --> ; Williams (1856) headings
                 ,{.williams}
@@ -121,6 +136,7 @@ FixedDelimitersReplacement: #.syntax.entries
     #unordered-lists
     #ordered-lists
     #paragraphs
+    #.syntax.entry-radical-strokes
     #.syntax.entry-key-abbreviations
     #.syntax.entry-keys
     #.syntax.entry-values

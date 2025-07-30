@@ -586,7 +586,8 @@ $$
 
 $$
 R
-  ⾳ + 2 (or ⽴ + 6)
+  ⾳ + 2 (per 《說文》音部)
+  ⽴ + 6 (per Kangxi radical)
 U
   U+7AE0
 F

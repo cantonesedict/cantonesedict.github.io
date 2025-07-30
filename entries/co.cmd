@@ -98,7 +98,8 @@ $$
 
 $$
 R
-  ⼑ + 5 (or ⾐ + 2)
+  ⼑ + 5 (per 《說文》刀部 and Kangxi radical)
+  ⾐ + 2 (per Ministry of Education (ROC))
 U
   U+521D
 F

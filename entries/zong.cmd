@@ -689,7 +689,8 @@ $$
 
 $$.
 R
-  ⼟ + 10 (or ⾋ + 9)
+  ⼟ + 10 (per Kangxi radical)
+  ⾋ + 9
 U
   U+585F
 F
