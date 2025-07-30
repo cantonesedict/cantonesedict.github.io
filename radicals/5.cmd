@@ -244,6 +244,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $曱zaat6
       - $甴zaat6
       ==
       </nav>
@@ -1090,6 +1091,14 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $竣zeon3
       - $竢zi6
+      ==
+      </nav>
+  //
+    , 8
+    ,
+      <nav class="sideways">
+      ==
+      - $靖zing6
       ==
       </nav>
 ''

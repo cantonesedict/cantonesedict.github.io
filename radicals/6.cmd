@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 6-stroke radicals
-* %date-modified --> 2025-07-28
+* %date-modified --> 2025-07-30
 * %copyright-prior-years --> 2024--
 * %meta-description --> index of characters with 6-stroke radicals
 
@@ -1094,6 +1094,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $葺cap1
+      - $塟zong3
       - $葬zong3
       ==
       </nav>
@@ -1356,6 +1357,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Residual strokes
     ; Character entry links
 |:
+  //
+    , 2
+    ,
+      <nav class="sideways">
+      ==
+      - $初co1
+      ==
+      </nav>
   //
     , 4
     ,

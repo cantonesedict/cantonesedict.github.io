@@ -1606,6 +1606,14 @@ For all radicals, see [Index of characters by radical](./).
       ==
       </nav>
   //
+    , 10
+    ,
+      <nav class="sideways">
+      ==
+      - {$蒸zing1, $蒸zing3}
+      ==
+      </nav>
+  //
     , 12
     ,
       <nav class="sideways">

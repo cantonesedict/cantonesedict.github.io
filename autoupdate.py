@@ -710,6 +710,9 @@ class Indexer:
         for entry in self.character_entries:
             object_[entry.radical][entry.residual_stroke_count][entry.character].append(entry.jyutping)
 
+            if entry.radical_2:
+                object_[entry.radical_2][entry.residual_stroke_count_2][entry.character].append(entry.jyutping)
+
         return object_
 
     def _gather_composition_index(self):
@@ -890,6 +893,8 @@ class Page:
                 match.group('code_point'),
                 match.group('radical'),
                 int(match.group('residual_stroke_count')),
+                match.group('radical_2'),
+                int(match.group('residual_stroke_count_2') or 0),
                 match.group('jyutping'),
                 match.group('composition'),
                 match.group('content'),
@@ -956,7 +961,8 @@ class CantoneseEntry:
 
 
 class CharacterEntry:
-    def __init__(self, character, code_point, radical, residual_stroke_count, jyutping, composition, content):
+    def __init__(self, character, code_point, radical, residual_stroke_count, radical_2, residual_stroke_count_2,
+                 jyutping, composition, content):
         if radical not in KANGXI_RADICALS:
             print(f'Error: radical {radical} is not in the Kangxi Radicals Unicode block', file=sys.stderr)
             sys.exit(1)
@@ -985,6 +991,8 @@ class CharacterEntry:
         self.code_point = code_point
         self.radical = radical
         self.residual_stroke_count = residual_stroke_count
+        self.radical_2 = radical_2
+        self.residual_stroke_count_2 = residual_stroke_count_2
         self.jyutping = jyutping
         self.composition = composition
 
