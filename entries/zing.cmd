@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-07-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -704,7 +704,7 @@ $$
 
 $$
 R
-  ⾋ + 10
+  ⾋ + 10 (or ⽕ + 10)
 U
   U+84B8
 A
@@ -1628,7 +1628,7 @@ $$
 
 $$
 R
-  ⾭ + 5
+  ⾭ + 5 (or ⽴ + 8)
 U
   U+9756
 H

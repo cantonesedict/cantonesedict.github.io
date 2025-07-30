@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaat
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-07-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -264,7 +264,7 @@ $$
 
 $$.
 R
-  ⽈ + 1
+  ⽈ + 1 (or ⽥ + 0)
 U
   U+66F1
 F

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-07-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -586,7 +586,7 @@ $$
 
 $$
 R
-  ⾳ + 2
+  ⾳ + 2 (or ⽴ + 6)
 U
   U+7AE0
 F
