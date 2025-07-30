@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Home
-* %date-modified --> 2025-07-28
+* %date-modified --> 2025-07-30
 * %copyright-prior-years --> 2023--
 * %modern-colour --> crimson
 * %meta-description --> home page
@@ -189,7 +189,7 @@ $${.modern}
   --
 
 ; [Dictionary of Chinese Character Variants](https://dict.variants.moe.edu.tw/),
-  by the Ministry of Education.
+  by the Ministry of Education (ROC).
   ,
   --
   A comprehensive variant character dictionary, with convenient scans of
