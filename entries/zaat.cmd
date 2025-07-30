@@ -264,7 +264,7 @@ $$
 
 $$.
 R
-  ⽈ + 1 (per Kangxi (補遺) radical)
+  ⽈ + 1
   ⽥ + 0
 U
   U+66F1
