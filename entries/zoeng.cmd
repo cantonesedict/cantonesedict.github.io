@@ -56,11 +56,11 @@ $$
 - $漿1
 - $獐1
 - $璋1
+- $章1
 - $䊢1
 - $蔣1
 - $螿1
 - $鄣1
-- $章1
 - $麞1
 ==
 </nav>
@@ -481,6 +481,64 @@ W
   ====
 $$
 
+### 章1 | _(1)Ch(e/)ung_ [[zoeng1]]
+
+$$
+R
+  ⽴ + 6
+  ⾳ + 2
+U
+  U+7AE0
+F
+  ==
+  - [[F1.89 章]] 文章采章章明表章
+  ==
+W
+  ====
+  - [[Page~33|n76 (1)章]]
+    ==
+    - A piece of music [[Kangxi: 樂竟爲一章]];
+    - a chapter, a section [[Kangxi: 篇章]];
+    - a composition;
+    - a statement;
+    - rules, laws, regulations [[Kangxi: 條也程也]];
+    - clear [[Kangxi: 明也]], beautiful [[Kangxi: 文章也]], manifest;
+    - a display;
+    - ~~a grove;~~
+    - a metonic cycle [[Kangxi: ::[...]十九年爲一章[...]::]];
+    - _(2)ts(')oi (1)ch(e/)ung_
+        [[coi2 zoeng1 彩章]],
+        variegated;
+    - _h(i/)n(3) (1)ch(e/)ung_
+        [[hin3 zoeng1 憲章]],
+        magistrate's orders;
+    - _(1)ch(e/)ung k(u:)(3)_
+        [[zoeng1 geoi3 章句]]
+        sections and paragraphs;
+    - _sh(o\)(3) (1)ch(e/)ung_
+        [[sou3 zoeng1 數章]],
+        many papers or statements;
+    - _(1)ch(e/)ung (4)ch(')ing_
+        [[zoeng1 cing4 章程]],
+        regulations, rule of conduct;
+    - _(4)wong (1)ch(e/)ung_
+        [[wong4 zoeng1 王章]],
+        laws of the land;
+    - _(4)t(')(o\) (1)ch(e/)ung_ [[tou4 zoeng1 圖章]]^
+        or
+      _yan(3) (1)ch(e/)ung_ [[jan3 zoeng1 印章]],
+      a seal [[Kangxi: 印章]].
+    ==
+  ====
+P
+  ++
+  1. Colourful adornment (Kangxi: 采也).
+  1. A completed matter or composition (Kangxi: 成事成文曰章).
+  1. Great forest trees (Kangxi: 大林木曰章).
+  1. Order.
+  ++
+$$
+
 ### 䊢1 | _(1)Ts(e/)ung_ [[zoeng1]]
 
 $$.
@@ -580,63 +638,6 @@ C
   - The two senses in Kangxi are 《說文》紀邑也 and 莒邑.
     It is not clear to me whether these are states or cities (or one each).
   ==
-$$
-
-### 章1 | _(1)Ch(e/)ung_ [[zoeng1]]
-
-$$
-R
-  ⾳ + 2 (or ⽴ + 6)
-U
-  U+7AE0
-F
-  ==
-  - [[F1.89 章]] 文章采章章明表章
-  ==
-W
-  ====
-  - [[Page~33|n76 (1)章]]
-    ==
-    - A piece of music [[Kangxi: 樂竟爲一章]];
-    - a chapter, a section [[Kangxi: 篇章]];
-    - a composition;
-    - a statement;
-    - rules, laws, regulations [[Kangxi: 條也程也]];
-    - clear [[Kangxi: 明也]], beautiful [[Kangxi: 文章也]], manifest;
-    - a display;
-    - ~~a grove;~~
-    - a metonic cycle [[Kangxi: ::[...]十九年爲一章[...]::]];
-    - _(2)ts(')oi (1)ch(e/)ung_
-        [[coi2 zoeng1 彩章]],
-        variegated;
-    - _h(i/)n(3) (1)ch(e/)ung_
-        [[hin3 zoeng1 憲章]],
-        magistrate's orders;
-    - _(1)ch(e/)ung k(u:)(3)_
-        [[zoeng1 geoi3 章句]]
-        sections and paragraphs;
-    - _sh(o\)(3) (1)ch(e/)ung_
-        [[sou3 zoeng1 數章]],
-        many papers or statements;
-    - _(1)ch(e/)ung (4)ch(')ing_
-        [[zoeng1 cing4 章程]],
-        regulations, rule of conduct;
-    - _(4)wong (1)ch(e/)ung_
-        [[wong4 zoeng1 王章]],
-        laws of the land;
-    - _(4)t(')(o\) (1)ch(e/)ung_ [[tou4 zoeng1 圖章]]^
-        or
-      _yan(3) (1)ch(e/)ung_ [[jan3 zoeng1 印章]],
-      a seal [[Kangxi: 印章]].
-    ==
-  ====
-P
-  ++
-  1. Colourful adornment (Kangxi: 采也).
-  1. A completed matter or composition (Kangxi: 成事成文曰章).
-  1. Great forest trees (Kangxi: 大林木曰章).
-  1. Order.
-  ++
 $$
 
 ### 麞1 | _(1)Ch(e/)ung_ [[zoeng1]]

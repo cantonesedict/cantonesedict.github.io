@@ -892,8 +892,8 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
-- $最3
 - $惴3
+- $最3
 - $沮3
 - $綴3
 - $足3
@@ -901,49 +901,6 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
-
-### 最3 | _Tsui(3)_ [[zeoi3]]
-
-$$
-R
-  ⼌ + 10 (or ⽈ + 8)
-U
-  U+6700
-F
-  ==
-  - [[F2.57 最]] 殿最前曰最後曰殿
-  ==
-W
-  ====
-  - [[Page~597 最(3)]]
-    ==
-    - To come together, to assemble [[Kangxi: 聚也]];
-    - an adjective denoting the most important, the highest degree of [[Kangxi: 極也, 最爲第一]];
-    - ~~very, extremely, exceedingly;~~
-    - altogether [[Kangxi: 最都凡也]];
-    - _tsui(3) sh(i/)n(6)_
-        [[zeoi3 sin6 最善]]
-        ~~very good~~;
-    - _tsui(3) (4)n(a/)n_
-        [[zeoi3 naan4 最難]],
-        ~~very difficult~~;
-    - _tsui(3) (2)kan i(u/)(3)_
-        [[zeoi3 gan2 jiu3 最緊要]]
-        ~~highly important~~;
-    - _tsui(3) (1)s(i/)n_
-        [[zeoi3 sin1 最先]],
-        first, in the first place;
-    - _tsui(3) p(i/)n(6) tong(3)_
-        [[zeoi3 bin6 dong3 最便當]]
-        the most convenient, very handy.
-    ==
-  ====
-C
-  ==
-  - Williams' "very, extremely, exceedingly":
-    These should instead be rendered "most", as 最 is superlative.
-  ==
-$$
 
 ###+ 惴3 | _Chui(3)_ (zeoi3)
 
@@ -984,6 +941,50 @@ S
   ==
   - $惴ceoi2
   - $惴cyun2 (TODO)
+  ==
+$$
+
+### 最3 | _Tsui(3)_ [[zeoi3]]
+
+$$
+R
+  ⽈ + 8
+  ⼌ + 10
+U
+  U+6700
+F
+  ==
+  - [[F2.57 最]] 殿最前曰最後曰殿
+  ==
+W
+  ====
+  - [[Page~597 最(3)]]
+    ==
+    - To come together, to assemble [[Kangxi: 聚也]];
+    - an adjective denoting the most important, the highest degree of [[Kangxi: 極也, 最爲第一]];
+    - ~~very, extremely, exceedingly;~~
+    - altogether [[Kangxi: 最都凡也]];
+    - _tsui(3) sh(i/)n(6)_
+        [[zeoi3 sin6 最善]]
+        ~~very good~~;
+    - _tsui(3) (4)n(a/)n_
+        [[zeoi3 naan4 最難]],
+        ~~very difficult~~;
+    - _tsui(3) (2)kan i(u/)(3)_
+        [[zeoi3 gan2 jiu3 最緊要]]
+        ~~highly important~~;
+    - _tsui(3) (1)s(i/)n_
+        [[zeoi3 sin1 最先]],
+        first, in the first place;
+    - _tsui(3) p(i/)n(6) tong(3)_
+        [[zeoi3 bin6 dong3 最便當]]
+        the most convenient, very handy.
+    ==
+  ====
+C
+  ==
+  - Williams' "very, extremely, exceedingly":
+    These should instead be rendered "most", as 最 is superlative.
   ==
 $$
 
