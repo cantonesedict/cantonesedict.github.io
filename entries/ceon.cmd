@@ -361,6 +361,7 @@ $$
 - $揗4
 - $秦4
 - $紃4
+- $螓4
 - $馴4
 ==
 </nav>
@@ -604,6 +605,28 @@ W
     - _t(i/)t(8) (4)ts(')un_
         [[dit3 ceon4]],
         the spindle of a spinning-wheel --- a colloquial term.
+    ==
+  ====
+$$
+
+### 螓4 | _(4)Ts(')un_ [[ceon4]]
+
+$$
+R
+  ⾍ + 10
+U
+  U+8793
+F
+  ==
+  - [[F2.52 螓]] 似蟬而小
+  ==
+W
+  ====
+  - [[Page~604 (4)螓]]
+    ==
+    - A small species of cicada [[Kangxi: 蟲名似蟬而小 etc.]];
+    - ~~eggs of the mantis;~~
+    - a breeze or large blue-bottle fly [[Kangxi: 大蠅曰胡螓]].
     ==
   ====
 $$
