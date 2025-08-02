@@ -387,7 +387,7 @@ W
     ==
     - To cruize [[Kangxi: 巡行也]];
     - to go on circuit [[Kangxi: 徧也, 謂巡繞徧行之]],
-      to examine what is doing [[Kangxi: 巡視行貌]],
+      to examine what [another] is doing [[Kangxi: 巡視行貌]],
       to go on a tour of inspection [[Kangxi: 巡守也]];
     - a course at a feast;
     - _(4)ts(')un (2)f(u/)_
