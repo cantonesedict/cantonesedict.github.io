@@ -359,6 +359,7 @@ $$
 - $廵4
 - $循4
 - $揗4
+- $秦4
 - $紃4
 - $馴4
 ==
@@ -540,6 +541,42 @@ S
   ==
   - $揗tan4 (TODO)
   ==
+$$
+
+### 秦4 | _(4)Ts(')un_ [[ceon4]]
+
+$$
+R
+  ⽲ + 5
+U
+  U+79E6
+F
+  ==
+  - [[F2.52 秦]] 國名又姓
+  ==
+W
+  ====
+  - [[Page~603 (4)秦]]
+    ==
+    - A kind of rice [[Kangxi: 一曰秦禾名]];
+    - a feudal state [[Kangxi: 國名]] occupying the region of the rivers Wei [[渭]] and King [[涇]];
+    - the range of mountains in [the] south of Shens(i/) [[陝西]];
+    - _(4)Ts(')un (4)ch(')i(u/)_
+        [[ceon4 ciu4 秦朝]],
+        the Ts(')in [[秦]] dynasty, B.C.~186--120;
+    - _ts(')un (2)[Ch(')(i/)] (4)wong tai(3)_
+        [[ceon4 ci2 wong4 dai3 秦始皇帝]]
+        the emperor First of this Ts(')in [[秦]] dynasty, who centralized the Chinese empire.
+    ==
+  ====
+C
+  ==
+  - Williams' 秦始皇帝: Corrected _(2)Ch(i/)_ (zi2) to _(2)Ch(')(i/)_ (ci2).
+  ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 $$
 
 ### 紃4 | _(4)Ts(')un_ [[ceon4]]
