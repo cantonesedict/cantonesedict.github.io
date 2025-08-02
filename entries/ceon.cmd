@@ -360,6 +360,7 @@ $$
 - $循4
 - $揗4
 - $紃4
+- $馴4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -568,4 +569,28 @@ W
         the spindle of a spinning-wheel --- a colloquial term.
     ==
   ====
+$$
+
+### 馴4 | _(4)Ts(')un_ [[ceon4]]
+
+$$.
+R
+  ⾺ + 3
+U
+  U+99B4
+F
+  ==
+  - [[F2.52 馴]] 善也漸也
+  ==
+W
+  ====
+  - [[Page~603 (4)馴]]
+    --
+    [[Reading variation. **See $馴seon4 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $馴seon4 (TODO)
+  ==
 $$
