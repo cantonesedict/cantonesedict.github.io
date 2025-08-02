@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceon
-* %date-modified --> 2025-07-28
+* %date-modified --> 2025-08-02
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -355,11 +355,74 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $巡4
 - $循4
 - $揗4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 巡4 | _(4)Ts(')un_ [[ceon4]]
+
+$$
+R
+  ⼮ + 4
+  ⾡ + 3
+U
+  U+5DE1
+A
+  ==
+  - 廵
+  ==
+F
+  ==
+  - [[F2.52 巡]] 巡視行也遍也又逡巡退却也
+  ==
+W
+  ====
+  - [[Page~603 (4)廵(4)巡]]
+    ==
+    - To cruize [[Kangxi: 巡行也]];
+    - to go on circuit [[Kangxi: 徧也, 謂巡繞徧行之]],
+      to examine what is doing [[Kangxi: 巡視行貌]],
+      to go on a tour of inspection [[Kangxi: 巡守也]];
+    - a course at a feast;
+    - _(4)ts(')un (2)f(u/)_
+        [[ceon4 fu2 巡撫]],
+        the governor of a province;
+    - _(4)ts(')un (2)k(i/)m_
+        [[ceon4 gim2 巡檢]],
+        the supervisor or judge of a _(1)sz'_ [[si1 司]] or township;
+    - _(4)ts(')un (4)sh(u:)n_
+        [[ceon4 syun4 巡船]],
+        revenue cruizers;
+    - _(4)ts(')un p(o\)(6)_
+        [[ceon4 bou6 巡捕]]
+        special aids of the governor-general and governor;
+    - _(4)ts(')un (1)k(a/)ng_
+        [[ceon4 gaang1 巡更]],
+        on post, as a watchman;
+    - _(4)ts(')un (2)ch(u:)n ch(')(u:)(3)_
+        [[ceon4 zyun2 cyu3 巡轉處]]
+        to go about and examine;
+    - _ch(')ut(7) (4)ts(')un_
+        [[ceot1 ceon4 出巡]],
+        to start on a circuit;
+        to reconnoitre;
+    - _(4)ts(')un (1)ting_
+        [[ceon4 ding1 巡丁]],
+        tidewaiters, cruizing officers.
+    ==
+  ====
+C
+  ==
+  - Williams' "a course at a feast": More "a round of drinks".
+  ==
+P
+  ++
+  1. Used in 逡巡 (hesitant, retreative) (Kangxi: 逡巡郤退之貌).
+  ++
+$$
 
 ### 循4 | _(4)Ts(')un_ [[ceon4]]
 
