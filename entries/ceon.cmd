@@ -359,6 +359,7 @@ $$
 - $廵4
 - $循4
 - $揗4
+- $紃4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -538,4 +539,33 @@ S
   ==
   - $揗tan4 (TODO)
   ==
+$$
+
+### 紃4 | _(4)Ts(')un_ [[ceon4]]
+
+$$
+R
+  ⽷ + 3
+U
+  U+7D03
+V
+  ==
+  - seon4 (alternative per 《廣韻》食倫切)
+  ==
+F
+  ==
+  - [[F2.52 紃]] 組紃
+  ==
+W
+  ====
+  - [[Page~603 (4)紃]]
+    ==
+    - Fine, silken cords or bindings [[Kangxi: 圜采也, 絛紃也, etc.]];
+    - tassels, ornaments;
+    - a model, a pattern [[Kangxi: 法也]];
+    - _t(i/)t(8) (4)ts(')un_
+        [[dit3 ceon4]],
+        the spindle of a spinning-wheel --- a colloquial term.
+    ==
+  ====
 $$
