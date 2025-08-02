@@ -359,6 +359,7 @@ $$
 - $廵4
 - $循4
 - $揗4
+- $旬4
 - $秦4
 - $紃4
 - $螓4
@@ -542,6 +543,42 @@ S
   ==
   - $揗tan4 (TODO)
   ==
+$$
+
+### 旬4 | _(4)Ts(')un_ [[ceon4]]
+
+$$
+R
+  ⽇ + 2
+U
+  U+65EC
+F
+  ==
+  - [[F2.52 旬]] 十日曰一旬
+  ==
+W
+  ====
+  - [[Page~604 (4)旬]]
+    ==
+    - A decade of years or days [[Kangxi: 徧也十日爲旬]];
+    - a complete number finished, completed [[Kangxi: 徧也]];
+    - the whole of [[Kangxi: 旬均也]];
+    - in mourning, seven days make a _(4)ts(')un_ [[旬]];
+    - _(4)ts(')un sui(3)_
+        [[ceon4 seoi3 旬歲]]
+        a complete year [[Kangxi: 旬滿也旬歲猶言滿歲也]];
+    - the _sh(e/)ung(6)_ [[soeng6 上]]^, _(1)chung_ [[zung1 中]]^,
+      and _h(a/)(6) (4)ts(')un_ [[haa6 ceon4 下旬]],
+      are the first, second, and third decades of a month;
+    - _ts(')at(7) (4)ts(')un_
+        [[cat1 ceon4 七旬]],
+        the 49~days of mourning;
+        also 70~years;
+    - _(2)h(o\) (2)shui (4)ts(')un_
+        [[hou2 seoi2 ceon4 好水旬]],
+        the tide will serve you well.
+    ==
+  ====
 $$
 
 ### 秦4 | _(4)Ts(')un_ [[ceon4]]
