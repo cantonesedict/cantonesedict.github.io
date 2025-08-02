@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyun
-* %date-modified --> 2023-08-02
-* %copyright-prior-years -->
+* %date-modified --> 2025-08-02
+* %copyright-prior-years --> "2023, "
 
 %%%
-
---{.modern}
-(From Page~37* (Ch(u:)n) and Page~604 (Ts(u:)n) of the original onwards.)
---
 
 #{.williams} Ch(u:)n. Ts(u:)n. [[zyun]]
 
@@ -21,3 +17,27 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Ch(u:)n. [[Page~37*]]
+  - Ts(u:)n. [[Page~604]]
+  ==
+WP
+  ==
+  - Ch(u:)n <span class="modern">= *[tɕyːn]</span>
+  - Ts(u:)n <span class="modern">= *[tsyːn]</span>
+  ==
+MP
+  ==
+  - zyun = [tsyːn], [tɕyːn] ((preferred))
+  ==
+$$
