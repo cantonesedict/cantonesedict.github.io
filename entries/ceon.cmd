@@ -379,6 +379,7 @@ U
 A
   ==
   - $廵4
+  - $循4
   ==
 F
   ==
@@ -386,12 +387,18 @@ F
   ==
 W
   ====
+  - [[Page~603 (4)循]]
+    ==
+    - [[...]];
+    - to inspect, to go the rounds, to perambulate, to go on the circuit [[Kangxi 循: 巡也]];
+    - [[...]].
+    ==
   - [[Page~603 (4)廵(4)巡]]
     ==
-    - To cruize [[Kangxi: 巡行也]];
-    - to go on circuit [[Kangxi: 徧也, 謂巡繞徧行之]],
-      to examine what [another] is doing [[Kangxi: 巡視行貌]],
-      to go on a tour of inspection [[Kangxi: 巡守也]];
+    - To cruize [[Kangxi 巡: 巡行也]];
+    - to go on circuit [[Kangxi 巡: 徧也, 謂巡繞徧行之]],
+      to examine what [another] is doing [[Kangxi 巡: 巡視行貌]],
+      to go on a tour of inspection [[Kangxi 巡: 巡守也]];
     - a course at a feast;
     - _(4)ts(')un (2)f(u/)_
         [[ceon4 fu2 巡撫]],
@@ -471,7 +478,7 @@ W
     - to comply with [[Kangxi: 自也率循也]];
     - to accord [[Kangxi: 行順也]], to follow or go round with [[Kangxi: 依也]];
     - to revolve [[Kangxi: 循環謂旋繞往來]];
-    - to inspect, to go the rounds, to perambulate, to go on the circuit [[Kangxi: 巡也]]; <## TODO: alternative form of $巡ceon4 ##>
+    - [[...]];
     - good [[Kangxi: 善也]], ~~easy, docile~~;
     - ~~leisurely;~~
     - to soothe, to console [[Kangxi: 撫循慰安也]];
@@ -495,6 +502,9 @@ W
         [[ceon4 hang4 gau6 si6 循行舊事]]
         act as has been formerly done.
     ==
+    --
+    [[Otherwise, an alternative form of 巡. **See $巡ceon4 for the canonical entry.**]]
+    --
   ====
 C
   ==
