@@ -152,7 +152,6 @@ See also: [Index of Cantonese terms by Jyutping](/terms/).
 - $cit
 - $ciu
 - $co
-- $coe (work in progress)
 - $coek
 - $coeng
 - $coi
