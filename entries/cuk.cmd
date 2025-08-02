@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cuk
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-08-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -491,10 +491,10 @@ W
     - [[...]].
     ==
   ====
-C
-  ==
-  - Used in 蓄意 ("premeditated", "deliberate").
-  ==
+P
+  ++
+  1. Used in 蓄意 (premeditated, deliberate).
+  ++
 $$
 
 ### 蔌1 | _Ts(')uk(7)_ [[cuk1]]
