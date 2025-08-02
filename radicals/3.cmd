@@ -1269,6 +1269,23 @@ For all radicals, see [Index of characters by radical](./).
 ## ⼵ (long stride)
 
 <## radical-⼵-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 3
+    ,
+      <nav class="sideways">
+      ==
+      - $廵ceon4
+      ==
+      </nav>
+''
+||||
 <## /radical-⼵-characters ##>
 
 

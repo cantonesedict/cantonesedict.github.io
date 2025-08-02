@@ -356,6 +356,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $巡4
+- $廵4
 - $循4
 - $揗4
 ==
@@ -372,7 +373,7 @@ U
   U+5DE1
 A
   ==
-  - 廵
+  - $廵4
   ==
 F
   ==
@@ -422,6 +423,24 @@ P
   ++
   1. Used in 逡巡 (hesitant, retreative) (Kangxi: 逡巡郤退之貌).
   ++
+$$
+
+### 廵4 | _(4)Ts(')un_ [[ceon4]]
+
+$$.
+R
+  ⼵ + 3
+U
+  U+5EF5
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~603 (4)廵(4)巡]]
+    --
+    [[Alternative form of 巡. **See $巡ceon4 for the canonical entry.**]]
+    --
+  ====
 $$
 
 ### 循4 | _(4)Ts(')un_ [[ceon4]]
