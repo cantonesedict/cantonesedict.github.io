@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $專1
+- $磚1
 - $耑1
 ==
 </nav>
@@ -122,6 +123,59 @@ E
     1. Deliberately, on purpose.
        ==
        - 專登輸畀佢 (zyun1 dang1 syu1 bei2 keoi5): "Lost to him on purpose."
+       ==
+    ++
+  ====
+$$
+
+### 磚1 | _(1)Ch(u:)n_ [[zyun1]]
+
+$$
+R
+  ⽯ + 11
+U
+  U+78DA
+A
+  ==
+  - 塼
+  - 甎
+  ==
+F
+  ==
+  - [[F2.19 磚]] 土之有模而出者或坭磚或火磚整牆用
+  - [[F2.19 甎]] 同上
+  ==
+W
+  ====
+  - [[Page~37* (1)磚(1)甎]]
+    ==
+    - A brick, a tile [[Kangxi 甎: 㼾甎, 甎瓦, 燒墼也, 甓也]];
+    - to cover with brick;
+    - _(1)ts(')ing (1)ch(u:)n_
+        [[cing1 zyun1 青磚]],
+        a burnt blue brick;
+    - _(4)nai (1)ch(u:)n_
+        [[nai4 zyun1 泥磚]],
+        adobie bricks;
+    - _k(a/)i (1)ch(u:)n_
+        [[gaai1 zyun1 階磚]],
+        red tiles;
+    - _t(a/)i(6) (4)nai (1)ch(u:)n_
+        [[daai6 nai4 zyun1 大泥磚]],
+        a great dolt, a villain;
+    - _(1)ch(u:)n t(i/)(6)_
+        [[zyun1 dei6 磚地]]
+        to tile a floor.
+    ==
+  ====
+E
+  ====
+  - 【階磚】 (gaai1 zyun1):
+    ++
+    1. Ceramic floor tiles.
+    1. Diamonds (card suit).
+       ==
+       - 階磚三 (gaai1 zyun1 saam1): "Three of diamonds."
        ==
     ++
   ====

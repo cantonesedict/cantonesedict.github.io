@@ -488,6 +488,9 @@ window.onload = applyFilter;
     , gaa1 ze2-1
     , [家姐](/entries/ze#cantonese-家姐)
   //
+    , gaai1 zyun1
+    , [階磚](/entries/zyun#cantonese-階磚)
+  //
     , gaan3 cek3-2
     , [間尺](/entries/cek#cantonese-間尺)
   //
