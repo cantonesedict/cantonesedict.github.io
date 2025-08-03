@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zo
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-08-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -246,7 +246,7 @@ W
   ====
 C
   ==
-  - Williams' 轉彎左便: Corrected _(2)ch(u:)n_ (zyun2) to _ch(u:)n(3)_ (zyun3).
+  - Williams' 轉彎左便: Changed _(2)ch(u:)n_ (zyun2) to _ch(u:)n(3)_ (zyun3).
     Now simply 轉左.
   - Williams' 列於左: Perhaps this should be 列如左.
   ==
@@ -701,7 +701,7 @@ V
   ==
 F
   ==
-  - [[F.62 座]] 位也
+  - [[F2.62 座]] 位也
   ==
 W
   ====

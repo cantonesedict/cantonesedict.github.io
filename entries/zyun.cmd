@@ -22,6 +22,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zyun1](#1)
+- [zyun2](#2)
+- [zyun3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -296,5 +298,193 @@ W
 S
   ==
   - $鱄tyun4 (TODO)
+  ==
+$$
+
+
+##{#2 .williams} (2)Ch(u:)n [[zyun2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $轉2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 轉2 | _(2)Ch(u:)n_ [[zyun2]]
+
+$$
+R
+  ⾞ + 11
+U
+  U+8F49
+F
+  ==
+  - [[F2.22 轉]] 轉動轉運旋轉
+  ==
+W
+  ====
+  - [[Page~37* (2)轉]]
+    ==
+    - To turn, to revolve [[Kangxi: 動也旋也]];
+    - to transmit, to forward;
+    - to transfer to;
+    - to transport [[Kangxi: 轉運也]];
+    - to carry;
+    - to circulate [[Kangxi: 轉者輾之周]];
+    - ~~to comprehend;~~
+    - _(2)ch(u:)n (4)k(')(i/)_
+        [[zyun2 kei4 轉旗]],
+        turned his flag, left his party;
+    - [[...]];
+    - _(2)ch(u:)n (5)ng(a/)n (1)k(a/)n_
+        [[zyun2 ngaan5 gaan1 轉眼間]],
+        in a twinkling;
+    - _(2)ch(u:)n wan(6)_
+        [[zyun2 wan6 轉運]]
+        to transport goods;
+        turned over a new leaf, bettered;
+    - [[...]];
+    - _(2)ch(u:)n sik(7) (1)k(a/)n_
+        [[zyun2 sik1 gaan1 轉息間]],
+        in a breath;
+    - _(2)ch(u:)n ch(i/)p(8)_
+        [[zyun2 zip3 轉摺]]
+        changeable;
+    - [[...]];
+    - _(2)ch(u:)n ch(i/)(3)_
+        [[zyun2 zi3 轉致]]
+        to send a message;
+    - _(2)ch(u:)n (1)p(')ai [(1)](u:) (4)yan_
+        [[zyun2 pai1 jyu1 jan4 轉批於人]],
+        to sub-let to others.
+    ==
+  ====
+C
+  ======
+  - I have yet to see a satisfactory account of how the senses of 轉
+    ought to be split between rising-tone _(2)ch(u:)n_ (zyun2)
+    and departing-tone _ch(u:)n(3)_ (zyun3).
+  - The classical explanations are not particularly helpful,
+    and often contradict each other. For example:
+    ====
+    - 《廣韻》 has:
+      ==
+      - Rising: 動也 (to move) and 運也 (to convey).
+      - Departing: 流轉 (?).
+      ==
+    - 《洪武正韻牋》 has:
+      ==
+      - Rising: 輾轉 (to toss and turn), 反側也 (to overturn), 又旋也 (to rotate),
+        自運也 (to self-move), etc.
+      - Departing: 運也 (to move), 又遷轉 (to shift/alter), etc.
+      ==
+    - Kangxi has:
+      ==
+      - 凡物自轉則上聲, "Whenever [an] object self-turneth, [it is] rising tone".
+      - 以力轉物則去聲, "[To] turn [an] object with force, [is] departing tone".
+      ==
+      To use Kangxi's classification, one must bear in mind that
+      Classical Chinese scholars would not have known that
+      torque is the rate of change of angular momentum.
+      Thus, 自轉 should be interpreted as
+        _beginning to turn of its own accord_,
+      whilst 以力轉物 should be interpreted as
+        _continuing to turn due to a supplied force to counteract friction_.
+    ====
+  - According to 段玉裁's annotations of 《說文》,
+    the separation into rising and departing is the result of
+    "shallow men" giving themselves trouble (淺人分別上去異義無事自擾).
+  - In light of the above, I have followed in the footsteps of said shallow men
+    and split things up between _(2)ch(u:)n_ (zyun2) and _ch(u:)n(3)_ (zyun3).
+    The supplementary entries given here are a poor attempt
+    to exemplify the split based on personal experience.
+  ======
+P
+  ++
+  1. To turn, in certain cases
+     (e.g. 旋轉, 好轉, 扭轉, 逆轉, 轉運, 轉眼).
+  1. To change or to transfer,
+     when used as a verb before another verb
+     (e.g. 轉乘, 轉嫁, 轉換, 轉播, 轉發, 轉變, 轉讓, 轉賣).
+  ++
+S
+  ==
+  - $轉zyun3
+  ==
+$$
+
+
+##{#3 .williams} <ins class="modern">Ch(u:)n(3)</ins> [[zyun3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $轉3
+==
+</nav>
+<## /tone-3-characters ##>
+
+###+ 轉3 | _Ch(u:)n(3)_ (zyun3)
+
+$$
+R
+  ⾞ + 11
+U
+  U+8F49
+V
+  ==
+  - zyun2 (per Fan Wan)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~37* (2)轉 _(2)Ch(u:)n_ (zyun2); here normalised to _Ch(u:)n(3)_ (zyun3)]]
+    ==
+    - [[...]];
+    - _(2)s(e/)ung (2)k(a/)u ch(u:)n[(3)] (5)k(')(u:)_
+        [[soeng2 gaau2 zyun3 keoi5 想搞轉佢]],
+        I will try to bring him round;
+    - _ch(u:)n[(3)] s(a/)i(3) (2)p(u/)n t(i/)(6) w(a/)(6)_
+        [[zyun3 saai3 bun2 dei6 waa6-2 轉嗮本地話]]
+        to translate the local patois;
+    - _(1)f(a/)n ch(u:)n[(3)] (4)t(')au_
+        [[faan1 zyun3 tau4 返轉頭]],
+        turn around;
+    - [[...]];
+    - _ch(u:)n[(3)] (1)w(a/)n_
+        [[zyun3 waan1 轉彎]],
+        to turn a corner;
+    - [[...]];
+    - _ch(u:)n[(3)] (1)f(a/)n (4)t(')au_
+        [[zyun3 faan1 tau4 轉返頭]],
+        to look behind;
+    - [[...]].
+    ==
+  ====
+C
+  ==
+  - See $轉zyun2 for commentary on the split
+    between rising-tone _(2)ch(u:)n_ (zyun2)
+    and departing-tone _ch(u:)n(3)_ (zyun3).
+  ==
+P
+  ++
+  1. To rotate, in certain cases
+     (e.g. 轉圈, 轉動).
+  1. Rotating
+     (e.g. 轉盤).
+  1. Around, when used after a verb
+     (e.g. 反轉, 擰轉, 調轉).
+  1. To turn, when used as a verb before a direction
+     (e.g. 轉左, 轉右).
+  1. To change or to switch, when used as a verb before a noun
+     (e.g. 轉工, 轉手, 轉機, 轉膊, 轉臺, 轉車).
+  ++
+S
+  ==
+  - $轉zyun2
   ==
 $$
