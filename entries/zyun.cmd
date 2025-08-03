@@ -49,6 +49,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $剸1
 - $塼1
 - $專1
 - $甎1
@@ -57,6 +58,28 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 剸1 | _(1)Ch(u:)n_ [[zyun1]]
+
+$$.
+R
+  ⼑ + 11
+U
+  U+5278
+F
+  [[F2.19 剸]] 割也
+W
+  ====
+  - [[Page~37* (1)剸]]
+    --
+    [[Alternative form of 專. **See $專zyun1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $剸tyun4 (TODO)
+  ==
+$$
 
 ###+ 塼1 | _(1)Ch(u:)n_ (zyun1)
 
@@ -84,6 +107,7 @@ U
   U+5C08
 A
   ==
+  - $剸1
   - $耑1
   ==
 F
