@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $專1
+- $耑1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -63,7 +64,7 @@ U
   U+5C08
 A
   ==
-  - 耑
+  - $耑1
   ==
 F
   ==
@@ -124,4 +125,29 @@ E
        ==
     ++
   ====
+$$
+
+### 耑1 | _(1)Ch(u:)n_ [[zyun1]]
+
+$$.
+R
+  ⽽ + 3
+U
+  U+8011
+F
+  ==
+  - [[F2.19 專]] 一也獨也擅也
+  - [[F2.19 耑]] 同上
+  ==
+W
+  ====
+  - [[Page~37* (1)專(1)耑]]
+    --
+    [[Alternative form of 專. **See $專zyun1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $耑dyun1 (TODO)
+  ==
 $$
