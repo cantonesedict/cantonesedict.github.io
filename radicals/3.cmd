@@ -374,6 +374,7 @@ For all radicals, see [Index of characters by radical](./).
       - $塹cim3
       - $塲coeng4
       - $墊zin3
+      - $塼zyun1
       ==
       </nav>
   //

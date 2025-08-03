@@ -49,12 +49,30 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $塼1
 - $專1
 - $磚1
 - $耑1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+###+ 塼1 | _(1)Ch(u:)n_ (zyun1)
+
+$$.
+R
+  ⼟ + 11
+U
+  U+587C
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 磚. **See $磚zyun1 for the canonical entry.**
+  ++
+$$
 
 ### 專1 | _(1)Ch(u:)n_ [[zyun1]]
 
@@ -137,7 +155,7 @@ U
   U+78DA
 A
   ==
-  - 塼
+  - $塼1
   - 甎
   ==
 F
