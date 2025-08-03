@@ -478,8 +478,8 @@ P
      (e.g. 轉盤).
   1. Around, when used after a verb
      (e.g. 反轉, 擰轉, 調轉).
-  1. To turn, when used as a verb before a direction
-     (e.g. 轉左, 轉右).
+  1. To turn, in the sense of direction
+     (e.g. 轉左, 轉右, 轉彎).
   1. To change or to switch, when used as a verb before a noun
      (e.g. 轉工, 轉手, 轉機, 轉膊, 轉臺, 轉車).
   ++
