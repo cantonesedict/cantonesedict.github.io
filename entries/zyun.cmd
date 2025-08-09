@@ -452,10 +452,34 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $傳3
 - $轉3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+###+ 傳3 | _Ch(u:)n(3)_ (zyun3)
+
+$$
+R
+  ⼈ + 11
+U
+  U+50B3
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. A relay station (Kangxi: 傳舍 etc.).
+  1. A relay carriage (Kangxi: 遽也驛遞曰傳 etc.).
+  ++
+S
+  ==
+  - $傳cyun4 (TODO)
+  - $傳zyun6
+  ==
+$$
 
 ###+ 轉3 | _Ch(u:)n(3)_ (zyun3)
 
@@ -584,6 +608,6 @@ P
 S
   ==
   - $傳cyun4 (TODO)
-  - $傳zyun3 (TODO)
+  - $傳zyun3
   ==
 $$

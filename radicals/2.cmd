@@ -199,7 +199,7 @@ For all radicals, see [Index of characters by radical](./).
       - $催ceoi1
       - $僉cim1
       - $債zaai3
-      - $傳zyun6
+      - {$傳zyun3, $傳zyun6}
       ==
       </nav>
   //
