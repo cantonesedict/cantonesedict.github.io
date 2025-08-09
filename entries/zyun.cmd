@@ -307,10 +307,40 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $囀2
 - $轉2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 囀2 | _(2)Ch(u:)n_ [[zyun2]]
+
+$$
+R
+  ⼝ + 18
+U
+  U+56C0
+V
+  ==
+  - zyun3 (per 《廣韻》知戀切)
+  ==
+F
+  ==
+  - [[F2.22 囀]] 鶯聲
+  ==
+W
+  ====
+  - [[Page~37* (2)囀]]
+    ==
+    - The song of a nightingale [[Fan Wan: 鶯聲]];
+    - a warbling note [[Kangxi: 鳥鳴, 鳥吟]];
+    - delicate modulations [[Kangxi: 聲轉]];
+    - _(1)ang (2)ch(u:)n_
+        [[ang1 zyun2 鶯囀]],
+        the nightingale's song.
+    ==
+  ====
+$$
 
 ### 轉2 | _(2)Ch(u:)n_ [[zyun2]]
 
