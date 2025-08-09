@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyun
-* %date-modified --> 2025-08-03
+* %date-modified --> 2025-08-09
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -391,7 +391,7 @@ C
       Thus, 自轉 should be interpreted as
         _beginning to turn of its own accord_,
       whilst 以力轉物 should be interpreted as
-        _continuing to turn due to a supplied force to counteract friction_.
+        _continuing to turn due to a supplied force to counteract friction/drag_.
     ====
   - According to 段玉裁's annotations of 《說文》,
     the separation into rising and departing is the result of
@@ -433,15 +433,13 @@ R
   ⾞ + 11
 U
   U+8F49
-V
-  ==
-  - zyun2 (per Fan Wan)
-  ==
 F
-  [[Not present]]
+  ==
+  - [[F2.22 轉 _(2)Ch(u:)n_ (zyun2)]] 轉動轉運旋轉
+  ==
 W
   ====
-  - [[Page~37* (2)轉 _(2)Ch(u:)n_ (zyun2); here normalised to _Ch(u:)n(3)_ (zyun3)]]
+  - [[Page~37* (2)轉 _(2)Ch(u:)n_ (zyun2); here corrected to _Ch(u:)n(3)_ (zyun3)]]
     ==
     - [[...]];
     - _(2)s(e/)ung (2)k(a/)u ch(u:)n[(3)] (5)k(')(u:)_
