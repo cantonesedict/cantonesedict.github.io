@@ -24,6 +24,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [zyun1](#1)
 - [zyun2](#2)
 - [zyun3](#3)
+- [zyun6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -514,5 +515,75 @@ P
 S
   ==
   - $轉zyun2
+  ==
+$$
+
+
+##{#6 .williams} Ch(u:)n(6) [[zyun6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $傳6
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 傳6 | _Ch(u:)n(6)_ [[zyun6]]
+
+$$
+R
+  ⼈ + 11
+U
+  U+50B3
+V
+  ==
+  - zyun6-2 (vernacular rising-tone noun for "biography/narrative/legend" sense)
+  ==
+F
+  ==
+  - [[F2.23 ::[傳]::]] ::執愿切古書曰[傳]::
+  ==
+W
+  ====
+  - [[Page~38* 傳(6)]]
+    ==
+    - Records or precepts of ancient times [[Kangxi: 訓也賢人之書曰傳又紀載事迹以傳於世亦曰傳諸史列傳是也, 傳傳也以傳示後人也]];
+    - _ch(u:)n(6) (4)man_
+        [[zyun6 man4 傳文]],
+        a record or story, an account of.
+    ==
+  ====
+C
+  ====
+  - Fan Wan entry: The supplied dissection 執愿切 is incorrect,
+    as it results in the 陰去 reading _ch(u:)n(3)_ (zyun3)^,
+    rather than the intended 陽去 reading _ch(u:)n(6)_ (zyun6).
+    Corrected headword ⿰亻⿳甫一寸 to 傳.
+  - The pronunciation of 傳 in the term 傳奇 "legend"
+    is contentious in Cantonese. The choices are:
+    ==
+    - cyun4 kei4, held by a few who assert that 傳奇 means "transmitted oddity"
+      from etymological considerations; and
+    - zyun6 kei4, which is defensible as "chronicled oddity",
+      and is by far the accepted common reading in Hong Kong,
+      as attested in the following songs:
+      ++
+      1. 似是故人來 (1991) sung by Anita Mui.
+      1. 早班火車 (1992) sung by Beyond.
+      ++
+    ==
+  ====
+P
+  ++
+  1. A chronicle.
+  1. A commentary.
+  1. A biography, a narrative, a legend.
+  1. Successively (Kangxi: 續也).
+  ++
+S
+  ==
+  - $傳cyun4 (TODO)
+  - $傳zyun3 (TODO)
   ==
 $$
