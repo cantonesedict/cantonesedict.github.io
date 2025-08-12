@@ -639,13 +639,14 @@ S
 $$
 
 
-##{#3 .williams} <ins class="modern">Ch(u:)n(3)</ins> [[zyun3 陰去]]
+##{#3 .williams} <ins class="modern">Ch(u:)n(3)</ins> Ts(u:)n(3) [[zyun3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
 - $傳3
 - $轉3
+- $鑽3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -732,6 +733,96 @@ S
   ==
   - $轉zyun2
   ==
+$$
+
+### 鑽3 | _Ts(u:)n(3)_ [[zyun3]]
+
+$$
+R
+  ⾦ + 19
+U
+  U+947D
+A
+  ==
+  - 鑚
+  ==
+V
+  ==
+  - zyun1 (per 《廣韻》借官切 for verb senses)
+  ==
+F
+  ==
+  - [[F2.23 鑽]] ::尊去聲以鉄爲之[所]以穿物孔::
+  ==
+W
+  ====
+  - [[Page~604 鑽(3)鑚(3)]]
+    ==
+    - An awl, a gimlet, an [auger], a borer;
+    - an instrument for perforating [[Kangxi: 所以穿也]];
+    - ~~point of a weapon;~~
+    - to bore, to pierce, as a sting [[Kangxi: 刺也]];
+    - to worm one's self into, to search into secrets [[Kangxi: 凡深入者借用鑽]];
+    - _ts(u:)n(3) (5)ng(a/)n_
+        [[zyun3 ngaan5 鑽眼]],
+        to bore a hole;
+    - _t(')(i/)t(8) ts(u:)n(3)_
+        [[tit3 zyun3 鐵鑽]]
+        an awl;
+    - _(1)kam (1)kong ts(u:)n(3)_
+        [[gam1 gong1 zun3 金剛鑽]]
+        ~~a~~ diamond or corundum ~~borer~~ [[Kangxi: 金剛鑽生水底 etc.]];
+    - _ts(u:)n(3) ling(6)_
+        [[zyun3 ling6 鑽？]]
+        to seek into, to act wilily;
+    - _(1)shing ts(u:)n(3)_
+        [[sing1 zyun3 ？鑽]]
+        a centre-bit;
+    - _ts(u:)n(3) (1)lung ts(u:)n(3) l(a/)(3)_
+        [[zyun3 lung4-1 zyun3 laa3 鑽窿鑽罅]]
+        to pry into every nook and corner, to search thoroughly;
+    - _(1)ch(i/) (4)m(a/) ts(u:)n(3)_
+        [[zi1 maa4 zyun3 芝麻鑽]]
+        a flaxseed awl,---a skinflint;
+    - _(1)man (2)tsz' ts(u:)n(3)_
+        [[man4-1 zi2 zyun3 蚊子鑽]]
+        a hardhearted villain.
+    ==
+  ====
+C
+  ====
+  - Fan Wan entry: Corrected ⿰⿱丿口斤 to 所.
+  - Whilst 《廣韻》 has the headline reading 借官切 _(1)ts(u:)n_ (zyun1)
+    for 鑚 in the verb sense (explained 刺也),
+    it also has the in-entry alternative 又借玩切 _ts(u:)n(3)_ (zyun3).
+    It is unclear whether this was intended as a cross-reference
+    to 子筭切 _ts(u:)n(3)_ (zyun3) (explained 錐鑚) as a separate noun sense
+    or as a genuine alternative for the verb sense.
+  - Kangxi has:
+    ++
+    1. Level-tone 借官切 _(1)ts(u:)n_ (zyun1) covering *both* the noun and the verb senses; then
+    2. Departing-tone 子算切 _ts(u:)n(3)_ (zyun3) as 義同 "synonymous"; then
+    3. Some commentary noting that an insistence on
+       distinguishing the verb/noun senses into level/departing tone
+       is 泥 "clinging [unto an outdated tradition]":
+       """"
+       《六書故》去聲借貫切穿器也用之穿物曰鑽平聲\
+       《正字通》按以鑿鑿木皆讀昨不聞鑿一音鑿物又一音鑽亦如之必分平去二聲泥
+       """"
+       The commentary gives as reasoning the homophony
+       of the noun and verb senses of 鑿 _tsok(9)_ (zok6) "chisel".
+       Interestingly, in the vernacular register of Cantonese,
+       one has the option of changing the tone to rising (zok6-2)
+       to explicitly indicate the noun sense of "chisel".
+       <## However, this vernacular tone change to rising
+       is not available for 鑽 (zyun3) "drill". ##>
+    ++
+  ====
+P
+  ++
+  1. Pointed weaponry (Kangxi: 鑽謂矛矢及鏃也).
+  1. Diamond.
+  ++
 $$
 
 
