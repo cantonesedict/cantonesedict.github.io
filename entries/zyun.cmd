@@ -56,6 +56,7 @@ $$
 - $塼1
 - $專1
 - $尊1
+- $朘1
 - $甎1
 - $磚1
 - $耑1
@@ -234,6 +235,28 @@ P
 S
   ==
   - $尊zeon1
+  ==
+$$
+
+###+ 朘1 | _(1)Ts(u:)n_ (zyun1)
+
+$$.
+R
+  ⽉ + 7
+U
+  U+6718
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $朘syun1 for the canonical entry.**
+  ++
+S
+  ==
+  - $朘syun1 (TODO)
+  - $朘zeon3
   ==
 $$
 

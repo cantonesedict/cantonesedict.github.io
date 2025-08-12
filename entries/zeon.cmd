@@ -1235,7 +1235,7 @@ W
 S
   ==
   - $朘syun1 (TODO)
-  - $朘zyun1 (TODO)
+  - $朘zyun1
   ==
 $$
 
