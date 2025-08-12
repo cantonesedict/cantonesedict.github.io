@@ -410,12 +410,13 @@ S
 $$
 
 
-##{#2 .williams} (2)Ch(u:)n [[zyun2 陰上]]
+##{#2 .williams} (2)Ch(u:)n (2)Ts(u:)n [[zyun2 陰上]]
 
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
 - $囀2
+- $纘2
 - $轉2
 ==
 </nav>
@@ -448,6 +449,41 @@ W
         the nightingale's song.
     ==
   ====
+$$
+
+### 纘2 | _(2)Ts(u:)n_ [[zyun2]]
+
+$$
+R
+  ⽷ + 19
+U
+  U+7E98
+A
+  ==
+  - 纂 <## TODO $纂zyun2 ##>
+  - 纉
+  ==
+F
+  ==
+  - [[F2.22 纘]] 繼也集也
+  ==
+W
+  ====
+  - [[Page~604 (2)纘]]
+    ==
+    - ~~To tie things together;~~
+    - to continue, to carry on [[Kangxi: 繼也]];
+    - to take up where others left off;
+    - to imitate, as virtues.
+    ==
+    --
+    [[Otherwise, an alternative form of 纂. **See $纂zyun2 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: The character 繼 is printed poorly.
+  ==
 $$
 
 ### 轉2 | _(2)Ch(u:)n_ [[zyun2]]
