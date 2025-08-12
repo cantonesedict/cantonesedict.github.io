@@ -60,6 +60,7 @@ $$
 - $甎1
 - $磚1
 - $耑1
+- $鐫1
 - $鱄1
 ==
 </nav>
@@ -356,6 +357,27 @@ W
 S
   ==
   - $耑dyun1 (TODO)
+  ==
+$$
+
+###+ 鐫1 | _(1)Ts(u:)n_ (zyun1)
+
+$$.
+R
+  ⾦ + 13
+U
+  U+942B
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $鐫zeon3 for the canonical entry.**
+  ++
+S
+  ==
+  - $鐫zeon3
   ==
 $$
 
