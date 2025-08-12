@@ -187,7 +187,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $鑽zyun3
+      - {$鑽zyun1, $鑽zyun3}
       ==
       </nav>
   //

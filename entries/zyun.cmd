@@ -61,6 +61,7 @@ $$
 - $磚1
 - $耑1
 - $鐫1
+- $鑽1
 - $鱄1
 ==
 </nav>
@@ -378,6 +379,27 @@ P
 S
   ==
   - $鐫zeon3
+  ==
+$$
+
+###+ 鑽1 | _(1)Ts(u:)n_ (zyun1)
+
+$$.
+R
+  ⾦ + 19
+U
+  U+947D
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation (for the verb senses). **See $鑽zyun3 for the canonical entry.**.
+  ++
+S
+  ==
+  - $鑽zyun3
   ==
 $$
 
@@ -823,6 +845,10 @@ P
   1. Pointed weaponry (Kangxi: 鑽謂矛矢及鏃也).
   1. Diamond.
   ++
+S
+  ==
+  - $鑽zyun1
+  ==
 $$
 
 
