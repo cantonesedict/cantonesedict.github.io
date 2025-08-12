@@ -416,6 +416,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $囀2
+- $纂2
 - $纘2
 - $轉2
 ==
@@ -451,6 +452,53 @@ W
   ====
 $$
 
+### 纂2 | _(2)Ts(u:)n_ [[zyun2]]
+
+$$
+R
+  ⽷ + 14
+U
+  U+7E82
+A
+  ==
+  - 繤
+  - 纉
+  - $纘2
+  ==
+F
+  ==
+  - [[F2.22 纂]] ::編[緝]也::
+  ==
+W
+  ====
+  - [[Page~604 ::(2)纂~~(2)藄~~::]]
+    ==
+    - A kind of carnation band or cord [[Kangxi: 似組而赤]];
+    - ~~to connect;~~
+    - to collect together [[Kangxi: 一曰集也]];
+    - to compile a work, to edit, to abridge;
+    - a resumé, a compend, a digest, a collection, a compilation;
+    - _(2)ts(u:)n (1)sau_
+        [[zyun2 sau1 纂修]],
+        to arrange literary materials;
+    - _(2)ts(u:)n ts(a/)p(9)_
+        [[zyun2 zaap6 纂集]]
+        a collectanea;
+    - _(2)ts(u:)n ts(')ap(7)_
+        [[zyun2 cap1 纂緝]]
+        to prepare and publish.
+    ==
+    --
+    [[Otherwise, an alternative form of 纘. **See $纘zyun2 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿰糸⿱巳耳 to 緝.
+  - Williams erroneously has 藄 for an alternative form instead of 繤.
+  ==
+$$
+
 ### 纘2 | _(2)Ts(u:)n_ [[zyun2]]
 
 $$
@@ -460,7 +508,8 @@ U
   U+7E98
 A
   ==
-  - 纂 <## TODO $纂zyun2 ##>
+  - 繤
+  - $纂2
   - 纉
   ==
 F
