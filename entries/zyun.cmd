@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyun
-* %date-modified --> 2025-08-09
+* %date-modified --> 2025-08-12
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -47,7 +47,7 @@ MP
 $$
 
 
-##{#1 .williams} (1)Ch(u:)n [[zyun1 陰平]]
+##{#1 .williams} (1)Ch(u:)n (1)Ts(u:)n [[zyun1 陰平]]
 
 <## tone-1-characters ##>
 <nav class="sideways">
@@ -55,6 +55,7 @@ $$
 - $剸1
 - $塼1
 - $專1
+- $尊1
 - $甎1
 - $磚1
 - $耑1
@@ -173,6 +174,67 @@ E
        ==
     ++
   ====
+$$
+
+### 尊1 | _(1)Ts(u:)n_ [[zyun1]]
+
+$$
+R
+  ⼨ + 9
+U
+  U+5C0A
+F
+  ==
+  - [[F2.19 尊]] 尊長崇也重也貴也敬也
+  ==
+W
+  ====
+  - [[Page~604 (1)尊]]
+    ==
+    - Honorable, eminent, respected, noble [[Kangxi: 高稱也, 重也貴也 etc.]];
+    - a term of respect, your;
+    - to honor, to respect, to dignify, to venerate [[Kangxi: 敬也]];
+    - _ling(6) (1)ts(u:)n_
+        [[ling6 zyun1 令尊]]^
+        your father;
+    - _(1)ts(u:)n k(a/)(3)_
+        [[zyun1 gaa3 尊駕]]
+        your honor;
+        you, Sir;
+    - _(1)ts(u:)n sing(3)_
+        [[zyun1 sing3 尊姓]]
+        your surname;
+    - _(1)ts(u:)n (2)f(u/)_
+        [[zyun1 fu2 尊府]],
+        your house;
+    - _(1)ts(u:)n (1)f(u/) (4)yan_
+        [[zyun1 fu1 jan4 尊夫人]],
+        your wife;
+    - _(4)wai (5)l(o\) pat(7) (1)ts(u:)n_
+        [[wai4 lou5 bat1 zyun1 為老不尊]],
+        old but without self-respect;
+    - _(1)ts(u:)n king(3)_
+        [[zyun1 ging3 尊敬]]
+        to venerate;
+    - _ch(i/)(3) (1)ts(u:)n_
+        [[zi3 zyun1 至尊]],
+        the emperor;
+    - _(1)ts(u:)n (2)ch(e/)ung_
+        [[zyun1 zoeng2 尊長]],
+        respected, elderly persons;
+    - _yat(7) (1)ts(u:)n fat(9) (2)k(o\)m y(e/)ung(6)_
+        [[jat1 zyun1 fat6 gam2 joeng6-2 一尊佛噉樣]]
+        stupid as a statue of Budha.
+    ==
+  ====
+P
+  ++
+  1. Classifier for objects that are heavy or not readily movable.
+  ++
+S
+  ==
+  - $尊zeon1
+  ==
 $$
 
 ### 甎1 | _(1)Ch(u:)n_ [[zyun1]]
