@@ -1218,7 +1218,7 @@ W
   ====
 P
   ++
-  1. The 192nd~radical ("sacrificial wine").
+  1. The 192nd~radical ("sacrificial-wine").
   ++
 $$
 

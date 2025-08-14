@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 3-stroke radicals
-* %date-modified --> 2025-08-12
+* %date-modified --> 2025-08-14
 * %copyright-prior-years --> 2024--
 * %meta-description --> index of characters with 3-stroke radicals
 
@@ -439,7 +439,7 @@ For all radicals, see [Index of characters by radical](./).
 <## /radical-⼡-characters ##>
 
 
-## ⼢ (go slowly)
+## ⼢ (go-slowly)
 
 <## radical-⼢-characters ##>
 <## /radical-⼢-characters ##>
@@ -1189,13 +1189,13 @@ For all radicals, see [Index of characters by radical](./).
 <## /radical-⼲-characters ##>
 
 
-## ⼳ (short thread)
+## ⼳ (short-thread)
 
 <## radical-⼳-characters ##>
 <## /radical-⼳-characters ##>
 
 
-## ⼴ (dotted cliff)
+## ⼴ (dotted-cliff)
 
 <## radical-⼴-characters ##>
 ||||{.wide}
@@ -1269,7 +1269,7 @@ For all radicals, see [Index of characters by radical](./).
 <## /radical-⼴-characters ##>
 
 
-## ⼵ (long stride)
+## ⼵ (long-stride)
 
 <## radical-⼵-characters ##>
 ||||{.wide}
@@ -1292,7 +1292,7 @@ For all radicals, see [Index of characters by radical](./).
 <## /radical-⼵-characters ##>
 
 
-## ⼶ (two hands)
+## ⼶ (two-hands)
 
 <## radical-⼶-characters ##>
 <## /radical-⼶-characters ##>

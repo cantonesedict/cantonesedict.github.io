@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 8-stroke radicals
-* %date-modified --> 2025-08-12
+* %date-modified --> 2025-08-14
 * %copyright-prior-years --> 2024--
 * %meta-description --> index of characters with 8-stroke radicals
 
@@ -410,7 +410,7 @@ For all radicals, see [Index of characters by radical](./).
 <## /radical-⾪-characters ##>
 
 
-## ⾫ (short tailed bird)
+## ⾫ (short-tailed-bird)
 
 <## radical-⾫-characters ##>
 ||||{.wide}

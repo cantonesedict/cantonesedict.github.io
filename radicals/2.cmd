@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 2-stroke radicals
-* %date-modified --> 2025-08-09
+* %date-modified --> 2025-08-14
 * %copyright-prior-years --> 2024--
 * %meta-description --> index of characters with 2-stroke radicals
 
@@ -314,7 +314,7 @@ For all radicals, see [Index of characters by radical](./).
 <## /radical-⼋-characters ##>
 
 
-## ⼌ (down box)
+## ⼌ (down-box)
 
 <## radical-⼌-characters ##>
 ||||{.wide}
@@ -432,7 +432,7 @@ For all radicals, see [Index of characters by radical](./).
 <## /radical-⼏-characters ##>
 
 
-## ⼐ (open box)
+## ⼐ (open-box)
 
 <## radical-⼐-characters ##>
 ||||{.wide}
@@ -648,7 +648,7 @@ For all radicals, see [Index of characters by radical](./).
 <## /radical-⼔-characters ##>
 
 
-## ⼕ (right open box)
+## ⼕ (right-open-box)
 
 <## radical-⼕-characters ##>
 ||||{.wide}
@@ -671,7 +671,7 @@ For all radicals, see [Index of characters by radical](./).
 <## /radical-⼕-characters ##>
 
 
-## ⼖ (hiding enclosure)
+## ⼖ (hiding-enclosure)
 
 <## radical-⼖-characters ##>
 ||||{.wide}

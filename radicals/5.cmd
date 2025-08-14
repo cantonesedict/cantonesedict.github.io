@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 5-stroke radicals
-* %date-modified --> 2025-08-03
+* %date-modified --> 2025-08-14
 * %copyright-prior-years --> 2024--
 * %meta-description --> index of characters with 5-stroke radicals
 
@@ -288,7 +288,7 @@ For all radicals, see [Index of characters by radical](./).
 <## /radical-⽥-characters ##>
 
 
-## ⽦ (bolt of cloth)
+## ⽦ (bolt-of-cloth)
 
 <## radical-⽦-characters ##>
 ||||{.wide}
@@ -418,7 +418,7 @@ For all radicals, see [Index of characters by radical](./).
 <## /radical-⽧-characters ##>
 
 
-## ⽨ (dotted tent)
+## ⽨ (dotted-tent)
 
 <## radical-⽨-characters ##>
 <## /radical-⽨-characters ##>

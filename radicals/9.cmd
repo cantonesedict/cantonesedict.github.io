@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 9-stroke radicals
-* %date-modified --> 2025-07-22
+* %date-modified --> 2025-08-14
 * %copyright-prior-years --> 2024--
 * %meta-description --> index of characters with 9-stroke radicals
 
@@ -83,7 +83,7 @@ For all radicals, see [Index of characters by radical](./).
 <## /radical-⾰-characters ##>
 
 
-## ⾱ (tanned leather)
+## ⾱ (tanned-leather)
 
 <## radical-⾱-characters ##>
 ||||{.wide}

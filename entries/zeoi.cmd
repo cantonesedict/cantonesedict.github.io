@@ -552,7 +552,7 @@ W
 P
   ++
   1. Short-tailed birds in general (Kangxi: 鳥之短尾總名也).
-  1. The 172nd~radical ("short-tailed bird").
+  1. The 172nd~radical ("short-tailed-bird").
   ++
 $$
 
