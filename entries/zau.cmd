@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2025-07-20
+* %date-modified --> 2025-08-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -540,7 +540,7 @@ W
     - A boat, a vessel, a craft of any sort [[Kangxi: 船也]];
     - to go in a boat;
     - to transport, to carry in a vessel [[Kangxi: 載也]];
-    - the 137th~radical of characters relating to ships;
+    - the 137th~radical [["boat"]] of characters relating to ships;
     - _(1)p(')(i/)n (1)chau_
         [[pin1 zau1 扁舟]],
         a punt;
@@ -1100,7 +1100,7 @@ W
     - to travel;
     - to run, to hasten, to quicken one's steps [[Kangxi: 趨也]];
     - to flee, to run off, to clear out;
-    - the 156th~radical of characters relating to going;
+    - the 156th~radical [["run"]] of characters relating to going;
     - _(2)tsau kwo(3) (2)k(i/) (2)sh(a/)ng_
         [[zau2 gwo3 gei2 saang2 走過幾省]],
         he has been over several provinces;

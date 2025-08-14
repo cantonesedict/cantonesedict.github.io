@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2025-07-20
+* %date-modified --> 2025-08-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -814,7 +814,7 @@ W
     ==
     - The flame of a lamp [[Kangxi: 鐙中火丶也]];
     - a stop[,] a point [[Kangxi: 有所絕止丶而識之也]];
-    - the third radical.
+    - the third radical [["dot"]].
     ==
     --
     [[Otherwise, an alternative form of 主. **See $主zyu2 for the canonical entry.**]]

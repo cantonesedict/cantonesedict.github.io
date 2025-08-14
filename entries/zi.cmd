@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2025-07-20
+* %date-modified --> 2025-08-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -477,7 +477,7 @@ W
     - diverging, parting [[Kangxi: 一曰分也]];
     - the twelve horary characters [[Kangxi: 十二支辰名]];
     - ~~to measure;~~
-    - the 65th~radical;
+    - the 65th~radical [["branch"]];
     - _(1)p(a/)u (1)ch(i/)_
         [[baau1 zi1 包支]],
         responsible for;
@@ -2082,7 +2082,7 @@ W
     - a spot, as of dirt or on dice;
     - added to many nouns,
       it indicates that they are smaller than others of the same sort;
-    - the 39th~radical;
+    - the 39th~radical [["child"]];
     - _(2)tsz' (1)s(u:)n_
         [[zi2 sun1 子孫]],
         children, descendants;
@@ -2492,7 +2492,7 @@ W
     - to cease from, to desist, to be still [[Kangxi: 靜也, 不妄動也]];
     - to remain, to wait;
     - [[...]];
-    - the 77th~radical of characters mostly relating to rest;
+    - the 77th~radical [["stop"]] of characters mostly relating to rest;
     - [[...]];
     - _(1)ch(i/) (2)ch(i/)_
         [[zi1 zi2 知止]]^
@@ -3180,7 +3180,7 @@ W
     - To embroider [[Kangxi: ::[...]黹謂刺繡也::]];
     - embroidered, braided;
     - to put on braid or lace;
-    - the 204th~radical, relating to embroidery;
+    - the 204th~radical [["embroidery"]], relating to embroidery;
     - _(1)cham (2)ch(i/)_
         [[zam1 zi2 針黹]],
         to sew, to do needle work.
@@ -3783,7 +3783,7 @@ W
     - ~~an adverb, much, greatly;~~
     - most, ~~very~~, the superlative degree [[Kangxi: 極也, 至謂至極也]];
     - the solstice [[Kangxi: 冬至隂之復也夏至陽之復也]];
-    - the 133d~radical;
+    - the 133d~radical [["arrive"]];
     - _ch(i/)(3) kik(9)_
         [[zi3 gik6 至極]]
         at the very extreme;
@@ -5206,7 +5206,7 @@ W
     - a pronoun, self, I [[Kangxi: ::[己]也::]];
     - my own, myself, personally;
     - to use [[Kangxi: 用也]];
-    - the 132d~radical;
+    - the 132d~radical [["self"]];
     - _tsz'(6) (2)k(i/)_
         [[zi6 gei2 自己]],
         myself, my own;
@@ -5302,7 +5302,7 @@ W
     Read _ch(i/)[(6)]_ [[zi6]];
     --
     ==
-    - the 153d~radical of characters of ~~feline~~ beasts;
+    - the 153d~radical [["badger"]] of characters of ~~feline~~ beasts;
     - a worm, a hairless grub [[Kangxi: 有足謂之蟲無足謂之豸]].
     ==
   ====

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2025-07-30
+* %date-modified --> 2025-08-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -552,6 +552,7 @@ W
 P
   ++
   1. Short-tailed birds in general (Kangxi: 鳥之短尾總名也).
+  1. The 172nd~radical ("short-tailed bird").
   ++
 $$
 

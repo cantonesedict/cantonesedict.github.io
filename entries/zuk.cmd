@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zuk
-* %date-modified --> 2025-07-20
+* %date-modified --> 2025-08-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -369,6 +369,7 @@ P
   ++
   1. Bamboo musical instruments (Kangxi: 八音之一).
   1. Bamboo writing slips (Kangxi: 竹{𥳑=⿱𥫗閒}).
+  1. The 118th~radical ("bamboo").
   ++
 E
   ====
@@ -596,7 +597,7 @@ W
     - to satisfy the wants of;
     - pure, as silver;
     - actions, conduct;
-    - the [157th]~radical of characters relating to going;
+    - the [157th]~radical [["foot"]] of characters relating to going;
     - _shap(9) tsuk(7)_
         [[sap6 zuk1 十足]]
         complete in all respects;

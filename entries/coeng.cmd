@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-08-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1216,6 +1216,10 @@ W
         a man who prepares the libations.
     ==
   ====
+P
+  ++
+  1. The 192nd~radical ("sacrificial wine").
+  ++
 $$
 
 
@@ -1805,7 +1809,7 @@ W
     - superiors [[Kangxi: 長弟猶云先後也]];
     - skilled, used to, practiced;
     - direct, straight;
-    - the 168th~radical;
+    - the 168th~radical [["long"]];
     - _(4)ch(')(e/)ung (5)(u:)n_
         [[coeng4 jyun5 長遠]],
         durable;

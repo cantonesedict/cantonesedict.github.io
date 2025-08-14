@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaau
-* %date-modified --> 2025-07-26
+* %date-modified --> 2025-08-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -337,7 +337,7 @@ W
     - Claws, talons, nails [[Kangxi: 覆手曰爪, 手足甲也]];
     - [[...]];
     - an agent, a minion;
-    - the 87th~radical;
+    - the 87th~radical [["claw"]];
     - _(2)ch(a/)u (4)ng(a/)_
         [[zaau2 ngaa4 爪牙]],
         claws and teeth;

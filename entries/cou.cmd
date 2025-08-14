@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-08-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -258,7 +258,7 @@ W
   - [[Page~587 (2)草(2)艸]]
     ==
     - [[...]];
-    - the 140th~radical of characters relating to herbs;
+    - the 140th~radical [["grass"]] of characters relating to herbs;
     - [[...]].
     ==
     --
