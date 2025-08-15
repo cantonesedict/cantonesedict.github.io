@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [cyun1](#1)
+- [cyun4](#4)
 ==
 </nav>
 <## /tones ##>
@@ -176,4 +177,74 @@ E
     1. To develop a hole.
     ++
   ====
+$$
+
+
+##{#4 .williams} (4)Ch(')(u:)n [[cyun4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways">
+=={.modern}
+- $傳4
+==
+</nav>
+<## /tone-4-characters ##>
+
+### 傳4 | _(4)Ch(')(u:)n_ [[cyun4]]
+
+$$
+R
+  ⼈ + 11
+U
+  U+50B3
+F
+  ==
+  - [[F2.21 傳]] ::傳[授]傳布傳[遞]又續也::
+  ==
+W
+  ====
+  - [[Page~38* (4)傳]]
+    ==
+    - To transfer [[Kangxi: 轉也]], to transmit, to hand down, to perpetuate [[Kangxi: 授也續也]];
+    - to deliver an order;
+    - to propagate [[Kangxi: 布也]];
+    - ~~to carry over, as a balance;~~
+    - ~~to narrate, to record;~~
+    - _(4)ch(')(u:)n shau(6)_
+        [[cyun4 sau6 傳授]]
+        to deliver to;
+    - _(4)ch(')(u:)n k(a/)u(3)_
+        [[cyun4 gaau3 傳教]]
+        to instruct in;
+    - _(4)ch(')(u:)n (1)san (4)man_
+        [[cyun4 san1 man4 傳新聞]],
+        to tell the news;
+    - _(4)ch(')(u:)n (4)(i/)n_
+        [[cyun4 jin4 傳言]],
+        to send a message;
+    - _(4)ch(')(u:)n (1)kung_
+        [[cyun4 gung1 傳供]],
+        a local interpreter in a government office;
+    - _(4)ch(')(u:)n sh(u:)t(8)_
+        [[cyun4 syut3 傳說]]
+        a rumor.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected missing strokes in 授 and 遞.
+  - Williams' 傳教: Now to proselytise (especially Christianity).
+  - Williams' 傳言: Also a rumour.
+  - Williams' 傳說: Also a legend, a tale.
+  ==
+P
+  ++
+  1. To shift (Kangxi: 移也).
+  1. To summon, to call.
+  ++
+S
+  ==
+  - $傳zyun3
+  - $傳zyun6
+  ==
 $$

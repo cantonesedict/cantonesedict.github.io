@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyun
-* %date-modified --> 2025-08-12
+* %date-modified --> 2025-08-15
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -685,7 +685,7 @@ P
   ++
 S
   ==
-  - $傳cyun4 (TODO)
+  - $傳cyun4
   - $傳zyun6
   ==
 $$
@@ -910,7 +910,7 @@ P
   ++
 S
   ==
-  - $傳cyun4 (TODO)
+  - $傳cyun4
   - $傳zyun3
   ==
 $$
