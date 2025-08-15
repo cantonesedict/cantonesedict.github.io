@@ -49,10 +49,29 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $巛1
 - $川1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+###+ 巛1 | _(1)Ch(')(u:)n_ (cyun1)
+
+$$
+R
+  ⼮ + 0
+U
+  U+5DDB
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 川 (Kangxi: 川本字). See $川cyun1.
+  1. The 47th~radical ("river").
+  ++
+$$
 
 ### 川1 | _(1)Ch(')(u:)n_ [[cyun1]]
 
@@ -63,7 +82,7 @@ U
   U+5DDD
 A
   ==
-  - 巛
+  - $巛1
   ==
 F
   ==
