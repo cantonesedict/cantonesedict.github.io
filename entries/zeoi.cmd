@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2025-08-14
+* %date-modified --> 2025-08-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -938,6 +938,10 @@ C
   - Williams' "Mournful", etc.: These are misreadings of Kangxi 憂懼也.
     Better rendered "anxious" or "apprehensive".
   ==
+P
+  ++
+  1. Anxious, apprehensive (Kangxi: 憂懼也).
+  ++
 S
   ==
   - $惴ceoi2
