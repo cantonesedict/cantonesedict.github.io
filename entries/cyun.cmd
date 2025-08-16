@@ -266,10 +266,55 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $攛3
 - $竄3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+###+ 攛3 | _Ts(')(u:)n(3)_ (cyun3)
+
+$$
+R
+  ⼿ + 18
+U
+  U+651B
+A
+  ==
+  - $竄3 (for "tempt" sense)
+  ==
+V
+  ==
+  - cyun1 (per Kangxi 七丸切 for "tempt" sense)
+  - cyun2 (per Fan Wan)
+  ==
+F
+  ==
+  - [[F2.21 ::[攛]:: _(2)Ch(')(u:)n_ (cyun2)]] 擲也
+  ==
+W
+  ====
+  - [[Page~38* (2)竄 _(2)Ch(')(u:)n_ (cyun2); here normalised to 攛 _Ts(')(u:)n(3)_ (cyun3)]]
+    ==
+    - [[...]];
+    - to seduce, to beguile [[Kangxi 竄: 誘人爲惡曰竄俗曰攛掇]];
+    - [[...]].
+    ==
+  - [[Page~38* (2)攛 _(2)Ch(')(u:)n_ (cyun2); here normalised to _Ts(')(u:)n(3)_ (cyun3)]]
+    ==
+    - To fling away [[Kangxi 攛: 擲也]];
+    - to tempt, to seduce to evil [[Kangxi 攛: 俗謂誘人爲非曰攛掇]];
+    - to get one to consent;
+    - _[ts(')(u:)n(3)] ch(u:)t(8)_
+        [[cyun3 zyut3 攛掇]]
+        to entice, to inveigle.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed headword.
+  ==
+$$
 
 ###+ 竄3 | _Ts(')(u:)n(3)_ (cyun3)
 
@@ -292,7 +337,7 @@ W
     ==
     - To sneak away, to hide, to skulk [[Kangxi: 匿也逃也]];
     - ~~to kill;~~
-    - to seduce, to beguile;
+    - [[...]];
     - to fumigate [[Kangxi: 竄以藥薰之也]];
     - to secrete [[Kangxi: 藏也隱也]];
     - ~~petty, weak, pusillanimous;~~
@@ -306,6 +351,9 @@ W
         [[cyun3 sit3 竄竊]]
         to pilfer.
     ==
+    --
+    [[Otherwise, an alternative form of 攛 (for the "tempt" sense). **See $攛cyun3 for the canonical entry.**]]
+    --
   ====
 C
   ==
