@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyun
-* %date-modified --> 2025-08-15
+* %date-modified --> 2025-08-16
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [cyun1](#1)
+- [cyun2](#2)
 - [cyun4](#4)
 ==
 </nav>
@@ -177,6 +178,55 @@ E
     1. To develop a hole.
     ++
   ====
+$$
+
+
+##{#2 .williams} (2)Ch(')(u:)n [[cyun2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $舛2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 舛2 | _(2)Ch(')(u:)n_ [[cyun2]]
+
+$$
+R
+  ⾇ + 0
+U
+  U+821B
+F
+  ==
+  - [[F2.21 舛]] ::差謬也[錯亂]也::
+  ==
+W
+  ====
+  - [[Page~38* (2)舛]]
+    ==
+    - Erroneous [[Kangxi: 舛錯也, 錯亂也]], opposed [[Kangxi: 舛偝也 etc.]];
+    - to contradict;
+    - the 136th~radical [["oppose"]][;]
+    - _(2)ch(')(u:)n ts(')ok(8)_
+        [[cyun2 cok3 舛錯]]
+        wrong;
+    - _(2)ch(')(u:)n mau(6)_
+        [[cyun2 mau6 舛謬]]
+        ~~to deceive~~.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected missing stroke in 錯, and corrected malformed 亂.
+  - Williams' 舛錯: Now more commonly read _(2)ch(')(u:)n ts(')o(3)_ (cyun2 co3).
+  - Williams' 舛謬: Better rendered "absurd".
+  ==
+P
+  ++
+  1. Difficult (as a situation).
+  ++
 $$
 
 
