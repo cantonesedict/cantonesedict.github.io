@@ -190,6 +190,7 @@ $$
 - $喘2
 - $攛2
 - $竄2
+- $端2
 - $舛2
 ==
 </nav>
@@ -204,7 +205,7 @@ U
   U+5598
 A
   ==
-  - 端
+  - $端2
   ==
 F
   ==
@@ -288,6 +289,27 @@ C
 S
   ==
   - $竄cyun3
+  ==
+$$
+
+###+ 端2 | _(2)Ch(')(u:)n_ (cyun2)
+
+$$.
+R
+  ⽴ + 9
+U
+  U+7AEF
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 喘. **See $喘cyun2 for the canonical entry.**
+  ++
+S
+  ==
+  - $端dyun1 (TODO)
   ==
 $$
 
