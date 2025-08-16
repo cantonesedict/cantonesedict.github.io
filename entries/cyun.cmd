@@ -187,12 +187,52 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $喘2
 - $攛2
 - $竄2
 - $舛2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 喘2 | _(2)Ch(')(u:)n_ [[cyun2]]
+
+$$
+R
+  ⼝ + 9
+U
+  U+5598
+A
+  ==
+  - 端
+  ==
+F
+  ==
+  - [[F2.21 喘]] ::氣[緊]::
+  ==
+W
+  ====
+  - [[Page~38* (2)喘]]
+    ==
+    - To pant, to gasp [[Kangxi: 疾息也, 喘息]];
+    - the breath, the life;
+    - _(4)ts(')(a/)n (2)ch(')(u:)n_
+        [[caan4 cyun2 殘喘]],
+        my poor life, ready to perish;
+    - _(2)ch(')(u:)n fai(6)_
+        [[cyun2 fai6 喘吠]]
+        to wheeze and cough.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿱⿰臣⿱𠂉一糸 to 緊.
+  ==
+P
+  ++
+  1. To speak quietly or subtly (Kangxi: 微言).
+  ++
+$$
 
 ### 攛2 | _(2)Ch(')(u:)n_ [[cyun2]]
 
