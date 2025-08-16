@@ -159,6 +159,7 @@ W
   ====
 C
   ==
+  - Note that the (now obsolete) departing-tone reading is cognate with $串cyun3.
   - Fan Wan entry: Normalised ⿱⿰凿殳金 (with a stroke missing) to 鑿.
   - Williams' 穿房使喚: Changed _f(u/)n(3)_ (fun3) to modern _w(u/)n(6)_ (wun6).
   - Williams' 穿砂煲: Now simply 穿煲.
@@ -375,16 +376,79 @@ S
 $$
 
 
-##{#3 .williams} Ts(')(u:)n(3) [[cyun3 陰去]]
+##{#3 .williams} Ch(')(u:)n(3) Ts(')(u:)n(3) [[cyun3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $串3
 - $攛3
 - $竄3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 串3 | _Ch(')(u:)n(3)_ [[cyun3]]
+
+$$
+R
+  ⼁ + 6
+U
+  U+4E32
+F
+  ==
+  - [[F2.23 串]] 穿也貫也
+  ==
+W
+  ====
+  - [[Page~38* 串(3)]]
+    ==
+    - To string together [[Kangxi: 物相連貫也與穿讀去聲通穿亦作串]];
+    - to connect;
+    - leagued or banded;
+    - a string of;
+    - _yat(7) ch(')(u:)n(3) (4)ts(')(i/)n_
+        [[jat1 cyun3 cin4 一串錢]],
+        a string of cash;
+    - _yat(7) ch(')(u:)n(3) p(')(a/)u(3)_
+        [[jat1 cyun3 paau3 一串炮]]
+        a string of crackers;
+    - _ch(')(u:)n(3) kai(3)_
+        [[cyun3 gai3 串計]]
+        to intrigue;
+    - _ch(')(u:)n(3) (4)t(')au_
+        [[cyun3 tau4 串頭]],
+        a plan to swindle;
+    - _ch(')(u:)n(3) (4)m(a/)i_
+        [[cyun3 maai4 串埋]],
+        to make a party or band.
+    ==
+  ====
+C
+  ==
+  - Cognate with the (now obsolete) departing-tone reading of $穿1.
+  ==
+P
+  ++
+  1. To play a role, to perform.
+  ++
+E
+  ====
+  - 【串】 (cyun3):
+    ++
+    1. To spell (of words in an alphabetic language).
+       ==
+       - 點串啊 (dim2 cyun3 a3): "How [do you] spell [it]?"
+       - 唔識串 (m4 sik1 cyun3): "[I] don't know [how to] spell [it]."
+       ==
+    1. Arrogant, cocky.
+    ++
+  ====
+S
+  ==
+  - $串gwaan3 (TODO)
+  ==
+$$
 
 ###+ 攛3 | _Ts(')(u:)n(3)_ (cyun3)
 
