@@ -499,7 +499,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $攛cyun3
+      - {$攛cyun2, $攛cyun3}
       ==
       </nav>
 ''

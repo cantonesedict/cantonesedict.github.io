@@ -187,11 +187,40 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $攛2
 - $竄2
 - $舛2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 攛2 | _(2)Ch(')(u:)n_ [[cyun2]]
+
+$$.
+R
+  ⼿ + 18
+U
+  U+651B
+F
+  ==
+  - [[F2.21 ::[攛]::]] 擲也
+  ==
+W
+  ====
+  - [[Page~38* (2)攛]]
+    --
+    [[Reading variation. **See $攛cyun3 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed headword.
+  ==
+S
+  ==
+  - $攛cyun3
+  ==
+$$
 
 ### 竄2 | _(2)Ch(')(u:)n_ [[cyun2]]
 
@@ -313,6 +342,10 @@ W
 C
   ==
   - Fan Wan entry: Corrected malformed headword.
+  ==
+S
+  ==
+  - $攛cyun2
   ==
 $$
 
