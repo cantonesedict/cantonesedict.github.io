@@ -56,6 +56,7 @@ $$
 - $川1
 - $村1
 - $穿1
+- $邨1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -125,7 +126,7 @@ U
   U+6751
 A
   ==
-  - 邨
+  - $邨1
   ==
 F
   ==
@@ -215,6 +216,31 @@ E
     1. To develop a hole.
     ++
   ====
+$$
+
+### 邨1 | _(1)Ts(')(u:)n_ [[cyun1]]
+
+$$
+R
+  ⾢ + 4
+U
+  U+90A8
+F
+  ==
+  - [[F2.20 村]] 鄕落曰村
+  - [[F2.20 邨]] 同上
+  ==
+W
+  ====
+  - [[Page~604 (1)村(1)邨]]
+    --
+    [[Alternative form of 村. See $村cyun1.]]
+    --
+  ====
+C
+  ==
+  - Commonly used in the context of housing estates in Hong Kong (e.g. 彩虹邨).
+  ==
 $$
 
 
