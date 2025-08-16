@@ -190,6 +190,7 @@ $$
 =={.modern}
 - $喘2
 - $惴2
+- $揣2
 - $攛2
 - $竄2
 - $端2
@@ -257,6 +258,48 @@ S
   ==
   - $惴ceoi2
   - $惴zeoi3
+  ==
+$$
+
+### 揣2 | _(2)Ch(')(u:)n_ [[cyun2]]
+
+$$
+R
+  ⼿ + 9
+U
+  U+63E3
+V
+  ==
+  - ceoi2 (per 《廣韻》初委切)
+  ==
+F
+  ==
+  - [[F2.56 揣 _(2)Ch(')ui_ (ceoi2)]] 吹上聲揣度揣摩
+  ==
+W
+  ====
+  - [[Page~34* (2)揣 _(2)Ch(')ui_ (ceoi2); here normalised to _(2)Ch(')(u:)n_ (cyun2)]]
+    --
+    Also read _(2)ch(')(u:)n_ [[cyun2]].
+    --
+    ==
+    - To estimate, to calculate, to reckon [[Kangxi: 量也, 量度也, 凡稱量忖度皆曰揣]];
+    - to feel, to try, to rub, in order to ascertain [[Kangxi: 一曰捫而察之也]];
+    - to detect;
+    - ~~to~~ _(2)[ch(')(u:)n] tok(9)_
+        [[cyun2 dok6 揣度]]
+        to conjecture;
+    - _(2)[ch(')(u:)n] (1)mo_
+        [[cyun2 mo1 揣摩]],
+        to feel, to learn one's wishes, to seek out the sense;
+    - _pat(7) (2)[ch(')(u:)n]_
+        [[bat1 cyun2 不揣]],
+        unable to detect.
+    ==
+  ====
+S
+  ==
+  - $揣ceoi2
   ==
 $$
 

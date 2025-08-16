@@ -408,7 +408,7 @@ For all radicals, see [Index of characters by radical](./).
       - $揷caap3
       - {$揪cau1, $揪zau1}
       - {$揫cau1, $揫zau1}
-      - $揣ceoi2
+      - {$揣ceoi2, $揣cyun2}
       - $捶ceoi4
       - $揗ceon4
       - $揸zaa1
