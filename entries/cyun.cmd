@@ -384,6 +384,7 @@ $$
 - $串3
 - $攛3
 - $竄3
+- $釧3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -554,6 +555,37 @@ P
 S
   ==
   - $竄cyun2
+  ==
+$$
+
+### 釧3 | _Ch(')(u:)n(3)_ [[cyun3]]
+
+$$
+R
+  ⾦ + 3
+U
+  U+91E7
+V
+  ==
+  - cyun1 (common)
+  ==
+F
+  ==
+  - [[F2.23 釧]] ::[釵]釧手鈪也::
+  ==
+W
+  ====
+  - [[Page~38* 釧(3)]]
+    ==
+    - A bracelet or armlet [[Kangxi: 臂環也 etc.]];
+    - ~~an amulet on the arm,~~
+      also called _(4)t(')i(u/) t(')(u:)t(8)_ [[tiu4 tyut3 條脫]]
+      ~~a warder off~~.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed missing dots in 釵.
   ==
 $$
 
