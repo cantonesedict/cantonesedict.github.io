@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [cyun1](#1)
 - [cyun2](#2)
+- [cyun3](#3)
 - [cyun4](#4)
 ==
 </nav>
@@ -186,10 +187,40 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $竄2
 - $舛2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 竄2 | _(2)Ch(')(u:)n_ [[cyun2]]
+
+$$.
+R
+  ⽳ + 13
+U
+  U+7AC4
+F
+  ==
+  - [[F2.21 ::[竄]::]] ::也[竄]驅逐也::
+  ==
+W
+  ====
+  - [[Page~38* (2)竄]]
+    --
+    [[Reading variation. **See $竄cyun3 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed headword.
+    The first two characters ::也[竄]:: of the explanation are erroneous.
+  ==
+S
+  ==
+  - $竄cyun3
+  ==
+$$
 
 ### 舛2 | _(2)Ch(')(u:)n_ [[cyun2]]
 
@@ -227,6 +258,73 @@ P
   ++
   1. Difficult (as a situation).
   ++
+$$
+
+
+##{#3 .williams} Ts(')(u:)n(3) [[cyun3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $竄3
+==
+</nav>
+<## /tone-3-characters ##>
+
+###+ 竄3 | _Ts(')(u:)n(3)_ (cyun3)
+
+$$
+R
+  ⽳ + 13
+U
+  U+7AC4
+V
+  ==
+  - cyun2 (per Fan Wan)
+  ==
+F
+  ==
+  - [[F2.21 ::[竄]:: _(2)Ch(')(u:)n_ (cyun2)]] ::也[竄]驅逐也::
+  ==
+W
+  ====
+  - [[Page~38* (2)竄 _(2)Ch(')(u:)n_ (cyun2); here normalised to _Ts(')(u:)n(3)_ (cyun3)]]
+    ==
+    - To sneak away, to hide, to skulk [[Kangxi: 匿也逃也]];
+    - ~~to kill;~~
+    - to seduce, to beguile;
+    - to fumigate [[Kangxi: 竄以藥薰之也]];
+    - to secrete [[Kangxi: 藏也隱也]];
+    - ~~petty, weak, pusillanimous;~~
+    - _[ts(')(u:)n(3)] nik(7)_
+        [[cyun3 nik1 竄匿]]
+        to hide away;
+    - _(4)t(')(o\) [ts(')(u:)n(3)]_
+        [[tou4 cyun3 逃竄]],
+        to run off;
+    - _[ts(')(u:)n(3)] s(i/)t(8)_
+        [[cyun3 sit3 竄竊]]
+        to pilfer.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed headword.
+    The first two characters ::也[竄]:: of the explanation are erroneous.
+  - Williams' "to kill": This is a misreading of Kangxi 放也誅也,
+    which should be rendered "[to] exile, [to] punish".
+  ==
+P
+  ++
+  1. To exile (Kangxi: 放也誅也).
+  1. In secret (Kangxi: 竄微也).
+  1. To alter (Kangxi: 改易也).
+  1. To put, to place.
+  ++
+S
+  ==
+  - $竄cyun2
+  ==
 $$
 
 
