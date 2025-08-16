@@ -125,7 +125,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - {$惻caak1, $惻cak1}
       - {$愀cau1, $愀ciu2}
-      - {$惴ceoi2, $惴zeoi3}
+      - {$惴ceoi2, $惴cyun2, $惴zeoi3}
       - $惷ceon2
       - $慈ci4
       ==

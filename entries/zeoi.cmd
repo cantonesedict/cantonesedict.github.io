@@ -945,7 +945,7 @@ P
 S
   ==
   - $惴ceoi2
-  - $惴cyun2 (TODO)
+  - $惴cyun2
   ==
 $$
 

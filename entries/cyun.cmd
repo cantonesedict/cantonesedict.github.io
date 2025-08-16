@@ -189,6 +189,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $喘2
+- $惴2
 - $攛2
 - $竄2
 - $端2
@@ -235,6 +236,28 @@ P
   ++
   1. To speak quietly or subtly (Kangxi: 微言).
   ++
+$$
+
+###+ 惴2 | _(2)Ch(')(u:)n_ (cyun2)
+
+$$.
+R
+  ⼼ + 9
+U
+  U+60F4
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $惴zeoi3 for the canonical entry.**
+  ++
+S
+  ==
+  - $惴ceoi2
+  - $惴zeoi3
+  ==
 $$
 
 ### 攛2 | _(2)Ch(')(u:)n_ [[cyun2]]
