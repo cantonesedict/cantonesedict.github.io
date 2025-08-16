@@ -192,6 +192,7 @@ $$
 - $竄2
 - $端2
 - $舛2
+- $遄2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -351,6 +352,28 @@ P
   ++
 $$
 
+### 遄2 | _(2)Ch(')(u:)n_ [[cyun2]]
+
+$$.
+R
+  ⾡ + 9
+U
+  U+9044
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~38* (2)遄]]
+    --
+    [[Reading variation. **See $遄cyun4 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $遄cyun4
+  ==
+$$
+
 
 ##{#3 .williams} Ts(')(u:)n(3) [[cyun3 陰去]]
 
@@ -477,6 +500,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $傳4
+- $遄4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -537,5 +561,45 @@ S
   ==
   - $傳zyun3
   - $傳zyun6
+  ==
+$$
+
+###+ 遄4 | _(4)Ch(')(u:)n_ (cyun4)
+
+$$
+R
+  ⾡ + 9
+U
+  U+9044
+V
+  ==
+  - cyun2 (per Williams)
+  ==
+F
+  ==
+  - [[F2.56 遄 _(2)Ch(')ui_ (ceoi2)]] 速也
+  ==
+W
+  ====
+  - [[Page~38* (2)遄 _(2)Ch(')(u:)n_ (cyun2); here normalised to _(4)Ch(')(u:)n_ (cyun4)]]
+    ==
+    - To go quickly [[Kangxi: 往來數也, 疾也速也]];
+    - haste, speed;
+    - ~~to go and come.~~
+    ==
+    --
+    ~~Also read _chui(3)_ [[zeoi3]] with the same meaning.~~
+    --
+  ====
+C
+  ==
+  - Williams' "to go and come": This is a misreading of Kangxi 往來數也.
+    Here, 數 is to be read in entering tone, _shok(8)_ (sok3)^,
+    meaning "frequently". Thus, 往來數也 should be rendered
+    "[to] go [and] come frequently", and defines the same sense as 疾也速也.
+  ==
+S
+  ==
+  - $遄cyun2
   ==
 $$
