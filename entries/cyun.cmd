@@ -47,13 +47,14 @@ MP
 $$
 
 
-##{#1 .williams} (1)Ch(')(u:)n [[cyun1 陰平]]
+##{#1 .williams} (1)Ch(')(u:)n (1)Ts(')(u:)n [[cyun1 陰平]]
 
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
 - $巛1
 - $川1
+- $村1
 - $穿1
 ==
 </nav>
@@ -113,6 +114,40 @@ P
   ++
   1. Short for 四川.
   ++
+$$
+
+### 村1 | _(1)Ts(')(u:)n_ [[cyun1]]
+
+$$
+R
+  ⽊ + 3
+U
+  U+6751
+A
+  ==
+  - 邨
+  ==
+F
+  ==
+  - [[F2.20 村]] 鄕落曰村
+  - [[F2.20 邨]] 同上
+  ==
+W
+  ====
+  - [[Page~604 (1)村(1)邨]]
+    ==
+    - A hamlet, a village [[Kangxi: 墅也, 聚落也]];
+    - _(1)h(e/)ung (1)ts(')(u:)n_
+        [[hoeng1 cyun1 鄉村]],
+        a village, the country;
+    - _(1)ts(')(u:)n tsuk(9)_
+        [[cyun1 zuk6 村俗]]
+        rustic, unpolished;
+    - _(1)ts(')(u:)n (1)f(u/)_
+        [[cyun1 fu1 村夫]],
+        a villager, an uneducated man.
+    ==
+  ====
 $$
 
 ### 穿1 | _(1)Ch(')(u:)n_ [[cyun1]]
