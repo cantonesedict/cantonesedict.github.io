@@ -47,7 +47,7 @@ MP
 $$
 
 
-##{#1 .williams} (1)Ch(')(u:)n (1)Ts(')(u:)n [[cyun1 陰平]]
+##{#1 .williams} (1)Ch(')(u:)n [[cyun1 陰平]]
 
 <## tone-1-characters ##>
 <nav class="sideways">
@@ -55,7 +55,6 @@ $$
 - $巛1
 - $川1
 - $穿1
-- $竄1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -182,35 +181,6 @@ E
   ====
 $$
 
-###+ 竄1 | _(1)Ts(')(u:)n_ (cyun1)
-
-$$
-R
-  ⽳ + 13
-U
-  U+7AC4
-F
-  [[Not present]]
-W
-  ====
-  - [[Page~38* (2)竄 _(2)Ch(')(u:)n_ (cyun2); here corrected to _(1)Ts(')(u:)n_ (cyun1)]]
-    ==
-    - [[...]];
-    - to seduce, to beguile [[Kangxi: 誘人爲惡曰竄俗曰攛掇]];
-    - [[...]].
-    ==
-  ====
-P
-  ++
-  1. To enter a hole (Kangxi: 入穴也).
-  ++
-S
-  ==
-  - $竄cyun2
-  - $竄cyun3
-  ==
-$$
-
 
 ##{#2 .williams} (2)Ch(')(u:)n [[cyun2 陰上]]
 
@@ -248,7 +218,6 @@ C
   ==
 S
   ==
-  - $竄cyun1
   - $竄cyun3
   ==
 $$
@@ -323,7 +292,7 @@ W
     ==
     - To sneak away, to hide, to skulk [[Kangxi: 匿也逃也]];
     - ~~to kill;~~
-    - [[...]];
+    - to seduce, to beguile;
     - to fumigate [[Kangxi: 竄以藥薰之也]];
     - to secrete [[Kangxi: 藏也隱也]];
     - ~~petty, weak, pusillanimous;~~
@@ -354,7 +323,6 @@ P
   ++
 S
   ==
-  - $竄cyun1
   - $竄cyun2
   ==
 $$
