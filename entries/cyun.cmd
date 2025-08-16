@@ -279,7 +279,7 @@ F
   ==
 W
   ====
-  - [[Page~34* (2)揣 _(2)Ch(')ui_ (ceoi2); here normalised to _(2)Ch(')(u:)n_ (cyun2)]]
+  - [[Page~34* (2)揣]]
     --
     Also read _(2)ch(')(u:)n_ [[cyun2]].
     --
@@ -298,6 +298,12 @@ W
         unable to detect.
     ==
   ====
+C
+  ==
+  - Williams' "Also read [...]": This reading _(2)ch(')(u:)n_ (cyun2)
+    is the canonical reading today.
+    I have normalised _(2)ch(')ui_ (ceoi2) in the examples to it.
+  ==
 S
   ==
   - $揣ceoi2
