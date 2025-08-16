@@ -1053,7 +1053,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - {$竄cyun2, $竄cyun3}
+      - {$竄cyun1, $竄cyun2, $竄cyun3}
       ==
       </nav>
   //
