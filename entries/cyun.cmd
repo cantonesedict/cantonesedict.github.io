@@ -195,6 +195,7 @@ $$
 - $竄2
 - $端2
 - $舛2
+- $踳2
 - $遄2
 ==
 </nav>
@@ -388,6 +389,10 @@ R
   ⾇ + 0
 U
   U+821B
+A
+  ==
+  - $踳2
+  ==
 F
   ==
   - [[F2.21 舛]] ::差謬也[錯亂]也::
@@ -417,6 +422,28 @@ P
   ++
   1. Difficult (as a situation).
   ++
+$$
+
+###+ 踳2 | _(2)Ch(')(u:)n_ (cyun2)
+
+$$.
+R
+  ⾜ + 9
+U
+  U+8E33
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $踳ceon2 for the canonical entry.**
+  1. Alternative form of 舛. **See $舛cyun2 for the canonical entry.**
+  ++
+S
+  ==
+  - $踳ceon2
+  ==
 $$
 
 ### 遄2 | _(2)Ch(')(u:)n_ [[cyun2]]
