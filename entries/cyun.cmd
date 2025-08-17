@@ -763,6 +763,7 @@ $$
 - $詮4
 - $跧4
 - $遄4
+- $銓4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -1081,4 +1082,34 @@ S
   ==
   - $遄cyun2
   ==
+$$
+
+### 銓4 | _(4)Ts(')(u:)n_ [[cyun4]]
+
+$$
+R
+  ⾦ + 6
+U
+  U+9293
+V
+  ==
+  - cyun1 (per 《廣韻》此縁切)
+  ==
+F
+  ==
+  - [[F2.20 銓 _(4)S(u:)n_ (syun4)]] 衡也度也
+  ==
+W
+  ====
+  - [[Page~604 (4)銓]]
+    ==
+    - To weigh, to measure [[Kangxi: 衡也, 量也次也度也]];
+    - to estimate the quantity of things, to value;
+    - to choose according to merit or value;
+    - a carpenter's plane [[Kangxi: 平木器]];
+    - _(4)ts(')(u:)n (2)s(u:)n_
+        [[cyun4 syun2 銓選]],
+        to select, as proper officers.
+    ==
+  ====
 $$
