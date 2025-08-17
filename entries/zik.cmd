@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2025-08-14
+* %date-modified --> 2025-08-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -329,12 +329,12 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected ⿰糸⿱免丿 to 讒.
   - The reading _tsik(7)_ (zik1) is not unattested for the "fired-brick" sense;
     《集韻》 has the reading 節力切, explained 燒土周棺也.
   - Kangxi has the "abhor" sense under 子力切 _tsik(7)_ (zik1).
     However, 《廣韻》 explains this reading as 風堲 (which I do not comprehend),
     with the "abhor" sense instead given under 秦力切 _tsik(9)_ (zik6).
+  - Fan Wan entry: Corrected ⿰糸⿱免丿 to 讒.
   - Williams' "to make an arched grave": This is a poor rendering of
     Kangxi 堲者冶土爲{？=⿰缶專}而四周于棺之坎也.
     The idea here is that fired-brick is used
@@ -427,13 +427,13 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected headword ⿳由儿夂 to 畟, and corrected 犬 to 尖.
-  - Williams misprints 畟 as ⿳田儿又; here corrected.
   - The reading _tsik(7)_ (zik1) is not unattested;
     《集韻》 has the reading 節力切, explained 畟畟耜利也.
     Whilst 《廣韻》 also has the reading 子力切,
     it is without explanation
     (it simply cross-references _ch(')ik(7)_ (cik1) as 又初力切).
+  - Fan Wan entry: Corrected headword ⿳由儿夂 to 畟, and corrected 犬 to 尖.
+  - Williams misprints 畟 as ⿳田儿又; here corrected.
   ==
 $$
 

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoek
-* %date-modified --> 2025-07-15
+* %date-modified --> 2025-08-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -425,10 +425,10 @@ W
   ====
 C
   ==
-  - Fan Wan entry: The unidentified character is ⿰正朿,
-    possibly a badly typed 疎 (same as 疏).
   - The reading _ts(e/)uk(8)_ (zoek3) is not unattested;
     《集韻》 has the reading 即約切, explained 白色.
+  - Fan Wan entry: The unidentified character is ⿰正朿,
+    possibly a badly typed 疎 (same as 疏).
   ==
 S
   ==
