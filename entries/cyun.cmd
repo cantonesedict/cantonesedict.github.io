@@ -759,6 +759,7 @@ $$
 - $全4
 - $拴4
 - $攢4
+- $欑4
 - $痊4
 - $筌4
 - $詮4
@@ -916,7 +917,7 @@ A
   ==
   - 攅
   - 櫕
-  - 欑
+  - $欑4
   ==
 V
   ==
@@ -931,10 +932,10 @@ W
   ====
   - [[Page~605 ::(4)[攅]::; here normalised to 攢]]
     ==
-    - Interchanged with 欑;
+    - ~~Interchanged with 欑;~~
     - to collect, to come together, to assemble [[Kangxi: 族聚也]];
     - to lay a coffin under a shed, and not bury it [[Kangxi: 不葬而掩其柩曰攢亦作欑]];
-    - poles and thatch to cover a coffin;
+    - [[...]];
     - _(4)ts(')(u:)n h(o\)p(9)_
         [[cyun4 hap6-2 攢盒]]
         a box with partitions, used for sweetmeats[.]
@@ -950,10 +951,40 @@ C
     Therefore, I would wager that zaan2
     is from analogy with the Mandarin reading zǎn in 積攢.
   - Williams entry: Fixed extra dot at the top-right of the headword 攅.
+  - Williams' "Interchanged with 欑": The character 攢 can be written as 欑,
+    but not the other way round.
   ==
 S
   ==
   - $攢zyun1
+  ==
+$$
+
+###+ 欑4 | _(4)Ts(')(u:)n_ (cyun4)
+
+$$
+R
+  ⽊ + 19
+U
+  U+6B11
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~605 ::(4)[攅]::; here corrected to 欑]]
+    ==
+    - ~~Interchanged with 欑;~~
+    - [[...]];
+    - poles and thatch to cover a coffin [[Kangxi: 輴盛柩之車欑猶菆也菆木于輴之四面至于棺上以泥塗之]];
+    - [[...]]^
+    ==
+    --
+    [[Otherwise, an alternative form of 攢. **See $攢cyun4 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Williams entry: Fixed extra dot at the top-right of the headword 攅.
   ==
 $$
 

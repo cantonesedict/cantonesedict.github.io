@@ -1125,6 +1125,14 @@ For all radicals, see [Index of characters by radical](./).
       - $櫬can3
       ==
       </nav>
+  //
+    , 19
+    ,
+      <nav class="sideways">
+      ==
+      - $欑cyun4
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⽊-characters ##>
