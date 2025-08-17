@@ -757,6 +757,7 @@ $$
 =={.modern}
 - $傳4
 - $全4
+- $拴4
 - $遄4
 ==
 </nav>
@@ -866,6 +867,34 @@ W
 C
   ==
   - Fan Wan entry: Fixed missing stroke in 備.
+  ==
+$$
+
+### 拴4 | _(4)Ts(')(u:)n_ [[cyun4]]
+
+$$
+R
+  ⼿ + 6
+U
+  U+62F4
+V
+  ==
+  - cyun1 (per 《廣韻》此縁切)
+  ==
+F
+  ==
+  - [[F2.20 拴 _(4)S(u:)n_ (syun4)]] 揀也
+  ==
+W
+  ====
+  - [[Page~605 (4)拴]]
+    ==
+    - To select from, to pick out from with the hand [[Kangxi: 揀也]].
+    ==
+  ====
+S
+  ==
+  - $拴saan1 (TODO)
   ==
 $$
 
