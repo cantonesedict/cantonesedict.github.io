@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2025-08-14
+* %date-modified --> 2025-08-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2604,7 +2604,7 @@ C
   - Williams' "to cut off even": This is a misreading of
     either Kangxi 劑也 (which means "portion")
     or Kangxi 通作齊 (which indicates that 臍 can be written 齊,
-    not the other way around).
+    not the other way round).
   ==
 $$
 

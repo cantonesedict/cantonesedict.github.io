@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2025-08-14
+* %date-modified --> 2025-08-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -679,7 +679,7 @@ W
 C
   ==
   - Williams' "used for the last": This is a misreading of Kangxi 通作兹,
-    (which indicates that 兹 can be written 滋, not the other way around).
+    (which indicates that 兹 can be written 滋, not the other way round).
   ==
 $$
 
