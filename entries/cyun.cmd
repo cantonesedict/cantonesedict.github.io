@@ -760,6 +760,7 @@ $$
 - $拴4
 - $攢4
 - $欑4
+- $泉4
 - $痊4
 - $筌4
 - $詮4
@@ -985,6 +986,57 @@ W
 C
   ==
   - Williams entry: Fixed extra dot at the top-right of the headword 攅.
+  ==
+$$
+
+### 泉4 | _(4)Ts(')(u:)n_ [[cyun4]]
+
+$$
+R
+  ⽔ + 5
+U
+  U+6CC9
+F
+  ==
+  - [[F2.21 泉]] 源泉有源之水也
+  ==
+W
+  ====
+  - [[Page~605 (4)泉]]
+    ==
+    - A fountain, a spring [[Kangxi: 濫泉正出正出涌出也 etc.]];
+    - the headwaters of a river [[Kangxi: 水原也]];
+    - a department in Fuhkien [[福建]], Ts(')iuen-chau f(u/) [[泉州府]] or Chinchew [[泉州]];
+    - _(2)[tseng] (4)ts(')(u:)n_
+        [[zeng2 cyun4 井泉]],
+        a well;
+    - _lap(9) (4)ts(')(u:)n_
+        [[lap6 cyun4 立泉]]^
+        a cascade [[Kangxi: 瀑布曰立泉]];
+    - _(4)wong (4)ts(')(u:)n_
+        [[wong4 cyun4 黃泉]],
+        elysiun;
+    - _(2)kau (4)ts(')(u:)n_
+        [[gau2 cyun4 九泉]],
+        hades;
+    - _fo(3) (4)ts(')(u:)n_
+        [[fo3 cyun4 貨泉]],
+        money, cash [[Kangxi: 貨泉卽錢也]];
+    - _(4)ts(')(u:)n l(o\)(6)_
+        [[cyun4 lou6 泉路]]
+        ~~the shades~~;
+    - _(4)lau (4)ts(')(u:)n (5)y(e/)ung (5)l(o\)_
+        [[lau4 cyun4 joeng5 lou5 流泉養老]],
+        to cherish one's old age.
+    ==
+  ====
+C
+  ==
+  - Williams' 井泉: Changed _(2)tsing_ (zing2)
+    to vernacular reading _(2)tseng_ (zeng2).
+  - Williams' 泉路: Not "the shades",
+    which are souls of the dead in Greek mythology,
+    but their abode, i.e. the underworld.
   ==
 $$
 

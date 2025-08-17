@@ -1406,6 +1406,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - {$治ci4, $治zi6}
+      - $泉cyun4
       - {$沮zeoi1, $沮zeoi2, $沮zeoi3}
       - $泲zi2
       - $沾zim1
