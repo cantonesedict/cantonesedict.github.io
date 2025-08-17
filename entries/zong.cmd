@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zong
-* %date-modified --> 2025-07-30
+* %date-modified --> 2025-08-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -599,7 +599,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected missing final stroke of 財.
+  - Fan Wan entry: Fixed missing final stroke in 財.
   ==
 $$
 
@@ -649,7 +649,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected missing final stroke of 財.
+  - Fan Wan entry: Fixed missing final stroke in 財.
   - Williams' "to hide, to secrete": This is a misreading of Kangxi 藏也,
     which should be rendered as a noun, "[that] stored".
   ==

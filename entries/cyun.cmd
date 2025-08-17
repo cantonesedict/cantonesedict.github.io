@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyun
-* %date-modified --> 2025-08-16
+* %date-modified --> 2025-08-17
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -481,7 +481,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected missing stroke in 錯, and corrected malformed 亂.
+  - Fan Wan entry: Fixed missing stroke in 錯, and corrected malformed 亂.
   - Williams' 舛錯: Now more commonly read _(2)ch(')(u:)n ts(')o(3)_ (cyun2 co3).
   - Williams' 舛謬: Better rendered "absurd".
   ==
@@ -803,7 +803,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected missing strokes in 授 and 遞.
+  - Fan Wan entry: Fixed missing strokes in 授 and 遞.
   - Williams' 傳教: Now to proselytise (especially Christianity).
   - Williams' 傳言: Also a rumour.
   - Williams' 傳說: Also a legend, a tale.

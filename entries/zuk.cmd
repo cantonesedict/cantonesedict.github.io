@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zuk
-* %date-modified --> 2025-08-14
+* %date-modified --> 2025-08-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1124,7 +1124,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected missing 灬 in 盡.
+  - Fan Wan entry: Fixed missing 灬 in 盡.
   ==
 P
   ++

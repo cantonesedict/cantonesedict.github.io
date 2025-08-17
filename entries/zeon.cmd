@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2025-08-12
+* %date-modified --> 2025-08-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -151,7 +151,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected missing bottom-left in 高.
+  - Fan Wan entry: Fixed missing bottom-left in 高.
   - Williams' "Budding plants": This is a misreading of Kangxi 象艸木之初生
     as a definition, when it is simply the 《說文》 glyph explanation.
   - Williams' "difficult to proceed": Ideally Williams should have given
