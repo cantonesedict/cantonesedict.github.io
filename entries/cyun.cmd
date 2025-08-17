@@ -757,6 +757,7 @@ $$
 =={.modern}
 - $傳4
 - $全4
+- $存4
 - $拴4
 - $攢4
 - $欑4
@@ -876,6 +877,59 @@ W
 C
   ==
   - Fan Wan entry: Fixed missing stroke in 備.
+  ==
+$$
+
+### 存4 | _(4)Ts(')(u:)n_ [[cyun4]]
+
+$$
+R
+  ⼦ + 3
+U
+  U+5B58
+F
+  ==
+  - [[F2.21 存]] 留也在也
+  ==
+W
+  ====
+  - [[Page~605 (4)存]]
+    ==
+    - To preserve, to defend from injury;
+    - alive, to exist [[Kangxi: 存在也]];
+    - to lay by;
+    - to take care of, as of one's life;
+    - to inquire after [[Kangxi: 恤問也]], as one's health;
+    - to heedfully look after [[Kangxi: 省也]];
+    - _(4)ts(')(u:)n h(a/)(6)_
+        [[cyun4 haa6 存下]]
+        lay this aside;
+    - _(4)ts(')(u:)n (1)sam_
+        [[cyun4 sam1 存心]],
+        ~~to be of the same mind~~;
+    - _(4)ts(')(u:)n (1)f(a/)n yat(7) (2)t(i/)m hau(6) yui(6)_
+        [[cyun4 faan1 jat1 dim2 hau6 jeoi6 存返一點後裔]]
+        there remains one descendant only;
+    - _(4)ts(')(u:)n (4)mong_
+        [[cyun4 mong4 存亡]],
+        to preserve and to ruin;
+        to continue and to lose;
+    - _(i/)(3) (4)ts(')(u:)n_
+        [[ji3 cyun4 意存]],
+        a settled purpose;
+    - _[(4)]ts(')(u:)n (4)lau_
+        [[cyun4 lau4 存留]],
+        to detain, to keep back;
+    - _k(o\)(3) (4)ts(')(u:)n_
+        [[gou3 cyun4 告存]],
+        to inform the emperor of one's health,
+        as old or octogenarian officers should.
+    ==
+  ====
+C
+  ==
+  - Williams' 存心: Not "to be of the same mind", but to keep in the mind.
+  - Williams' 存留: Corrected _(5)ts(')(u:)n_ (cyun5) to _(4)ts(')(u:)n_ (cyun4).
   ==
 $$
 
