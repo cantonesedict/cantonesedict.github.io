@@ -761,6 +761,7 @@ $$
 - $痊4
 - $筌4
 - $詮4
+- $跧4
 - $遄4
 ==
 </nav>
@@ -1006,6 +1007,40 @@ C
   - Williams' "select sayings": This is a direct rendering Kangxi 擇言也,
     but does not sit right, given it is part of the "explain" sense.
   ==
+$$
+
+### 跧4 | _(4)Ts(')(u:)n_ [[cyun4]]
+
+$$
+R
+  ⾜ + 6
+U
+  U+8DE7
+V
+  ==
+  - zaan1 (per 《廣韻》阻頑切 for "prostrate" sense)
+  - zeon1 (per ::《廣韻》[將]倫切:: for "stooped/curled" sense)
+  - zyun1 (per 《廣韻》莊緣切 for "kick", "stooped/curled", and "crawl" senses)
+  ==
+F
+  ==
+  - [[F2.20 跧 _(4)S(u:)n_ (syun4)]] 伏也
+  ==
+W
+  ====
+  - [[Page~605 (4)跧]]
+    ==
+    - Stooping, creeping, bent down [[Kangxi: ::一曰[卑]也絭也::]];
+    - to kick [[Kangxi: 蹴也]];
+    - to go along doubled over [[Kangxi: 跧莊匍匐也]];
+    - ~~decrepit.~~
+    ==
+  ====
+P
+  ++
+  1. Prostrate (Kangxi: 伏也).
+  1. To walk crookedly (Kangxi: 行曲).
+  ++
 $$
 
 ###+ 遄4 | _(4)Ch(')(u:)n_ (cyun4)
