@@ -238,7 +238,6 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - {$儲cou5, $儲cyu4, $儲cyu5}
-      - $儧zaan2
       ==
       </nav>
   //

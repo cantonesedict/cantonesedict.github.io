@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-08-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -45,7 +45,6 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
-- $儧2
 - $儹2
 - $㜺2
 - $寁2
@@ -53,32 +52,11 @@ $$
 - $棧2
 - $琖2
 - $盞2
-- $䟎2
 - $趲2
 - $醆2
 ==
 </nav>
 <## /tone-2-characters ##>
-
-### 儧2 | _(2)Ts(a/)n_ [[zaan2]]
-
-$$.
-R
-  ⼈ + 15
-U
-  U+5127
-F
-  ==
-  - [[F2.69 儹]] 積儹聚也
-  ==
-W
-  ====
-  - [[Page~555 (2)儧]]
-    --
-    [[Alternative form of 儹. **See $儹zaan2 for the canonical entry.**]]
-    --
-  ====
-$$
 
 ###+ 儹2 | _(2)Ts(a/)n_ (zaan2)
 
@@ -89,7 +67,7 @@ U
   U+5139
 A
   ==
-  - $儧2
+  - 儧
   ==
 F
   ==
@@ -302,26 +280,6 @@ E
   ====
 $$
 
-### 䟎2 | _(2)Ts(a/)n_ [[zaan2]]
-
-$$.
-R
-  ⾛ + 15
-U
-  U+47CE
-F
-  ==
-  - [[F2.69 趲]] 催也促也
-  ==
-W
-  ====
-  - [[Page~555 (2)䟎]]
-    --
-    [[Alternative form of 趲. **See $趲zaan2 for the canonical entry.**]]
-    --
-  ====
-$$
-
 ###+ 趲2 | _(2)Ts(a/)n_ (zaan2)
 
 $$
@@ -331,7 +289,7 @@ U
   U+8DB2
 A
   ==
-  - $䟎2
+  - 䟎
   ==
 V
   ==
