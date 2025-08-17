@@ -758,6 +758,7 @@ $$
 - $傳4
 - $全4
 - $拴4
+- $痊4
 - $遄4
 ==
 </nav>
@@ -859,10 +860,11 @@ W
     - _(4)ts(')(u:)n (1)k(a/) l(i/)(6) sz'(6)_
         [[cyun4 gaa1 lei6 si6 全家利事]]
         may your whole family prosper;
-    - _(4)ts(')(u:)n (u:)(6)_
-        [[cyun4 jyu6 全愈]] <## TODO: alternative form of 痊cyun4 ##>
-        entirely well.
+    - [[...]].
     ==
+    --
+    [[Otherwise, an alternative form of 痊 (in 痊癒 spelt 全愈). **See $痊cyun4 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -896,6 +898,44 @@ S
   ==
   - $拴saan1 (TODO)
   ==
+$$
+
+### 痊4 | _(4)Ts(')(u:)n_ [[cyun4]]
+
+$$
+R
+  ⽧ + 6
+U
+  U+75CA
+A
+  ==
+  - $全4 (in 痊癒 spelt 全愈)
+  ==
+V
+  ==
+  - cyun1 (per 《廣韻》此縁切)
+  ==
+F
+  ==
+  - [[F2.20 痊 _(4)S(u:)n_ (syun4)]] 病愈曰痊
+  ==
+W
+  ====
+  - [[Page~604 (4)全; here normalised to 痊]]
+    ==
+    - [[...]];
+    - _(4)ts(')(u:)n (u:)(6)_
+        [[cyun4 jyu6 全愈]]
+        entirely well.
+    ==
+  - [[Page~605 (4)痊]]
+    ==
+    - Cured, healed, convalescent, recovered [[Kangxi: 病瘳也, 病除也]];
+    - _peng(6) (4)ts(')(u:)n_
+        [[beng6 cyun4 病痊]],
+        recovered from illness.
+    ==
+  ====
 $$
 
 ###+ 遄4 | _(4)Ch(')(u:)n_ (cyun4)
