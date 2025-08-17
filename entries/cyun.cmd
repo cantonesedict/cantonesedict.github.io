@@ -750,12 +750,13 @@ C
 $$
 
 
-##{#4 .williams} (4)Ch(')(u:)n [[cyun4 陽平]]
+##{#4 .williams} (4)Ch(')(u:)n (4)Ts(')(u:)n [[cyun4 陽平]]
 
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
 - $傳4
+- $全4
 - $遄4
 ==
 </nav>
@@ -817,6 +818,54 @@ S
   ==
   - $傳zyun3
   - $傳zyun6
+  ==
+$$
+
+### 全4 | _(4)Ts(')(u:)n_ [[cyun4]]
+
+$$
+R
+  ⼊ + 4
+U
+  U+5168
+F
+  ==
+  - [[F2.21 全]] ::完[備]也::
+  ==
+W
+  ====
+  - [[Page~604 (4)全]]
+    ==
+    - Complete, entire, unbroken, perfect [[Kangxi: 完也]];
+    - all, the whole [[Kangxi: 具也]];
+    - to finish, to do all that is required;
+    - _(4)ts(')(u:)n (4)nang_
+        [[cyun4 nang4 全能]],
+        almighty;
+        plenipotentiary, having full powers;
+    - _(4)ts(')(u:)n f(u/)(3) (1)tsing (4)shan_
+        [[cyun4 fu3 zing1 san4 全副精神]],
+        with undivided energies;
+    - _(4)ts(')(u:)n s(a/)i(3)_
+        [[cyun4 saai3 全嗮]]
+        all complete;
+    - _(4)ts(')(u:)n (2)h(o\)_
+        [[cyun4 hou2 全好]],
+        all right;
+    - _(4)ts(')ai (4)ts(')(u:)n_
+        [[cai4 cyun4 齊全]],
+        complete throughout;
+    - _(4)ts(')(u:)n (1)k(a/) l(i/)(6) sz'(6)_
+        [[cyun4 gaa1 lei6 si6 全家利事]]
+        may your whole family prosper;
+    - _(4)ts(')(u:)n (u:)(6)_
+        [[cyun4 jyu6 全愈]] <## TODO: alternative form of 痊cyun4 ##>
+        entirely well.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed missing stroke in 備.
   ==
 $$
 
