@@ -503,6 +503,14 @@ For all radicals, see [Index of characters by radical](./).
       - {$攛cyun2, $攛cyun3}
       ==
       </nav>
+  //
+    , 19
+    ,
+      <nav class="sideways">
+      ==
+      - $攢cyun4
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⼿-characters ##>

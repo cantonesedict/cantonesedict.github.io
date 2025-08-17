@@ -758,6 +758,7 @@ $$
 - $傳4
 - $全4
 - $拴4
+- $攢4
 - $痊4
 - $筌4
 - $詮4
@@ -901,6 +902,54 @@ W
 S
   ==
   - $拴saan1 (TODO)
+  ==
+$$
+
+###+ 攢4 | _(4)Ts(')(u:)n_ (cyun4)
+
+$$
+R
+  ⼿ + 19
+U
+  U+6522
+A
+  ==
+  - 攅
+  - 櫕
+  - 欑
+  ==
+V
+  ==
+  - zaan2 (possibly from Mandarin-matching in 積攢)
+  - zyun6 (per 《廣韻》在玩切 for "gather" sense)
+  ==
+F
+  ==
+  - [[F2.21 攢]] 聚也又攢盒
+  ==
+W
+  ====
+  - [[Page~605 ::(4)[攅]::; here normalised to 攢]]
+    ==
+    - Interchanged with 欑;
+    - to collect, to come together, to assemble [[Kangxi: 族聚也]];
+    - to lay a coffin under a shed, and not bury it [[Kangxi: 不葬而掩其柩曰攢亦作欑]];
+    - poles and thatch to cover a coffin;
+    - _(4)ts(')(u:)n h(o\)p(9)_
+        [[cyun4 hap6-2 攢盒]]
+        a box with partitions, used for sweetmeats[.]
+    ==
+  ====
+C
+  ==
+  - The reading _(4)ts(')(u:)n_ (cyun4) is not unattested;
+    《洪武正韻牋》 has the reading 徂官切, explained 族聚也 etc.
+  - The reading _(2)ts(a/)n_ (zaan2) is used in 積攢 "accumulate/save".
+    Whilst this reading appears in 《集韻》 as 子䍐切,
+    the explanation 折也 is unrelated in meaning.
+    Therefore, I would wager that zaan2
+    is from analogy with the Mandarin reading zǎn in 積攢.
+  - Williams entry: Fixed extra dot at the top-right of the headword 攅.
   ==
 $$
 
