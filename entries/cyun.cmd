@@ -760,6 +760,7 @@ $$
 - $拴4
 - $痊4
 - $筌4
+- $詮4
 - $遄4
 ==
 </nav>
@@ -968,6 +969,42 @@ W
 C
   ==
   - Fan Wan entry: Corrected ⿱⿰共士衣 to 裝.
+  ==
+$$
+
+### 詮4 | _(4)Ts(')(u:)n_ [[cyun4]]
+
+$$
+R
+  ⾔ + 6
+U
+  U+8A6E
+V
+  ==
+  - cyun1 (per 《廣韻》此縁切)
+  ==
+F
+  ==
+  - [[F2.20 詮 _(4)S(u:)n_ (syun4)]] ::懌言也[解喻]也評論事理也::
+  ==
+W
+  ====
+  - [[Page~605 (4)詮]]
+    ==
+    - To explain, to comment on [[Kangxi: 解喩也]];
+    - ~~select sayings;~~
+    - to illustrate, to expound [[Kangxi: 具也 etc.]] ~~books~~;
+    - to discourse upon, to set forth and enforce;
+    - _ch(u:)(3) (4)ts(')(u:)n_
+        [[zyu3 cyun4 註詮]],
+        explained by notes.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected missing stroke in 解, and corrected 愉 to 喻.
+  - Williams' "select sayings": This is a direct rendering Kangxi 擇言也,
+    but does not sit right, given it is part of the "explain" sense.
   ==
 $$
 
