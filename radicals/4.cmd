@@ -508,7 +508,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $攢cyun4
+      - {$攢cyun4, $攢zyun1}
       ==
       </nav>
 ''

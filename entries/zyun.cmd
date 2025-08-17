@@ -50,6 +50,7 @@ $$
 - $塼1
 - $專1
 - $尊1
+- $攢1
 - $朘1
 - $甎1
 - $磚1
@@ -231,6 +232,27 @@ P
 S
   ==
   - $尊zeon1
+  ==
+$$
+
+###+ 攢1 | _(1)Ts(u:)n_ (zyun1)
+
+$$.
+R
+  ⼿ + 19
+U
+  U+6522
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 鑽, and reading variation (for the verb senses). **See $鑽zyun3 for the canonical entry.**
+  ++
+S
+  ==
+  - $攢cyun4
   ==
 $$
 
@@ -760,6 +782,7 @@ U
   U+947D
 A
   ==
+  - $攢1 (for verb senses read zyun1)
   - 鑚
   ==
 V

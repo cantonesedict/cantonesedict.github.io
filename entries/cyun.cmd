@@ -951,6 +951,10 @@ C
     is from analogy with the Mandarin reading zǎn in 積攢.
   - Williams entry: Fixed extra dot at the top-right of the headword 攅.
   ==
+S
+  ==
+  - $攢zyun1
+  ==
 $$
 
 ### 痊4 | _(4)Ts(')(u:)n_ [[cyun4]]
