@@ -1002,7 +1002,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected missing stroke in 解, and corrected 愉 to 喻.
+  - Fan Wan entry: Fixed missing stroke in 解, and corrected 愉 to 喻.
   - Williams' "select sayings": This is a direct rendering Kangxi 擇言也,
     but does not sit right, given it is part of the "explain" sense.
   ==
