@@ -759,6 +759,7 @@ $$
 - $全4
 - $拴4
 - $痊4
+- $筌4
 - $遄4
 ==
 </nav>
@@ -936,6 +937,38 @@ W
         recovered from illness.
     ==
   ====
+$$
+
+### 筌4 | _(4)Ts(')(u:)n_ [[cyun4]]
+
+$$
+R
+  ⽵ + 6
+U
+  U+7B4C
+V
+  ==
+  - cyun1 (per 《廣韻》此縁切)
+  ==
+F
+  ==
+  - [[F2.20 筌 _(4)S(u:)n_ (syun4)]] ::[裝]魚之器::
+  ==
+W
+  ====
+  - [[Page~605 (4)筌]]
+    ==
+    - A crab-trap;
+    - a bamboo trap for fish [[Kangxi: 取魚竹器, 捕魚器今之斗回也]], having a small entrance;
+    - _tak(7) (4)(u:) (4)mong (4)ts(')(u:)n_
+        [[dak1 jyu4 mong4 cyun4 得魚忘筌]]^
+        to get the fish and then forget the trap---ungrateful for benefits.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿱⿰共士衣 to 裝.
+  ==
 $$
 
 ###+ 遄4 | _(4)Ch(')(u:)n_ (cyun4)
