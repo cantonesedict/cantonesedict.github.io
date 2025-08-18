@@ -244,12 +244,13 @@ C
 $$
 
 
-##{#2 .williams} (2)Ch(')(u:)n [[cyun2 陰上]]
+##{#2 .williams} (2)Ch(')(u:)n (2)Ts(')(u:)n [[cyun2 陰上]]
 
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
 - $喘2
+- $忖2
 - $惴2
 - $揣2
 - $攛2
@@ -299,6 +300,30 @@ P
   ++
   1. To speak quietly or subtly (Kangxi: 微言).
   ++
+$$
+
+### 忖2 | _(2)Ts(')(u:)n_ [[cyun2]]
+
+$$
+R
+  ⼼ + 3
+U
+  U+5FD6
+F
+  ==
+  - [[F2.22 忖]] 村上聲思也度也
+  ==
+W
+  ====
+  - [[Page~605 (2)忖]]
+    ==
+    - To consider, to reflect on [[Kangxi: 思也]];
+    - to guess, to surmise [[Kangxi: 度也]];
+    - _(2)ts(')(u:)n tok(9)_
+        [[cyun2 dok6 忖度]]
+        to conjecture, to calculate.
+    ==
+  ====
 $$
 
 ###+ 惴2 | _(2)Ch(')(u:)n_ (cyun2)
