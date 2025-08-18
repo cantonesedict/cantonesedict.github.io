@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyun
-* %date-modified --> 2025-08-17
+* %date-modified --> 2025-08-18
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -766,6 +766,7 @@ $$
 - $筌4
 - $詮4
 - $跧4
+- $蹲4
 - $遄4
 - $銓4
 ==
@@ -1232,6 +1233,50 @@ P
   1. Prostrate (Kangxi: 伏也).
   1. To walk crookedly (Kangxi: 行曲).
   ++
+$$
+
+### 蹲4 | _(4)Ts(')(u:)n_ [[cyun4]]
+
+$$
+R
+  ⾜ + 12
+U
+  U+8E72
+V
+  ==
+  - ceon1 (per 《集韻》七倫切 for "dancing" sense)
+  - cyun2 (per 《集韻》粗本切 for "gather" sense)
+  - deon1 (possibly from Mandarin-matching)
+  - zeon1 (common)
+  ==
+F
+  ==
+  - [[F2.21 蹲]] 踞也坐也又舞貌
+  ==
+W
+  ====
+  - [[Page~605 (4)蹲]]
+    ==
+    - To sit cross-legged;
+    - to sit cuddled up, to sit on the heels [[Kangxi: 踞也]];
+    - ~~to make antics;~~
+    - to sit haughtily;
+    - placed together, as scales of armor [[Kangxi: 聚也]].
+    ==
+  ====
+C
+  ==
+  - Williams' "to make antics": Better rendered "dancing".
+  - Williams' "placed together": Better rendered "gathered".
+  ==
+P
+  ++
+  1. Dancing, moving with regularity (Kangxi: 蹲蹲舞貌, 蹲蹲行有節).
+  ++
+S
+  ==
+  - $蹲deon1 (TODO)
+  ==
 $$
 
 ###+ 遄4 | _(4)Ch(')(u:)n_ (cyun4)
