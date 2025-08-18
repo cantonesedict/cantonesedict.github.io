@@ -373,7 +373,7 @@ W
     ==
     - To caulk;
     - to wedge in, to squeeze in, to force in;
-    - _t(a/) ch(a/)ng(6)_
+    - _(2)t(a/) ch(a/)ng(6)_
         [[daa2 zaang6 打掙]]
         to caulk seams;
     - _ch(a/)ng(6) (4)ng(a/)_
