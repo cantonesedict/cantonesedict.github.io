@@ -110,7 +110,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $鱏cam4
       - $鱘cam4
-      - $鱒cyun5
+      - {$鱒cyun5, $鱒zyun1}
       ==
       </nav>
   //

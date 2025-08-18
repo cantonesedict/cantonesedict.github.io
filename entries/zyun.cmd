@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyun
-* %date-modified --> 2025-08-17
+* %date-modified --> 2025-08-18
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -58,6 +58,7 @@ $$
 - $鐫1
 - $鑽1
 - $鱄1
+- $鱒1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -444,6 +445,27 @@ W
 S
   ==
   - $鱄tyun4 (TODO)
+  ==
+$$
+
+###+ 鱒1 | _(1)Ts(u:)n_ (zyun1)
+
+$$.
+R
+  ⿂ + 12
+U
+  U+9C52
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $鱒cyun5 for the canonical entry.**
+  ++
+S
+  ==
+  - $鱒cyun5
   ==
 $$
 
