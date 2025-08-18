@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-08-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -320,10 +320,6 @@ U
 H
   May appear as either ⿱艹醮 or ⿱艹⿱醀灬 (assumed here),
   depending on the font.
-V
-  ==
-  - jaam5 (vernacular mapping)
-  ==
 F
   ==
   - [[F2.65 ::[蘸]::]] ::以物淬[水]中::
