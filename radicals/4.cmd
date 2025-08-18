@@ -1679,6 +1679,14 @@ For all radicals, see [Index of characters by radical](./).
       - {$爝zoek3, $爝zoek6}
       ==
       </nav>
+  //
+    , 25
+    ,
+      <nav class="sideways">
+      ==
+      - $爨cyun3
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⽕-characters ##>

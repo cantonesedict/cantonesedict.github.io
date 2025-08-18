@@ -568,6 +568,7 @@ $$
 =={.modern}
 - $串3
 - $攛3
+- $爨3
 - $竄3
 - $釧3
 ==
@@ -682,6 +683,67 @@ S
   ==
   - $攛cyun2
   ==
+$$
+
+###+ 爨3 | _Ts(')(u:)n(3)_ (cyun3)
+
+$$
+R
+  ⽕ + 25
+U
+  U+7228
+H
+  May appear with interior of the top-middle component as
+  ⿱一丅 (+25 assumed here), ::⿱一コ:: (+25), or ⿱一口 (+26),
+  depending on the font.
+A
+  ==
+  - 㸑
+  ==
+V
+  ==
+  - cyun1 (alternative per 《集韻》七丸切 for verb sense)
+  ==
+F
+  ==
+  - [[F2.22 㸑 _(2)Ts(')(u:)n_ (cyun2)]] 炊也
+  ==
+W
+  ====
+  - [[Page~605 (2)㸑 _(2)Ts(')(u:)n_ (cyun2); here corrected to _Ts(')(u:)n(3)_ (cyun3) and normalised to 爨]]
+    ==
+    - A furnace or cooking-place [[Kangxi: 竈也 etc.]];
+    - a mess, a table;
+    - to cook [[Kangxi: 炊也]] ~~gently~~;
+    - ~~to steam;~~
+    - _(1)ch(')ui ts(')(u:)n[(3)]_
+        [[ceoi1 cyun3 炊爨]]
+        to cook;
+    - _tsz'(6) (2)k(i/) (1)hoi ts(')(u:)n[(3)]_
+        [[zi6 gei2 hoi1 cyun3 自己開爨]],
+        eats by himself;
+    - _(1)fan ts(')(u:)n[(3)]_
+        [[fan1 cyun3 分爨]],
+        to eat at separate tables;
+    - _(4)t(')ung ts(')(u:)n[(3)]_
+        [[tung4 cyun3 同爨]],
+        at the same table, messmate;
+    - _t(a/)p(8) ts(')(u:)n[(3)]_
+        [[daap3 cyun3 搭爨]],
+        a boarder.
+    ==
+  ====
+C
+  ==
+  - Williams' "to cook gently": Not gently. Specifically, to cook over a fire.
+  ==
+E
+  ====
+  - 【開火爨】 (hoi1 fo2 cyun3):
+    ++
+    1. To put on a fire stove (and, by extension, to cook).
+    ++
+  ====
 $$
 
 ###+ 竄3 | _Ts(')(u:)n(3)_ (cyun3)
