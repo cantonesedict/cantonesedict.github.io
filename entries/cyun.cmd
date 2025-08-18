@@ -25,6 +25,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [cyun2](#2)
 - [cyun3](#3)
 - [cyun4](#4)
+- [cyun5](#5)
 ==
 </nav>
 <## /tones ##>
@@ -1434,4 +1435,57 @@ W
         to select, as proper officers.
     ==
   ====
+$$
+
+
+##{#5 .williams} (5)Ts(')(u:)n [[cyun5 陽上]]
+
+<## tone-5-characters ##>
+<nav class="sideways">
+=={.modern}
+- $鱒5
+==
+</nav>
+<## /tone-5-characters ##>
+
+### 鱒5 | _(5)Ts(')(u:)n_ [[cyun5]]
+
+$$
+R
+  ⿂ + 12
+U
+  U+9C52
+V
+  ==
+  - zyun1 (common)
+  - zyun6 (recast to departing)
+  ==
+F
+  ==
+  - [[F2.22 鱒]] 赤目魚
+  ==
+W
+  ====
+  - [[Page~605 (5)鱒]]
+    ==
+    - A fish like the roach, with small scales [[Kangxi: 鱒似鯶魚而鱗細於鯶赤眼]].
+    ==
+    --
+    In Japan, this character denotes the salmon.
+    --
+  ====
+C
+  ==
+  - Williams' "A fish [...]": Also having red eyes, per 《說文》赤目魚 etc.
+  - Williams' "In Japan, [...] denotes the salmon":
+    I am not knowledgeable enough in either Japanese or biology
+    to say whether this is unreasonable.
+    Note that both ::{lang=ja}鮭:: _sake_ (salmon?)
+    and ::{lang=ja}鱒:: _masu_ (trout?)
+    belong to the Salmonidae family.
+  ==
+P
+  ++
+  1. The trout.
+  ++
 $$
