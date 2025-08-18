@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-08-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -852,6 +852,10 @@ W
         avail of a favorable time.
     ==
   ====
+C
+  ==
+  - Williams' "improve": In the (now) dated sense of employing to good purpose.
+  ==
 $$
 
 ### 趂3 | _Ch(')an(3)_ [[can3]]
