@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2025-08-14
+* %date-modified --> 2025-08-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -265,13 +265,6 @@ W
     [[Alternative form of 草. See $草cou2.]]
     --
   ====
-E
-  ====
-  - 【草花頭】 (cou2 faa1 tau4-2):
-    ++
-    1. The character component 艹. (Literally, "grass flower atop".)
-    ++
-  ====
 $$
 
 ### 草2 | _(2)Ts(')(o\)_ [[cou2]]
@@ -347,6 +340,13 @@ C
   - Williams' 草菅人命: Corrected _(2)k(u/)n_ (gun2) to _(1)k(a/)n_ (gaan1).
     Williams has likely misread 菅 as 管.
   ==
+E
+  ====
+  - 【草花頭】 (cou2 faa1 tau4-2):
+    ++
+    1. The character component 艹. (Literally, "grass flower atop".)
+    ++
+  ====
 $$
 
 
