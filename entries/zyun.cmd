@@ -475,6 +475,7 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $噂2
 - $囀2
 - $纂2
 - $纘2
@@ -482,6 +483,43 @@ $$
 ==
 </nav>
 <## /tone-2-characters ##>
+
+###+ 噂2 | _(2)Ts(u:)n_ (zyun2)
+
+$$
+R
+  ⼝ + 12
+U
+  U+5642
+A
+  ==
+  - 譐
+  ==
+V
+  ==
+  - cyun5 (per Fan Wan)
+  ==
+F
+  ==
+  - [[F2.22 噂 _(5)Ts(')(u:)n_ (cyun5)]] 存上聲噂沓聚語也
+  ==
+W
+  ====
+  - [[Page~605 _(5)Ts(')(u:)n_ (cyun5); here normalised to _(2)Ts(u:)n_ (zyun2)]]
+    ==
+    - Many persons conversing [[Kangxi: 聚語也]] ~~amicably~~;
+    - to talk agreeably to one;
+    - unitedly, as a chorus;
+    - _[(2)ts(u:)n] t(a/)p(9)_
+        [[zyun2 daap6 噂沓]]
+        to flatter and then traduce;
+    - _[(2)ts(u:)n] t(a/)p(9) (4)m(a/)i s(a/)i(3)_
+        [[zyun2 daap6 maai4 saai3 噂沓埋嗮]]
+        lay them all aside; --- a colloquial phrase,
+        in which the word is also pronounced _(2)tsun_ [[zeon2]].
+    ==
+  ====
+$$
 
 ### 囀2 | _(2)Ch(u:)n_ [[zyun2]]
 
