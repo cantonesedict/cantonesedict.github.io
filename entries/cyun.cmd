@@ -793,7 +793,7 @@ E
   ====
   - 【開火爨】 (hoi1 fo2 cyun3):
     ++
-    1. To put on a fire stove (and, by extension, to cook).
+    1. To start a fire stove (and, by extension, to cook).
     ++
   ====
 $$
