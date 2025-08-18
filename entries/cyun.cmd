@@ -568,6 +568,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $串3
+- $寸3
 - $攛3
 - $爨3
 - $竄3
@@ -635,6 +636,62 @@ E
 S
   ==
   - $串gwaan3 (TODO)
+  ==
+$$
+
+### 寸3 | _Ts(')(u:)n(3)_ [[cyun3]]
+
+$$
+R
+  ⼨ + 0
+U
+  U+5BF8
+F
+  ==
+  - [[F2.23 寸]] 分寸
+  ==
+W
+  ====
+  - [[Page~606 寸(3)]]
+    ==
+    - The Chinese inch [[Kangxi: 十分也]], regarded as long as the middle joint of the finger;
+    - the tenth of a foot, and varies according to the _ch(')ek(8)_ [[cek3 尺]] [[Kangxi: 十寸爲一尺]];
+    - a very little;
+    - the 41st~radical [["inch"]];
+    - _ts(')(u:)n(3) (1)sam_ [[cyun3 sam1 寸心]]^
+        or
+      _(1)fong ts(')(u:)n(3)_ [[fong1 cyun3 方寸]]
+        the heart;
+    - _ts(')(u:)n(3) (2)hau_
+        [[cyun3 hau2 寸口]],
+        place of the pulse [[Kangxi: 人手卻一寸動{𧖴=⿺𠂢血}謂之寸口]];
+    - _sik(7) ts(')(u:)n(3) (1)yam_
+        [[sik1 cyun3 jam1 惜寸陰]],
+        improve every moment of time;
+    - _y(e/)uk(9) (5)yau ts(')(u:)n(3) tsun(3)_
+        [[joek6 jau5 cyun3 zeon3 若有寸進]]
+        have got on a little --- a depreciating phrase;
+    - _ts(')(u:)n(3)_ [[cyun3 寸]]^,
+      _(1)kw(a/)n_ [[gwaan1 關]],
+      _ch(')ek(8)_ [[cek3 尺]]
+        are three locations of the pulse;
+    - _tak[(9)] (1)sau ts(')(u:)n(3) tsz'(6)_
+        [[dak6 sau1 cyun3 zi6 特修寸字]]
+        I have written a little note;
+    - _[(2)]lo ch(')ek(8) ts(')(u:)n(3)_
+        [[lo2 cek3 cyun3 攞尺寸]]
+        get its measure.
+    ==
+    --
+    In accounts, often used as a contraction of _s(u:)n(3)_ [[syun3]] 算
+    to reckon.
+    --
+  ====
+C
+  ==
+  - Williams' "improve": In the (now) dated sense of employing to good purpose.
+  - Williams' 特修寸字: Corrected _tak(7)_ (dak1) to _tak(9)_ (dak6).
+  - Williams' 攞尺寸: Corrected _(5)lo_ (lo5) to _(2)lo_ (lo2).
   ==
 $$
 

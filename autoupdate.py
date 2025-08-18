@@ -312,6 +312,7 @@ class Updater:
     def _check_composition_heuristic(entry_cmd_name, cmd_content):
         whitelisted_characters = ''.join([
             '𠂉',
+            '𠂢',
             '𠆢',
             '𠔿',
             '𠫓',
