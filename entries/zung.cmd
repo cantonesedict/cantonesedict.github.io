@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zung
-* %date-modified --> 2025-08-19
+* %date-modified --> 2025-08-20
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $中1
+- $忠1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -147,5 +148,46 @@ E
 S
   ==
   - $中zung3 (TODO)
+  ==
+$$
+
+### 忠1 | _(1)Chung_ [[zung1]]
+
+$$
+R
+  ⼼ + 4
+U
+  U+5FE0
+F
+  ==
+  - [[F1.57 忠]] ::忠臣又盡[己]之謂忠::
+  ==
+W
+  ====
+  - [[Page~39* (1)忠]]
+    ==
+    - Faithful, loyal [[Kangxi: 不貳也]], patriotic;
+    - attached to, sincere [[Kangxi: 內盡其心而不欺也]];
+    - upright [[Kangxi: 直也]];
+    - generous [[Kangxi: 竭誠也]], unselfish [[Kangxi: 無私也]];
+    - _(1)chung (4)shan_
+        [[zung1 san4 忠臣]],
+        a loyal minister;
+    - _(1)chung (1)sam (2)kang (2)kang_
+        [[zung1 sam1 gang2 gang2 忠心耿耿]],
+        faithful and honest;
+    - _(1)chung l(i/)t(9)_
+        [[zung1 lit6 忠烈]]
+        faithful to death;
+    - _(1)chung [(5)]hau_
+        [[zung1 hau5 忠厚]]^
+        honest.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 巳 to 己.
+  - Williams' "attached to": Better rendered "devoted".
+  - Williams' 忠厚: Changed _hau(6)_ (hau6) to common reading _(5)hau_ (hau5).
   ==
 $$
