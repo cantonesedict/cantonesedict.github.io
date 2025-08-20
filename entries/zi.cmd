@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2025-08-17
+* %date-modified --> 2025-08-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -4584,6 +4584,25 @@ C
     whilst women are styled at betrothal
     (whence 待字 "awaiting style-name" for a daughter unbetrothed).
   ==
+E
+  ====
+  - 【字】 (zi6):
+    ++
+    1. A point within an hour, corresponding to
+       one of the markings 1 through 11 on an analogue clock.
+       ==
+       - 五點十個字 (ng5 dim2 sap6 go3 zi6): "Five fifty" (shortenable to 五點十).
+       - 七點三個字 (cat1 dim2 saam1 go3 zi6): "Seven fifteen" (shortenable to 七點三).
+       - 踏四個字 (daap6 sei3 go3 zi6): "Twenty [past]" (shortenable to 踏四).
+       - 踏四個半字 (daap6 sei3 go3 bun3 zi6): "Twenty-two [and a] half [minutes past]" (shortenable to 踏四個半).
+       ==
+    1. A duration of five minutes.
+       ==
+       - 遲四個字 (ci4 sei3 go3 zi6): "Late [by] twenty minutes."
+       - 爭兩個字六點 (zaang1 loeng5 go3 zi6 luk6 dim2): "Ten minutes short of six o'clock."
+       ==
+    ++
+  ====
 $$
 
 ###+ 孳6 | _Tsz'(6)_ (zi6)

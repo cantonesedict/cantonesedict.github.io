@@ -966,6 +966,9 @@ window.onload = applyFilter;
     , [至](/entries/zi#cantonese-至)
   //
     , zi6
+    , [字](/entries/zi#cantonese-字)
+  //
+    , zi6
     , [治](/entries/zi#cantonese-治)
   //
     , zik1
