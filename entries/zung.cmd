@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $中1
 - $忠1
+- $鍾1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -64,7 +65,7 @@ U
   U+4E2D
 A
   ==
-  - 鍾 (in vernacular 中意 spelt 鍾意)
+  - $鍾1 (in vernacular 中意 spelt 鍾意)
   ==
 F
   ==
@@ -190,4 +191,66 @@ C
   - Williams' "attached to": Better rendered "devoted".
   - Williams' 忠厚: Changed _hau(6)_ (hau6) to common reading _(5)hau_ (hau5).
   ==
+$$
+
+### 鍾1 | _(1)Chung_ [[zung1]]
+
+$$
+R
+  ⾦ + 9
+U
+  U+937E
+F
+  ==
+  - [[F1.57 鍾]] 茶鍾酒鍾又聚也又姓
+  ==
+W
+  ====
+  - [[Page~39* (1)鍾]]
+    ==
+    - ~~A measure equal to 4~_tau_ [[dau 斗]];~~
+    - a cup or goblet;
+    - to collect [[Kangxi: 聚也]];
+    - ~~to bestow, to confer;~~
+    - ~~to repeat;~~
+    - ~~heavy;~~
+    - ~~gifted with, endowed;~~
+    - _(2)sho (1)chung oi(3)_
+        [[so2 zung1 oi3 所鍾愛]]
+        whom I love best;
+    - _(1)chung (4)ling_
+        [[zung1 ling4 鍾？]],
+        the luck of a spot for a grave;
+    - _(2)tsau (1)chung_
+        [[zau2 zung1 酒鍾]],
+        a wine-cup.
+    ==
+    --
+    [[Otherwise, an alternative form of 中 (in vernacular 中意 spelt 鍾意). **See $中zung1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Williams' "A measure equal to 4~_tau_":
+    This is a misreading of Kangxi 六斛四斗曰鍾,
+    which puts the measure at 64~_tau_, not 4~_tau_.
+  - Williams' "a cup or goblet":
+    This sense seems to be an alternative form of 盅.
+    This sense is not Kangxi 酒器也 (which is for *storage* of alcohol),
+    even if Williams intended it to be so.
+  - Williams' "to collect": Or, to concentrate.
+  - Williams' "to bestow, to confer": More specifically, that from Heaven.
+  - Williams' "to repeat, heavy": These are renderings of Kangxi 鍾重也.
+    It is unclear whether 重 here is level-tone _(4)ch(')ung_ (cung4) "repeated"
+    or rising-tone _(5)ch(')ung_ (cung5) "heavy",
+    though the latter is slightly more likely due to what follows (染色欲其深重).
+  ==
+P
+  ++
+  1. A vessel for storing alcohol (Kangxi: 酒器也 etc.).
+  1. That bestowed or conferred from Heaven (Kangxi: 天所賦予亦曰鍾).
+  1. A measure (Kangxi: 量名) of either 64~pecks (Kangxi: 六斛四斗曰鍾),
+     80~pecks (Kangxi: 八斛也), or 100~pecks (Kangxi: 鍾十斛).
+  1. A surname (Kangxi: 姓).
+  ++
 $$
