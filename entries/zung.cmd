@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $中1
 - $忠1
+- $盅1
 - $鍾1
 - $鐘1
 ==
@@ -194,6 +195,69 @@ C
   ==
 $$
 
+### 盅1 | _(1)Chung_ [[zung1]]
+
+$$
+R
+  ⽫ + 4
+U
+  U+76C5
+A
+  ==
+  - $鍾1
+  ==
+F
+  ==
+  - [[F1.57 鍾]] 茶鍾酒鍾又聚也又姓
+  ==
+W
+  ====
+  - [[Page~39* (1)鍾; here normalised to 盅]]
+    ==
+    - [[...]];
+    - a cup or goblet;
+    - [[...]];
+    - _(2)tsau (1)chung_
+        [[zau2 zung1 酒盅]],
+        a wine-cup.
+    ==
+  - [[Page~39* (1)鐘; here corrected to 鍾 and normalised to 盅]]
+    ==
+    - [[...]];
+    - _kuk(9) (1)chung_
+        [[guk6 zung1 焗盅]],
+        a covered cup for tea;
+    - [[...]];
+    - _yat(7) (1)chung (4)ch(')(a/)_
+        [[jat1 zung1 caa4 一盅茶]],
+        a cup of tea;
+    - [[...]].
+    ==
+  - [[Page~39* (1)盅]]
+    ==
+    - A cup, [[...]], generally small and covered;
+    <## - [[...]] a hollow vessel [[...]]; ##>
+    - _(4)ngau (4)yau (1)chung_
+        [[ngau4 jau4 zung1 牛油盅]],
+        a butter-cup;
+    - _(4)ch(')(a/) (1)chung_
+        [[caa4 zung1 茶盅]],
+        a tea-cup and cover;
+    - _kat(7) (4)sh(i/) (1)chung_
+        [[gat1 si4 zung1 吉時盅]],
+        a custard-cup.
+    ==
+  ====
+C
+  ==
+  - Williams' 吉時盅: Custard is now 吉士 (gat1 si6-2) rather than 吉時 (gat1 si4).
+  ==
+S
+  ==
+  - $盅cung1 (TODO)
+  ==
+$$
+
 ### 鍾1 | _(1)Chung_ [[zung1]]
 
 $$
@@ -210,7 +274,7 @@ W
   - [[Page~39* (1)鍾]]
     ==
     - ~~A measure equal to 4~_tau_ [[dau 斗]];~~
-    - a cup or goblet;
+    - [[...]];
     - to collect [[Kangxi: 聚也]];
     - ~~to bestow, to confer;~~
     - ~~to repeat;~~
@@ -222,12 +286,13 @@ W
     - _(1)chung (4)ling_
         [[zung1 ling4 鍾？]],
         the luck of a spot for a grave;
-    - _(2)tsau (1)chung_
-        [[zau2 zung1 酒鍾]],
-        a wine-cup.
+    - [[...]].
     ==
     --
     [[Otherwise, an alternative form of 鐘 (for the "bell" sense). **See $鐘zung1 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 盅. **See $盅zung1 for the canonical entry.**]]
     --
     --
     [[Otherwise, an alternative form of 中 (in vernacular 中意 spelt 鍾意). **See $中zung1 for the canonical entry.**]]
@@ -238,10 +303,6 @@ C
   - Williams' "A measure equal to 4~_tau_":
     This is a misreading of Kangxi 六斛四斗曰鍾,
     which puts the measure at 64~_tau_, not 4~_tau_.
-  - Williams' "a cup or goblet":
-    This sense seems to be an alternative form of 盅.
-    This sense is not Kangxi 酒器也 (which is for *storage* of alcohol),
-    even if Williams intended it to be so.
   - Williams' "to collect": Or, to concentrate.
   - Williams' "to bestow, to confer": More specifically, that from Heaven.
   - Williams' "to repeat, heavy": These are renderings of Kangxi 鍾重也.
@@ -279,15 +340,11 @@ W
   - [[Page~39* (1)鐘]]
     ==
     - A bell [[Kangxi: 樂鐘也]];
-    - _kuk(9) (1)chung_
-        [[guk6 zung1 焗盅]],
-        a covered cup for tea;
+    - [[...]];
     - _chong(6) (1)chung_
         [[zong6 zung1 撞鐘]]^
         to strike a bell;
-    - _yat(7) (1)chung (4)ch(')(a/)_
-        [[jat1 zung1 caa4 一盅茶]],
-        a cup of tea;
+    - [[...]];
     - _(4)ng(o\) (1)chung_ [[ngou4 zung1 摮鐘]]^
         or
       _(4)i(u/) (1)chung_ [[jiu4 zung1 搖鐘]],
