@@ -52,6 +52,7 @@ $$
 - $中1
 - $忠1
 - $盅1
+- $終1
 - $舂1
 - $鍾1
 - $鐘1
@@ -256,6 +257,64 @@ C
 S
   ==
   - $盅cung1 (TODO)
+  ==
+$$
+
+### 終1 | _(1)Chung_ [[zung1]]
+
+$$
+R
+  ⽷ + 5
+U
+  U+7D42
+F
+  ==
+  - [[F1.57 終]] 末也盡也
+  ==
+W
+  ====
+  - [[Page~39* (1)終]]
+    ==
+    - The end, the termination, a finis [[Kangxi: 極也窮也, 一曰盡也]];
+    - death;
+    - to end, to terminate;
+    - to the last;
+    - to end one's days;
+    - _(1)f(u/)n (2)h(o\) pat(7) (1)chung_
+        [[fun1 hou2 bat1 zung1 歡好不終]]^
+        not again to be on good terms;
+    - _(1)chung (1)s(u:)_
+        [[zung1 seoi1 終須]],
+        must have it, need it;
+    - _(1)chung (1)shan_
+        [[zung1 san1 終身]],
+        all one's life;
+    - _(4)lam (1)chung_
+        [[lam4 zung1 臨終]],
+        near death;
+    - _(1)chung yat(9)_
+        [[zung1 jat6 終日]]
+        the whole day;
+    - _sh(i/)n(6) (1)chung_
+        [[sin6 zung1 善終]]^
+        a happy death;
+    - _(1)chung sing(3) (4)n(a/)n (2)koi_
+        [[zung1 sing3 naan4 goi2 終性難改]],
+        hard to change one's nature;
+    - _(1)chung pat(7) (2)koi k(a/)k(8)_
+        [[zung1 bat1 goi2 gaak3 終不改格]]
+        never reformed;
+    - _(4)ts(')ung yat(7) (4)(i/) (1)chung_
+        [[cung4 jat1 ji4 zung1 從一而終]],
+        firm to one [husband] [[these square brackets appear in the original text]].
+    ==
+  ====
+C
+  ==
+  - Williams' "death": In classical usage, the death of a superior man
+    as opposed to a little man (Kangxi: 君子曰終小人曰死).
+  - Williams' "to the last": That is, the whole.
+  - Williams' 終不改格: Or 終不改革.
   ==
 $$
 

@@ -340,6 +340,7 @@ For all radicals, see [Index of characters by radical](./).
       - $紵cyu5
       - $紮zaat3
       - $組zou2
+      - $終zung1
       ==
       </nav>
   //
