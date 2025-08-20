@@ -1364,6 +1364,7 @@ For all radicals, see [Index of characters by radical](./).
       - $螬cou4
       - {$蟄zat6, $蟄zik6, $蟄zit3}
       - $螿zoeng1
+      - $螽zung1
       ==
       </nav>
   //

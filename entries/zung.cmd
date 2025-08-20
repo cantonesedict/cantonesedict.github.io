@@ -54,6 +54,7 @@ $$
 - $盅1
 - $終1
 - $舂1
+- $螽1
 - $鍾1
 - $鐘1
 ==
@@ -360,6 +361,32 @@ C
   ==
   - Fan Wan entry: Corrected 舂 to 春.
   ==
+$$
+
+### 螽1 | _(1)Chung_ [[zung1]]
+
+$$
+R
+  ⾍ + 11
+U
+  U+87BD
+F
+  ==
+  - [[F1.57 螽]] 螽斯虫名一生九十九子
+  ==
+W
+  ====
+  - [[Page~39* (1)螽]]
+    ==
+    - A longheaded grasshopper;
+    - _(1)chung (1)sz'_
+        [[zung1 si1 螽斯]]
+        a green locust (a _Truxalis_) [[Kangxi: 螽斯蜙蝑也, 蜙蝑長而靑 etc.]];
+    - _(1)chung (1)sz' (2)(i/)n hing(3)_
+        [[zung1 si1 jin2 hing3 螽斯衍慶]]
+        may your children be numerous.
+    ==
+  ====
 $$
 
 ### 鍾1 | _(1)Chung_ [[zung1]]
