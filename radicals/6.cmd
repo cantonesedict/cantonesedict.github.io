@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 6-stroke radicals
-* %date-modified --> 2025-08-17
+* %date-modified --> 2025-08-20
 * %copyright-prior-years --> 2024--
 * %meta-description --> index of characters with 6-stroke radicals
 
@@ -963,6 +963,23 @@ For all radicals, see [Index of characters by radical](./).
 ## ⾅ (mortar)
 
 <## radical-⾅-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 5
+    ,
+      <nav class="sideways">
+      ==
+      - $舂zung1
+      ==
+      </nav>
+''
+||||
 <## /radical-⾅-characters ##>
 
 

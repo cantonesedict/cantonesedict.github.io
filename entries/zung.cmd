@@ -52,6 +52,7 @@ $$
 - $中1
 - $忠1
 - $盅1
+- $舂1
 - $鍾1
 - $鐘1
 ==
@@ -255,6 +256,50 @@ C
 S
   ==
   - $盅cung1 (TODO)
+  ==
+$$
+
+### 舂1 | _(1)Chung_ [[zung1]]
+
+$$
+R
+  ⾅ + 5
+U
+  U+8202
+V
+  ==
+  - sung1 (per 《廣韻》書容切)
+  ==
+F
+  ==
+  - [[F1.57 ::[舂]::]] 擣米也
+  ==
+W
+  ====
+  - [[Page~39* (1)舂]]
+    ==
+    - To beat with a pestle [[Kangxi: 擣粟也]];
+    - to pound firmly;
+    - _(1)chung (5)mai_
+        [[zung1 mai5 舂米]],
+        to hull rice;
+    - _(1)chung (1)wan (1)kai_
+        [[zung1 wan1 gai1 舂瘟雞]],
+        [you act like] [[these square brackets appear in the original text]] a hen in a fit;
+    - _(1)chung (4)ts(')(e/)ung_
+        [[zung1 coeng4 舂牆]],
+        to beat mud walls;
+    - _(1)chung (4)ch(')(a/) (2)tsai mut(9)_
+        [[zung1 caa4 zai2 mut6 舂茶仔末]]
+        to triturate tea to powder for a detergent;
+    - _(1)chung (1)f(u/)i (1)sh(a/)_
+        [[zung1 fui1 saa1 舂灰沙]],
+        to beat chunam.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 舂 to 春.
   ==
 $$
 
