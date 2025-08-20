@@ -52,6 +52,7 @@ $$
 - $中1
 - $忠1
 - $鍾1
+- $鐘1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -226,6 +227,9 @@ W
         a wine-cup.
     ==
     --
+    [[Otherwise, an alternative form of 鐘 (for the "bell" sense). **See $鐘zung1 for the canonical entry.**]]
+    --
+    --
     [[Otherwise, an alternative form of 中 (in vernacular 中意 spelt 鍾意). **See $中zung1 for the canonical entry.**]]
     --
   ====
@@ -253,4 +257,74 @@ P
      80~pecks (Kangxi: 八斛也), or 100~pecks (Kangxi: 鍾十斛).
   1. A surname (Kangxi: 姓).
   ++
+$$
+
+### 鐘1 | _(1)Chung_ [[zung1]]
+
+$$
+R
+  ⾦ + 12
+U
+  U+9418
+A
+  ==
+  - $鍾1 (for "bell" sense)
+  ==
+F
+  ==
+  - [[F1.57 鐘]] 鐘鼓樂器也
+  ==
+W
+  ====
+  - [[Page~39* (1)鐘]]
+    ==
+    - A bell [[Kangxi: 樂鐘也]];
+    - _kuk(9) (1)chung_
+        [[guk6 zung1 焗盅]],
+        a covered cup for tea;
+    - _chong(6) (1)chung_
+        [[zong6 zung1 撞鐘]]^
+        to strike a bell;
+    - _yat(7) (1)chung (4)ch(')(a/)_
+        [[jat1 zung1 caa4 一盅茶]],
+        a cup of tea;
+    - _(4)ng(o\) (1)chung_ [[ngou4 zung1 摮鐘]]^
+        or
+      _(4)i(u/) (1)chung_ [[jiu4 zung1 搖鐘]],
+        ring the bell;
+    - _(4)sh(i/) (4)shan (1)chung_
+        [[si4 san4 zung1 時辰鐘]],
+        a clock;
+    - _(1)chung (1)pi(u/) p(')(o\)(3)_
+        [[zung1 biu1 pou3 鐘錶舖]]
+        a watchmaker's shop.
+    ==
+  ====
+C
+  ==
+  - Williams' 時辰鐘: Now rarely heard.
+  ==
+P
+  ++
+  1. A clock.
+  ++
+E
+  ====
+  - 【鐘】 (zung1):
+    ++
+    1. An hour.
+       ==
+       - 半個鐘 (bun3 go3 zung1): "Half [an] hour."
+       - 一個鐘 (jat1 go3 zung1): "One hour."
+       - 個半鐘 (go3 bun3 zung1): "[An] hour [and a] half."
+       - 三個鐘 (saam1 go3 zung1): "Three hours."
+       ==
+    1. Time.
+       ==
+       - 過咗鐘 (gwo3 zo2 zung1): "[It's] past time."
+       - 夠鐘食晏 (gau3 zung1 sik6 aan3): "It's time [to] eat lunch."
+       - 揼波鐘 (dam1 bo1 zung1): "Stalling for time" (originally in ball games, but now more generally).
+       ==
+    ++
+  ====
 $$

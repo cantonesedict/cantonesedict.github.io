@@ -157,6 +157,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $鐔cam4
       - $鐎ziu1
+      - $鐘zung1
       ==
       </nav>
   //
