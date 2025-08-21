@@ -24,6 +24,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [zung1](#1)
 - [zung2](#2)
 - [zung3](#3)
+- [zung6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -908,5 +909,49 @@ W
     --
     [[Alternative form of 眾. **See $眾zung3 for the canonical entry.**]]
     --
+  ====
+$$
+
+
+##{#6 .williams} Chung(6) [[zung6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $仲6
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 仲6 | _Chung(6)_ [[zung6]]
+
+$$
+R
+  ⼈ + 4
+U
+  U+4EF2
+F
+  ==
+  - [[F1.63 仲]] 伯仲
+  ==
+W
+  ====
+  - [[Page~40* 仲(6)]]
+    ==
+    - The second of three [[Kangxi: 仲中也位在中也]];
+    - the second born of brothers;
+    - inferior;
+    - the second month of a season;
+    - _p(a/)k(8) chung(3)_
+        [[baak3 zung6 伯仲]]
+        two brothers;
+    - _chung(6) (1)ts(')au_
+        [[zung6 cau1 仲秋]],
+        the eighth month;
+    - _chung(6) f(u/)(6)_
+        [[zung6 fu6 仲父]]
+        a father's younger brother [[Kangxi: 父之弟曰仲父]];
+        an old title, like chief advisor.
+    ==
   ====
 $$
