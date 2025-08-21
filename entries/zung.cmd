@@ -155,7 +155,7 @@ E
   --
 S
   ==
-  - $中zung3 (TODO)
+  - $中zung3
   ==
 $$
 
@@ -629,7 +629,7 @@ W
   ====
   - [[Page~39* ::(2)腫~~(2)瘇~~::]]
     ==
-    - To swell up, to tumefy [[Kangxi: 膚肉浮滿也, 脹也]];
+    - To swell up, to tumefy [[Kangxi 腫: 膚肉浮滿也, 脹也]];
     - a swelling;
     - swelled;
     - inflated, ~~boastful~~;
@@ -714,12 +714,75 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $中3
 - $眾3
 - $種3
 - $衆3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 中3 | _Chung(3)_ [[zung3]]
+
+$$
+R
+  ⼁ + 3
+U
+  U+4E2D
+F
+  ==
+  - [[F1.62 中]] 合式曰中
+  ==
+W
+  ====
+  - [[Page~40* 中(3)]]
+    ==
+    - To hit the centre [[Kangxi: 矢至的曰中]];
+    - struck by [[Kangxi: 著其中曰中]];
+    - to attain, to accomplish;
+    - exact [[Kangxi: 合也]];
+    - _chung(3) (5)ngo (1)sam (2)shui_
+        [[zung3 ngo5 sam1 seoi2 中我心水]],
+        exactly as I wish;
+    - _(2)k(u/) chung(3)_
+        [[gu2 zung3 估中]]
+        to guess right;
+    - _chung(3) (2)tsau_
+        [[zung3 zau2 中酒]],
+        to get drunk;
+    - _chung(3) pat(7) tak(7)_
+        [[zung3 bat1 dak1 中不得]]
+        can not reach, unattainable;
+    - _chung(3) chong(6) (4)(u:)n_
+        [[zung3 zong6 jyun4 中狀元]],
+        to reach the head of the H(a/)nlin [[翰林]];
+    - _chung(3) kai(3)_
+        [[zung3 gai3 中計]]
+        I'm found out, I'm entrapped;
+    - _chung(3) (2)k(u:) (4)jan_
+        [[zung3 geoi2 jan4 中舉人]],
+        to become a k(u:)jin [[舉人]];
+    - _chung(3) ok(8)_
+        [[zung3 ok3 中惡]]
+        it makes me vomit;
+    - _chung(3) (1)fung_
+        [[zung3 fung1 中風]]^
+        taken in a fit, as of apoplexy.
+    ==
+  ====
+C
+  ==
+  - Williams' 中惡: Also to die suddenly.
+  ==
+P
+  ++
+  1. Important (Kangxi: 要也).
+  ++
+S
+  ==
+  - $中zung1
+  ==
+$$
 
 ###+ 眾3 | _Chung(3)_ (zung3)
 
