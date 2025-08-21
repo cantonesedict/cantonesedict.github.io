@@ -919,6 +919,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $仲6
+- $重6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -953,5 +954,112 @@ W
         a father's younger brother [[Kangxi: 父之弟曰仲父]];
         an old title, like chief advisor.
     ==
+    --
+    [[Otherwise, an alternative form of 重 (for the Cantonese "still" and "and also" senses). **See $重zung6 for the canonical entry.**]]
+    --
   ====
+$$
+
+### 重6 | _Chung(6)_ [[zung6]]
+
+$$
+R
+  ⾥ + 2
+U
+  U+91CD
+A
+  ==
+  - $仲6 (for Cantonese "still" and "and also" senses)
+  ==
+F
+  ==
+  - [[F1.63 重]] 厚也又愼重輕重
+  ==
+W
+  ====
+  - [[Page~40* 重(6)]]
+    ==
+    - [[...]];
+    - momentous [[Kangxi: ::毛氏曰[...]因其可重而重之與再重鄭重皆去聲::]];
+    - severe, heinous;
+    - decorous, grave;
+    - to regard, to give importance to [[Kangxi: 尊也, 尚也]];
+    - a sign of the comparative;
+    - [[...]]^
+    - _chung(6) (2)h(o\)_
+        [[zung6 hou2 重好]],
+        still better;
+    - _shan(6) chung(6)_
+        [[san6 zung6 慎重]]
+        ~~correct, well principled~~;
+    - _tsz'(6) chung(6)_
+        [[zi6 zung6 自重]]
+        self-respect;
+    - [[...]];
+    - _chung(6) f(u/)(3) (1)h(i/) (4)p(')an_
+        [[zung6 fu3 hei1 pan4 重富欺貧]],
+        to court the rich and despise the poor.
+    ==
+  ====
+C
+  ==
+  - Williams (following Fan Wan) does not provide separate entries
+    for rising-tone _(5)ch(')ung_ (cung5)
+    and departing-tone _chung(6)_ (zung6)^,
+    whose distinction is still well preserved in modern Cantonese.
+  - I have split things up accordingly, noting that the
+    "severe, heinous" sense is able to fit both readings
+    (and, in particular, is departing in 嚴重).
+  - Kangxi has commentary claiming that
+    the rising and departing readings were anciently interchangeable,
+    and that maintaining a distinction between them
+    is 拘泥之過 an "erroneous clinging" on the part of Sung Dynasty scholars:
+    """"
+    按說文柱用切厚也卽與輕重義同\
+    集韻柱勇切愼也卽與鄭重義同\
+    上去雖有二音{𠀤=⿱夶一}無二義\
+    古人三聲通用\
+    必謂上去異訓不可通押此宋人拘泥之過也
+    """"
+    However, both Zhengzhang and Baxter--Sagart
+    reconstruct *three* readings for 重 in Old Chinese,
+    corresponding to Middle Chinese level, rising, and departing.
+  - Williams' 慎重: Better rendered "prudent" or "careful".
+  ==
+P
+  ++
+  1. Further (Kangxi: 更爲也, 重再也).
+  ++
+E
+  ====
+  - 【重】 (zung6):
+    ++
+    1. Even more, still.
+       ==
+       - 重高過我 (zung6 gou1 gwo3 ngo5): "Even taller than me."
+       - 噉重危險 (gam2 zung6 ngai4 him2): "This [is] even more dangerous."
+       - 噉重污糟 (gam2 zung6 wu1 zou1): "This [is] even dirtier."
+       - 比佢重平 (bei2 keoi5 zung6 peng4): "Cheaper still, compared to that."
+       ==
+    1. Yet, still.
+       ==
+       - 重嚟 (zung6 lai4): "Still coming [at me]?"
+       - 重污糟 (zung6 wu1 zou1): "Still dirty."
+       - 重未到 (zung6 mei6 dou3): "Still yet to arrive."
+       - 重有飯 (zung6 jau5 faan6): "There's still rice."
+       ==
+    1. And also, as well.
+       ==
+       - 重有甜品送 (zung6 jau5 tim4 ban2 sung3): "And also there's dessert given for free."
+       ==
+    ++
+  ====
+  --
+  All these senses of 重 are commonly spelt $仲6.
+  --
+S
+  ==
+  - $重cung4 (TODO)
+  - $重cung5
+  ==
 $$

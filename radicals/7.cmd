@@ -1237,4 +1237,21 @@ For all radicals, see [Index of characters by radical](./).
 ## ⾥ (village)
 
 <## radical-⾥-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 2
+    ,
+      <nav class="sideways">
+      ==
+      - {$重cung5, $重zung6}
+      ==
+      </nav>
+''
+||||
 <## /radical-⾥-characters ##>
