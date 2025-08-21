@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zung
-* %date-modified --> 2025-08-20
+* %date-modified --> 2025-08-21
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zung1](#1)
+- [zung2](#2)
 ==
 </nav>
 <## /tones ##>
@@ -515,4 +516,60 @@ E
        ==
     ++
   ====
+$$
+
+
+##{#2 .williams} (2)Chung [[zung2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $腫2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 腫2 | _(2)Chung_ [[zung2]]
+
+$$
+R
+  ⾁ + 9
+U
+  U+816B
+F
+  ==
+  - [[F1.61 腫]] 脹也
+  - [[F1.61 瘇]] 同上
+  ==
+W
+  ====
+  - [[Page~39* ::(2)腫~~(2)瘇~~::]]
+    ==
+    - To swell up, to tumefy [[Kangxi: 膚肉浮滿也, 脹也]];
+    - a swelling;
+    - swelled;
+    - inflated, ~~boastful~~;
+    - _(2)chung ch(e/)ung(3)_
+        [[zung2 zoeng3 腫脹]]
+        to swell;
+    - _(4)wong (2)chung_
+        [[wong4 zung2 黃腫]],
+        puffed, dropsical;
+    - _(4)fau (2)chung_
+        [[fau4 zung2 浮腫]],
+        a dropsical swelling;
+    - _(2)chung (1)sh(e/)ung_
+        [[zung2 soeng1 腫傷]],
+        a bruise or wound.
+    ==
+  ====
+C
+  ==
+  - Williams (following Fan Wan) erroneously has 瘇 as an alternative form of 腫
+    (rather than of 尰, "leg-swelling").
+  ==
+P
+  ++
+  1. An ulcer or boil (Kangxi: 癰也, 疾也).
+  ++
 $$
