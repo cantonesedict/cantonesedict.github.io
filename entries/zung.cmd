@@ -525,6 +525,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $尰2
+- $種2
 - $腫2
 - $踵2
 ==
@@ -561,6 +562,54 @@ P
   ++
   1. Swelling of the legs (Kangxi: 脛氣腫).
   ++
+$$
+
+### 種2 | _(2)Chung_ [[zung2]]
+
+$$
+R
+  ⽲ + 9
+U
+  U+7A2E
+F
+  ==
+  - [[F1.61 種]] 種蒔
+  ==
+W
+  ====
+  - [[Page~39* (2)種]]
+    ==
+    - A seed, a kernel [[Kangxi: 穀種也]];
+    - a sort, a class, a kind [[Kangxi: 種類]];
+    - that which sprouts;
+    - _(2)chung (2)chung sz'(6) (4)ts(')ing_
+        [[zung2 zung2 si6 cing4 種種事情]],
+        every kind of affair;
+    - _ts(a/)p(9) (2)chung_
+        [[zaap6 zung2 雜種]],
+        mixed, illegitimate;
+    - _(4)wai (2)chung_
+        [[wai4 zung2 遺種]],
+        to leave issue;
+    - _(2)chung lui(6)_
+        [[zung2 leoi6 種類]]
+        a sort, a race;
+    - _(2)t(a/) (2)chung_
+        [[daa2 zung2 打種]],
+        to beget;
+    - _(4)ch(')(u:)n (2)chung_
+        [[cyun4 zung2 傳種]],
+        to propagate or raise elsewhere.
+    ==
+  ====
+P
+  ++
+  1. Guts, determination.
+  ++
+S
+  ==
+  - $種zung3 (TODO)
+  ==
 $$
 
 ### 腫2 | _(2)Chung_ [[zung2]]
