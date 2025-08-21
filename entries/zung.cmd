@@ -526,6 +526,7 @@ $$
 =={.modern}
 - $尰2
 - $腫2
+- $踵2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -604,5 +605,55 @@ C
 P
   ++
   1. An ulcer or boil (Kangxi: 癰也, 疾也).
+  ++
+$$
+
+### 踵2 | _(2)Chung_ [[zung2]]
+
+$$
+R
+  ⾜ + 9
+U
+  U+8E35
+V
+  ==
+  - dung2 (common)
+  ==
+F
+  ==
+  - [[F1.61 踵]] ::足跟又繼也[躡]也::
+  ==
+W
+  ====
+  - [[Page~39* (2)踵]]
+    ==
+    - The heel [[Kangxi: 足後]];
+    - to follow one, to imitate [[Kangxi: 因也]], to go after one [[Kangxi: 追也]];
+    - to visit [[Kangxi: 踵至也]];
+    - ~~to tread hard;~~
+    - ~~to connect;~~
+    - _ts(i/)p[(8)] (2)chung_
+        [[zip3 zung2 接踵]],
+        uninterruptedly;
+    - _(2)chung (4)m(u/)n_
+        [[zung2 mun4 踵門]],
+        to enter the door;
+    - _(2)chung kwai(3) kwok(8)_
+        [[zung2 gwai3 gwok3 踵貴國]]
+        to come to your country;
+    - _(2)chung (2)f(u/)_
+        [[zung2 fu2 貴府]],
+        to visit your house.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿰⿱口土聶 to 躡.
+  - Williams' 接踵: Corrected _ts(i/)p(9)_ (zip6) to _ts(i/)p(8)_ (zip3).
+  ==
+P
+  ++
+  1. To continue, to succeed (Kangxi: 繼也).
+  1. Repeatedly, frequently (Kangxi: 頻也).
   ++
 $$
