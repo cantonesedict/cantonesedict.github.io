@@ -57,6 +57,7 @@ class Updater:
         Updater._check_title(entry_cmd_name, old_cmd_content)
         Updater._check_williams_locator_heuristic(entry_cmd_name, old_cmd_content)
         Updater._check_ellipsis_item_punctuation(entry_cmd_name, old_cmd_content)
+        Updater._check_cjk_normalisation(entry_cmd_name, old_cmd_content)
         Updater._check_typography_heuristic(entry_cmd_name, old_cmd_content)
         Updater._check_post_tone_commas_heuristic(entry_cmd_name, old_cmd_content)
         Updater._check_williams_romanisation_heuristic(entry_cmd_name, old_cmd_content)
@@ -134,6 +135,19 @@ class Updater:
             print(
                 f'Error in `{entry_cmd_name}`: ellipsis item without punctuation '
                 f'(suppress error with caret if missing punctuation is legitimate)',
+                file=sys.stderr,
+            )
+            sys.exit(1)
+
+    @staticmethod
+    def _check_cjk_normalisation(entry_cmd_name, cmd_content):
+        variation_selectors_match = re.search(pattern=r'\S*(?P<character>.)[\uFE00-\uFE0F]\S*', string=cmd_content)
+        if variation_selectors_match:
+            variation_selectors_context = variation_selectors_match.group()
+            variation_selectors_character = variation_selectors_match.group('character')
+            print(
+                f'Error in `{entry_cmd_name}`: variation selector present on `{variation_selectors_character}` '
+                f'in `{variation_selectors_context}`',
                 file=sys.stderr,
             )
             sys.exit(1)
