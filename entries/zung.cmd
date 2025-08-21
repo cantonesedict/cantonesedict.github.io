@@ -715,6 +715,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $種3
+- $衆3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -754,4 +755,24 @@ S
   ==
   - $種zung2
   ==
+$$
+
+### 衆3 | _Chung(3)_ [[zung3]]
+
+$$.
+R
+  ⾎ + 6
+U
+  U+8846
+F
+  ==
+  - [[F1.62 衆]] 多也
+  ==
+W
+  ====
+  - [[Page~40* 衆(3)]]
+    --
+    [[Alternative form of 眾. **See $眾zung3 for the canonical entry.**]]
+    --
+  ====
 $$

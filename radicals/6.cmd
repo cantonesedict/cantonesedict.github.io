@@ -1411,6 +1411,23 @@ For all radicals, see [Index of characters by radical](./).
 ## ⾎ (blood)
 
 <## radical-⾎-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 6
+    ,
+      <nav class="sideways">
+      ==
+      - $衆zung3
+      ==
+      </nav>
+''
+||||
 <## /radical-⾎-characters ##>
 
 
