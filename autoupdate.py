@@ -152,6 +152,17 @@ class Updater:
             )
             sys.exit(1)
 
+        compatibility_match = re.search(pattern=r'\S*?(?P<characters>[\uF900-\uFAFF]+)\S*', string=cmd_content)
+        if compatibility_match:
+            compatibility_context = compatibility_match.group()
+            compatibility_characters = compatibility_match.group('characters')
+            print(
+                f'Error in `{entry_cmd_name}`: compatibility ideographs `{compatibility_characters}` '
+                f'present in `{compatibility_context}`',
+                file=sys.stderr,
+            )
+            sys.exit(1)
+
     @staticmethod
     def _check_typography_heuristic(entry_cmd_name, cmd_content):
         bad_quotes_context_match = re.search(pattern=r'\S*[‘’“”]\S*', string=cmd_content)
