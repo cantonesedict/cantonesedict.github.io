@@ -714,11 +714,81 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $眾3
 - $種3
 - $衆3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+###+ 眾3 | _Chung(3)_ (zung3)
+
+$$
+R
+  ⽬ + 6
+U
+  U+773E
+A
+  ==
+  - $衆3
+  ==
+F
+  ==
+  - [[F1.62 衆]] 多也
+  - [[F1.62 众]] 同上
+  ==
+W
+  ====
+  - [[Page~40* 衆(3); here normalised to 眾]]
+    ==
+    - A multitude [[Kangxi: 多也]], a concourse of at least three [[Kangxi: 國語三人爲眾數成於三也]];
+    - ~~a quorum, a majority;~~
+    - a sign of the plural;
+    - ~~they;~~
+    - much people, many, all;
+    - _chung(3) (1)to_
+        [[zung3 do1 眾多]],
+        a great many;
+    - _chung(3) muk(9) (2)sho k(i/)n(3)_
+        [[zung3 muk6 so2 gin3 眾目所見]]
+        every body saw it;
+    - _(2)h(o\) chung(3) t(i/)(6) (1)fong_
+        [[hou2 zung3 dei6 fong1 好眾地方]],
+        a thickly settled place;
+    - _t(a/)i(6) chung(3)_
+        [[daai6 zung3 大眾]]
+        all of you;
+        the company;
+    - _chung(3) (4)yan_
+        [[zung3 jan4 眾人]],
+        all men, mankind;
+    - _yat(7) chung(3) (1)[tsang]_
+        [[jat1 zung3 zang1 一眾僧]],
+        a company of priests;
+    - _yat(7) chung(3)_
+        [[jat1 zung3 一眾]]
+        one bonze;
+    - _chung(3) y(e/)uk(8)_
+        [[zung3 joek3 眾約]]
+        all the neighborhoods;
+    - _chung(3) (5)(i/)_
+        [[zung3 ji5 眾議]],
+        public opinion;
+    - _chung(3) wai(6)_
+        [[zung3 wai6-2 眾位]]
+        all the gentlemen.
+    ==
+  ====
+C
+  ==
+  - Williams' 大眾: Better rendered "the masses".
+  - Williams' 一眾僧: Changed _(1)sang_ (sang1) to common reading _(1)tsang_ (zang1).
+  ==
+P
+  ++
+  1. The masses, the multitude (Kangxi: 寡者爲人上者也眾者爲人下者也).
+  ++
+$$
 
 ### 種3 | _Chung(3)_ [[zung3]]
 
@@ -730,6 +800,7 @@ U
 F
   ==
   - [[F1.62 種]] 栽植
+  - [[F1.62 众]] 同上
   ==
 W
   ====

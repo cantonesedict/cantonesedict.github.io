@@ -570,6 +570,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - {$眥zaai6, $眥zi6}
       - ${𥅾=⿰目庄}zong1
+      - $眾zung3
       ==
       </nav>
   //
