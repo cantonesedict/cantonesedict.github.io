@@ -524,10 +524,43 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $尰2
 - $腫2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+###+ 尰2 | _(2)Chung_ (zung2)
+
+$$
+R
+  ⼪ + 9
+U
+  U+5C30
+A
+  ==
+  - 瘇
+  ==
+V
+  ==
+  - zung6 (per 《廣韻》時宂切)
+  ==
+F
+  ==
+  - [[F1.61 尰]] 足腫
+  ==
+W
+  [[Not present]]
+C
+  ==
+  - The reading _(2)chung_ (zung2) is not unattested;
+    《洪武正韻牋》 has the reading 知隴切 for ⿺尣重, explained 足腫亦作瘇.
+  ==
+P
+  ++
+  1. Swelling of the legs (Kangxi: 脛氣腫).
+  ++
+$$
 
 ### 腫2 | _(2)Chung_ [[zung2]]
 
