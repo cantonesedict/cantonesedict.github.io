@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [zung1](#1)
 - [zung2](#2)
+- [zung3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -608,7 +609,7 @@ P
   ++
 S
   ==
-  - $種zung3 (TODO)
+  - $種zung3
   ==
 $$
 
@@ -705,4 +706,52 @@ P
   1. To continue, to succeed (Kangxi: 繼也).
   1. Repeatedly, frequently (Kangxi: 頻也).
   ++
+$$
+
+
+##{#3 .williams} Chung(3) [[zung3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $種3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 種3 | _Chung(3)_ [[zung3]]
+
+$$
+R
+  ⽲ + 9
+U
+  U+7A2E
+F
+  ==
+  - [[F1.62 種]] 栽植
+  ==
+W
+  ====
+  - [[Page~39* 種(3)]]
+    ==
+    - To plant, to sow [[Kangxi: 布也]], to grow;
+    - to cultivate, to raise;
+    - _chung(3) tau(6)_
+        [[zung3 dau6-2 種痘]]
+        to vaccinate;
+    - _chung(3) chik(9)_
+        [[zung3 zik6 種植]]
+        to plant trees;
+    - _chung(3) ts(')oi(3)_
+        [[zung3 coi3 種菜]]
+        to raise greens;
+    - _chung(3) fuk(7)_
+        [[zung3 fuk1 種福]]
+        to bequeath happiness.
+    ==
+  ====
+S
+  ==
+  - $種zung2
+  ==
 $$
