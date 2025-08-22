@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zung
-* %date-modified --> 2025-08-21
+* %date-modified --> 2025-08-22
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -47,12 +47,13 @@ MP
 $$
 
 
-##{#1 .williams} (1)Chung [[zung1 陰平]]
+##{#1 .williams} (1)Chung (1)Tsung [[zung1 陰平]]
 
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
 - $中1
+- $宗1
 - $忠1
 - $盅1
 - $終1
@@ -158,6 +159,84 @@ S
   ==
   - $中zung3
   ==
+$$
+
+### 宗1 | _(1)Tsung_ [[zung1]]
+
+$$
+R
+  ⼧ + 5
+U
+  U+5B97
+F
+  ==
+  - [[F1.57 宗]] 宗族祖宗又主也本也
+  ==
+W
+  ====
+  - [[Page~606 (1)宗]]
+    ==
+    - An ancestral temple [[Kangxi: 尊祖廟也]];
+    - an ancestral tablet [[Kangxi: 宗者何宗有尊也爲先祖主也宗人之所尊也]];
+    - what is honored [[Kangxi: 謂所尊祭者 etc.]];
+    - to honor, to reverence;
+    - that which men [[or things]] recur or resort to [[Kangxi: 人物所歸往亦曰宗]];
+    - to revert to;
+    - the natural centre, an origin, the source [[Kangxi: 宗者本也]];
+    - a clan, those of the same surname [[Kangxi: 同姓曰宗]];
+    - a sort, a matter, a manner;
+    - _(1)tsung mi(u/)(6)_
+        [[zung1 miu6 宗廟]]
+        an ancestral temple;
+    - _(4)t(')ung (1)tsung_
+        [[tung4 zung1 同宗]]^
+        clansmen;
+    - _(1)t(')(i/)n (1)tsung_
+        [[tin1 zung1 天宗]],
+        heavenly bodies [[Kangxi: 天宗三日月星]];
+    - _t(i/)(6) (1)tsung_
+        [[dei6 zung1 地宗]],
+        rivers, seas[,] and mountains [[Kangxi: 地宗三河海岱]];
+    - _(2)ts(o\) (1)tsung_
+        [[zou2 zung1 祖宗]]^
+        ancestors;
+    - _(1)tsung (4)yan (2)f(u/)_
+        [[zung1 jan4 fu2 宗人府]],
+        the Board of the Imperial Kindred;
+    - _(1)tsung shat(7)_
+        [[zung1 sat1 宗室]]
+        the Imperial Clan;
+    - _(1)tsung (1)ts(')an_
+        [[zung1 can1 宗親]],
+        all the kindred;
+    - _(1)tsung (2)tsz'_
+        [[zung1 zi2 宗子]]
+        the lineal descendant in the eldest son;
+    - _yat(7) (1)tsung (5)m(i/) sz'(6)_
+        [[jat1 zung1 mei5 si6 一宗美事]]
+        a noble act;
+    - _(5)k(')(u:) (1)tsung (2)pan sing(3)_
+        [[keoi5 zung1 ban2 sing3 佢宗品性]]
+        his whole disposition;
+    - _t(a/)i(6) (1)tsung fo(3)_
+        [[daai6 zung1 fo3 大宗貨]]
+        a great lot of goods;
+    - _[(2)]ko (1)tsung sz'(6)_
+        [[go2 zung1 si6 嗰宗事]]
+        that single affair;
+    - _(1)n(i/) (1)tsung_
+        [[ni1 zung1 呢宗]],
+        this thing.
+    ==
+  ====
+C
+  ==
+  - Williams' 嗰宗事: Changed _ko(3)_ (go3) to modern _(2)ko_ (go2).
+  ==
+P
+  ++
+  1. An ancestor.
+  ++
 $$
 
 ### 忠1 | _(1)Chung_ [[zung1]]
