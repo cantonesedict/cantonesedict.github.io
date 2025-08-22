@@ -55,6 +55,7 @@ $$
 - $中1
 - $宗1
 - $忠1
+- $悰1
 - $盅1
 - $終1
 - $舂1
@@ -277,6 +278,34 @@ C
   - Fan Wan entry: Corrected 巳 to 己.
   - Williams' "attached to": Better rendered "devoted".
   - Williams' 忠厚: Changed _hau(6)_ (hau6) to common reading _(5)hau_ (hau5).
+  ==
+$$
+
+### 悰1 | _(1)Tsung_ [[zung1]]
+
+$$.
+R
+  ⼼ + 8
+U
+  U+60B0
+F
+  ==
+  - [[F1.57 悰]] ::情[懷]也::
+  ==
+W
+  ====
+  - [[Page~606 (1)悰]]
+    --
+    [[Reading variation. **See $悰cung4 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿰忄⿳亠罒⿱十衣 to 懷.
+  ==
+S
+  ==
+  - $悰cung4
   ==
 $$
 

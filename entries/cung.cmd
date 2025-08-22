@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cung
-* %date-modified --> 2025-08-21
+* %date-modified --> 2025-08-22
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [cung4](#4)
 - [cung5](#5)
 ==
 </nav>
@@ -40,6 +41,56 @@ WP
 MP
   ==
   - cung = [tsʰoŋ], [tɕʰoŋ] ((preferred))
+  ==
+$$
+
+
+##{#4 .williams} (4)Ts(')ung [[cung4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways">
+=={.modern}
+- $悰4
+==
+</nav>
+<## /tone-4-characters ##>
+
+###+ 悰4 | _(4)Ts(')ung_ (cung4)
+
+$$
+R
+  ⼼ + 8
+U
+  U+60B0
+V
+  ==
+  - zung1 (per Fan Wan)
+  ==
+F
+  ==
+  - [[F1.57 悰 _(1)Tsung_ (zung1)]] ::情[懷]也::
+  ==
+W
+  ====
+  - [[Page~606 (1)悰 _(1)Tsung_ (zung1); here normalised to _(4)Ts(')ung_ (cung4)]]
+    ==
+    - To rejoice;
+    - pleasure, delight [[Kangxi: 樂也]];
+    - ~~to think over, to consider.~~
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿰忄⿳亠罒⿱十衣 to 懷.
+  - Williams' "pleasure, delight": Better rendered "joy".
+  ==
+P
+  ++
+  1. Mood, state of mind (Fan Wan: ::情[懷]也::).
+  ++
+S
+  ==
+  - $悰zung1
   ==
 $$
 
