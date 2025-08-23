@@ -65,6 +65,7 @@ $$
 - $綜1
 - $舂1
 - $螽1
+- $踪1
 - $鍾1
 - $鐘1
 ==
@@ -659,6 +660,31 @@ W
         may your children be numerous.
     ==
   ====
+$$
+
+### 踪1 | _(1)Tsung_ [[zung1]]
+
+$$.
+R
+  ⾜ + 8
+U
+  U+8E2A
+F
+  ==
+  - [[F1.57 踪]] 踪跡
+  - [[F1.57 蹤]] ::同[上]::
+  ==
+W
+  ====
+  - [[Page~606 (1)踪(1)蹤]]
+    --
+    [[Alternative form of 蹤. **See $蹤zung1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 土 to 上.
+  ==
 $$
 
 ### 鍾1 | _(1)Chung_ [[zung1]]
