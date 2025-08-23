@@ -74,6 +74,7 @@ $$
 - $鐘1
 - $騣1
 - $鬃1
+- $鬷1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -1038,6 +1039,39 @@ C
   ==
   - Williams' "high headdress": Better rendered "high topknot".
   ==
+$$
+
+### 鬷1 | _(1)Tsung_ [[zung1]]
+
+$$
+R
+  ⿀ + 9
+U
+  U+9B37
+F
+  ==
+  - [[F1.58 鬷]] 衆也又釜屬
+  ==
+W
+  ====
+  - [[Page~607 (1)鬷]]
+    ==
+    - A kind of boiler [[Kangxi: 釜屬也]];
+    - ~~a run, a hank, as of hempen threads;~~
+    - ~~to count;~~
+    - name of a place [[Kangxi: 地名]].
+    ==
+  ====
+C
+  ==
+  - Williams' "hempen threads": This is a rendering of Kangxi 鬷謂麻縷
+    (which is part of the subcommentary, but not particularly helpful).
+  - Williams' "to count": This is a misreading of Kangxi 鬷數也.
+  ==
+P
+  ++
+  1. To gather (Kangxi: 總也).
+  ++
 $$
 
 
