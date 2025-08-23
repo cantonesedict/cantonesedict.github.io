@@ -71,6 +71,7 @@ $$
 - $蹤1
 - $鍾1
 - $鐘1
+- $鬃1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -924,6 +925,57 @@ E
        ==
     ++
   ====
+$$
+
+### 鬃1 | _(1)Tsung_ [[zung1]]
+
+$$
+R
+  ⾽ + 8
+U
+  U+9B03
+A
+  ==
+  - 騣 (for "mane" sense)
+  ==
+V
+  ==
+  - cong4 (per 《廣韻》士江切 for "high-topknot" sense)
+  - cung4 (per 《廣韻》藏宗切 for "high-topknot" sense)
+  ==
+F
+  ==
+  - [[F1.57 鬃]] 後鬃
+  ==
+W
+  ====
+  - [[Page~607 (1)鬃]]
+    ==
+    - A mane [[Kangxi: 馬鬃也或作騣]];
+    - the ridge of bristles on the neck of hogs;
+    - a high headdress [[Kangxi: 高髻也]];
+    - the back lappet of a Chinese lady's headdress, which extends over the neck;
+    - _(1)ch(u:) (1)tsung (4)m(o\)_
+        [[zyu1 zung1 mou4 豬鬃毛]],
+        hog's bristles;
+    - _(5)m(a/) (1)tsung_
+        [[maa5 zung1 馬鬃]],
+        a horse's mane;
+    - _(5)man (1)tsung_
+        [[man5-2 zung1 抆鬃]],
+        to put up the lappet with gum;
+    - _(2)k(a/) (1)tsung_
+        [[gaa2 zung1 假鬃]],
+        a false lappet, or lady's periwig;
+    - _(1)sho (1)tsung_
+        [[so1 zung1 梳鬃]],
+        to comb back the lappet.
+    ==
+  ====
+C
+  ==
+  - Williams' "high headdress": Better rendered "high topknot".
+  ==
 $$
 
 
