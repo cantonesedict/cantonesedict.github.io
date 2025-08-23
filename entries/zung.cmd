@@ -71,6 +71,7 @@ $$
 - $蹤1
 - $鍾1
 - $鐘1
+- $騣1
 - $鬃1
 ==
 </nav>
@@ -927,6 +928,30 @@ E
   ====
 $$
 
+###+ 騣1 | _(1)Tsung_ (zung1)
+
+$$
+R
+  ⾺ + 9
+U
+  U+9A23
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - Kangxi erroneously has 全騣馬冠也 instead of 金騣馬冠也,
+    and fails to distinguish "horse-helmet" as a separate sense
+    to the "mane" sense.
+  ==
+P
+  ++
+  1. A mane (Kangxi: 馬鬣也). (Alternative form of 鬃 (for the "mane" sense). See $鬃zung1.)
+  1. A horse-helmet (Kangxi: ::[金]騣馬冠也::).
+  ++
+$$
+
 ### 鬃1 | _(1)Tsung_ [[zung1]]
 
 $$
@@ -936,7 +961,7 @@ U
   U+9B03
 A
   ==
-  - 騣 (for "mane" sense)
+  - $騣1 (for "mane" sense)
   ==
 V
   ==
