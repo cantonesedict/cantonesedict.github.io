@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zung
-* %date-modified --> 2025-08-22
+* %date-modified --> 2025-08-23
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -56,6 +56,7 @@ $$
 - $宗1
 - $忠1
 - $悰1
+- $棕1
 - $盅1
 - $終1
 - $舂1
@@ -307,6 +308,47 @@ S
   ==
   - $悰cung4
   ==
+$$
+
+### 棕1 | _(1)Tsung_ [[zung1]]
+
+$$
+R
+  ⽊ + 8
+U
+  U+68D5
+A
+  ==
+  - 椶
+  - 㯶
+  ==
+F
+  ==
+  - [[F1.57 棕]] 木名
+  - [[F1.57 㯶]] 同上
+  ==
+W
+  ====
+  - [[Page~606 (1)棕(1)椶]]
+    ==
+    - A kind of gomuti palm, the _Chamœrops_ [[Kangxi 椶: 栟櫚也 etc.]],
+      whose bracts furnish coir for ropes, mats, &c.;
+    - the coir from the _Borassus gomutus_;
+    - a dark brown color, umber;
+    - _(1)tsung (1)s(e/)ung_
+        [[zung1 soeng1 棕箱]],
+        a coir trunk;
+    - _(1)tsung s(o\)(3)_
+        [[zung1 sou3-2 棕掃]]
+        a coir broom;
+    - _(1)tsung chuk(7)_
+        [[zung1 zuk1 棕竹]]
+        a blackish bamboo, whose roots furnish canes;
+    - _(1)tsung (2)t(i/)n_
+        [[zung1 din6-2 棕墊]],
+        a coir mat.
+    ==
+  ====
 $$
 
 ### 盅1 | _(1)Chung_ [[zung1]]
