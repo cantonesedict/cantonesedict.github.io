@@ -66,6 +66,7 @@ $$
 - $舂1
 - $螽1
 - $踪1
+- $蹤1
 - $鍾1
 - $鐘1
 ==
@@ -680,6 +681,48 @@ W
     --
     [[Alternative form of 蹤. **See $蹤zung1 for the canonical entry.**]]
     --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 土 to 上.
+  ==
+$$
+
+### 蹤1 | _(1)Tsung_ [[zung1]]
+
+$$
+R
+  ⾜ + 11
+U
+  U+8E64
+A
+  ==
+  - $踪1
+  ==
+F
+  ==
+  - [[F1.57 踪]] 踪跡
+  - [[F1.57 蹤]] ::同[上]::
+  ==
+W
+  ====
+  - [[Page~606 (1)踪(1)蹤]]
+    ==
+    - A vestige, a trace, a footstep [[Kangxi 蹤: 跡也, 從也人形從之也]];
+    - to follow in the track of another;
+    - _(1)tsung (2)ying_
+        [[zung1 jing2 蹤影]],
+        a shadow;
+    - _(1)tsung tsik(7)_
+        [[zung1 zik1 蹤跡]]
+        a trace;
+    - _(1)chui (1)tsung_
+        [[zeoi1 zung1 追蹤]],
+        to follow out a clue, on the scent;
+    - _(4)m(o\) (1)tsung_
+        [[mou4 zung1 無蹤]],
+        no trace of him.
+    ==
   ====
 C
   ==
