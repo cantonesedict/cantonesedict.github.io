@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cung
-* %date-modified --> 2025-08-22
+* %date-modified --> 2025-08-23
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -51,6 +51,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $悰4
+- $淙4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -91,6 +92,27 @@ P
 S
   ==
   - $悰zung1
+  ==
+$$
+
+###+ 淙4 | _(4)Ts(')ung_ (cung4)
+
+$$.
+R
+  ⽔ + 8
+U
+  U+6DD9
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation (for the "water-sound" sense). **See $淙zung1 for the canonical entry.**
+  ++
+S
+  ==
+  - $淙zung1
   ==
 $$
 

@@ -58,6 +58,7 @@ $$
 - $悰1
 - $棕1
 - $椶1
+- $淙1
 - $盅1
 - $終1
 - $舂1
@@ -371,6 +372,38 @@ W
     [[Alternative form of 棕. **See $棕zung1 for the canonical entry.**]]
     --
   ====
+$$
+
+### 淙1 | _(1)Tsung_ [[zung1]]
+
+$$
+R
+  ⽔ + 8
+U
+  U+6DD9
+V
+  ==
+  - cong4 (per 《廣韻》士江切 for "water-flow" sense)
+  - cung4 (per 《廣韻》藏宗切 for "water-sound" sense)
+  - song3 (per 《廣韻》色絳切 for "water-emerging" sense)
+  ==
+F
+  ==
+  - [[F1.58 淙]] 水聲
+  ==
+W
+  ====
+  - [[Page~606 (1)淙]]
+    ==
+    - The noise of water [[Kangxi: 水聲也]];
+    - murmuring, flowing water [[Kangxi: 一曰水流貌]];
+    - bubbling as a fountain [[Kangxi: 水出貌]].
+    ==
+  ====
+S
+  ==
+  - $淙cung4
+  ==
 $$
 
 ### 盅1 | _(1)Chung_ [[zung1]]

@@ -1460,6 +1460,7 @@ For all radicals, see [Index of characters by radical](./).
       - {$淺cin2, $淺zin1}
       - $淸cing1
       - $清cing1
+      - {$淙cung4, $淙zung1}
       - {$淨zeng6, $淨zing6}
       - $淄zi1
       - $渚zyu2
