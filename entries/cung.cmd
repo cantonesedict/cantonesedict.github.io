@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [cung1](#1)
 - [cung4](#4)
 - [cung5](#5)
 ==
@@ -41,6 +42,55 @@ WP
 MP
   ==
   - cung = [tsʰoŋ], [tɕʰoŋ] ((preferred))
+  ==
+$$
+
+
+##{#1 .williams} (1)Ts(')ung [[cung1 陰平]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $樅1
+==
+</nav>
+<## /tone-1-characters ##>
+
+###+ 樅1 | _(1)Ts(')ung_ (cung1)
+
+$$
+R
+  ⽊ + 11
+U
+  U+6A05
+V
+  ==
+  - zung1 (alternative per 《廣韻》即容切)
+  ==
+F
+  ==
+  - [[F1.58 樅 _(1)Tsung_ (zung1)]] ::植木以懸[鐘]磬者::
+  ==
+W
+  ====
+  - [[Page~607 (1)樅 _(1)Tsung_ (zung1); here normalised to _(1)Ts(')ung_ (cung1)]]
+    ==
+    - A sort of tall thuja or yew [[Kangxi: 松葉柏身]],
+      which furnishes timber [[Kangxi: 今太廟梁材用此]];
+    - to beat, as a drum [[Kangxi: 撞也]].
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed missing and incomplete strokes in 鐘.
+  ==
+P
+  ++
+  1. Having teeth whereupon bells are hung (Kangxi: 言崇牙之貌樅樅然也).
+  ++
+S
+  ==
+  - $樅zung1
   ==
 $$
 

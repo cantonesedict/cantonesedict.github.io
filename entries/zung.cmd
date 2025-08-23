@@ -59,6 +59,7 @@ $$
 - $悰1
 - $棕1
 - $椶1
+- $樅1
 - $淙1
 - $琮1
 - $盅1
@@ -404,6 +405,38 @@ W
     [[Alternative form of 棕. **See $棕zung1 for the canonical entry.**]]
     --
   ====
+$$
+
+### 樅1 | _(1)Tsung_ [[zung1]]
+
+$$
+R
+  ⽊ + 11
+U
+  U+6A05
+F
+  ==
+  - [[F1.58 樅]] ::植木以懸[鐘]磬者::
+  ==
+W
+  ====
+  - [[Page~607 (1)樅]]
+    --
+    [[Reading variation. **See $樅cung1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed missing and incomplete strokes in 鐘.
+  ==
+P
+  ++
+  1. Used in 樅陽.
+  ++
+S
+  ==
+  - $樅cung1
+  ==
 $$
 
 ### 淙1 | _(1)Tsung_ [[zung1]]
