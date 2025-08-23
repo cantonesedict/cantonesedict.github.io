@@ -67,6 +67,7 @@ $$
 - $縱1
 - $舂1
 - $螽1
+- $豵1
 - $踪1
 - $蹤1
 - $鍾1
@@ -724,6 +725,42 @@ W
         may your children be numerous.
     ==
   ====
+$$
+
+### 豵1 | _(1)Tsung_ [[zung1]]
+
+$$
+R
+  ⾗ + 11
+U
+  U+8C75
+F
+  ==
+  - [[F1.58 豵]] 一歲豕也
+  ==
+W
+  ====
+  - [[Page~607 (1)豵]]
+    ==
+    - A pig six months or a year old [[Kangxi: 生六月豚一曰一歲豵尚叢聚也]];
+    - ~~a pig~~, a shote;
+    - ~~the last of a litter, a litter;~~
+    - ~~_met._ a large family.~~
+    ==
+  ====
+C
+  ==
+  - Williams' "a large family": This is incorrect.
+    Kangxi has 《爾雅釋獸》豕生三豵《註》豬生子常多故別其少者之名,
+    which gives the sense of "sow birthing three", with the commentary saying,
+    "Pig-birthed offspring [are] commonly many: therefore [we] distinguish
+    [the] name of them that [have] few thereof."
+    Based on this, having three piglets is considered few, not many.
+  ==
+P
+  ++
+  1. A sow that has given birth to three (Kangxi: 豕生三豵).
+  ++
 $$
 
 ### 踪1 | _(1)Tsung_ [[zung1]]
