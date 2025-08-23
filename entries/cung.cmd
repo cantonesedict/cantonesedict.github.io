@@ -52,6 +52,7 @@ $$
 =={.modern}
 - $悰4
 - $淙4
+- $琮4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -113,6 +114,35 @@ P
 S
   ==
   - $淙zung1
+  ==
+$$
+
+###+ 琮4 | _(4)Ts(')ung_ (cung4)
+
+$$
+R
+  ⽟ + 8
+U
+  U+742E
+V
+  ==
+  - zung1 (per Fan Wan)
+  ==
+F
+  ==
+  - [[F1.58 琮 _(1)Tsung_ (zung1)]] 瑞玉
+  ==
+W
+  ====
+  - [[Page~606 (1)淙 _(1)Tsung_ (zung1); here normalised to _(4)Ts(')ung_ (cung4)]]
+    ==
+    - An ancient badge ~~of princely dignity~~, eight or nine inches wide,
+      octagonal, and having a hole in it [[Kangxi: 瑞玉大八寸似車釭, 謂其狀外八角而中圓也]].
+    ==
+  ====
+S
+  ==
+  - $琮zung1
   ==
 $$
 
