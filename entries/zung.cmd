@@ -63,6 +63,7 @@ $$
 - $盅1
 - $終1
 - $綜1
+- $縱1
 - $舂1
 - $螽1
 - $踪1
@@ -593,6 +594,43 @@ S
   ==
 $$
 
+### 縱1 | _(1)Tsung_ [[zung1]]
+
+$$
+R
+  ⽷ + 11
+U
+  U+7E31
+A
+  ==
+  - 從
+  ==
+F
+  ==
+  - [[F1.57 縱]] 縱橫
+  ==
+W
+  ====
+  - [[Page~606 (1)縱]]
+    ==
+    - Perpendicularly, downward [[Kangxi: 縱橫也, 或作從]];
+    - a meridian line [[Kangxi: 東西曰衡南北曰從]];
+    - [[...]];
+    - _(1)tsung (4)w(a/)ng_
+        [[zung1 waang4 縱橫]],
+        crosswise, up and across;
+        versatile, pettish, cross-grained.
+    ==
+    --
+    [[Otherwise, an alternative form of 蹤. **See $蹤zung1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $縱zung3 (TODO)
+  ==
+$$
+
 ### 舂1 | _(1)Chung_ [[zung1]]
 
 $$
@@ -697,6 +735,7 @@ U
   U+8E64
 A
   ==
+  - $縱1
   - $踪1
   ==
 F
@@ -722,6 +761,12 @@ W
     - _(4)m(o\) (1)tsung_
         [[mou4 zung1 無蹤]],
         no trace of him.
+    ==
+  - [[Page~606 (1)縱; here normalised to 蹤]]
+    ==
+    - [[...]];
+    - a vestige, a step [[Kangxi 縱: 與蹤通]];
+    - [[...]].
     ==
   ====
 C

@@ -396,6 +396,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $縶zap1
       - $績zik1
+      - $縱zung1
       ==
       </nav>
   //
