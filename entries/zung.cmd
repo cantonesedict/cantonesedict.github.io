@@ -62,6 +62,7 @@ $$
 - $琮1
 - $盅1
 - $終1
+- $綜1
 - $舂1
 - $螽1
 - $鍾1
@@ -552,6 +553,44 @@ C
   ==
 $$
 
+### 綜1 | _(1)Tsung_ [[zung1]]
+
+$$
+R
+  ⽷ + 8
+U
+  U+7D9C
+V
+  ==
+  - zung3 (per 《廣韻》子宋切)
+  ==
+F
+  ==
+  - [[F1.57 綜]] ::理也又[治]也::
+  ==
+W
+  ====
+  - [[Page~606 (1)綜]]
+    ==
+    - [[...]];
+    - to hold the reins of authority [[Fan Wan: ::理也又[治]也::]].
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed missing dot in 治.
+  - Williams' "to hold the reins of authority": That is, to manage or to administer.
+  ==
+P
+  ++
+  1. To gather, synthesise (Kangxi: 綜謂總聚).
+  ++
+S
+  ==
+  - $綜zung3
+  ==
+$$
+
 ### 舂1 | _(1)Chung_ [[zung1]]
 
 $$
@@ -940,7 +979,7 @@ P
 $$
 
 
-##{#3 .williams} Chung(3) [[zung3 陰去]]
+##{#3 .williams} Chung(3) Tsung(3) [[zung3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">
@@ -948,6 +987,7 @@ $$
 - $中3
 - $眾3
 - $種3
+- $綜3
 - $衆3
 ==
 </nav>
@@ -1119,6 +1159,41 @@ W
 S
   ==
   - $種zung2
+  ==
+$$
+
+###+ 綜3 | _Tsung(3)_ (zung3)
+
+$$
+R
+  ⽷ + 8
+U
+  U+7D9C
+F
+  ==
+  - [[F1.62 綜]] 織機綜線
+  ==
+W
+  ====
+  - [[Page~606 (1)綜 _(1)Tsung_ (zung1); here corrected to _Tsung(3)_ (zung3)]]
+    ==
+    - The harness of a loom [[Kangxi: 織縷也 etc.]];
+    - to work the slaie, and arrange the patterns in weaving;
+    - ~~to grasp threads;~~
+    - [[...]].
+    ==
+    --
+    [[Otherwise, a reading variation. **See $綜zung1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Williams' "to grasp threads": This is a poor rendering of Kangxi 持絲交,
+    which is intended as a noun, "[that which] graspeth threads [to] cross".
+  ==
+S
+  ==
+  - $綜zung1
   ==
 $$
 
