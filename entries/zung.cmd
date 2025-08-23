@@ -54,6 +54,7 @@ $$
 =={.modern}
 - $中1
 - $宗1
+- $從1
 - $忠1
 - $悰1
 - $棕1
@@ -246,6 +247,28 @@ P
   ++
   1. An ancestor.
   ++
+$$
+
+###+ 從1 | _(1)Tsung_ (zung1)
+
+$$.
+R
+  ⼻ + 11
+U
+  U+5F9E
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 縱. **See $縱zung1 for the canonical entry.**
+  ++
+S
+  ==
+  - $從cung4 (TODO)
+  - $從sung1 (TODO)
+  ==
 $$
 
 ### 忠1 | _(1)Chung_ [[zung1]]
@@ -603,7 +626,7 @@ U
   U+7E31
 A
   ==
-  - 從
+  - $從1
   ==
 F
   ==
