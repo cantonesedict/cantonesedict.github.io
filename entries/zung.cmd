@@ -1116,6 +1116,7 @@ $$
 - $尰2
 - $種2
 - $粽2
+- $糉2
 - $腫2
 - $踵2
 ==
@@ -1227,6 +1228,31 @@ S
   ==
 $$
 
+### 糉2 | _(2)Tsung_ [[zung2]]
+
+$$.
+R
+  ⽶ + 9
+U
+  U+7CC9
+F
+  ==
+  - [[F1.61 粽]] 角黍也
+  - [[F1.61 糭]] 同上
+  ==
+W
+  ====
+  - [[Page~607 (2)粽(2)糉]]
+    --
+    [[Alternative form of 粽, and reading variation. **See $粽zung3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $糉zung3
+  ==
+$$
+
 ### 腫2 | _(2)Chung_ [[zung2]]
 
 $$
@@ -1332,6 +1358,7 @@ $$
 - $眾3
 - $種3
 - $粽3
+- $糉3
 - $綜3
 - $衆3
 ==
@@ -1516,7 +1543,7 @@ U
   U+7CBD
 A
   ==
-  - 糉
+  - $糉3
   - 糭
   ==
 V
@@ -1556,6 +1583,27 @@ C
 S
   ==
   - $粽zung2
+  ==
+$$
+
+###+ 糉3 | _Tsung(3)_ (zung3)
+
+$$.
+R
+  ⽶ + 9
+U
+  U+7CC9
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 粽. **See $粽zung3 for the canonical entry.**
+  ++
+S
+  ==
+  - $糉zung2
   ==
 $$
 
