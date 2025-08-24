@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zung
-* %date-modified --> 2025-08-23
+* %date-modified --> 2025-08-24
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -1108,13 +1108,14 @@ P
 $$
 
 
-##{#2 .williams} (2)Chung [[zung2 陰上]]
+##{#2 .williams} (2)Chung (2)Tsung [[zung2 陰上]]
 
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
 - $尰2
 - $種2
+- $粽2
 - $腫2
 - $踵2
 ==
@@ -1198,6 +1199,31 @@ P
 S
   ==
   - $種zung3
+  ==
+$$
+
+### 粽2 | _(2)Tsung_ [[zung2]]
+
+$$.
+R
+  ⽶ + 8
+U
+  U+7CBD
+F
+  ==
+  - [[F1.61 粽]] 角黍也
+  - [[F1.61 糭]] 同上
+  ==
+W
+  ====
+  - [[Page~607 (2)粽(2)糉]]
+    --
+    [[Reading variation. **See $粽zung3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $粽zung3
   ==
 $$
 
@@ -1305,6 +1331,7 @@ $$
 - $中3
 - $眾3
 - $種3
+- $粽3
 - $綜3
 - $衆3
 ==
@@ -1477,6 +1504,58 @@ W
 S
   ==
   - $種zung2
+  ==
+$$
+
+###+ 粽3 | _Tsung(3)_ (zung3)
+
+$$
+R
+  ⽶ + 8
+U
+  U+7CBD
+A
+  ==
+  - 糉
+  - 糭
+  ==
+V
+  ==
+  - zung3-2 (vernacular rising-tone noun)
+  ==
+F
+  ==
+  - [[F1.61 粽 _(2)Tsung_ (zung2)]] 角黍也
+  - [[F1.61 糭 _(2)Tsung_ (zung2)]] 同上
+  ==
+W
+  ====
+  - [[Page~607 (2)粽(2)糉 _(2)Tsung_ (zung2); here normalised to _Tsung(3)_ (zung3)]]
+    ==
+    - Dumplings made by boiling glutinous rice first soaked in weak lye,
+      and then wrapped in leaves [[Kangxi 糉: 蘆葉裹米角黍也 etc.]],
+      with a piece of sapan wood in the middle to color it;
+    - they are eaten on the fifth of the fifth month;
+    - _(2)k(a/) (2)tsung_
+        [[gaa2 zung3-2 假粽]],
+        the dumplings not wrapped in leaves;
+    - _(4)h(a/)m yuk(9) (2)tsung_
+        [[haam4 juk6 zung3-2 鹹肉粽]],
+        salt-meat dumplings;
+    - _(2)kau (1)t(a/)m (2)tsung_
+        [[gau2 daam1 zung3-2 狗擔粽]],
+        a dog eating dumplings --- a fool not relishing an allusion.
+    ==
+  ====
+C
+  ==
+  - The original departing reading zung3 is almost never heard,
+    having been supplanted by vernacular rising zung3-2.
+    Note that Fan Wan considers the rising reading to be canonical.
+  ==
+S
+  ==
+  - $粽zung2
   ==
 $$
 
