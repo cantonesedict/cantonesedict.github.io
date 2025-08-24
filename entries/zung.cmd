@@ -1117,6 +1117,7 @@ $$
 - $種2
 - $粽2
 - $糉2
+- $總2
 - $腫2
 - $踵2
 ==
@@ -1251,6 +1252,97 @@ S
   ==
   - $糉zung3
   ==
+$$
+
+### 總2 | _(2)Tsung_ [[zung2]]
+
+$$
+R
+  ⽷ + 11
+U
+  U+7E3D
+H
+  May appear as either ⿰糹⿱囪心 (assumed here) or ⿰糹⿱囱心,
+  depending on the font.
+A
+  ==
+  - 搃
+  ==
+F
+  ==
+  - [[F1.61 總]] 統也括也合也
+  - [[F1.61 搃]] 同上
+  ==
+W
+  ====
+  - [[Page~607 (2)總(2)搃]]
+    ==
+    - To collect and tie up [[Kangxi 總: 聚束也]];
+    - to unite the whole [[Kangxi 總: 合也]];
+    - to combine or comprehend in one;
+    - all, altogether, the whole [[Kangxi 總: 皆也]];
+    - still, nevertheless;
+    - a supervisor, one who controls all;
+    - a general of generic term;
+    - generally;
+    - _(2)tsung kung(6)_ [[zung2 gung6 總共]]
+        or
+      _[(5)]lung (2)tsung_ [[lung5 zung2 攏總]],
+        all, the whole;
+    - _(2)tsung pat(7) (4)nang ying(3) yat(9) (2)tsz'_
+        [[zung2 bat1 nang4 jing3 jat6 zi2 總不能應日子]]
+        he never once came on the promised day;
+    - _(a/)(3) (2)tsung_ [[aa3 zung2 阿總]]^
+        or
+      _(2)tsung (4)t(')au_ [[zung2 tau4-2 總頭]],
+        boss, a head workman;
+    - _(2)tsung kok(8)_
+        [[zung2 gok3 總角]]
+        tufts of hair on young children [[Kangxi 總: 總聚其髮以爲兩角]];
+    - _yat(7) (2)tsung (2)k(i/) (1)to (4)ts(')(i/)n_
+        [[jat1 zung2 gei2 do1 cin4 一總幾多錢]],
+        how many cash for the whole?
+    - _(2)tsung i(u/)(3) h(u:)(3)_
+        [[zung2 jiu3 heoi3 總要去]]
+        still I must go;
+    - _(2)tsung (4)'m (2)hang_
+        [[zung2 m4 hang2 總唔肯]],
+        after all he refused;
+    - _(2)tsung (1)l(a/)i (4)m(a/)i_
+        [[zung2 laai1 maai4 總拉埋]],
+        lump or bring them all together;
+    - _(2)tsung (4)'m (4)t(')ung_
+        [[zung2 m4 tung4 總唔同]]^
+        not all the same;
+    - _(2)tsung (4)ch(')am (1)yam_
+        [[zung2 cam4 jam1 總沉音]],
+        not the least answer;
+    - _(2)tsung tuk(7)_
+        [[zung2 duk1 總督]]
+        a governor-general;
+    - _(2)tsung (1)ping_
+        [[zung2 bing1 總兵]],
+        a major-general;
+    - _(1)ts(')(i/)n (2)tsung_
+        [[cin1 zung2 千總]],
+        a chiliarch, a colonel;
+    - _(2)tsung (2)k(u/)n_
+        [[zung2 gun2 總管]],
+        a general manager or clerk;
+    - _(2)tsung (2)ch(')(e/) k(e/)(3) (4)ngan_
+        [[zung2 ce2 ge3 ngan4 總扯嘅銀]],
+        an average price.
+    ==
+  ====
+C
+  ==
+  - Williams' 攏總: Corrected _(2)lung_ (lung2) to _(5)lung_ (lung5).
+  ==
+P
+  ++
+  1. To lead (Kangxi: 總將領也).
+  1. To tie, to knot (Kangxi: 總結也).
+  ++
 $$
 
 ### 腫2 | _(2)Chung_ [[zung2]]
