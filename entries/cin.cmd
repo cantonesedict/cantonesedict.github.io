@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cin
-* %date-modified --> 2025-08-03
+* %date-modified --> 2025-08-24
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -743,7 +743,7 @@ W
         [[cin4 guk6-2 錢局]]
         a mint;
     - _(2)ch(a/)u (4)ts(')(i/)n_
-        [[zaau2 cin4-2 找錢]],
+        [[zaau2 cin4 找錢]],
         to exchange into cash;
     - _(2)k(i/) (4)ts(')(i/)n [(5)ch(')ung]_
         [[gei2 cin4 cung5 幾錢重]]^
@@ -755,7 +755,7 @@ W
         [[daai6 gong1 cin4 大？錢]],
         large coins of K(a/)ngh(i/) [[康熙]];
     - _l(a/)n(6) (4)ts(')(i/)n_
-        [[laan6 cin4-2 爛錢]],
+        [[laan6 cin4 爛錢]],
         bad cash;
     - _(4)ts(')(i/)n (2)p(a/)n k(o\)m(3) [(5)]hau_
         [[cin4 baan2 gam3 hau5 錢板咁厚]]^

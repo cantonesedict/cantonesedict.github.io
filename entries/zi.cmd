@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2025-08-20
+* %date-modified --> 2025-08-24
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2109,7 +2109,7 @@ W
         a son in mourning;
         a dutiful son;
     - _(2)tsz' [(5)]m(o\) (4)ts(')(i/)n_
-        [[zi2 mou5 cin4-2 子母錢]],
+        [[zi2 mou5 cin4 子母錢]],
         cash marked with blood of mother and child;
     - _(1)s(i/)n (2)tsz'_
         [[sin1 zi2 先子]]

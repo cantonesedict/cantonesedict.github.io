@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaau
-* %date-modified --> 2025-08-14
+* %date-modified --> 2025-08-24
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -234,7 +234,7 @@ W
         [[zaau2 wun6 找換]]
         to change money or for money;
     - _(2)ch(a/)u (4)ts(')(i/)n p(')(o\)(3)_
-        [[zaau2 cin4-2 pou3 找錢舖]]
+        [[zaau2 cin4 pou3 找錢舖]]
         a money-changer's shop.
     ==
     --
