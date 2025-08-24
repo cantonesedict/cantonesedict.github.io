@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2025-08-14
+* %date-modified --> 2025-08-24
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -405,6 +405,9 @@ R
   ⽚ + 11
 U
   U+7255
+H
+  May appear as either ⿰片⿱囪心 or ⿰片⿱囱心 (assumed here),
+  depending on the font.
 F
   ====
   - [[F1.90 窓]] 高曰窓低曰牗
@@ -575,6 +578,9 @@ R
   ⽳ + 11
 U
   U+7ABB
+H
+  May appear as either ⿱穴⿱囪心 or ⿱穴⿱囱心 (assumed here),
+  depending on the font.
 F
   [[Not present]]
 W
