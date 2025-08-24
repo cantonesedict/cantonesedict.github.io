@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caang
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-08-24
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -676,6 +676,11 @@ W
         a melodinus.
     ==
   ====
+C
+  ==
+  - The original level reading caang4 is almost never heard,
+    having been supplanted by vernacular rising caang4-2 in all senses.
+  ==
 P
   ++
   1. The colour orange.
