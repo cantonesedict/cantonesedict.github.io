@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zung
-* %date-modified --> 2025-08-24
+* %date-modified --> 2025-08-25
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -687,7 +687,7 @@ W
   ====
 S
   ==
-  - $縱zung3 (TODO)
+  - $縱zung3
   ==
 $$
 
@@ -1452,6 +1452,7 @@ $$
 - $粽3
 - $糉3
 - $綜3
+- $縱3
 - $衆3
 ==
 </nav>
@@ -1731,6 +1732,67 @@ C
 S
   ==
   - $綜zung1
+  ==
+$$
+
+### 縱3 | _Tsung(3)_ [[zung3]]
+
+$$
+R
+  ⽷ + 11
+U
+  U+7E31
+A
+  ==
+  - 從
+  ==
+F
+  ==
+  - [[F1.62 縱]] 縱肆又故縱
+  ==
+W
+  ====
+  - [[Page~607 縱(3)]]
+    ==
+    - Remiss, careless;
+    - ~~extravagant, as in speech;~~
+    - to allow, to wrongfully permit, to connive at;
+    - to let things take their course;
+    - to indulge in [[Kangxi: 緩也, 恣也放也]];
+    - to let go, as a mouse;
+    - although, allowing, perhaps;
+    - to shoot an arrow [[Kangxi: 發矢曰縱]];
+    - _tsung(3) (4)yung_
+        [[zung3 jung4 縱容]],
+        not to check, unfettered, unrestrained;
+    - _k(u/)(3) tsung(3)_
+        [[gu3 zung3 故縱]]
+        purposely conniving at;
+    - _tsung(3) (4)(i/)n (2)k(o\)m y(e/)ung(6)_
+        [[zung3 jin4 gam2 joeng6-2 縱然噉樣]]
+        although it is so;
+    - _tsung(3) kw(a/)n(3)_
+        [[zung3 gwaan3 縱慣]]
+        overindulgence, as by parents;
+    - _tsung(3) t(a/)i(6) (5)k(')(u:) ko(3) (2)t(a/)m_
+        [[zung3 daai6 keoi5 go3 daam2 縱大佢個膽]],
+        not to restrain.
+    ==
+  ====
+C
+  ==
+  - Williams' "extravagant, as in speech": This is a misreading of Kangxi 縱言汎說事.
+    Here, 汎說事 means "generally speaking of matters."
+  - Williams' "conniving at": In the (now) archaic sense of turning a blind eye.
+  - Williams' "to shoot an arrow": That is, to let it loose.
+  ==
+P
+  ++
+  1. To leap up.
+  ++
+S
+  ==
+  - $縱zung1
   ==
 $$
 
