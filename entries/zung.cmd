@@ -273,6 +273,7 @@ S
   ==
   - $從cung4 (TODO)
   - $從sung1 (TODO)
+  - $從zung3
   ==
 $$
 
@@ -1447,6 +1448,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $中3
+- $從3
 - $眾3
 - $種3
 - $粽3
@@ -1517,6 +1519,29 @@ P
 S
   ==
   - $中zung1
+  ==
+$$
+
+###+ 從3 | _Tsung(3)_ (zung3)
+
+$$.
+R
+  ⼻ + 11
+U
+  U+5F9E
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 縱. **See $縱zung3 for the canonical entry.**
+  ++
+S
+  ==
+  - $從cung4 (TODO)
+  - $從sung1 (TODO)
+  - $從zung1
   ==
 $$
 
@@ -1744,7 +1769,7 @@ U
   U+7E31
 A
   ==
-  - 從
+  - $從3
   ==
 F
   ==
