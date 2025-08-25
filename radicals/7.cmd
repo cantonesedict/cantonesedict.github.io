@@ -204,6 +204,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $誚ciu3
       - $誌zi3
+      - $誦zung6
       ==
       </nav>
   //

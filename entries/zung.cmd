@@ -1874,6 +1874,7 @@ $$
 =={.modern}
 - $仲6
 - $訟6
+- $誦6
 - $重6
 ==
 </nav>
@@ -1922,6 +1923,10 @@ R
   ⾔ + 4
 U
   U+8A1F
+A
+  ==
+  - $誦6 (for "openly" sense)
+  ==
 F
   ==
   - [[F1.63 訟]] 官訟爭辨也又爭財曰訟
@@ -1973,6 +1978,52 @@ P
   ++
   1. To reproach, to reprove (Kangxi: 責也).
   1. Openly (Kangxi: 公也).
+  ++
+$$
+
+### 誦6 | _Tsung(6)_ [[zung6]]
+
+$$
+R
+  ⾔ + 7
+U
+  U+8AA6
+F
+  ==
+  - [[F1.63 誦]] 誦讀
+  ==
+W
+  ====
+  - [[Page~608 誦(6)]]
+    ==
+    - To hum, to recite over, to read in a humming tone [[Kangxi: 諷也, 臨文爲誦, 讀誦也, etc.]], as priests do;
+    - a murmuring, recitative way of reading;
+    - ~~disputing~~, reviling [[Kangxi: 怨謗亦曰誦]];
+    - _p(u/)i[(6)] tsung(6)_
+        [[bui6 zung6 背誦]]
+        to say memoriter;
+    - _tsung(6) (1)king_
+        [[zung6 ging1 誦經]],
+        to recite the liturgy;
+    - _tsung(6) tuk(9)_
+        [[zung6 duk6 誦讀]]
+        to read in a singing way, as children do in school.
+    ==
+    --
+    [[Otherwise, an alternative form of 頌 (for the "laud" sense). **See $頌zung6 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 訟 (for the "openly" sense). **See $訟zung6 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Williams' 背誦: Corrected _p(u/)i(3)_ (bui3) to _p(u/)i(6)_ (bui6).
+  - Williams' 誦經: Especially Buddhist scriptures.
+  ==
+P
+  ++
+  1. To discourse, to speak of (Kangxi: 論也言也 etc.).
   ++
 $$
 
