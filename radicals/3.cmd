@@ -1447,19 +1447,19 @@ For all radicals, see [Index of characters by radical](./).
       ==
       </nav>
   //
+    , 8
+    ,
+      <nav class="sideways">
+      ==
+      - {$從zung1, $從zung3}
+      ==
+      </nav>
+  //
     , 9
     ,
       <nav class="sideways">
       ==
       - $循ceon4
-      ==
-      </nav>
-  //
-    , 11
-    ,
-      <nav class="sideways">
-      ==
-      - {$從zung1, $從zung3}
       ==
       </nav>
   //
