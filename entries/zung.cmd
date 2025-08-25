@@ -1867,12 +1867,13 @@ W
 $$
 
 
-##{#6 .williams} Chung(6) [[zung6 陽去]]
+##{#6 .williams} Chung(6) Tsung(6) [[zung6 陽去]]
 
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
 - $仲6
+- $訟6
 - $重6
 ==
 </nav>
@@ -1912,6 +1913,67 @@ W
     [[Otherwise, an alternative form of 重 (for the Cantonese "still" and "and also" senses). **See $重zung6 for the canonical entry.**]]
     --
   ====
+$$
+
+### 訟6 | _Tsung(6)_ [[zung6]]
+
+$$
+R
+  ⾔ + 4
+U
+  U+8A1F
+F
+  ==
+  - [[F1.63 訟]] 官訟爭辨也又爭財曰訟
+  ==
+W
+  ====
+  - [[Page~607 訟(6)]]
+    ==
+    - To contend before rulers;
+    - to demand justice [[Kangxi: 上書爲人雪冤曰訟]];
+    - litigation, pleadings, contention, wrangling [[Kangxi: 爭也, 爭辯也]],\
+      ---it mostly refers to legal strifes;
+    - law cases;
+    - _tsung(6) (4)ts(')z'_
+        [[zung6 ci4 訟辭]]
+        an indictment;
+    - _(1)[chang] tsung(6)_
+        [[zang1 zung6 爭訟]]
+        disputes;
+    - _[t(')ing](3) tsung(6)_
+        [[ting3 zung6 聽訟]]
+        to hear a case;
+    - _(2)nau tsung(6)_
+        [[nau2 zung6 扭訟]]
+        to grapple a man and carry the dispute into court;
+    - _sik(7) tsung(6)_
+        [[sik1 zung6 息訟]]
+        to settle a dispute, to quash a case;
+    - _(1)k(u/)n tsung(6)_
+        [[gun1 zung6 官訟]]
+        cases in court;
+    - _tsz'(6) tsung(6)_
+        [[zi6 zung6 自訟]]
+        self reproach;
+    - _tsung(6) kwan(3)_
+        [[zung6 gwan3 訟棍]]
+        pettifoggers.
+    ==
+    --
+    [[Otherwise, an alternative form of 頌 (for the "laud" sense). **See $頌zung6 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Williams' 爭訟: Normalised _(1)ch(a/)ng_ (zaang1) to _(1)chang_ (zang1).
+  - Williams' 聽訟: Corrected _t(')eng(3)_ (teng3) to _t(')ing(3)_ (ting3).
+  ==
+P
+  ++
+  1. To reproach, to reprove (Kangxi: 責也).
+  1. Openly (Kangxi: 公也).
+  ++
 $$
 
 ### 重6 | _Chung(6)_ [[zung6]]
