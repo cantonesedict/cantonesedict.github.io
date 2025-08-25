@@ -274,6 +274,7 @@ S
   - $從cung4 (TODO)
   - $從sung1 (TODO)
   - $從zung3
+  - $從zung6
   ==
 $$
 
@@ -1566,6 +1567,7 @@ S
   - $從cung4 (TODO)
   - $從sung1 (TODO)
   - $從zung1
+  - $從zung6
   ==
 $$
 
@@ -1873,6 +1875,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $仲6
+- $從6
 - $訟6
 - $誦6
 - $重6
@@ -1915,6 +1918,55 @@ W
     [[Otherwise, an alternative form of 重 (for the Cantonese "still" and "and also" senses). **See $重zung6 for the canonical entry.**]]
     --
   ====
+$$
+
+### 從6 | _Tsung(6)_ [[zung6]]
+
+$$
+R
+  ⼻ + 8
+U
+  U+5F9E
+F
+  ==
+  - [[F1.63 從]] 隨從首從
+  ==
+W
+  ====
+  - [[Page~608 從(6)]]
+    ==
+    - A clan or family [[Kangxi: 同宗也]], ~~a succession of, as posterity~~;
+    - ~~to be second to, to follow after;~~
+    - ~~attached to;~~
+    - subordinate, secondary in rank;
+    - _(4)ts(')ui tsung(6)_
+        [[ceoi4 zung6 隨從]]
+        an aid or follower;
+    - _tsung(6) (2)kau (2)pan_
+        [[zung6 gau2 ban2 從九品]],
+        secondary ninth grade;
+    - _tsung(6) p(a/)k(8)_
+        [[zung6 baak3 從伯]]
+        uncles descended from the same great-grandfather;
+    - _(2)shau tsung(6)_
+        [[sau2 zung6 首從]]
+        principal and accessories;
+    - _tsung(6) (2)ch(e/)_
+        [[zung6 ze2 從者]],
+        followers.
+    ==
+  ====
+P
+  ++
+  1. A follower.
+  ++
+S
+  ==
+  - $從cung4 (TODO)
+  - $從sung1 (TODO)
+  - $從zung1
+  - $從zung3
+  ==
 $$
 
 ### 訟6 | _Tsung(6)_ [[zung6]]

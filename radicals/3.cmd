@@ -1451,7 +1451,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - {$從zung1, $從zung3}
+      - {$從zung1, $從zung3, $從zung6}
       ==
       </nav>
   //
