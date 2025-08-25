@@ -1876,6 +1876,7 @@ $$
 - $訟6
 - $誦6
 - $重6
+- $頌6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -1988,6 +1989,10 @@ R
   ⾔ + 7
 U
   U+8AA6
+A
+  ==
+  - $頌6
+  ==
 F
   ==
   - [[F1.63 誦]] 誦讀
@@ -2128,5 +2133,50 @@ S
   ==
   - $重cung4 (TODO)
   - $重cung5
+  ==
+$$
+
+### 頌6 | _Tsung(6)_ [[zung6]]
+
+$$
+R
+  ⾴ + 4
+U
+  U+980C
+A
+  ==
+  - $訟6 (for "laud" sense)
+  - $誦6 (for "laud" sense)
+  ==
+F
+  ==
+  - [[F1.63 頌]] 稱頌
+  ==
+W
+  ====
+  - [[Page~608 頌(6)]]
+    ==
+    <## $頌jung4
+    - The face, the visage;
+    - easy;
+    - public, free;
+    ##>
+    - [[...]];
+    - to praise publicly, to make known the virtues of, to eulogize [[Kangxi: 稱述也 etc.]];
+    - _tsung(6) ts(a/)n(3)_
+        [[zung6 zaan3 頌讚]]
+        to laud and praise.
+    ==
+    --
+    [[Otherwise, an alternative form of 誦. **See $誦zung6 for the canonical entry.**]]
+    --
+  ====
+P
+  ++
+  1. A type of ode in the Classic of Poetry.
+  ++
+S
+  ==
+  - $頌jung4 (TODO)
   ==
 $$
