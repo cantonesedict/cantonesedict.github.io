@@ -241,7 +241,7 @@ S
 $$
 
 
-##{#4 .williams} (4)Ts(')ung [[cung4 陽平]]
+##{#4 .williams} (4)Ch(')ung (4)Ts(')ung [[cung4 陽平]]
 
 <## tone-4-characters ##>
 <nav class="sideways">
@@ -249,6 +249,7 @@ $$
 - $悰4
 - $淙4
 - $琮4
+- $种4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -340,6 +341,34 @@ S
   ==
   - $琮zung1
   ==
+$$
+
+###+ 种4 | _(4)Ch(')ung_ (cung4)
+
+$$
+R
+  ⽲ + 4
+U
+  U+79CD
+F
+  ==
+  - [[F1.58 种 _(1)Ch(')ung_ (cung1)]] 稚也又姓
+  ==
+W
+  ====
+  - [[Page~40* (1)种 _(1)Ch(')ung_ (cung1); here corrected to _(4)Ch(')ung_ (cung4)]]
+    ==
+    - Young grain [[Kangxi: 稚也]];
+    - delicate, tender;
+    - _[(4)]ch(')ung ch(i/)(6)_
+        [[cung4 zi6 种稚]]
+        immature, beautiful, as children.
+    ==
+  ====
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 $$
 
 
