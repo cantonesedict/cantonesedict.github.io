@@ -56,6 +56,7 @@ $$
 - $㤝1
 - $樅1
 - $涌1
+- $翀1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -237,6 +238,39 @@ C
 S
   ==
   - $涌jung2 (TODO)
+  ==
+$$
+
+### 翀1 | _(1)Ch(')ung_ [[cung1]]
+
+$$
+R
+  ⽻ + 4
+U
+  U+7FC0
+V
+  ==
+  - cung4 (per 《廣韻》直弓切)
+  ==
+F
+  ==
+  - [[F1.58 翀]] 直飛上也
+  ==
+W
+  ====
+  - [[Page~40* (1)翀]]
+    ==
+    - To fly up [[Kangxi: 直上飛也]];
+    - to ascend to the clouds;
+    - _ch(i/)(3) (2)ho (1)ch(')ung (1)si(u/)_
+        [[zi3 ho2 cung1 siu1 志可翀霄]],
+        aspiring talents.
+    ==
+  ====
+C
+  ==
+  - The reading _(1)ch(')ung_ (cung1) is not unattested;
+    《集韻》 has the reading 敕中切, explained 上飛也.
   ==
 $$
 
