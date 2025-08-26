@@ -297,9 +297,9 @@ W
     - Inner garments [[Kangxi: 裏褻衣也]];
     - the heart;
     - ~~to adjust;~~
-    - sincerity [[Kangxi: 誠也]], rectitude [[Kangxi: 中也]], equity;
+    - sincerity [[Kangxi: 誠也]], rectitude [[Kangxi: 中也]], [[...]];
     - full knowledge of;
-    - just, as a sentence;
+    - [[...]];
     - _pat(7) (1)ch(')ung_
         [[bat1 cung1 不衷]],
         insincere;
@@ -315,7 +315,7 @@ P
 S
   ==
   - $衷zung1
-  - $衷zung3 (TODO)
+  - $衷zung3
   ==
 $$
 

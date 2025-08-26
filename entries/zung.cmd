@@ -777,7 +777,7 @@ P
 S
   ==
   - $衷cung1
-  - $衷zung3 (TODO)
+  - $衷zung3
   ==
 $$
 
@@ -1498,6 +1498,7 @@ $$
 - $綜3
 - $縱3
 - $衆3
+- $衷3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -1509,6 +1510,10 @@ R
   ⼁ + 3
 U
   U+4E2D
+A
+  ==
+  - $衷3 (for "appropriate amount" sense)
+  ==
 F
   ==
   - [[F1.62 中]] 合式曰中
@@ -1883,6 +1888,40 @@ W
     [[Alternative form of 眾. **See $眾zung3 for the canonical entry.**]]
     --
   ====
+$$
+
+###+ 衷3 | _Chung(3)_ (zung3)
+
+$$
+R
+  ⾐ + 4
+U
+  U+8877
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~40* (1)衷 _(1)Ch(')ung_ (cung1); here corrected to _Chung(3)_ (zung3)]]
+    ==
+    - [[...]];
+    - [[...]], equity;
+    - [[...]];
+    - just, as a sentence [[Kangxi: 不輕不重也通作中]];
+    - [[...]].
+    ==
+    --
+    [[Alternative form of 中 (for the "appropriate amount" sense). See $中zung3.]]
+    --
+  ====
+C
+  ==
+  - Williams' "equity": As in compromise (Kangxi: 折衷平也).
+  ==
+S
+  ==
+  - $衷cung1
+  - $衷zung1
+  ==
 $$
 
 

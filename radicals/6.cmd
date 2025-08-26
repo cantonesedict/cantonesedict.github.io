@@ -1474,7 +1474,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $衰ceoi1
-      - {$衷cung1, $衷zung1}
+      - {$衷cung1, $衷zung1, $衷zung3}
       - $衹zi2
       ==
       </nav>
