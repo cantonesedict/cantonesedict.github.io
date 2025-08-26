@@ -314,7 +314,7 @@ P
   ++
 S
   ==
-  - $衷zung1 (TODO)
+  - $衷zung1
   - $衷zung3 (TODO)
   ==
 $$

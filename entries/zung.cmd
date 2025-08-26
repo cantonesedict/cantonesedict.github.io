@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zung
-* %date-modified --> 2025-08-25
+* %date-modified --> 2025-08-26
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -62,6 +62,7 @@ $$
 - $縱1
 - $舂1
 - $螽1
+- $衷1
 - $豵1
 - $踪1
 - $蹤1
@@ -756,6 +757,28 @@ W
         may your children be numerous.
     ==
   ====
+$$
+
+###+ 衷1 | _(1)Chung_ (zung1)
+
+$$.
+R
+  ⾐ + 4
+U
+  U+8877
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $衷cung1 for the canonical entry.**
+  ++
+S
+  ==
+  - $衷cung1
+  - $衷zung3 (TODO)
+  ==
 $$
 
 ### 豵1 | _(1)Tsung_ [[zung1]]
