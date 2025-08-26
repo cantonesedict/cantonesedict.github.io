@@ -85,6 +85,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $忡cung1
       - $忠zung1
       ==
       </nav>

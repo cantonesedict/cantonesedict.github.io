@@ -52,6 +52,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $充1
+- $忡1
 - $㤝1
 - $樅1
 - $涌1
@@ -116,6 +117,31 @@ P
   ++
   1. To feign.
   ++
+$$
+
+### 忡1 | _(1)Ch(')ung_ [[cung1]]
+
+$$
+R
+  ⼼ + 4
+U
+  U+5FE1
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~40* (1)忡]]
+    ==
+    - Sorrowful, grieved [[Kangxi: 憂也]];
+    - _(1)ch(')ung (1)ch(')ung_
+        [[cung1 cung1 忡忡]],
+        distressed in mind.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: The headword 忡 is a misprint of $沖1.
+  ==
 $$
 
 ### 㤝1 | _(1)Ch(')ung_ [[cung1]]
