@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cung
-* %date-modified --> 2025-08-23
+* %date-modified --> 2025-08-26
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -46,15 +46,75 @@ MP
 $$
 
 
-##{#1 .williams} (1)Ts(')ung [[cung1 陰平]]
+##{#1 .williams} (1)Ch(')ung (1)Ts(')ung [[cung1 陰平]]
 
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $充1
 - $樅1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 充1 | _(1)Ch(')ung_ [[cung1]]
+
+$$
+R
+  ⼉ + 4
+U
+  U+5145
+H
+  May appear with 𠫓 having 3~strokes (+3) or 4~strokes (+4 assumed here),
+  depending on the font.
+  The two forms are actually separate characters in Kangxi
+  (p.123#10 and p.124#1 respectively).
+  Kangxi considers the first (𠫓 having 3~strokes) to be orthodox.
+A
+  ==
+  - {𠑽=⿱亠兄}
+  ==
+F
+  ==
+  - [[F1.58 充]] 滿也塞也實也
+  ==
+W
+  ====
+  - [[Page~40* (1)充(1){𠑽=⿱亠兄}]]
+    ==
+    - To fill [[Kangxi 充: 實之也]], to satiate [[Kangxi 充: ::[...]大充[...]過飽也::]], ~~to extend~~;
+    - to carry out, to continue [[Kangxi 充: 行也滿也]];
+    - to act, to fill an office [[Kangxi 充: 充當也]];
+    - to stop up, to stuff [[Kangxi 充: 塞也]];
+    - sufficient [[Kangxi 充: 備也]];
+    - fine [[Kangxi 充: 美也]], ~~long~~, high [[Kangxi 充: 長也高也]];
+    - _(1)ch(')ung (2)k(a/) fo(3)_
+        [[cung1 gaa2 fo3 充假貨]]
+        to foist in a poor quality of goods;
+    - _(1)ch(')ung (5)m(u/)n (4)ch(')(a/) (4)(u/)_
+        [[cung1 mun5 caa4 wu4-2 充滿茶壺]],
+        fill up the tea-pot;
+    - _(2)hau ngoi(6) (1)ch(')ung (1)kwan_
+        [[hau2 ngoi6 cung1 gwan1 口外充軍]],
+        banishment beyond the frontiers;
+    - _(1)ch(')ung shat(9)_
+        [[cung1 sat6 充實]]
+        stuff it solid;
+    - _(1)ch(')ung (u/)i(6)_
+        [[cung1 wui6-2 充會]]
+        to contribute to a society.
+    ==
+  ====
+C
+  ==
+  - Williams' "long": Better rendered "grown".
+  - Williams' 充實: Also "fulfilling" or "rich".
+  ==
+P
+  ++
+  1. To feign.
+  ++
+$$
 
 ###+ 樅1 | _(1)Ts(')ung_ (cung1)
 
