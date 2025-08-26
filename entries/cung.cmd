@@ -52,6 +52,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $充1
+- $㤝1
 - $樅1
 ==
 </nav>
@@ -114,6 +115,30 @@ P
   ++
   1. To feign.
   ++
+$$
+
+### 㤝1 | _(1)Ch(')ung_ [[cung1]]
+
+$$
+R
+  ⼼ + 6
+U
+  U+391D
+H
+  May appear with 𠫓 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
+F
+  ==
+  - [[F1.58 㤝]] 心動貌
+  ==
+W
+  ====
+  - [[Page~40* (1)㤝]]
+    ==
+    - The mind ~~much~~ moved [[Kangxi: 心動也]];
+    - perturbed, agitated.
+    ==
+  ====
 $$
 
 ###+ 樅1 | _(1)Ts(')ung_ (cung1)
