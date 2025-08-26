@@ -54,6 +54,7 @@ $$
 - $充1
 - $㤝1
 - $樅1
+- $涌1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -176,6 +177,40 @@ P
 S
   ==
   - $樅zung1
+  ==
+$$
+
+### 涌1 | _(1)Ch(')ung_ [[cung1]]
+
+$$
+R
+  ⽔ + 7
+U
+  U+6D8C
+F
+  ==
+  - [[F1.58 涌]] ::涌[{𣽸=⿰氵窖}]小海者也::
+  ==
+W
+  ====
+  - [[Page~40* (1)涌]]
+    ==
+    - A creek, a side stream coming into a river;
+    - _(1)ch(')ung k(a/)u(3)_
+        [[cung1 gaau3 涌{𣽸=⿰氵窖}]]
+        a creek [[Fan Wan: ::涌[{𣽸=⿰氵窖}]小海者也::]];
+    - _(5)Lau (1)po (1)ch(')ung_
+        [[lau5 bo1 cung1 柳波涌]],
+        a creek near Kaml(i/)-fau [[金利埠]].
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿰氵⿱㓁舌 to {𣽸=⿰氵窖}.
+  ==
+S
+  ==
+  - $涌jung2 (TODO)
   ==
 $$
 

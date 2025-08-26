@@ -1447,6 +1447,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - {$浸cam1, $浸zam3, $浸zam6}
+      - $涌cung1
       - $浚zeon3
       - $涘zi6
       - $浹zip3
