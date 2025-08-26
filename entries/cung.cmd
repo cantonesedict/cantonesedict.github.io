@@ -57,6 +57,7 @@ $$
 - $樅1
 - $涌1
 - $翀1
+- $衷1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -271,6 +272,50 @@ C
   ==
   - The reading _(1)ch(')ung_ (cung1) is not unattested;
     《集韻》 has the reading 敕中切, explained 上飛也.
+  ==
+$$
+
+### 衷1 | _(1)Ch(')ung_ [[cung1]]
+
+$$
+R
+  ⾐ + 4
+U
+  U+8877
+V
+  ==
+  - zung1 (per 《廣韻》陟弓切)
+  ==
+F
+  ==
+  - [[F1.58 衷]] 心曲也情也
+  ==
+W
+  ====
+  - [[Page~40* (1)衷]]
+    ==
+    - Inner garments [[Kangxi: 裏褻衣也]];
+    - the heart;
+    - ~~to adjust;~~
+    - sincerity [[Kangxi: 誠也]], rectitude [[Kangxi: 中也]], equity;
+    - full knowledge of;
+    - just, as a sentence;
+    - _pat(7) (1)ch(')ung_
+        [[bat1 cung1 不衷]],
+        insincere;
+    - _(1)ch(')ung (4)ch(')(e/)ung_
+        [[cung1 coeng4 衷腸]],
+        the feelings.
+    ==
+  ====
+P
+  ++
+  1. Goodness (Kangxi: 善也).
+  ++
+S
+  ==
+  - $衷zung1 (TODO)
+  - $衷zung3 (TODO)
   ==
 $$
 
