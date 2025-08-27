@@ -52,6 +52,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $充1
+- $冲1
 - $忡1
 - $㤝1
 - $樅1
@@ -121,6 +122,36 @@ P
   ++
   1. To feign.
   ++
+$$
+
+### 冲1 | _(1)Ch(')ung_ [[cung1]]
+
+$$.
+R
+  ⼎ + 4
+U
+  U+51B2
+F
+  ==
+  - [[F1.58 ::[沖]::]] ::和也又[相]沖::
+  - [[F1.58 冲]] 幼小曰冲年又相冲也
+  - [[F1.58 沖]] 搖也
+  ==
+W
+  ====
+  - [[Page~41 (1)冲(1)沖]]
+    --
+    [[Alternative form of 沖. **See $沖cung1 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 盅. **See $盅cung1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword $忡1 to 沖, and corrected 枂 to 相.
+    Note that a separate entry with headword 沖 also exists, explained 搖也.
+  ==
 $$
 
 ### 忡1 | _(1)Ch(')ung_ [[cung1]]
@@ -219,7 +250,7 @@ U
   U+6C96
 A
   ==
-  - 冲
+  - $冲1
   ==
 F
   ==
@@ -312,6 +343,7 @@ U
   U+76C5
 A
   ==
+  - $冲1
   - $沖1
   ==
 V
