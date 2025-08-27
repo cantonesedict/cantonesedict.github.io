@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cung
-* %date-modified --> 2025-08-26
+* %date-modified --> 2025-08-27
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -56,6 +56,7 @@ $$
 - $㤝1
 - $樅1
 - $涌1
+- $盅1
 - $翀1
 - $衷1
 ==
@@ -239,6 +240,37 @@ C
 S
   ==
   - $涌jung2 (TODO)
+  ==
+$$
+
+###+ 盅1 | _(1)Ch(')ung_ (cung1)
+
+$$
+R
+  ⽫ + 4
+U
+  U+76C5
+A
+  ==
+  - 沖
+  ==
+V
+  ==
+  - cung4 (alternative per 《廣韻》直弓切)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~39* (1)盅 _(1)Chung_ (zung1); here corrected to _(1)Ch(')ung_ (cung1)]]
+    ==
+    - [[...]] a hollow vessel [[Kangxi: 器虛也, 通作沖]] [[...]];
+    - [[...]].
+    ==
+  ====
+S
+  ==
+  - $盅zung1
   ==
 $$
 

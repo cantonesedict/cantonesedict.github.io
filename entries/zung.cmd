@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zung
-* %date-modified --> 2025-08-26
+* %date-modified --> 2025-08-27
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -533,7 +533,6 @@ W
   - [[Page~39* (1)盅]]
     ==
     - A cup, [[...]], generally small and covered;
-    <## - [[...]] a hollow vessel [[...]]; ##>
     - _(4)ngau (4)yau (1)chung_
         [[ngau4 jau4 zung1 牛油盅]],
         a butter-cup;
@@ -551,7 +550,7 @@ C
   ==
 S
   ==
-  - $盅cung1 (TODO)
+  - $盅cung1
   ==
 $$
 
