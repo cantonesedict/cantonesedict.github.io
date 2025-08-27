@@ -55,6 +55,7 @@ $$
 - $忡1
 - $㤝1
 - $樅1
+- $沖1
 - $涌1
 - $盅1
 - $翀1
@@ -209,6 +210,65 @@ S
   ==
 $$
 
+### 沖1 | _(1)Ch(')ung_ [[cung1]]
+
+$$
+R
+  ⽔ + 4
+U
+  U+6C96
+A
+  ==
+  - 冲
+  ==
+F
+  ==
+  - [[F1.58 ::[沖]::]] ::和也又[相]沖::
+  - [[F1.58 冲]] 幼小曰冲年又相冲也
+  - [[F1.58 沖]] 搖也
+  ==
+W
+  ====
+  - [[Page~41 (1)冲(1)沖]]
+    ==
+    - Young, delicate [[Kangxi 沖: 幼小也, 沖童也]];
+    - harmonious [[Kangxi 沖: 和也]];
+    - deep [[Kangxi 沖: 深也]], [[...]];
+    - to rise in the air [[Kangxi 沖: 飛也]];
+    - to agitate, to move;
+    - to strike against (as things do in the water) [[Kangxi 沖: 涌搖也]];
+    - to dart against, to rush;
+    - to send (as a letter);
+    - _(1)ch(')ung ch(')ong(3)_
+        [[cung1 cong3 沖？]]
+        to offend, to answer back;
+    - _(4)ying (1)ch(')ung h(a/)k(8) hoi(6)_
+        [[jing4 cung1 haak3 hoi6 迎沖客害]]
+        inauspicious calculations;
+    - _h(i/)(3) (1)ch(')ung (2)tau (4)ngau_
+        [[hei3 cung1 dau2 ngau4 氣沖牛斗]],
+        his spirit rises to the skies;
+    - _(1)ch(')ung (1)ch(')ung_
+        [[cung1 cung1 沖沖]],
+        sound of ornaments or other things tinkling against each other [[Kangxi 沖: 聲也]].
+    ==
+    --
+    [[Otherwise, an alternative form of 盅. **See $盅cung1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword $忡1 to 沖, and corrected 枂 to 相.
+    Note that a separate entry with headword 沖 also exists, explained 搖也.
+  ==
+P
+  ++
+  1. Hanging down (Kangxi 沖: 垂飾貌).
+  1. To offset, to counterbalance.
+  1. Conflicting, incompatible.
+  ++
+$$
+
 ### 涌1 | _(1)Ch(')ung_ [[cung1]]
 
 $$
@@ -252,7 +312,7 @@ U
   U+76C5
 A
   ==
-  - 沖
+  - $沖1
   ==
 V
   ==
@@ -265,6 +325,12 @@ W
   - [[Page~39* (1)盅 _(1)Chung_ (zung1); here corrected to _(1)Ch(')ung_ (cung1)]]
     ==
     - [[...]] a hollow vessel [[Kangxi: 器虛也, 通作沖]] [[...]];
+    - [[...]].
+    ==
+  - [[Page~41 (1)冲(1)沖; here normalised to 盅]]
+    ==
+    - [[...]];
+    - [[...]], hollow [[Kangxi 沖: 虛也]];
     - [[...]].
     ==
   ====
