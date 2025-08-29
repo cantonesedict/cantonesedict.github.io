@@ -588,6 +588,7 @@ $$
 - $琮4
 - $种4
 - $虫4
+- $蟲4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -732,6 +733,43 @@ S
   ==
   - $虫wai2 (TODO)
   ==
+$$
+
+### 蟲4 | _(4)Ch(')ung_ [[cung4]]
+
+$$
+R
+  ⾍ + 12
+U
+  U+87F2
+A
+  ==
+  - $虫4
+  ==
+F
+  ==
+  - [[F1.60 虫]] 虫蟻
+  - [[F1.60 蟲]] 同上
+  ==
+W
+  ====
+  - [[Page~41 (4)虫(4)蟲]]
+    ==
+    - Term for featherless and hairless animals,
+      including insects, frogs, snails, &c.;
+    - usually applied to insects only;
+    - _p(a/)k(8) (4)ch(')ung_
+        [[baak3 cung4 百蟲]],
+        insects generally.
+    ==
+    --
+    [[Otherwise, an alternative form of 爞. **See $爞cung4 for the canonical entry.**]]
+    --
+  ====
+P
+  ++
+  1. Legged animals (Kangxi: 有足謂之蟲無足謂之豸).
+  ++
 $$
 
 

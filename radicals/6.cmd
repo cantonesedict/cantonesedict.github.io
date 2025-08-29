@@ -1391,6 +1391,14 @@ For all radicals, see [Index of characters by radical](./).
       ==
       </nav>
   //
+    , 12
+    ,
+      <nav class="sideways">
+      ==
+      - $蟲cung4
+      ==
+      </nav>
+  //
     , 13
     ,
       <nav class="sideways">

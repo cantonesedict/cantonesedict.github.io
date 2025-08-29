@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2025-08-24
+* %date-modified --> 2025-08-29
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -5331,6 +5331,7 @@ C
     Corrected _(2)ch(i/)_ (zi2) to _ch(i/)(6)_ (zi6).
   - Williams' "feline beasts": Not feline beasts, but long-backed beasts
     ready to pounce (Kangxi: ::獸長[脊]行豸豸然欲有所司殺形::).
+  - Williams' "a worm, a hairless grub": Or, legless animals more generally.
   ==
 S
   ==
