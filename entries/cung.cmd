@@ -60,6 +60,7 @@ $$
 - $沖1
 - $涌1
 - $盅1
+- $罿1
 - $翀1
 - $衝1
 - $衷1
@@ -400,6 +401,39 @@ W
 S
   ==
   - $盅zung1
+  ==
+$$
+
+### 罿1 | _(1)Ch(')ung_ [[cung1]]
+
+$$
+R
+  ⽹ + 12
+U
+  U+7F7F
+V
+  ==
+  - tung4 (alternative per 《廣韻》徒紅切)
+  ==
+F
+  ==
+  - [[F1.58 ::[罿]::]] ::[掩]兔之車::
+  ==
+W
+  ====
+  - [[Page~41 (1)罿]]
+    ==
+    - A net to take birds, with a frame [[Kangxi: 罬也, 幡車罔]];
+    - the Fan Wan says, a frame to cover rabbits [[Fan Wan: ::[掩]兔之車::]].
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised headword ⿱罓童 to 罿, and corrected ⿰犭奄 to 掩.
+  ==
+S
+  ==
+  - $罿tung4 (TODO)
   ==
 $$
 

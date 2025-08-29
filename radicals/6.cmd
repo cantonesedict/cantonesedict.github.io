@@ -529,6 +529,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $罿cung1
       - $罾zang1
       ==
       </nav>
