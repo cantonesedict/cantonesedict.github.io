@@ -60,6 +60,7 @@ $$
 - $涌1
 - $盅1
 - $翀1
+- $衝1
 - $衷1
 ==
 </nav>
@@ -407,6 +408,69 @@ C
   - The reading _(1)ch(')ung_ (cung1) is not unattested;
     《集韻》 has the reading 敕中切, explained 上飛也.
   ==
+$$
+
+### 衝1 | _(1)Ch(')ung_ [[cung1]]
+
+$$
+R
+  ⾏ + 9
+U
+  U+885D
+V
+  ==
+  - cung3 (possibly from Mandarin-matching for "toward" and "fierce" senses)
+  ==
+F
+  ==
+  - [[F1.58 衝]] 向也水直撞也又衝要通衢也
+  ==
+W
+  ====
+  - [[Page~41 (1)衝]]
+    ==
+    - A path, a crossway [[Kangxi: 通道也 etc.]];
+    - ~~to support;~~
+    - to move, to excite;
+    - to rise or rush against [[Kangxi: 當也向也突也]], ~~to overflow~~;
+    - abrupt;
+    - towards;
+    - ~~a car;~~
+    - _(1)ch(')ung i(u/)(3)_
+        [[cung1 jiu3 衝要]]
+        a thoroughfare;
+    - _(2)shui (1)ch(')ung_
+        [[seoi2 cung1 水衝]],
+        a canal in a city;
+    - _(1)ch(')ung (2)t(o\)_
+        [[cung1 dou2 衝倒]],
+        to overthrow;
+    - _(1)ch(')ung (4)f(a/)n_
+        [[cung1 faan4 衝繁]],
+        a place of great concourse.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: The character 水 is likely erroneous.
+  - Williams' "a car": In the (now) archaic sense meaning "chariot",
+    and better rendered "battering-chariot".
+  ==
+P
+  ++
+  1. A battering-chariot (Kangxi: 車也 etc.).
+  ++
+E
+  ====
+  - 【衝】 (cung1):
+    ++
+    1. To run a traffic light.
+       ==
+       - 衝紅燈 (cung1 hung4 dang1): "Running [a] red light."
+       - 衝黃燈 (cung1 wong4 dang1): "Running [an] amber light."
+       ==
+    ++
+  ====
 $$
 
 ### 衷1 | _(1)Ch(')ung_ [[cung1]]
