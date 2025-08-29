@@ -590,6 +590,7 @@ $$
 - $种4
 - $虫4
 - $蟲4
+- $重4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -802,6 +803,51 @@ P
   ++
 $$
 
+### 重4 | _(4)Ch(')ung_ [[cung4]]
+
+$$
+R
+  ⾥ + 2
+U
+  U+91CD
+F
+  ==
+  - [[F1.60 重]] ::復也[叠]也::
+  ==
+W
+  ====
+  - [[Page~41 (4)重]]
+    ==
+    - To duplicate, to repeat, to reiterate [[Kangxi: 複也疊也]];
+    - to add;
+    - _(4)ch(')ung t(i/)p(9)_
+        [[cung4 dip6 重疊]]
+        to increase, numerous;
+    - _(2)k(i/) (4)ch(')ung_
+        [[gei2 cung4 幾重]],
+        several, a series;
+    - _(4)ch(')ung (4)ch(')ung_
+        [[cung4 cung4 重重]],
+        a succession, as peaks of hills;
+    - _(4)ch(')ung (4)wai_
+        [[cung4 wai4 重圍]],
+        to encompass;
+    - _(4)ch(')ung (4)sheng_
+        [[cung4 seng4 重城]],
+        a double wall, such as are at city gates.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed 叠.
+  ==
+S
+  ==
+  - $重cung5
+  - $重zung6
+  ==
+$$
+
 
 ##{#5 .modern} (5)Ch(')ung (cung5 陽上)
 
@@ -866,7 +912,7 @@ C
   ==
 S
   ==
-  - $重cung4 (TODO)
+  - $重cung4
   - $重zung6
   ==
 $$

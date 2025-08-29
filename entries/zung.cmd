@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zung
-* %date-modified --> 2025-08-27
+* %date-modified --> 2025-08-29
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -2238,7 +2238,7 @@ E
   --
 S
   ==
-  - $重cung4 (TODO)
+  - $重cung4
   - $重cung5
   ==
 $$
