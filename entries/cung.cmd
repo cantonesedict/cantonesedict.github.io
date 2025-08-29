@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cung
-* %date-modified --> 2025-08-27
+* %date-modified --> 2025-08-29
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -251,6 +251,10 @@ U
 A
   ==
   - $冲1
+  ==
+V
+  ==
+  - cung4 (per 《廣韻》直弓切)
   ==
 F
   ==
