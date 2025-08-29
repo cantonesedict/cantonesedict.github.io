@@ -587,6 +587,7 @@ $$
 - $淙4
 - $琮4
 - $种4
+- $虫4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -706,6 +707,31 @@ P
   ++
   1. A surname (Kangxi: 姓).
   ++
+$$
+
+### 虫4 | _(4)Ch(')ung_ [[cung4]]
+
+$$.
+R
+  ⾍ + 0
+U
+  U+866B
+F
+  ==
+  - [[F1.60 虫]] 虫蟻
+  - [[F1.60 蟲]] 同上
+  ==
+W
+  ====
+  - [[Page~41 (4)虫(4)蟲]]
+    --
+    [[Alternative form of 蟲. **See $蟲cung4 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $虫wai2 (TODO)
+  ==
 $$
 
 
