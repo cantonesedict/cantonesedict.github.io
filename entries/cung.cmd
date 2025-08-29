@@ -55,6 +55,7 @@ $$
 - $冲1
 - $忡1
 - $㤝1
+- $憧1
 - $樅1
 - $沖1
 - $涌1
@@ -202,6 +203,31 @@ W
     - perturbed, agitated.
     ==
   ====
+$$
+
+### 憧1 | _(1)Ch(')ung_ [[cung1]]
+
+$$
+R
+  ⼼ + 12
+U
+  U+61A7
+F
+  ==
+  - [[F1.58 憧]] 意不定也
+  ==
+W
+  ====
+  - [[Page~41 (1)憧]]
+    ==
+    - Unsettled in mind, disturbed, undecided [[Kangxi: 意不定也]];
+    - irresolute.
+    ==
+  ====
+S
+  ==
+  - $憧zong6
+  ==
 $$
 
 ###+ 樅1 | _(1)Ts(')ung_ (cung1)

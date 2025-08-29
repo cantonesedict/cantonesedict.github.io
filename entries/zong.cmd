@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zong
-* %date-modified --> 2025-08-17
+* %date-modified --> 2025-08-29
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -837,6 +837,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $幢6
+- $憧6
 - $撞6
 - $狀6
 - $臟6
@@ -865,6 +866,27 @@ S
   ==
   - $幢cong4
   - $幢tong4 (TODO)
+  ==
+$$
+
+###+ 憧6 | _Chong(6)_ (zong6)
+
+$$
+R
+  ⼼ + 12
+U
+  U+61A7
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Foolish (Kangxi: 一曰戇憧愚貌).
+  ++
+S
+  ==
+  - $憧cung1
   ==
 $$
 
