@@ -586,6 +586,7 @@ $$
 =={.modern}
 - $冢2
 - $塚2
+- $寵2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -681,6 +682,57 @@ C
   - Fan Wan entry: Corrected headword 塜 to 塚.
   - Williams (following Fan Wan) misprints 塚 as 塜; here corrected.
   ==
+$$
+
+### 寵2 | _(2)Ch(')ung_ [[cung2]]
+
+$$
+R
+  ⼧ + 16
+U
+  U+5BF5
+A
+  ==
+  - {𠖥=⿱冖龍}
+  ==
+F
+  ==
+  - [[F1.61 寵]] 愛也恩也尊榮也寵
+  ==
+W
+  ====
+  - [[Page~41 (2){𠖥=⿱冖龍}; here normalised to 寵]]
+    ==
+    - Grace, kindness, affection [[Kangxi: 一曰愛也恩也]], regard, friendship;
+    - favor of superiors;
+    - to esteem [[Kangxi: 尊榮也]];
+    - to indulge to allow;
+    - _(2)ch(')ung oi(3)_
+        [[cung2 oi3 寵愛]]
+        delight in;
+    - _(2)ch(')ung (1)f(i/)_
+        [[cung2 fei1 寵妃]],
+        a favorite concubine;
+    - _(2)ch(')ung sik(7)_
+        [[cung2 sik1 寵錫]]
+        a special favor of the king;
+    - _(4)yan (2)ch(')ung_
+        [[jan4 cung2 仁寵]],
+        loving-kindness.
+    ==
+  - [[Page~713 (2){𠖥=⿱冖龍}(2)寵]]
+    --
+    The second form [[寵]] of this character is the most correct.
+    --
+    ==
+    - _Ling(6) (2)ch(')ung_
+        [[ling6 cung2 令寵]],
+        your concubine;
+    - _tak(7) (2)ch(')ung_
+        [[dak1 cung2 得寵]],
+        to win [a hushand's] [[these square brackets appear in the original text]] love.
+    ==
+  ====
 $$
 
 
