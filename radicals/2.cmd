@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 2-stroke radicals
-* %date-modified --> 2025-08-27
+* %date-modified --> 2025-08-30
 * %copyright-prior-years --> 2024--
 * %meta-description --> index of characters with 2-stroke radicals
 
@@ -390,6 +390,23 @@ For all radicals, see [Index of characters by radical](./).
 ## ⼍ (cover)
 
 <## radical-⼍-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 8
+    ,
+      <nav class="sideways">
+      ==
+      - $冢cung2
+      ==
+      </nav>
+''
+||||
 <## /radical-⼍-characters ##>
 
 

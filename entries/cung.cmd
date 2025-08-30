@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cung
-* %date-modified --> 2025-08-29
+* %date-modified --> 2025-08-30
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [cung1](#1)
+- [cung2](#2)
 - [cung4](#4)
 - [cung5](#5)
 ==
@@ -575,6 +576,62 @@ S
   - $衷zung1
   - $衷zung3
   ==
+$$
+
+
+##{#2 .williams} (2)Ch(')ung [[cung2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $冢2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### [冢]2 | _(2)Ch(')ung_ [[cung2]]
+
+$$
+R
+  ⼍ + 8
+U
+  U+51A2
+V
+  ==
+  - zung2 (per 《廣韻》知隴切)
+  ==
+F
+  ==
+  - [[F1.61 ::[冢]::]] ::大也長子長婦俱曰[冢]::
+  ==
+W
+  ====
+  - [[Page~41 ::(2)[冢]^::]]
+    ==
+    - The peak of a hill [[Kangxi: 山頂也]];
+    - a mound or tumulus [[Kangxi: 墓之墳者亦曰冢]];
+    - great, honorable, first, the eldest [[Kangxi: 大也]];
+    - _(2)ch(')ung (2)tsz'_
+        [[cung2 zi2 冢子]]
+        the eldest son;
+    - _(2)ch(')ung (5)f(u/)_
+        [[cung2 fu5 冢婦]],
+        the wife;
+    - _ch(')ung (2)tsoi_
+        [[cung2 zoi2 冢宰]],
+        the highest cabinet ministers.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword 冡 to 冢.
+  - Williams (following Fan Wan) misprints 冢 as 冡; here corrected.
+  ==
+P
+  ++
+  1. A high mound (Kangxi: 高墳也 etc.).
+  1. A raised mound for an altar (Kangxi: 封土爲社).
+  ++
 $$
 
 
