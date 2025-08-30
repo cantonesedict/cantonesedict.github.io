@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [cung1](#1)
 - [cung2](#2)
+- [cung3](#3)
 - [cung4](#4)
 - [cung5](#5)
 ==
@@ -733,6 +734,59 @@ W
         to win [a hushand's] [[these square brackets appear in the original text]] love.
     ==
   ====
+$$
+
+
+##{#3 .williams} Ch(')ung(3) [[cung3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $銃3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 銃3 | _Ch(')ung(3)_ [[cung3]]
+
+$$
+R
+  ⾦ + 6
+U
+  U+9283
+H
+  May appear with 𠫓 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
+F
+  ==
+  - [[F1.62 銃]] 火炮
+  ==
+W
+  ====
+  - [[Page~41 銃(3)]]
+    ==
+    - ~~A piece of iron bored;~~
+    - a blunderbuss, a ginjall, a gun;
+    - _ch(')ung(3) p(')(a/)u(3)_
+        [[cung3 paau3 銃炮]]
+        fire-arms;
+    - _ch(')ung(3) (2)shau_
+        [[cung3 sau2 銃手]],
+        musketeers;
+    - _(2)shau ch(')ung(3)_
+        [[sau2 cung3 手銃]]
+        small guns.
+    ==
+  ====
+C
+  ==
+  - Williams' "A piece of iron bored": This is a misreading of Kangxi 斧穿也.
+    Here, 斧 means "axe".
+  ==
+P
+  ++
+  1. The eye of an axe (Kangxi: 銎也, 斧穿也).
+  ++
 $$
 
 
