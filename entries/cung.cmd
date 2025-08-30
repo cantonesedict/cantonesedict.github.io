@@ -742,10 +742,45 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $㧤3
 - $銃3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 㧤3 | _Ch(')ung(3)_ [[cung3]]
+
+$$
+R
+  ⼿ + 6
+U
+  U+39E4
+H
+  May appear with 𠫓 having 3~strokes (+5) or 4~strokes (+6 assumed here),
+  depending on the font.
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~713 㧤(3)]]
+    ==
+    - To leap, to jump [[Kangxi: 跳也]].
+    ==
+    --
+    A colloquial word.
+    --
+    ==
+    - At once, altogether;
+    - to push, to hit;
+    - _ch(')ung(3) (1)ts(')an_
+        [[cung3 can1 㧤嚫]],
+        to run upon, to thump against;
+    - _yat(7) ch(')ung(3) (1)s(a/)m (2)tau (4)yau_
+        [[jat1 cung3 saam1 dau2 jau4 一㧤三斗油]],
+        I don't know why he is all at once so very angry.
+    ==
+  ====
+$$
 
 ### 銃3 | _Ch(')ung(3)_ [[cung3]]
 
