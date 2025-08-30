@@ -585,6 +585,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $冢2
+- $塚2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -596,6 +597,10 @@ R
   ⼍ + 8
 U
   U+51A2
+A
+  ==
+  - $塚2 (for "mound" sense)
+  ==
 V
   ==
   - zung2 (per 《廣韻》知隴切)
@@ -632,6 +637,50 @@ P
   1. A high mound (Kangxi: 高墳也 etc.).
   1. A raised mound for an altar (Kangxi: 封土爲社).
   ++
+$$
+
+### [塚]2 | _(2)Ch(')ung_ [[cung2]]
+
+$$
+R
+  ⼟ + 10
+U
+  U+585A
+V
+  ==
+  - zung2 (per 《廣韻》知隴切)
+  ==
+F
+  ==
+  - [[F1.61 ::[塚]::]] ::墓封曰[塚]::
+  ==
+W
+  ====
+  - [[Page~41 ::(2)[塚]^::]]
+    ==
+    - A grave, a tomb [[Kangxi: 冢俗作塚]];
+    - _(1)fong (2)ch(')ung_
+        [[fong1 cung2 荒塚]],
+        a deserted, unlucky grave;
+    - _w(a/)t(8) (2)ch(')ung_
+        [[waat3 cung2 挖塚]],
+        to rifle a grave;
+    - _(2)ch(')ung m(o\)(6)_
+        [[cung2 mou6 塚墓]]
+        a grave;
+    - _(4)ming (2)ch(')ung_
+        [[ming4 cung2 明塚]],
+        a vaulted grave.
+    ==
+    --
+    [[Alternative form of 冢 (for the "mound" sense). See $冢cung2.]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword 塜 to 塚.
+  - Williams (following Fan Wan) misprints 塚 as 塜; here corrected.
+  ==
 $$
 
 
