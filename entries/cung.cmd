@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cung
-* %date-modified --> 2025-08-30
+* %date-modified --> 2025-08-31
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -64,6 +64,7 @@ $$
 - $盅1
 - $罿1
 - $翀1
+- $聰1
 - $衝1
 - $衷1
 ==
@@ -470,6 +471,57 @@ C
   - The reading _(1)ch(')ung_ (cung1) is not unattested;
     《集韻》 has the reading 敕中切, explained 上飛也.
   ==
+$$
+
+### 聰1 | _(1)Ts(')ung_ [[cung1]]
+
+$$
+R
+  ⽿ + 11
+U
+  U+8070
+H
+  May appear as either ⿰耳⿱囪心 (assumed here) or ⿰耳⿱囱心,
+  depending on the font.
+A
+  ==
+  - 悤
+  - 聦
+  ==
+F
+  ==
+  - [[F1.58 ::[聦]::]] 察也明也耳力也
+  - [[F1.58 聰]] 同上
+  ==
+W
+  ====
+  - [[Page~608 (1)聰(1)聦]]
+    ==
+    - Quick at hearing, astute, ready, quickwitted;
+    - to perceive clearly [[Kangxi 聰: 聞也明也通也聽也]];
+    - to discriminate intelligently [[Kangxi 聰: 察也, 耳之所聞旣順且審故謂之聰]];
+    - _(1)ts(')ung (4)ming_
+        [[cung1 ming4 聰明]],
+        perspicacious, clever;
+    - _(1)t(')(i/)n (1)ts(')ung_
+        [[tin1 cung1 天聰]],
+        natural gifts;
+    - _(5)(i/) (1)ts(')ung_
+        [[ji5 cung1 耳聰]]^
+        quick at hearing;
+    - _sing(3) (1)ts(')ung_
+        [[sing3 cung1 性聰]]^
+        ready at learning.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected {𦖟=⿰耳忽} to 聦.
+  ==
+P
+  ++
+  1. Hearing.
+  ++
 $$
 
 ### 衝1 | _(1)Ch(')ung_ [[cung1]]
