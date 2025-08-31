@@ -55,6 +55,7 @@ $$
 =={.modern}
 - $充1
 - $冲1
+- $匆1
 - $忡1
 - $怱1
 - $㤝1
@@ -160,6 +161,42 @@ C
   ==
   - Fan Wan entry: Corrected headword $忡1 to 沖, and corrected 枂 to 相.
     Note that a separate entry with headword 沖 also exists, explained 搖也.
+  ==
+$$
+
+###+ 匆1 | _(1)Ts(')ung_ (cung1)
+
+$$
+R
+  ⼓ + 3
+U
+  U+5306
+A
+  ==
+  - $怱1
+  - $悤1
+  ==
+F
+  ==
+  - [[F1.58 ::[怱]::]] ::[怱]忙急遽也::
+  - [[F1.58 ::[匆]::]] ::[匆匆]喜色::
+  ==
+W
+  ====
+  - [[Page~608 (1)悤; here normalised to 匆]]
+    ==
+    - Hurried [[Kangxi 悤: 悤悤急遽也, 俗作匆非]], alarmed, agitated;
+    - _n(o\)(6) h(i/)(3) (1)ts(')ung (1)ts(')ung_
+        [[nou6 hei3 cung1 cung1 怒氣匆匆]],
+        excited to anger, exasperated;
+    - _(1)ts(')ung (4)mong_
+        [[cung1 mong4 匆忙]],
+        precipitate.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword 忽 to 怱, and corrected headword 勿 to 匆.
   ==
 $$
 
