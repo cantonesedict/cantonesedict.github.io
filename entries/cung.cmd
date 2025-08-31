@@ -73,6 +73,7 @@ $$
 - $聰1
 - $衝1
 - $衷1
+- $騘1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -800,6 +801,30 @@ S
   ==
   - $衷zung1
   - $衷zung3
+  ==
+$$
+
+### 騘1 | _(1)Ts(')ung_ [[cung1]]
+
+$$.
+R
+  ⾺ + 9
+U
+  U+9A18
+F
+  ==
+  - [[F1.58 騘]] ::[鐵]色馬::
+  ==
+W
+  ====
+  - [[Page~608 (1)騘]]
+    --
+    [[Alternative form of 驄. **See $驄cung1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed 鐵.
   ==
 $$
 
