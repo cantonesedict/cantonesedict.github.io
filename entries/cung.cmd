@@ -57,6 +57,7 @@ $$
 - $冲1
 - $忡1
 - $㤝1
+- $悤1
 - $憧1
 - $樅1
 - $沖1
@@ -208,6 +209,37 @@ W
     - perturbed, agitated.
     ==
   ====
+$$
+
+### 悤1 | _(1)Ts(')ung_ [[cung1]]
+
+$$.
+R
+  ⼼ + 7
+U
+  U+60A4
+H
+  May appear as either ⿱囪心 (assumed here) or ⿱囱心,
+  depending on the font.
+F
+  ==
+  - [[F1.58 ::[怱]::]] ::[怱]忙急遽也::
+  - [[F1.58 ::[匆]::]] ::[匆匆]喜色::
+  ==
+W
+  ====
+  - [[Page~608 (1)悤]]
+    --
+    [[Alternative form of 匆. **See $匆cung1 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 聰. **See $聰cung1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword 忽 to 怱, and corrected headword 勿 to 匆.
+  ==
 $$
 
 ### 憧1 | _(1)Ch(')ung_ [[cung1]]
@@ -495,7 +527,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected {𦖟=⿰耳忽} to 聦.
+  - Fan Wan entry: Corrected headword {𦖟=⿰耳忽} to 聦.
   ==
 $$
 
@@ -511,7 +543,7 @@ H
   depending on the font.
 A
   ==
-  - 悤
+  - $悤1
   - $聦1
   ==
 F
@@ -542,7 +574,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected {𦖟=⿰耳忽} to 聦.
+  - Fan Wan entry: Corrected headword {𦖟=⿰耳忽} to 聦.
   ==
 P
   ++
