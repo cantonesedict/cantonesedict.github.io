@@ -64,6 +64,7 @@ $$
 - $樅1
 - $沖1
 - $涌1
+- ${𤧚=⿰𤣩怱}1
 - $盅1
 - $罿1
 - $翀1
@@ -455,6 +456,30 @@ C
 S
   ==
   - $涌jung2 (TODO)
+  ==
+$$
+
+### {𤧚=⿰𤣩怱}1 | _(1)Ts(')ung_ [[cung1]]
+
+$$.
+R
+  ⽟ + 9
+U
+  U+249DA
+F
+  ==
+  - [[F1.58 ::[{𤧚=⿰𤣩怱}]::]] 石似玉
+  ==
+W
+  ====
+  - [[Page~608 (1){𤧚=⿰𤣩怱}]]
+    --
+    [[Alternative form of 璁. **See $璁cung1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed incomplete stroke in headword {𤧚=⿰𤣩怱}.
   ==
 $$
 
