@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2025-08-17
+* %date-modified --> 2025-08-31
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1864,11 +1864,11 @@ $$
 
 $$.
 R
-  ⾍ + 10
+  ⾍ + 9
 U
   U+8786
 H
-  May appear as either ⿰虫兹 (+9) or ⿰虫茲 (+10 assumed here),
+  May appear as either ⿰虫兹 (+9 assumed here) or ⿰虫茲 (+10),
   depending on the font.
 F
   [[Not present]]
@@ -2539,11 +2539,11 @@ $$
 
 $$.
 R
-  ⽶ + 10
+  ⽶ + 9
 U
   U+7CCD
 H
-  May appear as either ⿰米兹 (+9) or ⿰米茲 (+10 assumed here),
+  May appear as either ⿰米兹 (+9 assumed here) or ⿰米茲 (+10),
   depending on the font.
 F
   [[Not present]]
@@ -3019,11 +3019,11 @@ $$
 
 $$.
 R
-  ⿃ + 10
+  ⿃ + 9
 U
   U+9DC0
 H
-  May appear as either ⿰兹鳥 (+9) or ⿰茲鳥 (+10 assumed here),
+  May appear as either ⿰兹鳥 (+9 assumed here) or ⿰茲鳥 (+10),
   depending on the font.
 F
   ==

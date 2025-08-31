@@ -269,6 +269,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $糍ci4
       - {$糉zung2, $糉zung3}
       ==
       </nav>
@@ -278,7 +279,6 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $糗cau3
-      - $糍ci4
       ==
       </nav>
   //
@@ -1386,12 +1386,19 @@ For all radicals, see [Index of characters by radical](./).
       ==
       </nav>
   //
+    , 9
+    ,
+      <nav class="sideways">
+      ==
+      - {$螆ci3, $螆zi1}
+      ==
+      </nav>
+  //
     , 10
     ,
       <nav class="sideways">
       ==
       - $螓ceon4
-      - {$螆ci3, $螆zi1}
       ==
       </nav>
   //
