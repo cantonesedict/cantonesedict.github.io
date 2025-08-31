@@ -72,6 +72,7 @@ $$
 - $聦1
 - $聰1
 - $葱1
+- $蔥1
 - $衝1
 - $衷1
 - $騘1
@@ -715,6 +716,63 @@ W
     [[Alternative form of 蔥. **See $蔥cung1 for the canonical entry.**]]
     --
   ====
+$$
+
+###+ 蔥1 | _(1)Ts(')ung_ (cung1)
+
+$$
+R
+  ⾋ + 11
+U
+  U+8525
+H
+  May appear as either ⿱艹⿱囪心 (assumed here) or ⿱艹⿱囱心,
+  depending on the font.
+A
+  ==
+  - $葱1
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~608 (1)葱]]
+    ==
+    - An onion, ~~garlic~~;
+    - a general name for alliaceous vegetables [[Kangxi 葱: 菜也 etc.]];
+    - a leek or light green [[Kangxi 葱: 靑謂之蔥]];
+    - ~~a vent, a tubular passage, a draft;~~
+    - _(1)ts(')ung (4)t(')au_
+        [[cung1 tau4 蔥頭]],
+        onions;
+    - _(1)ts(')ung luk(9)_
+        [[cung1 luk6 蔥綠]]
+        a pea green;
+    - _(4)(u/) (1)ts(')ung_
+        [[wu4 cung1 胡蔥]],
+        small onions;
+    - _(1)ts(')ung p(a/)k(9)_
+        [[cung1 baak6 蔥白]]
+        the onion bulb;
+    - _(1)ts(')ung (5)[leng]_
+        [[cung1 leng5 蔥嶺]],
+        ~~the Karakorum Mts~~ [[Kangxi: 山名 etc.]].
+    ==
+  ====
+C
+  ==
+  - Williams' "a vent, a tubular passage, a draft":
+    This is a misreading of either Kangxi 《本草》蔥从悤外直中空有悤通之象也
+    (which is a description of what is probably the spring-onion)
+    or Kangxi 氣通達也 (which is an adjective sense, not a noun sense).
+  - Williams' 蔥頭: The preferred term for "onion" in Cantonese is 洋蔥.
+  - Williams' 蔥嶺: Changed _(5)ling_ (ling5) to vernacular reading _(5)leng_ (leng5).
+    Not the Karakorum, but the Pamir Mountains.
+  ==
+P
+  ++
+  1. Ventilated (Kangxi: 氣通達也).
+  ++
 $$
 
 ### 衝1 | _(1)Ch(')ung_ [[cung1]]

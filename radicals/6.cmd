@@ -1222,6 +1222,7 @@ For all radicals, see [Index of characters by radical](./).
       - {$蔟cau3, $蔟cuk1, $蔟zuk6}
       - $蔡coi3
       - $蔌cuk1
+      - $蔥cung1
       - $蓻zap1
       - $蔗ze3
       - {$蔣zoeng1, $蔣zoeng2}
