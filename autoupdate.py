@@ -152,7 +152,10 @@ class Updater:
             )
             sys.exit(1)
 
-        compatibility_match = re.search(pattern=r'\S*?(?P<characters>[\uF900-\uFAFF]+)\S*', string=cmd_content)
+        compatibility_match = re.search(
+            pattern=r'\S*?(?P<characters>[\uF900-\uFAFF\U0002F800-\U0002FA1F]+)\S*',
+            string=cmd_content,
+        )
         if compatibility_match:
             compatibility_context = compatibility_match.group()
             compatibility_characters = compatibility_match.group('characters')
