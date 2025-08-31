@@ -56,6 +56,7 @@ $$
 - $充1
 - $冲1
 - $忡1
+- $怱1
 - $㤝1
 - $悤1
 - $憧1
@@ -187,6 +188,30 @@ C
   ==
 $$
 
+###+ 怱1 | _(1)Ts(')ung_ (cung1)
+
+$$.
+R
+  ⼼ + 5
+U
+  U+6031
+F
+  ==
+  - [[F1.58 ::[怱]::]] ::[怱]忙急遽也::
+  - [[F1.58 ::[匆]::]] ::[匆匆]喜色::
+  ==
+W
+  [[Not present]]
+C
+  ==
+  - Fan Wan entry: Corrected headword 忽 to 怱, and corrected headword 勿 to 匆.
+  ==
+P
+  ++
+  1. Alternative form of 匆. **See $匆cung1 for the canonical entry.**
+  ++
+$$
+
 ### 㤝1 | _(1)Ch(')ung_ [[cung1]]
 
 $$
@@ -222,10 +247,7 @@ H
   May appear as either ⿱囪心 (assumed here) or ⿱囱心,
   depending on the font.
 F
-  ==
-  - [[F1.58 ::[怱]::]] ::[怱]忙急遽也::
-  - [[F1.58 ::[匆]::]] ::[匆匆]喜色::
-  ==
+  [[Not present]]
 W
   ====
   - [[Page~608 (1)悤]]
@@ -236,10 +258,6 @@ W
     [[Otherwise, an alternative form of 聰. **See $聰cung1 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - Fan Wan entry: Corrected headword 忽 to 怱, and corrected headword 勿 to 匆.
-  ==
 $$
 
 ### 憧1 | _(1)Ch(')ung_ [[cung1]]

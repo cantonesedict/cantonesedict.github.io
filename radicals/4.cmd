@@ -94,6 +94,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $怱cung1
       - $怎zam2
       - $怍zok6
       ==
