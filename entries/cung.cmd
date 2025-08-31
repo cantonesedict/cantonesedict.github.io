@@ -173,6 +173,7 @@ U
   U+5306
 A
   ==
+  - 忩
   - $怱1
   - $悤1
   ==
@@ -185,7 +186,7 @@ W
   ====
   - [[Page~608 (1)悤; here normalised to 匆]]
     ==
-    - Hurried [[Kangxi 悤: 悤悤急遽也, 俗作匆非]], alarmed, agitated;
+    - Hurried [[Kangxi 悤: 悤悤急遽也, 亦作忩俗作匆非]], alarmed, agitated;
     - _n(o\)(6) h(i/)(3) (1)ts(')ung (1)ts(')ung_
         [[nou6 hei3 cung1 cung1 怒氣匆匆]],
         excited to anger, exasperated;
@@ -599,6 +600,7 @@ H
 A
   ==
   - $悤1
+  - 聡
   - $聦1
   ==
 F
