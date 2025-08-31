@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2025-08-24
+* %date-modified --> 2025-08-31
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -513,6 +513,9 @@ R
   ⽳ + 7
 U
   U+7A97
+H
+  May appear as either ⿱穴囪 (assumed here) or ⿱穴囱,
+  depending on the font.
 A
   ==
   - $牕1
