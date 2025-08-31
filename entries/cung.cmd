@@ -1191,6 +1191,7 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $從4
 - $悰4
 - $淙4
 - $爞4
@@ -1202,6 +1203,91 @@ $$
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 從4 | _(4)Ts(')ung_ [[cung4]]
+
+$$
+R
+  ⼻ + 8
+U
+  U+5F9E
+A
+  ==
+  - 从
+  ==
+F
+  ==
+  - [[F1.60 從]] 隨也順也就也
+  ==
+W
+  ====
+  - [[Page~608 (4)從]]
+    ==
+    - To follow, to listen to [[Kangxi: 相聽也]], to comply with, to agree;
+    - to believe in;
+    - commencing from, the place of origin;
+    - a preposition, from, by, through, in;
+    - since, whence [[Kangxi: 自也]];
+    - a way, a manner;
+    - compliance;
+    - a follower;
+    - _(4)ts(')ung (1)sam (2)sho yuk(9)_
+        [[cung4 sam1 so2 juk6 從心所欲]]
+        what my heart desires;
+    - _(4)'m (4)ts(')ung_
+        [[m4 cung4 唔從]],
+        uncompliant, obstinate;
+    - _(4)ts(')ung (4)loi_
+        [[cung4 loi4 從來]],
+        heretofore;
+    - _(4)m(o\) (4)ts(')ung yap(9) (2)shau_
+        [[mou4 cung4 jap6 sau2 無從入手]],
+        no way to begin;
+    - _yam(6) (4)ts(')ung (5)n(i/)_
+        [[jam6 cung4 nei5 任從你]],
+        as you please, do as you like;
+    - _(1)(i/) (4)ts(')ung_
+        [[ji1 cung4 依從]],
+        according with;
+    - _[k(')uk](7) (4)ts(')ung_
+        [[kuk1 cung4 曲從]],
+        constrained to obey;
+    - _(4)ts(')ung (4)yau_
+        [[cung4 jau4 從遊]],
+        to follow about, as a teacher;
+    - _(4)ts(')ung (1)kam (5)(i/) hau(6)_
+        [[cung4 gam1 ji5 hau6 從今以後]]
+        hereafter;
+    - _(4)ts(')ung m(i/)(6)_
+        [[cung4 mei6 從未]]
+        never, not at all;
+    - _(4)ts(')ung (4)l(e/)ung_
+        [[cung4 loeng4 從良]],
+        a reformed prostitute, one who enters a family;
+    - _(4)ts(')ung (2)si(u/)_
+        [[cung4 siu2 從小]],
+        since childhood;
+    - _(1)s(a/)m (4)ts(')ung_
+        [[saam1 cung4 三從]],
+        three compliances of a female to her father, husband[,] and son.
+    ==
+  ====
+C
+  ==
+  - Williams' 曲從: Changed _huk(7)_ (huk1) to common reading _k(')uk(7)_ (kuk1).
+  ==
+P
+  ++
+  1. To pursue, to partake in.
+  ++
+S
+  ==
+  - $從sung1 (TODO)
+  - $從zung1
+  - $從zung3
+  - $從zung6
+  ==
+$$
 
 ###+ 悰4 | _(4)Ts(')ung_ (cung4)
 

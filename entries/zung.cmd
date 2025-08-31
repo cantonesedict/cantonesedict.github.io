@@ -266,7 +266,7 @@ P
   ++
 S
   ==
-  - $從cung4 (TODO)
+  - $從cung4
   - $從sung1 (TODO)
   - $從zung3
   - $從zung6
@@ -1586,7 +1586,7 @@ P
   ++
 S
   ==
-  - $從cung4 (TODO)
+  - $從cung4
   - $從sung1 (TODO)
   - $從zung1
   - $從zung6
@@ -2018,7 +2018,7 @@ P
   ++
 S
   ==
-  - $從cung4 (TODO)
+  - $從cung4
   - $從sung1 (TODO)
   - $從zung1
   - $從zung3
