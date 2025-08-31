@@ -65,6 +65,7 @@ $$
 - $沖1
 - $涌1
 - ${𤧚=⿰𤣩怱}1
+- $璁1
 - $盅1
 - $罿1
 - $翀1
@@ -476,6 +477,37 @@ W
     --
     [[Alternative form of 璁. **See $璁cung1 for the canonical entry.**]]
     --
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed incomplete stroke in headword {𤧚=⿰𤣩怱}.
+  ==
+$$
+
+###+ 璁1 | _(1)Ts(')ung_ (cung1)
+
+$$
+R
+  ⽟ + 11
+U
+  U+7481
+H
+  May appear as either ⿰𤣩⿱囪心 (assumed here) or ⿰𤣩⿱囱心,
+  depending on the font.
+A
+  ==
+  - ${𤧚=⿰𤣩怱}1
+  ==
+F
+  ==
+  - [[F1.58 ::[{𤧚=⿰𤣩怱}]::]] 石似玉
+  ==
+W
+  ====
+  - [[Page~608 (1){𤧚=⿰𤣩怱}; here normalised to 璁]]
+    ==
+    - A pebble or stone, resembling a precious gem [[Kangxi 璁: 石之似玉者]].
+    ==
   ====
 C
   ==
