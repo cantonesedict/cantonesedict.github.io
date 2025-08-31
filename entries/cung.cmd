@@ -74,6 +74,7 @@ $$
 - $衝1
 - $衷1
 - $騘1
+- $驄1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -813,7 +814,7 @@ U
   U+9A18
 F
   ==
-  - [[F1.58 騘]] ::[鐵]色馬::
+  - [[F1.58 ::[騘]::]] ::[鐵]色馬::
   ==
 W
   ====
@@ -824,7 +825,41 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected malformed 鐵.
+  - Fan Wan entry: Fixed incomplete stroke in headword 騘, and corrected malformed 鐵.
+  ==
+$$
+
+###+ 驄1 | _(1)Ts(')ung_ (cung1)
+
+$$
+R
+  ⾺ + 11
+U
+  U+9A44
+H
+  May appear as either ⿰馬⿱囪心 (assumed here) or ⿰馬⿱囱心,
+  depending on the font.
+A
+  ==
+  - $騘1
+  ==
+F
+  ==
+  - [[F1.58 ::[騘]::]] ::[鐵]色馬::
+  ==
+W
+  ====
+  - [[Page~608 (1)騘; here normalised to 驄]]
+    ==
+    - A dapple-gray horse [[Kangxi: 馬靑白雜毛也 etc.]], ~~a bay horse~~;
+    - _(5)'ng (1)f(a/) (1)ts(')ung_
+        [[ng5 faa1 cung1 五花驄]],
+        a piebald, fancy horse.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed incomplete stroke in headword 騘, and corrected malformed 鐵.
   ==
 $$
 
