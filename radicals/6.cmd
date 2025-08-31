@@ -1195,6 +1195,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $葺cap1
+      - $葱cung1
       - $塟zong3
       - $葬zong3
       ==

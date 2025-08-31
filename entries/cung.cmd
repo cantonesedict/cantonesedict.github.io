@@ -71,6 +71,7 @@ $$
 - $翀1
 - $聦1
 - $聰1
+- $葱1
 - $衝1
 - $衷1
 - $騘1
@@ -696,6 +697,24 @@ P
   ++
   1. Hearing.
   ++
+$$
+
+### 葱1 | _(1)Ts(')ung_ [[cung1]]
+
+$$.
+R
+  ⾋ + 9
+U
+  U+8471
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~608 (1)葱]]
+    --
+    [[Alternative form of 蔥. **See $蔥cung1 for the canonical entry.**]]
+    --
+  ====
 $$
 
 ### 衝1 | _(1)Ch(')ung_ [[cung1]]
