@@ -1198,6 +1198,7 @@ $$
 - $樷4
 - $淙4
 - $淞4
+- $潀4
 - $潨4
 - $爞4
 - $琮4
@@ -1489,6 +1490,36 @@ S
   ==
 $$
 
+###+ 潀4 | _(4)Ts(')ung_ (cung4)
+
+$$
+R
+  ⽔ + 11
+U
+  U+6F40
+A
+  ==
+  - $潨4
+  ==
+V
+  ==
+  - zung1 (alternative per 《廣韻》職戎切)
+  ==
+F
+  ==
+  - [[F1.60 潨]] 會也小水入大水也
+  ==
+W
+  ====
+  - [[Page~609 (4)潨; here normalised to 潀]]
+    ==
+    - Smaller streams flowing into the main river [[Kangxi 潨: 小水入大水曰潨]];
+    - ~~tributaries;~~
+    - the meeting of waters [[Kangxi 潨: 潨水會也]].
+    ==
+  ====
+$$
+
 ### 潨4 | _(4)Ts(')ung_ [[cung4]]
 
 $$.
@@ -1502,7 +1533,7 @@ F
   ==
 W
   ====
-  - [[Page~609 (1)潨]]
+  - [[Page~609 (4)潨]]
     --
     [[Alternative form of 潀. **See $潀cung4 for the canonical entry.**]]
     --
