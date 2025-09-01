@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of entry pages by Jyutping
-* %date-modified --> 2025-08-25
+* %date-modified --> 2025-09-01
 * %copyright-prior-years --> 2023--
 * %meta-description --> index of entry pages by Jyutping
 
@@ -159,7 +159,7 @@ See also: [Index of Cantonese terms by Jyutping](/terms/).
 - $cong
 - $cou
 - $cuk
-- $cung (work in progress)
+- $cung
 - $cyu
 - $cyun
 - $cyut (work in progress)
