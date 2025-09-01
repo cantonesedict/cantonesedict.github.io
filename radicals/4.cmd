@@ -1115,6 +1115,7 @@ For all radicals, see [Index of characters by radical](./).
       - {$橕caang1, $橕caang3}
       - {$橙caang2, $橙caang4}
       - $樵ciu4
+      - $樷cung4
       - $樽zeon1
       - $橡zoeng6
       ==
