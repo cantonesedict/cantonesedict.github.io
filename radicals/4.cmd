@@ -1471,6 +1471,7 @@ For all radicals, see [Index of characters by radical](./).
       - $淸cing1
       - $清cing1
       - {$淙cung4, $淙zung1}
+      - $淞cung4
       - {$淨zeng6, $淨zing6}
       - $淄zi1
       - $渚zyu2
