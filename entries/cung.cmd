@@ -1518,6 +1518,10 @@ W
     - the meeting of waters [[Kangxi 潨: 潨水會也]].
     ==
   ====
+S
+  ==
+  - $潀zung1
+  ==
 $$
 
 ### 潨4 | _(4)Ts(')ung_ [[cung4]]

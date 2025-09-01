@@ -1517,7 +1517,7 @@ For all radicals, see [Index of characters by radical](./).
       - $漆cat1
       - {$漼ceoi2, $漼ceoi4}
       - $漕cou4
-      - $潀cung4
+      - {$潀cung4, $潀zung1}
       - $滯zai6
       - {$漬zi3, $漬zik1}
       - $漳zoeng1

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zung
-* %date-modified --> 2025-08-31
+* %date-modified --> 2025-09-01
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -55,6 +55,7 @@ $$
 - $椶1
 - $樅1
 - $淙1
+- $潀1
 - $琮1
 - $盅1
 - $終1
@@ -465,6 +466,27 @@ W
 S
   ==
   - $淙cung4
+  ==
+$$
+
+###+ 潀1 | _(1)Chung_ (zung1)
+
+$$.
+R
+  ⽔ + 11
+U
+  U+6F40
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $潀cung4 for the canonical entry.**
+  ++
+S
+  ==
+  - $潀cung4
   ==
 $$
 
