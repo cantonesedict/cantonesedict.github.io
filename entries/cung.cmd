@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cung
-* %date-modified --> 2025-08-31
+* %date-modified --> 2025-09-01
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -1193,6 +1193,7 @@ $$
 =={.modern}
 - $從4
 - $悰4
+- $松4
 - $淙4
 - $爞4
 - $琮4
@@ -1326,6 +1327,53 @@ S
   ==
   - $悰zung1
   ==
+$$
+
+### 松4 | _(4)Ts(')ung_ [[cung4]]
+
+$$
+R
+  ⽊ + 4
+U
+  U+677E
+F
+  ==
+  - [[F1.60 松]] 木名
+  ==
+W
+  ====
+  - [[Page~609 (1)松]]
+    ==
+    - The fir tree [[Kangxi: 木也 etc.]];
+    - an emblem of longevity;
+    - _(4)ts(')ung (1)cham_
+        [[cung4 zam1 松針]],
+        pine leaves;
+    - _(4)ts(')ung (1)h(e/)ung_ [[cung4 hoeng1 松香]]^
+        or
+      _(4)ts(')ung sh(u:)(6) (1)k(a/)u_ [[cung4 syu6 gaau1 松樹膠]],
+        rosin, pitch;
+    - _(4)ts(')ung (4)ming_
+        [[cung4 ming4 松？]],
+        concrete pieces of rosin picked from pines;
+    - _(4)ts(')ung (4)m(a/)u_
+        [[cung4 maau4 松茅]],
+        bunches of pine leaves;
+    - _(2)shui (4)ts(')ung (2)k(')(e/)ung_
+        [[seoi2 cung4 koeng5-2 水松蔃]],
+        corky roots of cedar;
+    - _(4)ts(')ung (2)tsz'_
+        [[cung4 zi2 松子]]
+        pine aments;
+    - _(4)ts(')ung chuk(7) (4)m(u/)i_
+        [[cung4 zuk1 mui4 松竹梅]],
+        the fir, bamboo, and plum, _met._ like three friends;
+    - _(4)Ts(')ung (1)kong (2)f(u/)_
+        [[cung4 gong1 fu2 松江府]],
+        the prefecture of Sungki(a/)ng [[松江]],
+        in which Sh(a/)ngh(a/)i [[上海]] lies.
+    ==
+  ====
 $$
 
 ###+ 淙4 | _(4)Ts(')ung_ (cung4)
