@@ -1542,6 +1542,10 @@ W
     [[Alternative form of 潀. **See $潀cung4 for the canonical entry.**]]
     --
   ====
+S
+  ==
+  - $潨zung1
+  ==
 $$
 
 ###+ 爞4 | _(4)Ch(')ung_ (cung4)

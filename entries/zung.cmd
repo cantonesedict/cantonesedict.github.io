@@ -56,6 +56,7 @@ $$
 - $樅1
 - $淙1
 - $潀1
+- $潨1
 - $琮1
 - $盅1
 - $終1
@@ -487,6 +488,27 @@ P
 S
   ==
   - $潀cung4
+  ==
+$$
+
+###+ 潨1 | _(1)Chung_ (zung1)
+
+$$.
+R
+  ⽔ + 12
+U
+  U+6F68
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 潀, and reading variation. **See $潀cung4 for the canonical entry.**
+  ++
+S
+  ==
+  - $潨cung4
   ==
 $$
 
