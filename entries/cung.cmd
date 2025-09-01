@@ -1191,6 +1191,7 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $叢4
 - $從4
 - $悰4
 - $松4
@@ -1205,6 +1206,50 @@ $$
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 叢4 | _(4)Ts(')ung_ [[cung4]]
+
+$$
+R
+  ⼜ + 16
+U
+  U+53E2
+A
+  ==
+  - 樷
+  ==
+F
+  ==
+  - [[F1.60 叢]] 聚也又林木茂盛也
+  - [[F1.60 樷]] ::[古]文叢字::
+  ==
+W
+  ====
+  - [[Page~609 (4)叢]]
+    ==
+    - A thicket, a bushy place;
+    - crowded, as trees;
+    - collected, assembled [[Kangxi: 聚也]] ~~in numbers~~;
+    - bushy;
+    - _(1)shang (4)ts(')ung k(o\)m(3) (1)to_
+        [[sang1 cung4 gam3 do1 生叢咁多]],
+        crowded like a grove, jammed, crowded;
+    - _(4)ts(')ung (4)lam_
+        [[cung4 lam4 叢林]],
+        a wood, a grove, a place of concours;
+    - _sz'(3) t(a/)i(6) (4)ts(')ung (4)lam_
+        [[sei3 daai6 cung4 lam4 四大叢林]],
+        the four large Budhist temples in Canton;
+    - _(4)lam (5)l(o\) yap(9) (1)f(a/) (4)ts(')ung_
+        [[lam4 lou5 jap6 faa1 cung4 臨老入花叢]],
+        to become depraved when old.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 占 to 古.
+  ==
+$$
 
 ### 從4 | _(4)Ts(')ung_ [[cung4]]
 
