@@ -49,10 +49,39 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $絀1
 - $黜1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 絀1 | _(1)Chut_ [[zeot1]]
+
+$$.
+R
+  ⽷ + 5
+U
+  U+7D40
+F
+  ==
+  - [[F2.55 黜]] 諄入聲貶斥也
+  - [[F2.55 絀]] 同上
+  ==
+W
+  ====
+  - [[Page~41 絀(7)]]
+    --
+    [[Reading variation. **See $絀zyut3 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 黜. **See $黜zeot1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $絀zyut3 (TODO)
+  ==
+$$
 
 ### 黜1 | _(1)Chut_ [[zeot1]]
 
@@ -63,7 +92,7 @@ U
   U+9EDC
 A
   ==
-  - 絀
+  - $絀1
   ==
 V
   ==
@@ -73,6 +102,7 @@ V
 F
   ==
   - [[F2.55 黜]] 諄入聲貶斥也
+  - [[F2.55 絀]] 同上
   ==
 W
   ====
@@ -90,6 +120,11 @@ W
     - _yuk(9) chut(7)_
         [[juk6 zeot1 辱黜]]
         degraded and ashamed.
+    ==
+  - [[Page~41 絀(7); here normalised to 黜]]
+    ==
+    - [[...]];
+    - used for the preceding [[黜]] [[Kangxi 絀: 同黜]].
     ==
   ====
 C
