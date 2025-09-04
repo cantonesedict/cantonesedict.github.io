@@ -947,6 +947,9 @@ window.onload = applyFilter;
     , zeon6 dei6-2
     , [盡地](/entries/zeon#cantonese-盡地)
   //
+    , zeot1
+    , [捽](/entries/zeot#cantonese-捽)
+  //
     , zeot1 zi1
     , [卒之](/entries/zeot#cantonese-卒之)
   //

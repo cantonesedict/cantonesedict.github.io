@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $卒1
 - $怵1
+- $捽1
 - $絀1
 - $黜1
 ==
@@ -152,6 +153,48 @@ S
   - $怵ceot1 (TODO)
   - $怵seot1 (TODO)
   ==
+$$
+
+###+ 捽1 | _Tsut(7)_ (zeot1)
+
+$$
+R
+  ⼿ + 8
+U
+  U+637D
+V
+  ==
+  - cyut3 (common)
+  - zyut6 (per 《廣韻》昨没切)
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - The reading _tsut(7)_ (zeot1) is not unattested;
+    《洪武正韻牋》 has the reading 卽律切, explained 說文持頭髪也 etc.
+  ==
+P
+  ++
+  1. To grasp (Kangxi: 手持也).
+  1. To pull out, to pluck out (Kangxi: 拔取也).
+  1. To conflict (Kangxi: 交對也).
+  1. To collide, to contact (Kangxi: 觸也).
+  ++
+E
+  ====
+  - 【捽】 (zeot1):
+    ++
+    1. To rub.
+       ==
+       - 捽乾淨 (zeot1 gon1 zeng6): "Rub [it] clean."
+       - 捽瘀血 (zeot1 jyu2 hyut3): "Rub [a] bruise."
+       - 唔好捽眼 (m4 hou2 zeot1 ngaan5): "Don't rub [the] eyes."
+       ==
+    ++
+  ====
 $$
 
 ### 絀1 | _Chut(7)_ [[zeot1]]
