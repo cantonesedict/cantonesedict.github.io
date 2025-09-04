@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 12-stroke radicals
-* %date-modified --> 2024-05-19
-* %copyright-prior-years -->
+* %date-modified --> 2025-09-04
+* %copyright-prior-years --> 2024--
 * %meta-description --> index of characters with 12-stroke radicals
 
 OrdinaryDictionaryReplacement: #.no-black-serif-note
@@ -78,6 +78,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Residual strokes
     ; Character entry links
 |:
+  //
+    , 5
+    ,
+      <nav class="sideways">
+      ==
+      - $黜zeot1
+      ==
+      </nav>
   //
     , 9
     ,
