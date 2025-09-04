@@ -12,12 +12,6 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 #{.williams} Chut. Tsut. [[zeot]]
 
-<nav class="sideways">
-=={.modern}
-- (Work in progress)
-==
-</nav>
-
 <## tones ##>
 <nav class="sideways">
 =={.modern}
