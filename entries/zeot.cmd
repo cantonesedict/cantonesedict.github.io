@@ -44,17 +44,69 @@ MP
 $$
 
 
-##{#1 .williams} (1)Chut [[zeot1 高陰入]]
+##{#1 .williams} (1)Chut (1)Tsut [[zeot1 高陰入]]
 
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $卒1
 - $怵1
 - $絀1
 - $黜1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 卒1 | _(1)Tsut_ [[zeot1]]
+
+$$
+R
+  ⼗ + 6
+U
+  U+5352
+F
+  ==
+  - [[F2.54 卒]] 終也又兵卒
+  ==
+W
+  ====
+  - [[Page~609 卒(7)]]
+    ==
+    - Those who execute orders [[Kangxi: 隸人給事者]];
+    - lictors, soldiers, underlings, menials;
+    - to conclude, to finish [[Kangxi: 盡也, 終盡也]];
+    - to die, to come to an end [[Kangxi: 大夫死曰卒]];
+    - to the end;
+    - _(1)ping tsut(7)_
+        [[bing1 zeot1 兵卒]]
+        soldiers;
+    - _(2)si(u/) tsut(7)_
+        [[siu2 zeot1 小卒]]
+        camp followers;
+    - _peng(6) tsut(7)_
+        [[beng6 zeot1 病卒]]
+        disease is mortal;
+    - _tsut(7) (4)wai sh(i/)n(6) sz'(6)_
+        [[zeot1 wai4 sin6 si6 卒為善士]]
+        to the last he was a good man.
+    ==
+  ====
+C
+  ==
+  - Williams' 病卒: That is, died of disease.
+  ==
+E
+  ====
+  - 【卒之】 (zeot1 zi1):
+    ++
+    1. Finally, eventually.
+    ++
+  ====
+S
+  ==
+  - $卒cyut3 (TODO)
+  ==
+$$
 
 ### 怵1 | _(1)Chut_ [[zeot1]]
 
