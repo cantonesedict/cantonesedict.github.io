@@ -49,11 +49,58 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $怵1
 - $絀1
 - $黜1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 怵1 | _(1)Chut_ [[zeot1]]
+
+$$
+R
+  ⼼ + 5
+U
+  U+6035
+V
+  ==
+  - ceot1 (per 《廣韻》丑律切)
+  ==
+F
+  ==
+  - [[F2.55 怵]] 怵惕恐懼悽愴
+  ==
+W
+  ====
+  - [[Page~41 怵(7)]]
+    ==
+    - Fear, terror [[Kangxi: 恐也]];
+    - to dread;
+    - [[...]];
+    <## - to tempt by hope of profit; (TODO: seot1 與訹通) ##>
+    - _chut(7) [t(')ik](7)_
+        [[zeot1 tik1 怵惕]]
+        timorous.
+    ==
+    --
+    ~~Also pronounced _tut_ [[deot]].~~
+    --
+  ====
+C
+  ==
+  - Williams' 怵惕: Corrected _tik(7)_ (dik1) to _t(')ik(7)_ (tik1).
+  ==
+P
+  ++
+  1. Pitiful, sorrowful (Kangxi: 悽愴也).
+  ++
+S
+  ==
+  - $怵ceot1 (TODO)
+  - $怵seot1 (TODO)
+  ==
+$$
 
 ### 絀1 | _(1)Chut_ [[zeot1]]
 
