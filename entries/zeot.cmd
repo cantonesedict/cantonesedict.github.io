@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeot
-* %date-modified --> 2023-08-05
-* %copyright-prior-years -->
+* %date-modified --> 2025-09-04
+* %copyright-prior-years --> "2023, "
 
 %%%
-
---{.modern}
-(From Page~41 & Page~713 (Chut) and Page~609 (Tsut) of the original onwards.)
---
 
 #{.williams} Chut. Tsut. [[zeot]]
 
@@ -21,3 +17,27 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Chut. [[Page~41, Page~713]]
+  - Tsut. [[Page~609]]
+  ==
+WP
+  ==
+  - Chut <span class="modern">= *[tɕʊt̚]</span>
+  - Tsut <span class="modern">= *[tsʊt̚]</span>
+  ==
+MP
+  ==
+  - zeot = [tsɵt̚], [tɕɵt̚] ((preferred))
+  ==
+$$
