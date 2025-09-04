@@ -44,7 +44,7 @@ MP
 $$
 
 
-##{#1 .williams} (1)Chut (1)Tsut [[zeot1 高陰入]]
+##{#1 .williams} Chut(7) Tsut(7) [[zeot1 高陰入]]
 
 <## tone-1-characters ##>
 <nav class="sideways">
@@ -57,7 +57,7 @@ $$
 </nav>
 <## /tone-1-characters ##>
 
-### 卒1 | _(1)Tsut_ [[zeot1]]
+### 卒1 | _Tsut(7)_ [[zeot1]]
 
 $$
 R
@@ -108,7 +108,7 @@ S
   ==
 $$
 
-### 怵1 | _(1)Chut_ [[zeot1]]
+### 怵1 | _Chut(7)_ [[zeot1]]
 
 $$
 R
@@ -154,7 +154,7 @@ S
   ==
 $$
 
-### 絀1 | _(1)Chut_ [[zeot1]]
+### 絀1 | _Chut(7)_ [[zeot1]]
 
 $$.
 R
@@ -186,7 +186,7 @@ S
   ==
 $$
 
-### 黜1 | _(1)Chut_ [[zeot1]]
+### 黜1 | _Chut(7)_ [[zeot1]]
 
 $$
 R
