@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [zyut3](#3)
+- [zyut6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -93,6 +94,10 @@ C
   ==
   - Williams' 拙筆: Corrected _pat(9)_ (bat6) to _pat(7)_ (bat1).
   ==
+S
+  ==
+  - $拙zyut6
+  ==
 $$
 
 ###+ 絀3 | _Ch(u:)t(8)_ (zyut3)
@@ -148,5 +153,37 @@ S
   ==
   - $絀ceot1
   - $絀zeot1
+  ==
+$$
+
+
+##{#6 .williams} <ins class="modern">Ch(u:)t(9)</ins> [[zyut6 陽入]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $拙6
+==
+</nav>
+<## /tone-6-characters ##>
+
+###+ 拙6 | _Ch(u:)t(9)_ (zyut6)
+
+$$.
+R
+  ⼿ + 5
+U
+  U+62D9
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $拙zyut3 for the canonical entry.**
+  ++
+S
+  ==
+  - $拙zyut3
   ==
 $$
