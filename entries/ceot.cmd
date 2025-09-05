@@ -43,6 +43,7 @@ $$
 =={.modern}
 - $出1
 - $怵1
+- $絀1
 - $黜1
 ==
 </nav>
@@ -184,6 +185,28 @@ S
   ==
   - $怵seot1 (TODO)
   - $怵zeot1
+  ==
+$$
+
+###+ 絀1 | _Ch(')ut(7)_ (ceot1)
+
+$$.
+R
+  ⽷ + 5
+U
+  U+7D40
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 黜, and reading variation. **See $黜zeot1 for the canonical entry.**
+  ++
+S
+  ==
+  - $絀zeot1
+  - $絀zyut3
   ==
 $$
 

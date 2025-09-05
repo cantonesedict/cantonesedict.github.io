@@ -346,9 +346,9 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $紾can2
       - {$紬cau1, $紬cau4}
+      - {$絀ceot1, $絀zeot1, $絀zyut3}
       - $紵cyu5
       - $紮zaat3
-      - {$絀zeot1, $絀zyut3}
       - $組zou2
       - $終zung1
       ==
