@@ -48,6 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $怵1
+- $黜1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -71,5 +72,26 @@ S
   ==
   - $怵seot1 (TODO)
   - $怵zeot1
+  ==
+$$
+
+###+ 黜1 | _Ch(')ut(7)_ (ceot1)
+
+$$.
+R
+  ⿊ + 5
+U
+  U+9EDC
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $黜zeot1 for the canonical entry.**
+  ++
+S
+  ==
+  - $黜zeot1
   ==
 $$
