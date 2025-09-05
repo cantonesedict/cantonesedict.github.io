@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceot
-* %date-modified --> 2023-08-02
-* %copyright-prior-years -->
+* %date-modified --> 2025-09-05
+* %copyright-prior-years --> "2023, "
 
 %%%
-
---{.modern}
-(From Page~42 of the original onwards.)
---
 
 #{.williams} Ch(')ut. [[ceot]]
 
@@ -21,3 +17,25 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Ch(')ut. [[Page~42]]
+  ==
+WP
+  ==
+  - Ch(')ut <span class="modern">= *[tɕʰʊt̚]</span>
+  ==
+MP
+  ==
+  - ceot = [tsʰɵt̚], [tɕʰɵt̚] ((preferred))
+  ==
+$$
