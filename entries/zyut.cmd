@@ -49,10 +49,51 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $拙3
 - $絀3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 拙3 | _Ch(u:)t(8)_ [[zyut3]]
+
+$$
+R
+  ⼿ + 5
+U
+  U+62D9
+V
+  ==
+  - zyut6 (common)
+  ==
+F
+  ==
+  - [[F2.24 拙]] 不巧也蠢拙
+  ==
+W
+  ====
+  - [[Page~42 拙(8)]]
+    ==
+    - Stupid, unskillful, unhandy, unapt [[Kangxi: 不巧也]];
+    - _(2)ch(')un ch(u:)t(8)_
+        [[ceon2 zyut3 蠢拙]]
+        stupid, inexpert;
+    - _ch(u:)t(8) (1)king_
+        [[zyut3 ging1 拙荊]],
+        a 'dull thorn,' i.~e. my wife;
+    - _ch(u:)t(8) pat[(7)]_
+        [[zyut3 bat1 拙筆]]
+        an unskillful penman;
+    - _ch(u:)t(8) (2)tsz'_
+        [[zyut3 zi2 拙子]]
+        my son.
+    ==
+  ====
+C
+  ==
+  - Williams' 拙筆: Corrected _pat(9)_ (bat6) to _pat(7)_ (bat1).
+  ==
+$$
 
 ###+ 絀3 | _Ch(u:)t(8)_ (zyut3)
 
