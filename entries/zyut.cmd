@@ -51,6 +51,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $拙3
+- $梲3
 - $絀3
 ==
 </nav>
@@ -97,6 +98,40 @@ C
 S
   ==
   - $拙zyut6
+  ==
+$$
+
+### 梲3 | _Ch(u:)t(8)_ [[zyut3]]
+
+$$
+R
+  ⽊ + 7
+U
+  U+68B2
+A
+  ==
+  - 棁
+  - 棳
+  ==
+F
+  ==
+  - [[F2.24 ::[梲]::]] 梁上短柱
+  ==
+W
+  ====
+  - [[Page~42 梲(8)]]
+    ==
+    - A joist to support a plate or girder [[Kangxi: 同棳梁上楹也, 梲侏儒柱也梁上短柱]];
+    - a sort of king-post.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword 梚 to 梲, and fixed missing stroke in 短.
+  ==
+S
+  ==
+  - $梲tyut3 (TODO)
   ==
 $$
 
