@@ -51,6 +51,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $剟3
+- ${𠭴=⿰叕出}3
 - $啜3
 - $拙3
 - $掇3
@@ -84,6 +85,28 @@ W
         to cut blocks and publish.
     ==
   ====
+$$
+
+###+ {𠭴=⿰叕出}3 | _Ch(u:)t(8)_ (zyut3)
+
+$$
+R
+  ⼜ + 11
+U
+  U+20B74
+A
+  ==
+  - $掇3
+  - 䂐
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Short (Kangxi: 吳人呼短物也).
+  ++
 $$
 
 ### 啜3 | _Ch(u:)t(8)_ [[zyut3]]
