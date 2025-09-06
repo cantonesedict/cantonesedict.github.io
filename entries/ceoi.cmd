@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2025-08-16
+* %date-modified --> 2025-09-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -776,11 +776,12 @@ S
 $$
 
 
-##{#3 .williams} Ts(')(u:)(3) Ts(')ui(3) [[ceoi3 陰去]]
+##{#3 .williams} Ts(')(u:)(3) Ts(')ui(3) <ins class="modern">Ts(')(u/)i(3)</ins> [[ceoi3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $啐3
 - $娶3
 - $毳3
 - $翠3
@@ -793,6 +794,41 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+###+ 啐3 | _Ts(')(u/)i(3)_ (ceoi3)
+
+$$
+R
+  ⼝ + 8
+U
+  U+5550
+V
+  ==
+  - seoi6 (per Fan Wan, common)
+  ==
+F
+  ==
+  - [[F2.24 啐 _Ts(u:)t(8)_ (zyut3)]] 尊入聲嘗入口也又咄啐呼也
+  - [[F2.57 啐 _Sui(6)_ (seoi6)]] 咄啐呼也驚也又嘗入口也
+  ==
+W
+  ====
+  - [[Page~609 啐(8) _Ts(u:)t(8)_ (zyut3); here corrected to _Ts(')(u/)i(3)_ (ceoi3)]]
+    ==
+    - To taste [[Kangxi: 嘗也, 嘗入口]], ~~to craunch~~;
+    - [[...]].
+    ==
+  ====
+P
+  ++
+  1. A berating puff (Kangxi: 咄啐嘑也).
+  ++
+S
+  ==
+  - $啐seoi6 (TODO)
+  - $啐zyut3
+  ==
+$$
 
 ### 娶3 | _Ts(')(u:)(3)_ [[ceoi3]]
 

@@ -131,7 +131,7 @@ W
   ====
   - [[Page~609 啐(8)]]
     ==
-    - [[...]]; <## To taste, to craunch; (TODO: correct to $啐ceoi3) ##>
+    - [[...]];
     - [[...]], the noise of sucking [[Kangxi: 吮聲]], ~~or swallowing with a gusto~~;
     - [[...]].
     ==
@@ -141,7 +141,7 @@ W
   ====
 S
   ==
-  - $啐ceoi3 (TODO)
+  - $啐ceoi3
   - $啐seoi6 (TODO)
   ==
 $$

@@ -151,6 +151,7 @@ For all radicals, see [Index of characters by radical](./).
       - {$啊aa1, $啊aa3}
       - {$啞aa1, $啞aa2, $啞ak1}
       - $唵am2
+      - {$啐ceoi3, $啐zyut3}
       - {$唨co1, $唨zo2}
       - $唱coeng3
       - $啋coi1
@@ -158,7 +159,6 @@ For all radicals, see [Index of characters by radical](./).
       - {$啫ze1, $啫ze3}
       - $啍zeon1
       - ${𫪦=⿰口知}zi3
-      - $啐zyut3
       - $啜zyut3
       ==
       </nav>
