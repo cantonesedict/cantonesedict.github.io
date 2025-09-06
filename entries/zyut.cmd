@@ -45,13 +45,14 @@ MP
 $$
 
 
-##{#3 .williams} Ch(u:)t(8) [[zyut3 低陰入]]
+##{#3 .williams} Ch(u:)t(8) Ts(u:)t(8) [[zyut3 低陰入]]
 
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
 - $剟3
 - ${𠭴=⿰叕出}3
+- $啐3
 - $啜3
 - $拙3
 - $掇3
@@ -111,6 +112,40 @@ P
   ++
 $$
 
+### 啐3 | _Ts(u:)t(8)_ [[zyut3]]
+
+$$
+R
+  ⼝ + 8
+U
+  U+5550
+V
+  ==
+  - zeot1 (per 《廣韻》子聿切 for onomatopoeic senses)
+  ==
+F
+  ==
+  - [[F2.24 啐]] 尊入聲嘗入口也又咄啐呼也
+  ==
+W
+  ====
+  - [[Page~609 啐(8)]]
+    ==
+    - [[...]]; <## To taste, to craunch; (TODO: correct to $啐ceoi3) ##>
+    - [[...]], the noise of sucking [[Kangxi: 吮聲]], ~~or swallowing with a gusto~~;
+    - [[...]].
+    ==
+    --
+    [[Otherwise, an alternative form of 啜 (for the vernacular "suck" sense). **See $啜zyut3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $啐ceoi3 (TODO)
+  - $啐seoi6 (TODO)
+  ==
+$$
+
 ### 啜3 | _Ch(u:)t(8)_ [[zyut3]]
 
 $$
@@ -120,6 +155,7 @@ U
   U+555C
 A
   ==
+  - $啐3 (for vernacular "suck" sense)
   - 諁 (for "talkative" sense)
   ==
 V
@@ -149,6 +185,14 @@ W
     --
     [[Otherwise, an alternative form of 歠. **See $歠zyut3 for the canonical entry.**]]
     --
+  - [[Page~609 啐(8) _Ts(u:)t(8)_; here normalised to 啜]]
+    ==
+    - [[...]];
+    - to suck, [[...]];
+    - _ts(u:)t(8) (1)kon tseng(6)_
+        [[zyut3 gon1 zeng6 啜乾淨]]
+        sucked it dry.
+    ==
   ====
 C
   ==
