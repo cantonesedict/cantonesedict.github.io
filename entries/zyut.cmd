@@ -50,6 +50,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $剟3
 - $啜3
 - $拙3
 - $梲3
@@ -58,6 +59,31 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 剟3 | _Ch(u:)t(8)_ [[zyut3]]
+
+$$
+R
+  ⼑ + 8
+U
+  U+525F
+F
+  ==
+  - [[F2.24 剟]] 取也
+  ==
+W
+  ====
+  - [[Page~42 剟(8)]]
+    ==
+    - To clip, to pare [[Kangxi: 刊也]], to cut off [[Kangxi: 割也 etc.]], to stab [[Kangxi: 刺也]];
+    - ~~to reject;~~
+    - to engrave;
+    - _ch(u:)t(8) ting(6)_
+        [[zyut3 ding6 剟訂]]
+        to cut blocks and publish.
+    ==
+  ====
+$$
 
 ### 啜3 | _Ch(u:)t(8)_ [[zyut3]]
 
