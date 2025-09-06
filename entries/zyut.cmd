@@ -53,6 +53,7 @@ $$
 - $剟3
 - $啜3
 - $拙3
+- $掇3
 - $梲3
 - $歠3
 - $絀3
@@ -200,6 +201,29 @@ S
   ==
   - $拙zyut6
   ==
+$$
+
+### 掇3 | _Ch(u:)t(8)_ [[zyut3]]
+
+$$
+R
+  ⼿ + 8
+U
+  U+6387
+F
+  ==
+  - [[F2.24 掇]] 採也拾也
+  ==
+W
+  ====
+  - [[Page~42 掇(8)]]
+    ==
+    - To gather, to take with the hand [[Kangxi: 拾取也]], to pluck [[Kangxi: 採也]], to seize.
+    ==
+    --
+    [[Otherwise, an alternative form of {𠭴=⿰叕出}. **See ${𠭴=⿰叕出}zyut3 for the canonical entry.**]]
+    --
+  ====
 $$
 
 ### 梲3 | _Ch(u:)t(8)_ [[zyut3]]
