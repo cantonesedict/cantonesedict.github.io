@@ -419,7 +419,7 @@ S
   ==
   - $綴zeoi3
   - $綴zeoi6
-  - $綴zyut6 (TODO)
+  - $綴zyut6
   ==
 $$
 
@@ -430,6 +430,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $拙6
+- $綴6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -452,5 +453,28 @@ P
 S
   ==
   - $拙zyut3
+  ==
+$$
+
+###+ 綴6 | _Ch(u:)t(9)_ (zyut6)
+
+$$.
+R
+  ⽷ + 8
+U
+  U+7DB4
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation (in 點綴). **See $綴zeoi3 for the canonical entry.**
+  ++
+S
+  ==
+  - $綴zeoi3
+  - $綴zeoi6
+  - $綴zyut3
   ==
 $$

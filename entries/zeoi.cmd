@@ -1069,7 +1069,7 @@ S
   ==
   - $綴zeoi6
   - $綴zyut3
-  - $綴zyut6 (TODO)
+  - $綴zyut6
   ==
 $$
 
@@ -1400,7 +1400,7 @@ S
   ==
   - $綴zeoi3
   - $綴zyut3
-  - $綴zyut6 (TODO)
+  - $綴zyut6
   ==
 $$
 
