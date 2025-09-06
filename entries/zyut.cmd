@@ -58,6 +58,7 @@ $$
 - $梲3
 - $歠3
 - $絀3
+- $綴3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -380,6 +381,45 @@ S
   ==
   - $絀ceot1
   - $絀zeot1
+  ==
+$$
+
+### 綴3 | _Ch(u:)t(8)_ [[zyut3]]
+
+$$
+R
+  ⽷ + 8
+U
+  U+7DB4
+F
+  ==
+  - [[F2.24 綴]] 聯也又舞列也又止也禮記綴兆舒疾樂之文也
+  - [[F2.57 綴 _Chui(6)_ (zeoi6)]] 冠系又聯也
+  ==
+W
+  ====
+  - [[Page~42 綴(8)]]
+    ==
+    - [[...]];
+    - to stop;
+    - [[...]].
+    ==
+    --
+    [[Alternative form of 輟. See $輟zyut3.]]
+    --
+    --
+    [[Otherwise, a reading variation (in 點綴). **See $綴zeoi3 for the canonical entry.**]]
+    --
+  ====
+P
+  ++
+  1. To bind (Kangxi: 綴猶拘也).
+  ++
+S
+  ==
+  - $綴zeoi3
+  - $綴zeoi6
+  - $綴zyut6 (TODO)
   ==
 $$
 

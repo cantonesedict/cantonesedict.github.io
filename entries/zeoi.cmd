@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2025-08-16
+* %date-modified --> 2025-09-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1034,7 +1034,8 @@ V
   ==
 F
   ==
-  - [[F2.57 綴 _Chui(6)_]] 冠系又聯也
+  - [[F2.24 綴 _Ch(u:)t(8)_ (zyut3)]] 聯也又舞列也又止也禮記綴兆舒疾樂之文也
+  - [[F2.57 綴 _Chui(6)_ (zeoi6)]] 冠系又聯也
   ==
 W
   ====
@@ -1046,11 +1047,28 @@ W
     - mixed, variegated [[Kangxi: 綴雜彩有文之具]];
     - to oversee royal robes [[Kangxi: 掌衣服 etc.]].
     ==
+  - [[Page~42 綴(8) _Ch(u:)t(8)_ (zyut3); here corrected to _Chui(3)_ (zeoi3)]]
+    ==
+    - To connect, to join;
+    - [[...]];
+    - a band of posture-makers.
+    ==
   ====
+C
+  ==
+  - Williams' "a band of posture-makers": This is perhaps a rendering
+    of Fan Wan 舞列也, or of Kangxi 綴表也所以表行列也,
+    the latter of which is (not particularly helpful) commentary
+    for 《禮樂記》行其綴兆.
+  ==
+P
+  ++
+  1. Undeviating (Kangxi: 不乖離之貌).
+  ++
 S
   ==
   - $綴zeoi6
-  - $綴zyut3 (TODO)
+  - $綴zyut3
   - $綴zyut6 (TODO)
   ==
 $$
@@ -1368,6 +1386,7 @@ U
   U+7DB4
 F
   ==
+  - [[F2.24 綴 _Ch(u:)t(8)_ (zyut3)]] 聯也又舞列也又止也禮記綴兆舒疾樂之文也
   - [[F2.57 綴]] 冠系又聯也
   ==
 W
@@ -1380,7 +1399,7 @@ W
 S
   ==
   - $綴zeoi3
-  - $綴zyut3 (TODO)
+  - $綴zyut3
   - $綴zyut6 (TODO)
   ==
 $$
