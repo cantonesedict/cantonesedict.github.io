@@ -1147,7 +1147,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $苧cyu5
-      - $茁zaat3
+      - {$茁zaat3, $茁zyut3}
       - $苴zeoi1
       ==
       </nav>

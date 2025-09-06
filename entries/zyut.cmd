@@ -61,6 +61,7 @@ $$
 - $歠3
 - $絀3
 - $綴3
+- $茁3
 - $輟3
 ==
 </nav>
@@ -488,6 +489,43 @@ S
   - $綴zeoi3
   - $綴zeoi6
   - $綴zyut6
+  ==
+$$
+
+###+ 茁3 | _Ch(u:)t(8)_ (zyut3)
+
+$$
+R
+  ⾋ + 5
+U
+  U+8301
+V
+  ==
+  - zaat3 (alternative per 《廣韻》鄒滑切)
+  ==
+F
+  ==
+  - [[F2.72 茁 _Ch(a/)t(8)_ (zaat3)]] 肥壯貌
+  ==
+W
+  ====
+  - [[Page~24|n67 茁(8) _Ch(a/)t(8)_ (zaat3); here normalised to _Ch(u:)t(8)_ (zyut3)]]
+    ==
+    - Grass or plants starting out of the ground [[Kangxi: 草初生貌]];
+    - fat, hearty, vigorous, said of cattle;
+    - _(2)ts(')(o\) [ch(u:)t](8) (4)k(')(i/) (4)ng(a/)_
+        [[cou2 zyut3 kei4 ngaa4 草茁其芽]],
+        the grass is sprouting.
+    ==
+  ====
+C
+  ==
+  - Williams' "fat, hearty, vigorous": This renders Fan Wan 肥壯貌.
+    The same sense in Kangxi is explained 茁生長貌, which is better rendered "grown".
+  ==
+S
+  ==
+  - $茁zaat3
   ==
 $$
 
