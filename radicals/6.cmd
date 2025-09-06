@@ -359,6 +359,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $紫zi2
+      - $絕zyut6
       ==
       </nav>
   //

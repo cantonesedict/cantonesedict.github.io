@@ -562,12 +562,13 @@ W
 $$
 
 
-##{#6 .williams} <ins class="modern">Ch(u:)t(9)</ins> [[zyut6 陽入]]
+##{#6 .williams} <ins class="modern">Ch(u:)t(9)</ins> Ts(u:)t(9) [[zyut6 陽入]]
 
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
 - $拙6
+- $絕6
 - $綴6
 ==
 </nav>
@@ -592,6 +593,93 @@ S
   ==
   - $拙zyut3
   ==
+$$
+
+### 絕6 | _Ts(u:)t(9)_ [[zyut6]]
+
+$$
+R
+  ⽷ + 6
+U
+  U+7D55
+A
+  ==
+  - 絶
+  ==
+F
+  ==
+  - [[F2.25 絶]] ::[斷]絶[滅]絶又最也::
+  ==
+W
+  ====
+  - [[Page~609 絕(9)]]
+    ==
+    - To interrupt a connection with, to cut off a thread [[Kangxi: 斷絲]];
+    - to interrupt;
+    - to sunder, to break off [[Kangxi: 斷也]], to terminate;
+    - to exterminate, to utterly destroy [[Kangxi: 滅也]];
+    - to renounce, to abjure;
+    - to cross water [[Kangxi: 絕度也, 絕過也]];
+    - to overpass;
+    - ~~shooting athwart, like a meteor;~~
+    - a superlative, very, extremely, entirely, most;
+    - a stanzas of four lines;
+    - _sh(a/)t(8) ts(u:)t(9)_
+        [[saat3 zyut6 殺絕]]
+        to kill every one;
+    - _mi(u/)(6) ts(u:)t(9)_
+        [[miu6 zyut6 妙絕]]
+        superior to all, finest;
+    - _ts(u:)t(9) shik(7)_
+        [[zyut6 sik1 絕色]]
+        exceedingly beautiful;
+    - _ts(u:)t(9) (u/)(6)_ [[zyut6 wu6 絕戶]]
+        or
+      _ts(u:)t(9) hau(6)_ [[zyut6 hau6 絕後]]
+        leaving no heir, posterity cut off;
+    - _ts(u:)t(9) (4)m(o\) (2)h(o\) ch(')(u:)(3)_
+        [[zyut6 mou4 hou2 cyu3 絕無好處]]
+        no good luck at all;
+        ~~by no means a good place;~~
+    - _[(5)t(')(u:)n] ts(u:)t(9)_
+        [[tyun5 zyut6 斷絕]]
+        to stop, as a ration;
+    - _ts(u:)t(9) l(o\)(6)_
+        [[zyut6 lou6 絕路]]
+        the road is stopped;
+        ~~resources are~~ all cut off;
+    - _(2)kon t(o\)(3) ts(u:)t(9) (4)lung (5)[leng]_
+        [[gon2 dou3 zyut6 lung4 leng5 趕到絕龍嶺]],
+        I am driven to the edge, reduced to the last extremity;
+    - _(5)'ng ts(u:)t(9)_
+        [[ng5 zyut6 五絕]]
+        a stanzas in pentameters;
+    - _m(a/)(6) pat(7) ts(u:)t(9) (2)hau_
+        [[maa6 bat1 zyut6 hau2 罵不絕口]],
+        he never ceases to rail;
+    - _(1)t(')(i/)n (4)m(o\) ts(u:)t(9) (4)yan (1)ch(i/) l(o\)(6)_
+        [[tin1 mou4 zyut6 jan4 zi1 lou6 天無絕人之路]]
+        heaven never intends to cut off ~~men's resources~~;
+    - _ts(u:)t(9) m(a/)i(6)_
+        [[zyut6 maai6 絕賣]]
+        a final sale, as land never to be redeemed[.]
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed missing strokes in 斷 and 滅.
+  - Williams' "a superlative": Better rendered "absolutely".
+  - Willimas' 斷絕: Corrected _t(u:)n(6)_ (dyun6 去聲) to _(5)t(')(u:)n_ (tyun5 上聲).
+  - Williams' 趕到絕龍嶺: Changed _(5)ling_ (ling5) to vernacular reading _(5)leng_ (leng5).
+  - Williams' 天無絕人之路: Here, "men's resources" should be rendered "man".
+    The whole phrase is better rendered "Heaven [lays] no path that cuts off man".
+  ==
+P
+  ++
+  1. Desperate, dire, extreme.
+  1. Remote, isolated.
+  1. To refuse.
+  ++
 $$
 
 ###+ 綴6 | _Ch(u:)t(9)_ (zyut6)
