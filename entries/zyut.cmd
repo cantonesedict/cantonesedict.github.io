@@ -59,6 +59,7 @@ $$
 - $歠3
 - $絀3
 - $綴3
+- $輟3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -401,11 +402,11 @@ W
   - [[Page~42 綴(8)]]
     ==
     - [[...]];
-    - to stop;
+    - to stop [[Kangxi: 綴猶止也]];
     - [[...]].
     ==
     --
-    [[Alternative form of 輟. See $輟zyut3.]]
+    [[Alternative form of 輟 (for the "stop" sense). See $輟zyut3.]]
     --
     --
     [[Otherwise, a reading variation (in 點綴). **See $綴zeoi3 for the canonical entry.**]]
@@ -421,6 +422,38 @@ S
   - $綴zeoi6
   - $綴zyut6
   ==
+$$
+
+### 輟3 | _Ch(u:)t(8)_ [[zyut3]]
+
+$$
+R
+  ⾞ + 8
+U
+  U+8F1F
+A
+  ==
+  - $綴3 (for "stop" sense)
+  ==
+V
+  ==
+  - zyut6 (common)
+  ==
+F
+  ==
+  - [[F2.24 輟]] 作輟止也
+  ==
+W
+  ====
+  - [[Page~42 輟(8)]]
+    ==
+    - To stop [[Kangxi: 已也, 止也, 歇也]];
+    - a carriage repaired [[Kangxi: 車小缺復合者]];
+    - _ch(u:)t(8) (1)kung_
+        [[zyut3 gung1 輟工]],
+        to stop work, to rest.
+    ==
+  ====
 $$
 
 
