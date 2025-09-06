@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyut
-* %date-modified --> 2025-09-05
+* %date-modified --> 2025-09-06
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -50,12 +50,86 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $啜3
 - $拙3
 - $梲3
 - $絀3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 啜3 | _Ch(u:)t(8)_ [[zyut3]]
+
+$$
+R
+  ⼝ + 8
+U
+  U+555C
+A
+  ==
+  - 諁 (for "talkative" sense)
+  ==
+V
+  ==
+  - cyut3 (per 《廣韻》昌恱切 for "taste/sip" sense)
+  - zyut3-1 (for vernacular "kiss" sense)
+  ==
+F
+  ==
+  - [[F2.24 啜]] 餔啜飮也嘗也
+  ==
+W
+  ====
+  - [[Page~42 ::啜(8)~~歠(8)~~::]]
+    ==
+    - To sob [[Kangxi: 泣貌]], to talk incessantly [[Kangxi: 言多不止]];
+    - to taste [[Kangxi: 嘗也, 啜茹也, 啜者拾食]], [[...]];
+    - to kiss;
+    - [[...]];
+    - _ch(u:)t(8) [(5)]h(a/)_
+        [[zyut3 haa5 啜吓]],
+        to sip;
+    - _ch(u:)t(7) m(i/)n(6) (1)ch(u:)_
+        [[zyut1 min6 zyu1 啜面珠]],
+        to kiss the cheeks.
+    ==
+    --
+    [[Otherwise, an alternative form of 歠. **See $歠zyut3 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Williams does not provide separate entries for 啜 (taste/sip) and $歠8 (drink).
+    Kangxi proscribes interchanging them in its entry for 歠.
+    I have split things up accordingly.
+  - Williams' 啜吓: Corrected _(2)h(a/)_ (haa2) to _(5)h(a/)_ (haa5).
+  ==
+P
+  ++
+  1. To sip.
+  ++
+E
+  ====
+  - 【啜-suck】 (zyut3):
+    ++
+    1. To suck.
+       ==
+       - 啜手指公 (zyut3 sau2 zi2 gung1): "Suck [the] thumb."
+       ==
+    1. To be stuck due to the friction caused by suction, tightness, or clinging.
+       ==
+       - 衫袖啜住 (saam1 zau6 zyut3 zyu6): "[The] shirt-sleeve [is] stuck."
+       ==
+    ++
+  - 【啜-kiss】 (zyut3, zyut3-1):
+    ++
+    1. To kiss.
+       ==
+       - 啜我一啖 (zyut3-1 ngo5 jat1 daam6): "Kiss me once."
+       ==
+    ++
+  ====
+$$
 
 ### 拙3 | _Ch(u:)t(8)_ [[zyut3]]
 
