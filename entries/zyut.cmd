@@ -53,6 +53,7 @@ $$
 - $啜3
 - $拙3
 - $梲3
+- $歠3
 - $絀3
 ==
 </nav>
@@ -82,8 +83,8 @@ W
   ====
   - [[Page~42 ::啜(8)~~歠(8)~~::]]
     ==
-    - To sob [[Kangxi: 泣貌]], to talk incessantly [[Kangxi: 言多不止]];
-    - to taste [[Kangxi: 嘗也, 啜茹也, 啜者拾食]], [[...]];
+    - To sob [[Kangxi 啜: 泣貌]], to talk incessantly [[Kangxi 啜: 言多不止]];
+    - to taste [[Kangxi 啜: 嘗也, 啜茹也, 啜者拾食]], [[...]];
     - to kiss;
     - [[...]];
     - _ch(u:)t(8) [(5)]h(a/)_
@@ -99,7 +100,7 @@ W
   ====
 C
   ==
-  - Williams does not provide separate entries for 啜 (taste/sip) and $歠8 (drink).
+  - Williams does not provide separate entries for 啜 (taste/sip) and $歠3 (drink).
     Kangxi proscribes interchanging them in its entry for 歠.
     I have split things up accordingly.
   - Williams' 啜吓: Corrected _(2)h(a/)_ (haa2) to _(5)h(a/)_ (haa5).
@@ -207,6 +208,50 @@ S
   ==
   - $梲tyut3 (TODO)
   ==
+$$
+
+### 歠3 | _Ch(u:)t(8)_ [[zyut3]]
+
+$$
+R
+  ⽋ + 15
+U
+  U+6B60
+A
+  ==
+  - $啜3
+  ==
+V
+  ==
+  - cyut3 (per 《廣韻》昌恱切)
+  ==
+F
+  ==
+  - [[F2.24 啜]] 餔啜飮也嘗也
+  ==
+W
+  ====
+  - [[Page~42 啜(8)歠(8)]]
+    ==
+    - [[...]];
+    - [[...]], to drink [[Kangxi 歠: 飮也]];
+    - [[...]];
+    - _(4)lau ch(u:)t(8)_
+        [[lau4 zyut3 流歠]]
+        to swill down [[Kangxi 歠: 流歠大歠嫌欲疾也]] ~~with a noise~~;
+    - [[...]].
+    ==
+  ====
+C
+  ==
+  - Williams does not provide separate entries for $啜3 (taste/sip) and 歠 (drink).
+    Kangxi proscribes interchanging them in its entry for 歠.
+    I have split things up accordingly.
+  ==
+P
+  ++
+  1. To drink in great gulps (Kangxi 歠: 大飮也).
+  ++
 $$
 
 ###+ 絀3 | _Ch(u:)t(8)_ (zyut3)
