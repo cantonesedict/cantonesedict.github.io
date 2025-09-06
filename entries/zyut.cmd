@@ -54,6 +54,7 @@ $$
 - ${𠭴=⿰叕出}3
 - $啐3
 - $啜3
+- $嘬3
 - $拙3
 - $掇3
 - $梲3
@@ -156,6 +157,7 @@ U
 A
   ==
   - $啐3 (for vernacular "suck" sense)
+  - $嘬3 (for vernacular "suck" sense)
   - 諁 (for "talkative" sense)
   ==
 V
@@ -226,6 +228,27 @@ E
        ==
     ++
   ====
+$$
+
+###+ 嘬3 | _Ch(u:)t(8)_ (zyut3)
+
+$$.
+R
+  ⼝ + 12
+U
+  U+562C
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 啜 (for the vernacular "suck" sense). **See $啜zyut3 for the canonical entry.**
+  ++
+S
+  ==
+  - $嘬caai3
+  ==
 $$
 
 ### 拙3 | _Ch(u:)t(8)_ [[zyut3]]

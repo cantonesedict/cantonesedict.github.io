@@ -209,7 +209,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $嘬caai3
+      - {$嘬caai3, $嘬zyut3}
       - ${𠾵=⿰口揸}zaa1
       - $嘲zaau1
       - {$噍ziu1, $噍ziu6}
