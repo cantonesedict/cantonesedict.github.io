@@ -48,6 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $撮3
+- $蕝3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -109,4 +110,33 @@ P
   1. To extract.
   1. To pull (Kangxi: 挽也).
   ++
+$$
+
+### [蕝]3 | _Ts(')(u:)t(8)_ [[cyut3]]
+
+$$.
+R
+  ⾋ + 12
+U
+  U+855D
+H
+  May appear as either ⿱艹絕 (assumed here) or ⿱艹絶,
+  depending on the font.
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~610 ::[蕝](8)蕞(8)::]]
+    --
+    [[Reading variation. **See $蕝zyut3 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Williams misprints 蕝 as ⿱艹⿰糸邑; here corrected.
+  ==
+S
+  ==
+  - $蕝zyut3
+  ==
 $$

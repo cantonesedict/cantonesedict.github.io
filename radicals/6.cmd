@@ -1236,9 +1236,9 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - {$蕝cyut3, $蕝zyut3}
       - ${𦻐=⿱艹焯}zaau3
       - $蕉ziu1
-      - $蕝zyut3
       ==
       </nav>
   //

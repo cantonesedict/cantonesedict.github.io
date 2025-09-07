@@ -540,13 +540,14 @@ A
   ==
 V
   ==
+  - cyut3 (per Williams)
   - zyut6 (common)
   ==
 F
   [[Not present]]
 W
   ====
-  - [[Page~610 ::[蕝](8)蕞(8):: _Ts(')(u:)t(8)_ (cyut3); here corrected to _Ts(u:)t(8)_ (zyut3)]]
+  - [[Page~610 ::[蕝](8)蕞(8):: _Ts(')(u:)t(8)_ (cyut3); here normalised to _Ts(u:)t(8)_ (zyut3)]]
     ==
     - A bundle or sheaf of coarse sedge
       used for straining or pouring spirits through [[Kangxi 蕝: ::蕝謂束茅而立之所以[縮]酒::, 通蕞]].
@@ -558,6 +559,8 @@ W
 C
   ==
   - Williams misprints 蕝 as ⿱艹⿰糸邑; here corrected.
+  - Williams' reading of _ts(')(u:)t(8)_ (cyut3) takes after
+    the Fan Wan reading for 蕞 in the unrelated sense of "small".
   - Williams' "used for straining or pouring spirits through":
     This is a faithful rendering of Kangxi ::所以[縮]酒::.
     However, Kangxi does not give the sense from 《說文》, supplemented below.
@@ -567,6 +570,10 @@ P
   1. Bundled thatch used to indicate the place of attendees
      in a meeting (per 《說文》朝會束茅表位曰蕝).
   ++
+S
+  ==
+  - $蕝cyut3
+  ==
 $$
 
 ### 輟3 | _Ch(u:)t(8)_ [[zyut3]]
