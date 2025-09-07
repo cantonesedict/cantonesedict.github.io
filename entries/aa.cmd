@@ -707,7 +707,7 @@ E
     1. A vocative particle, especially used before asking a question.
        ==
        - 爹爹呀 (de1 de1 a4): "Daddy," (followed by a question).
-       - 女呀 (aa3 neoi5-2 a4): "Daughter," (followed by a question).
+       - 女呀 (neoi5-2 a4): "Daughter," (followed by a question).
        ==
     ++
   ====
