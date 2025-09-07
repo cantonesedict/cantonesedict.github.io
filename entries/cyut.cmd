@@ -47,12 +47,57 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $卒3
 - $撮3
 - $蕝3
 - $蕞3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 卒3 | _Ts(')(u:)t(8)_ [[cyut3]]
+
+$$
+R
+  ⼗ + 6
+U
+  U+5352
+F
+  ==
+  - [[F2.24 卒]] ::急也[速]也::
+  ==
+W
+  ====
+  - [[Page~610 卒(8)]]
+    ==
+    - An adverb, hastily, suddenly, abruptly [[Kangxi: 急也, 匆遽之貌]];
+    - urgently;
+    - _ts(')(u:)t(8) kap(7)_
+        [[cyut3 gap1 卒急]]
+        in a hurry;
+    - _ts(')(u:)t(8) ts(')(u:)t(8)_
+        [[cyut3 cyut3 卒卒]]
+        expeditiously;
+    - _ts(')(u:)t(8) (4)(i/)n (4)loi t(o\)(3)_
+        [[cyut3 jin4 loi4 dou3 卒然來到]]
+        he suddenly came upon one;
+    - _ts(')(u:)t(8) (4)(i/)n (1)k(a/)n_
+        [[cyut3 jin4 gaan1 卒然間]],
+        all in a hurry.
+    ==
+    --
+    [[Alternative form of 猝 (for the "abruptly/hastily" senses). See $猝cyut3.]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected {𬨮=⿺辶東} to 速.
+  ==
+S
+  ==
+  - $卒zeot1
+  ==
+$$
 
 ### 撮3 | _Ts(')(u:)t(8)_ [[cyut3]]
 

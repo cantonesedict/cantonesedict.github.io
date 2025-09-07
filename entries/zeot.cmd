@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeot
-* %date-modified --> 2025-09-05
+* %date-modified --> 2025-09-07
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -99,7 +99,7 @@ E
   ====
 S
   ==
-  - $卒cyut3 (TODO)
+  - $卒cyut3
   ==
 $$
 
