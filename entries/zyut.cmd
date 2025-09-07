@@ -596,7 +596,7 @@ P
 S
   ==
   - $蕞cyut3
-  - $蕞zeoi3 (TODO)
+  - $蕞zeoi3
   ==
 $$
 

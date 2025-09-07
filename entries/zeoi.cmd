@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2025-09-06
+* %date-modified --> 2025-09-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -897,6 +897,7 @@ $$
 - $最3
 - $沮3
 - $綴3
+- $蕞3
 - $足3
 - $醉3
 ==
@@ -1070,6 +1071,43 @@ S
   - $綴zeoi6
   - $綴zyut3
   - $綴zyut6
+  ==
+$$
+
+### 蕞3 | _Tsui(3)_ [[zeoi3]]
+
+$$
+R
+  ⾋ + 12
+U
+  U+855E
+V
+  ==
+  - cyut3 (per Fan Wan)
+  - zeoi6 (per 《廣韻》才外切)
+  ==
+F
+  ==
+  - [[F2.24 蕞 _Ts(')(u:)t(8)_ (cyut3)]] 小國曰蕞爾
+  ==
+W
+  ====
+  - [[Page~610 ::[蕝](8)蕞(8)::]]
+    --
+    [[...]]
+    --
+    ==
+    - The second is otherwise read _tsui(3)_ [[zeoi3]];
+    - small, vile, base, insignificant [[Kangxi 蕞: 小貌]];
+    - ~~_tsui(3) ts(u:)(6)_
+        [[zeoi3 zeoi6 蕞聚]]
+        to collect together.~~
+    ==
+  ====
+S
+  ==
+  - $蕞cyut3
+  - $蕞zyut3
   ==
 $$
 
