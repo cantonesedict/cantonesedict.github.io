@@ -121,7 +121,7 @@ E
     ++
     1. A filler used to express uncertainty or hesitation.
        ==
-       - 食㖡生菜啦 (sik6 e6... saang1 coi3 la1): "[Let's] eat erm... lettuce."
+       - 飲㖡香片啦 (jam2 e6... hoeng1 pin3-2 la1): "[We'll] drink erm... jasmine [tea]."
        ==
     ++
   ====
