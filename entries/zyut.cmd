@@ -561,6 +561,7 @@ C
   - Williams misprints 蕝 as ⿱艹⿰糸邑; here corrected.
   - Williams' reading of _ts(')(u:)t(8)_ (cyut3) takes after
     the Fan Wan reading for 蕞 in the unrelated sense of "small".
+    See $蕞cyut3.
   - Williams' "used for straining or pouring spirits through":
     This is a faithful rendering of Kangxi ::所以[縮]酒::.
     However, Kangxi does not give the sense from 《說文》, supplemented below.

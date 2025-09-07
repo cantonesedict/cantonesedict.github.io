@@ -49,6 +49,7 @@ $$
 =={.modern}
 - $撮3
 - $蕝3
+- $蕞3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -138,5 +139,33 @@ C
 S
   ==
   - $蕝zyut3
+  ==
+$$
+
+### 蕞3 | _Ts(')(u:)t(8)_ [[cyut3]]
+
+$$.
+R
+  ⾋ + 12
+U
+  U+855E
+F
+  ==
+  - [[F2.24 蕞]] 小國曰蕞爾
+  ==
+W
+  ====
+  - [[Page~610 ::[蕝](8)蕞(8)::]]
+    --
+    [[Alternative form of 蕝, and reading variation. **See $蕝zyut3 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, a reading variation. **See $蕞zeoi3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $蕞zeoi3 (TODO)
+  - $蕞zyut3 (TODO)
   ==
 $$
