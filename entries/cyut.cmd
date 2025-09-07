@@ -49,6 +49,7 @@ $$
 =={.modern}
 - $卒3
 - $撮3
+- $猝3
 - $蕝3
 - $蕞3
 ==
@@ -156,6 +157,39 @@ P
   1. To extract.
   1. To pull (Kangxi: 挽也).
   ++
+$$
+
+### 猝3 | _Ts(')(u:)t(8)_ [[cyut3]]
+
+$$
+R
+  ⽝ + 8
+U
+  U+731D
+A
+  ==
+  - $卒3 (for "abruptly/hastily" senses)
+  ==
+F
+  ==
+  - [[F2.24 猝]] 倉猝暴疾貌
+  ==
+W
+  ====
+  - [[Page~610 猝(8)]]
+    --
+    Similar to the last [[卒]].
+    --
+    ==
+    - A dog rushing from a cover [[Kangxi: 犬从艸暴出逐人也]];
+    - abrupt [[Kangxi: ::言倉卒[...]突也::]];
+    - fierce, precipitate [[Kangxi: 暴疾也]];
+    - _(1)ts(')ong ts(')(u:)t(8)_
+        [[cong1 cyut3 倉猝]]
+        impetuous;
+        ~~perplexed driven by many affairs~~.
+    ==
+  ====
 $$
 
 ### [蕝]3 | _Ts(')(u:)t(8)_ [[cyut3]]

@@ -1940,6 +1940,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $猜caai1
       - $猖coeng1
+      - $猝cyut3
       - $猪zyu1
       ==
       </nav>
