@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2025-07-20
+* %date-modified --> 2025-09-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -721,7 +721,7 @@ S
 $$
 
 
-##{#6 .modern} (A/)(6) (aa6 陽去)
+##{#6 .williams} (A/)(6) [[aa6 陽去]]
 
 <## tone-6-characters ##>
 <nav class="sideways">
@@ -731,7 +731,7 @@ $$
 </nav>
 <## /tone-6-characters ##>
 
-###+ 呀6 | _(A/)(6)_ (aa6)
+### 呀6 | _(A/)(6)_ [[aa6]]
 
 $$
 R
