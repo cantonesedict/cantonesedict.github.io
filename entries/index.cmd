@@ -220,7 +220,7 @@ See also: [Index of Cantonese terms by Jyutping](/terms/).
 
 <nav>
 =={.modern}
-- $e (work in progress)
+- $e
 ==
 </nav>
 
