@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ai
-* %date-modified --> 2025-07-20
+* %date-modified --> 2025-09-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -131,6 +131,10 @@ W
     [[Alternative form of 哎. **See $哎ai1 for the canonical entry.**]]
     --
   ====
+S
+  ==
+  - ${𫫃=⿰口挨}e1
+  ==
 $$
 
 
