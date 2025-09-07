@@ -57,6 +57,7 @@ $$
 - $綴3
 - $茁3
 - $蕝3
+- $蕞3
 - $輟3
 ==
 </nav>
@@ -536,7 +537,7 @@ H
   depending on the font.
 A
   ==
-  - 蕞
+  - $蕞3
   ==
 V
   ==
@@ -574,6 +575,28 @@ P
 S
   ==
   - $蕝cyut3
+  ==
+$$
+
+###+ 蕞3 | _Ts(u:)t(8)_ (zyut3)
+
+$$.
+R
+  ⾋ + 12
+U
+  U+855E
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 蕝. **See $蕝zyut3 for the canonical entry.**
+  ++
+S
+  ==
+  - $蕞cyut3
+  - $蕞zeoi3 (TODO)
   ==
 $$
 

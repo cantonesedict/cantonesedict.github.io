@@ -166,6 +166,6 @@ W
 S
   ==
   - $蕞zeoi3 (TODO)
-  - $蕞zyut3 (TODO)
+  - $蕞zyut3
   ==
 $$
