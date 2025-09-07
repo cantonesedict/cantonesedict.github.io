@@ -164,7 +164,20 @@ V
 F
   [[Not present]]
 W
-  [[Not present]]
+  ====
+  - [[Page~610 捽(8) _Ts(')(u:)t(8)_ (cyut3); here normalised to _Tsut(7)_ (zeot1)]]
+    ==
+    - To grasp, to clutch, to seize [[Kangxi: 手持也]], as by the nape;
+    - to butt, to push [[Kangxi: 觸也]];
+    - to pluck out [[Kangxi: 拔取也]];
+    - _ts(')(u:)t(8) (4)k(')(i/) f(a/)t(8)_
+        [[cyut3 kei4 faat3 捽其髮]]
+        to clench his hair;
+    - _ts(')(u:)t(8) (2)keng_
+        [[cyut3 geng2 捽頸]],
+        to take by the nape.
+    ==
+  ====
 C
   ==
   - The reading _tsut(7)_ (zeot1) is not unattested;
@@ -172,10 +185,7 @@ C
   ==
 P
   ++
-  1. To grasp (Kangxi: 手持也).
-  1. To pull out, to pluck out (Kangxi: 拔取也).
   1. To conflict (Kangxi: 交對也).
-  1. To collide, to contact (Kangxi: 觸也).
   ++
 E
   ====
@@ -189,6 +199,10 @@ E
        ==
     ++
   ====
+S
+  ==
+  - $捽cyut3
+  ==
 $$
 
 ### 絀1 | _Chut(7)_ [[zeot1]]

@@ -48,6 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $卒3
+- $捽3
 - $撮3
 - $猝3
 - $蕝3
@@ -97,6 +98,28 @@ C
 S
   ==
   - $卒zeot1
+  ==
+$$
+
+### 捽3 | _Ts(')(u:)t(8)_ [[cyut3]]
+
+$$.
+R
+  ⼿ + 8
+U
+  U+637D
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~610 捽(8)]]
+    --
+    [[Reading variation. **See $捽zeot1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $捽zeot1
   ==
 $$
 

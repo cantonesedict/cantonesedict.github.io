@@ -409,8 +409,8 @@ For all radicals, see [Index of characters by radical](./).
       - {$掣cit3, $掣zai3}
       - $採coi2
       - {$措cou3, $措zaak3}
+      - {$捽cyut3, $捽zeot1}
       - $掉zaau6
-      - $捽zeot1
       - $接zip3
       - $捷zit6
       - $掌zoeng2
