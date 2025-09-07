@@ -108,7 +108,7 @@ W
   ====
   - [[Page~610 捽(8)]]
     --
-    [[Reading variation. **See $捽zeot1 for the canonical entry.**]]
+    [[Reading variation (for the literary senses). **See $捽zeot1 for the canonical entry.**]]
     --
   ====
 S
