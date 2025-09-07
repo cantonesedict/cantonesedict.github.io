@@ -591,7 +591,7 @@ See also: [Index of Cantonese terms by Jyutping](/terms/).
 - $ngap (work in progress)
 - $ngat (work in progress)
 - $ngau (work in progress)
-- $nge (work in progress)
+- $nge
 - $ngi (work in progress)
 - $ngit (work in progress)
 - $ngo (work in progress)
