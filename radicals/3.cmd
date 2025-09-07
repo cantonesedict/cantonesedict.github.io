@@ -155,6 +155,7 @@ For all radicals, see [Index of characters by radical](./).
       - {$唨co1, $唨zo2}
       - $唱coeng3
       - $啋coi1
+      - $㖡e6
       - {$啁zaau1, $啁zau1}
       - {$啫ze1, $啫ze3}
       - $啍zeon1

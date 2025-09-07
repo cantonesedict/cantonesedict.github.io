@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [e1](#1)
+- [e6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -95,5 +96,43 @@ W
 S
   ==
   - ${𫫃=⿰口挨}ai1
+  ==
+$$
+
+
+##{#6 .modern} (E/)(6) (e6 陽去)
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $㖡6
+==
+</nav>
+<## /tone-6-characters ##>
+
+###+ 㖡6 | _(E/)(6)_ (e6)
+
+$$
+R
+  ⼝ + 8
+U
+  U+35A1
+F
+  [[Not present]]
+W
+  [[Not present]]
+E
+  ====
+  - 【㖡】 (e6):
+    ++
+    1. A filler used to express uncertainty or hesitation.
+       ==
+       - 食㖡生菜啦 (sik6 e6... saang1 coi3 la1): "[Let's] eat erm... lettuce."
+       ==
+    ++
+  ====
+S
+  ==
+  - $㖡je6 (TODO)
   ==
 $$
