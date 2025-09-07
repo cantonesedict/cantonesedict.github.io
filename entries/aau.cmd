@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aau
-* %date-modified --> 2025-08-18
+* %date-modified --> 2025-09-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -69,7 +69,7 @@ W
   ====
   - [[Page~6 (1)坳]]
     ==
-    - [[Reading variation (for literary "uneven-ground" senses). **See $坳aau3 for the canonical entry.**]]
+    - [[Reading variation (for the literary "uneven-ground" senses). **See $坳aau3 for the canonical entry.**]]
     ==
     --
     A colloquial word.
