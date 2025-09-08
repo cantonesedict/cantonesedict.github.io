@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cung
-* %date-modified --> 2025-09-01
+* %date-modified --> 2025-09-08
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -1785,7 +1785,7 @@ C
   - Kangxi has commentary claiming that
     the rising and departing readings were anciently interchangeable,
     and that maintaining a distinction between them
-    is 拘泥之過 an "erroneous clinging" on the part of Sung Dynasty scholars:
+    is 拘泥之過 an "error of clinging" on the part of Sung Dynasty scholars:
     """"
     按說文柱用切厚也卽與輕重義同\
     集韻柱勇切愼也卽與鄭重義同\
