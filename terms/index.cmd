@@ -494,6 +494,9 @@ window.onload = applyFilter;
     , faa1
     , [花](/entries/faa#cantonese-花)
   //
+    , faa1 maa5
+    , [花碼](/entries/faa#cantonese-花碼)
+  //
     , faa1 min6 maau1
     , [花面貓](/entries/faa#cantonese-花面貓)
   //

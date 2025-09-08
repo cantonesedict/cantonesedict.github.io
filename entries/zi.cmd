@@ -4543,7 +4543,6 @@ W
     - _(1)f(a/) (5)m(a/) tsz'(6)_
         [[faa1 maa5 zi6 花碼字]]
         contracted forms of the ten digits;
-        <## TODO: 花碼 faa1 maa5 ##>
     - _tsz'(6) h(o\)(6)_
         [[zi6 hou6 字號]]
         name of a shop;

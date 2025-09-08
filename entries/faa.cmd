@@ -181,6 +181,10 @@ E
        ==
     1. A flush (card hand).
     ++
+  - 【花碼】 (faa1 maa5):
+    ++
+    1. Suzhou numerals (〇〡〢〣〤〥〦〧〨〩).
+    ++
   - 【花面貓】 (faa1 min6 maau1):
     ++
     1. Messy in the face.
