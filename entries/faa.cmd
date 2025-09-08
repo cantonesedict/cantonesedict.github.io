@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [faa1](#1)
+- [faa3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -211,4 +212,90 @@ S
   - $華waa4 (TODO)
   - $華waa6 (TODO)
   ==
+$$
+
+
+##{#3 .williams} F(a/)(3) [[faa3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $化3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 化3 | _F(a/)(3)_ [[faa3]]
+
+$$
+R
+  ⼔ + 2
+U
+  U+5316
+F
+  ==
+  - [[F2.76 化]] ::變化王化[敎]化::
+  ==
+W
+  ====
+  - [[Page~43 化(3)]]
+    ==
+    - To change, to influence so as to alter, to transform [[Kangxi: 化敎行也 etc.]];
+    - to melt, to digest;
+    - to convert;
+    - to pass into metempsychosis;
+    - to create;
+    - to transmute [[Kangxi: 革物曰化]];
+    - to barter;
+    - to exchange [[Kangxi: 貨賄貿易曰化]];
+    - to reform;
+    - _k(a/)u(3) f(a/)(3)_
+        [[gaau3 faa3 教化]]
+        to improve by instruction;
+    - _f(a/)(3) (1)shan_
+        [[faa3 san1 化身]],
+        to burn a priest's corpse;
+    - _[ts(o\)(6)] f(a/)(3)_
+        [[zou6 faa3 造化]]
+        fate, nature;
+    - _[(2)]h(o\) [ts(o\)(6)] f(a/)(3)_
+        [[hou2 zou6 faa3 好造化]]
+        good luck;
+    - _(4)wong f(a/)(3)_
+        [[wong4 faa3 王化]]
+        the influence of law;
+    - _f(a/)(3) (1)shang_
+        [[faa3 sang1 化生]],
+        produced by metamorphosis, as insects;
+    - _f(a/)(3) yat(9)_
+        [[faa3 jat6 化日]]
+        peaceful times;
+    - _(1)ch(')(a/)u f(a/)(3)_
+        [[caau1 faa3 抄化]]
+        to subscribe for a Budhist mass;
+    - _(4)'m f(a/)(3)_
+        [[m4 faa3 唔化]]
+        did not subscribe;
+        also, indigestible;
+    - _sh(i/)n(6) (4)ts(')oi (4)n(a/)n f(a/)(3)_
+        [[sin6 coi4 naan4 faa3 善財難化]]
+        avaricious, niggardly.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed missing strokes in 敎.
+  - Williams' 化身: Also reincarnation.
+  - Williams' 造化: Corrected _ts(')(o\)(3)_ (cou3) to _ts(o\)(6)_ (zou6).
+  - Williams' 好造化: Corrected _h(o\)(3)_ (hou3) to _(2)h(o\)_ (hou2)^,
+    and corrected _ts(')(o\)(3)_ (cou3) to _ts(o\)(6)_ (zou6).
+  - Williams' 抄化: More specifically, for a monk to subscribe an alms-giver.
+  ==
+P
+  ++
+  1. To burn (paper offerings).
+     ==
+     - 化元寶 (faa3 jyun4 bou2): "Transform paper-ingots [by fire]."
+     ==
+  ++
 $$
