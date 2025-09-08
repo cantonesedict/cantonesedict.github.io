@@ -48,6 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $花1
+- $華1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -61,11 +62,12 @@ U
   U+82B1
 A
   ==
-  - 華
+  - $華1
   ==
 F
   ==
   - [[F2.73 花]] 草木之葩
+  - [[F2.73 華]] 華美亦作花
   ==
 W
   ====
@@ -183,4 +185,30 @@ E
     1. Messy in the face.
     ++
   ====
+$$
+
+### 華1 | _(1)F(a/)_ [[faa1]]
+
+$$.
+R
+  ⾋ + 8
+U
+  U+83EF
+F
+  ==
+  - [[F2.73 花]] 草木之葩
+  - [[F2.73 華]] 華美亦作花
+  ==
+W
+  ====
+  - [[Page~42 (1)花(1)華]]
+    --
+    [[Alternative form of 花. **See $花faa1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $華waa4 (TODO)
+  - $華waa6 (TODO)
+  ==
 $$
