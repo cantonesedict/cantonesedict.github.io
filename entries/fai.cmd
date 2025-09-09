@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [fai1](#1)
 ==
 </nav>
 <## /tones ##>
@@ -37,5 +38,89 @@ WP
 MP
   ==
   - fai = [fɐi]
+  ==
+$$
+
+
+##{#1 .williams} (1)Fai [[fai1 陰平]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $揮1
+==
+</nav>
+<## /tone-1-characters ##>
+
+### 揮1 | _(1)Fai_ [[fai1]]
+
+$$
+R
+  ⼿ + 9
+U
+  U+63EE
+F
+  ==
+  - [[F1.27 揮]] 指揮發揮又揮霍
+  ==
+W
+  ====
+  - [[Page~43 (1)揮]]
+    ==
+    - To move, to shake [[Kangxi: 振也動也]];
+    - to be agitated [[Kangxi: 奮也]];
+    - to animate;
+    - to sprinkle [[Kangxi: 灑也, 揮湔也]];
+    - to scatter, ~~to throw away~~;
+    - _(1)fai (1)ch(')un_
+        [[fai1 ceon1 揮春]],
+        ~~to write~~ new-year's inscriptions;
+    - _(1)fai [(4)]h(o\)_
+        [[fai1 hou4 揮毫]],
+        to write;
+    - _(1)fai (1)kam (4)(u:) (2)t(')(o\)_
+        [[fai1 gam1 jyu4 tou2 揮金如土]],
+        to spend money like dirt;
+    - _(1)fai fok(8)_
+        [[fai1 fok3 揮霍]]
+        extravagant;
+    - _(2)ch(i/) (1)fai_
+        [[zi2 fai1 指揮]],
+        a major in a Manchu corps, to point with the hand;
+    - _(1)fai (2)sh(a/)_
+        [[fai1 saa2 揮灑]],
+        to sprinkle, to spend fast;
+    - _(1)fai tsau(6)_
+        [[fai1 zau6 揮袖]]
+        written.
+    ==
+    --
+    Also read _(4)wan_ [[wan4]],
+    in the phrase _(4)wan (4)lun_ [[wan4 leon4 揮掄]],
+    entire, unbroken [[Kangxi: 揮掄全而不破也]].
+    --
+  ====
+C
+  ==
+  - Williams' 揮毫: Corrected _(1)h(o\)_ (hou1) to _(4)h(o\)_ (hou4).
+  ==
+P
+  ++
+  1. To direct, to command (Kangxi: 指揮也).
+  1. To brandish.
+  ++
+E
+  ====
+  - 【揮春】 (fai1 ceon1):
+    ++
+    1. New Year calligraphic banners.
+       ==
+       - 寫揮春 (se2 fai1 ceon1): "Write New Year banners."
+       ==
+    ++
+  ====
+S
+  ==
+  - $揮wan4 (TODO)
   ==
 $$
