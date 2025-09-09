@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 11-stroke radicals
-* %date-modified --> 2025-08-31
+* %date-modified --> 2025-09-09
 * %copyright-prior-years --> 2024--
 * %meta-description --> index of characters with 11-stroke radicals
 
@@ -282,4 +282,21 @@ For all radicals, see [Index of characters by radical](./).
 ## ⿇ (hemp)
 
 <## radical-⿇-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 4
+    ,
+      <nav class="sideways">
+      ==
+      - $麾fai1
+      ==
+      </nav>
+''
+||||
 <## /radical-⿇-characters ##>

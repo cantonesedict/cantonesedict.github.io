@@ -51,6 +51,7 @@ $$
 - $暉1
 - $煇1
 - $輝1
+- $麾1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -222,4 +223,37 @@ W
         illuminated.
     ==
   ====
+$$
+
+### 麾1 | _(1)Fai_ [[fai1]]
+
+$$
+R
+  ⿇ + 4
+U
+  U+9EBE
+A
+  ==
+  - 戲
+  ==
+F
+  ==
+  - [[F1.27 麾]] ::[驅]也旌旗所以指揮::
+  ==
+W
+  ====
+  - [[Page~43 (1)麾]]
+    ==
+    - A signal or marking flag [[Kangxi: 旌旗之屬所以指麾也, 或作戲, 戲大將之旗]];
+    - to make a signal, to motion to [[Kangxi: 與撝同以手指麾也]];
+    - quick, hasty [[Kangxi: 快也]];
+    - _(1)fai h(a/)(6)_
+        [[fai1 haa6 麾下]]
+        your honor! (used by soldiers.)
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected missing strokes in 驅.
+  ==
 $$
