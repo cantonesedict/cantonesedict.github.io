@@ -433,6 +433,7 @@ For all radicals, see [Index of characters by radical](./).
       - $捶ceoi4
       - $揗ceon4
       - $揮fai1
+      - $撝fai1
       - $揸zaa1
       ==
       </nav>

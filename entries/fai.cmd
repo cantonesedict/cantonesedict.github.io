@@ -48,6 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $揮1
+- $撝1
 - $暉1
 - $煇1
 - $翬1
@@ -128,6 +129,42 @@ S
   ==
   - $揮wan4 (TODO)
   ==
+$$
+
+### 撝1 | _(1)Fai_ [[fai1]]
+
+$$
+R
+  ⼿ + 9
+U
+  U+649D
+H
+  May appear as either ⿰扌為 (+9 assumed here) or ⿰扌爲 (+12),
+  depending on the font.
+F
+  ==
+  - [[F1.27 撝]] 指也又發撝
+  ==
+W
+  ====
+  - [[Page~43 (1)撝]]
+    ==
+    - To rend open, to tear off [[Kangxi: 裂也]];
+    - to point ~~out~~;
+    - humble, unassuming;
+    - ~~used for the preceding [[翬]].~~
+    ==
+  ====
+C
+  ==
+  - Williams' "humble, unassuming": Note that Kangxi's example 《易謙爻》撝謙
+    should *not* be read as defining 撝 as "humility"
+    (even though the "humility" sense is probably derived from this).
+  ==
+P
+  ++
+  1. To direct, to command (Kangxi: 一曰手指麾也).
+  ++
 $$
 
 ### 暉1 | _(1)Fai_ [[fai1]]
