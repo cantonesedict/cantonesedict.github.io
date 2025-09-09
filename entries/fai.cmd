@@ -50,6 +50,7 @@ $$
 - $揮1
 - $暉1
 - $煇1
+- $翬1
 - $輝1
 - $麾1
 ==
@@ -178,6 +179,35 @@ W
 S
   ==
   - $煇wan6 (TODO)
+  ==
+$$
+
+### 翬1 | _(1)Fai_ [[fai1]]
+
+$$
+R
+  ⽻ + 9
+U
+  U+7FEC
+F
+  ==
+  - [[F1.27 翬]] 雉也
+  ==
+W
+  ====
+  - [[Page~43 (1)翬]]
+    ==
+    - To fly [[Kangxi: 大飛也]] with noise [[Kangxi: 翬翬其飛疾羽聲也]];
+    - a kind of colored pheasant [[Kangxi: 一曰伊洛而南雉五采皆備曰翬 etc.]];
+    - colored, adorned;
+    - _(1)fai (1)fai_
+        [[fai1 fai1 翬翬]],
+        to fly up and show the plumage.
+    ==
+  ====
+C
+  ==
+  - Williams' "with noise": And fast.
   ==
 $$
 
