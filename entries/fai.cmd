@@ -48,6 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $揮1
+- $輝1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -123,4 +124,31 @@ S
   ==
   - $揮wan4 (TODO)
   ==
+$$
+
+### 輝1 | _(1)Fai_ [[fai1]]
+
+$$
+R
+  ⾞ + 8
+U
+  U+8F1D
+F
+  ==
+  - [[F1.27 輝]] 光輝
+  ==
+W
+  ====
+  - [[Page~43 (1)輝]]
+    ==
+    - Brilliant, refulgent, glorious [[Kangxi: 光也火之光也]], like the sun;
+    - to glisten;
+    - _(1)fai (4)(i/)n_
+        [[fai1 jin4 輝然]],
+        spruced up, pleased;
+    - _(1)fai (i/)n(6)_
+        [[fai jin6 輝現]]
+        exceedingly glorious.
+    ==
+  ====
 $$
