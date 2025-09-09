@@ -48,6 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $揮1
+- $煇1
 - $輝1
 ==
 </nav>
@@ -126,6 +127,31 @@ S
   ==
 $$
 
+### 煇1 | _(1)Fai_ [[fai1]]
+
+$$.
+R
+  ⽕ + 9
+U
+  U+7147
+F
+  ==
+  - [[F1.27 輝]] 光輝
+  - [[F1.27 煇]] 火光也
+  ==
+W
+  ====
+  - [[Page~43 (1)煇]]
+    --
+    [[Alternative form of 輝. **See $輝fai1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $煇wan6 (TODO)
+  ==
+$$
+
 ### 輝1 | _(1)Fai_ [[fai1]]
 
 $$
@@ -133,9 +159,14 @@ R
   ⾞ + 8
 U
   U+8F1D
+A
+  ==
+  - $煇1
+  ==
 F
   ==
   - [[F1.27 輝]] 光輝
+  - [[F1.27 煇]] 火光也
   ==
 W
   ====
@@ -149,6 +180,16 @@ W
     - _(1)fai (i/)n(6)_
         [[fai jin6 輝現]]
         exceedingly glorious.
+    ==
+  - [[Page~43 (1)煇; here normalised to 輝]]
+    ==
+    - Luminous, splendid [[Kangxi 煇: 光也, 燿光也]], like fire [[Kangxi 煇: 火之光]];
+    - _(1)fai (1)kwong_
+        [[fai1 gwong1 輝光]],
+        lustrous, gorgeous, like many lamps;
+    - _(1)fai (4)wong_
+        [[fai1 wong4 輝煌]],
+        illuminated.
     ==
   ====
 $$

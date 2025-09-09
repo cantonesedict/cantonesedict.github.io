@@ -1671,6 +1671,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $煍cau1
+      - $煇fai1
       - {$煎zin1, $煎zin3}
       - $照ziu3
       ==
