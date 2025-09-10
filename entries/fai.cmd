@@ -53,6 +53,7 @@ $$
 - $煇1
 - $翬1
 - $輝1
+- $隓1
 - $隳1
 - $麾1
 ==
@@ -293,6 +294,23 @@ W
   ====
 $$
 
+###+ 隓1 | _(1)Fai_ (fai1)
+
+$$.
+R
+  ⾩ + 10
+U
+  U+9693
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 隳. **See $隳fai1 for the canonical entry.**
+  ++
+$$
+
 ### 隳1 | _(1)Fai_ [[fai1]]
 
 $$
@@ -304,7 +322,7 @@ A
   ==
   - 墮
   - 墯
-  - 隓
+  - $隓1
   ==
 F
   ==
