@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 8-stroke radicals
-* %date-modified --> 2025-08-30
+* %date-modified --> 2025-09-10
 * %copyright-prior-years --> 2024--
 * %meta-description --> index of characters with 8-stroke radicals
 
@@ -402,6 +402,14 @@ For all radicals, see [Index of characters by radical](./).
       - $隰zaap6
       - {$隮zai1, $隮zai3}
       - $隲zat1
+      ==
+      </nav>
+  //
+    , 15
+    ,
+      <nav class="sideways">
+      ==
+      - $隳fai1
       ==
       </nav>
 ''

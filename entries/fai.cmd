@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fai
-* %date-modified --> 2025-09-09
+* %date-modified --> 2025-09-10
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -53,6 +53,7 @@ $$
 - $煇1
 - $翬1
 - $輝1
+- $隳1
 - $麾1
 ==
 </nav>
@@ -290,6 +291,58 @@ W
         illuminated.
     ==
   ====
+$$
+
+### 隳1 | _(1)Fai_ [[fai1]]
+
+$$
+R
+  ⾩ + 15
+U
+  U+96B3
+A
+  ==
+  - 墮
+  - 墯
+  - 隓
+  ==
+F
+  ==
+  - [[F1.27 隳]] 敗也
+  ==
+W
+  ====
+  - [[Page~43 ::(1)[隳]^::]]
+    ==
+    - To destroy, to [overthrow], to break [[Kangxi 隓: 俗作隳非, 廢也毀也損也, 亦作墮]];
+    - to injure;
+    - _(1)fai p(a/)i(6)_
+        [[fai1 baai6 隳敗]]
+        to destroy ~~and scatter~~.
+    ==
+    --
+    ~~Also read _to(6)_ [[do6]]^, and~~ [[...]].
+    <## TODO: [[...]] often used for _(2)wai_ [[wai2 毀]] ##>
+    --
+  ====
+C
+  ==
+  - Williams misprints 隳 as ⿳隋𠆢氺; here corrected.
+  - Williams' "Also read [...]": The reading _to(6)_ (do6)
+    is for a different sense (alternative form of 墮 "fall"),
+    so the qualifier "Also" is incorrect.
+    Kangxi 又通作墮 indicates that 隳 _(1)fai_ (fai1) can be spelt 墮.
+    It does *not* indicate a reading of _to(6)_ (do6) for 隳 "destroy/collapse".
+  ==
+P
+  ++
+  1. A collapsed wall (Kangxi 隓: 敗城阜曰隓).
+  ++
+S
+  ==
+  - $隳do6 (TODO)
+  - $隳wai2 (TODO)
+  ==
 $$
 
 ### 麾1 | _(1)Fai_ [[fai1]]
