@@ -47,6 +47,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $墮1
 - $揮1
 - $撝1
 - $暉1
@@ -59,6 +60,27 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+###+ 墮1 | _(1)Fai_ (fai1)
+
+$$.
+R
+  ⼟ + 12
+U
+  U+58AE
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 隳. **See $隳fai1 for the canonical entry.**
+  ++
+S
+  ==
+  - $墮do6 (TODO)
+  ==
+$$
 
 ### 揮1 | _(1)Fai_ [[fai1]]
 
@@ -320,7 +342,7 @@ U
   U+96B3
 A
   ==
-  - 墮
+  - $墮1
   - 墯
   - $隓1
   ==
