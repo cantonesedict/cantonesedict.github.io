@@ -1484,6 +1484,14 @@ For all radicals, see [Index of characters by radical](./).
       - {$徵zi2, $徵zing1}
       ==
       </nav>
+  //
+    , 14
+    ,
+      <nav class="sideways">
+      ==
+      - $徽fai1
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⼻-characters ##>

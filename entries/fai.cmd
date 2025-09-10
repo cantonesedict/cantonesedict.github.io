@@ -48,6 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $墮1
+- $徽1
 - $揮1
 - $撝1
 - $暉1
@@ -79,6 +80,61 @@ P
 S
   ==
   - $墮do6 (TODO)
+  ==
+$$
+
+### 徽1 | _(1)Fai_ [[fai1]]
+
+$$
+R
+  ⼻ + 14
+  ⽷ + 11
+U
+  U+5FBD
+F
+  ==
+  - [[F1.27 ::[徽]::]] 美也
+  ==
+W
+  ====
+  - [[Page~44 (1)徽]]
+    ==
+    - A cord of three strands [[Kangxi: 三糾繩也]];
+    - a string;
+    - ~~queenly garments;~~
+    - ~~a kind of sash;~~
+    - good, beautiful [[Kangxi: 善也, 徽者美善也]];
+    - a banner;
+    - the stops on a guitar [[Kangxi: 琴節曰徽]];
+    - _(1)Fai mak(9)_
+        [[fai1 mak6 徽墨]]
+        ink from Hwuichau [[徽州]];
+    - _(1)fai (1)yam_
+        [[fai1 jam1 徽音]],
+        fine sounds;
+    - _(1)fai h(o\)(6)_
+        [[fai1 hou6 徽號]]
+        a flag.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword ⿲彳⿱山糸攵 to 徽.
+  - Williams' "queenly garments": This is dubious.
+    Although Kangxi has 與褘通, the character 褘 has two readings,
+    and Kangxi appears to be referring to the second reading:
+    ++
+    1. 許歸切 _(1)fai_ (fai1), for a queen's attire for sacrificial rites (Kangxi 褘: 后祭服也); and
+    2. 雨非切 _(4)wai_ (wai4), for a woman's bag(?) (囊也) or for a knee-cover (蔽膝也).
+    ++
+  - Williams' "a kind of sash": This is a misreading of Kangxi 衺幅也.
+    Here, 幅 is to be read _pik(7)_ (bik1).
+    Per 赤芾在股邪幅在下 from the Book of Poetry, this is a type of binding
+    applied to the lower leg (i.e. from the knee downward).
+  - Williams' "the stops on a guitar": Note that the Chinese zither (琴)
+    is fretless, so these are not frets, but a set of inlaid markings
+    away from the strings (providing a visual cue but no physical stoppage).
+  - Williams' 徽號: Now "emblem" or "badge".
   ==
 $$
 
