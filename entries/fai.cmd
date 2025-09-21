@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fai
-* %date-modified --> 2025-09-10
+* %date-modified --> 2025-09-21
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [fai1](#1)
+- [fai3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -476,3 +477,86 @@ $$
 
 
 <## $虧kwai1 (TODO) ##>
+
+
+##{#3 .williams} Fai(3) [[fai3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $費3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 費3 | _Fai(3)_ [[fai3]]
+
+$$
+R
+  ⾙ + 5
+U
+  U+8CBB
+F
+  ==
+  - [[F1.32 費]] 費用又姓
+  ==
+W
+  ====
+  - [[Page~44 費(3)]]
+    ==
+    - To spend, to use [[Kangxi: 散財用也]];
+    - to exert;
+    - to dissipate [[Kangxi: 損也耗也]];
+    - expense, cost, trouble, outlay [[Kangxi: 用也]];
+    - waste, lavishing;
+    - squandering;
+    - _(2)shai fai(3)_
+        [[sai2 fai3 使費]]
+        to spend, to expend;
+    - _fai(3) sz'(6)_
+        [[fai3 si6 費事]]
+        troublesome, to interrupt;
+    - _fai(3) (1)sam_
+        [[fai3 sam1 費心]],
+        to remember one;
+    - _long(6) fai(3)_
+        [[long6 fai3 浪費]]
+        wasteful;
+    - _fai(3) (4)sh(i/)_
+        [[fai3 si4 費時]],
+        waste one's time;
+    - _kwo(3) fai(3)_
+        [[gwo3 fai3 過費]]
+        "great outlay," politely said when sitting at a feast;
+    - _p(')o(3) fai(3)_
+        [[po3 fai3 破費]]
+        'lost your outlay,' needless expense,
+        politely said by one who gets a present;
+    - _chai(3) fai(3)_
+        [[zai3 fai3 ？費]]
+        heedless, witless.
+    ==
+  ====
+E
+  ====
+  - 【費事】 (fai3 si6):
+    ++
+    1. Not to be bothered (to do something).
+       ==
+       - 費事煮 (fai3 si6 zyu2): "Can't [be] bothered cooking."
+       - 費事行 (fai3 si6 haang4): "Can't [be] bothered walking."
+       ==
+    1. Used before a negative consequence to be prevented or avoided.
+       Like English "lest", but informal.
+       ==
+       - 費事遲到 (fai3 si6 ci4 dou3): "So that [we] won't arrive late."
+       - 費事冷嚫 (fai3 si6 laang5 can1): "So that [I] don't catch [a] cold."
+       ==
+    ++
+  ====
+S
+  ==
+  - $費bei3 (TODO)
+  - $費fai6 (TODO)
+  ==
+$$
