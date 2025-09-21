@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [fai1](#1)
 - [fai3](#3)
+- [fai6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -557,6 +558,40 @@ E
 S
   ==
   - $費bei3 (TODO)
-  - $費fai6 (TODO)
+  - $費fai6
+  ==
+$$
+
+
+##{#6 .williams} Fai(6) [[fai6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $費6
+==
+</nav>
+<## /tone-6-characters ##>
+
+###+ 費6 | _Fai(6)_ (fai6)
+
+$$
+R
+  ⾙ + 5
+U
+  U+8CBB
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Broad in application (Kangxi: 費用之廣也).
+  1. A surname (Kangxi: 姓也).
+  ++
+S
+  ==
+  - $費bei3 (TODO)
+  - $費fai3
   ==
 $$
