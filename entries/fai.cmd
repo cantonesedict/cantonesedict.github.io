@@ -486,6 +486,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $廢3
+- $沸3
 - $費3
 ==
 </nav>
@@ -535,6 +536,45 @@ C
 P
   ++
   1. To fall (Kangxi: 墮也).
+  ++
+$$
+
+### 沸3 | _Fai(3)_ [[fai3]]
+
+$$
+R
+  ⽔ + 5
+U
+  U+6CB8
+V
+  ==
+  - fat1 (per 《集韻》分物切 for "spring-bubbling" sense)
+  ==
+F
+  ==
+  - [[F1.32 沸]] ::火煮水[滚]又泉湧出曰沸::
+  ==
+W
+  ====
+  - [[Page~44 沸(3)]]
+    ==
+    - To bubble, as boiling water [[Kangxi: 涫也]] or a spring [[Kangxi: 觱沸泉出貌]];
+    - _[(2)]shui fai(3) (1)ch(')ung (4)ch(')(a/)_
+        [[seoi2 fai3 cung1 caa4 水沸沖茶]],
+        the water boils, pour it on the tea.
+    ==
+    --
+    Also read _fat(7)_ [[fat1]].
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed 滚.
+  - Williams' 水沸沖茶: Corrected _shui(3)_ (seoi3) to _(2)shui_ (seoi2).
+  ==
+P
+  ++
+  1. Bustling.
   ++
 $$
 
