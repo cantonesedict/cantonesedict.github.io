@@ -346,7 +346,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - {$痄caa4, $痄zaa2, $痄zaa3}
       - $疹can2
-      - $疿fai3
+      - {$疿fai2, $疿fai3}
       - $疾zat6
       - $疽zeoi1
       - $症zing3

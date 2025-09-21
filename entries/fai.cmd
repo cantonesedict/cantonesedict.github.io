@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [fai1](#1)
+- [fai2](#2)
 - [fai3](#3)
 - [fai6](#6)
 ==
@@ -518,6 +519,38 @@ $$
 <## $虧kwai1 (TODO) ##>
 
 
+##{#2 .modern} (2)Fai (fai2 陰上)
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $疿2
+==
+</nav>
+<## /tone-2-characters ##>
+
+###+ 疿2 | _(2)Fai_ (fai2)
+
+$$.
+R
+  ⽧ + 5
+U
+  U+75BF
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $疿fai3 for the canonical entry.**
+  ++
+S
+  ==
+  - $疿fai3
+  ==
+$$
+
+
 ##{#3 .williams} Fai(3) [[fai3 陰去]]
 
 <## tone-3-characters ##>
@@ -675,7 +708,7 @@ E
   ====
 S
   ==
-  - $疿fai2 (TODO)
+  - $疿fai2
   ==
 $$
 
