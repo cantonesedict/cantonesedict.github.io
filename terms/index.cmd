@@ -611,6 +611,9 @@ window.onload = applyFilter;
     , jing6-2 zan1
     , [認真](/entries/zan#cantonese-認真)
   //
+    , jit6 fai3-2
+    , [熱痱](/entries/fai#cantonese-熱痱)
+  //
     , laa5 zaa2
     , [揦鮓](/entries/zaa#cantonese-揦鮓)
   //

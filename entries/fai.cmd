@@ -525,6 +525,7 @@ $$
 =={.modern}
 - $廢3
 - $沸3
+- $疿3
 - $肺3
 - $芾3
 - $費3
@@ -616,6 +617,66 @@ P
   ++
   1. Bustling.
   ++
+$$
+
+### 疿3 | _Fai(3)_ [[fai3]]
+
+$$
+R
+  ⽧ + 5
+U
+  U+75BF
+A
+  ==
+  - 痱
+  ==
+V
+  ==
+  - fai3-2 (vernacular rising-tone noun)
+  - fai6 (per 《廣韻》扶沸切 for 痱)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~713 疿(3)]]
+    ==
+    - Pimples, small boils[,] sores from heat [[Kangxi: 熱生小瘡 etc.]];
+    - _(i/)t(9) fai(3)_ [[jit6 fai3-2 熱疿]]
+        or
+      _fai(3) (2)tsz'_ [[fai3-2 zi2 疿子]]
+        prickly heat.
+    ==
+  ====
+C
+  ====
+  - The original departing reading fai3 is almost never heard,
+    having been supplanted by vernacular rising fai3-2 in all senses.
+  - In modern usage, the spelling 痱 is much more common.
+    However, this appears to be a merger of
+    two apparently distinct words in Middle Chinese:
+    ==
+    - 疿, read 方味切 _fai(3)_ (fai3)^, explained 熱生小瘡; and
+    - 痱, read 扶沸切 _fai(6)_ (fai6)^, explained 熱瘡.
+    ==
+  - The older character is 疿, as attested in 《黃帝素問》汗出見濕乃生痤疿.
+  - Whilst it is 痱 that appears in 《說文》, it is for the different sense
+    of "stroke/paralysis", to be read 符非切 _(4)f(i/)_ (fei4).
+  - Williams' "small boils": Corrected the following semicolon to a comma.
+    There is only one sense to be defined here
+    (i.e. the pimples and small boils are also from heat, not standalone).
+  ====
+E
+  ====
+  - 【熱痱】 (jit6 fai3-2):
+    ++
+    1. Miliaria.
+    ++
+  ====
+S
+  ==
+  - $疿fai2 (TODO)
+  ==
 $$
 
 ### 肺3 | _Fai(3)_ [[fai3]]
