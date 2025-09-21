@@ -569,7 +569,7 @@ P
 S
   ==
   - $痱fai3
-  - $痱fai6 (TODO)
+  - $痱fai6
   - $痱fei4 (TODO)
   ==
 $$
@@ -712,7 +712,7 @@ C
     having been supplanted by vernacular rising fai3-2 in all senses.
   - In modern usage, the spelling 痱 is much more common.
     However, this appears to be a merger of
-    two apparently distinct words in Middle Chinese:
+    two apparently distinct (but synonymous) words in Middle Chinese:
     ==
     - 疿, read 方味切 _fai(3)_ (fai3)^, explained 熱生小瘡; and
     - 痱, read 扶沸切 _fai(6)_ (fai6)^, explained 熱瘡.
@@ -755,7 +755,7 @@ P
 S
   ==
   - $痱fai2
-  - $痱fai6 (TODO)
+  - $痱fai6
   - $痱fei4 (TODO)
   ==
 $$
@@ -902,6 +902,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $吠6
+- $痱6
 - $費6
 ==
 </nav>
@@ -928,6 +929,29 @@ W
         a dog which barks at everybody.
     ==
   ====
+$$
+
+###+ 痱6 | _Fai(6)_ (fai6)
+
+$$.
+R
+  ⽧ + 8
+U
+  U+75F1
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 疿, and reading variation. **See $疿fai3 for the canonical entry.**
+  ++
+S
+  ==
+  - $痱fai2
+  - $痱fai3
+  - $痱fei4 (TODO)
+  ==
 $$
 
 ###+ 費6 | _Fai(6)_ (fai6)

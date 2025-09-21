@@ -379,7 +379,7 @@ For all radicals, see [Index of characters by radical](./).
       - $瘂aa2
       - {${𤷫=⿸疒刺}cek3, ${𤷫=⿸疒刺}cik3}
       - $痴ci1
-      - {$痱fai2, $痱fai3}
+      - {$痱fai2, $痱fai3, $痱fai6}
       ==
       </nav>
   //
