@@ -485,10 +485,58 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $廢3
 - $費3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 廢3 | _Fai(3)_ [[fai3]]
+
+$$
+R
+  ⼴ + 12
+U
+  U+5EE2
+F
+  ==
+  - [[F1.32 廢]] 絶也棄也
+  ==
+W
+  ====
+  - [[Page~44 廢(3)]]
+    ==
+    - A house in ruins [[Kangxi: ::屋[頓]也::]];
+    - to abandon, to throw aside [[Kangxi: 廢舍也, 舍放置]], to destroy, to lose;
+    - to repudiate, to disinherit;
+    - to stop [[Kangxi: 止也, 止住也]], to fail;
+    - obsolete, null;
+    - spoiled, corrupt;
+    - to depose;
+    - useless, degraded;
+    - _fai(3) h(u:)(3)_
+        [[fai3 heoi3 廢去]]
+        thrown aside, rejected;
+    - _fai(3) mat(9)_
+        [[fai3 mat6 廢物]]
+        a useless fellow, good for nothing;
+    - _p(u/)n(3) (4)t(')(o\) (4)(i/) fai(3)_
+        [[bun3 tou4 ji4 fai3 半途而廢]]
+        ~~to reject when~~ half done;
+    - _fai(3) tsat(9)_
+        [[fai3 zat6 廢疾]]
+        disabled, incurable.
+    ==
+  ====
+C
+  ==
+  - Williams' 半途而廢: Not to reject, but to abandon when half done.
+  ==
+P
+  ++
+  1. To fall (Kangxi: 墮也).
+  ++
+$$
 
 ### 費3 | _Fai(3)_ [[fai3]]
 
