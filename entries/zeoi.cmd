@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2025-09-07
+* %date-modified --> 2025-09-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -210,19 +210,19 @@ W
   ====
   - [[Page~594 (1)睢]]
     --
-    [[Reading variation (for "glare/gaze-up" senses). **See $睢fai1 for the canonical entry.**]]
+    [[Reading variation. **See $睢fai1 for the canonical entry.**]]
     --
   ====
 C
   ==
   - The reading _(1)ts(u:)_ (zeoi1) for 睢
     is not attested in the Middle Chinese rime books.
-    It is possible that Williams has mistaken it for 雎,
+    It is possible that Williams has mistaken it for $雎1,
     which is what is present in Fan Wan.
   ==
 S
   ==
-  - $睢fai1 (TODO)
+  - $睢fai1
   - $睢seoi1 (TODO)
   ==
 $$
@@ -573,6 +573,10 @@ F
   ==
 W
   [[Not present]]
+C
+  ==
+  - This character is easily confused with 睢 (see $睢zeoi1).
+  ==
 P
   ++
   1. A type of waterbird.

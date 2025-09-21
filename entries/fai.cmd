@@ -55,6 +55,7 @@ $$
 - $撝1
 - $暉1
 - $煇1
+- $睢1
 - $翬1
 - $輝1
 - $隓1
@@ -298,6 +299,43 @@ W
 S
   ==
   - $煇wan6 (TODO)
+  ==
+$$
+
+###+ 睢1 | _(1)Fai_ (fai1)
+
+$$
+R
+  ⽬ + 8
+U
+  U+7762
+V
+  ==
+  - zeoi1 (per Williams)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~594 (1)睢 _(1)Ts(u:)_ (zeoi1); here normalised to _(1)Fai_ (fai1)]]
+    ==
+    - To stare at [[Kangxi: 大視也]] ~~in a fright~~,
+      to gaze up at [[Kangxi: 仰目也, 仰目視貌]],
+      to look angrily at [[Kangxi: 恣睢恣意怒視也, 睢仰目怒貌]].
+    ==
+    --
+    [[...]]
+    --
+  ====
+C
+  ==
+  - Williams' "in a fright": This is a misreading of Kangxi 《前漢五行志》萬眾睢睢驚怪連日
+    as a definition, when it is actually an example.
+  ==
+S
+  ==
+  - $睢seoi1 (TODO)
+  - $睢zeoi1
   ==
 $$
 
