@@ -717,7 +717,9 @@ C
     - 疿, read 方味切 _fai(3)_ (fai3)^, explained 熱生小瘡; and
     - 痱, read 扶沸切 _fai(6)_ (fai6)^, explained 熱瘡.
     ==
-  - Of these, 疿 is the older character, as attested in 《黃帝素問》汗出見濕乃生痤疿.
+    In Cantonese, the distinction is hidden by the vernacular rising tone.
+    In Mandarin, there is no distinction between 陰去 and 陽去 (both become fèi).
+  - Of the two characters, 疿 is the older, as attested in 《黃帝素問》汗出見濕乃生痤疿.
   - Whilst it is 痱 that appears in 《說文》, it is for the different sense
     of "stroke/paralysis", to be read 符非切 _(4)f(i/)_ (fei4).
   - Williams' "small boils": Corrected the following semicolon to a comma.
