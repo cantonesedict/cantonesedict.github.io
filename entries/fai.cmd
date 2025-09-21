@@ -487,6 +487,7 @@ $$
 =={.modern}
 - $廢3
 - $沸3
+- $肺3
 - $費3
 ==
 </nav>
@@ -576,6 +577,34 @@ P
   ++
   1. Bustling.
   ++
+$$
+
+### 肺3 | _Fai(3)_ [[fai3]]
+
+$$
+R
+  ⾁ + 4
+U
+  U+80BA
+F
+  ==
+  - [[F1.32 肺]] 肺肝
+  ==
+W
+  ====
+  - [[Page~44 肺(3)]]
+    ==
+    - The lungs [[Kangxi: 金藏也 etc.]];
+    - they are connected with metal;
+    - _fai(3) (1)k(a/)_
+        [[fai3 gaa1 肺家]],
+        the lungs.
+    ==
+  ====
+S
+  ==
+  - $肺pui3 (TODO)
+  ==
 $$
 
 ### 費3 | _Fai(3)_ [[fai3]]
