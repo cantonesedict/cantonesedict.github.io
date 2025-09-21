@@ -488,6 +488,7 @@ $$
 - $廢3
 - $沸3
 - $肺3
+- $芾3
 - $費3
 ==
 </nav>
@@ -604,6 +605,41 @@ W
 S
   ==
   - $肺pui3 (TODO)
+  ==
+$$
+
+### 芾3 | _Fai(3)_ [[fai3]]
+
+$$
+R
+  ⾋ + 4
+U
+  U+82BE
+V
+  ==
+  - bui3 (alternative per 《廣韻》博蓋切 for "small" sense)
+  ==
+F
+  ==
+  - [[F1.32 芾]] 蔽芾木盛也
+  ==
+W
+  ====
+  - [[Page~44 芾(3)]]
+    ==
+    - Luxuriant [[Fan Wan: 蔽芾木盛也]];
+    - small [[Kangxi: 蔽芾小貌]];
+    - [[...]].
+    <## TODO:
+    - read _fat(7)_ [[fat1]]
+        as _fat(7) fat(7)_ [[fat1 fat1 芾芾]]
+        foliage abundant.
+    ##>
+    ==
+  ====
+S
+  ==
+  - $芾fat1 (TODO)
   ==
 $$
 
