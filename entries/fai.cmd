@@ -670,7 +670,7 @@ E
   ====
   - 【熱痱】 (jit6 fai3-2):
     ++
-    1. Miliaria.
+    1. Miliaria, heat rash.
     ++
   ====
 S
