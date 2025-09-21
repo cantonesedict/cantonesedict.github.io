@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2025-07-20
+* %date-modified --> 2025-09-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -660,7 +660,7 @@ E
   ====
   --
   Olden attestation for _(4)ch(')(a/)_ (caa4) meaning "apply", "rub", etc.
-  exists in an alternative reading of 塗 (per 鄭張尚芳):
+  exists in an alternative reading of 塗 (per Zhengzhang):
   --
   """"
   ::B2.w219b0905 (:宅加切:) 塗 (:塗飾:)又音徒::
