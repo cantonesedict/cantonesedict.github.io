@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2025-09-07
+* %date-modified --> 2025-09-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2549,22 +2549,10 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Although 餈 is the orthodox form of 糍,
-    糯米糍 is the more common spelling for 糯米餈.
-  ==
 P
   ++
   1. Alternative form of 餈. **See $餈ci4 for the canonical entry.**
   ++
-E
-  ====
-  - 【糯米糍】 (no6 mai5 ci4):
-    ++
-    1. Glutinous rice balls.
-    ++
-  ====
 $$
 
 ### 臍4 | _(4)Ts(')z'_ [[ci4]]
@@ -2939,9 +2927,15 @@ W
   ====
 C
   ==
-  - The alternative form 糍 is commonly used
-    in the term [糯米糍](#cantonese-糯米糍).
+  - The alternative form 糍 is commonly used in the term 糯米糍 (see below).
   ==
+E
+  ====
+  - 【糯米糍】 (no6 mai5 ci4):
+    ++
+    1. Glutinous rice balls.
+    ++
+  ====
 $$
 
 ### 馳4 | _(4)Ch(')(i/)_ [[ci4]]
