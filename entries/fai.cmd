@@ -559,6 +559,7 @@ $$
 - $廢3
 - $沸3
 - $疿3
+- $痱3
 - $肺3
 - $芾3
 - $費3
@@ -661,7 +662,7 @@ U
   U+75BF
 A
   ==
-  - 痱
+  - $痱3
   ==
 V
   ==
@@ -709,6 +710,29 @@ E
 S
   ==
   - $疿fai2
+  ==
+$$
+
+###+ 痱3 | _Fai(3)_ (fai3)
+
+$$.
+R
+  ⽧ + 8
+U
+  U+75F1
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 疿. **See $疿fai3 for the canonical entry.**
+  ++
+S
+  ==
+  - $痱fai2 (TODO)
+  - $痱fai6 (TODO)
+  - $痱fei4 (TODO)
   ==
 $$
 
