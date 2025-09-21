@@ -721,10 +721,34 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $吠6
 - $費6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 吠6 | _Fai(6)_ [[fai6]]
+
+$$
+R
+  ⼝ + 4
+U
+  U+5420
+F
+  ==
+  - [[F1.34 吠]] 犬聲
+  ==
+W
+  ====
+  - [[Page~44 吠(6)]]
+    ==
+    - The bark of a dog [[Kangxi: 犬吠鳴也, 犬聲]];
+    - _l(u:)n(6) fai(6) (2)kau_
+        [[lyun6 fai6 gau2 亂吠狗]],
+        a dog which barks at everybody.
+    ==
+  ====
+$$
 
 ###+ 費6 | _Fai(6)_ (fai6)
 

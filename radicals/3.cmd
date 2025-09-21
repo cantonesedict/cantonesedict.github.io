@@ -97,6 +97,7 @@ For all radicals, see [Index of characters by radical](./).
       - $吵caau2
       - $吹ceoi1
       - $呈cing4
+      - $吠fai6
       - $吱zi1
       ==
       </nav>
