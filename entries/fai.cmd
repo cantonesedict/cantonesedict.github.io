@@ -525,6 +525,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $疿2
+- $痱2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -547,6 +548,29 @@ P
 S
   ==
   - $疿fai3
+  ==
+$$
+
+###+ 痱2 | _(2)Fai_ (fai2)
+
+$$.
+R
+  ⽧ + 8
+U
+  U+75F1
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 疿, and reading variation. **See $疿fai3 for the canonical entry.**
+  ++
+S
+  ==
+  - $痱fai3
+  - $痱fai6 (TODO)
+  - $痱fei4 (TODO)
   ==
 $$
 
@@ -730,7 +754,7 @@ P
   ++
 S
   ==
-  - $痱fai2 (TODO)
+  - $痱fai2
   - $痱fai6 (TODO)
   - $痱fei4 (TODO)
   ==
