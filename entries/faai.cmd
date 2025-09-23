@@ -47,11 +47,67 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $塊3
 - $快3
 - $筷3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 塊3 | _F(a/)i(3)_ [[faai3]]
+
+$$
+R
+  ⼟ + 10
+U
+  U+584A
+A
+  ==
+  - 凷
+  ==
+F
+  ==
+  - [[F2.28 塊]] 片也片也
+  ==
+W
+  ====
+  - [[Page~44 塊(3)]]
+    ==
+    - A clod [[Kangxi: 墣也]], a lump;
+    - a piece of, a fraction;
+    - a classifier of ~~small~~ things which are flattish and usually shapeless,
+      as boards, panes, slices, &c.;
+    - doltish;
+    - _yat(7) f(a/)i(3) yuk(9)_
+        [[jat1 faai3 juk6 一塊肉]]
+        a slice of meat;
+    - _yat(7) f(a/)i(3) t(i/)(6)_
+        [[jat1 faai3 dei6 一塊地]]
+        a piece of land;
+    - _h(o\)m(6) f(a/)i(3)_
+        [[ham6 faai3 冚塊]]
+        the whole space;
+    - _t(a/)i(6) f(a/)i(3)_
+        [[daai6 faai3 大塊]]
+        the globe, nature [[Kangxi: 造物之名曰大塊]];
+    - _f(a/)i(3) (4)(i/)n (4)m(o\) (1)ch(i/)_
+        [[faai3 jin4 mou4 zi1 塊然無知]],
+        stupid.
+    ==
+    --
+    Used for the pronoun I [[Kangxi: 一曰楚人謂我曰塊]].
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: The headword 塊 is printed with the top dot missing
+    in the component 鬼.
+  ==
+P
+  ++
+  1. Solitary (Kangxi: 孑也).
+  ++
+$$
 
 ### 快3 | _F(a/)i(3)_ [[faai3]]
 
