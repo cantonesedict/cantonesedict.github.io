@@ -48,6 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $快3
+- $筷3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -81,9 +82,7 @@ W
     - _f(a/)i(3) (u/)t(9)_
         [[faai3 jyut6 快悅]]
         delighted, good spirits;
-    - _f(a/)i(3) (2)tsz'_
-        [[faai3 zi2 快子]]
-        chopsticks;
+    - [[...]];
     - _f(a/)i(3) f(a/)i(3)_
         [[faai3 faai3 快快]]
         quick!
@@ -109,6 +108,9 @@ W
         [[faai3 ceoi3 快脆]]
         speedy.
     ==
+    --
+    [[Otherwise, an alternative form of 筷. **See $筷faai3 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -131,4 +133,35 @@ E
        ==
     ++
   ====
+$$
+
+###+ 筷3 | _F(a/)i(3)_ (faai3)
+
+$$
+R
+  ⽵ + 7
+U
+  U+7B77
+A
+  ==
+  - $快3
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~44 快(3); here normalised to 筷]]
+    ==
+    - [[...]];
+    - _f(a/)i(3) (2)tsz'_
+        [[faai3 zi2 筷子]]
+        chopsticks;
+    - [[...]].
+    ==
+  ====
+C
+  ==
+  - Used without the suffix 子 in certain compounds,
+    e.g. 公筷 "public chopsticks" and 起筷 "raise chopsticks [to start eating]".
+  ==
 $$
