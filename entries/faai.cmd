@@ -48,6 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $傀3
+- $噲3
 - $塊3
 - $快3
 - $筷3
@@ -90,6 +91,44 @@ C
 S
   ==
   - $傀gwai1 (TODO)
+  ==
+$$
+
+### 噲3 | _F(a/)i(3)_ [[faai3]]
+
+$$
+R
+  ⼝ + 13
+U
+  U+5672
+F
+  ==
+  - [[F2.28 快]] 稱意也來也喜也又疾速也
+  - [[F2.28 噲]] 燕王名又咽也又與快同
+  ==
+W
+  ====
+  - [[Page~44 噲(3)]]
+    ==
+    - To swallow, to drink ~~with avidity~~ [[Kangxi: 一曰嚵噲也]];
+    - ~~voracious;~~
+    - the throat [[Kangxi: 咽也]] ~~stopped~~;
+    - ~~clamor of voices.~~
+    ==
+    --
+    Name of a king [[Kangxi: 人名燕王噲]].
+    --
+    --
+    [[Otherwise, an alternative form of 快. **See $快faai3 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Williams' "with avidity", "voracious": These are misreadings of Kangxi 一曰嚵噲也.
+    In 《說文》 (the source of this explanation), 嚵 means "sip/taste" or "beak".
+    It is *not* used for 饞, gluttonous.
+  - Williams' "Name of a king": Kangxi puts this under a separate reading,
+    _kw(a/)i(3)_ (gwaai3)^, per 《集韻》古邁切 .
   ==
 $$
 
@@ -155,9 +194,14 @@ R
   ⼼ + 4
 U
   U+5FEB
+A
+  ==
+  - $噲3
+  ==
 F
   ==
   - [[F2.28 快]] 稱意也來也喜也又疾速也
+  - [[F2.28 噲]] 燕王名又咽也又與快同
   ==
 W
   ====

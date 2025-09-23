@@ -224,6 +224,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $噪cou3
+      - $噲faai3
       - $嘴zeoi2
       ==
       </nav>
