@@ -47,12 +47,51 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $傀3
 - $塊3
 - $快3
 - $筷3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 傀3 | _F(a/)i(3)_ [[faai3]]
+
+$$
+R
+  ⼈ + 10
+U
+  U+5080
+V
+  ==
+  - kui2 (per 《廣韻》口猥切)
+  ==
+F
+  ==
+  - [[F2.28 傀]] ::傀儡[鬼]戲人也::
+  ==
+W
+  ====
+  - [[Page~44 傀(3)]]
+    ==
+    <## - Great, strange, monstrous, as an eruption, a meteor; ##>
+    - [[...]];
+    - _f(a/)i(3) [(5)]lui_
+        [[faai3 leoi5 傀儡]]^
+        puppets [[Kangxi: 今爲木偶戲曰傀儡]],
+        vulgarly called _(2)kwai (2)tsai h(i/)(3)_ [[gwai2 zai2 hei3 鬼仔戲]].
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed missing component 厶 in 鬼.
+  - Williams' 傀儡: Corrected _lui(6)_ (leoi6) to _(5)lui_ (leoi5).
+  ==
+S
+  ==
+  - $傀gwai1 (TODO)
+  ==
+$$
 
 ### 塊3 | _F(a/)i(3)_ [[faai3]]
 
