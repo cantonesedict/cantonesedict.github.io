@@ -47,12 +47,37 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $勛1
 - $勳1
 - $熏1
 - $燻1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+###+ 勛1 | _(1)Fan_ (fan1)
+
+$$.
+R
+  ⼒ + 10
+U
+  U+52DB
+F
+  ==
+  - [[F1.80 ::[勳]::]] 功勞也
+  - [[F1.80 勛]] 同上
+  ==
+W
+  [[Not present]]
+C
+  ==
+  - Fan Wan entry: Normalised headword ⿺熏力 to 勳.
+  ==
+P
+  ++
+  1. Alternative form of 勳. **See $勳fan1 for the canonical entry.**
+  ++
+$$
 
 ### [勳]1 | _(1)Fan_ [[fan1]]
 
@@ -63,7 +88,7 @@ U
   U+52F3
 A
   ==
-  - 勛
+  - $勛1
   ==
 F
   ==
