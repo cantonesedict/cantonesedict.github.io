@@ -47,11 +47,49 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $勳1
 - $熏1
 - $燻1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### [勳]1 | _(1)Fan_ [[fan1]]
+
+$$
+R
+  ⼒ + 14
+U
+  U+52F3
+A
+  ==
+  - 勛
+  ==
+F
+  ==
+  - [[F1.80 ::[勳]::]] 功勞也
+  - [[F1.80 勛]] 同上
+  ==
+W
+  ====
+  - [[Page~45 ::(1)[勳]^::]]
+    ==
+    - Loyal merit [[Kangxi: 能成王功也 etc.]], meritorious;
+    - to spend strength for one's king;
+    - _(1)fan (4)l(o\)_
+        [[fan1 lou4 勳勞]],
+        merit obtained in serving the state;
+    - _(1)fan (4)shan_
+        [[fan1 san4 勳臣]],
+        a patriotic statesman.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised headword ⿺熏力 to 勳.
+  - Williams entry: Normalised headword ⿺熏力 to 勳.
+  ==
+$$
 
 ### 熏1 | _(1)Fan_ [[fan1]]
 
