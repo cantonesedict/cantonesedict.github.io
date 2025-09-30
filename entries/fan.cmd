@@ -48,6 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $熏1
+- $燻1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -61,7 +62,7 @@ U
   U+718F
 A
   ==
-  - 燻 <## TODO: $燻fan1 ##>
+  - $燻1 (for smoke-related senses)
   ==
 F
   ==
@@ -108,5 +109,22 @@ C
 P
   ++
   1. Amiable and cheerful (Kangxi: 熏熏和悅也).
+  ++
+$$
+
+###+ 燻1 | _(1)Fan_ (fan1)
+
+$$
+R
+  ⽕ + 14
+U
+  U+71FB
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 熏 (for the smoke-related senses). See $熏fan1.
   ++
 $$
