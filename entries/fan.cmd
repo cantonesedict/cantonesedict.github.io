@@ -51,6 +51,7 @@ $$
 - $勳1
 - $婚1
 - $昏1
+- $昬1
 - $曛1
 - $熏1
 - $燻1
@@ -175,7 +176,7 @@ U
   U+660F
 A
   ==
-  - 昬
+  - $昬1
   ==
 F
   ==
@@ -224,6 +225,23 @@ P
   1. To endeavour, to make an effort (Kangxi: 昏彊也).
   1. Not yet named (Kangxi: 未名曰昏).
   1. To lose consciousness.
+  ++
+$$
+
+###+ 昬1 | _(1)Fan_ (fan1)
+
+$$.
+R
+  ⽇ + 5
+U
+  U+662C
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 昏. **See $昏fan1 for the canonical entry.**
   ++
 $$
 

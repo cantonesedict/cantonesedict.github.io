@@ -797,6 +797,7 @@ For all radicals, see [Index of characters by radical](./).
       - $春ceon1
       - {$昭ciu1, $昭ziu1}
       - {$昶coeng3, $昶cong2}
+      - $昬fan1
       - $昝zaan2
       - {$昨zok3, $昨zok6}
       ==
