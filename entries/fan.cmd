@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fan
-* %date-modified --> 2025-09-30
+* %date-modified --> 2025-10-02
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -49,6 +49,7 @@ $$
 =={.modern}
 - $勛1
 - $勳1
+- $曛1
 - $熏1
 - $燻1
 ==
@@ -116,6 +117,50 @@ C
   ==
 $$
 
+### 曛1 | _(1)Fan_ [[fan1]]
+
+$$
+R
+  ⽇ + 14
+U
+  U+66DB
+A
+  ==
+  - $熏1
+  ==
+F
+  ==
+  - [[F1.80 曛]] 日没曰曛
+  ==
+W
+  ====
+  - [[Page~45 (1)熏; here normalised to 曛]]
+    ==
+    - [[...]];
+    - ~~evening;~~
+    - [[...]];
+    - _(1)fan tsik(9)_
+        [[fan1 zik6 曛夕]]
+        twilight;
+    - [[...]].
+    ==
+  - [[Page~45 (1)曛]]
+    ==
+    - Twilight [[Kangxi: 黃昏時]];
+    - the light reflected after sunset [[Kangxi: 日入餘光]];
+    - ~~exhilarated;~~
+    - _(1)sh(a/)n (4)h(a/)m (1)fan (2)[ying]_
+        [[saan1 haam4 fan1 jing2 山涵曛映]],
+        the hills are tinged with the setting sun.
+    ==
+  ====
+C
+  ==
+  - Williams' "Twilight": Specifically, dusk.
+  - Williams' 山涵曛映: Corrected _(2)y(e/)ung_ (joeng2) to _(2)ying_ (jing2).
+  ==
+$$
+
 ### 熏1 | _(1)Fan_ [[fan1]]
 
 $$
@@ -140,13 +185,11 @@ W
     - to smoke, to fumigate, to heat [[Kangxi: 熱也]], to parch [[Kangxi: 熏灼也]];
     - to offend;
     - to becloud;
-    - ~~evening;~~
+    - [[...]];
     - _(1)fan (1)fung_
         [[fan1 fung1 熏風]],
         warm wind [[Kangxi: 東南曰熏風]];
-    - _(1)fan tsik(9)_
-        [[fan1 zik6 熏夕]] <## TODO: $曛fan1 ##>
-        twilight;
+    - [[...]];
     - _(1)fan (2)fo (2)t(')(u/)i_
         [[fan1 fo2 teoi2 熏火腿]],
         to smoke hams;
@@ -160,6 +203,9 @@ W
         [[fan1 zek3 熏炙]]
         to cauterize.
     ==
+    --
+    [[Otherwise, an alternative form of 曛. **See $曛fan1 for the canonical entry.**]]
+    --
   ====
 C
   ==
