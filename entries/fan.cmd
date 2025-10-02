@@ -49,6 +49,7 @@ $$
 =={.modern}
 - $勛1
 - $勳1
+- $昏1
 - $曛1
 - $熏1
 - $燻1
@@ -119,6 +120,67 @@ C
   - Fan Wan entry: Normalised headword ⿺熏力 to 勳.
   - Williams entry: Normalised headword ⿺熏力 to 勳.
   ==
+$$
+
+### 昏1 | _(1)Fan_ [[fan1]]
+
+$$
+R
+  ⽇ + 4
+U
+  U+660F
+A
+  ==
+  - 昬
+  ==
+F
+  ==
+  - [[F1.80 昏]] 日暮也暗也昧也
+  ==
+W
+  ====
+  - [[Page~45 (1)昏]]
+    ==
+    - The sun setting [[Kangxi: 日冥也]];
+    - twilight;
+    - dusk [[Kangxi: 昏代也, 代明也, 日入後二刻半爲昏昏來則明往故云代明]];
+    - obscure, confused, dull [[Kangxi: 昏亂也]];
+    - in disorder;
+    - ~~to oblige to do;~~
+    - _(4)wong (1)fan_
+        [[wong4 fan1 黃昏]],
+        dusk;
+    - _(1)fan (o\)m(3)_
+        [[fan1 am3 昏暗]]
+        dark, dull;
+    - _(1)fan l(u:)n(6)_
+        [[fan1 lyun6 昏亂]]
+        confused;
+    - _(1)fan m(u/)i(6)_
+        [[fan1 mui6 昏昧]]
+        unintelligible;
+    - _(1)fan y(e/)(6)_
+        [[fan1 je6 昏夜]]
+        night;
+    - _(1)fan (1)f(a/)_
+        [[fan1 faa1 昏花]],
+        motes in the eye.
+    ==
+    --
+    [[Otherwise, an alternative form of 婚. **See $婚fan1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Williams' "twilight": Specifically, dusk.
+  - Williams' 昏夜: Better rendered "gloomy night".
+  ==
+P
+  ++
+  1. To endeavour, to make an effort (Kangxi: 昏彊也).
+  1. Not yet named (Kangxi: 未名曰昏).
+  1. To lose consciousness.
+  ++
 $$
 
 ### 曛1 | _(1)Fan_ [[fan1]]
