@@ -54,6 +54,7 @@ $$
 - $燻1
 - $獯1
 - $薰1
+- $醺1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -210,18 +211,23 @@ W
     --
     [[Otherwise, an alternative form of 曛. **See $曛fan1 for the canonical entry.**]]
     --
+    --
+    [[Otherwise, an alternative form of 醺. **See $醺fan1 for the canonical entry.**]]
+    --
   ====
 C
   ==
   - Fan Wan entry: Normalised {𤍠=⿱執灬} to 熱.
   - Williams' "uneasy, fidgetty": This is a rendering of Kangxi 熏熏坐不安之貌,
-    which is one of the explanations for 《詩大雅》公尸來止熏熏
-    (not a very good one, in my opinion).
+    which is one of the explanations for 《詩大雅》公尸來止熏熏,
+    but not a very good one, in my opinion.
+    The other explanations (熏熏和悅也 and 熏說文作醺醉也) are better.
   - Williams' 熏炙: Corrected _chek(9)_ (zek6) to _chek(8)_ (zek3).
   ==
 P
   ++
   1. Amiable and cheerful (Kangxi: 熏熏和悅也).
+  1. Warm.
   ++
 $$
 
@@ -304,4 +310,32 @@ P
   ++
   1. To influence.
   ++
+$$
+
+### 醺1 | _(1)Fan_ [[fan1]]
+
+$$
+R
+  ⾣ + 14
+U
+  U+91BA
+A
+  ==
+  - $熏1
+  ==
+F
+  ==
+  - [[F1.80 醺]] 微醉也
+  ==
+W
+  ====
+  - [[Page~45 (1)醺]]
+    ==
+    - Intoxicated, drunk [[Kangxi: 醉也 etc.]];
+    - smelling of liquor;
+    - _tsui(3) (1)fan (1)fan_
+        [[zeoi3 fan1 fan1 醉醺醺]],
+        gloriously drunk.
+    ==
+  ====
 $$
