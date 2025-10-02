@@ -49,6 +49,7 @@ $$
 =={.modern}
 - $勛1
 - $勳1
+- $婚1
 - $昏1
 - $曛1
 - $熏1
@@ -119,6 +120,49 @@ C
   ==
   - Fan Wan entry: Normalised headword ⿺熏力 to 勳.
   - Williams entry: Normalised headword ⿺熏力 to 勳.
+  ==
+$$
+
+### 婚1 | _(1)Fan_ [[fan1]]
+
+$$
+R
+  ⼥ + 8
+U
+  U+5A5A
+A
+  ==
+  - $昏1
+  ==
+F
+  ==
+  - [[F1.80 婚]] 婚姻
+  ==
+W
+  ====
+  - [[Page~45 (1)婚]]
+    ==
+    - Marriage [[Kangxi: 婚姻嫁也]];
+    - to take a wife;
+    - _(1)fan (1)yan_
+        [[fan1 jan1 婚姻]],
+        ~~nuptials~~;
+    - _(4)m(a/)i (1)fan_
+        [[maai4 fan1 埋婚]],
+        to complete a marriage;
+    - _[(4)]l(i/)n (1)fan_
+        [[lin4 fan1 連婚]] [[Kangxi: 婚嫁之婚親曰連婚]],
+        ~~to marry relatives~~;
+    - _(1)fan p(')(u/)i(3)_
+        [[fan1 pui3 婚配]]
+        to contract a marriage.
+    ==
+  ====
+C
+  ==
+  - Williams' 婚姻: Better rendered "marriage".
+  - Williams' 連婚: Corrected _(1)l(i/)n_ (lin1) to _(4)l(i/)n_ (lin4).
+    Not to marry relatives, but relatives by marriage (i.e. in-laws).
   ==
 $$
 
