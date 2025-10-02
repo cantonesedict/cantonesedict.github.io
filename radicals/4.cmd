@@ -1970,6 +1970,14 @@ For all radicals, see [Index of characters by radical](./).
       ==
       </nav>
   //
+    , 14
+    ,
+      <nav class="sideways">
+      ==
+      - $獯fan1
+      ==
+      </nav>
+  //
     , 16
     ,
       <nav class="sideways">

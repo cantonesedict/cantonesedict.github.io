@@ -52,6 +52,7 @@ $$
 - $曛1
 - $熏1
 - $燻1
+- $獯1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -236,4 +237,25 @@ P
   ++
   1. Alternative form of 熏 (for the smoke-related senses). See $熏fan1.
   ++
+$$
+
+### 獯1 | _(1)Fan_ [[fan1]]
+
+$$
+R
+  ⽝ + 14
+U
+  U+736F
+F
+  ==
+  - [[F1.80 獯]] 獯鬻狄人號也
+  ==
+W
+  ====
+  - [[Page~45 (1)獯]]
+    ==
+    - A tribe of aborigines, called _(1)fan yuk(9)_ [[fan1 juk6 獯鬻]] [[Kangxi: 獯鬻 etc.]];
+    - they dwelt near Shens(i/) [[陝西]].
+    ==
+  ====
 $$
