@@ -53,6 +53,7 @@ $$
 - $熏1
 - $燻1
 - $獯1
+- $薰1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -91,6 +92,7 @@ U
 A
   ==
   - $勛1
+  - $薰1
   ==
 F
   ==
@@ -172,6 +174,7 @@ U
 A
   ==
   - $燻1 (for smoke-related senses)
+  - $薰1
   ==
 F
   ==
@@ -246,6 +249,10 @@ R
   ⽝ + 14
 U
   U+736F
+A
+  ==
+  - $薰1
+  ==
 F
   ==
   - [[F1.80 獯]] 獯鬻狄人號也
@@ -258,4 +265,43 @@ W
     - they dwelt near Shens(i/) [[陝西]].
     ==
   ====
+$$
+
+### 薰1 | _(1)Fan_ [[fan1]]
+
+$$
+R
+  ⾋ + 14
+U
+  U+85B0
+F
+  ==
+  - [[F1.80 ::[薰]::]] 香草
+  ==
+W
+  ====
+  - [[Page~45 (1)薰]]
+    ==
+    - Fragrant plants [[Kangxi: 香草也]], fragrance;
+    - used ~~in houses~~ to expel demons [[Kangxi: 古人祓除以此草薰之故謂之薰]];
+    - a savory smell.
+    ==
+    --
+    [[Otherwise, an alternative form of 熏. **See $熏fan1 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 獯. **See $獯fan1 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 勳. **See $勳fan1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed missing stroke in headword 薰.
+  ==
+P
+  ++
+  1. To influence.
+  ++
 $$
