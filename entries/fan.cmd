@@ -50,6 +50,7 @@ $$
 - $勛1
 - $勳1
 - $婚1
+- $惛1
 - $昏1
 - $昬1
 - $曛1
@@ -166,6 +167,36 @@ C
   - Williams' 連婚: Corrected _(1)l(i/)n_ (lin1) to _(4)l(i/)n_ (lin4).
     Not to marry relatives, but relatives by marriage (i.e. in-laws).
   ==
+$$
+
+### 惛1 | _(1)Fan_ [[fan1]]
+
+$$
+R
+  ⼼ + 8
+U
+  U+60DB
+A
+  ==
+  - 惽
+  ==
+V
+  ==
+  - fan3 (per 《廣韻》呼悶切 for "forgetful" sense)
+  - man5 (per 《集韻》弭盡切 for "confused" sense)
+  ==
+F
+  ==
+  - [[F1.80 惛]] 心不明也
+  ==
+W
+  ====
+  - [[Page~45 (1)惛]]
+    ==
+    - Stupid [[Kangxi: 不憭也, 不明了也, 心不明也]], forgetful [[Kangxi: 迷忘也]];
+    - confused ~~recollection~~ [[Kangxi: 昏意也]].
+    ==
+  ====
 $$
 
 ### 昏1 | _(1)Fan_ [[fan1]]
