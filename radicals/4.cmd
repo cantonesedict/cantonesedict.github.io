@@ -1519,6 +1519,7 @@ For all radicals, see [Index of characters by radical](./).
       - {$湛cam4, $湛zaam3, $湛zam3}
       - {$湫cau1, $湫zau1, $湫ziu2}
       - $湊cau3
+      - $湣fan1
       - $渣zaa1
       - $滋zi1
       - $湜zik6

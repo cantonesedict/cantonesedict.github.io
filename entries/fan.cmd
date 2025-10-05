@@ -55,6 +55,7 @@ $$
 - $昬1
 - $曛1
 - $涽1
+- $湣1
 - $熏1
 - $燻1
 - $獯1
@@ -331,7 +332,7 @@ U
   U+6DBD
 A
   ==
-  - 湣
+  - $湣1
   ==
 F
   ==
@@ -355,6 +356,27 @@ C
   ==
   - Fan Wan entry: The posthumous-name sense should be read _(5)man_ (man5)
     and spelt 湣. See $湣man5 (TODO).
+  ==
+$$
+
+###+ 湣1 | _(1)Fan_ (fan1)
+
+$$.
+R
+  ⽔ + 9
+U
+  U+6E63
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 涽. **See $涽fan1 for the canonical entry.**
+  ++
+S
+  ==
+  - $湣man5 (TODO)
   ==
 $$
 
