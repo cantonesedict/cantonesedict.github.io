@@ -54,6 +54,7 @@ $$
 - $昏1
 - $昬1
 - $曛1
+- $涽1
 - $熏1
 - $燻1
 - $獯1
@@ -318,6 +319,42 @@ C
   ==
   - Williams' "Twilight": Specifically, dusk.
   - Williams' 山涵曛映: Corrected _(2)y(e/)ung_ (joeng2) to _(2)ying_ (jing2).
+  ==
+$$
+
+### 涽1 | _(1)Fan_ [[fan1]]
+
+$$
+R
+  ⽔ + 8
+U
+  U+6DBD
+A
+  ==
+  - 湣
+  ==
+F
+  ==
+  - [[F1.80 涽]] 齊涽王
+  ==
+W
+  ====
+  - [[Page~45 (1)涽]]
+    ==
+    - Unsettled, unstable, like water [[Kangxi: 涽涽未定貌]];
+    - [[...]].
+    <## TODO: Correct $涽fan1 to $湣man5
+    - [[...]];
+    - _[(5)Man] (4)wong_
+        [[man5 wong4]],
+        king of the Ts(i/) [[齊]] state, B.~C.~300.
+    ##>
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: The posthumous-name sense should be read _(5)man_ (man5)
+    and spelt 湣. See $湣man5 (TODO).
   ==
 $$
 
