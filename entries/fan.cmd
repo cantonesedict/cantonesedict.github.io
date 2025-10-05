@@ -63,6 +63,7 @@ $$
 - $醺1
 - $閽1
 - $餴1
+- $饙1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -619,5 +620,50 @@ W
     --
     [[Alternative form of 饙. **See $饙fan1 for the canonical entry.**]]
     --
+  ====
+$$
+
+###+ 饙1 | _(1)Fan_ (fan1)
+
+$$
+R
+  ⾷ + 12
+U
+  U+9959
+H
+  May appear with 艹 having 3~strokes (+12 assumed here) or 4~strokes (+13),
+  depending on the font.
+A
+  ==
+  - $餴1
+  ==
+F
+  ==
+  - [[F1.80 餴]] 蒸熟米以水沃之乃再蒸也
+  ==
+W
+  ====
+  - [[Page~45 (1)餴; here normalised to 饙]]
+    ==
+    - Rice steamed thoroughly;
+    - to steam rice [[Kangxi 饙: ::[...]然則蒸米爲之饙饙必餾而熟之[...]::]].
+    ==
+  ====
+C
+  ====
+  - Kangxi's treatment is confusing.
+    ==
+    - For the form 餴, it gives a single sense, defined 半蒸飯也與饙同
+      (half-steamed-rice, same as 饙),
+      along with the commentary 餴蒸米一熟而以水沃之乃再蒸也
+      (to steam rice till cooked, then add water, then steam again).
+      This is consistent with Williams' "Rice steamed thoroughly".
+    - For the form 饙, it splits things up into:
+      ++
+      1. The "half-steamed-rice" sense (半蒸飯); and
+      2. What appears to be the "thoroughly cooked" sense,
+         based on a heap of commentary on 《爾雅釋言》饙餾稔也.
+      ++
+    ==
   ====
 $$
