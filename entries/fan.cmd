@@ -59,6 +59,7 @@ $$
 - $熏1
 - $燻1
 - $獯1
+- $葷1
 - $薰1
 - $醺1
 - $閽1
@@ -475,6 +476,7 @@ U
   U+736F
 A
   ==
+  - $葷1
   - $薰1
   ==
 F
@@ -489,6 +491,44 @@ W
     - they dwelt near Shens(i/) [[陝西]].
     ==
   ====
+$$
+
+### 葷1 | _(1)Fan_ [[fan1]]
+
+$$
+R
+  ⾋ + 9
+U
+  U+8477
+F
+  ==
+  - [[F1.80 葷]] ::臭草又不食[齋]曰葷::
+  ==
+W
+  ====
+  - [[Page~45 (1)葷]]
+    ==
+    - Leeks, onions, and strong flavored vegetables [[Kangxi: 蔥薤也, 葷臭菜也 etc.]];
+    - animal food;
+    - _(1)fan s(u/)(3)_
+        [[fan1 sou3 葷素]]
+        meats or vegetables;
+    - _pat(7) (4)(u:) (1)fan_
+        [[bat1 jyu4 fan1 不？葷]],
+        not to eat meat;
+    - _(1)fan (1)seng_
+        [[fan1 seng1 葷腥]],
+        ~~savory~~ odors of food.
+    ==
+    --
+    [[Otherwise, an alternative form of 獯. **See $獯fan1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed 齋.
+  - Williams' 葷腥: Better rendered "meaty odours".
+  ==
 $$
 
 ### 薰1 | _(1)Fan_ [[fan1]]
