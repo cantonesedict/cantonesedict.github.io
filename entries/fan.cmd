@@ -62,6 +62,7 @@ $$
 - $薰1
 - $醺1
 - $閽1
+- $餴1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -596,4 +597,27 @@ P
   ++
   1. A palace gate.
   ++
+$$
+
+### 餴1 | _(1)Fan_ [[fan1]]
+
+$$.
+R
+  ⾷ + 8
+U
+  U+9934
+H
+  May appear as either ⿰飠⿱大卉 (+8 assumed here) or ⿰飠⿱大𠦄 (+9),
+  depending on the font.
+F
+  ==
+  - [[F1.80 餴]] 蒸熟米以水沃之乃再蒸也
+  ==
+W
+  ====
+  - [[Page~45 (1)餴]]
+    --
+    [[Alternative form of 饙. **See $饙fan1 for the canonical entry.**]]
+    --
+  ====
 $$
