@@ -61,6 +61,7 @@ $$
 - $獯1
 - $薰1
 - $醺1
+- $閽1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -553,4 +554,46 @@ W
         gloriously drunk.
     ==
   ====
+$$
+
+### 閽1 | _(1)Fan_ [[fan1]]
+
+$$
+R
+  ⾨ + 8
+U
+  U+95BD
+A
+  ==
+  - {𨵽=⿵門昬}
+  ==
+F
+  ==
+  - [[F1.80 閽]] 閽人守門之役
+  ==
+W
+  ====
+  - [[Page~45 (1)閽]]
+    ==
+    - ~~To shut the door at evening;~~
+    - a porter [[Kangxi: 閽者守門之賤者也]];
+    - _(1)fan (4)yan_
+        [[fan1 jan4 閽人]],
+        a doorkeeper, an eunuch who keeps the hareem;
+    - _k(')au(3) (1)fan_
+        [[kau3 fan1 叩閽]],
+        to visit the palace [[Kangxi: 凡吏民冤抑詣闕自愬者曰叩閽]].
+    ==
+  ====
+C
+  ==
+  - Williams' "To shut the door at evening":
+    This is a misreading of Kangxi 常以昏閉門隸也,
+    which refers to the *lowly servant* (隸) who shuts the door at evening.
+  - Williams' "a porter": Specifically, a lowly porter.
+  ==
+P
+  ++
+  1. A palace gate.
+  ++
 $$
