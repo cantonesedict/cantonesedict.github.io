@@ -61,6 +61,7 @@ $$
 - $燻1
 - $獯1
 - $葷1
+- $蔒1
 - $薰1
 - $醺1
 - $閽1
@@ -418,7 +419,7 @@ W
 C
   ==
   - Fan Wan entry: Fixed missing stroke in 愴.
-  - Williams considers 蔒 and 焄 interchangeable.
+  - Williams considers $蔒1 and 焄 interchangeable.
     This is only true in the sense that both are alternative forms of 葷.
   - Williams' "savory odors": This is a misreading of Kangxi 香臭,
     which refers odours in general (whether good or bad).
@@ -551,6 +552,7 @@ U
 A
   ==
   - $焄1
+  - $蔒1
   ==
 F
   ==
@@ -580,6 +582,29 @@ C
   ==
   - Fan Wan entry: Corrected malformed 齋.
   - Williams' 葷腥: Better rendered "meaty odours".
+  ==
+$$
+
+### 蔒1 | _(1)Fan_ [[fan1]]
+
+$$.
+R
+  ⾋ + 11
+U
+  U+8512
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~45 ::(1)蔒~~(1)焄~~::]]
+    --
+    [[Alternative form of 葷. **See $葷fan1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Williams considers 蔒 and $焄1 interchangeable.
+    This is only true in the sense that both are alternative forms of 葷.
   ==
 $$
 
