@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2025-09-07
+* %date-modified --> 2025-10-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -468,7 +468,7 @@ F
   ==
 W
   ====
-  - [[Page~2 亞(3)阿(3)]]
+  - [[Page~2 ::亞(3)~~阿(3)~~::]]
     ==
     - Hunchbacked [[Kangxi 亞: 象人局背之形]];
     - to esteem lightly, to regard as inferior;

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2025-07-19
+* %date-modified --> 2025-10-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1762,7 +1762,7 @@ F
   ==
 W
   ====
-  - [[Page~26|n69 (4)讐(4)仇; here normalised to 讎]]
+  - [[Page~26|n69 ::(4)讐~~(4)仇~~::; here normalised to 讎]]
     ==
     - [[...]]; <## TODO: 仇 sau4 "enmity" ##>
     - to verify, to collate with [[Kangxi 讎: 應驗也]];

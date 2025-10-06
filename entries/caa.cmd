@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2025-09-21
+* %date-modified --> 2025-10-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -127,7 +127,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~8 (1)汊(1)岔]]
+  - [[Page~8 ::~~(1)汊~~(1)岔::]]
     ==
     - [[...]] roads diverging [[Kangxi 岔: 三分路也]];
     - _(1)s(a/)m (1)ch(')(a/) l(o\)(6) (2)hau_
@@ -269,7 +269,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~8 (1)汊(1)岔]]
+  - [[Page~8 ::(1)汊~~(1)岔~~::]]
     ==
     - Streams [[...]] diverging [[Kangxi 汊: 水岐流也]];
     - [[...]];
