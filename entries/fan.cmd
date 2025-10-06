@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fan
-* %date-modified --> 2025-10-05
+* %date-modified --> 2025-10-06
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -56,6 +56,7 @@ $$
 - $曛1
 - $涽1
 - $湣1
+- $焄1
 - $熏1
 - $燻1
 - $獯1
@@ -384,6 +385,47 @@ S
   ==
 $$
 
+### 焄1 | _(1)Fan_ [[fan1]]
+
+$$
+R
+  ⽕ + 7
+U
+  U+7104
+F
+  ==
+  - [[F1.80 焄]] ::香氣也禮云焄蒿悽[愴]::
+  ==
+W
+  ====
+  - [[Page~45 ::~~(1)蔒~~(1)焄::]]
+    ==
+    - [[...]];
+    - fumes from cooked vegetables;
+    - ~~savory~~ odors [[Kangxi: 香臭之氣也]];
+    - _(1)fan (1)[h(o\)]_
+        [[fan1 hou1 焄蒿]],
+        steam from viands;
+        odorous exhalations.
+    ==
+    --
+    [[Otherwise, an alternative form of 熏. **See $熏fan1 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 葷. **See $葷fan1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed missing stroke in 愴.
+  - Williams considers 蔒 and 焄 interchangeable.
+    This is only true in the sense that both are alternative forms of 葷.
+  - Williams' "savory odors": This is a misreading of Kangxi 香臭,
+    which refers odours in general (whether good or bad).
+  - Williams' 焄蒿: Corrected _(1)ho_ (ho1) to _(1)h(o\)_ (hou1).
+  ==
+$$
+
 ### 熏1 | _(1)Fan_ [[fan1]]
 
 $$
@@ -393,6 +435,7 @@ U
   U+718F
 A
   ==
+  - $焄1
   - $燻1 (for smoke-related senses)
   - $薰1
   ==
@@ -425,7 +468,7 @@ W
         to dry at the fire;
     - _(1)fan chek[(8)]_
         [[fan1 zek3 熏炙]]
-        to cauterize.
+        to cauterize [[Kangxi 焄: 焄猶熏炙之也]].
     ==
     --
     [[Otherwise, an alternative form of 曛. **See $曛fan1 for the canonical entry.**]]
@@ -433,6 +476,11 @@ W
     --
     [[Otherwise, an alternative form of 醺. **See $醺fan1 for the canonical entry.**]]
     --
+  - [[Page~45 ::~~(1)蔒~~(1)焄::]]
+    ==
+    - Vapor or steam [[Kangxi 焄: 火上出也, 亦作熏]];
+    - [[...]].
+    ==
   ====
 C
   ==
@@ -500,6 +548,10 @@ R
   ⾋ + 9
 U
   U+8477
+A
+  ==
+  - $焄1
+  ==
 F
   ==
   - [[F1.80 葷]] ::臭草又不食[齋]曰葷::
