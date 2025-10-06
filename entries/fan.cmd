@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [fan1](#1)
+- [fan6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -47,6 +48,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $分1
 - $勛1
 - $勳1
 - $婚1
@@ -70,6 +72,90 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 分1 | _(1)Fan_ [[fan1]]
+
+$$
+R
+  ⼑ + 2
+U
+  U+5206
+F
+  ==
+  - [[F1.80 分]] 分别分離
+  ==
+W
+  ====
+  - [[Page~45 (1)分]]
+    ==
+    - To separate, to divide [[Kangxi: 別也]];
+    - to halve [[Kangxi: 半也]];
+    - to distribute [[Kangxi: 賦也施也]], to divide amongst;
+    - to give, to partake with [[Kangxi: 與也]];
+    - a candareen, a tenth in decimal notation.
+    ==
+    --
+    [[...]]
+    --
+    ==
+    - _(4)P(')ing (1)fan_
+        [[ping4 fan1 平分]],
+        to divide evenly;
+    - _(1)fan (1)hoi_
+        [[fan1 hoi1 分開]],
+        to separate;
+    - _(1)fan p(i/)t[(9)]_
+        [[fan1 bit6 分別]]
+        to divide, to leave;
+    - _(1)fan p(u/)n[(6)]_
+        [[fan1 bun6 分伴]]
+        to dissolve partnership;
+    - _(1)fan (4)ch(')ing sh(o\)(3)_
+        [[fan1 cing4 sou3 分程數]]
+        to pay in proportion;
+    - _(1)fan (1)k(a/)_
+        [[fan1 gaa1 分家]],
+        to divide the estate;
+    - _(1)fan [p(')(a/)i](3)_
+        [[fan1 paai3 分派]]
+        to give amongst;
+    - _yat(7) (1)fan (4)hong fo(3), yat(7) (1)fan (4)ts(')(i/)n_
+        [[jat1 fan1 hong4 fo3 jat1 fan1 cin4 一分行貨一分錢]],
+        each kind of goods has its own price;
+    - _(1)fan (1)k(o\)m (4)t(')ung m(i/)(6)_
+        [[fan1 gam1 tung4 mei6 分柑同味]]
+        same taste as the carpels of an orange;
+    - _(1)fan (4)(u:)n_
+        [[fan1 jyun4 分？]],
+        a deputy district magistrate.
+    ==
+    --
+    [[Otherwise, an alternative form of 紛. **See $紛fan1 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Williams' "a candareen": That is, a tenth of a mace (錢),
+    or a hundredth of a tael (両).
+  - Williams' 分別: Corrected _p(i/)t(8)_ (bit3) to _p(i/)t(9)_ (bit6).
+    Also "separately".
+  - Williams' 分伴: Corrected _p(u/)n(3)_ (bun3) to _p(u/)n(6)_ (bun6).
+  - Williams' 分派: Corrected _p(a/)i(3)_ (baai3) to _p(')(a/)i(3)_ (paai3).
+  - Williams' 分柑同味: So spelt because of his reference to "orange".
+    The more common form is 分甘同味, with "sweetness" replacing "orange".
+  ==
+P
+  ++
+  1. To distinguish (Kangxi: 判也).
+  1. A minute.
+  1. A point, a mark (in scoring).
+  1. A tenth of a Chinese inch (寸).
+  ++
+S
+  ==
+  - $分fan6
+  ==
+$$
 
 ###+ 勛1 | _(1)Fan_ (fan1)
 
@@ -783,4 +869,68 @@ C
       ++
     ==
   ====
+$$
+
+
+##{#6 .williams} Fan(6) [[fan6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $分6
+==
+</nav>
+<## /tone-6-characters ##>
+
+###+ 分6 | _Fan(6)_ (fan6)
+
+$$
+R
+  ⼑ + 2
+U
+  U+5206
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~45 (1)分 read _Fan(3)_ (fan3); here corrected to _Fan(6)_ (fan6)]]
+    --
+    [[...]]
+    --
+    ==
+    - Read _fan[(6)]_ [[fan6]] a portion [[Kangxi: 均也分劑也]], a duty, a part [[Kangxi: 分位也]];
+    - _(1)s(a/)m fan[(6)] (1)ch(i/) yat(7)_
+        [[saam1 fan6 zi1 jat1 三分之一]]
+        one third.
+    ==
+    --
+    [[...]]
+    --
+    --
+    [[Alternative form of 份. See $份fan6.]]
+    --
+  ====
+C
+  ==
+  - In Cantonese, the fraction-building sense of 分 is a noun, not a verb.
+    It makes sense for 三分之一 to be parsed as "one of three shares (or portions)".
+    As such, it is to be read in the departing tone, _fan(6)_ (fan6).
+    It is *not* to be read in the level tone, as in Mandarin.
+  - By extension, the "fraction" sense of 分
+    is also to be read in the departing tone in Cantonese.
+    This distinguishes 分數 fan6 sou3 "fraction"
+    from 分數 fan1 sou3 "score/points".
+  ==
+P
+  ++
+  1. A fraction (of mathematics).
+     ==
+     - 分數 (fan6 sou3): "Fraction."
+     - 約分 (joek3 fan6): "Reducing fractions."
+     ==
+  ++
+S
+  ==
+  - $分fan1
+  ==
 $$
