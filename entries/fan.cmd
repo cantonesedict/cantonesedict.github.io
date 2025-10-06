@@ -877,10 +877,71 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $份6
 - $分6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 份6 | _Fan(6)_ [[fan6]]
+
+$$
+R
+  ⼈ + 4
+U
+  U+4EFD
+A
+  ==
+  - $分6
+  ==
+V
+  ==
+  - fan6-2 (vernacular rising-tone noun for "part" senses)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~713 (2)份]]
+    --
+    [[...]] <## TODO: $份ban1 ##>
+    --
+    --
+    The proper sound in colloquial is _fan(6)_ [[fan6]]^,
+    though sometimes read _(2)fan_ [[fan6-2]].
+    --
+    --
+    It is the same word as 分(6) [[fan6]] when used as a noun.
+    --
+  ====
+P
+  ++
+  1. A share or part amongst a whole.
+     ==
+     - 股份 (gu2 fan6-2): "Shares."
+     ==
+  1. Classifier for documents.
+  1. Classifier for gifts.
+  1. Classifier for jobs.
+  1. Suffixed after 年, 月, 省, etc.
+     to indicate an interval (in time) or division (in space).
+  ++
+E
+  ====
+  - 【份】 (fan6-2):
+    ++
+    1. A part, a partaking.
+       ==
+       - 有份出席 (jau5 fan6-2 ceot1 zik6): "Have [a] part [in] attending."
+       - 冇佢分 (mou5 keoi5 fan6-2): "There's no part [for] him" (i.e. he is excluded).
+       ==
+    ++
+  ====
+S
+  ==
+  - $份ban1 (TODO)
+  ==
+$$
 
 ###+ 分6 | _Fan(6)_ (fan6)
 
