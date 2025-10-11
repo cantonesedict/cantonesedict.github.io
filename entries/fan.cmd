@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [fan1](#1)
+- [fan4](#4)
 - [fan6](#6)
 ==
 </nav>
@@ -57,6 +58,7 @@ $$
 - $昏1
 - $昬1
 - $曛1
+- $枌1
 - $涽1
 - $湣1
 - $焄1
@@ -442,6 +444,30 @@ C
   ==
   - Williams' "Twilight": Specifically, dusk.
   - Williams' 山涵曛映: Corrected _(2)y(e/)ung_ (joeng2) to _(2)ying_ (jing2).
+  ==
+$$
+
+### 枌1 | _(1)Fan_ [[fan1]]
+
+$$.
+R
+  ⽊ + 4
+U
+  U+678C
+F
+  ==
+  - [[F1.80 枌]] 枌榆木名
+  ==
+W
+  ====
+  - [[Page~46 (1)枌]]
+    --
+    [[Reading variation. **See $枌fan4 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $枌fan4
   ==
 $$
 
@@ -899,6 +925,53 @@ C
       ++
     ==
   ====
+$$
+
+
+##{#4 .williams} (4)Fan [[fan4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways">
+=={.modern}
+- $枌4
+==
+</nav>
+<## /tone-4-characters ##>
+
+###+ 枌4 | _(4)Fan_ (fan4)
+
+$$
+R
+  ⽊ + 4
+U
+  U+678C
+V
+  ==
+  - fan1 (per Fan Wan)
+  ==
+F
+  ==
+  - [[F1.80 枌 _(1)Fan_ (fan1)]] 枌榆木名
+  ==
+W
+  ====
+  - [[Page~46 (1)枌 _(1)Fan_ (fan1); here normalised to _(4)Fan_ (fan4)]]
+    ==
+    - A tree resembling the elm with white wood [[Kangxi: 楡白枌]];
+    - a beam in a house [[Kangxi: 通棼複屋棟也]];
+    - _[(4)]fan (4)(u:) (5)sh(e/)_
+        [[fan4 jyu4 se5 枌榆社]],
+        an agricultural feast [[Kangxi: 枌楡社名]].
+    ==
+  ====
+C
+  ==
+  - Williams' 枌榆社: Better rendered "altar" than "feast".
+  ==
+S
+  ==
+  - $枌fan1
+  ==
 $$
 
 
