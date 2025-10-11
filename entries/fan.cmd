@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fan
-* %date-modified --> 2025-10-06
+* %date-modified --> 2025-10-11
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -51,6 +51,7 @@ $$
 - $分1
 - $勛1
 - $勳1
+- $吩1
 - $婚1
 - $惛1
 - $昏1
@@ -216,6 +217,35 @@ C
   ==
   - Fan Wan entry: Normalised headword ⿺熏力 to 勳.
   - Williams entry: Normalised headword ⿺熏力 to 勳.
+  ==
+$$
+
+### 吩1 | _(1)Fan_ [[fan1]]
+
+$$
+R
+  ⼝ + 4
+U
+  U+5429
+F
+  ==
+  - [[F1.80 吩]] 吩咐
+  ==
+W
+  ====
+  - [[Page~46 (1)吩]]
+    ==
+    - To direct;
+    - _(1)fan f(u/)[(3)]_
+        [[fan1 fu3 吩咐]],
+        to bid to do, to order.
+    ==
+  ====
+C
+  ==
+  - Williams' 吩咐: Corrected 吩呼 _(1)fan (1)f(u/)_ (fu1)^
+    to 吩咐 _(1)fan f(u/)(3)_ (fu3).
+    Note that Williams has no entry for the character 咐.
   ==
 $$
 
