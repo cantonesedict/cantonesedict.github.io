@@ -59,6 +59,7 @@ $$
 - $昬1
 - $曛1
 - $枌1
+- $棼1
 - $涽1
 - $湣1
 - $焄1
@@ -468,6 +469,44 @@ W
 S
   ==
   - $枌fan4
+  ==
+$$
+
+### 棼1 | _(1)Fan_ [[fan1]]
+
+$$
+R
+  ⽊ + 8
+U
+  U+68FC
+V
+  ==
+  - fan4 (per 《廣韻》符分切)
+  ==
+F
+  ==
+  - [[F1.80 紛]] ::紛紜雜也[衆]也紛[亂]也::
+  - [[F1.80 棼]] 同上
+  ==
+W
+  ====
+  - [[Page~46 (1)棼]]
+    ==
+    - [[...]];
+    - confused, disordered, complicated [[Kangxi: 亂也]];
+    - [[...]].
+    ==
+    --
+    [[Alternative form of 紛. See $紛fan1.]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed missing strokes in 衆 and 亂.
+  ==
+S
+  ==
+  - $棼fan4
   ==
 $$
 
@@ -934,6 +973,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $枌4
+- $棼4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -958,11 +998,14 @@ W
   - [[Page~46 (1)枌 _(1)Fan_ (fan1); here normalised to _(4)Fan_ (fan4)]]
     ==
     - A tree resembling the elm with white wood [[Kangxi: 楡白枌]];
-    - a beam in a house [[Kangxi: 通棼複屋棟也]];
+    - [[...]];
     - _[(4)]fan (4)(u:) (5)sh(e/)_
         [[fan4 jyu4 se5 枌榆社]],
         an agricultural feast [[Kangxi: 枌楡社名]].
     ==
+    --
+    [[Otherwise, an alternative form of 棼 (for the "roof-beam" sense). **See $棼fan4 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -971,6 +1014,43 @@ C
 S
   ==
   - $枌fan1
+  ==
+$$
+
+###+ 棼4 | _(4)Fan_ (fan4)
+
+$$
+R
+  ⽊ + 8
+U
+  U+68FC
+A
+  ==
+  - $枌4 (for "roof-beam" sense)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~46 (1)枌 _(1)Fan_ (fan1); here normalised to 棼 _(4)Fan_ (fan4)]]
+    ==
+    - [[...]];
+    - a beam in a house [[Kangxi 枌: 通棼複屋棟也]];
+    - [[...]].
+    ==
+  - [[Page~46 (1)棼 _(1)Fan_ (fan1); here corrected to _(4)Fan_ (fan4)]]
+    ==
+    - A beam or ridge-pole of a roof [[Kangxi: 複屋棟也, 複屋背重梁]];
+    - [[...]];
+    - hempen covering [[Kangxi: 薠麻謂之棼, 棼麻布也]].
+    ==
+    --
+    [[Otherwise, a reading variation. See $棼fan1.]]
+    --
+  ====
+S
+  ==
+  - $棼fan1
   ==
 $$
 
