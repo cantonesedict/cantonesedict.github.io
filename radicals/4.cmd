@@ -1075,6 +1075,7 @@ For all radicals, see [Index of characters by radical](./).
       - {$棹coek3, $棹zaau6, $棹zoek3}
       - $棌coi2
       - {$楮cyu2, $楮cyu5}
+      - $棻fan1
       - {$棼fan1, $棼fan4}
       - {$棧zaan2, $棧zaan6}
       - {$棦zaang1, $棦zang1}

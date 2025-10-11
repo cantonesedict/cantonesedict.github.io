@@ -59,6 +59,7 @@ $$
 - $昬1
 - $曛1
 - $枌1
+- $棻1
 - $棼1
 - $涽1
 - $湣1
@@ -470,6 +471,28 @@ S
   ==
   - $枌fan4
   ==
+$$
+
+### 棻1 | _(1)Fan_ [[fan1]]
+
+$$
+R
+  ⽊ + 8
+U
+  U+68FB
+V
+  ==
+  - fan4 (alternative per 《廣韻》符分切)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~46 (1)棻]]
+    ==
+    - A fragrant wood [[Kangxi: 香木也]] burned for its perfume.
+    ==
+  ====
 $$
 
 ### 棼1 | _(1)Fan_ [[fan1]]
