@@ -69,6 +69,7 @@ $$
 - $熏1
 - $燻1
 - $獯1
+- $紛1
 - $葷1
 - $蔒1
 - $薰1
@@ -137,7 +138,7 @@ W
         a deputy district magistrate.
     ==
     --
-    [[Otherwise, an alternative form of 紛. **See $紛fan1 for the canonical entry.**]] [[TODO]]
+    [[Otherwise, an alternative form of 紛. **See $紛fan1 for the canonical entry.**]]
     --
   ====
 C
@@ -526,7 +527,7 @@ W
     - [[...]].
     ==
     --
-    [[Alternative form of 紛. See $紛fan1.]] [[TODO]]
+    [[Alternative form of 紛. See $紛fan1.]]
     --
   ====
 C
@@ -601,7 +602,7 @@ W
   ====
   - [[Page~46 (1)汾]]
     --
-    [[Alternative form of 紛. **See $紛fan1 for the canonical entry.**]] [[TODO]]
+    [[Alternative form of 紛. **See $紛fan1 for the canonical entry.**]]
     --
     --
     [[Otherwise, a reading variation. **See $汾fan4 for the canonical entry.**]]
@@ -824,6 +825,59 @@ W
     - they dwelt near Shens(i/) [[陝西]].
     ==
   ====
+$$
+
+### 紛1 | _(1)Fan_ [[fan1]]
+
+$$
+R
+  ⽷ + 4
+U
+  U+7D1B
+A
+  ==
+  - $分1
+  - $棼1
+  - $汾1
+  ==
+F
+  ==
+  - [[F1.80 紛]] ::紛紜雜也[衆]也紛[亂]也::
+  - [[F1.80 棼]] 同上
+  ==
+W
+  ====
+  - [[Page~46 (1)紛]]
+    ==
+    - A variegated ribbon [[Kangxi: 紛如綬有文而狹者也]];
+    - confused, perplexed [[Kangxi: 亂也]];
+    - raveled;
+    - to mix up;
+    - many things at once [[Kangxi: 紛紛衆也, 紛衆也, 紛紛言其多]];
+    - hurry, bustle, clamor;
+    - _(1)fan l(u:)n(6)_
+        [[fan1 lyun6 紛亂]]
+        hubbub;
+    - _(1)fan (1)fan (1)to sz'(6)_
+        [[fan1 fan1 do1 si6 紛紛多事]]
+        distracted by business;
+    - _(1)fan (1)f(a/) (5)lau l(u:)n(6)_
+        [[fan1 faa1 lau5 lyun6 紛花柳亂]]
+        all in disorder;
+    - _(1)fan (4)wan_
+        [[fan1 wan4 紛紜]],
+        confused.
+    ==
+    --
+    [[Otherwise, an alternative form of 帉. **See $帉fan1 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+P
+  ++
+  1. A horse-tail tie (Kangxi: 馬尾韜也).
+  1. Dispute.
+  1. To disturb.
+  ++
 $$
 
 ### 葷1 | _(1)Fan_ [[fan1]]
