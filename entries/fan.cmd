@@ -77,6 +77,7 @@ $$
 - $薰1
 - $醺1
 - $閽1
+- $雰1
 - $餴1
 - $饙1
 ==
@@ -569,7 +570,7 @@ U
   U+6C1B
 A
   ==
-  - 雰
+  - $雰1
   ==
 V
   ==
@@ -1129,6 +1130,37 @@ C
 P
   ++
   1. A palace gate.
+  ++
+$$
+
+### 雰1 | _(1)Fan_ [[fan1]]
+
+$$
+R
+  ⾬ + 4
+U
+  U+96F0
+F
+  ==
+  - [[F1.80 雰]] 下雲貌
+  ==
+W
+  ====
+  - [[Page~46 (1)雰]]
+    ==
+    - A frosty mist [[Kangxi: 霧氣也]];
+    - hoarfrost [[Kangxi: ::[潤]氣著草木遇寒凍色白曰雰::]];
+    - _(5)(u:) (1)fan (1)fan_
+        [[jyu5 fan1 fan1 雨雰雰]],
+        a snowy, sleety, rain.
+    ==
+    --
+    [[Otherwise, an alternative form of 氛. **See $氛fan1 for the canonical entry.**]]
+    --
+  ====
+P
+  ++
+  1. Snowy (Kangxi: 雰雰雪貌).
   ++
 $$
 
