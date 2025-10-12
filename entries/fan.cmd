@@ -488,7 +488,9 @@ V
   - fan4 (alternative per 《廣韻》符分切)
   ==
 F
-  [[Not present]]
+  ==
+  - [[F1.80 棻]] 香木也
+  ==
 W
   ====
   - [[Page~46 (1)棻]]
@@ -597,7 +599,9 @@ R
 U
   U+6C7E
 F
-  [[Not present]]
+  ==
+  - [[F1.80 汾]] 水名
+  ==
 W
   ====
   - [[Page~46 (1)汾]]
@@ -1221,10 +1225,12 @@ U
   U+6C7E
 V
   ==
-  - fan1 (per Williams)
+  - fan1 (per Fan Wan)
   ==
 F
-  [[Not present]]
+  ==
+  - [[F1.80 汾 _(1)Fan_ (fan1)]] 水名
+  ==
 W
   ====
   - [[Page~46 (1)汾 _(1)Fan_ (fan1); here normalised to _(4)Fan_ (fan4)]]
