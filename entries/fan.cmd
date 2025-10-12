@@ -929,6 +929,10 @@ W
     [[Otherwise, an alternative form of 紛 (for the "confused" and "many" senses). **See $紛fan1 for the canonical entry.**]]
     --
   ====
+P
+  ++
+  1. Mound-like, bulging (Kangxi: 芬然壤起貌).
+  ++
 $$
 
 ### 葷1 | _(1)Fan_ [[fan1]]
