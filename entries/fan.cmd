@@ -61,6 +61,7 @@ $$
 - $枌1
 - $棻1
 - $棼1
+- $汾1
 - $涽1
 - $湣1
 - $焄1
@@ -537,6 +538,31 @@ S
   ==
 $$
 
+### 汾1 | _(1)Fan_ [[fan1]]
+
+$$.
+R
+  ⽔ + 4
+U
+  U+6C7E
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~46 (1)汾]]
+    --
+    [[Alternative form of 紛. **See $紛fan1 for the canonical entry.**]] [[TODO]]
+    --
+    --
+    [[Otherwise, a reading variation. **See $汾fan4 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $汾fan4
+  ==
+$$
+
 ### 涽1 | _(1)Fan_ [[fan1]]
 
 $$
@@ -1001,6 +1027,7 @@ $$
 =={.modern}
 - $枌4
 - $棼4
+- $汾4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -1078,6 +1105,48 @@ W
 S
   ==
   - $棼fan1
+  ==
+$$
+
+###+ 汾4 | _(4)Fan_ (fan4)
+
+$$
+R
+  ⽔ + 4
+U
+  U+6C7E
+V
+  ==
+  - fan1 (per Williams)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~46 (1)汾 _(1)Fan_ (fan1); here normalised to _(4)Fan_ (fan4)]]
+    --
+    A river in Sh(a/)ns(i/) [[山西]], a branch of the Yellow R [[Kangxi: 水名 etc.]].
+    --
+    ==
+    - _[(4)]Fan (4)y(e/)ung (4)wong_
+        [[fan4 joeng4 wong4 汾陽王]],
+        a personage in the T(a/)ng [[唐]] dynasty,
+        whose name is a synonym for happiness;
+    - as _[(4)]Fan (4)y(e/)ung (2)t(i/)m (5)h(o\)m_
+        [[fan4 joeng4 dim2 ham5 汾陽點頷]],
+        Fany(e/)ung^'s king nodding his chin
+        (because he did not know all his descendants).
+    ==
+  ====
+C
+  ==
+  - Williams' "A river in Sh(a/)ns(i/)": Note that Kangxi 水出太原晉陽山西南入河
+    is to be punctuated as "水出太原晉陽山、西南入河".
+    That we know it is in Sh(a/)ns(i/) is due to "太原晉陽山", not "山、西".
+  ==
+S
+  ==
+  - $汾fan1
   ==
 $$
 

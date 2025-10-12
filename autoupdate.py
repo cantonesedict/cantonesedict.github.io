@@ -272,7 +272,8 @@ class Updater:
         )
         if bad_williams_nasal_apostrophe:
             print(
-                f'Error in `{entry_cmd_name}`: wrong-side Williams nasal apostrophe in {bad_williams_nasal_apostrophe}',
+                f'Error in `{entry_cmd_name}`: wrong-side Williams nasal apostrophe in {bad_williams_nasal_apostrophe} '
+                f'(suppress error with caret if apostrophe is legitimate)',
                 file=sys.stderr,
             )
             sys.exit(1)
