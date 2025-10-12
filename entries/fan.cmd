@@ -61,6 +61,7 @@ $$
 - $枌1
 - $棻1
 - $棼1
+- $氛1
 - $汾1
 - $涽1
 - $湣1
@@ -535,6 +536,55 @@ C
 S
   ==
   - $棼fan4
+  ==
+$$
+
+### 氛1 | _(1)Fan_ [[fan1]]
+
+$$
+R
+  ⽓ + 4
+U
+  U+6C1B
+A
+  ==
+  - 雰
+  ==
+V
+  ==
+  - fan4 (alternative per 《廣韻》符分切)
+  ==
+F
+  ==
+  - [[F1.80 氛]] 沃氛
+  ==
+W
+  ====
+  - [[Page~46 (1)氛]]
+    ==
+    - Fume, vapor [[Kangxi: 氣也]];
+    - shadowy signs, a will-o'-the-wisp, airy omens [[Kangxi: 氛氳祥氣也, 氛祲妖氣也]];
+    - _(1)fan (1)wan_
+        [[fan1 wan1 氛氳]],
+        aerial influences;
+    - _(2)i(u/) (1)fan_
+        [[jiu2 fan1 妖氛]],
+        noxious influences;
+    - _(2)hoi (1)fan_
+        [[hoi2 fan1 海氛]],
+        pirates;
+    - _kwok(8) (1)fan_
+        [[gwok3 fan1 國氛]],
+        ~~demagogues~~, disturbers of the peace.
+    ==
+  ====
+C
+  ==
+  - 《廣韻》 has 符分切 _(4)fan_ (fan4) for 氛氲祥氣 "auspicious ambiance",
+    and 撫文切 _(1)fan_ (fan1) for 氛侵妖氣 "malign ambiance".
+    Modern usage prefers the latter reading, and it is debatable
+    whether the distinction was necessary in the first place.
+  - Williams' 國氛: Better rendered "disturbings of the peace".
   ==
 $$
 

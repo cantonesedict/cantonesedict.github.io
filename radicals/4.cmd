@@ -1410,6 +1410,23 @@ For all radicals, see [Index of characters by radical](./).
 ## ⽓ (steam)
 
 <## radical-⽓-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 4
+    ,
+      <nav class="sideways">
+      ==
+      - $氛fan1
+      ==
+      </nav>
+''
+||||
 <## /radical-⽓-characters ##>
 
 
