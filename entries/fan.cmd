@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fan
-* %date-modified --> 2025-10-11
+* %date-modified --> 2025-10-12
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -493,6 +493,10 @@ W
     - A fragrant wood [[Kangxi: 香木也]] burned for its perfume.
     ==
   ====
+P
+  ++
+  1. Flourishing, luxuriant.
+  ++
 $$
 
 ### 棼1 | _(1)Fan_ [[fan1]]
