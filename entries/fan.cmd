@@ -54,6 +54,7 @@ $$
 - $勳1
 - $吩1
 - $婚1
+- $帉1
 - $惛1
 - $昏1
 - $昬1
@@ -299,6 +300,27 @@ C
   - Williams' 連婚: Corrected _(1)l(i/)n_ (lin1) to _(4)l(i/)n_ (lin4).
     Not to marry relatives, but relatives by marriage (i.e. in-laws).
   ==
+$$
+
+###+ 帉1 | _(1)Fan_ (fan1)
+
+$$
+R
+  ⼱ + 4
+U
+  U+5E09
+A
+  ==
+  - $紛1
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. A wiping-cloth (Kangxi: 拭物巾也, 楚謂大巾曰帉, 又通作紛).
+  ++
 $$
 
 ### 惛1 | _(1)Fan_ [[fan1]]
@@ -876,7 +898,7 @@ W
         confused.
     ==
     --
-    [[Otherwise, an alternative form of 帉. **See $帉fan1 for the canonical entry.**]] [[TODO]]
+    [[Otherwise, an alternative form of 帉. **See $帉fan1 for the canonical entry.**]]
     --
   - [[Page~46 (1)芬; here normalised to 紛]]
     --
