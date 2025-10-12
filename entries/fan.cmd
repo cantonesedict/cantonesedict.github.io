@@ -507,7 +507,7 @@ $$
 
 ### 棼1 | _(1)Fan_ [[fan1]]
 
-$$
+$$.
 R
   ⽊ + 8
 U
@@ -524,13 +524,8 @@ F
 W
   ====
   - [[Page~46 (1)棼]]
-    ==
-    - [[...]];
-    - confused, disordered, complicated [[Kangxi: 亂也]];
-    - [[...]].
-    ==
     --
-    [[Alternative form of 紛 (for the "confused" and "many" senses). See $紛fan1.]]
+    [[Alternative form of 紛 (for the "confused" and "many" senses). **See $紛fan1 for the canonical entry.**]]
     --
   ====
 C
@@ -853,6 +848,12 @@ F
   ==
 W
   ====
+  - [[Page~46 (1)棼; here normalised to 紛]]
+    ==
+    - [[...]];
+    - confused, disordered, complicated [[Kangxi 棼: 亂也]];
+    - [[...]].
+    ==
   - [[Page~46 (1)紛]]
     ==
     - A variegated ribbon [[Kangxi: 紛如綬有文而狹者也]];
@@ -885,6 +886,10 @@ W
     Numerous [[Kangxi 芬: 芬謂衆多]], [[...]].
     --
   ====
+C
+  ==
+  - Fan Wan entry: Fixed missing strokes in 衆 and 亂.
+  ==
 P
   ++
   1. A horse-tail tie (Kangxi: 馬尾韜也).
