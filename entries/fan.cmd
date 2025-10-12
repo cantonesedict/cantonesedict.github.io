@@ -70,6 +70,7 @@ $$
 - $燻1
 - $獯1
 - $紛1
+- $芬1
 - $葷1
 - $蔒1
 - $薰1
@@ -843,6 +844,7 @@ A
   - $分1
   - $棼1
   - $汾1
+  - $芬1
   ==
 F
   ==
@@ -875,6 +877,13 @@ W
     --
     [[Otherwise, an alternative form of 帉. **See $帉fan1 for the canonical entry.**]] [[TODO]]
     --
+  - [[Page~46 (1)芬; here normalised to 紛]]
+    --
+    [[...]]
+    --
+    --
+    Numerous [[Kangxi 芬: 芬謂衆多]], [[...]].
+    --
   ====
 P
   ++
@@ -882,6 +891,39 @@ P
   1. Dispute.
   1. To disturb.
   ++
+$$
+
+### 芬1 | _(1)Fan_ [[fan1]]
+
+$$
+R
+  ⾋ + 4
+U
+  U+82AC
+F
+  ==
+  - [[F1.80 芬]] 芬芳
+  ==
+W
+  ====
+  - [[Page~46 (1)芬]]
+    ==
+    - Budding and blossoming;
+    - fragrance from opening plants [[Kangxi: ::草初生[香]分布也::]];
+    - _(1)fan (1)fong_
+        [[fan1 fong1 芬芳]],
+        spreading fragrance;
+    - _(1)fan (1)fan_
+        [[fan1 fan1 芬芬]],
+        odoriferous [[Kangxi: 芬芬香也]].
+    ==
+    --
+    [[...]], harmonious [[Kangxi: 和也]].
+    --
+    --
+    [[Otherwise, an alternative form of 紛. **See $紛fan1 for the canonical entry.**]]
+    --
+  ====
 $$
 
 ### 葷1 | _(1)Fan_ [[fan1]]
