@@ -139,7 +139,7 @@ W
         a deputy district magistrate.
     ==
     --
-    [[Otherwise, an alternative form of 紛. **See $紛fan1 for the canonical entry.**]]
+    [[Otherwise, an alternative form of 紛 (for the "confused" and "many" senses). **See $紛fan1 for the canonical entry.**]]
     --
   ====
 C
@@ -530,7 +530,7 @@ W
     - [[...]].
     ==
     --
-    [[Alternative form of 紛. See $紛fan1.]]
+    [[Alternative form of 紛 (for the "confused" and "many" senses). See $紛fan1.]]
     --
   ====
 C
@@ -607,7 +607,7 @@ W
   ====
   - [[Page~46 (1)汾]]
     --
-    [[Alternative form of 紛. **See $紛fan1 for the canonical entry.**]]
+    [[Alternative form of 紛 (for the "confused" and "many" senses). **See $紛fan1 for the canonical entry.**]]
     --
     --
     [[Otherwise, a reading variation. **See $汾fan4 for the canonical entry.**]]
@@ -841,10 +841,10 @@ U
   U+7D1B
 A
   ==
-  - $分1
-  - $棼1
-  - $汾1
-  - $芬1
+  - $分1 (for "confused" and "many" senses)
+  - $棼1 (for "confused" and "many" senses)
+  - $汾1 (for "confused" and "many" senses)
+  - $芬1 (for "confused" and "many" senses)
   ==
 F
   ==
@@ -921,7 +921,7 @@ W
     [[...]], harmonious [[Kangxi: 和也]].
     --
     --
-    [[Otherwise, an alternative form of 紛. **See $紛fan1 for the canonical entry.**]]
+    [[Otherwise, an alternative form of 紛 (for the "confused" and "many" senses). **See $紛fan1 for the canonical entry.**]]
     --
   ====
 $$
