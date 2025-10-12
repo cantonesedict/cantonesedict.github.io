@@ -428,6 +428,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $纁fan1
       - $纂zyun2
       ==
       </nav>

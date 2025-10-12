@@ -71,6 +71,7 @@ $$
 - $燻1
 - $獯1
 - $紛1
+- $纁1
 - $芬1
 - $葷1
 - $蔒1
@@ -442,6 +443,7 @@ U
 A
   ==
   - $熏1
+  - $纁1 (for "dusklight" sense)
   ==
 F
   ==
@@ -919,6 +921,30 @@ P
   1. Dispute.
   1. To disturb.
   ++
+$$
+
+### 纁1 | _(1)Fan_ [[fan1]]
+
+$$
+R
+  ⽷ + 14
+U
+  U+7E81
+F
+  ==
+  - [[F1.80 纁]] 淡紅色也
+  ==
+W
+  ====
+  - [[Page~713 (1)纁]]
+    ==
+    - A light red [[Kangxi: 淺絳也]], produced by a trine immersion in the dye [[Kangxi: 三染謂之纁]];
+    - a scarlet tint.
+    ==
+    --
+    [[Otherwise, an alternative form of 曛 (for the "dusklight" sense). **See $曛fan1 for the canonical entry.**]]
+    --
+  ====
 $$
 
 ### 芬1 | _(1)Fan_ [[fan1]]
