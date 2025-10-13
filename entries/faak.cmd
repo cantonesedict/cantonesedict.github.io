@@ -47,10 +47,28 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- ${𢪎=⿰扌化}3
 - ${𢫦=⿰扌百}3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+###+ {𢪎=⿰扌化}3 | _F(a/)k(8)_ (faak3)
+
+$$.
+R
+  ⼿ + 4
+U
+  U+22A8E
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of {𢫦=⿰扌百}. **See ${𢫦=⿰扌百}faak3 for the canonical entry.**
+  ++
+$$
 
 ### [{𢫦=⿰扌百}]3 | _F(a/)k(8)_ [[faak3]]
 
@@ -59,6 +77,10 @@ R
   ⼿ + 6
 U
   U+22AE6
+A
+  ==
+  - ${𢪎=⿰扌化}3
+  ==
 F
   [[Not present]]
 W

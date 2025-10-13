@@ -353,6 +353,7 @@ For all radicals, see [Index of characters by radical](./).
       - $扱caap3
       - $抄caau1
       - $扯ce2
+      - ${𢪎=⿰扌化}faak3
       - $找zaau2
       - $抓zaau2
       - {$折zit1, $折zit3}
