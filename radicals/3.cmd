@@ -1202,6 +1202,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $幟ci3
       - {$幢cong4, $幢zong6}
+      - $幩fan4
       ==
       </nav>
   //

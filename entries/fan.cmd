@@ -1266,6 +1266,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $墳4
+- $幩4
 - $枌4
 - $棼4
 - $汾4
@@ -1324,6 +1325,29 @@ S
   ==
   - $墳fan5
   ==
+$$
+
+### 幩4 | _(4)Fan_ [[fan4]]
+
+$$
+R
+  ⼱ + 12
+U
+  U+5E69
+H
+  May appear with 艹 having 3 strokes (+12 assumed here) or 4 strokes (+13),
+  depending on the font.
+F
+  ==
+  - [[F1.82 幩]] 鑣之飾也
+  ==
+W
+  ====
+  - [[Page~46 (4)幩]]
+    ==
+    - An ornament on the bit of a bridle [[Kangxi: 馬纏鑣扇汗也, 幩飾也 etc.]].
+    ==
+  ====
 $$
 
 ###+ 枌4 | _(4)Fan_ (fan4)
