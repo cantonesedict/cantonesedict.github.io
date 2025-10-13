@@ -6,13 +6,9 @@ OrdinaryDictionaryReplacement: #.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faak
 * %date-modified --> 2023-08-05
-* %copyright-prior-years -->
+* %copyright-prior-years --> "2023, "
 
 %%%
-
---{.modern}
-(From Page~713 of the original onwards.)
---
 
 #{.williams} F(a/)k. [[faak]]
 
@@ -21,3 +17,25 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - F(a/)k. [[Page~713]]
+  ==
+WP
+  ==
+  - F(a/)k <span class="modern">= *[faːk̚]</span>
+  ==
+MP
+  ==
+  - faak = [faːk̚]
+  ==
+$$
