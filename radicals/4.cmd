@@ -1589,6 +1589,7 @@ For all radicals, see [Index of characters by radical](./).
       - $澈cit3
       - $潮ciu4
       - {$潨cung4, $潨zung1}
+      - $濆fan4
       - $澍zyu3
       ==
       </nav>

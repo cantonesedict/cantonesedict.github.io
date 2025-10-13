@@ -1270,6 +1270,7 @@ $$
 - $枌4
 - $棼4
 - $汾4
+- $濆4
 - $焚4
 ==
 </nav>
@@ -1467,6 +1468,42 @@ C
 S
   ==
   - $汾fan1
+  ==
+$$
+
+### 濆4 | _(4)Fan_ [[fan4]]
+
+$$
+R
+  ⽔ + 12
+U
+  U+6FC6
+H
+  May appear with 艹 having 3 strokes (+12 assumed here) or 4 strokes (+13),
+  depending on the font.
+F
+  ==
+  - [[F1.81 濆]] 水涯
+  ==
+W
+  ====
+  - [[Page~46 (4)濆]]
+    ==
+    - A river overflowing and making streamlets;
+    - a river bank [[Kangxi: 水厓也]];
+    - a river in Hon(a/)n [[Kangxi: 汝水逕奇雒城西北濆水出焉]].
+    ==
+  ====
+C
+  ==
+  - Williams' "A river overflowing and making streamlets":
+    Kangxi 大水溢出別爲小水之名 is commentary for 《爾雅釋水》汝爲濆,
+    in which a great river (named 汝) makes (爲) a streamlet (named 濆).
+    It perhaps should not be read as a definition.
+  ==
+S
+  ==
+  - $濆pan3 (TODO)
   ==
 $$
 
