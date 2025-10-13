@@ -1655,12 +1655,28 @@ A
   ==
 V
   ==
-  - fan6-2 (vernacular rising-tone noun for "part" senses)
+  - fan6-2 (vernacular rising-tone noun for "share/part" senses)
   ==
 F
   [[Not present]]
 W
   ====
+  - [[Page~46 (2)份]]
+    ==
+    - A portion, a dividend, a share;
+    - _(1)fan (2)fan_
+        [[fan1 fan6-2 分份]],
+        to divide the profits;
+    - _(4)m(a/)i (2)fan_
+        [[maai4 fan6-2 埋份]],
+        to put in shares;
+    - _(2)fan (2)tsz'_
+        [[fan6-2 zi2 份子]]
+        a share.
+    ==
+    --
+    A vulgar character.
+    --
   - [[Page~713 (2)份]]
     --
     [[...]] <## TODO: $份ban1 ##>
@@ -1675,10 +1691,6 @@ W
   ====
 P
   ++
-  1. A share or part amongst a whole.
-     ==
-     - 股份 (gu2 fan6-2): "Shares."
-     ==
   1. Classifier for documents.
   1. Classifier for gifts.
   1. Classifier for jobs.
@@ -1733,8 +1745,8 @@ W
 C
   ==
   - In Cantonese, the fraction-building sense of 分 is a noun, not a verb.
-    It makes sense for 三分之一 to be parsed as "one of three shares (or portions)".
-    As such, it is to be read in the departing tone, _fan(6)_ (fan6).
+    The construct 三分之一 to be parsed as "one of three shares (or portions)".
+    As such, 分 is to be read in the departing tone, _fan(6)_ (fan6).
     It is *not* to be read in the level tone, as in Mandarin.
   - By extension, the "fraction" sense of 分
     is also to be read in the departing tone in Cantonese.
