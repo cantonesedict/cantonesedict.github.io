@@ -383,6 +383,7 @@ For all radicals, see [Index of characters by radical](./).
       - $拯cing2
       - $㧤cung3
       - $拴cyun4
+      - ${𢫦=⿰扌百}faak3
       - $挃zat6
       - $指zi2
       ==
