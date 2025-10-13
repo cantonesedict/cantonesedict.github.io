@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [fan1](#1)
 - [fan4](#4)
+- [fan5](#5)
 - [fan6](#6)
 ==
 </nav>
@@ -1264,6 +1265,7 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $墳4
 - $枌4
 - $棼4
 - $汾4
@@ -1271,6 +1273,58 @@ $$
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 墳4 | _(4)Fan_ [[fan4]]
+
+$$
+R
+  ⼟ + 12
+U
+  U+58B3
+H
+  May appear with 艹 having 3 strokes (+12 assumed here) or 4 strokes (+13),
+  depending on the font.
+F
+  ==
+  - [[F1.81 墳]] 墳墓又墳典言書籍也
+  ==
+W
+  ====
+  - [[Page~46 (4)墳]]
+    ==
+    - A grave, a tomb [[Kangxi: 墓也]], a tumulus [[Kangxi: 土之高者曰墳]];
+    - river banks, an embankment [[Kangxi: 水涯曰墳大防也所以扞水]];
+    - great, vast [[Kangxi: 大也]];
+    - [[...]].
+    ==
+    ==
+    - _(4)Fan m(o\)(6)_
+        [[fan4 mou6 墳墓]]
+        a tomb;
+    - _s(o\)(3) [(4)]fan_
+        [[sou3 fan4 掃墳]],
+        to worship the graves;
+    - _(1)fong (4)fan_
+        [[fong1 fan4 荒墳]],
+        a deserted grave;
+    - _(1)s(a/)m (4)fan_
+        [[saam1 fan4 三墳]],
+        the distinction of heaven, earth, man [[Kangxi: 三墳分也論三才之分天地人之始也]].
+    ==
+  ====
+C
+  ==
+  - Williams' 掃墳: Corrected _(1)fan_ (fan1) to _(4)fan_ (fan4).
+  ==
+P
+  ++
+  1. A classical book or tome.
+  ++
+S
+  ==
+  - $墳fan5
+  ==
+$$
 
 ###+ 枌4 | _(4)Fan_ (fan4)
 
@@ -1433,6 +1487,55 @@ C
 S
   ==
   - $焚fan5 (TODO)
+  ==
+$$
+
+
+##{#5 .williams} (5)Fan [[fan5 陽上]]
+
+<## tone-5-characters ##>
+<nav class="sideways">
+=={.modern}
+- $墳5
+==
+</nav>
+<## /tone-5-characters ##>
+
+###+ 墳5 | _(5)Fan_ (fan5)
+
+$$
+R
+  ⼟ + 12
+U
+  U+58B3
+H
+  May appear with 艹 having 3 strokes (+12 assumed here) or 4 strokes (+13),
+  depending on the font.
+V
+  ==
+  - bun6 (per 《集韻》部本切 for "raised" sense)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~46 (4)墳 read _Fan(3)_ (fan3); here corrected to _(5)Fan_ (fan5)]]
+    ==
+    - [[...]];
+    - rich soil [[Kangxi: 土膏肥也]];
+    - read _[(5)]fan_ [[fan5]].
+    ==
+    --
+    [[...]]
+    --
+  ====
+P
+  ++
+  1. Raised (Kangxi: 土沸起也).
+  ++
+S
+  ==
+  - $墳fan4
   ==
 $$
 
