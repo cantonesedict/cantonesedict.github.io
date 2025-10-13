@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fan
-* %date-modified --> 2025-10-12
+* %date-modified --> 2025-10-13
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -1267,6 +1267,7 @@ $$
 - $枌4
 - $棼4
 - $汾4
+- $焚4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -1388,6 +1389,50 @@ C
 S
   ==
   - $汾fan1
+  ==
+$$
+
+### 焚4 | _(4)Fan_ [[fan4]]
+
+$$
+R
+  ⽕ + 8
+U
+  U+711A
+F
+  ==
+  - [[F1.81 焚]] 火燒曰焚
+  ==
+W
+  ====
+  - [[Page~46 (4)焚]]
+    ==
+    - To burn, to light, to set on fire [[Kangxi: 燒也, 火灼物也]];
+    - _(4)fan (1)h(e/)ung_
+        [[fan4 hoeng1 焚香]],
+        to light incense sticks;
+    - _[(4)]fan f(a/)(3)_
+        [[fan4 faa3 焚化]]
+        to burn up;
+    - _(4)fan (1)sau_
+        [[fan4 sau1 焚修]],
+        to burn a bonze;
+    - _(4)fan [(1)]sh(u:)_
+        [[fan4 syu1 焚書]],
+        burning of the books by Tsin [[秦]].
+    ==
+  ====
+C
+  ==
+  - Williams' 焚化: Corrected _(1)fan_ (fan1) to _(4)fan_ (fan4).
+    Also to cremate or to incinerate.
+  - Williams' 焚修: Not to burn a Buddhist monk, but to burn incense
+    in the pursuit of Buddhist cultivation.
+  - Williams' 焚書: Corrected _(4)sh(u:)_ (syu4) to _(1)sh(u:)_ (syu1).
+  ==
+S
+  ==
+  - $焚fan5 (TODO)
   ==
 $$
 
