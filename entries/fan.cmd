@@ -1272,6 +1272,7 @@ $$
 - $汾4
 - $濆4
 - $焚4
+- $蕡4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -1549,6 +1550,35 @@ S
   ==
   - $焚fan5 (TODO)
   ==
+$$
+
+### 蕡4 | _(4)Fan_ [[fan4]]
+
+$$
+R
+  ⾋ + 12
+U
+  U+8561
+H
+  May appear with 艹 in 賁 having 3 strokes (+12 assumed here) or 4 strokes (+13),
+  depending on the font.
+F
+  ==
+  - [[F1.81 蕡]] 草木多實曰蕡
+  ==
+W
+  ====
+  - [[Page~46 (4)蕡]]
+    ==
+    - Fruitful [[Kangxi: 草木多實也]], flourishing plants [[Kangxi: 蕡藹]], fragrant flowers growing together [[Kangxi: 雜香草也]];
+    - _(4)m(a/) (4)fan_
+        [[maa4 fan4 麻蕡]],
+        hemp seed [[Kangxi: 蕡麻子也]];
+    - _(4)fan shat(9)_
+        [[fan4 sat6 蕡實]]
+        bearing much seed.
+    ==
+  ====
 $$
 
 
