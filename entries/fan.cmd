@@ -1284,7 +1284,7 @@ R
 U
   U+58B3
 H
-  May appear with 艹 having 3 strokes (+12 assumed here) or 4 strokes (+13),
+  May appear with 艹 in 賁 having 3 strokes (+12 assumed here) or 4 strokes (+13),
   depending on the font.
 F
   ==
@@ -1336,7 +1336,7 @@ R
 U
   U+5E69
 H
-  May appear with 艹 having 3 strokes (+12 assumed here) or 4 strokes (+13),
+  May appear with 艹 in 賁 having 3 strokes (+12 assumed here) or 4 strokes (+13),
   depending on the font.
 F
   ==
@@ -1479,7 +1479,7 @@ R
 U
   U+6FC6
 H
-  May appear with 艹 having 3 strokes (+12 assumed here) or 4 strokes (+13),
+  May appear with 艹 in 賁 having 3 strokes (+12 assumed here) or 4 strokes (+13),
   depending on the font.
 F
   ==
@@ -1570,7 +1570,7 @@ R
 U
   U+58B3
 H
-  May appear with 艹 having 3 strokes (+12 assumed here) or 4 strokes (+13),
+  May appear with 艹 in 賁 having 3 strokes (+12 assumed here) or 4 strokes (+13),
   depending on the font.
 V
   ==
