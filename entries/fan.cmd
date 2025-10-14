@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fan
-* %date-modified --> 2025-10-13
+* %date-modified --> 2025-10-14
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [fan1](#1)
+- [fan2](#2)
 - [fan4](#4)
 - [fan5](#5)
 - [fan6](#6)
@@ -1257,6 +1258,101 @@ C
       ++
     ==
   ====
+$$
+
+
+##{#2 .williams} (2)Fan [[fan2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $粉2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 粉2 | _(2)Fan_ [[fan2]]
+
+$$
+R
+  ⽶ + 4
+U
+  U+7C89
+V
+  ==
+  - fan3 (per 《集韻》方問切 for "apply" sense)
+  ==
+F
+  ==
+  - [[F1.83 粉]] ::米[末]也又粉飾::
+  ==
+W
+  ====
+  - [[Page~46 (2)粉]]
+    ==
+    - Rice broken to pieces [[Kangxi: 米粉, 分也硏米使分散也]];
+    - a flour of any grain [[Kangxi: 豆屑也]];
+    - pigment, to adorn [[Kangxi: 傅也飾也]];
+    - to whitewash or color [[Kangxi: 設采潤色謂之粉澤 etc.]];
+    - _[(5)]mai (2)fan_
+        [[mai5 fan2 米粉]]^
+        rice flour;
+    - _suk(7) [(5)]mai (2)fan_
+        [[suk1 mai5 fan2 粟米粉]],
+        indian-meal;
+    - _(2)fan (1)sz'_ [[fan2 si1 粉絲]]
+        or
+      _(2)fan (2)tsai_ [[fan2 zai2 粉仔]],
+        vermicelli;
+    - _m(i/)n(6) (2)fan_
+        [[min6 fan2 面粉]],
+        a cosmetic;
+    - _(2)fan (1)ts(e/)ung_
+        [[fan2 zoeng1 粉漿]],
+        starch;
+    - _(2)fan toi(6)_
+        [[fan2 doi6-2 粉袋]]
+        a tailor's chalk-bag;
+    - _[(4)]l(e/)ung (2)fan_
+        [[loeng4 fan2 涼粉]],
+        a sort of jelly;
+    - _(2)fan sui[(3)]_
+        [[fan2 seoi3 粉碎]]
+        smashed to shivers;
+    - _(2)fan shik(7) t(')(a/)i(3) (4)p(')ing_
+        [[fan2 sik1 taai3 ping4 粉飾太平]],
+        a specious peace;
+    - _(2)fan (4)[p(')(a/)i]_
+        [[fan2 paai4 粉牌]]^
+        a writing-board;
+    - _(2)fan pik(7)_
+        [[fan2 bik1 粉壁]]
+        to whitewash a wall;
+    - _(4)(u:)n (2)fan_
+        [[jyun4 fan2 鉛粉]],
+        white lead.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 未 to 末.
+  - Williams' 米粉: Corrected _(2)mai_ (mai2) to _(5)mai_ (mai5).
+    Also rice vermicelli.
+  - Williams' 粟米粉: Corrected _(2)mai_ (mai2) to _(5)mai_ (mai5).
+  - Williams' 粉絲: Now more commonly known as glass/cellophane noodles.
+  - Williams' 面粉: Not to be confused with 麪粉.
+  - Williams' 涼粉: Corrected _(1)l(e/)ung_ (loeng1) to _(4)l(e/)ung_ (loeng4).
+    Specifically, grass jelly.
+  - Williams' 粉碎: Corrected _sui(6)_ (seoi6) to _sui(3)_ (seoi3).
+  - Williams' 粉牌: Corrected _(4)^p(a/)i_ (baai4) to _(4)p(')(a/)i_ (paai4).
+  ==
+P
+  ++
+  1. Cosmetics (Kangxi: 傅面者也).
+  1. Powder (Kangxi: 凡物磑之如屑者皆爲粉粉通稱非獨米也).
+  1. To powder.
+  1. Flour- or starch-based foods (especially staples).
+  ++
 $$
 
 
