@@ -1266,10 +1266,38 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $份2
 - $粉2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 份2 | _(2)Fan_ [[fan2]]
+
+$$.
+R
+  ⼈ + 4
+U
+  U+4EFD
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~46 (2)份]]
+    --
+    [[Reading variation (vernacular rising-tone noun). **See $份fan6 for the canonical entry.**]]
+    --
+  - [[Page~713 (2)份]]
+    --
+    [[...]]
+    --
+  ====
+S
+  ==
+  - $份ban1 (TODO)
+  - $份fan6
+  ==
+$$
 
 ### 粉2 | _(2)Fan_ [[fan2]]
 
@@ -1807,6 +1835,7 @@ E
 S
   ==
   - $份ban1 (TODO)
+  - $份fan2
   ==
 $$
 
