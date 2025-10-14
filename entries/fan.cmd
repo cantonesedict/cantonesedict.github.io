@@ -1712,6 +1712,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $墳5
+- $忿5
 ==
 </nav>
 <## /tone-5-characters ##>
@@ -1754,6 +1755,53 @@ S
   ==
 $$
 
+### 忿5 | _(5)Fan_ [[fan5]]
+
+$$
+R
+  ⼼ + 4
+U
+  U+5FFF
+V
+  ==
+  - fan2 (per 《廣韻》敷粉切)
+  ==
+F
+  ==
+  - [[F1.83 忿]] 怒也
+  ==
+W
+  ====
+  - [[Page~47 (5)忿]]
+    ==
+    - Anger, resentment [[Kangxi: 悁也, 恨也怒也]];
+    - _(5)fan n(o\)(6)_
+        [[fan5 nou6 忿怒]]
+        angry, vexed;
+    - _(5)fan (5)fan pat(7) kik(7)_
+        [[fan5 fan5 bat1 gik1 忿忿不？]]
+        perturbed, cross;
+    - _(5)fan han(6)_
+        [[fan5 han6 忿恨]]
+        hatred, malice.
+    ==
+    --
+    [[Alternative form of 憤 (for the "anger" sense). See $憤fan5.]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Classically, 忿 is to be distinguished from $憤5.
+    Specifically, 忿 is an irrational anger,
+    whereas 憤 is an internal build-up that may or may not result in anger.
+  - In modern usage, 忿 is indistinguishable from 憤 for the "anger" sense.
+  ==
+S
+  ==
+  - $忿fan6
+  ==
+$$
+
 
 ##{#6 .williams} Fan(6) [[fan6 陽去]]
 
@@ -1762,6 +1810,7 @@ $$
 =={.modern}
 - $份6
 - $分6
+- $忿6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -1866,6 +1915,9 @@ W
     --
     [[Alternative form of 份. See $份fan6.]]
     --
+    --
+    [[Otherwise, an alternative form of 忿. **See $忿fan6 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -1889,5 +1941,51 @@ P
 S
   ==
   - $分fan1
+  ==
+$$
+
+###+ 忿6 | _Fan(6)_ (fan6)
+
+$$
+R
+  ⼼ + 4
+U
+  U+5FFF
+A
+  ==
+  - $分6
+  ==
+V
+  ==
+  - fan3 (per Kangxi 芳問切)
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - This sense is generally only used in the negative (e.g. 不忿, 唔忿氣).
+  ==
+P
+  ++
+  1. Accepting (of an adverse result or occurrence), as opposed to discontented (Kangxi: 通作分, 不分者不平之意與忿同).
+     ==
+     - 深深不忿 (sam1 sam1 bat1 fan6): "Deeply discontented."
+     ==
+  ++
+E
+  ====
+  - 【忿氣】 (fan6 hei3):
+    ++
+    1. Accepting (of an adverse result or occurrence), as opposed to discontented.
+       ==
+       - 唔忿氣輸咗 (m4 fan6 hei3 syu1 zo2): "Discontented at losing."
+       ==
+    ++
+  ====
+S
+  ==
+  - $忿fan5
   ==
 $$
