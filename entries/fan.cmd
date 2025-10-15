@@ -1674,7 +1674,7 @@ C
   ==
 S
   ==
-  - $焚fan5 (TODO)
+  - $焚fan5
   ==
 $$
 
@@ -1758,6 +1758,7 @@ $$
 - $僨5
 - $墳5
 - $忿5
+- $焚5
 - $蚡5
 - $鼢5
 ==
@@ -1776,7 +1777,7 @@ H
   depending on the font.
 A
   ==
-  - 焚
+  - $焚5
   - 賁
   ==
 V
@@ -1894,6 +1895,27 @@ C
 S
   ==
   - $忿fan6
+  ==
+$$
+
+###+ 焚5 | _(5)Fan_ (fan5)
+
+$$.
+R
+  ⽕ + 8
+U
+  U+711A
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 僨. **See $僨fan5 for the canonical entry.**
+  ++
+S
+  ==
+  - $焚fan4
   ==
 $$
 
