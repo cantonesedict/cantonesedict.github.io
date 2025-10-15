@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fan
-* %date-modified --> 2025-10-14
+* %date-modified --> 2025-10-15
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -1397,6 +1397,7 @@ $$
 - $濆4
 - $焚4
 - $蕡4
+- $鼢4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -1705,6 +1706,27 @@ W
   ====
 $$
 
+###+ 鼢4 | _(4)Fan_ (fan4)
+
+$$.
+R
+  ⿏ + 4
+U
+  U+9F22
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $鼢fan5 for the canonical entry.**
+  ++
+S
+  ==
+  - $鼢fan5
+  ==
+$$
+
 
 ##{#5 .williams} (5)Fan [[fan5 陽上]]
 
@@ -1713,6 +1735,7 @@ $$
 =={.modern}
 - $墳5
 - $忿5
+- $鼢5
 ==
 </nav>
 <## /tone-5-characters ##>
@@ -1799,6 +1822,39 @@ C
 S
   ==
   - $忿fan6
+  ==
+$$
+
+### 鼢5 | _(5)Fan_ [[fan5]]
+
+$$
+R
+  ⿏ + 4
+U
+  U+9F22
+A
+  ==
+  - 蚡
+  ==
+V
+  ==
+  - fan4 (alternative per 《廣韻》符分切)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~47 (5)鼢]]
+    ==
+    - A mole or field rat [[Kangxi: 地行鼠 etc.]];
+    - called _(4)lai (2)sh(u:)_
+        [[lai4 syu2 犁鼠]] [[Kangxi: 所謂犁鼠者卽此也]],
+        a plough rat.
+    ==
+  ====
+S
+  ==
+  - $鼢fan4
   ==
 $$
 
