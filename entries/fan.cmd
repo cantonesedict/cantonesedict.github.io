@@ -1397,6 +1397,7 @@ $$
 - $濆4
 - $焚4
 - $蕡4
+- $蚡4
 - $鼢4
 ==
 </nav>
@@ -1706,6 +1707,27 @@ W
   ====
 $$
 
+###+ 蚡4 | _(4)Fan_ (fan4)
+
+$$.
+R
+  ⾍ + 4
+U
+  U+86A1
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 鼢, and reading variation. **See $鼢fan5 for the canonical entry.**
+  ++
+S
+  ==
+  - $蚡fan5
+  ==
+$$
+
 ###+ 鼢4 | _(4)Fan_ (fan4)
 
 $$.
@@ -1735,6 +1757,7 @@ $$
 =={.modern}
 - $墳5
 - $忿5
+- $蚡5
 - $鼢5
 ==
 </nav>
@@ -1825,6 +1848,27 @@ S
   ==
 $$
 
+###+ 蚡5 | _(5)Fan_ (fan5)
+
+$$.
+R
+  ⾍ + 4
+U
+  U+86A1
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 鼢. **See $鼢fan5 for the canonical entry.**
+  ++
+S
+  ==
+  - $蚡fan4
+  ==
+$$
+
 ### 鼢5 | _(5)Fan_ [[fan5]]
 
 $$
@@ -1834,7 +1878,7 @@ U
   U+9F22
 A
   ==
-  - 蚡
+  - $蚡5
   ==
 V
   ==
