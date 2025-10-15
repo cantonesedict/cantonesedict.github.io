@@ -1760,6 +1760,7 @@ $$
 - $忿5
 - $焚5
 - $蚡5
+- $賁5
 - $鼢5
 ==
 </nav>
@@ -1778,7 +1779,7 @@ H
 A
   ==
   - $焚5
-  - 賁
+  - $賁5
   ==
 V
   ==
@@ -1937,6 +1938,50 @@ P
 S
   ==
   - $蚡fan4
+  ==
+$$
+
+### 賁5 | _(5)Fan_ [[fan5]]
+
+$$
+R
+  ⾙ + 5
+U
+  U+8CC1
+H
+  May appear with 艹 having 3~strokes (+5 assumed here) or 4~strokes (+6),
+  depending on the font.
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~352 (1)賁]]
+    --
+    [[...]]
+    --
+    ==
+    - Also read _(5)Fan_ [[fan5]], to be filled with rage [[Kangxi: 與憤同, 賁讀爲憤憤怒氣充實也]];
+    - to bubble or effervesce as a spring [[Kangxi: 沸也]];
+    - [[...]].
+    <## TODO: correct to $賁ban1
+    - _[(1)pan] (4)m(u/)n_
+        [[ban1 mun4 賁門]],
+        the cardiac extremity of the [œsophagus].
+    ##>
+    ==
+    --
+    [[Alternative form of 憤. See $憤fan5.]]
+    --
+    --
+    [[Otherwise, an alternative form of 僨. **See $僨fan5 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $賁ban1 (TODO)
+  - $賁bei3 (TODO)
+  - $賁fan4 (TODO)
+  - $賁fei4 (TODO)
   ==
 $$
 
