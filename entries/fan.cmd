@@ -1398,6 +1398,7 @@ $$
 - $焚4
 - $蕡4
 - $蚡4
+- $賁4
 - $鼢4
 ==
 </nav>
@@ -1728,6 +1729,34 @@ S
   ==
 $$
 
+###+ 賁4 | _(4)Fan_ (fan4)
+
+$$
+R
+  ⾙ + 5
+U
+  U+8CC1
+H
+  May appear with 艹 having 3~strokes (+5 assumed here) or 4~strokes (+6),
+  depending on the font.
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Great (Kangxi: 宏賁皆大也).
+  1. A three-legged tortoise (Kangxi: 龜三足賁).
+  ++
+S
+  ==
+  - $賁ban1 (TODO)
+  - $賁bei3 (TODO)
+  - $賁fan5
+  - $賁fei4 (TODO)
+  ==
+$$
+
 ###+ 鼢4 | _(4)Fan_ (fan4)
 
 $$.
@@ -1980,7 +2009,7 @@ S
   ==
   - $賁ban1 (TODO)
   - $賁bei3 (TODO)
-  - $賁fan4 (TODO)
+  - $賁fan4
   - $賁fei4 (TODO)
   ==
 $$
