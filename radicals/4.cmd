@@ -180,6 +180,7 @@ For all radicals, see [Index of characters by radical](./).
       - $憔ciu4
       - ${𢠵=⿰忄敞}cong2
       - {$憧cung1, $憧zong6}
+      - $憤fan5
       - $憎zang1
       ==
       </nav>

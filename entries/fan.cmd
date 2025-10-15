@@ -1787,6 +1787,7 @@ $$
 - $僨5
 - $墳5
 - $忿5
+- $憤5
 - $焚5
 - $蚡5
 - $賁5
@@ -1912,19 +1913,65 @@ W
         hatred, malice.
     ==
     --
-    [[Alternative form of 憤 (for the "anger" sense). See $憤fan5.]] [[TODO]]
+    [[Alternative form of 憤 (for the "anger" sense). See $憤fan5.]]
     --
   ====
 C
   ==
   - Classically, 忿 is to be distinguished from $憤5.
     Specifically, 忿 is an irrational anger,
-    whereas 憤 is an internal build-up that may or may not result in anger.
+    whereas 憤 is an internal build-up of *either* anger or ardour.
   - In modern usage, 忿 is indistinguishable from 憤 for the "anger" sense.
   ==
 S
   ==
   - $忿fan6
+  ==
+$$
+
+### 憤5 | _(5)Fan_ [[fan5]]
+
+$$
+R
+  ⼼ + 12
+U
+  U+61A4
+A
+  ==
+  - $忿5 (for "anger" sense)
+  - $賁5
+  ==
+F
+  ==
+  - [[F1.83 憤]] ::心求[通]而未能也又發憤又怒也::
+  ==
+W
+  ====
+  - [[Page~47 (5)憤]]
+    ==
+    - Impatient desire [[Kangxi: 懣也]], zeal, ardor;
+    - anger, violent feeling;
+    - _f(a/)t(8) (5)fan_
+        [[faat3 fan5 發憤]],
+        excited, zealous after;
+    - _(5)fan lik(9)_
+        [[fan5 lik6 憤力]]
+        to put forth one's energies;
+    - ~~_(5)fan k(i/)t(8)_
+        [[fan5 git3 憤？]]~~
+        wrought up by passion.
+    ==
+  - [[Page~713 (5)憤]]
+    ==
+    - Under this character, for _(5)fan k(i/)t(8)_ [[fan5 git3 憤？]]
+      read _(5)fan l(i/)t(9)_ [[fan5 lit6 憤烈]].
+    ==
+  ====
+C
+  ==
+  - See commentary at $忿5 on the distinction from 憤.
+  - Fan Wan entry: Fixed missing stroke in 通.
+  - Williams' 發憤, 憤力: These are effectively alternative forms of 發奮, 奮力.
   ==
 $$
 
