@@ -1755,6 +1755,7 @@ $$
 <## tone-5-characters ##>
 <nav class="sideways">
 =={.modern}
+- $僨5
 - $墳5
 - $忿5
 - $蚡5
@@ -1762,6 +1763,54 @@ $$
 ==
 </nav>
 <## /tone-5-characters ##>
+
+### 僨5 | _(5)Fan_ [[fan5]]
+
+$$
+R
+  ⼈ + 12
+U
+  U+50E8
+H
+  May appear with 艹 in 賁 having 3 strokes (+12 assumed here) or 4 strokes (+13),
+  depending on the font.
+A
+  ==
+  - 焚
+  - 賁
+  ==
+V
+  ==
+  - fan3 (per 《廣韻》方問切)
+  ==
+F
+  ==
+  - [[F1.83 僨]] ::[覆]敗也::
+  ==
+W
+  ====
+  - [[Page~47 (5)僨]]
+    ==
+    - ~~Prostrate;~~
+    - to overthrow, to ruin [[Kangxi: 覆敗也]];
+    - to fall on one's back [[Kangxi: 僵也, 仰偃也]];
+    - _yat(7) (4)(i/)n (5)fan sz'(6)_
+        [[jat1 jin4 fan5 si6 一言僨事]]
+        a word will ruin an affair;
+    - _(5)fan (2)t(o\) t(i/)(6)_
+        [[fan5 dou2 dei6 僨倒地]]
+        to tumble to the ground.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed 覆.
+  ==
+P
+  ++
+  1. Moved, excited (Kangxi: 僨動也).
+  ++
+$$
 
 ###+ 墳5 | _(5)Fan_ (fan5)
 
