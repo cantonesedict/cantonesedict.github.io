@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of Cantonese terms by Jyutping
-* %date-modified --> 2025-10-14
+* %date-modified --> 2025-10-16
 * %copyright-prior-years --> 2023--
 * %meta-description --> searchable index of Cantonese terms by Jyutping
 
@@ -518,6 +518,18 @@ window.onload = applyFilter;
     , fai3 si6
     , [費事](/entries/fai#cantonese-費事)
   //
+    , fan3
+    , [瞓](/entries/fan#cantonese-瞓)
+  //
+    , fan3 gaau3
+    , [瞓覺](/entries/fan#cantonese-瞓覺)
+  //
+    , fan3 san1
+    , [瞓身](/entries/fan#cantonese-瞓身)
+  //
+    , fan3 zoek6
+    , [瞓着](/entries/fan#cantonese-瞓着)
+  //
     , fan6 hei3
     , [忿氣](/entries/fan#cantonese-忿氣)
   //
@@ -659,6 +671,12 @@ window.onload = applyFilter;
     , maa4 zoek3-2
     , [麻雀](/entries/zoek#cantonese-麻雀)
   //
+    , man1 dou1 fan3
+    , [蚊都瞓](/entries/fan#cantonese-蚊都瞓)
+  //
+    , man1 fan3
+    , [蚊瞓](/entries/fan#cantonese-蚊瞓)
+  //
     , mat1 zai6
     , [乜嚌](/entries/zai#cantonese-乜嚌)
   //
@@ -682,6 +700,9 @@ window.onload = applyFilter;
   //
     , ngaak1
     , [呃](/entries/aak#cantonese-呃)
+  //
+    , ngaan5 fan3
+    , [眼瞓](/entries/fan#cantonese-眼瞓)
   //
     , no6 mai5 ci4
     , [糯米糍](/entries/ci#cantonese-糯米糍)

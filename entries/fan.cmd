@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [fan1](#1)
 - [fan2](#2)
+- [fan3](#3)
 - [fan4](#4)
 - [fan5](#5)
 - [fan6](#6)
@@ -1381,6 +1382,98 @@ P
   1. To powder.
   1. Flour- or starch-based foods (especially staples).
   ++
+$$
+
+
+##{#3 .williams} Fan(3) [[fan3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $瞓3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 瞓3 | _Fan(3)_ [[fan3]]
+
+$$
+R
+  ⽬ + 10
+U
+  U+7793
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~47 瞓(3)]]
+    ==
+    - To sleep, to rest;
+    - _(5)n(i/) fan(3) (1)wan_
+        [[nei5 fan3 wan1 你瞓瘟]],
+        you are half asleep;
+    - _(5)ng(a/)n fan(3)_
+        [[ngaan5 fan3 眼瞓]]
+        sleepy.
+    ==
+    --
+    A colloquial word, for which this character is often made.
+    --
+  ====
+E
+  ====
+  - 【瞓】 (fan3):
+    ++
+    1. To sleep.
+       ==
+       - 唔夠瞓 (m4 gau3 fan3): "Not enough sleep."
+       - 喺度瞓 (hai2 dou6 fan3): "Sleep here."
+       - 打側瞓 (daa2 zak1 fan3): "Sleep sideways."
+       - 瞓廳 (fan3 teng1): "Sleep [in the] living-room."
+       - 瞓地 (fan3 dei6): "Sleep [on the] floor."
+       - 瞓街 (fan3 gaai1): "Sleep [on the] streets" (i.e. be homeless).
+       ==
+    1. To lie, to recline.
+       ==
+       - 瞓低 (fan3 dai1): "Lie down."
+       - 瞓低嗮 (fan3 dai1 saai3): "All toppled."
+       ==
+    ++
+  - 【瞓覺】 (fan3 gaau3):
+    ++
+    1. To sleep.
+       ==
+       - 瞓緊晏覺 (fan3 gan2 aan3 gaau3): "Taking [an] afternoon nap."
+       - 瞓着覺 (fan3 zoek6 gaau3): "Fallen asleep."
+       ==
+    ++
+  - 【瞓身】 (fan3 san1):
+    ++
+    1. To go all in.
+    ++
+  - 【瞓着】 (fan3 zoek6):
+    ++
+    1. To fall asleep.
+       ==
+       - 未瞓着 (mei6 fan3 zoek6): "Not yet asleep."
+       - 瞓唔着 (fan3 m4 zoek6): "Can't fall asleep."
+       - 瞓着咗 (fan3 zoek6 zo2): "Fallen asleep."
+       ==
+    ++
+  - 【蚊瞓】 (man1 fan3):
+    ++
+    1. Short for [蚊都瞓](#cantonese-蚊都瞓).
+    ++
+  - 【蚊都瞓】 (man1 dou1 fan3):
+    ++
+    1. Way too late. (Literally, "even mosquitoes [are going to] sleep".)
+    ++
+  - 【眼瞓】 (ngaan5 fan3):
+    ++
+    1. Sleepy.
+    ++
+  ====
+  <## TODO: 瞓捩頸 fan3 lai6-2 geng2 under $捩lai6 ##>
 $$
 
 
