@@ -1391,6 +1391,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $瞓3
+- $訓3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -1474,6 +1475,51 @@ E
     ++
   ====
   <## TODO: 瞓捩頸 fan3 lai6-2 geng2 under $捩lai6 ##>
+$$
+
+### 訓3 | _Fan(3)_ [[fan3]]
+
+$$
+R
+  ⾔ + 3
+U
+  U+8A13
+F
+  ==
+  - [[F1.85 訓]] 敎訓也又誡也
+  ==
+W
+  ====
+  - [[Page~47 訓(3)]]
+    ==
+    - To instruct [[Kangxi: 說敎也, 導也]], to teach [[Kangxi: 誨也]], ~~to exhort~~;
+    - to explain [[Kangxi: 訓者釋所言之理也]];
+    - a doctrine, precept [[Kangxi: 古言可爲法也]];
+    - ~~definition;~~
+    - _fan(3) k(a/)u(3)_
+        [[fan3 gaau3 訓教]]
+        to instruct;
+    - _fan(3) l(i/)n(6)_
+        [[fan3 lin6 訓練]]
+        ~~to teach the manual~~;
+    - _fan(3) t(o\)(6)_
+        [[fan3 dou6 訓導]]
+        the [superintendent] of education in each department;
+    - _(2)k(u/) fan(3)_
+        [[gu2 fan3 古訓]]
+        tradition.
+    ==
+  ====
+C
+  ==
+  - Williams' 訓練: Better rendered "to train".
+  ==
+P
+  ++
+  1. To caution (Kangxi: 誡也).
+  1. To comply with, to go along with (Kangxi: 順也).
+  1. To train.
+  ++
 $$
 
 
