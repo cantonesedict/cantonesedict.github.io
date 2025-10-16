@@ -1404,6 +1404,8 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
+<## TODO: Normalise Page~713 噴 fan3 (and fan5) to $噴pan3 ##>
+
 ### 瞓3 | _Fan(3)_ [[fan3]]
 
 $$
