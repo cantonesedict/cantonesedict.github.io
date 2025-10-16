@@ -1361,6 +1361,13 @@ W
         [[jyun4 fan2 鉛粉]],
         white lead.
     ==
+  - [[Page~713 (2)粉]]
+    ==
+    - The white pus of sores;
+    - _(2)fan (4)lau_
+        [[fan2 lau4-2 粉瘤]],
+        the sloughing from tumors.
+    ==
   ====
 C
   ==
