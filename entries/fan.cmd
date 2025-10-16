@@ -1786,6 +1786,7 @@ $$
 =={.modern}
 - $僨5
 - $墳5
+- $奮5
 - $忿5
 - $憤5
 - $焚5
@@ -1880,6 +1881,55 @@ S
   ==
   - $墳fan4
   ==
+$$
+
+### 奮5 | _(5)Fan_ [[fan5]]
+
+$$
+R
+  ⼤ + 13
+U
+  U+596E
+V
+  ==
+  - fan3 (per 《廣韻》方問切)
+  ==
+F
+  ==
+  - [[F1.83 ::[奮]::]] 發動也
+  ==
+W
+  ====
+  - [[Page~47 (5)奮]]
+    ==
+    - To endeavor after, to excite, to rouse [[Kangxi: 震動也]];
+    - to spread abroad [[Kangxi: 揚也]] or reach to;
+    - ~~to brush away;~~
+    - to lift;
+    - prompt, impetuous, rapid;
+    - _(5)fan ch(i/)(3)_
+        [[fan5 zi3 奮志]]
+        to animate one's self;
+    - _(5)fan lik(9)_
+        [[fan5 lik6 奮力]]
+        to put forth energy;
+    - _(5)fan (1)(i/)_
+        [[fan5 ji1 奮衣]],
+        ~~to lift up the skirt~~.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword 奮, which is printed
+    with the second stroke of 大 conjoined with the first stroke of 隹.
+  - Williams' "to brush away": Better rendered "to shake off".
+  - Williams' 奮衣: Not to lift the skirt, but to shake the dust off the clothes.
+  ==
+P
+  ++
+  1. To spread the wings (Kangxi: 翬也, 鳥張羽奮奞也).
+  1. To shake off dust (Kangxi: 振去塵也).
+  ++
 $$
 
 ### 忿5 | _(5)Fan_ [[fan5]]
