@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fan
-* %date-modified --> 2025-10-15
+* %date-modified --> 2025-10-16
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -2257,7 +2257,7 @@ W
   [[Not present]]
 C
   ==
-  - This sense is generally only used in the negative (e.g. 不忿, 唔忿氣).
+  - Generally only used in the negative (e.g. 不忿, 唔忿氣).
   ==
 P
   ++
