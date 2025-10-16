@@ -1391,6 +1391,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $瞓3
+- $糞3
 - $訓3
 ==
 </nav>
@@ -1475,6 +1476,50 @@ E
     ++
   ====
   <## TODO: 瞓捩頸 fan3 lai6-2 geng2 under $捩lai6 ##>
+$$
+
+### 糞3 | _Fan(3)_ [[fan3]]
+
+$$
+R
+  ⽶ + 11
+U
+  U+7CDE
+F
+  ==
+  - [[F1.85 糞]] ::糞[穢]又壅也::
+  ==
+W
+  ====
+  - [[Page~47 糞(3)]]
+    ==
+    - Ordure, filth, muck [[Kangxi: 穢也]], excrement;
+    - to manure [[Kangxi: 治也培也]];
+    - _fan(3) (1)h(a/)ng_
+        [[fan3 haang1 糞坑]],
+        a privy;
+    - _fan(3) (4)m(u/)n_
+        [[fan3 mun4 糞門]],
+        the anus;
+    - _lok(9) fan(3)_
+        [[lok6 fan3 落糞]]
+        to manure;
+    - _fan(3) li(u/)(6)_
+        [[fan3 liu6-2 糞料]]
+        muck prepared for sale;
+    - _fan(3) t(i/)(6)_
+        [[fan3 dei6 糞地]]
+        a public necessary.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed missing strokes in 穢.
+  ==
+P
+  ++
+  1. To remove, to sweep away (Kangxi: 掃除也, 糞除也).
+  ++
 $$
 
 ### 訓3 | _Fan(3)_ [[fan3]]
