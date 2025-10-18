@@ -522,6 +522,7 @@ $$
 - $燔4
 - $番4
 - $籓4
+- $膰4
 - $蹯4
 ==
 </nav>
@@ -682,16 +683,13 @@ W
   ====
   - [[Page~48 (4)燔]]
     ==
-    <## TODO: Normalise to 膰
-    - To roast meat for sacrifices;
-    ##>
     - [[...]];
     - _(4)f(a/)n chek[(8)]_
         [[faan4 zek3 燔炙]]
         to roast meat.
     ==
     --
-    [[Otherwise, an alternative form of 膰. **See $膰faan4 for the canonical entry.**]] [[TODO]]
+    [[Otherwise, an alternative form of 膰. **See $膰faan4 for the canonical entry.**]]
     --
   ====
 C
@@ -751,6 +749,37 @@ S
   ==
   - $籓faan1
   ==
+$$
+
+### 膰4 | _(4)F(a/)n_ [[faan4]]
+
+$$
+R
+  ⾁ + 12
+U
+  U+81B0
+A
+  ==
+  - $燔4
+  - 㸋
+  ==
+F
+  ==
+  - [[F2.67 膰]] 祭餘肉也
+  ==
+W
+  ====
+  - [[Page~48 (4)燔; here normalised to 膰]]
+    ==
+    - To roast meat for sacrifices [[Kangxi 燔: 與膰通 etc.]];
+    - [[...]].
+    ==
+  - [[Page~48 (4)膰]]
+    ==
+    - Meat roasted for sacrifice [[Kangxi: 宗廟火熟肉, 膰祭肉]];
+    - the remnants of a sacrifice, sent to princes [[Kangxi: ::[...]以饋同姓諸侯::]].
+    ==
+  ====
 $$
 
 ### 蹯4 | _(4)F(a/)n_ [[faan4]]
