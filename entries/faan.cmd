@@ -68,9 +68,6 @@ W
   ====
   - [[Page~47 (1)番]]
     ==
-    <## TODO: correct to $番faan4 and normalise to 蹯
-    - A beast's footstep;
-    ##>
     - [[...]];
     - a time, a turn, a repetition of [[Kangxi: 數也遞也]];
     - ~~to reckon, to change;~~
@@ -121,6 +118,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $番4
+- $蹯4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -147,4 +145,34 @@ S
   - $番pun1 (TODO)
   - $番pun4 (TODO)
   ==
+$$
+
+### 蹯4 | _(4)F(a/)n_ [[faan4]]
+
+$$
+R
+  ⾜ + 12
+U
+  U+8E6F
+A
+  ==
+  - $番4
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~47 (1)番 _(1)F(a/)n_ (faan1); here corrected to _(4)F(a/)n_ (faan4) and normalised to 蹯]]
+    ==
+    - A beast's foot~~step~~ [[Kangxi 番: 獸足謂之番, 或作{𨆌=⿰𧾷煩}蹯]];
+    - [[...]].
+    ==
+  - [[Page~714 (4)蹯]]
+    ==
+    - A paw of a plantigrade animal [[Kangxi: 《說文》作番獸足也]], as a badger;
+    - _(4)hung (4)f(a/)n_
+        [[hung4 faan4 熊蹯]],
+        a bear's paw, which is esteemed a delicacy.
+    ==
+  ====
 $$
