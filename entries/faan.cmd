@@ -487,6 +487,7 @@ $$
 =={.modern}
 - $凡4
 - $凢4
+- $墦4
 - $帆4
 - $番4
 - $蹯4
@@ -574,6 +575,33 @@ W
 C
   ==
   - Fan Wan entry: Corrected malformed 槩 and 鄙.
+  ==
+$$
+
+### 墦4 | _(4)F(a/)n_ [[faan4]]
+
+$$
+R
+  ⼟ + 12
+U
+  U+58A6
+F
+  ==
+  - [[F2.67 墦]] 墦[間塚]也
+  ==
+W
+  ====
+  - [[Page~48 (4)墦]]
+    ==
+    - A grave [[Kangxi: 墦埌冢也]];
+    - _(4)f(a/)n (1)k(a/)n_
+        [[faan4 gaan1 墦間]],
+        at the graves, a sepulchre.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed missing stroke in 間, and corrected 塜 to 塚.
   ==
 $$
 
