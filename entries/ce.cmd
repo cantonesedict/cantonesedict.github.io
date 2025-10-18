@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-10-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -145,7 +145,7 @@ W
   [[Not present]]
 P
   ++
-  1. The equivalent to solfège _re_ in 工尺譜 (Gongche notation).
+  1. (_music_) Rough equivalent of solfège _re_ in 工尺譜 (Gongche notation).
   ++
 S
   ==

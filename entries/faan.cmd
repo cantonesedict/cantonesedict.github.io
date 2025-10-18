@@ -91,7 +91,7 @@ E
   ====
   - 【反】 (faan1):
     ++
-    1. The equivalent to solfège _fa_ sharpened by roughly a quarter tone
+    1. (_music_) Rough equivalent of solfège _fa_ half-sharp
        in 工尺譜 (Gongche notation).
     ++
   ====

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2025-08-31
+* %date-modified --> 2025-10-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2200,9 +2200,9 @@ W
   [[Not present]]
 P
   ++
-  1. The note a perfect fifth (ratio 81:54 = 3:2 per 《史記》 tuning)
-      above 宮 in the olden Chinese pentatonic scale,
-      equivalent to _sol_ in solfège (Kangxi: 宮徵也, ::[...]五音配夏::).
+  1. (_music_) The note a perfect fifth (ratio 81:54 = 3:2 per 《史記》 tuning)
+     above 宮 in the olden Chinese pentatonic scale,
+     roughly equivalent to solfège _sol_ (Kangxi: 宮徵也, ::[...]五音配夏::).
   ++
 S
   ==
