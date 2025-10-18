@@ -487,6 +487,7 @@ $$
 =={.modern}
 - $凡4
 - $凢4
+- $帆4
 - $番4
 - $蹯4
 ==
@@ -574,6 +575,36 @@ C
   ==
   - Fan Wan entry: Corrected malformed 槩 and 鄙.
   ==
+$$
+
+### 帆4 | _(4)F(a/)n_ [[faan4]]
+
+$$
+R
+  ⼱ + 3
+U
+  U+5E06
+V
+  ==
+  - faan6 (per 《廣韻》扶泛切 for verb sense)
+  ==
+F
+  ==
+  - [[F2.68 帆]] 風帆
+  ==
+W
+  ====
+  - [[Page~48 (4)帆]]
+    ==
+    - A sail of canvas [[Kangxi: 舟上幔以帆風]];
+    - _kw(a/)(3) (4)f(a/)n_
+        [[gwaa3 faan4 掛帆]],
+        to hoist sail;
+    - _(4)f(a/)n p(o\)(3)_
+        [[faan4 bou3 帆布]]
+        canvas.
+    ==
+  ====
 $$
 
 ###+ 番4 | _(4)F(a/)n_ (faan4)
