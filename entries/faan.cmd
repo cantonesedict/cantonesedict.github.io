@@ -489,6 +489,7 @@ $$
 - $凢4
 - $墦4
 - $帆4
+- $燔4
 - $番4
 - $蹯4
 ==
@@ -633,6 +634,44 @@ W
         canvas.
     ==
   ====
+$$
+
+### 燔4 | _(4)F(a/)n_ [[faan4]]
+
+$$
+R
+  ⽕ + 12
+U
+  U+71D4
+F
+  ==
+  - [[F2.67 燔]] ::[熱]炙也::
+  ==
+W
+  ====
+  - [[Page~48 (4)燔]]
+    ==
+    <## TODO: Normalise to 膰
+    - To roast meat for sacrifices;
+    ##>
+    - [[...]];
+    - _(4)f(a/)n chek[(8)]_
+        [[faan4 zek3 燔炙]]
+        to roast meat.
+    ==
+    --
+    [[Otherwise, an alternative form of 膰. **See $膰faan4 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised {𤍠=⿱執灬} to 熱.
+  - Williams' 燔炙: Corrected _chek(9)_ (zek6) to _chek(8)_ (zek3).
+  ==
+P
+  ++
+  1. To roast, to burn (Kangxi: {𤑔=⿱艹⿱埶火}也, 燒也, 炙也).
+  ++
 $$
 
 ###+ 番4 | _(4)F(a/)n_ (faan4)
