@@ -56,6 +56,7 @@ $$
 - $繙1
 - $翻1
 - $蕃1
+- $藩1
 - $返1
 - $飜1
 ==
@@ -399,10 +400,32 @@ W
 P
   ++
   1. Alternative form of 番 (for the "foreign" sense). **See $番faan1 for the canonical entry.**
+  1. Alternative form of 藩, and reading variation. **See $藩faan4 for the canonical entry.**
   ++
 S
   ==
   - $蕃faan4
+  ==
+$$
+
+###+ 藩1 | _(1)F(a/)n_ (faan1)
+
+$$.
+R
+  ⾋ + 15
+U
+  U+85E9
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $藩faan4 for the canonical entry.**
+  ++
+S
+  ==
+  - $藩faan4
   ==
 $$
 
@@ -907,6 +930,10 @@ P
   ++
   1. A screen (Kangxi 藩: 與蕃通屛也).
   ++
+S
+  ==
+  - $藩faan1
+  ==
 $$
 
 ### 蹯4 | _(4)F(a/)n_ [[faan4]]
