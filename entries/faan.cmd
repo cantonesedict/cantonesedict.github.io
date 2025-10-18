@@ -550,6 +550,7 @@ $$
 - $籓4
 - $膰4
 - $蕃4
+- $藩4
 - $蹯4
 ==
 </nav>
@@ -843,13 +844,69 @@ W
     [[Alternative form of 繁. See $繁faan4.]] [[TODO]]
     --
     --
-    [[Otherwise, an alternative form of 藩. **See $藩faan4 for the canonical entry.**]] [[TODO]]
+    [[Otherwise, an alternative form of 藩. **See $藩faan4 for the canonical entry.**]]
     --
   ====
 S
   ==
   - $蕃faan1
   ==
+$$
+
+### 藩4 | _(4)F(a/)n_ [[faan4]]
+
+$$
+R
+  ⾋ + 15
+U
+  U+85E9
+A
+  ==
+  - $蕃4
+  ==
+V
+  ==
+  - faan1 (per 《廣韻》甫煩切)
+  ==
+F
+  ==
+  - [[F2.67 藩]] 藩籬藩屏藩垣
+  ==
+W
+  ====
+  - [[Page~48 ::(4)藩~~(4)轓~~::]]
+    ==
+    - A fence [[Kangxi 藩: 籬也]], hedge, boundary;
+    - a frontier;
+    - ~~to ward off~~, to protect;
+    - a cover for a chariot;
+    - a covered car;
+    - _(4)f(a/)n (4)l(i/)_
+        [[faan4 lei4 藩籬]],
+        a wattle or hurdle;
+    - _(4)f(a/)n wik(9)_
+        [[faan4 wik6 藩域]]
+        the frontiers;
+    - _(4)f(a/)n (4)t(')oi_
+        [[faan4 toi4 藩臺]],
+        the treasurer of a province;
+    - _(4)f(a/)n (4)(u/)n_
+        [[faan4 wun4 藩垣]],
+        a wall inclosing;
+    - _(4)f(a/)n (4)p(')ing_
+        [[faan4 ping4 藩屏]],
+        a screen;
+        a statesman.
+    ==
+  ====
+C
+  ==
+  - Williams' "to protect": Or, "to screen".
+  ==
+P
+  ++
+  1. A screen (Kangxi 藩: 與蕃通屛也).
+  ++
 $$
 
 ### 蹯4 | _(4)F(a/)n_ [[faan4]]
