@@ -1270,6 +1270,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - {$蕝cyut3, $蕝zyut3}
       - {$蕞cyut3, $蕞zeoi3, $蕞zyut3}
+      - {$蕃faan1, $蕃faan4}
       - $蕡fan4
       - ${𦻐=⿱艹焯}zaau3
       - $蕉ziu1

@@ -55,6 +55,7 @@ $$
 - $籓1
 - $繙1
 - $翻1
+- $蕃1
 - $返1
 - $飜1
 ==
@@ -205,6 +206,10 @@ R
   ⽥ + 7
 U
   U+756A
+A
+  ==
+  - $蕃1 (for "foreign" sense)
+  ==
 F
   ==
   - [[F2.66 番]] 夷狄之稱
@@ -380,6 +385,27 @@ P
   ++
 $$
 
+###+ 蕃1 | _(1)F(a/)n_ (faan1)
+
+$$.
+R
+  ⾋ + 12
+U
+  U+8543
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 番 (for the "foreign" sense). **See $番faan1 for the canonical entry.**
+  ++
+S
+  ==
+  - $蕃faan4
+  ==
+$$
+
 ### 返1 | _(1)F(a/)n_ [[faan1]]
 
 $$
@@ -523,6 +549,7 @@ $$
 - $番4
 - $籓4
 - $膰4
+- $蕃4
 - $蹯4
 ==
 </nav>
@@ -780,6 +807,49 @@ W
     - the remnants of a sacrifice, sent to princes [[Kangxi: ::[...]以饋同姓諸侯::]].
     ==
   ====
+$$
+
+### 蕃4 | _(4)F(a/)n_ [[faan4]]
+
+$$
+R
+  ⾋ + 12
+U
+  U+8543
+F
+  ==
+  - [[F2.67 蕃]] 茂也滋也息也
+  ==
+W
+  ====
+  - [[Page~48 (4)蕃]]
+    ==
+    - Plants growing luxuriantly [[Kangxi: 草茂也, 蕃滋也, 蕃息也]];
+    - flourishing;
+    - plenty;
+    - many;
+    - ~~to settle;~~
+    <## TODO: normalise to $繁faan4
+    - _(4)f(a/)n mau(6)_
+        [[faan4 mau6 繁茂]]^,
+        abundant, prosperous;
+    - _(4)f(a/)n (2)(i/)n_
+        [[faan4 jin2 繁衍]],
+        numerous progeny.
+    ##>
+    - [[...]].
+    ==
+    --
+    [[Alternative form of 繁. See $繁faan4.]] [[TODO]]
+    --
+    --
+    [[Otherwise, an alternative form of 藩. **See $藩faan4 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+S
+  ==
+  - $蕃faan1
+  ==
 $$
 
 ### 蹯4 | _(4)F(a/)n_ [[faan4]]
