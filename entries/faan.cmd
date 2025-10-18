@@ -57,6 +57,7 @@ $$
 - $翻1
 - $蕃1
 - $藩1
+- $轓1
 - $返1
 - $飜1
 ==
@@ -422,11 +423,41 @@ W
 P
   ++
   1. Reading variation. **See $藩faan4 for the canonical entry.**
+  1. Alternative form of 轓. **See $轓faan1 for the canonical entry.**
   ++
 S
   ==
   - $藩faan4
   ==
+$$
+
+###+ 轓1 | _(1)F(a/)n_ (faan1)
+
+$$
+R
+  ⾞ + 12
+U
+  U+8F53
+A
+  ==
+  - $藩1
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~48 (4)藩(4)轓 _(4)F(a/)n_ (faan4); here corrected to _(1)F(a/)n_ (faan1)]]
+    ==
+    - [[...]];
+    - a cover for a chariot [[Kangxi 轓: 轓車之蔽也]];
+    - a covered car;
+    - [[...]].
+    ==
+  ====
+P
+  ++
+  1. A large storage compartment of a chariot (Kangxi 轓: 車大箱也).
+  ++
 $$
 
 ### 返1 | _(1)F(a/)n_ [[faan1]]
@@ -902,8 +933,7 @@ W
     - A fence [[Kangxi 藩: 籬也]], hedge, boundary;
     - a frontier;
     - ~~to ward off~~, to protect;
-    - a cover for a chariot;
-    - a covered car;
+    - [[...]];
     - _(4)f(a/)n (4)l(i/)_
         [[faan4 lei4 藩籬]],
         a wattle or hurdle;

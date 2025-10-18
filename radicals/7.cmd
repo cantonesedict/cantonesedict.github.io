@@ -917,6 +917,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $轍cit3
+      - $轓faan1
       ==
       </nav>
 ''
