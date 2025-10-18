@@ -48,10 +48,57 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $幡1
 - $番1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 幡1 | _(1)F(a/)n_ [[faan1]]
+
+$$
+R
+  ⼱ + 12
+U
+  U+5E61
+F
+  ==
+  - [[F2.66 幡]] 慢也又幡然攺
+  ==
+W
+  ====
+  - [[Page~47 (1)幡]]
+    ==
+    - A banner, or streamer [[Kangxi: 一曰幟也]] with sentences,
+      hung in temples or carried in processions;
+    - a duster or napkin [[Kangxi: 幡書兒拭觚布也]];
+    - ~~to move;~~
+    - _(4)ch(')(e/)ung (1)f(a/)n yat(7) t(u/)i(3)_
+        [[coeng4 faan1 jat1 deoi3 長幡一對]]
+        a pair of streamers;
+    - _(1)f(a/)n (4)(i/)n_
+        [[faan1 jin4 幡然]],
+        forthwith.
+    ==
+    --
+    [[Alternative form of 翻. See $翻faan1.]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: The explanation 慢也 is erroneous. If it is a typo for 幔也,
+    it is still not quite correct (a banner is not a curtain/screen).
+  - Williams' "duster or napkin": Specifically for 觚 "wooden writing-slips".
+    According to 段玉裁's annotations of 《說文》,
+    拭 ("wipe", which is not present as a headword)
+    is a vulgar substitute for 飾 ("decorate"),
+    and this sense should instead be understood as "decorative cloth".
+  ==
+P
+  ++
+  1. A reversal, an about-face (Kangxi: 幡反也).
+  ++
+$$
 
 ### 番1 | _(1)F(a/)n_ [[faan1]]
 
