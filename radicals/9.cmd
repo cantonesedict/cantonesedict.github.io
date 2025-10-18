@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 9-stroke radicals
-* %date-modified --> 2025-10-05
+* %date-modified --> 2025-10-18
 * %copyright-prior-years --> 2024--
 * %meta-description --> index of characters with 9-stroke radicals
 
@@ -191,6 +191,23 @@ For all radicals, see [Index of characters by radical](./).
 ## ⾶ (fly)
 
 <## radical-⾶-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+  //
+    , 12
+    ,
+      <nav class="sideways">
+      ==
+      - $飜faan1
+      ==
+      </nav>
+''
+||||
 <## /radical-⾶-characters ##>
 
 

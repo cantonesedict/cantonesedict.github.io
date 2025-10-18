@@ -54,6 +54,7 @@ $$
 - $繙1
 - $翻1
 - $返1
+- $飜1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -259,7 +260,7 @@ A
   - 反
   - $幡1 (for "reverse/flip" senses)
   - $繙1
-  - 飜
+  - $飜1
   ==
 F
   ==
@@ -413,6 +414,23 @@ S
   ==
   - $返faan2 (TODO)
   ==
+$$
+
+###+ 飜1 | _(1)F(a/)n_ (faan1)
+
+$$.
+R
+  ⾶ + 12
+U
+  U+98DC
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 翻. **See $翻faan1 for the canonical entry.**
+  ++
 $$
 
 
