@@ -512,8 +512,14 @@ window.onload = applyFilter;
     , faak3
     , [{𢫦=⿰扌百}](/entries/faak#cantonese-𢫦)
   //
+    , faan1
+    , [返](/entries/faan#cantonese-返)
+  //
     , faan1 zi2
     , [番子](/entries/faan#cantonese-番子)
+  //
+    , faan1 zyun3 tau4
+    , [返轉頭](/entries/faan#cantonese-返轉頭)
   //
     , fai1 ceon1
     , [揮春](/entries/fai#cantonese-揮春)

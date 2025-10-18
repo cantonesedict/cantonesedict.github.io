@@ -53,6 +53,7 @@ $$
 - $番1
 - $繙1
 - $翻1
+- $返1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -278,33 +279,140 @@ W
   - [[Page~47 (1)翻]]
     ==
     - To fly [[Kangxi: 飛也]] to and fro;
-    - to return, to change [[Kangxi: 反覆也通作幡又通作反]];
+    - [[...]], to change [[Kangxi: 反覆也通作幡又通作反]];
     - to revise a case;
     - _(1)f(a/)n fuk(7)_
         [[faan1 fuk1 翻覆]]
         changeable;
         vacillating;
-    - _(1)f(a/)n (1)[sh(a/)ng]_
-        [[faan1 saang1 翻生]],
-        resuscitated;
+    - [[...]];
     - _(1)f(a/)n on(3)_
         [[faan1 on3 翻案]]
         to rejudge a case;
     - _ti(u/)(6) (1)f(a/)n (2)sh(a/)ng_
         [[diu6 faan1 saang2 調翻省]];
         ~~to~~ to carry a case to the capital;
-    - _(1)f(a/)n h(u:)(3) (1)kwai_
-        [[faan1 heoi3 gwai1 翻去歸]];
-        to go home;
-    - _f(a/)i(3) (1)f(a/)n (1)kwai_
-        [[faai3 faan1 gwai1 快翻歸]]^
-        come home soon.
+    - [[...]].
     ==
+    --
+    [[Alternative form of 返. See $返faan1.]]
+    --
   ====
 P
   ++
   1. To reverse, to flip, to turn around.
   ++
+$$
+
+### 返1 | _(1)F(a/)n_ [[faan1]]
+
+$$
+R
+  ⾡ + 4
+U
+  U+8FD4
+A
+  ==
+  - $翻1
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~47 (1)翻; here normalised to 返]]
+    ==
+    - [[...]];
+    - to return, [[...]];
+    - [[...]];
+    - _(1)f(a/)n (1)[sh(a/)ng]_
+        [[faan1 saang1 返生]],
+        resuscitated;
+    - [[...]];
+    - _(1)f(a/)n h(u:)(3) (1)kwai_
+        [[faan1 heoi3 gwai1 返去歸]];
+        to go home;
+    - _f(a/)i(3) (1)f(a/)n (1)kwai_
+        [[faai3 faan1 gwai1 快返歸]]^
+        come home soon.
+    ==
+  ====
+C
+  ==
+  - Williams' 返生: Changed _(1)shang_ (sang1)
+    to vernacular reading _(1)sh(a/)ng_ (saang1).
+  ==
+E
+  ====
+  - 【返】 (faan1):
+    ++
+    1. To return, to go back.
+       ==
+       - 返去 (faan1 heoi3): "Go back."
+       - 返屋企 (faan1 uk1 kei2): "Go home."
+       - 唔返 (m4 faan1): "Not going back."
+       ==
+    1. To revert to.
+       ==
+       - 返發 (faan1 faat3): "Reoccur."
+       - 返生 (faan1 saang1): "Revive."
+       ==
+    1. To go to (in recurring attendance).
+       ==
+       - 返工 (faan1 gung1): "Go to work."
+       - 返學 (faan1 hok6): "Go to school."
+       - 返廠 (faan1 cong2): "Go to [the] factory."
+       - 返寫字樓 (faan1 se2 zi6 lau4): "Go to [the] office."
+       - 冇工返 (mou5 gung1 faan1): "No work [to] go to."
+       ==
+    1. Back, in return (in reciprocation).
+       ==
+       - 打返畀佢 (daa2 faan1 bei2 keoi5): "Call him back."
+       - 還返畀佢 (waan4 faan1 bei2 keoi5): "Return [it] back to him."
+       - 踢返畀佢 (tek3 faan1 bei2 keoi5): "Kick [it] back to him."
+       - 可以打返我 (ho2 ji5 daa1 faan1 ngo5): "[You] can hit me back."
+       - 找返兩蚊 (zaau2 faan1 loeng5 man1): "Two bucks' change in return."
+       ==
+    1. Back, again (in restoration of a good state).
+       ==
+       - 好返 (hou2 faan1): "Well again" (after being sick).
+       - 搵返 (wan2 faan1): "Found [it] back" (after having lost it).
+       - 惜返 (sek3 faan1): "Kiss [you] back [to being OK]."
+       - 寫返好啲 (se2 faan1 hou2 di1): "Rewrite [it] better."
+       - 企返起身 (kei5 faan1 hei2 san1): "Stand back up."
+       ==
+    1. Suffixed after a verb to indicate a fresh instance of that action.
+       ==
+       - 沖返個正涼 (cung1 faan1 go3 zeng3 loeng4): "Have [a] nice shower."
+       - 瞓返個晏覺 (fan3 faan1 go3 aan3 gaau3): "Take [an] afternoon nap."
+       ==
+    1. Suffixed after a verb to indicate a remainder.
+       ==
+       - 留返畀佢食 (lau4 faan1 bei2 keoi5 sik6): "Leave [it aside] for him [to] eat."
+       - 得返一個 (dak1 faan1 jat1 go3): "Only one left."
+       ==
+    ++
+  - 【返轉頭】 (faan1 zyun3 tau4):
+    ++
+    1. To go back.
+       ==
+       - 返轉頭攞嘢 (faan1 zyun3 tau4 lo2 je5): "Go back [to] get [some] stuff."
+       - 冇得返轉頭 (mou5 dak1 faan1 zyun3 tau4): "There's no going back."
+       ==
+    1. Back, retracing backwards.
+       ==
+       - 行返轉頭 (haang4 faan1 zyun3 tau4): "Walking back."
+       - 做返轉頭 (zou6 faan1 zyun3 tau4): "Doing [something but going] backwards."
+       ==
+    1. Back, in return (in reciprocation).
+       ==
+       - 踢返佢轉頭 (tek3 faan1 keoi5 zyun3 tau4): "Kick him back."
+       ==
+    ++
+  ====
+S
+  ==
+  - $返faan2 (TODO)
+  ==
 $$
 
 
