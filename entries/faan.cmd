@@ -51,6 +51,7 @@ $$
 - $幡1
 - $旛1
 - $番1
+- $繙1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -207,6 +208,48 @@ S
   - $番faan4
   - $番pun1 (TODO)
   - $番pun4 (TODO)
+  ==
+$$
+
+### 繙1 | _(1)F(a/)n_ [[faan1]]
+
+$$
+R
+  ⽷ + 12
+U
+  U+7E59
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~47 (1)繙]]
+    ==
+    - ~~To spread out~~;
+    - ~~to agitate, or wave, as the wind does~~ a flag [[Kangxi: {𦆯=⿰糸賔}繙風吹旗也]];
+    - [[...]].
+    <##
+    - to translate;
+    - to explain;
+    - _(1)f(a/)n yik(9)_
+        [[faan1 jik6 翻譯]]
+        to translate.
+    ##>
+    ==
+    --
+    [[Otherwise, an alternative form of 翻. **See $翻faan1 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Williams' "To spread out": This is probably a rendering of Kangxi 《說文》寬也,
+    which is a typo for 冕也, which perhaps should be 繙冤也 (neither of which I comprehend).
+    In any case, this sense does not belong here,
+    as the reading is _(4)f(a/)n_ (faan4) per ::《廣韻》附[袁]切::.
+  - Williams' "to agitate, or wave, as the wind does":
+    This is a misreading of Kangxi {𦆯=⿰糸賔}繙風吹旗也.
+    In, {𦆯=⿰糸賔}繙 (same as 繽繙), 繙 means flag.
+    It is {𦆯=⿰糸賔} (same as 繽, literally "disorderly")
+    that supplies the meaning of "wave" or "flap".
   ==
 $$
 
