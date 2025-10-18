@@ -229,6 +229,9 @@ W
         [[lou5 faan1 老番]]^
         a foreigner.
     ==
+    --
+    [[Otherwise, an alternative form of 返. **See $返faan1 for the canonical entry.**]]
+    --
   ====
 P
   ++
@@ -356,6 +359,7 @@ U
   U+8FD4
 A
   ==
+  - $番1
   - $翻1
   ==
 F
