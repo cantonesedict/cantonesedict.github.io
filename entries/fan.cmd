@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fan
-* %date-modified --> 2025-10-16
+* %date-modified --> 2025-10-18
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -2195,12 +2195,12 @@ W
         [[fan5 lik6 憤力]]
         to put forth one's energies;
     - ~~_(5)fan k(i/)t(8)_
-        [[fan5 git3 憤？]]~~
+        [[fan5 git3]]~~
         wrought up by passion.
     ==
   - [[Page~713 (5)憤]]
     ==
-    - Under this character, for _(5)fan k(i/)t(8)_ [[fan5 git3 憤？]]
+    - Under this character, for _(5)fan k(i/)t(8)_ [[fan5 git3]]
       read _(5)fan l(i/)t(9)_ [[fan5 lit6 憤烈]].
     ==
   ====
