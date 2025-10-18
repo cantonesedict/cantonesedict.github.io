@@ -49,6 +49,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $幡1
+- $旛1
 - $番1
 ==
 </nav>
@@ -83,6 +84,16 @@ W
     --
     [[Alternative form of 翻. See $翻faan1.]] [[TODO]]
     --
+  - [[Page~47 (1)旛; here corrected to 幡]]
+    ==
+    - [[...]];
+    - [[...]] _(4)wan (1)f(a/)n_
+        [[wan4 faan1 魂幡]],
+        a banner carried at funerals.
+    ==
+    --
+    ~~Used for the preceding [[幡]].~~
+    --
   ====
 C
   ==
@@ -93,10 +104,51 @@ C
     拭 ("wipe", which is not present as a headword)
     is a vulgar substitute for 飾 ("decorate"),
     and this sense should instead be understood as "decorative cloth".
+  - Williams' 魂幡: Appears erroneously under $旛1.
   ==
 P
   ++
   1. A reversal, an about-face (Kangxi: 幡反也).
+  ++
+$$
+
+### 旛1 | _(1)F(a/)n_ [[faan1]]
+
+$$
+R
+  ⽅ + 14
+U
+  U+65DB
+A
+  ==
+  - faan4 (alternative per ::《廣韻》附[袁]切::)
+  ==
+F
+  ==
+  - [[F2.66 旛]] 旗屬
+  ==
+W
+  ====
+  - [[Page~47 (1)旛]]
+    ==
+    - A streamer [[Kangxi: 幅胡也, 旛幡也]];
+    - _(1)ts(')ing (1)f(a/)n_ [[cing1 faan1 青旛]],
+        ~~or
+      _(4)wan (1)f(a/)n_ [[wan4 faan1 魂幡]],
+        a banner carried at funerals~~.
+    ==
+    --
+    ~~Used for the preceding [[幡]].~~
+    --
+  ====
+C
+  ==
+  - Williams' 青旛: These are banners used in springtime rites,
+    distinct from 魂幡 used in funerals, which should appear under $幡1.
+  ==
+P
+  ++
+  1. Banners or flags in general (Kangxi: 旌旗總名也).
   ++
 $$
 
