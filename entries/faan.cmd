@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [faan1](#1)
+- [faan4](#4)
 ==
 </nav>
 <## /tones ##>
@@ -107,7 +108,42 @@ E
 S
   ==
   - $番bo1 (TODO)
-  - $番faan4 (TODO)
+  - $番faan4
+  - $番pun1 (TODO)
+  - $番pun4 (TODO)
+  ==
+$$
+
+
+##{#4 .williams} (4)F(a/)n [[faan4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways">
+=={.modern}
+- $番4
+==
+</nav>
+<## /tone-4-characters ##>
+
+###+ 番4 | _(4)F(a/)n_ (faan4)
+
+$$.
+R
+  ⽥ + 7
+U
+  U+756A
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 蹯. **See $蹯faan4 for the canonical entry.**
+  ++
+S
+  ==
+  - $番bo1 (TODO)
+  - $番faan1
   - $番pun1 (TODO)
   - $番pun4 (TODO)
   ==
