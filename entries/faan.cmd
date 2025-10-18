@@ -48,6 +48,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $反1
 - $幡1
 - $旛1
 - $番1
@@ -58,6 +59,46 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+###+ 反1 | _(1)F(a/)n_ (faan1)
+
+$$
+R
+  ⼜ + 2
+U
+  U+53CD
+A
+  ==
+  - 仮 (for an octave lower in the musical sense)
+  - {𢓉=⿰彳反} (for an octave higher in the musical sense)
+  ==
+V
+  ==
+  - faan2 (alternative for phonetics sense)
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 翻. **See $翻faan1 for the canonical entry.**
+  1. Used in 反切 (back-dissection) or alone, referring to the method of indicating
+     Chinese pronunciation by (Middle Chinese) initial consonant and final rime.
+  ++
+E
+  ====
+  - 【反】 (faan1):
+    ++
+    1. The equivalent to solfège _fa_, sharpened roughly by a quarter tone,
+       in 工尺譜 (Gongche notation).
+    ++
+  ====
+S
+  ==
+  - $反faan2 (TODO)
+  ==
+$$
 
 ### 幡1 | _(1)F(a/)n_ [[faan1]]
 
@@ -257,7 +298,7 @@ U
   U+7FFB
 A
   ==
-  - 反
+  - $反1
   - $幡1 (for "reverse/flip" senses)
   - $繙1
   - $飜1

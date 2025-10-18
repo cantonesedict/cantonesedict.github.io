@@ -513,6 +513,9 @@ window.onload = applyFilter;
     , [{𢫦=⿰扌百}](/entries/faak#cantonese-𢫦)
   //
     , faan1
+    , [反](/entries/faan#cantonese-反)
+  //
+    , faan1
     , [返](/entries/faan#cantonese-返)
   //
     , faan1 zi2
