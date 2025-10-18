@@ -104,7 +104,7 @@ C
     拭 ("wipe", which is not present as a headword)
     is a vulgar substitute for 飾 ("decorate"),
     and this sense should instead be understood as "decorative cloth".
-  - Williams' 魂幡: Appears erroneously under $旛1.
+  - Williams' "a banner carried at funerals": Appears erroneously as 魂旛 under $旛1.
   ==
 P
   ++
@@ -134,7 +134,7 @@ W
     - A streamer [[Kangxi: 幅胡也, 旛幡也]];
     - _(1)ts(')ing (1)f(a/)n_ [[cing1 faan1 青旛]],
         ~~or
-      _(4)wan (1)f(a/)n_ [[wan4 faan1 魂幡]],
+      _(4)wan (1)f(a/)n_ [[wan4 faan1]],
         a banner carried at funerals~~.
     ==
     --
