@@ -52,6 +52,7 @@ $$
 - $旛1
 - $番1
 - $繙1
+- $翻1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -82,9 +83,6 @@ W
         [[faan1 jin4 幡然]],
         forthwith.
     ==
-    --
-    [[Alternative form of 翻. See $翻faan1.]] [[TODO]]
-    --
   - [[Page~47 (1)旛; here corrected to 幡]]
     ==
     - [[...]];
@@ -105,11 +103,13 @@ C
     拭 ("wipe", which is not present as a headword)
     is a vulgar substitute for 飾 ("decorate"),
     and this sense should instead be understood as "decorative cloth".
+  - Williams' "forthwith": Abrupt like an about-face (see supplemented sense below).
   - Williams' "a banner carried at funerals": Appears erroneously as 魂旛 under $旛1.
   ==
 P
   ++
   1. A reversal, an about-face (Kangxi: 幡反也).
+     (Alternative form of 翻 (for the "reverse/flip" senses). See $翻faan1.)
   ++
 $$
 
@@ -227,16 +227,9 @@ W
     - ~~To spread out~~;
     - ~~to agitate, or wave, as the wind does~~ a flag [[Kangxi: {𦆯=⿰糸賔}繙風吹旗也]];
     - [[...]].
-    <##
-    - to translate;
-    - to explain;
-    - _(1)f(a/)n yik(9)_
-        [[faan1 jik6 翻譯]]
-        to translate.
-    ##>
     ==
     --
-    [[Otherwise, an alternative form of 翻. **See $翻faan1 for the canonical entry.**]] [[TODO]]
+    [[Otherwise, an alternative form of 翻. **See $翻faan1 for the canonical entry.**]]
     --
   ====
 C
@@ -251,6 +244,67 @@ C
     It is {𦆯=⿰糸賔} (same as 繽, literally "disorderly")
     that supplies the meaning of "wave" or "flap".
   ==
+$$
+
+### 翻1 | _(1)F(a/)n_ [[faan1]]
+
+$$
+R
+  ⽻ + 12
+U
+  U+7FFB
+A
+  ==
+  - 反
+  - $幡1 (for "reverse/flip" senses)
+  - $繙1
+  - 飜
+  ==
+F
+  ==
+  - [[F2.66 翻]] 翩翻羽飛貌
+  ==
+W
+  ====
+  - [[Page~47 (1)繙; here normalised to 翻]]
+    ==
+    - [[...]];
+    - to translate;
+    - to explain;
+    - _(1)f(a/)n yik(9)_
+        [[faan1 jik6 翻譯]]
+        to translate.
+    ==
+  - [[Page~47 (1)翻]]
+    ==
+    - To fly [[Kangxi: 飛也]] to and fro;
+    - to return, to change [[Kangxi: 反覆也通作幡又通作反]];
+    - to revise a case;
+    - _(1)f(a/)n fuk(7)_
+        [[faan1 fuk1 翻覆]]
+        changeable;
+        vacillating;
+    - _(1)f(a/)n (1)[sh(a/)ng]_
+        [[faan1 saang1 翻生]],
+        resuscitated;
+    - _(1)f(a/)n on(3)_
+        [[faan1 on3 翻案]]
+        to rejudge a case;
+    - _ti(u/)(6) (1)f(a/)n (2)sh(a/)ng_
+        [[diu6 faan1 saang2 調翻省]];
+        ~~to~~ to carry a case to the capital;
+    - _(1)f(a/)n h(u:)(3) (1)kwai_
+        [[faan1 heoi3 gwai1 翻去歸]];
+        to go home;
+    - _f(a/)i(3) (1)f(a/)n (1)kwai_
+        [[faai3 faan1 gwai1 快翻歸]]^
+        come home soon.
+    ==
+  ====
+P
+  ++
+  1. To reverse, to flip, to turn around.
+  ++
 $$
 
 

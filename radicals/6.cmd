@@ -656,6 +656,14 @@ For all radicals, see [Index of characters by radical](./).
       - $翳ai3
       ==
       </nav>
+  //
+    , 12
+    ,
+      <nav class="sideways">
+      ==
+      - $翻faan1
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⽻-characters ##>
