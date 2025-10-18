@@ -195,6 +195,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - {$籓faan1, $籓faan4}
       - $籒zau6
       ==
       </nav>

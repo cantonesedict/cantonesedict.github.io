@@ -52,6 +52,7 @@ $$
 - $幡1
 - $旛1
 - $番1
+- $籓1
 - $繙1
 - $翻1
 - $返1
@@ -255,6 +256,35 @@ S
   - $番faan4
   - $番pun1 (TODO)
   - $番pun4 (TODO)
+  ==
+$$
+
+###+ 籓1 | _(1)F(a/)n_ (faan1)
+
+$$
+R
+  ⽵ + 15
+U
+  U+7C53
+V
+  ==
+  - faan4 (per Fan Wan)
+  ==
+F
+  ==
+  - [[F2.67 籓 _(4)F(a/)n_ (faan4)]] 大箕也又蔽也
+  ==
+W
+  ====
+  - [[Page~48 (4)籓 _(4)F(a/)n_ (faan4); here normalised to _(1)F(a/)n_ (faan1)]]
+    ==
+    - A dust basket or large sieve [[Kangxi: 大箕]];
+    - to hide, to cover, to shade [[Kangxi: 一曰蔽也]].
+    ==
+  ====
+S
+  ==
+  - $籓faan4
   ==
 $$
 
@@ -491,6 +521,7 @@ $$
 - $帆4
 - $燔4
 - $番4
+- $籓4
 - $蹯4
 ==
 </nav>
@@ -695,6 +726,30 @@ S
   - $番faan1
   - $番pun1 (TODO)
   - $番pun4 (TODO)
+  ==
+$$
+
+### 籓4 | _(4)F(a/)n_ [[faan4]]
+
+$$.
+R
+  ⽵ + 15
+U
+  U+7C53
+F
+  ==
+  - [[F2.67 籓]] 大箕也又蔽也
+  ==
+W
+  ====
+  - [[Page~48 (4)籓]]
+    --
+    [[Reading variation. **See $籓faan1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $籓faan1
   ==
 $$
 
