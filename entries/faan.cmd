@@ -486,6 +486,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $凡4
+- $凢4
 - $番4
 - $蹯4
 ==
@@ -501,7 +502,7 @@ U
   U+51E1
 A
   ==
-  - 凢
+  - $凢4
   ==
 F
   ==
@@ -549,6 +550,30 @@ P
   1. To total (Kangxi 凡: 計數也, 凡最計也).
   1. Mortal, earthly.
   ++
+$$
+
+### 凢4 | _(4)F(a/)n_ [[faan4]]
+
+$$.
+R
+  ⼏ + 1
+U
+  U+51E2
+F
+  ==
+  - [[F2.67 凢]] ::皆也大[槩]也又庸常也今人[鄙]人爲凢夫輕賤之稱也::
+  ==
+W
+  ====
+  - [[Page~47 (4)凡(4)凢]]
+    --
+    [[Alternative form of 凡. **See $凡faan4 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed 槩 and 鄙.
+  ==
 $$
 
 ###+ 番4 | _(4)F(a/)n_ (faan4)

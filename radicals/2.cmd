@@ -478,6 +478,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $凡faan4
+      - $凢faan4
       ==
       </nav>
   //
