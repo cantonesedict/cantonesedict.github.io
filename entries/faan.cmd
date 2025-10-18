@@ -84,7 +84,8 @@ P
   ++
   1. Alternative form of 翻. **See $翻faan1 for the canonical entry.**
   1. Used in 反切 (back-dissection) or alone, referring to the method of indicating
-     Chinese pronunciation by (Middle Chinese) initial consonant and final rime.
+     (Middle) Chinese pronunciation by two characters,
+     marking the initial (consonant) and the final (rime) respectively.
   ++
 E
   ====
