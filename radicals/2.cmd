@@ -473,6 +473,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Character entry links
 |:
   //
+    , 1
+    ,
+      <nav class="sideways">
+      ==
+      - $凡faan4
+      ==
+      </nav>
+  //
     , 3
     ,
       <nav class="sideways">

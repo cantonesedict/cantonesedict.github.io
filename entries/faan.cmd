@@ -485,11 +485,71 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $凡4
 - $番4
 - $蹯4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 凡4 | _(4)F(a/)n_ [[faan4]]
+
+$$
+R
+  ⼏ + 1
+U
+  U+51E1
+A
+  ==
+  - 凢
+  ==
+F
+  ==
+  - [[F2.67 凢]] ::皆也大[槩]也又庸常也今人[鄙]人爲凢夫輕賤之稱也::
+  ==
+W
+  ====
+  - [[Page~47 (4)凡(4)凢]]
+    ==
+    - All, everybody [[Kangxi 凡: 最括也, 非一也, 皆也]];
+    - common, vulgar [[Kangxi 凡: 輕微之稱]], usual [[Kangxi 凡: 常也]];
+    - generally, for the most part [[Kangxi 凡: 大槪也]];
+    - _(4)f(a/)n (4)yan_
+        [[faan4 jan4 凡人]],
+        men;
+    - _(4)f(a/)n (1)k(a/)n_
+        [[faan4 gaan1 凡間]],
+        the world;
+    - _(1)ch(u:) (4)f(a/)n_
+        [[zyu1 faan4 諸凡]],
+        every one;
+    - _(1)f(i/) (4)f(a/)n_
+        [[fei1 faan4 非凡]],
+        extraordinary, clever;
+    - _t(a/)i(6) (4)f(a/)n (2)sho (5)yau_
+        [[daai6 faan4 so2 jau5 大凡所有]],
+        people generally have it;
+    - _h(a/)[(6)] (4)f(a/)n_
+        [[haa6 faan4 下凡]];
+        to enter the world;
+    - _(1)sz' (4)f(a/)n_
+        [[si1 faan4 思凡]];
+        to think of marrying (said of a bonze).
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed 槩 and 鄙.
+  - Williams' 凡間: The mortal world, as opposed to the heavenly realm.
+  - Williams' 下凡: Changed _(5)h(a/)_ (haa5) to modern _h(a/)(6)_ (haa6).
+    Specifically, to descend into the mortal world from the heavenly realm above.
+  ==
+P
+  ++
+  1. To total (Kangxi 凡: 計數也, 凡最計也).
+  1. Mortal, earthly.
+  ++
+$$
 
 ###+ 番4 | _(4)F(a/)n_ (faan4)
 
