@@ -1497,6 +1497,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $蠢ceon2
+      - $蠜faan4
       - ${𧓸=⿰虫鄭}zaak6
       ==
       </nav>

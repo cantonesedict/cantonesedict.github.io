@@ -611,6 +611,7 @@ $$
 - $蕃4
 - $藩4
 - $蘩4
+- $蠜4
 - $蹯4
 ==
 </nav>
@@ -1148,6 +1149,32 @@ W
 C
   ==
   - Williams' 蘩蒿: This is dubious.
+  ==
+$$
+
+### 蠜4 | _(4)F(a/)n_ [[faan4]]
+
+$$
+R
+  ⾍ + 15
+U
+  U+881C
+F
+  ==
+  - [[F2.67 蠜]] 虫名
+  ==
+W
+  ====
+  - [[Page~48 (4)蠜]]
+    ==
+    - A kind of cricket or grasshopper [[Kangxi: ::[蛗]螽蠜::]], ~~which goes by night~~.
+    ==
+  ====
+C
+  ==
+  - Williams' "which goes by night":
+    This is a dubious reading of Kangxi 《本草》行夜一名氣蠜,
+    which in any case is separate to the main sense.
   ==
 $$
 
