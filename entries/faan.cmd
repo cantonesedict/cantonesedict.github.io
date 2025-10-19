@@ -599,6 +599,7 @@ $$
 - $凢4
 - $墦4
 - $帆4
+- $煩4
 - $燔4
 - $番4
 - $籓4
@@ -748,6 +749,53 @@ W
         canvas.
     ==
   ====
+$$
+
+### 煩4 | _(4)F(a/)n_ [[faan4]]
+
+$$
+R
+  ⽕ + 9
+  ⾴ + 4
+U
+  U+7169
+F
+  ==
+  - [[F2.68 煩]] 勞也擾也
+  ==
+W
+  ====
+  - [[Page~48 (4)煩]]
+    ==
+    - Troubled, annoyed, perplexed, heated [[Kangxi: 熱頭痛也]];
+    - to trouble, to intrude on [[Kangxi: 干煩也, 煩勞也]];
+    - troublesome, impertinent;
+    - grieved, sorry [[Kangxi: 悶也]];
+    - _(1)to (4)f(a/)n (5)n(i/)_
+        [[do1 faan4 nei5 多煩你]],
+        I trouble you;
+    - _(4)f(a/)n t(a/)i(3)_
+        [[faan4 daai3 煩帶]]
+        I trouble you to take this;
+    - _(4)f(a/)n (4)l(o\)_
+        [[faan4 lou4 煩勞]],
+        to trouble one to do a thing;
+    - _(4)f(a/)n m(u/)n(6)_
+        [[faan4 mun6 煩悶]]
+        perplexed, grieved;
+    - _(4)f(a/)n [(2)]i(u/)_
+        [[faan4 jiu2 煩擾]],
+        interrupted, annoyed.
+    ==
+  ====
+C
+  ==
+  - Williams' 煩擾: Changed _(5)i(u/)_ (jiu5) to common reading _(2)i(u/)_ (jiu2).
+  ==
+P
+  ++
+  1. Complex (Kangxi: ::不[簡]也::). (Alternative form of 繁. See $繁faan4.) (TODO)
+  ++
 $$
 
 ### 燔4 | _(4)F(a/)n_ [[faan4]]
