@@ -609,6 +609,7 @@ $$
 - $膰4
 - $蕃4
 - $藩4
+- $蘩4
 - $蹯4
 ==
 </nav>
@@ -1078,6 +1079,34 @@ P
 S
   ==
   - $藩faan1
+  ==
+$$
+
+### 蘩4 | _(4)F(a/)n_ [[faan4]]
+
+$$
+R
+  ⾋ + 17
+U
+  U+8629
+F
+  ==
+  - [[F2.68 蘩]] 草名白蒿也
+  ==
+W
+  ====
+  - [[Page~48 (4)蘩]]
+    ==
+    - A kind of southernwood or Artemisia [[Kangxi: 白蒿也, 蘩皤蒿]],
+      whose decoction is sprinkled on silkworm eggs to hasten their hatching [[Kangxi: 蘩所以生蠶, 蠶未出煑蘩以沃之則易出]];
+    - _(4)f(a/)n (1)h(o\)_
+        [[faan4 hou1 蘩蒿]],
+        a plant grown like celery, and pickled in winter.
+    ==
+  ====
+C
+  ==
+  - Williams' 蘩蒿: This is dubious.
   ==
 $$
 
