@@ -261,6 +261,7 @@ S
   ==
   - $番bo1 (TODO)
   - $番faan4
+  - $番po4 (TODO) <## (alternative form of $皤po4) ##>
   - $番pun1 (TODO)
   - $番pun4 (TODO)
   ==
@@ -406,6 +407,7 @@ P
 S
   ==
   - $蕃faan4
+  - $蕃po4 (TODO) <## (alternative form of $皤po4) ##>
   ==
 $$
 
@@ -603,6 +605,7 @@ $$
 - $燔4
 - $番4
 - $籓4
+- $繁4
 - $膰4
 - $蕃4
 - $藩4
@@ -787,6 +790,14 @@ W
         [[faan4 jiu2 煩擾]],
         interrupted, annoyed.
     ==
+  - [[Page~48 (4)繁; here corrected to 煩]]
+    ==
+    - [[...]];
+    - _(4)'m noi(6) (4)f(a/)n_
+        [[m4 noi6 faan4 唔耐煩]],
+        unwilling to be troubled, can not endure;
+    - [[...]].
+    ==
   ====
 C
   ==
@@ -794,7 +805,7 @@ C
   ==
 P
   ++
-  1. Complex (Kangxi: ::不[簡]也::). (Alternative form of 繁. See $繁faan4.) (TODO)
+  1. Complex (Kangxi: ::不[簡]也::). (Alternative form of 繁. See $繁faan4.)
   ++
 $$
 
@@ -852,6 +863,7 @@ S
   ==
   - $番bo1 (TODO)
   - $番faan1
+  - $番po4 (TODO) <## (alternative form of $皤po4) ##>
   - $番pun1 (TODO)
   - $番pun4 (TODO)
   ==
@@ -878,6 +890,68 @@ W
 S
   ==
   - $籓faan1
+  ==
+$$
+
+### 繁4 | _(4)F(a/)n_ [[faan4]]
+
+$$
+R
+  ⽷ + 11
+U
+  U+7E41
+A
+  ==
+  - $煩4
+  - 䋣
+  - $蕃4
+  ==
+F
+  ==
+  - [[F2.68 繁]] 多也
+  ==
+W
+  ====
+  - [[Page~48 (4)蕃; here normalised to 繁]]
+    ==
+    - [[...]];
+    - _(4)f(a/)n mau(6)_
+        [[faan4 mau6 繁茂]]^,
+        abundant, prosperous;
+    - _(4)f(a/)n (2)(i/)n_
+        [[faan4 jin2 繁衍]],
+        numerous progeny.
+    ==
+  - [[Page~48 (4)繁]]
+    ==
+    - Much, numerous [[Kangxi: 繁多也]];
+    - many, confused, multitudinous [[Kangxi: 繁雜也]];
+    - a variety of affairs;
+    <## TODO: correct to $繁pun4 and normalise to $鞶pun4
+    - a saddle-girth;
+    ##>
+    - [[...]];
+    - _(4)f(a/)n (4)n(a/)n_
+        [[faan4 naan4 繁難]],
+        wearisome;
+    - _(4)f(a/)n (4)w(a/)_
+        [[faan4 waa4 繁華]],
+        pomp, show;
+    - [[...]];
+    - _(4)f(a/)n fai(3)_
+        [[faan4 fai3 繁費]]
+        expensive.
+    ==
+  ====
+P
+  ++
+  1. Complex.
+  1. Abundant, flourishing (Kangxi: 繁猶盛也).
+  ++
+S
+  ==
+  - $繁po4 (TODO) <## (Kangxi: 姓也; alternative form of $皤po4) ##>
+  - $繁pun4 (TODO)
   ==
 $$
 
@@ -932,18 +1006,10 @@ W
     - plenty;
     - many;
     - ~~to settle;~~
-    <## TODO: normalise to $繁faan4
-    - _(4)f(a/)n mau(6)_
-        [[faan4 mau6 繁茂]]^,
-        abundant, prosperous;
-    - _(4)f(a/)n (2)(i/)n_
-        [[faan4 jin2 繁衍]],
-        numerous progeny.
-    ##>
     - [[...]].
     ==
     --
-    [[Alternative form of 繁. See $繁faan4.]] [[TODO]]
+    [[Alternative form of 繁. See $繁faan4.]]
     --
     --
     [[Otherwise, an alternative form of 藩. **See $藩faan4 for the canonical entry.**]]
@@ -952,6 +1018,7 @@ W
 S
   ==
   - $蕃faan1
+  - $蕃po4 (TODO) <## (alternative form of $皤po4) ##>
   ==
 $$
 
