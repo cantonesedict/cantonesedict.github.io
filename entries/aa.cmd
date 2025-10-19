@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2025-10-06
+* %date-modified --> 2025-10-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -45,6 +45,7 @@ WP
 MP
   ==
   - aa = [aː]
+  - a = [ɐ]
   ==
 C
   ==
