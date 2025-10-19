@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zuk
-* %date-modified --> 2025-08-17
+* %date-modified --> 2025-10-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -368,7 +368,7 @@ W
 P
   ++
   1. Bamboo musical instruments (Kangxi: 八音之一).
-  1. Bamboo writing slips (Kangxi: 竹{𥳑=⿱𥫗閒}).
+  1. Bamboo writing slips (Kangxi: ::竹[簡]::).
   1. The 118th~radical ("bamboo").
   ++
 E

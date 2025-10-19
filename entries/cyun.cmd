@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyun
-* %date-modified --> 2025-08-18
+* %date-modified --> 2025-10-19
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -658,7 +658,7 @@ W
         the heart;
     - _ts(')(u:)n(3) (2)hau_
         [[cyun3 hau2 寸口]],
-        place of the pulse [[Kangxi: 人手卻一寸動{𧖴=⿺𠂢血}謂之寸口]];
+        place of the pulse [[Kangxi: ::人手卻一寸動[脈]謂之寸口::]];
     - _sik(7) ts(')(u:)n(3) (1)yam_
         [[sik1 cyun3 jam1 惜寸陰]],
         improve every moment of time;
