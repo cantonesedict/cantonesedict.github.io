@@ -604,6 +604,7 @@ $$
 - $煩4
 - $燔4
 - $番4
+- $礬4
 - $籓4
 - $繁4
 - $膰4
@@ -867,6 +868,46 @@ S
   - $番po4 (TODO) <## (alternative form of $皤po4) ##>
   - $番pun1 (TODO)
   - $番pun4 (TODO)
+  ==
+$$
+
+### 礬4 | _(4)F(a/)n_ [[faan4]]
+
+$$
+R
+  ⽯ + 15
+U
+  U+792C
+F
+  ==
+  - [[F2.68 礬]] 白礬
+  ==
+W
+  ====
+  - [[Page~48 (4)礬]]
+    ==
+    - Mineral salts proper four painting or dyeing [[Kangxi: 礬石]];
+    - _p(a/)k[(9)] (4)f(a/)n_
+        [[baak6 faan4 白礬]],
+        alum;
+    - _(1)ts(')ing (4)f(a/)n_
+        [[cing1 faan4 青礬]],
+        copperas;
+    - _(4)f(a/)n shek(9)_
+        [[faan4 sek6 礬石]]
+        alum shale;
+    - _(2)t(a/)m (4)f(a/)n_
+        [[daam2 faan4 膽礬]],
+        blue vitriol;
+    - _(1)[f(u/)i] (4)f(a/)n_
+        [[fui1 faan4 灰礬]],
+        alum ash.
+    ==
+  ====
+C
+  ==
+  - Williams' 白礬: Corrected _p(a/)k(8)_ (baak3) to _p(a/)k(9)_ (baak6).
+  - Williams' 灰礬: Corrected _(1)f(u/)_ (fu1) to _(1)f(u/)i_ (fui1).
   ==
 $$
 
