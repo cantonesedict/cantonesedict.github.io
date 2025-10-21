@@ -582,6 +582,10 @@ E
        ==
     ++
   ====
+  --
+  Note that the reading _(1)f(a/)n_ (faan1) for 返 is not unattested;
+  《集韻》 has the reading ::孚[袁]切::, explained 回行也.
+  --
 S
   ==
   - $返faan2 (TODO)
