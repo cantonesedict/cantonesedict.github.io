@@ -616,6 +616,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $反2
+- $㤆2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -698,6 +699,44 @@ P
 S
   ==
   - $反faan1
+  ==
+$$
+
+### 㤆2 | _(2)F(a/)n_ [[faan2]]
+
+$$
+R
+  ⼼ + 4
+U
+  U+3906
+V
+  ==
+  - faan3 (per 《廣韻》芳万切 and 《集韻》孚萬切)
+  ==
+F
+  ==
+  - [[F2.69 㤆]] 㤆悔謂事旣成而生背心
+  ==
+W
+  ====
+  - [[Page~48 (2)㤆]]
+    ==
+    - Regret [[Kangxi: 悔也]];
+    - _(2)f(a/)n f(u/)i(3)_
+        [[faan2 fui3 㤆悔]]
+        to regret an act;
+    - _(2)f(a/)n (2)ch(u:)n m(i/)n(6) (4)p(')(i/)_
+        [[faan2 zyun2 min6 pei4 㤆轉面皮]],
+        to change the countenance;
+    - _(2)f(a/)n (1)sam_
+        [[faan2 sam1 㤆心]],
+        sorry for.
+    ==
+  ====
+C
+  ==
+  - The other definitions given in Kangxi (惡心也急性也 and 急也)
+    are not particularly illuminating.
   ==
 $$
 
