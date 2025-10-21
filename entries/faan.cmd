@@ -476,7 +476,7 @@ P
   ++
 $$
 
-### 返1 | _(1)F(a/)n_ [[faan1]]
+###+ 返1 | _(1)F(a/)n_ (faan1)
 
 $$
 R
@@ -588,7 +588,7 @@ E
   --
 S
   ==
-  - $返faan2 (TODO)
+  - $返faan2
   ==
 $$
 
@@ -617,6 +617,7 @@ $$
 =={.modern}
 - $反2
 - $㤆2
+- $返2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -737,6 +738,52 @@ C
   ==
   - The other definitions given in Kangxi (惡心也急性也 and 急也)
     are not particularly illuminating.
+  ==
+$$
+
+### 返2 | _(2)F(a/)n_ [[faan2]]
+
+$$
+R
+  ⾡ + 4
+U
+  U+8FD4
+A
+  ==
+  - $反2
+  ==
+F
+  ==
+  - [[F2.69 返]] 還也
+  ==
+W
+  ====
+  - [[Page~48 (2)返]]
+    ==
+    - To return, to come back [[Kangxi: 還也, 復也]];
+    - to go back;
+    - _(2)f(a/)n [(1)]hi(u/) (1)h(e/)ung h(a/)[(6)]_
+        [[faan2 hiu1 hoeng1 haa6-2 返嘵鄉下]],
+        gone to his village;
+    - _(2)f(a/)n h(u:)(3) [(1)]kwai_
+        [[faan2 heoi3 gwai1 返去歸]],
+        gone home;
+    - _[(5)]wong (2)f(a/)n (2)k(i/) yat(9)_
+        [[wong5 faan2 gei2 jat6 往返幾日]]
+        how many days will you be gone?
+    ==
+  ====
+C
+  ==
+  - Williams' 返嘵鄉下: Corrected _(4)hi(u/)_ (hiu4) to _(1)hi(u/)_ (hiu1)
+    and changed _(5)h(a/)_ (haa5) to modern _h(a/)(6)_ (haa6-2).
+  - Williams' 返去歸: Corrected _(4)^kwai_ (gwai4) to _(1)kwai_ (gwai1).
+  - Williams' 往返幾日: Corrected _(2)wong_ (wong2) to _(5)wong_ (wong5).
+  - All three examples read like they belong under $返faan1 instead.
+  ==
+S
+  ==
+  - $返faan1
   ==
 $$
 
