@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faan
-* %date-modified --> 2025-10-19
+* %date-modified --> 2025-10-21
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [faan1](#1)
+- [faan2](#2)
 - [faan4](#4)
 ==
 </nav>
@@ -83,7 +84,20 @@ V
 F
   [[Not present]]
 W
-  [[Not present]]
+  ====
+  - [[Page~48 (2)反 _(2)F(a/)n_ (faan2); here normalised to _(1)F(a/)n_ (faan1)]]
+    ==
+    - [[...]];
+    - _[(1)]f(a/)n [ts(')(i/)t(8)]_
+        [[faan1 cit3 反切]],
+        to spell, to combine sounds;
+    - [[...]].
+    ==
+  ====
+C
+  ==
+  - Williams' 反切: Corrected _ts(i/)t_ (zit) to _ts(')(i/)t(8)_ (cit3).
+  ==
 P
   ++
   1. Alternative form of 翻. **See $翻faan1 for the canonical entry.**
@@ -101,7 +115,7 @@ E
   ====
 S
   ==
-  - $反faan2 (TODO)
+  - $反faan2
   ==
 $$
 
@@ -589,6 +603,98 @@ P
   ++
   1. Alternative form of 翻. **See $翻faan1 for the canonical entry.**
   ++
+$$
+
+
+##{#2 .williams} (2)F(a/)n [[faan2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $反2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 反2 | _(2)F(a/)n_ [[faan2]]
+
+$$
+R
+  ⼜ + 2
+U
+  U+53CD
+F
+  ==
+  - [[F2.69 反]] 反覆不順也
+  ==
+W
+  ====
+  - [[Page~48 (2)反]]
+    ==
+    - To turn back, to return [[Kangxi: 反謂回還也]];
+    - to be contrary, to rebel;
+    - to combine against;
+    - opposed to, but, contrary;
+    - again;
+    - _(2)fan fuk[(7)]_
+        [[faan2 fuk1 反覆]]
+        repetition, to and fro, to retract;
+    - _(1)s(e/)ung (2)f(a/)n_
+        [[soeng1 faan2 相反]],
+        discordant;
+    - _tsok(8) (2)f(a/)n_
+        [[zok3 faan2 作反]],
+        to rebel;
+    - _(2)f(a/)n chi(u/)[(3)]_
+        [[faan2 ziu3 反照]]
+        to reflect light;
+    - _(2)f(a/)n m(i/)n(6)_
+        [[faan2 min6-2 反面]]
+        to turn a cold shoulder;
+    - _(2)f(a/)n kwat(7)_
+        [[faan2 gwat1 反骨]]
+        to backbite;
+    - _(2)f(a/)n ch(u:)n[(3)]_
+        [[faan2 zyun3 反轉]],
+        to turn over;
+    - _(2)f(a/)n [(2)]tau_
+        [[faan2 dau2 反斗]]^
+        clamor and play of children;
+    - _(2)f(a/)n (2)hau_
+        [[faan2 hau2 反口]]^
+        to unsay, to recant;
+    - [[...]];
+    - _(2)f(a/)n wai(6) it[(8)] shik(9)_
+        [[faan2 wai6 jit3 sik3 反胃噎食]]
+        the stomach rejects food.
+    ==
+    --
+    [[Alternative form of 返. See $返faan2.]]
+    --
+    --
+    [[Otherwise, a reading variation (for the phonetics sense). **See $反faan1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Williams' 反覆: Corrected _fuk(9)_ (fuk6) to _fuk(7)_ (fuk1).
+  - Williams' 相反: Also "opposite", "contrariwise".
+  - Williams' 反照: Corrected _chi(u/)(6)_ (ziu6) to _chi(u/)(3)_ (ziu3).
+  - Williams' 反轉: Corrected _(2)ch(u:)n_ (zyun2) to _ch(u:)(3)n_ (zyun3).
+  - Williams' 反斗: Corrected _tau(3)_ (dau3) to _(2)tau_ (dau2).
+    Hence 玩具反斗城 for Toys "R" Us (with 反斗 being a pun on the flipped R in English).
+  - Williams' 反胃噎食: Corrected _it(9)_ (jit6) to _it(8)_ (jit3).
+  ==
+P
+  ++
+  1. To overturn (Kangxi: 覆也).
+  1. Contrariwise.
+  1. To reflect.
+  ++
+S
+  ==
+  - $反faan1
+  ==
 $$
 
 
