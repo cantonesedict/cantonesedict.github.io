@@ -844,7 +844,7 @@ P
 S
   ==
   - $氾faan4 (TODO)
-  - $氾faan6 (TODO)
+  - $氾faan6
   ==
 $$
 
@@ -1564,10 +1564,34 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $氾6
 - $泛6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+###+ 氾6 | _F(a/)n(6)_ (faan6)
+
+$$.
+R
+  ⽔ + 2
+U
+  U+6C3E
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $氾faan3 for the canonical entry.**
+  1. Alternative form of 泛, and reading variation. See $泛faan3.
+  ++
+S
+  ==
+  - $氾faan3
+  - $氾faan4 (TODO)
+  ==
+$$
 
 ###+ 泛6 | _F(a/)n(6)_ (faan6)
 
