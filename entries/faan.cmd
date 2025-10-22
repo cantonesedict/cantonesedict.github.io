@@ -621,6 +621,7 @@ $$
 - $坂2
 - $㤆2
 - $返2
+- $阪2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -632,6 +633,10 @@ R
   ⼜ + 2
 U
   U+53CD
+A
+  ==
+  - $阪2
+  ==
 F
   ==
   - [[F2.69 反]] 反覆不順也
@@ -809,6 +814,28 @@ C
 S
   ==
   - $返faan1
+  ==
+$$
+
+###+ 阪2 | _(2)F(a/)n_ (faan2)
+
+$$.
+R
+  ⾩ + 4
+U
+  U+962A
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $阪baan2 for the canonical entry.**
+  1. Alternative form of 反. **See $反faan2 for the canonical entry.**
+  ++
+S
+  ==
+  - $阪baan2 (TODO)
   ==
 $$
 
