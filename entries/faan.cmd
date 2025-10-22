@@ -25,6 +25,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [faan2](#2)
 - [faan3](#3)
 - [faan4](#4)
+- [faan6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -795,6 +796,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $汎3
+- $泛3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -808,6 +810,7 @@ U
   U+6C4E
 F
   ==
+  - [[F2.70 泛]] 廣也泛濫也
   - [[F2.70 ::[汎]::]] ::廣也又[汎]舟::
   ==
 W
@@ -819,12 +822,72 @@ W
     - name of a river [[Kangxi: 水名]].
     ==
     --
-    Used for the next character [[泛]].
+    [[Alternative form of 泛. See $泛faan3.]]
     --
   ====
 C
   ==
   - Fan Wan entry: Corrected headword 㲹 to 汎.
+  ==
+$$
+
+### 泛3 | _F(a/)n(3)_ [[faan3]]
+
+$$
+R
+  ⽔ + 5
+U
+  U+6CDB
+A
+  ==
+  - $汎3
+  ==
+V
+  ==
+  - faan6 (common)
+  ==
+F
+  ==
+  - [[F2.70 泛]] 廣也泛濫也
+  - [[F2.70 ::[汎]::]] ::廣也又[汎]舟::
+  ==
+W
+  ====
+  - [[Page~48 汎(3)]]
+    --
+    [[...]]
+    --
+    --
+    Used for the next character [[泛]].
+    --
+  - [[Page~49 泛(3)汎(3)]]
+    ==
+    - To float, to flow down [[Kangxi: 浮也一曰流也通作汎]];
+    - to transport;
+    - extensive;
+    - to spill over;
+    - _(4)fau f(a/)n(3)_
+        [[fau4 faan3 浮泛]]
+        to float, superficial;
+    - _f(a/)n(3) (4)(i/)n_
+        [[faan3 jin4 泛言]],
+        vague words;
+    - _f(a/)n(3) (1)chau_
+        [[faan3 zau1 泛舟]],
+        to sail in a boat;
+    - _f(a/)n(3) (4)(i/)n_
+        [[faan3 jin4 泛？]],
+        lightminded.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword 㲹 to 汎.
+  ==
+S
+  ==
+  - $泛faan6
+  - $泛fung2 (TODO)
   ==
 $$
 
@@ -1443,4 +1506,37 @@ W
         a bear's paw, which is esteemed a delicacy.
     ==
   ====
+$$
+
+
+##{#6 .williams} F(a/)n(6) [[faan6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $泛6
+==
+</nav>
+<## /tone-6-characters ##>
+
+###+ 泛6 | _F(a/)n(6)_ (faan6)
+
+$$.
+R
+  ⽔ + 5
+U
+  U+6CDB
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $泛faan3 for the canonical entry.**
+  ++
+S
+  ==
+  - $泛faan3
+  - $泛fung2 (TODO)
+  ==
 $$
