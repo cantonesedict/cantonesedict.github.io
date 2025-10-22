@@ -795,11 +795,58 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $氾3
 - $汎3
 - $泛3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 氾3 | _F(a/)n(3)_ [[faan3]]
+
+$$
+R
+  ⽔ + 2
+U
+  U+6C3E
+V
+  ==
+  - faan6 (common)
+  ==
+F
+  ==
+  - [[F2.70 泛]] 廣也泛濫也
+  - [[F2.70 ::[汎]::]] ::廣也又[汎]舟::
+  - [[F2.70 氾]] 氾濫水溢也
+  ==
+W
+  ====
+  - [[Page~48 氾(3)]]
+    ==
+    - To overflow [[Kangxi: 水延漫也]], to fluctuate;
+    - in motion, agitated [[Kangxi: 搖動貌]];
+    - to float;
+    - _f(a/)n(3) l(a/)m(6)_
+        [[faan3 laam6 氾濫]]
+        wide, as a deluge.
+    ==
+    --
+    Name of a river [[Kangxi: 水名]] in Hon(a/)n [[河南]].
+    --
+    --
+    [[Alternative form of 泛. See $泛faan3.]]
+    --
+  ====
+P
+  ++
+  1. Unsteady, bobbing (Kangxi: 不定之辭).
+  ++
+S
+  ==
+  - $氾faan4 (TODO)
+  - $氾faan6 (TODO)
+  ==
+$$
 
 ### 汎3 | _F(a/)n(3)_ [[faan3]]
 
@@ -812,6 +859,7 @@ F
   ==
   - [[F2.70 泛]] 廣也泛濫也
   - [[F2.70 ::[汎]::]] ::廣也又[汎]舟::
+  - [[F2.70 氾]] 氾濫水溢也
   ==
 W
   ====
@@ -840,6 +888,7 @@ U
   U+6CDB
 A
   ==
+  - $氾3
   - $汎3
   ==
 V
@@ -850,6 +899,7 @@ F
   ==
   - [[F2.70 泛]] 廣也泛濫也
   - [[F2.70 ::[汎]::]] ::廣也又[汎]舟::
+  - [[F2.70 氾]] 氾濫水溢也
   ==
 W
   ====
@@ -864,7 +914,7 @@ W
     ==
     - To float, to flow down [[Kangxi: 浮也一曰流也通作汎]];
     - to transport;
-    - extensive;
+    - extensive [[Kangxi 氾: 普博也, 氾廣也]];
     - to spill over;
     - _(4)fau f(a/)n(3)_
         [[fau4 faan3 浮泛]]
