@@ -798,6 +798,7 @@ $$
 - $氾3
 - $汎3
 - $泛3
+- $畈3
 - $畚3
 ==
 </nav>
@@ -942,6 +943,52 @@ S
   ==
 $$
 
+###+ 畈3 | _F(a/)n(3)_ (faan3)
+
+$$
+R
+  ⽥ + 4
+U
+  U+7548
+A
+  ==
+  - $畚3 (for Cantonese "evil supernatural influences" sense)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~48 畚(3); here normalised to 畈]]
+    ==
+    - Ill-luck, evil influences;
+    - ill-starred;
+    - things to be avoided when commencing anything;
+    - _f(a/)n(3) ch(e/)uk[(9)]_
+        [[faan3 zoek6 畈着]]
+        to bring ill luck;
+    - _f(a/)n(3) (4)shan_
+        [[faan3 san4 畈神]],
+        to exorcise, to expel or induce evil spirits to depart;
+    - _(2)h(i/) f(a/)n(3)_
+        [[hei2 faan3 起畈]]
+        to adore the spirits of the threshold.
+    ==
+  ====
+C
+  ==
+  - The Williams entry should be marked "A colloquial word",
+    as it pertains to vernacular Cantonese.
+    Williams' choice to spell it 畚 is a poor one,
+    as that character is otherwise read _(2)p(u/)n_ (bun2).
+    I have normalised to 畈 for phonetic defensibility.
+  - Williams' 畚着: Corrected _ch(e/)uk(8)_ (zoek3) to _ch(e/)uk(9)_ (zoek6).
+  ==
+P
+  ++
+  1. A field (Kangxi: 田畈, 田也, 平疇也).
+  ++
+$$
+
 ### 畚3 | _F(a/)n(3)_ [[faan3]]
 
 $$.
@@ -955,7 +1002,7 @@ W
   ====
   - [[Page~48 畚(3)]]
     --
-    [[Alternative form of 畈 (for the Cantonese "evil influences" sense). **See $畈faan3 for the canonical entry.**]]
+    [[Alternative form of 畈 (for the Cantonese "evil supernatural influences" sense). **See $畈faan3 for the canonical entry.**]]
     --
   ====
 S
