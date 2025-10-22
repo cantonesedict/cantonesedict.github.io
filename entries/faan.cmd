@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faan
-* %date-modified --> 2025-10-21
+* %date-modified --> 2025-10-22
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [faan1](#1)
 - [faan2](#2)
+- [faan3](#3)
 - [faan4](#4)
 ==
 </nav>
@@ -784,6 +785,46 @@ C
 S
   ==
   - $返faan1
+  ==
+$$
+
+
+##{#3 .williams} F(a/)n(3) [[faan3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $汎3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 汎3 | _F(a/)n(3)_ [[faan3]]
+
+$$
+R
+  ⽔ + 3
+U
+  U+6C4E
+F
+  ==
+  - [[F2.70 ::[汎]::]] ::廣也又[汎]舟::
+  ==
+W
+  ====
+  - [[Page~48 汎(3)]]
+    ==
+    - To float [[Kangxi: 浮貌]];
+    - driven by the wind [[Kangxi: 一曰任風波自縱也]];
+    - name of a river [[Kangxi: 水名]].
+    ==
+    --
+    Used for the next character [[泛]].
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword 㲹 to 汎.
   ==
 $$
 
