@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaau
-* %date-modified --> 2025-08-24
+* %date-modified --> 2025-10-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -468,7 +468,7 @@ C
     specifically on the character 箄:
     """"
     ::[...]按考工記注鄭司農云綆讀爲關東言餠之餠謂輪箄也\
-    ？謂輪雖箄爪牙必正也[...]箄謂偏僻[...]::
+    [玄]謂輪雖箄爪牙必正也[...]箄謂偏僻[...]::
     """"
     The passage (眡其綆欲其蚤之正也) therefore reads,
     "Viewing its deviation, [he] wisheth [that] it [be] clawed correct".
