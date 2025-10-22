@@ -798,6 +798,7 @@ $$
 - $氾3
 - $汎3
 - $泛3
+- $畚3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -938,6 +939,28 @@ S
   ==
   - $泛faan6
   - $泛fung2 (TODO)
+  ==
+$$
+
+### 畚3 | _F(a/)n(3)_ [[faan3]]
+
+$$.
+R
+  ⽥ + 5
+U
+  U+755A
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~48 畚(3)]]
+    --
+    [[Alternative form of 畈 (for the Cantonese "evil influences" sense). **See $畈faan3 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $畚bun2 (TODO)
   ==
 $$
 
