@@ -850,6 +850,7 @@ $$
 - $泛3
 - $畈3
 - $畚3
+- $販3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -1058,6 +1059,58 @@ W
 S
   ==
   - $畚bun2 (TODO)
+  ==
+$$
+
+### 販3 | _F(a/)n(3)_ [[faan3]]
+
+$$
+R
+  ⾙ + 4
+U
+  U+8CA9
+V
+  ==
+  - faan3-2 (vernacular rising-tone noun)
+  - faan5 (common)
+  - faan6 (common)
+  ==
+F
+  ==
+  - [[F2.70 販]] ::賤買[貴]賣[曰販]::
+  ==
+W
+  ====
+  - [[Page~48 販(3)]]
+    ==
+    - To traffic, to deal in;
+    - _f(a/)n(3) m(a/)i(6) (4)yan (2)hau_
+        [[faan3 maai6 jan4 hau2 販賣人口]],
+        to deal in men;
+    - _(2)kw(a/)i f(a/)n(3)_
+        [[gwaai2 faan3 拐販]]
+        to get away children to sell;
+    - _f(a/)n(3) (2)tsai_ [[faan3 zai2 販仔]]^
+        or
+      _f(a/)n(3) (1)f(u/)_ [[faan3 fu1 販夫]],
+        a chapman, a peddler;
+    - _f(u/)(6) f(a/)n(3)_
+        [[fu6 faan3 負販]]
+        to peddle about.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 責 to 貴 and 販曰 to 曰販.
+  - Williams' 販賣人口: Now rendered "human trafficking".
+  ==
+P
+  ++
+  1. A seller, a dealer (Kangxi: 買賤賣貴者).
+  ++
+S
+  ==
+  - $販faan6
   ==
 $$
 
@@ -1710,6 +1763,7 @@ $$
 =={.modern}
 - $氾6
 - $泛6
+- $販6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -1756,5 +1810,26 @@ S
   ==
   - $泛faan3
   - $泛fung2 (TODO)
+  ==
+$$
+
+###+ 販6 | _F(a/)n(6)_ (faan6)
+
+$$.
+R
+  ⾙ + 4
+U
+  U+8CA9
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $販faan3 for the canonical entry.**
+  ++
+S
+  ==
+  - $販faan3
   ==
 $$
