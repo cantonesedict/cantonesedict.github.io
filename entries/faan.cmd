@@ -843,7 +843,7 @@ P
   ++
 S
   ==
-  - $氾faan4 (TODO)
+  - $氾faan4
   - $氾faan6
   ==
 $$
@@ -951,6 +951,7 @@ $$
 - $凢4
 - $墦4
 - $帆4
+- $氾4
 - $煩4
 - $燔4
 - $番4
@@ -1105,6 +1106,29 @@ W
         canvas.
     ==
   ====
+$$
+
+###+ 氾4 | _(4)F(a/)n_ (faan4)
+
+$$
+R
+  ⽔ + 2
+U
+  U+6C3E
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. A place name (Kangxi: 地名).
+  1. A surname (Kangxi: 姓).
+  ++
+S
+  ==
+  - $氾faan3
+  - $氾faan6
+  ==
 $$
 
 ### 煩4 | _(4)F(a/)n_ [[faan4]]
@@ -1589,7 +1613,7 @@ P
 S
   ==
   - $氾faan3
-  - $氾faan4 (TODO)
+  - $氾faan4
   ==
 $$
 
