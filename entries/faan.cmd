@@ -618,6 +618,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $反2
+- $坂2
 - $㤆2
 - $返2
 ==
@@ -702,6 +703,28 @@ P
 S
   ==
   - $反faan1
+  ==
+$$
+
+### 坂2 | _(2)F(a/)n_ [[faan2]]
+
+$$.
+R
+  ⼟ + 4
+U
+  U+5742
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~48 (2)坂]]
+    --
+    [[Alternative form of 阪, and reading variation. **See $阪baan2 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+S
+  ==
+  - $坂baan2 (TODO)
   ==
 $$
 
