@@ -1764,6 +1764,7 @@ $$
 - $氾6
 - $泛6
 - $犯6
+- $范6
 - $販6
 ==
 </nav>
@@ -1870,6 +1871,35 @@ P
   ++
   1. To face, to brave.
   ++
+$$
+
+### 范6 | _F(a/)n(6)_ [[faan6]]
+
+$$
+R
+  ⾋ + 5
+U
+  U+8303
+F
+  ==
+  - [[F2.71 范]] 草名又姓
+  ==
+W
+  ====
+  - [[Page~49 范(6)]]
+    ==
+    - Herbs, grass [[Kangxi: 草也]];
+    - a bee or wasp [[Kangxi: 蠭也]];
+    - a surname [[Kangxi: 姓]].
+    ==
+    --
+    Used for the following [[範]].
+    --
+  ====
+C
+  ==
+  - Williams' "Herbs, grass": More likely a type of grass.
+  ==
 $$
 
 ###+ 販6 | _F(a/)n(6)_ (faan6)
