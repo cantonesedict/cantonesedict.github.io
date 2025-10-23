@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fat
-* %date-modified --> 2023-08-03
-* %copyright-prior-years -->
+* %date-modified --> 2025-10-23
+* %copyright-prior-years --> "2023, "
 
 %%%
-
---{.modern}
-(From Page~49 of the original onwards.)
---
 
 #{.williams} Fat. [[fat]]
 
@@ -21,3 +17,25 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Fat. [[Page~49]]
+  ==
+WP
+  ==
+  - Fat <span class="modern">= *[fɐt̚]</span>
+  ==
+MP
+  ==
+  - fat = [fɐt̚]
+  ==
+$$
