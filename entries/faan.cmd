@@ -1763,6 +1763,7 @@ $$
 =={.modern}
 - $氾6
 - $泛6
+- $犯6
 - $販6
 ==
 </nav>
@@ -1811,6 +1812,64 @@ S
   - $泛faan3
   - $泛fung2 (TODO)
   ==
+$$
+
+### 犯6 | _F(a/)n(6)_ [[faan6]]
+
+$$
+R
+  ⽝ + 2
+U
+  U+72AF
+V
+  ==
+  - faan6-2 (vernacular rising-tone noun)
+  ==
+F
+  ==
+  - [[F2.71 犯]] 觸犯干犯侵犯
+  ==
+W
+  ====
+  - [[Page~49 犯(6)]]
+    ==
+    - To rush against [[Kangxi: 抵觸也]];
+    - to offend [[Kangxi: 干也]];
+    - to transgress [[Kangxi: 僭也]];
+    - to invade [[Kangxi: 侵也, 勝也]];
+    - to violate, to resist, to oppose;
+    - a criminal;
+    - _f(a/)n(6) [ts(u/)i](6)_
+        [[faan6 zeoi6 犯罪]]
+        to transgress;
+    - _f(a/)n(6) f(a/)t(8)_
+        [[faan6 faat3 犯法]]
+        to break the laws;
+    - _f(a/)n(6) (4)yan_
+        [[faan6 jan4 犯人]],
+        a prisoner;
+    - _(4)ts(')au f(a/)n(6)_
+        [[cau4 faan6-2 囚犯]]
+        to cage a criminal;
+    - _(1)ts(')am f(a/)n(6)_
+        [[cam1 faan6 侵犯]]
+        to encroach on, to usurp;
+    - _(5)yau f(a/)n(6) (1)ts(u:)n (4)ng(a/)n_^
+        [[jau5 faan6 zyun1 ngaan4 有犯尊顏]]
+        I have offended you.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: The headword 犯 is printed ⿰犭巳.
+  - Williams' 犯罪: Corrected _tsui(6)_ to _ts(u/)i(6)_.
+  - Williams' 犯人: Or a criminal.
+  - Williams' 囚犯: Better rendered "prisoner" (literally "imprisoned criminal").
+  ==
+P
+  ++
+  1. To face, to brave.
+  ++
 $$
 
 ###+ 販6 | _F(a/)n(6)_ (faan6)
