@@ -1764,6 +1764,7 @@ $$
 - $氾6
 - $泛6
 - $犯6
+- $範6
 - $范6
 - $販6
 ==
@@ -1873,6 +1874,60 @@ P
   ++
 $$
 
+### 範6 | _F(a/)n(6)_ [[faan6]]
+
+$$
+R
+  ⽵ + 9
+  ⾞ + 8
+U
+  U+7BC4
+A
+  ==
+  - $范6
+  ==
+F
+  ==
+  - [[F2.71 範]] ::法也[式]也模也則也隄防也::
+  ==
+W
+  ====
+  - [[Page~49 范(6)]]
+    --
+    [[...]]
+    --
+    --
+    Used for the following [[範]].
+    --
+  - [[Page~49 範(6)]]
+    ==
+    - A rule, a guide;
+    - a custom, a usage;
+    - a mold, a pattern [[Kangxi: 法也式也模也 etc.]];
+    - to imitate;
+    - _(4)m(o\) f(a/)n(6)_
+        [[mou4 faan6 模範]]
+        a pattern, an exemplar [[Kangxi: 範謂模範]];
+    - _(4)fong f(a/)n(6)_
+        [[fong4 faan6 防範]]
+        rule for guarding;
+    - _(1)fung f(a/)n(6)_
+        [[fung1 faan6 風範]]
+        a popular custom.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed missing dot in 式. The headword 犯 is printed ⿱𥫗⿰車巳.
+  - Williams' 風範: Better rendered "manner" or "air".
+  ==
+P
+  ++
+  1. Bounds.
+  1. To bound, to guard against.
+  ++
+$$
+
 ### 范6 | _F(a/)n(6)_ [[faan6]]
 
 $$
@@ -1893,7 +1948,7 @@ W
     - a surname [[Kangxi: 姓]].
     ==
     --
-    Used for the following [[範]].
+    [[Otherwise, an alternative form of 範. **See $範faan6 for the canonical entry.**]]
     --
   ====
 C

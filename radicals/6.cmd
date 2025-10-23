@@ -137,6 +137,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $範faan6
       - $箴zam1
       - $箭zin3
       ==
