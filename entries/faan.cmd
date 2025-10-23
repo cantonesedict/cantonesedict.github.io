@@ -1124,6 +1124,7 @@ $$
 - $凢4
 - $墦4
 - $帆4
+- $梵4
 - $氾4
 - $煩4
 - $燔4
@@ -1279,6 +1280,27 @@ W
         canvas.
     ==
   ====
+$$
+
+###+ 梵4 | _(4)F(a/)n_ (faan4)
+
+$$.
+R
+  ⽊ + 7
+U
+  U+68B5
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $梵faan6 for the canonical entry.**
+  ++
+S
+  ==
+  - $梵faan6
+  ==
 $$
 
 ###+ 氾4 | _(4)F(a/)n_ (faan4)
@@ -1761,6 +1783,7 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $梵6
 - $氾6
 - $泛6
 - $犯6
@@ -1770,6 +1793,53 @@ $$
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 梵6 | _F(a/)n(6)_ [[faan6]]
+
+$$
+R
+  ⽊ + 7
+U
+  U+68B5
+V
+  ==
+  - faan4 (common)
+  ==
+F
+  ==
+  - [[F2.71 梵]] 羗戎吟聲也佛家經聲曰梵音
+  ==
+W
+  ====
+  - [[Page~49 梵(6)]]
+    ==
+    - Name of a bonze;
+    - the country of Magadha, whence Budha came;
+    - the language of the Budhists, Pali or Sanscrit;
+    - _f(a/)n(6) (1)yam_
+        [[faan6 jam1 梵音]],
+        to chant prayers [[Fan Wan: 佛家經聲曰梵音]];
+    - _f(a/)n(6) (4)(i/)n_
+        [[faan6 jin4 梵言]],
+        Pali;
+    - _f(a/)n [sh(a/)t](8)_
+        [[faan6 saat3 梵剎]]
+        a monastery.
+    ==
+  ====
+C
+  ==
+  - Williams' 梵剎: Normalised _ch(')(a/)t(8)_ (caat3) to _sh(a/)t(8)_ (saat3).
+  ==
+P
+  ++
+  1. Tranquil, quiet (Kangxi: 華言淸淨正言寂靜).
+  ++
+S
+  ==
+  - $梵faan4
+  ==
+$$
 
 ###+ 氾6 | _F(a/)n(6)_ (faan6)
 
