@@ -1790,6 +1790,7 @@ $$
 - $範6
 - $范6
 - $販6
+- $飯6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -2046,4 +2047,59 @@ S
   ==
   - $販faan3
   ==
+$$
+
+### 飯6 | _F(a/)n(6)_ [[faan6]]
+
+$$
+R
+  ⾷ + 4
+U
+  U+98EF
+V
+  ==
+  - faan5 (per 《廣韻》扶晚切 rising for verb sense)
+  ==
+F
+  ==
+  - [[F2.71 飯]] 米飯
+  ==
+W
+  ====
+  - [[Page~49 飯(6)]]
+    ==
+    - Cooked rice;
+    - a meal;
+    - _shik(9) f(a/)n(6)_
+        [[sik6 faan6 食飯]]
+        to eat;
+    - _ts(o\)(6) f(a/)n(6)_
+        [[zou6 faan6 做飯]]
+        to cook;
+    - _(2)ts(o\) f(a/)n[(6)]_
+        [[zou2 faan6 早飯]]
+        breakfast;
+    - _p(i/)n(6) f(a/)n(6)_
+        [[bin6 faan6 便飯]]
+        a common meal;
+    - _shik(9) f(a/)n(6) (4)'m (4)ts(')ang_
+        [[sik6 faan6 m4 cang4 食飯唔曾]],
+        have you eaten, (i.~e. how do you do? the ans. is,
+          _(5)yau (1)p(')(i/)n_
+          [[jau5 pin1 有偏]],
+          thank you.)
+    - _(1)chong f(a/)n(6)_
+        [[zong1 faan6 裝飯]]
+        dish up the rice.
+    ==
+  ====
+C
+  ==
+  - Williams' 做飯: The preferred term for "cooking" in Cantonese is 煮飯.
+  ==
+P
+  ++
+  1. To eat (Kangxi: 餐飯也), to feed.
+  1. The base of the thumb (Kangxi: 指本, 飯大擘指本也).
+  ++
 $$
