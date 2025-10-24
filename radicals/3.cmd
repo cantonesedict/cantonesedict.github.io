@@ -108,6 +108,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $呞ci1
+      - $咈fat6
       - {$咋zaa3, $咋zaak3}
       - $周zau1
       - $呪zau3

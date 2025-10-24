@@ -184,10 +184,33 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $咈6
 - $拂6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+###+ 咈6 | _Fat(9)_ (fat6)
+
+$$
+R
+  ⼝ + 5
+U
+  U+5488
+A
+  ==
+  - 佛
+  - $拂6
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. To oppose, to go against (Kangxi: 違也, 戾也, 通作佛拂).
+  ++
+$$
 
 ###+ 拂6 | _Fat(9)_ (fat6)
 
@@ -219,7 +242,7 @@ W
         to thwart another's wishes.
     ==
     --
-    [[Alternative form of 咈. See $咈fat6.]] [[TODO]]
+    [[Alternative form of 咈. See $咈fat6.]]
     --
   ====
 S
