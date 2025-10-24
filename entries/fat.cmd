@@ -49,6 +49,7 @@ $$
 =={.modern}
 - $弗1
 - $彿1
+- $拂1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -82,7 +83,7 @@ W
 P
   ++
   1. To rid, to remove (Kangxi: 去也).
-     (Alternative form of 祓 (for the "remove" sense). See $祓fat1.)
+     (Alternative form of 祓 (for the "remove" sense). See $祓fat1.) (TODO)
   ++
 $$
 
@@ -96,6 +97,7 @@ U
 A
   ==
   - 佛
+  - $拂1
   - 髴
   ==
 F
@@ -116,5 +118,62 @@ W
 C
   ==
   - Fan Wan entry: Corrected 依 to 似.
+  ==
+$$
+
+### 拂1 | _Fat(7)_ [[fat1]]
+
+$$
+R
+  ⼿ + 5
+U
+  U+62C2
+F
+  ==
+  - [[F1.86 拂]] 拭也
+  - [[F1.86 拂]] 拂拭又蠅拂
+  ==
+W
+  ====
+  - [[Page~49 拂(7)]]
+    ==
+    - To brush, to wipe, to dust [[Kangxi: 去也拭也除也, 拂去塵埃也]];
+    - to push away, to oppose;
+    - to expel, to contradict;
+    - perverse, disobedient;
+    - ~~a sort of flail;~~
+    - _fat(7) (4)ch(')an_
+        [[fat1 can4]],
+        to brush away dust;
+    - _fat(7) shik(7)_
+        [[fat1 sik1]]
+        to brush away;
+    - _(4)ying fat(7)_
+        [[jing4 fat1 蠅拂]]
+        a fly whip;
+    - _fat(7) (4)yan sing(3)_
+        [[fat1 jan4 sing3]]
+        to thwart another's wishes.
+    ==
+    --
+    [[Otherwise, a reading variation. **See $拂fat6 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 彿. **See $彿fat1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: The headword 拂 appears twice.
+  ==
+P
+  ++
+  1. To strike obliquely, to glance (Kangxi: 過擊也, 擊而過之也).
+  1. A duster (Kangxi: 拂塵具).
+  ++
+S
+  ==
+  - $拂bat6 (TODO)
+  - $拂fat6 (TODO)
   ==
 $$
