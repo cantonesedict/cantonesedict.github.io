@@ -51,6 +51,7 @@ $$
 - $弗1
 - $彿1
 - $拂1
+- $紼1
 - $茀1
 ==
 </nav>
@@ -179,6 +180,52 @@ S
   ==
 $$
 
+### 紼1 | _Fat(7)_ [[fat1]]
+
+$$
+R
+  ⽷ + 5
+U
+  U+7D3C
+A
+  ==
+  - $茀1
+  ==
+F
+  ==
+  - [[F1.86 茀]] 繫印組也又引柩索
+  ==
+W
+  ====
+  - [[Page~49 紼(7)]]
+    ==
+    - Raveled silk [[Kangxi: 亂糸也]];
+    - a screen;
+    - a trace to drag a bier [[Kangxi: 從前引之曰紼紼發也發車使前]];
+    - _chap(7) fat(7)_
+        [[zap1 fat1 執紼]]
+        to accompany a funeral.
+    ==
+    --
+    [[Otherwise, an alternative form of 紱. **See $紱fat1 for the canonical entry.**]] [[TODO]]
+    --
+    --
+    [[Otherwise, an alternative form of 芾. **See $芾fat1 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Williams' "Raveled silk": 《說文》 actually has 亂系也,
+    with 段玉裁's annotations saying this should instead be 亂枲也,
+    "ravelled hemp".
+  ==
+P
+  ++
+  1. A rope (Kangxi: 紼繂也, 紼縳也).
+  1. A coffin rope (for burial) (Kangxi: 引棺索也).
+  ++
+$$
+
 ### 茀1 | _Fat(7)_ [[fat1]]
 
 $$
@@ -204,7 +251,7 @@ W
         to clear away grass.
     ==
     --
-    [[Otherwise, an alternative form of 紼. **See $紼fat1 for the canonical entry.**]] [[TODO]]
+    [[Otherwise, an alternative form of 紼. **See $紼fat1 for the canonical entry.**]]
     --
   ====
 C

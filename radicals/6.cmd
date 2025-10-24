@@ -361,6 +361,7 @@ For all radicals, see [Index of characters by radical](./).
       - {$紬cau1, $紬cau4}
       - {$絀ceot1, $絀zeot1, $絀zyut3}
       - $紵cyu5
+      - $紼fat1
       - $紮zaat3
       - $組zou2
       - $終zung1
