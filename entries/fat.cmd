@@ -52,6 +52,7 @@ $$
 - $彿1
 - $拂1
 - $紼1
+- $綍1
 - $茀1
 ==
 </nav>
@@ -189,6 +190,7 @@ U
   U+7D3C
 A
   ==
+  - $綍1
   - $茀1
   ==
 F
@@ -200,7 +202,8 @@ W
   - [[Page~49 紼(7)]]
     ==
     - Raveled silk [[Kangxi: 亂糸也]];
-    - a screen;
+    <## - a screen; (TODO: $芾fat1) ##>
+    - [[...]];
     - a trace to drag a bier [[Kangxi: 從前引之曰紼紼發也發車使前]];
     - _chap(7) fat(7)_
         [[zap1 fat1 執紼]]
@@ -222,8 +225,43 @@ C
 P
   ++
   1. A rope (Kangxi: 紼繂也, 紼縳也).
-  1. A coffin rope (for burial) (Kangxi: 引棺索也).
+  1. A coffin-rope (for burial) (Kangxi: 引棺索也).
   ++
+$$
+
+###+ 綍1 | _Fat(7)_ (fat1)
+
+$$
+R
+  ⽷ + 7
+U
+  U+7D8D
+V
+  ==
+  - but6 (per Fan Wan)
+  ==
+F
+  ==
+  - [[F2.80 綍 _P(u/)t(9)_ (but6)]] 綸綍王言之
+  ==
+W
+  ====
+  - [[Page~402 綍(9) _P(u/)t(9)_ (but6); here normalised to _Fat(7)_ (fat1)]]
+    ==
+    - Silken cords which are used to carry coffins by [[Kangxi: 同紼, 綍舉棺索也]];
+    - _met._ fine, elegant, applied to the emperor's words;
+    - _(4)lun [fat(7)]_
+        [[leon4 fat1 綸綍]]
+        eloquent, persuasive, as imperial sayings.
+    ==
+    --
+    [[Alternative form of 紼. See $紼fat1.]]
+    --
+  ====
+S
+  ==
+  - $綍but6 (TODO)
+  ==
 $$
 
 ### 茀1 | _Fat(7)_ [[fat1]]
