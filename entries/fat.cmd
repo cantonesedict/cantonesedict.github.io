@@ -244,6 +244,19 @@ W
     --
     [[Alternative form of 咈. See $咈fat6.]]
     --
+  - [[Page~360 拂(9) _Pat(9)_ (bat6)]]
+    ==
+    - [[...]];
+    - _pat(9) l(u:)(6)_
+        [[bat6 leoi6 拂戾]]
+        perverse, obstinate;
+    - _pat(9) (4)yan (1)ch(i/) sing(3)_
+        [[bat6 jan4 zi1 sing3 拂人之性]]
+        to act contrary to other people.
+    ==
+    --
+    Usually read _fat(7)_ [[fat1]].
+    --
   ====
 S
   ==
