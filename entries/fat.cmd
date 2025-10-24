@@ -51,6 +51,7 @@ $$
 - $弗1
 - $彿1
 - $拂1
+- $茀1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -175,6 +176,49 @@ S
   ==
   - $拂bat6 (TODO)
   - $拂fat6
+  ==
+$$
+
+### 茀1 | _Fat(7)_ [[fat1]]
+
+$$
+R
+  ⾋ + 5
+U
+  U+8300
+F
+  ==
+  - [[F1.86 茀]] 轎簾也
+  ==
+W
+  ====
+  - [[Page~49 茀(7)]]
+    ==
+    - Brambles, or luxuriant herbage, concealing the path [[Kangxi: 道多草不可行, 茀茀茂也]];
+    <## - happiness, luck [[Kangxi: 福也]]; ##>
+    - [[...]];
+    - to screen [[Kangxi: 婦人乗車不露見車之前後設障以自蔽隱謂之茀]];
+    - to clear away, to open [[Kangxi: 治也]];
+    - _fat(7) (2)[ts(')(o\)]_
+        [[fat1 cou2 茀草]],
+        to clear away grass.
+    ==
+    --
+    [[Otherwise, an alternative form of 紼. **See $紼fat1 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Williams' 茀草: Corrected _(2)ts(o\)_ (zou2) to _(2)ts(')(o\)_ (cou2).
+  ==
+P
+  ++
+  1. Strong, vigorous (Kangxi: 强盛也).
+  ++
+S
+  ==
+  - $茀fai3 (TODO)
+  - $茀fuk1 (TODO)
   ==
 $$
 
