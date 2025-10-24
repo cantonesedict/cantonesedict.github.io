@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [fat1](#1)
+- [fat6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -132,28 +133,27 @@ F
   ==
   - [[F1.86 拂]] 拭也
   - [[F1.86 拂]] 拂拭又蠅拂
+  - [[F1.88 拂 _Pat(9)_ (bat6)]] 去也拭也除也擊也矯也逆也
   ==
 W
   ====
   - [[Page~49 拂(7)]]
     ==
     - To brush, to wipe, to dust [[Kangxi: 去也拭也除也, 拂去塵埃也]];
-    - to push away, to oppose;
-    - to expel, to contradict;
-    - perverse, disobedient;
+    - to push away, [[...]];
+    - to expel, [[...]];
+    - [[...]];
     - ~~a sort of flail;~~
     - _fat(7) (4)ch(')an_
-        [[fat1 can4]],
+        [[fat1 can4 拂塵]],
         to brush away dust;
     - _fat(7) shik(7)_
-        [[fat1 sik1]]
+        [[fat1 sik1 拂拭]]
         to brush away;
     - _(4)ying fat(7)_
         [[jing4 fat1 蠅拂]]
         a fly whip;
-    - _fat(7) (4)yan sing(3)_
-        [[fat1 jan4 sing3]]
-        to thwart another's wishes.
+    - [[...]].
     ==
     --
     [[Otherwise, a reading variation. **See $拂fat6 for the canonical entry.**]]
@@ -164,7 +164,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: The headword 拂 appears twice.
+  - Fan Wan entry: The headword 拂 appears twice under the reading _fat(7)_ (fat1).
   ==
 P
   ++
@@ -174,6 +174,57 @@ P
 S
   ==
   - $拂bat6 (TODO)
-  - $拂fat6 (TODO)
+  - $拂fat6
+  ==
+$$
+
+
+##{#6 .williams} Fat(9) [[fat6 陽入]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $拂6
+==
+</nav>
+<## /tone-6-characters ##>
+
+###+ 拂6 | _Fat(9)_ (fat6)
+
+$$
+R
+  ⼿ + 5
+U
+  U+62C2
+V
+  ==
+  - bat6 (per Fan Wan)
+  - fat1 (per 《洪武正韻牋》敷勿切)
+  ==
+F
+  ==
+  - [[F1.88 拂 _Pat(9)_ (bat6)]] 去也拭也除也擊也矯也逆也
+  ==
+W
+  ====
+  - [[Page~49 拂(7) _Fat(7)_ (fat1); here normalised to  _Fat(9)_ (fat6)]]
+    ==
+    - [[...]];
+    - [[...]], to oppose [[Kangxi: 與咈通違也戾也]];
+    - [[...]], to contradict;
+    - perverse, disobedient;
+    - [[...]];
+    - _fat[(9)] (4)yan sing(3)_
+        [[fat6 jan4 sing3 拂人性]]
+        to thwart another's wishes.
+    ==
+    --
+    [[Alternative form of 咈. See $咈fat6.]] [[TODO]]
+    --
+  ====
+S
+  ==
+  - $拂bat6 (TODO)
+  - $拂fat1
   ==
 $$

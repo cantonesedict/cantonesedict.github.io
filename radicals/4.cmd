@@ -371,7 +371,7 @@ For all radicals, see [Index of characters by radical](./).
       - {$拗aau2, $拗aau3}
       - $拆caak3
       - $抽cau1
-      - $拂fat1
+      - {$拂fat1, $拂fat6}
       - $拃zaa6
       - $拓zek3
       - $招ziu1
