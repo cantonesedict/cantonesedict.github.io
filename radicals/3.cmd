@@ -1484,6 +1484,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $徂cou4
+      - $彿fat1
       - $征zing1
       ==
       </nav>

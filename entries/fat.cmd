@@ -48,6 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $弗1
+- $彿1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -83,4 +84,37 @@ P
   1. To rid, to remove (Kangxi: 去也).
      (Alternative form of 祓 (for the "remove" sense). See $祓fat1.)
   ++
+$$
+
+### 彿1 | _Fat(7)_ [[fat1]]
+
+$$
+R
+  ⼻ + 5
+U
+  U+5F7F
+A
+  ==
+  - 佛
+  - 髴
+  ==
+F
+  ==
+  - [[F1.86 彿]] ::彷彿猶[似]樣也::
+  ==
+W
+  ====
+  - [[Page~49 彿(7)]]
+    ==
+    - Like, as if;
+    - used in the phrase
+        _(2)fong fat(7)_
+        [[fong2 fat1 彷彿]]
+        resembling [[Kangxi: 彷彿也]].
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 依 to 似.
+  ==
 $$
