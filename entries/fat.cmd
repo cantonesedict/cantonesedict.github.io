@@ -54,6 +54,7 @@ $$
 - $紱1
 - $紼1
 - $綍1
+- $芾1
 - $茀1
 ==
 </nav>
@@ -237,7 +238,6 @@ W
   - [[Page~49 紼(7)]]
     ==
     - Raveled silk [[Kangxi: 亂糸也]];
-    <## - a screen; (TODO: $芾fat1) ##>
     - [[...]];
     - a trace to drag a bier [[Kangxi: 從前引之曰紼紼發也發車使前]];
     - _chap(7) fat(7)_
@@ -248,7 +248,7 @@ W
     [[Otherwise, an alternative form of 紱. **See $紱fat1 for the canonical entry.**]]
     --
     --
-    [[Otherwise, an alternative form of 芾. **See $芾fat1 for the canonical entry.**]] [[TODO]]
+    [[Otherwise, an alternative form of 芾 (for the "screen" sense). **See $芾fat1 for the canonical entry.**]]
     --
   ====
 C
@@ -296,6 +296,42 @@ W
 S
   ==
   - $綍but6 (TODO)
+  ==
+$$
+
+### 芾1 | _Fat(7)_ [[fat1]]
+
+$$
+R
+  ⾋ + 4
+U
+  U+82BE
+A
+  ==
+  - $紼1 (for "screen" sense)
+  ==
+W
+  ====
+  - [[Page~44 芾(3)]]
+    ==
+    - [[...]];
+    - read _fat(7)_ [[fat1]]
+        as _fat(7) fat(7)_ [[fat1 fat1 芾芾]]
+        foliage abundant [[Kangxi: 草木翳薈也, 芾芾茂也]].
+    ==
+    --
+    [[Otherwise, an alternative form of 韍. **See $韍fat1 for the canonical entry.**]] [[TODO]]
+    --
+  - [[Page~49 紼(7); here normalised to 芾]]
+    ==
+    - [[...]];
+    - a screen [[Kangxi 紼: 與芾通, 紼者蔽也行以蔽前天子朱紼諸侯赤紼]];
+    - [[...]].
+    ==
+  ====
+S
+  ==
+  - $芾fai3
   ==
 $$
 

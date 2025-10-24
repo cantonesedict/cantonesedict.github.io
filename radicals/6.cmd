@@ -1178,7 +1178,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $芻co1
       - $花faa1
-      - $芾fai3
+      - {$芾fai3, $芾fat1}
       - $芬fan1
       - $芝zi1
       ==

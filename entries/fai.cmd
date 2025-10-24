@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fai
-* %date-modified --> 2025-09-21
+* %date-modified --> 2025-10-24
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -803,19 +803,18 @@ W
   ====
   - [[Page~44 芾(3)]]
     ==
-    - Luxuriant [[Fan Wan: 蔽芾木盛也]];
+    - ~~Luxuriant [[Fan Wan: 蔽芾木盛也]];~~
     - small [[Kangxi: 蔽芾小貌]];
     - [[...]].
-    <## TODO:
-    - read _fat(7)_ [[fat1]]
-        as _fat(7) fat(7)_ [[fat1 fat1 芾芾]]
-        foliage abundant.
-    ##>
     ==
   ====
+C
+  ==
+  - The luxuriant sense belongs under $芾fat1.
+  ==
 S
   ==
-  - $芾fat1 (TODO)
+  - $芾fat1
   ==
 $$
 
