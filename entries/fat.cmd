@@ -51,6 +51,7 @@ $$
 - $弗1
 - $彿1
 - $拂1
+- $紱1
 - $紼1
 - $綍1
 - $茀1
@@ -181,6 +182,40 @@ S
   ==
 $$
 
+### 紱1 | _Fat(7)_ [[fat1]]
+
+$$
+R
+  ⽷ + 5
+U
+  U+7D31
+A
+  ==
+  - $紼1
+  - 韍
+  ==
+F
+  ==
+  - [[F1.86 紱]] 綬也
+  ==
+W
+  ====
+  - [[Page~50 紱(7)]]
+    ==
+    - A ribbon to hold a seal [[Kangxi: 綬也, 紱或作紼]];
+    - ~~used for the two preceding [[茀, 紼]].~~
+    ==
+    --
+    [[Otherwise, an alternative form of 韍. **See $韍fat1 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Williams' "used for the two preceding": Not the case for 茀,
+    and the other way round for 紼 (i.e. 紼 is used for 紱).
+  ==
+$$
+
 ### 紼1 | _Fat(7)_ [[fat1]]
 
 $$
@@ -210,7 +245,7 @@ W
         to accompany a funeral.
     ==
     --
-    [[Otherwise, an alternative form of 紱. **See $紱fat1 for the canonical entry.**]] [[TODO]]
+    [[Otherwise, an alternative form of 紱. **See $紱fat1 for the canonical entry.**]]
     --
     --
     [[Otherwise, an alternative form of 芾. **See $芾fat1 for the canonical entry.**]] [[TODO]]
