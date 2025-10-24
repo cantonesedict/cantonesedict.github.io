@@ -1190,7 +1190,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $苧cyu5
       - $范faan6
-      - $茀fat1
+      - {$茀fai3, $茀fat1}
       - {$茁zaat3, $茁zyut3}
       - $苴zeoi1
       ==

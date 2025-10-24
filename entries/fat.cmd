@@ -373,7 +373,7 @@ P
   ++
 S
   ==
-  - $茀fai3 (TODO)
+  - $茀fai3
   - $茀fuk1 (TODO)
   ==
 $$

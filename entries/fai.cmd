@@ -580,6 +580,7 @@ $$
 - $痱3
 - $肺3
 - $芾3
+- $茀3
 - $費3
 ==
 </nav>
@@ -791,6 +792,10 @@ R
   ⾋ + 4
 U
   U+82BE
+A
+  ==
+  - $茀3
+  ==
 V
   ==
   - bui3 (alternative per 《廣韻》博蓋切 for "small" sense)
@@ -803,18 +808,36 @@ W
   ====
   - [[Page~44 芾(3)]]
     ==
-    - ~~Luxuriant [[Fan Wan: 蔽芾木盛也]];~~
+    - Luxuriant [[Fan Wan: 蔽芾木盛也]];
     - small [[Kangxi: 蔽芾小貌]];
     - [[...]].
     ==
   ====
-C
-  ==
-  - The luxuriant sense belongs under $芾fat1.
-  ==
 S
   ==
   - $芾fat1
+  ==
+$$
+
+###+ 茀3 | _Fai(3)_ (fai3)
+
+$$.
+R
+  ⾋ + 5
+U
+  U+8300
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 芾. **See $芾fai3 for the canonical entry.**
+  ++
+S
+  ==
+  - $茀fat1
+  - $茀fuk1 (TODO)
   ==
 $$
 
