@@ -57,6 +57,7 @@ $$
 - $綍1
 - $芾1
 - $茀1
+- $袚1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -429,6 +430,42 @@ S
   ==
   - $茀fai3
   ==
+$$
+
+### 袚1 | _Fat(7)_ [[fat1]]
+
+$$
+R
+  ⾐ + 5
+U
+  U+889A
+V
+  ==
+  - fai3 (per 《集韻》方未切 for "knee-pad" sense)
+  - but3 (per 《廣韻》北末切 for "barbarian-clothing" and "knee-pad" senses)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~50 袚(7)]]
+    ==
+    - A covering for the knees [[Kangxi: 蔽膝也 etc.]];
+    - ~~a short tunic worn in southern China.~~
+    ==
+  ====
+C
+  ==
+  - The reading _fat(7)_ (fat1) is not unattested for the "barbarian-clothing" sense;
+    《集韻》 has the reading 敷勿切, explained 蠻夷衣.
+  - Fan Wan entry: The headword 袚 is a misprint of $祓1.
+  - Williams' "short tunic worn in southern China": This is a poor rendering of Kangxi ::蠻[夷]服也::.
+  ==
+P
+  ++
+  1. Clothing worn by south-eastern barbarians (Kangxi: ::蠻[夷]服也::).
+  1. Clothing for small children (Kangxi: ::[褿]袚䙁褯也::).
+  ++
 $$
 
 
