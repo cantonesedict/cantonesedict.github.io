@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fat
-* %date-modified --> 2025-10-24
+* %date-modified --> 2025-10-25
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -51,6 +51,7 @@ $$
 - $弗1
 - $彿1
 - $拂1
+- $祓1
 - $紱1
 - $紼1
 - $綍1
@@ -89,7 +90,7 @@ W
 P
   ++
   1. To rid, to remove (Kangxi: 去也).
-     (Alternative form of 祓 (for the "remove" sense). See $祓fat1.) (TODO)
+     (Alternative form of 祓 (for the "remove" sense). See $祓fat1.)
   ++
 $$
 
@@ -181,6 +182,52 @@ S
   - $拂bat6 (TODO)
   - $拂fat6
   ==
+$$
+
+### 祓1 | _Fat(7)_ [[fat1]]
+
+$$
+R
+  ⽰ + 5
+U
+  U+7953
+A
+  ==
+  - $弗1
+  ==
+V
+  ==
+  - fai3 (alternative per ::《廣韻》方[肺]切::)
+  ==
+F
+  ==
+  - [[F1.86 ::[祓]::]] 除也
+  ==
+W
+  ====
+  - [[Page~50 祓(7)]]
+    ==
+    - ~~Clean, pure;~~
+    - to disperse;
+    - to drive off;
+    - to wash away;
+    - a sacrifice or baptism to obtain good [[Kangxi: ::除[災]求福也::]];
+    - _fat(7) (4)ch(')(u:)_
+        [[fat1 ceoi4 祓除]],
+        to ward off.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword $袚1 to 祓.
+  - Williams' "Clean, pure": These should be rendered as verbs instead.
+  ==
+P
+  ++
+  1. To remove (除也, 通作弗, 弗之言祓也).
+  1. To cleanse (Kangxi: 潔也).
+  1. Good fortune (Kangxi: 通作茀, 祓福也). (Alternative form of 茀. See $茀fat1.)
+  ++
 $$
 
 ### 紱1 | _Fat(7)_ [[fat1]]
@@ -342,6 +389,14 @@ R
   ⾋ + 5
 U
   U+8300
+A
+  ==
+  - $祓1 (for "good fortune" sense)
+  ==
+V
+  ==
+  - fuk1 (for "good fortune" sense)
+  ==
 F
   ==
   - [[F1.86 茀]] 轎簾也
@@ -351,8 +406,7 @@ W
   - [[Page~49 茀(7)]]
     ==
     - Brambles, or luxuriant herbage, concealing the path [[Kangxi: 道多草不可行, 茀茀茂也]];
-    <## - happiness, luck [[Kangxi: 福也]]; ##>
-    - [[...]];
+    - happiness, luck [[Kangxi: 福也]];
     - to screen [[Kangxi: 婦人乗車不露見車之前後設障以自蔽隱謂之茀]];
     - to clear away, to open [[Kangxi: 治也]];
     - _fat(7) (2)[ts(')(o\)]_
@@ -374,7 +428,6 @@ P
 S
   ==
   - $茀fai3
-  - $茀fuk1 (TODO)
   ==
 $$
 

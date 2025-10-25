@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fai
-* %date-modified --> 2025-10-24
+* %date-modified --> 2025-10-25
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -837,7 +837,6 @@ P
 S
   ==
   - $茀fat1
-  - $茀fuk1 (TODO)
   ==
 $$
 
