@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fat
-* %date-modified --> 2025-10-25
+* %date-modified --> 2025-10-26
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -58,6 +58,7 @@ $$
 - $芾1
 - $茀1
 - $袚1
+- $韍1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -241,7 +242,7 @@ U
 A
   ==
   - $紼1
-  - 韍
+  - $韍1
   ==
 F
   ==
@@ -255,8 +256,13 @@ W
     - ~~used for the two preceding [[茀, 紼]].~~
     ==
     --
-    [[Otherwise, an alternative form of 韍. **See $韍fat1 for the canonical entry.**]] [[TODO]]
+    [[Otherwise, an alternative form of 韍. **See $韍fat1 for the canonical entry.**]]
     --
+  - [[Page~50 韍(7); here normalised to 紱]]
+    ==
+    - [[...]];
+    - a string on a seal [[Kangxi 韍: 璽之組也]].
+    ==
   ====
 C
   ==
@@ -296,7 +302,7 @@ W
     [[Otherwise, an alternative form of 紱. **See $紱fat1 for the canonical entry.**]]
     --
     --
-    [[Otherwise, an alternative form of 芾 (for the "screen" sense). **See $芾fat1 for the canonical entry.**]]
+    [[Otherwise, an alternative form of 芾 (for the "knee-cover" sense). **See $芾fat1 for the canonical entry.**]]
     --
   ====
 C
@@ -356,7 +362,7 @@ U
   U+82BE
 A
   ==
-  - $紼1 (for "screen" sense)
+  - $紼1 (for "knee-cover" sense)
   ==
 W
   ====
@@ -367,16 +373,20 @@ W
         as _fat(7) fat(7)_ [[fat1 fat1 芾芾]]
         foliage abundant [[Kangxi: 草木翳薈也, 芾芾茂也]].
     ==
-    --
-    [[Otherwise, an alternative form of 韍. **See $韍fat1 for the canonical entry.**]] [[TODO]]
-    --
   - [[Page~49 紼(7); here normalised to 芾]]
     ==
     - [[...]];
     - a screen [[Kangxi 紼: 與芾通, 紼者蔽也行以蔽前天子朱紼諸侯赤紼]];
     - [[...]].
     ==
+    --
+    [[Alternative form of 韍. See $韍fat1.]]
+    --
   ====
+C
+  ==
+  - Williams "a screen": Specifically, a knee-cover.
+  ==
 S
   ==
   - $芾fai3
@@ -441,8 +451,8 @@ U
   U+889A
 V
   ==
-  - fai3 (per 《集韻》方未切 for "knee-pad" sense)
-  - but3 (per 《廣韻》北末切 for "barbarian-clothing" and "knee-pad" senses)
+  - fai3 (per 《集韻》方未切 for "knee-cover" sense)
+  - but3 (per 《廣韻》北末切 for "barbarian-clothing" and "knee-cover" senses)
   ==
 F
   [[Not present]]
@@ -466,6 +476,41 @@ P
   1. Clothing worn by south-eastern barbarians (Kangxi: ::蠻[夷]服也::).
   1. Clothing for small children (Kangxi: ::[褿]袚䙁褯也::).
   ++
+$$
+
+### 韍1 | _Fat(7)_ [[fat1]]
+
+$$
+R
+  ⾱ + 5
+U
+  U+97CD
+A
+  ==
+  - 巿
+  - $紱1
+  - $芾1
+  ==
+F
+  ==
+  - [[F1.86 韍]] ::以韋爲之所以[蔽膝]::
+  ==
+W
+  ====
+  - [[Page~50 韍(7)]]
+    ==
+    - A knee-pad of leather [[Kangxi: 本作巿韠也]];
+    - a cover or defense for the bosom;
+    - [[...]].
+    ==
+    --
+    [[Otherwise, an alternative form of 紱. **See $紱fat1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed 蔽 and 膝.
+  ==
 $$
 
 
