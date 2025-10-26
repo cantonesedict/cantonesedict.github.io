@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caang
-* %date-modified --> 2025-08-24
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -429,7 +429,7 @@ W
     [[...]]
     --
     --
-    Read _ch(')(a/)ng(3)_ [[caang3]]; a colloquial word[.]
+    Read _ch(')(a/)ng(3)_ [[caang3]]; a colloquial word``.``
     --
     ==
     - To stretch out, to open;
@@ -528,7 +528,7 @@ W
     [[...]]
     --
     --
-    Read _ch(')(a/)ng(3)_ [[caang3]]; a colloquial word[.]
+    Read _ch(')(a/)ng(3)_ [[caang3]]; a colloquial word``.``
     --
     ==
     - [[...]];
