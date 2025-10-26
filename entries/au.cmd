@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> au
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -115,7 +115,7 @@ W
     - [[...]];
     - a child's prattle [[Kangxi: 唲嘔小兒語也]];
     - [[...]];
-    - _[(1)]au (1)(a/)_
+    - _~~(2)au~~``(1)au`` (1)(a/)_
         [[au1 aa1 嘔啞]],
         children humming;
     - [[...]].
@@ -516,7 +516,7 @@ W
     - _au(3) nau(6)_
         [[au3 nau6 漚腬]]
         glutted, loathing food;
-    - _(4)t(')ang [(5)]sh(i/)n au(3) (1)ch(u:) yuk(9)_
+    - _(4)t(')ang ~~sh(i/)n(6)~~``(5)sh(i/)n`` au(3) (1)ch(u:) yuk(9)_
         [[tang4 sin5 au3 zyu1 juk6 藤鱔漚豬肉]]
         to fry eels in pork fat, _met._ to add insult to injury.
     ==
