@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2025-10-06
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -122,7 +122,7 @@ S
   ==
 $$
 
-### [愀]1 | _(1)Ts(')au_ [[cau1]]
+### ~~愁~~``愀``1 | _(1)Ts(')au_ [[cau1]]
 
 $$.
 R
@@ -135,7 +135,7 @@ F
   ==
 W
   ====
-  - [[Page~562 ::(1)[愀]^::]]
+  - [[Page~562 ::~~(1)愁~~``(1)愀``::]]
     --
     [[Reading variation. **See $愀ciu2 for the canonical entry.**]]
     --
@@ -170,7 +170,7 @@ W
     - to expand, as spring does;
     - to lift;
     - to levy, to assess, as duty;
-    - ~~to select~~, to draw out [[Kangxi: 引也]];
+    - ~~to select,~~ to draw out [[Kangxi: 引也]];
     - to utter aloud [[Kangxi: 讀也]];
     - to whip;
     - to receive one's portion [[Kangxi: 收也]];
@@ -206,7 +206,7 @@ W
     - _(1)ch(')au shat(9)_
         [[cau1 sat6 抽實]]
         lift it up firmly;
-    - _(1)ch(')au mok[(7)]_
+    - _(1)ch(')au ~~mok(9)~~``mok(7)``_
         [[cau1 mok1 抽剝]]
         to extort, to exact a high fee;
     - _(1)ch(')au (4)ch(')au_ [[cau1 cau4 抽籌]],
@@ -420,7 +420,7 @@ W
     - _(2)fo (4)t(')(a/)m (1)ts(')au_
         [[fo2 taam4 cau1 火燂煍]],
         the fire blackens it;
-    - _(1)ts(')au [hak](7)_
+    - _(1)ts(')au ~~h(a/)k(7)~~``hak(7)``_
         [[cau1 hak1 煍黑]]
         smoked and blackened.
     ==
@@ -788,7 +788,7 @@ W
     - _k(i/)n(3) (2)ch(')au pat(7) (4)(u:) (4)ts(')ong ch(u:)t(8)_
         [[gin3 cau2 bat1 jyu4 cong4 zyut3 見醜不如藏拙]]
         to shame one is worse than keeping one's incapacity private;
-    - _[meng](6) (2)ch(')au_
+    - _~~ming(6)~~``meng(6)`` (2)ch(')au_
         [[meng6 cau2 命醜]]^
         an unhappy lot;
     - _(2)ch(')au (4)'m (2)ch(')au_
@@ -935,7 +935,7 @@ W
     - a concurrence of circumstances, to estimate the probabilities of;
     - to strive to excel [[Kangxi: 競進也]];
     - for;
-    - _(5)n(i/) h(u:)(3) ts(')au(3) (5)ngo (2)t(a/) [t(')ing](3)_
+    - _(5)n(i/) h(u:)(3) ts(')au(3) (5)ngo (2)t(a/) ~~t(')eng(3)~~``t(')ing(3)``_
         [[nei5 heoi3 cau3 ngo5 daa2 ting3 你去湊我打聽]]
         will you go and learn about it for me;
     - _ts(')au(3) (2)h(a/)u_
@@ -1096,13 +1096,9 @@ W
         rank, noisome, as bad fish;
     - _ch(')au(3) m(i/)(6)_
         [[cau3 mei6 臭味]]
-        ~~a bad taste~~.
+        a bad ~~taste~~``smell``.
     ==
   ====
-C
-  ==
-  - Williams' 臭味: Not a bad taste, but a bad smell.
-  ==
 $$
 
 ### 蔟3 | _Ts(')au(3)_ [[cau3]]
@@ -1332,7 +1328,7 @@ W
   - [[Page~563 (4)囚]]
     ==
     - To imprison, to confine, to cage [[Kangxi: 繫也, 拘也]];
-    - ~~to handcuff;~~
+    - to ~~handcuff~~``restrain`` [[Kangxi: 囚拘也主拘繫當{𠛬=⿰幵刂}殺者]];
     - a prisoner, a felon;
     - a prison;
     - _(4)ts(')au (4)lung_
@@ -1370,15 +1366,11 @@ W
   ====
   - [[Page~27|n70 (4)幬]]
     ==
-    - A single curtain [[Kangxi: 襌帳也]] on a carriage [[Kangxi: 車帷也]];
+    - ~~A single~~``An unlined`` curtain [[Kangxi: 襌帳也]] on a carriage [[Kangxi: 車帷也]];
     - a leather screen or partition [[Kangxi: 幔轂之革也]];
     - [[...]].
     ==
   ====
-C
-  ==
-  - Williams' "single curtain": Better rendered "unlined curtain".
-  ==
 S
   ==
   - $幬dou6 (TODO) <## cover ##>
@@ -1564,7 +1556,7 @@ W
         or
       _(4)ts(')(i/)m (4)ch(')au_ [[cim4 cau4-2 撍籌]],
         to draw lots;
-    - _(1)[k(a/)ng] (4)ch(')au_
+    - _~~(1)kang~~``(1)k(a/)ng`` (4)ch(')au_
         [[gaang1 cau4 更籌]],
         a watchman beating the hour;
     - _tuk(9) (2)k(i/) (4)ch(')au (1)sh(u:)_
@@ -1651,7 +1643,7 @@ W
     - Silk [[Kangxi 紬: 大絲繒也]];
     - pongee, senshaw, levantine, lustring;
     - [[...]];
-    - _(1)[sh(a/)ng] (4)ch(')au_
+    - _~~(1)shang~~``(1)sh(a/)ng`` (4)ch(')au_
         [[saang1 cau4 生綢]],
         stiff pongee;
     - _shuk(9) (4)ch(')au_
@@ -1721,7 +1713,7 @@ W
   ====
   - [[Page~27|n70 (4)裯]]
     ==
-    - A single coverlet [[Kangxi: 被也, 襌被也]];
+    - ~~A single~~``An unlined`` coverlet [[Kangxi: 被也, 襌被也]];
     - a bed curtain [[Kangxi: 牀帳也]];
     - an under-shirt;
     - to cover, as with bed clothes.
@@ -1730,10 +1722,6 @@ W
     [[...]]
     --
   ====
-C
-  ==
-  - Williams' "single coverlet": Better rendered "unlined coverlet".
-  ==
 S
   ==
   - $裯dou1 (TODO)
