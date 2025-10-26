@@ -48,6 +48,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $巿1
 - $弗1
 - $彿1
 - $拂1
@@ -62,6 +63,28 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+###+ 巿1 | _Fat(7)_ (fat1)
+
+$$.
+R
+  ⼱ + 1
+U
+  U+5DFF
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - This character has a single vertical stroke through the centre.
+    Not to be confused with 市, which has a dot at the top.
+  ==
+P
+  ++
+  1. Alternative form of 韍. **See $韍fat1 for the canonical entry.**
+  ++
+$$
 
 ### 弗1 | _Fat(7)_ [[fat1]]
 
@@ -487,7 +510,7 @@ U
   U+97CD
 A
   ==
-  - 巿
+  - $巿1
   - $紱1
   - $芾1
   ==
