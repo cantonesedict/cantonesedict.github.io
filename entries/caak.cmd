@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caak
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -204,7 +204,7 @@ W
         [[caak3 caak3 dei6-2 seng1 坼坼地聲]],
         a wheezing, cracked voice.
     ==
-  - [[Page~14|n57 ::拆[(8)]::; here normalised to 坼]]
+  - [[Page~14|n57 ::~~拆(9)~~``拆(8)``^::; here normalised to 坼]]
     ==
     - [[...]]^
     - _ch(')(a/)k(8) (2)hau yat(9)_
@@ -236,7 +236,7 @@ E
   """"
 $$
 
-### 拆3 | _Ch(')(a/)k[(8)]_ [[caak3]]
+### 拆3 | _Ch(')(a/)k(8)_ [[caak3]]
 
 $$
 R
@@ -249,7 +249,7 @@ F
   ==
 W
   ====
-  - [[Page~14|n57 ::拆[(8)]^::]]
+  - [[Page~14|n57 ::~~拆(9)~~``拆(8)``^::]]
     ==
     - To break up or open [[Kangxi: 裂也開也]];
     - to split, to unrip;
