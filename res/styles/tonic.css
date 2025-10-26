@@ -81,6 +81,12 @@ dd ul {
 }
 
 
+del {
+  text-decoration-color: var(--modern-colour);
+  text-decoration-thickness: 2px;
+}
+
+
 dl {
   border: 1px solid var(--modern-colour);
   padding: 0.3em 0.6em;
@@ -184,6 +190,9 @@ li[id^='cantonese-'] > ol > li {
 
 
 ins {
+  color: var(--modern-colour);
+}
+ins.modern {
   text-decoration: none;
 }
 
@@ -198,12 +207,6 @@ img {
 
 mark {
   background: #ffb;
-}
-
-
-s {
-  text-decoration-color: var(--modern-colour);
-  text-decoration-thickness: 2px;
 }
 
 

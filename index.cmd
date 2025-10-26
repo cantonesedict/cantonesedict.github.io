@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Home
-* %date-modified --> 2025-07-30
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 * %modern-colour --> crimson
 * %meta-description --> home page
@@ -227,8 +227,9 @@ consisting of:
    (<span class="williams">black serif text</span>)
    with bullet list formatting for readability;
 
-1. Making corrections to typos
-   <span class="williams">[in square brackets]</span>;
+1. Making corrective edits in the form of
+   deletions (<span class="williams">~~black serif struck~~</span>)
+   and insertions (<span class="williams">@@crimson serif underlined@@</span>);
 
 1. Associating entries with those in the original Fan Wan 《分韻撮要》;
 
