@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caan
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -288,10 +288,10 @@ W
     - a birth, act of parturition [[Kangxi: 婦生子曰產]];
     - _(2)p(o\) (2)ch(')(a/)n_
         [[bou2 caan2 保產]],
-        a strengthening pill;
+        a strengthening pill`` for pregnancy``;
     - _(2)si(u/) (2)ch(')(a/)n_
         [[siu2 caan2 小產]],
-        an abortion;
+        ~~an~~``a spontaneous`` abortion``;
     - _(1)fan (2)ch(')(a/)n_
         [[fan1 caan2 分產]]^
         to divide the patrimony;
@@ -306,7 +306,7 @@ W
         family possessions;
     - _(2)t(')(o\) (2)ch(')(a/)n_
         [[tou2 caan2 土產]],
-        productions;
+        ``native ``productions;
     - _(1)k(')ing (1)k(a/) p(a/)i(6) (2)ch(')(a/)n_
         [[king1 gaa1 baai6 caan2 傾家敗產]]^
         the family lost everything.
@@ -314,9 +314,7 @@ W
   ====
 C
   ==
-  - Williams' 保產: Specifically, a strengthening pill for pregnancy.
-  - Williams' 小產: Specifically, a *spontaneous* abortion, now called a miscarriage.
-  - Williams' 土產: Specifically, native produce.
+  - Williams' 小產: Now called a miscarriage.
   ==
 $$
 
@@ -428,8 +426,8 @@ E
   ====
 $$
 
-[網中人]: https://en.wikipedia.org/wiki/The_Good,_the_Bad_and_the_Ugly_(TV_series)
-[阿燦]: https://zh.wikipedia.org/wiki/阿燦
+[網中人]: https://en.wikipedia.org/w/index.php?title=The_Good,_the_Bad_and_the_Ugly_(TV_series)&oldid=1210313320
+[阿燦]: https://zh.wikipedia.org/w/index.php?title=阿燦&oldid=88185079
 
 ### 璨3 | _Ts(')(a/)n(3)_ [[caan3]]
 
