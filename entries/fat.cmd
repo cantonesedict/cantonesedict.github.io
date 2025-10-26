@@ -60,6 +60,7 @@ $$
 - $茀1
 - $袚1
 - $韍1
+- $髴1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -130,11 +131,12 @@ A
   ==
   - 佛
   - $拂1
-  - 髴
+  - $髴1
   ==
 F
   ==
   - [[F1.86 彿]] ::彷彿猶[似]樣也::
+  - [[F1.86 髴]] 髣髴猶近似也
   ==
 W
   ====
@@ -145,6 +147,11 @@ W
         _(2)fong fat(7)_
         [[fong2 fat1 彷彿]]
         resembling [[Kangxi: 彷彿也]].
+    ==
+  - [[Page~50 髴(7); here normalised to 彿]]
+    ==
+    - [[...]];
+    - like, nearly [[Kangxi 髴: 若似也, 或作彿]], applied to things.
     ==
   ====
 C
@@ -534,6 +541,35 @@ C
   ==
   - Fan Wan entry: Corrected malformed 蔽 and 膝.
   ==
+$$
+
+### 髴1 | _Fat(7)_ [[fat1]]
+
+$$
+R
+  ⾽ + 5
+U
+  U+9AF4
+V
+  ==
+  - fai3 (per Kangxi 芳味切 for "dishevelled" sense)
+  ==
+F
+  ==
+  - [[F1.86 髴]] 髣髴猶近似也
+  ==
+W
+  ====
+  - [[Page~50 髴(7)]]
+    ==
+    - Disheveled hair [[Kangxi: 髮亂貌]];
+    - head ornaments [[Kangxi: 婦人首飾]];
+    - [[...]].
+    ==
+    --
+    [[Otherwise, an alternative form of 彿. **See $彿fat1 for the canonical entry.**]]
+    --
+  ====
 $$
 
 
