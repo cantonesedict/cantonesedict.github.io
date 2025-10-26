@@ -14,6 +14,7 @@ RegexDictionaryReplacement: #.syntax.character-headings
 * ^[#]{3} (?P<addition_marker> [+]? )
     [ ]
     (?P<headword>
+      (?: ~~.*~~ )?
       (?: \[ | `` )? \{? (?P<character> \S ) (?: = \S+ \} )? (?: \] | `` )?
     )
     (?P<tone_number> [1-6] ) [ ][|][ ] (?P<reading> .* )

@@ -490,7 +490,7 @@ class Updater:
                 match.expand(fr'\g<character>{tone}')
                 for match in re.finditer(
                     pattern=(
-                        fr'^ \#\#\# [+]? [ ] (?: \[ | `` )? (?P<character> \S+? ) (?: \] | `` )? {tone}'  # TODO: remove \[ \] when eliminated
+                        fr'^ \#\#\# [+]? [ ] (?: ~~.*~~ )? (?: \[ | `` )? (?P<character> \S+? ) (?: \] | `` )? {tone}'  # TODO: remove \[ \] when eliminated
                         fr'[ ][|][ ]'
                         fr'.*?'
                         fr'(?: \( | \[\[ ) {syllable}{tone} (?: \) | \]\] )'
@@ -934,6 +934,7 @@ class Page:
                 pattern=(
                     r'^ [#]{3} [+]? '
                     r'[ ]'
+                    r'(?: ~~.*~~ )?'
                     r'(?: \[ | `` )? \{? (?P<character> \S ) [=]? (?P<composition> \S*? ) \}? (?: \] | `` )? .'  # TODO: remove \[ \] when eliminated
                     r'[ ][|][ ]'
                     r'.*?'
