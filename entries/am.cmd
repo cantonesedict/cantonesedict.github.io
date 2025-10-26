@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -79,7 +79,7 @@ W
     - [[...]];
     - _(1)(o\)m mak(9)_
         [[am1 mak6 啽默]]
-        to be silent; to give no answer, ~~as one [who] is very sleepy~~.
+        to be silent; to give no answer~~, as one whs is very sleepy~~.
     ==
   ====
 C
@@ -204,7 +204,7 @@ W
   - [[Page~341 (1)䳺; here normalised to 鵪]]
     ==
     - A quail [[Kangxi 䳺: 䳺鶉]];
-    - _(1)(o\)m [(1)ch(')un]_
+    - _(1)(o\)m ~~(4)shun~~``(1)ch(')un``_
         [[am1 ceon1 鵪鶉]],
         a quail, under which two or three species of Coturnix are included;
     - _(4)lung (1)(o\)m_,
@@ -255,7 +255,7 @@ $$
 </nav>
 <## /tone-2-characters ##>
 
-### 唵2 | _(2)[(O\)m]_ [[am2]]
+### 唵2 | _~~(2)Am~~``(2)(O\)m``_ [[am2]]^
 
 $$
 R
@@ -378,7 +378,7 @@ W
         [[am2 mit6 揞滅]]
         to put out, as fire;
         to quash;~~
-    - _(2)(o\)m p(a/)k[(9)] (4)mai (4)mung_
+    - _(2)(o\)m ~~p(a/)k(8)~~``p(a/)k(9)`` (4)mai (4)mung_
         [[am2 baak6 mai4 mung4 揞白迷濛]],
         blindman's buff;
     - _(2)(o\)m ch(u:)(6) (5)k(')(u:) (1)sh(e/)ung (5)ng(a/)n_
@@ -400,6 +400,7 @@ C
   ==
   - Fan Wan entry: Corrected 𡈼 to 也.
   - Williams' "to extinguish, to suppress", 揞滅:
+    These are dubious.
     Kangxi 揞 has 《揚子方言》滅也荆楚曰揞 under the reading 於咸切黯平聲 _(1)am_ (am1).
     But [《抱經堂叢書》本](https://ctext.org/library.pl?if=en&file=82373&page=111)
     annotates a reading of 烏感反 _(2)am_ (am2),
