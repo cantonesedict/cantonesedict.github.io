@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cap
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -79,7 +79,7 @@ W
     - _(2)ch(')(a/)i ts(')ap(7) t(o\)(3) shat(9)_
         [[caai2 cap1 dou3 sat6 踹戢到實]]
         tread it, press it down very solid;
-    - _tsoi[(3)] ts(')ap(7) (1)kon (1)kwo_
+    - _~~(2)tsoi~~``tsoi(3)`` ts(')ap(7) (1)kon (1)kwo_
         [[zoi3 cap1 gon1 gwo1 載戢干戈]],
         to lay by shields and spears.
     ==
