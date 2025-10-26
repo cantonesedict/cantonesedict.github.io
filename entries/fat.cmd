@@ -61,6 +61,7 @@ $$
 - $袚1
 - $韍1
 - $髴1
+- $黻1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -273,6 +274,7 @@ A
   ==
   - $紼1
   - $韍1
+  - $黻1
   ==
 F
   ==
@@ -520,6 +522,7 @@ A
   - $巿1
   - $紱1
   - $芾1
+  - $黻1
   ==
 F
   ==
@@ -570,6 +573,49 @@ W
     [[Otherwise, an alternative form of 彿. **See $彿fat1 for the canonical entry.**]]
     --
   ====
+$$
+
+### 黻1 | _Fat(7)_ [[fat1]]
+
+$$
+R
+  ⿋ + 5
+U
+  U+9EFB
+F
+  ==
+  - [[F1.86 黻]] ::[黼]黻::
+  ==
+W
+  ====
+  - [[Page~50 黻(7)]]
+    ==
+    - Variegated, black and azure mixed [[Kangxi: 黑與靑相次文 etc.]];
+    - to embroider in colors;
+    - elegant, flowery (as writing);
+    - a variegated garment [[Kangxi: 黻紩也畫黻紩文綵於衣也 etc.]];
+    - _fat(7) (5)m(i/)n_
+        [[fat1 min5 黻冕]],
+        an embroidered coronet [[Kangxi: 黻冕 etc.]].
+    ==
+    --
+    [[Otherwise, an alternative form of 韍. **See $韍fat1 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 紱. **See $紱fat1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan: Fixed missing strokes in 黼.
+  - Williams' "Variegated": Better rendered "An embroidered symbol".
+  ==
+P
+  ++
+  1. An embroidered symbol like two 弓 back-to-back,
+     or 亞 with the horizontal strokes disconnected
+     (Kangxi: 黼黻彰也 etc.).
+  ++
 $$
 
 
