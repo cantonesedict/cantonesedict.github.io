@@ -231,12 +231,20 @@ FixedDelimitersReplacement: #.syntax.modern-insertion-inline
 - tag_name: ins
 
 
-FixedDelimitersReplacement: #.syntax.modern-strike
+FixedDelimitersReplacement: #.syntax.williams-insertion-inline
+- queue_position: BEFORE #specified-links
+- syntax_type: INLINE
+- opening_delimiter: @@
+- closing_delimiter: @@
+- tag_name: ins
+
+
+FixedDelimitersReplacement: #.syntax.williams-deletion-inline
 - queue_position: BEFORE #specified-links
 - syntax_type: INLINE
 - opening_delimiter: ~~
 - closing_delimiter: ~~
-- tag_name: s
+- tag_name: del
 
 
 FixedDelimitersReplacement: #.syntax.small-parenthetical
