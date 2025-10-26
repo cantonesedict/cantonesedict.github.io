@@ -229,7 +229,7 @@ consisting of:
 
 1. Making corrective edits in the form of
    deletions (<span class="williams">~~black serif struck~~</span>)
-   and insertions (<span class="williams">@@crimson serif underlined@@</span>);
+   and insertions (<span class="williams">``crimson serif underlined``</span>);
 
 1. Associating entries with those in the original Fan Wan 《分韻撮要》;
 
