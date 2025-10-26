@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2025-08-19
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -202,12 +202,12 @@ W
     - _(1)ts(')an ts(')ik(7)_
         [[can1 cik1 親戚]]
         one's relatives;
-    - _[(2)]ts(')(u:) (1)ts(')an_
+    - _~~ts(')(u:)(3)~~``(2)ts(')(u:)`` (1)ts(')an_
         [[ceoi2 can1 娶親]],
         to take a wife;
     - _(4)shing (1)ts(')an_
         [[sing4 can1 成親]],
-        to consummate a matriage;
+        to ~~consummate a marriage~~``become married``;
     - _(4)(i/)m (1)ts(')an_ [[jim4 can1 嚴親]]^
         or
       _f(u/)(6) (1)ts(')an_ [[fu6 can1 父親]],
@@ -338,29 +338,16 @@ W
   ====
   - [[Page~18|n61 (2)畛]]
     ==
-    - ~~To divide fields;~~
+    - ~~To~~``Roads that`` divide fields [[Kangxi: 井田閒陌也]];
     - to come before the gods [[Kangxi: 致也]];
     - to announce ~~the emperor's coming~~ [[Kangxi: 吿也]];
-    - ~~to die~~;
+    - to ~~die~~``exterminate`` [[Kangxi: 殄也, 謂殄絕]];
     - a motive;
     - _(4)kw(')ai (2)ch(')an_
         [[kwai4 can2 畦畛]],
         dikes between fields.
     ==
   ====
-C
-  ==
-  - Williams' "To divide fields": This is a misreading of Kangxi 井田閒陌也,
-    which refers to the roads that divide fields,
-    rather than to the action of dividing fields.
-  - Williams' "to announce the emperor's coming": Not specific to the emperor's coming.
-  - Williams' "to die": Better rendered "to exterminate" (Kangxi: 殄也, 謂殄絕).
-  ==
-P
-  ++
-  1. Roads that divide fields (Kangxi: 井田閒陌也).
-  1. To exterminate (Kangxi: 殄也, 謂殄絕).
-  ++
 $$
 
 ### 疢2 | _(2)Ch(')an_ [[can2]]
@@ -457,7 +444,7 @@ W
     - To stretch;
     - still more, how much more [[Kangxi: 况也]];
     - ~~to grin wide;~~
-    - _(2)ch(')an (u:)t[(9)]_
+    - _(2)ch(')an ~~(u:)t(8)~~``(u:)t(9)``_
         [[can2 jyut6 矧曰]]
         to say further.
     ==
@@ -494,7 +481,7 @@ W
   - [[Page~18|n61 (2)紾]]
     ==
     - To bind with cords;
-    - to turn[,] to twist [[Kangxi: 轉也]];
+    - to turn``,`` to twist [[Kangxi: 轉也]];
     - to revolve;
     - a revolution;
     - perverse, crabbed [[Kangxi: 戾也]].
@@ -621,7 +608,7 @@ W
     - the last of the 28 constellations [[Kangxi: 宿名]],
       _β_, _δ_, _η_, _γ_, in Corvus;
     - pegs of a lute [[Kangxi: ::琴下轉[絃]者謂之軫::]];
-    - _(1)[(u:)] (2)ch(')an_
+    - _~~(1)h(u:)~~``(1)(u:)`` (2)ch(')an_
         [[jyu1 can2 紆軫]],
         crooked, winding.
     ==
@@ -942,7 +929,7 @@ W
     - _(4)ch(')an (1)oi_
         [[can4 oi1 塵埃]],
         dust;
-    - _(4)ch(')an kau[(3)]_
+    - _(4)ch(')an ~~(2)kau~~``kau(3)``_
         [[can4 gau3 塵垢]],
         covered with dust;
     - _(1)fung (4)ch(')an_
@@ -1030,7 +1017,7 @@ W
     - a long time, an old thing [[Kangxi: 故也, 久也]];
     - many, all [[Kangxi: 衆也]];
     - a feudal state [[Kangxi: 國名]] near the present capital of Hon(a/)n [[河南]];
-    - _tsoi(6) (4)ch(')an [ts(u:)t](9) (4)l(e/)ung_
+    - _tsoi(6) (4)ch(')an ~~ts(')(u:)t(9)~~``ts(u:)t(9)`` (4)l(e/)ung_
         [[zoi6 can4 zyut6 loeng4 在陳絕糧]],
         to lack food in Ch(')in---to be in straits;
     - _(1)p(')(o\) (4)ch(')an_
