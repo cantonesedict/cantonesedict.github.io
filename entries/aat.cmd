@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aat
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -217,41 +217,41 @@ W
     - to escort;
     - to suppress;
     - a lockup or detention room in a y(a/)mun [[衙門]];
-    - _w(a/)k(9) (1)f(a/) [(a/)t](8)_
+    - _w(a/)k(9) (1)f(a/) ~~(a/)p(8)~~``(a/)t(8)``_
         [[waak6 faa1 aat3 畫花押]]
         to make one's mark, to write a device;
-    - _[(a/)t](8) fo(3)_
+    - _~~(a/)p(8)~~``(a/)t(8)`` fo(3)_
         [[aat3 fo3 押貨]]
         to escort goods;
-    - _[(a/)t](8) (5)k(')(u:) ts(o\)(6)_
+    - _~~(a/)p(8)~~``(a/)t(8)`` (5)k(')(u:) ts(o\)(6)_
         [[aat3 keoi5 zou6 押佢做]]
         make him do it;
-    - _[(a/)t](8) sung(3) (4)yan_
+    - _~~(a/)p(8)~~``(a/)t(8)`` sung(3) (4)yan_
         [[aat3 sung3 jan4 押送人]],
         an escort;
-    - _(4)'m (1)k(a/)m [(a/)t](8) (5)n(i/)_
+    - _(4)'m (1)k(a/)m ~~(a/)p(8)~~``(a/)t(8)`` (5)n(i/)_
         [[m4 gaam1 aat3 nei5 唔監押你]],
         I'll not keep you;
         not detain you;
-    - _[(a/)t](8) [(5)]wan_
+    - _~~(a/)p(8)~~``(a/)t(8)`` ~~wan(6)~~``(5)wan``_
         [[aat3 wan5 押韻]]^
         to rhyme;
-    - _[(a/)t](8) (4)sh(u:)n_
+    - _~~(a/)p(8)~~``(a/)t(8)`` (4)sh(u:)n_
         [[aat3 syun4 押船]],
         custom-house boats, guard-boats;
-    - _[(a/)t](8) chan(6)_
+    - _~~(a/)p(8)~~``(a/)t(8)`` chan(6)_
         [[aat3 zan6 押陣]]
         to go into battle;
-    - _(1)ts(')(i/)m [(a/)t](8) (4)fong_
+    - _(1)ts(')(i/)m ~~(a/)p(8)~~``(a/)t(8)`` (4)fong_
         [[cim1 aat3 fong4 簽押房]],
         a lockup;
-    - _(1)ts(')(i/)m [(a/)t](8)_
+    - _(1)ts(')(i/)m ~~(a/)p(8)~~``(a/)t(8)``_
         [[cim1 aat3 簽押]]
         to endorse an edict, in red ink;
-    - _[(a/)t](8) (1)pong_
+    - _~~(a/)p(8)~~``(a/)t(8)`` (1)pong_
         [[aat3 bong1 押幫]]^
         to look after, to escort;
-    - _[(a/)t](8) (1)tung_
+    - _~~(a/)p(8)~~``(a/)t(8)`` (1)tung_
         [[aat3 dung1 押冬]],
         kept over winter; left over the season, as teas.
     ==
