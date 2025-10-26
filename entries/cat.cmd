@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cat
-* %date-modified --> 2025-07-26
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -93,7 +93,7 @@ W
     - _ts(')at(7) ts(u:)t(9)_
         [[cat1 zyut6 七絕]]
         a pentameter of four lines;
-    - _ts(')at(7) lut[(9)]_
+    - _ts(')at(7) ~~lut(7)~~``lut(9)``_
         [[cat1 leot6 七律]]
         one of eight lines;
     - _yat(7) yat(7) ts(')at(7)_
@@ -107,7 +107,7 @@ W
         to write seven essays.
     ==
     --
-    The second [[柒]] [is] used for the compound form [[...]].
+    The second [[柒]] ``is`` used for the compound form [[...]].
     --
   ====
 C
@@ -151,7 +151,7 @@ W
   ====
 $$
 
-### [漆]1 | _Ts(')at(7)_ [[cat1]]
+### ~~⿰氵⿱來氺~~``漆``1 | _Ts(')at(7)_ [[cat1]]
 
 $$
 R
@@ -176,7 +176,7 @@ W
     The second [[柒]] [[...]] is also [[...]]
     a contracted form of the next [[::[漆]::]] [[Kangxi 柒: 俗漆字]].
     --
-  - [[Page~559 ::[漆](7)::]]
+  - [[Page~559 ::~~⿰氵⿱來氺(7)~~``漆(7)``::]]
     ==
     - Varnish, lacquer;
     - viscid or resinous juices which can be used in painting [[Kangxi: 木汁可髤物]];
