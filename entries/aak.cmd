@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aak
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -244,7 +244,7 @@ W
     - a bangle;
     - _k(e/)uk(8) (a/)k(8)_
         [[goek3 aak3-2 腳鈪]]
-        a[n] anklet;
+        ~~a~~``an`` anklet;
     - _(1)kam (a/)k(8)_
         [[gam1 aak3-2 金鈪]]
         a gold wristlet;
