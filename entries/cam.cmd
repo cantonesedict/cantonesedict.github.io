@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -138,7 +138,7 @@ W
   - [[Page~551 浸(3) _Tsam(3)_ (zam3); here normalised to _(1)Ts(')am_ (cam1)]]
     ==
     - [[...]];
-    - _k(')(i/) sh(u:)t(8) [(1)ts(')am] (4)yam_
+    - _k(')(i/) sh(u:)t(8) ~~tsam(3)~~``(1)ts(')am`` (4)yam_
         [[kei4 syut3 cam1 jam4 其說浸淫]],
         his words are insidious and persuasive;
     - [[...]].
@@ -426,7 +426,7 @@ W
     - _ch(')am(3) h(i/)(3)_
         [[cam3 hei3 讖氣]]
         tiresome, talkative;
-    - _ch(')am(3) [(5)]wai_
+    - _ch(')am(3) ~~(2)wai~~``(5)wai``_
         [[cam3 wai5 讖緯]],
         to agree with the prophecy.
     ==
@@ -614,10 +614,10 @@ W
     - _(4)ch(')am on(3)_
         [[cam4 on3 沉案]]
         to quash a case;
-    - _(4)ch(')am nik[(7)]_
+    - _(4)ch(')am ~~nik(9)~~``nik(7)``_
         [[cam4 nik1 沉溺]]
         drowned, in doting on;
-    - _(4)ch(')am [(5)ch(')ung]_
+    - _(4)ch(')am ~~chung(6)~~``(5)ch(')ung``_
         [[cam4 cung5 沉重]]^
         very sick;
     - _shap(9) (4)ch(')am (2)kau (4)p(')(o\)_
@@ -791,7 +791,7 @@ F
   ==
 W
   ====
-  - [[Page~15|n58 (2)[魫] _(2)Ch(')am_ (cam2); here corrected to _(4)Ch(')am_ (cam4)]]
+  - [[Page~15|n58 ::~~(2){𩵫=⿰冘魚}~~``(2)魫``:: _(2)Ch(')am_ (cam2); here corrected to _(4)Ch(')am_ (cam4)]]
     ==
     - The roe or eggs of fish [[Kangxi: 魚子]];
     - the name of a fish [[Fan Wan: 魚名]].
