@@ -10,10 +10,11 @@ OrdinaryDictionaryReplacement: #.syntax.addition-marker-to-class
 
 RegexDictionaryReplacement: #.syntax.character-headings
 - queue_position: BEFORE #headings
+# TODO: remove \[ \] when eliminated
 * ^[#]{3} (?P<addition_marker> [+]? )
     [ ]
     (?P<headword>
-      \[? \{? (?P<character> \S ) (?: = \S+ \} )? \]?
+      (?: \[ | `` )? \{? (?P<character> \S ) (?: = \S+ \} )? (?: \] | `` )?
     )
     (?P<tone_number> [1-6] ) [ ][|][ ] (?P<reading> .* )
     -->
