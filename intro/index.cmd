@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Introduction.
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 * %meta-description --> Williams' introduction
 
@@ -71,7 +71,7 @@ changes in the finals are here given:---
   //
     ; Court
     ; Canton
-    ; [Court]
+    ; ~~Conrt~~``Court``
     ; Canton.
 |:
   //
@@ -266,7 +266,7 @@ nearly the same meaning as the colloquial word, but of an entirely
 different sound, are adopted, so that even if the reader does not know
 the vulgar sound he will make no mistake as to the sense. Thus,
 the words _(1)hung_ [[hung1]] 烘 to roast, used for _(1)nung_ [[nung1]], to scorch, to scowl;
-_[(2)]hung_ [[hung2]] 孔 a hole, used for _(1)lung_ [[lung1]]; are instances of this mode of adaptation.
+_~~(1)hung~~``(2)hung``_ [[hung2]] 孔 a hole, used for _(1)lung_ [[lung1]]; are instances of this mode of adaptation.
 Lastly, entirely new characters are made for some of them; as
 _lat_ [[lat]] 甪 to detach, _p(a/)ng_ [[baang]] 碰 a knock, which of course have no currency
 in other parts of China, as neither their sound or meaning
@@ -693,7 +693,7 @@ include the terminations in the fourth tone.
     ,
     , (4)t(')oi [[toi4]]
     , (5)t(')oi [[toi5]]
-    , [t]oi(6) [[doi6]]
+    , ~~t(')oi(6)~~``toi(6)`` [[doi6]]
     ,
   //
     , 20
@@ -1009,7 +1009,7 @@ see [vowel shift chart].)
   _K(i/)_,
   like _me_, _flee_.
   A few words beginning with _k_, _p_ and _f_, are
-  frequently heard like the [\[29th\]~final](#final-order-29),
+  frequently heard like the [~~20th~~``29th``~final](#final-order-29),
   as _k(i/)_ 騎, _p(i/)_ 俾, _f(i/)_ 非, _k(i/)_ 己,
   pronounced _k(e/)_, _p(e/)_, _f(e/)_, or _k(e/)_; but this is the exception. Others
   having no initial, as (i/) 二, (i/) 耳 are often heard _ng(i/)_.
@@ -1056,7 +1056,7 @@ see [vowel shift chart].)
 6.{#final-order-6}
   _Tung_, _tuk_,
   like the Irishism _wroong_ for _wrung_, and so nearly
-  _toong_, _took_, that it is [doubtful] whether this final ought not to be
+  _toong_, _took_, that it is ~~doubtfnl~~``doubtful`` whether this final ought not to be
   written _t(u/)ng_, _t(u/)k_; it must never be sounded like the English words
   _sung_, _hung_, _tongue_.
   There are no variants in this final worth noticing.
@@ -1246,7 +1246,7 @@ see [vowel shift chart].)
   A few words properly referred to this final lengthen the vowel into
   _k(a/)m_, _k(a/)p_, like the [24th](#final-order-24), and others
   also are changed into short _e_, as _kem_, _nem_.
-  _(Yum, shup, lăm[,] shăp.)_
+  _(Yum, shup, lăm``,`` shăp.)_
 
   {+++
   --
@@ -1270,9 +1270,9 @@ see [vowel shift chart].)
 19.{#final-order-19}
   _Tsoi_,
   like _boy_, _noise_, _loiter_.
-  The _oi_ in some of the words referred to [in] this final,
-  inclines to _ui_ of the [22d](#final-order-22), as 來 內 台 _lui_, _nui_, _t[(')]ui_,
-  for _loi_, _noi_, _t[(')]oi_, but a little care will easily discriminate
+  The _oi_ in some of the words referred to ``in`` this final,
+  inclines to _ui_ of the [22d](#final-order-22), as 來 內 台 _lui_, _nui_, _~~tui~~``t(')ui``_,
+  for _loi_, _noi_, _~~toi~~``t(')oi``_, but a little care will easily discriminate
   them; most of the words are uniformly sounded.
   _(Toy, suy.)_
 
@@ -1523,7 +1523,7 @@ having no consonant before it.
 18. T(a/) 打 [[_t_ = [t]^]]
 19. T(')oi 台 [[_t(')_ = [tʰ]^]]
 20. Tsing 精 [[_ts_ = [ts]^]]
-21. Ts(')ai [齊] [[_ts(')_ = [tsʰ]^]]
+21. Ts(')ai ~~齋~~``齊`` [[_ts(')_ = [tsʰ]^]]
 22. W(a/) 華 [[_w_ = [w]^]]
 23. Ying 英 [[_y_ = [j]^]]
 ++
@@ -1571,7 +1571,7 @@ give more trouble, perhaps, than the others.
     &c.
   The number of such words is not very
   great, and while the few who speak thus cannot discriminate the
-  [initial] consonant before some vowels, they never interchange them
+  ~~inital~~``initial`` consonant before some vowels, they never interchange them
   before others.
 
 -{#initials-sh-s}
@@ -1650,7 +1650,7 @@ in the following table:---
     , _n(o\), k(o\)m, h(o\)p_.
   //
     , 9.
-    , _u_ as in _bull_, [passing] into _rule_;
+    , _u_ as in _bull_, ~~prassing~~``passing`` into _rule_;
     , _tsun, sut, tung, yuk_.
   //
     , 10.
@@ -1658,7 +1658,7 @@ in the following table:---
     , _k(u/), f(u/)n, p(u/)t_.
   //
     , 11.
-    , _(u:)_ as in French ~~_jeune_~~, _l'une_;
+    , _(u:)_ as in French ~~_jeune_,~~ _l'une_;
     , _s(u:)t, (u:)t_.
   //
     , 12.
@@ -1799,7 +1799,7 @@ following:---
 - _ei_, nearly as in _weigh_,
   but very open, both vowels being heard.
 - _i(a/)_, as in _yard_, _piastre_, both vowels plainly heard.
-- _i(a/)h_, like the last, [but] ending abruptly.
+- _i(a/)h_, like the last, ~~b~t~~``but`` ending abruptly.
 - _i(a/)i_, a triphthong, each letter of which is heard.
 - _i(a/)ng_, like _i(a/)h_, except the final _ng_; both are pronounced broad.
 - _i(a/)u_, _i(e/)_, _ieh_, _ien_, _ih_, _in_, _ioh_, _iueh_, _iuen_, _iuh_, _iun_, and _iung_, are all
@@ -1817,8 +1817,8 @@ represented by Roman letters; there are however only 707 different
 syllables given in this Dictionary, many possible combinations, as
 _kw(o\)m_, _t(a/)ng_, _l(u/)t_, _p(u:)t_,
 _kw(e/)ung_, _f(a/)m_, _foi_, _lon_,
-_shot_, _s(u/)n_, _[wi(u/)]_, &c.,
-not [occurring] in the dialect. The table of all the sounds here given
+_shot_, _s(u/)n_, _~~wi(u:)~~``wi(u/)``_, &c.,
+not ~~occuring~~``occurring`` in the dialect. The table of all the sounds here given
 will show the paucity of different vocables, though it does not
 probably include *all* the variations heard among the people, which
 however most frequently run into other sounds occurring in the table,
@@ -1869,7 +1869,7 @@ according to their own modes of spelling.
 --{.williams}
 The system of writing Chinese sounds here followed, has been
 adopted, with some slight variations, in writing other dialects of
-the language; but it would be a great advantage to all[ ]students in it
+the language; but it would be a great advantage to all`` ``students in it
 if all the modes of spelling the dialects could be harmonized. It is
 not supposed, by this remark, that this one is the best which could
 be proposed, for some features of it could be modified to advantage,
@@ -2024,14 +2024,14 @@ something like the mark used by the Chinese, as here exhibited.
     , _or lower falling ton._
     , _or lower abrupt tone_
   //
-    , [(1)] [[U+A700; these square brackets appear in the original text]]
-    , [(2)] [[U+A702; these square brackets appear in the original text]]
-    , [(3)] [[U+A704; these square brackets appear in the original text]]
-    , [(7)] [[U+A706; these square brackets appear in the original text]]
-    , [(4)] [[U+A701; these square brackets appear in the original text]]
-    , [(5)] [[U+A703; these square brackets appear in the original text]]
-    , [(6)] [[U+A705; these square brackets appear in the original text]]
-    , [(9)] [[U+A707; these square brackets appear in the original text]]
+    , [(1)] [[U+A700]]
+    , [(2)] [[U+A702]]
+    , [(3)] [[U+A704]]
+    , [(7)] [[U+A706]]
+    , [(4)] [[U+A701]]
+    , [(5)] [[U+A703]]
+    , [(6)] [[U+A705]]
+    , [(9)] [[U+A707]]
   //
     , 上平 [[or 陰平]]
     , 上上 [[or 陰上]]
@@ -2114,9 +2114,9 @@ have not even a well known definite term to denote the aspirate, the
 phrase _p(')an h(i/)_ [[pan3 hei3]] 噴氣 being rather of foreign than native origin, and
 one which every native scholar does not understand without some
 explanation. It is represented usually by a Greek spiritus asper
-[ʻ] [[U+02BB; these square brackets appear in the original text]],
-or an inverted comma [‘] [[U+2018; these square brackets appear in the original text]],
-when the former [can] not be obtained,
+[ʻ] [[U+02BB]],
+or an inverted comma [‘] [[U+2018]],
+when the former is not ``to`` be obtained,
 to which some add an _h_ also, as _ch(')hang_, _t(')ho_, _p(')han_, _t(')hik_, but not
 wisely, for there is danger of confounding it with such English
 words as _fan_, _though_, _thick_.
@@ -2134,7 +2134,7 @@ For instance, a native will consider this sentence in the Canton
 dialect 擰一張床呢處, less barbarously pronounced if he
 hears it _(1)ling yet(7) (1)ch(a/)ng (4)ts(')ong (1)n(i/) sh(')(u:)(3)_
 [[ling1 jet1 zaang1 cong4 ni1 syu3]], with all the tones correct,
-than if it should be spoken _ning(6) yat(9) (2)ch(e/)ung ch(')ong(3) n(i/)(3) (1)ch[(')](u:)_
+than if it should be spoken _ning(6) yat(9) (2)ch(e/)ung ch(')ong(3) n(i/)(3) ~~(1)ch(u:)~~``(1)ch(')(u:)``_
 [[ning6 jat6 zoeng2 cong3 ni3 cyu1]], with
 all the tones wrong, which would perhaps be nonsense to him.
 --
@@ -2158,7 +2158,7 @@ the lower series.
     , 貫(3) _k(u/)n_ [[gun3]]
     , 括(8) _k(')(u/)t_ [[kut3]]
   //
-    , (1)般 _[p](u/)n_ [[bun1]]
+    , (1)般 _~~p(')(u/)n~~``p(u/)n``_ [[bun1]]
     , (2)碗 _(u/)n_ [[wun2]]
     , 判(3) _p(')(u/)n_ [[pun3]]
     , 抹(8) _m(u/)t_ [[mut3]]
@@ -2186,7 +2186,7 @@ the lower series.
     , (4)桓 _(u/)n_ [[wun4]]
     ,
     , 悶(6) _m(u/)n_ [[mun6]]
-    , 勃(9) _[p](u/)t_ [[but6]]
+    , 勃(9) _~~p(')(u/)t~~``p(u/)t``_ [[but6]]
   //
     ,
     ,
@@ -2216,7 +2216,7 @@ final, like the following:---
   [[ling5 ding2 jing1 ming4]] 嶺頂鷹鳴
   the eagle is screaming on the hilltop.
 
-- _(1)T[(')](a/)n (1)k(a/)n ng(a/)n(6) (2)f(a/)n_
+- _~~(1)T(a/)n~~``(1)T(')(a/)n`` (1)k(a/)n ng(a/)n(6) (2)f(a/)n_
   [[taan1 gaan1 ngaan6 faan2]] 灘間鴈返
   the geese are gamboling in the rapids.
 
@@ -2224,15 +2224,15 @@ final, like the following:---
   [[fuk1 uk1 luk6 suk1]] 複屋鹿宿
   the deer sleeps in the back shed.
 
-- _(1)P(a/) (1)p(a/) (2)p(a/) (2)p(a/) (4)p[(')](a/) (4)p[(')](a/) t(i/)(6)_
-  [[baa1 baa1 baa2 baa2 paa4 paa4 dei6]] ::爸爸把把[耙耙]地::
+- _(1)P(a/) (1)p(a/) (2)p(a/) (2)p(a/) ~~(4)p(a/) (4)p(a/)~~``(4)p(')(a/) (4)p(')(a/)`` t(i/)(6)_
+  [[baa1 baa1 baa2 baa2 paa4 paa4 dei6]] ::爸爸把把~~笆笆~~``耙耙``地::
   papa rakes the ground with a rake.
 
 - _(5)Yau (4)yau tau(6) (2)tsau (4)k(')au (2)sau shau(6)_
   [[jau5 jau4 dau6 zau2 kau4 sau2 sau6]] 有油荳酒求叟售
   ask the old man to buy my oil, pulse, or wine.
 
-- _(5)K(')au (5)yau tau(6) (2)kau (2)tau, (5)k(')(u:) (1)t(')au tsau(6) [(2)]tsau_
+- _(5)K(')au (5)yau tau(6) (2)kau (2)tau, (5)k(')(u:) (1)t(')au tsau(6) ~~(5)tsau~~``(2)tsau``_
   [[kau5 jau5 dau6 gau2 dau2 keoi5 tau1 zau6 zau2]] 舅有荳九斗佢偷就走
   he stole ten pecks of uncle's beans and ran off.
 
@@ -2289,15 +2289,15 @@ this way, no rules can help him.
 --{.williams}
 This Dictionary is called a Tonic Dictionary, because the characters
 in it are arranged under each syllable, according to their
-tones, beginning with the _sh(e/)ung[(6)] (4)p(')ing (1)shing_ [[soeng6 ping4 sing1]] 上平聲 or upper monotone,
+tones, beginning with the _~~(5)sh(e/)ung~~``sh(e/)ung(6)`` (4)p(')ing (1)shing_ [[soeng6 ping4 sing1]] 上平聲 or upper monotone,
 then the _h(a/)(6) (4)p(')ing (1)shing_ [[haa6 ping4 sing1]] 下平聲  or lower monotone,
-followed by the _sh(e/)ung[(6)] (5)sh(e/)ung_ [[soeng6 soeng5]] 上上,
+followed by the _~~(5)sh(e/)ung~~``sh(e/)ung(6)`` (5)sh(e/)ung_ [[soeng6 soeng5]] 上上,
 and _h(a/)(6) (5)sh(e/)ung_ [[haa6 soeng5]] 下上,
 or upper and lower rising tone,
-the _sh(e/)ung[(6)] h(u:)(3)_ [[soeng6 heoi3]] ::[上]去::, and
+the _~~(5)sh(e/)ung~~``sh(e/)ung(6)`` h(u:)(3)_ [[soeng6 heoi3]] ::~~下~~``上``去::, and
 lastly the _h(a/)(6) h(u:)(3)_ [[haa6 heoi3]] 下去 or upper and lower retiring tone,
 always in this same order. The other two tones,
-the _sh(e/)ung[(6)] yap(9)_ [[soeng6 jap6]] 上入
+the _~~(5)sh(e/)ung~~``sh(e/)ung(6)`` yap(9)_ [[soeng6 jap6]] 上入
 and _h(a/)(6) yap(9)_ [[haa6 jap6]] 下入
 will of course be found under other syllables.
 --
@@ -2438,7 +2438,7 @@ all of them primitives, while the remainder will give less trouble in
 ascertaining the proper radical. About one half (108) of the radicals
 are placed on the right or left of the primitive,---constituting one
 half of the character, and easily recognized. Others, like ⼆, ⼓,
-⼕[,] ⼖, ⼞, ⾏, ⾨ and ⾾ embrace the primitive, and give no
+⼕``,`` ⼖, ⼞, ⾏, ⾨ and ⾾ embrace the primitive, and give no
 trouble. About 40 of them are placed on the top of the primitive,
 a few of which enter into combination with it, as in 奉, 夷, 彝,
 in such a manner as to give some hesitation as to the radical; while
@@ -2460,7 +2460,7 @@ not reckoned. After becoming familiar with the radicals themselves,
 and having a general acquaintance with the primitives, the number
 of strokes can most quickly be ascertained by inspection. For instance,
 the character _m(u/)t(9)_ [[mut6]] 𩱷 [[⿱⿲弓⿰米蔑弓鬲]] rice porridge, found under the radical
-_lik_ [[lik]] ⿀, is made up of 弓, 弓, 米, and [蔑], which severally
+_lik_ [[lik]] ⿀, is made up of 弓, 弓, 米, and ::~~⿳艹𠔿戊~~``蔑``::, which severally
 number 3, 3, 6, and 15~strokes, or 27 in all; the character _(i/)m(6)_ [[jim6]] 灎
 bubbling water, placed under the radical _shui_ [[seoi]] ⽔, is composed
 of 曲, 豆, 去, 皿, numbering 6, 7, 5, and 5~strokes, or 23 in
