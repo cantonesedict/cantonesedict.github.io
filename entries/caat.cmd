@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caat
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -79,10 +79,10 @@ W
     - to cleanse, to scour, to scrub [[Kangxi: 刷淸也]];
     - a card for cotton;
     - to print, as the Chinese do;
-    - _(2)hon [ch(')(a/)t](8)_
+    - _(2)hon ~~sh(a/)t(8)~~``ch(')(a/)t(8)``_
         [[hon2 caat3 刊刷]]
         to cut and print books;
-    - _[ch(')(a/)t](8) (2)ch(')(i/) (2)koi hang(6)_
+    - _~~sh(a/)t(8)~~``ch(')(a/)t(8)`` (2)ch(')(i/) (2)koi hang(6)_
         [[caat3 ci2 goi2 hang6 刷恥改行]]
         to wipe off disgrace by reforming,
     ==
@@ -172,7 +172,6 @@ W
     - _ch(')(a/)t(8) t(u:)t(9)_
         [[caat3 dyut6 察奪]]
         examine and decide [respecting the petition.]
-        [[these square brackets appear in the original text]]
     ==
   ====
 $$
@@ -267,7 +266,7 @@ W
     - _(2)hoi ch(')(a/)t(8)_
         [[hoi2 caat3 海獺]]
         a seal;
-    - _ch(')(a/)t(8) (5)[leng]_
+    - _ch(')(a/)t(8) ~~(5)ling~~``(5)leng``_
         [[caat3 leng5 獺領]],
         seal skin collars or tippets;
     - _ch(')(a/)t(8) (2)tsai_
