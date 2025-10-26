@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cak
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -72,7 +72,7 @@ W
     ==
     - Secret grief, distress [[Kangxi: 痛也]];
     - to pity, to commisserate, to sympathize;
-    - _ch(')ak(7) [(2)]yan (1)ch(i/) (1)sam_
+    - _ch(')ak(7) ~~(4)yan~~``(2)yan`` (1)ch(i/) (1)sam_
         [[cak1 jan2 zi1 sam1 惻隱之心]],
         kind-hearted, humane.
     ==
@@ -119,7 +119,7 @@ W
     - _pat(7) ch(')ak(7)_
         [[bat1 cak1 不測]]
         unexpected;
-    - _(1)[t(')(u/)i] ch(')ak(7)_
+    - _~~(1)t(')ui~~``(1)t(')(u/)i`` ch(')ak(7)_
         [[teoi1 cak1 推測]]
         to explain, to reason;
     - _pat(7) (2)ho ch(')ak(7)_
