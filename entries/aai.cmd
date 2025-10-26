@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aai
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -171,7 +171,7 @@ W
   ====
 C
   ==
-  - Williams' 十嗌九爭銀: "Ten to one" is better rendered as "nine out of ten".
+  - Williams' 十嗌九爭銀: "Ten to one" is perhaps better rendered as "nine out of ten".
   ==
 E
   ====

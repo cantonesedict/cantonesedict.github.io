@@ -227,7 +227,7 @@ consisting of:
    (<span class="williams">black serif text</span>)
    with bullet list formatting for readability;
 
-1. Making corrective edits (or edits to align with modern usage) in the form of
+1. Making (mostly corrective) edits in the form of
    deletions (<span class="williams">~~black serif struck~~</span>)
    and insertions (<span class="williams">``crimson serif underlined``</span>);
 
