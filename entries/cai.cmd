@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2025-08-14
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -105,7 +105,7 @@ W
     - _(4)p(')ing (1)ts(')ai_
         [[ping4 cai1 平妻]],
         equal to a wife, _i.~e._ a concubine;
-    - _[(2)]ts(')(u:) (1)ts(')ai_
+    - _~~ts(')(u:)(3)~~``(2)ts(')(u:)`` (1)ts(')ai_
         [[ceoi2 cai1 娶妻]],
         to take a wife;
     - _(4)(i/)n (1)ts(')ai_
@@ -164,7 +164,7 @@ W
   ====
 $$
 
-### [栖]1 | _(1)Ts(')ai_ [[cai1]]
+### ~~梄~~``栖``1 | _(1)Ts(')ai_ [[cai1]]
 
 $$.
 R
@@ -177,7 +177,7 @@ F
   ==
 W
   ====
-  - [[Page~550 ::(1)棲(1)[栖]^::]]
+  - [[Page~550 ::(1)棲~~(1)梄~~``(1)栖``::]]
     --
     [[Alternative form of 棲. **See $棲cai1 for the canonical entry.**]]
     --
@@ -209,7 +209,7 @@ F
   ==
 W
   ====
-  - [[Page~550 ::(1)棲(1)[栖]^::]]
+  - [[Page~550 ::(1)棲~~(1)梄~~``(1)栖``::]]
     ==
     - To roost, to perch, to nestle [[Kangxi 栖: 日在西方而鳥棲 etc.]] [[Kangxi 棲: 同栖鳥棲也]];
     - to sojourn, to stay at, to reside;
@@ -517,7 +517,7 @@ W
     ==
     - Angry, enraged [[Kangxi: 怒也]];
     - [[...]];
-    - _(1)t(i/)n (1)ch(i/) (1)fong [(4)ts(')ai]_
+    - _(1)t(i/)n (1)ch(i/) (1)fong ~~tsai(3)~~``(4)ts(')ai``_
         [[tin1 zi1 fong1 cai4 天之方懠]]^
         when heaven is angry.
     ==
@@ -543,16 +543,12 @@ W
   ====
   - [[Page~550 (4)蠐]]
     ==
-    - A maggot [[Kangxi: 蠐螬]];
+    - ~~A maggot~~``The scarab beetle grub`` [[Kangxi: 蠐螬]];
     - _(4)ts(')ai (4)ts(')(o\)_
         [[cai4 cou4 蠐螬]],
         a grub, larvæ in mulberry and other trees.
     ==
   ====
-C
-  ==
-  - Williams' "A maggot": Better rendered "scarab beetle grub".
-  ==
 $$
 
 ### 齊4 | _(4)Ts(')ai_ [[cai4]]
