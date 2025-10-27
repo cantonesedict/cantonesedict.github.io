@@ -160,7 +160,7 @@ W
     - _(2)shau (1)ts(')ing_
         [[sau2 cing1 守清]],
         a betrothed girl refusing to marry;
-    - _(1)[ling] (1)ts(')ing_
+    - _~~(1)ning~~ ``(1)ling`` (1)ts(')ing_
         [[ling1 cing1 拎清]],
         taken all away;
     - _(1)ts(')ing (2)k(a/)m_
@@ -169,7 +169,7 @@ W
     - _(1)ts(')ing (2)ch(')o (5)li(u/) l(i/)(6)_
         [[cing1 co2 liu5 lei6 清楚了利]]
         the whole matter is done;
-    - _(1)[ts(')ing] sh(o\)(3)_
+    - _~~ts(')eng~~ ``(1)ts(')ing`` sh(o\)(3)_
         [[cing1 sou3 清數]]
         to settle an account;
     - _sh(o\)(3) (5)m(i/) (4)'m (1)ts(')ing_
@@ -271,7 +271,7 @@ W
     - to admire;
     - to feign, to plead as an excuse;
     - a designation, an appellation, a name;
-    - _tsz'(6) (1)ch(')ing (4)k(')(i/) f(u/)(6) (u:)t[(9)] (1)k(a/) f(u/)(6)_
+    - _tsz'(6) (1)ch(')ing (4)k(')(i/) f(u/)(6) ~~(u:)t(8)~~ ``(u:)t(9)`` (1)k(a/) f(u/)(6)_
         [[zi6 cing1 kei4 fu6 jyut6 gaa1 fu6 自稱其父曰家父]]
         one styles his own father _k(a/)-f(u/)_ [[gaa fu]];
     - _(1)ch(')ing (1)f(u/)_
@@ -374,12 +374,12 @@ W
   ====
   - [[Page~576 (1)蜻 _(1)Tsing_ (zing1); here corrected to _(1)Ts(')ing_ (cing1)]]
     ==
-    - A dragon-fly, called _(1)[ts(')ing] [(4)]t(')ing_ [[cing1 ting4 蜻蜓]],
+    - A dragon-fly, called _~~(1)tsing (1)t(')ing~~ ``(1)ts(')ing (4)t(')ing``_ [[cing1 ting4 蜻蜓]],
       which sips the water [[Kangxi: 蜻蜓蟲]];
     - [[...]];
-    - _(1)[ts(')ing] (4)ling_
-        [[cing1 ling4 蜻蛉]],
-        ~~a kind of locust~~.
+    - _~~(1)tsing~~ ``(1)ts(')ing`` (4)ling_
+        [[cing1 ling4 蜻蛉]]~~,
+        a kind of locust~~.
     ==
   ====
 C
@@ -526,9 +526,9 @@ W
     - _(4)y(e/)ung (1)ts(')ing_
         [[joeng4 cing1 洋青]],
         smalts;
-    - _(1)[ts(')eng] (4)t(')oi_
+    - _~~(1)ts(')ing~~ ``(1)ts(')eng`` (4)t(')oi_
         [[ceng1 toi4 青苔]],
-        mossy, slippery, as stones;
+        ~~mossy, slippery, as stones~~ ``moss``;
     - _(1)ts(')ing (1)t(')(i/)n p(a/)k(9) yat(9)_
         [[cing1 tin1 baak6 jat6 青天白日]]
         a clear bright day;
@@ -651,10 +651,6 @@ W
         to save the people from danger like fire and water.
     ==
   ====
-C
-  ==
-  - Williams' 拯民於水火之中: Better rendered "from amidst water [and] fire".
-  ==
 $$
 
 ###+ 裎2 | _(2)Ch(')ing_ (cing2)
@@ -714,7 +710,7 @@ W
     - to invite, to bid, to engage;
     - to confess, to acknowledge;
     - to inform [[Kangxi: 吿也]];
-    - _(2)ts(')ing [(5)ts(')o]_
+    - _(2)ts(')ing ~~tso(6)~~ ``(5)ts(')o``_
         [[cing2 co5 請坐]]^
         please be seated;
     - _(2)ts(')eng (2)tsau_
@@ -735,7 +731,7 @@ W
     - _(2)ts(')eng (5)li(u/)_
         [[ceng2 liu5 請了]],
         has been invited;
-    - _(2)ts(')eng (1)s(i/)n (1)[sh(a/)ng]_
+    - _(2)ts(')eng (1)s(i/)n ~~(1)shang~~ ``(1)sh(a/)ng``_
         [[ceng2 sin1 saang1 請先生]],
         to engage a teacher;
     - _(2)ts(')ing (4)ch(')(a/)_
@@ -768,7 +764,7 @@ W
         thank you;
         good bye;
         (the word _chin-chin_ is derived from this phrase;)
-    - _(2)ts(')eng h(u:)(3) shik(9) f(a/)n[(6)]_
+    - _(2)ts(')eng h(u:)(3) shik(9) ~~f(a/)n(3)~~ ``f(a/)n(6)``_
         [[ceng2 heoi3 sik6 faan6 請去食飯]]
         invited out to dine.
     ==
@@ -785,6 +781,7 @@ C
     than a second-person request.
   - Williams' 請問: More a second-person interrogative
     than a third-person indicative.
+  - Williams' 請去食飯: Corrected _f(a/)n(3)_ (faan3) to _f(a/)n(6)_ (faan6).
   ==
 S
   ==
@@ -819,7 +816,7 @@ W
     - _(2)ch(')ing (1)kung (4)nang_
         [[cing2 gung1 nang4 逞功能]],
         confident of one's power;
-    - _pat(7) (2)ch(')ing (1)ch(i/) (4)[t(')(o\)]_
+    - _pat(7) (2)ch(')ing (1)ch(i/) ~~(4)^t(o\)~~ ``(4)t(')(o\)``_
         [[bat1 cing2 zi1 tou4 不逞之徒]],
         a reckless rascal;
     - _(2)ch(')ing (2)p(u/)n sz'(6)_
@@ -910,7 +907,7 @@ W
     - _ch(')ing(3) (1)kon_
         [[cing3 gon1 秤桿]],
         the beam;
-    - _ch(')ing(3) (1)[ngau]_
+    - _ch(')ing(3) ~~(1)kau~~ ``(1)ngau``_
         [[cing3 ngau1 秤鉤]],
         the hook;
     - _(1)sz' (5)m(a/) ch(')ing(3)_
@@ -1038,7 +1035,7 @@ W
     - to present a petition or statement;
     - to offer, to present to;
     - to state to;
-    - to show, ~~to discover~~ [[Kangxi: 示也見也, 露也]];
+    - to show, to ~~discover~~ ``reveal`` [[Kangxi: 示也見也, 露也]];
     - _(4)ch(')ing (5)sh(e/)ung_
         [[cing4 soeng5 呈上]],
         to inform another;
@@ -1054,7 +1051,7 @@ W
     - _(4)ch(')ing (2)pan_
         [[cing4 ban2 呈稟]],
         to hand up a petition;
-    - _(4)ch(')ing (2)[tsz']_
+    - _(4)ch(')ing ~~(2)sz'~~ ``(2)tsz'``_
         [[cing4 zi2 呈子]]^
         a petition;
     - _(4)ch(')ing t(i/)n(6)_
@@ -1185,7 +1182,7 @@ W
     - _(4)m(o\) (4)ts(')oi (4)ts(')ing_
         [[mou4 coi4 cing4 無才情]],
         inapt, stolid;
-    - _(4)[ts(')ing] (4)yau_
+    - _~~(4)ts(')eng~~ ``(4)ts(')ing`` (4)yau_
         [[cing4 jau4 情由]],
         circumstances or causes of a thing;
     - _(1)sz' (4)ts(')ing_
@@ -1241,7 +1238,7 @@ W
         an admonitory hint;
     - _(4)ch(')ing ch(i/)(6)_
         [[cing4 zi6 懲治]]
-        to govern strictly.
+        to ~~govern strictly~~ ``punish``.
     ==
   ====
 C
@@ -1356,7 +1353,7 @@ W
   ====
   - [[Page~20* (4)程]]
     ==
-    - ~~The 1⁄100th part of a _ts(')(u:)n(3)_ [[cyun3 寸]] [[Kangxi: ::[...]十程爲分十分爲寸::]]~~;
+    - ~~The 1⁄100th part of a _ts(')(u:)n(3)_ [[cyun3 寸]] [[Kangxi: ::[...]十程爲分十分爲寸::]];~~
     - a portion or percentage;
     - a rule, a pattern, a regulation [[Kangxi: 式也]], to rule;
     - a limit, a period [[Kangxi: 期也, 限也]];
@@ -1394,11 +1391,11 @@ W
         nothing to compare it to;
     - _(2)kau (4)ch(')ing (2)kau (1)t(o\) (5)yau_
         [[gau2 cing4 gau2 dou1 jau5 九程九都有]],
-        most probably, ten to one it will;
+        most probably, ~~ten to one~~ ``nine times out of nine`` it will;
     - _yat(7) (4)ch(')ing_
         [[jat1 cing4 一程]],
         a tenth;
-    - _tak[(7)] (1)f(a/)n (2)kau (4)ch(')ing p(u/)n(3)_
+    - _~~tak(9)~~ ``tak(7)`` (1)f(a/)n (2)kau (4)ch(')ing p(u/)n(3)_
         [[dak1 faan1 gau2 cing4 bun3 得返九程半]]
         got back 95~per cent.;
     - _pat(7) (4)ch(')ing (4)k(')(i/) lik(9)_
@@ -1410,7 +1407,6 @@ C
   ==
   - Williams' "1⁄100th part [...]": According to 段玉裁's annotations of 《說文》,
     十程爲分 should be 一程爲分. This makes 程 a tenth of a 寸.
-  - Williams' 九程九都有: Better rendered "nine out of nine" than "ten to one".
   - Williams' 得返九程半: Corrected _tak(9)_ (dak6) to _tak(7)_ (dak1).
   ==
 P
@@ -1439,7 +1435,7 @@ W
     - naked [[Kangxi: 倮也]];
     - to disrobe one's self;
     - a girdle [[Kangxi: 佩紟謂之裎, 裎佩帶也]];
-    - _[(2)]lo (4)ch(')ing_
+    - _~~(5)lo~~ ``(2)lo`` (4)ch(')ing_
         [[lo2 cing4 裸裎]],
         naked.
     ==
