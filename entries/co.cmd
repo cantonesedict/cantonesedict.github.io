@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> co
-* %date-modified --> 2025-07-30
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -126,7 +126,7 @@ W
     - _(1)ch(')o (4)t(')au f(a/)t(8) shai(3)_
         [[co1 tau4 faat3 sai3 初頭發勢]]^
         a great show at starting;
-    - _[(1)]ch(')o (4)loi p(o\)(6) t(o\)(3)_
+    - _~~(4)ch(')o~~ ``(1)ch(')o`` (4)loi p(o\)(6) t(o\)(3)_
         [[co1 loi4 bou6 dou3 初來步到]]
         unacquainted with things;
     - _(1)ch(')o ts(o\)(6)_
@@ -134,7 +134,7 @@ W
         to begin;
     - _(1)ch(')o (1)shang_
         [[co1 sang1 初生]],
-        a first-born;
+        a ~~first-born~~ ``newborn``;
     - _(1)ch(')o (4)ts(')un_
         [[co1 ceon4 初旬]],
         the first decade;
@@ -151,7 +151,6 @@ C
   - Williams' "To cut out garments": Specifically, the beginning of producing clothes.
   - Williams' 初間, 初旬, 初幾: Here, "decade" means ten days.
   - Williams' 初來步到: Corrected _(4)ch(')o_ (co4) to _(1)ch(')o_ (co1).
-  - Williams' 初生: More newborn than firstborn.
   ==
 E
   ====
@@ -475,7 +474,7 @@ W
     ==
     - A chick, a fledgeling [[Kangxi: 雞子也]];
     - the callow young of birds;
-    - _[(1)]ch(')o (1)kai_
+    - _~~(4)ch(')o~~ ``(1)ch(')o`` (1)kai_
         [[co1 gai1 雛雞]],
         a chicken.
     ==
@@ -599,7 +598,7 @@ S
   ==
 $$
 
-### [礎]2 | _(2)Ch(')o_ [[co2]]
+### ~~{？=⿰石⿱林⿱冖⿱一龰}~~``礎``2 | _(2)Ch(')o_ [[co2]]
 
 $$
 R
@@ -610,17 +609,13 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~26* ::(2)[礎]^::]]
+  - [[Page~26* ::~~(2){？=⿰石⿱林⿱冖⿱一龰}~~``(2)礎``::]]
     ==
     - The stone base of a pillar or column [[Kangxi: 柱下石, 礩也]];
     - a pedestal;
     - a plinth.
     ==
   ====
-C
-  ==
-  - Williams misprints 礎 as ⿰石⿱林⿱冖⿱一龰; here corrected.
-  ==
 $$
 
 ###+ 脞2 | _(2)Ts(')o_ (co2)
@@ -828,7 +823,7 @@ W
     - _(5)m(o\) ts(')o(3)_
         [[mou5 co3 冇錯]]
         no mistake, right;
-    - _ts(')o(3) [(1)]ng(a/)m_
+    - _ts(')o(3) ~~(5)ng(a/)m~~ ``(1)ng(a/)m``_
         [[co3 ngaam1 錯啱]],
         a lucky hit, an error which is fortunate;
     - _(4)'m ying(6) ts(')o(3)_
@@ -849,6 +844,7 @@ C
   ==
   - The classical reading of the "erroneous" and "mixed" senses
     is entering-tone _ts(')ok(8)_ (cok3).
+  - Williams' 錯啱: Corrected _(5)ng(a/)m_ (ngaam5) to _(1)ng(a/)m_ (ngaam1).
   ==
 E
   ====
@@ -916,7 +912,7 @@ S
   ==
 $$
 
-### 鉏4 | _[(4)]Ch(')o_ [[co4]]^
+### 鉏4 | _~~(5)Ch(')o~~ ``(4)Ch(')o``_ [[co4]]^
 
 $$.
 R
@@ -930,7 +926,7 @@ F
   ==
 W
   ====
-  - [[Page~26* ::[(4)]鉏[(4)]鋤::]]
+  - [[Page~26* ::~~(5)鉏(5)鋤~~``(4)鉏(4)鋤``::]]
     --
     [[Alternative form of 鋤. **See $鋤co4 for the canonical entry.**]]
     --
@@ -938,11 +934,10 @@ W
 C
   ==
   - Fan Wan entry: The supplied dissection 冲所切 is incorrect.
-  - Williams misprints (4)鉏(4)鋤 as (5)鉏(5)鋤; here corrected.
   ==
 $$
 
-### 鋤4 | _[(4)]Ch(')o_ [[co4]]^
+### 鋤4 | _~~(5)Ch(')o~~ ``(4)Ch(')o``_ [[co4]]^
 
 $$
 R
@@ -960,7 +955,7 @@ F
   ==
 W
   ====
-  - [[Page~26* ::[(4)]鉏[(4)]鋤::]]
+  - [[Page~26* ::~~(5)鉏(5)鋤~~``(4)鉏(4)鋤``::]]
     ==
     - A hoe, a mattoc [[Kangxi 鉏: 立薅所用也, 助也去穢助苗也]];
     - to hoe, to cultivate [[Kangxi 鉏: 治田也]];
@@ -975,7 +970,6 @@ W
 C
   ==
   - Fan Wan entry: The supplied dissection 冲所切 is incorrect.
-  - Williams misprints (4)鉏(4)鋤 as (5)鉏(5)鋤; here corrected.
   ==
 E
   ====
