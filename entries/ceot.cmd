@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceot
-* %date-modified --> 2025-09-05
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -68,7 +68,7 @@ W
       according to the tenor of the following or preceding word;
     - to eject, to put out;
     - an auxiliary verb, implying completion or action;
-    - _ch(')ut(7) yap[(9)]_
+    - _ch(')ut(7) ~~yap(7)~~ ``yap(9)``_
         [[ceot1 jap6 出入]]
         to go in and out, back and forth;
     - _(2)s(e/) ch(')ut(7) (4)loi_
@@ -92,10 +92,10 @@ W
     - _ch(')ut(7) (1)shan_
         [[ceot1 san1 出身]],
         to hold office;
-    - _ch(')ut(7) (4)yau [(4)p(')(o\)] s(a/)t(8)_
+    - _ch(')ut(7) (4)yau ~~p(o\)(6)~~ ``(4)p(')(o\)`` s(a/)t(8)_
         [[ceot1 jau4 bou6 saat3 出遊菩薩]]
         to carry idols in procession;
-    - _ch(')ut(7) [(4)k(')(i/)]_
+    - _ch(')ut(7) ~~(1)k(i/)~~ ``(4)k(')(i/)``_
         [[ceot1 kei4 出奇]],
         surprising;
     - _ch(')ut(7) p(')i(u/)(3)_
@@ -109,7 +109,7 @@ W
         to take the lead;
     - _ch(')ut(7) (2)ch(')au_
         [[ceot1 cau2 出醜]],
-        to be despised;
+        to ~~be despised~~ ``make a fool of oneself``;
     - _ch(')ut(7) (1)ts(')ai_
         [[ceot1 cai1 出妻]],
         to divorce;
@@ -128,7 +128,7 @@ W
     - _ch(')ut(7) (4)ngan_
         [[ceot1 ngan4-2 出銀]],
         to pay;
-    - _pat(7) ch(')ut(7) (2)sho li(u/)[(6)]_
+    - _pat(7) ch(')ut(7) (2)sho ~~li(u/)(3)~~ ``li(u/)(6)``_
         [[bat1 ceot1 so2 liu6 不出所料]]
         to guess aright.
     ==
@@ -139,7 +139,6 @@ C
   - Williams' 出恭: That is, to go to the toilet.
   - Williams' 出遊菩薩: Corrected _p(o\)(6)_ (bou6) to _(4)p(')(o\)_ (pou4).
   - Williams' 出奇: Corrected _(1)k(i/)_ (gei1) to _(4)k(')(i/)_ (kei4).
-  - Williams' 出醜: Better rendered "to make a fool of oneself".
   - Williams' 不出所料: Corrected _li(u/)(3)_ (liu3) to _li(u/)(6)_ (liu6).
   ==
 P
