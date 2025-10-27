@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cik
-* %date-modified --> 2025-08-14
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -168,7 +168,7 @@ W
     - to compassionate, to pity;
     - mournful, sorry [[Kangxi: 哀也]];
     - angry [[Kangxi: 憤也]], aroused, vexed [[Kangxi: 憂也, 惱也]];
-    - deformed, ~~marked in any way~~ [[Kangxi: 醜疾人曰戚施]];
+    - deformed~~, marked in any way~~ [[Kangxi: 醜疾人曰戚施]];
     - near, related to, dear to [[Kangxi: 戚近也]];
     - relatives [[Kangxi: 親也]];
     - _(1)ts(')an ts(')ik(7)_
@@ -451,7 +451,7 @@ W
     - [[...]];
     - to pry into, to overhear [[Kangxi: 偵伺也]];
     - [[...]];
-    - _[ts(')ik(8)] [ts(')ik(8)]_
+    - _~~ts(')z'(3) ts(')z'(3)~~ ``ts(')ik(8) ts(')ik(8)``_
         [[cik3 cik3 刺刺]]
         to talk much [[Kangxi: 刺刺多言貌]].
     ==
