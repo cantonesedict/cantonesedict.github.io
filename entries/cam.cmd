@@ -192,7 +192,7 @@ W
   ====
   - [[Page~552 (1)葠]]
     --
-    Used for _(1)sham_ [[sam1]] 參 ginseng, ~~but erroneously~~.
+    Used for _(1)sham_ [[sam1]] 參 ginseng~~, but erroneously~~.
     --
   ====
 C

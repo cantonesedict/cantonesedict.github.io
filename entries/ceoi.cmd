@@ -810,7 +810,7 @@ W
   ====
   - [[Page~609 啐(8) _Ts(u:)t(8)_ (zyut3); here corrected to _Ts(')(u/)i(3)_ (ceoi3)]]
     ==
-    - To taste [[Kangxi: 嘗也, 嘗入口]], ~~to craunch~~;
+    - To taste [[Kangxi: 嘗也, 嘗入口]]~~, to craunch~~;
     - [[...]].
     ==
   ====
@@ -1576,7 +1576,7 @@ W
     - _(4)k(')(u:) (4)ch(')(u:)_
         [[keoi4 ceoi4 籧篨]],
         a coarse mat;
-        _met._ a bad ailment, repulsive [[Kangxi: 醜疾名]], ~~hunchbacked~~.
+        _met._ a bad ailment, repulsive [[Kangxi: 醜疾名]]~~, hunchbacked~~.
     ==
   ====
 C

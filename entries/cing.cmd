@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2025-08-14
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -346,7 +346,7 @@ W
   - [[Page~576 (1)菁 _(1)Tsing_ (zing1); here corrected to _(1)Ts(')ing_ (cing1)]]
     ==
     - [[...]];
-    - flowery, ~~elegant~~, flourishing [[Kangxi: 菁菁花盛貌]];
+    - flowery, ~~elegant,~~ flourishing [[Kangxi: 菁菁花盛貌]];
     - [[...]].
     ==
   ====

@@ -478,11 +478,11 @@ W
   - [[Page~16|n59 懺(3)]]
     ==
     - Irregular, disorderly [[Kangxi: 儳互不齊也]], as undrilled troops [[Kangxi: 師次不整]];
-    - ~~unequal~~, uneven [[Kangxi: 亦不齊也]];
+    - ~~unequal,~~ uneven [[Kangxi: 亦不齊也]];
     - _(4)l(a/)m ch(')(a/)m(3)_
         [[laam4 caam3 儖儳]]
         ugly [[Kangxi: 惡貌]];
-    - confused, disorderly, ~~sulky~~.
+    - confused, disorderly~~, sulky~~.
     ==
   ====
 C
