@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cin
-* %date-modified --> 2025-08-24
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -245,7 +245,7 @@ W
     - _(1)ts(')(i/)n (1)k(u:)_
         [[cin1 geoi1 遷居]],
         to change one's lodgings;
-    - _[(a/)t](8) (1)ts(')(i/)n_
+    - _~~(a/)p(8)~~ ``(a/)t(8)`` (1)ts(')(i/)n_
         [[aat3 cin1 押遷]],
         to eject, as a tenant;
     - _(2)tso (1)ts(')(i/)n_
@@ -656,7 +656,7 @@ W
     - _(4)ch(')(i/)n ch(u:)(6)_
         [[cin4 zyu6 纏住]]
         importunate, to bother;
-    - _(1)[ch(')(i/)] (4)ch(')(i/)n_
+    - _~~(1)ch(')i~~ ``(1)ch(')(i/)`` (4)ch(')(i/)n_
         [[ci1 cin4 癡纏]],
         troublesome, to annoy.
     ==
@@ -745,7 +745,7 @@ W
     - _(2)ch(a/)u (4)ts(')(i/)n_
         [[zaau2 cin4 找錢]],
         to exchange into cash;
-    - _(2)k(i/) (4)ts(')(i/)n [(5)ch(')ung]_
+    - _(2)k(i/) (4)ts(')(i/)n ~~chung(6)~~ ``(5)ch(')ung``_
         [[gei2 cin4 cung5 幾錢重]]^
         how many mace does it weigh?
     - _fong(3) l(o\)(6) (4)ts(')(i/)n_
@@ -757,7 +757,7 @@ W
     - _l(a/)n(6) (4)ts(')(i/)n_
         [[laan6 cin4 爛錢]],
         bad cash;
-    - _(4)ts(')(i/)n (2)p(a/)n k(o\)m(3) [(5)]hau_
+    - _(4)ts(')(i/)n (2)p(a/)n k(o\)m(3) ~~hau(6)~~ ``(5)hau``_
         [[cin4 baan2 gam3 hau5 錢板咁厚]]^
         thick as a cash board;
     - _l(i/)(6) (4)ts(')(i/)n_
@@ -873,16 +873,16 @@ W
     - To tread upon [[Kangxi: 履也]], to trample on or over [[Kangxi: 踐蹋也, 踐殘也使殘壞也]];
     - ~~to walk,~~ to step;
     - ~~to arrange out;~~
-    - _[(5)ts(')(i/)n] (4)(i/)n_
+    - _~~ts(i/)n(6)~~ ``(5)ts(')(i/)n`` (4)(i/)n_
         [[cin5 jin4 踐言]],
         to fulfill one's promise;
-    - _[(5)ts(')(i/)n] t(a/)p(9)_
+    - _~~ts(i/)n(6)~~ ``(5)ts(')(i/)n`` t(a/)p(9)_
         [[cin5 daap6 踐踏]]
         to tread down or in;
-    - _[(5)ts(')(i/)n] k(u:)(3)_
+    - _~~ts(i/)n(6)~~ ``(5)ts(')(i/)n`` k(u:)(3)_
         [[cin5 geoi3 踐？]]
         to tread down the heels;
-    - _[(5)ts(')(i/)n] wai(6)_
+    - _~~ts(i/)n(6)~~ ``(5)ts(')(i/)n`` wai(6)_
         [[cin5 wai6 踐位]]
         to ascend the throne;
         to walk in another's steps.
