@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2025-09-06
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -101,7 +101,7 @@ W
     - _(1)ts(')(u/)i (5)k(')(u:) f(a/)i(3) tik(7)_
         [[ceoi1 keoi5 faai3 dik1 催佢快滴]]
         hurry him on a little;
-    - _[fat](9) k(a/)i(3) (2)tsau (1)ts(')(u/)i_
+    - _~~f(a/)t(9)~~``fat(9)`` k(a/)i(3) (2)tsau (1)ts(')(u/)i_
         [[fat6 gaai3 zau2 ceoi1 乏价走催]],
         I've no servant to send to hasten you --- a phrase on invitation cards;
     - _(2)h(i/) shai(3) k(o\)m(3) (1)ts(')(u/)i_
@@ -293,10 +293,10 @@ W
     - to break [[Kangxi: 一曰折也]], as the wind does trees;
     - to reach [[Kangxi: 摧詹至也]];
     - to put out, to extinguish, as a family [[Kangxi: 滅也]];
-    - _[(1)]ts(')(u/)i yik(7)_
+    - _~~(4)ts(')(u/)i~~``(1)ts(')(u/)i`` yik(7)_
         [[ceoi1 jik1 摧抑]]
         to abate, to put down;
-    - _[(1)]ts(')(u/)i ch(i/)t(8)_
+    - _~~(4)ts(')(u/)i~~``(1)ts(')(u/)i`` ch(i/)t(8)_
         [[ceoi1 zit3 摧折]]
         to break off by pushing against.
     ==
@@ -424,7 +424,7 @@ W
     ==
     - Maggots in putrid flesh [[Kangxi: 肉中蟲也]];
     - flyblows, eggs of flies [[Kangxi: 蠅乳]];
-    - _(1)[sh(a/)ng] (1)ts(')(u:)_
+    - _~~(1)shang~~``(1)sh(a/)ng`` (1)ts(')(u:)_
         [[saang1 ceoi1 生蛆]],
         it has bred worms;
     - _s(u:)t(8) (1)ts(')(u:)_
@@ -582,7 +582,7 @@ W
         not needed, unfit;
     - _(2)ts(')(u:) chung(3)_
         [[ceoi2 zung3 取中]]
-        promoted, chosen, selected[;]
+        promoted, chosen, selected``;``
     - _t(a/)i(6) (5)yau (2)ho (2)ts(')(u:)_
         [[daai6 jau5 ho2 ceoi2 大有可取]],
         estimable, one who is liked;
@@ -594,8 +594,7 @@ W
         brought in;
     - _t(')(a/)m(3) (4)nong (2)ts(')(u:) mat(9)_
         [[taam3 nong4 ceoi2 mat6 探囊取物]]
-        [as easy as] [[these square brackets appear in the original text]]
-        taking cash out of the purse;
+        [as easy as] taking cash out of the purse;
     - _sok(8) (2)ts(')(u:)_
         [[sok3 ceoi2 索取]],
         to beg earnestly for, as a loan;
@@ -664,20 +663,20 @@ W
     ==
     - To marry a woman with the legal ceremonies [[Kangxi: ::[取]婦也::]];
     - a marriage;
-    - _[(2)]ts(')(u:) (1)ts(')ai_ [[ceoi2 cai1 娶妻]],
+    - _~~ts(')(u:)(3)~~``(2)ts(')(u:)`` (1)ts(')ai_ [[ceoi2 cai1 娶妻]],
         or
-      _[(2)]ts(')(u:) (5)l(o\) (4)p(')o_ [[ceoi2 lou5 po4 娶老婆]],
+      _~~ts(')(u:)(3)~~``(2)ts(')(u:)`` (5)l(o\) (4)p(')o_ [[ceoi2 lou5 po4 娶老婆]],
         to take a wife;
-    - _[(2)]ts(')(u:) (1)san (5)f(u/)_ [[ceoi2 san1 fu5 娶新婦]]^
+    - _~~ts(')(u:)(3)~~``(2)ts(')(u:)`` (1)san (5)f(u/)_ [[ceoi2 san1 fu5 娶新婦]]^
         or
-      _(2)[ts(')(u:)] (1)[san1] (5)p(')(o\)_ [[ceoi2 san1 pou5 娶新婦]],
-        ~~[somebody] marrying~~;
-    - _(4)wing [(2)]ts(')(u:) (4)'m (4)ts(')ang_
+      _~~ts(')(u:)(3)~~``(2)ts(')(u:)`` ~~(1)sam~~``(1)san1`` (5)p(')(o\)_ [[ceoi2 san1 pou5 娶新婦]],
+        ~~somebady~~``a son`` marrying;
+    - _(4)wing ~~ts(')(u:)(3)~~``(2)ts(')(u:)`` (4)'m (4)ts(')ang_
         [[wing4 ceoi2 m4 cang4 榮娶唔曾]],
-        have you been married yet?
-    - _[(2)]ts(')(u:) ts(')(i/)p(8)_ [[ceoi2 cip3 娶妾]]
+        have you ~~been married~~``taken a wife`` yet?
+    - _~~ts(')(u:)(3)~~``(2)ts(')(u:)`` ts(')(i/)p(8)_ [[ceoi2 cip3 娶妾]]
         or
-      _[(2)]ts(')(u:) (1)p(')(i/)n (4)fong_ [[ceoi2 pin1 fong4 娶偏房]],
+      _~~ts(')(u:)(3)~~``(2)ts(')(u:)`` (1)p(')(i/)n (4)fong_ [[ceoi2 pin1 fong4 娶偏房]],
         to take a concubine home to one.
     ==
   ====
@@ -686,10 +685,6 @@ C
   - Williams' 娶新婦 (second occurrence):
     Corrected _(2)ts(')(o\)_ (cou2) to _(2)ts(')(u:)_ (ceoi2)
     and corrected _(1)sam_ (sam1) to _(1)san_ (san1).
-    Not somebody marrying, but to take a daughter-in-law.
-  - Williams' 榮娶唔曾: Bettered rendered "have you married"
-    rather than "have you been married".
-    The verb 娶 is only used for a man taking a wife.
   ==
 S
   ==
@@ -922,13 +917,12 @@ W
         the kingfisher's feathers;
     - _ts(')ui(3) shik(7)_
         [[ceoi3 sik1 翠色]]
-        ~~a purplish blue~~.
+        a ~~purplish blue~~ ``jade-like green``.
     ==
   ====
 C
   ==
   - Fan Wan entry: Corrected 日 to 曰.
-  - Williams' 翠色: More cyan or green, especially jade-like green.
   ==
 $$
 
@@ -1274,7 +1268,7 @@ W
     ==
     - A kitchen, a cook-room [[Kangxi: 庖屋也]];
     - a slaughter-house;
-    - a quiver [[Kangxi 廚: 櫝也]];
+    - a ~~quiver~~ ``box or cabinet`` [[Kangxi 廚: 櫝也]];
     - _(4)ch(')(u:) (4)yan_ [[cyu4 jan4 廚人]]^
         or
       _(4)ch(')(u:) (1)k(u/)n_ [[cyu4 gun1 廚官]],
@@ -1293,7 +1287,6 @@ W
 C
   ==
   - Fan Wan entry: Normalised headword {𢊍=⿸广⿰豆寸} to 厨.
-  - Williams' "quiver": Better rendered "box" or "cabinet".
   ==
 S
   ==
@@ -1478,13 +1471,13 @@ W
     - _(2)t(a/) (1)chong (4)ch(')ui_
         [[daa2 zong1 ceoi4 打樁槌]],
         a pile-hammer;
-    - _(4)lui (4)ch(')ui_
+    - _~~(4)lui~~``(4)l(u/)i`` (4)ch(')ui_
         [[leoi4 ceoi4 擂槌]],
         a triturating pestle;
         _met._ large fingers;
     - _(4)ch(')ui p(u/)i(3)_
         [[ceoi4 bui3 槌背]]
-        to shampoo[.]
+        to shampoo``.``
     ==
   - [[Page~34* (4)搥]]
     --
@@ -1630,7 +1623,7 @@ S
   ==
 $$
 
-### [躕]4 | _(4)Ch(')(u:)_ [[ceoi4]]
+### ~~{𨆼=⿰𧾷㕑}~~``躕``4 | _(4)Ch(')(u:)_ [[ceoi4]]
 
 $$
 R
@@ -1699,7 +1692,7 @@ W
     - _(4)w(a/)ng (4)ch(')ui_
         [[waang4 ceoi4 橫錘]],
         a side blow;
-    - _yat[(7)] (4)ch(')ui (2)t(a/) (2)t(o\)_
+    - _yat``(7)`` (4)ch(')ui (2)t(a/) (2)t(o\)_
         [[jat1 ceoi4 daa2 dou2 一錘打倒]],
         felled him with a blow;
     - _(4)ch(')ui l(a/)n(6)_
