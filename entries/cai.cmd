@@ -182,10 +182,6 @@ W
     [[Alternative form of 棲. **See $棲cai1 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - Williams misprints 栖 as 梄; here corrected.
-  ==
 $$
 
 ### 棲1 | _(1)Ts(')ai_ [[cai1]]

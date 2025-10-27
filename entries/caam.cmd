@@ -125,7 +125,6 @@ W
 C
   ==
   - Fan Wan entry: Corrected ⿰阝頁 to 預.
-  - Williams misprints 叅 as ⿳厽𠆢氺; here corrected.
   ==
 S
   ==
@@ -153,10 +152,6 @@ W
     [[Alternative form of 參. **See $參caam1 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - Williams misprints 叅 as ⿳厽𠆢氺; here corrected.
-  ==
 $$
 
 ###+ 攙1 | _(1)Ch(')(a/)m_ (caam1)

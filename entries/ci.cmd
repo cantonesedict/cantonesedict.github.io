@@ -3139,10 +3139,6 @@ W
         an old lady---a term used by the young.
     ==
   ====
-C
-  ==
-  - Williams misprints (5)姒 as (2)姒; here corrected.
-  ==
 $$
 
 ###+ 柿5 | _(5)Ts(')z'_ (ci5)

@@ -140,10 +140,6 @@ W
     [[Reading variation. **See $愀ciu2 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - Williams misprints 愀 as 愁; here corrected.
-  ==
 S
   ==
   - $愀ciu2

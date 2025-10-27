@@ -801,7 +801,6 @@ C
   ====
   - The reading _(4)ch(')am_ (cam4) is not unattested;
     《集韻》 has the reading 持林切, explained 魚子也.
-  - Williams misprints 魫 as {𩵫=⿰冘魚}; here corrected.
   - Williams' placement under _(2)Ch(')am_ (cam2) is erroneous
     because it does not follow any of the following:
     ==
@@ -809,7 +808,7 @@ C
     - _(4)ch(')am_ (cam4) per 《集韻》持林切.
     - _(2)sham_ (sam2) per 《廣韻》式任切 rising.
     ==
-    It is possible that Williams has simply misprinted (4)魫 as (2)魫,
+    It is possible that Williams has simply misprinted (4) as (2),
     in which case _(4)ch(')am_ (cam4) is intended.
   ====
 $$

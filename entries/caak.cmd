@@ -281,7 +281,6 @@ W
   ====
 C
   ==
-  - Williams misprints 拆(8) as 拆(9); here corrected.
   - Williams' 拆散:
     Note the subtle difference between the two readings
     _ch(')(a/)k(8) s(a/)n(3)_ (caak3 saan3) "scatter" and

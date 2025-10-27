@@ -222,10 +222,6 @@ W
         the varnish tree.
     ==
   ====
-C
-  ==
-  - Williams misprints 漆 as ⿰氵⿱來氺; here corrected.
-  ==
 $$
 
 
