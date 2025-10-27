@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2025-10-18
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -183,10 +183,10 @@ W
     - _(1)ch(')(e/) (1)f(u/)_
         [[ce1 fu1 車夫]],
         a charioteer;
-    - _(1)ch(')(e/) [(2)]m(e/)_
+    - _(1)ch(')(e/) ~~(4)m(e/)~~``(2)m(e/)``_
         [[ce1 me2 車歪]],
         a teetotum;
-    - _(1)ch(')(e/) [(2)]m(e/) k(o\)m(3) ch(u:)n[(3)]_
+    - _(1)ch(')(e/) ~~(4)m(e/)~~``(2)m(e/)`` k(o\)m(3) ~~(2)ch(u:)n~~``ch(u:)n(3)``_
         [[ce1 me2 gam3 zyun3 車歪咁轉]],
         fidgetty as a teetotum;
     - _(1)ch(')(e/) (4)lun_
@@ -258,11 +258,11 @@ W
     - also, and also [[Kangxi: 又也]];
     - thus, so [[Kangxi: 此也]];
     - still, yet;
-    - ~~a word of doubt~~, if, should [[Kangxi: 借曰之辭]];
+    - ~~a word of doubt,~~ if, should [[Kangxi: 借曰之辭]];
     - _(4)hang (2)ch(')(e/)_
         [[hang4 ce2 行且]],
         on the point of being;
-    - _(2)ch(')(e/) [sun](3) (2)ch(')(e/) (4)(i/)_
+    - _(2)ch(')(e/) ~~san(3)~~``sun(3)`` (2)ch(')(e/) (4)(i/)_
         [[ce2 seon3 ce2 ji4 且信且疑]],
         half believing, half doubting;
     - _f(u/)(3) (2)ch(')(e/) kwai(3)_
@@ -291,7 +291,7 @@ C
     Notwithstanding, this is all academic given the initials _ts(')_ and _ch(')_ are now considered merged.
   - Williams' "a word of doubt": This is an attempt at rendering Kangxi 未定之辭.
     A better rendering is "[a] word [indicating] uncertainness".
-    Note that it is a separate sense to subjunctive "if", "should".
+    Note that this is a separate sense to subjunctive "if", "should".
   - Williams' 且信且疑: Corrected _san(3)_ (san3) to _sun(3)_ (seon3).
   - Williams' 且慢: Not an adverbial "soon" or "shortly", but an imperative "slow down" or "hang on".
   ==
@@ -321,7 +321,7 @@ W
   - [[Page~12* (2)哆]]
     ==
     - [[....]];
-    - _(2)[ch(')(e/)] (4)(i/)n_
+    - _~~(2)ch(')(i/)~~``(2)ch(')(e/)`` (4)(i/)n_
         [[ce2 jin4 哆然]],
         sneering at, disobedient [[Kangxi: 哆然衆有不服之心]]
     ==
@@ -649,7 +649,7 @@ W
         malicious, fornicating, illicit;
     - _(2)koi (4)ts(')(e/) (1)kwai ching(3)_
         [[goi2 ce4 gwai1 zing3 改邪歸正]]
-        forsake errors and cleave to the right;
+        ~~forsake errors~~``alter from wickedness`` and ~~cleave~~``return`` to the right;
     - _(4)ts(')(e/) shut(9)_
         [[ce4 seot6 邪術]]
         charms, philtres, black art;
@@ -667,7 +667,6 @@ W
 C
   ==
   - Fan Wan entry: Corrected 㚥 to 奸.
-  - Williams' 改邪歸正: Better rendered "alter from wickedness [and] return unto the right."
   ==
 E
   ====
