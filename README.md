@@ -40,6 +40,18 @@ pcregrep -M '^C$\n  \+\+$' entries/*cmd
 
 -->
 
+<!--
+
+TODO for merging branch `edits-with-ins-del`:
+
+- Make (FX.YY Z) not an insertion
+- Make (Not present) not an insertion
+- Make h3 headword and reading an insertion
+- Clean up `autoupdate.py`
+- Update last modified 2025-XX-XX
+
+-->
+
 
 [tonic]: https://archive.org/details/williams-a-tonic-dictionary-of-the-chinese-language-in-the-canton-dialect-1856/page/n2/mode/1up
 [Samuel Wells Williams]: https://en.wikipedia.org/wiki/Samuel_Wells_Williams
