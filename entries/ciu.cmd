@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ciu
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -168,8 +168,8 @@ W
     - to excel, to surpass [[Kangxi: 超卓也]];
     - to promote;
     - to raise;
-    - _(1)ch(')i(u/) [pat](9)_
-        [[ciu1 baat6 超拔]]
+    - _(1)ch(')i(u/) ~~p(a/)t(9)~~ ``pat(9)``_
+        [[ciu1 bat6 超拔]]
         to override an officer;
     - _(1)ch(')i(u/) (1)yau_ [[ciu1 jau1 超幽]]^
         or
@@ -183,7 +183,7 @@ W
         excelling;
     - _(1)ch(')i(u/) (1)shang_
         [[ciu1 sang1 超生]],
-        to restore to health, to save from death;
+        to restore to health, to save from death``, to be reincarnated``;
     - _(1)ch(')i(u/) ch(')(e/)uk(8)_
         [[ciu1 coek3 超卓]]
         to surpass.
@@ -193,7 +193,6 @@ C
   ==
   - Williams' "to trip": In the (now) dated sense of skipping lightly.
   - Williams' 超拔: Changed _p(a/)t(9)_ (baat6) to modern _pat(9)_ (bat6).
-  - Williams' 超生: Also to be reincarnated.
   ==
 E
   ====
@@ -286,10 +285,10 @@ W
     - A spade or pick [[Kangxi 鍫: 臿也]];
     - an implement for turning up the ground;
     - to dig deep;
-    - _[(1)]ts(')i(u/) (4)t(')ong_
+    - _~~ts(')i(u/)(3)~~ ``(1)ts(')i(u/)`` (4)t(')ong_
         [[ciu1 tong4 鍬塘]],
         to dig out a fishpond;
-    - _t(a/)i(6) tung(6) [(1)]ts(')i(u/)_
+    - _t(a/)i(6) tung(6) ~~ts(')i(u/)(3)~~ ``(1)ts(')i(u/)``_
         [[daai6 dung6 ciu1 大動鍬]]^
         a crowbar.
     ==
@@ -358,7 +357,7 @@ F
   ==
 W
   ====
-  - [[Page~562 ::(1)[愀]^:: _(1)Ts(')au_ (cau1); here normalised to _(2)Ts(')i(u/)_ (ciu2)]]
+  - [[Page~562 ::~~(1)愁~~``(1)愀``:: _(1)Ts(')au_ (cau1); here normalised to _(2)Ts(')i(u/)_ (ciu2)]]
     ==
     - To blush, to redden, to change color [[Kangxi: 容色變也]];
     - ~~downhearted, sad.~~
@@ -412,19 +411,19 @@ W
     - Like, as if, similar [[Kangxi: 似也像也]];
     - handsome, pretty, beautiful [[Kangxi: 好貌]];
     - superior;
-    - _ts(')i(u/)[(3)] (4)p(')(i/)_
+    - _~~(2)ts(')i(u/)~~ ``ts(')i(u/)(3)`` (4)p(')(i/)_
         [[ciu3 pei4 俏皮]],
         pretty;
-    - _m(a/)i(6) ts(')i(u/)[(3)]_
+    - _m(a/)i(6) ~~(2)ts(')i(u/)~~ ``ts(')i(u/)(3)``_
         [[maai6 ciu3 賣俏]],
         to show off one's pretty face, as by standing in the door;
-    - _(1)[sh(a/)ng] tak(7) ts(')i(u/)[(3)]_
+    - _~~(1)shang~~ ``(1)sh(a/)ng`` tak(7) ~~(2)ts(')i(u/)~~ ``ts(')i(u/)(3)``_
         [[saang1 dak1 ciu3 生得俏]],
         bright, as eyes;
-    - _(2)h(o\) ts(')i(u/)[(3)] t(u/)i(3) (5)ng(a/)n_
+    - _(2)h(o\) ~~(2)ts(')i(u/)~~ ``ts(')i(u/)(3)`` t(u/)i(3) (5)ng(a/)n_
         [[hou2 ciu3 deoi3 ngaan5 好俏對眼]],
         sparkling eyes;
-    - _ts(')i(u/)[(3)] (1)[sh(a/)ng]_
+    - _~~(2)ts(')i(u/)~~ ``ts(')i(u/)(3)`` ~~(1)shang~~ ``(1)sh(a/)ng``_
         [[ciu3 saang1 俏生]],
         like life, as puppets or images.
     ==
@@ -486,7 +485,7 @@ W
     - A steep, abrupt hill [[Kangxi: 山峻拔峭絕也]];
     - a cliff, which obstructs the way [[Kangxi: 嶮也]];
     - severe, strict, vehement [[Kangxi: 嚴厲也]];
-    - _ts(')i(u/)[(3)] pik(7) (1)k(o\)_
+    - _~~(2)ts(')i(u/)~~ ``ts(')i(u/)(3)`` pik(7) (1)k(o\)_
         [[ciu3 bik1 gou1 峭壁高]],
         a perpendicular cliff.
     ==
@@ -775,7 +774,7 @@ W
     - scattered wood [[Kangxi: 散木也]];
     - to cut fuel [[Kangxi: 采薪曰樵]];
     - [[...]];
-    - _(4)[ts(')i(u/)] (1)f(u/)_
+    - _~~(4)^tsi(u/)~~ ``(4)ts(')i(u/)`` (1)f(u/)_
         [[ciu4 fu1 樵夫]],
         a woodcutter;
     - _(4)ts(')i(u/) (4)lau_
@@ -904,7 +903,7 @@ W
     ==
     - A lookout tower or loft [[Kangxi: 樓之別稱也]];
     - [[...]];
-    - _(4)[ts(')i(u/)] (1)k(u:)_
+    - _~~(4)^tsi(u/)~~ ``(4)ts(')i(u/)`` (1)k(u:)_
         [[ciu4 geoi1 譙車]],
         a high turret laid on wheels for archers.
     ==
