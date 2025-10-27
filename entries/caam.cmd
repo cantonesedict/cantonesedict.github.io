@@ -181,10 +181,10 @@ W
     - [[...]];
     - to divide with another;
     - [[...]];
-    - _~~(4)ch(')(a/)m~~``(1)ch(')(a/)m`` fan(6) (4)lai (1)t(')(i/)m_
+    - _~~(4)ch(')(a/)m~~ ``(1)ch(')(a/)m`` fan(6) (4)lai (1)t(')(i/)m_
         [[caam1 fan6 lai4 tim1 攙分嚟添]],
         make another share for him;
-    - _~~(4)ch(')(a/)m~~``(1)ch(')(a/)m`` (4)f(u/)_
+    - _~~(4)ch(')(a/)m~~ ``(1)ch(')(a/)m`` (4)f(u/)_
         [[caam1 fu4 攙扶]],
         to uphold.
     ==
@@ -549,7 +549,7 @@ W
     - _ch(')(a/)m(3) muk(9)_
         [[caam3 muk6 杉木]]
         deal;
-    - _yat(7) ~~luk(9)~~``luk(7)`` ch(')(a/)m(3)_
+    - _yat(7) ~~luk(9)~~ ``luk(7)`` ch(')(a/)m(3)_
         [[jat1 luk1 caam3 一碌杉]]
         a block of pine, a blockhead;
     - _ch(')(a/)m(3) muk(9) (4)ling (4)p(')(a/)i_
@@ -899,7 +899,7 @@ W
     - _(4)ts(')(a/)m ning(6)_
         [[caam4 ning6 讒佞]]
         to cajole and asperse;
-    - _(4)ts(')(a/)m ~~(2)ch(i/)m~~``(2)ch(')(i/)m``_
+    - _(4)ts(')(a/)m ~~(2)ch(i/)m~~ ``(2)ch(')(i/)m``_
         [[caam4 cim2 讒諂]],
         to intrigue against, to slander;
     - _(4)ts(')(a/)m (4)yan_
@@ -1008,7 +1008,7 @@ W
     ==
     - A door sill;
     - a threshold;
-    - _(5)k(')(i/) (4)m(u/)n ~~(5)ch(')(a/)n~~``(5)ch(')(a/)m``_
+    - _(5)k(')(i/) (4)m(u/)n ~~(5)ch(')(a/)n~~ ``(5)ch(')(a/)m``_
         [[kei5 mun4 caam5 企門棖]],
         standing in the door-way.
     ==
@@ -1027,7 +1027,7 @@ S
   ==
 $$
 
-### 鏨5 | _~~(5)^Ts(a/)m~~``(5)Ts(')(a/)m``_ [[caam5]]^
+### 鏨5 | _~~(5)^Ts(a/)m~~ ``(5)Ts(')(a/)m``_ [[caam5]]^
 
 $$
 R
@@ -1055,15 +1055,15 @@ W
     - to pierce, as a thorn;
     - to cut in, to cut or chissel out;
     - to carve, as flowers;
-    - _~~ts(a/)m~~``(5)ts(')(a/)m`` (1)f(a/)_
+    - _~~ts(a/)m~~ ``(5)ts(')(a/)m`` (1)f(a/)_
         [[caam5 faa1 鏨花]],
         to carve flowers;
-    - _~~ts(a/)m~~``(5)ts(')(a/)m`` (1)t(o\)_
+    - _~~ts(a/)m~~ ``(5)ts(')(a/)m`` (1)t(o\)_
         [[caam5 dou1 鏨刀]], a stone chissel;
-    - _~~ts(a/)m~~``(5)ts(')(a/)m`` (1)hoi (1)p(i/)n_
+    - _~~ts(a/)m~~ ``(5)ts(')(a/)m`` (1)hoi (1)p(i/)n_
         [[caam5 hoi1 bin1 鏨開邊]],
         to split open an edge;
-    - _(2)p(i/) lak(9) ~~ts(a/)m~~``(5)ts(')(a/)m``_
+    - _(2)p(i/) lak(9) ~~ts(a/)m~~ ``(5)ts(')(a/)m``_
         [[bei2 lak6-1 caam5 畀竻鏨]],
         the thorn pierced me.
     ==

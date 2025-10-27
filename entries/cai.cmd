@@ -105,7 +105,7 @@ W
     - _(4)p(')ing (1)ts(')ai_
         [[ping4 cai1 平妻]],
         equal to a wife, _i.~e._ a concubine;
-    - _~~ts(')(u:)(3)~~``(2)ts(')(u:)`` (1)ts(')ai_
+    - _~~ts(')(u:)(3)~~ ``(2)ts(')(u:)`` (1)ts(')ai_
         [[ceoi2 cai1 娶妻]],
         to take a wife;
     - _(4)(i/)n (1)ts(')ai_
@@ -517,7 +517,7 @@ W
     ==
     - Angry, enraged [[Kangxi: 怒也]];
     - [[...]];
-    - _(1)t(i/)n (1)ch(i/) (1)fong ~~tsai(3)~~``(4)ts(')ai``_
+    - _(1)t(i/)n (1)ch(i/) (1)fong ~~tsai(3)~~ ``(4)ts(')ai``_
         [[tin1 zi1 fong1 cai4 天之方懠]]^
         when heaven is angry.
     ==
@@ -543,7 +543,7 @@ W
   ====
   - [[Page~550 (4)蠐]]
     ==
-    - ~~A maggot~~``The scarab beetle grub`` [[Kangxi: 蠐螬]];
+    - ~~A maggot~~ ``The scarab beetle grub`` [[Kangxi: 蠐螬]];
     - _(4)ts(')ai (4)ts(')(o\)_
         [[cai4 cou4 蠐螬]],
         a grub, larvæ in mulberry and other trees.

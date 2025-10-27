@@ -80,7 +80,7 @@ W
     - _(5)sh(e/)ung tai(6) (1)s(a/)m (4)ts(')ang_
         [[soeng5 dai6 saam1 cang4 上第三層]],
         go up to the third story;
-    - _~~chung(6)~~``(5)ch(')ung`` yat(7) (4)ts(')ang_
+    - _~~chung(6)~~ ``(5)ch(')ung`` yat(7) (4)ts(')ang_
         [[cung5 jat1 cang4 重一層]],
         one degree heavier;
     - _(5)yau (4)ts(')ang (5)yau ts(')z'(3)_
@@ -128,7 +128,7 @@ W
         it is already done;
     - _(4)ho (4)ts(')ang_
         [[ho4 cang4 何曾]],
-        when ~~will it be~~``was it``?
+        when ~~will it be~~ ``was it``?
     - _(4)ts(')ang k(i/)n(3)_
         [[cang4 gin3 曾見]]
         I have seen it;

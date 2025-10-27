@@ -101,7 +101,7 @@ W
     - _(1)ts(')(u/)i (5)k(')(u:) f(a/)i(3) tik(7)_
         [[ceoi1 keoi5 faai3 dik1 催佢快滴]]
         hurry him on a little;
-    - _~~f(a/)t(9)~~``fat(9)`` k(a/)i(3) (2)tsau (1)ts(')(u/)i_
+    - _~~f(a/)t(9)~~ ``fat(9)`` k(a/)i(3) (2)tsau (1)ts(')(u/)i_
         [[fat6 gaai3 zau2 ceoi1 乏价走催]],
         I've no servant to send to hasten you --- a phrase on invitation cards;
     - _(2)h(i/) shai(3) k(o\)m(3) (1)ts(')(u/)i_
@@ -293,10 +293,10 @@ W
     - to break [[Kangxi: 一曰折也]], as the wind does trees;
     - to reach [[Kangxi: 摧詹至也]];
     - to put out, to extinguish, as a family [[Kangxi: 滅也]];
-    - _~~(4)ts(')(u/)i~~``(1)ts(')(u/)i`` yik(7)_
+    - _~~(4)ts(')(u/)i~~ ``(1)ts(')(u/)i`` yik(7)_
         [[ceoi1 jik1 摧抑]]
         to abate, to put down;
-    - _~~(4)ts(')(u/)i~~``(1)ts(')(u/)i`` ch(i/)t(8)_
+    - _~~(4)ts(')(u/)i~~ ``(1)ts(')(u/)i`` ch(i/)t(8)_
         [[ceoi1 zit3 摧折]]
         to break off by pushing against.
     ==
@@ -424,7 +424,7 @@ W
     ==
     - Maggots in putrid flesh [[Kangxi: 肉中蟲也]];
     - flyblows, eggs of flies [[Kangxi: 蠅乳]];
-    - _~~(1)shang~~``(1)sh(a/)ng`` (1)ts(')(u:)_
+    - _~~(1)shang~~ ``(1)sh(a/)ng`` (1)ts(')(u:)_
         [[saang1 ceoi1 生蛆]],
         it has bred worms;
     - _s(u:)t(8) (1)ts(')(u:)_
@@ -663,20 +663,20 @@ W
     ==
     - To marry a woman with the legal ceremonies [[Kangxi: ::[取]婦也::]];
     - a marriage;
-    - _~~ts(')(u:)(3)~~``(2)ts(')(u:)`` (1)ts(')ai_ [[ceoi2 cai1 娶妻]],
+    - _~~ts(')(u:)(3)~~ ``(2)ts(')(u:)`` (1)ts(')ai_ [[ceoi2 cai1 娶妻]],
         or
-      _~~ts(')(u:)(3)~~``(2)ts(')(u:)`` (5)l(o\) (4)p(')o_ [[ceoi2 lou5 po4 娶老婆]],
+      _~~ts(')(u:)(3)~~ ``(2)ts(')(u:)`` (5)l(o\) (4)p(')o_ [[ceoi2 lou5 po4 娶老婆]],
         to take a wife;
-    - _~~ts(')(u:)(3)~~``(2)ts(')(u:)`` (1)san (5)f(u/)_ [[ceoi2 san1 fu5 娶新婦]]^
+    - _~~ts(')(u:)(3)~~ ``(2)ts(')(u:)`` (1)san (5)f(u/)_ [[ceoi2 san1 fu5 娶新婦]]^
         or
-      _~~ts(')(u:)(3)~~``(2)ts(')(u:)`` ~~(1)sam~~``(1)san1`` (5)p(')(o\)_ [[ceoi2 san1 pou5 娶新婦]],
-        ~~somebady~~``a son`` marrying;
-    - _(4)wing ~~ts(')(u:)(3)~~``(2)ts(')(u:)`` (4)'m (4)ts(')ang_
+      _~~ts(')(u:)(3)~~ ``(2)ts(')(u:)`` ~~(1)sam~~ ``(1)san1`` (5)p(')(o\)_ [[ceoi2 san1 pou5 娶新婦]],
+        ~~somebady~~ ``a son`` marrying;
+    - _(4)wing ~~ts(')(u:)(3)~~ ``(2)ts(')(u:)`` (4)'m (4)ts(')ang_
         [[wing4 ceoi2 m4 cang4 榮娶唔曾]],
-        have you ~~been married~~``taken a wife`` yet?
-    - _~~ts(')(u:)(3)~~``(2)ts(')(u:)`` ts(')(i/)p(8)_ [[ceoi2 cip3 娶妾]]
+        have you ~~been married~~ ``taken a wife`` yet?
+    - _~~ts(')(u:)(3)~~ ``(2)ts(')(u:)`` ts(')(i/)p(8)_ [[ceoi2 cip3 娶妾]]
         or
-      _~~ts(')(u:)(3)~~``(2)ts(')(u:)`` (1)p(')(i/)n (4)fong_ [[ceoi2 pin1 fong4 娶偏房]],
+      _~~ts(')(u:)(3)~~ ``(2)ts(')(u:)`` (1)p(')(i/)n (4)fong_ [[ceoi2 pin1 fong4 娶偏房]],
         to take a concubine home to one.
     ==
   ====
@@ -1471,7 +1471,7 @@ W
     - _(2)t(a/) (1)chong (4)ch(')ui_
         [[daa2 zong1 ceoi4 打樁槌]],
         a pile-hammer;
-    - _~~(4)lui~~``(4)l(u/)i`` (4)ch(')ui_
+    - _~~(4)lui~~ ``(4)l(u/)i`` (4)ch(')ui_
         [[leoi4 ceoi4 擂槌]],
         a triturating pestle;
         _met._ large fingers;

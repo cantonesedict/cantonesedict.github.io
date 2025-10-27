@@ -195,7 +195,7 @@ W
   - [[Page~615 (1)差 _(1)Ts(')z'_ (ci1); here corrected to _(1)Ch(')(a/)_ (caa1)]]
     ==
     - [[...]];
-    - _~~(1)ts(')z'~~``(1)ch(')(a/)`` (2)ho (4)yan (i/)(3)_
+    - _~~(1)ts(')z'~~ ``(1)ch(')(a/)`` (2)ho (4)yan (i/)(3)_
         [[caa1 ho2 jan4 ji3 差可人意]]
         like what most men think.
     ==
@@ -554,7 +554,7 @@ W
     - to deceive [[Kangxi: 誑也]];
     - _ch(')(a/)(3) (i/)(6)_
         [[caa3 ji6 詫異]]
-        ~~strange, foolish~~``wonder, astonishment``.
+        ~~strange, foolish~~ ``wonder, astonishment``.
     ==
   - [[Page~9|n52 吒(3)咤(3)]]
     --
@@ -796,7 +796,7 @@ W
     - _(4)ch(')(a/) (4)(u/)_
         [[caa4 wu4-2 茶壺]],
         a tea-pot;
-    - _(4)ch(')(a/) ~~(4)sh(i/)~~``(4)ch(')(i/)``_
+    - _(4)ch(')(a/) ~~(4)sh(i/)~~ ``(4)ch(')(i/)``_
         [[caa4 ci4 茶匙]],
         a tea-spoon;
     - _(4)ch(')(a/) (4)sh(u:)n_

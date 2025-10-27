@@ -93,7 +93,7 @@ W
     - _ts(')at(7) ts(u:)t(9)_
         [[cat1 zyut6 七絕]]
         a pentameter of four lines;
-    - _ts(')at(7) ~~lut(7)~~``lut(9)``_
+    - _ts(')at(7) ~~lut(7)~~ ``lut(9)``_
         [[cat1 leot6 七律]]
         one of eight lines;
     - _yat(7) yat(7) ts(')at(7)_

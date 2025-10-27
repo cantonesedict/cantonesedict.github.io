@@ -218,7 +218,7 @@ W
     - _(1)ch(')(a/)i yat(7) (1)ch(')(a/)i_
         [[caai1 jat1 caai1 猜一猜]]^
         make a guess;
-    - _(5)n(i/) sh(i/)(3) (1)ch(')(a/)i~~,~~ ~~h(a/)(6)~~``(5)h(a/)``_
+    - _(5)n(i/) sh(i/)(3) (1)ch(')(a/)i~~, h(a/)(6)~~ ``(5)h(a/)``_
         [[nei5 si3 caai1 haa5 你試猜一吓]]^
         just guess.
     ==
@@ -327,7 +327,7 @@ W
   ====
   - [[Page~11|n54 (2)踹]]
     --
-    Also read _~~(2)t(u:)n~~``t(u:)n(3)``_ [[dyun3]].
+    Also read _~~(2)t(u:)n~~ ``t(u:)n(3)``_ [[dyun3]].
     --
     ==
     - To stamp, to trample, to tread on with the heel [[Kangxi: 踹足蹀足也]];

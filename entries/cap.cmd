@@ -79,7 +79,7 @@ W
     - _(2)ch(')(a/)i ts(')ap(7) t(o\)(3) shat(9)_
         [[caai2 cap1 dou3 sat6 踹戢到實]]
         tread it, press it down very solid;
-    - _~~(2)tsoi~~``tsoi(3)`` ts(')ap(7) (1)kon (1)kwo_
+    - _~~(2)tsoi~~ ``tsoi(3)`` ts(')ap(7) (1)kon (1)kwo_
         [[zoi3 cap1 gon1 gwo1 載戢干戈]],
         to lay by shields and spears.
     ==

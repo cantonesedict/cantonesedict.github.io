@@ -291,7 +291,7 @@ W
         a strengthening pill`` for pregnancy``;
     - _(2)si(u/) (2)ch(')(a/)n_
         [[siu2 caan2 小產]],
-        ~~an~~``a spontaneous`` abortion``;
+        ~~an~~ ``a spontaneous`` abortion``;
     - _(1)fan (2)ch(')(a/)n_
         [[fan1 caan2 分產]]^
         to divide the patrimony;

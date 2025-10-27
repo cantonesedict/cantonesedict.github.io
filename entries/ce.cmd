@@ -183,10 +183,10 @@ W
     - _(1)ch(')(e/) (1)f(u/)_
         [[ce1 fu1 車夫]],
         a charioteer;
-    - _(1)ch(')(e/) ~~(4)m(e/)~~``(2)m(e/)``_
+    - _(1)ch(')(e/) ~~(4)m(e/)~~ ``(2)m(e/)``_
         [[ce1 me2 車歪]],
         a teetotum;
-    - _(1)ch(')(e/) ~~(4)m(e/)~~``(2)m(e/)`` k(o\)m(3) ~~(2)ch(u:)n~~``ch(u:)n(3)``_
+    - _(1)ch(')(e/) ~~(4)m(e/)~~ ``(2)m(e/)`` k(o\)m(3) ~~(2)ch(u:)n~~ ``ch(u:)n(3)``_
         [[ce1 me2 gam3 zyun3 車歪咁轉]],
         fidgetty as a teetotum;
     - _(1)ch(')(e/) (4)lun_
@@ -262,7 +262,7 @@ W
     - _(4)hang (2)ch(')(e/)_
         [[hang4 ce2 行且]],
         on the point of being;
-    - _(2)ch(')(e/) ~~san(3)~~``sun(3)`` (2)ch(')(e/) (4)(i/)_
+    - _(2)ch(')(e/) ~~san(3)~~ ``sun(3)`` (2)ch(')(e/) (4)(i/)_
         [[ce2 seon3 ce2 ji4 且信且疑]],
         half believing, half doubting;
     - _f(u/)(3) (2)ch(')(e/) kwai(3)_
@@ -321,7 +321,7 @@ W
   - [[Page~12* (2)哆]]
     ==
     - [[....]];
-    - _~~(2)ch(')(i/)~~``(2)ch(')(e/)`` (4)(i/)n_
+    - _~~(2)ch(')(i/)~~ ``(2)ch(')(e/)`` (4)(i/)n_
         [[ce2 jin4 哆然]],
         sneering at, disobedient [[Kangxi: 哆然衆有不服之心]]
     ==
@@ -649,7 +649,7 @@ W
         malicious, fornicating, illicit;
     - _(2)koi (4)ts(')(e/) (1)kwai ching(3)_
         [[goi2 ce4 gwai1 zing3 改邪歸正]]
-        ~~forsake errors~~``alter from wickedness`` and ~~cleave~~``return`` to the right;
+        ~~forsake errors~~ ``alter from wickedness`` and ~~cleave~~ ``return`` to the right;
     - _(4)ts(')(e/) shut(9)_
         [[ce4 seot6 邪術]]
         charms, philtres, black art;

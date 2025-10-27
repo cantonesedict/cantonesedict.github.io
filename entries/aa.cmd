@@ -279,7 +279,7 @@ W
   ====
   - [[Page~1|n44 (2)啞 _(2)(A/)_ (aa2); here corrected to _(1)(A/)_ (aa1)]]
     ==
-    - The confused noise of children ~~studying~~``learning to speak`` [[Kangxi: 啞嘔小兒學言]];
+    - The confused noise of children ~~studying~~ ``learning to speak`` [[Kangxi: 啞嘔小兒學言]];
     - [[...]].
     ==
   ====
@@ -368,7 +368,7 @@ W
     - [[...]];
     - dumb [[Kangxi: 瘖也]];
     - to keep silent [[Kangxi: 不言也]], for which the next [[瘂]] is used;
-    - _(2)(a/) ~~mai(6)~~``(4)mai``_
+    - _(2)(a/) ~~mai(6)~~ ``(4)mai``_
         [[aa2 mai4 啞謎]]^
         an enigma;
     - _(4)ts(')ing (4)n(a/)n (2)(a/) (2)yan_

@@ -21,7 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 #{.williams} A Tonic Dictionary of the Chinese Language in the Canton Dialect.
 
 --{.williams .title-information}
-_(1)Ying (4)W(a/) (1)Fan ~~Wan(3)~~``Wan(6)`` Ts(')(u:)t(8) I(u/)(3)._
+_(1)Ying (4)W(a/) (1)Fan ~~Wan(3)~~ ``Wan(6)`` Ts(')(u:)t(8) I(u/)(3)._
 --
 
 {+++

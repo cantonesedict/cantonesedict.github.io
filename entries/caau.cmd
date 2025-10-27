@@ -176,19 +176,19 @@ W
     - [[...]];
     - a document, a government paper, a receipt [[Kangxi: 官收物而給印信文憑也]];
     - paper money [[Kangxi: 楮貨名]];
-    - _(4)sh(u:)n ~~ch(')(a/)u(3)~~``(1)ch(')(a/)u``_
+    - _(4)sh(u:)n ~~ch(')(a/)u(3)~~ ``(1)ch(')(a/)u``_
         [[syun4 caau1 船鈔]]^
         tonnage dues, charges on ships;
-    - _fong(3) ~~ch(')(a/)u(3)~~``(1)ch(')(a/)u``_
+    - _fong(3) ~~ch(')(a/)u(3)~~ ``(1)ch(')(a/)u``_
         [[fong3 caau1 放鈔]]^
         to burn paper money to the gods;
-    - _(4)ts(')(i/)n ~~ch(')(a/)u(3)~~``(1)ch(')(a/)u``_
+    - _(4)ts(')(i/)n ~~ch(')(a/)u(3)~~ ``(1)ch(')(a/)u``_
         [[cin4 caau1 錢鈔]]^
         bills and money;
-    - _~~ch(')(a/)u(3)~~``(1)ch(')(a/)u`` (1)kw(a/)n_
+    - _~~ch(')(a/)u(3)~~ ``(1)ch(')(a/)u`` (1)kw(a/)n_
         [[caau1 gwaan1 鈔關]],
         a custom house;
-    - _shui(3) ~~ch(')(a/)u(3)~~``(1)ch(')(a/)u``_
+    - _shui(3) ~~ch(')(a/)u(3)~~ ``(1)ch(')(a/)u``_
         [[seoi3 caau1 稅鈔]]^
         duties on goods, transit dues.
     ==
@@ -240,7 +240,7 @@ W
     - _(4)ts(')(o\) (2)ch(')(a/)u_
         [[cou4 caau2 嘈吵]],
         to raise a row;
-    - _t(a/)i(6) (2)ch(')(a/)u yat(7) ~~(2)ch(')(e/)ung~~``(4)ch(')(e/)ung``_
+    - _t(a/)i(6) (2)ch(')(a/)u yat(7) ~~(2)ch(')(e/)ung~~ ``(4)ch(')(e/)ung``_
         [[daai6 caau2 jat1 coeng4 大吵一場]],
         a great hubbub;
     - _(2)ch(')(a/)u (4)yan (5)(i/)_
@@ -279,7 +279,7 @@ W
     - _(2)ch(')(a/)u (4)ch(')(a/)_
         [[caau2 caa4 炒茶]],
         to fire tea;
-    - _(2)ch(')(a/)u ~~(1)k(a/) (1)f(i/)~~``k(a/)(3) (1)f(e/)``_
+    - _(2)ch(')(a/)u ~~(1)k(a/) (1)f(i/)~~ ``k(a/)(3) (1)f(e/)``_
         [[caau2 gaa3 fe1 炒咖啡]],
         to roast coffee;
     - _(2)ch(')(a/)u m(a/)i(6)_
@@ -485,7 +485,7 @@ W
     ==
     - Crumpled, wrinkled, corrugated, rough;
     - shriveled, as dried fruit;
-    - _(2)h(o\) ~~(2)ts(')z'~~``(5)ts(')z'`` (a/)(3) (4)p(')o (4)p(')(i/) k(o\)m(3) (4)ch(')(a/)u_
+    - _(2)h(o\) ~~(2)ts(')z'~~ ``(5)ts(')z'`` (a/)(3) (4)p(')o (4)p(')(i/) k(o\)m(3) (4)ch(')(a/)u_
         [[hou2 ci5 aa3 po4 pei4 gam3 caau4 好似阿婆皮咁巢]],
         wrinkled as a granny's face;
     - _(4)ch(')(a/)u (1)mang (1)mang_
@@ -541,7 +541,7 @@ W
       in the south of the province of Ng(a/)nhwui [[安徽]] [[Kangxi: 湖名]].
     ==
     --
-    Also read _~~(1)tsi(u/)~~``(2)tsi(u/)``_ [[ziu2]].
+    Also read _~~(1)tsi(u/)~~ ``(2)tsi(u/)``_ [[ziu2]].
     The last [[巢]] is usually used for this [[Kangxi: 亦作巢]].
     --
   ====
