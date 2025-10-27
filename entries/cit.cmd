@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cit
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -212,7 +212,7 @@ W
     - to take, to choose out, to raise up [[Kangxi: 揭也取也]];
     - to select;
     - to pull, to draw [[Kangxi: 挽也]];
-    - _[ch(')(i/)t(8)] (1)ts(')(i/)m_
+    - _~~chai(3)~~ ``ch(')(i/)t(8)`` (1)ts(')(i/)m_
         [[cit3 cim1 掣籤]],
         to draw lots;
     - [[...]].
