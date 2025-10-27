@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2025-09-21
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -144,7 +144,7 @@ C
   ==
 $$
 
-### [媸]1 | _(1)Ch(')(i/)_ [[ci1]]
+### ~~{𡟎=⿰女⿱山虫}~~``媸``1 | _(1)Ch(')(i/)_ [[ci1]]
 
 $$
 R
@@ -157,7 +157,7 @@ F
   ==
 W
   ====
-  - [[Page~11* ::(1)[媸]^::]]
+  - [[Page~11* ::~~(1){𡟎=⿰女⿱山虫}~~``(1)媸``::]]
     ==
     - Ugly [[Kangxi: 醜也]];
     - a homely woman;
@@ -165,7 +165,7 @@ W
     - _(1)ch(')(i/) (4)n(o\)_
         [[ci1 nou4 媸奴]],
         a harridan;
-    - _(4)(i/)n (1)ch(')(i/) tsz'(6) [(i/)n](6)_
+    - _(4)(i/)n (1)ch(')(i/) tsz'(6) ~~k(i/)n(6)~~ ``(i/)n(6)``_
         [[jin4 ci1 zi6 jin6 妍媸自見]]
         he knows whether he is handsome or ugly.
     ==
@@ -173,7 +173,6 @@ W
 C
   ==
   - Fan Wan entry: Normalised headword {𡟎=⿰女虽} to 媸.
-  - Williams misprints 媸 as {𡟎=⿰女⿱山虫}; here corrected.
   - Williams' "homely": In the sense of "unattractive".
   - Williams' 妍媸自見: Corrected _k(i/)n(6)_ (gin6) to _(i/)n(6)_ (jin6).
   ==
@@ -245,13 +244,13 @@ W
     - an imperfection, as a mole;
     - a failing, a fault;
     - an eccentricity;
-    - _(4)h(a/) [(1)]ts(')z'_
+    - _(4)h(a/) ~~(4)ts(')z'~~ ``(1)ts(')z'``_
         [[haa4 ci1 瑕疵]]
         a flaw, any fault which renders a thing imperfect;
-    - _(2)si(u/) [(1)]ts(')z'_
+    - _(2)si(u/) ~~(4)ts(')z'~~ ``(1)ts(')z'``_
         [[siu2 ci1 小疵]]
         a little fault, as in a man's character;
-    - _hak(7) [(1)]ts(')z'_
+    - _hak(7) ~~(4)ts(')z'~~ ``(1)ts(')z'``_
         [[hak1 ci1 黑疵]]
         a black spot.
     ==
@@ -315,7 +314,7 @@ W
     - _(1)ch(')(i/) (4)ngoi_
         [[ci1 ngoi4 癡呆]],
         foolish stolid;
-    - _(1)ch(')(i/) ch(u:)t(8) [(2)]k(o\)m (1)ch(')(u:)n l(u:)n(6) ch(')(u:)(3)_
+    - _(1)ch(')(i/) ch(u:)t(8) ~~k(o\)m(3)~~ ``(2)k(o\)m`` (1)ch(')(u:)n l(u:)n(6) ch(')(u:)(3)_
         [[ci1 zyut3 gam2 cyun1 lyun6 cyu3 癡拙噉穿亂處]]
         running in and out, making such a rumpus;
     - _(1)ch(')(i/) (4)ts(')ing_
@@ -327,11 +326,10 @@ W
     - _pat(7) (1)ch(')(i/) pat(7) (4)lung_
         [[bat1 ci1 bat1 lung4 不癡不聾]],
         if I am not foolish and deaf [I cannot reign];
-        [[these square brackets appear in the original text]]
     - _(1)sh(u:) (1)ch(')(i/)_
         [[syu1 ci1 書癡]],
         doting on books;
-    - _(1)ch(')(i/) (4)[mai] pat(7) (2)sing_
+    - _(1)ch(')(i/) ~~(4)m(a/)i~~ ``(4)mai`` pat(7) (2)sing_
         [[ci1 mai4 bat1 sing2 癡迷不醒]]^
         mad after.
     ==
@@ -957,7 +955,7 @@ W
       _(4)(i/)_ [[ji4]],
       _(4)l(i/)_ [[lei4]], and
       _(4)t(')o_ [[to4]],
-    with the same meanings~~.
+    with the same meanings.~~
     --
   ====
 C
@@ -1200,10 +1198,10 @@ W
     - To take away insignia, to degrade;
     - to take off clothes, to denude [[Kangxi: 奪衣也]];
     - a fringe [[Kangxi: ::衣絮[偏]也::]];
-    - _[(2)]ch(')(i/) k(a/)k(8)_
+    - _~~(1)ch(')(i/)~~ ``(2)ch(')(i/)`` k(a/)k(8)_
         [[ci2 gaak3 褫革]]
         to dismiss from office;
-    - _[(2)]ch(')(i/) (1)ch(i/)n_
+    - _~~(1)ch(')(i/)~~ ``(2)ch(')(i/)`` (1)ch(i/)n_
         [[ci2 zin1 褫氈]],
         plush, felt.
     ==
@@ -1230,7 +1228,7 @@ W
   - [[Page~12* (2)豕]]
     ==
     - A hog, a pig [[Kangxi: 彘也]];
-    - the [152d]~radical [["pig"]] of characters relating mostly to swine;
+    - the ~~153d~~^~``152d``~radical [["pig"]] of characters relating mostly to swine;
     - _(2)ch(')(i/) yuk(9)_
         [[ci2 juk6 豕肉]]
         pork.
@@ -1405,7 +1403,7 @@ W
     - _tsok(8) (1)sh(i/) ts(')z'(3) (5)k(')(u:)_
         [[zok3 si1 ci3 keoi5 作詩刺佢]],
         to pasquinade in verse;
-    - _(5)[ts(')(a/)m] ts(')z'(3)_
+    - _~~(5)^ts(a/)m~~ ``(5)ts(')(a/)m`` ts(')z'(3)_
         [[caam5 ci3 鏨刺]]
         to engrave, to prick;
     - _(4)t(')au ts(')z'(3)_
@@ -1655,7 +1653,7 @@ W
     - coming after, second in order, inferior, secondary;
     - next, succeeding;
     - to put in order [[Kangxi: 位次]];
-    - a halting-place, an encampment [[Kangxi: 師止曰次, 安行旅之處爲旅次]][;]
+    - a halting-place, an encampment [[Kangxi: 師止曰次, 安行旅之處爲旅次]]``;``
     - a rest-house, an inn, a shed or stall [[Kangxi: 凡舍皆曰次]];
     - a mansion [[Kangxi: 次舍]];
     - a position, as of the stars [[Kangxi: 星之躔舍爲次]];
@@ -1816,7 +1814,7 @@ W
         the shark's fins;
     - _(2)ch(i/)n ch(')(i/)(3)_
         [[zin2 ci3 展翅]]
-        ~~to flap the wings~~;
+        to ~~flap~~ ``spread`` the wings;
     - _ch(')(i/)(3) (4)p(')(a/)i_
         [[ci3 paai4 翅排]],
         spread out like a comb;
@@ -1829,10 +1827,6 @@ W
     [[Otherwise, an alternative form of 啻. **See $啻ci3 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - Williams' 展翅: Not to flap the wings, but to spread.
-  ==
 $$
 
 ###+ 蛓3 | _Ts(')z'(3)_ (ci3)
@@ -2296,7 +2290,7 @@ W
     - A tank, a pool, a pond [[Kangxi: ::治也[...]停水曰池::]];
     - a ditch, a fosse [[Kangxi: 城塹曰溝池]];
     - stagnant water;
-    - _(4)[shing] (4)ch(')(i/)_
+    - _~~(4)sheng~~ ``(4)shing`` (4)ch(')(i/)_
         [[sing4 ci4 城池]],
         a moat;
     - _(1)chung (4)ch(')(i/)_
@@ -2577,8 +2571,7 @@ W
         the umbilical cord;
     - _shai(6) (4)ts(')z' mok(9) k(')ap(9)_
         [[sai6 ci4 mok6 kap6 噬臍莫及]]
-        [hard as] [[these square brackets appear in the original text]]
-        for one to bite his own navel;
+        [hard as] for one to bite his own navel;
     - _(5)t(')(o\) (4)ts(')z'_
         [[tou5 ci4 肚臍]]
         the navel;
@@ -2685,7 +2678,7 @@ W
     - An expression, a phrase, a sentence, a word [[Kangxi: 說也, 言也]];
     - a particle;
     - a writing [[Kangxi: 文也]], an accusation;
-    - to speak, to tell the thoughts, to say [[Kangxi: 意內而言外也]][;]
+    - to speak, to tell the thoughts, to say [[Kangxi: 意內而言外也]]~~,~~;
     - to accuse [[Kangxi: 吿也]];
     - to request, to ask [[Kangxi: 請也]];
     - _(4)ts(')z' pat(7) t(a/)t(9) (i/)(3)_
@@ -2800,10 +2793,10 @@ W
     - _kok(8) chap(7) yat(7) (4)ts(')z'_
         [[gok3 zap1 jat1 ci4 各執一辭]]
         each held to his own argument;
-    - _(4)ts(')z' t(')(i/)p[(8)]_
+    - _(4)ts(')z' ~~t(')(i/)p(9)~~ ``t(')(i/)p(8)``_
         [[ci4 tip3-2 辭帖]]
         to send a card of invitation back;
-    - _(4)ts(')z' (4)hang t(')(i/)p[(8)]_
+    - _(4)ts(')z' (4)hang ~~t(')(i/)p(9)~~ ``t(')(i/)p(8)``_
         [[ci4 hang4 tip3-2 辭行帖]],
         a card to take leave;
     - _(1)h(u:) (4)ts(')z'_
@@ -2868,7 +2861,6 @@ W
     - _(4)ch(')(i/) (4)loi pat(7) k(')ap(9)_
         [[ci4 loi4 bat1 kap6 遲來不及]]
         you will be too late to reach [the boat];
-        [[these square brackets appear in the original text]]
     - _(4)ch(')(i/) (5)h(a/) (1)t(')(i/)m_
         [[ci4 haa5 tim1 遲吓添]]^
         wait a little longer;
@@ -3123,7 +3115,7 @@ E
   --
 $$
 
-### 姒5 | _[(5)]Ts(')z'_ [[ci5]]
+### 姒5 | _~~(2)Ts(')z'~~ ``(5)Ts(')z'``_ [[ci5]]^
 
 $$
 R
@@ -3136,13 +3128,13 @@ F
   ==
 W
   ====
-  - [[Page~616 ::[(5)]姒::]]
+  - [[Page~616 ::~~(2)姒~~``(5)姒``::]]
     ==
     - An elder brother's wife;
-    - _[(5)]ts(')z' tai(6)_
+    - _~~(2)ts(')z'~~ ``(5)ts(')z'`` tai(6)_
         [[ci5 dai6 姒娣]]
         sisters-in-law;
-    - _(5)ts(')z' (5)f(u/)_
+    - _~~(2)ts(')z'~~ ``(5)ts(')z'`` (5)f(u/)_
         [[ci5 fu5 姒婦]],
         an old lady---a term used by the young.
     ==
@@ -3174,17 +3166,17 @@ W
   - [[Page~616 (4)柿 _(4)Ts(')z'_ (ci4); here normalised to  _(5)Ts(')z'_ (ci5)]]
     ==
     - The persimmon, the Diospyrus or China fig;
-    - _(1)kon [(5)]ts(')z'_ [[gon1 ci5-2 乾柿]]
+    - _(1)kon ~~(4)ts(')z'~~ ``(5)ts(')z'``_ [[gon1 ci5-2 乾柿]]
         or
-      _[(5)]ts(')z' (2)peng_ [[ci5-2 beng2 柿餅]],
+      _~~(4)ts(')z'~~ ``(5)ts(')z'`` (2)peng_ [[ci5-2 beng2 柿餅]],
         dried persimmons or figs, prepared for exportation;
-    - _(4)ngau (1)sam [(5)]ts(')z'_
+    - _(4)ngau (1)sam ~~(4)ts(')z'~~ ``(5)ts(')z'``_
         [[ngau4 sam1 ci5-2 牛心柿]]
         the large sort;
-    - _(1)kai (1)sam [(5)]ts(')z'_
+    - _(1)kai (1)sam ~~(4)ts(')z'~~ ``(5)ts(')z'``_
         [[gai1 sam1 ci5-2 雞心柿]]
         the small sort;
-    - _(2)shui tsam(3) [(5)]ts(')z'_
+    - _(2)shui tsam(3) ~~(4)ts(')z'~~ ``(5)ts(')z'``_
         [[seoi2 zam3 ci5-2 水浸柿]]
         the yellow persimmon.
     ==

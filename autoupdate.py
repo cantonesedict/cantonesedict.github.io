@@ -194,7 +194,7 @@ class Updater:
             sys.exit(1)
 
         missing_context_match = re.search(
-            pattern=r"_ [^_\n]+? \([1245]\)\S+[^'] _ \s* (?: \( | \[\[ ) .+? (?: \) | \]\] ) $",
+            pattern=r"_ [^_\n]+? \([1245]\)\S+[^'`] _ \s* (?: \( | \[\[ ) .+? (?: \) | \]\] ) $",
             string=cmd_content,
             flags=re.MULTILINE | re.VERBOSE,
         )
