@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyu
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -137,25 +137,25 @@ W
     - to distinguish [[Kangxi: 分別也]], to manage, to judge, to decide on,
       to attend to, to do what is proper;
     - to place;
-    - _[(5)]ch(')(u:) (2)tsz'_
+    - _~~(2)ch(')(u:)~~ ``(5)ch(')(u:)`` (2)tsz'_
         [[cyu5 zi2 處子]]
         a young lady;
     - _(2)ch(')(u:) ch(i/)(6) (1)t(')(a/)_
         [[cyu2 zi6 taa1 處治他]],
         do it for him, settle him, fix him;
-    - _(1)s(e/)ung [(5)]ch(')(u:)_
+    - _(1)s(e/)ung ~~(2)ch(')(u:)~~ ``(5)ch(')(u:)``_
         [[soeng1 cyu5 相處]],
         familiar, friendly;
-    - _[(5)]ch(')(u:) (1)kwan (4)shan_
+    - _~~(2)ch(')(u:)~~ ``(5)ch(')(u:)`` (1)kwan (4)shan_
         [[cyu5 gwan1 san4 處君臣]],
         to be an officer;
     - _(4)n(a/)n (2)ch(')(u:)_
         [[naan4 cyu2 難處]],
         not easy to judge;
-    - _(2)ch(')(u:) [k(')(u:)t](8)_
+    - _(2)ch(')(u:) ~~k(u:)t(8)~~ ``k(')(u:)t(8)``_
         [[cyu2 kyut3 處決]]
         execute him;
-    - _[(5)]ch(')(u:) (1)f(u/) (5)f(u/)_
+    - _~~(2)ch(')(u:)~~ ``(5)ch(')(u:)`` (1)f(u/) (5)f(u/)_
         [[cyu5 fu1 fu5 處夫婦]]^
         when married.
     ==
@@ -266,7 +266,7 @@ W
     - _ch(')(u:)(3) ch(')(u:)(3)_
         [[cyu3 cyu3 處處]]
         everywhere;
-    - _[(2)]ko ch(')(u:)(3)_
+    - _~~ko(3)~~ ``(2)ko`` ch(')(u:)(3)_
         [[go2 cyu3 嗰處]]
         there;
     - _(1)p(i/)n ch(')(u:)(3)_
@@ -533,7 +533,7 @@ C
   ==
 $$
 
-### [躕]4 | _(4)Ch(')(u:)_ [[cyu4]]
+### ~~{𨆼=⿰𧾷㕑}~~``躕``4 | _(4)Ch(')(u:)_ [[cyu4]]
 
 $$.
 R
@@ -544,7 +544,7 @@ F
   [[F1.45 ::[蹰]::]] ::踟[蹰]::
 W
   ====
-  - [[Page~32* (4)::[躕]^::]]
+  - [[Page~32* (4)::~~{𨆼=⿰𧾷㕑}~~``躕``::]]
     --
     [[Reading variation. **See $躕ceoi4 for the canonical entry.**]]
     --
@@ -552,7 +552,6 @@ W
 C
   ==
   - Fan Wan entry: Normalised headword ⿰𧾷⿸广⿰豆寸 to 蹰.
-  - Williams entry: Normalised headword {𨆼=⿰𧾷㕑} to 躕.
   ==
 S
   ==
@@ -664,10 +663,10 @@ W
     - to provide for need;
     - furnished;
     - to assist, to act as second to [[Kangxi: 副也]];
-    - _[(5)]ch(')(u:) wai(6)_
+    - _~~(4)ch(')(u:)~~ ``(5)ch(')(u:)`` wai(6)_
         [[cyu5 wai6 儲位]]
         an heir-apparent;
-    - _[(5)]ch(')(u:) (1)kwan_
+    - _~~(4)ch(')(u:)~~ ``(5)ch(')(u:)`` (1)kwan_
         [[cyu5 gwan1 儲君]],
         ~~son of~~ a prince.
     ==
@@ -792,7 +791,7 @@ W
   ====
   - [[Page~33* (5)柱]]
     ==
-    - A post, a pillar, an upright support, ~~a joist~~ [[Kangxi: 楹也]];
+    - A post, a pillar, an upright support~~, a joist~~ [[Kangxi: 楹也]];
     - a main dependance, a statesman;
     - [[...]];
     - _kwok(8) (5)ch(')(u:)_
@@ -801,7 +800,7 @@ W
     - _(4)k(')ing (1)t(')(i/)n (5)ch(')(u:)_
         [[king4 tin1 cyu5 擎天柱]],
         an atlas of the state;
-    - _(5)ch(')(u:) [(2)]tan_
+    - _(5)ch(')(u:) ~~(1)tan~~ ``(2)tan``_
         [[cyu5 dan2 柱墩]],
         the pedestal;
     - _(4)l(e/)ung (5)ch(')(u:)_
