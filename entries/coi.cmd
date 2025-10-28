@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coi
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -184,7 +184,7 @@ W
     - _(1)kam (1)f(a/) (2)ts(')oi (4)hung_
         [[gam1 faa1 coi2 hung4 金花彩紅]],
         tinsel and red silk, such as is used on joyful occasions;
-    - _(2)h(i/) [ko](3) (2)ts(')oi_
+    - _(2)h(i/) ~~kwo(3)~~ ``ko(3)`` (2)ts(')oi_
         [[hei2 go3 coi2 起個彩]],
         let us have a rejoicing, as after one is out of prison;
     - _t(u:)t(9) (2)ts(')oi_
@@ -383,7 +383,7 @@ W
     - cities allotted to officers for revenue [[Kangxi: 采地]];
     - in these senses the three next [[採, 寀, 彩]] are used;
     - a business, an employment;
-    - _(2)ts(')oi yap[(7)]_
+    - _(2)ts(')oi ~~yap(9)~~ ``yap(7)``_
         [[coi2 jap1 采邑]],
         territory set apart for the support of grandees, an ancient usage;
     - _n(a/)p(9) (2)ts(')oi_
@@ -491,11 +491,11 @@ W
         gone to market;
     - _p(a/)k(8) ts(')oi(3)_
         [[baak6 coi3 白菜]]
-        ~~broccoli~~, the pehtsai [[白菜]];
+        ~~broccoli,~~ the pehtsai [[白菜]];
     - _(4)h(a/)m ts(')oi(3)_
         [[haam4 coi3 鹹菜]]
         sour crout;
-    - _(1)[sh(a/)ng] ts(')oi(3)_
+    - _~~(1)shang~~ ``(1)sh(a/)ng`` ts(')oi(3)_
         [[saang1 coi3 生菜]]
         lettuce;
     - _(4)y(e/) ts(')oi(3)_
@@ -512,7 +512,7 @@ W
         bean sprouts;
     - _ts(')oi(3) (1)f(a/)_ [[coi3 faa1 菜花]],
         a kind of rape of which the _ts(')oi(3) (4)yau_ [[coi3 jau4 菜油]],
-        or herb oil[,] is pressed;
+        or herb oil``,`` is pressed;
     - _(2)si(u/) ts(')oi(3)_
         [[siu2 coi3 小菜]]
         condiments of leaves and greens;
@@ -732,7 +732,7 @@ W
     - Materials of which things are made [[Kangxi: 五材金木水火土也 etc.]];
     - nature, qualities;
     - timber, lumber, wood;
-    - materièl, stuff;
+    - ~~materièl~~ ``matériel``, stuff;
     - _(4)ts(')oi li(u/)(6)_
         [[coi4 liu6-2 材料]]
         materials, as wood, stone, &c.;
@@ -752,10 +752,6 @@ W
     [[Otherwise, an alternative form of 才. **See $才coi4 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - Williams' "materièl": Probably a misspelling of "matériel".
-  ==
 $$
 
 ### 纔4 | _(4)Ts(')oi_ [[coi4]]
@@ -911,7 +907,7 @@ W
     - _p(')o(3) (4)ts(')oi (2)tong (1)tsoi_
         [[po3 coi4 dong2 zoi1 破財擋災]],
         to lavish money to ward off (or remedy) calamity;
-    - _(4)ts(')oi (2)ho [(5)](i/) (1)t(')ung (4)shan_
+    - _(4)ts(')oi (2)ho ~~(2)(i/)~~ ``(5)(i/)`` (1)t(')ung (4)shan_
         [[coi4 ho2 ji5 tung1 san4 財可以通神]],
         money can move the gods;
     - _(5)n(i/) (4)'m hai(6) (4)ts(')oi (4)shan_
