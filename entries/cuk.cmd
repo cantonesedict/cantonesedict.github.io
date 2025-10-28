@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cuk
-* %date-modified --> 2025-08-02
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -179,7 +179,7 @@ W
     - to tie up in a sheaf;
     - to coerce, to restrain;
     - a bundle, a sheaf;
-    - _ch(')uk(7) [pok](8)_
+    - _ch(')uk(7) ~~fok(8)~~ ``pok(8)``_
         [[cuk1 bok3 束縛]]
         to cord up;
     - _(2)k(u/)n ch(')uk(7)_
@@ -379,14 +379,14 @@ W
   ====
   - [[Page~599 蔟(9)簇(9) _Tsuk(9)_ (zuk6); here normalised to _Ts(')uk(7)_ (cuk1)]]
     --
-    [[...]]
+    ~~These two [[蔟, 簇]] are used interchangeably.~~
     --
     ==
     - Tufts of small bamboo [[Kangxi 簇: 小竹]];
     - to collect, to crowd together [[Kangxi 蔟: 與簇同聚也攢也]];
     - a crowd of people;
     - [[...]];
-    - _[ts(')uk(7)] (2)yung (4)ts(')(i/)n (4)loi_
+    - _~~tsuk(9)~~ ``ts(')uk(7)`` (2)yung (4)ts(')(i/)n (4)loi_
         [[cuk1 jung2 cin4 loi4 簇擁前來]],
         came pressing on in a crowd.
     ==
@@ -754,7 +754,6 @@ W
     - _ts(')uk(7) yuk(9)_
         [[cuk1 juk6 速玉]]
         to hurry the steps [of a guest];
-        [[these square brackets appear in the original text]]
     - _(2)fo ts(')uk(7)_
         [[fo2 cuk1 火速]]
         as quick as possible.
