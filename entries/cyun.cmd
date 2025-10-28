@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyun
-* %date-modified --> 2025-10-19
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -97,7 +97,7 @@ W
     - _(1)ch(')(u:)n (4)lau pat(7) sik(7)_
         [[cyun1 lau4 bat1 sik1 川流不息]]
         perennial, unceasing;
-    - _(1)ch(')(u:)n (4)[ng(a/)i]_
+    - _(1)ch(')(u:)n ~~(4)ngai~~ ``(4)ng(a/)i``_
         [[cyun1 ngaai4 川崖]],
         a cascade.
     ==
@@ -163,30 +163,33 @@ F
   ==
 W
   ====
-  - To bore through [[Kangxi: 委曲入也鑽也鑿也]], to perforate [[Kangxi: 通也穴也]];
-  - to clothe, to put on;
-  - to string;
-  - _(1)ch(')(u:)n tsok(9)_
-      [[cyun1 zok6 穿鑿]]
-      to open a hole;
-  - _(1)ch(')(u:)n (4)fong (2)shai [w(u/)n(6)]_
-      [[cyun1 fong4 sai2 wun6 穿房使喚]]
-      a servant of all work;
-  - _(1)ch(')(u:)n (1)sh(a/) (1)p(o\)_
-      [[cyun1 saa1 bou1 穿砂煲]],
-      to show the falsity of;
-  - _(1)ch(')(u:)n (1)kam t(a/)i(3) (4)ngan_
-      [[cyun1 gam1 daai3 ngan4 穿金戴銀]],
-      she wears gold and robes in silver;
-  - _(1)ch(')(u:)n (1)ch(u:)_
-      [[cyun1 zyu1 穿珠]],
-      to string beads;
-  - _(1)ch(')(u:)n (4)h(a/)i_
-      [[cyun1 haai4 穿鞋]],
-      to pull on shoes;
-  - _(1)ch(')(u:)n (1)sh(a/)n k(a/)p(8)_
-      [[cyun1 saan1 gaap3 穿山甲]]
-      the manis.
+  - [[Page~38* (1)穿]]
+    ==
+    - To bore through [[Kangxi: 委曲入也鑽也鑿也]], to perforate [[Kangxi: 通也穴也]];
+    - to clothe, to put on;
+    - to string;
+    - _(1)ch(')(u:)n tsok(9)_
+        [[cyun1 zok6 穿鑿]]
+        to open a hole;
+    - _(1)ch(')(u:)n (4)fong (2)shai ~~f(u/)n(3)~~ ``w(u/)n(6)``_
+        [[cyun1 fong4 sai2 wun6 穿房使喚]]
+        a servant of all work;
+    - _(1)ch(')(u:)n (1)sh(a/) (1)p(o\)_
+        [[cyun1 saa1 bou1 穿砂煲]],
+        to show the falsity of;
+    - _(1)ch(')(u:)n (1)kam t(a/)i(3) (4)ngan_
+        [[cyun1 gam1 daai3 ngan4 穿金戴銀]],
+        she wears gold and robes in silver;
+    - _(1)ch(')(u:)n (1)ch(u:)_
+        [[cyun1 zyu1 穿珠]],
+        to string beads;
+    - _(1)ch(')(u:)n (4)h(a/)i_
+        [[cyun1 haai4 穿鞋]],
+        to pull on shoes;
+    - _(1)ch(')(u:)n (1)sh(a/)n k(a/)p(8)_
+        [[cyun1 saan1 gaap3 穿山甲]]
+        the manis.
+    ==
   ====
 C
   ==
@@ -234,7 +237,7 @@ W
   ====
 C
   ==
-  - Commonly used in the context of housing estates in Hong Kong (e.g. 彩虹邨).
+  - Commonly used in housing estate names in Hong Kong (e.g. 彩虹邨).
   ==
 $$
 
@@ -368,13 +371,13 @@ W
     - To estimate, to calculate, to reckon [[Kangxi: 量也, 量度也, 凡稱量忖度皆曰揣]];
     - to feel, to try, to rub, in order to ascertain [[Kangxi: 一曰捫而察之也]];
     - to detect;
-    - ~~to~~ _(2)[ch(')(u:)n] tok(9)_
+    - ~~to~~ _~~(2)ch(')ui~~ ``(2)ch(')(u:)n`` tok(9)_
         [[cyun2 dok6 揣度]]
         to conjecture;
-    - _(2)[ch(')(u:)n] (1)mo_
+    - _~~(2)ch(')ui~~ ``(2)ch(')(u:)n`` (1)mo_
         [[cyun2 mo1 揣摩]],
         to feel, to learn one's wishes, to seek out the sense;
-    - _pat(7) (2)[ch(')(u:)n]_
+    - _pat(7) ~~(2)ch(')ui~~ ``(2)ch(')(u:)n``_
         [[bat1 cyun2 不揣]],
         unable to detect.
     ==
@@ -490,20 +493,19 @@ W
     ==
     - Erroneous [[Kangxi: 舛錯也, 錯亂也]], opposed [[Kangxi: 舛偝也 etc.]];
     - to contradict;
-    - the 136th~radical [["oppose"]][;]
+    - the 136th~radical [["oppose"]]``;``
     - _(2)ch(')(u:)n ts(')ok(8)_
         [[cyun2 cok3 舛錯]]
         wrong;
     - _(2)ch(')(u:)n mau(6)_
         [[cyun2 mau6 舛謬]]
-        ~~to deceive~~.
+        ~~to deceive~~ ``absurd``.
     ==
   ====
 C
   ==
   - Fan Wan entry: Fixed missing stroke in 錯, and corrected malformed 亂.
   - Williams' 舛錯: Now more commonly read _(2)ch(')(u:)n ts(')o(3)_ (cyun2 co3).
-  - Williams' 舛謬: Better rendered "absurd".
   ==
 P
   ++
@@ -669,10 +671,10 @@ W
       _(1)kw(a/)n_ [[gwaan1 關]],
       _ch(')ek(8)_ [[cek3 尺]]
         are three locations of the pulse;
-    - _tak[(9)] (1)sau ts(')(u:)n(3) tsz'(6)_
+    - _~~tak(7)~~ ``tak(9)`` (1)sau ts(')(u:)n(3) tsz'(6)_
         [[dak6 sau1 cyun3 zi6 特修寸字]]
         I have written a little note;
-    - _[(2)]lo ch(')ek(8) ts(')(u:)n(3)_
+    - _~~(5)lo~~ ``(2)lo`` ch(')ek(8) ts(')(u:)n(3)_
         [[lo2 cek3 cyun3 攞尺寸]]
         get its measure.
     ==
@@ -722,7 +724,7 @@ W
     - To fling away [[Kangxi 攛: 擲也]];
     - to tempt, to seduce to evil [[Kangxi 攛: 俗謂誘人爲非曰攛掇]];
     - to get one to consent;
-    - _[ts(')(u:)n(3)] ch(u:)t(8)_
+    - _~~(2)ch(')(u:)n~~ ``ts(')(u:)n(3)`` ch(u:)t(8)_
         [[cyun3 zyut3 攛掇]]
         to entice, to inveigle.
     ==
@@ -766,29 +768,25 @@ W
     ==
     - A furnace or cooking-place [[Kangxi: 竈也 etc.]];
     - a mess, a table;
-    - to cook [[Kangxi: 炊也]] ~~gently~~;
+    - to cook ``over a fire`` [[Kangxi: 炊也]] ~~gently~~;
     - ~~to steam;~~
-    - _(1)ch(')ui ts(')(u:)n[(3)]_
+    - _(1)ch(')ui ~~(2)ts(')(u:)n~~ ``ts(')(u:)n(3)``_
         [[ceoi1 cyun3 炊爨]]
         to cook;
-    - _tsz'(6) (2)k(i/) (1)hoi ts(')(u:)n[(3)]_
+    - _tsz'(6) (2)k(i/) (1)hoi ~~(2)ts(')(u:)n~~ ``ts(')(u:)n(3)``_
         [[zi6 gei2 hoi1 cyun3 自己開爨]],
         eats by himself;
-    - _(1)fan ts(')(u:)n[(3)]_
+    - _(1)fan ~~(2)ts(')(u:)n~~ ``ts(')(u:)n(3)``_
         [[fan1 cyun3 分爨]],
         to eat at separate tables;
-    - _(4)t(')ung ts(')(u:)n[(3)]_
+    - _(4)t(')ung ~~(2)ts(')(u:)n~~ ``ts(')(u:)n(3)``_
         [[tung4 cyun3 同爨]],
         at the same table, messmate;
-    - _t(a/)p(8) ts(')(u:)n[(3)]_
+    - _t(a/)p(8) ~~(2)ts(')(u:)n~~ ``ts(')(u:)n(3)``_
         [[daap3 cyun3 搭爨]],
         a boarder.
     ==
   ====
-C
-  ==
-  - Williams' "to cook gently": Not gently. Specifically, to cook over a fire.
-  ==
 E
   ====
   - 【開火爨】 (hoi1 fo2 cyun3):
@@ -818,18 +816,18 @@ W
   - [[Page~38* (2)竄 _(2)Ch(')(u:)n_ (cyun2); here normalised to _Ts(')(u:)n(3)_ (cyun3)]]
     ==
     - To sneak away, to hide, to skulk [[Kangxi: 匿也逃也]];
-    - ~~to kill;~~
+    - ~~to kill~~ ``to exile, to punish`` [[Kangxi: 放也誅也]];
     - [[...]];
     - to fumigate [[Kangxi: 竄以藥薰之也]];
     - to secrete [[Kangxi: 藏也隱也]];
     - ~~petty, weak, pusillanimous;~~
-    - _[ts(')(u:)n(3)] nik(7)_
+    - _~~(2)ch(')(u:)n~~ ``ts(')(u:)n(3)`` nik(7)_
         [[cyun3 nik1 竄匿]]
         to hide away;
-    - _(4)t(')(o\) [ts(')(u:)n(3)]_
+    - _(4)t(')(o\) ~~(2)ch(')(u:)n~~ ``ts(')(u:)n(3)``_
         [[tou4 cyun3 逃竄]],
         to run off;
-    - _[ts(')(u:)n(3)] s(i/)t(8)_
+    - _~~(2)ch(')(u:)n~~ ``ts(')(u:)n(3)`` s(i/)t(8)_
         [[cyun3 sit3 竄竊]]
         to pilfer.
     ==
@@ -841,12 +839,9 @@ C
   ==
   - Fan Wan entry: Corrected malformed headword.
     The first two characters ::也[竄]:: of the explanation are erroneous.
-  - Williams' "to kill": This is a misreading of Kangxi 放也誅也,
-    which should be rendered "[to] exile, [to] punish".
   ==
 P
   ++
-  1. To exile (Kangxi: 放也誅也).
   1. In secret (Kangxi: 竄微也).
   1. To alter (Kangxi: 改易也).
   1. To put, to place.
@@ -1046,7 +1041,7 @@ W
         lay this aside;
     - _(4)ts(')(u:)n (1)sam_
         [[cyun4 sam1 存心]],
-        ~~to be of the same mind~~;
+        to ~~be of the same~~ ``keep in the`` mind;
     - _(4)ts(')(u:)n (1)f(a/)n yat(7) (2)t(i/)m hau(6) yui(6)_
         [[cyun4 faan1 jat1 dim2 hau6 jeoi6 存返一點後裔]]
         there remains one descendant only;
@@ -1057,7 +1052,7 @@ W
     - _(i/)(3) (4)ts(')(u:)n_
         [[ji3 cyun4 意存]],
         a settled purpose;
-    - _[(4)]ts(')(u:)n (4)lau_
+    - _~~(5)ts(')(u:)n~~ ``(4)ts(')(u:)n`` (4)lau_
         [[cyun4 lau4 存留]],
         to detain, to keep back;
     - _k(o\)(3) (4)ts(')(u:)n_
@@ -1068,7 +1063,6 @@ W
   ====
 C
   ==
-  - Williams' 存心: Not "to be of the same mind", but to keep in the mind.
   - Williams' 存留: Corrected _(5)ts(')(u:)n_ (cyun5) to _(4)ts(')(u:)n_ (cyun4).
   ==
 $$
@@ -1125,15 +1119,15 @@ F
   ==
 W
   ====
-  - [[Page~605 ::(4)[攅]::; here normalised to 攢]]
+  - [[Page~605 ::(4)~~{？=⿰扌⿱⿰夫⿹夫丶貝}~~``攅``::; here normalised to 攢]]
     ==
     - ~~Interchanged with 欑;~~
-    - to collect, to come together, to assemble [[Kangxi: 族聚也]];
-    - to lay a coffin under a shed, and not bury it [[Kangxi: 不葬而掩其柩曰攢亦作欑]];
+    - to collect, to come together, to assemble [[Kangxi 攢: 族聚也]];
+    - to lay a coffin under a shed, and not bury it [[Kangxi 攢: 不葬而掩其柩曰攢亦作欑]];
     - [[...]];
     - _(4)ts(')(u:)n h(o\)p(9)_
         [[cyun4 hap6-2 攢盒]]
-        a box with partitions, used for sweetmeats[.]
+        a box with partitions, used for sweetmeats``.``
     ==
   ====
 C
@@ -1145,7 +1139,6 @@ C
     the explanation 折也 is unrelated in meaning.
     Therefore, I would wager that zaan2
     is from analogy with the Mandarin reading zǎn in 積攢.
-  - Williams entry: Fixed extra dot at the top-right of the headword 攅.
   - Williams' "Interchanged with 欑": The character 攢 can be written as 欑,
     but not the other way round.
   ==
@@ -1166,21 +1159,17 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~605 ::(4)[攅]::; here corrected to 欑]]
+  - [[Page~605 ::(4)~~{？=⿰扌⿱⿰夫⿹夫丶貝}~~``攅``::; here corrected to 欑]]
     ==
     - ~~Interchanged with 欑;~~
     - [[...]];
-    - poles and thatch to cover a coffin [[Kangxi: 輴盛柩之車欑猶菆也菆木于輴之四面至于棺上以泥塗之]];
+    - poles and thatch to cover a coffin [[Kangxi 欑: 輴盛柩之車欑猶菆也菆木于輴之四面至于棺上以泥塗之]];
     - [[...]]^
     ==
     --
     [[Otherwise, an alternative form of 攢. **See $攢cyun4 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - Williams entry: Fixed extra dot at the top-right of the headword 攅.
-  ==
 $$
 
 ### 泉4 | _(4)Ts(')(u:)n_ [[cyun4]]
@@ -1201,7 +1190,7 @@ W
     - A fountain, a spring [[Kangxi: 濫泉正出正出涌出也 etc.]];
     - the headwaters of a river [[Kangxi: 水原也]];
     - a department in Fuhkien [[福建]], Ts(')iuen-chau f(u/) [[泉州府]] or Chinchew [[泉州]];
-    - _(2)[tseng] (4)ts(')(u:)n_
+    - _~~(2)tsing~~ ``(2)tseng`` (4)ts(')(u:)n_
         [[zeng2 cyun4 井泉]],
         a well;
     - _lap(9) (4)ts(')(u:)n_
@@ -1218,7 +1207,7 @@ W
         money, cash [[Kangxi: 貨泉卽錢也]];
     - _(4)ts(')(u:)n l(o\)(6)_
         [[cyun4 lou6 泉路]]
-        ~~the shades~~;
+        ~~the shades~~ ``the underworld``;
     - _(4)lau (4)ts(')(u:)n (5)y(e/)ung (5)l(o\)_
         [[lau4 cyun4 joeng5 lou5 流泉養老]],
         to cherish one's old age.
@@ -1398,20 +1387,11 @@ W
     ==
     - To sit cross-legged;
     - to sit cuddled up, to sit on the heels [[Kangxi: 踞也]];
-    - ~~to make antics;~~
+    - ~~to make antics~~ ``dancing, moving with regularity`` [[Kangxi: 蹲蹲舞貌, 蹲蹲行有節]];
     - to sit haughtily;
-    - placed together, as scales of armor [[Kangxi: 聚也]].
+    - ~~placed together~~ ``gathered``, as scales of armor [[Kangxi: 聚也]].
     ==
   ====
-C
-  ==
-  - Williams' "to make antics": Better rendered "dancing".
-  - Williams' "placed together": Better rendered "gathered".
-  ==
-P
-  ++
-  1. Dancing, moving with regularity (Kangxi: 蹲蹲舞貌, 蹲蹲行有節).
-  ++
 S
   ==
   - $蹲deon1 (TODO)
@@ -1519,7 +1499,7 @@ W
   ====
   - [[Page~605 (5)鱒]]
     ==
-    - A fish like the roach, with small scales [[Kangxi: 鱒似鯶魚而鱗細於鯶赤眼]].
+    - A fish like the roach, with small scales ``and red eyes`` [[Kangxi: 鱒似鯶魚而鱗細於鯶赤眼]].
     ==
     --
     In Japan, this character denotes the salmon.
@@ -1527,7 +1507,6 @@ W
   ====
 C
   ==
-  - Williams' "A fish [...]": Also having red eyes, per 《說文》赤目魚 etc.
   - Williams' "In Japan, [...] denotes the salmon":
     I am not knowledgeable enough in either Japanese or biology
     to say whether this is unreasonable.
