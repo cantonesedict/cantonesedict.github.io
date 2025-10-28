@@ -84,7 +84,7 @@ W
   - [[Page~3 ::厄(7)~~{𢨪=⿸戶巳}(7)~~::]]
     ==
     - [[...]];
-    - small door in a house [[Kangxi: 同戹]];
+    - small door in a house [[Kangxi 厄: 同戹]];
     - impeded, cramped;
     - to be ill-used, to be straitened;
     - _ak(7) (4)k(')ung_
