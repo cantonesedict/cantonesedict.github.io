@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cong
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -101,10 +101,10 @@ W
         to dispense rice from the granaries;
     - _yat(7) (1)ts(')ong (1)ts(')ong_
         [[jat1 cong1 cong1 一倉倉]],
-        one bin or stall;
+        ~~one bin or stall~~ ``individual bins``;
     - _(1)ts(')ong ts(')(u:)t(8)_
         [[cong1 cyut3 倉卒]]
-        flurried, ~~perturbed, alarmed~~.
+        ~~flurried, perturbed, alarmed~~ ``hurried, hasty``.
     ==
   - [[Page~593 (1)蒼; here normalised to 倉]]
     ==
@@ -116,12 +116,6 @@ W
     - [[...]].
     ==
   ====
-C
-  ==
-  - Williams' 一倉倉: Better rendered "individual bins".
-  - Williams' 倉卒: Not perturbed or alarmed.
-    More hurried or hasty (Kangxi: 倉卒悤遽貌) than flurried.
-  ==
 $$
 
 ### 刅1 | _(1)Ch(')ong_ [[cong1]]
@@ -271,15 +265,15 @@ W
     - _(1)ch(')ong lau(6)_
         [[cong1 lau6 瘡瘻]]
         the piles;
-    - _(1)[sh(a/)ng] (1)ch(')ong_
+    - _~~(1)shang~~ ``(1)sh(a/)ng`` (1)ch(')ong_
         [[saang1 cong1 生瘡]],
         to have a sore;
-    - _(2)fo (1)[teng] (1)ch(')ong_
+    - _(2)fo ~~(1)ting~~ ``(1)teng`` (1)ch(')ong_
         [[fo2 deng1 cong1 火釘瘡]],
         a boil;
-    - _w(a/)t(8) yuk(9) (2)lo (1)ch(')ong (1)[sh(a/)ng]_,
+    - _w(a/)t(8) yuk(9) (2)lo (1)ch(')ong ~~(1)shang~~ ``(1)sh(a/)ng``_,
         [[waat3 juk6 lo2 cong1 saang1 挖肉攞瘡生]]
-        he scrapes the flesh to make a sore ~~--- he trumps up a cause against me~~;
+        he scrapes the flesh to make a sore --- he ~~trumps up a cause against me~~ ``brings unnecessary trouble to himself``;
     - _k(i/)(3) (1)ch(')ong_
         [[gei3 cong1 寄瘡]],
         to give away a boil.
@@ -287,14 +281,10 @@ W
   ====
 C
   ==
-  - Williams' 生瘡: Changed _(1)shang_ (sang1)
+  - Williams' 生瘡, 挖肉攞瘡生: Changed _(1)shang_ (sang1)
     to vernacular reading _(1)sh(a/)ng_ (saang1).
   - Williams' 火釘瘡: Changed _(1)ting_ (ding1)
     to vernacular reading _(1)teng_ (deng1).
-  - Williams' 挖肉攞瘡生: Changed _(1)shang_ (sang1)
-    to vernacular reading _(1)sh(a/)ng_ (saang1).
-    Not "he trumps up a cause against me",
-    but "he brings unnecessary trouble onto himself".
   ==
 $$
 
@@ -331,7 +321,7 @@ W
     - _(1)fung (1)ts(')ong_
         [[fung1 cong1 封艙]],
         to forbid trade;
-    - _t(a/)i(6) [(5)]t(')(o\) (1)ts(')ong_
+    - _t(a/)i(6) ~~(2)t(')(o\)~~ ``(5)t(')(o\)`` (1)ts(')ong_
         [[daai6 tou5 zong2 大肚艙]],
         the main hold;
     - _(1)ts(')ong wai(6)_
@@ -446,7 +436,7 @@ W
     - _hak(7) (1)ts(')ong_
         [[hak1 cong1 黑䱽]],
         the black pomfret _(Stromateus niger)_;
-    - _(4)wong [l(a/)p](9) (1)ts(')ong_
+    - _(4)wong ~~lap(9)~~ ``l(a/)p(9)`` (1)ts(')ong_
         [[wong4 laap6 cong1 黃鱲䱽]],
         the yellow pomfret _(Trachinotus auratus)_;
     - _(1)f(a/) (1)ts(')ong_
@@ -485,7 +475,7 @@ W
   - [[Page~594 (1)鶬]]
     ==
     - A kind of crane [[Kangxi: 今呼鶬鴰, 鶬大如鶴]], plumage ashcolored [[Kangxi: 靑蒼色亦有灰色者]], and cheeks red [[Kangxi: 兩頰紅]];
-    - _(1)ts(')ong [k(')(u/)t](8)_
+    - _(1)ts(')ong ~~k(u/)t(8)~~ ``k(')(u/)t(8)``_
         [[cong1 kut3 鶬鴰]]
         the black crane,
         called _(4)t(')(i/)n (1)tam (1)kai_ [[tin4 dam1 gai1 田揼雞]],
@@ -572,7 +562,7 @@ W
     - _(4)p(')ung (2)ch(')ong_
         [[pung4 cong2 篷廠]]^
         a mat shed;
-    - _[(2)]ko [(1)]k(a/)n uk(7) (2)ho (2)ch(')ong_
+    - _~~ko(3)~~ ``(2)ko`` ~~(4)^k(a/)n~~ ``(1)k(a/)n`` uk(7) (2)ho (2)ch(')ong_
         [[go2 gaan1 uk1 hou2 cong2 嗰間屋好廠]],
         that's a large house;
     - _(2)ch(')ong (1)t(')eng_
@@ -735,7 +725,7 @@ W
     - _(2)ch(')ong (1)kw(a/)n_
         [[cong2 gwaan1 闖關]],
         to slip by the custom-house;
-    - _(2)ch(')ong [ts(')(a/)k](9) (4)loi_
+    - _(2)ch(')ong ~~ts(a/)k(9)~~ ``ts(')(a/)k(9)`` (4)loi_
         [[cong2 caak6 loi4 闖賊來]],
         the rover Ch(')ong [[闖]] is on us!
     ==
@@ -807,7 +797,7 @@ W
     - To begin, to invent [[Kangxi: 始也造也]];
     - to create, to found, to lay the foundation of;
     - to take measures for;
-    - to reprove;
+    - ~~to reprove;~~
     - the commencement, first;
     - _ts(o\)(6) ch(')ong(3)_
         [[zou6 cong3 造創]]
@@ -832,11 +822,10 @@ W
     [[Otherwise, a reading variation. **See $創cong1 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - Williams' "to reprove": Not necessarily to rebuke.
-    Here, Kangxi 懲也 is better interpreted as taking heed/warning.
-  ==
+P
+  ++
+  1. To take heed or warning (Kangxi: 懲也).
+  ++
 S
   ==
   - $創cong1
@@ -863,11 +852,11 @@ W
   - [[Page~29* (2)愴 _(2)Ch(')ong_ (cong2); here normalised to _Ch(')ong(3)_ (cong3)]]
     ==
     - Grief [[Kangxi: 傷也]];
-    - _(1)ts(')ai ch(')ong[(3)]_
+    - _(1)ts(')ai ~~(2)ch(')ong~~ ``ch(')ong(3)``_
         [[cai1 cong3 悽愴]],
         sorrow;
         to pity;
-    - _ch(')ong[(3)] ch(')ak(7)_
+    - _~~(2)ch(')ong~~ ``ch(')ong(3)`` ch(')ak(7)_
         [[cong3 cak1 愴惻]]
         a wounded heart, distressed.
     ==
@@ -893,7 +882,7 @@ $$
 </nav>
 <## /tone-4-characters ##>
 
-### 幢4 | _(4)[Ch(')ong]_ [[cong4]]
+### 幢4 | _~~(4)^Chong~~ ``(4)Ch(')ong``_ [[cong4]]
 
 $$
 R
@@ -911,10 +900,6 @@ W
       and having a tilt at top.
     ==
   ====
-C
-  ==
-  - Williams erroneously puts 幢 under unaspirated _(4)^chong_ (zong4); here corrected.
-  ==
 S
   ==
   - $幢tong4 (TODO)
