@@ -151,7 +151,7 @@ W
   ====
 $$
 
-### ~~⿰氵⿱來氺~~``漆``1 | _Ts(')at(7)_ [[cat1]]
+### ~~{？=⿰氵⿱來氺}~~``漆``1 | _Ts(')at(7)_ [[cat1]]
 
 $$
 R
@@ -176,7 +176,7 @@ W
     The second [[柒]] [[...]] is also [[...]]
     a contracted form of the next [[::[漆]::]] [[Kangxi 柒: 俗漆字]].
     --
-  - [[Page~559 ::~~⿰氵⿱來氺~~``漆``(7)::]]
+  - [[Page~559 ::~~{？=⿰氵⿱來氺}~~``漆``(7)::]]
     ==
     - Varnish, lacquer;
     - viscid or resinous juices which can be used in painting [[Kangxi: 木汁可髤物]];
