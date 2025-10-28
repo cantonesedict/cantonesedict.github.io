@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cung
-* %date-modified --> 2025-09-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -105,7 +105,7 @@ W
     - to act, to fill an office [[Kangxi 充: 充當也]];
     - to stop up, to stuff [[Kangxi 充: 塞也]];
     - sufficient [[Kangxi 充: 備也]];
-    - fine [[Kangxi 充: 美也]], ~~long~~, high [[Kangxi 充: 長也高也]];
+    - fine [[Kangxi 充: 美也]], ~~long~~ ``grown``, high [[Kangxi 充: 長也高也]];
     - _(1)ch(')ung (2)k(a/) fo(3)_
         [[cung1 gaa2 fo3 充假貨]]
         to foist in a poor quality of goods;
@@ -125,7 +125,6 @@ W
   ====
 C
   ==
-  - Williams' "long": Better rendered "grown".
   - Williams' 充實: Also "fulfilling" or "rich".
   ==
 P
@@ -732,7 +731,7 @@ W
   ====
   - [[Page~608 (1)葱]]
     ==
-    - An onion, ~~garlic~~;
+    - An onion~~, garlic~~;
     - a general name for alliaceous vegetables [[Kangxi 葱: 菜也 etc.]];
     - a leek or light green [[Kangxi 葱: 靑謂之蔥]];
     - ~~a vent, a tubular passage, a draft;~~
@@ -748,9 +747,9 @@ W
     - _(1)ts(')ung p(a/)k(9)_
         [[cung1 baak6 蔥白]]
         the onion bulb;
-    - _(1)ts(')ung (5)[leng]_
+    - _(1)ts(')ung ~~(5)ling~~ ``(5)leng``_
         [[cung1 leng5 蔥嶺]],
-        ~~the Karakorum Mts~~ [[Kangxi: 山名 etc.]].
+        the ~~Karakorum~~ ``Pamir`` Mts [[Kangxi: 山名 etc.]].
     ==
   ====
 C
@@ -761,7 +760,6 @@ C
     or Kangxi 氣通達也 (which is an adjective sense, not a noun sense).
   - Williams' 蔥頭: The preferred term for "onion" in Cantonese is 洋蔥.
   - Williams' 蔥嶺: Changed _(5)ling_ (ling5) to vernacular reading _(5)leng_ (leng5).
-    Not the Karakorum, but the Pamir Mountains.
   ==
 P
   ++
@@ -794,7 +792,7 @@ W
     - to rise or rush against [[Kangxi: 當也向也突也]], ~~to overflow~~;
     - abrupt;
     - towards;
-    - ~~a car;~~
+    - a ~~car~~ ``battering-chariot`` [[Kangxi: 車也 etc.]];
     - _(1)ch(')ung i(u/)(3)_
         [[cung1 jiu3 衝要]]
         a thoroughfare;
@@ -812,13 +810,7 @@ W
 C
   ==
   - Fan Wan entry: The character 水 is likely erroneous.
-  - Williams' "a car": In the (now) archaic sense meaning "chariot",
-    and better rendered "battering-chariot".
   ==
-P
-  ++
-  1. A battering-chariot (Kangxi: 車也 etc.).
-  ++
 E
   ====
   - 【衝】 (cung1):
@@ -922,7 +914,7 @@ W
   ====
   - [[Page~608 (1)騘; here normalised to 驄]]
     ==
-    - A dapple-gray horse [[Kangxi: 馬靑白雜毛也 etc.]], ~~a bay horse~~;
+    - A dapple-gray horse [[Kangxi: 馬靑白雜毛也 etc.]]~~, a bay horse~~;
     - _(5)'ng (1)f(a/) (1)ts(')ung_
         [[ng5 faa1 cung1 五花驄]],
         a piebald, fancy horse.
@@ -947,7 +939,7 @@ $$
 </nav>
 <## /tone-2-characters ##>
 
-### [冢]2 | _(2)Ch(')ung_ [[cung2]]
+### ~~冡~~``冢``2 | _(2)Ch(')ung_ [[cung2]]
 
 $$
 R
@@ -968,7 +960,7 @@ F
   ==
 W
   ====
-  - [[Page~41 ::(2)[冢]^::]]
+  - [[Page~41 ::(2)~~冡~~``冢``::]]
     ==
     - The peak of a hill [[Kangxi: 山頂也]];
     - a mound or tumulus [[Kangxi: 墓之墳者亦曰冢]];
@@ -987,7 +979,6 @@ W
 C
   ==
   - Fan Wan entry: Corrected headword 冡 to 冢.
-  - Williams (following Fan Wan) misprints 冢 as 冡; here corrected.
   ==
 P
   ++
@@ -996,7 +987,7 @@ P
   ++
 $$
 
-### [塚]2 | _(2)Ch(')ung_ [[cung2]]
+### ~~塜~~``塚``2 | _(2)Ch(')ung_ [[cung2]]
 
 $$
 R
@@ -1013,7 +1004,7 @@ F
   ==
 W
   ====
-  - [[Page~41 ::(2)[塚]^::]]
+  - [[Page~41 ::(2)~~塜~~``塚``::]]
     ==
     - A grave, a tomb [[Kangxi: 冢俗作塚]];
     - _(1)fong (2)ch(')ung_
@@ -1036,7 +1027,6 @@ W
 C
   ==
   - Fan Wan entry: Corrected headword 塜 to 塚.
-  - Williams (following Fan Wan) misprints 塚 as 塜; here corrected.
   ==
 $$
 
@@ -1086,7 +1076,7 @@ W
         your concubine;
     - _tak(7) (2)ch(')ung_
         [[dak1 cung2 得寵]],
-        to win [a hushand's] [[these square brackets appear in the original text]] love.
+        to win [a hushand's] love.
     ==
   ====
 $$
@@ -1293,7 +1283,7 @@ W
     - _(1)(i/) (4)ts(')ung_
         [[ji1 cung4 依從]],
         according with;
-    - _[k(')uk](7) (4)ts(')ung_
+    - _~~huk(7)~~ ``k(')uk(7)`` (4)ts(')ung_
         [[kuk1 cung4 曲從]],
         constrained to obey;
     - _(4)ts(')ung (4)yau_
@@ -1313,7 +1303,7 @@ W
         since childhood;
     - _(1)s(a/)m (4)ts(')ung_
         [[saam1 cung4 三從]],
-        three compliances of a female to her father, husband[,] and son.
+        three compliances of a female to her father, husband``,`` and son.
     ==
   ====
 C
@@ -1353,14 +1343,13 @@ W
   - [[Page~606 (1)悰 _(1)Tsung_ (zung1); here normalised to _(4)Ts(')ung_ (cung4)]]
     ==
     - To rejoice;
-    - pleasure, delight [[Kangxi: 樂也]];
+    - ~~pleasure, delight~~ ``joy`` [[Kangxi: 樂也]];
     - ~~to think over, to consider.~~
     ==
   ====
 C
   ==
   - Fan Wan entry: Corrected ⿰忄⿳亠罒⿱十衣 to 懷.
-  - Williams' "pleasure, delight": Better rendered "joy".
   ==
 P
   ++
@@ -1617,7 +1606,7 @@ W
     ==
     - Young grain [[Kangxi: 稚也]];
     - delicate, tender;
-    - _[(4)]ch(')ung ch(i/)(6)_
+    - _~~(1)ch(')ung~~ ``(4)ch(')ung`` ch(i/)(6)_
         [[cung4 zi6 种稚]]
         immature, beautiful, as children.
     ==
@@ -1763,11 +1752,11 @@ W
     - [[...]];
     - severe, heinous;
     - [[...]];
-    - _(5)yau (2)k(i/) [(5)ch(')ung]_
+    - _(5)yau (2)k(i/) ~~chung(6)~~ ``(5)ch(')ung``_
         [[jau5 gei2 cung5 有幾重]]^
         how heavy is it?
     - [[...]];
-    - _[(5)ch(')ung] (2)t(a/)_
+    - _~~chung(6)~~ ``(5)ch(')ung`` (2)t(a/)_
         [[cung5 daa2 重打]],
         to beat severely;
     - [[...]].
