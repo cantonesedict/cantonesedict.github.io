@@ -47,10 +47,10 @@ by [Samuel Wells Williams].
 ===={.modern}
 - Front matter (1856)
   ==
-  -{.williams} [\[Chinese Title Page\]](/title/chinese)
-  -{.williams} [\[English Title Page\]](/title/english)
-  -{.williams} [Preface.](/preface/)
-  -{.williams} [Introduction.](/intro/)
+  -{.williams} [《英華分韻撮要》](/title/chinese)
+  -{.williams} [A Tonic Dictionary](/title/english)
+  -{.williams} [Preface](/preface/)
+  -{.williams} [Introduction](/intro/)
   ==
 
 - Front matter (modern)
