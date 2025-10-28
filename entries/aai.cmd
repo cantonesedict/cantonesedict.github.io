@@ -171,7 +171,7 @@ W
   ====
 C
   ==
-  - Williams' 十嗌九爭銀: "Ten to one" is perhaps better rendered as "nine out of ten".
+  - Williams' 十嗌九爭銀: "Ten to one" is perhaps better rendered "nine in ten".
   ==
 E
   ====
