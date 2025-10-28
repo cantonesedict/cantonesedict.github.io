@@ -49,6 +49,7 @@ TODO for merging branch `edits-with-ins-del`:
 - Make h3 headword and reading an insertion
 - Check for square brackets in locators and "here corrected"
 - Check deletions near punctuation
+- Leave common readings unaltered
 - Clean up `autoupdate.py`
 - Update last modified 2025-XX-XX
 
