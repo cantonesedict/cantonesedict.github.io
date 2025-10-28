@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyut
-* %date-modified --> 2025-09-07
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -139,7 +139,7 @@ W
     - To take a pinch with two or three fingers [[Kangxi: 一曰兩指撮也, 三指取也]];
     - a pinch, a pugil;
     - to take up a little;
-    - ~~to snatch~~, to bring together [[Kangxi: 撮摠取也]];
+    - ~~to snatch,~~ to bring together [[Kangxi: 撮摠取也]];
     - a little, a handfull;
     - a measure of 256 (some say 60) grains of millet [[Kangxi: 四圭曰撮三指撮之也六十四黍爲圭]];
     - brought together, selected [[Kangxi: 蹙聚而捎取之也]];
@@ -155,7 +155,7 @@ W
     - _ts(')(u:)t(8) (4)m(a/)i yat(7) p(o\)(6)_
         [[cyut3 maai4 jat1 bou6 撮埋一部]]
         make them all into one book;
-    - _ts(')(u:)t(8) (5)sh(e/)ung [(2)]ki(u/)_
+    - _ts(')(u:)t(8) (5)sh(e/)ung ~~(5)^ki(u/)~~ ``(2)ki(u/)``_
         [[cyut3 soeng5 giu6-2 撮上轎]],
         to force one into a sedan;
     - _ts(')(u:)t(8) h(o\)p(9)_
@@ -209,7 +209,7 @@ W
   ====
 $$
 
-### [蕝]3 | _Ts(')(u:)t(8)_ [[cyut3]]
+### ~~{？=⿱艹⿰糸邑}~~``蕝``3 | _Ts(')(u:)t(8)_ [[cyut3]]
 
 $$.
 R
@@ -223,15 +223,11 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~610 ::[蕝](8)蕞(8)::]]
+  - [[Page~610 ::~~{？=⿱艹⿰糸邑}~~``蕝``(8)蕞(8)::]]
     --
     [[Reading variation. **See $蕝zyut3 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - Williams misprints 蕝 as ⿱艹⿰糸邑; here corrected.
-  ==
 S
   ==
   - $蕝zyut3
