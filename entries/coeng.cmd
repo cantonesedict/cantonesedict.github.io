@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2025-08-31
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -89,7 +89,7 @@ W
     - Groping, going blindly [[Kangxi: 狂行不知所如也 etc.]];
     - madly [[Kangxi: 狂也]], carelessly;
     - to fall down [[Kangxi: 一曰仆也]];
-    - _[(1)ch(')(e/)ung] (2)kwai_
+    - _~~(4)ch(')(a/)ng~~ ``(1)ch(')(e/)ung`` (2)kwai_
         [[coeng1 gwai2 倀鬼]],
         a lares eaten by a tiger, _met._ one who entices to evil courses.
     ==
@@ -210,7 +210,7 @@ S
   ==
 $$
 
-### [{𢃑=⿰巾昌}]1 | _(1)Ch(')(e/)ung_ [[coeng1]]
+### ~~帽~~``{𢃑=⿰巾昌}``1 | _(1)Ch(')(e/)ung_ [[coeng1]]
 
 $$.
 R
@@ -223,15 +223,11 @@ F
   ==
 W
   ====
-  - [[Page~36|n79 ::(1)[{𢃑=⿰巾昌}]^::]]
+  - [[Page~36|n79 ::~~(1)帽~~``(1){𢃑=⿰巾昌}``::]]
     --
     [[Alternative form of 裮. **See $裮coeng1 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - Williams misprints {𢃑=⿰巾昌} as 帽; here corrected.
-  ==
 $$
 
 ### 搶1 | _(1)Ts(')(e/)ung_ [[coeng1]]
@@ -264,16 +260,10 @@ W
   - [[Page~567 (1)槍; here normalised to 搶]]
     ==
     - [[...]];
-    - to bow the head low [[Kangxi 槍: 抵也]];
+    - to ~~bow~~ ``knock`` the head low [[Kangxi 槍: 抵也]];
     - [[...]].
     ==
   ====
-C
-  ==
-  - Williams' "to bow the head low": Better rendered "to knock".
-    Bowing of the head is merely the specific case of
-    knocking the head against the ground (頭槍地, per the example in Kangxi).
-  ==
 S
   ==
   - $搶caang1
@@ -474,7 +464,7 @@ W
     ==
     - [[...]];
     - a musical sound [[Kangxi: 玉聲也, 一曰樂聲]];
-    - _(1)[ts(')(e/)ung] (1)[ts(')(e/)ung]_
+    - _~~(1)ts(')ong (1)ts(')ong~~ ``(1)ts(')(e/)ung (1)ts(')(e/)ung``_
         [[coeng1 coeng1 瑲瑲]],
         the jingling of stones.
     ==
@@ -542,7 +532,7 @@ W
     - _(1)t(')(i/)n (1)ch(')(e/)ung_
         [[tin1 coeng1 天窗]],
         a sky-light;
-    - _(1)ch(')(e/)ung (4)m(u/)n (5)[ch(')(a/)m]_
+    - _(1)ch(')(e/)ung (4)m(u/)n ~~(5)ch(')(a/)n~~ ``(5)ch(')(a/)m``_
         [[coeng1 mun4-2 caam5 窗門棖]],
         a window-sill;
     - _(1)sh(u:) (1)ch(')(e/)ung_ [[syu1 coeng1 書窗]],
@@ -634,15 +624,11 @@ F
   ==
 W
   ====
-  - [[Page~36|n79 ::(1)[{𢃑=⿰巾昌}]::; here normalised to 裮]]
+  - [[Page~36|n79 ::~~(1)帽~~``(1){𢃑=⿰巾昌}``::; here normalised to 裮]]
     ==
     - Loose flowing garments thrown on one without a cincture [[Kangxi 裮: 披裮, 披衣不帶也]].
     ==
   ====
-C
-  ==
-  - Williams misprints {𢃑=⿰巾昌} as 帽; here corrected.
-  ==
 $$
 
 ### 蹌1 | _(1)Ts(')(e/)ung_ [[coeng1]]
@@ -726,7 +712,7 @@ W
     - [[...]];
     - a gun;
     - a spear;
-    - _[(5)]ni(u/) (1)ts(')(e/)ung_
+    - _~~(2)ni(u/)~~ ``(5)ni(u/)`` (1)ts(')(e/)ung_
         [[niu5 coeng1 鳥鎗]],
         a fowling-piece, a matchlock;
     - _shik(9) (1)ts(')(e/)ung (4)l(e/)ung_
@@ -883,7 +869,7 @@ W
     - _(2)ts(')(e/)ung (1)s(i/)n (4)hang_
         [[coeng2 sin1 hang4 搶先行]],
         to thrust one's self forward;
-    - _(2)ts(')(e/)ung [p(')(a/)u](3) (4)t(')au_
+    - _(2)ts(')(e/)ung ~~p(')au(3)~~ ``p(')(a/)u(3)`` (4)t(')au_
         [[coeng2 pau3 tau4 搶炮頭]],
         to struggle for the rocket stick on the 2d of 2d~month;
     - _(2)ts(')(e/)ung t(u:)t(9)_
@@ -953,19 +939,19 @@ W
     - a leader;
     - an example, a guide;
     - [[...]];
-    - _ch(')(e/)ung[(3)] t(o\)(6)_
+    - _~~(1)ch(')(e/)ung~~ ``ch(')(e/)ung(3)`` t(o\)(6)_
         [[coeng3 dou6 倡導]]
         to show the way;
-    - _ch(')(e/)ung[(3)] (4)(i/)n_
+    - _~~(1)ch(')(e/)ung~~ ``ch(')(e/)ung(3)`` (4)(i/)n_
         [[coeng3 jin4 倡言]],
         to speak first;
-    - _ch(')(e/)ung[(3)] sut(7)_
+    - _~~(1)ch(')(e/)ung~~ ``ch(')(e/)ung(3)`` sut(7)_
         [[coeng3 seot1 倡率]]
         to lead on;
-    - _ch(')(e/)ung[(3)] (4)t(')au_
+    - _~~(1)ch(')(e/)ung~~ ``ch(')(e/)ung(3)`` (4)t(')au_
         [[coeng3 tau4 倡頭]],
         a leader;
-    - _ch(')(e/)ung[(3)] l(u:)n(6)_
+    - _~~(1)ch(')(e/)ung~~ ``ch(')(e/)ung(3)`` l(u:)n(6)_
         [[coeng3 lyun6 倡亂]]
         to head a riot.
     ==
@@ -1304,7 +1290,7 @@ W
     - _(4)t(')(a/)n (4)ch(')(e/)ung_
         [[taan4 coeng4 壇場]],
         an altar;
-    - _t(')i(u/)(3) ch(')ut(7) sh(i/)[(6)] (1)f(i/) (4)ch(')(e/)ung_
+    - _t(')i(u/)(3) ch(')ut(7) ~~(4)sh(i/)~~ ``sh(i/)(6)`` (1)f(i/) (4)ch(')(e/)ung_
         [[tiu3 ceot1 si6 fei1 coeng4 跳出是非場]],
         I'll have nothing more to do with it;
     - _(1)hoi (1)t(')(a/)n (4)ch(')(e/)ung_
@@ -1578,7 +1564,7 @@ W
       _t(a/)i(6) (4)ts(')(e/)ung_ [[daai6 coeng4 大祥]],
         are the sacrifices to ancestors at the end of one and two years,
         when the mourning is altered [[Kangxi: 祭名 etc.]];
-    - _pat(7) (4)ts(')(e/)ung (1)ch(i/) [shi(u/)](6)_
+    - _pat(7) (4)ts(')(e/)ung (1)ch(i/) ~~chi(u/)(6)~~ ``shi(u/)(6)``_
         [[bat1 coeng4 zi1 siu6 不祥之兆]]
         a most unlucky omen;
     - _(4)ts(')z' (4)ts(')(e/)ung_
@@ -1852,7 +1838,7 @@ W
         an old comrade;
     - _(4)ch(')(e/)ung (1)shang pat(7) (5)l(o\)_
         [[coeng4 sang1 bat1 lou5 長生不老]],
-        ~~a green old age~~;
+        ~~a green old age~~ ``immortal``;
     - _(4)ch(')(e/)ung (5)(u:)n shai(3) k(a/)i(3)_
         [[coeng4 jyun5 sai3 gaai3 長遠世界]]
         long continued, as a family;
@@ -1864,10 +1850,6 @@ W
         go directly there.
     ==
   ====
-C
-  ==
-  - Williams' 長生不老: Not simply vigorous in age, but immortal.
-  ==
 E
   ====
   - 【長氣】 (coeng4 hei3):
