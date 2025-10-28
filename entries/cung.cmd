@@ -1145,7 +1145,7 @@ W
   ====
   - [[Page~41 銃(3)]]
     ==
-    - ~~A piece of iron bored;~~
+    - ~~A piece of iron bored~~ ``The eye of an axe`` [[Kangxi: 銎也, 斧穿也]];
     - a blunderbuss, a ginjall, a gun;
     - _ch(')ung(3) p(')(a/)u(3)_
         [[cung3 paau3 銃炮]]
@@ -1158,15 +1158,6 @@ W
         small guns.
     ==
   ====
-C
-  ==
-  - Williams' "A piece of iron bored": This is a misreading of Kangxi 斧穿也.
-    Here, 斧 means "axe".
-  ==
-P
-  ++
-  1. The eye of an axe (Kangxi: 銎也, 斧穿也).
-  ++
 $$
 
 

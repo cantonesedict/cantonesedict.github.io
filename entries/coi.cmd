@@ -555,20 +555,14 @@ W
   - [[Page~591 蔡(3)]]
     ==
     - Grass, herbs, esculent herbs [[Kangxi: 草也]];
-    - ~~a law, a rule;~~
+    - ~~a law, a rule~~ ``punishment by banishment`` [[Kangxi: 蔡法也]];
     - name of a feudal state, now J(u/)ning f(u/) [[汝寧府]]
       in the southeast of Hon(a/)n [[河南]].
     ==
   ====
-C
-  ==
-  - Williams' "a law, a rule": This is a misreading of Kangxi 蔡法也.
-    Here, 法 means "punishment" (with 蔡 specifically meaning "banishment").
-  ==
 P
   ++
   1. A great turtle (Kangxi: 蔡國君之守龜 etc.).
-  1. Banishment (Kangxi: 蔡法也).
   1. A surname (Kangxi: 姓).
   ++
 $$

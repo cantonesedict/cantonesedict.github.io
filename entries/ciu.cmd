@@ -514,7 +514,7 @@ W
     - To assimilate, to imitate [[Kangxi: 肖法也]];
     - a likeness or relationship between parent and child [[Kangxi: 骨肉相似也]],
       said to be proved by mixing their blood;
-    - resembling, like [[Kangxi: 似也]];
+    - resembling, like [[Kangxi: 似也, 肖類也]];
     - small [[Kangxi: 小也]];
     - ~~a class;~~
     - alike;
@@ -534,7 +534,7 @@ W
   ====
 C
   ==
-  - Williams' "a class": This is a misreading of Kangxi 類也.
+  - Williams' "a class": This is a misreading of Kangxi 肖類也.
   ==
 S
   ==
