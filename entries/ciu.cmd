@@ -357,7 +357,7 @@ F
   ==
 W
   ====
-  - [[Page~562 ::~~(1)愁~~``(1)愀``:: _(1)Ts(')au_ (cau1); here normalised to _(2)Ts(')i(u/)_ (ciu2)]]
+  - [[Page~562 ::(1)~~愁~~``愀``:: _(1)Ts(')au_ (cau1); here normalised to _(2)Ts(')i(u/)_ (ciu2)]]
     ==
     - To blush, to redden, to change color [[Kangxi: 容色變也]];
     - ~~downhearted, sad.~~

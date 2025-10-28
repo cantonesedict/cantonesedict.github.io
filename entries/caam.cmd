@@ -74,7 +74,7 @@ F
   ==
 W
   ====
-  - [[Page~553 ::(1)參~~(1)⿳厽𠆢氺~~``(1)叅``::]]
+  - [[Page~553 ::(1)參(1)~~⿳厽𠆢氺~~``叅``::]]
     ==
     - To be concerned with [[Kangxi 參: 干與也]], to join with for consultation [[Kangxi 參: 相謁也]],
       to advise, to give counsel to;
@@ -147,7 +147,7 @@ F
   ==
 W
   ====
-  - [[Page~553 ::(1)參~~(1)⿳厽𠆢氺~~``(1)叅``::]]
+  - [[Page~553 ::(1)參(1)~~⿳厽𠆢氺~~``叅``::]]
     --
     [[Alternative form of 參. **See $參caam1 for the canonical entry.**]]
     --

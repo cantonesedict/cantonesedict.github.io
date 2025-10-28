@@ -609,7 +609,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~26* ::~~(2){？=⿰石⿱林⿱冖⿱一龰}~~``(2)礎``::]]
+  - [[Page~26* ::(2)~~{？=⿰石⿱林⿱冖⿱一龰}~~``礎``::]]
     ==
     - The stone base of a pillar or column [[Kangxi: 柱下石, 礩也]];
     - a pedestal;

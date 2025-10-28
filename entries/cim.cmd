@@ -421,7 +421,7 @@ W
         [[cim1 jyu5 籤語]],
         to draw lots for a response.
     ==
-  - [[Page~571 ::~~(1)韱~~``(1)籤``::]]
+  - [[Page~571 ::(1)~~韱~~``籤``::]]
     ==
     - Similar to the above [[簽]];
     - a slip, a lot [[Kangxi: 驗也, 竹籤用以卜者]];
@@ -584,7 +584,7 @@ F
   ==
 W
   ====
-  - [[Page~16* ::(2)諂~~(2){𨶒=⿵門舀}~~``(2)讇``::]]
+  - [[Page~16* ::(2)諂(2)~~{𨶒=⿵門舀}~~``讇``::]]
     ==
     - To flatter [[Kangxi: 同讇省諛也]], to lie to;
     - to cajole;
@@ -626,7 +626,7 @@ F
   ==
 W
   ====
-  - [[Page~16* ::(2)諂~~(2){𨶒=⿵門舀}~~``(2)讇``::]]
+  - [[Page~16* ::(2)諂(2)~~{𨶒=⿵門舀}~~``讇``::]]
     --
     [[Alternative form of 諂. **See $諂cim2 for the canonical entry.**]]
     --

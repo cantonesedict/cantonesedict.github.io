@@ -177,7 +177,7 @@ F
   ==
 W
   ====
-  - [[Page~550 ::(1)棲~~(1)梄~~``(1)栖``::]]
+  - [[Page~550 ::(1)棲(1)~~梄~~``栖``::]]
     --
     [[Alternative form of 棲. **See $棲cai1 for the canonical entry.**]]
     --
@@ -205,7 +205,7 @@ F
   ==
 W
   ====
-  - [[Page~550 ::(1)棲~~(1)梄~~``(1)栖``::]]
+  - [[Page~550 ::(1)棲(1)~~梄~~``栖``::]]
     ==
     - To roost, to perch, to nestle [[Kangxi 栖: 日在西方而鳥棲 etc.]] [[Kangxi 棲: 同栖鳥棲也]];
     - to sojourn, to stay at, to reside;

@@ -791,7 +791,7 @@ F
   ==
 W
   ====
-  - [[Page~15|n58 ::~~(2){𩵫=⿰冘魚}~~``(2)魫``:: _(2)Ch(')am_ (cam2); here corrected to _(4)Ch(')am_ (cam4)]]
+  - [[Page~15|n58 ::(2)~~{𩵫=⿰冘魚}~~``魫``:: _(2)Ch(')am_ (cam2); here corrected to _(4)Ch(')am_ (cam4)]]
     ==
     - The roe or eggs of fish [[Kangxi: 魚子]];
     - the name of a fish [[Fan Wan: 魚名]].

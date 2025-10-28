@@ -135,7 +135,7 @@ F
   ==
 W
   ====
-  - [[Page~562 ::~~(1)愁~~``(1)愀``::]]
+  - [[Page~562 ::(1)~~愁~~``愀``::]]
     --
     [[Reading variation. **See $愀ciu2 for the canonical entry.**]]
     --

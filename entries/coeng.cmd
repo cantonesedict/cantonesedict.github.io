@@ -223,7 +223,7 @@ F
   ==
 W
   ====
-  - [[Page~36|n79 ::~~(1)帽~~``(1){𢃑=⿰巾昌}``::]]
+  - [[Page~36|n79 ::(1)~~帽~~``{𢃑=⿰巾昌}``::]]
     --
     [[Alternative form of 裮. **See $裮coeng1 for the canonical entry.**]]
     --
@@ -624,7 +624,7 @@ F
   ==
 W
   ====
-  - [[Page~36|n79 ::~~(1)帽~~``(1){𢃑=⿰巾昌}``::; here normalised to 裮]]
+  - [[Page~36|n79 ::(1)~~帽~~``{𢃑=⿰巾昌}``::; here normalised to 裮]]
     ==
     - Loose flowing garments thrown on one without a cincture [[Kangxi 裮: 披裮, 披衣不帶也]].
     ==
