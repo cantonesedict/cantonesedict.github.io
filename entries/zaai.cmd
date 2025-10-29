@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -50,7 +50,7 @@ $$
 </nav>
 <## /tone-1-characters ##>
 
-### [斋]1 | _(1)Ch(a/)i_ [[zaai1]]
+### ~~{？=⿱攵而}~~``斋``1 | _(1)Ch(a/)i_ [[zaai1]]
 
 $$.
 R
@@ -65,15 +65,11 @@ F
   ==
 W
   ====
-  - [[Page~10|n53 ::(1)齋(1)[斋]^::]]
+  - [[Page~10|n53 ::(1)齋(1)~~{？=⿱攵而}~~``斋``::]]
     --
     [[Alternative form of 齋. **See $齋zaai1 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - Williams entry: Normalised headword ⿱攵而 to 斋.
-  ==
 $$
 
 ### 齊1 | _(1)Ch(a/)i_ [[zaai1]]
@@ -122,7 +118,7 @@ F
   ==
 W
   ====
-  - [[Page~10|n53 ::(1)齋(1)[斋]^::]]
+  - [[Page~10|n53 ::(1)齋(1)~~{？=⿱攵而}~~``斋``::]]
     ==
     - To respect, to reverence [[Kangxi 齋: 恭也, 齋敬也]];
     - to abstain from [[Kangxi 齋: 潔也, 洗心曰齋]];
@@ -153,7 +149,7 @@ W
     - _(1)ch(a/)i k(a/)i(3)_
         [[zaai1 gaai3 齋戒]]
         to fast from animal food;
-    - _(1)ch(a/)i tsi(u/)[(3)]_
+    - _(1)ch(a/)i ~~tsi(u/)(6)~~ ``tsi(u/)(3)``_
         [[zaai1 ziu3 齋醮]]
         to fast at All-souls;
     - _shik(9) (1)ch(a/)i_
@@ -281,7 +277,7 @@ W
     - _fong(3) ch(a/)i(3)_
         [[fong3 zaai3 放債]]
         to let capital;
-    - _[ts(')(i/)t](8) (5)(i/) p(i/)n(3) ch(a/)i(3) (2)tan_
+    - _~~ts(i/)t(8)~~ ``ts(')(i/)t(8)`` (5)(i/) p(i/)n(3) ch(a/)i(3) (2)tan_
         [[cit3 ji5 bin3 zaai3 dan2 切耳變債躉]],
         cut off his ears and make him a stool of debt.
     ==
@@ -312,10 +308,10 @@ W
   - [[Page~11|n54 瘵(3) _Ch(')(a/)i(3)_ (caai3); here normalised to _Ch(a/)i(3)_ (zaai3)]]
     ==
     - Weary, sick [[Kangxi: 勞病也, 病也]];
-    - _(4)l(o\) [ch(a/)i](3)_
+    - _(4)l(o\) ~~ch(')(a/)i(3)~~ ``ch(a/)i(3)``_
         [[lou4 zaai3 癆瘵]]
         consumption, a wasting disease;
-    - _tsz'(6) [ch(a/)i](3)_
+    - _tsz'(6) ~~ch(')(a/)i(3)~~ ``ch(a/)i(3)``_
         [[zi6 zaai3 自瘵]]
         to bring trouble on one's self.
     ==
