@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2025-07-20
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -541,7 +541,7 @@ W
     ==
     - Name of a river [[Kangxi: 水名]];
     - [[...]];
-    - _[(2)]tsai [(2)]tsai_
+    - _~~tsai(3) tsai(3)~~ ``(2)tsai (2)tsai``_
         [[zai2 zai2 濟濟]]^
         abundant; a concourse [[Kangxi: 濟濟衆盛之貌]].
     ==
@@ -665,7 +665,7 @@ W
   ====
   - [[Page~10|n53 掣(3)]]
     ==
-    - To obstruct, to hinder ~~from entering~~ [[Kangxi: 滯隔不進也]];
+    - To obstruct, to hinder from ~~entering~~ ``advancing`` [[Kangxi: 滯隔不進也]];
     - [[...]];
     - _(1)h(i/)n chai(3)_
         [[hin1 zai3 牽掣]]
@@ -679,15 +679,13 @@ W
     - _h(i/)p(9) chai(3)_
         [[hip6 zai3 挾掣]]
         to restrain;
-    - _chai(3) (2)[ch(a/)u]_
+    - _chai(3) ~~(2)chau~~ ``(2)ch(a/)u``_
         [[zai3 zaau2 掣肘]],
         to impede, to embarrass.
     ==
   ====
 C
   ==
-  - Williams' "from entering": This is a misreading of Kangxi 滯隔不進也.
-    Here, 進 means "advancing", not "entering".
   - Williams' 掣肘: Changed _(2)chau_ (zau2) to common reading _(2)ch(a/)u_ (zaau2).
   - Williams' "to embarrass": In the (now) archaic sense of "impede", "obstruct".
   ==
@@ -977,9 +975,9 @@ W
   ====
   - [[Page~548 際(3)]]
     ==
-    - A limit, a border, ~~a region~~ [[Kangxi: 方也, 邊也畔也]], the line of junction of two things [[Kangxi: 壁會也]];
+    - A limit, a border, a ~~region~~ ``perimeter`` [[Kangxi: 方也, 邊也畔也]], the line of junction of two ~~things~~ ``walls`` [[Kangxi: 壁會也]];
     - the time or place where another begins [[Kangxi: 際接也]];
-    - to join [[Kangxi: 合也, 會也]], ~~to begin~~;
+    - to join [[Kangxi: 合也, 會也]]~~, to begin~~;
     - the time of occurring, now, since;
     - _(2)sz' (1)shang (1)ch(i/) tsai(3)_
         [[si2 sang1 zi1 zai3 死生之際]]
@@ -999,11 +997,6 @@ W
         _met._ to receive a favor.
     ==
   ====
-C
-  ==
-  - Williams' "a region": This is a misreading of Kangxi 方也.
-    Here, 方 means perimeter, not place.
-  ==
 $$
 
 ###+ 隮3 | _Tsai(3)_ (zai3)
@@ -1106,7 +1099,7 @@ W
     --
     ==
     - A superlative, denoting that the extreme has been reached;
-    - _[(5)t(')(a/)m] tak(7) tsai(6)_
+    - _~~t(a/)m(6)~~ ``(5)t(')(a/)m`` tak(7) tsai(6)_
         [[taam5 dak1 zai6 淡得嚌]]
         excessively weak, as tea;
     - _(5)m(o\) mat(7) tsai(6)_
@@ -1243,16 +1236,13 @@ W
     ==
     - To reap grain [[Kangxi: 穫刈也]];
     - a handful of rice [[Kangxi: 一曰撮也]], as it is cut;
-    - to put it together to bind into sheaves [[Kangxi: 刈禾把數, 穧禾之鋪而未束者]].
+    - to put it together ~~to bind~~ ``in preparation for binding`` into sheaves [[Kangxi: 刈禾把數, 穧禾之鋪而未束者]].
     ==
   ====
 C
   ==
   - Williams' "as it is cut": It is unclear whether 撮也 "pinch" applies
     to the grain (after harvesting) or to the crop (during harvest).
-  - Williams' "to bind into sheaves":
-    Better rendered "*in preparation for binding* into sheaves".
-    The act of binding is explicitly excluded in the meaning of 穧.
   ==
 S
   ==
