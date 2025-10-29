@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2025-10-19
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -487,7 +487,7 @@ W
     - A rank condiment of fish or flesh and salted hashed fine,
       with red rice and oil [[Kangxi: 藏魚也 etc.]];
     - [[...]];
-    - _[(5)]l(a/) (2)ch(a/)_
+    - _~~l(a/)(6)~~ ``(5)l(a/)`` (2)ch(a/)_
         [[laa5 zaa2 揦鮓]],
         rank, dirty, foul.
     ==
@@ -608,7 +608,7 @@ W
     - To foam and sputter in anger [[Kangxi 吒: 噴也叱怒也]];
     - to talk angrily;
     - to grumble;
-    - _ch(')ik(7) [ch(a/)](3)_
+    - _ch(')ik(7) ~~ch(')(a/)(3)~~ ``ch(a/)(3)``_
         [[cik1 zaa3 叱吒]]
         to rail at.
     ==
@@ -806,7 +806,7 @@ W
     ==
     - A running ulcer [[Kangxi: 瘡不合也]];
     - [[...]];
-    - _(1)[sh(a/)ng] ch(a/)[(3)] (1)soi_
+    - _~~(1)shang~~ ``(1)sh(a/)ng`` ~~(2)ch(a/)~~ ``ch(a/)(3)`` (1)soi_
         [[saang1 zaa3 soi1 生痄腮]],
         a swelling on the cheek.
     ==
@@ -840,11 +840,11 @@ W
   ====
   - [[Page~8 蚱(3)]]
     ==
-    - A large locust, called _(5)m(a/) ch(a/)(3)_
+    - A large ~~locust~~ ``grasshopper``, called _(5)m(a/) ch(a/)(3)_
         [[maa5 zaa3 螞蚱]]
-      or _ch(a/)(3) (5)[m(a/)ng]_
+      or _ch(a/)(3) ~~(5)mang~~ ``(5)m(a/)ng``_
         [[zaa3 maang5 蚱蜢]];
-    - _ch(a/)(3) (4)[sh(i/)m]_
+    - _ch(a/)(3) ~~(4)sh(i/)n~~ ``(4)sh(i/)m``_
         [[zaa3 sim4 蚱蟬]],
         a small species of cicada.
     ==
@@ -854,7 +854,6 @@ C
   - The reading _ch(a/)(3)_ (zaa3) is not unattested;
     《集韻》 has the reading 側駕切, explained ::蟬[屬]::.
   - Williams' 蚱蜢: Changed _(5)mang_ (mang5) to common reading _(5)m(a/)ng_ (maang5).
-    More a grasshopper than a locust.
   - Williams' 蚱蟬: Changed _(4)sh(i/)n_ (sin4) to common reading _(4)sh(i/)m_ (sim4).
   ==
 S
@@ -886,7 +885,7 @@ W
   - [[Page~9|n52 蜡(3) _Ch(')(a/)(3)_ (caa3); here normalised to _Ch(a/)(3)_ (zaa3)]]
     ==
     - To bind up, sealed up, as in winter [[Kangxi: 蜡也者索也 etc.]];
-    - _p(a/)t(8) [ch(a/)](3)_
+    - _p(a/)t(8) ~~ch(')(a/)(3)~~ ``ch(a/)(3)``_
         [[baat3 zaa3 八蜡]]
         a sacrifice of thanksgiving to the earth in winter for ripening crops.
     ==
@@ -945,7 +944,7 @@ W
     - _(1)k(a/)n ch(a/)(3)_
         [[gaan1 zaa3 奸詐]]
         to delude;
-    - _ch(a/)(3) [(1)]k(a/) (1)(i/)_
+    - _ch(a/)(3) (2)k(a/) (1)(i/)_
         [[zaa3 gaa2-1 ji3-1 詐假意]],
         false;
     - _ch(a/)(3) ngai(6)_
@@ -962,11 +961,6 @@ W
     [[Otherwise, an alternative form of 乍. **See $乍zaa3 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - Williams' 詐假意: Changed _(2)k(a/)_ (gaa2)
-    to vernacular reading _(1)k(a/)_ (gaa1).
-  ==
 E
   ====
   - 【詐諦】 (zaa3 dai3):
@@ -1091,7 +1085,7 @@ W
   - [[Page~7 (2)鮓 _(2)Ch(a/)_ (zaa2); here corrected to _Ch(a/)(6)_ (zaa6)]]
     ==
     - [[...]];
-    - _ch(a/)[(6)] (4)(u:)_
+    - _~~(2)ch(a/)~~ ``ch(a/)(6)`` (4)(u:)_
         [[zaa6 jyu4 鮓魚]],
         a sort of Medusa or sea-blubber [[Kangxi: 海魚名 etc.]];
     - [[...]].
