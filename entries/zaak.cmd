@@ -118,7 +118,7 @@ W
     - [[...]];
     - garrulous, impertinent or meddlesome;
     - ~~to assent to;~~
-    - _[ch(a/)k(8)] [ch(a/)k(8)] ts(a/)n(3)_
+    - _~~tsik(7) tsik(7)~~ ``ch(a/)k(8) ch(a/)k(8)`` ts(a/)n(3)_
         [[zaak3 zaak3 zaan3 嘖嘖讚]]
         to chuckle admiringly.
     ==
@@ -132,7 +132,7 @@ S
   ==
 $$
 
-### 措3 | _[Ch(a/)k](8)_ [[zaak3]]
+### 措3 | _~~Ch(')(a/)k(8)~~ ``Ch(a/)k(8)``_ [[zaak3]]
 
 $$
 R
@@ -148,7 +148,7 @@ W
     [[...]]
     --
     --
-    Read _[ch(a/)k](8)_ [[zaak3]].
+    Read _~~ch(')(a/)k(8)~~ ``ch(a/)k(8)``_ [[zaak3]].
     --
     ==
     - To pursue after, to chase, to ferret out [[Kangxi: 追捕也]].
@@ -157,10 +157,6 @@ W
     [[Otherwise, an alternative form of 笮 (for the "crush" sense). **See $笮zaak3 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - Williams' "Read [...]": Corrected _ch(')(a/)k(8)_ (caak3) to _ch(a/)k(8)_ (zaak3).
-  ==
 S
   ==
   - $措cou3
@@ -463,7 +459,7 @@ V
   ==
 F
   ==
-  - [[F2.32 簀 _Chak(7)_ (zak1)]] ？？也
+  - [[F2.32 簀 _Chak(7)_ (zak1)]] ::？？也::
   ==
 W
   ====
@@ -507,7 +503,7 @@ W
   - [[Page~13|n56 舴(8)]]
     ==
     - A boat;
-    - _ch(a/)k(8) [(5)m(a/)ng]_
+    - _ch(a/)k(8) ~~mang(6)~~ ``(5)m(a/)ng``_
         [[zaak3 maang5 舴艋]]^
         a small boat, a punt, a pinnace, a junk's gig [[Kangxi: 舴艋小舟]].
     ==
@@ -564,10 +560,10 @@ W
         [[zaak3 fat6 責罰]]
         to fine;
     - [[...]];
-    - _ch(a/)k(8) (4)[sh(e/)ung]_
+    - _ch(a/)k(8) ~~(4)ch(')(e/)ung~~ ``(4)sh(e/)ung``_
         [[zaak3 soeng4 責償]],
         to compel repayment;
-    - _ch(a/)k(8) [fat](9)_
+    - _ch(a/)k(8) ~~f(a/)t(9)~~ ``fat(9)``_
         [[zaak3 fat6 責罰]]
         to punish;
     - _ch(a/)k(8) man(6)_
@@ -697,7 +693,7 @@ W
         [[jam1 zaak6 陰宅]]
         a grave;
         ancestral halls or shrines;
-    - _ch(a/)k(9) [shi(u/)](6)_
+    - _ch(a/)k(9) ~~chi(u/)(6)~~ ``shi(u/)(6)``_
         [[zaak6 siu6 宅兆]]
         to divine for a grave.
     ==
@@ -735,8 +731,8 @@ W
     - to point out [[Kangxi: 一曰指近之也]];
     - _ch(a/)k(9) yan(3)_
         [[zaak6 jan3 摘印]]
-        to take away [an officer's] [[these square brackets appear in the original text]] seal;
-    - _ch(a/)k(9) (2)t(u\) [lok](9) (4)lai_
+        to take away [an officer's] seal;
+    - _ch(a/)k(9) (2)t(u\) ~~tok(9)~~ ``lok(9)`` (4)lai_
         [[zaak6 doe2 lok6 lai4 摘朵落嚟]],
         pull a flower down;
     - _yat(7) ch(a/)k(9)_
@@ -745,7 +741,7 @@ W
     - _ch(a/)k(9) (2)kwo_
         [[zaak6 gwo2 摘果]],
         to pick fruit;
-    - _ch(a/)k(9) [(2)]teng_
+    - _ch(a/)k(9) ~~(1)teng~~ ``(2)teng``_
         [[zaak6 deng2 摘頂]],
         to take away an officer's button.
     ==
@@ -754,7 +750,7 @@ W
     [[...]]
     --
     --
-    ~~This~~ and the last [[摘]] are also read _t(')ik(7)_ [[tik1]]
+    ~~This and the~~ ``The`` last [[摘]] ~~are~~ ``is`` also read _t(')ik(7)_ [[tik1]]
     ~~with the same meanings~~.
     --
   ====
@@ -783,7 +779,7 @@ W
     - To select, to pick out, to choose, to prefer [[Kangxi: 揀選也]];
     - _ch(a/)k(9) yat(9)_
         [[zaak6 jat6-2 擇日]]
-        to choose a [lucky] [[these square brackets appear in the original text]] day;
+        to choose a [lucky] day;
     - _(5)n(i/) k(o\)m(3) (2)k(a/)n ch(a/)k(9)_
         [[nei5 gam3 gaan2 zaak6 你咁揀擇]]
         you are so hard to suit;
@@ -1010,7 +1006,7 @@ W
   - [[Page~13|n56 謫(9)讁(9)]]
     ==
     - To blame, to reprehend [[Kangxi 謫: 責也, 咎也]];
-    - to [disgrace] officers, to punish [[Kangxi 謫: 罰也]] by disgracing;
+    - to ~~disgracc~~ ``disgrace`` officers, to punish [[Kangxi 謫: 罰也]] by disgracing;
     - to scold, to be angry at [[Kangxi 謫: 怒也]], to find fault with;
     - flaw, error [[Kangxi 謫: 罪也過也]];
     - a change of appearance [[Kangxi 謫: 變氣也]];
