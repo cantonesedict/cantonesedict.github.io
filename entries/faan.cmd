@@ -649,7 +649,8 @@ W
         repetition, to and fro, to retract;
     - _(1)s(e/)ung (2)f(a/)n_
         [[soeng1 faan2 相反]],
-        discordant; ``opposite, contrariwise;``
+        discordant;
+        ``opposite, contrariwise;``
     - _tsok(8) (2)f(a/)n_
         [[zok3 faan2 作反]],
         to rebel;
