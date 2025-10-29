@@ -118,6 +118,9 @@ C
   ==
 P
   ++
+  1. Used in 反切 (back-dissection) or alone, referring to the method of indicating
+     (Middle) Chinese pronunciation by two characters,
+     marking the initial (consonant) and the final (rime) respectively.
   1. To bite or gnash (the teeth).
   1. Close (in the sense of near).
   ++
