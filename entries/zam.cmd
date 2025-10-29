@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -77,7 +77,7 @@ W
     - to lade out, to lighten;
     - to deliberate, to adjust [[Kangxi: 斟取也, 計也]];
     - a ladle, a spoon [[Kangxi: 勺也]];
-    - _(1)cham (5)t(')o lok(8)_
+    - _(1)cham (5)t(')o ~~lok(9)~~ ``lok(8)``_
         [[zam1 to5 lok3 斟妥咯]]
         all well settled;
     - _(4)t(')ung (5)n(i/) (1)cham (1)cham_
@@ -86,7 +86,7 @@ W
     - _(1)cham (4)ch(')(a/)_
         [[zam1 caa4 斟茶]],
         to pour out tea;
-    - _sai[(3)] (1)cham_
+    - _~~sai(6)~~ ``sai(3)`` (1)cham_
         [[sai3 zam1 細斟]],
         to whisper;
     - _(1)cham ch(e/)uk(8)_
@@ -96,7 +96,7 @@ W
   ====
 C
   ==
-  - Williams' 斟綏咯: Corrected _lok(9)_ (lok6) to _lok(8)_ (lok3).
+  - Williams' 斟妥咯: Corrected _lok(9)_ (lok6) to _lok(8)_ (lok3).
   - Williams' 細斟: Corrected _sai(6)_ (sai6) to _sai(3)_ (sai3).
   ==
 E
@@ -285,7 +285,7 @@ W
     - _(1)cham (1)kw(')ai_
         [[zam1 kwai1 箴規]]^
         admonition, rebukes;
-    - _(1)cham [(5)]ming_
+    - _(1)cham ~~(4)ming~~ ``(5)ming``_
         [[zam1 ming5 箴銘]],
         cautionary maxims.
     ==
@@ -328,10 +328,10 @@ W
     - _(1)ch(')(u:)n (1)cham_
         [[cyun1 zam1 穿針]],
         to thread a needle;
-    - _[(2)]k(u/) (4)ch(')ui (1)cham_
+    - _~~(1)k(u/)~~ ``(2)k(u/)`` (4)ch(')ui (1)cham_
         [[gu2 ceoi4 zam1 鼓錘針]],
         a pin;
-    - _(1)cham p(i/)(6) s(e/)uk[(8)] t(')(i/)t[(8)]_
+    - _(1)cham p(i/)(6) ~~s(e/)uk(9)~~ ``s(e/)uk(8)`` ~~t(')(i/)t(9)~~ ``t(')(i/)t(8)``_
         [[zam1 bei6 soek3 tit3 針鼻削鐵]]
         mean, stingy;
     - _(1)cham (2)ch(i/)_
@@ -360,7 +360,8 @@ W
 C
   ==
   - Williams' 鼓錘針: Corrected _(1)k(u/)_ (gu1) to _(2)k(u/)_ (gu2).
-  - Williams' 針鼻削鐵: Corrected _s(e/)uk(9) t(')(i/)t(9)_ (soek6 tit6) to _s(e/)uk(8) t(')(i/)t(8)_ (soek3 tit3).
+  - Williams' 針鼻削鐵: Corrected _s(e/)uk(9)_ (soek6) to _s(e/)uk(8)_ (soek3)
+    and corrected _t(')(i/)t(9)_ (tit6) to _t(')(i/)t(8)_ (tit3).
   ==
 $$
 
@@ -577,11 +578,11 @@ W
     - [[...]];
     - to pillow on, to lie near to;
     - contiguous, adjacent, lying on;
-    - _(2)sz' (2)ch(e/) (1)s(e/)ung cham[(3)] tsik(9)_
+    - _(2)sz' (2)ch(e/) (1)s(e/)ung ~~(2)cham~~ ``cham(3)`` tsik(9)_
         [[si2 ze2 soeng1 zam3 zik6 死者相枕藉]]
         the dead lay pillowed on each other;
     - [[...]];
-    - _[k(')uk](7) (1)kwang (4)(i/) cham[(3)]_
+    - _~~huk(7)~~ ``k(')uk(7)`` (1)kwang (4)(i/) ~~(2)cham~~ ``cham(3)``_
         [[kuk1 gwang1 ji4 zam3 曲肱而枕]],
         pillowed on his arm;
     - [[...]].
@@ -688,7 +689,7 @@ W
         niggardly, closefisted;
     - _(2)shui tsam(3)_
         [[seoi2 zam3 水浸]]
-        overflowed;
+        overflowed``, flooded``;
     - _hon(6) tsam(3) (4)hung (4)ng(a/)n_
         [[hon6 zam3 hung4 ngaan4 汗浸紅顏]],
         the perspiration rolled down his face;
@@ -721,7 +722,6 @@ C
     - 《集韻》 has the explanation 沒也.
     - Kangxi has 亦沒也 followed by the alternative sense 一曰投物水中也.
     ==
-  - Williams' 水浸: Specifically, flooded.
   - Williams' 汗浸紅顏: Although 紅顏 does not preclude men,
     it is generally used to describe a lady's face.
   ====
@@ -787,10 +787,10 @@ W
     ==
     - To slander, to vilify [[Kangxi: 愬也, 䛼也, 讒也]];
     - to discredit;
-    - _[cham](3) (4)(i/)n_
+    - _~~ch(')am(3)~~ ``cham(3)`` (4)(i/)n_
         [[zam3 jin4 譖言]],
         slanderous aspersions;
-    - _[cham](3) (4)yan_
+    - _~~ch(')am(3)~~ ``cham(3)`` (4)yan_
         [[zam3 jan4 譖人]],
         to asperse one.
     ==
@@ -876,7 +876,7 @@ W
     ==
     - Anciently used for I [[Kangxi: 我也, 古者貴賤皆自稱朕]];
     - now the royal We, Ourself [[Kangxi: ::秦始皇[...]定爲至尊之稱:: etc.]];
-    - _cham(6) [shi(u/)](6)_
+    - _cham(6) ~~chi(u/)(6)~~ ``shi(u/)(6)``_
         [[zam6 siu6 朕兆]]
         subtile, recondite.
     ==
