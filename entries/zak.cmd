@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zak
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -74,7 +74,7 @@ W
     - _(1)k(')ing chak(7)_
         [[king1 zak1 傾仄]]
         tipped over, upset;
-    - _chak(7) (1)[shing]_
+    - _chak(7) ~~(1)sheng~~ ``(1)shing``_
         [[zak1 sing1 仄聲]]^
         the oblique tones;
     - _chak(7) lau(6)_
@@ -183,7 +183,7 @@ W
         [[zak1 go3 則個]] in the court dialect
         is like _pa(6) lok(8)_ [[baa6 lok3 罷咯]]
         well, then;
-        _e.~g._ _sh(u:)(3) [ts(u/)i](6) tsak(7) ko(3)_
+        _e.~g._ _sh(u:)(3) ~~tsui(6)~~ ``ts(u/)i(6)`` tsak(7) ko(3)_
         [[syu3 zeoi6 zak1 go3 恕罪則個]]
         well, then I'll pardon the fault;
     - _(5)yau mat(9) (5)yau tsak(7)_
