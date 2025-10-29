@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaap
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -200,7 +200,7 @@ W
     - _(4)kw(')an ch(a/)p(8)_
         [[kwan4 zaap3 裙褶]]
         the plaits on a petticoat;
-    - _(2)t(a/) [ch(a/)p](8)_
+    - _(2)t(a/) ~~ch(i/)p(8)~~ ``ch(a/)p(8)``_
         [[daa2 zaap3 打褶]]
         to tighten the girdle.
     ==
@@ -340,7 +340,7 @@ W
   ====
   - [[Page~558 習(9)]]
     ==
-    - A continued flight [[Kangxi: 數飛也]];
+    - ~~A continued~~ ``Repeated`` flight [[Kangxi: 數飛也]];
     - to repeat the same act, to practice,
       to get accustomed to, to become skilled in;
     - practice, use, custom, habit, exercise, repetition [[Kangxi: 習重也]];
@@ -366,7 +366,7 @@ W
     - _ts(a/)p(9) (4)'m t(o\)(3)_
         [[zaap6 m4 dou3-2 習唔到]]
         cannot learn the use of it;
-    - _ts(a/)p(9) tsuk(9) [(2)sz'] (4)(i/)n_
+    - _ts(a/)p(9) tsuk(9) ~~(5)sh(i/)~~ ``(2)sz'`` (4)(i/)n_
         [[zaap6 zuk6 si2 jin4 習俗使然]],
         I've learned the usages.
     ==
@@ -404,7 +404,7 @@ W
     ==
     - [[...]];
     - a lined riding jacket [[Kangxi: 袴褶騎服]];
-    - _f(u/)(3) [ts(a/)p(9)]_
+    - _f(u/)(3) ~~ch(a/)p(8)~~ ``ts(a/)p(9)``_
         [[fu3 zaap6 袴褶]]
         overalls for horseback;
     - [[...]].
@@ -456,10 +456,10 @@ W
   ====
   - [[Page~558 襲(9)]]
     ==
-    - Double garments [[Kangxi: 重衣也]], ~~lined robes, a court dress~~;
+    - Double garments [[Kangxi: 重衣也]]~~, lined robes, a court dress~~;
     - a suit;
     - a robe fastened on the left side [[Kangxi: 左袵袍也]];
-    - ~~collected;~~
+    - ~~collected~~ ``to match`` [[Kangxi: 合也]];
     - repeated [[Kangxi: 重也]];
     - to make a foray, to invade, to steal into [[Kangxi: 掩其不備也]];
     - to receive, to inherit [[Kangxi: 受也]];
@@ -491,7 +491,6 @@ C
 P
   ++
   1. To wear (Kangxi: 服也).
-  1. To match (Kangxi: 合也).
   ++
 $$
 
@@ -647,7 +646,7 @@ W
   ====
   - [[Page~558 集(9)]]
     ==
-    - To flock together [[Kangxi: 本作雧羣鳥在木上也]];
+    - To flock together ``on a tree`` [[Kangxi: 本作雧羣鳥在木上也]];
     - to gather, as clouds;
     - to assemble, to come together, to congregate, to collect [[Kangxi: 合也, 聚也會也]];
     - to bring together [[Kangxi: 同也, 集齊也]];
@@ -682,7 +681,6 @@ W
   ====
 C
   ==
-  - Williams' "To flock together": Specifically, to do so on a tree.
   - Williams' "to go directly to the mark": Perhaps intended for Kangxi 就也成也,
     but that is better rendered "accomplished" or "completed".
   ==
@@ -741,7 +739,7 @@ W
     - _ts(a/)p(9) (4)t(')ong (2)kwo_
         [[zaap6 tong4 gwo2 雜糖果]],
         chowchow sweetmeats;
-    - _(5)'ng (1)fong ts(a/)p(9) [(5)]ch(')(u:)_
+    - _(5)'ng (1)fong ts(a/)p(9) ~~(2)ch(')(u:)~~ ``(5)ch(')(u:)``_
         [[ng5 fong1 zaap6 cyu5 五方雜處]],
         a place where all sorts of people live;
     - _ts(a/)p(9) l(u:)n(6)_
