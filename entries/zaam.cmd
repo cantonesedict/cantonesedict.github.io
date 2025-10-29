@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2025-08-18
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -178,9 +178,9 @@ W
     - to execute, to decapitate;
     - capital;
     - to root up;
-    - to break off, as [intercourse];
+    - to break off, as ~~intercousre~~ ``intercourse``;
     - ~~faded, forgotten, vanished;~~
-    - _(2)ch(a/)m (1)[ts(')(u/)i]_
+    - _(2)ch(a/)m ~~(1)shui~~ ``(1)ts(')(u/)i``_
         [[zaam2 ceoi1 斬衰]],
         mourning for parents;
     - _(2)ch(a/)m (5)t(')(u:)n_
@@ -201,7 +201,7 @@ W
     - _(2)ch(a/)m (1)hoi_
         [[zaam2 hoi1 斬開]],
         to cut open;
-    - _(2)ch(a/)m [fat](9)_
+    - _(2)ch(a/)m ~~f(a/)t(9)~~ ``fat(9)``_
         [[zaam2 fat6 斬伐]]
         to subjugate; to prune.
     ==
@@ -447,7 +447,7 @@ W
   - [[Page~16|n59 站(6)]]
     ==
     - A stage, a journey;
-    - _yik[(9)] ch(a/)m(6)_
+    - _~~yik(7)~~ ``yik(9)`` ch(a/)m(6)_
         [[jik6 zaam6 驛站]]
         a stage;
     - _ch(a/)m(6) (4)t(')au_
@@ -463,10 +463,10 @@ W
     - to stand erect;
     - to stop;
     - a stoppage;
-    - _[ch(a/)m](6) (2)h(i/) (4)loi_
+    - _~~ch(a/)n(6)~~ ``ch(a/)m(6)`` (2)h(i/) (4)loi_
         [[zaam6 hei2 loi4 站起來]],
         stand up!
-    - _[ch(a/)m](6) (1)p(a/)n_
+    - _~~ch(a/)n(6)~~ ``ch(a/)m(6)`` (1)p(a/)n_
         [[zaam6 baan1 站班]],
         to file off in rank, and salute an officer.
     ==
@@ -476,7 +476,8 @@ C
   - Fan Wan entry: Note that Fan Wan considers
     _ch(a/)n(6)_ (zaan6) to be the canonical reading of 站,
     with 賺 to be read _ch(a/)m(6)_ (zaam6).
-  - Williams' 驛站: Stage meaning a relay station for horses.
+  - Williams' 驛站: Corrected _yik(7)_ (jik1) to _yik(9)_ (jik6).
+    Stage meaning a relay station for horses.
   ==
 $$
 
