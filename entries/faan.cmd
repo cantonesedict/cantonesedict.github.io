@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faan
-* %date-modified --> 2025-10-23
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -84,7 +84,7 @@ W
   - [[Page~48 (2)反 _(2)F(a/)n_ (faan2); here normalised to _(1)F(a/)n_ (faan1)]]
     ==
     - [[...]];
-    - _[(1)]f(a/)n [ts(')(i/)t(8)]_
+    - _~~(2)f(a/)n~~ ``(1)f(a/)n`` ~~ts(i/)t~~ ``ts(')(i/)t(8)``_
         [[faan1 cit3 反切]],
         to spell, to combine sounds;
     - [[...]].
@@ -493,7 +493,7 @@ W
     - [[...]];
     - to return, [[...]];
     - [[...]];
-    - _(1)f(a/)n (1)[sh(a/)ng]_
+    - _(1)f(a/)n ~~(1)shang~~ ``(1)sh(a/)ng``_
         [[faan1 saang1 返生]],
         resuscitated;
     - [[...]];
@@ -644,16 +644,16 @@ W
     - to combine against;
     - opposed to, but, contrary;
     - again;
-    - _(2)fan fuk[(7)]_
+    - _(2)fan ~~fuk(9)~~ ``fuk(7)``_
         [[faan2 fuk1 反覆]]
         repetition, to and fro, to retract;
     - _(1)s(e/)ung (2)f(a/)n_
         [[soeng1 faan2 相反]],
-        discordant;
+        discordant; ``opposite, contrariwise;``
     - _tsok(8) (2)f(a/)n_
         [[zok3 faan2 作反]],
         to rebel;
-    - _(2)f(a/)n chi(u/)[(3)]_
+    - _(2)f(a/)n ~~chi(u/)(6)~~ ``chi(u/)(3)``_
         [[faan2 ziu3 反照]]
         to reflect light;
     - _(2)f(a/)n m(i/)n(6)_
@@ -662,17 +662,17 @@ W
     - _(2)f(a/)n kwat(7)_
         [[faan2 gwat1 反骨]]
         to backbite;
-    - _(2)f(a/)n ch(u:)n[(3)]_
+    - _(2)f(a/)n ~~(2)ch(u:)n~~ ``ch(u:)n(3)``_
         [[faan2 zyun3 反轉]],
         to turn over;
-    - _(2)f(a/)n [(2)]tau_
+    - _(2)f(a/)n ~~tau(3)~~ ``(2)tau``_
         [[faan2 dau2 反斗]]^
         clamor and play of children;
     - _(2)f(a/)n (2)hau_
         [[faan2 hau2 反口]]^
         to unsay, to recant;
     - [[...]];
-    - _(2)f(a/)n wai(6) it[(8)] shik(9)_
+    - _(2)f(a/)n wai(6) ~~(i/)t(9)~~ ``(i/)t(8)`` shik(9)_
         [[faan2 wai6 jit3 sik3 反胃噎食]]
         the stomach rejects food.
     ==
@@ -686,12 +686,11 @@ W
 C
   ==
   - Williams' 反覆: Corrected _fuk(9)_ (fuk6) to _fuk(7)_ (fuk1).
-  - Williams' 相反: Also "opposite", "contrariwise".
   - Williams' 反照: Corrected _chi(u/)(6)_ (ziu6) to _chi(u/)(3)_ (ziu3).
-  - Williams' 反轉: Corrected _(2)ch(u:)n_ (zyun2) to _ch(u:)(3)n_ (zyun3).
+  - Williams' 反轉: Corrected _(2)ch(u:)n_ (zyun2) to _ch(u:)n(3)_ (zyun3).
   - Williams' 反斗: Corrected _tau(3)_ (dau3) to _(2)tau_ (dau2).
     Hence 玩具反斗城 for Toys "R" Us (with 反斗 being a pun on the flipped R in English).
-  - Williams' 反胃噎食: Corrected _it(9)_ (jit6) to _it(8)_ (jit3).
+  - Williams' 反胃噎食: Corrected _(i/)t(9)_ (jit6) to _(i/)t(8)_ (jit3).
   ==
 P
   ++
@@ -786,13 +785,13 @@ W
     ==
     - To return, to come back [[Kangxi: 還也, 復也]];
     - to go back;
-    - _(2)f(a/)n [(1)]hi(u/) (1)h(e/)ung h(a/)[(6)]_
+    - _(2)f(a/)n ~~(4)hi(u/)~~ ``(1)hi(u/)`` (1)h(e/)ung ~~(5)h(a/)~~ ``h(a/)(6)``_
         [[faan2 hiu1 hoeng1 haa6-2 返嘵鄉下]],
         gone to his village;
-    - _(2)f(a/)n h(u:)(3) [(1)]kwai_
+    - _(2)f(a/)n h(u:)(3) ~~(4)^kwai~~ ``(1)kwai``_
         [[faan2 heoi3 gwai1 返去歸]],
         gone home;
-    - _[(5)]wong (2)f(a/)n (2)k(i/) yat(9)_
+    - _~~(2)wong~~ ``(5)wong`` (2)f(a/)n (2)k(i/) yat(9)_
         [[wong5 faan2 gei2 jat6 往返幾日]]
         how many days will you be gone?
     ==
@@ -800,7 +799,7 @@ W
 C
   ==
   - Williams' 返嘵鄉下: Corrected _(4)hi(u/)_ (hiu4) to _(1)hi(u/)_ (hiu1)
-    and changed _(5)h(a/)_ (haa5) to modern _h(a/)(6)_ (haa6-2).
+    and changed _(5)h(a/)_ (haa5) to modern _h(a/)(6)_ (haa6).
   - Williams' 返去歸: Corrected _(4)^kwai_ (gwai4) to _(1)kwai_ (gwai1).
   - Williams' 往返幾日: Corrected _(2)wong_ (wong2) to _(5)wong_ (wong5).
   - All three examples read like they belong under $返faan1 instead.
@@ -1004,11 +1003,16 @@ F
 W
   ====
   - [[Page~49 畚(3); here normalised to 畈]]
+    <ins>
+    --
+    A colloquial word.
+    --
+    </ins>
     ==
     - Ill-luck, evil influences;
     - ill-starred;
     - things to be avoided when commencing anything;
-    - _f(a/)n(3) ch(e/)uk[(9)]_
+    - _f(a/)n(3) ~~ch(e/)uk(8)~~ ``ch(e/)uk(9)``_
         [[faan3 zoek6 畈着]]
         to bring ill luck;
     - _f(a/)n(3) (4)shan_
@@ -1026,7 +1030,7 @@ C
     Williams' choice to spell it 畚 is a poor one,
     as that character is otherwise read _(2)p(u/)n_ (bun2).
     I have normalised to 畈 for phonetic defensibility.
-  - Williams' 畚着: Corrected _ch(e/)uk(8)_ (zoek3) to _ch(e/)uk(9)_ (zoek6).
+  - Williams' 畈着: Corrected _ch(e/)uk(8)_ (zoek3) to _ch(e/)uk(9)_ (zoek6).
   ==
 P
   ++
@@ -1173,7 +1177,7 @@ W
     - _t(a/)i(6) (4)f(a/)n (2)sho (5)yau_
         [[daai6 faan4 so2 jau5 大凡所有]],
         people generally have it;
-    - _h(a/)[(6)] (4)f(a/)n_
+    - _~~(5)h(a/)~~ ``h(a/)(6)`` (4)f(a/)n_
         [[haa6 faan4 下凡]];
         to enter the world;
     - _(1)sz' (4)f(a/)n_
@@ -1352,7 +1356,7 @@ W
     - _(4)f(a/)n m(u/)n(6)_
         [[faan4 mun6 煩悶]]
         perplexed, grieved;
-    - _(4)f(a/)n [(2)]i(u/)_
+    - _(4)f(a/)n ~~(5)i(u/)~~ ``(2)i(u/)``_
         [[faan4 jiu2 煩擾]],
         interrupted, annoyed.
     ==
@@ -1391,7 +1395,7 @@ W
   - [[Page~48 (4)燔]]
     ==
     - [[...]];
-    - _(4)f(a/)n chek[(8)]_
+    - _(4)f(a/)n ~~chek(9)~~ ``chek(8)``_
         [[faan4 zek3 燔炙]]
         to roast meat.
     ==
@@ -1451,7 +1455,7 @@ W
   - [[Page~48 (4)礬]]
     ==
     - Mineral salts proper four painting or dyeing [[Kangxi: 礬石]];
-    - _p(a/)k[(9)] (4)f(a/)n_
+    - _~~p(a/)k(8)~~ ``p(a/)k(9)`` (4)f(a/)n_
         [[baak6 faan4 白礬]],
         alum;
     - _(1)ts(')ing (4)f(a/)n_
@@ -1463,7 +1467,7 @@ W
     - _(2)t(a/)m (4)f(a/)n_
         [[daam2 faan4 膽礬]],
         blue vitriol;
-    - _(1)[f(u/)i] (4)f(a/)n_
+    - _~~(1)f(u/)~~ ``(1)f(u/)i`` (4)f(a/)n_
         [[fui1 faan4 灰礬]],
         alum ash.
     ==
@@ -1653,7 +1657,7 @@ W
     ==
     - A fence [[Kangxi 藩: 籬也]], hedge, boundary;
     - a frontier;
-    - ~~to ward off~~, to protect;
+    - ~~to ward off,~~ to protect``, to screen``;
     - [[...]];
     - _(4)f(a/)n (4)l(i/)_
         [[faan4 lei4 藩籬]],
@@ -1673,10 +1677,6 @@ W
         a statesman.
     ==
   ====
-C
-  ==
-  - Williams' "to protect": Or, "to screen".
-  ==
 P
   ++
   1. A screen (Kangxi 藩: 與蕃通屛也).
@@ -1730,7 +1730,7 @@ W
   ====
   - [[Page~48 (4)蠜]]
     ==
-    - A kind of cricket or grasshopper [[Kangxi: ::[蛗]螽蠜::]], ~~which goes by night~~.
+    - A kind of cricket or grasshopper [[Kangxi: ::[蛗]螽蠜::]]~~, which goes by night~~.
     ==
   ====
 C
@@ -1817,7 +1817,7 @@ W
     - _f(a/)n(6) (4)(i/)n_
         [[faan6 jin4 梵言]],
         Pali;
-    - _f(a/)n [sh(a/)t](8)_
+    - _f(a/)n ~~ch(')(a/)t(8)~~ ``sh(a/)t(8)``_
         [[faan6 saat3 梵剎]]
         a monastery.
     ==
@@ -1906,7 +1906,7 @@ W
     - to invade [[Kangxi: 侵也, 勝也]];
     - to violate, to resist, to oppose;
     - a criminal;
-    - _f(a/)n(6) [ts(u/)i](6)_
+    - _f(a/)n(6) ~~tsui(6)~~ ``ts(u/)i(6)``_
         [[faan6 zeoi6 犯罪]]
         to transgress;
     - _f(a/)n(6) f(a/)t(8)_
@@ -1914,10 +1914,10 @@ W
         to break the laws;
     - _f(a/)n(6) (4)yan_
         [[faan6 jan4 犯人]],
-        a prisoner;
+        a prisoner``, a criminal``;
     - _(4)ts(')au f(a/)n(6)_
         [[cau4 faan6-2 囚犯]]
-        to cage a criminal;
+        ~~to cage a criminal~~ ``a prisoner``;
     - _(1)ts(')am f(a/)n(6)_
         [[cam1 faan6 侵犯]]
         to encroach on, to usurp;
@@ -1930,8 +1930,6 @@ C
   ==
   - Fan Wan entry: The headword 犯 is printed ⿰犭巳.
   - Williams' 犯罪: Corrected _tsui(6)_ to _ts(u/)i(6)_.
-  - Williams' 犯人: Or a criminal.
-  - Williams' 囚犯: Better rendered "prisoner" (literally "imprisoned criminal").
   ==
 P
   ++
@@ -2070,7 +2068,7 @@ W
     - _ts(o\)(6) f(a/)n(6)_
         [[zou6 faan6 做飯]]
         to cook;
-    - _(2)ts(o\) f(a/)n[(6)]_
+    - _(2)ts(o\) ~~f(a/)n(3)~~ ``f(a/)n(6)``_
         [[zou2 faan6 早飯]]
         breakfast;
     - _p(i/)n(6) f(a/)n(6)_
@@ -2090,6 +2088,7 @@ W
 C
   ==
   - Williams' 做飯: The preferred term for "cooking" in Cantonese is 煮飯.
+  - Williams' 早飯: Corrected _f(a/)n(3)_ (faan3) to _f(a/)n(6)_ (faan6).
   ==
 P
   ++
