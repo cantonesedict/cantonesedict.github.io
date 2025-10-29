@@ -305,7 +305,7 @@ W
         to finish up jobs heedlessly;
     - _(2)ts(')(o\) (1)sh(u:)_
         [[cou2 syu1 草書]],
-        ~~runing~~ ``running`` hand;
+        run``n``ing hand;
     - _(2)ts(')(o\) (2)ts(')(o\)_
         [[cou2 cou2 草草]],
         toilsome``,`` troublesome, careless, lenient;

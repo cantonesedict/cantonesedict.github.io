@@ -1571,7 +1571,7 @@ give more trouble, perhaps, than the others.
     &c.
   The number of such words is not very
   great, and while the few who speak thus cannot discriminate the
-  ~~inital~~ ``initial`` consonant before some vowels, they never interchange them
+  init``i``al consonant before some vowels, they never interchange them
   before others.
 
 -{#initials-sh-s}
@@ -1812,13 +1812,13 @@ following:---
 
 --{.williams}
 By combining all the fifty-three finals with all the twenty-three
-initials, there would be 1229 [[I get 53~×~23 = 1219]] sounds in the dialect which could be
+initials, there would be ~~1229~~ ``1219`` sounds in the dialect which could be
 represented by Roman letters; there are however only 707 different
 syllables given in this Dictionary, many possible combinations, as
 _kw(o\)m_, _t(a/)ng_, _l(u/)t_, _p(u:)t_,
 _kw(e/)ung_, _f(a/)m_, _foi_, _lon_,
 _shot_, _s(u/)n_, _~~wi(u:)~~ ``wi(u/)``_, &c.,
-not ~~occuring~~ ``occurring`` in the dialect. The table of all the sounds here given
+not occur``r``ing in the dialect. The table of all the sounds here given
 will show the paucity of different vocables, though it does not
 probably include *all* the variations heard among the people, which
 however most frequently run into other sounds occurring in the table,
