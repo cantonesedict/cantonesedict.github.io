@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2025-08-17
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -305,7 +305,7 @@ W
   ====
   - [[Page~555 (2)䟎; here normalised to 趲]]
     ==
-    - To walk, to get on [[Kangxi 趲: 走也]];
+    - To ~~walk~~ ``run``, to get on [[Kangxi 趲: 走也]];
     - to flee, to run away, to scatter, to put to flight [[Kangxi 趲: 散走也]];
     - to hasten, to urge, to quicken, to press [[Kangxi: 逼使走也]];
     - _(2)ts(a/)n p(o\)(6)_
@@ -314,7 +314,7 @@ W
     - _(1)ts(')(u/)i (2)ts(a/)n_
         [[ceoi1 zaan2 催趲]],
         to urge on;
-    - _yat[(9)] yat(9) (4)loi (2)ts(a/)n_
+    - _~~yat(7)~~ ``yat(9)`` yat(9) (4)loi (2)ts(a/)n_
         [[jat6 jat6 loi4 zaan2 日日來趲]],
         he comes urging me daily;
     - _(2)ts(a/)n (5)k(')(u:) (2)h(i/) (1)shan_
@@ -328,7 +328,6 @@ C
     Kangxi has ::《集韻》[...]又子罕切:: for the "run" sense.
     However, note that 《集韻》 actually has 子䍐切 for the "hasten" sense,
     explained 逼使赱也.
-  - Williams' "To walk": More correctly, to run.
   - Williams' 日日來趲: Corrected _yat(7)_ (jat1) to _yat(9)_ (jat6).
   ==
 E
@@ -449,7 +448,7 @@ W
   ====
   - [[Page~555 濺(3)灒(3)]]
     ==
-    - To stir up muddy water [[Kangxi 灒: 汙灑也]];
+    - To ~~stir up~~ ``spatter`` muddy water [[Kangxi 灒: 汙灑也]];
     - ~~turbid water;~~
     - to spatter;
     - to rebound, to recoil;
@@ -471,7 +470,6 @@ W
 C
   ==
   - Fan Wan entry: Corrected 酒 to 洒.
-  - Williams' "stir up": Better rendered "spatter".
   ==
 $$
 
@@ -748,7 +746,7 @@ W
     - _ch(a/)n(6) (1)ts(o\)_
         [[zaan6-2 zou1 棧租]],
         storage charges;
-    - _[(1)m(a/)u] ch(a/)n(6)_
+    - _~~(4)mi(u/)~~ ``(1)m(a/)u`` ch(a/)n(6)_
         [[maau1 zaan6-2 貓棧]]
         a kennel for cats.
     ==
@@ -813,6 +811,10 @@ R
   ⾌ + 10
 U
   U+8665
+A
+  ==
+  - 虦
+  ==
 F
   ==
   - [[F2.71 虥]] 虎淺毛
@@ -822,9 +824,9 @@ W
   - [[Page~19|n62 虥(6)]]
     ==
     - A tiger cat [[Kangxi: 貓也]];
-    - _ch(a/)n(6) (4)[mi(u/)]_
+    - _ch(a/)n(6) ~~(4)m(a/)i~~ ``(4)mi(u/)``_
         [[zaan6 miu4 虥苗]],
-        ~~a tiger shedding its hair~~.
+        a tiger ~~shedding its~~ ``with light-colored`` hair [[Kangxi: 虎竊毛謂之虦貓]].
     ==
   ====
 C
@@ -833,8 +835,6 @@ C
     Note that 虥苗 is also spelt 虥貓, as the Middle Chinese reading of 貓
     is homophonous with 苗 _(4)mi(u/)_ (miu4).
     In any case, Williams' _(4)m(a/)i_ (maai4) is a typo.
-    Also "shedding its hair" is a misreading of Kangxi 虎竊毛謂之虦貓.
-    Here, 竊 means "light-coloured".
   ==
 $$
 
@@ -860,17 +860,13 @@ W
     [[...]]
     --
     ==
-    - To exhort [[Kangxi: 專敎也]] by precepts [[Kangxi: 善言也]];
+    - ~~To exhort by precepts~~ ``To teach focusedly`` [[Kangxi: 專敎也, 善言也]];
     - [[...]].
     ==
     --
     [[Otherwise, an alternative form of 撰 (for the "write" and "compile" senses). **See $撰zaan6 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - Williams' "To exhort by precepts": Better rendered "To teach focusedly".
-  ==
 $$
 
 ###+ 賺6 | _Ch(a/)n(6)_ (zaan6)
@@ -1020,7 +1016,7 @@ W
     - To eat, to drink;
     - to feed persons;
     - to provide for [[Kangxi: 具食也, ::謂饌[陳]具設之也::]];
-    - dressed food [[Kangxi: 飯食也]][;]
+    - dressed food [[Kangxi: 飯食也]]~~:~~``;``
     - _ch(')(i/)t(8) ch(a/)n(6)_
         [[cit3 zaan6 設饌]]
         to set out a dinner;
