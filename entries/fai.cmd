@@ -155,11 +155,11 @@ W
     - to be agitated [[Kangxi: 奮也]];
     - to animate;
     - to sprinkle [[Kangxi: 灑也, 揮湔也]];
-    - to scatter, ~~to throw away~~;
+    - to scatter~~, to throw away~~;
     - _(1)fai (1)ch(')un_
         [[fai1 ceon1 揮春]],
         ~~to write~~ new-year's inscriptions;
-    - _(1)fai [(4)]h(o\)_
+    - _(1)fai ~~(1)h(o\)~~ ``(4)h(o\)``_
         [[fai1 hou4 揮毫]],
         to write;
     - _(1)fai (1)kam (4)(u:) (2)t(')(o\)_
@@ -349,7 +349,7 @@ W
   ====
   - [[Page~43 (1)翬]]
     ==
-    - To fly [[Kangxi: 大飛也]] with noise [[Kangxi: 翬翬其飛疾羽聲也]];
+    - To fly [[Kangxi: 大飛也]] with noise ``quickly`` [[Kangxi: 翬翬其飛疾羽聲也]];
     - a kind of colored pheasant [[Kangxi: 一曰伊洛而南雉五采皆備曰翬 etc.]];
     - colored, adorned;
     - _(1)fai (1)fai_
@@ -357,10 +357,6 @@ W
         to fly up and show the plumage.
     ==
   ====
-C
-  ==
-  - Williams' "with noise": And fast.
-  ==
 $$
 
 ### 輝1 | _(1)Fai_ [[fai1]]
@@ -424,7 +420,7 @@ P
   ++
 $$
 
-### 隳1 | _(1)Fai_ [[fai1]]
+### ~~{？=⿳隋𠆢氺}~~``隳``1 | _(1)Fai_ [[fai1]]
 
 $$
 R
@@ -443,9 +439,9 @@ F
   ==
 W
   ====
-  - [[Page~43 ::(1)[隳]^::]]
+  - [[Page~43 ::(1)~~{？=⿳隋𠆢氺}~~``隳``::]]
     ==
-    - To destroy, to [overthrow], to break [[Kangxi 隓: 俗作隳非, 廢也毀也損也, 亦作墮]];
+    - To destroy, to overth``r``ow, to break [[Kangxi 隓: 俗作隳非, 廢也毀也損也, 亦作墮]];
     - to injure;
     - _(1)fai p(a/)i(6)_
         [[fai1 baai6 隳敗]]
@@ -458,7 +454,6 @@ W
   ====
 C
   ==
-  - Williams misprints 隳 as ⿳隋𠆢氺; here corrected.
   - Williams' "Also read [...]": The reading _to(6)_ (do6)
     is for a different sense (alternative form of 墮 "fall"),
     so the qualifier "Also" is incorrect.
@@ -617,16 +612,12 @@ W
         a useless fellow, good for nothing;
     - _p(u/)n(3) (4)t(')(o\) (4)(i/) fai(3)_
         [[bun3 tou4 ji4 fai3 半途而廢]]
-        ~~to reject when~~ half done;
+        to ~~reject~~ ``abandon`` when half done;
     - _fai(3) tsat(9)_
         [[fai3 zat6 廢疾]]
         disabled, incurable.
     ==
   ====
-C
-  ==
-  - Williams' 半途而廢: Not to reject, but to abandon when half done.
-  ==
 P
   ++
   1. To fall (Kangxi: 墮也).
@@ -653,7 +644,7 @@ W
   - [[Page~44 沸(3)]]
     ==
     - To bubble, as boiling water [[Kangxi: 涫也]] or a spring [[Kangxi: 觱沸泉出貌]];
-    - _[(2)]shui fai(3) (1)ch(')ung (4)ch(')(a/)_
+    - _~~shui(3)~~ ``(2)shui`` fai(3) (1)ch(')ung (4)ch(')(a/)_
         [[seoi2 fai3 cung1 caa4 水沸沖茶]],
         the water boils, pour it on the tea.
     ==
@@ -694,7 +685,7 @@ W
   ====
   - [[Page~713 疿(3)]]
     ==
-    - Pimples, small boils[,] sores from heat [[Kangxi: 熱生小瘡 etc.]];
+    - Pimples, small boils~~;~~``,`` sores from heat [[Kangxi: 熱生小瘡 etc.]];
     - _(i/)t(9) fai(3)_ [[jit6 fai3-2 熱疿]]
         or
       _fai(3) (2)tsz'_ [[fai3-2 zi2 疿子]]
