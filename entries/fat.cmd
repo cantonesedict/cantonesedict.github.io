@@ -240,7 +240,7 @@ W
   ====
   - [[Page~50 祓(7)]]
     ==
-    - ~~Clean, pure;~~
+    - ~~Clean, pure~~ ``To cleanse, to purify`` [[Kangxi: 潔也]];
     - to disperse;
     - to drive off;
     - to wash away;
@@ -258,7 +258,6 @@ C
 P
   ++
   1. To remove (除也, 通作弗, 弗之言祓也).
-  1. To cleanse (Kangxi: 潔也).
   1. Good fortune (Kangxi: 通作茀, 祓福也). (Alternative form of 茀. See $茀fat1.)
   ++
 $$
@@ -371,7 +370,7 @@ W
     ==
     - Silken cords which are used to carry coffins by [[Kangxi: 同紼, 綍舉棺索也]];
     - _met._ fine, elegant, applied to the emperor's words;
-    - _(4)lun [fat(7)]_
+    - _(4)lun ~~p(u/)t(9)~~ ``fat(7)``_
         [[leon4 fat1 綸綍]]
         eloquent, persuasive, as imperial sayings.
     ==
@@ -408,17 +407,13 @@ W
   - [[Page~49 紼(7); here normalised to 芾]]
     ==
     - [[...]];
-    - a screen [[Kangxi 紼: 與芾通, 紼者蔽也行以蔽前天子朱紼諸侯赤紼]];
+    - a ~~screen~~ ``covering for the knees`` [[Kangxi 紼: 與芾通, 紼者蔽也行以蔽前天子朱紼諸侯赤紼]];
     - [[...]].
     ==
     --
     [[Alternative form of 韍. See $韍fat1.]]
     --
   ====
-C
-  ==
-  - Williams "a screen": Specifically, a knee-cover.
-  ==
 S
   ==
   - $芾fai3
@@ -452,7 +447,7 @@ W
     - happiness, luck [[Kangxi: 福也]];
     - to screen [[Kangxi: 婦人乗車不露見車之前後設障以自蔽隱謂之茀]];
     - to clear away, to open [[Kangxi: 治也]];
-    - _fat(7) (2)[ts(')(o\)]_
+    - _fat(7) ~~(2)ts(o\)~~ ``(2)ts(')(o\)``_
         [[fat1 cou2 茀草]],
         to clear away grass.
     ==
@@ -493,7 +488,7 @@ W
   - [[Page~50 袚(7)]]
     ==
     - A covering for the knees [[Kangxi: 蔽膝也 etc.]];
-    - ~~a short tunic worn in southern China.~~
+    - ~~a short tunic worn in southern China~~ ``clothing worn by south-eastern barbarians`` [[Kangxi: ::蠻[夷]服也::]].
     ==
   ====
 C
@@ -505,7 +500,6 @@ C
   ==
 P
   ++
-  1. Clothing worn by south-eastern barbarians (Kangxi: ::蠻[夷]服也::).
   1. Clothing for small children (Kangxi: ::[褿]袚䙁褯也::).
   ++
 $$
@@ -590,7 +584,7 @@ W
   ====
   - [[Page~50 黻(7)]]
     ==
-    - Variegated, black and azure mixed [[Kangxi: 黑與靑相次文 etc.]];
+    - ~~Variegated,~~ ``An embroidered symbol in`` black and azure mixed [[Kangxi: 黑與靑相次文, 黼黻彰也, etc.]];
     - to embroider in colors;
     - elegant, flowery (as writing);
     - a variegated garment [[Kangxi: 黻紩也畫黻紩文綵於衣也 etc.]];
@@ -608,14 +602,9 @@ W
 C
   ==
   - Fan Wan: Fixed missing strokes in 黼.
-  - Williams' "Variegated": Better rendered "An embroidered symbol".
+  - The symbol (文, 彰) referred to by Kangxi is like two 弓 back-to-back,
+    or 亞 with the horizontal strokes disconnected.
   ==
-P
-  ++
-  1. An embroidered symbol like two 弓 back-to-back,
-     or 亞 with the horizontal strokes disconnected
-     (Kangxi: 黼黻彰也 etc.).
-  ++
 $$
 
 
@@ -677,7 +666,7 @@ W
     - [[...]], to contradict;
     - perverse, disobedient;
     - [[...]];
-    - _fat[(9)] (4)yan sing(3)_
+    - _~~fat(7)~~ ``fat(9)`` (4)yan sing(3)_
         [[fat6 jan4 sing3 拂人性]]
         to thwart another's wishes.
     ==
