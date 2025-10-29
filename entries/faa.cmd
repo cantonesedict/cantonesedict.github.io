@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faa
-* %date-modified --> 2025-09-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -72,13 +72,13 @@ W
     - pleasure, vice;
     - variegated, ornamental, carved;
     - to exaggerate;
-    - _yat(7) [(2)]to (1)f(a/)_
+    - _yat(7) ~~(1)to~~ ``(2)to`` (1)f(a/)_
         [[jat1 do2 faa1 一朵花]],
         a flower;
-    - _yat(7) [ch(a/)t](8) (1)f(a/)_
+    - _yat(7) ~~chat(7)~~ ``ch(a/)t(8)`` (1)f(a/)_
         [[jat1 zaat3 faa1 一紮花]],
         a bouquet;
-    - _[(4)]ming (1)f(a/)_
+    - _~~(1)ming~~ ``(4)ming`` (1)f(a/)_
         [[ming4 faa1 名花]],
         ornamental flowers;
     - _(1)f(a/) (1)shang_
@@ -86,7 +86,7 @@ W
         the ground-nut;
     - _(1)f(a/) l(o\)(6) (2)shui_
         [[faa1 lou6 seoi2 花露水]],
-        [lavender] water;
+        ~~lavendar~~ ``lavender`` water;
     - _(2)ang (1)f(a/)_
         [[ang2 faa1 㾘花]],
         to enchase on metals;
@@ -108,7 +108,7 @@ W
     - _(1)f(a/) (2)t(a/)n_
         [[faa1 daan2 花旦]],
         an actor who personates women;
-    - _(1)f(a/) m(i/)n[(6)]_
+    - _(1)f(a/) ~~m(i/)n(3)~~ ``m(i/)n(6)``_
         [[faa1 min6 花面]]
         to paint the face for acting;
     - _(1)f(a/) (1)f(a/) shai(3) k(a/)i(3)_
@@ -117,7 +117,7 @@ W
     - _(1)f(a/) (1)f(a/) (1)kung (2)tsz'_
         [[faa1 faa1 gung1 zi2 花花公子]]
         a profligate rake;
-    - _(1)f(a/) [(4)]wong_
+    - _(1)f(a/) ~~(1)wong~~ ``(4)wong``_
         [[faa1 wong4 花王]],
         the god who protects children, worshiped under the bed;
     - _(1)f(a/) p(o\)(3)_
@@ -126,7 +126,7 @@ W
     - _(1)f(a/) (1)k(a/)i_
         [[faa1 gaai1 花街]],
         an illuminated street;
-    - _(1)f(a/) w(a/)[(6)]_
+    - _(1)f(a/) ~~w(a/)(3)~~ ``w(a/)(6)``_
         [[faa1 waa6 花話]]
         exaggerated talk;
     - _(1)f(a/) (4)meng_
@@ -253,10 +253,10 @@ W
     - _f(a/)(3) (1)shan_
         [[faa3 san1 化身]],
         to burn a priest's corpse;
-    - _[ts(o\)(6)] f(a/)(3)_
+    - _~~ts(')(o\)(3)~~ ``ts(o\)(6)`` f(a/)(3)_
         [[zou6 faa3 造化]]
         fate, nature;
-    - _[(2)]h(o\) [ts(o\)(6)] f(a/)(3)_
+    - _~~h(o\)(3)~~ ``(2)h(o\)`` ~~ts(')(o\)(3)~~ ``ts(o\)(6)`` f(a/)(3)_
         [[hou2 zou6 faa3 好造化]]
         good luck;
     - _(4)wong f(a/)(3)_
