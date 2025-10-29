@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaau
-* %date-modified --> 2025-10-22
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -185,7 +185,7 @@ W
     - A besom [[Kangxi 箒: 箕箒也]];
     - a broom;
     - to sweep up dirt [[Kangxi 帚: 糞也, 掃除糞穢也]], for which the first [[帚]] is most proper;
-    - _chap(7) (1)k(i/) (2)[ch(a/)u]_
+    - _chap(7) (1)k(i/) ~~(2)chau~~ ``(2)ch(a/)u``_
         [[zap1 gei1 zaau2 執箕帚]],
         term for a wife or concubine.
     ==
@@ -408,16 +408,16 @@ W
   - [[Page~25|n68 (2)肘 _(2)Chau_ (zau2); here normalised to  _(2)Ch(a/)u_ (zaau2)]]
     ==
     - ~~The fore-arm;~~
-    - the elbow [[Kangxi: 臂節也]], ~~the wrist~~;
+    - the elbow [[Kangxi: 臂節也]]~~, the wrist~~;
     - to take by ~~the wrist~~ [[Kangxi: 爲人捉其肘而留之亦曰肘]];
     - a quarter of an animal;
-    - _(2)shau (2)[ch(a/)u]_
+    - _(2)shau ~~(2)chau~~ ``(2)ch(a/)u``_
         [[sau2 zaau2 手肘]],
         the elbow;
-    - _(2)[ch(a/)u] yat(9)_
+    - _~~(2)chau~~ ``(2)ch(a/)u`` yat(9)_
         [[zaau2 jat6 肘腋]]
-        ~~arms and sides~~, _met._ near relatives;
-    - _(4)ts(')(i/)n (1)ch(u:) (2)[ch(a/)u]_
+        ~~arms and sides~~ ``elbows and armpits``, _met._ near relatives;
+    - _(4)ts(')(i/)n (1)ch(u:) ~~(2)chau~~ ``(2)ch(a/)u``_
         [[cin4 zyu1 zaau2 前豬肘]],
         a shoulder of pork.
     ==
@@ -427,7 +427,6 @@ C
   - Fan Wan entry: Corrected headword 刖 to 肘.
   - Williams' "the wrist": This is a misreading of Kangxi 《徐曰》寸口手腕動脈處也,
     which is a very unilluminating attempt to explain 寸手寸口也 from 《說文》.
-  - Williams' "arms and sides": Better rendered "elbows and armpits"
   ==
 S
   ==
@@ -528,7 +527,7 @@ W
     - _(4)yau ch(a/)u(3)_
         [[jau4 zaau3 油㷹]]
         boiled in fat;
-    - _ch(a/)u(3) t(o\)[(3)] ts(')ui(3)_
+    - _ch(a/)u(3) ~~(2)t(o\)~~ ``t(o\)(3)`` ts(')ui(3)_
         [[zaau3 dou3 ceoi3 㷹到脆]]
         fried crisp.
     ==
@@ -568,7 +567,7 @@ W
   ====
 $$
 
-### [罩]3 | _Ch(a/)u(3)_ [[zaau3]]
+### ~~{𦋇=⿱罓卓}~~``罩``3 | _Ch(a/)u(3)_ [[zaau3]]
 
 $$
 R
@@ -582,7 +581,7 @@ F
   ==
 W
   ====
-  - [[Page~29|n72 [罩](3)]]
+  - [[Page~29|n72 ::~~{𦋇=⿱罓卓}~~``罩``(3)::]]
     ==
     - A net, or basket to catch mud fish by covering them [[Kangxi: 捕魚器也]];
     - to catch or cover over;
@@ -600,7 +599,7 @@ W
     - _(1)kai ch(a/)u(3)_
         [[gai1 zaau3 雞罩]]
         a hen basket;
-    - _[(2)]ki(u/) ch(a/)u(3)_
+    - _~~(5)^ki(u/)~~ ``(2)ki(u/)`` ch(a/)u(3)_
         [[giu6-2 zaau3 轎罩]]
         a rain cover on a sedan.
     ==
@@ -608,7 +607,6 @@ W
 C
   ==
   - Fan Wan entry: Normalised headword {𦋇=⿱罓卓} to 罩.
-  - Williams entry: Normalised headword {𦋇=⿱罓卓} to 罩.
   - Williams' 轎罩: Corrected _(5)^ki(u/)_ (giu6-5) to _(2)ki(u/)_ (giu6-2).
   ==
 $$
@@ -724,31 +722,31 @@ W
     - to shoot an arrow;
     - to throw away;
     - a long oar [[Kangxi 櫂: 所以進船也, 短曰檝長曰櫂]];
-    - _ch(a/)u[(6)] k(e/)uk(8)_
+    - _~~ch(a/)u(3)~~ ``ch(a/)u(6)`` k(e/)uk(8)_
         [[zaau6 goek3 棹腳]]
         to limp, as the lame do;
-    - _ch(a/)u[(6)] chung(3)_
+    - _~~ch(a/)u(3)~~ ``ch(a/)u(6)`` chung(3)_
         [[zaau6 zung3 棹中]]
         to hit the bull's-eye;
-    - _ch(a/)u[(6)] (2)ts(e/)ung_
+    - _~~ch(a/)u(3)~~ ``ch(a/)u(6)`` (2)ts(e/)ung_
         [[zaau6 zoeng2 棹槳]],
         to pull an oar;
-    - _ch(a/)u[(6)] (4)m(a/)i (4)t(')au_
+    - _~~ch(a/)u(3)~~ ``ch(a/)u(6)`` (4)m(a/)i (4)t(')au_
         [[zaau6 maai4 tau4 棹埋頭]],
         to pull ashore;
-    - _ch(a/)u[(6)] kwo(3) (2)hoi_
+    - _~~ch(a/)u(3)~~ ``ch(a/)u(6)`` kwo(3) (2)hoi_
         [[zaau6 gwo3 hoi2 棹過海]],
         to pull across the river;
-    - _ch(')ut(7) lik(9) ch(a/)u[(6)]_
+    - _ch(')ut(7) lik(9) ~~ch(a/)u(3)~~ ``ch(a/)u(6)``_
         [[ceot1 lik6 zaau6 出力棹]]
         row harder;
-    - _ch(a/)u[(6)] ch(')ut(7) (1)k(a/)i_
+    - _~~ch(a/)u(3)~~ ``ch(a/)u(6)`` ch(')ut(7) (1)k(a/)i_
         [[zaau6 ceot1 gaai1 棹出街]],
         throw it out in the street.
     ==
     --
     The ~~two~~ last of these characters [[~~棹,~~ 掉]]
-    are improperly used in Canton for the first [[櫂]].
+    ~~are~~ ``is`` improperly used in Canton for the first [[櫂]].
     --
   ====
 S
@@ -799,24 +797,19 @@ W
   ====
   - [[Page~562 驟(6) _Tsau(6)_ (zau6); here normalised to _Ch(a/)u(6)_ (zaau6)]]
     ==
-    - ~~A fleet horse;~~
+    - A ~~fleet~~ ``galloping`` horse [[Kangxi: 馬疾步也]];
     - to run [[Kangxi: 奔也]];
-    - quick, fleet [[Kangxi: 馬疾步也]];
+    - quick, fleet;
     - pressing, urgent;
     - frequently, repeatedly [[Kangxi: 數也]];
-    - _[ch(a/)u](6) (4)(i/)n (4)(i/) (4)loi_
+    - _~~tsau(6)~~ ``ch(a/)u(6)`` (4)(i/)n (4)(i/) (4)loi_
         [[zaau6 jin4 ji4 loi4 驟然而來]],
         arrived very quickly;
-    - _pat(7) (2)ho [ch(a/)u](6) tak(7)_
+    - _pat(7) (2)ho ~~tsau(6)~~ ``ch(a/)u(6)`` tak(7)_
         [[bat1 ho2 zaau6 dak1 不可驟得]]
         it can not be dune in an instant.
     ==
   ====
-C
-  ==
-  - Williams' "A fleet horse": The character 驟 does not refer to a fast horse,
-    but to the fact that a horse being fast (i.e. galloping).
-  ==
 S
   ==
   - $驟zau6
