@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faak
-* %date-modified --> 2023-08-05
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -64,7 +64,7 @@ P
   ++
 $$
 
-### [{𢫦=⿰扌百}]3 | _F(a/)k(8)_ [[faak3]]
+### ``{𢫦=⿰扌百}``3 | _F(a/)k(8)_ [[faak3]]
 
 $$
 R
