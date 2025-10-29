@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaang
-* %date-modified --> 2025-08-18
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -382,7 +382,7 @@ W
     - _ch(a/)ng(6) (1)sh(a/) (1)kai_
         [[zaang6 saa1 gai1 掙沙雞]],
         to stuff a cock with sand;
-    - _ng(a/)ng(6) ch(a/)ng[(6)]_
+    - _ng(a/)ng(6) ~~ch(a/)ng(3)~~ ``ch(a/)ng(6)``_
         [[ngaang6 zaang6 硬掙]]
         determined, energetic, as in bearing pain.
     ==
@@ -390,6 +390,10 @@ W
     [[...]]
     --
   ====
+C
+  ==
+  - Williams' 硬掙: Corrected _ch(a/)ng(3)_ (zaang3) to _ch(a/)ng(6)_ (zaang6).
+  ==
 E
   ====
   - 【掙】 (zaang6):
