@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faai
-* %date-modified --> 2025-09-23
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -71,7 +71,7 @@ W
     ==
     <## - Great, strange, monstrous, as an eruption, a meteor; ##>
     - [[...]];
-    - _f(a/)i(3) [(5)]lui_
+    - _f(a/)i(3) ~~lui(6)~~ ``(5)lui``_
         [[faai3 leoi5 傀儡]]^
         puppets [[Kangxi: 今爲木偶戲曰傀儡]],
         vulgarly called _(2)kwai (2)tsai h(i/)(3)_ [[gwai2 zai2 hei3 鬼仔戲]].
@@ -119,7 +119,7 @@ W
 C
   ==
   - Williams' "with avidity", "voracious": These are misreadings of Kangxi 一曰嚵噲也.
-    In 《說文》 (the source of this explanation), 嚵 means "sip/taste" or "beak".
+    In the source 《說文》 of this explanation, 嚵 means "sip/taste" or "beak".
     It is *not* used for 饞, gluttonous.
   - Williams' "Name of a king": Kangxi puts this under a separate reading,
     _kw(a/)i(3)_ (gwaai3)^, per 《集韻》古邁切 .
