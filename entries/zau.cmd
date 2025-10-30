@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2025-08-14
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -159,7 +159,7 @@ W
     - _(1)chau (4)ts(')(u:)n_
         [[zau1 cyun4 周全]],
         to bring a thing about, to remove ill feeling, to explain;
-    - _(2)h(o\) (1)chau ch(i/)[(3)]_
+    - _(2)h(o\) (1)chau ~~(1)ch(i/)~~ ``ch(i/)(3)``_
         [[hou2 zau1 zi3 好周置]],
         it is excellent.
     ==
@@ -336,13 +336,13 @@ W
     - to collect, to assemble [[Kangxi 揫: 聚也]];
     - to lift, to grasp, to clutch;
     - to gripe;
-    - _(1)[tsau] ch(u:)(6)_
+    - _~~(1)ts(')au~~ ``(1)tsau`` ch(u:)(6)_
         [[zau1 zyu6 揪住]]
         to seize fast;
-    - _(1)[tsau] (5)(i/)_
+    - _~~(1)ts(')au~~ ``(1)tsau`` (5)(i/)_
         [[zau1 ji5 揪耳]],
         to nab by the ears;
-    - _(1)[tsau] ch(')uk(7)_
+    - _~~(1)ts(')au~~ ``(1)tsau`` ch(')uk(7)_
         [[zau1 cuk1 揪束]]
         to bind up, as a sheaf is.
     ==
@@ -630,8 +630,8 @@ W
   ====
   - [[Page~25|n68 (1)譸]]
     ==
-    - ~~Hurried, bustling~~, to impose upon, to deceive [[Kangxi: 譸張誑也]];
-    - _(1)chau (1)ch(e/)ung [(4)]wai w(a/)n(6)_
+    - ~~Hurried, bustling,~~ to impose upon, to deceive [[Kangxi: 譸張誑也]];
+    - _(1)chau (1)ch(e/)ung ~~(1)wai~~ ``(4)wai`` w(a/)n(6)_
         [[zau1 zoeng1 wai4 waan6 譸張為幻]]
         to delude with false appearances.
     ==
@@ -694,7 +694,7 @@ W
   - [[Page~25|n68 (1)輈]]
     ==
     - A frame in front of a carriage [[Kangxi: 車轅也 etc.]] near which the driver sits;
-    - ~~a sort of dashboard~~.
+    - ~~a sort of dashboard.~~
     ==
   ====
 $$
@@ -877,7 +877,7 @@ W
     - a nook, a corner;
     - to live together [[Kangxi: 聚居也]];
     - abashed, ashamed [[Kangxi: ::[卑]陬愧恧貌::]];
-    - _[m(a/)ng](6) (1)tsau_
+    - _~~mang(6)~~ ``m(a/)ng(6)`` (1)tsau_
         [[maang6 zau1 孟陬]],
         the first month [[Kangxi: 正月爲孟陬]];
     - _(o\)m(3) (1)tsau_
@@ -1267,7 +1267,7 @@ W
     - _p(a/)k(9) (2)tsau_
         [[baak6 zau2 白酒]],
         sherry;
-    - _[(1)p(e/)] (2)tsau_
+    - _~~(2)p(')(e/)~~ ``(1)p(e/)`` (2)tsau_
         [[be1 zau2 啤酒]],
         beer;
     - _(2)shui (2)tsau_
@@ -1345,7 +1345,7 @@ W
     ==
     - To scold, to rail at [[Kangxi: 僝僽惡言詈也]];
     - abusive, scurrilous language;
-    - _(4)sh(a/)n tsau[(3)]_
+    - _(4)sh(a/)n ~~(1)tsau~~ ``tsau(3)``_
         [[saan4 zau3 僝僽]],
         to say outrageous things, to irritate.
     ==
@@ -1404,8 +1404,8 @@ W
     - ~~a prayer;~~
     - _n(i/)m(6) chau(3)_
         [[nim6 zau3 念咒]]
-        ~~to recite prayers~~;
-    - _(2)[t(')(o\)] chau(3)_
+        to recite ~~prayers~~ ``an incantation``;
+    - _~~(2)t(o\)~~ ``(2)t(')(o\)`` chau(3)_
         [[tou2 zau3 禱咒]]
         to curse;
     - _(4)f(u/) chau(3)_
@@ -1420,7 +1420,6 @@ W
 C
   ==
   - Fan Wan entry: Corrected duplicate headword 咒 to 呪.
-  - Williams' 念咒: Not to recite a prayer, but an incantation.
   - Williams' 禱咒: Changed _(2)t(o\)_ (dou2) to common reading _(2)t(')(o\)_ (tou2).
   ==
 $$
@@ -1441,7 +1440,7 @@ W
   - [[Page~26|n69 咮(3)]]
     ==
     - The bill of birds [[Kangxi: 鳥口也, 咮喙也]];
-    - to peck with the bill, ~~the twittering of birds~~.
+    - to peck with the bill~~, the twittering of birds~~.
     ==
     --
     [[...]]
@@ -1816,7 +1815,7 @@ W
     - to come near in point of time;
     - an adverb, then, immediately, just, just now, presently, forthwith;
     - a conjunction, then, if, as if;
-    - able to do [[Kangxi: 能也]], ~~willing~~;
+    - able to do [[Kangxi: 能也]]~~, willing~~;
     - _tsau(6) ching(3) (4)loi_
         [[zau6 zing3 loi3 就正來]],
         he has just come;
@@ -1842,7 +1841,7 @@ W
     - _tsau(6) (2)shau_
         [[zau6 sau2 就手]],
         came to one's hands, as profits;
-    - _tsau(6) (4)[lai]_
+    - _tsau(6) ~~(4)loi~~ ``(4)lai``_
         [[zau6 lai4 就嚟]],
         presently, in a little;
         coming forthwith;
@@ -1949,7 +1948,7 @@ W
   - [[Page~26|n69 籒(6); here normalised to 籀]]
     ==
     - The framer of the seal character,
-      _Chau(6) t(')(a/)i[(3)] (2)sz'_
+      _Chau(6) ~~t(')^(a/)i(6)~~ ``t(')(a/)i(3)`` (2)sz'_
         [[zau6 taai3 si2 籀太史]] [[Kangxi 籒: 史籒周宣王太史名造大篆]];
     - _chau(6) (4)man_
         [[zau6 man4 籀文]],
@@ -2034,7 +2033,7 @@ W
     - _chau(6) (2)tsz'_
         [[zau6 zi2 胄子]]
         the eldest son [[Kangxi: 長也 etc.]];
-    - _[chau](6) yui(6)_
+    - _~~hau(3)~~ ``chau(6)`` yui(6)_
         [[zau6 jeoi6 胄裔]]
         posterity;
     - _shai(3) chau(6)_
@@ -2047,7 +2046,7 @@ C
   - For the visually similar character meaning "helmet", see $冑zau6.
   - Fan Wan entry: No distinction is made
     between 冑 (under ⼌) and 胄 (under ⾁).
-  - Williams' 胄裔: Corrected _hau(6)_ (hau6) to _chau(6)_ (zau6).
+  - Williams' 胄裔: Corrected _hau(3)_ (hau3) to _chau(6)_ (zau6).
   ==
 $$
 
