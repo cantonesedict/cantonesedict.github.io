@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2025-10-18
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -114,7 +114,7 @@ W
       or as a relative particle, in apposition;
     - ~~to progress;~~
     - to go to [[Kangxi: 往也]];
-    - _[t(')ing](3) (1)ch(i/) (1)ch(i/) (4)yan_
+    - _~~t(')eng(3)~~ ``t(')ing(3)`` (1)ch(i/) (1)ch(i/) (4)yan_
         [[ting3 zi1 zi1 jan4 聽之之人]],
         the person who hears him;
     - _t(')(i/)n (1)ch(i/) (4)ming ming(6)_
@@ -481,7 +481,7 @@ W
     - _(1)p(a/)u (1)ch(i/)_
         [[baau1 zi1 包支]],
         responsible for;
-    - _(1)ch(i/) (1)[k(a/)ng]_
+    - _(1)ch(i/) ~~(1)kang~~ ``(1)k(a/)ng``_
         [[zi1 gaang1 支更]],
         a watchman;
     - _yat(9) (1)chung (1)ch(i/) yung(6)_
@@ -646,7 +646,7 @@ W
   ====
   - [[Page~610 (1)滋]]
     ==
-    - ~~Occurs used for the last [[茲]]~~;
+    - ~~Occurs used for the last [[茲]];~~
     - sweet, pleasant, rich [[Kangxi: 滋味也]];
     - humid, soft;
     - to increase, to grow [[Kangxi: 蒔也長也益也]];
@@ -817,7 +817,7 @@ W
     - [[...]];
     - respect, awe, reverence [[Kangxi: 敬也]];
     - [[...]];
-    - _[(1)]ch(i/) king(3)_
+    - _~~(2)ch(i/)~~ ``(1)ch(i/)`` king(3)_
         [[zi1 ging3 祗敬]]
         to venerate.
     ==
@@ -939,7 +939,7 @@ W
     ==
     - Thickened skin [[Kangxi: 腄也, 腁胝, 皮厚也]] on the hand;
     - growing callous;
-    - _[(4)]p(')(i/)n (1)[ch(i/)]_
+    - _~~(1)p(')(i/)n~~ ``(4)p(')(i/)n`` ~~(1)ch(')(i/)~~ ``(1)ch(i/)``_
         [[pin4 zi1 胼胝]],
         horny skin.
     ==
@@ -1223,7 +1223,7 @@ W
   - [[Page~610 (1)蛓(1)螆]]
     ==
     - A louse, a nit;
-    - insects that [irritate] the skin;
+    - insects that ~~irritates~~ ``irritate`` the skin;
     - an itching, pickling;
     - _l(a/)i(3) (1)tsz'_
         [[laai3 zi1 癩螆]]
@@ -1231,10 +1231,10 @@ W
     - _yat(7) (1)shan (1)tsz'_
         [[jat1 san1 zi1 一身螆]]
         whole person is frowzy;
-    - _(1)[sh(a/)ng] (1)tsz' (2)kau_
+    - _~~(1)shang~~ ``(1)sh(a/)ng`` (1)tsz' (2)kau_
         [[saang1 zi1 gau2 生螆狗]],
         a mangy dog;
-    - _(1)[sh(a/)ng] (1)tsz' (2)kau (2)k(o\)m (1)sheng_
+    - _~~(1)shang~~ ``(1)sh(a/)ng`` (1)tsz' (2)kau (2)k(o\)m (1)sheng_
         [[saang1 zi1 gau2 gam2 seng1 生螆狗噉聲]],
         a peevish child, always whining for something to eat;
     - _(2)shui (1)tsz'_
@@ -1641,7 +1641,7 @@ W
 C
   ==
   - Williams' "beautiful, good-looking":
-    This is taking Kangxi 《釋名》髭姿也爲姿容之美也 as a standalone definition,
+    This is misreading Kangxi 《釋名》髭姿也爲姿容之美也 as a standalone definition,
     when it is intended as an homophony-definition of the "moustache" sense.
   ==
 $$
@@ -1662,13 +1662,12 @@ W
   - [[Page~612 (1)鼒]]
     ==
     - A small round tripod [[Kangxi: 小鼎也]];
-    - a round lid ~~or cover of a~~ tripod [[Kangxi: 鼎之圜掩上者]].
+    - a round lid``ded`` or cover``ed`` ~~of a~~ tripod [[Kangxi: 鼎之圜掩上者]].
     ==
   ====
 C
   ==
   - Fan Wan entry: Corrected headword {𪔇=⿱木鼎} to 鼒.
-  - Williams' "round lid or cover": This should be "round-lidded or covered".
   ==
 $$
 
@@ -1784,7 +1783,7 @@ W
     ==
     - Only, merely;
     - but, however, yet;
-    - _chat(7) (2)h(o\) (2)k(o\)m ch(e/)[(3)]_
+    - _chat(7) (2)h(o\) (2)k(o\)m ~~(2)ch(e/)~~ ``ch(e/)(3)``_
         [[zat1 hou2 gam2 ze3 只好噉嗻]],
         this way alone;
     - _chat(7) tak(7)_
@@ -1857,7 +1856,7 @@ W
   - [[Page~613 (2)呰]]
     ==
     - ~~To molest, to be needlessly strict;~~
-    - to revile [[Kangxi: 苛也, 口毀也]];
+    - to revile``, to denigrate`` [[Kangxi: 苛也, 口毀也]];
     - weak [[Kangxi: 弱也]];
     - [[...]].
     ==
@@ -1892,7 +1891,7 @@ W
   - [[Page~40|n83 (2)咫]]
     ==
     - An ancient short cubit of 8~_ts(')(u:)n_ [[寸]] [[Kangxi: 中婦人手長八寸謂之咫周尺也]],
-      same as an English foot;
+      ~~same as~~ ``similar to`` an English foot;
     - small degree of [[Kangxi: 咫言少也]];
     - _(2)ch(i/) ch(')ek(8) (1)ch(i/) t(i/)(6)_
         [[zi2 cek3 zi1 dei6 咫尺之地]]
@@ -2074,7 +2073,7 @@ W
     - seeds of plants;
     - a sage, a philosopher, a venerable and worthy man [[Kangxi: 子者人之嘉稱故凡成德謂之君子 etc.]];
     - Confucius;
-    - you, Sir, a term of address, ~~somewhat like comrades~~;
+    - you, Sir, a term of address~~, somewhat like comrades~~;
     - a degree of nobility, a viscount [[Kangxi: 公侯伯子男凡五等]];
     - the first of the twelve stems, denoted by the rat;
     - the third watch, from 11~P.~M. to 1~A.~M.;
@@ -2108,7 +2107,7 @@ W
         [[haau3 zi2 孝子]]
         a son in mourning;
         a dutiful son;
-    - _(2)tsz' [(5)]m(o\) (4)ts(')(i/)n_
+    - _(2)tsz' ~~(4)m(o\)~~ ``(5)m(o\)`` (4)ts(')(i/)n_
         [[zi2 mou5 cin4 子母錢]],
         cash marked with blood of mother and child;
     - _(1)s(i/)n (2)tsz'_
@@ -2227,13 +2226,13 @@ W
     ==
     - A finger [[Kangxi: 手指也 etc.]], a toe [[Kangxi: ::將指[...]足大指也::]];
     - to point, to refer to;
-    - ~~to teach~~, to command [[Kangxi: 指麾也]];
+    - ~~to teach, to command~~ ``to give directions`` [[Kangxi: 指麾也]];
     - ~~a particular, a mode;~~
     - to point out [[Kangxi: 示也]];
     - [[...]];
-    - _(2)ch(i/) (4)n(a/)m [(1)k(u:)]_
+    - _(2)ch(i/) (4)n(a/)m ~~(1)ch(')(e/)~~ ``(1)k(u:)``_
         [[zi2 naam4 geoi1 指南車]],
-        the compass;
+        the ~~compass~~ ``south-pointing chariot``;
     - _shap(9) (2)ch(i/) (4)t(')(a/)n (1)pang_
         [[sap6 zi2 taan4 bang1 十指彈崩]],
         to snap the fingers in vexation;
@@ -2283,7 +2282,6 @@ W
   ====
 C
   ==
-  - Williams' "to command": Better rendered "to give directions".
   - Williams' 指南車: Corrected _(1)ch(')(e/)_ (ce1) to _(1)k(u:)_ (geoi1).
     Strictly, this is the south-pointing chariot.
     The compass is now called 指南針.
@@ -2358,7 +2356,7 @@ W
         good liquor;
     - _(2)ch(i/) (i/)(3)_
         [[zi2 ji3 旨意]]
-        the import [of] the imperial will;
+        the import ``of`` the imperial will;
     - _shing(3) (2)ch(i/)_
         [[sing3 zi2 聖旨]],
         H.~I.~M.'s orders;
@@ -2399,17 +2397,17 @@ W
     ==
     - A hedge thorn, a spinous tree [[Kangxi: 木高多刺]];
     - a fruit like a pumelo, with a thick skin [[Kangxi: 木似橘]];
-    - hurtful [[Kangxi: 枳害也]], ~~like thorns~~;
+    - hurtful [[Kangxi: 枳害也]]~~, like thorns~~;
     - _(2)ch(i/) kik(7)_
         [[zi2 gik1 枳棘]]
         hedged up;
         thorny;
-    - _(2)ch(i/) [(2)]k(u:)_^
-        [[zi2 geoi6 枳椇]]
+    - _(2)ch(i/) ~~k(u:)(6)~~ ``(2)k(u:)``_^
+        [[zi2 geoi2 枳椇]]
         the _Hovenia dulcis_;
     - _(2)ch(i/) hok(8)_
         [[zi2 hok3 枳殼]]
-        ~~its seeds,~~ used for medicine.
+        ~~its seeds~~ ``the skin of the Chinese bitter orange``, used for medicine.
     ==
   ====
 C
@@ -2417,8 +2415,6 @@ C
   - Fan Wan entry: Normalised {𣗥=⿰束束} to 棘.
   - Williams' "hurtful": In the sense of "harmful".
   - Williams' 枳椇: Corrected _k(u:)(6)_ (geoi6) to _(2)k(u:)_ (geoi2).
-  - Williams' 枳殼: Not the seeds of _Hovenia dulcis_,
-    but the skin of the Chinese bitter orange.
   ==
 S
   ==
@@ -2456,7 +2452,7 @@ W
         printed by <`....`>;
     - ~~_(2)tsz' (4)t(')(a/)n_
         [[zi2 taan4 梓檀]],
-        a solid kind of black wood~~.
+        a solid kind of black wood.~~
     ==
   ====
 C
@@ -2770,7 +2766,7 @@ W
     ==
     - A stack of corn;
     - ~~to number;~~
-    - ~~the ninth place in notation[,] a hundred [million];~~
+    - ~~the ninth place in notation``,`` a hundred millions;~~
     - a weight of 640~peculs [[Kangxi: 六萬四千斤也]].
     ==
   ====
@@ -2912,7 +2908,7 @@ W
   ====
   - [[Page~613 (2)紫]]
     ==
-    - A reddish blue [[Kangxi: 帛靑赤色]], ~~a clay color~~, a nankeen tint;
+    - A reddish blue [[Kangxi: 帛靑赤色]], ~~a clay color,~~ a nankeen tint;
     - ~~a fugacious, undecided hue;~~
     - _(2)tsz' (4)t(')ong shik(7)_
         [[zi2 tong4 sik1 紫棠色]]
@@ -2971,7 +2967,7 @@ W
   ====
   - [[Page~612 (2)耔]]
     ==
-    - To ~~weed and hoe~~ earth around the roots of plants, to hill [[Kangxi: 壅苗本也]].
+    - To ~~weed and hoe~~ ``heap`` earth around the roots of plants, to hill [[Kangxi: 壅苗本也]].
     ==
   ====
 $$
@@ -3118,15 +3114,11 @@ W
   ====
   - [[Page~40|n83 (2)軹]]
     ==
-    - The hole in the hub of a wheel [[Kangxi: 車輪小穿]], ~~[where] the nave projects~~;
-    - the end ~~of the nave~~ projecting from the hub [[Kangxi: 軹指也如指而見于轂頭也, 軹謂轊頭也]];
+    - The hole in the hub of a wheel [[Kangxi: 車輪小穿]], w``h``ere the ~~nave~~ ``axle`` projects;
+    - the end of the ~~nave~~ ``axle`` projecting from the hub [[Kangxi: 軹指也如指而見于轂頭也, 軹謂轊頭也]];
     - diverging, like the forks of a road [[Kangxi: 岐也]].
     ==
   ====
-C
-  ==
-  - Williams' "nave": Both occurrences of "nave" should be "axle".
-  ==
 $$
 
 ### 阯2 | _(2)Ch(i/)_ [[zi2]]
@@ -3329,17 +3321,17 @@ F
   ==
 W
   ====
-  - [[Page~617 恣(3) _Ts(')z'(3)_ (ci3); here normalised to _Tsz'(3)_ (zi3)]]
+  - [[Page~617 恣(3) _Ts(')z'(3)_ (ci3)]]
     ==
     - Relaxation, dissipation;
     - licentious, gay, loose [[Kangxi: 縱也]];
     - to follow one's passions, to throw off all restraint [[Kangxi: 恣謂狡㹟淫戲不以禮也]];
-    - _fong(3) [tsz'](3)_
-        [[fong3 zi3 放恣]]
+    - _fong(3) ts(')z'(3)_
+        [[fong3 ci3 放恣]]
         profligate, dissipated;
         to give the rein to one's lusts;
-    - _tsung(3) [tsz'](3)_
-        [[zung3 zi3 縱恣]]
+    - _tsung(3) ts(')z'(3)_
+        [[zung3 ci3 縱恣]]
         unrestrained.
     ==
   ====
@@ -3368,17 +3360,13 @@ W
   ====
   - [[Page~12* 懥(3) _Ch(')(i/)(3)_ (ci3); here normalised to _Ch(i/)(3)_ (zi3)]]
     ==
-    - ~~Vexation, irritated;~~
+    - ~~Vexation, irritated~~ ``Angry`` [[Kangxi: 怒也]];
     - hatred;
-    - _(5)fan [ch(i/)](3)_
+    - _(5)fan ~~ch(')(i/)(3)~~ ``ch(i/)(3)``_
         [[fan5 zi3 忿懥]]
         enraged, in a great anger.
     ==
   ====
-P
-  ++
-  1. Angry (Kangxi: 怒也).
-  ++
 S
   ==
   - $懥ci3
@@ -3404,7 +3392,7 @@ W
     - to arrive at, to reach to [[Kangxi: 一曰至也, 臻也]];
     - ~~to extend;~~
     - [[...]];
-    - to advance [[Kangxi: 進也]], ~~to enter, to go to the edge~~;
+    - to advance [[Kangxi: 進也]]~~, to enter, to go to the edge~~;
     - to break down [[Kangxi: 傷折也]], as trees from weight of snow;
     - [[...]];
     - _(4)ts(')ing ch(i/)(3)_
@@ -3456,7 +3444,7 @@ W
     ==
   - [[Page~9* 智(3)]]
     ==
-    - Wisdom, understanding [[Kangxi: 智知也無所不知也]], ~~talent~~;
+    - Wisdom, understanding [[Kangxi: 智知也無所不知也]]~~, talent~~;
     - knowledge;
     - prudence;
     - wise, considerate, discreet;
@@ -3524,7 +3512,7 @@ W
     - To soak, to steep [[Kangxi: 漚也]];
     - to dye [[Kangxi: 染也]];
     - water-soaked, moldy, damaged by soaking;
-    - _tsam(3) tsz'[(3)]_
+    - _tsam(3) ~~tsz'~~ ``tsz'(3)``_
         [[zam3 zi3 浸漬]]
         under water;
     - [[...]].
@@ -3781,7 +3769,7 @@ W
     - a preposition, to, at, even, till, up to;
     - as to, respecting, in order to;
     - ~~an adverb, much, greatly;~~
-    - most, ~~very~~, the superlative degree [[Kangxi: 極也, 至謂至極也]];
+    - most, ~~very,~~ the superlative degree [[Kangxi: 極也, 至謂至極也]];
     - the solstice [[Kangxi: 冬至隂之復也夏至陽之復也]];
     - the 133d~radical [["arrive"]];
     - _ch(i/)(3) kik(9)_
@@ -3814,7 +3802,7 @@ W
     - _ch(i/)(3) (2)h(o\)_
         [[zi3 hou2 至好]],
         the best;
-    - _ch(i/)(3) ch(e/)uk[(9)]_
+    - _ch(i/)(3) ~~ch(e/)uk(8)~~ ``ch(e/)uk(9)``_
         [[zi3 zoek6 至着]]
         everything proper;
     - _ch(i/)(3) (4)shing_
@@ -3885,7 +3873,7 @@ W
     - that, in order to;
     - to put forth;
     - ~~the extreme;~~
-    - _ch(i/)(3) [(2)]shai (5)k(')(u:) (4)loi_
+    - _ch(i/)(3) ~~shai(3)~~ ``(2)shai`` (5)k(')(u:) (4)loi_
         [[zi3 sai2 keoi5 loi4 致使佢來]],
         make him come;
     - _ch(i/)(3) (i/)(3)_
@@ -3980,10 +3968,6 @@ W
     - ~~to fine one so many cups.~~
     ==
   ====
-C
-  ==
-  - Williams' "fine": Better rendered "punish ... with".
-  ==
 P
   ++
   1. To punish with drink in a drinking game (Kangxi: 罰爵也).
@@ -4217,22 +4201,17 @@ W
     --
   - [[Page~611 (1)輜 _(1)Tsz'_ (zi1); here corrected to _Ch(i/)(3)_ (zi3)]]
     ==
-    - ~~End of the axle~~ within the nave [[Kangxi: 車輻入牙曰輜, 與葘通, 葘謂輻入轂中者也]];
+    - ~~End of the axle within~~ ``Spokes going into`` the nave [[Kangxi: 車輻入牙曰輜, 與葘通, 葘謂輻入轂中者也]];
     - [[...]].
     ==
   ====
-C
-  ==
-  - Williams' "End of the axle": Not quite.
-    Better rendered as "spokes going into the nave".
-  ==
 S
   ==
   - $輜zi1
   ==
 $$
 
-### [鷙]3 | _Ch(i/)(3)_ [[zi3]]
+### ~~{？=⿱⿰辛丸鳥}~~``鷙``3 | _Ch(i/)(3)_ [[zi3]]
 
 $$
 R
@@ -4249,7 +4228,7 @@ F
   ==
 W
   ====
-  - [[Page~9* ::[鷙](3)::]]
+  - [[Page~9* ::~~{？=⿱⿰辛丸鳥}~~``鷙``(3)::]]
     ==
     - Birds of prey, accipitrine birds [[Kangxi: 擊殺鳥也, 猛鳥也]];
     - violent, ruthless, hawklike [[Kangxi: 又凡鳥之勇獸之猛者皆曰鷙]];
@@ -4517,7 +4496,7 @@ W
     - a word, a symbol of thought;
     - to bear, to nourish, to love, to suckle [[Kangxi: 乳也又愛也]];
     - the style or title [[Kangxi: 名字, 男子二十冠而字]] ~~taken at marriage~~ [[Kangxi: 女子許嫁筓而字]];
-    - ~~a name~~, a designation;
+    - ~~a name,~~ a designation;
     - to betroth a daughter [[Kangxi: 女許嫁曰字]];
     - _(2)s(e/) tsz'(6)_
         [[se2 zi6 寫字]]
@@ -4754,8 +4733,8 @@ W
     - A sow, a pig [[Kangxi: 豕也, 豬也]];
     - _(4)yan ch(i/)(6)_
         [[jan4 zi6 人彘]]
-        ~~a corpse cut to pieces~~,
-        alludes to a speech of ~~a princess of~~ the H(a/)n [[漢]] dynasty.
+        ~~a corpse cut to pieces,~~
+        alludes to a ~~speech of a princess~~ ``designation made by an empress`` of the H(a/)n [[漢]] dynasty.
     ==
   ====
 C
@@ -5034,7 +5013,7 @@ W
   ====
   - [[Page~614 祀(6)]]
     ==
-    - To sacrifice to gods ~~or devils~~, to offer sacrifices [[Kangxi: 祭也]];
+    - To sacrifice to gods or ~~devils~~ ``ancestral spirits``, to offer sacrifices [[Kangxi: 祭也]];
     - sacrificial;
     - a sacrifice;
     - a year [[Kangxi: 年也]];
@@ -5053,11 +5032,6 @@ W
         to worship ancestors.
     ==
   ====
-C
-  ==
-  - Williams' "devils": This is a poor choice of wording.
-    A better choice would be "ancestral spirits" or "ghosts".
-  ==
 $$
 
 ### 稚6 | _Ch(i/)(6)_ [[zi6]]
@@ -5280,7 +5254,7 @@ W
     - _tsz'(6) shik(9) tsz'(6)_
         [[zi6 sik6 zi6 自食自]]
         I find my own food;
-    - _tsz'(6) (4)loi [(2)]ko (4)sh(i/)_
+    - _tsz'(6) (4)loi ~~ko(3)~~ ``(2)ko`` (4)sh(i/)_
         [[zi6 loi4 go2 si4 自來嗰時]],
         ever since that time;
     - _tsz'(6) (1)ch(i/) t(')(a/)i(3) kwo(3)_
@@ -5299,7 +5273,7 @@ P
   ++
 $$
 
-### 豸6 | _Ch(i/)[(6)]_ [[zi6]]
+### 豸6 | _~~(2)Ch(i/)~~ ``Ch(i/)(6)``_ [[zi6]]
 
 $$
 R
@@ -5317,19 +5291,15 @@ W
     [[...]]
     --
     --
-    Read _ch(i/)[(6)]_ [[zi6]];
+    Read _~~(2)ch(i/)~~ ``ch(i/)(6)``_ [[zi6]];
     --
     ==
-    - the 153d~radical [["badger"]] of characters of ~~feline~~ beasts;
+    - the 153d~radical [["badger"]] of characters of ~~feline~~ ``long-backed`` beasts ``ready to pounce`` [[Kangxi: ::獸長[脊]行豸豸然欲有所司殺形::]];
     - a worm, a hairless grub [[Kangxi: 有足謂之蟲無足謂之豸]].
     ==
   ====
 C
   ==
-  - Williams' "Read [...]":
-    Corrected _(2)ch(i/)_ (zi2) to _ch(i/)(6)_ (zi6).
-  - Williams' "feline beasts": Not feline beasts, but long-backed beasts
-    ready to pounce (Kangxi: ::獸長[脊]行豸豸然欲有所司殺形::).
   - Williams' "a worm, a hairless grub": Or, legless animals more generally.
   ==
 S
