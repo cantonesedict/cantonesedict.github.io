@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeng
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -230,9 +230,9 @@ W
     - A feudal state [[Kangxi: 國名]] in the Chau [[周]] dynasty,
       now the prefecture of K(a/)ifung [[開封]] in Hon(a/)n [[河南]];
     - it was first placed where the capital of Shens(i/) [[陝西]] lies;
-    - _[cheng](6) chung(6)_
+    - _~~ch(')^ing(6)~~ ``cheng(6)`` chung(6)_
         [[zeng6 zung6 鄭重]]
-        prudent [[Kangxi: 鄭重殷勤之意]], ~~inflexible~~.
+        prudent [[Kangxi: 鄭重殷勤之意]]~~, inflexible~~.
     ==
   ====
 C
