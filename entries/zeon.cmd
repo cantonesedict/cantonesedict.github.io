@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2025-08-17
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -143,7 +143,7 @@ W
   - [[Page~36* (1)屯]]
     ==
     - ~~Budding plants;~~
-    - difficult to proceed [[Kangxi: 屯邅難行不進貌]];
+    - ``difficulty [[Kangxi: 難也]];`` difficult to proceed [[Kangxi: 屯邅難行不進貌]];
     - avaricious [[Kangxi: 吝也]];
     - pressed down;
     - the 3d of the diagrams.
@@ -154,8 +154,6 @@ C
   - Fan Wan entry: Fixed missing bottom-left in 高.
   - Williams' "Budding plants": This is a misreading of Kangxi 象艸木之初生
     as a definition, when it is simply the 《說文》 glyph explanation.
-  - Williams' "difficult to proceed": Ideally Williams should have given
-    the noun definition "difficulty" (Kangxi: 難也).
   ==
 S
   ==
@@ -179,7 +177,7 @@ W
   - [[Page~601 (1)榛]]
     ==
     - A fruit like the hazel or filbert, smaller than the chestnut [[Kangxi: 果實如小栗]];
-    - ~~wood, brushwood;~~
+    - ~~wood, brushwood~~ ``a type of tree`` [[Kangxi: 木也]];
     - thorny bushes, as in thickset hedges [[Kangxi: 一曰蕪也]].
     ==
   ====
@@ -187,8 +185,6 @@ C
   ==
   - Strictly, the pre-merger reading should be _(1)chun_ per 《廣韻》側詵切.
   - Fan Wan entry: Changed 橧 to 檜.
-  - Williams' "wood, brushwood": This is a misreading of Kangxi 木也,
-    which means "[a type of] tree".
   ==
 $$
 
@@ -325,7 +321,7 @@ W
   - [[Page~601 (1)溱]]
     ==
     - A small stream in Hon(a/)n [[河南]] [[Kangxi: 水名在河南]],
-      one of the headwaters of the R.~Hw(a/)i [[淮]];
+      one of the headwaters of the R.~^~~Hw(a/)i~~^~``Hwui`` [[Kangxi: ::入~~淮~~``匯``::]];
     - [[...]];
     - _(1)tsun (1)tsun_
         [[zeon1 zeon1 溱溱]],
@@ -339,8 +335,6 @@ W
 C
   ==
   - Strictly, the pre-merger reading should be _(1)chun_ per 《廣韻》側詵切.
-  - Williams' "R.~Hw(a/)i": This is following a typo (淮) in Kangxi.
-    《說文》 has 匯, not 淮.
   ==
 $$
 
@@ -412,13 +406,9 @@ W
     - earnest, sincere [[Kangxi: 懇誠貌]];
     - _(1)chun (1)chun_
         [[zeon1 zeon1 肫肫]],
-        ~~decided, firm~~.
+        ~~decided, firm~~ ``earnest, sincere``.
     ==
   ====
-C
-  ==
-  - Williams' "decided, firm": Better rendered "earnest" or "sincere".
-  ==
 P
   ++
   1. Bird gizzard.
@@ -592,10 +582,10 @@ W
     - obedience, acquiescence;
     - _(1)tsun (2)ch(i/)_
         [[zeon1 zi2 遵旨]],
-        to obey the [emperor's] behests;
+        to obey the ~~emperior's~~ ``emperor's`` behests;
     - _(1)yam (2)ts(')z' (1)yam (1)tsun_
         [[jam1 ci2 jam1 zeon1 欽此欽遵]],
-        ~~to stand in awe and obey~~;
+        ~~to stand in awe and obey~~ ``a phrase that concludes imperial edicts``;
     - _(1)tsun f(a/)t(8)_
         [[zeon1 faat3 遵法]]
         to obey the laws;
@@ -606,8 +596,7 @@ W
   ====
 C
   ==
-  - Williams' 欽此欽遵: A phrase that concludes imperial edicts.
-    Better rendered
+  - Williams' 欽此欽遵: Better rendered
     "[the] revered [edict is] thus, [the] revered [edict is to be] obeyed!"
   ==
 $$
@@ -777,12 +766,12 @@ W
     ==
     - To equalize, to fix, to adjust [[Kangxi 準: 謂準擊平正之也]];
     - to level, to measure;
-    - a rule, a [gauge], a plumb, a line  [[Kangxi 準: 平也]];
+    - a rule, a ~~guage~~ ``gauge``, a plumb, a line  [[Kangxi 準: 平也]];
     - even, exact, just [[Kangxi 準: 均也]];
     - to run true, as a watch;
     - _(5)yau (2)chun (4)t(')au_
         [[jau5 zeon2 tau4 有準頭]],
-        he has the right [gauge], skilled in;
+        he has the right ~~guage~~ ``gauge``, skilled in;
     - _(2)chun ch(i/)t(8)_
         [[zeon2 zit3 準折]]
         to barter;
@@ -1144,7 +1133,7 @@ W
     ==
   - [[Page~602 搢(3)]]
     ==
-    - To stick into, to insert [[Kangxi: 插也]];
+    - To stick into, to insert``, to tuck`` [[Kangxi: 插也]];
     - to put in, as into a socket;
     - to shake [[Kangxi: 振也]].
     ==
@@ -1158,11 +1147,11 @@ W
     - ~~to gird, as with a sash;~~
     - _tsun(3) (1)shan_
         [[zeon3 san1 搢紳]],
-        the "~~red~~ sashes" are the gentry or literati;
+        the "~~red~~ ``tucking`` sashes" are the gentry or literati;
     - _tsun(3) (1)shan (4)ts(')(u:)n (1)shu_
         [[zeon3 san1 cyun4 syu1 搢紳全書]],
         the red book;
-    - _tsun(3) (1)shan (1)s(i/)n (1)[sh(a/)ng]_
+    - _tsun(3) (1)shan (1)s(i/)n ~~(1)shang~~ ``(1)sh(a/)ng``_
         [[zeon3 san1 sin1 saang1 搢紳先生]],
         a literary gentleman.
     ==
@@ -1506,11 +1495,11 @@ W
         --- said when moving into another dwelling;
     - _(5)yan tsun(3)_
         [[jan5 zeon3 引進]]
-        to bring [forward];
+        to bring fo``r``ward;
     - _(5)m(o\) (2)ch(e/)ung tsun(3)_
         [[mou5 zoeng2 zeon3 冇長進]]
         he makes no headway, he does not improve;
-    - _[(4)ts(')(i/)n] tsun[(3)]_
+    - _~~(1)ts(i/)n~~ ``(4)ts(')(i/)n`` ~~tsun(6)~~ ``tsun(3)``_
         [[cin4 zeon3 前進]]
         to make progress.
     ==
@@ -1760,14 +1749,13 @@ W
     - a superlative, the uttermost, extreme;
     - _tsun(6) (5)ngo (1)sam_
         [[zeon6 ngo5 sam1 盡我心]],
-        [obeying] [[these square brackets appear in the original text]]
-        with my whole heart;
+        [obeying] with my whole heart;
     - _tsun(6) t(i/)(6) k(o\)m(3) (1)to_
         [[zeon6 dei6-2 gam3 do1 盡地咁多]],
         there's only so much;
     - _tsun(6) t(i/)(6) ts(o\)(6)_
         [[zeon6 dei6-2 zou6 盡地做]]
-        use it all up then;
+        ~~use it all up then~~ ``do to the extent possible``;
     - _yung(6) tsun(6) (1)sam (1)k(i/)_
         [[jung6 zeon6 sam1 gei1 用盡心機]],
         employing all my abilities;
@@ -1789,7 +1777,7 @@ W
     - _tsun(6) chik(7)_
         [[zeon6 zik1 盡職]]
         to perform one's official duties fully;
-    - _(4)[h(a/)ng] tsun(6)_
+    - _~~(4)hang~~ ``(4)h(a/)ng`` tsun(6)_
         [[haang4 zeon6 行盡]]
         gone through the whole, gone all over;
     - _tsun(6) (1)n(i/) (1)p(o\)_
@@ -1815,7 +1803,6 @@ W
   ====
 C
   ==
-  - Williams' 盡地做: Better rendered "do to the extent possible".
   - Williams' 行盡: Changed _(4)hang_ (hang4)
     to vernacular reading _(4)h(a/)ng_ (haang4).
   ==
