@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2025-09-21
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -142,7 +142,7 @@ W
   - [[Page~594 (1)沮]]
     ==
     - The name of an affluent of the Y(a/)ngtsz' ki(a/)ng [[揚子江]]  [[Kangxi: 水名, 水出漢中房陵東入江]]
-      west of [Kingchau] f(u/) [[荊州府]] in H(u/)peh [[湖北]];
+      west of ~~K'ingchau~~ ``Kingchau`` f(u/) [[荊州府]] in H(u/)peh [[湖北]];
     - an ancient district now the extreme southwest of Shens(i/) [[陝西]].
     ==
   ====
@@ -153,7 +153,6 @@ C
   - Williams considers rising-tone _(2)ts(u:)_ (zeoi2)
     an acceptable alternative reading for the name sense.
     This is incorrect.
-  - Williams' 荊州府: Corrected "K'ingchau" to unaspirated "Kingchau".
   ==
 S
   ==
@@ -462,7 +461,7 @@ W
         to feel remorse;
     - ~~_(1)chui h(u:)(3)_
         [[zeoi1 heoi3 追去]]
-        to drive out~~;
+        to drive out;~~
     - _(1)chui kau(3)_
         [[zeoi1 gau3 追究]]
         to investigate thoroughly;
@@ -639,10 +638,10 @@ W
     ==
     - To taste [[Kangxi: 含味也]];
     - to chew, to bite in order to taste [[Kangxi: 咀嚼]];
-    - _(2)ts(u:) ts(e/)uk[(8)] (5)h(a/)_
+    - _(2)ts(u:) ~~ts(e/)uk(9)~~ ``ts(e/)uk(8)`` (5)h(a/)_
         [[zeoi2 zoek3 haa5 咀嚼吓]],
         take a bite of it;
-    - _(4)h(o\)m (1)ying (2)ts(u:) [(4)]w(a/)_
+    - _(4)h(o\)m (1)ying (2)ts(u:) ~~(1)w(a/)~~ ``(4)w(a/)``_
         [[ham4 jing1 zyu2 waa1 含英咀華]],
         to learn and relish the beauties of a style.
     ==
@@ -718,15 +717,15 @@ W
     - _h(o\)(3) shik(9) (2)tsui (4)t(')au_
         [[hou3 sik6 zeoi2 tau4 好食嘴頭]],
         loving to eat this and that;
-    - _(5)n(i/) (5)m(o\) [(1)]to (2)tsui_
+    - _(5)n(i/) (5)m(o\) ~~(4)^to~~ ``(1)to`` (2)tsui_
         [[nei5 mou5 do1 zeoi2 你冇多嘴]],
         don't you talk so much;
-    - _(2)tsui (2)kong (i/)[(6)]_
+    - _(2)tsui (2)kong ~~(i/)(3)~~ ``(i/)(6)``_
         [[zeoi2 gong2 ji6 嘴講易]]
         it's all very easy to talk;
     - _(2)tsui (2)h(o\) ng(a/)ng(6)_
         [[zeoi2 hou2 ngaang6 嘴好硬]]
-        he [won't] confess at all.
+        he ~~wont~~ ``won't`` confess at all.
     ==
   ====
 C
@@ -928,21 +927,16 @@ W
   ====
   - [[Page~34* (2)惴 _(2)Ch(')ui_ (ceoi2); here normalised to _Chui(3)_ (zeoi3)]]
     ==
-    - ~~Mournful;~~
+    - ~~Mournful~~ ``Anxious, apprehensive`` [[Kangxi: 憂懼也]];
     - ~~in straits;~~
-    - _[chui(3)] [chui(3)]_
+    - _~~(2)ch(')ui (2)ch(')ui~~ ``chui(3) chui(3)``_
         [[zeoi3 zeoi3 惴惴]],
-        ~~[mourning], grieving~~;
-    - _[chui(3)] k(u:)(6)_
+        ~~mo``u``rning, grieving~~;
+    - _~~(2)ch(')ui~~ ``chui(3)`` k(u:)(6)_
         [[zeoi3 geoi6 惴懼]]
         anxious.
     ==
   ====
-C
-  ==
-  - Williams' "Mournful", etc.: These are misreadings of Kangxi 憂懼也.
-    Better rendered "anxious" or "apprehensive".
-  ==
 P
   ++
   1. Anxious, apprehensive (Kangxi: 憂懼也).
@@ -972,17 +966,17 @@ W
     ==
     - To come together, to assemble [[Kangxi: 聚也]];
     - an adjective denoting the most important, the highest degree of [[Kangxi: 極也, 最爲第一]];
-    - ~~very, extremely, exceedingly;~~
+    - ~~very, extremely, exceedingly~~ ``most``;
     - altogether [[Kangxi: 最都凡也]];
     - _tsui(3) sh(i/)n(6)_
         [[zeoi3 sin6 最善]]
-        ~~very good~~;
+        very ~~good~~ ``best``;
     - _tsui(3) (4)n(a/)n_
         [[zeoi3 naan4 最難]],
-        ~~very difficult~~;
+        ~~very difficult~~ ``hardest``;
     - _tsui(3) (2)kan i(u/)(3)_
         [[zeoi3 gan2 jiu3 最緊要]]
-        ~~highly important~~;
+        ~~highly~~ ``most`` important;
     - _tsui(3) (1)s(i/)n_
         [[zeoi3 sin1 最先]],
         first, in the first place;
@@ -991,11 +985,6 @@ W
         the most convenient, very handy.
     ==
   ====
-C
-  ==
-  - Williams' "very, extremely, exceedingly":
-    These should instead be rendered "most", as 最 is superlative.
-  ==
 $$
 
 ###+ 沮3 | _Ts(u:)(3)_ (zeoi3)
@@ -1012,7 +1001,7 @@ W
   - [[Page~594 (2)沮 _(2)Ts(u:)_ (zeoi2); here corrected to _Ts(u:)(3)_ (zeoi3)]]
     ==
     - [[...]];
-    - _shap(7) [ts(u:)](3)_
+    - _shap(7) ~~(2)ts(u:)~~ ``ts(u:)(3)``_
         [[sap1 zeoi3 濕沮]]^,
         damp, dank.
     ==
@@ -1096,12 +1085,12 @@ F
   ==
 W
   ====
-  - [[Page~610 ::[蕝](8)蕞(8)::]]
+  - [[Page~610 ::~~{？=⿱艹⿰糸邑}~~``蕝``(8)蕞(8)::]]
     --
     [[...]]
     --
     ==
-    - The second is otherwise read _tsui(3)_ [[zeoi3]];
+    - The second [[蕞]] is otherwise read _tsui(3)_ [[zeoi3]];
     - small, vile, base, insignificant [[Kangxi 蕞: 小貌]];
     - ~~_tsui(3) ts(u:)(6)_
         [[zeoi3 zeoi6 蕞聚]]
@@ -1115,7 +1104,7 @@ S
   ==
 $$
 
-###+ 足3 | _Ts(u:)(3)_ (zeoi3)
+### 足3 | _~~Ts(u:)(6)~~ ``Ts(u:)(3)``_ [[zeoi3]]
 
 $$
 R
@@ -1133,26 +1122,17 @@ W
     [[...]]
     --
     --
-    ~~Read _ts(u:)(6)_ [[zeoi6]];~~
+    Read _~~ts(u:)(6)~~ ``ts(u:)(3)``_ [[zeoi3]];
     --
     ==
-    - ~~to act respectfully in order to flatter one;~~
+    - ~~to act respectfully in order to flatter one~~ ``excessive`` [[Kangxi: 過也]];
     - ~~careful of one's words;~~
     - to increase [[Kangxi: 添物也, 益也]];
-    - _ts(u:)[(3)] (1)kung (1)(u:) (4)yan_
+    - _~~ts(u:)(6)~~ ``ts(u:)(3)`` (1)kung (1)(u:) (4)yan_
         [[zeoi3 gung1 jyu1 jan4 足恭於人]],
-        ~~to humor and flatter people~~.
+        ~~to humor and flatter people~~ ``excessively deferential unto others``.
     ==
   ====
-C
-  ==
-  - Williams' "to act respectfully [...]": Better defined as "excessive",
-    in that 足恭 means "excessively deferential".
-  ==
-P
-  ++
-  1. Excessive (Kangxi: 過也).
-  ++
 S
   ==
   - $足zuk1
@@ -1194,7 +1174,7 @@ W
         a drunkard;
     - _(4)m(o\) (2)tsau (1)s(a/)m (1)fan tsui(3)_
         [[mou4 zau2 saam1 fan1 zeoi3 無酒三分醉]]
-        he is half drunk, and has had no wine,
+        he is ~~half~~ ``three-tenths`` drunk, and has had no wine,
         _i.~e._ he is very stupid, he does not know what he's about;
     - _tsui(3) (1)h(e/)ung_
         [[zeoi3 hoeng1 醉鄉]],
@@ -1207,10 +1187,6 @@ W
         dead drunk.
     ==
   ====
-C
-  ==
-  - Williams' 無酒三分醉: Not half drunk, but three-tenths drunk.
-  ==
 $$
 
 
@@ -1505,11 +1481,11 @@ W
     - _ts(u/)i(6) kwo(3)_
         [[zeoi6 gwo3 罪過]]
         a fault, a crime;
-    - _(4)(u:)n ts(u/)i(6) (5)yau (2)ho (4)(u:)n_
-        [[jyun4 zeoi6 jau5 ho2 jyun4 ？罪有可原]],
+    - _~~(4)(u:)n~~ ts(u/)i(6) (5)yau (2)ho (4)(u:)n_
+        [[~~jyun4~~ zeoi6 jau5 ho2 jyun4 ::~~？~~罪有可原::]],
         the crime can be exculpated;
-    - _[fat](9) ts(u/)i(6)_
-        [[fat6 zeoi6 罰罪]]
+    - _f(a/)t(8) ts(u/)i(6)_
+        [[faat3 zeoi6 法罪]]
         to punish crime;
     - _sh(e/)(3) ts(u/)i(6)_
         [[se3 zeoi6 赦罪]]
@@ -1541,7 +1517,6 @@ W
 C
   ==
   - Williams' 罪過: Also a polite (interjectional) apology.
-  - Williams' 罰罪: Changed _f(a/)t(9)_ (faat6) to modern _fat(9)_ (fat6).
   ==
 $$
 

@@ -247,7 +247,7 @@ F
   ==
 W
   ====
-  - [[Page~610 ::[蕝](8)蕞(8)::]]
+  - [[Page~610 ::~~{？=⿱艹⿰糸邑}~~``蕝``(8)蕞(8)::]]
     --
     [[Alternative form of 蕝, and reading variation. **See $蕝zyut3 for the canonical entry.**]]
     --
