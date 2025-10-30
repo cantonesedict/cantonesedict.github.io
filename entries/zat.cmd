@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zat
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -246,7 +246,7 @@ W
   ====
 $$
 
-### [騭]1 | _Chat(7)_ [[zat1]]
+### ~~{？=⿰阝⿱步馬}~~``騭``1 | _Chat(7)_ [[zat1]]
 
 $$
 R
@@ -263,7 +263,7 @@ F
   ==
 W
   ====
-  - [[Page~23|n66 ::[騭](7)隲(7)::]]
+  - [[Page~23|n66 ::~~{？=⿰阝⿱步馬}~~``騭``(7)隲(7)::]]
     ==
     - A stallion [[Kangxi: 牡馬也, 牡曰騭]];
     - to mount;
@@ -281,7 +281,6 @@ W
 C
   ==
   - Fan Wan entry: Corrected 降 to 陞.
-  - Williams entry: Normalised headword ⿰阝⿱步馬 to 騭.
   ==
 $$
 
@@ -360,7 +359,7 @@ W
         a nephew;
     - _chat(9) (5)n(u:)_
         [[zat6 neoi5-2 姪女]],
-        a [niece];
+        a ~~neice~~ ``niece``;
     - _ngoi(6) chat(9)_
         [[ngoi6 zat6-2 外姪]]
         a wife's nephews;
@@ -441,15 +440,10 @@ W
   ====
   - [[Page~24|n67 挃(9)]]
     ==
-    - To cut down grain [[Kangxi: 挃挃穫也]];
+    - ~~To cut~~ ``The sound of cutting`` down grain [[Kangxi: 穫禾聲, 挃挃穫也]];
     - to beat, to knock with the fist [[Kangxi: 撞挃也]].
     ==
   ====
-C
-  ==
-  - Williams' "To cut down grain": More specifically,
-    the sound of cutting grain (Kangxi: 穫禾聲).
-  ==
 $$
 
 ### 桎6 | _Chat(9)_ [[zat6]]
@@ -505,7 +499,7 @@ W
   - [[Page~559 疾(9)]]
     ==
     - Sickness, a disease which comes suddenly on one [[Kangxi: 病也一曰急也 etc.]];
-    - ~~calamities~~, afflictions [[Kangxi: 患也]];
+    - ~~calamities,~~ afflictions [[Kangxi: 患也]];
     - urgent, pressing, prompt, hasty [[Kangxi: 速也, 急也]];
     - unlucky, infelicitous [[Kangxi: 惡也]];
     - to hate, to dislike, to envy [[Kangxi: 怨也]];
@@ -531,7 +525,7 @@ W
     - _tsat(9) (4)yan_
         [[zat6 jan4 疾人]],
         a leper;
-    - _tsat(9) [ts(')uk](7)_
+    - _tsat(9) ~~tsuk(7)~~ ``ts(')uk(7)``_
         [[zat6 cuk1 疾速]]
         impetuous, in haste;
     - _(4)ts(')(a/)n tsat(9) (1)ch(i/) (4)yan_
@@ -569,7 +563,7 @@ W
   - [[Page~23|n66 窒(9)]]
     ==
     - To close [[Kangxi: 塞也]], to stop up the mouth of;
-    - to hamper[;]
+    - to hamper~~,~~``;``
     - the moon in opposition [[Kangxi: 月在庚曰窒]];
     - _chat(9) (2)shau chat(9) k(e/)uk(8)_
         [[zat6 sau2 zat6 goek3 窒手窒腳]]
@@ -717,10 +711,10 @@ W
     - flourishing, as an age;
     - very, exceedingly [[Kangxi: 至也]];
     - name of a city [[Kangxi: 郁郅古縣名]];
-    - _chat[(9)] (4)lung_
+    - _~~chat(7)~~ ``chat(9)`` (4)lung_
         [[zat6 lung4 郅隆]],
         very grand;
-    - _yuk(7) chat[(9)]_
+    - _yuk(7) ~~chat(7)~~ ``chat(9)``_
         [[juk1 zat6 郁郅]]
         an ancient name of Ng(a/)nhw(a/) hien [[安化縣]] in K(a/)nsuh [[甘肅]].
     ==
