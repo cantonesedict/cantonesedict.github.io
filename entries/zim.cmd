@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zim
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -101,7 +101,7 @@ W
     - _(1)ch(i/)m hau(6)_
         [[zim1 hau6 占候]]
         to foretell seasons;
-    - _(1)ch(i/)m [shi(u/)](6)_
+    - _(1)ch(i/)m ~~chi(u/)(6)~~ ``shi(u/)(6)``_
         [[zim1 siu6 占兆]]
         to see signs, to foretell by signs.
     ==
@@ -253,7 +253,7 @@ W
     - _(2)f(u/) lok(9) (1)kwan (1)ch(i/)m_
         [[fu2 lok6 gwan1 zim1 苦樂均沾]],
         sorrow and joy equally bestowed;
-    - _(1)ch(i/)m (1)yan ch(a/)k[(9)]_
+    - _(1)ch(i/)m (1)yan ~~ch(a/)k(8)~~ ``ch(a/)k(9)``_
         [[zim1 jan1 zaak6 沾恩澤]]
         received benefits;
     - _(1)ch(i/)m peng(6)_
@@ -262,7 +262,7 @@ W
     - _(1)ch(i/)m (5)(i/)m shai(3) (4)ts(')ing_
         [[zim1 jim5 sai3 cing4 沾染世情]],
         to be corrupted by bad influences;
-    - _(5)n(i/) (1)ch(i/)m ch(e/)uk[(9)] (5)yau tik(7) (4)'m (2)h(o\) (4)p(')(i/) h(i/)(3)_
+    - _(5)n(i/) (1)ch(i/)m ~~ch(e/)uk(8)~~ ``ch(e/)uk(9)`` (5)yau tik(7) (4)'m (2)h(o\) (4)p(')(i/) h(i/)(3)_
         [[nei5 zim1 zoek6 jau5 dik1 m4 hou2 pei4 hei3 你沾着有滴唔好脾氣]]
         you have contracted a bad temper.
     ==
@@ -512,7 +512,7 @@ W
         loquacious;
     - _(2)kan (1)ch(i/)m_
         [[gan2 zim1 謹詹]],
-        ~~carefully provide~~.
+        carefully ~~provide~~ ``select``.
     ==
     --
     [[Otherwise, an alternative form of 瞻. **See $瞻zim1 for the canonical entry.**]]
@@ -521,7 +521,6 @@ W
 C
   ==
   - Fan Wan entry: Corrected headword ⿸厃⿳八土口 to {𦧕=⿸厃⿱儿舌}.
-  - Williams' 謹詹: Not to provide, but to set/choose.
   ==
 P
   ++
