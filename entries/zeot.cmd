@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeot
-* %date-modified --> 2025-09-07
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -80,16 +80,12 @@ W
         camp followers;
     - _peng(6) tsut(7)_
         [[beng6 zeot1 病卒]]
-        disease is mortal;
+        ~~disease is mortal~~ ``died of disease``;
     - _tsut(7) (4)wai sh(i/)n(6) sz'(6)_
         [[zeot1 wai4 sin6 si6 卒為善士]]
         to the last he was a good man.
     ==
   ====
-C
-  ==
-  - Williams' 病卒: That is, died of disease.
-  ==
 E
   ====
   - 【卒之】 (zeot1 zi1):
@@ -126,7 +122,7 @@ W
     - to dread;
     - [[...]];
     <## - to tempt by hope of profit; (TODO: seot1 與訹通) ##>
-    - _chut(7) [t(')ik](7)_
+    - _chut(7) ~~tik(7)~~ ``t(')ik(7)``_
         [[zeot1 tik1 怵惕]]
         timorous.
     ==
@@ -269,9 +265,9 @@ W
     - _chut(7) t(')(u/)i(3)_
         [[zeot1 teoi3 黜退]]
         to cashier;
-    - _s(a/)m[(3)] chut(7)_
+    - _~~(1)s(a/)m~~ ``s(a/)m(3)`` chut(7)_
         [[saam3 zeot1 三黜]]
-        ~~a third reprimand~~;
+        ~~a third reprimand~~ ``thrice dismissed``;
     - _yuk(9) chut(7)_
         [[juk6 zeot1 辱黜]]
         degraded and ashamed.
