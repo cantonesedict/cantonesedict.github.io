@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -91,7 +91,7 @@ W
     ==
     - Manner, air, figure [[Kangxi: 態也]];
     - look;
-    - _(1)ch(i/)n [(4)](u/)i_
+    - _(1)ch(i/)n ~~(1)(u/)i~~ ``(4)(u/)i``_
         [[zin1 wui4 儃佪]],
         undecided whether to go on, irresolute [[Kangxi: 儃佪不進貌]].
     ==
@@ -365,13 +365,13 @@ W
         [[maan6 fo2 zin1 jyu4-2 慢火煎魚]],
         a slow fire tries fish;
         _i.~e._ small bets will erelong drain the purse;
-    - _(1)ts(i/)n [(1)]nung_
+    - _(1)ts(i/)n ~~(4)nung~~ ``(1)nung``_
         [[zin1 nung1 煎燶]],
         to fry brown;
-    - _[(4)]ng(o\) (1)ts(i/)n_
+    - _~~ng(o\)(6)~~ ``(4)ng(o\)`` (1)ts(i/)n_
         [[ngou4 zin1 熬煎]],
-        to simmer, to decoct;
-        ~~vexed, irritated~~.
+        to simmer, to decoct~~;
+        vexed, irritated~~.
     ==
     --
     [[...]]
@@ -478,15 +478,13 @@ W
     - A man's name,
       called _(1)Ts(i/)n (1)Hang_ [[zin1 hang1 籛鏗]], or Tsien Hing,
       who lived in the Sh(a/)ng [[商]] and Chau [[周]] dynasties,
-      to the age of 767, ~~and then vanished~~
+      to the age of 767, ~~and then vanished~~ ``yet waned not``
       [[Kangxi: ::彭祖姓籛名鏗[...]歷夏殷周年七百六十七歲而不衰::]].
     ==
   ====
 C
   ==
   - Williams' "man's name": Specifically, a surname (Kangxi: 姓也).
-  - Williams' "and then vanished": This is a misreading of Kangxi 而不衰,
-    which should be rendered "and waned not".
   ==
 $$
 
@@ -724,7 +722,7 @@ W
     - _t(a/)i(6) k(a/)u(3) (2)ts(i/)n_
         [[daai6 gaau3 zin2 大鉸剪]],
         shears;
-    - _ch(a/)p[(9)] (2)ts(i/)n_
+    - _~~ch(a/)p(8)~~ ``ch(a/)p(9)`` (2)ts(i/)n_
         [[zaap6 zin2 鈒剪]],
         betel-nut shears;
     - _(4)ts(')oi (2)ts(i/)n_
@@ -1058,7 +1056,7 @@ W
     - _(4)ts(')oi (2)ts(i/)n_
         [[coi4 zin2 材譾]],
         mediocre, of small capacity;
-    - _(2)ts(i/)n l(u:)t[(9)]_
+    - _(2)ts(i/)n ~~l(u:)t(8)~~ ``l(u:)t(9)``_
         [[zin2 lyut6 譾劣]]
         mean, insignificant.
     ==
@@ -1091,7 +1089,7 @@ W
     - To roll over half way [[Kangxi: 輾者轉之半也]];
     - to turn over [[Kangxi: 轉也]];
     - [[...]];
-    - _(2)ch(i/)n (2)ch(u:)n (2)f(a/)n [chak](7)_
+    - _(2)ch(i/)n (2)ch(u:)n (2)f(a/)n ~~ch(')ak(7)~~ ``chak(7)``_
         [[zin2 zyun2 faan2 zak1 輾轉反側]]
         to turn back and forth, to think on.
     ==
@@ -1226,8 +1224,8 @@ W
   - [[Page~17* 戰(3)]]
     ==
     - To fight [[Kangxi: 鬭也]];
-    - ~~to be alarmed~~, struck with dread [[Kangxi: 懼也]];
-    - fearful, ~~anxious~~;
+    - ~~to be alarmed,~~ struck with dread [[Kangxi: 懼也]];
+    - fearful~~, anxious~~;
     - a battle, an engagement;
     - war, hostilities;
     - military, pertaining to war;
@@ -1244,10 +1242,10 @@ W
         or
       _(1)k(a/)u ch(i/)n(3)_ [[gaau1 zin3 交戰]]
         to join battle;
-    - _ch(i/)n(3) [chan(6)]_
+    - _ch(i/)n(3) ~~(4)ch(')an~~ ``chan(6)``_
         [[zin3 zan6 戰陳]],
         troops drawn up for battle;
-    - _ch(i/)n(3) p(a/)i[(6)]_
+    - _ch(i/)n(3) ~~p(a/)i(3)~~ ``p(a/)i(6)``_
         [[zin3 baai6 戰敗]]
         to be discomfited;
     - _ch(i/)n(3) ch(i/)n(3) (1)king (1)king_
@@ -1453,7 +1451,7 @@ W
     - _(o\)m(3) ts(i/)n(3) (1)sh(e/)ung (4)yan_
         [[am3 zin3 soeng1 jan4 暗箭傷人]],
         to injure one with a secret arrow---slander;
-    - _fong(3) (5)[l(a/)ng] ts(i/)n(3)_
+    - _fong(3) ~~(5)lang~~ ``(5)l(a/)ng`` ts(i/)n(3)_
         [[fong3 lang5 zin3 放冷箭]]
         to shoot at privily;
     - _yat(7) ts(i/)n(3) (1)ch(i/) t(i/)(6)_
@@ -1464,7 +1462,7 @@ W
 C
   ==
   - Williams' 火箭: Now "rocket".
-  - Williams' 放冷箭: Corrected _(5)lang_ (lang5) to _(5)l(a/)ng_ (laang5).
+  - Williams' 放冷箭: Changed _(5)lang_ (lang5) to common reading _(5)l(a/)ng_ (laang5).
   ==
 E
   ====
@@ -1550,17 +1548,17 @@ W
     - To lay down, to place on;
     - [[...]];
     - to place under, to wedge;
-    - _(2)(i/) [ts(i/)n(3)]_
+    - _(2)(i/) ~~t(i/)n(3)~~ ``ts(i/)n(3)``_
         [[ji2 zin3 椅薦]]
         a chair cushion;
-    - _(4)t(')ang [ts(i/)n(3)]_
+    - _(4)t(')ang ~~t(i/)n(6)~~ ``ts(i/)n(3)``_
         [[tang4 zin3-2 藤薦]]
         rattan table mats;
-    - _k(')ong(3) [ts(i/)n(3)]_
+    - _k(')ong(3) ~~t(i/)n(6)~~ ``ts(i/)n(3)``_
         [[kong3 zin3 炕薦]]
         a long sofa cushion;
     - [[...]];
-    - _[ts(i/)n(3)] yuk(9)_
+    - _~~t(i/)n(6)~~ ``ts(i/)n(3)`` yuk(9)_
         [[zin3 juk6-2 薦褥]]
         a mattress;
     - [[...]].
@@ -1678,14 +1676,14 @@ W
   ====
   - [[Page~17* (1)顫 _(1)Ch(i/)n_ (zin1); here normalised to _Ch(i/)n(3)_ (zin3)]]
     ==
-    - ~~The head awry [[Kangxi: 頭不正也]]~~;
+    - ~~The head awry [[Kangxi: 頭不正也]];~~
     - shivering with cold;
     - the limbs cold and trembling [[Kangxi: 四支寒動也]];
     - fearful, frightened;
-    - _sz'(3) (1)ch(i/) ch(i/)n[(3)] tung(6)_
+    - _sz'(3) (1)ch(i/) ~~(1)ch(i/)n~~ ``ch(i/)n(3)`` tung(6)_
         [[si3 zi1 zin3 dung6 四肢顫動]]
         trembling all over;
-    - _(4)hon ch(i/)n[(3)]_
+    - _(4)hon ~~(1)ch(i/)n~~ ``ch(i/)n(3)``_
         [[hon4 zin3 寒顫]],
         shivering.
     ==
