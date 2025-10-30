@@ -108,7 +108,7 @@ S
 $$
 
 
-##{#3 .williams} Chek[(8)] Tsek(8) [[zek3 低陰入]]
+##{#3 .williams} ~~Chek(9)~~ ``Chek(8)`` Tsek(8) [[zek3 低陰入]]
 
 <## tone-3-characters ##>
 <nav class="sideways">
@@ -127,7 +127,7 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
-### 拓3 | _[Chek(8)]_ [[zek3]]
+### 拓3 | _~~Chik(9)~~ ``Chek(8)``_ [[zek3]]
 
 $$.
 R
@@ -165,7 +165,7 @@ S
   ==
 $$
 
-### 摭3 | _[Chek(8)]_ [[zek3]]
+### 摭3 | _~~Chik(9)~~ ``Chek(8)``_ [[zek3]]
 
 $$
 R
@@ -190,7 +190,7 @@ W
     ==
     - To take up [[Kangxi 摭: 拓或从庶, 取也, 猶拾取也]];
     - to collect, to gather;
-    - _[chek(8)] chap(7)_
+    - _~~chik(9)~~ ``chek(8)`` chap(7)_
         [[zek3 zap1 摭執]]
         to take or adopt.
     ==
@@ -211,7 +211,7 @@ C
   ==
 $$
 
-### 炙3 | _Chek[(8)]_ [[zek3]]
+### 炙3 | _~~Chek(9)~~ ``Chek(8)``_ [[zek3]]
 
 $$
 R
@@ -241,19 +241,19 @@ W
     - near [[Kangxi: 親近也]];
     - to approach, to approximate;
     - to fry in honey, as some physic is;
-    - _(2)[k(')(u/)i] chek[(8)] (4)yan (2)hau_
+    - _~~(2)k(u/)i~~ ``(2)k(')(u/)i`` ~~chek(9)~~ ``chek(8)`` (4)yan (2)hau_
         [[kui2 zek3 jan4 hau2 膾炙人口]],
         tastes well in people's mouths --- said of fine poetry;
-    - _chek[(8)] (2)ts(')(o\)_
+    - _~~chek(9)~~ ``chek(8)`` (2)ts(')(o\)_
         [[zek3 cou2 炙草]],
         dried liquorice;
-    - _chek[(8)] (2)shau_
+    - _~~chek(9)~~ ``chek(8)`` (2)shau_
         [[zek3 sau2 炙手]],
         to warm the hand;
-    - _(4)f(a/)n chek[(8)]_
+    - _(4)f(a/)n ~~chek(9)~~ ``chek(8)``_
         [[faan4 zek3 燔炙]]
         to roast or broil;
-    - _chek[(8)] (1)kon_
+    - _~~chek(9)~~ ``chek(8)`` (1)kon_
         [[zek3 gon1 炙乾]],
         dried thoroughly.
     ==
@@ -301,7 +301,7 @@ W
     - to make lean;
     - to impoverish;
     - to retrench, to bring down [[Kangxi: 瘠謂省約]];
-    - _[tsek](8) (2)t(')(o\)_
+    - _~~tsik(8)~~ ``tsek(8)`` (2)t(')(o\)_
         [[zek3 tou2 瘠土]],
         meagre soil.
     ==
@@ -352,7 +352,7 @@ W
     - _(4)m(o\) tsik(8) kwat(7)_
         [[mou4 zik3 gwat1 無脊骨]]
         no dependance can be put in him;
-    - _(2)h(i/) yat(7) [(4)]t(')i(u/) tsek(8)_
+    - _(2)h(i/) yat(7) ~~(1)t(')i(u/)~~ ``(4)t(')i(u/)`` tsek(8)_
         [[hei2 jat1 tiu4 zek3 起一條脊]]
         raise a ridge;
     - _(5)m(a/)i (4)(u:) tsek(8)_
@@ -372,7 +372,7 @@ S
   ==
 $$
 
-### 跖3 | _Chek[(8)]_ [[zek3]]
+### 跖3 | _~~Chek(9)~~ ``Chek(8)``_ [[zek3]]
 
 $$
 R
@@ -403,10 +403,10 @@ W
     - [[...]];
     - the sole of the foot [[Kangxi: 足下]];
     - metatarsus of birds;
-    - _t(o\)(6) chek[(8)]_
+    - _t(o\)(6) ~~chek(9)~~ ``chek(8)``_
         [[dou6 zek3 盜跖]]
-        a leader of thieves,
-        a certain Robin Hood ~~in the days of Ts(')in [[秦]]~~.
+        a ``tyrannical`` leader of thieves~~, a certain Robin Hood~~
+        in the ~~days of Ts(')in [[秦]]~~ ``Spring and Autumn``.
     ==
   ====
 C
@@ -424,8 +424,6 @@ C
     I have corrected Williams by placing 跖 under _chek(8)_ (cek3) here.
   - Williams does not provide separate entries for 跖 and $蹠3.
     I have split things up accordingly.
-  - Williams' "in the days of Ts(')in": Not dynastic Ts(')in (秦),
-    but the Spring and Autumn period.
   ==
 $$
 
@@ -459,7 +457,7 @@ S
   ==
 $$
 
-### 蹠3 | _Chek[(8)]_ [[zek3]]
+### 蹠3 | _~~Chek(9)~~ ``Chek(8)``_ [[zek3]]
 
 $$
 R
@@ -513,7 +511,7 @@ P
   ++
 $$
 
-### 隻3 | _[Chek(8)]_ [[zek3]]
+### 隻3 | _~~Chek(9)~~ ``Chek(8)``_ [[zek3]]
 
 $$
 R
@@ -543,16 +541,16 @@ W
     - One, single, not a pair, one of a pair [[Kangxi: 鳥一枚也, 奇也, 物單曰隻]];
     - a classifier of vessels, boats, animals, birds, and of things in pairs,
       as legs, arms eyes, cups, saucers, &c.;
-    - _chek[(8)] (1)shan_
+    - _~~chek(9)~~ ``chek(8)`` (1)shan_
         [[zek3 san1 隻身]],
         myself alone;
-    - _chek[(8)] chek[(8)] (5)yau (5)m(i/)_
+    - _~~chek(9) chek(9)~~ ``chek(8) chek(8)`` (5)yau (5)m(i/)_
         [[zek3 zek3 jau5 mei5 隻隻有尾]],
         every one has a tail;
-    - _t(a/)i(6) chek[(8)] hat(7) (4)(i/)_
+    - _t(a/)i(6) ~~chek(9)~~ ``chek(8)`` hat(7) (4)(i/)_
         [[daai6 zek3 hat1 ji4-1 大隻乞兒]],
         a sturdy beggar;
-    - _ki(u/)(3) chek[(8)] (5)t(')eng_
+    - _ki(u/)(3) ~~chek(9)~~ ``chek(8)`` (5)t(')eng_
         [[giu3 zek3 teng5 叫隻艇]],
         call a boat.
     ==
@@ -600,7 +598,7 @@ W
   ====
   - [[Page~569 鶺(8) _Tsik(8)_ (zik3); here normalised to _Tsek(8)_ (zek3)]]
     ==
-    - A wagtail, called _[tsek](8) (4)ling_ [[zek3 ling4 鶺鴒]] [[Kangxi: 鶺鴒]];
+    - A wagtail, called _~~tsik(8)~~ ``tsek(8)`` (4)ling_ [[zek3 ling4 鶺鴒]] [[Kangxi: 鶺鴒]];
     - it has a mottled, black neck;
     - another name for it is _(4)ts(')(i/)n (5)m(o\)_ [[cin4 mou5 錢母]],
       or money mother.
@@ -645,7 +643,7 @@ S
   ==
 $$
 
-### [蓆]6 | _Tsek(9)_ [[zek6]]
+### ~~席~~``蓆``6 | _Tsek(9)_ [[zek6]]
 
 $$.
 R
