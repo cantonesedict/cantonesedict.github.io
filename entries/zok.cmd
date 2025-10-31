@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zok
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -207,10 +207,10 @@ W
     - to take out, to select, to raise, to promote [[Kangxi: 拔也, 抽也出也]];
     - to employ in office;
     - ~~to reject, to extinguish, as good resolutions;~~
-    - _[chok](9) f(a/)t(8) (4)n(a/)n (2)sh(o\)_
+    - _~~ch(a/)k(9)~~ ``chok(9)`` f(a/)t(8) (4)n(a/)n (2)sh(o\)_
         [[zok6 faat3 naan4 sou2 擢髮難數]],
         the hairs can not be counted by pulling them out---\
-        his crimes are [numberless].
+        his crimes are ~~unmberless~~ ``numberless``.
     ==
   ====
 S
@@ -308,7 +308,7 @@ W
     ==
     - To rinse, to wash [[Kangxi: {𤃬=⿰氵⿰龺⿱𠆢赤}也, 濯滌也, 濯漑也]];
     - fat [[Kangxi: 濯濯肥也]], sleek, bright [[Kangxi: 光明也]];
-    - ~~to drink [[Kangxi: 飮也]]~~;
+    - ~~to drink [[Kangxi: 飮也]];~~
     - _chok(9) chok(9)_
         [[zok6 zok6 濯濯]]
         sleek, as fat animals;
@@ -418,7 +418,7 @@ W
     - _(4)ngo (4)m(i/) tsok(9)_
         [[ngo4 mei4 zok6-2 蛾眉鑿]]
         a half-moon gouge;
-    - _(4)(i/)n (1)ch(i/) tsok(9) tsok(9) (2)ho [t(')ing](3)_
+    - _(4)(i/)n (1)ch(i/) tsok(9) tsok(9) (2)ho ~~t(')eng(3)~~ ``t(')ing(3)``_
         [[jin4 zi1 zok6 zok6 ho2 ting3 言之鑿鑿可聽]]
         he will believe if he has repeated proofs.
     ==
