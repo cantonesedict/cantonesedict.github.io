@@ -233,6 +233,7 @@ FixedDelimitersReplacement: #.syntax.modern-insertion-inline
 - syntax_type: INLINE
 - opening_delimiter: [[
 - attribute_specifications: .modern
+- prohibited_content: BLOCKS
 - content_replacements: #.syntax.round-bracket-wrap
 - closing_delimiter: ]]
 - tag_name: ins
@@ -242,6 +243,7 @@ FixedDelimitersReplacement: #.syntax.williams-insertion-inline
 - queue_position: BEFORE #inline-code
 - syntax_type: INLINE
 - opening_delimiter: ``
+- prohibited_content: BLOCKS
 - closing_delimiter: ``
 - tag_name: ins
 
@@ -250,6 +252,7 @@ FixedDelimitersReplacement: #.syntax.williams-deletion-inline
 - queue_position: BEFORE #inline-code
 - syntax_type: INLINE
 - opening_delimiter: ~~
+- prohibited_content: BLOCKS
 - closing_delimiter: ~~
 - tag_name: del
 
@@ -258,6 +261,7 @@ FixedDelimitersReplacement: #.syntax.small-parenthetical
 - queue_position: BEFORE #specified-links
 - syntax_type: INLINE
 - opening_delimiter: ((
+- prohibited_content: BLOCKS
 - content_replacements: #.syntax.round-bracket-wrap
 - closing_delimiter: ))
 - tag_name: small
