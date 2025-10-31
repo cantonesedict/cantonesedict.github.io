@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2025-08-14
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -568,7 +568,7 @@ W
     - _(1)ch(u:) m(i/)t(9)_
         [[zyu1 mit6 誅滅]]
         to extirpate;
-    - _(1)ch(u:) [fat](9)_
+    - _(1)ch(u:) ~~f(a/)t(9)~~ ``fat(9)``_
         [[zyu1 fat6 誅罰]]
         to punish.
     ==
@@ -602,7 +602,7 @@ W
   ====
   - [[Page~29* (1)諸]]
     ==
-    - To discriminate, ~~to discuss~~ [[Kangxi: 辯也, 別異之辭]];
+    - To discriminate~~, to discuss~~ [[Kangxi: 辯也, 別異之辭]];
     - not one alone, all, several, many, every [[Kangxi: 非一也皆言也, 凡衆也]];
     - in, respecting;
     - a pronoun at the end of a sentence, or a word implying doubt
@@ -766,7 +766,7 @@ W
   ====
   - [[Page~30* (1)銖]]
     ==
-    - ~~A small ancient silver coin~~,
+    - ~~A small ancient silver coin,~~ ``A unit of weight``
       estimated as equal to 100~grains of millet [[Kangxi: 一曰十黍爲絫十絫爲銖]];
     - 24~made a tael [[両]] [[Kangxi: 二十四銖爲兩]];
     - ~~farthings, coppers;~~
@@ -813,7 +813,7 @@ W
   - [[Page~30* (2)丶]]
     ==
     - The flame of a lamp [[Kangxi: 鐙中火丶也]];
-    - a stop[,] a point [[Kangxi: 有所絕止丶而識之也]];
+    - a stop``,`` a point [[Kangxi: 有所絕止丶而識之也]];
     - the third radical [["dot"]].
     ==
     --
@@ -912,7 +912,7 @@ W
     - _(2)ch(u:) (2)h(a/)u_
         [[zyu2 haau2 主考]],
         literary examiner;
-    - _(2)ch(u:) (2)[tsoi]_
+    - _(2)ch(u:) ~~(2)ts(')oi~~ ``(2)tsoi``_
         [[zyu2 zoi2 主宰]],
         to direct, to control;
         the head of;
@@ -1164,7 +1164,7 @@ W
   ====
   - [[Page~31* 注(3)]]
     ==
-    - ~~Water disparting in streamlets~~, to lead water in channels [[Kangxi: 引也]];
+    - ~~Water disparting in streamlets,~~ to lead water in channels [[Kangxi: 引也]];
     - to soak;
     - [[...]];
     - to collect [[Kangxi: 聚也]];
@@ -1391,7 +1391,7 @@ W
   ====
   - [[Page~31* 蛀(3)]]
     ==
-    - An insect _(Ptinus)_ which eats books~~; moths in~~ clothes, wood, &c. [[Kangxi: 木蠹蟲亦名蛀蟲]];
+    - An insect _(Ptinus)_ which eats books~~; moths in~~``,`` clothes, wood, &c. [[Kangxi: 木蠹蟲亦名蛀蟲]];
     - to eat, as insects do;
     - _ch(u:)(3) l(a/)n(6)_
         [[zyu3 laan6 蛀爛]]
@@ -1432,7 +1432,7 @@ W
     ==
   - [[Page~31* 註(3)]]
     --
-    Used with the last ~~two~~ [[~~著~~, 注]].
+    Used with the last ~~two~~ [[~~著,~~ 注]].
     --
     ==
     - To define, to explain, to illustrate [[Kangxi: 訓釋也, 註者著也言爲之解說使其義著明也]];
@@ -1594,16 +1594,16 @@ W
     - to endure;
     - to withstand;
     - ~~to erect [[Kangxi: 立也]];~~
-    - after another verb, ~~it is often merely a sign of past time, or that the action has rested~~;
+    - after another verb, it is ~~often merely~~ a sign ~~of past time, or~~ that the action ~~has rested~~ ``is ongoing``;
     - _(1)ch(a/) ch(u:)(6)_
         [[zaa1 zyu6 揸住]]
-        held it;
+        ~~held~~ ``holding`` it;
     - _h(i/)t(8) ch(u:)(6)_
         [[hit3 zyu6 歇住]]
         wait a little;
     - _(2)shau ch(u:)(6) l(o\)(6) (2)hau_
         [[sau1 zyu6 lou6 hau2 守住路口]],
-        guard the passage;
+        guard``ing`` the passage;
     - _ch(u:)(6) p(o\)(6)_
         [[zyu6 bou6 住步]]
         to stop walking;
@@ -1620,21 +1620,15 @@ W
   - [[Page~613 自(6) _Tsz'(6)_ (zi6); here corrected to 住 _Ch(u:)(6)_ (zyu6)]]
     ==
     - [[...]];
-    - _(5)mai [ch(u:)](6)_
+    - _(5)mai ~~tsz'(6)~~ ``ch(u:)(6)``_
         [[mai5 zyu6 咪住]]
         stop, hold up!
-    - _(4)'m (2)ho h(u:)(3) [ch(u:)](6)_
+    - _(4)'m (2)ho h(u:)(3) ~~tsz'(6)~~ ``ch(u:)(6)``_
         [[m4 hou2 heoi3 zyu6 唔好去住]]
         don't go away, wait here a while;
     - [[...]].
     ==
   ====
-C
-  ==
-  - Williams' "after another verb": Not a sign of past time, nor that action has rested,
-    but rather the continuous aspect, which marks that an action is continuing.
-    See below.
-  ==
 E
   ====
   - 【住】 (zyu6):

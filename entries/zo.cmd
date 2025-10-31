@@ -112,8 +112,8 @@ W
     A colloquial word.
     --
     ==
-    - A sign of the past tense,
-      placed after verbs like _(1)hi(u/)_ [[hiu1 嘵]];
+    - A sign of ~~the past tense~~ ``completion``,
+      placed after verbs``,`` like _(1)hi(u/)_ [[hiu1 嘵]];
     - _~~(1)ning~~ ``(1)ling`` (2)cho (4)lai_
         [[ling1 zo2 lai4 拎咗嚟]],
         brought it;
