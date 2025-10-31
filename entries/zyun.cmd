@@ -507,7 +507,7 @@ F
   ==
 W
   ====
-  - [[Page~605 _(5)Ts(')(u:)n_ (cyun5); here normalised to _(2)Ts(u:)n_ (zyun2)]]
+  - [[Page~605 噂 _(5)Ts(')(u:)n_ (cyun5); here normalised to _(2)Ts(u:)n_ (zyun2)]]
     ==
     - Many persons conversing [[Kangxi: 聚語也]] ~~amicably~~;
     - to talk agreeably to one;
