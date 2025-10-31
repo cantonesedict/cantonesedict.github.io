@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zip
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -76,8 +76,8 @@ W
   - [[Page~22* 囁(8)]]
     ==
     - An unbridled tongue [[Kangxi: 口無節也]];
-    - ~~vilifying~~, grumbling [[Kangxi: 私罵也]], ~~scolding, slandering~~;
-    - _ch(i/)p(8) [(4)(u:)]_
+    - ~~vilifying,~~ grumbling, ``privately`` scolding [[Kangxi: 私罵也]]~~, slandering~~;
+    - _ch(i/)p(8) ~~(1)s(u:)~~ ``(4)(u:)``_
         [[zip3 jyu4 囁嚅]],
         chattering, querulous [[Kangxi: 囁嚅多言也]].
     ==
@@ -198,7 +198,7 @@ W
     - _(5)ngo tak(7) ts(i/)p(8)_
         [[ngo5 dak1 zip3 我得接]]
         I have got it;
-    - _ts(i/)p(8) (1)k(u/)n (4)[t(')ing]_
+    - _ts(i/)p(8) (1)k(u/)n ~~(4)t(')eng~~ ``(4)t(')ing``_
         [[zip3 gun1 ting4 接官亭]],
         a porch for receiving officers on landing.
     ==
@@ -239,13 +239,13 @@ W
     - _ch(i/)p(8) (4)m(a/)i (1)k(a/)n p(')(o\)(3)_
         [[zip3 maai4 gaan1 pou3 摺埋間舖]]
         to fold (or close) a shop's business;
-    - _(2)[p(')(a/)u] ch(i/)p(8) (2)[tsz']_
+    - _(2)p``(')(a/)``u ch(i/)p(8) (2)tsz``'``_
         [[paau2 zip3 zi2 跑摺子]],
         a fleet courier;
     - _ch(i/)p(8) (2)tsz'_
         [[zip3 zi2 摺子]]
         a document or report for the emperor;
-    - _ch(i/)p(8) [t(i/)p(9)]_
+    - _ch(i/)p(8) ~~t(')(i/)p(8)~~ ``t(i/)p(9)``_
         [[zip3 dip6 摺疊]]
         to heap up or on;
     - _ch(i/)p(8) (4)m(a/)i_
@@ -267,7 +267,7 @@ W
   ====
 C
   ==
-  - Williams' 跑摺子: Inferred unprinted character _(a/)_ in _p(')(a/)u_,
+  - Williams' 跑摺子: Inferred unprinted characters _^(')(a/)_ in _p(')(a/)u_,
     and fixed missing apostrophe at the end of _(2)tsz'_.
   - Williams' 摺疊: Corrected _t(')(i/)p(8)_ (tip3) to _t(i/)p(9)_ (dip6).
   ==
@@ -323,7 +323,7 @@ W
   ====
   - [[Page~578 before 浹(8)]]
     --
-    (This character [[浹]] is also read _h(a/)p_ [[haap]] ~~and _h(i/)p_ [[hip]]~~.)
+    (This character [[浹]] is also read _h(a/)p_ [[haap]]~~ and _h(i/)p_ [[hip]]~~.)
     --
   - [[Page~578 浹(8)]]
     --
@@ -340,7 +340,7 @@ W
     - _ts(i/)p(8) (4)shan_
         [[zip3 san4 浹辰]]^
         twelve days or hours, a circuit of the 12~branches;
-    - _ts(i/)p(8) [hap(7)]_
+    - _ts(i/)p(8) ~~h(a/)p(9)~~ ``hap(7)``_
         [[zip3 hap1 浹洽]]
         fully imbued with, to interpenetrate;
         to treat cordially, as friends.

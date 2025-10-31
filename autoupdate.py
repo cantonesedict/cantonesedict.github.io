@@ -242,13 +242,14 @@ class Updater:
             sys.exit(1)
 
         bad_williams_aspirate_runs = re.findall(
-            pattern=r"\S+ (?<! .p | .t | .k | kw | ts | ch ) \( ' \) \S+ ",
+            pattern=r"\S+ (?<! .p | .t | .k | kw | ts | ch | `` | .\^ ) \( ' \) \S+ ",
             string=cmd_content,
             flags=re.IGNORECASE | re.VERBOSE,
         )
         if bad_williams_aspirate_runs:
             print(
-                f'Error in `{entry_cmd_name}`: bad Williams aspirate in {bad_williams_aspirate_runs}',
+                f'Error in `{entry_cmd_name}`: bad Williams aspirate in {bad_williams_aspirate_runs} '
+                f'(suppress error with caret if legitimate)',
                 file=sys.stderr,
             )
             sys.exit(1)
@@ -279,7 +280,7 @@ class Updater:
             sys.exit(1)
 
         bad_williams_apical_apostrophe = re.findall(
-            pattern=r"\S+ sz [^'] \S+",
+            pattern=r"\S+ sz [^'`] \S+",
             string=cmd_content,
             flags=re.IGNORECASE | re.VERBOSE,
         )
