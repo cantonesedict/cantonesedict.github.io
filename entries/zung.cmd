@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zung
-* %date-modified --> 2025-09-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -96,7 +96,7 @@ W
   ====
   - [[Page~38* (1)中]]
     ==
-    - The middle, the centre[;]
+    - The middle, the centre~~:~~``;``
     - half [[Kangxi: 半也]], in the middle of;
     - within, in [[Kangxi: 內也]];
     - _(1)chung (1)k(a/)n_
@@ -208,7 +208,7 @@ W
         heavenly bodies [[Kangxi: 天宗三日月星]];
     - _t(i/)(6) (1)tsung_
         [[dei6 zung1 地宗]],
-        rivers, seas[,] and mountains [[Kangxi: 地宗三河海岱]];
+        rivers, seas``,`` and mountains [[Kangxi: 地宗三河海岱]];
     - _(2)ts(o\) (1)tsung_
         [[zou2 zung1 祖宗]]^
         ancestors;
@@ -233,7 +233,7 @@ W
     - _t(a/)i(6) (1)tsung fo(3)_
         [[daai6 zung1 fo3 大宗貨]]
         a great lot of goods;
-    - _[(2)]ko (1)tsung sz'(6)_
+    - _~~ko(3)~~ ``(2)ko`` (1)tsung sz'(6)_
         [[go2 zung1 si6 嗰宗事]]
         that single affair;
     - _(1)n(i/) (1)tsung_
@@ -291,7 +291,7 @@ W
   - [[Page~39* (1)忠]]
     ==
     - Faithful, loyal [[Kangxi: 不貳也]], patriotic;
-    - attached to, sincere [[Kangxi: 內盡其心而不欺也]];
+    - ~~attached to~~ ``devoted``, sincere [[Kangxi: 內盡其心而不欺也]];
     - upright [[Kangxi: 直也]];
     - generous [[Kangxi: 竭誠也]], unselfish [[Kangxi: 無私也]];
     - _(1)chung (4)shan_
@@ -303,7 +303,7 @@ W
     - _(1)chung l(i/)t(9)_
         [[zung1 lit6 忠烈]]
         faithful to death;
-    - _(1)chung [(5)]hau_
+    - _(1)chung ~~hau(6)~~ ``(5)hau``_
         [[zung1 hau5 忠厚]]^
         honest.
     ==
@@ -311,7 +311,6 @@ W
 C
   ==
   - Fan Wan entry: Corrected 巳 to 己.
-  - Williams' "attached to": Better rendered "devoted".
   - Williams' 忠厚: Changed _hau(6)_ (hau6) to common reading _(5)hau_ (hau5).
   ==
 $$
@@ -644,7 +643,7 @@ W
         never reformed;
     - _(4)ts(')ung yat(7) (4)(i/) (1)chung_
         [[cung4 jat1 ji4 zung1 從一而終]],
-        firm to one [husband] [[these square brackets appear in the original text]].
+        firm to one [husband].
     ==
   ====
 C
@@ -686,7 +685,7 @@ C
   ==
 P
   ++
-  1. To gather, synthesise (Kangxi: 綜謂總聚).
+  1. To gather, to synthesise (Kangxi: 綜謂總聚).
   ++
 S
   ==
@@ -758,7 +757,7 @@ W
         to hull rice;
     - _(1)chung (1)wan (1)kai_
         [[zung1 wan1 gai1 舂瘟雞]],
-        [you act like] [[these square brackets appear in the original text]] a hen in a fit;
+        [you act like] a hen in a fit;
     - _(1)chung (4)ts(')(e/)ung_
         [[zung1 coeng4 舂牆]],
         to beat mud walls;
@@ -840,7 +839,7 @@ W
   - [[Page~607 (1)豵]]
     ==
     - A pig six months or a year old [[Kangxi: 生六月豚一曰一歲豵尚叢聚也]];
-    - ~~a pig~~, a shote;
+    - ~~a pig,~~ a shote;
     - ~~the last of a litter, a litter;~~
     - ~~_met._ a large family.~~
     ==
@@ -951,8 +950,8 @@ W
     ==
     - ~~A measure equal to 4~_tau_ [[dau 斗]];~~
     - [[...]];
-    - to collect [[Kangxi: 聚也]];
-    - ~~to bestow, to confer;~~
+    - to collect``, to concentrate`` [[Kangxi: 聚也]];
+    - ~~to bestow, to confer~~ ``that bestowed or conferred from Heaven`` [[Kangxi: 天所賦予亦曰鍾]];
     - ~~to repeat;~~
     - ~~heavy;~~
     - ~~gifted with, endowed;~~
@@ -979,8 +978,6 @@ C
   - Williams' "A measure equal to 4~_tau_":
     This is a misreading of Kangxi 六斛四斗曰鍾,
     which puts the measure at 64~_tau_, not 4~_tau_.
-  - Williams' "to collect": Or, to concentrate.
-  - Williams' "to bestow, to confer": More specifically, that from Heaven.
   - Williams' "to repeat, heavy": These are renderings of Kangxi 鍾重也.
     It is unclear whether 重 here is level-tone _(4)ch(')ung_ (cung4) "repeated"
     or rising-tone _(5)ch(')ung_ (cung5) "heavy",
@@ -989,7 +986,6 @@ C
 P
   ++
   1. A vessel for storing alcohol (Kangxi: 酒器也 etc.).
-  1. That bestowed or conferred from Heaven (Kangxi: 天所賦予亦曰鍾).
   1. A measure (Kangxi: 量名) of either 64~pecks (Kangxi: 六斛四斗曰鍾),
      80~pecks (Kangxi: 八斛也), or 100~pecks (Kangxi: 鍾十斛).
   1. A surname (Kangxi: 姓).
@@ -1112,7 +1108,7 @@ W
     ==
     - A mane [[Kangxi: 馬鬃也或作騣]];
     - the ridge of bristles on the neck of hogs;
-    - a high headdress [[Kangxi: 高髻也]];
+    - a high ~~headdress~~ ``topknot`` [[Kangxi: 高髻也]];
     - the back lappet of a Chinese lady's headdress, which extends over the neck;
     - _(1)ch(u:) (1)tsung (4)m(o\)_
         [[zyu1 zung1 mou4 豬鬃毛]],
@@ -1131,10 +1127,6 @@ W
         to comb back the lappet.
     ==
   ====
-C
-  ==
-  - Williams' "high headdress": Better rendered "high topknot".
-  ==
 $$
 
 ### 鬷1 | _(1)Tsung_ [[zung1]]
@@ -1374,7 +1366,7 @@ W
     - generally;
     - _(2)tsung kung(6)_ [[zung2 gung6 總共]]
         or
-      _[(5)]lung (2)tsung_ [[lung5 zung2 攏總]],
+      _~~(2)lung~~  ``(5)lung`` (2)tsung_ [[lung5 zung2 攏總]],
         all, the whole;
     - _(2)tsung pat(7) (4)nang ying(3) yat(9) (2)tsz'_
         [[zung2 bat1 nang4 jing3 jat6 zi2 總不能應日子]]
@@ -1451,7 +1443,7 @@ W
     - To swell up, to tumefy [[Kangxi 腫: 膚肉浮滿也, 脹也]];
     - a swelling;
     - swelled;
-    - inflated, ~~boastful~~;
+    - inflated~~, boastful~~;
     - _(2)chung ch(e/)ung(3)_
         [[zung2 zoeng3 腫脹]]
         to swell;
@@ -1501,7 +1493,7 @@ W
     - to visit [[Kangxi: 踵至也]];
     - ~~to tread hard;~~
     - ~~to connect;~~
-    - _ts(i/)p[(8)] (2)chung_
+    - _~~ts(i/)p(9)~~ ``ts(i/)p(8)`` (2)chung_
         [[zip3 zung2 接踵]],
         uninterruptedly;
     - _(2)chung (4)m(u/)n_
@@ -1673,12 +1665,12 @@ W
         a thickly settled place;
     - _t(a/)i(6) chung(3)_
         [[daai6 zung3 大眾]]
-        all of you;
-        the company;
+        ~~all of you;
+        the company~~ ``the masses``;
     - _chung(3) (4)yan_
         [[zung3 jan4 眾人]],
         all men, mankind;
-    - _yat(7) chung(3) (1)[tsang]_
+    - _yat(7) chung(3) ~~(1)sang~~ ``(1)tsang``_
         [[jat1 zung3 zang1 一眾僧]],
         a company of priests;
     - _yat(7) chung(3)_
@@ -1697,7 +1689,6 @@ W
   ====
 C
   ==
-  - Williams' 大眾: Better rendered "the masses".
   - Williams' 一眾僧: Changed _(1)sang_ (sang1) to common reading _(1)tsang_ (zang1).
   ==
 P
@@ -1767,7 +1758,7 @@ F
   ==
 W
   ====
-  - [[Page~607 (2)粽(2)糉 _(2)Tsung_ (zung2); here normalised to _Tsung(3)_ (zung3)]]
+  - [[Page~607 (2)粽(2)糉 _(2)Tsung_ (zung2)]]
     ==
     - Dumplings made by boiling glutinous rice first soaked in weak lye,
       and then wrapped in leaves [[Kangxi 糉: 蘆葉裹米角黍也 etc.]],
@@ -2035,7 +2026,7 @@ W
   ====
   - [[Page~608 從(6)]]
     ==
-    - A clan or family [[Kangxi: 同宗也]], ~~a succession of, as posterity~~;
+    - A clan or family [[Kangxi: 同宗也]]~~, a succession of, as posterity~~;
     - ~~to be second to, to follow after;~~
     - ~~attached to;~~
     - subordinate, secondary in rank;
@@ -2096,10 +2087,10 @@ W
     - _tsung(6) (4)ts(')z'_
         [[zung6 ci4 訟辭]]
         an indictment;
-    - _(1)[chang] tsung(6)_
+    - _~~(1)ch(a/)ng~~ ``(1)chang`` tsung(6)_
         [[zang1 zung6 爭訟]]
         disputes;
-    - _[t(')ing](3) tsung(6)_
+    - _~~t(')eng(3)~~ ``t(')ing(3)`` tsung(6)_
         [[ting3 zung6 聽訟]]
         to hear a case;
     - _(2)nau tsung(6)_
@@ -2155,8 +2146,8 @@ W
     ==
     - To hum, to recite over, to read in a humming tone [[Kangxi: 諷也, 臨文爲誦, 讀誦也, etc.]], as priests do;
     - a murmuring, recitative way of reading;
-    - ~~disputing~~, reviling [[Kangxi: 怨謗亦曰誦]];
-    - _p(u/)i[(6)] tsung(6)_
+    - ~~disputing,~~ reviling [[Kangxi: 怨謗亦曰誦]];
+    - _~~p(u/)i(3)~~ ``p(u/)i(6)`` tsung(6)_
         [[bui6 zung6 背誦]]
         to say memoriter;
     - _tsung(6) (1)king_
@@ -2215,7 +2206,7 @@ W
         still better;
     - _shan(6) chung(6)_
         [[san6 zung6 慎重]]
-        ~~correct, well principled~~;
+        ~~correct, well principled~~ ``prudent, careful``;
     - _tsz'(6) chung(6)_
         [[zi6 zung6 自重]]
         self-respect;
@@ -2248,7 +2239,6 @@ C
     However, both Zhengzhang and Baxter--Sagart
     reconstruct *three* readings for 重 in Old Chinese,
     corresponding to Middle Chinese level, rising, and departing.
-  - Williams' 慎重: Better rendered "prudent" or "careful".
   ==
 P
   ++
