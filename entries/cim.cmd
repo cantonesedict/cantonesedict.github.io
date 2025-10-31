@@ -41,7 +41,7 @@ MP
 $$
 
 
-##{#1 .williams} <ins class="modern">(1)Ch(')(i/)m</ins> (1)Ts(')(i/)m [[cim1 陰平]]
+##{#1 .williams} ``(1)Ch(')(i/)m`` (1)Ts(')(i/)m [[cim1 陰平]]
 
 <## tone-1-characters ##>
 <nav class="sideways">
@@ -639,7 +639,7 @@ C
 $$
 
 
-##{#3 .williams} <ins class="modern">Ch(')(i/)m(3)</ins> Ts(')(i/)m(3) [[cim3 陰去]]
+##{#3 .williams} ``Ch(')(i/)m(3)`` Ts(')(i/)m(3) [[cim3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">

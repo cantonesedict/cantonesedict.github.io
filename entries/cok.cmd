@@ -38,7 +38,7 @@ MP
 $$
 
 
-##{#3 .williams} <ins class="modern">Ch(')ok(8)</ins> Ts(')ok(8) [[cok3 低陰入]]
+##{#3 .williams} ``Ch(')ok(8)`` Ts(')ok(8) [[cok3 低陰入]]
 
 <## tone-3-characters ##>
 <nav class="sideways">

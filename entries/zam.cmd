@@ -41,7 +41,7 @@ MP
 $$
 
 
-##{#1 .williams} (1)Cham <ins class="modern">(1)Tsam</ins> [[zam1 陰平]]
+##{#1 .williams} (1)Cham ``(1)Tsam`` [[zam1 陰平]]
 
 <## tone-1-characters ##>
 <nav class="sideways">

@@ -651,7 +651,7 @@ W
 $$
 
 
-##{#3 .williams} Ch(')an(3) <ins class="modern">Ts(')an(3)</ins> [[can3 陰去]]
+##{#3 .williams} Ch(')an(3) ``Ts(')an(3)`` [[can3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">

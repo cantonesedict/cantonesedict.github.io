@@ -627,7 +627,7 @@ W
 $$
 
 
-##{#6 .williams} <ins class="modern">Ch(u:)t(9)</ins> Ts(u:)t(9) [[zyut6 陽入]]
+##{#6 .williams} ``Ch(u:)t(9)`` Ts(u:)t(9) [[zyut6 陽入]]
 
 <## tone-6-characters ##>
 <nav class="sideways">

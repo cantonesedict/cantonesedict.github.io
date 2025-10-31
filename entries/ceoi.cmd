@@ -537,7 +537,7 @@ C
 $$
 
 
-##{#2 .williams} (2)Ch(')ui (2)Ts(')(u:) <ins class="modern">(2)Ts(')(u/)i</ins> [[ceoi2 陰上]]
+##{#2 .williams} (2)Ch(')ui (2)Ts(')(u:) ``(2)Ts(')(u/)i`` [[ceoi2 陰上]]
 
 <## tone-2-characters ##>
 <nav class="sideways">
@@ -771,7 +771,7 @@ S
 $$
 
 
-##{#3 .williams} Ts(')(u:)(3) Ts(')ui(3) <ins class="modern">Ts(')(u/)i(3)</ins> [[ceoi3 陰去]]
+##{#3 .williams} Ts(')(u:)(3) Ts(')ui(3) ``Ts(')(u/)i(3)`` [[ceoi3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">

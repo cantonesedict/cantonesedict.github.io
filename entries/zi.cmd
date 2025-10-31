@@ -3185,7 +3185,7 @@ P
 $$
 
 
-##{#3 .williams} Ch(i/)(3) <ins class="modern">Tsz'(3)</ins> [[zi3 陰去]]
+##{#3 .williams} Ch(i/)(3) ``Tsz'(3)`` [[zi3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">

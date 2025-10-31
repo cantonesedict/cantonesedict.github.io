@@ -333,7 +333,7 @@ E
 $$
 
 
-##{#2 .williams} <ins class="modern">(2)Ch(')(i/)n</ins> (2)Ts(')(i/)n [[cin2 陰上]]
+##{#2 .williams} ``(2)Ch(')(i/)n`` (2)Ts(')(i/)n [[cin2 陰上]]
 
 <## tone-2-characters ##>
 <nav class="sideways">

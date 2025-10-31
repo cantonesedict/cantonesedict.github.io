@@ -124,7 +124,7 @@ W
 $$
 
 
-##{#2 .williams} (2)Ch(a/)m <ins class="modern">(2)Ts(a/)m</ins> [[zaam2 陰上]]
+##{#2 .williams} (2)Ch(a/)m ``(2)Ts(a/)m`` [[zaam2 陰上]]
 
 <## tone-2-characters ##>
 <nav class="sideways">

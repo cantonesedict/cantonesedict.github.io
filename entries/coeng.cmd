@@ -898,7 +898,7 @@ S
 $$
 
 
-##{#3 .williams} Ch(')(e/)ung(3) <ins class="modern">Ts(')(e/)ung(3)</ins> [[coeng3 陰去]]
+##{#3 .williams} Ch(')(e/)ung(3) ``Ts(')(e/)ung(3)`` [[coeng3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">

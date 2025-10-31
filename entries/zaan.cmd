@@ -367,7 +367,7 @@ W
 $$
 
 
-##{#3 .williams} <ins class="modern">Ch(a/)n(3)</ins> Ts(a/)n(3) [[zaan3 陰去]]
+##{#3 .williams} ``Ch(a/)n(3)`` Ts(a/)n(3) [[zaan3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">

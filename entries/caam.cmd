@@ -42,7 +42,7 @@ MP
 $$
 
 
-##{#1 .williams} <ins class="modern">(1)Ch(')(a/)m</ins> (1)Ts(')(a/)m [[caam1 陰平]]
+##{#1 .williams} ``(1)Ch(')(a/)m`` (1)Ts(')(a/)m [[caam1 陰平]]
 
 <## tone-1-characters ##>
 <nav class="sideways">

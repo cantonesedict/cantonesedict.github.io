@@ -780,7 +780,7 @@ S
 $$
 
 
-##{#6 .williams} <ins class="modern">Ch(e/)uk(9)</ins> Ts(e/)uk(9) [[zoek6 陽入]]
+##{#6 .williams} ``Ch(e/)uk(9)`` Ts(e/)uk(9) [[zoek6 陽入]]
 
 <## tone-6-characters ##>
 <nav class="sideways">

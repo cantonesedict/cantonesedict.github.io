@@ -1418,7 +1418,7 @@ C
 $$
 
 
-##{#6 .williams} <ins class="modern">Ching(6)</ins> Tsing(6) [[zing6 陽去]]
+##{#6 .williams} ``Ching(6)`` Tsing(6) [[zing6 陽去]]
 
 <## tone-6-characters ##>
 <nav class="sideways">

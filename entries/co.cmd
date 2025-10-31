@@ -486,7 +486,7 @@ S
 $$
 
 
-##{#2 .williams} (2)Ch(')o <ins class="modern">(2)Ts(')o</ins> [[co2 陰上]]
+##{#2 .williams} (2)Ch(')o ``(2)Ts(')o`` [[co2 陰上]]
 
 <## tone-2-characters ##>
 <nav class="sideways">
@@ -871,7 +871,7 @@ S
 $$
 
 
-##{#4 .williams} (4)Ch(')o <ins class="modern">(4)Ts(')o</ins> [[co4 陽平]]
+##{#4 .williams} (4)Ch(')o ``(4)Ts(')o`` [[co4 陽平]]
 
 <## tone-4-characters ##>
 <nav class="sideways">

@@ -45,7 +45,7 @@ MP
 $$
 
 
-##{#1 .williams} (1)Chui (1)Ts(u:) (1)Tsui <ins class="modern">(1)Ts(u/)i</ins> [[zeoi1 陰平]]
+##{#1 .williams} (1)Chui (1)Ts(u:) (1)Tsui ``(1)Ts(u/)i`` [[zeoi1 陰平]]
 
 <## tone-1-characters ##>
 <nav class="sideways">
@@ -891,7 +891,7 @@ C
 $$
 
 
-##{#3 .williams} <ins class="modern">Chui(3)</ins> <ins class="modern">Ts(u:)(3)</ins> Tsui(3) [[zeoi3 陰去]]
+##{#3 .williams} ``Chui(3)`` ``Ts(u:)(3)`` Tsui(3) [[zeoi3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">

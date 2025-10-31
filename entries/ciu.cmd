@@ -41,7 +41,7 @@ MP
 $$
 
 
-##{#1 .williams} (1)Ch(')i(u/) <ins class="modern">(1)Ts(')i(u/)</ins> [[ciu1 陰平]]
+##{#1 .williams} (1)Ch(')i(u/) ``(1)Ts(')i(u/)`` [[ciu1 陰平]]
 
 <## tone-1-characters ##>
 <nav class="sideways">

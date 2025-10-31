@@ -152,7 +152,7 @@ S
 $$
 
 
-##{#6 .williams} <ins class="modern">Cheng(6)</ins> Tseng(6) [[zeng6 陽去]]
+##{#6 .williams} ``Cheng(6)`` Tseng(6) [[zeng6 陽去]]
 
 <## tone-6-characters ##>
 <nav class="sideways">

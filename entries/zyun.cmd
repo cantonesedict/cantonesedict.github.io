@@ -740,7 +740,7 @@ S
 $$
 
 
-##{#3 .williams} <ins class="modern">Ch(u:)n(3)</ins> Ts(u:)n(3) [[zyun3 陰去]]
+##{#3 .williams} ``Ch(u:)n(3)`` Ts(u:)n(3) [[zyun3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">
