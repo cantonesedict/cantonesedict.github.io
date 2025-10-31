@@ -25,7 +25,7 @@ $$
 WH
   ==
   - Ch(a/)t. [[Page~24|n67]]
-  - ``Ts(a/)t.`` [[Not present on Page~560]]
+  - ``Ts(a/)t.`` [[Not present^]]
   ==
 WP
   ==

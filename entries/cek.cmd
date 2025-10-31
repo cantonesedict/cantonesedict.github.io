@@ -10,7 +10,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 %%%
 
-#{.williams} Ch(')ek. <ins class="modern">Ts(')ek.</ins> [[cek]]
+#{.williams} Ch(')ek. ``Ts(')ek.`` [[cek]]
 
 <## tones ##>
 <nav class="sideways">
@@ -24,12 +24,12 @@ $$
 WH
   ==
   - Ch(')ek. [[Page~15* implied]]
-  - <ins class="modern">Ts(')ek. (Not present)</ins>
+  - ``Ts(')ek.`` [[Not present^]]
   ==
 WP
   ==
   - Ch(')ek <span class="modern">= *[tɕʰɛk̚]</span>
-  - <span class="modern">Ts(')ek = *[tsʰɛk̚]</span>
+  - ``Ts(')ek`` <span class="modern">= *[tsʰɛk̚]</span>
   ==
 MP
   ==

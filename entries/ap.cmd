@@ -10,7 +10,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 %%%
 
-#{.williams} Ap. <ins class="modern">(O\)p.</ins> [[ap]]
+#{.williams} Ap. ``(O\)p.`` [[ap]]
 
 <## tones ##>
 <nav class="sideways">
@@ -25,12 +25,12 @@ $$
 WH
   ==
   - Ap. [[Page~4]]
-  - <ins class="modern">(O\)p. (Not present)</ins>
+  - ``(O\)p.`` [[Not present^]]
   ==
 WP
   ==
   - Ap <span class="modern">= *[ɐp̚]</span>
-  - <span class="modern">(O\)p = *[oup̚]</span>
+  - ``(O\)p`` <span class="modern">= *[oup̚]</span>
   ==
 MP
   ==
