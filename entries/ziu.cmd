@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -231,7 +231,7 @@ W
     - _(1)chi(u/) (1)chi(u/)_
         [[ziu1 ziu1 朝朝]]^
         every morning;
-    - _(1)Chi(u/) (1)[s(i/)n] kwok(8)_
+    - _(1)Chi(u/) ~~(1)sin~~ ``(1)s(i/)n`` kwok(8)_
         [[ziu1 sin1 gwok3 朝鮮國]]
         Corea [[Kangxi: 朝鮮國名]];
     - _yung(6) (1)chi(u/) m(i/)(6)_
@@ -431,7 +431,7 @@ W
     - [[...]];
     - to char ~~wood~~, to sear, to scorch [[Kangxi: 傷火]];
     - [[...]];
-    - _[(1)]tsi(u/) muk(9)_
+    - _~~tsi(u/)(3)~~ ``(1)tsi(u/)`` muk(9)_
         [[ziu1 muk6 燋木]]
         to char wood to bend it.
     ==
@@ -464,7 +464,7 @@ W
     ==
     - half tide rocks, rocky islets, rocks in the stream;
     - stones for fording;
-    - _[chuk(7)] (1)tsi(u/)_
+    - _~~(1)ch(')uk~~ ``chuk(7)`` (1)tsi(u/)_
         [[zuk1 ziu1 觸礁]],
         to run on a rock.
     ==
@@ -621,7 +621,7 @@ $$
 </nav>
 <## /tone-2-characters ##>
 
-### 剿2 | _[(2)]Tsi(u/)_ [[ziu2]]^
+### 剿2 | _~~(1)Tsi(u/)~~ ``(2)Tsi(u/)``_ [[ziu2]]^
 
 $$
 R
@@ -640,7 +640,7 @@ F
   ==
 W
   ====
-  - [[Page~581 ::[(2)]剿[(2)]{𠞰=⿰巢刀}::]]
+  - [[Page~581 ::~~(1)剿(1){𠞰=⿰巢刀}~~``(2)剿(2){𠞰=⿰巢刀}``::]]
     ==
     - To destroy utterly, to exterminate, to devastate;
     - _(2)tsi(u/) m(i/)t(9)_
@@ -654,7 +654,6 @@ W
 C
   ==
   - Fan Wan entry: Corrected 王 to 上.
-  - Williams misprints (2)剿(2){𠞰=⿰巢刀} as (1)剿(1){𠞰=⿰巢刀}; here corrected.
   ==
 P
   ++
@@ -954,7 +953,7 @@ W
     - a sacrifice, a requiem [[Kangxi: 凡僧道設壇祈禱曰醮]];
     - to give a cup of wine to a son at his wedding [[Kangxi: 父親醮子 etc.]];
     - finished, used up [[Kangxi: 盡也]];
-    - ~~to complete;~~
+    - to ~~complete~~ ``exhaust``;
     - ~~to burn moxa;~~
     - _(2)t(a/) tsi(u/)(3)_ [[daa2 ziu3 打醮]]
         or
@@ -975,7 +974,6 @@ C
   ==
   - Williams' "wine to a son at his wedding": Also at the capping ceremony
     where a twenty-year-old son is given his style-name. See below.
-  - Williams' "to complete": Better rendered "to exhaust".
   ==
 P
   ++
@@ -1060,7 +1058,7 @@ S
   ==
 $$
 
-### 噍6 | _Tsi(u/)(6)_ [[ziu6]]
+### 噍6 | ~~_Chi(u/)(6)_~~ _Tsi(u/)(6)_ [[ziu6]]
 
 $$
 R
@@ -1094,7 +1092,7 @@ W
   - [[Page~581 噍(6)]]
     ==
     - To bite, to chew, to gnaw [[Kangxi: 齧也, 嚼也]];
-    - _(4)ngau tsi(u/)(6) (5)[m(a/)u] (1)t(a/)n_
+    - _(4)ngau tsi(u/)(6) ~~(5)mau~~ ``(5)m(a/)u`` (1)t(a/)n_
         [[ngau4 ziu6 maau5 daan1 牛噍牡丹]],
         the ox eats the peony, (not knowing it from grass);
     - _tsi(u/)(6) l(a/)n(6)_
