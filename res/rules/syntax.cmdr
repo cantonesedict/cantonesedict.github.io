@@ -4,10 +4,6 @@ OrdinaryDictionaryReplacement: #.syntax.protected-empty-string
 - concluding_replacements: #placeholder-protect
 
 
-OrdinaryDictionaryReplacement: #.syntax.addition-marker-to-class
-* +} --> }
-
-
 RegexDictionaryReplacement: #.syntax.character-headings
 - queue_position: BEFORE #headings
 * ^[#]{3} (?P<addition_marker> [+]? )
@@ -18,8 +14,7 @@ RegexDictionaryReplacement: #.syntax.character-headings
     )
     (?P<tone_number> [1-6] ) [ ][|][ ] (?P<reading> .* )
     -->
-  ###{#\g<tone_number>\g<character> .williams\g<addition_marker>} <span class="headword">::{}\g<headword>::</span> \g<reading>
-- concluding_replacements: #.syntax.addition-marker-to-class
+  ###{#\g<tone_number>\g<character> .williams} <span class="headword">::{}\g<headword>::</span> \g<reading>
 
 
 RegexDictionaryReplacement: #.syntax.radical-headings
