@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zit
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -264,13 +264,13 @@ W
     - to exchange, to lose in trade;
     - to make amends for, to set over against;
     - to abase, to lower;
-    - ~~unmarried;~~
+    - ~~unmarried~~ ``to die early, especially before marriage`` [[Kangxi: 短折不祿也, 未婚曰折]];
     - _ch(i/)t(8) ts(i/)t(8) h(a/)(6) (1)k(a/)u_
         [[zit3 zit3 haa6 gaau1 折節下交]],
         to condescend to men of low estate;
     - _ch(i/)t(8) yuk(9)_
         [[zit3 juk6 折獄]]
-        ~~to have a jail delivery~~;
+        to ~~have a jail delivery~~ ``make judgement in a litigation``;
     - _(5)m(u/)i p(')at(7) ch(i/)t(8) (4)l(e/)ung (i/)(6) shek(9)_
         [[mui5 pat1 zit3 loeng4 ji6 sek6 每匹折量二石]]
         each piece was reckoned as two stone of corn;
@@ -278,7 +278,7 @@ W
         [[m4 zit3 dak1 唔折得]]
         cannot cheapen it;
         can't break it;
-    - _(2)k(i/) [(4)]shing ch(i/)t(8)_
+    - _(2)k(i/) ~~(1)shing~~ ``(4)shing`` ch(i/)t(8)_
         [[gei2 sing4 zit3 幾成折]]
         what discount will you make?
     - _ch(i/)t(8) shik(9)_
@@ -313,17 +313,12 @@ W
   ====
 C
   ==
-  - Williams' "unmarried": This is a misreading of Kangxi 未婚曰折.
-    This explanation is subcommentary specific to the sense of early death.
-  - Williams' 折獄: In the classical register, this is not "jail delivery",
-    but to make judgement (折) in a litigation (獄).
   - Williams' 幾成折: Corrected _(1)shing_ (sing1) to _(4)shing_ (sing4).
   ==
 P
   ++
   1. To turn, to change direction (Kangxi: 曲也).
   1. To destroy (Kangxi: 毀也).
-  1. To die early, especially before marriage (Kangxi: 短折不祿也, 未婚曰折).
   1. A setback, a difficulty.
   1. To admire, to be convinced of.
   ++
@@ -403,7 +398,7 @@ P
   ++
 $$
 
-### [浙]3 | _Ch(i/)t(8)_ [[zit3]]
+### ~~淅~~``浙``3 | _Ch(i/)t(8)_ [[zit3]]
 
 $$
 R
@@ -416,17 +411,13 @@ F
   ==
 W
   ====
-  - [[Page~23* ::[浙](8)::]]
+  - [[Page~23* ::~~淅~~``浙``(8)::]]
     ==
     - A river [[Kangxi: 江名]] in Chehki(a/)ng [[浙江]],
       called _Ch(i/)t(8) (2)shui_ [[zit3 seoi2 浙水]],
       from which the province is named.
     ==
   ====
-C
-  ==
-  - Williams misprints 浙 as 淅; here corrected.
-  ==
 $$
 
 ### 癤3 | _Ts(i/)t(8)_ [[zit3]]
@@ -537,7 +528,7 @@ W
     - _ts(i/)t(8) ts(i/)t(8) (1)k(o\)_
         [[zit3 zit3 gou1 節節高]],
         gradually rising in rank or wealth;
-    - _ts(i/)t(8) k(i/)m[(6)]_
+    - _ts(i/)t(8) ~~k(i/)m(3)~~ ``k(i/)m(6)``_
         [[zit3 gim6 節儉]]
         frugal, within the limits.
     ==
@@ -636,7 +627,7 @@ W
     - to obstruct;
     - to discriminate, to make nice distinctions;
     - a portion, a half;
-    - _(4)l(a/)n ts(i/)t[(9)]_ [[laan4 zit6 攔截]]
+    - _(4)l(a/)n ~~ts(i/)t(8)~~ ``ts(i/)t(9)``_ [[laan4 zit6 攔截]]
         or
       _ts(i/)t(9) ch(u:)(6) (5)k(')(u:)_ [[zit6 zyu6 keoi5 截住佢]],
         to stop, to arrest one's progress;
@@ -646,7 +637,7 @@ W
     - _ts(i/)t(9) (1)(i/)_
         [[zit6 ji1 截衣]],
         a robe whose body and skirt are of two colors;
-    - _ts(i/)t(9) [(5)t(')(u:)n]_
+    - _ts(i/)t(9) ~~t(u:)n(6)~~ ``(5)t(')(u:)n``_
         [[zit6 tyun5 截斷]]^
         to cut apart.
     ==
@@ -704,7 +695,7 @@ W
         quick.
     ==
     --
-    This is also read _ts(i/)p[(9)]_ [[zip6]].
+    This is also read _~~ts(i/)p(8)~~ ``ts(i/)p(9)``_ [[zip6]].
     --
   ====
 C
@@ -740,7 +731,7 @@ W
     ==
     - The eye-lashes [[Kangxi: 目旁毛也]];
     - _met._ the eye;
-    - _sh(e/)ung(6) [ts(i/)t(9)]_
+    - _sh(e/)ung(6) ~~ts(i/)p(8)~~ ``ts(i/)t(9)``_
         [[soeng6 zit6 上睫]]
         the upper eye-lashes.
     ==
