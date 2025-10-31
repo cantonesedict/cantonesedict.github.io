@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zo
-* %date-modified --> 2025-08-09
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -114,7 +114,7 @@ W
     ==
     - A sign of the past tense,
       placed after verbs like _(1)hi(u/)_ [[hiu1 嘵]];
-    - _(1)[ling] (2)cho (4)lai_
+    - _~~(1)ning~~ ``(1)ling`` (2)cho (4)lai_
         [[ling1 zo2 lai4 拎咗嚟]],
         brought it;
     - _h(u:)(3) (2)cho_
@@ -223,7 +223,7 @@ W
     - _(2)tso sing(3)_
         [[zo2 sing3 左性]]
         crotchetty, set in his way;
-    - _ch(u:)n[(3)] (1)w(a/)n (2)tso p(i/)n(6)_
+    - _~~(2)ch(u:)n~~ ``ch(u:)n(3)`` (1)w(a/)n (2)tso p(i/)n(6)_
         [[zyun3 waan1 zo2 bin6 轉彎左便]]
         turn to the left hand;
     - _(1)s(e/)ung (2)tso_
@@ -249,6 +249,8 @@ C
   - Williams' 轉彎左便: Corrected _(2)ch(u:)n_ (zyun2) to _ch(u:)n(3)_ (zyun3).
     Now simply 轉左.
   - Williams' 列於左: Perhaps this should be 列如左.
+    The idea here is that Chinese is (classically) written right to left,
+    so text that comes afterward will be on the left.
   ==
 S
   ==
@@ -509,7 +511,7 @@ W
     - _(1)s(e/)ung cho(6)_
         [[soeng1 zo6 相助]]
         to help each other;
-    - _cho(6) (4)shing [(2)]ko k(i/)n(6) sz'(6)_
+    - _cho(6) (4)shing ~~ko(3)~~ ``(2)ko`` k(i/)n(6) sz'(6)_
         [[zo6 sing4 go2 gin6 si6 助成嗰件事]]
         help finish that business;
     - _cho(6) (4)(i/)n_
@@ -558,26 +560,26 @@ W
     - ~~to sit in judgement on,~~ to judge;
     - to place, to set down;
     - to kneel [[Kangxi: 古者謂跪爲坐]];
-    - _(2)ts(')ing [(5)ts(')o]_
+    - _(2)ts(')ing ~~tso(6)~~ ``(5)ts(')o``_
         [[cing2 co5 請坐]]^
         please be seated;
     - _tso(6) (1)i(u/)_
         [[zo6 jiu1 坐腰]],
         to curtsey;
-    - _(5)n(i/) [(5)ts(')o]_ [[nei5 co5 你坐]]^
+    - _(5)n(i/) ~~tso(6)~~ ``(5)ts(')o``_ [[nei5 co5 你坐]]^
         or
-      _[(5)ts(')o] ch(e/)(3)_ [[co5 ze3 坐嗻]]
+      _~~tso(6)~~ ``(5)ts(')o`` ch(e/)(3)_ [[co5 ze3 坐嗻]]
         good bye, said to the host;
     - _tso(6) (5)l(i/)_
         [[zo6 lei5 坐{𢃇=⿰巾里}]],
         to let down sail;
-    - _[(5)ts(')o] ki(u/)(6)_
+    - _~~tso(6)~~ ``(5)ts(')o`` ki(u/)(6)_
         [[co5 giu6-2 坐轎]]
         to ride in a sedan;
     - _tso(6) ts(u/)i(6) (1)(u:) (5)n(i/)_
         [[zo6 zeoi6 jyu1 nei5 坐罪於你]],
         to bring the punishment upon you;
-    - _[(5)ts(')o] (u:)t(9)_
+    - _~~tso(6)~~ ``(5)ts(')o`` (u:)t(9)_
         [[co5 jyut6-2 坐月]]
         the month after confinement;
     - _tso(6) wai(6)_
@@ -589,33 +591,33 @@ W
     - _tso(6) sok(8)_
         [[zo6 sok3 坐索]]
         to quarter on one to force him to pay;
-    - _[(5)ts(')o] (4)'m lok(9)_
+    - _~~tso(6)~~ ``(5)ts(')o`` (4)'m lok(9)_
         [[co5 m4 lok6 坐唔落]]
         no place to sit in;
     - _tso(6) h(e/)ung(3)_
         [[zo6 hoeng3 坐向]]
         the prospect, as of a grave;
-    - _[(5)ts(')o] (5)h(a/) (1)t(')(i/)m_
+    - _~~tso(6)~~ ``(5)ts(')o`` (5)h(a/) (1)t(')(i/)m_
         [[co5 haa5 tim1 坐吓添]],
         sit a while longer;
     - _t(')(i/)t(8) tso(6)_
         [[tit3 zo6 鐵坐]]
         to squat, as a tailor;
-    - _[(5)ts(')o] (1)k(a/)m_
+    - _~~tso(6)~~ ``(5)ts(')o`` (1)k(a/)m_
         [[co5 gaam1 坐監]],
         in prison;
-    - _[(5)ts(')o] [(5)]sh(e/)ung_
+    - _~~tso(6)~~ ``(5)ts(')o`` ~~sh(e/)ung(6)~~ ``(5)sh(e/)ung``_
         [[co5 soeng5 坐上]]^
         sit up higher;
-    - _[(5)ts(')o] (4)t(')ong_
+    - _~~tso(6)~~ ``(5)ts(')o`` (4)t(')ong_
         [[co5 tong4-2 坐堂]],
         in court, on the bench;
-    - _[(5)ts(')o] (5)l(a/)ng f(a/)n(6) [(2)]k(o\)m [(5)ts(')o]_
+    - _~~tso(6)~~ ``(5)ts(')o`` (5)l(a/)ng f(a/)n(6) ~~k(o\)m(3)~~ ``(2)k(o\)m`` ~~tso(6)~~ ``(5)ts(')o``_
         [[co5 laang5 faan6 gam2 co5 坐冷飯噉坐]]^
-        to sit till the rice is cold, _i.~e._ to take [French] leave;
-    - _(2)t(a/) tso(6) (1)ts(')(a/)m (4)[sh(i/)m]_
+        to sit till the rice is cold, _i.~e._ to take ~~Freuch~~ ``French`` leave;
+    - _(2)t(a/) tso(6) (1)ts(')(a/)m ~~(4)sh(i/)n~~ ``(4)sh(i/)m``_
         [[daa2 zo6 caam1 sim4 打坐參禪]],
-        to ~~squat and~~ contemplate, as Budhists do.
+        to ~~squat~~ ``sit in the lotus position`` and contemplate, as Budhists do.
     ==
     --
     [[Otherwise, an alternative form of 座. **See $座zo6 for the canonical entry.**]]
@@ -645,11 +647,12 @@ C
     with the first 坐 ("sat") rising and the second 坐 ("seat") departing.
   - Williams' _tso(6)_ (zo6 去聲) has been corrected
     to _(5)ts(')o_ (co5 上聲) when appropriate.
+  - Williams' 坐月: Here, "confinement" means childbirth.
+    Confusingly, in more modern English,
+    the act of staying home for a month afterward is also called confinement.
   - Williams' 坐上: Corrected _sh(e/)ung(6)_ (soeng6 去聲) to _(5)sh(e/)ung_ (soeng5 上聲).
   - Williams' 坐冷飯噉坐: Corrected _k(o\)m(3)_ (gam3) to _(2)k(o\)m_ (gam2).
   - Williams' 打坐參禪: Changed _(4)sh(i/)n_ (sin4) to common reading _(4)sh(i/)m_ (sim4).
-    Not squatting on one's feet with knees bent,
-    but cross-legged in the lotus position.
   ==
 E
   ====
@@ -723,7 +726,7 @@ W
     - _yat(7) tso(6) t(')(a/)p(8)_
         [[jat1 zo6 taap3 一座塔]]
         one division of a hong [[行]];
-    - _[(2)]h(i/) tak(7) (1)s(a/)m tso(6) uk(7)_
+    - _~~h(i/)(3)~~ ``(2)h(i/)`` tak(7) (1)s(a/)m tso(6) uk(7)_
         [[hei2 dak1 saam1 zo6 uk1 起得三座屋]]
         can build three houses there;
     - _(1)kung tso(6) (2)(i/)_
