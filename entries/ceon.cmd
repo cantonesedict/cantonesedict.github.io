@@ -216,7 +216,7 @@ $$
 </nav>
 <## /tone-2-characters ##>
 
-###+ 惷2 | _(2)Ch(')un_ (ceon2)
+###+ 惷2 | _(2)Ch(')un_ [[ceon2]]
 
 $$
 R

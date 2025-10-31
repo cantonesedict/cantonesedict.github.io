@@ -56,7 +56,7 @@ $$
 </nav>
 <## /tone-4-characters ##>
 
-###+ 挨4 | _(4)Ng(a/)i_ (ngaai4)
+###+ 挨4 | _(4)Ng(a/)i_ [[ngaai4]]
 
 $$.
 R
