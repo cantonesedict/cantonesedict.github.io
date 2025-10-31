@@ -239,7 +239,7 @@ F
   ==
 W
   ====
-  - [[Page~23|n66 ::[騭](7)隲(7)::]]
+  - [[Page~23|n66 ::~~{？=⿰阝⿱步馬}~~``騭``(7)隲(7)::]]
     --
     [[Alternative form of 騭. **See $騭zat1 for the canonical entry.**]]
     --
