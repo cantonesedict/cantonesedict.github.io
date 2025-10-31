@@ -6,15 +6,21 @@ OrdinaryDictionaryReplacement: #.syntax.protected-empty-string
 
 RegexDictionaryReplacement: #.syntax.character-headings
 - queue_position: BEFORE #headings
-* ^[#]{3} (?P<addition_marker> [+]? )
+* ^[#]{3}
+    [+][ ] (?P<main_content> .*? )
+    \s+ (?P<jyutping_insertion> \[\[ \S+ \]\] )
+    -->
+  ### <ins>\g<main_content></ins> \g<jyutping_insertion>
+* ^[#]{3}
     [ ]
+    (?P<ins_opening> <ins>)?
     (?P<headword>
       (?: ~~.*~~ )?
       (?: `` )? \{? (?P<character> \S ) (?: = \S+ \} )? (?: `` )?
     )
     (?P<tone_number> [1-6] ) [ ][|][ ] (?P<reading> .* )
     -->
-  ###{#\g<tone_number>\g<character> .williams} <span class="headword">::{}\g<headword>::</span> \g<reading>
+  ###{#\g<tone_number>\g<character> .williams} \g<ins_opening><span class="headword">::{}\g<headword>::</span> \g<reading>
 
 
 RegexDictionaryReplacement: #.syntax.radical-headings
