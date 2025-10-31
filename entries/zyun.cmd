@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyun
-* %date-modified --> 2025-08-18
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -145,7 +145,7 @@ W
     - _(1)ch(u:)n yat(7)_
         [[zyun1 jat1 專一]]
         to apply to one thing;
-    - _(1)ch(u:)n [(4)]fong_
+    - _(1)ch(u:)n ~~(1)fong~~ ``(4)fong``_
         [[zyun1 fong4 專房]],
         to engross a husband's company.
     ==
@@ -153,6 +153,7 @@ W
 C
   ==
   - Williams' 專房: Corrected _(1)fong_ (fong1) to _(4)fong_ (fong4).
+    Specifically, a husband that one is sharing with other wives and concubines.
   ==
 P
   ++
@@ -436,7 +437,7 @@ W
   - [[Page~37* (1)鱄]]
     ==
     - A large fish [[Kangxi: 魚之大者名爲鱄]], a pike?
-      found in the Lake [Tungt(')ing] [[洞庭]] [[Kangxi: 魚之美者洞庭之鱄]].
+      found in the Lake Tungt``(')``ing [[洞庭]] [[Kangxi: 魚之美者洞庭之鱄]].
     ==
     --
     [[...]]
@@ -498,6 +499,7 @@ A
 V
   ==
   - cyun5 (per Fan Wan)
+  - zeon2 (per Williams)
   ==
 F
   ==
@@ -510,10 +512,10 @@ W
     - Many persons conversing [[Kangxi: 聚語也]] ~~amicably~~;
     - to talk agreeably to one;
     - unitedly, as a chorus;
-    - _[(2)ts(u:)n] t(a/)p(9)_
+    - _~~(5)ts(')(u:)n~~ ``(2)ts(u:)n`` t(a/)p(9)_
         [[zyun2 daap6 噂沓]]
         to flatter and then traduce;
-    - _[(2)ts(u:)n] t(a/)p(9) (4)m(a/)i s(a/)i(3)_
+    - _~~(5)ts(')(u:)n~~ ``(2)ts(u:)n`` t(a/)p(9) (4)m(a/)i s(a/)i(3)_
         [[zyun2 daap6 maai4 saai3 噂沓埋嗮]]
         lay them all aside; --- a colloquial phrase,
         in which the word is also pronounced _(2)tsun_ [[zeon2]].
@@ -677,7 +679,7 @@ W
     - _(2)ch(u:)n ch(i/)(3)_
         [[zyun2 zi3 轉致]]
         to send a message;
-    - _(2)ch(u:)n (1)p(')ai [(1)](u:) (4)yan_
+    - _(2)ch(u:)n (1)p(')ai ~~(4)(u:)~~ ``(1)(u:)`` (4)yan_
         [[zyun2 pai1 jyu1 jan4 轉批於人]],
         to sub-let to others.
     ==
@@ -721,6 +723,7 @@ C
     and split things up between _(2)ch(u:)n_ (zyun2) and _ch(u:)n(3)_ (zyun3).
     The supplementary entries given here are a poor attempt
     to exemplify the split based on personal experience.
+  - Williams' 轉批於人: Corrected _(4)(u:)_ (jyu4) to  _(1)(u:)_ (jyu1).
   ======
 P
   ++
@@ -788,21 +791,21 @@ W
   - [[Page~37* (2)轉 _(2)Ch(u:)n_ (zyun2); here corrected to _Ch(u:)n(3)_ (zyun3)]]
     ==
     - [[...]];
-    - _(2)s(e/)ung (2)k(a/)u ch(u:)n[(3)] (5)k(')(u:)_
+    - _(2)s(e/)ung (2)k(a/)u ~~(2)ch(u:)n~~ ``ch(u:)n(3)`` (5)k(')(u:)_
         [[soeng2 gaau2 zyun3 keoi5 想搞轉佢]],
         I will try to bring him round;
-    - _ch(u:)n[(3)] s(a/)i(3) (2)p(u/)n t(i/)(6) w(a/)(6)_
+    - _~~(2)ch(u:)n~~ ``ch(u:)n(3)`` s(a/)i(3) (2)p(u/)n t(i/)(6) w(a/)(6)_
         [[zyun3 saai3 bun2 dei6 waa6-2 轉嗮本地話]]
-        to translate the local patois;
-    - _(1)f(a/)n ch(u:)n[(3)] (4)t(')au_
+        ~~to~~ translate``d into`` the local patois;
+    - _(1)f(a/)n ~~(2)ch(u:)n~~ ``ch(u:)n(3)`` (4)t(')au_
         [[faan1 zyun3 tau4 返轉頭]],
         turn around;
     - [[...]];
-    - _ch(u:)n[(3)] (1)w(a/)n_
+    - _~~(2)ch(u:)n~~ ``ch(u:)n(3)`` (1)w(a/)n_
         [[zyun3 waan1 轉彎]],
         to turn a corner;
     - [[...]];
-    - _ch(u:)n[(3)] (1)f(a/)n (4)t(')au_
+    - _~~(2)ch(u:)n~~ ``ch(u:)n(3)`` (1)f(a/)n (4)t(')au_
         [[zyun3 faan1 tau4 轉返頭]],
         to look behind;
     - [[...]].
@@ -857,7 +860,7 @@ W
   ====
   - [[Page~604 鑽(3)鑚(3)]]
     ==
-    - An awl, a gimlet, an [auger], a borer;
+    - An awl, a gimlet, an ~~augur~~ ``auger``, a borer;
     - an instrument for perforating [[Kangxi: 所以穿也]];
     - ~~point of a weapon;~~
     - to bore, to pierce, as a sting [[Kangxi: 刺也]];
@@ -894,7 +897,7 @@ C
   - Whilst 《廣韻》 has the headline reading 借官切 _(1)ts(u:)n_ (zyun1)
     for 鑚 in the verb sense (explained 刺也),
     it also has the in-entry alternative 又借玩切 _ts(u:)n(3)_ (zyun3).
-    It is unclear whether this was intended as a cross-reference
+    It is unclear whether this is intended as a cross-reference
     to 子筭切 _ts(u:)n(3)_ (zyun3) (explained 錐鑚) as a separate noun sense
     or as a genuine alternative for the verb sense.
   - Kangxi has:

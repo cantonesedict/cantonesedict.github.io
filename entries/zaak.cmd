@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1019,7 +1019,7 @@ C
   ==
   - Whilst 《廣韻》 has the headline reading 陟革切 _ch(a/)k(8)_ (zaak3)^,
     it also has the in-entry alternative 又丈厄切 _ch(a/)k(9)_ (zaak6).
-    It is unclear whether this was intended as a cross-reference
+    It is unclear whether this is intended as a cross-reference
     or as a genuine alternative for the "blame" sense.
   ==
 $$
