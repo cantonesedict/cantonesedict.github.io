@@ -248,7 +248,7 @@ C
 $$
 
 
-##{#6 .williams} ~~Ts(')(a/)t(9)~~ ``Ts(a/)t(9)`` [[zaat6 陽入]]
+##{#6 .williams} ``Ts(a/)t(9)`` [[zaat6 陽入]]
 
 <## tone-6-characters ##>
 <nav class="sideways">

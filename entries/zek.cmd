@@ -108,7 +108,7 @@ S
 $$
 
 
-##{#3 .williams} ~~Chek(9)~~ ``Chek(8)`` Tsek(8) [[zek3 低陰入]]
+##{#3 .williams} ``Chek(8)`` Tsek(8) [[zek3 低陰入]]
 
 <## tone-3-characters ##>
 <nav class="sideways">
