@@ -194,7 +194,7 @@ V
   ==
 F
   ==
-  - [[F2.29 踭 _(1)Chang_ (zang1)]] 足跟筋也
+  - (F2.29 踭 _(1)Chang_ (zang1)) 足跟筋也
   ==
 W
   ====
@@ -249,7 +249,7 @@ H
   depending on the font.
 F
   ==
-  - [[F2.29 踭 _(1)Chang_ (zang1)]] 足跟筋也
+  - (F2.29 踭 _(1)Chang_ (zang1)) 足跟筋也
   ==
 W
   [[Not present]]
@@ -330,7 +330,7 @@ H
   depending on the font.
 F
   ==
-  - [[F2.29 諍 _Chang(6)_ (zang6)]] 諫諍救正之也
+  - (F2.29 諍 _Chang(6)_ (zang6)) 諫諍救正之也
   ==
 W
   [[Not present]]
