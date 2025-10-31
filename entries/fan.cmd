@@ -1521,7 +1521,7 @@ W
   ====
   - [[Page~47 訓(3)]]
     ==
-    - To instruct [[Kangxi: 說敎也, 導也]], to teach [[Kangxi: 誨也]], ~~to exhort~~;
+    - To instruct [[Kangxi: 說敎也, 導也]], to teach [[Kangxi: 誨也]]~~, to exhort~~;
     - to explain [[Kangxi: 訓者釋所言之理也]];
     - a doctrine, precept [[Kangxi: 古言可爲法也]];
     - ~~definition;~~

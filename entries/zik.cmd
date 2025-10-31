@@ -1820,7 +1820,7 @@ W
     - to borrow from, to avail of, to make a means;
     - by;
     - in all which senses it is often read _ts(e/)(3)_ [[ze3]];
-    - in confusion [[Kangxi: 狼藉離披雜亂貌]], ~~disturbed~~;
+    - in confusion [[Kangxi: 狼藉離披雜亂貌]]~~, disturbed~~;
     - liberal, generous [[Kangxi: 寬博有餘也]];
     - to lead, as by a ~~string~~ ``rope`` [[Kangxi: 藉繩也]];
     - _tsik(9) fuk(7)_

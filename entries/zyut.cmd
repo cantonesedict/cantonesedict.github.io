@@ -425,7 +425,7 @@ W
   - [[Page~713 絀(7) _Chut(7)_ (zeot1); here normalised to _Ch(u:)t(8)_ (zyut3)]]
     ==
     - This word also means ~~obstructed,~~ bent;
-    - withdrawn, ~~as money from circulation~~;
+    - withdrawn~~, as money from circulation~~;
     - _(4)ts(')oi yung(6) (1)ch(i/) ~~chut(7)~~ ``ch(u:)t(8)``_
         [[coi4 jung6 zi1 zyut3 財用之絀]]
         ~~obstructions in the way of trade~~ ``insufficiency of funds``.

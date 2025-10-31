@@ -798,7 +798,7 @@ W
   ====
   - [[Page~17* (2)展]]
     ==
-    - To open out, to unroll [[Kangxi: 開也]], ~~and inspect~~;
+    - To open out, to unroll [[Kangxi: 開也]]~~, and inspect~~;
     - to exhibit [[Kangxi: ::展陳也::]], to disentangle;
     - to stretch out at one's ease [[Kangxi: 舒也]], to expand;
     - to judge of, to look into [[Kangxi: 審也視也, 展省閱也]];

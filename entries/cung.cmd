@@ -100,7 +100,7 @@ W
   ====
   - [[Page~40* (1)充(1){𠑽=⿱亠兄}]]
     ==
-    - To fill [[Kangxi 充: 實之也]], to satiate [[Kangxi 充: ::[...]大充[...]過飽也::]], ~~to extend~~;
+    - To fill [[Kangxi 充: 實之也]], to satiate [[Kangxi 充: ::[...]大充[...]過飽也::]]~~, to extend~~;
     - to carry out, to continue [[Kangxi 充: 行也滿也]];
     - to act, to fill an office [[Kangxi 充: 充當也]];
     - to stop up, to stuff [[Kangxi 充: 塞也]];
@@ -789,7 +789,7 @@ W
     - A path, a crossway [[Kangxi: 通道也 etc.]];
     - ~~to support;~~
     - to move, to excite;
-    - to rise or rush against [[Kangxi: 當也向也突也]], ~~to overflow~~;
+    - to rise or rush against [[Kangxi: 當也向也突也]]~~, to overflow~~;
     - abrupt;
     - towards;
     - a ~~car~~ ``battering-chariot`` [[Kangxi: 車也 etc.]];
