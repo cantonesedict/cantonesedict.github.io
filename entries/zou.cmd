@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zou
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -119,7 +119,7 @@ W
   ====
   - [[Page~584 (1)糟]]
     ==
-    - The sediment [of] grains left after distilling spirits [[Kangxi: 酒滓也, 泲曰淸不泲曰糟]];
+    - The sediment~~;~~ ``of`` grains left after distilling spirits [[Kangxi: 酒滓也, 泲曰淸不泲曰糟]];
     - dregs;
     - _(1)ts(o\) (1)hong_
         [[zou1 hong1 糟糠]],
@@ -135,10 +135,6 @@ W
         a wife who has passed through poverty with one.
     ==
   ====
-C
-  ==
-  - Williams' "The sediment": Corrected succeeding semicolon to "of".
-  ==
 P
   ++
   1. To pickle in wine.
@@ -407,7 +403,7 @@ W
     - ancestors;
     - the founder of a family;
     - an ancestral temple [[Kangxi: 始廟也]];
-    - the beginning, the origin, the first [[Kangxi: 始也上也本也]], ~~as of a family~~;
+    - the beginning, the origin, the first [[Kangxi: 始也上也本也]]~~, as of a family~~;
     - to do like, to imitate a founder [[Kangxi: 法也]];
     - accustomed to [[Kangxi: 習也]];
     - to worship wayside gods [[Kangxi: 祭道神曰祖]];
@@ -434,7 +430,7 @@ W
         your grandfather;
     - _(1)k(a/) (2)ts(o\)_
         [[gaa1 zou2 家祖]],
-        my [live] [[these square brackets appear in the original text]] grandfather.
+        my [live] grandfather.
     ==
   ====
 P
@@ -682,7 +678,7 @@ W
     - _ts(o\)(6) (2)h(i/) (4)yan_
         [[zou6 hei2 jan4 做起人]],
         a prosperous man;
-    - _ts(o\)(6) (1)[sh(a/)ng] (i/)(3)_
+    - _ts(o\)(6) ~~(1)shang~~ ``(1)sh(a/)ng`` (i/)(3)_
         [[zou6 saang1 ji3 做生意]]
         is in business, he trades;
     - _(5)(u/)i ts(o\)(6) (4)yan_
@@ -697,7 +693,7 @@ W
     - _(5)n(i/) ts(o\)(6) mat(7) (5)y(e/)_
         [[nei5 zou6 mat1 je5 你做乜嘢]]^
         what are you doing?
-    - _ts(o\)(6) tak(7) (4)'m (4)h(a/)m (4)'m [(5)t(')(a/)m]_
+    - _ts(o\)(6) tak(7) (4)'m (4)h(a/)m (4)'m ~~t(a/)m(6)~~ ``(5)t(')(a/)m``_
         [[zou6 dak1 m4 haam4 m4 taam5 做得唔鹹唔淡]]^
         it's neither salt nor fresh---unsatisfactory;
     - _ts(o\)(6) mat(7)_
@@ -866,8 +862,8 @@ W
   ====
   - [[Page~585 祚(6)]]
     ==
-    - Happiness [[Kangxi: 福也]] ~~derived from~~ wealth [[Kangxi: 祿也]] or office [[Kangxi: 位也]];
-    - dignities, felicity;
+    - Happiness``,`` ~~derived from~~ wealth [[Kangxi: 祿也]]``,`` or office;
+    - dignities [[Kangxi: 位也]], felicity [[Kangxi: 福也]];
     - a year [[Kangxi: 歲也]];
     - _fuk(7) ts(o\)(6)_
         [[fuk6 zou6 福祚]]
@@ -953,7 +949,7 @@ W
     - _kot(8) (4)wo ts(o\)(6)_
         [[got3 wo4 zou6 割禾造]]
         to cut the rice harvest;
-    - _(1)[sh(a/)ng] ts(o\)(6) ch(')ut(7) (4)lai_,
+    - _~~(1)shang~~ ``(1)sh(a/)ng`` ts(o\)(6) ch(')ut(7) (4)lai_,
         [[saang1 zou6 ceot1 lai4 生造出嚟]]
         an entire fabrication, made out of whole cloth;
     - _tsoi(3) ts(o\)(6)_
