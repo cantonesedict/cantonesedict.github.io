@@ -47,7 +47,7 @@ TODO for merging branch `edits-with-ins-del`:
 - Make (FX.YY Z) not an insertion
 - Make (Not present) not an insertion
 - Make h3 headword and reading an insertion
-- Check for carets in locators and missing lang span and "here corrected"
+- Check for missing lang span in locators and "here corrected"
 - Check deletions near punctuation
 - Leave common readings unaltered
 - Clean up `autoupdate.py`
