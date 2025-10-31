@@ -222,9 +222,10 @@ RegexDictionaryReplacement: #.syntax.round-bracket-wrap
 - concluding_replacements: #placeholder-protect
 
 
-OrdinaryDictionaryReplacement: #.syntax.modern-contextual-ellipsis
+OrdinaryDictionaryReplacement: #.syntax.modern-contextual-non-insertions
 - queue_position: BEFORE #specified-links
 * [[...]] --> <span class="modern">(...)</span>
+* [[Not present]] --> <span class="modern">(Not present)</span>
 
 
 FixedDelimitersReplacement: #.syntax.modern-insertion-inline

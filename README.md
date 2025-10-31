@@ -45,7 +45,6 @@ pcregrep -M '^C$\n  \+\+$' entries/*cmd
 TODO for merging branch `edits-with-ins-del`:
 
 - Make (FX.YY Z) not an insertion
-- Make (Not present) not an insertion
 - Make h3 headword and reading an insertion
 - Leave common readings unaltered
 - Clean up `autoupdate.py`
