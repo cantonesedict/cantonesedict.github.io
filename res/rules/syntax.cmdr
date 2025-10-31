@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.syntax.protected-empty-string
 
 
 OrdinaryDictionaryReplacement: #.syntax.addition-marker-to-class
-* +} --> ' -class .modern}'
+* +} --> }
 
 
 RegexDictionaryReplacement: #.syntax.character-headings
