@@ -365,9 +365,8 @@ W
   ====
 C
   ==
-  - Williams misprints 愀 as 愁; here corrected.
-    Note that, in misprinting 愀 as 愁,
-    Williams has included the definition "downhearted, sad".
+  - Williams misprints 愀 as 愁. In doing so,
+    Williams has erroneously included the definition "downhearted, sad".
     That definition is only applicable to 愁.
   ==
 S

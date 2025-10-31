@@ -4237,7 +4237,6 @@ W
   ====
 C
   ==
-  - Williams misprints 鷙 as ⿱⿰辛丸鳥; here corrected.
   - Williams' "to seize by violence": This is a misreading of Kangxi 鷙執也.
     This describes the "bird-of-prey" sense as "[a bird that] seizeth".
     It does not define a verb.
