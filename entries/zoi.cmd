@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoi
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-XX-XX
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -86,7 +86,7 @@ W
     - _(2)h(i/) (2)ho sik(7) (1)tsoi_
         [[hei2 ho2 sik1 zoi1 豈可惜哉]],
         would you pity him!
-    - _(4)yan (5)(u:)n (4)[f(u/)] (1)tsoi_
+    - _(4)yan (5)(u:)n ~~(4)(u/)~~ ``(4)f(u/)`` (1)tsoi_
         [[jan4 jyun5 fu4 zoi1 仁遠乎哉]],
         has humanity so far gone!
     - _(1)on pat(7) (1)p(i/) (1)tsoi_
@@ -104,7 +104,7 @@ W
     - _(1)(u/) (1)f(u/) (1)oi (1)tsoi_
         [[wu1 fu1 oi1 zoi1 嗚呼哀哉]],
         alas, sad indeed!
-    - _(5)y(e/) (1)tsoi (4)Yau [(5)]y(a/)_
+    - _(5)y(e/) (1)tsoi (4)Yau ~~y(a/)(6)~~ ``(5)y(a/)``_
         [[je5 zoi1 jau4 jaa5 野哉由也]]^
         what a clown is Yau!
     - _(1)k(u/) (1)ch(i/) (1)tsoi, (1)k(u/) (1)ch(i/) (1)tsoi_
@@ -211,7 +211,7 @@ W
     - _sung(3) (2)fo (1)tsoi_
         [[sung3 fo2 zoi1 送火災]],
         to dismiss all risk of fire,
-        as is done at a _(2)[t(a/)] tsi(u/)(3)_ [[daa2 ziu3 打醮]];
+        as is done at a _~~(2)ta~~ ``(2)t(a/)`` tsi(u/)(3)_ [[daa2 ziu3 打醮]];
     - _(2)shui (1)tsoi_
         [[seoi2 zoi1 水災]],
         a flood;
@@ -372,7 +372,7 @@ W
         prohibited the butchering of animals, as in time of drought;
     - _(u:)n(6) (2)tsoi_
         [[jyun6 zoi2 縣宰]],
-        a district [magistrate];
+        a district magist``r``ate;
     - _(2)tsoi (4)ngau_
         [[zoi2 ngau4 宰牛]],
         to kill an ox.
@@ -510,7 +510,6 @@ W
     - _tsoi(3) (4)'m tsoi(3) sz'(3)_
         [[zoi3 saam1 zoi3 si3 再三再四]]
         again and again [I ordered him];
-        [[these square brackets appear in the original text]]
     - _tsoi(3) (4)'m (2)k(u/) t(o\)(3)_
         [[zoi3 m4 gu2 dou3-2 再唔估到]]
         I should not have guessed it;
@@ -551,7 +550,7 @@ W
     ==
     - To contain, to hold, as a carriage or ship [[Kangxi: 乗也]];
     - to fill in, to load on, to bear, to sustain [[Kangxi: 承也勝也]];
-    - to act, to do [[Kangxi: 行也]], to [fulfil] [[Kangxi: 成也]], to effect;
+    - to act, to do [[Kangxi: 行也]], to ~~fullfil~~ ``fulfil`` [[Kangxi: 成也]], to effect;
     - to record [[Kangxi: 記載也]];
     - to adorn, to beautify [[Kangxi: 飾也]];
     - to load in and transport [[Kangxi: 舟車運物也]];
@@ -571,7 +570,7 @@ W
     - _(4)'m kau(3) tsoi(3)_
         [[m4 gau3 zoi3 唔夠載]]
         not enough to load it;
-    - _(5)m(o\) (5)y(e/) tsoi(3) ch(u:)[(6)]_
+    - _(5)m(o\) (5)y(e/) tsoi(3) ~~ch(u:)(3)~~ ``ch(u:)(6)``_
         [[mou5 je5 zoi3 zyu6 冇嘢載住]]
         I've nothing to put it in;
     - _(2)p(i/) ko(3) (5)t(')(o\) tsoi(3)_
@@ -685,13 +684,13 @@ W
     - _tsoi(6) hok(9) (4)t(')ong_
         [[zoi6 hok6 tong4-2 在學堂]],
         at school;
-    - _tsoi(6) wai(6) (2)k(i/) noi(6) (1)[n(e/)]_
+    - _tsoi(6) wai(6) (2)k(i/) noi(6) ~~(1)n(i/)~~ ``(1)n(e/)``_
         [[zoi6 wai6 gei2 noi6 ne1 在位幾耐呢]],
         how long has he reigned?
     - _f(u/)(6) (5)m(o\) tsoi(6)_
         [[fu6 mou5 zoi6 父母在]]
         parents are alive;
-    - _tsoi(6) h(a/)(6) [(1)]tai_
+    - _tsoi(6) h(a/)(6) ~~(2)tai~~ ``(1)tai``_
         [[zoi6 haa6 dai1 在下低]],
         is down stairs;
     - _(4)'m tsoi(6)_
@@ -724,7 +723,7 @@ W
         [[sei2 zoi6 zou2 maan5 死在早晚]],
         his ailment is imminent;
         he does things blunderingly;
-    - _pat(7) tsoi(6) (4)[f(u/)]_
+    - _pat(7) tsoi(6) ~~(4)(u/)~~ ``(4)f(u/)``_
         [[bat1 zoi6 fu4 不在乎]],
         does not consist in;
     - _tsoi(6) (1)p(i/)n ch(')(u:)(3)_
