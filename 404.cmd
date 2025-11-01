@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Page not found
-* %date-modified --> 2023-12-13
-* %copyright-prior-years -->
+* %date-modified --> 2025-11-01
+* %copyright-prior-years --> "2023, "
 
 RegexDictionaryReplacement: #.no-meta-author-and-description
 - queue_position: AFTER #.boilerplate.properties-override
