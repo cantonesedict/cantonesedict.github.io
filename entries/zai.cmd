@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2025-07-20
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -73,7 +73,7 @@ V
   ==
 F
   ==
-  - [[F1.28 劑]] 調劑又劑量
+  - (F1.28 劑) 調劑又劑量
   ==
 W
   ====
@@ -96,7 +96,7 @@ W
   ====
 $$
 
-###+ 懠1 | _(1)Tsai_ (zai1)
+###+ 懠1 | _(1)Tsai_ [[zai1]]
 
 $$
 R
@@ -134,7 +134,7 @@ V
   ==
 F
   ==
-  - [[F1.28 擠]] 排也推也
+  - (F1.28 擠) 排也推也
   ==
 W
   ====
@@ -191,7 +191,7 @@ U
   U+7A67
 F
   ==
-  - [[F1.28 穧]] 刈禾把數也束也
+  - (F1.28 穧) 刈禾把數也束也
   ==
 W
   ====
@@ -215,8 +215,8 @@ U
   U+8CEB
 F
   ==
-  - [[F1.28 齎]] 送也行道所用也
-  - [[F1.28 賫]] 持送曰賫詔是也
+  - (F1.28 齎) 送也行道所用也
+  - (F1.28 賫) 持送曰賫詔是也
   ==
 W
   ====
@@ -236,8 +236,8 @@ U
   U+8CF7
 F
   ==
-  - [[F1.28 齎]] 送也行道所用也
-  - [[F1.28 賫]] 持送曰賫詔是也
+  - (F1.28 齎) 送也行道所用也
+  - (F1.28 賫) 持送曰賫詔是也
   ==
 W
   ====
@@ -261,8 +261,8 @@ V
   ==
 F
   ==
-  - [[F1.28 躋]] 登也升也
-  - [[F1.28 隮]] 惡氣上升也
+  - (F1.28 躋) 登也升也
+  - (F1.28 隮) 惡氣上升也
   ==
 W
   ====
@@ -301,8 +301,8 @@ V
   ==
 F
   ==
-  - [[F1.28 躋]] 登也升也
-  - [[F1.28 隮]] 惡氣上升也
+  - (F1.28 躋) 登也升也
+  - (F1.28 隮) 惡氣上升也
   ==
 W
   ====
@@ -344,8 +344,8 @@ V
   ==
 F
   ==
-  - [[F1.28 齎]] 送也行道所用也
-  - [[F1.28 賫]] 持送曰賫詔是也
+  - (F1.28 齎) 送也行道所用也
+  - (F1.28 賫) 持送曰賫詔是也
   ==
 W
   ====
@@ -398,7 +398,7 @@ U
   U+9F4F
 F
   ==
-  - [[F1.28 虀]] 薑蒜爲之又碎也和也
+  - (F1.28 虀) 薑蒜爲之又碎也和也
   ==
 W
   ====
@@ -445,7 +445,7 @@ V
   ==
 F
   ==
-  - [[F1.31 仔]] 皃子也又仔肩
+  - (F1.31 仔) 皃子也又仔肩
   ==
 W
   ====
@@ -526,7 +526,7 @@ S
   ==
 $$
 
-###+ 濟2 | _(2)Tsai_ (zai2)
+###+ 濟2 | _(2)Tsai_ [[zai2]]
 
 $$
 R
@@ -541,7 +541,7 @@ W
     ==
     - Name of a river [[Kangxi: 水名]];
     - [[...]];
-    - _[(2)]tsai [(2)]tsai_
+    - _~~tsai(3) tsai(3)~~ ``(2)tsai (2)tsai``_
         [[zai2 zai2 濟濟]]^
         abundant; a concourse [[Kangxi: 濟濟衆盛之貌]].
     ==
@@ -582,7 +582,7 @@ U
   U+5236
 F
   ==
-  - [[F1.32 制]] 節也禁也
+  - (F1.32 制) 節也禁也
   ==
 W
   ====
@@ -659,13 +659,13 @@ U
   U+63A3
 F
   ==
-  - [[F1.32 掣]] 掣肘滯隔不進也
+  - (F1.32 掣) 掣肘滯隔不進也
   ==
 W
   ====
   - [[Page~10|n53 掣(3)]]
     ==
-    - To obstruct, to hinder ~~from entering~~ [[Kangxi: 滯隔不進也]];
+    - To obstruct, to hinder from ~~entering~~ ``advancing`` [[Kangxi: 滯隔不進也]];
     - [[...]];
     - _(1)h(i/)n chai(3)_
         [[hin1 zai3 牽掣]]
@@ -679,15 +679,13 @@ W
     - _h(i/)p(9) chai(3)_
         [[hip6 zai3 挾掣]]
         to restrain;
-    - _chai(3) (2)[ch(a/)u]_
+    - _chai(3) ~~(2)chau~~ ``(2)ch(a/)u``_
         [[zai3 zaau2 掣肘]],
         to impede, to embarrass.
     ==
   ====
 C
   ==
-  - Williams' "from entering": This is a misreading of Kangxi 滯隔不進也.
-    Here, 進 means "advancing", not "entering".
   - Williams' 掣肘: Changed _(2)chau_ (zau2) to common reading _(2)ch(a/)u_ (zaau2).
   - Williams' "to embarrass": In the (now) archaic sense of "impede", "obstruct".
   ==
@@ -718,7 +716,7 @@ S
   ==
 $$
 
-###+ 晢3 | _Chai(3)_ (zai3)
+###+ 晢3 | _Chai(3)_ [[zai3]]
 
 $$
 R
@@ -731,7 +729,7 @@ A
   ==
 F
   ==
-  - [[F1.32 ::[晣]::]] 小星明也又音若
+  - (F1.32 ::[晣]::) 小星明也又音若
   ==
 W
   ====
@@ -764,7 +762,7 @@ U
   U+6663
 F
   ==
-  - [[F1.32 ::[晣]::]] 小星明也又音若
+  - (F1.32 ::[晣]::) 小星明也又音若
   ==
 W
   ====
@@ -790,7 +788,7 @@ U
   U+6FDF
 F
   ==
-  - [[F1.32 濟]] 周濟又通也
+  - (F1.32 濟) 周濟又通也
   ==
 W
   ====
@@ -846,7 +844,7 @@ U
   U+796D
 F
   ==
-  - [[F1.32 祭]] 祀也薦也
+  - (F1.32 祭) 祀也薦也
   ==
 W
   ====
@@ -887,7 +885,7 @@ U
   U+7A44
 F
   ==
-  - [[F1.32 穄]] 谷也似黍而小
+  - (F1.32 穄) 谷也似黍而小
   ==
 W
   ====
@@ -912,7 +910,7 @@ A
   ==
 F
   ==
-  - [[F1.32 製]] 造也作也
+  - (F1.32 製) 造也作也
   ==
 W
   ====
@@ -971,15 +969,15 @@ U
   U+969B
 F
   ==
-  - [[F1.32 際]] 交會也又邊畔也
+  - (F1.32 際) 交會也又邊畔也
   ==
 W
   ====
   - [[Page~548 際(3)]]
     ==
-    - A limit, a border, ~~a region~~ [[Kangxi: 方也, 邊也畔也]], the line of junction of two things [[Kangxi: 壁會也]];
+    - A limit, a border, a ~~region~~ ``perimeter`` [[Kangxi: 方也, 邊也畔也]], the line of junction of two ~~things~~ ``walls`` [[Kangxi: 壁會也]];
     - the time or place where another begins [[Kangxi: 際接也]];
-    - to join [[Kangxi: 合也, 會也]], ~~to begin~~;
+    - to join [[Kangxi: 合也, 會也]]~~, to begin~~;
     - the time of occurring, now, since;
     - _(2)sz' (1)shang (1)ch(i/) tsai(3)_
         [[si2 sang1 zi1 zai3 死生之際]]
@@ -999,14 +997,9 @@ W
         _met._ to receive a favor.
     ==
   ====
-C
-  ==
-  - Williams' "a region": This is a misreading of Kangxi 方也.
-    Here, 方 means perimeter, not place.
-  ==
 $$
 
-###+ 隮3 | _Tsai(3)_ (zai3)
+###+ 隮3 | _Tsai(3)_ [[zai3]]
 
 $$
 R
@@ -1045,7 +1038,7 @@ V
   ==
 F
   ==
-  - [[F1.32 霽]] 雨止而日光也
+  - (F1.32 霽) 雨止而日光也
   ==
 W
   ====
@@ -1106,7 +1099,7 @@ W
     --
     ==
     - A superlative, denoting that the extreme has been reached;
-    - _[(5)t(')(a/)m] tak(7) tsai(6)_
+    - _~~t(a/)m(6)~~ ``(5)t(')(a/)m`` tak(7) tsai(6)_
         [[taam5 dak1 zai6 淡得嚌]]
         excessively weak, as tea;
     - _(5)m(o\) mat(7) tsai(6)_
@@ -1169,7 +1162,7 @@ U
   U+6EEF
 F
   ==
-  - [[F1.34 滯]] 阻滯不通也
+  - (F1.34 滯) 阻滯不通也
   ==
 W
   ====
@@ -1221,7 +1214,7 @@ E
   ====
 $$
 
-###+ 穧6 | _Tsai(6)_ (zai6)
+###+ 穧6 | _Tsai(6)_ [[zai6]]
 
 $$
 R
@@ -1235,7 +1228,7 @@ V
   ==
 F
   ==
-  - [[F1.28 穧 _(1)Tsai_ (zai1)]] 刈禾把數也束也
+  - (F1.28 穧 _(1)Tsai_ (zai1)) 刈禾把數也束也
   ==
 W
   ====
@@ -1243,16 +1236,13 @@ W
     ==
     - To reap grain [[Kangxi: 穫刈也]];
     - a handful of rice [[Kangxi: 一曰撮也]], as it is cut;
-    - to put it together to bind into sheaves [[Kangxi: 刈禾把數, 穧禾之鋪而未束者]].
+    - to put it together ~~to bind~~ ``in preparation for binding`` into sheaves [[Kangxi: 刈禾把數, 穧禾之鋪而未束者]].
     ==
   ====
 C
   ==
   - Williams' "as it is cut": It is unclear whether 撮也 "pinch" applies
     to the grain (after harvesting) or to the crop (during harvest).
-  - Williams' "to bind into sheaves":
-    Better rendered "*in preparation for binding* into sheaves".
-    The act of binding is explicitly excluded in the meaning of 穧.
   ==
 S
   ==

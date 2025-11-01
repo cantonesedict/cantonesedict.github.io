@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2025-10-06
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -92,7 +92,7 @@ S
   ==
 $$
 
-###+ 妯1 | _(1)Ch(')au_ (cau1)
+###+ 妯1 | _(1)Ch(')au_ [[cau1]]
 
 $$
 R
@@ -122,7 +122,7 @@ S
   ==
 $$
 
-### [愀]1 | _(1)Ts(')au_ [[cau1]]
+### ~~愁~~``愀``1 | _(1)Ts(')au_ [[cau1]]
 
 $$.
 R
@@ -131,19 +131,15 @@ U
   U+6100
 F
   ==
-  - [[F1.50 愀]] 色變也
+  - (F1.50 愀) 色變也
   ==
 W
   ====
-  - [[Page~562 ::(1)[愀]^::]]
+  - [[Page~562 ::(1)~~愁~~``愀``::]]
     --
     [[Reading variation. **See $愀ciu2 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - Williams misprints 愀 as 愁; here corrected.
-  ==
 S
   ==
   - $愀ciu2
@@ -159,7 +155,7 @@ U
   U+62BD
 F
   ==
-  - [[F1.50 抽]] 收也援引也
+  - (F1.50 抽) 收也援引也
   ==
 W
   ====
@@ -170,7 +166,7 @@ W
     - to expand, as spring does;
     - to lift;
     - to levy, to assess, as duty;
-    - ~~to select~~, to draw out [[Kangxi: 引也]];
+    - ~~to select,~~ to draw out [[Kangxi: 引也]];
     - to utter aloud [[Kangxi: 讀也]];
     - to whip;
     - to receive one's portion [[Kangxi: 收也]];
@@ -206,7 +202,7 @@ W
     - _(1)ch(')au shat(9)_
         [[cau1 sat6 抽實]]
         lift it up firmly;
-    - _(1)ch(')au mok[(7)]_
+    - _(1)ch(')au ~~mok(9)~~ ``mok(7)``_
         [[cau1 mok1 抽剝]]
         to extort, to exact a high fee;
     - _(1)ch(')au (4)ch(')au_ [[cau1 cau4 抽籌]],
@@ -269,7 +265,7 @@ E
   ====
 $$
 
-###+ 掫1 | _(1)Ch(')au_ (cau1)
+###+ 掫1 | _(1)Ch(')au_ [[cau1]]
 
 $$
 R
@@ -346,7 +342,7 @@ U
   U+6978
 F
   ==
-  - [[F1.50 楸]] ::[木]名::
+  - (F1.50 楸) ::[木]名::
   ==
 W
   ====
@@ -375,7 +371,7 @@ U
   U+6E6B
 F
   ==
-  - [[F1.50 湫]] 水名
+  - (F1.50 湫) 水名
   ==
 W
   ====
@@ -420,7 +416,7 @@ W
     - _(2)fo (4)t(')(a/)m (1)ts(')au_
         [[fo2 taam4 cau1 火燂煍]],
         the fire blackens it;
-    - _(1)ts(')au [hak](7)_
+    - _(1)ts(')au ~~h(a/)k(7)~~ ``hak(7)``_
         [[cau1 hak1 煍黑]]
         smoked and blackened.
     ==
@@ -440,7 +436,7 @@ U
   U+7633
 F
   ==
-  - [[F1.50 瘳]] 病好曰瘳
+  - (F1.50 瘳) 病好曰瘳
   ==
 W
   ====
@@ -464,7 +460,7 @@ P
   ++
 $$
 
-###+ 瞅1 | _(1)Ts(')au_ (cau1)
+###+ 瞅1 | _(1)Ts(')au_ [[cau1]]
 
 $$
 R
@@ -519,8 +515,8 @@ U
   U+79CB
 F
   ==
-  - [[F1.50 秋]] 四季之一
-  - [[F1.50 龝]] ::同[上]::
+  - (F1.50 秋) 四季之一
+  - (F1.50 龝) ::同[上]::
   ==
 W
   ====
@@ -578,7 +574,7 @@ U
   U+7BD8
 F
   ==
-  - [[F1.50 篘]] 酒篘
+  - (F1.50 篘) 酒篘
   ==
 W
   ====
@@ -589,7 +585,7 @@ W
   ====
 $$
 
-###+ 紬1 | _(1)Ch(')au_ (cau1)
+###+ 紬1 | _(1)Ch(')au_ [[cau1]]
 
 $$
 R
@@ -623,7 +619,7 @@ U
   U+97A6
 F
   ==
-  - [[F1.50 鞦]] ::馬[靷]又鞦韆::
+  - (F1.50 鞦) ::馬[靷]又鞦韆::
   ==
 W
   ====
@@ -656,7 +652,7 @@ U
   U+9C0C
 F
   ==
-  - [[F1.50 鰌]] 與鰍同泥鰌又海鰌魚
+  - (F1.50 鰌) 與鰍同泥鰌又海鰌魚
   ==
 W
   ====
@@ -680,7 +676,7 @@ A
   ==
 F
   ==
-  - [[F1.50 鰍]] 魚名
+  - (F1.50 鰍) 魚名
   ==
 W
   ====
@@ -715,7 +711,7 @@ U
   U+9D96
 F
   ==
-  - [[F1.50 鶖]] 秃鶖食魚之鳥
+  - (F1.50 鶖) 秃鶖食魚之鳥
   ==
 W
   ====
@@ -748,7 +744,7 @@ U
   U+4E11
 F
   ==
-  - [[F1.54 丑]] 辰名
+  - (F1.54 丑) 辰名
   ==
 W
   ====
@@ -771,7 +767,7 @@ U
   U+919C
 F
   ==
-  - [[F1.54 醜]] 惡也不美也又醜類
+  - (F1.54 醜) 惡也不美也又醜類
   ==
 W
   ====
@@ -788,7 +784,7 @@ W
     - _k(i/)n(3) (2)ch(')au pat(7) (4)(u:) (4)ts(')ong ch(u:)t(8)_
         [[gin3 cau2 bat1 jyu4 cong4 zyut3 見醜不如藏拙]]
         to shame one is worse than keeping one's incapacity private;
-    - _[meng](6) (2)ch(')au_
+    - _~~ming(6)~~ ``meng(6)`` (2)ch(')au_
         [[meng6 cau2 命醜]]^
         an unhappy lot;
     - _(2)ch(')au (4)'m (2)ch(')au_
@@ -869,7 +865,7 @@ U
   U+51D1
 F
   ==
-  - [[F1.55 凑]] 會合也
+  - (F1.55 凑) 會合也
   ==
 W
   ====
@@ -893,7 +889,7 @@ V
   ==
 F
   ==
-  - [[F1.55 嗅]] 鳥哀鳴聲
+  - (F1.55 嗅) 鳥哀鳴聲
   ==
 W
   ====
@@ -919,7 +915,7 @@ A
   ==
 F
   ==
-  - [[F1.55 凑]] 會合也
+  - (F1.55 凑) 會合也
   ==
 W
   ====
@@ -935,7 +931,7 @@ W
     - a concurrence of circumstances, to estimate the probabilities of;
     - to strive to excel [[Kangxi: 競進也]];
     - for;
-    - _(5)n(i/) h(u:)(3) ts(')au(3) (5)ngo (2)t(a/) [t(')ing](3)_
+    - _(5)n(i/) h(u:)(3) ts(')au(3) (5)ngo (2)t(a/) ~~t(')eng(3)~~ ``t(')ing(3)``_
         [[nei5 heoi3 cau3 ngo5 daa2 ting3 你去湊我打聽]]
         will you go and learn about it for me;
     - _ts(')au(3) (2)h(a/)u_
@@ -1026,7 +1022,7 @@ V
   ==
 F
   ==
-  - [[F1.55 糗]] 乾粮
+  - (F1.55 糗) 乾粮
   ==
 W
   ====
@@ -1054,7 +1050,7 @@ V
   ==
 F
   ==
-  - [[F1.55 臭]] 氣息也又臭穢
+  - (F1.55 臭) 氣息也又臭穢
   ==
 W
   ====
@@ -1096,13 +1092,9 @@ W
         rank, noisome, as bad fish;
     - _ch(')au(3) m(i/)(6)_
         [[cau3 mei6 臭味]]
-        ~~a bad taste~~.
+        a bad ~~taste~~ ``smell``.
     ==
   ====
-C
-  ==
-  - Williams' 臭味: Not a bad taste, but a bad smell.
-  ==
 $$
 
 ### 蔟3 | _Ts(')au(3)_ [[cau3]]
@@ -1190,7 +1182,7 @@ U
   U+8F33
 F
   ==
-  - [[F1.55 輳]] 輻輳猶聚集也
+  - (F1.55 輳) 輻輳猶聚集也
   ==
 W
   ====
@@ -1246,8 +1238,8 @@ U
   U+4EC7
 F
   ==
-  - [[F1.52 讐]] 寃讐
-  - [[F1.52 仇]] 同上
+  - (F1.52 讐) 寃讐
+  - (F1.52 仇) 同上
   ==
 W
   ====
@@ -1284,7 +1276,7 @@ U
   U+5114
 F
   ==
-  - [[F1.52 儔]] 侣也衆也等類也
+  - (F1.52 儔) 侣也衆也等類也
   ==
 W
   ====
@@ -1321,7 +1313,7 @@ U
   U+56DA
 F
   ==
-  - [[F1.53 囚]] ::囚[犯]拘罪人也::
+  - (F1.53 囚) ::囚[犯]拘罪人也::
   ==
 W
   ====
@@ -1332,7 +1324,7 @@ W
   - [[Page~563 (4)囚]]
     ==
     - To imprison, to confine, to cage [[Kangxi: 繫也, 拘也]];
-    - ~~to handcuff;~~
+    - to ~~handcuff~~ ``restrain`` [[Kangxi: 囚拘也主拘繫當{𠛬=⿰幵刂}殺者]];
     - a prisoner, a felon;
     - a prison;
     - _(4)ts(')au (4)lung_
@@ -1370,15 +1362,11 @@ W
   ====
   - [[Page~27|n70 (4)幬]]
     ==
-    - A single curtain [[Kangxi: 襌帳也]] on a carriage [[Kangxi: 車帷也]];
+    - ~~A single~~ ``An unlined`` curtain [[Kangxi: 襌帳也]] on a carriage [[Kangxi: 車帷也]];
     - a leather screen or partition [[Kangxi: 幔轂之革也]];
     - [[...]].
     ==
   ====
-C
-  ==
-  - Williams' "single curtain": Better rendered "unlined curtain".
-  ==
 S
   ==
   - $幬dou6 (TODO) <## cover ##>
@@ -1395,7 +1383,7 @@ U
   U+60C6
 F
   ==
-  - [[F1.52 惆]] 惆悵
+  - (F1.52 惆) 惆悵
   ==
 W
   ====
@@ -1443,7 +1431,7 @@ U
   U+72A8
 F
   ==
-  - [[F1.52 犨]] 白色牛又牛息聲又生
+  - (F1.52 犨) 白色牛又牛息聲又生
   ==
 W
   ====
@@ -1451,18 +1439,9 @@ W
     ==
     - A white ox [[Fan Wan: 白色牛]];
     - the lowing or snorting of a cow [[Kangxi: 牛息聲]];
-    - ~~to issue from, to proceed from.~~
+    - ~~to issue from, to proceed from~~ ``protruding`` [[Kangxi: 出也]].
     ==
   ====
-C
-  ==
-  - Williams' "to issue from, to proceed from":
-    This is a misreading of Kangxi 出也. Here, 出 means "protruding".
-  ==
-P
-  ++
-  1. Protruding (Kangxi: 出也).
-  ++
 $$
 
 ### 疇4 | _(4)Ch(')au_ [[cau4]]
@@ -1478,7 +1457,7 @@ A
   ==
 F
   ==
-  - [[F1.52 疇]] 耕治之田也又衆也類也
+  - (F1.52 疇) 耕治之田也又衆也類也
   ==
 W
   ====
@@ -1514,7 +1493,7 @@ U
   U+7A20
 F
   ==
-  - [[F1.52 稠]] 密也
+  - (F1.52 稠) 密也
   ==
 W
   ====
@@ -1549,7 +1528,7 @@ V
   ==
 F
   ==
-  - [[F1.52 籌]] 算也又壺矢也
+  - (F1.52 籌) 算也又壺矢也
   ==
 W
   ====
@@ -1564,7 +1543,7 @@ W
         or
       _(4)ts(')(i/)m (4)ch(')au_ [[cim4 cau4-2 撍籌]],
         to draw lots;
-    - _(1)[k(a/)ng] (4)ch(')au_
+    - _~~(1)kang~~ ``(1)k(a/)ng`` (4)ch(')au_
         [[gaang1 cau4 更籌]],
         a watchman beating the hour;
     - _tuk(9) (2)k(i/) (4)ch(')au (1)sh(u:)_
@@ -1612,8 +1591,8 @@ U
   U+7D2C
 F
   ==
-  - [[F1.52 綢]] 綢緞又密也纏也
-  - [[F1.52 紬]] 同上
+  - (F1.52 綢) 綢緞又密也纏也
+  - (F1.52 紬) 同上
   ==
 W
   ====
@@ -1641,8 +1620,8 @@ A
   ==
 F
   ==
-  - [[F1.52 綢]] 綢緞又密也纏也
-  - [[F1.52 紬]] 同上
+  - (F1.52 綢) 綢緞又密也纏也
+  - (F1.52 紬) 同上
   ==
 W
   ====
@@ -1651,7 +1630,7 @@ W
     - Silk [[Kangxi 紬: 大絲繒也]];
     - pongee, senshaw, levantine, lustring;
     - [[...]];
-    - _(1)[sh(a/)ng] (4)ch(')au_
+    - _~~(1)shang~~ ``(1)sh(a/)ng`` (4)ch(')au_
         [[saang1 cau4 生綢]],
         stiff pongee;
     - _shuk(9) (4)ch(')au_
@@ -1715,13 +1694,13 @@ U
   U+88EF
 F
   ==
-  - [[F1.52 裯]] 單被也
+  - (F1.52 裯) 單被也
   ==
 W
   ====
   - [[Page~27|n70 (4)裯]]
     ==
-    - A single coverlet [[Kangxi: 被也, 襌被也]];
+    - ~~A single~~ ``An unlined`` coverlet [[Kangxi: 被也, 襌被也]];
     - a bed curtain [[Kangxi: 牀帳也]];
     - an under-shirt;
     - to cover, as with bed clothes.
@@ -1730,17 +1709,13 @@ W
     [[...]]
     --
   ====
-C
-  ==
-  - Williams' "single coverlet": Better rendered "unlined coverlet".
-  ==
 S
   ==
   - $裯dou1 (TODO)
   ==
 $$
 
-###+ 讎4 | _(4)Ch(')au_ (cau4)
+###+ 讎4 | _(4)Ch(')au_ [[cau4]]
 
 $$
 R
@@ -1757,8 +1732,8 @@ V
   ==
 F
   ==
-  - [[F1.52 讐]] 寃讐
-  - [[F1.52 仇]] 同上
+  - (F1.52 讐) 寃讐
+  - (F1.52 仇) 同上
   ==
 W
   ====
@@ -1804,8 +1779,8 @@ U
   U+8B90
 F
   ==
-  - [[F1.52 讐]] 寃讐
-  - [[F1.52 仇]] 同上
+  - (F1.52 讐) 寃讐
+  - (F1.52 仇) 同上
   ==
 W
   ====
@@ -1872,7 +1847,7 @@ U
   U+9052
 F
   ==
-  - [[F1.53 遒]] 聚也
+  - (F1.53 遒) 聚也
   ==
 W
   ====
@@ -1903,7 +1878,7 @@ U
   U+914B
 F
   ==
-  - [[F1.53 酋]] 夷狄有酋長
+  - (F1.53 酋) 夷狄有酋長
   ==
 W
   ====
@@ -1927,8 +1902,8 @@ U
   U+9167
 F
   ==
-  - [[F1.52 酬]] 答也報也
-  - [[F1.52 酧]] 同酬
+  - (F1.52 酬) 答也報也
+  - (F1.52 酧) 同酬
   ==
 W
   ====
@@ -1955,8 +1930,8 @@ A
   ==
 F
   ==
-  - [[F1.52 酬]] 答也報也
-  - [[F1.52 酧]] 同酬
+  - (F1.52 酬) 答也報也
+  - (F1.52 酧) 同酬
   ==
 W
   ====

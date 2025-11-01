@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zap
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -79,7 +79,7 @@ U
   U+57F7
 F
   ==
-  - [[F2.39 執]] 持守也拘也捕也
+  - (F2.39 執) 持守也拘也捕也
   ==
 W
   ====
@@ -96,7 +96,6 @@ W
     - _(1)shau chap(7)_
         [[sau1 zap1 收執]]
         to receive and keep [as evidence];
-        [[these square brackets appear in the original text]]
     - _chap(7) tsz'(6)_
         [[zap1 zi6 執字]]
         to set types;
@@ -213,7 +212,7 @@ U
   U+6C41
 F
   ==
-  - [[F2.39 汁]] 液也
+  - (F2.39 汁) 液也
   ==
 W
   ====
@@ -258,8 +257,8 @@ U
   U+7E36
 F
   ==
-  - [[F2.39 縶]] ::羈係也[絆]馬足曰縶::
-  - [[F2.39 ？]] 同上
+  - (F2.39 縶) ::羈係也[絆]馬足曰縶::
+  - (F2.39 ？) 同上
   ==
 W
   ====
@@ -278,7 +277,7 @@ C
   ==
 $$
 
-###+ 蓻1 | _Tsap(7)_ (zap1)
+###+ 蓻1 | _Tsap(7)_ [[zap1]]
 
 $$
 R
@@ -304,7 +303,7 @@ W
     - _ch(u:)(6) (4)m(a/)i yat(7) tsap(7)_
         [[zyu6 maai4 jat1 zap1 住埋一蓻]]
         living in a single community;
-    - _[(5)ts(')o] (4)m(a/)i yat(7) tsap(7)_
+    - _~~tso(6)~~ ``(5)ts(')o`` (4)m(a/)i yat(7) tsap(7)_
         [[co5 maai4 jat1 zap1 坐埋一蓻]]
         sitting together in a group;
     - _s(o\)(3) (4)m(a/)i yat(7) tsap(7)_

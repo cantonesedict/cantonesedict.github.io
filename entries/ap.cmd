@@ -5,12 +5,12 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ap
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
 
-#{.williams} Ap. <ins class="modern">(O\)p.</ins> [[ap]]
+#{.williams} Ap. ``(O\)p.`` [[ap]]
 
 <## tones ##>
 <nav class="sideways">
@@ -25,12 +25,12 @@ $$
 WH
   ==
   - Ap. [[Page~4]]
-  - <ins class="modern">(O\)p. (Not present)</ins>
+  - ``(O\)p.`` [[Not present^]]
   ==
 WP
   ==
   - Ap <span class="modern">= *[ɐp̚]</span>
-  - <span class="modern">(O\)p = *[oup̚]</span>
+  - ``(O\)p`` <span class="modern">= *[oup̚]</span>
   ==
 MP
   ==
@@ -125,7 +125,7 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
-###+ 庵3 | _(O\)p(8)_ (ap3)
+###+ 庵3 | _(O\)p(8)_ [[ap3]]
 
 $$
 R

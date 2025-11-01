@@ -5,12 +5,12 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaat
-* %date-modified --> 2025-09-06
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
 
-#{.williams} Ch(a/)t. [Ts(a/)t.] [[zaat]]
+#{.williams} Ch(a/)t. ``Ts(a/)t.`` [[zaat]]
 
 <## tones ##>
 <nav class="sideways">
@@ -25,12 +25,12 @@ $$
 WH
   ==
   - Ch(a/)t. [[Page~24|n67]]
-  - [Ts(a/)t.] [[Not present on Page~560]]
+  - ``Ts(a/)t.`` [[Not present^]]
   ==
 WP
   ==
   - Ch(a/)t <span class="modern">= *[tɕaːt̚]</span>
-  - Ts(a/)t <span class="modern">= *[tsaːt̚]</span>
+  - ``Ts(a/)t`` <span class="modern">= *[tsaːt̚]</span>
   ==
 MP
   ==
@@ -62,7 +62,7 @@ U
   U+624E
 F
   ==
-  - [[F2.72 扎]] 拔也作也
+  - (F2.72 扎) 拔也作也
   ==
 W
   ====
@@ -107,7 +107,7 @@ U
   U+672D
 F
   ==
-  - [[F2.72 札]] 柬也又書札
+  - (F2.72 札) 柬也又書札
   ==
 W
   ====
@@ -132,7 +132,7 @@ W
   ====
 $$
 
-###+ 紮3 | _Ch(a/)t(8)_ (zaat3)
+###+ 紮3 | _Ch(a/)t(8)_ [[zaat3]]
 
 $$
 R
@@ -145,7 +145,7 @@ A
   ==
 F
   ==
-  - [[F2.72 扎]] 拔也作也
+  - (F2.72 扎) 拔也作也
   ==
 W
   ====
@@ -197,7 +197,7 @@ U
   U+8301
 F
   ==
-  - [[F2.72 茁]] 肥壯貌
+  - (F2.72 茁) 肥壯貌
   ==
 W
   ====
@@ -229,7 +229,7 @@ W
   ====
   - [[Page~24|n67 軋(8)]]
     ==
-    - ~~Creaking~~ roll of a wheel [[Kangxi: 車輾也]];
+    - ~~Creaking~~ ``To crush with the`` roll of a wheel [[Kangxi: 車輾也]];
     - a creaking, grating, sound;
     - punishment of the ~~rack or~~ wheel [[Kangxi: {𠛬=⿰幵刂}名]];
     - _(1)s(e/)ung (4)mo ch(a/)t(8)_
@@ -242,14 +242,13 @@ W
   ====
 C
   ==
-  - Williams' "Creaking [...]": This is a misreading of Kangxi 車載重蹍軋有聲也
+  - Williams' "Creaking": This is a misreading of Kangxi 車載重蹍軋有聲也
     as a definition, when it is actually an example.
-  - Williams' "roll of a wheel": Specifically, to run over or crush with a rolling wheel.
   ==
 $$
 
 
-##{#6 .williams} [Ts(a/)t(9)] [[zaat6 陽入]]
+##{#6 .williams} ``Ts(a/)t(9)`` [[zaat6 陽入]]
 
 <## tone-6-characters ##>
 <nav class="sideways">
@@ -260,7 +259,7 @@ $$
 </nav>
 <## /tone-6-characters ##>
 
-### 曱6 | _[Ts(a/)t(9)]_ [[zaat6]]
+### 曱6 | _~~Ts(')(a/)t(9)~~ ``Ts(a/)t(9)``_ [[zaat6]]
 
 $$.
 R
@@ -288,7 +287,7 @@ S
   ==
 $$
 
-###+ 甴6 | _Ts(a/)t(9)_ (zaat6)
+###+ 甴6 | _Ts(a/)t(9)_ [[zaat6]]
 
 $$
 R
@@ -312,7 +311,7 @@ W
     A colloquial word.
     --
     ==
-    - _[K(a/)t(9)] ts(a/)t(9)_
+    - _~~(1)K(a/)~~ ``K(a/)t(9)`` ts(a/)t(9)_
         [[gaat6 zaat6 曱甴]]
         a cockroach.
     ==

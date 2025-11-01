@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2025-08-19
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -66,7 +66,7 @@ H
   depending on the font.
 F
   ==
-  - [[F1.81 嗔]] 怒也
+  - (F1.81 嗔) 怒也
   ==
 W
   ====
@@ -92,7 +92,7 @@ S
   ==
 $$
 
-###+ 嚫1 | _(1)Ts(')an_ (can1)
+###+ 嚫1 | _(1)Ts(')an_ [[can1]]
 
 $$
 R
@@ -161,7 +161,7 @@ H
   depending on the font.
 F
   ==
-  - [[F1.81 瞋]] 怒而張目也
+  - (F1.81 瞋) 怒而張目也
   ==
 W
   ====
@@ -184,7 +184,7 @@ U
   U+89AA
 F
   ==
-  - [[F1.81 親]] 愛也近也姻也眷也
+  - (F1.81 親) 愛也近也姻也眷也
   ==
 W
   ====
@@ -202,12 +202,12 @@ W
     - _(1)ts(')an ts(')ik(7)_
         [[can1 cik1 親戚]]
         one's relatives;
-    - _[(2)]ts(')(u:) (1)ts(')an_
+    - _~~ts(')(u:)(3)~~ ``(2)ts(')(u:)`` (1)ts(')an_
         [[ceoi2 can1 娶親]],
         to take a wife;
     - _(4)shing (1)ts(')an_
         [[sing4 can1 成親]],
-        to consummate a matriage;
+        to ~~consummate a marriage~~ ``become married``;
     - _(4)(i/)m (1)ts(')an_ [[jim4 can1 嚴親]]^
         or
       _f(u/)(6) (1)ts(')an_ [[fu6 can1 父親]],
@@ -301,7 +301,7 @@ U
   U+54C2
 F
   ==
-  - [[F1.82 哂]] 微笑
+  - (F1.82 哂) 微笑
   ==
 W
   ====
@@ -332,35 +332,22 @@ V
   ==
 F
   ==
-  - [[F1.82 畛]] 田間水道
+  - (F1.82 畛) 田間水道
   ==
 W
   ====
   - [[Page~18|n61 (2)畛]]
     ==
-    - ~~To divide fields;~~
+    - ~~To~~ ``Roads that`` divide fields [[Kangxi: 井田閒陌也]];
     - to come before the gods [[Kangxi: 致也]];
     - to announce ~~the emperor's coming~~ [[Kangxi: 吿也]];
-    - ~~to die~~;
+    - to ~~die~~ ``exterminate`` [[Kangxi: 殄也, 謂殄絕]];
     - a motive;
     - _(4)kw(')ai (2)ch(')an_
         [[kwai4 can2 畦畛]],
         dikes between fields.
     ==
   ====
-C
-  ==
-  - Williams' "To divide fields": This is a misreading of Kangxi 井田閒陌也,
-    which refers to the roads that divide fields,
-    rather than to the action of dividing fields.
-  - Williams' "to announce the emperor's coming": Not specific to the emperor's coming.
-  - Williams' "to die": Better rendered "to exterminate" (Kangxi: 殄也, 謂殄絕).
-  ==
-P
-  ++
-  1. Roads that divide fields (Kangxi: 井田閒陌也).
-  1. To exterminate (Kangxi: 殄也, 謂殄絕).
-  ++
 $$
 
 ### 疢2 | _(2)Ch(')an_ [[can2]]
@@ -380,7 +367,7 @@ V
   ==
 F
   ==
-  - [[F1.82 疢]] ::[熱]病::
+  - (F1.82 疢) ::[熱]病::
   ==
 W
   ====
@@ -416,7 +403,7 @@ V
   ==
 F
   ==
-  - [[F1.82 疹]] 豆疹
+  - (F1.82 疹) 豆疹
   ==
 W
   ====
@@ -448,7 +435,7 @@ U
   U+77E7
 F
   ==
-  - [[F1.82 矧]] 况也
+  - (F1.82 矧) 况也
   ==
 W
   ====
@@ -457,7 +444,7 @@ W
     - To stretch;
     - still more, how much more [[Kangxi: 况也]];
     - ~~to grin wide;~~
-    - _(2)ch(')an (u:)t[(9)]_
+    - _(2)ch(')an ~~(u:)t(8)~~ ``(u:)t(9)``_
         [[can2 jyut6 矧曰]]
         to say further.
     ==
@@ -487,14 +474,14 @@ V
   ==
 F
   ==
-  - [[F1.82 紾]] 縳也繩以縳之也
+  - (F1.82 紾) 縳也繩以縳之也
   ==
 W
   ====
   - [[Page~18|n61 (2)紾]]
     ==
     - To bind with cords;
-    - to turn[,] to twist [[Kangxi: 轉也]];
+    - to turn``,`` to twist [[Kangxi: 轉也]];
     - to revolve;
     - a revolution;
     - perverse, crabbed [[Kangxi: 戾也]].
@@ -518,7 +505,7 @@ V
   ==
 F
   ==
-  - [[F1.82 縝]] 結也縷也
+  - (F1.82 縝) 結也縷也
   ==
 W
   ====
@@ -548,7 +535,7 @@ V
   ==
 F
   ==
-  - [[F1.82 袗]] 單也衣服也盛服也又畫也
+  - (F1.82 袗) 單也衣服也盛服也又畫也
   ==
 W
   ====
@@ -576,7 +563,7 @@ V
   ==
 F
   ==
-  - [[F1.82 診]] 視也騐也又診脉
+  - (F1.82 診) 視也騐也又診脉
   ==
 W
   ====
@@ -607,7 +594,7 @@ V
   ==
 F
   ==
-  - [[F1.82 軫]] 車橫木所以斂載也又宿名
+  - (F1.82 軫) 車橫木所以斂載也又宿名
   ==
 W
   ====
@@ -621,7 +608,7 @@ W
     - the last of the 28 constellations [[Kangxi: 宿名]],
       _β_, _δ_, _η_, _γ_, in Corvus;
     - pegs of a lute [[Kangxi: ::琴下轉[絃]者謂之軫::]];
-    - _(1)[(u:)] (2)ch(')an_
+    - _~~(1)h(u:)~~ ``(1)(u:)`` (2)ch(')an_
         [[jyu1 can2 紆軫]],
         crooked, winding.
     ==
@@ -651,7 +638,7 @@ V
   ==
 F
   ==
-  - [[F1.82 鬒]] 髮之黑也
+  - (F1.82 鬒) 髮之黑也
   ==
 W
   ====
@@ -664,7 +651,7 @@ W
 $$
 
 
-##{#3 .williams} Ch(')an(3) <ins class="modern">Ts(')an(3)</ins> [[can3 陰去]]
+##{#3 .williams} Ch(')an(3) ``Ts(')an(3)`` [[can3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">
@@ -688,7 +675,7 @@ U
   U+6AEC
 F
   ==
-  - [[F1.85 櫬]] 棺櫬
+  - (F1.85 櫬) 棺櫬
   ==
 W
   ====
@@ -720,7 +707,7 @@ U
   U+896F
 F
   ==
-  - [[F1.85 襯]] 貼身衣也又襯貼
+  - (F1.85 襯) 貼身衣也又襯貼
   ==
 W
   ====
@@ -778,7 +765,7 @@ E
   ====
 $$
 
-###+ 親3 | _Ts(')an(3)_ (can3)
+###+ 親3 | _Ts(')an(3)_ [[can3]]
 
 $$
 R
@@ -822,7 +809,7 @@ A
   ==
 F
   ==
-  - [[F1.85 趂]] 及時也逐也從也
+  - (F1.85 趂) 及時也逐也從也
   ==
 W
   ====
@@ -867,7 +854,7 @@ U
   U+8D82
 F
   ==
-  - [[F1.85 趂]] 及時也逐也從也
+  - (F1.85 趂) 及時也逐也從也
   ==
 W
   ====
@@ -919,7 +906,7 @@ U
   U+5875
 F
   ==
-  - [[F1.82 塵]] 塵上塵埃
+  - (F1.82 塵) 塵上塵埃
   ==
 W
   ====
@@ -942,7 +929,7 @@ W
     - _(4)ch(')an (1)oi_
         [[can4 oi1 塵埃]],
         dust;
-    - _(4)ch(')an kau[(3)]_
+    - _(4)ch(')an ~~(2)kau~~ ``kau(3)``_
         [[can4 gau3 塵垢]],
         covered with dust;
     - _(1)fung (4)ch(')an_
@@ -1017,7 +1004,7 @@ V
   ==
 F
   ==
-  - [[F1.82 陳]] 列也張也敷也告也又姓
+  - (F1.82 陳) 列也張也敷也告也又姓
   ==
 W
   ====
@@ -1030,7 +1017,7 @@ W
     - a long time, an old thing [[Kangxi: 故也, 久也]];
     - many, all [[Kangxi: 衆也]];
     - a feudal state [[Kangxi: 國名]] near the present capital of Hon(a/)n [[河南]];
-    - _tsoi(6) (4)ch(')an [ts(u:)t](9) (4)l(e/)ung_
+    - _tsoi(6) (4)ch(')an ~~ts(')(u:)t(9)~~ ``ts(u:)t(9)`` (4)l(e/)ung_
         [[zoi6 can4 zyut6 loeng4 在陳絕糧]],
         to lack food in Ch(')in---to be in straits;
     - _(1)p(')(o\) (4)ch(')an_

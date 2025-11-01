@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2025-10-18
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -101,7 +101,7 @@ U
   U+4E4B
 F
   ==
-  - [[F1.35 之]] 於也往也又語助詞
+  - (F1.35 之) 於也往也又語助詞
   ==
 W
   ====
@@ -114,7 +114,7 @@ W
       or as a relative particle, in apposition;
     - ~~to progress;~~
     - to go to [[Kangxi: 往也]];
-    - _[t(')ing](3) (1)ch(i/) (1)ch(i/) (4)yan_
+    - _~~t(')eng(3)~~ ``t(')ing(3)`` (1)ch(i/) (1)ch(i/) (4)yan_
         [[ting3 zi1 zi1 jan4 聽之之人]],
         the person who hears him;
     - _t(')(i/)n (1)ch(i/) (4)ming ming(6)_
@@ -174,7 +174,7 @@ U
   U+5179
 F
   ==
-  - [[F2.34 兹]] 此也
+  - (F2.34 兹) 此也
   ==
 W
   ====
@@ -188,7 +188,7 @@ W
   ====
 $$
 
-###+ 卮1 | _(1)Ch(i/)_ (zi1)
+###+ 卮1 | _(1)Ch(i/)_ [[zi1]]
 
 $$.
 R
@@ -243,8 +243,8 @@ A
   ==
 F
   ==
-  - [[F2.34 諮]] 詢也
-  - [[F2.34 咨]] 咨嗟咨謀
+  - (F2.34 諮) 詢也
+  - (F2.34 咨) 咨嗟咨謀
   ==
 W
   ====
@@ -285,7 +285,7 @@ U
   U+59FF
 F
   ==
-  - [[F2.34 姿]] 姿稟形態也
+  - (F2.34 姿) 姿稟形態也
   ==
 W
   ====
@@ -323,7 +323,7 @@ A
   ==
 F
   ==
-  - [[F2.34 孜]] 汲也勤也勉也
+  - (F2.34 孜) 汲也勤也勉也
   ==
 W
   ====
@@ -345,7 +345,7 @@ W
   ====
 $$
 
-###+ 孳1 | _(1)Tsz'_ (zi1)
+###+ 孳1 | _(1)Tsz'_ [[zi1]]
 
 $$
 R
@@ -358,7 +358,7 @@ A
   ==
 F
   ==
-  - [[F2.34 孳]] 生息也亦作孜
+  - (F2.34 孳) 生息也亦作孜
   ==
 W
   ====
@@ -396,7 +396,7 @@ U
   U+5B76
 F
   ==
-  - [[F2.34 孳]] 生息也亦作孜
+  - (F2.34 孳) 生息也亦作孜
   ==
 W
   ====
@@ -427,7 +427,7 @@ A
   ==
 F
   ==
-  - [[F1.36 巵]] 酒杯
+  - (F1.36 巵) 酒杯
   ==
 W
   ====
@@ -459,7 +459,7 @@ U
   U+652F
 F
   ==
-  - [[F1.36 支]] ::持也分也又支离又支[干]又宗支::
+  - (F1.36 支) ::持也分也又支离又支[干]又宗支::
   ==
 W
   ====
@@ -481,7 +481,7 @@ W
     - _(1)p(a/)u (1)ch(i/)_
         [[baau1 zi1 包支]],
         responsible for;
-    - _(1)ch(i/) (1)[k(a/)ng]_
+    - _(1)ch(i/) ~~(1)kang~~ ``(1)k(a/)ng``_
         [[zi1 gaang1 支更]],
         a watchman;
     - _yat(9) (1)chung (1)ch(i/) yung(6)_
@@ -523,7 +523,7 @@ U
   U+679D
 F
   ==
-  - [[F1.36 枝]] 枝幹
+  - (F1.36 枝) 枝幹
   ==
 W
   ====
@@ -572,7 +572,7 @@ U
   U+6894
 F
   ==
-  - [[F1.36 梔]] ::梔子核可[染]物::
+  - (F1.36 梔) ::梔子核可[染]物::
   ==
 W
   ====
@@ -604,7 +604,7 @@ A
   ==
 F
   ==
-  - [[F2.34 淄]] 黑色水名又臨淄齊地也
+  - (F2.34 淄) 黑色水名又臨淄齊地也
   ==
 W
   ====
@@ -640,13 +640,13 @@ A
   ==
 F
   ==
-  - [[F2.34 滋]] 潤也益也
+  - (F2.34 滋) 潤也益也
   ==
 W
   ====
   - [[Page~610 (1)滋]]
     ==
-    - ~~Occurs used for the last [[茲]]~~;
+    - ~~Occurs used for the last [[茲]];~~
     - sweet, pleasant, rich [[Kangxi: 滋味也]];
     - humid, soft;
     - to increase, to grow [[Kangxi: 蒔也長也益也]];
@@ -721,7 +721,7 @@ U
   U+77E5
 F
   ==
-  - [[F1.35 知]] 覺也識也明也
+  - (F1.35 知) 覺也識也明也
   ==
 W
   ====
@@ -794,7 +794,7 @@ S
   ==
 $$
 
-###+ 祗1 | _(1)Ch(i/)_ (zi1)
+###+ 祗1 | _(1)Ch(i/)_ [[zi1]]
 
 $$
 R
@@ -807,7 +807,7 @@ V
   ==
 F
   ==
-  - [[F1.39 祗 _(2)Ch(i/)_ (zi2)]] 敬也但也又音其
+  - (F1.39 祗 _(2)Ch(i/)_ (zi2)) 敬也但也又音其
   ==
 W
   ====
@@ -817,7 +817,7 @@ W
     - [[...]];
     - respect, awe, reverence [[Kangxi: 敬也]];
     - [[...]];
-    - _[(1)]ch(i/) king(3)_
+    - _~~(2)ch(i/)~~ ``(1)ch(i/)`` king(3)_
         [[zi1 ging3 祗敬]]
         to venerate.
     ==
@@ -837,7 +837,7 @@ U
   U+7CA2
 F
   ==
-  - [[F2.34 粢]] ::[黍]稷曰粢::
+  - (F2.34 粢) ::[黍]稷曰粢::
   ==
 W
   ====
@@ -898,7 +898,7 @@ U
   U+80A2
 F
   ==
-  - [[F1.36 肢]] 四肢
+  - (F1.36 肢) 四肢
   ==
 W
   ====
@@ -918,7 +918,7 @@ W
   ====
 $$
 
-###+ 胝1 | _(1)Ch(i/)_ (zi1)
+###+ 胝1 | _(1)Ch(i/)_ [[zi1]]
 
 $$
 R
@@ -931,7 +931,7 @@ V
   ==
 F
   ==
-  - [[F1.36 胝 _(1)Ch(')(i/)_ (ci1)]] 皮厚也
+  - (F1.36 胝 _(1)Ch(')(i/)_ (ci1)) 皮厚也
   ==
 W
   ====
@@ -939,7 +939,7 @@ W
     ==
     - Thickened skin [[Kangxi: 腄也, 腁胝, 皮厚也]] on the hand;
     - growing callous;
-    - _[(4)]p(')(i/)n (1)[ch(i/)]_
+    - _~~(1)p(')(i/)n~~ ``(4)p(')(i/)n`` ~~(1)ch(')(i/)~~ ``(1)ch(i/)``_
         [[pin4 zi1 胼胝]],
         horny skin.
     ==
@@ -965,7 +965,7 @@ U
   U+80FE
 F
   ==
-  - [[F2.34 胾]] 切肉曰胾
+  - (F2.34 胾) 切肉曰胾
   ==
 W
   ====
@@ -989,7 +989,7 @@ U
   U+8102
 F
   ==
-  - [[F1.36 脂]] 膏也又胭脂
+  - (F1.36 脂) 膏也又胭脂
   ==
 W
   ====
@@ -1028,7 +1028,7 @@ U
   U+829D
 F
   ==
-  - [[F1.35 芝]] 芝蔴又芝蘭
+  - (F1.35 芝) 芝蔴又芝蘭
   ==
 W
   ====
@@ -1073,7 +1073,7 @@ A
   ==
 F
   ==
-  - [[F2.34 兹]] 此也
+  - (F2.34 兹) 此也
   ==
 W
   ====
@@ -1124,7 +1124,7 @@ A
   ==
 F
   ==
-  - [[F2.34 菑]] ::田一歲曰菑始反[草]也::
+  - (F2.34 菑) ::田一歲曰菑始反[草]也::
   ==
 W
   ====
@@ -1188,7 +1188,7 @@ A
   ==
 F
   ==
-  - [[F1.35 蜘]] 蜘蛛
+  - (F1.35 蜘) 蜘蛛
   ==
 W
   ====
@@ -1223,7 +1223,7 @@ W
   - [[Page~610 (1)蛓(1)螆]]
     ==
     - A louse, a nit;
-    - insects that [irritate] the skin;
+    - insects that ~~irritates~~ ``irritate`` the skin;
     - an itching, pickling;
     - _l(a/)i(3) (1)tsz'_
         [[laai3 zi1 癩螆]]
@@ -1231,10 +1231,10 @@ W
     - _yat(7) (1)shan (1)tsz'_
         [[jat1 san1 zi1 一身螆]]
         whole person is frowzy;
-    - _(1)[sh(a/)ng] (1)tsz' (2)kau_
+    - _~~(1)shang~~ ``(1)sh(a/)ng`` (1)tsz' (2)kau_
         [[saang1 zi1 gau2 生螆狗]],
         a mangy dog;
-    - _(1)[sh(a/)ng] (1)tsz' (2)kau (2)k(o\)m (1)sheng_
+    - _~~(1)shang~~ ``(1)sh(a/)ng`` (1)tsz' (2)kau (2)k(o\)m (1)sheng_
         [[saang1 zi1 gau2 gam2 seng1 生螆狗噉聲]],
         a peevish child, always whining for something to eat;
     - _(2)shui (1)tsz'_
@@ -1278,7 +1278,7 @@ U
   U+89DC
 F
   ==
-  - [[F2.34 觜]] 宿名
+  - (F2.34 觜) 宿名
   ==
 W
   ====
@@ -1298,7 +1298,7 @@ S
   ==
 $$
 
-###+ 訾1 | _(1)Tsz'_ (zi1)
+###+ 訾1 | _(1)Tsz'_ [[zi1]]
 
 $$
 R
@@ -1340,8 +1340,8 @@ U
   U+8AEE
 F
   ==
-  - [[F2.34 諮]] 詢也
-  - [[F2.34 咨]] 咨嗟咨謀
+  - (F2.34 諮) 詢也
+  - (F2.34 咨) 咨嗟咨謀
   ==
 W
   ====
@@ -1365,7 +1365,7 @@ A
   ==
 F
   ==
-  - [[F2.34 貲]] 財也貨也
+  - (F2.34 貲) 財也貨也
   ==
 W
   ====
@@ -1406,7 +1406,7 @@ A
   ==
 F
   ==
-  - [[F2.34 資]] 資財資藉
+  - (F2.34 資) 資財資藉
   ==
 W
   ====
@@ -1484,7 +1484,7 @@ A
   ==
 F
   ==
-  - [[F2.34 趦]] 趦趄行不進也
+  - (F2.34 趦) 趦趄行不進也
   ==
 W
   ====
@@ -1499,7 +1499,7 @@ W
   ====
 $$
 
-###+ 趦1 | _(1)Tsz'_ (zi1)
+###+ 趦1 | _(1)Tsz'_ [[zi1]]
 
 $$.
 R
@@ -1508,7 +1508,7 @@ U
   U+8DA6
 F
   ==
-  - [[F2.34 趦]] 趦趄行不進也
+  - (F2.34 趦) 趦趄行不進也
   ==
 W
   [[Not present]]
@@ -1531,7 +1531,7 @@ A
   ==
 F
   ==
-  - [[F2.34 ::[輜]::]] 車屬
+  - (F2.34 ::[輜]::) 車屬
   ==
 W
   ====
@@ -1572,7 +1572,7 @@ A
   ==
 F
   ==
-  - [[F2.34 錙]] 耕田之器又錙銖
+  - (F2.34 錙) 耕田之器又錙銖
   ==
 W
   ====
@@ -1604,7 +1604,7 @@ H
   depending on the font.
 F
   ==
-  - [[F2.34 鎡]] 鋤頭之屬
+  - (F2.34 鎡) 鋤頭之屬
   ==
 W
   ====
@@ -1625,7 +1625,7 @@ U
   U+9AED
 F
   ==
-  - [[F2.34 髭]] 鬚也在下曰鬚在上曰髭
+  - (F2.34 髭) 鬚也在下曰鬚在上曰髭
   ==
 W
   ====
@@ -1641,7 +1641,7 @@ W
 C
   ==
   - Williams' "beautiful, good-looking":
-    This is taking Kangxi 《釋名》髭姿也爲姿容之美也 as a standalone definition,
+    This is misreading Kangxi 《釋名》髭姿也爲姿容之美也 as a standalone definition,
     when it is intended as an homophony-definition of the "moustache" sense.
   ==
 $$
@@ -1655,20 +1655,19 @@ U
   U+9F12
 F
   ==
-  - [[F2.34 ::[鼒]::]] 小鼎
+  - (F2.34 ::[鼒]::) 小鼎
   ==
 W
   ====
   - [[Page~612 (1)鼒]]
     ==
     - A small round tripod [[Kangxi: 小鼎也]];
-    - a round lid ~~or cover of a~~ tripod [[Kangxi: 鼎之圜掩上者]].
+    - a round lid``ded`` or cover``ed`` ~~of a~~ tripod [[Kangxi: 鼎之圜掩上者]].
     ==
   ====
 C
   ==
   - Fan Wan entry: Corrected headword {𪔇=⿱木鼎} to 鼒.
-  - Williams' "round lid or cover": This should be "round-lidded or covered".
   ==
 $$
 
@@ -1730,7 +1729,7 @@ V
   ==
 F
   ==
-  - [[F2.35 仔]] 仔肩任也
+  - (F2.35 仔) 仔肩任也
   ==
 W
   ====
@@ -1773,10 +1772,10 @@ V
   ==
 F
   ==
-  - [[F1.39 止]] 息也定也但也
-  - [[F1.39 祗]] 敬也但也又音其
-  - [[F1.39 只]] 樂只君子
-  - [[F1.86 只 _Chat(7)_ (zat1)]] 專也又語詞
+  - (F1.39 止) 息也定也但也
+  - (F1.39 祗) 敬也但也又音其
+  - (F1.39 只) 樂只君子
+  - (F1.86 只 _Chat(7)_ (zat1)) 專也又語詞
   ==
 W
   ====
@@ -1784,7 +1783,7 @@ W
     ==
     - Only, merely;
     - but, however, yet;
-    - _chat(7) (2)h(o\) (2)k(o\)m ch(e/)[(3)]_
+    - _chat(7) (2)h(o\) (2)k(o\)m ~~(2)ch(e/)~~ ``ch(e/)(3)``_
         [[zat1 hou2 gam2 ze3 只好噉嗻]],
         this way alone;
     - _chat(7) tak(7)_
@@ -1850,14 +1849,14 @@ U
   U+5470
 F
   ==
-  - [[F2.35 呰]] ::呰短窳[弱]言短力弱才不能動作也::
+  - (F2.35 呰) ::呰短窳[弱]言短力弱才不能動作也::
   ==
 W
   ====
   - [[Page~613 (2)呰]]
     ==
     - ~~To molest, to be needlessly strict;~~
-    - to revile [[Kangxi: 苛也, 口毀也]];
+    - to revile``, to denigrate`` [[Kangxi: 苛也, 口毀也]];
     - weak [[Kangxi: 弱也]];
     - [[...]].
     ==
@@ -1885,14 +1884,14 @@ U
   U+54AB
 F
   ==
-  - [[F1.39 咫]] ::咫尺八[寸]曰咫::
+  - (F1.39 咫) ::咫尺八[寸]曰咫::
   ==
 W
   ====
   - [[Page~40|n83 (2)咫]]
     ==
     - An ancient short cubit of 8~_ts(')(u:)n_ [[寸]] [[Kangxi: 中婦人手長八寸謂之咫周尺也]],
-      same as an English foot;
+      ~~same as~~ ``similar to`` an English foot;
     - small degree of [[Kangxi: 咫言少也]];
     - _(2)ch(i/) ch(')ek(8) (1)ch(i/) t(i/)(6)_
         [[zi2 cek3 zi1 dei6 咫尺之地]]
@@ -1931,7 +1930,7 @@ A
   ==
 F
   ==
-  - [[F1.39 址]] 基址
+  - (F1.39 址) 基址
   ==
 W
   ====
@@ -1950,7 +1949,7 @@ P
   ++
 $$
 
-###+ 坁2 | _(2)Ch(i/)_ (zi2)
+###+ 坁2 | _(2)Ch(i/)_ [[zi2]]
 
 $$
 R
@@ -1973,7 +1972,7 @@ W
   ====
 $$
 
-###+ 坻2 | _(2)Ch(i/)_ (zi2)
+###+ 坻2 | _(2)Ch(i/)_ [[zi2]]
 
 $$.
 R
@@ -1996,7 +1995,7 @@ S
   ==
 $$
 
-###+ 姉2 | _(2)Tsz'_ (zi2)
+###+ 姉2 | _(2)Tsz'_ [[zi2]]
 
 $$.
 R
@@ -2026,7 +2025,7 @@ A
   ==
 F
   ==
-  - [[F2.35 姊]] 姐也女之長者曰姊
+  - (F2.35 姊) 姐也女之長者曰姊
   ==
 W
   ====
@@ -2061,7 +2060,7 @@ U
   U+5B50
 F
   ==
-  - [[F2.35 子]] 子嗣子息子者人之嘉稱故凡有德者稱之曰君子
+  - (F2.35 子) 子嗣子息子者人之嘉稱故凡有德者稱之曰君子
   ==
 W
   ====
@@ -2074,7 +2073,7 @@ W
     - seeds of plants;
     - a sage, a philosopher, a venerable and worthy man [[Kangxi: 子者人之嘉稱故凡成德謂之君子 etc.]];
     - Confucius;
-    - you, Sir, a term of address, ~~somewhat like comrades~~;
+    - you, Sir, a term of address~~, somewhat like comrades~~;
     - a degree of nobility, a viscount [[Kangxi: 公侯伯子男凡五等]];
     - the first of the twelve stems, denoted by the rat;
     - the third watch, from 11~P.~M. to 1~A.~M.;
@@ -2108,7 +2107,7 @@ W
         [[haau3 zi2 孝子]]
         a son in mourning;
         a dutiful son;
-    - _(2)tsz' [(5)]m(o\) (4)ts(')(i/)n_
+    - _(2)tsz' ~~(4)m(o\)~~ ``(5)m(o\)`` (4)ts(')(i/)n_
         [[zi2 mou5 cin4 子母錢]],
         cash marked with blood of mother and child;
     - _(1)s(i/)n (2)tsz'_
@@ -2169,8 +2168,8 @@ U
   U+5E0B
 F
   ==
-  - [[F1.39 ::[紙]::]] ::字[紙]::
-  - [[F1.39 帋]] 帋帛
+  - (F1.39 ::[紙]::) ::字[紙]::
+  - (F1.39 帋) 帋帛
   ==
 W
   ====
@@ -2185,7 +2184,7 @@ C
   ==
 $$
 
-###+ 徵2 | _(2)Ch(i/)_ (zi2)
+###+ 徵2 | _(2)Ch(i/)_ [[zi2]]
 
 $$
 R
@@ -2194,7 +2193,7 @@ U
   U+5FB5
 F
   ==
-  - [[F1.39 徵]] 五音之一
+  - (F1.39 徵) 五音之一
   ==
 W
   [[Not present]]
@@ -2219,7 +2218,7 @@ U
   U+6307
 F
   ==
-  - [[F1.39 指]] 手指又指示也
+  - (F1.39 指) 手指又指示也
   ==
 W
   ====
@@ -2227,13 +2226,13 @@ W
     ==
     - A finger [[Kangxi: 手指也 etc.]], a toe [[Kangxi: ::將指[...]足大指也::]];
     - to point, to refer to;
-    - ~~to teach~~, to command [[Kangxi: 指麾也]];
+    - ~~to teach, to command~~ ``to give directions`` [[Kangxi: 指麾也]];
     - ~~a particular, a mode;~~
     - to point out [[Kangxi: 示也]];
     - [[...]];
-    - _(2)ch(i/) (4)n(a/)m [(1)k(u:)]_
+    - _(2)ch(i/) (4)n(a/)m ~~(1)ch(')(e/)~~ ``(1)k(u:)``_
         [[zi2 naam4 geoi1 指南車]],
-        the compass;
+        the ~~compass~~ ``south-pointing chariot``;
     - _shap(9) (2)ch(i/) (4)t(')(a/)n (1)pang_
         [[sap6 zi2 taan4 bang1 十指彈崩]],
         to snap the fingers in vexation;
@@ -2283,7 +2282,6 @@ W
   ====
 C
   ==
-  - Williams' "to command": Better rendered "to give directions".
   - Williams' 指南車: Corrected _(1)ch(')(e/)_ (ce1) to _(1)k(u:)_ (geoi1).
     Strictly, this is the south-pointing chariot.
     The compass is now called 指南針.
@@ -2340,7 +2338,7 @@ A
   ==
 F
   ==
-  - [[F1.39 旨]] 意也甘也
+  - (F1.39 旨) 意也甘也
   ==
 W
   ====
@@ -2358,7 +2356,7 @@ W
         good liquor;
     - _(2)ch(i/) (i/)(3)_
         [[zi2 ji3 旨意]]
-        the import [of] the imperial will;
+        the import ``of`` the imperial will;
     - _shing(3) (2)ch(i/)_
         [[sing3 zi2 聖旨]],
         H.~I.~M.'s orders;
@@ -2391,7 +2389,7 @@ V
   ==
 F
   ==
-  - [[F1.39 枳]] ::枳[棘]又枳殼藥名::
+  - (F1.39 枳) ::枳[棘]又枳殼藥名::
   ==
 W
   ====
@@ -2399,17 +2397,17 @@ W
     ==
     - A hedge thorn, a spinous tree [[Kangxi: 木高多刺]];
     - a fruit like a pumelo, with a thick skin [[Kangxi: 木似橘]];
-    - hurtful [[Kangxi: 枳害也]], ~~like thorns~~;
+    - hurtful [[Kangxi: 枳害也]]~~, like thorns~~;
     - _(2)ch(i/) kik(7)_
         [[zi2 gik1 枳棘]]
         hedged up;
         thorny;
-    - _(2)ch(i/) [(2)]k(u:)_^
-        [[zi2 geoi6 枳椇]]
+    - _(2)ch(i/) ~~k(u:)(6)~~ ``(2)k(u:)``_^
+        [[zi2 geoi2 枳椇]]
         the _Hovenia dulcis_;
     - _(2)ch(i/) hok(8)_
         [[zi2 hok3 枳殼]]
-        ~~its seeds,~~ used for medicine.
+        ~~its seeds~~ ``the skin of the Chinese bitter orange``, used for medicine.
     ==
   ====
 C
@@ -2417,8 +2415,6 @@ C
   - Fan Wan entry: Normalised {𣗥=⿰束束} to 棘.
   - Williams' "hurtful": In the sense of "harmful".
   - Williams' 枳椇: Corrected _k(u:)(6)_ (geoi6) to _(2)k(u:)_ (geoi2).
-  - Williams' 枳殼: Not the seeds of _Hovenia dulcis_,
-    but the skin of the Chinese bitter orange.
   ==
 S
   ==
@@ -2435,7 +2431,7 @@ U
   U+6893
 F
   ==
-  - [[F2.35 梓]] 木名
+  - (F2.35 梓) 木名
   ==
 W
   ====
@@ -2456,7 +2452,7 @@ W
         printed by <`....`>;
     - ~~_(2)tsz' (4)t(')(a/)n_
         [[zi2 taan4 梓檀]],
-        a solid kind of black wood~~.
+        a solid kind of black wood.~~
     ==
   ====
 C
@@ -2478,7 +2474,7 @@ U
   U+6B62
 F
   ==
-  - [[F1.39 止]] 息也定也但也
+  - (F1.39 止) 息也定也但也
   ==
 W
   ====
@@ -2543,7 +2539,7 @@ U
   U+6C9A
 F
   ==
-  - [[F1.39 沚]] 沼也
+  - (F1.39 沚) 沼也
   ==
 W
   ====
@@ -2572,7 +2568,7 @@ V
   ==
 F
   ==
-  - [[F2.35 泲]] 水名
+  - (F2.35 泲) 水名
   ==
 W
   ====
@@ -2592,7 +2588,7 @@ C
   ==
 $$
 
-###+ 泚2 | _(2)Tsz'_ (zi2)
+###+ 泚2 | _(2)Tsz'_ [[zi2]]
 
 $$
 R
@@ -2630,7 +2626,7 @@ V
   ==
 F
   ==
-  - [[F2.35 滓]] 洒滓渣滓
+  - (F2.35 滓) 洒滓渣滓
   ==
 W
   ====
@@ -2705,7 +2701,7 @@ V
   ==
 F
   ==
-  - [[F1.39 祉]] 福祉
+  - (F1.39 祉) 福祉
   ==
 W
   ====
@@ -2731,7 +2727,7 @@ U
   U+7957
 F
   ==
-  - [[F1.39 祗]] 敬也但也又音其
+  - (F1.39 祗) 敬也但也又音其
   ==
 W
   ====
@@ -2762,7 +2758,7 @@ U
   U+79ED
 F
   ==
-  - [[F2.35 秭]] 數也十億曰兆十兆曰京十京曰秭
+  - (F2.35 秭) 數也十億曰兆十兆曰京十京曰秭
   ==
 W
   ====
@@ -2770,7 +2766,7 @@ W
     ==
     - A stack of corn;
     - ~~to number;~~
-    - ~~the ninth place in notation[,] a hundred [million];~~
+    - ~~the ninth place in notation``,`` a hundred millions;~~
     - a weight of 640~peculs [[Kangxi: 六萬四千斤也]].
     ==
   ====
@@ -2813,8 +2809,8 @@ A
   ==
 F
   ==
-  - [[F1.39 ::[紙]::]] ::字[紙]::
-  - [[F1.39 帋]] 帋帛
+  - (F1.39 ::[紙]::) ::字[紙]::
+  - (F1.39 帋) 帋帛
   ==
 W
   ====
@@ -2906,13 +2902,13 @@ U
   U+7D2B
 F
   ==
-  - [[F2.35 紫]] 黑赤間色也
+  - (F2.35 紫) 黑赤間色也
   ==
 W
   ====
   - [[Page~613 (2)紫]]
     ==
-    - A reddish blue [[Kangxi: 帛靑赤色]], ~~a clay color~~, a nankeen tint;
+    - A reddish blue [[Kangxi: 帛靑赤色]], ~~a clay color,~~ a nankeen tint;
     - ~~a fugacious, undecided hue;~~
     - _(2)tsz' (4)t(')ong shik(7)_
         [[zi2 tong4 sik1 紫棠色]]
@@ -2965,13 +2961,13 @@ U
   U+8014
 F
   ==
-  - [[F2.35 耔]] 農人壅禾根也
+  - (F2.35 耔) 農人壅禾根也
   ==
 W
   ====
   - [[Page~612 (2)耔]]
     ==
-    - To ~~weed and hoe~~ earth around the roots of plants, to hill [[Kangxi: 壅苗本也]].
+    - To ~~weed and hoe~~ ``heap`` earth around the roots of plants, to hill [[Kangxi: 壅苗本也]].
     ==
   ====
 $$
@@ -2985,7 +2981,7 @@ U
   U+80CF
 F
   ==
-  - [[F2.35 胏]] 乾肉之帶骨者
+  - (F2.35 胏) 乾肉之帶骨者
   ==
 W
   ====
@@ -3004,7 +3000,7 @@ C
   ==
 $$
 
-###+ 衹2 | _(2)Ch(i/)_ (zi2)
+###+ 衹2 | _(2)Ch(i/)_ [[zi2]]
 
 $$.
 R
@@ -3025,7 +3021,7 @@ S
   ==
 $$
 
-###+ 訾2 | _(2)Tsz'_ (zi2)
+###+ 訾2 | _(2)Tsz'_ [[zi2]]
 
 $$
 R
@@ -3034,7 +3030,7 @@ U
   U+8A3E
 F
   ==
-  - [[F2.34 訾 _(1)Ts(')z'_ (ci1)]] 詆也誚也
+  - (F2.34 訾 _(1)Ts(')z'_ (ci1)) 詆也誚也
   ==
 W
   ====
@@ -3072,7 +3068,7 @@ A
   ==
 F
   ==
-  - [[F1.39 趾]] 脚趾
+  - (F1.39 趾) 脚趾
   ==
 W
   ====
@@ -3118,15 +3114,11 @@ W
   ====
   - [[Page~40|n83 (2)軹]]
     ==
-    - The hole in the hub of a wheel [[Kangxi: 車輪小穿]], ~~[where] the nave projects~~;
-    - the end ~~of the nave~~ projecting from the hub [[Kangxi: 軹指也如指而見于轂頭也, 軹謂轊頭也]];
+    - The hole in the hub of a wheel [[Kangxi: 車輪小穿]], w``h``ere the ~~nave~~ ``axle`` projects;
+    - the end of the ~~nave~~ ``axle`` projecting from the hub [[Kangxi: 軹指也如指而見于轂頭也, 軹謂轊頭也]];
     - diverging, like the forks of a road [[Kangxi: 岐也]].
     ==
   ====
-C
-  ==
-  - Williams' "nave": Both occurrences of "nave" should be "axle".
-  ==
 $$
 
 ### 阯2 | _(2)Ch(i/)_ [[zi2]]
@@ -3142,7 +3134,7 @@ A
   ==
 F
   ==
-  - [[F1.39 阯]] 交阯夷國名
+  - (F1.39 阯) 交阯夷國名
   ==
 W
   ====
@@ -3193,7 +3185,7 @@ P
 $$
 
 
-##{#3 .williams} Ch(i/)(3) <ins class="modern">Tsz'(3)</ins> [[zi3 陰去]]
+##{#3 .williams} Ch(i/)(3) ``Tsz'(3)`` [[zi3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">
@@ -3262,8 +3254,8 @@ H
   depending on the font.
 F
   ==
-  - [[F1.41 置]] 立也又安厝也又棄也
-  - [[F1.41 寘]] 同上
+  - (F1.41 置) 立也又安厝也又棄也
+  - (F1.41 寘) 同上
   ==
 W
   ====
@@ -3283,7 +3275,7 @@ U
   U+5FD7
 F
   ==
-  - [[F1.41 志]] 心之所之也
+  - (F1.41 志) 心之所之也
   ==
 W
   ====
@@ -3312,7 +3304,7 @@ W
   ====
 $$
 
-###+ 恣3 | _Tsz'(3)_ (zi3)
+###+ 恣3 | _Tsz'(3)_ [[zi3]]
 
 $$
 R
@@ -3325,21 +3317,21 @@ V
   ==
 F
   ==
-  - [[F2.35 恣(3) _Ts(')z'(3)_ (ci3)]] 縱恣無忌
+  - (F2.35 恣(3) _Ts(')z'(3)_ (ci3)) 縱恣無忌
   ==
 W
   ====
-  - [[Page~617 恣(3) _Ts(')z'(3)_ (ci3); here normalised to _Tsz'(3)_ (zi3)]]
+  - [[Page~617 恣(3) _Ts(')z'(3)_ (ci3)]]
     ==
     - Relaxation, dissipation;
     - licentious, gay, loose [[Kangxi: 縱也]];
     - to follow one's passions, to throw off all restraint [[Kangxi: 恣謂狡㹟淫戲不以禮也]];
-    - _fong(3) [tsz'](3)_
-        [[fong3 zi3 放恣]]
+    - _fong(3) ts(')z'(3)_
+        [[fong3 ci3 放恣]]
         profligate, dissipated;
         to give the rein to one's lusts;
-    - _tsung(3) [tsz'](3)_
-        [[zung3 zi3 縱恣]]
+    - _tsung(3) ts(')z'(3)_
+        [[zung3 ci3 縱恣]]
         unrestrained.
     ==
   ====
@@ -3349,7 +3341,7 @@ S
   ==
 $$
 
-###+ 懥3 | _Ch(i/)(3)_ (zi3)
+###+ 懥3 | _Ch(i/)(3)_ [[zi3]]
 
 $$
 R
@@ -3362,23 +3354,19 @@ V
   ==
 F
   ==
-  - [[F1.42 懥 _Ch(')(i/)(3)_ (ci3)]] 忿恨怒也
+  - (F1.42 懥 _Ch(')(i/)(3)_ (ci3)) 忿恨怒也
   ==
 W
   ====
   - [[Page~12* 懥(3) _Ch(')(i/)(3)_ (ci3); here normalised to _Ch(i/)(3)_ (zi3)]]
     ==
-    - ~~Vexation, irritated;~~
+    - ~~Vexation, irritated~~ ``Angry`` [[Kangxi: 怒也]];
     - hatred;
-    - _(5)fan [ch(i/)](3)_
+    - _(5)fan ~~ch(')(i/)(3)~~ ``ch(i/)(3)``_
         [[fan5 zi3 忿懥]]
         enraged, in a great anger.
     ==
   ====
-P
-  ++
-  1. Angry (Kangxi: 怒也).
-  ++
 S
   ==
   - $懥ci3
@@ -3394,7 +3382,7 @@ U
   U+646F
 F
   ==
-  - [[F1.41 摯]] 至也又握持也又絆其足也
+  - (F1.41 摯) 至也又握持也又絆其足也
   ==
 W
   ====
@@ -3404,7 +3392,7 @@ W
     - to arrive at, to reach to [[Kangxi: 一曰至也, 臻也]];
     - ~~to extend;~~
     - [[...]];
-    - to advance [[Kangxi: 進也]], ~~to enter, to go to the edge~~;
+    - to advance [[Kangxi: 進也]]~~, to enter, to go to the edge~~;
     - to break down [[Kangxi: 傷折也]], as trees from weight of snow;
     - [[...]];
     - _(4)ts(')ing ch(i/)(3)_
@@ -3444,7 +3432,7 @@ A
   ==
 F
   ==
-  - [[F1.41 智]] 心之明哲能辨道理也
+  - (F1.41 智) 心之明哲能辨道理也
   ==
 W
   ====
@@ -3456,7 +3444,7 @@ W
     ==
   - [[Page~9* 智(3)]]
     ==
-    - Wisdom, understanding [[Kangxi: 智知也無所不知也]], ~~talent~~;
+    - Wisdom, understanding [[Kangxi: 智知也無所不知也]]~~, talent~~;
     - knowledge;
     - prudence;
     - wise, considerate, discreet;
@@ -3475,7 +3463,7 @@ W
   ====
 $$
 
-###+ 植3 | _Ch(i/)(3)_ (zi3)
+###+ 植3 | _Ch(i/)(3)_ [[zi3]]
 
 $$.
 R
@@ -3501,7 +3489,7 @@ S
   ==
 $$
 
-###+ 漬3 | _Tsz'(3)_ (zi3)
+###+ 漬3 | _Tsz'(3)_ [[zi3]]
 
 $$
 R
@@ -3524,7 +3512,7 @@ W
     - To soak, to steep [[Kangxi: 漚也]];
     - to dye [[Kangxi: 染也]];
     - water-soaked, moldy, damaged by soaking;
-    - _tsam(3) tsz'[(3)]_
+    - _tsam(3) ~~tsz'~~ ``tsz'(3)``_
         [[zam3 zi3 浸漬]]
         under water;
     - [[...]].
@@ -3545,7 +3533,7 @@ U
   U+7590
 F
   ==
-  - [[F1.41 疐]] ::[礙]不行也::
+  - (F1.41 疐) ::[礙]不行也::
   ==
 W
   ====
@@ -3580,7 +3568,7 @@ A
   ==
 F
   ==
-  - [[F1.41 痣]] 疤痣
+  - (F1.41 痣) 疤痣
   ==
 W
   ====
@@ -3595,7 +3583,7 @@ W
   ====
 $$
 
-###+ 知3 | _Ch(i/)(3)_ (zi3)
+###+ 知3 | _Ch(i/)(3)_ [[zi3]]
 
 $$.
 R
@@ -3634,7 +3622,7 @@ V
   ==
 F
   ==
-  - [[F1.41 緻]] 精緻
+  - (F1.41 緻) 精緻
   ==
 W
   ====
@@ -3679,8 +3667,8 @@ A
   ==
 F
   ==
-  - [[F1.41 置]] 立也又安厝也又棄也
-  - [[F1.41 寘]] 同上
+  - (F1.41 置) 立也又安厝也又棄也
+  - (F1.41 寘) 同上
   ==
 W
   ====
@@ -3732,7 +3720,7 @@ P
   ++
 $$
 
-###+ 胾3 | _Ch(i/)(3)_ (zi3)
+###+ 胾3 | _Ch(i/)(3)_ [[zi3]]
 
 $$
 R
@@ -3745,7 +3733,7 @@ V
   ==
 F
   ==
-  - [[F2.34 胾 _(1)Tsz'_ (zi1)]] 切肉曰胾
+  - (F2.34 胾 _(1)Tsz'_ (zi1)) 切肉曰胾
   ==
 W
   ====
@@ -3770,7 +3758,7 @@ U
   U+81F3
 F
   ==
-  - [[F1.41 至]] 到也極也
+  - (F1.41 至) 到也極也
   ==
 W
   ====
@@ -3781,7 +3769,7 @@ W
     - a preposition, to, at, even, till, up to;
     - as to, respecting, in order to;
     - ~~an adverb, much, greatly;~~
-    - most, ~~very~~, the superlative degree [[Kangxi: 極也, 至謂至極也]];
+    - most, ~~very,~~ the superlative degree [[Kangxi: 極也, 至謂至極也]];
     - the solstice [[Kangxi: 冬至隂之復也夏至陽之復也]];
     - the 133d~radical [["arrive"]];
     - _ch(i/)(3) kik(9)_
@@ -3814,7 +3802,7 @@ W
     - _ch(i/)(3) (2)h(o\)_
         [[zi3 hou2 至好]],
         the best;
-    - _ch(i/)(3) ch(e/)uk[(9)]_
+    - _ch(i/)(3) ~~ch(e/)uk(8)~~ ``ch(e/)uk(9)``_
         [[zi3 zoek6 至着]]
         everything proper;
     - _ch(i/)(3) (4)shing_
@@ -3859,7 +3847,7 @@ U
   U+81F4
 F
   ==
-  - [[F1.41 致]] 使也又到也極也推也
+  - (F1.41 致) 使也又到也極也推也
   ==
 W
   ====
@@ -3885,7 +3873,7 @@ W
     - that, in order to;
     - to put forth;
     - ~~the extreme;~~
-    - _ch(i/)(3) [(2)]shai (5)k(')(u:) (4)loi_
+    - _ch(i/)(3) ~~shai(3)~~ ``(2)shai`` (5)k(')(u:) (4)loi_
         [[zi3 sai2 keoi5 loi4 致使佢來]],
         make him come;
     - _ch(i/)(3) (i/)(3)_
@@ -3917,7 +3905,7 @@ P
   ++
 $$
 
-###+ 菑3 | _Ch(i/)(3)_ _Tsz'(3)_ (zi3)
+###+ 菑3 | _Ch(i/)(3)_ _Tsz'(3)_ [[zi3]]
 
 $$
 R
@@ -3969,7 +3957,7 @@ U
   U+89F6
 F
   ==
-  - [[F1.41 觶]] 酒器實曰觴虛曰觶
+  - (F1.41 觶) 酒器實曰觴虛曰觶
   ==
 W
   ====
@@ -3980,10 +3968,6 @@ W
     - ~~to fine one so many cups.~~
     ==
   ====
-C
-  ==
-  - Williams' "fine": Better rendered "punish ... with".
-  ==
 P
   ++
   1. To punish with drink in a drinking game (Kangxi: 罰爵也).
@@ -4004,8 +3988,8 @@ A
   ==
 F
   ==
-  - [[F1.41 誌]] 記也
-  - [[F1.41 識]] 同上
+  - (F1.41 誌) 記也
+  - (F1.41 識) 同上
   ==
 W
   ====
@@ -4051,8 +4035,8 @@ U
   U+8B58
 F
   ==
-  - [[F1.41 誌]] 記也
-  - [[F1.41 識]] 同上
+  - (F1.41 誌) 記也
+  - (F1.41 識) 同上
   ==
 W
   ====
@@ -4076,7 +4060,7 @@ U
   U+8CEA
 F
   ==
-  - [[F1.41 質]] 留人爲當以要信也
+  - (F1.41 質) 留人爲當以要信也
   ==
 W
   ====
@@ -4115,7 +4099,7 @@ A
   ==
 F
   ==
-  - [[F1.41 贄]] 初相見之禮物或玉帛或禽鳥
+  - (F1.41 贄) 初相見之禮物或玉帛或禽鳥
   ==
 W
   ====
@@ -4155,7 +4139,7 @@ A
   ==
 F
   ==
-  - [[F1.41 躓]] 顚蹶
+  - (F1.41 躓) 顚蹶
   ==
 W
   ====
@@ -4179,7 +4163,7 @@ U
   U+8F0A
 F
   ==
-  - [[F1.41 輊]] 車之覆而前也
+  - (F1.41 輊) 車之覆而前也
   ==
 W
   ====
@@ -4191,7 +4175,7 @@ W
   ====
 $$
 
-###+ 輜3 | _Ch(i/)(3)_ (zi3)
+###+ 輜3 | _Ch(i/)(3)_ [[zi3]]
 
 $$
 R
@@ -4217,22 +4201,17 @@ W
     --
   - [[Page~611 (1)輜 _(1)Tsz'_ (zi1); here corrected to _Ch(i/)(3)_ (zi3)]]
     ==
-    - ~~End of the axle~~ within the nave [[Kangxi: 車輻入牙曰輜, 與葘通, 葘謂輻入轂中者也]];
+    - ~~End of the axle within~~ ``Spokes going into`` the nave [[Kangxi: 車輻入牙曰輜, 與葘通, 葘謂輻入轂中者也]];
     - [[...]].
     ==
   ====
-C
-  ==
-  - Williams' "End of the axle": Not quite.
-    Better rendered as "spokes going into the nave".
-  ==
 S
   ==
   - $輜zi1
   ==
 $$
 
-### [鷙]3 | _Ch(i/)(3)_ [[zi3]]
+### ~~{？=⿱⿰辛丸鳥}~~``鷙``3 | _Ch(i/)(3)_ [[zi3]]
 
 $$
 R
@@ -4245,11 +4224,11 @@ A
   ==
 F
   ==
-  - [[F1.41 鷙]] 惡鳥
+  - (F1.41 鷙) 惡鳥
   ==
 W
   ====
-  - [[Page~9* ::[鷙](3)::]]
+  - [[Page~9* ::~~{？=⿱⿰辛丸鳥}~~``鷙``(3)::]]
     ==
     - Birds of prey, accipitrine birds [[Kangxi: 擊殺鳥也, 猛鳥也]];
     - violent, ruthless, hawklike [[Kangxi: 又凡鳥之勇獸之猛者皆曰鷙]];
@@ -4258,7 +4237,6 @@ W
   ====
 C
   ==
-  - Williams misprints 鷙 as ⿱⿰辛丸鳥; here corrected.
   - Williams' "to seize by violence": This is a misreading of Kangxi 鷙執也.
     This describes the "bird-of-prey" sense as "[a bird that] seizeth".
     It does not define a verb.
@@ -4321,7 +4299,7 @@ V
   ==
 F
   ==
-  - [[F2.35 伺]] 窺竊也候也
+  - (F2.35 伺) 窺竊也候也
   ==
 W
   ====
@@ -4349,7 +4327,7 @@ A
   ==
 F
   ==
-  - [[F2.35 俟]] 待也候也
+  - (F2.35 俟) 待也候也
   ==
 W
   ====
@@ -4394,7 +4372,7 @@ U
   U+5024
 F
   ==
-  - [[F1.34 値 _Chai(6)_ (zai6)]] 遇也當也又音直作價值
+  - (F1.34 値 _Chai(6)_ (zai6)) 遇也當也又音直作價值
   ==
 W
   ====
@@ -4409,7 +4387,7 @@ S
   ==
 $$
 
-###+ 值6 | _Ch(i/)(6)_ (zi6)
+###+ 值6 | _Ch(i/)(6)_ [[zi6]]
 
 $$
 R
@@ -4422,7 +4400,7 @@ A
   ==
 F
   ==
-  - [[F1.34 値 _Chai(6)_ (zai6)]] 遇也當也又音直作價值
+  - (F1.34 値 _Chai(6)_ (zai6)) 遇也當也又音直作價值
   ==
 W
   ====
@@ -4456,7 +4434,7 @@ U
   U+55E3
 F
   ==
-  - [[F2.35 嗣]] 子息也繼也
+  - (F2.35 嗣) 子息也繼也
   ==
 W
   ====
@@ -4505,7 +4483,7 @@ U
   U+5B57
 F
   ==
-  - [[F2.35 字]] 文字女子嫁人亦曰字又撫也愛也慈也乳也生也
+  - (F2.35 字) 文字女子嫁人亦曰字又撫也愛也慈也乳也生也
   ==
 W
   ====
@@ -4517,7 +4495,7 @@ W
     - a word, a symbol of thought;
     - to bear, to nourish, to love, to suckle [[Kangxi: 乳也又愛也]];
     - the style or title [[Kangxi: 名字, 男子二十冠而字]] ~~taken at marriage~~ [[Kangxi: 女子許嫁筓而字]];
-    - ~~a name~~, a designation;
+    - ~~a name,~~ a designation;
     - to betroth a daughter [[Kangxi: 女許嫁曰字]];
     - _(2)s(e/) tsz'(6)_
         [[se2 zi6 寫字]]
@@ -4604,7 +4582,7 @@ E
   ====
 $$
 
-###+ 孳6 | _Tsz'(6)_ (zi6)
+###+ 孳6 | _Tsz'(6)_ [[zi6]]
 
 $$
 R
@@ -4629,7 +4607,7 @@ S
   ==
 $$
 
-###+ 孶6 | _Tsz'(6)_ (zi6)
+###+ 孶6 | _Tsz'(6)_ [[zi6]]
 
 $$.
 R
@@ -4667,8 +4645,8 @@ V
   ==
 F
   ==
-  - [[F2.36 寺]] 僧舍也又官名如大理寺之類又寺人閹宦也
-  - [[F2.36 䦙]] 亦作寺閹宦也
+  - (F2.36 寺) 僧舍也又官名如大理寺之類又寺人閹宦也
+  - (F2.36 䦙) 亦作寺閹宦也
   ==
 W
   ====
@@ -4720,7 +4698,7 @@ U
   U+5DF3
 F
   ==
-  - [[F2.36 巳]] 時辰也
+  - (F2.36 巳) 時辰也
   ==
 W
   ====
@@ -4745,7 +4723,7 @@ V
   ==
 F
   ==
-  - [[F1.43 ::[彘]::]] 豬母也
+  - (F1.43 ::[彘]::) 豬母也
   ==
 W
   ====
@@ -4754,8 +4732,8 @@ W
     - A sow, a pig [[Kangxi: 豕也, 豬也]];
     - _(4)yan ch(i/)(6)_
         [[jan4 zi6 人彘]]
-        ~~a corpse cut to pieces~~,
-        alludes to a speech of ~~a princess of~~ the H(a/)n [[漢]] dynasty.
+        ~~a corpse cut to pieces,~~
+        alludes to a ~~speech of a princess~~ ``designation made by an empress`` of the H(a/)n [[漢]] dynasty.
     ==
   ====
 C
@@ -4774,7 +4752,7 @@ C
   ==
 $$
 
-###+ 植6 | _Ch(i/)(6)_ (zi6)
+###+ 植6 | _Ch(i/)(6)_ [[zi6]]
 
 $$.
 R
@@ -4812,7 +4790,7 @@ V
   ==
 F
   ==
-  - [[F1.43 治]] 理也平也
+  - (F1.43 治) 理也平也
   ==
 W
   ====
@@ -4902,7 +4880,7 @@ U
   U+6D98
 F
   ==
-  - [[F2.35 ::[涘]::]] 水涯又音哀
+  - (F2.35 ::[涘]::) 水涯又音哀
   ==
 W
   ====
@@ -4930,7 +4908,7 @@ U
   U+7278
 F
   ==
-  - [[F2.36 牸]] 牝牛
+  - (F2.36 牸) 牝牛
   ==
 W
   ====
@@ -4954,7 +4932,7 @@ U
   U+75D4
 F
   ==
-  - [[F1.43 痔]] 痔瘡
+  - (F1.43 痔) 痔瘡
   ==
 W
   ====
@@ -4984,7 +4962,7 @@ C
   ==
 $$
 
-###+ 眥6 | _Tsz'(6)_ (zi6)
+###+ 眥6 | _Tsz'(6)_ [[zi6]]
 
 $$
 R
@@ -5001,8 +4979,8 @@ V
   ==
 F
   ==
-  - [[F2.35 眥 _Ts(')z'(3)_ (ci3)]] 目際也
-  - [[F2.35 眦 _Ts(')z'(3)_ (ci3)]] 同上
+  - (F2.35 眥 _Ts(')z'(3)_ (ci3)) 目際也
+  - (F2.35 眦 _Ts(')z'(3)_ (ci3)) 同上
   ==
 W
   ====
@@ -5028,13 +5006,13 @@ U
   U+7940
 F
   ==
-  - [[F2.36 祀]] 祭祀
+  - (F2.36 祀) 祭祀
   ==
 W
   ====
   - [[Page~614 祀(6)]]
     ==
-    - To sacrifice to gods ~~or devils~~, to offer sacrifices [[Kangxi: 祭也]];
+    - To sacrifice to gods or ~~devils~~ ``ancestral spirits``, to offer sacrifices [[Kangxi: 祭也]];
     - sacrificial;
     - a sacrifice;
     - a year [[Kangxi: 年也]];
@@ -5053,11 +5031,6 @@ W
         to worship ancestors.
     ==
   ====
-C
-  ==
-  - Williams' "devils": This is a poor choice of wording.
-    A better choice would be "ancestral spirits" or "ghosts".
-  ==
 $$
 
 ### 稚6 | _Ch(i/)(6)_ [[zi6]]
@@ -5074,8 +5047,8 @@ A
   ==
 F
   ==
-  - [[F1.43 稚]] 幼小之稱
-  - [[F1.43 穉]] 同上
+  - (F1.43 稚) 幼小之稱
+  - (F1.43 穉) 同上
   ==
 W
   ====
@@ -5106,8 +5079,8 @@ U
   U+7A49
 F
   ==
-  - [[F1.43 稚]] 幼小之稱
-  - [[F1.43 穉]] 同上
+  - (F1.43 稚) 幼小之稱
+  - (F1.43 穉) 同上
   ==
 W
   ====
@@ -5154,7 +5127,7 @@ V
   ==
 F
   ==
-  - [[F2.36 笥]] 竹筒
+  - (F2.36 笥) 竹筒
   ==
 W
   ====
@@ -5188,7 +5161,7 @@ V
   ==
 F
   ==
-  - [[F2.36 ::[耜]::]] ::耒[耜]耕田所以起土者::
+  - (F2.36 ::[耜]::) ::耒[耜]耕田所以起土者::
   ==
 W
   ====
@@ -5214,7 +5187,7 @@ U
   U+81EA
 F
   ==
-  - [[F2.35 自]] ::自[己]獨也從來也由也::
+  - (F2.35 自) ::自[己]獨也從來也由也::
   ==
 W
   ====
@@ -5280,7 +5253,7 @@ W
     - _tsz'(6) shik(9) tsz'(6)_
         [[zi6 sik6 zi6 自食自]]
         I find my own food;
-    - _tsz'(6) (4)loi [(2)]ko (4)sh(i/)_
+    - _tsz'(6) (4)loi ~~ko(3)~~ ``(2)ko`` (4)sh(i/)_
         [[zi6 loi4 go2 si4 自來嗰時]],
         ever since that time;
     - _tsz'(6) (1)ch(i/) t(')(a/)i(3) kwo(3)_
@@ -5299,7 +5272,7 @@ P
   ++
 $$
 
-### 豸6 | _Ch(i/)[(6)]_ [[zi6]]
+### 豸6 | _~~(2)Ch(i/)~~ ``Ch(i/)(6)``_ [[zi6]]
 
 $$
 R
@@ -5308,7 +5281,7 @@ U
   U+8C78
 F
   ==
-  - [[F2.29 豸 _Ch(a/)i(6)_ (zaai6)]] 蟲豸有足曰蟲無足曰豸又獬豸
+  - (F2.29 豸 _Ch(a/)i(6)_ (zaai6)) 蟲豸有足曰蟲無足曰豸又獬豸
   ==
 W
   ====
@@ -5317,19 +5290,15 @@ W
     [[...]]
     --
     --
-    Read _ch(i/)[(6)]_ [[zi6]];
+    Read _~~(2)ch(i/)~~ ``ch(i/)(6)``_ [[zi6]];
     --
     ==
-    - the 153d~radical [["badger"]] of characters of ~~feline~~ beasts;
+    - the 153d~radical [["badger"]] of characters of ~~feline~~ ``long-backed`` beasts ``ready to pounce`` [[Kangxi: ::獸長[脊]行豸豸然欲有所司殺形::]];
     - a worm, a hairless grub [[Kangxi: 有足謂之蟲無足謂之豸]].
     ==
   ====
 C
   ==
-  - Williams' "Read [...]":
-    Corrected _(2)ch(i/)_ (zi2) to _ch(i/)(6)_ (zi6).
-  - Williams' "feline beasts": Not feline beasts, but long-backed beasts
-    ready to pounce (Kangxi: ::獸長[脊]行豸豸然欲有所司殺形::).
   - Williams' "a worm, a hairless grub": Or, legless animals more generally.
   ==
 S
@@ -5338,7 +5307,7 @@ S
   ==
 $$
 
-###+ 遲6 | _Ch(i/)(6)_ (zi6)
+###+ 遲6 | _Ch(i/)(6)_ [[zi6]]
 
 $$
 R
@@ -5371,7 +5340,7 @@ U
   U+4999
 F
   ==
-  - [[F2.36 䦙]] 亦作寺閹宦也
+  - (F2.36 䦙) 亦作寺閹宦也
   ==
 W
   ====
@@ -5391,7 +5360,7 @@ U
   U+96C9
 F
   ==
-  - [[F1.43 雉]] 野雞
+  - (F1.43 雉) 野雞
   ==
 W
   ====
@@ -5443,7 +5412,7 @@ A
   ==
 F
   ==
-  - [[F2.35 食]] ::以食[餵]物曰食又飯也::
+  - (F2.35 食) ::以食[餵]物曰食又飯也::
   ==
 W
   ====
@@ -5506,7 +5475,7 @@ A
   ==
 F
   ==
-  - [[F2.35 飼]] 以食食人也
+  - (F2.35 飼) 以食食人也
   ==
 W
   ====

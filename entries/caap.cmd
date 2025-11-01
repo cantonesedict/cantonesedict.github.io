@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caap
-* %date-modified --> 2025-07-22
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -58,8 +58,8 @@ U
   U+6271
 F
   ==
-  - [[F2.66 挿]] ::以手[刺]人::
-  - [[F2.66 扱]] 同上
+  - (F2.66 挿) ::以手[刺]人::
+  - (F2.66 扱) 同上
   ==
 W
   ====
@@ -84,7 +84,7 @@ S
   ==
 $$
 
-###+ 挿3 | _Ch(')(a/)p(8)_ (caap3)
+###+ 挿3 | _Ch(')(a/)p(8)_ [[caap3]]
 
 $$.
 R
@@ -93,8 +93,8 @@ U
   U+633F
 F
   ==
-  - [[F2.66 挿]] ::以手[刺]人::
-  - [[F2.66 扱]] 同上
+  - (F2.66 挿) ::以手[刺]人::
+  - (F2.66 扱) 同上
   ==
 W
   [[Not present]]
@@ -108,7 +108,7 @@ P
   ++
 $$
 
-###+ 插3 | _Ch(')(a/)p(8)_ (caap3)
+###+ 插3 | _Ch(')(a/)p(8)_ [[caap3]]
 
 $$
 R
@@ -122,8 +122,8 @@ A
   ==
 F
   ==
-  - [[F2.66 挿]] ::以手[刺]人::
-  - [[F2.66 扱]] 同上
+  - (F2.66 挿) ::以手[刺]人::
+  - (F2.66 扱) 同上
   ==
 W
   ====

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cip
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -55,7 +55,7 @@ U
   U+59BE
 F
   ==
-  - [[F2.51 妾]] 次妻曰妾
+  - (F2.51 妾) 次妻曰妾
   ==
 W
   ====

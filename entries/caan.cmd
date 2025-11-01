@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caan
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -62,8 +62,8 @@ U
   U+98E1
 F
   ==
-  - [[F2.67 餐]] 熟食也
-  - [[F2.67 飡]] 同上
+  - (F2.67 餐) 熟食也
+  - (F2.67 飡) 同上
   ==
 W
   ====
@@ -87,8 +87,8 @@ A
   ==
 F
   ==
-  - [[F2.67 餐]] 熟食也
-  - [[F2.67 飡]] 同上
+  - (F2.67 餐) 熟食也
+  - (F2.67 飡) 同上
   ==
 W
   ====
@@ -167,8 +167,8 @@ U
   U+5257
 F
   ==
-  - [[F2.69 剷]] 削平也
-  - [[F2.69 剗]] 同上
+  - (F2.69 剷) 削平也
+  - (F2.69 剗) 同上
   ==
 W
   ====
@@ -197,8 +197,8 @@ A
   ==
 F
   ==
-  - [[F2.69 剷]] 削平也
-  - [[F2.69 剗]] 同上
+  - (F2.69 剷) 削平也
+  - (F2.69 剗) 同上
   ==
 W
   ====
@@ -249,7 +249,7 @@ U
   U+5D7C
 F
   ==
-  - [[F2.69 嵼]] {𡾰=⿰山蹇}嵼山屈曲貌
+  - (F2.69 嵼) {𡾰=⿰山蹇}嵼山屈曲貌
   ==
 W
   ====
@@ -272,7 +272,7 @@ U
   U+7522
 F
   ==
-  - [[F2.69 產]] 生業也又生產
+  - (F2.69 產) 生業也又生產
   ==
 W
   ====
@@ -288,10 +288,10 @@ W
     - a birth, act of parturition [[Kangxi: 婦生子曰產]];
     - _(2)p(o\) (2)ch(')(a/)n_
         [[bou2 caan2 保產]],
-        a strengthening pill;
+        a strengthening pill`` for pregnancy``;
     - _(2)si(u/) (2)ch(')(a/)n_
         [[siu2 caan2 小產]],
-        an abortion;
+        ~~an~~ ``a spontaneous`` abortion;
     - _(1)fan (2)ch(')(a/)n_
         [[fan1 caan2 分產]]^
         to divide the patrimony;
@@ -306,7 +306,7 @@ W
         family possessions;
     - _(2)t(')(o\) (2)ch(')(a/)n_
         [[tou2 caan2 土產]],
-        productions;
+        ``native ``productions;
     - _(1)k(')ing (1)k(a/) p(a/)i(6) (2)ch(')(a/)n_
         [[king1 gaa1 baai6 caan2 傾家敗產]]^
         the family lost everything.
@@ -314,9 +314,7 @@ W
   ====
 C
   ==
-  - Williams' 保產: Specifically, a strengthening pill for pregnancy.
-  - Williams' 小產: Specifically, a *spontaneous* abortion, now called a miscarriage.
-  - Williams' 土產: Specifically, native produce.
+  - Williams' 小產: Now called a miscarriage.
   ==
 $$
 
@@ -333,7 +331,7 @@ A
   ==
 F
   ==
-  - [[F2.69 鏟]] 平木之器
+  - (F2.69 鏟) 平木之器
   ==
 W
   ====
@@ -395,7 +393,7 @@ U
   U+71E6
 F
   ==
-  - [[F2.70 燦]] 光明也
+  - (F2.70 燦) 光明也
   ==
 W
   ====
@@ -428,8 +426,8 @@ E
   ====
 $$
 
-[網中人]: https://en.wikipedia.org/wiki/The_Good,_the_Bad_and_the_Ugly_(TV_series)
-[阿燦]: https://zh.wikipedia.org/wiki/阿燦
+[網中人]: https://en.wikipedia.org/w/index.php?title=The_Good,_the_Bad_and_the_Ugly_(TV_series)&oldid=1210313320
+[阿燦]: https://zh.wikipedia.org/w/index.php?title=阿燦&oldid=88185079
 
 ### 璨3 | _Ts(')(a/)n(3)_ [[caan3]]
 
@@ -440,7 +438,7 @@ U
   U+74A8
 F
   ==
-  - [[F2.70 璨]] 玉名
+  - (F2.70 璨) 玉名
   ==
 W
   ====
@@ -467,7 +465,7 @@ U
   U+7CB2
 F
   ==
-  - [[F2.70 粲]] 美也
+  - (F2.70 粲) 美也
   ==
 W
   ====
@@ -555,7 +553,7 @@ V
   ==
 F
   ==
-  - [[F2.68 殘]] 傷殘餘也落也賤也害也
+  - (F2.68 殘) 傷殘餘也落也賤也害也
   ==
 W
   ====

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caang
-* %date-modified --> 2025-08-24
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -90,7 +90,7 @@ S
   ==
 $$
 
-###+ 搶1 | _(1)Ch(')(a/)ng_ (caang1)
+###+ 搶1 | _(1)Ch(')(a/)ng_ [[caang1]]
 
 $$.
 R
@@ -126,8 +126,8 @@ A
   ==
 F
   ==
-  - [[F2.30 撐 _Ch(')ang1_ (cang1)]] 窓爭切駕船也
-  - [[F2.30 撐]] 策平聲以物撐物也
+  - (F2.30 撐 _Ch(')ang1_ (cang1)) 窓爭切駕船也
+  - (F2.30 撐) 策平聲以物撐物也
   ==
 W
   ====
@@ -191,7 +191,7 @@ S
   ==
 $$
 
-###+ 槍1 | _(1)Ch(')(a/)ng_ (caang1)
+###+ 槍1 | _(1)Ch(')(a/)ng_ [[caang1]]
 
 $$
 R
@@ -246,7 +246,7 @@ S
   ==
 $$
 
-###+ 罉1 | _(1)Ch(')(a/)ng_ (caang1)
+###+ 罉1 | _(1)Ch(')(a/)ng_ [[caang1]]
 
 $$.
 R
@@ -263,7 +263,7 @@ P
   ++
 $$
 
-###+ 鎗1 | _(1)Ch(')(a/)ng_ (caang1)
+###+ 鎗1 | _(1)Ch(')(a/)ng_ [[caang1]]
 
 $$
 R
@@ -290,7 +290,7 @@ S
   ==
 $$
 
-###+ 鐺1 | _(1)Ch(')(a/)ng_ (caang1)
+###+ 鐺1 | _(1)Ch(')(a/)ng_ [[caang1]]
 
 $$
 R
@@ -372,7 +372,7 @@ $$
 </nav>
 <## /tone-2-characters ##>
 
-###+ 橙2 | _(2)Ch(')(a/)ng_ (caang2)
+###+ 橙2 | _(2)Ch(')(a/)ng_ [[caang2]]
 
 $$.
 R
@@ -429,7 +429,7 @@ W
     [[...]]
     --
     --
-    Read _ch(')(a/)ng(3)_ [[caang3]]; a colloquial word[.]
+    Read _ch(')(a/)ng(3)_ [[caang3]]; a colloquial word``.``
     --
     ==
     - To stretch out, to open;
@@ -504,7 +504,7 @@ S
   ==
 $$
 
-###+ {𨅝=⿰𧾷牚}3 | _Ch(')(a/)ng(3)_ (caang3)
+###+ {𨅝=⿰𧾷牚}3 | _Ch(')(a/)ng(3)_ [[caang3]]
 
 $$
 R
@@ -528,7 +528,7 @@ W
     [[...]]
     --
     --
-    Read _ch(')(a/)ng(3)_ [[caang3]]; a colloquial word[.]
+    Read _ch(')(a/)ng(3)_ [[caang3]]; a colloquial word``.``
     --
     ==
     - [[...]];
@@ -610,7 +610,7 @@ S
   ==
 $$
 
-###+ 棖4 | _(4)Ch(')(a/)ng_ (caang4)
+###+ 棖4 | _(4)Ch(')(a/)ng_ [[caang4]]
 
 $$
 R
@@ -619,7 +619,7 @@ U
   U+68D6
 F
   ==
-  - [[F2.88 棖]] 兩邊門枋曰棖又人名申棖
+  - (F2.88 棖) 兩邊門枋曰棖又人名申棖
   ==
 W
   [[Not present]]
@@ -652,7 +652,7 @@ V
   ==
 F
   ==
-  - [[F2.88 橙]] 棑橙果名
+  - (F2.88 橙) 棑橙果名
   ==
 W
   ====
@@ -691,7 +691,7 @@ S
   ==
 $$
 
-###+ {𥋇=⿰目掌}4 | _(4)Ch(')(a/)ng_ (caang4)
+###+ {𥋇=⿰目掌}4 | _(4)Ch(')(a/)ng_ [[caang4]]
 
 $$
 R

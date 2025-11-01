@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -60,7 +60,7 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
-###+ 咋3 | _Ch(a/)k(8)_ (zaak3)
+###+ 咋3 | _Ch(a/)k(8)_ [[zaak3]]
 
 $$
 R
@@ -93,7 +93,7 @@ S
   ==
 $$
 
-###+ 嘖3 | _Ch(a/)k(8)_ (zaak3)
+###+ 嘖3 | _Ch(a/)k(8)_ [[zaak3]]
 
 $$
 R
@@ -107,7 +107,7 @@ V
   ==
 F
   ==
-  - [[F1.75 嘖 _Tsik(7)_ (zik1)]] 大呼聲
+  - (F1.75 嘖 _Tsik(7)_ (zik1)) 大呼聲
   ==
 W
   ====
@@ -118,7 +118,7 @@ W
     - [[...]];
     - garrulous, impertinent or meddlesome;
     - ~~to assent to;~~
-    - _[ch(a/)k(8)] [ch(a/)k(8)] ts(a/)n(3)_
+    - _~~tsik(7) tsik(7)~~ ``ch(a/)k(8) ch(a/)k(8)`` ts(a/)n(3)_
         [[zaak3 zaak3 zaan3 嘖嘖讚]]
         to chuckle admiringly.
     ==
@@ -132,7 +132,7 @@ S
   ==
 $$
 
-### 措3 | _[Ch(a/)k](8)_ [[zaak3]]
+### 措3 | _~~Ch(')(a/)k(8)~~ ``Ch(a/)k(8)``_ [[zaak3]]
 
 $$
 R
@@ -148,7 +148,7 @@ W
     [[...]]
     --
     --
-    Read _[ch(a/)k](8)_ [[zaak3]].
+    Read _~~ch(')(a/)k(8)~~ ``ch(a/)k(8)``_ [[zaak3]].
     --
     ==
     - To pursue after, to chase, to ferret out [[Kangxi: 追捕也]].
@@ -157,10 +157,6 @@ W
     [[Otherwise, an alternative form of 笮 (for the "crush" sense). **See $笮zaak3 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - Williams' "Read [...]": Corrected _ch(')(a/)k(8)_ (caak3) to _ch(a/)k(8)_ (zaak3).
-  ==
 S
   ==
   - $措cou3
@@ -200,7 +196,7 @@ S
   ==
 $$
 
-###+ 矺3 | _Ch(a/)k(8)_ (zaak3)
+###+ 矺3 | _Ch(a/)k(8)_ [[zaak3]]
 
 $$
 R
@@ -299,7 +295,7 @@ S
   ==
 $$
 
-###+ 砸3 | _Ch(a/)k(8)_ (zaak3)
+###+ 砸3 | _Ch(a/)k(8)_ [[zaak3]]
 
 $$.
 R
@@ -320,7 +316,7 @@ S
   ==
 $$
 
-###+ 磧3 | _Ch(a/)k(8)_ (zaak3)
+###+ 磧3 | _Ch(a/)k(8)_ [[zaak3]]
 
 $$.
 R
@@ -359,7 +355,7 @@ V
   ==
 F
   ==
-  - [[F2.90 窄]] 直百切狹也迫也
+  - (F2.90 窄) 直百切狹也迫也
   ==
 W
   ====
@@ -450,7 +446,7 @@ S
   ==
 $$
 
-###+ 簀3 | _Ch(a/)k(8)_ (zaak3)
+###+ 簀3 | _Ch(a/)k(8)_ [[zaak3]]
 
 $$
 R
@@ -463,7 +459,7 @@ V
   ==
 F
   ==
-  - [[F2.32 簀 _Chak(7)_ (zak1)]] ？？也
+  - (F2.32 簀 _Chak(7)_ (zak1)) ::？？也::
   ==
 W
   ====
@@ -500,14 +496,14 @@ U
   U+8234
 F
   ==
-  - [[F2.90 舴]] 舴船小船
+  - (F2.90 舴) 舴船小船
   ==
 W
   ====
   - [[Page~13|n56 舴(8)]]
     ==
     - A boat;
-    - _ch(a/)k(8) [(5)m(a/)ng]_
+    - _ch(a/)k(8) ~~mang(6)~~ ``(5)m(a/)ng``_
         [[zaak3 maang5 舴艋]]^
         a small boat, a punt, a pinnace, a junk's gig [[Kangxi: 舴艋小舟]].
     ==
@@ -519,7 +515,7 @@ C
   ==
 $$
 
-###+ 蚱3 | _Ch(a/)k(8)_ (zaak3)
+###+ 蚱3 | _Ch(a/)k(8)_ [[zaak3]]
 
 $$.
 R
@@ -549,7 +545,7 @@ U
   U+8CAC
 F
   ==
-  - [[F2.32 責 _Chak(7)_ (zak1)]] 責罰責成
+  - (F2.32 責 _Chak(7)_ (zak1)) 責罰責成
   ==
 W
   ====
@@ -564,10 +560,10 @@ W
         [[zaak3 fat6 責罰]]
         to fine;
     - [[...]];
-    - _ch(a/)k(8) (4)[sh(e/)ung]_
+    - _ch(a/)k(8) ~~(4)ch(')(e/)ung~~ ``(4)sh(e/)ung``_
         [[zaak3 soeng4 責償]],
         to compel repayment;
-    - _ch(a/)k(8) [fat](9)_
+    - _ch(a/)k(8) ~~f(a/)t(9)~~ ``fat(9)``_
         [[zaak3 fat6 責罰]]
         to punish;
     - _ch(a/)k(8) man(6)_
@@ -598,7 +594,7 @@ S
   ==
 $$
 
-###+ 賾3 | _Ch(a/)k(8)_ (zaak3)
+###+ 賾3 | _Ch(a/)k(8)_ [[zaak3]]
 
 $$
 R
@@ -618,7 +614,7 @@ V
   ==
 F
   ==
-  - [[F2.32 ::[賾]:: _Chak(7)_ (zak1)]] 深也雜也
+  - (F2.32 ::[賾]:: _Chak(7)_ (zak1)) 深也雜也
   ==
 W
   ====
@@ -676,7 +672,7 @@ V
   ==
 F
   ==
-  - [[F2.89 宅]] 家宅居也堂也
+  - (F2.89 宅) 家宅居也堂也
   ==
 W
   ====
@@ -697,7 +693,7 @@ W
         [[jam1 zaak6 陰宅]]
         a grave;
         ancestral halls or shrines;
-    - _ch(a/)k(9) [shi(u/)](6)_
+    - _ch(a/)k(9) ~~chi(u/)(6)~~ ``shi(u/)(6)``_
         [[zaak6 siu6 宅兆]]
         to divine for a grave.
     ==
@@ -722,7 +718,7 @@ V
   ==
 F
   ==
-  - [[F2.89 摘]] 以手折花曰擇
+  - (F2.89 摘) 以手折花曰擇
   ==
 W
   ====
@@ -735,8 +731,8 @@ W
     - to point out [[Kangxi: 一曰指近之也]];
     - _ch(a/)k(9) yan(3)_
         [[zaak6 jan3 摘印]]
-        to take away [an officer's] [[these square brackets appear in the original text]] seal;
-    - _ch(a/)k(9) (2)t(u\) [lok](9) (4)lai_
+        to take away [an officer's] seal;
+    - _ch(a/)k(9) (2)t(u\) ~~tok(9)~~ ``lok(9)`` (4)lai_
         [[zaak6 doe2 lok6 lai4 摘朵落嚟]],
         pull a flower down;
     - _yat(7) ch(a/)k(9)_
@@ -745,7 +741,7 @@ W
     - _ch(a/)k(9) (2)kwo_
         [[zaak6 gwo2 摘果]],
         to pick fruit;
-    - _ch(a/)k(9) [(2)]teng_
+    - _ch(a/)k(9) ~~(1)teng~~ ``(2)teng``_
         [[zaak6 deng2 摘頂]],
         to take away an officer's button.
     ==
@@ -754,7 +750,7 @@ W
     [[...]]
     --
     --
-    ~~This~~ and the last [[摘]] are also read _t(')ik(7)_ [[tik1]]
+    ~~This and the~~ ``The`` last [[摘]] ~~are~~ ``is`` also read _t(')ik(7)_ [[tik1]]
     ~~with the same meanings~~.
     --
   ====
@@ -774,7 +770,7 @@ U
   U+64C7
 F
   ==
-  - [[F2.89 擇]] 揀擇選擇
+  - (F2.89 擇) 揀擇選擇
   ==
 W
   ====
@@ -783,7 +779,7 @@ W
     - To select, to pick out, to choose, to prefer [[Kangxi: 揀選也]];
     - _ch(a/)k(9) yat(9)_
         [[zaak6 jat6-2 擇日]]
-        to choose a [lucky] [[these square brackets appear in the original text]] day;
+        to choose a [lucky] day;
     - _(5)n(i/) k(o\)m(3) (2)k(a/)n ch(a/)k(9)_
         [[nei5 gam3 gaan2 zaak6 你咁揀擇]]
         you are so hard to suit;
@@ -806,7 +802,7 @@ U
   U+64E2
 F
   ==
-  - [[F2.89 擢]] 拔抽也取用也
+  - (F2.89 擢) 拔抽也取用也
   ==
 W
   ====
@@ -830,7 +826,7 @@ U
   U+64F2
 F
   ==
-  - [[F2.89 擲]] 棄擲
+  - (F2.89 擲) 棄擲
   ==
 W
   ====
@@ -868,7 +864,7 @@ U
   U+6FA4
 F
   ==
-  - [[F2.89 澤]] 恩澤惠澤潤澤雨澤
+  - (F2.89 澤) 恩澤惠澤潤澤雨澤
   ==
 W
   ====
@@ -912,7 +908,7 @@ P
   ++
 $$
 
-###+ 矺6 | _Ch(a/)k(9)_ (zaak6)
+###+ 矺6 | _Ch(a/)k(9)_ [[zaak6]]
 
 $$.
 R
@@ -942,7 +938,7 @@ U
   U+7FDF
 F
   ==
-  - [[F2.89 翟]] ::姓也又音[狄]::
+  - (F2.89 翟) ::姓也又音[狄]::
   ==
 W
   ====
@@ -1002,15 +998,15 @@ V
   ==
 F
   ==
-  - [[F2.89 讁]] 責也貶也
-  - [[F2.89 適]] 同上
+  - (F2.89 讁) 責也貶也
+  - (F2.89 適) 同上
   ==
 W
   ====
   - [[Page~13|n56 謫(9)讁(9)]]
     ==
     - To blame, to reprehend [[Kangxi 謫: 責也, 咎也]];
-    - to [disgrace] officers, to punish [[Kangxi 謫: 罰也]] by disgracing;
+    - to ~~disgracc~~ ``disgrace`` officers, to punish [[Kangxi 謫: 罰也]] by disgracing;
     - to scold, to be angry at [[Kangxi 謫: 怒也]], to find fault with;
     - flaw, error [[Kangxi 謫: 罪也過也]];
     - a change of appearance [[Kangxi 謫: 變氣也]];
@@ -1023,7 +1019,7 @@ C
   ==
   - Whilst 《廣韻》 has the headline reading 陟革切 _ch(a/)k(8)_ (zaak3)^,
     it also has the in-entry alternative 又丈厄切 _ch(a/)k(9)_ (zaak6).
-    It is unclear whether this was intended as a cross-reference
+    It is unclear whether this is intended as a cross-reference
     or as a genuine alternative for the "blame" sense.
   ==
 $$
@@ -1037,8 +1033,8 @@ U
   U+8B81
 F
   ==
-  - [[F2.89 讁]] 責也貶也
-  - [[F2.89 適]] 同上
+  - (F2.89 讁) 責也貶也
+  - (F2.89 適) 同上
   ==
 W
   ====
@@ -1062,8 +1058,8 @@ V
   ==
 F
   ==
-  - [[F2.89 躑]] 躑躅蟲名人之奔走追逐也
-  - [[F2.89 蹢]] 同上
+  - (F2.89 躑) 躑躅蟲名人之奔走追逐也
+  - (F2.89 蹢) 同上
   ==
 W
   ====

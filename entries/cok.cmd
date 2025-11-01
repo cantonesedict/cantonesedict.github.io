@@ -5,12 +5,12 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cok
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
 
-#{.williams} <ins class="modern">Ch(')ok</ins> Ts(')ok. [[cok]]
+#{.williams} ``Ch(')ok.`` Ts(')ok. [[cok]]
 
 <## tones ##>
 <nav class="sideways">
@@ -23,12 +23,12 @@ OrdinaryDictionaryReplacement: #.properties-override
 $$
 WH
   ==
-  - <ins class="modern">Ch(')ok. (Not present)</ins>
+  - ``Ch(')ok.`` [[Not present^]]
   - Ts(')ok. [[Page~592]]
   ==
 WP
   ==
-  - <span class="modern">Ch(')ok = *[tɕʰɔːk̚]</span>
+  - ``Ch(')ok`` <span class="modern">= *[tɕʰɔːk̚]</span>
   - Ts(')ok <span class="modern">= *[tsʰɔːk̚]</span>
   ==
 MP
@@ -38,7 +38,7 @@ MP
 $$
 
 
-##{#3 .williams} <ins class="modern">Ch(')ok(8)</ins> Ts(')ok(8) [[cok3 低陰入]]
+##{#3 .williams} ``Ch(')ok(8)`` Ts(')ok(8) [[cok3 低陰入]]
 
 <## tone-3-characters ##>
 <nav class="sideways">
@@ -51,7 +51,7 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
-###+ 剒3 | _Ts(')ok(8)_ (cok3)
+###+ 剒3 | _Ts(')ok(8)_ [[cok3]]
 
 $$
 R
@@ -109,7 +109,7 @@ E
   ====
 $$
 
-###+ 厝3 | _Ts(')ok(8)_ (cok3)
+###+ 厝3 | _Ts(')ok(8)_ [[cok3]]
 
 $$.
 R
@@ -130,7 +130,7 @@ S
   ==
 $$
 
-###+ 簇3 | _Ch(')ok(8)_ (cok3)
+###+ 簇3 | _Ch(')ok(8)_ [[cok3]]
 
 $$
 R
@@ -177,7 +177,7 @@ A
   ==
 F
   ==
-  - [[F1.102 錯]] 舛也乖也誤也亂也
+  - (F1.102 錯) 舛也乖也誤也亂也
   ==
 W
   ====

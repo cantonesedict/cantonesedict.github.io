@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyun
-* %date-modified --> 2025-08-18
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -71,7 +71,7 @@ R
 U
   U+5278
 F
-  [[F2.19 剸]] 割也
+  (F2.19 剸) 割也
 W
   ====
   - [[Page~37* (1)剸]]
@@ -85,7 +85,7 @@ S
   ==
 $$
 
-###+ 塼1 | _(1)Ch(u:)n_ (zyun1)
+###+ 塼1 | _(1)Ch(u:)n_ [[zyun1]]
 
 $$.
 R
@@ -116,8 +116,8 @@ A
   ==
 F
   ==
-  - [[F2.19 專]] 一也獨也擅也
-  - [[F2.19 耑]] 同上
+  - (F2.19 專) 一也獨也擅也
+  - (F2.19 耑) 同上
   ==
 W
   ====
@@ -145,7 +145,7 @@ W
     - _(1)ch(u:)n yat(7)_
         [[zyun1 jat1 專一]]
         to apply to one thing;
-    - _(1)ch(u:)n [(4)]fong_
+    - _(1)ch(u:)n ~~(1)fong~~ ``(4)fong``_
         [[zyun1 fong4 專房]],
         to engross a husband's company.
     ==
@@ -153,6 +153,7 @@ W
 C
   ==
   - Williams' 專房: Corrected _(1)fong_ (fong1) to _(4)fong_ (fong4).
+    Specifically, a husband that one is sharing with other wives and concubines.
   ==
 P
   ++
@@ -184,7 +185,7 @@ U
   U+5C0A
 F
   ==
-  - [[F2.19 尊]] 尊長崇也重也貴也敬也
+  - (F2.19 尊) 尊長崇也重也貴也敬也
   ==
 W
   ====
@@ -236,7 +237,7 @@ S
   ==
 $$
 
-###+ 攢1 | _(1)Ts(u:)n_ (zyun1)
+###+ 攢1 | _(1)Ts(u:)n_ [[zyun1]]
 
 $$.
 R
@@ -257,7 +258,7 @@ S
   ==
 $$
 
-###+ 朘1 | _(1)Ts(u:)n_ (zyun1)
+###+ 朘1 | _(1)Ts(u:)n_ [[zyun1]]
 
 $$.
 R
@@ -288,8 +289,8 @@ U
   U+750E
 F
   ==
-  - [[F2.19 磚]] 土之有模而出者或坭磚或火磚整牆用
-  - [[F2.19 甎]] 同上
+  - (F2.19 磚) 土之有模而出者或坭磚或火磚整牆用
+  - (F2.19 甎) 同上
   ==
 W
   ====
@@ -314,8 +315,8 @@ A
   ==
 F
   ==
-  - [[F2.19 磚]] 土之有模而出者或坭磚或火磚整牆用
-  - [[F2.19 甎]] 同上
+  - (F2.19 磚) 土之有模而出者或坭磚或火磚整牆用
+  - (F2.19 甎) 同上
   ==
 W
   ====
@@ -362,8 +363,8 @@ U
   U+8011
 F
   ==
-  - [[F2.19 專]] 一也獨也擅也
-  - [[F2.19 耑]] 同上
+  - (F2.19 專) 一也獨也擅也
+  - (F2.19 耑) 同上
   ==
 W
   ====
@@ -378,7 +379,7 @@ S
   ==
 $$
 
-###+ 鐫1 | _(1)Ts(u:)n_ (zyun1)
+###+ 鐫1 | _(1)Ts(u:)n_ [[zyun1]]
 
 $$.
 R
@@ -399,7 +400,7 @@ S
   ==
 $$
 
-###+ 鑽1 | _(1)Ts(u:)n_ (zyun1)
+###+ 鑽1 | _(1)Ts(u:)n_ [[zyun1]]
 
 $$.
 R
@@ -429,14 +430,14 @@ U
   U+9C44
 F
   ==
-  - [[F2.19 鱄]] 魚名魚美也又姓也
+  - (F2.19 鱄) 魚名魚美也又姓也
   ==
 W
   ====
   - [[Page~37* (1)鱄]]
     ==
     - A large fish [[Kangxi: 魚之大者名爲鱄]], a pike?
-      found in the Lake [Tungt(')ing] [[洞庭]] [[Kangxi: 魚之美者洞庭之鱄]].
+      found in the Lake Tungt``(')``ing [[洞庭]] [[Kangxi: 魚之美者洞庭之鱄]].
     ==
     --
     [[...]]
@@ -448,7 +449,7 @@ S
   ==
 $$
 
-###+ 鱒1 | _(1)Ts(u:)n_ (zyun1)
+###+ 鱒1 | _(1)Ts(u:)n_ [[zyun1]]
 
 $$.
 R
@@ -484,7 +485,7 @@ $$
 </nav>
 <## /tone-2-characters ##>
 
-###+ 噂2 | _(2)Ts(u:)n_ (zyun2)
+###+ 噂2 | _(2)Ts(u:)n_ [[zyun2]]
 
 $$
 R
@@ -498,22 +499,23 @@ A
 V
   ==
   - cyun5 (per Fan Wan)
+  - zeon2 (per Williams)
   ==
 F
   ==
-  - [[F2.22 噂 _(5)Ts(')(u:)n_ (cyun5)]] 存上聲噂沓聚語也
+  - (F2.22 噂 _(5)Ts(')(u:)n_ (cyun5)) 存上聲噂沓聚語也
   ==
 W
   ====
-  - [[Page~605 _(5)Ts(')(u:)n_ (cyun5); here normalised to _(2)Ts(u:)n_ (zyun2)]]
+  - [[Page~605 噂 _(5)Ts(')(u:)n_ (cyun5); here normalised to _(2)Ts(u:)n_ (zyun2)]]
     ==
     - Many persons conversing [[Kangxi: 聚語也]] ~~amicably~~;
     - to talk agreeably to one;
     - unitedly, as a chorus;
-    - _[(2)ts(u:)n] t(a/)p(9)_
+    - _~~(5)ts(')(u:)n~~ ``(2)ts(u:)n`` t(a/)p(9)_
         [[zyun2 daap6 噂沓]]
         to flatter and then traduce;
-    - _[(2)ts(u:)n] t(a/)p(9) (4)m(a/)i s(a/)i(3)_
+    - _~~(5)ts(')(u:)n~~ ``(2)ts(u:)n`` t(a/)p(9) (4)m(a/)i s(a/)i(3)_
         [[zyun2 daap6 maai4 saai3 噂沓埋嗮]]
         lay them all aside; --- a colloquial phrase,
         in which the word is also pronounced _(2)tsun_ [[zeon2]].
@@ -534,7 +536,7 @@ V
   ==
 F
   ==
-  - [[F2.22 囀]] 鶯聲
+  - (F2.22 囀) 鶯聲
   ==
 W
   ====
@@ -565,7 +567,7 @@ A
   ==
 F
   ==
-  - [[F2.22 纂]] ::編[緝]也::
+  - (F2.22 纂) ::編[緝]也::
   ==
 W
   ====
@@ -612,7 +614,7 @@ A
   ==
 F
   ==
-  - [[F2.22 纘]] 繼也集也
+  - (F2.22 纘) 繼也集也
   ==
 W
   ====
@@ -642,7 +644,7 @@ U
   U+8F49
 F
   ==
-  - [[F2.22 轉]] 轉動轉運旋轉
+  - (F2.22 轉) 轉動轉運旋轉
   ==
 W
   ====
@@ -677,7 +679,7 @@ W
     - _(2)ch(u:)n ch(i/)(3)_
         [[zyun2 zi3 轉致]]
         to send a message;
-    - _(2)ch(u:)n (1)p(')ai [(1)](u:) (4)yan_
+    - _(2)ch(u:)n (1)p(')ai ~~(4)(u:)~~ ``(1)(u:)`` (4)yan_
         [[zyun2 pai1 jyu1 jan4 轉批於人]],
         to sub-let to others.
     ==
@@ -721,6 +723,7 @@ C
     and split things up between _(2)ch(u:)n_ (zyun2) and _ch(u:)n(3)_ (zyun3).
     The supplementary entries given here are a poor attempt
     to exemplify the split based on personal experience.
+  - Williams' 轉批於人: Corrected _(4)(u:)_ (jyu4) to  _(1)(u:)_ (jyu1).
   ======
 P
   ++
@@ -737,7 +740,7 @@ S
 $$
 
 
-##{#3 .williams} <ins class="modern">Ch(u:)n(3)</ins> Ts(u:)n(3) [[zyun3 陰去]]
+##{#3 .williams} ``Ch(u:)n(3)`` Ts(u:)n(3) [[zyun3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">
@@ -749,7 +752,7 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
-###+ 傳3 | _Ch(u:)n(3)_ (zyun3)
+###+ 傳3 | _Ch(u:)n(3)_ [[zyun3]]
 
 $$
 R
@@ -772,7 +775,7 @@ S
   ==
 $$
 
-###+ 轉3 | _Ch(u:)n(3)_ (zyun3)
+###+ 轉3 | _Ch(u:)n(3)_ [[zyun3]]
 
 $$
 R
@@ -781,28 +784,28 @@ U
   U+8F49
 F
   ==
-  - [[F2.22 轉 _(2)Ch(u:)n_ (zyun2)]] 轉動轉運旋轉
+  - (F2.22 轉 _(2)Ch(u:)n_ (zyun2)) 轉動轉運旋轉
   ==
 W
   ====
   - [[Page~37* (2)轉 _(2)Ch(u:)n_ (zyun2); here corrected to _Ch(u:)n(3)_ (zyun3)]]
     ==
     - [[...]];
-    - _(2)s(e/)ung (2)k(a/)u ch(u:)n[(3)] (5)k(')(u:)_
+    - _(2)s(e/)ung (2)k(a/)u ~~(2)ch(u:)n~~ ``ch(u:)n(3)`` (5)k(')(u:)_
         [[soeng2 gaau2 zyun3 keoi5 想搞轉佢]],
         I will try to bring him round;
-    - _ch(u:)n[(3)] s(a/)i(3) (2)p(u/)n t(i/)(6) w(a/)(6)_
+    - _~~(2)ch(u:)n~~ ``ch(u:)n(3)`` s(a/)i(3) (2)p(u/)n t(i/)(6) w(a/)(6)_
         [[zyun3 saai3 bun2 dei6 waa6-2 轉嗮本地話]]
-        to translate the local patois;
-    - _(1)f(a/)n ch(u:)n[(3)] (4)t(')au_
+        ~~to~~ translate``d into`` the local patois;
+    - _(1)f(a/)n ~~(2)ch(u:)n~~ ``ch(u:)n(3)`` (4)t(')au_
         [[faan1 zyun3 tau4 返轉頭]],
         turn around;
     - [[...]];
-    - _ch(u:)n[(3)] (1)w(a/)n_
+    - _~~(2)ch(u:)n~~ ``ch(u:)n(3)`` (1)w(a/)n_
         [[zyun3 waan1 轉彎]],
         to turn a corner;
     - [[...]];
-    - _ch(u:)n[(3)] (1)f(a/)n (4)t(')au_
+    - _~~(2)ch(u:)n~~ ``ch(u:)n(3)`` (1)f(a/)n (4)t(')au_
         [[zyun3 faan1 tau4 轉返頭]],
         to look behind;
     - [[...]].
@@ -851,13 +854,13 @@ V
   ==
 F
   ==
-  - [[F2.23 鑽]] ::尊去聲以鉄爲之[所]以穿物孔::
+  - (F2.23 鑽) ::尊去聲以鉄爲之[所]以穿物孔::
   ==
 W
   ====
   - [[Page~604 鑽(3)鑚(3)]]
     ==
-    - An awl, a gimlet, an [auger], a borer;
+    - An awl, a gimlet, an ~~augur~~ ``auger``, a borer;
     - an instrument for perforating [[Kangxi: 所以穿也]];
     - ~~point of a weapon;~~
     - to bore, to pierce, as a sting [[Kangxi: 刺也]];
@@ -894,7 +897,7 @@ C
   - Whilst 《廣韻》 has the headline reading 借官切 _(1)ts(u:)n_ (zyun1)
     for 鑚 in the verb sense (explained 刺也),
     it also has the in-entry alternative 又借玩切 _ts(u:)n(3)_ (zyun3).
-    It is unclear whether this was intended as a cross-reference
+    It is unclear whether this is intended as a cross-reference
     to 子筭切 _ts(u:)n(3)_ (zyun3) (explained 錐鑚) as a separate noun sense
     or as a genuine alternative for the verb sense.
   - Kangxi has:
@@ -952,7 +955,7 @@ V
   ==
 F
   ==
-  - [[F2.23 ::[傳]::]] ::執愿切古書曰[傳]::
+  - (F2.23 ::[傳]::) ::執愿切古書曰[傳]::
   ==
 W
   ====

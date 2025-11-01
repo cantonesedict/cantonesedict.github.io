@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -83,7 +83,7 @@ V
   ==
 F
   ==
-  - [[F1.20 儃]] 態也又儃回不進也
+  - (F1.20 儃) 態也又儃回不進也
   ==
 W
   ====
@@ -91,7 +91,7 @@ W
     ==
     - Manner, air, figure [[Kangxi: 態也]];
     - look;
-    - _(1)ch(i/)n [(4)](u/)i_
+    - _(1)ch(i/)n ~~(1)(u/)i~~ ``(4)(u/)i``_
         [[zin1 wui4 儃佪]],
         undecided whether to go on, irresolute [[Kangxi: 儃佪不進貌]].
     ==
@@ -120,7 +120,7 @@ U
   U+6214
 F
   ==
-  - [[F1.20 戔]] ::戔戔淺[小]之貌::
+  - (F1.20 戔) ::戔戔淺[小]之貌::
   ==
 W
   ====
@@ -152,7 +152,7 @@ U
   U+65C3
 F
   ==
-  - [[F1.20 旃]] 通白之器又解曰之
+  - (F1.20 旃) 通白之器又解曰之
   ==
 W
   ====
@@ -181,8 +181,8 @@ U
   U+6BE1
 F
   ==
-  - [[F1.20 氊]] 以毛爲物曰氊
-  - [[F1.20 毡]] 同上
+  - (F1.20 氊) 以毛爲物曰氊
+  - (F1.20 毡) 同上
   ==
 W
   ====
@@ -193,7 +193,7 @@ W
   ====
 $$
 
-###+ 氈1 | _(1)Ch(i/)n_ (zin1)
+###+ 氈1 | _(1)Ch(i/)n_ [[zin1]]
 
 $$
 R
@@ -208,8 +208,8 @@ A
   ==
 F
   ==
-  - [[F1.20 氊]] 以毛爲物曰氊
-  - [[F1.20 毡]] 同上
+  - (F1.20 氊) 以毛爲物曰氊
+  - (F1.20 毡) 同上
   ==
 W
   ====
@@ -251,8 +251,8 @@ U
   U+6C0A
 F
   ==
-  - [[F1.20 氊]] 以毛爲物曰氊
-  - [[F1.20 毡]] 同上
+  - (F1.20 氊) 以毛爲物曰氊
+  - (F1.20 毡) 同上
   ==
 W
   ====
@@ -263,7 +263,7 @@ W
   ====
 $$
 
-###+ 淺1 | _(1)Ts(i/)n_ (zin1)
+###+ 淺1 | _(1)Ts(i/)n_ [[zin1]]
 
 $$.
 R
@@ -293,7 +293,7 @@ U
   U+6E54
 F
   ==
-  - [[F1.20 湔]] 湔洗
+  - (F1.20 湔) 湔洗
   ==
 W
   ====
@@ -309,7 +309,7 @@ P
   ++
 $$
 
-###+ 濺1 | _(1)Ts(i/)n_ (zin1)
+###+ 濺1 | _(1)Ts(i/)n_ [[zin1]]
 
 $$
 R
@@ -347,7 +347,7 @@ U
   U+714E
 F
   ==
-  - [[F1.20 煎]] 熬煎
+  - (F1.20 煎) 熬煎
   ==
 W
   ====
@@ -365,13 +365,13 @@ W
         [[maan6 fo2 zin1 jyu4-2 慢火煎魚]],
         a slow fire tries fish;
         _i.~e._ small bets will erelong drain the purse;
-    - _(1)ts(i/)n [(1)]nung_
+    - _(1)ts(i/)n ~~(4)nung~~ ``(1)nung``_
         [[zin1 nung1 煎燶]],
         to fry brown;
-    - _[(4)]ng(o\) (1)ts(i/)n_
+    - _~~ng(o\)(6)~~ ``(4)ng(o\)`` (1)ts(i/)n_
         [[ngou4 zin1 熬煎]],
-        to simmer, to decoct;
-        ~~vexed, irritated~~.
+        to simmer, to decoct~~;
+        vexed, irritated~~.
     ==
     --
     [[...]]
@@ -433,7 +433,7 @@ U
   U+7B8B
 F
   ==
-  - [[F1.20 箋]] 簡牒
+  - (F1.20 箋) 簡牒
   ==
 W
   ====
@@ -469,7 +469,7 @@ U
   U+7C5B
 F
   ==
-  - [[F1.20 籛]] 彭祖姓
+  - (F1.20 籛) 彭祖姓
   ==
 W
   ====
@@ -478,15 +478,13 @@ W
     - A man's name,
       called _(1)Ts(i/)n (1)Hang_ [[zin1 hang1 籛鏗]], or Tsien Hing,
       who lived in the Sh(a/)ng [[商]] and Chau [[周]] dynasties,
-      to the age of 767, ~~and then vanished~~
+      to the age of 767, ~~and then vanished~~ ``yet waned not``
       [[Kangxi: ::彭祖姓籛名鏗[...]歷夏殷周年七百六十七歲而不衰::]].
     ==
   ====
 C
   ==
   - Williams' "man's name": Specifically, a surname (Kangxi: 姓也).
-  - Williams' "and then vanished": This is a misreading of Kangxi 而不衰,
-    which should be rendered "and waned not".
   ==
 $$
 
@@ -507,7 +505,7 @@ V
   ==
 F
   ==
-  - [[F1.20 羶]] 腥羶羊脂也
+  - (F1.20 羶) 腥羶羊脂也
   ==
 W
   ====
@@ -545,7 +543,7 @@ V
   ==
 F
   ==
-  - [[F1.20 邅]] 迍邅
+  - (F1.20 邅) 迍邅
   ==
 W
   ====
@@ -577,7 +575,7 @@ V
   ==
 F
   ==
-  - [[F1.20 顫]] 四肢奏掉曰顫
+  - (F1.20 顫) 四肢奏掉曰顫
   ==
 W
   ====
@@ -605,8 +603,8 @@ U
   U+9958
 F
   ==
-  - [[F1.20 饘]] 粥也
-  - [[F1.20 飦]] 同上
+  - (F1.20 饘) 粥也
+  - (F1.20 飦) 同上
   ==
 W
   ====
@@ -629,7 +627,7 @@ U
   U+9C63
 F
   ==
-  - [[F1.20 鱣]] 魚名
+  - (F1.20 鱣) 魚名
   ==
 W
   ====
@@ -657,7 +655,7 @@ U
   U+9E07
 F
   ==
-  - [[F1.20 鸇]] 食雀之鳥
+  - (F1.20 鸇) 食雀之鳥
   ==
 W
   ====
@@ -706,8 +704,8 @@ A
   ==
 F
   ==
-  - [[F1.22 剪]] ::[裁]也又較剪::
-  - [[F1.22 翦]] ::齊也截以[殺]也::
+  - (F1.22 剪) ::[裁]也又較剪::
+  - (F1.22 翦) ::齊也截以[殺]也::
   ==
 W
   ====
@@ -724,7 +722,7 @@ W
     - _t(a/)i(6) k(a/)u(3) (2)ts(i/)n_
         [[daai6 gaau3 zin2 大鉸剪]],
         shears;
-    - _ch(a/)p[(9)] (2)ts(i/)n_
+    - _~~ch(a/)p(8)~~ ``ch(a/)p(9)`` (2)ts(i/)n_
         [[zaap6 zin2 鈒剪]],
         betel-nut shears;
     - _(4)ts(')oi (2)ts(i/)n_
@@ -758,7 +756,7 @@ E
   ====
 $$
 
-###+ 剗2 | _(2)Ch(i/)n_ (zin2)
+###+ 剗2 | _(2)Ch(i/)n_ [[zin2]]
 
 $$
 R
@@ -794,13 +792,13 @@ U
   U+5C55
 F
   ==
-  - [[F1.22 展]] 舒展
+  - (F1.22 展) 舒展
   ==
 W
   ====
   - [[Page~17* (2)展]]
     ==
-    - To open out, to unroll [[Kangxi: 開也]], ~~and inspect~~;
+    - To open out, to unroll [[Kangxi: 開也]]~~, and inspect~~;
     - to exhibit [[Kangxi: ::展陳也::]], to disentangle;
     - to stretch out at one's ease [[Kangxi: 舒也]], to expand;
     - to judge of, to look into [[Kangxi: 審也視也, 展省閱也]];
@@ -846,7 +844,7 @@ U
   U+6229
 F
   ==
-  - [[F1.22 戩]] 盡也
+  - (F1.22 戩) 盡也
   ==
 W
   ====
@@ -870,7 +868,7 @@ P
   ++
 $$
 
-###+ 皽2 | _(2)Ch(i/)n_ (zin2)
+###+ 皽2 | _(2)Ch(i/)n_ [[zin2]]
 
 $$
 R
@@ -907,7 +905,7 @@ U
   U+78BE
 F
   ==
-  - [[F1.22 碾]] 轢也又音研
+  - (F1.22 碾) 轢也又音研
   ==
 W
   ====
@@ -936,8 +934,8 @@ A
   ==
 F
   ==
-  - [[F1.22 剪]] ::[裁]也又較剪::
-  - [[F1.22 翦]] ::齊也截以[殺]也::
+  - (F1.22 剪) ::[裁]也又較剪::
+  - (F1.22 翦) ::齊也截以[殺]也::
   ==
 W
   ====
@@ -993,7 +991,7 @@ V
   ==
 F
   ==
-  - [[F1.20 諓 _(1)Ts(i/)n_ (zin1)]] 巧言也
+  - (F1.20 諓 _(1)Ts(i/)n_ (zin1)) 巧言也
   ==
 W
   ====
@@ -1023,7 +1021,7 @@ U
   U+8B2D
 F
   ==
-  - [[F1.22 謭]] 謭劣粗也陋也
+  - (F1.22 謭) 謭劣粗也陋也
   ==
 W
   ====
@@ -1034,7 +1032,7 @@ W
   ====
 $$
 
-###+ 譾2 | _(2)Ts(i/)n_ (zin2)
+###+ 譾2 | _(2)Ts(i/)n_ [[zin2]]
 
 $$
 R
@@ -1047,7 +1045,7 @@ A
   ==
 F
   ==
-  - [[F1.22 謭]] 謭劣粗也陋也
+  - (F1.22 謭) 謭劣粗也陋也
   ==
 W
   ====
@@ -1058,7 +1056,7 @@ W
     - _(4)ts(')oi (2)ts(i/)n_
         [[coi4 zin2 材譾]],
         mediocre, of small capacity;
-    - _(2)ts(i/)n l(u:)t[(9)]_
+    - _(2)ts(i/)n ~~l(u:)t(8)~~ ``l(u:)t(9)``_
         [[zin2 lyut6 譾劣]]
         mean, insignificant.
     ==
@@ -1082,7 +1080,7 @@ A
   ==
 F
   ==
-  - [[F1.22 輾]] 轉之半曰輾
+  - (F1.22 輾) 轉之半曰輾
   ==
 W
   ====
@@ -1091,7 +1089,7 @@ W
     - To roll over half way [[Kangxi: 輾者轉之半也]];
     - to turn over [[Kangxi: 轉也]];
     - [[...]];
-    - _(2)ch(i/)n (2)ch(u:)n (2)f(a/)n [chak](7)_
+    - _(2)ch(i/)n (2)ch(u:)n (2)f(a/)n ~~ch(')ak(7)~~ ``chak(7)``_
         [[zin2 zyun2 faan2 zak1 輾轉反側]]
         to turn back and forth, to think on.
     ==
@@ -1106,7 +1104,7 @@ S
   ==
 $$
 
-###+ 錢2 | _(2)Ts(i/)n_ (zin2)
+###+ 錢2 | _(2)Ts(i/)n_ [[zin2]]
 
 $$
 R
@@ -1140,7 +1138,7 @@ V
   ==
 F
   ==
-  - [[F1.22 闡]] 發也開也
+  - (F1.22 闡) 發也開也
   ==
 W
   ====
@@ -1186,7 +1184,7 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
-###+ 墊3 | _Ts(i/)n(3)_ (zin3)
+###+ 墊3 | _Ts(i/)n(3)_ [[zin3]]
 
 $$.
 R
@@ -1219,15 +1217,15 @@ U
   U+6230
 F
   ==
-  - [[F1.25 戰]] 閩戰又恐懼貌
+  - (F1.25 戰) 閩戰又恐懼貌
   ==
 W
   ====
   - [[Page~17* 戰(3)]]
     ==
     - To fight [[Kangxi: 鬭也]];
-    - ~~to be alarmed~~, struck with dread [[Kangxi: 懼也]];
-    - fearful, ~~anxious~~;
+    - ~~to be alarmed,~~ struck with dread [[Kangxi: 懼也]];
+    - fearful~~, anxious~~;
     - a battle, an engagement;
     - war, hostilities;
     - military, pertaining to war;
@@ -1244,10 +1242,10 @@ W
         or
       _(1)k(a/)u ch(i/)n(3)_ [[gaau1 zin3 交戰]]
         to join battle;
-    - _ch(i/)n(3) [chan(6)]_
+    - _ch(i/)n(3) ~~(4)ch(')an~~ ``chan(6)``_
         [[zin3 zan6 戰陳]],
         troops drawn up for battle;
-    - _ch(i/)n(3) p(a/)i[(6)]_
+    - _ch(i/)n(3) ~~p(a/)i(3)~~ ``p(a/)i(6)``_
         [[zin3 baai6 戰敗]]
         to be discomfited;
     - _ch(i/)n(3) ch(i/)n(3) (1)king (1)king_
@@ -1286,7 +1284,7 @@ V
   ==
 F
   ==
-  - [[F1.23 洊]] 重復也
+  - (F1.23 洊) 重復也
   ==
 W
   ====
@@ -1318,7 +1316,7 @@ U
   U+6FFA
 F
   ==
-  - [[F1.23 ::[濺]::]] 水激酒也
+  - (F1.23 ::[濺]::) 水激酒也
   ==
 W
   ====
@@ -1391,7 +1389,7 @@ U
   U+726E
 F
   ==
-  - [[F1.23 牮]] ::屋[斜]用牮::
+  - (F1.23 牮) ::屋[斜]用牮::
   ==
 W
   ====
@@ -1416,7 +1414,7 @@ U
   U+7BAD
 F
   ==
-  - [[F1.23 箭]] 弓箭
+  - (F1.23 箭) 弓箭
   ==
 W
   ====
@@ -1453,7 +1451,7 @@ W
     - _(o\)m(3) ts(i/)n(3) (1)sh(e/)ung (4)yan_
         [[am3 zin3 soeng1 jan4 暗箭傷人]],
         to injure one with a secret arrow---slander;
-    - _fong(3) (5)[l(a/)ng] ts(i/)n(3)_
+    - _fong(3) ~~(5)lang~~ ``(5)l(a/)ng`` ts(i/)n(3)_
         [[fong3 lang5 zin3 放冷箭]]
         to shoot at privily;
     - _yat(7) ts(i/)n(3) (1)ch(i/) t(i/)(6)_
@@ -1464,7 +1462,7 @@ W
 C
   ==
   - Williams' 火箭: Now "rocket".
-  - Williams' 放冷箭: Corrected _(5)lang_ (lang5) to _(5)l(a/)ng_ (laang5).
+  - Williams' 放冷箭: Changed _(5)lang_ (lang5) to common reading _(5)l(a/)ng_ (laang5).
   ==
 E
   ====
@@ -1497,8 +1495,8 @@ V
   ==
 F
   ==
-  - [[F1.23 薦]] 舉薦祭亦曰薦
-  - [[F1.23 荐]] 同上
+  - (F1.23 薦) 舉薦祭亦曰薦
+  - (F1.23 荐) 同上
   ==
 W
   ====
@@ -1540,8 +1538,8 @@ V
   ==
 F
   ==
-  - [[F1.23 薦]] 舉薦祭亦曰薦
-  - [[F1.23 荐]] 同上
+  - (F1.23 薦) 舉薦祭亦曰薦
+  - (F1.23 荐) 同上
   ==
 W
   ====
@@ -1550,17 +1548,17 @@ W
     - To lay down, to place on;
     - [[...]];
     - to place under, to wedge;
-    - _(2)(i/) [ts(i/)n(3)]_
+    - _(2)(i/) ~~t(i/)n(3)~~ ``ts(i/)n(3)``_
         [[ji2 zin3 椅薦]]
         a chair cushion;
-    - _(4)t(')ang [ts(i/)n(3)]_
+    - _(4)t(')ang ~~t(i/)n(6)~~ ``ts(i/)n(3)``_
         [[tang4 zin3-2 藤薦]]
         rattan table mats;
-    - _k(')ong(3) [ts(i/)n(3)]_
+    - _k(')ong(3) ~~t(i/)n(6)~~ ``ts(i/)n(3)``_
         [[kong3 zin3 炕薦]]
         a long sofa cushion;
     - [[...]];
-    - _[ts(i/)n(3)] yuk(9)_
+    - _~~t(i/)n(6)~~ ``ts(i/)n(3)`` yuk(9)_
         [[zin3 juk6-2 薦褥]]
         a mattress;
     - [[...]].
@@ -1659,7 +1657,7 @@ E
   --
 $$
 
-###+ 顫3 | _Ch(i/)n(3)_ (zin3)
+###+ 顫3 | _Ch(i/)n(3)_ [[zin3]]
 
 $$
 R
@@ -1672,20 +1670,20 @@ V
   ==
 F
   ==
-  - [[F1.20 顫 _(1)Ch(i/)n_ (zin1)]] 四肢奏掉曰顫
+  - (F1.20 顫 _(1)Ch(i/)n_ (zin1)) 四肢奏掉曰顫
   ==
 W
   ====
   - [[Page~17* (1)顫 _(1)Ch(i/)n_ (zin1); here normalised to _Ch(i/)n(3)_ (zin3)]]
     ==
-    - ~~The head awry [[Kangxi: 頭不正也]]~~;
+    - ~~The head awry [[Kangxi: 頭不正也]];~~
     - shivering with cold;
     - the limbs cold and trembling [[Kangxi: 四支寒動也]];
     - fearful, frightened;
-    - _sz'(3) (1)ch(i/) ch(i/)n[(3)] tung(6)_
+    - _sz'(3) (1)ch(i/) ~~(1)ch(i/)n~~ ``ch(i/)n(3)`` tung(6)_
         [[si3 zi1 zin3 dung6 四肢顫動]]
         trembling all over;
-    - _(4)hon ch(i/)n[(3)]_
+    - _(4)hon ~~(1)ch(i/)n~~ ``ch(i/)n(3)``_
         [[hon4 zin3 寒顫]],
         shivering.
     ==
@@ -1716,7 +1714,7 @@ V
   ==
 F
   ==
-  - [[F1.23 餞]] 以酒食送行曰餞
+  - (F1.23 餞) 以酒食送行曰餞
   ==
 W
   ====
@@ -1767,7 +1765,7 @@ U
   U+8CE4
 F
   ==
-  - [[F1.25 賤]] 卑下也
+  - (F1.25 賤) 卑下也
   ==
 W
   ====

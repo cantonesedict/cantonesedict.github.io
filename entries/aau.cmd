@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aau
-* %date-modified --> 2025-09-07
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -68,9 +68,9 @@ F
 W
   ====
   - [[Page~6 (1)坳]]
-    ==
-    - [[Reading variation (for the literary "uneven-ground" senses). **See $坳aau3 for the canonical entry.**]]
-    ==
+    --
+    [[...]]
+    --
     --
     A colloquial word.
     --
@@ -80,6 +80,9 @@ W
         [[aau1 ai3 坳屭]]
         in want.
     ==
+    --
+    [[Otherwise, a reading variation (for the literary "uneven-ground" senses). **See $坳aau3 for the canonical entry.**]]
+    --
   ====
 S
   ==
@@ -111,7 +114,7 @@ V
   ==
 F
   ==
-  - [[F2.42 上聲 拗]] 屋狡切以手拉折物
+  - (F2.42 上聲 拗) 屋狡切以手拉折物
   ==
 W
   ====
@@ -200,7 +203,7 @@ V
   ==
 F
   ==
-  - [[F2.42 凹]] 灣也曲也
+  - (F2.42 凹) 灣也曲也
   ==
 W
   ====
@@ -242,7 +245,7 @@ V
   ==
 F
   ==
-  - [[F2.42 㘭]] 地㘭下也不平也
+  - (F2.42 㘭) 地㘭下也不平也
   ==
 W
   ====
@@ -288,7 +291,7 @@ V
   ==
 F
   ==
-  - [[F2.42 去聲 拗]] 偏急不相合也
+  - (F2.42 去聲 拗) 偏急不相合也
   ==
 W
   ====
@@ -334,7 +337,7 @@ S
   ==
 $$
 
-###+ 詏3 | _(A/)u(3)_ (aau3)
+###+ 詏3 | _(A/)u(3)_ [[aau3]]
 
 $$
 R

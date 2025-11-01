@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> co
-* %date-modified --> 2025-07-30
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -76,7 +76,7 @@ V
   ==
 F
   ==
-  - [[F2.58 傞]] 舞不止也
+  - (F2.58 傞) 舞不止也
   ==
 W
   ====
@@ -104,7 +104,7 @@ U
   U+521D
 F
   ==
-  - [[F2.58 初]] 始也先也
+  - (F2.58 初) 始也先也
   ==
 W
   ====
@@ -126,7 +126,7 @@ W
     - _(1)ch(')o (4)t(')au f(a/)t(8) shai(3)_
         [[co1 tau4 faat3 sai3 初頭發勢]]^
         a great show at starting;
-    - _[(1)]ch(')o (4)loi p(o\)(6) t(o\)(3)_
+    - _~~(4)ch(')o~~ ``(1)ch(')o`` (4)loi p(o\)(6) t(o\)(3)_
         [[co1 loi4 bou6 dou3 初來步到]]
         unacquainted with things;
     - _(1)ch(')o ts(o\)(6)_
@@ -134,7 +134,7 @@ W
         to begin;
     - _(1)ch(')o (1)shang_
         [[co1 sang1 初生]],
-        a first-born;
+        a ~~first-born~~ ``newborn``;
     - _(1)ch(')o (4)ts(')un_
         [[co1 ceon4 初旬]],
         the first decade;
@@ -151,7 +151,6 @@ C
   - Williams' "To cut out garments": Specifically, the beginning of producing clothes.
   - Williams' 初間, 初旬, 初幾: Here, "decade" means ten days.
   - Williams' 初來步到: Corrected _(4)ch(')o_ (co4) to _(1)ch(')o_ (co1).
-  - Williams' 初生: More newborn than firstborn.
   ==
 E
   ====
@@ -210,7 +209,7 @@ V
   ==
 F
   ==
-  - [[F2.58 嵯]] 嵯峨
+  - (F2.58 嵯) 嵯峨
   ==
 W
   ====
@@ -245,7 +244,7 @@ U
   U+6413
 F
   ==
-  - [[F2.58 搓]] ::[挪]然也::
+  - (F2.58 搓) ::[挪]然也::
   ==
 W
   ====
@@ -295,7 +294,7 @@ V
   ==
 F
   ==
-  - [[F2.58 瑳]] ::玉[鮮]白色::
+  - (F2.58 瑳) ::玉[鮮]白色::
   ==
 W
   ====
@@ -355,7 +354,7 @@ A
   ==
 F
   ==
-  - [[F2.58 磋]] 切磋所以治骨角
+  - (F2.58 磋) 切磋所以治骨角
   ==
 W
   ====
@@ -387,7 +386,7 @@ U
   U+8256
 F
   ==
-  - [[F2.58 艖]] 舟名
+  - (F2.58 艖) 舟名
   ==
 W
   ====
@@ -411,7 +410,7 @@ U
   U+82BB
 F
   ==
-  - [[F2.58 芻]] 草也
+  - (F2.58 芻) 草也
   ==
 W
   ====
@@ -439,7 +438,7 @@ U
   U+8E49
 F
   ==
-  - [[F2.58 蹉]] 蹉跎不及也
+  - (F2.58 蹉) 蹉跎不及也
   ==
 W
   ====
@@ -454,7 +453,7 @@ W
   ====
 $$
 
-###+ 雛1 | _(1)Ch(')o_ (co1)
+###+ 雛1 | _(1)Ch(')o_ [[co1]]
 
 $$
 R
@@ -467,7 +466,7 @@ V
   ==
 F
   ==
-  - [[F2.60 雛 _(4)Ch(')o_ (co4)]] 鳥子曰雛
+  - (F2.60 雛 _(4)Ch(')o_ (co4)) 鳥子曰雛
   ==
 W
   ====
@@ -475,7 +474,7 @@ W
     ==
     - A chick, a fledgeling [[Kangxi: 雞子也]];
     - the callow young of birds;
-    - _[(1)]ch(')o (1)kai_
+    - _~~(4)ch(')o~~ ``(1)ch(')o`` (1)kai_
         [[co1 gai1 雛雞]],
         a chicken.
     ==
@@ -487,7 +486,7 @@ S
 $$
 
 
-##{#2 .williams} (2)Ch(')o <ins class="modern">(2)Ts(')o</ins> [[co2 陰上]]
+##{#2 .williams} (2)Ch(')o ``(2)Ts(')o`` [[co2 陰上]]
 
 <## tone-2-characters ##>
 <nav class="sideways">
@@ -510,7 +509,7 @@ U
   U+61B7
 F
   ==
-  - [[F2.60 憷]] 辛苦痛也
+  - (F2.60 憷) 辛苦痛也
   ==
 W
   ====
@@ -534,7 +533,7 @@ A
   ==
 F
   ==
-  - [[F2.60 楚]] 國名大也高起也又夏楚荊條也
+  - (F2.60 楚) 國名大也高起也又夏楚荊條也
   ==
 W
   ====
@@ -572,7 +571,7 @@ P
   ++
 $$
 
-###+ 瑳2 | _(2)Ts(')o_ (co2)
+###+ 瑳2 | _(2)Ts(')o_ [[co2]]
 
 $$
 R
@@ -599,7 +598,7 @@ S
   ==
 $$
 
-### [礎]2 | _(2)Ch(')o_ [[co2]]
+### ~~{？=⿰石⿱林⿱冖⿱一龰}~~``礎``2 | _(2)Ch(')o_ [[co2]]
 
 $$
 R
@@ -610,20 +609,16 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~26* ::(2)[礎]^::]]
+  - [[Page~26* ::(2)~~{？=⿰石⿱林⿱冖⿱一龰}~~``礎``::]]
     ==
     - The stone base of a pillar or column [[Kangxi: 柱下石, 礩也]];
     - a pedestal;
     - a plinth.
     ==
   ====
-C
-  ==
-  - Williams misprints 礎 as ⿰石⿱林⿱冖⿱一龰; here corrected.
-  ==
 $$
 
-###+ 脞2 | _(2)Ts(')o_ (co2)
+###+ 脞2 | _(2)Ts(')o_ [[co2]]
 
 $$
 R
@@ -636,7 +631,7 @@ V
   ==
 F
   ==
-  - [[F2.61 脞 _Ts(')o(3)_ (co3)]] 叢脞又細碎無大畧也
+  - (F2.61 脞 _Ts(')o(3)_ (co3)) 叢脞又細碎無大畧也
   ==
 W
   ====
@@ -678,8 +673,8 @@ U
   U+5249
 F
   ==
-  - [[F2.61 剉]] 折也
-  - [[F2.61 銼]] 與剉同
+  - (F2.61 剉) 折也
+  - (F2.61 銼) 與剉同
   ==
 W
   ====
@@ -703,7 +698,7 @@ U
   U+632B
 F
   ==
-  - [[F2.61 挫]] 摧折也打也
+  - (F2.61 挫) 摧折也打也
   ==
 W
   ====
@@ -733,7 +728,7 @@ U
   U+811E
 F
   ==
-  - [[F2.61 脞]] 叢脞又細碎無大畧也
+  - (F2.61 脞) 叢脞又細碎無大畧也
   ==
 W
   ====
@@ -766,8 +761,8 @@ V
   ==
 F
   ==
-  - [[F2.61 剉]] 折也
-  - [[F2.61 銼]] 與剉同
+  - (F2.61 剉) 折也
+  - (F2.61 銼) 與剉同
   ==
 W
   ====
@@ -828,7 +823,7 @@ W
     - _(5)m(o\) ts(')o(3)_
         [[mou5 co3 冇錯]]
         no mistake, right;
-    - _ts(')o(3) [(1)]ng(a/)m_
+    - _ts(')o(3) ~~(5)ng(a/)m~~ ``(1)ng(a/)m``_
         [[co3 ngaam1 錯啱]],
         a lucky hit, an error which is fortunate;
     - _(4)'m ying(6) ts(')o(3)_
@@ -849,6 +844,7 @@ C
   ==
   - The classical reading of the "erroneous" and "mixed" senses
     is entering-tone _ts(')ok(8)_ (cok3).
+  - Williams' 錯啱: Corrected _(5)ng(a/)m_ (ngaam5) to _(1)ng(a/)m_ (ngaam1).
   ==
 E
   ====
@@ -875,7 +871,7 @@ S
 $$
 
 
-##{#4 .williams} (4)Ch(')o <ins class="modern">(4)Ts(')o</ins> [[co4 陽平]]
+##{#4 .williams} (4)Ch(')o ``(4)Ts(')o`` [[co4 陽平]]
 
 <## tone-4-characters ##>
 <nav class="sideways">
@@ -888,7 +884,7 @@ $$
 </nav>
 <## /tone-4-characters ##>
 
-###+ 瘥4 | _(4)Ts(')o_ (co4)
+###+ 瘥4 | _(4)Ts(')o_ [[co4]]
 
 $$
 R
@@ -916,7 +912,7 @@ S
   ==
 $$
 
-### 鉏4 | _[(4)]Ch(')o_ [[co4]]^
+### 鉏4 | _~~(5)Ch(')o~~ ``(4)Ch(')o``_ [[co4]]^
 
 $$.
 R
@@ -925,12 +921,12 @@ U
   U+924F
 F
   ==
-  - [[F2.60 鋤]] 冲所切田器也
-  - [[F2.60 鉏]] 同上
+  - (F2.60 鋤) 冲所切田器也
+  - (F2.60 鉏) 同上
   ==
 W
   ====
-  - [[Page~26* ::[(4)]鉏[(4)]鋤::]]
+  - [[Page~26* ::~~(5)鉏(5)鋤~~``(4)鉏(4)鋤``::]]
     --
     [[Alternative form of 鋤. **See $鋤co4 for the canonical entry.**]]
     --
@@ -938,11 +934,10 @@ W
 C
   ==
   - Fan Wan entry: The supplied dissection 冲所切 is incorrect.
-  - Williams misprints (4)鉏(4)鋤 as (5)鉏(5)鋤; here corrected.
   ==
 $$
 
-### 鋤4 | _[(4)]Ch(')o_ [[co4]]^
+### 鋤4 | _~~(5)Ch(')o~~ ``(4)Ch(')o``_ [[co4]]^
 
 $$
 R
@@ -955,12 +950,12 @@ A
   ==
 F
   ==
-  - [[F2.60 鋤]] 冲所切田器也
-  - [[F2.60 鉏]] 同上
+  - (F2.60 鋤) 冲所切田器也
+  - (F2.60 鉏) 同上
   ==
 W
   ====
-  - [[Page~26* ::[(4)]鉏[(4)]鋤::]]
+  - [[Page~26* ::~~(5)鉏(5)鋤~~``(4)鉏(4)鋤``::]]
     ==
     - A hoe, a mattoc [[Kangxi 鉏: 立薅所用也, 助也去穢助苗也]];
     - to hoe, to cultivate [[Kangxi 鉏: 治田也]];
@@ -975,7 +970,6 @@ W
 C
   ==
   - Fan Wan entry: The supplied dissection 冲所切 is incorrect.
-  - Williams misprints (4)鉏(4)鋤 as (5)鉏(5)鋤; here corrected.
   ==
 E
   ====
@@ -1000,7 +994,7 @@ U
   U+96DB
 F
   ==
-  - [[F2.60 雛]] 鳥子曰雛
+  - (F2.60 雛) 鳥子曰雛
   ==
 W
   ====
@@ -1026,7 +1020,7 @@ $$
 </nav>
 <## /tone-5-characters ##>
 
-###+ 坐5 | _(5)Ts(')o_ (co5)
+###+ 坐5 | _(5)Ts(')o_ [[co5]]
 
 $$
 R

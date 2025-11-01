@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aak
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -57,7 +57,7 @@ $$
 </nav>
 <## /tone-1-characters ##>
 
-###+ 厄1 | _(A/)k(7)_ (aak1)
+###+ 厄1 | _(A/)k(7)_ [[aak1]]
 
 $$.
 R
@@ -79,7 +79,7 @@ S
   ==
 $$
 
-###+ 呃1 | _(A/)k(7)_ (aak1)
+###+ 呃1 | _(A/)k(7)_ [[aak1]]
 
 $$
 R
@@ -127,7 +127,7 @@ S
   ==
 $$
 
-###+ 握1 | _(A/)k(7)_ (aak1)
+###+ 握1 | _(A/)k(7)_ [[aak1]]
 
 $$.
 R
@@ -162,8 +162,8 @@ V
   ==
 F
   ==
-  - [[F2.33 軛 _Ak(7)_ (ak1)]] ::轅端橫[木]駕馬頸者::
-  - [[F2.90 軛 _(A/)k(8)_ (aak3)]] 牛軛
+  - (F2.33 軛 _Ak(7)_ (ak1)) ::轅端橫[木]駕馬頸者::
+  - (F2.90 軛 _(A/)k(8)_ (aak3)) 牛軛
   ==
 W
   ====
@@ -231,7 +231,7 @@ V
   ==
 F
   ==
-  - [[F2.90 鈪]] ::[哀]百切鈪[鐲]也::
+  - (F2.90 鈪) ::[哀]百切鈪[鐲]也::
   ==
 W
   ====
@@ -244,7 +244,7 @@ W
     - a bangle;
     - _k(e/)uk(8) (a/)k(8)_
         [[goek3 aak3-2 腳鈪]]
-        a[n] anklet;
+        a``n`` anklet;
     - _(1)kam (a/)k(8)_
         [[gam1 aak3-2 金鈪]]
         a gold wristlet;

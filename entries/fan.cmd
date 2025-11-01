@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fan
-* %date-modified --> 2025-10-18
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -91,7 +91,7 @@ U
   U+5206
 F
   ==
-  - [[F1.80 分]] 分别分離
+  - (F1.80 分) 分别分離
   ==
 W
   ====
@@ -113,10 +113,11 @@ W
     - _(1)fan (1)hoi_
         [[fan1 hoi1 分開]],
         to separate;
-    - _(1)fan p(i/)t[(9)]_
+    - _(1)fan ~~p(i/)t(8)~~ ``p(i/)t(9)``_
         [[fan1 bit6 分別]]
         to divide, to leave;
-    - _(1)fan p(u/)n[(6)]_
+        ``separately;``
+    - _(1)fan ~~p(u/)n(3)~~ ``p(u/)n(6)``_
         [[fan1 bun6 分伴]]
         to dissolve partnership;
     - _(1)fan (4)ch(')ing sh(o\)(3)_
@@ -125,7 +126,7 @@ W
     - _(1)fan (1)k(a/)_
         [[fan1 gaa1 分家]],
         to divide the estate;
-    - _(1)fan [p(')(a/)i](3)_
+    - _(1)fan ~~p(a/)i(3)~~ ``p(')(a/)i(3)``_
         [[fan1 paai3 分派]]
         to give amongst;
     - _yat(7) (1)fan (4)hong fo(3), yat(7) (1)fan (4)ts(')(i/)n_
@@ -147,7 +148,6 @@ C
   - Williams' "a candareen": That is, a tenth of a mace (錢),
     or a hundredth of a tael (両).
   - Williams' 分別: Corrected _p(i/)t(8)_ (bit3) to _p(i/)t(9)_ (bit6).
-    Also "separately".
   - Williams' 分伴: Corrected _p(u/)n(3)_ (bun3) to _p(u/)n(6)_ (bun6).
   - Williams' 分派: Corrected _p(a/)i(3)_ (baai3) to _p(')(a/)i(3)_ (paai3).
   - Williams' 分柑同味: So spelt because of his reference to "orange".
@@ -166,7 +166,7 @@ S
   ==
 $$
 
-###+ 勛1 | _(1)Fan_ (fan1)
+###+ 勛1 | _(1)Fan_ [[fan1]]
 
 $$.
 R
@@ -175,8 +175,8 @@ U
   U+52DB
 F
   ==
-  - [[F1.80 ::[勳]::]] 功勞也
-  - [[F1.80 勛]] 同上
+  - (F1.80 ::[勳]::) 功勞也
+  - (F1.80 勛) 同上
   ==
 W
   [[Not present]]
@@ -190,7 +190,7 @@ P
   ++
 $$
 
-### [勳]1 | _(1)Fan_ [[fan1]]
+### ~~{？=⿺熏力}~~``勳``1 | _(1)Fan_ [[fan1]]
 
 $$
 R
@@ -204,12 +204,12 @@ A
   ==
 F
   ==
-  - [[F1.80 ::[勳]::]] 功勞也
-  - [[F1.80 勛]] 同上
+  - (F1.80 ::[勳]::) 功勞也
+  - (F1.80 勛) 同上
   ==
 W
   ====
-  - [[Page~45 ::(1)[勳]^::]]
+  - [[Page~45 ::(1)~~{？=⿺熏力}~~``勳``::]]
     ==
     - Loyal merit [[Kangxi: 能成王功也 etc.]], meritorious;
     - to spend strength for one's king;
@@ -224,7 +224,6 @@ W
 C
   ==
   - Fan Wan entry: Normalised headword ⿺熏力 to 勳.
-  - Williams entry: Normalised headword ⿺熏力 to 勳.
   ==
 $$
 
@@ -237,14 +236,14 @@ U
   U+5429
 F
   ==
-  - [[F1.80 吩]] 吩咐
+  - (F1.80 吩) 吩咐
   ==
 W
   ====
   - [[Page~46 (1)吩]]
     ==
     - To direct;
-    - _(1)fan f(u/)[(3)]_
+    - _(1)fan ~~(1)f(u/)~~ ``f(u/)(3)``_
         [[fan1 fu3 吩咐]],
         to bid to do, to order.
     ==
@@ -271,7 +270,7 @@ A
   ==
 F
   ==
-  - [[F1.80 婚]] 婚姻
+  - (F1.80 婚) 婚姻
   ==
 W
   ====
@@ -281,13 +280,13 @@ W
     - to take a wife;
     - _(1)fan (1)yan_
         [[fan1 jan1 婚姻]],
-        ~~nuptials~~;
+        ~~nuptials~~ ``marriage``;
     - _(4)m(a/)i (1)fan_
         [[maai4 fan1 埋婚]],
         to complete a marriage;
-    - _[(4)]l(i/)n (1)fan_
+    - _~~(1)l(i/)n~~ ``(4)l(i/)n`` (1)fan_
         [[lin4 fan1 連婚]] [[Kangxi: 婚嫁之婚親曰連婚]],
-        ~~to marry relatives~~;
+        ~~to marry relatives~~ ``relatives by marriage, _i.~e._ in-laws``;
     - _(1)fan p(')(u/)i(3)_
         [[fan1 pui3 婚配]]
         to contract a marriage.
@@ -295,13 +294,11 @@ W
   ====
 C
   ==
-  - Williams' 婚姻: Better rendered "marriage".
   - Williams' 連婚: Corrected _(1)l(i/)n_ (lin1) to _(4)l(i/)n_ (lin4).
-    Not to marry relatives, but relatives by marriage (i.e. in-laws).
   ==
 $$
 
-###+ 帉1 | _(1)Fan_ (fan1)
+###+ 帉1 | _(1)Fan_ [[fan1]]
 
 $$
 R
@@ -340,7 +337,7 @@ V
   ==
 F
   ==
-  - [[F1.80 惛]] 心不明也
+  - (F1.80 惛) 心不明也
   ==
 W
   ====
@@ -365,14 +362,14 @@ A
   ==
 F
   ==
-  - [[F1.80 昏]] 日暮也暗也昧也
+  - (F1.80 昏) 日暮也暗也昧也
   ==
 W
   ====
   - [[Page~45 (1)昏]]
     ==
     - The sun setting [[Kangxi: 日冥也]];
-    - twilight;
+    - ~~twilight~~ ``dusk``;
     - dusk [[Kangxi: 昏代也, 代明也, 日入後二刻半爲昏昏來則明往故云代明]];
     - obscure, confused, dull [[Kangxi: 昏亂也]];
     - in disorder;
@@ -391,7 +388,7 @@ W
         unintelligible;
     - _(1)fan y(e/)(6)_
         [[fan1 je6 昏夜]]
-        night;
+        ``a gloomy`` night;
     - _(1)fan (1)f(a/)_
         [[fan1 faa1 昏花]],
         motes in the eye.
@@ -400,11 +397,6 @@ W
     [[Otherwise, an alternative form of 婚. **See $婚fan1 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - Williams' "twilight": Specifically, dusk.
-  - Williams' 昏夜: Better rendered "gloomy night".
-  ==
 P
   ++
   1. To endeavour, to make an effort (Kangxi: 昏彊也).
@@ -413,7 +405,7 @@ P
   ++
 $$
 
-###+ 昬1 | _(1)Fan_ (fan1)
+###+ 昬1 | _(1)Fan_ [[fan1]]
 
 $$.
 R
@@ -444,7 +436,7 @@ A
   ==
 F
   ==
-  - [[F1.80 曛]] 日没曰曛
+  - (F1.80 曛) 日没曰曛
   ==
 W
   ====
@@ -460,17 +452,16 @@ W
     ==
   - [[Page~45 (1)曛]]
     ==
-    - Twilight [[Kangxi: 黃昏時]];
+    - ~~Twilight~~ ``Dusk`` [[Kangxi: 黃昏時]];
     - the light reflected after sunset [[Kangxi: 日入餘光]];
     - ~~exhilarated;~~
-    - _(1)sh(a/)n (4)h(a/)m (1)fan (2)[ying]_
+    - _(1)sh(a/)n (4)h(a/)m (1)fan ~~(2)y(e/)ung~~ ``(2)ying``_
         [[saan1 haam4 fan1 jing2 山涵曛映]],
         the hills are tinged with the setting sun.
     ==
   ====
 C
   ==
-  - Williams' "Twilight": Specifically, dusk.
   - Williams' 山涵曛映: Corrected _(2)y(e/)ung_ (joeng2) to _(2)ying_ (jing2).
   ==
 $$
@@ -484,7 +475,7 @@ U
   U+678C
 F
   ==
-  - [[F1.80 枌]] 枌榆木名
+  - (F1.80 枌) 枌榆木名
   ==
 W
   ====
@@ -512,7 +503,7 @@ V
   ==
 F
   ==
-  - [[F1.80 棻]] 香木也
+  - (F1.80 棻) 香木也
   ==
 W
   ====
@@ -540,8 +531,8 @@ V
   ==
 F
   ==
-  - [[F1.80 紛]] ::紛紜雜也[衆]也紛[亂]也::
-  - [[F1.80 棼]] 同上
+  - (F1.80 紛) ::紛紜雜也[衆]也紛[亂]也::
+  - (F1.80 棼) 同上
   ==
 W
   ====
@@ -577,7 +568,7 @@ V
   ==
 F
   ==
-  - [[F1.80 氛]] 沃氛
+  - (F1.80 氛) 沃氛
   ==
 W
   ====
@@ -596,7 +587,7 @@ W
         pirates;
     - _kwok(8) (1)fan_
         [[gwok3 fan1 國氛]],
-        ~~demagogues~~, disturbers of the peace.
+        ~~demagogues, disturbers~~ ``disturbings`` of the peace.
     ==
   ====
 C
@@ -605,7 +596,6 @@ C
     and 撫文切 _(1)fan_ (fan1) for 氛侵妖氣 "malign ambiance".
     Modern usage prefers the latter reading, and it is debatable
     whether the distinction was necessary in the first place.
-  - Williams' 國氛: Better rendered "disturbings of the peace".
   ==
 $$
 
@@ -618,7 +608,7 @@ U
   U+6C7E
 F
   ==
-  - [[F1.80 汾]] 水名
+  - (F1.80 汾) 水名
   ==
 W
   ====
@@ -649,7 +639,7 @@ A
   ==
 F
   ==
-  - [[F1.80 涽]] 齊涽王
+  - (F1.80 涽) 齊涽王
   ==
 W
   ====
@@ -672,7 +662,7 @@ C
   ==
 $$
 
-###+ 湣1 | _(1)Fan_ (fan1)
+###+ 湣1 | _(1)Fan_ [[fan1]]
 
 $$.
 R
@@ -702,7 +692,7 @@ U
   U+7104
 F
   ==
-  - [[F1.80 焄]] ::香氣也禮云焄蒿悽[愴]::
+  - (F1.80 焄) ::香氣也禮云焄蒿悽[愴]::
   ==
 W
   ====
@@ -711,7 +701,7 @@ W
     - [[...]];
     - fumes from cooked vegetables;
     - ~~savory~~ odors [[Kangxi: 香臭之氣也]];
-    - _(1)fan (1)[h(o\)]_
+    - _(1)fan ~~(1)ho~~ ``(1)h(o\)``_
         [[fan1 hou1 焄蒿]],
         steam from viands;
         odorous exhalations.
@@ -749,7 +739,7 @@ A
   ==
 F
   ==
-  - [[F1.80 熏]] ::烟也又[熱]氣蒸也::
+  - (F1.80 熏) ::烟也又[熱]氣蒸也::
   ==
 W
   ====
@@ -769,12 +759,12 @@ W
         [[fan1 fo2 teoi2 熏火腿]],
         to smoke hams;
     - _(1)fan (1)fan_
-        [[fan1 fan1 熏熏]],
-        ~~uneasy, fidgetty~~;
+        [[fan1 fan1 熏熏]]~~,
+        uneasy, fidgetty~~;
     - _(1)fan (1)kon_
         [[fan1 gon1 熏乾]],
         to dry at the fire;
-    - _(1)fan chek[(8)]_
+    - _(1)fan ~~chek(9)~~ ``chek(8)``_
         [[fan1 zek3 熏炙]]
         to cauterize [[Kangxi 焄: 焄猶熏炙之也]].
     ==
@@ -806,7 +796,7 @@ P
   ++
 $$
 
-###+ 燻1 | _(1)Fan_ (fan1)
+###+ 燻1 | _(1)Fan_ [[fan1]]
 
 $$
 R
@@ -837,7 +827,7 @@ A
   ==
 F
   ==
-  - [[F1.80 獯]] 獯鬻狄人號也
+  - (F1.80 獯) 獯鬻狄人號也
   ==
 W
   ====
@@ -865,8 +855,8 @@ A
   ==
 F
   ==
-  - [[F1.80 紛]] ::紛紜雜也[衆]也紛[亂]也::
-  - [[F1.80 棼]] 同上
+  - (F1.80 紛) ::紛紜雜也[衆]也紛[亂]也::
+  - (F1.80 棼) 同上
   ==
 W
   ====
@@ -929,7 +919,7 @@ U
   U+7E81
 F
   ==
-  - [[F1.80 纁]] 淡紅色也
+  - (F1.80 纁) 淡紅色也
   ==
 W
   ====
@@ -953,7 +943,7 @@ U
   U+82AC
 F
   ==
-  - [[F1.80 芬]] 芬芳
+  - (F1.80 芬) 芬芳
   ==
 W
   ====
@@ -995,7 +985,7 @@ A
   ==
 F
   ==
-  - [[F1.80 葷]] ::臭草又不食[齋]曰葷::
+  - (F1.80 葷) ::臭草又不食[齋]曰葷::
   ==
 W
   ====
@@ -1011,7 +1001,7 @@ W
         not to eat meat;
     - _(1)fan (1)seng_
         [[fan1 seng1 葷腥]],
-        ~~savory~~ odors of food.
+        ~~savory~~ ``meaty`` odors of food.
     ==
     --
     [[Otherwise, an alternative form of 獯. **See $獯fan1 for the canonical entry.**]]
@@ -1020,7 +1010,6 @@ W
 C
   ==
   - Fan Wan entry: Corrected malformed 齋.
-  - Williams' 葷腥: Better rendered "meaty odours".
   ==
 $$
 
@@ -1056,7 +1045,7 @@ U
   U+85B0
 F
   ==
-  - [[F1.80 ::[薰]::]] 香草
+  - (F1.80 ::[薰]::) 香草
   ==
 W
   ====
@@ -1099,7 +1088,7 @@ A
   ==
 F
   ==
-  - [[F1.80 醺]] 微醉也
+  - (F1.80 醺) 微醉也
   ==
 W
   ====
@@ -1127,14 +1116,14 @@ A
   ==
 F
   ==
-  - [[F1.80 閽]] 閽人守門之役
+  - (F1.80 閽) 閽人守門之役
   ==
 W
   ====
   - [[Page~45 (1)閽]]
     ==
-    - ~~To shut the door at evening;~~
-    - a porter [[Kangxi: 閽者守門之賤者也]];
+    - ~~To shut~~ ``The lowly servant who shuts`` the door at evening [[Kangxi: 常以昏閉門隸也]];
+    - a ``lowly`` porter [[Kangxi: 閽者守門之賤者也]];
     - _(1)fan (4)yan_
         [[fan1 jan4 閽人]],
         a doorkeeper, an eunuch who keeps the hareem;
@@ -1143,13 +1132,6 @@ W
         to visit the palace [[Kangxi: 凡吏民冤抑詣闕自愬者曰叩閽]].
     ==
   ====
-C
-  ==
-  - Williams' "To shut the door at evening":
-    This is a misreading of Kangxi 常以昏閉門隸也,
-    which refers to the *lowly servant* (隸) who shuts the door at evening.
-  - Williams' "a porter": Specifically, a lowly porter.
-  ==
 P
   ++
   1. A palace gate.
@@ -1165,7 +1147,7 @@ U
   U+96F0
 F
   ==
-  - [[F1.80 雰]] 下雲貌
+  - (F1.80 雰) 下雲貌
   ==
 W
   ====
@@ -1199,7 +1181,7 @@ H
   depending on the font.
 F
   ==
-  - [[F1.80 餴]] 蒸熟米以水沃之乃再蒸也
+  - (F1.80 餴) 蒸熟米以水沃之乃再蒸也
   ==
 W
   ====
@@ -1210,7 +1192,7 @@ W
   ====
 $$
 
-###+ 饙1 | _(1)Fan_ (fan1)
+###+ 饙1 | _(1)Fan_ [[fan1]]
 
 $$
 R
@@ -1226,7 +1208,7 @@ A
   ==
 F
   ==
-  - [[F1.80 餴]] 蒸熟米以水沃之乃再蒸也
+  - (F1.80 餴) 蒸熟米以水沃之乃再蒸也
   ==
 W
   ====
@@ -1307,7 +1289,7 @@ V
   ==
 F
   ==
-  - [[F1.83 粉]] ::米[末]也又粉飾::
+  - (F1.83 粉) ::米[末]也又粉飾::
   ==
 W
   ====
@@ -1317,10 +1299,11 @@ W
     - a flour of any grain [[Kangxi: 豆屑也]];
     - pigment, to adorn [[Kangxi: 傅也飾也]];
     - to whitewash or color [[Kangxi: 設采潤色謂之粉澤 etc.]];
-    - _[(5)]mai (2)fan_
+    - _~~(2)mai~~ ``(5)mai`` (2)fan_
         [[mai5 fan2 米粉]]^
         rice flour;
-    - _suk(7) [(5)]mai (2)fan_
+        ``rice vermicelli;``
+    - _suk(7) ~~(2)mai~~ ``(5)mai`` (2)fan_
         [[suk1 mai5 fan2 粟米粉]],
         indian-meal;
     - _(2)fan (1)sz'_ [[fan2 si1 粉絲]]
@@ -1336,16 +1319,16 @@ W
     - _(2)fan toi(6)_
         [[fan2 doi6-2 粉袋]]
         a tailor's chalk-bag;
-    - _[(4)]l(e/)ung (2)fan_
+    - _~~(1)l(e/)ung~~ ``(4)l(e/)ung`` (2)fan_
         [[loeng4 fan2 涼粉]],
         a sort of jelly;
-    - _(2)fan sui[(3)]_
+    - _(2)fan ~~sui(6)~~ ``sui(3)``_
         [[fan2 seoi3 粉碎]]
         smashed to shivers;
     - _(2)fan shik(7) t(')(a/)i(3) (4)p(')ing_
         [[fan2 sik1 taai3 ping4 粉飾太平]],
         a specious peace;
-    - _(2)fan (4)[p(')(a/)i]_
+    - _(2)fan ~~(4)^p(a/)i~~ ``(4)p(')(a/)i``_
         [[fan2 paai4 粉牌]]^
         a writing-board;
     - _(2)fan pik(7)_
@@ -1366,9 +1349,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected 未 to 末.
-  - Williams' 米粉: Corrected _(2)mai_ (mai2) to _(5)mai_ (mai5).
-    Also rice vermicelli.
-  - Williams' 粟米粉: Corrected _(2)mai_ (mai2) to _(5)mai_ (mai5).
+  - Williams' 米粉, 粟米粉: Corrected _(2)mai_ (mai2) to _(5)mai_ (mai5).
   - Williams' 粉絲: Now more commonly known as glass/cellophane noodles.
   - Williams' 面粉: Not to be confused with 麪粉.
   - Williams' 涼粉: Corrected _(1)l(e/)ung_ (loeng1) to _(4)l(e/)ung_ (loeng4).
@@ -1490,7 +1471,7 @@ U
   U+7CDE
 F
   ==
-  - [[F1.85 糞]] ::糞[穢]又壅也::
+  - (F1.85 糞) ::糞[穢]又壅也::
   ==
 W
   ====
@@ -1534,13 +1515,13 @@ U
   U+8A13
 F
   ==
-  - [[F1.85 訓]] 敎訓也又誡也
+  - (F1.85 訓) 敎訓也又誡也
   ==
 W
   ====
   - [[Page~47 訓(3)]]
     ==
-    - To instruct [[Kangxi: 說敎也, 導也]], to teach [[Kangxi: 誨也]], ~~to exhort~~;
+    - To instruct [[Kangxi: 說敎也, 導也]], to teach [[Kangxi: 誨也]]~~, to exhort~~;
     - to explain [[Kangxi: 訓者釋所言之理也]];
     - a doctrine, precept [[Kangxi: 古言可爲法也]];
     - ~~definition;~~
@@ -1549,19 +1530,15 @@ W
         to instruct;
     - _fan(3) l(i/)n(6)_
         [[fan3 lin6 訓練]]
-        ~~to teach the manual~~;
+        ~~to teach the manual~~ ``to train``;
     - _fan(3) t(o\)(6)_
         [[fan3 dou6 訓導]]
-        the [superintendent] of education in each department;
+        the ~~snperintendent~~ ``superintendent`` of education in each department;
     - _(2)k(u/) fan(3)_
         [[gu2 fan3 古訓]]
         tradition.
     ==
   ====
-C
-  ==
-  - Williams' 訓練: Better rendered "to train".
-  ==
 P
   ++
   1. To caution (Kangxi: 誡也).
@@ -1603,7 +1580,7 @@ H
   depending on the font.
 F
   ==
-  - [[F1.81 墳]] 墳墓又墳典言書籍也
+  - (F1.81 墳) 墳墓又墳典言書籍也
   ==
 W
   ====
@@ -1618,9 +1595,9 @@ W
     - _(4)Fan m(o\)(6)_
         [[fan4 mou6 墳墓]]
         a tomb;
-    - _s(o\)(3) [(4)]fan_
+    - _s(o\)(3) ~~(1)fan~~ ``(4)fan``_
         [[sou3 fan4 掃墳]],
-        to worship the graves;
+        to worship ``at`` the graves;
     - _(1)fong (4)fan_
         [[fong1 fan4 荒墳]],
         a deserted grave;
@@ -1655,7 +1632,7 @@ H
   depending on the font.
 F
   ==
-  - [[F1.82 幩]] 鑣之飾也
+  - (F1.82 幩) 鑣之飾也
   ==
 W
   ====
@@ -1666,7 +1643,7 @@ W
   ====
 $$
 
-###+ 枌4 | _(4)Fan_ (fan4)
+###+ 枌4 | _(4)Fan_ [[fan4]]
 
 $$
 R
@@ -1679,7 +1656,7 @@ V
   ==
 F
   ==
-  - [[F1.80 枌 _(1)Fan_ (fan1)]] 枌榆木名
+  - (F1.80 枌 _(1)Fan_ (fan1)) 枌榆木名
   ==
 W
   ====
@@ -1687,25 +1664,21 @@ W
     ==
     - A tree resembling the elm with white wood [[Kangxi: 楡白枌]];
     - [[...]];
-    - _[(4)]fan (4)(u:) (5)sh(e/)_
+    - _~~(1)fan~~ ``(4)fan`` (4)(u:) (5)sh(e/)_
         [[fan4 jyu4 se5 枌榆社]],
-        an agricultural feast [[Kangxi: 枌楡社名]].
+        an agricultural ~~feast~~ ``altar`` [[Kangxi: 枌楡社名]].
     ==
     --
     [[Otherwise, an alternative form of 棼 (for the "roof-beam" sense). **See $棼fan4 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - Williams' 枌榆社: Better rendered "altar" than "feast".
-  ==
 S
   ==
   - $枌fan1
   ==
 $$
 
-###+ 棼4 | _(4)Fan_ (fan4)
+###+ 棼4 | _(4)Fan_ [[fan4]]
 
 $$
 R
@@ -1742,7 +1715,7 @@ S
   ==
 $$
 
-###+ 汾4 | _(4)Fan_ (fan4)
+###+ 汾4 | _(4)Fan_ [[fan4]]
 
 $$
 R
@@ -1755,7 +1728,7 @@ V
   ==
 F
   ==
-  - [[F1.80 汾 _(1)Fan_ (fan1)]] 水名
+  - (F1.80 汾 _(1)Fan_ (fan1)) 水名
   ==
 W
   ====
@@ -1764,11 +1737,11 @@ W
     A river in Sh(a/)ns(i/) [[山西]], a branch of the Yellow R [[Kangxi: 水名 etc.]].
     --
     ==
-    - _[(4)]Fan (4)y(e/)ung (4)wong_
+    - _~~(1)Fan~~ ``(4)Fan`` (4)y(e/)ung (4)wong_
         [[fan4 joeng4 wong4 汾陽王]],
         a personage in the T(a/)ng [[唐]] dynasty,
         whose name is a synonym for happiness;
-    - as _[(4)]Fan (4)y(e/)ung (2)t(i/)m (5)h(o\)m_
+    - as _~~(1)Fan~~ ``(4)Fan`` (4)y(e/)ung (2)t(i/)m (5)h(o\)m_
         [[fan4 joeng4 dim2 ham5 汾陽點頷]],
         Fany(e/)ung^'s king nodding his chin
         (because he did not know all his descendants).
@@ -1798,7 +1771,7 @@ H
   depending on the font.
 F
   ==
-  - [[F1.81 濆]] 水涯
+  - (F1.81 濆) 水涯
   ==
 W
   ====
@@ -1831,7 +1804,7 @@ U
   U+711A
 F
   ==
-  - [[F1.81 焚]] 火燒曰焚
+  - (F1.81 焚) 火燒曰焚
   ==
 W
   ====
@@ -1841,13 +1814,14 @@ W
     - _(4)fan (1)h(e/)ung_
         [[fan4 hoeng1 焚香]],
         to light incense sticks;
-    - _[(4)]fan f(a/)(3)_
+    - _~~(1)fan~~ ``(4)fan`` f(a/)(3)_
         [[fan4 faa3 焚化]]
         to burn up;
+        ``to cremate, to incinerate;``
     - _(4)fan (1)sau_
         [[fan4 sau1 焚修]],
-        to burn a bonze;
-    - _(4)fan [(1)]sh(u:)_
+        to burn ~~a bonze~~ ``incense in the pursuit of Budhist cultivation``;
+    - _(4)fan ~~(4)sh(u:)~~ ``(1)sh(u:)``_
         [[fan4 syu1 焚書]],
         burning of the books by Tsin [[秦]].
     ==
@@ -1855,9 +1829,6 @@ W
 C
   ==
   - Williams' 焚化: Corrected _(1)fan_ (fan1) to _(4)fan_ (fan4).
-    Also to cremate or to incinerate.
-  - Williams' 焚修: Not to burn a Buddhist monk, but to burn incense
-    in the pursuit of Buddhist cultivation.
   - Williams' 焚書: Corrected _(4)sh(u:)_ (syu4) to _(1)sh(u:)_ (syu1).
   ==
 S
@@ -1878,7 +1849,7 @@ H
   depending on the font.
 F
   ==
-  - [[F1.81 蕡]] 草木多實曰蕡
+  - (F1.81 蕡) 草木多實曰蕡
   ==
 W
   ====
@@ -1895,7 +1866,7 @@ W
   ====
 $$
 
-###+ 蚡4 | _(4)Fan_ (fan4)
+###+ 蚡4 | _(4)Fan_ [[fan4]]
 
 $$.
 R
@@ -1916,7 +1887,7 @@ S
   ==
 $$
 
-###+ 賁4 | _(4)Fan_ (fan4)
+###+ 賁4 | _(4)Fan_ [[fan4]]
 
 $$
 R
@@ -1944,7 +1915,7 @@ S
   ==
 $$
 
-###+ 鼢4 | _(4)Fan_ (fan4)
+###+ 鼢4 | _(4)Fan_ [[fan4]]
 
 $$.
 R
@@ -2005,7 +1976,7 @@ V
   ==
 F
   ==
-  - [[F1.83 僨]] ::[覆]敗也::
+  - (F1.83 僨) ::[覆]敗也::
   ==
 W
   ====
@@ -2032,7 +2003,7 @@ P
   ++
 $$
 
-###+ 墳5 | _(5)Fan_ (fan5)
+###+ 墳5 | _(5)Fan_ [[fan5]]
 
 $$
 R
@@ -2054,7 +2025,7 @@ W
     ==
     - [[...]];
     - rich soil [[Kangxi: 土膏肥也]];
-    - read _[(5)]fan_ [[fan5]].
+    - read _~~fan(3)~~ ``(5)fan``_ [[fan5]].
     ==
     --
     [[...]]
@@ -2083,7 +2054,7 @@ V
   ==
 F
   ==
-  - [[F1.83 ::[奮]::]] 發動也
+  - (F1.83 ::[奮]::) 發動也
   ==
 W
   ====
@@ -2091,7 +2062,7 @@ W
     ==
     - To endeavor after, to excite, to rouse [[Kangxi: 震動也]];
     - to spread abroad [[Kangxi: 揚也]] or reach to;
-    - ~~to brush away;~~
+    - to ~~brush away~~ ``shake off``;
     - to lift;
     - prompt, impetuous, rapid;
     - _(5)fan ch(i/)(3)_
@@ -2102,15 +2073,13 @@ W
         to put forth energy;
     - _(5)fan (1)(i/)_
         [[fan5 ji1 奮衣]],
-        ~~to lift up the skirt~~.
+        to ~~lift up the skirt~~ ``shake the dust off the clothes``.
     ==
   ====
 C
   ==
   - Fan Wan entry: Corrected headword 奮, which is printed
     with the second stroke of 大 conjoined with the first stroke of 隹.
-  - Williams' "to brush away": Better rendered "to shake off".
-  - Williams' 奮衣: Not to lift the skirt, but to shake the dust off the clothes.
   ==
 P
   ++
@@ -2132,7 +2101,7 @@ V
   ==
 F
   ==
-  - [[F1.83 忿]] 怒也
+  - (F1.83 忿) 怒也
   ==
 W
   ====
@@ -2180,7 +2149,7 @@ A
   ==
 F
   ==
-  - [[F1.83 憤]] ::心求[通]而未能也又發憤又怒也::
+  - (F1.83 憤) ::心求[通]而未能也又發憤又怒也::
   ==
 W
   ====
@@ -2194,8 +2163,8 @@ W
     - _(5)fan lik(9)_
         [[fan5 lik6 憤力]]
         to put forth one's energies;
-    - ~~_(5)fan k(i/)t(8)_
-        [[fan5 git3]]~~
+    - ~~_(5)fan k(i/)t(8)_ [[fan5 git3]]~~
+      ``_(5)fan l(i/)t(9)_ [[fan5 lit6 憤烈]]``
         wrought up by passion.
     ==
   - [[Page~713 (5)憤]]
@@ -2212,7 +2181,7 @@ C
   ==
 $$
 
-###+ 焚5 | _(5)Fan_ (fan5)
+###+ 焚5 | _(5)Fan_ [[fan5]]
 
 $$.
 R
@@ -2233,7 +2202,7 @@ S
   ==
 $$
 
-###+ 蚡5 | _(5)Fan_ (fan5)
+###+ 蚡5 | _(5)Fan_ [[fan5]]
 
 $$.
 R
@@ -2417,7 +2386,7 @@ S
   ==
 $$
 
-###+ 分6 | _Fan(6)_ (fan6)
+###+ 分6 | _Fan(6)_ [[fan6]]
 
 $$
 R
@@ -2433,8 +2402,8 @@ W
     [[...]]
     --
     ==
-    - Read _fan[(6)]_ [[fan6]] a portion [[Kangxi: 均也分劑也]], a duty, a part [[Kangxi: 分位也]];
-    - _(1)s(a/)m fan[(6)] (1)ch(i/) yat(7)_
+    - Read _~~fan(3)~~ ``fan(6)``_ [[fan6]] a portion [[Kangxi: 均也分劑也]], a duty, a part [[Kangxi: 分位也]];
+    - _(1)s(a/)m ~~fan(3)~~ ``fan(6)`` (1)ch(i/) yat(7)_
         [[saam1 fan6 zi1 jat1 三分之一]]
         one third.
     ==
@@ -2473,7 +2442,7 @@ S
   ==
 $$
 
-###+ 忿6 | _Fan(6)_ (fan6)
+###+ 忿6 | _Fan(6)_ [[fan6]]
 
 $$
 R

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caak
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -55,7 +55,7 @@ $$
 </nav>
 <## /tone-1-characters ##>
 
-###+ 惻1 | _Ch(')(a/)k(7)_ (caak1)
+###+ 惻1 | _Ch(')(a/)k(7)_ [[caak1]]
 
 $$.
 R
@@ -76,7 +76,7 @@ S
   ==
 $$
 
-###+ 測1 | _Ch(')(a/)k(7)_ (caak1)
+###+ 測1 | _Ch(')(a/)k(7)_ [[caak1]]
 
 $$.
 R
@@ -115,7 +115,7 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
-###+ 冊3 | _Ch(')(a/)k(8)_ (caak3)
+###+ 冊3 | _Ch(')(a/)k(8)_ [[caak3]]
 
 $$
 R
@@ -128,7 +128,7 @@ A
   ==
 F
   ==
-  - [[F2.89 冊]] 排門冊黃冊又皇后初立曰冊立
+  - (F2.89 冊) 排門冊黃冊又皇后初立曰冊立
   ==
 W
   ====
@@ -204,7 +204,7 @@ W
         [[caak3 caak3 dei6-2 seng1 坼坼地聲]],
         a wheezing, cracked voice.
     ==
-  - [[Page~14|n57 ::拆[(8)]::; here normalised to 坼]]
+  - [[Page~14|n57 ::~~拆(9)~~``拆(8)``::; here normalised to 坼]]
     ==
     - [[...]]^
     - _ch(')(a/)k(8) (2)hau yat(9)_
@@ -236,7 +236,7 @@ E
   """"
 $$
 
-### 拆3 | _Ch(')(a/)k[(8)]_ [[caak3]]
+### 拆3 | _Ch(')(a/)k(8)_ [[caak3]]
 
 $$
 R
@@ -245,11 +245,11 @@ U
   U+62C6
 F
   ==
-  - [[F2.90 拆]] 分開也又拆卸
+  - (F2.90 拆) 分開也又拆卸
   ==
 W
   ====
-  - [[Page~14|n57 ::拆[(8)]^::]]
+  - [[Page~14|n57 ::~~拆(9)~~``拆(8)``::]]
     ==
     - To break up or open [[Kangxi: 裂也開也]];
     - to split, to unrip;
@@ -281,7 +281,6 @@ W
   ====
 C
   ==
-  - Williams misprints 拆(8) as 拆(9); here corrected.
   - Williams' 拆散:
     Note the subtle difference between the two readings
     _ch(')(a/)k(8) s(a/)n(3)_ (caak3 saan3) "scatter" and
@@ -289,7 +288,7 @@ C
   ==
 $$
 
-###+ 柵3 | _Ch(')(a/)k(8)_ (caak3)
+###+ 柵3 | _Ch(')(a/)k(8)_ [[caak3]]
 
 $$
 R
@@ -302,7 +301,7 @@ A
   ==
 F
   ==
-  - [[F2.90 柵]] 營寨編木爲之
+  - (F2.90 柵) 營寨編木爲之
   ==
 W
   ====
@@ -351,7 +350,7 @@ U
   U+7B56
 F
   ==
-  - [[F2.89 策]] 簡策謀策籌策
+  - (F2.89 策) 簡策謀策籌策
   ==
 W
   ====
@@ -431,7 +430,7 @@ A
   ==
 F
   ==
-  - [[F2.33 蠈]] 蟊蠈食禾之虫也
+  - (F2.33 蠈) 蟊蠈食禾之虫也
   ==
 W
   ====
@@ -465,7 +464,7 @@ V
   ==
 F
   ==
-  - [[F2.33 賊]] 盗賊又賊害
+  - (F2.33 賊) 盗賊又賊害
   ==
 W
   ====
@@ -513,7 +512,7 @@ W
   ====
 $$
 
-###+ 鰂6 | _Ts(')(a/)k(9)_ (caak6)
+###+ 鰂6 | _Ts(')(a/)k(9)_ [[caak6]]
 
 $$
 R

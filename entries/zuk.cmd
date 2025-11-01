@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zuk
-* %date-modified --> 2025-10-19
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -71,14 +71,14 @@ U
   U+56D1
 F
   ==
-  - [[F1.63 囑]] 囑括又吩咐也
+  - (F1.63 囑) 囑括又吩咐也
   ==
 W
   ====
   - [[Page~35* 囑(7)]]
     ==
     - To order, to bid, to enjoin [[Kangxi: 付囑也, 託也]];
-    - _chuk(7) f(u/)[(3)]_
+    - _chuk(7) ~~f(u/)(6)~~ ``f(u/)(3)``_
         [[zuk1 fu3 囑咐]]
         to desire, to charge;
     - _chuk(7) (1)sh(u:)_
@@ -111,7 +111,7 @@ V
   ==
 F
   ==
-  - [[F1.94 ::[捉]:: _Ch(e/)uk(8)_ (zoek3)]] ::捕也[搦]也::
+  - (F1.94 ::[捉]:: _Ch(e/)uk(8)_ (zoek3)) ::捕也[搦]也::
   ==
 W
   ====
@@ -177,7 +177,7 @@ V
   ==
 F
   ==
-  - [[F1.63 柷]] 柷圉樂器也
+  - (F1.63 柷) 柷圉樂器也
   ==
 W
   ====
@@ -200,7 +200,7 @@ U
   U+71ED
 F
   ==
-  - [[F1.63 燭]] 火燭
+  - (F1.63 燭) 火燭
   ==
 W
   ====
@@ -260,7 +260,7 @@ U
   U+77DA
 F
   ==
-  - [[F1.63 矚]] 視之甚也
+  - (F1.63 矚) 視之甚也
   ==
 W
   ====
@@ -281,7 +281,7 @@ U
   U+795D
 F
   ==
-  - [[F1.63 祝]] 禱祝又祝壽又祝融火神也
+  - (F1.63 祝) 禱祝又祝壽又祝融火神也
   ==
 W
   ====
@@ -335,7 +335,7 @@ U
   U+7AF9
 F
   ==
-  - [[F1.63 竹]] 竹木
+  - (F1.63 竹) 竹木
   ==
 W
   ====
@@ -389,7 +389,7 @@ U
   U+7AFA
 F
   ==
-  - [[F1.63 竺]] 天竺國
+  - (F1.63 竺) 天竺國
   ==
 W
   ====
@@ -416,14 +416,14 @@ U
   U+7B51
 F
   ==
-  - [[F1.64 筑]] 擊筑
+  - (F1.64 筑) 擊筑
   ==
 W
   ====
   - [[Page~35* 筑(7)]]
     ==
-    - A sort of bamboo dulcimer with 13~cords [[Kangxi: ::筑似箏而十三[絃]^::]],
-      ~~used in worship at the municipal temple~~.
+    - A sort of bamboo dulcimer with 13~cords [[Kangxi: ::筑似箏而十三[絃]^::]]~~,
+      used in worship at the municipal temple~~.
     ==
   ====
 C
@@ -445,7 +445,7 @@ U
   U+7BC9
 F
   ==
-  - [[F1.63 築]] 擣也築室築城
+  - (F1.63 築) 擣也築室築城
   ==
 W
   ====
@@ -456,7 +456,7 @@ W
     - to build, to erect;
     - _chuk(7) (4)ts(')(e/)ung_
         [[zuk1 coeng4 築牆]],
-        to build a [wall];
+        to build a ~~wal!~~ ``wall``;
     - _chuk(7) (5)m(a/) (4)t(')au_
         [[zuk1 maa5 tau4 築碼頭]],
         to lay a jetty;
@@ -489,7 +489,7 @@ A
   ==
 F
   ==
-  - [[F1.63 粥]] ::[糜]粥::
+  - (F1.63 粥) ::[糜]粥::
   ==
 W
   ====
@@ -525,7 +525,7 @@ S
   ==
 $$
 
-###+ 觸1 | _Chuk(7)_ (zuk1)
+###+ 觸1 | _Chuk(7)_ [[zuk1]]
 
 $$
 R
@@ -538,8 +538,8 @@ V
   ==
 F
   ==
-  - [[F1.64 觸 _Ch(')uk(7)_ (cuk1)]] 突也犯也抵觸惑也
-  - [[F1.64 触 _Ch(')uk(7)_ (cuk1)]] 同上
+  - (F1.64 觸 _Ch(')uk(7)_ (cuk1)) 突也犯也抵觸惑也
+  - (F1.64 触 _Ch(')uk(7)_ (cuk1)) 同上
   ==
 W
   ====
@@ -547,22 +547,22 @@ W
     ==
     - To gore, to push as an ox [[Kangxi: 牴也]];
     - to oppose, to excite;
-    - _[chuk](7) f(a/)n(6)_
+    - _~~ch(')uk(7)~~ ``chuk(7)`` f(a/)n(6)_
         [[zuk1 faan6 觸犯]]
         to insult;
-    - _[chuk](7) n(o\)(6)_
+    - _~~ch(')uk(7)~~ ``chuk(7)`` n(o\)(6)_
         [[zuk1 nou6 觸怒]]
         to irritate;
-    - _[chuk](7) (2)h(i/)_
+    - _~~ch(')uk(7)~~ ``chuk(7)`` (2)h(i/)_
         [[zuk1 hei2 觸起]],
         startling, to recollect suddenly;
-    - _[chuk](7) muk(9) (1)sh(e/)ung (1)sam_
+    - _~~ch(')uk(7)~~ ``chuk(7)`` muk(9) (1)sh(e/)ung (1)sam_
         [[zuk1 muk6 soeng1 sam1 觸目傷心]],
         distressing and affecting;
-    - _[chuk](7) (4)hon_
+    - _~~ch(')uk(7)~~ ``chuk(7)`` (4)hon_
         [[zuk1 hon4 觸寒]],
         to take cold;
-    - _[chuk](7) (1)sh(a/)n (1)ch(i/) lik(9)_
+    - _~~ch(')uk(7)~~ ``chuk(7)`` (1)sh(a/)n (1)ch(i/) lik(9)_
         [[zuk1 saan1 zi1 lik6 觸山之力]]
         extraordinary strength.
     ==
@@ -582,7 +582,7 @@ U
   U+8DB3
 F
   ==
-  - [[F1.65 足]] 脚也備足足完足
+  - (F1.65 足) 脚也備足足完足
   ==
 W
   ====
@@ -597,7 +597,7 @@ W
     - to satisfy the wants of;
     - pure, as silver;
     - actions, conduct;
-    - the [157th]~radical [["foot"]] of characters relating to going;
+    - the ~~137th~~^~``157th``~radical [["foot"]] of characters relating to going;
     - _shap(9) tsuk(7)_
         [[sap6 zuk1 十足]]
         complete in all respects;
@@ -625,7 +625,7 @@ W
         discontented, never satisfied;
     - _pat(7) tsuk(7) t(o\)(6)_
         [[bat1 zuk1 dou6 不足道]]
-        beyond description, can not be spoken of;
+        ~~beyond description, can not be spoken of~~ ``not worth speaking of``;
     - _tsuk(7) sh(o\)(3) (4)'m tsuk(7)_
         [[zuk1 sou3 m4 zuk1 足數唔足]]
         is the number just right?
@@ -645,8 +645,6 @@ W
   ====
 C
   ==
-  - Williams radical: Corrected 137th to 157th.
-  - Williams' 不足道: More "not worth speaking of", than "beyond description".
   - Williams' 足數唔足: This is dated syntax. In modern Cantonese,
     it would be 足唔足數, with only the adjective hugging the negative.
   ==
@@ -656,7 +654,7 @@ S
   ==
 $$
 
-###+ 鬻1 | _Chuk(7)_ (zuk1)
+###+ 鬻1 | _Chuk(7)_ [[zuk1]]
 
 $$.
 R
@@ -711,7 +709,7 @@ U
   U+4FD7
 F
   ==
-  - [[F1.66 俗]] 風俗
+  - (F1.66 俗) 風俗
   ==
 W
   ====
@@ -765,7 +763,7 @@ V
   ==
 F
   ==
-  - [[F1.66 妯 _Shuk(9)_ (suk6)]] ::妯娌嬸姆[曰]妯娌::
+  - (F1.66 妯 _Shuk(9)_ (suk6)) ::妯娌嬸姆[曰]妯娌::
   ==
 W
   ====
@@ -778,7 +776,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected 口 to 曰.
-  - Williams' "also called":
+  - Williams' "also called [...]":
     I suspect _chau(3)_ (zau3) is a typo for _chau(6)_ (zau6)^,
     which would be a misreading based on analogy with 袖.
   ==
@@ -797,7 +795,7 @@ U
   U+65CF
 F
   ==
-  - [[F1.66 族]] 宗族
+  - (F1.66 族) 宗族
   ==
 W
   ====
@@ -837,7 +835,7 @@ P
   ++
 $$
 
-###+ 柚6 | _Chuk(9)_ (zuk6)
+###+ 柚6 | _Chuk(9)_ [[zuk6]]
 
 $$.
 R
@@ -846,7 +844,7 @@ U
   U+67DA
 F
   ==
-  - [[F1.66 柚]] 杼柚布機之受經者
+  - (F1.66 柚) 杼柚布機之受經者
   ==
 W
   [[Not present]]
@@ -871,7 +869,7 @@ U
   U+6FC1
 F
   ==
-  - [[F1.66 濁]] 混濁不淸也
+  - (F1.66 濁) 混濁不淸也
   ==
 W
   ====
@@ -957,10 +955,10 @@ W
         [[zip3 zuk6 接續]]
         to join on, as a short cord;
         to take up and carry on;
-    - _tsuk(9) [(2)]ts(')(u:)_ [[zuk6 ceoi2 續娶]]^
+    - _tsuk(9) ~~ts(')(u:)(3)~~ ``(2)ts(')(u:)``_ [[zuk6 ceoi2 續娶]]^
         or
       _tsuk(9) (4)(i/)n_ [[zuk6 jyin4 續弦]],
-        to join the guitar string---to take a second wife;
+        to join the guitar string---to ~~take a second wife~~ ``remarry after becoming a widower``;
     - _luk(9) tsuk(9) (5)yau (4)lai_
         [[luk6 zuk6 jau5 lai4 陸續有嚟]],
         coming one after another;
@@ -975,7 +973,6 @@ W
 C
   ==
   - Williams' 續娶: Changed _ts(')(u:)(3)_ (ceoi3) to common reading _(2)ts(')(u:)_ (ceoi2).
-  - Williams' 續娶, 續弦: Specifically, to remarry after becoming a widower.
   ==
 P
   ++
@@ -993,7 +990,7 @@ U
   U+84EB
 F
   ==
-  - [[F1.66 ::[蓫]::]] 追逐驅逐斥逐
+  - (F1.66 ::[蓫]::) 追逐驅逐斥逐
   ==
 W
   ====
@@ -1017,7 +1014,7 @@ U
   U+851F
 F
   ==
-  - [[F1.66 蔟]] 聚也又音秀
+  - (F1.66 蔟) 聚也又音秀
   ==
 W
   ====
@@ -1045,13 +1042,13 @@ H
   depending on the font.
 F
   ==
-  - [[F1.66 藚]] 草名
+  - (F1.66 藚) 草名
   ==
 W
   ====
   - [[Page~599 藚(9)]]
     ==
-    - A marshy, grassy[,] and climbing plant, with leaves like purslane,
+    - A marshy, grassy``,`` and climbing plant, with leaves like purslane,
       called also cow's lips [[Kangxi: 水舄也, 藚牛脣, 今澤瀉也]].
     ==
   ====
@@ -1070,7 +1067,7 @@ U
   U+8E85
 F
   ==
-  - [[F1.66 躅]] 蹢躅行貌
+  - (F1.66 躅) 蹢躅行貌
   ==
 W
   ====
@@ -1102,8 +1099,8 @@ A
   ==
 F
   ==
-  - [[F1.66 軸]] ::車軸又[盡]也::
-  - [[F1.66 柚]] 杼柚布機之受經者
+  - (F1.66 軸) ::車軸又[盡]也::
+  - (F1.66 柚) 杼柚布機之受經者
   ==
 W
   ====
@@ -1143,7 +1140,7 @@ U
   U+9010
 F
   ==
-  - [[F1.66 逐]] 追逐驅逐斥逐
+  - (F1.66 逐) 追逐驅逐斥逐
   ==
 W
   ====
@@ -1193,7 +1190,7 @@ V
   ==
 F
   ==
-  - [[F1.66 鏃]] 箭嘴
+  - (F1.66 鏃) 箭嘴
   ==
 W
   ====
@@ -1214,7 +1211,7 @@ U
   U+9DDF
 F
   ==
-  - [[F1.66 鷟]] 鸑鷟鳥名
+  - (F1.66 鷟) 鸑鷟鳥名
   ==
 W
   ====

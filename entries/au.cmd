@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> au
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -71,7 +71,7 @@ V
   ==
 F
   ==
-  - [[F1.49 區]] 人姓又音拘
+  - (F1.49 區) 人姓又音拘
   ==
 W
   ====
@@ -96,7 +96,7 @@ S
   ==
 $$
 
-###+ 嘔1 | _(1)Au_ (au1)
+###+ 嘔1 | _(1)Au_ [[au1]]
 
 $$
 R
@@ -115,7 +115,7 @@ W
     - [[...]];
     - a child's prattle [[Kangxi: 唲嘔小兒語也]];
     - [[...]];
-    - _[(1)]au (1)(a/)_
+    - _~~(2)au~~ ``(1)au`` (1)(a/)_
         [[au1 aa1 嘔啞]],
         children humming;
     - [[...]].
@@ -143,7 +143,7 @@ V
   ==
 F
   ==
-  - [[F1.49 歐]] 歐陽覆姓也
+  - (F1.49 歐) 歐陽覆姓也
   ==
 W
   ====
@@ -183,7 +183,7 @@ V
   ==
 F
   ==
-  - [[F1.49 漚]] 水上泡
+  - (F1.49 漚) 水上泡
   ==
 W
   ====
@@ -218,7 +218,7 @@ V
   ==
 F
   ==
-  - [[F1.49 甌]] 茶甌
+  - (F1.49 甌) 茶甌
   ==
 W
   ====
@@ -262,7 +262,7 @@ V
   ==
 F
   ==
-  - [[F1.49 謳]] 謳歌長吟也
+  - (F1.49 謳) 謳歌長吟也
   ==
 W
   ====
@@ -312,7 +312,7 @@ V
   ==
 F
   ==
-  - [[F1.49 鷗]] 水鳥
+  - (F1.49 鷗) 水鳥
   ==
 W
   ====
@@ -361,7 +361,7 @@ V
   ==
 F
   ==
-  - [[F1.54 嘔]] 吐也
+  - (F1.54 嘔) 吐也
   ==
 W
   ====
@@ -412,7 +412,7 @@ S
   ==
 $$
 
-###+ 歐2 | _(2)Au_ (au2)
+###+ 歐2 | _(2)Au_ [[au2]]
 
 $$.
 R
@@ -447,7 +447,7 @@ V
   ==
 F
   ==
-  - [[F1.54 毆]] 毆辱捶擊也
+  - (F1.54 毆) 毆辱捶擊也
   ==
 W
   ====
@@ -492,7 +492,7 @@ V
   ==
 F
   ==
-  - [[F1.55 漚]] 以水久浸物曰漚
+  - (F1.55 漚) 以水久浸物曰漚
   ==
 W
   ====
@@ -516,7 +516,7 @@ W
     - _au(3) nau(6)_
         [[au3 nau6 漚腬]]
         glutted, loathing food;
-    - _(4)t(')ang [(5)]sh(i/)n au(3) (1)ch(u:) yuk(9)_
+    - _(4)t(')ang ~~sh(i/)n(6)~~ ``(5)sh(i/)n`` au(3) (1)ch(u:) yuk(9)_
         [[tang4 sin5 au3 zyu1 juk6 藤鱔漚豬肉]]
         to fry eels in pork fat, _met._ to add insult to injury.
     ==

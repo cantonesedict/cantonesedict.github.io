@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyut
-* %date-modified --> 2025-09-07
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -60,7 +60,7 @@ U
   U+5352
 F
   ==
-  - [[F2.24 卒]] ::急也[速]也::
+  - (F2.24 卒) ::急也[速]也::
   ==
 W
   ====
@@ -130,7 +130,7 @@ V
   ==
 F
   ==
-  - [[F2.24 ::[撮]::]] ::兩指[蹙聚]而取曰[撮]又四圭曰[撮]::
+  - (F2.24 ::[撮]::) ::兩指[蹙聚]而取曰[撮]又四圭曰[撮]::
   ==
 W
   ====
@@ -139,7 +139,7 @@ W
     - To take a pinch with two or three fingers [[Kangxi: 一曰兩指撮也, 三指取也]];
     - a pinch, a pugil;
     - to take up a little;
-    - ~~to snatch~~, to bring together [[Kangxi: 撮摠取也]];
+    - ~~to snatch,~~ to bring together [[Kangxi: 撮摠取也]];
     - a little, a handfull;
     - a measure of 256 (some say 60) grains of millet [[Kangxi: 四圭曰撮三指撮之也六十四黍爲圭]];
     - brought together, selected [[Kangxi: 蹙聚而捎取之也]];
@@ -155,7 +155,7 @@ W
     - _ts(')(u:)t(8) (4)m(a/)i yat(7) p(o\)(6)_
         [[cyut3 maai4 jat1 bou6 撮埋一部]]
         make them all into one book;
-    - _ts(')(u:)t(8) (5)sh(e/)ung [(2)]ki(u/)_
+    - _ts(')(u:)t(8) (5)sh(e/)ung ~~(5)^ki(u/)~~ ``(2)ki(u/)``_
         [[cyut3 soeng5 giu6-2 撮上轎]],
         to force one into a sedan;
     - _ts(')(u:)t(8) h(o\)p(9)_
@@ -189,7 +189,7 @@ A
   ==
 F
   ==
-  - [[F2.24 猝]] 倉猝暴疾貌
+  - (F2.24 猝) 倉猝暴疾貌
   ==
 W
   ====
@@ -209,7 +209,7 @@ W
   ====
 $$
 
-### [蕝]3 | _Ts(')(u:)t(8)_ [[cyut3]]
+### ~~{？=⿱艹⿰糸邑}~~``蕝``3 | _Ts(')(u:)t(8)_ [[cyut3]]
 
 $$.
 R
@@ -223,15 +223,11 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~610 ::[蕝](8)蕞(8)::]]
+  - [[Page~610 ::~~{？=⿱艹⿰糸邑}~~``蕝``(8)蕞(8)::]]
     --
     [[Reading variation. **See $蕝zyut3 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - Williams misprints 蕝 as ⿱艹⿰糸邑; here corrected.
-  ==
 S
   ==
   - $蕝zyut3
@@ -247,11 +243,11 @@ U
   U+855E
 F
   ==
-  - [[F2.24 蕞]] 小國曰蕞爾
+  - (F2.24 蕞) 小國曰蕞爾
   ==
 W
   ====
-  - [[Page~610 ::[蕝](8)蕞(8)::]]
+  - [[Page~610 ::~~{？=⿱艹⿰糸邑}~~``蕝``(8)蕞(8)::]]
     --
     [[Alternative form of 蕝, and reading variation. **See $蕝zyut3 for the canonical entry.**]]
     --

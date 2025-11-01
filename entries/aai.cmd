@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aai
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -64,7 +64,7 @@ V
   ==
 F
   ==
-  - [[F2.25 挨]] 屋齋切倚也推也擊也又背負也
+  - (F2.25 挨) 屋齋切倚也推也擊也又背負也
   ==
 W
   ====
@@ -171,7 +171,7 @@ W
   ====
 C
   ==
-  - Williams' 十嗌九爭銀: "Ten to one" is better rendered as "nine out of ten".
+  - Williams' 十嗌九爭銀: "Ten to one" is perhaps better rendered "nine in ten".
   ==
 E
   ====
@@ -194,7 +194,7 @@ E
   ====
 $$
 
-###+ 阨3 | _(A/)i(3)_ (aai3)
+###+ 阨3 | _(A/)i(3)_ [[aai3]]
 
 $$.
 R
@@ -203,7 +203,7 @@ U
   U+9628
 F
   ==
-  - [[F2.32 阨]] 困窮也
+  - (F2.32 阨) 困窮也
   ==
 W
   ====
@@ -236,7 +236,7 @@ V
   ==
 F
   ==
-  - [[F2.28 隘]] 窄狹也陋也塞也
+  - (F2.28 隘) 窄狹也陋也塞也
   ==
 W
   ====

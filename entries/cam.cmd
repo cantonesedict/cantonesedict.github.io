@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -64,7 +64,7 @@ U
   U+4FB5
 F
   ==
-  - [[F2.36 侵]] 侵占侵凌侵害
+  - (F2.36 侵) 侵占侵凌侵害
   ==
 W
   ====
@@ -120,7 +120,7 @@ S
   ==
 $$
 
-###+ 浸1 | _(1)Ts(')am_ (cam1)
+###+ 浸1 | _(1)Ts(')am_ [[cam1]]
 
 $$
 R
@@ -138,7 +138,7 @@ W
   - [[Page~551 浸(3) _Tsam(3)_ (zam3); here normalised to _(1)Ts(')am_ (cam1)]]
     ==
     - [[...]];
-    - _k(')(i/) sh(u:)t(8) [(1)ts(')am] (4)yam_
+    - _k(')(i/) sh(u:)t(8) ~~tsam(3)~~ ``(1)ts(')am`` (4)yam_
         [[kei4 syut3 cam1 jam4 其說浸淫]],
         his words are insidious and persuasive;
     - [[...]].
@@ -160,7 +160,7 @@ U
   U+7972
 F
   ==
-  - [[F2.36 ::[祲]::]] 精氣感祥也
+  - (F2.36 ::[祲]::) 精氣感祥也
   ==
 W
   ====
@@ -186,13 +186,13 @@ U
   U+8460
 F
   ==
-  - [[F2.36 葠]] 藥名
+  - (F2.36 葠) 藥名
   ==
 W
   ====
   - [[Page~552 (1)葠]]
     --
-    Used for _(1)sham_ [[sam1]] 參 ginseng, ~~but erroneously~~.
+    Used for _(1)sham_ [[sam1]] 參 ginseng~~, but erroneously~~.
     --
   ====
 C
@@ -215,7 +215,7 @@ U
   U+92DF
 F
   ==
-  - [[F2.36 鋟]] 刻也
+  - (F2.36 鋟) 刻也
   ==
 W
   ====
@@ -239,7 +239,7 @@ U
   U+99F8
 F
   ==
-  - [[F2.36 駸]] 馬疾行也
+  - (F2.36 駸) 馬疾行也
   ==
 W
   ====
@@ -275,7 +275,7 @@ U
   U+4FB5
 F
   ==
-  - [[F2.37 侵]] 漸進也
+  - (F2.37 侵) 漸進也
   ==
 W
   ====
@@ -310,7 +310,7 @@ U
   U+5BE2
 F
   ==
-  - [[F2.37 寢]] 臥也息也又內室曰寢室
+  - (F2.37 寢) 臥也息也又內室曰寢室
   ==
 W
   ====
@@ -375,7 +375,7 @@ U
   U+8B56
 F
   ==
-  - [[F2.37 譖]] ::讒言[毀]人之行也::
+  - (F2.37 譖) ::讒言[毀]人之行也::
   ==
 W
   ====
@@ -411,7 +411,7 @@ A
   ==
 F
   ==
-  - [[F2.37 讖]] 符讖騐也凡讖緯皆以術數言將來之騐也
+  - (F2.37 讖) 符讖騐也凡讖緯皆以術數言將來之騐也
   ==
 W
   ====
@@ -426,7 +426,7 @@ W
     - _ch(')am(3) h(i/)(3)_
         [[cam3 hei3 讖氣]]
         tiresome, talkative;
-    - _ch(')am(3) [(5)]wai_
+    - _ch(')am(3) ~~(2)wai~~ ``(5)wai``_
         [[cam3 wai5 讖緯]],
         to agree with the prophecy.
     ==
@@ -478,7 +478,7 @@ U
   U+5C0B
 F
   ==
-  - [[F2.37 尋]] 搜求也覓也
+  - (F2.37 尋) 搜求也覓也
   ==
 W
   ====
@@ -587,7 +587,7 @@ A
   ==
 F
   ==
-  - [[F2.37 沉]] 汲也溺也
+  - (F2.37 沉) 汲也溺也
   ==
 W
   ====
@@ -614,10 +614,10 @@ W
     - _(4)ch(')am on(3)_
         [[cam4 on3 沉案]]
         to quash a case;
-    - _(4)ch(')am nik[(7)]_
+    - _(4)ch(')am ~~nik(9)~~ ``nik(7)``_
         [[cam4 nik1 沉溺]]
         drowned, in doting on;
-    - _(4)ch(')am [(5)ch(')ung]_
+    - _(4)ch(')am ~~chung(6)~~ ``(5)ch(')ung``_
         [[cam4 cung5 沉重]]^
         very sick;
     - _shap(9) (4)ch(')am (2)kau (4)p(')(o\)_
@@ -643,7 +643,7 @@ C
   ==
 $$
 
-###+ 湛4 | _(4)Ch(')am_ (cam4)
+###+ 湛4 | _(4)Ch(')am_ [[cam4]]
 
 $$.
 R
@@ -675,7 +675,7 @@ U
   U+71D6
 F
   ==
-  - [[F2.37 燖]] 火熟物也
+  - (F2.37 燖) 火熟物也
   ==
 W
   ====
@@ -704,7 +704,7 @@ V
   ==
 F
   ==
-  - [[F2.37 鐔]] 劍鼻
+  - (F2.37 鐔) 劍鼻
   ==
 W
   ====
@@ -730,7 +730,7 @@ U
   U+9703
 F
   ==
-  - [[F2.37 霃]] 天久陰
+  - (F2.37 霃) 天久陰
   ==
 W
   ====
@@ -757,7 +757,7 @@ V
   ==
 F
   ==
-  - [[F2.37 ::[鬵]::]] ::釜[鬵]::
+  - (F2.37 ::[鬵]::) ::釜[鬵]::
   ==
 W
   ====
@@ -773,7 +773,7 @@ C
   ==
 $$
 
-###+ 魫4 | _(4)Ch(')am_ (cam4)
+###+ 魫4 | _(4)Ch(')am_ [[cam4]]
 
 $$
 R
@@ -787,11 +787,11 @@ V
   ==
 F
   ==
-  - [[F2.37 魫 _(2)Cham_ (zam2)]] 魚名
+  - (F2.37 魫 _(2)Cham_ (zam2)) 魚名
   ==
 W
   ====
-  - [[Page~15|n58 (2)[魫] _(2)Ch(')am_ (cam2); here corrected to _(4)Ch(')am_ (cam4)]]
+  - [[Page~15|n58 ::(2)~~{𩵫=⿰冘魚}~~``魫``:: _(2)Ch(')am_ (cam2); here corrected to _(4)Ch(')am_ (cam4)]]
     ==
     - The roe or eggs of fish [[Kangxi: 魚子]];
     - the name of a fish [[Fan Wan: 魚名]].
@@ -801,7 +801,6 @@ C
   ====
   - The reading _(4)ch(')am_ (cam4) is not unattested;
     《集韻》 has the reading 持林切, explained 魚子也.
-  - Williams misprints 魫 as {𩵫=⿰冘魚}; here corrected.
   - Williams' placement under _(2)Ch(')am_ (cam2) is erroneous
     because it does not follow any of the following:
     ==
@@ -809,7 +808,7 @@ C
     - _(4)ch(')am_ (cam4) per 《集韻》持林切.
     - _(2)sham_ (sam2) per 《廣韻》式任切 rising.
     ==
-    It is possible that Williams has simply misprinted (4)魫 as (2)魫,
+    It is possible that Williams has simply misprinted (4) as (2),
     in which case _(4)ch(')am_ (cam4) is intended.
   ====
 $$
@@ -823,7 +822,7 @@ U
   U+9C4F
 F
   ==
-  - [[F2.37 鱏]] 魚名
+  - (F2.37 鱏) 魚名
   ==
 W
   ====
@@ -845,7 +844,7 @@ U
   U+9C58
 F
   ==
-  - [[F2.37 鱘]] 鱘龍無鱗魚也
+  - (F2.37 鱘) 鱘龍無鱗魚也
   ==
 W
   ====

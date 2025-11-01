@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caat
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -53,7 +53,7 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
-###+ 刷3 | _Ch(')(a/)t(8)_ (caat3)
+###+ 刷3 | _Ch(')(a/)t(8)_ [[caat3]]
 
 $$
 R
@@ -67,7 +67,7 @@ V
   ==
 F
   ==
-  - [[F2.72 _Sh(a/)t(8)_ (saat3)]] 成也歸也又振作也
+  - (F2.72 _Sh(a/)t(8)_ (saat3)) 成也歸也又振作也
   ==
 W
   ====
@@ -79,10 +79,10 @@ W
     - to cleanse, to scour, to scrub [[Kangxi: 刷淸也]];
     - a card for cotton;
     - to print, as the Chinese do;
-    - _(2)hon [ch(')(a/)t](8)_
+    - _(2)hon ~~sh(a/)t(8)~~ ``ch(')(a/)t(8)``_
         [[hon2 caat3 刊刷]]
         to cut and print books;
-    - _[ch(')(a/)t](8) (2)ch(')(i/) (2)koi hang(6)_
+    - _~~sh(a/)t(8)~~ ``ch(')(a/)t(8)`` (2)ch(')(i/) (2)koi hang(6)_
         [[caat3 ci2 goi2 hang6 刷恥改行]]
         to wipe off disgrace by reforming,
     ==
@@ -102,7 +102,7 @@ U
   U+5239
 F
   ==
-  - [[F2.72 刹]] 稱僧寺曰梵刹
+  - (F2.72 刹) 稱僧寺曰梵刹
   ==
 W
   ====
@@ -117,7 +117,7 @@ S
   ==
 $$
 
-###+ 剎3 | _Ch(')(a/)t(8)_ (caat3)
+###+ 剎3 | _Ch(')(a/)t(8)_ [[caat3]]
 
 $$.
 R
@@ -151,8 +151,8 @@ A
   ==
 F
   ==
-  - [[F2.72 察]] 審也考也省也又察察潔淨貌
-  - [[F2.72 詧]] 同上
+  - (F2.72 察) 審也考也省也又察察潔淨貌
+  - (F2.72 詧) 同上
   ==
 W
   ====
@@ -172,7 +172,6 @@ W
     - _ch(')(a/)t(8) t(u:)t(9)_
         [[caat3 dyut6 察奪]]
         examine and decide [respecting the petition.]
-        [[these square brackets appear in the original text]]
     ==
   ====
 $$
@@ -190,7 +189,7 @@ V
   ==
 F
   ==
-  - [[F2.72 ::[擦]::]] 粲入聲揩必也磨也
+  - (F2.72 ::[擦]::) 粲入聲揩必也磨也
   ==
 W
   ====
@@ -254,7 +253,7 @@ V
   ==
 F
   ==
-  - [[F2.72 獺]] 水狗食魚之物
+  - (F2.72 獺) 水狗食魚之物
   ==
 W
   ====
@@ -267,7 +266,7 @@ W
     - _(2)hoi ch(')(a/)t(8)_
         [[hoi2 caat3 海獺]]
         a seal;
-    - _ch(')(a/)t(8) (5)[leng]_
+    - _ch(')(a/)t(8) ~~(5)ling~~ ``(5)leng``_
         [[caat3 leng5 獺領]],
         seal skin collars or tippets;
     - _ch(')(a/)t(8) (2)tsai_

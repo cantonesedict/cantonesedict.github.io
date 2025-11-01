@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -41,7 +41,7 @@ MP
 $$
 
 
-##{#1 .williams} <ins class="modern">(1)Ch(')(i/)m</ins> (1)Ts(')(i/)m [[cim1 陰平]]
+##{#1 .williams} ``(1)Ch(')(i/)m`` (1)Ts(')(i/)m [[cim1 陰平]]
 
 <## tone-1-characters ##>
 <nav class="sideways">
@@ -73,8 +73,8 @@ U
   U+50C9
 F
   ==
-  - [[F2.47 僉]] 咸也皆也共也
-  - [[F2.47 {？=⿳人⿻丅口从}]] 咸也皆也共也
+  - (F2.47 僉) 咸也皆也共也
+  - (F2.47 {？=⿳人⿻丅口从}) 咸也皆也共也
   ==
 W
   ====
@@ -83,7 +83,7 @@ W
     - All, the whole [[Kangxi: 皆也咸也]];
     - an unanimous voice, the general opinion [[Kangxi: 衆共言之也]];
     - a flail [[Kangxi: 連枷亦曰僉打穀具也]];
-    - _(1)ts(')(i/)m [(a/)t](8)_
+    - _(1)ts(')(i/)m ~~(a/)p(8)~~ ``(a/)t(8)``_
         [[cim1 aat3 僉押]]
         all signed it.
     ==
@@ -103,7 +103,7 @@ U
   U+20803
 F
   ==
-  - [[F2.47 {？=⿰⿳艹非一刂}]] ::[切]也割也::
+  - (F2.47 {？=⿰⿳艹非一刂}) ::[切]也割也::
   ==
 W
   ====
@@ -118,7 +118,7 @@ C
   ==
 $$
 
-###+ 㔐1 | _(1)Ts(')(i/)m_ (cim1)
+###+ 㔐1 | _(1)Ts(')(i/)m_ [[cim1]]
 
 $$
 R
@@ -131,7 +131,7 @@ A
   ==
 F
   ==
-  - [[F2.47 {？=⿰⿳艹非一刂}]] ::[切]也割也::
+  - (F2.47 {？=⿰⿳艹非一刂}) ::[切]也割也::
   ==
 W
   ====
@@ -204,7 +204,7 @@ W
   ====
 $$
 
-###+ 幨1 | _(1)Ch(')(i/)m_ (cim1)
+###+ 幨1 | _(1)Ch(')(i/)m_ [[cim1]]
 
 $$.
 R
@@ -234,7 +234,7 @@ U
   U+61B8
 F
   ==
-  - [[F2.47 憸]] 利也
+  - (F2.47 憸) 利也
   ==
 W
   ====
@@ -249,7 +249,7 @@ W
   ====
 $$
 
-###+ 摻1 | _(1)Ts(')(i/)m_ (cim1)
+###+ 摻1 | _(1)Ts(')(i/)m_ [[cim1]]
 
 $$
 R
@@ -262,7 +262,7 @@ V
   ==
 F
   ==
-  - [[F2.47 摻]] 與纖同又音覽
+  - (F2.47 摻) 與纖同又音覽
   ==
 W
   ====
@@ -304,7 +304,7 @@ V
   ==
 F
   ==
-  - [[F2.47 殲]] 滅也盡也
+  - (F2.47 殲) 滅也盡也
   ==
 W
   ====
@@ -341,7 +341,7 @@ V
   ==
 F
   ==
-  - [[F2.47 瀸]] 汲也
+  - (F2.47 瀸) 汲也
   ==
 W
   ====
@@ -367,7 +367,7 @@ U
   U+7C3D
 F
   ==
-  - [[F2.47 簽]] 竹簾又簽書
+  - (F2.47 簽) 竹簾又簽書
   ==
 W
   ====
@@ -396,7 +396,7 @@ W
   ====
 $$
 
-### [籤]1 | _(1)Ts(')(i/)m_ [[cim1]]
+### ~~韱~~``籤``1 | _(1)Ts(')(i/)m_ [[cim1]]
 
 $$
 R
@@ -409,7 +409,7 @@ A
   ==
 F
   ==
-  - [[F2.47 籖]] 神籤騐也又竹籌
+  - (F2.47 籖) 神籤騐也又竹籌
   ==
 W
   ====
@@ -421,7 +421,7 @@ W
         [[cim1 jyu5 籤語]],
         to draw lots for a response.
     ==
-  - [[Page~571 ::(1)[籤]^::]]
+  - [[Page~571 ::(1)~~韱~~``籤``::]]
     ==
     - Similar to the above [[簽]];
     - a slip, a lot [[Kangxi: 驗也, 竹籤用以卜者]];
@@ -434,7 +434,7 @@ W
         to lot out officers to their stations;
     - _(4)ng(o\) (1)ts(')(i/)m_
         [[ngou4 cim1 摮籤]],
-        to draw lots before idols;
+        to ~~draw~~ ``cast`` lots before idols;
     - _(1)ts(')(i/)m (4)t(')ung_
         [[cim1 tung4 籤筒]],
         a cup to hold the slips;
@@ -446,11 +446,6 @@ W
         to divine.
     ==
   ====
-C
-  ==
-  - Williams misprints 籤 as 韱; here corrected.
-  - Williams' 摮籤: Specifically, the lots are shaken out of a tube.
-  ==
 $$
 
 ### 纖1 | _(1)Ts(')(i/)m_ [[cim1]]
@@ -467,8 +462,8 @@ A
   ==
 F
   ==
-  - [[F2.47 纖]] 細微也
-  - [[F2.47 摻]] 與纖同又音覽
+  - (F2.47 纖) 細微也
+  - (F2.47 摻) 與纖同又音覽
   ==
 W
   ====
@@ -500,7 +495,7 @@ W
   ====
 $$
 
-###+ 襜1 | _(1)Ch(')(i/)m_ (cim1)
+###+ 襜1 | _(1)Ch(')(i/)m_ [[cim1]]
 
 $$.
 R
@@ -521,7 +516,7 @@ S
   ==
 $$
 
-###+ 鋟1 | _(1)Ts(')(i/)m_ (cim1)
+###+ 鋟1 | _(1)Ts(')(i/)m_ [[cim1]]
 
 $$
 R
@@ -536,7 +531,7 @@ V
   ==
 F
   ==
-  - [[F2.36 鋟 _(1)Ts(')am_ (cam1)]] 刻也
+  - (F2.36 鋟 _(1)Ts(')am_ (cam1)) 刻也
   ==
 W
   ====
@@ -584,12 +579,12 @@ A
   ==
 F
   ==
-  - [[F2.49 ::[諂]::]] 諛媚也
-  - [[F2.49 ::[讇]::]] ::同[上]::
+  - (F2.49 ::[諂]::) 諛媚也
+  - (F2.49 ::[讇]::) ::同[上]::
   ==
 W
   ====
-  - [[Page~16* ::(2)諂(2)[讇]^::]]
+  - [[Page~16* ::(2)諂(2)~~{𨶒=⿵門舀}~~``讇``::]]
     ==
     - To flatter [[Kangxi: 同讇省諛也]], to lie to;
     - to cajole;
@@ -614,11 +609,10 @@ C
   ==
   - Fan Wan entry: Corrected headword 謟 to 諂, headword ⿵門謟 to 讇,
     and headword self-reference to 上.
-  - Williams misprints 讇 as {𨶒=⿵門舀}; here corrected.
   ==
 $$
 
-### [讇]2 | _(2)Ch(')(i/)m_ [[cim2]]
+### ~~{𨶒=⿵門舀}~~``讇``2 | _(2)Ch(')(i/)m_ [[cim2]]
 
 $$.
 R
@@ -627,12 +621,12 @@ U
   U+8B87
 F
   ==
-  - [[F2.49 ::[諂]::]] 諛媚也
-  - [[F2.49 ::[讇]::]] ::同[上]::
+  - (F2.49 ::[諂]::) 諛媚也
+  - (F2.49 ::[讇]::) ::同[上]::
   ==
 W
   ====
-  - [[Page~16* ::(2)諂(2)[讇]^::]]
+  - [[Page~16* ::(2)諂(2)~~{𨶒=⿵門舀}~~``讇``::]]
     --
     [[Alternative form of 諂. **See $諂cim2 for the canonical entry.**]]
     --
@@ -641,12 +635,11 @@ C
   ==
   - Fan Wan entry: Corrected headword 謟 to 諂, headword ⿵門謟 to 讇,
     and headword self-reference to 上.
-  - Williams misprints 讇 as {𨶒=⿵門舀}; here corrected.
   ==
 $$
 
 
-##{#3 .williams} <ins class="modern">Ch(')(i/)m(3)</ins> Ts(')(i/)m(3) [[cim3 陰去]]
+##{#3 .williams} ``Ch(')(i/)m(3)`` Ts(')(i/)m(3) [[cim3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">
@@ -675,7 +668,7 @@ V
   ==
 F
   ==
-  - [[F2.49 僭]] 越分也爭也
+  - (F2.49 僭) 越分也爭也
   ==
 W
   ====
@@ -723,8 +716,8 @@ A
   ==
 F
   ==
-  - [[F2.49 塹]] 坑塹
-  - [[F2.49 壍]] 同上
+  - (F2.49 塹) 坑塹
+  - (F2.49 壍) 同上
   ==
 W
   ====
@@ -733,7 +726,7 @@ W
     - The moat around a wall [[Kangxi 塹: 遶城水也]], a fosse, a ditch [[Kangxi 塹: 坑也]];
     - a sluice to lead water upon trees;
     - to deepen, to dig out;
-    - _kwat[(9)] ts(')(i/)m(3)_
+    - _~~kwat(7)~~ ``kwat(9)`` ts(')(i/)m(3)_
         [[gwat6 cim3 掘塹]]
         to dig a sluice;
     - _(1)h(a/)ng ts(')(i/)m(3)_
@@ -756,8 +749,8 @@ U
   U+58CD
 F
   ==
-  - [[F2.49 塹]] 坑塹
-  - [[F2.49 壍]] 同上
+  - (F2.49 塹) 坑塹
+  - (F2.49 壍) 同上
   ==
 W
   ====
@@ -781,7 +774,7 @@ V
   ==
 F
   ==
-  - [[F2.49 暹]] 日光也升也進也
+  - (F2.49 暹) 日光也升也進也
   ==
 W
   ====
@@ -810,7 +803,7 @@ V
   ==
 F
   ==
-  - [[F2.49 槧]] 斬木爲槧
+  - (F2.49 槧) 斬木爲槧
   ==
 W
   ====
@@ -829,7 +822,7 @@ C
   ==
 $$
 
-###+ 䠨3 | _Ch(')(i/)m(3)_ (cim3)
+###+ 䠨3 | _Ch(')(i/)m(3)_ [[cim3]]
 
 $$.
 R
@@ -933,7 +926,7 @@ A
   ==
 F
   ==
-  - [[F2.48 潛]] 伏也藏也
+  - (F2.48 潛) 伏也藏也
   ==
 W
   ====

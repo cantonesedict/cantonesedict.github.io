@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2025-08-31
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -73,7 +73,7 @@ $$
 </nav>
 <## /tone-1-characters ##>
 
-###+ 倀1 | _(1)Ch(')(e/)ung_ (coeng1)
+###+ 倀1 | _(1)Ch(')(e/)ung_ [[coeng1]]
 
 $$
 R
@@ -89,7 +89,7 @@ W
     - Groping, going blindly [[Kangxi: 狂行不知所如也 etc.]];
     - madly [[Kangxi: 狂也]], carelessly;
     - to fall down [[Kangxi: 一曰仆也]];
-    - _[(1)ch(')(e/)ung] (2)kwai_
+    - _~~(4)ch(')(a/)ng~~ ``(1)ch(')(e/)ung`` (2)kwai_
         [[coeng1 gwai2 倀鬼]],
         a lares eaten by a tiger, _met._ one who entices to evil courses.
     ==
@@ -109,7 +109,7 @@ U
   U+5021
 F
   ==
-  - [[F1.90 倡]] 倡導倡率先之也
+  - (F1.90 倡) 倡導倡率先之也
   ==
 W
   ====
@@ -143,7 +143,7 @@ A
   ==
 F
   ==
-  - [[F1.90 娼]] 娼妓又娼優女樂
+  - (F1.90 娼) 娼妓又娼優女樂
   ==
 W
   ====
@@ -185,7 +185,7 @@ W
   ====
 $$
 
-###+ 將1 | _(1)Ts(')(e/)ung_ (coeng1)
+###+ 將1 | _(1)Ts(')(e/)ung_ [[coeng1]]
 
 $$
 R
@@ -210,7 +210,7 @@ S
   ==
 $$
 
-### [{𢃑=⿰巾昌}]1 | _(1)Ch(')(e/)ung_ [[coeng1]]
+### ~~帽~~``{𢃑=⿰巾昌}``1 | _(1)Ch(')(e/)ung_ [[coeng1]]
 
 $$.
 R
@@ -219,19 +219,15 @@ U
   U+220D1
 F
   ==
-  - [[F1.90 ⿰巾昌]] 披衣不帶曰{𢃑=⿰巾昌}
+  - (F1.90 ⿰巾昌) 披衣不帶曰{𢃑=⿰巾昌}
   ==
 W
   ====
-  - [[Page~36|n79 ::(1)[{𢃑=⿰巾昌}]^::]]
+  - [[Page~36|n79 ::(1)~~帽~~``{𢃑=⿰巾昌}``::]]
     --
     [[Alternative form of 裮. **See $裮coeng1 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - Williams misprints {𢃑=⿰巾昌} as 帽; here corrected.
-  ==
 $$
 
 ### 搶1 | _(1)Ts(')(e/)ung_ [[coeng1]]
@@ -247,7 +243,7 @@ A
   ==
 F
   ==
-  - [[F1.89 搶]] 拒也
+  - (F1.89 搶) 拒也
   ==
 W
   ====
@@ -264,16 +260,10 @@ W
   - [[Page~567 (1)槍; here normalised to 搶]]
     ==
     - [[...]];
-    - to bow the head low [[Kangxi 槍: 抵也]];
+    - to ~~bow~~ ``knock`` the head low [[Kangxi 槍: 抵也]];
     - [[...]].
     ==
   ====
-C
-  ==
-  - Williams' "to bow the head low": Better rendered "to knock".
-    Bowing of the head is merely the specific case of
-    knocking the head against the ground (頭槍地, per the example in Kangxi).
-  ==
 S
   ==
   - $搶caang1
@@ -290,7 +280,7 @@ U
   U+65A8
 F
   ==
-  - [[F1.89 斨]] ::[方銎斧]也::
+  - (F1.89 斨) ::[方銎斧]也::
   ==
 W
   ====
@@ -319,7 +309,7 @@ U
   U+660C
 F
   ==
-  - [[F1.90 昌]] 盛也顯也善也
+  - (F1.90 昌) 盛也顯也善也
   ==
 W
   ====
@@ -364,7 +354,7 @@ A
   ==
 F
   ==
-  - [[F1.89 鎗]] 刀鎗
+  - (F1.89 鎗) 刀鎗
   ==
 W
   ====
@@ -410,8 +400,8 @@ H
   depending on the font.
 F
   ====
-  - [[F1.90 窓]] 高曰窓低曰牗
-  - [[F1.90 牕]] 同上
+  - (F1.90 窓) 高曰窓低曰牗
+  - (F1.90 牕) 同上
   ====
 W
   ====
@@ -435,7 +425,7 @@ A
   ==
 F
   ==
-  - [[F1.90 猖]] 猖狂縱橫也
+  - (F1.90 猖) 猖狂縱橫也
   ==
 W
   ====
@@ -459,7 +449,7 @@ C
   ==
 $$
 
-###+ 瑲1 | _(1)Ts(')(e/)ung_ (coeng1)
+###+ 瑲1 | _(1)Ts(')(e/)ung_ [[coeng1]]
 
 $$
 R
@@ -474,7 +464,7 @@ W
     ==
     - [[...]];
     - a musical sound [[Kangxi: 玉聲也, 一曰樂聲]];
-    - _(1)[ts(')(e/)ung] (1)[ts(')(e/)ung]_
+    - _~~(1)ts(')ong (1)ts(')ong~~ ``(1)ts(')(e/)ung (1)ts(')(e/)ung``_
         [[coeng1 coeng1 瑲瑲]],
         the jingling of stones.
     ==
@@ -494,8 +484,8 @@ U
   U+7A93
 F
   ====
-  - [[F1.90 窓]] 高曰窓低曰牗
-  - [[F1.90 牕]] 同上
+  - (F1.90 窓) 高曰窓低曰牗
+  - (F1.90 牕) 同上
   ====
 W
   ====
@@ -524,8 +514,8 @@ A
   ==
 F
   ==
-  - [[F1.90 窓]] 高曰窓低曰牗
-  - [[F1.90 牕]] 同上
+  - (F1.90 窓) 高曰窓低曰牗
+  - (F1.90 牕) 同上
   ==
 W
   ====
@@ -542,7 +532,7 @@ W
     - _(1)t(')(i/)n (1)ch(')(e/)ung_
         [[tin1 coeng1 天窗]],
         a sky-light;
-    - _(1)ch(')(e/)ung (4)m(u/)n (5)[ch(')(a/)m]_
+    - _(1)ch(')(e/)ung (4)m(u/)n ~~(5)ch(')(a/)n~~ ``(5)ch(')(a/)m``_
         [[coeng1 mun4-2 caam5 窗門棖]],
         a window-sill;
     - _(1)sh(u:) (1)ch(')(e/)ung_ [[syu1 coeng1 書窗]],
@@ -574,7 +564,7 @@ C
   ==
 $$
 
-###+ 窻1 | _(1)Ch(')(e/)ung_ (coeng1)
+###+ 窻1 | _(1)Ch(')(e/)ung_ [[coeng1]]
 
 $$.
 R
@@ -603,7 +593,7 @@ U
   U+83D6
 F
   ==
-  - [[F1.90 菖]] 菖蒲草名
+  - (F1.90 菖) 菖蒲草名
   ==
 W
   ====
@@ -617,7 +607,7 @@ W
   ====
 $$
 
-###+ 裮1 | _(1)Ch(')(e/)ung_ (coeng1)
+###+ 裮1 | _(1)Ch(')(e/)ung_ [[coeng1]]
 
 $$
 R
@@ -630,19 +620,15 @@ A
   ==
 F
   ==
-  - [[F1.90 ⿰巾昌]] 披衣不帶曰{𢃑=⿰巾昌}
+  - (F1.90 ⿰巾昌) 披衣不帶曰{𢃑=⿰巾昌}
   ==
 W
   ====
-  - [[Page~36|n79 ::(1)[{𢃑=⿰巾昌}]::; here normalised to 裮]]
+  - [[Page~36|n79 ::(1)~~帽~~``{𢃑=⿰巾昌}``::; here normalised to 裮]]
     ==
     - Loose flowing garments thrown on one without a cincture [[Kangxi 裮: 披裮, 披衣不帶也]].
     ==
   ====
-C
-  ==
-  - Williams misprints {𢃑=⿰巾昌} as 帽; here corrected.
-  ==
 $$
 
 ### 蹌1 | _(1)Ts(')(e/)ung_ [[coeng1]]
@@ -658,7 +644,7 @@ A
   ==
 F
   ==
-  - [[F1.89 蹌]] 動也
+  - (F1.89 蹌) 動也
   ==
 W
   ====
@@ -689,7 +675,7 @@ U
   U+8E61
 F
   ==
-  - [[F1.89 蹡]] 行貌
+  - (F1.89 蹡) 行貌
   ==
 W
   ====
@@ -717,7 +703,7 @@ A
   ==
 F
   ==
-  - [[F1.89 鎗]] 刀鎗
+  - (F1.89 鎗) 刀鎗
   ==
 W
   ====
@@ -726,7 +712,7 @@ W
     - [[...]];
     - a gun;
     - a spear;
-    - _[(5)]ni(u/) (1)ts(')(e/)ung_
+    - _~~(2)ni(u/)~~ ``(5)ni(u/)`` (1)ts(')(e/)ung_
         [[niu5 coeng1 鳥鎗]],
         a fowling-piece, a matchlock;
     - _shik(9) (1)ts(')(e/)ung (4)l(e/)ung_
@@ -769,7 +755,7 @@ A
   ==
 F
   ==
-  - [[F1.89 鏘]] 鏗鏘鐘鼓之聲
+  - (F1.89 鏘) 鏗鏘鐘鼓之聲
   ==
 W
   ====
@@ -799,7 +785,7 @@ U
   U+95B6
 F
   ==
-  - [[F1.90 閶]] 閶闔天門也
+  - (F1.90 閶) 閶闔天門也
   ==
 W
   ====
@@ -814,7 +800,7 @@ W
   ====
 $$
 
-###+ 鯧1 | _(1)Ch(')(e/)ung_ (coeng1)
+###+ 鯧1 | _(1)Ch(')(e/)ung_ [[coeng1]]
 
 $$
 R
@@ -864,7 +850,7 @@ U
   U+6436
 F
   ==
-  - [[F1.92 搶]] 搶奪
+  - (F1.92 搶) 搶奪
   ==
 W
   ====
@@ -883,7 +869,7 @@ W
     - _(2)ts(')(e/)ung (1)s(i/)n (4)hang_
         [[coeng2 sin1 hang4 搶先行]],
         to thrust one's self forward;
-    - _(2)ts(')(e/)ung [p(')(a/)u](3) (4)t(')au_
+    - _(2)ts(')(e/)ung ~~p(')au(3)~~ ``p(')(a/)u(3)`` (4)t(')au_
         [[coeng2 pau3 tau4 搶炮頭]],
         to struggle for the rocket stick on the 2d of 2d~month;
     - _(2)ts(')(e/)ung t(u:)t(9)_
@@ -912,7 +898,7 @@ S
 $$
 
 
-##{#3 .williams} Ch(')(e/)ung(3) <ins class="modern">Ts(')(e/)ung(3)</ins> [[coeng3 陰去]]
+##{#3 .williams} Ch(')(e/)ung(3) ``Ts(')(e/)ung(3)`` [[coeng3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">
@@ -930,7 +916,7 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
-###+ 倡3 | _Ch(')(e/)ung(3)_ (coeng3)
+###+ 倡3 | _Ch(')(e/)ung(3)_ [[coeng3]]
 
 $$
 R
@@ -943,30 +929,30 @@ V
   ==
 F
   ==
-  - [[F1.90 倡 _(1)Ch(')(e/)ung_ (coeng1)]] 倡導倡率先之也
+  - (F1.90 倡 _(1)Ch(')(e/)ung_ (coeng1)) 倡導倡率先之也
   ==
 W
   ====
-  - [[Page~36|n79 (1)倡 _(1)Ch(')(e/)ung_ (coeng1); here normalised to _Ch(')(e/)ung(3)_ (coeng3)]]
+  - [[Page~36|n79 (1)倡 _(1)Ch(')(e/)ung_ (coeng1)]]
     ==
     - To lead, to go before [[Kangxi: 倡發歌句也]], to seduce or induce;
     - a leader;
     - an example, a guide;
     - [[...]];
-    - _ch(')(e/)ung[(3)] t(o\)(6)_
-        [[coeng3 dou6 倡導]]
+    - _(1)ch(')(e/)ung t(o\)(6)_
+        [[coeng1 dou6 倡導]]
         to show the way;
-    - _ch(')(e/)ung[(3)] (4)(i/)n_
-        [[coeng3 jin4 倡言]],
+    - _(1)ch(')(e/)ung (4)(i/)n_
+        [[coeng1 jin4 倡言]],
         to speak first;
-    - _ch(')(e/)ung[(3)] sut(7)_
-        [[coeng3 seot1 倡率]]
+    - _(1)ch(')(e/)ung sut(7)_
+        [[coeng1 seot1 倡率]]
         to lead on;
-    - _ch(')(e/)ung[(3)] (4)t(')au_
-        [[coeng3 tau4 倡頭]],
+    - _(1)ch(')(e/)ung (4)t(')au_
+        [[coeng1 tau4 倡頭]],
         a leader;
-    - _ch(')(e/)ung[(3)] l(u:)n(6)_
-        [[coeng3 lyun6 倡亂]]
+    - _(1)ch(')(e/)ung l(u:)n(6)_
+        [[coeng1 lyun6 倡亂]]
         to head a riot.
     ==
   ====
@@ -985,7 +971,7 @@ U
   U+5531
 F
   ==
-  - [[F1.93 唱]] 歌唱
+  - (F1.93 唱) 歌唱
   ==
 W
   ====
@@ -1020,7 +1006,7 @@ W
   ====
 $$
 
-###+ 悵3 | _Ch(')(e/)ung(3)_ (coeng3)
+###+ 悵3 | _Ch(')(e/)ung(3)_ [[coeng3]]
 
 $$.
 R
@@ -1041,7 +1027,7 @@ S
   ==
 $$
 
-###+ 昶3 | _Ch(')(e/)ung(3)_ (coeng3)
+###+ 昶3 | _Ch(')(e/)ung(3)_ [[coeng3]]
 
 $$.
 R
@@ -1076,7 +1062,7 @@ A
   ==
 F
   ==
-  - [[F1.93 暢]] ::遂也通也[達]也::
+  - (F1.93 暢) ::遂也通也[達]也::
   ==
 W
   ====
@@ -1131,7 +1117,7 @@ E
   ====
 $$
 
-###+ 蹌3 | _Ts(')(e/)ung(3)_ (coeng3)
+###+ 蹌3 | _Ts(')(e/)ung(3)_ [[coeng3]]
 
 $$.
 R
@@ -1152,7 +1138,7 @@ S
   ==
 $$
 
-###+ 蹡3 | _Ts(')(e/)ung(3)_ (coeng3)
+###+ 蹡3 | _Ts(')(e/)ung(3)_ [[coeng3]]
 
 $$
 R
@@ -1188,7 +1174,7 @@ U
   U+97D4
 F
   ==
-  - [[F1.93 韔]] 弓囊也
+  - (F1.93 韔) 弓囊也
   ==
 W
   ====
@@ -1209,7 +1195,7 @@ U
   U+9B2F
 F
   ==
-  - [[F1.93 鬯]] 用秬黍爲酒以香草和之爲鬯
+  - (F1.93 鬯) 用秬黍爲酒以香草和之爲鬯
   ==
 W
   ====
@@ -1258,7 +1244,7 @@ $$
 
 <## TODO: 償 soeng4 ##>
 
-###+ 場4 | _(4)Ch(')(e/)ung_ (coeng4)
+###+ 場4 | _(4)Ch(')(e/)ung_ [[coeng4]]
 
 $$
 R
@@ -1271,7 +1257,7 @@ A
   ==
 F
   ==
-  - [[F1.91 塲]] 祭神之所築塲爲壇除地爲塲又疆場
+  - (F1.91 塲) 祭神之所築塲爲壇除地爲塲又疆場
   ==
 W
   ====
@@ -1304,7 +1290,7 @@ W
     - _(4)t(')(a/)n (4)ch(')(e/)ung_
         [[taan4 coeng4 壇場]],
         an altar;
-    - _t(')i(u/)(3) ch(')ut(7) sh(i/)[(6)] (1)f(i/) (4)ch(')(e/)ung_
+    - _t(')i(u/)(3) ch(')ut(7) ~~(4)sh(i/)~~ ``sh(i/)(6)`` (1)f(i/) (4)ch(')(e/)ung_
         [[tiu3 ceot1 si6 fei1 coeng4 跳出是非場]],
         I'll have nothing more to do with it;
     - _(1)hoi (1)t(')(a/)n (4)ch(')(e/)ung_
@@ -1351,7 +1337,7 @@ U
   U+5872
 F
   ==
-  - [[F1.91 塲]] 祭神之所築塲爲壇除地爲塲又疆場
+  - (F1.91 塲) 祭神之所築塲爲壇除地爲塲又疆場
   ==
 W
   ====
@@ -1371,8 +1357,8 @@ U
   U+58BB
 F
   ==
-  - [[F1.91 牆]] 卑曰垣高曰牆
-  - [[F1.91 墻]] 同上
+  - (F1.91 牆) 卑曰垣高曰牆
+  - (F1.91 墻) 同上
   ==
 W
   ====
@@ -1392,7 +1378,7 @@ U
   U+5B19
 F
   ==
-  - [[F1.91 嬙]] 嬪嬙女官名
+  - (F1.91 嬙) 嬪嬙女官名
   ==
 W
   ====
@@ -1415,7 +1401,7 @@ U
   U+5EA0
 F
   ==
-  - [[F1.91 庠]] 學宮名以養老爲義
+  - (F1.91 庠) 學宮名以養老爲義
   ==
 W
   ====
@@ -1446,7 +1432,7 @@ U
   U+6215
 F
   ==
-  - [[F1.91 戕]] 傷也害也
+  - (F1.91 戕) 傷也害也
   ==
 W
   ====
@@ -1486,7 +1472,7 @@ U
   U+6AA3
 F
   ==
-  - [[F1.91 檣]] 船桅也
+  - (F1.91 檣) 船桅也
   ==
 W
   ====
@@ -1513,8 +1499,8 @@ A
   ==
 F
   ==
-  - [[F1.91 牆]] 卑曰垣高曰牆
-  - [[F1.91 墻]] 同上
+  - (F1.91 牆) 卑曰垣高曰牆
+  - (F1.91 墻) 同上
   ==
 W
   ====
@@ -1559,7 +1545,7 @@ U
   U+7965
 F
   ==
-  - [[F1.91 祥]] 祥瑞言祥禍也善也又喪服有大祥小祥謂除凶從吉也
+  - (F1.91 祥) 祥瑞言祥禍也善也又喪服有大祥小祥謂除凶從吉也
   ==
 W
   ====
@@ -1578,7 +1564,7 @@ W
       _t(a/)i(6) (4)ts(')(e/)ung_ [[daai6 coeng4 大祥]],
         are the sacrifices to ancestors at the end of one and two years,
         when the mourning is altered [[Kangxi: 祭名 etc.]];
-    - _pat(7) (4)ts(')(e/)ung (1)ch(i/) [shi(u/)](6)_
+    - _pat(7) (4)ts(')(e/)ung (1)ch(i/) ~~chi(u/)(6)~~ ``shi(u/)(6)``_
         [[bat1 coeng4 zi1 siu6 不祥之兆]]
         a most unlucky omen;
     - _(4)ts(')z' (4)ts(')(e/)ung_
@@ -1601,7 +1587,7 @@ U
   U+7FD4
 F
   ==
-  - [[F1.91 翔]] 翺翔飛也
+  - (F1.91 翔) 翺翔飛也
   ==
 W
   ====
@@ -1630,7 +1616,7 @@ V
   ==
 F
   ==
-  - [[F1.91 腸]] 腸臟
+  - (F1.91 腸) 腸臟
   ==
 W
   ====
@@ -1707,7 +1693,7 @@ U
   U+8407
 F
   ==
-  - [[F1.91 萇]] 萇楚今羊桃也
+  - (F1.91 萇) 萇楚今羊桃也
   ==
 W
   ====
@@ -1729,7 +1715,7 @@ U
   U+8594
 F
   ==
-  - [[F1.91 薔]] 薔薇花名
+  - (F1.91 薔) 薔薇花名
   ==
 W
   ====
@@ -1759,7 +1745,7 @@ U
   U+8A73
 F
   ==
-  - [[F1.91 詳]] ::詳[備]詳悉細密也::
+  - (F1.91 詳) ::詳[備]詳悉細密也::
   ==
 W
   ====
@@ -1806,7 +1792,7 @@ V
   ==
 F
   ==
-  - [[F1.91 長]] 長久永遠也
+  - (F1.91 長) 長久永遠也
   ==
 W
   ====
@@ -1852,7 +1838,7 @@ W
         an old comrade;
     - _(4)ch(')(e/)ung (1)shang pat(7) (5)l(o\)_
         [[coeng4 sang1 bat1 lou5 長生不老]],
-        ~~a green old age~~;
+        ~~a green old age~~ ``immortal``;
     - _(4)ch(')(e/)ung (5)(u:)n shai(3) k(a/)i(3)_
         [[coeng4 jyun5 sai3 gaai3 長遠世界]]
         long continued, as a family;
@@ -1864,10 +1850,6 @@ W
         go directly there.
     ==
   ====
-C
-  ==
-  - Williams' 長生不老: Not simply vigorous in age, but immortal.
-  ==
 E
   ====
   - 【長氣】 (coeng4 hei3):

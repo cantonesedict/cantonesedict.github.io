@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cin
-* %date-modified --> 2025-08-24
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -70,7 +70,7 @@ A
   ==
 F
   ==
-  - [[F1.19 千]] 十百曰千
+  - (F1.19 千) 十百曰千
   ==
 W
   ====
@@ -143,7 +143,7 @@ U
   U+828A
 F
   ==
-  - [[F1.19 芊]] 草盛貌
+  - (F1.19 芊) 草盛貌
   ==
 W
   ====
@@ -170,7 +170,7 @@ H
   depending on the font.
 F
   ==
-  - [[F1.19 躚]] 蹁躚
+  - (F1.19 躚) 蹁躚
   ==
 W
   ====
@@ -194,8 +194,8 @@ U
   U+8FC1
 F
   ==
-  - [[F1.19 遷]] ::移[徙]::
-  - [[F1.19 迁]] 同上
+  - (F1.19 遷) ::移[徙]::
+  - (F1.19 迁) 同上
   ==
 W
   ====
@@ -227,8 +227,8 @@ A
   ==
 F
   ==
-  - [[F1.19 遷]] ::移[徙]::
-  - [[F1.19 迁]] 同上
+  - (F1.19 遷) ::移[徙]::
+  - (F1.19 迁) 同上
   ==
 W
   ====
@@ -245,7 +245,7 @@ W
     - _(1)ts(')(i/)n (1)k(u:)_
         [[cin1 geoi1 遷居]],
         to change one's lodgings;
-    - _[(a/)t](8) (1)ts(')(i/)n_
+    - _~~(a/)p(8)~~ ``(a/)t(8)`` (1)ts(')(i/)n_
         [[aat3 cin1 押遷]],
         to eject, as a tenant;
     - _(2)tso (1)ts(')(i/)n_
@@ -269,7 +269,7 @@ U
   U+9621
 F
   ==
-  - [[F1.19 阡]] 田基也南北曰阡東西曰陌
+  - (F1.19 阡) 田基也南北曰阡東西曰陌
   ==
 W
   ====
@@ -293,7 +293,7 @@ H
   depending on the font.
 F
   ==
-  - [[F1.19 韆]] 鞦韆
+  - (F1.19 韆) 鞦韆
   ==
 W
   ====
@@ -333,7 +333,7 @@ E
 $$
 
 
-##{#2 .williams} <ins class="modern">(2)Ch(')(i/)n</ins> (2)Ts(')(i/)n [[cin2 陰上]]
+##{#2 .williams} ``(2)Ch(')(i/)n`` (2)Ts(')(i/)n [[cin2 陰上]]
 
 <## tone-2-characters ##>
 <nav class="sideways">
@@ -355,7 +355,7 @@ U
   U+4FF4
 F
   ==
-  - [[F1.22 俴]] 淺也詩小戎俴收
+  - (F1.22 俴) 淺也詩小戎俴收
   ==
 W
   ====
@@ -379,7 +379,7 @@ U
   U+6DFA
 F
   ==
-  - [[F1.22 淺]] 不深也
+  - (F1.22 淺) 不深也
   ==
 W
   ====
@@ -429,7 +429,7 @@ S
   ==
 $$
 
-###+ 踐2 | _(2)Ts(')(i/)n_ (cin2)
+###+ 踐2 | _(2)Ts(')(i/)n_ [[cin2]]
 
 $$.
 R
@@ -451,7 +451,7 @@ S
   ==
 $$
 
-###+ 闡2 | _(2)Ch(')(i/)n_ (cin2)
+###+ 闡2 | _(2)Ch(')(i/)n_ [[cin2]]
 
 $$.
 R
@@ -496,7 +496,7 @@ U
   U+524D
 F
   ==
-  - [[F1.21 前]] 前後
+  - (F1.21 前) 前後
   ==
 W
   ====
@@ -590,7 +590,7 @@ U
   U+5EDB
 F
   ==
-  - [[F1.21 ::[廛]::]] 市宅
+  - (F1.21 ::[廛]::) 市宅
   ==
 W
   ====
@@ -625,7 +625,7 @@ V
   ==
 F
   ==
-  - [[F1.21 ::[纏]::]] ::牽[纏]::
+  - (F1.21 ::[纏]::) ::牽[纏]::
   ==
 W
   ====
@@ -656,7 +656,7 @@ W
     - _(4)ch(')(i/)n ch(u:)(6)_
         [[cin4 zyu6 纏住]]
         importunate, to bother;
-    - _(1)[ch(')(i/)] (4)ch(')(i/)n_
+    - _~~(1)ch(')i~~ ``(1)ch(')(i/)`` (4)ch(')(i/)n_
         [[ci1 cin4 癡纏]],
         troublesome, to annoy.
     ==
@@ -679,7 +679,7 @@ U
   U+8E94
 F
   ==
-  - [[F1.21 ::[躔]::]] ::踐踏也又星辰[躔]度::
+  - (F1.21 ::[躔]::) ::踐踏也又星辰[躔]度::
   ==
 W
   ====
@@ -720,8 +720,8 @@ V
   ==
 F
   ==
-  - [[F1.21 錢]] 十分爲錢
-  - [[F1.21 {？=⿸⿻丿丨丶}]] 同上
+  - (F1.21 錢) 十分爲錢
+  - (F1.21 {？=⿸⿻丿丨丶}) 同上
   ==
 W
   ====
@@ -745,7 +745,7 @@ W
     - _(2)ch(a/)u (4)ts(')(i/)n_
         [[zaau2 cin4 找錢]],
         to exchange into cash;
-    - _(2)k(i/) (4)ts(')(i/)n [(5)ch(')ung]_
+    - _(2)k(i/) (4)ts(')(i/)n ~~chung(6)~~ ``(5)ch(')ung``_
         [[gei2 cin4 cung5 幾錢重]]^
         how many mace does it weigh?
     - _fong(3) l(o\)(6) (4)ts(')(i/)n_
@@ -757,7 +757,7 @@ W
     - _l(a/)n(6) (4)ts(')(i/)n_
         [[laan6 cin4 爛錢]],
         bad cash;
-    - _(4)ts(')(i/)n (2)p(a/)n k(o\)m(3) [(5)]hau_
+    - _(4)ts(')(i/)n (2)p(a/)n k(o\)m(3) ~~hau(6)~~ ``(5)hau``_
         [[cin4 baan2 gam3 hau5 錢板咁厚]]^
         thick as a cash board;
     - _l(i/)(6) (4)ts(')(i/)n_
@@ -819,7 +819,7 @@ $$
 </nav>
 <## /tone-5-characters ##>
 
-###+ 俴5 | _(5)Ts(')(i/)n_ (cin5)
+###+ 俴5 | _(5)Ts(')(i/)n_ [[cin5]]
 
 $$
 R
@@ -832,7 +832,7 @@ V
   ==
 F
   ==
-  - [[F1.22 俴 _(2)Ts(')(i/)n_ (cin2)]] 淺也詩小戎俴收
+  - (F1.22 俴 _(2)Ts(')(i/)n_ (cin2)) 淺也詩小戎俴收
   ==
 W
   ====
@@ -873,16 +873,16 @@ W
     - To tread upon [[Kangxi: 履也]], to trample on or over [[Kangxi: 踐蹋也, 踐殘也使殘壞也]];
     - ~~to walk,~~ to step;
     - ~~to arrange out;~~
-    - _[(5)ts(')(i/)n] (4)(i/)n_
+    - _~~ts(i/)n(6)~~ ``(5)ts(')(i/)n`` (4)(i/)n_
         [[cin5 jin4 踐言]],
         to fulfill one's promise;
-    - _[(5)ts(')(i/)n] t(a/)p(9)_
+    - _~~ts(i/)n(6)~~ ``(5)ts(')(i/)n`` t(a/)p(9)_
         [[cin5 daap6 踐踏]]
         to tread down or in;
-    - _[(5)ts(')(i/)n] k(u:)(3)_
+    - _~~ts(i/)n(6)~~ ``(5)ts(')(i/)n`` k(u:)(3)_
         [[cin5 geoi3 踐？]]
         to tread down the heels;
-    - _[(5)ts(')(i/)n] wai(6)_
+    - _~~ts(i/)n(6)~~ ``(5)ts(')(i/)n`` wai(6)_
         [[cin5 wai6 踐位]]
         to ascend the throne;
         to walk in another's steps.

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2025-10-06
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -160,7 +160,7 @@ U
   U+5DEE
 F
   ==
-  - [[F2.74 差]] 差錯舛謬也
+  - (F2.74 差) 差錯舛謬也
   ==
 W
   ====
@@ -195,7 +195,7 @@ W
   - [[Page~615 (1)差 _(1)Ts(')z'_ (ci1); here corrected to _(1)Ch(')(a/)_ (caa1)]]
     ==
     - [[...]];
-    - _(1)[ch(')(a/)] (2)ho (4)yan (i/)(3)_
+    - _~~(1)ts(')z'~~ ``(1)ch(')(a/)`` (2)ho (4)yan (i/)(3)_
         [[caa1 ho2 jan4 ji3 差可人意]]
         like what most men think.
     ==
@@ -303,15 +303,15 @@ V
   ==
 F
   ==
-  - [[F2.58 艖 _(1)Ts(')o_ (co1)]] 舟名
+  - (F2.58 艖 _(1)Ts(')o_ (co1)) 舟名
   ==
 W
   ====
   - [[Page~583 (1)艖 _(1)Ts(')o_ (co1)]]
     ==
     - A skiff [[Kangxi: 小舟也]];
-    - _(4)(i/)m (1)[ch(')(a/)]_
-        [[jim4 caa1 鹽艖]],
+    - _(4)(i/)m (1)ts(')o_
+        [[jim4 co1 鹽艖]],
         a salt boat, vessels used in salt transportation.
     ==
     --
@@ -335,7 +335,7 @@ $$
 </nav>
 <## /tone-2-characters ##>
 
-###+ 鑔2 | _(2)Ch(')(a/)_ (caa2)
+###+ 鑔2 | _(2)Ch(')(a/)_ [[caa2]]
 
 $$
 R
@@ -413,7 +413,7 @@ U
   U+54A4
 F
   ==
-  - [[F2.76 咤]] 叱咤怒也噴也
+  - (F2.76 咤) 叱咤怒也噴也
   ==
 W
   ====
@@ -445,7 +445,7 @@ V
   ==
 F
   ==
-  - [[F2.76 奼]] 美女也
+  - (F2.76 奼) 美女也
   ==
 W
   ====
@@ -456,7 +456,7 @@ W
   ====
 $$
 
-###+ 岔3 | _Ch(')(a/)(3)_ (caa3)
+###+ 岔3 | _Ch(')(a/)(3)_ [[caa3]]
 
 $$.
 R
@@ -477,7 +477,7 @@ S
   ==
 $$
 
-###+ 汊3 | _Ch(')(a/)(3)_ (caa3)
+###+ 汊3 | _Ch(')(a/)(3)_ [[caa3]]
 
 $$.
 R
@@ -507,8 +507,8 @@ U
   U+8721
 F
   ==
-  - [[F2.28 蜡 _Ch(')(a/)i(3)_ (caai3)]] ::[釵]去聲祭名[八]蜡所以報[土]也::
-  - [[F2.76 蜡]] 八蜡祭名
+  - (F2.28 蜡 _Ch(')(a/)i(3)_ (caai3)) ::[釵]去聲祭名[八]蜡所以報[土]也::
+  - (F2.76 蜡) 八蜡祭名
   ==
 W
   ====
@@ -544,7 +544,7 @@ A
   ==
 F
   ==
-  - [[F2.76 詫]] 誇也
+  - (F2.76 詫) 誇也
   ==
 W
   ====
@@ -554,7 +554,7 @@ W
     - to deceive [[Kangxi: 誑也]];
     - _ch(')(a/)(3) (i/)(6)_
         [[caa3 ji6 詫異]]
-        ~~strange, foolish~~.
+        ~~strange, foolish~~ ``wonder, astonishment``.
     ==
   - [[Page~9|n52 吒(3)咤(3)]]
     --
@@ -564,10 +564,6 @@ W
     [[...]]
     --
   ====
-C
-  ==
-  - Williams' 詫異: Not "strange" or "foolish", but "wonder" or "astonishment".
-  ==
 P
   ++
   1. Astonished.
@@ -603,7 +599,7 @@ V
   ==
 F
   ==
-  - [[F2.75 嗏]] 唱曲長聲也
+  - (F2.75 嗏) 唱曲長聲也
   ==
 W
   ====
@@ -718,7 +714,7 @@ U
   U+69CE
 F
   ==
-  - [[F2.75 槎]] 水中浮木
+  - (F2.75 槎) 水中浮木
   ==
 W
   ====
@@ -734,7 +730,7 @@ W
   ====
 $$
 
-###+ 痄4 | _(4)Ch(')(a/)_ (caa4)
+###+ 痄4 | _(4)Ch(')(a/)_ [[caa4]]
 
 $$
 R
@@ -768,7 +764,7 @@ U
   U+8336
 F
   ==
-  - [[F2.75 茶]] 茗也華烹之可止渴
+  - (F2.75 茶) 茗也華烹之可止渴
   ==
 W
   ====
@@ -800,7 +796,7 @@ W
     - _(4)ch(')(a/) (4)(u/)_
         [[caa4 wu4-2 茶壺]],
         a tea-pot;
-    - _(4)ch(')(a/) (4)[ch(')(i/)]_
+    - _(4)ch(')(a/) ~~(4)sh(i/)~~ ``(4)ch(')(i/)``_
         [[caa4 ci4 茶匙]],
         a tea-spoon;
     - _(4)ch(')(a/) (4)sh(u:)n_
@@ -864,7 +860,7 @@ $$
 </nav>
 <## /tone-5-characters ##>
 
-###+ 扠5 | _(5)Ch(')(a/)_ (caa5)
+###+ 扠5 | _(5)Ch(')(a/)_ [[caa5]]
 
 $$.
 R
@@ -885,7 +881,7 @@ S
   ==
 $$
 
-###+ 搽5 | _(5)Ch(')(a/)_ (caa5)
+###+ 搽5 | _(5)Ch(')(a/)_ [[caa5]]
 
 $$
 R

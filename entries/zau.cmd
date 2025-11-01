@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2025-08-14
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -85,7 +85,7 @@ U
   U+4F9C
 F
   ==
-  - [[F1.49 侜]] 載也
+  - (F1.49 侜) 載也
   ==
 W
   ====
@@ -118,7 +118,7 @@ A
   ==
 F
   ==
-  - [[F1.49 周]] 周密周濟周備周遍又姓
+  - (F1.49 周) 周密周濟周備周遍又姓
   ==
 W
   ====
@@ -159,7 +159,7 @@ W
     - _(1)chau (4)ts(')(u:)n_
         [[zau1 cyun4 周全]],
         to bring a thing about, to remove ill feeling, to explain;
-    - _(2)h(o\) (1)chau ch(i/)[(3)]_
+    - _(2)h(o\) (1)chau ~~(1)ch(i/)~~ ``ch(i/)(3)``_
         [[hou2 zau1 zi3 好周置]],
         it is excellent.
     ==
@@ -195,7 +195,7 @@ E
   ====
 $$
 
-###+ 啁1 | _(1)Chau_ (zau1)
+###+ 啁1 | _(1)Chau_ [[zau1]]
 
 $$
 R
@@ -226,7 +226,7 @@ U
   U+557E
 F
   ==
-  - [[F1.50 啾]] 啾喞小聲也
+  - (F1.50 啾) 啾喞小聲也
   ==
 W
   ====
@@ -253,7 +253,7 @@ U
   U+5DDE
 F
   ==
-  - [[F1.49 州]] 九州
+  - (F1.49 州) 九州
   ==
 W
   ====
@@ -291,7 +291,7 @@ U
   U+63AB
 F
   ==
-  - [[F1.50 掫]] 擊也守夜擊刀斗之類
+  - (F1.50 掫) 擊也守夜擊刀斗之類
   ==
 W
   ====
@@ -310,7 +310,7 @@ S
   ==
 $$
 
-###+ 揪1 | _(1)Tsau_ (zau1)
+###+ 揪1 | _(1)Tsau_ [[zau1]]
 
 $$
 R
@@ -336,13 +336,13 @@ W
     - to collect, to assemble [[Kangxi 揫: 聚也]];
     - to lift, to grasp, to clutch;
     - to gripe;
-    - _(1)[tsau] ch(u:)(6)_
+    - _~~(1)ts(')au~~ ``(1)tsau`` ch(u:)(6)_
         [[zau1 zyu6 揪住]]
         to seize fast;
-    - _(1)[tsau] (5)(i/)_
+    - _~~(1)ts(')au~~ ``(1)tsau`` (5)(i/)_
         [[zau1 ji5 揪耳]],
         to nab by the ears;
-    - _(1)[tsau] ch(')uk(7)_
+    - _~~(1)ts(')au~~ ``(1)tsau`` ch(')uk(7)_
         [[zau1 cuk1 揪束]]
         to bind up, as a sheaf is.
     ==
@@ -371,7 +371,7 @@ S
   ==
 $$
 
-###+ 揫1 | _(1)Tsau_ (zau1)
+###+ 揫1 | _(1)Tsau_ [[zau1]]
 
 $$.
 R
@@ -429,7 +429,7 @@ A
   ==
 F
   ==
-  - [[F1.49 洲]] 水中可居之也
+  - (F1.49 洲) 水中可居之也
   ==
 W
   ====
@@ -468,7 +468,7 @@ C
   ==
 $$
 
-###+ 湫1 | _(1)Tsau_ (zau1)
+###+ 湫1 | _(1)Tsau_ [[zau1]]
 
 $$
 R
@@ -481,7 +481,7 @@ V
   ==
 F
   ==
-  - [[F1.50 湫 _(1)Ts(')au_ (cau1)]] 水名
+  - (F1.50 湫 _(1)Ts(')au_ (cau1)) 水名
   ==
 W
   ====
@@ -510,7 +510,7 @@ U
   U+7DC5
 F
   ==
-  - [[F1.50 緅]] 靑赤色
+  - (F1.50 緅) 靑赤色
   ==
 W
   ====
@@ -531,7 +531,7 @@ U
   U+821F
 F
   ==
-  - [[F1.49 舟]] 船也
+  - (F1.49 舟) 船也
   ==
 W
   ====
@@ -560,7 +560,7 @@ U
   U+8ACF
 F
   ==
-  - [[F1.50 諏]] 咨事曰諏
+  - (F1.50 諏) 咨事曰諏
   ==
 W
   ====
@@ -624,14 +624,14 @@ U
   U+8B78
 F
   ==
-  - [[F1.49 譸]] 書經譸張爲幻
+  - (F1.49 譸) 書經譸張爲幻
   ==
 W
   ====
   - [[Page~25|n68 (1)譸]]
     ==
-    - ~~Hurried, bustling~~, to impose upon, to deceive [[Kangxi: 譸張誑也]];
-    - _(1)chau (1)ch(e/)ung [(4)]wai w(a/)n(6)_
+    - ~~Hurried, bustling,~~ to impose upon, to deceive [[Kangxi: 譸張誑也]];
+    - _(1)chau (1)ch(e/)ung ~~(1)wai~~ ``(4)wai`` w(a/)n(6)_
         [[zau1 zoeng1 wai4 waan6 譸張為幻]]
         to delude with false appearances.
     ==
@@ -655,7 +655,7 @@ A
   ==
 F
   ==
-  - [[F1.49 賙]] 賑恤也
+  - (F1.49 賙) 賑恤也
   ==
 W
   ====
@@ -687,14 +687,14 @@ U
   U+8F08
 F
   ==
-  - [[F1.49 輈]] 車轅
+  - (F1.49 輈) 車轅
   ==
 W
   ====
   - [[Page~25|n68 (1)輈]]
     ==
     - A frame in front of a carriage [[Kangxi: 車轅也 etc.]] near which the driver sits;
-    - ~~a sort of dashboard~~.
+    - ~~a sort of dashboard.~~
     ==
   ====
 $$
@@ -708,7 +708,7 @@ U
   U+8F16
 F
   ==
-  - [[F1.49 輖]] 匣也
+  - (F1.49 輖) 匣也
   ==
 W
   ====
@@ -730,7 +730,7 @@ U
   U+9031
 F
   ==
-  - [[F1.49 週]] 回也也
+  - (F1.49 週) 回也也
   ==
 W
   ====
@@ -759,7 +759,7 @@ W
   ====
 $$
 
-###+ 郰1 | _(1)Tsau_ (zau1)
+###+ 郰1 | _(1)Tsau_ [[zau1]]
 
 $$
 R
@@ -773,7 +773,7 @@ A
   ==
 F
   ==
-  - [[F1.50 鄹]] 孔子故鄕
+  - (F1.50 鄹) 孔子故鄕
   ==
 W
   ====
@@ -810,7 +810,7 @@ A
   ==
 F
   ==
-  - [[F1.50 鄒]] 國名又姓
+  - (F1.50 鄒) 國名又姓
   ==
 W
   ====
@@ -839,7 +839,7 @@ U
   U+9139
 F
   ==
-  - [[F1.50 鄹]] 孔子故鄕
+  - (F1.50 鄹) 孔子故鄕
   ==
 W
   ====
@@ -866,7 +866,7 @@ U
   U+966C
 F
   ==
-  - [[F1.50 陬]] 遐陬
+  - (F1.50 陬) 遐陬
   ==
 W
   ====
@@ -877,7 +877,7 @@ W
     - a nook, a corner;
     - to live together [[Kangxi: 聚居也]];
     - abashed, ashamed [[Kangxi: ::[卑]陬愧恧貌::]];
-    - _[m(a/)ng](6) (1)tsau_
+    - _~~mang(6)~~ ``m(a/)ng(6)`` (1)tsau_
         [[maang6 zau1 孟陬]],
         the first month [[Kangxi: 正月爲孟陬]];
     - _(o\)m(3) (1)tsau_
@@ -907,7 +907,7 @@ U
   U+9A36
 F
   ==
-  - [[F1.50 騶]] 騶虞仁獸
+  - (F1.50 騶) 騶虞仁獸
   ==
 W
   ====
@@ -940,7 +940,7 @@ V
   ==
 F
   ==
-  - [[F1.50 魚名又鯫生小人也]]
+  - (F1.50 魚名又鯫生小人也)
   ==
 W
   ====
@@ -985,7 +985,7 @@ U
   U+5E1A
 F
   ==
-  - [[F1.53 帚]] ::[帚]彗掃也::
+  - (F1.53 帚) ::[帚]彗掃也::
   ==
 W
   ====
@@ -1004,7 +1004,7 @@ S
   ==
 $$
 
-###+ 棷2 | _(2)Chau_ (zau2)
+###+ 棷2 | _(2)Chau_ [[zau2]]
 
 $$
 R
@@ -1037,7 +1037,7 @@ U
   U+7B92
 F
   ==
-  - [[F1.53 箒]] 掃箒
+  - (F1.53 箒) 掃箒
   ==
 W
   ====
@@ -1061,7 +1061,7 @@ U
   U+8098
 F
   ==
-  - [[F1.53 ::[肘]::]] ::臂節也又制[肘]::
+  - (F1.53 ::[肘]::) ::臂節也又制[肘]::
   ==
 W
   ====
@@ -1089,7 +1089,7 @@ U
   U+8D70
 F
   ==
-  - [[F1.53 走]] 奔走趨也
+  - (F1.53 走) 奔走趨也
   ==
 W
   ====
@@ -1229,7 +1229,7 @@ U
   U+9152
 F
   ==
-  - [[F1.53 酒]] 儀狄所造
+  - (F1.53 酒) 儀狄所造
   ==
 W
   ====
@@ -1267,7 +1267,7 @@ W
     - _p(a/)k(9) (2)tsau_
         [[baak6 zau2 白酒]],
         sherry;
-    - _[(1)p(e/)] (2)tsau_
+    - _~~(2)p(')(e/)~~ ``(1)p(e/)`` (2)tsau_
         [[be1 zau2 啤酒]],
         beer;
     - _(2)shui (2)tsau_
@@ -1326,7 +1326,7 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
-###+ 僽3 | _Tsau(3)_ (zau3)
+###+ 僽3 | _Tsau(3)_ [[zau3]]
 
 $$
 R
@@ -1345,7 +1345,7 @@ W
     ==
     - To scold, to rail at [[Kangxi: 僝僽惡言詈也]];
     - abusive, scurrilous language;
-    - _(4)sh(a/)n tsau[(3)]_
+    - _(4)sh(a/)n ~~(1)tsau~~ ``tsau(3)``_
         [[saan4 zau3 僝僽]],
         to say outrageous things, to irritate.
     ==
@@ -1361,8 +1361,8 @@ U
   U+546A
 F
   ==
-  - [[F1.55 咒]] 符咒又咒咀
-  - [[F1.55 ::[呪]::]] 同上
+  - (F1.55 咒) 符咒又咒咀
+  - (F1.55 ::[呪]::) 同上
   ==
 W
   ====
@@ -1391,8 +1391,8 @@ A
   ==
 F
   ==
-  - [[F1.55 咒]] 符咒又咒咀
-  - [[F1.55 ::[呪]::]] 同上
+  - (F1.55 咒) 符咒又咒咀
+  - (F1.55 ::[呪]::) 同上
   ==
 W
   ====
@@ -1404,8 +1404,8 @@ W
     - ~~a prayer;~~
     - _n(i/)m(6) chau(3)_
         [[nim6 zau3 念咒]]
-        ~~to recite prayers~~;
-    - _(2)[t(')(o\)] chau(3)_
+        to recite ~~prayers~~ ``an incantation``;
+    - _~~(2)t(o\)~~ ``(2)t(')(o\)`` chau(3)_
         [[tou2 zau3 禱咒]]
         to curse;
     - _(4)f(u/) chau(3)_
@@ -1420,7 +1420,6 @@ W
 C
   ==
   - Fan Wan entry: Corrected duplicate headword 咒 to 呪.
-  - Williams' 念咒: Not to recite a prayer, but an incantation.
   - Williams' 禱咒: Changed _(2)t(o\)_ (dou2) to common reading _(2)t(')(o\)_ (tou2).
   ==
 $$
@@ -1434,14 +1433,14 @@ U
   U+54AE
 F
   ==
-  - [[F1.55 ::[咮]::]] 鳥噌曰咮
+  - (F1.55 ::[咮]::) 鳥噌曰咮
   ==
 W
   ====
   - [[Page~26|n69 咮(3)]]
     ==
     - The bill of birds [[Kangxi: 鳥口也, 咮喙也]];
-    - to peck with the bill, ~~the twittering of birds~~.
+    - to peck with the bill~~, the twittering of birds~~.
     ==
     --
     [[...]]
@@ -1466,8 +1465,8 @@ U
   U+594F
 F
   ==
-  - [[F1.55 奏]] 奏本
-  - [[F1.55 {𩱛=⿰鬲⿳⿶凵⿻⿻⿻⿻㐅丶丶丶丶儿夊}]] 與奏同
+  - (F1.55 奏) 奏本
+  - (F1.55 {𩱛=⿰鬲⿳⿶凵⿻⿻⿻⿻㐅丶丶丶丶儿夊}) 與奏同
   ==
 W
   ====
@@ -1523,7 +1522,7 @@ U
   U+665D
 F
   ==
-  - [[F1.55 晝]] 日中曰晝
+  - (F1.55 晝) 日中曰晝
   ==
 W
   ====
@@ -1546,7 +1545,7 @@ W
   ====
 $$
 
-###+ 椆3 | _Chau(3)_ (zau3)
+###+ 椆3 | _Chau(3)_ [[zau3]]
 
 $$
 R
@@ -1569,7 +1568,7 @@ S
   ==
 $$
 
-###+ 甃3 | _Chau(3)_ (zau3)
+###+ 甃3 | _Chau(3)_ [[zau3]]
 
 $$
 R
@@ -1578,7 +1577,7 @@ U
   U+7503
 F
   ==
-  - [[F1.50 甃 _(1)Ts(')au_ (cau1)]] ::[井]甓又結砌也::
+  - (F1.50 甃 _(1)Ts(')au_ (cau1)) ::[井]甓又結砌也::
   ==
 W
   ====
@@ -1613,7 +1612,7 @@ A
   ==
 F
   ==
-  - [[F1.55 皺]] 面皮蹙也
+  - (F1.55 皺) 面皮蹙也
   ==
 W
   ====
@@ -1641,7 +1640,7 @@ C
   ==
 $$
 
-###+ 祝3 | _Chau(3)_ (zau3)
+###+ 祝3 | _Chau(3)_ [[zau3]]
 
 $$.
 R
@@ -1672,7 +1671,7 @@ U
   U+7E10
 F
   ==
-  - [[F1.55 縐]] 縮而不光曰縐
+  - (F1.55 縐) 縮而不光曰縐
   ==
 W
   ====
@@ -1745,7 +1744,7 @@ U
   U+5191
 F
   ==
-  - [[F1.55 胄]] 后裔也又甲胄
+  - (F1.55 胄) 后裔也又甲胄
   ==
 W
   ====
@@ -1777,7 +1776,7 @@ U
   U+5B99
 F
   ==
-  - [[F1.55 宙]] ::宇宙古[往]今來曰宙::
+  - (F1.55 宙) ::宇宙古[往]今來曰宙::
   ==
 W
   ====
@@ -1802,7 +1801,7 @@ U
   U+5C31
 F
   ==
-  - [[F1.56 就]] 卽也迎也從也
+  - (F1.56 就) 卽也迎也從也
   ==
 W
   ====
@@ -1816,7 +1815,7 @@ W
     - to come near in point of time;
     - an adverb, then, immediately, just, just now, presently, forthwith;
     - a conjunction, then, if, as if;
-    - able to do [[Kangxi: 能也]], ~~willing~~;
+    - able to do [[Kangxi: 能也]]~~, willing~~;
     - _tsau(6) ching(3) (4)loi_
         [[zau6 zing3 loi3 就正來]],
         he has just come;
@@ -1842,7 +1841,7 @@ W
     - _tsau(6) (2)shau_
         [[zau6 sau2 就手]],
         came to one's hands, as profits;
-    - _tsau(6) (4)[lai]_
+    - _tsau(6) ~~(4)loi~~ ``(4)lai``_
         [[zau6 lai4 就嚟]],
         presently, in a little;
         coming forthwith;
@@ -1915,7 +1914,7 @@ V
   ==
 F
   ==
-  - [[F1.55 ::[岫]::]] ::山有石穴曰[岫]::
+  - (F1.55 ::[岫]::) ::山有石穴曰[岫]::
   ==
 W
   ====
@@ -1931,7 +1930,7 @@ C
   ==
 $$
 
-###+ 籀6 | _Chau(6)_ (zau6)
+###+ 籀6 | _Chau(6)_ [[zau6]]
 
 $$
 R
@@ -1949,7 +1948,7 @@ W
   - [[Page~26|n69 籒(6); here normalised to 籀]]
     ==
     - The framer of the seal character,
-      _Chau(6) t(')(a/)i[(3)] (2)sz'_
+      _Chau(6) ~~t(')^(a/)i(6)~~ ``t(')(a/)i(3)`` (2)sz'_
         [[zau6 taai3 si2 籀太史]] [[Kangxi 籒: 史籒周宣王太史名造大篆]];
     - _chau(6) (4)man_
         [[zau6 man4 籀文]],
@@ -1993,7 +1992,7 @@ U
   U+7D02
 F
   ==
-  - [[F1.55 紂]] 商王之號
+  - (F1.55 紂) 商王之號
   ==
 W
   ====
@@ -2024,7 +2023,7 @@ U
   U+80C4
 F
   ==
-  - [[F1.55 胄]] 后裔也又甲胄
+  - (F1.55 胄) 后裔也又甲胄
   ==
 W
   ====
@@ -2034,7 +2033,7 @@ W
     - _chau(6) (2)tsz'_
         [[zau6 zi2 胄子]]
         the eldest son [[Kangxi: 長也 etc.]];
-    - _[chau](6) yui(6)_
+    - _~~hau(3)~~ ``chau(6)`` yui(6)_
         [[zau6 jeoi6 胄裔]]
         posterity;
     - _shai(3) chau(6)_
@@ -2047,7 +2046,7 @@ C
   - For the visually similar character meaning "helmet", see $冑zau6.
   - Fan Wan entry: No distinction is made
     between 冑 (under ⼌) and 胄 (under ⾁).
-  - Williams' 胄裔: Corrected _hau(6)_ (hau6) to _chau(6)_ (zau6).
+  - Williams' 胄裔: Corrected _hau(3)_ (hau3) to _chau(6)_ (zau6).
   ==
 $$
 
@@ -2060,7 +2059,7 @@ U
   U+8896
 F
   ==
-  - [[F1.56 袖]] 衫袖
+  - (F1.56 袖) 衫袖
   ==
 W
   ====
@@ -2099,7 +2098,7 @@ U
   U+914E
 F
   ==
-  - [[F1.55 酎]] ::新[熱]之酒::
+  - (F1.55 酎) ::新[熱]之酒::
   ==
 W
   ====
@@ -2133,7 +2132,7 @@ U
   U+9A5F
 F
   ==
-  - [[F1.55 驟 _Chau(6)_ (zau6)]] 馳驟又疾速也
+  - (F1.55 驟 _Chau(6)_ (zau6)) 馳驟又疾速也
   ==
 W
   ====

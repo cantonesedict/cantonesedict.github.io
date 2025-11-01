@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cap
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -63,7 +63,7 @@ V
   ==
 F
   ==
-  - [[F2.39 戢]] 安集也止也歛也藏也
+  - (F2.39 戢) 安集也止也歛也藏也
   ==
 W
   ====
@@ -79,7 +79,7 @@ W
     - _(2)ch(')(a/)i ts(')ap(7) t(o\)(3) shat(9)_
         [[caai2 cap1 dou3 sat6 踹戢到實]]
         tread it, press it down very solid;
-    - _tsoi[(3)] ts(')ap(7) (1)kon (1)kwo_
+    - _~~(2)tsoi~~ ``tsoi(3)`` ts(')ap(7) (1)kon (1)kwo_
         [[zoi3 cap1 gon1 gwo1 載戢干戈]],
         to lay by shields and spears.
     ==
@@ -110,7 +110,7 @@ V
   ==
 F
   ==
-  - [[F2.39 濈]] 口舌聲
+  - (F2.39 濈) 口舌聲
   ==
 W
   ====
@@ -133,7 +133,7 @@ U
   U+7DDD
 F
   ==
-  - [[F2.39 緝]] 繼續也續也
+  - (F2.39 緝) 繼續也續也
   ==
 W
   ====
@@ -179,7 +179,7 @@ V
   ==
 F
   ==
-  - [[F2.39 葺]] 修補也
+  - (F2.39 葺) 修補也
   ==
 W
   ====
@@ -211,7 +211,7 @@ U
   U+8F2F
 F
   ==
-  - [[F2.39 輯]] 斂也聚也集也
+  - (F2.39 輯) 斂也聚也集也
   ==
 W
   ====

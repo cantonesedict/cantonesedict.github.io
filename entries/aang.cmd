@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aang
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -72,7 +72,7 @@ W
   ====
 $$
 
-###+ 罃1 | _(1)(A/)ng_ (aang1)
+###+ 罃1 | _(1)(A/)ng_ [[aang1]]
 
 $$.
 R
@@ -112,10 +112,10 @@ V
   ==
 F
   ==
-  - [[F2.30 罃 _(1)Ang_ (ang1)]] 魏侯名
-  - [[F2.30 罌 _(1)Ang_ (ang1)]] 瓦屬
-  - [[F2.88 {𦉍=⿱䀠缶} _(1)(A/)ng_ (aang1)]] 屋坑切瓶屬
-  - [[F2.88 {？=⿱䀠辰} _(1)(A/)ng_ (aang1)]] 同上
+  - (F2.30 罃 _(1)Ang_ (ang1)) 魏侯名
+  - (F2.30 罌 _(1)Ang_ (ang1)) 瓦屬
+  - (F2.88 {𦉍=⿱䀠缶} _(1)(A/)ng_ (aang1)) 屋坑切瓶屬
+  - (F2.88 {？=⿱䀠辰} _(1)(A/)ng_ (aang1)) 同上
   ==
 W
   ====

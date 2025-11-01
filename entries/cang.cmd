@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cang
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -56,7 +56,7 @@ U
   U+5C64
 F
   ==
-  - [[F2.31 層]] 重叠也
+  - (F2.31 層) 重叠也
   ==
 W
   ====
@@ -80,7 +80,7 @@ W
     - _(5)sh(e/)ung tai(6) (1)s(a/)m (4)ts(')ang_
         [[soeng5 dai6 saam1 cang4 上第三層]],
         go up to the third story;
-    - _[(5)ch(')ung] yat(7) (4)ts(')ang_
+    - _~~chung(6)~~ ``(5)ch(')ung`` yat(7) (4)ts(')ang_
         [[cung5 jat1 cang4 重一層]],
         one degree heavier;
     - _(5)yau (4)ts(')ang (5)yau ts(')z'(3)_
@@ -108,7 +108,7 @@ U
   U+66FE
 F
   ==
-  - [[F2.31 曾]] 嘗也又不料之詞又反詞
+  - (F2.31 曾) 嘗也又不料之詞又反詞
   ==
 W
   ====
@@ -128,7 +128,7 @@ W
         it is already done;
     - _(4)ho (4)ts(')ang_
         [[ho4 cang4 何曾]],
-        when ~~will it be~~?
+        when ~~will it be~~ ``was it``?
     - _(4)ts(')ang k(i/)n(3)_
         [[cang4 gin3 曾見]]
         I have seen it;
@@ -140,7 +140,6 @@ W
 C
   ==
   - Williams' 唔曾: Dated.
-  - Williams' 何曾: Better rendered "when was it".
   ==
 S
   ==

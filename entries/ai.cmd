@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ai
-* %date-modified --> 2025-09-07
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -53,7 +53,7 @@ $$
 </nav>
 <## /tone-1-characters ##>
 
-###+ 哎1 | _(1)Ai_ (ai1)
+###+ 哎1 | _(1)Ai_ [[ai1]]
 
 $$
 R
@@ -83,7 +83,7 @@ W
     - _(1)ai, mat(7) (5)n(i/) (2)k(o\)m ts(o\)(6)_
         [[ai1 mat1 nei5 gam2 zou6 哎乜你噉做]]
         oh! why did you do so?
-    - _(1)ai [(4)k(')au] (5)n(i/)_
+    - _(1)ai ~~(1)k(')au~~ ``(4)k(')au`` (5)n(i/)_
         [[ai1 kau4 nei5 哎求你]],
         I intreat you.
     ==
@@ -162,7 +162,7 @@ V
   ==
 F
   ==
-  - [[F1.31 矮]] 不高也
+  - (F1.31 矮) 不高也
   ==
 W
   ====
@@ -170,10 +170,10 @@ W
     ==
     - Low;
     - diminutive, short [[Kangxi: 短人也, 矬也]];
-    - _(2)ai [(2)]l(o\) (2)tsai_
+    - _(2)ai ~~(5)l(o\)~~ ``(2)l(o\)`` (2)tsai_
         [[ai2 lou2 zai2 矮佬仔]],
         a pigmy, a little old man;
-    - _(2)p(i/) (1)ch(e/)ung (2)ai tang(3) (2)tsai (5)n(i/) [(5)ts(')o]_
+    - _(2)p(i/) (1)ch(e/)ung (2)ai tang(3) (2)tsai (5)n(i/) ~~tso(6)~~ ``(5)ts(')o``_
         [[bei2 zoeng1 ai2 dang3 zai2 nei5 co5 畀張矮凳仔你坐]]^
         get a low stool for you to sit on---to delude one;
     - _(2)ai tak(7) tsai(6)_
@@ -258,7 +258,7 @@ V
   ==
 F
   ==
-  - [[F1.32 ::[曀]::]] 陰而風也
+  - (F1.32 ::[曀]::) 陰而風也
   ==
 W
   ====
@@ -287,7 +287,7 @@ V
   ==
 F
   ==
-  - [[F1.32 縊]] 懸樑自縊也
+  - (F1.32 縊) 懸樑自縊也
   ==
 W
   ====
@@ -322,7 +322,7 @@ V
   ==
 F
   ==
-  - [[F1.32 翳]] 障翳
+  - (F1.32 翳) 障翳
   ==
 W
   ====

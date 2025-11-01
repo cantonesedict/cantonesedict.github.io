@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zong
-* %date-modified --> 2025-08-29
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -78,8 +78,8 @@ A
   ==
 F
   ==
-  - [[F1.95 粧]] 粧飾又嫁粧
-  - [[F1.95 妝]] 同上
+  - (F1.95 粧) 粧飾又嫁粧
+  - (F1.95 妝) 同上
   ==
 W
   ====
@@ -139,8 +139,8 @@ U
   U+5E84
 F
   ==
-  - [[F1.95 莊]] 端嚴也敬也威也又齊莊
-  - [[F1.95 庄]] 田庄
+  - (F1.95 莊) 端嚴也敬也威也又齊莊
+  - (F1.95 庄) 田庄
   ==
 W
   ====
@@ -151,7 +151,7 @@ W
   ====
 $$
 
-###+ 戕1 | _(1)Tsong_ (zong1)
+###+ 戕1 | _(1)Tsong_ [[zong1]]
 
 $$
 R
@@ -175,7 +175,7 @@ S
   ==
 $$
 
-### [樁]1 | _(1)Chong_ [[zong1]]
+### ~~{？=⿰才舂}~~``樁``1 | _(1)Chong_ [[zong1]]
 
 $$
 R
@@ -184,11 +184,11 @@ U
   U+6A01
 F
   ==
-  - [[F1.95 樁]] 松樁
+  - (F1.95 樁) 松樁
   ==
 W
   ====
-  - [[Page~27* (1)[樁]^]]
+  - [[Page~27* ::(1)~~{？=⿰才舂}~~``樁``::]]
     ==
     - ~~A club;~~
     - a post, a stake driven deep into the ground [[Kangxi: 橛杙也]];
@@ -200,10 +200,6 @@ W
         fir piles.
     ==
   ====
-C
-  ==
-  - Williams misprints 樁 as ⿰才舂; here corrected.
-  ==
 $$
 
 ### 牂1 | _(1)Tsong_ [[zong1]]
@@ -215,7 +211,7 @@ U
   U+7242
 F
   ==
-  - [[F1.96 牂]] 母羊也
+  - (F1.96 牂) 母羊也
   ==
 W
   ====
@@ -230,7 +226,7 @@ W
   ====
 $$
 
-###+ {𥅾=⿰目庄}1 | _(1)Chong_ (zong1)
+###+ {𥅾=⿰目庄}1 | _(1)Chong_ [[zong1]]
 
 $$.
 R
@@ -247,7 +243,7 @@ P
   ++
 $$
 
-###+ {𥊙=⿰目⿳囟儿夊}1 | _(1)Chong_ (zong1)
+###+ {𥊙=⿰目⿳囟儿夊}1 | _(1)Chong_ [[zong1]]
 
 $$.
 R
@@ -273,8 +269,8 @@ U
   U+7CA7
 F
   ==
-  - [[F1.95 粧]] 粧飾又嫁粧
-  - [[F1.95 妝]] 同上
+  - (F1.95 粧) 粧飾又嫁粧
+  - (F1.95 妝) 同上
   ==
 W
   ====
@@ -294,7 +290,7 @@ U
   U+81E7
 F
   ==
-  - [[F1.95 臧]] ::善也厚也又奴婢曰臧[獲]::
+  - (F1.95 臧) ::善也厚也又奴婢曰臧[獲]::
   ==
 W
   ====
@@ -302,8 +298,8 @@ W
     ==
     - Good [[Kangxi: 臧善也]], generous [[Kangxi: 厚也]];
     - virtuous, faithful;
-    - to scold slaves [[Kangxi: ::[...]罵奴曰臧罵婢曰獲::]];
-    - _(1)tsong wok[(9)]_
+    - to scold ``male`` slaves [[Kangxi: ::[...]罵奴曰臧罵婢曰獲::]];
+    - _(1)tsong ~~wok(8)~~ ``wok(9)``_
         [[zong1 wok6 臧獲]]
         to berate slaves.
     ==
@@ -314,7 +310,6 @@ W
 C
   ==
   - Fan Wan entry: Normalised {𫉬=⿱艹⿰犭隻} to 獲.
-  - Williams' "to scold slaves": Specifically, male slaves.
   - Williams' 臧獲: Corrected _wok(8)_ (wok3) to _wok(9)_ (wok6).
   ==
 P
@@ -342,8 +337,8 @@ A
   ==
 F
   ==
-  - [[F1.95 莊]] 端嚴也敬也威也又齊莊
-  - [[F1.95 庄]] 田庄
+  - (F1.95 莊) 端嚴也敬也威也又齊莊
+  - (F1.95 庄) 田庄
   ==
 W
   ====
@@ -354,7 +349,7 @@ W
     - correct in conduct;
     - adorned [[Kangxi: 盛飾也]];
     - a farmhouse [[Kangxi: 田舍也]];
-    - a road [[Kangxi: 莊六軌之道]];
+    - a ``major`` road [[Kangxi: 莊六軌之道]];
     - _(1)chong (4)(i/)m_
         [[zong1 jim4 莊嚴]],
         severely stern;
@@ -374,7 +369,7 @@ W
     - a division of a township, a sort of parish;
     - _(1)sh(a/)n (1)chong_
         [[saan1 zong1 山莊]],
-        a watchman's shed;
+        a ~~watchman's shed~~ ``villa or manor``;
     - _(1)chong h(a/)k(8)_
         [[zong1 haak3 莊客]]
         field laborers;
@@ -398,11 +393,6 @@ W
         laborers on a farm.
     ==
   ====
-C
-  ==
-  - Williams' "a road": Specifically, a major road.
-  - Williams' 山莊: Better rendered "villa" or "manor".
-  ==
 P
   ++
   1. A surname (Kangxi: 姓).
@@ -422,7 +412,7 @@ U
   U+88DD
 F
   ==
-  - [[F1.95 裝]] ::裝[束]整飾也又嫁裝又行裝::
+  - (F1.95 裝) ::裝[束]整飾也又嫁裝又行裝::
   ==
 W
   ====
@@ -455,13 +445,13 @@ W
     - _(1)chong (2)hau_
         [[zong1 hau2 裝口]],
         a foreign mercantile house;
-    - _(1)chong [(2)]ki(u/)_
+    - _(1)chong ~~(5)^ki(u/)~~ ``(2)ki(u/)``_
         [[zong1 giu6-2 裝轎]],
         tip up the sedan;
     - _(4)m(o\) (4)t(')(i/)n (1)chong_
         [[mou4 tin1 zong1 無天裝]],
         no place or heaven for you;
-    - _p(a/)n(6) ch(e/)uk[(9)] (4)t(')ong (1)chong_
+    - _p(a/)n(6) ~~ch(e/)uk(8)~~ ``ch(e/)uk(9)`` (4)t(')ong (1)chong_
         [[baan6 zoek6 tong4 zong1 扮着唐裝]]^
         to disguise one's self as a Chinese;
     - _(1)chong (2)ching_
@@ -493,7 +483,6 @@ W
 C
   ==
   - Fan Wan entry: Corrected 朿 to 束.
-  - Williams' "Used for the preceding": I have not seen 裝 used for 妝.
   - Williams' 裝轎: Corrected _(5)^ki(u/)_ (giu6-5) to _(2)ki(u/)_ (giu6-2).
   - Williams' 扮着唐裝: Corrected _ch(e/)uk(8)_ (zoek3) to _ch(e/)uk(9)_ (zoek6).
   ==
@@ -587,8 +576,8 @@ U
   U+8CCD
 F
   ==
-  - [[F1.95 贓]] ::非理而得[財]物曰贓官之貪者曰贓官::
-  - [[F1.96 賍]] 同上
+  - (F1.95 贓) ::非理而得[財]物曰贓官之貪者曰贓官::
+  - (F1.96 賍) 同上
   ==
 W
   ====
@@ -618,8 +607,8 @@ A
   ==
 F
   ==
-  - [[F1.95 贓]] ::非理而得[財]物曰贓官之貪者曰贓官::
-  - [[F1.96 賍]] 同上
+  - (F1.95 贓) ::非理而得[財]物曰贓官之貪者曰贓官::
+  - (F1.96 賍) 同上
   ==
 W
   ====
@@ -628,7 +617,7 @@ W
     - Booty, plunder, loot, stolen goods;
     - to receive bribes [[Kangxi: 納賄曰贓]];
     - ~~to suborn, to bribe;~~
-    - ~~to hide, to secrete;~~
+    - ~~to hide, to secrete~~ ``that which is stored`` [[Kangxi: 藏也]];
     - _(1)tsong (1)k(u/)n_
         [[zong1 gun1 贓官]],
         an officer who takes bribes;
@@ -650,12 +639,10 @@ W
 C
   ==
   - Fan Wan entry: Fixed missing final stroke in 財.
-  - Williams' "to hide, to secrete": This is a misreading of Kangxi 藏也,
-    which should be rendered as a noun, "[that] stored".
   ==
 $$
 
-###+ 贜1 | _(1)Tsong_ (zong1)
+###+ 贜1 | _(1)Tsong_ [[zong1]]
 
 $$.
 R
@@ -685,7 +672,7 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
-### 塟3 | _Tsong[(3)]_ [[zong3]]
+### 塟3 | _~~Tsong(8)~~ ``Tsong(3)``_ [[zong3]]
 
 $$.
 R
@@ -695,12 +682,12 @@ U
   U+585F
 F
   ==
-  - [[F1.100 塟]] ::殯塟理也[瘞]也::
-  - [[F1.100 葬]] 同上
+  - (F1.100 塟) ::殯塟理也[瘞]也::
+  - (F1.100 葬) 同上
   ==
 W
   ====
-  - [[Page~593 ::葬[(3)]塟[(3)]::^]]
+  - [[Page~593 ::~~葬(8)塟(8)~~``葬(3)塟(3)``::]]
     --
     [[Alternative form of 葬. **See $葬zong3 for the canonical entry.**]]
     --
@@ -708,7 +695,6 @@ W
 C
   ==
   - Fan Wan entry: Corrected ⿸疒圶 to 瘞.
-  - Williams misprints 葬(3)塟(3) as 葬(8)塟(8); here corrected.
   ==
 $$
 
@@ -721,7 +707,7 @@ U
   U+58EF
 F
   ==
-  - [[F1.100 壯]] 强壯壯大壯盛
+  - (F1.100 壯) 强壯壯大壯盛
   ==
 W
   ====
@@ -774,7 +760,7 @@ P
   ++
 $$
 
-### 葬3 | _Tsong[(3)]_ [[zong3]]
+### 葬3 | _~~Tsong(8)~~ ``Tsong(3)``_ [[zong3]]
 
 $$
 R
@@ -787,12 +773,12 @@ A
   ==
 F
   ==
-  - [[F1.100 塟]] ::殯塟理也[瘞]也::
-  - [[F1.100 葬]] 同上
+  - (F1.100 塟) ::殯塟理也[瘞]也::
+  - (F1.100 葬) 同上
   ==
 W
   ====
-  - [[Page~593 ::葬[(3)]塟[(3)]::^]]
+  - [[Page~593 ::~~葬(8)塟(8)~~``葬(3)塟(3)``::]]
     ==
     - To bury, to inter, to put under the ground [[Kangxi: 葬者藏也]];
     - _tsong(3) (4)m(a/)i_
@@ -805,7 +791,7 @@ W
         or
       _(1)ts(')(i/)n tsong(3)_ [[cin1 zong3 遷葬]]
         to change bodies to another grave;
-    - _[(5)]hau tsong(3)_
+    - _~~hau(6)~~ ``(5)hau`` tsong(3)_
         [[hau5 zong3 厚葬]]
         a deep grave;
         to bury in rich dresses;
@@ -815,7 +801,7 @@ W
     - _(2)k(o\) tsong(3)_
         [[gou2 zong3 稿葬]]
         buried in a mat;
-    - _(2)p(a/) (5)k(')(u:) k(a/)m(3) (1)[sh(a/)ng] tsong(3)_
+    - _(2)p(a/) (5)k(')(u:) k(a/)m(3) ~~(1)shang~~ ``(1)sh(a/)ng`` tsong(3)_
         [[baa2 keoi5 gaam3 saang1 zong3 把佢監生葬]]
         to be buried alive.
     ==
@@ -823,7 +809,6 @@ W
 C
   ==
   - Fan Wan entry: Corrected ⿸疒圶 to 瘞.
-  - Williams misprints 葬(3)塟(3) as 葬(8)塟(8); here corrected.
   - Williams' 厚葬: Changed _hau(6)_ (hau6) to common reading _(5)hau_ (hau5).
   - Williams' 把佢監生葬: Changed _(1)shang_ (sang1)
     to vernacular reading _(1)sh(a/)ng_ (saang1).
@@ -847,7 +832,7 @@ $$
 </nav>
 <## /tone-6-characters ##>
 
-###+ 幢6 | _Chong(6)_ (zong6)
+###+ 幢6 | _Chong(6)_ [[zong6]]
 
 $$
 R
@@ -869,7 +854,7 @@ S
   ==
 $$
 
-###+ 憧6 | _Chong(6)_ (zong6)
+###+ 憧6 | _Chong(6)_ [[zong6]]
 
 $$
 R
@@ -904,7 +889,7 @@ V
   ==
 F
   ==
-  - [[F1.100 撞]] 衝突也又忽至曰撞
+  - (F1.100 撞) 衝突也又忽至曰撞
   ==
 W
   ====
@@ -914,7 +899,7 @@ W
     - to run or knock against, to dash upon or against [[Kangxi: 突也又擊也]];
     - to tap on, as a hoop;
     - to strike accidentally or abruptly [[Kangxi: ::[卂]擣也::]];
-    - _chong(6) ch(e/)uk[(9)]_
+    - _chong(6) ~~ch(e/)uk(8)~~ ``ch(e/)uk(9)``_
         [[zong6 zoek6 撞着]]
         to meet suddenly, to run against;
     - _chong(6) p(')(i/)n(3)_
@@ -995,7 +980,7 @@ V
   ==
 F
   ==
-  - [[F1.100 狀]] 體也形容也象也牒也
+  - (F1.100 狀) 體也形容也象也牒也
   ==
 W
   ====
@@ -1054,7 +1039,7 @@ A
   ==
 F
   ==
-  - [[F1.101 臟]] 臟腑五臟
+  - (F1.101 臟) 臟腑五臟
   ==
 W
   ====
@@ -1064,7 +1049,7 @@ W
     - the entrails;
     - _(5)'ng tsong(6)_
         [[ng5 zong6 五臟]]
-        the five viscera---heart, lungs, [spleen], liver, and kidneys;
+        the five viscera---heart, lungs, ~~stomach~~ ``spleen``, liver, and kidneys;
     - _(1)ch(u:) tsong(6) tuk(7)_
         [[zyu1 zong6 duk1 豬臟篤]]
         the cæcum of hogs;
@@ -1076,13 +1061,9 @@ W
         a great eater, gluttonous.
     ==
   ====
-C
-  ==
-  - Williams' 五臟: Corrected "stomach" to "spleen".
-  ==
 $$
 
-###+ 臧6 | _Tsong(6)_ (zong6)
+###+ 臧6 | _Tsong(6)_ [[zong6]]
 
 $$.
 R
@@ -1118,7 +1099,7 @@ A
   ==
 F
   ==
-  - [[F1.101 藏]] 收貨財處曰藏又過貪曰無盡藏
+  - (F1.101 藏) 收貨財處曰藏又過貪曰無盡藏
   ==
 W
   ====

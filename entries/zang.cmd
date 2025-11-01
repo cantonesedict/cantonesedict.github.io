@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -67,7 +67,7 @@ $$
 </nav>
 <## /tone-1-characters ##>
 
-### [凈]1 | _(1)Chang_ [[zang1]]
+### ~~净~~``凈``1 | _(1)Chang_ [[zang1]]
 
 $$
 R
@@ -83,7 +83,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~20|n63 ::(1)[凈]^::]]
+  - [[Page~20|n63 ::(1)~~净~~``凈``::]]
     ==
     - Cold, shivering [[Kangxi 凈: 冷貌]].
     ==
@@ -91,10 +91,6 @@ W
     [[...]]
     --
   ====
-C
-  ==
-  - Williams entry: Normalised headword 净 to 凈.
-  ==
 $$
 
 ### 增1 | _(1)Tsang_ [[zang1]]
@@ -110,7 +106,7 @@ A
   ==
 F
   ==
-  - [[F2.29 增]] 益也加也
+  - (F2.29 增) 益也加也
   ==
 W
   ====
@@ -136,7 +132,7 @@ W
   ====
 $$
 
-###+ 崢1 | _(1)Chang_ (zang1)
+###+ 崢1 | _(1)Chang_ [[zang1]]
 
 $$
 R
@@ -150,7 +146,7 @@ V
   ==
 F
   ==
-  - [[F2.29 崢]] 山峻貌又頭角崢嶸
+  - (F2.29 崢) 山峻貌又頭角崢嶸
   ==
 W
   ====
@@ -158,7 +154,7 @@ W
     ==
     - To rise above;
     - conspicuous, eminent, like a lofty mountain [[Kangxi: 崝嶸也]];
-    - _(4)t(')au kok(8) (1)[chang] (4)[wing]_
+    - _(4)t(')au kok(8) ~~(1)ch(a/)ng~~ ``(1)chang`` ~~(4)ying~~ ``(4)wing``_
         [[tau4 gok3 zang1 wing4 頭角崢嶸]]^
         a noble appearance, dignified.
     ==
@@ -182,7 +178,7 @@ U
   U+618E
 F
   ==
-  - [[F2.29 憎]] 惡也
+  - (F2.29 憎) 惡也
   ==
 W
   ====
@@ -218,7 +214,7 @@ E
   ====
 $$
 
-###+ 掙1 | _(1)Chang_ (zang1)
+###+ 掙1 | _(1)Chang_ [[zang1]]
 
 $$
 R
@@ -253,7 +249,7 @@ U
   U+66FE
 F
   ==
-  - [[F2.29 曾]] 則也乃也又曾祖曾孫
+  - (F2.29 曾) 則也乃也又曾祖曾孫
   ==
 W
   ====
@@ -301,7 +297,7 @@ V
   ==
 F
   ==
-  - [[F2.29 棦]] 木節
+  - (F2.29 棦) 木節
   ==
 W
   ====
@@ -316,7 +312,7 @@ S
   ==
 $$
 
-###+ 爭1 | _(1)Chang_ (zang1)
+###+ 爭1 | _(1)Chang_ [[zang1]]
 
 $$
 R
@@ -329,7 +325,7 @@ V
   ==
 F
   ==
-  - [[F2.29 爭]] 爭競爭闘
+  - (F2.29 爭) 爭競爭闘
   ==
 W
   ====
@@ -344,7 +340,7 @@ W
     --
     ==
     - ~~just, only, nearly, a little;~~
-    - _(1)[chang] noi(6)_
+    - _~~(1)ch(a/)ng~~ ``(1)chang`` noi(6)_
         [[zang1 noi6 爭奈]]
         but still, howbeit, nevertheless;
     - _(1)ch(a/)ng t(a/)m(6) h(i/)(3)_
@@ -359,19 +355,19 @@ W
     - _(1)ch(a/)ng tik(7) (5)sh(e/)ung tong(3)_
         [[zaang1 dik1 soeng5 dong3 爭滴上當]]
         I came near being gulled;
-    - _(1)[chang] tau(3)_
+    - _~~(1)ch(a/)ng~~ ``(1)chang`` tau(3)_
         [[zang1 dau3 爭鬥]]
         to fight, to fall to blows;
-    - _(1)[chang] tsung(6)_
+    - _~~(1)ch(a/)ng~~ ``(1)chang`` tsung(6)_
         [[zang1 zung6 爭訟]]
         to go to law;
     - _(1)ch(a/)ng (1)kung_
         [[zaang1 gung1 爭功]],
-        ~~to emulate~~;
-    - _(1)[chang] t(u:)t[(9)]_
+        to ~~emulate~~ ``claim merit``;
+    - _~~(1)ch(a/)ng~~ ``(1)chang`` ~~t(u:)t(8)~~ ``t(u:)t(9)``_
         [[zang1 dyut6 爭奪]],
         to take by force;
-    - _(1)[chang] chap(7)_
+    - _~~(1)ch(a/)ng~~ ``(1)chang`` chap(7)_
         [[zang1 zap1 爭執]]
         obstinate;
     - _(1)ch(a/)ng (5)yau h(a/)n(6)_
@@ -380,10 +376,10 @@ W
     - _(1)ch(a/)ng tik(7) chuk(7) (2)t(o\) (5)k(')(u:)_
         [[zaang1 dik1 zuk1 dou3-2 keoi5 爭滴捉到佢]],
         all but caught him;
-    - _(1)[chang] (a/)u(3)_
+    - _~~(1)ch(a/)ng~~ ``(1)chang`` (a/)u(3)_
         [[zang1 aau3 爭詏]]
         to dispute;
-    - _(1)ch(a/)ng tak(7) (1)[to]_
+    - _(1)ch(a/)ng tak(7) ~~(1)t(o\)~~ ``(1)to``_
         [[zaang1 dak1 do1 爭得多]],
         very different;
         not enough;
@@ -403,7 +399,6 @@ C
   - Williams' "A colloquial word" etc.: Yes it is a vernacular word,
     but the meaning is to differ or to lack (see below),
     not "just", "only", etc.
-  - Williams' 爭功: Not to emulate, but to claim merit.
   - Williams' 爭奪: Corrected _t(u:)t(8)_ (dyut3) to _t(u:)t(9)_ (dyut6).
   - Williams' 爭得多: Corrected _(1)t(o\)_ (dou1) to _(1)to_ (do1).
   ==
@@ -471,7 +466,7 @@ V
   ==
 F
   ==
-  - [[F2.29 琤]] 玉聲
+  - (F2.29 琤) 玉聲
   ==
 W
   ====
@@ -486,7 +481,7 @@ S
   ==
 $$
 
-###+ 睜1 | _(1)Chang_ (zang1)
+###+ 睜1 | _(1)Chang_ [[zang1]]
 
 $$
 R
@@ -516,7 +511,7 @@ V
   ==
 F
   ==
-  - [[F2.29 筝]] 樂器十二絃
+  - (F2.29 筝) 樂器十二絃
   ==
 W
   ====
@@ -553,8 +548,8 @@ V
   ==
 F
   ==
-  - [[F2.29 繒]] ::魚[網]::
-  - [[F2.29 ::[罾]::]] 同上
+  - (F2.29 繒) ::魚[網]::
+  - (F2.29 ::[罾]::) 同上
   ==
 W
   ====
@@ -582,8 +577,8 @@ U
   U+7F7E
 F
   ==
-  - [[F2.29 繒]] ::魚[網]::
-  - [[F2.29 ::[罾]::]] 同上
+  - (F2.29 繒) ::魚[網]::
+  - (F2.29 ::[罾]::) 同上
   ==
 W
   ====
@@ -596,10 +591,10 @@ W
     - _(1)h(a/) (1)tsang_
         [[haa1 zang1 蝦罾]],
         a crab-net made of cloth;
-    - _(2)[(a/)u] (1)tsang_
+    - _~~(2)au~~ ``(2)(a/)u`` (1)tsang_
         [[aau2 zang1 拗罾]],
         to raise the net;
-    - _(2)[(a/)u] (1)tsang (4)'m k(i/)(3) tak(7) t(')ong(3) (1)lo (4)sh(i/)_
+    - _~~(2)au~~ ``(2)(a/)u`` (1)tsang (4)'m k(i/)(3) tak(7) t(')ong(3) (1)lo (4)sh(i/)_
         [[aau2 zang1 m4 gei3 dak1 tong3 lo4-1 si4 拗罾唔記得熨籮時]],
         he don't like to remember when he dragged for shrimps.
     ==
@@ -630,7 +625,7 @@ V
   ==
 F
   ==
-  - [[F2.29 錚]] 金聲
+  - (F2.29 錚) 金聲
   ==
 W
   ====
@@ -684,18 +679,9 @@ W
     Read _chang(3)_ [[zang3]];
     --
     ==
-    - ~~to file[.]~~
+    - ~~to file~~ ``to break, to snap`` [[Kangxi: 掙剉也]]~~;~~``.``
     ==
   ====
-C
-  ==
-  - Williams' "to file": This is a misreading of Kangxi 掙剉也.
-    Here, 剉 means "break" or "snap", not "file".
-  ==
-P
-  ++
-  1. To break, to snap (Kangxi: 掙剉也).
-  ++
 S
   ==
   - $掙caang1
@@ -704,7 +690,7 @@ S
   ==
 $$
 
-###+ 爭3 | _Chang(3)_ (zang3)
+###+ 爭3 | _Chang(3)_ [[zang3]]
 
 $$.
 R
@@ -741,7 +727,7 @@ V
   ==
 F
   ==
-  - [[F2.31 甑]] 炊飯之器又酒甑
+  - (F2.31 甑) 炊飯之器又酒甑
   ==
 W
   ====
@@ -781,7 +767,7 @@ V
   ==
 F
   ==
-  - [[F2.29 諍 _Chang(6)_ (zang6)]] 諫諍救正之也
+  - (F2.29 諍 _Chang(6)_ (zang6)) 諫諍救正之也
   ==
 W
   ====
@@ -849,7 +835,7 @@ $$
 </nav>
 <## /tone-6-characters ##>
 
-###+ 甑6 | _Tsang(6)_ (zang6)
+###+ 甑6 | _Tsang(6)_ [[zang6]]
 
 $$.
 R
@@ -879,7 +865,7 @@ U
   U+8D08
 F
   ==
-  - [[F2.32 贈]] 送也
+  - (F2.32 贈) 送也
   ==
 W
   ====

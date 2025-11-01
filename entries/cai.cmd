@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2025-08-14
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -83,7 +83,7 @@ U
   U+59BB
 F
   ==
-  - [[F1.28 妻]] 夫妻
+  - (F1.28 妻) 夫妻
   ==
 W
   ====
@@ -105,7 +105,7 @@ W
     - _(4)p(')ing (1)ts(')ai_
         [[ping4 cai1 平妻]],
         equal to a wife, _i.~e._ a concubine;
-    - _[(2)]ts(')(u:) (1)ts(')ai_
+    - _~~ts(')(u:)(3)~~ ``(2)ts(')(u:)`` (1)ts(')ai_
         [[ceoi2 cai1 娶妻]],
         to take a wife;
     - _(4)(i/)n (1)ts(')ai_
@@ -140,7 +140,7 @@ U
   U+60BD
 F
   ==
-  - [[F1.28 悽]] 悲也
+  - (F1.28 悽) 悲也
   ==
 W
   ====
@@ -164,7 +164,7 @@ W
   ====
 $$
 
-### [栖]1 | _(1)Ts(')ai_ [[cai1]]
+### ~~梄~~``栖``1 | _(1)Ts(')ai_ [[cai1]]
 
 $$.
 R
@@ -173,19 +173,15 @@ U
   U+6816
 F
   ==
-  - [[F1.28 栖]] 依也宿也
+  - (F1.28 栖) 依也宿也
   ==
 W
   ====
-  - [[Page~550 ::(1)棲(1)[栖]^::]]
+  - [[Page~550 ::(1)棲(1)~~梄~~``栖``::]]
     --
     [[Alternative form of 棲. **See $棲cai1 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - Williams misprints 栖 as 梄; here corrected.
-  ==
 $$
 
 ### 棲1 | _(1)Ts(')ai_ [[cai1]]
@@ -205,11 +201,11 @@ V
   ==
 F
   ==
-  - [[F1.28 棲]] 棲息又牀也
+  - (F1.28 棲) 棲息又牀也
   ==
 W
   ====
-  - [[Page~550 ::(1)棲(1)[栖]^::]]
+  - [[Page~550 ::(1)棲(1)~~梄~~``栖``::]]
     ==
     - To roost, to perch, to nestle [[Kangxi 栖: 日在西方而鳥棲 etc.]] [[Kangxi 棲: 同栖鳥棲也]];
     - to sojourn, to stay at, to reside;
@@ -248,7 +244,7 @@ A
   ==
 F
   ==
-  - [[F1.28 淒]] 寒也又淒凉
+  - (F1.28 淒) 寒也又淒凉
   ==
 W
   ====
@@ -305,7 +301,7 @@ V
   ==
 F
   ==
-  - [[F1.28 緀]] 緀斐文章相錯貌
+  - (F1.28 緀) 緀斐文章相錯貌
   ==
 W
   ====
@@ -326,7 +322,7 @@ U
   U+840B
 F
   ==
-  - [[F1.28 萋]] 草盛
+  - (F1.28 萋) 草盛
   ==
 W
   ====
@@ -364,7 +360,7 @@ U
   U+5207
 F
   ==
-  - [[F1.32 切]] 齊也衆也
+  - (F1.32 切) 齊也衆也
   ==
 W
   ====
@@ -394,7 +390,7 @@ U
   U+59BB
 F
   ==
-  - [[F1.32 妻]] 以女嫁人曰妻
+  - (F1.32 妻) 以女嫁人曰妻
   ==
 W
   ====
@@ -424,7 +420,7 @@ U
   U+780C
 F
   ==
-  - [[F1.32 砌]] 堦基也
+  - (F1.32 砌) 堦基也
   ==
 W
   ====
@@ -467,7 +463,7 @@ $$
 </nav>
 <## /tone-4-characters ##>
 
-###+ 嚌4 | _(4)Ts(')ai_ (cai4)
+###+ 嚌4 | _(4)Ts(')ai_ [[cai4]]
 
 $$
 R
@@ -496,7 +492,7 @@ S
   ==
 $$
 
-###+ 懠4 | _(4)Ts(')ai_ (cai4)
+###+ 懠4 | _(4)Ts(')ai_ [[cai4]]
 
 $$
 R
@@ -509,7 +505,7 @@ V
   ==
 F
   ==
-  - [[F1.32 懠 _Tsai(3)_ (zai3)]] 怒也
+  - (F1.32 懠 _Tsai(3)_ (zai3)) 怒也
   ==
 W
   ====
@@ -517,7 +513,7 @@ W
     ==
     - Angry, enraged [[Kangxi: 怒也]];
     - [[...]];
-    - _(1)t(i/)n (1)ch(i/) (1)fong [(4)ts(')ai]_
+    - _(1)t(i/)n (1)ch(i/) (1)fong ~~tsai(3)~~ ``(4)ts(')ai``_
         [[tin1 zi1 fong1 cai4 天之方懠]]^
         when heaven is angry.
     ==
@@ -537,22 +533,18 @@ U
   U+8810
 F
   ==
-  - [[F1.30 蠐]] 螬蠐蟲名
+  - (F1.30 蠐) 螬蠐蟲名
   ==
 W
   ====
   - [[Page~550 (4)蠐]]
     ==
-    - A maggot [[Kangxi: 蠐螬]];
+    - ~~A maggot~~ ``The scarab beetle grub`` [[Kangxi: 蠐螬]];
     - _(4)ts(')ai (4)ts(')(o\)_
         [[cai4 cou4 蠐螬]],
         a grub, larvæ in mulberry and other trees.
     ==
   ====
-C
-  ==
-  - Williams' "A maggot": Better rendered "scarab beetle grub".
-  ==
 $$
 
 ### 齊4 | _(4)Ts(')ai_ [[cai4]]
@@ -564,7 +556,7 @@ U
   U+9F4A
 F
   ==
-  - [[F1.30 齊]] 整齊不參差也又國名
+  - (F1.30 齊) 整齊不參差也又國名
   ==
 W
   ====
@@ -652,7 +644,7 @@ U
   U+6CDA
 F
   ==
-  - [[F1.31 泚]] 汗出貌
+  - (F1.31 泚) 汗出貌
   ==
 W
   ====
@@ -677,7 +669,7 @@ U
   U+85BA
 F
   ==
-  - [[F1.31 薺]] 甘菜
+  - (F1.31 薺) 甘菜
   ==
 W
   ====

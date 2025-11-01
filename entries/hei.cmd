@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> hei
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -52,7 +52,7 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
-###+ 屭3 | _H(i/)(3)_ (hei3)
+###+ 屭3 | _H(i/)(3)_ [[hei3]]
 
 $$
 R

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2025-10-19
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -91,7 +91,7 @@ V
   ==
 F
   ==
-  - [[F2.74 丫]] 木之枝頭也
+  - (F2.74 丫) 木之枝頭也
   ==
 W
   ====
@@ -241,7 +241,7 @@ S
   ==
 $$
 
-###+ 啊1 | _(1)(A/)_ (aa1)
+###+ 啊1 | _(1)(A/)_ [[aa1]]
 
 $$.
 R
@@ -262,7 +262,7 @@ S
   ==
 $$
 
-###+ 啞1 | _(1)(A/)_ (aa1)
+###+ 啞1 | _(1)(A/)_ [[aa1]]
 
 $$
 R
@@ -279,7 +279,7 @@ W
   ====
   - [[Page~1|n44 (2)啞 _(2)(A/)_ (aa2); here corrected to _(1)(A/)_ (aa1)]]
     ==
-    - The confused noise of children studying [[Kangxi: 啞嘔小兒學言]];
+    - The confused noise of children ~~studying~~ ``learning to speak`` [[Kangxi: 啞嘔小兒學言]];
     - [[...]].
     ==
   ====
@@ -303,8 +303,8 @@ V
   ==
 F
   ==
-  - [[F2.74 鴉]] 鳥名
-  - [[F2.74 鵶]] 同上
+  - (F2.74 鴉) 鳥名
+  - (F2.74 鵶) 同上
   ==
 W
   ====
@@ -357,9 +357,9 @@ V
   ==
 F
   ==
-  - [[F2.75 啞]] 口不能言曰啞
-  - [[F2.75 瘂]] 同上
-  - [[F2.75 {𤺘=⿸疒㰳}]] 同上
+  - (F2.75 啞) 口不能言曰啞
+  - (F2.75 瘂) 同上
+  - (F2.75 {𤺘=⿸疒㰳}) 同上
   ==
 W
   ====
@@ -368,7 +368,7 @@ W
     - [[...]];
     - dumb [[Kangxi: 瘖也]];
     - to keep silent [[Kangxi: 不言也]], for which the next [[瘂]] is used;
-    - _(2)(a/) [(4)]mai_
+    - _(2)(a/) ~~mai(6)~~ ``(4)mai``_
         [[aa2 mai4 啞謎]]^
         an enigma;
     - _(4)ts(')ing (4)n(a/)n (2)(a/) (2)yan_
@@ -419,9 +419,9 @@ U
   U+7602
 F
   ==
-  - [[F2.75 啞]] 口不能言曰啞
-  - [[F2.75 瘂]] 同上
-  - [[F2.75 {𤺘=⿸疒㰳}]] 同上
+  - (F2.75 啞) 口不能言曰啞
+  - (F2.75 瘂) 同上
+  - (F2.75 {𤺘=⿸疒㰳}) 同上
   ==
 W
   ====
@@ -465,7 +465,7 @@ V
   ==
 F
   ==
-  - [[F2.76 亞]] 次也孟子曰亞聖
+  - (F2.76 亞) 次也孟子曰亞聖
   ==
 W
   ====
@@ -519,7 +519,7 @@ S
   ==
 $$
 
-###+ 啊3 | _(A/)(3)_ (aa3)
+###+ 啊3 | _(A/)(3)_ [[aa3]]
 
 $$
 R
@@ -600,7 +600,7 @@ V
   ==
 F
   ==
-  - [[F2.76 亞]] 姻婭兩壻相謂曰婭
+  - (F2.76 亞) 姻婭兩壻相謂曰婭
   ==
 W
   ====
@@ -681,7 +681,7 @@ $$
 </nav>
 <## /tone-4-characters ##>
 
-###+ 呀4 | _(4)(A/)_ (aa4)
+###+ 呀4 | _(4)(A/)_ [[aa4]]
 
 $$
 R

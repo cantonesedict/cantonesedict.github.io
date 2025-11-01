@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2025-07-30
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -84,13 +84,13 @@ V
   ==
 F
   ==
-  - [[F1.68 偵]] ::[伺]探也::
+  - (F1.68 偵) ::[伺]探也::
   ==
 W
   ====
   - [[Page~18* (1)偵]]
     ==
-    - A spy (vulgo, _ye(6) pat(7) [(1)]shau_ [[je6 bat1 sau1 夜不收]]),
+    - A spy (vulgo, _ye(6) pat(7) ~~(4)shau~~ ``(1)shau``_ [[je6 bat1 sau1 夜不收]]),
       a scout;
     - to reconnoitre, to inquire [[Kangxi: {𠋫=⿰亻侯}也探伺也]];
     - _(4)yau (1)ching_ [[jau4 zing1 遊偵]]^
@@ -115,31 +115,30 @@ U
   U+5F81
 F
   ==
-  - [[F1.68 征]] 往也取也伐也又正也
+  - (F1.68 征) 往也取也伐也又正也
   ==
 W
   ====
   - [[Page~18* (1)征]]
     ==
-    - ~~To go~~;
+    - ~~To go~~ ``An expedition, a long journey`` [[Kangxi: 行也]];
     - to take [[Kangxi: 征取也]];
     - to collect taxes;
     - to go out to chastise, to reduce refractory states [[Kangxi: 征伐也, 征者上伐下也]],
       to subjugate, to conquer;
     - ~~to spy;~~
-    - _(1)ching [fat](9)_
+    - _(1)ching ~~f(a/)t(9)~~ ``fat(9)``_
         [[zing1 fat6 征伐]]
         to reduce to subjection;
     - _(1)ching (2)t(')(o\)_
         [[zing1 tou2 征討]],
-        ~~to collect tribute~~ by force;
+        to ~~collect tribute~~ ``punish`` by force;
     - _(1)ching (1)f(u/)_
         [[zing1 fu1 征夫]],
         warriors;
     - _(1)ching (1)shau_
         [[zing1 sau1 征收]],
         to assess [taxes];
-        [[these square brackets appear in the original text]]
     - _(1)ching (1)ch(u:)_
         [[zing1 zyu1 征誅]],
         to exterminate;
@@ -156,14 +155,8 @@ W
   ====
 C
   ==
-  - Williams' "To go": Better rendered "An expedition".
-  - Williams' 征討: Not to collect tribute, but to punish.
   - Williams' 征伐: Changed _f(a/)t(9)_ (faat6) to modern _fat(9)_ (fat6).
   ==
-P
-  ++
-  1. An expedition, a long journey (Kangxi: 行也).
-  ++
 $$
 
 ### 徵1 | _(1)Ching_ [[zing1]]
@@ -175,7 +168,7 @@ U
   U+5FB5
 F
   ==
-  - [[F1.68 徵]] 証也明也又徵辟
+  - (F1.68 徵) 証也明也又徵辟
   ==
 W
   ====
@@ -248,7 +241,7 @@ V
   ==
 F
   ==
-  - [[F1.67 旌]] 旌旗又旌表
+  - (F1.67 旌) 旌旗又旌表
   ==
 W
   ====
@@ -258,7 +251,7 @@ W
       which when waved encourage the troops [[Kangxi: 析羽注旄首所以進士卒]];
     - to make signals;
     - insignia, signals;
-    - ~~to discriminate~~, to make manifest, to prove, to show forth [[Kangxi: 旌旗所以表識貴賤故傳以旌爲識, 旌章也, 旌表也, 旌明也]];
+    - ~~to discriminate,~~ to make manifest, to prove, to show forth [[Kangxi: 旌旗所以表識貴賤故傳以旌爲識, 旌章也, 旌表也, 旌明也]];
     - _tsing (4)k(')(i/)_
         [[zing1 kei4 旌旗]],
         flags;
@@ -292,7 +285,7 @@ U
   U+6676
 F
   ==
-  - [[F1.67 晶]] 日之光也又水晶
+  - (F1.67 晶) 日之光也又水晶
   ==
 W
   ====
@@ -336,7 +329,7 @@ U
   U+6968
 F
   ==
-  - [[F1.68 楨]] ::楨[榦]::
+  - (F1.68 楨) ::楨[榦]::
   ==
 W
   ====
@@ -411,8 +404,8 @@ A
   ==
 F
   ==
-  - [[F1.68 烝]] 衆也
-  - [[F1.68 蒸]] 衆也進也又薰蒸又冬祭曰蒸
+  - (F1.68 烝) 衆也
+  - (F1.68 蒸) 衆也進也又薰蒸又冬祭曰蒸
   ==
 W
   ====
@@ -420,11 +413,11 @@ W
     ==
     - [[...]];
     - a multitude, all [[Kangxi: 衆也]];
-    - ~~to enter~~, to advance [[Kangxi: 進也]];
+    - ~~to enter,~~ to advance [[Kangxi: 進也]];
     - clouds of dust [[Kangxi: 塵也, 人衆所以生塵埃]];
-    - ~~liberal~~, princely [[Kangxi: 君也]];
+    - ~~liberal,~~ princely [[Kangxi: 君也]];
     - a winter sacrifice [[Kangxi: ::冬祭[曰]烝::, 進品物也]];
-    - ~~to commit incest with superiors in rank;~~
+    - to commit ~~incest with superiors in rank~~ ``adultery with an elder`` [[Kangxi: 上淫曰烝]];
     - ~~to lay down;~~
     - _(1)t(')(i/)n (1)shang (1)ching (4)man_
         [[tin1 sang1 zing1 man4 天生烝民]]^
@@ -457,7 +450,6 @@ W
   ====
 C
   ==
-  - Williams' "incest with superiors": Better rendered "adultery with an elder" (e.g. father's concubine).
   - Williams' 烝嘗: Not just winter sacrifice, but sacrifice in general
     (烝 for winter, and 嘗 for autumn).
   ==
@@ -465,7 +457,6 @@ P
   ++
   1. Air convecting upward from a fire (Kangxi: 火气上行也).
   1. Speech-assist, specifically an initial particle (Kangxi: 烝發語辭).
-  1. To commit adultery with an elder (Kangxi: 上淫曰烝).
   ++
 $$
 
@@ -478,7 +469,7 @@ U
   U+7665
 F
   ==
-  - [[F1.68 癥]] 腹内結疾
+  - (F1.68 癥) 腹内結疾
   ==
 W
   ====
@@ -486,7 +477,7 @@ W
     ==
     - Colic arising from obstruction [[Kangxi: 腹結病也]];
     - obstinate constipation;
-    - _(1)ching [(2)k(a/)]_
+    - _(1)ching ~~(1)h(a/)~~ ``(2)k(a/)``_
         [[zing1 gaa2 癥瘕]],
         obstruction of the bowels with griping.
     ==
@@ -509,7 +500,7 @@ H
   depending on the font.
 F
   ==
-  - [[F1.67 睛]] 眼睛
+  - (F1.67 睛) 眼睛
   ==
 W
   ====
@@ -548,7 +539,7 @@ U
   U+798E
 F
   ==
-  - [[F1.68 禎]] 祥也又善也
+  - (F1.68 禎) 祥也又善也
   ==
 W
   ====
@@ -579,7 +570,7 @@ V
   ==
 F
   ==
-  - [[F1.67 精]] 妙也細也純也靈也壯也熟也
+  - (F1.67 精) 妙也細也純也靈也壯也熟也
   ==
 W
   ====
@@ -610,7 +601,7 @@ W
     - _(4)lung (5)m(a/) (1)tsing (4)shan_
         [[lung4 maa5 zing1 san4 龍馬精神]],
         bright as a steed or dragon;
-    - _(1)tseng [(2)]kong t(a/)i(6) w(a/)(6)_
+    - _(1)tseng ~~kong(3)~~ ``(2)kong`` t(a/)i(6) w(a/)(6)_
         [[zeng1 gong2 daai6 waa6 精講大話]]
         very clever at lying;
     - _(5)k(')(u:) hai(6) (1)tseng_
@@ -626,7 +617,7 @@ W
     - _(1)tsing ch(i/)(3)_
         [[zing1 zi3 精緻]]
         beautiful, handsome;
-    - _(1)[tseng] (1)kw(a/)i_
+    - _~~(1)tsing~~ ``(1)tseng`` (1)kw(a/)i_
         [[zeng1 gwaai1 精乖]],
         very clever at;
     - _(1)tsing kw(a/)i(3)_
@@ -635,11 +626,11 @@ W
         spirit rappings, prodigies;
     - _(4)wai (1)tsing_
         [[wai4 zing1 遺精]],
-        [involuntary] emissions;
+        involunt``a``ry emissions;
     - _(5)n(i/) (1)tseng (5)ngo (4)'m (4)ngoi_
         [[nei5 zeng1 ngo5 m4 ngoi4 你精我唔呆]],
         if you are cute, I'm not a fool;
-    - _(1)tseng [lat](7) (1)p(i/)n_
+    - _(1)tseng ~~lut(7)~~ ``lat(7)`` (1)p(i/)n_
         [[zeng1 lat1 bin1 精甩辮]],
         smart as a steel-trap;
     - _(1)tseng (2)tsai_
@@ -676,7 +667,7 @@ H
   depending on the font.
 F
   ==
-  - [[F1.67 菁]] 草盛也
+  - (F1.67 菁) 草盛也
   ==
 W
   ====
@@ -714,8 +705,8 @@ A
   ==
 F
   ==
-  - [[F1.68 烝]] 衆也
-  - [[F1.68 蒸]] 衆也進也又薰蒸又冬祭曰蒸
+  - (F1.68 烝) 衆也
+  - (F1.68 蒸) 衆也進也又薰蒸又冬祭曰蒸
   ==
 W
   ====
@@ -784,7 +775,7 @@ H
   depending on the font.
 F
   ==
-  - [[F1.67 蜻]] 蜻蜓
+  - (F1.67 蜻) 蜻蜓
   ==
 W
   ====
@@ -817,7 +808,7 @@ U
   U+8C9E
 F
   ==
-  - [[F1.68 貞]] 正也潔也淸白也又易元亨利貞
+  - (F1.68 貞) 正也潔也淸白也又易元亨利貞
   ==
 W
   ====
@@ -857,7 +848,7 @@ U
   U+9266
 F
   ==
-  - [[F1.68 鉦]] 鐃也
+  - (F1.68 鉦) 鐃也
   ==
 W
   ====
@@ -897,7 +888,7 @@ V
   ==
 F
   ==
-  - [[F1.72 井]] 穴地出泉曰井
+  - (F1.72 井) 穴地出泉曰井
   ==
 W
   ====
@@ -968,7 +959,7 @@ A
   ==
 F
   ==
-  - [[F1.72 整]] 修造也齊也葺也理也
+  - (F1.72 整) 修造也齊也葺也理也
   ==
 W
   ====
@@ -1005,13 +996,13 @@ W
         or
       _(2)ching (1)f(a/)n_ [[zing2 faan1 整返]],
         to repair;
-    - _(2)[ching] [(4)]k(')i(u/) (1)sau l(o\)(6)_
+    - _~~(2)cheng~~ ``(2)ching`` ~~(1)k(')i(u/)~~ ``(4)k(')i(u/)`` (1)sau l(o\)(6)_
         [[zing2 kiu4 sau1 lou6 整橋修路]]
         to mend bridges and repair roads;
     - _(2)ching ch(i/)(6) (4)yan_
         [[zing2 zi6 jan4 整治人]],
         to correct a man;
-    - _(2)ching w(a/)i[(6)]_
+    - _(2)ching ~~(4)w(a/)i~~ ``w(a/)i(6)``_
         [[zing2 waai6 整壞]],
         to spoil, to injure.
     ==
@@ -1085,7 +1076,7 @@ U
   U+653F
 F
   ==
-  - [[F1.72 政]] 國政所以止人之不正也又典法曰政
+  - (F1.72 政) 國政所以止人之不正也又典法曰政
   ==
 W
   ====
@@ -1141,7 +1132,7 @@ V
   ==
 F
   ==
-  - [[F1.72 正]] 公也當也不邪也
+  - (F1.72 正) 公也當也不邪也
   ==
 W
   ====
@@ -1153,15 +1144,15 @@ W
     ==
     - Correct [[Kangxi: 是也]], straight, right, not awry, erect [[Kangxi: 方直不曲謂之正]], even;
     - not inclined, not deflected;
-    - regular, usual[,] proper [[Kangxi: 常也, 物以正爲常]];
+    - regular, usual``,`` proper [[Kangxi: 常也, 物以正爲常]];
     - the first, principal [[Kangxi: 正長也]];
     - just, at the time of;
     - constant, usual;
-    - genuine, real[,] as goods;
+    - genuine, real``,`` as goods;
     - to put in order;
     - to assume, to enter on, as an office;
     - to adjust, to govern, to execute the laws, to punish [[Kangxi: 治其罪亦曰正]];
-    - _[cheng](3) (4)'m [cheng](3)_
+    - _~~ching(3)~~ ``cheng(3)`` (4)'m ~~ching(3)~~ ``cheng(3)``_
         [[zeng3 m4 zeng3 正唔正]]
         is it proper?
     - _pat(7) ching(3) (1)king_
@@ -1173,16 +1164,16 @@ W
     - _(1)h(e/)ung ching(3)_
         [[hoeng1 zing3 鄉正]]
         village elders;
-    - _ching(3) tong[(3)]_
+    - _ching(3) ~~(1)tong~~ ``tong(3)``_
         [[zing3 dong3 正當]],
         as it ought to be;
     - _ching(3) (1)chung_
         [[zing3 zung1 正中]],
         put in the middle;
-    - _[cheng](3) (1)ng(a/)m_
+    - _~~ching(3)~~ ``cheng(3)`` (1)ng(a/)m_
         [[zeng3 ngaam1 正啱]],
         placed right;
-    - _cheng(3) ch(e/)uk[(9)] (4)sh(i/)_
+    - _cheng(3) ~~ch(e/)uk(8)~~ ``ch(e/)uk(9)`` (4)sh(i/)_
         [[zeng3 zoek6 si4 正着時]],
         just in good time;
     - _cheng(3) i(u/)(3)_
@@ -1197,7 +1188,7 @@ W
     - _ching(3) tsoi(6) (1)n(i/) ch(')(u:)(3)_
         [[zing3 zoi6 ni1 cyu3 正在呢處]]
         he was just here;
-    - _[(5)ts(')o] cheng(3)_
+    - _~~tso(6)~~ ``(5)ts(')o`` cheng(3)_
         [[co5 zeng3 坐正]]
         to sit properly;
     - _ching(3) (2)kong_
@@ -1209,7 +1200,7 @@ W
     - _ching(3) tsung(6)_
         [[zing3 zung6 正從]]
         principals and seconds;
-    - _ching(3) chik[(9)]_
+    - _ching(3) ~~chik(7)~~ ``chik(9)``_
         [[zing3 zik6 正直]]
         honest, solid, true;
     - _ching(3) (4)n(a/)m m(i/)n(6)_
@@ -1300,16 +1291,12 @@ W
         sickness;
     - _kap(7) ching(3)_
         [[gap1 zing3 急症]]
-        a dangerous sickness;
+        ~~a dangerous~~ ``acute`` sickness;
     - _ts(a/)p(9) ching(3)_
         [[zaap6 zing3 雜症]]
         unusual malady.
     ==
   ====
-C
-  ==
-  - Williams' 急症: Better rendered "emergency case".
-  ==
 $$
 
 ### 蒸3 | _Ching(3)_ [[zing3]]
@@ -1358,8 +1345,8 @@ U
   U+8A3C
 F
   ==
-  - [[F1.72 証]] 騐也考也
-  - [[F1.72 證]] 騐也質也明也
+  - (F1.72 証) 騐也考也
+  - (F1.72 證) 騐也質也明也
   ==
 W
   ====
@@ -1389,8 +1376,8 @@ A
   ==
 F
   ==
-  - [[F1.72 証]] 騐也考也
-  - [[F1.72 證]] 騐也質也明也
+  - (F1.72 証) 騐也考也
+  - (F1.72 證) 騐也質也明也
   ==
 W
   ====
@@ -1412,7 +1399,7 @@ W
     - _ching(3) (i/)m(6)_
         [[zing3 jim6 證驗]]
         to verify;
-    - _ching(3) k(u:)[(3)]_
+    - _ching(3) ~~k(u:)(6)~~ ``k(u:)(3)``_
         [[zing3 geoi3 證據]]
         evidence.
     ==
@@ -1431,7 +1418,7 @@ C
 $$
 
 
-##{#6 .williams} <ins class="modern">Ching(6)</ins> Tsing(6) [[zing6 陽去]]
+##{#6 .williams} ``Ching(6)`` Tsing(6) [[zing6 陽去]]
 
 <## tone-6-characters ##>
 <nav class="sideways">
@@ -1464,11 +1451,11 @@ V
   ==
 F
   ==
-  - [[F1.73 淨]] ::[潔]淨不汚也::
+  - (F1.73 淨) ::[潔]淨不汚也::
   ==
 W
   ====
-  - [[Page~20|n63 ::(1)[凈]^::]]
+  - [[Page~20|n63 ::(1)~~净~~``凈``::]]
     --
     [[...]]
     --
@@ -1493,7 +1480,7 @@ W
     - _k(i/)t(8) tseng(6)_
         [[git3 zeng6 潔淨]]
         clean, to purify one's heart;
-    - _tsing(6) [(5)ch(')ung]_
+    - _tsing(6) ~~chung(6)~~ ``(5)ch(')ung``_
         [[zing6 cung5 淨重]]^
         the nett weight;
     - _tseng(6) (2)shui (4)f(u/)_
@@ -1507,7 +1494,6 @@ W
 C
   ==
   - Fan Wan entry: Corrected {𠎧=⿰亻絜} to 潔.
-  - Williams entry: Normalised headword 净 to 凈.
   - Williams' 淨重: Corrected _chung(6)_ (zung6 去聲) to _(5)ch(')ung_ (cung5 上聲).
   ==
 E
@@ -1538,8 +1524,8 @@ U
   U+7A7D
 F
   ==
-  - [[F1.73 阱]] 地坑坎也
-  - [[F1.73 穽]] 同上
+  - (F1.73 阱) 地坑坎也
+  - (F1.73 穽) 同上
   ==
 W
   ====
@@ -1554,7 +1540,7 @@ S
   ==
 $$
 
-### 鄭6 | _[Ching](6)_ [[zing6]]
+### 鄭6 | _~~Ch(')^ing(6)~~ ``Ching(6)``_ [[zing6]]
 
 $$.
 R
@@ -1563,7 +1549,7 @@ U
   U+912D
 F
   ==
-  - [[F1.74 鄭]] 國名又鄭重
+  - (F1.74 鄭) 國名又鄭重
   ==
 W
   ====
@@ -1600,8 +1586,8 @@ V
   ==
 F
   ==
-  - [[F1.73 阱]] 地坑坎也
-  - [[F1.73 穽]] 同上
+  - (F1.73 阱) 地坑坎也
+  - (F1.73 穽) 同上
   ==
 W
   ====
@@ -1609,9 +1595,9 @@ W
     ==
     - A pit, a pitfall, a hole to catch beasts in [[Kangxi 阱: 坑也, 陷也]];
     - ~~to fall into a pit;~~
-    - _h(a/)m(6) tsing(6)_
-        [[haam6 zing6 陷阱]]
-        ~~to tumble into~~ a hole.
+    - _~~h(a/)m(6)~~ ``ham(6)`` tsing(6)_
+        [[ham6 zing6 陷阱]]
+        ~~to tumble into a hole~~ ``a trap``.
     ==
   ====
 C
@@ -1639,7 +1625,7 @@ H
   depending on the font.
 F
   ==
-  - [[F1.73 靖]] 安也又謀也理也審也
+  - (F1.73 靖) 安也又謀也理也審也
   ==
 W
   ====
@@ -1682,7 +1668,7 @@ H
   depending on the font.
 F
   ==
-  - [[F1.73 靚]] 女容徐靚粉白黛黑謂之靚粧
+  - (F1.73 靚) 女容徐靚粉白黛黑謂之靚粧
   ==
 W
   ====
@@ -1729,13 +1715,13 @@ V
   ==
 F
   ==
-  - [[F1.73 靜]] 寂也定也
+  - (F1.73 靜) 寂也定也
   ==
 W
   ====
   - [[Page~577 靜(6)]]
     ==
-    - Still [[Kangxi: 動之對也]], silent, ~~impassible~~, imperturbable;
+    - Still [[Kangxi: 動之對也]], silent, ~~impassible,~~ imperturbable;
     - at rest [[Kangxi: 息也]], quiet [[Kangxi: 靜安也]];
     - peaceable, mild [[Kangxi: 和也]];
     - pure, like a pool [[Kangxi: 澄也]];

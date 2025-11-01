@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aam
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -64,7 +64,7 @@ V
   ==
 F
   ==
-  - [[F2.64 菡]] 菡萏荷花也
+  - (F2.64 菡) 菡萏荷花也
   ==
 W
   ====

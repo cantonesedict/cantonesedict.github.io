@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coi
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -125,7 +125,7 @@ A
   ==
 F
   ==
-  - [[F2.45 寀]] 寮寀
+  - (F2.45 寀) 寮寀
   ==
 W
   ====
@@ -155,7 +155,7 @@ A
   ==
 F
   ==
-  - [[F2.44 彩]] 光彩
+  - (F2.44 彩) 光彩
   ==
 W
   ====
@@ -184,7 +184,7 @@ W
     - _(1)kam (1)f(a/) (2)ts(')oi (4)hung_
         [[gam1 faa1 coi2 hung4 金花彩紅]],
         tinsel and red silk, such as is used on joyful occasions;
-    - _(2)h(i/) [ko](3) (2)ts(')oi_
+    - _(2)h(i/) ~~kwo(3)~~ ``ko(3)`` (2)ts(')oi_
         [[hei2 go3 coi2 起個彩]],
         let us have a rejoicing, as after one is out of prison;
     - _t(u:)t(9) (2)ts(')oi_
@@ -238,7 +238,7 @@ A
   ==
 F
   ==
-  - [[F2.44 採]] 取也
+  - (F2.44 採) 取也
   ==
 W
   ====
@@ -272,7 +272,7 @@ V
   ==
 F
   ==
-  - [[F2.45 棌]] 木名
+  - (F2.45 棌) 木名
   ==
 W
   ====
@@ -326,7 +326,7 @@ A
   ==
 F
   ==
-  - [[F2.44 綵]] 文色也繪也
+  - (F2.44 綵) 文色也繪也
   ==
 W
   ====
@@ -369,7 +369,7 @@ V
   ==
 F
   ==
-  - [[F2.44 采]] 文采又采取
+  - (F2.44 采) 文采又采取
   ==
 W
   ====
@@ -383,7 +383,7 @@ W
     - cities allotted to officers for revenue [[Kangxi: 采地]];
     - in these senses the three next [[採, 寀, 彩]] are used;
     - a business, an employment;
-    - _(2)ts(')oi yap[(7)]_
+    - _(2)ts(')oi ~~yap(9)~~ ``yap(7)``_
         [[coi2 jap1 采邑]],
         territory set apart for the support of grandees, an ancient usage;
     - _n(a/)p(9) (2)ts(')oi_
@@ -436,7 +436,7 @@ U
   U+585E
 F
   ==
-  - [[F2.45 塞 _Soi(3)_ (soi3)]] 邊界也
+  - (F2.45 塞 _Soi(3)_ (soi3)) 邊界也
   ==
 W
   ====
@@ -466,7 +466,7 @@ U
   U+83DC
 F
   ==
-  - [[F2.45 菜]] 蔬菜
+  - (F2.45 菜) 蔬菜
   ==
 W
   ====
@@ -491,11 +491,11 @@ W
         gone to market;
     - _p(a/)k(8) ts(')oi(3)_
         [[baak6 coi3 白菜]]
-        ~~broccoli~~, the pehtsai [[白菜]];
+        ~~broccoli,~~ the pehtsai [[白菜]];
     - _(4)h(a/)m ts(')oi(3)_
         [[haam4 coi3 鹹菜]]
         sour crout;
-    - _(1)[sh(a/)ng] ts(')oi(3)_
+    - _~~(1)shang~~ ``(1)sh(a/)ng`` ts(')oi(3)_
         [[saang1 coi3 生菜]]
         lettuce;
     - _(4)y(e/) ts(')oi(3)_
@@ -512,7 +512,7 @@ W
         bean sprouts;
     - _ts(')oi(3) (1)f(a/)_ [[coi3 faa1 菜花]],
         a kind of rape of which the _ts(')oi(3) (4)yau_ [[coi3 jau4 菜油]],
-        or herb oil[,] is pressed;
+        or herb oil``,`` is pressed;
     - _(2)si(u/) ts(')oi(3)_
         [[siu2 coi3 小菜]]
         condiments of leaves and greens;
@@ -548,27 +548,21 @@ U
   U+8521
 F
   ==
-  - [[F2.45 菜]] 國名又大龜也又姓
+  - (F2.45 菜) 國名又大龜也又姓
   ==
 W
   ====
   - [[Page~591 蔡(3)]]
     ==
     - Grass, herbs, esculent herbs [[Kangxi: 草也]];
-    - ~~a law, a rule;~~
+    - ~~a law, a rule~~ ``punishment by banishment`` [[Kangxi: 蔡法也]];
     - name of a feudal state, now J(u/)ning f(u/) [[汝寧府]]
       in the southeast of Hon(a/)n [[河南]].
     ==
   ====
-C
-  ==
-  - Williams' "a law, a rule": This is a misreading of Kangxi 蔡法也.
-    Here, 法 means "punishment" (with 蔡 specifically meaning "banishment").
-  ==
 P
   ++
   1. A great turtle (Kangxi: 蔡國君之守龜 etc.).
-  1. Banishment (Kangxi: 蔡法也).
   1. A surname (Kangxi: 姓).
   ++
 $$
@@ -582,7 +576,7 @@ U
   U+8CFD
 F
   ==
-  - [[F2.45 賽 _Soi(3)_ (soi3)]] 比併也又報賽
+  - (F2.45 賽 _Soi(3)_ (soi3)) 比併也又報賽
   ==
 W
   ====
@@ -646,7 +640,7 @@ V
   ==
 F
   ==
-  - [[F2.44 才]] 能也功也畧也
+  - (F2.44 才) 能也功也畧也
   ==
 W
   ====
@@ -717,7 +711,7 @@ A
   ==
 F
   ==
-  - [[F2.44 材]] 人之可用者曰賢材木之可用者曰材料
+  - (F2.44 材) 人之可用者曰賢材木之可用者曰材料
   ==
 W
   ====
@@ -732,7 +726,7 @@ W
     - Materials of which things are made [[Kangxi: 五材金木水火土也 etc.]];
     - nature, qualities;
     - timber, lumber, wood;
-    - materièl, stuff;
+    - ~~materièl~~ ``matériel``, stuff;
     - _(4)ts(')oi li(u/)(6)_
         [[coi4 liu6-2 材料]]
         materials, as wood, stone, &c.;
@@ -752,10 +746,6 @@ W
     [[Otherwise, an alternative form of 才. **See $才coi4 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - Williams' "materièl": Probably a misspelling of "matériel".
-  ==
 $$
 
 ### 纔4 | _(4)Ts(')oi_ [[coi4]]
@@ -773,8 +763,8 @@ A
   ==
 F
   ==
-  - [[F2.44 纔]] ::暫也[僅]也又剛纔方纔::
-  - [[F2.44 {？=⿰糸⿱㲋二}]] ::同[上]::
+  - (F2.44 纔) ::暫也[僅]也又剛纔方纔::
+  - (F2.44 {？=⿰糸⿱㲋二}) ::同[上]::
   ==
 W
   ====
@@ -821,7 +811,7 @@ A
   ==
 F
   ==
-  - [[F2.44 裁]] 裁衣又裁度裁製
+  - (F2.44 裁) 裁衣又裁度裁製
   ==
 W
   ====
@@ -872,7 +862,7 @@ U
   U+8CA1
 F
   ==
-  - [[F2.44 財]] 寶也又貨也
+  - (F2.44 財) 寶也又貨也
   ==
 W
   ====
@@ -911,7 +901,7 @@ W
     - _p(')o(3) (4)ts(')oi (2)tong (1)tsoi_
         [[po3 coi4 dong2 zoi1 破財擋災]],
         to lavish money to ward off (or remedy) calamity;
-    - _(4)ts(')oi (2)ho [(5)](i/) (1)t(')ung (4)shan_
+    - _(4)ts(')oi (2)ho ~~(2)(i/)~~ ``(5)(i/)`` (1)t(')ung (4)shan_
         [[coi4 ho2 ji5 tung1 san4 財可以通神]],
         money can move the gods;
     - _(5)n(i/) (4)'m hai(6) (4)ts(')oi (4)shan_

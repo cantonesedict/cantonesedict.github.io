@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Preface.
-* %date-modified --> 2024-12-12
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 * %meta-description --> Williams' preface
 
@@ -73,7 +73,7 @@ alone being in this dialect.
 
 --{.williams}
 Chinese lexicographers have done much to elucidate their own
-language, and we may regard the common dictionary of [K(a/)ngh(i/)],
+language, and we may regard the common dictionary of ~~K(a/)nghì~~ ``K(a/)ngh(i/)``,
 called ''K(a/)ngh(i/) Tsz' Tien'' 康熙字典, which has been in use
 throughout the empire for nearly 150~years, as one of the best
 dictionaries ever published by Asiatics. The list of works of this

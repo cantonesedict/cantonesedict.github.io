@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaang
-* %date-modified --> 2025-08-18
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -81,7 +81,7 @@ S
   ==
 $$
 
-###+ 棦1 | _(1)Ch(a/)ng_ (zaang1)
+###+ 棦1 | _(1)Ch(a/)ng_ [[zaang1]]
 
 $$.
 R
@@ -129,7 +129,7 @@ S
   ==
 $$
 
-###+ 琤1 | _(1)Ch(a/)ng_ (zaang1)
+###+ 琤1 | _(1)Ch(a/)ng_ [[zaang1]]
 
 $$.
 R
@@ -153,7 +153,7 @@ S
   ==
 $$
 
-###+ 箏1 | _(1)Ch(a/)ng_ (zaang1)
+###+ 箏1 | _(1)Ch(a/)ng_ [[zaang1]]
 
 $$.
 R
@@ -194,7 +194,7 @@ V
   ==
 F
   ==
-  - [[F2.29 踭 _(1)Chang_ (zang1)]] 足跟筋也
+  - (F2.29 踭 _(1)Chang_ (zang1)) 足跟筋也
   ==
 W
   ====
@@ -237,7 +237,7 @@ E
   ====
 $$
 
-###+ 踭1 | _(1)Ch(a/)ng_ (zaang1)
+###+ 踭1 | _(1)Ch(a/)ng_ [[zaang1]]
 
 $$.
 R
@@ -249,7 +249,7 @@ H
   depending on the font.
 F
   ==
-  - [[F2.29 踭 _(1)Chang_ (zang1)]] 足跟筋也
+  - (F2.29 踭 _(1)Chang_ (zang1)) 足跟筋也
   ==
 W
   [[Not present]]
@@ -259,7 +259,7 @@ P
   ++
 $$
 
-###+ 錚1 | _(1)Ch(a/)ng_ (zaang1)
+###+ 錚1 | _(1)Ch(a/)ng_ [[zaang1]]
 
 $$.
 R
@@ -295,7 +295,7 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
-###+ 爭3 | _Ch(a/)ng(3)_ (zaang3)
+###+ 爭3 | _Ch(a/)ng(3)_ [[zaang3]]
 
 $$.
 R
@@ -318,7 +318,7 @@ S
   ==
 $$
 
-###+ 諍3 | _Ch(a/)ng(3)_ (zaang3)
+###+ 諍3 | _Ch(a/)ng(3)_ [[zaang3]]
 
 $$.
 R
@@ -330,7 +330,7 @@ H
   depending on the font.
 F
   ==
-  - [[F2.29 諍 _Chang(6)_ (zang6)]] 諫諍救正之也
+  - (F2.29 諍 _Chang(6)_ (zang6)) 諫諍救正之也
   ==
 W
   [[Not present]]
@@ -382,7 +382,7 @@ W
     - _ch(a/)ng(6) (1)sh(a/) (1)kai_
         [[zaang6 saa1 gai1 掙沙雞]],
         to stuff a cock with sand;
-    - _ng(a/)ng(6) ch(a/)ng[(6)]_
+    - _ng(a/)ng(6) ~~ch(a/)ng(3)~~ ``ch(a/)ng(6)``_
         [[ngaang6 zaang6 硬掙]]
         determined, energetic, as in bearing pain.
     ==
@@ -390,6 +390,10 @@ W
     [[...]]
     --
   ====
+C
+  ==
+  - Williams' 硬掙: Corrected _ch(a/)ng(3)_ (zaang3) to _ch(a/)ng(6)_ (zaang6).
+  ==
 E
   ====
   - 【掙】 (zaang6):

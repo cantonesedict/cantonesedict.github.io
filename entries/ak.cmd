@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ak
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -76,15 +76,15 @@ V
   ==
 F
   ==
-  - [[F2.33 厄]] 困窮也阻難也
-  - [[F2.33 ::[戹]::]] 同上
+  - (F2.33 厄) 困窮也阻難也
+  - (F2.33 ::[戹]::) 同上
   ==
 W
   ====
   - [[Page~3 ::厄(7)~~{𢨪=⿸戶巳}(7)~~::]]
     ==
     - [[...]];
-    - small door in a house [[Kangxi: 同戹]];
+    - small door in a house [[Kangxi 厄: 同戹]];
     - impeded, cramped;
     - to be ill-used, to be straitened;
     - _ak(7) (4)k(')ung_
@@ -158,7 +158,7 @@ V
   ==
 F
   ==
-  - [[F2.32 幄]] 覆帳也
+  - (F2.32 幄) 覆帳也
   ==
 W
   ====
@@ -185,7 +185,7 @@ V
   ==
 F
   ==
-  - [[F2.32 握]] 持也
+  - (F2.32 握) 持也
   ==
 W
   ====
@@ -231,7 +231,7 @@ V
   ==
 F
   ==
-  - [[F2.32 渥]] ::厚也[沾]濡也洽也潤也::
+  - (F2.32 渥) ::厚也[沾]濡也洽也潤也::
   ==
 W
   ====
@@ -277,7 +277,7 @@ V
   ==
 F
   ==
-  - [[F2.32 阨]] 困窮也
+  - (F2.32 阨) 困窮也
   ==
 W
   ====
@@ -309,7 +309,7 @@ S
   ==
 $$
 
-###+ 隘1 | _Ak(7)_ (ak1)
+###+ 隘1 | _Ak(7)_ [[ak1]]
 
 $$.
 R
@@ -318,7 +318,7 @@ U
   U+9698
 F
   ==
-  - [[F2.28 隘 _(A/)i(3)_ (aai3)]] 窄狹也陋也塞也
+  - (F2.28 隘 _(A/)i(3)_ (aai3)) 窄狹也陋也塞也
   ==
 W
   ====

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> nge
-* %date-modified --> 2025-09-07
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -50,7 +50,7 @@ $$
 </nav>
 <## /tone-4-characters ##>
 
-### [{𫫃=⿰口挨}]4 | _(4)Ng(e/)_ [[nge4]]
+### ``{𫫃=⿰口挨}``4 | _(4)Ng(e/)_ [[nge4]]
 
 $$
 R

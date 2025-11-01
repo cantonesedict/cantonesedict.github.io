@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faan
-* %date-modified --> 2025-10-23
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -61,7 +61,7 @@ $$
 </nav>
 <## /tone-1-characters ##>
 
-###+ 反1 | _(1)F(a/)n_ (faan1)
+###+ 反1 | _(1)F(a/)n_ [[faan1]]
 
 $$
 R
@@ -84,7 +84,7 @@ W
   - [[Page~48 (2)反 _(2)F(a/)n_ (faan2); here normalised to _(1)F(a/)n_ (faan1)]]
     ==
     - [[...]];
-    - _[(1)]f(a/)n [ts(')(i/)t(8)]_
+    - _~~(2)f(a/)n~~ ``(1)f(a/)n`` ~~ts(i/)t~~ ``ts(')(i/)t(8)``_
         [[faan1 cit3 反切]],
         to spell, to combine sounds;
     - [[...]].
@@ -124,7 +124,7 @@ U
   U+5E61
 F
   ==
-  - [[F2.66 幡]] 慢也又幡然攺
+  - (F2.66 幡) 慢也又幡然攺
   ==
 W
   ====
@@ -184,7 +184,7 @@ A
   ==
 F
   ==
-  - [[F2.66 旛]] 旗屬
+  - (F2.66 旛) 旗屬
   ==
 W
   ====
@@ -224,7 +224,7 @@ A
   ==
 F
   ==
-  - [[F2.66 番]] 夷狄之稱
+  - (F2.66 番) 夷狄之稱
   ==
 W
   ====
@@ -277,7 +277,7 @@ S
   ==
 $$
 
-###+ 籓1 | _(1)F(a/)n_ (faan1)
+###+ 籓1 | _(1)F(a/)n_ [[faan1]]
 
 $$
 R
@@ -290,7 +290,7 @@ V
   ==
 F
   ==
-  - [[F2.67 籓 _(4)F(a/)n_ (faan4)]] 大箕也又蔽也
+  - (F2.67 籓 _(4)F(a/)n_ (faan4)) 大箕也又蔽也
   ==
 W
   ====
@@ -357,7 +357,7 @@ A
   ==
 F
   ==
-  - [[F2.66 翻]] 翩翻羽飛貌
+  - (F2.66 翻) 翩翻羽飛貌
   ==
 W
   ====
@@ -398,7 +398,7 @@ P
   ++
 $$
 
-###+ 蕃1 | _(1)F(a/)n_ (faan1)
+###+ 蕃1 | _(1)F(a/)n_ [[faan1]]
 
 $$.
 R
@@ -421,7 +421,7 @@ S
   ==
 $$
 
-###+ 藩1 | _(1)F(a/)n_ (faan1)
+###+ 藩1 | _(1)F(a/)n_ [[faan1]]
 
 $$.
 R
@@ -443,7 +443,7 @@ S
   ==
 $$
 
-###+ 轓1 | _(1)F(a/)n_ (faan1)
+###+ 轓1 | _(1)F(a/)n_ [[faan1]]
 
 $$
 R
@@ -472,7 +472,7 @@ P
   ++
 $$
 
-###+ 返1 | _(1)F(a/)n_ (faan1)
+###+ 返1 | _(1)F(a/)n_ [[faan1]]
 
 $$
 R
@@ -493,7 +493,7 @@ W
     - [[...]];
     - to return, [[...]];
     - [[...]];
-    - _(1)f(a/)n (1)[sh(a/)ng]_
+    - _(1)f(a/)n ~~(1)shang~~ ``(1)sh(a/)ng``_
         [[faan1 saang1 返生]],
         resuscitated;
     - [[...]];
@@ -588,7 +588,7 @@ S
   ==
 $$
 
-###+ 飜1 | _(1)F(a/)n_ (faan1)
+###+ 飜1 | _(1)F(a/)n_ [[faan1]]
 
 $$.
 R
@@ -633,7 +633,7 @@ A
   ==
 F
   ==
-  - [[F2.69 反]] 反覆不順也
+  - (F2.69 反) 反覆不順也
   ==
 W
   ====
@@ -644,16 +644,17 @@ W
     - to combine against;
     - opposed to, but, contrary;
     - again;
-    - _(2)fan fuk[(7)]_
+    - _(2)fan ~~fuk(9)~~ ``fuk(7)``_
         [[faan2 fuk1 反覆]]
         repetition, to and fro, to retract;
     - _(1)s(e/)ung (2)f(a/)n_
         [[soeng1 faan2 相反]],
         discordant;
+        ``opposite, contrariwise;``
     - _tsok(8) (2)f(a/)n_
         [[zok3 faan2 作反]],
         to rebel;
-    - _(2)f(a/)n chi(u/)[(3)]_
+    - _(2)f(a/)n ~~chi(u/)(6)~~ ``chi(u/)(3)``_
         [[faan2 ziu3 反照]]
         to reflect light;
     - _(2)f(a/)n m(i/)n(6)_
@@ -662,17 +663,17 @@ W
     - _(2)f(a/)n kwat(7)_
         [[faan2 gwat1 反骨]]
         to backbite;
-    - _(2)f(a/)n ch(u:)n[(3)]_
+    - _(2)f(a/)n ~~(2)ch(u:)n~~ ``ch(u:)n(3)``_
         [[faan2 zyun3 反轉]],
         to turn over;
-    - _(2)f(a/)n [(2)]tau_
+    - _(2)f(a/)n ~~tau(3)~~ ``(2)tau``_
         [[faan2 dau2 反斗]]^
         clamor and play of children;
     - _(2)f(a/)n (2)hau_
         [[faan2 hau2 反口]]^
         to unsay, to recant;
     - [[...]];
-    - _(2)f(a/)n wai(6) it[(8)] shik(9)_
+    - _(2)f(a/)n wai(6) ~~(i/)t(9)~~ ``(i/)t(8)`` shik(9)_
         [[faan2 wai6 jit3 sik3 反胃噎食]]
         the stomach rejects food.
     ==
@@ -686,12 +687,11 @@ W
 C
   ==
   - Williams' 反覆: Corrected _fuk(9)_ (fuk6) to _fuk(7)_ (fuk1).
-  - Williams' 相反: Also "opposite", "contrariwise".
   - Williams' 反照: Corrected _chi(u/)(6)_ (ziu6) to _chi(u/)(3)_ (ziu3).
-  - Williams' 反轉: Corrected _(2)ch(u:)n_ (zyun2) to _ch(u:)(3)n_ (zyun3).
+  - Williams' 反轉: Corrected _(2)ch(u:)n_ (zyun2) to _ch(u:)n(3)_ (zyun3).
   - Williams' 反斗: Corrected _tau(3)_ (dau3) to _(2)tau_ (dau2).
     Hence 玩具反斗城 for Toys "R" Us (with 反斗 being a pun on the flipped R in English).
-  - Williams' 反胃噎食: Corrected _it(9)_ (jit6) to _it(8)_ (jit3).
+  - Williams' 反胃噎食: Corrected _(i/)t(9)_ (jit6) to _(i/)t(8)_ (jit3).
   ==
 P
   ++
@@ -740,7 +740,7 @@ V
   ==
 F
   ==
-  - [[F2.69 㤆]] 㤆悔謂事旣成而生背心
+  - (F2.69 㤆) 㤆悔謂事旣成而生背心
   ==
 W
   ====
@@ -778,7 +778,7 @@ A
   ==
 F
   ==
-  - [[F2.69 返]] 還也
+  - (F2.69 返) 還也
   ==
 W
   ====
@@ -786,13 +786,13 @@ W
     ==
     - To return, to come back [[Kangxi: 還也, 復也]];
     - to go back;
-    - _(2)f(a/)n [(1)]hi(u/) (1)h(e/)ung h(a/)[(6)]_
+    - _(2)f(a/)n ~~(4)hi(u/)~~ ``(1)hi(u/)`` (1)h(e/)ung ~~(5)h(a/)~~ ``h(a/)(6)``_
         [[faan2 hiu1 hoeng1 haa6-2 返嘵鄉下]],
         gone to his village;
-    - _(2)f(a/)n h(u:)(3) [(1)]kwai_
+    - _(2)f(a/)n h(u:)(3) ~~(4)^kwai~~ ``(1)kwai``_
         [[faan2 heoi3 gwai1 返去歸]],
         gone home;
-    - _[(5)]wong (2)f(a/)n (2)k(i/) yat(9)_
+    - _~~(2)wong~~ ``(5)wong`` (2)f(a/)n (2)k(i/) yat(9)_
         [[wong5 faan2 gei2 jat6 往返幾日]]
         how many days will you be gone?
     ==
@@ -800,7 +800,7 @@ W
 C
   ==
   - Williams' 返嘵鄉下: Corrected _(4)hi(u/)_ (hiu4) to _(1)hi(u/)_ (hiu1)
-    and changed _(5)h(a/)_ (haa5) to modern _h(a/)(6)_ (haa6-2).
+    and changed _(5)h(a/)_ (haa5) to modern _h(a/)(6)_ (haa6).
   - Williams' 返去歸: Corrected _(4)^kwai_ (gwai4) to _(1)kwai_ (gwai1).
   - Williams' 往返幾日: Corrected _(2)wong_ (wong2) to _(5)wong_ (wong5).
   - All three examples read like they belong under $返faan1 instead.
@@ -811,7 +811,7 @@ S
   ==
 $$
 
-###+ 阪2 | _(2)F(a/)n_ (faan2)
+###+ 阪2 | _(2)F(a/)n_ [[faan2]]
 
 $$.
 R
@@ -862,9 +862,9 @@ V
   ==
 F
   ==
-  - [[F2.70 泛]] 廣也泛濫也
-  - [[F2.70 ::[汎]::]] ::廣也又[汎]舟::
-  - [[F2.70 氾]] 氾濫水溢也
+  - (F2.70 泛) 廣也泛濫也
+  - (F2.70 ::[汎]::) ::廣也又[汎]舟::
+  - (F2.70 氾) 氾濫水溢也
   ==
 W
   ====
@@ -904,9 +904,9 @@ U
   U+6C4E
 F
   ==
-  - [[F2.70 泛]] 廣也泛濫也
-  - [[F2.70 ::[汎]::]] ::廣也又[汎]舟::
-  - [[F2.70 氾]] 氾濫水溢也
+  - (F2.70 泛) 廣也泛濫也
+  - (F2.70 ::[汎]::) ::廣也又[汎]舟::
+  - (F2.70 氾) 氾濫水溢也
   ==
 W
   ====
@@ -944,9 +944,9 @@ V
   ==
 F
   ==
-  - [[F2.70 泛]] 廣也泛濫也
-  - [[F2.70 ::[汎]::]] ::廣也又[汎]舟::
-  - [[F2.70 氾]] 氾濫水溢也
+  - (F2.70 泛) 廣也泛濫也
+  - (F2.70 ::[汎]::) ::廣也又[汎]舟::
+  - (F2.70 氾) 氾濫水溢也
   ==
 W
   ====
@@ -988,7 +988,7 @@ S
   ==
 $$
 
-###+ 畈3 | _F(a/)n(3)_ (faan3)
+###+ 畈3 | _F(a/)n(3)_ [[faan3]]
 
 $$
 R
@@ -1004,11 +1004,16 @@ F
 W
   ====
   - [[Page~49 畚(3); here normalised to 畈]]
+    <ins>
+    --
+    A colloquial word.
+    --
+    </ins>
     ==
     - Ill-luck, evil influences;
     - ill-starred;
     - things to be avoided when commencing anything;
-    - _f(a/)n(3) ch(e/)uk[(9)]_
+    - _f(a/)n(3) ~~ch(e/)uk(8)~~ ``ch(e/)uk(9)``_
         [[faan3 zoek6 畈着]]
         to bring ill luck;
     - _f(a/)n(3) (4)shan_
@@ -1026,7 +1031,7 @@ C
     Williams' choice to spell it 畚 is a poor one,
     as that character is otherwise read _(2)p(u/)n_ (bun2).
     I have normalised to 畈 for phonetic defensibility.
-  - Williams' 畚着: Corrected _ch(e/)uk(8)_ (zoek3) to _ch(e/)uk(9)_ (zoek6).
+  - Williams' 畈着: Corrected _ch(e/)uk(8)_ (zoek3) to _ch(e/)uk(9)_ (zoek6).
   ==
 P
   ++
@@ -1071,7 +1076,7 @@ V
   ==
 F
   ==
-  - [[F2.70 販]] ::賤買[貴]賣[曰販]::
+  - (F2.70 販) ::賤買[貴]賣[曰販]::
   ==
 W
   ====
@@ -1149,7 +1154,7 @@ A
   ==
 F
   ==
-  - [[F2.67 凢]] ::皆也大[槩]也又庸常也今人[鄙]人爲凢夫輕賤之稱也::
+  - (F2.67 凢) ::皆也大[槩]也又庸常也今人[鄙]人爲凢夫輕賤之稱也::
   ==
 W
   ====
@@ -1173,7 +1178,7 @@ W
     - _t(a/)i(6) (4)f(a/)n (2)sho (5)yau_
         [[daai6 faan4 so2 jau5 大凡所有]],
         people generally have it;
-    - _h(a/)[(6)] (4)f(a/)n_
+    - _~~(5)h(a/)~~ ``h(a/)(6)`` (4)f(a/)n_
         [[haa6 faan4 下凡]];
         to enter the world;
     - _(1)sz' (4)f(a/)n_
@@ -1204,7 +1209,7 @@ U
   U+51E2
 F
   ==
-  - [[F2.67 凢]] ::皆也大[槩]也又庸常也今人[鄙]人爲凢夫輕賤之稱也::
+  - (F2.67 凢) ::皆也大[槩]也又庸常也今人[鄙]人爲凢夫輕賤之稱也::
   ==
 W
   ====
@@ -1228,7 +1233,7 @@ U
   U+58A6
 F
   ==
-  - [[F2.67 墦]] 墦[間塚]也
+  - (F2.67 墦) 墦[間塚]也
   ==
 W
   ====
@@ -1259,7 +1264,7 @@ V
   ==
 F
   ==
-  - [[F2.68 帆]] 風帆
+  - (F2.68 帆) 風帆
   ==
 W
   ====
@@ -1276,7 +1281,7 @@ W
   ====
 $$
 
-###+ 梵4 | _(4)F(a/)n_ (faan4)
+###+ 梵4 | _(4)F(a/)n_ [[faan4]]
 
 $$.
 R
@@ -1297,7 +1302,7 @@ S
   ==
 $$
 
-###+ 氾4 | _(4)F(a/)n_ (faan4)
+###+ 氾4 | _(4)F(a/)n_ [[faan4]]
 
 $$
 R
@@ -1330,7 +1335,7 @@ U
   U+7169
 F
   ==
-  - [[F2.68 煩]] 勞也擾也
+  - (F2.68 煩) 勞也擾也
   ==
 W
   ====
@@ -1352,7 +1357,7 @@ W
     - _(4)f(a/)n m(u/)n(6)_
         [[faan4 mun6 煩悶]]
         perplexed, grieved;
-    - _(4)f(a/)n [(2)]i(u/)_
+    - _(4)f(a/)n ~~(5)i(u/)~~ ``(2)i(u/)``_
         [[faan4 jiu2 煩擾]],
         interrupted, annoyed.
     ==
@@ -1384,14 +1389,14 @@ U
   U+71D4
 F
   ==
-  - [[F2.67 燔]] ::[熱]炙也::
+  - (F2.67 燔) ::[熱]炙也::
   ==
 W
   ====
   - [[Page~48 (4)燔]]
     ==
     - [[...]];
-    - _(4)f(a/)n chek[(8)]_
+    - _(4)f(a/)n ~~chek(9)~~ ``chek(8)``_
         [[faan4 zek3 燔炙]]
         to roast meat.
     ==
@@ -1410,7 +1415,7 @@ P
   ++
 $$
 
-###+ 番4 | _(4)F(a/)n_ (faan4)
+###+ 番4 | _(4)F(a/)n_ [[faan4]]
 
 $$.
 R
@@ -1444,14 +1449,14 @@ U
   U+792C
 F
   ==
-  - [[F2.68 礬]] 白礬
+  - (F2.68 礬) 白礬
   ==
 W
   ====
   - [[Page~48 (4)礬]]
     ==
     - Mineral salts proper four painting or dyeing [[Kangxi: 礬石]];
-    - _p(a/)k[(9)] (4)f(a/)n_
+    - _~~p(a/)k(8)~~ ``p(a/)k(9)`` (4)f(a/)n_
         [[baak6 faan4 白礬]],
         alum;
     - _(1)ts(')ing (4)f(a/)n_
@@ -1463,7 +1468,7 @@ W
     - _(2)t(a/)m (4)f(a/)n_
         [[daam2 faan4 膽礬]],
         blue vitriol;
-    - _(1)[f(u/)i] (4)f(a/)n_
+    - _~~(1)f(u/)~~ ``(1)f(u/)i`` (4)f(a/)n_
         [[fui1 faan4 灰礬]],
         alum ash.
     ==
@@ -1484,7 +1489,7 @@ U
   U+7C53
 F
   ==
-  - [[F2.67 籓]] 大箕也又蔽也
+  - (F2.67 籓) 大箕也又蔽也
   ==
 W
   ====
@@ -1514,7 +1519,7 @@ A
   ==
 F
   ==
-  - [[F2.68 繁]] 多也
+  - (F2.68 繁) 多也
   ==
 W
   ====
@@ -1575,7 +1580,7 @@ A
   ==
 F
   ==
-  - [[F2.67 膰]] 祭餘肉也
+  - (F2.67 膰) 祭餘肉也
   ==
 W
   ====
@@ -1601,7 +1606,7 @@ U
   U+8543
 F
   ==
-  - [[F2.67 蕃]] 茂也滋也息也
+  - (F2.67 蕃) 茂也滋也息也
   ==
 W
   ====
@@ -1645,7 +1650,7 @@ V
   ==
 F
   ==
-  - [[F2.67 藩]] 藩籬藩屏藩垣
+  - (F2.67 藩) 藩籬藩屏藩垣
   ==
 W
   ====
@@ -1653,7 +1658,7 @@ W
     ==
     - A fence [[Kangxi 藩: 籬也]], hedge, boundary;
     - a frontier;
-    - ~~to ward off~~, to protect;
+    - ~~to ward off,~~ to protect``, to screen``;
     - [[...]];
     - _(4)f(a/)n (4)l(i/)_
         [[faan4 lei4 藩籬]],
@@ -1673,10 +1678,6 @@ W
         a statesman.
     ==
   ====
-C
-  ==
-  - Williams' "to protect": Or, "to screen".
-  ==
 P
   ++
   1. A screen (Kangxi 藩: 與蕃通屛也).
@@ -1696,7 +1697,7 @@ U
   U+8629
 F
   ==
-  - [[F2.68 蘩]] 草名白蒿也
+  - (F2.68 蘩) 草名白蒿也
   ==
 W
   ====
@@ -1724,13 +1725,13 @@ U
   U+881C
 F
   ==
-  - [[F2.67 蠜]] 虫名
+  - (F2.67 蠜) 虫名
   ==
 W
   ====
   - [[Page~48 (4)蠜]]
     ==
-    - A kind of cricket or grasshopper [[Kangxi: ::[蛗]螽蠜::]], ~~which goes by night~~.
+    - A kind of cricket or grasshopper [[Kangxi: ::[蛗]螽蠜::]]~~, which goes by night~~.
     ==
   ====
 C
@@ -1802,7 +1803,7 @@ V
   ==
 F
   ==
-  - [[F2.71 梵]] 羗戎吟聲也佛家經聲曰梵音
+  - (F2.71 梵) 羗戎吟聲也佛家經聲曰梵音
   ==
 W
   ====
@@ -1817,7 +1818,7 @@ W
     - _f(a/)n(6) (4)(i/)n_
         [[faan6 jin4 梵言]],
         Pali;
-    - _f(a/)n [sh(a/)t](8)_
+    - _f(a/)n ~~ch(')(a/)t(8)~~ ``sh(a/)t(8)``_
         [[faan6 saat3 梵剎]]
         a monastery.
     ==
@@ -1836,7 +1837,7 @@ S
   ==
 $$
 
-###+ 氾6 | _F(a/)n(6)_ (faan6)
+###+ 氾6 | _F(a/)n(6)_ [[faan6]]
 
 $$.
 R
@@ -1859,7 +1860,7 @@ S
   ==
 $$
 
-###+ 泛6 | _F(a/)n(6)_ (faan6)
+###+ 泛6 | _F(a/)n(6)_ [[faan6]]
 
 $$.
 R
@@ -1894,7 +1895,7 @@ V
   ==
 F
   ==
-  - [[F2.71 犯]] 觸犯干犯侵犯
+  - (F2.71 犯) 觸犯干犯侵犯
   ==
 W
   ====
@@ -1906,7 +1907,7 @@ W
     - to invade [[Kangxi: 侵也, 勝也]];
     - to violate, to resist, to oppose;
     - a criminal;
-    - _f(a/)n(6) [ts(u/)i](6)_
+    - _f(a/)n(6) ~~tsui(6)~~ ``ts(u/)i(6)``_
         [[faan6 zeoi6 犯罪]]
         to transgress;
     - _f(a/)n(6) f(a/)t(8)_
@@ -1914,10 +1915,10 @@ W
         to break the laws;
     - _f(a/)n(6) (4)yan_
         [[faan6 jan4 犯人]],
-        a prisoner;
+        a prisoner``, a criminal``;
     - _(4)ts(')au f(a/)n(6)_
         [[cau4 faan6-2 囚犯]]
-        to cage a criminal;
+        ~~to cage a criminal~~ ``a prisoner``;
     - _(1)ts(')am f(a/)n(6)_
         [[cam1 faan6 侵犯]]
         to encroach on, to usurp;
@@ -1930,8 +1931,6 @@ C
   ==
   - Fan Wan entry: The headword 犯 is printed ⿰犭巳.
   - Williams' 犯罪: Corrected _tsui(6)_ to _ts(u/)i(6)_.
-  - Williams' 犯人: Or a criminal.
-  - Williams' 囚犯: Better rendered "prisoner" (literally "imprisoned criminal").
   ==
 P
   ++
@@ -1953,7 +1952,7 @@ A
   ==
 F
   ==
-  - [[F2.71 範]] ::法也[式]也模也則也隄防也::
+  - (F2.71 範) ::法也[式]也模也則也隄防也::
   ==
 W
   ====
@@ -2002,7 +2001,7 @@ U
   U+8303
 F
   ==
-  - [[F2.71 范]] 草名又姓
+  - (F2.71 范) 草名又姓
   ==
 W
   ====
@@ -2022,7 +2021,7 @@ C
   ==
 $$
 
-###+ 販6 | _F(a/)n(6)_ (faan6)
+###+ 販6 | _F(a/)n(6)_ [[faan6]]
 
 $$.
 R
@@ -2056,7 +2055,7 @@ V
   ==
 F
   ==
-  - [[F2.71 飯]] 米飯
+  - (F2.71 飯) 米飯
   ==
 W
   ====
@@ -2070,7 +2069,7 @@ W
     - _ts(o\)(6) f(a/)n(6)_
         [[zou6 faan6 做飯]]
         to cook;
-    - _(2)ts(o\) f(a/)n[(6)]_
+    - _(2)ts(o\) ~~f(a/)n(3)~~ ``f(a/)n(6)``_
         [[zou2 faan6 早飯]]
         breakfast;
     - _p(i/)n(6) f(a/)n(6)_
@@ -2090,6 +2089,7 @@ W
 C
   ==
   - Williams' 做飯: The preferred term for "cooking" in Cantonese is 煮飯.
+  - Williams' 早飯: Corrected _f(a/)n(3)_ (faan3) to _f(a/)n(6)_ (faan6).
   ==
 P
   ++

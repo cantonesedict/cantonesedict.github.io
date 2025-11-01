@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2025-08-17
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -74,7 +74,7 @@ U
   U+554D
 F
   ==
-  - [[F2.52 啍]] 啍啍重語貌
+  - (F2.52 啍) 啍啍重語貌
   ==
 W
   ====
@@ -102,10 +102,10 @@ U
   U+5C0A
 F
   ==
-  - [[F2.51 樽]] 酒樽
-  - [[F2.51 鐏]] 同上
-  - [[F2.51 ::[罇]::]] 同上
-  - [[F2.51 尊]] 同上
+  - (F2.51 樽) 酒樽
+  - (F2.51 鐏) 同上
+  - (F2.51 ::[罇]::) 同上
+  - (F2.51 尊) 同上
   ==
 W
   ====
@@ -136,14 +136,14 @@ H
   depending on the font.
 F
   ==
-  - [[F2.52 屯]] ::[高]屯難也屈也::
+  - (F2.52 屯) ::[高]屯難也屈也::
   ==
 W
   ====
   - [[Page~36* (1)屯]]
     ==
     - ~~Budding plants;~~
-    - difficult to proceed [[Kangxi: 屯邅難行不進貌]];
+    - ``difficulty [[Kangxi: 難也]];`` difficult to proceed [[Kangxi: 屯邅難行不進貌]];
     - avaricious [[Kangxi: 吝也]];
     - pressed down;
     - the 3d of the diagrams.
@@ -154,8 +154,6 @@ C
   - Fan Wan entry: Fixed missing bottom-left in 高.
   - Williams' "Budding plants": This is a misreading of Kangxi 象艸木之初生
     as a definition, when it is simply the 《說文》 glyph explanation.
-  - Williams' "difficult to proceed": Ideally Williams should have given
-    the noun definition "difficulty" (Kangxi: 難也).
   ==
 S
   ==
@@ -172,14 +170,14 @@ U
   U+699B
 F
   ==
-  - [[F2.52 榛]] ::榛[檜]木名::
+  - (F2.52 榛) ::榛[檜]木名::
   ==
 W
   ====
   - [[Page~601 (1)榛]]
     ==
     - A fruit like the hazel or filbert, smaller than the chestnut [[Kangxi: 果實如小栗]];
-    - ~~wood, brushwood;~~
+    - ~~wood, brushwood~~ ``a type of tree`` [[Kangxi: 木也]];
     - thorny bushes, as in thickset hedges [[Kangxi: 一曰蕪也]].
     ==
   ====
@@ -187,8 +185,6 @@ C
   ==
   - Strictly, the pre-merger reading should be _(1)chun_ per 《廣韻》側詵切.
   - Fan Wan entry: Changed 橧 to 檜.
-  - Williams' "wood, brushwood": This is a misreading of Kangxi 木也,
-    which means "[a type of] tree".
   ==
 $$
 
@@ -206,10 +202,10 @@ A
   ==
 F
   ==
-  - [[F2.51 樽]] 酒樽
-  - [[F2.51 鐏]] 同上
-  - [[F2.51 ::[罇]::]] 同上
-  - [[F2.51 尊]] 同上
+  - (F2.51 樽) 酒樽
+  - (F2.51 鐏) 同上
+  - (F2.51 ::[罇]::) 同上
+  - (F2.51 尊) 同上
   ==
 W
   ====
@@ -268,7 +264,7 @@ U
   U+6D25
 F
   ==
-  - [[F2.51 津]] 濟渡處又津液
+  - (F2.51 津) 濟渡處又津液
   ==
 W
   ====
@@ -318,14 +314,14 @@ U
   U+6EB1
 F
   ==
-  - [[F2.69 溱]] 水名
+  - (F2.69 溱) 水名
   ==
 W
   ====
   - [[Page~601 (1)溱]]
     ==
     - A small stream in Hon(a/)n [[河南]] [[Kangxi: 水名在河南]],
-      one of the headwaters of the R.~Hw(a/)i [[淮]];
+      one of the headwaters of the R.~^~~Hw(a/)i~~^~``Hwui`` [[Kangxi: ::入~~淮~~``匯``::]];
     - [[...]];
     - _(1)tsun (1)tsun_
         [[zeon1 zeon1 溱溱]],
@@ -339,8 +335,6 @@ W
 C
   ==
   - Strictly, the pre-merger reading should be _(1)chun_ per 《廣韻》側詵切.
-  - Williams' "R.~Hw(a/)i": This is following a typo (淮) in Kangxi.
-    《說文》 has 匯, not 淮.
   ==
 $$
 
@@ -375,10 +369,10 @@ U
   U+7F47
 F
   ==
-  - [[F2.51 樽]] 酒樽
-  - [[F2.51 鐏]] 同上
-  - [[F2.51 ::[罇]::]] 同上
-  - [[F2.51 尊]] 同上
+  - (F2.51 樽) 酒樽
+  - (F2.51 鐏) 同上
+  - (F2.51 ::[罇]::) 同上
+  - (F2.51 尊) 同上
   ==
 W
   ====
@@ -402,7 +396,7 @@ U
   U+80AB
 F
   ==
-  - [[F2.52 肫]] 懇至貌
+  - (F2.52 肫) 懇至貌
   ==
 W
   ====
@@ -412,13 +406,9 @@ W
     - earnest, sincere [[Kangxi: 懇誠貌]];
     - _(1)chun (1)chun_
         [[zeon1 zeon1 肫肫]],
-        ~~decided, firm~~.
+        ~~decided, firm~~ ``earnest, sincere``.
     ==
   ====
-C
-  ==
-  - Williams' "decided, firm": Better rendered "earnest" or "sincere".
-  ==
 P
   ++
   1. Bird gizzard.
@@ -438,7 +428,7 @@ A
   ==
 F
   ==
-  - [[F2.69 臻]] 至也
+  - (F2.69 臻) 至也
   ==
 W
   ====
@@ -478,7 +468,7 @@ V
   ==
 F
   ==
-  - [[F2.69 蓁]] 美盛貌
+  - (F2.69 蓁) 美盛貌
   ==
 W
   ====
@@ -515,7 +505,7 @@ V
   ==
 F
   ==
-  - [[F2.52 諄]] 詳語貌又懇誠也
+  - (F2.52 諄) 詳語貌又懇誠也
   ==
 W
   ====
@@ -553,7 +543,7 @@ U
   U+8FCD
 F
   ==
-  - [[F2.52 迍]] 迍邅
+  - (F2.52 迍) 迍邅
   ==
 W
   ====
@@ -580,7 +570,7 @@ V
   ==
 F
   ==
-  - [[F2.51 遵]] 循也率也
+  - (F2.51 遵) 循也率也
   ==
 W
   ====
@@ -592,10 +582,10 @@ W
     - obedience, acquiescence;
     - _(1)tsun (2)ch(i/)_
         [[zeon1 zi2 遵旨]],
-        to obey the [emperor's] behests;
+        to obey the ~~emperior's~~ ``emperor's`` behests;
     - _(1)yam (2)ts(')z' (1)yam (1)tsun_
         [[jam1 ci2 jam1 zeon1 欽此欽遵]],
-        ~~to stand in awe and obey~~;
+        ~~to stand in awe and obey~~ ``a phrase that concludes imperial edicts``;
     - _(1)tsun f(a/)t(8)_
         [[zeon1 faat3 遵法]]
         to obey the laws;
@@ -606,8 +596,7 @@ W
   ====
 C
   ==
-  - Williams' 欽此欽遵: A phrase that concludes imperial edicts.
-    Better rendered
+  - Williams' 欽此欽遵: Better rendered
     "[the] revered [edict is] thus, [the] revered [edict is to be] obeyed!"
   ==
 $$
@@ -647,7 +636,7 @@ V
   ==
 F
   ==
-  - [[F2.53 儘]] 皆也
+  - (F2.53 儘) 皆也
   ==
 W
   ====
@@ -691,7 +680,7 @@ U
   U+51C6
 F
   ==
-  - [[F2.53 准]] 信也實也
+  - (F2.53 准) 信也實也
   ==
 W
   ====
@@ -733,7 +722,7 @@ U
   U+51D6
 F
   ==
-  - [[F2.53 凖]] 凖則平也擬也
+  - (F2.53 凖) 凖則平也擬也
   ==
 W
   ====
@@ -744,7 +733,7 @@ W
   ====
 $$
 
-###+ 準2 | _(2)Chun_ (zeon2)
+###+ 準2 | _(2)Chun_ [[zeon2]]
 
 $$
 R
@@ -758,7 +747,7 @@ A
   ==
 F
   ==
-  - [[F2.53 凖]] 凖則平也擬也
+  - (F2.53 凖) 凖則平也擬也
   ==
 W
   ====
@@ -777,12 +766,12 @@ W
     ==
     - To equalize, to fix, to adjust [[Kangxi 準: 謂準擊平正之也]];
     - to level, to measure;
-    - a rule, a [gauge], a plumb, a line  [[Kangxi 準: 平也]];
+    - a rule, a ~~guage~~ ``gauge``, a plumb, a line  [[Kangxi 準: 平也]];
     - even, exact, just [[Kangxi 準: 均也]];
     - to run true, as a watch;
     - _(5)yau (2)chun (4)t(')au_
         [[jau5 zeon2 tau4 有準頭]],
-        he has the right [gauge], skilled in;
+        he has the right ~~guage~~ ``gauge``, skilled in;
     - _(2)chun ch(i/)t(8)_
         [[zeon2 zit3 準折]]
         to barter;
@@ -821,7 +810,7 @@ V
   ==
 F
   ==
-  - [[F2.53 燼]] 火燭之灰也燒後曰燼
+  - (F2.53 燼) 火燭之灰也燒後曰燼
   ==
 W
   ====
@@ -852,7 +841,7 @@ S
   ==
 $$
 
-###+ 盡2 | _(2)Tsun_ (zeon2)
+###+ 盡2 | _(2)Tsun_ [[zeon2]]
 
 $$.
 R
@@ -886,7 +875,7 @@ V
   ==
 F
   ==
-  - [[F2.53 藎]] 忠愛曰藎臣
+  - (F2.53 藎) 忠愛曰藎臣
   ==
 W
   ====
@@ -925,7 +914,7 @@ V
   ==
 F
   ==
-  - [[F2.53 贐]] 送行之禮曰贐
+  - (F2.53 贐) 送行之禮曰贐
   ==
 W
   ====
@@ -984,8 +973,8 @@ A
   ==
 F
   ==
-  - [[F2.53 儁]] 知過千人
-  - [[F2.53 俊]] 才過千人
+  - (F2.53 儁) 知過千人
+  - (F2.53 俊) 才過千人
   ==
 W
   ====
@@ -1042,7 +1031,7 @@ U
   U+5101
 F
   ==
-  - [[F2.53 儁]] 知過千人
+  - (F2.53 儁) 知過千人
   ==
 W
   ====
@@ -1068,7 +1057,7 @@ U
   U+5733
 F
   ==
-  - [[F2.54 圳]] 諄去聲水劣也
+  - (F2.54 圳) 諄去聲水劣也
   ==
 W
   ====
@@ -1131,8 +1120,8 @@ A
   ==
 F
   ==
-  - [[F2.54 縉]] ::居官曰縉紳插笏[于]大帶之間曰縉::
-  - [[F2.54 搢]] 同上
+  - (F2.54 縉) ::居官曰縉紳插笏[于]大帶之間曰縉::
+  - (F2.54 搢) 同上
   ==
 W
   ====
@@ -1144,7 +1133,7 @@ W
     ==
   - [[Page~602 搢(3)]]
     ==
-    - To stick into, to insert [[Kangxi: 插也]];
+    - To stick into, to insert``, to tuck`` [[Kangxi: 插也]];
     - to put in, as into a socket;
     - to shake [[Kangxi: 振也]].
     ==
@@ -1158,11 +1147,11 @@ W
     - ~~to gird, as with a sash;~~
     - _tsun(3) (1)shan_
         [[zeon3 san1 搢紳]],
-        the "~~red~~ sashes" are the gentry or literati;
+        the "~~red~~ ``tucking`` sashes" are the gentry or literati;
     - _tsun(3) (1)shan (4)ts(')(u:)n (1)shu_
         [[zeon3 san1 cyun4 syu1 搢紳全書]],
         the red book;
-    - _tsun(3) (1)shan (1)s(i/)n (1)[sh(a/)ng]_
+    - _tsun(3) (1)shan (1)s(i/)n ~~(1)shang~~ ``(1)sh(a/)ng``_
         [[zeon3 san1 sin1 saang1 搢紳先生]],
         a literary gentleman.
     ==
@@ -1191,8 +1180,8 @@ A
   ==
 F
   ==
-  - [[F2.54 晉]] 進也又國名又卦名
-  - [[F2.54 晋]] 同上
+  - (F2.54 晉) 進也又國名又卦名
+  - (F2.54 晋) 同上
   ==
 W
   ====
@@ -1223,7 +1212,7 @@ U
   U+6718
 F
   ==
-  - [[F2.53 朘]] 削也竭也
+  - (F2.53 朘) 削也竭也
   ==
 W
   ====
@@ -1252,8 +1241,8 @@ A
   ==
 F
   ==
-  - [[F2.54 浚]] 深也
-  - [[F2.54 濬]] 同上
+  - (F2.54 浚) 深也
+  - (F2.54 濬) 同上
   ==
 W
   ====
@@ -1289,8 +1278,8 @@ U
   U+6FEC
 F
   ==
-  - [[F2.54 浚]] 深也
-  - [[F2.54 濬]] 同上
+  - (F2.54 浚) 深也
+  - (F2.54 濬) 同上
   ==
 W
   ====
@@ -1313,7 +1302,7 @@ H
   depending on the font.
 F
   ==
-  - [[F2.54 瑨]] 美石也
+  - (F2.54 瑨) 美石也
   ==
 W
   ====
@@ -1334,7 +1323,7 @@ U
   U+756F
 F
   ==
-  - [[F2.54 畯]] 田畯治農之官
+  - (F2.54 畯) 田畯治農之官
   ==
 W
   ====
@@ -1360,7 +1349,7 @@ V
   ==
 F
   ==
-  - [[F2.54 睃]] 明也
+  - (F2.54 睃) 明也
   ==
 W
   ====
@@ -1396,7 +1385,7 @@ V
   ==
 F
   ==
-  - [[F2.53 ::[竣]::]] 退也完也
+  - (F2.53 ::[竣]::) 退也完也
   ==
 W
   ====
@@ -1439,8 +1428,8 @@ H
   depending on the font.
 F
   ==
-  - [[F2.54 縉]] ::居官曰縉紳插笏[于]大帶之間曰縉::
-  - [[F2.54 搢]] 同上
+  - (F2.54 縉) ::居官曰縉紳插笏[于]大帶之間曰縉::
+  - (F2.54 搢) 同上
   ==
 W
   ====
@@ -1464,7 +1453,7 @@ U
   U+9032
 F
   ==
-  - [[F2.53 進]] 登也升也向前去也
+  - (F2.53 進) 登也升也向前去也
   ==
 W
   ====
@@ -1506,11 +1495,11 @@ W
         --- said when moving into another dwelling;
     - _(5)yan tsun(3)_
         [[jan5 zeon3 引進]]
-        to bring [forward];
+        to bring fo``r``ward;
     - _(5)m(o\) (2)ch(e/)ung tsun(3)_
         [[mou5 zoeng2 zeon3 冇長進]]
         he makes no headway, he does not improve;
-    - _[(4)ts(')(i/)n] tsun[(3)]_
+    - _~~(1)ts(i/)n~~ ``(4)ts(')(i/)n`` ~~tsun(6)~~ ``tsun(3)``_
         [[cin4 zeon3 前進]]
         to make progress.
     ==
@@ -1535,7 +1524,7 @@ V
   ==
 F
   ==
-  - [[F2.53 鐫]] 雕刻也
+  - (F2.53 鐫) 雕刻也
   ==
 W
   ====
@@ -1576,7 +1565,7 @@ U
   U+96CB
 F
   ==
-  - [[F2.53 雋]] 永也味之長也
+  - (F2.53 雋) 永也味之長也
   ==
 W
   ====
@@ -1606,7 +1595,7 @@ U
   U+9915
 F
   ==
-  - [[F2.54 餕]] 食餘物也
+  - (F2.54 餕) 食餘物也
   ==
 W
   ====
@@ -1628,7 +1617,7 @@ U
   U+99FF
 F
   ==
-  - [[F2.54 駿]] 良馬
+  - (F2.54 駿) 良馬
   ==
 W
   ====
@@ -1666,7 +1655,7 @@ $$
 </nav>
 <## /tone-6-characters ##>
 
-###+ 儘6 | _Tsun(6)_ (zeon6)
+###+ 儘6 | _Tsun(6)_ [[zeon6]]
 
 $$.
 R
@@ -1696,8 +1685,8 @@ U
   U+5C3D
 F
   ==
-  - [[F2.54 盡]] 空也竭也終也悉也
-  - [[F2.54 尽]] 同上
+  - (F2.54 盡) 空也竭也終也悉也
+  - (F2.54 尽) 同上
   ==
 W
   ====
@@ -1708,7 +1697,7 @@ W
   ====
 $$
 
-###+ 燼6 | _Tsun(6)_ (zeon6)
+###+ 燼6 | _Tsun(6)_ [[zeon6]]
 
 $$.
 R
@@ -1742,8 +1731,8 @@ A
   ==
 F
   ==
-  - [[F2.54 盡]] 空也竭也終也悉也
-  - [[F2.54 尽]] 同上
+  - (F2.54 盡) 空也竭也終也悉也
+  - (F2.54 尽) 同上
   ==
 W
   ====
@@ -1760,14 +1749,13 @@ W
     - a superlative, the uttermost, extreme;
     - _tsun(6) (5)ngo (1)sam_
         [[zeon6 ngo5 sam1 盡我心]],
-        [obeying] [[these square brackets appear in the original text]]
-        with my whole heart;
+        [obeying] with my whole heart;
     - _tsun(6) t(i/)(6) k(o\)m(3) (1)to_
         [[zeon6 dei6-2 gam3 do1 盡地咁多]],
         there's only so much;
     - _tsun(6) t(i/)(6) ts(o\)(6)_
         [[zeon6 dei6-2 zou6 盡地做]]
-        use it all up then;
+        ~~use it all up then~~ ``do to the extent possible``;
     - _yung(6) tsun(6) (1)sam (1)k(i/)_
         [[jung6 zeon6 sam1 gei1 用盡心機]],
         employing all my abilities;
@@ -1789,7 +1777,7 @@ W
     - _tsun(6) chik(7)_
         [[zeon6 zik1 盡職]]
         to perform one's official duties fully;
-    - _(4)[h(a/)ng] tsun(6)_
+    - _~~(4)hang~~ ``(4)h(a/)ng`` tsun(6)_
         [[haang4 zeon6 行盡]]
         gone through the whole, gone all over;
     - _tsun(6) (1)n(i/) (1)p(o\)_
@@ -1815,7 +1803,6 @@ W
   ====
 C
   ==
-  - Williams' 盡地做: Better rendered "do to the extent possible".
   - Williams' 行盡: Changed _(4)hang_ (hang4)
     to vernacular reading _(4)h(a/)ng_ (haang4).
   ==

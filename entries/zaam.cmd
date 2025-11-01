@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2025-08-18
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -52,7 +52,7 @@ $$
 </nav>
 <## /tone-1-characters ##>
 
-###+ 篸1 | _(1)Ts(a/)m_ (zaam1)
+###+ 篸1 | _(1)Ts(a/)m_ [[zaam1]]
 
 $$.
 R
@@ -88,7 +88,7 @@ A
   ==
 F
   ==
-  - [[F2.63 簪]] 首飾也又聚也
+  - (F2.63 簪) 首飾也又聚也
   ==
 W
   ====
@@ -124,7 +124,7 @@ W
 $$
 
 
-##{#2 .williams} (2)Ch(a/)m <ins class="modern">(2)Ts(a/)m</ins> [[zaam2 陰上]]
+##{#2 .williams} (2)Ch(a/)m ``(2)Ts(a/)m`` [[zaam2 陰上]]
 
 <## tone-2-characters ##>
 <nav class="sideways">
@@ -137,7 +137,7 @@ $$
 </nav>
 <## /tone-2-characters ##>
 
-###+ 寁2 | _(2)Ts(a/)m_ (zaam2)
+###+ 寁2 | _(2)Ts(a/)m_ [[zaam2]]
 
 $$.
 R
@@ -167,7 +167,7 @@ U
   U+65AC
 F
   ==
-  - [[F2.64 斬]] 截也斷也
+  - (F2.64 斬) 截也斷也
   ==
 W
   ====
@@ -178,9 +178,9 @@ W
     - to execute, to decapitate;
     - capital;
     - to root up;
-    - to break off, as [intercourse];
+    - to break off, as ~~intercousre~~ ``intercourse``;
     - ~~faded, forgotten, vanished;~~
-    - _(2)ch(a/)m (1)[ts(')(u/)i]_
+    - _(2)ch(a/)m ~~(1)shui~~ ``(1)ts(')(u/)i``_
         [[zaam2 ceoi1 斬衰]],
         mourning for parents;
     - _(2)ch(a/)m (5)t(')(u:)n_
@@ -201,7 +201,7 @@ W
     - _(2)ch(a/)m (1)hoi_
         [[zaam2 hoi1 斬開]],
         to cut open;
-    - _(2)ch(a/)m [fat](9)_
+    - _(2)ch(a/)m ~~f(a/)t(9)~~ ``fat(9)``_
         [[zaam2 fat6 斬伐]]
         to subjugate; to prune.
     ==
@@ -214,7 +214,7 @@ C
   ==
 $$
 
-###+ 眨2 | _(2)Ch(a/)m_ (zaam2)
+###+ 眨2 | _(2)Ch(a/)m_ [[zaam2]]
 
 $$.
 R
@@ -235,7 +235,7 @@ S
   ==
 $$
 
-###+ 䁪2 | _(2)Ch(a/)m_ (zaam2)
+###+ 䁪2 | _(2)Ch(a/)m_ [[zaam2]]
 
 $$
 R
@@ -291,7 +291,7 @@ V
   ==
 F
   ==
-  - [[F2.65 湛]] 澄湛清也淡也又姓
+  - (F2.65 湛) 澄湛清也淡也又姓
   ==
 W
   ====
@@ -322,7 +322,7 @@ H
   depending on the font.
 F
   ==
-  - [[F2.65 ::[蘸]::]] ::以物淬[水]中::
+  - (F2.65 ::[蘸]::) ::以物淬[水]中::
   ==
 W
   ====
@@ -362,7 +362,7 @@ $$
 </nav>
 <## /tone-6-characters ##>
 
-###+ 攙6 | _Ch(a/)m(6)_ (zaam6)
+###+ 攙6 | _Ch(a/)m(6)_ [[zaam6]]
 
 $$
 R
@@ -398,7 +398,7 @@ U
   U+66AB
 F
   ==
-  - [[F2.65 暫]] 卽淡切暫時間言不久也
+  - (F2.65 暫) 卽淡切暫時間言不久也
   ==
 W
   ====
@@ -440,14 +440,14 @@ V
   ==
 F
   ==
-  - [[F2.71 站 _Ch(a/)n(6)_ (zaan6)]] 站立也又音賺
+  - (F2.71 站 _Ch(a/)n(6)_ (zaan6)) 站立也又音賺
   ==
 W
   ====
   - [[Page~16|n59 站(6)]]
     ==
     - A stage, a journey;
-    - _yik[(9)] ch(a/)m(6)_
+    - _~~yik(7)~~ ``yik(9)`` ch(a/)m(6)_
         [[jik6 zaam6 驛站]]
         a stage;
     - _ch(a/)m(6) (4)t(')au_
@@ -463,10 +463,10 @@ W
     - to stand erect;
     - to stop;
     - a stoppage;
-    - _[ch(a/)m](6) (2)h(i/) (4)loi_
+    - _~~ch(a/)n(6)~~ ``ch(a/)m(6)`` (2)h(i/) (4)loi_
         [[zaam6 hei2 loi4 站起來]],
         stand up!
-    - _[ch(a/)m](6) (1)p(a/)n_
+    - _~~ch(a/)n(6)~~ ``ch(a/)m(6)`` (1)p(a/)n_
         [[zaam6 baan1 站班]],
         to file off in rank, and salute an officer.
     ==
@@ -476,7 +476,8 @@ C
   - Fan Wan entry: Note that Fan Wan considers
     _ch(a/)n(6)_ (zaan6) to be the canonical reading of 站,
     with 賺 to be read _ch(a/)m(6)_ (zaam6).
-  - Williams' 驛站: Stage meaning a relay station for horses.
+  - Williams' 驛站: Corrected _yik(7)_ (jik1) to _yik(9)_ (jik6).
+    Stage meaning a relay station for horses.
   ==
 $$
 
@@ -489,7 +490,7 @@ U
   U+8CFA
 F
   ==
-  - [[F2.65 賺]] ::中淡切猶眈誤也阻之也生意[獲]利亦曰賺::
+  - (F2.65 賺) ::中淡切猶眈誤也阻之也生意[獲]利亦曰賺::
   ==
 W
   ====
@@ -520,7 +521,7 @@ S
   ==
 $$
 
-###+ 鏨6 | _Ts(a/)m(6)_ (zaam6)
+###+ 鏨6 | _Ts(a/)m(6)_ [[zaam6]]
 
 $$.
 R

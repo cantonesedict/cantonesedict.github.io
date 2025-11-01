@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coek
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -70,13 +70,13 @@ V
   ==
 F
   ==
-  - [[F1.94 倬]] 著也大也詩倬彼雲漢
+  - (F1.94 倬) 著也大也詩倬彼雲漢
   ==
 W
   ====
   - [[Page~33|n76 倬(8)]]
     ==
-    - Extensive, ~~distant~~;
+    - Extensive~~, distant~~;
     - large [[Kangxi: 大也]];
     - to show, to manifest [[Kangxi: 著也, 明貌]];
     - _(4)ming ch(')(e/)uk(8) (5)(u:) ts(u/)i(6)_
@@ -99,7 +99,7 @@ V
   ==
 F
   ==
-  - [[F1.94 卓]] 特立也高也遠也望也
+  - (F1.94 卓) 特立也高也遠也望也
   ==
 W
   ====
@@ -155,7 +155,7 @@ W
   ====
 $$
 
-###+ 桌3 | _Ch(')(e/)uk(8)_ (coek3)
+###+ 桌3 | _Ch(')(e/)uk(8)_ [[coek3]]
 
 $$
 R
@@ -225,7 +225,7 @@ S
   ==
 $$
 
-###+ 灼3 | _Ch(')(e/)uk(8)_ (coek3)
+###+ 灼3 | _Ch(')(e/)uk(8)_ [[coek3]]
 
 $$
 R
@@ -238,7 +238,7 @@ V
   ==
 F
   ==
-  - [[F1.94 灼 _Ch(e/)uk(8)_ (zoek3)]] 燒也炙也昭也又灼灼華盛貌
+  - (F1.94 灼 _Ch(e/)uk(8)_ (zoek3)) 燒也炙也昭也又灼灼華盛貌
   ==
 W
   ====
@@ -249,16 +249,16 @@ W
     - alarmed [[Kangxi: 灼驚也]];
     - clear, distinct [[Kangxi: 明也]];
     - luxuriant, as flowers [[Kangxi: 灼灼花盛貌]];
-    - _[ch(')(e/)uk(8)] (1)kwai_
+    - _~~ch(e/)uk(8)~~ ``ch(')(e/)uk(8)`` (1)kwai_
         [[coek3 gwai1 灼龜]],
         to singe a terrapin's shell;
-    - _[ch(')(e/)uk(8)] l(a/)n(6)_
+    - _~~ch(e/)uk(8)~~ ``ch(')(e/)uk(8)`` l(a/)n(6)_
         [[coek3 laan6 灼爛]]
         to raise a blister;
-    - _[ch(')(e/)uk(8)] ng(a/)i(6)_
+    - _~~ch(e/)uk(8)~~ ``ch(')(e/)uk(8)`` ng(a/)i(6)_
         [[coek3 ngaai6 灼艾]]
         to burn the moxa;
-    - _[ch(')(e/)uk(8)] [ch(')(e/)uk(8)]_
+    - _~~ch(e/)uk(8) ch(e/)uk(8)~~ ``ch(')(e/)uk(8) ch(')(e/)uk(8)``_
         [[coek3 coek3 灼灼]]
         splendid, as flowers.
     ==
@@ -289,7 +289,7 @@ U
   U+7DBD
 F
   ==
-  - [[F1.94 綽]] 寬也緩也
+  - (F1.94 綽) 寬也緩也
   ==
 W
   ====
@@ -314,7 +314,7 @@ C
   ==
 $$
 
-###+ 芍3 | _Ch(')(e/)uk(8)_ (coek3)
+###+ 芍3 | _Ch(')(e/)uk(8)_ [[coek3]]
 
 $$
 R
@@ -327,7 +327,7 @@ V
   ==
 F
   ==
-  - [[F1.94 芍 _Ch(e/)uk(8)_ (zoek3)]] 芍藥花名
+  - (F1.94 芍 _Ch(e/)uk(8)_ (zoek3)) 芍藥花名
   ==
 W
   ====
@@ -335,7 +335,7 @@ W
     ==
     - The peony [[Kangxi: 芍藥猶綽約也]];
     - also the dahlia;
-    - _[ch(')(e/)uk(8)] y(e/)uk(9)_
+    - _~~ch(e/)uk(8)~~ ``ch(')(e/)uk(8)`` y(e/)uk(9)_
         [[coek3 joek6 芍藥]]
         peony roots, a medicine.
     ==
@@ -384,7 +384,7 @@ U
   U+9D72
 F
   ==
-  - [[F1.94 鵲]] 喜鵲
+  - (F1.94 鵲) 喜鵲
   ==
 W
   ====

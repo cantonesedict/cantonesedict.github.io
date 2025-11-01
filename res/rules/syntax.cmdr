@@ -4,21 +4,23 @@ OrdinaryDictionaryReplacement: #.syntax.protected-empty-string
 - concluding_replacements: #placeholder-protect
 
 
-OrdinaryDictionaryReplacement: #.syntax.addition-marker-to-class
-* +} --> ' -class .modern}'
-
-
 RegexDictionaryReplacement: #.syntax.character-headings
 - queue_position: BEFORE #headings
-* ^[#]{3} (?P<addition_marker> [+]? )
+* ^[#]{3}
+    [+][ ] (?P<main_content> .*? )
+    \s+ (?P<jyutping_insertion> \[\[ \S+ \]\] )
+    -->
+  ### <ins>\g<main_content></ins> \g<jyutping_insertion>
+* ^[#]{3}
     [ ]
+    (?P<ins_opening> <ins>)?
     (?P<headword>
-      \[? \{? (?P<character> \S ) (?: = \S+ \} )? \]?
+      (?: ~~.*~~ )?
+      (?: `` )? \{? (?P<character> \S ) (?: = \S+ \} )? (?: `` )?
     )
     (?P<tone_number> [1-6] ) [ ][|][ ] (?P<reading> .* )
     -->
-  ###{#\g<tone_number>\g<character> .williams\g<addition_marker>} <span class="headword">::{}\g<headword>::</span> \g<reading>
-- concluding_replacements: #.syntax.addition-marker-to-class
+  ###{#\g<tone_number>\g<character> .williams} \g<ins_opening><span class="headword">::{}\g<headword>::</span> \g<reading>
 
 
 RegexDictionaryReplacement: #.syntax.radical-headings
@@ -221,28 +223,46 @@ RegexDictionaryReplacement: #.syntax.round-bracket-wrap
 - concluding_replacements: #placeholder-protect
 
 
+OrdinaryDictionaryReplacement: #.syntax.modern-contextual-non-insertions
+- queue_position: BEFORE #specified-links
+* [[...]] --> <span class="modern">(...)</span>
+* [[Not present]] --> <span class="modern">(Not present)</span>
+
+
 FixedDelimitersReplacement: #.syntax.modern-insertion-inline
 - queue_position: BEFORE #specified-links
 - syntax_type: INLINE
 - opening_delimiter: [[
 - attribute_specifications: .modern
+- prohibited_content: BLOCKS
 - content_replacements: #.syntax.round-bracket-wrap
 - closing_delimiter: ]]
 - tag_name: ins
 
 
-FixedDelimitersReplacement: #.syntax.modern-strike
-- queue_position: BEFORE #specified-links
+FixedDelimitersReplacement: #.syntax.williams-insertion-inline
+- queue_position: BEFORE #inline-code
+- syntax_type: INLINE
+- opening_delimiter: ``
+- prohibited_content: BLOCKS
+- closing_delimiter: ``
+- tag_name: ins
+
+
+FixedDelimitersReplacement: #.syntax.williams-deletion-inline
+- queue_position: BEFORE #inline-code
 - syntax_type: INLINE
 - opening_delimiter: ~~
+- prohibited_content: BLOCKS
 - closing_delimiter: ~~
-- tag_name: s
+- tag_name: del
 
 
 FixedDelimitersReplacement: #.syntax.small-parenthetical
 - queue_position: BEFORE #specified-links
 - syntax_type: INLINE
 - opening_delimiter: ((
+- prohibited_content: BLOCKS
 - content_replacements: #.syntax.round-bracket-wrap
 - closing_delimiter: ))
 - tag_name: small

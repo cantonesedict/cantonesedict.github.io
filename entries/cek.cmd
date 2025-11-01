@@ -5,12 +5,12 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cek
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2024--
 
 %%%
 
-#{.williams} Ch(')ek. <ins class="modern">Ts(')ek.</ins> [[cek]]
+#{.williams} Ch(')ek. ``Ts(')ek.`` [[cek]]
 
 <## tones ##>
 <nav class="sideways">
@@ -24,12 +24,12 @@ $$
 WH
   ==
   - Ch(')ek. [[Page~15* implied]]
-  - <ins class="modern">Ts(')ek. (Not present)</ins>
+  - ``Ts(')ek.`` [[Not present^]]
   ==
 WP
   ==
   - Ch(')ek <span class="modern">= *[tɕʰɛk̚]</span>
-  - <span class="modern">Ts(')ek = *[tsʰɛk̚]</span>
+  - ``Ts(')ek`` <span class="modern">= *[tsʰɛk̚]</span>
   ==
 MP
   ==
@@ -42,7 +42,7 @@ S
 $$
 
 
-##{#3 .williams} Ch(')ek(8) <ins class="modern">Ts(')ek(8)</ins> [[cek3 低陰入]]
+##{#3 .williams} Ch(')ek(8) ``Ts(')ek(8)`` [[cek3 低陰入]]
 
 <## tone-3-characters ##>
 <nav class="sideways">
@@ -54,7 +54,7 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
-### 尺3 | _Ch(')ek[(8)]_ [[cek3]]
+### 尺3 | _~~Ch(')ek(9)~~ ``Ch(')ek(8)``_ [[cek3]]
 
 $$
 R
@@ -68,7 +68,7 @@ V
   ==
 F
   ==
-  - [[F1.78 尺]] 十寸曰尺
+  - (F1.78 尺) 十寸曰尺
   ==
 W
   ====
@@ -80,40 +80,40 @@ W
     ==
     - A cubit, or 10~_ts(')(u:)n(3)_ [[Kangxi: 十寸也]];
     - the Chinese foot;
-    - _ch(')ek[(8)] ts(')(u:)n(3)_
+    - _~~ch(')ek(9)~~ ``ch(')ek(8)`` ts(')(u:)n(3)_
         [[cek3 cyun3 尺寸]]
         regular, proportioned;
-    - _(2)k(i/) (1)to ch(')ek[(8)] ts(')(u:)n(3)_
+    - _(2)k(i/) (1)to ~~ch(')ek(9)~~ ``ch(')ek(8)`` ts(')(u:)n(3)_
         [[gei2 do1 cek3 cyun3 幾多尺寸]]
         what are the dimensions?
-    - _(4)'m kau(3) ch(')ek[(8)] ts(')(u:)n(3)_
+    - _(4)'m kau(3) ~~ch(')ek(9)~~ ``ch(')ek(8)`` ts(')(u:)n(3)_
         [[m4 gau3 cek3 cyun3 唔夠尺寸]]
         not of full stature;
-    - _(1)s(a/)m ch(')ek[(8)] f(a/)t(8)_
+    - _(1)s(a/)m ~~ch(')ek(9)~~ ``ch(')ek(8)`` f(a/)t(8)_
         [[saam1 cek3 faat3 三尺法]]
         laws of the land, prohibitions;
-    - _(4)p(')(a/)i (4)ts(')(i/)n ch(')ek[(8)]_
+    - _(4)p(')(a/)i (4)ts(')(i/)n ~~ch(')ek(9)~~ ``ch(')ek(8)``_
         [[paai4 cin4 cek3 排錢尺]]
         the full length cubit;
-    - _k(a/)n(3) ch(')ek[(8)]_
+    - _k(a/)n(3) ~~ch(')ek(9)~~ ``ch(')ek(8)``_
         [[gaan3 cek3-2 間尺]]
         a ruler;
-    - _(4)l(e/)ung (1)t(')(i/)n ch(')ek[(8)]_
+    - _(4)l(e/)ung (1)t(')(i/)n ~~ch(')ek(9)~~ ``ch(')ek(8)``_
         [[loeng4 tin1 cek3 量天尺]]
         a quadrant;
-    - _ch(')ek[(8)] wok[(9)]_
+    - _~~ch(')ek(9)~~ ``ch(')ek(8)`` ~~wok(8)~~ ``wok(9)``_
         [[cek3 wok6 尺蠖]]
         a geometrical worm;
-    - _ch(')ek[(8)] yat(7) (1)ch(i/) (1)sh(u:)_
+    - _~~ch(')ek(9)~~ ``ch(')ek(8)`` yat(7) (1)ch(i/) (1)sh(u:)_
         [[cek3 jat1 zi1 syu1 尺一之書]],
         an epistle, a note;
-    - _ch(')ek[(8)] t(o\)(6)_
+    - _~~ch(')ek(9)~~ ``ch(')ek(8)`` t(o\)(6)_
         [[cek3 dou6 尺度]]
-        ~~to measure~~, measurable;
-    - _luk(9) ch(')ek[(8)] (1)ch(i/) (1)k(u/)_
+        ~~to~~ measure, measurable;
+    - _luk(9) ~~ch(')ek(9)~~ ``ch(')ek(8)`` (1)ch(i/) (1)k(u/)_
         [[luk6 cek3 zi1 gu1 六尺之孤]],
         a minor reigning;
-    - _(1)s(a/)m ch(')ek[(8)] p(a/)k(9)_
+    - _(1)s(a/)m ~~ch(')ek(9)~~ ``ch(')ek(8)`` p(a/)k(9)_
         [[saam1 cek3 baak6 三尺帛]]
         a halter, a short rope.
     ==
@@ -149,7 +149,7 @@ S
   ==
 $$
 
-###+ {𤷫=⿸疒刺}3 | _Ts(')ek(8)_ (cek3)
+###+ {𤷫=⿸疒刺}3 | _Ts(')ek(8)_ [[cek3]]
 
 $$
 R
@@ -203,7 +203,7 @@ S
   ==
 $$
 
-###+ 赤3 | _Ch(')ek(8)_ (cek3)
+###+ 赤3 | _Ch(')ek(8)_ [[cek3]]
 
 $$.
 R

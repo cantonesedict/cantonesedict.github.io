@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceon
-* %date-modified --> 2025-08-16
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -61,7 +61,7 @@ U
   U+6625
 F
   ==
-  - [[F2.52 春]] 四季之首
+  - (F2.52 春) 四季之首
   ==
 W
   ====
@@ -69,7 +69,7 @@ W
     ==
     - Spring [[Kangxi: 春爲靑陽 etc.]], beginning of the year [[Kangxi: 春者何歲之始也]];
     - joyous, glad;
-    - wanton;
+    - ~~wanton~~ ``amorous``;
     - _met._ times, period;
     - budding, starting;
     - _(1)ch(')un shik(7)_
@@ -78,12 +78,12 @@ W
     - _(1)ch(')un (4)ngau_
         [[ceon1 ngau4 春牛]],
         a clay ox made in the spring;
-    - _(1)ch(')un (i/)[(3)]_
+    - _(1)ch(')un ~~(4)(i/)~~ ``(i/)(3)``_
         [[ceon1 ji3 春意]],
         sexual desires;
     - _(1)san (1)ch(')un_
         [[san1 ceon1 新春]],
-        the first month.
+        the ~~first month~~ ``new year``.
     ==
     --
     [[Otherwise, an alternative form of 膥. **See $膥ceon1 for the canonical entry.**]]
@@ -91,9 +91,7 @@ W
   ====
 C
   ==
-  - Williams' "wanton": Better rendered "amorous".
   - Williams' 春意: Corrected _(4)(i/)_ (ji4) to _(i/)(3)_ (ji3).
-  - Williams' 新春: Better rendered "new spring" or "new year".
   ==
 P
   ++
@@ -112,7 +110,7 @@ U
   U+693F
 F
   ==
-  - [[F2.52 椿]] 木名父曰椿母曰萱
+  - (F2.52 椿) 木名父曰椿母曰萱
   ==
 W
   ====
@@ -121,7 +119,7 @@ W
     - A longlived tree [[Kangxi: 上古有大椿者以八千歲爲春八千歲爲秋]], a kind of banian;
     - _(1)ch(')un (4)t(')ong_
         [[ceon1 tong4 椿堂]],
-        ~~a father~~;
+        ~~a~~ father ``and mother``;
     - _(1)ch(')un (1)h(u:)n_
         [[ceon1 hyun1 椿萱]],
         father and mother.
@@ -139,13 +137,12 @@ W
   ====
 C
   ==
-  - Williams' 椿堂: This would be father and mother.
-    Father alone would instead be 椿庭
+  - Williams' 椿堂: Father alone would instead be 椿庭
     _(1)ch(')un (4)t(')ing_ (ceon1 ting4).
   ==
 $$
 
-### [膥]1 | _(1)Ch(')un_ [[ceon1]]
+### ~~{𱼚=⿰未⿱成肉}~~``膥``1 | _(1)Ch(')un_ [[ceon1]]
 
 $$
 R
@@ -158,11 +155,11 @@ A
   ==
 F
   ==
-  - [[F2.52 ::[膥]::]] ::鳥之[卵]::
+  - (F2.52 ::[膥]::) ::鳥之[卵]::
   ==
 W
   ====
-  - [[Page~37* ::(1)[膥]^::]]
+  - [[Page~37* ::(1)~~{𱼚=⿰未⿱成肉}~~``膥``::]]
     ==
     - An egg, fish roe, crab's eggs;
     - _(4)lui (1)kung (1)ch(')un_
@@ -219,7 +216,7 @@ $$
 </nav>
 <## /tone-2-characters ##>
 
-###+ 惷2 | _(2)Ch(')un_ (ceon2)
+###+ 惷2 | _(2)Ch(')un_ [[ceon2]]
 
 $$
 R
@@ -232,7 +229,7 @@ A
   ==
 F
   ==
-  - [[F2.53 惷]] ::[亂]也::
+  - (F2.53 惷) ::[亂]也::
   ==
 W
   [[Not present]]
@@ -262,7 +259,7 @@ A
   ==
 F
   ==
-  - [[F2.53 蠢]] ::愚也[鈍]也又虫[動曰蠢]::
+  - (F2.53 蠢) ::愚也[鈍]也又虫[動曰蠢]::
   ==
 W
   ====
@@ -287,7 +284,7 @@ W
         unaffected;
     - _chai(3) (2)ch(')un_
         [[zai3 ceon2 ？蠢]],
-        appearing foolish, silly looking[.]
+        appearing foolish, silly looking``.``
     ==
     --
     [[Otherwise, an alternative form of 惷. **See $惷ceon2 for the canonical entry.**]]
@@ -317,7 +314,7 @@ V
   ==
 F
   ==
-  - [[F2.53 踳]] ::雜也乖[舛]也::
+  - (F2.53 踳) ::雜也乖[舛]也::
   ==
 W
   ====
@@ -377,7 +374,7 @@ A
   ==
 F
   ==
-  - [[F2.52 巡]] 巡視行也遍也又逡巡退却也
+  - (F2.52 巡) 巡視行也遍也又逡巡退却也
   ==
 W
   ====
@@ -391,9 +388,9 @@ W
     ==
     - To cruize [[Kangxi 巡: 巡行也]];
     - to go on circuit [[Kangxi 巡: 徧也, 謂巡繞徧行之]],
-      to examine what [another] is doing [[Kangxi 巡: 巡視行貌]],
+      to examine what ``another`` is doing [[Kangxi 巡: 巡視行貌]],
       to go on a tour of inspection [[Kangxi 巡: 巡守也]];
-    - a course at a feast;
+    - a ~~course at a feast~~ ``round of drinks``;
     - _(4)ts(')un (2)f(u/)_
         [[ceon4 fu2 巡撫]],
         the governor of a province;
@@ -421,10 +418,6 @@ W
         tidewaiters, cruizing officers.
     ==
   ====
-C
-  ==
-  - Williams' "a course at a feast": More "a round of drinks".
-  ==
 P
   ++
   1. Used in 逡巡 (hesitant, retreative) (Kangxi: 逡巡郤退之貌).
@@ -462,7 +455,7 @@ A
   ==
 F
   ==
-  - [[F2.52 循]] 順也又遵循撫循又循良
+  - (F2.52 循) 順也又遵循撫循又循良
   ==
 W
   ====
@@ -473,13 +466,13 @@ W
     - to accord [[Kangxi: 行順也]], to follow or go round with [[Kangxi: 依也]];
     - to revolve [[Kangxi: 循環謂旋繞往來]];
     - [[...]];
-    - good [[Kangxi: 善也]], ~~easy, docile~~;
+    - good [[Kangxi: 善也]]~~, easy, docile~~;
     - ~~leisurely;~~
     - to soothe, to console [[Kangxi: 撫循慰安也]];
     - to explain [[Kangxi: 述也]];
     - _(4)ts(')un (1)kw(')ai t(o\)(6) (2)k(u:)_
         [[ceon4 kwai1 dou6 geoi2 循規蹈矩]],
-        to accord with and follow instructions;
+        to accord with and follow ~~instructions~~ ``the rules``;
     - _(4)ts(')un f(a/)t(8)_
         [[ceon4 faat3 循法]]
         to obey the laws;
@@ -492,7 +485,7 @@ W
     - _(4)ts(')un (4)ts(')un sh(i/)n(6) (5)yau_
         [[ceon4 ceon4 sin6 jau5 循循善誘]],
         gradually and gently lead him on, as to good habits;
-    - _(4)ts(')un (4)hang [kau(6)] sz'(6)_
+    - _(4)ts(')un (4)hang ~~k(o\)(3)~~ ``kau(6)`` sz'(6)_
         [[ceon4 hang4 gau6 si6 循行舊事]]
         act as has been formerly done.
     ==
@@ -502,7 +495,6 @@ W
   ====
 C
   ==
-  - Williams' 循規蹈矩: Better rendered "the rules" than "instructions".
   - Williams' 循行舊事: Corrected _k(o\)(3)_ (gou3) to _kau(6)_ (gau6).
   ==
 P
@@ -525,7 +517,7 @@ V
   ==
 F
   ==
-  - [[F2.52 揗]] 以手相安慰曰揗
+  - (F2.52 揗) 以手相安慰曰揗
   ==
 W
   ====
@@ -558,7 +550,7 @@ U
   U+65EC
 F
   ==
-  - [[F2.52 旬]] 十日曰一旬
+  - (F2.52 旬) 十日曰一旬
   ==
 W
   ====
@@ -594,7 +586,7 @@ U
   U+79E6
 F
   ==
-  - [[F2.52 秦]] 國名又姓
+  - (F2.52 秦) 國名又姓
   ==
 W
   ====
@@ -602,11 +594,11 @@ W
     ==
     - A kind of rice [[Kangxi: 一曰秦禾名]];
     - a feudal state [[Kangxi: 國名]] occupying the region of the rivers Wei [[渭]] and King [[涇]];
-    - the range of mountains in [the] south of Shens(i/) [[陝西]];
+    - the range of mountains in ``the`` south of Shens(i/) [[陝西]];
     - _(4)Ts(')un (4)ch(')i(u/)_
         [[ceon4 ciu4 秦朝]],
         the Ts(')in [[秦]] dynasty, B.C.~186--120;
-    - _ts(')un (2)[Ch(')(i/)] (4)wong tai(3)_
+    - _ts(')un ~~(2)Ch(i/)~~ ``(2)Ch(')(i/)`` (4)wong tai(3)_
         [[ceon4 ci2 wong4 dai3 秦始皇帝]]
         the emperor First of this Ts(')in [[秦]] dynasty, who centralized the Chinese empire.
     ==
@@ -634,7 +626,7 @@ V
   ==
 F
   ==
-  - [[F2.52 紃]] 組紃
+  - (F2.52 紃) 組紃
   ==
 W
   ====
@@ -659,7 +651,7 @@ U
   U+8793
 F
   ==
-  - [[F2.52 螓]] 似蟬而小
+  - (F2.52 螓) 似蟬而小
   ==
 W
   ====
@@ -681,7 +673,7 @@ U
   U+99B4
 F
   ==
-  - [[F2.52 馴]] 善也漸也
+  - (F2.52 馴) 善也漸也
   ==
 W
   ====

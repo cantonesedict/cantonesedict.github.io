@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -50,7 +50,7 @@ $$
 </nav>
 <## /tone-1-characters ##>
 
-### [斋]1 | _(1)Ch(a/)i_ [[zaai1]]
+### ~~{？=⿱攵而}~~``斋``1 | _(1)Ch(a/)i_ [[zaai1]]
 
 $$.
 R
@@ -59,21 +59,17 @@ U
   U+658B
 F
   ==
-  - [[F2.25 齊]] 竹佳切莊也恭也潔也洗心曰齊
-  - [[F2.25 齋]] 齋成又燕居之室曰齋
-  - [[F2.25 斋]] 同上
+  - (F2.25 齊) 竹佳切莊也恭也潔也洗心曰齊
+  - (F2.25 齋) 齋成又燕居之室曰齋
+  - (F2.25 斋) 同上
   ==
 W
   ====
-  - [[Page~10|n53 ::(1)齋(1)[斋]^::]]
+  - [[Page~10|n53 ::(1)齋(1)~~{？=⿱攵而}~~``斋``::]]
     --
     [[Alternative form of 齋. **See $齋zaai1 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - Williams entry: Normalised headword ⿱攵而 to 斋.
-  ==
 $$
 
 ### 齊1 | _(1)Ch(a/)i_ [[zaai1]]
@@ -85,9 +81,9 @@ U
   U+9F4A
 F
   ==
-  - [[F2.25 齊]] 竹佳切莊也恭也潔也洗心曰齊
-  - [[F2.25 齋]] 齋成又燕居之室曰齋
-  - [[F2.25 斋]] 同上
+  - (F2.25 齊) 竹佳切莊也恭也潔也洗心曰齊
+  - (F2.25 齋) 齋成又燕居之室曰齋
+  - (F2.25 斋) 同上
   ==
 W
   ====
@@ -116,13 +112,13 @@ A
   ==
 F
   ==
-  - [[F2.25 齊]] 竹佳切莊也恭也潔也洗心曰齊
-  - [[F2.25 齋]] 齋成又燕居之室曰齋
-  - [[F2.25 斋]] 同上
+  - (F2.25 齊) 竹佳切莊也恭也潔也洗心曰齊
+  - (F2.25 齋) 齋成又燕居之室曰齋
+  - (F2.25 斋) 同上
   ==
 W
   ====
-  - [[Page~10|n53 ::(1)齋(1)[斋]^::]]
+  - [[Page~10|n53 ::(1)齋(1)~~{？=⿱攵而}~~``斋``::]]
     ==
     - To respect, to reverence [[Kangxi 齋: 恭也, 齋敬也]];
     - to abstain from [[Kangxi 齋: 潔也, 洗心曰齋]];
@@ -153,7 +149,7 @@ W
     - _(1)ch(a/)i k(a/)i(3)_
         [[zaai1 gaai3 齋戒]]
         to fast from animal food;
-    - _(1)ch(a/)i tsi(u/)[(3)]_
+    - _(1)ch(a/)i ~~tsi(u/)(6)~~ ``tsi(u/)(3)``_
         [[zaai1 ziu3 齋醮]]
         to fast at All-souls;
     - _shik(9) (1)ch(a/)i_
@@ -254,7 +250,7 @@ A
   ==
 F
   ==
-  - [[F2.28 債]] 齋去聲債負揭借銀曰債負
+  - (F2.28 債) 齋去聲債負揭借銀曰債負
   ==
 W
   ====
@@ -281,7 +277,7 @@ W
     - _fong(3) ch(a/)i(3)_
         [[fong3 zaai3 放債]]
         to let capital;
-    - _[ts(')(i/)t](8) (5)(i/) p(i/)n(3) ch(a/)i(3) (2)tan_
+    - _~~ts(i/)t(8)~~ ``ts(')(i/)t(8)`` (5)(i/) p(i/)n(3) ch(a/)i(3) (2)tan_
         [[cit3 ji5 bin3 zaai3 dan2 切耳變債躉]],
         cut off his ears and make him a stool of debt.
     ==
@@ -292,7 +288,7 @@ C
   ==
 $$
 
-###+ 瘵3 | _Ch(a/)i(3)_ (zaai3)
+###+ 瘵3 | _Ch(a/)i(3)_ [[zaai3]]
 
 $$
 R
@@ -305,17 +301,17 @@ V
   ==
 F
   ==
-  - [[F2.28 瘵 _Ch(')(a/)i(3)_ (caai3)]] 勞病
+  - (F2.28 瘵 _Ch(')(a/)i(3)_ (caai3)) 勞病
   ==
 W
   ====
   - [[Page~11|n54 瘵(3) _Ch(')(a/)i(3)_ (caai3); here normalised to _Ch(a/)i(3)_ (zaai3)]]
     ==
     - Weary, sick [[Kangxi: 勞病也, 病也]];
-    - _(4)l(o\) [ch(a/)i](3)_
+    - _(4)l(o\) ~~ch(')(a/)i(3)~~ ``ch(a/)i(3)``_
         [[lou4 zaai3 癆瘵]]
         consumption, a wasting disease;
-    - _tsz'(6) [ch(a/)i](3)_
+    - _tsz'(6) ~~ch(')(a/)i(3)~~ ``ch(a/)i(3)``_
         [[zi6 zaai3 自瘵]]
         to bring trouble on one's self.
     ==
@@ -355,7 +351,7 @@ S
   ==
 $$
 
-###+ 責3 | _Ch(a/)i(3)_ (zaai3)
+###+ 責3 | _Ch(a/)i(3)_ [[zaai3]]
 
 $$.
 R
@@ -403,8 +399,8 @@ A
   ==
 F
   ==
-  - [[F2.29 寨]] 木檽爲之蜜口營壘也
-  - [[F2.29 砦]] 同上
+  - (F2.29 寨) 木檽爲之蜜口營壘也
+  - (F2.29 砦) 同上
   ==
 W
   ====
@@ -438,7 +434,7 @@ C
   ==
 $$
 
-###+ 眥6 | _Ch(a/)i(6)_ (zaai6)
+###+ 眥6 | _Ch(a/)i(6)_ [[zaai6]]
 
 $$
 R
@@ -476,8 +472,8 @@ U
   U+7826
 F
   ==
-  - [[F2.29 寨]] 木檽爲之蜜口營壘也
-  - [[F2.29 砦]] 同上
+  - (F2.29 寨) 木檽爲之蜜口營壘也
+  - (F2.29 砦) 同上
   ==
 W
   ====
@@ -501,7 +497,7 @@ U
   U+8C78
 F
   ==
-  - [[F2.29 豸]] 蟲豸有足曰蟲無足曰豸又獬豸
+  - (F2.29 豸) 蟲豸有足曰蟲無足曰豸又獬豸
   ==
 W
   ====

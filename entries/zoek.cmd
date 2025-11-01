@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoek
-* %date-modified --> 2025-08-17
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -80,7 +80,7 @@ V
   ==
 F
   ==
-  - [[F1.94 勺]] 挹取也
+  - (F1.94 勺) 挹取也
   ==
 W
   ====
@@ -89,7 +89,7 @@ W
     - A ladle or spoon [[Kangxi: ::[所以]挹取也::]];
     - a spoonful;
     - [[...]];
-    - _[lau](6) ch(e/)uk(8)_
+    - _~~tau(6)~~ ``lau(6)`` ch(e/)uk(8)_
         [[lau6 zoek3 漏勺]]
         a cullender;
     - _yat(7) ch(e/)uk(8) (2)shui (1)ch(i/) (1)to_
@@ -110,7 +110,7 @@ S
   ==
 $$
 
-###+ 嚼3 | _Ts(e/)uk(8)_ (zoek3)
+###+ 嚼3 | _Ts(e/)uk(8)_ [[zoek3]]
 
 $$
 R
@@ -126,24 +126,24 @@ V
   ==
 F
   ==
-  - [[F1.94 嚼 _Ts(e/)uk(9)_ (zoek6)]] 咀嚼咬嚼
+  - (F1.94 嚼 _Ts(e/)uk(9)_ (zoek6)) 咀嚼咬嚼
   ==
 W
   ====
   - [[Page~565 嚼(9) _Ts(e/)uk(9)_ (zoek6); here normalised to _Ts(e/)uk(8)_ (zoek3)]]
     ==
-    - To chew, to bite, ~~to ruminate~~, to craunch, to mumble, to munch, to masticate [[Kangxi: 齧也]];
+    - To chew, to bite, ~~to ruminate,~~ to craunch, to mumble, to munch, to masticate [[Kangxi: 齧也]];
     - a mouthful, a bite;
-    - _(5)ng(a/)u ts(e/)uk[(8)]_
+    - _(5)ng(a/)u ~~ts(e/)uk(9)~~ ``ts(e/)uk(8)``_
         [[ngaau5 zoek3 咬嚼]]
         to chew;
-    - _ts(e/)uk[(8)] l(a/)n(6)_
+    - _~~ts(e/)uk(9)~~ ``ts(e/)uk(8)`` l(a/)n(6)_
         [[zoek3 laan6 嚼爛]]
         chewed it to pieces;
-    - _(4)h(o\)m (4)ch(')(a/) ts(e/)uk[(8)] f(a/)n(6)_
+    - _(4)h(o\)m (4)ch(')(a/) ~~ts(e/)uk(9)~~ ``ts(e/)uk(8)`` f(a/)n(6)_
         [[ham4 caa4 zoek3 faan6 含茶嚼飯]]
         to mumble for a child;
-    - _(5)ng(a/)u (4)man ts(e/)uk[(8)] tsz'(6)_
+    - _(5)ng(a/)u (4)man ~~ts(e/)uk(9)~~ ``ts(e/)uk(8)`` tsz'(6)_
         [[ngaau5 man4 zoek3 zi6 咬文嚼字]]
         to bite and chew phrases---pedantry.
     ==
@@ -169,7 +169,7 @@ U
   U+5981
 F
   ==
-  - [[F1.94 妁]] 媒妁
+  - (F1.94 妁) 媒妁
   ==
 W
   ====
@@ -193,7 +193,7 @@ U
   U+65AB
 F
   ==
-  - [[F1.94 斫]] 斬截也
+  - (F1.94 斫) 斬截也
   ==
 W
   ====
@@ -225,7 +225,7 @@ U
   U+6753
 F
   ==
-  - [[F1.94 杓]] 杯杓
+  - (F1.94 杓) 杯杓
   ==
 W
   ====
@@ -241,7 +241,7 @@ S
   ==
 $$
 
-###+ 桌3 | _Ch(e/)uk(8)_ (zoek3)
+###+ 桌3 | _Ch(e/)uk(8)_ [[zoek3]]
 
 $$.
 R
@@ -262,7 +262,7 @@ S
   ==
 $$
 
-###+ 棹3 | _Ch(e/)uk(8)_ (zoek3)
+###+ 棹3 | _Ch(e/)uk(8)_ [[zoek3]]
 
 $$.
 R
@@ -293,7 +293,7 @@ U
   U+707C
 F
   ==
-  - [[F1.94 灼]] 燒也炙也昭也又灼灼華盛貌
+  - (F1.94 灼) 燒也炙也昭也又灼灼華盛貌
   ==
 W
   ====
@@ -308,7 +308,7 @@ S
   ==
 $$
 
-###+ 爝3 | _Ts(e/)uk(8)_ (zoek3)
+###+ 爝3 | _Ts(e/)uk(8)_ [[zoek3]]
 
 $$
 R
@@ -325,7 +325,7 @@ V
   ==
 F
   ==
-  - [[F1.94 爝 _Ts(e/)uk(9)_ (zoek6)]] 炬火也
+  - (F1.94 爝 _Ts(e/)uk(9)_ (zoek6)) 炬火也
   ==
 W
   ====
@@ -362,7 +362,7 @@ H
   depending on the font.
 F
   ==
-  - [[F1.94 爵]] 鳥名又酒爵又爵祿
+  - (F1.94 爵) 鳥名又酒爵又爵祿
   ==
 W
   ====
@@ -396,7 +396,7 @@ W
   --
 $$
 
-###+ 皭3 | _Ts(e/)uk(8)_ (zoek3)
+###+ 皭3 | _Ts(e/)uk(8)_ [[zoek3]]
 
 $$
 R
@@ -413,7 +413,7 @@ V
   ==
 F
   ==
-  - [[F1.94 皭 _Ts(e/)uk(9)_ (zoek6)]] 白色又？淨也
+  - (F1.94 皭 _Ts(e/)uk(9)_ (zoek6)) 白色又？淨也
   ==
 W
   ====
@@ -449,7 +449,7 @@ A
   ==
 F
   ==
-  - [[F1.94 着]] 被服也又置也
+  - (F1.94 着) 被服也又置也
   ==
 W
   ====
@@ -514,13 +514,13 @@ U
   U+799A
 F
   ==
-  - [[F1.94 禚]] 齊地
+  - (F1.94 禚) 齊地
   ==
 W
   ====
   - [[Page~32|n75 禚(8)]]
     ==
-    - A city in the feudal state of [Ts(')(i/)] [[齊]] [[Kangxi: 齊地名]],
+    - A city in the feudal state of ~~Ts(i/)~~ ``Ts(')(i/)`` [[齊]] [[Kangxi: 齊地名]],
       now a place in Sh(a/)ntung [[山東]] province.
     ==
   ====
@@ -533,13 +533,9 @@ R
   ⾋ + 3
 U
   U+828D
-V
-  ==
-  - coek3 (common)
-  ==
 F
   ==
-  - [[F1.94 芍]] 芍藥花名
+  - (F1.94 芍) 芍藥花名
   ==
 W
   ====
@@ -593,7 +589,7 @@ A
   ==
 F
   ==
-  - [[F1.94 酌]] 注也斟也益也挹取也沽也又叅酌審擇量度也
+  - (F1.94 酌) 注也斟也益也挹取也沽也又叅酌審擇量度也
   ==
 W
   ====
@@ -613,7 +609,7 @@ W
     - to avail of, to choose the good and act upon it [[Kangxi: 取善而行曰酌, 酌猶取也]];
     - to deliberate [[Kangxi: 參酌]];
     - to imitate or adopt;
-    - _(1)[ts(')(a/)m] ch(e/)uk(8)_ [[caam1 zoek3 參酌]]
+    - _~~(1)sham~~ ``(1)ts(')(a/)m`` ch(e/)uk(8)_ [[caam1 zoek3 參酌]]
         or
       _ch(e/)uk(8) (5)(i/)_ [[zoek3 ji5 酌議]],
         to deliberate;
@@ -632,10 +628,10 @@ W
     - _(1)chung ch(e/)uk(8)_
         [[zung1 zoek3 中酌]]
         the servants' course;
-    - _[tsi(u/)](3) ch(e/)uk(8)_
+    - _~~ts(u/)i(3)~~ ``tsi(u/)(3)`` ch(e/)uk(8)_
         [[ziu3 zoek3 醮酌]]
         a wedding entertainment to a son;
-    - _(4)[m(u/)i] ch(e/)uk(8)_
+    - _~~(4)mi(u/)~~ ``(4)m(u/)i`` ch(e/)uk(8)_
         [[mui4 zoek3 梅酌]]
         a return feast given by a bridegroom.
     ==
@@ -665,7 +661,7 @@ V
   ==
 F
   ==
-  - [[F1.94 雀]] 孔雀又小鳥亦曰雀
+  - (F1.94 雀) 孔雀又小鳥亦曰雀
   ==
 W
   ====
@@ -699,7 +695,7 @@ W
     - _(4)sh(i/) (4)shan ts(e/)uk(8)_
         [[si4 san4 zoek3-2 時辰雀]]
         a canary-bird;
-    - _ts(e/)uk(8) sh(i/)t[(8)] (1)f(a/)_
+    - _ts(e/)uk(8) ~~sh(i/)t(9)~~ ``sh(i/)t(8)`` (1)f(a/)_
         [[zoek3 sit3 faa1 雀舌花]],
         the _Gardenia radicans_.
     ==
@@ -739,7 +735,7 @@ E
   ====
 $$
 
-###+ 鵲3 | _Ts(e/)uk(8)_ (zoek3)
+###+ 鵲3 | _Ts(e/)uk(8)_ [[zoek3]]
 
 $$
 R
@@ -753,7 +749,7 @@ V
   ==
 F
   ==
-  - [[F1.94 鵲 _Ts(')(e/)uk(8)_ (coek3)]] 喜鵲
+  - (F1.94 鵲 _Ts(')(e/)uk(8)_ (coek3)) 喜鵲
   ==
 W
   ====
@@ -761,14 +757,14 @@ W
     ==
     - A magpie, a jackdaw [[Kangxi: 鳥名喜鵲也]];
     - a jay [[Kangxi: 練鵲]];
-    - _(2)h(i/) [ts(e/)uk](8)_ [[hei2 zoek3 喜鵲]]
+    - _(2)h(i/) ~~ts(')(e/)uk(8)~~ ``ts(e/)uk(8)``_ [[hei2 zoek3 喜鵲]]
         or
-      _(1)kon [ts(e/)uk](8)_ [[gon1 zoek3 乾鵲]]
+      _(1)kon ~~ts(')(e/)uk(8)~~ ``ts(e/)uk(8)``_ [[gon1 zoek3 乾鵲]]
         a magpie;
-    - _(2)sh(a/)n (2)h(i/) [ts(e/)uk](8)_
+    - _(2)sh(a/)n (2)h(i/) ~~ts(')(e/)uk(8)~~ ``ts(e/)uk(8)``_
         [[saan1 hei2 zoek3 山喜鵲]]
         a magpie with a gradated tail;
-    - _(1)(u/) [ts(e/)uk](8)_
+    - _(1)(u/) ~~ts(')(e/)uk(8)~~ ``ts(e/)uk(8)``_
         [[wu1 zoek3 烏鵲]]
         a raven.
     ==
@@ -780,7 +776,7 @@ S
 $$
 
 
-##{#6 .williams} <ins class="modern">Ch(e/)uk(9)</ins> Ts(e/)uk(9) [[zoek6 陽入]]
+##{#6 .williams} ``Ch(e/)uk(9)`` Ts(e/)uk(9) [[zoek6 陽入]]
 
 <## tone-6-characters ##>
 <nav class="sideways">
@@ -806,7 +802,7 @@ H
   depending on the font.
 F
   ==
-  - [[F1.94 嚼]] 咀嚼咬嚼
+  - (F1.94 嚼) 咀嚼咬嚼
   ==
 W
   ====
@@ -834,7 +830,7 @@ H
   depending on the font.
 F
   ==
-  - [[F1.94 爝]] 炬火也
+  - (F1.94 爝) 炬火也
   ==
 W
   ====
@@ -861,7 +857,7 @@ H
   depending on the font.
 F
   ==
-  - [[F1.94 皭]] 白色又？淨也
+  - (F1.94 皭) 白色又？淨也
   ==
 W
   ====
@@ -881,7 +877,7 @@ S
   ==
 $$
 
-###+ 着6 | _Ch(e/)uk(9)_ (zoek6)
+###+ 着6 | _Ch(e/)uk(9)_ [[zoek6]]
 
 $$
 R
@@ -894,7 +890,7 @@ A
   ==
 F
   ==
-  - [[F1.94 着 _Ch(e/)uk(8)_ (zoek3)]] 被服也又置也
+  - (F1.94 着 _Ch(e/)uk(8)_ (zoek3)) 被服也又置也
   ==
 W
   ====
@@ -907,65 +903,65 @@ W
     - a particle placed after verbs, showing a transitive and present action,
       and is like _ch(u:)(6)_ [[zyu6 住]] in colloquial;
     - before verbs, let, make, permit;
-    - _(4)'m ch(e/)uk[(9)]_
+    - _(4)'m ~~ch(e/)uk(8)~~ ``ch(e/)uk(9)``_
         [[m4 zoek6 唔着]]
         unsuitable;
-    - _ch(e/)uk[(9)] kwo(3) (4)t(')au_
+    - _~~ch(e/)uk(8)~~ ``ch(e/)uk(9)`` kwo(3) (4)t(')au_
         [[zoek3 gwo3 tau4 着過頭]],
         just right;
     - [[...]];
-    - _sh(e/)ung(6) ch(e/)uk[(9)]_
+    - _sh(e/)ung(6) ~~ch(e/)uk(8)~~ ``ch(e/)uk(9)``_
         [[soeng6 zoek6 上着]]
         best for use;
-    - _fan(3) (4)'m ch(e/)uk[(9)]_
+    - _fan(3) (4)'m ~~ch(e/)uk(8)~~ ``ch(e/)uk(9)``_
         [[fan3 m4 zoek6 瞓唔着]]
         I cannot sleep;
-    - _ch(e/)uk[(9)] shat(9) (2)t(a/)_
+    - _~~ch(e/)uk(8)~~ ``ch(e/)uk(9)`` shat(9) (2)t(a/)_
         [[zoek6 sat6 daa2 着實打]],
         gave him a flogging;
-    - _(u:)(6) (1)k(a/) ch(e/)uk[(9)] (4)mong_
+    - _(u:)(6) (1)k(a/) ~~ch(e/)uk(8)~~ ``ch(e/)uk(9)`` (4)mong_
         [[jyu6 gaa1 zoek6 mong4 愈加着忙]],
         he was still more vexed;
-    - _ch(e/)uk[(9)] sh(o\)(3)_
+    - _~~ch(e/)uk(8)~~ ``ch(e/)uk(9)`` sh(o\)(3)_
         [[zoek6 sou3 着數]]
         cheap, good for the price;
-    - _ch(e/)uk[(9)] yung(6)_
+    - _~~ch(e/)uk(8)~~ ``ch(e/)uk(9)`` yung(6)_
         [[zoek6 jung6 着用]]
         useful;
-    - _ch(e/)uk[(9)] (1)shing (4)'m ch(e/)uk[(9)] (2)tau_
+    - _~~ch(e/)uk(8)~~ ``ch(e/)uk(9)`` (1)shing (4)'m ~~ch(e/)uk(8)~~ ``ch(e/)uk(9)`` (2)tau_
         [[zoek6 sing1 m4 zoek6 dau2 着升唔着斗]],
         it will do for a gill if not for a peck,
         serve for this if not for that;
-    - _ch(e/)uk[(9)] (i/)(3)_
+    - _~~ch(e/)uk(8)~~ ``ch(e/)uk(9)`` (i/)(3)_
         [[zoek6 ji3 着意]]
         to suit one;
-    - _ch(e/)uk[(9)] lik(9)_
+    - _~~ch(e/)uk(8)~~ ``ch(e/)uk(9)`` lik(9)_
         [[zoek6 lik6 着力]]
         to exert one's self;
-    - _(5)yau ch(e/)uk[(9)] lok(9)_
+    - _(5)yau ~~ch(e/)uk(8)~~ ``ch(e/)uk(9)`` lok(9)_
         [[jau5 zoek6 lok6 有着落]]
         all right, settled satisfactorily;
     - [[...]];
-    - _(1)shi(u/) ch(e/)uk[(9)]_
+    - _(1)shi(u/) ~~ch(e/)uk(8)~~ ``ch(e/)uk(9)``_
         [[siu1 zoek6 燒着]]
         it is on fire;
-    - _ch(e/)uk[(9)] shat(9)_
+    - _~~ch(e/)uk(8)~~ ``ch(e/)uk(9)`` shat(9)_
         [[zoek6 sat6 着實]]
         entirely right;
-    - _(4)ts(')am ch(e/)uk[(9)]_ [[cam4 zoek6 尋着]]
+    - _(4)ts(')am ~~ch(e/)uk(8)~~ ``ch(e/)uk(9)``_ [[cam4 zoek6 尋着]]
         or
-      _(2)wan ch(e/)uk[(9)]_ [[wan2 zoek6 搵着]]
+      _(2)wan ~~ch(e/)uk(8)~~ ``ch(e/)uk(9)``_ [[wan2 zoek6 搵着]]
         found it;
-    - _ch(e/)uk[(9)] (4)'m ch(e/)uk[(9)]_
+    - _~~ch(e/)uk(8)~~ ``ch(e/)uk(9)`` (4)'m ~~ch(e/)uk(8)~~ ``ch(e/)uk(9)``_
         [[zoek6 m4 zoek6 着唔着]]
         is it right or not?
-    - _(2)t(i/)m (u:)(6) tak(7) ch(e/)uk[(9)]_
+    - _(2)t(i/)m (u:)(6) tak(7) ~~ch(e/)uk(8)~~ ``ch(e/)uk(9)``_
         [[dim2 jyu6 dak1 zoek6 點遇得着]]
         how shall I get to him?
-    - _(4)m(o\) ch(e/)uk[(9)] lok(9)_
+    - _(4)m(o\) ~~ch(e/)uk(8)~~ ``ch(e/)uk(9)`` lok(9)_
         [[mou4 zoek6 lok6 無着落]]
-        I [don't] know what to do;
-    - _p(u/)i(3) ch(e/)uk[(9)] (4)yan ts(o\)(6)_
+        I ~~dont~~ ``don't`` know what to do;
+    - _p(u/)i(3) ~~ch(e/)uk(8)~~ ``ch(e/)uk(9)`` (4)yan ts(o\)(6)_
         [[bui3 zoek6 jan4 zou6 背着人做]]
         hidden, sub rosâ, underhand.
     ==
@@ -1006,7 +1002,7 @@ S
   ==
 $$
 
-###+ 著6 | _Ch(e/)uk(9)_ (zoek6)
+###+ 著6 | _Ch(e/)uk(9)_ [[zoek6]]
 
 $$.
 R

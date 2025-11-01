@@ -194,7 +194,7 @@ class Updater:
             sys.exit(1)
 
         missing_context_match = re.search(
-            pattern=r"_ [^_\n]+? \([1245]\)\S+[^'] _ \s* (?: \( | \[\[ ) .+? (?: \) | \]\] ) $",
+            pattern=r"_ [^_\n]+? \([1245]\)\S+[^'`] _ \s* (?: \( | \[\[ ) .+? (?: \) | \]\] ) $",
             string=cmd_content,
             flags=re.MULTILINE | re.VERBOSE,
         )
@@ -242,13 +242,14 @@ class Updater:
             sys.exit(1)
 
         bad_williams_aspirate_runs = re.findall(
-            pattern=r"\S+ (?<! .p | .t | .k | kw | ts | ch ) \( ' \) \S+ ",
+            pattern=r"\S+ (?<! .p | .t | .k | kw | ts | ch | `` | .\^ ) \( ' \) \S+ ",
             string=cmd_content,
             flags=re.IGNORECASE | re.VERBOSE,
         )
         if bad_williams_aspirate_runs:
             print(
-                f'Error in `{entry_cmd_name}`: bad Williams aspirate in {bad_williams_aspirate_runs}',
+                f'Error in `{entry_cmd_name}`: bad Williams aspirate in {bad_williams_aspirate_runs} '
+                f'(suppress error with caret if legitimate)',
                 file=sys.stderr,
             )
             sys.exit(1)
@@ -279,7 +280,7 @@ class Updater:
             sys.exit(1)
 
         bad_williams_apical_apostrophe = re.findall(
-            pattern=r"\S+ sz [^'] \S+",
+            pattern=r"\S+ sz [^'`] \S+",
             string=cmd_content,
             flags=re.IGNORECASE | re.VERBOSE,
         )
@@ -378,7 +379,7 @@ class Updater:
                     |
                 ^ \#\# \{ \#[1-6] [ ] \.williams \} .*
                     |
-                ^ \#\#\# [ ] .*
+                ^ \#\#\# [ +] .*
                     |
                 ^ (WH | WV | F | W) \n (?: [ ]{2} .* \n )+
                     |
@@ -490,7 +491,7 @@ class Updater:
                 match.expand(fr'\g<character>{tone}')
                 for match in re.finditer(
                     pattern=(
-                        fr'^ \#\#\# [+]? [ ] \[? (?P<character> \S+? ) \]? {tone}'
+                        fr'^ \#\#\# [+]? [ ] (?: ~~.*~~ )? (?: `` )? (?P<character> \S+? ) (?: `` )? {tone}'
                         fr'[ ][|][ ]'
                         fr'.*?'
                         fr'(?: \( | \[\[ ) {syllable}{tone} (?: \) | \]\] )'
@@ -552,7 +553,7 @@ class Updater:
     @staticmethod
     def extract_williams_hs(line):
         clean_line = re.sub(
-            pattern=r'< [/]? ins .*? > | [._\[\]^] | \([1-9]\)',
+            pattern=r'~~.*?~~ | `` | [._\[\]^] | \([1-9]\)',
             repl='',
             string=line,
             flags=re.VERBOSE,
@@ -934,7 +935,8 @@ class Page:
                 pattern=(
                     r'^ [#]{3} [+]? '
                     r'[ ]'
-                    r'\[? \{? (?P<character> \S ) [=]? (?P<composition> \S*? ) \}? \]? .'
+                    r'(?: ~~.*~~ )?'
+                    r'(?: `` )? \{? (?P<character> \S ) [=]? (?P<composition> \S*? ) \}? (?: `` )? .'
                     r'[ ][|][ ]'
                     r'.*?'
                     r'(?: \( | \[\[ )'

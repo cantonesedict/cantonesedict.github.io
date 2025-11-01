@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2025-09-06
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -62,7 +62,7 @@ U
   U+5DEE
 F
   ==
-  - [[F2.25 差]] 使也
+  - (F2.25 差) 使也
   ==
 W
   ====
@@ -120,7 +120,7 @@ S
   ==
 $$
 
-###+ 搋1 | _(1)Ch(')(a/)i_ (caai1)
+###+ 搋1 | _(1)Ch(')(a/)i_ [[caai1]]
 
 $$
 R
@@ -148,7 +148,7 @@ E
   ====
 $$
 
-###+ 搓1 | _(1)Ch(')(a/)i_ (caai1)
+###+ 搓1 | _(1)Ch(')(a/)i_ [[caai1]]
 
 $$.
 R
@@ -181,7 +181,7 @@ H
   depending on the font.
 F
   ==
-  - [[F2.25 猜]] 疑也度也
+  - (F2.25 猜) 疑也度也
   ==
 W
   ====
@@ -218,7 +218,7 @@ W
     - _(1)ch(')(a/)i yat(7) (1)ch(')(a/)i_
         [[caai1 jat1 caai1 猜一猜]]^
         make a guess;
-    - _(5)n(i/) sh(i/)(3) (1)ch(')(a/)i[] [(5)]h(a/)_
+    - _(5)n(i/) sh(i/)(3) (1)ch(')(a/)i~~, h(a/)(6)~~ ``(5)h(a/)``_
         [[nei5 si3 caai1 haa5 你試猜一吓]]^
         just guess.
     ==
@@ -239,7 +239,7 @@ U
   U+91F5
 F
   ==
-  - [[F2.25 釵]] 婦人之簪
+  - (F2.25 釵) 婦人之簪
   ==
 W
   ====
@@ -276,7 +276,7 @@ $$
 </nav>
 <## /tone-2-characters ##>
 
-###+ 踩2 | _(2)Ch(')(a/)i_ (caai2)
+###+ 踩2 | _(2)Ch(')(a/)i_ [[caai2]]
 
 $$.
 R
@@ -321,13 +321,13 @@ V
   ==
 F
   ==
-  - [[F2.27 踹]] 足踐踏也
+  - (F2.27 踹) 足踐踏也
   ==
 W
   ====
   - [[Page~11|n54 (2)踹]]
     --
-    Also read _t(u:)n[(3)]_ [[dyun3]].
+    Also read _~~(2)t(u:)n~~ ``t(u:)n(3)``_ [[dyun3]].
     --
     ==
     - To stamp, to trample, to tread on with the heel [[Kangxi: 踹足蹀足也]];
@@ -397,7 +397,7 @@ V
   ==
 F
   ==
-  - [[F2.28 嘬]] 齧也一舉盡臠又捐其食曰嘬
+  - (F2.28 嘬) 齧也一舉盡臠又捐其食曰嘬
   ==
 W
   ====
@@ -423,7 +423,7 @@ S
   ==
 $$
 
-###+ 瘥3 | _Ch(')(a/)i(3)_ (caai3)
+###+ 瘥3 | _Ch(')(a/)i(3)_ [[caai3]]
 
 $$
 R
@@ -456,7 +456,7 @@ U
   U+7635
 F
   ==
-  - [[F2.28 瘵]] 勞病
+  - (F2.28 瘵) 勞病
   ==
 W
   ====
@@ -480,7 +480,7 @@ U
   U+8806
 F
   ==
-  - [[F2.28 蠆]] 蜂毒也
+  - (F2.28 蠆) 蜂毒也
   ==
 W
   ====
@@ -514,7 +514,7 @@ U
   U+5115
 F
   ==
-  - [[F2.26 儕]] 等也輩也
+  - (F2.26 儕) 等也輩也
   ==
 W
   ====
@@ -539,7 +539,7 @@ U
   U+67F4
 F
   ==
-  - [[F2.26 柴]] 薪也
+  - (F2.26 柴) 薪也
   ==
 W
   ====
@@ -558,7 +558,6 @@ W
     - _(1)kon (4)ch(')(a/)i pang(6) (2)fo_
         [[gon1 caai4 bang6 fo2 乾柴憑火]],
         if dry wood is near the fire, [will it not catch]?
-        [[these square brackets appear in the original text]]
     - _(4)ch(')(a/)i (1)f(a/)_
         [[caai4 faa1 柴花]],
         kindlings;
@@ -595,7 +594,7 @@ U
   U+8C7A
 F
   ==
-  - [[F2.26 豺]] 狼屬
+  - (F2.26 豺) 狼屬
   ==
 W
   ====

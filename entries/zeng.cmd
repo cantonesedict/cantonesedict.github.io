@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeng
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -152,7 +152,7 @@ S
 $$
 
 
-##{#6 .williams} <ins class="modern">Cheng(6)</ins> Tseng(6) [[zeng6 陽去]]
+##{#6 .williams} ``Cheng(6)`` Tseng(6) [[zeng6 陽去]]
 
 <## tone-6-characters ##>
 <nav class="sideways">
@@ -187,7 +187,7 @@ S
   ==
 $$
 
-###+ 穽6 | _Tseng(6)_ (zeng6)
+###+ 穽6 | _Tseng(6)_ [[zeng6]]
 
 $$.
 R
@@ -208,7 +208,7 @@ S
   ==
 $$
 
-###+ 鄭6 | _Cheng(6)_ (zeng6)
+###+ 鄭6 | _Cheng(6)_ [[zeng6]]
 
 $$
 R
@@ -221,7 +221,7 @@ V
   ==
 F
   ==
-  - [[F1.74 鄭]] 國名又鄭重
+  - (F1.74 鄭) 國名又鄭重
   ==
 W
   ====
@@ -230,9 +230,9 @@ W
     - A feudal state [[Kangxi: 國名]] in the Chau [[周]] dynasty,
       now the prefecture of K(a/)ifung [[開封]] in Hon(a/)n [[河南]];
     - it was first placed where the capital of Shens(i/) [[陝西]] lies;
-    - _[cheng](6) chung(6)_
+    - _~~ch(')^ing(6)~~ ``cheng(6)`` chung(6)_
         [[zeng6 zung6 鄭重]]
-        prudent [[Kangxi: 鄭重殷勤之意]], ~~inflexible~~.
+        prudent [[Kangxi: 鄭重殷勤之意]]~~, inflexible~~.
     ==
   ====
 C
@@ -251,7 +251,7 @@ S
   ==
 $$
 
-###+ 阱6 | _Tseng(6)_ (zeng6)
+###+ 阱6 | _Tseng(6)_ [[zeng6]]
 
 $$.
 R

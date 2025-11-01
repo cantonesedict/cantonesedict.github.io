@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zan
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -65,9 +65,9 @@ A
   ==
 F
   ==
-  - [[F1.79 珍]] 寶也重也貴也又珍珠
-  - [[F1.79 {？=⿰𤣩⿱𠆢㣺}]] 同上
-  - [[F1.79 珎]] 同上
+  - (F1.79 珍) 寶也重也貴也又珍珠
+  - (F1.79 {？=⿰𤣩⿱𠆢㣺}) 同上
+  - (F1.79 珎) 同上
   ==
 W
   ====
@@ -132,7 +132,7 @@ U
   U+771E
 F
   ==
-  - [[F1.79 眞]] 實也正也精也純也
+  - (F1.79 眞) 實也正也精也純也
   ==
 W
   ====
@@ -156,7 +156,7 @@ A
   ==
 F
   ==
-  - [[F1.79 眞]] 實也正也精也純也
+  - (F1.79 眞) 實也正也精也純也
   ==
 W
   ====
@@ -169,7 +169,7 @@ W
     - spiritual, subtle, pure, unmixed [[Kangxi 眞: 神也淳也精也]];
     - _(1)chan (4)yan_
         [[zan1 jan4 真人]],
-        a sprite, a phantom of a man[;]
+        a sprite, a phantom of a man~~,~~``;``
     - _(1)chan ko(3) (5)ts(')z'_
         [[zan1 go3 ci5 真個似]]
         in fact, it was like;
@@ -179,7 +179,7 @@ W
     - _(1)chan hai(6)_
         [[zan1 hai6 真係]]
         it is so;
-    - _(1)chan (1)tsong ching(3) [f(a/)n](6)_
+    - _(1)chan (1)tsong ching(3) ~~fan(6)~~ ``f(a/)n(6)``_
         [[zan1 zong1 zing3 faan6-2 真贓正犯]]
         this thing proves him a thief;
     - _(4)'m (1)ch(i/) (1)chan (2)k(a/)_
@@ -326,7 +326,7 @@ P
   ++
 $$
 
-###+ 圳3 | _Chan(3)_ (zan3)
+###+ 圳3 | _Chan(3)_ [[zan3]]
 
 $$
 R
@@ -340,14 +340,14 @@ V
   ==
 F
   ==
-  - [[F2.54 圳 _Chun(3)_ (zeon3)]] 諄去聲水劣也
+  - (F2.54 圳 _Chun(3)_ (zeon3)) 諄去聲水劣也
   ==
 W
   ====
   - [[Page~36* 圳(3) _Chun(3)_ (zeon3); here normalised to _Chan(3)_ (zan3)]]
     ==
     - A rapid in a stream;
-    - _[chan](3) (2)hau_
+    - _~~chun(3)~~ ``chan(3)`` (2)hau_
         [[zan3 hau2 圳口]],
         a place where the water runs swiftly.
     ==
@@ -403,7 +403,7 @@ V
   ==
 F
   ==
-  - [[F1.84 振]] 振奮振動振作止也收也藏也
+  - (F1.84 振) 振奮振動振作止也收也藏也
   ==
 W
   ====
@@ -458,7 +458,7 @@ A
   ==
 F
   ==
-  - [[F1.84 賑]] 賙濟也
+  - (F1.84 賑) 賙濟也
   ==
 W
   ====
@@ -498,7 +498,7 @@ U
   U+93AD
 F
   ==
-  - [[F1.84 鎭]] 鎭守鎭壓鎭靜凡藩鎭山鎭皆取安重鎭壓之義
+  - (F1.84 鎭) 鎭守鎭壓鎭靜凡藩鎭山鎭皆取安重鎭壓之義
   ==
 W
   ====
@@ -509,7 +509,7 @@ W
   ====
 $$
 
-###+ 鎮3 | _Chan(3)_ (zan3)
+###+ 鎮3 | _Chan(3)_ [[zan3]]
 
 $$
 R
@@ -522,7 +522,7 @@ A
   ==
 F
   ==
-  - [[F1.84 鎭]] 鎭守鎭壓鎭靜凡藩鎭山鎭皆取安重鎭壓之義
+  - (F1.84 鎭) 鎭守鎭壓鎭靜凡藩鎭山鎭皆取安重鎭壓之義
   ==
 W
   ====
@@ -576,7 +576,7 @@ A
   ==
 F
   ==
-  - [[F1.84 震]] ::卦名動也起也[懼]也威也::
+  - (F1.84 震) ::卦名動也起也[懼]也威也::
   ==
 W
   ====
@@ -594,7 +594,7 @@ W
     - thundering, terrible, as a sound;
     - dire, awful;
     - to intimidate [[Kangxi: 震懼也]];
-    - to raise [[Kangxi: 起也]];
+    - to ~~raise~~ ``start`` [[Kangxi: 起也]];
     - to alarm;
     - _t(i/)(6) chan(3)_
         [[dei6 zan3 地震]]
@@ -605,8 +605,7 @@ W
     - _(1)wai chan(3)_
         [[wai1 zan3 威震]]
         to exhibit the majesty [of China];
-        [[these square brackets appear in the original text]]
-    - _chan(3) (1)[king]_
+    - _chan(3) ~~(1)keng~~ ``(1)king``_
         [[zan3 ging1 震驚]],
         terrified;
     - _chan(3) tung(6)_
@@ -617,7 +616,6 @@ W
 C
   ==
   - Fan Wan entry: Corrected ⿰亻瞿 to 懼.
-  - Williams' "to raise": Better rendered "to start".
   - Williams' 震驚: Corrected _(1)keng_ (geng1) to _(1)king_ (ging1).
   ==
 E
@@ -663,8 +661,8 @@ V
   ==
 F
   ==
-  - [[F1.85 陣]] 軍師行伍之列
-  - [[F1.85 陳]] 同上
+  - (F1.85 陣) 軍師行伍之列
+  - (F1.85 陳) 同上
   ==
 W
   ====
@@ -680,7 +678,7 @@ W
     - _chan(6) sh(e/)ung(6)_
         [[zan6 soeng6 陣上]]
         in the fight;
-    - _yat(7) chan(6) chan(6) (5)[l(a/)ng]_
+    - _yat(7) chan(6) chan(6) ~~(5)lang~~ ``(5)l(a/)ng``_
         [[jat1 zan6 zan6 laang5 一陣陣冷]],
         growing colder;
     - _(2)shai (5)n(u:) (4)yan chan(6)_
@@ -692,7 +690,7 @@ W
         silly;
     - _(2)p(a/)i chan(6)_
         [[baai2 zan6 擺陣]]
-        to post troops;
+        to ~~post troops~~ ``set up a formation``;
     - _(2)k(i/) (4)t(')i(u/) muk(9) chan(6)_
         [[gei2 tiu4 muk6 zan6 幾條木陣]]
         several wooden sleepers (or supports);
@@ -719,7 +717,6 @@ C
   - Williams' 一陣陣冷:
     Changed _(5)lang_ (lang5) to common reading _(5)l(a/)ng_ (laang5).
   - Williams' 使女人陣: Literally, "employ [the] women's formation".
-  - Williams' 擺陣: Better rendered "to set up a formation".
   - Williams' 陣勢: Figuratively, the situation of the battle.
   ==
 E
@@ -782,8 +779,8 @@ U
   U+9673
 F
   ==
-  - [[F1.85 陣]] 軍師行伍之列
-  - [[F1.85 陳]] 同上
+  - (F1.85 陣) 軍師行伍之列
+  - (F1.85 陳) 同上
   ==
 W
   ====

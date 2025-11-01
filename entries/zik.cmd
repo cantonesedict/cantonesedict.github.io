@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2025-08-17
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -84,7 +84,7 @@ U
   U+52E3
 F
   ==
-  - [[F1.74 勣]] 功也勞也
+  - (F1.74 勣) 功也勞也
   ==
 W
   ====
@@ -99,7 +99,7 @@ W
   ====
 $$
 
-###+ 即1 | _Tsik(7)_ (zik1)
+###+ 即1 | _Tsik(7)_ [[zik1]]
 
 $$
 R
@@ -116,18 +116,18 @@ V
   ==
 F
   ==
-  - [[F1.74 卽]] 就也山也則也
+  - (F1.74 卽) 就也山也則也
   ==
 W
   ====
   - [[Page~568 卽(7); here normalised to 即]]
     ==
-    - ~~Eating~~, about to eat [[Kangxi 卽: 卽猶就也就食也]];
+    - ~~Eating, about~~ ``Nearing`` to eat [[Kangxi 卽: 卽猶就也就食也]];
     - an adverb, now, immediately, soon, presently, when, then, forthwith;
     - now [[Kangxi 卽: 今也]];
     - near [[Kangxi 卽: 卽尼也, 尼近也]];
     - if, perhaps [[Kangxi 卽: 卽猶若也]];
-    - ~~this~~, that is, or, alias;
+    - ~~this,~~ that is, or, alias;
     - the snuff of a candle [[Kangxi 卽: 燭炬之燼曰卽]];
     - _tsik(7) tsik(7)_
         [[zik1 zik1 即即]]
@@ -144,13 +144,13 @@ W
     - _tsik(7) (1)kam_
         [[zik1 gam1 即今]],
         just now;
-    - _tsik(7) [(2)sz'] (1)k(a/)n_
+    - _tsik(7) ~~(4)sh(i/)~~ ``(2)sz'`` (1)k(a/)n_
         [[zik1 si2 gaan1 即使間]],
         supposing it to be;
     - _(4)n(i/)n (5)m(a/)n tsoi(6) tsik(7)_
         [[nin4 maan5 zoi6 zik1 年晚在即]]
         the end of the year is near;
-    - _tsik(7) tsik(7) (1)f(a/)n (4)[lai]_
+    - _tsik(7) tsik(7) (1)f(a/)n ~~(4)loi~~ ``(4)lai``_
         [[zik1 zik1 faan1 loi4 即即返嚟]],
         come back immediately;
     - _tsik(7) (4)sh(i/) (2)tang (2)kan_
@@ -163,8 +163,6 @@ W
   ====
 C
   ==
-  - Williams' "Eating": 《說文》卽食也 is unhelpful.
-  - Williams' "about to eat": Better rendered "nearing to eat".
   - Williams' 即使間: Corrected _(4)sh(i/)_ (si4) to _(2)sz'_ (si2).
   - Williams' 即即返嚟: Corrected _(4)loi_ (loi4) to _(4)lai_ (lai4).
   ==
@@ -184,7 +182,7 @@ U
   U+537D
 F
   ==
-  - [[F1.74 卽]] 就也山也則也
+  - (F1.74 卽) 就也山也則也
   ==
 W
   ====
@@ -195,7 +193,7 @@ W
   ====
 $$
 
-###+ 唧1 | _Tsik(7)_ (zik1)
+###+ 唧1 | _Tsik(7)_ [[zik1]]
 
 $$
 R
@@ -208,7 +206,7 @@ A
   ==
 F
   ==
-  - [[F1.74 喞]] 啾喞衆聲又虫鳴
+  - (F1.74 喞) 啾喞衆聲又虫鳴
   ==
 W
   ====
@@ -259,7 +257,7 @@ U
   U+559E
 F
   ==
-  - [[F1.74 喞]] 啾喞衆聲又虫鳴
+  - (F1.74 喞) 啾喞衆聲又虫鳴
   ==
 W
   ====
@@ -283,7 +281,7 @@ U
   U+5616
 F
   ==
-  - [[F1.75 嘖]] 大呼聲
+  - (F1.75 嘖) 大呼聲
   ==
 W
   ====
@@ -315,7 +313,7 @@ V
   ==
 F
   ==
-  - [[F1.75 堲]] ::疾也書經堲[讒]說::
+  - (F1.75 堲) ::疾也書經堲[讒]說::
   ==
 W
   ====
@@ -355,7 +353,7 @@ V
   ==
 F
   ==
-  - [[F1.75 幘]] 巾幘
+  - (F1.75 幘) 巾幘
   ==
 W
   ====
@@ -402,7 +400,7 @@ S
   ==
 $$
 
-### [畟]1 | _Tsik(7)_ [[zik1]]
+### ~~{？=⿳田儿又}~~``畟``1 | _Tsik(7)_ [[zik1]]
 
 $$
 R
@@ -415,14 +413,14 @@ V
   ==
 F
   ==
-  - [[F1.75 ::[畟]::]] ::田器之[尖]利者::
+  - (F1.75 ::[畟]::) ::田器之[尖]利者::
   ==
 W
   ====
-  - [[Page~569 ::[畟](7)::]]
+  - [[Page~569 ::~~{？=⿳田儿又}~~``畟``(7)::]]
     ==
     - ~~A~~ sharp ~~agricultural instrument~~ like a mattoc [[Kangxi: 治稼畟畟進也, 畟畟耜也, 言嚴利]];
-    - ~~to attend to husbandry~~.
+    - ~~to attend to husbandry.~~
     ==
   ====
 C
@@ -433,7 +431,6 @@ C
     it is without explanation
     (it simply cross-references _ch(')ik(7)_ (cik1) as 又初力切).
   - Fan Wan entry: Corrected headword ⿳由儿夂 to 畟, and corrected 犬 to 尖.
-  - Williams misprints 畟 as ⿳田儿又; here corrected.
   ==
 $$
 
@@ -450,7 +447,7 @@ V
   ==
 F
   ==
-  - [[F1.74 磧]] 水渚有石者
+  - (F1.74 磧) 水渚有石者
   ==
 W
   ====
@@ -475,7 +472,7 @@ U
   U+7A37
 F
   ==
-  - [[F1.74 稷]] ::[黍]稷社稷又舜臣名::
+  - (F1.74 稷) ::[黍]稷社稷又舜臣名::
   ==
 W
   ====
@@ -483,7 +480,7 @@ W
     ==
     - Panicled millet _(Milium)_, one of the five grains [[Kangxi: {𪗉=⿵齊禾}也五穀之長]];
     - quick, rapid [[Kangxi: 疾也]];
-    - the god of agriculture [[Kangxi: 神名 etc.]];
+    - the god of ~~agriculture~~ ``grains`` [[Kangxi: 神名 etc.]];
     - _(5)sh(e/) tsik(7)_
         [[se5 zik1 社稷]]
         the Ceres of the Chinese;
@@ -499,7 +496,6 @@ W
 C
   ==
   - Fan Wan entry: Corrected ⿱⿻一火氺 to 黍.
-  - Williams' "god of agriculture": Better rendered "god of grains".
   - Williams' 社稷: Strictly two gods, one of soil (社) and one of grains (稷).
   - Williams' 后稷: Not quite a god, though a legendary figure.
   - Williams' 下稷: This is an alternative spelling of 下昃,
@@ -525,7 +521,7 @@ V
   ==
 F
   ==
-  - [[F1.74 積]] 聚也蓄也累也
+  - (F1.74 積) 聚也蓄也累也
   ==
 W
   ====
@@ -573,7 +569,7 @@ A
   ==
 F
   ==
-  - [[F1.74 績]] 襞績紡績又功績
+  - (F1.74 績) 襞績紡績又功績
   ==
 W
   ====
@@ -624,7 +620,7 @@ V
   ==
 F
   ==
-  - [[F1.76 織]] 扣結布帛之總名
+  - (F1.76 織) 扣結布帛之總名
   ==
 W
   ====
@@ -644,7 +640,7 @@ W
     - _chik(7) (5)n(u:)_
         [[zik1 neoi5-2 織女]],
         the star Wega _α_ in Lyra;
-    - _chik(7) p(o\)[(3)]_
+    - _chik(7) ~~p(o\)(6)~~ ``p(o\)(3)``_
         [[zik1 bou3 織布]]
         to weave cloth.
     ==
@@ -668,7 +664,7 @@ U
   U+8077
 F
   ==
-  - [[F1.76 職]] 官職品秩也職任職掌
+  - (F1.76 職) 官職品秩也職任職掌
   ==
 W
   ====
@@ -742,9 +738,9 @@ A
   ==
 F
   ==
-  - [[F1.74 蹟]] 足蹟
-  - [[F1.74 跡]] 形跡踪跡
-  - [[F1.74 迹]] 同上
+  - (F1.74 蹟) 足蹟
+  - (F1.74 跡) 形跡踪跡
+  - (F1.74 迹) 同上
   ==
 W
   ====
@@ -822,9 +818,9 @@ U
   U+8E5F
 F
   ==
-  - [[F1.74 蹟]] 足蹟
-  - [[F1.74 跡]] 形跡踪跡
-  - [[F1.74 迹]] 同上
+  - (F1.74 蹟) 足蹟
+  - (F1.74 跡) 形跡踪跡
+  - (F1.74 迹) 同上
   ==
 W
   ====
@@ -844,9 +840,9 @@ U
   U+8FF9
 F
   ==
-  - [[F1.74 蹟]] 足蹟
-  - [[F1.74 跡]] 形跡踪跡
-  - [[F1.74 迹]] 同上
+  - (F1.74 蹟) 足蹟
+  - (F1.74 跡) 形跡踪跡
+  - (F1.74 迹) 同上
   ==
 W
   ====
@@ -866,7 +862,7 @@ U
   U+965F
 F
   ==
-  - [[F1.76 ::[陟]::]] 我也進也
+  - (F1.76 ::[陟]::) 我也進也
   ==
 W
   ====
@@ -891,7 +887,7 @@ C
   ==
 $$
 
-###+ 鯽1 | _Tsik(7)_ (zik1)
+###+ 鯽1 | _Tsik(7)_ [[zik1]]
 
 $$
 R
@@ -939,7 +935,7 @@ U
   U+7620
 F
   ==
-  - [[F1.75 瘠]] 人瘦曰瘠
+  - (F1.75 瘠) 人瘦曰瘠
   ==
 W
   ====
@@ -963,7 +959,7 @@ U
   U+810A
 F
   ==
-  - [[F1.74 脊]] 脊骨
+  - (F1.74 脊) 脊骨
   ==
 W
   ====
@@ -987,7 +983,7 @@ U
   U+8E50
 F
   ==
-  - [[F1.74 蹐]] 局蹐累足也
+  - (F1.74 蹐) 局蹐累足也
   ==
 W
   ====
@@ -1011,7 +1007,7 @@ U
   U+96BB
 F
   ==
-  - [[F1.78 隻]] 件也
+  - (F1.78 隻) 件也
   ==
 W
   ====
@@ -1035,7 +1031,7 @@ U
   U+9DBA
 F
   ==
-  - [[F1.75 鶺]] 鶺鴒鳥名
+  - (F1.75 鶺) 鶺鴒鳥名
   ==
 W
   ====
@@ -1086,7 +1082,7 @@ U
   U+5024
 F
   ==
-  - [[F1.78 値]] 適也遇也又音滯
+  - (F1.78 値) 適也遇也又音滯
   ==
 W
   ====
@@ -1101,7 +1097,7 @@ S
   ==
 $$
 
-###+ 值6 | _Chik(9)_ (zik6)
+###+ 值6 | _Chik(9)_ [[zik6]]
 
 $$
 R
@@ -1119,7 +1115,7 @@ V
   ==
 F
   ==
-  - [[F1.78 値]] 適也遇也又音滯
+  - (F1.78 値) 適也遇也又音滯
   ==
 W
   ====
@@ -1127,7 +1123,7 @@ W
     ==
     - [[...]];
     - to occur, to meet with, to happen [[Kangxi 値: 又遇也]];
-    - _shik(7) [chik(9)]_
+    - _shik(7) ~~ch(i/)(6)~~ ``chik(9)``_
         [[sik1 zik6 適值]]
         it so happened.
     ==
@@ -1136,7 +1132,7 @@ W
     - [[...]];
     - price of;
     - [[...]];
-    - used for the ~~three~~ next [[値, ~~殖, 植~~]];
+    - used for the ~~three~~ next [[値~~, 殖, 植~~]];
     - [[...]].
     ==
   - [[Page~13* 値(9); here normalised to 值]]
@@ -1193,7 +1189,7 @@ H
   depending on the font.
 F
   ==
-  - [[F1.78 埴]] 土之黏膩者
+  - (F1.78 埴) 土之黏膩者
   ==
 W
   ====
@@ -1219,7 +1215,7 @@ U
   U+5915
 F
   ==
-  - [[F1.78 夕]] 朝夕
+  - (F1.78 夕) 朝夕
   ==
 W
   ====
@@ -1256,7 +1252,7 @@ U
   U+5BC2
 F
   ==
-  - [[F1.78 寂]] 寂寞幽靜也
+  - (F1.78 寂) 寂寞幽靜也
   ==
 W
   ====
@@ -1279,7 +1275,7 @@ C
   ==
 $$
 
-### [席]6 | _Tsik(9)_ [[zik6]]
+### ~~蓆~~``席``6 | _Tsik(9)_ [[zik6]]
 
 $$
 R
@@ -1288,8 +1284,8 @@ U
   U+5E2D
 F
   ==
-  - [[F1.78 席]] 几席薦席草席又越席天子之旗
-  - [[F1.78 蓆]] 草蓆同上
+  - (F1.78 席) 几席薦席草席又越席天子之旗
+  - (F1.78 蓆) 草蓆同上
   ==
 W
   ====
@@ -1320,7 +1316,7 @@ W
         to spread an entertainment;
     - _(4)m(a/)i tsik(9)_
         [[maai4 zik6 埋席]]
-        to sit at table;
+        to ~~sit at table~~ ``draw near and take one's seat``;
     - _tsik(9) t(i/)(6) (4)(i/) tso(6)_
         [[zik6 dei6 ji4 zo6 席地而坐]]
         to spread a feast and sit down;
@@ -1338,7 +1334,6 @@ C
     Which is easy to do, as 席 is interchanged with 蓆 for the "mat" sense.
   - Williams' "affection for": Whilst the phrase 席寵 exists,
     the meaning of 席 therein is still "depend" or "rely".
-  - Williams' 埋席: Strictly, to draw near and take one's seat at the table.
   ==
 S
   ==
@@ -1362,7 +1357,7 @@ V
   ==
 F
   ==
-  - [[F1.78 植]] ::立也置也[栽]也種也::
+  - (F1.78 植) ::立也置也[栽]也種也::
   ==
 W
   ====
@@ -1418,14 +1413,14 @@ H
   depending on the font.
 F
   ==
-  - [[F1.78 殖]] 貨殖生殖
+  - (F1.78 殖) 貨殖生殖
   ==
 W
   ====
   - [[Page~13* 殖(9)]]
     ==
-    - To grow, to increase, to flourish [[Kangxi: 生也, 蕃也長也]][;]
-    - to enrich, to amass[,] as money [[Kangxi: 興生財利曰殖]];
+    - To grow, to increase, to flourish [[Kangxi: 生也, 蕃也長也]]~~,~~``;``
+    - to enrich, to amass~~;~~``,`` as money [[Kangxi: 興生財利曰殖]];
     - to plant [[Kangxi: 種也]];
     - ~~to raise the price of;~~
     - gain;
@@ -1436,16 +1431,12 @@ W
         to grow, to increase;
     - _chik(9) fo(3)_
         [[zik6 fo3 殖貨]]
-        ~~to raise the price;~~
+        to ~~raise the price~~ ``accumulate commodities``;
     - _(2)ch(e/)ung chik(9) m(a/)n(6) mat(9)_
         [[zoeng2 zik6 maan6 mat6 長殖萬物]]
         nature flourishes.
     ==
   ====
-C
-  ==
-  - Williams' 殖貨: Not to raise the price, but to accumulate commodities.
-  ==
 P
   ++
   1. To cultivate (Kangxi: 封殖也).
@@ -1463,7 +1454,7 @@ U
   U+6C50
 F
   ==
-  - [[F1.78 汐]] 潮汐朝曰潮夕曰汐
+  - (F1.78 汐) 潮汐朝曰潮夕曰汐
   ==
 W
   ====
@@ -1488,7 +1479,7 @@ V
   ==
 F
   ==
-  - [[F1.78 湜]] ::水淸見[底]也::
+  - (F1.78 湜) ::水淸見[底]也::
   ==
 W
   ====
@@ -1521,13 +1512,13 @@ V
   ==
 F
   ==
-  - [[F1.78 直]] 正直不偏開也伸也常也但也
+  - (F1.78 直) 正直不偏開也伸也常也但也
   ==
 W
   ====
   - [[Page~13* 直(9)]]
     ==
-    - To look ahead [[Kangxi: 正見也]];
+    - To look ``straight`` ahead [[Kangxi: 正見也]];
     - straight, direct [[Kangxi: 正也, 不曲也]];
     - straightforward, upright, true;
     - just, exactly;
@@ -1576,10 +1567,6 @@ W
     [[Otherwise, an alternative form of 值. **See $值zik6 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - Williams' "To look ahead": Better rendered "To look straight ahead".
-  ==
 P
   ++
   1. Smooth (Kangxi: 順也).
@@ -1629,7 +1616,7 @@ V
   ==
 F
   ==
-  - [[F1.78 稙]] 早種曰稙
+  - (F1.78 稙) 早種曰稙
   ==
 W
   ====
@@ -1651,7 +1638,7 @@ U
   U+7A78
 F
   ==
-  - [[F1.78 穸]] 窀穸墓穴幽堂也穸夜也言穴中厚暗如長夜也
+  - (F1.78 穸) 窀穸墓穴幽堂也穸夜也言穴中厚暗如長夜也
   ==
 W
   ====
@@ -1674,7 +1661,7 @@ C
   ==
 $$
 
-### [籍]6 | _Tsik(9)_ [[zik6]]
+### ~~{？=⿱𥫗⿰耒⿱龷月}~~``籍``6 | _Tsik(9)_ [[zik6]]
 
 $$
 R
@@ -1687,13 +1674,13 @@ A
   ==
 F
   ==
-  - [[F1.78 籍]] 書籍典籍又册籍也
+  - (F1.78 籍) 書籍典籍又册籍也
   ==
 W
   ====
-  - [[Page~570 ::[籍](9)::]]
+  - [[Page~570 ::~~{？=⿱𥫗⿰耒⿱龷月}~~``籍``(9)::]]
     ==
-    - A book for records [[Kangxi: 書籍]], ~~a tablet~~;
+    - A book for records [[Kangxi: 書籍]]~~, a tablet~~;
     - a list, a register of the people [[Kangxi: 戸籍]];
     - the place for enroling, one's native place;
     - _(1)sh(u:) tsik(9)_
@@ -1722,7 +1709,6 @@ W
   ====
 C
   ==
-  - Williams misprints 籍 as ⿱𥫗⿰耒⿱龷月; here corrected.
   - Williams' 雙籍: Now 雙重國籍 for "dual nationality".
   ==
 P
@@ -1732,7 +1718,7 @@ P
   ++
 $$
 
-### [蓆]6 | _Tsik(9)_ [[zik6]]
+### ~~席~~``蓆``6 | _Tsik(9)_ [[zik6]]
 
 $$
 R
@@ -1749,8 +1735,8 @@ V
   ==
 F
   ==
-  - [[F1.78 席]] 几席薦席草席又越席天子之旗
-  - [[F1.78 蓆]] 草蓆同上
+  - (F1.78 席) 几席薦席草席又越席天子之旗
+  - (F1.78 蓆) 草蓆同上
   ==
 W
   ====
@@ -1813,11 +1799,11 @@ V
   ==
 F
   ==
-  - [[F1.78 藉]] 賴也借也
+  - (F1.78 藉) 賴也借也
   ==
 W
   ====
-  - [[Page~570 ::[籍](9)::; here normalised to 藉]]
+  - [[Page~570 ::~~{？=⿱𥫗⿰耒⿱龷月}~~``籍``(9)::; here normalised to 藉]]
     ==
     - [[...]];
     - _(4)long tsik(9)_
@@ -1834,9 +1820,9 @@ W
     - to borrow from, to avail of, to make a means;
     - by;
     - in all which senses it is often read _ts(e/)(3)_ [[ze3]];
-    - in confusion [[Kangxi: 狼藉離披雜亂貌]], ~~disturbed~~;
+    - in confusion [[Kangxi: 狼藉離披雜亂貌]]~~, disturbed~~;
     - liberal, generous [[Kangxi: 寬博有餘也]];
-    - to lead, as by a string [[Kangxi: 藉繩也]];
+    - to lead, as by a ~~string~~ ``rope`` [[Kangxi: 藉繩也]];
     - _tsik(9) fuk(7)_
         [[zik6 fuk1 藉福]]
         by your kindness, I am well;
@@ -1859,12 +1845,10 @@ W
   ====
 C
   ==
-  - Williams misprints 籍 as ⿱𥫗⿰耒⿱龷月; here corrected.
   - Williams' "to assist, to help": This is a misreading of Kangxi 助者藉也.
     This is an example from Mencius, where 藉也 "borrowing/dependence"
     is used to explain the specific instance of 助 in the earlier 殷人七十而助.
     It does *not* define 藉 as "assist/help".
-  - Williams' "by a string": Better rendered "by a rope".
   ==
 P
   ++
@@ -1872,7 +1856,7 @@ P
   ++
 $$
 
-###+ 蟄6 | _Chik(9)_ (zik6)
+###+ 蟄6 | _Chik(9)_ [[zik6]]
 
 $$.
 R

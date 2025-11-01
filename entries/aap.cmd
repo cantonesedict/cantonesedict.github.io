@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aap
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -60,7 +60,7 @@ U
   U+62BC
 F
   ==
-  - [[F2.65 押]] 管押簽押
+  - (F2.65 押) 管押簽押
   ==
 W
   ====
@@ -89,7 +89,7 @@ V
   ==
 F
   ==
-  - [[F2.65 鴨]] 家鶩又名田鳧
+  - (F2.65 鴨) 家鶩又名田鳧
   ==
 W
   ====

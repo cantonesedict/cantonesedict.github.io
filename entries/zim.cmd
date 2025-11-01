@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zim
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -76,7 +76,7 @@ V
   ==
 F
   ==
-  - [[F2.47 占]] 騐也測也候也
+  - (F2.47 占) 騐也測也候也
   ==
 W
   ====
@@ -101,7 +101,7 @@ W
     - _(1)ch(i/)m hau(6)_
         [[zim1 hau6 占候]]
         to foretell seasons;
-    - _(1)ch(i/)m [shi(u/)](6)_
+    - _(1)ch(i/)m ~~chi(u/)(6)~~ ``shi(u/)(6)``_
         [[zim1 siu6 占兆]]
         to see signs, to foretell by signs.
     ==
@@ -136,7 +136,7 @@ U
   U+5C16
 F
   ==
-  - [[F2.48 尖]] 小也
+  - (F2.48 尖) 小也
   ==
 W
   ====
@@ -197,7 +197,7 @@ V
   ==
 F
   ==
-  - [[F2.47 幨]] ::[帖]也::
+  - (F2.47 幨) ::[帖]也::
   ==
 W
   ====
@@ -234,7 +234,7 @@ A
   ==
 F
   ==
-  - [[F2.47 沾]] 漬也濡也又沾恩
+  - (F2.47 沾) 漬也濡也又沾恩
   ==
 W
   ====
@@ -253,7 +253,7 @@ W
     - _(2)f(u/) lok(9) (1)kwan (1)ch(i/)m_
         [[fu2 lok6 gwan1 zim1 苦樂均沾]],
         sorrow and joy equally bestowed;
-    - _(1)ch(i/)m (1)yan ch(a/)k[(9)]_
+    - _(1)ch(i/)m (1)yan ~~ch(a/)k(8)~~ ``ch(a/)k(9)``_
         [[zim1 jan1 zaak6 沾恩澤]]
         received benefits;
     - _(1)ch(i/)m peng(6)_
@@ -262,7 +262,7 @@ W
     - _(1)ch(i/)m (5)(i/)m shai(3) (4)ts(')ing_
         [[zim1 jim5 sai3 cing4 沾染世情]],
         to be corrupted by bad influences;
-    - _(5)n(i/) (1)ch(i/)m ch(e/)uk[(9)] (5)yau tik(7) (4)'m (2)h(o\) (4)p(')(i/) h(i/)(3)_
+    - _(5)n(i/) (1)ch(i/)m ~~ch(e/)uk(8)~~ ``ch(e/)uk(9)`` (5)yau tik(7) (4)'m (2)h(o\) (4)p(')(i/) h(i/)(3)_
         [[nei5 zim1 zoek6 jau5 dik1 m4 hou2 pei4 hei3 你沾着有滴唔好脾氣]]
         you have contracted a bad temper.
     ==
@@ -284,7 +284,7 @@ C
   ==
 $$
 
-###+ 漸1 | _(1)Ts(i/)m_ (zim1)
+###+ 漸1 | _(1)Ts(i/)m_ [[zim1]]
 
 $$
 R
@@ -293,7 +293,7 @@ U
   U+6F38
 F
   ==
-  - [[F2.50 漸 _Ts(i/)m(6)_ (zim6)]] 次也徐也稍也漬也
+  - (F2.50 漸 _Ts(i/)m(6)_ (zim6)) 次也徐也稍也漬也
   ==
 W
   ====
@@ -327,7 +327,7 @@ A
   ==
 F
   ==
-  - [[F2.47 瞻]] 瞻仰
+  - (F2.47 瞻) 瞻仰
   ==
 W
   ====
@@ -375,8 +375,8 @@ V
   ==
 F
   ==
-  - [[F2.47 粘]] ？也
-  - [[F2.47 秥]] 秥米
+  - (F2.47 粘) ？也
+  - (F2.47 秥) 秥米
   ==
 W
   ====
@@ -421,7 +421,7 @@ V
   ==
 F
   ==
-  - [[F2.47 襜]] 整也
+  - (F2.47 襜) 整也
   ==
 W
   ====
@@ -466,7 +466,7 @@ V
   ==
 F
   ==
-  - [[F2.47 ::[覘]::]] 闚視也
+  - (F2.47 ::[覘]::) 闚視也
   ==
 W
   ====
@@ -496,8 +496,8 @@ U
   U+8A79
 F
   ==
-  - [[F2.47 詹]] 姓亦竹名
-  - [[F2.47 ::[{𦧕=⿸厃⿱儿舌}]::]] 同上
+  - (F2.47 詹) 姓亦竹名
+  - (F2.47 ::[{𦧕=⿸厃⿱儿舌}]::) 同上
   ==
 W
   ====
@@ -512,7 +512,7 @@ W
         loquacious;
     - _(2)kan (1)ch(i/)m_
         [[gan2 zim1 謹詹]],
-        ~~carefully provide~~.
+        carefully ~~provide~~ ``select``.
     ==
     --
     [[Otherwise, an alternative form of 瞻. **See $瞻zim1 for the canonical entry.**]]
@@ -521,7 +521,6 @@ W
 C
   ==
   - Fan Wan entry: Corrected headword ⿸厃⿳八土口 to {𦧕=⿸厃⿱儿舌}.
-  - Williams' 謹詹: Not to provide, but to set/choose.
   ==
 P
   ++
@@ -538,7 +537,7 @@ U
   U+8B6B
 F
   ==
-  - [[F2.47 譫]] 多言也
+  - (F2.47 譫) 多言也
   ==
 W
   ====
@@ -573,7 +572,7 @@ V
   ==
 F
   ==
-  - [[F2.47 䠨]] 仰視
+  - (F2.47 䠨) 仰視
   ==
 W
   ====
@@ -602,7 +601,7 @@ U
   U+9711
 F
   ==
-  - [[F2.47 霑]] 霑足雨之多也
+  - (F2.47 霑) 霑足雨之多也
   ==
 W
   ====
@@ -636,8 +635,8 @@ U
   U+9ECF
 F
   ==
-  - [[F2.47 粘]] ？也
-  - [[F2.47 秥]] 秥米
+  - (F2.47 粘) ？也
+  - (F2.47 秥) 秥米
   ==
 W
   ====
@@ -682,7 +681,7 @@ U
   U+4F54
 F
   ==
-  - [[F2.50 占]] ::霸占擅[據]也::
+  - (F2.50 占) ::霸占擅[據]也::
   ==
 W
   ====
@@ -706,7 +705,7 @@ A
   ==
 F
   ==
-  - [[F2.50 占]] ::霸占擅[據]也::
+  - (F2.50 占) ::霸占擅[據]也::
   ==
 W
   ====
@@ -773,7 +772,7 @@ V
   ==
 F
   ==
-  - [[F2.50 漸]] 次也徐也稍也漬也
+  - (F2.50 漸) 次也徐也稍也漬也
   ==
 W
   ====

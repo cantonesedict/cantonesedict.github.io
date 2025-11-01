@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cit
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -63,7 +63,7 @@ U
   U+5207
 F
   ==
-  - [[F1.26 切]] 近也要也
+  - (F1.26 切) 近也要也
   ==
 W
   ====
@@ -118,6 +118,9 @@ C
   ==
 P
   ++
+  1. Used in 反切 (back-dissection) or alone, referring to the method of indicating
+     (Middle) Chinese pronunciation by two characters,
+     marking the initial (consonant) and the final (rime) respectively.
   1. To bite or gnash (the teeth).
   1. Close (in the sense of near).
   ++
@@ -161,7 +164,7 @@ H
   depending on the font.
 F
   ==
-  - [[F1.26 徹]] 通明也透也
+  - (F1.26 徹) 通明也透也
   ==
 W
   ====
@@ -212,7 +215,7 @@ W
     - to take, to choose out, to raise up [[Kangxi: 揭也取也]];
     - to select;
     - to pull, to draw [[Kangxi: 挽也]];
-    - _[ch(')(i/)t(8)] (1)ts(')(i/)m_
+    - _~~chai(3)~~ ``ch(')(i/)t(8)`` (1)ts(')(i/)m_
         [[cit3 cim1 掣籤]],
         to draw lots;
     - [[...]].
@@ -243,7 +246,7 @@ H
   depending on the font.
 F
   ==
-  - [[F1.26 撤]] 抽除也握也
+  - (F1.26 撤) 抽除也握也
   ==
 W
   ====
@@ -308,7 +311,7 @@ U
   U+8A2D
 F
   ==
-  - [[F1.26 設]] 置主也陳設也
+  - (F1.26 設) 置主也陳設也
   ==
 W
   ====
@@ -372,7 +375,7 @@ H
   depending on the font.
 F
   ==
-  - [[F1.26 轍]] 車輪
+  - (F1.26 轍) 車輪
   ==
 W
   ====

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aan
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -65,7 +65,7 @@ V
   ==
 F
   ==
-  - [[F2.70 晏]] ::日[旰]也晚也又安也::
+  - (F2.70 晏) ::日[旰]也晚也又安也::
   ==
 W
   ====
@@ -166,7 +166,7 @@ V
   ==
 F
   ==
-  - [[F2.70 鷃]] ::[鳸]鷃鳥名::
+  - (F2.70 鷃) ::[鳸]鷃鳥名::
   ==
 W
   ====

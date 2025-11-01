@@ -1,6 +1,6 @@
 :root {
   --body-padding-horizontal: 1.3rem;
-  --header-nav-height: 2.5rem;
+  --header-nav-height: 2.4rem;
   --html-max-width: 44rem;
   --modern-colour: crimson;
   --modern-colour-mark: firebrick;
@@ -52,7 +52,7 @@ body {
   padding: var(--header-nav-height) var(--body-padding-horizontal) 1.3rem;
 }
 body > nav, .radicals nav {
-  font-size: 1.3rem;
+  font-size: 1.15rem;
 }
 body > nav li {
   margin: 0.33em 0;
@@ -78,6 +78,12 @@ dd ul {
   margin-top: 0;
   margin-bottom: 0.35em;
   padding-left: 1.3em;
+}
+
+
+del {
+  text-decoration-color: var(--modern-colour);
+  text-decoration-thickness: 2px;
 }
 
 
@@ -113,6 +119,10 @@ footer {
 }
 footer.modern {
   border-top: 2px solid var(--modern-colour);
+}
+
+h1 {
+  font-size: 1.8rem;
 }
 
 h2 {
@@ -184,6 +194,9 @@ li[id^='cantonese-'] > ol > li {
 
 
 ins {
+  color: var(--modern-colour);
+}
+ins.modern {
   text-decoration: none;
 }
 
@@ -198,12 +211,6 @@ img {
 
 mark {
   background: #ffb;
-}
-
-
-s {
-  text-decoration-color: var(--modern-colour);
-  text-decoration-thickness: 2px;
 }
 
 

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cung
-* %date-modified --> 2025-09-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -94,18 +94,18 @@ A
   ==
 F
   ==
-  - [[F1.58 充]] 滿也塞也實也
+  - (F1.58 充) 滿也塞也實也
   ==
 W
   ====
   - [[Page~40* (1)充(1){𠑽=⿱亠兄}]]
     ==
-    - To fill [[Kangxi 充: 實之也]], to satiate [[Kangxi 充: ::[...]大充[...]過飽也::]], ~~to extend~~;
+    - To fill [[Kangxi 充: 實之也]], to satiate [[Kangxi 充: ::[...]大充[...]過飽也::]]~~, to extend~~;
     - to carry out, to continue [[Kangxi 充: 行也滿也]];
     - to act, to fill an office [[Kangxi 充: 充當也]];
     - to stop up, to stuff [[Kangxi 充: 塞也]];
     - sufficient [[Kangxi 充: 備也]];
-    - fine [[Kangxi 充: 美也]], ~~long~~, high [[Kangxi 充: 長也高也]];
+    - fine [[Kangxi 充: 美也]], ~~long~~ ``grown``, high [[Kangxi 充: 長也高也]];
     - _(1)ch(')ung (2)k(a/) fo(3)_
         [[cung1 gaa2 fo3 充假貨]]
         to foist in a poor quality of goods;
@@ -125,7 +125,6 @@ W
   ====
 C
   ==
-  - Williams' "long": Better rendered "grown".
   - Williams' 充實: Also "fulfilling" or "rich".
   ==
 P
@@ -143,9 +142,9 @@ U
   U+51B2
 F
   ==
-  - [[F1.58 ::[沖]::]] ::和也又[相]沖::
-  - [[F1.58 冲]] 幼小曰冲年又相冲也
-  - [[F1.58 沖]] 搖也
+  - (F1.58 ::[沖]::) ::和也又[相]沖::
+  - (F1.58 冲) 幼小曰冲年又相冲也
+  - (F1.58 沖) 搖也
   ==
 W
   ====
@@ -164,7 +163,7 @@ C
   ==
 $$
 
-###+ 匆1 | _(1)Ts(')ung_ (cung1)
+###+ 匆1 | _(1)Ts(')ung_ [[cung1]]
 
 $$
 R
@@ -179,8 +178,8 @@ A
   ==
 F
   ==
-  - [[F1.58 ::[怱]::]] ::[怱]忙急遽也::
-  - [[F1.58 ::[匆]::]] ::[匆匆]喜色::
+  - (F1.58 ::[怱]::) ::[怱]忙急遽也::
+  - (F1.58 ::[匆]::) ::[匆匆]喜色::
   ==
 W
   ====
@@ -226,7 +225,7 @@ C
   ==
 $$
 
-###+ 怱1 | _(1)Ts(')ung_ (cung1)
+###+ 怱1 | _(1)Ts(')ung_ [[cung1]]
 
 $$.
 R
@@ -235,8 +234,8 @@ U
   U+6031
 F
   ==
-  - [[F1.58 ::[怱]::]] ::[怱]忙急遽也::
-  - [[F1.58 ::[匆]::]] ::[匆匆]喜色::
+  - (F1.58 ::[怱]::) ::[怱]忙急遽也::
+  - (F1.58 ::[匆]::) ::[匆匆]喜色::
   ==
 W
   [[Not present]]
@@ -262,7 +261,7 @@ H
   depending on the font.
 F
   ==
-  - [[F1.58 㤝]] 心動貌
+  - (F1.58 㤝) 心動貌
   ==
 W
   ====
@@ -307,7 +306,7 @@ U
   U+61A7
 F
   ==
-  - [[F1.58 憧]] 意不定也
+  - (F1.58 憧) 意不定也
   ==
 W
   ====
@@ -323,7 +322,7 @@ S
   ==
 $$
 
-###+ 樅1 | _(1)Ts(')ung_ (cung1)
+###+ 樅1 | _(1)Ts(')ung_ [[cung1]]
 
 $$
 R
@@ -336,7 +335,7 @@ V
   ==
 F
   ==
-  - [[F1.58 樅 _(1)Tsung_ (zung1)]] ::植木以懸[鐘]磬者::
+  - (F1.58 樅 _(1)Tsung_ (zung1)) ::植木以懸[鐘]磬者::
   ==
 W
   ====
@@ -378,9 +377,9 @@ V
   ==
 F
   ==
-  - [[F1.58 ::[沖]::]] ::和也又[相]沖::
-  - [[F1.58 冲]] 幼小曰冲年又相冲也
-  - [[F1.58 沖]] 搖也
+  - (F1.58 ::[沖]::) ::和也又[相]沖::
+  - (F1.58 冲) 幼小曰冲年又相冲也
+  - (F1.58 沖) 搖也
   ==
 W
   ====
@@ -433,7 +432,7 @@ U
   U+6D8C
 F
   ==
-  - [[F1.58 涌]] ::涌[{𣽸=⿰氵窖}]小海者也::
+  - (F1.58 涌) ::涌[{𣽸=⿰氵窖}]小海者也::
   ==
 W
   ====
@@ -467,7 +466,7 @@ U
   U+249DA
 F
   ==
-  - [[F1.58 ::[{𤧚=⿰𤣩怱}]::]] 石似玉
+  - (F1.58 ::[{𤧚=⿰𤣩怱}]::) 石似玉
   ==
 W
   ====
@@ -482,7 +481,7 @@ C
   ==
 $$
 
-###+ 璁1 | _(1)Ts(')ung_ (cung1)
+###+ 璁1 | _(1)Ts(')ung_ [[cung1]]
 
 $$
 R
@@ -498,7 +497,7 @@ A
   ==
 F
   ==
-  - [[F1.58 ::[{𤧚=⿰𤣩怱}]::]] 石似玉
+  - (F1.58 ::[{𤧚=⿰𤣩怱}]::) 石似玉
   ==
 W
   ====
@@ -513,7 +512,7 @@ C
   ==
 $$
 
-###+ 盅1 | _(1)Ch(')ung_ (cung1)
+###+ 盅1 | _(1)Ch(')ung_ [[cung1]]
 
 $$
 R
@@ -564,7 +563,7 @@ V
   ==
 F
   ==
-  - [[F1.58 ::[罿]::]] ::[掩]兔之車::
+  - (F1.58 ::[罿]::) ::[掩]兔之車::
   ==
 W
   ====
@@ -597,7 +596,7 @@ V
   ==
 F
   ==
-  - [[F1.58 翀]] 直飛上也
+  - (F1.58 翀) 直飛上也
   ==
 W
   ====
@@ -626,8 +625,8 @@ U
   U+8066
 F
   ==
-  - [[F1.58 ::[聦]::]] 察也明也耳力也
-  - [[F1.58 聰]] 同上
+  - (F1.58 ::[聦]::) 察也明也耳力也
+  - (F1.58 聰) 同上
   ==
 W
   ====
@@ -660,8 +659,8 @@ A
   ==
 F
   ==
-  - [[F1.58 ::[聦]::]] 察也明也耳力也
-  - [[F1.58 聰]] 同上
+  - (F1.58 ::[聦]::) 察也明也耳力也
+  - (F1.58 聰) 同上
   ==
 W
   ====
@@ -712,7 +711,7 @@ W
   ====
 $$
 
-###+ 蔥1 | _(1)Ts(')ung_ (cung1)
+###+ 蔥1 | _(1)Ts(')ung_ [[cung1]]
 
 $$
 R
@@ -732,7 +731,7 @@ W
   ====
   - [[Page~608 (1)葱]]
     ==
-    - An onion, ~~garlic~~;
+    - An onion~~, garlic~~;
     - a general name for alliaceous vegetables [[Kangxi 葱: 菜也 etc.]];
     - a leek or light green [[Kangxi 葱: 靑謂之蔥]];
     - ~~a vent, a tubular passage, a draft;~~
@@ -748,9 +747,9 @@ W
     - _(1)ts(')ung p(a/)k(9)_
         [[cung1 baak6 蔥白]]
         the onion bulb;
-    - _(1)ts(')ung (5)[leng]_
+    - _(1)ts(')ung ~~(5)ling~~ ``(5)leng``_
         [[cung1 leng5 蔥嶺]],
-        ~~the Karakorum Mts~~ [[Kangxi: 山名 etc.]].
+        the ~~Karakorum~~ ``Pamir`` Mts [[Kangxi: 山名 etc.]].
     ==
   ====
 C
@@ -761,7 +760,6 @@ C
     or Kangxi 氣通達也 (which is an adjective sense, not a noun sense).
   - Williams' 蔥頭: The preferred term for "onion" in Cantonese is 洋蔥.
   - Williams' 蔥嶺: Changed _(5)ling_ (ling5) to vernacular reading _(5)leng_ (leng5).
-    Not the Karakorum, but the Pamir Mountains.
   ==
 P
   ++
@@ -782,7 +780,7 @@ V
   ==
 F
   ==
-  - [[F1.58 衝]] 向也水直撞也又衝要通衢也
+  - (F1.58 衝) 向也水直撞也又衝要通衢也
   ==
 W
   ====
@@ -791,10 +789,10 @@ W
     - A path, a crossway [[Kangxi: 通道也 etc.]];
     - ~~to support;~~
     - to move, to excite;
-    - to rise or rush against [[Kangxi: 當也向也突也]], ~~to overflow~~;
+    - to rise or rush against [[Kangxi: 當也向也突也]]~~, to overflow~~;
     - abrupt;
     - towards;
-    - ~~a car;~~
+    - a ~~car~~ ``battering-chariot`` [[Kangxi: 車也 etc.]];
     - _(1)ch(')ung i(u/)(3)_
         [[cung1 jiu3 衝要]]
         a thoroughfare;
@@ -812,13 +810,7 @@ W
 C
   ==
   - Fan Wan entry: The character 水 is likely erroneous.
-  - Williams' "a car": In the (now) archaic sense meaning "chariot",
-    and better rendered "battering-chariot".
   ==
-P
-  ++
-  1. A battering-chariot (Kangxi: 車也 etc.).
-  ++
 E
   ====
   - 【衝】 (cung1):
@@ -845,7 +837,7 @@ V
   ==
 F
   ==
-  - [[F1.58 衷]] 心曲也情也
+  - (F1.58 衷) 心曲也情也
   ==
 W
   ====
@@ -885,7 +877,7 @@ U
   U+9A18
 F
   ==
-  - [[F1.58 ::[騘]::]] ::[鐵]色馬::
+  - (F1.58 ::[騘]::) ::[鐵]色馬::
   ==
 W
   ====
@@ -900,7 +892,7 @@ C
   ==
 $$
 
-###+ 驄1 | _(1)Ts(')ung_ (cung1)
+###+ 驄1 | _(1)Ts(')ung_ [[cung1]]
 
 $$
 R
@@ -916,13 +908,13 @@ A
   ==
 F
   ==
-  - [[F1.58 ::[騘]::]] ::[鐵]色馬::
+  - (F1.58 ::[騘]::) ::[鐵]色馬::
   ==
 W
   ====
   - [[Page~608 (1)騘; here normalised to 驄]]
     ==
-    - A dapple-gray horse [[Kangxi: 馬靑白雜毛也 etc.]], ~~a bay horse~~;
+    - A dapple-gray horse [[Kangxi: 馬靑白雜毛也 etc.]]~~, a bay horse~~;
     - _(5)'ng (1)f(a/) (1)ts(')ung_
         [[ng5 faa1 cung1 五花驄]],
         a piebald, fancy horse.
@@ -947,7 +939,7 @@ $$
 </nav>
 <## /tone-2-characters ##>
 
-### [冢]2 | _(2)Ch(')ung_ [[cung2]]
+### ~~冡~~``冢``2 | _(2)Ch(')ung_ [[cung2]]
 
 $$
 R
@@ -964,11 +956,11 @@ V
   ==
 F
   ==
-  - [[F1.61 ::[冢]::]] ::大也長子長婦俱曰[冢]::
+  - (F1.61 ::[冢]::) ::大也長子長婦俱曰[冢]::
   ==
 W
   ====
-  - [[Page~41 ::(2)[冢]^::]]
+  - [[Page~41 ::(2)~~冡~~``冢``::]]
     ==
     - The peak of a hill [[Kangxi: 山頂也]];
     - a mound or tumulus [[Kangxi: 墓之墳者亦曰冢]];
@@ -987,7 +979,6 @@ W
 C
   ==
   - Fan Wan entry: Corrected headword 冡 to 冢.
-  - Williams (following Fan Wan) misprints 冢 as 冡; here corrected.
   ==
 P
   ++
@@ -996,7 +987,7 @@ P
   ++
 $$
 
-### [塚]2 | _(2)Ch(')ung_ [[cung2]]
+### ~~塜~~``塚``2 | _(2)Ch(')ung_ [[cung2]]
 
 $$
 R
@@ -1009,11 +1000,11 @@ V
   ==
 F
   ==
-  - [[F1.61 ::[塚]::]] ::墓封曰[塚]::
+  - (F1.61 ::[塚]::) ::墓封曰[塚]::
   ==
 W
   ====
-  - [[Page~41 ::(2)[塚]^::]]
+  - [[Page~41 ::(2)~~塜~~``塚``::]]
     ==
     - A grave, a tomb [[Kangxi: 冢俗作塚]];
     - _(1)fong (2)ch(')ung_
@@ -1036,7 +1027,6 @@ W
 C
   ==
   - Fan Wan entry: Corrected headword 塜 to 塚.
-  - Williams (following Fan Wan) misprints 塚 as 塜; here corrected.
   ==
 $$
 
@@ -1053,7 +1043,7 @@ A
   ==
 F
   ==
-  - [[F1.61 寵]] 愛也恩也尊榮也寵
+  - (F1.61 寵) 愛也恩也尊榮也寵
   ==
 W
   ====
@@ -1086,7 +1076,7 @@ W
         your concubine;
     - _tak(7) (2)ch(')ung_
         [[dak1 cung2 得寵]],
-        to win [a hushand's] [[these square brackets appear in the original text]] love.
+        to win [a hushand's] love.
     ==
   ====
 $$
@@ -1149,13 +1139,13 @@ H
   depending on the font.
 F
   ==
-  - [[F1.62 銃]] 火炮
+  - (F1.62 銃) 火炮
   ==
 W
   ====
   - [[Page~41 銃(3)]]
     ==
-    - ~~A piece of iron bored;~~
+    - ~~A piece of iron bored~~ ``The eye of an axe`` [[Kangxi: 銎也, 斧穿也]];
     - a blunderbuss, a ginjall, a gun;
     - _ch(')ung(3) p(')(a/)u(3)_
         [[cung3 paau3 銃炮]]
@@ -1168,15 +1158,6 @@ W
         small guns.
     ==
   ====
-C
-  ==
-  - Williams' "A piece of iron bored": This is a misreading of Kangxi 斧穿也.
-    Here, 斧 means "axe".
-  ==
-P
-  ++
-  1. The eye of an axe (Kangxi: 銎也, 斧穿也).
-  ++
 $$
 
 
@@ -1217,8 +1198,8 @@ A
   ==
 F
   ==
-  - [[F1.60 叢]] 聚也又林木茂盛也
-  - [[F1.60 樷]] ::[古]文叢字::
+  - (F1.60 叢) 聚也又林木茂盛也
+  - (F1.60 樷) ::[古]文叢字::
   ==
 W
   ====
@@ -1261,7 +1242,7 @@ A
   ==
 F
   ==
-  - [[F1.60 從]] 隨也順也就也
+  - (F1.60 從) 隨也順也就也
   ==
 W
   ====
@@ -1293,7 +1274,7 @@ W
     - _(1)(i/) (4)ts(')ung_
         [[ji1 cung4 依從]],
         according with;
-    - _[k(')uk](7) (4)ts(')ung_
+    - _~~huk(7)~~ ``k(')uk(7)`` (4)ts(')ung_
         [[kuk1 cung4 曲從]],
         constrained to obey;
     - _(4)ts(')ung (4)yau_
@@ -1313,7 +1294,7 @@ W
         since childhood;
     - _(1)s(a/)m (4)ts(')ung_
         [[saam1 cung4 三從]],
-        three compliances of a female to her father, husband[,] and son.
+        three compliances of a female to her father, husband``,`` and son.
     ==
   ====
 C
@@ -1333,7 +1314,7 @@ S
   ==
 $$
 
-###+ 悰4 | _(4)Ts(')ung_ (cung4)
+###+ 悰4 | _(4)Ts(')ung_ [[cung4]]
 
 $$
 R
@@ -1346,21 +1327,20 @@ V
   ==
 F
   ==
-  - [[F1.57 悰 _(1)Tsung_ (zung1)]] ::情[懷]也::
+  - (F1.57 悰 _(1)Tsung_ (zung1)) ::情[懷]也::
   ==
 W
   ====
   - [[Page~606 (1)悰 _(1)Tsung_ (zung1); here normalised to _(4)Ts(')ung_ (cung4)]]
     ==
     - To rejoice;
-    - pleasure, delight [[Kangxi: 樂也]];
+    - ~~pleasure, delight~~ ``joy`` [[Kangxi: 樂也]];
     - ~~to think over, to consider.~~
     ==
   ====
 C
   ==
   - Fan Wan entry: Corrected ⿰忄⿳亠罒⿱十衣 to 懷.
-  - Williams' "pleasure, delight": Better rendered "joy".
   ==
 P
   ++
@@ -1381,7 +1361,7 @@ U
   U+677E
 F
   ==
-  - [[F1.60 松]] 木名
+  - (F1.60 松) 木名
   ==
 W
   ====
@@ -1419,7 +1399,7 @@ W
   ====
 $$
 
-###+ 樷4 | _(4)Ts(')ung_ (cung4)
+###+ 樷4 | _(4)Ts(')ung_ [[cung4]]
 
 $$.
 R
@@ -1428,8 +1408,8 @@ U
   U+6A37
 F
   ==
-  - [[F1.60 叢]] 聚也又林木茂盛也
-  - [[F1.60 樷]] ::[古]文叢字::
+  - (F1.60 叢) 聚也又林木茂盛也
+  - (F1.60 樷) ::[古]文叢字::
   ==
 W
   [[Not present]]
@@ -1439,7 +1419,7 @@ P
   ++
 $$
 
-###+ 淙4 | _(4)Ts(')ung_ (cung4)
+###+ 淙4 | _(4)Ts(')ung_ [[cung4]]
 
 $$.
 R
@@ -1469,7 +1449,7 @@ U
   U+6DDE
 F
   ==
-  - [[F1.60 淞]] 水名
+  - (F1.60 淞) 水名
   ==
 W
   ====
@@ -1484,7 +1464,7 @@ S
   ==
 $$
 
-###+ 潀4 | _(4)Ts(')ung_ (cung4)
+###+ 潀4 | _(4)Ts(')ung_ [[cung4]]
 
 $$
 R
@@ -1501,7 +1481,7 @@ V
   ==
 F
   ==
-  - [[F1.60 潨]] 會也小水入大水也
+  - (F1.60 潨) 會也小水入大水也
   ==
 W
   ====
@@ -1527,7 +1507,7 @@ U
   U+6F68
 F
   ==
-  - [[F1.60 潨]] 會也小水入大水也
+  - (F1.60 潨) 會也小水入大水也
   ==
 W
   ====
@@ -1542,7 +1522,7 @@ S
   ==
 $$
 
-###+ 爞4 | _(4)Ch(')ung_ (cung4)
+###+ 爞4 | _(4)Ch(')ung_ [[cung4]]
 
 $$
 R
@@ -1571,7 +1551,7 @@ S
   ==
 $$
 
-###+ 琮4 | _(4)Ts(')ung_ (cung4)
+###+ 琮4 | _(4)Ts(')ung_ [[cung4]]
 
 $$
 R
@@ -1584,7 +1564,7 @@ V
   ==
 F
   ==
-  - [[F1.58 琮 _(1)Tsung_ (zung1)]] 瑞玉
+  - (F1.58 琮 _(1)Tsung_ (zung1)) 瑞玉
   ==
 W
   ====
@@ -1600,7 +1580,7 @@ S
   ==
 $$
 
-###+ 种4 | _(4)Ch(')ung_ (cung4)
+###+ 种4 | _(4)Ch(')ung_ [[cung4]]
 
 $$
 R
@@ -1609,7 +1589,7 @@ U
   U+79CD
 F
   ==
-  - [[F1.58 种 _(1)Ch(')ung_ (cung1)]] 稚也又姓
+  - (F1.58 种 _(1)Ch(')ung_ (cung1)) 稚也又姓
   ==
 W
   ====
@@ -1617,7 +1597,7 @@ W
     ==
     - Young grain [[Kangxi: 稚也]];
     - delicate, tender;
-    - _[(4)]ch(')ung ch(i/)(6)_
+    - _~~(1)ch(')ung~~ ``(4)ch(')ung`` ch(i/)(6)_
         [[cung4 zi6 种稚]]
         immature, beautiful, as children.
     ==
@@ -1637,8 +1617,8 @@ U
   U+866B
 F
   ==
-  - [[F1.60 虫]] 虫蟻
-  - [[F1.60 蟲]] 同上
+  - (F1.60 虫) 虫蟻
+  - (F1.60 蟲) 同上
   ==
 W
   ====
@@ -1666,8 +1646,8 @@ A
   ==
 F
   ==
-  - [[F1.60 虫]] 虫蟻
-  - [[F1.60 蟲]] 同上
+  - (F1.60 虫) 虫蟻
+  - (F1.60 蟲) 同上
   ==
 W
   ====
@@ -1699,7 +1679,7 @@ U
   U+91CD
 F
   ==
-  - [[F1.60 重]] ::復也[叠]也::
+  - (F1.60 重) ::復也[叠]也::
   ==
 W
   ====
@@ -1746,7 +1726,7 @@ $$
 </nav>
 <## /tone-5-characters ##>
 
-###+ 重5 | _(5)Ch(')ung_ (cung5)
+###+ 重5 | _(5)Ch(')ung_ [[cung5]]
 
 $$
 R
@@ -1763,11 +1743,11 @@ W
     - [[...]];
     - severe, heinous;
     - [[...]];
-    - _(5)yau (2)k(i/) [(5)ch(')ung]_
+    - _(5)yau (2)k(i/) ~~chung(6)~~ ``(5)ch(')ung``_
         [[jau5 gei2 cung5 有幾重]]^
         how heavy is it?
     - [[...]];
-    - _[(5)ch(')ung] (2)t(a/)_
+    - _~~chung(6)~~ ``(5)ch(')ung`` (2)t(a/)_
         [[cung5 daa2 重打]],
         to beat severely;
     - [[...]].

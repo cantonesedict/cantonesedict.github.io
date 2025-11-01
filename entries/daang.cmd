@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> daang
-* %date-modified --> 2023-08-05
-* %copyright-prior-years -->
+* %date-modified --> 2025-11-01
+* %copyright-prior-years --> "2023, "
 
 %%%
 
@@ -14,7 +14,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 (Not present in the original ''Tonic Dictionary''.)
 --
 
-#{.modern} T(a/)ng. (daang)
+#{.williams} ``T(a/)ng.`` [[daang]]
 
 <nav class="sideways">
 =={.modern}

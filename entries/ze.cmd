@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ze
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -55,7 +55,7 @@ $$
 </nav>
 <## /tone-1-characters ##>
 
-###+ 啫1 | _(1)Ch(e/)_ (ze1)
+###+ 啫1 | _(1)Ch(e/)_ [[ze1]]
 
 $$
 R
@@ -106,8 +106,8 @@ U
   U+55DF
 F
   ==
-  - [[F2.83 嗟]] ::嘆詞又痛[惜]也::
-  - [[F2.83 {𭋦=⿰口蓍}]] 同上
+  - (F2.83 嗟) ::嘆詞又痛[惜]也::
+  - (F2.83 {𭋦=⿰口蓍}) 同上
   ==
 W
   ====
@@ -122,7 +122,7 @@ W
         to sigh;
     - _(1)ts(e/) (4)loi (1)ch(i/) shik(9)_
         [[ze1 loi4 zi1 sik6 嗟來之食]]
-        ~~to groan and beg one's bread~~.
+        ~~to groan and beg one's bread~~ ``food given in contempt``.
     ==
   ====
 C
@@ -135,7 +135,7 @@ C
   ==
 $$
 
-###+ 姐1 | _(1)Ts(e/)_ (ze1)
+###+ 姐1 | _(1)Ts(e/)_ [[ze1]]
 
 $$.
 R
@@ -165,7 +165,7 @@ U
   U+7F5D
 F
   ==
-  - [[F2.83 ::[罝]::]] 取兔網
+  - (F2.83 ::[罝]::) 取兔網
   ==
 W
   ====
@@ -191,7 +191,7 @@ U
   U+906E
 F
   ==
-  - [[F2.83 遮]] 掩也
+  - (F2.83 遮) 掩也
   ==
 W
   ====
@@ -215,7 +215,7 @@ W
         an umbrella;
     - _(4)'m (1)ch(e/) tak(7) ch(u:)(6)_
         [[m4 ze1 dak1 zyu6 唔遮得住]]
-        it [won't] cover us, it can not be concealed;
+        it ~~wont~~ ``won't`` cover us, it can not be concealed;
     - _(1)ch(e/) shik(7)_
         [[ze1 sik1 遮飾]]
         to disguise, to dupe, throw dust in his eyes;
@@ -239,7 +239,7 @@ E
        - 開遮 (hoi1 ze1): "Open [an] umbrella."
        - 擔遮 (daam1 ze1): "Hold up [an] umbrella."
        - 收遮 (sau1 ze1): "Close up [an] umbrella."
-       - 縮骨遮 (suk1 gwat1 ze1): "Retractable-stem umbrella" (i.e. a pocket or foldable umbrella).
+       - 縮骨遮 (suk1 gwat1 ze1): "Retractable-frame umbrella" (i.e. a pocket or foldable umbrella).
        ==
     ++
   ====
@@ -273,7 +273,7 @@ V
   ==
 F
   ==
-  - [[F2.84 姐]] 姊也
+  - (F2.84 姐) 姊也
   ==
 W
   ====
@@ -344,23 +344,23 @@ H
   depending on the font.
 F
   ==
-  - [[F2.84 者]] 語助詞指人指物之稱
+  - (F2.84 者) 語助詞指人指物之稱
   ==
 W
   ====
   - [[Page~30|n73 (2)者]]
     ==
     - A ~~relative or~~ demonstrative pronoun [[Kangxi: ::此也[...]今俗多用這字::]];
-    - ~~it, this~~, that, he, who, what;
+    - ~~it, this,~~ that, he, who, what;
     - following verbs, it forms a noun, as
       - _(4)hang (2)ch(e/)_
           [[hang4 ze2 行者]],
           a walker, he who is walking;
-    - ~~after nouns~~, indicates a class, as
+    - after ~~nouns~~ ``adjectives``, indicates a class, as
     - _(4)(u:) (2)ch(e/)_
         [[jyu4 ze2 愚者]],
         the foolish;
-    - _[(2)]sz' (2)ch(e/)_
+    - _~~sz'(3)~~ ``(2)sz'`` (2)ch(e/)_
         [[si2 ze2 死者]],
         the dead;
     - _(4)m(o\) (4)ts(')ing (2)ch(e/)_
@@ -384,7 +384,7 @@ W
     - _(4)ho (4)wai (2)ch(e/)_
         [[ho4 wai4 ze2 何為者]],
         what are you doing?
-    - _(1)chung (5)y(a/) (2)ch(e/) (1)t(')(i/)n h(a/)[(6)] (1)ch(i/) t(a/)i(6) (2)p(u/)n (5)y(a/)_
+    - _(1)chung (5)y(a/) (2)ch(e/) (1)t(')(i/)n ~~(5)h(a/)~~ ``h(a/)(6)`` (1)ch(i/) t(a/)i(6) (2)p(u/)n (5)y(a/)_
         [[zung1 jaa5 ze2 tin1 haa6 zi1 daai6 bun2 jaa5 中也者天下之大本也]],
         the medium is everywhere the chief point;
     - _sik(7) (2)ch(e/)_
@@ -397,7 +397,6 @@ W
   ====
 C
   ==
-  - Williams' "after nouns": This should say "after adjectives".
   - Williams' 死者: Corrected _sz'(3)_ (si3) to _(2)sz'_ (si2).
   - Williams' 中也者天下之大本也: Changed _(5)h(a/)_ (haa5) to modern _h(a/)(6)_ (haa6).
   ==
@@ -415,7 +414,7 @@ H
   depending on the font.
 F
   ==
-  - [[F2.84 赭]] 赤色
+  - (F2.84 赭) 赤色
   ==
 W
   ====
@@ -437,7 +436,7 @@ C
   ==
 $$
 
-###+ 這2 | _(2)Ch(e/)_ (ze2)
+###+ 這2 | _(2)Ch(e/)_ [[ze2]]
 
 $$
 R
@@ -451,23 +450,23 @@ V
   ==
 F
   ==
-  - [[F2.84 這 _Ch(e/)(3)_ (ze3)]] 是也此也這裏言此處也這事言此事也
+  - (F2.84 這 _Ch(e/)(3)_ (ze3)) 是也此也這裏言此處也這事言此事也
   ==
 W
   ====
   - [[Page~31|n74 這(3) _Ch(e/)(3)_ (ze3); here normalised to _(2)Ch(e/)_ (ze2)]]
     ==
     - A demonstrative pronoun, this, that;
-    - _[(2)]ch(e/) (5)[l(u:)]_
+    - _~~ch(e/)(3)~~ ``(2)ch(e/)`` ~~(5)l(i/)~~ ``(5)l(u:)``_
         [[ze2 leoi5 這裡]],
         here;
-    - _[(2)]ch(e/) y(e/)ung(6)_
+    - _~~ch(e/)(3)~~ ``(2)ch(e/)`` y(e/)ung(6)_
         [[ze2 joeng6 這樣]]
         thus, so;
-    - _[(2)]ch(e/) (2)tang_
+    - _~~ch(e/)(3)~~ ``(2)ch(e/)`` (2)tang_
         [[ze2 dang2 這等]],
         such, this sort;
-    - _[(2)]ch(e/) (4)sh(i/)_
+    - _~~ch(e/)(3)~~ ``(2)ch(e/)`` (4)sh(i/)_
         [[ze2 si4 這時]],
         now.
     ==
@@ -514,7 +513,7 @@ U
   U+501F
 F
   ==
-  - [[F2.84 借]] 假借借貸又推獎也
+  - (F2.84 借) 假借借貸又推獎也
   ==
 W
   ====
@@ -552,7 +551,7 @@ W
     - _ts(e/)(3) shai(3) (4)wai ok(8)_
         [[ze3 sai3 wai4 ok3 借勢為惡]]
         to avail of power to do wickedly;
-    - _ts(e/)(3) ch(e/)uk[(9)] (5)ngo sz'(6)_
+    - _ts(e/)(3) ~~ch(e/)uk(8)~~ ``ch(e/)uk(9)`` (5)ngo sz'(6)_
         [[ze3 zoek6 ngo5 si6 借着我事]]
         he's got my business, he's stole my thunder;
     - _ts(e/)(3) ko(3) (1)kwong_
@@ -561,7 +560,7 @@ W
     - _ts(e/)(3) (2)m(e/) tik(7)_
         [[ze3 me2 dik1 借歪滴]]
         please step aside a little;
-    - _ts(e/)(3) l(o\)(6) (4)[h(a/)ng]_
+    - _ts(e/)(3) l(o\)(6) ~~(4)hang~~ ``(4)h(a/)ng``_
         [[ze3 lou6 haang4 借路行]],
         to beg a way through;
     - _ts(e/)(3) (i/)(3)_
@@ -608,7 +607,7 @@ S
   ==
 $$
 
-###+ 嗻3 | _Ch(e/)(3)_ (ze3)
+###+ 嗻3 | _Ch(e/)(3)_ [[ze3]]
 
 $$
 R
@@ -663,7 +662,7 @@ A
   ==
 F
   ==
-  - [[F2.84 柘]] 桑柘木名
+  - (F2.84 柘) 桑柘木名
   ==
 W
   ====
@@ -687,8 +686,8 @@ U
   U+6A1C
 F
   ==
-  - [[F2.84 蔗]] 甘蔗
-  - [[F2.84 樜]] 同上
+  - (F2.84 蔗) 甘蔗
+  - (F2.84 樜) 同上
   ==
 W
   ====
@@ -716,8 +715,8 @@ A
   ==
 F
   ==
-  - [[F2.84 蔗]] 甘蔗
-  - [[F2.84 樜]] 同上
+  - (F2.84 蔗) 甘蔗
+  - (F2.84 樜) 同上
   ==
 W
   ====
@@ -746,7 +745,7 @@ W
     - _ch(a/)(3) ch(e/)(3)_
         [[zaa3 ze3 搾蔗]]
         to express cane juice;
-    - _t(o\)[(3)] t(a/)m(6) ch(e/)(3)_
+    - _~~(2)t(o\)~~ ``t(o\)(3)`` t(a/)m(6) ch(e/)(3)_
         [[dou3 daam6 ze3 倒啖蔗]]
         he eats his cane backwards, he has the best still coming.
     ==
@@ -771,7 +770,7 @@ U
   U+9019
 F
   ==
-  - [[F2.84 這]] 是也此也這裏言此處也這事言此事也
+  - (F2.84 這) 是也此也這裏言此處也這事言此事也
   ==
 W
   ====
@@ -795,7 +794,7 @@ U
   U+9DD3
 F
   ==
-  - [[F2.84 鷓]] 鷓鴣鳥名
+  - (F2.84 鷓) 鷓鴣鳥名
   ==
 W
   ====
@@ -832,13 +831,13 @@ U
   U+69AD
 F
   ==
-  - [[F2.85 榭]] 臺榭有屋曰臺無屋曰榭
+  - (F2.85 榭) 臺榭有屋曰臺無屋曰榭
   ==
 W
   ====
   - [[Page~564 榭(6)]]
     ==
-    - A terrace [[Kangxi: 臺有屋也]] ~~having trees around it, an arbor~~;
+    - A terrace having ~~trees around~~ ``a timber structure on`` it [[Kangxi: 臺有屋也, 土高曰臺有木曰榭]]~~, an arbor~~;
     - a place for storing musical instruments [[Kangxi: 榭者所以藏樂器]];
     - a high lookout, a keep, a turret;
     - a military school [[Kangxi: 講武之屋曰榭]];
@@ -864,7 +863,7 @@ U
   U+707A
 F
   ==
-  - [[F2.85 灺]]
+  - (F2.85 灺)
   ==
 W
   ====
@@ -889,7 +888,7 @@ U
   U+8B1D
 F
   ==
-  - [[F2.85 謝]] 辭也絶也又退也彫落也居官致仕曰謝政感德相酧曰謝恩
+  - (F2.85 謝) 辭也絶也又退也彫落也居官致仕曰謝政感德相酧曰謝恩
   ==
 W
   ====

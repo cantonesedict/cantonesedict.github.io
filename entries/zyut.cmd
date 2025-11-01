@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyut
-* %date-modified --> 2025-09-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -72,7 +72,7 @@ U
   U+525F
 F
   ==
-  - [[F2.24 剟]] 取也
+  - (F2.24 剟) 取也
   ==
 W
   ====
@@ -88,7 +88,7 @@ W
   ====
 $$
 
-###+ {𠭴=⿰叕出}3 | _Ch(u:)t(8)_ (zyut3)
+###+ {𠭴=⿰叕出}3 | _Ch(u:)t(8)_ [[zyut3]]
 
 $$
 R
@@ -123,14 +123,14 @@ V
   ==
 F
   ==
-  - [[F2.24 啐]] 尊入聲嘗入口也又咄啐呼也
+  - (F2.24 啐) 尊入聲嘗入口也又咄啐呼也
   ==
 W
   ====
   - [[Page~609 啐(8)]]
     ==
     - [[...]];
-    - [[...]], the noise of sucking [[Kangxi: 吮聲]], ~~or swallowing with a gusto~~;
+    - [[...]], the noise of sucking [[Kangxi: 吮聲]]~~, or swallowing with a gusto~~;
     - [[...]].
     ==
     --
@@ -164,7 +164,7 @@ V
   ==
 F
   ==
-  - [[F2.24 啜]] 餔啜飮也嘗也
+  - (F2.24 啜) 餔啜飮也嘗也
   ==
 W
   ====
@@ -174,7 +174,7 @@ W
     - to taste [[Kangxi 啜: 嘗也, 啜茹也, 啜者拾食]], [[...]];
     - to kiss;
     - [[...]];
-    - _ch(u:)t(8) [(5)]h(a/)_
+    - _ch(u:)t(8) ~~(2)h(a/)~~ ``(5)h(a/)``_
         [[zyut3 haa5 啜吓]],
         to sip;
     - _ch(u:)t(7) m(i/)n(6) (1)ch(u:)_
@@ -227,7 +227,7 @@ E
   ====
 $$
 
-###+ 嘬3 | _Ch(u:)t(8)_ (zyut3)
+###+ 嘬3 | _Ch(u:)t(8)_ [[zyut3]]
 
 $$.
 R
@@ -261,7 +261,7 @@ V
   ==
 F
   ==
-  - [[F2.24 拙]] 不巧也蠢拙
+  - (F2.24 拙) 不巧也蠢拙
   ==
 W
   ====
@@ -274,9 +274,9 @@ W
     - _ch(u:)t(8) (1)king_
         [[zyut3 ging1 拙荊]],
         a 'dull thorn,' i.~e. my wife;
-    - _ch(u:)t(8) pat[(7)]_
+    - _ch(u:)t(8) ~~pat(9)~~ ``pat(7)``_
         [[zyut3 bat1 拙筆]]
-        an unskillful penman;
+        ~~an~~ ``my`` unskillful penman``ship``;
     - _ch(u:)t(8) (2)tsz'_
         [[zyut3 zi2 拙子]]
         my son.
@@ -301,7 +301,7 @@ U
   U+6387
 F
   ==
-  - [[F2.24 掇]] 採也拾也
+  - (F2.24 掇) 採也拾也
   ==
 W
   ====
@@ -329,7 +329,7 @@ A
   ==
 F
   ==
-  - [[F2.24 ::[梲]::]] 梁上短柱
+  - (F2.24 ::[梲]::) 梁上短柱
   ==
 W
   ====
@@ -366,7 +366,7 @@ V
   ==
 F
   ==
-  - [[F2.24 啜]] 餔啜飮也嘗也
+  - (F2.24 啜) 餔啜飮也嘗也
   ==
 W
   ====
@@ -393,7 +393,7 @@ P
   ++
 $$
 
-###+ 絀3 | _Ch(u:)t(8)_ (zyut3)
+###+ 絀3 | _Ch(u:)t(8)_ [[zyut3]]
 
 $$
 R
@@ -407,7 +407,7 @@ V
   ==
 F
   ==
-  - [[F1.86 絀 _Fat(7)_ (fat1)]] 嬴絀猶屈伸也
+  - (F1.86 絀 _Fat(7)_ (fat1)) 嬴絀猶屈伸也
   ==
 W
   ====
@@ -416,7 +416,7 @@ W
     - Crimson [[Kangxi: 絳也]] silk;
     - to sew [[Kangxi: 紩也]];
     - ~~to baste or sew badly;~~
-    - _(4)ying [ch(u:)t](8)_
+    - _(4)ying ~~chut(7)~~ ``ch(u:)t(8)``_
         [[jing4 zyut3 嬴絀]]
         to retire and come forth [[Kangxi: 猶言屈伸也]];
         unequal;
@@ -425,10 +425,10 @@ W
   - [[Page~713 絀(7) _Chut(7)_ (zeot1); here normalised to _Ch(u:)t(8)_ (zyut3)]]
     ==
     - This word also means ~~obstructed,~~ bent;
-    - withdrawn, ~~as money from circulation~~;
-    - _(4)ts(')oi yung(6) (1)ch(i/) [ch(u:)t](8)_
+    - withdrawn~~, as money from circulation~~;
+    - _(4)ts(')oi yung(6) (1)ch(i/) ~~chut(7)~~ ``ch(u:)t(8)``_
         [[coi4 jung6 zi1 zyut3 財用之絀]]
-        ~~obstructions in the way of trade~~.
+        ~~obstructions in the way of trade~~ ``insufficiency of funds``.
     ==
   ====
 C
@@ -436,7 +436,6 @@ C
   - Williams' "to baste or sew badly": This is a misreading of Kangxi ::[...]故作秫絀耳此蓋言其女工箴縷之麤拙也::.
     Here, it is 秫 that supplies the meaning of "poor".
     The character 絀 simply means "sew" or "stitch".
-  - Williams' 財用之絀: Not obstructed trade, but insufficient funds.
   ==
 P
   ++
@@ -458,8 +457,8 @@ U
   U+7DB4
 F
   ==
-  - [[F2.24 綴]] 聯也又舞列也又止也禮記綴兆舒疾樂之文也
-  - [[F2.57 綴 _Chui(6)_ (zeoi6)]] 冠系又聯也
+  - (F2.24 綴) 聯也又舞列也又止也禮記綴兆舒疾樂之文也
+  - (F2.57 綴 _Chui(6)_ (zeoi6)) 冠系又聯也
   ==
 W
   ====
@@ -488,7 +487,7 @@ S
   ==
 $$
 
-###+ 茁3 | _Ch(u:)t(8)_ (zyut3)
+###+ 茁3 | _Ch(u:)t(8)_ [[zyut3]]
 
 $$
 R
@@ -501,31 +500,27 @@ V
   ==
 F
   ==
-  - [[F2.72 茁 _Ch(a/)t(8)_ (zaat3)]] 肥壯貌
+  - (F2.72 茁 _Ch(a/)t(8)_ (zaat3)) 肥壯貌
   ==
 W
   ====
   - [[Page~24|n67 茁(8) _Ch(a/)t(8)_ (zaat3); here normalised to _Ch(u:)t(8)_ (zyut3)]]
     ==
     - Grass or plants starting out of the ground [[Kangxi: 草初生貌]];
-    - fat, hearty, vigorous, said of cattle;
-    - _(2)ts(')(o\) [ch(u:)t](8) (4)k(')(i/) (4)ng(a/)_
+    - fat, hearty, vigorous [[Fan Wan: 肥壯貌]],
+      ``grown [[Kangxi: 茁生長貌]],`` said of cattle;
+    - _(2)ts(')(o\) ~~ch(a/)t(8)~~ ``ch(u:)t(8)`` (4)k(')(i/) (4)ng(a/)_
         [[cou2 zyut3 kei4 ngaa4 草茁其芽]],
         the grass is sprouting.
     ==
   ====
-C
-  ==
-  - Williams' "fat, hearty, vigorous": This renders Fan Wan 肥壯貌.
-    The same sense in Kangxi is explained 茁生長貌, which is better rendered "grown".
-  ==
 S
   ==
   - $茁zaat3
   ==
 $$
 
-###+ 蕝3 | _Ts(u:)t(8)_ (zyut3)
+###+ 蕝3 | _Ts(u:)t(8)_ [[zyut3]]
 
 $$
 R
@@ -548,7 +543,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~610 ::[蕝](8)蕞(8):: _Ts(')(u:)t(8)_ (cyut3); here normalised to _Ts(u:)t(8)_ (zyut3)]]
+  - [[Page~610 ::~~{？=⿱艹⿰糸邑}~~``蕝``(8)蕞(8):: _Ts(')(u:)t(8)_ (cyut3); here normalised to _Ts(u:)t(8)_ (zyut3)]]
     ==
     - A bundle or sheaf of coarse sedge
       used for straining or pouring spirits through [[Kangxi 蕝: ::蕝謂束茅而立之所以[縮]酒::, 通蕞]].
@@ -559,7 +554,6 @@ W
   ====
 C
   ==
-  - Williams misprints 蕝 as ⿱艹⿰糸邑; here corrected.
   - Williams' reading of _ts(')(u:)t(8)_ (cyut3) takes after
     the Fan Wan reading for 蕞 in the unrelated sense of "small".
     See $蕞cyut3.
@@ -578,7 +572,7 @@ S
   ==
 $$
 
-###+ 蕞3 | _Ts(u:)t(8)_ (zyut3)
+###+ 蕞3 | _Ts(u:)t(8)_ [[zyut3]]
 
 $$.
 R
@@ -617,7 +611,7 @@ V
   ==
 F
   ==
-  - [[F2.24 輟]] 作輟止也
+  - (F2.24 輟) 作輟止也
   ==
 W
   ====
@@ -633,7 +627,7 @@ W
 $$
 
 
-##{#6 .williams} <ins class="modern">Ch(u:)t(9)</ins> Ts(u:)t(9) [[zyut6 陽入]]
+##{#6 .williams} ``Ch(u:)t(9)`` Ts(u:)t(9) [[zyut6 陽入]]
 
 <## tone-6-characters ##>
 <nav class="sideways">
@@ -645,7 +639,7 @@ $$
 </nav>
 <## /tone-6-characters ##>
 
-###+ 拙6 | _Ch(u:)t(9)_ (zyut6)
+###+ 拙6 | _Ch(u:)t(9)_ [[zyut6]]
 
 $$.
 R
@@ -679,7 +673,7 @@ A
   ==
 F
   ==
-  - [[F2.25 絶]] ::[斷]絶[滅]絶又最也::
+  - (F2.25 絶) ::[斷]絶[滅]絶又最也::
   ==
 W
   ====
@@ -693,7 +687,7 @@ W
     - to cross water [[Kangxi: 絕度也, 絕過也]];
     - to overpass;
     - ~~shooting athwart, like a meteor;~~
-    - a superlative, very, extremely, entirely, most;
+    - ~~a superlative~~ ``absolutely``, very, extremely, entirely, most;
     - a stanzas of four lines;
     - _sh(a/)t(8) ts(u:)t(9)_
         [[saat3 zyut6 殺絕]]
@@ -712,14 +706,14 @@ W
         [[zyut6 mou4 hou2 cyu3 絕無好處]]
         no good luck at all;
         ~~by no means a good place;~~
-    - _[(5)t(')(u:)n] ts(u:)t(9)_
-        [[tyun5 zyut6 斷絕]]
+    - _t(u:)n(6) ts(u:)t(9)_
+        [[dyun6 zyut6 斷絕]]
         to stop, as a ration;
     - _ts(u:)t(9) l(o\)(6)_
         [[zyut6 lou6 絕路]]
         the road is stopped;
         ~~resources are~~ all cut off;
-    - _(2)kon t(o\)(3) ts(u:)t(9) (4)lung (5)[leng]_
+    - _(2)kon t(o\)(3) ts(u:)t(9) (4)lung ~~(5)ling~~ ``(5)leng``_
         [[gon2 dou3 zyut6 lung4 leng5 趕到絕龍嶺]],
         I am driven to the edge, reduced to the last extremity;
     - _(5)'ng ts(u:)t(9)_
@@ -730,20 +724,17 @@ W
         he never ceases to rail;
     - _(1)t(')(i/)n (4)m(o\) ts(u:)t(9) (4)yan (1)ch(i/) l(o\)(6)_
         [[tin1 mou4 zyut6 jan4 zi1 lou6 天無絕人之路]]
-        heaven never intends to cut off ~~men's resources~~;
+        heaven never intends to cut off ~~men's resources~~ ``man``;
     - _ts(u:)t(9) m(a/)i(6)_
         [[zyut6 maai6 絕賣]]
-        a final sale, as land never to be redeemed[.]
+        a final sale, as land never to be redeemed``.``
     ==
   ====
 C
   ==
   - Fan Wan entry: Fixed missing strokes in 斷 and 滅.
-  - Williams' "a superlative": Better rendered "absolutely".
-  - Willimas' 斷絕: Corrected _t(u:)n(6)_ (dyun6 去聲) to _(5)t(')(u:)n_ (tyun5 上聲).
   - Williams' 趕到絕龍嶺: Changed _(5)ling_ (ling5) to vernacular reading _(5)leng_ (leng5).
-  - Williams' 天無絕人之路: Here, "men's resources" should be rendered "man".
-    The whole phrase is better rendered "Heaven [lays] no path that cuts off man".
+  - Williams' 天無絕人之路: Better rendered "Heaven [lays] no path that cuts off man".
   ==
 P
   ++
@@ -753,7 +744,7 @@ P
   ++
 $$
 
-###+ 綴6 | _Ch(u:)t(9)_ (zyut6)
+###+ 綴6 | _Ch(u:)t(9)_ [[zyut6]]
 
 $$.
 R

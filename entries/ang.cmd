@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ang
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -65,7 +65,7 @@ U
   U+56B6
 F
   ==
-  - [[F2.30 嚶]] 鳥鳴聲之和
+  - (F2.30 嚶) 鳥鳴聲之和
   ==
 W
   ====
@@ -89,7 +89,7 @@ U
   U+7F43
 F
   ==
-  - [[F2.30 罃]] 魏侯名
+  - (F2.30 罃) 魏侯名
   ==
 W
   ====
@@ -117,7 +117,7 @@ V
   ==
 F
   ==
-  - [[F2.30 鶯]] 黃鶯鳥名
+  - (F2.30 鶯) 黃鶯鳥名
   ==
 W
   ====
@@ -174,7 +174,7 @@ V
   ==
 F
   ==
-  - [[F2.31 哽]] 鶯上聲哽咽
+  - (F2.31 哽) 鶯上聲哽咽
   ==
 W
   ====
@@ -228,7 +228,7 @@ W
     - _(2)ang (1)f(a/)_
         [[ang2 faa1 㾘花]],
         to emboss;
-    - _(1)[sh(a/)ng] shek(9) (2)ang_
+    - _~~(1)shang~~ ``(1)sh(a/)ng`` shek(9) (2)ang_
         [[saang1 sek6 ang2 生石㾘]],
         to have a stone bruise;
     - _(2)ang (1)sam_
@@ -291,7 +291,7 @@ W
     - _ang(3) (5)yau (1)t(')(i/)m_
         [[ang3 jau5 tim1 更有添]],
         there are more;
-    - _ang(3) noi(6) [(1)]t(i/)_
+    - _ang(3) noi(6) ~~t(i/)(6)~~ ``(1)t(i/)``_
         [[ang3 noi6 di1 更耐啲]]^
         rather longer time.
     ==

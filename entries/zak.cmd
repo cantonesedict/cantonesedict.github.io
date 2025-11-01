@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zak
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -63,7 +63,7 @@ U
   U+4EC4
 F
   ==
-  - [[F2.32 仄]] 平仄傾仄
+  - (F2.32 仄) 平仄傾仄
   ==
 W
   ====
@@ -74,7 +74,7 @@ W
     - _(1)k(')ing chak(7)_
         [[king1 zak1 傾仄]]
         tipped over, upset;
-    - _chak(7) (1)[shing]_
+    - _chak(7) ~~(1)sheng~~ ``(1)shing``_
         [[zak1 sing1 仄聲]]^
         the oblique tones;
     - _chak(7) lau(6)_
@@ -104,7 +104,7 @@ A
   ==
 F
   ==
-  - [[F2.32 側 _Ch(')ak(7)_ (cak1)]] 傍邊曰側
+  - (F2.32 側 _Ch(')ak(7)_ (cak1)) 傍邊曰側
   ==
 W
   ====
@@ -155,7 +155,7 @@ U
   U+5247
 F
   ==
-  - [[F2.33 則]] 法也準也卽也
+  - (F2.33 則) 法也準也卽也
   ==
 W
   ====
@@ -183,7 +183,7 @@ W
         [[zak1 go3 則個]] in the court dialect
         is like _pa(6) lok(8)_ [[baa6 lok3 罷咯]]
         well, then;
-        _e.~g._ _sh(u:)(3) [ts(u/)i](6) tsak(7) ko(3)_
+        _e.~g._ _sh(u:)(3) ~~tsui(6)~~ ``ts(u/)i(6)`` tsak(7) ko(3)_
         [[syu3 zeoi6 zak1 go3 恕罪則個]]
         well, then I'll pardon the fault;
     - _(5)yau mat(9) (5)yau tsak(7)_
@@ -218,7 +218,7 @@ U
   U+6603
 F
   ==
-  - [[F2.32 昃]] 日斜也
+  - (F2.32 昃) 日斜也
   ==
 W
   ====
@@ -243,7 +243,7 @@ U
   U+7C00
 F
   ==
-  - [[F2.32 簀]] ？？也
+  - (F2.32 簀) ？？也
   ==
 W
   ====
@@ -277,7 +277,7 @@ H
   depending on the font.
 F
   ==
-  - [[F2.33 鯽]] 魚名
+  - (F2.33 鯽) 魚名
   ==
 W
   ====
@@ -292,7 +292,7 @@ S
   ==
 $$
 
-###+ 鰂1 | _Tsak(7)_ (zak1)
+###+ 鰂1 | _Tsak(7)_ [[zak1]]
 
 $$
 R

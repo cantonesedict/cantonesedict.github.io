@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zit
-* %date-modified --> 2025-07-08
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -74,7 +74,7 @@ S
   ==
 $$
 
-###+ 擳1 | _Ch(i/)t(7)_ (zit1)
+###+ 擳1 | _Ch(i/)t(7)_ [[zit1]]
 
 $$
 R
@@ -170,8 +170,8 @@ A
   ==
 F
   ==
-  - [[F1.25 哲]] 明哲
-  - [[F1.25 喆]] 同上
+  - (F1.25 哲) 明哲
+  - (F1.25 喆) 同上
   ==
 W
   ====
@@ -200,8 +200,8 @@ U
   U+5586
 F
   ==
-  - [[F1.25 哲]] 明哲
-  - [[F1.25 喆]] 同上
+  - (F1.25 哲) 明哲
+  - (F1.25 喆) 同上
   ==
 W
   ====
@@ -246,7 +246,7 @@ U
   U+6298
 F
   ==
-  - [[F1.25 折]] 損也耗也
+  - (F1.25 折) 損也耗也
   ==
 W
   ====
@@ -264,13 +264,13 @@ W
     - to exchange, to lose in trade;
     - to make amends for, to set over against;
     - to abase, to lower;
-    - ~~unmarried;~~
+    - ~~unmarried~~ ``to die early, especially before marriage`` [[Kangxi: 短折不祿也, 未婚曰折]];
     - _ch(i/)t(8) ts(i/)t(8) h(a/)(6) (1)k(a/)u_
         [[zit3 zit3 haa6 gaau1 折節下交]],
         to condescend to men of low estate;
     - _ch(i/)t(8) yuk(9)_
         [[zit3 juk6 折獄]]
-        ~~to have a jail delivery~~;
+        to ~~have a jail delivery~~ ``make judgement in a litigation``;
     - _(5)m(u/)i p(')at(7) ch(i/)t(8) (4)l(e/)ung (i/)(6) shek(9)_
         [[mui5 pat1 zit3 loeng4 ji6 sek6 每匹折量二石]]
         each piece was reckoned as two stone of corn;
@@ -278,7 +278,7 @@ W
         [[m4 zit3 dak1 唔折得]]
         cannot cheapen it;
         can't break it;
-    - _(2)k(i/) [(4)]shing ch(i/)t(8)_
+    - _(2)k(i/) ~~(1)shing~~ ``(4)shing`` ch(i/)t(8)_
         [[gei2 sing4 zit3 幾成折]]
         what discount will you make?
     - _ch(i/)t(8) shik(9)_
@@ -313,17 +313,12 @@ W
   ====
 C
   ==
-  - Williams' "unmarried": This is a misreading of Kangxi 未婚曰折.
-    This explanation is subcommentary specific to the sense of early death.
-  - Williams' 折獄: In the classical register, this is not "jail delivery",
-    but to make judgement (折) in a litigation (獄).
   - Williams' 幾成折: Corrected _(1)shing_ (sing1) to _(4)shing_ (sing4).
   ==
 P
   ++
   1. To turn, to change direction (Kangxi: 曲也).
   1. To destroy (Kangxi: 毀也).
-  1. To die early, especially before marriage (Kangxi: 短折不祿也, 未婚曰折).
   1. A setback, a difficulty.
   1. To admire, to be convinced of.
   ++
@@ -347,7 +342,7 @@ S
   ==
 $$
 
-###+ 晢3 | _Ch(i/)t(8)_ (zit3)
+###+ 晢3 | _Ch(i/)t(8)_ [[zit3]]
 
 $$
 R
@@ -380,7 +375,7 @@ H
   depending on the font.
 F
   ==
-  - [[F1.26 櫛]] 櫛風沐雨
+  - (F1.26 櫛) 櫛風沐雨
   ==
 W
   ====
@@ -403,7 +398,7 @@ P
   ++
 $$
 
-### [浙]3 | _Ch(i/)t(8)_ [[zit3]]
+### ~~淅~~``浙``3 | _Ch(i/)t(8)_ [[zit3]]
 
 $$
 R
@@ -412,21 +407,17 @@ U
   U+6D59
 F
   ==
-  - [[F1.25 浙]] 浙江
+  - (F1.25 浙) 浙江
   ==
 W
   ====
-  - [[Page~23* ::[浙](8)::]]
+  - [[Page~23* ::~~淅~~``浙``(8)::]]
     ==
     - A river [[Kangxi: 江名]] in Chehki(a/)ng [[浙江]],
       called _Ch(i/)t(8) (2)shui_ [[zit3 seoi2 浙水]],
       from which the province is named.
     ==
   ====
-C
-  ==
-  - Williams misprints 浙 as 淅; here corrected.
-  ==
 $$
 
 ### 癤3 | _Ts(i/)t(8)_ [[zit3]]
@@ -441,7 +432,7 @@ H
   depending on the font.
 F
   ==
-  - [[F1.26 癤]] 小瘡
+  - (F1.26 癤) 小瘡
   ==
 W
   ====
@@ -464,8 +455,8 @@ H
   depending on the font.
 F
   ==
-  - [[F1.26 節]] 制也儉也符節時節
-  - [[F1.26 节]] 同上
+  - (F1.26 節) 制也儉也符節時節
+  - (F1.26 节) 同上
   ==
 W
   ====
@@ -537,7 +528,7 @@ W
     - _ts(i/)t(8) ts(i/)t(8) (1)k(o\)_
         [[zit3 zit3 gou1 節節高]],
         gradually rising in rank or wealth;
-    - _ts(i/)t(8) k(i/)m[(6)]_
+    - _ts(i/)t(8) ~~k(i/)m(3)~~ ``k(i/)m(6)``_
         [[zit3 gim6 節儉]]
         frugal, within the limits.
     ==
@@ -558,7 +549,7 @@ U
   U+8707
 F
   ==
-  - [[F1.25 蜇]] ::海蜇水[母]足::
+  - (F1.25 蜇) ::海蜇水[母]足::
   ==
 W
   ====
@@ -580,7 +571,7 @@ C
   ==
 $$
 
-###+ 蟄3 | _Ch(i/)t(8)_ (zit3)
+###+ 蟄3 | _Ch(i/)t(8)_ [[zit3]]
 
 $$.
 R
@@ -624,7 +615,7 @@ U
   U+622A
 F
   ==
-  - [[F1.27 截]] 斷也止也
+  - (F1.27 截) 斷也止也
   ==
 W
   ====
@@ -636,7 +627,7 @@ W
     - to obstruct;
     - to discriminate, to make nice distinctions;
     - a portion, a half;
-    - _(4)l(a/)n ts(i/)t[(9)]_ [[laan4 zit6 攔截]]
+    - _(4)l(a/)n ~~ts(i/)t(8)~~ ``ts(i/)t(9)``_ [[laan4 zit6 攔截]]
         or
       _ts(i/)t(9) ch(u:)(6) (5)k(')(u:)_ [[zit6 zyu6 keoi5 截住佢]],
         to stop, to arrest one's progress;
@@ -646,7 +637,7 @@ W
     - _ts(i/)t(9) (1)(i/)_
         [[zit6 ji1 截衣]],
         a robe whose body and skirt are of two colors;
-    - _ts(i/)t(9) [(5)t(')(u:)n]_
+    - _ts(i/)t(9) ~~t(u:)n(6)~~ ``(5)t(')(u:)n``_
         [[zit6 tyun5 截斷]]^
         to cut apart.
     ==
@@ -674,7 +665,7 @@ V
   ==
 F
   ==
-  - [[F1.27 ::[捷]::]] ::勝也敏疾也報勝曰[捷]報::
+  - (F1.27 ::[捷]::) ::勝也敏疾也報勝曰[捷]報::
   ==
 W
   ====
@@ -704,7 +695,7 @@ W
         quick.
     ==
     --
-    This is also read _ts(i/)p[(9)]_ [[zip6]].
+    This is also read _~~ts(i/)p(8)~~ ``ts(i/)p(9)``_ [[zip6]].
     --
   ====
 C
@@ -718,7 +709,7 @@ P
   ++
 $$
 
-###+ 睫6 | _Ts(i/)t(9)_ (zit6)
+###+ 睫6 | _Ts(i/)t(9)_ [[zit6]]
 
 $$
 R
@@ -732,7 +723,7 @@ V
   ==
 F
   ==
-  - [[F2.50 ::[睫]:: _Ts(i/)p(8)_ (zip3)]] ::目[睫]目旁毛也::
+  - (F2.50 ::[睫]:: _Ts(i/)p(8)_ (zip3)) ::目[睫]目旁毛也::
   ==
 W
   ====
@@ -740,7 +731,7 @@ W
     ==
     - The eye-lashes [[Kangxi: 目旁毛也]];
     - _met._ the eye;
-    - _sh(e/)ung(6) [ts(i/)t(9)]_
+    - _sh(e/)ung(6) ~~ts(i/)p(8)~~ ``ts(i/)t(9)``_
         [[soeng6 zit6 上睫]]
         the upper eye-lashes.
     ==

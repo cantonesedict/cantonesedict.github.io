@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2025-08-18
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -76,7 +76,7 @@ W
     - [[...]];
     - _(1)ts(')(o\) (2)(i/)n_ [[cou1 jin2 操演]]^
         or
-      _h(a/)[(6)] (1)ts(')(o\)_ [[haa6 cou1 下操]],
+      _~~(5)h(a/)~~ ``h(a/)(6)`` (1)ts(')(o\)_ [[haa6 cou1 下操]],
         to drill troops;
     - _(2)t(')ai (1)ts(')(o\)_
         [[tai2 cou1 睇操]],
@@ -220,7 +220,7 @@ $$
 </nav>
 <## /tone-2-characters ##>
 
-###+ 懆2 | _(2)Ts(')(o\)_ (cou2)
+###+ 懆2 | _(2)Ts(')(o\)_ [[cou2]]
 
 $$.
 R
@@ -250,8 +250,8 @@ U
   U+8278
 F
   ==
-  - [[F2.14 草 _(2)Ts(')(u/)_]] 草木
-  - [[F2.14 艸 _(2)Ts(')(u/)_]] 同上
+  - (F2.14 草 _(2)Ts(')(u/)_) 草木
+  - (F2.14 艸 _(2)Ts(')(u/)_) 同上
   ==
 W
   ====
@@ -280,8 +280,8 @@ A
   ==
 F
   ==
-  - [[F2.14 草 _(2)Ts(')(u/)_]] 草木
-  - [[F2.14 艸 _(2)Ts(')(u/)_]] 同上
+  - (F2.14 草 _(2)Ts(')(u/)_) 草木
+  - (F2.14 艸 _(2)Ts(')(u/)_) 同上
   ==
 W
   ====
@@ -305,10 +305,10 @@ W
         to finish up jobs heedlessly;
     - _(2)ts(')(o\) (1)sh(u:)_
         [[cou2 syu1 草書]],
-        [running] hand;
+        run``n``ing hand;
     - _(2)ts(')(o\) (2)ts(')(o\)_
         [[cou2 cou2 草草]],
-        toilsome[,] troublesome, careless, lenient;
+        toilsome``,`` troublesome, careless, lenient;
     - _(2)ts(')(o\) (2)k(o\)_
         [[cou2 gou2 草稿]],
         first proof, a rough copy;
@@ -330,7 +330,7 @@ W
     - _(2)ts(')(o\) (4)p(')(a/)ng_
         [[cou2 paang4 草棚]],
         a thatched roof, any thatch;
-    - _(2)ts(')(o\) [(1)k(a/)n] (4)yan meng(6)_
+    - _(2)ts(')(o\) ~~(2)k(u/)n~~ ``(1)k(a/)n`` (4)yan meng(6)_
         [[cou2 gaan1 jan4 meng6 草菅人命]]
         to trifle with people's lives, as charlatans do.
     ==
@@ -382,8 +382,8 @@ U
   U+539D
 F
   ==
-  - [[F2.16 措 _Ts(')(u/)(3)_]] 處置也安着也施布也又委置也
-  - [[F2.16 厝 _Ts(')(u/)(3)_]] 同上又安頓也
+  - (F2.16 措 _Ts(')(u/)(3)_) 處置也安着也施布也又委置也
+  - (F2.16 厝 _Ts(')(u/)(3)_) 同上又安頓也
   ==
 W
   ====
@@ -432,7 +432,7 @@ A
   ==
 F
   ==
-  - [[F2.16 噪 _Ts(')(u/)(3)_]] 群鳥鳴聲
+  - (F2.16 噪 _Ts(')(u/)(3)_) 群鳥鳴聲
   ==
 W
   ====
@@ -461,7 +461,7 @@ V
   ==
 F
   ==
-  - [[F2.16 懆 _Ts(')(u/)(3)_]] 憂貌
+  - (F2.16 懆 _Ts(')(u/)(3)_) 憂貌
   ==
 W
   ====
@@ -470,8 +470,8 @@ W
     - Chagrined, thoughtful, sad, vexed [[Kangxi: 愁不安也]];
     - covetous [[Kangxi: 貪也]];
     - affected by;
-    - _(1)tsi(u/) [(2)]ts(')(o\)_
-        [[ziu1 cou2 焦懆]]^
+    - _(1)tsi(u/) ts(')(o\)(3)_
+        [[ziu1 cou3 焦懆]]
         discontented and anxious.
     ==
   ====
@@ -501,8 +501,8 @@ A
   ==
 F
   ==
-  - [[F2.16 措 _Ts(')(u/)(3)_]] 處置也安着也施布也又委置也
-  - [[F2.16 厝 _Ts(')(u/)(3)_]] 同上又安頓也
+  - (F2.16 措 _Ts(')(u/)(3)_) 處置也安着也施布也又委置也
+  - (F2.16 厝 _Ts(')(u/)(3)_) 同上又安頓也
   ==
 W
   ====
@@ -514,7 +514,7 @@ W
     - to bury;
     - ~~to take at unawares;~~
     - to use, to employ [[Kangxi: 施布也, 措猶用也]];
-    - to relinquish [[Kangxi: 委置也]];
+    - to ~~relinquish~~ ``abandon`` [[Kangxi: 委置也]];
     - arranged, well ordered;
     - a rule;
     - _(4)m(o\) (2)sho ts(')(o\)(3) (2)shau tsuk(7)_
@@ -528,17 +528,13 @@ W
     [[...]]
     --
   ====
-C
-  ==
-  - Williams' "relinquish": Better rendered "abandon".
-  ==
 S
   ==
   - $措zaak3
   ==
 $$
 
-###+ 操3 | _Ts(')(o\)(3)_ (cou3)
+###+ 操3 | _Ts(')(o\)(3)_ [[cou3]]
 
 $$
 R
@@ -567,7 +563,7 @@ S
   ==
 $$
 
-###+ 澡3 | _Ts(')(o\)(3)_ (cou3)
+###+ 澡3 | _Ts(')(o\)(3)_ [[cou3]]
 
 $$
 R
@@ -580,7 +576,7 @@ V
   ==
 F
   ==
-  - [[F2.13 澡 _(2)Ts(u/)_ (zou2)]] 洗滌
+  - (F2.13 澡 _(2)Ts(u/)_ (zou2)) 洗滌
   ==
 W
   ====
@@ -588,7 +584,7 @@ W
     ==
     - To bathe, to wash the person [[Kangxi: 澡洗也]];
     - to cleanse the heart, to reform [[Kangxi: 借作修潔意]];
-    - _(2)sai [ts(')(o\)(3)]_
+    - _(2)sai ~~(2)ts(o\)~~ ``ts(')(o\)(3)``_
         [[sai2 cou3 洗澡]],
         to bathe.
     ==
@@ -624,8 +620,7 @@ W
         parched up, drought;
     - _(1)fung (1)k(o\) ts(')(o\)(3) mat(9)_
         [[fung1 gou1 cou3 mat6 風高燥物]]
-        the [north] [[these square brackets appear in the original text]] wind
-        dries or splits things;
+        the [north] wind dries or splits things;
     - _(1)ts(')au ts(')(o\)(3)_
         [[cau1 cou3 秋燥]]
         heats of autumn.
@@ -652,13 +647,13 @@ H
   depending on the font.
 F
   ==
-  - [[F2.16 糙 _Ts(')(u/)(3)_]] 米糙
+  - (F2.16 糙 _Ts(')(u/)(3)_) 米糙
   ==
 W
   ====
   - [[Page~587 糙(3)]]
     ==
-    - Coarse rice [[Kangxi: 粗米未舂]], ~~paddy which has only been hulled, and not cleaned~~;
+    - Coarse rice [[Kangxi: 粗米未舂]]~~, paddy which has only been hulled, and not cleaned~~;
     - _ts(')(o\)(3) (5)mai (1)l(a/)n_
         [[cou3 mai5 laan1 糙米欄]],
         Coarse Rice street, in Canton.
@@ -685,14 +680,15 @@ W
     ==
     - The noise of a crowd [[Kangxi: 羣呼煩擾也, 聒也, 羣呼曰譟]];
     - a clamor, a disturbance [[Kangxi: 擾也]];
-    - _(4)yan (1)to (2)k(u/) [ts(')(o\)](3)_
+    - _(4)yan (1)to (2)k(u/) ~~ts'(o\)(3)~~ ``ts(')(o\)(3)``_
         [[jan4 do1 gu2 cou3 人多鼓譟]]
         a great hallooing.
     ==
   ====
 C
   ==
-  - Williams' 人多鼓譟: Corrected _ts'(o\)(3)_ to _ts(')(o\)(3)_.
+  - Williams' 人多鼓譟: Corrected _ts'(o\)(3)_ (with an apostrophe)
+    to _ts(')(o\)(3)_ (with an aspirate).
   ==
 $$
 
@@ -709,7 +705,7 @@ A
   ==
 F
   ==
-  - [[F2.16 躁 _Ts(')(u/)(3)_]] 浮躁妄動也急進也
+  - (F2.16 躁 _Ts(')(u/)(3)_) 浮躁妄動也急進也
   ==
 W
   ====
@@ -722,7 +718,7 @@ W
   - [[Page~587 躁(3)]]
     ==
     - Hasty, heedless, precipitate [[Kangxi: 疾也]];
-    - ~~to go quickly~~;
+    - ~~to go quickly;~~
     - dried up by the heat, and therefore light [[Kangxi: 躁燥也物燥乃動而飛揚也]];
     - fierce, violent;
     - _ts(')(o\)(3) p(o\)(6)_
@@ -752,7 +748,7 @@ H
   depending on the font.
 F
   ==
-  - [[F2.16 造 _Ts(')(u/)(3)_]] ::至也[詣]也進也又造次::
+  - (F2.16 造 _Ts(')(u/)(3)_) ::至也[詣]也進也又造次::
   ==
 W
   ====
@@ -777,7 +773,7 @@ S
   ==
 $$
 
-###+ 酢3 | _Ts(')(o\)(3)_ (cou3)
+###+ 酢3 | _Ts(')(o\)(3)_ [[cou3]]
 
 $$.
 R
@@ -811,7 +807,7 @@ A
   ==
 F
   ==
-  - [[F2.16 醋 _Ts(')(u/)(3)_]] 酒醋
+  - (F2.16 醋 _Ts(')(u/)(3)_) 酒醋
   ==
 W
   ====
@@ -861,7 +857,7 @@ U
   U+932F
 F
   ==
-  - [[F2.16 錯 _Ts(')(u/)(3)_]] 捨置也又倉入聲礪石也
+  - (F2.16 錯 _Ts(')(u/)(3)_) 捨置也又倉入聲礪石也
   ==
 W
   ====
@@ -903,7 +899,7 @@ $$
 </nav>
 <## /tone-4-characters ##>
 
-### [嘈]4 | _(4)Ts(')(o\)_ [[cou4]]
+### ~~{？=⿰口⿱曲曰}~~``嘈``4 | _(4)Ts(')(o\)_ [[cou4]]
 
 $$
 R
@@ -916,11 +912,11 @@ V
   ==
 F
   ==
-  - [[F2.12 嘈 _(4)Ts(')(u/)_]] ::[喧]也又胡酒也::
+  - (F2.12 嘈 _(4)Ts(')(u/)_) ::[喧]也又胡酒也::
   ==
 W
   ====
-  - [[Page~586 (4)嘈]]
+  - [[Page~586 ::(4)~~{？=⿰口⿱曲曰}~~``嘈``::]]
     ==
     - Noise, clamor, hubbub [[Kangxi: 聲也]];
     - an outcry [[Kangxi: 喧嘈]];
@@ -955,7 +951,6 @@ W
 C
   ==
   - Fan Wan entry: Corrected ⿰口冋 to 喧.
-  - Williams misprints 嘈 as ⿰口⿱曲曰; here corrected.
   ==
 $$
 
@@ -968,7 +963,7 @@ U
   U+5F82
 F
   ==
-  - [[F2.12 徂 _(4)Ts(')(u/)_]] 往也落也
+  - (F2.12 徂 _(4)Ts(')(u/)_) 往也落也
   ==
 W
   ====
@@ -993,7 +988,7 @@ U
   U+66F9
 F
   ==
-  - [[F2.12 曹 _(4)Ts(')(u/)_]] 局也衆也軰也又同事曰曹
+  - (F2.12 曹 _(4)Ts(')(u/)_) 局也衆也軰也又同事曰曹
   ==
 W
   ====
@@ -1051,7 +1046,7 @@ U
   U+69FD
 F
   ==
-  - [[F2.12 槽 _(4)Ts(')(u/)_]] ::馬槽[滿]槽::
+  - (F2.12 槽 _(4)Ts(')(u/)_) ::馬槽[滿]槽::
   ==
 W
   ====
@@ -1089,7 +1084,7 @@ U
   U+6B82
 F
   ==
-  - [[F2.12 殂 _(4)Ts(')(u/)_]] 死也㓕也
+  - (F2.12 殂 _(4)Ts(')(u/)_) 死也㓕也
   ==
 W
   ====
@@ -1118,7 +1113,7 @@ V
   ==
 F
   ==
-  - [[F2.12 漕 _(4)Ts(')(u/)_]] 衞邑也又以水運糧曰漕運
+  - (F2.12 漕 _(4)Ts(')(u/)_) 衞邑也又以水運糧曰漕運
   ==
 W
   ====
@@ -1152,7 +1147,7 @@ U
   U+825A
 F
   ==
-  - [[F2.12 艚 _(4)Ts(')(u/)_]] 艚船
+  - (F2.12 艚 _(4)Ts(')(u/)_) 艚船
   ==
 W
   ====
@@ -1178,22 +1173,18 @@ U
   U+87AC
 F
   ==
-  - [[F2.12 螬 _(4)Ts(')(u/)_]] 虫名
+  - (F2.12 螬 _(4)Ts(')(u/)_) 虫名
   ==
 W
   ====
   - [[Page~587 (4)艚]]
     ==
-    - Maggots in ordure [[Kangxi: 蟦蠐螬, 在糞土中者]];
+    - ~~Maggots~~ ``Scarabs`` in ordure [[Kangxi: 蟦蠐螬, 在糞土中者]];
     - _(4)ts(')ai (4)ts(')(o\)_
         [[cai4 cou4 蠐螬]],
         grubs found in filth, which curl themselves up.
     ==
   ====
-C
-  ==
-  - Williams' "Maggots": Better rendered "scarabs".
-  ==
 $$
 
 
@@ -1208,7 +1199,7 @@ $$
 </nav>
 <## /tone-5-characters ##>
 
-###+ 儲5 | _(5)Ts(')(o\)_ (cou5)
+###+ 儲5 | _(5)Ts(')(o\)_ [[cou5]]
 
 $$.
 R

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2025-07-30
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -75,7 +75,7 @@ U
   U+5ADC
 F
   ==
-  - [[F1.89 嫜]] 姑嫜
+  - (F1.89 嫜) 姑嫜
   ==
 W
   ====
@@ -87,13 +87,9 @@ W
         a husband's parents;
     - _(1)hing (1)ch(e/)ung_
         [[hing1 zoeng1 兄嫜]],
-        a husband's brother [[Kangxi: 夫之兄曰兄嫜]].
+        a husband's ``older`` brother [[Kangxi: 夫之兄曰兄嫜]].
     ==
   ====
-C
-  ==
-  - Williams' 兄嫜: Specifically, a husband's older brother.
-  ==
 $$
 
 ### 將1 | _(1)Ts(e/)ung_ [[zoeng1]]
@@ -105,7 +101,7 @@ U
   U+5C07
 F
   ==
-  - [[F1.89 將]] 事之未必就時也又奉也送也又干將劍名
+  - (F1.89 將) 事之未必就時也又奉也送也又干將劍名
   ==
 W
   ====
@@ -117,10 +113,10 @@ W
     - then, soon, presently;
     - to help, to accommodate [[Kangxi: 助也]];
     - to use, to avail of, to go with, to escort, to accompany [[Kangxi: 送也]];
-    - great [[Kangxi: 大也]], ~~stout~~;
-    - long [[Kangxi: 長也]], ~~large~~;
+    - great [[Kangxi: 大也]]~~, stout~~;
+    - long [[Kangxi: 長也]]~~, large~~;
     - to receive and act upon, endued with [[Kangxi: 承也奉也行也]];
-    - to act [[Kangxi: 將行也]];
+    - to act``, to perform, to implement`` [[Kangxi: 將行也]];
     - to progress, ~~to increase~~, to approach, to advance [[Kangxi: 進也]] ~~towards a mark~~;
     - to follow [[Kangxi: 從也隨也]];
     - going, passing, as time [[Kangxi: 去也 etc.]];
@@ -163,7 +159,6 @@ W
   ====
 C
   ==
-  - Williams' "to act": Perhaps "to perform", or "to implement".
   - Williams' 將軍: In the non-Manchu context, a general;
     in Chinese chess, to check.
   ==
@@ -196,7 +191,7 @@ V
   ==
 F
   ==
-  - [[F1.89 張]] 開也設山？也又宿名
+  - (F1.89 張) 開也設山？也又宿名
   ==
 W
   ====
@@ -283,7 +278,7 @@ U
   U+5F70
 F
   ==
-  - [[F1.89 彰]] 著也明也
+  - (F1.89 彰) 著也明也
   ==
 W
   ====
@@ -314,7 +309,7 @@ U
   U+615E
 F
   ==
-  - [[F1.89 慞]] 惶恐
+  - (F1.89 慞) 惶恐
   ==
 W
   ====
@@ -339,7 +334,7 @@ U
   U+6A1F
 F
   ==
-  - [[F1.89 樟]] 木名
+  - (F1.89 樟) 木名
   ==
 W
   ====
@@ -368,7 +363,7 @@ U
   U+6F33
 F
   ==
-  - [[F1.89 漳]] 水名
+  - (F1.89 漳) 水名
   ==
 W
   ====
@@ -393,8 +388,8 @@ A
   ==
 F
   ==
-  - [[F1.89 漿]] 水漿酒漿
-  - [[F1.89 䊢]] 米䊢
+  - (F1.89 漿) 水漿酒漿
+  - (F1.89 䊢) 米䊢
   ==
 W
   ====
@@ -416,7 +411,7 @@ W
     - _(1)ts(e/)ung (4)(u/)_
         [[zoeng1 wu4 漿糊]],
         paste;
-    - _[mo](6) (1)ts(e/)ung_
+    - _~~m(o\)(6)~~ ``mo(6)`` (1)ts(e/)ung_
         [[mo6 zoeng1 磨漿]],
         to prepare starch.
     ==
@@ -430,7 +425,7 @@ C
   ==
 $$
 
-###+ 獐1 | _(1)Ch(e/)ung_ (zoeng1)
+###+ 獐1 | _(1)Ch(e/)ung_ [[zoeng1]]
 
 $$
 R
@@ -443,8 +438,8 @@ A
   ==
 F
   ==
-  - [[F1.89 獐]] 鹿屬無角
-  - [[F1.89 麞]] 獸名
+  - (F1.89 獐) 鹿屬無角
+  - (F1.89 麞) 獸名
   ==
 W
   ====
@@ -467,7 +462,7 @@ U
   U+748B
 F
   ==
-  - [[F1.89 璋]] 玉名
+  - (F1.89 璋) 玉名
   ==
 W
   ====
@@ -491,7 +486,7 @@ U
   U+7AE0
 F
   ==
-  - [[F1.89 章]] 文章采章章明表章
+  - (F1.89 章) 文章采章章明表章
   ==
 W
   ====
@@ -548,8 +543,8 @@ U
   U+42A2
 F
   ==
-  - [[F1.89 漿]] 水漿酒漿
-  - [[F1.89 䊢]] 米䊢
+  - (F1.89 漿) 水漿酒漿
+  - (F1.89 䊢) 米䊢
   ==
 W
   ====
@@ -560,7 +555,7 @@ W
   ====
 $$
 
-###+ 蔣1 | _(1)Ts(e/)ung_ (zoeng1)
+###+ 蔣1 | _(1)Ts(e/)ung_ [[zoeng1]]
 
 $$
 R
@@ -574,11 +569,11 @@ W
   - [[Page~566 (2)蔣 _(2)Ts(e/)ung_ (zoeng2); here corrected to _(1)Ts(e/)ung_ (zoeng1)]]
     ==
     - [[...]];
-    - _(1)k(u/) [(1)]ts(e/)ung_
+    - _(1)k(u/) ~~(2)ts(e/)ung~~ ``(1)ts(e/)ung``_
         [[gu1 zoeng1 菰蔣]],
         an aquatic grain [[Kangxi: 苽蔣]];
         wild rice;
-    - _[(1)]ts(e/)ung (4)[m(a/)u]_
+    - _~~(2)ts(e/)ung~~ ``(1)ts(e/)ung`` ~~(4)mau~~ ``(4)m(a/)u``_
         [[zoeng1 maau4 蔣茅]],
         stubble, straw.
     ==
@@ -603,7 +598,7 @@ U
   U+87BF
 F
   ==
-  - [[F1.89 螿]] 寒螿虫名
+  - (F1.89 螿) 寒螿虫名
   ==
 W
   ====
@@ -623,13 +618,13 @@ U
   U+9123
 F
   ==
-  - [[F1.89 鄣]] 地名
+  - (F1.89 鄣) 地名
   ==
 W
   ====
   - [[Page~34|n77 (1)鄣]]
     ==
-    - A feudal state, now part of T(a/)i-ng(a/)n f(u/) [[泰安府]] in [Sh(a/)ntung] [[山東]];
+    - A feudal state, now part of T``(')``(a/)i-ng(a/)n f(u/) [[泰安府]] in ~~Shantung~~ ``Sh(a/)ntung`` [[山東]];
     - an ancient city in K(u:) [[莒]], also in the modern Sh(a/)ntung [[山東]].
     ==
   ====
@@ -649,8 +644,8 @@ U
   U+9E9E
 F
   ==
-  - [[F1.89 獐]] 鹿屬無角
-  - [[F1.89 麞]] 獸名
+  - (F1.89 獐) 鹿屬無角
+  - (F1.89 麞) 獸名
   ==
 W
   ====
@@ -686,7 +681,7 @@ U
   U+596C
 F
   ==
-  - [[F1.92 奬]] 褒奬勸也勵也稱舉也
+  - (F1.92 奬) 褒奬勸也勵也稱舉也
   ==
 W
   ====
@@ -706,7 +701,7 @@ U
   U+638C
 F
   ==
-  - [[F1.91 掌]] ::手掌又主也掌握掌[管]又鞅掌失容也::
+  - (F1.91 掌) ::手掌又主也掌握掌[管]又鞅掌失容也::
   ==
 W
   ====
@@ -736,7 +731,6 @@ W
     - _(2)ch(e/)ung k(a/)u(3)_
         [[zoeng2 gaau3 掌教]]
         to teach [graduates];
-        [[these square brackets appear in the original text]]
     - _hon(3) (2)shau (2)ch(e/)ung_
         [[hon3 sau2 zoeng2 看手掌]],
         to examine the hand, palmistry;
@@ -771,7 +765,7 @@ U
   U+69F3
 F
   ==
-  - [[F1.92 槳]] 船槳
+  - (F1.92 槳) 船槳
   ==
 W
   ====
@@ -788,7 +782,7 @@ W
   ====
 $$
 
-###+ 獎2 | _(2)Ts(e/)ung_ (zoeng2)
+###+ 獎2 | _(2)Ts(e/)ung_ [[zoeng2]]
 
 $$
 R
@@ -801,7 +795,7 @@ A
   ==
 F
   ==
-  - [[F1.92 奬]] 褒奬勸也勵也稱舉也
+  - (F1.92 奬) 褒奬勸也勵也稱舉也
   ==
 W
   ====
@@ -809,7 +803,7 @@ W
     ==
     - To exhort, to animate, to excite, to encourage [[Kangxi 奬: 勸勉也]];
     - to laud, to praise, to commend [[Kangxi 奬: 褒美也]];
-    - ~~to vindicate~~, to give efficacy to [[Kangxi 奬: 助也]];
+    - ~~to vindicate,~~ to give efficacy to [[Kangxi 奬: 助也]];
     - ~~to set on, as dogs;~~
     - _(2)ts(e/)ung h(u:)n(3)_
         [[zoeng2 hyun3 獎勸]]
@@ -844,7 +838,7 @@ U
   U+8523
 F
   ==
-  - [[F1.92 蔣]] 地名周公子封于蔣後遂爲姓
+  - (F1.92 蔣) 地名周公子封于蔣後遂爲姓
   ==
 W
   ====
@@ -869,7 +863,7 @@ U
   U+9577
 F
   ==
-  - [[F1.91 長]] 尊也大也
+  - (F1.91 長) 尊也大也
   ==
 W
   ====
@@ -902,7 +896,7 @@ W
     - _(2)ch(e/)ung (2)tsz'_ [[zoeng2 zi2 長子]]
         or
       _(2)ch(e/)ung (4)fong_ [[zoeng2 fong4 長房]],
-        the eldest son;
+        the eldest son ``and his household``;
     - _(2)ch(e/)ung (5)l(o\)_
         [[zoeng2 lou5 長老]],
         a Budhist priest;
@@ -915,14 +909,9 @@ W
         old, older;
     - _pat(7) (2)ch(e/)ung tsun(3)_
         [[bat1 zoeng2 zeon3 不長進]]
-        ~~untrustworthy~~.
+        ~~untrustworthy~~ ``unimproving, not progressing``.
     ==
   ====
-C
-  ==
-  - Williams' 長房: More the eldest son *and his household*, than simply the eldest son.
-  - Williams' 不長進: Not untrustworthy, but unimproving, or not progressing.
-  ==
 S
   ==
   - $長coeng4
@@ -951,7 +940,7 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
-###+ 仗3 | _Ch(e/)ung(3)_ (zoeng3)
+###+ 仗3 | _Ch(e/)ung(3)_ [[zoeng3]]
 
 $$.
 R
@@ -981,7 +970,7 @@ U
   U+5C07
 F
   ==
-  - [[F1.93 將]] 將帥統兵之官也
+  - (F1.93 將) 將帥統兵之官也
   ==
 W
   ====
@@ -989,15 +978,14 @@ W
     ==
     - To take charge of troops, to lead troops into the field, to act as a general [[Kangxi: 將之也]];
     - a general, a leader [[Kangxi: 將帥也]];
-    - _[(5)]l(o\) ts(e/)ung(3)_
+    - _~~(2)l(o\)~~ ``(5)l(o\)`` ts(e/)ung(3)_
         [[lou5 zoeng3 老將]]
-        a soldier.
+        a``n old`` soldier``, a veteran``.
     ==
   ====
 C
   ==
   - Williams' 老將: Corrected _(2)l(o\)_ (lou2) to _(5)l(o\)_ (lou5).
-    Specifically an old soldier, a veteran.
   ==
 S
   ==
@@ -1019,7 +1007,7 @@ A
   ==
 F
   ==
-  - [[F1.92 帳]] 帷幕也
+  - (F1.92 帳) 帷幕也
   ==
 W
   ====
@@ -1060,7 +1048,7 @@ W
   ====
 $$
 
-###+ 張3 | _Ch(e/)ung(3)_ (zoeng3)
+###+ 張3 | _Ch(e/)ung(3)_ [[zoeng3]]
 
 $$.
 R
@@ -1095,7 +1083,7 @@ V
   ==
 F
   ==
-  - [[F1.92 悵]] 惆悵
+  - (F1.92 悵) 惆悵
   ==
 W
   ====
@@ -1126,8 +1114,8 @@ U
   U+6F32
 F
   ==
-  - [[F1.92 漲]] 大水貌又水泛溢
-  - [[F1.92 涱]] 同上
+  - (F1.92 漲) 大水貌又水泛溢
+  - (F1.92 涱) 同上
   ==
 W
   ====
@@ -1156,7 +1144,7 @@ U
   U+7634
 F
   ==
-  - [[F1.93 瘴]] ::瘴癘[熱]病::
+  - (F1.93 瘴) ::瘴癘[熱]病::
   ==
 W
   ====
@@ -1200,7 +1188,7 @@ V
   ==
 F
   ==
-  - [[F1.92 脹]] 腫脹
+  - (F1.92 脹) 腫脹
   ==
 W
   ====
@@ -1238,7 +1226,7 @@ A
   ==
 F
   ==
-  - [[F1.92 賬]] 賬目
+  - (F1.92 賬) 賬目
   ==
 W
   ====
@@ -1255,9 +1243,20 @@ W
     ==
     - A debt, a claim, an account, a charge;
     - to reckon, to sum up;
-    - to calculate[;]
+    - to calculate~~.~~``;``
+    ==
+    <del>
+    --
+    A colloquial word.
+    --
+    </del>
+    ==
+    - ~~A time, an occasion;~~
+    - ~~_(4)lai kwo(3) yat(7) ch(e/)ung(3)_
+        [[lai4 gwo3 jat1 zoeng3 嚟過一賬]]
+        I have been here once;~~
     - _(4)'m s(u:)n(3) ch(e/)ung(3)_
-        [[m4 syun4 zoeng3 唔算賬]]
+        [[m4 syun3 zoeng3 唔算賬]]
         do not put it to my account, it's none of my business;
     - _ngan(6) ch(e/)ung(3)_
         [[ngan6 zoeng3 韌賬]]
@@ -1288,7 +1287,7 @@ W
         an account book;
     - _t(u/)i(3) ch(e/)ung(3)_
         [[deoi3 zoeng3 對賬]]
-        to balance accounts by offsetting[;]
+        to balance accounts by offsetting``;``
     - _(1)ts(')ing ch(e/)ung(3)_ [[cing1 zoeng3 清賬]]
         or
       _(4)w(a/)n ch(e/)ung(3)_ [[waan4 zoeng3 還賬]]
@@ -1297,6 +1296,7 @@ W
         [[him3 zoeng3 欠賬]]
         to owe.
     ==
+    <ins>
     --
     A colloquial word.
     --
@@ -1304,13 +1304,14 @@ W
     - A time, an occasion;
     - _(4)lai kwo(3) yat(7) ch(e/)ung(3)_
         [[lai4 gwo3 jat1 zoeng3 嚟過一賬]]
-        I have been here once[.]
+        I have been here once.
     ==
+    </ins>
   ====
 C
   ==
-  - Williams erroneously puts the "account" sense examples under "A colloquial word";
-    I have fixed this by moving them under "An unauthorized character".
+  - "A colloquial word" applies only to the "time/occasion" sense.
+    I have fixed this by moving that sense to the bottom.
   ==
 $$
 
@@ -1323,7 +1324,7 @@ U
   U+91AC
 F
   ==
-  - [[F1.93 醬]] 醢也肉醬謂之醢又豉醬
+  - (F1.93 醬) 醢也肉醬謂之醢又豉醬
   ==
 W
   ====
@@ -1363,7 +1364,7 @@ U
   U+969C
 F
   ==
-  - [[F1.92 障]] 隔也蔽也塞也
+  - (F1.92 障) 隔也蔽也塞也
   ==
 W
   ====
@@ -1376,7 +1377,7 @@ W
     - something which prevents progress;
     - an intervening distance;
     - a barricade [[Kangxi: 障衞也]], a trench, a fence;
-    - a protection, ~~as a carpet~~;
+    - a protection~~, as a carpet~~;
     - a dike, a terminus;
     - _(2)p(a/)n ch(e/)ung(3)_
         [[baan2 zoeng3 板障]]
@@ -1431,7 +1432,7 @@ V
   ==
 F
   ==
-  - [[F1.93 丈]] 十尺曰丈又大丈夫
+  - (F1.93 丈) 十尺曰丈又大丈夫
   ==
 W
   ====
@@ -1487,13 +1488,13 @@ V
   ==
 F
   ==
-  - [[F1.93 仗]] 兵器刀劍總名又儀衞曰仗又倚仗憑依也
+  - (F1.93 仗) 兵器刀劍總名又儀衞曰仗又倚仗憑依也
   ==
 W
   ====
   - [[Page~35|n78 仗(6)]]
     ==
-    - A sharp weapon;
+    - ~~A sharp weapon~~ ``Weaponry`` [[Kangxi: 劒戟總名]];
     - to fight;
     - to rely on, to lean on, to look up to [[Kangxi: 憑倚也]];
     - _(2)t(a/) shing(3) ch(e/)ung(6)_
@@ -1522,13 +1523,8 @@ W
         to trust to.
     ==
   ====
-C
-  ==
-  - Williams' "A sharp weapon": Better rendered "weaponry".
-  ==
 P
   ++
-  1. Weaponry (Kangxi: 劒戟總名).
   1. Battle.
   1. To hold, to wield.
   ++
@@ -1560,7 +1556,7 @@ H
   depending on the font.
 F
   ==
-  - [[F1.93 像]] 形像又倣摸也
+  - (F1.93 像) 形像又倣摸也
   ==
 W
   ====
@@ -1608,7 +1604,7 @@ U
   U+5320
 F
   ==
-  - [[F1.93 匠]] 工匠
+  - (F1.93 匠) 工匠
   ==
 W
   ====
@@ -1648,7 +1644,7 @@ V
   ==
 F
   ==
-  - [[F1.93 杖]] 梃也
+  - (F1.93 杖) 梃也
   ==
 W
   ====
@@ -1673,7 +1669,7 @@ W
     - _ch(e/)ung(6) (1)(u:) (1)h(e/)ung_
         [[zoeng6 jyu1 hoeng1 杖於鄉]],
         a village sexagenarian;
-    - _[sek(8)] ch(e/)ung(6)_
+    - _~~sik(7)~~ ``sek(8)`` ch(e/)ung(6)_
         [[sek3 zoeng6 錫杖]]
         a crosier;
     - _ch(e/)ung(6) (1)k(i/) (1)f(u/)_
@@ -1696,7 +1692,7 @@ C
   ==
 $$
 
-###+ 橡6 | _Ts(e/)ung(6)_ (zoeng6)
+###+ 橡6 | _Ts(e/)ung(6)_ [[zoeng6]]
 
 $$
 R
@@ -1742,7 +1738,7 @@ A
   ==
 F
   ==
-  - [[F1.93 象]] 獸名又似也
+  - (F1.93 象) 獸名又似也
   ==
 W
   ====
@@ -1792,7 +1788,7 @@ E
   ====
 $$
 
-###+ 長6 | _Ch(e/)ung(6)_ (zoeng6)
+###+ 長6 | _Ch(e/)ung(6)_ [[zoeng6]]
 
 $$
 R
