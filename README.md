@@ -44,7 +44,6 @@ pcregrep -M '^C$\n  \+\+$' entries/*cmd
 
 TODO for merging branch `edits-with-ins-del`:
 
-- Leave common readings unaltered
 - Update last modified 2025-XX-XX
 
 -->

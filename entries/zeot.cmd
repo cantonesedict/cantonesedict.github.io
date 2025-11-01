@@ -161,7 +161,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~610 捽(8) _Ts(')(u:)t(8)_ (cyut3); here normalised to _Tsut(7)_ (zeot1)]]
+  - [[Page~610 捽(8) _Ts(')(u:)t(8)_ (cyut3)]]
     ==
     - To grasp, to clutch, to seize [[Kangxi: 手持也]], as by the nape;
     - to butt, to push [[Kangxi: 觸也]];
@@ -281,7 +281,7 @@ W
 C
   ==
   - Williams' 三黜: Corrected _(1)s(a/)m_ (saam1) to _s(a/)m(3)_ (saam3)
-    per 《論語集注》三去聲. Not a third reprimand, but thrice dismissed.
+    per 《論語集注》三去聲. Here, 黜 refers to dismissal, not a reprimand.
   ==
 P
   ++

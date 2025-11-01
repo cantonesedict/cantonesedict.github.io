@@ -933,26 +933,26 @@ F
   ==
 W
   ====
-  - [[Page~36|n79 (1)倡 _(1)Ch(')(e/)ung_ (coeng1); here normalised to _Ch(')(e/)ung(3)_ (coeng3)]]
+  - [[Page~36|n79 (1)倡 _(1)Ch(')(e/)ung_ (coeng1)]]
     ==
     - To lead, to go before [[Kangxi: 倡發歌句也]], to seduce or induce;
     - a leader;
     - an example, a guide;
     - [[...]];
-    - _~~(1)ch(')(e/)ung~~ ``ch(')(e/)ung(3)`` t(o\)(6)_
-        [[coeng3 dou6 倡導]]
+    - _(1)ch(')(e/)ung t(o\)(6)_
+        [[coeng1 dou6 倡導]]
         to show the way;
-    - _~~(1)ch(')(e/)ung~~ ``ch(')(e/)ung(3)`` (4)(i/)n_
-        [[coeng3 jin4 倡言]],
+    - _(1)ch(')(e/)ung (4)(i/)n_
+        [[coeng1 jin4 倡言]],
         to speak first;
-    - _~~(1)ch(')(e/)ung~~ ``ch(')(e/)ung(3)`` sut(7)_
-        [[coeng3 seot1 倡率]]
+    - _(1)ch(')(e/)ung sut(7)_
+        [[coeng1 seot1 倡率]]
         to lead on;
-    - _~~(1)ch(')(e/)ung~~ ``ch(')(e/)ung(3)`` (4)t(')au_
-        [[coeng3 tau4 倡頭]],
+    - _(1)ch(')(e/)ung (4)t(')au_
+        [[coeng1 tau4 倡頭]],
         a leader;
-    - _~~(1)ch(')(e/)ung~~ ``ch(')(e/)ung(3)`` l(u:)n(6)_
-        [[coeng3 lyun6 倡亂]]
+    - _(1)ch(')(e/)ung l(u:)n(6)_
+        [[coeng1 lyun6 倡亂]]
         to head a riot.
     ==
   ====
