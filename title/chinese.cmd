@@ -11,14 +11,14 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 %%%
 
+
+#{.williams} 《英華分韻撮要》
+
 {+++
 --
 (From [the Chinese title page of the original]<n9>.)
 --
 +++}
-
-
-#{.williams} 《英華分韻撮要》
 
 {+++
 --

@@ -11,13 +11,13 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 %%%
 
+#{.williams} %title
+
 {+++
 --
 (From [Page~v of the original]{#page-v}<n12> onwards.)
 --
 +++}
-
-#{.williams} %title
 
 --{.williams}
 This Dictionary contains only a portion of all the characters in the

@@ -11,13 +11,13 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 %%%
 
+#{.williams} %title
+
 {+++
 --
 (From [Page~ix of the original]{#page-ix}<n16> onwards.)
 --
 +++}
-
-#{.williams} %title
 
 
 ##{#canton .williams} 1. The Canton Dialect.
