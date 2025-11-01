@@ -42,7 +42,7 @@ OrdinaryDictionaryReplacement: #.boilerplate.properties-override
 * lang="%lang" --> lang="%lang" translate="no"
 * %head-elements-before-viewport -->
     <meta name="author" content="Conway">
-    <meta name="description" content="Cantonese Dictionary, a modern edition of Williams' 1856 Tonic Dictionary: %meta-description">
+    <meta name="description" content="Conway's Cantonese Dictionary, a modern edition of Williams' 1856 Tonic Dictionary: %meta-description">
 * %head-elements-after-viewport -->
     <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -52,7 +52,7 @@ OrdinaryDictionaryReplacement: #.boilerplate.properties-override
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
     <link rel="stylesheet" href="/res/styles/tonic.css">
-* </title> --> " | Cantonese Dictionary</title>"
+* </title> --> " | Conway's Cantonese Dictionary</title>"
 * %black-serif-note -->
     <span class="williams">Black serif text</span>
     from [Williams' ''Tonic Dictionary'' (1856)]<n2>. <br>

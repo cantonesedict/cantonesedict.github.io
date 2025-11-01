@@ -29,11 +29,11 @@ RegexDictionaryReplacement: #.subsidiary-tonic-link
 
 %%%
 
-#{.modern} Cantonese Dictionary
+#{.modern} Conway's Cantonese Dictionary
 
 --{.modern}
 **Work in progress:**
-A modern edition of 《英華分韻撮要》
+An annotated edition of 《英華分韻撮要》
 [''A Tonic Dictionary of the Chinese Language in the Canton Dialect'' (1856)]<n2>
 by [Samuel Wells Williams].
 --
@@ -55,6 +55,7 @@ by [Samuel Wells Williams].
 
 - Front matter (modern)
   ==
+  - [Conway's preface](/conway/)
   - [Cantonese phonology](/phonology/)
   - [Font test page](/font-test/)
   ==
@@ -217,12 +218,10 @@ $$
 ##{#modernisation .modern} Modernisation
 
 --{.modern}
-The modernisation here of Williams' original is an ongoing solo effort by Conway,
+This annotated edition of Williams' original is an ongoing solo effort by Conway,
 consisting of:
 --
 ++{.modern}
-1. Normalisation of characters and readings to account for modern usage;
-
 1. Transcribing its entries
    (<span class="williams">black serif text</span>)
    with bullet list formatting for readability;
@@ -231,11 +230,14 @@ consisting of:
    deletions (<span class="williams">~~black serif struck~~</span>)
    and insertions (<span class="williams">``crimson serif underlined``</span>);
 
+1. Normalising characters and readings
+   to account for modern usage and conventions;
+
 1. Associating entries with those in the original Fan Wan 《分韻撮要》;
 
 1. Collating the entries by Jyutping
    (noting that there are phonological differences between
-   the Ts(')ing Dynasty Cantonese recorded by Williams
+   the [Ts(')ing Dynasty Cantonese recorded by Williams](/intro/)
    and [modern Hong Kong Cantonese](/phonology/));
 
 1. Under each Jyutping pronunciation,
@@ -246,10 +248,9 @@ consisting of:
 
 1. Inserting characters (%modern-colour sans-serif text)
    if not already supplied alongside the Williams romanisations,
-   where practicable (with assistance from Eitel's 1877 Dictionary);
+   where practicable;
 
-1. Inserting commentary (%modern-colour sans-serif text)
-   and cross-reference links (blue);
+1. Inserting commentary (%modern-colour sans-serif text);
 
 1. Adding supplementary entries for some characters or senses
    that were not recorded by Williams.
