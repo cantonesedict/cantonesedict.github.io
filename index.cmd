@@ -29,7 +29,7 @@ RegexDictionaryReplacement: #.subsidiary-tonic-link
 
 %%%
 
-#{.modern} Cantonese Dictionary
+#{.modern} Conway's Cantonese Dictionary
 
 --{.modern}
 **Work in progress:**
