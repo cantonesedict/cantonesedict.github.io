@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 16-stroke radicals
-* %date-modified --> 2024-01-07
-* %copyright-prior-years -->
+* %date-modified --> 2025-11-01
+* %copyright-prior-years --> 2024--
 * %meta-description --> index of characters with 16-stroke radicals
 
 OrdinaryDictionaryReplacement: #.no-black-serif-note

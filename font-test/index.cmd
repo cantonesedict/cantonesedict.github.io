@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Font test page
-* %date-modified --> 2024-11-25
+* %date-modified --> 2025-11-01
 * %copyright-prior-years --> 2023--
 * %meta-description --> Font test page for tone marks
 
