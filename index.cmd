@@ -222,9 +222,6 @@ This annotated edition of Williams' original is an ongoing solo effort by Conway
 consisting of:
 --
 ++{.modern}
-1. Normalising characters and readings
-   to account for modern usage and conventions;
-
 1. Transcribing its entries
    (<span class="williams">black serif text</span>)
    with bullet list formatting for readability;
@@ -232,6 +229,9 @@ consisting of:
 1. Making (mostly corrective) edits in the form of
    deletions (<span class="williams">~~black serif struck~~</span>)
    and insertions (<span class="williams">``crimson serif underlined``</span>);
+
+1. Normalising characters and readings
+   to account for modern usage and conventions;
 
 1. Associating entries with those in the original Fan Wan 《分韻撮要》;
 
