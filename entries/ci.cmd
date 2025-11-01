@@ -1196,7 +1196,7 @@ W
   - [[Page~10* (1)褫 _(1)Ch(')(i/)_ (ci1); here normalised to _(2)Ch(')(i/)_ (ci2)]]
     ==
     - To take away insignia, to degrade;
-    - to take off clothes, to denude [[Kangxi: 奪衣也]];
+    - ``to strip,`` to take off clothes, to denude [[Kangxi: 奪衣也]];
     - a fringe [[Kangxi: ::衣絮[偏]也::]];
     - _~~(1)ch(')(i/)~~ ``(2)ch(')(i/)`` k(a/)k(8)_
         [[ci2 gaak3 褫革]]
