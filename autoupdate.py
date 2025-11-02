@@ -969,9 +969,9 @@ class Page:
         if characters != sorted_characters:
             print(
                 f'Error: character entries not in sorted order\n'
-                f'  ({characters})\n'
+                f'  ({sorted_characters}) expected\n'
                 f'   {discrepancy_marking}\n'
-                f'  ({sorted_characters})',
+                f'  ({characters}) observed',
                 file=sys.stderr,
             )
             sys.exit(1)
