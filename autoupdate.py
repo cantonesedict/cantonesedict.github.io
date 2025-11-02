@@ -373,18 +373,19 @@ class Updater:
 
     @staticmethod
     def _check_insertion_context(entry_cmd_name, cmd_content):
+        exempt_pattern = r'''
+            ^ \# \{ \.williams \} .*
+                |
+            ^ \#\# \{ \#[1-6] [ ] \.williams \} .*
+                |
+            ^ \#\#\# [ +] .*
+                |
+            ^ (WH | WV | F | W) \n (?: [ ]{2} .* \n )+
+                |
+            ^ \-\- \{ \.williams \} \n [\s\S]*? \n \-\- \n
+        '''
         nonexempt_cmd_content = re.sub(
-            pattern=r'''
-                ^ \# \{ \.williams \} .*
-                    |
-                ^ \#\# \{ \#[1-6] [ ] \.williams \} .*
-                    |
-                ^ \#\#\# [ +] .*
-                    |
-                ^ (WH | WV | F | W) \n (?: [ ]{2} .* \n )+
-                    |
-                ^ \-\- \{ \.williams \} \n [\s\S]*? \n \-\- \n
-            ''',
+            pattern=exempt_pattern,
             repl='',
             string=cmd_content,
             flags=re.MULTILINE | re.VERBOSE,
