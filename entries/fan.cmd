@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fan
-* %date-modified --> 2025-11-01
+* %date-modified --> 2025-11-02
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -369,7 +369,7 @@ W
   - [[Page~45 (1)昏]]
     ==
     - The sun setting [[Kangxi: 日冥也]];
-    - ~~twilight~~ ``dusk``;
+    - ``evening`` twilight;
     - dusk [[Kangxi: 昏代也, 代明也, 日入後二刻半爲昏昏來則明往故云代明]];
     - obscure, confused, dull [[Kangxi: 昏亂也]];
     - in disorder;
@@ -443,16 +443,16 @@ W
   - [[Page~45 (1)熏; here normalised to 曛]]
     ==
     - [[...]];
-    - ~~evening;~~
+    - evening ``twilight``;
     - [[...]];
     - _(1)fan tsik(9)_
         [[fan1 zik6 曛夕]]
-        twilight;
+        ``evening`` twilight;
     - [[...]].
     ==
   - [[Page~45 (1)曛]]
     ==
-    - ~~Twilight~~ ``Dusk`` [[Kangxi: 黃昏時]];
+    - ~~Twilight~~ ``Evening twilight, dusk`` [[Kangxi: 黃昏時]];
     - the light reflected after sunset [[Kangxi: 日入餘光]];
     - ~~exhilarated;~~
     - _(1)sh(a/)n (4)h(a/)m (1)fan ~~(2)y(e/)ung~~ ``(2)ying``_

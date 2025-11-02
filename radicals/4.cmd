@@ -804,6 +804,7 @@ For all radicals, see [Index of characters by radical](./).
       - $昌coeng1
       - $昏fan1
       - $㫚fat1
+      - $昒fat1
       - $昃zak1
       ==
       </nav>

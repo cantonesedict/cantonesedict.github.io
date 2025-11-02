@@ -55,6 +55,7 @@ $$
 - $惚1
 - $拂1
 - $㫚1
+- $昒1
 - $曶1
 - $祓1
 - $紱1
@@ -330,6 +331,31 @@ C
 P
   ++
   1. Alternative form of 昒. **See $昒fat1 for the canonical entry.**
+  ++
+$$
+
+###+ 昒1 | _Fat(7)_ [[fat1]]
+
+$$
+R
+  ⽇ + 4
+U
+  U+6612
+A
+  ==
+  - $㫚1
+  ==
+V
+  ==
+  - mat6 (alternative per 《廣韻》文弗切)
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Morning twilight, dawn (Kangxi: 尚冥也, 旦明也, 謂日尚冥蓋未明之時也).
   ++
 $$
 
