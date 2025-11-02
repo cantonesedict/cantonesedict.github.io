@@ -59,6 +59,7 @@ $$
 - $㫚1
 - $曶1
 - $祓1
+- $笏1
 - $紱1
 - $紼1
 - $綍1
@@ -417,6 +418,7 @@ P
   ++
   1. Alternative form of 忽. **See $忽fat1 for the canonical entry.**
   1. Alternative form of 惚. **See $惚fat1 for the canonical entry.**
+  1. Alternative form of 笏. **See $笏fat1 for the canonical entry.**
   ++
 $$
 
@@ -463,6 +465,43 @@ P
   1. To remove (除也, 通作弗, 弗之言祓也).
   1. Good fortune (Kangxi: 通作茀, 祓福也). (Alternative form of 茀. See $茀fat1.)
   ++
+$$
+
+### 笏1 | _Fat(7)_ [[fat1]]
+
+$$
+R
+  ⽵ + 4
+U
+  U+7B0F
+A
+  ==
+  - $曶1
+  ==
+F
+  ==
+  - (F1.86 笏) ::[簪]笏牙簡也::
+  ==
+W
+  ====
+  - [[Page~50 笏(7)]]
+    ==
+    - A tablet of ivory, bamboo, gem, or wood,
+      used at audiences in former times [[Kangxi: 公及士所搢也 etc., 笏一名手版品官所執]];
+    - meant for making memoranda [[Kangxi: 笏忽也備忽忘也]], and then used as ornaments;
+    - they were held before the breast;
+    - _chap(7) fat(7) (5)(i/) (4)ch(')i(u/)_
+        [[zap1 fat1 ji5 ciu4 執笏以朝]],
+        to take the tablet in court;
+    - _ching(3) fat(7)_
+        [[zing3 fat1 正笏]]
+        to hold the tablet.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed 簪.
+  ==
 $$
 
 ### 紱1 | _Fat(7)_ [[fat1]]
