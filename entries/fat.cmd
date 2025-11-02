@@ -54,6 +54,7 @@ $$
 - $忽1
 - $惚1
 - $拂1
+- $㧾1
 - $昒1
 - $㫚1
 - $曶1
@@ -310,6 +311,43 @@ S
   - $拂bat6 (TODO)
   - $拂fat6
   ==
+$$
+
+### 㧾1 | _Fat(7)_ [[fat1]]
+
+$$
+R
+  ⼿ + 8
+U
+  U+39FE
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~50 㧾(7)]]
+    ==
+    - To take up refuse, to clean away;
+    - to bale out, to dip up;
+    - _fat(7) (2)tau_
+        [[fat1 dau2 㧾斗]],
+        a dust-board;
+    - _fat(7) (2)shui_
+        [[fat1 seoi2 㧾水]],
+        to bale water;
+    - _fat(7) ~~lap(9)~~ ``l(a/)p(9)`` s(a/)p(8)_
+        [[fat1 laap6 saap3 㧾垃圾]]
+        to take up rubbish.
+    ==
+  ====
+C
+  ==
+  - Williams' 㧾垃圾: Corrected _lap(9)_ (lap6) to _l(a/)p(9)_ (laap6).
+  ==
+P
+  ++
+  1. To strike, to hit (Kangxi: 擊也, 南楚相推搏曰㧾).
+  1. To dust (Kangxi: 一曰去塵也).
+  ++
 $$
 
 ###+ 昒1 | _Fat(7)_ [[fat1]]

@@ -420,6 +420,7 @@ For all radicals, see [Index of characters by radical](./).
       - $採coi2
       - {$措cou3, $措zaak3}
       - {$捽cyut3, $捽zeot1}
+      - $㧾fat1
       - $掉zaau6
       - $接zip3
       - $捷zit6
