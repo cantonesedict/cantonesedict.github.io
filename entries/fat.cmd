@@ -54,6 +54,7 @@ $$
 - $忽1
 - $惚1
 - $拂1
+- $曶1
 - $祓1
 - $紱1
 - $紼1
@@ -172,7 +173,7 @@ U
   U+5FFD
 A
   ==
-  - 曶
+  - $曶1
   - 芴
   ==
 F
@@ -236,7 +237,7 @@ U
 A
   ==
   - $忽1
-  - 曶
+  - $曶1
   ==
 F
   ==
@@ -307,6 +308,28 @@ S
   - $拂bat6 (TODO)
   - $拂fat6
   ==
+$$
+
+###+ 曶1 | _Fat(7)_ [[fat1]]
+
+$$.
+R
+  ⽈ + 4
+U
+  U+66F6
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - For the visually similar character under the sun radical, see $㫚fat1. (TODO)
+  ==
+P
+  ++
+  1. Alternative form of 忽. **See $忽fat1 for the canonical entry.**
+  1. Alternative form of 惚. **See $惚fat1 for the canonical entry.**
+  ++
 $$
 
 ### 祓1 | _Fat(7)_ [[fat1]]

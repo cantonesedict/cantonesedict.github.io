@@ -922,6 +922,14 @@ For all radicals, see [Index of characters by radical](./).
       ==
       </nav>
   //
+    , 4
+    ,
+      <nav class="sideways">
+      ==
+      - $曶fat1
+      ==
+      </nav>
+  //
     , 7
     ,
       <nav class="sideways">
