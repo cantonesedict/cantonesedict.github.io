@@ -380,9 +380,11 @@ class Updater:
                 |
             ^ \#\#\# [ +] .*
                 |
-            ^ (WH | WV | F | W) \n (?: [ ]{2} .* \n )+
+            ^ (WH | WV | W) \n (?: [ ]{2} .* \n )+
                 |
             ^ \-\- \{ \.williams \} \n [\s\S]*? \n \-\- \n
+                |
+            \[\[ (?: \.\.\. | Not [ ] present ) \]\]
         '''
         nonexempt_cmd_content = re.sub(
             pattern=exempt_pattern,
