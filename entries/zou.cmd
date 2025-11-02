@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zou
-* %date-modified --> 2025-11-01
+* %date-modified --> 2025-11-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -60,7 +60,7 @@ U
   U+79DF
 F
   ==
-  - [[F2.9 租 _(1)Ts(u/)_]] 田賦也納谷納屋錢地稅俱曰租又聚也詩子所蓄租
+  - (F2.9 租 _(1)Ts(u/)_) 田賦也納谷納屋錢地稅俱曰租又聚也詩子所蓄租
   ==
 W
   ====
@@ -113,7 +113,7 @@ U
   U+7CDF
 F
   ==
-  - [[F2.9 糟 _(1)Ts(u/)_]] 酒糟又糟粕
+  - (F2.9 糟 _(1)Ts(u/)_) 酒糟又糟粕
   ==
 W
   ====
@@ -159,7 +159,7 @@ U
   U+906D
 F
   ==
-  - [[F2.9 遭 _(1)Ts(u/)_]] 遭逢遭遇
+  - (F2.9 遭 _(1)Ts(u/)_) 遭逢遭遇
   ==
 W
   ====

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2025-11-01
+* %date-modified --> 2025-11-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -61,8 +61,8 @@ U
   U+64CD
 F
   ==
-  - [[F2.9 操 _(1)Ts(')(u/)_]] 操持
-  - [[F2.9 撡 _(1)Ts(')(u/)_]] 同上
+  - (F2.9 操 _(1)Ts(')(u/)_) 操持
+  - (F2.9 撡 _(1)Ts(')(u/)_) 同上
   ==
 W
   ====
@@ -115,9 +115,9 @@ A
   ==
 F
   ==
-  - [[F2.9 粗 _(1)Ts(')(u/)_]] 不精也臭惡也
-  - [[F2.9 麄 _(1)Ts(')(u/)_]] 同上
-  - [[F2.9 麤 _(1)Ts(')(u/)_]] 同上
+  - (F2.9 粗 _(1)Ts(')(u/)_) 不精也臭惡也
+  - (F2.9 麄 _(1)Ts(')(u/)_) 同上
+  - (F2.9 麤 _(1)Ts(')(u/)_) 同上
   ==
 W
   ====
@@ -187,9 +187,9 @@ U
   U+9EA4
 F
   ==
-  - [[F2.9 粗 _(1)Ts(')(u/)_]] 不精也臭惡也
-  - [[F2.9 麄 _(1)Ts(')(u/)_]] 同上
-  - [[F2.9 麤 _(1)Ts(')(u/)_]] 同上
+  - (F2.9 粗 _(1)Ts(')(u/)_) 不精也臭惡也
+  - (F2.9 麄 _(1)Ts(')(u/)_) 同上
+  - (F2.9 麤 _(1)Ts(')(u/)_) 同上
   ==
 W
   ====
