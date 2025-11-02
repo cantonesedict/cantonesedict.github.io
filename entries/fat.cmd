@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fat
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -212,7 +212,7 @@ W
   ====
   - [[Page~50 忽(7)]]
     ==
-    - A single floss of silk [[Kangxi: 輕一蠶爲一忽十忽爲一絲, 忽蜘蛛網也]];
+    - A single floss of silk [[Kangxi: 輕也一蠶爲一忽十忽爲一絲, 忽蜘蛛網也]];
     - the smallest fraction in notation, a ~~millionth~~ ``hundred thousandth``;
     - to forget [[Kangxi: 忘也忽忽不省事也]], to disregard [[Kangxi: 慢忽也]];
     - to make light of~~,~~``;``
