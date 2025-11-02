@@ -52,6 +52,7 @@ $$
 - $弗1
 - $彿1
 - $忽1
+- $惚1
 - $拂1
 - $祓1
 - $紱1
@@ -169,6 +170,11 @@ R
   ⼼ + 4
 U
   U+5FFD
+A
+  ==
+  - 曶
+  - 芴
+  ==
 F
   ==
   - (F1.86 忽) ::倐倐急[遽]也又[滅]也輕也[忘]也::
@@ -203,6 +209,9 @@ W
         [[fat1 ming4 fat1 mit6 忽明忽滅]]
         it appeared and disappeared suddenly.
     ==
+    --
+    [[Otherwise, an alternative form of 惚. **See $惚fat1 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -215,6 +224,33 @@ C
   - Williams' 輕忽: Corrected _(1)heng_ (heng1) to _(1)hing_ (hing1).
   - Williams' 忽明忽滅: Corrected _(1)ming_ (ming1) to _(4)ming_ (ming4).
   ==
+$$
+
+### 惚1 | _Fat(7)_ [[fat1]]
+
+$$
+R
+  ⼼ + 8
+U
+  U+60DA
+A
+  ==
+  - $忽1
+  - 曶
+  ==
+F
+  ==
+  - (F1.86 惚) 恍惚
+  ==
+W
+  ====
+  - [[Page~50 惚(7)]]
+    ==
+    - Minute, abstruse [[Kangxi: 怳惚微妙不測貌]];
+    - inexplicable;
+    - that which dazzles or flutters the mind.
+    ==
+  ====
 $$
 
 ### 拂1 | _Fat(7)_ [[fat1]]

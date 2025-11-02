@@ -136,6 +136,7 @@ For all radicals, see [Index of characters by radical](./).
       - $惝cong2
       - {$悰cung4, $悰zung1}
       - $惛fan1
+      - $惚fat1
       ==
       </nav>
   //
