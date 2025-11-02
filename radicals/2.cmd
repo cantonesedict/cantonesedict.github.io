@@ -133,6 +133,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $似ci5
       - $佇cyu5
+      - {$佛fat1, $佛fat6}
       - $伺zi6
       - $佐zo3
       - $作zok3

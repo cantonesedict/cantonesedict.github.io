@@ -48,6 +48,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $佛1
 - $巿1
 - $弗1
 - $彿1
@@ -73,6 +74,28 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+###+ 佛1 | _Fat(7)_ [[fat1]]
+
+$$.
+R
+  ⼈ + 5
+U
+  U+4F5B
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 彿. **See $彿fat1 for the canonical entry.**
+  ++
+S
+  ==
+  - $佛fat6
+  - $佛bat6 (TODO)
+  ==
+$$
 
 ###+ 巿1 | _Fat(7)_ [[fat1]]
 
@@ -138,7 +161,7 @@ U
   U+5F7F
 A
   ==
-  - 佛
+  - $佛1
   - $拂1
   - $髴1
   ==
@@ -912,11 +935,70 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $佛6
 - $咈6
 - $拂6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 佛6 | _Fat(9)_ [[fat6]]
+
+$$
+R
+  ⼈ + 5
+U
+  U+4F5B
+A
+  ==
+  - 仸
+  ==
+F
+  ==
+  - (F1.88 佛) ::仙佛以空虚[寂滅]爲敎::
+  - (F1.88 仸) 同上
+  ==
+W
+  ====
+  - [[Page~50 佛(9)]]
+    ==
+    - [[...]];
+    - Budha``, the enlightened one`` [[Kangxi: 佛佗佛者覺也]];
+    - _Fat(9) k(a/)u(3)_
+        [[fat6 gaau3 佛教]]
+        ~~Budhists~~ ``Budhism``;
+    - _Fat(9) (2)ts(o\)_
+        [[fat6 zou2 佛祖]],
+        Budha;
+    - _~~Fat(7)~~ ``Fat(9)`` ~~f(a/)t(9)~~ ``f(a/)t(8)``_
+        [[fat6 faat3 佛法]],
+        ~~Budhism~~ ``Budhist methodologies``;
+    - _fat(9) (2)shau_
+        [[fat6 sau2 佛手]],
+        citron;
+    - _Fat(9) (4)t(')ong_
+        [[fat6 tong4 佛堂]],
+        Budhist temples;
+    - _fat(9) (2)hau (4)sh(e/) (1)sam_
+        [[fat6 hau2 se4 sam1 佛口蛇心]],
+        a villainous hypocrite.
+    ==
+    --
+    [[Otherwise, an alternative form of 咈 and 拂. **See $咈fat6 and $拂fat6 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿱宀⿰未又 to 寂 and corrected {𬇠=⿰氵成} to 滅.
+  - Williams' 佛法: Corrected _Fat(7)_ (fat1) to _Fat(9)_ (fat6)
+    and corrected _f(a/)t(9)_ (faat6) to _f(a/)t(8)_ (faat3).
+  ==
+S
+  ==
+  - $佛fat1
+  - $佛bat6 (TODO) <## same as 弼 ##>
+  ==
+$$
 
 ###+ 咈6 | _Fat(9)_ [[fat6]]
 
@@ -927,7 +1009,7 @@ U
   U+5488
 A
   ==
-  - 佛
+  - $佛6
   - $拂6
   ==
 F
@@ -947,6 +1029,10 @@ R
   ⼿ + 5
 U
   U+62C2
+A
+  ==
+  - $佛6
+  ==
 V
   ==
   - bat6 (per Fan Wan)
@@ -972,6 +1058,12 @@ W
     --
     [[Alternative form of 咈. See $咈fat6.]]
     --
+  - [[Page~50 佛(9); here normalised to 拂]]
+    ==
+    - Contrary, unreasonable [[Kangxi 佛: 逆也戾也, 與拂同]];
+    - to turn aside [[Kangxi 佛: 捩也]];
+    - [[...]].
+    ==
   - [[Page~360 拂(9) _Pat(9)_ (bat6)]]
     ==
     - [[...]];
