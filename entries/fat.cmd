@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fat
-* %date-modified --> 2025-11-01
+* %date-modified --> 2025-11-02
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -51,6 +51,7 @@ $$
 - $巿1
 - $弗1
 - $彿1
+- $忽1
 - $拂1
 - $祓1
 - $紱1
@@ -158,6 +159,61 @@ W
 C
   ==
   - Fan Wan entry: Corrected 依 to 似.
+  ==
+$$
+
+### 忽1 | _Fat(7)_ [[fat1]]
+
+$$
+R
+  ⼼ + 4
+U
+  U+5FFD
+F
+  ==
+  - (F1.86 忽) ::倐倐急[遽]也又[滅]也輕也[忘]也::
+  ==
+W
+  ====
+  - [[Page~50 忽(7)]]
+    ==
+    - A single floss of silk [[Kangxi: 輕一蠶爲一忽十忽爲一絲, 忽蜘蛛網也]];
+    - the smallest fraction in notation, a ~~millionth~~ ``hundred thousandth``;
+    - to forget [[Kangxi: 忘也忽忽不省事也]], to disregard [[Kangxi: 慢忽也]];
+    - to make light of~~,~~``;``
+    - to extinguish``, to obliterate`` [[Kangxi: 滅也]];
+    - neg``l``ectful;
+    - suddenly, abrupt [[Kangxi: 倏忽也]], unexpectedly, all at once;
+    - _fat(7) (4)(i/)n_
+        [[fat1 jin4 忽然]],
+        suddenly;
+    - _fat(7) (5)yau (4)yan (4)loi_
+        [[fat1 jau5 jan4 loi4 忽有人來]],
+        just then a man came;
+    - _~~(1)heng~~ ``(1)hing`` fat(7)_
+        [[hing1 fat1 輕忽]]
+        to make light of``, to neglect``;
+    - _fat(7) l(e/)uk(9)_
+        [[fat1 loek6 忽略]]
+        to forget;
+    - _fat(7) (4)sh(i/)_
+        [[fat1 si4 忽時]],
+        not punctual;
+    - _fat(7) ~~(1)ming~~ ``(4)ming`` fat(7) m(i/)t(9)_
+        [[fat1 ming4 fat1 mit6 忽明忽滅]]
+        it appeared and disappeared suddenly.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed missing and incomplete strokes in 遽 and 滅,
+    and normalised ⿱亾心 to 忘.
+  - Williams' "millionth": 忽 is a millionth of a 尺, but a hundred thousandth of a 寸.
+    The progression of length units is 忽絲毫釐分寸尺.
+    Since the convention is to identify 分 with a tenth, 釐 with a hundredth, etc.,
+    the base should be 寸, not 尺, whence "hundred thousandth" instead of "millionth".
+  - Williams' 輕忽: Corrected _(1)heng_ (heng1) to _(1)hing_ (hing1).
+  - Williams' 忽明忽滅: Corrected _(1)ming_ (ming1) to _(4)ming_ (ming4).
   ==
 $$
 
