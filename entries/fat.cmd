@@ -54,6 +54,7 @@ $$
 - $忽1
 - $惚1
 - $拂1
+- $㫚1
 - $曶1
 - $祓1
 - $紱1
@@ -310,6 +311,28 @@ S
   ==
 $$
 
+###+ 㫚1 | _Fat(7)_ [[fat1]]
+
+$$.
+R
+  ⽇ + 4
+U
+  U+3ADA
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - This character is ⿱勿日 under the sun radical (Kangxi p.492#2).
+  - For the visually similar character under the say radical, see $曶fat1.
+  ==
+P
+  ++
+  1. Alternative form of 昒. **See $昒fat1 for the canonical entry.**
+  ++
+$$
+
 ###+ 曶1 | _Fat(7)_ [[fat1]]
 
 $$.
@@ -323,7 +346,8 @@ W
   [[Not present]]
 C
   ==
-  - For the visually similar character under the sun radical, see $㫚fat1. (TODO)
+  - This character is ⿱勿曰 under the say radical (Kangxi p.502#8).
+  - For the visually similar character under the sun radical, see $㫚fat1.
   ==
 P
   ++
