@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Home
-* %date-modified --> 2025-11-01
+* %date-modified --> 2025-11-02
 * %copyright-prior-years --> 2023--
 * %modern-colour --> crimson
 * %meta-description --> home page
@@ -241,7 +241,8 @@ consisting of:
    and [modern Hong Kong Cantonese](/phonology/));
 
 1. Under each Jyutping pronunciation,
-   sorting the entries by radical+strokes, then Unicode code point;
+   sorting the entries by radical, then residual strokes,
+   then whether it is an extension ideograph, then code point;
 
 1. Inserting Jyutping (%modern-colour sans-serif text)
    alongside the Williams romanisations;

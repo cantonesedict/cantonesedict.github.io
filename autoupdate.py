@@ -1041,10 +1041,19 @@ class CharacterEntry:
         return self.rank() < other.rank()
 
     def rank(self):
-        return self.jyutping, self.radical, self.residual_stroke_count, self.integer_code_point()
+        return (
+            self.jyutping,
+            self.radical,
+            self.residual_stroke_count,
+            self.is_extension_ideograph(),
+            self.integer_code_point(),
+        )
 
     def integer_code_point(self):
         return int(self.code_point[2:], 16)
+
+    def is_extension_ideograph(self):
+        return not (0x4E00 <= self.integer_code_point() <= 0x9FFF)
 
 
 class SplitCantoneseEntry(CantoneseEntry):
