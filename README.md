@@ -1,6 +1,6 @@
 # cantonesedict.github.io
 
-Work in progress for a modern edition of 《英華分韻撮要》
+Work in progress for an annotated edition of 《英華分韻撮要》
 [A Tonic Dictionary of the Chinese Language in the Canton Dialect (1856)][tonic]
 by [Samuel Wells Williams].
 
