@@ -752,6 +752,9 @@ window.onload = applyFilter;
     , sek6 ceon1
     , [石膥](/entries/ceon#cantonese-石膥)
   //
+    , si2 fat1
+    , [屎窟](/entries/fat#cantonese-屎窟)
+  //
     , si3 zeng3
     , [四正](/entries/zing#cantonese-四正)
   //

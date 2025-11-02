@@ -59,6 +59,7 @@ $$
 - $㫚1
 - $曶1
 - $祓1
+- $窟1
 - $笏1
 - $紱1
 - $紼1
@@ -465,6 +466,62 @@ P
   1. To remove (除也, 通作弗, 弗之言祓也).
   1. Good fortune (Kangxi: 通作茀, 祓福也). (Alternative form of 茀. See $茀fat1.)
   ++
+$$
+
+### 窟1 | _Fat(7)_ [[fat1]]
+
+$$
+R
+  ⽳ + 8
+U
+  U+7A9F
+V
+  ==
+  - gwat6 (uncommon)
+  - wat1 (uncommon)
+  ==
+F
+  ==
+  - (F1.86 窟) 孔穴也
+  ==
+W
+  ====
+  - [[Page~50 笏(7)]]
+    ==
+    - A hole in the ground [[Kangxi: 窟室也孔穴也]];
+    - a stable or sty dug out of the earth;
+    - _~~fat(9)~~ ``fat(7)`` ~~(5)lung~~ ``(1)lung``_
+        [[fat1 lung4-1 窟窿]],
+        a hole, a grotto;
+    - _(2)sh(u:) ~~fat(9)~~ ``fat(7)``_
+        [[syu2 fat1 鼠窟]]
+        a rat-hole;
+    - _(2)k(a/)u t(')(o\)(3) (1)s(a/)m ~~fat(9)~~ ``fat(7)``_
+        [[gaau2 tou3 saam1 fat1 狡兔三窟]]
+        a cunning rabbit has three holes;
+    - _(2)sh(i/) fat(7)_
+        [[si2 fat1 屎窟]]
+        buttocks.
+    ==
+  ====
+C
+  ==
+  - Williams' 窟窿, 鼠窟, 狡兔三窟: Corrected _fat(9)_ (fat6) to _fat(7)_ (fat1).
+  - Williams' 窟窿: Corrected _(5)lung_ (lung5) to _(1)lung_ (lung4-1).
+  ==
+E
+  ====
+  - 【屎窟】 (si2 fat1):
+    ++
+    1. Arse (mostly the buttocks, sometimes the anus).
+       ==
+       - 屎窟窿 (si2 fat1 lung4-1): "[The] arsehole."
+       - 屎窟痕 (si2 fat1 han4): "[His] arse [must have been] itchy" (i.e. he had no good reason to do that).
+       - 正屎窟鬼 (zing3 si2 fat1 gwai2): "[What a] right arsehole."
+       - 生仔冇屎窟 (saang1 zai2 mou5 si2 fat1): "Have [a] kid without [an] arse" (as a divine punishment for unethical behaviour).
+       ==
+    ++
+  ====
 $$
 
 ### 笏1 | _Fat(7)_ [[fat1]]
