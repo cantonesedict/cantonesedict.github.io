@@ -24,6 +24,7 @@ class CmdSource:
         try:
             CmdSource.lint_cjk_compatibility_ideograph(content)
             CmdSource.lint_cjk_variation_selectors(content)
+            CmdSource.lint_typography_quotes(content)
             # TODO: other linting checks
         except LintException as lint_exception:
             print(f'lint error in `{file_name}`: {lint_exception.message}', file=sys.stderr)
@@ -52,6 +53,13 @@ class CmdSource:
             context = context_match.group()
             character = context_match.group('character')
             raise LintException(f'variation selector present on `{character}` in `{context}`')
+
+    @staticmethod
+    def lint_typography_quotes(content: str):
+        if context_match := re.search(pattern=r'\S*(?<!\^)(?P<quote>[‘’“”])\S*', string=content):
+            context = context_match.group()
+            quote = context_match.group('quote')
+            raise LintException(f'non-straight quote `{quote}` present in `{context}`')
 
 
 class EntryPage:

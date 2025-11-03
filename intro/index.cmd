@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Introduction.
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 * %meta-description --> Williams' introduction
 
@@ -2115,7 +2115,7 @@ phrase _p(')an h(i/)_ [[pan3 hei3]] 噴氣 being rather of foreign than native o
 one which every native scholar does not understand without some
 explanation. It is represented usually by a Greek spiritus asper
 [ʻ] [[U+02BB]],
-or an inverted comma [‘] [[U+2018]],
+or an inverted comma ['] [[here normalised to U+0027 (straight apostrophe)]],
 when the former is not ``to`` be obtained,
 to which some add an _h_ also, as _ch(')hang_, _t(')ho_, _p(')han_, _t(')hik_, but not
 wisely, for there is danger of confounding it with such English
