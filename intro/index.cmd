@@ -2446,7 +2446,7 @@ others, as ⼧, ⼴, ⽧, ⽖, ⽳, ⽵, ⺫, ⺿, ⾌, ⾬, are more
 apparent. For many the remainder, where the radical is either
 in combination, or the character is formed of two or three radicals,
 as 相, 聾, or 現, practice will soon give the necessary facility in
-finding them. Some characters as 𢑷 [[original of 彙]], 𢐭 [[olden 喜]], 豑, 𨑊 [[⿰多農]], 𡳨 [[⿰杘桑]], 朅, made
+finding them. Some characters as 𢑷^ [[original of 彙]], 𢐭^ [[olden 喜]], 豑, 𨑊^ [[⿰多農]], 𡳨^ [[⿰杘桑]], 朅, made
 up of two primitives, are usually placed with reference to their
 meaning, and not to the most prominent part where they would be
 looked for; but their number is small. An examination of the radicals
@@ -2459,7 +2459,7 @@ In counting the number of strokes in a character, the radical is
 not reckoned. After becoming familiar with the radicals themselves,
 and having a general acquaintance with the primitives, the number
 of strokes can most quickly be ascertained by inspection. For instance,
-the character _m(u/)t(9)_ [[mut6]] 𩱷 [[⿱⿲弓⿰米蔑弓鬲]] rice porridge, found under the radical
+the character _m(u/)t(9)_ [[mut6]] 𩱷^ [[⿱⿲弓⿰米蔑弓鬲]] rice porridge, found under the radical
 _lik_ [[lik]] ⿀, is made up of 弓, 弓, 米, and ::~~⿳艹𠔿戊~~``蔑``::, which severally
 number 3, 3, 6, and 15~strokes, or 27 in all; the character _(i/)m(6)_ [[jim6]] 灎
 bubbling water, placed under the radical _shui_ [[seoi]] ⽔, is composed

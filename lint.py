@@ -23,6 +23,7 @@ class CmdSource:
 
         try:
             CmdSource.lint_cjk_compatibility_ideograph(content)
+            CmdSource.lint_cjk_non_bmp_composition(content)
             CmdSource.lint_cjk_variation_selector(content)
             CmdSource.lint_typography_quote(content)
             CmdSource.lint_williams_entering_tone(content)
@@ -58,6 +59,22 @@ class CmdSource:
             context = context_match.group()
             character = context_match.group('character')
             raise LintException(f'compatibility ideograph `{character}` present in `{context}`')
+
+    @staticmethod
+    def lint_cjk_non_bmp_composition(content: str):
+        non_exempt_content = re.sub(pattern=r'#cantonese-[⺀-〿㇀-㇣㐀-鿼豈-龎！-｠𠀀-𱍊]+', repl='', string=content)
+        whitelist = '𠂉𠂢𠆢𠔿𠦄𠫓𡈼𤣩𥫗𦈢𦣝𦣞𦥑𧰼𧶠𧾷𩙿'
+        if context_match := re.search(
+            pattern=fr'\S* (?! [{whitelist}] ) (?P<character> [\U00020000-\U0003134A] ) (?! [=@^] ) \S*',
+            string=non_exempt_content,
+            flags=re.VERBOSE,
+        ):
+            context = context_match.group()
+            character = context_match.group('character')
+            raise LintException(
+                f'missing composition for non-BMP ideograph `{character}` in `{context}` '
+                f'(suppress with at (in run) or caret (alone) after character if legitimate)'
+            )
 
     @staticmethod
     def lint_cjk_variation_selector(content: str):
