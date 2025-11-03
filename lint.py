@@ -34,6 +34,8 @@ class CmdSource:
             CmdSource.lint_williams_diphthong(content)
             CmdSource.lint_williams_nasal_apostrophe(content)
             CmdSource.lint_williams_apical_apostrophe(content)
+            CmdSource.lint_jyutping_entering_tone(content)
+            CmdSource.lint_jyutping_yod(content)
             # TODO: other linting checks
         except LintException as lint_exception:
             print(f'lint error in `{file_name}`: {lint_exception.message}', file=sys.stderr)
@@ -178,6 +180,26 @@ class CmdSource:
         ):
             run = run_match.group()
             raise LintException(f'missing Williams apical apostrophe in `{run}`')
+
+    @staticmethod
+    def lint_jyutping_entering_tone(content: str):
+        if run_match := re.search(
+            pattern=r'\b (?<! < ) [a-z]+ [789] \b',
+            string=content,
+            flags=re.IGNORECASE | re.VERBOSE,
+        ):
+            run = run_match.group()
+            raise LintException(f'unaliased entering tone number in Jyutping `{run}`')
+
+    @staticmethod
+    def lint_jyutping_yod(content: str):
+        if run_match := re.search(
+            pattern=r'\b y [a-z]* [1-6] \b',
+            string=content,
+            flags=re.IGNORECASE | re.VERBOSE,
+        ):
+            run = run_match.group()
+            raise LintException(f'misspelt yod in Jyutping `{run}`')
 
 
 class EntryPage:
