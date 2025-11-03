@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cang
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -68,7 +68,7 @@ W
     - still more, added to;
     - a step, a degree above [[Kangxi: 級也]];
     - a classifier of stories;
-    - _k(o\) (5)k(')(u:) yat(7) (4)ts(')ang_
+    - _(1)k(o\) (5)k(')(u:) yat(7) (4)ts(')ang_
         [[gou1 keoi5 jat1 cang4 高佢一層]],
         one peg higher than it;
     - _(4)m(o\) (4)ts(')ang_

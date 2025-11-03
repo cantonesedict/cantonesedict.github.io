@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -210,7 +210,7 @@ W
         [[caai1 ji4 猜疑]],
         to suspect, to doubt of;
     - _(1)ch(')(a/)i (4)(i/)m_
-        [[caai jim4 猜嫌]],
+        [[caai1 jim4 猜嫌]],
         to suspect and dislike;
     - _(1)ch(')(a/)i (1)ng(a/)m_
         [[caai1 ngaam1 猜啱]]^

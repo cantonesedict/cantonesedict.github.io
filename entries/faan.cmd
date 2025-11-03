@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faan
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -674,7 +674,7 @@ W
         to unsay, to recant;
     - [[...]];
     - _(2)f(a/)n wai(6) ~~(i/)t(9)~~ ``(i/)t(8)`` shik(9)_
-        [[faan2 wai6 jit3 sik3 反胃噎食]]
+        [[faan2 wai6 jit3 sik6 反胃噎食]]
         the stomach rejects food.
     ==
     --
@@ -1818,7 +1818,7 @@ W
     - _f(a/)n(6) (4)(i/)n_
         [[faan6 jin4 梵言]],
         Pali;
-    - _f(a/)n ~~ch(')(a/)t(8)~~ ``sh(a/)t(8)``_
+    - _f(a/)n(6) ~~ch(')(a/)t(8)~~ ``sh(a/)t(8)``_
         [[faan6 saat3 梵剎]]
         a monastery.
     ==

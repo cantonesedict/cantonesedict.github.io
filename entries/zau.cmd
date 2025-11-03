@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -138,9 +138,9 @@ W
     - _(2)h(o\) (1)chau t(o\)(3)_
         [[hou2 zau1 dou3 好周到]]
         all things prepared;
-    - _(1)chau (2)ch(i/)_
+    - _(1)chau (1)ch(i/)_
         [[zau1 zi1 周知]],
-        let all know;
+        ~~let~~ all know;
     - _h(u:)(3) k(i/)n(3) (1)chau (1)kung_
         [[heoi3 gin3 zau1 gung1 去見周公]],
         he's gone to see Duke~Chau---asleep;
@@ -1817,7 +1817,7 @@ W
     - a conjunction, then, if, as if;
     - able to do [[Kangxi: 能也]]~~, willing~~;
     - _tsau(6) ching(3) (4)loi_
-        [[zau6 zing3 loi3 就正來]],
+        [[zau6 zing3 loi4 就正來]],
         he has just come;
     - _tsau(6) ching(3) (4)loi kwo(3)_
         [[zau6 zing3 loi4 gwo3 就正來過]]

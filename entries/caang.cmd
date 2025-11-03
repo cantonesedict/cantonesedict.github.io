@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caang
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -668,7 +668,7 @@ W
     - _(4)ch(')(a/)ng k(o\)m(3) (4)m(a/)n_
         [[caang4-2 gam3 maan4 橙咁蠻]]^
         sharp as an orange;
-    - _t(')(i/)m (4)ch(')(a/)ng_
+    - _(4)t(')(i/)m (4)ch(')(a/)ng_
         [[tim4 caang4-2 甜橙]],
         sweet oranges;
     - _(1)sh(a/)n (4)ch(')(a/)ng_

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoek
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -761,7 +761,7 @@ W
         or
       _(1)kon ~~ts(')(e/)uk(8)~~ ``ts(e/)uk(8)``_ [[gon1 zoek3 乾鵲]]
         a magpie;
-    - _(2)sh(a/)n (2)h(i/) ~~ts(')(e/)uk(8)~~ ``ts(e/)uk(8)``_
+    - _(1)sh(a/)n (2)h(i/) ~~ts(')(e/)uk(8)~~ ``ts(e/)uk(8)``_
         [[saan1 hei2 zoek3 山喜鵲]]
         a magpie with a gradated tail;
     - _(1)(u/) ~~ts(')(e/)uk(8)~~ ``ts(e/)uk(8)``_
@@ -907,7 +907,7 @@ W
         [[m4 zoek6 唔着]]
         unsuitable;
     - _~~ch(e/)uk(8)~~ ``ch(e/)uk(9)`` kwo(3) (4)t(')au_
-        [[zoek3 gwo3 tau4 着過頭]],
+        [[zoek6 gwo3 tau4 着過頭]],
         just right;
     - [[...]];
     - _sh(e/)ung(6) ~~ch(e/)uk(8)~~ ``ch(e/)uk(9)``_

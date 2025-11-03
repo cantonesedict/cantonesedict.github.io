@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zong
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -448,7 +448,7 @@ W
     - _(1)chong ~~(5)^ki(u/)~~ ``(2)ki(u/)``_
         [[zong1 giu6-2 裝轎]],
         tip up the sedan;
-    - _(4)m(o\) (4)t(')(i/)n (1)chong_
+    - _(4)m(o\) (1)t(')(i/)n (1)chong_
         [[mou4 tin1 zong1 無天裝]],
         no place or heaven for you;
     - _p(a/)n(6) ~~ch(e/)uk(8)~~ ``ch(e/)uk(9)`` (4)t(')ong (1)chong_
@@ -718,7 +718,7 @@ W
     - age of thirty [[Kangxi: 三十曰壯]];
     - full, flourishing [[Kangxi: 盛也]];
     - a cauterization [[Kangxi: 醫用艾灸一灼謂之壯]];
-    - _chong t(a/)i(6)_
+    - _chong(3) t(a/)i(6)_
         [[zong3 daai6 壯大]]
         lusty, large;
     - _chong(3) wong(6)_

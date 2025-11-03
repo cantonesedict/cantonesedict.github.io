@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -79,7 +79,7 @@ W
         [[sang1 can1 生嗔]],
         to get into a rage;
     - _(1)ch(')an kw(a/)i(3)_
-        [[can gwaai3 嗔怪]]
+        [[can1 gwaai3 嗔怪]]
         to scold.
     ==
     --
@@ -212,7 +212,7 @@ W
         or
       _f(u/)(6) (1)ts(')an_ [[fu6 can1 父親]],
         a father;
-    - _ts(')z' (1)ts(')an_ [[ci4 can1 慈親]]^
+    - _(4)ts(')z' (1)ts(')an_ [[ci4 can1 慈親]]^
         or
       _(5)m(o\) (1)ts(')an_ [[mou5 can1 母親]],
         a mother;
@@ -220,7 +220,7 @@ W
         [[jing4 can1 迎親]],
         to escort the bride;
     - _teng(6) (4)t(')au (1)ts(')an sz'(6)_
-        [[deng6 tau1 can1 si6 定頭親事]]
+        [[deng6 tau4 can1 si6 定頭親事]]
         contracted the marriage;
     - _(5)yau (1)ts(')an_
         [[jau5 can1 有親]],
@@ -1026,7 +1026,7 @@ W
     - _(4)ch(')an ch(')(i/)t(8)_
         [[can4 cit3 陳設]]
         to arrange in order;
-    - _(4)sh(e/)ung (2)pi(u/) (4)ch(')an (4)ts(')ing_
+    - _(5)sh(e/)ung (2)pi(u/) (4)ch(')an (4)ts(')ing_
         [[soeng5 biu2 can4 cing4 上表陳情]],
         to state one's thoughts to H.~I.~M.;
     - _(4)ch(')an (4)p(')(i/) k(o\)m(3) kau(6)_

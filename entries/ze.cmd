@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ze
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -906,7 +906,7 @@ W
         [[do1 ze6 多謝]]
         many thanks;
     - _(5)ling ts(e/)(6)_
-        [[ling5 ze5 領謝]]
+        [[ling5 ze6 領謝]]
         to receive with thanks;
     - _ts(e/)(6) sz'(6)_
         [[ze6 si6 謝事]]

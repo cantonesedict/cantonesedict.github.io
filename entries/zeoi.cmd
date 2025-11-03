@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -454,7 +454,7 @@ W
         [[zeoi1 gon2 追趕]],
         to chase;
     - _(1)chui t(o\)(3)_
-        [[zeoi2 dou3-2 追到]]
+        [[zeoi1 dou3-2 追到]]
         to catch, to reach;
     - _(1)chui f(u/)i(3)_
         [[zeoi1 fui3 追悔]]
@@ -642,7 +642,7 @@ W
         [[zeoi2 zoek3 haa5 咀嚼吓]],
         take a bite of it;
     - _(4)h(o\)m (1)ying (2)ts(u:) ~~(1)w(a/)~~ ``(4)w(a/)``_
-        [[ham4 jing1 zyu2 waa1 含英咀華]],
+        [[ham4 jing1 zyu2 waa4 含英咀華]],
         to learn and relish the beauties of a style.
     ==
     --

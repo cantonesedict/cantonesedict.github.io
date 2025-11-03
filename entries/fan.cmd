@@ -250,8 +250,8 @@ W
   ====
 C
   ==
-  - Williams' 吩咐: Corrected 吩呼 _(1)fan (1)f(u/)_ (fu1)^
-    to 吩咐 _(1)fan f(u/)(3)_ (fu3).
+  - Williams' 吩咐: Corrected 吩呼 _(1)fan (1)f(u/)_ (fan1 fu1)^
+    to 吩咐 _(1)fan f(u/)(3)_ (fan1 fu3).
     Note that Williams has no entry for the character 咐.
   ==
 $$

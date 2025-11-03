@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1226,7 +1226,7 @@ W
     - last day of, as a year or month;
     - out of the perpendicular [[Kangxi: 斜也]];
     - the 36th~radical [["evening"]];
-    - _chi(u/) tsik(9)_
+    - _(1)chi(u/) tsik(9)_
         [[ziu1 zik6 朝夕]]
         morning and evening;
     - _(4)ch(')(u:) tsik(9)_
@@ -1426,7 +1426,7 @@ W
     - gain;
     - ~~price, value;~~
     - rotten ~~bones~~ [[Kangxi: 脂膏久殖也]];
-    - _shang chik(9)_
+    - _(1)shang chik(9)_
         [[sang1 zik6 生殖]]
         to grow, to increase;
     - _chik(9) fo(3)_

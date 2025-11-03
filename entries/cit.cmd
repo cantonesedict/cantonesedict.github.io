@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cit
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -96,7 +96,7 @@ W
         [[cit3 oi3 切愛]]
         warm love;
     - _ts(')(i/)t(8) t(o\)(3) sui(3)_
-        [[cit3 dou6 seoi3 切到碎]]
+        [[cit3 dou3 seoi3 切到碎]]
         cut to pieces, cut fine;
     - _ts(')(i/)t(8) (1)ts(')o_
         [[cit3 co1 切磋]],

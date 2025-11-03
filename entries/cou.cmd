@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -757,7 +757,7 @@ W
     - To go to, to arrive [[Kangxi: 就也, 詣也]];
     - to advance, to enter [[Kangxi: 進也]];
     - to contain [[Kangxi: 納也, 造猶內也內與納同]];
-    - _ts(')(o\) ts(')z'(3)_
+    - _ts(')(o\)(3) ts(')z'(3)_
         [[cou3 ci3 造次]]
         hurried, thoughtless [[Kangxi: 造次急遽也]].
     ==

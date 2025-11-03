@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zung
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -106,7 +106,7 @@ W
         [[m4 zung1 jung6 唔中用]]
         useless, inefficient;
     - _noi(6) (1)chung (5)yau_
-        [[noi6 zung1 jau6 內中有]],
+        [[noi6 zung1 jau5 內中有]],
         there are some (or such);
     - _(4)yan (1)chung_
         [[jan4 zung1 人中]],
@@ -1994,7 +1994,7 @@ W
     - the second born of brothers;
     - inferior;
     - the second month of a season;
-    - _p(a/)k(8) chung(3)_
+    - _p(a/)k(8) chung(6)_
         [[baak3 zung6 伯仲]]
         two brothers;
     - _chung(6) (1)ts(')au_

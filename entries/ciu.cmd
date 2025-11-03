@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ciu
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -712,7 +712,7 @@ W
     - _(5)sh(e/)ung (4)ch(')i(u/)_
         [[soeng5 ciu4 上朝]],
         to go up to court;
-    - _(4)ch(')i(u/) teon(6) (4)ch(')i(u/) (1)kong_
+    - _(2)ching teon(6) (4)ch(')i(u/) (1)kong_
         [[zing2 deon6 ciu4 gong1 整頓朝綱]]^
         to strengthen the government;
     - _(4)ch(')i(u/) (1)f(a/)n_

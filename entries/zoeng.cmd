@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -127,7 +127,7 @@ W
     - _(1)ts(e/)ung (2)sz'_
         [[zoeng1 si2 將死]]
         dying;
-    - _(1)ts(e/)ung kan(6) (a/)n chau(3)_
+    - _(1)ts(e/)ung kan(6) (a/)n(3) chau(3)_
         [[zoeng1 gan6 aan3 zau3 將近晏晝]]
         it is nearly noon;
     - _(1)ts(e/)ung (2)ho ch(')ut(7)_
@@ -1762,7 +1762,7 @@ W
         [[zoeng6 pei4 象皮]],
         elephant's skin, a medicine;
         a name for india rubber;
-    - _ts(e/)ung(6) k(o\)m(6) t(a/)i(6) chek(8) k(e/)uk(8)_
+    - _ts(e/)ung(6) k(o\)m(3) t(a/)i(6) chek(8) k(e/)uk(8)_
         [[zoeng6 gam3 daai6 zek3 goek3 象咁大隻腳]]
         my leg is as heavy as an elephant's --- I'm ashamed to go back;
     - _t(a/)i(6) pan(6) ts(e/)ung(6)_

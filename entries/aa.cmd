@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -167,7 +167,7 @@ W
     - _mat(7) (5)y(e/) (1)(a/)_
         [[mat1 je5 aa1 乜嘢吖]],
         what?
-    - _(2)k(o\)m ts(o\)(6) (a/)_
+    - _(2)k(o\)m ts(o\)(6) (1)(a/)_
         [[gam2 zou6 aa1 噉做吖]],
         no, this is the way to do it.
     ==

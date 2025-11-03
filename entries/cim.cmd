@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -242,7 +242,7 @@ W
     ==
     - Disputatious, skilled at arguing [[Kangxi: 小人而謂之憸者形容其沾沾便捷之狀也]];
     - insidious, lying flattery [[Kangxi: 憸詖也]];
-    - _ts(')(i/)m (4)yan_
+    - _(1)ts(')(i/)m (4)yan_
         [[cim1 jan4 憸人]],
         a flatterer.
     ==
@@ -782,7 +782,7 @@ W
     ==
     - The increasing light and splendor of the sun [[Kangxi: 日光升也]];
     - advancing, rising higher and higher [[Fan Wan: 進也]];
-    - _Ts(')(i/)m (4)lo kwok(8)_
+    - _Ts(')(i/)m(3) (4)lo kwok(8)_
         [[cim3 lo4 gwok3 暹羅國]]
         Siam, a word probably corrupted from _Sien_
         through the Portuguese language.

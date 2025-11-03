@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyun
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -330,7 +330,7 @@ W
     - _(4)nai (1)ch(u:)n_
         [[nai4 zyun1 泥磚]],
         adobie bricks;
-    - _k(a/)i (1)ch(u:)n_
+    - _(1)k(a/)i (1)ch(u:)n_
         [[gaai1 zyun1 階磚]],
         red tiles;
     - _t(a/)i(6) (4)nai (1)ch(u:)n_

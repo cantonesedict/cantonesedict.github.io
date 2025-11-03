@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> co
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -785,7 +785,7 @@ W
     - _ts(')o(3) w(a/)t(9)_
         [[co3 waat6 銼滑]]
         file it smooth;
-    - _(1)kai ch(')un ts(')o(3)_ [[gai1 ceon1 co3 雞膥銼]]
+    - _(1)kai (1)ch(')un ts(')o(3)_ [[gai1 ceon1 co3 雞膥銼]]
         to file eggs,
         or
       _(1)ch(i/) (4)m(a/) ts(')o(3)_ [[zi1 maa4 co3 芝麻銼]]

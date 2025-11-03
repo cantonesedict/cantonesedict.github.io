@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coi
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -489,7 +489,7 @@ W
     - _h(u:)(3) (5)m(a/)i ts(')oi(3)_
         [[heoi3 maai5 coi3 去買菜]]
         gone to market;
-    - _p(a/)k(8) ts(')oi(3)_
+    - _p(a/)k(9) ts(')oi(3)_
         [[baak6 coi3 白菜]]
         ~~broccoli,~~ the pehtsai [[白菜]];
     - _(4)h(a/)m ts(')oi(3)_

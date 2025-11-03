@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceot
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -93,7 +93,7 @@ W
         [[ceot1 san1 出身]],
         to hold office;
     - _ch(')ut(7) (4)yau ~~p(o\)(6)~~ ``(4)p(')(o\)`` s(a/)t(8)_
-        [[ceot1 jau4 bou6 saat3 出遊菩薩]]
+        [[ceot1 jau4 pou4 saat3 出遊菩薩]]
         to carry idols in procession;
     - _ch(')ut(7) ~~(1)k(i/)~~ ``(4)k(')(i/)``_
         [[ceot1 kei4 出奇]],
@@ -120,7 +120,7 @@ W
         [[ceoi4 nei5 ceot1 sam1 隨你出心]],
         as you like to do it;
     - _hon(3) (4)'m ch(')ut(7) s(e/)ung(3)_
-        [[hon4 m4 ceot1 soeng3 看唔出相]]
+        [[hon3 m4 ceot1 soeng3 看唔出相]]
         to belie his looks;
     - _(2)s(e/)ung (4)'m ch(')ut(7)_
         [[soeng2 m4 ceot1 想唔出]]

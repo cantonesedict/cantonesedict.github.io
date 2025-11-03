@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1581,7 +1581,7 @@ W
     - _(2)k(u:) ts(i/)n(3)_
         [[geoi2 zin3 舉薦]]
         to recommend one;
-    - _(2)s(e/) ts(i/)n(3) (2)sh(u:)_
+    - _(2)s(e/) ts(i/)n(3) (1)sh(u:)_
         [[se2 zin3 syu1 寫薦書]],
         to write an introductory letter;
     - _(5)yau ts(i/)n(3) (4)t(')au_,

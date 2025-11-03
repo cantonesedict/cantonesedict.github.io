@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -117,7 +117,7 @@ W
     - _~~t(')eng(3)~~ ``t(')ing(3)`` (1)ch(i/) (1)ch(i/) (4)yan_
         [[ting3 zi1 zi1 jan4 聽之之人]],
         the person who hears him;
-    - _t(')(i/)n (1)ch(i/) (4)ming ming(6)_
+    - _(1)t(')(i/)n (1)ch(i/) (4)ming ming(6)_
         [[tin1 zi1 ming4 ming6 天之明命]]
         heaven's plain decree;
     - _(4)(u:) (1)ch(i/) noi(6) (4)ho_
@@ -132,7 +132,7 @@ W
     - _(2)k(u/) (1)ch(i/)_
         [[gu2 zi1 古之]],
         the ancients;
-    - _t(')(i/)n ming(6) (1)ch(i/)_
+    - _(1)t(')(i/)n ming(6) (1)ch(i/)_
         [[tin1 ming6 zi1 天命之]],
         heaven orders it;
     - _(4)m(o\) (1)ch(i/)_
@@ -1426,7 +1426,7 @@ W
     - to depend on another;
     - what belongs to one, what ts natural, as disposition;
     - what was had at the first;
-    - _(1)tsau (1)tsz'_ [[zau2 zi1 酒資]]
+    - _(2)tsau (1)tsz'_ [[zau2 zi1 酒資]]
         or
       _(1)pan (1)tsz'_ [[ban1 zi1 檳資]]
         postage;
@@ -2086,7 +2086,7 @@ W
         [[zi2 sun1 子孫]],
         children, descendants;
     - _t(')(a/)i(3) (2)tsz'_
-        [[taai3 zi1 太子]]
+        [[taai3 zi2 太子]]
         the heir-apparent;
     - _(2)tsz' ts(e/)uk(8)_
         [[zi2 zoek3 子爵]]
@@ -4501,7 +4501,7 @@ W
         [[se2 zi6 寫字]]
         to write;
     - _tsz'(6) (5)m(o\) tsz'(6) (4)t(')au_
-        [[zi5 mou5 zi6 tau4 字母字頭]],
+        [[zi6 mou5 zi6 tau4 字母字頭]],
         finals and initials, as used by the Chinese to express a third sound;
     - _tsz'(6) (5)m(o\)_
         [[zi6 mou5 字母]],
@@ -4664,7 +4664,7 @@ W
         [[jap6 zi6-2 入寺]]
         to become a priest;
     - _t(a/)i(6) (5)l(i/) tsz'(6)_
-        [[daai6 lei6 zi6-2 大理寺]]
+        [[daai6 lei5 zi6-2 大理寺]]
         the Court of Appeal at Peking [[北京]];
     - _tsz'(6) (4)shing_
         [[zi6 sing4 寺丞]],

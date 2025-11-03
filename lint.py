@@ -37,6 +37,7 @@ class CmdSource:
             CmdSource.lint_williams_apical_apostrophe(content)
             CmdSource.lint_jyutping_entering_tone(content)
             CmdSource.lint_jyutping_yod(content)
+            CmdSource.lint_romanisation_tone_consistency(content)
             # TODO: other linting checks
         except LintException as lint_exception:
             print(f'lint error in `{file_name}`: {lint_exception.message}', file=sys.stderr)
@@ -47,7 +48,7 @@ class CmdSource:
         self.entry_page = EntryPage(file_name, content)
 
     def __repr__(self):
-        return f'CmdSource({self.file_name!r})'
+        return f'CmdSource({self.file_name !r})'
 
     @staticmethod
     def lint_cjk_compatibility_ideograph(content: str):
@@ -217,6 +218,53 @@ class CmdSource:
         ):
             run = run_match.group()
             raise LintException(f'misspelt yod in Jyutping `{run}`')
+
+    @staticmethod
+    def lint_romanisation_tone_consistency(content: str):
+        for dual_romanisation_match in re.finditer(
+            pattern=r'_ (?P<williams> \S [^_\n]*? \S ) _ \s+ (?: \[\[ | \( ) (?P<jyutping> .+? ) (?: \]\] | \) )',
+            string=content,
+            flags=re.VERBOSE,
+        ):
+            williams = dual_romanisation_match.group('williams')
+            jyutping = dual_romanisation_match.group('jyutping')
+
+            williams_tone_runs = re.findall(pattern=r'\([1-9]\)', string=williams)
+            jyutping_tone_runs = re.findall(pattern='[1-6](?:-[1-6])?', string=jyutping)
+
+            if not williams_tone_runs or not jyutping_tone_runs:
+                continue
+
+            if len(williams_tone_runs) == len(jyutping_tone_runs):
+                if CmdSource.are_tones_consistent(williams_tone_runs, jyutping_tone_runs):
+                    continue
+
+                raise LintException(
+                    f'inconsistent Williams tones {williams_tone_runs !r} vs Jyutping tones {jyutping_tone_runs} '
+                    f'in `{williams}` vs `{jyutping}`'
+                )
+
+            reduced_williams = re.sub(pattern='~~.+?~~', repl='', string=williams)
+            reduced_williams_tone_runs = re.findall(pattern=r'\([1-9]\)', string=reduced_williams)
+
+            if len(reduced_williams_tone_runs) == len(jyutping_tone_runs):
+                if CmdSource.are_tones_consistent(reduced_williams_tone_runs, jyutping_tone_runs):
+                    continue
+
+            raise LintException(
+                f'inconsistent Williams tones {reduced_williams_tone_runs !r} vs Jyutping tones {jyutping_tone_runs} '
+                f'in `{williams}` vs `{jyutping}`'
+            )
+
+    @staticmethod
+    def are_tones_consistent(williams_tone_runs: list[str], jyutping_tone_runs: list[str]):
+        return all(CmdSource.is_tone_consistent(w, j) for w, j in zip(williams_tone_runs, jyutping_tone_runs))
+
+    @staticmethod
+    def is_tone_consistent(williams_tone_run: str, jyutping_tone_run: str):
+        williams_tone_number = re.sub(pattern='[()]', repl='', string=williams_tone_run)
+        jyutping_tone_numbers = re.sub(pattern='-', repl='', string=jyutping_tone_run)
+        return williams_tone_number.translate(str.maketrans('789', '136')) in jyutping_tone_numbers
 
 
 class EntryPage:

@@ -138,7 +138,7 @@ W
   - [[Page~551 浸(3) _Tsam(3)_ (zam3); here normalised to _(1)Ts(')am_ (cam1)]]
     ==
     - [[...]];
-    - _k(')(i/) sh(u:)t(8) ~~tsam(3)~~ ``(1)ts(')am`` (4)yam_
+    - _(4)k(')(i/) sh(u:)t(8) ~~tsam(3)~~ ``(1)ts(')am`` (4)yam_
         [[kei4 syut3 cam1 jam4 其說浸淫]],
         his words are insidious and persuasive;
     - [[...]].
@@ -500,7 +500,7 @@ W
         [[cam4 mei6 尋味]]
         to wish more of, as of a tidbit;
     - _(4)ts(')am (4)t(')au l(o\)(6)_
-        [[cam tau4 lou6 尋頭路]]
+        [[cam4 tau4 lou6 尋頭路]]
         seeking for work;
     - _(4)ts(')am (4)sh(e/)ung_
         [[cam4 soeng4 尋常]],

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zuk
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -731,7 +731,7 @@ W
     - _tsuk(9) tsz'(6) (5)ng(a/)n_
         [[zuk6 zi6 ngaan5 俗字眼]],
         a vulgar expression;
-    - _w(a/)n tsuk(9)_
+    - _(4)w(a/)n tsuk(9)_
         [[waan4 zuk6 還俗]]
         to again become a layman;
     - _(4)ch(')an tsuk(9)_

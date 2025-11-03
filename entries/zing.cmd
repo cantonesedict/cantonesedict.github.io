@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -252,7 +252,7 @@ W
     - to make signals;
     - insignia, signals;
     - ~~to discriminate,~~ to make manifest, to prove, to show forth [[Kangxi: 旌旗所以表識貴賤故傳以旌爲識, 旌章也, 旌表也, 旌明也]];
-    - _tsing (4)k(')(i/)_
+    - _(1)tsing (4)k(')(i/)_
         [[zing1 kei4 旌旗]],
         flags;
     - _(4)ming (1)tsing_

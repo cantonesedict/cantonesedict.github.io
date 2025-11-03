@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cong
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -322,7 +322,7 @@ W
         [[fung1 cong1 封艙]],
         to forbid trade;
     - _t(a/)i(6) ~~(2)t(')(o\)~~ ``(5)t(')(o\)`` (1)ts(')ong_
-        [[daai6 tou5 zong2 大肚艙]],
+        [[daai6 tou5 cong1 大肚艙]],
         the main hold;
     - _(1)ts(')ong wai(6)_
         [[cong1 wai6-2 艙位]]

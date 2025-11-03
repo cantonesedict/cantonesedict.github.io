@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -993,7 +993,7 @@ W
     - _ch(')(e/)ung(3) (4)n(a/)m (4)ts(')z'_
         [[coeng3 naam4 ci4 唱南詞]]
         to sing southern ditties,
-    - _ch(')(e/)ung(3) (2)pong (2)tsz' (1)hong_
+    - _ch(')(e/)ung(3) (1)pong (2)tsz' (1)hong_
         [[coeng3 bong1 zi2 hong1 唱梆子腔]],
         theatrical singing;
     - _ch(')(e/)ung(3) h(i/)(3)_

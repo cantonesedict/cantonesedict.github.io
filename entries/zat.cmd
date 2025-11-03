@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zat
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -149,7 +149,7 @@ W
         the complexion;
         the elements of;
     - _chat(7) sun(3)_
-        [[zat seon3 質訊]]
+        [[zat1 seon3 質訊]]
         to confront the accused and witnesses;
     - _chat(7) p(')ok(8)_
         [[zat1 pok3 質樸]]

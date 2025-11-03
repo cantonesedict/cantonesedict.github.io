@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -622,10 +622,10 @@ W
     - _(1)ch(u:) (4)(u:) (2)ts(')z' lui(6)_
         [[zyu1 jyu4 ci2 leoi6-2 諸如此類]]
         all are like this;
-    - _ch(u:) (4)f(a/)n_
+    - _(1)ch(u:) (4)f(a/)n_
         [[zyu1 faan4 諸凡]],
         all;
-    - _ch(u:) sz'(6) (1)to (4)l(o\)_
+    - _(1)ch(u:) sz'(6) (1)to (4)l(o\)_
         [[zyu1 si6 do1 lou4 諸事多勞]],
         I give you much trouble;
     - _(1)ch(u:) (4)hau_
@@ -1602,7 +1602,7 @@ W
         [[hit3 zyu6 歇住]]
         wait a little;
     - _(2)shau ch(u:)(6) l(o\)(6) (2)hau_
-        [[sau1 zyu6 lou6 hau2 守住路口]],
+        [[sau2 zyu6 lou6 hau2 守住路口]],
         guard``ing`` the passage;
     - _ch(u:)(6) p(o\)(6)_
         [[zyu6 bou6 住步]]

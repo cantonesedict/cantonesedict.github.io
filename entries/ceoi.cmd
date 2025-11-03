@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -94,7 +94,7 @@ W
     - _mok(9) ko(3) (1)ts(')(u/)i (5)ngo_
         [[mok6 go3 ceoi1 ngo5 莫個催我]],
         don't hurry me;
-    - _(1)ts(')(u/)i pik(7)_ [[ceoi3 bik1 催逼]]
+    - _(1)ts(')(u/)i pik(7)_ [[ceoi1 bik1 催逼]]
         or
       _(1)ts(')(u/)i (2)kam_ [[ceoi1 gam2 催？]],
         to urge on, to stimulate;
@@ -1276,7 +1276,7 @@ W
     - _(1)pong (4)ch(')(u:) (4)yan_
         [[bong1 cyu4 jan4 幫廚人]],
         a cook's mate, a scullion;
-    - _ki(u/)(3) ts(o\) (4)ch(')(u:)_
+    - _ki(u/)(3) ts(o\)(6) (4)ch(')(u:)_
         [[giu3 zou6 cyu4-2 叫做廚]],
         call the cook;
     - _(4)ch(')(u:) (4)fong_

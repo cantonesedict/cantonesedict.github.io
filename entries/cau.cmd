@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -187,7 +187,7 @@ W
     - _(2)t(a/) (1)ch(')au (1)fung_
         [[daa2 cau1 fung1 打抽風]],
         to beg aid;
-    - _(2)p(i/) (2)p(i/)n (1)ch(')au (5)k(')(u:)_
+    - _(2)p(i/) (1)p(i/)n (1)ch(')au (5)k(')(u:)_
         [[bei2 bin1 cau1 keoi5 畀鞭抽佢]],
         drive him off with a whip;
     - _(1)ch(')au (5)k(')(u:) (5)l(e/)ung (5)h(a/)_

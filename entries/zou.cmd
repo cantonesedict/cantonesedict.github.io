@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zou
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -866,7 +866,7 @@ W
     - dignities [[Kangxi: 位也]], felicity [[Kangxi: 福也]];
     - a year [[Kangxi: 歲也]];
     - _fuk(7) ts(o\)(6)_
-        [[fuk6 zou6 福祚]]
+        [[fuk1 zou6 福祚]]
         good fortune;
     - _kwok(8) ts(o\)(6)_
         [[gwok3 zou6 國祚]]

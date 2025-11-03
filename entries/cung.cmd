@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cung
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -971,7 +971,7 @@ W
     - _(2)ch(')ung (5)f(u/)_
         [[cung2 fu5 冢婦]],
         the wife;
-    - _ch(')ung (2)tsoi_
+    - _(2)ch(')ung (2)tsoi_
         [[cung2 zoi2 冢宰]],
         the highest cabinet ministers.
     ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fai
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -387,7 +387,7 @@ W
         [[fai1 jin4 輝然]],
         spruced up, pleased;
     - _(1)fai (i/)n(6)_
-        [[fai jin6 輝現]]
+        [[fai1 jin6 輝現]]
         exceedingly glorious.
     ==
   - [[Page~43 (1)煇; here normalised to 輝]]

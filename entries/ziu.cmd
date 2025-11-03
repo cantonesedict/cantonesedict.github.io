@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -124,8 +124,8 @@ W
     - _(1)chi(u/) (4)'m (1)chi(u/)_
         [[ziu1 m4 ziu1 招唔招]],
         do you confess?
-    - _(1)chi(u/) t(')(i/)p_
-        [[ziu1 tip3 招貼]],
+    - _(1)chi(u/) t(')(i/)p(8)_
+        [[ziu1 tip3 招貼]]
         a handbill, a placard;
     - _(1)chi(u/) (4)p(')(a/)i_
         [[ziu1 paai4 招牌]],
@@ -829,7 +829,7 @@ W
     - _chi(u/)(3) k(u/)(3)_
         [[ziu3 gu3 照顧]]
         to assist, to patronize, to buy of;
-    - _chi(u/)(3) y(e/)ung ts(o\)(6)_
+    - _chi(u/)(3) y(e/)ung(6) ts(o\)(6)_
         [[ziu3 joeng6-2 zou6 照樣做]]
         make it like the pattern;
     - _chi(u/)(3) sz'(6) (4)hang sz'(6)_

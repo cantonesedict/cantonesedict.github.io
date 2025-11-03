@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoi
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -507,7 +507,7 @@ W
     - _tsoi(3) (1)shang_
         [[zoi3 sang1 再生]]^
         another life;
-    - _tsoi(3) (4)'m tsoi(3) sz'(3)_
+    - _tsoi(3) (1)s(a/)m tsoi(3) sz'(3)_
         [[zoi3 saam1 zoi3 si3 再三再四]]
         again and again [I ordered him];
     - _tsoi(3) (4)'m (2)k(u/) t(o\)(3)_

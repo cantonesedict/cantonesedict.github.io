@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -277,7 +277,7 @@ W
     - ~~to split wood by the hands;~~
     - spittle;
     - _(1)tsun (4)l(e/)ung_
-        [[zeon1 loeng5 津梁]],
+        [[zeon1 loeng4 津梁]],
         ends of a bridge;
     - _(1)tsun yat(9)_
         [[zeon1 jat6 津溢]]
