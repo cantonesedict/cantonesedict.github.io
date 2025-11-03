@@ -7,6 +7,13 @@ Lint all Conway-Markdown (CMD) source files, with some automatic correction.
 """
 
 import os
+import re
+import sys
+
+
+class LintException(Exception):
+    def __init__(self, message: str):
+        self.message = message
 
 
 class CmdSource:
@@ -14,7 +21,13 @@ class CmdSource:
         with open(file_name, 'r', encoding='utf-8') as cmd_file:
             content = cmd_file.read()
 
-        # TODO: generic linting checks
+        try:
+            CmdSource.lint_cjk_compatibility_ideograph(content)
+            CmdSource.lint_cjk_variation_selectors(content)
+            # TODO: other linting checks
+        except LintException as lint_exception:
+            print(f'lint error in `{file_name}`: {lint_exception.message}', file=sys.stderr)
+            sys.exit(1)
 
         self.file_name = file_name
         self.content = content
@@ -22,6 +35,23 @@ class CmdSource:
 
     def __repr__(self):
         return f'CmdSource({self.file_name!r})'
+
+    @staticmethod
+    def lint_cjk_compatibility_ideograph(content: str):
+        if context_match := re.search(
+            pattern=r'\S*?(?P<character>[\uF900-\uFAFF\U0002F800-\U0002FA1F])\S*',
+            string=content,
+        ):
+            context = context_match.group()
+            character = context_match.group('character')
+            raise LintException(f'compatibility ideograph `{character}` present in `{context}`')
+
+    @staticmethod
+    def lint_cjk_variation_selectors(content: str):
+        if context_match := re.search(pattern=r'\S*(?P<character>.)[\uFE00-\uFE0F]\S*', string=content):
+            context = context_match.group()
+            character = context_match.group('character')
+            raise LintException(f'variation selector present on `{character}` in `{context}`')
 
 
 class EntryPage:
@@ -46,7 +76,6 @@ class Parser:
 
 def main():
     parser = Parser()
-    print(parser.cmd_sources)
 
 
 if __name__ == '__main__':
