@@ -2378,6 +2378,13 @@ E
        - 冇佢份 (mou5 keoi5 fan6-2): "There's no part [for] him" (i.e. he is excluded).
        ==
     ++
+  - 【兩份】 (loeng5 fan6-2):
+    ++
+    1. Shared between two.
+       ==
+       - 兩份飲 (loeng5 fan6-2 jam2): "Drink [it] between [the] two [of us]."
+       ==
+    ++
   ====
 S
   ==

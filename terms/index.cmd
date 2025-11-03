@@ -659,6 +659,9 @@ window.onload = applyFilter;
     , lai4-2 zan1
     , [嚟真](/entries/zan#cantonese-嚟真)
   //
+    , loeng5 fan6-2
+    , [兩份](/entries/fan#cantonese-兩份)
+  //
     , lou5 can3
     , [老襯](/entries/can#cantonese-老襯)
   //
