@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fan
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -2375,7 +2375,7 @@ E
     1. A part, a partaking.
        ==
        - 有份出席 (jau5 fan6-2 ceot1 zik6): "Have [a] part [in] attending."
-       - 冇佢分 (mou5 keoi5 fan6-2): "There's no part [for] him" (i.e. he is excluded).
+       - 冇佢份 (mou5 keoi5 fan6-2): "There's no part [for] him" (i.e. he is excluded).
        ==
     ++
   ====
