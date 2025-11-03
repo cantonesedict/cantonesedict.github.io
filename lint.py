@@ -70,26 +70,42 @@ class CmdSource:
 
     @staticmethod
     def lint_typography_quote(content: str):
-        if context_match := re.search(pattern=r'\S* (?<! \^ ) (?P<quote>[‘’“”]) \S*', string=content, flags=re.VERBOSE):
+        if context_match := re.search(
+            pattern=r'\S* (?<! \^ ) (?P<quote>[‘’“”]) \S*',
+            string=content,
+            flags=re.VERBOSE,
+        ):
             context = context_match.group()
             quote = context_match.group('quote')
             raise LintException(f'non-straight quote `{quote}` present in `{context}`')
 
     @staticmethod
     def lint_williams_entering_tone(content: str):
-        if run_match := re.search(pattern=r'\S+ [ptk] \([1-6]\)', string=content, flags=re.VERBOSE):
+        if run_match := re.search(
+            pattern=r'\S+ [ptk] \([1-6]\)',
+            string=content,
+            flags=re.VERBOSE,
+        ):
             run = run_match.group()
             raise LintException(f'bad Williams entering tone in `{run}`')
 
     @staticmethod
     def lint_williams_left_tone(content: str):
-        if run_match := re.search(pattern=r'\S* (?<! _ ) \([1245]\) [_ ]', string=content, flags=re.VERBOSE):
+        if run_match := re.search(
+            pattern=r'\S* (?<! _ ) \([1245]\) [_ ]',
+            string=content,
+            flags=re.VERBOSE,
+        ):
             run = run_match.group()
             raise LintException(f'bad Williams left-tone position in `{run}`')
 
     @staticmethod
     def lint_williams_right_tone(content: str):
-        if run_match := re.search(pattern=r'[_ ] \([36789]\) (?! _ ) \S*', string=content, flags=re.VERBOSE):
+        if run_match := re.search(
+            pattern=r'[_ ] \([36789]\) (?! _ ) \S*',
+            string=content,
+            flags=re.VERBOSE,
+        ):
             run = run_match.group()
             raise LintException(f'bad Williams right-tone position in `{run}`')
 
