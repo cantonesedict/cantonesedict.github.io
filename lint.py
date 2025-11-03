@@ -24,7 +24,7 @@ class CmdSource:
 class Gatherer:
     def __init__(self):
         cmd_file_names = [
-            os.path.join(path, file_name)
+            os.path.normpath(os.path.join(path, file_name))
             for path, _, file_names in os.walk(os.curdir)
             for file_name in file_names
             if file_name.endswith('.cmd')
