@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -808,7 +808,7 @@ C
     - _(4)ch(')am_ (cam4) per 《集韻》持林切.
     - _(2)sham_ (sam2) per 《廣韻》式任切 rising.
     ==
-    It is possible that Williams has simply misprinted (4) as (2),
+    It is possible that Williams has simply misprinted _(4)_ as _(2)_,
     in which case _(4)ch(')am_ (cam4) is intended.
   ====
 $$

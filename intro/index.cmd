@@ -693,7 +693,7 @@ include the terminations in the fourth tone.
     ,
     , (4)t(')oi [[toi4]]
     , (5)t(')oi [[toi5]]
-    , ~~t(')oi(6)~~ ``toi(6)`` [[doi6]]
+    , ~~t(')^oi(6)~~ ``toi(6)`` [[doi6]]
     ,
   //
     , 20
@@ -1227,9 +1227,9 @@ see [vowel shift chart].)
    like no words in the English language, but much
    like a hiss. The people of Canton [[廣州]] itself pronounce these two words
    very clearly, but in the villages around and south of it, they are
-   changed into _sh(i/)_, _s(u:)_, _sz(u:)_, _sch(i/)_, _ts(u:)_, _ts(i/)_, _ch(')(i/)_,
+   changed into _sh(i/)_, _s(u:)_, _sz^(u:)_, _sch(i/)_, _ts(u:)_, _ts(i/)_, _ch(')(i/)_,
    so that in many cases it is hard to recognize them.
-   _(Sze, sz, sse, ss', tse.)_
+   _(Sz^e, sz^, sse, ss', tse.)_
 
   {+++
   --
@@ -1911,7 +1911,7 @@ without the tones superadded; but at Ningpo there is more dissimilarity,
 as an example will show.
 --
 """"{.williams}
-_C(u:)-go t(')in-s yin-c(')ih-lœ, lih-lœ hyiang-en-go jing-siu-pin._
+_C(u:)-go t(')in-s yin-c^(')ih-lœ, lih-lœ hyiang-en-go jing-siu-pin._
 """"
 
 --{.williams}
@@ -2132,7 +2132,7 @@ liable to be misunderstood if he pronounces a word a little wrong,
 as _heng_ [[heng]] for _hing_ [[hing]], _ch(e/)uk_ for _ts(e/)uk_ [[now merged into zoek]], than if he gives it the wrong tone.
 For instance, a native will consider this sentence in the Canton
 dialect 擰一張床呢處, less barbarously pronounced if he
-hears it _(1)ling yet(7) (1)ch(a/)ng (4)ts(')ong (1)n(i/) sh(')(u:)(3)_
+hears it _(1)ling yet(7) (1)ch(a/)ng (4)ts(')ong (1)n(i/) ~~sh^(')(u:)(3)~~ ``sh(u:)(3)``_
 [[ling1 jet1 zaang1 cong4 ni1 syu3]], with all the tones correct,
 than if it should be spoken _ning(6) yat(9) (2)ch(e/)ung ch(')ong(3) n(i/)(3) ~~(1)ch(u:)~~ ``(1)ch(')(u:)``_
 [[ning6 jat6 zoeng2 cong3 ni3 cyu1]], with
@@ -2224,7 +2224,7 @@ final, like the following:---
   [[fuk1 uk1 luk6 suk1]] 複屋鹿宿
   the deer sleeps in the back shed.
 
-- _(1)P(a/) (1)p(a/) (2)p(a/) (2)p(a/) ~~(4)p(a/) (4)p(a/)~~ ``(4)p(')(a/) (4)p(')(a/)`` t(i/)(6)_
+- _(1)P(a/) (1)p(a/) (2)p(a/) (2)p(a/) ~~(4)^p(a/) (4)^p(a/)~~ ``(4)p(')(a/) (4)p(')(a/)`` t(i/)(6)_
   [[baa1 baa1 baa2 baa2 paa4 paa4 dei6]] ::爸爸把把~~笆笆~~``耙耙``地::
   papa rakes the ground with a rake.
 
@@ -2232,7 +2232,7 @@ final, like the following:---
   [[jau5 jau4 dau6 zau2 kau4 sau2 sau6]] 有油荳酒求叟售
   ask the old man to buy my oil, pulse, or wine.
 
-- _(5)K(')au (5)yau tau(6) (2)kau (2)tau, (5)k(')(u:) (1)t(')au tsau(6) ~~(5)tsau~~ ``(2)tsau``_
+- _(5)K(')au (5)yau tau(6) (2)kau (2)tau, (5)k(')(u:) (1)t(')au tsau(6) ~~(5)^tsau~~ ``(2)tsau``_
   [[kau5 jau5 dau6 gau2 dau2 keoi5 tau1 zau6 zau2]] 舅有荳九斗佢偷就走
   he stole ten pecks of uncle's beans and ran off.
 
