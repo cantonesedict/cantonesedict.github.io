@@ -422,7 +422,7 @@ W
   ====
   - [[Page~35* 筑(7)]]
     ==
-    - A sort of bamboo dulcimer with 13~cords [[Kangxi: ::筑似箏而十三[絃]^::]]~~,
+    - A sort of bamboo dulcimer with 13~cords [[Kangxi: ::筑似箏而十三[絃]::]]~~,
       used in worship at the municipal temple~~.
     ==
   ====

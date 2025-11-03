@@ -277,7 +277,7 @@ W
     - [[...]];
     - to bear with [[Kangxi: 容也]];
     - to obey [[Kangxi: 順也]];
-    - domestic animals [[Kangxi: ::六[畜]^::]];
+    - domestic animals [[Kangxi: ::六[畜]::]];
     - _ch(')uk(7) (1)shang_
         [[cuk1 sang1 畜牲]],
         you brute!

@@ -38,7 +38,6 @@ class CmdSource:
             CmdSource.lint_jyutping_entering_tone(content)
             CmdSource.lint_jyutping_yod(content)
             CmdSource.lint_romanisation_tone_consistency(content)
-            # TODO: other linting checks
         except LintException as lint_exception:
             print(f'lint error in `{file_name}`: {lint_exception.message}', file=sys.stderr)
             sys.exit(1)
