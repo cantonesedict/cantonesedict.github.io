@@ -23,8 +23,8 @@ class CmdSource:
 
         try:
             CmdSource.lint_cjk_compatibility_ideograph(content)
-            CmdSource.lint_cjk_variation_selectors(content)
-            CmdSource.lint_typography_quotes(content)
+            CmdSource.lint_cjk_variation_selector(content)
+            CmdSource.lint_typography_quote(content)
             CmdSource.lint_williams_entering_tone(content)
             CmdSource.lint_williams_left_tone(content)
             CmdSource.lint_williams_right_tone(content)
@@ -58,7 +58,7 @@ class CmdSource:
             raise LintException(f'compatibility ideograph `{character}` present in `{context}`')
 
     @staticmethod
-    def lint_cjk_variation_selectors(content: str):
+    def lint_cjk_variation_selector(content: str):
         if context_match := re.search(
             pattern=r'\S* (?P<character>.) [\uFE00-\uFE0F] \S*',
             string=content,
@@ -69,7 +69,7 @@ class CmdSource:
             raise LintException(f'variation selector present on `{character}` in `{context}`')
 
     @staticmethod
-    def lint_typography_quotes(content: str):
+    def lint_typography_quote(content: str):
         if context_match := re.search(pattern=r'\S* (?<! \^ ) (?P<quote>[‘’“”]) \S*', string=content, flags=re.VERBOSE):
             context = context_match.group()
             quote = context_match.group('quote')
