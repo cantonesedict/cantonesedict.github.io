@@ -22,10 +22,10 @@ class CmdSource:
             content = cmd_file.read()
 
         try:
+            CmdSource.lint_typography_quote(content)
             CmdSource.lint_cjk_compatibility_ideograph(content)
             CmdSource.lint_cjk_non_bmp_composition(content)
             CmdSource.lint_cjk_variation_selector(content)
-            CmdSource.lint_typography_quote(content)
             CmdSource.lint_williams_entering_tone(content)
             CmdSource.lint_williams_left_tone(content)
             CmdSource.lint_williams_right_tone(content)
@@ -49,6 +49,17 @@ class CmdSource:
 
     def __repr__(self):
         return f'CmdSource({self.file_name !r})'
+
+    @staticmethod
+    def lint_typography_quote(content: str):
+        if context_match := re.search(
+            pattern=r'\S* (?<! \^ ) (?P<quote>[‘’“”]) \S*',
+            string=content,
+            flags=re.VERBOSE,
+        ):
+            context = context_match.group()
+            quote = context_match.group('quote')
+            raise LintException(f'non-straight quote `{quote}` present in `{context}`')
 
     @staticmethod
     def lint_cjk_compatibility_ideograph(content: str):
@@ -87,17 +98,6 @@ class CmdSource:
             context = context_match.group()
             character = context_match.group('character')
             raise LintException(f'variation selector present on `{character}` in `{context}`')
-
-    @staticmethod
-    def lint_typography_quote(content: str):
-        if context_match := re.search(
-            pattern=r'\S* (?<! \^ ) (?P<quote>[‘’“”]) \S*',
-            string=content,
-            flags=re.VERBOSE,
-        ):
-            context = context_match.group()
-            quote = context_match.group('quote')
-            raise LintException(f'non-straight quote `{quote}` present in `{context}`')
 
     @staticmethod
     def lint_williams_entering_tone(content: str):
