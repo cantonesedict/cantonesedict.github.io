@@ -293,6 +293,7 @@ class EntryPage:
 
 
 class PageHeading:
+    content: str
     williams_list: list[str]
     jyutping: str
 
@@ -304,6 +305,7 @@ class PageHeading:
         )):
             raise LintException('page heading `#{.williams} ...` not found')
 
+        content = match.group()
         williams_run = match.group('williams_run')
         jyutping = match.group('jyutping')
 
@@ -315,6 +317,7 @@ class PageHeading:
             for williams in williams_run.split()
         ]
 
+        self.content = content
         self.williams_list = williams_list
         self.jyutping = jyutping
 
