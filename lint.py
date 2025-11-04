@@ -269,9 +269,14 @@ class CmdSource:
 class EntryPage:
     def __init__(self, file_name: str, content: str):
         if file_name.startswith('entries/') and not file_name.endswith('index.cmd'):
-            pass  # TODO: do entry extraction
+            pass
+            # TODO: page_heading `#`
+            # TODO: tone_navigator `<## tones ##>`
+            # TODO: tone_headings `##`
+            # TODO: character_navigators `<## tone-n-characters ##>`
+            # TODO: character_entries `###` etc.
         else:
-            pass  # TODO: do nothing
+            pass  # TODO: etc.
 
 
 class Parser:
