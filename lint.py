@@ -293,6 +293,7 @@ class EntryPage:
                 # TODO: character_entries `###` etc.
 
                 EntryPage.lint_page_heading_against_tone_headings(page_heading, tone_headings)
+                # TODO: EntryPage.lint_tone_headings_against_character_entries(tone_headings, character_entries)
             except LintException as lint_exception:
                 print(f'lint error in `{file_name}`: {lint_exception.message}', file=sys.stderr)
                 sys.exit(1)
@@ -300,7 +301,8 @@ class EntryPage:
             page_heading = None
             tone_navigator = None
             tone_headings = None
-            pass  # TODO: etc.
+            # TODO: character_navigators = None
+            # TODO: character_entries = None
 
         self.file_name = file_name
         self.content = content
@@ -311,6 +313,7 @@ class EntryPage:
     def self_correct(self):
         replaced_content = content = self.content
         replaced_content = self.replace_tone_navigator(replaced_content)
+        # TODO: replaced_content = self.replace_character_navigators(replaced_content)
 
         if replaced_content == content:
             return
