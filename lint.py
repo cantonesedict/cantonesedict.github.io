@@ -410,10 +410,21 @@ class ToneHeading:
 
         williams_tone = williams_tones.pop()
         williams_tone_number = re.sub(pattern='[()]', repl='', string=williams_tone)
-        tone_index = int(williams_tone_number) - 1
+        williams_tone_index = int(williams_tone_number) - 1
 
-        if CANTONESE_TONES_CHINESE[tone_index] != chinese:
+        if CANTONESE_TONES_CHINESE[williams_tone_index] != chinese:
             raise LintException(f'Williams tone `{williams_tone}` is not `{chinese}` in tone heading `{content}`')
+
+        jyutping_is_entering = jyutping[-2] in 'ptk'
+        jyutping_tone_number = jyutping[-1]
+        jyutping_proper_tone_number = (
+            jyutping_tone_number.translate(str.maketrans('136', '789')) if jyutping_is_entering
+            else jyutping_tone_number
+        )
+        jyutping_tone_index = int(jyutping_proper_tone_number) - 1
+
+        if CANTONESE_TONES_CHINESE[jyutping_tone_index] != chinese:
+            raise LintException(f'Jyutping `{jyutping}` is not `{chinese}` in tone heading `{content}`')
 
         williams_list = [
             re.sub(pattern=r'[`.]', repl='', string=williams)
