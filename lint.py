@@ -3,7 +3,7 @@
 """
 # lint.py
 
-Lint all Conway-Markdown (CMD) source files, with some automatic indexing.
+Lint all Conway-Markdown (CMD) source files, with some automatic correction and indexing.
 """
 
 import os
@@ -272,12 +272,13 @@ class CmdSource:
 
 class EntryPage:
     page_heading: Optional['PageHeading']
+    tone_navigator: Optional['ToneNavigator']
 
     def __init__(self, file_name: str, content: str):
         if file_name.startswith('entries/') and not file_name.endswith('index.cmd'):
             try:
                 page_heading = PageHeading(file_name, content)
-                # TODO: tone_navigator `<## tones ##>`
+                tone_navigator = ToneNavigator(content)
                 # TODO: tone_headings `##`
                 # TODO: character_navigators `<## tone-n-characters ##>`
                 # TODO: character_entries `###` etc.
@@ -287,9 +288,11 @@ class EntryPage:
 
         else:
             page_heading = None
+            tone_navigator = None
             pass  # TODO: etc.
 
         self.page_heading = page_heading
+        self.tone_navigator = tone_navigator
 
 
 class PageHeading:
@@ -297,10 +300,10 @@ class PageHeading:
     williams_list: list[str]
     jyutping: str
 
-    def __init__(self, file_name: str, content: str):
+    def __init__(self, file_name: str, page_content: str):
         if not (match := re.search(
             pattern=r'^ \# \{\.williams\} \s+ (?P<williams_run> .*?) \s* \[\[ (?P<jyutping> [a-z]+) \]\] $',
-            string=content,
+            string=page_content,
             flags=re.MULTILINE | re.VERBOSE,
         )):
             raise LintException('page heading `#{.williams} ...` not found')
@@ -320,6 +323,22 @@ class PageHeading:
         self.content = content
         self.williams_list = williams_list
         self.jyutping = jyutping
+
+
+class ToneNavigator:
+    content: Optional[str]
+
+    def __init__(self, page_content: str):
+        if match := re.search(
+            pattern=r'<## tones ##>.*?<## /tones ##>',
+            string=page_content,
+            flags=re.DOTALL | re.MULTILINE,
+        ):
+            content = match.group()
+        else:
+            content = None
+
+        self.content = content
 
 
 class Parser:
