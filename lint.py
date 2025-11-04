@@ -46,9 +46,6 @@ class CmdSource:
         self.content = content
         self.entry_page = EntryPage(file_name, content)
 
-    def __repr__(self):
-        return f'CmdSource({self.file_name !r})'
-
     @staticmethod
     def lint_typography_quote(content: str):
         if context_match := re.search(
@@ -269,14 +266,46 @@ class CmdSource:
 class EntryPage:
     def __init__(self, file_name: str, content: str):
         if file_name.startswith('entries/') and not file_name.endswith('index.cmd'):
-            pass
-            # TODO: page_heading `#`
-            # TODO: tone_navigator `<## tones ##>`
-            # TODO: tone_headings `##`
-            # TODO: character_navigators `<## tone-n-characters ##>`
-            # TODO: character_entries `###` etc.
+            try:
+                page_heading = PageHeading(file_name, content)
+                # TODO: page_heading `#`
+                # TODO: tone_navigator `<## tones ##>`
+                # TODO: tone_headings `##`
+                # TODO: character_navigators `<## tone-n-characters ##>`
+                # TODO: character_entries `###` etc.
+            except LintException as lint_exception:
+                print(f'lint error in `{file_name}`: {lint_exception.message}', file=sys.stderr)
+                sys.exit(1)
+
         else:
+            page_heading = None
             pass  # TODO: etc.
+
+        self.page_heading = page_heading
+
+
+class PageHeading:
+    def __init__(self, file_name: str, content: str):
+        if not (match := re.search(
+            pattern=r'^ \# \{\.williams\} \s+ (?P<williams_run> .*?) \s* \[\[ (?P<jyutping> [a-z]+) \]\] $',
+            string=content,
+            flags=re.MULTILINE | re.VERBOSE,
+        )):
+            raise LintException('page heading not found')
+
+        williams_run = match.group('williams_run')
+        jyutping = match.group('jyutping')
+
+        if file_name != f'entries/{jyutping}.cmd':
+            raise LintException(f'page heading Jyutping `{jyutping}` is inconsistent with file name `{file_name}`')
+
+        williams_list = [
+            re.sub(pattern=r'[`.]', repl='', string=williams)
+            for williams in williams_run.split()
+        ]
+
+        self.williams_list = williams_list
+        self.jyutping = jyutping
 
 
 class Parser:
