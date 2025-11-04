@@ -280,7 +280,7 @@ class EntryPage:
             try:
                 page_heading = PageHeading(file_name, content)
                 tone_navigator = ToneNavigator(content)
-                tone_headings = EntryPage.extract_tone_headings(content)
+                tone_headings = EntryPage.extract_tone_headings(content, page_heading.jyutping)
                 # TODO: character_navigators `<## tone-n-characters ##>`
                 # TODO: character_entries `###` etc.
 
@@ -299,9 +299,9 @@ class EntryPage:
         self.tone_headings = tone_headings
 
     @staticmethod
-    def extract_tone_headings(page_content: str) -> list['ToneHeading']:
+    def extract_tone_headings(page_content: str, page_heading_jyutping: str) -> list['ToneHeading']:
         return [
-            ToneHeading(content, tone_number, williams_run, jyutping, chinese)
+            ToneHeading(content, tone_number, williams_run, jyutping, chinese, page_heading_jyutping)
             for match in re.finditer(
                 pattern=r'''
                     ^ \#\# \{ \# (?P<tone_number> [1-6] ) \s+ \.williams \}
@@ -392,7 +392,14 @@ class ToneHeading:
     jyutping: str
     chinese: str
 
-    def __init__(self, content: str, tone_number: str, williams_run: str, jyutping: str, chinese: str):
+    def __init__(self, content: str, tone_number: str, williams_run: str, jyutping: str, chinese: str,
+                 page_heading_jyutping: str):
+        if f'{page_heading_jyutping}{tone_number}' != jyutping:
+            raise LintException(
+                f'inconsistent page heading Jyutping `{page_heading_jyutping}` and tone number `{tone_number}` '
+                f'vs Jyutping `{jyutping}` in tone heading `{content}'
+            )
+
         williams_list = [
             re.sub(pattern=r'[`.]', repl='', string=williams)
             for williams in williams_run.split()
