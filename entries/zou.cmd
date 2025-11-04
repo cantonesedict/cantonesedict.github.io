@@ -641,7 +641,7 @@ $$
 - $阼6
 ==
 </nav>
-<## /tone-3-characters ##>
+<## /tone-6-characters ##>
 
 ### 做6 | _Ts(o\)(6)_ [[zou6]]
 

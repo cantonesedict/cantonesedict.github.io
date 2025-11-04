@@ -282,6 +282,7 @@ class EntryPage:
     page_heading: Optional['PageHeading']
     tone_navigator: Optional['ToneNavigator']
     tone_headings: Optional[list['ToneHeading']]
+    character_navigators: Optional[list['CharacterNavigator']]
 
     def __init__(self, file_name: str, content: str):
         if file_name.startswith('entries/') and not file_name.endswith('index.cmd'):
@@ -289,10 +290,11 @@ class EntryPage:
                 page_heading = PageHeading(file_name, content)
                 tone_navigator = ToneNavigator(content)
                 tone_headings = EntryPage.extract_tone_headings(content, page_heading.jyutping)
-                # TODO: character_navigators `<## tone-n-characters ##>`
+                character_navigators = EntryPage.extract_character_navigators(content)
                 # TODO: character_entries `###` etc.
 
                 EntryPage.lint_page_heading_against_tone_headings(page_heading, tone_headings)
+                EntryPage.lint_tone_headings_against_character_navigators(tone_headings, character_navigators)
                 # TODO: EntryPage.lint_tone_headings_against_character_entries(tone_headings, character_entries)
             except LintException as lint_exception:
                 print(f'lint error in `{file_name}`: {lint_exception.message}', file=sys.stderr)
@@ -301,7 +303,7 @@ class EntryPage:
             page_heading = None
             tone_navigator = None
             tone_headings = None
-            # TODO: character_navigators = None
+            character_navigators = None
             # TODO: character_entries = None
 
         self.file_name = file_name
@@ -309,6 +311,7 @@ class EntryPage:
         self.page_heading = page_heading
         self.tone_navigator = tone_navigator
         self.tone_headings = tone_headings
+        self.character_navigators = character_navigators
 
     def self_correct(self):
         replaced_content = content = self.content
@@ -365,6 +368,21 @@ class EntryPage:
         ]
 
     @staticmethod
+    def extract_character_navigators(page_content: str) -> list['CharacterNavigator']:
+        return [
+            CharacterNavigator(content, tone_number)
+            for match in re.finditer(
+                pattern=r'<## tone-(?P<tone_number>[1-6])-characters ##>.*?<## /tone-(?P=tone_number)-characters ##>',
+                string=page_content,
+                flags=re.DOTALL | re.MULTILINE,
+            )
+            if (
+                content := match.group(),
+                tone_number := match.group('tone_number'),
+            )
+        ]
+
+    @staticmethod
     def lint_page_heading_against_tone_headings(page_heading: 'PageHeading', tone_headings: list['ToneHeading']):
         if not tone_headings:
             return
@@ -380,6 +398,24 @@ class EntryPage:
             raise LintException(
                 f'inconsistent page heading Williams set {page_williams_set} '
                 f'vs tone heading Williams set {tone_williams_set}'
+            )
+
+    @staticmethod
+    def lint_tone_headings_against_character_navigators(tone_headings: list['ToneHeading'],
+                                                        character_navigators: list['CharacterNavigator']):
+        tone_heading_tone_numbers = [
+            tone_heading.tone_number
+            for tone_heading in tone_headings
+        ]
+        character_navigator_tone_numbers = [
+            character_navigator.tone_number
+            for character_navigator in character_navigators
+        ]
+
+        if tone_heading_tone_numbers != character_navigator_tone_numbers:
+            raise LintException(
+                f'inconsistent tone heading tone numbers `{tone_heading_tone_numbers}` '
+                f'vs character navigator tone numbers `{character_navigator_tone_numbers}`'
             )
 
 
@@ -477,6 +513,15 @@ class ToneHeading:
         self.williams_list = williams_list
         self.jyutping = jyutping
         self.chinese = chinese
+
+
+class CharacterNavigator:
+    content: str
+    tone_number: str
+
+    def __init__(self, content: str, tone_number: str):
+        self.content = content
+        self.tone_number = tone_number
 
 
 class Executor:
