@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cat
-* %date-modified --> 2025-11-03
+* %date-modified --> 2025-11-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -225,7 +225,7 @@ W
 $$
 
 
-##{#6 .modern} Ts(')at(9) (cat6 陽入)
+##{#6 .williams} ``Ts(')at(9)`` [[cat6 陽入]]
 
 <## tone-6-characters ##>
 <nav class="sideways">

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caak
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -44,7 +44,7 @@ S
 $$
 
 
-##{#1 .modern} Ch(')(a/)k(7) (caak1 高陰入)
+##{#1 .williams} ``Ch(')(a/)k(7)`` [[caak1 高陰入]]
 
 <## tone-1-characters ##>
 <nav class="sideways">

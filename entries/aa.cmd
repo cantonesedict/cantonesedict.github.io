@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2025-11-03
+* %date-modified --> 2025-11-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -671,7 +671,7 @@ S
 $$
 
 
-##{#4 .modern} (4)(A/) (aa4 陽平)
+##{#4 .williams} ``(4)(A/)`` [[aa4 陽平]]
 
 <## tone-4-characters ##>
 <nav class="sideways">

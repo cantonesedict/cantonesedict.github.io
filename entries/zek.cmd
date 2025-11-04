@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zek
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-04
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -44,7 +44,7 @@ S
 $$
 
 
-##{#1 .modern} Tsek(7) (zek1 高陰入)
+##{#1 .williams} ``Tsek(7)`` [[zek1 高陰入]]
 
 <## tone-1-characters ##>
 <nav class="sideways">

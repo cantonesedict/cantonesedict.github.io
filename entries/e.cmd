@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> e
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-04
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -95,7 +95,7 @@ S
 $$
 
 
-##{#6 .modern} (E/)(6) (e6 陽去)
+##{#6 .williams} ``(E/)(6)`` [[e6 陽去]]
 
 <## tone-6-characters ##>
 <nav class="sideways">

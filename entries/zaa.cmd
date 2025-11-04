@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -996,7 +996,7 @@ W
 $$
 
 
-##{#4 .modern} (4)^Ch(a/) (zaa4 陽平)
+##{#4 .williams} ``(4)^Ch(a/)`` [[zaa4 陽平]]
 
 <## tone-4-characters ##>
 <nav class="sideways">
@@ -1034,7 +1034,7 @@ E
 $$
 
 
-##{#6 .modern} Ch(a/)(6) (zaa6 陽去)
+##{#6 .williams} ``Ch(a/)(6)`` [[zaa6 陽去]]
 
 <## tone-6-characters ##>
 <nav class="sideways">

@@ -56,6 +56,9 @@ class CmdSource:
         self.content = content
         self.entry_page = EntryPage(file_name, content)
 
+    def correct_entry_page(self):
+        self.entry_page.self_correct()
+
     @staticmethod
     def lint_typography_quote(content: str):
         if context_match := re.search(
@@ -274,6 +277,8 @@ class CmdSource:
 
 
 class EntryPage:
+    file_name: str
+    content: str
     page_heading: Optional['PageHeading']
     tone_navigator: Optional['ToneNavigator']
     tone_headings: Optional[list['ToneHeading']]
@@ -297,9 +302,42 @@ class EntryPage:
             tone_headings = None
             pass  # TODO: etc.
 
+        self.file_name = file_name
+        self.content = content
         self.page_heading = page_heading
         self.tone_navigator = tone_navigator
         self.tone_headings = tone_headings
+
+    def self_correct(self):
+        replaced_content = content = self.content
+        replaced_content = self.replace_tone_navigator(replaced_content)
+
+        if replaced_content == content:
+            return
+
+        with open(self.file_name, 'w') as cmd_file:
+            cmd_file.write(replaced_content)
+
+        self.content = replaced_content
+
+    def replace_tone_navigator(self, content: str) -> str:
+        if not self.tone_navigator or not self.tone_navigator.content:
+            return content
+
+        tone_navigator_content = self.tone_navigator.content
+        tone_navigator_content_expected = '\n'.join([
+            '<## tones ##>',
+            '<nav class="sideways">',
+            '=={.modern}',
+            *[
+                f'- [{tone_heading.jyutping}](#{tone_heading.tone_number})'
+                for tone_heading in self.tone_headings
+            ],
+            '==',
+            '</nav>',
+            '<## /tones ##>',
+        ])
+        return content.replace(tone_navigator_content, tone_navigator_content_expected)
 
     @staticmethod
     def extract_tone_headings(page_content: str, page_heading_jyutping: str) -> list['ToneHeading']:
@@ -427,7 +465,7 @@ class ToneHeading:
             raise LintException(f'Jyutping `{jyutping}` is not `{chinese}` in tone heading `{content}`')
 
         williams_list = [
-            re.sub(pattern=r'[`.]', repl='', string=williams)
+            re.sub(pattern=r'[`.^]', repl='', string=williams)
             for williams in williams_run.split()
         ]
 
@@ -449,9 +487,14 @@ class Executor:
 
         self.cmd_sources = [CmdSource(file_name) for file_name in sorted(cmd_file_names)]
 
+    def correct_entry_pages(self):
+        for cmd_source in self.cmd_sources:
+            cmd_source.correct_entry_page()
+
 
 def main():
     executor = Executor()
+    executor.correct_entry_pages()
 
 
 if __name__ == '__main__':

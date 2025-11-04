@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fai
-* %date-modified --> 2025-11-03
+* %date-modified --> 2025-11-04
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -508,7 +508,7 @@ $$
 <## $虧kwai1 (TODO) ##>
 
 
-##{#2 .modern} (2)Fai (fai2 陰上)
+##{#2 .williams} ``(2)Fai`` [[fai2 陰上]]
 
 <## tone-2-characters ##>
 <nav class="sideways">

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaang
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -284,7 +284,7 @@ S
 $$
 
 
-##{#3 .modern} Ch(a/)ng(3) (zaang3 陰去)
+##{#3 .williams} ``Ch(a/)ng(3)`` [[zaang3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">
@@ -345,7 +345,7 @@ S
 $$
 
 
-##{#6 .modern} Ch(a/)ng(6) (zaang6 陽去)
+##{#6 .williams} Ch(a/)ng(6) [[zaang6 陽去]]
 
 <## tone-6-characters ##>
 <nav class="sideways">

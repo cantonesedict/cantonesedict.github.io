@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -849,7 +849,7 @@ E
 $$
 
 
-##{#5 .modern} (5)Ch(')(a/) (caa5 陽上)
+##{#5 .williams} ``(5)Ch(')(a/)`` [[caa5 陽上]]
 
 <## tone-5-characters ##>
 <nav class="sideways">
