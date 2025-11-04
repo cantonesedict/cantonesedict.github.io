@@ -283,6 +283,8 @@ class EntryPage:
                 tone_headings = EntryPage.extract_tone_headings(content)
                 # TODO: character_navigators `<## tone-n-characters ##>`
                 # TODO: character_entries `###` etc.
+
+                EntryPage.lint_page_heading_against_tone_headings(page_heading, tone_headings)
             except LintException as lint_exception:
                 print(f'lint error in `{file_name}`: {lint_exception.message}', file=sys.stderr)
                 sys.exit(1)
@@ -318,6 +320,24 @@ class EntryPage:
             )
         ]
 
+    @staticmethod
+    def lint_page_heading_against_tone_headings(page_heading: 'PageHeading', tone_headings: list['ToneHeading']):
+        if not tone_headings:
+            return
+
+        page_williams_set = set(page_heading.williams_list)
+        tone_williams_set = set(
+            re.sub(pattern=r'\([1-9]\)', repl='', string=williams)
+            for tone_heading in tone_headings
+            for williams in tone_heading.williams_list
+        )
+
+        if page_williams_set != tone_williams_set:
+            raise LintException(
+                f'inconsistent page heading Williams set {page_williams_set} '
+                f'vs tone heading Williams set {tone_williams_set}'
+            )
+
 
 class PageHeading:
     content: str
@@ -337,7 +357,7 @@ class PageHeading:
         jyutping = match.group('jyutping')
 
         if file_name != f'entries/{jyutping}.cmd':
-            raise LintException(f'page heading Jyutping `{jyutping}` is inconsistent with file name `{file_name}`')
+            raise LintException(f'inconsistent page heading Jyutping `{jyutping}` vs file name `{file_name}`')
 
         williams_list = [
             re.sub(pattern=r'[`.]', repl='', string=williams)
@@ -366,6 +386,12 @@ class ToneNavigator:
 
 
 class ToneHeading:
+    content: str
+    tone_number: str
+    williams_list: list[str]
+    jyutping: str
+    chinese: str
+
     def __init__(self, content: str, tone_number: str, williams_run: str, jyutping: str, chinese: str):
         williams_list = [
             re.sub(pattern=r'[`.]', repl='', string=williams)

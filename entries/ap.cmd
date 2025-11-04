@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ap
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -115,7 +115,7 @@ S
 $$
 
 
-##{#3 .modern} (O\)p(8) (ap3 低陰入)
+##{#3 .williams} ``(O\)p(8)`` [[ap3 低陰入]]
 
 <## tone-3-characters ##>
 <nav class="sideways">
