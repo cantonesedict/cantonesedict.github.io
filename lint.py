@@ -438,7 +438,7 @@ class ToneHeading:
         self.chinese = chinese
 
 
-class Parser:
+class Executor:
     def __init__(self):
         cmd_file_names = [
             os.path.normpath(os.path.join(path, file_name)).replace('\\', '/')
@@ -451,7 +451,7 @@ class Parser:
 
 
 def main():
-    parser = Parser()
+    executor = Executor()
 
 
 if __name__ == '__main__':
