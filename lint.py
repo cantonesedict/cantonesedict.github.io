@@ -12,6 +12,9 @@ import sys
 from typing import Optional
 
 
+CANTONESE_TONES_CHINESE = ['陰平', '陰上', '陰去', '陽平', '陽上', '陽去', '高陰入', '低陰入', '陽入']
+
+
 class LintException(Exception):
     message: str
 
@@ -397,8 +400,20 @@ class ToneHeading:
         if f'{page_heading_jyutping}{tone_number}' != jyutping:
             raise LintException(
                 f'inconsistent page heading Jyutping `{page_heading_jyutping}` and tone number `{tone_number}` '
-                f'vs Jyutping `{jyutping}` in tone heading `{content}'
+                f'vs Jyutping `{jyutping}` in tone heading `{content}`'
             )
+
+        williams_tones = set(re.findall(pattern=r'\([1-9]\)', string=williams_run))
+
+        if len(williams_tones) != 1:
+            raise LintException(f'non-sole Williams tones `{williams_tones}` found in tone heading `{content}`')
+
+        williams_tone = williams_tones.pop()
+        williams_tone_number = re.sub(pattern='[()]', repl='', string=williams_tone)
+        tone_index = int(williams_tone_number) - 1
+
+        if CANTONESE_TONES_CHINESE[tone_index] != chinese:
+            raise LintException(f'Williams tone `{williams_tone}` is not `{chinese}` in tone heading `{content}`')
 
         williams_list = [
             re.sub(pattern=r'[`.]', repl='', string=williams)

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2025-11-03
+* %date-modified --> 2025-11-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -657,7 +657,7 @@ W
 $$
 
 
-##{#2 .williams} (1)Ch(e/)ung (1)Ts(e/)ung [[zoeng2 陰上]]
+##{#2 .williams} (2)Ch(e/)ung (2)Ts(e/)ung [[zoeng2 陰上]]
 
 <## tone-2-characters ##>
 <nav class="sideways">
