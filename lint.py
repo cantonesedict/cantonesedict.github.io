@@ -3,20 +3,27 @@
 """
 # lint.py
 
-Lint all Conway-Markdown (CMD) source files, with some automatic correction.
+Lint all Conway-Markdown (CMD) source files, with some automatic indexing.
 """
 
 import os
 import re
 import sys
+from typing import Optional
 
 
 class LintException(Exception):
+    message: str
+
     def __init__(self, message: str):
         self.message = message
 
 
 class CmdSource:
+    file_name: str
+    content: str
+    entry_page: 'EntryPage'
+
     def __init__(self, file_name: str):
         with open(file_name, 'r', encoding='utf-8') as cmd_file:
             content = cmd_file.read()
@@ -264,11 +271,12 @@ class CmdSource:
 
 
 class EntryPage:
+    page_heading: Optional['PageHeading']
+
     def __init__(self, file_name: str, content: str):
         if file_name.startswith('entries/') and not file_name.endswith('index.cmd'):
             try:
                 page_heading = PageHeading(file_name, content)
-                # TODO: page_heading `#`
                 # TODO: tone_navigator `<## tones ##>`
                 # TODO: tone_headings `##`
                 # TODO: character_navigators `<## tone-n-characters ##>`
@@ -285,13 +293,16 @@ class EntryPage:
 
 
 class PageHeading:
+    williams_list: list[str]
+    jyutping: str
+
     def __init__(self, file_name: str, content: str):
         if not (match := re.search(
             pattern=r'^ \# \{\.williams\} \s+ (?P<williams_run> .*?) \s* \[\[ (?P<jyutping> [a-z]+) \]\] $',
             string=content,
             flags=re.MULTILINE | re.VERBOSE,
         )):
-            raise LintException('page heading not found')
+            raise LintException('page heading `#{.williams} ...` not found')
 
         williams_run = match.group('williams_run')
         jyutping = match.group('jyutping')
