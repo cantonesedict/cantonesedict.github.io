@@ -273,26 +273,50 @@ class CmdSource:
 class EntryPage:
     page_heading: Optional['PageHeading']
     tone_navigator: Optional['ToneNavigator']
+    tone_headings: Optional[list['ToneHeading']]
 
     def __init__(self, file_name: str, content: str):
         if file_name.startswith('entries/') and not file_name.endswith('index.cmd'):
             try:
                 page_heading = PageHeading(file_name, content)
                 tone_navigator = ToneNavigator(content)
-                # TODO: tone_headings `##`
+                tone_headings = EntryPage.extract_tone_headings(content)
                 # TODO: character_navigators `<## tone-n-characters ##>`
                 # TODO: character_entries `###` etc.
             except LintException as lint_exception:
                 print(f'lint error in `{file_name}`: {lint_exception.message}', file=sys.stderr)
                 sys.exit(1)
-
         else:
             page_heading = None
             tone_navigator = None
+            tone_headings = None
             pass  # TODO: etc.
 
         self.page_heading = page_heading
         self.tone_navigator = tone_navigator
+        self.tone_headings = tone_headings
+
+    @staticmethod
+    def extract_tone_headings(page_content: str) -> list['ToneHeading']:
+        return [
+            ToneHeading(content, tone_number, williams_run, jyutping, chinese)
+            for match in re.finditer(
+                pattern=r'''
+                    ^ \#\# \{ \# (?P<tone_number> [1-6] ) \s+ \.williams \}
+                    \s+ (?P<williams_run> .*? )
+                    \s* \[\[ (?P<jyutping> [a-z]+ [1-6] ) \s+ (?P<chinese> \S+ ) \]\] $
+                ''',
+                string=page_content,
+                flags=re.MULTILINE | re.VERBOSE,
+            )
+            if (
+                content := match.group(),
+                tone_number := match.group('tone_number'),
+                williams_run := match.group('williams_run'),
+                jyutping := match.group('jyutping'),
+                chinese := match.group('chinese'),
+            )
+        ]
 
 
 class PageHeading:
@@ -302,7 +326,7 @@ class PageHeading:
 
     def __init__(self, file_name: str, page_content: str):
         if not (match := re.search(
-            pattern=r'^ \# \{\.williams\} \s+ (?P<williams_run> .*?) \s* \[\[ (?P<jyutping> [a-z]+) \]\] $',
+            pattern=r'^ \# \{\.williams\} \s+ (?P<williams_run> .*? ) \s* \[\[ (?P<jyutping> [a-z]+ ) \]\] $',
             string=page_content,
             flags=re.MULTILINE | re.VERBOSE,
         )):
@@ -339,6 +363,20 @@ class ToneNavigator:
             content = None
 
         self.content = content
+
+
+class ToneHeading:
+    def __init__(self, content: str, tone_number: str, williams_run: str, jyutping: str, chinese: str):
+        williams_list = [
+            re.sub(pattern=r'[`.]', repl='', string=williams)
+            for williams in williams_run.split()
+        ]
+
+        self.content = content
+        self.tone_number = tone_number
+        self.williams_list = williams_list
+        self.jyutping = jyutping
+        self.chinese = chinese
 
 
 class Parser:
