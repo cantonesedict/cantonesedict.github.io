@@ -420,7 +420,7 @@ class ToneNavigator:
         if match := re.search(
             pattern=r'<## tones ##>.*?<## /tones ##>',
             string=page_content,
-            flags=re.DOTALL | re.MULTILINE,
+            flags=re.DOTALL,
         ):
             content = match.group()
         else:
