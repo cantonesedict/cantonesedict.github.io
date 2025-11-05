@@ -13,6 +13,26 @@ from typing import Optional
 
 
 CANTONESE_TONES_CHINESE = ['陰平', '陰上', '陰去', '陽平', '陽上', '陽去', '高陰入', '低陰入', '陽入']
+CJK_UNIFIED_IDEOGRAPH_RADICALS = (
+    '一丨丶丿乙亅'
+    '二亠人儿入八冂冖冫几凵刀力勹匕匚匸十卜卩厂厶又'
+    '口囗土士夂夊夕大女子宀寸小尢尸屮山巛工己巾干幺广廴廾弋弓彐彡彳'
+    '心戈戶手支攴文斗斤方无日曰月木欠止歹殳毋比毛氏气水火爪父爻爿片牙牛犬'
+    '玄玉瓜瓦甘生用田疋疒癶白皮皿目矛矢石示禸禾穴立'
+    '竹米糸缶网羊羽老而耒耳聿肉臣自至臼舌舛舟艮色艸虍虫血行衣襾'
+    '見角言谷豆豕豸貝赤走足身車辛辰辵邑酉釆里'
+    '金長門阜隶隹雨靑非'
+    '面革韋韭音頁風飛食首香'
+    '馬骨高髟鬥鬯鬲鬼'
+    '魚鳥鹵鹿麥麻'
+    '黃黍黑黹'
+    '黽鼎鼓鼠'
+    '鼻齊'
+    '齒'
+    '龍龜'
+    '龠'
+)
+KANGXI_RADICALS = ''.join(chr(code_point) for code_point in range(0x2F00, 0x2FD6))
 
 
 class LintException(Exception):
@@ -739,6 +759,7 @@ class CharacterEntry:
     williams_list: list[str]
     jyutping: str
     content_from_key: dict[str, str]
+    radical_strokes_list: list['RadicalStrokes']
 
     def __init__(self, addition: str, character_run: str, tone_number: str, williams_run: str, jyutping: str,
                  non_canonical: str, content: str, page_heading_jyutping: str):
@@ -799,7 +820,8 @@ class CharacterEntry:
 
         CharacterEntry.lint_keys(content_from_key, heading_readable)
 
-        # TODO: extract `content_from_key[...]` for mandatory keys
+        radical_strokes_list = CharacterEntry.extract_radical_strokes_list(content_from_key['R'])
+        # TODO: extract `content_from_key[...]` for other mandatory keys
 
         self.is_canonical = is_canonical
         self.is_added = is_added
@@ -809,6 +831,7 @@ class CharacterEntry:
         self.williams_list = williams_list
         self.jyutping = jyutping
         self.content_from_key = content_from_key
+        self.radical_strokes_list = radical_strokes_list
 
     @staticmethod
     def lint_keys(content_from_key: dict[str, str], heading_readable: str):
@@ -826,6 +849,49 @@ class CharacterEntry:
                 f'character entry keys `{keys}` do not match pattern `{pattern_readable}` '
                 f'in character entry `{heading_readable}`'
             )
+
+    @staticmethod
+    def extract_radical_strokes_list(content: str) -> list['RadicalStrokes']:
+        return [
+            RadicalStrokes(radical_strokes_run)
+            for match in re.finditer(
+                pattern=r'^ [ ]+ (?P<radical_strokes_run> .*? ) $',
+                flags=re.MULTILINE | re.VERBOSE,
+                string=content,
+            )
+            if (
+                radical_strokes_run := match.group('radical_strokes_run'),
+            )
+        ]
+
+
+class RadicalStrokes:
+    radical: str
+    stroke_count: int
+
+    def __init__(self, radical_strokes_run: str):
+        if not (match := re.fullmatch(
+            pattern=r'(?P<radical> \S ) [ ][+][ ] (?P<stroke_count> [0-9]+ )',
+            string=radical_strokes_run,
+            flags=re.VERBOSE,
+        )):
+            raise LintException(f'invalid radical strokes run `{radical_strokes_run}`')
+
+        radical = match.group('radical')
+        stroke_count = int(match.group('stroke_count'))
+
+        if radical not in KANGXI_RADICALS:
+            if radical in CJK_UNIFIED_IDEOGRAPH_RADICALS:
+                translation_table = str.maketrans(CJK_UNIFIED_IDEOGRAPH_RADICALS, KANGXI_RADICALS)
+                expected_radical = radical.translate(translation_table)
+                suggestion = f' (did you mean U+{ord(expected_radical):X} `{expected_radical}`?)'
+            else:
+                suggestion = ''
+
+            raise LintException(f'invalid radical `{radical}`{suggestion}')
+
+        self.radical = radical
+        self.stroke_count = stroke_count
 
 
 class Executor:
