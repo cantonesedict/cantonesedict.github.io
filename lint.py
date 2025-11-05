@@ -482,6 +482,7 @@ class PageEntry:
     wh_williams_list: Optional[str]
     wp_williams_list: Optional[str]
     mp_jyutping_list: Optional[str]
+    see_also_links: Optional[str]
 
     def __init__(self, page_content: str, page_heading_jyutping: str):
         if match := re.search(
@@ -497,6 +498,7 @@ class PageEntry:
             wh_williams_list = PageEntry.extract_williams_heading_list(content_from_key['WH'])
             wp_williams_list = PageEntry.extract_williams_heading_list(content_from_key['WP'])
             mp_jyutping_list = PageEntry.extract_jyutping_heading_list(content_from_key['MP'])
+            see_also_links = PageEntry.extract_see_also_links(content_from_key.get('S'))
 
             PageEntry.lint_williams_heading_lists(wh_williams_list, wp_williams_list)
             PageEntry.lint_page_heading_against_mp(page_heading_jyutping, mp_jyutping_list)
@@ -505,11 +507,13 @@ class PageEntry:
             wh_williams_list = None
             wp_williams_list = None
             mp_jyutping_list = None
+            see_also_links = None
 
         self.content_from_key = content_from_key
         self.wh_williams_list = wh_williams_list
         self.wp_williams_list = wp_williams_list
         self.mp_jyutping_list = mp_jyutping_list
+        self.see_also_links = see_also_links
 
     @staticmethod
     def lint_keys(content_from_key: dict[str, str]):
@@ -567,6 +571,23 @@ class PageEntry:
             )
             if (
                 jyutping := match.group('jyutping'),
+            )
+        ]
+
+    @staticmethod
+    def extract_see_also_links(content: Optional[str]) -> Optional[list[str]]:
+        if not content:
+            return None
+
+        return [
+            link
+            for match in re.finditer(
+                pattern=r'^ [ ]+ - [ ] (?P<link> \S+ )',
+                flags=re.MULTILINE | re.VERBOSE,
+                string=content,
+            )
+            if (
+                link := match.group('link'),
             )
         ]
 
@@ -665,6 +686,7 @@ class Executor:
 def main():
     executor = Executor()
     executor.correct_entry_pages()
+    # TODO: check consistency between `PageEntry.see_also_links`
 
 
 if __name__ == '__main__':
