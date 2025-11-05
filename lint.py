@@ -488,11 +488,26 @@ class PageEntry:
         ):
             content = match.group('content')
             content_from_key = CmdIdioms.parse_entry_items(content)
-            # TODO: lint keys
+
+            PageEntry.lint_keys(content_from_key)
         else:
             content_from_key = None
 
         self.content_from_key = content_from_key
+
+    @staticmethod
+    def lint_keys(content_from_key: dict[str, str]):
+        keys = ''.join(f'{key} ' for key in content_from_key)
+        pattern_readable = 'WH [WV] WP MP [C] [S] '
+        pattern = re.sub(
+            pattern=r'\[ (?P<optional_key> \S+ ) \] [ ]',
+            repl=r'(?:\g<optional_key> )?',
+            string=pattern_readable,
+            flags=re.VERBOSE,
+        )
+
+        if not re.fullmatch(pattern=pattern, string=keys):
+            raise LintException(f'page entry keys `{keys}` do not match pattern `{pattern_readable}`')
 
 
 class ToneNavigator:
