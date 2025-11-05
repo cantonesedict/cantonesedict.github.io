@@ -307,7 +307,7 @@ class EntryPage:
         if file_name.startswith('entries/') and not file_name.endswith('index.cmd'):
             try:
                 page_title = EntryPage.extract_page_title(content)
-                page_heading = PageHeading(file_name, content)
+                page_heading = PageHeading(content, file_name)
                 page_entry = PageEntry(content, page_heading.jyutping)
                 tone_navigator = ToneNavigator(content)
                 tone_headings = EntryPage.extract_tone_headings(content, page_heading.jyutping)
@@ -483,7 +483,7 @@ class PageHeading:
     williams_list: list[str]
     jyutping: str
 
-    def __init__(self, file_name: str, page_content: str):
+    def __init__(self, page_content: str, file_name: str):
         if not (match := re.search(
             pattern=r'^ \# \{\.williams\} \s+ (?P<williams_run> .*? ) \s* \[\[ (?P<jyutping> [a-z]+ ) \]\] $',
             string=page_content,
