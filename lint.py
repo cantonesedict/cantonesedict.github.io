@@ -322,6 +322,7 @@ class EntryPage:
     tone_navigator: Optional['ToneNavigator']
     tone_headings: Optional[list['ToneHeading']]
     character_navigators: Optional[list['CharacterNavigator']]
+    character_entries: Optional[list['CharacterEntry']]
 
     def __init__(self, file_name: str, content: str):
         if file_name.startswith('entries/') and not file_name.endswith('index.cmd'):
@@ -348,7 +349,7 @@ class EntryPage:
             tone_navigator = None
             tone_headings = None
             character_navigators = None
-            # TODO: character_entries = None
+            character_entries = None
 
         self.page_title = page_title
         self.file_name = file_name
@@ -358,6 +359,7 @@ class EntryPage:
         self.tone_navigator = tone_navigator
         self.tone_headings = tone_headings
         self.character_navigators = character_navigators
+        self.character_entries = character_entries
 
     def self_correct(self):
         replaced_content = content = self.content
