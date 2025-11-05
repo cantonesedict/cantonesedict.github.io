@@ -426,18 +426,22 @@ class EntryPage:
             for tone_heading in tone_headings
             for williams in tone_heading.williams_list
         )
+        tone_heading_williams_set_supplemented = {*page_heading_williams_set, *tone_heading_williams_set}
         tone_heading_williams_set_redundant = set(
             f'``{williams}``'
-            for williams in tone_heading_williams_set
+            for williams in tone_heading_williams_set_supplemented
             if not re.fullmatch(pattern='``.+``', string=williams)
         )
-        page_heading_williams_set_expected = tone_heading_williams_set.difference(tone_heading_williams_set_redundant)
+        page_heading_williams_set_expected = (
+            tone_heading_williams_set_supplemented  # need supplemented for WH implied headings
+            .difference(tone_heading_williams_set_redundant)
+        )
 
         if page_heading_williams_set != page_heading_williams_set_expected:
             raise LintException(
                 f'inconsistent page heading Williams set {page_heading_williams_set} '
-                f'vs tone heading Williams set {tone_heading_williams_set} ≡ {page_heading_williams_set_expected} '
-                f'(modulo redundant insertion)'
+                f'vs tone heading Williams set {tone_heading_williams_set} + {page_heading_williams_set} '
+                f'≡ {page_heading_williams_set_expected} (modulo redundant insertion)'
             )
 
     @staticmethod
