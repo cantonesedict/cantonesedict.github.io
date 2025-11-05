@@ -393,11 +393,18 @@ class EntryPage:
             for tone_heading in tone_headings
             for williams in tone_heading.williams_list
         )
+        tone_heading_williams_set_redundant = set(
+            f'``{williams}``'
+            for williams in tone_heading_williams_set
+            if not re.fullmatch(pattern='``.+``', string=williams)
+        )
+        page_heading_williams_set_expected = tone_heading_williams_set.difference(tone_heading_williams_set_redundant)
 
-        if page_heading_williams_set != tone_heading_williams_set:
+        if page_heading_williams_set != page_heading_williams_set_expected:
             raise LintException(
                 f'inconsistent page heading Williams set {page_heading_williams_set} '
-                f'vs tone heading Williams set {tone_heading_williams_set}'
+                f'vs tone heading Williams set {tone_heading_williams_set} ≡ {page_heading_williams_set_expected} '
+                f'(modulo redundant insertion)'
             )
 
     @staticmethod
@@ -440,7 +447,7 @@ class PageHeading:
             raise LintException(f'inconsistent page heading Jyutping `{jyutping}` vs file name `{file_name}`')
 
         williams_list = [
-            re.sub(pattern=r'[`.]', repl='', string=williams)
+            re.sub(pattern=r'[.]', repl='', string=williams)
             for williams in williams_run.split()
         ]
 
@@ -504,7 +511,7 @@ class ToneHeading:
             raise LintException(f'Jyutping `{jyutping}` is not `{chinese}` in tone heading `{content}`')
 
         williams_list = [
-            re.sub(pattern=r'[`.^]', repl='', string=williams)
+            re.sub(pattern=r'[.^]', repl='', string=williams)
             for williams in williams_run.split()
         ]
 
