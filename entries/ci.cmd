@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2025-11-03
+* %date-modified --> 2025-11-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2217,6 +2217,10 @@ R
   ⼿ + 6
 U
   U+6301
+F
+  ==
+  - (F1.38 持) 執持又扶持
+  ==
 W
   ====
   - [[Page~11* (4)持]]

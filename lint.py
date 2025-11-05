@@ -422,12 +422,17 @@ class EntryPage:
     @staticmethod
     def extract_character_entries(page_content: str, page_heading_jyutping: str) -> list['CharacterEntry']:
         return [
-            CharacterEntry(addition, character_run, tone_number, williams_run, jyutping, page_heading_jyutping)
+            CharacterEntry(addition, character_run, tone_number, williams_run, jyutping, non_canonical, content,
+                           page_heading_jyutping)
             for match in re.finditer(
                 pattern=r'''
                     ^ [#]{3} (?P<addition> [+]? ) [ ]
                     (?P<character_run> \S+ ) (?P<tone_number> [1-6] ) [ ][|][ ]
-                    (?P<williams_run> .*? ) [ ] \[\[ (?P<jyutping> [a-z]+[1-6] ) \]\] $
+                    (?P<williams_run> .*? ) [ ] \[\[ (?P<jyutping> [a-z]+[1-6] ) \]\]
+                    \n\n
+                    ^ [$]{2} (?P<non_canonical> [.]? ) \n
+                    (?P<content> (?s: .+? ) )
+                    ^ [$]{2} \n
                 ''',
                 string=page_content,
                 flags=re.MULTILINE | re.VERBOSE,
@@ -438,6 +443,8 @@ class EntryPage:
                 tone_number := match.group('tone_number'),
                 williams_run := match.group('williams_run'),
                 jyutping := match.group('jyutping'),
+                non_canonical := match.group('non_canonical'),
+                content := match.group('content'),
             )
         ]
 
@@ -724,17 +731,20 @@ class CharacterNavigator:
 
 
 class CharacterEntry:
+    is_canonical: bool
     is_added: bool
     character: str
     composition: Optional[str]
     tone_number: str
     williams_list: list[str]
     jyutping: str
+    content_from_key: dict[str, str]
 
     def __init__(self, addition: str, character_run: str, tone_number: str, williams_run: str, jyutping: str,
-                 page_heading_jyutping: str):
+                 non_canonical: str, content: str, page_heading_jyutping: str):
         heading_readable = f'###{addition} {character_run}{tone_number}'  # for LintException messages
 
+        is_canonical = not non_canonical
         is_added = bool(addition)
 
         reduced_character_run = re.sub(
@@ -785,12 +795,37 @@ class CharacterEntry:
 
         williams_list = reduced_williams_run.replace('_', '').split()
 
+        content_from_key = CmdIdioms.parse_entry_items(content)
+
+        CharacterEntry.lint_keys(content_from_key, heading_readable)
+
+        # TODO: extract `content_from_key[...]` for mandatory keys
+
+        self.is_canonical = is_canonical
         self.is_added = is_added
         self.character = character
         self.composition = composition
         self.tone_number = tone_number
         self.williams_list = williams_list
         self.jyutping = jyutping
+        self.content_from_key = content_from_key
+
+    @staticmethod
+    def lint_keys(content_from_key: dict[str, str], heading_readable: str):
+        keys = ''.join(f'{key} ' for key in content_from_key)
+        pattern_readable = 'R U [H] [A] [V] F W [C] [P] [E] [S] '
+        pattern = re.sub(
+            pattern=r'\[ (?P<optional_key> \S+ ) \] [ ]',
+            repl=r'(?:\g<optional_key> )?',
+            string=pattern_readable,
+            flags=re.VERBOSE,
+        )
+
+        if not re.fullmatch(pattern=pattern, string=keys):
+            raise LintException(
+                f'character entry keys `{keys}` do not match pattern `{pattern_readable}` '
+                f'in character entry `{heading_readable}`'
+            )
 
 
 class Executor:

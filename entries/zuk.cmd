@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zuk
-* %date-modified --> 2025-11-03
+* %date-modified --> 2025-11-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -942,6 +942,10 @@ U
 H
   May appear as either ⿰糹賣 (assumed here) or ⿰糹𧶠,
   depending on the font.
+F
+  ==
+  - (F1.66 續) 繼續連續
+  ==
 W
   ====
   - [[Page~599 續(9)]]

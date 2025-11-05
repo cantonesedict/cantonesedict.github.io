@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fat
-* %date-modified --> 2025-11-03
+* %date-modified --> 2025-11-05
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -717,6 +717,10 @@ A
   ==
   - $紼1 (for "knee-cover" sense)
   ==
+F
+  ==
+  - (F1.86 芾) ::芾[冕]諸侯[服]也::
+  ==
 W
   ====
   - [[Page~44 芾(3)]]
@@ -736,6 +740,10 @@ W
     [[Alternative form of 韍. See $韍fat1.]]
     --
   ====
+C
+  ==
+  - Fan Wan entry: Removed extra dot atop 冕, and corrected missing and incomplete strokes in 服.
+  ==
 S
   ==
   - $芾fai3

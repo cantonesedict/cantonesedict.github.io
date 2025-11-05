@@ -951,7 +951,7 @@ W
     [[Alternative form of 賺. **See $賺zaan6 for the canonical entry.**]]
     --
   ====
-<##
+  <##
     --
     Read _(5)w(a/)n_ [^[waan5]];
     --
@@ -962,7 +962,7 @@ W
     possibly based on the gloss 音綰
     (which is intended in the departing tone, not the rising tone).
     The expected reading is _w(a/)n(3)_ (waan3) from Middle Chinese 烏患切.
-##>
+  ##>
 S
   ==
   - $贃waan3 (TODO)
