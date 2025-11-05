@@ -54,7 +54,7 @@ class Updater:
         with open(entry_cmd_name, 'r', encoding='utf-8') as old_cmd_file:
             old_cmd_content = old_cmd_file.read()
 
-        Updater._check_title(entry_cmd_name, old_cmd_content)
+        # Updater._check_title(entry_cmd_name, old_cmd_content)
         Updater._check_williams_locator_heuristic(entry_cmd_name, old_cmd_content)
         Updater._check_ellipsis_item_punctuation(entry_cmd_name, old_cmd_content)
         # Updater._check_cjk_normalisation(entry_cmd_name, old_cmd_content)

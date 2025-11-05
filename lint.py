@@ -307,7 +307,7 @@ class EntryPage:
         if file_name.startswith('entries/') and not file_name.endswith('index.cmd'):
             try:
                 page_title = EntryPage.extract_page_title(content)
-                page_heading = PageHeading(content, file_name)
+                page_heading = PageHeading(content, file_name, page_title)
                 page_entry = PageEntry(content, page_heading.jyutping)
                 tone_navigator = ToneNavigator(content)
                 tone_headings = EntryPage.extract_tone_headings(content, page_heading.jyutping)
@@ -483,7 +483,7 @@ class PageHeading:
     williams_list: list[str]
     jyutping: str
 
-    def __init__(self, page_content: str, file_name: str):
+    def __init__(self, page_content: str, file_name: str, page_title: str):
         if not (match := re.search(
             pattern=r'^ \# \{\.williams\} \s+ (?P<williams_run> .*? ) \s* \[\[ (?P<jyutping> [a-z]+ ) \]\] $',
             string=page_content,
@@ -497,6 +497,9 @@ class PageHeading:
 
         if file_name != f'entries/{jyutping}.cmd':
             raise LintException(f'inconsistent page heading Jyutping `{jyutping}` vs file name `{file_name}`')
+
+        if page_title != jyutping:
+            raise LintException(f'inconsistent page heading Jyutping `{jyutping}` vs page title `{page_title}`')
 
         williams_list = [
             re.sub(pattern=r'[.]', repl='', string=williams)
