@@ -387,17 +387,17 @@ class EntryPage:
         if not tone_headings:
             return
 
-        page_williams_set = set(page_heading.williams_list)
-        tone_williams_set = set(
+        page_heading_williams_set = set(page_heading.williams_list)
+        tone_heading_williams_set = set(
             re.sub(pattern=r'\([1-9]\)', repl='', string=williams)
             for tone_heading in tone_headings
             for williams in tone_heading.williams_list
         )
 
-        if page_williams_set != tone_williams_set:
+        if page_heading_williams_set != tone_heading_williams_set:
             raise LintException(
-                f'inconsistent page heading Williams set {page_williams_set} '
-                f'vs tone heading Williams set {tone_williams_set}'
+                f'inconsistent page heading Williams set {page_heading_williams_set} '
+                f'vs tone heading Williams set {tone_heading_williams_set}'
             )
 
     @staticmethod
