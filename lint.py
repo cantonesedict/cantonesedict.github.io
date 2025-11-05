@@ -481,6 +481,7 @@ class PageEntry:
     content_from_key: Optional[dict[str, str]]
     wh_williams_list: Optional[str]
     wp_williams_list: Optional[str]
+    mp_jyutping_list: Optional[str]
 
     def __init__(self, page_content: str, page_heading_jyutping: str):
         if match := re.search(
@@ -495,16 +496,20 @@ class PageEntry:
 
             wh_williams_list = PageEntry.extract_williams_heading_list(content_from_key['WH'])
             wp_williams_list = PageEntry.extract_williams_heading_list(content_from_key['WP'])
+            mp_jyutping_list = PageEntry.extract_jyutping_heading_list(content_from_key['MP'])
 
             PageEntry.lint_williams_heading_lists(wh_williams_list, wp_williams_list)
+            PageEntry.lint_page_heading_against_mp(page_heading_jyutping, mp_jyutping_list)
         else:
             content_from_key = None
             wh_williams_list = None
             wp_williams_list = None
+            mp_jyutping_list = None
 
         self.content_from_key = content_from_key
         self.wh_williams_list = wh_williams_list
         self.wp_williams_list = wp_williams_list
+        self.mp_jyutping_list = mp_jyutping_list
 
     @staticmethod
     def lint_keys(content_from_key: dict[str, str]):
@@ -528,6 +533,16 @@ class PageEntry:
             )
 
     @staticmethod
+    def lint_page_heading_against_mp(page_heading_jyutping: str, mp_jyutping_list: list[str]):
+        if not mp_jyutping_list:
+            raise LintException('MP contains no Jyutping items')
+
+        if (mp_jyutping_first := mp_jyutping_list[0]) != page_heading_jyutping:
+            raise LintException(
+                f'first MP jyutping item `{mp_jyutping_first}` is not page heading Jyutping `{page_heading_jyutping}`'
+            )
+
+    @staticmethod
     def extract_williams_heading_list(content: str) -> list[str]:
         return [
             williams_run.replace('.', '')
@@ -538,6 +553,20 @@ class PageEntry:
             )
             if (
                 williams_run := match.group('williams_run'),
+            )
+        ]
+
+    @staticmethod
+    def extract_jyutping_heading_list(content: str) -> list[str]:
+        return [
+            jyutping
+            for match in re.finditer(
+                pattern=r'^ [ ]+ - [ ] (?P<jyutping> \S+ )',
+                flags=re.MULTILINE | re.VERBOSE,
+                string=content,
+            )
+            if (
+                jyutping := match.group('jyutping'),
             )
         ]
 
