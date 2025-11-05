@@ -733,7 +733,9 @@ class CharacterEntry:
 
     def __init__(self, addition: str, character_run: str, tone_number: str, williams_run: str, jyutping: str,
                  page_heading_jyutping: str):
-        heading_readable = f'###{addition} {character_run}{tone_number}'
+        heading_readable = f'###{addition} {character_run}{tone_number}'  # for LintException messages
+
+        is_added = bool(addition)
 
         reduced_character_run = re.sub(
             pattern=r'^ (?: ~~ .+? ~~ )? `` (?P<reduced_character_run> \S+ ) `` $',
@@ -781,12 +783,14 @@ class CharacterEntry:
         if williams_tone_number != jyutping_proper_tone_number:
             raise LintException(f'inconsistent Williams tone `{williams_tone}` vs Jyutping `{jyutping}`')
 
-        is_added = bool(addition)
+        williams_list = reduced_williams_run.replace('_', '').split()
 
         self.is_added = is_added
         self.character = character
         self.composition = composition
         self.tone_number = tone_number
+        self.williams_list = williams_list
+        self.jyutping = jyutping
 
 
 class Executor:
