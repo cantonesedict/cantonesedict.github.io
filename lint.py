@@ -567,7 +567,7 @@ class PageEntry:
     wh_williams_list: Optional[str]
     wp_williams_list: Optional[str]
     mp_jyutping_list: Optional[str]
-    see_also_links: Optional[str]
+    see_also_links: Optional[list[str]]
 
     def __init__(self, page_content: str, page_heading_jyutping: str):
         if match := re.search(
@@ -763,6 +763,10 @@ class CharacterEntry:
     content_from_key: dict[str, str]
     radical_strokes_list: list['RadicalStrokes']
     unicode_code_point: str
+    h_content: Optional[str]
+    f_content: str
+    w_content: str
+    see_also_links: Optional[list[str]]
 
     def __init__(self, addition: str, character_run: str, tone_number: str, williams_run: str, jyutping: str,
                  non_canonical: str, content: str, page_heading_jyutping: str):
@@ -825,9 +829,14 @@ class CharacterEntry:
 
         radical_strokes_list = CharacterEntry.extract_radical_strokes_list(content_from_key['R'])
         unicode_code_point = CharacterEntry.extract_unicode_code_point(content_from_key['U'])
-        # TODO: extract `content_from_key[...]` for other mandatory keys
+        h_content = content_from_key.get('H')
+        f_content = content_from_key['F']
+        w_content = content_from_key['W']
+        # TODO: cantonese_entries = CharacterEntry.extract_cantonese_entries(content_from_key['E'])
+        see_also_links = CharacterEntry.extract_see_also_links(content_from_key.get('S'))
 
         CharacterEntry.lint_character_against_unicode_code_point(character, unicode_code_point)
+        # TODO: CharacterEntry.lint_w_content(w_content)
 
         self.is_canonical = is_canonical
         self.is_added = is_added
@@ -839,6 +848,10 @@ class CharacterEntry:
         self.content_from_key = content_from_key
         self.radical_strokes_list = radical_strokes_list
         self.unicode_code_point = unicode_code_point
+        self.h_content = h_content
+        self.f_content = f_content
+        self.w_content = w_content
+        self.see_also_links = see_also_links
 
     @staticmethod
     def lint_keys(content_from_key: dict[str, str], heading_readable: str):
@@ -885,6 +898,23 @@ class CharacterEntry:
             raise LintException(f'invalid Unicode code point `{content}`')
 
         return match.group()
+
+    @staticmethod
+    def extract_see_also_links(content: Optional[str]) -> Optional[list[str]]:
+        if not content:
+            return None
+
+        return [
+            link
+            for match in re.finditer(
+                pattern=r'^ [ ]+ - [ ] (?P<link> \S+ )',
+                flags=re.MULTILINE | re.VERBOSE,
+                string=content,
+            )
+            if (
+                link := match.group('link'),
+            )
+        ]
 
 class RadicalStrokes:
     radical: str
@@ -935,6 +965,8 @@ def main():
     executor = Executor()
     executor.correct_entry_pages()
     # TODO: check consistency between `PageEntry.see_also_links`
+    # TODO: check consistency between `CharacterEntry.see_also_links`
+    # TODO: general indexing
 
 
 if __name__ == '__main__':
