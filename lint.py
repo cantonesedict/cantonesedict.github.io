@@ -312,7 +312,7 @@ class EntryPage:
                 tone_navigator = ToneNavigator(content)
                 tone_headings = EntryPage.extract_tone_headings(content, page_heading.jyutping)
                 character_navigators = EntryPage.extract_character_navigators(content)
-                # TODO: character_entries `###` etc.
+                character_entries = EntryPage.extract_character_entries(content, page_heading.jyutping)
 
                 EntryPage.lint_page_heading_against_page_entry(page_heading, page_entry)
                 EntryPage.lint_page_heading_against_tone_headings(page_heading, tone_headings)
@@ -416,6 +416,28 @@ class EntryPage:
             if (
                 content := match.group(),
                 tone_number := match.group('tone_number'),
+            )
+        ]
+
+    @staticmethod
+    def extract_character_entries(page_content: str, page_heading_jyutping: str) -> list['CharacterEntry']:
+        return [
+            CharacterEntry(addition, character_run, tone_number, williams_run, jyutping, page_heading_jyutping)
+            for match in re.finditer(
+                pattern=r'''
+                    ^ [#]{3} (?P<addition> [+]? ) [ ]
+                    (?P<character_run> \S+ ) (?P<tone_number> [1-6] ) [ ][|][ ]
+                    (?P<williams_run> .*? ) [ ] \[\[ (?P<jyutping> [a-z]+[1-6] ) \]\] $
+                ''',
+                string=page_content,
+                flags=re.MULTILINE | re.VERBOSE,
+            )
+            if (
+                addition := match.group('addition'),
+                character_run := match.group('character_run'),
+                tone_number := match.group('tone_number'),
+                williams_run := match.group('williams_run'),
+                jyutping := match.group('jyutping'),
             )
         ]
 
@@ -699,6 +721,49 @@ class CharacterNavigator:
     def __init__(self, content: str, tone_number: str):
         self.content = content
         self.tone_number = tone_number
+
+
+class CharacterEntry:
+    is_added: bool
+    character: str
+    composition: Optional[str]
+    tone_number: str
+    williams_list: list[str]
+    jyutping: str
+
+    def __init__(self, addition: str, character_run: str, tone_number: str, williams_run: str, jyutping: str,
+                 page_heading_jyutping: str):
+        heading_readable = f'###{addition} {character_run}{tone_number}'
+
+        if f'{page_heading_jyutping}{tone_number}' != jyutping:
+            raise LintException(
+                f'inconsistent page heading Jyutping `{page_heading_jyutping}` and tone number `{tone_number}` '
+                f'vs Jyutping `{jyutping}` in character entry `{heading_readable}`'
+            )
+
+        reduced_williams_run = re.sub(pattern='~~.+?~~', repl='', string=williams_run)
+        williams_tones = set(re.findall(pattern=r'\([1-9]\)', string=reduced_williams_run))
+
+        if len(williams_tones) != 1:
+            raise LintException(
+                f'non-sole Williams tones `{williams_tones}` found in character entry `{heading_readable}`'
+            )
+
+        williams_tone = williams_tones.pop()
+        williams_tone_number = re.sub(pattern='[()]', repl='', string=williams_tone)
+
+        jyutping_is_entering = jyutping[-2] in 'ptk'
+        jyutping_proper_tone_number = (
+            tone_number.translate(str.maketrans('136', '789')) if jyutping_is_entering
+            else tone_number
+        )
+
+        if williams_tone_number != jyutping_proper_tone_number:
+            raise LintException(f'inconsistent Williams tone `{williams_tone}` vs Jyutping `{jyutping}`')
+
+        is_added = bool(addition)
+
+        self.is_added = is_added
 
 
 class Executor:
