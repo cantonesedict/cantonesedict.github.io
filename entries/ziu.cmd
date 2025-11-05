@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2025-11-03
+* %date-modified --> 2025-11-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -36,8 +36,8 @@ WP
   ==
 MP
   ==
-  - zeu = [tsɛːu] ((preferred)), [tɕɛːu]
   - ziu = [tsiːu] ((preferred)), [tɕiːu]
+  - zeu = [tsɛːu] ((preferred)), [tɕɛːu]
   ==
 $$
 

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeng
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-05
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -38,13 +38,13 @@ MP
   ==
   - zeng = [tsɛːŋ] ((preferred)), [tɕɛːŋ]
   ==
-S
-  ==
-  - $zing
-  ==
 C
   ==
   - Williams' heading for Tseng (zeng) redirects to [Tsing (zing)](zing).
+  ==
+S
+  ==
+  - $zing
   ==
 $$
 
