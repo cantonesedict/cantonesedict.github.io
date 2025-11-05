@@ -480,6 +480,7 @@ class PageHeading:
 class PageEntry:
     content_from_key: Optional[dict[str, str]]
     wh_williams_list: Optional[str]
+    wp_williams_list: Optional[str]
 
     def __init__(self, page_content: str, page_heading_jyutping: str):
         if match := re.search(
@@ -493,12 +494,17 @@ class PageEntry:
             PageEntry.lint_keys(content_from_key)
 
             wh_williams_list = PageEntry.extract_williams_heading_list(content_from_key['WH'])
+            wp_williams_list = PageEntry.extract_williams_heading_list(content_from_key['WP'])
+
+            PageEntry.lint_williams_heading_lists(wh_williams_list, wp_williams_list)
         else:
             content_from_key = None
             wh_williams_list = None
+            wp_williams_list = None
 
         self.content_from_key = content_from_key
         self.wh_williams_list = wh_williams_list
+        self.wp_williams_list = wp_williams_list
 
     @staticmethod
     def lint_keys(content_from_key: dict[str, str]):
@@ -513,6 +519,13 @@ class PageEntry:
 
         if not re.fullmatch(pattern=pattern, string=keys):
             raise LintException(f'page entry keys `{keys}` do not match pattern `{pattern_readable}`')
+
+    @staticmethod
+    def lint_williams_heading_lists(wh_williams_list: list[str], wp_williams_list: list[str]):
+        if wh_williams_list != wp_williams_list:
+            raise LintException(
+                f'inconsistent WH Williams list `{wh_williams_list}` vs WP Williams list `{wp_williams_list}`'
+            )
 
     @staticmethod
     def extract_williams_heading_list(content: str) -> list[str]:
