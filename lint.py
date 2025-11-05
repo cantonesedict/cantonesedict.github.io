@@ -22,6 +22,23 @@ class LintException(Exception):
         self.message = message
 
 
+class CmdIdioms:
+    @staticmethod
+    def parse_entry_items(content: str) -> dict[str, str]:
+        return {
+            key: content
+            for match in re.finditer(
+                pattern=r'^ (?P<key>\S+) \n (?P<content> (?: [ ].*\n )* )',
+                string=content,
+                flags=re.MULTILINE | re.VERBOSE,
+            )
+            if (
+                key := match.group('key'),
+                content := match.group('content'),
+            )
+        }
+
+
 class CmdSource:
     file_name: str
     content: str
@@ -280,6 +297,7 @@ class EntryPage:
     file_name: str
     content: str
     page_heading: Optional['PageHeading']
+    page_entry: Optional['PageEntry']
     tone_navigator: Optional['ToneNavigator']
     tone_headings: Optional[list['ToneHeading']]
     character_navigators: Optional[list['CharacterNavigator']]
@@ -288,6 +306,7 @@ class EntryPage:
         if file_name.startswith('entries/') and not file_name.endswith('index.cmd'):
             try:
                 page_heading = PageHeading(file_name, content)
+                page_entry = PageEntry(content, page_heading.jyutping)
                 tone_navigator = ToneNavigator(content)
                 tone_headings = EntryPage.extract_tone_headings(content, page_heading.jyutping)
                 character_navigators = EntryPage.extract_character_navigators(content)
@@ -301,6 +320,7 @@ class EntryPage:
                 sys.exit(1)
         else:
             page_heading = None
+            page_entry = None
             tone_navigator = None
             tone_headings = None
             character_navigators = None
@@ -309,6 +329,7 @@ class EntryPage:
         self.file_name = file_name
         self.content = content
         self.page_heading = page_heading
+        self.page_entry = page_entry
         self.tone_navigator = tone_navigator
         self.tone_headings = tone_headings
         self.character_navigators = character_navigators
@@ -454,6 +475,24 @@ class PageHeading:
         self.content = content
         self.williams_list = williams_list
         self.jyutping = jyutping
+
+
+class PageEntry:
+    content_from_key: Optional[dict[str, str]]
+
+    def __init__(self, page_content: str, page_heading_jyutping: str):
+        if match := re.search(
+            pattern=r'<## /tones ##>\s+^\$\$\n(?P<content>.+?)^\$\$\n',
+            string=page_content,
+            flags=re.DOTALL | re.MULTILINE,
+        ):
+            content = match.group('content')
+            content_from_key = CmdIdioms.parse_entry_items(content)
+            # TODO: lint keys
+        else:
+            content_from_key = None
+
+        self.content_from_key = content_from_key
 
 
 class ToneNavigator:
