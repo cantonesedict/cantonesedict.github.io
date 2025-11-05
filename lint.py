@@ -296,6 +296,7 @@ class CmdSource:
 class EntryPage:
     file_name: str
     content: str
+    page_title: Optional[str]
     page_heading: Optional['PageHeading']
     page_entry: Optional['PageEntry']
     tone_navigator: Optional['ToneNavigator']
@@ -305,6 +306,7 @@ class EntryPage:
     def __init__(self, file_name: str, content: str):
         if file_name.startswith('entries/') and not file_name.endswith('index.cmd'):
             try:
+                page_title = EntryPage.extract_page_title(content)
                 page_heading = PageHeading(file_name, content)
                 page_entry = PageEntry(content, page_heading.jyutping)
                 tone_navigator = ToneNavigator(content)
@@ -320,6 +322,7 @@ class EntryPage:
                 print(f'lint error in `{file_name}`: {lint_exception.message}', file=sys.stderr)
                 sys.exit(1)
         else:
+            page_title = None
             page_heading = None
             page_entry = None
             tone_navigator = None
@@ -327,6 +330,7 @@ class EntryPage:
             character_navigators = None
             # TODO: character_entries = None
 
+        self.page_title = page_title
         self.file_name = file_name
         self.content = content
         self.page_heading = page_heading
@@ -366,6 +370,17 @@ class EntryPage:
             '<## /tones ##>',
         ])
         return content.replace(tone_navigator_content, tone_navigator_content_expected)
+
+    @staticmethod
+    def extract_page_title(page_content: str) -> str:
+        if not (match := re.search(
+            pattern=r'^\* %title --> (?P<title>[a-z]+)$',
+            string=page_content,
+            flags=re.MULTILINE,
+        )):
+            raise LintException('page title not found')
+
+        return match.group('title')
 
     @staticmethod
     def extract_tone_headings(page_content: str, page_heading_jyutping: str) -> list['ToneHeading']:
