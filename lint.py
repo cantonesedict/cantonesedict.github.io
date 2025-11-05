@@ -762,6 +762,7 @@ class CharacterEntry:
     jyutping: str
     content_from_key: dict[str, str]
     radical_strokes_list: list['RadicalStrokes']
+    unicode_code_point: str
 
     def __init__(self, addition: str, character_run: str, tone_number: str, williams_run: str, jyutping: str,
                  non_canonical: str, content: str, page_heading_jyutping: str):
@@ -823,7 +824,10 @@ class CharacterEntry:
         CharacterEntry.lint_keys(content_from_key, heading_readable)
 
         radical_strokes_list = CharacterEntry.extract_radical_strokes_list(content_from_key['R'])
+        unicode_code_point = CharacterEntry.extract_unicode_code_point(content_from_key['U'])
         # TODO: extract `content_from_key[...]` for other mandatory keys
+
+        CharacterEntry.lint_character_against_unicode_code_point(character, unicode_code_point)
 
         self.is_canonical = is_canonical
         self.is_added = is_added
@@ -834,6 +838,7 @@ class CharacterEntry:
         self.jyutping = jyutping
         self.content_from_key = content_from_key
         self.radical_strokes_list = radical_strokes_list
+        self.unicode_code_point = unicode_code_point
 
     @staticmethod
     def lint_keys(content_from_key: dict[str, str], heading_readable: str):
@@ -853,6 +858,11 @@ class CharacterEntry:
             )
 
     @staticmethod
+    def lint_character_against_unicode_code_point(character: str, unicode_code_point: str):
+        if f'U+{ord(character):X}' != unicode_code_point:
+            raise LintException(f'character `{character}` is not `{unicode_code_point}`')
+
+    @staticmethod
     def extract_radical_strokes_list(content: str) -> list['RadicalStrokes']:
         return [
             RadicalStrokes(radical_strokes_run)
@@ -866,6 +876,15 @@ class CharacterEntry:
             )
         ]
 
+    @staticmethod
+    def extract_unicode_code_point(content: str) -> str:
+        if not (match := re.fullmatch(
+            pattern='U[+][0-9A-F]{4,5}',
+            string=content.strip(),
+        )):
+            raise LintException(f'invalid Unicode code point `{content}`')
+
+        return match.group()
 
 class RadicalStrokes:
     radical: str
