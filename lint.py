@@ -312,6 +312,7 @@ class EntryPage:
                 character_navigators = EntryPage.extract_character_navigators(content)
                 # TODO: character_entries `###` etc.
 
+                EntryPage.lint_page_heading_against_page_entry(page_heading, page_entry)
                 EntryPage.lint_page_heading_against_tone_headings(page_heading, tone_headings)
                 EntryPage.lint_tone_headings_against_character_navigators(tone_headings, character_navigators)
                 # TODO: EntryPage.lint_tone_headings_against_character_entries(tone_headings, character_entries)
@@ -402,6 +403,17 @@ class EntryPage:
                 tone_number := match.group('tone_number'),
             )
         ]
+
+    @staticmethod
+    def lint_page_heading_against_page_entry(page_heading: 'PageHeading', page_entry: 'PageEntry'):
+        if not page_entry.wh_williams_list:
+            return
+
+        if page_heading.williams_list != page_entry.wh_williams_list:
+            raise LintException(
+                f'inconsistent page heading Williams list {page_heading.williams_list} '
+                f'vs page entry Williams list {page_entry.wh_williams_list}'
+            )
 
     @staticmethod
     def lint_page_heading_against_tone_headings(page_heading: 'PageHeading', tone_headings: list['ToneHeading']):
