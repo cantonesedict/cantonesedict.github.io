@@ -735,6 +735,26 @@ class CharacterEntry:
                  page_heading_jyutping: str):
         heading_readable = f'###{addition} {character_run}{tone_number}'
 
+        reduced_character_run = re.sub(
+            pattern=r'^ (?: ~~ .+? ~~ )? `` (?P<reduced_character_run> \S+ ) `` $',
+            repl=r'\g<reduced_character_run>',
+            string=character_run,
+            flags=re.VERBOSE,
+        )
+
+        if composition_match := re.fullmatch(
+            pattern=r'\{ (?P<character> \S ) = (?P<composition> \S+ ) \}',
+            string=reduced_character_run,
+            flags=re.VERBOSE,
+        ):
+            character = composition_match.group('character')
+            composition = composition_match.group('composition')
+        elif len(reduced_character_run) == 1:
+            character = reduced_character_run
+            composition = None
+        else:
+            raise LintException(f'invalid character run `{character_run}` in character entry `{heading_readable}`')
+
         if f'{page_heading_jyutping}{tone_number}' != jyutping:
             raise LintException(
                 f'inconsistent page heading Jyutping `{page_heading_jyutping}` and tone number `{tone_number}` '
@@ -764,6 +784,9 @@ class CharacterEntry:
         is_added = bool(addition)
 
         self.is_added = is_added
+        self.character = character
+        self.composition = composition
+        self.tone_number = tone_number
 
 
 class Executor:
