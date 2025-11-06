@@ -63,7 +63,7 @@ class Updater:
         # Updater._check_williams_romanisation_heuristic(entry_cmd_name, old_cmd_content)
         # Updater._check_jyutping_romanisation_heuristic(entry_cmd_name, old_cmd_content)
         # Updater._check_composition_heuristic(entry_cmd_name, old_cmd_content)
-        Updater._check_insertion_context(entry_cmd_name, old_cmd_content)
+        # Updater._check_insertion_context(entry_cmd_name, old_cmd_content)
         # Updater._check_inadvertent_reference_definition(entry_cmd_name, old_cmd_content)
 
         tone_syllable_ct_list = Updater._gather_tone_syllable_ct_list(old_cmd_content)

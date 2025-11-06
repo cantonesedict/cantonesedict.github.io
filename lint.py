@@ -74,6 +74,7 @@ class CmdSource:
             CmdSource.lint_cjk_compatibility_ideograph(content)
             CmdSource.lint_cjk_non_bmp_composition(content)
             CmdSource.lint_cjk_variation_selector(content)
+            CmdSource.lint_insertion_context(content)
             CmdSource.lint_williams_entering_tone(content)
             CmdSource.lint_williams_left_tone_position(content)
             CmdSource.lint_williams_right_tone_position(content)
@@ -151,6 +152,35 @@ class CmdSource:
             context = context_match.group()
             character = context_match.group('character')
             raise LintException(f'variation selector present on `{character}` in `{context}`')
+
+    @staticmethod
+    def lint_insertion_context(content: str):
+        non_exempt_pattern = '|'.join([
+            r'^ \# \{\.williams\} \s+ .*? \[\[ [a-z]+ \]\] $',  # page headings
+            r'^ \#\# \{ \# [1-6] \s+ \.williams \} \s+ .*? \[\[ [a-z]+ [1-6] \s+ \S+ \]\] $',  # tone headings
+            r'^ [#]{3} [+]? [ ] \S+ [1-6] [ ][|][ ] .*? [ ] \[\[ [a-z]+[1-6] \]\] $',  # character entry headings
+            r'^ (?: WH | WV | W ) \n (?: [ ].*\n )*',  # Williams entry items
+            r'''
+                ^ (?P<block_delimiter> [-+='"|]{2,} ) \{ \.williams (?: \s .*? )? \} \n
+                (?s: .*? ) \n
+                (?P=block_delimiter) $
+            ''',
+            re.escape('[[Not present]]'),  # contextual non-insertions
+        ])
+        non_exempt_content = re.sub(
+            pattern=non_exempt_pattern,
+            repl='',
+            string=content,
+            flags=re.MULTILINE | re.VERBOSE,
+        )
+
+        if context_match := re.search(
+            pattern=r'.* \[\[ (?s: .+? ) \]\] | <ins.*> .* ',
+            string=non_exempt_content,
+            flags=re.VERBOSE,
+        ):
+            context = context_match.group()
+            raise LintException(f'non-contextual insertion in `{context}`')
 
     @staticmethod
     def lint_williams_entering_tone(content: str):
