@@ -501,7 +501,7 @@ class EntryPage:
         )
         tone_heading_williams_set_supplemented = {*page_heading_williams_set, *tone_heading_williams_set}
         tone_heading_williams_set_redundant = set(
-            f'``{williams}``'
+            f'``{williams}``'  # insertion is redundant if non-insertion is also present
             for williams in tone_heading_williams_set_supplemented
             if not re.fullmatch(pattern='``.+``', string=williams)
         )
