@@ -554,7 +554,7 @@ W
         Chinese ebony;
     - _(1)sh(a/)n (1)ch(i/)_
         [[saan1 zi1 山枝]],
-        wild _(1)s(u:)n-(1)ch(i/)_ [[酸枝]] wood, a hard timber.
+        wild _(1)s(u:)n-(1)ch(i/)_ [[酸枝]]^ wood, a hard timber.
     ==
   ====
 C

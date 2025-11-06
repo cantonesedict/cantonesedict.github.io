@@ -771,7 +771,7 @@ W
     - to cook ``over a fire`` [[Kangxi: 炊也]] ~~gently~~;
     - ~~to steam;~~
     - _(1)ch(')ui ~~(2)ts(')(u:)n~~ ``ts(')(u:)n(3)``_
-        [[ceoi1 cyun3 炊爨]]
+        [[ceoi1 cyun3 炊爨]]^
         to cook;
     - _tsz'(6) (2)k(i/) (1)hoi ~~(2)ts(')(u:)n~~ ``ts(')(u:)n(3)``_
         [[zi6 gei2 hoi1 cyun3 自己開爨]],

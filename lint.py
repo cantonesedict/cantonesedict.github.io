@@ -905,7 +905,7 @@ class CharacterEntry:
         if re.search(pattern=unpunctuated_ellipsis_item_pattern, string=content, flags=re.MULTILINE):
             raise LintException(
                 f'unpunctuated ellipsis item `{ellipsis_item}` '
-                f'(suppress with trailing caret if legitimate)'
+                f'(suppress with caret after closing square brackets if legitimate)'
             )
 
     @staticmethod
@@ -922,8 +922,27 @@ class CharacterEntry:
             unwanted_comma_context = unwanted_comma_match.group()
             unwanted_comma_context_reduced = re.sub(pattern=r'\s+', repl=' ', string=unwanted_comma_context)
             raise LintException(
-                f'comma after Williams right-tone or nasal apostrophe in `{unwanted_comma_context_reduced}` '
+                f'comma after supplied Jyutping for Williams right-tone or nasal apostrophe '
+                f'in `{unwanted_comma_context_reduced}` '
                 f'(suppress with caret before comma if legitimate)'
+            )
+
+        if missing_comma_match := re.search(
+            pattern=r'''
+                _ \S[^_\n]*? \([1245]\) \S+ [^'`] (?: ~~ \s* `` [^~\n]*? `` )? _  # Williams romanisation
+                \s+
+                \[\[ [^,\n]+? \]\]  # supplied Jyutping
+                (?! \s+ \[\[ .*? \]\] \S )  # supplied Kangxi with punctuation
+                \s  # missing comma
+            ''',
+            string=content,
+            flags=re.VERBOSE,
+        ):
+            missing_comma_context = missing_comma_match.group()
+            missing_comma_context_reduced = re.sub(pattern=r'\s+', repl=' ', string=missing_comma_context.strip())
+            raise LintException(
+                f'missing comma after supplied Jyutping for Williams left-tone in `{missing_comma_context_reduced}` '
+                f'(suppress with caret after closing square brackets if legitimate)'
             )
 
     @staticmethod

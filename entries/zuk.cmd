@@ -770,7 +770,7 @@ W
   - [[Page~35* 妯(9)]]
     ==
     - Two sisters-in-law call each other _chuk(9) (5)l(i/)_ [[zuk6 lei5 妯娌]] [[Kangxi: 兄弟之妻相呼曰妯娌]];
-    - ~~also called _chau(3) (5)l(i/)_ [[zau3 lei5]] in Canton.~~
+    - ~~also called _chau(3) (5)l(i/)_ [[zau3 lei5]]^ in Canton.~~
     ==
   ====
 C
