@@ -13,27 +13,7 @@ import re
 import sys
 
 
-CJK_UNIFIED_IDEOGRAPH_RADICALS = (
-    '一丨丶丿乙亅'
-    '二亠人儿入八冂冖冫几凵刀力勹匕匚匸十卜卩厂厶又'
-    '口囗土士夂夊夕大女子宀寸小尢尸屮山巛工己巾干幺广廴廾弋弓彐彡彳'
-    '心戈戶手支攴文斗斤方无日曰月木欠止歹殳毋比毛氏气水火爪父爻爿片牙牛犬'
-    '玄玉瓜瓦甘生用田疋疒癶白皮皿目矛矢石示禸禾穴立'
-    '竹米糸缶网羊羽老而耒耳聿肉臣自至臼舌舛舟艮色艸虍虫血行衣襾'
-    '見角言谷豆豕豸貝赤走足身車辛辰辵邑酉釆里'
-    '金長門阜隶隹雨靑非'
-    '面革韋韭音頁風飛食首香'
-    '馬骨高髟鬥鬯鬲鬼'
-    '魚鳥鹵鹿麥麻'
-    '黃黍黑黹'
-    '黽鼎鼓鼠'
-    '鼻齊'
-    '齒'
-    '龍龜'
-    '龠'
-)
 KANGXI_RADICALS = ''.join(chr(code_point) for code_point in range(0x2F00, 0x2FD6))
-RADICAL_NORMALISATION_TABLE = str.maketrans(CJK_UNIFIED_IDEOGRAPH_RADICALS, KANGXI_RADICALS)
 
 
 class Updater:
@@ -44,151 +24,6 @@ class Updater:
             for file_name in file_names
             if file_name.endswith('.cmd') and file_name not in ['index.cmd']
         ])
-
-    def update_all(self):
-        for entry_cmd_name in self.entry_cmd_names:
-            Updater._update(entry_cmd_name)
-
-    @staticmethod
-    def _update(entry_cmd_name):
-        with open(entry_cmd_name, 'r', encoding='utf-8') as old_cmd_file:
-            old_cmd_content = old_cmd_file.read()
-
-        # Updater._check_title(entry_cmd_name, old_cmd_content)
-        # Updater._check_williams_locator_heuristic(entry_cmd_name, old_cmd_content)
-        # Updater._check_ellipsis_item_punctuation(entry_cmd_name, old_cmd_content)
-        # Updater._check_cjk_normalisation(entry_cmd_name, old_cmd_content)
-        # Updater._check_typography_heuristic(entry_cmd_name, old_cmd_content)
-        # Updater._check_post_tone_commas_heuristic(entry_cmd_name, old_cmd_content)
-        # Updater._check_williams_romanisation_heuristic(entry_cmd_name, old_cmd_content)
-        # Updater._check_jyutping_romanisation_heuristic(entry_cmd_name, old_cmd_content)
-        # Updater._check_composition_heuristic(entry_cmd_name, old_cmd_content)
-        # Updater._check_insertion_context(entry_cmd_name, old_cmd_content)
-        # Updater._check_inadvertent_reference_definition(entry_cmd_name, old_cmd_content)
-
-        tone_syllable_ct_list = Updater._gather_tone_syllable_ct_list(old_cmd_content)
-        navigation_tones = Updater._gather_navigation_tones(old_cmd_content)
-        toned_characters_from_tone = Updater._gather_toned_characters_from_tone(old_cmd_content, tone_syllable_ct_list)
-
-        # Updater._check_syllables(entry_cmd_name, tone_syllable_ct_list)
-        # Updater._check_tones(entry_cmd_name, tone_syllable_ct_list, navigation_tones)
-        # Updater._check_canto_tones(entry_cmd_name, tone_syllable_ct_list)
-
-        williams_h1s = Updater._gather_williams_h1s(old_cmd_content)
-        williams_h2s_from_tone = Updater._gather_williams_h2s_from_tone(old_cmd_content, navigation_tones)
-        williams_h3s_from_tone = Updater._gather_williams_h3s_from_tone(old_cmd_content, navigation_tones)
-        is_done = '(Work in progress)' not in old_cmd_content
-
-        # Updater._check_williams_h2_h3_consistency(entry_cmd_name, williams_h2s_from_tone, williams_h3s_from_tone)
-        # Updater._check_williams_h1_h2_consistency(entry_cmd_name, williams_h1s, williams_h2s_from_tone, is_done)
-
-        new_cmd_content = old_cmd_content
-        # new_cmd_content = Updater._normalise_radicals(new_cmd_content)
-        # new_cmd_content = Updater._update_page_tones_navigation(new_cmd_content, tone_syllable_ct_list)
-        # new_cmd_content = Updater._update_page_character_navigations(new_cmd_content, toned_characters_from_tone)
-
-        if new_cmd_content == old_cmd_content:
-            return
-
-        with open(entry_cmd_name, 'w', encoding='utf-8') as new_cmd_file:
-            new_cmd_file.write(new_cmd_content)
-
-    @staticmethod
-    def _gather_tone_syllable_ct_list(cmd_content):
-        return re.findall(
-            pattern=r'''
-                ^ \#\# \{ \#(?P<tone> [1-6] ) .*
-                (?: \( | \[\[ )
-                (?P<syllable> [a-z]+ )(?P=tone) [ ] (?P<canto_tone> \S+ )
-                (?: \) | \]\] )
-                (?: \^ )? $
-            ''',
-            string=cmd_content,
-            flags=re.MULTILINE | re.VERBOSE,
-        )
-
-    @staticmethod
-    def _gather_navigation_tones(cmd_content):
-        return re.findall(
-            pattern=r'<## tone-(?P<tone>[1-6])-characters ##>',
-            string=cmd_content,
-        )
-
-    @staticmethod
-    def _gather_toned_characters_from_tone(cmd_content, tone_syllable_ct_list):
-        return {
-            tone: [
-                match.expand(fr'\g<character>{tone}')
-                for match in re.finditer(
-                    pattern=(
-                        fr'^ \#\#\# [+]? [ ] (?: ~~.*~~ )? (?: `` )? (?P<character> \S+? ) (?: `` )? {tone}'
-                        fr'[ ][|][ ]'
-                        fr'.*?'
-                        fr'(?: \( | \[\[ ) {syllable}{tone} (?: \) | \]\] )'
-                        fr'(?: \^ )? $'
-                    ),
-                    string=cmd_content,
-                    flags=re.MULTILINE | re.VERBOSE,
-                )
-            ]
-            for tone, syllable, _ in tone_syllable_ct_list
-        }
-
-    @staticmethod
-    def _gather_williams_h1s(cmd_content):
-        return Updater.extract_williams_hs(
-            re.search(
-                pattern=r'^ \# \{.*?\} [ ] (?P<h1s_raw> .*? ) [ ]? (?: \( | \[\[ ) [a-z]+ (?: \) | \]\] ) $',
-                string=cmd_content,
-                flags=re.MULTILINE | re.VERBOSE,
-            ).group('h1s_raw')
-        )
-
-    @staticmethod
-    def _gather_williams_h2s_from_tone(cmd_content, navigation_tones):
-        return {
-            tone: Updater.extract_williams_hs(
-                re.search(
-                    pattern=fr'''
-                        ^ \#\# \{{\#{tone} .*? \}}
-                        [ ] (?P<h2s_raw> .*? ) [ ]?
-                        (?: \( | \[\[ ) [a-z]+{tone} [ ] \S+ (?: \) | \]\] ) $
-                    ''',
-                    string=cmd_content,
-                    flags=re.MULTILINE | re.VERBOSE,
-                ).group('h2s_raw')
-            )
-            for tone in navigation_tones
-        }
-
-    @staticmethod
-    def _gather_williams_h3s_from_tone(cmd_content, navigation_tones):
-        return {
-            tone: [
-                williams_h3
-                for h3s_raw in re.findall(
-                    pattern=fr'''
-                        ^ \#\#\# .*? \|
-                         [ ] (?P<h3s_raw> .*? ) [ ]?
-                          (?: \( | \[\[ ) [a-z]+{tone} (?: \) | \]\] ) $
-                    ''',
-                    string=cmd_content,
-                    flags=re.MULTILINE | re.VERBOSE,
-                )
-                for williams_h3 in Updater.extract_williams_hs(h3s_raw)
-            ]
-            for tone in navigation_tones
-        }
-
-    @staticmethod
-    def extract_williams_hs(line):
-        clean_line = re.sub(
-            pattern=r'~~.*?~~ | `` | [._\[\]^] | \([1-9]\)',
-            repl='',
-            string=line,
-            flags=re.VERBOSE,
-        )
-        return clean_line.split()
 
 
 class Indexer:
@@ -536,30 +371,6 @@ class CantoneseEntry:
 class CharacterEntry:
     def __init__(self, character, code_point, radical, residual_stroke_count, radical_2, residual_stroke_count_2,
                  jyutping, composition, content):
-        if radical not in KANGXI_RADICALS:
-            print(f'Error: radical {radical} is not in the Kangxi Radicals Unicode block', file=sys.stderr)
-            sys.exit(1)
-
-        code_point_int = int(code_point[2:], 16)
-        if character != chr(code_point_int):
-            print(f'Error: character {character} is not {code_point}', file=sys.stderr)
-            sys.exit(1)
-
-        if code_point_int > 0x1FFFF:
-            if not composition:
-                print(f'Error: missing composition for rare character {character} {code_point}', file=sys.stderr)
-                sys.exit(1)
-        else:
-            if composition:
-                print(f'Error: unnecessary composition for character {character} {code_point}', file=sys.stderr)
-                sys.exit(1)
-
-        content_keys = ''.join(re.findall(pattern='^[A-Z]', string=content, flags=re.MULTILINE))
-        canonical_keys_iter = iter('RUHAVFWCPES')
-        if not all(content_key in canonical_keys_iter for content_key in content_keys):
-            print(f'Error: bad content keys {content_keys} for character {character} {code_point}', file=sys.stderr)
-            sys.exit(1)
-
         self.character = character
         self.code_point = code_point
         self.radical = radical
@@ -644,7 +455,6 @@ class Statistician:
 
 def main():
     updater = Updater()
-    updater.update_all()
 
     indexer = Indexer(updater.entry_cmd_names)
     indexer.update_terms()
