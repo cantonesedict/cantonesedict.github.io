@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zong
-* %date-modified --> 2025-11-03
+* %date-modified --> 2025-11-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -660,7 +660,7 @@ P
 $$
 
 
-##{#3 .williams} Chong(3) Tsong(3) [[zong3 陰去]]
+##{#3 .williams} Chong(3) ``Tsong(3)`` [[zong3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways">

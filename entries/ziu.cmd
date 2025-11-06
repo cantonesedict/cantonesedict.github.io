@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2025-11-05
+* %date-modified --> 2025-11-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -608,7 +608,7 @@ W
 $$
 
 
-##{#2 .williams} (2)Chi(u/) (2)Tsi(u/) [[ziu2 陰上]]
+##{#2 .williams} (2)Chi(u/) ``(2)Tsi(u/)`` [[ziu2 陰上]]
 
 <## tone-2-characters ##>
 <nav class="sideways">

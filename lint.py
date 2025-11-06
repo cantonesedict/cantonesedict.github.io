@@ -9,6 +9,7 @@ Lint all Conway-Markdown (CMD) source files, with some automatic correction and 
 import os
 import re
 import sys
+from collections import defaultdict
 from typing import Optional
 
 
@@ -353,6 +354,7 @@ class CmdSource:
 class EntryPage:
     file_name: str
     content: str
+    is_done: bool
     page_title: Optional[str]
     page_heading: Optional['PageHeading']
     page_entry: Optional['PageEntry']
@@ -362,6 +364,8 @@ class EntryPage:
     character_entries: Optional[list['CharacterEntry']]
 
     def __init__(self, file_name: str, content: str):
+        is_done = '(Work in progress)' not in content
+
         if file_name.startswith('entries/') and not file_name.endswith('index.cmd'):
             try:
                 page_title = EntryPage.extract_page_title(content)
@@ -375,7 +379,7 @@ class EntryPage:
                 EntryPage.lint_page_heading_against_page_entry(page_heading, page_entry)
                 EntryPage.lint_page_heading_against_tone_headings(page_heading, tone_headings)
                 EntryPage.lint_tone_headings_against_character_navigators(tone_headings, character_navigators)
-                # TODO: EntryPage.lint_tone_headings_against_character_entries(tone_headings, character_entries)
+                EntryPage.lint_tone_headings_against_character_entries(tone_headings, character_entries, is_done)
             except LintException as lint_exception:
                 print(f'lint error in `{file_name}`: {lint_exception.message}', file=sys.stderr)
                 sys.exit(1)
@@ -388,9 +392,10 @@ class EntryPage:
             character_navigators = None
             character_entries = None
 
-        self.page_title = page_title
         self.file_name = file_name
         self.content = content
+        self.is_done = is_done
+        self.page_title = page_title
         self.page_heading = page_heading
         self.page_entry = page_entry
         self.tone_navigator = tone_navigator
@@ -564,6 +569,41 @@ class EntryPage:
                 f'inconsistent tone heading tone numbers `{tone_heading_tone_numbers}` '
                 f'vs character navigator tone numbers `{character_navigator_tone_numbers}`'
             )
+
+    @staticmethod
+    def lint_tone_headings_against_character_entries(tone_headings: list['ToneHeading'],
+                                                     character_entries: list['CharacterEntry'], is_done: bool):
+        if not is_done:
+            return
+
+        character_entries_from_tone_number: defaultdict[str, list['CharacterEntry']] = defaultdict(list)
+
+        for character_entry in character_entries:
+            character_entries_from_tone_number[character_entry.tone_number].append(character_entry)
+
+        for tone_heading in tone_headings:
+            tone_heading_williams_set = set(tone_heading.williams_list)
+            character_entry_williams_set = set(
+                (f'``{williams}``' if relevant_character_entry.is_added else williams).replace('^', '')
+                for relevant_character_entry in character_entries_from_tone_number[tone_heading.tone_number]
+                for williams in relevant_character_entry.williams_list
+            )
+            character_entry_williams_set_redundant = set(
+                f'``{williams}``'  # insertion is redundant if non-insertion is also present
+                for williams in character_entry_williams_set
+                if not re.fullmatch(pattern='``.+``', string=williams)
+            )
+            tone_heading_williams_set_expected = (
+                character_entry_williams_set
+                .difference(character_entry_williams_set_redundant)
+            )
+
+            if tone_heading_williams_set != tone_heading_williams_set_expected:
+                raise LintException(
+                    f'inconsistent tone heading Williams set {tone_heading_williams_set} '
+                    f'vs character entry Williams set {character_entry_williams_set} '
+                    f'≡ {tone_heading_williams_set_expected} (modulo redundant insertion)'
+                )
 
 
 class PageHeading:
