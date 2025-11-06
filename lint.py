@@ -912,9 +912,11 @@ class CharacterEntry:
     def lint_williams_romanisation_punctuation(content: str):
         if unwanted_comma_match := re.search(
             pattern=r'''
-                _ \S[^_\n]*? (?: \([36789]\) | ' ) (?: ~~ \s* `` [^~\n]*? `` )? _
+                _ \S[^_\n]*? (?: \([36789]\) | ' ) (?: ~~ \s* `` [^~\n]*? `` )? _  # Williams romanisation
                 \s+
-                \[\[ [^\[\n]+? \]\] ,
+                \[\[ [^\[\n]+? \]\]  # supplied Jyutping
+                (?: \s+ \[\[ .*? \]\] )?  # supplied Kangxi with punctuation
+                ,  # unwanted comma
             ''',
             string=content,
             flags=re.VERBOSE,
