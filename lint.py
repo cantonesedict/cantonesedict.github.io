@@ -367,7 +367,7 @@ class EntryPage:
     tone_navigator: 'ToneNavigator'
     tone_headings: list['ToneHeading']
     character_navigators: list['CharacterNavigator']
-    character_entries: list['CharacterEntry']
+    character_entries_from_tone_number: dict[str, list['CharacterEntry']]
 
     def __init__(self, file_name: str, content: str):
         is_done = '(Work in progress)' not in content
@@ -380,11 +380,12 @@ class EntryPage:
             tone_headings = EntryPage.extract_tone_headings(content, page_heading.jyutping)
             character_navigators = EntryPage.extract_character_navigators(content)
             character_entries = EntryPage.extract_character_entries(content, page_heading.jyutping)
+            character_entries_from_tone_number = EntryPage.collate_character_entries(character_entries)
 
             EntryPage.lint_page_heading_against_page_entry(page_heading, page_entry)
             EntryPage.lint_page_heading_against_tone_headings(page_heading, tone_headings)
             EntryPage.lint_tone_headings_against_character_navigators(tone_headings, character_navigators)
-            EntryPage.lint_tone_headings_against_character_entries(tone_headings, character_entries, is_done)
+            EntryPage.lint_tone_headings_against_character_entries(tone_headings, character_entries_from_tone_number, is_done)
         except LintException as lint_exception:
             print(f'lint error in `{file_name}`: {lint_exception.message}', file=sys.stderr)
             sys.exit(1)
@@ -398,7 +399,7 @@ class EntryPage:
         self.tone_navigator = tone_navigator
         self.tone_headings = tone_headings
         self.character_navigators = character_navigators
-        self.character_entries = character_entries
+        self.character_entries_from_tone_number = character_entries_from_tone_number
 
     def self_correct(self):
         replaced_content = content = self.content
@@ -510,6 +511,15 @@ class EntryPage:
         ]
 
     @staticmethod
+    def collate_character_entries(character_entries: list['CharacterEntry']) -> dict[str, list]:
+        character_entries_from_tone_number: defaultdict[str, list['CharacterEntry']] = defaultdict(list)
+
+        for character_entry in character_entries:
+            character_entries_from_tone_number[character_entry.tone_number].append(character_entry)
+
+        return dict(character_entries_from_tone_number)
+
+    @staticmethod
     def lint_page_heading_against_page_entry(page_heading: 'PageHeading', page_entry: 'PageEntry'):
         if not page_entry.wh_williams_list:
             return
@@ -569,14 +579,10 @@ class EntryPage:
 
     @staticmethod
     def lint_tone_headings_against_character_entries(tone_headings: list['ToneHeading'],
-                                                     character_entries: list['CharacterEntry'], is_done: bool):
+                                                     character_entries_from_tone_number: dict[str, list['CharacterEntry']],
+                                                     is_done: bool):
         if not is_done:
             return
-
-        character_entries_from_tone_number: defaultdict[str, list['CharacterEntry']] = defaultdict(list)
-
-        for character_entry in character_entries:
-            character_entries_from_tone_number[character_entry.tone_number].append(character_entry)
 
         for tone_heading in tone_headings:
             tone_heading_williams_set = set(tone_heading.williams_list)
