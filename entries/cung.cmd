@@ -1744,7 +1744,7 @@ W
     - severe, heinous;
     - [[...]];
     - _(5)yau (2)k(i/) ~~chung(6)~~ ``(5)ch(')ung``_
-        [[jau5 gei2 cung5 有幾重]]^
+        [[jau5 gei2 cung5 有幾重]]
         how heavy is it?
     - [[...]];
     - _~~chung(6)~~ ``(5)ch(')ung`` (2)t(a/)_

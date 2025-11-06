@@ -667,7 +667,7 @@ W
         [[faan2 zyun3 反轉]],
         to turn over;
     - _(2)f(a/)n ~~tau(3)~~ ``(2)tau``_
-        [[faan2 dau2 反斗]]^
+        [[faan2 dau2 反斗]]
         clamor and play of children;
     - _(2)f(a/)n (2)hau_
         [[faan2 hau2 反口]]^

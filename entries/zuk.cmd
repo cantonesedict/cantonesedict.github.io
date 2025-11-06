@@ -959,7 +959,7 @@ W
         [[zip3 zuk6 接續]]
         to join on, as a short cord;
         to take up and carry on;
-    - _tsuk(9) ~~ts(')(u:)(3)~~ ``(2)ts(')(u:)``_ [[zuk6 ceoi2 續娶]]^
+    - _tsuk(9) ~~ts(')(u:)(3)~~ ``(2)ts(')(u:)``_ [[zuk6 ceoi2 續娶]]
         or
       _tsuk(9) (4)(i/)n_ [[zuk6 jyin4 續弦]],
         to join the guitar string---to ~~take a second wife~~ ``remarry after becoming a widower``;

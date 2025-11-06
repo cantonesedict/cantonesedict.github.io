@@ -72,7 +72,7 @@ W
     <## - Great, strange, monstrous, as an eruption, a meteor; ##>
     - [[...]];
     - _f(a/)i(3) ~~lui(6)~~ ``(5)lui``_
-        [[faai3 leoi5 傀儡]]^
+        [[faai3 leoi5 傀儡]]
         puppets [[Kangxi: 今爲木偶戲曰傀儡]],
         vulgarly called _(2)kwai (2)tsai h(i/)(3)_ [[gwai2 zai2 hei3 鬼仔戲]].
     ==

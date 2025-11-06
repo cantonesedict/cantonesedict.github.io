@@ -621,7 +621,7 @@ $$
 </nav>
 <## /tone-2-characters ##>
 
-### 剿2 | _~~(1)Tsi(u/)~~ ``(2)Tsi(u/)``_ [[ziu2]]^
+### 剿2 | _~~(1)Tsi(u/)~~ ``(2)Tsi(u/)``_ [[ziu2]]
 
 $$
 R
@@ -874,7 +874,7 @@ W
       in the sense of burning the moxa;~~
     - [[...]];
     - _kau(3) (1)s(a/)m tsi(u/)(3)_
-        [[gau3 saam1 ziu3 灸三燋]]^
+        [[gau3 saam1 ziu3 灸三燋]]
         to apply the moxa thrice;
     - [[...]].
     ==

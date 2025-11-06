@@ -504,7 +504,7 @@ W
     ==
     - A boat;
     - _ch(a/)k(8) ~~mang(6)~~ ``(5)m(a/)ng``_
-        [[zaak3 maang5 舴艋]]^
+        [[zaak3 maang5 舴艋]]
         a small boat, a punt, a pinnace, a junk's gig [[Kangxi: 舴艋小舟]].
     ==
   ====

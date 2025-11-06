@@ -638,7 +638,7 @@ W
         [[zit6 ji1 截衣]],
         a robe whose body and skirt are of two colors;
     - _ts(i/)t(9) ~~t(u:)n(6)~~ ``(5)t(')(u:)n``_
-        [[zit6 tyun5 截斷]]^
+        [[zit6 tyun5 截斷]]
         to cut apart.
     ==
   ====

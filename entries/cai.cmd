@@ -514,7 +514,7 @@ W
     - Angry, enraged [[Kangxi: 怒也]];
     - [[...]];
     - _(1)t(i/)n (1)ch(i/) (1)fong ~~tsai(3)~~ ``(4)ts(')ai``_
-        [[tin1 zi1 fong1 cai4 天之方懠]]^
+        [[tin1 zi1 fong1 cai4 天之方懠]]
         when heaven is angry.
     ==
   ====

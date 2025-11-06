@@ -289,7 +289,7 @@ W
         [[ciu1 tong4 鍬塘]],
         to dig out a fishpond;
     - _t(a/)i(6) tung(6) ~~ts(')i(u/)(3)~~ ``(1)ts(')i(u/)``_
-        [[daai6 dung6 ciu1 大動鍬]]^
+        [[daai6 dung6 ciu1 大動鍬]]
         a crowbar.
     ==
   ====

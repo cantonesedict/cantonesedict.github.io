@@ -174,7 +174,7 @@ W
         [[ai2 lou2 zai2 矮佬仔]],
         a pigmy, a little old man;
     - _(2)p(i/) (1)ch(e/)ung (2)ai tang(3) (2)tsai (5)n(i/) ~~tso(6)~~ ``(5)ts(')o``_
-        [[bei2 zoeng1 ai2 dang3 zai2 nei5 co5 畀張矮凳仔你坐]]^
+        [[bei2 zoeng1 ai2 dang3 zai2 nei5 co5 畀張矮凳仔你坐]]
         get a low stool for you to sit on---to delude one;
     - _(2)ai tak(7) tsai(6)_
         [[ai2 dak1 zai6 矮得嚌]]

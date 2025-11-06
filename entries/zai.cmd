@@ -542,7 +542,7 @@ W
     - Name of a river [[Kangxi: 水名]];
     - [[...]];
     - _~~tsai(3) tsai(3)~~ ``(2)tsai (2)tsai``_
-        [[zai2 zai2 濟濟]]^
+        [[zai2 zai2 濟濟]]
         abundant; a concourse [[Kangxi: 濟濟衆盛之貌]].
     ==
   ====

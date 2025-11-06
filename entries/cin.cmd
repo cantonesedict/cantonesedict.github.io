@@ -746,7 +746,7 @@ W
         [[zaau2 cin4 找錢]],
         to exchange into cash;
     - _(2)k(i/) (4)ts(')(i/)n ~~chung(6)~~ ``(5)ch(')ung``_
-        [[gei2 cin4 cung5 幾錢重]]^
+        [[gei2 cin4 cung5 幾錢重]]
         how many mace does it weigh?
     - _fong(3) l(o\)(6) (4)ts(')(i/)n_
         [[fong3 lou6 cin4 放路錢]],
@@ -758,7 +758,7 @@ W
         [[laan6 cin4 爛錢]],
         bad cash;
     - _(4)ts(')(i/)n (2)p(a/)n k(o\)m(3) ~~hau(6)~~ ``(5)hau``_
-        [[cin4 baan2 gam3 hau5 錢板咁厚]]^
+        [[cin4 baan2 gam3 hau5 錢板咁厚]]
         thick as a cash board;
     - _l(i/)(6) (4)ts(')(i/)n_
         [[lei6 cin4 利錢]],

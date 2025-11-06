@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -323,7 +323,7 @@ W
     - [[....]];
     - _~~(2)ch(')(i/)~~ ``(2)ch(')(e/)`` (4)(i/)n_
         [[ce2 jin4 哆然]],
-        sneering at, disobedient [[Kangxi: 哆然衆有不服之心]]
+        sneering at, disobedient [[Kangxi: 哆然衆有不服之心]]``.``
     ==
     --
     Also read _(2)ch(')(e/)_ [[ce2]];

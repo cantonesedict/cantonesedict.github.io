@@ -177,19 +177,19 @@ W
     - a document, a government paper, a receipt [[Kangxi: 官收物而給印信文憑也]];
     - paper money [[Kangxi: 楮貨名]];
     - _(4)sh(u:)n ~~ch(')(a/)u(3)~~ ``(1)ch(')(a/)u``_
-        [[syun4 caau1 船鈔]]^
+        [[syun4 caau1 船鈔]]
         tonnage dues, charges on ships;
     - _fong(3) ~~ch(')(a/)u(3)~~ ``(1)ch(')(a/)u``_
-        [[fong3 caau1 放鈔]]^
+        [[fong3 caau1 放鈔]]
         to burn paper money to the gods;
     - _(4)ts(')(i/)n ~~ch(')(a/)u(3)~~ ``(1)ch(')(a/)u``_
-        [[cin4 caau1 錢鈔]]^
+        [[cin4 caau1 錢鈔]]
         bills and money;
     - _~~ch(')(a/)u(3)~~ ``(1)ch(')(a/)u`` (1)kw(a/)n_
         [[caau1 gwaan1 鈔關]],
         a custom house;
     - _shui(3) ~~ch(')(a/)u(3)~~ ``(1)ch(')(a/)u``_
-        [[seoi3 caau1 稅鈔]]^
+        [[seoi3 caau1 稅鈔]]
         duties on goods, transit dues.
     ==
     --

@@ -561,12 +561,12 @@ W
     - to place, to set down;
     - to kneel [[Kangxi: 古者謂跪爲坐]];
     - _(2)ts(')ing ~~tso(6)~~ ``(5)ts(')o``_
-        [[cing2 co5 請坐]]^
+        [[cing2 co5 請坐]]
         please be seated;
     - _tso(6) (1)i(u/)_
         [[zo6 jiu1 坐腰]],
         to curtsey;
-    - _(5)n(i/) ~~tso(6)~~ ``(5)ts(')o``_ [[nei5 co5 你坐]]^
+    - _(5)n(i/) ~~tso(6)~~ ``(5)ts(')o``_ [[nei5 co5 你坐]]
         or
       _~~tso(6)~~ ``(5)ts(')o`` ch(e/)(3)_ [[co5 ze3 坐嗻]]
         good bye, said to the host;
@@ -607,13 +607,13 @@ W
         [[co5 gaam1 坐監]],
         in prison;
     - _~~tso(6)~~ ``(5)ts(')o`` ~~sh(e/)ung(6)~~ ``(5)sh(e/)ung``_
-        [[co5 soeng5 坐上]]^
+        [[co5 soeng5 坐上]]
         sit up higher;
     - _~~tso(6)~~ ``(5)ts(')o`` (4)t(')ong_
         [[co5 tong4-2 坐堂]],
         in court, on the bench;
     - _~~tso(6)~~ ``(5)ts(')o`` (5)l(a/)ng f(a/)n(6) ~~k(o\)m(3)~~ ``(2)k(o\)m`` ~~tso(6)~~ ``(5)ts(')o``_
-        [[co5 laang5 faan6 gam2 co5 坐冷飯噉坐]]^
+        [[co5 laang5 faan6 gam2 co5 坐冷飯噉坐]]
         to sit till the rice is cold, _i.~e._ to take ~~Freuch~~ ``French`` leave;
     - _(2)t(a/) tso(6) (1)ts(')(a/)m ~~(4)sh(i/)n~~ ``(4)sh(i/)m``_
         [[daa2 zo6 caam1 sim4 打坐參禪]],

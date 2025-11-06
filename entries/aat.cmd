@@ -234,7 +234,7 @@ W
         I'll not keep you;
         not detain you;
     - _~~(a/)p(8)~~ ``(a/)t(8)`` ~~wan(6)~~ ``(5)wan``_
-        [[aat3 wan5 押韻]]^
+        [[aat3 wan5 押韻]]
         to rhyme;
     - _~~(a/)p(8)~~ ``(a/)t(8)`` (4)sh(u:)n_
         [[aat3 syun4 押船]],

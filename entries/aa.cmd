@@ -369,7 +369,7 @@ W
     - dumb [[Kangxi: 瘖也]];
     - to keep silent [[Kangxi: 不言也]], for which the next [[瘂]] is used;
     - _(2)(a/) ~~mai(6)~~ ``(4)mai``_
-        [[aa2 mai4 啞謎]]^
+        [[aa2 mai4 啞謎]]
         an enigma;
     - _(4)ts(')ing (4)n(a/)n (2)(a/) (2)yan_
         [[cing4 naan4 aa2 jan2 情難啞忍]],

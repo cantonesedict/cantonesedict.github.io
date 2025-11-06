@@ -219,7 +219,7 @@ W
         [[caai1 jat1 caai1 猜一猜]]^
         make a guess;
     - _(5)n(i/) sh(i/)(3) (1)ch(')(a/)i~~, h(a/)(6)~~ ``(5)h(a/)``_
-        [[nei5 si3 caai1 haa5 你試猜一吓]]^
+        [[nei5 si3 caai1 haa5 你試猜一吓]]
         just guess.
     ==
   ====

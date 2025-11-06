@@ -105,7 +105,7 @@ W
         [[wu1 fu1 oi1 zoi1 嗚呼哀哉]],
         alas, sad indeed!
     - _(5)y(e/) (1)tsoi (4)Yau ~~y(a/)(6)~~ ``(5)y(a/)``_
-        [[je5 zoi1 jau4 jaa5 野哉由也]]^
+        [[je5 zoi1 jau4 jaa5 野哉由也]]
         what a clown is Yau!
     - _(1)k(u/) (1)ch(i/) (1)tsoi, (1)k(u/) (1)ch(i/) (1)tsoi_
         [[gu1 zi1 zoi1, gu1 zi1 zoi1 沽之哉沽之哉]],

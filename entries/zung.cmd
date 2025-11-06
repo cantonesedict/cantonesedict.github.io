@@ -304,7 +304,7 @@ W
         [[zung1 lit6 忠烈]]
         faithful to death;
     - _(1)chung ~~hau(6)~~ ``(5)hau``_
-        [[zung1 hau5 忠厚]]^
+        [[zung1 hau5 忠厚]]
         honest.
     ==
   ====

@@ -694,7 +694,7 @@ W
         [[nei5 zou6 mat1 je5 你做乜嘢]]^
         what are you doing?
     - _ts(o\)(6) tak(7) (4)'m (4)h(a/)m (4)'m ~~t(a/)m(6)~~ ``(5)t(')(a/)m``_
-        [[zou6 dak1 m4 haam4 m4 taam5 做得唔鹹唔淡]]^
+        [[zou6 dak1 m4 haam4 m4 taam5 做得唔鹹唔淡]]
         it's neither salt nor fresh---unsatisfactory;
     - _ts(o\)(6) mat(7)_
         [[zou6 mat1 做乜]]

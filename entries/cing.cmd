@@ -711,7 +711,7 @@ W
     - to confess, to acknowledge;
     - to inform [[Kangxi: 吿也]];
     - _(2)ts(')ing ~~tso(6)~~ ``(5)ts(')o``_
-        [[cing2 co5 請坐]]^
+        [[cing2 co5 請坐]]
         please be seated;
     - _(2)ts(')eng (2)tsau_
         [[ceng2 zau2 請酒]],
@@ -1052,7 +1052,7 @@ W
         [[cing4 ban2 呈稟]],
         to hand up a petition;
     - _(4)ch(')ing ~~(2)sz'~~ ``(2)tsz'``_
-        [[cing4 zi2 呈子]]^
+        [[cing4 zi2 呈子]]
         a petition;
     - _(4)ch(')ing t(i/)n(6)_
         [[cing4 din6 呈？]]

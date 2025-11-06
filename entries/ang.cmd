@@ -292,7 +292,7 @@ W
         [[ang3 jau5 tim1 更有添]],
         there are more;
     - _ang(3) noi(6) ~~t(i/)(6)~~ ``(1)t(i/)``_
-        [[ang3 noi6 di1 更耐啲]]^
+        [[ang3 noi6 di1 更耐啲]]
         rather longer time.
     ==
   ====

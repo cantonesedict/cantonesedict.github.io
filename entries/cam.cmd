@@ -618,7 +618,7 @@ W
         [[cam4 nik1 沉溺]]
         drowned, in doting on;
     - _(4)ch(')am ~~chung(6)~~ ``(5)ch(')ung``_
-        [[cam4 cung5 沉重]]^
+        [[cam4 cung5 沉重]]
         very sick;
     - _shap(9) (4)ch(')am (2)kau (4)p(')(o\)_
         [[sap6 cam4 gau2 pou4 十沉九浮]],

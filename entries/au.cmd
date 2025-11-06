@@ -319,8 +319,8 @@ W
   - [[Page~6 (1)鷗]]
     ==
     - A gull [[Kangxi: 鷗水鴞也]];
-    - _p(a/)k(9) (1)au_
-        [[baak6 au1 白鷗]]^
+    - _p(a/)k(9) (1)au_^
+        [[baak6 au1 白鷗]]
       or _(4)h(a/)n (1)au_
         [[haan4 au1 閒鷗]],
         a kind of gull found about Canton;

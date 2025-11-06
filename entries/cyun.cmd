@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyun
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-06
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -1164,7 +1164,7 @@ W
     - ~~Interchanged with 欑;~~
     - [[...]];
     - poles and thatch to cover a coffin [[Kangxi 欑: 輴盛柩之車欑猶菆也菆木于輴之四面至于棺上以泥塗之]];
-    - [[...]]^
+    - [[...]]``.``
     ==
     --
     [[Otherwise, an alternative form of 攢. **See $攢cyun4 for the canonical entry.**]]

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2025-11-03
+* %date-modified --> 2025-11-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -731,7 +731,7 @@ W
     - [[...]];
     - _(1)ching (4)ngo_
         [[zing1 ngo4-2 蒸鵝]]^
-        a boiled goose.
+        a ~~boiled~~ ``steamed`` goose.
     ==
   - [[Page~18* (1)蒸]]
     --
@@ -1481,7 +1481,7 @@ W
         [[git3 zeng6 潔淨]]
         clean, to purify one's heart;
     - _tsing(6) ~~chung(6)~~ ``(5)ch(')ung``_
-        [[zing6 cung5 淨重]]^
+        [[zing6 cung5 淨重]]
         the nett weight;
     - _tseng(6) (2)shui (4)f(u/)_
         [[zeng6 seoi2 fu4]],
