@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2025-11-05
+* %date-modified --> 2025-11-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2801,7 +2801,7 @@ W
         [[ci4 tip3-2 辭帖]]
         to send a card of invitation back;
     - _(4)ts(')z' (4)hang ~~t(')(i/)p(9)~~ ``t(')(i/)p(8)``_
-        [[ci4 hang4 tip3-2 辭行帖]],
+        [[ci4 hang4 tip3-2 辭行帖]]
         a card to take leave;
     - _(1)h(u:) (4)ts(')z'_
         [[heoi1 ci4 虛辭]]

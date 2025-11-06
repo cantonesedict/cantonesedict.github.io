@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coi
-* %date-modified --> 2025-11-03
+* %date-modified --> 2025-11-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -384,7 +384,7 @@ W
     - in these senses the three next [[採, 寀, 彩]] are used;
     - a business, an employment;
     - _(2)ts(')oi ~~yap(9)~~ ``yap(7)``_
-        [[coi2 jap1 采邑]],
+        [[coi2 jap1 采邑]]
         territory set apart for the support of grandees, an ancient usage;
     - _n(a/)p(9) (2)ts(')oi_
         [[naap6 coi2 納采]],

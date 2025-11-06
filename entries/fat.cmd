@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fat
-* %date-modified --> 2025-11-05
+* %date-modified --> 2025-11-06
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -979,7 +979,7 @@ W
         [[fat6 zou2 佛祖]],
         Budha;
     - _~~Fat(7)~~ ``Fat(9)`` ~~f(a/)t(9)~~ ``f(a/)t(8)``_
-        [[fat6 faat3 佛法]],
+        [[fat6 faat3 佛法]]
         ~~Budhism~~ ``Budhist methodologies``;
     - _fat(9) (2)shau_
         [[fat6 sau2 佛手]],

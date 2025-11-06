@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2025-11-05
+* %date-modified --> 2025-11-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -365,7 +365,7 @@ W
         [[zaang1 gung1 爭功]],
         to ~~emulate~~ ``claim merit``;
     - _~~(1)ch(a/)ng~~ ``(1)chang`` ~~t(u:)t(8)~~ ``t(u:)t(9)``_
-        [[zang1 dyut6 爭奪]],
+        [[zang1 dyut6 爭奪]]
         to take by force;
     - _~~(1)ch(a/)ng~~ ``(1)chang`` chap(7)_
         [[zang1 zap1 爭執]]
