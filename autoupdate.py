@@ -85,7 +85,7 @@ class Updater:
         new_cmd_content = old_cmd_content
         # new_cmd_content = Updater._normalise_radicals(new_cmd_content)
         # new_cmd_content = Updater._update_page_tones_navigation(new_cmd_content, tone_syllable_ct_list)
-        new_cmd_content = Updater._update_page_character_navigations(new_cmd_content, toned_characters_from_tone)
+        # new_cmd_content = Updater._update_page_character_navigations(new_cmd_content, toned_characters_from_tone)
 
         if new_cmd_content == old_cmd_content:
             return
@@ -189,58 +189,6 @@ class Updater:
             flags=re.VERBOSE,
         )
         return clean_line.split()
-
-    @staticmethod
-    def _normalise_radicals(cmd_content):
-        return re.sub(
-            pattern=r'^  \S [+] [0-9]+$',
-            repl=lambda match: match.group().translate(RADICAL_NORMALISATION_TABLE),
-            string=cmd_content,
-            flags=re.MULTILINE,
-        )
-
-    @staticmethod
-    def _update_page_tones_navigation(cmd_content, tone_syllable_ct_list):
-        return re.sub(
-            pattern=r'(?<=<## tones ##>\n).*?(?=<## /tones ##>\n)',
-            repl=Updater._tones_navigation_cmd_content(tone_syllable_ct_list),
-            string=cmd_content,
-            flags=re.DOTALL | re.MULTILINE,
-        )
-
-    @staticmethod
-    def _update_page_character_navigations(cmd_content, toned_characters_from_tone):
-        for tone, toned_characters in toned_characters_from_tone.items():
-            cmd_content = re.sub(
-                pattern=fr'(?<=<## tone-{tone}-characters ##>\n).*?(?=<## /tone-{tone}-characters ##>\n)',
-                repl=Updater._character_navigation_cmd_content(toned_characters),
-                string=cmd_content,
-                flags=re.DOTALL | re.MULTILINE,
-            )
-
-        return cmd_content
-
-    @staticmethod
-    def _tones_navigation_cmd_content(tone_syllable_ct_list):
-        return '\n'.join([
-            '<nav class="sideways">',
-            '=={.modern}',
-            *[f'- [{syllable}{tone}](#{tone})' for tone, syllable, _ in tone_syllable_ct_list],
-            '==',
-            '</nav>',
-            '',
-        ])
-
-    @staticmethod
-    def _character_navigation_cmd_content(toned_characters):
-        return '\n'.join([
-            '<nav class="sideways">',
-            '=={.modern}',
-            *[f'- ${toned_character}' for toned_character in toned_characters],
-            '==',
-            '</nav>',
-            '',
-        ])
 
 
 class Indexer:

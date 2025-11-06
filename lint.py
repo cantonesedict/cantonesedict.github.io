@@ -404,7 +404,7 @@ class EntryPage:
     def self_correct(self):
         replaced_content = content = self.content
         replaced_content = self.replace_tone_navigator(replaced_content)
-        # TODO: replaced_content = self.replace_character_navigators(replaced_content)
+        replaced_content = self.replace_character_navigators(replaced_content)
 
         if replaced_content == content:
             return
@@ -418,7 +418,6 @@ class EntryPage:
         if not self.tone_navigator or not self.tone_navigator.content:
             return content
 
-        tone_navigator_content = self.tone_navigator.content
         tone_navigator_content_expected = '\n'.join([
             '<## tones ##>',
             '<nav class="sideways">',
@@ -431,7 +430,33 @@ class EntryPage:
             '</nav>',
             '<## /tones ##>',
         ])
-        return content.replace(tone_navigator_content, tone_navigator_content_expected)
+
+        return content.replace(self.tone_navigator.content, tone_navigator_content_expected)
+
+    def replace_character_navigators(self, content: str) -> str:
+        replaced_content = content
+
+        for character_navigator in self.character_navigators:
+            tone_number = character_navigator.tone_number
+            character_navigator_content_expected = '\n'.join([
+                f'<## tone-{tone_number}-characters ##>',
+                '<nav class="sideways">',
+                '=={.modern}',
+                *[
+                    f'- {character_entry.same_page_link()}'
+                    for character_entry in self.character_entries_from_tone_number[tone_number]
+                ],
+                '==',
+                '</nav>',
+                f'<## /tone-{tone_number}-characters ##>',
+            ])
+
+            replaced_content = (
+                replaced_content
+                .replace(character_navigator.content, character_navigator_content_expected)
+            )
+
+        return replaced_content
 
     @staticmethod
     def extract_page_title(page_content: str) -> str:
@@ -934,6 +959,15 @@ class CharacterEntry:
         self.f_content = f_content
         self.w_content = w_content
         self.see_also_links = see_also_links
+
+    def composed_character(self) -> str:
+        if not self.composition:
+            return self.character
+
+        return f'{{{self.character}={self.composition}}}'
+
+    def same_page_link(self) -> str:
+        return f'${self.composed_character()}{self.tone_number}'
 
     @staticmethod
     def lint_keys(content_from_key: dict[str, str], heading_readable: str):
