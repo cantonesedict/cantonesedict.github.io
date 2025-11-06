@@ -105,7 +105,7 @@ W
 C
   ==
   - Arguably, _(2)ts(a/)n_ (zaan2) is a vernacular rising-tone reading of
-    _ts(a/)n(6)_ (zaan6) (per 《廣韻》徂賛切)^, meaning "pretty" (美好皃);
+    _ts(a/)n(6)_ (zaan6) (per 《廣韻》徂賛切), meaning "pretty" (美好皃);
     see below.
   ==
 E
@@ -925,7 +925,7 @@ W
 C
   ==
   - Fan Wan entry: The supplied dissection 中淡切 is incorrect,
-    as it results in the 陰去 reading _ch(a/)m(3)_ (zaam3)^,
+    as it results in the 陰去 reading _ch(a/)m(3)_ (zaam3),
     rather than the intended 陽去 reading _ch(a/)m(6)_ (zaam6).
     Normalised {𫉬=⿱艹⿰犭隻} to 獲.
   ==

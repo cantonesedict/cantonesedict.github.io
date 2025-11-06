@@ -317,9 +317,9 @@ C
       or as genuine alternatives for the senses given.
     - Kangxi has a hodgepodge:
       ++
-      1. 丑六切 _ch(')uk(7)_ (cuk1) for "rearing-field" (田畜也)^,
+      1. 丑六切 _ch(')uk(7)_ (cuk1) for "rearing-field" (田畜也),
          "gather" (積也), and "restrain" (止也), among other senses;
-      1. 許六切 _huk(7)_ (huk1) for "rear" (養也)^, "tolerate" (容也)^,
+      1. 許六切 _huk(7)_ (huk1) for "rear" (養也), "tolerate" (容也),
          "livestock" (六畜) (with a note that 今人{𠀤=⿱夶一}讀作昌六反),
          and "obey" (順也), among other senses;
       1. 許救切 _jau(3)_ (jau3) for "non-working livestock" (養之曰畜用之曰牲); and

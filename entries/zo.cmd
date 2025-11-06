@@ -465,7 +465,7 @@ C
   - Williams records _ch(u\)_ (zoe) and _ch(u:)_ (zyu)
     as alternative readings without specifying the tone.
     The former I cannot justify.
-    The latter rhymes with 《集韻》遵遇切 _ts(u:)(3)_ (zyu3)^, explained 詶也,
+    The latter rhymes with 《集韻》遵遇切 _ts(u:)(3)_ (zyu3), explained 詶也,
     and also with 咀 _(2)ts(u:)_,
     but in both cases the pre-merger initial is inconsistent.
   - The common reading zeoi2 is perhaps from identifying 詛咒 with 咀咒,
@@ -643,7 +643,7 @@ C
     """"
     the short version of which is,
     that the quoted line 遂坐上坐 "Then [he] sat upon [the] upper seat"
-    should be read _sui(6) (5)ts(')o sh(e/)ung(6) tso(6)_ (seoi6 co5 soeng6 zo6)^,
+    should be read _sui(6) (5)ts(')o sh(e/)ung(6) tso(6)_ (seoi6 co5 soeng6 zo6),
     with the first 坐 ("sat") rising and the second 坐 ("seat") departing.
   - Williams' _tso(6)_ (zo6 去聲) has been corrected
     to _(5)ts(')o_ (co5 上聲) when appropriate.

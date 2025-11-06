@@ -122,7 +122,7 @@ C
     In the source 《說文》 of this explanation, 嚵 means "sip/taste" or "beak".
     It is *not* used for 饞, gluttonous.
   - Williams' "Name of a king": Kangxi puts this under a separate reading,
-    _kw(a/)i(3)_ (gwaai3)^, per 《集韻》古邁切 .
+    _kw(a/)i(3)_ (gwaai3), per 《集韻》古邁切 .
   ==
 $$
 

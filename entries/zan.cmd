@@ -311,7 +311,7 @@ W
 C
   ==
   - Kangxi has both the "boy" sense and the "horsekeeper" sense
-    under departing-tone 之刃切 _chan(3)_ (zan3)^,
+    under departing-tone 之刃切 _chan(3)_ (zan3),
     followed by the permissive level-tone variation 之人切音眞 _(1)chan_ (zan1)
     for (presumably) the latter sense.
     In contrast, 《廣韻》 distinguishes

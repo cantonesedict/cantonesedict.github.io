@@ -563,7 +563,7 @@ W
     - _(4)ts(')un sui(3)_
         [[ceon4 seoi3 旬歲]]
         a complete year [[Kangxi: 旬滿也旬歲猶言滿歲也]];
-    - the _sh(e/)ung(6)_ [[soeng6 上]]^, _(1)chung_ [[zung1 中]]^,
+    - the _sh(e/)ung(6)_ [[soeng6 上]]^, _(1)chung_ [[zung1 中]],
       and _h(a/)(6) (4)ts(')un_ [[haa6 ceon4 下旬]],
       are the first, second, and third decades of a month;
     - _ts(')at(7) (4)ts(')un_

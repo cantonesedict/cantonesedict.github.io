@@ -777,7 +777,7 @@ C
   ==
   - Fan Wan entry: Corrected 口 to 曰.
   - Williams' "also called [...]":
-    I suspect _chau(3)_ (zau3) is a typo for _chau(6)_ (zau6)^,
+    I suspect _chau(3)_ (zau3) is a typo for _chau(6)_ (zau6),
     which would be a misreading based on analogy with 袖.
   ==
 S

@@ -450,7 +450,7 @@ C
       (starting from 億 = 10<sup>8</sup> and going up by squares).
     ==
     It is an intuitive feeling that has led me to put this sense
-    under rising-tone _(2)tsoi_ (zoi2) rather than departing-tone _tsoi(3)_ (zoi3)^,
+    under rising-tone _(2)tsoi_ (zoi2) rather than departing-tone _tsoi(3)_ (zoi3),
     noting I have not seen solid evidence to back up my decision.
     I am happy to be proven wrong, and for Williams to be vindicated.
   ====

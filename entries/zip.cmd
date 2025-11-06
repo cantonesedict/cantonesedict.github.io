@@ -357,9 +357,9 @@ C
     - The latter is dubious. Note that the similar character {𠗉=⿰冫夾}
       has three readings:
       ++
-      1. 胡頰切 _h(i/)p(9)_ (hip6)^, explained {𠗉=⿰冫夾}{𠗨=⿰冫枼}冰凍.
-      2. 子協切 _ts(i/)p(8)_ (zip3)^, explained {𠗉=⿰冫夾}{𠗨=⿰冫枼} with cross reference 又音狎.
-      3. 胡甲切 _h(a/)p(9)_ (haap6)^, explained {𠗉=⿰冫夾}{𠗨=⿰冫枼}冰凍相著.
+      1. 胡頰切 _h(i/)p(9)_ (hip6), explained {𠗉=⿰冫夾}{𠗨=⿰冫枼}冰凍.
+      2. 子協切 _ts(i/)p(8)_ (zip3), explained {𠗉=⿰冫夾}{𠗨=⿰冫枼} with cross reference 又音狎.
+      3. 胡甲切 _h(a/)p(9)_ (haap6), explained {𠗉=⿰冫夾}{𠗨=⿰冫枼}冰凍相著.
       ++
     ==
   - Williams' 浹日: Here, "decade" means ten days (甲 through 癸).

@@ -700,8 +700,8 @@ C
     However, this appears to be a merger of
     two apparently distinct (but synonymous) words in Middle Chinese:
     ==
-    - 疿, read 方味切 _fai(3)_ (fai3)^, explained 熱生小瘡; and
-    - 痱, read 扶沸切 _fai(6)_ (fai6)^, explained 熱瘡.
+    - 疿, read 方味切 _fai(3)_ (fai3), explained 熱生小瘡; and
+    - 痱, read 扶沸切 _fai(6)_ (fai6), explained 熱瘡.
     ==
     In Cantonese, the distinction is hidden by the vernacular rising tone.
     In Mandarin, there is no distinction between 陰去 and 陽去 (both become fèi).

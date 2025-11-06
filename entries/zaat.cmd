@@ -278,7 +278,7 @@ W
   ====
 C
   ==
-  - Williams erroneously places this under _ts(')(a/)t(9)_ (caat6)^,
+  - Williams erroneously places this under _ts(')(a/)t(9)_ (caat6),
     notwithstanding the reading within the entry is correctly _ts(a/)t(9)_ (zaat6).
   ==
 S
@@ -361,7 +361,7 @@ E
   ++
   1. Whilst 陳凱文's text refers to the 1877 edition
      of Eitel's ''[A] Chinese Dictionary in the Cantonese Dialect''
-     (wherein 甴 is found under _K(a/)t(9)_ (gaat6) on [Page~^228][1877-甴])^,
+     (wherein 甴 is found under _K(a/)t(9)_ (gaat6) on [Page~^228][1877-甴]),
      陳凱文's screenshot is actually of the *1910* edition of Eitel's dictionary
      *revised and enlarged by Immanuel Gottlieb Genähr*
      (wherein 甴 is found under _K(a/)t(9)_ (gaat6) on [Page~^330][1910-甴]).

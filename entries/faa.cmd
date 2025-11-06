@@ -285,7 +285,7 @@ C
   - Fan Wan entry: Fixed missing strokes in 敎.
   - Williams' 化身: Also reincarnation.
   - Williams' 造化: Corrected _ts(')(o\)(3)_ (cou3) to _ts(o\)(6)_ (zou6).
-  - Williams' 好造化: Corrected _h(o\)(3)_ (hou3) to _(2)h(o\)_ (hou2)^,
+  - Williams' 好造化: Corrected _h(o\)(3)_ (hou3) to _(2)h(o\)_ (hou2),
     and corrected _ts(')(o\)(3)_ (cou3) to _ts(o\)(6)_ (zou6).
   - Williams' 抄化: More specifically, for a monk to subscribe an alms-giver.
   ==

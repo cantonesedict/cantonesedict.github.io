@@ -2116,7 +2116,7 @@ C
   - Fan Wan entry: Normalised {𤍠=⿱執灬} to 熱.
   - Williams' "New, ripe spirits": This is a misreading of Kangxi 酒之新熟重者爲酎. Here, 酒之新熟 is merely contextual.
   - Williams' ？酎金: _to(6)_ (do6) is probably a typo
-    for what was intended to be _tso(6)_ (zo6)^,
+    for what was intended to be _tso(6)_ (zo6),
     which is the result of misreading Kangxi's example 《史記平準書》列侯坐酎金.
     Here, 坐酎金 is not a term; 坐 means "convicted",
     so that 列侯坐酎金 means "[The] feudal-lords [were] convicted [in the] wine money [case]".

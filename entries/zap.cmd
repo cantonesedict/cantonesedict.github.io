@@ -337,7 +337,7 @@ E
   ====
   --
   It is debatable whether this is the same word as 執 _chap(7)_ (zap1).
-  In any case, Williams records the reading as _tsap(7)_ (zap1)^,
+  In any case, Williams records the reading as _tsap(7)_ (zap1),
   and [Eitel (1877)][eitel-dict-蓻] prefers the character 蓻,
   which matches _tsap(7)_ (zap1) in pronunciation:
   --

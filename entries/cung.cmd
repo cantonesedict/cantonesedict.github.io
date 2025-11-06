@@ -1757,7 +1757,7 @@ C
   ==
   - Williams (following Fan Wan) does not provide separate entries
     for rising-tone _(5)ch(')ung_ (cung5)
-    and departing-tone _chung(6)_ (zung6)^,
+    and departing-tone _chung(6)_ (zung6),
     whose distinction is still well preserved in modern Cantonese.
   - I have split things up accordingly, noting that the
     "severe, heinous" sense is able to fit both readings

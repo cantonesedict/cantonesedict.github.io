@@ -792,7 +792,7 @@ E
   --
   There is an argument that 垃雜 _l(a/)p(9) ts(a/)p(9)_ (laap6 zaap6)
   should be spelt 擸{𢶍=⿰扌䪞}.
-  Indeed 擸{𢶍=⿰扌䪞} has an expected reading of _lap(9) tsap(9)_ (lap6 zap6)^,
+  Indeed 擸{𢶍=⿰扌䪞} has an expected reading of _lap(9) tsap(9)_ (lap6 zap6),
   and is explained "broken" or "cluttered":
   --
   """"

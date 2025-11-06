@@ -403,7 +403,7 @@ W
 C
   ==
   - Fan Wan entry: The supplied dissection 直百切 is incorrect,
-    as it results in the 陽入 reading _ch(a/)k(9)_ (zaak6)^,
+    as it results in the 陽入 reading _ch(a/)k(9)_ (zaak6),
     rather than the intended 陰入 reading _ch(a/)k(8)_ (zaak3).
   ==
 $$
@@ -1017,7 +1017,7 @@ W
   ====
 C
   ==
-  - Whilst 《廣韻》 has the headline reading 陟革切 _ch(a/)k(8)_ (zaak3)^,
+  - Whilst 《廣韻》 has the headline reading 陟革切 _ch(a/)k(8)_ (zaak3),
     it also has the in-entry alternative 又丈厄切 _ch(a/)k(9)_ (zaak6).
     It is unclear whether this is intended as a cross-reference
     or as a genuine alternative for the "blame" sense.

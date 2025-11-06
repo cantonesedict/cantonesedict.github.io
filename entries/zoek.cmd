@@ -341,7 +341,7 @@ C
   - Both the dark-entering reading 即略切 _ts(e/)uk(8)_ (zoek3)
     and the light-entering reading 在爵切 _ts(e/)uk(9)_ (zoek6)
     are attested in 《廣韻》, explained 炬火 "torch fire",
-    along with departing 子肖切 _tsi(u/)(3)_ (ziu3)^,
+    along with departing 子肖切 _tsi(u/)(3)_ (ziu3),
     which is simply explained 火 "fire".
   ==
 S

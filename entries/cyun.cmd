@@ -1428,7 +1428,7 @@ W
 C
   ==
   - Williams' "to go and come": This is a misreading of Kangxi 往來數也.
-    Here, 數 is to be read in entering tone, _shok(8)_ (sok3)^,
+    Here, 數 is to be read in entering tone, _shok(8)_ (sok3),
     meaning "frequently". Thus, 往來數也 should be rendered
     "[to] go [and] come frequently", and defines the same sense as 疾也速也.
   ==

@@ -970,7 +970,7 @@ W
 C
   ====
   - Fan Wan entry: The supplied dissection 執愿切 is incorrect,
-    as it results in the 陰去 reading _ch(u:)n(3)_ (zyun3)^,
+    as it results in the 陰去 reading _ch(u:)n(3)_ (zyun3),
     rather than the intended 陽去 reading _ch(u:)n(6)_ (zyun6).
     Corrected headword ⿰亻⿳甫一寸 to 傳.
   - The pronunciation of 傳 in the term 傳奇 "legend"

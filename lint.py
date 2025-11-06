@@ -75,8 +75,8 @@ class CmdSource:
             CmdSource.lint_cjk_non_bmp_composition(content)
             CmdSource.lint_cjk_variation_selector(content)
             CmdSource.lint_williams_entering_tone(content)
-            CmdSource.lint_williams_left_tone(content)
-            CmdSource.lint_williams_right_tone(content)
+            CmdSource.lint_williams_left_tone_position(content)
+            CmdSource.lint_williams_right_tone_position(content)
             CmdSource.lint_williams_initial_aspirate(content)
             CmdSource.lint_williams_tone_45_aspirate(content)
             CmdSource.lint_williams_tone_6_aspirate(content)
@@ -163,7 +163,7 @@ class CmdSource:
             raise LintException(f'bad Williams entering tone in `{run}`')
 
     @staticmethod
-    def lint_williams_left_tone(content: str):
+    def lint_williams_left_tone_position(content: str):
         if run_match := re.search(
             pattern=r'\S* (?<! _ ) \([1245]\) [_ ]',
             string=content,
@@ -173,7 +173,7 @@ class CmdSource:
             raise LintException(f'bad Williams left-tone position in `{run}`')
 
     @staticmethod
-    def lint_williams_right_tone(content: str):
+    def lint_williams_right_tone_position(content: str):
         if run_match := re.search(
             pattern=r'[_ ] \([36789]\) (?! _ ) \S*',
             string=content,
@@ -845,6 +845,7 @@ class CharacterEntry:
         CharacterEntry.lint_character_against_unicode_code_point(character, unicode_code_point)
         CharacterEntry.lint_williams_locator(w_content)
         CharacterEntry.lint_williams_ellipsis_item_punctuation(w_content)
+        CharacterEntry.lint_williams_romanisation_punctuation(w_content)
 
         self.is_canonical = is_canonical
         self.is_added = is_added
@@ -905,6 +906,25 @@ class CharacterEntry:
             raise LintException(
                 f'unpunctuated ellipsis item `{ellipsis_item}` '
                 f'(suppress with trailing caret if legitimate)'
+            )
+
+    @staticmethod
+    def lint_williams_romanisation_punctuation(content: str):
+        if unwanted_comma_match := re.search(
+            pattern=r'''
+                _ \S[^_\n]*? (?: \([36789]\) | ' ) _
+                (?: ~~ \s* `` .*? `` )?
+                \s+
+                \[\[ [^,\n]+? \]\] ,
+            ''',
+            string=content,
+            flags=re.VERBOSE,
+        ):
+            unwanted_comma_context = unwanted_comma_match.group()
+            unwanted_comma_context_reduced = re.sub(pattern=r'\s+', repl=' ', string=unwanted_comma_context)
+            raise LintException(
+                f'comma after Williams right-tone or nasal apostrophe in `{unwanted_comma_context_reduced}` '
+                f'(suppress with caret before comma if legitimate)'
             )
 
     @staticmethod

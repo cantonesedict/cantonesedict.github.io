@@ -475,7 +475,7 @@ C
   ==
   - Williams' 這裡: Changed _(5)l(i/)_ (lei5) to common reading _(5)l(u:)_ (leoi5).
   - The character 這 is only attested in the Middle Chinese rime books
-    under the reading 魚變切 _y(i/)n(6)_ (jin6)^, explained 迎也.
+    under the reading 魚變切 _y(i/)n(6)_ (jin6), explained 迎也.
     Kangxi has 毛晃曰凡稱此箇爲者箇俗多改用這字這乃迎也,
     which proposes that 這 is a vulgar substitute
     for 者 when used as a demonstrative "this".

@@ -1645,12 +1645,12 @@ E
   """"
   --
   Strictly speaking, the original word for "mat/cushion"
-  is 荐 _ts(i/)n(6)_ (zin6)^,
+  is 荐 _ts(i/)n(6)_ (zin6),
   with 薦 _ts(i/)n(3)_ (zin3)
   being a later spelling based on phonetic nearness.
   --
   --
-  In modern usage, the spelling 墊 is common for _ts(i/)n(3)_ (zin3)^,
+  In modern usage, the spelling 墊 is common for _ts(i/)n(3)_ (zin3),
   from appropriation of formal 墊 _t(i/)n(3)_ (din3).
   However, note that 墊 _t(i/)n(3)_ (din3) meaning "padding"
   is not attested in the Middle Chinese rime books.
