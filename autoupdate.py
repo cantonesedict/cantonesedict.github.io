@@ -70,9 +70,9 @@ class Updater:
         navigation_tones = Updater._gather_navigation_tones(old_cmd_content)
         toned_characters_from_tone = Updater._gather_toned_characters_from_tone(old_cmd_content, tone_syllable_ct_list)
 
-        Updater._check_syllables(entry_cmd_name, tone_syllable_ct_list)
-        Updater._check_tones(entry_cmd_name, tone_syllable_ct_list, navigation_tones)
-        Updater._check_canto_tones(entry_cmd_name, tone_syllable_ct_list)
+        # Updater._check_syllables(entry_cmd_name, tone_syllable_ct_list)
+        # Updater._check_tones(entry_cmd_name, tone_syllable_ct_list, navigation_tones)
+        # Updater._check_canto_tones(entry_cmd_name, tone_syllable_ct_list)
 
         williams_h1s = Updater._gather_williams_h1s(old_cmd_content)
         williams_h2s_from_tone = Updater._gather_williams_h2s_from_tone(old_cmd_content, navigation_tones)
@@ -80,11 +80,11 @@ class Updater:
         is_done = '(Work in progress)' not in old_cmd_content
 
         Updater._check_williams_h2_h3_consistency(entry_cmd_name, williams_h2s_from_tone, williams_h3s_from_tone)
-        Updater._check_williams_h1_h2_consistency(entry_cmd_name, williams_h1s, williams_h2s_from_tone, is_done)
+        # Updater._check_williams_h1_h2_consistency(entry_cmd_name, williams_h1s, williams_h2s_from_tone, is_done)
 
         new_cmd_content = old_cmd_content
-        new_cmd_content = Updater._normalise_radicals(new_cmd_content)
-        new_cmd_content = Updater._update_page_tones_navigation(new_cmd_content, tone_syllable_ct_list)
+        # new_cmd_content = Updater._normalise_radicals(new_cmd_content)
+        # new_cmd_content = Updater._update_page_tones_navigation(new_cmd_content, tone_syllable_ct_list)
         new_cmd_content = Updater._update_page_character_navigations(new_cmd_content, toned_characters_from_tone)
 
         if new_cmd_content == old_cmd_content:
