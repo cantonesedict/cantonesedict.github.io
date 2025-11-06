@@ -69,6 +69,7 @@ class CmdSource:
             content = cmd_file.read()
 
         try:
+            CmdSource.lint_whitespace(content)
             CmdSource.lint_typography_quote(content)
             CmdSource.lint_cjk_compatibility_ideograph(content)
             CmdSource.lint_cjk_non_bmp_composition(content)
@@ -95,6 +96,12 @@ class CmdSource:
 
     def correct_entry_page(self):
         self.entry_page.self_correct()
+
+    @staticmethod
+    def lint_whitespace(content: str):
+        if context_match := re.search(pattern=r'\S+\t\S+', string=content):
+            context = context_match.group()
+            raise LintException(f'tab character present in `{context}`')
 
     @staticmethod
     def lint_typography_quote(content: str):
