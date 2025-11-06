@@ -63,7 +63,7 @@ class CmdIdioms:
 class CmdSource:
     file_name: str
     content: str
-    entry_page: 'EntryPage'
+    entry_page: Optional['EntryPage']
 
     def __init__(self, file_name: str):
         with open(file_name, 'r', encoding='utf-8') as cmd_file:
@@ -92,12 +92,18 @@ class CmdSource:
             print(f'lint error in `{file_name}`: {lint_exception.message}', file=sys.stderr)
             sys.exit(1)
 
+        if file_name.startswith('entries/') and not file_name.endswith('index.cmd'):
+            entry_page = EntryPage(file_name, content)
+        else:
+            entry_page = None
+
         self.file_name = file_name
         self.content = content
-        self.entry_page = EntryPage(file_name, content)
+        self.entry_page = entry_page
 
-    def correct_entry_page(self):
-        self.entry_page.self_correct()
+    def self_correct(self):
+        if self.entry_page:
+            self.entry_page.self_correct()
 
     @staticmethod
     def lint_whitespace(content: str):
@@ -355,42 +361,33 @@ class EntryPage:
     file_name: str
     content: str
     is_done: bool
-    page_title: Optional[str]
-    page_heading: Optional['PageHeading']
-    page_entry: Optional['PageEntry']
-    tone_navigator: Optional['ToneNavigator']
-    tone_headings: Optional[list['ToneHeading']]
-    character_navigators: Optional[list['CharacterNavigator']]
-    character_entries: Optional[list['CharacterEntry']]
+    page_title: str
+    page_heading: 'PageHeading'
+    page_entry: 'PageEntry'
+    tone_navigator: 'ToneNavigator'
+    tone_headings: list['ToneHeading']
+    character_navigators: list['CharacterNavigator']
+    character_entries: list['CharacterEntry']
 
     def __init__(self, file_name: str, content: str):
         is_done = '(Work in progress)' not in content
 
-        if file_name.startswith('entries/') and not file_name.endswith('index.cmd'):
-            try:
-                page_title = EntryPage.extract_page_title(content)
-                page_heading = PageHeading(content, file_name, page_title)
-                page_entry = PageEntry(content, page_heading.jyutping)
-                tone_navigator = ToneNavigator(content)
-                tone_headings = EntryPage.extract_tone_headings(content, page_heading.jyutping)
-                character_navigators = EntryPage.extract_character_navigators(content)
-                character_entries = EntryPage.extract_character_entries(content, page_heading.jyutping)
+        try:
+            page_title = EntryPage.extract_page_title(content)
+            page_heading = PageHeading(content, file_name, page_title)
+            page_entry = PageEntry(content, page_heading.jyutping)
+            tone_navigator = ToneNavigator(content)
+            tone_headings = EntryPage.extract_tone_headings(content, page_heading.jyutping)
+            character_navigators = EntryPage.extract_character_navigators(content)
+            character_entries = EntryPage.extract_character_entries(content, page_heading.jyutping)
 
-                EntryPage.lint_page_heading_against_page_entry(page_heading, page_entry)
-                EntryPage.lint_page_heading_against_tone_headings(page_heading, tone_headings)
-                EntryPage.lint_tone_headings_against_character_navigators(tone_headings, character_navigators)
-                EntryPage.lint_tone_headings_against_character_entries(tone_headings, character_entries, is_done)
-            except LintException as lint_exception:
-                print(f'lint error in `{file_name}`: {lint_exception.message}', file=sys.stderr)
-                sys.exit(1)
-        else:
-            page_title = None
-            page_heading = None
-            page_entry = None
-            tone_navigator = None
-            tone_headings = None
-            character_navigators = None
-            character_entries = None
+            EntryPage.lint_page_heading_against_page_entry(page_heading, page_entry)
+            EntryPage.lint_page_heading_against_tone_headings(page_heading, tone_headings)
+            EntryPage.lint_tone_headings_against_character_navigators(tone_headings, character_navigators)
+            EntryPage.lint_tone_headings_against_character_entries(tone_headings, character_entries, is_done)
+        except LintException as lint_exception:
+            print(f'lint error in `{file_name}`: {lint_exception.message}', file=sys.stderr)
+            sys.exit(1)
 
         self.file_name = file_name
         self.content = content
@@ -1098,14 +1095,14 @@ class Executor:
 
         self.cmd_sources = [CmdSource(file_name) for file_name in sorted(cmd_file_names)]
 
-    def correct_entry_pages(self):
+    def self_correct(self):
         for cmd_source in self.cmd_sources:
-            cmd_source.correct_entry_page()
+            cmd_source.self_correct()
 
 
 def main():
     executor = Executor()
-    executor.correct_entry_pages()
+    executor.self_correct()
     # TODO: check consistency between `PageEntry.see_also_links`
     # TODO: check consistency between `CharacterEntry.see_also_links`
     # TODO: general indexing
