@@ -836,7 +836,7 @@ class CharacterEntry:
         see_also_links = CharacterEntry.extract_see_also_links(content_from_key.get('S'))
 
         CharacterEntry.lint_character_against_unicode_code_point(character, unicode_code_point)
-        # TODO: CharacterEntry.lint_w_content(w_content)
+        CharacterEntry.lint_williams_locator(w_content)
 
         self.is_canonical = is_canonical
         self.is_added = is_added
@@ -874,6 +874,19 @@ class CharacterEntry:
     def lint_character_against_unicode_code_point(character: str, unicode_code_point: str):
         if f'U+{ord(character):X}' != unicode_code_point:
             raise LintException(f'character `{character}` is not `{unicode_code_point}`')
+
+    @staticmethod
+    def lint_williams_locator(content: str):
+        for match in re.finditer(
+            pattern=r'^ [ ]+ [-][ ] \[\[ Page~\S+ [ ] (?P<headword_run> .*? ) \]\] $',
+            string=content,
+            flags=re.MULTILINE | re.VERBOSE,
+        ):
+            locator_run = match.group().strip()
+            headword_run = match.group('headword_run')
+
+            if not re.search(pattern=r'\([1-9]\)', string=headword_run):
+                raise LintException(f'missing Williams tone in locator `{locator_run}`')
 
     @staticmethod
     def extract_radical_strokes_list(content: str) -> list['RadicalStrokes']:
