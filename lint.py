@@ -837,6 +837,7 @@ class CharacterEntry:
 
         CharacterEntry.lint_character_against_unicode_code_point(character, unicode_code_point)
         CharacterEntry.lint_williams_locator(w_content)
+        CharacterEntry.lint_williams_ellipsis_item_punctuation(w_content)
 
         self.is_canonical = is_canonical
         self.is_added = is_added
@@ -887,6 +888,17 @@ class CharacterEntry:
 
             if not re.search(pattern=r'\([1-9]\)', string=headword_run):
                 raise LintException(f'missing Williams tone in locator `{locator_run}`')
+
+    @staticmethod
+    def lint_williams_ellipsis_item_punctuation(content: str):
+        ellipsis_item = '- [[...]]'
+        ellipsis_item_pattern = re.escape(ellipsis_item)
+        unpunctuated_ellipsis_item_pattern = f'^[ ]+{ellipsis_item_pattern}$'
+        if re.search(pattern=unpunctuated_ellipsis_item_pattern, string=content, flags=re.MULTILINE):
+            raise LintException(
+                f'unpunctuated ellipsis item `{ellipsis_item}` '
+                f'(suppress with trailing caret if legitimate)'
+            )
 
     @staticmethod
     def extract_radical_strokes_list(content: str) -> list['RadicalStrokes']:
