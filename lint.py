@@ -36,13 +36,6 @@ CJK_UNIFIED_IDEOGRAPH_RADICALS = (
 KANGXI_RADICALS = ''.join(chr(code_point) for code_point in range(0x2F00, 0x2FD6))
 
 
-class LintException(Exception):
-    message: str
-
-    def __init__(self, message: str):
-        self.message = message
-
-
 class CmdIdioms:
     @staticmethod
     def parse_entry_items(content: str) -> dict[str, str]:
@@ -67,6 +60,14 @@ class CmdIdioms:
             string=content,
             flags=re.VERBOSE
         )
+
+
+class LintException(Exception):
+    message: str
+
+    def __init__(self, message: str):
+        self.message = message
+
 
 class CmdSource:
     file_name: str
