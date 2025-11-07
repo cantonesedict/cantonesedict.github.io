@@ -3,7 +3,7 @@
 """
 # lint.py
 
-Lint all Conway-Markdown (CMD) source files, with some automatic correction and indexing.
+Lint all Conway-Markdown (CMD) source files, with automatic indexing.
 """
 
 import os
@@ -110,9 +110,9 @@ class CmdSource:
         self.content = content
         self.entry_page = entry_page
 
-    def self_correct(self):
+    def self_index(self):
         if self.entry_page:
-            self.entry_page.self_correct()
+            self.entry_page.self_index()
 
     @staticmethod
     def lint_whitespace(content: str):
@@ -413,20 +413,20 @@ class EntryPage:
         self.character_navigators = character_navigators
         self.character_entries_from_tone_number = character_entries_from_tone_number
 
-    def self_correct(self):
-        replaced_content = content = self.content
-        replaced_content = self.replace_tone_navigator(replaced_content)
-        replaced_content = self.replace_character_navigators(replaced_content)
+    def self_index(self):
+        updated_content = content = self.content
+        updated_content = self.update_tone_navigator(updated_content)
+        updated_content = self.update_character_navigators(updated_content)
 
-        if replaced_content == content:
+        if updated_content == content:
             return
 
         with open(self.file_name, 'w') as cmd_file:
-            cmd_file.write(replaced_content)
+            cmd_file.write(updated_content)
 
-        self.content = replaced_content
+        self.content = updated_content
 
-    def replace_tone_navigator(self, content: str) -> str:
+    def update_tone_navigator(self, content: str) -> str:
         if not self.tone_navigator or not self.tone_navigator.content:
             return content
 
@@ -445,8 +445,8 @@ class EntryPage:
 
         return content.replace(self.tone_navigator.content, tone_navigator_content_expected)
 
-    def replace_character_navigators(self, content: str) -> str:
-        replaced_content = content
+    def update_character_navigators(self, content: str) -> str:
+        updated_content = content
 
         for character_navigator in self.character_navigators:
             tone_number = character_navigator.tone_number
@@ -463,12 +463,9 @@ class EntryPage:
                 f'<## /tone-{tone_number}-characters ##>',
             ])
 
-            replaced_content = (
-                replaced_content
-                .replace(character_navigator.content, character_navigator_content_expected)
-            )
+            updated_content = updated_content.replace(character_navigator.content, character_navigator_content_expected)
 
-        return replaced_content
+        return updated_content
 
     @staticmethod
     def extract_page_title(page_content: str) -> str:
@@ -1249,17 +1246,20 @@ class Executor:
 
         self.cmd_sources = [CmdSource(file_name) for file_name in sorted(cmd_file_names)]
 
-    def self_correct(self):
+    def self_index(self):
         for cmd_source in self.cmd_sources:
-            cmd_source.self_correct()
+            cmd_source.self_index()
+
+    def cross_index(self):
+        # TODO: check consistency between `PageEntry.see_also_links`
+        # TODO: check consistency between `CharacterEntry.see_also_links`
+        pass
 
 
 def main():
     executor = Executor()
-    executor.self_correct()
-    # TODO: check consistency between `PageEntry.see_also_links`
-    # TODO: check consistency between `CharacterEntry.see_also_links`
-    # TODO: general indexing
+    executor.self_index()
+    executor.cross_index()
 
 
 if __name__ == '__main__':
