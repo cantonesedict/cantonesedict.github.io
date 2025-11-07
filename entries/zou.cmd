@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zou
-* %date-modified --> 2025-11-03
+* %date-modified --> 2025-11-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -286,18 +286,18 @@ W
   ====
 E
   ====
-  - 【晨早】 (san4 zou2):
-    ++
-    1. Very early on, ages ago.
-       ==
-       - 晨早去咗 (san4 zou2 heoi3 zo2): "[I] went ages ago."
-       ==
-    ++
   - 【一早】 (jat1 zou2):
     ++
     1. Very early on, ages ago.
        ==
        - 一早話咗 (jat1 zou2 waa6 zo2): "Said [so] ages ago."
+       ==
+    ++
+  - 【晨早】 (san4 zou2):
+    ++
+    1. Very early on, ages ago.
+       ==
+       - 晨早去咗 (san4 zou2 heoi3 zo2): "[I] went ages ago."
        ==
     ++
   - 【早晨】 (zou2 san4):

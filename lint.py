@@ -59,6 +59,14 @@ class CmdIdioms:
             )
         }
 
+    @staticmethod
+    def strip_compositions(content: str) -> str:
+        return re.sub(
+            pattern=r'\{ (?P<character> \S ) = \S+ \}',
+            repl='',
+            string=content,
+            flags=re.VERBOSE
+        )
 
 class CmdSource:
     file_name: str
@@ -962,6 +970,7 @@ class CharacterEntry:
         CharacterEntry.lint_williams_ellipsis_item_punctuation(w_content)
         CharacterEntry.lint_williams_romanisation_punctuation(w_content)
 
+        CharacterEntry.lint_cantonese_entry_order(cantonese_entries)
         CharacterEntry.lint_see_also_link_order(see_also_links)
 
         self.is_canonical = is_canonical
@@ -1087,6 +1096,24 @@ class CharacterEntry:
             )
 
     @staticmethod
+    def lint_cantonese_entry_order(cantonese_entries: list['CantoneseEntry']):
+        if not cantonese_entries:
+            return
+
+        terms_readable = [
+            f'{CmdIdioms.strip_compositions(cantonese_entry.term)} {cantonese_entry.jyutping_list[0]}'
+            for cantonese_entry in cantonese_entries
+        ]
+        sorted_terms_readable = [
+            f'{CmdIdioms.strip_compositions(cantonese_entry.term)} {cantonese_entry.jyutping_list[0]}'
+            for cantonese_entry in sorted(cantonese_entries)
+        ]
+        if terms_readable != sorted_terms_readable:
+            raise LintException(
+                f'Cantonese entries {terms_readable} not in sorted order (expected {sorted_terms_readable})'
+            )
+
+    @staticmethod
     def lint_see_also_link_order(see_also_links: list[str]):
         if not see_also_links:
             return
@@ -1198,6 +1225,16 @@ class CantoneseEntry:
         self.disambiguation_suffix = disambiguation_suffix
         self.jyutping_list = jyutping_sequence.split(sep=', ')
         self.page_heading_jyutping = page_heading_jyutping
+
+    def __lt__(self, other):
+        return self.sorting_rank() < other.sorting_rank()
+
+    def sorting_rank(self) -> tuple:
+        return (
+            self.jyutping_list,
+            self.jyutping_list[0].split(),
+            CmdIdioms.strip_compositions(self.term),
+        )
 
 
 class Executor:

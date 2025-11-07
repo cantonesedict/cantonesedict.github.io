@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fan
-* %date-modified --> 2025-11-06
+* %date-modified --> 2025-11-07
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -1446,13 +1446,13 @@ E
        - 瞓着咗 (fan3 zoek6 zo2): "Fallen asleep."
        ==
     ++
-  - 【蚊瞓】 (man1 fan3):
-    ++
-    1. Short for [蚊都瞓](#cantonese-蚊都瞓).
-    ++
   - 【蚊都瞓】 (man1 dou1 fan3):
     ++
     1. Way too late. (Literally, "even mosquitoes [are going to] sleep".)
+    ++
+  - 【蚊瞓】 (man1 fan3):
+    ++
+    1. Short for [蚊都瞓](#cantonese-蚊都瞓).
     ++
   - 【眼瞓】 (ngaan5 fan3):
     ++

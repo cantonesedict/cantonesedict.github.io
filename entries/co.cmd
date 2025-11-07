@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> co
-* %date-modified --> 2025-11-04
+* %date-modified --> 2025-11-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -848,18 +848,18 @@ C
   ==
 E
   ====
-  - 【冇錯】 (mou5 co3):
-    ++
-    1. Correct.
-       ==
-       - 冇錯喇 (mou5 co3 la3): "[That's] correct."
-       ==
-    ++
   - 【唔錯】 (m4 co3):
     ++
     1. Not bad (in quality).
        ==
        - 唔錯吖 (m4 co3 a1): "Not bad!"
+       ==
+    ++
+  - 【冇錯】 (mou5 co3):
+    ++
+    1. Correct.
+       ==
+       - 冇錯喇 (mou5 co3 la3): "[That's] correct."
        ==
     ++
   ====
