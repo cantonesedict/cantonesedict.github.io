@@ -425,8 +425,8 @@ class EntryPage:
 
     def self_index(self):
         updated_content = content = self.content
-        updated_content = self.update_tone_navigator(updated_content)
-        updated_content = self.update_character_navigators(updated_content)
+        updated_content = self._update_tone_navigator(updated_content)
+        updated_content = self._update_character_navigators(updated_content)
 
         if updated_content == content:
             return
@@ -436,7 +436,7 @@ class EntryPage:
 
         self.content = updated_content
 
-    def update_tone_navigator(self, content: str) -> str:
+    def _update_tone_navigator(self, content: str) -> str:
         if not self.tone_navigator or not self.tone_navigator.content:
             return content
 
@@ -455,7 +455,7 @@ class EntryPage:
 
         return content.replace(self.tone_navigator.content, tone_navigator_content_expected)
 
-    def update_character_navigators(self, content: str) -> str:
+    def _update_character_navigators(self, content: str) -> str:
         updated_content = content
 
         for character_navigator in self.character_navigators:
