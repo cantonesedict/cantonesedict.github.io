@@ -1261,8 +1261,17 @@ class Executor:
             for cmd_source in cmd_sources
             if (entry_page := cmd_source.entry_page)
         ]
-        # TODO: check consistency between `PageEntry.see_also_links`
-        # TODO: check consistency between `CharacterEntry.see_also_links`
+        entry_page_from_jyutping = {
+            entry_page.page_title: entry_page
+            for entry_page in entry_pages
+        }
+
+        try:
+            Executor.lint_page_entry_see_also_reciprocation(entry_page_from_jyutping)
+            # TODO: Executor.lint_character_entry_see_also_reciprocation(character_entry_from_character)
+        except LintException as lint_exception:
+            print(f'lint error: {lint_exception.message}', file=sys.stderr)
+            sys.exit(1)
 
         self.cmd_sources = cmd_sources
         self.entry_pages = entry_pages
@@ -1320,6 +1329,25 @@ class Executor:
             repl=CmdIdioms.literal_replacement_pattern(incipit_navigator_content_expected),
             flags=re.DOTALL,
         )
+
+    @staticmethod
+    def lint_page_entry_see_also_reciprocation(entry_page_from_jyutping: dict[str, 'EntryPage']):
+        for jyutping, entry_page in entry_page_from_jyutping.items():
+            if not (see_also_links := entry_page.page_entry.see_also_links):
+                continue
+
+            for see_also_link in see_also_links:
+                other_jyutping = see_also_link.replace('$', '')
+
+                if not (other_entry_page := entry_page_from_jyutping.get(other_jyutping)):
+                    continue
+
+                if not other_entry_page.is_done:
+                    continue
+
+                other_see_also_links = other_entry_page.page_entry.see_also_links
+                if not other_see_also_links or f'${jyutping}' not in other_see_also_links:
+                    raise LintException(f'see also `{other_jyutping}` for page entry `{jyutping}` not reciprocated')
 
     @staticmethod
     def _update_entry_links(content: str, entry_pages_from_incipit: dict[str, list['EntryPage']]):
