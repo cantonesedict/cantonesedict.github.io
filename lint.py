@@ -1244,8 +1244,8 @@ class CantoneseEntry:
 
 
 class Executor:
-    cmd_sources: list[CmdSource]
-    entry_page_jyutping_list: list[str]
+    cmd_sources: list['CmdSource']
+    entry_pages: list['EntryPage']
 
     def __init__(self):
         cmd_file_names = [
@@ -1256,8 +1256,8 @@ class Executor:
         ]
 
         cmd_sources = [CmdSource(file_name) for file_name in sorted(cmd_file_names)]
-        entry_page_jyutping_list = [
-            entry_page.page_title
+        entry_pages = [
+            entry_page
             for cmd_source in cmd_sources
             if (entry_page := cmd_source.entry_page)
         ]
@@ -1265,7 +1265,7 @@ class Executor:
         # TODO: check consistency between `CharacterEntry.see_also_links`
 
         self.cmd_sources = cmd_sources
-        self.entry_page_jyutping_list = entry_page_jyutping_list
+        self.entry_pages = entry_pages
 
     def self_index(self):
         for cmd_source in self.cmd_sources:
@@ -1278,15 +1278,17 @@ class Executor:
         # TODO: self.index_radicals()  # characters by radical
 
     def _index_entries(self):
-        entry_page_jyutping_from_incipit: dict[str, list[str]] = {
-            incipit: list(jyutping_iterator)
-            for incipit, jyutping_iterator in groupby(self.entry_page_jyutping_list, key=lambda string: string[0])
+        entry_pages_from_incipit: dict[str, list['EntryPage']] = {
+            incipit: list(cmd_source_iterator)
+            for incipit, cmd_source_iterator
+            in groupby(self.entry_pages, key=lambda entry_page: entry_page.page_title[0])
         }
 
         with open('entries/index.cmd', 'r', encoding='utf-8') as read_file:
             updated_content = content = read_file.read()
 
-        updated_content = self._update_incipit_navigator(updated_content, entry_page_jyutping_from_incipit)
+        updated_content = self._update_incipit_navigator(updated_content, entry_pages_from_incipit)
+        updated_content = self._update_entry_links(updated_content, entry_pages_from_incipit)
 
         if updated_content == content:
             return
@@ -1295,14 +1297,14 @@ class Executor:
             write_file.write(updated_content)
 
     @staticmethod
-    def _update_incipit_navigator(content: str, entry_page_jyutping_from_incipit: dict[str, list[str]]):
+    def _update_incipit_navigator(content: str, entry_pages_from_incipit: dict[str, list['EntryPage']]):
         incipit_navigator_content_expected = '\n'.join([
             '<## incipits ##>',
             '<nav class="sideways">',
             '=={.modern}',
             *[
                 f'- [{incipit_upper}](#{incipit_upper})'
-                for incipit in entry_page_jyutping_from_incipit
+                for incipit in entry_pages_from_incipit
                 if (
                     incipit_upper := incipit.upper(),
                 )
@@ -1316,6 +1318,46 @@ class Executor:
             pattern=r'<## incipits ##>.*?<## /incipits ##>',
             string=content,
             repl=CmdIdioms.literal_replacement_pattern(incipit_navigator_content_expected),
+            flags=re.DOTALL,
+        )
+
+    @staticmethod
+    def _update_entry_links(content: str, entry_pages_from_incipit: dict[str, list['EntryPage']]):
+        entry_links_content_expected = '\n'.join([
+            '<## entries ##>',
+            *[
+                '\n'.join([
+                    '',
+                    f'##{{#{incipit_upper} .modern}} {incipit_upper}',
+                    '',
+                    '<nav>',
+                    '=={.modern}',
+                    *[
+                        '\n'.join([
+                            f'- {link}{parenthetical}'
+                            for entry_page in entry_pages
+                            if (
+                                link := f'${entry_page.page_title}',
+                                parenthetical := '' if entry_page.is_done else ' (work in progress)',
+                            )
+                        ])
+                    ],
+                    '==',
+                    '</nav>',
+                    '',
+                ])
+                for incipit, entry_pages in entry_pages_from_incipit.items()
+                if (
+                    incipit_upper := incipit.upper(),
+                )
+            ],
+            '<## /entries ##>',
+        ])
+
+        return re.sub(
+            pattern=r'<## entries ##>.*?<## /entries ##>',
+            string=content,
+            repl=CmdIdioms.literal_replacement_pattern(entry_links_content_expected),
             flags=re.DOTALL,
         )
 

@@ -49,6 +49,8 @@ See also: [Index of Cantonese terms by Jyutping](/terms/).
 --
 
 
+<## entries ##>
+
 ##{#A .modern} A
 
 <nav>
@@ -849,3 +851,5 @@ See also: [Index of Cantonese terms by Jyutping](/terms/).
 - $zyut
 ==
 </nav>
+
+<## /entries ##>
