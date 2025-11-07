@@ -61,6 +61,14 @@ class CmdIdioms:
             flags=re.VERBOSE
         )
 
+    @staticmethod
+    def lint_see_also_link_order(see_also_links: list[str]):
+        if not see_also_links:
+            return
+
+        if see_also_links != sorted(see_also_links):
+            raise LintException(f'see also links {see_also_links} not in sorted order')
+
 
 class LintException(Exception):
     message: str
@@ -971,7 +979,7 @@ class CharacterEntry:
         CharacterEntry.lint_williams_romanisation_punctuation(w_content)
 
         CharacterEntry.lint_cantonese_entry_order(cantonese_entries)
-        CharacterEntry.lint_see_also_link_order(see_also_links)
+        CmdIdioms.lint_see_also_link_order(see_also_links)
 
         self.is_canonical = is_canonical
         self.is_added = is_added
@@ -1112,14 +1120,6 @@ class CharacterEntry:
             raise LintException(
                 f'Cantonese entries {terms_readable} not in sorted order (expected {sorted_terms_readable})'
             )
-
-    @staticmethod
-    def lint_see_also_link_order(see_also_links: list[str]):
-        if not see_also_links:
-            return
-
-        if see_also_links != sorted(see_also_links):
-            raise LintException(f'see also links {see_also_links} not in sorted order')
 
     @staticmethod
     def extract_radical_strokes_list(content: str) -> list['RadicalStrokes']:
