@@ -1239,6 +1239,8 @@ class CantoneseEntry:
 
 
 class Executor:
+    cmd_sources: list[CmdSource]
+
     def __init__(self):
         cmd_file_names = [
             os.path.normpath(os.path.join(path, file_name)).replace('\\', '/')
@@ -1247,15 +1249,17 @@ class Executor:
             if file_name.endswith('.cmd')
         ]
 
-        self.cmd_sources = [CmdSource(file_name) for file_name in sorted(cmd_file_names)]
+        cmd_sources = [CmdSource(file_name) for file_name in sorted(cmd_file_names)]
+        # TODO: check consistency between `PageEntry.see_also_links`
+        # TODO: check consistency between `CharacterEntry.see_also_links`
+
+        self.cmd_sources = cmd_sources
 
     def self_index(self):
         for cmd_source in self.cmd_sources:
             cmd_source.self_index()
 
     def cross_index(self):
-        # TODO: check consistency between `PageEntry.see_also_links`
-        # TODO: check consistency between `CharacterEntry.see_also_links`
         pass
 
 
