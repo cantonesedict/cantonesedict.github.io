@@ -871,6 +871,7 @@ class CharacterEntry:
     h_content: Optional[str]
     f_content: str
     w_content: str
+    cantonese_entries: Optional[list['CantoneseEntry']]
     see_also_links: Optional[list[str]]
 
     def __init__(self, addition: str, character_run: str, tone_number: str, williams_run: str, jyutping: str,
@@ -937,7 +938,7 @@ class CharacterEntry:
         h_content = content_from_key.get('H')
         f_content = content_from_key['F']
         w_content = content_from_key['W']
-        # TODO: cantonese_entries = CharacterEntry.extract_cantonese_entries(content_from_key['E'])
+        cantonese_entries = CharacterEntry.extract_cantonese_entries(content_from_key.get('E'), page_heading_jyutping)
         see_also_links = CharacterEntry.extract_see_also_links(content_from_key.get('S'))
 
         CharacterEntry.lint_character_against_unicode_code_point(character, unicode_code_point)
@@ -958,6 +959,7 @@ class CharacterEntry:
         self.h_content = h_content
         self.f_content = f_content
         self.w_content = w_content
+        self.cantonese_entries = cantonese_entries
         self.see_also_links = see_also_links
 
     def composed_character(self) -> str:
@@ -1079,6 +1081,29 @@ class CharacterEntry:
         return match.group()
 
     @staticmethod
+    def extract_cantonese_entries(content: Optional[str], page_heading_jyutping: str) -> Optional[list['CantoneseEntry']]:
+        if not content:
+            return None
+
+        return [
+            CantoneseEntry(term, disambiguation_suffix, jyutping_sequence, page_heading_jyutping)
+            for match in re.finditer(
+                pattern=r'''
+                    ^ [ ]+ [-][ ]
+                    【 (?P<term> [^\s-]+ ) (?P<disambiguation_suffix> \S* ) 】
+                    [ ] \( (?P<jyutping_sequence> .* ) \) : $
+                ''',
+                string=content,
+                flags = re.MULTILINE | re.VERBOSE,
+            )
+            if (
+                term := match.group('term'),
+                disambiguation_suffix := match.group('disambiguation_suffix'),
+                jyutping_sequence := match.group('jyutping_sequence'),
+            )
+        ]
+
+    @staticmethod
     def extract_see_also_links(content: Optional[str]) -> Optional[list[str]]:
         if not content:
             return None
@@ -1122,6 +1147,19 @@ class RadicalStrokes:
 
         self.radical = radical
         self.stroke_count = stroke_count
+
+
+class CantoneseEntry:
+    term: str
+    disambiguation_suffix: str
+    jyutping_list: list[str]
+    page_heading_jyutping: str
+
+    def __init__(self, term: str, disambiguation_suffix: str, jyutping_sequence: str, page_heading_jyutping: str):
+        self.term = term
+        self.disambiguation_suffix = disambiguation_suffix
+        self.jyutping_list = jyutping_sequence.split(sep=', ')
+        self.page_heading_jyutping = page_heading_jyutping
 
 
 class Executor:
