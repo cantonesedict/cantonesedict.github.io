@@ -10,6 +10,7 @@ import os
 import re
 import sys
 from collections import defaultdict
+from itertools import groupby
 from typing import Optional
 
 
@@ -37,6 +38,10 @@ KANGXI_RADICALS = ''.join(chr(code_point) for code_point in range(0x2F00, 0x2FD6
 
 
 class CmdIdioms:
+    @staticmethod
+    def literal_replacement_pattern(content: str) -> str:
+        return content.replace('\\', r'\\')
+
     @staticmethod
     def parse_entry_items(content: str) -> dict[str, str]:
         return {
@@ -1240,6 +1245,7 @@ class CantoneseEntry:
 
 class Executor:
     cmd_sources: list[CmdSource]
+    entry_page_jyutping_list: list[str]
 
     def __init__(self):
         cmd_file_names = [
@@ -1250,17 +1256,65 @@ class Executor:
         ]
 
         cmd_sources = [CmdSource(file_name) for file_name in sorted(cmd_file_names)]
+        entry_page_jyutping_list = [
+            entry_page.page_title
+            for cmd_source in cmd_sources
+            if (entry_page := cmd_source.entry_page)
+        ]
         # TODO: check consistency between `PageEntry.see_also_links`
         # TODO: check consistency between `CharacterEntry.see_also_links`
 
         self.cmd_sources = cmd_sources
+        self.entry_page_jyutping_list = entry_page_jyutping_list
 
     def self_index(self):
         for cmd_source in self.cmd_sources:
             cmd_source.self_index()
 
     def cross_index(self):
-        pass
+        self._index_entries()  # entry pages by Jyutping
+        # TODO: self.index_terms()  # Cantonese terms by Jyutping
+        # TODO: self.index_search()  # characters and compositions
+        # TODO: self.index_radicals()  # characters by radical
+
+    def _index_entries(self):
+        entry_page_jyutping_from_incipit: dict[str, list[str]] = {
+            incipit: list(jyutping_iterator)
+            for incipit, jyutping_iterator in groupby(self.entry_page_jyutping_list, key=lambda string: string[0])
+        }
+
+        with open('entries/index.cmd', 'r', encoding='utf-8') as read_file:
+            updated_content = content = read_file.read()
+
+        updated_content = self._update_incipit_navigator(updated_content, entry_page_jyutping_from_incipit)
+
+        if updated_content == content:
+            return
+
+        with open('entries/index.cmd', 'w', encoding='utf-8') as write_file:
+            write_file.write(updated_content)
+
+    @staticmethod
+    def _update_incipit_navigator(content: str, entry_page_jyutping_from_incipit: dict[str, list[str]]):
+        incipit_navigator_content_expected = '\n'.join([
+            '<## incipits ##>',
+            '<nav class="sideways">',
+            '=={.modern}',
+            *[
+                f'- [{incipit.upper()}]'
+                for incipit in entry_page_jyutping_from_incipit
+             ],
+            '==',
+            '</nav>',
+            '<## /incipits ##>',
+        ])
+
+        return re.sub(
+            pattern=r'<## incipits ##>.*?<## /incipits ##>',
+            string=content,
+            repl=CmdIdioms.literal_replacement_pattern(incipit_navigator_content_expected),
+            flags=re.DOTALL,
+        )
 
 
 def main():

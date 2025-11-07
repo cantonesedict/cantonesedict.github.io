@@ -21,6 +21,7 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 
 #{.modern} %title
 
+<## incipits ##>
 <nav class="sideways">
 =={.modern}
 - [A]
@@ -45,6 +46,7 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 - [Z]
 ==
 </nav>
+<## /incipits ##>
 
 --{.modern}
 See also: [Index of Cantonese terms by Jyutping](/terms/).
