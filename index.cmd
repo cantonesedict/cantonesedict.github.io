@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Home
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-07
 * %copyright-prior-years --> 2023--
 * %modern-colour --> crimson
 * %meta-description --> home page
@@ -223,7 +223,7 @@ consisting of:
 --
 ++{.modern}
 1. Transcribing its entries
-   (<span class="williams">black serif text</span>)
+   (<span class="williams">black serif</span>)
    with bullet list formatting for readability;
 
 1. Making (mostly corrective) edits in the form of
@@ -244,14 +244,14 @@ consisting of:
    sorting the entries by radical, then residual strokes,
    then whether it is an extension ideograph, then code point;
 
-1. Inserting Jyutping (%modern-colour sans-serif text)
+1. Inserting Jyutping (%modern-colour sans-serif)
    alongside the Williams romanisations;
 
-1. Inserting characters (%modern-colour sans-serif text)
+1. Inserting characters (%modern-colour sans-serif)
    if not already supplied alongside the Williams romanisations,
    where practicable;
 
-1. Inserting commentary (%modern-colour sans-serif text);
+1. Inserting commentary (%modern-colour sans-serif);
 
 1. Adding supplementary entries for some characters or senses
    that were not recorded by Williams.
