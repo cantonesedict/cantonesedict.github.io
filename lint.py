@@ -382,6 +382,8 @@ class EntryPage:
             character_entries = EntryPage.extract_character_entries(content, page_heading.jyutping)
             character_entries_from_tone_number = EntryPage.collate_character_entries(character_entries)
 
+            EntryPage.lint_tone_heading_order(tone_headings)
+
             EntryPage.lint_page_heading_against_page_entry(page_heading, page_entry)
             EntryPage.lint_page_heading_against_tone_headings(page_heading, tone_headings)
             EntryPage.lint_tone_headings_against_character_navigators(tone_headings, character_navigators)
@@ -543,6 +545,12 @@ class EntryPage:
             character_entries_from_tone_number[character_entry.tone_number].append(character_entry)
 
         return dict(character_entries_from_tone_number)
+
+    @staticmethod
+    def lint_tone_heading_order(tone_headings: list['ToneHeading']):
+        tone_heading_numbers = [tone_heading.tone_number for tone_heading in tone_headings]
+        if tone_heading_numbers != sorted(tone_heading_numbers):
+            raise LintException(f'tone headings {tone_heading_numbers} not in sorted order')
 
     @staticmethod
     def lint_page_heading_against_page_entry(page_heading: 'PageHeading', page_entry: 'PageEntry'):
