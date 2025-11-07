@@ -383,6 +383,7 @@ class EntryPage:
             character_entries_from_tone_number = EntryPage.collate_character_entries(character_entries)
 
             EntryPage.lint_tone_heading_order(tone_headings)
+            EntryPage.lint_character_entry_order(character_entries)
 
             EntryPage.lint_page_heading_against_page_entry(page_heading, page_entry)
             EntryPage.lint_page_heading_against_tone_headings(page_heading, tone_headings)
@@ -551,6 +552,13 @@ class EntryPage:
         tone_heading_numbers = [tone_heading.tone_number for tone_heading in tone_headings]
         if tone_heading_numbers != sorted(tone_heading_numbers):
             raise LintException(f'tone headings {tone_heading_numbers} not in sorted order')
+
+    @staticmethod
+    def lint_character_entry_order(character_entries: list['CharacterEntry']):
+        characters = ''.join(character_entry.character for character_entry in character_entries)
+        sorted_characters = ''.join(character_entry.character for character_entry in sorted(character_entries))
+        if characters != sorted_characters:
+            raise LintException(f'character entries {characters} not in sorted order (expected {sorted_characters})')
 
     @staticmethod
     def lint_page_heading_against_page_entry(page_heading: 'PageHeading', page_entry: 'PageEntry'):
@@ -969,6 +977,18 @@ class CharacterEntry:
         self.w_content = w_content
         self.cantonese_entries = cantonese_entries
         self.see_also_links = see_also_links
+
+    def __lt__(self, other):
+        return self.sorting_rank() < other.sorting_rank()
+
+    def sorting_rank(self) -> tuple:
+        return (
+            self.jyutping,
+            self.radical_strokes_list[0].radical,
+            self.radical_strokes_list[0].stroke_count,
+            not (0x4E00 <= ord(self.character) <= 0x9FFF),  # whether character is an extension ideograph
+            self.character,
+        )
 
     def composed_character(self) -> str:
         if not self.composition:

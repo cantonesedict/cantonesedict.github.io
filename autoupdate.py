@@ -329,20 +329,6 @@ class Page:
             )
         ]
 
-        characters = ''.join(character_entry.character for character_entry in self.character_entries)
-        sorted_characters = ''.join(character_entry.character for character_entry in sorted(self.character_entries))
-        common_prefix_length = len(os.path.commonprefix([characters, sorted_characters]))
-        discrepancy_marking = common_prefix_length * '　' + '＊'  # U+3000 and U+FF0A (fullwidth space and asterisk)
-        if characters != sorted_characters:
-            print(
-                f'Error: character entries not in sorted order\n'
-                f'  ({sorted_characters}) expected\n'
-                f'   {discrepancy_marking}\n'
-                f'  ({characters}) observed',
-                file=sys.stderr,
-            )
-            sys.exit(1)
-
 
 class CantoneseEntry:
     def __init__(self, term, disambiguation, term_jyutping, page_jyutping):
