@@ -13,10 +13,6 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 - queue_position: AFTER #.boilerplate.footer
 * %black-serif-note -->
 
-RegexDictionaryReplacement: #.incipit-navigation-links
-- queue_position: BEFORE #specified-links
-* \[ (?P<letter> [A-Z] ) \] --> [\g<letter>](#\g<letter>)
-
 %%%
 
 #{.modern} %title
@@ -24,26 +20,26 @@ RegexDictionaryReplacement: #.incipit-navigation-links
 <## incipits ##>
 <nav class="sideways">
 =={.modern}
-- [A]
-- [B]
-- [C]
-- [D]
-- [E]
-- [F]
-- [G]
-- [H]
-- [J]
-- [K]
-- [L]
-- [M]
-- [N]
-- [O]
-- [P]
-- [S]
-- [T]
-- [U]
-- [W]
-- [Z]
+- [A](#A)
+- [B](#B)
+- [C](#C)
+- [D](#D)
+- [E](#E)
+- [F](#F)
+- [G](#G)
+- [H](#H)
+- [J](#J)
+- [K](#K)
+- [L](#L)
+- [M](#M)
+- [N](#N)
+- [O](#O)
+- [P](#P)
+- [S](#S)
+- [T](#T)
+- [U](#U)
+- [W](#W)
+- [Z](#Z)
 ==
 </nav>
 <## /incipits ##>

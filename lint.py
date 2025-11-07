@@ -1301,8 +1301,11 @@ class Executor:
             '<nav class="sideways">',
             '=={.modern}',
             *[
-                f'- [{incipit.upper()}]'
+                f'- [{incipit_upper}](#{incipit_upper})'
                 for incipit in entry_page_jyutping_from_incipit
+                if (
+                    incipit_upper := incipit.upper(),
+                )
              ],
             '==',
             '</nav>',
