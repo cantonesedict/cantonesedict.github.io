@@ -724,6 +724,7 @@ class PageEntry:
 
             PageEntry.lint_williams_heading_lists(wh_williams_list, wp_williams_list)
             PageEntry.lint_page_heading_against_mp(page_heading_jyutping, mp_jyutping_list)
+            CmdIdioms.lint_see_also_link_order(see_also_links)
         else:
             content_from_key = None
             wh_williams_list = None
