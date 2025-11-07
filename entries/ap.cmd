@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ap
-* %date-modified --> 2025-11-04
+* %date-modified --> 2025-11-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -107,9 +107,9 @@ E
   ====
 S
   ==
+  - $洽haap6 (TODO)
   - $洽hap1 (TODO)
   - $洽hap6 (TODO)
-  - $洽haap6 (TODO)
   - $洽ngap1 (TODO)
   ==
 $$

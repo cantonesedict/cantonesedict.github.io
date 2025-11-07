@@ -962,6 +962,8 @@ class CharacterEntry:
         CharacterEntry.lint_williams_ellipsis_item_punctuation(w_content)
         CharacterEntry.lint_williams_romanisation_punctuation(w_content)
 
+        CharacterEntry.lint_see_also_link_order(see_also_links)
+
         self.is_canonical = is_canonical
         self.is_added = is_added
         self.character = character
@@ -1083,6 +1085,14 @@ class CharacterEntry:
                 f'missing comma after supplied Jyutping for Williams left-tone in `{missing_comma_context_reduced}` '
                 f'(suppress with caret after closing square brackets if legitimate)'
             )
+
+    @staticmethod
+    def lint_see_also_link_order(see_also_links: list[str]):
+        if not see_also_links:
+            return
+
+        if see_also_links != sorted(see_also_links):
+            raise LintException(f'see also links {see_also_links} not in sorted order')
 
     @staticmethod
     def extract_radical_strokes_list(content: str) -> list['RadicalStrokes']:
