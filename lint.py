@@ -1297,7 +1297,7 @@ class CantoneseEntry:
         return f'/{url_path}#{url_fragment}'
 
 
-class Executor:
+class Linter:
     cmd_sources: list['CmdSource']
     entry_pages: list['EntryPage']
 
@@ -1329,10 +1329,10 @@ class Executor:
         ]
 
         try:
-            Executor.lint_page_entry_see_also_reciprocation(entry_pages)
-            Executor.lint_character_entry_invariants(character_entries)
-            Executor.lint_character_entry_see_also_reciprocation(character_entries)
-            Executor.lint_cantonese_entry_url_duplication(cantonese_entries)
+            Linter.lint_page_entry_see_also_reciprocation(entry_pages)
+            Linter.lint_character_entry_invariants(character_entries)
+            Linter.lint_character_entry_see_also_reciprocation(character_entries)
+            Linter.lint_cantonese_entry_url_duplication(cantonese_entries)
         except LintException as lint_exception:
             print(f'Error: {lint_exception.message}', file=sys.stderr)
             sys.exit(1)
@@ -1427,9 +1427,9 @@ class Executor:
         )
 
         for character, collated_character_entries in collated_character_entries_from_character.items():
-            Executor.lint_character_entry_composition_consistency(character, collated_character_entries)
-            Executor.lint_character_entry_radical_strokes_consistency(character, collated_character_entries)
-            Executor.lint_character_entry_han_unification_vigilance_consistency(character, collated_character_entries)
+            Linter.lint_character_entry_composition_consistency(character, collated_character_entries)
+            Linter.lint_character_entry_radical_strokes_consistency(character, collated_character_entries)
+            Linter.lint_character_entry_han_unification_vigilance_consistency(character, collated_character_entries)
 
     @staticmethod
     def lint_character_entry_composition_consistency(character: str, character_entries: list['CharacterEntry']):
@@ -1579,9 +1579,9 @@ class Executor:
 
 
 def main():
-    executor = Executor()
-    executor.self_index()
-    executor.cross_index()
+    linter = Linter()
+    linter.self_index()
+    linter.cross_index()
 
 
 if __name__ == '__main__':
