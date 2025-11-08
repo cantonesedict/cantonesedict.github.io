@@ -1033,6 +1033,9 @@ class CharacterEntry:
     def __lt__(self, other):
         return self.sorting_rank() < other.sorting_rank()
 
+    def __str__(self):
+        return self.heading_content
+
     def sorting_rank(self) -> tuple:
         return (
             self.jyutping,
@@ -1404,9 +1407,7 @@ class Executor:
                     string=see_also_link,
                     flags=re.VERBOSE,
                 )):
-                    raise LintException(
-                        f'bad see also link `{see_also_link}` under `{character_entry.heading_content}`'
-                    )
+                    raise LintException(f'bad see also link `{see_also_link}` under `{character_entry}`')
 
                 other_character_content = other_link_match.group('other_character_content')
                 other_jyutping = other_link_match.group('other_jyutping')
@@ -1415,7 +1416,7 @@ class Executor:
                 if character != other_character:
                     raise LintException(
                         f'wrong character `{other_character}` in see also link `{see_also_link}` '
-                        f'under `{character_entry.heading_content}`'
+                        f'under `{character_entry}`'
                     )
 
                 try:
