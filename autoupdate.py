@@ -63,25 +63,11 @@ class Indexer:
         for radix_cmd_name in self.radix_cmd_names:
             self._update_radix(radix_cmd_name)
 
-    def write_character_index(self):
-        raw_json = json.dumps(self.character_index_object, ensure_ascii=False, separators=(',', ':'))
-        nice_json = raw_json.replace('],', '],\n') + '\n'  # newlines but only at the top level
-
-        with open('search/character-index.json', 'w', encoding='utf-8') as json_file:
-            json_file.write(nice_json)
-
     def write_radical_index(self):
         raw_json = json.dumps(self.radical_index_object, ensure_ascii=False, separators=(',', ':'), sort_keys=True)
         nice_json = raw_json.replace('},', '},\n') + '\n'  # newlines but only at the top level
 
         with open('radicals/radical-index.json', 'w', encoding='utf-8') as json_file:
-            json_file.write(nice_json)
-
-    def write_composition_index(self):
-        raw_json = json.dumps(self.composition_index_object, ensure_ascii=False, separators=(',', ':'), sort_keys=True)
-        nice_json = raw_json.replace(',', ',\n') + '\n'  # newlines but only at the top level
-
-        with open('search/composition-index.json', 'w', encoding='utf-8') as json_file:
             json_file.write(nice_json)
 
     def _gather_character_index(self):
@@ -407,9 +393,7 @@ def main():
 
     indexer = Indexer(updater.entry_cmd_names)
     indexer.update_radix_all()
-    indexer.write_character_index()
     # indexer.write_radical_index()
-    indexer.write_composition_index()
 
     statistician = Statistician(indexer)
     statistician.print_statistics()
