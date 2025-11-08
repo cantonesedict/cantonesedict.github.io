@@ -465,17 +465,17 @@ class EntryPage:
         self.character_entries = character_entries
 
     def index_self(self):
-        updated_content = content = self.content
-        updated_content = self._replace_tone_navigator(updated_content)
-        updated_content = self._replace_character_navigators(updated_content)
+        new_content = content = self.content
+        new_content = self._replace_tone_navigator(new_content)
+        new_content = self._replace_character_navigators(new_content)
 
-        if updated_content == content:
+        if new_content == content:
             return
 
         with open(self.file_name, 'w') as cmd_file:
-            cmd_file.write(updated_content)
+            cmd_file.write(new_content)
 
-        self.content = updated_content
+        self.content = new_content
 
     def _replace_tone_navigator(self, content: str) -> str:
         if self.tone_navigator.content is None:
@@ -497,7 +497,7 @@ class EntryPage:
         return content.replace(self.tone_navigator.content, tone_navigator_content_expected)
 
     def _replace_character_navigators(self, content: str) -> str:
-        updated_content = content
+        new_content = content
 
         character_entries_from_tone_number = Utilities.collate_firsts_by_second(
             (character_entry, character_entry.tone_number)
@@ -519,9 +519,9 @@ class EntryPage:
                 f'<## /tone-{tone_number}-characters ##>',
             ])
 
-            updated_content = updated_content.replace(character_navigator.content, character_navigator_content_expected)
+            new_content = new_content.replace(character_navigator.content, character_navigator_content_expected)
 
-        return updated_content
+        return new_content
 
     @staticmethod
     def extract_page_title(page_content: str) -> str:
@@ -1376,16 +1376,16 @@ class Linter:
         )
 
         with open('entries/index.cmd', 'r', encoding='utf-8') as read_file:
-            updated_content = content = read_file.read()
+            new_content = content = read_file.read()
 
-        updated_content = Linter._replace_incipit_navigator(updated_content, entry_pages_from_incipit)
-        updated_content = Linter._replace_entry_links(updated_content, entry_pages_from_incipit)
+        new_content = Linter._replace_incipit_navigator(new_content, entry_pages_from_incipit)
+        new_content = Linter._replace_entry_links(new_content, entry_pages_from_incipit)
 
-        if updated_content == content:
+        if new_content == content:
             return
 
         with open('entries/index.cmd', 'w', encoding='utf-8') as write_file:
-            write_file.write(updated_content)
+            write_file.write(new_content)
 
     def index_terms(self):
         split_cantonese_entries = sorted(
@@ -1395,15 +1395,15 @@ class Linter:
         )
 
         with open('terms/index.cmd', 'r', encoding='utf-8') as read_file:
-            updated_content = content = read_file.read()
+            new_content = content = read_file.read()
 
-        updated_content = self._replace_terms_table(updated_content, split_cantonese_entries)
+        new_content = self._replace_terms_table(new_content, split_cantonese_entries)
 
-        if updated_content == content:
+        if new_content == content:
             return
 
         with open('terms/index.cmd', 'w', encoding='utf-8') as write_file:
-            write_file.write(updated_content)
+            write_file.write(new_content)
 
     @staticmethod
     def _replace_incipit_navigator(content: str, entry_pages_from_incipit: dict[str, list['EntryPage']]) -> str:
