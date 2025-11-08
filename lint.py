@@ -1410,11 +1410,11 @@ class Executor:
         )
 
         for character, character_entries in character_entries_from_character.items():
-            Executor.lint_character_entry_r_consistency(character, character_entries)
-            Executor.lint_character_entry_h_consistency(character, character_entries)
+            Executor.lint_character_entry_radical_strokes_consistency(character, character_entries)
+            Executor.lint_character_entry_han_unification_vigilance_consistency(character, character_entries)
 
     @staticmethod
-    def lint_character_entry_r_consistency(character: str, character_entries: list['CharacterEntry']):
+    def lint_character_entry_radical_strokes_consistency(character: str, character_entries: list['CharacterEntry']):
         character_entries_from_radical_strokes_values = Utilities.collate_firsts_by_second(
             (character_entry, tuple(character_entry.radical_strokes_list))
             for character_entry in character_entries
@@ -1429,7 +1429,7 @@ class Executor:
             raise LintException(f'inconsistent R content for character `{character}`: {collation_readable}')
 
     @staticmethod
-    def lint_character_entry_h_consistency(character: str, character_entries: list['CharacterEntry']):
+    def lint_character_entry_han_unification_vigilance_consistency(character: str, character_entries: list['CharacterEntry']):
         character_entries_from_h_content = Utilities.collate_firsts_by_second(
             (character_entry, character_entry.h_content)
             for character_entry in character_entries
