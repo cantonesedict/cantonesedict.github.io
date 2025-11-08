@@ -11,7 +11,10 @@ import re
 import sys
 from collections import defaultdict
 from itertools import groupby
-from typing import Optional
+from typing import Optional, TypeVar
+
+T1 = TypeVar('T1')
+T2 = TypeVar('T2')
 
 
 CANTONESE_TONES_CHINESE = ['陰平', '陰上', '陰去', '陽平', '陽上', '陽去', '高陰入', '低陰入', '陽入']
@@ -45,6 +48,15 @@ class Utilities:
     @staticmethod
     def unicode_code_point(character: str) -> str:
         return f'U+{ord(character):X}'
+
+    @staticmethod
+    def collate_first_by_second(pairs: list[tuple[T1, T2]]) -> dict[T2, list[T1]]:
+        firsts_from_second: dict[T2, list[T1]] = defaultdict(list)
+
+        for first, second in pairs:
+            firsts_from_second[second].append(first)
+
+        return dict(firsts_from_second)
 
 
 class CmdIdioms:
@@ -410,7 +422,10 @@ class EntryPage:
             tone_headings = EntryPage.extract_tone_headings(content, page_heading.jyutping)
             character_navigators = EntryPage.extract_character_navigators(content)
             character_entries = EntryPage.extract_character_entries(content, page_heading.jyutping)
-            character_entries_from_tone_number = EntryPage.collate_character_entries(character_entries)
+            character_entries_from_tone_number = Utilities.collate_first_by_second([
+                (character_entry, character_entry.tone_number)
+                for character_entry in character_entries
+            ])
 
             EntryPage.lint_tone_heading_order(tone_headings)
             EntryPage.lint_character_entry_order(character_entries)
@@ -564,15 +579,6 @@ class EntryPage:
                 content := match.group('content'),
             )
         ]
-
-    @staticmethod
-    def collate_character_entries(character_entries: list['CharacterEntry']) -> dict[str, list]:
-        character_entries_from_tone_number: defaultdict[str, list['CharacterEntry']] = defaultdict(list)
-
-        for character_entry in character_entries:
-            character_entries_from_tone_number[character_entry.tone_number].append(character_entry)
-
-        return dict(character_entries_from_tone_number)
 
     @staticmethod
     def lint_tone_heading_order(tone_headings: list['ToneHeading']):
