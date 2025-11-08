@@ -1344,7 +1344,9 @@ class Executor:
             for entry_page in entry_pages
         }
 
-        for jyutping, entry_page in entry_page_from_jyutping.items():
+        for entry_page in entry_pages:
+            jyutping = entry_page.page_title
+
             if (see_also_links := entry_page.page_entry.see_also_links) is None:
                 continue
 
