@@ -204,7 +204,7 @@ class CmdSource:
 
     @staticmethod
     def lint_cjk_non_bmp_composition(content: str):
-        non_exempt_content = re.sub(pattern=r'#cantonese-[⺀-〿㇀-㇣㐀-鿼豈-龎！-｠𠀀-𱍊]+', repl='', string=content)
+        non_exempt_content = re.sub(pattern='#cantonese-[⺀-〿㇀-㇣㐀-鿼豈-龎！-｠𠀀-𱍊]+', repl='', string=content)
         whitelist = '𠂉𠂢𠆢𠔿𠦄𠫓𡈼𤣩𥫗𦈢𦣝𦣞𦥑𧰼𧶠𧾷𩙿'
         if context_match := re.search(
             pattern=fr'\S* (?! [{whitelist}] ) (?P<character> [\U00020000-\U0003134A] ) (?! [=@^] ) \S*',
@@ -338,7 +338,7 @@ class CmdSource:
     @staticmethod
     def lint_williams_nasal_apostrophe(content: str):
         if run_match := re.search(
-            pattern=r"(?: m | ng ) ' ",
+            pattern="(?: m | ng ) ' ",
             string=content,
             flags=re.IGNORECASE | re.VERBOSE,
         ):
@@ -569,7 +569,7 @@ class EntryPage:
         return [
             CharacterNavigator(content, tone_number)
             for match in re.finditer(
-                pattern=r'<## tone-(?P<tone_number>[1-6])-characters ##>.*?<## /tone-(?P=tone_number)-characters ##>',
+                pattern='<## tone-(?P<tone_number>[1-6])-characters ##>.*?<## /tone-(?P=tone_number)-characters ##>',
                 string=page_content,
                 flags=re.DOTALL | re.MULTILINE,
             )
@@ -738,7 +738,7 @@ class PageHeading:
             raise LintException(f'inconsistent page heading Jyutping `{jyutping}` vs page title `{page_title}`')
 
         williams_list = [
-            re.sub(pattern=r'[.]', repl='', string=williams)
+            re.sub(pattern='[.]', repl='', string=williams)
             for williams in williams_run.split()
         ]
 
@@ -868,7 +868,7 @@ class ToneNavigator:
 
     def __init__(self, page_content: str):
         if match := re.search(
-            pattern=r'<## tones ##>.*?<## /tones ##>',
+            pattern='<## tones ##>.*?<## /tones ##>',
             string=page_content,
             flags=re.DOTALL,
         ):
@@ -918,7 +918,7 @@ class ToneHeading:
             raise LintException(f'Jyutping `{jyutping}` is not `{chinese}` in tone heading `{content}`')
 
         williams_list = [
-            re.sub(pattern=r'[.^]', repl='', string=williams)
+            re.sub(pattern='[.^]', repl='', string=williams)
             for williams in williams_run.split()
         ]
 
@@ -1182,7 +1182,7 @@ class CharacterEntry:
         return [
             RadicalStrokes(radical_strokes_run)
             for match in re.finditer(
-                pattern=r'^ [ ]+ (?P<radical_strokes_run> .*? ) $',
+                pattern='^ [ ]+ (?P<radical_strokes_run> .*? ) $',
                 flags=re.MULTILINE | re.VERBOSE,
                 string=content,
             )
@@ -1481,7 +1481,7 @@ class Linter:
         ])
 
         return re.sub(
-            pattern=r'<## incipits ##>.*?<## /incipits ##>',
+            pattern='<## incipits ##>.*?<## /incipits ##>',
             repl=Utilities.literal_replacement_pattern(incipit_navigator_content_expected),
             string=content,
             flags=re.DOTALL,
@@ -1662,7 +1662,7 @@ class Linter:
         ])
 
         return re.sub(
-            pattern=r'<## entries ##>.*?<## /entries ##>',
+            pattern='<## entries ##>.*?<## /entries ##>',
             repl=Utilities.literal_replacement_pattern(entry_links_content_expected),
             string=content,
             flags=re.DOTALL,
@@ -1703,7 +1703,7 @@ class Linter:
         ])
 
         return re.sub(
-            pattern=r'<## terms-table ##>.*?<## /terms-table ##>',
+            pattern='<## terms-table ##>.*?<## /terms-table ##>',
             repl=Utilities.literal_replacement_pattern(terms_table_content_expected),
             string=content,
             flags=re.DOTALL,
