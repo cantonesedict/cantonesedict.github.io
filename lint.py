@@ -16,7 +16,6 @@ T1 = TypeVar('T1')
 T2 = TypeVar('T2')
 T3 = TypeVar('T3')
 
-
 CANTONESE_TONES_CHINESE = ['陰平', '陰上', '陰去', '陽平', '陽上', '陽去', '高陰入', '低陰入', '陽入']
 CJK_UNIFIED_IDEOGRAPH_RADICALS = (
     '一丨丶丿乙亅'
@@ -1572,7 +1571,6 @@ class Linter:
         for url, collated_cantonese_entries in collated_cantonese_entries_from_url.items():
             if len(collated_cantonese_entries) > 1:
                 raise LintException(f'duplicated Cantonese entry URL `{url}`')
-
 
     @staticmethod
     def _replace_entry_links(content: str, entry_pages_from_incipit: dict[str, list['EntryPage']]) -> str:
