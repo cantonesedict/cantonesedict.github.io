@@ -1272,9 +1272,15 @@ class CantoneseEntry:
     page_heading_jyutping: str
 
     def __init__(self, term: str, disambiguation_suffix: str, jyutping_content: str, page_heading_jyutping: str):
+        jyutping_list = jyutping_content.split(sep=', ')
+        jyutping_set = set(jyutping_list)
+
+        if len(jyutping_set) < len(jyutping_list):
+            raise LintException(f'duplicate Jyutping readings in `{jyutping_content}` for Cantonese term `{term}`')
+
         self.term = term
         self.disambiguation_suffix = disambiguation_suffix
-        self.jyutping_list = jyutping_content.split(sep=', ')
+        self.jyutping_list = jyutping_list
         self.page_heading_jyutping = page_heading_jyutping
 
     def __lt__(self, other):
