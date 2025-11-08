@@ -10,7 +10,7 @@ import os
 import re
 import sys
 from collections import defaultdict
-from typing import Optional, TypeVar
+from typing import Iterable, Optional, TypeVar
 
 T1 = TypeVar('T1')
 T2 = TypeVar('T2')
@@ -50,7 +50,7 @@ class Utilities:
         return f'U+{ord(character):X}'
 
     @staticmethod
-    def collate_firsts_by_second(pairs: list[tuple[T1, T2]]) -> dict[T2, list[T1]]:
+    def collate_firsts_by_second(pairs: Iterable[tuple[T1, T2]]) -> dict[T2, list[T1]]:
         firsts_from_second: dict[T2, list[T1]] = defaultdict(list)
 
         for first, second in pairs:
@@ -59,7 +59,7 @@ class Utilities:
         return dict(firsts_from_second)
 
     @staticmethod
-    def collate_first_by_second_by_third(triples: list[tuple[T1, T2, T3]]) -> dict[T3, dict[T2, T1]]:
+    def collate_first_by_second_by_third(triples: Iterable[tuple[T1, T2, T3]]) -> dict[T3, dict[T2, T1]]:
         first_from_second_from_third: dict[T3, dict[T2, T1]] = defaultdict(dict)
 
         for first, second, third in triples:
@@ -489,10 +489,10 @@ class EntryPage:
     def _update_character_navigators(self, content: str) -> str:
         updated_content = content
 
-        character_entries_from_tone_number = Utilities.collate_firsts_by_second([
+        character_entries_from_tone_number = Utilities.collate_firsts_by_second(
             (character_entry, character_entry.tone_number)
             for character_entry in self.character_entries
-        ])
+        )
 
         for character_navigator in self.character_navigators:
             tone_number = character_navigator.tone_number
@@ -1313,10 +1313,10 @@ class Executor:
         # TODO: self.index_radicals()  # characters by radical
 
     def _index_entries(self):
-        entry_pages_from_incipit = Utilities.collate_firsts_by_second([
+        entry_pages_from_incipit = Utilities.collate_firsts_by_second(
             (entry_page, entry_page.page_title[0])
             for entry_page in self.entry_pages
-        ])
+        )
 
         with open('entries/index.cmd', 'r', encoding='utf-8') as read_file:
             updated_content = content = read_file.read()
@@ -1383,10 +1383,10 @@ class Executor:
 
     @staticmethod
     def lint_character_entry_see_also_reciprocation(character_entries: list['CharacterEntry']):
-        character_entry_from_jyutping_from_character = Utilities.collate_first_by_second_by_third([
+        character_entry_from_jyutping_from_character = Utilities.collate_first_by_second_by_third(
             (character_entry, character_entry.jyutping, character_entry.character)
             for character_entry in character_entries
-        ])
+        )
 
         for character_entry in character_entries:
             character = character_entry.character
