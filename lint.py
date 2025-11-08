@@ -564,13 +564,15 @@ class EntryPage:
     @staticmethod
     def extract_character_entries(page_content: str, page_heading_jyutping: str) -> list['CharacterEntry']:
         return [
-            CharacterEntry(addition, character_run, tone_number, williams_run, jyutping, non_canonical, content,
-                           page_heading_jyutping)
+            CharacterEntry(heading_content, addition, character_run, tone_number, williams_run, jyutping, non_canonical,
+                           content, page_heading_jyutping)
             for match in re.finditer(
                 pattern=r'''
-                    ^ [#]{3} (?P<addition> [+]? ) [ ]
-                    (?P<character_run> \S+ ) (?P<tone_number> [1-6] ) [ ][|][ ]
-                    (?P<williams_run> .*? ) [ ] \[\[ (?P<jyutping> [a-z]+[1-6] ) \]\]
+                    ^ (?P<heading_content>
+                        [#]{3} (?P<addition> [+]? ) [ ]
+                        (?P<character_run> \S+ ) (?P<tone_number> [1-6] ) [ ][|][ ]
+                        (?P<williams_run> .*? ) [ ] \[\[ (?P<jyutping> [a-z]+[1-6] ) \]\]
+                    )
                     \n\n
                     ^ [$]{2} (?P<non_canonical> [.]? ) \n
                     (?P<content> (?s: .+? ) )
@@ -580,6 +582,7 @@ class EntryPage:
                 flags=re.MULTILINE | re.VERBOSE,
             )
             if (
+                heading_content := match.group('heading_content'),
                 addition := match.group('addition'),
                 character_run := match.group('character_run'),
                 tone_number := match.group('tone_number'),
@@ -918,6 +921,7 @@ class CharacterNavigator:
 
 
 class CharacterEntry:
+    heading_content: str
     is_canonical: bool
     is_added: bool
     character: str
@@ -934,10 +938,8 @@ class CharacterEntry:
     cantonese_entries: Optional[list['CantoneseEntry']]
     see_also_links: Optional[list[str]]
 
-    def __init__(self, addition: str, character_run: str, tone_number: str, williams_run: str, jyutping: str,
-                 non_canonical: str, content: str, page_heading_jyutping: str):
-        heading_readable = f'###{addition} {character_run}{tone_number}'  # for LintException messages
-
+    def __init__(self, heading_content: str, addition: str, character_run: str, tone_number: str, williams_run: str,
+                 jyutping: str, non_canonical: str, content: str, page_heading_jyutping: str):
         is_canonical = not non_canonical
         is_added = bool(addition)
 
@@ -959,12 +961,14 @@ class CharacterEntry:
             character = reduced_character_run
             composition = None
         else:
-            raise LintException(f'invalid character run `{character_run}` in character entry `{heading_readable}`')
+            raise LintException(
+                f'invalid character run `{character_run}` in heading `{heading_content}`'
+            )
 
         if f'{page_heading_jyutping}{tone_number}' != jyutping:
             raise LintException(
                 f'inconsistent page heading Jyutping `{page_heading_jyutping}` and tone number `{tone_number}` '
-                f'vs Jyutping `{jyutping}` in character entry `{heading_readable}`'
+                f'vs Jyutping `{jyutping}` in heading `{heading_content}`'
             )
 
         reduced_williams_run = re.sub(pattern='~~.+?~~', repl='', string=williams_run)
@@ -972,7 +976,7 @@ class CharacterEntry:
 
         if len(williams_tones) != 1:
             raise LintException(
-                f'non-sole Williams tones `{williams_tones}` found in character entry `{heading_readable}`'
+                f'non-sole Williams tones `{williams_tones}` found in heading `{heading_content}`'
             )
 
         williams_tone = williams_tones.pop()
@@ -991,7 +995,7 @@ class CharacterEntry:
 
         content_from_key = CmdIdioms.parse_entry_items(content)
 
-        CharacterEntry.lint_keys(content_from_key, heading_readable)
+        CharacterEntry.lint_keys(content_from_key, heading_content)
 
         radical_strokes_list = CharacterEntry.extract_radical_strokes_list(content_from_key['R'])
         unicode_code_point = CharacterEntry.extract_unicode_code_point(content_from_key['U'])
@@ -1009,6 +1013,7 @@ class CharacterEntry:
         CharacterEntry.lint_cantonese_entry_order(cantonese_entries)
         CmdIdioms.lint_see_also_link_order(see_also_links)
 
+        self.heading_content = heading_content
         self.is_canonical = is_canonical
         self.is_added = is_added
         self.character = character
@@ -1050,7 +1055,7 @@ class CharacterEntry:
         return f'${self.composed_character()}{self.jyutping}'
 
     @staticmethod
-    def lint_keys(content_from_key: dict[str, str], heading_readable: str):
+    def lint_keys(content_from_key: dict[str, str], heading_content: str):
         keys = ''.join(f'{key} ' for key in content_from_key)
         pattern_readable = 'R U [H] [A] [V] F W [C] [P] [E] [S] '
         pattern = re.sub(
@@ -1062,8 +1067,7 @@ class CharacterEntry:
 
         if not re.fullmatch(pattern=pattern, string=keys):
             raise LintException(
-                f'character entry keys `{keys}` do not match pattern `{pattern_readable}` '
-                f'in character entry `{heading_readable}`'
+                f'character entry keys `{keys}` do not match pattern `{pattern_readable}` under `{heading_content}`'
             )
 
     @staticmethod
@@ -1390,7 +1394,6 @@ class Executor:
 
         for character_entry in character_entries:
             character = character_entry.character
-            jyutping = character_entry.jyutping
 
             if (see_also_links := character_entry.see_also_links) is None:
                 continue
@@ -1402,7 +1405,7 @@ class Executor:
                     flags=re.VERBOSE,
                 )):
                     raise LintException(
-                        f'bad see also link `{see_also_link}` for character entry `{character} {jyutping}`'
+                        f'bad see also link `{see_also_link}` under `{character_entry.heading_content}`'
                     )
 
                 other_character_content = other_link_match.group('other_character_content')
@@ -1411,8 +1414,8 @@ class Executor:
                 other_character = CmdIdioms.strip_compositions(other_character_content)
                 if character != other_character:
                     raise LintException(
-                        f'wrong character in see also link `{see_also_link}` '
-                        f'under character entry for `{character} {jyutping}`'
+                        f'wrong character `{other_character}` in see also link `{see_also_link}` '
+                        f'under `{character_entry.heading_content}`'
                     )
 
                 try:
