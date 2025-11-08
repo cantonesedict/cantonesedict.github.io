@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -144,8 +144,8 @@ C
   ==
 S
   ==
-  - $葚sam4 (TODO)
-  - $葚sam6 (TODO)
+  - $椹sam4 (TODO)
+  - $椹sam6 (TODO)
   ==
 $$
 

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> nge
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-08
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -75,6 +75,7 @@ W
 S
   ==
   - ${𫫃=⿰口挨}ai1
+  - ${𫫃=⿰口挨}e1
   - ${𫫃=⿰口挨}nge4
   ==
 $$

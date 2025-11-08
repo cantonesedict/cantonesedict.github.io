@@ -1046,6 +1046,9 @@ class CharacterEntry:
     def same_page_link(self) -> str:
         return f'${self.composed_character()}{self.tone_number}'
 
+    def universal_link(self) -> str:
+        return f'${self.composed_character()}{self.jyutping}'
+
     @staticmethod
     def lint_keys(content_from_key: dict[str, str], heading_readable: str):
         keys = ''.join(f'{key} ' for key in content_from_key)
@@ -1376,7 +1379,7 @@ class Executor:
 
                 other_see_also_links = other_entry_page.page_entry.see_also_links
                 if other_see_also_links is None or f'${jyutping}' not in other_see_also_links:
-                    raise LintException(f'see also `{other_jyutping}` for page entry `{jyutping}` not reciprocated')
+                    raise LintException(f'see also `${other_jyutping}` for page entry `{jyutping}` not reciprocated')
 
     @staticmethod
     def lint_character_entry_see_also_reciprocation(character_entries: list['CharacterEntry']):
@@ -1394,15 +1397,35 @@ class Executor:
 
             for see_also_link in see_also_links:
                 if not (other_link_match := re.fullmatch(
-                    pattern=r'\$ (?P<character_content> \S+? ) (?P<jyutping> [a-z]+[1-6] )',
+                    pattern=r'\$ (?P<other_character_content> \S+? ) (?P<other_jyutping> [a-z]+[1-6] )',
                     string=see_also_link,
                     flags=re.VERBOSE,
                 )):
                     raise LintException(
-                        f'bad see also link `{see_also_link}` for character entry {character} {jyutping}'
+                        f'bad see also link `{see_also_link}` for character entry `{character} {jyutping}`'
                     )
 
-                # TODO: actual reciprocation logic
+                other_character_content = other_link_match.group('other_character_content')
+                other_jyutping = other_link_match.group('other_jyutping')
+
+                other_character = CmdIdioms.strip_compositions(other_character_content)
+                if character != other_character:
+                    raise LintException(
+                        f'wrong character in see also link `{see_also_link}` '
+                        f'under character entry for `{character} {jyutping}`'
+                    )
+
+                try:
+                    other_character_entry = character_entry_from_jyutping_from_character[character][other_jyutping]
+                except KeyError:
+                    continue
+
+                other_see_also_links = other_character_entry.see_also_links
+                if other_see_also_links is None or character_entry.universal_link() not in other_see_also_links:
+                    raise LintException(
+                        f'missing see also link `{character_entry.universal_link()}` '
+                        f'under character entry for `{other_character} {other_jyutping}`'
+                    )
 
     @staticmethod
     def _update_entry_links(content: str, entry_pages_from_incipit: dict[str, list['EntryPage']]):
