@@ -1273,13 +1273,9 @@ class Executor:
             for cmd_source in cmd_sources
             if (entry_page := cmd_source.entry_page) is not None
         ]
-        entry_page_from_jyutping = {
-            entry_page.page_title: entry_page
-            for entry_page in entry_pages
-        }
 
         try:
-            Executor.lint_page_entry_see_also_reciprocation(entry_page_from_jyutping)
+            Executor.lint_page_entry_see_also_reciprocation(entry_pages)
             # TODO: Executor.lint_character_entry_see_also_reciprocation(character_entry_from_character)
         except LintException as lint_exception:
             print(f'lint error: {lint_exception.message}', file=sys.stderr)
@@ -1342,7 +1338,12 @@ class Executor:
         )
 
     @staticmethod
-    def lint_page_entry_see_also_reciprocation(entry_page_from_jyutping: dict[str, 'EntryPage']):
+    def lint_page_entry_see_also_reciprocation(entry_pages: list['EntryPage']):
+        entry_page_from_jyutping = {
+            entry_page.page_title: entry_page
+            for entry_page in entry_pages
+        }
+
         for jyutping, entry_page in entry_page_from_jyutping.items():
             if (see_also_links := entry_page.page_entry.see_also_links) is None:
                 continue
