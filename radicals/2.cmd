@@ -84,6 +84,15 @@ For all radicals, see [Index of characters by radical](./).
 ## ⼇ (lid)
 
 <## radical-⼇-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+''
+||||
 <## /radical-⼇-characters ##>
 
 

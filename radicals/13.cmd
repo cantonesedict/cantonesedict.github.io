@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 13-stroke radicals
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-08
 * %copyright-prior-years --> 2024--
 * %meta-description --> index of characters with 13-stroke radicals
 
@@ -34,6 +34,15 @@ For all radicals, see [Index of characters by radical](./).
 ## ⿌ (frog)
 
 <## radical-⿌-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+''
+||||
 <## /radical-⿌-characters ##>
 
 
@@ -63,6 +72,15 @@ For all radicals, see [Index of characters by radical](./).
 ## ⿎ (drum)
 
 <## radical-⿎-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+''
+||||
 <## /radical-⿎-characters ##>
 
 

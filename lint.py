@@ -133,6 +133,7 @@ class CmdSource:
     file_name: str
     content: str
     entry_page: Optional['EntryPage']
+    radical_page: Optional['RadicalPage']
 
     def __init__(self, file_name: str):
         with open(file_name, 'r', encoding='utf-8') as cmd_file:
@@ -166,13 +167,23 @@ class CmdSource:
         else:
             entry_page = None
 
+        if file_name.startswith('radicals/') and not file_name.endswith('index.cmd'):
+            radical_page = RadicalPage(file_name, content)
+        else:
+            radical_page = None
+
         self.file_name = file_name
         self.content = content
         self.entry_page = entry_page
+        self.radical_page = radical_page
 
     def index_self(self):
         if self.entry_page is not None:
             self.entry_page.index_self()
+
+    def index_radicals(self, character_entries_from_radical_strokes: dict['RadicalStrokes', list['CharacterEntry']]):
+        if self.radical_page is not None:
+            self.radical_page.index(character_entries_from_radical_strokes)
 
     @staticmethod
     def lint_whitespace(content: str):
@@ -712,6 +723,93 @@ class EntryPage:
                     f'vs character entry Williams set {character_entry_williams_set} '
                     f'≡ {tone_heading_williams_set_expected} (modulo redundant insertion)'
                 )
+
+
+class RadicalPage:
+    file_name: str
+    content: str
+
+    def __init__(self, file_name: str, content: str):
+        self.file_name = file_name
+        self.content = content
+
+    def index(self, character_entries_from_radical_strokes: dict['RadicalStrokes', list['CharacterEntry']]):
+        new_content = self.content
+        new_content = self._replace_radical_tables(new_content, character_entries_from_radical_strokes)
+
+        with open(self.file_name, 'w', encoding='utf-8') as cmd_file:
+            cmd_file.write(new_content)
+
+        self.content = new_content
+
+    @staticmethod
+    def _replace_radical_tables(content: str,
+                                character_entries_from_radical_strokes: dict['RadicalStrokes', list['CharacterEntry']]
+                                ) -> str:
+        radical_strokes_list_from_radical = Utilities.collate_firsts_by_second(
+            (radical_strokes, radical_strokes.radical)
+            for radical_strokes in character_entries_from_radical_strokes.keys()
+        )
+
+        def replacement_function(match: re.Match[str]) -> str:
+            radical = match.group('radical')
+            radical_strokes_list = radical_strokes_list_from_radical.get(radical, [])
+            character_entries_from_stroke_count = {
+                radical_strokes.stroke_count: character_entries_from_radical_strokes[radical_strokes]
+                for radical_strokes in sorted(radical_strokes_list)
+            }
+
+            return Utilities.nested_newline_join([
+                f"<## radical-{radical}-characters ##>",
+                f"||||{{.wide}}",
+                f"''{{.modern}}",
+                f"|^",
+                f"  //",
+                f"    ; Residual strokes",
+                f"    ; Character entry links",
+                f"|:",
+                [
+                    [
+                        f'  //',
+                        f'    , {stroke_count}',
+                        f'    ,',
+                        f'      <nav class="sideways">',
+                        f'      ==',
+                        [
+                            (
+                                f'      - {{{link_sequence}}}' if len(character_entries) > 1
+                                else f'      - {link_sequence}'
+                            )
+                            for character_entries in character_entries_from_character.values()
+                            if (
+                                link_sequence := ', '.join(
+                                    character_entry.universal_link()
+                                    for character_entry in character_entries
+                                ),
+                            )
+                        ],
+                        f'      ==',
+                        f'      </nav>',
+                    ]
+                    for stroke_count, character_entries in character_entries_from_stroke_count.items()
+                    if (
+                        character_entries_from_character := Utilities.collate_firsts_by_second(
+                            (character_entry, character_entry.character)
+                            for character_entry in character_entries
+                        ),
+                    )
+                ],
+                f"''",
+                f"||||",
+                f"<## /radical-{radical}-characters ##>",
+            ])
+
+        return re.sub(
+            pattern=r'<## radical-(?P<radical>\S)-characters ##>.*?<## /radical-(?P=radical)-characters ##>',
+            repl=replacement_function,
+            string=content,
+            flags=re.DOTALL,
+        )
 
 
 class PageHeading:
@@ -1276,6 +1374,9 @@ class RadicalStrokes:
     def __hash__(self):
         return hash(self.identity())
 
+    def __lt__(self, other):
+        return self.identity() <= other.identity()
+
     def __str__(self):
         return f'{self.radical} + {self.stroke_count}'
 
@@ -1377,7 +1478,7 @@ class Linter:
         self.index_entries()  # entry pages by Jyutping
         self.index_terms()  # Cantonese terms by Jyutping
         self.index_search()  # characters and compositions
-        # TODO: self.index_radicals()  # characters by radical
+        self.index_radicals()  # characters by radical
 
     def print_statistics(self):
         entry_page_count = len(self.entry_pages)
@@ -1461,6 +1562,16 @@ class Linter:
 
         with open('search/composition-index.json', 'w', encoding='utf-8') as composition_index_json_file:
             composition_index_json_file.write(composition_index_json)
+
+    def index_radicals(self):
+        character_entries_from_radical_strokes = Utilities.collate_firsts_by_second(
+            (character_entry, radical_strokes)
+            for character_entry in self.character_entries
+            for radical_strokes in character_entry.radical_strokes_list
+        )
+
+        for cmd_source in self.cmd_sources:
+            cmd_source.index_radicals(character_entries_from_radical_strokes)
 
     @staticmethod
     def _replace_incipit_navigator(content: str, entry_pages_from_incipit: dict[str, list['EntryPage']]) -> str:

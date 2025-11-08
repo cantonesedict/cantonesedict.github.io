@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 9-stroke radicals
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-08
 * %copyright-prior-years --> 2024--
 * %meta-description --> index of characters with 9-stroke radicals
 
@@ -41,6 +41,15 @@ For all radicals, see [Index of characters by radical](./).
 ## ⾯ (face)
 
 <## radical-⾯-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+''
+||||
 <## /radical-⾯-characters ##>
 
 
@@ -117,6 +126,15 @@ For all radicals, see [Index of characters by radical](./).
 ## ⾲ (leek)
 
 <## radical-⾲-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+''
+||||
 <## /radical-⾲-characters ##>
 
 
@@ -194,6 +212,15 @@ For all radicals, see [Index of characters by radical](./).
 ## ⾵ (wind)
 
 <## radical-⾵-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+''
+||||
 <## /radical-⾵-characters ##>
 
 
@@ -324,10 +351,28 @@ For all radicals, see [Index of characters by radical](./).
 ## ⾸ (head)
 
 <## radical-⾸-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+''
+||||
 <## /radical-⾸-characters ##>
 
 
 ## ⾹ (fragrant)
 
 <## radical-⾹-characters ##>
+||||{.wide}
+''{.modern}
+|^
+  //
+    ; Residual strokes
+    ; Character entry links
+|:
+''
+||||
 <## /radical-⾹-characters ##>
