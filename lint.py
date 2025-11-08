@@ -466,8 +466,8 @@ class EntryPage:
 
     def index_self(self):
         updated_content = content = self.content
-        updated_content = self._update_tone_navigator(updated_content)
-        updated_content = self._update_character_navigators(updated_content)
+        updated_content = self._replace_tone_navigator(updated_content)
+        updated_content = self._replace_character_navigators(updated_content)
 
         if updated_content == content:
             return
@@ -477,7 +477,7 @@ class EntryPage:
 
         self.content = updated_content
 
-    def _update_tone_navigator(self, content: str) -> str:
+    def _replace_tone_navigator(self, content: str) -> str:
         if self.tone_navigator.content is None:
             return content
 
@@ -496,7 +496,7 @@ class EntryPage:
 
         return content.replace(self.tone_navigator.content, tone_navigator_content_expected)
 
-    def _update_character_navigators(self, content: str) -> str:
+    def _replace_character_navigators(self, content: str) -> str:
         updated_content = content
 
         character_entries_from_tone_number = Utilities.collate_firsts_by_second(
@@ -1371,8 +1371,8 @@ class Linter:
         with open('entries/index.cmd', 'r', encoding='utf-8') as read_file:
             updated_content = content = read_file.read()
 
-        updated_content = self._update_incipit_navigator(updated_content, entry_pages_from_incipit)
-        updated_content = self._update_entry_links(updated_content, entry_pages_from_incipit)
+        updated_content = self._replace_incipit_navigator(updated_content, entry_pages_from_incipit)
+        updated_content = self._replace_entry_links(updated_content, entry_pages_from_incipit)
 
         if updated_content == content:
             return
@@ -1381,7 +1381,7 @@ class Linter:
             write_file.write(updated_content)
 
     @staticmethod
-    def _update_incipit_navigator(content: str, entry_pages_from_incipit: dict[str, list['EntryPage']]):
+    def _replace_incipit_navigator(content: str, entry_pages_from_incipit: dict[str, list['EntryPage']]):
         incipit_navigator_content_expected = Utilities.nested_newline_join([
             '<## incipits ##>',
             '<nav class="sideways">',
@@ -1550,7 +1550,7 @@ class Linter:
 
 
     @staticmethod
-    def _update_entry_links(content: str, entry_pages_from_incipit: dict[str, list['EntryPage']]):
+    def _replace_entry_links(content: str, entry_pages_from_incipit: dict[str, list['EntryPage']]):
         entry_links_content_expected = Utilities.nested_newline_join([
             '<## entries ##>',
             [
