@@ -1422,10 +1422,22 @@ class Linter:
         )
         character_index_json = Utilities.nice_json_string(jyutping_list_from_character, newline_after='],')
 
+        compositions_from_character = Utilities.collate_firsts_by_second(
+            (composition, character_entry.character)
+            for character_entry in self.character_entries
+            if (composition := character_entry.composition) is not None
+        )
+        composition_from_character = {
+            character: compositions[0]
+            for character, compositions in sorted(compositions_from_character.items())
+        }
+        composition_index_json = Utilities.nice_json_string(composition_from_character, newline_after=',')
+
         with open('search/character-index.json', 'w', encoding='utf-8') as character_index_json_file:
             character_index_json_file.write(character_index_json)
 
-        # TODO: compositions
+        with open('search/composition-index.json', 'w', encoding='utf-8') as composition_index_json_file:
+            composition_index_json_file.write(composition_index_json)
 
     @staticmethod
     def _replace_incipit_navigator(content: str, entry_pages_from_incipit: dict[str, list['EntryPage']]) -> str:
