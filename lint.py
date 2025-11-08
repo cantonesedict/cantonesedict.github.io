@@ -6,6 +6,7 @@
 Lint all Conway-Markdown (CMD) source files, with automatic indexing.
 """
 
+import json
 import os
 import re
 import sys
@@ -77,6 +78,14 @@ class Utilities:
             first_from_second_from_third[third][second] = first
 
         return dict(first_from_second_from_third)
+
+    @staticmethod
+    def nice_json_string(object_, newline_after: str) -> str:
+        return (
+            json.dumps(object_, ensure_ascii=False, separators=(',', ':'))
+            .replace(newline_after, f'{newline_after}\n')
+            + '\n'
+        )
 
 
 class CmdIdioms:
@@ -1316,6 +1325,7 @@ class CantoneseEntry:
 class Linter:
     cmd_sources: list['CmdSource']
     entry_pages: list['EntryPage']
+    character_entries: list['CharacterEntry']
     cantonese_entries: list['CantoneseEntry']
 
     def __init__(self):
@@ -1356,6 +1366,7 @@ class Linter:
 
         self.cmd_sources = cmd_sources
         self.entry_pages = entry_pages
+        self.character_entries = character_entries
         self.cantonese_entries = cantonese_entries
 
     def index_intrapage(self):
@@ -1365,7 +1376,7 @@ class Linter:
     def index_interpage(self):
         self.index_entries()  # entry pages by Jyutping
         self.index_terms()  # Cantonese terms by Jyutping
-        # TODO: self.index_search()  # characters and compositions
+        self.index_search()  # characters and compositions
         # TODO: self.index_radicals()  # characters by radical
 
     def index_entries(self):
@@ -1403,6 +1414,18 @@ class Linter:
 
         with open('terms/index.cmd', 'w', encoding='utf-8') as write_file:
             write_file.write(new_content)
+
+    def index_search(self):
+        jyutping_list_from_character = Utilities.collate_firsts_by_second(
+            (character_entry.jyutping, character_entry.character)
+            for character_entry in self.character_entries
+        )
+        character_index_json = Utilities.nice_json_string(jyutping_list_from_character, newline_after='],')
+
+        with open('search/character-index.json', 'w', encoding='utf-8') as character_index_json_file:
+            character_index_json_file.write(character_index_json)
+
+        # TODO: compositions
 
     @staticmethod
     def _replace_incipit_navigator(content: str, entry_pages_from_incipit: dict[str, list['EntryPage']]) -> str:
