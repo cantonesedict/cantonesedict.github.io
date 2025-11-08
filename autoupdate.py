@@ -125,10 +125,6 @@ class Indexer:
         # {character: composition, ...}
         object_ = {}
         for character, compositions in compositions_from_character.items():
-            if len(compositions) > 1:
-                print(f'Error: character {character} has multiple compositions {compositions}', file=sys.stderr)
-                sys.exit(1)
-
             composition = compositions.pop()
             if composition:
                 object_[character] = composition
