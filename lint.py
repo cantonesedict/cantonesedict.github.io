@@ -1379,6 +1379,29 @@ class Linter:
         self.index_search()  # characters and compositions
         # TODO: self.index_radicals()  # characters by radical
 
+    def print_statistics(self):
+        entry_page_count = len(self.entry_pages)
+        done_count = sum(entry_page.is_done for entry_page in self.entry_pages)
+        wip_count = entry_page_count - done_count
+
+        character_count = len(set(character_entry.character for character_entry in self.character_entries))
+        character_entry_count = len(self.character_entries)
+        added_count = sum(character_entry.is_added for character_entry in self.character_entries)
+        present_count = character_entry_count - added_count
+
+        todo_count = sum('TODO' in cmd_source.content for cmd_source in self.cmd_sources)
+
+        print(Utilities.nested_newline_join([
+            f'Statistics:',
+            f'- {entry_page_count} entry pages',
+            f'  - {done_count}/{entry_page_count} = {done_count / entry_page_count :.1%} done',
+            f'  - {wip_count}/{entry_page_count} = {wip_count / entry_page_count :.1%} work in progress',
+            f'- {character_entry_count} character entries (for {character_count} characters)',
+            f'  - {present_count}/{character_entry_count} = {present_count / character_entry_count :.1%} present',
+            f'  - {added_count}/{character_entry_count} = {added_count / character_entry_count :.1%} added',
+            f'- {todo_count} TODO',
+        ]))
+
     def index_entries(self):
         entry_pages_from_incipit = Utilities.collate_firsts_by_second(
             (entry_page, entry_page.page_title[0])
@@ -1691,6 +1714,7 @@ def main():
     linter = Linter()
     linter.index_intrapage()
     linter.index_interpage()
+    linter.print_statistics()
 
 
 if __name__ == '__main__':

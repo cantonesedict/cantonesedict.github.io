@@ -10,7 +10,6 @@ import collections
 import json
 import os
 import re
-import sys
 
 
 KANGXI_RADICALS = ''.join(chr(code_point) for code_point in range(0x2F00, 0x2FD6))
@@ -342,61 +341,12 @@ class SplitCantoneseEntry(CantoneseEntry):
         return self.term_jyutping.split(), self.clean_term()
 
 
-class Statistician:
-    def __init__(self, indexer):
-        pages = indexer.pages
-        self.page_count = len(pages)
-        self.wip_count = sum('work in progress' in page.cmd_content.lower() for page in pages)
-        self.done_count = self.page_count - self.wip_count
-        self.entry_count = sum(Statistician._count_entries(page.cmd_content, category='all') for page in pages)
-        self.present_count = sum(Statistician._count_entries(page.cmd_content, category='present') for page in pages)
-        self.added_count = sum(Statistician._count_entries(page.cmd_content, category='added') for page in pages)
-        self.todo_count = sum(Statistician._count_todos(page.cmd_content) for page in pages)
-
-        if self.entry_count != len(indexer.character_entries):
-            print(
-                f'entry_count ({self.entry_count}) ≠ len(character_entries) ({len(indexer.character_entries)})',
-                file=sys.stderr,
-            )
-            sys.exit(1)
-
-    def print_statistics(self):
-        print(f'Statistics:')
-        print(f'- {self.page_count} pages')
-        print(f'  - {self.wip_count}/{self.page_count} = {self.wip_count / self.page_count :.1%} work in progress')
-        print(f'  - {self.done_count}/{self.page_count} = {self.done_count / self.page_count :.1%} done')
-        print(f'- {self.entry_count} entries')
-        print(f'  - {self.present_count}/{self.entry_count} = {self.present_count / self.entry_count :.1%} present')
-        print(f'  - {self.added_count}/{self.entry_count} = {self.added_count / self.entry_count :.1%} added')
-        print(f'- {self.todo_count} todos')
-
-    @staticmethod
-    def _count_entries(cmd_content, category):
-        if category == 'all':
-            regex_pattern = r'^#{3}(?!#)'
-        elif category == 'present':
-            regex_pattern = r'^#{3}(?= )'
-        elif category == 'added':
-            regex_pattern = r'^#{3}(?=\+)'
-        else:
-            raise ValueError
-
-        return len(re.findall(pattern=regex_pattern, string=cmd_content, flags=re.MULTILINE))
-
-    @staticmethod
-    def _count_todos(cmd_content):
-        return len(re.findall(pattern='TODO', string=cmd_content))
-
-
 def main():
     updater = Updater()
 
     indexer = Indexer(updater.entry_cmd_names)
     indexer.update_radix_all()
     # indexer.write_radical_index()
-
-    statistician = Statistician(indexer)
-    statistician.print_statistics()
 
 
 if __name__ == '__main__':
