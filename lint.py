@@ -1389,7 +1389,7 @@ class Linter:
         added_count = sum(character_entry.is_added for character_entry in self.character_entries)
         present_count = character_entry_count - added_count
 
-        todo_count = sum('TODO' in cmd_source.content for cmd_source in self.cmd_sources)
+        todo_count = sum(cmd_source.content.count('TODO') for cmd_source in self.cmd_sources)
 
         print(Utilities.nested_newline_join([
             f'Statistics:',
