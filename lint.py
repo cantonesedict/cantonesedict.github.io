@@ -49,7 +49,7 @@ class Utilities:
         return f'U+{ord(character):X}'
 
     @staticmethod
-    def collate_first_by_second(pairs: list[tuple[T1, T2]]) -> dict[T2, list[T1]]:
+    def collate_firsts_by_second(pairs: list[tuple[T1, T2]]) -> dict[T2, list[T1]]:
         firsts_from_second: dict[T2, list[T1]] = defaultdict(list)
 
         for first, second in pairs:
@@ -479,7 +479,7 @@ class EntryPage:
     def _update_character_navigators(self, content: str) -> str:
         updated_content = content
 
-        character_entries_from_tone_number = Utilities.collate_first_by_second([
+        character_entries_from_tone_number = Utilities.collate_firsts_by_second([
             (character_entry, character_entry.tone_number)
             for character_entry in self.character_entries
         ])
@@ -1295,7 +1295,7 @@ class Executor:
         # TODO: self.index_radicals()  # characters by radical
 
     def _index_entries(self):
-        entry_pages_from_incipit = Utilities.collate_first_by_second([
+        entry_pages_from_incipit = Utilities.collate_firsts_by_second([
             (entry_page, entry_page.page_title[0])
             for entry_page in self.entry_pages
         ])
