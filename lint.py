@@ -1406,7 +1406,7 @@ class Linter:
             write_file.write(updated_content)
 
     @staticmethod
-    def _replace_incipit_navigator(content: str, entry_pages_from_incipit: dict[str, list['EntryPage']]):
+    def _replace_incipit_navigator(content: str, entry_pages_from_incipit: dict[str, list['EntryPage']]) -> str:
         incipit_navigator_content_expected = Utilities.nested_newline_join([
             '<## incipits ##>',
             '<nav class="sideways">',
@@ -1575,7 +1575,7 @@ class Linter:
 
 
     @staticmethod
-    def _replace_entry_links(content: str, entry_pages_from_incipit: dict[str, list['EntryPage']]):
+    def _replace_entry_links(content: str, entry_pages_from_incipit: dict[str, list['EntryPage']]) -> str:
         entry_links_content_expected = Utilities.nested_newline_join([
             '<## entries ##>',
             [
