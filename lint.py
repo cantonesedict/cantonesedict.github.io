@@ -480,7 +480,7 @@ class EntryPage:
         if new_content == content:
             return
 
-        with open(self.file_name, 'w') as cmd_file:
+        with open(self.file_name, 'w', encoding='utf-8') as cmd_file:
             cmd_file.write(new_content)
 
         self.content = new_content
