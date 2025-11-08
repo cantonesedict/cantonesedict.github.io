@@ -87,7 +87,7 @@ window.onload = applyFilter;
     , [吖嘛](/entries/aa#cantonese-吖嘛)
   //
     , a3
-    , [啊~\(final\)](/entries/aa#cantonese-啊-final)
+    , [啊~(final)](/entries/aa#cantonese-啊-final)
   //
     , a4
     , [呀](/entries/aa#cantonese-呀)
@@ -96,10 +96,10 @@ window.onload = applyFilter;
     , [吖](/entries/aa#cantonese-吖)
   //
     , aa3
-    , [啊~\(final\)](/entries/aa#cantonese-啊-final)
+    , [啊~(final)](/entries/aa#cantonese-啊-final)
   //
     , aa3
-    , [啊~\(list\)](/entries/aa#cantonese-啊-list)
+    , [啊~(list)](/entries/aa#cantonese-啊-list)
   //
     , aa3 caa1
     , [阿差](/entries/caa#cantonese-阿差)
@@ -138,10 +138,10 @@ window.onload = applyFilter;
     , [詏](/entries/aau#cantonese-詏)
   //
     , ai1 ja4
-    , [哎吔~\(pain\)](/entries/ai#cantonese-哎吔-pain)
+    , [哎吔~(pain)](/entries/ai#cantonese-哎吔-pain)
   //
     , ai1 jaa1
-    , [哎吔~\(indignation\)](/entries/ai#cantonese-哎吔-indignation)
+    , [哎吔~(indignation)](/entries/ai#cantonese-哎吔-indignation)
   //
     , am2
     , [揞](/entries/am#cantonese-揞)
@@ -186,13 +186,13 @@ window.onload = applyFilter;
     , [叉燒](/entries/caa#cantonese-叉燒)
   //
     , caa4
-    , [搽~\(spread\)](/entries/caa#cantonese-搽-spread)
+    , [搽~(spread)](/entries/caa#cantonese-搽-spread)
   //
     , caa4 zau2
     , [茶走](/entries/caa#cantonese-茶走)
   //
     , caa5
-    , [搽~\(smudge\)](/entries/caa#cantonese-搽-smudge)
+    , [搽~(smudge)](/entries/caa#cantonese-搽-smudge)
   //
     , caa5 wo5
     , [搽{𢰸=⿰扌咼}](/entries/caa#cantonese-搽𢰸)
@@ -621,16 +621,16 @@ window.onload = applyFilter;
     , [一抽二褦](/entries/cau#cantonese-一抽二褦)
   //
     , jat1 zan6
-    , [一陣~\(moment\)](/entries/zan#cantonese-一陣-moment)
+    , [一陣~(moment)](/entries/zan#cantonese-一陣-moment)
   //
     , jat1 zan6
-    , [一陣~\(later\)](/entries/zan#cantonese-一陣-later)
+    , [一陣~(later)](/entries/zan#cantonese-一陣-later)
   //
     , jat1 zan6 gaan1
     , [一陣間](/entries/zan#cantonese-一陣間)
   //
     , jat1 zan6-2
-    , [一陣~\(later\)](/entries/zan#cantonese-一陣-later)
+    , [一陣~(later)](/entries/zan#cantonese-一陣-later)
   //
     , jat1 zou2
     , [一早](/entries/zou#cantonese-一早)
@@ -834,16 +834,16 @@ window.onload = applyFilter;
     , [掙](/entries/zaang#cantonese-掙)
   //
     , zaap6
-    , [鈒~\(noun\)](/entries/zaap#cantonese-鈒-noun)
+    , [鈒~(noun)](/entries/zaap#cantonese-鈒-noun)
   //
     , zaap6
-    , [鈒~\(verb\)](/entries/zaap#cantonese-鈒-verb)
+    , [鈒~(verb)](/entries/zaap#cantonese-鈒-verb)
   //
     , zaap6
     , [雜](/entries/zaap#cantonese-雜)
   //
     , zaap6-2
-    , [鈒~\(noun\)](/entries/zaap#cantonese-鈒-noun)
+    , [鈒~(noun)](/entries/zaap#cantonese-鈒-noun)
   //
     , zaat3 maa5
     , [扎馬](/entries/zaat#cantonese-扎馬)
@@ -891,16 +891,16 @@ window.onload = applyFilter;
     , [{𠹻=⿰口朕}](/entries/zam#cantonese-𠹻)
   //
     , zan6
-    , [陣~\(moment\)](/entries/zan#cantonese-陣-moment)
+    , [陣~(moment)](/entries/zan#cantonese-陣-moment)
   //
     , zan6
-    , [陣~\(time\)](/entries/zan#cantonese-陣-time)
+    , [陣~(time)](/entries/zan#cantonese-陣-time)
   //
     , zan6 gaan1
     , [陣間](/entries/zan#cantonese-陣間)
   //
     , zan6-2
-    , [陣~\(time\)](/entries/zan#cantonese-陣-time)
+    , [陣~(time)](/entries/zan#cantonese-陣-time)
   //
     , zap1
     , [執](/entries/zap#cantonese-執)
@@ -921,10 +921,10 @@ window.onload = applyFilter;
     , [執媽](/entries/zap#cantonese-執媽)
   //
     , zap1 maa5
-    , [執碼~\(verb\)](/entries/zap#cantonese-執碼-verb)
+    , [執碼~(verb)](/entries/zap#cantonese-執碼-verb)
   //
     , zap1 maa5-2
-    , [執碼~\(noun\)](/entries/zap#cantonese-執碼-noun)
+    , [執碼~(noun)](/entries/zap#cantonese-執碼-noun)
   //
     , zap1 saang1
     , [執生](/entries/zap#cantonese-執生)
@@ -1071,16 +1071,16 @@ window.onload = applyFilter;
     , [尖隊](/entries/zim#cantonese-尖隊)
   //
     , zin3
-    , [薦~\(noun\)](/entries/zin#cantonese-薦-noun)
+    , [薦~(noun)](/entries/zin#cantonese-薦-noun)
   //
     , zin3
-    , [薦~\(verb\)](/entries/zin#cantonese-薦-verb)
+    , [薦~(verb)](/entries/zin#cantonese-薦-verb)
   //
     , zin3 zeoi2
     , [箭嘴](/entries/zin#cantonese-箭嘴)
   //
     , zin3-2
-    , [薦~\(noun\)](/entries/zin#cantonese-薦-noun)
+    , [薦~(noun)](/entries/zin#cantonese-薦-noun)
   //
     , zin6 gaak3
     , [賤格](/entries/zin#cantonese-賤格)
@@ -1137,13 +1137,13 @@ window.onload = applyFilter;
     , [脧](/entries/zeoi#cantonese-脧)
   //
     , zoek3
-    , [着~\(wear\)](/entries/zoek#cantonese-着-wear)
+    , [着~(wear)](/entries/zoek#cantonese-着-wear)
   //
     , zoek3 guk6
     , [雀局](/entries/zoek#cantonese-雀局)
   //
     , zoek6
-    , [着~\(on\)](/entries/zoek#cantonese-着-on)
+    , [着~(on)](/entries/zoek#cantonese-着-on)
   //
     , zoeng1
     , [張](/entries/zoeng#cantonese-張)
@@ -1236,13 +1236,13 @@ window.onload = applyFilter;
     , [專登](/entries/zyun#cantonese-專登)
   //
     , zyut3
-    , [啜~\(suck\)](/entries/zyut#cantonese-啜-suck)
+    , [啜~(suck)](/entries/zyut#cantonese-啜-suck)
   //
     , zyut3
-    , [啜~\(kiss\)](/entries/zyut#cantonese-啜-kiss)
+    , [啜~(kiss)](/entries/zyut#cantonese-啜-kiss)
   //
     , zyut3-1
-    , [啜~\(kiss\)](/entries/zyut#cantonese-啜-kiss)
+    , [啜~(kiss)](/entries/zyut#cantonese-啜-kiss)
 ''
 ||||
 <## /terms-table ##>

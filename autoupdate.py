@@ -308,7 +308,7 @@ class Page:
 class CantoneseEntry:
     def __init__(self, term, disambiguation, term_jyutping, page_jyutping):
         parenthetical_disambiguation = (
-            re.sub(pattern=r'-(?P<slug>.*)', repl=r'~\\(\g<slug>\\)', string=disambiguation)
+            re.sub(pattern=r'-(?P<slug>.*)', repl=r'~(\g<slug>)', string=disambiguation)
             if disambiguation
             else ''
         )
