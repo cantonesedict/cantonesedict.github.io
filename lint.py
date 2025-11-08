@@ -1184,7 +1184,8 @@ class CharacterEntry:
         return match.group()
 
     @staticmethod
-    def extract_cantonese_entries(content: Optional[str], page_heading_jyutping: str) -> Optional[list['CantoneseEntry']]:
+    def extract_cantonese_entries(content: Optional[str], page_heading_jyutping: str
+                                  ) -> Optional[list['CantoneseEntry']]:
         if content is None:
             return None
 
