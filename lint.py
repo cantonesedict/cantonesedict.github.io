@@ -1550,11 +1550,11 @@ class Linter:
                     '=={.modern}',
                     *[
                         '\n'.join([
-                            f'- {link}{parenthetical}'
+                            f'- {link}{parenthetical_suffix}'
                             for entry_page in entry_pages
                             if (
                                 link := f'${entry_page.page_title}',
-                                parenthetical := '' if entry_page.is_done else ' (work in progress)',
+                                parenthetical_suffix := '' if entry_page.is_done else ' (work in progress)',
                             )
                         ])
                     ],
