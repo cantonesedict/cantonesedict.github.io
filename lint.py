@@ -150,9 +150,9 @@ class CmdSource:
         self.content = content
         self.entry_page = entry_page
 
-    def self_index(self):
+    def index_self(self):
         if self.entry_page is not None:
-            self.entry_page.self_index()
+            self.entry_page.index_self()
 
     @staticmethod
     def lint_whitespace(content: str):
@@ -452,7 +452,7 @@ class EntryPage:
         self.character_navigators = character_navigators
         self.character_entries = character_entries
 
-    def self_index(self):
+    def index_self(self):
         updated_content = content = self.content
         updated_content = self._update_tone_navigator(updated_content)
         updated_content = self._update_character_navigators(updated_content)
@@ -1340,17 +1340,17 @@ class Linter:
         self.cmd_sources = cmd_sources
         self.entry_pages = entry_pages
 
-    def self_index(self):
+    def index_intrapage(self):
         for cmd_source in self.cmd_sources:
-            cmd_source.self_index()
+            cmd_source.index_self()
 
-    def cross_index(self):
-        self._index_entries()  # entry pages by Jyutping
+    def index_interpage(self):
+        self.index_entries()  # entry pages by Jyutping
         # TODO: self.index_terms()  # Cantonese terms by Jyutping
         # TODO: self.index_search()  # characters and compositions
         # TODO: self.index_radicals()  # characters by radical
 
-    def _index_entries(self):
+    def index_entries(self):
         entry_pages_from_incipit = Utilities.collate_firsts_by_second(
             (entry_page, entry_page.page_title[0])
             for entry_page in self.entry_pages
@@ -1580,8 +1580,8 @@ class Linter:
 
 def main():
     linter = Linter()
-    linter.self_index()
-    linter.cross_index()
+    linter.index_intrapage()
+    linter.index_interpage()
 
 
 if __name__ == '__main__':
