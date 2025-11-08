@@ -14,6 +14,7 @@ from typing import Optional, TypeVar
 
 T1 = TypeVar('T1')
 T2 = TypeVar('T2')
+T3 = TypeVar('T3')
 
 
 CANTONESE_TONES_CHINESE = ['陰平', '陰上', '陰去', '陽平', '陽上', '陽去', '高陰入', '低陰入', '陽入']
@@ -56,6 +57,15 @@ class Utilities:
             firsts_from_second[second].append(first)
 
         return dict(firsts_from_second)
+
+    @staticmethod
+    def collate_first_by_second_by_third(triples: list[tuple[T1, T2, T3]]) -> dict[T3, dict[T2, T1]]:
+        first_from_second_from_third: dict[T3, dict[T2, T1]] = defaultdict(dict)
+
+        for first, second, third in triples:
+            first_from_second_from_third[third][second] = first
+
+        return dict(first_from_second_from_third)
 
 
 class CmdIdioms:
@@ -1273,10 +1283,15 @@ class Executor:
             for cmd_source in cmd_sources
             if (entry_page := cmd_source.entry_page) is not None
         ]
+        character_entries = [
+            character_entry
+            for entry_page in entry_pages
+            for character_entry in entry_page.character_entries
+        ]
 
         try:
             Executor.lint_page_entry_see_also_reciprocation(entry_pages)
-            # TODO: Executor.lint_character_entry_see_also_reciprocation(character_entry_from_character)
+            Executor.lint_character_entry_see_also_reciprocation(character_entries)
         except LintException as lint_exception:
             print(f'lint error: {lint_exception.message}', file=sys.stderr)
             sys.exit(1)
@@ -1362,6 +1377,32 @@ class Executor:
                 other_see_also_links = other_entry_page.page_entry.see_also_links
                 if other_see_also_links is None or f'${jyutping}' not in other_see_also_links:
                     raise LintException(f'see also `{other_jyutping}` for page entry `{jyutping}` not reciprocated')
+
+    @staticmethod
+    def lint_character_entry_see_also_reciprocation(character_entries: list['CharacterEntry']):
+        character_entry_from_jyutping_from_character = Utilities.collate_first_by_second_by_third([
+            (character_entry, character_entry.jyutping, character_entry.character)
+            for character_entry in character_entries
+        ])
+
+        for character_entry in character_entries:
+            character = character_entry.character
+            jyutping = character_entry.jyutping
+
+            if (see_also_links := character_entry.see_also_links) is None:
+                continue
+
+            for see_also_link in see_also_links:
+                if not (other_link_match := re.fullmatch(
+                    pattern=r'\$ (?P<character_content> \S+? ) (?P<jyutping> [a-z]+[1-6] )',
+                    string=see_also_link,
+                    flags=re.VERBOSE,
+                )):
+                    raise LintException(
+                        f'bad see also link `{see_also_link}` for character entry {character} {jyutping}'
+                    )
+
+                # TODO: actual reciprocation logic
 
     @staticmethod
     def _update_entry_links(content: str, entry_pages_from_incipit: dict[str, list['EntryPage']]):

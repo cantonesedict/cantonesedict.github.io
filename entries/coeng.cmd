@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2025-11-03
+* %date-modified --> 2025-11-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1658,6 +1658,10 @@ W
         a crab.
     ==
   ====
+C
+  ==
+  - Williams' "tripe", 牛腸: Only tripe in the sense of entrails (specifically the intestines).
+  ==
 E
   ====
   - 【腸】 (coeng4-2):
@@ -1678,10 +1682,6 @@ E
        (smaller radius with no filling).
     ++
   ====
-S
-  ==
-  - Williams' "tripe", 牛腸: Only tripe in the sense of entrails (specifically the intestines).
-  ==
 $$
 
 ### 萇4 | _(4)Ch(')(e/)ung_ [[coeng4]]
