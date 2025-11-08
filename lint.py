@@ -1410,27 +1410,27 @@ class Executor:
 
     @staticmethod
     def lint_character_entry_invariants(character_entries: list['CharacterEntry']):
-        character_entries_from_character = Utilities.collate_firsts_by_second(
+        collated_character_entries_from_character = Utilities.collate_firsts_by_second(
             (character_entry, character_entry.character)
             for character_entry in character_entries
         )
 
-        for character, character_entries in character_entries_from_character.items():
-            Executor.lint_character_entry_composition_consistency(character, character_entries)
-            Executor.lint_character_entry_radical_strokes_consistency(character, character_entries)
-            Executor.lint_character_entry_han_unification_vigilance_consistency(character, character_entries)
+        for character, collated_character_entries in collated_character_entries_from_character.items():
+            Executor.lint_character_entry_composition_consistency(character, collated_character_entries)
+            Executor.lint_character_entry_radical_strokes_consistency(character, collated_character_entries)
+            Executor.lint_character_entry_han_unification_vigilance_consistency(character, collated_character_entries)
 
     @staticmethod
     def lint_character_entry_composition_consistency(character: str, character_entries: list['CharacterEntry']):
-        character_entries_from_composition = Utilities.collate_firsts_by_second(
+        collated_character_entries_from_composition = Utilities.collate_firsts_by_second(
             (character_entry, character_entry.composition)
             for character_entry in character_entries
         )
 
-        if len(character_entries_from_composition) > 1:
+        if len(collated_character_entries_from_composition) > 1:
             collation_readable = {
-                composition: [str(character_entry) for character_entry in character_entries]
-                for composition, character_entries in character_entries_from_composition.items()
+                composition: [str(character_entry) for character_entry in collated_character_entries]
+                for composition, collated_character_entries in collated_character_entries_from_composition.items()
             }
             raise LintException(
                 f'inconsistent composition under entries for character `{character}`: {collation_readable}'
@@ -1438,16 +1438,17 @@ class Executor:
 
     @staticmethod
     def lint_character_entry_radical_strokes_consistency(character: str, character_entries: list['CharacterEntry']):
-        character_entries_from_radical_strokes_values = Utilities.collate_firsts_by_second(
+        collated_character_entries_from_radical_strokes_values = Utilities.collate_firsts_by_second(
             (character_entry, tuple(character_entry.radical_strokes_list))
             for character_entry in character_entries
         )
 
-        if len(character_entries_from_radical_strokes_values) > 1:
+        if len(collated_character_entries_from_radical_strokes_values) > 1:
             collation_readable = {
                 tuple(str(radical_strokes) for radical_strokes in radical_strokes_values):
-                    [str(character_entry) for character_entry in character_entries]
-                for radical_strokes_values, character_entries in character_entries_from_radical_strokes_values.items()
+                    [str(character_entry) for character_entry in collated_character_entries]
+                for radical_strokes_values, collated_character_entries
+                in collated_character_entries_from_radical_strokes_values.items()
             }
             raise LintException(
                 f'inconsistent R content under entries for character `{character}`: {collation_readable}'
@@ -1456,15 +1457,15 @@ class Executor:
     @staticmethod
     def lint_character_entry_han_unification_vigilance_consistency(character: str,
                                                                    character_entries: list['CharacterEntry']):
-        character_entries_from_h_content = Utilities.collate_firsts_by_second(
+        collated_character_entries_from_h_content = Utilities.collate_firsts_by_second(
             (character_entry, character_entry.h_content)
             for character_entry in character_entries
         )
 
-        if len(character_entries_from_h_content) > 1:
+        if len(collated_character_entries_from_h_content) > 1:
             collation_readable = {
-                h_content: [str(character_entry) for character_entry in character_entries]
-                for h_content, character_entries in character_entries_from_h_content.items()
+                h_content: [str(character_entry) for character_entry in collated_character_entries]
+                for h_content, collated_character_entries in collated_character_entries_from_h_content.items()
             }
             raise LintException(
                 f'inconsistent H content under entries for character `{character}`: {collation_readable}'
