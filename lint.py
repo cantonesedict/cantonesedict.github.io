@@ -1371,8 +1371,8 @@ class Linter:
         with open('entries/index.cmd', 'r', encoding='utf-8') as read_file:
             updated_content = content = read_file.read()
 
-        updated_content = self._replace_incipit_navigator(updated_content, entry_pages_from_incipit)
-        updated_content = self._replace_entry_links(updated_content, entry_pages_from_incipit)
+        updated_content = Linter._replace_incipit_navigator(updated_content, entry_pages_from_incipit)
+        updated_content = Linter._replace_entry_links(updated_content, entry_pages_from_incipit)
 
         if updated_content == content:
             return
