@@ -68,7 +68,7 @@ class CmdIdioms:
 
     @staticmethod
     def lint_see_also_link_order(see_also_links: list[str]):
-        if not see_also_links:
+        if see_also_links is None:
             return
 
         if see_also_links != sorted(see_also_links):
@@ -124,7 +124,7 @@ class CmdSource:
         self.entry_page = entry_page
 
     def self_index(self):
-        if not self.entry_page:
+        if self.entry_page is None:
             return
 
         self.entry_page.self_index()
@@ -442,7 +442,7 @@ class EntryPage:
         self.content = updated_content
 
     def _update_tone_navigator(self, content: str) -> str:
-        if not self.tone_navigator or not self.tone_navigator.content:
+        if self.tone_navigator.content is None:
             return content
 
         tone_navigator_content_expected = '\n'.join([
@@ -583,7 +583,7 @@ class EntryPage:
 
     @staticmethod
     def lint_page_heading_against_page_entry(page_heading: 'PageHeading', page_entry: 'PageEntry'):
-        if not page_entry.wh_williams_list:
+        if page_entry.wh_williams_list is None:
             return
 
         if page_heading.williams_list != page_entry.wh_williams_list:
@@ -804,7 +804,7 @@ class PageEntry:
 
     @staticmethod
     def extract_see_also_links(content: Optional[str]) -> Optional[list[str]]:
-        if not content:
+        if content is None:
             return None
 
         return [
@@ -1016,7 +1016,7 @@ class CharacterEntry:
         )
 
     def composed_character(self) -> str:
-        if not self.composition:
+        if self.composition is None:
             return self.character
 
         return f'{{{self.character}={self.composition}}}'
@@ -1110,8 +1110,8 @@ class CharacterEntry:
             )
 
     @staticmethod
-    def lint_cantonese_entry_order(cantonese_entries: list['CantoneseEntry']):
-        if not cantonese_entries:
+    def lint_cantonese_entry_order(cantonese_entries: Optional[list['CantoneseEntry']]):
+        if cantonese_entries is None:
             return
 
         terms_readable = [
@@ -1153,7 +1153,7 @@ class CharacterEntry:
 
     @staticmethod
     def extract_cantonese_entries(content: Optional[str], page_heading_jyutping: str) -> Optional[list['CantoneseEntry']]:
-        if not content:
+        if content is None:
             return None
 
         return [
@@ -1176,7 +1176,7 @@ class CharacterEntry:
 
     @staticmethod
     def extract_see_also_links(content: Optional[str]) -> Optional[list[str]]:
-        if not content:
+        if content is None:
             return None
 
         return [
@@ -1259,7 +1259,7 @@ class Executor:
         entry_pages = [
             entry_page
             for cmd_source in cmd_sources
-            if (entry_page := cmd_source.entry_page)
+            if (entry_page := cmd_source.entry_page) is not None
         ]
         entry_page_from_jyutping = {
             entry_page.page_title: entry_page
@@ -1333,20 +1333,20 @@ class Executor:
     @staticmethod
     def lint_page_entry_see_also_reciprocation(entry_page_from_jyutping: dict[str, 'EntryPage']):
         for jyutping, entry_page in entry_page_from_jyutping.items():
-            if not (see_also_links := entry_page.page_entry.see_also_links):
+            if (see_also_links := entry_page.page_entry.see_also_links) is None:
                 continue
 
             for see_also_link in see_also_links:
                 other_jyutping = see_also_link.replace('$', '')
 
-                if not (other_entry_page := entry_page_from_jyutping.get(other_jyutping)):
+                if (other_entry_page := entry_page_from_jyutping.get(other_jyutping)) is None:
                     continue
 
                 if not other_entry_page.is_done:
                     continue
 
                 other_see_also_links = other_entry_page.page_entry.see_also_links
-                if not other_see_also_links or f'${jyutping}' not in other_see_also_links:
+                if other_see_also_links is None or f'${jyutping}' not in other_see_also_links:
                     raise LintException(f'see also `{other_jyutping}` for page entry `{jyutping}` not reciprocated')
 
     @staticmethod
