@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Conway's preface
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-08
 * %copyright-prior-years -->
 * %meta-description --> Conway's preface
 
@@ -19,7 +19,8 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 #{.modern} %title
 
 --{.modern}
-As a child of the late 1990s, I did not grow up with access to a Cantonese dictionary
+As a child of the late 1990s and early 2000s,
+I did not grow up with access to a Cantonese dictionary
 where I could look up characters by pronunciation;
 nor did I have a Cantonese dictionary with English definitions.
 All I had was a native dictionary, [《商務新字典》],
@@ -38,7 +39,7 @@ that the definition of 將 "about to" began with 將要,
 nor 窗 "window" with 窗戶.
 --
 --{.modern}
-I do sympathise with writers of native Cantonese dictionaries,
+On the other hand, I do sympathise with writers of native Cantonese dictionaries,
 as there are three types of reader competing for their attention:
 --
 ++{.modern}
@@ -58,19 +59,19 @@ is difficult to characterise.
 On the one hand, it is folly to suggest that Cantonese is not Chinese:
 it is clearly a descendant of the classical language,
 and preserves many usages that Mandarin does not
-(e.g. preferring 飲食 over 吃喝, 今日 over 今天, etc.).
+(e.g. preferring 飲食 over 吃喝, 似 over 像, 今日 over 今天, etc.).
 On the other hand, it is equally folly to suggest that
 *every* aspect of Cantonese can be traced to the classics:
 this is demonstrably false by way of the comparative method.
 To argue that any variety of Chinese is somehow superior or inferior
-as an inheritor of the classical language is, in my opinion, misguided.))
+as an inheritor of the classical language is, in my opinion, unmeaningful.))
 --
 --{.modern}
 I have produced this dictionary for those neglected first two types of reader.
 Specifically, this dictionary is for young Conway,
 who had an interest in both vernacular Cantonese and in Classical Chinese,
 but who very nearly gave up due to the lack of good learning resources
-accessible to him while growing up in Australia.
+accessible to him in his childhood.
 --
 --{.modern}
 Rather than write a new dictionary from scratch,
@@ -79,7 +80,7 @@ for two reasons:
 --
 ++{.modern}
 1. It is an extremely high quality English record of the Cantonese vernacular; and
-2. At the same time, it is extremely clear where Williams has drawn upon the Kangxi Dictionary to document the classical language.
+2. At the same time, it is very obvious where Williams has drawn upon the Kangxi Dictionary to document the classical language.
 ++
 --{.modern}
 The resulting ''<`Conway's Cantonese Dictionary`>'' is best described
@@ -89,8 +90,11 @@ If you must refer to it in Chinese, then please call it 《英華分韻註》.
 --{.modern}
 It is my hope that this dictionary might help those
 who have a basic command of spoken Cantonese,
-but who are unsure in the written language,
+but are unsure in the written language,
 as young Conway very much was.
+--
+--{.modern}
+This be the preface.
 --
 --{.modern .sign-off}
 Conway
