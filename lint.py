@@ -1252,6 +1252,18 @@ class RadicalStrokes:
         self.radical = radical
         self.stroke_count = stroke_count
 
+    def __eq__(self, other: 'RadicalStrokes'):
+        return self.identity() == other.identity()
+
+    def __hash__(self):
+        return hash(self.identity())
+
+    def __str__(self):
+        return f'{self.radical} + {self.stroke_count}'
+
+    def identity(self):
+        return self.radical, self.stroke_count
+
 
 class CantoneseEntry:
     term: str
@@ -1302,6 +1314,7 @@ class Executor:
 
         try:
             Executor.lint_page_entry_see_also_reciprocation(entry_pages)
+            Executor.lint_character_entry_invariants(character_entries)
             Executor.lint_character_entry_see_also_reciprocation(character_entries)
         except LintException as lint_exception:
             print(f'Error: {lint_exception.message}', file=sys.stderr)
@@ -1388,6 +1401,31 @@ class Executor:
                 other_see_also_links = other_entry_page.page_entry.see_also_links
                 if other_see_also_links is None or f'${jyutping}' not in other_see_also_links:
                     raise LintException(f'missing see also link `${jyutping}` under page entry for `{other_jyutping}`')
+
+    @staticmethod
+    def lint_character_entry_invariants(character_entries: list['CharacterEntry']):
+        character_entries_from_character = Utilities.collate_firsts_by_second(
+            (character_entry, character_entry.character)
+            for character_entry in character_entries
+        )
+
+        for character, character_entries in character_entries_from_character.items():
+            Executor.lint_character_entry_r_consistency(character, character_entries)
+
+    @staticmethod
+    def lint_character_entry_r_consistency(character: str, character_entries: list['CharacterEntry']):
+        character_entries_from_radical_strokes_values = Utilities.collate_firsts_by_second(
+            (character_entry, tuple(character_entry.radical_strokes_list))
+            for character_entry in character_entries
+        )
+
+        if len(character_entries_from_radical_strokes_values) > 1:
+            collation_readable = {
+                tuple(str(radical_strokes) for radical_strokes in radical_strokes_values):
+                    [str(character_entry) for character_entry in character_entries]
+                for radical_strokes_values, character_entries in character_entries_from_radical_strokes_values.items()
+            }
+            raise LintException(f'inconsistent R content for character `{character}`: {collation_readable}')
 
     @staticmethod
     def lint_character_entry_see_also_reciprocation(character_entries: list['CharacterEntry']):
