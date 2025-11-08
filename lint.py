@@ -42,6 +42,10 @@ class Utilities:
     def literal_replacement_pattern(content: str) -> str:
         return content.replace('\\', r'\\')
 
+    @staticmethod
+    def unicode_code_point(character: str) -> str:
+        return f'U+{ord(character):X}'
+
 
 class CmdIdioms:
     @staticmethod
@@ -1045,7 +1049,7 @@ class CharacterEntry:
 
     @staticmethod
     def lint_character_against_unicode_code_point(character: str, unicode_code_point: str):
-        if f'U+{ord(character):X}' != unicode_code_point:
+        if Utilities.unicode_code_point(character) != unicode_code_point:
             raise LintException(f'character `{character}` is not `{unicode_code_point}`')
 
     @staticmethod
@@ -1212,7 +1216,7 @@ class RadicalStrokes:
             if radical in CJK_UNIFIED_IDEOGRAPH_RADICALS:
                 translation_table = str.maketrans(CJK_UNIFIED_IDEOGRAPH_RADICALS, KANGXI_RADICALS)
                 expected_radical = radical.translate(translation_table)
-                suggestion = f' (did you mean U+{ord(expected_radical):X} `{expected_radical}`?)'
+                suggestion = f' (did you mean {Utilities.unicode_code_point(expected_radical)} `{expected_radical}`?)'
             else:
                 suggestion = ''
 
