@@ -228,7 +228,7 @@ consisting of:
 
 1. Making (mostly corrective) edits in the form of
    deletions (<span class="williams">~~black serif struck~~</span>)
-   and insertions (<span class="williams">``crimson serif underlined``</span>);
+   and insertions (<span class="williams">``%modern-colour serif underlined``</span>);
 
 1. Normalising characters and readings
    to account for modern usage and conventions;
