@@ -1400,8 +1400,8 @@ class Linter:
 
         return re.sub(
             pattern=r'<## incipits ##>.*?<## /incipits ##>',
-            string=content,
             repl=Utilities.literal_replacement_pattern(incipit_navigator_content_expected),
+            string=content,
             flags=re.DOTALL,
         )
 
@@ -1582,8 +1582,8 @@ class Linter:
 
         return re.sub(
             pattern=r'<## entries ##>.*?<## /entries ##>',
-            string=content,
             repl=Utilities.literal_replacement_pattern(entry_links_content_expected),
+            string=content,
             flags=re.DOTALL,
         )
 
