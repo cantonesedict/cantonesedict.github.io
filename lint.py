@@ -42,6 +42,18 @@ KANGXI_RADICALS = ''.join(chr(code_point) for code_point in range(0x2F00, 0x2FD6
 
 class Utilities:
     @staticmethod
+    def flatten_nested_list(nested_list: list) -> Iterable:
+        for element in nested_list:
+            if isinstance(element, list):
+                yield from Utilities.flatten_nested_list(element)
+            else:
+                yield element
+
+    @staticmethod
+    def nested_newline_join(nested_list: list) -> str:
+        return '\n'.join(Utilities.flatten_nested_list(nested_list))
+
+    @staticmethod
     def literal_replacement_pattern(content: str) -> str:
         return content.replace('\\', r'\\')
 
@@ -469,11 +481,11 @@ class EntryPage:
         if self.tone_navigator.content is None:
             return content
 
-        tone_navigator_content_expected = '\n'.join([
+        tone_navigator_content_expected = Utilities.nested_newline_join([
             '<## tones ##>',
             '<nav class="sideways">',
             '=={.modern}',
-            *[
+            [
                 f'- [{tone_heading.jyutping}](#{tone_heading.tone_number})'
                 for tone_heading in self.tone_headings
             ],
@@ -494,11 +506,11 @@ class EntryPage:
 
         for character_navigator in self.character_navigators:
             tone_number = character_navigator.tone_number
-            character_navigator_content_expected = '\n'.join([
+            character_navigator_content_expected = Utilities.nested_newline_join([
                 f'<## tone-{tone_number}-characters ##>',
                 '<nav class="sideways">',
                 '=={.modern}',
-                *[
+                [
                     f'- {character_entry.same_page_link()}'
                     for character_entry in character_entries_from_tone_number[tone_number]
                 ],
@@ -1370,11 +1382,11 @@ class Linter:
 
     @staticmethod
     def _update_incipit_navigator(content: str, entry_pages_from_incipit: dict[str, list['EntryPage']]):
-        incipit_navigator_content_expected = '\n'.join([
+        incipit_navigator_content_expected = Utilities.nested_newline_join([
             '<## incipits ##>',
             '<nav class="sideways">',
             '=={.modern}',
-            *[
+            [
                 f'- [{incipit_upper}](#{incipit_upper})'
                 for incipit in entry_pages_from_incipit
                 if (
@@ -1539,29 +1551,27 @@ class Linter:
 
     @staticmethod
     def _update_entry_links(content: str, entry_pages_from_incipit: dict[str, list['EntryPage']]):
-        entry_links_content_expected = '\n'.join([
+        entry_links_content_expected = Utilities.nested_newline_join([
             '<## entries ##>',
-            *[
-                '\n'.join([
+            [
+                [
                     '',
                     f'##{{#{incipit_upper} .modern}} {incipit_upper}',
                     '',
                     '<nav>',
                     '=={.modern}',
-                    *[
-                        '\n'.join([
-                            f'- {link}{parenthetical_suffix}'
-                            for entry_page in entry_pages
-                            if (
-                                link := f'${entry_page.page_title}',
-                                parenthetical_suffix := '' if entry_page.is_done else ' (work in progress)',
-                            )
-                        ])
+                    [
+                        f'- {link}{parenthetical_suffix}'
+                        for entry_page in entry_pages
+                        if (
+                            link := f'${entry_page.page_title}',
+                            parenthetical_suffix := '' if entry_page.is_done else ' (work in progress)',
+                        )
                     ],
                     '==',
                     '</nav>',
                     '',
-                ])
+                ]
                 for incipit, entry_pages in entry_pages_from_incipit.items()
                 if (
                     incipit_upper := incipit.upper(),
