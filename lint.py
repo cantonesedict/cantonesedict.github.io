@@ -565,7 +565,7 @@ class EntryPage:
     def extract_character_entries(page_content: str, page_heading_jyutping: str) -> list['CharacterEntry']:
         return [
             CharacterEntry(heading_content, addition, character_run, tone_number, williams_run, jyutping, non_canonical,
-                           content, page_heading_jyutping)
+                           entry_content, page_heading_jyutping)
             for match in re.finditer(
                 pattern=r'''
                     ^ (?P<heading_content>
@@ -575,7 +575,7 @@ class EntryPage:
                     )
                     \n\n
                     ^ [$]{2} (?P<non_canonical> [.]? ) \n
-                    (?P<content> (?s: .+? ) )
+                    (?P<entry_content> (?s: .+? ) )
                     ^ [$]{2} \n
                 ''',
                 string=page_content,
@@ -589,7 +589,7 @@ class EntryPage:
                 williams_run := match.group('williams_run'),
                 jyutping := match.group('jyutping'),
                 non_canonical := match.group('non_canonical'),
-                content := match.group('content'),
+                entry_content := match.group('entry_content'),
             )
         ]
 
@@ -939,7 +939,7 @@ class CharacterEntry:
     see_also_links: Optional[list[str]]
 
     def __init__(self, heading_content: str, addition: str, character_run: str, tone_number: str, williams_run: str,
-                 jyutping: str, non_canonical: str, content: str, page_heading_jyutping: str):
+                 jyutping: str, non_canonical: str, entry_content: str, page_heading_jyutping: str):
         is_canonical = not non_canonical
         is_added = bool(addition)
 
@@ -993,7 +993,7 @@ class CharacterEntry:
 
         williams_list = reduced_williams_run.replace('_', '').split()
 
-        content_from_key = CmdIdioms.parse_entry_items(content)
+        content_from_key = CmdIdioms.parse_entry_items(entry_content)
 
         CharacterEntry.lint_keys(content_from_key, heading_content)
 
