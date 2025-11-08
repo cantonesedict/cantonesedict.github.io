@@ -88,7 +88,7 @@ class CmdIdioms:
     def strip_compositions(content: str) -> str:
         return re.sub(
             pattern=r'\{ (?P<character> \S ) = \S+ \}',
-            repl='',
+            repl=r'\g<character>',
             string=content,
             flags=re.VERBOSE
         )
