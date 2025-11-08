@@ -10,7 +10,6 @@ import os
 import re
 import sys
 from collections import defaultdict
-from itertools import groupby
 from typing import Optional, TypeVar
 
 T1 = TypeVar('T1')
@@ -1299,11 +1298,10 @@ class Executor:
         # TODO: self.index_radicals()  # characters by radical
 
     def _index_entries(self):
-        entry_pages_from_incipit: dict[str, list['EntryPage']] = {
-            incipit: list(cmd_source_iterator)
-            for incipit, cmd_source_iterator
-            in groupby(self.entry_pages, key=lambda entry_page: entry_page.page_title[0])
-        }
+        entry_pages_from_incipit = Utilities.collate_first_by_second([
+            (entry_page, entry_page.page_title[0])
+            for entry_page in self.entry_pages
+        ])
 
         with open('entries/index.cmd', 'r', encoding='utf-8') as read_file:
             updated_content = content = read_file.read()
