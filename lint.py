@@ -1379,7 +1379,7 @@ class Executor:
 
                 other_see_also_links = other_entry_page.page_entry.see_also_links
                 if other_see_also_links is None or f'${jyutping}' not in other_see_also_links:
-                    raise LintException(f'see also `${other_jyutping}` for page entry `{jyutping}` not reciprocated')
+                    raise LintException(f'missing see also link `${jyutping}` under page entry for `{other_jyutping}`')
 
     @staticmethod
     def lint_character_entry_see_also_reciprocation(character_entries: list['CharacterEntry']):
