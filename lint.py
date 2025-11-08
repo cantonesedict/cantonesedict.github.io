@@ -1430,7 +1430,7 @@ class Linter:
         with open('terms/index.cmd', 'r', encoding='utf-8') as read_file:
             new_content = content = read_file.read()
 
-        new_content = self._replace_terms_table(new_content, split_cantonese_entries)
+        new_content = Linter._replace_terms_table(new_content, split_cantonese_entries)
 
         if new_content == content:
             return
