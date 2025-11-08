@@ -408,7 +408,7 @@ class EntryPage:
     tone_navigator: 'ToneNavigator'
     tone_headings: list['ToneHeading']
     character_navigators: list['CharacterNavigator']
-    character_entries_from_tone_number: dict[str, list['CharacterEntry']]
+    character_entries: list['CharacterEntry']
 
     def __init__(self, file_name: str, content: str):
         is_done = '(Work in progress)' not in content
@@ -421,10 +421,6 @@ class EntryPage:
             tone_headings = EntryPage.extract_tone_headings(content, page_heading.jyutping)
             character_navigators = EntryPage.extract_character_navigators(content)
             character_entries = EntryPage.extract_character_entries(content, page_heading.jyutping)
-            character_entries_from_tone_number = Utilities.collate_first_by_second([
-                (character_entry, character_entry.tone_number)
-                for character_entry in character_entries
-            ])
 
             EntryPage.lint_tone_heading_order(tone_headings)
             EntryPage.lint_character_entry_order(character_entries)
@@ -432,7 +428,7 @@ class EntryPage:
             EntryPage.lint_page_heading_against_page_entry(page_heading, page_entry)
             EntryPage.lint_page_heading_against_tone_headings(page_heading, tone_headings)
             EntryPage.lint_tone_headings_against_character_navigators(tone_headings, character_navigators)
-            EntryPage.lint_tone_headings_against_character_entries(tone_headings, character_entries_from_tone_number, is_done)
+            EntryPage.lint_tone_headings_against_character_entries(tone_headings, character_entries, is_done)
         except LintException as lint_exception:
             print(f'lint error in `{file_name}`: {lint_exception.message}', file=sys.stderr)
             sys.exit(1)
@@ -446,7 +442,7 @@ class EntryPage:
         self.tone_navigator = tone_navigator
         self.tone_headings = tone_headings
         self.character_navigators = character_navigators
-        self.character_entries_from_tone_number = character_entries_from_tone_number
+        self.character_entries = character_entries
 
     def self_index(self):
         updated_content = content = self.content
@@ -483,6 +479,11 @@ class EntryPage:
     def _update_character_navigators(self, content: str) -> str:
         updated_content = content
 
+        character_entries_from_tone_number = Utilities.collate_first_by_second([
+            (character_entry, character_entry.tone_number)
+            for character_entry in self.character_entries
+        ])
+
         for character_navigator in self.character_navigators:
             tone_number = character_navigator.tone_number
             character_navigator_content_expected = '\n'.join([
@@ -491,7 +492,7 @@ class EntryPage:
                 '=={.modern}',
                 *[
                     f'- {character_entry.same_page_link()}'
-                    for character_entry in self.character_entries_from_tone_number[tone_number]
+                    for character_entry in character_entries_from_tone_number[tone_number]
                 ],
                 '==',
                 '</nav>',
@@ -652,17 +653,17 @@ class EntryPage:
 
     @staticmethod
     def lint_tone_headings_against_character_entries(tone_headings: list['ToneHeading'],
-                                                     character_entries_from_tone_number: dict[str, list['CharacterEntry']],
-                                                     is_done: bool):
+                                                     character_entries: list['CharacterEntry'], is_done: bool):
         if not is_done:
             return
 
         for tone_heading in tone_headings:
             tone_heading_williams_set = set(tone_heading.williams_list)
             character_entry_williams_set = set(
-                (f'``{williams}``' if relevant_character_entry.is_added else williams).replace('^', '')
-                for relevant_character_entry in character_entries_from_tone_number[tone_heading.tone_number]
-                for williams in relevant_character_entry.williams_list
+                (f'``{williams}``' if character_entry.is_added else williams).replace('^', '')
+                for character_entry in character_entries
+                if character_entry.tone_number == tone_heading.tone_number
+                for williams in character_entry.williams_list
             )
             character_entry_williams_set_redundant = set(
                 f'``{williams}``'  # insertion is redundant if non-insertion is also present
