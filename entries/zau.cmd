@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2025-11-03
+* %date-modified --> 2025-11-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -183,7 +183,7 @@ C
   ==
 E
   ====
-  - 【周身刀冇張利】 (zau1 san1 dou1 mou5 zoeng1 lei6)
+  - 【周身刀冇張利】 (zau1 san1 dou1 mou5 zoeng1 lei6):
     ++
     1. Jack of all trades, master of none.
        (Literally, "Knives all-about the person, [but] not [one] sharp".)

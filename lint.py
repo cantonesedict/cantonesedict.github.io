@@ -1205,7 +1205,7 @@ class CharacterEntry:
                 pattern=r'''
                     ^ [ ]+ [-][ ]
                     【 (?P<term> [^\s-]+ ) (?P<disambiguation_suffix> \S* ) 】
-                    [ ] \( (?P<jyutping_content> .* ) \) : $
+                    [ ] \( (?P<jyutping_content> .* ) \) :
                 ''',
                 string=content,
                 flags = re.MULTILINE | re.VERBOSE,
@@ -1308,10 +1308,16 @@ class CantoneseEntry:
         url_fragment = f'cantonese-{CmdIdioms.strip_compositions(self.term)}{self.disambiguation_suffix}'
         return f'/{url_path}#{url_fragment}'
 
+    def split(self) -> list['CantoneseEntry']:
+        return [
+            CantoneseEntry(self.term, self.disambiguation_suffix, split_jyutping, self.page_heading_jyutping)
+            for split_jyutping in self.jyutping_list
+        ]
 
 class Linter:
     cmd_sources: list['CmdSource']
     entry_pages: list['EntryPage']
+    cantonese_entries: list['CantoneseEntry']
 
     def __init__(self):
         cmd_file_names = [
@@ -1351,6 +1357,7 @@ class Linter:
 
         self.cmd_sources = cmd_sources
         self.entry_pages = entry_pages
+        self.cantonese_entries = cantonese_entries
 
     def index_intrapage(self):
         for cmd_source in self.cmd_sources:
@@ -1358,7 +1365,7 @@ class Linter:
 
     def index_interpage(self):
         self.index_entries()  # entry pages by Jyutping
-        # TODO: self.index_terms()  # Cantonese terms by Jyutping
+        self.index_terms()  # Cantonese terms by Jyutping
         # TODO: self.index_search()  # characters and compositions
         # TODO: self.index_radicals()  # characters by radical
 
@@ -1378,6 +1385,24 @@ class Linter:
             return
 
         with open('entries/index.cmd', 'w', encoding='utf-8') as write_file:
+            write_file.write(updated_content)
+
+    def index_terms(self):
+        split_cantonese_entries = sorted(
+            split_cantonese_entry
+            for cantonese_entry in self.cantonese_entries
+            for split_cantonese_entry in cantonese_entry.split()
+        )
+
+        with open('terms/index.cmd', 'r', encoding='utf-8') as read_file:
+            updated_content = content = read_file.read()
+
+        updated_content = self._replace_terms_table(updated_content, split_cantonese_entries)
+
+        if updated_content == content:
+            return
+
+        with open('terms/index.cmd', 'w', encoding='utf-8') as write_file:
             write_file.write(updated_content)
 
     @staticmethod
@@ -1583,6 +1608,47 @@ class Linter:
         return re.sub(
             pattern=r'<## entries ##>.*?<## /entries ##>',
             repl=Utilities.literal_replacement_pattern(entry_links_content_expected),
+            string=content,
+            flags=re.DOTALL,
+        )
+
+    @staticmethod
+    def _replace_terms_table(content: str, split_cantonese_entries: list['CantoneseEntry']) -> str:
+        terms_table_content_expected = Utilities.nested_newline_join([
+            "<## terms-table ##>",
+            "||||{.wide}",
+            "''{.modern}",
+            "|^",
+            "  //",
+            "    ; Jyutping",
+            "    ; Entry link",
+            "|:",
+            [
+                [
+                    f'  //',
+                    f'    , {jyutping}',
+                    f'    , [{link_text}{parenthetical_suffix}]({url})',
+                ]
+                for split_cantonese_entry in split_cantonese_entries
+                if (
+                    jyutping := split_cantonese_entry.jyutping_list[0],
+                    link_text := split_cantonese_entry.term,
+                    parenthetical_suffix := re.sub(
+                        pattern='-(?P<sense>.*)',
+                        repl=r'~(\g<sense>)',
+                        string=split_cantonese_entry.disambiguation_suffix,
+                    ),
+                    url := split_cantonese_entry.url(),
+                )
+            ],
+            "''",
+            "||||",
+            "<## /terms-table ##>",
+        ])
+
+        return re.sub(
+            pattern=r'<## terms-table ##>.*?<## /terms-table ##>',
+            repl=Utilities.literal_replacement_pattern(terms_table_content_expected),
             string=content,
             flags=re.DOTALL,
         )

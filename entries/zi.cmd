@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2025-11-03
+* %date-modified --> 2025-11-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2294,19 +2294,19 @@ P
   ++
 E
   ====
-  - 【尾指】 (mei5-1 zi2)
+  - 【尾指】 (mei5-1 zi2):
     ++
     1. The pinky.
     ++
-  - 【手指公】 (sau2 zi2 gung1)
+  - 【手指公】 (sau2 zi2 gung1):
     ++
     1. The thumb.
     ++
-  - 【手指尾】 (sau2 zi2 mei5-1)
+  - 【手指尾】 (sau2 zi2 mei5-1):
     ++
     1. The pinky.
     ++
-  - 【食指】 (sik6 zi2)
+  - 【食指】 (sik6 zi2):
     ++
     1. The index finger.
     ++
@@ -3094,7 +3094,7 @@ E
     ++
     1. The big toe.
     ++
-  - 【腳趾尾】 (goek3 zi2 mei5-1)
+  - 【腳趾尾】 (goek3 zi2 mei5-1):
     ++
     1. The little toe.
     ++

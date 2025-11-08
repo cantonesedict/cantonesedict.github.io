@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zim
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -172,7 +172,7 @@ E
     ++
     1. To push in.
     ++
-  - 【尖隊】 (zim1 deoi6-2)
+  - 【尖隊】 (zim1 deoi6-2):
     ++
     1. To push in line.
     ++
