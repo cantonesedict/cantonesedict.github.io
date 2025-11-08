@@ -138,7 +138,7 @@ class CmdSource:
             CmdSource.lint_jyutping_yod(content)
             CmdSource.lint_romanisation_tone_consistency(content)
         except LintException as lint_exception:
-            print(f'lint error in `{file_name}`: {lint_exception.message}', file=sys.stderr)
+            print(f'Error in `{file_name}`: {lint_exception.message}', file=sys.stderr)
             sys.exit(1)
 
         if file_name.startswith('entries/') and not file_name.endswith('index.cmd'):
@@ -440,7 +440,7 @@ class EntryPage:
             EntryPage.lint_tone_headings_against_character_navigators(tone_headings, character_navigators)
             EntryPage.lint_tone_headings_against_character_entries(tone_headings, character_entries, is_done)
         except LintException as lint_exception:
-            print(f'lint error in `{file_name}`: {lint_exception.message}', file=sys.stderr)
+            print(f'Error in `{file_name}`: {lint_exception.message}', file=sys.stderr)
             sys.exit(1)
 
         self.file_name = file_name
@@ -1296,7 +1296,7 @@ class Executor:
             Executor.lint_page_entry_see_also_reciprocation(entry_pages)
             Executor.lint_character_entry_see_also_reciprocation(character_entries)
         except LintException as lint_exception:
-            print(f'lint error: {lint_exception.message}', file=sys.stderr)
+            print(f'Error: {lint_exception.message}', file=sys.stderr)
             sys.exit(1)
 
         self.cmd_sources = cmd_sources
