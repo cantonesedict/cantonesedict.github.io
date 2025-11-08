@@ -151,10 +151,8 @@ class CmdSource:
         self.entry_page = entry_page
 
     def self_index(self):
-        if self.entry_page is None:
-            return
-
-        self.entry_page.self_index()
+        if self.entry_page is not None:
+            self.entry_page.self_index()
 
     @staticmethod
     def lint_whitespace(content: str):
