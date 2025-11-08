@@ -1426,7 +1426,9 @@ class Executor:
                 composition: [str(character_entry) for character_entry in character_entries]
                 for composition, character_entries in character_entries_from_composition.items()
             }
-            raise LintException(f'inconsistent composition for character `{character}` entries: {collation_readable}')
+            raise LintException(
+                f'inconsistent composition under entries for character `{character}`: {collation_readable}'
+            )
 
     @staticmethod
     def lint_character_entry_radical_strokes_consistency(character: str, character_entries: list['CharacterEntry']):
@@ -1441,7 +1443,9 @@ class Executor:
                     [str(character_entry) for character_entry in character_entries]
                 for radical_strokes_values, character_entries in character_entries_from_radical_strokes_values.items()
             }
-            raise LintException(f'inconsistent R content for character `{character}` entries: {collation_readable}')
+            raise LintException(
+                f'inconsistent R content under entries for character `{character}`: {collation_readable}'
+            )
 
     @staticmethod
     def lint_character_entry_han_unification_vigilance_consistency(character: str,
@@ -1456,7 +1460,9 @@ class Executor:
                 h_content: [str(character_entry) for character_entry in character_entries]
                 for h_content, character_entries in character_entries_from_h_content.items()
             }
-            raise LintException(f'inconsistent H content for character `{character}` entries: {collation_readable}')
+            raise LintException(
+                f'inconsistent H content under entries for character `{character}`: {collation_readable}'
+            )
 
     @staticmethod
     def lint_character_entry_see_also_reciprocation(character_entries: list['CharacterEntry']):
