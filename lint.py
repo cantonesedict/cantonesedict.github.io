@@ -1293,6 +1293,11 @@ class CantoneseEntry:
             CmdIdioms.strip_compositions(self.term),
         )
 
+    def url(self) -> str:
+        url_path = f'entries/{self.page_heading_jyutping}'
+        url_fragment = f'cantonese-{CmdIdioms.strip_compositions(self.term)}{self.disambiguation_suffix}'
+        return f'/{url_path}#{url_fragment}'
+
 
 class Executor:
     cmd_sources: list['CmdSource']
@@ -1317,11 +1322,19 @@ class Executor:
             for entry_page in entry_pages
             for character_entry in entry_page.character_entries
         ]
+        cantonese_entries = [
+            cantonese_entry
+            for entry_page in entry_pages
+            for character_entry in entry_page.character_entries
+            if (cantonese_entries := character_entry.cantonese_entries) is not None
+            for cantonese_entry in cantonese_entries
+        ]
 
         try:
             Executor.lint_page_entry_see_also_reciprocation(entry_pages)
             Executor.lint_character_entry_invariants(character_entries)
             Executor.lint_character_entry_see_also_reciprocation(character_entries)
+            Executor.lint_cantonese_entry_url_duplication(cantonese_entries)
         except LintException as lint_exception:
             print(f'Error: {lint_exception.message}', file=sys.stderr)
             sys.exit(1)
@@ -1513,6 +1526,18 @@ class Executor:
                         f'missing see also link `{character_entry.universal_link()}` '
                         f'under character entry for `{other_character} {other_jyutping}`'
                     )
+
+    @staticmethod
+    def lint_cantonese_entry_url_duplication(cantonese_entries: list['CantoneseEntry']):
+        collated_cantonese_entries_from_url = Utilities.collate_firsts_by_second(
+            (cantonese_entry, cantonese_entry.url())
+            for cantonese_entry in cantonese_entries
+        )
+
+        for url, collated_cantonese_entries in collated_cantonese_entries_from_url.items():
+            if len(collated_cantonese_entries) > 1:
+                raise LintException(f'duplicated Cantonese entry URL `{url}`')
+
 
     @staticmethod
     def _update_entry_links(content: str, entry_pages_from_incipit: dict[str, list['EntryPage']]):

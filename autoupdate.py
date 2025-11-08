@@ -59,8 +59,6 @@ class Indexer:
         self.radical_index_object = self._gather_radical_index()
         self.composition_index_object = self._gather_composition_index()
 
-        Indexer._check_cantonese_entries(self.cantonese_entries)
-
     def update_terms(self):
         with open('terms/index.cmd', 'r', encoding='utf-8') as old_cmd_file:
             old_cmd_content = old_cmd_file.read()
@@ -241,25 +239,6 @@ class Indexer:
             return '{' + f'{character}={composition_from_character[character]}' + '}'
         except KeyError:
             return character
-
-    @staticmethod
-    def _check_cantonese_entries(cantonese_entries):
-        relative_urls = [
-            cantonese_entry.relative_url
-            for cantonese_entry in cantonese_entries
-        ]
-
-        duplicates = [
-            item
-            for item, count in collections.Counter(relative_urls).items()
-            if count > 1
-        ]
-        if duplicates:
-            print(
-                f'Error: duplicate cantonese entry relative URLs {duplicates}',
-                file=sys.stderr,
-            )
-            sys.exit(1)
 
 
 class Page:
