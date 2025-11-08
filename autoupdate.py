@@ -59,18 +59,6 @@ class Indexer:
         self.radical_index_object = self._gather_radical_index()
         self.composition_index_object = self._gather_composition_index()
 
-    def update_terms(self):
-        with open('terms/index.cmd', 'r', encoding='utf-8') as old_cmd_file:
-            old_cmd_content = old_cmd_file.read()
-
-        new_cmd_content = self._update_terms_table(old_cmd_content)
-
-        if new_cmd_content == old_cmd_content:
-            return
-
-        with open('terms/index.cmd', 'w', encoding='utf-8') as new_cmd_file:
-            new_cmd_file.write(new_cmd_content)
-
     def update_radix_all(self):
         for radix_cmd_name in self.radix_cmd_names:
             self._update_radix(radix_cmd_name)
@@ -418,7 +406,6 @@ def main():
     updater = Updater()
 
     indexer = Indexer(updater.entry_cmd_names)
-    indexer.update_terms()
     indexer.update_radix_all()
     indexer.write_character_index()
     # indexer.write_radical_index()
