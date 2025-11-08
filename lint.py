@@ -1186,12 +1186,12 @@ class CharacterEntry:
             return None
 
         return [
-            CantoneseEntry(term, disambiguation_suffix, jyutping_sequence, page_heading_jyutping)
+            CantoneseEntry(term, disambiguation_suffix, jyutping_content, page_heading_jyutping)
             for match in re.finditer(
                 pattern=r'''
                     ^ [ ]+ [-][ ]
                     【 (?P<term> [^\s-]+ ) (?P<disambiguation_suffix> \S* ) 】
-                    [ ] \( (?P<jyutping_sequence> .* ) \) : $
+                    [ ] \( (?P<jyutping_content> .* ) \) : $
                 ''',
                 string=content,
                 flags = re.MULTILINE | re.VERBOSE,
@@ -1199,7 +1199,7 @@ class CharacterEntry:
             if (
                 term := match.group('term'),
                 disambiguation_suffix := match.group('disambiguation_suffix'),
-                jyutping_sequence := match.group('jyutping_sequence'),
+                jyutping_content := match.group('jyutping_content'),
             )
         ]
 
@@ -1255,10 +1255,10 @@ class CantoneseEntry:
     jyutping_list: list[str]
     page_heading_jyutping: str
 
-    def __init__(self, term: str, disambiguation_suffix: str, jyutping_sequence: str, page_heading_jyutping: str):
+    def __init__(self, term: str, disambiguation_suffix: str, jyutping_content: str, page_heading_jyutping: str):
         self.term = term
         self.disambiguation_suffix = disambiguation_suffix
-        self.jyutping_list = jyutping_sequence.split(sep=', ')
+        self.jyutping_list = jyutping_content.split(sep=', ')
         self.page_heading_jyutping = page_heading_jyutping
 
     def __lt__(self, other):
