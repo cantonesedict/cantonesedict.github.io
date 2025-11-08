@@ -37,11 +37,13 @@ CJK_UNIFIED_IDEOGRAPH_RADICALS = (
 KANGXI_RADICALS = ''.join(chr(code_point) for code_point in range(0x2F00, 0x2FD6))
 
 
-class CmdIdioms:
+class Utilities:
     @staticmethod
     def literal_replacement_pattern(content: str) -> str:
         return content.replace('\\', r'\\')
 
+
+class CmdIdioms:
     @staticmethod
     def parse_entry_items(content: str) -> dict[str, str]:
         return {
@@ -1326,7 +1328,7 @@ class Executor:
         return re.sub(
             pattern=r'<## incipits ##>.*?<## /incipits ##>',
             string=content,
-            repl=CmdIdioms.literal_replacement_pattern(incipit_navigator_content_expected),
+            repl=Utilities.literal_replacement_pattern(incipit_navigator_content_expected),
             flags=re.DOTALL,
         )
 
@@ -1385,7 +1387,7 @@ class Executor:
         return re.sub(
             pattern=r'<## entries ##>.*?<## /entries ##>',
             string=content,
-            repl=CmdIdioms.literal_replacement_pattern(entry_links_content_expected),
+            repl=Utilities.literal_replacement_pattern(entry_links_content_expected),
             flags=re.DOTALL,
         )
 
