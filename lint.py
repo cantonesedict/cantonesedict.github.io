@@ -242,7 +242,7 @@ class CmdSource:
 
     @staticmethod
     def lint_insertion_deletion_context(content: str):
-        non_exempt_pattern = '|'.join([
+        exempt_pattern = '|'.join([
             r'< (?P<hashes> \#+ ) (?s: .+? ) (?P=hashes) > ',  # comments
             r'^ \# \{\.williams\} \s+ .*? \[\[ [a-z]+ \]\] $',  # page headings
             r'^ \#\# \{ \# [1-6] \s+ \.williams \} \s+ .*? \[\[ [a-z]+ [1-6] \s+ \S+ \]\] $',  # tone headings
@@ -257,7 +257,7 @@ class CmdSource:
             re.escape('[[Not present]]'),  # contextual non-insertions
         ])
         non_exempt_content = re.sub(
-            pattern=non_exempt_pattern,
+            pattern=exempt_pattern,
             repl='',
             string=content,
             flags=re.MULTILINE | re.VERBOSE,
