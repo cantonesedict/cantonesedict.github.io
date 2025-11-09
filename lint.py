@@ -393,7 +393,7 @@ class CmdSource:
     @staticmethod
     def lint_jyutping_entering_tone(content: str):
         if run_match := re.search(
-            pattern=r'\b (?<! < ) [a-z]+ [789] \b',
+            pattern=r'(?<! < ) \b [a-z]+ [789] \b',
             string=content,
             flags=re.IGNORECASE | re.VERBOSE,
         ):
