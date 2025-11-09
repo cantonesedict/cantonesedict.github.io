@@ -455,7 +455,9 @@ class CmdSource:
             flags=re.IGNORECASE | re.VERBOSE,
         ):
             run = run_match.group()
-            raise LintException(f'missing Williams apical apostrophe in `{run}`')
+            raise LintException(
+                f'missing Williams apical apostrophe in `{run}` (suppress with caret after `sz` if legitimate)'
+            )
 
     @staticmethod
     def lint_jyutping_entering_tone(content: str):
