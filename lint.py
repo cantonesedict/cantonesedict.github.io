@@ -449,6 +449,10 @@ class CmdSource:
 
     @staticmethod
     def lint_williams_apical_apostrophe(content: str):
+        # Fast elimination of negative cases
+        if not re.search(pattern=r"sz [^'`^]", string=content, flags=re.IGNORECASE | re.VERBOSE):
+            return
+
         if run_match := re.search(
             pattern=r"\S* sz [^'`^] \S*",
             string=content,
