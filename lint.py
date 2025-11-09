@@ -219,15 +219,29 @@ class CmdSource:
 
     @staticmethod
     def lint_cjk_non_bmp_composition(content: str):
-        non_exempt_content = re.sub(pattern='#cantonese-[⺀-〿㇀-㇣㐀-鿼豈-龎！-｠𠀀-𱍊]+', repl='', string=content)
-        whitelist = '𠂉𠂢𠆢𠔿𠦄𠫓𡈼𤣩𥫗𦈢𦣝𦣞𦥑𧰼𧶠𧾷𩙿'
+        whitelisted_primitives = '𠂉𠂢𠆢𠔿𠦄𠫓𡈼𤣩𥫗𦈢𦣝𦣞𦥑𧰼𧶠𧾷𩙿'
+        exempt_pattern = '|'.join([
+            r'\{ \S = \S+ \}',
+            r'\# cantonese - [⺀-〿㇀-㇣㐀-鿼豈-龎！-｠𠀀-𱍊]+',
+        ])
+        non_exempt_content = re.sub(
+            pattern=exempt_pattern,
+            repl='',
+            string=content,
+            flags=re.VERBOSE,
+        )
+
         if context_match := re.search(
-            pattern=fr'\S* (?! [{whitelist}] ) (?P<character> [\U00020000-\U0003134A] ) (?! [=@^] ) \S*',
+            pattern=fr'\S* (?P<character> [\U00020000-\U0003134A] ) [^@^] \S*',
             string=non_exempt_content,
             flags=re.VERBOSE,
         ):
             context = context_match.group()
             character = context_match.group('character')
+
+            if character in whitelisted_primitives:
+                return
+
             raise LintException(
                 f'missing composition for non-BMP ideograph `{character}` in `{context}` '
                 f'(suppress with at (in run) or caret (alone) after character if legitimate)'
