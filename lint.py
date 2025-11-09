@@ -216,6 +216,10 @@ class CmdSource:
 
     @staticmethod
     def lint_cjk_compatibility_ideograph(content: str):
+        # Fast elimination of negative cases
+        if not re.search(pattern='[\uF900-\uFAFF\U0002F800-\U0002FA1F]', string=content):
+            return
+
         if context_match := re.search(
             pattern=r'\S*? (?P<character> [\uF900-\uFAFF\U0002F800-\U0002FA1F] ) \S*',
             string=content,
