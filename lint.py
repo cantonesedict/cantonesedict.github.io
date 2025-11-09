@@ -333,6 +333,7 @@ class CmdSource:
 
     @staticmethod
     def lint_williams_initial_aspirate(content: str):
+        # Allowing false positive (in `two_characters_before`) is faster than using a negative lookbehind
         if run_match := re.search(
             pattern=r"\S* (?P<two_characters_before> .. ) \('\) \S*",
             string=content,
@@ -341,7 +342,7 @@ class CmdSource:
             run = run_match.group()
             two_characters_before = run_match.group('two_characters_before')
 
-            # Faster to throw out a false positive than to use a negative lookbehind for `two_characters_before`
+            # Elimination of false positive cases
             if re.fullmatch(
                 pattern=r'.p | .t | .k | kw | ts | ch | `` | .\^',
                 string=two_characters_before,
