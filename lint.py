@@ -283,11 +283,12 @@ class CmdSource:
     @staticmethod
     def lint_insertion_deletion_context(content: str):
         exempt_pattern = '|'.join([
+            r'< (?P<backticks> `+ ) (?s: .+? ) (?P=backticks) > ',  # literals
             r'< (?P<hashes> \#+ ) (?s: .+? ) (?P=hashes) > ',  # comments
             r'^ \# \{\.williams\} \s+ .*? \[\[ [a-z]+ \]\] $',  # page headings
             r'^ \#\# \{ \# [1-6] \s+ \.williams \} \s+ .*? \[\[ [a-z]+ [1-6] \s+ \S+ \]\] $',  # tone headings
             r'^ [#]{3} [+]? [ ] \S+ [1-6] [ ][|][ ] .*? [ ] \[\[ [a-z]+[1-6] \]\] $',  # character entry headings
-            r'^ (?: WH | WV | W ) \n (?: [ ].*\n )*',  # Williams entry items
+            r'^ (?: WH | WV | WP | W ) \n (?: [ ].*\n )*',  # Williams entry items
             r'''
                 ^ (?P<block_delimiter> [-+='"|]{2,} ) \{ \.williams (?: \s .*? )? \} \n
                 (?s: .*? ) \n
@@ -304,7 +305,7 @@ class CmdSource:
         )
 
         if insertion_context_match := re.search(
-            pattern=r'.* (?: \[\[ (?s: .+? ) \]\] | <ins.*> ) .*',
+            pattern=r'.* (?: \[\[ (?s: .+? ) \]\] | `` (?s: .+? ) `` | <ins.*> ) .*',
             string=non_exempt_content,
             flags=re.VERBOSE,
         ):
