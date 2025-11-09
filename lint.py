@@ -191,7 +191,7 @@ class CmdSource:
 
     @staticmethod
     def lint_whitespace(content: str):
-        if context_match := re.search(pattern=r'\S+\t\S+', string=content):
+        if context_match := re.search(pattern=r'.*\t.*', string=content):
             context = context_match.group()
             raise LintException(f'tab character present in `{context}`')
 
