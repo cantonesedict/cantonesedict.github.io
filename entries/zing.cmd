@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2025-11-06
+* %date-modified --> 2025-11-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -790,8 +790,7 @@ W
   ====
 C
   ==
-  - Fan Wan erroneously reads _(1)tsing_ (zing1) for 蜻 in 蜻蜓
-    (which Williams has followed).
+  - Fan Wan 蜻蜓 is erroneous for this reading.
   ==
 S
   ==

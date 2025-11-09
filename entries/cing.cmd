@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -384,6 +384,7 @@ W
   ====
 C
   ==
+  - Fan Wan erroneously reads _(1)tsing_ (zing1) (which Williams has followed).
   - Williams' 蜻蜓: Corrected _(1)t(')ing_ (ting1) to _(4)t(')ing_ (ting4).
   - Williams' "a kind of locust": This explanation is dubious.
   ==
