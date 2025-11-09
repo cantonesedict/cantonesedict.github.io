@@ -348,6 +348,10 @@ class CmdSource:
 
     @staticmethod
     def lint_williams_left_tone_position(content: str):
+        # Fast elimination of negative cases
+        if not re.search(pattern=r'[^_] \([1245]\) [_ ]', string=content, flags=re.VERBOSE):
+            return
+
         if run_match := re.search(
             pattern=r'\S* (?<! _ ) \([1245]\) [_ ]',
             string=content,
