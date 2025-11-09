@@ -201,12 +201,14 @@ class CmdSource:
 
     @staticmethod
     def lint_typography_quote(content: str):
+        quotes = '‘’“”'
+
         # Fast elimination of negative cases
-        if all(quote not in content for quote in '‘’“”'):
+        if all(quote not in content for quote in quotes):
             return
 
         if context_match := re.search(
-            pattern=r'\S* (?P<quote>[‘’“”]) \S*',
+            pattern=fr'\S* (?P<quote>[{quotes}]) \S*',
             string=content,
             flags=re.VERBOSE,
         ):
