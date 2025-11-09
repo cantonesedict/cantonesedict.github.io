@@ -198,7 +198,7 @@ class CmdSource:
     @staticmethod
     def lint_typography_quote(content: str):
         if context_match := re.search(
-            pattern=r'\S* (?<! \^ ) (?P<quote>[‘’“”]) \S*',
+            pattern=r'\S* (?P<quote>[‘’“”]) \S*',
             string=content,
             flags=re.VERBOSE,
         ):
