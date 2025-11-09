@@ -218,12 +218,14 @@ class CmdSource:
 
     @staticmethod
     def lint_cjk_compatibility_ideograph(content: str):
+        cjk_compatibility_ideograph_pattern = r'[\uF900-\uFAFF\U0002F800-\U0002FA1F]'
+
         # Fast elimination of negative cases
-        if not re.search(pattern='[\uF900-\uFAFF\U0002F800-\U0002FA1F]', string=content):
+        if not re.search(pattern=cjk_compatibility_ideograph_pattern, string=content):
             return
 
         if context_match := re.search(
-            pattern=r'\S*? (?P<character> [\uF900-\uFAFF\U0002F800-\U0002FA1F] ) \S*',
+            pattern=fr'\S*? (?P<character> {cjk_compatibility_ideograph_pattern} ) \S*',
             string=content,
             flags=re.VERBOSE,
         ):
