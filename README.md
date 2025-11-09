@@ -19,7 +19,7 @@ pipx install html5validator
 Build:
 
 ```bash
-./autoupdate.py
+./lint.py
 cmd --all
 html5validator --root .
 ```
