@@ -625,7 +625,7 @@ class EntryPage:
                 '=={.modern}',
                 [
                     f'- {character_entry.same_page_link()}'
-                    for character_entry in character_entries_from_tone_number[tone_number]
+                    for character_entry in character_entries_from_tone_number.get(tone_number, [])
                 ],
                 '==',
                 '</nav>',
