@@ -191,6 +191,10 @@ class CmdSource:
 
     @staticmethod
     def lint_whitespace(content: str):
+        # Fast elimination of negative cases
+        if '\t' not in content:
+            return
+
         if context_match := re.search(pattern=r'.*\t.*', string=content):
             context = context_match.group()
             raise LintException(f'tab character present in `{context}`')
