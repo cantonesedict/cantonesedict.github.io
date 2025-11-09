@@ -305,7 +305,7 @@ class CmdSource:
         )
 
         if insertion_context_match := re.search(
-            pattern=r'.* (?: \[\[ (?s: .+? ) \]\] | `` (?s: .+? ) `` | <ins.*> ) .*',
+            pattern=r'.* (?: \[\[ | `` | <ins ) .*',
             string=non_exempt_content,
             flags=re.VERBOSE,
         ):
@@ -313,7 +313,7 @@ class CmdSource:
             raise LintException(f'non-contextual insertion in `{insertion_context}`')
 
         if deletion_context_match := re.search(
-            pattern=r'.* (?: ~~ (?s: .+? ) ~~ | <del.*> ) .*',
+            pattern=r'.* (?: ~~ | <del ) .*',
             string=non_exempt_content,
             flags=re.VERBOSE,
         ):
