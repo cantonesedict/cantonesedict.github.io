@@ -417,6 +417,10 @@ class CmdSource:
 
     @staticmethod
     def lint_williams_diphthong(content: str):
+        # Fast elimination of negative cases
+        if not any(diphthong in content for diphthong in ['(i/)u', 'u(i/)']):
+            return
+
         if context_match := re.search(
             pattern=r"\S* (?P<diphthong> \(i/\)u | u\(i/\) ) \S*",
             string=content,
