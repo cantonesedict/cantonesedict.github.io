@@ -1153,7 +1153,7 @@ class CharacterEntry:
     def __str__(self):
         return self.heading_content
 
-    def sorting_rank(self) -> tuple:
+    def sorting_rank(self) -> tuple[str, str, int, bool, str]:
         return (
             self.jyutping,
             self.radical_strokes_list[0].radical,
@@ -1369,7 +1369,7 @@ class RadicalStrokes:
         self.radical = radical
         self.stroke_count = stroke_count
 
-    def __eq__(self, other: 'RadicalStrokes'):
+    def __eq__(self, other):
         return self.identity() == other.identity()
 
     def __hash__(self):
@@ -1381,7 +1381,7 @@ class RadicalStrokes:
     def __str__(self):
         return f'{self.radical} + {self.stroke_count}'
 
-    def identity(self):
+    def identity(self) -> tuple[str, int]:
         return self.radical, self.stroke_count
 
 
