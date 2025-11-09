@@ -318,8 +318,7 @@ class CmdSource:
         ):
             run = run_match.group()
             raise LintException(
-                f'unaspirated Williams tone 4 or 5 in `{run}` '
-                f'(suppress with caret before initial if legitimate)'
+                f'unaspirated Williams tone 4 or 5 in `{run}` (suppress with caret before initial if legitimate)'
             )
 
     @staticmethod
@@ -331,8 +330,7 @@ class CmdSource:
         ):
             run = run_match.group()
             raise LintException(
-                f'aspirated Williams tone 6 in `{run}` '
-                f'(suppress with caret after aspirate if legitimate)'
+                f'aspirated Williams tone 6 in `{run}` (suppress with caret after aspirate if legitimate)'
             )
 
     @staticmethod
@@ -355,8 +353,7 @@ class CmdSource:
         ):
             run = run_match.group()
             raise LintException(
-                f'wrong-side Williams nasal apostrophe in `{run}` '
-                f'(suppress with caret before apostrophe if legitimate)'
+                f'wrong-side Williams nasal apostrophe in `{run}` (suppress with caret before apostrophe if legitimate)'
             )
 
     @staticmethod
@@ -1406,7 +1403,7 @@ class CantoneseEntry:
     def __lt__(self, other):
         return self.sorting_rank() < other.sorting_rank()
 
-    def sorting_rank(self) -> tuple:
+    def sorting_rank(self) -> tuple[list[str], list[str], str]:
         return (
             self.jyutping_list,
             self.jyutping_list[0].split(),
