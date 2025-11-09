@@ -1376,7 +1376,7 @@ class RadicalStrokes:
         return hash(self.identity())
 
     def __lt__(self, other):
-        return self.identity() <= other.identity()
+        return self.identity() < other.identity()
 
     def __str__(self):
         return f'{self.radical} + {self.stroke_count}'
