@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fat
-* %date-modified --> 2025-11-07
+* %date-modified --> 2025-11-09
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -577,10 +577,17 @@ W
         [[zing3 fat1 正笏]]
         to hold the tablet.
     ==
+    --
+    [[Otherwise, a reading variation. **See $笏wat1 for the canonical entry.**]]
+    --
   ====
 C
   ==
   - Fan Wan entry: Corrected malformed 簪.
+  ==
+S
+  ==
+  - $笏wat1 (TODO) <## 氹笏, 十二笏, 掃管笏 ##>
   ==
 $$
 
