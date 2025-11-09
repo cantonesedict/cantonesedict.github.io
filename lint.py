@@ -316,11 +316,21 @@ class CmdSource:
     @staticmethod
     def lint_williams_initial_aspirate(content: str):
         if run_match := re.search(
-            pattern=r"\S* (?<! .p | .t | .k | kw | ts | ch | `` | .\^ ) \('\) \S*",
+            pattern=r"\S* (?P<two_characters_before> .. ) \('\) \S*",
             string=content,
             flags=re.IGNORECASE | re.VERBOSE,
         ):
             run = run_match.group()
+            two_characters_before = run_match.group('two_characters_before')
+
+            # Faster to throw out a false positive than to use a negative lookbehind for `two_characters_before`
+            if re.fullmatch(
+                pattern=r'.p | .t | .k | kw | ts | ch | `` | .\^',
+                string=two_characters_before,
+                flags=re.DOTALL | re.IGNORECASE | re.VERBOSE,
+            ):
+                return
+
             raise LintException(f'bad Williams aspirate in `{run}` (suppress with caret before aspirate if legitimate)')
 
     @staticmethod
