@@ -204,7 +204,7 @@ class CmdSource:
         quotes = '‘’“”'
 
         # Fast elimination of negative cases
-        if all(quote not in content for quote in quotes):
+        if not any(quote in content for quote in quotes):
             return
 
         if context_match := re.search(
