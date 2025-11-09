@@ -432,14 +432,19 @@ class CmdSource:
 
     @staticmethod
     def lint_williams_nasal_apostrophe(content: str):
-        if run_match := re.search(
-            pattern="(?: m | ng ) ' ",
+        # Fast elimination of negative cases
+        if not any(bad_syllable in content for bad_syllable in ["m'", "ng'"]):
+            return
+
+        if context_match := re.search(
+            pattern=r"\S* (?: m | ng ) ' \S*",
             string=content,
             flags=re.IGNORECASE | re.VERBOSE,
         ):
-            run = run_match.group()
+            context = context_match.group()
             raise LintException(
-                f'wrong-side Williams nasal apostrophe in `{run}` (suppress with caret before apostrophe if legitimate)'
+                f'wrong-side Williams nasal apostrophe in `{context}` '
+                f'(suppress with caret before apostrophe if legitimate)'
             )
 
     @staticmethod
