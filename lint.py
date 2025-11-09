@@ -132,12 +132,15 @@ class LintException(Exception):
 class CmdSource:
     file_name: str
     content: str
+    todo_count: int
     entry_page: Optional['EntryPage']
     radical_page: Optional['RadicalPage']
 
     def __init__(self, file_name: str):
         with open(file_name, 'r', encoding='utf-8') as cmd_file:
             content = cmd_file.read()
+
+        todo_count = content.count('TODO')
 
         try:
             CmdSource.lint_whitespace(content)
@@ -174,6 +177,7 @@ class CmdSource:
 
         self.file_name = file_name
         self.content = content
+        self.todo_count = todo_count
         self.entry_page = entry_page
         self.radical_page = radical_page
 
@@ -1498,7 +1502,7 @@ class Linter:
         added_count = sum(character_entry.is_added for character_entry in self.character_entries)
         present_count = character_entry_count - added_count
 
-        todo_count = sum(cmd_source.content.count('TODO') for cmd_source in self.cmd_sources)
+        todo_count = sum(cmd_source.todo_count for cmd_source in self.cmd_sources)
 
         print(Utilities.nested_newline_join([
             f'Statistics:',
