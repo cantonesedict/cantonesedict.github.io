@@ -332,8 +332,14 @@ class CmdSource:
 
     @staticmethod
     def lint_williams_entering_tone(content: str):
+        bad_entering_tone_pattern = r'[ptk] \([1-6]\)'
+
+        # Fast elimination of negative cases
+        if not re.search(pattern=bad_entering_tone_pattern, string=content, flags=re.VERBOSE):
+            return
+
         if run_match := re.search(
-            pattern=r'\S+ [ptk] \([1-6]\)',
+            pattern=fr'\S+ {bad_entering_tone_pattern}',
             string=content,
             flags=re.VERBOSE,
         ):
