@@ -418,7 +418,7 @@ class CmdSource:
     @staticmethod
     def lint_williams_diphthong(content: str):
         # Fast elimination of negative cases
-        if not any(diphthong in content for diphthong in ['(i/)u', 'u(i/)']):
+        if not any(diphthong in content.lower() for diphthong in ['(i/)u', 'u(i/)']):
             return
 
         if context_match := re.search(
@@ -433,7 +433,7 @@ class CmdSource:
     @staticmethod
     def lint_williams_nasal_apostrophe(content: str):
         # Fast elimination of negative cases
-        if not any(bad_syllable in content for bad_syllable in ["m'", "ng'"]):
+        if not any(bad_syllable in content.lower() for bad_syllable in ["m'", "ng'"]):
             return
 
         if context_match := re.search(
@@ -450,7 +450,7 @@ class CmdSource:
     @staticmethod
     def lint_williams_apical_apostrophe(content: str):
         # Fast elimination of negative cases
-        if not re.search(pattern=r"sz [^'`^]", string=content, flags=re.IGNORECASE | re.VERBOSE):
+        if not re.search(pattern=r"sz [^'`^]", string=content.lower(), flags=re.IGNORECASE | re.VERBOSE):
             return
 
         if run_match := re.search(
