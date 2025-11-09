@@ -282,6 +282,12 @@ class CmdSource:
 
     @staticmethod
     def lint_insertion_deletion_context(content: str):
+        insertion_deletion_markers = ['[[', '``', '<ins', '~~', '<del']
+
+        # Fast elimination of negative cases (in `content`)
+        if not any(marker in content for marker in insertion_deletion_markers):
+            return
+
         exempt_pattern = '|'.join([
             r'< (?P<backticks> `+ ) (?s: .+? ) (?P=backticks) > ',  # literals
             r'< (?P<hashes> \#+ ) (?s: .+? ) (?P=hashes) > ',  # comments
@@ -303,6 +309,10 @@ class CmdSource:
             string=content,
             flags=re.MULTILINE | re.VERBOSE,
         )
+
+        # Fast elimination of negative cases (in `non_exempt_content`)
+        if not any(marker in non_exempt_content for marker in insertion_deletion_markers):
+            return
 
         if insertion_context_match := re.search(
             pattern=r'.* (?: \[\[ | `` | <ins ) .*',
