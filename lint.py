@@ -265,8 +265,14 @@ class CmdSource:
 
     @staticmethod
     def lint_cjk_variation_selector(content: str):
+        cjk_variation_selector_pattern = r'[\uFE00-\uFE0F]'
+
+        # Fast elimination of negative cases
+        if not re.search(pattern=cjk_variation_selector_pattern, string=content):
+            return
+
         if context_match := re.search(
-            pattern=r'\S* (?P<character>.) [\uFE00-\uFE0F] \S*',
+            pattern=fr'\S* (?P<character>.) {cjk_variation_selector_pattern} \S*',
             string=content,
             flags=re.VERBOSE,
         ):
