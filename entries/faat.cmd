@@ -47,6 +47,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $沷3
 - $法3
 - $灋3
 - $發3
@@ -54,6 +55,30 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 沷3 | _F(a/)t(8)_ [[faat3]]
+
+$$
+R
+  ⽔ + 5
+U
+  U+6CB7
+V
+  ==
+  - fat1 (alternative per Kangxi 敷勿切)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~714 沷(8)]]
+    ==
+    - Cold [[Kangxi: 寒也]];
+    - to open sluices, to let water in over fields,
+      for irrigating them [[Kangxi: 一曰渫也通流也, 沷灌也]].
+    ==
+  ====
+$$
 
 ### 法3 | _F(a/)t(8)_ [[faat3]]
 
