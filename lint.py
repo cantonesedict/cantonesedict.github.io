@@ -1598,27 +1598,40 @@ class Linter:
 
         character_count = len(set(character_entry.character for character_entry in self.character_entries))
         character_entry_count = len(self.character_entries)
+        entry_character_ratio = character_entry_count / character_count
 
         added_count = sum(character_entry.is_added for character_entry in self.character_entries)
         present_count = character_entry_count - added_count
+        added_fraction = added_count / character_entry_count
+        present_fraction = present_count / character_entry_count
 
         canonical_count = sum(character_entry.is_canonical for character_entry in self.character_entries)
-        redirect_count = character_entry_count - canonical_count
+        redirective_count = character_entry_count - canonical_count
+        canonical_fraction = canonical_count / character_entry_count
+        redirective_fraction = redirective_count / character_entry_count
 
         todo_count = sum(cmd_source.todo_count for cmd_source in self.cmd_sources)
 
         print(Utilities.nested_newline_join([
             f'Statistics:',
+            f'================================================================',
             f'- {entry_page_count} entry pages',
+            f'  ================================',
             f'  - {done_count}/{entry_page_count} = {done_count / entry_page_count :.1%} done',
             f'  - {wip_count}/{entry_page_count} = {wip_count / entry_page_count :.1%} work in progress',
+            f'  ================================',
             f'- {character_entry_count} character entries per {character_count} characters'
-            f' = {character_entry_count / character_count :.2f} entries per character',
-            f'  - {present_count}/{character_entry_count} = {present_count / character_entry_count :.1%} present',
-            f'  - {added_count}/{character_entry_count} = {added_count / character_entry_count :.1%} added',
-            f'  - {canonical_count}/{character_entry_count} = {canonical_count / character_entry_count :.1%} canonical',
-            f'  - {redirect_count}/{character_entry_count} = {redirect_count / character_entry_count :.1%} redirect',
+            f' = {entry_character_ratio :.2f} entries per character',
+            f'  ================================',
+            f'  - {present_count}/{character_entry_count} = {present_fraction :.1%} of headings present in Williams',
+            f'  - {added_count}/{character_entry_count} = {added_fraction :.1%} of headings added by Conway',
+            f'  ================================',
+            f'  ================================',
+            f'  - {canonical_count}/{character_entry_count} = {canonical_fraction :.1%} of entries canonical',
+            f'  - {redirective_count}/{character_entry_count} = {redirective_fraction :.1%} of entries redirective',
+            f'  ================================',
             f'- {todo_count} TODO',
+            f'================================================================',
         ]))
 
     def index_entries(self):
