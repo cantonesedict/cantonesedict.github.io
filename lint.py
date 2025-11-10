@@ -1598,8 +1598,12 @@ class Linter:
 
         character_count = len(set(character_entry.character for character_entry in self.character_entries))
         character_entry_count = len(self.character_entries)
+
         added_count = sum(character_entry.is_added for character_entry in self.character_entries)
         present_count = character_entry_count - added_count
+
+        canonical_count = sum(character_entry.is_canonical for character_entry in self.character_entries)
+        redirect_count = character_entry_count - canonical_count
 
         todo_count = sum(cmd_source.todo_count for cmd_source in self.cmd_sources)
 
@@ -1612,6 +1616,8 @@ class Linter:
             f' = {character_entry_count / character_count :.2f} entries per character',
             f'  - {present_count}/{character_entry_count} = {present_count / character_entry_count :.1%} present',
             f'  - {added_count}/{character_entry_count} = {added_count / character_entry_count :.1%} added',
+            f'  - {canonical_count}/{character_entry_count} = {canonical_count / character_entry_count :.1%} canonical',
+            f'  - {redirect_count}/{character_entry_count} = {redirect_count / character_entry_count :.1%} redirect',
             f'- {todo_count} TODO',
         ]))
 
