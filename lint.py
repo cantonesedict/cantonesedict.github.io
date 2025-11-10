@@ -486,15 +486,17 @@ class CmdSource:
     @staticmethod
     def lint_romanisation_tone_consistency(content: str):
         for dual_romanisation_match in re.finditer(
-            pattern=r'_ (?P<williams> \S [^_\n]*? \S ) _ \s+ (?: \[\[ | \( ) (?P<jyutping> .+? ) (?: \]\] | \) )',
+            pattern=r'_ (?P<williams> \S [^_\n]*? \S ) _ \s+ (?: \[\[ | \( ) (?P<jyutping_etc> .+? ) (?: \]\] | \) )',
             string=content,
             flags=re.VERBOSE,
         ):
+            dual_romanisation = dual_romanisation_match.group()
             williams = dual_romanisation_match.group('williams')
-            jyutping = dual_romanisation_match.group('jyutping')
+            jyutping_etc = dual_romanisation_match.group('jyutping_etc')
 
+            dual_romanisation_reduced = re.sub(pattern=r'\s+', repl=' ', string=dual_romanisation)
             williams_tone_runs = re.findall(pattern=r'\([1-9]\)', string=williams)
-            jyutping_tone_runs = re.findall(pattern='[1-6](?:-[1-6])?', string=jyutping)
+            jyutping_tone_runs = re.findall(pattern='[1-6](?:-[1-6])?', string=jyutping_etc)
 
             if not williams_tone_runs or not jyutping_tone_runs:
                 continue
@@ -505,7 +507,7 @@ class CmdSource:
 
                 raise LintException(
                     f'inconsistent Williams tones {williams_tone_runs !r} vs Jyutping tones {jyutping_tone_runs} '
-                    f'in `{williams}` vs `{jyutping}`'
+                    f'in `{dual_romanisation_reduced}`'
                 )
 
             reduced_williams = re.sub(pattern='~~.+?~~', repl='', string=williams)
@@ -517,7 +519,7 @@ class CmdSource:
 
             raise LintException(
                 f'inconsistent Williams tones {reduced_williams_tone_runs !r} vs Jyutping tones {jyutping_tone_runs} '
-                f'in `{williams}` vs `{jyutping}`'
+                f'in `{dual_romanisation_reduced}`'
             )
 
     @staticmethod
