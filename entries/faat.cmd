@@ -50,6 +50,7 @@ $$
 - $法3
 - $灋3
 - $發3
+- $髮3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -245,5 +246,64 @@ S
   ==
   - $發but3 (TODO) <## same as 撥; also 鱣鮪發發 ##>
   - $發but6 (TODO) <## same as 撥 ##>
+  ==
+$$
+
+### 髮3 | _F(a/)t(8)_ [[faat3]]
+
+$$
+R
+  ⾽ + 5
+U
+  U+9AEE
+F
+  ==
+  - (F2.72 髮) 毛髮
+  ==
+W
+  ====
+  - [[Page~51 髮(8)]]
+    ==
+    - Hair of the head [[Kangxi: 首上毛也]];
+    - _met._ herbs, trees, moss [[Kangxi: 毛草也地理書云山以草木爲髮]];
+    - _ch(')uk(7) f(a/)t(8)_
+        [[cuk1 faat3 束髮]]
+        to bind up the hair;
+    - _(1)p(')(i/) (4)t(')au (2)s(a/)n f(a/)t(8)_
+        [[pei1 tau4 saan2 faat3 披頭散髮]]
+        disheveled hair;
+    - _s(e/)uk(8) f(a/)t(8)_
+        [[soek3 faat3 削髮]]
+        to shave the whole head;
+    - _k(i/)t(8) f(a/)t(8)_
+        [[git3 faat3 結髮]]
+        marriage of virgins;
+    - _shek(9) f(a/)t(8)_
+        [[sek6 faat3 石髮]]
+        mosses;
+    - _f(a/)t(8) ts(')oi(3)_
+        [[faat3 coi3 髮菜]]
+        an algæ used for food;
+    - _f(a/)t(8) (5)mong_
+        [[faat3 mong5 髮網]],
+        female's false hair;
+    - _(1)f(i/) f(a/)t(8)_
+        [[fei1 faat3 飛髮]] <## TODO: 飛髮 fei1 faat3 under $飛fei1 ##>
+        to clip the hair with a razor;
+    - _(4)lau (4)t(')au pat(7) (4)lau f(a/)t(8)_
+        [[lau4 tau4 bat1 lau4 faat3 留頭不留髮]]
+        ~~married~~ ``to retain your head, do not retain your hair``.
+    ==
+  ====
+C
+  ==
+  - Williams' 削髮: Especially in preparation for becoming a Buddhist monk or nun.
+  - Williams' 髮網: Now "hairnet".
+  - Williams' 留頭不留髮: Clearly not "married".
+    Instead, one of the slogans allegedly used during enforcement of
+    the Ts(')ing Dynasty policy for Han Chinese men
+    to adopt Manchurian hairstyle (a shaved forehead plus a queue).
+    The second half is 留髮不留頭,
+    "retain [your] hair [and you will] not retain [your] head".
   ==
 $$
