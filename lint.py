@@ -957,6 +957,7 @@ class PageEntry:
             content_from_key = CmdIdioms.parse_entry_items(content)
 
             PageEntry.lint_keys(content_from_key)
+            PageEntry.lint_wh_contextual_non_insertion(content_from_key['WH'])
 
             wh_williams_list = PageEntry.extract_williams_heading_list(content_from_key['WH'])
             wp_williams_list = PageEntry.extract_williams_heading_list(content_from_key['WP'])
@@ -992,6 +993,17 @@ class PageEntry:
 
         if not re.fullmatch(pattern=pattern, string=keys):
             raise LintException(f'page entry keys `{keys}` do not match pattern `{pattern_readable}`')
+
+    @staticmethod
+    def lint_wh_contextual_non_insertion(content: str):
+        if '[[...]]' in content:
+            raise LintException('contextual non-insertion `[[...]]` in WH')
+
+        if '[[Not present]]' in content:
+            raise LintException(
+                'contextual non-insertion `[[Not present]]` in WH; '
+                'change to insertion with caret before closing square brackets'
+            )
 
     @staticmethod
     def lint_williams_heading_lists(wh_williams_list: list[str], wp_williams_list: list[str]):
