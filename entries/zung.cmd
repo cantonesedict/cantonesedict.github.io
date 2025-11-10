@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zung
-* %date-modified --> 2025-11-03
+* %date-modified --> 2025-11-10
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -154,6 +154,13 @@ E
        ==
        - 中意睇戲 (zung1 ji3 tai2 hei3): "[I] like watching movies."
        - 唔中意佢 (m4 zung1 ji3 keoi5): "[I] don't like him."
+       ==
+    ++
+  - 【中文】 (zung1 man4-2):
+    ++
+    1. The Chinese language, as realised through spoken Cantonese.
+       ==
+       - 識講中文 (sik1 gong2 zung1 man4-2): "Know [how to] speak Cantonese."
        ==
     ++
   ====
