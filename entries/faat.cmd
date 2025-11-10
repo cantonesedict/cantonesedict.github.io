@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faat
-* %date-modified --> 2025-11-09
+* %date-modified --> 2025-11-10
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -47,10 +47,74 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $法3
 - $發3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 法3 | _F(a/)t(8)_ [[faat3]]
+
+$$
+R
+  ⽔ + 5
+U
+  U+6CD5
+A
+  ==
+  - 灋
+  ==
+F
+  ==
+  - (F2.72 法) 法度法則又刑法方法
+  - (F2.72 ::[灋]::) 古法字
+  ==
+W
+  ====
+  - [[Page~51 法(8)]]
+    ==
+    - A rule, a law, usage [[Kangxi: 法常也, 法偪也偪而使有所限也, etc.]];
+    - regulations, precepts;
+    - a punishment [[Kangxi: {𠛬=⿰幵刂}法也]] or legal infliction;
+    - an art;
+    - skill, industry;
+    - ~~sect;~~
+    - _f(a/)t(8) t(o\)(6)_
+        [[faat3 dou6 法度]]
+        rule, regulation;
+    - _(4)ying f(a/)t(8)_
+        [[jing4 faat3 刑法]]
+        penal laws;
+    - _(4)f(u/) f(a/)t(8)_
+        [[fu4 faat3 符法]]
+        to lay a spell;
+    - _f(a/)t(8) tsak(7)_
+        [[faat3 zak1 法則]]
+        a guide;
+    - _f(a/)t(8) (4)m(u/)n_
+        [[faat3 mun4 法門]],
+        the ~~Budhists~~ ``Dharmic gateway of Budhism``;
+    - _ch(')(a/)k(8) f(a/)t(8)_
+        [[caak3 faat3 拆法]]
+        mode of concluding or repairing;
+    - _(1)t(o\) f(a/)t(8)_
+        [[dou1 faat3 刀法]]
+        rules for carving.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed headword (with 虫 instead of ⿱灬去) to 灋.
+  - Williams' 刀法: Also (single-edged) swordsmanship.
+  ==
+P
+  ++
+  1. To emulate (Kangxi: 效法也).
+  1. A method.
+  1. Religious, supernatural, or sorcerous practices.
+  1. A divisor.
+  ++
+$$
 
 ### 發3 | _F(a/)t(8)_ [[faat3]]
 
