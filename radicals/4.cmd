@@ -1700,6 +1700,14 @@ For all radicals, see [Index of characters by radical](./).
       ==
       </nav>
   //
+    , 18
+    ,
+      <nav class="sideways">
+      ==
+      - $灋faat3
+      ==
+      </nav>
+  //
     , 19
     ,
       <nav class="sideways">

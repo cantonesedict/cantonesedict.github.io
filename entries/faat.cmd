@@ -48,6 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $法3
+- $灋3
 - $發3
 ==
 </nav>
@@ -62,7 +63,7 @@ U
   U+6CD5
 A
   ==
-  - 灋
+  - $灋3
   ==
 F
   ==
@@ -113,6 +114,26 @@ P
   1. A method.
   1. Religious, supernatural, or sorcerous practices.
   1. A divisor.
+  ++
+$$
+
+###+ 灋3 | _F(a/)t(8)_ [[faat3]]
+
+$$.
+R
+  ⽔ + 18
+U
+  U+704B
+F
+  ==
+  - (F2.72 法) 法度法則又刑法方法
+  - (F2.72 ::[灋]::) 古法字
+  ==
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 法. **See $法faat3 for the canonical entry.**
   ++
 $$
 
