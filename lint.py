@@ -1400,11 +1400,13 @@ class CharacterEntry:
 
     @staticmethod
     def extract_unicode_code_point(content: str) -> str:
+        stripped_content = content.strip()
+
         if not (match := re.fullmatch(
             pattern='U[+][0-9A-F]{4,5}',
-            string=content.strip(),
+            string=stripped_content,
         )):
-            raise LintException(f'invalid Unicode code point `{content}`')
+            raise LintException(f'invalid Unicode code point `{stripped_content}`')
 
         return match.group()
 
