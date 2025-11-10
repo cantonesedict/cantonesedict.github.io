@@ -1608,7 +1608,7 @@ class Linter:
             f'- {entry_page_count} entry pages',
             f'  - {done_count}/{entry_page_count} = {done_count / entry_page_count :.1%} done',
             f'  - {wip_count}/{entry_page_count} = {wip_count / entry_page_count :.1%} work in progress',
-            f'- {character_entry_count} character entries for {character_count} characters'
+            f'- {character_entry_count} character entries per {character_count} characters'
             f' = {character_entry_count / character_count :.2f} entries per character',
             f'  - {present_count}/{character_entry_count} = {present_count / character_entry_count :.1%} present',
             f'  - {added_count}/{character_entry_count} = {added_count / character_entry_count :.1%} added',
