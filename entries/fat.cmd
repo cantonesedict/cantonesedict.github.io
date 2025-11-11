@@ -954,6 +954,7 @@ $$
 - $佛6
 - $咈6
 - $拂6
+- $筏6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -1152,4 +1153,34 @@ S
   - $拂bat6 (TODO)
   - $拂fat1
   ==
+$$
+
+###+ 筏6 | _Fat(9)_ [[fat6]]
+
+$$
+R
+  ⽵ + 6
+U
+  U+7B4F
+A
+  ==
+  - 橃
+  ==
+V
+  ==
+  - faat6 (per Fan Wan)
+  ==
+F
+  ==
+  - (F2.72 筏 _F(a/)t(9)_ (faat6)) 海中大船
+  ==
+W
+  ====
+  - [[Page~51 筏(9) _F(a/)t(9)_ (faat6); here normalised to _Fat(9)_ (fat6)]]
+    ==
+    - A bamboo raft [[Kangxi: 編竹渡水曰筏]];
+    - a large ship like a raft for size;
+    - an ark.
+    ==
+  ====
 $$
