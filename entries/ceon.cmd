@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceon
-* %date-modified --> 2025-11-03
+* %date-modified --> 2025-11-12
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -597,7 +597,7 @@ W
     - the range of mountains in ``the`` south of Shens(i/) [[陝西]];
     - _(4)Ts(')un (4)ch(')i(u/)_
         [[ceon4 ciu4 秦朝]],
-        the Ts(')in [[秦]] dynasty, B.C.~186--120;
+        the Ts(')in [[秦]] dynasty, B.C.~^~~186~~~``221``--~~120~~~``207``;
     - _(4)ts(')un ~~(2)Ch(i/)~~ ``(2)Ch(')(i/)`` (4)wong tai(3)_
         [[ceon4 ci2 wong4 dai3 秦始皇帝]]
         the emperor First of this Ts(')in [[秦]] dynasty, who centralized the Chinese empire.

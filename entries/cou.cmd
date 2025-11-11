@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2025-11-08
+* %date-modified --> 2025-11-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1014,7 +1014,7 @@ W
         officers;
     - _(4)Ts(')(o\) (1)Ts(')(o\)_
         [[cou4 cou1 曹操]],
-        a famous general A.D.~250.
+        a famous general``, who died`` A.D.~^~~250~~~``220``.
     ==
   ====
 C

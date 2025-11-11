@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2025-11-03
+* %date-modified --> 2025-11-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1840,14 +1840,10 @@ W
   ====
   - [[Page~597 (4)隋]]
     ==
-    - A dynasty, which ruled from A.~D.~590--620,
+    - A dynasty, which ruled from A.~D.~^~~590~~~``581``--~~620~~~``619``,
       preceding the T(')(a/)ng [[唐]] dynasty.
     ==
   ====
-C
-  ==
-  - Williams' "590--620": These years are approximate.
-  ==
 $$
 
 ### 隨4 | _(4)Ts(')ui_ [[ceoi4]]
