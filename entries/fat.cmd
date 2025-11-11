@@ -950,6 +950,7 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $乏6
 - $伐6
 - $佛6
 - $咈6
@@ -962,6 +963,41 @@ $$
 ==
 </nav>
 <## /tone-6-characters ##>
+
+###+ 乏6 | _Fat(9)_ [[fat6]]
+
+$$
+R
+  ⼃ + 4
+U
+  U+4E4F
+F
+  ==
+  - (F2.73 乏 _F(a/)t(9)_ (faat6)) ::貧乏[窮]乏[匱]也::
+  ==
+W
+  ====
+  - [[Page~51 乏(9) _F(a/)t(9)_ (faat6); here normalised to _Fat(9)_ (fat6)]]
+    ==
+    - Want~~, failure, defective~~;
+    - without [[Kangxi: 無也]];
+    - ``a vacancy [[Kangxi: 匱也]];``
+    - to fail;
+    - to spoil [[Kangxi: 廢也]]~~, to injure~~;
+    - empty, poor, fatigued;
+    - _~~f(a/)t(9)~~ ``fat(9)`` shik(9)_
+        [[fat6 sik6 乏食]]
+        in want of food;
+    - _(4)p(')an ~~f(a/)t(9)~~ ``fat(9)``_
+        [[pan4 fat6 貧乏]]
+        beggared.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿱宀躬 to 窮, and corrected ⿷匚責 to 匱.
+  ==
+$$
 
 ###+ 伐6 | _Fat(9)_ [[fat6]]
 
