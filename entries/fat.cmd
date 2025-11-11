@@ -955,6 +955,7 @@ $$
 - $咈6
 - $拂6
 - $橃6
+- $瞂6
 - $筏6
 - $閥6
 ==
@@ -1000,7 +1001,7 @@ W
     [[Alternative form of 閥. See $閥fat6.]]
     --
     --
-    [[Otherwise, an alternative form of 瞂. **See $瞂fat6 for the canonical entry.**]] [[TODO]]
+    [[Otherwise, an alternative form of 瞂. **See $瞂fat6 for the canonical entry.**]]
     --
   ====
 C
@@ -1191,6 +1192,31 @@ C
     and does not provide a separate entry for 橃.
     I have split things up accordingly.
   ==
+$$
+
+###+ 瞂6 | _Fat(9)_ [[fat6]]
+
+$$
+R
+  ⽬ + 9
+U
+  U+7782
+A
+  ==
+  - $伐6
+  ==
+V
+  ==
+  - faat6 (per Fan Wan for 伐)
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. A shield (Kangxi: 盾也, 通作伐).
+  ++
 $$
 
 ###+ 筏6 | _Fat(9)_ [[fat6]]
