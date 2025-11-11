@@ -954,6 +954,7 @@ $$
 - $佛6
 - $咈6
 - $拂6
+- $橃6
 - $筏6
 ==
 </nav>
@@ -1155,6 +1156,38 @@ S
   ==
 $$
 
+###+ 橃6 | _Fat(9)_ [[fat6]]
+
+$$
+R
+  ⽊ + 12
+U
+  U+6A43
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~51 筏(9) _F(a/)t(9)_ (faat6); here corrected to 橃 and normalised to _Fat(9)_ (fat6)]]
+    ==
+    - [[...]];
+    - a large ship ~~like a raft for size~~ [[Kangxi 橃: 海中大船, 俗作筏非是]];
+    - an ark.
+    ==
+    --
+    [[Otherwise, an alternative form of 筏. **See $筏fat6 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - According to 段玉裁's annotations of 《說文》,
+    "large ship" is an olden sense of 橃 that is distinct from 筏 "raft".
+    Williams (following Fan Wan and to some extent Kangxi 筏)
+    includes the "large ship" sense under $筏6,
+    and does not provide a separate entry for 橃.
+    I have split things up accordingly.
+  ==
+$$
+
 ###+ 筏6 | _Fat(9)_ [[fat6]]
 
 $$
@@ -1164,7 +1197,7 @@ U
   U+7B4F
 A
   ==
-  - 橃
+  - $橃6
   ==
 V
   ==
@@ -1179,8 +1212,16 @@ W
   - [[Page~51 筏(9) _F(a/)t(9)_ (faat6); here normalised to _Fat(9)_ (fat6)]]
     ==
     - A bamboo raft [[Kangxi: 編竹渡水曰筏]];
-    - a large ship like a raft for size;
-    - an ark.
+    - [[...]].
     ==
   ====
+C
+  ==
+  - According to 段玉裁's annotations of 《說文》,
+    "large ship" is an olden sense of 橃 that is distinct from 筏 "raft".
+    Williams (following Fan Wan and to some extent Kangxi 筏)
+    includes the "large ship" sense under 筏,
+    and does not provide a separate entry for $橃6.
+    I have split things up accordingly.
+  ==
 $$
