@@ -956,6 +956,7 @@ $$
 - $拂6
 - $橃6
 - $筏6
+- $閥6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -996,7 +997,7 @@ W
         to act as go-between.
     ==
     --
-    [[Otherwise, an alternative form of 閥. **See $閥fat6 for the canonical entry.**]] [[TODO]]
+    [[Alternative form of 閥. See $閥fat6.]]
     --
     --
     [[Otherwise, an alternative form of 瞂. **See $瞂fat6 for the canonical entry.**]] [[TODO]]
@@ -1163,6 +1164,10 @@ R
   ⽊ + 12
 U
   U+6A43
+V
+  ==
+  - faat6 (per Fan Wan for 筏)
+  ==
 F
   [[Not present]]
 W
@@ -1224,4 +1229,37 @@ C
     and does not provide a separate entry for $橃6.
     I have split things up accordingly.
   ==
+$$
+
+###+ 閥6 | _Fat(9)_ [[fat6]]
+
+$$
+R
+  ⾨ + 6
+U
+  U+95A5
+A
+  ==
+  - $伐6
+  ==
+V
+  ==
+  - faat6 (per Fan Wan)
+  ==
+F
+  ==
+  - (F2.72 閥 _F(a/)t(9)_ (faat6)) 閥閱自序也積其功曰閥明其等曰閱
+  ==
+W
+  ====
+  - [[Page~51 閥(9) _F(a/)t(9)_ (faat6); here normalised to _Fat(9)_ (fat6)]]
+    ==
+    - A door on the left [[Kangxi: 門在左曰閥在右曰閱]];
+    - meritorious services, to set forth one's merit [[Kangxi: 明其等曰閥積日曰閱]];
+    - _~~f(a/)t(9)~~ ``fat(9)`` (u:)t(9)_
+        [[fat6 jyut6 閥閱]]
+        the side doors of a gateway;
+        worthy services, accumulated merit.
+    ==
+  ====
 $$
