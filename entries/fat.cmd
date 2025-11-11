@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fat
-* %date-modified --> 2025-11-09
+* %date-modified --> 2025-11-11
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -950,12 +950,66 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $伐6
 - $佛6
 - $咈6
 - $拂6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+###+ 伐6 | _Fat(9)_ [[fat6]]
+
+$$
+R
+  ⼈ + 4
+U
+  U+4F10
+V
+  ==
+  - faat6 (per Fan Wan)
+  ==
+F
+  ==
+  - (F2.72 伐 _F(a/)t(9)_ (faat6)) 征伐殺伐又誇功也
+  ==
+W
+  ====
+  - [[Page~51 伐(9) _F(a/)t(9)_ (faat6); here normalised to _Fat(9)_ (fat6)]]
+    ==
+    - To destroy, to strike``, to smite`` [[Kangxi: 攻殺擊刺也]]~~, to fight~~;
+    - to punish, to subdue [[Kangxi: 征伐]]~~, to desolate~~;
+    - to cut down [[Kangxi: 斫木也]];
+    - to brag [[Kangxi: 自稱其功曰伐]];
+    - meritorious deeds [[Kangxi: 伐功也]];
+    - a go-between;
+    - _~~shat(7)~~ ``sh(a/)t(8)`` ~~f(a/)t(9)~~ ``fat(9)`` l(i/)(6) hoi(6)_
+        [[saat3 fat6 lei6 hoi6 殺伐利害]]
+        famous for prowess, invincible;
+    - _~~f(a/)t(9)~~ ``fat(9)`` ~~tsui(6)~~ ``ts(u/)i(6)``_
+        [[fat6 zeoi6 伐罪]]
+        to punish crime;
+    - _tsok(8) ~~f(a/)t(9)~~ ``fat(9)``_
+        [[zok3 fat6 作伐]]
+        to act as go-between.
+    ==
+    --
+    [[Otherwise, an alternative form of 閥. **See $閥fat6 for the canonical entry.**]] [[TODO]]
+    --
+    --
+    [[Otherwise, an alternative form of 瞂. **See $瞂fat6 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Williams' 殺伐利害: Corrected _shat(7)_ (sat1) to _sh(a/)t(8)_ (saat3).
+  - Williams' 伐罪: Corrected _tsui(6)_ to _ts(u/)i(6)_.
+  ==
+P
+  ++
+  1. To hit, to strike (Kangxi: 考擊鐘鼓也).
+  ++
+$$
 
 ### 佛6 | _Fat(9)_ [[fat6]]
 
