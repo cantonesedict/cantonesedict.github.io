@@ -969,10 +969,6 @@ R
   ⼈ + 4
 U
   U+4F10
-V
-  ==
-  - faat6 (per Fan Wan)
-  ==
 F
   ==
   - (F2.72 伐 _F(a/)t(9)_ (faat6)) 征伐殺伐又誇功也
@@ -1165,10 +1161,6 @@ R
   ⽊ + 12
 U
   U+6A43
-V
-  ==
-  - faat6 (per Fan Wan for 筏)
-  ==
 F
   [[Not present]]
 W
@@ -1205,10 +1197,6 @@ A
   ==
   - $伐6
   ==
-V
-  ==
-  - faat6 (per Fan Wan for 伐)
-  ==
 F
   [[Not present]]
 W
@@ -1229,10 +1217,6 @@ U
 A
   ==
   - $橃6
-  ==
-V
-  ==
-  - faat6 (per Fan Wan)
   ==
 F
   ==
@@ -1267,10 +1251,6 @@ U
 A
   ==
   - $伐6
-  ==
-V
-  ==
-  - faat6 (per Fan Wan)
   ==
 F
   ==
