@@ -621,6 +621,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $罰fat6
       - $劄zaap3
       ==
       </nav>

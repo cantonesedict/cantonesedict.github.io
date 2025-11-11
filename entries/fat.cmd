@@ -957,6 +957,7 @@ $$
 - $橃6
 - $瞂6
 - $筏6
+- $罰6
 - $閥6
 ==
 </nav>
@@ -1238,6 +1239,48 @@ C
     includes the "large ship" sense under 筏,
     and does not provide a separate entry for $橃6.
     I have split things up accordingly.
+  ==
+$$
+
+###+ 罰6 | _Fat(9)_ [[fat6]]
+
+$$
+R
+  ⽹ + 9
+  ⼑ + 12
+U
+  U+7F70
+F
+  ==
+  - (F2.73 罰 _F(a/)t(9)_ (faat6)) ::[責]也[治]也::
+  ==
+W
+  ====
+  - [[Page~51 罰(9) _F(a/)t(9)_ (faat6); here normalised to _Fat(9)_ (fat6)]]
+    ==
+    - A peccadillo [[Kangxi: 辠之小者 etc.]], a crime;
+    - to punish, to castigate, to flog [[Kangxi: 罰謂撻擊之也]];
+    - to fine [[Kangxi: 出金贖罪]];
+    - a forfeit;
+    - _~~f(a/)t(9)~~ ``fat(9)`` ~~chak(7)~~ ``ch(a/)k(8)``_
+        [[fat6 zaak3 罰簀]]
+        to bamboo;
+    - _~~f(a/)t(9)~~ ``fat(9)`` (2)tsau_
+        [[fat6 zau2 罰酒]],
+        a forfeit of wine;
+    - _~~f(a/)t(9)~~ ``fat(9)`` (2)fung_
+        [[fat6 fung6-2 罰俸]],
+        to mulct an officer's salary;
+    - _~~f(a/)t(9)~~ ``fat(9)`` (4)ngan_
+        [[fat6 ngan4 罰銀]],
+        to fine, a forfeit.
+    ==
+    <## TODO: example 罰企 under $企kei5 ##>
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed missing strokes in 責 and 治.
+  - Williams' 罰簀: Normalised _chak(7)_ (zak1) to _ch(a/)k(8)_ (zaak3).
   ==
 $$
 
