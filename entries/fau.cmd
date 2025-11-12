@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [fau2](#2)
+- [fau4](#4)
 ==
 </nav>
 <## /tones ##>
@@ -80,4 +81,40 @@ P
   ++
   1. The 121st~radical ("jar").
   ++
+$$
+
+
+##{#4 .williams} (4)Fau [[fau4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways">
+=={.modern}
+- $罘4
+==
+</nav>
+<## /tone-4-characters ##>
+
+###+ 罘4 | _(4)Fau_ [[fau4]]
+
+$$
+R
+  ⽹ + 4
+U
+  U+7F58
+F
+  ==
+  - (F1.50 ::[罘]:: _(1)Fau_ (fau1)) ::[罘罳]屏風也::
+  ==
+W
+  ====
+  - [[Page~51 (1)罘 _(1)Fau_ (fau1); here corrected to _(4)Fau_ (fau4)]]
+    ==
+    - A rabbit net [[Kangxi: 兔罟, 罘罝也]];
+    - a ~~wooden~~ screen before an official residence [[Kangxi: 罘罳 etc.]].
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised headword ⿱𠔿不 to 罘, and normalised ⿱𠔿思 to 罳.
+  ==
 $$
