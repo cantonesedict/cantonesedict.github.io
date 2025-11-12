@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2025-11-06
+* %date-modified --> 2025-11-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2440,6 +2440,9 @@ W
         the loadstone;
     - [[...]].
     ==
+    --
+    [[Otherwise, an alternative form of 瓷. **See $瓷ci4 for the canonical entry.**]]
+    --
   ====
 C
   ==

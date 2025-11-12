@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caau
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -92,6 +92,7 @@ W
 P
   ++
   1. Alternative form of 剿. **See $剿caau1 for the canonical entry.**
+  1. Alternative form of 抄. **See $抄caau1 for the canonical entry.**
   ++
 S
   ==

@@ -1163,6 +1163,7 @@ class CharacterEntry:
     h_content: Optional[str]
     f_content: str
     w_content: str
+    p_content: Optional[str]
     alternative_forms: Optional[list['AlternativeForm']]
     cantonese_entries: Optional[list['CantoneseEntry']]
     see_also_links: Optional[list[str]]
@@ -1231,6 +1232,7 @@ class CharacterEntry:
         h_content = content_from_key.get('H')
         f_content = content_from_key['F']
         w_content = content_from_key['W']
+        p_content = content_from_key.get('P')
         alternative_forms = CharacterEntry.extract_alternative_forms(content_from_key.get('A'), jyutping)
         cantonese_entries = CharacterEntry.extract_cantonese_entries(content_from_key.get('E'), page_heading_jyutping)
         see_also_links = CharacterEntry.extract_see_also_links(content_from_key.get('S'))
@@ -1257,6 +1259,7 @@ class CharacterEntry:
         self.h_content = h_content
         self.f_content = f_content
         self.w_content = w_content
+        self.p_content = p_content
         self.alternative_forms = alternative_forms
         self.cantonese_entries = cantonese_entries
         self.see_also_links = see_also_links
@@ -1519,6 +1522,7 @@ class RadicalStrokes:
 
 
 class AlternativeForm:
+    content: str
     character: str
     jyutping: str
     linked_tone: Optional[str]
@@ -1548,6 +1552,7 @@ class AlternativeForm:
                 f'(suppress with caret after tone number if legitimate)'
             )
 
+        self.content = character_or_link
         self.character = character
         self.jyutping = jyutping
         self.linked_tone = tone
@@ -1628,6 +1633,7 @@ class Linter:
         try:
             Linter.lint_page_entry_see_also_reciprocation(entry_pages)
             Linter.lint_character_entry_invariants(character_entries)
+            Linter.lint_character_entry_alternative_form_reciprocation(character_entries)
             Linter.lint_character_entry_see_also_reciprocation(character_entries)
             Linter.lint_cantonese_entry_url_duplication(cantonese_entries)
         except LintException as lint_exception:
@@ -1878,6 +1884,67 @@ class Linter:
             raise LintException(
                 f'inconsistent H content under entries for character `{character}`: {collation_readable}'
             )
+
+    @staticmethod
+    def lint_character_entry_alternative_form_reciprocation(character_entries: list['CharacterEntry']):
+        character_entry_from_jyutping_from_character = Utilities.collate_first_by_second_by_third(
+            (character_entry, character_entry.jyutping, character_entry.character)
+            for character_entry in character_entries
+        )
+
+        for character_entry in character_entries:
+            character = character_entry.character
+            jyutping = character_entry.jyutping
+            universal_link = character_entry.universal_link()
+
+            if (alternative_forms := character_entry.alternative_forms) is None:
+                continue
+
+            for alternative_form in alternative_forms:
+                other_character = alternative_form.character
+
+                if linked_tone := alternative_form.linked_tone:
+                    other_jyutping = jyutping[:-1] + linked_tone
+
+                    try:
+                        other_character_entry = (
+                            character_entry_from_jyutping_from_character[other_character][other_jyutping]
+                        )
+                    except KeyError:
+                        other_character_entry = None
+
+                    if other_character_entry:
+                        other_entry_content = '\n'.join(
+                            content
+                            for content in [other_character_entry.w_content, other_character_entry.p_content]
+                            if content
+                        )
+                        if not re.search(
+                            pattern=fr'(?i:Alternative form).*See .*{re.escape(universal_link)}',
+                            string=other_entry_content,
+                        ):
+                            raise LintException(
+                                f'missing alternative form redirect to `{universal_link}` '
+                                f'under character entry for `{other_character} {other_jyutping}`'
+                            )
+                    else:
+                        raise LintException(
+                            f'non-existent target for alternative form link `{alternative_form.content}`'
+                        )
+                else:
+                    try:
+                        other_character_entry = (
+                            character_entry_from_jyutping_from_character[other_character][jyutping]
+                        )
+                    except KeyError:
+                        other_character_entry = None
+
+                    if other_character_entry:
+                        raise LintException(
+                            f'alternative form `{alternative_form.content}` not linked '
+                            f'under character entry for `{character} {jyutping}`'
+                        )
+
 
     @staticmethod
     def lint_character_entry_see_also_reciprocation(character_entries: list['CharacterEntry']):

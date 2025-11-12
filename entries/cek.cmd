@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cek
-* %date-modified --> 2025-11-06
+* %date-modified --> 2025-11-12
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -217,7 +217,7 @@ W
 P
   ++
   1. Reading variation. **See $赤cik3 for the canonical entry.**
-  1. Aternative form of {𤷫=⿸疒刺}. **See ${𤷫=⿸疒刺}cek3 for the canonical entry.**
+  1. Alternative form of {𤷫=⿸疒刺}. **See ${𤷫=⿸疒刺}cek3 for the canonical entry.**
   ++
 S
   ==

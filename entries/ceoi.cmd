@@ -1376,6 +1376,9 @@ W
     --
     [[Alternative form of 捶. **See $捶ceoi4 for the canonical entry.**]]
     --
+    --
+    [[Otherwise, an alternative form of 槌. **See $槌ceoi4 for the canonical entry.**]]
+    --
   ====
 S
   ==
