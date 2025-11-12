@@ -1165,6 +1165,7 @@ class CharacterEntry:
     w_content: str
     p_content: Optional[str]
     alternative_forms: Optional[list['AlternativeForm']]
+    reading_variations: Optional[list['ReadingVariation']]
     cantonese_entries: Optional[list['CantoneseEntry']]
     see_also_links: Optional[list[str]]
 
@@ -1234,6 +1235,7 @@ class CharacterEntry:
         w_content = content_from_key['W']
         p_content = content_from_key.get('P')
         alternative_forms = CharacterEntry.extract_alternative_forms(content_from_key.get('A'), jyutping)
+        reading_variations = CharacterEntry.extract_reading_variations(content_from_key.get('V'))
         cantonese_entries = CharacterEntry.extract_cantonese_entries(content_from_key.get('E'), page_heading_jyutping)
         see_also_links = CharacterEntry.extract_see_also_links(content_from_key.get('S'))
 
@@ -1261,6 +1263,7 @@ class CharacterEntry:
         self.w_content = w_content
         self.p_content = p_content
         self.alternative_forms = alternative_forms
+        self.reading_variations = reading_variations
         self.cantonese_entries = cantonese_entries
         self.see_also_links = see_also_links
 
@@ -1437,6 +1440,23 @@ class CharacterEntry:
         ]
 
     @staticmethod
+    def extract_reading_variations(content: Optional[str]) -> Optional[list['ReadingVariation']]:
+        if content is None:
+            return None
+
+        return [
+            ReadingVariation(jyutping)
+            for match in re.finditer(
+                pattern=r'^ [ ]+ - [ ] (?P<jyutping> \S+ )',
+                flags=re.MULTILINE | re.VERBOSE,
+                string=content,
+            )
+            if (
+                jyutping := match.group('jyutping'),
+            )
+        ]
+
+    @staticmethod
     def extract_cantonese_entries(content: Optional[str], page_heading_jyutping: str
                                   ) -> Optional[list['CantoneseEntry']]:
         if content is None:
@@ -1556,6 +1576,34 @@ class AlternativeForm:
         self.character = character
         self.jyutping = jyutping
         self.linked_tone = tone
+
+
+class ReadingVariation:
+    jyutping: str
+    effective_jyutping: str
+
+    def __init__(self, jyutping: str):
+        if re.fullmatch(pattern='[a-z]+[1-6]', string=jyutping):
+            effective_jyutping = jyutping
+
+        elif changed_match := re.fullmatch(
+            pattern='(?P<unchanged_jyutping> [a-z]+[1-6] ) - (?P<changed_tone> [1-6] )',
+            string=jyutping,
+            flags=re.VERBOSE,
+        ):
+            unchanged_jyutping = changed_match.group('unchanged_jyutping')
+            changed_tone = changed_match.group('changed_tone')
+
+            if unchanged_jyutping[-1] == changed_tone:
+                raise LintException(f'changed-tone reading variation `{jyutping}` does not change tone')
+
+            effective_jyutping = unchanged_jyutping[:-1] + changed_tone
+
+        else:
+            raise LintException(f'invalid reading variation `{jyutping}`')
+
+        self.jyutping = jyutping
+        self.effective_jyutping = effective_jyutping
 
 
 class CantoneseEntry:
