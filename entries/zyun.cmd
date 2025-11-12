@@ -845,7 +845,7 @@ U
   U+947D
 A
   ==
-  - $攢1 (for verb senses read zyun1)
+  - $攢1^ (for verb senses read zyun1)
   - 鑚
   ==
 V

@@ -1163,6 +1163,7 @@ class CharacterEntry:
     h_content: Optional[str]
     f_content: str
     w_content: str
+    alternative_forms: Optional[list['AlternativeForm']]
     cantonese_entries: Optional[list['CantoneseEntry']]
     see_also_links: Optional[list[str]]
 
@@ -1230,6 +1231,7 @@ class CharacterEntry:
         h_content = content_from_key.get('H')
         f_content = content_from_key['F']
         w_content = content_from_key['W']
+        alternative_forms = CharacterEntry.extract_alternative_forms(content_from_key.get('A'), jyutping)
         cantonese_entries = CharacterEntry.extract_cantonese_entries(content_from_key.get('E'), page_heading_jyutping)
         see_also_links = CharacterEntry.extract_see_also_links(content_from_key.get('S'))
 
@@ -1255,6 +1257,7 @@ class CharacterEntry:
         self.h_content = h_content
         self.f_content = f_content
         self.w_content = w_content
+        self.alternative_forms = alternative_forms
         self.cantonese_entries = cantonese_entries
         self.see_also_links = see_also_links
 
@@ -1414,6 +1417,23 @@ class CharacterEntry:
         return match.group()
 
     @staticmethod
+    def extract_alternative_forms(content: Optional[str], jyutping: str) -> Optional[list['AlternativeForm']]:
+        if content is None:
+            return None
+
+        return [
+            AlternativeForm(character_or_link, jyutping)
+            for match in re.finditer(
+                pattern=r'^ [ ]+ - [ ] (?P<character_or_link> \S+ )',
+                flags=re.MULTILINE | re.VERBOSE,
+                string=content,
+            )
+            if (
+                character_or_link := match.group('character_or_link'),
+            )
+        ]
+
+    @staticmethod
     def extract_cantonese_entries(content: Optional[str], page_heading_jyutping: str
                                   ) -> Optional[list['CantoneseEntry']]:
         if content is None:
@@ -1496,6 +1516,41 @@ class RadicalStrokes:
 
     def identity(self) -> tuple[str, int]:
         return self.radical, self.stroke_count
+
+
+class AlternativeForm:
+    character: str
+    jyutping: str
+    linked_tone: Optional[str]
+
+    def __init__(self, character_or_link: str, jyutping: str):
+        if not (match := re.fullmatch(
+            pattern=r'(?P<dollar> \$? ) (?P<character> \S ) (?P<tone> [1-6]? ) (?P<caret> \^? )',
+            string=CmdIdioms.strip_compositions(character_or_link),
+            flags=re.VERBOSE,
+        )):
+            raise LintException(f'invalid alternative form link `{character_or_link}`')
+
+        dollar = match.group('dollar')
+        character = match.group('character')
+        tone = match.group('tone')
+        caret = match.group('caret')
+
+        if dollar and not tone:
+            raise LintException(f'missing tone number in alternative form link `{character_or_link}`')
+
+        if tone and not dollar:
+            raise LintException(f'missing dollar sign in alternative form link `{character_or_link}`')
+
+        if tone and not caret and jyutping[-1] != tone:
+            raise LintException(
+                f'wrong tone in alternative form link `{character_or_link}` '
+                f'(suppress with caret after tone number if legitimate)'
+            )
+
+        self.character = character
+        self.jyutping = jyutping
+        self.linked_tone = tone
 
 
 class CantoneseEntry:
