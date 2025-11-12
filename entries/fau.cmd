@@ -51,6 +51,7 @@ $$
 =={.modern}
 - $坏1
 - $抔1
+- $紑1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -101,6 +102,27 @@ W
 S
   ==
   - $抔pau4 (TODO)
+  ==
+$$
+
+###+ 紑1 | _(1)Fau_ [[fau1]]
+
+$$.
+R
+  ⽷ + 4
+U
+  U+7D11
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $紑fau4 for the canonical entry.**
+  ++
+S
+  ==
+  - $紑fau4
   ==
 $$
 
@@ -184,6 +206,10 @@ W
 C
   ==
   - Fan Wan entry: Corrected malformed 絜.
+  ==
+S
+  ==
+  - $紑fau1
   ==
 $$
 
