@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [fau1](#1)
 - [fau2](#2)
 - [fau4](#4)
 ==
@@ -39,6 +40,42 @@ WP
 MP
   ==
   - fau = [fɐu]
+  ==
+$$
+
+
+##{#1 .williams} (1)Fau [[fau1 陰平]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $坏1
+==
+</nav>
+<## /tone-1-characters ##>
+
+### 坏1 | _(1)Fau_ [[fau1]]
+
+$$
+R
+  ⼟ + 4
+U
+  U+574F
+F
+  ==
+  - (F1.50 坏) 一坏之土
+  ==
+W
+  ====
+  - [[Page~51 (1)坏]]
+    ==
+    - A hillock of earth.
+    ==
+  ====
+S
+  ==
+  - $坏pui1 (TODO) <## Kangxi 芳杯切 ##>
+  - $坏pui4 (TODO) <## Kangxi 蒲枚切 ##>
   ==
 $$
 
