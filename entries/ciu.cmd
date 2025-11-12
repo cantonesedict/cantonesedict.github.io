@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ciu
-* %date-modified --> 2025-11-03
+* %date-modified --> 2025-11-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -642,6 +642,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $憔4
+- $晁4
 - $朝4
 - $樵4
 - $潮4
@@ -679,6 +680,39 @@ C
   ==
 $$
 
+###+ 晁4 | _(4)Ch(')i(u/)_ [[ciu4]]
+
+$$
+R
+  ⽇ + 6
+U
+  U+6641
+A
+  ==
+  - 鼂
+  ==
+F
+  ==
+  - (F2.5 ::[鼂]::) 姓
+  - (F2.5 晁) 同上
+  ==
+W
+  [[Not present]]
+C
+  ==
+  - Fan Wan entry: Fixed incorrectly crossing strokes in headword 鼂.
+  ==
+P
+  ++
+  1. A surname (Kangxi 鼂: 姓, 或作晁).
+  1. Alternative form of 朝. **See $朝ciu4 for the canonical entry.**
+  ++
+S
+  ==
+  - $晁ziu1 (TODO)
+  ==
+$$
+
 ### 朝4 | _(4)Ch(')i(u/)_ [[ciu4]]
 
 $$
@@ -686,6 +720,10 @@ R
   ⽉ + 8
 U
   U+671D
+A
+  ==
+  - $晁4
+  ==
 F
   ==
   - (F2.5 朝) 朝廷朝覲
