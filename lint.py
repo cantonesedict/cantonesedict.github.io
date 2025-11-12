@@ -118,6 +118,9 @@ class CmdIdioms:
         if see_also_links is None:
             return
 
+        if len(set(see_also_links)) < len(see_also_links):
+            raise LintException(f'duplicates amongst see also links {see_also_links}')
+
         if see_also_links != sorted(see_also_links):
             raise LintException(f'see also links {see_also_links} not in sorted order')
 
