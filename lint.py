@@ -1294,6 +1294,12 @@ class CharacterEntry:
     def universal_link(self) -> str:
         return f'${self.composed_character()}{self.jyutping}'
 
+    def entry_content(self) -> str:
+        if not self.p_content:
+            return self.w_content
+
+        return '\n'.join([self.w_content, self.p_content])
+
     @staticmethod
     def lint_keys(content_from_key: dict[str, str], heading_content: str):
         keys = ''.join(f'{key} ' for key in content_from_key)
@@ -1968,14 +1974,9 @@ class Linter:
                             f'non-existent target for alternative form link `{alternative_form.content}`'
                         )
 
-                    other_entry_content = '\n'.join(
-                        content
-                        for content in [other_character_entry.w_content, other_character_entry.p_content]
-                        if content
-                    )
                     if not re.search(
                         pattern=fr'(?i:Alternative form).*See .*{re.escape(universal_link)}',
-                        string=other_entry_content,
+                        string=other_character_entry.entry_content(),
                     ):
                         raise LintException(
                             f'missing alternative form redirect to `{universal_link}` '
