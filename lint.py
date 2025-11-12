@@ -1748,6 +1748,9 @@ class Linter:
             for see_also_link in see_also_links:
                 other_jyutping = see_also_link.replace('$', '')
 
+                if other_jyutping == jyutping:
+                    raise LintException(f'self-referential see also link `${jyutping}`')
+
                 if (other_entry_page := entry_page_from_jyutping.get(other_jyutping)) is None:
                     continue
 
@@ -1830,6 +1833,7 @@ class Linter:
 
         for character_entry in character_entries:
             character = character_entry.character
+            jyutping = character_entry.jyutping
 
             if (see_also_links := character_entry.see_also_links) is None:
                 continue
@@ -1844,6 +1848,9 @@ class Linter:
 
                 other_character_content = other_link_match.group('other_character_content')
                 other_jyutping = other_link_match.group('other_jyutping')
+
+                if other_jyutping == jyutping:
+                    raise LintException(f'self-referential see also link `${jyutping}`')
 
                 other_character = CmdIdioms.strip_compositions(other_character_content)
                 if character != other_character:
