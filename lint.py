@@ -1964,25 +1964,22 @@ class Linter:
                             character_entry_from_jyutping_from_character[other_character][other_jyutping]
                         )
                     except KeyError:
-                        other_character_entry = None
-
-                    if other_character_entry:
-                        other_entry_content = '\n'.join(
-                            content
-                            for content in [other_character_entry.w_content, other_character_entry.p_content]
-                            if content
-                        )
-                        if not re.search(
-                            pattern=fr'(?i:Alternative form).*See .*{re.escape(universal_link)}',
-                            string=other_entry_content,
-                        ):
-                            raise LintException(
-                                f'missing alternative form redirect to `{universal_link}` '
-                                f'under `{other_character_entry}`'
-                            )
-                    else:
                         raise LintException(
                             f'non-existent target for alternative form link `{alternative_form.content}`'
+                        )
+
+                    other_entry_content = '\n'.join(
+                        content
+                        for content in [other_character_entry.w_content, other_character_entry.p_content]
+                        if content
+                    )
+                    if not re.search(
+                        pattern=fr'(?i:Alternative form).*See .*{re.escape(universal_link)}',
+                        string=other_entry_content,
+                    ):
+                        raise LintException(
+                            f'missing alternative form redirect to `{universal_link}` '
+                            f'under `{other_character_entry}`'
                         )
                 else:
                     try:
