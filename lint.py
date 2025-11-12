@@ -1956,6 +1956,7 @@ class Linter:
         for character_entry in character_entries:
             character = character_entry.character
             jyutping = character_entry.jyutping
+            universal_link = character_entry.universal_link()
 
             if (see_also_links := character_entry.see_also_links) is None:
                 continue
@@ -1972,7 +1973,7 @@ class Linter:
                 other_jyutping = other_link_match.group('other_jyutping')
 
                 if other_jyutping == jyutping:
-                    raise LintException(f'self-referential see also link `${jyutping}`')
+                    raise LintException(f'self-referential see also link `{universal_link}` under `{character_entry}`')
 
                 other_character = CmdIdioms.strip_compositions(other_character_content)
                 if character != other_character:
@@ -1987,9 +1988,9 @@ class Linter:
                     continue
 
                 other_see_also_links = other_character_entry.see_also_links
-                if other_see_also_links is None or character_entry.universal_link() not in other_see_also_links:
+                if other_see_also_links is None or universal_link not in other_see_also_links:
                     raise LintException(
-                        f'missing see also link `{character_entry.universal_link()}` '
+                        f'missing see also link `{universal_link}` '
                         f'under character entry for `{other_character} {other_jyutping}`'
                     )
 
