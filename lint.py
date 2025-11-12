@@ -1925,7 +1925,7 @@ class Linter:
                         ):
                             raise LintException(
                                 f'missing alternative form redirect to `{universal_link}` '
-                                f'under character entry for `{other_character} {other_jyutping}`'
+                                f'under `{other_character_entry}`'
                             )
                     else:
                         raise LintException(
@@ -1941,8 +1941,7 @@ class Linter:
 
                     if other_character_entry:
                         raise LintException(
-                            f'alternative form `{alternative_form.content}` not linked '
-                            f'under character entry for `{character} {jyutping}`'
+                            f'alternative form `{alternative_form.content}` not linked under `{character_entry}`'
                         )
 
 
@@ -1989,10 +1988,7 @@ class Linter:
 
                 other_see_also_links = other_character_entry.see_also_links
                 if other_see_also_links is None or universal_link not in other_see_also_links:
-                    raise LintException(
-                        f'missing see also link `{universal_link}` '
-                        f'under character entry for `{other_character} {other_jyutping}`'
-                    )
+                    raise LintException(f'missing see also link `{universal_link}` under `{other_character_entry}`')
 
     @staticmethod
     def lint_cantonese_entry_url_duplication(cantonese_entries: list['CantoneseEntry']):
