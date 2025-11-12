@@ -187,7 +187,7 @@ U
   U+5F35
 V
   ==
-  - zoeng3 (per Kangxi 知亮切 for "boast" sense)
+  - zoeng3^ (per Kangxi 知亮切 for "boast" sense)
   ==
 F
   ==

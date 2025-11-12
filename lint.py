@@ -1587,18 +1587,25 @@ class AlternativeForm:
 class ReadingVariation:
     jyutping: str
     effective_jyutping: str
+    is_redirect_necessary: bool
 
     def __init__(self, jyutping: str):
-        if re.fullmatch(pattern='[a-z]+[1-6]', string=jyutping):
-            effective_jyutping = jyutping
+        if unchanged_match := re.fullmatch(
+            pattern=r'(?P<jyutping> [a-z]+[1-6] ) (?P<caret> \^? )',
+            string=jyutping,
+            flags=re.VERBOSE,
+        ):
+            effective_jyutping = unchanged_match.group('jyutping')
+            caret = unchanged_match.group('caret')
 
         elif changed_match := re.fullmatch(
-            pattern='(?P<unchanged_jyutping> [a-z]+[1-6] ) - (?P<changed_tone> [1-6] )',
+            pattern=r'(?P<unchanged_jyutping> [a-z]+[1-6] ) - (?P<changed_tone> [1-6] ) (?P<caret> \^? )',
             string=jyutping,
             flags=re.VERBOSE,
         ):
             unchanged_jyutping = changed_match.group('unchanged_jyutping')
             changed_tone = changed_match.group('changed_tone')
+            caret = changed_match.group('caret')
 
             if unchanged_jyutping[-1] == changed_tone:
                 raise LintException(f'changed-tone reading variation `{jyutping}` does not change tone')
@@ -1608,8 +1615,11 @@ class ReadingVariation:
         else:
             raise LintException(f'invalid reading variation `{jyutping}`')
 
+        is_redirect_necessary = not caret
+
         self.jyutping = jyutping
         self.effective_jyutping = effective_jyutping
+        self.is_redirect_necessary = is_redirect_necessary
 
 
 class CantoneseEntry:
@@ -1688,6 +1698,7 @@ class Linter:
             Linter.lint_page_entry_see_also_reciprocation(entry_pages)
             Linter.lint_character_entry_invariants(character_entries)
             Linter.lint_character_entry_alternative_form_reciprocation(character_entries)
+            Linter.lint_character_entry_reading_variation_reciprocation(character_entries)
             Linter.lint_character_entry_see_also_reciprocation(character_entries)
             Linter.lint_cantonese_entry_url_duplication(cantonese_entries)
         except LintException as lint_exception:
@@ -1979,8 +1990,7 @@ class Linter:
                         string=other_character_entry.entry_content(),
                     ):
                         raise LintException(
-                            f'missing alternative form redirect to `{universal_link}` '
-                            f'under `{other_character_entry}`'
+                            f'missing alternative form redirect to `{universal_link}` under `{other_character_entry}`'
                         )
                 else:
                     try:
@@ -1995,6 +2005,46 @@ class Linter:
                             f'alternative form `{alternative_form.content}` not linked under `{character_entry}`'
                         )
 
+    @staticmethod
+    def lint_character_entry_reading_variation_reciprocation(character_entries: list['CharacterEntry']):
+        character_entry_from_jyutping_from_character = Utilities.collate_first_by_second_by_third(
+            (character_entry, character_entry.jyutping, character_entry.character)
+            for character_entry in character_entries
+        )
+
+        for character_entry in character_entries:
+            character = character_entry.character
+            jyutping = character_entry.jyutping
+            universal_link = character_entry.universal_link()
+
+            if (reading_variations := character_entry.reading_variations) is None:
+                continue
+
+            for reading_variation in reading_variations:
+                other_jyutping = reading_variation.jyutping
+                other_effective_jyutping = reading_variation.effective_jyutping
+
+                if jyutping in [other_jyutping, other_effective_jyutping]:
+                    raise LintException(
+                        f'self-referential reading variation `{other_jyutping}` under {character_entry}'
+                    )
+
+                try:
+                    other_character_entry = (
+                        character_entry_from_jyutping_from_character[character][other_effective_jyutping]
+                    )
+                except KeyError:
+                    continue
+
+                if reading_variation.is_redirect_necessary and not re.search(
+                    pattern=fr'(?i:Reading variation).*See .*{re.escape(universal_link)}',
+                    string=other_character_entry.entry_content(),
+                ):
+                    raise LintException(
+                        f'missing reading variation redirect to `{universal_link}` under `{other_character_entry}` '
+                        f'(suppress with caret after reading variation `{other_jyutping}` under `{character_entry}` '
+                        f'if reading variation is historically specific)'
+                    )
 
     @staticmethod
     def lint_character_entry_see_also_reciprocation(character_entries: list['CharacterEntry']):

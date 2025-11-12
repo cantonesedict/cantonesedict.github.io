@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cik
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -444,6 +444,9 @@ W
         [[cik3 cik3 bat1 jau1 刺刺不休]],
         incessant talking [[Kangxi: 刺刺多言貌]].
     ==
+    --
+    [[Reading variation (for the "stab" senses). See $刺ci3.]]
+    --
   - [[Page~617 刺(3) _Ts(')z'(3)_ (ci3); here corrected to _Ts(')ik(8)_ (cik3)]]
     ==
     - [[...]];
