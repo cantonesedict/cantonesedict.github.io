@@ -1903,6 +1903,11 @@ class Linter:
             for alternative_form in alternative_forms:
                 other_character = alternative_form.character
 
+                if other_character == character:
+                    raise LintException(
+                        f'self-referential alternative form `{alternative_form.content}` under `{character_entry}`'
+                    )
+
                 if linked_tone := alternative_form.linked_tone:
                     other_jyutping = jyutping[:-1] + linked_tone
 
