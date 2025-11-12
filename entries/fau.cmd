@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $坏1
+- $抔1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -76,6 +77,30 @@ S
   ==
   - $坏pui1 (TODO) <## Kangxi 芳杯切 ##>
   - $坏pui4 (TODO) <## Kangxi 蒲枚切 ##>
+  ==
+$$
+
+### 抔1 | _(1)Fau_ [[fau1]]
+
+$$.
+R
+  ⼿ + 4
+U
+  U+6294
+F
+  ==
+  - (F1.50 抔) 以手掬物也
+  ==
+W
+  ====
+  - [[Page~51 (1)抔]]
+    --
+    [[Reading variation. **See $抔pau4 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $抔pau4 (TODO)
   ==
 $$
 
