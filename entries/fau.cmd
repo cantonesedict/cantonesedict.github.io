@@ -151,10 +151,41 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $紑4
 - $罘4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 紑4 | _(4)Fau_ [[fau4]]
+
+$$
+R
+  ⽷ + 4
+U
+  U+7D11
+V
+  ==
+  - fau1 (per 《廣韻》匹尤切 and 甫鳩切)
+  - fu1 (per 《集韻》芳無切 for "bright-coloured" sense)
+  ==
+F
+  ==
+  - (F1.52 紑) ::衣鮮[絜]貌::
+  ==
+W
+  ====
+  - [[Page~51 (4)紑]]
+    ==
+    - ~~New silken~~ ``Fresh, clean, as`` garments [[Kangxi: 白鮮衣貌, 紑絜鮮貌]];
+    - ~~elegant,~~ lustrous``, as silk`` [[Kangxi: 繒色鮮]].
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed 絜.
+  ==
+$$
 
 ###+ 罘4 | _(4)Fau_ [[fau4]]
 
