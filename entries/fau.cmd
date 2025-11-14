@@ -132,10 +132,54 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $否2
 - $缶2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 否2 | _(2)Fau_ [[fau2]]
+
+$$
+R
+  ⼝ + 4
+U
+  U+5426
+F
+  ==
+  - (F1.53 否) 不然之詞
+  ==
+W
+  ====
+  - [[Page~52 (2)否]]
+    ==
+    - Not so, ~~ought~~ not [[Kangxi: 不也 etc.]];
+    - used at the end of sentences as a negative interrogation;
+    - else, whether, otherwise;
+    - _(u:)t(9) (2)fau_
+        [[jyut6 fau2 ？否]],
+        it is not;
+    - _(2)ho (2)fau_
+        [[ho2 fau2 可否]],
+        will or can it do, or not;
+    - _sh(i/)(6) (2)fau_
+        [[si6 fau2 是否]],
+        is it so?
+    - _(2)fau tsak(7) ~~(4)wai~~ ``(1)wai`` (1)ch(i/)_
+        [[fau2 zak1 wai1 zi1 否則威之]],
+        if ~~it be bad~~ ``not``, then ~~frown it away~~ ``awe them``.
+    ==
+  ====
+C
+  ==
+  - Williams' 否則威之: Corrected _(4)wai_ (wai4) to _(1)wai_ (wai1).
+    This is Kangxi's example from 《書益稷》.
+  ==
+S
+  ==
+  - $否pei2 (TODO)
+  ==
+$$
 
 ###+ 缶2 | _(2)Fau_ [[fau2]]
 
