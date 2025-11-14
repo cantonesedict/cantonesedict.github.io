@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -189,7 +189,6 @@ W
   ====
 C
   ==
-  - Williams entry: Normalised headword ⿱攵而 to 斋.
   - Williams' 齋戒: Properly, abstinence from all pleasures (meat, alcohol, sex).
   - Williams' 齋醮: Corrected _tsi(u/)(6)_ (ziu6) to _tsi(u/)(3)_ (ziu3).
   - Williams' 羅漢齋: The name of a dish, commonly called Buddha's Delight.

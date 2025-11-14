@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceon
-* %date-modified --> 2025-11-12
+* %date-modified --> 2025-11-14
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -171,7 +171,6 @@ C
   ==
   - Fan Wan entry: Normalised headword {𱼚=⿰未⿱成肉} to 膥,
     and corrected missing left dot in 卵.
-  - Williams entry: Normalised headword {𱼚=⿰未⿱成肉} to 膥.
   ==
 E
   ====

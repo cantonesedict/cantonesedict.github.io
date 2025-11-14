@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2025-11-12
+* %date-modified --> 2025-11-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1652,7 +1652,6 @@ W
 C
   ==
   - Fan Wan entry: Normalised headword ⿰𧾷⿸广⿰豆寸 to 蹰.
-  - Williams entry: Normalised headword {𨆼=⿰𧾷㕑} to 躕.
   - Williams' "Embarrassed": In the (now) archaic sense of "impeded", "obstructed".
   ==
 S
