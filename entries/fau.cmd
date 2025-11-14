@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fau
-* %date-modified --> 2025-11-12
+* %date-modified --> 2025-11-14
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -173,11 +173,103 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $浮4
 - $紑4
 - $罘4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 浮4 | _(4)Fau_ [[fau4]]
+
+$$
+R
+  ⽔ + 7
+U
+  U+6D6E
+V
+  ==
+  - pou4 (vernacular)
+  ==
+F
+  ==
+  - (F1.52 浮) 泛也溢也
+  ==
+W
+  ====
+  - [[Page~51 (4)浮]]
+    ==
+    - To float [[Kangxi: 氾也]], to drift [[Kangxi: 順流曰浮]];
+    - to overflow, to exceed [[Kangxi: 溢也過也]], to inundate;
+    - ~~past time;~~
+    - light, unsteady, fleeting;
+    - excessive;
+    - _(4)fau f(a/)n(3)_
+        [[fau4 faan3 浮泛]]
+        floating;
+    - _vulg._ _~~(4)^p(o\) (4)^p(o\) p(a/)n(3)~~ ``(4)p(')(o\) (4)p(')(o\) p(')(a/)n(3)``_
+        [[pou4 pou4 paan3 浮浮泛]];
+    - _(4)fau (4)(i/)n_
+        [[fau4 jin4 浮言]],
+        unmeaning words;
+    - _(4)fau (4)ts(')oi_
+        [[fau4 coi4 浮財]],
+        floating property;
+    - _(4)fau (4)yau tsoi(6) ~~shai(6)~~ ``shai(3)``_
+        [[fau4 jau4 zoi6 sai3 浮遊在世]]
+        engaged in worldly affairs;
+    - _(4)fau shek(9)_
+        [[fau4 sek6 浮石]]
+        pumice;
+    - _(2)k(o\)m (4)fau_
+        [[gam2 fau4 敢浮]],
+        heedless, flagitious;
+    - _(4)fau (4)t(')(o\)_
+        [[fau4 tou4 浮屠]],
+        a pagoda;
+    - _(4)fau (1)shang_
+        [[fau4 sang1 浮生]],
+        the living;
+    - _(4)fau (4)fau_
+        [[fau4 fau4 浮浮]],
+        vain, much.
+    ==
+  ====
+C
+  ==
+  - Williams' "past time": This is a misreading of Kangxi 先時曰浮.
+    The example given is 《書盤庚》鮮以不浮于天時.
+    Reading 浮 as the noun "past time" clearly does not make sense.
+    Instead, 浮 should be read as a verb, "preempt".
+  - Williams' 浮浮泛: Corrected _(4)^p(o\) (4)^p(o\) p(a/)n(3)_ (bou4 bou4 baan3)
+    to _(4)p(')(o\) (4)p(')(o\) p(')(a/)n(3)_ (pou4 pou4 paan3).
+  - Williams' 浮浮在世: Corrected _shai(6)_ (sai6) to _shai(3)_ (sai3).
+  ==
+P
+  ++
+  1. Flippant, levitous (Kangxi: 輕也).
+  1. Falling heavily (Kangxi: 雨雪盛貌).
+  1. To punish with drink as forfeit (Kangxi: 浮罰也謂罰爵也).
+  ++
+E
+  ====
+  - 【浮面】 (pou4 min6-2):
+    ++
+    1. On the surface.
+       ==
+       - 浮面{𢳂=⿰扌畢}油 (pou4 min6-2 bat1 jau4): "Skim [the] oil along [the] surface."
+       ==
+    ++
+  - 【浮頭】 (pou4 tau4):
+    ++
+    1. To surface.
+    ++
+  ====
+S
+  ==
+  - $浮pou4 (TODO)
+  ==
+$$
 
 ### 紑4 | _(4)Fau_ [[fau4]]
 

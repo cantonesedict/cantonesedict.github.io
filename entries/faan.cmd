@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faan
-* %date-modified --> 2025-11-12
+* %date-modified --> 2025-11-14
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -959,7 +959,7 @@ W
     --
   - [[Page~49 泛(3)汎(3)]]
     ==
-    - To float, to flow down [[Kangxi: 浮也一曰流也通作汎]];
+    - To float, to flow down [[Kangxi 泛: 浮也一曰流也通作汎]];
     - to transport;
     - extensive [[Kangxi 氾: 普博也, 氾廣也]];
     - to spill over;
