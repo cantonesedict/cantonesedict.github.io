@@ -176,6 +176,7 @@ $$
 - $浮4
 - $紑4
 - $罘4
+- $蜉4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -328,4 +329,28 @@ C
   ==
   - Fan Wan entry: Normalised headword ⿱𠔿不 to 罘, and normalised ⿱𠔿思 to 罳.
   ==
+$$
+
+### 蜉4 | _(4)Fau_ [[fau4]]
+
+$$
+R
+  ⾍ + 7
+U
+  U+8709
+F
+  ==
+  - (F1.52 蜉) 蜉蝣虫名
+  ==
+W
+  ====
+  - [[Page~52 (4)蜉]]
+    ==
+    - A large ant, called _(4)p(')(i/) (4)fau_ [[pei4 fau4 蚍蜉]] [[Kangxi: ::蚍蜉大[螘]::]];
+    - _(4)fau (4)yau_
+        [[fau4 jau4 蜉蝣]],
+        an ephemera,
+        produced from muck [[Kangxi: 蜉蝣渠略也 etc.]].
+    ==
+  ====
 $$
