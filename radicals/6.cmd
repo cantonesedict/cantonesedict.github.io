@@ -1243,6 +1243,7 @@ For all radicals, see [Index of characters by radical](./).
       - $花faa1
       - {$芾fai3, $芾fat1}
       - $芬fan1
+      - $芣fau4
       - $芝zi1
       ==
       </nav>

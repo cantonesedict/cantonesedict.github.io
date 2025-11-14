@@ -220,6 +220,7 @@ $$
 - $浮4
 - $紑4
 - $罘4
+- $芣4
 - $蜉4
 ==
 </nav>
@@ -372,6 +373,36 @@ W
 C
   ==
   - Fan Wan entry: Normalised headword ⿱𠔿不 to 罘, and normalised ⿱𠔿思 to 罳.
+  ==
+$$
+
+###+ 芣4 | _(4)Fau_ [[fau4]]
+
+$$
+R
+  ⾋ + 4
+U
+  U+82A3
+F
+  ==
+  - (F1.53 芣 _(2)Fau_ (fau2))
+  ==
+W
+  ====
+  - [[Page~52 (2)芣 _(2)Fau_ (fau2); here corrected to _(4)Fau_ (fau4)]]
+    ==
+    - The plantago or plantain leaf,
+      called _~~(2)fau~~ ``(4)fau`` (5)(i/)_
+        [[fau4 ji5 芣苡]] [[Kangxi: ::芣苢馬舄[馬舄車前]::]];
+    - _(1)ch(')(e/) (4)``t``s(')(i/)n (2)ts(')(o\)_
+        [[ce1 cin4 cou2 車前草]]^
+        is the common name;
+        it is eaten as greens.
+    ==
+  ====
+C
+  ==
+  - Williams' 車前草: Inferred incompletely printed letter _t_ in _(4)ts(')(i/)n_.
   ==
 $$
 
