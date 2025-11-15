@@ -554,6 +554,15 @@ window.onload = applyFilter;
     , fe1 sik1
     , [啡色](/entries/fe#cantonese-啡色)
   //
+    , fe4
+    , [淝](/entries/fe#cantonese-淝)
+  //
+    , fe4 fe4-2
+    , [淝淝](/entries/fe#cantonese-淝淝)
+  //
+    , fe6
+    , [淝](/entries/fe#cantonese-淝)
+  //
     , fo2 zuk1
     , [火燭](/entries/zuk#cantonese-火燭)
   //

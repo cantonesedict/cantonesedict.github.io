@@ -109,6 +109,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $啡4
+- $淝4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -132,5 +133,53 @@ S
   ==
   - $啡fe1
   - $啡fe5 (TODO)
+  ==
+$$
+
+###+ 淝4 | _(4)F(e/)_ [[fe4]]
+
+$$
+R
+  ⽔ + 8
+U
+  U+6DDD
+A
+  ==
+  - $啡4
+  ==
+V
+  ==
+  - fe4-2 (rising second in 淝淝)
+  - fe6 (alternative for "spray" sense)
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+E
+  ====
+  - 【淝】 (fe4, fe6):
+    ++
+    1. To spray.
+       ==
+       - 淝濕咗 (fe4 sap1 zo2): "Sprayed [it] wet."
+       - 淝緊水 (fe4 gan2 seoi2): "[It's] spraying water" (i.e. the sprinkler is on).
+       ==
+    1. To shoot.
+       ==
+       - 淝中咗 (fe4 zung3 zo2): "Shot [and] hit."
+       ==
+    ++
+  - 【淝淝】 (fe4 fe4-2):
+    ++
+    1. Diarrhoea. Commonly spelt 啡啡.
+       ==
+       - 屙淝淝 (o1 fe4 fe4-2): "Have diarrhoea."
+       ==
+    ++
+  ====
+S
+  ==
+  - $淝fei4 (TODO)
   ==
 $$
