@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fau
-* %date-modified --> 2025-11-14
+* %date-modified --> 2025-11-15
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -24,6 +24,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [fau1](#1)
 - [fau2](#2)
 - [fau4](#4)
+- [fau6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -428,4 +429,52 @@ W
         produced from muck [[Kangxi: 蜉蝣渠略也 etc.]].
     ==
   ====
+$$
+
+
+##{#6 .williams} Fau(6) [[fau6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $阜6
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 阜6 | _Fau(6)_ [[fau6]]
+
+$$
+R
+  ⾩ + 0
+U
+  U+961C
+A
+  ==
+  - 阝 (as a character component on the left)
+  - 𨸏
+  ==
+F
+  ==
+  - (F1.56 阜) ::山無石曰阜又曲阜地名又民[豐]物阜::
+  ==
+W
+  ====
+  - [[Page~52 阜(6)阝]]
+    ==
+    - A ``great`` mound or hill of earth [[Kangxi: 大陸曰阜, 山無石者]];
+    - ``the 170th~``radical [["mound"]] of elevations, hills, &c.;
+    - great [[Kangxi: 大也]], large [[Kangxi: 肥也]], high, abundant [[Kangxi: 盛也]], numerous [[Kangxi: 多也]];
+    - _mat(9) fau(6)_
+        [[mat6 fau6 物阜]]
+        plenty of things;
+    - _(1)fung fau(6)_
+        [[fung1 fau6 豐阜]]
+        abundant, as a harvest.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed missing strokes in 豐.
+  ==
 $$
