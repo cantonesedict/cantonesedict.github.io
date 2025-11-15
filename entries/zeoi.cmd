@@ -923,6 +923,10 @@ P
   ++
   1. Alternative form of 最. **See $最zeoi3 for the canonical entry.**
   ++
+S
+  ==
+  - $冣zeoi6
+  ==
 $$
 
 ###+ 惴3 | _Chui(3)_ [[zeoi3]]
@@ -1217,6 +1221,7 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $冣6
 - $叙6
 - $墜6
 - $序6
@@ -1234,6 +1239,27 @@ $$
 ==
 </nav>
 <## /tone-6-characters ##>
+
+###+ 冣6 | _Ts(u:)(6)_ [[zeoi6]]
+
+$$.
+R
+  ⼍ + 8
+U
+  U+51A3
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 聚. **See $聚zeoi6 for the canonical entry.**
+  ++
+S
+  ==
+  - $冣zeoi3
+  ==
+$$
 
 ### 叙6 | _Ts(u:)(6)_ [[zeoi6]]
 
@@ -1552,6 +1578,10 @@ U
 H
   May appear as either ⿱取乑 or ⿱取⿸⿹亻人人 (assumed here),
   depending on the font.
+A
+  ==
+  - $冣6
+  ==
 F
   ==
   - (F1.48 聚) 會也又積聚

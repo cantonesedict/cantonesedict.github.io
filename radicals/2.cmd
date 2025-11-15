@@ -417,7 +417,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $冢cung2
-      - $冣zeoi3
+      - {$冣zeoi3, $冣zeoi6}
       ==
       </nav>
 ''
