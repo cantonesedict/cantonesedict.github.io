@@ -240,7 +240,7 @@ class CmdSource:
     def lint_cjk_non_bmp_composition(content: str):
         whitelisted_primitives = '𠂉𠂢𠆢𠔿𠦄𠫓𡈼𤣩𥫗𦈢𦣝𦣞𦥑𧰼𧶠𧾷𩙿'
         exempt_pattern = '|'.join([
-            r'\{ \S = \S+ \}',
+            r'\{ \S = \S+? \}',
             r'\# cantonese - [⺀-〿㇀-㇯㐀-鿿豈-龎！-｠𠀀-𳑿]+',
         ])
         non_exempt_content = re.sub(
@@ -251,7 +251,7 @@ class CmdSource:
         )
 
         if context_match := re.search(
-            pattern=fr'\S* (?P<character> [𠀀-𳑿] ) [^@^] \S*',
+            pattern=r'\S* (?P<character> [𠀀-𳑿] ) (?! [@^] ) \S*',
             string=non_exempt_content,
             flags=re.VERBOSE,
         ):
