@@ -1248,7 +1248,7 @@ W
   ====
   - [[Page~26|n69 (4)讐(4)仇]]
     --
-    [[Reading variation. **See $仇sau4 for the canonical entry.**]]
+    [[Reading variation. **See $仇sau4 for the canonical entry.**]] [[TODO]]
     --
   ====
 C
@@ -1789,7 +1789,7 @@ W
   ====
   - [[Page~26|n69 (4)讐(4)仇]]
     --
-    [[Alternative form of 仇 "enmity", and reading variation. **See $仇sau4 for the canonical entry.**]]
+    [[Alternative form of 仇 "enmity", and reading variation. **See $仇sau4 for the canonical entry.**]] [[TODO]]
     --
     --
     [[Otherwise, an alternative form of 讎 "proofread". **See $讎cau4 for the canonical entry.**]]
