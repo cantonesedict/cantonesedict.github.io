@@ -449,7 +449,7 @@ RegexDictionaryReplacement: #.syntax.chinese-lang
 - queue_position: BEFORE #escape-idle-html
 * (?P<chinese_run>
     [꜀-꜇]?
-    (?: [{]? [⺀-〿㇀-㇣㐀-鿼豈-龎！-｠𠀀-𳑿]+ [{=}@^]? [꜀-꜇]? )+
+    (?: [{]? [⺀-〿㇀-㇯㐀-鿿豈-龎！-｠𠀀-𳑿]+ [{=}@^]? [꜀-꜇]? )+
   )
     -->
   <span lang="zh-Hant">\g<chinese_run></span>

@@ -241,7 +241,7 @@ class CmdSource:
         whitelisted_primitives = '𠂉𠂢𠆢𠔿𠦄𠫓𡈼𤣩𥫗𦈢𦣝𦣞𦥑𧰼𧶠𧾷𩙿'
         exempt_pattern = '|'.join([
             r'\{ \S = \S+ \}',
-            r'\# cantonese - [⺀-〿㇀-㇣㐀-鿼豈-龎！-｠𠀀-𱍊]+',
+            r'\# cantonese - [⺀-〿㇀-㇯㐀-鿿豈-龎！-｠𠀀-𳑿]+',
         ])
         non_exempt_content = re.sub(
             pattern=exempt_pattern,
@@ -251,7 +251,7 @@ class CmdSource:
         )
 
         if context_match := re.search(
-            pattern=fr'\S* (?P<character> [\U00020000-\U0003134A] ) [^@^] \S*',
+            pattern=fr'\S* (?P<character> [𠀀-𳑿] ) [^@^] \S*',
             string=non_exempt_content,
             flags=re.VERBOSE,
         ):
