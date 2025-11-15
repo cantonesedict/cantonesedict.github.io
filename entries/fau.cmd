@@ -437,10 +437,61 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
+- $埠6
 - $阜6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### ~~{？=⿱垖十}~~``埠``6 | _Fau(6)_ [[fau6]]
+
+$$
+R
+  ⼟ + 8
+U
+  U+57E0
+V
+  ==
+  - bou6 (per Kangxi 同步)
+  ==
+F
+  ==
+  - (F1.56 埠) 舶船埠頭
+  ==
+W
+  ====
+  - [[Page~52 ::~~{？=⿱垖十}~~``埠``(6)::]]
+    ==
+    - A landing where trade is carried on,
+      a mart on the seaside,
+      an unwalled settlement;
+    - _fau(6) ~~(5)t(')au~~ ``(4)t(')au``_
+        [[fau6 tau4 埠頭]],
+        a port;
+    - _kuk(7) fau(6)_
+        [[guk1 fau6 穀埠]]
+        a grain market;
+    - _(2)tsz' fau(6)_
+        [[zi2 fau6 子埠]]
+        a sub salt dépôt where no duties are levied;
+    - _p(a/)n(6) fau(6)_
+        [[baan6 fau6 辦埠]]
+        manager of a salt dépôt;
+    - _kwo(3) fau(6)_
+        [[gwo3 fau6 過埠]]
+        to go from port to port.
+    ==
+  ====
+C
+  ==
+  - Cognate with $埗bou6 (TODO).
+  - Williams' 埠頭: Corrected _(5)t(')au_ (tau5) to _(4)t(')au_ (tau4).
+  ==
+S
+  ==
+  - $埠bou6 (TODO)
+  ==
+$$
 
 ### 阜6 | _Fau(6)_ [[fau6]]
 
