@@ -2074,6 +2074,8 @@ class Linter:
         )
 
         for character_entry in character_entries:
+            character = character_entry.character
+
             for redirect_match in re.finditer(
                 pattern=r'(?i:Alternative form).*See .*(?P<potential_link_content>\$.*)',
                 string=character_entry.entry_content()
@@ -2095,7 +2097,7 @@ class Linter:
                     link_character = CmdIdioms.strip_compositions(link_character_content)
 
                     try:
-                        link_character_entry = (
+                        linked_character_entry = (
                             character_entry_from_jyutping_from_character[link_character][link_jyutping]
                         )
                     except KeyError:
@@ -2103,6 +2105,12 @@ class Linter:
                             f'link `{link}` points to non-existent entry under `{character_entry}`; '
                             f'suppress with `TODO` if yet to be added'
                         )
+
+                    if character not in [
+                        alternative_form.character
+                        for alternative_form in linked_character_entry.alternative_forms
+                    ]:
+                        raise LintException(f'missing alternative form `{character}` under `{linked_character_entry}`')
 
     @staticmethod
     def lint_character_entry_see_also_reciprocation(character_entries: list['CharacterEntry']):
