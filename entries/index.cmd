@@ -238,7 +238,7 @@ See also: [Index of Cantonese terms by Jyutping](/terms/).
 - $fan
 - $fat
 - $fau
-- $fe (work in progress)
+- $fe
 - $fei (work in progress)
 - $fik (work in progress)
 - $fing (work in progress)
