@@ -508,7 +508,17 @@ class CmdSource:
             dual_romanisation_reduced = re.sub(pattern=r'\s+', repl=' ', string=dual_romanisation)
             williams_tone_runs = re.findall(pattern=r'\([1-9]\)', string=williams)
             jyutping_tone_runs = re.findall(pattern='[1-6](?:-[1-6])?', string=jyutping)
+
+            jyutping_count = len(jyutping.split())
             characters = CmdIdioms.strip_compositions(character_content)
+            character_count = len(characters)
+            is_tone_correction_commentary = dual_romanisation.endswith(')') and characters in ['上聲', '去聲']
+
+            if character_count and jyutping_count != character_count and not is_tone_correction_commentary:
+                raise LintException(
+                    f'inconsistent Jyutping count `{jyutping_count}` vs character count `{character_count}` '
+                    f'in `{dual_romanisation_reduced}`'
+                )
 
             if not williams_tone_runs or not jyutping_tone_runs:
                 continue

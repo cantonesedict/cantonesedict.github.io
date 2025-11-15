@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2025-11-12
+* %date-modified --> 2025-11-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -182,7 +182,7 @@ W
         [[cau1 hei2 抽起]],
         lift it out;
     - _(1)ch(')au ch(')ing(3) (5)k(')(u:) (4)lai_
-        [[cau1 cing3 keoi5 lai4 抽秤]],
+        [[cau1 cing3 keoi5 lai4 抽秤佢嚟]],
         bring him along;
     - _(2)t(a/) (1)ch(')au (1)fung_
         [[daa2 cau1 fung1 打抽風]],
@@ -803,7 +803,7 @@ W
         [[gin3 cau2 見醜]]^
         ashamed for;
     - _(2)ch(')au ok(8) (4)p(')(i/) h(i/)(3)_
-        [[cau2 ok3 pei4 hei3 醜惡]]
+        [[cau2 ok3 pei4 hei3 醜惡脾氣]]
         vile disposition, an ingrate;
     - _(2)ch(')au lui(6)_
         [[cau2 leoi6 醜類]]

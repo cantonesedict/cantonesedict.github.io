@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2025-11-03
+* %date-modified --> 2025-11-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -219,7 +219,7 @@ W
         [[caai1 jat1 caai1 猜一猜]]^
         make a guess;
     - _(5)n(i/) sh(i/)(3) (1)ch(')(a/)i~~, h(a/)(6)~~ ``(5)h(a/)``_
-        [[nei5 si3 caai1 haa5 你試猜一吓]]
+        [[nei5 si3 caai1 haa5 你試猜吓]]
         just guess.
     ==
   ====
