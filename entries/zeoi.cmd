@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2025-11-07
+* %date-modified --> 2025-11-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -896,6 +896,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $冣3
 - $惴3
 - $最3
 - $沮3
@@ -906,6 +907,23 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+###+ 冣3 | _Tsui(3)_ [[zeoi3]]
+
+$$.
+R
+  ⼍ + 8
+U
+  U+51A3
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 最. **See $最zeoi3 for the canonical entry.**
+  ++
+$$
 
 ###+ 惴3 | _Chui(3)_ [[zeoi3]]
 
@@ -956,6 +974,10 @@ R
   ⼌ + 10
 U
   U+6700
+A
+  ==
+  - $冣3
+  ==
 F
   ==
   - (F2.57 最) 殿最前曰最後曰殿
