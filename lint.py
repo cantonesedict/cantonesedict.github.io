@@ -2121,7 +2121,7 @@ class Linter:
         )
 
         for character_entry in character_entries:
-            character = character_entry.character
+            jyutping = character_entry.jyutping
 
             for redirect_match in re.finditer(
                 pattern=r'(?i:Reading variation).*See .*(?P<potential_link_content>\$.*)',
@@ -2151,6 +2151,14 @@ class Linter:
                         raise LintException(
                             f'link `{link}` points to non-existent entry under `{character_entry}`; '
                             f'suppress with `TODO` if yet to be added'
+                        )
+
+                    if jyutping not in [
+                        reading_variation.effective_jyutping
+                        for reading_variation in linked_character_entry.reading_variations
+                    ]:
+                        raise LintException(
+                            f'missing (effective) reading variation `{jyutping}` under `{linked_character_entry}`'
                         )
 
     @staticmethod
