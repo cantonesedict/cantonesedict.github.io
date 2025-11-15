@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zat
-* %date-modified --> 2025-11-03
+* %date-modified --> 2025-11-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -320,7 +320,7 @@ W
   ====
   - [[Page~24|n67 咥(9)]]
     --
-    [[Reading variation. **See $咥dit6 for the canonical entry.**]]
+    [[Reading variation. **See $咥dit6 for the canonical entry.**]] [[TODO]]
     --
   ====
 C

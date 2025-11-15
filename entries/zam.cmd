@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2025-11-08
+* %date-modified --> 2025-11-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -616,7 +616,7 @@ W
   ==
   - [[Page~551 沁(3)]]
     --
-    [[Reading variation. **See $沁sam3 for the canonical entry.**]]
+    [[Reading variation. **See $沁sam3 for the canonical entry.**]] [[TODO]]
     --
   ==
 S

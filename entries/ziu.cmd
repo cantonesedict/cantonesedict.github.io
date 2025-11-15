@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2025-11-12
+* %date-modified --> 2025-11-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1038,7 +1038,7 @@ W
   ====
   - [[Page~24* 兆(6)]]
     --
-    [[Reading variation. **See $兆siu6 for the canonical entry.**]]
+    [[Reading variation. **See $兆siu6 for the canonical entry.**]] [[TODO]]
     --
   ====
 S
@@ -1191,7 +1191,7 @@ W
   ====
   - [[Page~24* 旐(6)]]
     --
-    [[Reading variation. **See $旐siu6 for the canonical entry.**]]
+    [[Reading variation. **See $旐siu6 for the canonical entry.**]] [[TODO]]
     --
   ====
 S

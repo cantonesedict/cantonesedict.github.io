@@ -642,7 +642,7 @@ W
   ====
   - [[Page~16* (1)黏]]
     --
-    [[Reading variation. **See $黏nim1 and $黏nim4 for the canonical entries.**]]
+    [[Reading variation. **See $黏nim1 and $黏nim4 for the canonical entries.**]] [[TODO]]
     --
     --
     [[Otherwise, an alternative form of 粘. **See $粘zim1 for the canonical entry.**]]

@@ -135,7 +135,7 @@ W
   [[Not present]]
 P
   ++
-  1. Reading variation. **See $懾sip3 for the canonical entry.**
+  1. Reading variation. **See $懾sip3 for the canonical entry.** (TODO)
   ++
 S
   ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> at
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -63,7 +63,7 @@ W
   ====
   - [[Page~5 _At(7)_; here assigned to 扤]]
     --
-    [[Reading variation. **See $扤ngat1 for the canonical entry.**]]
+    [[Reading variation. **See $扤ngat1 for the canonical entry.**]] [[TODO]]
     --
   ====
 S

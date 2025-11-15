@@ -91,7 +91,7 @@ W
   ====
   - [[Page~51 (1)抔]]
     --
-    [[Reading variation. **See $抔pau4 for the canonical entry.**]]
+    [[Reading variation. **See $抔pau4 for the canonical entry.**]] [[TODO]]
     --
   ====
 S

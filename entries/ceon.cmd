@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceon
-* %date-modified --> 2025-11-14
+* %date-modified --> 2025-11-15
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -678,7 +678,7 @@ W
   ====
   - [[Page~603 (4)馴]]
     --
-    [[Reading variation. **See $馴seon4 for the canonical entry.**]]
+    [[Reading variation. **See $馴seon4 for the canonical entry.**]] [[TODO]]
     --
   ====
 S

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aat
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -158,7 +158,7 @@ W
   [[Not present]]
 P
   ++
-  1. Reading variation. **See $戛gaat3 for the canonical entry.**
+  1. Reading variation. **See $戛gaat3 for the canonical entry.** (TODO)
   ++
 S
   ==
@@ -342,7 +342,7 @@ W
   ====
   - [[Page~5 秸(8)]]
     --
-    [[Reading variation. **See $秸gaai1 for the canonical entry.**]]
+    [[Reading variation. **See $秸gaai1 for the canonical entry.**]] [[TODO]]
     --
   ====
 S

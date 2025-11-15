@@ -1719,6 +1719,7 @@ class Linter:
             Linter.lint_character_entry_alternative_form_reciprocation(character_entries)
             Linter.lint_character_entry_reading_variation_reciprocation(character_entries)
             Linter.lint_character_entry_alternative_form_redirect_reciprocation(character_entries)
+            Linter.lint_character_entry_reading_variation_redirect_reciprocation(character_entries)
             Linter.lint_character_entry_see_also_reciprocation(character_entries)
             Linter.lint_cantonese_entry_url_duplication(cantonese_entries)
         except LintException as lint_exception:
@@ -2111,6 +2112,46 @@ class Linter:
                         for alternative_form in linked_character_entry.alternative_forms
                     ]:
                         raise LintException(f'missing alternative form `{character}` under `{linked_character_entry}`')
+
+    @staticmethod
+    def lint_character_entry_reading_variation_redirect_reciprocation(character_entries: list['CharacterEntry']):
+        character_entry_from_jyutping_from_character = Utilities.collate_first_by_second_by_third(
+            (character_entry, character_entry.jyutping, character_entry.character)
+            for character_entry in character_entries
+        )
+
+        for character_entry in character_entries:
+            character = character_entry.character
+
+            for redirect_match in re.finditer(
+                pattern=r'(?i:Reading variation).*See .*(?P<potential_link_content>\$.*)',
+                string=character_entry.entry_content()
+            ):
+                potential_link_content = redirect_match.group('potential_link_content')
+
+                if 'TODO' in potential_link_content:
+                    continue
+
+                for link_match in re.finditer(
+                    pattern=r'\$ (?P<link_character_content> \S+? ) (?P<link_jyutping> [a-z]+[1-6] )',
+                    string=potential_link_content,
+                    flags=re.VERBOSE,
+                ):
+                    link = link_match.group()
+                    link_character_content = link_match.group('link_character_content')
+                    link_jyutping = link_match.group('link_jyutping')
+
+                    link_character = CmdIdioms.strip_compositions(link_character_content)
+
+                    try:
+                        linked_character_entry = (
+                            character_entry_from_jyutping_from_character[link_character][link_jyutping]
+                        )
+                    except KeyError:
+                        raise LintException(
+                            f'link `{link}` points to non-existent entry under `{character_entry}`; '
+                            f'suppress with `TODO` if yet to be added'
+                        )
 
     @staticmethod
     def lint_character_entry_see_also_reciprocation(character_entries: list['CharacterEntry']):

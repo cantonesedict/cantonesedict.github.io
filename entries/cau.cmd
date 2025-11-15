@@ -1887,7 +1887,7 @@ W
   ====
   - [[Page~563 (4)酋]]
     --
-    [[Reading variation. **See $酋jau4 for the canonical entry.**]]
+    [[Reading variation. **See $酋jau4 for the canonical entry.**]] [[TODO]]
     --
   ====
 S
