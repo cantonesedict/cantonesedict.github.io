@@ -163,7 +163,7 @@ class CmdSource:
             CmdSource.lint_williams_apical_apostrophe(content)
             CmdSource.lint_jyutping_entering_tone(content)
             CmdSource.lint_jyutping_yod(content)
-            CmdSource.lint_romanisation_tone_consistency(content)
+            CmdSource.lint_romanisation_tone_character_consistency(content)
         except LintException as lint_exception:
             print(f'Error in `{file_name}`: {lint_exception.message}', file=sys.stderr)
             sys.exit(1)
@@ -487,19 +487,28 @@ class CmdSource:
             raise LintException(f'misspelt yod in Jyutping `{run}`')
 
     @staticmethod
-    def lint_romanisation_tone_consistency(content: str):
+    def lint_romanisation_tone_character_consistency(content: str):
         for dual_romanisation_match in re.finditer(
-            pattern=r'_ (?P<williams> \S [^_\n]*? \S ) _ \s+ (?: \[\[ | \( ) (?P<jyutping_etc> .+? ) (?: \]\] | \) )',
+            pattern=r'''
+                _ (?P<williams> \S [^_\n]*? \S ) _
+                \s+
+                (?: \[\[ | \( )
+                    (?P<jyutping> [a-z1-6 ]+ )
+                    (?P<character_content> [^a-z1-6 \]\)]*? )
+                (?: \]\] | \) )
+            ''',
             string=content,
             flags=re.VERBOSE,
         ):
             dual_romanisation = dual_romanisation_match.group()
             williams = dual_romanisation_match.group('williams')
-            jyutping_etc = dual_romanisation_match.group('jyutping_etc')
+            jyutping = dual_romanisation_match.group('jyutping').strip()
+            character_content = dual_romanisation_match.group('character_content')
 
             dual_romanisation_reduced = re.sub(pattern=r'\s+', repl=' ', string=dual_romanisation)
             williams_tone_runs = re.findall(pattern=r'\([1-9]\)', string=williams)
-            jyutping_tone_runs = re.findall(pattern='[1-6](?:-[1-6])?', string=jyutping_etc)
+            jyutping_tone_runs = re.findall(pattern='[1-6](?:-[1-6])?', string=jyutping)
+            characters = CmdIdioms.strip_compositions(character_content)
 
             if not williams_tone_runs or not jyutping_tone_runs:
                 continue
