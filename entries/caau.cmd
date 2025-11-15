@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caau
-* %date-modified --> 2025-11-12
+* %date-modified --> 2025-11-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -302,7 +302,9 @@ W
   ====
 C
   ==
-  - Williams' 炒咖啡: Changed dated _(1)k(a/) (1)f(i/)_ (gaa1 fei1) to modern _k(a/)(3) (1)f(e/)_ (gaa3 fe1).
+  - Williams' 炒咖啡: Changed now dated _(1)k(a/) (1)f(i/)_ (gaa1 fei1) to modern _k(a/)(3) (1)f(e/)_ (gaa3 fe1).
+    This change is perhaps inappropriate as it is anachronistic for 1856;
+    see the page-level commentary at $fe.
   - Williams' 炒賣: Now to buy speculatively and sell.
   ==
 E
