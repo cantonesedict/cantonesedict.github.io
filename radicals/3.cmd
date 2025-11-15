@@ -160,7 +160,7 @@ For all radicals, see [Index of characters by radical](./).
       - $唱coeng3
       - $啋coi1
       - $㖡e6
-      - $啡fe1
+      - {$啡fe1, $啡fe4}
       - {$啁zaau1, $啁zau1}
       - {$啫ze1, $啫ze3}
       - $啍zeon1

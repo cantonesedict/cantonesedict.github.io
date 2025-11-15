@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [fe1](#1)
+- [fe4](#4)
 ==
 </nav>
 <## /tones ##>
@@ -96,7 +97,40 @@ E
   ====
 S
   ==
-  - $啡fe4 (TODO)
+  - $啡fe4
   - $啡fe5 (TODO) <## 哩啡 le5 fe5 ##>
+  ==
+$$
+
+
+##{#4 .williams} ``(4)F(e/)`` [[fe4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways">
+=={.modern}
+- $啡4
+==
+</nav>
+<## /tone-4-characters ##>
+
+###+ 啡4 | _(4)F(e/)_ [[fe4]]
+
+$$.
+R
+  ⼝ + 8
+U
+  U+5561
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 淝. **See $淝fe4 for the canonical entry.**
+  ++
+S
+  ==
+  - $啡fe1
+  - $啡fe5 (TODO)
   ==
 $$
