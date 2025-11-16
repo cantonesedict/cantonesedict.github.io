@@ -574,10 +574,21 @@ class RomanisationComparison:
     inconsistent_reason = Optional[str]
 
     def __init__(self, williams: str, jyutping: str):
+        williams_tone_number = re.sub(pattern='[^1-9]', repl='', string=williams)
+        jyutping_tone_numbers = re.sub(pattern='[^1-6]', repl='', string=jyutping)
+
+        if williams_tone_number.translate(str.maketrans('789', '136')) not in jyutping_tone_numbers:
+            is_consistent = False
+            inconsistent_reason = f'Williams tone `{williams_tone_number}` vs Jyutping tones `{jyutping_tone_numbers}`'
+        # TODO: initials and finals
+        else:
+            is_consistent = True
+            inconsistent_reason = None
+
         self.williams = williams
         self.jyutping = jyutping
-        self.is_consistent = True  # TODO: implement
-        self.inconsistent_reason = None
+        self.is_consistent = is_consistent
+        self.inconsistent_reason = inconsistent_reason
 
 
 class EntryPage:
