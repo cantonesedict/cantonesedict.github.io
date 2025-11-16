@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cat
-* %date-modified --> 2025-11-04
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -119,6 +119,15 @@ C
     a four-character run followed by a three-character run.
   - Williams' 七律: Corrected _lut(7)_ (leot1) to _lut(9)_ (leot6).
   ==
+L
+  ====
+  * 七
+    ==
+    - (_noun-like_) seven
+    - (_adjective-like_) seventh
+    - (_verb-like_) [to] septuple
+    ==
+  ====
 $$
 
 ### 柒1 | _Ts(')at(7)_ [[cat1]]
