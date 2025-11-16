@@ -523,25 +523,27 @@ class CmdSource:
                 )
 
             if williams_count == jyutping_count:
-                if CmdSource.are_williams_jyutping_lists_consistent(williams_list, jyutping_list):
-                    continue
+                if inconsistency := CmdSource.get_first_romanisation_inconsistency(williams_list, jyutping_list):
+                    raise LintException(
+                        f'inconsistent Williams {inconsistency.williams} '
+                        f'vs Jyutping {inconsistency.jyutping} ({inconsistency.inconsistent_reason}) '
+                        f'in `{dual_romanisation_reduced}`'
+                    )
 
-                raise LintException(
-                    f'inconsistent Williams {williams_list} vs Jyutping {jyutping_list} '
-                    f'in `{dual_romanisation_reduced}`'
-                )
+                continue
 
             edited_williams_list = re.sub(pattern='~~.+?~~', repl='', string=williams).split()
             edited_williams_count = len(edited_williams_list)
 
             if edited_williams_count == jyutping_count:
-                if CmdSource.are_williams_jyutping_lists_consistent(edited_williams_list, jyutping_list):
-                    continue
+                if inconsistency := CmdSource.get_first_romanisation_inconsistency(edited_williams_list, jyutping_list):
+                    raise LintException(
+                        f'inconsistent Williams {inconsistency.williams} '
+                        f'vs Jyutping {inconsistency.jyutping} ({inconsistency.inconsistent_reason}) '
+                        f'in `{dual_romanisation_reduced}`'
+                    )
 
-                raise LintException(
-                    f'inconsistent Williams {edited_williams_list} vs Jyutping {jyutping_list} '
-                    f'in `{dual_romanisation_reduced}`'
-                )
+                continue
 
             if edited_williams_count != williams_count:
                 edited_williams_parenthetical = f' (edited to `{edited_williams_count}`)'
@@ -556,12 +558,26 @@ class CmdSource:
             )
 
     @staticmethod
-    def are_williams_jyutping_lists_consistent(williams_list: list[str], jyutping_list: list[str]):
-        return all(CmdSource.is_williams_jyutping_consistent(w, j) for w, j in zip(williams_list, jyutping_list))
+    def get_first_romanisation_inconsistency(williams_list: list[str],
+                                             jyutping_list: list[str]) -> Optional['RomanisationComparison']:
+        for williams, jyutping in zip(williams_list, jyutping_list):
+            if not (romanisation_comparison := RomanisationComparison(williams, jyutping)).is_consistent:
+                return romanisation_comparison
 
-    @staticmethod
-    def is_williams_jyutping_consistent(williams: str, jyutping: str):
-        return True  # TODO: implement properly
+        return None
+
+
+class RomanisationComparison:
+    williams: str
+    jyutping: str
+    is_consistent: bool
+    inconsistent_reason = Optional[str]
+
+    def __init__(self, williams: str, jyutping: str):
+        self.williams = williams
+        self.jyutping = jyutping
+        self.is_consistent = True  # TODO: implement
+        self.inconsistent_reason = None
 
 
 class EntryPage:
