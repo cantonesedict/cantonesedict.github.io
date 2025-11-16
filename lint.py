@@ -163,7 +163,7 @@ class CmdSource:
             CmdSource.lint_williams_apical_apostrophe(content)
             CmdSource.lint_jyutping_entering_tone(content)
             CmdSource.lint_jyutping_yod(content)
-            CmdSource.lint_romanisation_tone_character_consistency(content)
+            CmdSource.lint_romanisation_character_consistency(content)
         except LintException as lint_exception:
             print(f'Error in `{file_name}`: {lint_exception.message}', file=sys.stderr)
             sys.exit(1)
@@ -487,72 +487,81 @@ class CmdSource:
             raise LintException(f'misspelt yod in Jyutping `{run}`')
 
     @staticmethod
-    def lint_romanisation_tone_character_consistency(content: str):
+    def lint_romanisation_character_consistency(content: str):
         for dual_romanisation_match in re.finditer(
             pattern=r'''
                 _ (?P<williams> \S [^_\n]*? \S ) _
                 \s+
                 (?: \[\[ | \( )
                     (?P<jyutping> [a-z1-6 ]+ )
-                    (?P<character_content> [^a-z1-6 \]\)]*? )
+                    (?P<character_content> [^a-z1-6 \]\)^]*? )
                 (?: \]\] | \) )
             ''',
             string=content,
             flags=re.VERBOSE,
         ):
             dual_romanisation = dual_romanisation_match.group()
-            williams = dual_romanisation_match.group('williams')
+            williams = dual_romanisation_match.group('williams').replace('-', ' ')
             jyutping = dual_romanisation_match.group('jyutping').strip()
             character_content = dual_romanisation_match.group('character_content')
 
-            dual_romanisation_reduced = re.sub(pattern=r'\s+', repl=' ', string=dual_romanisation)
-            williams_tone_runs = re.findall(pattern=r'\([1-9]\)', string=williams)
-            jyutping_tone_runs = re.findall(pattern='[1-6](?:-[1-6])?', string=jyutping)
-
-            jyutping_count = len(jyutping.split())
+            williams_list = williams.split()
+            jyutping_list = jyutping.split()
             characters = CmdIdioms.strip_compositions(character_content)
-            character_count = len(characters)
-            is_tone_correction_commentary = dual_romanisation.endswith(')') and characters in ['上聲', '去聲']
 
-            if character_count and jyutping_count != character_count and not is_tone_correction_commentary:
+            williams_count = len(williams_list)
+            jyutping_count = len(jyutping_list)
+            character_count = len(characters)
+
+            dual_romanisation_reduced = re.sub(pattern=r'\s+', repl=' ', string=dual_romanisation)
+
+            if character_count and jyutping_count != character_count:
                 raise LintException(
                     f'inconsistent Jyutping count `{jyutping_count}` vs character count `{character_count}` '
-                    f'in `{dual_romanisation_reduced}`'
+                    f'in `{dual_romanisation_reduced}` '
+                    f'(suppress with caret before closing bracket if characters are tone commentary)'
                 )
 
-            if not williams_tone_runs or not jyutping_tone_runs:
-                continue
-
-            if len(williams_tone_runs) == len(jyutping_tone_runs):
-                if CmdSource.are_tones_consistent(williams_tone_runs, jyutping_tone_runs):
+            if williams_count == jyutping_count:
+                if CmdSource.are_williams_jyutping_lists_consistent(williams_list, jyutping_list):
                     continue
 
                 raise LintException(
-                    f'inconsistent Williams tones {williams_tone_runs !r} vs Jyutping tones {jyutping_tone_runs} '
+                    f'inconsistent Williams {williams_list} vs Jyutping {jyutping_list} '
                     f'in `{dual_romanisation_reduced}`'
                 )
 
-            reduced_williams = re.sub(pattern='~~.+?~~', repl='', string=williams)
-            reduced_williams_tone_runs = re.findall(pattern=r'\([1-9]\)', string=reduced_williams)
+            edited_williams_list = re.sub(pattern='~~.+?~~', repl='', string=williams).split()
+            edited_williams_count = len(edited_williams_list)
 
-            if len(reduced_williams_tone_runs) == len(jyutping_tone_runs):
-                if CmdSource.are_tones_consistent(reduced_williams_tone_runs, jyutping_tone_runs):
+            if edited_williams_count == jyutping_count:
+                if CmdSource.are_williams_jyutping_lists_consistent(edited_williams_list, jyutping_list):
                     continue
 
+                raise LintException(
+                    f'inconsistent Williams {edited_williams_list} vs Jyutping {jyutping_list} '
+                    f'in `{dual_romanisation_reduced}`'
+                )
+
+            if edited_williams_count != williams_count:
+                edited_williams_parenthetical = f' (edited to `{edited_williams_count}`)'
+            else:
+                edited_williams_parenthetical = ''
+
             raise LintException(
-                f'inconsistent Williams tones {reduced_williams_tone_runs !r} vs Jyutping tones {jyutping_tone_runs} '
-                f'in `{dual_romanisation_reduced}`'
+                f'inconsistent Williams count `{williams_count}`{edited_williams_parenthetical} '
+                f'vs Jyutping count `{jyutping_count}` '
+                f'in `{dual_romanisation_reduced}` '
+                f'(suppress with caret before closing bracket if content is not Jyutping)'
             )
 
     @staticmethod
-    def are_tones_consistent(williams_tone_runs: list[str], jyutping_tone_runs: list[str]):
-        return all(CmdSource.is_tone_consistent(w, j) for w, j in zip(williams_tone_runs, jyutping_tone_runs))
+    def are_williams_jyutping_lists_consistent(williams_list: list[str], jyutping_list: list[str]):
+        return all(CmdSource.is_williams_jyutping_consistent(w, j) for w, j in zip(williams_list, jyutping_list))
 
     @staticmethod
-    def is_tone_consistent(williams_tone_run: str, jyutping_tone_run: str):
-        williams_tone_number = re.sub(pattern='[()]', repl='', string=williams_tone_run)
-        jyutping_tone_numbers = re.sub(pattern='-', repl='', string=jyutping_tone_run)
-        return williams_tone_number.translate(str.maketrans('789', '136')) in jyutping_tone_numbers
+    def is_williams_jyutping_consistent(williams: str, jyutping: str):
+        return True  # TODO: implement properly
 
 
 class EntryPage:
@@ -2149,8 +2158,8 @@ class Linter:
                         )
                     except KeyError:
                         raise LintException(
-                            f'link `{link}` points to non-existent entry under `{character_entry}`; '
-                            f'suppress with `TODO` if yet to be added'
+                            f'link `{link}` points to non-existent entry under `{character_entry}` '
+                            f'(suppress with `TODO` if yet to be added)'
                         )
 
                     if jyutping not in [
