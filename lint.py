@@ -2056,6 +2056,7 @@ class CharacterEntry:
 
         content_from_key = CmdIdioms.parse_entry_items(entry_content)
 
+        CharacterEntry.lint_romanisation_consistency(williams_list, jyutping, heading_content)
         CharacterEntry.lint_keys(content_from_key, heading_content)
 
         radical_strokes_list = CharacterEntry.extract_radical_strokes_list(content_from_key['R'])
@@ -2129,6 +2130,18 @@ class CharacterEntry:
             return self.w_content
 
         return '\n'.join([self.w_content, self.p_content])
+
+    @staticmethod
+    def lint_romanisation_consistency(williams_list: list[str], jyutping: str, heading_content: str):
+        jyutping_list = [jyutping for _ in williams_list]
+
+        if inconsistency := CmdSource.get_first_romanisation_inconsistency(williams_list, jyutping_list):
+            raise LintException(
+                f'inconsistent Williams `{inconsistency.williams}` '
+                f'vs Jyutping `{inconsistency.jyutping}` (expected {inconsistency.expected_jyutping_list}) '
+                f'under `{heading_content}`'
+            )
+
 
     @staticmethod
     def lint_keys(content_from_key: dict[str, str], heading_content: str):
