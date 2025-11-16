@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Introduction.
-* %date-modified --> 2025-11-03
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> 2023--
 * %meta-description --> Williams' introduction
 
@@ -83,7 +83,7 @@ changes in the finals are here given:---
     , _i(a/)ng_
     , into _(e/)ung_ [[oeng]];
     , as _si(a/)ng_, _ni(a/)ng_
-    , into _s(e/)ung [[soeng]], n(e/)ung_ [[noeng]].
+    , into _s(e/)ung_ [[soeng]], _n(e/)ung_ [[noeng]].
   //
     , _in_ and _un_
     , into _an_ [[an]] and _un_ [[eon]]
