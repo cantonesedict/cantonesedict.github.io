@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2025-11-03
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -151,7 +151,7 @@ W
         [[nin4 maan5 zoi6 zik1 年晚在即]]
         the end of the year is near;
     - _tsik(7) tsik(7) (1)f(a/)n ~~(4)loi~~ ``(4)lai``_
-        [[zik1 zik1 faan1 loi4 即即返嚟]],
+        [[zik1 zik1 faan1 lai4 即即返嚟]],
         come back immediately;
     - _tsik(7) (4)sh(i/) (2)tang (2)kan_
         [[zik1 si4 dang2 gan2 即時等緊]],
@@ -766,7 +766,7 @@ W
         [[sing3 zik1 勝跡]]
         renowned, magnificent, as a view;
     - _ping(6) (4)m(o\) (1)tsung tsik(7)_
-        [[bing6 mou4 zung1 zuk1 並無蹤跡]]
+        [[bing6 mou4 zung1 zik1 並無蹤跡]]
         I can find out nothing about him;
     - _yan(3) tsik(7)_
         [[jan3 zik1 印跡]]

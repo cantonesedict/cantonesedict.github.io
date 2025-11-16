@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2025-11-06
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -170,7 +170,7 @@ W
     - to err, to differ [[Kangxi: 貳也不相値也]];
     - to miss the mark, to exceed;
     - error, fault, discrepancy, excess, differing, unlike, unassorted;
-    - _t(a/)i(6) (1)ch(')(a/) tak(9) (1)ch'(a/)_
+    - _t(a/)i(6) (1)ch(')(a/) tak(9) (1)ch(')(a/)_
         [[daai6 caa1 dak6 caa1 大差特差]],
         very wrong;
     - _(1)ch(')(a/) tak(7) (5)(u:)n_

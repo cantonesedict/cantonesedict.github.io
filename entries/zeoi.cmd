@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -642,7 +642,7 @@ W
         [[zeoi2 zoek3 haa5 咀嚼吓]],
         take a bite of it;
     - _(4)h(o\)m (1)ying (2)ts(u:) ~~(1)w(a/)~~ ``(4)w(a/)``_
-        [[ham4 jing1 zyu2 waa4 含英咀華]],
+        [[ham4 jing1 zeoi2 waa4 含英咀華]],
         to learn and relish the beauties of a style.
     ==
     --

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aan
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -98,7 +98,7 @@ W
     - _ts(o\)(6) (a/)n(3)_
         [[zou6 aan3 做晏]]
         to get tiffin;
-    - _k(o\)m(3)(a/)n(3)_
+    - _k(o\)m(3) (a/)n(3)_
         [[gam3 aan3 咁晏]]
         so late!
     ==

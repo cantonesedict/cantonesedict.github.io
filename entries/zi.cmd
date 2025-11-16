@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2025-11-08
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -301,7 +301,7 @@ W
     - _(1)tsz' shik(7)_
         [[zi1 sik1 姿色]]
         a beauty;
-    - _(1)t(i/)n (1)tsz' kwok(8) shik(7)_
+    - _(1)t(')(i/)n (1)tsz' kwok(8) shik(7)_
         [[tin1 zi1 gwok3 sik1 天姿國色]]
         a beauty who can overthrow a state,
         like Y(a/)ng Kwei-fei [[楊貴妃]] of the T(')(a/)ng [[唐]] dynasty.
@@ -2083,7 +2083,7 @@ W
       it indicates that they are smaller than others of the same sort;
     - the 39th~radical [["child"]];
     - _(2)tsz' (1)s(u:)n_
-        [[zi2 sun1 子孫]],
+        [[zi2 syun1 子孫]],
         children, descendants;
     - _t(')(a/)i(3) (2)tsz'_
         [[taai3 zi2 太子]]
@@ -2852,7 +2852,7 @@ W
         [[faan4 zi2 幡紙]],
         sized paper;
     - _(5)l(a/)ng (1)kam (1)ts(i/)n (2)ch(i/)_
-        [[laang5 kam1 zin1 zi2 冷金箋紙]],
+        [[laang5 gam1 zin1 zi2 冷金箋紙]],
         gold dusted paper;
     - _king(3) sik(7) tsz'(6) (2)ch(i/)_
         [[ging3 sik1 zi6 zi2 敬惜字紙]],
@@ -4016,7 +4016,7 @@ W
     - _ch(i/)(3) (1)sh(u:)_
         [[zi3 syu1 誌書]],
         history, records;
-    - _ch(i/)(3) (1)u(") (2)ts(')z'_
+    - _ch(i/)(3) (1)(u:) (2)ts(')z'_
         [[zi3 jyu1 ci2 誌於此]]
         mind is fixed on this.
     ==

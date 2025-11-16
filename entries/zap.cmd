@@ -322,7 +322,7 @@ W
   ====
 C
   ==
-  - Williams' 坐埋一蓻: Corrected _tso(6)_ (zo6 去聲) to _(5)ts(')o_ (co5 上聲).
+  - Williams' 坐埋一蓻: Corrected _tso(6)_ (zo6 去聲^) to _(5)ts(')o_ (co5 上聲^).
   ==
 E
   ====

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ze
-* %date-modified --> 2025-11-03
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -375,7 +375,7 @@ W
         truth;
     - placed between two nouns or clauses, it puts them in apposition, as
     - _tak(7) (2)ch(e/), (2)p(u/)n (5)y(a/)_
-        [[dak1 ze2 bun2 ja5 德者本也]],
+        [[dak1 ze2 bun2 jaa5 德者本也]],
         virtue, that is the root;
     - _(4)yan (2)ch(e/) ng(a/)u(6) (1)sh(a/)n_
         [[jan4 ze2 ngaau6 saan1 仁者樂山]]^
@@ -475,7 +475,7 @@ C
   ==
   - Williams' 這裡: Changed _(5)l(i/)_ (lei5) to common reading _(5)l(u:)_ (leoi5).
   - The character 這 is only attested in the Middle Chinese rime books
-    under the reading 魚變切 _y(i/)n(6)_ (jin6), explained 迎也.
+    under the reading 魚變切 _(i/)n(6)_ (jin6), explained 迎也.
     Kangxi has 毛晃曰凡稱此箇爲者箇俗多改用這字這乃迎也,
     which proposes that 這 is a vulgar substitute
     for 者 when used as a demonstrative "this".

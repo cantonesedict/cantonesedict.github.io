@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2025-11-12
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -3067,7 +3067,7 @@ W
     - Like, similar;
     - as, as if, as it were, appearing, resembling [[Kangxi: 肖也]];
     - to appear, to have the aspect of;
-    - _(2)ho (5)ts(')z'_
+    - _(2)h(o\) (5)ts(')z'_
         [[hou2 ci5 好似]]
         like;
     - _(5)ts(')z' (4)'m (5)ts(')z'_

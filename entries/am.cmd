@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -374,7 +374,7 @@ W
     - _(2)(o\)m (1)fung (4)k(')am_
         [[am2 fung1 kam4 揞風琴]],
         to play a piano;
-    - ~~_(2)(o\)m mit(9)_
+    - ~~_(2)(o\)m m(i/)t(9)_
         [[am2 mit6 揞滅]]
         to put out, as fire;
         to quash;~~

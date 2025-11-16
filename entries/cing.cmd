@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -169,7 +169,7 @@ W
     - _(1)ts(')ing (2)ch(')o (5)li(u/) l(i/)(6)_
         [[cing1 co2 liu5 lei6 清楚了利]]
         the whole matter is done;
-    - _~~ts(')eng~~ ``(1)ts(')ing`` sh(o\)(3)_
+    - _~~(1)ts(')eng~~ ``(1)ts(')ing`` sh(o\)(3)_
         [[cing1 sou3 清數]]
         to settle an account;
     - _sh(o\)(3) (5)m(i/) (4)'m (1)ts(')ing_
@@ -210,7 +210,7 @@ C
   - Fan Wan entry: Corrected 曰 to 白.
   - Williams considers _(1)ts(')eng_ (ceng1) a possible reading variation for 清.
   - Williams' 拎清: Changed _(1)ning_ (ning1) to _(1)ling_ (ling1).
-  - Williams' 清數: Changed _ts(')eng_ (ceng1) to _ts(')ing_ (cing1).
+  - Williams' 清數: Changed _(1)ts(')eng_ (ceng1) to _(1)ts(')ing_ (cing1).
   ==
 P
   ++
@@ -772,7 +772,7 @@ W
   ====
 C
   ==
-  - Williams' 請坐: Corrected _tso(6)_ (zo6 去聲) to _(5)ts(')o_ (co5 上聲).
+  - Williams' 請坐: Corrected _tso(6)_ (zo6 去聲^) to _(5)ts(')o_ (co5 上聲^).
   - Williams' 請教: To ask or consult with someone (more knowledgeable than oneself).
   - Williams' 請先生: Changed _(1)shang_ (sang1)
     to vernacular reading _(1)sh(a/)ng_ (saang1).
@@ -1189,7 +1189,7 @@ W
     - _(1)sz' (4)ts(')ing_
         [[si1 cing4 私情]],
         illicit, fornicating;
-    - _(4)ts(')ing (u:)(6) ts(o\)(6)_
+    - _(4)ts(')ing (u:)n(6) ts(o\)(6)_
         [[cing4 jyun6 zou6 情願做]]
         I'll willingly do it;
     - _(4)ts(')ing sh(e/)ung(6) ok(8) kwo(3)_

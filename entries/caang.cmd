@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caang
-* %date-modified --> 2025-11-12
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -126,7 +126,7 @@ A
   ==
 F
   ==
-  - (F2.30 撐 _Ch(')ang1_ (cang1)) 窓爭切駕船也
+  - (F2.30 撐 _(1)Ch(')ang_ (cang1)) 窓爭切駕船也
   - (F2.30 撐) 策平聲以物撐物也
   ==
 W

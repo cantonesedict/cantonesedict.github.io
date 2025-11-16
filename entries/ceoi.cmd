@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -669,7 +669,7 @@ W
         to take a wife;
     - _~~ts(')(u:)(3)~~ ``(2)ts(')(u:)`` (1)san (5)f(u/)_ [[ceoi2 san1 fu5 娶新婦]]^
         or
-      _~~ts(')(u:)(3)~~ ``(2)ts(')(u:)`` ~~(1)sam~~ ``(1)san1`` (5)p(')(o\)_ [[ceoi2 san1 pou5 娶新婦]],
+      _~~ts(')(u:)(3)~~ ``(2)ts(')(u:)`` ~~(1)sam~~ ``(1)san`` (5)p(')(o\)_ [[ceoi2 san1 pou5 娶新婦]],
         ~~somebady~~ ``a son`` marrying;
     - _(4)wing ~~ts(')(u:)(3)~~ ``(2)ts(')(u:)`` (4)'m (4)ts(')ang_
         [[wing4 ceoi2 m4 cang4 榮娶唔曾]],

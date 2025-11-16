@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1452,7 +1452,7 @@ W
         [[am3 zin3 soeng1 jan4 暗箭傷人]],
         to injure one with a secret arrow---slander;
     - _fong(3) ~~(5)lang~~ ``(5)l(a/)ng`` ts(i/)n(3)_
-        [[fong3 lang5 zin3 放冷箭]]
+        [[fong3 laang5 zin3 放冷箭]]
         to shoot at privily;
     - _yat(7) ts(i/)n(3) (1)ch(i/) t(i/)(6)_
         [[jat1 zin3 zi1 dei6 一箭之地]]

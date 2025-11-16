@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2025-11-09
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -90,7 +90,7 @@ W
   ====
   - [[Page~18* (1)偵]]
     ==
-    - A spy (vulgo, _ye(6) pat(7) ~~(4)shau~~ ``(1)shau``_ [[je6 bat1 sau1 夜不收]]),
+    - A spy (vulgo, _y(e/)(6) pat(7) ~~(4)shau~~ ``(1)shau``_ [[je6 bat1 sau1 夜不收]]),
       a scout;
     - to reconnoitre, to inquire [[Kangxi: {𠋫=⿰亻侯}也探伺也]];
     - _(4)yau (1)ching_ [[jau4 zing1 遊偵]]^
@@ -428,7 +428,7 @@ W
         sacrifice ~~in winter~~;
         property left by a person;
     - _(1)ching tsun(3)_
-        [[zing1 zun3 烝進]]
+        [[zing1 zeon3 烝進]]
         to intrude one's self;
     - [[...]].
     ==
@@ -1223,7 +1223,7 @@ C
     to vernacular reading _cheng(3)_ (zeng3).
   - Williams' 正着時: Corrected _ch(e/)uk(8)_ (zoek3) to _ch(e/)uk(9)_ (zoek6).
   - Williams' 正經: Also "serious" (as opposed to "playful").
-  - Williams' 坐正: Corrected _tso(6)_ (zo6 去聲) to _(5)ts(')o_ (co5 上聲).
+  - Williams' 坐正: Corrected _tso(6)_ (zo6 去聲^) to _(5)ts(')o_ (co5 上聲^).
   - Williams' 正直: Corrected _chik(7)_ (zik1) to _chik(9)_ (zik6).
   ==
 E
@@ -1493,7 +1493,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected {𠎧=⿰亻絜} to 潔.
-  - Williams' 淨重: Corrected _chung(6)_ (zung6 去聲) to _(5)ch(')ung_ (cung5 上聲).
+  - Williams' 淨重: Corrected _chung(6)_ (zung6 去聲^) to _(5)ch(')ung_ (cung5 上聲^).
   ==
 E
   ====

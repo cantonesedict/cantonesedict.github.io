@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -122,7 +122,7 @@ W
   - [[Page~14|n57 (1)椹]]
     <##
     --
-    TODO: Used for _sham[(6)]_ [[sam6]] 葚, the mulberry seed.
+    TODO: Used for _sham``(6)``_ [[sam6]] 葚, the mulberry seed.
     --
     ##>
     --
@@ -718,7 +718,7 @@ C
     For this departing-tone reading of 沈, note that:
     ==
     - 《廣韻》 provides no explanation (it simply cross-references
-      the level-tone reading _ch(')am_ (cam4) as 又直壬切).
+      the level-tone reading _(4)ch(')am_ (cam4) as 又直壬切).
     - 《集韻》 has the explanation 沒也.
     - Kangxi has 亦沒也 followed by the alternative sense 一曰投物水中也.
     ==

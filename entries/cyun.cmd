@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyun
-* %date-modified --> 2025-11-06
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -171,7 +171,7 @@ W
     - _(1)ch(')(u:)n tsok(9)_
         [[cyun1 zok6 穿鑿]]
         to open a hole;
-    - _(1)ch(')(u:)n (4)fong (2)shai ~~f(u/)n(3)~~ ``w(u/)n(6)``_
+    - _(1)ch(')(u:)n (4)fong (2)shai ~~f(u/)n(3)~~ ``(u/)n(6)``_
         [[cyun1 fong4 sai2 wun6 穿房使喚]]
         a servant of all work;
     - _(1)ch(')(u:)n (1)sh(a/) (1)p(o\)_
@@ -195,7 +195,7 @@ C
   ==
   - Note that the (now obsolete) departing-tone reading is cognate with $串cyun3.
   - Fan Wan entry: Normalised ⿱⿰凿殳金 (with a stroke missing) to 鑿.
-  - Williams' 穿房使喚: Changed _f(u/)n(3)_ (fun3) to modern _w(u/)n(6)_ (wun6).
+  - Williams' 穿房使喚: Changed _f(u/)n(3)_ (fun3) to modern _(u/)n(6)_ (wun6).
   - Williams' 穿砂煲: Now simply 穿煲.
   - Williams' 穿山甲: Here, "manis" means pangolin.
   ==
@@ -1510,8 +1510,8 @@ C
   - Williams' "In Japan, [...] denotes the salmon":
     I am not knowledgeable enough in either Japanese or biology
     to say whether this is unreasonable.
-    Note that both ::{lang=ja}鮭:: _sake_ (salmon?)
-    and ::{lang=ja}鱒:: _masu_ (trout?)
+    Note that both ::{lang=ja}鮭:: _sake_ (salmon?^)
+    and ::{lang=ja}鱒:: _masu_ (trout?^)
     belong to the Salmonidae family.
   ==
 P
