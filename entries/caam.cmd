@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2025-11-04
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -210,7 +210,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~554 (2)篸 _Ts(')(a/)m_ (caam2); here corrected to _(1)Ts(')(a/)m_ (caam1)]]
+  - [[Page~554 (2)篸 _(2)Ts(')(a/)m_ (caam2); here corrected to _(1)Ts(')(a/)m_ (caam1)]]
     ==
     - Bamboos varying in length [[Kangxi: 篸{𥰭=⿱𥫗差}竹貌]];
     - a pandean pipe [[Kangxi: 洞簫也]];
@@ -483,7 +483,7 @@ W
 C
   ==
   - Williams' "Irregular, disorderly, as undrilled troops":
-    Kangxi has this sense under 士咸切 _ch(')(a/)m_ (caam4).
+    Kangxi has this sense under 士咸切 _(4)ch(')(a/)m_ (caam4).
     Still, the reading _ch(')(a/)m(3)_ (caam3) for "disorderly" is not unattested;
     《集韻》 has the reading ::[叉]鑑切::, explained 儳仾不齊也.
     Kangxi paraphrases this as 又《集韻》初鑒切音懺亦不齊也又雜言也.

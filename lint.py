@@ -761,8 +761,8 @@ TONELESS_JYUTPING_LIST_FROM_WILLIAMS = {
     "tui": ['deoi'],
     "tuk": ['duk'],
     "tun": ['deon'],
-    "tut": ['deot'],
     "tung": ['dung'],
+    "tut": ['deot'],
     "uk": ['uk'],
     "ung": ['ung'],
     "w(a/)": ['waa'],
@@ -793,6 +793,7 @@ TONELESS_JYUTPING_LIST_FROM_WILLIAMS = {
     "yap": ['jap'],
     "yat": ['jat'],
     "yau": ['jau'],
+    "yet": ['jet'],
     "yik": ['jik'],
     "ying": ['jing'],
     "yui": ['jeoi'],
@@ -1289,7 +1290,8 @@ class CmdSource:
                     raise LintException(
                         f'inconsistent Williams `{inconsistency.williams}` '
                         f'vs Jyutping `{inconsistency.jyutping}` (expected {inconsistency.expected_jyutping_list}) '
-                        f'in `{dual_romanisation_reduced}` (suppress with caret before closing bracket if not Jyutping)'
+                        f'in `{dual_romanisation_reduced}` '
+                        f'(suppress with caret before closing bracket if not Jyutping or if legitimate)'
                     )
 
                 continue
@@ -1302,7 +1304,8 @@ class CmdSource:
                     raise LintException(
                         f'inconsistent Williams {inconsistency.williams} '
                         f'vs Jyutping {inconsistency.jyutping} (expected {inconsistency.expected_jyutping_list}) '
-                        f'in `{dual_romanisation_reduced}` (suppress with caret before closing bracket if not Jyutping)'
+                        f'in `{dual_romanisation_reduced}` '
+                        f'(suppress with caret before closing bracket if not Jyutping or if legitimate)'
                     )
 
                 continue

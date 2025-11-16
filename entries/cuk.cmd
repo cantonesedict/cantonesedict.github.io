@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cuk
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -322,7 +322,7 @@ C
       1. 許六切 _huk(7)_ (huk1) for "rear" (養也), "tolerate" (容也),
          "livestock" (六畜) (with a note that 今人{𠀤=⿱夶一}讀作昌六反),
          and "obey" (順也), among other senses;
-      1. 許救切 _jau(3)_ (jau3) for "non-working livestock" (養之曰畜用之曰牲); and
+      1. 許救切 _yau(3)_ (jau3) for "non-working livestock" (養之曰畜用之曰牲); and
       1. 丑救切 _ch(')au(3)_ (cau3) for "domesticated animal" (在野曰獸在家曰畜).
       ++
     ==

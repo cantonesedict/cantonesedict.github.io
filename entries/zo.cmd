@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zo
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -465,7 +465,7 @@ C
   - Williams records _ch(u\)_ (zoe) and _ch(u:)_ (zyu)
     as alternative readings without specifying the tone.
     The former I cannot justify.
-    The latter rhymes with 《集韻》遵遇切 _ts(u:)(3)_ (zyu3), explained 詶也,
+    The latter rhymes with 《集韻》遵遇切 _ts(u:)(3)_, explained 詶也,
     and also with 咀 _(2)ts(u:)_,
     but in both cases the pre-merger initial is inconsistent.
   - The common reading zeoi2 is perhaps from identifying 詛咒 with 咀咒,

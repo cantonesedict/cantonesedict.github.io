@@ -649,7 +649,7 @@ W
     - [[...]].
     <## TODO: Correct $涽fan1 to $湣man5
     - [[...]];
-    - _[(5)Man] (4)wong_
+    - _``(5)Man`` (4)wong_
         [[man5 wong4]],
         king of the Ts(i/) [[齊]] state, B.~C.~300.
     ##>
@@ -2246,7 +2246,7 @@ W
     - to bubble or effervesce as a spring [[Kangxi: 沸也]];
     - [[...]].
     <## TODO: correct to $賁ban1
-    - _[(1)pan] (4)m(u/)n_
+    - _``(1)pan`` (4)m(u/)n_
         [[ban1 mun4 賁門]],
         the cardiac extremity of the [œsophagus].
     ##>

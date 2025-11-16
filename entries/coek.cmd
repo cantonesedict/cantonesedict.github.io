@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coek
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -362,7 +362,7 @@ W
     [[...]]
     --
     --
-    Read _ch(')euk(8)_ [[coek3]];
+    Read _ch(')(e/)uk(8)_ [[coek3]];
     --
     ==
     - to leap far and high [[Kangxi: 踔高遠也]];

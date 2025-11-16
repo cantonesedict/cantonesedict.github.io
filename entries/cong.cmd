@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cong
-* %date-modified --> 2025-11-03
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -562,7 +562,7 @@ W
     - _(4)p(')ung (2)ch(')ong_
         [[pung4 cong2 篷廠]]^
         a mat shed;
-    - _~~ko(3)~~ ``(2)ko`` ~~(4)^k(a/)n~~ ``(1)k(a/)n`` uk(7) (2)ho (2)ch(')ong_
+    - _~~ko(3)~~ ``(2)ko`` ~~(4)^k(a/)n~~ ``(1)k(a/)n`` uk(7) (2)h(o\) (2)ch(')ong_
         [[go2 gaan1 uk1 hou2 cong2 嗰間屋好廠]],
         that's a large house;
     - _(2)ch(')ong (1)t(')eng_

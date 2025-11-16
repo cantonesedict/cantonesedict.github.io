@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -513,7 +513,7 @@ W
     ==
     - Angry, enraged [[Kangxi: 怒也]];
     - [[...]];
-    - _(1)t(i/)n (1)ch(i/) (1)fong ~~tsai(3)~~ ``(4)ts(')ai``_
+    - _(1)t(')(i/)n (1)ch(i/) (1)fong ~~tsai(3)~~ ``(4)ts(')ai``_
         [[tin1 zi1 fong1 cai4 天之方懠]]
         when heaven is angry.
     ==

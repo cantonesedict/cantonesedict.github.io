@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyun
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -872,7 +872,7 @@ W
         [[tit3 zyun3 鐵鑽]]
         an awl;
     - _(1)kam (1)kong ts(u:)n(3)_
-        [[gam1 gong1 zun3 金剛鑽]]
+        [[gam1 gong1 zyun3 金剛鑽]]
         ~~a~~ diamond or corundum ~~borer~~ [[Kangxi: 金剛鑽生水底 etc.]];
     - _ts(u:)n(3) ling(6)_
         [[zyun3 ling6 鑽？]]

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2025-11-08
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -870,7 +870,7 @@ W
         [[coeng2 sin1 hang4 搶先行]],
         to thrust one's self forward;
     - _(2)ts(')(e/)ung ~~p(')au(3)~~ ``p(')(a/)u(3)`` (4)t(')au_
-        [[coeng2 pau3 tau4 搶炮頭]],
+        [[coeng2 paau3 tau4 搶炮頭]],
         to struggle for the rocket stick on the 2d of 2d~month;
     - _(2)ts(')(e/)ung t(u:)t(9)_
         [[coeng2 dyut6 搶奪]]

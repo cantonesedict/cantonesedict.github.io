@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zek
-* %date-modified --> 2025-11-04
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -157,7 +157,7 @@ C
     it appears that its authors have attempted to distinguish
     the vernacular rime _-ek_ from the literary rime _-ik_,
     notwithstanding all series appear under 第七英影應益.
-    I have corrected Williams by placing 拓 under _chek(8)_ (cek3) here.
+    I have corrected Williams by placing 拓 under _chek(8)_ (zek3) here.
   ==
 S
   ==
@@ -207,7 +207,7 @@ C
     it appears that its authors have attempted to distinguish
     the vernacular rime _-ek_ from the literary rime _-ik_,
     notwithstanding all series appear under 第七英影應益.
-    I have corrected Williams by placing 摭 under _chek(8)_ (cek3) here.
+    I have corrected Williams by placing 摭 under _chek(8)_ (zek3) here.
   ==
 $$
 
@@ -270,7 +270,7 @@ C
     it appears that its authors have attempted to distinguish
     the vernacular rime _-ek_ from the literary rime _-ik_,
     notwithstanding all series appear under 第七英影應益.
-    I have corrected Williams by placing 炙 under _chek(8)_ (cek3) here.
+    I have corrected Williams by placing 炙 under _chek(8)_ (zek3) here.
   - Williams' 膾炙人口: Corrected _(2)k(u/)i_ (gui2) to _(2)k(')(u/)i_ (kui2).
   - Williams' "near": Specifically, to come under the (positive) influence of another.
   ==
@@ -421,7 +421,7 @@ C
     it appears that its authors have attempted to distinguish
     the vernacular rime _-ek_ from the literary rime _-ik_,
     notwithstanding all series appear under 第七英影應益.
-    I have corrected Williams by placing 跖 under _chek(8)_ (cek3) here.
+    I have corrected Williams by placing 跖 under _chek(8)_ (zek3) here.
   - Williams does not provide separate entries for 跖 and $蹠3.
     I have split things up accordingly.
   ==
@@ -501,7 +501,7 @@ C
     it appears that its authors have attempted to distinguish
     the vernacular rime _-ek_ from the literary rime _-ik_,
     notwithstanding all series appear under 第七英影應益.
-    I have corrected Williams by placing 蹠 under _chek(8)_ (cek3) here.
+    I have corrected Williams by placing 蹠 under _chek(8)_ (zek3) here.
   - Williams does not provide separate entries for $跖3 and 蹠.
     I have split things up accordingly.
   ==
@@ -571,7 +571,7 @@ C
     it appears that its authors have attempted to distinguish
     the vernacular rime _-ek_ from the literary rime _-ik_,
     notwithstanding all series appear under 第七英影應益.
-    I have corrected Williams by placing 隻 under _chek(8)_ (cek3) here.
+    I have corrected Williams by placing 隻 under _chek(8)_ (zek3) here.
   ==
 S
   ==

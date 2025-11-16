@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2025-11-08
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1283,7 +1283,7 @@ W
         [[zeoi3 zau2 lou2 醉酒佬]],
         a drunkard;
     - _(2)tsau (4)shan kong(3)_
-        [[zau2 san4 kong3 酒神降]]
+        [[zau2 san4 gong3 酒神降]]
         to like the flavor of wine;
     - _tsam(3) (2)tsau_
         [[zam3 zau2 浸酒]],

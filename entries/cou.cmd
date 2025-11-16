@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2025-11-12
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -149,7 +149,7 @@ W
         coarse food;
         a gross eater;
     - _(1)ts(')(o\) (4)(u:)n_
-        [[cou1 jun4 粗完]],
+        [[cou1 jyun4 粗完]],
         nearly done;
     - _(2)shau (1)ts(')(o\)_
         [[sau2 cou1 手粗]],

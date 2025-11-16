@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coi
-* %date-modified --> 2025-11-06
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -135,7 +135,7 @@ W
     - _(2)ts(')oi t(i/)(6)_
         [[coi2 dei6 寀地]]
         territory set apart for grandees;
-    - _(4)li(u/) (2)ts'oi_
+    - _(4)li(u/) (2)ts(')oi_
         [[liu4 coi2 寮寀]],
         officers exercising jurisdiction over the same circuit [[Kangxi: 寀寮官也, 官地爲寀同官爲寮]].
     ==

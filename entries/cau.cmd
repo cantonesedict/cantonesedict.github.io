@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -387,7 +387,7 @@ W
 C
   ==
   - Kangxi has the "pool" sense under 卽由切 or 將由切 _(1)tsau_ (zau1),
-    but 《廣韻》 has 七由切 _ts(')au_ (cau1), explained 水池名北人呼.
+    but 《廣韻》 has 七由切 _(1)ts(')au_ (cau1), explained 水池名北人呼.
   ==
 S
   ==

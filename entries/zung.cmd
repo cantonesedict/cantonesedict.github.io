@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zung
-* %date-modified --> 2025-11-10
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -768,7 +768,7 @@ W
     - _(1)chung (4)ts(')(e/)ung_
         [[zung1 coeng4 舂牆]],
         to beat mud walls;
-    - _(1)chung (4)ch(')(a/) (2)tsai mut(9)_
+    - _(1)chung (4)ch(')(a/) (2)tsai m(u/)t(9)_
         [[zung1 caa4 zai2 mut6 舂茶仔末]]
         to triturate tea to powder for a detergent;
     - _(1)chung (1)f(u/)i (1)sh(a/)_
@@ -1587,7 +1587,7 @@ W
     - _chung(3) kai(3)_
         [[zung3 gai3 中計]]
         I'm found out, I'm entrapped;
-    - _chung(3) (2)k(u:) (4)jan_
+    - _chung(3) (2)k(u:) (4)yan_
         [[zung3 geoi2 jan4 中舉人]],
         to become a k(u:)jin [[舉人]];
     - _chung(3) ok(8)_

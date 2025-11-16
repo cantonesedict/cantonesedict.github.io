@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faan
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -644,7 +644,7 @@ W
     - to combine against;
     - opposed to, but, contrary;
     - again;
-    - _(2)fan ~~fuk(9)~~ ``fuk(7)``_
+    - _(2)f(a/)n ~~fuk(9)~~ ``fuk(7)``_
         [[faan2 fuk1 反覆]]
         repetition, to and fro, to retract;
     - _(1)s(e/)ung (2)f(a/)n_

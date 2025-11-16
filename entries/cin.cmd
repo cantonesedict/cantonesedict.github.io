@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cin
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -401,13 +401,13 @@ W
     - _(2)ts(')(i/)n (4)wong_
         [[cin2 wong4 淺黃]],
         a light yellow;
-    - _(2)ts(')(i/)ns (2)ts(')(i/)n (2)ho (2)kong_
-        [[cin2 cin2 hou2 gong2 淺淺好講]],
+    - _(2)ts(')(i/)n (2)ts(')(i/)n (2)ho (2)kong_
+        [[cin2 cin2 ho2 gong2 淺淺可講]],
         he can understand a very little;
     - _(2)ts(')(i/)n sut(7)_
         [[cin2 seot1 淺率]]
         vulgar and superficial, as a scholar;
-    - _(2)ho (2)ts(')(i/)n_
+    - _(2)h(o\) (2)ts(')(i/)n_
         [[hou2 cin2 好淺]],
         very shallow, very easy;
     - _(5)ng(a/)n (2)ts(')(i/)n_
@@ -547,7 +547,7 @@ W
         [[cin4 cing4 naan4 liu6 前程難料]]
         it's not easy to guess how it will turn out;
     - _(4)ts(')(i/)n (1)king_
-        [[cin4 king1 前經]],
+        [[cin4 ging1 前經]],
         already, before done.
     ==
   ====
