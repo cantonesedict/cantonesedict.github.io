@@ -1322,7 +1322,7 @@ class CharacterEntry:
     @staticmethod
     def lint_keys(content_from_key: dict[str, str], heading_content: str):
         keys = ''.join(f'{key} ' for key in content_from_key)
-        pattern_readable = 'R U [H] [A] [V] F W [C] [P] [E] [S] '
+        pattern_readable = 'R U [H] [A] [V] F W [C] [P] [L] [E] [S] '
         pattern = re.sub(
             pattern=r'\[ (?P<optional_key> \S+ ) \] [ ]',
             repl=r'(?:\g<optional_key> )?',
