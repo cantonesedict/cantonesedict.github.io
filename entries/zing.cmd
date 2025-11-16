@@ -1223,7 +1223,7 @@ C
     to vernacular reading _cheng(3)_ (zeng3).
   - Williams' 正着時: Corrected _ch(e/)uk(8)_ (zoek3) to _ch(e/)uk(9)_ (zoek6).
   - Williams' 正經: Also "serious" (as opposed to "playful").
-  - Williams' 坐正: Corrected _tso(6)_ (zo6 去聲) to _(5)ts(')o_ (co5 上聲).
+  - Williams' 坐正: Corrected _tso(6)_ (zo6 去聲^) to _(5)ts(')o_ (co5 上聲^).
   - Williams' 正直: Corrected _chik(7)_ (zik1) to _chik(9)_ (zik6).
   ==
 E
@@ -1493,7 +1493,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected {𠎧=⿰亻絜} to 潔.
-  - Williams' 淨重: Corrected _chung(6)_ (zung6 去聲) to _(5)ch(')ung_ (cung5 上聲).
+  - Williams' 淨重: Corrected _chung(6)_ (zung6 去聲^) to _(5)ch(')ung_ (cung5 上聲^).
   ==
 E
   ====

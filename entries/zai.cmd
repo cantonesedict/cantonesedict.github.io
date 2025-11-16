@@ -1117,7 +1117,7 @@ C
   ==
   - Williams' "Read _(1)tsai_": This is probably an incorrect parsing
     of Kangxi 音劑, which is intended in the departing tone.
-  - Williams' 淡得嚌: Corrected _t(a/)m(6)_ (daam6 去聲) to _(5)t(')(a/)m_ (taam5 上聲).
+  - Williams' 淡得嚌: Corrected _t(a/)m(6)_ (daam6 去聲^) to _(5)t(')(a/)m_ (taam5 上聲^).
   - Williams' 係得嚌: Dated.
   ==
 E

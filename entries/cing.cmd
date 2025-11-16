@@ -772,7 +772,7 @@ W
   ====
 C
   ==
-  - Williams' 請坐: Corrected _tso(6)_ (zo6 去聲) to _(5)ts(')o_ (co5 上聲).
+  - Williams' 請坐: Corrected _tso(6)_ (zo6 去聲^) to _(5)ts(')o_ (co5 上聲^).
   - Williams' 請教: To ask or consult with someone (more knowledgeable than oneself).
   - Williams' 請先生: Changed _(1)shang_ (sang1)
     to vernacular reading _(1)sh(a/)ng_ (saang1).

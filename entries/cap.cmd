@@ -86,7 +86,7 @@ W
   ====
 C
   ==
-  - Williams' 載戢干戈: Corrected _(2)tsoi_ (zoi2 上聲) to _tsoi(3)_ (zoi3 去聲).
+  - Williams' 載戢干戈: Corrected _(2)tsoi_ (zoi2 上聲^) to _tsoi(3)_ (zoi3 去聲^).
   ==
 E
   ====

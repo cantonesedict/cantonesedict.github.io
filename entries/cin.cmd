@@ -788,7 +788,7 @@ W
   ====
 C
   ==
-  - Williams' 幾錢重: Corrected _chung(6)_ (zung6 去聲) to _(5)ch(')ung_ (cung5 上聲).
+  - Williams' 幾錢重: Corrected _chung(6)_ (zung6 去聲^) to _(5)ch(')ung_ (cung5 上聲^).
   - Williams' 錢板咁厚: Changed _hau(6)_ (hau6) to common reading _(5)hau_ (hau5).
   ==
 E

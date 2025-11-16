@@ -645,12 +645,12 @@ C
     that the quoted line 遂坐上坐 "Then [he] sat upon [the] upper seat"
     should be read _sui(6) (5)ts(')o sh(e/)ung(6) tso(6)_ (seoi6 co5 soeng6 zo6),
     with the first 坐 ("sat") rising and the second 坐 ("seat") departing.
-  - Williams' _tso(6)_ (zo6 去聲) has been corrected
-    to _(5)ts(')o_ (co5 上聲) when appropriate.
+  - Williams' _tso(6)_ (zo6 去聲^) has been corrected
+    to _(5)ts(')o_ (co5 上聲^) when appropriate.
   - Williams' 坐月: Here, "confinement" means childbirth.
     Confusingly, in more modern English,
     the act of staying home for a month afterward is also called confinement.
-  - Williams' 坐上: Corrected _sh(e/)ung(6)_ (soeng6 去聲) to _(5)sh(e/)ung_ (soeng5 上聲).
+  - Williams' 坐上: Corrected _sh(e/)ung(6)_ (soeng6 去聲^) to _(5)sh(e/)ung_ (soeng5 上聲^).
   - Williams' 坐冷飯噉坐: Corrected _k(o\)m(3)_ (gam3) to _(2)k(o\)m_ (gam2).
   - Williams' 打坐參禪: Changed _(4)sh(i/)n_ (sin4) to common reading _(4)sh(i/)m_ (sim4).
   ==

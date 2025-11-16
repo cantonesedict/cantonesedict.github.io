@@ -647,7 +647,7 @@ C
   - Williams' "to intercept": E.g. 截的士, "stop a taxi".
   - Williams' "a portion": More generally, a classifier for segments.
   - Williams' 攔截: Corrected _ts(i/)t(8)_ (zit3) to _ts(i/)t(9)_ (zit6).
-  - Williams' 截斷: Corrected _t(u:)n(6)_ (dyun6 去聲) to _(5)t(')(u:)n_ (tyun5 上聲).
+  - Williams' 截斷: Corrected _t(u:)n(6)_ (dyun6 去聲^) to _(5)t(')(u:)n_ (tyun5 上聲^).
   ==
 $$
 

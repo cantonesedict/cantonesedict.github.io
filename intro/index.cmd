@@ -2129,7 +2129,7 @@ pronouncing the characters, irrespective of their meaning or form.
 This should be done when commencing the study, for a vicious
 pronunciation of the tones is seldom corrected; and one is less
 liable to be misunderstood if he pronounces a word a little wrong,
-as _heng_ [[heng]] for _hing_ [[hing]], _ch(e/)uk_ for _ts(e/)uk_ [[now merged into zoek]], than if he gives it the wrong tone.
+as _heng_ [[heng]] for _hing_ [[hing]], _ch(e/)uk_ for _ts(e/)uk_ [[now merged into zoek^]], than if he gives it the wrong tone.
 For instance, a native will consider this sentence in the Canton
 dialect 擰一張床呢處, less barbarously pronounced if he
 hears it _(1)ling yet(7) (1)ch(a/)ng (4)ts(')ong (1)n(i/) ~~sh^(')(u:)(3)~~ ``sh(u:)(3)``_
