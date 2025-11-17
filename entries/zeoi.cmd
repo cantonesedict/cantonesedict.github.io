@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-11-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -781,7 +781,7 @@ W
 C
   ==
   - The reading _(2)ts(u:)_ (zeoi2) is not unattested;
-    《洪武正韻牋》 has the reading 再呂切, explained 止之也遏也鬲也抑也.
+    《正韻牋》 has the reading 再呂切, explained 止之也遏也鬲也抑也.
   - Williams' "to pass over": Kangxi has 過也, but it is unclear
     whether this means "pass" or "excessive".
   - Williams' "discomfit": In the (now) archaic sense of "defeat".

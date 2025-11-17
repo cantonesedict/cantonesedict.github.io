@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyun
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-11-17
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -697,7 +697,7 @@ C
       - Rising: 動也 (to move) and 運也 (to convey).
       - Departing: 流轉 (?).
       ==
-    - 《洪武正韻牋》 has:
+    - 《正韻牋》 has:
       ==
       - Rising: 輾轉 (to toss and turn), 反側也 (to overturn), 又旋也 (to rotate),
         自運也 (to self-move), etc.

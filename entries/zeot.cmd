@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeot
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-17
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -177,7 +177,7 @@ W
 C
   ==
   - The reading _tsut(7)_ (zeot1) is not unattested;
-    《洪武正韻牋》 has the reading 卽律切, explained 說文持頭髪也 etc.
+    《正韻牋》 has the reading 卽律切, explained 說文持頭髪也 etc.
   ==
 P
   ++

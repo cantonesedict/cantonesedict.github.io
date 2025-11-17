@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fat
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-11-17
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -1136,7 +1136,7 @@ A
 V
   ==
   - bat6 (per Fan Wan)
-  - fat1 (per 《洪武正韻牋》敷勿切)
+  - fat1 (per 《正韻牋》敷勿切)
   ==
 F
   ==

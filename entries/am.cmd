@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-11-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -85,7 +85,7 @@ W
 C
   ==
   - The reading _(1)(o\)m_ (am1) is not unattested;
-    《洪武正韻牋》 has the reading 烏含切, explained 啽嘿不言.
+    《正韻牋》 has the reading 烏含切, explained 啽嘿不言.
   ==
 S
   ==

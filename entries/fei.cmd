@@ -246,7 +246,7 @@ U
   U+871A
 V
   ==
-  - fai3 (alternative per 《正韻》芳未切 for "grasshopper" sense)
+  - fai3 (alternative per 《正韻牋》芳未切 for "grasshopper" sense)
   - fai6 (per 《廣韻》扶沸切 for "stinking insect" and "ominous animal" senses)
   ==
 F
@@ -265,7 +265,7 @@ W
 C
   ==
   - The reading _(2)f(i/)_ (fei2) is not unattested;
-    《正韻》 has the reading 敷尾切, encompassing the "grasshopper" and "animal" senses.
+    《正韻牋》 has the reading 敷尾切, encompassing the "grasshopper" and "animal" senses.
   - 《廣韻》府尾切 _(2)f(i/)_ (fei2) is unhelpfully explained 蟲名咸蜚.
   ==
 P

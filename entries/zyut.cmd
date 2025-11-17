@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyut
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-17
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -402,7 +402,7 @@ U
   U+7D40
 V
   ==
-  - fat1 (per 《洪武正韻牋》曲勿切 for "bent/withdrawn" sense)
+  - fat1 (per 《正韻牋》曲勿切 for "bent/withdrawn" sense)
   - zeot1 (per 《廣韻》竹律切)
   ==
 F

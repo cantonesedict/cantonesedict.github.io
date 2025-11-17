@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-11-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -961,7 +961,7 @@ W
 C
   ====
   - The reading _(2)ch(')(i/)_ (ci2) is not unattested;
-    《洪武正韻牋》 has the reading 尺里切, explained 析木？其理.
+    《正韻牋》 has the reading 尺里切, explained 析木觀其理.
   - Williams' "read [...] with the same meanings": This is not quite correct.
     ==
     - 杝 read _(4)(i/)_ (ji4) is the name of a tree.

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zung
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-11-17
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -1211,7 +1211,7 @@ W
 C
   ==
   - The reading _(2)chung_ (zung2) is not unattested;
-    《洪武正韻牋》 has the reading 知隴切 for ⿺尣重, explained 足腫亦作瘇.
+    《正韻牋》 has the reading 知隴切 for ⿺尣重, explained 足腫亦作瘇.
   ==
 P
   ++

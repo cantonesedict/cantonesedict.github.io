@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyun
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-11-17
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -1133,7 +1133,7 @@ W
 C
   ==
   - The reading _(4)ts(')(u:)n_ (cyun4) is not unattested;
-    《洪武正韻牋》 has the reading 徂官切, explained 族聚也 etc.
+    《正韻牋》 has the reading 徂官切, explained 族聚也 etc.
   - The reading _(2)ts(a/)n_ (zaan2) is used in 積攢 "accumulate/save".
     Whilst this reading appears in 《集韻》 as 子䍐切,
     the explanation 折也 is unrelated in meaning.

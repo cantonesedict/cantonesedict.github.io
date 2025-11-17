@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-11-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1309,7 +1309,7 @@ H
   depending on the font.
 V
   ==
-  - zyu2 (per 《洪武正韻牋》腫庾切逸字)
+  - zyu2 (per 《正韻牋》腫庾切逸字)
   ==
 F
   ==

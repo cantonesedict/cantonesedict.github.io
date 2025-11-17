@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-11-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -251,7 +251,7 @@ W
 C
   ==
   - The reading _(1)ts(')am_ (cam1) is not unattested;
-    《洪武正韻牋》 has the reading 七林切, explained 精氣感祥又日旁氣.
+    《正韻牋》 has the reading 七林切, explained 精氣感祥又日旁氣.
   - Fan Wan entry: Corrected headword 䘲 to 祲.
   ==
 S

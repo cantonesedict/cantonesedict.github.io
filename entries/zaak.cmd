@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -69,7 +69,7 @@ U
   U+548B
 V
   ==
-  - zaak6 (per 《洪武正韻牋》士革切 for "bite" sense)
+  - zaak6 (per 《正韻牋》士革切 for "bite" sense)
   ==
 F
   [[Not present]]
