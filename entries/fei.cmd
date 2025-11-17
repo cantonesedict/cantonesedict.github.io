@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fei
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-11-17
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -47,10 +47,32 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $扉1
 - $非1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 扉1 | _(1)F(i/)_ [[fei1]]
+
+$$
+R
+  ⼾ + 8
+U
+  U+6249
+F
+  ==
+  - (F1.35 扉) 戸也
+  ==
+W
+  ====
+  - [[Page~52 (1)扉]]
+    ==
+    - A wooden ~~door with two leaves~~ ``door-leaf`` [[Kangxi: 戶扇也, 闔謂之扉, 以木曰扉以葦曰扇]];
+    - _met._ a rustic house.
+    ==
+  ====
+$$
 
 ### 非1 | _(1)F(i/)_ [[fei1]]
 
