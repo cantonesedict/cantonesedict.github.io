@@ -48,6 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $扉1
+- $緋1
 - $非1
 ==
 </nav>
@@ -72,6 +73,37 @@ W
     - _met._ a rustic house.
     ==
   ====
+$$
+
+### 緋1 | _(1)F(i/)_ [[fei1]]
+
+$$
+R
+  ⽷ + 8
+U
+  U+7DCB
+V
+  ==
+  - fei2 (common in 緋聞)
+  ==
+F
+  ==
+  - (F1.35 緋) ::[絳]色也一曰赤練::
+  ==
+W
+  ====
+  - [[Page~52 (1)緋]]
+    ==
+    - Red or crimson silk [[Kangxi: 帛赤色, 絳色又赤練]];
+    - _(1)f(i/) (4)p(')(o\)_
+        [[fei1 pou4 緋袍]],
+        carnation robes.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 終 to 絳.
+  ==
 $$
 
 ### 非1 | _(1)F(i/)_ [[fei1]]
