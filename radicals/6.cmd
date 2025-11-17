@@ -1701,6 +1701,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $裯cau4
       - $裮coeng1
+      - $裶fei1
       - $製zai3
       ==
       </nav>

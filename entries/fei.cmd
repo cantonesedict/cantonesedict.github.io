@@ -49,6 +49,7 @@ $$
 =={.modern}
 - $扉1
 - $緋1
+- $裶1
 - $非1
 ==
 </nav>
@@ -103,6 +104,34 @@ W
 C
   ==
   - Fan Wan entry: Corrected 終 to 絳.
+  ==
+$$
+
+### 裶1 | _(1)F(i/)_ [[fei1]]
+
+$$
+R
+  ⾐ + 8
+U
+  U+88F6
+F
+  ==
+  - (F1.35 ::[裶]::) 曳衣也又衣長貌
+  ==
+W
+  ====
+  - [[Page~52 (1)裶]]
+    ==
+    - ~~To lift up the skirt;~~
+    - long, trailing``, as`` dresses [[Kangxi: 衣長貌, 曳衣貌]];
+    - _(1)f(i/) (1)(i/)_
+        [[fei1 ji1 裶衣]],
+        ~~to hold up the~~ ``a dragging`` dress.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed missing stroke in headword 裶.
   ==
 $$
 
