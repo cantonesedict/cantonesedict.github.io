@@ -1256,17 +1256,21 @@ class CmdSource:
                 _ (?P<williams> \S [^_\n]*? \S ) _
                 \s+
                 (?: \[\[ | \( )
+                    (?P<jyutping_caret> \^? )
                     (?P<jyutping> [a-z1-6 ]+ )
-                    (?P<character_content> [^a-z1-6 \]\)^]*? )
+                    (?P<character_content> [^a-z1-6 \]\)]*? )
+                    (?P<character_caret> \^? )
                 (?: \]\] | \) )
             ''',
             string=content,
             flags=re.VERBOSE,
         ):
             dual_romanisation = dual_romanisation_match.group()
+            jyutping_caret = dual_romanisation_match.group('jyutping_caret')
             williams = dual_romanisation_match.group('williams').replace('-', ' ')
             jyutping = dual_romanisation_match.group('jyutping').strip()
             character_content = dual_romanisation_match.group('character_content')
+            character_caret = dual_romanisation_match.group('character_caret')
 
             williams_list = williams.split()
             jyutping_list = jyutping.split()
@@ -1278,12 +1282,15 @@ class CmdSource:
 
             dual_romanisation_reduced = re.sub(pattern=r'\s+', repl=' ', string=dual_romanisation)
 
-            if character_count and jyutping_count != character_count:
+            if character_count and jyutping_count != character_count and not character_caret:
                 raise LintException(
                     f'inconsistent Jyutping count `{jyutping_count}` vs character count `{character_count}` '
                     f'in `{dual_romanisation_reduced}` '
                     f'(suppress with caret before closing bracket if characters are tone commentary)'
                 )
+
+            if jyutping_caret:
+                continue
 
             if williams_count == jyutping_count:
                 if inconsistency := CmdSource.get_first_romanisation_inconsistency(williams_list, jyutping_list):
@@ -1291,7 +1298,7 @@ class CmdSource:
                         f'inconsistent Williams `{inconsistency.williams}` '
                         f'vs Jyutping `{inconsistency.jyutping}` (expected {inconsistency.expected_jyutping_list}) '
                         f'in `{dual_romanisation_reduced}` '
-                        f'(suppress with caret before closing bracket if not Jyutping or if legitimate)'
+                        f'(suppress with caret after opening bracket if not Jyutping or if legitimate)'
                     )
 
                 continue
@@ -1305,7 +1312,7 @@ class CmdSource:
                         f'inconsistent Williams {inconsistency.williams} '
                         f'vs Jyutping {inconsistency.jyutping} (expected {inconsistency.expected_jyutping_list}) '
                         f'in `{dual_romanisation_reduced}` '
-                        f'(suppress with caret before closing bracket if not Jyutping or if legitimate)'
+                        f'(suppress with caret after opening bracket if not Jyutping or if legitimate)'
                     )
 
                 continue

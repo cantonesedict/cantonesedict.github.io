@@ -687,8 +687,8 @@ W
   ====
 C
   ==
-  - Williams' 人多鼓譟: Corrected _ts'(o\)(3)_ (with an apostrophe^)
-    to _ts(')(o\)(3)_ (with an aspirate^).
+  - Williams' 人多鼓譟: Corrected _ts'(o\)(3)_ (^with an apostrophe)
+    to _ts(')(o\)(3)_ (^with an aspirate).
   ==
 $$
 

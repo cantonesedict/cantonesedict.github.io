@@ -190,7 +190,7 @@ W
   - [[Page~22* 褶(8) _Ch(i/)p(8)_ (zip3)]]
     --
     Used for the last [[襵]],
-    but always read _ch(a/)p(8)_ or _ts(a/)p(8)_ [[both zaap3^]].
+    but always read _ch(a/)p(8)_ or _ts(a/)p(8)_ [[^both zaap3]].
     --
     ==
     <##

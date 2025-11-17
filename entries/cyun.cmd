@@ -1510,8 +1510,8 @@ C
   - Williams' "In Japan, [...] denotes the salmon":
     I am not knowledgeable enough in either Japanese or biology
     to say whether this is unreasonable.
-    Note that both ::{lang=ja}鮭:: _sake_ (salmon?^)
-    and ::{lang=ja}鱒:: _masu_ (trout?^)
+    Note that both ::{lang=ja}鮭:: _sake_ (^salmon?)
+    and ::{lang=ja}鱒:: _masu_ (^trout?)
     belong to the Salmonidae family.
   ==
 P

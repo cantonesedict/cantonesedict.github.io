@@ -76,22 +76,22 @@ changes in the finals are here given:---
 |:
   //
     , _(a/)u_ and _i(a/)u_
-    , into _i(u/)_ [[iu^]];
+    , into _i(u/)_ [[^iu]];
     , as _ch(a/)u_, _li(a/)u_
     , into _chi(u/)_ [[ziu]], _li(u/)_ [[liu]].
   //
     , _i(a/)ng_
-    , into _(e/)ung_ [[oeng^]];
+    , into _(e/)ung_ [[^oeng]];
     , as _si(a/)ng_, _ni(a/)ng_
     , into _s(e/)ung_ [[soeng]], _n(e/)ung_ [[noeng]].
   //
     , _in_ and _un_
-    , into _an_ [[an^]] and _un_ [[eon^]]
+    , into _an_ [[^an]] and _un_ [[^eon]]
     , as _kin_, _chin_,
     , into _kan_ [[gan]], _chun_ [[zeon]].
   //
     , _iueh_
-    , into _(u:)t_ [[yut^]];
+    , into _(u:)t_ [[^yut]];
     , as _liueh_, _chueh_,
     , into _l(u:)t_ [[lyut]], _ch(u:)t_ [[zyut]].
   //
@@ -101,12 +101,12 @@ changes in the finals are here given:---
     , into _kwong_ [[gwong]], _pong_ [[bong]].
   //
     , _iuen_
-    , into _(u:)n_ [[yun^]];
+    , into _(u:)n_ [[^yun]];
     , as _hiuen_, _kiuen_,
     , into _h(u:)n_ [[hyun]], _k(u:)n_ [[gyun]].
   //
     , _ui_
-    , into _(u/)i_ [[ui^]];
+    , into _(u/)i_ [[^ui]];
     , as _hwui_
     , into _f(u/)i_ [[fui]].
   //
@@ -116,12 +116,12 @@ changes in the finals are here given:---
     , into _k(a/)i_ [[gaai]], _h(a/)i_ [[haai]].
   //
     , _ih_
-    , into _ik_ [[ik^]], _at_ [[at]] or _(i/)p_ [[ip^]];
+    , into _ik_ [[^ik]], _at_ [[at]] or _(i/)p_ [[^ip]];
     , as _kih_, _pih_, _chih_
     , into _kik_ [[gik]], _pat_ [[bat]], _ch(i/)p_ [[zip]].
   //
     , _ieh_
-    , into _(i/)t_ [[it^]] or _(i/)p_ [[ip^]];
+    , into _(i/)t_ [[^it]] or _(i/)p_ [[^ip]];
     , as _sieh_, _lieh_
     , into _s(i/)t_ [[sit]], _l(i/)p_ [[lip]].
   //
@@ -2129,7 +2129,7 @@ pronouncing the characters, irrespective of their meaning or form.
 This should be done when commencing the study, for a vicious
 pronunciation of the tones is seldom corrected; and one is less
 liable to be misunderstood if he pronounces a word a little wrong,
-as _heng_ [[heng]] for _hing_ [[hing]], _ch(e/)uk_ for _ts(e/)uk_ [[now merged into zoek^]], than if he gives it the wrong tone.
+as _heng_ [[heng]] for _hing_ [[hing]], _ch(e/)uk_ for _ts(e/)uk_ [[^now merged into zoek]], than if he gives it the wrong tone.
 For instance, a native will consider this sentence in the Canton
 dialect 擰一張床呢處, less barbarously pronounced if he
 hears it _(1)ling yet(7) (1)ch(a/)ng (4)ts(')ong (1)n(i/) ~~sh^(')(u:)(3)~~ ``sh(u:)(3)``_
@@ -2153,45 +2153,45 @@ the lower series.
 ||||{.wide}
 ''{.williams}
   //
-    , (1)官 _k(u/)n_ [[gun1^]]
-    , (2)管 _k(u/)n_ [[gun2^]]
-    , 貫(3) _k(u/)n_ [[gun3^]]
-    , 括(8) _k(')(u/)t_ [[kut3^]]
+    , (1)官 _k(u/)n_ [[^gun1]]
+    , (2)管 _k(u/)n_ [[^gun2]]
+    , 貫(3) _k(u/)n_ [[^gun3]]
+    , 括(8) _k(')(u/)t_ [[^kut3]]
   //
-    , (1)般 _~~p(')(u/)n~~ ``p(u/)n``_ [[bun1^]]
-    , (2)碗 _(u/)n_ [[wun2^]]
-    , 判(3) _p(')(u/)n_ [[pun3^]]
-    , 抹(8) _m(u/)t_ [[mut3^]]
+    , (1)般 _~~p(')(u/)n~~ ``p(u/)n``_ [[^bun1]]
+    , (2)碗 _(u/)n_ [[^wun2]]
+    , 判(3) _p(')(u/)n_ [[^pun3]]
+    , 抹(8) _m(u/)t_ [[^mut3]]
   //
-    , (1)潘 _p(')(u/)n_ [[pun1^]]
-    , (2)欵 _f(u/)n_ [[fun2^]]
-    , 半(3) _p(u/)n_ [[bun3^]]
-    , 潑(8) _p(')(u/)t_ [[put3^]]
+    , (1)潘 _p(')(u/)n_ [[^pun1]]
+    , (2)欵 _f(u/)n_ [[^fun2]]
+    , 半(3) _p(u/)n_ [[^bun3]]
+    , 潑(8) _p(')(u/)t_ [[^put3]]
   //
-    , (1)歡 _f(u/)n_ [[fun1^]]
-    , (2)本 _p(u/)n_ [[bun2^]]
-    , 喚(3) _f(u/)n_ [[fun3^]]
-    , 闊(8) _f(u/)t_ [[fut3^]]
+    , (1)歡 _f(u/)n_ [[^fun1]]
+    , (2)本 _p(u/)n_ [[^bun2]]
+    , 喚(3) _f(u/)n_ [[^fun3]]
+    , 闊(8) _f(u/)t_ [[^fut3]]
   //
-    , (4)盤 _p(')(u/)n_ [[pun4^]]
-    , (5)滿 _m(u/)n_ [[mun5^]]
-    , 玩(6) _(u/)n_ [[wun6^]]
-    , 鉢(9) _p(u/)t_ [[but6^]]
+    , (4)盤 _p(')(u/)n_ [[^pun4]]
+    , (5)滿 _m(u/)n_ [[^mun5]]
+    , 玩(6) _(u/)n_ [[^wun6]]
+    , 鉢(9) _p(u/)t_ [[^but6]]
   //
-    , (4)門 _m(u/)n_ [[mun4^]]
+    , (4)門 _m(u/)n_ [[^mun4]]
     ,
-    , 叛(6) _p(u/)n_ [[bun6^]]
-    , 末(9) _m(u/)t_ [[mut6^]]
+    , 叛(6) _p(u/)n_ [[^bun6]]
+    , 末(9) _m(u/)t_ [[^mut6]]
   //
-    , (4)桓 _(u/)n_ [[wun4^]]
+    , (4)桓 _(u/)n_ [[^wun4]]
     ,
-    , 悶(6) _m(u/)n_ [[mun6^]]
-    , 勃(9) _~~p(')(u/)t~~ ``p(u/)t``_ [[but6^]]
+    , 悶(6) _m(u/)n_ [[^mun6]]
+    , 勃(9) _~~p(')(u/)t~~ ``p(u/)t``_ [[^but6]]
   //
     ,
     ,
     ,
-    , 活(9) _(u/)t_ [[wut6^]]
+    , 活(9) _(u/)t_ [[^wut6]]
 ''
 ||||
 
