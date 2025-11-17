@@ -2011,6 +2011,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Character entry links
 |:
   //
+    , 8
+    ,
+      <nav class="sideways">
+      ==
+      - $牋zin1
+      ==
+      </nav>
+  //
     , 11
     ,
       <nav class="sideways">

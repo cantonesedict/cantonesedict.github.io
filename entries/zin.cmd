@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-11-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -56,6 +56,7 @@ $$
 - $湔1
 - $濺1
 - $煎1
+- $牋1
 - $皽1
 - $箋1
 - $籛1
@@ -393,6 +394,23 @@ S
   ==
 $$
 
+###+ 牋1 | _(1)Ts(i/)n_ [[zin1]]
+
+$$.
+R
+  ⽚ + 8
+U
+  U+724B
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 箋. **See $箋zin1 for the canonical entry.**
+  ++
+$$
+
 ### 皽1 | _(1)Ch(i/)n_ [[zin1]]
 
 $$
@@ -431,6 +449,10 @@ R
   ⽵ + 8
 U
   U+7B8B
+A
+  ==
+  - $牋1
+  ==
 F
   ==
   - (F1.20 箋) 簡牒

@@ -2940,7 +2940,7 @@ class Linter:
 
                     if character not in [
                         alternative_form.character
-                        for alternative_form in linked_character_entry.alternative_forms
+                        for alternative_form in (linked_character_entry.alternative_forms or [])
                     ]:
                         raise LintException(f'missing alternative form `{character}` under `{linked_character_entry}`')
 
