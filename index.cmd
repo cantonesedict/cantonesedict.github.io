@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Home
-* %date-modified --> 2025-11-07
+* %date-modified --> 2025-11-17
 * %copyright-prior-years --> 2023--
 * %modern-colour --> crimson
 * %meta-description --> home page
@@ -71,7 +71,7 @@ by [Samuel Wells Williams].
 </nav>
 
 
-##{#source .modern} Source
+##{#sources .modern} Sources
 
 ###{#master-tonic .modern} Master ''Tonic Dictionary''
 
@@ -95,7 +95,7 @@ Note the special paging:
 ###{#subsidiary-tonic .modern} Subsidiary ''Tonic Dictionary''
 
 --{.modern}
-While it would have been more preferable to use
+While it would have been more preferable to use as master
 [`ark:/13960/t0ps1ph66` at archive.org][uiuc]
 from the Library of the University of Illinois at Urbana-Champaign
 (being both a higher-quality colour scan and not watermarked by Google),
