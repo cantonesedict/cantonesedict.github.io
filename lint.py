@@ -1843,8 +1843,8 @@ class PageEntry:
 
         if '[[Not present]]' in content:
             raise LintException(
-                'contextual non-insertion `[[Not present]]` in WH; '
-                'change to insertion with caret before closing square brackets'
+                'contextual non-insertion `[[Not present]]` in WH '
+                '(change to insertion with caret before closing square brackets)'
             )
 
     @staticmethod
@@ -2934,8 +2934,8 @@ class Linter:
                         )
                     except KeyError:
                         raise LintException(
-                            f'link `{link}` points to non-existent entry under `{character_entry}`; '
-                            f'suppress with `TODO` if yet to be added'
+                            f'link `{link}` points to non-existent entry under `{character_entry}` '
+                            f'(suppress with `TODO` if yet to be added)'
                         )
 
                     if character not in [
