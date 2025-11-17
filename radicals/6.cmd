@@ -1513,6 +1513,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - {$蜡caa3, $蜡ceoi3, $蜡zaa3}
       - {$蜻cing1, $蜻zing1}
+      - {$蜚fei1, $蜚fei2}
       - $蜘zi1
       ==
       </nav>

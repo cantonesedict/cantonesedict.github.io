@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [fei1](#1)
+- [fei2](#2)
 ==
 </nav>
 <## /tones ##>
@@ -49,6 +50,7 @@ $$
 =={.modern}
 - $扉1
 - $緋1
+- $蜚1
 - $裶1
 - $非1
 ==
@@ -104,6 +106,36 @@ W
 C
   ==
   - Fan Wan entry: Corrected 終 to 絳.
+  ==
+$$
+
+### 蜚1 | _(1)F(i/)_ [[fei1]]
+
+$$
+R
+  ⾍ + 8
+U
+  U+871A
+F
+  ==
+  - (F1.35 蜚) 古飛字聲名顯播也
+  ==
+W
+  ====
+  - [[Page~52 (1)蜚]]
+    --
+    [[...]]
+    --
+    --
+    ``To fly.`` The Fan Wan defines it, "~~famous.~~ ``prominently spreading,``" ``as a reputation.``
+    --
+    --
+    [[Alternative form of 飛. See $飛fei1.]] [[TODO]]
+    --
+  ====
+S
+  ==
+  - $蜚fei2
   ==
 $$
 
@@ -191,5 +223,57 @@ P
 S
   ==
   - $非fei2 (TODO) <## alternative form of 誹 ##>
+  ==
+$$
+
+
+##{#2 .williams} (2)F(i/) [[fei2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $蜚2
+==
+</nav>
+<## /tone-2-characters ##>
+
+###+ 蜚2 | _(2)F(i/)_ [[fei2]]
+
+$$
+R
+  ⾍ + 8
+U
+  U+871A
+V
+  ==
+  - fai3 (alternative per 《正韻》芳未切 for "grasshopper" sense)
+  - fai6 (per 《廣韻》扶沸切 for "stinking insect" and "ominous animal" senses)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~52 (1)蜚 _(1)F(i/)_ (fei1); here corrected to _(2)F(i/)_ (fei2)]]
+    ==
+    - A stinking bug which eats clothes and grain [[Kangxi: ::[...]然則蜚是臭惡之蟲害人衣物[...]::]];
+    - a fabulous animal ominous of pestilence [[Kangxi: 獸名, ::[...]見則天下大疫::]].
+    ==
+    --
+    [[...]]
+    --
+  ====
+C
+  ==
+  - The reading _(2)f(i/)_ (fei2) is not unattested;
+    《正韻》 has the reading 敷尾切, encompassing the "grasshopper" and "animal" senses.
+  - 《廣韻》府尾切 _(2)f(i/)_ (fei2) is unhelpfully explained 蟲名咸蜚.
+  ==
+P
+  ++
+  1. The grasshopper (Kangxi: 蟲名負蠜也).
+  ++
+S
+  ==
+  - $蜚fei1
   ==
 $$
