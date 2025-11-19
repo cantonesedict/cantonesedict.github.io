@@ -54,6 +54,7 @@ $$
 - $裶1
 - $霏1
 - $非1
+- $飛1
 - $騑1
 ==
 </nav>
@@ -132,7 +133,7 @@ W
     ``To fly.`` The Fan Wan defines it, "~~famous.~~ ``prominently spreading,``" ``as a reputation.``
     --
     --
-    [[Alternative form of 飛. See $飛fei1.]] [[TODO]]
+    [[Alternative form of 飛. See $飛fei1.]]
     --
   ====
 S
@@ -246,6 +247,92 @@ S
   ==
   - $非fei2 (TODO) <## alternative form of 誹 ##>
   ==
+$$
+
+### 飛1 | _(1)F(i/)_ [[fei1]]
+
+$$
+R
+  ⾶ + 0
+U
+  U+98DB
+A
+  ==
+  - $蜚1
+  ==
+F
+  ==
+  - (F1.35 飛) 飛鳥
+  ==
+W
+  ====
+  - [[Page~52 (1)飛]]
+    ==
+    - To fly [[Kangxi: 鳥翥, 飛翔]];
+    - to flit;
+    - flying;
+    - to go swiftly;
+    - lofty;
+    - quick;
+    - _(1)f(i/) h(u:)(3)_
+        [[fei1 heoi3 飛去]]
+        to fly away;
+    - _(1)f(i/) (5)ni(u/)_ [[fei1 niu5 飛鳥]],
+        or
+      _(1)f(i/) (4)k(')am_ [[fei1 kam4 飛禽]],
+        birds;
+    - _(1)f(i/) (1)kam_
+        [[fei1 gam1 飛金]],
+        to put on gold leaf;
+    - _(1)f(i/) ~~(4)(i/)m~~ ``(4)sh(i/)m`` (2)tsau pik(8)_
+        [[fei1 sim4 zau2 bik3 飛檐走壁]]
+        an expert thief;
+    - _(1)f(i/) (2)sh(u:)_
+        [[fei1 syu2 飛鼠]],
+        a bat;
+    - _(1)f(i/) p(o\)(3)_
+        [[fei1 bou3 飛報]]
+        to haste to tell;
+    - _(1)f(i/) (4)t(')ang_
+        [[fei1 tang4 飛騰]],
+        to rise rapidly in office;
+    - _(1)f(i/) (1)t(')(i/)n (2)p(u/)n sz'(6)_
+        [[fei1 tin1 bun2 si6 飛天本事]]
+        incomparably clever;
+    - _(1)F(i/)-(4)l(i/)m_
+        [[fei1 lim4 飛廉]],
+        Boreas, the god of wind [[Kangxi: ::[...]世因以飛廉爲風伯之名[...]::]].
+    ==
+  ====
+C
+  ==
+  - Williams' 飛檐走壁: Changed _(4)(i/)m_ (jim4) to common reading _(4)sh(i/)m_ (sim4).
+  ==
+P
+  ++
+  1. The 183rd~radical ("fly").
+  ++
+E
+  ====
+  - 【飛】 (fei1):
+    ++
+    1. To cut off hair.
+       ==
+       - 飛髮 (fei1 faat3): "Get [a] haircut."
+       - 飛短啲 (fei1 dyun2 di1): "Cut [it] shorter."
+       - 飛光佢 (fei1 gwong1 keoi5): "Cut it all off" (i.e. go bald).
+       ==
+    1. To skip.
+       ==
+       - 巴士飛站 (baa1 si2 fei1 zaam6): "[A] bus skipping [a] stop."
+       ==
+    1. A ticket.
+       ==
+       - 買飛 (maai5 fei1): "Buy [a] ticket."
+       - 黃牛飛 (wong4 ngau4 fei1): "Scalped tickets."
+       ==
+    ++
+  ====
 $$
 
 ### 騑1 | _(1)F(i/)_ [[fei1]]
