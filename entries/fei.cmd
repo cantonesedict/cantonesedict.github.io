@@ -54,6 +54,7 @@ $$
 - $裶1
 - $霏1
 - $非1
+- $騑1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -245,6 +246,33 @@ S
   ==
   - $非fei2 (TODO) <## alternative form of 誹 ##>
   ==
+$$
+
+### 騑1 | _(1)F(i/)_ [[fei1]]
+
+$$
+R
+  ⾺ + 8
+U
+  U+9A11
+A
+  ==
+  - 匪 (for "continuously walking" sense)
+  ==
+F
+  ==
+  - (F1.35 騑) 馬行不止
+  ==
+W
+  ====
+  - [[Page~52 (1)騑]]
+    ==
+    - The two outside of a team of four horses [[Kangxi: 車有一轅四馬中兩馬夾轅名服馬兩邊名騑馬亦名驂馬]];
+    - _(1)f(i/) (1)f(i/)_
+        [[fei1 fei1 騑騑]],
+        the ~~regular~~ ``continuous`` march of horses [[Kangxi: 騑騑馬行不止貌]].
+    ==
+  ====
 $$
 
 
