@@ -2001,6 +2001,7 @@ class CharacterEntry:
     f_content: str
     w_content: str
     p_content: Optional[str]
+    e_content: Optional[str]
     alternative_forms: Optional[list['AlternativeForm']]
     reading_variations: Optional[list['ReadingVariation']]
     cantonese_entries: Optional[list['CantoneseEntry']]
@@ -2072,15 +2073,17 @@ class CharacterEntry:
         f_content = content_from_key['F']
         w_content = content_from_key['W']
         p_content = content_from_key.get('P')
+        e_content = content_from_key.get('E')
         alternative_forms = CharacterEntry.extract_alternative_forms(content_from_key.get('A'), jyutping)
         reading_variations = CharacterEntry.extract_reading_variations(content_from_key.get('V'))
-        cantonese_entries = CharacterEntry.extract_cantonese_entries(content_from_key.get('E'), page_heading_jyutping)
+        cantonese_entries = CharacterEntry.extract_cantonese_entries(e_content, page_heading_jyutping)
         see_also_links = CharacterEntry.extract_see_also_links(content_from_key.get('S'))
 
         CharacterEntry.lint_character_against_unicode_code_point(character, unicode_code_point)
         CharacterEntry.lint_williams_locator(w_content)
         CharacterEntry.lint_williams_ellipsis_item_punctuation(w_content)
         CharacterEntry.lint_williams_romanisation_punctuation(w_content)
+        CharacterEntry.lint_character_jyutping_consistency(e_content)
 
         CharacterEntry.lint_cantonese_entry_order(cantonese_entries)
         CmdIdioms.lint_see_also_link_order(see_also_links)
@@ -2233,6 +2236,42 @@ class CharacterEntry:
                 f'missing comma after supplied Jyutping for Williams left-tone in `{missing_comma_context_reduced}` '
                 f'(suppress with caret after closing square brackets if legitimate)'
             )
+
+    @staticmethod
+    def lint_character_jyutping_consistency(content: str):
+        if content is None:
+            return
+
+        for item_match in re.finditer(
+            pattern=r'''
+                - [ ]+
+                (?P<character_content> \S+ )
+                \s+
+                \( (?P<jyutping> [a-z1-6 ]+ ) \)
+            ''',
+            string=content,
+            flags=re.VERBOSE,
+        ):
+            item_content = item_match.group()
+            character_content = item_match.group('character_content')
+            jyutping = item_match.group('jyutping')
+
+            characters = re.sub(
+                pattern=r'【 (?P<term> [^\s-]+ ) \S* 】',
+                repl=r'\g<term>',
+                string=CmdIdioms.strip_compositions(character_content),
+                flags=re.VERBOSE,
+            )
+            jyutping_list = jyutping.split()
+
+            character_count = len(characters)
+            jyutping_count = len(jyutping_list)
+
+            if character_count != jyutping_count:
+                raise LintException(
+                    f'inconsistent character count `{character_count}` vs Jyutping count `{jyutping_count}` '
+                    f'in `{item_content}`'
+                )
 
     @staticmethod
     def lint_cantonese_entry_order(cantonese_entries: Optional[list['CantoneseEntry']]):

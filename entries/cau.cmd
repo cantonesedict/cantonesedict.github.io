@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-11-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -981,7 +981,7 @@ E
     1. To look after, to raise, to baby sit.
        ==
        - 湊仔 (cau3 zai2): "Look after kids."
-       - 湊大佢 (cau3 daai6): "Raised him up."
+       - 湊大佢 (cau3 daai6 keoi5): "Raised him up."
        ==
     ++
   ====
