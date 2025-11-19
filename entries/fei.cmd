@@ -48,6 +48,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $妃1
 - $扉1
 - $緋1
 - $蜚1
@@ -59,6 +60,50 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### ~~{？=⿰女㔾}~~``妃``1 | _(1)F(i/)_ [[fei1]]
+
+$$
+R
+  ⼥ + 3
+U
+  U+5983
+F
+  ==
+  - (F1.35 ::妃::) ::[妃]嬪::
+  ==
+W
+  ====
+  - [[Page~52 ::(1)~~{？=⿰女㔾}~~``妃``::]]
+    ==
+    - Royal concubines [[Kangxi: ::女與己身儔也古[嬪]御之貴次于后者曰妃::]];
+    - _~~(1)wong~~ ``(4)wong`` (1)f(i/)_
+        [[wong4 fei1 王妃]],
+        wife of the heir apparent;
+    - _ching(3) (1)f(i/)_
+        [[zing3 fei1 正妃]],
+        the empress;
+    - _(1)t(')(i/)n (1)f(i/)_
+        [[tin1 fei1 天妃]],
+        the Amphitrite of the Chinese [[Kangxi: 天妃水神]];
+    - _(1)f(i/) (2)tsz' si(u/)(3)_
+        [[fei1 zi2 siu3 妃子笑]]
+        the best sort of laich(i/) [[荔枝]].
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised headword ⿰女巳 to 妃.
+  ==
+P
+  ++
+  1. A spouse (Kangxi: 匹也).
+  ++
+S
+  ==
+  - $妃pui3 (TODO) <## alternative form of 配 ##>
+  ==
+$$
 
 ### 扉1 | _(1)F(i/)_ [[fei1]]
 
