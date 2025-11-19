@@ -261,8 +261,8 @@ W
     - _(2)kong sh(i/)(6) (1)f(i/)_
         [[gong2 si6 fei1 講是非]],
         to asperse, tittle-tattle;
-    - _(1)f(i/) (1)heng ~~(1)yung~~ ``(4)yung`` (i/)(6)_
-        [[fei1 heng1 jung4 ji6 非輕容易]] <## TODO: check heng1 in 泣荊花參禪(後園相會) ##>
+    - _(1)f(i/) ~~(1)heng~~ ``(1)hing`` ~~(1)yung~~ ``(4)yung`` (i/)(6)_
+        [[fei1 hing1 jung4 ji6 非輕容易]]
         this is not so easy;
     - _(1)f(i/) (5)lai_
         [[fei1 lai5 非禮]],
@@ -280,7 +280,8 @@ W
   ====
 C
   ==
-  - Williams' 非輕容易: Corrected _(1)yung_ (jung1) to _(4)yung_ (jung4).
+  - Williams' 非輕容易: Corrected _(1)heng_ (heng1) to _(1)hing_ (hing1),
+    and corrected _(1)yung_ (jung1) to _(4)yung_ (jung4).
   - Williams' 非禮: Now to molest.
   - Williams' 非常: Corrected _(1)sh(e/)ung_ (soeng1) to _(4)sh(e/)ung_ (soeng4).
   ==
