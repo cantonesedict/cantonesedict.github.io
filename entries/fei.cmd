@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fei
-* %date-modified --> 2025-11-17
+* %date-modified --> 2025-11-19
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -52,6 +52,7 @@ $$
 - $緋1
 - $蜚1
 - $裶1
+- $霏1
 - $非1
 ==
 </nav>
@@ -165,6 +166,26 @@ C
   ==
   - Fan Wan entry: Fixed missing stroke in headword 裶.
   ==
+$$
+
+### 霏1 | _(1)F(i/)_ [[fei1]]
+
+$$
+R
+  ⾬ + 8
+U
+  U+970F
+F
+  ==
+  - (F1.35 霏) 雨雪之貌
+  ==
+W
+  ====
+  - [[Page~52 (1)霏]]
+    ==
+    - Rain, sleet, or snow driven by the wind, and filling the air [[Kangxi: 雨雪貌, 雰也, 霏甚貌]].
+    ==
+  ====
 $$
 
 ### 非1 | _(1)F(i/)_ [[fei1]]
