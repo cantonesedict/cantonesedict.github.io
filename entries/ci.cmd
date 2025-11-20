@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2025-11-17
+* %date-modified --> 2025-11-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -3096,6 +3096,9 @@ P
   1. To present, to give (Kangxi: 况也奉也).
   ++
 E
+  --
+  Cantonese prefers classical 似 over 像.
+  --
   ====
   - 【似】 (ci5):
     ++
@@ -3117,9 +3120,6 @@ E
        ==
     ++
   ====
-  --
-  Classical usage of 似 is preserved by Cantonese, which prefers it over 像.
-  --
 $$
 
 ### 姒5 | _~~(2)Ts(')z'~~ ``(5)Ts(')z'``_ [[ci5]]

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-11-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1147,6 +1147,9 @@ C
   - Williams' 走漏: In the vernacular register, 走漏 means to omit by mistake.
   ==
 E
+  --
+  Cantonese retains the classical distinction between 走 "run" and 行 "walk".
+  --
   ====
   - 【走】 (zau2):
     ++
@@ -1213,11 +1216,6 @@ E
     1. To run away, to flee.
     ++
   ====
-  --
-  Classically, 走 means to run, *not* to walk (which is 行).
-  This classical usage is preserved by Cantonese,
-  in contrast with Mandarin, which uses 走 for walk.
-  --
 $$
 
 ### 酒2 | _(2)Tsau_ [[zau2]]

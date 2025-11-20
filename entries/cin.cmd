@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cin
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-11-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -551,13 +551,10 @@ W
         already, before done.
     ==
   ====
-C
-  ==
-  - In the vernacular register of Cantonese
-    there is a distinction between 以前 and 之前.
-    See below.
-  ==
 E
+  --
+  Cantonese (in the vernacular register) makes a distinction between 以前 and 之前.
+  --
   ====
   - 【以前】 (ji5 cin4):
     ++
