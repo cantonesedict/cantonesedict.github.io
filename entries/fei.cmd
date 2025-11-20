@@ -478,6 +478,7 @@ $$
 =={.modern}
 - $淝4
 - $肥4
+- $腓4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -597,4 +598,33 @@ E
     1. Fatty, greasy.
     ++
   ====
+$$
+
+### 腓4 | _(4)F(i/)_ [[fei4]]
+
+$$
+R
+  ⾁ + 8
+U
+  U+8153
+F
+  ==
+  - (F1.39 腓) ::足肚也又？也[詩]小人所腓又病也百卉具腓又庇也牛羊腓字之::
+  ==
+W
+  ====
+  - [[Page~53 (4)腓]]
+    ==
+    - Calf of the leg [[Kangxi: 脛腨也, 腳腨腸也, 腓䏿也, 脛後肉腓腸也]];
+    - sick, diseased [[Kangxi: 病也, 變也]];
+    - to avoid, to flee from [[Kangxi: 避也]];
+    - to conceal or cover, as animals do each other when herding [[Fan Wan: 庇也]].
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed missing stroke in 詩.
+    The incomprehensible character looks like an incomplete 備;
+    context suggests that this should be 避.
+  ==
 $$
