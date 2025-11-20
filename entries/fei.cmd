@@ -476,10 +476,45 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
+- $淝4
 - $肥4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 淝4 | _(4)F(i/)_ [[fei4]]
+
+$$
+R
+  ⽔ + 8
+U
+  U+6DDD
+A
+  ==
+  - $肥4
+  ==
+F
+  ==
+  - (F1.39 淝) ::地名又水[名]::
+  ==
+W
+  ====
+  - [[Page~714 (4)淝]]
+    ==
+    - Diverging streams [[Kangxi: 所出同所歸異曰肥泉]];
+    - a river in Ng(a/)nhwui [[安徽]]
+      running into Lake Ch(')(a/)u [[巢湖]] by L(u/)chau f(u/) [[廬州府]] [[Kangxi: 水名 etc.]].
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 各 to 名.
+  ==
+S
+  ==
+  - $淝fe4
+  ==
+$$
 
 ### 肥4 | _(4)F(i/)_ [[fei4]]
 
@@ -518,7 +553,7 @@ W
         plump, good looking.
     ==
     --
-    [[Otherwise, an alternative form of 淝. **See $淝fei4 for the canonical entry.**]] [[TODO]]
+    [[Otherwise, an alternative form of 淝. **See $淝fei4 for the canonical entry.**]]
     --
   - [[Page~714 (4)肥]]
     --
