@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fei
-* %date-modified --> 2025-11-19
+* %date-modified --> 2025-11-20
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -376,6 +376,15 @@ E
        ==
        - 買飛 (maai5 fei1): "Buy [a] ticket."
        - 黃牛飛 (wong4 ngau4 fei1): "Scalped tickets."
+       ==
+    ++
+  - 【飛起】 (fei1 hei2):
+    ++
+    1. Used after 到 to indicate an extreme degree.
+       Similar to "to death" in English after a verb.
+       ==
+       - 熱到飛起 (jit6 dou3 fei1 hei2): "[It's] so hot [I could] fly."
+       - 鬧到飛起 (naau6 dou3 fei1 hei2): "Scolded so [badly I could] fly."
        ==
     ++
   ====
