@@ -2247,7 +2247,7 @@ class CharacterEntry:
                 - [ ]+
                 (?P<character_content> \S+ )
                 \s+
-                \( (?P<jyutping> [a-z1-6 ]+ ) \)
+                \( (?P<jyutping> .*? ) \)
             ''',
             string=content,
             flags=re.VERBOSE,
@@ -2256,22 +2256,29 @@ class CharacterEntry:
             character_content = item_match.group('character_content')
             jyutping = item_match.group('jyutping')
 
-            characters = re.sub(
+            characters, is_term = re.subn(
                 pattern=r'【 (?P<term> [^\s-]+ ) \S* 】',
                 repl=r'\g<term>',
-                string=CmdIdioms.strip_compositions(character_content),
+                string=CmdIdioms.strip_compositions(character_content).replace('、', ''),
                 flags=re.VERBOSE,
             )
-            jyutping_list = jyutping.split()
+            if is_term:
+                jyutping_lists = [
+                    split_jyutping.split()
+                    for split_jyutping in jyutping.split(sep=', ')
+                ]
+            else:
+                jyutping_lists = [jyutping.split()]
 
             character_count = len(characters)
-            jyutping_count = len(jyutping_list)
 
-            if character_count != jyutping_count:
-                raise LintException(
-                    f'inconsistent character count `{character_count}` vs Jyutping count `{jyutping_count}` '
-                    f'in `{item_content}`'
-                )
+            for jyutping_list in jyutping_lists:
+                jyutping_count = len(jyutping_list)
+                if character_count != jyutping_count:
+                    raise LintException(
+                        f'inconsistent character count `{character_count}` vs Jyutping count `{jyutping_count}` '
+                        f'in `{item_content}`'
+                    )
 
     @staticmethod
     def lint_cantonese_entry_order(cantonese_entries: Optional[list['CantoneseEntry']]):
