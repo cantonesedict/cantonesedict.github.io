@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2025-11-19
+* %date-modified --> 2025-11-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -234,7 +234,7 @@ E
        ==
        - 大抽鎖匙 (daai6 cau1 so2 si4): "Big bunch of keys."
        ==
-    1. To fight.
+    1. To fight. (See [隻抽](#cantonese-隻抽).)
     1. (_Chinese chess_) To win a piece with check, either by skewering, forking, or discovery.
        ==
        - 將軍抽車 (zoeng1 gwan1 cau1 geoi1): "Check, skewering [a] chariot."
