@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [fei1](#1)
 - [fei2](#2)
+- [fei4](#4)
 ==
 </nav>
 <## /tones ##>
@@ -467,4 +468,98 @@ S
   ==
   - $蜚fei1
   ==
+$$
+
+
+##{#4 .williams} (4)F(i/) [[fei4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways">
+=={.modern}
+- $肥4
+==
+</nav>
+<## /tone-4-characters ##>
+
+### 肥4 | _(4)F(i/)_ [[fei4]]
+
+$$
+R
+  ⾁ + 4
+U
+  U+80A5
+F
+  ==
+  - (F1.39 肥) ::不[瘦]也[潤]也::
+  ==
+W
+  ====
+  - [[Page~53 (4)肥]]
+    ==
+    - Fat, oily, fleshy [[Kangxi: 多肉也]], rich [[Kangxi: 饒裕也]], fertile [[Kangxi: 田有肥瘠]];
+    - _(4)f(i/) chong(3)_
+        [[fei4 zong3 肥壯]]
+        robust;
+    - _(4)f(i/) t(a/)i(6)_
+        [[fei4 daai6 肥大]]
+        corpulent;
+    - _(4)f(i/) (2)l(o\)_ [[fei4 lou2 肥佬]]^
+        or
+      _(a/)(3) (4)f(i/)_ [[aa3 fei4 阿肥]],
+        a fat man;
+    - _(4)f(i/) yun(6)_
+        [[fei4 jeon6 肥潤]]
+        fertile;
+    - _(4)f(i/) ~~tun(6) tun(6)~~ ``tat(7) tat(7)``_
+        [[fei4 dat1 dat1 肥腯腯]]
+        obese, fat as a pig;
+    - _(4)f(i/) (5)m(i/)_
+        [[fei4 mei5 肥美]],
+        plump, good looking.
+    ==
+    --
+    [[Otherwise, an alternative form of 淝. **See $淝fei4 for the canonical entry.**]] [[TODO]]
+    --
+  - [[Page~714 (4)肥]]
+    --
+    As a verb.
+    --
+    ==
+    - To fatten;
+    - fattened;
+    - to advantage one;
+    - _chat(7) k(u/)(3) (4)f(i/) (2)k(i/)_
+        [[zat1 gu3 fei4 gei2 只顧肥己]],
+        he only thinks of benefiting himself.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿸疒央 to 瘦, and corrected ⿰冫閏 to 潤.
+  - Williams' 肥腯腯: Normalised _tun(6)_ (deon6) to _tat(7)_ (dat1).
+  ==
+P
+  ++
+  1. A horse (Kangxi: 馬亦稱肥).
+  1. Fertiliser.
+  ++
+E
+  --
+  Cantonese prefers 肥 over 胖, even when referring to fatness in humans.
+  --
+  ====
+  - 【肥腯腯】 (fei4 dat1 dat1):
+    ++
+    1. Chubby.
+    ++
+  - 【肥嘟嘟】 (fei4 dyut1 dyut1):
+    ++
+    1. Synonym of [肥腯腯](#cantonese-肥腯腯).
+    ++
+  - 【肥揗揗】 (fei4 tan4 tan4):
+    ++
+    1. Fat, in a somewhat clumsy or bumbling way.
+    1. Fatty, greasy.
+    ++
+  ====
 $$

@@ -569,6 +569,15 @@ window.onload = applyFilter;
     , fei1 hei2
     , [飛起](/entries/fei#cantonese-飛起)
   //
+    , fei4 dat1 dat1
+    , [肥腯腯](/entries/fei#cantonese-肥腯腯)
+  //
+    , fei4 dyut1 dyut1
+    , [肥嘟嘟](/entries/fei#cantonese-肥嘟嘟)
+  //
+    , fei4 tan4 tan4
+    , [肥揗揗](/entries/fei#cantonese-肥揗揗)
+  //
     , fo2 zuk1
     , [火燭](/entries/zuk#cantonese-火燭)
   //
