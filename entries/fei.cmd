@@ -467,7 +467,7 @@ W
         variegated.
     ==
     --
-    Read _(1)fan_ [[fan1]], to distribute [[Kangxi 匪: 匪分也, 匪讀爲分]].
+    [[...]]
     --
   ====
 C
@@ -481,7 +481,7 @@ P
 S
   ==
   - $匪bei2 (TODO) <## same as 彼 ##>
-  - $匪fan1 (TODO) <## same as 分 ##>
+  - $匪fan1
   ==
 $$
 

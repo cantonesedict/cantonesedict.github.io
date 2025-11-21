@@ -789,7 +789,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $匪fei2
+      - {$匪fan1, $匪fei2}
       ==
       </nav>
 ''

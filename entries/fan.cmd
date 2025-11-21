@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fan
-* %date-modified --> 2025-11-07
+* %date-modified --> 2025-11-21
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -49,6 +49,7 @@ $$
 - $分1
 - $勛1
 - $勳1
+- $匪1
 - $吩1
 - $婚1
 - $帉1
@@ -89,6 +90,10 @@ R
   ⼑ + 2
 U
   U+5206
+A
+  ==
+  - $匪1
+  ==
 F
   ==
   - (F1.80 分) 分别分離
@@ -224,6 +229,35 @@ W
 C
   ==
   - Fan Wan entry: Normalised headword ⿺熏力 to 勳.
+  ==
+$$
+
+### 匪1 | _(1)Fan_ [[fan1]]
+
+$$
+R
+  ⼕ + 8
+U
+  U+532A
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~53 (2)匪]]
+    --
+    [[...]]
+    --
+    --
+    Read _(1)fan_ [[fan1]], to distribute [[Kangxi: 匪分也, 匪讀爲分]].
+    --
+    --
+    [[Alternative form of 分. See $分fan1.]]
+    --
+  ====
+S
+  ==
+  - $匪bei2 (TODO) <## same as 彼 ##>
+  - $匪fei2
   ==
 $$
 
