@@ -659,6 +659,14 @@ For all radicals, see [Index of characters by radical](./).
       - $斋zaai1
       ==
       </nav>
+  //
+    , 8
+    ,
+      <nav class="sideways">
+      ==
+      - $斐fei2
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⽂-characters ##>

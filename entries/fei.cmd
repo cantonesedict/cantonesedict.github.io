@@ -456,6 +456,7 @@ $$
 =={.modern}
 - $匪2
 - $悱2
+- $斐2
 - $棐2
 - $榧2
 - $蜚2
@@ -493,6 +494,9 @@ W
         [[fei2 sik1 匪色]]
         variegated.
     ==
+    --
+    [[Otherwise, an alternative form of 斐. **See $斐fei2 for the canonical entry.**]]
+    --
     --
     [[...]]
     --
@@ -534,6 +538,42 @@ W
 C
   ==
   - Williams' "Embarrassed": In the (now) archaic sense of "impeded", "obstructed".
+  ==
+$$
+
+### 斐2 | _(2)F(i/)_ [[fei2]]
+
+$$
+R
+  ⽂ + 8
+U
+  U+6590
+A
+  ==
+  - $匪2
+  ==
+F
+  ==
+  - (F1.39 斐) ::文[貌]::
+  ==
+W
+  ====
+  - [[Page~53 (2)斐]]
+    ==
+    - Elegant, adorned [[Kangxi: 分別文也 etc.]], graceful, polished, applied to actions or writings;
+    - _(2)f(i/) (5)m(i/)_
+        [[fei2 mei5 斐美]],
+        pleasing;
+    - _(2)f(i/) (4)(i/)n ~~(1)shing~~ ``(4)shing`` (1)ch(e/)ung_
+        [[fei2 jin4 sing4 zoeng1 斐然成章]],
+        ``as splendid as`` finished composition.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed missing strokes in 貌.
+  - Williams' "adorned": Especially with small markings (Kangxi: 小文之貌).
+  - Williams' 斐然成章: Corrected _(1)shing_ (sing1) to _(4)shing_ (sing4).
   ==
 $$
 
