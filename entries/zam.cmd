@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2025-11-17
+* %date-modified --> 2025-11-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -753,12 +753,11 @@ U
 F
   [[Not present]]
 W
-  ====
-  - [[Page~16|n59 湛(3) _Ch(a/)m(3)_ (zaam3); here corrected to _Tsam(3)_ (zam3)]]
-    --
-    [[Alternative form of 浸. **See $浸zam3 for the canonical entry.**]]
-    --
-  ====
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 浸. **See $浸zam3 for the canonical entry.**
+  ++
 S
   ==
   - $湛cam4

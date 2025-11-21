@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-11-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1964,7 +1964,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~11* (4)坻 _(4)Ch(')(i/)_ (ci4); here normalised to 坁, and corrected to _(2)Ch(i/)_ (zi2)]]
+  - [[Page~11* (4)坻 _(4)Ch(')(i/)_ (ci4); here corrected to _(2)Ch(i/)_ (zi2) and normalised to 坁]]
     ==
     - [[...]];
     - to stop [[Kangxi 坻: 止也]].
@@ -1982,12 +1982,11 @@ U
 F
   [[Not present]]
 W
-  ====
-  - [[Page~11* (4)坻 _(4)Ch(')(i/)_ (ci4); here corrected to _(2)Ch(i/)_ (zi2)]]
-    --
-    [[Alternative form of 坁. **See $坁zi2 for the canonical entry.**]]
-    --
-  ====
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 坁. **See $坁zi2 for the canonical entry.**
+  ++
 S
   ==
   - $坻ci4
@@ -3593,12 +3592,11 @@ U
 F
   [[Not present]]
 W
-  ====
-  - [[Page~37|n80 (1)知 _(1)Ch(i/)_ (zi1); here corrected to _Ch(i/)(3)_ (zi3)]]
-    --
-    [[Alternative form of 智. **See $智zi3 for the canonical entry.**]]
-    --
-  ====
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 智. **See $智zi3 for the canonical entry.**
+  ++
 S
   ==
   - $知zi1

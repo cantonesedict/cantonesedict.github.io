@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ak
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -317,16 +317,13 @@ R
 U
   U+9698
 F
-  ==
-  - (F2.28 隘 _(A/)i(3)_ (aai3)) 窄狹也陋也塞也
-  ==
+  [[Not present]]
 W
-  ====
-  - [[Page~3 隘(3) _(A/)i(3)_ (aai3); here corrected to _Ak(7)_ (ak1)]]
-    --
-    [[Alternative form of 阨. **See $阨ak1 for the canonical entry.**]]
-    --
-  ====
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 阨. **See $阨ak1 for the canonical entry.**
+  ++
 S
   ==
   - $隘aai3

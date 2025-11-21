@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aai
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -202,16 +202,13 @@ R
 U
   U+9628
 F
-  ==
-  - (F2.32 阨) 困窮也
-  ==
+  [[Not present]]
 W
-  ====
-  - [[Page~3 阨(7) _Ak(7)_ (ak1); here corrected to _(A/)i(3)_ (aai3)]]
-    --
-    [[Alternative form of 隘. **See $隘aai3 for the canonical entry.**]]
-    --
-  ====
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 隘. **See $隘aai3 for the canonical entry.**
+  ++
 S
   ==
   - $阨aak1

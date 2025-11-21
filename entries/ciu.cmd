@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ciu
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-11-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -257,12 +257,11 @@ U
 F
   [[Not present]]
 W
-  ====
-  - [[Page~582 鍫(3) _Ts(')i(u/)(3)_ (ciu3); here corrected to _(1)Ts(')i(u/)_ (ciu1)]]
-    --
-    [[Alternative form of 鍬. **See $鍬ciu1 for the canonical entry.**]]
-    --
-  ====
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 鍬. **See $鍬ciu1 for the canonical entry.**
+  ++
 $$
 
 ###+ 鍬1 | _(1)Ts(')i(u/)_ [[ciu1]]
@@ -280,7 +279,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~582 鍫(3) _Ts(')i(u/)(3)_ (ciu3); here normalised to 鍬, and corrected to _(1)Ts(')i(u/)_ (ciu1)]]
+  - [[Page~582 鍫(3) _Ts(')i(u/)(3)_ (ciu3); here corrected to _(1)Ts(')i(u/)_ (ciu1) and normalised to 鍬]]
     ==
     - A spade or pick [[Kangxi 鍫: 臿也]];
     - an implement for turning up the ground;

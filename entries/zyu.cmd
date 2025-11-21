@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2025-11-17
+* %date-modified --> 2025-11-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -992,12 +992,11 @@ U
 F
   [[Not present]]
 W
-  ====
-  - [[Page~33* (5)柱 _(5)Ch(')(u:)_ (cyu5); here corrected to _(2)Ch(u:)_ (zyu2)]]
-    --
-    [[Alternative form of 拄. **See $拄zyu2 for the canonical entry.**]]
-    --
-  ====
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 拄. **See $拄zyu2 for the canonical entry.**
+  ++
 S
   ==
   - $柱cyu5

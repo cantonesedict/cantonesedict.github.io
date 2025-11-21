@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2025-11-20
+* %date-modified --> 2025-11-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -100,12 +100,11 @@ U
 F
   [[Not present]]
 W
-  ====
-  - [[Page~613 (2)呰 _(2)Tsz'_ (zi2); here corrected to _(4)Ts(')z'_ (ci4) and normalised to _(1)Ts(')z'_ (ci1)]]
-    --
-    [[Alternative form of 疵. **See $疵ci1 for the canonical entry.**]]
-    --
-  ====
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 疵. **See $疵ci1 for the canonical entry.**
+  ++
 S
   ==
   - $呰ci4
@@ -2047,12 +2046,11 @@ U
 F
   [[Not present]]
 W
-  ====
-  - [[Page~613 (2)呰 _(2)Tsz'_ (zi2); here corrected to _(4)Ts(')z'_ (ci4)]]
-    --
-    [[Alternative form of 疵, and reading variation. **See $疵ci1 for the canonical entry.**]]
-    --
-  ====
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 疵, and reading variation. **See $疵ci1 for the canonical entry.**
+  ++
 S
   ==
   - $呰ci1
@@ -2524,12 +2522,11 @@ U
 F
   [[Not present]]
 W
-  ====
-  - [[Page~612 (1)粢 _(1)Tsz'_ (zi1); here corrected to _(4)Ts(')z'_ (ci4)]]
-    --
-    [[Alternative form of 餈. **See $餈ci4 for the canonical entry.**]]
-    --
-  ====
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 餈. **See $餈ci4 for the canonical entry.**
+  ++
 S
   ==
   - $粢zi1

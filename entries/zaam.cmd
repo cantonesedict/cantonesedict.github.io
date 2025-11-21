@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-11-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -62,12 +62,11 @@ U
 F
   [[Not present]]
 W
-  ====
-  - [[Page~554 (2)篸 _(2)Ts(')(a/)m_ (caam2); here corrected to _(1)Ts(a/)m_ (zaam1)]]
-    --
-    [[Alternative form of 簪. **See $簪zaam1 for the canonical entry.**]]
-    --
-  ====
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 簪. **See $簪zaam1 for the canonical entry.**
+  ++
 S
   ==
   - $篸caam1
