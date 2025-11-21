@@ -257,6 +257,7 @@ W
 S
   ==
   - $匪bei2 (TODO) <## same as 彼 ##>
+  - $匪fei1
   - $匪fei2
   ==
 $$

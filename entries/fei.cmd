@@ -49,6 +49,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $匪1
 - $妃1
 - $扉1
 - $緋1
@@ -61,6 +62,29 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+###+ 匪1 | _(1)F(i/)_ [[fei1]]
+
+$$.
+R
+  ⼕ + 8
+U
+  U+532A
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 騑 (for the walking-related senses). **See $騑fei1 for the canonical entry.**
+  ++
+S
+  ==
+  - $匪bei2 (TODO) <## same as 彼 ##>
+  - $匪fan1
+  - $匪fei2
+  ==
+$$
 
 ### ~~{？=⿰女㔾}~~``妃``1 | _(1)F(i/)_ [[fei1]]
 
@@ -400,7 +424,7 @@ U
   U+9A11
 A
   ==
-  - 匪 (for "continuously walking" sense)
+  - $匪1 (for walking-related senses)
   ==
 F
   ==
@@ -413,12 +437,12 @@ W
     - The two outside of a team of four horses [[Kangxi: 車有一轅四馬中兩馬夾轅名服馬兩邊名騑馬亦名驂馬]];
     - _(1)f(i/) (1)f(i/)_
         [[fei1 fei1 騑騑]],
-        the ~~regular~~ ``continuous`` march of horses [[Kangxi: 騑騑馬行不止貌]].
+        the regular march of horses [[Kangxi: 騑騑馬行不止貌]].
     ==
   - [[Page~53 (2)匪 _(2)F(i/)_ (fei2); here corrected to _(1)F(i/)_ (fei1) and normalised to 騑]]
     ==
     - [[...]];
-    - ~~regular~~ ``the continuous`` march of horses [[Kangxi 匪: 同騑騑騑馬行不止貌]], beautiful [[Kangxi 匪: 行而有文也]];
+    - regular march of horses [[Kangxi 匪: 同騑騑騑馬行不止貌]], beautiful [[Kangxi 匪: 行而有文也]];
     - [[...]].
     ==
   ====
@@ -482,6 +506,7 @@ S
   ==
   - $匪bei2 (TODO) <## same as 彼 ##>
   - $匪fan1
+  - $匪fei1
   ==
 $$
 
