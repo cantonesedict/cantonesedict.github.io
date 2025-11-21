@@ -1134,6 +1134,7 @@ For all radicals, see [Index of characters by radical](./).
       - {$楮cyu2, $楮cyu5}
       - $棻fan1
       - {$棼fan1, $棼fan4}
+      - $棐fei2
       - {$棧zaan2, $棧zaan6}
       - {$棦zaang1, $棦zang1}
       - {$棷zau1, $棷zau2}
@@ -1165,6 +1166,7 @@ For all radicals, see [Index of characters by radical](./).
       - $槎caa4
       - {$槍caang1, $槍coeng1}
       - $槌ceoi4
+      - $榧fei2
       - $榨zaa3
       - $榭ze6
       - $榛zeon1

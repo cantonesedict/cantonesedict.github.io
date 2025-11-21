@@ -456,6 +456,8 @@ $$
 =={.modern}
 - $匪2
 - $悱2
+- $棐2
+- $榧2
 - $蜚2
 ==
 </nav>
@@ -533,6 +535,86 @@ C
   ==
   - Williams' "Embarrassed": In the (now) archaic sense of "impeded", "obstructed".
   ==
+$$
+
+### ~~棑~~``棐``2 | _(2)F(i/)_ [[fei2]]
+
+$$
+R
+  ⽊ + 8
+U
+  U+68D0
+F
+  ==
+  - (F1.39 棐) ::篤棐[輔]也::
+  ==
+W
+  ====
+  - [[Page~53 ::~~(2)榧~~(2)~~棑~~``棐``::]]
+    ==
+    - [[...]];
+    - a piece of wood tied to a bow at the grasp to ~~strengthen~~ ``straighten`` it [[Kangxi 棐: 輔也, 輔卽弓檠也故从木]];
+    - to assist;
+    - ~~to lean on;~~
+    - _tuk(7) (2)f(i/)_
+        [[duk1 fei2 篤棐]],
+        to help ``in earnest``;
+    - [[...]].
+    ==
+    --
+    [[Otherwise, an alternative form of 榧. **See $榧fei2 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 篚. **See $篚fei2 for the canonical entry.**]] [[TODO]]
+    --
+    --
+    [[Otherwise, an alternative form of 菲 (for the "scant" sense). **See $菲fei2 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed incomplete strokes in 輔.
+  - Williams does not provide separate entries for $榧2 and 棐 (which is misprinted as 棑).
+    Note that 棐 can be used for 榧, but not the other way round.
+    I have split things up accordingly.
+  ==
+$$
+
+### 榧2 | _(2)F(i/)_ [[fei2]]
+
+$$
+R
+  ⽊ + 10
+U
+  U+69A7
+A
+  ==
+  - $棐2
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~53 ::(2)榧(2)~~棑~~``棐``::]]
+    ==
+    - A kind of cabinet wood with lines [[Kangxi 榧: 榧似煔而材光文彩如柏古謂文木通作棐]],
+      suitable to make furniture [[Kangxi 棐: 與榧同木名可爲几]];
+    - [[...]];
+    - _(2)f(i/) (2)tsz'_
+        [[fei2 zi2 榧子]]
+        a long nut resembling the hazel-nut, found in Sh(a/)ntung [[山東]].
+    ==
+  ====
+C
+  ==
+  - Williams does not provide separate entries for 榧 and $棐2 (which is misprinted as 棑).
+    Note that 棐 can be used for 榧, but not the other way round.
+    I have split things up accordingly.
+  ==
+P
+  ++
+  1. The nutmeg yew (Kangxi 榧: 木名子可食療白蟲).
+  ++
 $$
 
 ###+ 蜚2 | _(2)F(i/)_ [[fei2]]
