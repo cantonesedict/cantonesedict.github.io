@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faan
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-11-21
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -1851,7 +1851,7 @@ W
 P
   ++
   1. Reading variation. **See $氾faan3 for the canonical entry.**
-  1. Alternative form of 泛, and reading variation. See $泛faan3.
+  1. Alternative form of 泛, and reading variation. **See $泛faan3 for the canonical entry.**
   ++
 S
   ==

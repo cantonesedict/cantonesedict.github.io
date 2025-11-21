@@ -1824,6 +1824,13 @@ W
         only one sort;
     - [[...]].
     ==
+  - [[Page~152 (4)祇; here normalised to 只 via 祗]]
+    --
+    [[...]]
+    --
+    --
+    Often confounded with and used for _(2)ch(i/)_ [[zi2]] 祗.
+    --
   ====
 C
   ==
@@ -2666,20 +2673,14 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~152 (4)祇]]
-    --
-    [[...]]
-    --
-    --
-    Often confounded with and used for _(2)ch(i/)_ [[zi2]] 祗.
-    --
+  - [[Page~152 (4)祇 _(4)K(')(i/)_ (kei4); _(2)Ch(i/)_ (zi2) implied]]
     --
     [[Alternative form of 只 (for the "only" senses). **See $只zi2 for the canonical entry.**]]
     --
   ====
 C
   ==
-  - Williams' "Often confounded with": See $祗zi2.
+  - This character is easily confused with 祗 (see $祗zi2).
   ==
 S
   ==

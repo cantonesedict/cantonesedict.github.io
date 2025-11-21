@@ -853,6 +853,15 @@ class Utilities:
 
 class CmdIdioms:
     @staticmethod
+    def strip_comments(content: str) -> str:
+        return re.sub(
+            pattern=r'< (?P<hashes> \#+ ) .*? (?P=hashes) >',
+            repl='',
+            string=content,
+            flags=re.DOTALL | re.VERBOSE,
+        )
+
+    @staticmethod
     def parse_entry_items(content: str) -> dict[str, str]:
         return {
             key: content
@@ -2084,6 +2093,7 @@ class CharacterEntry:
         CharacterEntry.lint_williams_ellipsis_item_punctuation(w_content)
         CharacterEntry.lint_williams_romanisation_punctuation(w_content)
         CharacterEntry.lint_character_jyutping_consistency(e_content)
+        CharacterEntry.lint_canonicality(is_canonical, w_content, p_content, e_content, heading_content)
 
         CharacterEntry.lint_cantonese_entry_order(cantonese_entries)
         CmdIdioms.lint_see_also_link_order(see_also_links)
@@ -2279,6 +2289,34 @@ class CharacterEntry:
                         f'inconsistent character count `{character_count}` vs Jyutping count `{jyutping_count}` '
                         f'in `{item_content}`'
                     )
+
+    @staticmethod
+    def lint_canonicality(is_canonical: bool, w_content: str, p_content: Optional[str], e_content: Optional[str],
+                          heading_content: str):
+        stripped_w_content = CmdIdioms.strip_comments(w_content).strip()
+        redirect_phrase = 'for the canonical'
+
+        is_w_canonical = (
+            stripped_w_content != '[[Not present]]' and redirect_phrase not in stripped_w_content
+            or re.search(
+                pattern=r'^ [ ]+ (?: [-][ ] (?! \[\[Page | ~~ .*? ~~$ ) | [A-Z_] )',
+                string=stripped_w_content,
+                flags=re.MULTILINE | re.VERBOSE,
+            )
+        )
+        is_p_canonical = (
+            p_content is not None
+            and (definition_first_lines := re.findall(pattern='^[ ]+1[.].*', string=p_content, flags=re.MULTILINE))
+            and any(redirect_phrase not in line for line in definition_first_lines)
+        )
+        is_e_canonical = e_content is not None
+
+        if is_w_canonical or is_p_canonical or is_e_canonical:
+            if not is_canonical:
+                raise LintException(f'expected `{heading_content}` to be canonical')
+        else:
+            if is_canonical:
+                raise LintException(f'expected `{heading_content}` to be non-canonical')
 
     @staticmethod
     def lint_cantonese_entry_order(cantonese_entries: Optional[list['CantoneseEntry']]):
