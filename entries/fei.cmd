@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fei
-* %date-modified --> 2025-11-20
+* %date-modified --> 2025-11-21
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -415,6 +415,12 @@ W
         [[fei1 fei1 騑騑]],
         the ~~regular~~ ``continuous`` march of horses [[Kangxi: 騑騑馬行不止貌]].
     ==
+  - [[Page~53 (2)匪 _(2)F(i/)_ (fei2); here corrected to _(1)F(i/)_ (fei1) and normalised to 騑]]
+    ==
+    - [[...]];
+    - ~~regular~~ ``the continuous`` march of horses [[Kangxi 匪: 同騑騑騑馬行不止貌]], beautiful [[Kangxi 匪: 行而有文也]];
+    - [[...]].
+    ==
   ====
 $$
 
@@ -424,10 +430,60 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $匪2
 - $蜚2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 匪2 | _(2)F(i/)_ [[fei2]]
+
+$$
+R
+  ⼕ + 8
+U
+  U+532A
+F
+  ==
+  - (F1.39 匪) 非也
+  ==
+W
+  ====
+  - [[Page~53 (2)匪]]
+    ==
+    - A square bamboo box [[Kangxi 匪: 匪如篋, 竹器方曰匪, 器如竹篋今从竹爲筐篚字]];
+    - [[...]];
+    - not right, illegal;
+    - banditti, vagabonds, heretics;
+    - _(2)f(i/) lui(6)_ [[fei2 leoi6 匪類]]
+        or
+      _(2)f(i/) ~~(4)^t(o\)~~ ``(4)t(')(o\)``_ [[fei2 tou4 匪徒]],
+        vagabonds;
+    - _(2)f(i/) (2)tong_
+        [[fei2 dong2 匪黨]],
+        a band of villains;
+    - _(2)f(i/) shik(7)_
+        [[fei2 sik1 匪色]]
+        variegated.
+    ==
+    --
+    Read _(1)fan_ [[fan1]], to distribute [[Kangxi 匪: 匪分也, 匪讀爲分]].
+    --
+  ====
+C
+  ==
+  - Williams' 匪徒: Corrected _(4)^t(o\)_ (dou4) to _(4)t(')(o\)_ (tou4).
+  ==
+P
+  ++
+  1. Not (Kangxi: 一曰非也).
+  ++
+S
+  ==
+  - $匪bei2 (TODO) <## same as 彼 ##>
+  - $匪fan1 (TODO) <## same as 分 ##>
+  ==
+$$
 
 ###+ 蜚2 | _(2)F(i/)_ [[fei2]]
 
