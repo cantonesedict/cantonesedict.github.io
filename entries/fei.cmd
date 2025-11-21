@@ -455,6 +455,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $匪2
+- $悱2
 - $蜚2
 ==
 </nav>
@@ -507,6 +508,30 @@ S
   - $匪bei2 (TODO) <## same as 彼 ##>
   - $匪fan1
   - $匪fei1
+  ==
+$$
+
+### 悱2 | _(2)F(i/)_ [[fei2]]
+
+$$
+R
+  ⼼ + 8
+U
+  U+60B1
+F
+  ==
+  - (F1.39 悱) 口欲言而未能也
+  ==
+W
+  ====
+  - [[Page~53 (2)悱]]
+    ==
+    - Embarrassed, unable to speak out one's ideas [[Kangxi: 口欲言而未能之貌]].
+    ==
+  ====
+C
+  ==
+  - Williams' "Embarrassed": In the (now) archaic sense of "impeded", "obstructed".
   ==
 $$
 
