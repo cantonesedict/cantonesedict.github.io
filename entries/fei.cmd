@@ -459,6 +459,7 @@ $$
 - $斐2
 - $棐2
 - $榧2
+- $篚2
 - $蜚2
 ==
 </nav>
@@ -479,7 +480,6 @@ W
   ====
   - [[Page~53 (2)匪]]
     ==
-    - A square bamboo box [[Kangxi 匪: 匪如篋, 竹器方曰匪, 器如竹篋今从竹爲筐篚字]];
     - [[...]];
     - not right, illegal;
     - banditti, vagabonds, heretics;
@@ -494,6 +494,9 @@ W
         [[fei2 sik1 匪色]]
         variegated.
     ==
+    --
+    [[Otherwise, an alternative form of 篚. **See $篚fei2 for the canonical entry.**]]
+    --
     --
     [[Otherwise, an alternative form of 斐. **See $斐fei2 for the canonical entry.**]]
     --
@@ -605,7 +608,7 @@ W
     [[Otherwise, an alternative form of 榧. **See $榧fei2 for the canonical entry.**]]
     --
     --
-    [[Otherwise, an alternative form of 篚. **See $篚fei2 for the canonical entry.**]] [[TODO]]
+    [[Otherwise, an alternative form of 篚. **See $篚fei2 for the canonical entry.**]]
     --
     --
     [[Otherwise, an alternative form of 菲 (for the "scant" sense). **See $菲fei2 for the canonical entry.**]] [[TODO]]
@@ -655,6 +658,39 @@ P
   ++
   1. The nutmeg yew (Kangxi 榧: 木名子可食療白蟲).
   ++
+$$
+
+### 篚2 | _(2)F(i/)_ [[fei2]]
+
+$$
+R
+  ⽵ + 10
+U
+  U+7BDA
+A
+  ==
+  - $匪2
+  - $棐2
+  ==
+F
+  ==
+  - (F1.39 篚) 筐篚箱屬圓曰篚
+  ==
+W
+  ====
+  - [[Page~53 (2)匪; here normalised to 篚]]
+    ==
+    - A ~~square~~ bamboo box``-like container`` [[Kangxi 匪: 匪如篋, ~~竹器方曰匪,~~ 器如竹篋今从竹爲筐篚字]];
+    - [[...]].
+    ==
+    --
+    [[...]]
+    --
+  - [[Page~53 (2)篚]]
+    ==
+    - A round bamboo basket [[Kangxi 篚: 竹器方曰筐圓曰篚, 通作匪, 亦作棐]].
+    ==
+  ====
 $$
 
 ###+ 蜚2 | _(2)F(i/)_ [[fei2]]
