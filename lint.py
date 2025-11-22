@@ -2096,6 +2096,7 @@ class CharacterEntry:
 
         CharacterEntry.lint_canonicality(is_canonical, w_content, p_content, e_content, heading_content)
         CharacterEntry.lint_additionality(is_added, character_run, williams_run, character, w_content, heading_content)
+        CharacterEntry.lint_fan_wan_same_romanisation(williams_run, f_content, heading_content)
 
         CharacterEntry.lint_cantonese_entry_order(cantonese_entries)
         CmdIdioms.lint_see_also_link_order(see_also_links)
@@ -2373,6 +2374,11 @@ class CharacterEntry:
         else:
             if is_added:
                 raise LintException(f'expected `{heading_content}` to be non-added ')
+
+    @staticmethod
+    def lint_fan_wan_same_romanisation(williams_run: str, f_content: str, heading_content: str):
+        if williams_run in f_content:
+            raise LintException(f'same-romanisation Fan Wan locator under `{heading_content}`')
 
     @staticmethod
     def lint_cantonese_entry_order(cantonese_entries: Optional[list['CantoneseEntry']]):
