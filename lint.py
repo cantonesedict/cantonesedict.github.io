@@ -2335,6 +2335,8 @@ class CharacterEntry:
                 f'character `{character}` not present in at least one locator under `{heading_content}`'
             )
 
+        # TODO: lint against same lone Williams romanisation in both locator and heading
+
         are_locators_all_redirected = all(
             character not in line
             or any(v in line for v in redirect_verbs)
