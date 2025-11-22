@@ -349,7 +349,7 @@ P
   ++
 S
   ==
-  - $非fei2 (TODO) <## alternative form of 誹 ##>
+  - $非fei2
   ==
 $$
 
@@ -497,6 +497,7 @@ $$
 - $菲2
 - $蜚2
 - $誹2
+- $非2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -858,7 +859,7 @@ U
   U+8AB9
 A
   ==
-  - 非
+  - $非2
   ==
 V
   ==
@@ -883,6 +884,27 @@ C
   ==
   - The reading _(2)f(i/)_ (fei2) is not unattested;
     《集韻》 has the readings ::[妃]尾切:: and 府尾切, both explained 謗也.
+  ==
+$$
+
+###+ 非2 | _(2)F(i/)_ [[fei2]]
+
+$$.
+R
+  ⾮ + 0
+U
+  U+975E
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 誹. **See $誹fei2 for the canonical entry.**
+  ++
+S
+  ==
+  - $非fei1
   ==
 $$
 
