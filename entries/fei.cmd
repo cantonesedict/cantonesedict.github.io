@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fei
-* %date-modified --> 2025-11-21
+* %date-modified --> 2025-11-22
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -703,7 +703,7 @@ U
 V
   ==
   - fai3 (alternative per 《正韻牋》芳未切 for "grasshopper" sense)
-  - fai6 (per 《廣韻》扶沸切 for "stinking insect" and "ominous animal" senses)
+  - fai6 (per 《廣韻》扶沸切 for "stinking-insect" and "ominous-animal" senses)
   ==
 F
   [[Not present]]

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fuk
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-22
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -30,7 +30,7 @@ U
 V
   ==
   - fau3 (per 《廣韻》敷救切 for "cover" sense)
-  - fau6 (per 《廣韻》扶富切 for "soldiers lying in wait" sense)
+  - fau6 (per 《廣韻》扶富切 for "soldiers-lying-in-wait" sense)
   ==
 F
   ==
@@ -56,7 +56,7 @@ C
   - 《廣韻》 has four headline readings:
     ++
     1. 敷救切 _fau(3)_ (fau3) for the "cover" sense;
-    2. 扶富切 _fau(6)_ (fau6) for the "soldiers lying in wait" sense;
+    2. 扶富切 _fau(6)_ (fau6) for the "soldiers-lying-in-wait" sense;
     3. 芳福切 _fuk(7)_ (fuk1) for the "overturn" sense; and
     4. 匹北切 _p(')ak(7)_ (pak1) without explanation.
     ++
