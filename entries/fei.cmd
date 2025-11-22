@@ -755,7 +755,6 @@ W
     - sparing, frugal [[Kangxi: 薄也]];
     - uneasy;
     - [[...]];
-    - straw sandals [[Kangxi: 與屝通, 菲草履]];
     - _(2)f(i/) pok(9)_
         [[fei2 bok6 菲薄]]
         poor, valueless;
@@ -770,6 +769,9 @@ W
         grieved [[Kangxi: 菲惄悵也]];
     - [[...]].
     ==
+    --
+    [[Otherwise, an alternative form of 屝, and reading variation. **See $屝fai6 for the canonical entry.**]]
+    --
   ====
 C
   ==

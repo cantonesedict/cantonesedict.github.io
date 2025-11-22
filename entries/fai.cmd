@@ -910,6 +910,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $吠6
+- $屝6
 - $痱6
 - $菲6
 - $費6
@@ -938,6 +939,38 @@ W
         a dog which barks at everybody.
     ==
   ====
+$$
+
+###+ 屝6 | _Fai(6)_ [[fai6]]
+
+$$
+R
+  ⼫ + 8
+U
+  U+5C5D
+A
+  ==
+  - $菲6
+  ==
+V
+  ==
+  - fei2 (per Williams for 菲, common)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~53 (2)菲 _(2)F(i/)_ (fei2); here normalised to 屝 _Fai(6)_ (fai6)]]
+    ==
+    - [[...]];
+    - straw sandals [[Kangxi 菲: 與屝通, 菲草履]];
+    - [[...]].
+    ==
+  ====
+C
+  ==
+  - Or made from hemp, which also is coarser than silk (Kangxi: 屝麤屨也絲作曰履麻作曰屝).
+  ==
 $$
 
 ###+ 痱6 | _Fai(6)_ [[fai6]]
@@ -976,7 +1009,7 @@ W
   [[Not present]]
 P
   ++
-  1. Alternative form of 屝. **See $屝fai6 for the canonical entry.** (TODO)
+  1. Alternative form of 屝. **See $屝fai6 for the canonical entry.**
   1. Reading variation (for the vegetable sense). **See $菲fei2 for the canonical entry.**
   ++
 S
