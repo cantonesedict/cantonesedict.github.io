@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cung
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-11-22
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -729,7 +729,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~608 (1)葱]]
+  - [[Page~608 (1)葱; here normalised to 蔥]]
     ==
     - An onion~~, garlic~~;
     - a general name for alliaceous vegetables [[Kangxi 葱: 菜也 etc.]];
@@ -1568,7 +1568,7 @@ F
   ==
 W
   ====
-  - [[Page~606 (1)淙 _(1)Tsung_ (zung1); here normalised to _(4)Ts(')ung_ (cung4)]]
+  - [[Page~606 (1)琮 _(1)Tsung_ (zung1); here normalised to _(4)Ts(')ung_ (cung4)]]
     ==
     - An ancient badge ~~of princely dignity~~, eight or nine inches wide,
       octagonal, and having a hole in it [[Kangxi: 瑞玉大八寸似車釭, 謂其狀外八角而中圓也]].

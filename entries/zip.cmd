@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zip
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-11-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -299,7 +299,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~578 褶(8)]]
+  - [[Page~578 楫(8)]]
     ==
     - An oar, a paddle, or whatever is used to propel a boat [[Kangxi: 舟櫂也, 行舟具]];
     - to row;

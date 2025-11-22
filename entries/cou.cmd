@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-11-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1177,7 +1177,7 @@ F
   ==
 W
   ====
-  - [[Page~587 (4)艚]]
+  - [[Page~587 (4)螬]]
     ==
     - ~~Maggots~~ ``Scarabs`` in ordure [[Kangxi: 蟦蠐螬, 在糞土中者]];
     - _(4)ts(')ai (4)ts(')(o\)_

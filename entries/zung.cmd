@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zung
-* %date-modified --> 2025-11-17
+* %date-modified --> 2025-11-22
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -531,7 +531,7 @@ F
   ==
 W
   ====
-  - [[Page~606 (1)淙]]
+  - [[Page~606 (1)琮]]
     --
     [[Reading variation. **See $琮cung4 for the canonical entry.**]]
     --

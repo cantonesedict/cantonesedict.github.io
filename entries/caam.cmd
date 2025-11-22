@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-11-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -466,11 +466,11 @@ V
   ==
 F
   ==
-  - (F2.64 杉) 儳越叅雜也
+  - (F2.64 儳) ::儳越[叅雜]也::
   ==
 W
   ====
-  - [[Page~16|n59 懺(3)]]
+  - [[Page~16|n59 儳(3)]]
     ==
     - Irregular, disorderly [[Kangxi: 儳互不齊也]], as undrilled troops [[Kangxi: 師次不整]];
     - ~~unequal,~~ uneven [[Kangxi: 亦不齊也]];
@@ -482,6 +482,7 @@ W
   ====
 C
   ==
+  - Fan Wan entry: Fixed missing strokes in 叅 and 雜.
   - Williams' "Irregular, disorderly, as undrilled troops":
     Kangxi has this sense under 士咸切 _(4)ch(')(a/)m_ (caam4).
     Still, the reading _ch(')(a/)m(3)_ (caam3) for "disorderly" is not unattested;

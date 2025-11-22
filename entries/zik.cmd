@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-11-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -987,7 +987,7 @@ F
   ==
 W
   ====
-  - [[Page~569 瘠(8)]]
+  - [[Page~569 蹐(8)]]
     --
     [[Reading variation. **See $蹐zek3 for the canonical entry.**]]
     --

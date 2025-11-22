@@ -2093,7 +2093,9 @@ class CharacterEntry:
         CharacterEntry.lint_williams_ellipsis_item_punctuation(w_content)
         CharacterEntry.lint_williams_romanisation_punctuation(w_content)
         CharacterEntry.lint_character_jyutping_consistency(e_content)
+
         CharacterEntry.lint_canonicality(is_canonical, w_content, p_content, e_content, heading_content)
+        CharacterEntry.lint_additionality(is_added, character_run, williams_run, character, w_content, heading_content)
 
         CharacterEntry.lint_cantonese_entry_order(cantonese_entries)
         CmdIdioms.lint_see_also_link_order(see_also_links)
@@ -2317,6 +2319,41 @@ class CharacterEntry:
         else:
             if is_canonical:
                 raise LintException(f'expected `{heading_content}` to be non-canonical')
+
+    @staticmethod
+    def lint_additionality(is_added: bool, character_run: str, williams_run: str, character: str, w_content: str,
+                           heading_content: str):
+        redirect_verbs = ['corrected', 'normalised', 'exemplified']
+        locator_lines = re.findall(
+            pattern=r'^ [ ]+ [-][ ] \[\[ Page~\S+ [ ] .*? \]\] $',
+            string=w_content,
+            flags=re.MULTILINE | re.VERBOSE,
+        )
+
+        are_locators_all_redirected = all(
+            character not in line
+            or any(v in line for v in redirect_verbs)
+            or (
+                line.count('_') == 2
+                and all(w not in line for w in williams_run.split())
+            )
+            for line in locator_lines
+        )
+        is_heading_edited = any(
+            '``' in run
+            for run in [character_run, williams_run]
+        )
+        is_alternative_given = any(
+            f'read {williams}' in w_content.lower()
+            for williams in williams_run.lower().split()
+        )
+
+        if are_locators_all_redirected and not is_heading_edited:
+            if not (is_added or is_alternative_given):
+                raise LintException(f'expected `{heading_content}` to be added ')
+        else:
+            if is_added:
+                raise LintException(f'expected `{heading_content}` to be non-added ')
 
     @staticmethod
     def lint_cantonese_entry_order(cantonese_entries: Optional[list['CantoneseEntry']]):

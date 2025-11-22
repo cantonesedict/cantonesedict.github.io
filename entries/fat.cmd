@@ -503,7 +503,7 @@ F
   ==
 W
   ====
-  - [[Page~50 笏(7)]]
+  - [[Page~50 窟(7)]]
     ==
     - A hole in the ground [[Kangxi: 窟室也孔穴也]];
     - a stable or sty dug out of the earth;

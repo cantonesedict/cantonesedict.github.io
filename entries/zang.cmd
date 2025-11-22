@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2025-11-06
+* %date-modified --> 2025-11-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -690,7 +690,7 @@ S
   ==
 $$
 
-###+ 爭3 | _Chang(3)_ [[zang3]]
+### 爭3 | _Chang(3)_ [[zang3]]
 
 $$.
 R

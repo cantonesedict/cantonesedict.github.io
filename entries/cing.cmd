@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-11-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1260,11 +1260,11 @@ H
   depending on the font.
 F
   ==
-  - (F1.71 情) 雲收雨止而日出也
+  - (F1.71 晴) 雲收雨止而日出也
   ==
 W
   ====
-  - [[Page~578 (4)情]]
+  - [[Page~578 (4)晴]]
     ==
     - The sky clearing up after rain [[Kangxi: 雨止也晴明也無雲也]], the clear blue sky;
     - the stars coming out [[Kangxi: 夝雨而夜除星見也, 今俗作晴非]];
