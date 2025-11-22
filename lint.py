@@ -2089,7 +2089,7 @@ class CharacterEntry:
         see_also_links = CharacterEntry.extract_see_also_links(content_from_key.get('S'))
 
         CharacterEntry.lint_character_against_unicode_code_point(character, unicode_code_point)
-        CharacterEntry.lint_williams_locator(w_content)
+        CharacterEntry.lint_williams_locator_tone(w_content)
         CharacterEntry.lint_williams_ellipsis_item_punctuation(w_content)
         CharacterEntry.lint_williams_romanisation_punctuation(w_content)
         CharacterEntry.lint_character_jyutping_consistency(e_content)
@@ -2187,7 +2187,7 @@ class CharacterEntry:
             raise LintException(f'character `{character}` is not `{unicode_code_point}`')
 
     @staticmethod
-    def lint_williams_locator(content: str):
+    def lint_williams_locator_tone(content: str):
         for match in re.finditer(
             pattern=r'^ [ ]+ [-][ ] \[\[ Page~\S+ [ ] (?P<headword_run> .*? ) \]\] $',
             string=content,
