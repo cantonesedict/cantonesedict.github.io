@@ -496,6 +496,7 @@ $$
 - $篚2
 - $菲2
 - $蜚2
+- $誹2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -845,6 +846,43 @@ P
 S
   ==
   - $蜚fei1
+  ==
+$$
+
+### 誹2 | _(2)F(i/)_ [[fei2]]
+
+$$
+R
+  ⾔ + 8
+U
+  U+8AB9
+A
+  ==
+  - 非
+  ==
+V
+  ==
+  - fei1 (per 《廣韻》甫微切)
+  - fai3 (per 《廣韻》方味切)
+  ==
+F
+  ==
+  - (F1.39 誹) 誹謗
+  ==
+W
+  ====
+  - [[Page~53 (2)誹]]
+    ==
+    - To backbite, to speak against [[Kangxi: 謗也, {𧨚=⿰訁圼}也, 或省作非]];
+    - _(2)f(i/) p(')ong(3)_
+        [[fei2 pong3 誹謗]]
+        to slander.
+    ==
+  ====
+C
+  ==
+  - The reading _(2)f(i/)_ (fei2) is not unattested;
+    《集韻》 has the readings ::[妃]尾切:: and 府尾切, both explained 謗也.
   ==
 $$
 
