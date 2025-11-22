@@ -460,6 +460,7 @@ $$
 - $棐2
 - $榧2
 - $篚2
+- $菲2
 - $蜚2
 ==
 </nav>
@@ -611,7 +612,7 @@ W
     [[Otherwise, an alternative form of 篚. **See $篚fei2 for the canonical entry.**]]
     --
     --
-    [[Otherwise, an alternative form of 菲 (for the "scant" sense). **See $菲fei2 for the canonical entry.**]] [[TODO]]
+    [[Otherwise, an alternative form of 菲 (for the "scant" sense). **See $菲fei2 for the canonical entry.**]]
     --
   ====
 C
@@ -691,6 +692,68 @@ W
     - A round bamboo basket [[Kangxi 篚: 竹器方曰筐圓曰篚, 通作匪, 亦作棐]].
     ==
   ====
+$$
+
+### 菲2 | _(2)F(i/)_ [[fei2]]
+
+$$
+R
+  ⾋ + 8
+U
+  U+83F2
+A
+  ==
+  - $棐2 (for "scant" sense)
+  ==
+V
+  ==
+  - fai6 (alternative per 《集韻》父沸切 for plant sense)
+  ==
+F
+  ==
+  - (F1.39 菲) ::[薄]也::
+  ==
+W
+  ====
+  - [[Page~53 (2)菲]]
+    ==
+    - A red marshy plant [[Kangxi: 菜名, 芴也, 菲草生下濕地似蕪菁華紫赤色可食]];
+    - pot-herbs, greens;
+    - sparing, frugal [[Kangxi: 薄也]];
+    - uneasy;
+    - fragrant [[Kangxi: 菲菲香也]], ~~beautiful~~ ``luxuriant`` [[Kangxi: 草茂貌, 芳菲也]];
+    - straw sandals [[Kangxi: 與屝通, 菲草履]];
+    - _(2)f(i/) pok(9)_
+        [[fei2 bok6 菲薄]]
+        poor, valueless;
+    - _(2)f(i/) (4)(i/)_
+        [[fei2 ji4 菲儀]],
+        trifling, little of;
+    - _(2)f(i/) mat(9)_
+        [[fei2 mat6 菲物]]
+        of no moment---said of presents;
+    - _(2)f(i/) ~~nik(7)~~ ``nik(9)``_
+        [[fei2 nik6 菲惄]]
+        grieved [[Kangxi: 菲惄悵也]];
+    - _(1)fong ~~(2)f(i/)~~ ``(1)f(i/)``_
+        [[fong1 fei1 芳菲]]^
+        grassy.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed incomplete strokes in 薄.
+  - Williams' 菲惄: Normalised _nik(7)_ (nik1) to _nik(9)_ (nik6).
+  ==
+P
+  ++
+  1. Assorted (Kangxi: 雜也).
+  ++
+S
+  ==
+  - $菲fai6 (TODO) <## 與屝通 ##>
+  - $菲fei1 (TODO)
+  ==
 $$
 
 ###+ 蜚2 | _(2)F(i/)_ [[fei2]]
