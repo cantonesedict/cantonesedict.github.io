@@ -210,7 +210,7 @@ P
   ++
 S
   ==
-  - $菲fai6 (TODO) <## 與屝通 ##>
+  - $菲fai6
   - $菲fei2
   ==
 $$
@@ -740,7 +740,7 @@ A
   ==
 V
   ==
-  - fai6 (alternative per 《集韻》父沸切 for plant sense)
+  - fai6 (alternative per 《集韻》父沸切 for vegetable sense)
   ==
 F
   ==
@@ -778,7 +778,7 @@ C
   ==
 S
   ==
-  - $菲fai6 (TODO) <## 與屝通 ##>
+  - $菲fai6
   - $菲fei1
   ==
 $$

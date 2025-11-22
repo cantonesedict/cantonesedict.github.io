@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fai
-* %date-modified --> 2025-11-04
+* %date-modified --> 2025-11-22
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -911,6 +911,7 @@ $$
 =={.modern}
 - $吠6
 - $痱6
+- $菲6
 - $費6
 ==
 </nav>
@@ -959,6 +960,29 @@ S
   - $痱fai2
   - $痱fai3
   - $痱fei4 (TODO)
+  ==
+$$
+
+###+ 菲6 | _Fai(6)_ [[fai6]]
+
+$$.
+R
+  ⾋ + 8
+U
+  U+83F2
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 屝. **See $屝fai6 for the canonical entry.** (TODO)
+  1. Reading variation (for the vegetable sense). **See $菲fei2 for the canonical entry.**
+  ++
+S
+  ==
+  - $菲fei1
+  - $菲fei2
   ==
 $$
 
