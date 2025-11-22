@@ -53,6 +53,7 @@ $$
 - $妃1
 - $扉1
 - $緋1
+- $菲1
 - $蜚1
 - $裶1
 - $霏1
@@ -179,6 +180,38 @@ W
 C
   ==
   - Fan Wan entry: Corrected 終 to 絳.
+  ==
+$$
+
+###+ 菲1 | _(1)F(i/)_ [[fei1]]
+
+$$
+R
+  ⾋ + 8
+U
+  U+83F2
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~53 (2)菲 _(2)F(i/)_ (fei2); here corrected to _(1)F(i/)_ (fei1)]]
+    ==
+    - [[...]];
+    - fragrant [[Kangxi: 菲菲香也]], ~~beautiful~~ ``luxuriant`` [[Kangxi: 草茂貌, 芳菲也]];
+    - [[...]];
+    - _(1)fong ~~(2)f(i/)~~ ``(1)f(i/)``_
+        [[fong1 fei1 芳菲]]^
+        grassy.
+    ==
+  ====
+P
+  ++
+  1. Mixed, assorted (Kangxi: 雜也).
+  ++
+S
+  ==
+  - $菲fai6 (TODO) <## 與屝通 ##>
+  - $菲fei2
   ==
 $$
 
@@ -721,7 +754,7 @@ W
     - pot-herbs, greens;
     - sparing, frugal [[Kangxi: 薄也]];
     - uneasy;
-    - fragrant [[Kangxi: 菲菲香也]], ~~beautiful~~ ``luxuriant`` [[Kangxi: 草茂貌, 芳菲也]];
+    - [[...]];
     - straw sandals [[Kangxi: 與屝通, 菲草履]];
     - _(2)f(i/) pok(9)_
         [[fei2 bok6 菲薄]]
@@ -735,9 +768,7 @@ W
     - _(2)f(i/) ~~nik(7)~~ ``nik(9)``_
         [[fei2 nik6 菲惄]]
         grieved [[Kangxi: 菲惄悵也]];
-    - _(1)fong ~~(2)f(i/)~~ ``(1)f(i/)``_
-        [[fong1 fei1 芳菲]]^
-        grassy.
+    - [[...]].
     ==
   ====
 C
@@ -745,14 +776,10 @@ C
   - Fan Wan entry: Fixed incomplete strokes in 薄.
   - Williams' 菲惄: Normalised _nik(7)_ (nik1) to _nik(9)_ (nik6).
   ==
-P
-  ++
-  1. Assorted (Kangxi: 雜也).
-  ++
 S
   ==
   - $菲fai6 (TODO) <## 與屝通 ##>
-  - $菲fei1 (TODO)
+  - $菲fei1
   ==
 $$
 
