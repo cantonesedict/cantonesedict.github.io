@@ -191,7 +191,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~3 阨(7) _(A/)k(7)_ (aak1)]]
+  - [[Page~3 阨(7) ^_(A/)k(7)_ (aak1)]]
     --
     [[Alternative form of 呃. **See $呃aak1 for the canonical entry.**]]
     --

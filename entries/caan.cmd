@@ -525,7 +525,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~573 (1)戔 used for _(4)Ts(')(a/)n_ (caan4)]]
+  - [[Page~573 (1)戔 used for ^_(4)Ts(')(a/)n_ (caan4)]]
     --
     [[Alternative form of 殘. **See $殘caan4 for the canonical entry.**]]
     --
@@ -598,7 +598,7 @@ W
         [[caan4 jan2 殘忍]],
         cruel, unfeeling.
     ==
-  - [[Page~573 (1)戔 used for _(4)Ts(')(a/)n_ (caan4)]]
+  - [[Page~573 (1)戔 used for ^_(4)Ts(')(a/)n_ (caan4)]]
     --
     Used for _(4)ts(')(a/)n_ [[caan4]] 殘 cruel [[Kangxi 戔: 通作殘]].
     --

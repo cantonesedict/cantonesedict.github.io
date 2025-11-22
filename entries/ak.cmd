@@ -287,7 +287,7 @@ W
     - impeded, stopped up;
     - [[...]].
     ==
-  - [[Page~3 阨(7) _Ak(7)_ (ak1)]]
+  - [[Page~3 阨(7) ^_Ak(7)_ (ak1)]]
     ==
     - An obstruction [[Kangxi: 限也]], a stop [[Kangxi: 塞也]];
     - [[...]];

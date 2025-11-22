@@ -255,7 +255,7 @@ W
         [[aat3 dung1 押冬]],
         kept over winter; left over the season, as teas.
     ==
-  - [[Page~5 押(8) _(A/)t(8)_ (aat3)]]
+  - [[Page~5 押(8) ^_(A/)t(8)_ (aat3)]]
     ==
     - To pawn for a time;
     - to reserve, to keep back;

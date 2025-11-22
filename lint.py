@@ -2335,7 +2335,19 @@ class CharacterEntry:
                 f'character `{character}` not present in at least one locator under `{heading_content}`'
             )
 
-        # TODO: lint against same lone Williams romanisation in both locator and heading
+        if any(
+            same_romanisation_locator_line := line
+            for line in locator_lines
+            if (
+                line.count('_') == 2
+                and williams_run in line
+                and not f'^{williams_run}' in line
+            )
+        ):
+            raise LintException(
+                f'same-romanisation locator `{same_romanisation_locator_line.strip()}` under `{heading_content}` '
+                f'(suppress wth caret before opening underscore if legitimate (e.g. for disambiguation))'
+            )
 
         are_locators_all_redirected = all(
             character not in line
