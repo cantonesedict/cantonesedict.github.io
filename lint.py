@@ -2330,6 +2330,11 @@ class CharacterEntry:
             flags=re.MULTILINE | re.VERBOSE,
         )
 
+        if w_content.strip() != '[[Not present]]' and character not in '\n'.join(locator_lines):
+            raise LintException(
+                f'character `{character}` not present in at least one locator under `{heading_content}`'
+            )
+
         are_locators_all_redirected = all(
             character not in line
             or any(v in line for v in redirect_verbs)
