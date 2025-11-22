@@ -971,6 +971,10 @@ C
   ==
   - Or made from hemp, which also is coarser than silk (Kangxi: 屝麤屨也絲作曰履麻作曰屝).
   ==
+S
+  ==
+  - $屝fei2
+  ==
 $$
 
 ###+ 痱6 | _Fai(6)_ [[fai6]]

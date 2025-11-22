@@ -488,6 +488,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $匪2
+- $屝2
 - $悱2
 - $斐2
 - $棐2
@@ -551,6 +552,27 @@ S
   - $匪bei2 (TODO) <## same as 彼 ##>
   - $匪fan1
   - $匪fei1
+  ==
+$$
+
+###+ 屝2 | _(2)F(i/)_ [[fei2]]
+
+$$.
+R
+  ⼫ + 8
+U
+  U+5C5D
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $屝fai6 for the canonical entry.**
+  ++
+S
+  ==
+  - $屝fai6
   ==
 $$
 
