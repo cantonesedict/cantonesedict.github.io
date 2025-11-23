@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -615,6 +615,10 @@ C
   - Williams' "good": Kangxi has 又《廣韻》好也, but it is unclear
     whether 好 is rising-tone "good" or departing-tone "fond".
   ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 S
   ==
   - $齊zaai1
