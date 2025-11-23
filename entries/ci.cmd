@@ -2319,6 +2319,10 @@ C
     to literary reading _(4)shing_ (sing4).
   - Williams' 酒池肉林: Originally used to describe the excesses of 紂王.
   ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 $$
 
 ###+ 治4 | _(4)Ch(')(i/)_ [[ci4]]
