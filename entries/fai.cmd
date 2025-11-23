@@ -532,7 +532,7 @@ W
   [[Not present]]
 P
   ++
-  1. Reading variation. **See $疿fai3 for the canonical entry.**
+  1. Reading variation (vernacular rising-tone noun). **See $疿fai3 for the canonical entry.**
   ++
 S
   ==
@@ -553,7 +553,7 @@ W
   [[Not present]]
 P
   ++
-  1. Alternative form of 疿, and reading variation. **See $疿fai3 for the canonical entry.**
+  1. Alternative form of 疿, and reading variation (vernacular rising-tone noun). **See $疿fai3 for the canonical entry.**
   ++
 S
   ==
