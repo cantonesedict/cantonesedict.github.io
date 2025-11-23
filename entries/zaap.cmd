@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaap
-* %date-modified --> 2025-11-03
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -700,7 +700,7 @@ A
   ==
 V
   ==
-  - zaap6-2 (in 打雜)
+  - zaap6-2 (in 打雜, and rising second in vernacular 雜雜地)
   ==
 F
   ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cung
-* %date-modified --> 2025-11-22
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -1733,6 +1733,10 @@ R
   ⾥ + 2
 U
   U+91CD
+V
+  ==
+  - cung5-2 (rising second in vernacular 重重地)
+  ==
 F
   [[Not present]]
 W

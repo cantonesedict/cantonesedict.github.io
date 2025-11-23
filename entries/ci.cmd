@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2025-11-21
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2830,6 +2830,10 @@ R
   ⾡ + 12
 U
   U+9072
+V
+  ==
+  - ci4-2 (rising second in vernacular 遲遲地)
+  ==
 F
   ==
   - (F1.38 遲) 緩也又迎也又陵遲

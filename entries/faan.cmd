@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faan
-* %date-modified --> 2025-11-21
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -1333,6 +1333,10 @@ R
   ⾴ + 4
 U
   U+7169
+V
+  ==
+  - faan4-2 (rising second in vernacular 煩煩地)
+  ==
 F
   ==
   - (F2.68 煩) 勞也擾也

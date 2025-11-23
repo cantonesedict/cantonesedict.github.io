@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2025-11-21
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -584,6 +584,10 @@ A
   ==
   - $沈4
   - $湛4
+  ==
+V
+  ==
+  - cam4-2 (rising second in vernacular 沉沉地)
   ==
 F
   ==

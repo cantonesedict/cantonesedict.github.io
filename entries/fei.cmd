@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fei
-* %date-modified --> 2025-11-22
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -962,6 +962,10 @@ R
   ⾁ + 4
 U
   U+80A5
+V
+  ==
+  - fei4-2 (in 阿肥, and rising second in vernacular 肥肥地)
+  ==
 F
   ==
   - (F1.39 肥) ::不[瘦]也[潤]也::
@@ -979,7 +983,7 @@ W
         corpulent;
     - _(4)f(i/) (2)l(o\)_ [[fei4 lou2 肥佬]]^
         or
-      _(a/)(3) (4)f(i/)_ [[aa3 fei4 阿肥]],
+      _(a/)(3) (4)f(i/)_ [[aa3 fei4-2 阿肥]],
         a fat man;
     - _(4)f(i/) yun(6)_
         [[fei4 jeon6 肥潤]]
