@@ -1335,6 +1335,10 @@ C
   - Williams' "affection for": Whilst the phrase 席寵 exists,
     the meaning of 席 therein is still "depend" or "rely".
   ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 S
   ==
   - $席zek6
