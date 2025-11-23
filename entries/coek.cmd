@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coek
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -127,6 +127,10 @@ W
         meritorious, said of officers at the quinqennial trial.
     ==
   ====
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 $$
 
 ### 戳3 | _Ch(')(e/)uk(8)_ [[coek3]]
