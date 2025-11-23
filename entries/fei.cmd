@@ -1083,6 +1083,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $屝6
+- $狒6
 - $菲6
 ==
 </nav>
@@ -1123,6 +1124,37 @@ S
   ==
   - $屝fai6
   - $屝fei2
+  ==
+$$
+
+### 狒6 | _F(i/)(6)_ [[fei6]]
+
+$$
+R
+  ⽝ + 5
+U
+  U+72D2
+V
+  ==
+  - fai3 (common)
+  - fai6 (alternative)
+  - fat1 (common)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~53 狒(6)]]
+    ==
+    - An animal of the monkey tribe, large and monstrous [[Kangxi: 狒狒如人被髮迅走食人, 梟羊也 etc.]];
+    - _f(i/)(6) f(i/)(6)_
+        [[fei6 fei6 狒狒]]
+        the orang-outang or chimpanzee.
+    ==
+  ====
+C
+  ==
+  - Williams' 狒狒: Now refers to the baboon.
   ==
 $$
 
