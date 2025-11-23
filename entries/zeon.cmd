@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1200,6 +1200,7 @@ W
 P
   ++
   1. To rise, to promote.
+  1. A surname (Kangxi: 姓).
   ++
 $$
 
