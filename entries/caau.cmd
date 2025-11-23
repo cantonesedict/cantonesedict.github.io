@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caau
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -503,6 +503,7 @@ C
 P
   ++
   1. A large free-reed instrument (Kangxi: 樂器, 大笙謂之巢).
+  1. A surname (Kangxi: 姓).
   ++
 E
   ====
