@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2025-11-21
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -512,6 +512,10 @@ C
   - Fan Wan entry: Corrected 千 to 干.
   - Williams' 支更: Corrected _(1)kang_ (gang1) to _(1)k(a/)ng_ (gaang1).
   ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 $$
 
 ### 枝1 | _(1)Ch(i/)_ [[zi1]]
