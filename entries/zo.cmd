@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zo
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -252,6 +252,10 @@ C
     The idea here is that Chinese is (classically) written right to left,
     so text that comes afterward will be on the left.
   ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 S
   ==
   - $左zo3
