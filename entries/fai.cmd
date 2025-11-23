@@ -959,6 +959,7 @@ A
 V
   ==
   - fei2 (per Williams for 菲, common)
+  - fei6 (alternative)
   ==
 F
   [[Not present]]
@@ -978,6 +979,7 @@ C
 S
   ==
   - $屝fei2
+  - $屝fei6
   ==
 $$
 

@@ -24,6 +24,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [fei1](#1)
 - [fei2](#2)
 - [fei4](#4)
+- [fei6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -575,6 +576,7 @@ P
 S
   ==
   - $屝fai6
+  - $屝fei6
   ==
 $$
 
@@ -1068,5 +1070,38 @@ C
   - Fan Wan entry: Fixed missing stroke in 詩.
     The incomprehensible character looks like an incomplete 備;
     context suggests that this should be 避.
+  ==
+$$
+
+
+##{#6 .williams} F(i/)(6) [[fei6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $屝6
+==
+</nav>
+<## /tone-6-characters ##>
+
+###+ 屝6 | _F(i/)(6)_ [[fei6]]
+
+$$.
+R
+  ⼫ + 8
+U
+  U+5C5D
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $屝fai6 for the canonical entry.**
+  ++
+S
+  ==
+  - $屝fai6
+  - $屝fei2
   ==
 $$
