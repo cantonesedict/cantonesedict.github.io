@@ -1304,6 +1304,7 @@ C
 P
   ++
   1. To pursue, to partake in.
+  1. A surname (Kangxi: 姓).
   ++
 S
   ==
