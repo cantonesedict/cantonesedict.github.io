@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -421,6 +421,10 @@ W
     [[Otherwise, an alternative form of 膲. **See $膲ziu1 for the canonical entry.**]]
     --
   ====
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 E
   ====
   - 【焦】 (zeu1, ziu1):
