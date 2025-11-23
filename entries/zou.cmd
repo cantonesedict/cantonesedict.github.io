@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zou
-* %date-modified --> 2025-11-07
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -436,6 +436,7 @@ W
 P
   ++
   1. To give a farewell feast.
+  1. A surname (Kangxi: 姓).
   ++
 $$
 
