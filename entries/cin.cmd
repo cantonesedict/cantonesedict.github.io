@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cin
-* %date-modified --> 2025-11-20
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -788,6 +788,10 @@ C
   - Williams' 幾錢重: Corrected _chung(6)_ (zung6 去聲^) to _(5)ch(')ung_ (cung5 上聲^).
   - Williams' 錢板咁厚: Changed _hau(6)_ (hau6) to common reading _(5)hau_ (hau5).
   ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 E
   ====
   - 【錢銀】 (cin4-2 ngan4-2):
