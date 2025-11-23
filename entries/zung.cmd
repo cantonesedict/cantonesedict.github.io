@@ -2017,6 +2017,11 @@ W
     [[Otherwise, an alternative form of 重 (for the Cantonese "still" and "and also" senses). **See $重zung6 for the canonical entry.**]]
     --
   ====
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  1. Used in 仲孫 (a compound surname) (Kangxi: 仲孫複姓).
+  ++
 $$
 
 ### 從6 | _Tsung(6)_ [[zung6]]
