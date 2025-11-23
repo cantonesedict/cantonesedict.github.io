@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ciu
-* %date-modified --> 2025-11-21
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -949,6 +949,10 @@ C
   - Fan Wan entry: Normalised headword ⿱誰灬 to 譙.
   - Williams' 譙車: Corrected _(4)^tsi(u/)_ (ziu4) to _(4)ts(')i(u/)_ (ciu4).
   ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 S
   ==
   - $譙ciu3
