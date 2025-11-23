@@ -991,7 +991,7 @@ C
   - Williams' "A measure equal to 4~_tau_":
     This is a misreading of Kangxi 六斛四斗曰鍾,
     which puts the measure at 64~_tau_, not 4~_tau_.
-  - Williams' "to repeat, heavy": These are renderings of Kangxi 鍾重也.
+  - Williams' "to repeat", "heavy": These are renderings of Kangxi 鍾重也.
     It is unclear whether 重 here is level-tone _(4)ch(')ung_ (cung4) "repeated"
     or rising-tone _(5)ch(')ung_ (cung5) "heavy",
     though the latter is slightly more likely due to what follows (染色欲其深重).
