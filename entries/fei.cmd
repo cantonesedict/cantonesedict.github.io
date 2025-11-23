@@ -496,6 +496,7 @@ $$
 - $棐2
 - $榧2
 - $篚2
+- $翡2
 - $菲2
 - $蜚2
 - $誹2
@@ -752,6 +753,38 @@ W
     - A round bamboo basket [[Kangxi 篚: 竹器方曰筐圓曰篚, 通作匪, 亦作棐]].
     ==
   ====
+$$
+
+###+ 翡2 | _(2)F(i/)_ [[fei2]]
+
+$$
+R
+  ⽻ + 8
+U
+  U+7FE1
+V
+  ==
+  - fai6 (per 《廣韻》扶沸切)
+  - fei6 (per 《廣韻》扶沸切)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~53 翡(6) _F(i/)(6)_ (fei6); here normalised to _(2)F(i/)_ (fei2)]]
+    ==
+    - A kingfisher, with beautiful plumage [[Kangxi: 赤羽雀也出鬱林, 鳥似翠而赤]];
+    - the cock is called _~~f(i/)(6)~~ ``(2)f(i/)``_ [[fei2 翡]]^,
+      the hen _ts(')ui(3)_ [[ceoi3 翠]] [[Kangxi: 翠鳥形如燕赤而雄曰翡靑而雌曰翠]];
+    - _~~f(i/)(6)~~ ``(2)f(i/)`` ts(')ui(3) yuk(9)_
+        [[fei2 ceoi3 juk6 翡翠玉]]
+        ~~chrysoprase~~ ``jadeite``.
+    ==
+  ====
+S
+  ==
+  - $翡fei6
+  ==
 $$
 
 ### 菲2 | _(2)F(i/)_ [[fei2]]
@@ -1084,6 +1117,7 @@ $$
 =={.modern}
 - $屝6
 - $狒6
+- $翡6
 - $菲6
 ==
 </nav>
@@ -1160,6 +1194,28 @@ S
   ==
   - $狒fai3
   - $狒fai6
+  ==
+$$
+
+### 翡6 | _F(i/)(6)_ [[fei6]]
+
+$$.
+R
+  ⽻ + 8
+U
+  U+7FE1
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~53 翡(6)]]
+    --
+    [[Reading variation. **See $翡fei2 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $翡fei2
   ==
 $$
 
