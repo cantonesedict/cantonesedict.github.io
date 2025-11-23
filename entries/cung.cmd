@@ -130,6 +130,7 @@ C
 P
   ++
   1. To feign.
+  1. A surname (Kangxi: 姓).
   ++
 $$
 
