@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faat
-* %date-modified --> 2025-11-10
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -134,6 +134,7 @@ P
   1. A method.
   1. Religious, supernatural, or sorcerous practices.
   1. A divisor.
+  1. A surname (Kangxi: 姓).
   ++
 $$
 
