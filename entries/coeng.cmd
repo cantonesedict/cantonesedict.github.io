@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2025-11-22
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -339,6 +339,10 @@ W
         splendid, gay.
     ==
   ====
+P
+  ++
+  1. A surname.
+  ++
 $$
 
 ### 槍1 | _(1)Ts(')(e/)ung_ [[coeng1]]
