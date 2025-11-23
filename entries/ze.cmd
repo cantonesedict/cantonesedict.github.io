@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ze
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -954,4 +954,14 @@ P
   1. To ask.
   1. A surname (Kangxi: 姓).
   ++
+E
+  --
+  Cantonese prefers 多謝 over 謝謝.
+  --
+  --
+  Note that 多謝 should only be used to express gratitude for gifts or patronage.
+  To express gratitude for small/menial favours,
+  or for goods/services that the speaker is paying for,
+  唔該 (TODO) should instead be used. <## m4 goi1 ##>
+  --
 $$
