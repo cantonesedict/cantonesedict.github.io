@@ -915,6 +915,7 @@ $$
 =={.modern}
 - $吠6
 - $屝6
+- $狒6
 - $痱6
 - $菲6
 - $費6
@@ -964,6 +965,27 @@ S
   ==
   - $屝fei2
   - $屝fei6
+  ==
+$$
+
+###+ 狒6 | _Fai(6)_ [[fai6]]
+
+$$.
+R
+  ⽝ + 5
+U
+  U+72D2
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $狒fei6 for the canonical entry.**
+  ++
+S
+  ==
+  - $狒fei6
   ==
 $$
 

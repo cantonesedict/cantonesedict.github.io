@@ -2127,7 +2127,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $狒fei6
+      - {$狒fai6, $狒fei6}
       ==
       </nav>
   //

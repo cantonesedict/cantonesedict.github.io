@@ -1156,6 +1156,10 @@ C
   ==
   - Williams' 狒狒: Now refers to the baboon.
   ==
+S
+  ==
+  - $狒fai6
+  ==
 $$
 
 ###+ 菲6 | _F(i/)(6)_ [[fei6]]
