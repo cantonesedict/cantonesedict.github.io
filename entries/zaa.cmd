@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -55,6 +55,7 @@ $$
 - $揸1
 - $撾1
 - $㪥1
+- $查1
 - $樝1
 - $渣1
 - $皻1
@@ -319,6 +320,27 @@ W
     - [[...]].
     ==
   ====
+$$
+
+###+ 查1 | _(1)Ch(a/)_ [[zaa1]]
+
+$$
+R
+  ⽊ + 5
+U
+  U+67E5
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. A surname.
+  ++
+S
+  ==
+  - $查caa4
+  ==
 $$
 
 ### 樝1 | _(1)Ch(a/)_ [[zaa1]]

@@ -1090,7 +1090,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $查caa4
+      - {$查caa4, $查zaa1}
       - $柴caai4
       - $柵caak3
       - $栅caak3
