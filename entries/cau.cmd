@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2025-11-20
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -566,6 +566,10 @@ C
   ==
   - Fan Wan entry: Corrected 土 to 上.
   ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 $$
 
 ### 篘1 | _(1)Ch(')au_ [[cau1]]
