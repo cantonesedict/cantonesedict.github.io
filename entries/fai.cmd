@@ -559,7 +559,7 @@ S
   ==
   - $痱fai3
   - $痱fai6
-  - $痱fei4 (TODO)
+  - $痱fei4
   ==
 $$
 
@@ -735,6 +735,7 @@ C
   - Of the two characters, 疿 is the older, as attested in 《黃帝素問》汗出見濕乃生痤疿.
   - Whilst it is 痱 that appears in 《說文》, it is for the different sense
     of "stroke/paralysis", to be read 符非切 _(4)f(i/)_ (fei4).
+    See $痱fei4.
   - Williams' "small boils": Corrected the following semicolon to a comma.
     There is only one sense to be defined here
     (i.e. the pimples and small boils are also from heat, not standalone).
@@ -771,7 +772,7 @@ S
   ==
   - $痱fai2
   - $痱fai6
-  - $痱fei4 (TODO)
+  - $痱fei4
   ==
 $$
 
@@ -1032,7 +1033,7 @@ S
   ==
   - $痱fai2
   - $痱fai3
-  - $痱fei4 (TODO)
+  - $痱fei4
   ==
 $$
 

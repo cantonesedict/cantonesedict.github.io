@@ -953,6 +953,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $淝4
+- $痱4
 - $肥4
 - $腓4
 ==
@@ -990,6 +991,29 @@ C
 S
   ==
   - $淝fe4
+  ==
+$$
+
+###+ 痱4 | _(4)F(i/)_ [[fei4]]
+
+$$
+R
+  ⽧ + 8
+U
+  U+75F1
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Stroke or paralysis (Kangxi: 風病也).
+  ++
+S
+  ==
+  - $痱fai2
+  - $痱fai3
+  - $痱fai6
   ==
 $$
 
