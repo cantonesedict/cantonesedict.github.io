@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2025-11-21
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -286,7 +286,7 @@ U
   U+6E5B
 V
   ==
-  - zaam6 (per Kangxi 宅減切)
+  - zaam6 (per Kangxi 宅減切 for non-surname senses and 丈陷切 for surname sense)
   ==
 F
   ==
@@ -302,6 +302,10 @@ W
     - clear, calm [[Kangxi: 湛安也]], as a quiet moonlight.
     ==
   ====
+P
+  ++
+  1. A surname (Kangxi: 姓也).
+  ++
 S
   ==
   - $湛cam4
