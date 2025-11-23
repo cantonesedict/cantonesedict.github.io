@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fat
-* %date-modified --> 2025-11-22
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -809,8 +809,8 @@ U
   U+889A
 V
   ==
-  - fai3 (per 《集韻》方未切 for "knee-cover" sense)
   - but3 (per 《廣韻》北末切 for "barbarian-clothing" and "knee-cover" senses)
+  - fai3 (per 《集韻》方未切 for "knee-cover" sense)
   ==
 F
   [[Not present]]
