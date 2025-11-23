@@ -571,6 +571,7 @@ $$
 =={.modern}
 - $廢3
 - $沸3
+- $狒3
 - $疿3
 - $痱3
 - $肺3
@@ -665,6 +666,28 @@ P
   ++
   1. Bustling.
   ++
+$$
+
+###+ 狒3 | _Fai(3)_ [[fai3]]
+
+$$.
+R
+  ⽝ + 5
+U
+  U+72D2
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $狒fei6 for the canonical entry.**
+  ++
+S
+  ==
+  - $狒fai6
+  - $狒fei6
+  ==
 $$
 
 ### 疿3 | _Fai(3)_ [[fai3]]
@@ -985,6 +1008,7 @@ P
   ++
 S
   ==
+  - $狒fai3
   - $狒fei6
   ==
 $$
