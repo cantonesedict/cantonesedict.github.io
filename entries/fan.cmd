@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fan
-* %date-modified --> 2025-11-21
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -1946,7 +1946,7 @@ S
   - $賁ban1 (TODO)
   - $賁bei3 (TODO)
   - $賁fan5
-  - $賁fei4 (TODO)
+  - $賁fei4
   ==
 $$
 
@@ -2298,7 +2298,7 @@ S
   - $賁ban1 (TODO)
   - $賁bei3 (TODO)
   - $賁fan4
-  - $賁fei4 (TODO)
+  - $賁fei4
   ==
 $$
 

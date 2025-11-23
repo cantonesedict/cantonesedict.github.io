@@ -956,6 +956,7 @@ $$
 - $痱4
 - $肥4
 - $腓4
+- $賁4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -1130,6 +1131,37 @@ C
   - Fan Wan entry: Fixed missing stroke in 詩.
     The incomprehensible character looks like an incomplete 備;
     context suggests that this should be 避.
+  ==
+$$
+
+###+ 賁4 | _(4)F(i/)_ [[fei4]]
+
+$$
+R
+  ⾙ + 5
+U
+  U+8CC1
+H
+  May appear with 艹 having 3~strokes (+5 assumed here) or 4~strokes (+6),
+  depending on the font.
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - The modern surname is read _(1)pan_ (ban1) (Kangxi: 前書賁赫音肥今姓音奔). See $賁ban1 (TODO).
+  ==
+P
+  ++
+  1. An olden surname (Kangxi: 姓也 etc.).
+  ++
+S
+  ==
+  - $賁ban1 (TODO)
+  - $賁bei3 (TODO)
+  - $賁fan4
+  - $賁fan5
   ==
 $$
 
