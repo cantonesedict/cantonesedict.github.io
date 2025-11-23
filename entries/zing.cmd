@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -939,6 +939,10 @@ C
   - Williams' "a field laid out regularly": Not wrong,
     but misses the definition as nine hundred _mau_ (畝) of land area.
   ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 S
   ==
   - $井zeng2
