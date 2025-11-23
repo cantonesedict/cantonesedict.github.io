@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -218,6 +218,11 @@ C
   - Williams' 車歪咁轉: Corrected _(4)m(e/)_ (me4) to _(2)m(e/)_ (me2),
     and corrected _(2)ch(u:)n_ (zyun2) to _ch(u:)n(3)_ (zyun3).
   ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  1. Used in 子車 (a compound surname) (Kangxi: 子車複姓).
+  ++
 S
   ==
   - $車geoi1 (TODO)
