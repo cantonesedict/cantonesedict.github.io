@@ -2582,6 +2582,8 @@ class AlternativeForm:
 
 class ReadingVariation:
     jyutping: str
+    is_changed: bool
+    unchanged_jyutping: Optional[str]
     effective_jyutping: str
     is_redirect_necessary: bool
 
@@ -2591,6 +2593,8 @@ class ReadingVariation:
             string=jyutping,
             flags=re.VERBOSE,
         ):
+            is_changed = False
+            unchanged_jyutping = None
             effective_jyutping = unchanged_match.group('jyutping')
             caret = unchanged_match.group('caret')
 
@@ -2599,6 +2603,7 @@ class ReadingVariation:
             string=jyutping,
             flags=re.VERBOSE,
         ):
+            is_changed = True
             unchanged_jyutping = changed_match.group('unchanged_jyutping')
             changed_tone = changed_match.group('changed_tone')
             caret = changed_match.group('caret')
@@ -2614,6 +2619,8 @@ class ReadingVariation:
         is_redirect_necessary = not caret
 
         self.jyutping = jyutping
+        self.is_changed = is_changed
+        self.unchanged_jyutping = unchanged_jyutping
         self.effective_jyutping = effective_jyutping
         self.is_redirect_necessary = is_redirect_necessary
 
@@ -3018,9 +3025,26 @@ class Linter:
             if (reading_variations := character_entry.reading_variations) is None:
                 continue
 
+            unchanged_jyutping_candidates = [
+                jyutping,
+                *[
+                    rv.jyutping
+                    for rv in reading_variations
+                    if not rv.is_changed
+                ],
+            ]
+
             for reading_variation in reading_variations:
                 other_jyutping = reading_variation.jyutping
+                other_unchanged_jyutping = reading_variation.unchanged_jyutping
                 other_effective_jyutping = reading_variation.effective_jyutping
+
+                if other_unchanged_jyutping and other_unchanged_jyutping not in unchanged_jyutping_candidates:
+                    raise LintException(
+                        f'changed-tone reading variation `{other_jyutping}` '
+                        f'is not based on one of {unchanged_jyutping_candidates} '
+                        f'under {character_entry}'
+                    )
 
                 if jyutping in [other_jyutping, other_effective_jyutping]:
                     raise LintException(
