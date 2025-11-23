@@ -213,6 +213,7 @@ S
   ==
   - $菲fai6
   - $菲fei2
+  - $菲fei6
   ==
 $$
 
@@ -767,6 +768,7 @@ A
 V
   ==
   - fai6 (alternative per 《集韻》父沸切 for vegetable sense)
+  - fei6 (alternative per 《集韻》父沸切 for vegetable sense)
   ==
 F
   ==
@@ -808,6 +810,7 @@ S
   ==
   - $菲fai6
   - $菲fei1
+  - $菲fei6
   ==
 $$
 
@@ -1080,6 +1083,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $屝6
+- $菲6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -1093,7 +1097,7 @@ U
   U+5C5D
 A
   ==
-  - 菲
+  - $菲6
   ==
 V
   ==
@@ -1119,5 +1123,29 @@ S
   ==
   - $屝fai6
   - $屝fei2
+  ==
+$$
+
+###+ 菲6 | _F(i/)(6)_ [[fei6]]
+
+$$.
+R
+  ⾋ + 8
+U
+  U+83F2
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 屝. **See $屝fei6 for the canonical entry.**
+  1. Reading variation (for the vegetable sense). **See $菲fei2 for the canonical entry.**
+  ++
+S
+  ==
+  - $菲fai6
+  - $菲fei1
+  - $菲fei2
   ==
 $$
