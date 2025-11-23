@@ -661,6 +661,10 @@ C
   - Williams' "to the last": That is, the whole.
   - Williams' 終不改格: Or 終不改革.
   ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 $$
 
 ### 綜1 | _(1)Tsung_ [[zung1]]
