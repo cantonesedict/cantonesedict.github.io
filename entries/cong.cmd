@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cong
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -378,6 +378,10 @@ W
     [[Otherwise, an alternative form of 倉 (in 倉皇 spelt 蒼黃). **See $倉cong1 for the canonical entry.**]]
     --
   ====
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 $$
 
 ###+ 䚎1 | _(1)Ch(')ong_ [[cong1]]
