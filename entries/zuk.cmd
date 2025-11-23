@@ -401,6 +401,10 @@ W
         India, or the land where Budha was born [[Kangxi: 天竺國名]].
     ==
   ====
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 S
   ==
   - $竺duk1 (TODO)
