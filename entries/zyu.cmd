@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2025-11-21
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -644,6 +644,8 @@ C
 P
   ++
   1. Synonym of 之 (third-person object pronoun) (Kangxi: 諸之也).
+  1. A surname (Kangxi: 姓).
+  1. Used in 諸葛 (a compound surname) (Kangxi: 複姓).
   ++
 E
   ====
