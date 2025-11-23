@@ -571,7 +571,7 @@ W
   [[Not present]]
 P
   ++
-  1. Reading variation. **See $屝fai6 for the canonical entry.**
+  1. Reading variation. **See $屝fei6 for the canonical entry.**
   ++
 S
   ==
@@ -796,7 +796,7 @@ W
     - [[...]].
     ==
     --
-    [[Otherwise, an alternative form of 屝, and reading variation. **See $屝fai6 for the canonical entry.**]]
+    [[Otherwise, an alternative form of 屝, and reading variation. **See $屝fei6 for the canonical entry.**]]
     --
   ====
 C
@@ -1086,19 +1086,35 @@ $$
 
 ###+ 屝6 | _F(i/)(6)_ [[fei6]]
 
-$$.
+$$
 R
   ⼫ + 8
 U
   U+5C5D
+A
+  ==
+  - 菲
+  ==
+V
+  ==
+  - fai6 (alternative)
+  - fei2 (per Williams for 菲, common)
+  ==
 F
   [[Not present]]
 W
-  [[Not present]]
-P
-  ++
-  1. Reading variation. **See $屝fai6 for the canonical entry.**
-  ++
+  ====
+  - [[Page~53 (2)菲 _(2)F(i/)_ (fei2); here normalised to 屝 _F(i/)(6)_ (fei6)]]
+    ==
+    - [[...]];
+    - straw sandals [[Kangxi 菲: 與屝通, 菲草履]];
+    - [[...]].
+    ==
+  ====
+C
+  ==
+  - Or made from hemp, which also is coarser than silk (Kangxi: 屝麤屨也絲作曰履麻作曰屝).
+  ==
 S
   ==
   - $屝fai6
