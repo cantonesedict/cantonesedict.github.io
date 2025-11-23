@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cuk
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -198,6 +198,10 @@ C
   - Fan Wan entry: Corrected headword 朿 to 束.
   - Williams' 束縛: Changed _fok(8)_ (fok3) to common reading _pok(8)_ (bok3).
   ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 $$
 
 ###+ 樕1 | _Ts(')uk(7)_ [[cuk1]]
