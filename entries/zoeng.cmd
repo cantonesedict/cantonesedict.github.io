@@ -913,6 +913,10 @@ W
         ~~untrustworthy~~ ``unimproving, not progressing``.
     ==
   ====
+P
+  ++
+  1. Used in 長孫 (a compound surname).
+  ++
 S
   ==
   - $長coeng4
