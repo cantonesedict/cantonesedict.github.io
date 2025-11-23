@@ -1068,6 +1068,10 @@ R
   ⾙ + 5
 U
   U+8CBB
+V
+  ==
+  - fei6 (alternative)
+  ==
 F
   [[Not present]]
 W
