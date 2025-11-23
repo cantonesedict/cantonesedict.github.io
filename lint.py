@@ -2447,14 +2447,14 @@ class CharacterEntry:
             return None
 
         return [
-            ReadingVariation(jyutping)
+            ReadingVariation(raw_jyutping)
             for match in re.finditer(
-                pattern=r'^ [ ]+ - [ ] (?P<jyutping> \S+ )',
+                pattern=r'^ [ ]+ - [ ] (?P<raw_jyutping> \S+ )',
                 flags=re.MULTILINE | re.VERBOSE,
                 string=content,
             )
             if (
-                jyutping := match.group('jyutping'),
+                raw_jyutping := match.group('raw_jyutping'),
             )
         ]
 
@@ -2581,29 +2581,34 @@ class AlternativeForm:
 
 
 class ReadingVariation:
-    jyutping: str
     is_changed: bool
+    jyutping: str
     unchanged_jyutping: Optional[str]
     effective_jyutping: str
     is_redirect_necessary: bool
 
-    def __init__(self, jyutping: str):
+    def __init__(self, raw_jyutping: str):
         if unchanged_match := re.fullmatch(
             pattern=r'(?P<jyutping> [a-z]+[1-6] ) (?P<caret> \^? )',
-            string=jyutping,
+            string=raw_jyutping,
             flags=re.VERBOSE,
         ):
             is_changed = False
+            jyutping = unchanged_match.group('jyutping')
             unchanged_jyutping = None
-            effective_jyutping = unchanged_match.group('jyutping')
+            effective_jyutping = jyutping
             caret = unchanged_match.group('caret')
 
         elif changed_match := re.fullmatch(
-            pattern=r'(?P<unchanged_jyutping> [a-z]+[1-6] ) - (?P<changed_tone> [1-6] ) (?P<caret> \^? )',
-            string=jyutping,
+            pattern=r'''
+                (?P<jyutping> (?P<unchanged_jyutping> [a-z]+[1-6] ) - (?P<changed_tone> [1-6] ) )
+                (?P<caret> \^? )
+            ''',
+            string=raw_jyutping,
             flags=re.VERBOSE,
         ):
             is_changed = True
+            jyutping = changed_match.group('jyutping')
             unchanged_jyutping = changed_match.group('unchanged_jyutping')
             changed_tone = changed_match.group('changed_tone')
             caret = changed_match.group('caret')
@@ -2614,12 +2619,12 @@ class ReadingVariation:
             effective_jyutping = unchanged_jyutping[:-1] + changed_tone
 
         else:
-            raise LintException(f'invalid reading variation `{jyutping}`')
+            raise LintException(f'invalid reading variation `{raw_jyutping}`')
 
         is_redirect_necessary = not caret
 
-        self.jyutping = jyutping
         self.is_changed = is_changed
+        self.jyutping = jyutping
         self.unchanged_jyutping = unchanged_jyutping
         self.effective_jyutping = effective_jyutping
         self.is_redirect_necessary = is_redirect_necessary
