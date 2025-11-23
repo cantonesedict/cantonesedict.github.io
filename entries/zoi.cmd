@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoi
-* %date-modified --> 2025-11-03
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -378,6 +378,11 @@ W
         to kill an ox.
     ==
   ====
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  1. Used in 宰父 (a compound surname) (Kangxi: 宰父複姓).
+  ++
 $$
 
 ###+ 滓2 | _(2)Tsoi_ [[zoi2]]
