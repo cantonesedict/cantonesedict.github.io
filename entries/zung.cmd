@@ -256,6 +256,7 @@ P
   ++
   1. An ancestor.
   1. A surname (Kangxi: 姓).
+  1. Used in 宗政 (a compound surname).
   ++
 $$
 
