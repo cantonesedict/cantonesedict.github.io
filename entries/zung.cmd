@@ -1002,6 +1002,7 @@ P
   1. A measure (Kangxi: 量名) of either 64~pecks (Kangxi: 六斛四斗曰鍾),
      80~pecks (Kangxi: 八斛也), or 100~pecks (Kangxi: 鍾十斛).
   1. A surname (Kangxi: 姓).
+  1. Used in 鍾離 (a compound surname) (Kangxi: 鍾離複姓).
   ++
 $$
 
