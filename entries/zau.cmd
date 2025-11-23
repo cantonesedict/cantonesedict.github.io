@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2025-11-20
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -181,6 +181,10 @@ C
   ==
   - Williams' 好周置: Corrected _(1)ch(i/)_ (zi1) to _ch(i/)(3)_ (zi3).
   ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 E
   ====
   - 【周身刀冇張利】 (zau1 san1 dou1 mou5 zoeng1 lei6):
