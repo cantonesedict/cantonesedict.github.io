@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2025-11-04
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -531,6 +531,7 @@ P
   1. A completed matter or composition (Kangxi: 成事成文曰章).
   1. Great forest trees (Kangxi: 大林木曰章).
   1. Order.
+  1. A surname (Kangxi: 姓).
   ++
 $$
 
