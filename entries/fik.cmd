@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [fik1](#1)
+- [fik6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -92,4 +93,54 @@ S
   ==
   - ${𠱥=⿰口卉}jit6 (TODO)
   ==
+$$
+
+
+##{#6 .williams} ``Fik(9)`` [[fik6 陽入]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $掝6
+==
+</nav>
+<## /tone-6-characters ##>
+
+###+ 掝6 | _Fik(9)_ [[fik6]]
+
+$$
+R
+  ⼿ + 8
+U
+  U+639D
+V
+  ==
+  - fak6 (alternative)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~53 _Fik(7)_ (fik1) exemplified; here corrected to _Fik(9)_ (fik6) and assigned to 掝]]
+    ==
+    - To brush off (as a fly);
+    - _~~fik(7)~~ ``fik(9)`` (1)hoi_
+        [[fik6 hoi1 掝開]],
+        brush it off!
+    ==
+  ====
+E
+  ====
+  - 【掝】 (fik6, fak6):
+    ++
+    1. To swing, to flap, especially quickly.
+       ==
+       - 掝甩 (fik6 lat1): "Flap [it] off."
+       ==
+    1. To flick or to brush away quickly.
+       ==
+       - 掝走佢 (fik6 zau2 keoi5): "Flick it away."
+       ==
+    ++
+  ====
 $$
