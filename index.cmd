@@ -145,6 +145,7 @@ $${.modern}
   ,
   --
   A scan of the 澤存堂本, specifically 周祖謨's 《廣韻校本》, hosted at 韻典網.
+  For nicer formatting, see [the version hosted at Kanji Database Project](https://kanji-database.sourceforge.net/dict/sbgy/index.html).
   --
 
 ; [《集韻》 (摛藻堂四庫全書薈要本)](https://ctext.org/wiki.pl?if=en&res=3390942),
