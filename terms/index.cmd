@@ -551,6 +551,9 @@ window.onload = applyFilter;
     , fan6-2
     , [份](/entries/fan#cantonese-份)
   //
+    , fang6
+    , [揈](/entries/fing#cantonese-揈)
+  //
     , fe1
     , [啡](/entries/fe#cantonese-啡)
   //
@@ -583,6 +586,12 @@ window.onload = applyFilter;
   //
     , fik6
     , [掝](/entries/fik#cantonese-掝)
+  //
+    , fing6
+    , [揈](/entries/fing#cantonese-揈)
+  //
+    , fing6 tau4 jyu4-2
+    , [揈頭丸](/entries/fing#cantonese-揈頭丸)
   //
     , fo2 zuk1
     , [火燭](/entries/zuk#cantonese-火燭)
