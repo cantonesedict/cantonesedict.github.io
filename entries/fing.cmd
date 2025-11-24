@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [fing1](#1)
+- [fing3](#3)
 - [fing6](#6)
 ==
 </nav>
@@ -80,7 +81,7 @@ S
   ==
   - $捹ban3 (TODO) <## alternative form of 擯 (to braid) alongside 鬢 ##>
   - $捹ban6 (TODO) <## authorised sense corrected from Williams ban3 ##>
-  - $捹fing3 (TODO)
+  - $捹fing3
   - $捹fing6
   ==
 $$
@@ -122,6 +123,44 @@ S
 $$
 
 
+##{#3 .williams} Fing(3) [[fing3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $捹3
+==
+</nav>
+<## /tone-3-characters ##>
+
+###+ 捹3 | _Fing(3)_ [[fing3]]
+
+$$.
+R
+  ⼿ + 8
+U
+  U+6379
+H
+  May appear as either ⿰扌⿱大卉 (+8 assumed here) or ⿰扌⿱大𠦄 (+9),
+  depending on the font.
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 揈. **See $揈fing3 for the canonical entry.** (TODO)
+  ++
+S
+  ==
+  - $捹ban3 (TODO) <## alternative form of 擯 (to braid) alongside 鬢 ##>
+  - $捹ban6 (TODO) <## authorised sense corrected from Williams ban3 ##>
+  - $捹fing1
+  - $捹fing6
+  ==
+$$
+
+
 ##{#6 .williams} Fing(6) [[fing6 陽去]]
 
 <## tone-6-characters ##>
@@ -157,7 +196,7 @@ S
   - $捹ban3 (TODO) <## alternative form of 擯 (to braid) alongside 鬢 ##>
   - $捹ban6 (TODO) <## authorised sense corrected from Williams ban3 ##>
   - $捹fing1
-  - $捹fing3 (TODO)
+  - $捹fing3
   ==
 $$
 
