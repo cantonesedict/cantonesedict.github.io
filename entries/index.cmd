@@ -236,6 +236,7 @@ See also: [Index of Cantonese terms by Jyutping](/terms/).
 - $faat
 - $fai
 - $fan
+- $fang (work in progress)
 - $fat
 - $fau
 - $fe
