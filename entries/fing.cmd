@@ -141,7 +141,7 @@ E
        - 揈錢 (fang6 cin4-2): "Flinging money [around]."
        ==
     ++
-  - 【揈頭丸】 (fing6 tau4 jyu4-2):
+  - 【揈頭丸】 (fing6 tau4 jyun4-2):
     ++
     1. Ecstasy, the tablet form of MDMA. (Literally, "head-whirling pills".)
     ++

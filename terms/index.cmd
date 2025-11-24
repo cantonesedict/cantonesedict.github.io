@@ -590,7 +590,7 @@ window.onload = applyFilter;
     , fing6
     , [揈](/entries/fing#cantonese-揈)
   //
-    , fing6 tau4 jyu4-2
+    , fing6 tau4 jyun4-2
     , [揈頭丸](/entries/fing#cantonese-揈頭丸)
   //
     , fo2 zuk1
