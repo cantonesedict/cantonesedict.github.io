@@ -90,8 +90,7 @@ del {
 dl {
   border: 1px solid var(--modern-colour);
   padding: 0.3em 0.6em;
-  margin-left: 1em;
-  margin-right: 1em;
+  margin: 1em;
 }
 dl + h2 {
   margin-top: 1.7em;
