@@ -242,7 +242,7 @@ See also: [Index of Cantonese terms by Jyutping](/terms/).
 - $fe
 - $fei
 - $fik
-- $fing (work in progress)
+- $fing
 - $fit (work in progress)
 - $fo (work in progress)
 - $fok (work in progress)
