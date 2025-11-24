@@ -53,6 +53,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $捹1
+- $揈1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -73,7 +74,7 @@ W
   [[Not present]]
 P
   ++
-  1. Alternative form of 揈. **See $揈fing1 for the canonical entry.** (TODO)
+  1. Alternative form of 揈. **See $揈fing1 for the canonical entry.**
   ++
 S
   ==
@@ -81,6 +82,42 @@ S
   - $捹ban6 (TODO) <## authorised sense corrected from Williams ban3 ##>
   - $捹fing3 (TODO)
   - $捹fing6
+  ==
+$$
+
+### ``揈``1 | _(1)Fing_ [[fing1]]
+
+$$
+R
+  ⼿ + 9
+U
+  U+63C8
+A
+  ==
+  - $捹1
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~714 ^_(1)Fing_ (fing1); here assigned to 揈]]
+    --
+    A colloquial word.
+    --
+    ==
+    - Confused, tangled;
+    - _(1)fing k(o\)m(3) l(u:)n(6)_
+        [[fing1 gam3 lyun6 揈咁亂]]
+        all in disorder, as one moving;
+        touzled, as hair.
+    ==
+  ====
+S
+  ==
+  - $揈fang4 (TODO) <## 乎萌切: 揈〈擊也〉 ##>
+  - $揈fang6 (TODO) <## reading variation for both fang4 and fing6 ##>
+  - $揈fing3 (TODO)
+  - $揈fing6
   ==
 $$
 
@@ -205,7 +242,7 @@ S
   ==
   - $揈fang4 (TODO) <## 乎萌切: 揈〈擊也〉 ##>
   - $揈fang6 (TODO) <## reading variation for both fang4 and fing6 ##>
-  - $揈fing1 (TODO)
+  - $揈fing1
   - $揈fing3 (TODO)
   ==
 $$
