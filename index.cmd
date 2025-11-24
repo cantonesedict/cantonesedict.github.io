@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Home
-* %date-modified --> 2025-11-17
+* %date-modified --> 2025-11-24
 * %copyright-prior-years --> 2023--
 * %modern-colour --> crimson
 * %meta-description --> home page
@@ -152,6 +152,19 @@ $${.modern}
   ,
   --
   A scan of the 摛藻堂四庫全書薈要 edition, hosted at Chinese Text Project Wiki.
+  To avoid the annoying login wall (at the expense of searchability),
+  see the scans hosted at the Internet Archive (\
+    [1](https://archive.org/details/06079713.cn/mode/1up),
+    [2](https://archive.org/details/06079714.cn/mode/1up),
+    [3](https://archive.org/details/06079715.cn/mode/1up),
+    [4](https://archive.org/details/06047203.cn/mode/1up),
+    [5](https://archive.org/details/06047204.cn/mode/1up),
+    [6](https://archive.org/details/06047205.cn/mode/1up),
+    [7](https://archive.org/details/06047206.cn/mode/1up),
+    [8](https://archive.org/details/06047207.cn/mode/1up),
+    [9](https://archive.org/details/06047208.cn/mode/1up),
+    [10](https://archive.org/details/06047209.cn/mode/1up)\
+  ).
   --
 
 ; [《正韻牋》 = 《洪武正韻牋》](https://ytenx.org/tcyts/),
