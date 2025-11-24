@@ -557,6 +557,9 @@ window.onload = applyFilter;
     , fang4
     , [揈](/entries/fang#cantonese-揈)
   //
+    , fang4
+    , [訇](/entries/fang#cantonese-訇)
+  //
     , fang6
     , [揈](/entries/fang#cantonese-揈)
   //

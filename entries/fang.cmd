@@ -49,6 +49,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $揈4
+- $訇4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -90,6 +91,38 @@ S
   - $揈fing1
   - $揈fing3
   - $揈fing6
+  ==
+$$
+
+###+ 訇4 | _(4)Fang_ [[fang4]]
+
+$$
+R
+  ⾔ + 2
+U
+  U+8A07
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - The choice of the character 訇 is an arbitrary spelling by me.
+  ==
+E
+  ====
+  - 【訇】 (fang4):
+    ++
+    1. To rebuke, especially sternly.
+       ==
+       - 畀先生訇 (bei2 sin1 saang1 fang4): "Told off by [the] teacher."
+       - 成日訇人 (seng4 jat6 fang4 jan4): "Always telling others off."
+       ==
+    ++
+  ====
+S
+  ==
+  - $訇gwang1 (TODO)
   ==
 $$
 
