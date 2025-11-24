@@ -117,7 +117,7 @@ S
   ==
   - $揈fang4 (TODO) <## 乎萌切: 揈〈擊也〉 ##>
   - $揈fang6 (TODO) <## reading variation for both fang4 and fing6 ##>
-  - $揈fing3 (TODO)
+  - $揈fing3
   - $揈fing6
   ==
 $$
@@ -129,6 +129,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $捹3
+- $揈3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -149,7 +150,7 @@ W
   [[Not present]]
 P
   ++
-  1. Alternative form of 揈. **See $揈fing3 for the canonical entry.** (TODO)
+  1. Alternative form of 揈. **See $揈fing3 for the canonical entry.**
   ++
 S
   ==
@@ -157,6 +158,45 @@ S
   - $捹ban6 (TODO) <## authorised sense corrected from Williams ban3 ##>
   - $捹fing1
   - $捹fing6
+  ==
+$$
+
+### ``揈``3 | _Fing(3)_ [[fing3]]
+
+$$
+R
+  ⼿ + 9
+U
+  U+63C8
+A
+  ==
+  - $捹3
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~714 ^_Fing(3)_ (fing3); here assigned to 揈]]
+    --
+    A colloquial word.
+    --
+    ==
+    - A slap with the hand;
+    - _t(a/)i(6) ~~(2)pa~~ ``(1)p(a/)`` fing(3)_
+        [[daai6 baa1 fing3 大巴揈]]
+        a smart slap.
+    ==
+  ====
+C
+  ==
+  - Williams' 大巴揈: Corrected _(2)pa_ (^ba2) to _(1)p(a/)_ (baa1).
+  ==
+S
+  ==
+  - $揈fang4 (TODO) <## 乎萌切: 揈〈擊也〉 ##>
+  - $揈fang6 (TODO) <## reading variation for both fang4 and fing6 ##>
+  - $揈fing1
+  - $揈fing6
   ==
 $$
 
@@ -282,6 +322,6 @@ S
   - $揈fang4 (TODO) <## 乎萌切: 揈〈擊也〉 ##>
   - $揈fang6 (TODO) <## reading variation for both fang4 and fing6 ##>
   - $揈fing1
-  - $揈fing3 (TODO)
+  - $揈fing3
   ==
 $$
