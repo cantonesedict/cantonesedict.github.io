@@ -79,7 +79,7 @@ W
 S
   ==
   - $捹ban3 (TODO) <## alternative form of 擯 (to braid) alongside 鬢 ##>
-  - $捹bun6 (TODO) <## authorised sense corrected from Williams ban3 ##>
+  - $捹ban6 (TODO) <## authorised sense corrected from Williams ban3 ##>
   - $捹fing1 (TODO)
   - $捹fing3 (TODO)
   ==
@@ -118,12 +118,20 @@ W
         [[fing6 lat1 揈甩]]
         shake it off.
     ==
+  - [[Page~714 after ^_Fing(6)_ (fing6)]]
+    ==
+    - The character 捹, has no authority;
+    - ~~it is read _pan(3)_ [[ban3]];~~
+    - ~~the hands rapidly moving.~~
+    ==
   ====
 C
   ==
   - Williams' 吊吊揈: Corrected _(4)t(')i(u/) (4)t(')i(u/)_ (tiu4 tiu4)
     to _(4)^ti(u/) (2)ti(u/)_ (diu3-4 diu3-2).
   - Williams' 揈滴水嚟: Corrected _(1)lai_ (lai1) to _(4)lai_ (lai4).
+  - Williams' "read _pan(3)_": This and the subsequent explanation
+    are misreadings of 《集韻》蒲悶切音坌手亂貌 in Kangxi. See $捹ban6. (TODO)
   ==
 E
   ====
