@@ -98,7 +98,7 @@ A
   ==
 V
   ==
-  - fang6 (alternative)
+  - fang6 (alternative mostly for "spend recklessly" sense)
   ==
 F
   [[Not present]]
