@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 3-stroke radicals
-* %date-modified --> 2025-11-23
+* %date-modified --> 2025-11-24
 * %copyright-prior-years --> 2024--
 * %meta-description --> index of characters with 3-stroke radicals
 
@@ -110,6 +110,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $呞ci1
       - $咈fat6
+      - ${𠱥=⿰口卉}fik1
       - {$咋zaa3, $咋zaak3}
       - $周zau1
       - $呪zau3
