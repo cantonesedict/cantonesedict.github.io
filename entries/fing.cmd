@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [fing1](#1)
 - [fing6](#6)
 ==
 </nav>
@@ -42,6 +43,44 @@ MP
 S
   ==
   - $fik
+  ==
+$$
+
+
+##{#1 .williams} (1)Fing [[fing1 陰平]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- $捹1
+==
+</nav>
+<## /tone-1-characters ##>
+
+###+ 捹1 | _(1)Fing_ [[fing1]]
+
+$$.
+R
+  ⼿ + 8
+U
+  U+6379
+H
+  May appear as either ⿰扌⿱大卉 (+8 assumed here) or ⿰扌⿱大𠦄 (+9),
+  depending on the font.
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 揈. **See $揈fing1 for the canonical entry.** (TODO)
+  ++
+S
+  ==
+  - $捹ban3 (TODO) <## alternative form of 擯 (to braid) alongside 鬢 ##>
+  - $捹ban6 (TODO) <## authorised sense corrected from Williams ban3 ##>
+  - $捹fing3 (TODO)
+  - $捹fing6
   ==
 $$
 
@@ -80,7 +119,7 @@ S
   ==
   - $捹ban3 (TODO) <## alternative form of 擯 (to braid) alongside 鬢 ##>
   - $捹ban6 (TODO) <## authorised sense corrected from Williams ban3 ##>
-  - $捹fing1 (TODO)
+  - $捹fing1
   - $捹fing3 (TODO)
   ==
 $$

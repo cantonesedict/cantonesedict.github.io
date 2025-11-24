@@ -441,7 +441,7 @@ For all radicals, see [Index of characters by radical](./).
       - {$捽cyut3, $捽zeot1}
       - $㧾fat1
       - $掝fik6
-      - $捹fing6
+      - {$捹fing1, $捹fing6}
       - $掉zaau6
       - $接zip3
       - {$捷zit3, $捷zit6}
