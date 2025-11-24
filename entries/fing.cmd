@@ -115,7 +115,7 @@ W
   ====
 S
   ==
-  - $揈fang4 (TODO) <## 乎萌切: 揈〈擊也〉 ##>
+  - $揈fang4
   - $揈fang6 (TODO) <## reading variation for both fang4 and fing6 ##>
   - $揈fing3
   - $揈fing6
@@ -193,7 +193,7 @@ C
   ==
 S
   ==
-  - $揈fang4 (TODO) <## 乎萌切: 揈〈擊也〉 ##>
+  - $揈fang4
   - $揈fang6 (TODO) <## reading variation for both fang4 and fing6 ##>
   - $揈fing1
   - $揈fing6
@@ -332,7 +332,7 @@ E
   ====
 S
   ==
-  - $揈fang4 (TODO) <## 乎萌切: 揈〈擊也〉 ##>
+  - $揈fang4
   - $揈fang6 (TODO) <## reading variation for both fang4 and fing6 ##>
   - $揈fing1
   - $揈fing3

@@ -334,6 +334,18 @@ RegexDictionaryReplacement: #.syntax.link-abbreviations-kwong-wan
   [《廣韻》\g<dissection>：\g<headword>](https://kanji-database.sourceforge.net/dict/sbgy/v\g<volume_number>.html#\g<id_>)：
 
 
+RegexDictionaryReplacement: #.syntax.link-abbreviations-tsaap-wan
+- queue_position: BEFORE #specified-links
+* C [.] (?P<identifier> [0-9]+ [.] cn ) _ (?P<page_number> n?[0-9]+ )
+  [ ]
+  (?P<dissection> (?: \(: )? [\S]+ (?: :\) )? )
+  [ ]
+  (?P<headword> (?: \(: )? [\S]+ (?: :\) )? )
+  [ ]
+    -->
+  [《集韻》\g<dissection>：\g<headword>](https://archive.org/details/\g<identifier>/page/\g<page_number>/mode/1up)：
+
+
 RegexDictionaryReplacement: #.syntax.source-abbreviation-kangxi
 - queue_position: BEFORE #specified-links
 * K[.]

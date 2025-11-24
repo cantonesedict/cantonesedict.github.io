@@ -554,6 +554,12 @@ window.onload = applyFilter;
     , fan6-2
     , [份](/entries/fan#cantonese-份)
   //
+    , fang4
+    , [揈](/entries/fang#cantonese-揈)
+  //
+    , fang6
+    , [揈](/entries/fang#cantonese-揈)
+  //
     , fang6
     , [揈](/entries/fing#cantonese-揈)
   //

@@ -164,6 +164,7 @@ TONELESS_JYUTPING_LIST_FROM_WILLIAMS = {
     "f(u/)t": ['fut'],
     "fai": ['fai'],
     "fan": ['fan'],
+    "fang": ['fang'],
     "fat": ['fat'],
     "fau": ['fau'],
     "fik": ['fik'],
