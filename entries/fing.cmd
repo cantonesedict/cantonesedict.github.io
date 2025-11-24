@@ -116,7 +116,7 @@ W
 S
   ==
   - $揈fang4
-  - $揈fang6 (TODO) <## reading variation for both fang4 and fing6 ##>
+  - $揈fang6
   - $揈fing3
   - $揈fing6
   ==
@@ -194,7 +194,7 @@ C
 S
   ==
   - $揈fang4
-  - $揈fang6 (TODO) <## reading variation for both fang4 and fing6 ##>
+  - $揈fang6
   - $揈fing1
   - $揈fing6
   ==
@@ -333,7 +333,7 @@ E
 S
   ==
   - $揈fang4
-  - $揈fang6 (TODO) <## reading variation for both fang4 and fing6 ##>
+  - $揈fang6
   - $揈fing1
   - $揈fing3
   ==

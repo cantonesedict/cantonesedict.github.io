@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [fang4](#4)
+- [fang6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -85,7 +86,43 @@ E
   """"
 S
   ==
-  - $揈fang6 (TODO) <## reading variation for both fang4 and fing6 ##>
+  - $揈fang6
+  - $揈fing1
+  - $揈fing3
+  - $揈fing6
+  ==
+$$
+
+
+##{#6 .williams} ``Fang(6)`` [[fang6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways">
+=={.modern}
+- $揈6
+==
+</nav>
+<## /tone-6-characters ##>
+
+###+ 揈6 | _Fang(6)_ [[fang6]]
+
+$$.
+R
+  ⼿ + 9
+U
+  U+63C8
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $揈fang4 for the canonical entry.**
+  1. Reading variation. **See $揈fing6 for the canonical entry.**
+  ++
+S
+  ==
+  - $揈fang4
   - $揈fing1
   - $揈fing3
   - $揈fing6
