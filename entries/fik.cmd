@@ -33,6 +33,7 @@ WP
 MP
   ==
   - fik = [fek̚]
+  - fak = [fɐk̚]
   ==
 S
   ==
