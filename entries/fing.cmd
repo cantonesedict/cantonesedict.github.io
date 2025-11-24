@@ -123,6 +123,10 @@ C
   ==
 E
   ====
+  - 【吊吊揈】 (diu3-4 diu3-2 fing6):
+    ++
+    1. Hanging and swinging about.
+    ++
   - 【揈】 (fing6, fang6):
     ++
     1. To swing, to flap, to shake.

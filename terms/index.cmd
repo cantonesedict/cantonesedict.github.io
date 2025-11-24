@@ -488,6 +488,9 @@ window.onload = applyFilter;
     , dak1 zai6
     , [得嚌](/entries/zai#cantonese-得嚌)
   //
+    , diu3-4 diu3-2 fing6
+    , [吊吊揈](/entries/fing#cantonese-吊吊揈)
+  //
     , e6
     , [㖡](/entries/e#cantonese-㖡)
   //
