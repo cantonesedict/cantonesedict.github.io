@@ -240,7 +240,7 @@ S
   ==
 $$
 
-###+ 揈6 | _Fing(6)_ [[fing6]]
+### ``揈``6 | _Fing(6)_ [[fing6]]
 
 $$
 R
@@ -272,6 +272,19 @@ W
     - _fing(6) lat(7)_
         [[fing6 lat1 揈甩]]
         shake it off.
+    ==
+  - [[Page~714 ^_Fing(6)_ (fing6); here assigned to 揈]]
+    --
+    A colloquial word.
+    --
+    ==
+    - To vibrate, to swing, to dangle, as the end of a rope;
+    - to sprinkle;
+    - to snap away;
+    - to shake off, as ink out of a pen;
+    - _fing(6) kwo(3) (4)lai_
+        [[fing6 gwo3 lai4 揈過嚟]],
+        yerk it (as the cue) forward.
     ==
   - [[Page~714 after ^_Fing(6)_ (fing6)]]
     ==
