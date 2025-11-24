@@ -90,7 +90,7 @@ del {
 dl {
   border: 1px solid var(--modern-colour);
   padding: 0.3em 0.6em;
-  margin: 1em;
+  margin: 0.5em 1em;
 }
 dl + h2 {
   margin-top: 1.7em;
@@ -130,6 +130,10 @@ h2 {
 }
 h2.modern {
   border-bottom: 1px solid var(--modern-colour);
+}
+
+h3.williams {
+  margin-bottom: 0.5em;
 }
 
 h4 {
