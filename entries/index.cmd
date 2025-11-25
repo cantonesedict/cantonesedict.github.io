@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of entry pages by Jyutping
-* %date-modified --> 2025-11-24
+* %date-modified --> 2025-11-25
 * %copyright-prior-years --> 2023--
 * %meta-description --> index of entry pages by Jyutping
 
@@ -243,7 +243,7 @@ See also: [Index of Cantonese terms by Jyutping](/terms/).
 - $fei
 - $fik
 - $fing
-- $fit (work in progress)
+- $fit
 - $fo (work in progress)
 - $fok (work in progress)
 - $fong (work in progress)

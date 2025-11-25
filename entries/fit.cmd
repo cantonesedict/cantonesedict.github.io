@@ -12,12 +12,6 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 #{.williams} F(i/)t. [[fit]]
 
-<nav class="sideways">
-=={.modern}
-- (Work in progress)
-==
-</nav>
-
 <## tones ##>
 <nav class="sideways">
 =={.modern}
@@ -42,7 +36,7 @@ MP
 $$
 
 
-##{#1 .williams} F(i/)t(7) [[fit1 高陰入]]
+##{#1 .williams} F(i/)t``(7)`` [[fit1 高陰入]]
 
 <## tone-1-characters ##>
 <nav class="sideways">
