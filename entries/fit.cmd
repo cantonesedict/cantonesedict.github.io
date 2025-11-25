@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [fit1](#1)
 ==
 </nav>
 <## /tones ##>
@@ -38,4 +39,37 @@ MP
   ==
   - fit = [fiːt̚]
   ==
+$$
+
+
+##{#1 .williams} F(i/)t(7) [[fit1 高陰入]]
+
+<## tone-1-characters ##>
+<nav class="sideways">
+=={.modern}
+- ${𢞵=⿱飛必}1
+==
+</nav>
+<## /tone-1-characters ##>
+
+### ``{𢞵=⿱飛必}``1 | _F(i/)t``(7)``_ [[fit1]]
+
+$$
+R
+  ⾶ + 5
+  ⼼ + 10
+U
+  U+227B5
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~714 under F(i/)t (fit); here assumed to be ^_F(i/)t(7)_ (fit1) and assigned to {𢞵=⿱飛必}]]
+    --
+    A colloquial word.
+    --
+    ==
+    - To whip, to spank, to punish.
+    ==
+  ====
 $$
