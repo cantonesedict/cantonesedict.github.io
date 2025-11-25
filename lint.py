@@ -1599,7 +1599,12 @@ class EntryPage:
 
         page_heading_williams_set = set(page_heading.williams_list)
         tone_heading_williams_set = set(
-            re.sub(pattern=r'\([1-9]\)', repl='', string=williams)
+            re.sub(
+                pattern=r'(?P<backticks> (?: `` )? ) \([1-9]\) (?P=backticks)',
+                repl='',
+                string=williams,
+                flags=re.VERBOSE,
+            )
             for tone_heading in tone_headings
             for williams in tone_heading.williams_list
         )
