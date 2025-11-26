@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fau
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-11-26
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -432,6 +432,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $埠6
+- ${𧌓=⿰虫阜}6
 - $阜6
 ==
 </nav>
@@ -485,6 +486,24 @@ S
   ==
   - $埠bou6 (TODO)
   ==
+$$
+
+### {𧌓=⿰虫阜}6 | _Fau(6)_ [[fau6]]
+
+$$.
+R
+  ⾍ + 8
+U
+  U+27313
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~714 {𧌓=⿰虫阜}(6)]]
+    --
+    [[Alternative form of 蛗. **See $蛗fau6 for the canonical entry.**]] [[TODO]]
+    --
+  ====
 $$
 
 ### 阜6 | _Fau(6)_ [[fau6]]
