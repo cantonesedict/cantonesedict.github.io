@@ -432,6 +432,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $埠6
+- $蛗6
 - ${𧌓=⿰虫阜}6
 - $阜6
 ==
@@ -488,6 +489,32 @@ S
   ==
 $$
 
+###+ 蛗6 | _Fau(6)_ [[fau6]]
+
+$$
+R
+  ⾍ + 6
+U
+  U+86D7
+A
+  ==
+  - ${𧌓=⿰虫阜}6
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~714 {𧌓=⿰虫阜}(6); here normalised to 蛗]]
+    ==
+    - A kind of grasshopper or cricket;
+    - _fau(6) (1)chung_
+        [[fau6 zung1 蛗螽]],
+        a sort of green locust;
+        _met._ many children.
+    ==
+  ====
+$$
+
 ### {𧌓=⿰虫阜}6 | _Fau(6)_ [[fau6]]
 
 $$.
@@ -501,7 +528,7 @@ W
   ====
   - [[Page~714 {𧌓=⿰虫阜}(6)]]
     --
-    [[Alternative form of 蛗. **See $蛗fau6 for the canonical entry.**]] [[TODO]]
+    [[Alternative form of 蛗. **See $蛗fau6 for the canonical entry.**]]
     --
   ====
 $$
