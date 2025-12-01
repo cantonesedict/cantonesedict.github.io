@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fo
-* %date-modified --> 2025-11-28
+* %date-modified --> 2025-12-01
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -48,6 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $科1
+- $蝌1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -106,6 +107,9 @@ W
         [[fo1 tau4 科頭]],
         bareheaded, head unarmed [[Kangxi: ::謂不著[兜]鍪入敵::]].
     ==
+    --
+    [[Otherwise, an alternative form of 蝌. **See $蝌fo1 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -121,4 +125,39 @@ P
   1. A pit, a hole (Kangxi: 坎也).
   1. To sentence, to punish (Kangxi: 科斷也 etc.).
   ++
+$$
+
+### ~~蚪~~``蝌``1 | _(1)Fo_ [[fo1]]
+
+$$
+R
+  ⾍ + 9
+U
+  U+874C
+A
+  ==
+  - $科1
+  ==
+F
+  ==
+  - (F2.58 蝌) ::蝌蚪虫名又字[體]也::
+  ==
+W
+  ====
+  - [[Page~54 ::(1)~~蚪~~``蝌``::]]
+    ==
+    - The tadpole;
+    - _(1)fo (2)tau_
+        [[fo1 dau2 蝌蚪]],
+        the tadpole [[Kangxi 蝌: 蝌蚪本作科 etc.]];
+    - also called
+        _~~(4)lui~~ ``(4)l(u/)i`` (1)kung (4)(u:)_
+        [[leoi4 gung1 jyu4-2 雷公魚]].
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected missing/blurred strokes in 體.
+  - Williams' 雷公魚: Corrected _(4)lui_ to _(4)l(u/)i_.
+  ==
 $$
