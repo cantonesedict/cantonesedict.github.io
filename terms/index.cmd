@@ -611,6 +611,9 @@ window.onload = applyFilter;
     , fo2
     , [火](/entries/fo#cantonese-火)
   //
+    , fo2 gei3
+    , [伙記](/entries/fo#cantonese-伙記)
+  //
     , fo2 zuk1
     , [火燭](/entries/zuk#cantonese-火燭)
   //

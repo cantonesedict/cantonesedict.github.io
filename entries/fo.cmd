@@ -170,6 +170,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $伙2
+- $夥2
 - $火2
 ==
 </nav>
@@ -184,6 +185,7 @@ U
   U+4F19
 A
   ==
+  - $夥2 (for "companion/company" senses)
   - $火2
   ==
 V
@@ -192,6 +194,7 @@ V
   ==
 F
   ==
+  - (F2.60 夥) 夥伴
   - (F2.60 伙) 家用物件曰家伙
   ==
 W
@@ -227,6 +230,24 @@ W
         well, pleasing, handsome;
         also used in irony, as detestable, badly, done.
     ==
+  - [[Page~54 (2)夥; here normalised to 伙]]
+    ==
+    - A colleague, comrade, accomplice, associate;
+    - [[...]];
+    - a company, party, band, society;
+    - _(2)fo p(u/)n(6)_
+        [[fo2 bun6 伙伴]]
+        a partner;
+    - _h(o\)p(9) (2)fo_
+        [[hap6 fo2 合伙]],
+        joint partner;
+    - _(2)k(i/) (2)fo_
+        [[gei2 fo2 幾伙]],
+        how many? as men;
+    - _(2)fo k(i/)(3)_ [[fo2 gei3 伙記]] (or _kai(3)_ [[gai3 計]])
+        a fellow;
+        the word _Fokee_ applied to the Chinese by foreigners.
+    ==
   ====
 C
   ==
@@ -245,6 +266,10 @@ E
     ++
     1. An interjectory expression used in response to something going wrong.
     ++
+  - 【伙記】 (fo2 gei3):
+    ++
+    1. An employee who serves customers, especially a waiter.
+    ++
   - 【家伙】 (gaa1 fo2, gaa1 fo2-1):
     ++
     1. A mild intensifier for interrogatives.
@@ -253,6 +278,39 @@ E
        - 咩家伙啊 (me1 gaa1 fo2-1 a3): "What on earth [is this]?"
        ==
     ++
+  ====
+$$
+
+### 夥2 | _(2)Fo_ [[fo2]]
+
+$$
+R
+  ⼣ + 11
+U
+  U+5925
+A
+  ==
+  - 㚌
+  ==
+V
+  ==
+  - wo6 (per 《廣韻》胡果切)
+  ==
+F
+  ==
+  - (F2.60 夥) 夥伴
+  ==
+W
+  ====
+  - [[Page~54 (2)夥]]
+    ==
+    - [[...]];
+    - many, numerous [[Kangxi: 多也]];
+    - [[...]].
+    ==
+    --
+    [[Otherwise, an alternative form of 伙 (for the "companion/company" senses). **See $伙fo2 for the canonical entry.**]]
+    --
   ====
 $$
 
