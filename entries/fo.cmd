@@ -169,10 +169,92 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
+- $伙2
 - $火2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 伙2 | _(2)Fo_ [[fo2]]
+
+$$
+R
+  ⼈ + 4
+U
+  U+4F19
+A
+  ==
+  - $火2
+  ==
+V
+  ==
+  - fo2-1 (in interrogative intensifier 家伙)
+  ==
+F
+  ==
+  - (F2.60 伙) 家用物件曰家伙
+  ==
+W
+  ====
+  - [[Page~54 (2)火; here normalised to 伙]]
+    ==
+    - [[...]];
+    - _~~(1)tsun~~ ``tsun(3)`` (2)fo_
+        [[zeon3 fo2 進伙]],
+        to move to a new house;
+    - [[...]].
+    ==
+  - [[Page~54 (2)伙]]
+    ==
+    - A company of ten in the army [[Kangxi 火: 府兵十人爲火 etc.]];
+    - _(1)k(a/) (2)fo_
+        [[gaa1 fo2 家伙]],
+        household furniture;
+    - _(2)fo (4)t(')au_
+        [[fo2 tau4-2 伙頭]],
+        a cook;
+    - _(2)fo (2)tsai_
+        [[fo2 zai2 伙仔]],
+        a scullion;
+    - _(2)fo (2)ch(e/)ung_
+        [[fo2 zoeng2 伙長]],
+        chief mate;
+    - _(i/)(6) (2)fo_
+        [[ji6 fo2 二伙]]^
+        second mate;
+    - _(2)h(o\) (1)k(a/) (2)fo_
+        [[hou2 gaa1 fo2 好家伙]],
+        well, pleasing, handsome;
+        also used in irony, as detestable, badly, done.
+    ==
+  ====
+C
+  ==
+  - Williams' 進伙: Corrected _(1)tsun_ (zeon1) to _tsun(3)_ (zeon3).
+    Note that the preferred term in Cantonese is 入伙.
+  - Williams' "A company of ten in the army":
+    This sense should probably be spelt 火 rather than 伙.
+  ==
+P
+  ++
+  1. Meals, especially communal meals.
+  ++
+E
+  ====
+  - 【弊家伙】 (bai6 gaa1 fo2): <## TODO: perhaps move under $弊bai6 ##>
+    ++
+    1. An interjectory expression used in response to something going wrong.
+    ++
+  - 【家伙】 (gaa1 fo2, gaa1 fo2-1):
+    ++
+    1. A mild intensifier for interrogatives.
+       ==
+       - 做乜家伙 (zou6 mat1 gaa1 fo2): "What the crap [are you] doing?"
+       - 咩家伙啊 (me1 gaa1 fo2-1 a3): "What on earth [is this]?"
+       ==
+    ++
+  ====
+$$
 
 ### 火2 | _(2)Fo_ [[fo2]]
 
@@ -212,9 +294,7 @@ W
     - _(2)fo (1)ts(')(e/)ung_
         [[fo2 coeng1 火鎗]],
         fire-arms;
-    - _~~(1)tsun~~ ``tsun(3)`` (2)fo_
-        [[zeon3 fo2 進伙]], <## TODO: $伙fo2 ##>
-        to move to a new house;
+    - [[...]];
     - _ts(e/)(3) ``(2)``fo_
         [[ze3 fo2 借火]],
         trouble you for a light;
@@ -264,6 +344,9 @@ W
         [[fo2 geoi1 dou6 si6-2 火居道士]]
         a sect among the T(a/)uists.
     ==
+    --
+    [[Otherwise, an alternative form of 伙. **See $伙fo2 for the canonical entry.**]]
+    --
   ====
 C
   ==

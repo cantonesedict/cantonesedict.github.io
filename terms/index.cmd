@@ -170,6 +170,9 @@ window.onload = applyFilter;
     , bai3 ai3
     , [贔屭](/entries/ai#cantonese-贔屭)
   //
+    , bai6 gaa1 fo2
+    , [弊家伙](/entries/fo#cantonese-弊家伙)
+  //
     , biu1 ceng1
     , [標青](/entries/cing#cantonese-標青)
   //
@@ -613,6 +616,12 @@ window.onload = applyFilter;
   //
     , fo2 zuk1 ce1
     , [火燭車](/entries/zuk#cantonese-火燭車)
+  //
+    , gaa1 fo2
+    , [家伙](/entries/fo#cantonese-家伙)
+  //
+    , gaa1 fo2-1
+    , [家伙](/entries/fo#cantonese-家伙)
   //
     , gaa1 ze2-1
     , [家姐](/entries/ze#cantonese-家姐)
