@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fo
-* %date-modified --> 2025-12-01
+* %date-modified --> 2025-12-02
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [fo1](#1)
+- [fo2](#2)
 ==
 </nav>
 <## /tones ##>
@@ -160,4 +161,136 @@ C
   - Fan Wan entry: Corrected missing/blurred strokes in 體.
   - Williams' 雷公魚: Corrected _(4)lui_ to _(4)l(u/)i_.
   ==
+$$
+
+
+##{#2 .williams} (2)Fo [[fo2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways">
+=={.modern}
+- $火2
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 火2 | _(2)Fo_ [[fo2]]
+
+$$
+R
+  ⽕ + 0
+U
+  U+706B
+F
+  ==
+  - (F2.60 火) ::水火五行之一[燒]炙物也::
+  ==
+W
+  ====
+  - [[Page~54 (2)火]]
+    ==
+    - Fire, flame [[Kangxi: 火燬也南方之行炎而上]];
+    - to burn, to consume [[Kangxi: 火化也消化物也 etc.]];
+    - _(2)fo chuk(7)_
+        [[fo2 zuk1 火燭]]
+        a conflagration;
+    - _(2)fo (1)f(a/)_
+        [[fo2 faa1 火花]],
+        a spark;
+    - _(2)fo ~~(1)(i/)m~~ ``(i/)m(6)``_
+        [[fo2 jim6 火焰]],
+        a flame;
+    - _kau(3) (2)fo_
+        [[gau3 fo2 救火]],
+        to put out conflagration;
+    - _shat(7) (2)fo_
+        [[sat1 fo2 失火]],
+        to catch fire;
+    - _(2)t(')ai (2)fo shik(7)_
+        [[tai2 fo2 sik1 睇火色]]
+        watch how the fire is, see the blaze!
+    - _(2)fo (1)ts(')(e/)ung_
+        [[fo2 coeng1 火鎗]],
+        fire-arms;
+    - _~~(1)tsun~~ ``tsun(3)`` (2)fo_
+        [[zeon3 fo2 進伙]], <## TODO: $伙fo2 ##>
+        to move to a new house;
+    - _ts(e/)(3) ``(2)``fo_
+        [[ze3 fo2 借火]],
+        trouble you for a light;
+    - _(5)m(o\) (2)fo (2)chung_
+        [[mou5 fo2 zung2 冇火種]],
+        'no fire-seed,' poor;
+    - _(2)fo shek(9) (2)fan_,
+        [[fo2 sek6 fan2 火石粉]]
+        chalk;
+    - _(2)fo (4)sh(u:)n_
+        [[fo2 syun4 火船]],
+        a steamer;
+    - _(2)fo ~~sik(9)~~ ``sik(7)``_
+        [[fo2 sik1 火熄]]
+        the fire is out;
+    - _(2)fo p(')i(u/)(3)_
+        [[fo2 piu3 火票]]
+        an urgent warrant;
+    - _~~(5)m(o\)~~ ``(4)m(o\)`` (4)ming (2)fo_
+        [[mou4 ming4 fo2 無名火]],
+        causeless anger;
+    - _(2)fo (2)keng_
+        [[fo2 geng2 火頸]],
+        testy;
+    - _(2)fo (2)p(a/)_
+        [[fo2 baa2 火把]],
+        a torch;
+    - _(2)fo (1)l(o\)_
+        [[fo2 lou1 火撈]],
+        soot;
+    - _(2)fo (5)yan_
+        [[fo2 jan5 火引]],
+        a match;
+    - _(2)fo h(i/)(3)_
+        [[fo2 hei3 火氣]]
+        fiery, feverish ;
+    - _(2)t(a/) (2)fo_
+        [[daa2 fo2 打火]],
+        to strike a fire;
+    - _(2)fo ~~(2)f(a/)~~ ``f(a/)(3)``_
+        [[fo2 faa3 火化]],
+        burned up;
+    - _(5)mai ~~(5)shai~~ ``(2)shai`` (2)fo h(i/)(3)_
+        [[mai5 sai2 fo2 hei3 咪使火氣]]
+        ~~do n't~~ ``don't`` be so hasty;
+    - _(2)fo (1)k(u:) t(o\)(6) sz'(6)_
+        [[fo2 geoi1 dou6 si6-2 火居道士]]
+        a sect among the T(a/)uists.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed missing strokes in 燒.
+  - Williams' 火焰: Corrected _(1)(i/)m_ (jim1) to _(i/)m(6)_ (jim6).
+  - Williams' 火船: Dated.
+  - Williams' 火熄: Corrected _sik(9)_ (sik6) to _sik(7)_ (sik1).
+  - Williams' 無名火: Corrected _(5)m(o\)_ (mou5) to _(4)m(o\)_ (mou4).
+  - Williams' 火引: Perhaps better rendered "a kindler".
+  - Williams' 火化: Corrected _(2)f(a/)_ (faa2) to _f(a/)(3)_ (faa3). Cremation.
+  - Williams' 咪使火氣: Corrected _(5)shai_ (sai5) to _(2)shai_ (sai2).
+  ==
+P
+  ++
+  1. The 86th~radical ("fire").
+  1. Internal "fire" (or "heat") in Chinese medicine.
+  ++
+E
+  ====
+  - 【火】 (fo2):
+    ++
+    1. A watt (of power).
+       ==
+       - 幾多火 (gei2 do1 fo2): "How many watts?"
+       - 六十火 (luk6 sap6 fo2): "Sixty watts."
+       ==
+    ++
+    <## TODO: 易過借火 under $易ji6 ##>
+  ====
 $$
