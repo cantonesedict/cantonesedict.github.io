@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [fo1](#1)
 - [fo2](#2)
+- [fo3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -492,4 +493,63 @@ C
   - Williams' "clod": This is a significantly separate sense.
     It should be separated from "A little head" by a semicolon.
   ==
+$$
+
+
+##{#3 .williams} Fo(3) [[fo3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways">
+=={.modern}
+- $貨3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 貨3 | _Fo(3)_ [[fo3]]
+
+$$
+R
+  ⾙ + 4
+U
+  U+8CA8
+F
+  ==
+  - (F2.61 貨) 貨財凡物可交易皆曰貨
+  ==
+W
+  ====
+  - [[Page~54 貨(3)]]
+    ==
+    - Goods, merchandise, commodities``, things of value or utility`` [[Kangxi: 財也, 貨寶用物, etc.]];
+    - to trade``, to buy, to sell [[Kangxi: 貨賣也]]``;
+    - to bribe [[Kangxi: 賂也]];
+    - _fo(3) mat(9)_
+        [[fo3 mat6 貨物]]
+        goods;
+    - _fo(3) (4)ts(')oi_
+        [[fo3 coi4 貨財]],
+        property, capital;
+    - _~~(a/)p(8)~~ ``(a/)t(8)`` fo(3)_
+        [[aat3 fo3 押貨]]
+        to go with cargo to a ship;
+    - _fo(3) (4)t(')au_
+        [[fo3 tau4 貨頭]],
+        prime goods;
+    - _fo(3) l(o\)(6)_
+        [[fo3 lou6 貨賂]]
+        to bribe;
+    - _fo(3) shik(7)_
+        [[fo3 sik1 貨色]]
+        quality of goods.
+    ==
+  ====
+C
+  ==
+  - Williams' 押貨: Normalised _(a/)p(8)_ (aap3) to _(a/)t(8)_ (aat3).
+  ==
+P
+  ++
+  1. Currency.
+  ++
 $$
