@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fo
-* %date-modified --> 2025-12-02
+* %date-modified --> 2025-12-03
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -172,6 +172,7 @@ $$
 - $伙2
 - $夥2
 - $火2
+- $顆2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -434,4 +435,38 @@ E
     ++
     <## TODO: 易過借火 under $易ji6 ##>
   ====
+$$
+
+### 顆2 | _(2)Fo_ [[fo2]]
+
+$$
+R
+  ⾴ + 8
+U
+  U+9846
+A
+  ==
+  - 堁 (for "clod" sense)
+  ==
+F
+  ==
+  - (F2.60 顆) 小頭物也一顆猶一個一粒也
+  ==
+W
+  ====
+  - [[Page~54 (2)顆]]
+    ==
+    - A little head [[Kangxi: 小頭也]] ~~or clod~~;
+    - ``a clod [[Kangxi: 與堁同土塊 etc.]];``
+    - classifier of beads, shot, pearls, and round things [[Kangxi: 今言物一顆猶一頭也, 凡圜物以顆計又珠琲曰顆]];
+    - _(2)k(i/) (1)to (2)fo_
+        [[gei2 do1 fo2 幾多顆]],
+        how many of them?
+    ==
+  ====
+C
+  ==
+  - Williams' "clod": This is a significantly separate sense.
+    It should be separated from "A little head" by a semicolon.
+  ==
 $$
