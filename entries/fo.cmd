@@ -170,6 +170,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $伙2
+- $堁2
 - $夥2
 - $火2
 - $顆2
@@ -280,6 +281,28 @@ E
        ==
     ++
   ====
+$$
+
+###+ 堁2 | _(2)Fo_ [[fo2]]
+
+$$
+R
+  ⼟ + 8
+U
+  U+5801
+V
+  ==
+  - fo3 (alternative per 《廣韻》苦卧切 for "dust-rising" sense)
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Dust rising (Kangxi: 塵起貌).
+  1. Alternative form of 顆 (for the "clod" sense). **See $顆fo2 for the canonical entry.**
+  ++
 $$
 
 ### 夥2 | _(2)Fo_ [[fo2]]
@@ -446,7 +469,7 @@ U
   U+9846
 A
   ==
-  - 堁 (for "clod" sense)
+  - $堁2 (for "clod" sense)
   ==
 F
   ==
