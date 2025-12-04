@@ -1154,8 +1154,8 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - {$窠caau4, $窠fo1}
       - $窟fat1
+      - $窠fo1
       ==
       </nav>
   //
