@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fo
-* %date-modified --> 2025-12-03
+* %date-modified --> 2025-12-04
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -501,10 +501,65 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $課3
 - $貨3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 課3 | _Fo(3)_ [[fo3]]
+
+$$
+R
+  ⾔ + 8
+U
+  U+8AB2
+F
+  ==
+  - (F2.61 課) 說課又試也第也計也程也
+  ==
+W
+  ====
+  - [[Page~54 課(3)]]
+    ==
+    - A plan, an example, a task, an exercise;
+    - literary pursuits;
+    - to essay, to try``, to test, to assess`` [[Kangxi: 試也 etc.]];
+    - to counsel, to deliberate;
+    - to exhort;
+    - to examine;
+    - ~~a poll~~ tax [[Kangxi: 稅也]];
+    - _~~(1)k(o/)~~ ``(1)k(o\)`` fo(3) (4)ngan_
+        [[gou1 fo3 ngan4 ？課銀]],
+        allowance given students;
+    - _fo(3) (4)man_
+        [[fo3 man4 課文]],
+        to criticise compositions;
+    - _(u/)i(6) fo(3)_
+        [[wui6 fo3 會課]]
+        to hold a concourse for writing;
+    - _(u:)t(9) fo(3)_
+        [[jyut6 fo3 月課]]
+        monthly trial for composition;
+    - _(1)kung fo(3)_
+        [[gung1 fo3 功課]]
+        a stint of work;
+    - _~~yat(7)~~ ``yat(9)`` fo(3)_
+        [[jat6 fo3 日課]]
+        a daily task, or lesson.
+    ==
+  ====
+C
+  ==
+  - Williams' "to deliberate": This is a dubious rendering of Kangxi 議也 (which is admittedly unhelpful).
+  - Williams' 功課: Now "homework".
+  - Williams' 日課: Corrected _yat(7)_ (jat1) to _yat(9)_ (jat6).
+  ==
+P
+  ++
+  1. To compute (Kangxi: 計也程也).
+  ++
+$$
 
 ### 貨3 | _Fo(3)_ [[fo3]]
 
