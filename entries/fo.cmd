@@ -50,6 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $科1
+- $窠1
 - $蝌1
 ==
 </nav>
@@ -127,6 +128,60 @@ P
   1. A pit, a hole (Kangxi: 坎也).
   1. To sentence, to punish (Kangxi: 科斷也 etc.).
   ++
+$$
+
+### 窠1 | _(1)Fo_ [[fo1]]
+
+$$
+R
+  ⽳ + 8
+U
+  U+7AA0
+V
+  ==
+  - wo1 (per Fan Wan, common)
+  ==
+F
+  ==
+  - (F2.59 ::[窠]:: _(1)Wo_ (wo1)) ::鳥在木曰巢在穴曰[窠]::
+  ==
+W
+  ====
+  - [[Page~30|n73 (4)窠 _(4)Ch(')(a/)u_ (caau4); here corrected to _(1)Fo_ (fo1)]]
+    ==
+    - A nest in a cave [[Kangxi: 穴中曰窠樹上曰巢]].
+    ==
+    --
+    Erroneously read _(1)wo_ [[wo1]] in the Fan Wan.
+    --
+    --
+    [[...]]
+    --
+  - [[Page~714 (1)窠]]
+    ==
+    - A hole [[Kangxi: 空也]];
+    - a nest in the ground or a ~~cliff~~ ``cave``;
+    - ~~a nest of clay;~~
+    - a burrow;
+    - a roost of pheasants [[Kangxi: 雞雉所乳謂之窠]];
+    - _(2)sh(u:) (5)ni(u/) (4)t(')ung (1)fo_
+        [[syu2 niu5 tung4 fo1 鼠鳥同窠]],
+        rats and birds in the same nest, _i.~e._ all villains in that place.
+    ==
+    --
+    This is sometimes pronounced _(1)wo_ [[wo1]].
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword 窼 to 窠.
+  - Williams' "Erroneously": In the sense that it deviates from Middle Chinese 苦禾切.
+  ==
+S
+  ==
+  - $窠caau4
+  - $窠wo1 (TODO)
+  ==
 $$
 
 ### ~~蚪~~``蝌``1 | _(1)Fo_ [[fo1]]
