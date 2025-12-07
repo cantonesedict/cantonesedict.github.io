@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fok
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-12-07
 * %copyright-prior-years --> "2023, "
 
 %%%
-
---{.modern}
-(From Page~54 of the original onwards.)
---
 
 #{.williams} Fok. [[fok]]
 
@@ -21,3 +17,25 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - Fok. [[Page~54]]
+  ==
+WP
+  ==
+  - Fok <span class="modern">= *[fɔːk̚]</span>
+  ==
+MP
+  ==
+  - fok = [fɔːk̚]
+  ==
+$$
