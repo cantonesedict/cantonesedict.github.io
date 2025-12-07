@@ -39,3 +39,5 @@ MP
   - fok = [fɔːk̚]
   ==
 $$
+
+<## TODO: $擴kwok3 per 《集韻》闊鑊切 `06047209.cn_0025.png`, kwong3 common, gwok3 ##>
