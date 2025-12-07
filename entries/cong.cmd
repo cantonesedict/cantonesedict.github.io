@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cong
-* %date-modified --> 2025-11-23
+* %date-modified --> 2025-12-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -913,14 +913,39 @@ $$
 
 ### 床4 | _(4)Ch(')ong_ [[cong4]]
 
-$$
+$$.
 R
   ⼴ + 4
 U
   U+5E8A
+F
+  ==
+  - (F1.97 床) ::臥[榻]::
+  - (F1.97 牀) 同上
+  ==
+W
+  ====
+  - [[Page~28* (4)床(4)牀]]
+    --
+    [[Alternative form of 牀. **See $牀cong4 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 㮼 to 榻.
+  ==
+$$
+
+### 牀4 | _(4)Ch(')ong_ [[cong4]]
+
+$$
+R
+  ⽙ + 4
+U
+  U+7240
 A
   ==
-  - $牀4
+  - $床4
   ==
 F
   ==
@@ -938,55 +963,30 @@ W
     - a well-curb;
     - a measure of 8~cubits [[Kangxi 牀: 八尺曰牀]];
     - _yat(7) (4)ch(')ong (5)p(')(i/) yuk(9)_
-        [[jat1 cong4 pei5 juk6 一床被褥]]
+        [[jat1 cong4 pei5 juk6 一牀被褥]]
         mattrass, sheets, all complete;
     - _(1)p(')(o\) (4)ch(')ong_
-        [[pou1 cong4 鋪床]],
+        [[pou1 cong4 鋪牀]],
         make the bed;
     - _yat(7) (1)ch(e/)ung (4)ch(')ong_
-        [[jat1 zoeng1 cong4 一張床]],
+        [[jat1 zoeng1 cong4 一張牀]],
         a bed;
     - _t(a/)i(6) (4)ch(')ong_
-        [[daai6 cong4 大床]],
+        [[daai6 cong4 大牀]],
         a double bedstead;
     - _k(')ong(3) (4)ch(')ong_
-        [[kong3 cong4 匟床]],
+        [[kong3 cong4 匟牀]],
         the couch of honor in a hall;
     - _(4)ch(')ong (1)p(')(o\)_
-        [[cong4 pou1 床鋪]],
+        [[cong4 pou1 牀鋪]],
         bedding;
     - _kwai(3) (1)f(i/) (4)ch(')ong_
-        [[gwai3 fei1 cong4 貴妃床]],
+        [[gwai3 fei1 cong4 貴妃牀]],
         a couch with rolling ends;
     - _(5)sh(e/)ung (4)ch(')ong_
-        [[soeng5 cong4 上床]],
+        [[soeng5 cong4 上牀]],
         to go to bed.
     ==
-  ====
-C
-  ==
-  - Fan Wan entry: Corrected 㮼 to 榻.
-  ==
-$$
-
-### 牀4 | _(4)Ch(')ong_ [[cong4]]
-
-$$.
-R
-  ⽙ + 4
-U
-  U+7240
-F
-  ==
-  - (F1.97 床) ::臥[榻]::
-  - (F1.97 牀) 同上
-  ==
-W
-  ====
-  - [[Page~28* (4)床(4)牀]]
-    --
-    [[Alternative form of 床. **See $床cong4 for the canonical entry.**]]
-    --
   ====
 C
   ==
