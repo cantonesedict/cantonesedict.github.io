@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of Cantonese terms by Jyutping
-* %date-modified --> 2025-12-02
+* %date-modified --> 2025-12-07
 * %copyright-prior-years --> 2023--
 * %meta-description --> searchable index of Cantonese terms by Jyutping
 
@@ -229,6 +229,9 @@ window.onload = applyFilter;
   //
     , caang4 ngaan5
     , [{𥋇=⿰目掌}眼](/entries/caang#cantonese-𥋇眼)
+  //
+    , caap3
+    , [插](/entries/caap#cantonese-插)
   //
     , caap3 zong1 gaa3 wo6
     , [插贓嫁禍](/entries/caap#cantonese-插贓嫁禍)
