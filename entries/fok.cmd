@@ -52,6 +52,7 @@ $$
 =={.modern}
 - $攫3
 - $矍3
+- $縛3
 - $躩3
 ==
 </nav>
@@ -124,6 +125,34 @@ P
   ++
   1. A surname (Kangxi: 姓).
   ++
+$$
+
+### 縛3 | _Fok(8)_ [[fok3]]
+
+$$.
+R
+  ⽷ + 10
+U
+  U+7E1B
+F
+  ==
+  - (F1.103 ::[縛]::) ::綁[縛]::
+  ==
+W
+  ====
+  - [[Page~55 縛(8)]]
+    --
+    [[Reading variation. **See $縛bok3 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed extra stroke in headword 縛.
+  ==
+S
+  ==
+  - $縛bok3 (TODO)
+  ==
 $$
 
 ### 躩3 | _Fok(8)_ [[fok3]]
