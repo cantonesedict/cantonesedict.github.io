@@ -55,6 +55,7 @@ $$
 - $縛3
 - $躩3
 - $钁3
+- $霍3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -217,4 +218,46 @@ W
       made of wood, edged with iron.
     ==
   ====
+$$
+
+### 霍3 | _Fok(8)_ [[fok3]]
+
+$$
+R
+  ⾬ + 8
+U
+  U+970D
+A
+  ==
+  - 靃
+  ==
+F
+  ==
+  - (F1.103 霍) 姓
+  ==
+W
+  ====
+  - [[Page~55 霍(8)]]
+    ==
+    - Speed, celerity, agility [[揮霍, 揮霍猝遽也, 揮霍疾貌]];
+    - a surname [[Kangxi: 姓]];
+    - a range of mountains [[Kangxi: 山名 etc.]] ~~in H(u/)peh [[湖北]]~~, the Atlas of China [[Kangxi: 卽天柱山]];
+    - _fok(8) l(u:)n(6) ching(3)_
+        [[fok3 lyun6 zing3 霍亂症]]
+        the cholera or bilious colic;
+    - _fok(8) (4)(i/)n_
+        [[fok3 jin4 霍然]],
+        quick, like flying clouds.
+    ==
+  ====
+C
+  ==
+  - Williams' "in H(u/)peh": This is dubious.
+    Kangxi has an extended note discussing whether there are multiple mountains called 霍.
+    Of the candidates, 衡山 is in 湖南, while 天柱山 is in 安徽.
+  ==
+P
+  ++
+  1. To dissipate, to disperse (Kangxi: 霍焉猶渙焉也).
+  ++
 $$

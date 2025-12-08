@@ -552,6 +552,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $霏fei1
+      - $霍fok3
       - $霑zim1
       - $霔zyu3
       ==
