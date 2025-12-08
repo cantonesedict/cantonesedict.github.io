@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fok
-* %date-modified --> 2025-12-07
+* %date-modified --> 2025-12-08
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -50,10 +50,42 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $攫3
 - $躩3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 攫3 | _Fok(8)_ [[fok3]]
+
+$$
+R
+  ⼿ + 20
+U
+  U+652B
+V
+  ==
+  - gwok3 (per 《廣韻》居縛切)
+  ==
+F
+  ==
+  - (F1.103 攫) ::[爪]持也[撲]取也::
+  ==
+W
+  ====
+  - [[Page~54 攫(8)]]
+    ==
+    - To grasp with the talons or claws [[Kangxi: 扟也, 撲取也, 以腳取之謂之攫以翼擊之謂之搏, 一曰持也]];
+    - _fok(8) (2)ts(')(u:)_
+        [[fok3 ceoi2 攫取]],
+        to seize by force, to get anyhow.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected incomplete 瓜 to 爪, and fixed missing stroke in 撲.
+  ==
+$$
 
 ### 躩3 | _Fok(8)_ [[fok3]]
 
