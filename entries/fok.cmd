@@ -53,6 +53,7 @@ $$
 - $攫3
 - $矍3
 - $縛3
+- $藿3
 - $躩3
 - $钁3
 - $霍3
@@ -155,6 +156,30 @@ S
   ==
   - $縛bok3 (TODO)
   ==
+$$
+
+### 藿3 | _Fok(8)_ [[fok3]]
+
+$$
+R
+  ⾋ + 16
+U
+  U+85FF
+F
+  ==
+  - (F1.103 藿) 藿香草名
+  ==
+W
+  ====
+  - [[Page~55 藿(8)]]
+    ==
+    - Leaves ``or young sprouts`` of pulse [[Kangxi: 尗之少也, 藿豆葉]], used as food;
+    - ~~greens in general;~~
+    - _fok(8) (1)h(e/)ung_
+        [[fok3 hoeng1 藿香]],
+        the _Betonica officinalis_ used in colic.
+    ==
+  ====
 $$
 
 ### 躩3 | _Fok(8)_ [[fok3]]
