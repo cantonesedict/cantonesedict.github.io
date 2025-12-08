@@ -51,6 +51,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $攫3
+- $矍3
 - $躩3
 ==
 </nav>
@@ -85,6 +86,44 @@ C
   ==
   - Fan Wan entry: Corrected incomplete 瓜 to 爪, and fixed missing stroke in 撲.
   ==
+$$
+
+### 矍3 | _Fok(8)_ [[fok3]]
+
+$$
+R
+  ⽬ + 15
+U
+  U+77CD
+V
+  ==
+  - gwok3 (per 《廣韻》居縛切)
+  ==
+F
+  ==
+  - (F1.103 矍) 矍鑠輕徤貌
+  ==
+W
+  ====
+  - [[Page~54 矍(8)]]
+    ==
+    - The fluttering of a bird when caught [[Kangxi: 隹欲逸走也]];
+    - looking right and left ``in fear`` [[Kangxi: 左右驚顧也]];
+    - to glance the eyes about quickly [[Kangxi: 一曰視遽貌, 不專視之容, 目不正也]];
+    - _fok(8) ~~y(e/)uk(8)~~ ``sh(e/)uk(8)``_
+        [[fok3 soek3 矍鑠]]
+        active;
+        said of an old man [[Kangxi: 矍鑠輕健貌]].
+    ==
+  ====
+C
+  ==
+  - Williams' 矍鑠: Corrected _y(e/)uk(8)_ (joek3) to _sh(e/)uk(8)_ (soek3).
+  ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 $$
 
 ### 躩3 | _Fok(8)_ [[fok3]]
