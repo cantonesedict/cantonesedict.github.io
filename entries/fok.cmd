@@ -54,6 +54,7 @@ $$
 - $矍3
 - $縛3
 - $躩3
+- $钁3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -191,4 +192,29 @@ P
   ++
   1. To jump (Kangxi: 躩跳也).
   ++
+$$
+
+### 钁3 | _Fok(8)_ [[fok3]]
+
+$$
+R
+  ⾦ + 20
+U
+  U+9481
+V
+  ==
+  - gwok3 (per 《廣韻》居縛切)
+  ==
+F
+  ==
+  - (F1.103 钁) 鋤頭
+  ==
+W
+  ====
+  - [[Page~55 钁(8)]]
+    ==
+    - A large hoe or mattock [[Kangxi: 大鉏也 etc.]],
+      made of wood, edged with iron.
+    ==
+  ====
 $$
