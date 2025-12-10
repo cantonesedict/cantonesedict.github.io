@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fok
-* %date-modified --> 2025-12-08
+* %date-modified --> 2025-12-10
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -50,6 +50,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
+- $攉3
 - $攫3
 - $矍3
 - $縛3
@@ -60,6 +61,43 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 攉3 | _Fok(8)_ [[fok3]]
+
+$$
+R
+  ⼿ + 16
+U
+  U+6509
+F
+  ==
+  - (F1.103 攉) 手反覆也搖手曰揮反手曰攉
+  ==
+W
+  ====
+  - [[Page~55 攉(8)]]
+    ==
+    - To ~~recall one with~~ ``flip over`` the hand [[Kangxi: 手反覆也]];
+    - to motion ~~back~~ with the hand [[Kangxi: 搖手曰揮反手曰攉]];
+    - ~~to fan;~~
+    - _h(i/)(3) fok(8)_
+        [[hei3 fok3 戲攉]]
+        to make a fool of;
+    - _fok(8) (2)shau_
+        [[fok3 sau2 攉手]],
+        to shake the hand.
+    ==
+  ====
+C
+  ==
+  - Williams' 攉手: More specifically, to shake about the axis of the arm
+    (in the same way that shaking the head is about the axis of the neck).
+  ==
+S
+  ==
+  - $攉kok3 (TODO) <## alternative form of 榷 (alongside 搉) ##>
+  ==
+$$
 
 ### 攫3 | _Fok(8)_ [[fok3]]
 
