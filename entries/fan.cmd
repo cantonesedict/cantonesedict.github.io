@@ -555,14 +555,14 @@ $$
 
 ### 棼1 | _(1)Fan_ [[fan1]]
 
-$$.
+$$
 R
   ⽊ + 8
 U
   U+68FC
 V
   ==
-  - fan4 (per 《廣韻》符分切)
+  - fan4 (per Kangxi 符分切)
   ==
 F
   ==
@@ -572,12 +572,20 @@ F
 W
   ====
   - [[Page~46 (1)棼]]
+    ==
+    - [[...]];
+    - confused, disordered, complicated [[Kangxi 棼: 亂也]];
+    - [[...]].
+    ==
     --
-    [[Alternative form of 紛 (for the "confused" and "many" senses). **See $紛fan1 for the canonical entry.**]]
+    [[Alternative form of 紛 (for the "confused" and "many" senses). See $紛fan1.]]
     --
   ====
 C
   ==
+  - Kangxi has this sense under the reading 符分切 _(4)fan_ (fan4).
+    In my opinion, this is dubious, as 《廣韻》符分切 is explained 複屋棟也,
+    which is unrelated to confusion/disorder.
   - Fan Wan entry: Fixed missing strokes in 衆 and 亂.
   ==
 S
@@ -895,12 +903,6 @@ F
   ==
 W
   ====
-  - [[Page~46 (1)棼; here normalised to 紛]]
-    ==
-    - [[...]];
-    - confused, disordered, complicated [[Kangxi 棼: 亂也]];
-    - [[...]].
-    ==
   - [[Page~46 (1)紛]]
     ==
     - A variegated ribbon [[Kangxi: 紛如綬有文而狹者也]];
@@ -1746,7 +1748,7 @@ W
   ====
 S
   ==
-  - ($棼fan1)
+  - $棼fan1
   ==
 $$
 
