@@ -93,7 +93,7 @@ RegexDictionaryReplacement: #.syntax.entry-key-abbreviations
                 ,{.modern}
 * ^P$ --> ; Conway's supplementary entry
                 ,{.modern}
-* ^L$ --> ; Conway's literary translation
+* ^L$ --> ; Conway's literary rendering
                 ,{.modern}
 * ^E$ --> ; Conway's Cantonese entry
                 ,{.modern}
