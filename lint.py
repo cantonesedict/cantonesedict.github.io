@@ -887,15 +887,18 @@ class CmdIdioms:
         )
 
     @staticmethod
-    def lint_see_also_link_order(see_also_links: list[str]):
+    def lint_see_also_link_order(see_also_links: list['SeeAlsoLink']):
         if see_also_links is None:
             return
 
-        if len(set(see_also_links)) < len(see_also_links):
-            raise LintException(f'duplicates amongst see also links {see_also_links}')
+        jyutping_list = [see_also_link.jyutping for see_also_link in see_also_links]
+        content_list = [see_also_link.content for see_also_link in see_also_links]
 
-        if see_also_links != sorted(see_also_links):
-            raise LintException(f'see also links {see_also_links} not in sorted order')
+        if len(set(jyutping_list)) < len(jyutping_list):
+            raise LintException(f'duplicates amongst see also links {content_list}')
+
+        if jyutping_list != sorted(jyutping_list):
+            raise LintException(f'see also links {content_list} not in sorted order')
 
 
 class LintException(Exception):
@@ -1802,7 +1805,7 @@ class PageEntry:
     wh_williams_list: Optional[str]
     wp_williams_list: Optional[str]
     mp_jyutping_list: Optional[str]
-    see_also_links: Optional[list[str]]
+    see_also_links: Optional[list['SeeAlsoLink']]
 
     def __init__(self, page_content: str, page_heading_jyutping: str):
         if match := re.search(
@@ -1908,19 +1911,20 @@ class PageEntry:
         ]
 
     @staticmethod
-    def extract_see_also_links(content: Optional[str]) -> Optional[list[str]]:
+    def extract_see_also_links(content: Optional[str]) -> Optional[list['SeeAlsoLink']]:
         if content is None:
             return None
 
         return [
-            link
+            SeeAlsoLink(content, jyutping, character_content='')
             for match in re.finditer(
-                pattern=r'^ [ ]+ - [ ] (?P<link> \S+ )',
+                pattern=r'^ [ ]+ - [ ] (?P<content> \$ (?P<jyutping> [a-z]+ ) )',
                 flags=re.MULTILINE | re.VERBOSE,
                 string=content,
             )
             if (
-                link := match.group('link'),
+                content := match.group('content'),
+                jyutping := match.group('jyutping'),
             )
         ]
 
@@ -2020,7 +2024,7 @@ class CharacterEntry:
     alternative_forms: Optional[list['AlternativeForm']]
     reading_variations: Optional[list['ReadingVariation']]
     cantonese_entries: Optional[list['CantoneseEntry']]
-    see_also_links: Optional[list[str]]
+    see_also_links: Optional[list['SeeAlsoLink']]
 
     def __init__(self, heading_content: str, addition: str, character_run: str, tone_number: str, williams_run: str,
                  jyutping: str, non_canonical: str, entry_content: str, page_heading_jyutping: str):
@@ -2503,19 +2507,21 @@ class CharacterEntry:
         ]
 
     @staticmethod
-    def extract_see_also_links(content: Optional[str]) -> Optional[list[str]]:
+    def extract_see_also_links(content: Optional[str]) -> Optional[list['SeeAlsoLink']]:
         if content is None:
             return None
 
         return [
-            link
+            SeeAlsoLink(content, jyutping, character_content)
             for match in re.finditer(
-                pattern=r'^ [ ]+ - [ ] (?P<link> \S+ )',
+                pattern=r'^ [ ]+ - [ ] (?P<content> \$ (?P<character_content> \S+? ) (?P<jyutping> [a-z]+[1-6] ) )',
                 flags=re.MULTILINE | re.VERBOSE,
                 string=content,
             )
             if (
-                link := match.group('link'),
+                content := match.group('content'),
+                character_content := match.group('character_content'),
+                jyutping := match.group('jyutping'),
             )
         ]
 
@@ -2648,6 +2654,20 @@ class ReadingVariation:
         self.unchanged_jyutping = unchanged_jyutping
         self.effective_jyutping = effective_jyutping
         self.is_redirect_necessary = is_redirect_necessary
+
+
+class SeeAlsoLink:
+    content: str
+    character_content: str
+    jyutping: str
+
+    def __init__(self, content: str, jyutping: str, character_content: str):
+        self.content = content
+        self.character_content = character_content
+        self.jyutping = jyutping
+
+    def link_content(self) -> str:
+        return f'${self.character_content}{self.jyutping}'
 
 
 class CantoneseEntry:
@@ -2902,9 +2922,7 @@ class Linter:
                 continue
 
             for see_also_link in see_also_links:
-                other_jyutping = see_also_link.replace('$', '')
-
-                if other_jyutping == jyutping:
+                if (other_jyutping := see_also_link.jyutping) == jyutping:
                     raise LintException(f'self-referential see also link `${jyutping}`')
 
                 if (other_entry_page := entry_page_from_jyutping.get(other_jyutping)) is None:
@@ -2914,7 +2932,10 @@ class Linter:
                     continue
 
                 other_see_also_links = other_entry_page.page_entry.see_also_links
-                if other_see_also_links is None or f'${jyutping}' not in other_see_also_links:
+                if (
+                    other_see_also_links is None
+                    or f'${jyutping}' not in [other_link.link_content() for other_link in other_see_also_links]
+                ):
                     raise LintException(f'missing see also link `${jyutping}` under page entry for `{other_jyutping}`')
 
     @staticmethod
@@ -3203,23 +3224,12 @@ class Linter:
                 continue
 
             for see_also_link in see_also_links:
-                if not (other_link_match := re.fullmatch(
-                    pattern=r'\$ (?P<other_character_content> \S+? ) (?P<other_jyutping> [a-z]+[1-6] )',
-                    string=see_also_link,
-                    flags=re.VERBOSE,
-                )):
-                    raise LintException(f'bad see also link `{see_also_link}` under `{character_entry}`')
-
-                other_character_content = other_link_match.group('other_character_content')
-                other_jyutping = other_link_match.group('other_jyutping')
-
-                if other_jyutping == jyutping:
+                if (other_jyutping := see_also_link.jyutping) == jyutping:
                     raise LintException(f'self-referential see also link `{universal_link}` under `{character_entry}`')
 
-                other_character = CmdIdioms.strip_compositions(other_character_content)
-                if character != other_character:
+                if character != (other_character := CmdIdioms.strip_compositions(see_also_link.character_content)):
                     raise LintException(
-                        f'wrong character `{other_character}` in see also link `{see_also_link}` '
+                        f'wrong character `{other_character}` in see also link `{see_also_link.content}` '
                         f'under `{character_entry}`'
                     )
 
@@ -3229,7 +3239,10 @@ class Linter:
                     continue
 
                 other_see_also_links = other_character_entry.see_also_links
-                if other_see_also_links is None or universal_link not in other_see_also_links:
+                if (
+                    other_see_also_links is None
+                    or universal_link not in [other_link.link_content() for other_link in other_see_also_links]
+                ):
                     raise LintException(f'missing see also link `{universal_link}` under `{other_character_entry}`')
 
     @staticmethod
