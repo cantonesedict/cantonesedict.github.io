@@ -410,6 +410,13 @@ C
   ==
   - Williams' 啞謎: Changed _mai(6)_ (mai6) to common reading _(4)mai_ (mai4).
   ==
+L
+  ====
+  * 啞 (`'aeX`)
+    ==
+    - (_adjective-like_) dumb
+    ==
+  ====
 S
   ==
   - $啞aa1

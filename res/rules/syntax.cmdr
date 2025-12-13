@@ -270,6 +270,11 @@ FixedDelimitersReplacement: #.syntax.small-parenthetical
 - tag_name: small
 
 
+OrdinaryDictionaryReplacement: #.syntax.baxter-tones
+* X --> <sup>X</sup>
+* H --> <sup>H</sup>
+
+
 FixedDelimitersReplacement: #.syntax.baxter
 - queue_position: BEFORE #inline-code
 - syntax_type: INLINE
@@ -278,7 +283,9 @@ FixedDelimitersReplacement: #.syntax.baxter
 - prohibited_content: BLOCKS
 - closing_delimiter: `)
 - tag_name: span
-- concluding_replacements: #.syntax.round-bracket-wrap
+- concluding_replacements:
+    #.syntax.baxter-tones
+    #.syntax.round-bracket-wrap
 
 
 RegexDictionaryReplacement: #.syntax.link-abbreviations
