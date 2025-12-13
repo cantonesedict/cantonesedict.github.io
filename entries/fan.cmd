@@ -1728,7 +1728,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~46 (1)枌 _(1)Fan_ (fan1); here normalised to 棼 _(4)Fan_ (fan4)]]
+  - [[Page~46 (1)枌 _(1)Fan_ (fan1); here corrected to _(4)Fan_ (fan4) and normalised to 棼]]
     ==
     - [[...]];
     - a beam in a house [[Kangxi 枌: 通棼複屋棟也]];
