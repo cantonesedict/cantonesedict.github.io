@@ -1916,7 +1916,7 @@ class PageEntry:
             return None
 
         return [
-            SeeAlsoLink(content, jyutping, character_content='')
+            SeeAlsoLink(content, jyutping, character_content='', is_canonical=True)
             for match in re.finditer(
                 pattern=r'^ [ ]+ - [ ] (?P<content> \$ (?P<jyutping> [a-z]+ ) )',
                 flags=re.MULTILINE | re.VERBOSE,
@@ -2512,14 +2512,22 @@ class CharacterEntry:
             return None
 
         return [
-            SeeAlsoLink(content, jyutping, character_content)
+            SeeAlsoLink(content, jyutping, character_content, is_canonical)
             for match in re.finditer(
-                pattern=r'^ [ ]+ - [ ] (?P<content> \$ (?P<character_content> \S+? ) (?P<jyutping> [a-z]+[1-6] ) )',
+                pattern=r'''
+                    ^ [ ]+ - [ ]
+                    (?P<content>
+                        (?P<opening_bracket> \( )?
+                        \$ (?P<character_content> \S+? ) (?P<jyutping> [a-z]+[1-6] )
+                        (?(opening_bracket) \) )
+                    )
+                ''',
                 flags=re.MULTILINE | re.VERBOSE,
                 string=content,
             )
             if (
                 content := match.group('content'),
+                is_canonical := match.group('opening_bracket') is None,
                 character_content := match.group('character_content'),
                 jyutping := match.group('jyutping'),
             )
@@ -2657,11 +2665,13 @@ class ReadingVariation:
 
 
 class SeeAlsoLink:
+    is_canonical: bool
     content: str
     character_content: str
     jyutping: str
 
-    def __init__(self, content: str, jyutping: str, character_content: str):
+    def __init__(self, content: str, jyutping: str, character_content: str, is_canonical: bool):
+        self.is_canonical = is_canonical
         self.content = content
         self.character_content = character_content
         self.jyutping = jyutping
