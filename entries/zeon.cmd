@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2025-11-23
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -667,7 +667,7 @@ P
   ++
 S
   ==
-  - $儘zeon6
+  - ($儘zeon6)
   ==
 $$
 
@@ -837,7 +837,7 @@ W
   ====
 S
   ==
-  - $燼zeon6
+  - ($燼zeon6)
   ==
 $$
 
@@ -1225,7 +1225,7 @@ W
 S
   ==
   - $朘syun1 (TODO)
-  - $朘zyun1
+  - ($朘zyun1)
   ==
 $$
 
@@ -1553,7 +1553,7 @@ C
   ==
 S
   ==
-  - $鐫zyun1
+  - ($鐫zyun1)
   ==
 $$
 
@@ -1816,6 +1816,6 @@ E
   ====
 S
   ==
-  - $盡zeon2
+  - ($盡zeon2)
   ==
 $$

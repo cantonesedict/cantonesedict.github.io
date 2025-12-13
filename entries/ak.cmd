@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ak
-* %date-modified --> 2025-11-21
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -103,7 +103,7 @@ C
   ==
 S
   ==
-  - $厄aak1
+  - ($厄aak1)
   - $厄ngo5 (TODO) <## tree-knot ##>
   ==
 $$
@@ -213,7 +213,7 @@ C
   ==
 S
   ==
-  - $握aak1
+  - ($握aak1)
   ==
 $$
 
@@ -304,8 +304,8 @@ C
   ==
 S
   ==
-  - $阨aai3
-  - $阨aak1
+  - ($阨aai3)
+  - ($阨aak1)
   ==
 $$
 

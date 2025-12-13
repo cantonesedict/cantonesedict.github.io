@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyun
-* %date-modified --> 2025-11-17
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -233,7 +233,7 @@ P
   ++
 S
   ==
-  - $尊zeon1
+  - ($尊zeon1)
   ==
 $$
 
@@ -276,7 +276,7 @@ P
 S
   ==
   - $朘syun1 (TODO)
-  - $朘zeon3
+  - ($朘zeon3)
   ==
 $$
 
@@ -927,7 +927,7 @@ P
   ++
 S
   ==
-  - $鑽zyun1
+  - ($鑽zyun1)
   ==
 $$
 

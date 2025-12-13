@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2025-11-23
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -107,7 +107,7 @@ P
   ++
 S
   ==
-  - $呰ci4
+  - ($呰ci4)
   - $呰zi2
   ==
 $$
@@ -256,7 +256,7 @@ W
   ====
 S
   ==
-  - $疵ci4
+  - ($疵ci4)
   ==
 $$
 
@@ -1018,7 +1018,7 @@ P
   ++
 S
   ==
-  - $柿ci4
+  - ($柿ci4)
   - $柿ci5
   ==
 $$
@@ -1094,7 +1094,7 @@ W
   ====
 S
   ==
-  - $泚cai5
+  - ($泚cai5)
   - $泚zi2
   ==
 $$
@@ -1207,7 +1207,7 @@ W
   ====
 S
   ==
-  - $褫ci1
+  - ($褫ci1)
   ==
 $$
 
@@ -1849,7 +1849,7 @@ P
   ++
 S
   ==
-  - $蛓zi1
+  - ($蛓zi1)
   ==
 $$
 
@@ -1993,7 +1993,7 @@ W
   ====
 S
   ==
-  - $骴ci1
+  - ($骴ci1)
   ==
 $$
 
@@ -2053,7 +2053,7 @@ P
   ++
 S
   ==
-  - $呰ci1
+  - ($呰ci1)
   - $呰zi2
   ==
 $$
@@ -2083,7 +2083,7 @@ W
 S
   ==
   - $坻dai2 (TODO)
-  - $坻zi2
+  - ($坻zi2)
   ==
 $$
 
@@ -2151,7 +2151,7 @@ W
   ====
 S
   ==
-  - $弛ci2
+  - ($弛ci2)
   ==
 $$
 
@@ -2269,7 +2269,7 @@ W
   ====
 S
   ==
-  - $柿ci2
+  - ($柿ci2)
   - $柿ci5
   ==
 $$
@@ -3196,8 +3196,8 @@ C
   ==
 S
   ==
-  - $柿ci2
-  - $柿ci4
+  - ($柿ci2)
+  - ($柿ci4)
   ==
 $$
 

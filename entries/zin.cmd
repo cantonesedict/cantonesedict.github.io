@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2025-11-17
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -140,7 +140,7 @@ C
   ==
 S
   ==
-  - $戔caan4
+  - ($戔caan4)
   ==
 $$
 
@@ -334,7 +334,7 @@ W
   ====
 S
   ==
-  - $濺zaan3
+  - ($濺zaan3)
   - $濺zin3
   ==
 $$
@@ -736,7 +736,7 @@ W
   ====
 S
   ==
-  - $剗caan2
+  - ($剗caan2)
   ==
 $$
 
@@ -1181,7 +1181,7 @@ W
   ====
 S
   ==
-  - $闡cin2
+  - ($闡cin2)
   ==
 $$
 
@@ -1355,7 +1355,7 @@ C
   ==
 S
   ==
-  - $濺zaan3
+  - ($濺zaan3)
   - $濺zin1
   ==
 $$
@@ -1860,7 +1860,7 @@ W
   ====
 S
   ==
-  - $踐cin2
+  - ($踐cin2)
   - $踐cin5
   ==
 $$

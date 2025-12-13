@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -303,7 +303,7 @@ W
   ====
 S
   ==
-  - $摧ceoi4
+  - ($摧ceoi4)
   ==
 $$
 
@@ -688,7 +688,7 @@ C
   ==
 S
   ==
-  - $娶ceoi3
+  - ($娶ceoi3)
   ==
 $$
 
@@ -712,7 +712,7 @@ W
   ====
 S
   ==
-  - $惴cyun2
+  - ($惴cyun2)
   - $惴zeoi3
   ==
 $$
@@ -1031,8 +1031,8 @@ W
   ====
 S
   ==
-  - $蜡caa3
-  - $蜡laap6 (TODO) <## Use^d as a form of 臘 and 蠟 _l(a/)p(9)_ ##>
+  - ($蜡caa3)
+  - $蜡laap6 (TODO) <## Used as a form of 臘 and 蠟 _l(a/)p(9)_ ##>
   - $蜡zaa3
   ==
 $$
@@ -1190,7 +1190,7 @@ C
   ==
 S
   ==
-  - $厨cyu4
+  - ($厨cyu4)
   ==
 $$
 
@@ -1290,7 +1290,7 @@ C
   ==
 S
   ==
-  - $廚cyu4
+  - ($廚cyu4)
   ==
 $$
 
@@ -1526,7 +1526,7 @@ W
   ====
 S
   ==
-  - $滁cyu4
+  - ($滁cyu4)
   ==
 $$
 
@@ -1591,7 +1591,7 @@ C
   ==
 S
   ==
-  - $篨cyu4
+  - ($篨cyu4)
   ==
 $$
 
@@ -1621,7 +1621,7 @@ W
   ====
 S
   ==
-  - $蜍cyu4
+  - ($蜍cyu4)
   - $蜍syu4 (TODO)
   ==
 $$
@@ -1656,7 +1656,7 @@ C
   ==
 S
   ==
-  - $躕cyu4
+  - ($躕cyu4)
   ==
 $$
 
@@ -1823,7 +1823,7 @@ E
   ====
 S
   ==
-  - $除cyu4
+  - ($除cyu4)
   ==
 $$
 

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2025-11-23
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -147,7 +147,7 @@ W
 S
   ==
   - $浸zam3
-  - $浸zam6
+  - ($浸zam6)
   ==
 $$
 
@@ -665,7 +665,7 @@ P
 S
   ==
   - $湛zaam3
-  - $湛zam3
+  - ($湛zam3)
   ==
 $$
 

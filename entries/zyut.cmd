@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyut
-* %date-modified --> 2025-11-17
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -288,7 +288,7 @@ C
   ==
 S
   ==
-  - $拙zyut6
+  - ($拙zyut6)
   ==
 $$
 
@@ -443,8 +443,8 @@ P
   ++
 S
   ==
-  - $絀ceot1
-  - $絀zeot1
+  - ($絀ceot1)
+  - ($絀zeot1)
   ==
 $$
 
@@ -482,8 +482,8 @@ P
 S
   ==
   - $綴zeoi3
-  - $綴zeoi6
-  - $綴zyut6
+  - ($綴zeoi6)
+  - ($綴zyut6)
   ==
 $$
 
@@ -516,7 +516,7 @@ W
   ====
 S
   ==
-  - $茁zaat3
+  - ($茁zaat3)
   ==
 $$
 
@@ -568,7 +568,7 @@ P
   ++
 S
   ==
-  - $蕝cyut3
+  - ($蕝cyut3)
   ==
 $$
 
@@ -589,7 +589,7 @@ P
   ++
 S
   ==
-  - $蕞cyut3
+  - ($蕞cyut3)
   - $蕞zeoi3
   ==
 $$
@@ -762,7 +762,7 @@ P
 S
   ==
   - $綴zeoi3
-  - $綴zeoi6
+  - ($綴zeoi6)
   - $綴zyut3
   ==
 $$

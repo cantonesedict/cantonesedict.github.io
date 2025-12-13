@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fing
-* %date-modified --> 2025-11-24
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -76,8 +76,8 @@ S
   ==
   - $捹ban3 (TODO) <## alternative form of 擯 (to braid) alongside 鬢 ##>
   - $捹ban6 (TODO) <## authorised sense corrected from Williams ban3 ##>
-  - $捹fing3
-  - $捹fing6
+  - ($捹fing3)
+  - ($捹fing6)
   ==
 $$
 
@@ -111,7 +111,7 @@ W
 S
   ==
   - $揈fang4
-  - $揈fang6
+  - ($揈fang6)
   - $揈fing3
   - $揈fing6
   ==
@@ -151,8 +151,8 @@ S
   ==
   - $捹ban3 (TODO) <## alternative form of 擯 (to braid) alongside 鬢 ##>
   - $捹ban6 (TODO) <## authorised sense corrected from Williams ban3 ##>
-  - $捹fing1
-  - $捹fing6
+  - ($捹fing1)
+  - ($捹fing6)
   ==
 $$
 
@@ -189,7 +189,7 @@ C
 S
   ==
   - $揈fang4
-  - $揈fang6
+  - ($揈fang6)
   - $揈fing1
   - $揈fing6
   ==
@@ -230,8 +230,8 @@ S
   ==
   - $捹ban3 (TODO) <## alternative form of 擯 (to braid) alongside 鬢 ##>
   - $捹ban6 (TODO) <## authorised sense corrected from Williams ban3 ##>
-  - $捹fing1
-  - $捹fing3
+  - ($捹fing1)
+  - ($捹fing3)
   ==
 $$
 
@@ -328,7 +328,7 @@ E
 S
   ==
   - $揈fang4
-  - $揈fang6
+  - ($揈fang6)
   - $揈fing1
   - $揈fing3
   ==

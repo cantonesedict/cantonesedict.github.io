@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2025-11-17
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -118,7 +118,7 @@ P
   ++
 S
   ==
-  - $椎ceoi4
+  - ($椎ceoi4)
   ==
 $$
 
@@ -925,7 +925,7 @@ P
   ++
 S
   ==
-  - $冣zeoi6
+  - ($冣zeoi6)
   ==
 $$
 
@@ -965,8 +965,8 @@ P
   ++
 S
   ==
-  - $惴ceoi2
-  - $惴cyun2
+  - ($惴ceoi2)
+  - ($惴cyun2)
   ==
 $$
 
@@ -1087,9 +1087,9 @@ P
   ++
 S
   ==
-  - $綴zeoi6
+  - ($綴zeoi6)
   - $綴zyut3
-  - $綴zyut6
+  - ($綴zyut6)
   ==
 $$
 
@@ -1125,8 +1125,8 @@ W
   ====
 S
   ==
-  - $蕞cyut3
-  - $蕞zyut3
+  - ($蕞cyut3)
+  - ($蕞zyut3)
   ==
 $$
 
@@ -1257,7 +1257,7 @@ P
   ++
 S
   ==
-  - $冣zeoi3
+  - ($冣zeoi3)
   ==
 $$
 
@@ -1466,7 +1466,7 @@ S
   ==
   - $綴zeoi3
   - $綴zyut3
-  - $綴zyut6
+  - ($綴zyut6)
   ==
 $$
 

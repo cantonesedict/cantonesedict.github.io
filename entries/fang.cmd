@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fang
-* %date-modified --> 2025-11-24
+* %date-modified --> 2025-12-13
 * %copyright-prior-years -->
 
 %%%
@@ -85,7 +85,7 @@ E
   """"
 S
   ==
-  - $揈fang6
+  - ($揈fang6)
   - $揈fing1
   - $揈fing3
   - $揈fing6

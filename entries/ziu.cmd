@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2025-11-23
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -376,8 +376,8 @@ P
   ++
 S
   ==
-  - $炤ciu1
-  - $炤ziu3
+  - ($炤ciu1)
+  - ($炤ziu3)
   ==
 $$
 
@@ -717,7 +717,7 @@ P
   ++
 S
   ==
-  - $勦caau1
+  - ($勦caau1)
   - $勦caau4
   ==
 $$
@@ -807,8 +807,8 @@ W
   ====
 S
   ==
-  - $炤ciu1
-  - $炤ziu1
+  - ($炤ciu1)
+  - ($炤ziu1)
   ==
 $$
 
@@ -1176,7 +1176,7 @@ P
 S
   ==
   - $嚼zoek3
-  - $嚼zoek6
+  - ($嚼zoek6)
   ==
 $$
 

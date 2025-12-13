@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faan
-* %date-modified --> 2025-11-23
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -270,7 +270,7 @@ E
 S
   ==
   - $番bo1 (TODO)
-  - $番faan4
+  - ($番faan4)
   - $番po4 (TODO) <## (alternative form of $皤po4) ##>
   - $番pun1 (TODO)
   - $番pun4 (TODO)
@@ -302,7 +302,7 @@ W
   ====
 S
   ==
-  - $籓faan4
+  - ($籓faan4)
   ==
 $$
 
@@ -891,7 +891,7 @@ P
 S
   ==
   - $氾faan4
-  - $氾faan6
+  - ($氾faan6)
   ==
 $$
 
@@ -983,7 +983,7 @@ C
   ==
 S
   ==
-  - $泛faan6
+  - ($泛faan6)
   - $泛fung2 (TODO)
   ==
 $$
@@ -1109,7 +1109,7 @@ P
   ++
 S
   ==
-  - $販faan6
+  - ($販faan6)
   ==
 $$
 
@@ -1321,7 +1321,7 @@ P
 S
   ==
   - $氾faan3
-  - $氾faan6
+  - ($氾faan6)
   ==
 $$
 
@@ -1632,7 +1632,7 @@ W
   ====
 S
   ==
-  - $蕃faan1
+  - ($蕃faan1)
   - $蕃po4 (TODO) <## (alternative form of $皤po4) ##>
   ==
 $$
@@ -1688,7 +1688,7 @@ P
   ++
 S
   ==
-  - $藩faan1
+  - ($藩faan1)
   ==
 $$
 
@@ -1837,7 +1837,7 @@ P
   ++
 S
   ==
-  - $梵faan4
+  - ($梵faan4)
   ==
 $$
 

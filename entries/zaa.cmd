@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2025-11-23
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -134,7 +134,7 @@ P
   ++
 S
   ==
-  - $吒caa3
+  - ($吒caa3)
   - $吒zaa3
   ==
 $$
@@ -637,7 +637,7 @@ W
   ====
 S
   ==
-  - $吒caa3
+  - ($吒caa3)
   - $吒zaa1
   ==
 $$
@@ -706,7 +706,7 @@ W
   ====
 S
   ==
-  - $咤caa3
+  - ($咤caa3)
   ==
 $$
 
@@ -841,7 +841,7 @@ C
 S
   ==
   - $痄caa4
-  - $痄zaa2
+  - ($痄zaa2)
   ==
 $$
 
@@ -880,7 +880,7 @@ C
   ==
 S
   ==
-  - $蚱zaak3
+  - ($蚱zaak3)
   ==
 $$
 
@@ -931,7 +931,7 @@ C
   ==
 S
   ==
-  - $蜡caa3
+  - ($蜡caa3)
   - $蜡ceoi3
   - $蜡laap6 (TODO)
   ==

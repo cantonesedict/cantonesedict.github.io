@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fai
-* %date-modified --> 2025-11-23
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -330,7 +330,7 @@ C
 S
   ==
   - $睢seoi1 (TODO)
-  - $睢zeoi1
+  - ($睢zeoi1)
   ==
 $$
 
@@ -557,8 +557,8 @@ P
   ++
 S
   ==
-  - $痱fai3
-  - $痱fai6
+  - ($痱fai3)
+  - ($痱fai6)
   - $痱fei4
   ==
 $$
@@ -685,7 +685,7 @@ P
   ++
 S
   ==
-  - $狒fai6
+  - ($狒fai6)
   - $狒fei6
   ==
 $$
@@ -749,7 +749,7 @@ E
   ====
 S
   ==
-  - $疿fai2
+  - ($疿fai2)
   ==
 $$
 
@@ -770,8 +770,8 @@ P
   ++
 S
   ==
-  - $痱fai2
-  - $痱fai6
+  - ($痱fai2)
+  - ($痱fai6)
   - $痱fei4
   ==
 $$
@@ -987,7 +987,7 @@ P
   ++
 S
   ==
-  - $屝fei2
+  - ($屝fei2)
   - $屝fei6
   ==
 $$
@@ -1009,7 +1009,7 @@ P
   ++
 S
   ==
-  - $狒fai3
+  - ($狒fai3)
   - $狒fei6
   ==
 $$
@@ -1031,8 +1031,8 @@ P
   ++
 S
   ==
-  - $痱fai2
-  - $痱fai3
+  - ($痱fai2)
+  - ($痱fai3)
   - $痱fei4
   ==
 $$
@@ -1057,7 +1057,7 @@ S
   ==
   - $菲fei1
   - $菲fei2
-  - $菲fei6
+  - ($菲fei6)
   ==
 $$
 

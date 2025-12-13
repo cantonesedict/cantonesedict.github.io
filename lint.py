@@ -3248,6 +3248,18 @@ class Linter:
                 except KeyError:
                     continue
 
+                if see_also_link.is_canonical != other_character_entry.is_canonical:
+                    if other_character_entry.is_canonical:
+                        raise LintException(
+                            f'bracketed see also link `{see_also_link.content}` targeting canonical entry '
+                            f'under `{character_entry}`'
+                        )
+                    else:
+                        raise LintException(
+                            f'unbracketed see also link `{see_also_link.content}` targeting non-canonical entry '
+                            f'under `{character_entry}`'
+                        )
+
                 other_see_also_links = other_character_entry.see_also_links
                 if (
                     other_see_also_links is None

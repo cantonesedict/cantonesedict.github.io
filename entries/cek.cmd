@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cek
-* %date-modified --> 2025-11-23
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -200,7 +200,7 @@ E
   ====
 S
   ==
-  - ${𤷫=⿸疒刺}cik3
+  - (${𤷫=⿸疒刺}cik3)
   ==
 $$
 

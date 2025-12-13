@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2025-11-23
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -415,7 +415,7 @@ C
   ==
 S
   ==
-  - $厝cok3
+  - ($厝cok3)
   ==
 $$
 
@@ -483,7 +483,7 @@ C
   ==
 S
   ==
-  - $懆cou2
+  - ($懆cou2)
   ==
 $$
 
@@ -595,7 +595,7 @@ P
   ++
 S
   ==
-  - $澡zou2
+  - ($澡zou2)
   ==
 $$
 
@@ -1223,7 +1223,7 @@ P
   ++
 S
   ==
-  - $儲cyu4
+  - ($儲cyu4)
   - $儲cyu5
   ==
 $$

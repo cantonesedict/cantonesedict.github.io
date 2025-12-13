@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeot
-* %date-modified --> 2025-11-17
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -140,7 +140,7 @@ P
   ++
 S
   ==
-  - $怵ceot1
+  - ($怵ceot1)
   - $怵seot1 (TODO)
   ==
 $$
@@ -197,7 +197,7 @@ E
   ====
 S
   ==
-  - $捽cyut3
+  - ($捽cyut3)
   ==
 $$
 
@@ -229,7 +229,7 @@ W
   ====
 S
   ==
-  - $絀ceot1
+  - ($絀ceot1)
   - $絀zyut3
   ==
 $$
@@ -291,7 +291,7 @@ P
   ++
 S
   ==
-  - $黜ceot1
+  - ($黜ceot1)
   ==
 $$
 
