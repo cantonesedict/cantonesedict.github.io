@@ -102,7 +102,7 @@ W
     - _ts(o\)(6) ts(')at(7)_
         [[zou6 cat1 做七]]
         to attend to the funereal rites on every seventh day;
-    - _tsok(8) ts(')at(7) (1)p(i/)n_
+    - _tsok(8) ts(')at(7) (1)p(')(i/)n_
         [[zok3 cat1 pin1 作七編]],
         to write seven essays.
     ==

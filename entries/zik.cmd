@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2025-11-03
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -151,7 +151,7 @@ W
         [[nin4 maan5 zoi6 zik1 年晚在即]]
         the end of the year is near;
     - _tsik(7) tsik(7) (1)f(a/)n ~~(4)loi~~ ``(4)lai``_
-        [[zik1 zik1 faan1 loi4 即即返嚟]],
+        [[zik1 zik1 faan1 lai4 即即返嚟]],
         come back immediately;
     - _tsik(7) (4)sh(i/) (2)tang (2)kan_
         [[zik1 si4 dang2 gan2 即時等緊]],
@@ -268,7 +268,7 @@ W
   ====
 S
   ==
-  - $喞zek1
+  - ($喞zek1)
   ==
 $$
 
@@ -459,7 +459,7 @@ W
   ====
 S
   ==
-  - $磧zaak3
+  - ($磧zaak3)
   ==
 $$
 
@@ -651,7 +651,7 @@ C
   ==
 S
   ==
-  - $織ci3
+  - ($織ci3)
   ==
 $$
 
@@ -766,7 +766,7 @@ W
         [[sing3 zik1 勝跡]]
         renowned, magnificent, as a view;
     - _ping(6) (4)m(o\) (1)tsung tsik(7)_
-        [[bing6 mou4 zung1 zuk1 並無蹤跡]]
+        [[bing6 mou4 zung1 zik1 並無蹤跡]]
         I can find out nothing about him;
     - _yan(3) tsik(7)_
         [[jan3 zik1 印跡]]
@@ -907,7 +907,7 @@ P
   ++
 S
   ==
-  - $鯽zak1
+  - ($鯽zak1)
   ==
 $$
 
@@ -987,7 +987,7 @@ F
   ==
 W
   ====
-  - [[Page~569 瘠(8)]]
+  - [[Page~569 蹐(8)]]
     --
     [[Reading variation. **See $蹐zek3 for the canonical entry.**]]
     --
@@ -1093,7 +1093,7 @@ W
   ====
 S
   ==
-  - $値zi6
+  - ($値zi6)
   ==
 $$
 
@@ -1335,9 +1335,13 @@ C
   - Williams' "affection for": Whilst the phrase 席寵 exists,
     the meaning of 席 therein is still "depend" or "rely".
   ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 S
   ==
-  - $席zek6
+  - ($席zek6)
   ==
 $$
 
@@ -1396,8 +1400,8 @@ P
   ++
 S
   ==
-  - $植zi3
-  - $植zi6
+  - ($植zi3)
+  - ($植zi6)
   ==
 $$
 
@@ -1715,6 +1719,7 @@ P
   ++
   1. Land tax (Kangxi: 租籍).
   1. (The emperor) personally tilling the field (Kangxi: 籍田 etc.).
+  1. A surname (Kangxi: 姓).
   ++
 $$
 
@@ -1777,7 +1782,7 @@ C
   ==
 S
   ==
-  - $蓆zek6
+  - ($蓆zek6)
   ==
 $$
 
@@ -1794,7 +1799,7 @@ A
   ==
 V
   ==
-  - ze3 (alternative for "mat" and "borrow" senses)
+  - ze3 (common for "mat" and "borrow" senses)
   - ze6 (per 《廣韻》慈夜切 for "mat" and "borrow" senses and per Kangxi 慈夜切 for "generous" sense)
   ==
 F
@@ -1874,6 +1879,6 @@ P
 S
   ==
   - $蟄zat6
-  - $蟄zit3
+  - ($蟄zit3)
   ==
 $$

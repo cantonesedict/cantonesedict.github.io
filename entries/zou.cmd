@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zou
-* %date-modified --> 2025-11-07
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -436,6 +436,7 @@ W
 P
   ++
   1. To give a farewell feast.
+  1. A surname (Kangxi: 姓).
   ++
 $$
 
@@ -711,7 +712,7 @@ C
     to vernacular reading _(1)sh(a/)ng_ (saang1).
   - Williams' 你做得唔做得: This is dated syntax. In modern Cantonese,
     it would be 你做唔做得, with only the verb hugging the negative.
-  - Williams' 做得唔鹹唔淡: Corrected _t(a/)m(6)_ (daam6 去聲) to _(5)t(')(a/)m_ (taam5 上聲).
+  - Williams' 做得唔鹹唔淡: Corrected _t(a/)m(6)_ (daam6 去聲^) to _(5)t(')(a/)m_ (taam5 上聲^).
   ==
 E
   ====

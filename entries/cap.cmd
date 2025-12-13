@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cap
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -86,7 +86,7 @@ W
   ====
 C
   ==
-  - Williams' 載戢干戈: Corrected _(2)tsoi_ (zoi2 上聲) to _tsoi(3)_ (zoi3 去聲).
+  - Williams' 載戢干戈: Corrected _(2)tsoi_ (zoi2 上聲^) to _tsoi(3)_ (zoi3 去聲^).
   ==
 E
   ====
@@ -175,7 +175,7 @@ U
   U+847A
 V
   ==
-  - zap1 (per 《廣韻》子入切 for "spinous-grass" sense and Kangxi 子入切 for "piled" sense)
+  - zap1 (per 《廣韻》子入切 for spinous-grass sense and Kangxi 子入切 for "piled" sense)
   ==
 F
   ==

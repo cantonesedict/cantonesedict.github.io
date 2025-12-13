@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -419,7 +419,7 @@ W
   ====
 S
   ==
-  - $嘬zyut3
+  - ($嘬zyut3)
   ==
 $$
 
@@ -442,7 +442,7 @@ W
   ====
 S
   ==
-  - $瘥co1
+  - ($瘥co1)
   - $瘥co4
   ==
 $$
@@ -582,6 +582,7 @@ P
   ++
   1. To burn firewood (for sacrifice) (Kangxi: 燔柴曰柴).
   1. To protect (Kangxi: 護也).
+  1. A surname (Kangxi: 姓).
   ++
 $$
 

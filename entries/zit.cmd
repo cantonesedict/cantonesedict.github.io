@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zit
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -145,6 +145,7 @@ $$
 - $喆3
 - $婕3
 - $折3
+- $捷3
 - $晢3
 - $櫛3
 - $浙3
@@ -338,7 +339,28 @@ E
 S
   ==
   - $折sit6 (TODO)
-  - $折zit1
+  - ($折zit1)
+  ==
+$$
+
+###+ 捷3 | _Ts(i/)t(8)_ [[zit3]]
+
+$$.
+R
+  ⼿ + 8
+U
+  U+6377
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation (in certain compounds). **See $捷zit6 for the canonical entry.**
+  ++
+S
+  ==
+  - $捷zit6
   ==
 $$
 
@@ -589,7 +611,7 @@ P
 S
   ==
   - $蟄zat6
-  - $蟄zik6
+  - ($蟄zik6)
   ==
 $$
 
@@ -647,7 +669,7 @@ C
   - Williams' "to intercept": E.g. 截的士, "stop a taxi".
   - Williams' "a portion": More generally, a classifier for segments.
   - Williams' 攔截: Corrected _ts(i/)t(8)_ (zit3) to _ts(i/)t(9)_ (zit6).
-  - Williams' 截斷: Corrected _t(u:)n(6)_ (dyun6 去聲) to _(5)t(')(u:)n_ (tyun5 上聲).
+  - Williams' 截斷: Corrected _t(u:)n(6)_ (dyun6 去聲^) to _(5)t(')(u:)n_ (tyun5 上聲^).
   ==
 $$
 
@@ -666,6 +688,7 @@ V
 F
   ==
   - (F1.27 ::[捷]::) ::勝也敏疾也報勝曰[捷]報::
+  - (F2.50 ::[捷]:: _Ts(i/)p(8)_ (zip3)) ::[勝]也::
   ==
 W
   ====
@@ -700,13 +723,18 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Normalised headword (with right component like 偼) to 捷.
+  - Fan Wan entry: Normalised headword (with right component like 偼) to 捷
+    for both readings, and fixed missing strokes in 勝 for the second reading.
   - Williams' "also read [...]": Corrected _ts(i/)p(8)_ (zip3) to _ts(i/)p(9)_ (zip6).
   ==
 P
   ++
   1. That obtained through warfare (Kangxi: 獵也軍獲得也).
   ++
+S
+  ==
+  - ($捷zit3)
+  ==
 $$
 
 ###+ 睫6 | _Ts(i/)t(9)_ [[zit6]]
@@ -742,6 +770,6 @@ C
   ==
 S
   ==
-  - $睫zip3
+  - ($睫zip3)
   ==
 $$

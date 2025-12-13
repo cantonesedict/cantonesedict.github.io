@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fe
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -91,7 +91,7 @@ E
   ====
 S
   ==
-  - $啡fe4
+  - ($啡fe4)
   - $啡fe5 (TODO) <## 哩啡 le5 fe5 ##>
   ==
 $$
@@ -174,6 +174,6 @@ E
   ====
 S
   ==
-  - $淝fei4 (TODO)
+  - $淝fei4
   ==
 $$

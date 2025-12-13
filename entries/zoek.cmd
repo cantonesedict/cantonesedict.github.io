@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoek
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -155,8 +155,8 @@ C
   ==
 S
   ==
-  - $嚼ziu6
-  - $嚼zoek6
+  - ($嚼ziu6)
+  - ($嚼zoek6)
   ==
 $$
 
@@ -346,7 +346,7 @@ C
   ==
 S
   ==
-  - $爝zoek6
+  - ($爝zoek6)
   ==
 $$
 
@@ -432,7 +432,7 @@ C
   ==
 S
   ==
-  - $皭zoek6
+  - ($皭zoek6)
   ==
 $$
 
@@ -571,7 +571,7 @@ W
   ====
 S
   ==
-  - $著zoek6
+  - ($著zoek6)
   - $著zyu3
   ==
 $$
@@ -771,7 +771,7 @@ W
   ====
 S
   ==
-  - $鵲coek3
+  - ($鵲coek3)
   ==
 $$
 
@@ -813,7 +813,7 @@ W
   ====
 S
   ==
-  - $嚼ziu6
+  - ($嚼ziu6)
   - $嚼zoek3
   ==
 $$
@@ -1023,7 +1023,7 @@ W
   ====
 S
   ==
-  - $著zoek3
+  - ($著zoek3)
   - $著zyu3
   ==
 $$

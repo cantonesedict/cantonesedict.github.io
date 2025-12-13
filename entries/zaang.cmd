@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaang
-* %date-modified --> 2025-11-04
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -123,9 +123,9 @@ W
   ====
 S
   ==
-  - $爭zaang3
+  - ($爭zaang3)
   - $爭zang1
-  - $爭zang3
+  - ($爭zang3)
   ==
 $$
 
@@ -312,9 +312,9 @@ P
   ++
 S
   ==
-  - $爭zaang1
+  - ($爭zaang1)
   - $爭zang1
-  - $爭zang3
+  - ($爭zang3)
   ==
 $$
 

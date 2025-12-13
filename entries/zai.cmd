@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1117,7 +1117,7 @@ C
   ==
   - Williams' "Read _(1)tsai_": This is probably an incorrect parsing
     of Kangxi 音劑, which is intended in the departing tone.
-  - Williams' 淡得嚌: Corrected _t(a/)m(6)_ (daam6 去聲) to _(5)t(')(a/)m_ (taam5 上聲).
+  - Williams' 淡得嚌: Corrected _t(a/)m(6)_ (daam6 去聲^) to _(5)t(')(a/)m_ (taam5 上聲^).
   - Williams' 係得嚌: Dated.
   ==
 E
@@ -1160,6 +1160,10 @@ R
   ⽔ + 11
 U
   U+6EEF
+V
+  ==
+  - zai6-2 (rising second in vernacular 滯滯地)
+  ==
 F
   ==
   - (F1.34 滯) 阻滯不通也
@@ -1246,6 +1250,6 @@ C
   ==
 S
   ==
-  - $穧zai1
+  - ($穧zai1)
   ==
 $$

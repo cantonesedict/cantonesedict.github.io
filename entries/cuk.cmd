@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cuk
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -198,6 +198,10 @@ C
   - Fan Wan entry: Corrected headword 朿 to 束.
   - Williams' 束縛: Changed _fok(8)_ (fok3) to common reading _pok(8)_ (bok3).
   ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 $$
 
 ###+ 樕1 | _Ts(')uk(7)_ [[cuk1]]
@@ -322,7 +326,7 @@ C
       1. 許六切 _huk(7)_ (huk1) for "rear" (養也), "tolerate" (容也),
          "livestock" (六畜) (with a note that 今人{𠀤=⿱夶一}讀作昌六反),
          and "obey" (順也), among other senses;
-      1. 許救切 _jau(3)_ (jau3) for "non-working livestock" (養之曰畜用之曰牲); and
+      1. 許救切 _yau(3)_ (jau3) for "non-working livestock" (養之曰畜用之曰牲); and
       1. 丑救切 _ch(')au(3)_ (cau3) for "domesticated animal" (在野曰獸在家曰畜).
       ++
     ==
@@ -402,9 +406,9 @@ C
   ==
 S
   ==
-  - $簇cau3
+  - ($簇cau3)
   - $簇cok3
-  - $簇zuk6
+  - ($簇zuk6)
   ==
 $$
 
@@ -574,7 +578,7 @@ C
 S
   ==
   - $蔟cau3
-  - $蔟zuk6
+  - ($蔟zuk6)
   ==
 $$
 

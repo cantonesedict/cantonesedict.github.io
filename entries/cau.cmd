@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -234,7 +234,7 @@ E
        ==
        - 大抽鎖匙 (daai6 cau1 so2 si4): "Big bunch of keys."
        ==
-    1. To fight.
+    1. To fight. (See [隻抽](#cantonese-隻抽).)
     1. (_Chinese chess_) To win a piece with check, either by skewering, forking, or discovery.
        ==
        - 將軍抽車 (zoeng1 gwan1 cau1 geoi1): "Check, skewering [a] chariot."
@@ -329,7 +329,7 @@ W
   ====
 S
   ==
-  - $揫zau1
+  - ($揫zau1)
   ==
 $$
 
@@ -387,7 +387,7 @@ W
 C
   ==
   - Kangxi has the "pool" sense under 卽由切 or 將由切 _(1)tsau_ (zau1),
-    but 《廣韻》 has 七由切 _ts(')au_ (cau1), explained 水池名北人呼.
+    but 《廣韻》 has 七由切 _(1)ts(')au_ (cau1), explained 水池名北人呼.
   ==
 S
   ==
@@ -566,6 +566,10 @@ C
   ==
   - Fan Wan entry: Corrected 土 to 上.
   ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 $$
 
 ### 篘1 | _(1)Ch(')au_ [[cau1]]
@@ -609,7 +613,7 @@ W
   ====
 S
   ==
-  - $紬cau4
+  - ($紬cau4)
   ==
 $$
 
@@ -981,7 +985,7 @@ E
     1. To look after, to raise, to baby sit.
        ==
        - 湊仔 (cau3 zai2): "Look after kids."
-       - 湊大佢 (cau3 daai6): "Raised him up."
+       - 湊大佢 (cau3 daai6 keoi5): "Raised him up."
        ==
     ++
   ====
@@ -1007,7 +1011,7 @@ S
   ==
   - $簇cok3
   - $簇cuk1
-  - $簇zuk6
+  - ($簇zuk6)
   ==
 $$
 
@@ -1140,7 +1144,7 @@ P
 S
   ==
   - $蔟cuk1
-  - $蔟zuk6
+  - ($蔟zuk6)
   ==
 $$
 

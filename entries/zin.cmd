@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -56,6 +56,7 @@ $$
 - $湔1
 - $濺1
 - $煎1
+- $牋1
 - $皽1
 - $箋1
 - $籛1
@@ -139,7 +140,7 @@ C
   ==
 S
   ==
-  - $戔caan4
+  - ($戔caan4)
   ==
 $$
 
@@ -333,7 +334,7 @@ W
   ====
 S
   ==
-  - $濺zaan3
+  - ($濺zaan3)
   - $濺zin3
   ==
 $$
@@ -393,6 +394,23 @@ S
   ==
 $$
 
+###+ 牋1 | _(1)Ts(i/)n_ [[zin1]]
+
+$$.
+R
+  ⽚ + 8
+U
+  U+724B
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 箋. **See $箋zin1 for the canonical entry.**
+  ++
+$$
+
 ### 皽1 | _(1)Ch(i/)n_ [[zin1]]
 
 $$
@@ -431,6 +449,10 @@ R
   ⽵ + 8
 U
   U+7B8B
+A
+  ==
+  - $牋1
+  ==
 F
   ==
   - (F1.20 箋) 簡牒
@@ -714,7 +736,7 @@ W
   ====
 S
   ==
-  - $剗caan2
+  - ($剗caan2)
   ==
 $$
 
@@ -1159,7 +1181,7 @@ W
   ====
 S
   ==
-  - $闡cin2
+  - ($闡cin2)
   ==
 $$
 
@@ -1333,7 +1355,7 @@ C
   ==
 S
   ==
-  - $濺zaan3
+  - ($濺zaan3)
   - $濺zin1
   ==
 $$
@@ -1452,7 +1474,7 @@ W
         [[am3 zin3 soeng1 jan4 暗箭傷人]],
         to injure one with a secret arrow---slander;
     - _fong(3) ~~(5)lang~~ ``(5)l(a/)ng`` ts(i/)n(3)_
-        [[fong3 lang5 zin3 放冷箭]]
+        [[fong3 laang5 zin3 放冷箭]]
         to shoot at privily;
     - _yat(7) ts(i/)n(3) (1)ch(i/) t(i/)(6)_
         [[jat1 zin3 zi1 dei6 一箭之地]]
@@ -1838,7 +1860,7 @@ W
   ====
 S
   ==
-  - $踐cin2
+  - ($踐cin2)
   - $踐cin5
   ==
 $$

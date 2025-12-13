@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zong
-* %date-modified --> 2025-11-06
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -316,11 +316,12 @@ P
   ++
   1. To commend, to praise.
   1. A slave.
+  1. A surname (Kangxi: 姓).
   ++
 S
   ==
-  - $臧cong4
-  - $臧zong6
+  - ($臧cong4)
+  - ($臧zong6)
   ==
 $$
 
@@ -1081,7 +1082,7 @@ P
   ++
 S
   ==
-  - $臧cong4
+  - ($臧cong4)
   - $臧zong1
   ==
 $$

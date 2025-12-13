@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2025-11-06
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -165,7 +165,7 @@ C
   ==
 S
   ==
-  - $崢zaang1
+  - ($崢zaang1)
   ==
 $$
 
@@ -308,7 +308,7 @@ W
   ====
 S
   ==
-  - $棦zaang1
+  - ($棦zaang1)
   ==
 $$
 
@@ -443,9 +443,9 @@ E
   ====
 S
   ==
-  - $爭zaang1
-  - $爭zaang3
-  - $爭zang3
+  - ($爭zaang1)
+  - ($爭zaang3)
+  - ($爭zang3)
   ==
 $$
 
@@ -477,7 +477,7 @@ W
   ====
 S
   ==
-  - $琤zaang1
+  - ($琤zaang1)
   ==
 $$
 
@@ -531,7 +531,7 @@ W
   ====
 S
   ==
-  - $箏zaang1
+  - ($箏zaang1)
   ==
 $$
 
@@ -642,7 +642,7 @@ C
   ==
 S
   ==
-  - $錚zaang1
+  - ($錚zaang1)
   ==
 $$
 
@@ -690,7 +690,7 @@ S
   ==
 $$
 
-###+ 爭3 | _Chang(3)_ [[zang3]]
+### 爭3 | _Chang(3)_ [[zang3]]
 
 $$.
 R
@@ -708,8 +708,8 @@ W
   ====
 S
   ==
-  - $爭zaang1
-  - $爭zaang3
+  - ($爭zaang1)
+  - ($爭zaang3)
   - $爭zang1
   ==
 $$
@@ -743,7 +743,7 @@ W
   ====
 S
   ==
-  - $甑zang6
+  - ($甑zang6)
   ==
 $$
 
@@ -795,7 +795,7 @@ C
   ==
 S
   ==
-  - $諍zaang3
+  - ($諍zaang3)
   ==
 $$
 

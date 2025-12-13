@@ -90,7 +90,7 @@ W
   ====
 C
   ==
-  - Williams' 重一層: Corrected _chung(6)_ (zung6 去聲) to _(5)ch(')ung_ (cung5 上聲).
+  - Williams' 重一層: Corrected _chung(6)_ (zung6 去聲^) to _(5)ch(')ung_ (cung5 上聲^).
   ==
 P
   ++

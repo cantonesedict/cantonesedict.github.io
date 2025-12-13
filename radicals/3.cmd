@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 3-stroke radicals
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-12-03
 * %copyright-prior-years --> 2024--
 * %meta-description --> index of characters with 3-stroke radicals
 
@@ -110,6 +110,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $呞ci1
       - $咈fat6
+      - ${𠱥=⿰口卉}fik1
       - {$咋zaa3, $咋zaak3}
       - $周zau1
       - $呪zau3
@@ -359,6 +360,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $埠fau6
+      - $堁fo2
       - $執zap1
       - $埴zik6
       ==
@@ -500,6 +502,14 @@ For all radicals, see [Index of characters by radical](./).
       - $夕zik6
       ==
       </nav>
+  //
+    , 11
+    ,
+      <nav class="sideways">
+      ==
+      - $夥fo2
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⼣-characters ##>
@@ -568,6 +578,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $奼caa3
+      - $妃fei1
       - $妁zoek3
       ==
       </nav>
@@ -929,6 +940,14 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $展zin2
+      ==
+      </nav>
+  //
+    , 8
+    ,
+      <nav class="sideways">
+      ==
+      - {$屝fai6, $屝fei2, $屝fei6}
       ==
       </nav>
   //

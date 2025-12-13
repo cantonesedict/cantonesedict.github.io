@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2025-11-03
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -207,7 +207,7 @@ W
     - _(1)song sh(u:)(6) ts(')at(7) (1)ch(u:)_
         [[song1 syu6 cat1 zyu1 桑樹七株]],
         seven mulberry trees;
-    - _(1)ch(u:) (2)shau yat(7) (4)(u/)_
+    - _(1)ch(u:) (2)shau yat(7) (4)(u:)_
         [[zyu1 sau2 jat1 jyu4 株守一隅]],
         confined in a corner, kept back in obscurity.
     ==
@@ -644,6 +644,8 @@ C
 P
   ++
   1. Synonym of 之 (third-person object pronoun) (Kangxi: 諸之也).
+  1. A surname (Kangxi: 姓).
+  1. Used in 諸葛 (a compound surname) (Kangxi: 複姓).
   ++
 E
   ====
@@ -992,12 +994,11 @@ U
 F
   [[Not present]]
 W
-  ====
-  - [[Page~33* (5)柱 _(5)Ch(')(u:)_ (cyu5); here corrected to _(2)Ch(u:)_ (zyu2)]]
-    --
-    [[Alternative form of 拄. **See $拄zyu2 for the canonical entry.**]]
-    --
-  ====
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 拄. **See $拄zyu2 for the canonical entry.**
+  ++
 S
   ==
   - $柱cyu5
@@ -1244,10 +1245,10 @@ W
     - A wick [[Kangxi: 燈炷也, 火炷燼所著者]];
     - a stick of incense;
     - to light;
-    - _yat(7) ch(u/)(3) (1)h(e/)ung_
+    - _yat(7) ch(u:)(3) (1)h(e/)ung_
         [[jat1 zyu3 hoeng1 一炷香]],
         a set of three incense sticks;
-    - _ch(u/)(3) (1)h(e/)ung_
+    - _ch(u:)(3) (1)h(e/)ung_
         [[zyu3 hoeng1 炷香]],
         to light the incense stick.
     ==
@@ -1271,7 +1272,7 @@ P
   ++
 S
   ==
-  - $祝zau3
+  - ($祝zau3)
   - $祝zuk1
   ==
 $$
@@ -1309,7 +1310,7 @@ H
   depending on the font.
 V
   ==
-  - zyu2 (per 《洪武正韻牋》腫庾切逸字)
+  - zyu2 (per 《正韻牋》腫庾切逸字)
   ==
 F
   ==
@@ -1325,7 +1326,7 @@ W
   ====
 S
   ==
-  - $翥zyu2
+  - ($翥zyu2)
   ==
 $$
 
@@ -1371,8 +1372,8 @@ P
   ++
 S
   ==
-  - $著zoek3
-  - $著zoek6
+  - ($著zoek3)
+  - ($著zoek6)
   ==
 $$
 
@@ -1623,7 +1624,7 @@ W
     - _(5)mai ~~tsz'(6)~~ ``ch(u:)(6)``_
         [[mai5 zyu6 咪住]]
         stop, hold up!
-    - _(4)'m (2)ho h(u:)(3) ~~tsz'(6)~~ ``ch(u:)(6)``_
+    - _(4)'m (2)h(o\) h(u:)(3) ~~tsz'(6)~~ ``ch(u:)(6)``_
         [[m4 hou2 heoi3 zyu6 唔好去住]]
         don't go away, wait here a while;
     - [[...]].
@@ -1714,6 +1715,6 @@ E
   ====
 S
   ==
-  - $箸zyu3
+  - ($箸zyu3)
   ==
 $$

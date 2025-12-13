@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fau
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -342,7 +342,7 @@ C
   ==
 S
   ==
-  - $紑fau1
+  - ($紑fau1)
   ==
 $$
 
@@ -432,6 +432,8 @@ $$
 <nav class="sideways">
 =={.modern}
 - $埠6
+- $蛗6
+- ${𧌓=⿰虫阜}6
 - $阜6
 ==
 </nav>
@@ -485,6 +487,50 @@ S
   ==
   - $埠bou6 (TODO)
   ==
+$$
+
+###+ 蛗6 | _Fau(6)_ [[fau6]]
+
+$$
+R
+  ⾍ + 6
+U
+  U+86D7
+A
+  ==
+  - ${𧌓=⿰虫阜}6
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~714 {𧌓=⿰虫阜}(6); here normalised to 蛗]]
+    ==
+    - A kind of grasshopper or cricket;
+    - _fau(6) (1)chung_
+        [[fau6 zung1 蛗螽]],
+        a sort of green locust;
+        _met._ many children.
+    ==
+  ====
+$$
+
+### {𧌓=⿰虫阜}6 | _Fau(6)_ [[fau6]]
+
+$$.
+R
+  ⾍ + 8
+U
+  U+27313
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~714 {𧌓=⿰虫阜}(6)]]
+    --
+    [[Alternative form of 蛗. **See $蛗fau6 for the canonical entry.**]]
+    --
+  ====
 $$
 
 ### 阜6 | _Fau(6)_ [[fau6]]

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caau
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -205,7 +205,7 @@ C
   ==
 S
   ==
-  - $鈔caau3
+  - ($鈔caau3)
   ==
 $$
 
@@ -406,7 +406,6 @@ $$
 - $勦4
 - $巢4
 - $漅4
-- $窠4
 - $轈4
 ==
 </nav>
@@ -429,7 +428,7 @@ P
   ++
 S
   ==
-  - $勦caau1
+  - ($勦caau1)
   - $勦ziu2
   ==
 $$
@@ -441,10 +440,6 @@ R
   ⼮ + 8
 U
   U+5DE2
-A
-  ==
-  - $窠4 (for vernacular "wrinkled" sense)
-  ==
 V
   ==
   - caau4-2 (rising second in vernacular 巢巢地)
@@ -478,7 +473,7 @@ W
     --
     [[Otherwise, an alternative form of 漅. **See $漅caau4 for the canonical entry.**]]
     --
-  - [[Page~30|n73 (4)窠; here normalised to 巢]]
+  - [[Page~30|n73 (4)窠; here corrected to 巢]]
     --
     [[...]]
     --
@@ -503,6 +498,7 @@ C
 P
   ++
   1. A large free-reed instrument (Kangxi: 樂器, 大笙謂之巢).
+  1. A surname (Kangxi: 姓).
   ++
 E
   ====
@@ -553,29 +549,6 @@ C
   - The reading _(4)ch(')(a/)u_ (caau4) is not unattested;
     《集韻》 has the reading 鋤交切, explained 湖名.
   - Williams' "Also read [...]": Corrected _(1)tsi(u/)_ (ziu1) to _(2)tsi(u/)_ (ziu2).
-  ==
-$$
-
-### 窠4 | _(4)Ch(')(a/)u_ [[caau4]]
-
-$$.
-R
-  ⽳ + 8
-U
-  U+7AA0
-F
-  [[Not present]]
-W
-  ====
-  - [[Page~30|n73 (4)窠]]
-    --
-    [[Alternative form of 巢. **See $巢caau4 for the canonical entry.**]]
-    --
-  ====
-S
-  ==
-  - $窠fo1 (TODO)
-  - $窠wo1 (TODO) <## correction of Williams ##>
   ==
 $$
 

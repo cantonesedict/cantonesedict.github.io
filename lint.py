@@ -38,6 +38,770 @@ CJK_UNIFIED_IDEOGRAPH_RADICALS = (
     '龠'
 )
 KANGXI_RADICALS = ''.join(chr(code_point) for code_point in range(0x2F00, 0x2FD6))
+TONELESS_JYUTPING_LIST_FROM_WILLIAMS = {
+    "'m": ['m'],
+    "'ng": ['ng'],
+    "(a/)": ['aa'],
+    "(a/)i": ['aai'],
+    "(a/)k": ['aak'],
+    "(a/)m": ['aam'],
+    "(a/)n": ['aan'],
+    "(a/)ng": ['aang'],
+    "(a/)p": ['aap'],
+    "(a/)t": ['aat'],
+    "(a/)u": ['aau'],
+    "(e/)": ['e'],
+    "(i/)": ['ji'],
+    "(i/)m": ['jim'],
+    "(i/)n": ['jin'],
+    "(i/)p": ['jip'],
+    "(i/)t": ['jit'],
+    "(o\\)": ['ou'],
+    "(o\\)m": ['am'],
+    "(o\\)p": ['ap'],
+    "(u/)": ['wu'],
+    "(u/)i": ['wui'],
+    "(u/)n": ['wun'],
+    "(u/)t": ['wut'],
+    "(u:)": ['jyu'],
+    "(u:)n": ['jyun'],
+    "(u:)t": ['jyut'],
+    "ai": ['ai'],
+    "ak": ['ak'],
+    "am": ['am'],
+    "ang": ['ang'],
+    "ap": ['ap'],
+    "at": ['at'],
+    "au": ['au'],
+    "ch(')(a/)": ['caa'],
+    "ch(')(a/)i": ['caai'],
+    "ch(')(a/)k": ['caak'],
+    "ch(')(a/)m": ['caam'],
+    "ch(')(a/)n": ['caan'],
+    "ch(')(a/)ng": ['caang'],
+    "ch(')(a/)p": ['caap'],
+    "ch(')(a/)t": ['caat'],
+    "ch(')(a/)u": ['caau'],
+    "ch(')(e/)": ['ce'],
+    "ch(')(e/)uk": ['coek'],
+    "ch(')(e/)ung": ['coeng'],
+    "ch(')(i/)": ['ci'],
+    "ch(')(i/)m": ['cim'],
+    "ch(')(i/)n": ['cin'],
+    "ch(')(i/)t": ['cit'],
+    "ch(')(u:)": ['ceoi', 'cyu'],
+    "ch(')(u:)n": ['cyun'],
+    "ch(')ak": ['cak'],
+    "ch(')am": ['cam'],
+    "ch(')an": ['can'],
+    "ch(')ang": ['cang'],
+    "ch(')au": ['cau'],
+    "ch(')ek": ['cek'],
+    "ch(')i(u/)": ['ciu'],
+    "ch(')ik": ['cik'],
+    "ch(')ing": ['cing'],
+    "ch(')o": ['co'],
+    "ch(')ok": ['cok'],
+    "ch(')ong": ['cong'],
+    "ch(')ui": ['ceoi'],
+    "ch(')uk": ['cuk'],
+    "ch(')un": ['ceon'],
+    "ch(')ung": ['cung'],
+    "ch(')ut": ['ceot'],
+    "ch(a/)": ['zaa'],
+    "ch(a/)i": ['zaai'],
+    "ch(a/)k": ['zaak'],
+    "ch(a/)m": ['zaam'],
+    "ch(a/)n": ['zaan'],
+    "ch(a/)ng": ['zaang'],
+    "ch(a/)p": ['zaap'],
+    "ch(a/)t": ['zaat'],
+    "ch(a/)u": ['zaau'],
+    "ch(e/)": ['ze'],
+    "ch(e/)uk": ['zoek'],
+    "ch(e/)ung": ['zoeng'],
+    "ch(i/)": ['zi'],
+    "ch(i/)m": ['zim'],
+    "ch(i/)n": ['zin'],
+    "ch(i/)p": ['zip'],
+    "ch(i/)t": ['zit'],
+    "ch(u:)": ['zyu'],
+    "ch(u:)n": ['zyun'],
+    "ch(u:)t": ['zyut'],
+    "ch(u\\)": ['zoe'],
+    "chai": ['zai'],
+    "chak": ['zak'],
+    "cham": ['zam'],
+    "chan": ['zan'],
+    "chang": ['zang'],
+    "chap": ['zap'],
+    "chat": ['zat'],
+    "chau": ['zau'],
+    "chek": ['zek'],
+    "cheng": ['zeng'],
+    "chi(u/)": ['ziu'],
+    "chik": ['zik'],
+    "ching": ['zing'],
+    "cho": ['zo'],
+    "chok": ['zok'],
+    "chong": ['zong'],
+    "chui": ['zeoi'],
+    "chuk": ['zuk'],
+    "chun": ['zeon'],
+    "chung": ['zung'],
+    "chut": ['zeot'],
+    "f(a/)": ['faa'],
+    "f(a/)i": ['faai'],
+    "f(a/)k": ['faak'],
+    "f(a/)n": ['faan'],
+    "f(a/)t": ['faat'],
+    "f(e/)": ['fe'],
+    "f(i/)": ['fei'],
+    "f(i/)t": ['fit'],
+    "f(u/)": ['fu'],
+    "f(u/)i": ['fui'],
+    "f(u/)n": ['fun'],
+    "f(u/)t": ['fut'],
+    "fai": ['fai'],
+    "fan": ['fan'],
+    "fang": ['fang'],
+    "fat": ['fat'],
+    "fau": ['fau'],
+    "fik": ['fik'],
+    "fing": ['fing'],
+    "fo": ['fo'],
+    "fok": ['fok'],
+    "fong": ['fong'],
+    "fuk": ['fuk'],
+    "fung": ['fung'],
+    "h(a/)": ['haa'],
+    "h(a/)i": ['haai'],
+    "h(a/)k": ['haak'],
+    "h(a/)m": ['haam'],
+    "h(a/)n": ['haan'],
+    "h(a/)ng": ['haang'],
+    "h(a/)p": ['haap'],
+    "h(a/)u": ['haau'],
+    "h(e/)": ['he'],
+    "h(e/)ung": ['hoeng'],
+    "h(i/)": ['hei'],
+    "h(i/)m": ['him'],
+    "h(i/)n": ['hin'],
+    "h(i/)p": ['hip'],
+    "h(i/)t": ['hit'],
+    "h(o\\)": ['hou'],
+    "h(o\\)m": ['ham'],
+    "h(o\\)p": ['hap'],
+    "h(u:)": ['heoi'],
+    "h(u:)n": ['hyun'],
+    "h(u:)t": ['hyut'],
+    "h(u\\)": ['hoe'],
+    "hai": ['hai'],
+    "hak": ['hak'],
+    "ham": ['ham'],
+    "han": ['han'],
+    "hang": ['hang'],
+    "hap": ['hap'],
+    "hat": ['hat'],
+    "hau": ['hau'],
+    "hek": ['hek'],
+    "heng": ['heng'],
+    "hi(u/)": ['hiu'],
+    "hing": ['hing'],
+    "ho": ['ho'],
+    "hoi": ['hoi'],
+    "hok": ['hok'],
+    "hon": ['hon'],
+    "hong": ['hong'],
+    "hot": ['hot'],
+    "huk": ['huk'],
+    "hung": ['hung'],
+    "i(u/)": ['jiu'],
+    "k(')(a/)": ['kaa'],
+    "k(')(a/)i": ['kaai'],
+    "k(')(a/)n": ['kaan'],
+    "k(')(a/)t": ['kaat'],
+    "k(')(a/)u": ['kaau'],
+    "k(')(e/)": ['ke'],
+    "k(')(e/)uk": ['koek'],
+    "k(')(e/)ung": ['koeng'],
+    "k(')(i/)": ['kei'],
+    "k(')(i/)m": ['kim'],
+    "k(')(i/)n": ['kin'],
+    "k(')(i/)t": ['kit'],
+    "k(')(u/)": ['ku'],
+    "k(')(u/)i": ['kui'],
+    "k(')(u/)t": ['kut'],
+    "k(')(u:)": ['keoi'],
+    "k(')(u:)n": ['kyun'],
+    "k(')(u:)t": ['kyut'],
+    "k(')ai": ['kai'],
+    "k(')ak": ['kak'],
+    "k(')am": ['kam'],
+    "k(')an": ['kan'],
+    "k(')ang": ['kang'],
+    "k(')ap": ['kap'],
+    "k(')at": ['kat'],
+    "k(')au": ['kau'],
+    "k(')ek": ['kek'],
+    "k(')i(u/)": ['kiu'],
+    "k(')ik": ['kik'],
+    "k(')ing": ['king'],
+    "k(')oi": ['koi'],
+    "k(')ok": ['kok'],
+    "k(')ong": ['kong'],
+    "k(')uk": ['kuk'],
+    "k(')ung": ['kung'],
+    "k(a/)": ['gaa'],
+    "k(a/)i": ['gaai'],
+    "k(a/)k": ['gaak'],
+    "k(a/)m": ['gaam'],
+    "k(a/)n": ['gaan'],
+    "k(a/)ng": ['gaang'],
+    "k(a/)p": ['gaap'],
+    "k(a/)t": ['gaat'],
+    "k(a/)u": ['gaau'],
+    "k(e/)": ['ge'],
+    "k(e/)uk": ['goek'],
+    "k(e/)ung": ['goeng'],
+    "k(i/)": ['gei'],
+    "k(i/)m": ['gim'],
+    "k(i/)n": ['gin'],
+    "k(i/)p": ['gip'],
+    "k(i/)t": ['git'],
+    "k(o\\)": ['gou'],
+    "k(o\\)m": ['gam'],
+    "k(o\\)p": ['gap'],
+    "k(u/)": ['gu'],
+    "k(u/)i": ['gui'],
+    "k(u/)n": ['gun'],
+    "k(u/)t": ['gut'],
+    "k(u:)": ['geoi'],
+    "k(u:)n": ['gyun'],
+    "k(u:)t": ['gyut'],
+    "k(u\\)": ['goe'],
+    "kai": ['gai'],
+    "kam": ['gam'],
+    "kan": ['gan'],
+    "kang": ['gang'],
+    "kap": ['gap'],
+    "kat": ['gat'],
+    "kau": ['gau'],
+    "keng": ['geng'],
+    "ki(u/)": ['giu'],
+    "kik": ['gik'],
+    "king": ['ging'],
+    "ko": ['go'],
+    "koi": ['goi'],
+    "kok": ['gok'],
+    "kon": ['gon'],
+    "kong": ['gong'],
+    "kot": ['got'],
+    "kuk": ['guk'],
+    "kung": ['gung'],
+    "kw(')(a/)": ['kwaa'],
+    "kw(')(a/)ng": ['kwaang'],
+    "kw(')ai": ['kwai'],
+    "kw(')an": ['kwan'],
+    "kw(')ik": ['kwik'],
+    "kw(')ok": ['kwok'],
+    "kw(')ong": ['kwong'],
+    "kw(a/)": ['gwaa'],
+    "kw(a/)i": ['gwaai'],
+    "kw(a/)k": ['gwaak'],
+    "kw(a/)n": ['gwaan'],
+    "kw(a/)ng": ['gwaang'],
+    "kw(a/)t": ['gwaat'],
+    "kw(i/)t": ['gwit'],
+    "kwai": ['gwai'],
+    "kwan": ['gwan'],
+    "kwang": ['gwang'],
+    "kwat": ['gwat'],
+    "kwik": ['gwik'],
+    "kwing": ['gwing'],
+    "kwo": ['gwo'],
+    "kwok": ['gwok'],
+    "kwong": ['gwong'],
+    "l(a/)": ['laa'],
+    "l(a/)i": ['laai'],
+    "l(a/)k": ['laak'],
+    "l(a/)m": ['laam'],
+    "l(a/)n": ['laan'],
+    "l(a/)ng": ['laang'],
+    "l(a/)p": ['laap'],
+    "l(a/)t": ['laat'],
+    "l(a/)u": ['laau'],
+    "l(e/)": ['le'],
+    "l(e/)m": ['lem'],
+    "l(e/)uk": ['loek'],
+    "l(e/)ung": ['loeng'],
+    "l(i/)": ['lei'],
+    "l(i/)m": ['lim'],
+    "l(i/)n": ['lin'],
+    "l(i/)p": ['lip'],
+    "l(i/)t": ['lit'],
+    "l(o\\)": ['lou'],
+    "l(u/)i": ['leoi'],
+    "l(u:)": ['leoi'],
+    "l(u:)n": ['lyun'],
+    "l(u:)t": ['lyut'],
+    "l(u\\)": ['loe'],
+    "lai": ['lai'],
+    "lak": ['lak'],
+    "lam": ['lam'],
+    "lan": ['lan'],
+    "lang": ['lang'],
+    "lap": ['lap'],
+    "lat": ['lat'],
+    "lau": ['lau'],
+    "lek": ['lek'],
+    "leng": ['leng'],
+    "li(u/)": ['liu'],
+    "lik": ['lik'],
+    "ling": ['ling'],
+    "lo": ['lo'],
+    "loi": ['loi'],
+    "lok": ['lok'],
+    "long": ['long'],
+    "lui": ['leoi'],
+    "luk": ['luk'],
+    "lun": ['leon'],
+    "lung": ['lung'],
+    "lut": ['leot'],
+    "m(a/)": ['maa'],
+    "m(a/)i": ['maai'],
+    "m(a/)k": ['maak'],
+    "m(a/)n": ['maan'],
+    "m(a/)ng": ['maang'],
+    "m(a/)t": ['maat'],
+    "m(a/)u": ['maau'],
+    "m(e/)": ['me'],
+    "m(i/)": ['mei'],
+    "m(i/)n": ['min'],
+    "m(i/)t": ['mit'],
+    "m(o\\)": ['mou'],
+    "m(u/)i": ['mui'],
+    "m(u/)n": ['mun'],
+    "m(u/)t": ['mut'],
+    "mai": ['mai'],
+    "mak": ['mak'],
+    "man": ['man'],
+    "mang": ['mang'],
+    "mat": ['mat'],
+    "mau": ['mau'],
+    "mek": ['mek'],
+    "meng": ['meng'],
+    "mi(u/)": ['miu'],
+    "mik": ['mik'],
+    "ming": ['ming'],
+    "mo": ['mo'],
+    "mok": ['mok'],
+    "mong": ['mong'],
+    "muk": ['muk'],
+    "mung": ['mung'],
+    "n(a/)": ['naa'],
+    "n(a/)i": ['naai'],
+    "n(a/)m": ['naam'],
+    "n(a/)n": ['naan'],
+    "n(a/)p": ['naap'],
+    "n(a/)t": ['naat'],
+    "n(a/)u": ['naau'],
+    "n(e/)": ['ne'],
+    "n(e/)ung": ['noeng'],
+    "n(i/)": ['nei', 'ni'],
+    "n(i/)m": ['nim'],
+    "n(i/)n": ['nin'],
+    "n(i/)p": ['nip'],
+    "n(o\\)": ['nou'],
+    "n(u:)": ['neoi'],
+    "n(u:)n": ['nyun'],
+    "nai": ['nai'],
+    "nak": ['nak'],
+    "nam": ['nam'],
+    "nan": ['nan'],
+    "nang": ['nang'],
+    "nap": ['nap'],
+    "nat": ['nat'],
+    "nau": ['nau'],
+    "neng": ['neng'],
+    "ng": ['ng'],
+    "ng(a/)": ['ngaa'],
+    "ng(a/)i": ['ngaai'],
+    "ng(a/)k": ['ngaak'],
+    "ng(a/)m": ['ngaam'],
+    "ng(a/)n": ['ngaan'],
+    "ng(a/)ng": ['ngaang'],
+    "ng(a/)p": ['ngaap'],
+    "ng(a/)t": ['ngaat'],
+    "ng(a/)u": ['ngaau'],
+    "ng(e/)": ['nge'],
+    "ng(i/)": ['ngi'],
+    "ng(i/)t": ['ngit'],
+    "ng(o\\)": ['ngou'],
+    "ngai": ['ngai'],
+    "ngak": ['ngak'],
+    "ngam": ['ngam'],
+    "ngan": ['ngan'],
+    "ngap": ['ngap'],
+    "ngat": ['ngat'],
+    "ngau": ['ngau'],
+    "ngo": ['ngo'],
+    "ngoi": ['ngoi'],
+    "ngok": ['ngok'],
+    "ngon": ['ngon'],
+    "ngong": ['ngong'],
+    "ni(u/)": ['niu'],
+    "nik": ['nik'],
+    "ning": ['ning'],
+    "no": ['no'],
+    "noi": ['noi'],
+    "nok": ['nok'],
+    "nong": ['nong'],
+    "nui": ['neoi'],
+    "nuk": ['nuk'],
+    "nung": ['nung'],
+    "nut": ['neot'],
+    "o": ['o'],
+    "oi": ['oi'],
+    "ok": ['ok'],
+    "on": ['on'],
+    "ong": ['ong'],
+    "p(')(a/)": ['paa'],
+    "p(')(a/)i": ['paai'],
+    "p(')(a/)k": ['paak'],
+    "p(')(a/)n": ['paan'],
+    "p(')(a/)ng": ['paang'],
+    "p(')(a/)u": ['paau'],
+    "p(')(e/)": ['pe'],
+    "p(')(i/)": ['pei'],
+    "p(')(i/)n": ['pin'],
+    "p(')(i/)t": ['pit'],
+    "p(')(o\\)": ['pou'],
+    "p(')(u/)i": ['pui'],
+    "p(')(u/)n": ['pun'],
+    "p(')(u/)t": ['put'],
+    "p(')ai": ['pai'],
+    "p(')ak": ['pak'],
+    "p(')an": ['pan'],
+    "p(')ang": ['pang'],
+    "p(')at": ['pat'],
+    "p(')au": ['pau'],
+    "p(')ek": ['pek'],
+    "p(')eng": ['peng'],
+    "p(')i(u/)": ['piu'],
+    "p(')ik": ['pik'],
+    "p(')ing": ['ping'],
+    "p(')o": ['po'],
+    "p(')ok": ['pok'],
+    "p(')ong": ['pong'],
+    "p(')uk": ['puk'],
+    "p(')ung": ['pung'],
+    "p(a/)": ['baa'],
+    "p(a/)i": ['baai'],
+    "p(a/)k": ['baak'],
+    "p(a/)n": ['baan'],
+    "p(a/)ng": ['baang'],
+    "p(a/)t": ['baat'],
+    "p(a/)u": ['baau'],
+    "p(e/)": ['be'],
+    "p(i/)": ['bei'],
+    "p(i/)n": ['bin'],
+    "p(i/)t": ['bit'],
+    "p(o\\)": ['bou'],
+    "p(o\\)m": ['bam'],
+    "p(o\\)p": ['bup'],
+    "p(u/)i": ['bui'],
+    "p(u/)n": ['bun'],
+    "p(u/)t": ['but'],
+    "pai": ['bai'],
+    "pak": ['bak'],
+    "pan": ['ban'],
+    "pang": ['bang'],
+    "pat": ['bat'],
+    "pau": ['bau'],
+    "peng": ['beng'],
+    "pi(u/)": ['biu'],
+    "pik": ['bik'],
+    "ping": ['bing'],
+    "po": ['bo'],
+    "pok": ['bok'],
+    "pong": ['bong'],
+    "puk": ['buk'],
+    "pung": ['bung'],
+    "s(a/)": ['saa'],
+    "s(a/)i": ['saai'],
+    "s(a/)m": ['saam'],
+    "s(a/)n": ['saan'],
+    "s(a/)p": ['saap'],
+    "s(a/)t": ['saat'],
+    "s(e/)": ['se'],
+    "s(e/)uk": ['soek'],
+    "s(e/)ung": ['soeng'],
+    "s(i/)n": ['sin'],
+    "s(i/)p": ['sip'],
+    "s(i/)t": ['sit'],
+    "s(o\\)": ['sou'],
+    "s(u/)": ['sou'],
+    "s(u:)": ['seoi'],
+    "s(u:)n": ['syun'],
+    "s(u:)t": ['syut'],
+    "s(u\\)": ['soe'],
+    "sai": ['sai'],
+    "sak": ['sak'],
+    "sam": ['sam'],
+    "san": ['san'],
+    "sang": ['sang'],
+    "sap": ['sap'],
+    "sat": ['sat'],
+    "sau": ['sau'],
+    "sek": ['sek'],
+    "seng": ['seng'],
+    "sh(a/)": ['saa'],
+    "sh(a/)i": ['saai'],
+    "sh(a/)k": ['saak'],
+    "sh(a/)m": ['saam'],
+    "sh(a/)n": ['saan'],
+    "sh(a/)ng": ['saang'],
+    "sh(a/)p": ['saap'],
+    "sh(a/)t": ['saat'],
+    "sh(a/)u": ['saau'],
+    "sh(e/)": ['se'],
+    "sh(e/)uk": ['soek'],
+    "sh(e/)ung": ['soeng'],
+    "sh(i/)": ['si'],
+    "sh(i/)m": ['sim'],
+    "sh(i/)n": ['sin'],
+    "sh(i/)p": ['sip'],
+    "sh(i/)t": ['sit'],
+    "sh(o\\)": ['sou'],
+    "sh(u:)": ['syu'],
+    "sh(u:)n": ['syun'],
+    "sh(u:)t": ['syut'],
+    "shai": ['sai'],
+    "sham": ['sam'],
+    "shan": ['san'],
+    "shang": ['sang'],
+    "shap": ['sap'],
+    "shat": ['sat'],
+    "shau": ['sau'],
+    "shek": ['sek'],
+    "sheng": ['seng'],
+    "shi(u/)": ['siu'],
+    "shik": ['sik'],
+    "shing": ['sing'],
+    "sho": ['so'],
+    "shok": ['sok'],
+    "shong": ['song'],
+    "shui": ['seoi'],
+    "shuk": ['suk'],
+    "shun": ['seon'],
+    "shung": ['sung'],
+    "shut": ['seot'],
+    "si(u/)": ['siu'],
+    "sik": ['sik'],
+    "sing": ['sing'],
+    "so": ['so'],
+    "soi": ['soi'],
+    "sok": ['sok'],
+    "song": ['song'],
+    "sui": ['seoi'],
+    "suk": ['suk'],
+    "sun": ['seon'],
+    "sung": ['sung'],
+    "sut": ['seot'],
+    "sz'": ['sei', 'si'],
+    "t(')(a/)": ['taa'],
+    "t(')(a/)i": ['taai'],
+    "t(')(a/)m": ['taam'],
+    "t(')(a/)n": ['taan'],
+    "t(')(a/)p": ['taap'],
+    "t(')(a/)t": ['taat'],
+    "t(')(i/)m": ['tim'],
+    "t(')(i/)n": ['tin'],
+    "t(')(i/)p": ['tip'],
+    "t(')(i/)t": ['tit'],
+    "t(')(o\\)": ['tou'],
+    "t(')(u/)i": ['teoi'],
+    "t(')(u:)n": ['tyun'],
+    "t(')(u:)t": ['tyut'],
+    "t(')(u\\)": ['toe'],
+    "t(')ai": ['tai'],
+    "t(')am": ['tam'],
+    "t(')an": ['tan'],
+    "t(')ang": ['tang'],
+    "t(')ap": ['tap'],
+    "t(')au": ['tau'],
+    "t(')ek": ['tek'],
+    "t(')eng": ['teng'],
+    "t(')i(u/)": ['tiu'],
+    "t(')ik": ['tik'],
+    "t(')ing": ['ting'],
+    "t(')o": ['to'],
+    "t(')oi": ['toi'],
+    "t(')ok": ['tok'],
+    "t(')ong": ['tong'],
+    "t(')uk": ['tuk'],
+    "t(')un": ['teon'],
+    "t(')ung": ['tung'],
+    "t(a/)": ['daa'],
+    "t(a/)i": ['daai'],
+    "t(a/)m": ['daam'],
+    "t(a/)n": ['daan'],
+    "t(a/)ng": ['daang'],
+    "t(a/)p": ['daap'],
+    "t(a/)t": ['daat'],
+    "t(e/)": ['de'],
+    "t(e/)uk": ['doek'],
+    "t(e/)ung": ['doeng'],
+    "t(i/)": ['dei', 'di'],
+    "t(i/)m": ['dim'],
+    "t(i/)n": ['din'],
+    "t(i/)p": ['dip'],
+    "t(i/)t": ['dit'],
+    "t(o\\)": ['dou'],
+    "t(o\\)m": ['dam'],
+    "t(u/)i": ['deoi'],
+    "t(u:)n": ['dyun'],
+    "t(u:)t": ['dyut'],
+    "t(u\\)": ['doe'],
+    "tai": ['dai'],
+    "tak": ['dak'],
+    "tam": ['dam'],
+    "tan": ['dan'],
+    "tang": ['dang'],
+    "tap": ['dap'],
+    "tat": ['dat'],
+    "tau": ['dau'],
+    "tek": ['dek'],
+    "teng": ['deng'],
+    "ti(u/)": ['diu'],
+    "tik": ['dik'],
+    "ting": ['ding'],
+    "to": ['do'],
+    "toi": ['doi'],
+    "tok": ['dok'],
+    "tong": ['dong'],
+    "ts(')(a/)k": ['caak'],
+    "ts(')(a/)m": ['caam'],
+    "ts(')(a/)n": ['caan'],
+    "ts(')(a/)t": ['caat'],
+    "ts(')(e/)": ['ce'],
+    "ts(')(e/)uk": ['coek'],
+    "ts(')(e/)ung": ['coeng'],
+    "ts(')(i/)m": ['cim'],
+    "ts(')(i/)n": ['cin'],
+    "ts(')(i/)p": ['cip'],
+    "ts(')(i/)t": ['cit'],
+    "ts(')(o\\)": ['cou'],
+    "ts(')(u/)i": ['ceoi'],
+    "ts(')(u:)": ['ceoi'],
+    "ts(')(u:)n": ['cyun'],
+    "ts(')(u:)t": ['cyut'],
+    "ts(')ai": ['cai'],
+    "ts(')am": ['cam'],
+    "ts(')an": ['can'],
+    "ts(')ang": ['cang'],
+    "ts(')ap": ['cap'],
+    "ts(')at": ['cat'],
+    "ts(')au": ['cau'],
+    "ts(')ek": ['cek'],
+    "ts(')eng": ['ceng'],
+    "ts(')i(u/)": ['ciu'],
+    "ts(')ik": ['cik'],
+    "ts(')ing": ['cing'],
+    "ts(')o": ['co'],
+    "ts(')oi": ['coi'],
+    "ts(')ok": ['cok'],
+    "ts(')ong": ['cong'],
+    "ts(')ui": ['ceoi'],
+    "ts(')uk": ['cuk'],
+    "ts(')un": ['ceon'],
+    "ts(')ung": ['cung'],
+    "ts(')z'": ['ci'],
+    "ts(a/)": ['zaa'],
+    "ts(a/)k": ['zaak'],
+    "ts(a/)m": ['zaam'],
+    "ts(a/)n": ['zaan'],
+    "ts(a/)p": ['zaap'],
+    "ts(a/)t": ['zaat'],
+    "ts(e/)": ['ze'],
+    "ts(e/)uk": ['zoek'],
+    "ts(e/)ung": ['zoeng'],
+    "ts(i/)m": ['zim'],
+    "ts(i/)n": ['zin'],
+    "ts(i/)p": ['zip'],
+    "ts(i/)t": ['zit'],
+    "ts(o\\)": ['zou'],
+    "ts(u/)": ['zou'],
+    "ts(u/)i": ['zeoi'],
+    "ts(u:)": ['zeoi'],
+    "ts(u:)n": ['zyun'],
+    "ts(u:)t": ['zyut'],
+    "tsai": ['zai'],
+    "tsak": ['zak'],
+    "tsam": ['zam'],
+    "tsang": ['zang'],
+    "tsap": ['zap'],
+    "tsat": ['zat'],
+    "tsau": ['zau'],
+    "tsek": ['zek'],
+    "tseng": ['zeng'],
+    "tsi(u/)": ['ziu'],
+    "tsik": ['zik'],
+    "tsing": ['zing'],
+    "tso": ['zo'],
+    "tsoi": ['zoi'],
+    "tsok": ['zok'],
+    "tsong": ['zong'],
+    "tsui": ['zeoi'],
+    "tsuk": ['zuk'],
+    "tsun": ['zeon'],
+    "tsung": ['zung'],
+    "tsut": ['zeot'],
+    "tsz'": ['zi'],
+    "tui": ['deoi'],
+    "tuk": ['duk'],
+    "tun": ['deon'],
+    "tung": ['dung'],
+    "tut": ['deot'],
+    "uk": ['uk'],
+    "ung": ['ung'],
+    "w(a/)": ['waa'],
+    "w(a/)i": ['waai'],
+    "w(a/)k": ['waak'],
+    "w(a/)n": ['waan'],
+    "w(a/)ng": ['waang'],
+    "w(a/)t": ['waat'],
+    "w(i/)t": ['wit'],
+    "wai": ['wai'],
+    "wan": ['wan'],
+    "wang": ['wang'],
+    "wat": ['wat'],
+    "wik": ['wik'],
+    "wing": ['wing'],
+    "wo": ['wo'],
+    "wok": ['wok'],
+    "wong": ['wong'],
+    "y(a/)": ['jaa'],
+    "y(a/)k": ['jaak'],
+    "y(a/)ng": ['jaang'],
+    "y(e/)": ['je'],
+    "y(e/)uk": ['joek'],
+    "y(e/)ung": ['joeng'],
+    "yai": ['jai'],
+    "yam": ['jam'],
+    "yan": ['jan'],
+    "yap": ['jap'],
+    "yat": ['jat'],
+    "yau": ['jau'],
+    "yet": ['jet'],
+    "yik": ['jik'],
+    "ying": ['jing'],
+    "yui": ['jeoi'],
+    "yuk": ['juk'],
+    "yun": ['jeon'],
+    "yung": ['jung'],
+}
 
 
 class Utilities:
@@ -90,6 +854,15 @@ class Utilities:
 
 class CmdIdioms:
     @staticmethod
+    def strip_comments(content: str) -> str:
+        return re.sub(
+            pattern=r'< (?P<hashes> \#+ ) .*? (?P=hashes) >',
+            repl='',
+            string=content,
+            flags=re.DOTALL | re.VERBOSE,
+        )
+
+    @staticmethod
     def parse_entry_items(content: str) -> dict[str, str]:
         return {
             key: content
@@ -114,15 +887,18 @@ class CmdIdioms:
         )
 
     @staticmethod
-    def lint_see_also_link_order(see_also_links: list[str]):
+    def lint_see_also_link_order(see_also_links: list['SeeAlsoLink']):
         if see_also_links is None:
             return
 
-        if len(set(see_also_links)) < len(see_also_links):
-            raise LintException(f'duplicates amongst see also links {see_also_links}')
+        jyutping_list = [see_also_link.jyutping for see_also_link in see_also_links]
+        content_list = [see_also_link.content for see_also_link in see_also_links]
 
-        if see_also_links != sorted(see_also_links):
-            raise LintException(f'see also links {see_also_links} not in sorted order')
+        if len(set(jyutping_list)) < len(jyutping_list):
+            raise LintException(f'duplicates amongst see also links {content_list}')
+
+        if jyutping_list != sorted(jyutping_list):
+            raise LintException(f'see also links {content_list} not in sorted order')
 
 
 class LintException(Exception):
@@ -163,7 +939,7 @@ class CmdSource:
             CmdSource.lint_williams_apical_apostrophe(content)
             CmdSource.lint_jyutping_entering_tone(content)
             CmdSource.lint_jyutping_yod(content)
-            CmdSource.lint_romanisation_tone_character_consistency(content)
+            CmdSource.lint_romanisation_character_consistency(content)
         except LintException as lint_exception:
             print(f'Error in `{file_name}`: {lint_exception.message}', file=sys.stderr)
             sys.exit(1)
@@ -487,72 +1263,127 @@ class CmdSource:
             raise LintException(f'misspelt yod in Jyutping `{run}`')
 
     @staticmethod
-    def lint_romanisation_tone_character_consistency(content: str):
+    def lint_romanisation_character_consistency(content: str):
         for dual_romanisation_match in re.finditer(
             pattern=r'''
                 _ (?P<williams> \S [^_\n]*? \S ) _
                 \s+
                 (?: \[\[ | \( )
+                    (?P<jyutping_caret> \^? )
                     (?P<jyutping> [a-z1-6 ]+ )
                     (?P<character_content> [^a-z1-6 \]\)]*? )
+                    (?P<character_caret> \^? )
                 (?: \]\] | \) )
             ''',
             string=content,
             flags=re.VERBOSE,
         ):
             dual_romanisation = dual_romanisation_match.group()
-            williams = dual_romanisation_match.group('williams')
+            jyutping_caret = dual_romanisation_match.group('jyutping_caret')
+            williams = dual_romanisation_match.group('williams').replace('-', ' ')
             jyutping = dual_romanisation_match.group('jyutping').strip()
             character_content = dual_romanisation_match.group('character_content')
+            character_caret = dual_romanisation_match.group('character_caret')
+
+            williams_list = williams.split()
+            jyutping_list = jyutping.split()
+            characters = CmdIdioms.strip_compositions(character_content)
+
+            williams_count = len(williams_list)
+            jyutping_count = len(jyutping_list)
+            character_count = len(characters)
 
             dual_romanisation_reduced = re.sub(pattern=r'\s+', repl=' ', string=dual_romanisation)
-            williams_tone_runs = re.findall(pattern=r'\([1-9]\)', string=williams)
-            jyutping_tone_runs = re.findall(pattern='[1-6](?:-[1-6])?', string=jyutping)
 
-            jyutping_count = len(jyutping.split())
-            characters = CmdIdioms.strip_compositions(character_content)
-            character_count = len(characters)
-            is_tone_correction_commentary = dual_romanisation.endswith(')') and characters in ['上聲', '去聲']
-
-            if character_count and jyutping_count != character_count and not is_tone_correction_commentary:
+            if character_count and jyutping_count != character_count and not character_caret:
                 raise LintException(
                     f'inconsistent Jyutping count `{jyutping_count}` vs character count `{character_count}` '
-                    f'in `{dual_romanisation_reduced}`'
+                    f'in `{dual_romanisation_reduced}` '
+                    f'(suppress with caret before closing bracket if characters are tone commentary)'
                 )
 
-            if not williams_tone_runs or not jyutping_tone_runs:
+            if jyutping_caret:
                 continue
 
-            if len(williams_tone_runs) == len(jyutping_tone_runs):
-                if CmdSource.are_tones_consistent(williams_tone_runs, jyutping_tone_runs):
-                    continue
+            if williams_count == jyutping_count:
+                if inconsistency := CmdSource.get_first_romanisation_inconsistency(williams_list, jyutping_list):
+                    raise LintException(
+                        f'inconsistent Williams `{inconsistency.williams}` '
+                        f'vs Jyutping `{inconsistency.jyutping}` (expected {inconsistency.expected_jyutping_list}) '
+                        f'in `{dual_romanisation_reduced}` '
+                        f'(suppress with caret after opening bracket if not Jyutping or if legitimate)'
+                    )
 
-                raise LintException(
-                    f'inconsistent Williams tones {williams_tone_runs !r} vs Jyutping tones {jyutping_tone_runs} '
-                    f'in `{dual_romanisation_reduced}`'
-                )
+                continue
 
-            reduced_williams = re.sub(pattern='~~.+?~~', repl='', string=williams)
-            reduced_williams_tone_runs = re.findall(pattern=r'\([1-9]\)', string=reduced_williams)
+            edited_williams_list = re.sub(pattern='~~.+?~~', repl='', string=williams).split()
+            edited_williams_count = len(edited_williams_list)
 
-            if len(reduced_williams_tone_runs) == len(jyutping_tone_runs):
-                if CmdSource.are_tones_consistent(reduced_williams_tone_runs, jyutping_tone_runs):
-                    continue
+            if edited_williams_count == jyutping_count:
+                if inconsistency := CmdSource.get_first_romanisation_inconsistency(edited_williams_list, jyutping_list):
+                    raise LintException(
+                        f'inconsistent Williams {inconsistency.williams} '
+                        f'vs Jyutping {inconsistency.jyutping} (expected {inconsistency.expected_jyutping_list}) '
+                        f'in `{dual_romanisation_reduced}` '
+                        f'(suppress with caret after opening bracket if not Jyutping or if legitimate)'
+                    )
+
+                continue
+
+            if edited_williams_count != williams_count:
+                edited_williams_parenthetical = f' (edited to `{edited_williams_count}`)'
+            else:
+                edited_williams_parenthetical = ''
 
             raise LintException(
-                f'inconsistent Williams tones {reduced_williams_tone_runs !r} vs Jyutping tones {jyutping_tone_runs} '
-                f'in `{dual_romanisation_reduced}`'
+                f'inconsistent Williams count `{williams_count}`{edited_williams_parenthetical} '
+                f'vs Jyutping count `{jyutping_count}` '
+                f'in `{dual_romanisation_reduced}` '
+                f'(suppress with caret before closing bracket if content is not Jyutping)'
             )
 
     @staticmethod
-    def are_tones_consistent(williams_tone_runs: list[str], jyutping_tone_runs: list[str]):
-        return all(CmdSource.is_tone_consistent(w, j) for w, j in zip(williams_tone_runs, jyutping_tone_runs))
+    def get_first_romanisation_inconsistency(williams_list: list[str],
+                                             jyutping_list: list[str]) -> Optional['RomanisationComparison']:
+        for williams, jyutping in zip(williams_list, jyutping_list):
+            if not (romanisation_comparison := RomanisationComparison(williams, jyutping)).is_consistent:
+                return romanisation_comparison
+
+        return None
+
+
+class RomanisationComparison:
+    williams: str
+    jyutping: str
+    expected_jyutping_list = list[str]
+    is_consistent: bool
+
+    def __init__(self, williams: str, jyutping: str):
+        expected_jyutping_list = RomanisationComparison.compute_expected_jyutping_list(williams)
+        is_consistent = jyutping in expected_jyutping_list
+
+        self.williams = williams
+        self.jyutping = jyutping
+        self.expected_jyutping_list = expected_jyutping_list
+        self.is_consistent = is_consistent
 
     @staticmethod
-    def is_tone_consistent(williams_tone_run: str, jyutping_tone_run: str):
-        williams_tone_number = re.sub(pattern='[()]', repl='', string=williams_tone_run)
-        jyutping_tone_numbers = re.sub(pattern='-', repl='', string=jyutping_tone_run)
-        return williams_tone_number.translate(str.maketrans('789', '136')) in jyutping_tone_numbers
+    def compute_expected_jyutping_list(williams: str) -> list[str]:
+        williams_toneless = re.sub(
+            pattern=r'\([1-9]\) | ~~ | `` | [,?!^]',
+            repl='',
+            string=williams.lower(),
+            flags=re.VERBOSE,
+        )
+        williams_tone_number = re.sub(pattern='[^1-9]', repl='', string=williams)
+
+        expected_jyutping_toneless_list = TONELESS_JYUTPING_LIST_FROM_WILLIAMS.get(williams_toneless, [])
+        expected_jyutping_tone_number = williams_tone_number.translate(str.maketrans('789', '136'))
+
+        return [
+            expected_jyutping_toneless + expected_jyutping_tone_number
+            for expected_jyutping_toneless in expected_jyutping_toneless_list
+        ]
 
 
 class EntryPage:
@@ -771,7 +1602,12 @@ class EntryPage:
 
         page_heading_williams_set = set(page_heading.williams_list)
         tone_heading_williams_set = set(
-            re.sub(pattern=r'\([1-9]\)', repl='', string=williams)
+            re.sub(
+                pattern=r'(?P<backticks> (?: `` )? ) \([1-9]\) (?P=backticks)',
+                repl='',
+                string=williams,
+                flags=re.VERBOSE,
+            )
             for tone_heading in tone_headings
             for williams in tone_heading.williams_list
         )
@@ -969,7 +1805,7 @@ class PageEntry:
     wh_williams_list: Optional[str]
     wp_williams_list: Optional[str]
     mp_jyutping_list: Optional[str]
-    see_also_links: Optional[list[str]]
+    see_also_links: Optional[list['SeeAlsoLink']]
 
     def __init__(self, page_content: str, page_heading_jyutping: str):
         if match := re.search(
@@ -1025,8 +1861,8 @@ class PageEntry:
 
         if '[[Not present]]' in content:
             raise LintException(
-                'contextual non-insertion `[[Not present]]` in WH; '
-                'change to insertion with caret before closing square brackets'
+                'contextual non-insertion `[[Not present]]` in WH '
+                '(change to insertion with caret before closing square brackets)'
             )
 
     @staticmethod
@@ -1075,19 +1911,20 @@ class PageEntry:
         ]
 
     @staticmethod
-    def extract_see_also_links(content: Optional[str]) -> Optional[list[str]]:
+    def extract_see_also_links(content: Optional[str]) -> Optional[list['SeeAlsoLink']]:
         if content is None:
             return None
 
         return [
-            link
+            SeeAlsoLink(content, jyutping, character_content='', is_canonical=True)
             for match in re.finditer(
-                pattern=r'^ [ ]+ - [ ] (?P<link> \S+ )',
+                pattern=r'^ [ ]+ - [ ] (?P<content> \$ (?P<jyutping> [a-z]+ ) )',
                 flags=re.MULTILINE | re.VERBOSE,
                 string=content,
             )
             if (
-                link := match.group('link'),
+                content := match.group('content'),
+                jyutping := match.group('jyutping'),
             )
         ]
 
@@ -1183,10 +2020,11 @@ class CharacterEntry:
     f_content: str
     w_content: str
     p_content: Optional[str]
+    e_content: Optional[str]
     alternative_forms: Optional[list['AlternativeForm']]
     reading_variations: Optional[list['ReadingVariation']]
     cantonese_entries: Optional[list['CantoneseEntry']]
-    see_also_links: Optional[list[str]]
+    see_also_links: Optional[list['SeeAlsoLink']]
 
     def __init__(self, heading_content: str, addition: str, character_run: str, tone_number: str, williams_run: str,
                  jyutping: str, non_canonical: str, entry_content: str, page_heading_jyutping: str):
@@ -1245,6 +2083,7 @@ class CharacterEntry:
 
         content_from_key = CmdIdioms.parse_entry_items(entry_content)
 
+        CharacterEntry.lint_romanisation_consistency(williams_list, jyutping, heading_content)
         CharacterEntry.lint_keys(content_from_key, heading_content)
 
         radical_strokes_list = CharacterEntry.extract_radical_strokes_list(content_from_key['R'])
@@ -1253,16 +2092,23 @@ class CharacterEntry:
         f_content = content_from_key['F']
         w_content = content_from_key['W']
         p_content = content_from_key.get('P')
+        e_content = content_from_key.get('E')
         alternative_forms = CharacterEntry.extract_alternative_forms(content_from_key.get('A'), jyutping)
         reading_variations = CharacterEntry.extract_reading_variations(content_from_key.get('V'))
-        cantonese_entries = CharacterEntry.extract_cantonese_entries(content_from_key.get('E'), page_heading_jyutping)
+        cantonese_entries = CharacterEntry.extract_cantonese_entries(e_content, page_heading_jyutping)
         see_also_links = CharacterEntry.extract_see_also_links(content_from_key.get('S'))
 
         CharacterEntry.lint_character_against_unicode_code_point(character, unicode_code_point)
-        CharacterEntry.lint_williams_locator(w_content)
+        CharacterEntry.lint_williams_locator_tone(w_content)
         CharacterEntry.lint_williams_ellipsis_item_punctuation(w_content)
         CharacterEntry.lint_williams_romanisation_punctuation(w_content)
+        CharacterEntry.lint_character_jyutping_consistency(e_content)
 
+        CharacterEntry.lint_canonicality(is_canonical, w_content, p_content, e_content, heading_content)
+        CharacterEntry.lint_additionality(is_added, character_run, williams_run, character, w_content, heading_content)
+        CharacterEntry.lint_fan_wan_same_romanisation(williams_run, f_content, heading_content)
+
+        CharacterEntry.lint_reading_variation_order(reading_variations)
         CharacterEntry.lint_cantonese_entry_order(cantonese_entries)
         CmdIdioms.lint_see_also_link_order(see_also_links)
 
@@ -1320,6 +2166,18 @@ class CharacterEntry:
         return '\n'.join([self.w_content, self.p_content])
 
     @staticmethod
+    def lint_romanisation_consistency(williams_list: list[str], jyutping: str, heading_content: str):
+        jyutping_list = [jyutping for _ in williams_list]
+
+        if inconsistency := CmdSource.get_first_romanisation_inconsistency(williams_list, jyutping_list):
+            raise LintException(
+                f'inconsistent Williams `{inconsistency.williams}` '
+                f'vs Jyutping `{inconsistency.jyutping}` (expected {inconsistency.expected_jyutping_list}) '
+                f'under `{heading_content}`'
+            )
+
+
+    @staticmethod
     def lint_keys(content_from_key: dict[str, str], heading_content: str):
         keys = ''.join(f'{key} ' for key in content_from_key)
         pattern_readable = 'R U [H] [A] [V] F W [C] [P] [L] [E] [S] '
@@ -1341,7 +2199,7 @@ class CharacterEntry:
             raise LintException(f'character `{character}` is not `{unicode_code_point}`')
 
     @staticmethod
-    def lint_williams_locator(content: str):
+    def lint_williams_locator_tone(content: str):
         for match in re.finditer(
             pattern=r'^ [ ]+ [-][ ] \[\[ Page~\S+ [ ] (?P<headword_run> .*? ) \]\] $',
             string=content,
@@ -1402,6 +2260,149 @@ class CharacterEntry:
                 f'missing comma after supplied Jyutping for Williams left-tone in `{missing_comma_context_reduced}` '
                 f'(suppress with caret after closing square brackets if legitimate)'
             )
+
+    @staticmethod
+    def lint_character_jyutping_consistency(content: str):
+        if content is None:
+            return
+
+        for item_match in re.finditer(
+            pattern=r'''
+                - [ ]+
+                (?P<character_content> \S+ )
+                \s+
+                \( (?P<jyutping> .*? ) \)
+            ''',
+            string=content,
+            flags=re.VERBOSE,
+        ):
+            item_content = item_match.group()
+            character_content = item_match.group('character_content')
+            jyutping = item_match.group('jyutping')
+
+            characters, is_term = re.subn(
+                pattern=r'【 (?P<term> [^\s-]+ ) \S* 】',
+                repl=r'\g<term>',
+                string=CmdIdioms.strip_compositions(character_content).replace('、', ''),
+                flags=re.VERBOSE,
+            )
+            if is_term:
+                jyutping_lists = [
+                    split_jyutping.split()
+                    for split_jyutping in jyutping.split(sep=', ')
+                ]
+            else:
+                jyutping_lists = [jyutping.split()]
+
+            character_count = len(characters)
+
+            for jyutping_list in jyutping_lists:
+                jyutping_count = len(jyutping_list)
+                if character_count != jyutping_count:
+                    raise LintException(
+                        f'inconsistent character count `{character_count}` vs Jyutping count `{jyutping_count}` '
+                        f'in `{item_content}`'
+                    )
+
+    @staticmethod
+    def lint_canonicality(is_canonical: bool, w_content: str, p_content: Optional[str], e_content: Optional[str],
+                          heading_content: str):
+        stripped_w_content = CmdIdioms.strip_comments(w_content).strip()
+        redirect_phrase = 'for the canonical'
+
+        is_w_canonical = (
+            stripped_w_content != '[[Not present]]' and redirect_phrase not in stripped_w_content
+            or re.search(
+                pattern=r'^ [ ]+ (?: [-][ ] (?! \[\[Page | ~~ .*? ~~$ ) | [A-Z_] )',
+                string=stripped_w_content,
+                flags=re.MULTILINE | re.VERBOSE,
+            )
+        )
+        is_p_canonical = (
+            p_content is not None
+            and (definition_first_lines := re.findall(pattern='^[ ]+1[.].*', string=p_content, flags=re.MULTILINE))
+            and any(redirect_phrase not in line for line in definition_first_lines)
+        )
+        is_e_canonical = e_content is not None
+
+        if is_w_canonical or is_p_canonical or is_e_canonical:
+            if not is_canonical:
+                raise LintException(f'expected `{heading_content}` to be canonical')
+        else:
+            if is_canonical:
+                raise LintException(f'expected `{heading_content}` to be non-canonical')
+
+    @staticmethod
+    def lint_additionality(is_added: bool, character_run: str, williams_run: str, character: str, w_content: str,
+                           heading_content: str):
+        redirect_verbs = ['corrected', 'normalised', 'exemplified']
+        locator_lines = re.findall(
+            pattern=r'^ [ ]+ [-][ ] \[\[ Page~\S+ [ ] .*? \]\] $',
+            string=w_content,
+            flags=re.MULTILINE | re.VERBOSE,
+        )
+
+        if w_content.strip() != '[[Not present]]' and character not in '\n'.join(locator_lines):
+            raise LintException(
+                f'character `{character}` not present in at least one locator under `{heading_content}`'
+            )
+
+        if any(
+            same_romanisation_locator_line := line
+            for line in locator_lines
+            if (
+                line.count('_') == 2
+                and williams_run in line
+                and not f'^{williams_run}' in line
+            )
+        ):
+            raise LintException(
+                f'same-romanisation locator `{same_romanisation_locator_line.strip()}` under `{heading_content}` '
+                f'(suppress wth caret before opening underscore if legitimate (e.g. for disambiguation))'
+            )
+
+        are_locators_all_redirected = all(
+            character not in line
+            or any(v in line for v in redirect_verbs)
+            or (
+                line.count('_') == 2
+                and all(w not in line for w in williams_run.split())
+            )
+            for line in locator_lines
+        )
+        is_heading_edited = any(
+            '``' in run
+            for run in [character_run, williams_run]
+        )
+        is_alternative_given = any(
+            f'read {williams}' in w_content.lower()
+            for williams in williams_run.lower().split()
+        )
+
+        if are_locators_all_redirected and not is_heading_edited:
+            if not (is_added or is_alternative_given):
+                raise LintException(f'expected `{heading_content}` to be added ')
+        else:
+            if is_added:
+                raise LintException(f'expected `{heading_content}` to be non-added ')
+
+    @staticmethod
+    def lint_fan_wan_same_romanisation(williams_run: str, f_content: str, heading_content: str):
+        if williams_run in f_content:
+            raise LintException(f'same-romanisation Fan Wan locator under `{heading_content}`')
+
+    @staticmethod
+    def lint_reading_variation_order(reading_variations: Optional[list['ReadingVariation']]):
+        if reading_variations is None:
+            return
+
+        jyutping_list = [reading_variation.jyutping for reading_variation in reading_variations]
+
+        if len(set(jyutping_list)) < len(jyutping_list):
+            raise LintException(f'duplicates amongst reading variations {jyutping_list}')
+
+        if jyutping_list != sorted(jyutping_list):
+            raise LintException(f'reading variations {jyutping_list} not in sorted order')
 
     @staticmethod
     def lint_cantonese_entry_order(cantonese_entries: Optional[list['CantoneseEntry']]):
@@ -1470,14 +2471,14 @@ class CharacterEntry:
             return None
 
         return [
-            ReadingVariation(jyutping)
+            ReadingVariation(raw_jyutping)
             for match in re.finditer(
-                pattern=r'^ [ ]+ - [ ] (?P<jyutping> \S+ )',
+                pattern=r'^ [ ]+ - [ ] (?P<raw_jyutping> \S+ )',
                 flags=re.MULTILINE | re.VERBOSE,
                 string=content,
             )
             if (
-                jyutping := match.group('jyutping'),
+                raw_jyutping := match.group('raw_jyutping'),
             )
         ]
 
@@ -1506,19 +2507,29 @@ class CharacterEntry:
         ]
 
     @staticmethod
-    def extract_see_also_links(content: Optional[str]) -> Optional[list[str]]:
+    def extract_see_also_links(content: Optional[str]) -> Optional[list['SeeAlsoLink']]:
         if content is None:
             return None
 
         return [
-            link
+            SeeAlsoLink(content, jyutping, character_content, is_canonical)
             for match in re.finditer(
-                pattern=r'^ [ ]+ - [ ] (?P<link> \S+ )',
+                pattern=r'''
+                    ^ [ ]+ - [ ]
+                    (?P<content>
+                        (?P<opening_bracket> \( )?
+                        \$ (?P<character_content> \S+? ) (?P<jyutping> [a-z]+[1-6] )
+                        (?(opening_bracket) \) )
+                    )
+                ''',
                 flags=re.MULTILINE | re.VERBOSE,
                 string=content,
             )
             if (
-                link := match.group('link'),
+                content := match.group('content'),
+                is_canonical := match.group('opening_bracket') is None,
+                character_content := match.group('character_content'),
+                jyutping := match.group('jyutping'),
             )
         ]
 
@@ -1604,24 +2615,34 @@ class AlternativeForm:
 
 
 class ReadingVariation:
+    is_changed: bool
     jyutping: str
+    unchanged_jyutping: Optional[str]
     effective_jyutping: str
     is_redirect_necessary: bool
 
-    def __init__(self, jyutping: str):
+    def __init__(self, raw_jyutping: str):
         if unchanged_match := re.fullmatch(
             pattern=r'(?P<jyutping> [a-z]+[1-6] ) (?P<caret> \^? )',
-            string=jyutping,
+            string=raw_jyutping,
             flags=re.VERBOSE,
         ):
-            effective_jyutping = unchanged_match.group('jyutping')
+            is_changed = False
+            jyutping = unchanged_match.group('jyutping')
+            unchanged_jyutping = None
+            effective_jyutping = jyutping
             caret = unchanged_match.group('caret')
 
         elif changed_match := re.fullmatch(
-            pattern=r'(?P<unchanged_jyutping> [a-z]+[1-6] ) - (?P<changed_tone> [1-6] ) (?P<caret> \^? )',
-            string=jyutping,
+            pattern=r'''
+                (?P<jyutping> (?P<unchanged_jyutping> [a-z]+[1-6] ) - (?P<changed_tone> [1-6] ) )
+                (?P<caret> \^? )
+            ''',
+            string=raw_jyutping,
             flags=re.VERBOSE,
         ):
+            is_changed = True
+            jyutping = changed_match.group('jyutping')
             unchanged_jyutping = changed_match.group('unchanged_jyutping')
             changed_tone = changed_match.group('changed_tone')
             caret = changed_match.group('caret')
@@ -1632,13 +2653,31 @@ class ReadingVariation:
             effective_jyutping = unchanged_jyutping[:-1] + changed_tone
 
         else:
-            raise LintException(f'invalid reading variation `{jyutping}`')
+            raise LintException(f'invalid reading variation `{raw_jyutping}`')
 
         is_redirect_necessary = not caret
 
+        self.is_changed = is_changed
         self.jyutping = jyutping
+        self.unchanged_jyutping = unchanged_jyutping
         self.effective_jyutping = effective_jyutping
         self.is_redirect_necessary = is_redirect_necessary
+
+
+class SeeAlsoLink:
+    is_canonical: bool
+    content: str
+    character_content: str
+    jyutping: str
+
+    def __init__(self, content: str, jyutping: str, character_content: str, is_canonical: bool):
+        self.is_canonical = is_canonical
+        self.content = content
+        self.character_content = character_content
+        self.jyutping = jyutping
+
+    def link_content(self) -> str:
+        return f'${self.character_content}{self.jyutping}'
 
 
 class CantoneseEntry:
@@ -1893,9 +2932,7 @@ class Linter:
                 continue
 
             for see_also_link in see_also_links:
-                other_jyutping = see_also_link.replace('$', '')
-
-                if other_jyutping == jyutping:
+                if (other_jyutping := see_also_link.jyutping) == jyutping:
                     raise LintException(f'self-referential see also link `${jyutping}`')
 
                 if (other_entry_page := entry_page_from_jyutping.get(other_jyutping)) is None:
@@ -1905,7 +2942,10 @@ class Linter:
                     continue
 
                 other_see_also_links = other_entry_page.page_entry.see_also_links
-                if other_see_also_links is None or f'${jyutping}' not in other_see_also_links:
+                if (
+                    other_see_also_links is None
+                    or f'${jyutping}' not in [other_link.link_content() for other_link in other_see_also_links]
+                ):
                     raise LintException(f'missing see also link `${jyutping}` under page entry for `{other_jyutping}`')
 
     @staticmethod
@@ -2041,9 +3081,26 @@ class Linter:
             if (reading_variations := character_entry.reading_variations) is None:
                 continue
 
+            unchanged_jyutping_candidates = [
+                jyutping,
+                *[
+                    rv.jyutping
+                    for rv in reading_variations
+                    if not rv.is_changed
+                ],
+            ]
+
             for reading_variation in reading_variations:
                 other_jyutping = reading_variation.jyutping
+                other_unchanged_jyutping = reading_variation.unchanged_jyutping
                 other_effective_jyutping = reading_variation.effective_jyutping
+
+                if other_unchanged_jyutping and other_unchanged_jyutping not in unchanged_jyutping_candidates:
+                    raise LintException(
+                        f'changed-tone reading variation `{other_jyutping}` '
+                        f'is not based on one of {unchanged_jyutping_candidates} '
+                        f'under {character_entry}'
+                    )
 
                 if jyutping in [other_jyutping, other_effective_jyutping]:
                     raise LintException(
@@ -2103,13 +3160,13 @@ class Linter:
                         )
                     except KeyError:
                         raise LintException(
-                            f'link `{link}` points to non-existent entry under `{character_entry}`; '
-                            f'suppress with `TODO` if yet to be added'
+                            f'link `{link}` points to non-existent entry under `{character_entry}` '
+                            f'(suppress with `TODO` if yet to be added)'
                         )
 
                     if character not in [
                         alternative_form.character
-                        for alternative_form in linked_character_entry.alternative_forms
+                        for alternative_form in (linked_character_entry.alternative_forms or [])
                     ]:
                         raise LintException(f'missing alternative form `{character}` under `{linked_character_entry}`')
 
@@ -2149,8 +3206,8 @@ class Linter:
                         )
                     except KeyError:
                         raise LintException(
-                            f'link `{link}` points to non-existent entry under `{character_entry}`; '
-                            f'suppress with `TODO` if yet to be added'
+                            f'link `{link}` points to non-existent entry under `{character_entry}` '
+                            f'(suppress with `TODO` if yet to be added)'
                         )
 
                     if jyutping not in [
@@ -2177,23 +3234,12 @@ class Linter:
                 continue
 
             for see_also_link in see_also_links:
-                if not (other_link_match := re.fullmatch(
-                    pattern=r'\$ (?P<other_character_content> \S+? ) (?P<other_jyutping> [a-z]+[1-6] )',
-                    string=see_also_link,
-                    flags=re.VERBOSE,
-                )):
-                    raise LintException(f'bad see also link `{see_also_link}` under `{character_entry}`')
-
-                other_character_content = other_link_match.group('other_character_content')
-                other_jyutping = other_link_match.group('other_jyutping')
-
-                if other_jyutping == jyutping:
+                if (other_jyutping := see_also_link.jyutping) == jyutping:
                     raise LintException(f'self-referential see also link `{universal_link}` under `{character_entry}`')
 
-                other_character = CmdIdioms.strip_compositions(other_character_content)
-                if character != other_character:
+                if character != (other_character := CmdIdioms.strip_compositions(see_also_link.character_content)):
                     raise LintException(
-                        f'wrong character `{other_character}` in see also link `{see_also_link}` '
+                        f'wrong character `{other_character}` in see also link `{see_also_link.content}` '
                         f'under `{character_entry}`'
                     )
 
@@ -2202,8 +3248,23 @@ class Linter:
                 except KeyError:
                     continue
 
+                if see_also_link.is_canonical != other_character_entry.is_canonical:
+                    if other_character_entry.is_canonical:
+                        raise LintException(
+                            f'bracketed see also link `{see_also_link.content}` targeting canonical entry '
+                            f'under `{character_entry}`'
+                        )
+                    else:
+                        raise LintException(
+                            f'unbracketed see also link `{see_also_link.content}` targeting non-canonical entry '
+                            f'under `{character_entry}`'
+                        )
+
                 other_see_also_links = other_character_entry.see_also_links
-                if other_see_also_links is None or universal_link not in other_see_also_links:
+                if (
+                    other_see_also_links is None
+                    or universal_link not in [other_link.link_content() for other_link in other_see_also_links]
+                ):
                     raise LintException(f'missing see also link `{universal_link}` under `{other_character_entry}`')
 
     @staticmethod

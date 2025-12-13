@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -667,7 +667,7 @@ P
   ++
 S
   ==
-  - $儘zeon6
+  - ($儘zeon6)
   ==
 $$
 
@@ -837,7 +837,7 @@ W
   ====
 S
   ==
-  - $燼zeon6
+  - ($燼zeon6)
   ==
 $$
 
@@ -1148,7 +1148,7 @@ W
     - _tsun(3) (1)shan_
         [[zeon3 san1 搢紳]],
         the "~~red~~ ``tucking`` sashes" are the gentry or literati;
-    - _tsun(3) (1)shan (4)ts(')(u:)n (1)shu_
+    - _tsun(3) (1)shan (4)ts(')(u:)n (1)sh(u:)_
         [[zeon3 san1 cyun4 syu1 搢紳全書]],
         the red book;
     - _tsun(3) (1)shan (1)s(i/)n ~~(1)shang~~ ``(1)sh(a/)ng``_
@@ -1200,6 +1200,7 @@ W
 P
   ++
   1. To rise, to promote.
+  1. A surname (Kangxi: 姓).
   ++
 $$
 
@@ -1224,7 +1225,7 @@ W
 S
   ==
   - $朘syun1 (TODO)
-  - $朘zyun1
+  - ($朘zyun1)
   ==
 $$
 
@@ -1552,7 +1553,7 @@ C
   ==
 S
   ==
-  - $鐫zyun1
+  - ($鐫zyun1)
   ==
 $$
 
@@ -1815,6 +1816,6 @@ E
   ====
 S
   ==
-  - $盡zeon2
+  - ($盡zeon2)
   ==
 $$

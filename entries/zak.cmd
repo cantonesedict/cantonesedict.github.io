@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zak
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -181,7 +181,7 @@ W
         how then?
     - _tsak(7) ko(3)_
         [[zak1 go3 則個]] in the court dialect
-        is like _pa(6) lok(8)_ [[baa6 lok3 罷咯]]
+        is like _p(a/)(6) lok(8)_ [[baa6 lok3 罷咯]]
         well, then;
         _e.~g._ _sh(u:)(3) ~~tsui(6)~~ ``ts(u/)i(6)`` tsak(7) ko(3)_
         [[syu3 zeoi6 zak1 go3 恕罪則個]]
@@ -281,7 +281,7 @@ F
   ==
 W
   ====
-  - [[Page~550 鯽(7)]]
+  - [[Page~551 鯽(7)]]
     --
     [[Alternative form of 鰂. **See $鰂zak1 for the canonical entry.**]]
     --
@@ -307,10 +307,10 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~550 鯽(7); here normalised to 鰂]]
+  - [[Page~551 鯽(7); here normalised to 鰂]]
     ==
     - A species of bream _(Cyprinus gibelioides)_ with a long dorsal,
-      called _tsak(7) (5)n(a/) (4)(u:)_ [[zak1 naa5 jyu4-2 鰂乸魚]];
+      called _tsak(7) ~~(5)n(a/)~~ ``(2)n(a/)`` (4)(u:)_ [[zak1 naa2 jyu4-2 鰂乸魚]];
     - _shuk(7) kwat(7) tsak(7)_
         [[suk1 gwat1 zak1 縮骨鰂]]
         the blunt headed bream _(Cyprinus abbreviatus)_;
@@ -322,6 +322,7 @@ W
 C
   ==
   - Used in 鰂魚涌 Quarry Bay, in Hong Kong.
+  - Williams' 鰂乸魚: Corrected _(5)n(a/)_ (naa5) to _(2)n(a/)_ (naa2).
   ==
 S
   ==

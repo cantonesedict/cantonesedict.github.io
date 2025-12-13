@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2025-11-04
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -234,7 +234,7 @@ W
   ====
 S
   ==
-  - $呀aa3
+  - ($呀aa3)
   - $呀aa4
   - $呀aa6
   - $呀ngaa4
@@ -512,7 +512,7 @@ W
   ====
 S
   ==
-  - $呀aa1
+  - ($呀aa1)
   - $呀aa4
   - $呀aa6
   - $呀ngaa4
@@ -579,7 +579,7 @@ E
   ====
 S
   ==
-  - $啊aa1
+  - ($啊aa1)
   ==
 $$
 
@@ -714,8 +714,8 @@ E
   ====
 S
   ==
-  - $呀aa1
-  - $呀aa3
+  - ($呀aa1)
+  - ($呀aa3)
   - $呀aa6
   - $呀ngaa4
   ==
@@ -777,8 +777,8 @@ C
   ==
 S
   ==
-  - $呀aa1
-  - $呀aa3
+  - ($呀aa1)
+  - ($呀aa3)
   - $呀aa4
   - $呀ngaa4
   ==

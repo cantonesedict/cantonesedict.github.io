@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aak
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -191,7 +191,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~3 阨(7) _(A/)k(7)_ (aak1)]]
+  - [[Page~3 阨(7) ^_(A/)k(7)_ (aak1)]]
     --
     [[Alternative form of 呃. **See $呃aak1 for the canonical entry.**]]
     --
@@ -201,7 +201,7 @@ W
   ====
 S
   ==
-  - $阨aai3
+  - ($阨aai3)
   - $阨ak1
   ==
 $$

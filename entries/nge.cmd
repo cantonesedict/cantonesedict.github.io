@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> nge
-* %date-modified --> 2025-11-12
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -61,7 +61,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~724 _(4)Ng(e/)_; here assigned to {𫫃=⿰口挨}]]
+  - [[Page~724 ^_(4)Ng(e/)_ (nge4); here assigned to {𫫃=⿰口挨}]]
     --
     A colloquial word.
     --
@@ -74,7 +74,7 @@ W
   ====
 S
   ==
-  - ${𫫃=⿰口挨}ai1
+  - (${𫫃=⿰口挨}ai1)
   - ${𫫃=⿰口挨}e1
   ==
 $$

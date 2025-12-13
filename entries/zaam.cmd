@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -62,12 +62,11 @@ U
 F
   [[Not present]]
 W
-  ====
-  - [[Page~554 (2)篸 _Ts(')(a/)m_ (caam2); here corrected to _(1)Ts(a/)m_ (zaam1)]]
-    --
-    [[Alternative form of 簪. **See $簪zaam1 for the canonical entry.**]]
-    --
-  ====
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 簪. **See $簪zaam1 for the canonical entry.**
+  ++
 S
   ==
   - $篸caam1
@@ -114,7 +113,7 @@ W
         [[gai1 zaam1 mai5 雞簪米]],
         the fowl pecks the rice---a colloquial phrase.
     ==
-  - [[Page~554 (2)篸 _Ts(')(a/)m_ (caam2); here corrected to _(1)Ts(a/)m_ (zaam1) and normalised to 簪]]
+  - [[Page~554 (2)篸 _(2)Ts(')(a/)m_ (caam2); here corrected to _(1)Ts(a/)m_ (zaam1) and normalised to 簪]]
     ==
     - [[...]];
     - a hair-pin [[Kangxi 篸: 同簪]];
@@ -287,7 +286,7 @@ U
   U+6E5B
 V
   ==
-  - zaam6 (per Kangxi 宅減切)
+  - zaam6 (per Kangxi 宅減切 for non-surname senses and 丈陷切 for surname sense)
   ==
 F
   ==
@@ -303,10 +302,14 @@ W
     - clear, calm [[Kangxi: 湛安也]], as a quiet moonlight.
     ==
   ====
+P
+  ++
+  1. A surname (Kangxi: 姓也).
+  ++
 S
   ==
-  - $湛cam4
-  - $湛zam3
+  - ($湛cam4)
+  - ($湛zam3)
   ==
 $$
 
@@ -385,7 +388,7 @@ W
 S
   ==
   - $攙caam1
-  - $攙caam4
+  - ($攙caam4)
   ==
 $$
 

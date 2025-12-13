@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ciu
-* %date-modified --> 2025-11-12
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -122,7 +122,7 @@ W
   ====
 S
   ==
-  - $昭ziu1
+  - ($昭ziu1)
   ==
 $$
 
@@ -143,8 +143,8 @@ P
   ++
 S
   ==
-  - $炤ziu1
-  - $炤ziu3
+  - ($炤ziu1)
+  - ($炤ziu3)
   ==
 $$
 
@@ -257,12 +257,11 @@ U
 F
   [[Not present]]
 W
-  ====
-  - [[Page~582 鍫(3) _Ts(')i(u/)(3)_ (ciu3); here corrected to _(1)Ts(')i(u/)_ (ciu1)]]
-    --
-    [[Alternative form of 鍬. **See $鍬ciu1 for the canonical entry.**]]
-    --
-  ====
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 鍬. **See $鍬ciu1 for the canonical entry.**
+  ++
 $$
 
 ###+ 鍬1 | _(1)Ts(')i(u/)_ [[ciu1]]
@@ -280,7 +279,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~582 鍫(3) _Ts(')i(u/)(3)_ (ciu3); here normalised to 鍬, and corrected to _(1)Ts(')i(u/)_ (ciu1)]]
+  - [[Page~582 鍫(3) _Ts(')i(u/)(3)_ (ciu3); here corrected to _(1)Ts(')i(u/)_ (ciu1) and normalised to 鍬]]
     ==
     - A spade or pick [[Kangxi 鍫: 臿也]];
     - an implement for turning up the ground;
@@ -371,7 +370,7 @@ C
   ==
 S
   ==
-  - $愀cau1
+  - ($愀cau1)
   ==
 $$
 
@@ -462,7 +461,7 @@ W
   ====
 S
   ==
-  - $偢cau1
+  - ($偢cau1)
   ==
 $$
 
@@ -709,7 +708,7 @@ P
   ++
 S
   ==
-  - $晁ziu1
+  - ($晁ziu1)
   ==
 $$
 
@@ -750,7 +749,7 @@ W
     - _(5)sh(e/)ung (4)ch(')i(u/)_
         [[soeng5 ciu4 上朝]],
         to go up to court;
-    - _(2)ching teon(6) (4)ch(')i(u/) (1)kong_
+    - _(2)ching tun(6) (4)ch(')i(u/) (1)kong_
         [[zing2 deon6 ciu4 gong1 整頓朝綱]]^
         to strengthen the government;
     - _(4)ch(')i(u/) (1)f(a/)n_
@@ -950,8 +949,12 @@ C
   - Fan Wan entry: Normalised headword ⿱誰灬 to 譙.
   - Williams' 譙車: Corrected _(4)^tsi(u/)_ (ziu4) to _(4)ts(')i(u/)_ (ciu4).
   ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 S
   ==
-  - $譙ciu3
+  - ($譙ciu3)
   ==
 $$

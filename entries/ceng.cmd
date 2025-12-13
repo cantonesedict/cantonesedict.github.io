@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceng
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -70,7 +70,7 @@ W
   ====
 S
   ==
-  - $靑cing1
+  - ($靑cing1)
   ==
 $$
 

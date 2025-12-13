@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2025-11-06
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -199,7 +199,7 @@ W
         [[ce1 cong4 車床]],
         a lathe;
     - _(5)m(a/) (1)ch(')(e/)_
-        [[ma5 ce1 馬車]],
+        [[maa5 ce1 馬車]],
         a horse and carriage;
     - _(2)fo (1)ch(')(e/)_
         [[fo2 ce1 火車]],
@@ -218,6 +218,11 @@ C
   - Williams' 車歪咁轉: Corrected _(4)m(e/)_ (me4) to _(2)m(e/)_ (me2),
     and corrected _(2)ch(u:)n_ (zyun2) to _ch(u:)n(3)_ (zyun3).
   ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  1. Used in 子車 (a compound surname) (Kangxi: 子車複姓).
+  ++
 S
   ==
   - $車geoi1 (TODO)
@@ -581,7 +586,7 @@ W
     - _(4)ts(')(e/) (4)ts(')(e/) tik(7)_
         [[ce4 ce4 dik1 斜斜滴]]
         it is rather awry;
-    - _(1)sau (4)ts(')(e/) (i/)t(9)_
+    - _(1)sai (4)ts(')(e/) (i/)t(9)_
         [[sai1 ce4 jit6 西斜熱]]
         the afternoon sun is hot;
     - _(4)ts(')(e/) (1)fung_

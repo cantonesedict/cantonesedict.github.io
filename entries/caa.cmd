@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2025-11-06
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -139,7 +139,7 @@ W
 C
   ==
   - The reading _(1)ch(')(a/)_ (caa1) is not unattested;
-    the character 岔 appears under 《洪武正韻牋》初加切逸字.
+    the character 岔 appears under 《正韻牋》初加切逸字.
   - Williams does not provide separate entries for 岔 and $汊1,
     probably following Kangxi, which has 與汊同 under 岔.
     I have split things up accordingly.
@@ -147,7 +147,7 @@ C
   ==
 S
   ==
-  - $岔caa3
+  - ($岔caa3)
   ==
 $$
 
@@ -170,7 +170,7 @@ W
     - to err, to differ [[Kangxi: 貳也不相値也]];
     - to miss the mark, to exceed;
     - error, fault, discrepancy, excess, differing, unlike, unassorted;
-    - _t(a/)i(6) (1)ch(')(a/) tak(9) (1)ch'(a/)_
+    - _t(a/)i(6) (1)ch(')(a/) tak(9) (1)ch(')(a/)_
         [[daai6 caa1 dak6 caa1 大差特差]],
         very wrong;
     - _(1)ch(')(a/) tak(7) (5)(u:)n_
@@ -250,7 +250,7 @@ W
   ====
 S
   ==
-  - $扠caa5
+  - ($扠caa5)
   ==
 $$
 
@@ -286,7 +286,7 @@ C
   ==
 S
   ==
-  - $汊caa3
+  - ($汊caa3)
   ==
 $$
 
@@ -320,7 +320,7 @@ W
   ====
 S
   ==
-  - $艖co1
+  - ($艖co1)
   ==
 $$
 
@@ -424,7 +424,7 @@ W
   ====
 S
   ==
-  - $咤zaa3
+  - ($咤zaa3)
   ==
 $$
 
@@ -703,6 +703,10 @@ W
         idle prying into matters, tedious questioning.
     ==
   ====
+S
+  ==
+  - $查zaa1
+  ==
 $$
 
 ### 槎4 | _(4)Ch(')(a/)_ [[caa4]]
@@ -750,7 +754,7 @@ W
   ====
 S
   ==
-  - $痄zaa2
+  - ($痄zaa2)
   - $痄zaa3
   ==
 $$

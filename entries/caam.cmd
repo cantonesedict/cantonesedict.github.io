@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2025-11-04
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -194,7 +194,7 @@ C
   ==
 S
   ==
-  - $攙caam4
+  - ($攙caam4)
   - $攙zaam6
   ==
 $$
@@ -210,7 +210,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~554 (2)篸 _Ts(')(a/)m_ (caam2); here corrected to _(1)Ts(')(a/)m_ (caam1)]]
+  - [[Page~554 (2)篸 _(2)Ts(')(a/)m_ (caam2); here corrected to _(1)Ts(')(a/)m_ (caam1)]]
     ==
     - Bamboos varying in length [[Kangxi: 篸{𥰭=⿱𥫗差}竹貌]];
     - a pandean pipe [[Kangxi: 洞簫也]];
@@ -226,7 +226,7 @@ C
 S
   ==
   - $篸caam2
-  - $篸zaam1
+  - ($篸zaam1)
   ==
 $$
 
@@ -435,7 +435,7 @@ W
 S
   ==
   - $篸caam1
-  - $篸zaam1
+  - ($篸zaam1)
   ==
 $$
 
@@ -466,11 +466,11 @@ V
   ==
 F
   ==
-  - (F2.64 杉) 儳越叅雜也
+  - (F2.64 儳) ::儳越[叅雜]也::
   ==
 W
   ====
-  - [[Page~16|n59 懺(3)]]
+  - [[Page~16|n59 儳(3)]]
     ==
     - Irregular, disorderly [[Kangxi: 儳互不齊也]], as undrilled troops [[Kangxi: 師次不整]];
     - ~~unequal,~~ uneven [[Kangxi: 亦不齊也]];
@@ -482,8 +482,9 @@ W
   ====
 C
   ==
+  - Fan Wan entry: Fixed missing strokes in 叅 and 雜.
   - Williams' "Irregular, disorderly, as undrilled troops":
-    Kangxi has this sense under 士咸切 _ch(')(a/)m_ (caam4).
+    Kangxi has this sense under 士咸切 _(4)ch(')(a/)m_ (caam4).
     Still, the reading _ch(')(a/)m(3)_ (caam3) for "disorderly" is not unattested;
     《集韻》 has the reading ::[叉]鑑切::, explained 儳仾不齊也.
     Kangxi paraphrases this as 又《集韻》初鑒切音懺亦不齊也又雜言也.
@@ -609,7 +610,7 @@ C
   ==
 S
   ==
-  - $劖caam5
+  - ($劖caam5)
   ==
 $$
 
@@ -1017,7 +1018,7 @@ E
   ====
 S
   ==
-  - $棖caan5
+  - ($棖caan5)
   - $棖caang4
   ==
 $$
@@ -1093,6 +1094,6 @@ E
   ====
 S
   ==
-  - $鏨zaam6
+  - ($鏨zaam6)
   ==
 $$

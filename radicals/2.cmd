@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 2-stroke radicals
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-12-02
 * %copyright-prior-years --> 2024--
 * %meta-description --> index of characters with 2-stroke radicals
 
@@ -133,6 +133,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - {$份fan2, $份fan6}
       - $伐fat6
+      - $伙fo2
       - $仲zung6
       ==
       </nav>
@@ -782,6 +783,14 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $匠zoeng6
+      ==
+      </nav>
+  //
+    , 8
+    ,
+      <nav class="sideways">
+      ==
+      - {$匪fan1, $匪fei1, $匪fei2}
       ==
       </nav>
 ''

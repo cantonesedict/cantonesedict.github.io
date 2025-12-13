@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aan
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -98,7 +98,7 @@ W
     - _ts(o\)(6) (a/)n(3)_
         [[zou6 aan3 做晏]]
         to get tiffin;
-    - _k(o\)m(3)(a/)n(3)_
+    - _k(o\)m(3) (a/)n(3)_
         [[gam3 aan3 咁晏]]
         so late!
     ==
@@ -109,6 +109,10 @@ C
   - Williams' "tiffin": British for "lunch".
   - Williams' 上晏: Now rarely heard; 上晝 is more common.
   ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 E
   ====
   - 【晏】 (aan3):

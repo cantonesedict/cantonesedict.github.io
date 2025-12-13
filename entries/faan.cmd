@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faan
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -270,7 +270,7 @@ E
 S
   ==
   - $番bo1 (TODO)
-  - $番faan4
+  - ($番faan4)
   - $番po4 (TODO) <## (alternative form of $皤po4) ##>
   - $番pun1 (TODO)
   - $番pun4 (TODO)
@@ -302,7 +302,7 @@ W
   ====
 S
   ==
-  - $籓faan4
+  - ($籓faan4)
   ==
 $$
 
@@ -644,7 +644,7 @@ W
     - to combine against;
     - opposed to, but, contrary;
     - again;
-    - _(2)fan ~~fuk(9)~~ ``fuk(7)``_
+    - _(2)f(a/)n ~~fuk(9)~~ ``fuk(7)``_
         [[faan2 fuk1 反覆]]
         repetition, to and fro, to retract;
     - _(1)s(e/)ung (2)f(a/)n_
@@ -891,7 +891,7 @@ P
 S
   ==
   - $氾faan4
-  - $氾faan6
+  - ($氾faan6)
   ==
 $$
 
@@ -983,7 +983,7 @@ C
   ==
 S
   ==
-  - $泛faan6
+  - ($泛faan6)
   - $泛fung2 (TODO)
   ==
 $$
@@ -1109,7 +1109,7 @@ P
   ++
 S
   ==
-  - $販faan6
+  - ($販faan6)
   ==
 $$
 
@@ -1321,7 +1321,7 @@ P
 S
   ==
   - $氾faan3
-  - $氾faan6
+  - ($氾faan6)
   ==
 $$
 
@@ -1333,6 +1333,10 @@ R
   ⾴ + 4
 U
   U+7169
+V
+  ==
+  - faan4-2 (rising second in vernacular 煩煩地)
+  ==
 F
   ==
   - (F2.68 煩) 勞也擾也
@@ -1628,7 +1632,7 @@ W
   ====
 S
   ==
-  - $蕃faan1
+  - ($蕃faan1)
   - $蕃po4 (TODO) <## (alternative form of $皤po4) ##>
   ==
 $$
@@ -1684,7 +1688,7 @@ P
   ++
 S
   ==
-  - $藩faan1
+  - ($藩faan1)
   ==
 $$
 
@@ -1833,7 +1837,7 @@ P
   ++
 S
   ==
-  - $梵faan4
+  - ($梵faan4)
   ==
 $$
 
@@ -1851,7 +1855,7 @@ W
 P
   ++
   1. Reading variation. **See $氾faan3 for the canonical entry.**
-  1. Alternative form of 泛, and reading variation. See $泛faan3.
+  1. Alternative form of 泛, and reading variation. **See $泛faan3 for the canonical entry.**
   ++
 S
   ==

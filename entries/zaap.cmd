@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaap
-* %date-modified --> 2025-11-03
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -128,7 +128,7 @@ P
   ++
 S
   ==
-  - $眨zaam2
+  - ($眨zaam2)
   ==
 $$
 
@@ -151,7 +151,7 @@ P
   ++
 S
   ==
-  - $砸zaak3
+  - ($砸zaak3)
   ==
 $$
 
@@ -190,7 +190,7 @@ W
   - [[Page~22* 褶(8) _Ch(i/)p(8)_ (zip3)]]
     --
     Used for the last [[襵]],
-    but always read _ch(a/)p(8)_ or _ts(a/)p(8)_ [[both zaap3]].
+    but always read _ch(a/)p(8)_ or _ts(a/)p(8)_ [[^both zaap3]].
     --
     ==
     <##
@@ -215,7 +215,7 @@ S
   ==
   - $褶dip6 (TODO)
   - $褶zaap6
-  - $褶zip3
+  - ($褶zip3)
   ==
 $$
 
@@ -414,7 +414,7 @@ S
   ==
   - $褶dip6 (TODO)
   - $褶zaap3
-  - $褶zip3
+  - ($褶zip3)
   ==
 $$
 
@@ -700,7 +700,7 @@ A
   ==
 V
   ==
-  - zaap6-2 (in 打雜)
+  - zaap6-2 (in 打雜, and rising second in vernacular 雜雜地)
   ==
 F
   ==

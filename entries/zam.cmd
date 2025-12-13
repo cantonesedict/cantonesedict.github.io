@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -122,7 +122,7 @@ W
   - [[Page~14|n57 (1)椹]]
     <##
     --
-    TODO: Used for _sham[(6)]_ [[sam6]] 葚, the mulberry seed.
+    TODO: Used for _sham``(6)``_ [[sam6]] 葚, the mulberry seed.
     --
     ##>
     --
@@ -251,12 +251,12 @@ W
 C
   ==
   - The reading _(1)ts(')am_ (cam1) is not unattested;
-    《洪武正韻牋》 has the reading 七林切, explained 精氣感祥又日旁氣.
+    《正韻牋》 has the reading 七林切, explained 精氣感祥又日旁氣.
   - Fan Wan entry: Corrected headword 䘲 to 祲.
   ==
 S
   ==
-  - $祲cam1
+  - ($祲cam1)
   ==
 $$
 
@@ -718,7 +718,7 @@ C
     For this departing-tone reading of 沈, note that:
     ==
     - 《廣韻》 provides no explanation (it simply cross-references
-      the level-tone reading _ch(')am_ (cam4) as 又直壬切).
+      the level-tone reading _(4)ch(')am_ (cam4) as 又直壬切).
     - 《集韻》 has the explanation 沒也.
     - Kangxi has 亦沒也 followed by the alternative sense 一曰投物水中也.
     ==
@@ -739,7 +739,7 @@ E
 S
   ==
   - $浸cam1
-  - $浸zam6
+  - ($浸zam6)
   ==
 $$
 
@@ -753,15 +753,14 @@ U
 F
   [[Not present]]
 W
-  ====
-  - [[Page~16|n59 湛(3) _Ch(a/)m(3)_ (zaam3); here corrected to _Tsam(3)_ (zam3)]]
-    --
-    [[Alternative form of 浸. **See $浸zam3 for the canonical entry.**]]
-    --
-  ====
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 浸. **See $浸zam3 for the canonical entry.**
+  ++
 S
   ==
-  - $湛cam4
+  - ($湛cam4)
   - $湛zaam3
   ==
 $$
@@ -801,7 +800,7 @@ C
   ==
 S
   ==
-  - $譖cam3
+  - ($譖cam3)
   ==
 $$
 

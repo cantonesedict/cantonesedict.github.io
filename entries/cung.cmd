@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cung
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -130,6 +130,7 @@ C
 P
   ++
   1. To feign.
+  1. A surname (Kangxi: 姓).
   ++
 $$
 
@@ -729,7 +730,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~608 (1)葱]]
+  - [[Page~608 (1)葱; here normalised to 蔥]]
     ==
     - An onion~~, garlic~~;
     - a general name for alliaceous vegetables [[Kangxi 葱: 菜也 etc.]];
@@ -863,7 +864,7 @@ P
   ++
 S
   ==
-  - $衷zung1
+  - ($衷zung1)
   - $衷zung3
   ==
 $$
@@ -1304,12 +1305,13 @@ C
 P
   ++
   1. To pursue, to partake in.
+  1. A surname (Kangxi: 姓).
   ++
 S
   ==
   - $從sung1 (TODO)
-  - $從zung1
-  - $從zung3
+  - ($從zung1)
+  - ($從zung3)
   - $從zung6
   ==
 $$
@@ -1348,7 +1350,7 @@ P
   ++
 S
   ==
-  - $悰zung1
+  - ($悰zung1)
   ==
 $$
 
@@ -1397,6 +1399,10 @@ W
         in which Sh(a/)ngh(a/)i [[上海]] lies.
     ==
   ====
+P
+  ++
+  1. A surname.
+  ++
 $$
 
 ###+ 樷4 | _(4)Ts(')ung_ [[cung4]]
@@ -1494,7 +1500,7 @@ W
   ====
 S
   ==
-  - $潀zung1
+  - ($潀zung1)
   ==
 $$
 
@@ -1518,7 +1524,7 @@ W
   ====
 S
   ==
-  - $潨zung1
+  - ($潨zung1)
   ==
 $$
 
@@ -1568,7 +1574,7 @@ F
   ==
 W
   ====
-  - [[Page~606 (1)淙 _(1)Tsung_ (zung1); here normalised to _(4)Ts(')ung_ (cung4)]]
+  - [[Page~606 (1)琮 _(1)Tsung_ (zung1); here normalised to _(4)Ts(')ung_ (cung4)]]
     ==
     - An ancient badge ~~of princely dignity~~, eight or nine inches wide,
       octagonal, and having a hole in it [[Kangxi: 瑞玉大八寸似車釭, 謂其狀外八角而中圓也]].
@@ -1576,7 +1582,7 @@ W
   ====
 S
   ==
-  - $琮zung1
+  - ($琮zung1)
   ==
 $$
 
@@ -1733,6 +1739,10 @@ R
   ⾥ + 2
 U
   U+91CD
+V
+  ==
+  - cung5-2 (rising second in vernacular 重重地)
+  ==
 F
   [[Not present]]
 W

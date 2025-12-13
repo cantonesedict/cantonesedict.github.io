@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2025-11-08
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -301,7 +301,7 @@ W
     - _(1)tsz' shik(7)_
         [[zi1 sik1 姿色]]
         a beauty;
-    - _(1)t(i/)n (1)tsz' kwok(8) shik(7)_
+    - _(1)t(')(i/)n (1)tsz' kwok(8) shik(7)_
         [[tin1 zi1 gwok3 sik1 天姿國色]]
         a beauty who can overthrow a state,
         like Y(a/)ng Kwei-fei [[楊貴妃]] of the T(')(a/)ng [[唐]] dynasty.
@@ -410,7 +410,7 @@ W
   ====
 S
   ==
-  - $孶zi6
+  - ($孶zi6)
   ==
 $$
 
@@ -512,6 +512,10 @@ C
   - Fan Wan entry: Corrected 千 to 干.
   - Williams' 支更: Corrected _(1)kang_ (gang1) to _(1)k(a/)ng_ (gaang1).
   ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 $$
 
 ### 枝1 | _(1)Ch(i/)_ [[zi1]]
@@ -708,7 +712,7 @@ C
   ==
 S
   ==
-  - $甾zoi1
+  - ($甾zoi1)
   ==
 $$
 
@@ -790,7 +794,7 @@ C
   ==
 S
   ==
-  - $知zi3
+  - ($知zi3)
   ==
 $$
 
@@ -824,7 +828,7 @@ W
   ====
 S
   ==
-  - $祗zi2
+  - ($祗zi2)
   ==
 $$
 
@@ -854,7 +858,7 @@ C
   ==
 S
   ==
-  - $粢ci4
+  - ($粢ci4)
   ==
 $$
 
@@ -952,7 +956,7 @@ C
   ==
 S
   ==
-  - $胝ci1
+  - ($胝ci1)
   ==
 $$
 
@@ -1148,7 +1152,7 @@ C
 S
   ==
   - $菑zi3
-  - $菑zoi1
+  - ($菑zoi1)
   ==
 $$
 
@@ -1265,7 +1269,7 @@ E
   ====
 S
   ==
-  - $螆ci3
+  - ($螆ci3)
   ==
 $$
 
@@ -1824,6 +1828,13 @@ W
         only one sort;
     - [[...]].
     ==
+  - [[Page~152 (4)祇; here normalised to 只 via 祗]]
+    --
+    [[...]]
+    --
+    --
+    Often confounded with and used for _(2)ch(i/)_ [[zi2]] 祗.
+    --
   ====
 C
   ==
@@ -1836,7 +1847,7 @@ C
   ==
 S
   ==
-  - $只zat1
+  - ($只zat1)
   ==
 $$
 
@@ -1870,8 +1881,8 @@ C
   ==
 S
   ==
-  - $呰ci1
-  - $呰ci4
+  - ($呰ci1)
+  - ($呰ci4)
   ==
 $$
 
@@ -1964,7 +1975,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~11* (4)坻 _(4)Ch(')(i/)_ (ci4); here normalised to 坁, and corrected to _(2)Ch(i/)_ (zi2)]]
+  - [[Page~11* (4)坻 _(4)Ch(')(i/)_ (ci4); here corrected to _(2)Ch(i/)_ (zi2) and normalised to 坁]]
     ==
     - [[...]];
     - to stop [[Kangxi 坻: 止也]].
@@ -1982,12 +1993,11 @@ U
 F
   [[Not present]]
 W
-  ====
-  - [[Page~11* (4)坻 _(4)Ch(')(i/)_ (ci4); here corrected to _(2)Ch(i/)_ (zi2)]]
-    --
-    [[Alternative form of 坁. **See $坁zi2 for the canonical entry.**]]
-    --
-  ====
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 坁. **See $坁zi2 for the canonical entry.**
+  ++
 S
   ==
   - $坻ci4
@@ -2083,7 +2093,7 @@ W
       it indicates that they are smaller than others of the same sort;
     - the 39th~radical [["child"]];
     - _(2)tsz' (1)s(u:)n_
-        [[zi2 sun1 子孫]],
+        [[zi2 syun1 子孫]],
         children, descendants;
     - _t(')(a/)i(3) (2)tsz'_
         [[taai3 zi2 太子]]
@@ -2607,7 +2617,7 @@ W
   ====
 S
   ==
-  - $泚cai5
+  - ($泚cai5)
   - $泚ci2
   ==
 $$
@@ -2652,7 +2662,7 @@ C
   ==
 S
   ==
-  - $滓zoi2
+  - ($滓zoi2)
   ==
 $$
 
@@ -2667,20 +2677,14 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~152 (4)祇]]
-    --
-    [[...]]
-    --
-    --
-    Often confounded with and used for _(2)ch(i/)_ [[zi2]] 祗.
-    --
+  - [[Page~152 (4)祇 _(4)K(')(i/)_ (kei4); _(2)Ch(i/)_ (zi2) implied]]
     --
     [[Alternative form of 只 (for the "only" senses). **See $只zi2 for the canonical entry.**]]
     --
   ====
 C
   ==
-  - Williams' "Often confounded with": See $祗zi2.
+  - This character is easily confused with 祗 (see $祗zi2).
   ==
 S
   ==
@@ -2852,7 +2856,7 @@ W
         [[faan4 zi2 幡紙]],
         sized paper;
     - _(5)l(a/)ng (1)kam (1)ts(i/)n (2)ch(i/)_
-        [[laang5 kam1 zin1 zi2 冷金箋紙]],
+        [[laang5 gam1 zin1 zi2 冷金箋紙]],
         gold dusted paper;
     - _king(3) sik(7) tsz'(6) (2)ch(i/)_
         [[ging3 sik1 zi6 zi2 敬惜字紙]],
@@ -3337,7 +3341,7 @@ W
   ====
 S
   ==
-  - $恣ci3
+  - ($恣ci3)
   ==
 $$
 
@@ -3369,7 +3373,7 @@ W
   ====
 S
   ==
-  - $懥ci3
+  - ($懥ci3)
   ==
 $$
 
@@ -3484,7 +3488,7 @@ W
   ====
 S
   ==
-  - $植zi6
+  - ($植zi6)
   - $植zik6
   ==
 $$
@@ -3593,12 +3597,11 @@ U
 F
   [[Not present]]
 W
-  ====
-  - [[Page~37|n80 (1)知 _(1)Ch(i/)_ (zi1); here corrected to _Ch(i/)(3)_ (zi3)]]
-    --
-    [[Alternative form of 智. **See $智zi3 for the canonical entry.**]]
-    --
-  ====
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 智. **See $智zi3 for the canonical entry.**
+  ++
 S
   ==
   - $知zi1
@@ -3745,7 +3748,7 @@ W
   ====
 S
   ==
-  - $胾zi1
+  - ($胾zi1)
   ==
 $$
 
@@ -3944,7 +3947,7 @@ C
 S
   ==
   - $菑zi1
-  - $菑zoi1
+  - ($菑zoi1)
   ==
 $$
 
@@ -4016,7 +4019,7 @@ W
     - _ch(i/)(3) (1)sh(u:)_
         [[zi3 syu1 誌書]],
         history, records;
-    - _ch(i/)(3) (1)u(") (2)ts(')z'_
+    - _ch(i/)(3) (1)(u:) (2)ts(')z'_
         [[zi3 jyu1 ci2 誌於此]]
         mind is fixed on this.
     ==
@@ -4383,7 +4386,7 @@ W
   ====
 S
   ==
-  - $値zik6
+  - ($値zik6)
   ==
 $$
 
@@ -4624,7 +4627,7 @@ P
   ++
 S
   ==
-  - $孶zi1
+  - ($孶zi1)
   ==
 $$
 
@@ -4772,7 +4775,7 @@ P
   ++
 S
   ==
-  - $植zi3
+  - ($植zi3)
   - $植zik6
   ==
 $$

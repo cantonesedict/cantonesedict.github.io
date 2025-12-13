@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyun
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -233,7 +233,7 @@ P
   ++
 S
   ==
-  - $尊zeon1
+  - ($尊zeon1)
   ==
 $$
 
@@ -276,7 +276,7 @@ P
 S
   ==
   - $朘syun1 (TODO)
-  - $朘zeon3
+  - ($朘zeon3)
   ==
 $$
 
@@ -697,7 +697,7 @@ C
       - Rising: 動也 (to move) and 運也 (to convey).
       - Departing: 流轉 (?).
       ==
-    - 《洪武正韻牋》 has:
+    - 《正韻牋》 has:
       ==
       - Rising: 輾轉 (to toss and turn), 反側也 (to overturn), 又旋也 (to rotate),
         自運也 (to self-move), etc.
@@ -872,7 +872,7 @@ W
         [[tit3 zyun3 鐵鑽]]
         an awl;
     - _(1)kam (1)kong ts(u:)n(3)_
-        [[gam1 gong1 zun3 金剛鑽]]
+        [[gam1 gong1 zyun3 金剛鑽]]
         ~~a~~ diamond or corundum ~~borer~~ [[Kangxi: 金剛鑽生水底 etc.]];
     - _ts(u:)n(3) ling(6)_
         [[zyun3 ling6 鑽？]]
@@ -927,7 +927,7 @@ P
   ++
 S
   ==
-  - $鑽zyun1
+  - ($鑽zyun1)
   ==
 $$
 

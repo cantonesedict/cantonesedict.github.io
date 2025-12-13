@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters with 4-stroke radicals
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-12-10
 * %copyright-prior-years --> 2024--
 * %meta-description --> index of characters with 4-stroke radicals
 
@@ -137,6 +137,7 @@ For all radicals, see [Index of characters by radical](./).
       - {$悰cung4, $悰zung1}
       - $惛fan1
       - $惚fat1
+      - $悱fei2
       ==
       </nav>
   //
@@ -158,6 +159,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - {$愴cong2, $愴cong3}
       - $慉cuk1
+      - ${𢞵=⿱飛必}fit1
       ==
       </nav>
   //
@@ -319,6 +321,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Residual strokes
     ; Character entry links
 |:
+  //
+    , 8
+    ,
+      <nav class="sideways">
+      ==
+      - $扉fei1
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⼾-characters ##>
@@ -431,9 +441,11 @@ For all radicals, see [Index of characters by radical](./).
       - {$措cou3, $措zaak3}
       - {$捽cyut3, $捽zeot1}
       - $㧾fat1
+      - $掝fik6
+      - {$捹fing1, $捹fing3, $捹fing6}
       - $掉zaau6
       - $接zip3
-      - $捷zit6
+      - {$捷zit3, $捷zit6}
       - $掌zoeng2
       - $掇zyut3
       ==
@@ -455,6 +467,7 @@ For all radicals, see [Index of characters by radical](./).
       - $揗ceon4
       - $揮fai1
       - $撝fai1
+      - {$揈fang4, $揈fang6, $揈fing1, $揈fing3, $揈fing6}
       - $揸zaa1
       ==
       </nav>
@@ -532,6 +545,14 @@ For all radicals, see [Index of characters by radical](./).
       ==
       </nav>
   //
+    , 16
+    ,
+      <nav class="sideways">
+      ==
+      - $攉fok3
+      ==
+      </nav>
+  //
     , 17
     ,
       <nav class="sideways">
@@ -553,6 +574,14 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - {$攢cyun4, $攢zyun1}
+      ==
+      </nav>
+  //
+    , 20
+    ,
+      <nav class="sideways">
+      ==
+      - $攫fok3
       ==
       </nav>
 ''
@@ -650,6 +679,14 @@ For all radicals, see [Index of characters by radical](./).
       - $斋zaai1
       ==
       </nav>
+  //
+    , 8
+    ,
+      <nav class="sideways">
+      ==
+      - $斐fei2
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⽂-characters ##>
@@ -665,6 +702,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Residual strokes
     ; Character entry links
 |:
+  //
+    , 5
+    ,
+      <nav class="sideways">
+      ==
+      - $科fo1
+      ==
+      </nav>
   //
     , 7
     ,
@@ -1059,6 +1104,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $牀cong4
       - $松cung4
       - $杵cyu5
       - $杼cyu5
@@ -1073,7 +1119,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $查caa4
+      - {$查caa4, $查zaa1}
       - $柴caai4
       - $柵caak3
       - $栅caak3
@@ -1125,6 +1171,7 @@ For all radicals, see [Index of characters by radical](./).
       - {$楮cyu2, $楮cyu5}
       - $棻fan1
       - {$棼fan1, $棼fan4}
+      - $棐fei2
       - {$棧zaan2, $棧zaan6}
       - {$棦zaang1, $棦zang1}
       - {$棷zau1, $棷zau2}
@@ -1156,6 +1203,7 @@ For all radicals, see [Index of characters by radical](./).
       - $槎caa4
       - {$槍caang1, $槍coeng1}
       - $槌ceoi4
+      - $榧fei2
       - $榨zaa3
       - $榭ze6
       - $榛zeon1
@@ -1598,7 +1646,7 @@ For all radicals, see [Index of characters by radical](./).
       - {$淙cung4, $淙zung1}
       - $淞cung4
       - $涽fan1
-      - $淝fe4
+      - {$淝fe4, $淝fei4}
       - {$淨zeng6, $淨zing6}
       - $淄zi1
       - $渚zyu2
@@ -1736,6 +1784,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Residual strokes
     ; Character entry links
 |:
+  //
+    , 0
+    ,
+      <nav class="sideways">
+      ==
+      - $火fo2
+      ==
+      </nav>
   //
     , 3
     ,
@@ -2003,6 +2059,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Character entry links
 |:
   //
+    , 8
+    ,
+      <nav class="sideways">
+      ==
+      - $牋zin1
+      ==
+      </nav>
+  //
     , 11
     ,
       <nav class="sideways">
@@ -2093,6 +2157,14 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $狀zong6
+      ==
+      </nav>
+  //
+    , 5
+    ,
+      <nav class="sideways">
+      ==
+      - {$狒fai3, $狒fai6, $狒fei6}
       ==
       </nav>
   //

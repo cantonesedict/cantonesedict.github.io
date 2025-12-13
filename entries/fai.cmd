@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fai
-* %date-modified --> 2025-11-04
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -330,7 +330,7 @@ C
 S
   ==
   - $睢seoi1 (TODO)
-  - $睢zeoi1
+  - ($睢zeoi1)
   ==
 $$
 
@@ -532,7 +532,7 @@ W
   [[Not present]]
 P
   ++
-  1. Reading variation. **See $疿fai3 for the canonical entry.**
+  1. Reading variation (vernacular rising-tone noun). **See $疿fai3 for the canonical entry.**
   ++
 S
   ==
@@ -553,13 +553,13 @@ W
   [[Not present]]
 P
   ++
-  1. Alternative form of 疿, and reading variation. **See $疿fai3 for the canonical entry.**
+  1. Alternative form of 疿, and reading variation (vernacular rising-tone noun). **See $疿fai3 for the canonical entry.**
   ++
 S
   ==
-  - $痱fai3
-  - $痱fai6
-  - $痱fei4 (TODO)
+  - ($痱fai3)
+  - ($痱fai6)
+  - $痱fei4
   ==
 $$
 
@@ -571,6 +571,7 @@ $$
 =={.modern}
 - $廢3
 - $沸3
+- $狒3
 - $疿3
 - $痱3
 - $肺3
@@ -588,6 +589,10 @@ R
   ⼴ + 12
 U
   U+5EE2
+V
+  ==
+  - fai3-2 (rising second in vernacular 廢廢地)
+  ==
 F
   ==
   - (F1.32 廢) 絶也棄也
@@ -663,6 +668,28 @@ P
   ++
 $$
 
+###+ 狒3 | _Fai(3)_ [[fai3]]
+
+$$.
+R
+  ⽝ + 5
+U
+  U+72D2
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $狒fei6 for the canonical entry.**
+  ++
+S
+  ==
+  - ($狒fai6)
+  - $狒fei6
+  ==
+$$
+
 ### 疿3 | _Fai(3)_ [[fai3]]
 
 $$
@@ -708,6 +735,7 @@ C
   - Of the two characters, 疿 is the older, as attested in 《黃帝素問》汗出見濕乃生痤疿.
   - Whilst it is 痱 that appears in 《說文》, it is for the different sense
     of "stroke/paralysis", to be read 符非切 _(4)f(i/)_ (fei4).
+    See $痱fei4.
   - Williams' "small boils": Corrected the following semicolon to a comma.
     There is only one sense to be defined here
     (i.e. the pimples and small boils are also from heat, not standalone).
@@ -721,7 +749,7 @@ E
   ====
 S
   ==
-  - $疿fai2
+  - ($疿fai2)
   ==
 $$
 
@@ -742,9 +770,9 @@ P
   ++
 S
   ==
-  - $痱fai2
-  - $痱fai6
-  - $痱fei4 (TODO)
+  - ($痱fai2)
+  - ($痱fai6)
+  - $痱fei4
   ==
 $$
 
@@ -910,7 +938,10 @@ $$
 <nav class="sideways">
 =={.modern}
 - $吠6
+- $屝6
+- $狒6
 - $痱6
+- $菲6
 - $費6
 ==
 </nav>
@@ -939,6 +970,50 @@ W
   ====
 $$
 
+###+ 屝6 | _Fai(6)_ [[fai6]]
+
+$$.
+R
+  ⼫ + 8
+U
+  U+5C5D
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $屝fei6 for the canonical entry.**
+  ++
+S
+  ==
+  - ($屝fei2)
+  - $屝fei6
+  ==
+$$
+
+###+ 狒6 | _Fai(6)_ [[fai6]]
+
+$$.
+R
+  ⽝ + 5
+U
+  U+72D2
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $狒fei6 for the canonical entry.**
+  ++
+S
+  ==
+  - ($狒fai3)
+  - $狒fei6
+  ==
+$$
+
 ###+ 痱6 | _Fai(6)_ [[fai6]]
 
 $$.
@@ -956,9 +1031,33 @@ P
   ++
 S
   ==
-  - $痱fai2
-  - $痱fai3
-  - $痱fei4 (TODO)
+  - ($痱fai2)
+  - ($痱fai3)
+  - $痱fei4
+  ==
+$$
+
+###+ 菲6 | _Fai(6)_ [[fai6]]
+
+$$.
+R
+  ⾋ + 8
+U
+  U+83F2
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 屝, and reading variation. **See $屝fei6 for the canonical entry.**
+  1. Reading variation (for the vegetable sense). **See $菲fei2 for the canonical entry.**
+  ++
+S
+  ==
+  - $菲fei1
+  - $菲fei2
+  - ($菲fei6)
   ==
 $$
 
@@ -969,6 +1068,10 @@ R
   ⾙ + 5
 U
   U+8CBB
+V
+  ==
+  - fei6 (alternative)
+  ==
 F
   [[Not present]]
 W

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aat
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -120,7 +120,7 @@ U
   U+605D
 V
   ==
-  - gaat3 (per 《正韻》訖黠切)
+  - gaat3 (per 《正韻牋》訖黠切)
   - ngaat3 (hypercorrected initial)
   ==
 F
@@ -255,7 +255,7 @@ W
         [[aat3 dung1 押冬]],
         kept over winter; left over the season, as teas.
     ==
-  - [[Page~5 押(8) _(A/)t(8)_ (aat3)]]
+  - [[Page~5 押(8) ^_(A/)t(8)_ (aat3)]]
     ==
     - To pawn for a time;
     - to reserve, to keep back;
@@ -295,7 +295,7 @@ C
   ==
 S
   ==
-  - $押aap3
+  - ($押aap3)
   ==
 $$
 

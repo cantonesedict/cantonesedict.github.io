@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fat
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -503,7 +503,7 @@ F
   ==
 W
   ====
-  - [[Page~50 笏(7)]]
+  - [[Page~50 窟(7)]]
     ==
     - A hole in the ground [[Kangxi: 窟室也孔穴也]];
     - a stable or sty dug out of the earth;
@@ -760,11 +760,11 @@ U
   U+8300
 A
   ==
-  - $祓1 (for "good fortune" sense)
+  - $祓1 (for "good-fortune" sense)
   ==
 V
   ==
-  - fuk1 (for "good fortune" sense)
+  - fuk1 (for "good-fortune" sense)
   ==
 F
   ==
@@ -796,7 +796,7 @@ P
   ++
 S
   ==
-  - $茀fai3
+  - ($茀fai3)
   ==
 $$
 
@@ -809,8 +809,8 @@ U
   U+889A
 V
   ==
-  - fai3 (per 《集韻》方未切 for "knee-cover" sense)
   - but3 (per 《廣韻》北末切 for "barbarian-clothing" and "knee-cover" senses)
+  - fai3 (per 《集韻》方未切 for "knee-cover" sense)
   ==
 F
   [[Not present]]
@@ -1096,7 +1096,7 @@ C
 S
   ==
   - $佛bat6 (TODO) <## same as 弼 ##>
-  - $佛fat1
+  - ($佛fat1)
   ==
 $$
 
@@ -1136,7 +1136,7 @@ A
 V
   ==
   - bat6 (per Fan Wan)
-  - fat1 (per 《洪武正韻牋》敷勿切)
+  - fat1 (per 《正韻牋》敷勿切)
   ==
 F
   ==

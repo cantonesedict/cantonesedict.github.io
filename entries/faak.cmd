@@ -79,7 +79,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~713 _F(a/)k(8)_ (faak3) implied; here assigned to {𢫦=⿰扌百}]]
+  - [[Page~713 ^_F(a/)k(8)_ (faak3) implied; here assigned to {𢫦=⿰扌百}]]
     --
     A colloquial word.
     --

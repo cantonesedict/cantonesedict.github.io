@@ -184,7 +184,7 @@ W
 C
   ==
   - Williams' 矮佬仔: Corrected _(5)l(o\)_ (lou5) to _(2)l(o\)_ (lou2).
-  - Williams' 畀張矮凳仔你坐: Corrected _tso(6)_ (zo6 去聲) to _(5)ts(')o_ (co5 上聲).
+  - Williams' 畀張矮凳仔你坐: Corrected _tso(6)_ (zo6 去聲^) to _(5)ts(')o_ (co5 上聲^).
   ==
 $$
 

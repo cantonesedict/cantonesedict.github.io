@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of entry pages by Jyutping
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-12-10
 * %copyright-prior-years --> 2023--
 * %meta-description --> index of entry pages by Jyutping
 
@@ -91,6 +91,7 @@ See also: [Index of Cantonese terms by Jyutping](/terms/).
 - $bam (work in progress)
 - $ban (work in progress)
 - $bang (work in progress)
+- $bap (work in progress)
 - $bat (work in progress)
 - $bau (work in progress)
 - $be (work in progress)
@@ -110,7 +111,6 @@ See also: [Index of Cantonese terms by Jyutping](/terms/).
 - $bum (work in progress)
 - $bun (work in progress)
 - $bung (work in progress)
-- $bup (work in progress)
 - $but (work in progress)
 ==
 </nav>
@@ -236,15 +236,16 @@ See also: [Index of Cantonese terms by Jyutping](/terms/).
 - $faat
 - $fai
 - $fan
+- $fang
 - $fat
 - $fau
 - $fe
-- $fei (work in progress)
-- $fik (work in progress)
-- $fing (work in progress)
-- $fit (work in progress)
-- $fo (work in progress)
-- $fok (work in progress)
+- $fei
+- $fik
+- $fing
+- $fit
+- $fo
+- $fok
 - $fong (work in progress)
 - $fu (work in progress)
 - $fui (work in progress)

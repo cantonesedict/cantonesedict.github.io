@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faat
-* %date-modified --> 2025-11-10
+* %date-modified --> 2025-11-23
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -134,6 +134,7 @@ P
   1. A method.
   1. Religious, supernatural, or sorcerous practices.
   1. A divisor.
+  1. A surname (Kangxi: 姓).
   ++
 $$
 
@@ -307,7 +308,7 @@ W
         [[faat3 mong5 髮網]],
         female's false hair;
     - _(1)f(i/) f(a/)t(8)_
-        [[fei1 faat3 飛髮]] <## TODO: 飛髮 fei1 faat3 under $飛fei1 ##>
+        [[fei1 faat3 飛髮]]
         to clip the hair with a razor;
     - _(4)lau (4)t(')au pat(7) (4)lau f(a/)t(8)_
         [[lau4 tau4 bat1 lau4 faat3 留頭不留髮]]

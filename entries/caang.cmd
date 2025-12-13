@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caang
-* %date-modified --> 2025-11-12
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -100,12 +100,11 @@ U
 F
   [[Not present]]
 W
-  ====
-  - [[Page~567 (1)搶 _(1)Ts(')(e/)ung_ (coeng1); here corrected to _(1)Ch(')(a/)ng_ (caang1)]]
-    --
-    [[Alternative form of 槍. **See $槍caang1 for the canonical entry.**]]
-    --
-  ====
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 槍. **See $槍caang1 for the canonical entry.**
+  ++
 S
   ==
   - $搶coeng1
@@ -126,7 +125,7 @@ A
   ==
 F
   ==
-  - (F2.30 撐 _Ch(')ang1_ (cang1)) 窓爭切駕船也
+  - (F2.30 撐 _(1)Ch(')ang_ (cang1)) 窓爭切駕船也
   - (F2.30 撐) 策平聲以物撐物也
   ==
 W
@@ -187,7 +186,7 @@ W
   ====
 S
   ==
-  - $撑caang3
+  - ($撑caang3)
   ==
 $$
 
@@ -242,7 +241,7 @@ W
   ====
 S
   ==
-  - $橕caang3
+  - ($橕caang3)
   ==
 $$
 
@@ -407,7 +406,7 @@ $$
 </nav>
 <## /tone-3-characters ##>
 
-### 撐3 | _Ch(')(a/)ng(3)_ [[caang3]]
+###+ 撐3 | _Ch(')(a/)ng(3)_ [[caang3]]
 
 $$
 R
@@ -460,7 +459,7 @@ S
   ==
 $$
 
-### 撑3 | _Ch(')(a/)ng(3)_ [[caang3]]
+###+ 撑3 | _Ch(')(a/)ng(3)_ [[caang3]]
 
 $$.
 R
@@ -477,7 +476,7 @@ P
   ++
 S
   ==
-  - $撑caang1
+  - ($撑caang1)
   ==
 $$
 
@@ -630,7 +629,7 @@ P
 S
   ==
   - $棖caam5
-  - $棖caan5
+  - ($棖caan5)
   ==
 $$
 
@@ -686,7 +685,7 @@ P
   ++
 S
   ==
-  - $橙caang2
+  - ($橙caang2)
   ==
 $$
 

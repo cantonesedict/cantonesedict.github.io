@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2025-11-03
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -515,7 +515,7 @@ W
     - a thread [[Kangxi: 縝纑縷也]];
     - to tie [[Kangxi: 結也單也]];
     - black [[Kangxi: 縝黑也]];
-    - _(4)shui (2)ch(')an pat(7) pin(3)_
+    - _(4)shui (2)ch(')an pat(7) p(i/)n(3)_
         [[seoi4 can2 bat1 bin3 誰縝不變]]
         whose black hair will not change?
     ==
@@ -705,6 +705,10 @@ R
   ⾐ + 16
 U
   U+896F
+V
+  ==
+  - can3-2 (rising second in vernacular 襯襯地)
+  ==
 F
   ==
   - (F1.85 襯) 貼身衣也又襯貼
@@ -1044,6 +1048,6 @@ P
   ++
 S
   ==
-  - $陳zan6
+  - ($陳zan6)
   ==
 $$

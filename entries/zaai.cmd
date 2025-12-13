@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2025-11-14
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -317,7 +317,7 @@ W
   ====
 S
   ==
-  - $瘵caai3
+  - ($瘵caai3)
   ==
 $$
 
@@ -346,7 +346,7 @@ W
 S
   ==
   - $簀zaak3
-  - $簀zak1
+  - ($簀zak1)
   ==
 $$
 
@@ -419,7 +419,7 @@ W
         [[daa2 zaai6 打寨]]
         to frequent brothels;
     - _luk(9) kok(8) ch(a/)i(6)_
-        [[luk6 hok3 zaai6 六角寨]]
+        [[luk6 gok3 zaai6 六角寨]]
         a stockade defended by chevaux-de-frise;
     - _(4)ying ch(a/)i(6)_
         [[jing4 zaai6 營寨]]

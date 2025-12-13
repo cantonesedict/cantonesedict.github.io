@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zim
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -217,7 +217,7 @@ C
   ==
 S
   ==
-  - $幨cim1
+  - ($幨cim1)
   ==
 $$
 
@@ -309,7 +309,7 @@ W
   ====
 S
   ==
-  - $漸caam4
+  - ($漸caam4)
   - $漸zim6
   ==
 $$
@@ -432,10 +432,10 @@ W
     - a curtain of a car [[Kangxi: 帷也, 車上施帷 etc.]];
     - to adjust, to put the dress in order [[Kangxi: 整貌]];
     - _(4)ts(')(i/)n (1)ch(i/)m_
-        [[cin4 cim1 前襜]],
+        [[cin4 zim1 前襜]],
         the front skirt;
     - _(1)ch(i/)m (1)ch(i/)m_
-        [[cim1 cim1 襜襜]],
+        [[zim1 zim1 襜襜]],
         nice and trim;
         flapping, as a curtain.
     ==
@@ -445,7 +445,7 @@ W
   ====
 S
   ==
-  - $襜cim1
+  - ($襜cim1)
   ==
 $$
 
@@ -507,7 +507,7 @@ W
     - to reach [[Kangxi: 至也]];
     - ~~at, extreme, such a time;~~
     - to examine and direct;
-    - _ch(i/)m ch(i/)m_
+    - _(1)ch(i/)m (1)ch(i/)m_
         [[zim1 zim1 詹詹]],
         loquacious;
     - _(2)kan (1)ch(i/)m_
@@ -588,7 +588,7 @@ C
   ==
 S
   ==
-  - $䠨cim3
+  - ($䠨cim3)
   ==
 $$
 
@@ -801,7 +801,7 @@ W
   ====
 S
   ==
-  - $漸caam4
+  - ($漸caam4)
   - $漸zim1
   ==
 $$

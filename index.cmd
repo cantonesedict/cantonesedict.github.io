@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Home
-* %date-modified --> 2025-11-07
+* %date-modified --> 2025-11-24
 * %copyright-prior-years --> 2023--
 * %modern-colour --> crimson
 * %meta-description --> home page
@@ -71,15 +71,15 @@ by [Samuel Wells Williams].
 </nav>
 
 
-##{#source .modern} Source
+##{#sources .modern} Sources
 
 ###{#master-tonic .modern} Master ''Tonic Dictionary''
 
 --{.modern}
 The version of ''Tonic Dictionary'' used as the master reference is
 [`ark:/13960/s20jtk4f14j` at archive.org]<n2>,
-sourced from [a Google Books scan][google] of
-[83600-B held at <span lang="de">ÖNB Hauptabt. Heldenplatz</span>][onb].
+sourced from [a Google Books scan](https://books.google.com/books?id=X8JhunQfImoC) of
+[83600-B held at <span lang="de">ÖNB Hauptabt. Heldenplatz</span>](https://search.onb.ac.at/permalink/f/128lc6g/ONB_alma21317554760003338).
 --
 --{.modern}
 Note the special paging:
@@ -95,8 +95,8 @@ Note the special paging:
 ###{#subsidiary-tonic .modern} Subsidiary ''Tonic Dictionary''
 
 --{.modern}
-While it would have been more preferable to use
-[`ark:/13960/t0ps1ph66` at archive.org][uiuc]
+While it would have been more preferable to use as master
+[`ark:/13960/t0ps1ph66` at archive.org](https://archive.org/details/tonicdictionaryo00will/page/n6/mode/1up)
 from the Library of the University of Illinois at Urbana-Champaign
 (being both a higher-quality colour scan and not watermarked by Google),
 that version has severe paging issues:
@@ -119,20 +119,70 @@ that version has severe paging issues:
   who scanned the book.
 ++
 
-###{#other-references .modern} Other useful references
+###{#other-key-references .modern} Other key references
 
 $${.modern}
-; [《江湖尺牘分韻撮要合集》 (1838)][fan-wan],
+; [Fan Wan = 《江湖尺牘分韻撮要合集》 (1838)](https://nla.gov.au/nla.obj-56620342),
   by 虞學圃 and 溫岐石.
   ,
   --
   An 1838 re-engraving (道光十八年重鐫)
-  containing the Fan Wan 《分韻撮要》 in the lower half of its pages,
+  containing 《分韻撮要》 in the lower half of its pages,
   as scanned by Trove (in collaboration with the National Library of Australia).
   --
 
-; [''A Chinese Dictionary in the Cantonese Dialect'' (1877)][eitel-dict],
-  by [Ernst Johann Eitel].
+; [Kangxi = 《康熙字典》 (同文書局原版)](https://www.kangxizidian.com/v1/),
+  by a bunch of Ts(')ing Dynasty scholars.
+  ,
+  --
+  A scan of the 同文書局 edition, hosted at 康熙字典網上版.
+  This appears to be consistent with the version used for the purposes of
+  [the `kKangXi` property of the Unihan database](https://unicode.org/reports/tr38/#kKangXi).
+  --
+
+; [《廣韻》 = 《大宋重修廣韻》](https://ytenx.org/kyonh/),
+  by a bunch of Sung Dynasty scholars.
+  ,
+  --
+  A scan of the 澤存堂本, specifically 周祖謨's 《廣韻校本》, hosted at 韻典網.
+  For nicer formatting, see [the version hosted at Kanji Database Project](https://kanji-database.sourceforge.net/dict/sbgy/index.html).
+  --
+
+; [《集韻》 (摛藻堂四庫全書薈要本)](https://ctext.org/wiki.pl?if=en&res=3390942),
+  by a bunch of Sung Dynasty scholars.
+  ,
+  --
+  A scan of the 摛藻堂四庫全書薈要 edition, hosted at Chinese Text Project Wiki.
+  To avoid the annoying login wall (at the expense of searchability),
+  see the scans hosted at the Internet Archive (\
+    [1](https://archive.org/details/06079713.cn/mode/1up),
+    [2](https://archive.org/details/06079714.cn/mode/1up),
+    [3](https://archive.org/details/06079715.cn/mode/1up),
+    [4](https://archive.org/details/06047203.cn/mode/1up),
+    [5](https://archive.org/details/06047204.cn/mode/1up),
+    [6](https://archive.org/details/06047205.cn/mode/1up),
+    [7](https://archive.org/details/06047206.cn/mode/1up),
+    [8](https://archive.org/details/06047207.cn/mode/1up),
+    [9](https://archive.org/details/06047208.cn/mode/1up),
+    [10](https://archive.org/details/06047209.cn/mode/1up)\
+  ).
+  --
+
+; [《正韻牋》 = 《洪武正韻牋》](https://ytenx.org/tcyts/),
+  by a bunch of Ming Dynasty scholars.
+  ,
+  --
+  A scan of 《洪武正韻牋》, hosted at 韻典網.
+  Largely preserves the original 《正韻》,
+  and adds some entries for 逸字 "lost characters".
+  --
+$$
+
+###{#other-useful-resources .modern} Other useful resources
+
+$${.modern}
+; [''A Chinese Dictionary in the Cantonese Dialect'' (1877)](https://books.google.com/books?id=mh8TAAAAYAAJ),
+  by [Ernst Johann Eitel](https://en.wikipedia.org/wiki/Ernst_Johann_Eitel).
   ,
   --
   An expansion of Williams' ''Tonic Dictionary''.
@@ -140,11 +190,12 @@ $${.modern}
   --
   ==
   - Utilising the newly available works
-    by [James Legge] (on the Chinese Classics)
+    by [James Legge](https://en.wikipedia.org/wiki/James_Legge)
+    (on the Chinese Classics)
     to better document the literary language,
     which Eitel felt received insufficient attention
     compared to the Cantonese vernacular in Williams' original work.
-  - Including some characters from Fan Wan 《分韻撮要》 and Kangxi 《康熙字典》
+  - Including some characters from Fan Wan and Kangxi
     which Eitel felt indispensable.
   - Including readings and English translations of definitions from Kangxi.
   - Better distinguishing the register (Classical vs Colloquial vs Mixed)
@@ -153,7 +204,8 @@ $${.modern}
     in the example phrases.
   ==
   --
-  See [Eitel's Introduction] for details.
+  See [Eitel's Introduction](https://books.google.com/books?id=mh8TAAAAYAAJ&jtp=vii)
+  for details.
   --
 
 ; [粵音資料集叢 (jyut.net)](https://jyut.net/), by 石見田.
@@ -169,24 +221,11 @@ $${.modern}
   "Multi-function Chinese Character Database", including Cantonese readings.
   --
 
-; [韻典網 (ytenx.org)](https://ytenx.org/), by BYVoid.
-  ,
-  --
-  A database of the olden rime dictionaries (《廣韻》 etc.).
-  --
-
 ; [說文解字 (shuowen.org)](https://www.shuowen.org/),
   by 'an art lover languishing as a programmer'
   ,
   --
   A database of 《說文解字》, including commentary by 段玉裁.
-  --
-
-; [Chinese Text Project Dictionary](https://ctext.org/dictionary.pl?if=en),
-  by Donald Sturgeon.
-  ,
-  --
-  Easy reference to radical+strokes, Unihan readings, 《廣韻》, and 《康熙字典》.
   --
 
 ; [Dictionary of Chinese Character Variants](https://dict.variants.moe.edu.tw/),
@@ -197,22 +236,13 @@ $${.modern}
   olden character and rime dictionaries in the side bar.
   --
 
-; [萌典 (moedict.tw)](https://www.moedict.tw/), by [Audrey Tang].
+; [萌典 (moedict.tw)](https://www.moedict.tw/),
+  by [Audrey Tang](https://en.wikipedia.org/wiki/Audrey_Tang).
   ,
   --
   Taiwan g0v (gov-zero) dictionary.
   --
 $$
-
-[google]: https://books.google.com/books?id=X8JhunQfImoC
-[onb]: https://search.onb.ac.at/permalink/f/128lc6g/ONB_alma21317554760003338
-[uiuc]: https://archive.org/details/tonicdictionaryo00will/page/n6/mode/1up
-[fan-wan]: https://nla.gov.au/nla.obj-56620342
-[eitel-dict]: https://books.google.com/books?id=mh8TAAAAYAAJ
-[Ernst Johann Eitel]: https://en.wikipedia.org/wiki/Ernst_Johann_Eitel
-[Eitel's Introduction]: https://books.google.com/books?id=mh8TAAAAYAAJ&jtp=vii
-[James Legge]: https://en.wikipedia.org/wiki/James_Legge
-[Audrey Tang]: https://en.wikipedia.org/wiki/Audrey_Tang
 
 
 ##{#modernisation .modern} Modernisation
@@ -233,7 +263,7 @@ consisting of:
 1. Normalising characters and readings
    to account for modern usage and conventions;
 
-1. Associating entries with those in the original Fan Wan 《分韻撮要》;
+1. Associating entries with those in the original Fan Wan;
 
 1. Collating the entries by Jyutping
    (noting that there are phonological differences between

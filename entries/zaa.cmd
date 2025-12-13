@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2025-11-04
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -55,6 +55,7 @@ $$
 - $揸1
 - $撾1
 - $㪥1
+- $查1
 - $樝1
 - $渣1
 - $皻1
@@ -133,7 +134,7 @@ P
   ++
 S
   ==
-  - $吒caa3
+  - ($吒caa3)
   - $吒zaa3
   ==
 $$
@@ -185,7 +186,7 @@ W
     A colloquial particle implying a short time;
     --
     ==
-    - _(2)tang (5)ha(a/) (1)ch(a/)!_
+    - _(2)tang (5)h(a/) (1)ch(a/)!_
         [[dang2 haa5 zaa1 等吓{𠾵=⿰口揸}]]^
         wait a moment;
     - _(2)yam (4)ch(')(a/) (1)ch(a/)_
@@ -319,6 +320,27 @@ W
     - [[...]].
     ==
   ====
+$$
+
+###+ 查1 | _(1)Ch(a/)_ [[zaa1]]
+
+$$
+R
+  ⽊ + 5
+U
+  U+67E5
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. A surname.
+  ++
+S
+  ==
+  - $查caa4
+  ==
 $$
 
 ### 樝1 | _(1)Ch(a/)_ [[zaa1]]
@@ -575,7 +597,7 @@ W
     - _ch(a/)(3) (4)(i/)n_
         [[zaa3 jin4 乍然]],
         abruptly, at once;
-    - _ch(a/)(3) kin(3)_
+    - _ch(a/)(3) k(i/)n(3)_
         [[zaa3 gin3 乍見]]
         happened to see.
     ==
@@ -615,7 +637,7 @@ W
   ====
 S
   ==
-  - $吒caa3
+  - ($吒caa3)
   - $吒zaa1
   ==
 $$
@@ -684,7 +706,7 @@ W
   ====
 S
   ==
-  - $咤caa3
+  - ($咤caa3)
   ==
 $$
 
@@ -758,7 +780,7 @@ W
     --
     ==
     - To press down, to squeeze between the hand;
-    - _(5)l(o\) (1)hong (1)t(o\) ch(a/)(3) ch'ut(7) (4)yau_
+    - _(5)l(o\) (1)hong (1)t(o\) ch(a/)(3) ch(')ut(7) (4)yau_
         [[lou5 hong1 dou1 zaa3 ceot1 jau4 老糠都搾出油]],
         he even squeezes oil from rice chaff.
     ==
@@ -807,7 +829,7 @@ W
     - A running ulcer [[Kangxi: 瘡不合也]];
     - [[...]];
     - _~~(1)shang~~ ``(1)sh(a/)ng`` ~~(2)ch(a/)~~ ``ch(a/)(3)`` (1)soi_
-        [[saang1 zaa3 soi1 生痄腮]],
+        [[saang1 zaa3 soi1 生痄腮]], <## TODO: $腮soi1 ##>
         a swelling on the cheek.
     ==
   ====
@@ -819,7 +841,7 @@ C
 S
   ==
   - $痄caa4
-  - $痄zaa2
+  - ($痄zaa2)
   ==
 $$
 
@@ -858,7 +880,7 @@ C
   ==
 S
   ==
-  - $蚱zaak3
+  - ($蚱zaak3)
   ==
 $$
 
@@ -909,7 +931,7 @@ C
   ==
 S
   ==
-  - $蜡caa3
+  - ($蜡caa3)
   - $蜡ceoi3
   - $蜡laap6 (TODO)
   ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of Cantonese terms by Jyutping
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-12-07
 * %copyright-prior-years --> 2023--
 * %meta-description --> searchable index of Cantonese terms by Jyutping
 
@@ -170,6 +170,9 @@ window.onload = applyFilter;
     , bai3 ai3
     , [贔屭](/entries/ai#cantonese-贔屭)
   //
+    , bai6 gaa1 fo2
+    , [弊家伙](/entries/fo#cantonese-弊家伙)
+  //
     , biu1 ceng1
     , [標青](/entries/cing#cantonese-標青)
   //
@@ -226,6 +229,9 @@ window.onload = applyFilter;
   //
     , caang4 ngaan5
     , [{𥋇=⿰目掌}眼](/entries/caang#cantonese-𥋇眼)
+  //
+    , caap3
+    , [插](/entries/caap#cantonese-插)
   //
     , caap3 zong1 gaa3 wo6
     , [插贓嫁禍](/entries/caap#cantonese-插贓嫁禍)
@@ -488,6 +494,9 @@ window.onload = applyFilter;
     , dak1 zai6
     , [得嚌](/entries/zai#cantonese-得嚌)
   //
+    , diu3-4 diu3-2 fing6
+    , [吊吊揈](/entries/fing#cantonese-吊吊揈)
+  //
     , e6
     , [㖡](/entries/e#cantonese-㖡)
   //
@@ -530,6 +539,9 @@ window.onload = applyFilter;
     , fai3 si6
     , [費事](/entries/fai#cantonese-費事)
   //
+    , fak6
+    , [掝](/entries/fik#cantonese-掝)
+  //
     , fan3
     , [瞓](/entries/fan#cantonese-瞓)
   //
@@ -548,6 +560,18 @@ window.onload = applyFilter;
     , fan6-2
     , [份](/entries/fan#cantonese-份)
   //
+    , fang4
+    , [揈](/entries/fang#cantonese-揈)
+  //
+    , fang4
+    , [訇](/entries/fang#cantonese-訇)
+  //
+    , fang6
+    , [揈](/entries/fang#cantonese-揈)
+  //
+    , fang6
+    , [揈](/entries/fing#cantonese-揈)
+  //
     , fe1
     , [啡](/entries/fe#cantonese-啡)
   //
@@ -563,11 +587,47 @@ window.onload = applyFilter;
     , fe6
     , [淝](/entries/fe#cantonese-淝)
   //
+    , fei1
+    , [飛](/entries/fei#cantonese-飛)
+  //
+    , fei1 hei2
+    , [飛起](/entries/fei#cantonese-飛起)
+  //
+    , fei4 dat1 dat1
+    , [肥腯腯](/entries/fei#cantonese-肥腯腯)
+  //
+    , fei4 dyut1 dyut1
+    , [肥嘟嘟](/entries/fei#cantonese-肥嘟嘟)
+  //
+    , fei4 tan4 tan4
+    , [肥揗揗](/entries/fei#cantonese-肥揗揗)
+  //
+    , fik6
+    , [掝](/entries/fik#cantonese-掝)
+  //
+    , fing6
+    , [揈](/entries/fing#cantonese-揈)
+  //
+    , fing6 tau4 jyun4-2
+    , [揈頭丸](/entries/fing#cantonese-揈頭丸)
+  //
+    , fo2
+    , [火](/entries/fo#cantonese-火)
+  //
+    , fo2 gei3
+    , [伙記](/entries/fo#cantonese-伙記)
+  //
     , fo2 zuk1
     , [火燭](/entries/zuk#cantonese-火燭)
   //
     , fo2 zuk1 ce1
     , [火燭車](/entries/zuk#cantonese-火燭車)
+  //
+    , gaa1 fo2
+    , [家伙](/entries/fo#cantonese-家伙)
+  //
+    , gaa1 fo2-1
+    , [家伙](/entries/fo#cantonese-家伙)
   //
     , gaa1 ze2-1
     , [家姐](/entries/ze#cantonese-家姐)

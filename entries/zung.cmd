@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zung
-* %date-modified --> 2025-11-10
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -255,6 +255,8 @@ C
 P
   ++
   1. An ancestor.
+  1. A surname (Kangxi: 姓).
+  1. Used in 宗政 (a compound surname).
   ++
 $$
 
@@ -277,7 +279,7 @@ S
   ==
   - $從cung4
   - $從sung1 (TODO)
-  - $從zung3
+  - ($從zung3)
   - $從zung6
   ==
 $$
@@ -472,7 +474,7 @@ W
   ====
 S
   ==
-  - $淙cung4
+  - ($淙cung4)
   ==
 $$
 
@@ -514,7 +516,7 @@ P
   ++
 S
   ==
-  - $潨cung4
+  - ($潨cung4)
   ==
 $$
 
@@ -531,7 +533,7 @@ F
   ==
 W
   ====
-  - [[Page~606 (1)淙]]
+  - [[Page~606 (1)琮]]
     --
     [[Reading variation. **See $琮cung4 for the canonical entry.**]]
     --
@@ -660,6 +662,10 @@ C
   - Williams' "to the last": That is, the whole.
   - Williams' 終不改格: Or 終不改革.
   ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 $$
 
 ### 綜1 | _(1)Tsung_ [[zung1]]
@@ -768,7 +774,7 @@ W
     - _(1)chung (4)ts(')(e/)ung_
         [[zung1 coeng4 舂牆]],
         to beat mud walls;
-    - _(1)chung (4)ch(')(a/) (2)tsai mut(9)_
+    - _(1)chung (4)ch(')(a/) (2)tsai m(u/)t(9)_
         [[zung1 caa4 zai2 mut6 舂茶仔末]]
         to triturate tea to powder for a detergent;
     - _(1)chung (1)f(u/)i (1)sh(a/)_
@@ -985,7 +991,7 @@ C
   - Williams' "A measure equal to 4~_tau_":
     This is a misreading of Kangxi 六斛四斗曰鍾,
     which puts the measure at 64~_tau_, not 4~_tau_.
-  - Williams' "to repeat, heavy": These are renderings of Kangxi 鍾重也.
+  - Williams' "to repeat", "heavy": These are renderings of Kangxi 鍾重也.
     It is unclear whether 重 here is level-tone _(4)ch(')ung_ (cung4) "repeated"
     or rising-tone _(5)ch(')ung_ (cung5) "heavy",
     though the latter is slightly more likely due to what follows (染色欲其深重).
@@ -996,6 +1002,7 @@ P
   1. A measure (Kangxi: 量名) of either 64~pecks (Kangxi: 六斛四斗曰鍾),
      80~pecks (Kangxi: 八斛也), or 100~pecks (Kangxi: 鍾十斛).
   1. A surname (Kangxi: 姓).
+  1. Used in 鍾離 (a compound surname) (Kangxi: 鍾離複姓).
   ++
 $$
 
@@ -1211,7 +1218,7 @@ W
 C
   ==
   - The reading _(2)chung_ (zung2) is not unattested;
-    《洪武正韻牋》 has the reading 知隴切 for ⿺尣重, explained 足腫亦作瘇.
+    《正韻牋》 has the reading 知隴切 for ⿺尣重, explained 足腫亦作瘇.
   ==
 P
   ++
@@ -1313,7 +1320,7 @@ W
   ====
 S
   ==
-  - $糉zung3
+  - ($糉zung3)
   ==
 $$
 
@@ -1587,7 +1594,7 @@ W
     - _chung(3) kai(3)_
         [[zung3 gai3 中計]]
         I'm found out, I'm entrapped;
-    - _chung(3) (2)k(u:) (4)jan_
+    - _chung(3) (2)k(u:) (4)yan_
         [[zung3 geoi2 jan4 中舉人]],
         to become a k(u:)jin [[舉人]];
     - _chung(3) ok(8)_
@@ -1631,7 +1638,7 @@ S
   ==
   - $從cung4
   - $從sung1 (TODO)
-  - $從zung1
+  - ($從zung1)
   - $從zung6
   ==
 $$
@@ -1790,7 +1797,7 @@ C
   ==
 S
   ==
-  - $粽zung2
+  - ($粽zung2)
   ==
 $$
 
@@ -1811,7 +1818,7 @@ P
   ++
 S
   ==
-  - $糉zung2
+  - ($糉zung2)
   ==
 $$
 
@@ -1962,7 +1969,7 @@ C
 S
   ==
   - $衷cung1
-  - $衷zung1
+  - ($衷zung1)
   ==
 $$
 
@@ -2016,6 +2023,11 @@ W
     [[Otherwise, an alternative form of 重 (for the Cantonese "still" and "and also" senses). **See $重zung6 for the canonical entry.**]]
     --
   ====
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  1. Used in 仲孫 (a compound surname) (Kangxi: 仲孫複姓).
+  ++
 $$
 
 ### 從6 | _Tsung(6)_ [[zung6]]
@@ -2062,8 +2074,8 @@ S
   ==
   - $從cung4
   - $從sung1 (TODO)
-  - $從zung1
-  - $從zung3
+  - ($從zung1)
+  - ($從zung3)
   ==
 $$
 

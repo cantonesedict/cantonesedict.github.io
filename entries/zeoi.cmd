@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -118,7 +118,7 @@ P
   ++
 S
   ==
-  - $椎ceoi4
+  - ($椎ceoi4)
   ==
 $$
 
@@ -642,7 +642,7 @@ W
         [[zeoi2 zoek3 haa5 咀嚼吓]],
         take a bite of it;
     - _(4)h(o\)m (1)ying (2)ts(u:) ~~(1)w(a/)~~ ``(4)w(a/)``_
-        [[ham4 jing1 zyu2 waa4 含英咀華]],
+        [[ham4 jing1 zeoi2 waa4 含英咀華]],
         to learn and relish the beauties of a style.
     ==
     --
@@ -781,7 +781,7 @@ W
 C
   ==
   - The reading _(2)ts(u:)_ (zeoi2) is not unattested;
-    《洪武正韻牋》 has the reading 再呂切, explained 止之也遏也鬲也抑也.
+    《正韻牋》 has the reading 再呂切, explained 止之也遏也鬲也抑也.
   - Williams' "to pass over": Kangxi has 過也, but it is unclear
     whether this means "pass" or "excessive".
   - Williams' "discomfit": In the (now) archaic sense of "defeat".
@@ -925,7 +925,7 @@ P
   ++
 S
   ==
-  - $冣zeoi6
+  - ($冣zeoi6)
   ==
 $$
 
@@ -965,8 +965,8 @@ P
   ++
 S
   ==
-  - $惴ceoi2
-  - $惴cyun2
+  - ($惴ceoi2)
+  - ($惴cyun2)
   ==
 $$
 
@@ -1087,9 +1087,9 @@ P
   ++
 S
   ==
-  - $綴zeoi6
+  - ($綴zeoi6)
   - $綴zyut3
-  - $綴zyut6
+  - ($綴zyut6)
   ==
 $$
 
@@ -1125,8 +1125,8 @@ W
   ====
 S
   ==
-  - $蕞cyut3
-  - $蕞zyut3
+  - ($蕞cyut3)
+  - ($蕞zyut3)
   ==
 $$
 
@@ -1257,7 +1257,7 @@ P
   ++
 S
   ==
-  - $冣zeoi3
+  - ($冣zeoi3)
   ==
 $$
 
@@ -1466,7 +1466,7 @@ S
   ==
   - $綴zeoi3
   - $綴zyut3
-  - $綴zyut6
+  - ($綴zyut6)
   ==
 $$
 

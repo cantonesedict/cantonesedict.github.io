@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeot
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -140,7 +140,7 @@ P
   ++
 S
   ==
-  - $怵ceot1
+  - ($怵ceot1)
   - $怵seot1 (TODO)
   ==
 $$
@@ -177,7 +177,7 @@ W
 C
   ==
   - The reading _tsut(7)_ (zeot1) is not unattested;
-    《洪武正韻牋》 has the reading 卽律切, explained 說文持頭髪也 etc.
+    《正韻牋》 has the reading 卽律切, explained 說文持頭髪也 etc.
   ==
 P
   ++
@@ -197,7 +197,7 @@ E
   ====
 S
   ==
-  - $捽cyut3
+  - ($捽cyut3)
   ==
 $$
 
@@ -229,7 +229,7 @@ W
   ====
 S
   ==
-  - $絀ceot1
+  - ($絀ceot1)
   - $絀zyut3
   ==
 $$
@@ -291,7 +291,7 @@ P
   ++
 S
   ==
-  - $黜ceot1
+  - ($黜ceot1)
   ==
 $$
 

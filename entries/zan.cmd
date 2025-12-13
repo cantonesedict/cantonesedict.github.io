@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zan
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -359,7 +359,7 @@ P
   ++
 S
   ==
-  - $圳zeon3
+  - ($圳zeon3)
   ==
 $$
 
@@ -544,7 +544,7 @@ W
         [[zan3 toi4 鎮臺]],
         a protector;
         a brigadier;
-    - _shan(3) (2)shau (1)p(i/)n (1)kw(a/)n_
+    - _chan(3) (2)shau (1)p(i/)n (1)kw(a/)n_
         [[zan3 sau2 bin1 gwaan1 鎮守邊關]],
         to guard the frontier;
     - _chan(3) (a/)t(8)_

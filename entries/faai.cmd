@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faai
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-11-16
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -213,7 +213,7 @@ W
         [[bat1 song2 faai3 不爽快]]
         indisposed, out of sorts;
     - _f(a/)i(3) (u/)t(9)_
-        [[faai3 jyut6 快悅]]
+        [[faai3 wut6 快活]]
         delighted, good spirits;
     - [[...]];
     - _f(a/)i(3) f(a/)i(3)_

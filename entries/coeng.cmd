@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2025-11-08
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -266,7 +266,7 @@ W
   ====
 S
   ==
-  - $搶caang1
+  - ($搶caang1)
   - $搶coeng2
   ==
 $$
@@ -339,6 +339,10 @@ W
         splendid, gay.
     ==
   ====
+P
+  ++
+  1. A surname.
+  ++
 $$
 
 ### 槍1 | _(1)Ts(')(e/)ung_ [[coeng1]]
@@ -662,7 +666,7 @@ W
   ====
 S
   ==
-  - $蹌coeng3
+  - ($蹌coeng3)
   ==
 $$
 
@@ -870,7 +874,7 @@ W
         [[coeng2 sin1 hang4 搶先行]],
         to thrust one's self forward;
     - _(2)ts(')(e/)ung ~~p(')au(3)~~ ``p(')(a/)u(3)`` (4)t(')au_
-        [[coeng2 pau3 tau4 搶炮頭]],
+        [[coeng2 paau3 tau4 搶炮頭]],
         to struggle for the rocket stick on the 2d of 2d~month;
     - _(2)ts(')(e/)ung t(u:)t(9)_
         [[coeng2 dyut6 搶奪]]
@@ -892,7 +896,7 @@ C
   ==
 S
   ==
-  - $搶caang1
+  - ($搶caang1)
   - $搶coeng1
   ==
 $$
@@ -958,7 +962,7 @@ W
   ====
 S
   ==
-  - $倡coeng1
+  - ($倡coeng1)
   ==
 $$
 
@@ -1027,7 +1031,7 @@ S
   ==
 $$
 
-###+ 昶3 | _Ch(')(e/)ung(3)_ [[coeng3]]
+### 昶3 | _Ch(')(e/)ung(3)_ [[coeng3]]
 
 $$.
 R
@@ -1161,7 +1165,7 @@ W
   ====
 S
   ==
-  - $蹡coeng1
+  - ($蹡coeng1)
   ==
 $$
 

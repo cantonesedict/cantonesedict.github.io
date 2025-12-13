@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fan
-* %date-modified --> 2025-11-07
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -49,6 +49,7 @@ $$
 - $分1
 - $勛1
 - $勳1
+- $匪1
 - $吩1
 - $婚1
 - $帉1
@@ -89,6 +90,10 @@ R
   ⼑ + 2
 U
   U+5206
+A
+  ==
+  - $匪1
+  ==
 F
   ==
   - (F1.80 分) 分别分離
@@ -224,6 +229,36 @@ W
 C
   ==
   - Fan Wan entry: Normalised headword ⿺熏力 to 勳.
+  ==
+$$
+
+### 匪1 | _(1)Fan_ [[fan1]]
+
+$$
+R
+  ⼕ + 8
+U
+  U+532A
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~53 (2)匪]]
+    --
+    [[...]]
+    --
+    --
+    Read _(1)fan_ [[fan1]], to distribute [[Kangxi: 匪分也, 匪讀爲分]].
+    --
+    --
+    [[Alternative form of 分. See $分fan1.]]
+    --
+  ====
+S
+  ==
+  - $匪bei2 (TODO) <## same as 彼 ##>
+  - ($匪fei1)
+  - $匪fei2
   ==
 $$
 
@@ -520,14 +555,14 @@ $$
 
 ### 棼1 | _(1)Fan_ [[fan1]]
 
-$$.
+$$
 R
   ⽊ + 8
 U
   U+68FC
 V
   ==
-  - fan4 (per 《廣韻》符分切)
+  - fan4 (per Kangxi 符分切)
   ==
 F
   ==
@@ -537,12 +572,20 @@ F
 W
   ====
   - [[Page~46 (1)棼]]
+    ==
+    - [[...]];
+    - confused, disordered, complicated [[Kangxi 棼: 亂也]];
+    - [[...]].
+    ==
     --
-    [[Alternative form of 紛 (for the "confused" and "many" senses). **See $紛fan1 for the canonical entry.**]]
+    [[Alternative form of 紛 (for the "confused" and "many" senses). See $紛fan1.]]
     --
   ====
 C
   ==
+  - Kangxi has this sense under the reading 符分切 _(4)fan_ (fan4).
+    In my opinion, this is dubious, as 《廣韻》符分切 is explained 複屋棟也,
+    which is unrelated to confusion/disorder.
   - Fan Wan entry: Fixed missing strokes in 衆 and 亂.
   ==
 S
@@ -649,7 +692,7 @@ W
     - [[...]].
     <## TODO: Correct $涽fan1 to $湣man5
     - [[...]];
-    - _[(5)Man] (4)wong_
+    - _``(5)Man`` (4)wong_
         [[man5 wong4]],
         king of the Ts(i/) [[齊]] state, B.~C.~300.
     ##>
@@ -860,12 +903,6 @@ F
   ==
 W
   ====
-  - [[Page~46 (1)棼; here normalised to 紛]]
-    ==
-    - [[...]];
-    - confused, disordered, complicated [[Kangxi 棼: 亂也]];
-    - [[...]].
-    ==
   - [[Page~46 (1)紛]]
     ==
     - A variegated ribbon [[Kangxi: 紛如綬有文而狹者也]];
@@ -1674,7 +1711,7 @@ W
   ====
 S
   ==
-  - $枌fan1
+  - ($枌fan1)
   ==
 $$
 
@@ -1693,7 +1730,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~46 (1)枌 _(1)Fan_ (fan1); here normalised to 棼 _(4)Fan_ (fan4)]]
+  - [[Page~46 (1)枌 _(1)Fan_ (fan1); here corrected to _(4)Fan_ (fan4) and normalised to 棼]]
     ==
     - [[...]];
     - a beam in a house [[Kangxi 枌: 通棼複屋棟也]];
@@ -1755,7 +1792,7 @@ C
   ==
 S
   ==
-  - $汾fan1
+  - ($汾fan1)
   ==
 $$
 
@@ -1833,7 +1870,7 @@ C
   ==
 S
   ==
-  - $焚fan5
+  - ($焚fan5)
   ==
 $$
 
@@ -1883,7 +1920,7 @@ P
   ++
 S
   ==
-  - $蚡fan5
+  - ($蚡fan5)
   ==
 $$
 
@@ -1911,7 +1948,7 @@ S
   - $賁ban1 (TODO)
   - $賁bei3 (TODO)
   - $賁fan5
-  - $賁fei4 (TODO)
+  - $賁fei4
   ==
 $$
 
@@ -2219,7 +2256,7 @@ P
   ++
 S
   ==
-  - $蚡fan4
+  - ($蚡fan4)
   ==
 $$
 
@@ -2246,7 +2283,7 @@ W
     - to bubble or effervesce as a spring [[Kangxi: 沸也]];
     - [[...]].
     <## TODO: correct to $賁ban1
-    - _[(1)pan] (4)m(u/)n_
+    - _``(1)pan`` (4)m(u/)n_
         [[ban1 mun4 賁門]],
         the cardiac extremity of the [œsophagus].
     ##>
@@ -2263,7 +2300,7 @@ S
   - $賁ban1 (TODO)
   - $賁bei3 (TODO)
   - $賁fan4
-  - $賁fei4 (TODO)
+  - $賁fei4
   ==
 $$
 
@@ -2296,7 +2333,7 @@ W
   ====
 S
   ==
-  - $鼢fan4
+  - ($鼢fan4)
   ==
 $$
 
@@ -2389,7 +2426,7 @@ E
 S
   ==
   - $份ban1 (TODO)
-  - $份fan2
+  - ($份fan2)
   ==
 $$
 

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coek
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -127,6 +127,10 @@ W
         meritorious, said of officers at the quinqennial trial.
     ==
   ====
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 $$
 
 ### 戳3 | _Ch(')(e/)uk(8)_ [[coek3]]
@@ -189,7 +193,7 @@ W
   ====
 S
   ==
-  - $桌zoek3
+  - ($桌zoek3)
   ==
 $$
 
@@ -221,7 +225,7 @@ W
 S
   ==
   - $棹zaau6
-  - $棹zoek3
+  - ($棹zoek3)
   ==
 $$
 
@@ -276,7 +280,7 @@ E
   ====
 S
   ==
-  - $灼zoek3
+  - ($灼zoek3)
   ==
 $$
 
@@ -342,7 +346,7 @@ W
   ====
 S
   ==
-  - $芍zoek3
+  - ($芍zoek3)
   ==
 $$
 
@@ -362,7 +366,7 @@ W
     [[...]]
     --
     --
-    Read _ch(')euk(8)_ [[coek3]];
+    Read _ch(')(e/)uk(8)_ [[coek3]];
     --
     ==
     - to leap far and high [[Kangxi: 踔高遠也]];

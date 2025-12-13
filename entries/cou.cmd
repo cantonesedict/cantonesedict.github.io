@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2025-11-12
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -149,7 +149,7 @@ W
         coarse food;
         a gross eater;
     - _(1)ts(')(o\) (4)(u:)n_
-        [[cou1 jun4 粗完]],
+        [[cou1 jyun4 粗完]],
         nearly done;
     - _(2)shau (1)ts(')(o\)_
         [[sau2 cou1 手粗]],
@@ -415,7 +415,7 @@ C
   ==
 S
   ==
-  - $厝cok3
+  - ($厝cok3)
   ==
 $$
 
@@ -483,7 +483,7 @@ C
   ==
 S
   ==
-  - $懆cou2
+  - ($懆cou2)
   ==
 $$
 
@@ -595,7 +595,7 @@ P
   ++
 S
   ==
-  - $澡zou2
+  - ($澡zou2)
   ==
 $$
 
@@ -606,6 +606,10 @@ R
   ⽕ + 13
 U
   U+71E5
+V
+  ==
+  - cou3-2 (rising second in vernacular 燥燥地)
+  ==
 F
   [[Not present]]
 W
@@ -687,8 +691,8 @@ W
   ====
 C
   ==
-  - Williams' 人多鼓譟: Corrected _ts'(o\)(3)_ (with an apostrophe)
-    to _ts(')(o\)(3)_ (with an aspirate).
+  - Williams' 人多鼓譟: Corrected _ts'(o\)(3)_ (^with an apostrophe)
+    to _ts(')(o\)(3)_ (^with an aspirate).
   ==
 $$
 
@@ -1177,7 +1181,7 @@ F
   ==
 W
   ====
-  - [[Page~587 (4)艚]]
+  - [[Page~587 (4)螬]]
     ==
     - ~~Maggots~~ ``Scarabs`` in ordure [[Kangxi: 蟦蠐螬, 在糞土中者]];
     - _(4)ts(')ai (4)ts(')(o\)_
@@ -1219,7 +1223,7 @@ P
   ++
 S
   ==
-  - $儲cyu4
+  - ($儲cyu4)
   - $儲cyu5
   ==
 $$

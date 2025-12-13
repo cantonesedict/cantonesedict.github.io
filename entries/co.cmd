@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> co
-* %date-modified --> 2025-11-07
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -192,7 +192,7 @@ W
   ====
 S
   ==
-  - $唨zo2
+  - ($唨zo2)
   ==
 $$
 
@@ -277,7 +277,7 @@ C
   ==
 S
   ==
-  - $搓caai1
+  - ($搓caai1)
   ==
 $$
 
@@ -481,7 +481,7 @@ W
   ====
 S
   ==
-  - $雛co4
+  - ($雛co4)
   ==
 $$
 
@@ -502,7 +502,7 @@ $$
 
 ### 憷2 | _(2)Ch(')o_ [[co2]]
 
-$$
+$$.
 R
   ⼼ + 13
 U
@@ -568,6 +568,7 @@ W
 P
   ++
   1. A rod or cane used to beat offenders (Kangxi: 楚荆也扑撻犯禮者).
+  1. A surname (Kangxi: 姓).
   ++
 $$
 
@@ -645,7 +646,7 @@ W
   ====
 S
   ==
-  - $脞co3
+  - ($脞co3)
   ==
 $$
 
@@ -908,7 +909,7 @@ W
 S
   ==
   - $瘥caai3
-  - $瘥co1
+  - ($瘥co1)
   ==
 $$
 

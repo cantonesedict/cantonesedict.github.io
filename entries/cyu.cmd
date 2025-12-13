@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyu
-* %date-modified --> 2025-11-08
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -77,7 +77,7 @@ W
   ====
 S
   ==
-  - $処cyu3
+  - ($処cyu3)
   ==
 $$
 
@@ -194,7 +194,7 @@ C
 S
   ==
   - $處cyu3
-  - $處cyu5
+  - ($處cyu5)
   ==
 $$
 
@@ -227,7 +227,7 @@ P
   ++
 S
   ==
-  - $処cyu2
+  - ($処cyu2)
   ==
 $$
 
@@ -298,7 +298,7 @@ E
 S
   ==
   - $處cyu2
-  - $處cyu5
+  - ($處cyu5)
   ==
 $$
 
@@ -342,7 +342,7 @@ W
   ====
 S
   ==
-  - $儲cou5
+  - ($儲cou5)
   - $儲cyu5
   ==
 $$
@@ -371,7 +371,7 @@ C
   ==
 S
   ==
-  - $厨ceoi4
+  - ($厨ceoi4)
   ==
 $$
 
@@ -677,11 +677,12 @@ C
 P
   ++
   1. To await.
+  1. A surname (Kangxi: 姓).
   ++
 S
   ==
-  - $儲cou5
-  - $儲cyu4
+  - ($儲cou5)
+  - ($儲cyu4)
   ==
 $$
 
@@ -813,7 +814,7 @@ C
   ==
 S
   ==
-  - $柱zyu2
+  - ($柱zyu2)
   ==
 $$
 
@@ -852,7 +853,7 @@ W
   ====
 S
   ==
-  - $楮cyu2
+  - ($楮cyu2)
   ==
 $$
 
@@ -972,7 +973,7 @@ W
   [[Not present]]
 P
   ++
-  1. Reading variation. **See $處cyu2 for the canonical entry.**
+  1. Reading variation (in certain usages). **See $處cyu2 for the canonical entry.**
   ++
 S
   ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cin
-* %date-modified --> 2025-11-15
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -401,13 +401,13 @@ W
     - _(2)ts(')(i/)n (4)wong_
         [[cin2 wong4 淺黃]],
         a light yellow;
-    - _(2)ts(')(i/)ns (2)ts(')(i/)n (2)ho (2)kong_
-        [[cin2 cin2 hou2 gong2 淺淺好講]],
+    - _(2)ts(')(i/)n (2)ts(')(i/)n (2)ho (2)kong_
+        [[cin2 cin2 ho2 gong2 淺淺可講]],
         he can understand a very little;
     - _(2)ts(')(i/)n sut(7)_
         [[cin2 seot1 淺率]]
         vulgar and superficial, as a scholar;
-    - _(2)ho (2)ts(')(i/)n_
+    - _(2)h(o\) (2)ts(')(i/)n_
         [[hou2 cin2 好淺]],
         very shallow, very easy;
     - _(5)ng(a/)n (2)ts(')(i/)n_
@@ -425,7 +425,7 @@ C
   ==
 S
   ==
-  - $淺zin1
+  - ($淺zin1)
   ==
 $$
 
@@ -447,7 +447,7 @@ P
 S
   ==
   - $踐cin5
-  - $踐zin6
+  - ($踐zin6)
   ==
 $$
 
@@ -547,17 +547,14 @@ W
         [[cin4 cing4 naan4 liu6 前程難料]]
         it's not easy to guess how it will turn out;
     - _(4)ts(')(i/)n (1)king_
-        [[cin4 king1 前經]],
+        [[cin4 ging1 前經]],
         already, before done.
     ==
   ====
-C
-  ==
-  - In the vernacular register of Cantonese
-    there is a distinction between 以前 and 之前.
-    See below.
-  ==
 E
+  --
+  Cantonese (in the vernacular register) makes a distinction between 以前 and 之前.
+  --
   ====
   - 【以前】 (ji5 cin4):
     ++
@@ -788,9 +785,13 @@ W
   ====
 C
   ==
-  - Williams' 幾錢重: Corrected _chung(6)_ (zung6 去聲) to _(5)ch(')ung_ (cung5 上聲).
+  - Williams' 幾錢重: Corrected _chung(6)_ (zung6 去聲^) to _(5)ch(')ung_ (cung5 上聲^).
   - Williams' 錢板咁厚: Changed _hau(6)_ (hau6) to common reading _(5)hau_ (hau5).
   ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 E
   ====
   - 【錢銀】 (cin4-2 ngan4-2):
@@ -848,7 +849,7 @@ P
   ++
 S
   ==
-  - $俴cin2
+  - ($俴cin2)
   ==
 $$
 
@@ -899,7 +900,7 @@ C
   ==
 S
   ==
-  - $踐cin2
-  - $踐zin6
+  - ($踐cin2)
+  - ($踐zin6)
   ==
 $$

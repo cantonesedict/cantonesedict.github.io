@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2025-11-12
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -100,15 +100,14 @@ U
 F
   [[Not present]]
 W
-  ====
-  - [[Page~613 (2)呰 _(2)Tsz'_ (zi2); here corrected to _(4)Ts(')z'_ (ci4) and normalised to _(1)Ts(')z'_ (ci1)]]
-    --
-    [[Alternative form of 疵. **See $疵ci1 for the canonical entry.**]]
-    --
-  ====
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 疵. **See $疵ci1 for the canonical entry.**
+  ++
 S
   ==
-  - $呰ci4
+  - ($呰ci4)
   - $呰zi2
   ==
 $$
@@ -257,7 +256,7 @@ W
   ====
 S
   ==
-  - $疵ci4
+  - ($疵ci4)
   ==
 $$
 
@@ -961,7 +960,7 @@ W
 C
   ====
   - The reading _(2)ch(')(i/)_ (ci2) is not unattested;
-    《洪武正韻牋》 has the reading 尺里切, explained 析木？其理.
+    《正韻牋》 has the reading 尺里切, explained 析木觀其理.
   - Williams' "read [...] with the same meanings": This is not quite correct.
     ==
     - 杝 read _(4)(i/)_ (ji4) is the name of a tree.
@@ -1019,7 +1018,7 @@ P
   ++
 S
   ==
-  - $柿ci4
+  - ($柿ci4)
   - $柿ci5
   ==
 $$
@@ -1095,7 +1094,7 @@ W
   ====
 S
   ==
-  - $泚cai5
+  - ($泚cai5)
   - $泚zi2
   ==
 $$
@@ -1208,7 +1207,7 @@ W
   ====
 S
   ==
-  - $褫ci1
+  - ($褫ci1)
   ==
 $$
 
@@ -1850,7 +1849,7 @@ P
   ++
 S
   ==
-  - $蛓zi1
+  - ($蛓zi1)
   ==
 $$
 
@@ -1994,7 +1993,7 @@ W
   ====
 S
   ==
-  - $骴ci1
+  - ($骴ci1)
   ==
 $$
 
@@ -2047,15 +2046,14 @@ U
 F
   [[Not present]]
 W
-  ====
-  - [[Page~613 (2)呰 _(2)Tsz'_ (zi2); here corrected to _(4)Ts(')z'_ (ci4)]]
-    --
-    [[Alternative form of 疵, and reading variation. **See $疵ci1 for the canonical entry.**]]
-    --
-  ====
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 疵, and reading variation. **See $疵ci1 for the canonical entry.**
+  ++
 S
   ==
-  - $呰ci1
+  - ($呰ci1)
   - $呰zi2
   ==
 $$
@@ -2085,7 +2083,7 @@ W
 S
   ==
   - $坻dai2 (TODO)
-  - $坻zi2
+  - ($坻zi2)
   ==
 $$
 
@@ -2153,7 +2151,7 @@ W
   ====
 S
   ==
-  - $弛ci2
+  - ($弛ci2)
   ==
 $$
 
@@ -2271,7 +2269,7 @@ W
   ====
 S
   ==
-  - $柿ci2
+  - ($柿ci2)
   - $柿ci5
   ==
 $$
@@ -2321,6 +2319,10 @@ C
     to literary reading _(4)shing_ (sing4).
   - Williams' 酒池肉林: Originally used to describe the excesses of 紂王.
   ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 $$
 
 ###+ 治4 | _(4)Ch(')(i/)_ [[ci4]]
@@ -2524,12 +2526,11 @@ U
 F
   [[Not present]]
 W
-  ====
-  - [[Page~612 (1)粢 _(1)Tsz'_ (zi1); here corrected to _(4)Ts(')z'_ (ci4)]]
-    --
-    [[Alternative form of 餈. **See $餈ci4 for the canonical entry.**]]
-    --
-  ====
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 餈. **See $餈ci4 for the canonical entry.**
+  ++
 S
   ==
   - $粢zi1
@@ -2833,6 +2834,10 @@ R
   ⾡ + 12
 U
   U+9072
+V
+  ==
+  - ci4-2 (rising second in vernacular 遲遲地)
+  ==
 F
   ==
   - (F1.38 遲) 緩也又迎也又陵遲
@@ -3067,7 +3072,7 @@ W
     - Like, similar;
     - as, as if, as it were, appearing, resembling [[Kangxi: 肖也]];
     - to appear, to have the aspect of;
-    - _(2)ho (5)ts(')z'_
+    - _(2)h(o\) (5)ts(')z'_
         [[hou2 ci5 好似]]
         like;
     - _(5)ts(')z' (4)'m (5)ts(')z'_
@@ -3096,6 +3101,9 @@ P
   1. To present, to give (Kangxi: 况也奉也).
   ++
 E
+  --
+  Cantonese prefers classical 似 over 像.
+  --
   ====
   - 【似】 (ci5):
     ++
@@ -3117,9 +3125,6 @@ E
        ==
     ++
   ====
-  --
-  Classical usage of 似 is preserved by Cantonese, which prefers it over 像.
-  --
 $$
 
 ### 姒5 | _~~(2)Ts(')z'~~ ``(5)Ts(')z'``_ [[ci5]]
@@ -3191,8 +3196,8 @@ C
   ==
 S
   ==
-  - $柿ci2
-  - $柿ci4
+  - ($柿ci2)
+  - ($柿ci4)
   ==
 $$
 

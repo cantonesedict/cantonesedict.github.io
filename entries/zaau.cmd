@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaau
-* %date-modified --> 2025-11-04
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -196,7 +196,7 @@ C
   ==
 S
   ==
-  - $帚zau2
+  - ($帚zau2)
   ==
 $$
 
@@ -384,7 +384,7 @@ W
   ====
 S
   ==
-  - $箒zau2
+  - ($箒zau2)
   ==
 $$
 
@@ -430,7 +430,7 @@ C
   ==
 S
   ==
-  - $肘zau2
+  - ($肘zau2)
   ==
 $$
 
@@ -752,7 +752,7 @@ W
 S
   ==
   - $棹coek3
-  - $棹zoek3
+  - ($棹zoek3)
   ==
 <## TODO: 棹忌 zaau6 gei6 ##>
 $$
@@ -812,6 +812,6 @@ W
   ====
 S
   ==
-  - $驟zau6
+  - ($驟zau6)
   ==
 $$

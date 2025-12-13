@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zuk
-* %date-modified --> 2025-11-05
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -220,7 +220,7 @@ W
     - _hon(3) chuk(7)_
         [[hon3 zuk1 看燭]]
         show candles;
-    - _(5)m(u/)i yat(9) (2)fo chuk(7) (2)ki (1)to_
+    - _(5)m(u/)i yat(9) (2)fo chuk(7) (2)k(i/) (1)to_
         [[mui5 jat6 fo2 zuk1 gei2 do1 每日火燭幾多]],
         what are your daily expenses?
     - _chuk(7) (1)f(a/)_
@@ -321,7 +321,7 @@ P
   ++
 S
   ==
-  - $祝zau3
+  - ($祝zau3)
   - $祝zyu3
   ==
 $$
@@ -401,6 +401,10 @@ W
         India, or the land where Budha was born [[Kangxi: 天竺國名]].
     ==
   ====
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
 S
   ==
   - $竺duk1 (TODO)
@@ -569,7 +573,7 @@ W
   ====
 S
   ==
-  - $觸cuk1
+  - ($觸cuk1)
   ==
 $$
 
@@ -867,6 +871,10 @@ R
   ⽔ + 13
 U
   U+6FC1
+V
+  ==
+  - zuk6-2 (rising second in vernacular 濁濁地)
+  ==
 F
   ==
   - (F1.66 濁) 混濁不淸也
@@ -926,7 +934,7 @@ W
   ====
 S
   ==
-  - $簇cau3
+  - ($簇cau3)
   - $簇cok3
   - $簇cuk1
   ==
@@ -961,7 +969,7 @@ W
         to take up and carry on;
     - _tsuk(9) ~~ts(')(u:)(3)~~ ``(2)ts(')(u:)``_ [[zuk6 ceoi2 續娶]]
         or
-      _tsuk(9) (4)(i/)n_ [[zuk6 jyin4 續弦]],
+      _tsuk(9) (4)(i/)n_ [[zuk6 jin4 續弦]],
         to join the guitar string---to ~~take a second wife~~ ``remarry after becoming a widower``;
     - _luk(9) tsuk(9) (5)yau (4)lai_
         [[luk6 zuk6 jau5 lai4 陸續有嚟]],
@@ -1155,7 +1163,7 @@ W
     - to expel [[Kangxi: 斥也放也]];
     - to take up in order;
     - _chuk(9) ch(')ut(7)_
-        [[zuk6 ceoi1 逐出]]
+        [[zuk6 ceot1 逐出]]
         to drive out;
     - _chuk(9) m(a/)(6)_
         [[zuk6 maa6 逐罵]]
