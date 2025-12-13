@@ -506,6 +506,13 @@ C
     but notes that 阿 is "often used" for the name prefix sense.
     I have split things up accordingly.
   ==
+L
+  ====
+  * 亞 (`'aeH`)
+    ==
+    - (_adjective-like_) second
+    ==
+  ====
 $$
 
 ### 呀3 | _(A/)(3)_ [[aa3]]
