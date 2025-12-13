@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2025-11-22
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -474,7 +474,7 @@ W
   ====
 S
   ==
-  - $靑ceng1
+  - ($靑ceng1)
   ==
 $$
 
@@ -607,7 +607,7 @@ E
   ====
 S
   ==
-  - $青ceng1
+  - ($青ceng1)
   ==
 $$
 
@@ -786,7 +786,7 @@ C
   ==
 S
   ==
-  - $請ceng2
+  - ($請ceng2)
   ==
 $$
 
@@ -944,7 +944,7 @@ C
   ==
 S
   ==
-  - $秤cing1
+  - ($秤cing1)
   ==
 $$
 

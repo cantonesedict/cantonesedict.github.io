@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zit
-* %date-modified --> 2025-11-17
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -339,7 +339,7 @@ E
 S
   ==
   - $折sit6 (TODO)
-  - $折zit1
+  - ($折zit1)
   ==
 $$
 
@@ -611,7 +611,7 @@ P
 S
   ==
   - $蟄zat6
-  - $蟄zik6
+  - ($蟄zik6)
   ==
 $$
 
@@ -733,7 +733,7 @@ P
   ++
 S
   ==
-  - $捷zit3
+  - ($捷zit3)
   ==
 $$
 
@@ -770,6 +770,6 @@ C
   ==
 S
   ==
-  - $睫zip3
+  - ($睫zip3)
   ==
 $$

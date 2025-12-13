@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyut
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -258,6 +258,6 @@ W
 S
   ==
   - $蕞zeoi3
-  - $蕞zyut3
+  - ($蕞zyut3)
   ==
 $$

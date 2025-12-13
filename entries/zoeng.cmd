@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2025-11-23
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -265,7 +265,7 @@ E
   ====
 S
   ==
-  - $張zoeng3
+  - ($張zoeng3)
   ==
 $$
 
@@ -1106,7 +1106,7 @@ W
   ====
 S
   ==
-  - $悵coeng3
+  - ($悵coeng3)
   ==
 $$
 
@@ -1545,7 +1545,7 @@ E
   ====
 S
   ==
-  - $仗zoeng3
+  - ($仗zoeng3)
   ==
 $$
 

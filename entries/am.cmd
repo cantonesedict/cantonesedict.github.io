@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2025-11-17
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -489,7 +489,7 @@ W
   ====
 S
   ==
-  - $諳am1
+  - ($諳am1)
   ==
 $$
 
@@ -529,7 +529,7 @@ W
   ====
 S
   ==
-  - $闇am3
+  - ($闇am3)
   ==
 $$
 

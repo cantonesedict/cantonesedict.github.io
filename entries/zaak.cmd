@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2025-11-17
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -128,7 +128,7 @@ W
   ====
 S
   ==
-  - $嘖zik1
+  - ($嘖zik1)
   ==
 $$
 
@@ -291,7 +291,7 @@ E
   """"
 S
   ==
-  - $矺zaak6
+  - ($矺zaak6)
   ==
 $$
 
@@ -483,7 +483,7 @@ C
 S
   ==
   - $簀zaai3
-  - $簀zak1
+  - ($簀zak1)
   ==
 $$
 
@@ -590,7 +590,7 @@ C
   ==
 S
   ==
-  - $責zaai3
+  - ($責zaai3)
   ==
 $$
 

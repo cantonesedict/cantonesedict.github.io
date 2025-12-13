@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaap
-* %date-modified --> 2025-11-23
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -128,7 +128,7 @@ P
   ++
 S
   ==
-  - $眨zaam2
+  - ($眨zaam2)
   ==
 $$
 
@@ -151,7 +151,7 @@ P
   ++
 S
   ==
-  - $砸zaak3
+  - ($砸zaak3)
   ==
 $$
 
@@ -215,7 +215,7 @@ S
   ==
   - $褶dip6 (TODO)
   - $褶zaap6
-  - $褶zip3
+  - ($褶zip3)
   ==
 $$
 
@@ -414,7 +414,7 @@ S
   ==
   - $褶dip6 (TODO)
   - $褶zaap3
-  - $褶zip3
+  - ($褶zip3)
   ==
 $$
 

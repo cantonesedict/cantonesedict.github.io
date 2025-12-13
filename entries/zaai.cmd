@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -317,7 +317,7 @@ W
   ====
 S
   ==
-  - $瘵caai3
+  - ($瘵caai3)
   ==
 $$
 
@@ -346,7 +346,7 @@ W
 S
   ==
   - $簀zaak3
-  - $簀zak1
+  - ($簀zak1)
   ==
 $$
 

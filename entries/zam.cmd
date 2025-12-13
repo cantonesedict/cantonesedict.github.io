@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2025-11-21
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -256,7 +256,7 @@ C
   ==
 S
   ==
-  - $祲cam1
+  - ($祲cam1)
   ==
 $$
 
@@ -739,7 +739,7 @@ E
 S
   ==
   - $浸cam1
-  - $浸zam6
+  - ($浸zam6)
   ==
 $$
 
@@ -760,7 +760,7 @@ P
   ++
 S
   ==
-  - $湛cam4
+  - ($湛cam4)
   - $湛zaam3
   ==
 $$
@@ -800,7 +800,7 @@ C
   ==
 S
   ==
-  - $譖cam3
+  - ($譖cam3)
   ==
 $$
 

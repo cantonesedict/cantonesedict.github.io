@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2025-11-23
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -266,7 +266,7 @@ W
   ====
 S
   ==
-  - $搶caang1
+  - ($搶caang1)
   - $搶coeng2
   ==
 $$
@@ -666,7 +666,7 @@ W
   ====
 S
   ==
-  - $蹌coeng3
+  - ($蹌coeng3)
   ==
 $$
 
@@ -896,7 +896,7 @@ C
   ==
 S
   ==
-  - $搶caang1
+  - ($搶caang1)
   - $搶coeng1
   ==
 $$
@@ -962,7 +962,7 @@ W
   ====
 S
   ==
-  - $倡coeng1
+  - ($倡coeng1)
   ==
 $$
 
@@ -1165,7 +1165,7 @@ W
   ====
 S
   ==
-  - $蹡coeng1
+  - ($蹡coeng1)
   ==
 $$
 

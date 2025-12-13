@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ze
-* %date-modified --> 2025-11-23
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -93,7 +93,7 @@ E
   ====
 S
   ==
-  - $啫ze3
+  - ($啫ze3)
   ==
 $$
 
@@ -328,7 +328,7 @@ E
   ====
 S
   ==
-  - $姐ze1
+  - ($姐ze1)
   ==
 $$
 
@@ -482,7 +482,7 @@ C
   ==
 S
   ==
-  - $這ze3
+  - ($這ze3)
   ==
 $$
 

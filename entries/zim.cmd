@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zim
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -217,7 +217,7 @@ C
   ==
 S
   ==
-  - $幨cim1
+  - ($幨cim1)
   ==
 $$
 
@@ -309,7 +309,7 @@ W
   ====
 S
   ==
-  - $漸caam4
+  - ($漸caam4)
   - $漸zim6
   ==
 $$
@@ -445,7 +445,7 @@ W
   ====
 S
   ==
-  - $襜cim1
+  - ($襜cim1)
   ==
 $$
 
@@ -588,7 +588,7 @@ C
   ==
 S
   ==
-  - $䠨cim3
+  - ($䠨cim3)
   ==
 $$
 
@@ -801,7 +801,7 @@ W
   ====
 S
   ==
-  - $漸caam4
+  - ($漸caam4)
   - $漸zim1
   ==
 $$

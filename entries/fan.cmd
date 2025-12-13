@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fan
-* %date-modified --> 2025-11-23
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -257,7 +257,7 @@ W
 S
   ==
   - $匪bei2 (TODO) <## same as 彼 ##>
-  - $匪fei1
+  - ($匪fei1)
   - $匪fei2
   ==
 $$
@@ -1709,7 +1709,7 @@ W
   ====
 S
   ==
-  - $枌fan1
+  - ($枌fan1)
   ==
 $$
 
@@ -1746,7 +1746,7 @@ W
   ====
 S
   ==
-  - $棼fan1
+  - ($棼fan1)
   ==
 $$
 
@@ -1790,7 +1790,7 @@ C
   ==
 S
   ==
-  - $汾fan1
+  - ($汾fan1)
   ==
 $$
 
@@ -1868,7 +1868,7 @@ C
   ==
 S
   ==
-  - $焚fan5
+  - ($焚fan5)
   ==
 $$
 
@@ -1918,7 +1918,7 @@ P
   ++
 S
   ==
-  - $蚡fan5
+  - ($蚡fan5)
   ==
 $$
 
@@ -2254,7 +2254,7 @@ P
   ++
 S
   ==
-  - $蚡fan4
+  - ($蚡fan4)
   ==
 $$
 
@@ -2331,7 +2331,7 @@ W
   ====
 S
   ==
-  - $鼢fan4
+  - ($鼢fan4)
   ==
 $$
 
@@ -2424,7 +2424,7 @@ E
 S
   ==
   - $份ban1 (TODO)
-  - $份fan2
+  - ($份fan2)
   ==
 $$
 

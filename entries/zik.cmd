@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2025-11-23
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -268,7 +268,7 @@ W
   ====
 S
   ==
-  - $喞zek1
+  - ($喞zek1)
   ==
 $$
 
@@ -459,7 +459,7 @@ W
   ====
 S
   ==
-  - $磧zaak3
+  - ($磧zaak3)
   ==
 $$
 
@@ -651,7 +651,7 @@ C
   ==
 S
   ==
-  - $織ci3
+  - ($織ci3)
   ==
 $$
 
@@ -907,7 +907,7 @@ P
   ++
 S
   ==
-  - $鯽zak1
+  - ($鯽zak1)
   ==
 $$
 
@@ -1093,7 +1093,7 @@ W
   ====
 S
   ==
-  - $値zi6
+  - ($値zi6)
   ==
 $$
 
@@ -1341,7 +1341,7 @@ P
   ++
 S
   ==
-  - $席zek6
+  - ($席zek6)
   ==
 $$
 
@@ -1400,8 +1400,8 @@ P
   ++
 S
   ==
-  - $植zi3
-  - $植zi6
+  - ($植zi3)
+  - ($植zi6)
   ==
 $$
 
@@ -1782,7 +1782,7 @@ C
   ==
 S
   ==
-  - $蓆zek6
+  - ($蓆zek6)
   ==
 $$
 
@@ -1879,6 +1879,6 @@ P
 S
   ==
   - $蟄zat6
-  - $蟄zit3
+  - ($蟄zit3)
   ==
 $$

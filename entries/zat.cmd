@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zat
-* %date-modified --> 2025-11-22
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -683,8 +683,8 @@ W
   ====
 S
   ==
-  - $蟄zik6
-  - $蟄zit3
+  - ($蟄zik6)
+  - ($蟄zit3)
   ==
 $$
 
@@ -721,6 +721,6 @@ W
   ====
 S
   ==
-  - $郅zat1
+  - ($郅zat1)
   ==
 $$

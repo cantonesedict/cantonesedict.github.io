@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coek
-* %date-modified --> 2025-11-23
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -193,7 +193,7 @@ W
   ====
 S
   ==
-  - $桌zoek3
+  - ($桌zoek3)
   ==
 $$
 
@@ -225,7 +225,7 @@ W
 S
   ==
   - $棹zaau6
-  - $棹zoek3
+  - ($棹zoek3)
   ==
 $$
 
@@ -280,7 +280,7 @@ E
   ====
 S
   ==
-  - $灼zoek3
+  - ($灼zoek3)
   ==
 $$
 
@@ -346,7 +346,7 @@ W
   ====
 S
   ==
-  - $芍zoek3
+  - ($芍zoek3)
   ==
 $$
 

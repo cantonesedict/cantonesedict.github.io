@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2025-11-23
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -329,7 +329,7 @@ W
   ====
 S
   ==
-  - $揫zau1
+  - ($揫zau1)
   ==
 $$
 
@@ -613,7 +613,7 @@ W
   ====
 S
   ==
-  - $紬cau4
+  - ($紬cau4)
   ==
 $$
 
@@ -1011,7 +1011,7 @@ S
   ==
   - $簇cok3
   - $簇cuk1
-  - $簇zuk6
+  - ($簇zuk6)
   ==
 $$
 
@@ -1144,7 +1144,7 @@ P
 S
   ==
   - $蔟cuk1
-  - $蔟zuk6
+  - ($蔟zuk6)
   ==
 $$
 

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cok
-* %date-modified --> 2025-11-23
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -161,9 +161,9 @@ W
   ====
 S
   ==
-  - $簇cau3
+  - ($簇cau3)
   - $簇cuk1
-  - $簇zuk6
+  - ($簇zuk6)
   ==
 $$
 

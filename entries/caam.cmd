@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2025-11-22
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -194,7 +194,7 @@ C
   ==
 S
   ==
-  - $攙caam4
+  - ($攙caam4)
   - $攙zaam6
   ==
 $$
@@ -226,7 +226,7 @@ C
 S
   ==
   - $篸caam2
-  - $篸zaam1
+  - ($篸zaam1)
   ==
 $$
 
@@ -435,7 +435,7 @@ W
 S
   ==
   - $篸caam1
-  - $篸zaam1
+  - ($篸zaam1)
   ==
 $$
 
@@ -610,7 +610,7 @@ C
   ==
 S
   ==
-  - $劖caam5
+  - ($劖caam5)
   ==
 $$
 
@@ -1018,7 +1018,7 @@ E
   ====
 S
   ==
-  - $棖caan5
+  - ($棖caan5)
   - $棖caang4
   ==
 $$
@@ -1094,6 +1094,6 @@ E
   ====
 S
   ==
-  - $鏨zaam6
+  - ($鏨zaam6)
   ==
 $$

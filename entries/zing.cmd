@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2025-11-23
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -386,7 +386,7 @@ C
   ==
 S
   ==
-  - $正zeng3
+  - ($正zeng3)
   - $正zing3
   ==
 $$
@@ -651,7 +651,7 @@ C
   ==
 S
   ==
-  - $精zeng1
+  - ($精zeng1)
   ==
 $$
 
@@ -945,7 +945,7 @@ P
   ++
 S
   ==
-  - $井zeng2
+  - ($井zeng2)
   ==
 $$
 
@@ -1267,7 +1267,7 @@ E
   ====
 S
   ==
-  - $正zeng3
+  - ($正zeng3)
   - $正zing1
   ==
 $$
@@ -1514,7 +1514,7 @@ E
   ====
 S
   ==
-  - $淨zeng6
+  - ($淨zeng6)
   ==
 $$
 
@@ -1539,7 +1539,7 @@ W
   ====
 S
   ==
-  - $穽zeng6
+  - ($穽zeng6)
   ==
 $$
 
@@ -1611,7 +1611,7 @@ C
   ==
 S
   ==
-  - $阱zeng6
+  - ($阱zeng6)
   ==
 $$
 

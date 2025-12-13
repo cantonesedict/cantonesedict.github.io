@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyun
-* %date-modified --> 2025-11-23
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -341,7 +341,7 @@ P
   ++
 S
   ==
-  - $惴ceoi2
+  - ($惴ceoi2)
   - $惴zeoi3
   ==
 $$
@@ -390,7 +390,7 @@ C
   ==
 S
   ==
-  - $揣ceoi2
+  - ($揣ceoi2)
   ==
 $$
 
@@ -735,7 +735,7 @@ C
   ==
 S
   ==
-  - $攛cyun2
+  - ($攛cyun2)
   ==
 $$
 
@@ -848,7 +848,7 @@ P
   ++
 S
   ==
-  - $竄cyun2
+  - ($竄cyun2)
   ==
 $$
 
@@ -1148,7 +1148,7 @@ C
   ==
 S
   ==
-  - $攢zyun1
+  - ($攢zyun1)
   ==
 $$
 
@@ -1438,7 +1438,7 @@ C
   ==
 S
   ==
-  - $遄cyun2
+  - ($遄cyun2)
   ==
 $$
 
@@ -1524,6 +1524,6 @@ P
   ++
 S
   ==
-  - $鱒zyun1
+  - ($鱒zyun1)
   ==
 $$

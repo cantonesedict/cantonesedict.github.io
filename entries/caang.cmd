@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caang
-* %date-modified --> 2025-11-22
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -186,7 +186,7 @@ W
   ====
 S
   ==
-  - $撑caang3
+  - ($撑caang3)
   ==
 $$
 
@@ -241,7 +241,7 @@ W
   ====
 S
   ==
-  - $橕caang3
+  - ($橕caang3)
   ==
 $$
 
@@ -476,7 +476,7 @@ P
   ++
 S
   ==
-  - $撑caang1
+  - ($撑caang1)
   ==
 $$
 
@@ -629,7 +629,7 @@ P
 S
   ==
   - $棖caam5
-  - $棖caan5
+  - ($棖caan5)
   ==
 $$
 
@@ -685,7 +685,7 @@ P
   ++
 S
   ==
-  - $橙caang2
+  - ($橙caang2)
   ==
 $$
 

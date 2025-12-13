@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cung
-* %date-modified --> 2025-11-23
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -864,7 +864,7 @@ P
   ++
 S
   ==
-  - $衷zung1
+  - ($衷zung1)
   - $衷zung3
   ==
 $$
@@ -1310,8 +1310,8 @@ P
 S
   ==
   - $從sung1 (TODO)
-  - $從zung1
-  - $從zung3
+  - ($從zung1)
+  - ($從zung3)
   - $從zung6
   ==
 $$
@@ -1350,7 +1350,7 @@ P
   ++
 S
   ==
-  - $悰zung1
+  - ($悰zung1)
   ==
 $$
 
@@ -1500,7 +1500,7 @@ W
   ====
 S
   ==
-  - $潀zung1
+  - ($潀zung1)
   ==
 $$
 
@@ -1524,7 +1524,7 @@ W
   ====
 S
   ==
-  - $潨zung1
+  - ($潨zung1)
   ==
 $$
 
@@ -1582,7 +1582,7 @@ W
   ====
 S
   ==
-  - $琮zung1
+  - ($琮zung1)
   ==
 $$
 
