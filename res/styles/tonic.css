@@ -231,6 +231,10 @@ th, td {
 }
 
 
+.baxter {
+  font-family: monospace;
+}
+
 .canonical {
   border-style: double;
   border-width: 3px;

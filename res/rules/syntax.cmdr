@@ -270,6 +270,17 @@ FixedDelimitersReplacement: #.syntax.small-parenthetical
 - tag_name: small
 
 
+FixedDelimitersReplacement: #.syntax.baxter
+- queue_position: BEFORE #inline-code
+- syntax_type: INLINE
+- opening_delimiter: (`
+- attribute_specifications: .baxter
+- prohibited_content: BLOCKS
+- closing_delimiter: `)
+- tag_name: span
+- concluding_replacements: #.syntax.round-bracket-wrap
+
+
 RegexDictionaryReplacement: #.syntax.link-abbreviations
 - queue_position: BEFORE #specified-links
 * Page ~ (?P<page_number> [0-9]+ ) (?P<asterisk> [*]? )

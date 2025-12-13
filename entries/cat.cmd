@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cat
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-12-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -121,7 +121,7 @@ C
   ==
 L
   ====
-  * 七
+  * 七 (`tshit`)
     ==
     - (_noun-like_) seven
     - (_adjective-like_) seventh
