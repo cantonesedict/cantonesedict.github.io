@@ -326,6 +326,13 @@ C
   ==
   - Williams' 鴉片坭: Dated; opium is now simply called 鴉片.
   ==
+L
+  ====
+  * 鴉 (`'ae`)
+    ==
+    - (_noun-like_) crow, raven
+    ==
+  ====
 $$
 
 
