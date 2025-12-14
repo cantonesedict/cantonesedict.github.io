@@ -178,6 +178,13 @@ C
   ==
   - Fan Wan entry: Corrected 本 to 木.
   ==
+L
+  ====
+  * 【軛】 (`'eak`)
+    ==
+    - (_noun-like_) yoke
+    ==
+  ====
 $$
 
 ### 阨1 | _(A/)k(7)_ [[aak1]]
