@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en" translate="no">
+<head>
+<meta charset="utf-8">
+<meta name="author" content="Conway">
+<meta name="description" content="Conway's Cantonese Dictionary, an annotated edition of Williams' 1856 Tonic Dictionary: searchable index of links to literary renderings by Baxter notation">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/res/styles/tonic.css">
+<title>Index of literary renderings by Baxter notation | Conway's Cantonese Dictionary</title>
+</head>
+<body>
+<header>
+<nav class="sideways">
+<ul>
+<li>
+<a href="/">Home</a>
+</li>
+<li>
+<a href="#">Top</a>
+</li>
+<li>
+<a href="/entries/">Entries</a>
+</li>
+<li>
+<a href="/terms/">Terms</a>
+</li>
+<li>
+<a href="/search/">Search</a>
+</li>
+<li>
+<a href="/radicals/">Radicals</a>
+</li>
+</ul>
+</nav>
+</header>
+<h1 class="modern">Index of literary renderings by Baxter notation</h1>
+<div class="modern input-container">
+<p>
+<label for="filter"><b>Filter for Baxter/Term:</b></label>
+<input type="text" id="filter" oninput="applyFilter()" placeholder="(tones are ignored)" lang="zh-Hant">
+</p>
+<noscript>
+<p>
+<strong>JavaScript is required for filter to work.</strong>
+</p>
+</noscript>
+</div>
+<script>
+function normaliseString(str)
+{
+  return str.toLowerCase().trim().replace(/\s+/g, ' ');
+}
+
+function matchBaxter(filterString, baxter)
+{
+  let tonelessBaxter = baxter.replace(/[XH]\b/gi, '');
+  let tonelessFilterString = filterString.replace(/[XH]\b/gi, '');
+  return tonelessBaxter.indexOf(tonelessFilterString) > -1;
+}
+
+function matchTerm(filterString, term)
+{
+  return term.indexOf(filterString) > -1;
+}
+
+function applyFilter()
+{
+  let filterElement = document.getElementById('filter');
+  let filterString = normaliseString(filterElement.value);
+
+  for (const rowElement of document.querySelectorAll('tbody tr'))
+  {
+    let cells = rowElement.getElementsByTagName('td');
+    let baxter = normaliseString(cells[0].textContent);
+    let term = normaliseString(cells[1].textContent);
+
+    let isBaxterMatch = matchBaxter(filterString, baxter);
+    let isTermMatch = matchTerm(filterString, term);
+    rowElement.style.display = (isBaxterMatch || isTermMatch) ? '' : 'none';
+  }
+}
+
+window.onload = applyFilter;
+</script>
+<div class="wide">
+<table class="modern">
+<thead>
+<tr>
+<th>Baxter notation</th>
+<th>Entry link</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+</div>
+<footer class="modern">
+© 2025 Conway.<br>
+Source: <a href="https://github.com/cantonesedict/cantonesedict.github.io/blob/master/renderings/index.cmd"><code>renderings/index.cmd</code></a>.
+Last modified: <time datetime="2025-12-14">2025-12-14</time>.
+</footer>
+</body>
+</html>
