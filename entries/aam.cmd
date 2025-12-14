@@ -79,7 +79,7 @@ W
   ====
 L
   ====
-  * 【菡萏】 (`homX domX`)
+  * 【菡萏】 (homX domX)
     ==
     - (_noun-like_) lotus flower
     ==

@@ -265,7 +265,7 @@ W
   ====
 L
   ====
-  * 【隘】 (`'eaH`)
+  * 【隘】 ('eaH)
     ==
     - (_noun-like_) defile
     - (_adjective-like_) narrow

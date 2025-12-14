@@ -121,7 +121,7 @@ C
   ==
 L
   ====
-  * 【七】 (`tshit`)
+  * 【七】 (tshit)
     ==
     - (_noun-like_) seven
     - (_verb-like_) [to] septuple

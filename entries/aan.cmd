@@ -115,7 +115,7 @@ P
   ++
 L
   ====
-  * 【晏】 (`'aenH`)
+  * 【晏】 ('aenH)
     ==
     - (_adjective-like_) clear, cloudless
     - (_adjective-like_) serene
@@ -194,7 +194,7 @@ C
   ==
 L
   ====
-  * 【鷃】 (`'aenH`)
+  * 【鷃】 ('aenH)
     ==
     - (_noun-like_) quail
     ==

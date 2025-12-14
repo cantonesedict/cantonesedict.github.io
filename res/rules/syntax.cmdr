@@ -176,6 +176,10 @@ RegexDictionaryReplacement: #.syntax.strip-compositions
 - concluding_replacements: #.syntax.composition-characters
 
 
+OrdinaryDictionaryReplacement: #.syntax.partition-baxter-readings
+* , --> `, `
+
+
 OrdinaryDictionaryReplacement: #.syntax.baxter-tones
 * X --> <sup>X</sup>
 * H --> <sup>H</sup>
@@ -207,8 +211,9 @@ RegexDictionaryReplacement: #.syntax.literary-renderings
       [ ] \( (?P<readings> .*? ) \)
      -->
   *{#rendering-(|\g<term>|)\g<disambiguation>}
-    []{.permalink aria-label=Permalink}(#rendering-(|\g<term>|)\g<disambiguation>)【\g<term>】 (\g<readings>)
+    []{.permalink aria-label=Permalink}(#rendering-(|\g<term>|)\g<disambiguation>)【\g<term>】 (`\g<readings>`)
 - concluding_replacements:
+    #.syntax.partition-baxter-readings
     #.syntax.baxter
     #.syntax.strip-compositions
 

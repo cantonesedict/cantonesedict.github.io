@@ -2735,11 +2735,11 @@ class LiteraryRendering:
 
     def __init__(self, term: str, disambiguation_suffix: str, baxter_content: str, character: str,
                  page_heading_jyutping: str):
-        baxter_list = baxter_content.replace('`', '').split(sep=', ')
+        baxter_list = baxter_content.split(sep=', ')
         baxter_set = set(baxter_list)
 
         if len(baxter_set) < len(baxter_list):
-            raise LintException(f'duplicate Baxter transcriptions in "{baxter_content}" for literary term `{term}`')
+            raise LintException(f'duplicate Baxter transcriptions in `{baxter_content}` for literary term `{term}`')
 
         self.term = term
         self.disambiguation_suffix = disambiguation_suffix
