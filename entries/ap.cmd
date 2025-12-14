@@ -100,7 +100,7 @@ W
   ====
 E
   ====
-  - 【洽】 (ap1):
+  - 【洽】 (ap1)
     ++
     1. To cover and keep wet (when undesirable to do so).
     ++

@@ -222,7 +222,7 @@ W
   ====
 E
   ====
-  - 【㬹】 (zaang1):
+  - 【㬹】 (zaang1)
     ++
     1. The heel.
        ==
@@ -396,7 +396,7 @@ C
   ==
 E
   ====
-  - 【掙】 (zaang6):
+  - 【掙】 (zaang6)
     ++
     1. To wedge in or stuff in,
        especially for the purposes of sealing off or widening.

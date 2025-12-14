@@ -2522,7 +2522,7 @@ class CharacterEntry:
                 pattern=r'''
                     ^ [ ]+ [-][ ]
                     【 (?P<term> [^\s-]+ ) (?P<disambiguation_suffix> \S* ) 】
-                    [ ] \( (?P<jyutping_content> .* ) \) :
+                    [ ] \( (?P<jyutping_content> .* ) \)
                 ''',
                 string=content,
                 flags = re.MULTILINE | re.VERBOSE,

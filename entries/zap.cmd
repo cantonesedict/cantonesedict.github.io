@@ -136,7 +136,7 @@ P
   ++
 E
   ====
-  - 【執】 (zap1):
+  - 【執】 (zap1)
     ++
     1. To pick up.
        ==
@@ -156,15 +156,15 @@ E
        ==
     1. Short for [執笠](#cantonese-執笠).
     ++
-  - 【執錯字粒】 (zap1 co3 zi6 nap1):
+  - 【執錯字粒】 (zap1 co3 zi6 nap1)
     ++
     1. To make a typo. (Literally, "Pick up [the] wrong character block.")
     ++
-  - 【執骨】 (zap1 gwat1):
+  - 【執骨】 (zap1 gwat1)
     ++
     1. To take up the bones from a grave (for a reburial).
     ++
-  - 【執笠】 (zap1 lap1):
+  - 【執笠】 (zap1 lap1)
     ++
     1. To shut up shop, especially after going bankrupt.
        ==
@@ -172,31 +172,31 @@ E
        - 就快執笠 (zau6 faai3 zap1 lap1): "About to go under."
        ==
     ++
-  - 【執媽】 (zap1 maa1):
+  - 【執媽】 (zap1 maa1)
     ++
     1. A midwife (strictly female).
     ++
-  - 【執碼-verb】 (zap1 maa5):
+  - 【執碼-verb】 (zap1 maa5)
     ++
     1. To gather ingredients for a chef to cook.
     ++
-  - 【執碼-noun】 (zap1 maa5-2):
+  - 【執碼-noun】 (zap1 maa5-2)
     ++
     1. The kitchen assistant who gather ingredients for the chefs to cook.
     ++
-  - 【執生】 (zap1 saang1):
+  - 【執生】 (zap1 saang1)
     ++
     1. To improvise, or figure something out on the spot.
     ++
-  - 【執輸】 (zap1 syu1):
+  - 【執輸】 (zap1 syu1)
     ++
     1. To miss out.
     ++
-  - 【執仔】 (zap1 zai2):
+  - 【執仔】 (zap1 zai2)
     ++
     1. To midwive.
     ++
-  - 【執仔婆】 (zap1 zai2 po4-2):
+  - 【執仔婆】 (zap1 zai2 po4-2)
     ++
     1. A midwife (strictly female).
     ++
@@ -326,7 +326,7 @@ C
   ==
 E
   ====
-  - 【蓻】 (zap1):
+  - 【蓻】 (zap1)
     ++
     1. A pinch or tuft.
        ==

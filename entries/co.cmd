@@ -154,11 +154,11 @@ C
   ==
 E
   ====
-  - 【初初】 (co1 co1):
+  - 【初初】 (co1 co1)
     ++
     1. At first, initially.
     ++
-  - 【初哥】 (co1 go1):
+  - 【初哥】 (co1 go1)
     ++
     1. A beginner, a novice.
     ++
@@ -849,14 +849,14 @@ C
   ==
 E
   ====
-  - 【唔錯】 (m4 co3):
+  - 【唔錯】 (m4 co3)
     ++
     1. Not bad (in quality).
        ==
        - 唔錯吖 (m4 co3 a1): "Not bad!"
        ==
     ++
-  - 【冇錯】 (mou5 co3):
+  - 【冇錯】 (mou5 co3)
     ++
     1. Correct.
        ==
@@ -974,12 +974,12 @@ C
   ==
 E
   ====
-  - 【鋤大弟】 (co4 daai6 di2):
+  - 【鋤大弟】 (co4 daai6 di2)
     ++
     1. Big two (the card game).
     1. To play big two.
     ++
-  - 【鋤弟】 (co4 di2):
+  - 【鋤弟】 (co4 di2)
     ++
     1. Short for [鋤大弟](#cantonese-鋤大弟) (to play big two).
     ++

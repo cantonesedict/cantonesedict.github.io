@@ -1057,7 +1057,7 @@ W
   ====
 E
   ====
-  - 【芝士】 (zi1 si6-2):
+  - 【芝士】 (zi1 si6-2)
     ++
     1. Cheese.
     ++
@@ -1256,7 +1256,7 @@ C
   ==
 E
   ====
-  - 【螆】 (zi1):
+  - 【螆】 (zi1)
     ++
     1. A flea, louse, or small insect.
        ==
@@ -2304,23 +2304,23 @@ P
   ++
 E
   ====
-  - 【尾指】 (mei5-1 zi2):
+  - 【尾指】 (mei5-1 zi2)
     ++
     1. The pinky.
     ++
-  - 【手指公】 (sau2 zi2 gung1):
+  - 【手指公】 (sau2 zi2 gung1)
     ++
     1. The thumb.
     ++
-  - 【手指尾】 (sau2 zi2 mei5-1):
+  - 【手指尾】 (sau2 zi2 mei5-1)
     ++
     1. The pinky.
     ++
-  - 【食指】 (sik6 zi2):
+  - 【食指】 (sik6 zi2)
     ++
     1. The index finger.
     ++
-  - 【指擬】 (zi2 ji5):
+  - 【指擬】 (zi2 ji5)
     ++
     1. To rely on.
        ==
@@ -2882,15 +2882,15 @@ C
   ==
 E
   ====
-  - 【花紙】 (faa1 zi2):
+  - 【花紙】 (faa1 zi2)
     ++
     1. Gift wrapping paper.
     ++
-  - 【膠紙】 (gaau1 zi2):
+  - 【膠紙】 (gaau1 zi2)
     ++
     1. Sticky tape.
     ++
-  - 【雞皮紙】 (gai1 pei4 zi2):
+  - 【雞皮紙】 (gai1 pei4 zi2)
     ++
     1. Kraft paper.
     ++
@@ -3094,11 +3094,11 @@ W
   ====
 E
   ====
-  - 【腳趾公】 (goek3 zi2 gung1):
+  - 【腳趾公】 (goek3 zi2 gung1)
     ++
     1. The big toe.
     ++
-  - 【腳趾尾】 (goek3 zi2 mei5-1):
+  - 【腳趾尾】 (goek3 zi2 mei5-1)
     ++
     1. The little toe.
     ++
@@ -3831,7 +3831,7 @@ P
   ++
 E
   ====
-  - 【至】 (zi3):
+  - 【至】 (zi3)
     ++
     1. Short for [先至](sin#cantonese-先至) (only, only then). (TODO)
        ==
@@ -4566,7 +4566,7 @@ C
   ==
 E
   ====
-  - 【字】 (zi6):
+  - 【字】 (zi6)
     ++
     1. A point within an hour, corresponding to
        one of the markings 1 through 11 on an analogue clock.
@@ -4856,11 +4856,11 @@ C
   ====
 E
   ====
-  - 【三文治】 (saam1 man4 zi6):
+  - 【三文治】 (saam1 man4 zi6)
     ++
     1. A sandwich.
     ++
-  - 【治】 (zi6):
+  - 【治】 (zi6)
     ++
     1. Short for [三文治](#cantonese-三文治).
        ==

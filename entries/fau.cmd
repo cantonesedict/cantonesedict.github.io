@@ -294,14 +294,14 @@ P
   ++
 E
   ====
-  - 【浮面】 (pou4 min6-2):
+  - 【浮面】 (pou4 min6-2)
     ++
     1. On the surface.
        ==
        - 浮面{𢳂=⿰扌畢}油 (pou4 min6-2 bat1 jau4): "Skim [the] oil along [the] surface."
        ==
     ++
-  - 【浮頭】 (pou4 tau4):
+  - 【浮頭】 (pou4 tau4)
     ++
     1. To surface.
     ++

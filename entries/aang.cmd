@@ -148,7 +148,7 @@ W
   ====
 E
   ====
-  - 【罌】 (aang1):
+  - 【罌】 (aang1)
     ++
     1. A jar or cylindrical-ish container.
        ==

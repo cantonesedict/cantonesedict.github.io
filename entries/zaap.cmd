@@ -535,11 +535,11 @@ W
   ====
 E
   ====
-  - 【鈒-noun】 (zaap6, zaap6-2):
+  - 【鈒-noun】 (zaap6, zaap6-2)
     ++
     1. Shears.
     ++
-  - 【鈒-verb】 (zaap6):
+  - 【鈒-verb】 (zaap6)
     ++
     1. To cut or slice, especially with shears.
     ++
@@ -766,11 +766,11 @@ C
   ==
 E
   ====
-  - 【垃雜】 (laap6 zaap6):
+  - 【垃雜】 (laap6 zaap6)
     ++
     1. Disorganised or cluttered. Commonly spelt 立雜 (see discussion below).
     ++
-  - 【雜】 (zaap6):
+  - 【雜】 (zaap6)
     ++
     1. Used to describe a place as dodgy,
        due to the presence of miscellaneous unsavoury characters.

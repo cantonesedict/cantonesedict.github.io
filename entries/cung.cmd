@@ -814,7 +814,7 @@ C
   ==
 E
   ====
-  - 【衝】 (cung1):
+  - 【衝】 (cung1)
     ++
     1. To run a traffic light.
        ==

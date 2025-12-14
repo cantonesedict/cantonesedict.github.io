@@ -269,7 +269,7 @@ W
   ====
 E
   ====
-  - 【灼】 (coek3):
+  - 【灼】 (coek3)
     ++
     1. To cook (briefly) in boiling water, to blanch.
        ==

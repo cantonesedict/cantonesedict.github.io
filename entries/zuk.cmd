@@ -143,7 +143,7 @@ C
   ==
 E
   ====
-  - 【捉】 (zuk1):
+  - 【捉】 (zuk1)
     ++
     1. To play a board game.
        ==
@@ -153,11 +153,11 @@ E
        - 唔識捉 (m4 sik1 zuk1): "[I] don't know [how to] play."
        ==
     ++
-  - 【捉伊人】 (zuk1 ji1 jan4-1):
+  - 【捉伊人】 (zuk1 ji1 jan4-1)
     ++
     1. Hide and seek.
     ++
-  - 【捉字蝨】 (zuk1 zi6 sat1):
+  - 【捉字蝨】 (zuk1 zi6 sat1)
     ++
     1. To nit-pick choice of words (or writing more generally).
     ++
@@ -240,11 +240,11 @@ P
   ++
 E
   ====
-  - 【火燭】 (fo2 zuk1):
+  - 【火燭】 (fo2 zuk1)
     ++
     1. Fire (as an accident, danger, or disaster).
     ++
-  - 【火燭車】 (fo2 zuk1 ce1):
+  - 【火燭車】 (fo2 zuk1 ce1)
     ++
     1. A fire truck.
     ++
@@ -373,7 +373,7 @@ P
   ++
 E
   ====
-  - 【竹花頭】 (zuk1 faa1 tau4-2):
+  - 【竹花頭】 (zuk1 faa1 tau4-2)
     ++
     1. The character component 𥫗. (Literally, "bamboo flower atop".)
     ++
@@ -906,7 +906,7 @@ P
   ++
 E
   ====
-  - 【濁】 (zuk6):
+  - 【濁】 (zuk6)
     ++
     1. To choke.
        ==

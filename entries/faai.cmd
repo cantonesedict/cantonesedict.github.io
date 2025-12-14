@@ -257,7 +257,7 @@ P
   ++
 E
   ====
-  - 【快脆】 (faai3 ceoi3):
+  - 【快脆】 (faai3 ceoi3)
     ++
     1. Quick.
        ==

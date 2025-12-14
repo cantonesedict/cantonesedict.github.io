@@ -90,7 +90,7 @@ C
   ==
 E
   ====
-  - 【齊戢戢】 (cai4 cap1 cap1):
+  - 【齊戢戢】 (cai4 cap1 cap1)
     ++
     1. Neat and even (not jagged).
     ++

@@ -115,7 +115,7 @@ C
   ==
 E
   ====
-  - 【老作】 (lou5 zok3):
+  - 【老作】 (lou5 zok3)
     ++
     1. To make up, to fabricate.
     ++

@@ -593,7 +593,7 @@ W
   ====
 E
   ====
-  - 【黐】 (ci1):
+  - 【黐】 (ci1)
     ++
     1. To stick, to be sticky, to cling.
        ==
@@ -614,22 +614,22 @@ E
        - 做到黐咗 (zou6 dou3 ci1 zo2): "Worked till [he's] crazy."
        ==
     ++
-  - 【黐肺】 (ci1 fai3):
+  - 【黐肺】 (ci1 fai3)
     ++
     1. To be exhausted. (Literally, "stuck-together lungs".)
        ==
        - 熱到黐肺 (jit6 dou3 ci1 fai3): "So hot [I'm] knackered."
        ==
     ++
-  - 【黐脷根】 (ci1 lei6 gan1):
+  - 【黐脷根】 (ci1 lei6 gan1)
     ++
     1. To have a lisp. (Literally, "sticky tongue-root".)
     ++
-  - 【黐孖筋】 (ci1 maa1 gan1):
+  - 【黐孖筋】 (ci1 maa1 gan1)
     ++
     1. Crazy, insane.
     ++
-  - 【黐線】 (ci1 sin3):
+  - 【黐線】 (ci1 sin3)
     ++
     1. Crazy, insane.
       ==
@@ -2935,7 +2935,7 @@ C
   ==
 E
   ====
-  - 【糯米糍】 (no6 mai5 ci4):
+  - 【糯米糍】 (no6 mai5 ci4)
     ++
     1. Glutinous rice balls.
     ++
@@ -3105,7 +3105,7 @@ E
   Cantonese prefers classical 似 over 像.
   --
   ====
-  - 【似】 (ci5):
+  - 【似】 (ci5)
     ++
     1. To resemble, to be like.
        ==
@@ -3113,7 +3113,7 @@ E
        - 好似得咗 (hou2 ci5 dak1 zo2): "Seems like [it] worked."
        ==
     ++
-  - 【似樣】 (ci5 joeng6-2):
+  - 【似樣】 (ci5 joeng6-2)
     ++
     1. To resemble in appearance.
        ==

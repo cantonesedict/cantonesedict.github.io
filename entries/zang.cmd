@@ -204,7 +204,7 @@ W
   ====
 E
   ====
-  - 【乞人憎】 (hat1 jan4 zang1):
+  - 【乞人憎】 (hat1 jan4 zang1)
     ++
     1. Despicable. (Literally, "begging others to hate".)
        ==
@@ -404,7 +404,7 @@ C
   ==
 E
   ====
-  - 【爭】 (zaang1):
+  - 【爭】 (zaang1)
     ++
     1. To differ by.
        ==
@@ -423,7 +423,7 @@ E
        - 爭佢錢 (zaang1 keoi5 cin4-2): "[I] owe him money."
        ==
     ++
-  - 【爭在】 (zaang1 zoi6):
+  - 【爭在】 (zaang1 zoi6)
     ++
     1. To matter.
        Especially used in contrast to something that does not matter

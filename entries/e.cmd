@@ -118,7 +118,7 @@ W
   [[Not present]]
 E
   ====
-  - 【㖡】 (e6):
+  - 【㖡】 (e6)
     ++
     1. A filler used to express uncertainty or hesitation.
        ==

@@ -217,7 +217,7 @@ W
   ====
 E
   ====
-  - 【爆坼】 (baau3 caak3):
+  - 【爆坼】 (baau3 caak3)
     ++
     1. Chapped.
        ==

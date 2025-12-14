@@ -309,7 +309,7 @@ C
   ==
 E
   ====
-  - 【炒】 (caau2):
+  - 【炒】 (caau2)
     ++
     1. To stir-fry.
     1. Short for [炒魷魚](#cantonese-炒魷魚).
@@ -326,11 +326,11 @@ E
        - 炒單車 (caau2 daan1 ce1): "Stacked [my] bike."
        ==
     ++
-  - 【炒魷魚】 (caau2 jau4 jyu4-2):
+  - 【炒魷魚】 (caau2 jau4 jyu4-2)
     ++
     1. To sack, to fire.
     ++
-  - 【炒魷】 (caau2 jau4-2):
+  - 【炒魷】 (caau2 jau4-2)
     ++
     1. Short for [炒魷魚](#cantonese-炒魷魚).
     ++
@@ -362,7 +362,7 @@ W
   [[Not present]]
 E
   ====
-  - 【摷】 (caau3):
+  - 【摷】 (caau3)
     ++
     1. To rummage or rifle through.
        ==
@@ -502,7 +502,7 @@ P
   ++
 E
   ====
-  - 【巢】 (caau4):
+  - 【巢】 (caau4)
     ++
     1. Wrinkled.
        ==

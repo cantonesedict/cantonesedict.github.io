@@ -72,7 +72,7 @@ W
   [[Not present]]
 E
   ====
-  - 【唧】 (zek1):
+  - 【唧】 (zek1)
     ++
     1. An final particle of emphasis or emotion.
        ==

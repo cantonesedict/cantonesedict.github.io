@@ -101,7 +101,7 @@ C
   ==
 E
   ====
-  - 【{𢫦=⿰扌百}】 (faak3):
+  - 【{𢫦=⿰扌百}】 (faak3)
     ++
     1. To whip, to swing abruptly, to flap violently.
        ==

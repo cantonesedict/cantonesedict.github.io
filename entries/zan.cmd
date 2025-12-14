@@ -211,14 +211,14 @@ C
   ==
 E
   ====
-  - 【認真】 (jing6-2 zan1):
+  - 【認真】 (jing6-2 zan1)
     ++
     1. (_degree_) Really, truly.
        ==
        - 認真傻 (jing6-2 zan1 so4): "[That's] truly dumb."
        ==
     ++
-  - 【嚟真】 (lai4-2 zan1):
+  - 【嚟真】 (lai4-2 zan1)
     ++
     1. To do for real (as opposed to a practice, test, or fake run).
        ==
@@ -620,7 +620,7 @@ C
   ==
 E
   ====
-  - 【打冷震】 (daa2 laang5 zan3):
+  - 【打冷震】 (daa2 laang5 zan3)
     ++
     1. To shiver.
     1. (_slang_) To have an orgasm.
@@ -721,7 +721,7 @@ C
   ==
 E
   ====
-  - 【一陣-moment】 (jat1 zan6):
+  - 【一陣-moment】 (jat1 zan6)
     ++
     1. A moment or short while.
        ==
@@ -729,7 +729,7 @@ E
        - 瞓咗一陣 (fan3 zo2 jat1 zan6): "Slept [for a] bit."
        ==
     ++
-  - 【一陣-later】 (jat1 zan6, jat1 zan6-2):
+  - 【一陣-later】 (jat1 zan6, jat1 zan6-2)
     ++
     1. Later, especially a short while later.
        ==
@@ -741,13 +741,13 @@ E
        - 一陣遲到咪弊 (jat1 zan6-2 ci4 dou3 mai6 bai6): "If [we] arrive late, [won't we be] stuffed?"
        ==
     ++
-  - 【一陣間】 (jat1 zan6 gaan1):
+  - 【一陣間】 (jat1 zan6 gaan1)
     ++
     1. Synonym of 一陣
        (both in the ["moment"](#cantonese-一陣-moment) sense
        and in the ["later" and subjunctive marker](#cantonese-一陣-later) senses).
     ++
-  - 【陣-moment】 (zan6):
+  - 【陣-moment】 (zan6)
     ++
     1. Short for [一陣](#cantonese-一陣-moment) in the "moment" sense.
        ==
@@ -755,7 +755,7 @@ E
        - 瞓咗陣 (fan3 zo2 zan6): "Slept [for a] bit."
        ==
     ++
-  - 【陣-time】 (zan6, zan6-2):
+  - 【陣-time】 (zan6, zan6-2)
     ++
     1. A time, or period of time, or era.
        ==
@@ -763,7 +763,7 @@ E
        - 家陣 (gaa1 zan6-2): "Nowadays."
        ==
     ++
-  - 【陣間】 (zan6 gaan1):
+  - 【陣間】 (zan6 gaan1)
     ++
     1. Short for [一陣間](#cantonese-一陣間).
     ++

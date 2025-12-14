@@ -112,7 +112,7 @@ C
   ==
 E
   ====
-  - 【占】 (zem1, zim1):
+  - 【占】 (zem1, zim1)
     ++
     1. Jam (fruit preserve).
        ==
@@ -168,11 +168,11 @@ P
   ++
 E
   ====
-  - 【打尖】 (daa2 zim1):
+  - 【打尖】 (daa2 zim1)
     ++
     1. To push in.
     ++
-  - 【尖隊】 (zim1 deoi6-2):
+  - 【尖隊】 (zim1 deoi6-2)
     ++
     1. To push in line.
     ++

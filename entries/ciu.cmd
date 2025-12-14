@@ -196,7 +196,7 @@ C
   ==
 E
   ====
-  - 【超】 (ciu1):
+  - 【超】 (ciu1)
     ++
     1. To stare or glare.
        ==

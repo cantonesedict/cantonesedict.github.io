@@ -283,7 +283,7 @@ E
   **One of the five profanities censored on Hong Kong television.**
   --
   ====
-  - 【{𨳍=⿵門七}】 (cat6):
+  - 【{𨳍=⿵門七}】 (cat6)
     ++
     1. (_vulgar_) A flaccid penis.
     ++

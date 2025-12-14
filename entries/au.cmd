@@ -531,7 +531,7 @@ C
   ==
 E
   ====
-  - 【漚泥】 (au3 nai4):
+  - 【漚泥】 (au3 nai4)
     ++
     1. To rot in mud. Used to express discontent, contempt, etc.
     ++

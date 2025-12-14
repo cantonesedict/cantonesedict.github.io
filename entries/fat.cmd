@@ -528,7 +528,7 @@ C
   ==
 E
   ====
-  - 【屎窟】 (si2 fat1):
+  - 【屎窟】 (si2 fat1)
     ++
     1. Arse (mostly the buttocks, sometimes the anus).
        ==

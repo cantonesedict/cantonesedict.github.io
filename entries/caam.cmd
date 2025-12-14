@@ -1011,7 +1011,7 @@ W
   ====
 E
   ====
-  - 【門棖】 (mun4 caam5):
+  - 【門棖】 (mun4 caam5)
     ++
     1. A doorsill.
     ++
@@ -1084,7 +1084,7 @@ C
   ==
 E
   ====
-  - 【鏨】 (caam5):
+  - 【鏨】 (caam5)
     ++
     1. To pierce, especially in a wedging or chisel-like fashion.
        ==

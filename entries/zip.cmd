@@ -277,7 +277,7 @@ P
   ++
 E
   ====
-  - 【摺埋】 (zip3 maai4):
+  - 【摺埋】 (zip3 maai4)
     ++
     1. To fold, to shut up (of a business).
     ++

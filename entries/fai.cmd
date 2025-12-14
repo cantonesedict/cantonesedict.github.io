@@ -195,7 +195,7 @@ P
   ++
 E
   ====
-  - 【揮春】 (fai1 ceon1):
+  - 【揮春】 (fai1 ceon1)
     ++
     1. New Year calligraphic banners.
        ==
@@ -742,7 +742,7 @@ C
   ====
 E
   ====
-  - 【熱痱】 (jit6 fai3-2):
+  - 【熱痱】 (jit6 fai3-2)
     ++
     1. Miliaria, heat rash.
     ++
@@ -909,7 +909,7 @@ W
   ====
 E
   ====
-  - 【費事】 (fai3 si6):
+  - 【費事】 (fai3 si6)
     ++
     1. Not to be bothered (to do something).
        ==

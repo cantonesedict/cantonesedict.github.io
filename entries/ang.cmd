@@ -243,7 +243,7 @@ C
   ==
 E
   ====
-  - 【㾘】 (ang2):
+  - 【㾘】 (ang2)
     ++
     1. To exert (or experience) a pressing force over a smallish or lump-sized area.
        ==

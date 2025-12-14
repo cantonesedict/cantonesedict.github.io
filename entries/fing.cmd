@@ -298,11 +298,11 @@ C
   ==
 E
   ====
-  - 【吊吊揈】 (diu3-4 diu3-2 fing6):
+  - 【吊吊揈】 (diu3-4 diu3-2 fing6)
     ++
     1. Hanging and swinging about.
     ++
-  - 【揈】 (fing6, fang6):
+  - 【揈】 (fing6, fang6)
     ++
     1. To swing, to flap, to shake.
        ==
@@ -320,7 +320,7 @@ E
        - 揈錢 (fang6 cin4-2): "Flinging money [around]."
        ==
     ++
-  - 【揈頭丸】 (fing6 tau4 jyun4-2):
+  - 【揈頭丸】 (fing6 tau4 jyun4-2)
     ++
     1. Ecstasy, the tablet form of MDMA. (Literally, "head-whirling pills".)
     ++

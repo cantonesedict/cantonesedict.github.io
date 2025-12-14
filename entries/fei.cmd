@@ -414,7 +414,7 @@ P
   ++
 E
   ====
-  - 【飛】 (fei1):
+  - 【飛】 (fei1)
     ++
     1. To cut off hair.
        ==
@@ -432,7 +432,7 @@ E
        - 黃牛飛 (wong4 ngau4 fei1): "Scalped tickets."
        ==
     ++
-  - 【飛起】 (fei1 hei2):
+  - 【飛起】 (fei1 hei2)
     ++
     1. Used after 到 to indicate an extreme degree.
        Similar to "to death" in English after a verb.
@@ -1083,15 +1083,15 @@ E
   Cantonese prefers 肥 over 胖, even when referring to fatness in humans.
   --
   ====
-  - 【肥腯腯】 (fei4 dat1 dat1):
+  - 【肥腯腯】 (fei4 dat1 dat1)
     ++
     1. Chubby.
     ++
-  - 【肥嘟嘟】 (fei4 dyut1 dyut1):
+  - 【肥嘟嘟】 (fei4 dyut1 dyut1)
     ++
     1. Synonym of [肥腯腯](#cantonese-肥腯腯).
     ++
-  - 【肥揗揗】 (fei4 tan4 tan4):
+  - 【肥揗揗】 (fei4 tan4 tan4)
     ++
     1. Fat, in a somewhat clumsy or bumbling way.
     1. Fatty, greasy.

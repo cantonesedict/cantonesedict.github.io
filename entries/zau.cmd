@@ -187,12 +187,12 @@ P
   ++
 E
   ====
-  - 【周身刀冇張利】 (zau1 san1 dou1 mou5 zoeng1 lei6):
+  - 【周身刀冇張利】 (zau1 san1 dou1 mou5 zoeng1 lei6)
     ++
     1. Jack of all trades, master of none.
        (Literally, "Knives all-about the person, [but] not [one] sharp".)
     ++
-  - 【周時】 (zau1 si4):
+  - 【周時】 (zau1 si4)
     ++
     1. All the time.
     ++
@@ -361,7 +361,7 @@ C
   ==
 E
   ====
-  - 【揪】 (zau1):
+  - 【揪】 (zau1)
     ++
     1. To catch or capture.
        ==
@@ -1155,7 +1155,7 @@ E
   Cantonese retains the classical distinction between 走 "run" and 行 "walk".
   --
   ====
-  - 【走】 (zau2):
+  - 【走】 (zau2)
     ++
     1. To run.
        ==
@@ -1187,14 +1187,14 @@ E
        - 菜心全走 (coi3 sam1 cyun4 zau2): "Choy sum all without" (i.e. without adding oyster sauce or brisket juice).
        ==
     ++
-  - 【走雞】 (zau2 gai1):
+  - 【走雞】 (zau2 gai1)
     ++
     1. To miss an opportunity (especially a tile in mahjong).
       ==
       - 走咗雞 (zau2 zo2 gai1): "[I] missed [it]."
       ==
     ++
-  - 【走去】 (zau2 heoi3):
+  - 【走去】 (zau2 heoi3)
     ++
     1. To proceed to.
       ==
@@ -1202,12 +1202,12 @@ E
       - 走去吸毒 (zau2 heoi3 kap1 duk6): "[He's] gone and taken drugs."
       ==
     ++
-  - 【走油】 (zau2 jau4-2):
+  - 【走油】 (zau2 jau4-2)
     ++
     1. To wok-fry briefly in a moderate amount of oil
        (so as to give sheen to meat or seafood).
     ++
-  - 【走甩】 (zau2 lat1):
+  - 【走甩】 (zau2 lat1)
     ++
     1. To get away, to successfully escape.
       ==
@@ -1215,7 +1215,7 @@ E
       - 走甩咗 (zau2 lat1 zo2): "[He] got away."
       ==
     ++
-  - 【走路】 (zau2 lou6-2):
+  - 【走路】 (zau2 lou6-2)
     ++
     1. To run away, to flee.
     ++
@@ -1875,7 +1875,7 @@ C
   ==
 E
   ====
-  - 【就】 (zau6):
+  - 【就】 (zau6)
     ++
     1. Almost, soon.
        ==
@@ -1888,15 +1888,15 @@ E
        - 唔使就我 (m4 sai2 zau6 ngo5): "No need [to] adjust for me."
        ==
     ++
-  - 【就快】 (zau6 faai3):
+  - 【就快】 (zau6 faai3)
     ++
     1. Soon.
     ++
-  - 【就噉】 (zau6 gam2):
+  - 【就噉】 (zau6 gam2)
     ++
     1. To leave it at that, to not do any more.
     ++
-  - 【就嚟】 (zau6 lai4):
+  - 【就嚟】 (zau6 lai4)
     ++
     1. Soon.
     ++

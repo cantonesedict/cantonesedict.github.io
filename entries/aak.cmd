@@ -112,7 +112,7 @@ W
   ====
 E
   ====
-  - 【呃】 (aak1, ngaak1):
+  - 【呃】 (aak1, ngaak1)
     ++
     1. To deceive, to trick, to scam.
        ==
@@ -262,7 +262,7 @@ C
   ==
 E
   ====
-  - 【鈪】 (aak3-2):
+  - 【鈪】 (aak3-2)
     ++
     1. A bracelet or bangle.
        ==

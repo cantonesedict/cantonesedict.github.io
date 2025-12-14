@@ -185,7 +185,7 @@ W
   ====
 E
   ====
-  - 【吖】 (a1, aa1):
+  - 【吖】 (a1, aa1)
     ++
     1. An interrogative-ish final particle suggesting the preceding.
        ==
@@ -201,7 +201,7 @@ E
        - 好吖 (hou2 a1): "OK" (as an active, enthusiastic endorsement).
        ==
     ++
-  - 【吖嘛】 (a1 maa3):
+  - 【吖嘛】 (a1 maa3)
     ++
     1. An indicative-ish final particle pointing out the preceding.
        Similar to ending on a falling intonation in English.
@@ -576,7 +576,7 @@ C
   ==
 E
   ====
-  - 【啊-final】 (a3, aa3):
+  - 【啊-final】 (a3, aa3)
     ++
     1. A final particle (with a hint of emphasis).
        ==
@@ -589,7 +589,7 @@ E
        - 阿爹啊 (aa3 de1 a3): "Dad!"
        ==
     ++
-  - 【啊-list】 (aa3):
+  - 【啊-list】 (aa3)
     ++
     1. A particle after each item in a list of examples.
        Similar to the non-falling intonation for list items in English.
@@ -719,7 +719,7 @@ W
   [[Not present]]
 E
   ====
-  - 【呀】 (a4):
+  - 【呀】 (a4)
     ++
     1. An interrogative-ish final particle of surprise, suspicion, disappointment, etc.
        ==

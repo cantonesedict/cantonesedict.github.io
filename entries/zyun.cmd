@@ -162,7 +162,7 @@ P
   ++
 E
   ====
-  - 【專登】 (zyun1 dang1):
+  - 【專登】 (zyun1 dang1)
     ++
     1. Specially.
        ==
@@ -343,7 +343,7 @@ W
   ====
 E
   ====
-  - 【階磚】 (gaai1 zyun1):
+  - 【階磚】 (gaai1 zyun1)
     ++
     1. Ceramic floor tiles.
     1. Diamonds (card suit).

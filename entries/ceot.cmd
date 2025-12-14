@@ -149,7 +149,7 @@ P
   ++
 E
   ====
-  - 【出】 (ceot1):
+  - 【出】 (ceot1)
     ++
     1. To go out to a place.
        ==

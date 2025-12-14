@@ -98,7 +98,7 @@ P
   ++
 E
   ====
-  - 【剒】 (cok3):
+  - 【剒】 (cok3)
     ++
     1. Choppiness in the airways, unsmoothness in breathing.
        ==

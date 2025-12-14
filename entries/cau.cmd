@@ -227,7 +227,7 @@ C
   ==
 E
   ====
-  - 【抽】 (cau1):
+  - 【抽】 (cau1)
     ++
     1. Classifier for things in a bunch that will fall together
        when carried by holding the top (or a handle or similar at the top).
@@ -241,24 +241,24 @@ E
        - 抽炮 (cau1 paau3): "[Check], winning [a] cannon."
        ==
     ++
-  - 【抽氣扇】 (cau1 hei3 sin3):
+  - 【抽氣扇】 (cau1 hei3 sin3)
     ++
     1. A ventilating fan.
     ++
-  - 【一抽二褦】 (jat1 cau1 ji6 nang3):
+  - 【一抽二褦】 (jat1 cau1 ji6 nang3)
     ++
     1. Many bags or much baggage to be carried.
        (Literally, "one carried-bunch [and] two linked-bunches".)
     ++
-  - 【老抽】 (lou5 cau1):
+  - 【老抽】 (lou5 cau1)
     ++
     1. Old soy sauce (dark coloured but less salty).
     ++
-  - 【生抽】 (saang1 cau1):
+  - 【生抽】 (saang1 cau1)
     ++
     1. Young soy sauce (light coloured but more salty).
     ++
-  - 【隻抽】 (zek3 cau1):
+  - 【隻抽】 (zek3 cau1)
     ++
     1. To fight one-on-one.
     ++
@@ -833,11 +833,11 @@ C
   ==
 E
   ====
-  - 【醜樣】 (cau2 joeng6-2):
+  - 【醜樣】 (cau2 joeng6-2)
     ++
     1. Ugly.
     ++
-  - 【怕醜】 (paa3 cau2):
+  - 【怕醜】 (paa3 cau2)
     ++
     1. Shy or bashful.
     ++
@@ -980,7 +980,7 @@ C
   ==
 E
   ====
-  - 【湊】 (cau3):
+  - 【湊】 (cau3)
     ++
     1. To look after, to raise, to baby sit.
        ==
@@ -1578,7 +1578,7 @@ C
   ==
 E
   ====
-  - 【籌】 (cau4-2):
+  - 【籌】 (cau4-2)
     ++
     1. A ticket or a token for a queue or allocation.
        ==

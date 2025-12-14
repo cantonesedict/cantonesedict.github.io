@@ -115,7 +115,7 @@ P
   ++
 E
   ====
-  - 【晏】 (aan3):
+  - 【晏】 (aan3)
     ++
     1. Late (in the day).
        ==
@@ -127,7 +127,7 @@ E
        - 食晏未 (sik6 aan3 mei5): "Eaten lunch yet?"
        ==
     ++
-  - 【晏晝】 (aan3 zau3):
+  - 【晏晝】 (aan3 zau3)
     ++
     1. Afternoon.
        ==

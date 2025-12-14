@@ -175,11 +175,11 @@ C
   ==
 E
   ====
-  - 【插】 (caap3):
+  - 【插】 (caap3)
     ++
     1. To criticise.
     ++
-  - 【插贓嫁禍】 (caap3 zong1 gaa3 wo6):
+  - 【插贓嫁禍】 (caap3 zong1 gaa3 wo6)
     ++
     1. To plant evidence and shift blame (onto another).
        (Literally, "insert loot [and] transfer disaster".)

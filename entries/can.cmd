@@ -130,7 +130,7 @@ C
   ==
 E
   ====
-  - 【嚫】 (can1):
+  - 【嚫】 (can1)
     ++
     1. Suffixed after a verb to mark negative consequence.
        ==
@@ -746,11 +746,11 @@ W
   ====
 E
   ====
-  - 【幫襯】 (bong1 can3): <## TODO: move under 幫 bong1 ##>
+  - 【幫襯】 (bong1 can3) <## TODO move under 幫 bong1 ##>
     ++
     1. To patronise (be a customer of a business).
     ++
-  - 【襯】 (can3):
+  - 【襯】 (can3)
     ++
     1. To match, to suit.
        ==
@@ -758,7 +758,7 @@ E
        - 撞色唔襯 (zong6 sik1 m4 can3): "[The] colours clash [and] don't suit."
        ==
     ++
-  - 【老襯】 (lou5 can3):
+  - 【老襯】 (lou5 can3)
     ++
     1. A gullible person.
        ==
@@ -959,7 +959,7 @@ C
   ==
 E
   ====
-  - 【沙塵】 (saa1 can4):
+  - 【沙塵】 (saa1 can4)
     ++
     1. Arrogant or cocky.
        ==

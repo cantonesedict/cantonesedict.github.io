@@ -243,7 +243,7 @@ W
   ====
 E
   ====
-  - 【得敕】 (dak1 cik1): <## TODO: move under 得 dak1 ##>
+  - 【得敕】 (dak1 cik1) <## TODO move under 得 dak1 ##>
     ++
     1. Smug.
     ++

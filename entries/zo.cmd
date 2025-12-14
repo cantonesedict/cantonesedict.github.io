@@ -128,7 +128,7 @@ C
   ==
 E
   ====
-  - 【咗】 (zo2):
+  - 【咗】 (zo2)
     ++
     1. Marker of the perfective aspect (whole completion of an action).
        ==
@@ -660,7 +660,7 @@ C
   ==
 E
   ====
-  - 【坐】 (co5):
+  - 【坐】 (co5)
     ++
     1. (_Chinese chess_) Used to describe moves of the general.
        ==
@@ -675,11 +675,11 @@ E
        - 坐咗佢 (co5 zo2 keoi5): "Sit [over] it" (i.e. capture with the general).
        ==
     ++
-  - 【坐低】 (co5 dai1):
+  - 【坐低】 (co5 dai1)
     ++
     1. To sit down.
     ++
-  - 【坐穩機】 (co5 wan2 gei1):
+  - 【坐穩機】 (co5 wan2 gei1)
     ++
     1. A farewell wish for a safe flight.
     ++

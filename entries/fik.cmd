@@ -130,7 +130,7 @@ W
   ====
 E
   ====
-  - 【掝】 (fik6, fak6):
+  - 【掝】 (fik6, fak6)
     ++
     1. To swing, to flap, especially quickly.
        ==

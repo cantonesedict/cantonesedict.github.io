@@ -101,7 +101,7 @@ P
   ++
 E
   ====
-  - 【差】 (caai1):
+  - 【差】 (caai1)
     ++
     1. An officer.
        ==
@@ -141,7 +141,7 @@ P
   ++
 E
   ====
-  - 【搋波】 (caai1 bo1):
+  - 【搋波】 (caai1 bo1)
     ++
     1. (_ball games_) To pass the ball back and forth.
     ++

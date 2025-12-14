@@ -88,7 +88,7 @@ W
   ====
 E
   ====
-  - 【卒之】 (zeot1 zi1):
+  - 【卒之】 (zeot1 zi1)
     ++
     1. Finally, eventually.
     ++
@@ -185,7 +185,7 @@ P
   ++
 E
   ====
-  - 【捽】 (zeot1):
+  - 【捽】 (zeot1)
     ++
     1. To rub.
        ==

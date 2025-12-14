@@ -313,15 +313,15 @@ P
   ++
 E
   ====
-  - 【弊家伙】 (bai6 gaa1 fo2): <## TODO: perhaps move under $弊bai6 ##>
+  - 【弊家伙】 (bai6 gaa1 fo2) <## TODO perhaps move under $弊bai6 ##>
     ++
     1. An interjectory expression used in response to something going wrong.
     ++
-  - 【伙記】 (fo2 gei3):
+  - 【伙記】 (fo2 gei3)
     ++
     1. An employee who serves customers, especially a waiter.
     ++
-  - 【家伙】 (gaa1 fo2, gaa1 fo2-1):
+  - 【家伙】 (gaa1 fo2, gaa1 fo2-1)
     ++
     1. A mild intensifier for interrogatives.
        ==
@@ -497,7 +497,7 @@ P
   ++
 E
   ====
-  - 【火】 (fo2):
+  - 【火】 (fo2)
     ++
     1. A watt (of power).
        ==

@@ -258,7 +258,7 @@ C
   ==
 E
   ====
-  - 【矺】 (zaak3, zaak6):
+  - 【矺】 (zaak3, zaak6)
     ++
     1. To weigh down with a heavy object.
        ==

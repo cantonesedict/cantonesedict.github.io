@@ -226,14 +226,14 @@ W
   ====
 E
   ====
-  - 【剷】 (caan2):
+  - 【剷】 (caan2)
     ++
     1. To delete, especially permanently.
        ==
        - 剷咗佢 (caan2 zo2 keoi5): "Delete it."
        ==
     ++
-  - 【冚家剷】 (ham6 gaa1 caan2):
+  - 【冚家剷】 (ham6 gaa1 caan2)
     ++
     1. A curse that someone's entire family be annihilated.
     ++
@@ -361,7 +361,7 @@ W
   ====
 E
   ====
-  - 【煙鏟】 (jin1 caan2): <## TODO: move under 煙 jin1 ##>
+  - 【煙鏟】 (jin1 caan2) <## TODO move under 煙 jin1 ##>
     ++
     1. A heavy smoker.
        ==
@@ -419,7 +419,7 @@ C
   ==
 E
   ====
-  - 【阿燦】 (aa3 caan3):
+  - 【阿燦】 (aa3 caan3)
     ++
     1. (_derogatory_) An immigrant into Hong Kong from Mainland China.
     ++

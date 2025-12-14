@@ -225,15 +225,15 @@ C
   ==
 E
   ====
-  - 【擦膠】 (caat3 gaau1):
+  - 【擦膠】 (caat3 gaau1)
     ++
     1. A rubber or eraser.
     ++
-  - 【擦鞋】 (caat3 haai4):
+  - 【擦鞋】 (caat3 haai4)
     ++
     1. To bootlick, to brownnose. (Literally, "polish shoes".)
     ++
-  - 【擦紙膠】 (caat3 zi2 gaau1):
+  - 【擦紙膠】 (caat3 zi2 gaau1)
     ++
     1. Synonym of [擦膠](#cantonese-擦膠).
     ++

@@ -481,7 +481,7 @@ C
   ==
 E
   ====
-  - 【着-wear】 (zoek3):
+  - 【着-wear】 (zoek3)
     ++
     1. To wear, to put on.
        ==
@@ -715,7 +715,7 @@ C
   ==
 E
   ====
-  - 【麻雀】 (maa4 zoek3, maa4 zoek3-2):
+  - 【麻雀】 (maa4 zoek3, maa4 zoek3-2)
     ++
     1. Mahjong.
        ==
@@ -727,7 +727,7 @@ E
        - 跌咗隻麻雀 (dit3 zo2 zek3 maa4 zoek3-2): "Dropped [a] mahjong-tile."
        ==
     ++
-  - 【雀局】 (zoek3 guk6):
+  - 【雀局】 (zoek3 guk6)
     ++
     1. Mahjong games (bundled with dinner at a restaurant).
        Erroneously spelt 鵲局.
@@ -987,7 +987,7 @@ P
   ++
 E
   ====
-  - 【着-on】 (zoek6):
+  - 【着-on】 (zoek6)
     ++
     1. To turn on.
        ==

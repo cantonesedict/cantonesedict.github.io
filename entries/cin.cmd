@@ -120,7 +120,7 @@ W
   ====
 E
   ====
-  - 【老千】 (lou5 cin1):
+  - 【老千】 (lou5 cin1)
     ++
     1. A swindler, conman, or cheat.
        ==
@@ -312,7 +312,7 @@ C
   ==
 E
   ====
-  - 【韆鞦】 (cin1 cau1):
+  - 【韆鞦】 (cin1 cau1)
     ++
     1. A hanging-seat swing.
     ++
@@ -556,14 +556,14 @@ E
   Cantonese (in the vernacular register) makes a distinction between 以前 and 之前.
   --
   ====
-  - 【以前】 (ji5 cin4):
+  - 【以前】 (ji5 cin4)
     ++
     1. In the relatively distant past.
        ==
        - 以前去過 (ji5 cin4 heoi3 gwo3): "[I've] been [there] in [the] past."
        ==
     ++
-  - 【之前】 (zi1 cin4):
+  - 【之前】 (zi1 cin4)
     ++
     1. In the relatively near past.
        ==
@@ -794,7 +794,7 @@ P
   ++
 E
   ====
-  - 【錢銀】 (cin4-2 ngan4-2):
+  - 【錢銀】 (cin4-2 ngan4-2)
     ++
     1. Money.
        ==

@@ -342,7 +342,7 @@ C
   ==
 E
   ====
-  - 【草花頭】 (cou2 faa1 tau4-2):
+  - 【草花頭】 (cou2 faa1 tau4-2)
     ++
     1. The character component 艹. (Literally, "grass flower atop".)
     ++
@@ -845,7 +845,7 @@ W
   ====
 E
   ====
-  - 【呷醋】 (haap3 cou3):
+  - 【呷醋】 (haap3 cou3)
     ++
     1. To be jealous of a romantic rival.
     ++
@@ -1270,7 +1270,7 @@ P
   ++
 E
   ====
-  - 【造】 (cou5):
+  - 【造】 (cou5)
     ++
     1. To collect, to gather, to accumulate.
        ==

@@ -251,7 +251,7 @@ W
   [[Not present]]
 E
   ====
-  - 【䁪】 (zaam2):
+  - 【䁪】 (zaam2)
     ++
     1. To blink.
        ==

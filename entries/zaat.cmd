@@ -83,15 +83,15 @@ P
   ++
 E
   ====
-  - 【扎馬】 (zaat3 maa5):
+  - 【扎馬】 (zaat3 maa5)
     ++
     1. To do the horse stance.
     ++
-  - 【扎醒】 (zaat3 seng2):
+  - 【扎醒】 (zaat3 seng2)
     ++
     1. To wake with a start.
     ++
-  - 【扎扎跳】 (zaat3 zaat3 tiu3):
+  - 【扎扎跳】 (zaat3 zaat3 tiu3)
     ++
     1. To jump up and down rapidly.
     ++
@@ -324,7 +324,7 @@ C
   ==
 E
   ====
-  - 【曱甴】 (gaat6 zaat6, gaat6 zaat6-2):
+  - 【曱甴】 (gaat6 zaat6, gaat6 zaat6-2)
     ++
     1. A cockroach.
     ++

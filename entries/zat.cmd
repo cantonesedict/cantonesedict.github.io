@@ -107,7 +107,7 @@ W
   ====
 E
   ====
-  - 【枳】 (zat1):
+  - 【枳】 (zat1)
     ++
     1. A cork or plug.
     1. To block or stop using a cork or plug.
@@ -164,7 +164,7 @@ W
   ====
 E
   ====
-  - 【質】 (zat1):
+  - 【質】 (zat1)
     ++
     1. To stuff or pack tightly.
        ==
@@ -373,11 +373,11 @@ W
   ====
 E
   ==
-  - 【姪婦】 (zat6 pou5):
+  - 【姪婦】 (zat6 pou5)
     ++
     1. A brother's son's wife.
     ++
-  - 【姪仔】 (zat6 zai2):
+  - 【姪仔】 (zat6 zai2)
     ++
     1. A brother's son.
     ++
@@ -578,7 +578,7 @@ W
   ====
 E
   ====
-  - 【窒】 (zat6):
+  - 【窒】 (zat6)
     ++
     1. To interrupt, especially by making an adversarial counterpoint or challenge.
        ==
