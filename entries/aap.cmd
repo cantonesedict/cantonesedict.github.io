@@ -113,6 +113,13 @@ W
         to hatch ducks artificially.
     ==
   ====
+L
+  ====
+  * 【鴨】 (`'aep`)
+    ==
+    - (_noun-like_) duck
+    ==
+  ====
 E
   ====
   - 【鴨】 (aap3-2)

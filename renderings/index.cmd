@@ -95,6 +95,9 @@ window.onload = applyFilter;
     , `'aenH`
     , [鷃](/entries/aan#rendering-鷃)
   //
+    , `'aep`
+    , [鴨](/entries/aap#rendering-鴨)
+  //
     , `'eaH`
     , [隘](/entries/aai#rendering-隘)
   //
