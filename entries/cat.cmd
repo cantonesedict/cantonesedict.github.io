@@ -124,7 +124,6 @@ L
   * 【七】 (`tshit`)
     ==
     - (_noun-like_) seven
-    - (_adjective-like_) seventh
     - (_verb-like_) [to] septuple
     ==
   ====
