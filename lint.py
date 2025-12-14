@@ -2765,7 +2765,7 @@ class LiteraryRendering:
 
     def url(self) -> str:
         url_path = f'entries/{self.page_heading_jyutping}'
-        url_fragment = f'literary-{CmdIdioms.strip_compositions(self.term)}{self.disambiguation_suffix}'
+        url_fragment = f'rendering-{CmdIdioms.strip_compositions(self.term)}{self.disambiguation_suffix}'
         return f'/{url_path}#{url_fragment}'
 
     def split(self) -> list['LiteraryRendering']:

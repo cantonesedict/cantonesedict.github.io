@@ -77,16 +77,16 @@ window.onload = applyFilter;
 |:
   //
     , 'ae
-    , [鴉](/entries/aa#literary-鴉)
+    , [鴉](/entries/aa#rendering-鴉)
   //
     , 'aeX
-    , [啞](/entries/aa#literary-啞)
+    , [啞](/entries/aa#rendering-啞)
   //
     , 'aeH
-    , [亞](/entries/aa#literary-亞)
+    , [亞](/entries/aa#rendering-亞)
   //
     , tshit
-    , [七](/entries/cat#literary-七)
+    , [七](/entries/cat#rendering-七)
 ''
 ||||
 <## /renderings-table ##>

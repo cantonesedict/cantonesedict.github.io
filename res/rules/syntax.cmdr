@@ -206,8 +206,8 @@ RegexDictionaryReplacement: #.syntax.literary-renderings
 * [*] [ ] 【 (?P<term> [^\s-]+ ) (?P<disambiguation> [\S]* ) 】
       [ ] \( (?P<readings> .*? ) \)
      -->
-  *{#literary-(|\g<term>|)\g<disambiguation>}
-    []{.permalink aria-label=Permalink}(#literary-(|\g<term>|)\g<disambiguation>)【\g<term>】 (\g<readings>)
+  *{#rendering-(|\g<term>|)\g<disambiguation>}
+    []{.permalink aria-label=Permalink}(#rendering-(|\g<term>|)\g<disambiguation>)【\g<term>】 (\g<readings>)
 - concluding_replacements:
     #.syntax.baxter
     #.syntax.strip-compositions
