@@ -2112,7 +2112,7 @@ class CharacterEntry:
         CharacterEntry.lint_fan_wan_same_romanisation(williams_run, f_content, heading_content)
 
         CharacterEntry.lint_reading_variation_order(reading_variations)
-        # TODO: CharacterEntry.lint_literary_rendering_order(literary_renderings)
+        CharacterEntry.lint_literary_rendering_order(literary_renderings)
         CharacterEntry.lint_cantonese_entry_order(cantonese_entries)
         CmdIdioms.lint_see_also_link_order(see_also_links)
 
@@ -2408,6 +2408,24 @@ class CharacterEntry:
 
         if jyutping_list != sorted(jyutping_list):
             raise LintException(f'reading variations {jyutping_list} not in sorted order')
+
+    @staticmethod
+    def lint_literary_rendering_order(literary_renderings: Optional[list['LiteraryRendering']]):
+        if literary_renderings is None:
+            return
+
+        terms_readable = [
+            f'{CmdIdioms.strip_compositions(literary_rendering.term)} {literary_rendering.baxter_list[0]}'
+            for literary_rendering in literary_renderings
+        ]
+        sorted_terms_readable = [
+            f'{CmdIdioms.strip_compositions(literary_rendering.term)} {literary_rendering.baxter_list[0]}'
+            for literary_rendering in sorted(literary_renderings)
+        ]
+        if terms_readable != sorted_terms_readable:
+            raise LintException(
+                f'literary renderings {terms_readable} not in sorted order (expected {sorted_terms_readable})'
+            )
 
     @staticmethod
     def lint_cantonese_entry_order(cantonese_entries: Optional[list['CantoneseEntry']]):
@@ -2728,6 +2746,22 @@ class LiteraryRendering:
         self.baxter_list = baxter_list
         self.character = character
         self.page_heading_jyutping = page_heading_jyutping
+
+    def __lt__(self, other):
+        return self.sorting_rank() < other.sorting_rank()
+
+    def sortable_baxter_list(self) -> list[str]:
+        return [
+            baxter.translate(str.maketrans('XH', '23'))
+            for baxter in self.baxter_list
+        ]
+
+    def sorting_rank(self) -> tuple[list[str], list[str], str]:
+        return (
+            self.sortable_baxter_list(),
+            self.sortable_baxter_list()[0].split(),
+            CmdIdioms.strip_compositions(self.term),
+        )
 
     def url(self) -> str:
         url_path = f'entries/{self.page_heading_jyutping}'
