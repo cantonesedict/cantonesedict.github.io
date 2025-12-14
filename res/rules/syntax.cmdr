@@ -194,15 +194,17 @@ FixedDelimitersReplacement: #.syntax.baxter
 RegexDictionaryReplacement: #.syntax.cantonese-entries
 - queue_position: BEFORE #.syntax.entries
 * [-] [ ] 【 (?P<term> [^\s-]+ ) (?P<disambiguation> [\S]* ) 】
+      [ ] \( (?P<readings> .*? ) \) :
     -->
   -{#cantonese-(|\g<term>|)\g<disambiguation>}
-    []{.permalink aria-label=Permalink}(#cantonese-(|\g<term>|)\g<disambiguation>)【\g<term>】
+    []{.permalink aria-label=Permalink}(#cantonese-(|\g<term>|)\g<disambiguation>)【\g<term>】 (\g<readings>):
 - concluding_replacements: #.syntax.strip-compositions
 
 
 RegexDictionaryReplacement: #.syntax.literary-renderings
 - queue_position: BEFORE #.syntax.entries
-* [*] [ ] 【 (?P<term> [^\s-]+ ) (?P<disambiguation> [\S]* ) 】 [ ] \( (?P<readings> .*? ) \)
+* [*] [ ] 【 (?P<term> [^\s-]+ ) (?P<disambiguation> [\S]* ) 】
+      [ ] \( (?P<readings> .*? ) \)
      -->
   *{#literary-(|\g<term>|)\g<disambiguation>}
     []{.permalink aria-label=Permalink}(#literary-(|\g<term>|)\g<disambiguation>)【\g<term>】 (\g<readings>)
