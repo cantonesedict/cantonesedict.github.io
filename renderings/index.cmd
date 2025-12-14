@@ -96,7 +96,22 @@ window.onload = applyFilter;
     , [鷃](/entries/aan#rendering-鷃)
   //
     , `'aep`
+    , [壓](/entries/aat#rendering-壓)
+  //
+    , `'aep`
+    , [押](/entries/aat#rendering-押)
+  //
+    , `'aep`
     , [鴨](/entries/aap#rendering-鴨)
+  //
+    , `'at`
+    , [遏](/entries/aat#rendering-遏)
+  //
+    , `'at`
+    , [閼](/entries/aat#rendering-閼)
+  //
+    , `'at`
+    , [頞](/entries/aat#rendering-頞)
   //
     , `'eaH`
     , [隘](/entries/aai#rendering-隘)
@@ -107,8 +122,14 @@ window.onload = applyFilter;
     , `'eang`
     , [罌](/entries/aang#rendering-罌)
   //
+    , `'eat`
+    , [揠](/entries/aat#rendering-揠)
+  //
     , `homX domX`
     , [菡萏](/entries/aam#rendering-菡萏)
+  //
+    , `keat`
+    , [恝](/entries/aat#rendering-恝)
   //
     , `tshit`
     , [七](/entries/cat#rendering-七)

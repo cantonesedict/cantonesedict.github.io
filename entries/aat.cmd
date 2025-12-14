@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aat
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -68,6 +68,7 @@ U
   U+58D3
 V
   ==
+  - aap3 (per 《廣韻》烏甲切)
   - ngaat3 (hypercorrected initial)
   ==
 F
@@ -109,6 +110,13 @@ W
         to press solid.
     ==
   ====
+L
+  ====
+  * 【壓】 ('aep)
+    ==
+    - (_verb-like_) [to] press down, [to] suppress
+    ==
+  ====
 $$
 
 ### 恝3 | _(A/)t(8)_ [[aat3]]
@@ -133,10 +141,17 @@ W
     ==
     - To dismiss care;
     - contented, lighthearted;
-    - happy looking [[Kangxi: 無愁貌]];
+    - ~~happy looking~~ ``without sorrow`` [[Kangxi: 無愁貌]];
     - _(a/)t(8) (4)(i/)n_
         [[aat3 jin4 恝然]],
-        pleased.
+        ~~pleased~~ ``indifferent``.
+    ==
+  ====
+L
+  ====
+  * 【恝】 (keat)
+    ==
+    - (_adjective-like_) indifferent, sorrowless
     ==
   ====
 S
@@ -293,6 +308,13 @@ C
     its modern reading as aat3 is uncontroversial.
   - Williams' 押韻: Changed _wan(6)_ (wan6) to common reading _(5)wan_ (wan5).
   ==
+L
+  ====
+  * 【押】 ('aep)
+    ==
+    - (_verb-like_) [to] stamp, [to] seal
+    ==
+  ====
 S
   ==
   - ($押aap3)
@@ -323,6 +345,13 @@ W
     - _(a/)t(8) (4)mi(u/)_
         [[aat3 miu4 揠苗]],
         to pull up a shoot in order to hasten its growth.
+    ==
+  ====
+L
+  ====
+  * 【揠】 ('eat)
+    ==
+    - (_verb-like_) [to] pull up
     ==
   ====
 $$
@@ -385,6 +414,13 @@ W
         hard to curb one's lusts.
     ==
   ====
+L
+  ====
+  * 【遏】 ('at)
+    ==
+    - (_verb-like_) [to] curb, [to] arrest
+    ==
+  ====
 $$
 
 ### 閼3 | _(A/)t(8)_ [[aat3]]
@@ -413,6 +449,13 @@ W
     - _(a/)t(8) sak(7)_
         [[aat3 sak1 閼塞]]
         to stop up, as water.
+    ==
+  ====
+L
+  ====
+  * 【閼】 ('at)
+    ==
+    - (_verb-like_) [to] block
     ==
   ====
 $$
@@ -444,6 +487,13 @@ W
         to knit the brows;
     - _(1)yau (a/)t(8)_
         [[jau1 aat3 幽頞]] a lemur.
+    ==
+  ====
+L
+  ====
+  * 【頞】 ('at)
+    ==
+    - (_noun-like_) nosebridge
     ==
   ====
 $$
