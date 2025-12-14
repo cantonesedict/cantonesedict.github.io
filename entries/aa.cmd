@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -328,7 +328,7 @@ C
   ==
 L
   ====
-  * 鴉 (`'ae`)
+  * 【鴉】 (`'ae`)
     ==
     - (_noun-like_) crow, raven
     ==
@@ -412,7 +412,7 @@ C
   ==
 L
   ====
-  * 啞 (`'aeX`)
+  * 【啞】 (`'aeX`)
     ==
     - (_adjective-like_) dumb
     ==
@@ -508,7 +508,7 @@ C
   ==
 L
   ====
-  * 亞 (`'aeH`)
+  * 【亞】 (`'aeH`)
     ==
     - (_adjective-like_) second
     ==

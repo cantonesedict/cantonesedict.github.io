@@ -178,20 +178,20 @@ input {
 }
 
 
-li[id^='cantonese-'] {
+li:is([id^='cantonese-'], [id^='literary-']) {
   list-style-type: none;
   margin-left: -1em;
 }
-li[id^='cantonese-'] p {
+li:is([id^='cantonese-'], [id^='literary-']) p {
   margin: 0.5em 0;
 }
-li[id^='cantonese-']:not(:last-child) {
+li:is([id^='cantonese-'], [id^='literary-']):not(:last-child) {
   margin-bottom: 0.5em;
 }
-li[id^='cantonese-'] > ol {
+li[id^='cantonese-'] > ol, li[id^='literary-'] > ul {
   padding-left: 3em;
 }
-li[id^='cantonese-'] > ol > li {
+:is(li[id^='cantonese-'] > ol, li[id^='literary-'] > ul) > li {
   margin-top: 0.2em;
 }
 

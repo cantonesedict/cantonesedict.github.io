@@ -202,10 +202,13 @@ RegexDictionaryReplacement: #.syntax.cantonese-entries
 
 RegexDictionaryReplacement: #.syntax.literary-renderings
 - queue_position: BEFORE #.syntax.entries
-* [*] [ ] (?P<term> [^\s-]+ ) (?P<disambiguation> [\S]* ) [ ] \( (?P<readings> .*? ) \)
+* [*] [ ] 【 (?P<term> [^\s-]+ ) (?P<disambiguation> [\S]* ) 】 [ ] \( (?P<readings> .*? ) \)
      -->
-  \g<0>
-- concluding_replacements: #.syntax.baxter
+  *{#literary-(|\g<term>|)\g<disambiguation>}
+    []{.permalink aria-label=Permalink}(#literary-(|\g<term>|)\g<disambiguation>)【\g<term>】 (\g<readings>)
+- concluding_replacements:
+    #.syntax.baxter
+    #.syntax.strip-compositions
 
 
 RegexDictionaryReplacement: #.syntax.entry-links
