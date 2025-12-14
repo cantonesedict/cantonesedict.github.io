@@ -2729,6 +2729,11 @@ class LiteraryRendering:
         self.character = character
         self.page_heading_jyutping = page_heading_jyutping
 
+    def url(self) -> str:
+        url_path = f'entries/{self.page_heading_jyutping}'
+        url_fragment = f'literary-{CmdIdioms.strip_compositions(self.term)}{self.disambiguation_suffix}'
+        return f'/{url_path}#{url_fragment}'
+
 
 class CantoneseEntry:
     term: str
@@ -2795,6 +2800,13 @@ class Linter:
             for entry_page in entry_pages
             for character_entry in entry_page.character_entries
         ]
+        literary_renderings = [
+            literary_rendering
+            for entry_page in entry_pages
+            for character_entry in entry_page.character_entries
+            if (literary_renderings := character_entry.literary_renderings) is not None
+            for literary_rendering in literary_renderings
+        ]
         cantonese_entries = [
             cantonese_entry
             for entry_page in entry_pages
@@ -2812,6 +2824,7 @@ class Linter:
             Linter.lint_character_entry_reading_variation_redirect_reciprocation(character_entries)
             Linter.lint_character_entry_literary_rendering_reciprocation(character_entries)
             Linter.lint_character_entry_see_also_reciprocation(character_entries)
+            Linter.lint_literary_rendering_url_duplication(literary_renderings)
             Linter.lint_cantonese_entry_url_duplication(cantonese_entries)
         except LintException as lint_exception:
             print(f'Error: {lint_exception.message}', file=sys.stderr)
@@ -3332,6 +3345,17 @@ class Linter:
                     or universal_link not in [other_link.link_content() for other_link in other_see_also_links]
                 ):
                     raise LintException(f'missing see also link `{universal_link}` under `{other_character_entry}`')
+
+    @staticmethod
+    def lint_literary_rendering_url_duplication(literary_renderings: list['LiteraryRendering']):
+        collated_literary_renderings_from_url = Utilities.collate_firsts_by_second(
+            (literary_rendering, literary_rendering.url())
+            for literary_rendering in literary_renderings
+        )
+
+        for url, collated_literary_renderings in collated_literary_renderings_from_url.items():
+            if len(collated_literary_renderings) > 1:
+                raise LintException(f'duplicated literary rendering URL `{url}`')
 
     @staticmethod
     def lint_cantonese_entry_url_duplication(cantonese_entries: list['CantoneseEntry']):
