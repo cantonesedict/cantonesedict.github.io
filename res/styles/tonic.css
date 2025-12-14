@@ -287,7 +287,7 @@ th, td {
 .modern mark {
   color: var(--modern-colour-mark);
 }
-.modern th, .modern td {
+.modern :is(th, td) {
   border-color: var(--modern-colour);
 }
 
