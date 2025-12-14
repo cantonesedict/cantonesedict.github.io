@@ -192,4 +192,11 @@ C
   ==
   - Fan Wan entry: Corrected ⿰斤鳥 to 鳸.
   ==
+L
+  ====
+  * 【鷃】 (`'aenH`)
+    ==
+    - (_noun-like_) quail
+    ==
+  ====
 $$
