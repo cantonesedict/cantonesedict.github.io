@@ -89,6 +89,9 @@ window.onload = applyFilter;
     , `'aeH`
     , [亞](/entries/aa#rendering-亞)
   //
+    , `'aenH`
+    , [晏](/entries/aan#rendering-晏)
+  //
     , `'eaH`
     , [隘](/entries/aai#rendering-隘)
   //

@@ -113,6 +113,15 @@ P
   ++
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【晏】 (`'aenH`)
+    ==
+    - (_adjective-like_) clear, cloudless
+    - (_adjective-like_) serene
+    - (_adjective-like_) late
+    ==
+  ====
 E
   ====
   - 【晏】 (aan3)
