@@ -146,6 +146,13 @@ W
         a water pitcher.
     ==
   ====
+L
+  ====
+  * 【罌】 (`'eang`)
+    ==
+    - (_noun-like_) jar
+    ==
+  ====
 E
   ====
   - 【罌】 (aang1)
