@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faak
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -101,7 +101,7 @@ C
   ==
 E
   ====
-  - 【{𢫦=⿰扌百}】 (faak3):
+  - 【{𢫦=⿰扌百}】 (faak3)
     ++
     1. To whip, to swing abruptly, to flap violently.
        ==

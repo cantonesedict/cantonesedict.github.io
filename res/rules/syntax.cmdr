@@ -93,6 +93,8 @@ RegexDictionaryReplacement: #.syntax.entry-key-abbreviations
                 ,{.modern}
 * ^P$ --> ; Conway's supplementary entry
                 ,{.modern}
+* ^L$ --> ; Conway's literary rendering
+                ,{.modern}
 * ^E$ --> ; Conway's Cantonese entry
                 ,{.modern}
 * ^S$ --> ; See also
@@ -174,13 +176,46 @@ RegexDictionaryReplacement: #.syntax.strip-compositions
 - concluding_replacements: #.syntax.composition-characters
 
 
+OrdinaryDictionaryReplacement: #.syntax.partition-baxter-readings
+* , --> `, `
+
+
+OrdinaryDictionaryReplacement: #.syntax.baxter-tones
+* X --> <sup>X</sup>
+* H --> <sup>H</sup>
+
+
+FixedDelimitersReplacement: #.syntax.baxter
+- syntax_type: INLINE
+- opening_delimiter: `
+- attribute_specifications: .baxter
+- prohibited_content: BLOCKS
+- closing_delimiter: `
+- tag_name: span
+- concluding_replacements: #.syntax.baxter-tones
+
+
 RegexDictionaryReplacement: #.syntax.cantonese-entries
 - queue_position: BEFORE #.syntax.entries
 * [-] [ ] 【 (?P<term> [^\s-]+ ) (?P<disambiguation> [\S]* ) 】
+      [ ] \( (?P<readings> .*? ) \)
     -->
   -{#cantonese-(|\g<term>|)\g<disambiguation>}
-    []{.permalink aria-label=Permalink}(#cantonese-(|\g<term>|)\g<disambiguation>)【\g<term>】
+    []{.permalink aria-label=Permalink}(#cantonese-(|\g<term>|)\g<disambiguation>)【\g<term>】 (\g<readings>)
 - concluding_replacements: #.syntax.strip-compositions
+
+
+RegexDictionaryReplacement: #.syntax.literary-renderings
+- queue_position: BEFORE #.syntax.entries
+* [*] [ ] 【 (?P<term> [^\s-]+ ) (?P<disambiguation> [\S]* ) 】
+      [ ] \( (?P<readings> .*? ) \)
+     -->
+  *{#rendering-(|\g<term>|)\g<disambiguation>}
+    []{.permalink aria-label=Permalink}(#rendering-(|\g<term>|)\g<disambiguation>)【\g<term>】 (`\g<readings>`)
+- concluding_replacements:
+    #.syntax.partition-baxter-readings
+    #.syntax.baxter
+    #.syntax.strip-compositions
 
 
 RegexDictionaryReplacement: #.syntax.entry-links

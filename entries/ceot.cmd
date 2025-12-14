@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceot
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -149,7 +149,7 @@ P
   ++
 E
   ====
-  - 【出】 (ceot1):
+  - 【出】 (ceot1)
     ++
     1. To go out to a place.
        ==

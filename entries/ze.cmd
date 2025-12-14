@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ze
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -71,7 +71,7 @@ W
   [[Not present]]
 E
   ====
-  - 【啫】 (ze1):
+  - 【啫】 (ze1)
     ++
     1. A final particle of limitation, especially used defensively.
        ==
@@ -86,7 +86,7 @@ E
        ==
     ##>
     ++
-  - 【啫喱】 (ze1 lei2):
+  - 【啫喱】 (ze1 lei2)
     ++
     1. Jelly.
     ++
@@ -232,7 +232,7 @@ W
   ====
 E
   ====
-  - 【遮】 (ze1):
+  - 【遮】 (ze1)
     ++
     1. An umbrella.
        ==
@@ -312,16 +312,16 @@ C
   ==
 E
   ====
-  - 【阿姐】 (aa3 ze2-1):
+  - 【阿姐】 (aa3 ze2-1)
     ++
     1. Generic address for an adult woman when the speaker is not a child.
        (Can be respectful, neutral, or impolite depending on the context.)
     ++
-  - 【家姐】 (gaa1 ze2-1):
+  - 【家姐】 (gaa1 ze2-1)
     ++
     1. Older sister (or older female paternal cousin).
     ++
-  - 【細姐】 (sai3 ze2):
+  - 【細姐】 (sai3 ze2)
     ++
     1. Father's concubine (presumed to be younger than his wife).
     ++

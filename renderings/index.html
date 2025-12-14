@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en" translate="no">
+<head>
+<meta charset="utf-8">
+<meta name="author" content="Conway">
+<meta name="description" content="Conway's Cantonese Dictionary, an annotated edition of Williams' 1856 Tonic Dictionary: searchable index of links to literary renderings by Baxter notation">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="/res/styles/tonic.css">
+<title>Index of literary renderings by Baxter notation | Conway's Cantonese Dictionary</title>
+</head>
+<body>
+<header>
+<nav class="sideways">
+<ul>
+<li>
+<a href="/">Home</a>
+</li>
+<li>
+<a href="#">Top</a>
+</li>
+<li>
+<a href="/entries/">Entries</a>
+</li>
+<li>
+<a href="/terms/">Terms</a>
+</li>
+<li>
+<a href="/search/">Search</a>
+</li>
+<li>
+<a href="/radicals/">Radicals</a>
+</li>
+</ul>
+</nav>
+</header>
+<h1 class="modern">Index of literary renderings by Baxter notation</h1>
+<div class="modern input-container">
+<p>
+<label for="filter"><b>Filter for Baxter/Term:</b></label>
+<input type="text" id="filter" oninput="applyFilter()" placeholder="(tones are ignored)" lang="zh-Hant">
+</p>
+<noscript>
+<p>
+<strong>JavaScript is required for filter to work.</strong>
+</p>
+</noscript>
+</div>
+<script>
+function normaliseString(str)
+{
+  return str.toLowerCase().trim().replace(/\s+/g, ' ');
+}
+
+function matchBaxter(filterString, baxter)
+{
+  let tonelessBaxter = baxter.replace(/[XH]\b/gi, '');
+  let tonelessFilterString = filterString.replace(/[XH]\b/gi, '');
+  return tonelessBaxter.indexOf(tonelessFilterString) > -1;
+}
+
+function matchTerm(filterString, term)
+{
+  return term.indexOf(filterString) > -1;
+}
+
+function applyFilter()
+{
+  let filterElement = document.getElementById('filter');
+  let filterString = normaliseString(filterElement.value);
+
+  for (const rowElement of document.querySelectorAll('tbody tr'))
+  {
+    let cells = rowElement.getElementsByTagName('td');
+    let baxter = normaliseString(cells[0].textContent);
+    let term = normaliseString(cells[1].textContent);
+
+    let isBaxterMatch = matchBaxter(filterString, baxter);
+    let isTermMatch = matchTerm(filterString, term);
+    rowElement.style.display = (isBaxterMatch || isTermMatch) ? '' : 'none';
+  }
+}
+
+window.onload = applyFilter;
+</script>
+<div class="wide">
+<table class="modern">
+<thead>
+<tr>
+<th>Baxter notation</th>
+<th>Entry link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="baxter">'ae</span></td>
+<td><a href="/entries/aa#rendering-鴉"><span lang="zh-Hant">鴉</span></a></td>
+</tr>
+<tr>
+<td><span class="baxter">'ae<sup>X</sup></span></td>
+<td><a href="/entries/aa#rendering-啞"><span lang="zh-Hant">啞</span></a></td>
+</tr>
+<tr>
+<td><span class="baxter">'ae<sup>H</sup></span></td>
+<td><a href="/entries/aa#rendering-亞"><span lang="zh-Hant">亞</span></a></td>
+</tr>
+<tr>
+<td><span class="baxter">'aen<sup>H</sup></span></td>
+<td><a href="/entries/aan#rendering-晏"><span lang="zh-Hant">晏</span></a></td>
+</tr>
+<tr>
+<td><span class="baxter">'aen<sup>H</sup></span></td>
+<td><a href="/entries/aan#rendering-鷃"><span lang="zh-Hant">鷃</span></a></td>
+</tr>
+<tr>
+<td><span class="baxter">'aep</span></td>
+<td><a href="/entries/aat#rendering-壓"><span lang="zh-Hant">壓</span></a></td>
+</tr>
+<tr>
+<td><span class="baxter">'aep</span></td>
+<td><a href="/entries/aat#rendering-押"><span lang="zh-Hant">押</span></a></td>
+</tr>
+<tr>
+<td><span class="baxter">'aep</span></td>
+<td><a href="/entries/aap#rendering-鴨"><span lang="zh-Hant">鴨</span></a></td>
+</tr>
+<tr>
+<td><span class="baxter">'at</span></td>
+<td><a href="/entries/aat#rendering-遏"><span lang="zh-Hant">遏</span></a></td>
+</tr>
+<tr>
+<td><span class="baxter">'at</span></td>
+<td><a href="/entries/aat#rendering-閼"><span lang="zh-Hant">閼</span></a></td>
+</tr>
+<tr>
+<td><span class="baxter">'at</span></td>
+<td><a href="/entries/aat#rendering-頞"><span lang="zh-Hant">頞</span></a></td>
+</tr>
+<tr>
+<td><span class="baxter">'ea<sup>H</sup></span></td>
+<td><a href="/entries/aai#rendering-隘"><span lang="zh-Hant">隘</span></a></td>
+</tr>
+<tr>
+<td><span class="baxter">'eak</span></td>
+<td><a href="/entries/aak#rendering-軛"><span lang="zh-Hant">軛</span></a></td>
+</tr>
+<tr>
+<td><span class="baxter">'eang</span></td>
+<td><a href="/entries/aang#rendering-罌"><span lang="zh-Hant">罌</span></a></td>
+</tr>
+<tr>
+<td><span class="baxter">'eat</span></td>
+<td><a href="/entries/aat#rendering-揠"><span lang="zh-Hant">揠</span></a></td>
+</tr>
+<tr>
+<td><span class="baxter">hom<sup>X</sup> dom<sup>X</sup></span></td>
+<td><a href="/entries/aam#rendering-菡萏"><span lang="zh-Hant">菡萏</span></a></td>
+</tr>
+<tr>
+<td><span class="baxter">keat</span></td>
+<td><a href="/entries/aat#rendering-恝"><span lang="zh-Hant">恝</span></a></td>
+</tr>
+<tr>
+<td><span class="baxter">tshit</span></td>
+<td><a href="/entries/cat#rendering-七"><span lang="zh-Hant">七</span></a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<footer class="modern">
+© 2025 Conway.<br>
+Source: <a href="https://github.com/cantonesedict/cantonesedict.github.io/blob/master/renderings/index.cmd"><code>renderings/index.cmd</code></a>.
+Last modified: <time datetime="2025-12-14">2025-12-14</time>.
+</footer>
+</body>
+</html>

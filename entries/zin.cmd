@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -795,7 +795,7 @@ C
   ====
 E
   ====
-  - 【鉸剪】 (gaau3 zin2):
+  - 【鉸剪】 (gaau3 zin2)
     ++
     1. Scissors. Also spelt 較剪 (per Fan Wan).
        ==
@@ -1488,7 +1488,7 @@ C
   ==
 E
   ====
-  - 【箭嘴】 (zin3 zeoi2):
+  - 【箭嘴】 (zin3 zeoi2)
     ++
     1. An arrow.
        ==
@@ -1635,7 +1635,7 @@ P
   ++
 E
   ====
-  - 【薦-noun】 (zin3, zin3-2):
+  - 【薦-noun】 (zin3, zin3-2)
     ++
     1. A pad, cushion, or mat.
        ==
@@ -1643,7 +1643,7 @@ E
        - 鞋薦 (haai4 zin3-2): "Shoe padding".
        ==
     ++
-  - 【薦-verb】 (zin3):
+  - 【薦-verb】 (zin3)
     ++
     1. To pad or cushion underneath.
        ==
@@ -1835,7 +1835,7 @@ C
   ==
 E
   ====
-  - 【賤格】 (zin6 gaak3):
+  - 【賤格】 (zin6 gaak3)
     ++
     1. Vile, base, despicable.
     ++

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cap
-* %date-modified --> 2025-11-22
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -90,7 +90,7 @@ C
   ==
 E
   ====
-  - 【齊戢戢】 (cai4 cap1 cap1):
+  - 【齊戢戢】 (cai4 cap1 cap1)
     ++
     1. Neat and even (not jagged).
     ++

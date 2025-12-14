@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -110,11 +110,11 @@ C
   ==
 E
   ====
-  - 【㜺】 (zaan2):
+  - 【㜺】 (zaan2)
     ++
     1. Wonderful, pretty.
     ++
-  - 【㜺鬼】 (zaan2 gwai2):
+  - 【㜺鬼】 (zaan2 gwai2)
     ++
     1. Intriguing, pretty, neat.
     ++
@@ -265,7 +265,7 @@ W
   ====
 E
   ====
-  - 【盞】 (zaan2):
+  - 【盞】 (zaan2)
     ++
     1. Classifier for lamps or lights.
        ==
@@ -332,7 +332,7 @@ C
   ==
 E
   ====
-  - 【走趲】 (zau2 zaan2):
+  - 【走趲】 (zau2 zaan2)
     ++
     1. Wiggle room or leeway.
        ==

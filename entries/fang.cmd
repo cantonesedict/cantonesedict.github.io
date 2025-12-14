@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fang
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years -->
 
 %%%
@@ -69,7 +69,7 @@ W
   [[Not present]]
 E
   ====
-  - 【揈】 (fang4, fang6):
+  - 【揈】 (fang4, fang6)
     ++
     1. To hit hard.
        ==
@@ -109,7 +109,7 @@ C
   ==
 E
   ====
-  - 【訇】 (fang4):
+  - 【訇】 (fang4)
     ++
     1. To rebuke, especially sternly.
        ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zit
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -112,7 +112,7 @@ W
   ====
 E
   ====
-  - 【擳】 (zit1):
+  - 【擳】 (zit1)
     ++
     1. To tickle.
        ==
@@ -325,7 +325,7 @@ P
   ++
 E
   ====
-  - 【折】 (zit3):
+  - 【折】 (zit3)
     ++
     1. A discount.
        ==

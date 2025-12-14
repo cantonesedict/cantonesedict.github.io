@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cit
-* %date-modified --> 2025-11-03
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -126,7 +126,7 @@ P
   ++
 E
   ====
-  - 【切】 (cit3):
+  - 【切】 (cit3)
     ++
     1. In time.
        ==
@@ -138,7 +138,7 @@ E
       - 叉切飯 (caa1 cit3 faan6): "Char [shiu], [plain] cut [chicken] rice."
        ==
     ++
-  - 【切雞】 (cit3 gai1):
+  - 【切雞】 (cit3 gai1)
     ++
     1. Short for 白切雞 (plain cut chicken).
        ==

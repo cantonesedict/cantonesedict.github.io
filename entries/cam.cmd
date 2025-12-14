@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -102,7 +102,7 @@ W
   ====
 E
   ====
-  - 【侵】 (cam1):
+  - 【侵】 (cam1)
     ++
     1. To add in.
        ==
@@ -437,7 +437,7 @@ C
   ==
 E
   ====
-  - 【讖】 (cam3):
+  - 【讖】 (cam3)
     ++
     1. Long-winded or verbose.
        ==
@@ -541,7 +541,7 @@ C
   ==
 E
   ====
-  - 【尋日】 (cam4 jat6):
+  - 【尋日】 (cam4 jat6)
     ++
     1. Yesterday.
        ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coek
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -269,7 +269,7 @@ W
   ====
 E
   ====
-  - 【灼】 (coek3):
+  - 【灼】 (coek3)
     ++
     1. To cook (briefly) in boiling water, to blanch.
        ==

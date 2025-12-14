@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyun
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -162,7 +162,7 @@ P
   ++
 E
   ====
-  - 【專登】 (zyun1 dang1):
+  - 【專登】 (zyun1 dang1)
     ++
     1. Specially.
        ==
@@ -343,7 +343,7 @@ W
   ====
 E
   ====
-  - 【階磚】 (gaai1 zyun1):
+  - 【階磚】 (gaai1 zyun1)
     ++
     1. Ceramic floor tiles.
     1. Diamonds (card suit).

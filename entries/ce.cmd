@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2025-11-23
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -75,7 +75,7 @@ C
   ==
 E
   ====
-  - 【唓】 (ce1, ce5):
+  - 【唓】 (ce1, ce5)
     ++
     1. An interjection of dismissal or dissatisfaction.
        ==
@@ -421,7 +421,7 @@ C
   ====
 E
   ====
-  - 【扯】 (ce2):
+  - 【扯】 (ce2)
     ++
     1. To leave.
        ==
@@ -500,7 +500,7 @@ W
   ====
 E
   ====
-  - 【斜路】 (ce3 lou6-2):
+  - 【斜路】 (ce3 lou6-2)
     ++
     1. An incline, slope, or ramp.
        ==
@@ -508,7 +508,7 @@ E
        - 寫字上斜路 (se2 zi6 soeng5 ce3 lou6-2): "[Your] writing [is] going up [an] incline" (i.e. not level).
        ==
     ++
-  - 【長命斜】 (coeng4 meng6 ce3):
+  - 【長命斜】 (coeng4 meng6 ce3)
     ++
     1. A long and steep incline or slope.
     ++
@@ -599,7 +599,7 @@ W
   ====
 E
   ====
-  - 【西斜】 (sai1 ce4):
+  - 【西斜】 (sai1 ce4)
     ++
     1. Exposure to the western sun.
     ++
@@ -675,7 +675,7 @@ C
   ==
 E
   ====
-  - 【唔信邪】 (m4 seon3 ce4-2):
+  - 【唔信邪】 (m4 seon3 ce4-2)
     ++
     1. Not believing in negative superstitions.
     ++

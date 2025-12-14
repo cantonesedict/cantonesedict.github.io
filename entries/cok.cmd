@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cok
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -98,7 +98,7 @@ P
   ++
 E
   ====
-  - 【剒】 (cok3):
+  - 【剒】 (cok3)
     ++
     1. Choppiness in the airways, unsmoothness in breathing.
        ==

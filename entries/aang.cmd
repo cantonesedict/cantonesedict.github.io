@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aang
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -146,9 +146,16 @@ W
         a water pitcher.
     ==
   ====
+L
+  ====
+  * 【罌】 ('eang)
+    ==
+    - (_noun-like_) jar
+    ==
+  ====
 E
   ====
-  - 【罌】 (aang1):
+  - 【罌】 (aang1)
     ++
     1. A jar or cylindrical-ish container.
        ==

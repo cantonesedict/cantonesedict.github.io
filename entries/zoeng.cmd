@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -254,7 +254,7 @@ P
   ++
 E
   ====
-  - 【張】 (zoeng1):
+  - 【張】 (zoeng1)
     ++
     1. (_mahjong_) Classifier for (revealed) tiles. Also spelt 章.
        ==
@@ -1535,7 +1535,7 @@ P
   ++
 E
   ====
-  - 【大陣仗】 (daai6 zan6 zoeng6):
+  - 【大陣仗】 (daai6 zan6 zoeng6)
     ++
     1. A big scene, or to make a big fuss. (Literally, "great battle-array".)
        ==
@@ -1718,7 +1718,7 @@ P
   ++
 E
   ====
-  - 【橡筋】 (zoeng6 gan1):
+  - 【橡筋】 (zoeng6 gan1)
     ++
     1. A rubber band.
        ==
@@ -1786,7 +1786,7 @@ C
   ==
 E
   ====
-  - 【大笨象】 (daai6 ban6 zoeng6):
+  - 【大笨象】 (daai6 ban6 zoeng6)
     ++
     1. An elephant.
     ++

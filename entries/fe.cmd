@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fe
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -72,7 +72,7 @@ W
   [[Not present]]
 E
   ====
-  - 【啡】 (fe1):
+  - 【啡】 (fe1)
     ++
     1. Short for 咖啡 (coffee).
        ==
@@ -80,11 +80,11 @@ E
        ==
     1. Brown.
     ++
-  - 【啡色】 (fe1 sik1):
+  - 【啡色】 (fe1 sik1)
     ++
     1. Short for [咖啡色](#cantonese-咖啡色).
     ++
-  - 【咖啡色】 (gaa3 fe1 sik1):
+  - 【咖啡色】 (gaa3 fe1 sik1)
     ++
     1. Brown.
     ++
@@ -152,7 +152,7 @@ W
   [[Not present]]
 E
   ====
-  - 【淝】 (fe4, fe6):
+  - 【淝】 (fe4, fe6)
     ++
     1. To spray.
        ==
@@ -164,7 +164,7 @@ E
        - 淝中咗 (fe4 zung3 zo2): "Shot [and] hit."
        ==
     ++
-  - 【淝淝】 (fe4 fe4-2):
+  - 【淝淝】 (fe4 fe4-2)
     ++
     1. Diarrhoea. Commonly spelt 啡啡.
        ==

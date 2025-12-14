@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaau
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -247,7 +247,7 @@ C
   ==
 E
   ====
-  - 【有找】 (jau5 zaau2):
+  - 【有找】 (jau5 zaau2)
     ++
     1. Suffixed after a monetary amount
        to indicate that the price is strictly lower.
@@ -256,7 +256,7 @@ E
        - 廿蚊有找 (jaa6 man1 jau5 zaau2): "[It's] twenty bucks [and] there's change."
        ==
     ++
-  - 【找數】 (zaau2 sou3):
+  - 【找數】 (zaau2 sou3)
     ++
     1. To settle a bill or account.
     ++
@@ -353,11 +353,11 @@ W
   ====
 E
   ====
-  - 【狗爪邊】 (gau2 zaau2 bin1):
+  - 【狗爪邊】 (gau2 zaau2 bin1)
     ++
     1. The character component 犭. (Literally, "dog's paw beside".)
     ++
-  - 【狗爪頭】 (gau2 zaau2 tau4):
+  - 【狗爪頭】 (gau2 zaau2 tau4)
     ++
     1. The character component 爫. (Literally, "dog's paw atop".)
     ++

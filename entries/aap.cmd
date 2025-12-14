@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aap
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -113,9 +113,16 @@ W
         to hatch ducks artificially.
     ==
   ====
+L
+  ====
+  * 【鴨】 ('aep)
+    ==
+    - (_noun-like_) duck
+    ==
+  ====
 E
   ====
-  - 【鴨】 (aap3-2):
+  - 【鴨】 (aap3-2)
     ++
     1. (_slang_) A male prostitute.
        Compare $雞gai1 "chicken" for female prostitute. (TODO)

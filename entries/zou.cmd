@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zou
-* %date-modified --> 2025-11-23
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -142,7 +142,7 @@ P
   ++
 E
   ====
-  - 【糟質】 (zou1 zat1):
+  - 【糟質】 (zou1 zat1)
     ++
     1. To treat harshly, to abuse, etc.
     ++
@@ -286,21 +286,21 @@ W
   ====
 E
   ====
-  - 【一早】 (jat1 zou2):
+  - 【一早】 (jat1 zou2)
     ++
     1. Very early on, ages ago.
        ==
        - 一早話咗 (jat1 zou2 waa6 zo2): "Said [so] ages ago."
        ==
     ++
-  - 【晨早】 (san4 zou2):
+  - 【晨早】 (san4 zou2)
     ++
     1. Very early on, ages ago.
        ==
        - 晨早去咗 (san4 zou2 heoi3 zo2): "[I] went ages ago."
        ==
     ++
-  - 【早晨】 (zou2 san4):
+  - 【早晨】 (zou2 san4)
     ++
     1. Good morning.
        ==
@@ -716,7 +716,7 @@ C
   ==
 E
   ====
-  - 【做】 (zou6):
+  - 【做】 (zou6)
     ++
     1. To work, to be employed.
        ==
@@ -737,18 +737,18 @@ E
        - 做十三幺 (zou6 sap6 saam1 jiu1): "Going for Thirteen Littles."
        ==
     ++
-  - 【做低】 (zou6 dai1):
+  - 【做低】 (zou6 dai1)
     ++
     1. To kill, to eliminate lethally.
        ==
        - 做低咗男主角 (zou6 dai1 zo2 naam4 zyu2 gok3): "[He] took out [the] male main character."
        ==
     ++
-  - 【做乜】 (zou6 mat1):
+  - 【做乜】 (zou6 mat1)
     ++
     1. Synonym of [做乜嘢](#cantonese-做乜嘢).
     ++
-  - 【做乜嘢】 (zou6 mat1 je5):
+  - 【做乜嘢】 (zou6 mat1 je5)
     ++
     1. Interrogative phrase pertaining to action.
        ==
@@ -764,7 +764,7 @@ E
        - 做乜嘢遲到啊 (zou6 mat1 je5 ci4 dou3 a3); "Why [are you] late?"
        ==
     ++
-  - 【做咩】 (zou6 me1):
+  - 【做咩】 (zou6 me1)
     ++
     1. Short for [做乜嘢](#cantonese-做乜嘢).
        ==

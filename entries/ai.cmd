@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ai
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -94,14 +94,14 @@ C
   ==
 E
   ====
-  - 【哎吔-pain】 (ai1 ja4):
+  - 【哎吔-pain】 (ai1 ja4)
     ++
     1. An interjection of pain, mistake, etc.
        ==
        - 哎吔 (ai1 ja4): "Ouch", "Whoops", etc.
        ==
     ++
-  - 【哎吔-indignation】 (ai1 jaa1):
+  - 【哎吔-indignation】 (ai1 jaa1)
     ++
     1. An interjection of surprise, shock, indignation, etc.
        ==
@@ -234,7 +234,7 @@ W
   ====
 E
   ====
-  - 【贔屭】 (bai3 ai3):
+  - 【贔屭】 (bai3 ai3)
     ++
     1. To be exceedingly afflicted or troubled by something.
     ++

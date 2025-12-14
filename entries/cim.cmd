@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -157,7 +157,7 @@ C
   ==
 E
   ====
-  - 【㔐】 (cim1):
+  - 【㔐】 (cim1)
     ++
     1. To cut or sever.
     1. (_Chinese chess_) To capture a piece on an upper corner of the palace
@@ -692,7 +692,7 @@ W
   ====
 E
   ====
-  - 【僭建】 (cim3 gin3, cim5 gin3):
+  - 【僭建】 (cim3 gin3, cim5 gin3)
     ++
     1. Unauthorised addition of a structure to a building.
     ++
@@ -897,7 +897,7 @@ C
   ==
 E
   ====
-  - 【撍】 (cim4):
+  - 【撍】 (cim4)
     ++
     1. To select or draw out, especially from a pile.
        ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -98,7 +98,7 @@ C
   ==
 E
   ====
-  - 【之嘛】 (za1 maa3):
+  - 【之嘛】 (za1 maa3)
     ++
     1. A final particle of limitation, especially used defensively.
       ==
@@ -265,7 +265,7 @@ W
   ====
 E
   ====
-  - 【揸】 (zaa1):
+  - 【揸】 (zaa1)
     ++
     1. To hold, to grasp, to control.
       ==
@@ -394,7 +394,7 @@ W
   ====
 E
   ====
-  - 【渣】 (zaa1):
+  - 【渣】 (zaa1)
     ++
     1. The residual after moisture is removed;
        the unswallowable remains after chewing untender meat or stringy vegetables.
@@ -520,14 +520,14 @@ C
   ==
 E
   ====
-  - 【揦鮓】 (laa5 zaa2):
+  - 【揦鮓】 (laa5 zaa2)
     ++
     1. Dirty.
       ==
       - {𨋢=⿰車立}掣揦鮓 (lip1 zai3 laa5 zaa2): "[The] lift button [is] dirty."
       ==
     ++
-  - 【鮓】 (zaa2):
+  - 【鮓】 (zaa2)
     ++
     1. Low quality or crappy.
       ==
@@ -674,7 +674,7 @@ W
   ====
 E
   ====
-  - 【咋】 (za3, zaa3):
+  - 【咋】 (za3, zaa3)
     ++
     1. A final particle of limitation.
       ==
@@ -985,7 +985,7 @@ W
   ====
 E
   ====
-  - 【詐諦】 (zaa3 dai3):
+  - 【詐諦】 (zaa3 dai3)
     ++
     1. To pretend.
     ++
@@ -1045,7 +1045,7 @@ W
   [[Not present]]
 E
   ====
-  - 【喳】 (za4, zaa4):
+  - 【喳】 (za4, zaa4)
     ++
     1. An interrogative-ish final particle of limitation, suspicion, disappointment, etc.
       ==
@@ -1080,7 +1080,7 @@ W
   [[Not present]]
 E
   ====
-  - 【拃】 (zaa6):
+  - 【拃】 (zaa6)
     ++
     1. A handful or a bunch.
        ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caang
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -318,7 +318,7 @@ W
   ====
 E
   ====
-  - 【鐺】 (caang1):
+  - 【鐺】 (caang1)
     ++
     1. A cooking pot with a flat bottom.
        ==
@@ -547,7 +547,7 @@ C
   ==
 E
   ====
-  - 【{𨅝=⿰𧾷牚}】 (caang3, jaang3):
+  - 【{𨅝=⿰𧾷牚}】 (caang3, jaang3)
     ++
     1. To thrust outward or down with the leg or the foot.
        ==
@@ -556,7 +556,7 @@ E
        ==
     1. To brace or support by extension of the leg.
     ++
-  - 【{𨅝=⿰𧾷牚}檯腳】 (caang3 toi4-2 goek3, jaang3 toi4-2 goek3):
+  - 【{𨅝=⿰𧾷牚}檯腳】 (caang3 toi4-2 goek3, jaang3 toi4-2 goek3)
     ++
     1. To eat or discourse at the same table. (Literally, "kick/brace with legs [the] table's legs".)
     ++
@@ -706,14 +706,14 @@ W
   [[Not present]]
 E
   ====
-  - 【{𥋇=⿰目掌}】 (caang4):
+  - 【{𥋇=⿰目掌}】 (caang4)
     ++
     1. To dazzle or glare.
        ==
        - 畀太陽{𥋇=⿰目掌}住 (bei2 taai3 joeng4 caang4 zyu6): "Glared at by [the] sun."
        ==
     ++
-  - 【{𥋇=⿰目掌}眼】 (caang4 ngaan5):
+  - 【{𥋇=⿰目掌}眼】 (caang4 ngaan5)
     ++
     1. Dazzling or glaring to the eyes.
        ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -101,7 +101,7 @@ P
   ++
 E
   ====
-  - 【差】 (caai1):
+  - 【差】 (caai1)
     ++
     1. An officer.
        ==
@@ -141,7 +141,7 @@ P
   ++
 E
   ====
-  - 【搋波】 (caai1 bo1):
+  - 【搋波】 (caai1 bo1)
     ++
     1. (_ball games_) To pass the ball back and forth.
     ++

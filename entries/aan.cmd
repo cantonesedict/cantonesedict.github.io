@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aan
-* %date-modified --> 2025-11-23
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -113,21 +113,31 @@ P
   ++
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【晏】 ('aenH)
+    ==
+    - (_adjective-like_) clear, cloudless
+    - (_adjective-like_) serene
+    - (_adjective-like_) late
+    ==
+  ====
 E
   ====
-  - 【晏】 (aan3):
+  - 【晏】 (aan3)
     ++
     1. Late (in the day).
        ==
        - 三點咁晏 (saam1 dim2 gam3 aan3): "3 o'clock? that late?"
        - 晏得嚌 (aan3 dak1 zai6): "[That's] too late [in the day]."
+       - 晏啲 (aan3 di1): "Later [in the day]."
        ==
     1. Lunch.
        ==
        - 食晏未 (sik6 aan3 mei5): "Eaten lunch yet?"
        ==
     ++
-  - 【晏晝】 (aan3 zau3):
+  - 【晏晝】 (aan3 zau3)
     ++
     1. Afternoon.
        ==
@@ -138,9 +148,6 @@ E
   --
   Olden attestation for 晏 _(a/)n(3)_ (aan3) meaning "late":
   --
-  """"
-  ::B4.w432a0202 烏旰切 (:晏:) (:晚也又於諫切:)::
-  """"
   """"
   ::B4.w434a0201 (:烏澗切:) (:晏:) 柔也天淸也(:又晚也:)又姓左傳齊有晏氏代爲大夫::
   """"
@@ -185,4 +192,11 @@ C
   ==
   - Fan Wan entry: Corrected ⿰斤鳥 to 鳸.
   ==
+L
+  ====
+  * 【鷃】 ('aenH)
+    ==
+    - (_noun-like_) quail
+    ==
+  ====
 $$

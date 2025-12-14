@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -260,7 +260,7 @@ P
   ++
 E
   ====
-  - 【脧】 (zoe1):
+  - 【脧】 (zoe1)
     ++
     1. The penis.
        ==

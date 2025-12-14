@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -258,7 +258,7 @@ C
   ==
 E
   ====
-  - 【矺】 (zaak3, zaak6):
+  - 【矺】 (zaak3, zaak6)
     ++
     1. To weigh down with a heavy object.
        ==

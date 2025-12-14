@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceon
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -174,7 +174,7 @@ C
   ==
 E
   ====
-  - 【膥】 (ceon1):
+  - 【膥】 (ceon1)
     ++
     1. Egg or roe.
        ==
@@ -193,7 +193,7 @@ E
     and also for the hypothesised relation to springtime in Old Chinese,
     see the [Wiktionary entry for 春][wiktionary-春].
     --
-  - 【石膥】 (sek6 ceon1):
+  - 【石膥】 (sek6 ceon1)
     ++
     1. A pebble.
     ++

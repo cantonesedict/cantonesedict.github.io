@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -410,7 +410,7 @@ C
   ==
 E
   ====
-  - 【揞】 (am2):
+  - 【揞】 (am2)
     ++
     1. To cover with the hand.
        ==
@@ -640,7 +640,7 @@ W
   ====
 E
   ====
-  - 【暗算】 (am3 syun3):
+  - 【暗算】 (am3 syun3)
     ++
     1. To wound (usually mortally) with a hidden weapon.
     ++

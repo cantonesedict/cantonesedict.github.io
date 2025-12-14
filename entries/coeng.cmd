@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1109,7 +1109,7 @@ C
   ==
 E
   ====
-  - 【暢】 (coeng3):
+  - 【暢】 (coeng3)
     ++
     1. To exchange cash so as to break it up.
        ==
@@ -1668,7 +1668,7 @@ C
   ==
 E
   ====
-  - 【腸】 (coeng4-2):
+  - 【腸】 (coeng4-2)
     ++
     1. Short for [腸粉](#cantonese-腸粉) (cheung fan).
        ==
@@ -1676,11 +1676,11 @@ E
        - 齋腸 (zaai1 coeng4-2): "Plain [rice-noodle] rolls."
        ==
     ++
-  - 【腸粉】 (coeng4-2 fan2):
+  - 【腸粉】 (coeng4-2 fan2)
     ++
     1. Rice-noodle rolls.
     ++
-  - 【豬腸粉】 (zyu1 coeng4 fan2):
+  - 【豬腸粉】 (zyu1 coeng4 fan2)
     ++
     1. Rice-noodle rolls, especially the tighter-rolled street food variant
        (smaller radius with no filling).
@@ -1856,7 +1856,7 @@ W
   ====
 E
   ====
-  - 【長氣】 (coeng4 hei3):
+  - 【長氣】 (coeng4 hei3)
     ++
     1. Long-winded.
        ==

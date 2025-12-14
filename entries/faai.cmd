@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faai
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -257,7 +257,7 @@ P
   ++
 E
   ====
-  - 【快脆】 (faai3 ceoi3):
+  - 【快脆】 (faai3 ceoi3)
     ++
     1. Quick.
        ==

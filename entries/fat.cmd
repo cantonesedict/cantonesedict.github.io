@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fat
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -528,7 +528,7 @@ C
   ==
 E
   ====
-  - 【屎窟】 (si2 fat1):
+  - 【屎窟】 (si2 fat1)
     ++
     1. Arse (mostly the buttocks, sometimes the anus).
        ==

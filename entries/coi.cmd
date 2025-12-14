@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coi
-* %date-modified --> 2025-11-16
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -80,7 +80,7 @@ W
   ====
 E
   ====
-  - 【啋】 (coi1):
+  - 【啋】 (coi1)
     ++
     1. An interjection of rebuke for mentioning a bad or inauspicious outcome.
        ==
@@ -210,11 +210,11 @@ C
   ==
 E
   ====
-  - 【彩數】 (coi2 sou3):
+  - 【彩數】 (coi2 sou3)
     ++
     1. Luck, fortune.
     ++
-  - 【好彩】 (hou2 coi2):
+  - 【好彩】 (hou2 coi2)
     ++
     1. Lucky, fortunate.
        ==
@@ -529,7 +529,7 @@ C
   ==
 E
   ====
-  - 【菜】 (coi3):
+  - 【菜】 (coi3)
     ++
     1. (_derogatory_, _objectification_) Girlfriend.
        ==

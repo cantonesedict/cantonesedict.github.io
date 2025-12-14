@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeot
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -88,7 +88,7 @@ W
   ====
 E
   ====
-  - 【卒之】 (zeot1 zi1):
+  - 【卒之】 (zeot1 zi1)
     ++
     1. Finally, eventually.
     ++
@@ -185,7 +185,7 @@ P
   ++
 E
   ====
-  - 【捽】 (zeot1):
+  - 【捽】 (zeot1)
     ++
     1. To rub.
        ==

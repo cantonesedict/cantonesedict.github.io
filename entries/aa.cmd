@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -185,7 +185,7 @@ W
   ====
 E
   ====
-  - 【吖】 (a1, aa1):
+  - 【吖】 (a1, aa1)
     ++
     1. An interrogative-ish final particle suggesting the preceding.
        ==
@@ -201,7 +201,7 @@ E
        - 好吖 (hou2 a1): "OK" (as an active, enthusiastic endorsement).
        ==
     ++
-  - 【吖嘛】 (a1 maa3):
+  - 【吖嘛】 (a1 maa3)
     ++
     1. An indicative-ish final particle pointing out the preceding.
        Similar to ending on a falling intonation in English.
@@ -326,6 +326,13 @@ C
   ==
   - Williams' 鴉片坭: Dated; opium is now simply called 鴉片.
   ==
+L
+  ====
+  * 【鴉】 ('ae)
+    ==
+    - (_noun-like_) crow, raven
+    ==
+  ====
 $$
 
 
@@ -403,6 +410,13 @@ C
   ==
   - Williams' 啞謎: Changed _mai(6)_ (mai6) to common reading _(4)mai_ (mai4).
   ==
+L
+  ====
+  * 【啞】 ('aeX)
+    ==
+    - (_adjective-like_) dumb
+    ==
+  ====
 S
   ==
   - $啞aa1
@@ -492,6 +506,13 @@ C
     but notes that 阿 is "often used" for the name prefix sense.
     I have split things up accordingly.
   ==
+L
+  ====
+  * 【亞】 ('aeH)
+    ==
+    - (_adjective-like_) second
+    ==
+  ====
 $$
 
 ### 呀3 | _(A/)(3)_ [[aa3]]
@@ -555,7 +576,7 @@ C
   ==
 E
   ====
-  - 【啊-final】 (a3, aa3):
+  - 【啊-final】 (a3, aa3)
     ++
     1. A final particle (with a hint of emphasis).
        ==
@@ -568,7 +589,7 @@ E
        - 阿爹啊 (aa3 de1 a3): "Dad!"
        ==
     ++
-  - 【啊-list】 (aa3):
+  - 【啊-list】 (aa3)
     ++
     1. A particle after each item in a list of examples.
        Similar to the non-falling intonation for list items in English.
@@ -698,7 +719,7 @@ W
   [[Not present]]
 E
   ====
-  - 【呀】 (a4):
+  - 【呀】 (a4)
     ++
     1. An interrogative-ish final particle of surprise, suspicion, disappointment, etc.
        ==

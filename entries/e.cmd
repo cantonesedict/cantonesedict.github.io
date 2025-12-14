@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> e
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -118,7 +118,7 @@ W
   [[Not present]]
 E
   ====
-  - 【㖡】 (e6):
+  - 【㖡】 (e6)
     ++
     1. A filler used to express uncertainty or hesitation.
        ==

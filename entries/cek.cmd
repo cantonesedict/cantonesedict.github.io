@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cek
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -138,7 +138,7 @@ C
   ==
 E
   ====
-  - 【間尺】 (gaan3 cek3-2):
+  - 【間尺】 (gaan3 cek3-2)
     ++
     1. A ruler.
     ++
@@ -190,7 +190,7 @@ W
   ====
 E
   ====
-  - 【{𤷫=⿸疒刺}】 (cek3):
+  - 【{𤷫=⿸疒刺}】 (cek3)
     ++
     1. Pain or aching.
        ==

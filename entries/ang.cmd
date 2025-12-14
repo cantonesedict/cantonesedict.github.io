@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ang
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -243,7 +243,7 @@ C
   ==
 E
   ====
-  - 【㾘】 (ang2):
+  - 【㾘】 (ang2)
     ++
     1. To exert (or experience) a pressing force over a smallish or lump-sized area.
        ==

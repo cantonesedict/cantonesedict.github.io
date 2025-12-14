@@ -178,17 +178,17 @@ input {
 }
 
 
-li[id^='cantonese-'] {
+li:is([id^='cantonese-'], [id^='rendering-']) {
   list-style-type: none;
   margin-left: -1em;
 }
-li[id^='cantonese-'] p {
+li:is([id^='cantonese-'], [id^='rendering-']) p {
   margin: 0.5em 0;
 }
-li[id^='cantonese-']:not(:last-child) {
+li:is([id^='cantonese-'], [id^='rendering-']):not(:last-child) {
   margin-bottom: 0.5em;
 }
-li[id^='cantonese-'] > ol {
+li[id^='cantonese-'] > ol, li[id^='rendering-'] > ul {
   padding-left: 3em;
 }
 li[id^='cantonese-'] > ol > li {
@@ -230,6 +230,10 @@ th, td {
   padding: 0.4em;
 }
 
+
+.baxter {
+  font-family: monospace;
+}
 
 .canonical {
   border-style: double;
@@ -283,7 +287,7 @@ th, td {
 .modern mark {
   color: var(--modern-colour-mark);
 }
-.modern th, .modern td {
+.modern :is(th, td) {
   border-color: var(--modern-colour);
 }
 

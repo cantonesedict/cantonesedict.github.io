@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -179,7 +179,7 @@ P
   ++
 E
   ====
-  - 【朱古力】 (zyu1 gu2-1 lik6-1):
+  - 【朱古力】 (zyu1 gu2-1 lik6-1)
     ++
     1. Chocolate.
     ++
@@ -373,11 +373,11 @@ C
   ==
 E
   ====
-  - 【面珠】 (min6 zyu1):
+  - 【面珠】 (min6 zyu1)
     ++
     1. The cheek.
     ++
-  - 【面珠墩】 (min6 zyu1 dan1):
+  - 【面珠墩】 (min6 zyu1 dan1)
     ++
     1. Synonym of [面珠](#cantonese-面珠).
     ++
@@ -649,7 +649,7 @@ P
   ++
 E
   ====
-  - 【諸事】 (zyu1 si6):
+  - 【諸事】 (zyu1 si6)
     ++
     1. Nosy or meddling.
        ==
@@ -1632,7 +1632,7 @@ W
   ====
 E
   ====
-  - 【住】 (zyu6):
+  - 【住】 (zyu6)
     ++
     1. Marker of the continuous aspect (ongoingness of an action).
        ==
@@ -1704,7 +1704,7 @@ W
   ====
 E
   ====
-  - 【箸】 (zyu6):
+  - 【箸】 (zyu6)
     ++
     1. Classifier for a chopstickful of long or strand-like food.
        ==

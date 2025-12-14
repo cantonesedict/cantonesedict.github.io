@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -225,7 +225,7 @@ P
   ++
 E
   ====
-  - 【唧】 (zik1):
+  - 【唧】 (zik1)
     ++
     1. A jack (for raising heavy objects, especially vehicles).
        ==
@@ -1580,7 +1580,7 @@ P
   ++
 E
   ====
-  - 【直程】 (zik6 cing4):
+  - 【直程】 (zik6 cing4)
     ++
     1. Directly.
        ==
@@ -1597,7 +1597,7 @@ E
        - 直程走咗 (zik6 cing4 zau2 zo2): "[He] simply left."
        ==
     ++
-  - 【直頭】 (zik6 tau4):
+  - 【直頭】 (zik6 tau4)
     ++
     1. Synonym of [直程](#cantonese-直程).
     ++

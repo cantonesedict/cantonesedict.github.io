@@ -2024,6 +2024,7 @@ class CharacterEntry:
     alternative_forms: Optional[list['AlternativeForm']]
     reading_variations: Optional[list['ReadingVariation']]
     cantonese_entries: Optional[list['CantoneseEntry']]
+    literary_renderings: Optional[list['LiteraryRendering']]
     see_also_links: Optional[list['SeeAlsoLink']]
 
     def __init__(self, heading_content: str, addition: str, character_run: str, tone_number: str, williams_run: str,
@@ -2095,6 +2096,8 @@ class CharacterEntry:
         e_content = content_from_key.get('E')
         alternative_forms = CharacterEntry.extract_alternative_forms(content_from_key.get('A'), jyutping)
         reading_variations = CharacterEntry.extract_reading_variations(content_from_key.get('V'))
+        literary_renderings = CharacterEntry.extract_literary_renderings(content_from_key.get('L'),
+                                                                         character, page_heading_jyutping)
         cantonese_entries = CharacterEntry.extract_cantonese_entries(e_content, page_heading_jyutping)
         see_also_links = CharacterEntry.extract_see_also_links(content_from_key.get('S'))
 
@@ -2109,6 +2112,7 @@ class CharacterEntry:
         CharacterEntry.lint_fan_wan_same_romanisation(williams_run, f_content, heading_content)
 
         CharacterEntry.lint_reading_variation_order(reading_variations)
+        CharacterEntry.lint_literary_rendering_order(literary_renderings)
         CharacterEntry.lint_cantonese_entry_order(cantonese_entries)
         CmdIdioms.lint_see_also_link_order(see_also_links)
 
@@ -2129,6 +2133,7 @@ class CharacterEntry:
         self.p_content = p_content
         self.alternative_forms = alternative_forms
         self.reading_variations = reading_variations
+        self.literary_renderings = literary_renderings
         self.cantonese_entries = cantonese_entries
         self.see_also_links = see_also_links
 
@@ -2180,7 +2185,7 @@ class CharacterEntry:
     @staticmethod
     def lint_keys(content_from_key: dict[str, str], heading_content: str):
         keys = ''.join(f'{key} ' for key in content_from_key)
-        pattern_readable = 'R U [H] [A] [V] F W [C] [P] [E] [S] '
+        pattern_readable = 'R U [H] [A] [V] F W [C] [P] [L] [E] [S] '
         pattern = re.sub(
             pattern=r'\[ (?P<optional_key> \S+ ) \] [ ]',
             repl=r'(?:\g<optional_key> )?',
@@ -2405,6 +2410,24 @@ class CharacterEntry:
             raise LintException(f'reading variations {jyutping_list} not in sorted order')
 
     @staticmethod
+    def lint_literary_rendering_order(literary_renderings: Optional[list['LiteraryRendering']]):
+        if literary_renderings is None:
+            return
+
+        terms_readable = [
+            f'{CmdIdioms.strip_compositions(literary_rendering.term)} {literary_rendering.baxter_list[0]}'
+            for literary_rendering in literary_renderings
+        ]
+        sorted_terms_readable = [
+            f'{CmdIdioms.strip_compositions(literary_rendering.term)} {literary_rendering.baxter_list[0]}'
+            for literary_rendering in sorted(literary_renderings)
+        ]
+        if terms_readable != sorted_terms_readable:
+            raise LintException(
+                f'literary renderings {terms_readable} not in sorted order (expected {sorted_terms_readable})'
+            )
+
+    @staticmethod
     def lint_cantonese_entry_order(cantonese_entries: Optional[list['CantoneseEntry']]):
         if cantonese_entries is None:
             return
@@ -2483,6 +2506,30 @@ class CharacterEntry:
         ]
 
     @staticmethod
+    def extract_literary_renderings(content: Optional[str], character: str, page_heading_jyutping: str
+                                    ) -> Optional[list['LiteraryRendering']]:
+        if content is None:
+            return None
+
+        return [
+            LiteraryRendering(term, disambiguation_suffix, baxter_content, character, page_heading_jyutping)
+            for match in re.finditer(
+                pattern=r'''
+                    ^ [ ]+ [*][ ]
+                    【 (?P<term> [^\s-]+ ) (?P<disambiguation_suffix> \S* ) 】
+                    [ ] \( (?P<baxter_content> .* ) \)
+                ''',
+                string=content,
+                flags = re.MULTILINE | re.VERBOSE,
+            )
+            if (
+                term := match.group('term'),
+                disambiguation_suffix := match.group('disambiguation_suffix'),
+                baxter_content := match.group('baxter_content'),
+            )
+        ]
+
+    @staticmethod
     def extract_cantonese_entries(content: Optional[str], page_heading_jyutping: str
                                   ) -> Optional[list['CantoneseEntry']]:
         if content is None:
@@ -2494,7 +2541,7 @@ class CharacterEntry:
                 pattern=r'''
                     ^ [ ]+ [-][ ]
                     【 (?P<term> [^\s-]+ ) (?P<disambiguation_suffix> \S* ) 】
-                    [ ] \( (?P<jyutping_content> .* ) \) :
+                    [ ] \( (?P<jyutping_content> .* ) \)
                 ''',
                 string=content,
                 flags = re.MULTILINE | re.VERBOSE,
@@ -2680,6 +2727,55 @@ class SeeAlsoLink:
         return f'${self.character_content}{self.jyutping}'
 
 
+class LiteraryRendering:
+    term: str
+    disambiguation_suffix: str
+    baxter_list: list[str]
+    page_heading_jyutping: str
+
+    def __init__(self, term: str, disambiguation_suffix: str, baxter_content: str, character: str,
+                 page_heading_jyutping: str):
+        baxter_list = baxter_content.split(sep=', ')
+        baxter_set = set(baxter_list)
+
+        if len(baxter_set) < len(baxter_list):
+            raise LintException(f'duplicate Baxter transcriptions in `{baxter_content}` for literary term `{term}`')
+
+        self.term = term
+        self.disambiguation_suffix = disambiguation_suffix
+        self.baxter_list = baxter_list
+        self.character = character
+        self.page_heading_jyutping = page_heading_jyutping
+
+    def __lt__(self, other):
+        return self.sorting_rank() < other.sorting_rank()
+
+    def sortable_baxter_list(self) -> list[str]:
+        return [
+            baxter.translate(str.maketrans('XH', '23'))
+            for baxter in self.baxter_list
+        ]
+
+    def sorting_rank(self) -> tuple[list[str], list[str], str]:
+        return (
+            self.sortable_baxter_list(),
+            self.sortable_baxter_list()[0].split(),
+            CmdIdioms.strip_compositions(self.term),
+        )
+
+    def url(self) -> str:
+        url_path = f'entries/{self.page_heading_jyutping}'
+        url_fragment = f'rendering-{CmdIdioms.strip_compositions(self.term)}{self.disambiguation_suffix}'
+        return f'/{url_path}#{url_fragment}'
+
+    def split(self) -> list['LiteraryRendering']:
+        return [
+            LiteraryRendering(self.term, self.disambiguation_suffix, split_baxter,
+                              self.character, self.page_heading_jyutping)
+            for split_baxter in self.baxter_list
+        ]
+
+
 class CantoneseEntry:
     term: str
     disambiguation_suffix: str
@@ -2719,10 +2815,12 @@ class CantoneseEntry:
             for split_jyutping in self.jyutping_list
         ]
 
+
 class Linter:
     cmd_sources: list['CmdSource']
     entry_pages: list['EntryPage']
     character_entries: list['CharacterEntry']
+    literary_renderings: list['LiteraryRendering']
     cantonese_entries: list['CantoneseEntry']
 
     def __init__(self):
@@ -2744,6 +2842,13 @@ class Linter:
             for entry_page in entry_pages
             for character_entry in entry_page.character_entries
         ]
+        literary_renderings = [
+            literary_rendering
+            for entry_page in entry_pages
+            for character_entry in entry_page.character_entries
+            if (literary_renderings := character_entry.literary_renderings) is not None
+            for literary_rendering in literary_renderings
+        ]
         cantonese_entries = [
             cantonese_entry
             for entry_page in entry_pages
@@ -2759,7 +2864,9 @@ class Linter:
             Linter.lint_character_entry_reading_variation_reciprocation(character_entries)
             Linter.lint_character_entry_alternative_form_redirect_reciprocation(character_entries)
             Linter.lint_character_entry_reading_variation_redirect_reciprocation(character_entries)
+            Linter.lint_character_entry_literary_rendering_belonging(character_entries)
             Linter.lint_character_entry_see_also_reciprocation(character_entries)
+            Linter.lint_literary_rendering_url_duplication(literary_renderings)
             Linter.lint_cantonese_entry_url_duplication(cantonese_entries)
         except LintException as lint_exception:
             print(f'Error: {lint_exception.message}', file=sys.stderr)
@@ -2768,6 +2875,7 @@ class Linter:
         self.cmd_sources = cmd_sources
         self.entry_pages = entry_pages
         self.character_entries = character_entries
+        self.literary_renderings = literary_renderings
         self.cantonese_entries = cantonese_entries
 
     def index_intrapage(self):
@@ -2776,6 +2884,7 @@ class Linter:
 
     def index_interpage(self):
         self.index_entries()  # entry pages by Jyutping
+        self.index_renderings()  # literary renderings by Baxter notation
         self.index_terms()  # Cantonese terms by Jyutping
         self.index_search()  # characters and compositions
         self.index_radicals()  # characters by radical
@@ -2839,6 +2948,24 @@ class Linter:
             return
 
         with open('entries/index.cmd', 'w', encoding='utf-8') as write_file:
+            write_file.write(new_content)
+
+    def index_renderings(self):
+        split_literary_renderings = sorted(
+            split_literary_rendering
+            for literary_rendering in self.literary_renderings
+            for split_literary_rendering in literary_rendering.split()
+        )
+
+        with open('renderings/index.cmd', 'r', encoding='utf-8') as read_file:
+            new_content = content = read_file.read()
+
+        new_content = Linter._replace_renderings_table(new_content, split_literary_renderings)
+
+        if new_content == content:
+            return
+
+        with open('renderings/index.cmd', 'w', encoding='utf-8') as write_file:
             write_file.write(new_content)
 
     def index_terms(self):
@@ -3219,6 +3346,18 @@ class Linter:
                         )
 
     @staticmethod
+    def lint_character_entry_literary_rendering_belonging(character_entries: list['CharacterEntry']):
+        for character_entry in character_entries:
+            character = character_entry.character
+
+            if (literary_renderings := character_entry.literary_renderings) is None:
+                continue
+
+            for literary_rendering in literary_renderings:
+                if character not in (term := literary_rendering.term):
+                    raise LintException(f'literary rendering for `{term}` does not belong under `{character_entry}`')
+
+    @staticmethod
     def lint_character_entry_see_also_reciprocation(character_entries: list['CharacterEntry']):
         character_entry_from_jyutping_from_character = Utilities.collate_first_by_second_by_third(
             (character_entry, character_entry.jyutping, character_entry.character)
@@ -3268,6 +3407,17 @@ class Linter:
                     raise LintException(f'missing see also link `{universal_link}` under `{other_character_entry}`')
 
     @staticmethod
+    def lint_literary_rendering_url_duplication(literary_renderings: list['LiteraryRendering']):
+        collated_literary_renderings_from_url = Utilities.collate_firsts_by_second(
+            (literary_rendering, literary_rendering.url())
+            for literary_rendering in literary_renderings
+        )
+
+        for url, collated_literary_renderings in collated_literary_renderings_from_url.items():
+            if len(collated_literary_renderings) > 1:
+                raise LintException(f'duplicated literary rendering URL `{url}`')
+
+    @staticmethod
     def lint_cantonese_entry_url_duplication(cantonese_entries: list['CantoneseEntry']):
         collated_cantonese_entries_from_url = Utilities.collate_firsts_by_second(
             (cantonese_entry, cantonese_entry.url())
@@ -3312,6 +3462,47 @@ class Linter:
         return re.sub(
             pattern='<## entries ##>.*?<## /entries ##>',
             repl=Utilities.literal_replacement_pattern(entry_links_content_expected),
+            string=content,
+            flags=re.DOTALL,
+        )
+
+    @staticmethod
+    def _replace_renderings_table(content: str, split_literary_renderings: list['LiteraryRendering']) -> str:
+        renderings_table_content_expected = Utilities.nested_newline_join([
+            "<## renderings-table ##>",
+            "||||{.wide}",
+            "''{.modern}",
+            "|^",
+            "  //",
+            "    ; Baxter notation",
+            "    ; Entry link",
+            "|:",
+            [
+                [
+                    f'  //',
+                    f'    , `{baxter}`',
+                    f'    , [{link_text}{parenthetical_suffix}]({url})',
+                ]
+                for split_literary_rendering in split_literary_renderings
+                if (
+                    baxter := split_literary_rendering.baxter_list[0],
+                    link_text := split_literary_rendering.term,
+                    parenthetical_suffix := re.sub(
+                        pattern='-(?P<sense>.*)',
+                        repl=r'~(\g<sense>)',
+                        string=split_literary_rendering.disambiguation_suffix,
+                    ),
+                    url := split_literary_rendering.url(),
+                )
+            ],
+            "''",
+            "||||",
+            "<## /renderings-table ##>",
+        ])
+
+        return re.sub(
+            pattern='<## renderings-table ##>.*?<## /renderings-table ##>',
+            repl=Utilities.literal_replacement_pattern(renderings_table_content_expected),
             string=content,
             flags=re.DOTALL,
         )

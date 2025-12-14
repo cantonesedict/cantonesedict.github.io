@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -566,11 +566,11 @@ C
   ==
 E
   ====
-  - 【標青】 (biu1 ceng1): <## TODO: move under 標 biu1 ##>
+  - 【標青】 (biu1 ceng1) <## TODO move under 標 biu1 ##>
     ++
     1. Outstanding, excellent.
     ++
-  - 【青】 (ceng1):
+  - 【青】 (ceng1)
     ++
     1. Green, especially light green.
        ==
@@ -588,19 +588,19 @@ E
        - 飛青啲 (fei1 ceng1 di1): "Cut [it] closer."
        ==
     ++
-  - 【青豆】 (ceng1 dau6-2):
+  - 【青豆】 (ceng1 dau6-2)
     ++
     1. Green peas.
     ++
-  - 【青瓜】 (ceng1 gwaa1):
+  - 【青瓜】 (ceng1 gwaa1)
     ++
     1. Cucumber.
     ++
-  - 【青檸】 (ceng1 ning4-2):
+  - 【青檸】 (ceng1 ning4-2)
     ++
     1. Lime. (Literally, "green lemon".)
     ++
-  - 【面青】 (min6 ceng1):
+  - 【面青】 (min6 ceng1)
     ++
     1. Pale complexion (as a sign of unhealth).
     ++
@@ -1071,11 +1071,11 @@ C
   ==
 E
   ====
-  - 【猜呈沉】 (caai1 cing4 cam4):
+  - 【猜呈沉】 (caai1 cing4 cam4)
     ++
     1. To play rock-scissors-paper.
     ++
-  - 【呈沉磨鉸叉燒包】 (cing4-1 cam4-1 mo4 gaau3 caa1 siu1 baau1):
+  - 【呈沉磨鉸叉燒包】 (cing4-1 cam4-1 mo4 gaau3 caa1 siu1 baau1)
     ++
     1. Long-form chant for rock-scissors-paper.
     ++

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyun
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -205,11 +205,11 @@ P
   ++
 E
   ====
-  - 【穿煲】 (cyun1 bou1):
+  - 【穿煲】 (cyun1 bou1)
     ++
     1. To have a secret or embarrassing information exposed.
     ++
-  - 【穿窿】 (cyun1 lung4-1):
+  - 【穿窿】 (cyun1 lung4-1)
     ++
     1. To develop a hole.
     ++
@@ -619,7 +619,7 @@ P
   ++
 E
   ====
-  - 【串】 (cyun3):
+  - 【串】 (cyun3)
     ++
     1. To spell (of words in an alphabetic language).
        ==
@@ -789,7 +789,7 @@ W
   ====
 E
   ====
-  - 【開火爨】 (hoi1 fo2 cyun3):
+  - 【開火爨】 (hoi1 fo2 cyun3)
     ++
     1. To start a fire stove (and, by extension, to cook).
     ++

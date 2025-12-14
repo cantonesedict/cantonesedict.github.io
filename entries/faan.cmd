@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faan
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -103,7 +103,7 @@ P
   ++
 E
   ====
-  - 【反】 (faan1):
+  - 【反】 (faan1)
     ++
     1. (_music_) Rough equivalent of solfège _fa_ half-sharp
        in 工尺譜 (Gongche notation).
@@ -260,7 +260,7 @@ P
   ++
 E
   ====
-  - 【番子】 (faan1 zi2):
+  - 【番子】 (faan1 zi2)
     ++
     1. (_mahjong_) The honours tiles (i.e. the unnumbered suit),
        consisting of the four winds (東南西北), the three duxes (中發白),
@@ -512,7 +512,7 @@ C
   ==
 E
   ====
-  - 【返】 (faan1):
+  - 【返】 (faan1)
     ++
     1. To return, to go back.
        ==
@@ -560,7 +560,7 @@ E
        - 得返一個 (dak1 faan1 jat1 go3): "Only one left."
        ==
     ++
-  - 【返轉頭】 (faan1 zyun3 tau4):
+  - 【返轉頭】 (faan1 zyun3 tau4)
     ++
     1. To go back.
        ==

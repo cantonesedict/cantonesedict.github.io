@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fan
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -1445,7 +1445,7 @@ W
   ====
 E
   ====
-  - 【瞓】 (fan3):
+  - 【瞓】 (fan3)
     ++
     1. To sleep.
        ==
@@ -1462,7 +1462,7 @@ E
        - 瞓低嗮 (fan3 dai1 saai3): "All toppled."
        ==
     ++
-  - 【瞓覺】 (fan3 gaau3):
+  - 【瞓覺】 (fan3 gaau3)
     ++
     1. To sleep.
        ==
@@ -1470,11 +1470,11 @@ E
        - 瞓着覺 (fan3 zoek6 gaau3): "Fallen asleep."
        ==
     ++
-  - 【瞓身】 (fan3 san1):
+  - 【瞓身】 (fan3 san1)
     ++
     1. To go all in.
     ++
-  - 【瞓着】 (fan3 zoek6):
+  - 【瞓着】 (fan3 zoek6)
     ++
     1. To fall asleep.
        ==
@@ -1483,15 +1483,15 @@ E
        - 瞓着咗 (fan3 zoek6 zo2): "Fallen asleep."
        ==
     ++
-  - 【蚊都瞓】 (man1 dou1 fan3):
+  - 【蚊都瞓】 (man1 dou1 fan3)
     ++
     1. Way too late. (Literally, "even mosquitoes [are going to] sleep".)
     ++
-  - 【蚊瞓】 (man1 fan3):
+  - 【蚊瞓】 (man1 fan3)
     ++
     1. Short for [蚊都瞓](#cantonese-蚊都瞓).
     ++
-  - 【眼瞓】 (ngaan5 fan3):
+  - 【眼瞓】 (ngaan5 fan3)
     ++
     1. Sleepy.
     ++
@@ -2407,7 +2407,7 @@ P
   ++
 E
   ====
-  - 【份】 (fan6-2):
+  - 【份】 (fan6-2)
     ++
     1. A part, a partaking.
        ==
@@ -2415,7 +2415,7 @@ E
        - 冇佢份 (mou5 keoi5 fan6-2): "There's no part [for] him" (i.e. he is excluded).
        ==
     ++
-  - 【兩份】 (loeng5 fan6-2):
+  - 【兩份】 (loeng5 fan6-2)
     ++
     1. Shared between two.
        ==
@@ -2518,7 +2518,7 @@ P
   ++
 E
   ====
-  - 【忿氣】 (fan6 hei3):
+  - 【忿氣】 (fan6 hei3)
     ++
     1. Accepting (of an adverse result or occurrence), as opposed to discontented.
        ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1026,7 +1026,7 @@ P
   ++
 E
   ====
-  - 【整】 (zing2):
+  - 【整】 (zing2)
     ++
     1. To make, to create.
        ==
@@ -1042,11 +1042,11 @@ E
        - 整壞咗 (zing2 waai6 zo2): "[I] broke [it]" (functionally).
        ==
     ++
-  - 【整蠱】 (zing2 gu2):
+  - 【整蠱】 (zing2 gu2)
     ++
     1. To play a trick or prank on.
     ++
-  - 【整色整水】 (zing2 sik1 zing2 seoi2):
+  - 【整色整水】 (zing2 sik1 zing2 seoi2)
     ++
     1. To do the superficial (as cover for lack of substance),
        to window-dress.
@@ -1232,15 +1232,15 @@ C
   ==
 E
   ====
-  - 【快靚正】 (faai3 leng3 zeng3):
+  - 【快靚正】 (faai3 leng3 zeng3)
     ++
     1. Quick, attractive, and quality (said of goods and services).
     ++
-  - 【平靚正】 (peng4 leng3 zeng3):
+  - 【平靚正】 (peng4 leng3 zeng3)
     ++
     1. Cheap, attractive, and quality (said of goods and services).
     ++
-  - 【四正】 (si3 zeng3):
+  - 【四正】 (si3 zeng3)
     ++
     1. Proper (of appearance, position, etc.).
        ==
@@ -1251,7 +1251,7 @@ E
        - 執得四正 (zap1 dak1 si3 zeng3): "Tidied up neatly."
        ==
     ++
-  - 【正】 (zeng3):
+  - 【正】 (zeng3)
     ++
     1. Great, excellent, fantastic.
        ==
@@ -1260,7 +1260,7 @@ E
        - 平靚正 (peng4 leng3 zeng3): "Cheap, attractive, [and] good-[quality]."
        ==
     ++
-  - 【正話】 (zing3 waa6):
+  - 【正話】 (zing3 waa6)
     ++
     1. A moment ago, just now. (Literally, "[it was] just said".)
     ++
@@ -1501,7 +1501,7 @@ C
   ==
 E
   ====
-  - 【淨】 (zing6):
+  - 【淨】 (zing6)
     ++
     1. Purely, only.
        ==
@@ -1772,11 +1772,11 @@ P
   ++
 E
   ====
-  - 【靜雞雞】 (zing6 gai1 gai1):
+  - 【靜雞雞】 (zing6 gai1 gai1)
     ++
     1. Synonym of [靜靜雞](#cantonese-靜靜雞).
     ++
-  - 【靜靜雞】 (zing6 zing6-2 gai1):
+  - 【靜靜雞】 (zing6 zing6-2 gai1)
     ++
     1. Quietly, stealthily.
     ++

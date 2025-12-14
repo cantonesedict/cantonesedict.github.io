@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zong
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -504,11 +504,11 @@ P
   ++
 E
   ====
-  - 【裝飯】 (zong1 faan6):
+  - 【裝飯】 (zong1 faan6)
     ++
     1. To fill a bowl with rice.
     ++
-  - 【裝香】 (zong1 hoeng1):
+  - 【裝香】 (zong1 hoeng1)
     ++
     1. To insert incense into a censer.
     ++
@@ -554,7 +554,7 @@ W
   ====
 E
   ====
-  - 【䚎】 (zong1):
+  - 【䚎】 (zong1)
     ++
     1. To look whilst trying not to be seen.
        ==
@@ -938,29 +938,29 @@ C
   ==
 E
   ====
-  - 【白撞】 (baak6 zong6):
+  - 【白撞】 (baak6 zong6)
     ++
     1. To steal by opportunistic trespass.
     1. One who steals through opportunistic trespass.
     ++
-  - 【白撞雨】 (baak6 zong6 jyu5):
+  - 【白撞雨】 (baak6 zong6 jyu5)
     ++
     1. A sun shower.
     ++
-  - 【撞板】 (zong6 baan2):
+  - 【撞板】 (zong6 baan2)
     ++
     1. To meet with failure,
        to encounter a difficulty that halts an attempt at something.
     ++
-  - 【撞彩】 (zong6 coi2):
+  - 【撞彩】 (zong6 coi2)
     ++
     1. To obtain, succeed, win, etc. by luck or guessing.
     ++
-  - 【撞邪】 (zong6-2 ce4):
+  - 【撞邪】 (zong6-2 ce4)
     ++
     1. To be affected by malign supernatural forces.
     ++
-  - 【撞鬼】 (zong6-2 gwai2):
+  - 【撞鬼】 (zong6-2 gwai2)
     ++
     1. To be affected by a devil or ghost.
     1. To have seen a ghost.

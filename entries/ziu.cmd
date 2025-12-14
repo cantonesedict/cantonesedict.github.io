@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -165,7 +165,7 @@ P
   ++
 E
   ====
-  - 【招績】 (ziu1 zik1):
+  - 【招績】 (ziu1 zik1)
     ++
     1. Conceited, arrogant.
     ++
@@ -294,14 +294,14 @@ C
   ====
 E
   ====
-  - 【朝頭早】 (ziu1 tau4 zou2):
+  - 【朝頭早】 (ziu1 tau4 zou2)
     ++
     1. The morning.
        ==
        - 朝頭早沖涼 (ziu1 tau4 zou2 cung1 loeng4): "[I] shower [in] the morning."
        ==
     ++
-  - 【朝早】 (ziu1 zou2):
+  - 【朝早】 (ziu1 zou2)
     ++
     1. Morning.
        ==
@@ -427,7 +427,7 @@ P
   ++
 E
   ====
-  - 【焦】 (zeu1, ziu1):
+  - 【焦】 (zeu1, ziu1)
     ++
     1. The crust of scorched rice.
        ==
@@ -1133,7 +1133,7 @@ C
   ==
 E
   ====
-  - 【噍】 (zeu6, ziu6):
+  - 【噍】 (zeu6, ziu6)
     ++
     1. To chew.
        ==

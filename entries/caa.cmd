@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -90,7 +90,7 @@ W
   ====
 E
   ====
-  - 【叉】 (caa1):
+  - 【叉】 (caa1)
     ++
     1. Short for [叉燒](#cantonese-叉燒) (char shiu).
       ==
@@ -101,7 +101,7 @@ E
       - 冇叉用 (mou5 caa1 jung6): "Bleeping useless."
       ==
     ++
-  - 【叉燒】 (caa1 siu1):
+  - 【叉燒】 (caa1 siu1)
     ++
     1. Char shiu, a type of barbecued pork.
       ==
@@ -213,7 +213,7 @@ C
   ====
 E
   ====
-  - 【阿差】 (aa3 caa1):
+  - 【阿差】 (aa3 caa1)
     ++
     1. (_derogatory_) A South Asian person.
     ++
@@ -645,7 +645,7 @@ W
   ====
 E
   ====
-  - 【搽-spread】 (caa4):
+  - 【搽-spread】 (caa4)
     ++
     1. To apply, rub, or spread an ointment, cream, etc.
        ==
@@ -845,7 +845,7 @@ C
   ==
 E
   ====
-  - 【茶走】 (caa4 zau2):
+  - 【茶走】 (caa4 zau2)
     ++
     1. Milk tea but with condensed milk in place of normal milk and sugar.
     ++
@@ -922,14 +922,14 @@ C
   ==
 E
   ====
-  - 【搽-smudge】 (caa5):
+  - 【搽-smudge】 (caa5)
     ++
     1. To smudge or scribble out.
        ==
        - 搽咗佢 (caa5 zo2 keoi5): "Scribble it out."
        ==
     ++
-  - 【搽{𢰸=⿰扌咼}】 (caa5 wo5):
+  - 【搽{𢰸=⿰扌咼}】 (caa5 wo5)
     ++
     1. To ruin or spoil.
        ==

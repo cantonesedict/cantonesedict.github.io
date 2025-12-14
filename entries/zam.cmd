@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -101,7 +101,7 @@ C
   ==
 E
   ====
-  - 【斟茶遞水】 (zam1 caa4 dai6 seoi2):
+  - 【斟茶遞水】 (zam1 caa4 dai6 seoi2)
     ++
     1. Menial work. (Literally, "pour tea [and] pass [the] water".)
     ++
@@ -191,7 +191,7 @@ C
   ==
 E
   ====
-  - 【砧板】 (zam1 baan2):
+  - 【砧板】 (zam1 baan2)
     ++
     1. A chopping board.
     ++
@@ -504,11 +504,11 @@ P
   ++
 E
   ====
-  - 【後尾枕】 (hau6 mei5 zam2):
+  - 【後尾枕】 (hau6 mei5 zam2)
     ++
     1. The occiput (back of the head/skull).
     ++
-  - 【枕住】 (zam2 zyu6):
+  - 【枕住】 (zam2 zyu6)
     ++
     1. Persistently, continually.
        ==
@@ -727,7 +727,7 @@ C
   ====
 E
   ====
-  - 【浸】 (zam3):
+  - 【浸】 (zam3)
     ++
     1. Classifier for layers.
        ==
@@ -848,7 +848,7 @@ W
   ====
 E
   ====
-  - 【{𠹻=⿰口朕}】 (zam6):
+  - 【{𠹻=⿰口朕}】 (zam6)
     ++
     1. Classifier for smells and odours.
        ==

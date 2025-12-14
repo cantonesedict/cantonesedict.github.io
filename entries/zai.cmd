@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -165,14 +165,14 @@ W
   ====
 E
   ====
-  - 【擠】 (zai1):
+  - 【擠】 (zai1)
     ++
     1. To put, or put down.
        ==
        - 擠喺度 (zai1 hai2 dou6): "Put [it] over here."
        ==
     ++
-  - 【擠迫】 (zai1 bik1):
+  - 【擠迫】 (zai1 bik1)
     ++
     1. Crowded.
        ==
@@ -492,7 +492,7 @@ C
   ==
 E
   ====
-  - 【仔】 (zai2):
+  - 【仔】 (zai2)
      ++
      1. A kid.
         ==
@@ -639,7 +639,7 @@ W
   ====
 E
   ====
-  - 【制】 (zai3):
+  - 【制】 (zai3)
     ++
     1. Willing (to do), accepting (of an outcome).
        ==
@@ -695,7 +695,7 @@ P
   ++
 E
   ====
-  - 【掣】 (zai3):
+  - 【掣】 (zai3)
     ++
     1. A push-button, switch, pedal, etc.
       ==
@@ -1122,7 +1122,7 @@ C
   ==
 E
   ====
-  - 【得嚌】 (dak1 zai6):
+  - 【得嚌】 (dak1 zai6)
     ++
     1. A final particle of excessive degree.
       ==
@@ -1130,7 +1130,7 @@ E
       - 熱得嚌 (jit6 dak1 zai6): "[It's] too hot."
       ==
     ++
-  - 【咁嚌】 (gam3 zai6):
+  - 【咁嚌】 (gam3 zai6)
     ++
     1. A final particle of almostness.
       ==
@@ -1138,7 +1138,7 @@ E
       - 食完咁嚌 (sik6 jyun4 gam3 zai6): "[We've] finished eating, almost."
       ==
     ++
-  - 【乜嚌】 (mat1 zai6):
+  - 【乜嚌】 (mat1 zai6)
     ++
     1. A final particle of almost-nothingness.
       ==
@@ -1206,7 +1206,7 @@ W
   ====
 E
   ====
-  - 【滯】 (zai6):
+  - 【滯】 (zai6)
     ++
     1. Stagnated in the stomach, usually from eating too much.
       ==

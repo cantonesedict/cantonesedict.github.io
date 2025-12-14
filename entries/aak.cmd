@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aak
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -112,7 +112,7 @@ W
   ====
 E
   ====
-  - 【呃】 (aak1, ngaak1):
+  - 【呃】 (aak1, ngaak1)
     ++
     1. To deceive, to trick, to scam.
        ==
@@ -178,6 +178,13 @@ C
   ==
   - Fan Wan entry: Corrected 本 to 木.
   ==
+L
+  ====
+  * 【軛】 ('eak)
+    ==
+    - (_noun-like_) yoke
+    ==
+  ====
 $$
 
 ### 阨1 | _(A/)k(7)_ [[aak1]]
@@ -262,7 +269,7 @@ C
   ==
 E
   ====
-  - 【鈪】 (aak3-2):
+  - 【鈪】 (aak3-2)
     ++
     1. A bracelet or bangle.
        ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyut
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -206,7 +206,7 @@ P
   ++
 E
   ====
-  - 【啜-suck】 (zyut3):
+  - 【啜-suck】 (zyut3)
     ++
     1. To suck.
        ==
@@ -217,7 +217,7 @@ E
        - 衫袖啜住 (saam1 zau6 zyut3 zyu6): "[The] shirt-sleeve [is] stuck."
        ==
     ++
-  - 【啜-kiss】 (zyut3, zyut3-1):
+  - 【啜-kiss】 (zyut3, zyut3-1)
     ++
     1. To kiss.
        ==

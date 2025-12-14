@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -251,7 +251,7 @@ W
   [[Not present]]
 E
   ====
-  - 【䁪】 (zaam2):
+  - 【䁪】 (zaam2)
     ++
     1. To blink.
        ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aau
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -160,7 +160,7 @@ C
   ==
 E
   ====
-  - 【拗】 (aau2):
+  - 【拗】 (aau2)
     ++
     1. To bend or curve.
        ==
@@ -366,7 +366,7 @@ P
   ++
 E
   ====
-  - 【詏】 (aau3):
+  - 【詏】 (aau3)
     ++
     1. To argue.
        ==

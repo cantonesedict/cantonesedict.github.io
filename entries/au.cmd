@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> au
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -531,7 +531,7 @@ C
   ==
 E
   ====
-  - 【漚泥】 (au3 nai4):
+  - 【漚泥】 (au3 nai4)
     ++
     1. To rot in mud. Used to express discontent, contempt, etc.
     ++

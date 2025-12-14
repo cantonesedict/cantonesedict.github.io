@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zek
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -72,7 +72,7 @@ W
   [[Not present]]
 E
   ====
-  - 【唧】 (zek1):
+  - 【唧】 (zek1)
     ++
     1. An final particle of emphasis or emotion.
        ==

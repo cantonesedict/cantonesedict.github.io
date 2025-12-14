@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zung
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> "2023, "
 
 %%%
@@ -148,7 +148,7 @@ C
   ==
 E
   ====
-  - 【中意】 (zung1 ji3):
+  - 【中意】 (zung1 ji3)
     ++
     1. To like. Also spelt 鍾意.
        ==
@@ -156,7 +156,7 @@ E
        - 唔中意佢 (m4 zung1 ji3 keoi5): "[I] don't like him."
        ==
     ++
-  - 【中文】 (zung1 man4-2):
+  - 【中文】 (zung1 man4-2)
     ++
     1. The Chinese language, as realised through spoken Cantonese.
        ==
@@ -1053,7 +1053,7 @@ P
   ++
 E
   ====
-  - 【鐘】 (zung1):
+  - 【鐘】 (zung1)
     ++
     1. An hour.
        ==
@@ -2265,7 +2265,7 @@ P
   ++
 E
   ====
-  - 【重】 (zung6):
+  - 【重】 (zung6)
     ++
     1. Even more, still.
        ==

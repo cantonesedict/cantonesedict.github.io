@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -195,14 +195,14 @@ C
   ==
 E
   ====
-  - 【話齋】 (waa6 zaai1): <## TODO: move under 話 waa6 ##>
+  - 【話齋】 (waa6 zaai1) <## TODO move under 話 waa6 ##>
     ++
     1. Emphatic form of "[as he] said".
       ==
       - 好似佢話齋 (hou2 ci5 keoi5 waa6 zaai1): "As he said."
       ==
     ++
-  - 【齋】 (zaai1):
+  - 【齋】 (zaai1)
     ++
     1. Vegetarian food.
        ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -234,7 +234,7 @@ C
   ==
 E
   ====
-  - 【樽】 (zeon1):
+  - 【樽】 (zeon1)
     ++
     1. A bottle.
        ==
@@ -1809,7 +1809,7 @@ C
   ==
 E
   ====
-  - 【盡地】 (zeon6 dei6-2):
+  - 【盡地】 (zeon6 dei6-2)
     ++
     1. Fully, to the extent possible, all in.
     ++

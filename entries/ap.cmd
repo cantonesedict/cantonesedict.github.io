@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ap
-* %date-modified --> 2025-11-07
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -100,7 +100,7 @@ W
   ====
 E
   ====
-  - 【洽】 (ap1):
+  - 【洽】 (ap1)
     ++
     1. To cover and keep wet (when undesirable to do so).
     ++

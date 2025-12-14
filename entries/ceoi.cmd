@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -177,7 +177,7 @@ C
   ==
 E
   ====
-  - 【吹】 (ceoi1):
+  - 【吹】 (ceoi1)
     ++
     1. Short for [吹水](#cantonese-吹水).
     1. Short for [吹脹](#cantonese-吹脹) in the rhetorical interrogative sense,
@@ -188,7 +188,7 @@ E
        - 吹咩 (ceoi1 me1): "[Gonna] rile [me]?" (i.e. what can you do in response?)
        ==
     ++
-  - 【吹水】 (ceoi1 seoi2):
+  - 【吹水】 (ceoi1 seoi2)
     ++
     1. To brag, to boast, to exaggerate.
        ==
@@ -200,7 +200,7 @@ E
        - 得閒吹吓水 (dak1 haan4 ceoi1 haa5 seoi2): "[When we're] free [let's] have [a] chat."
        ==
     ++
-  - 【吹脹】 (ceoi1 zoeng3):
+  - 【吹脹】 (ceoi1 zoeng3)
     ++
     1. To vex, to irk.
        ==
@@ -996,11 +996,11 @@ C
   ==
 E
   ====
-  - 【扑扑脆】 (bok1 bok1 ceoi3):
+  - 【扑扑脆】 (bok1 bok1 ceoi3)
     ++
     1. Crispy. (Also heard as lok1 lok1 ceoi3, or ngok1 ngok1 ceoi3.)
     ++
-  - 【脆扑扑】 (ceoi3 bok1 bok1):
+  - 【脆扑扑】 (ceoi3 bok1 bok1)
     ++
     1. Crispy.
     ++
@@ -1229,7 +1229,7 @@ W
   ====
 E
   ====
-  - 【{𡃴=⿰口隨}】 (ceoi4):
+  - 【{𡃴=⿰口隨}】 (ceoi4)
     ++
     1. A smell or odour.
        ==
@@ -1714,14 +1714,14 @@ C
   ==
 E
   ====
-  - 【錘】 (ceoi4):
+  - 【錘】 (ceoi4)
     ++
     1. A punch with the fist.
        ==
        - 打佢兩錘 (daa2 keoi5 loeng5 ceoi4): "Hit him [with] two blows."
        ==
     ++
-  - 【錘仔】 (ceoi4 zai2):
+  - 【錘仔】 (ceoi4 zai2)
     ++
     1. A hammer.
     ++
@@ -1810,7 +1810,7 @@ W
   ====
 E
   ====
-  - 【除】 (ceoi4):
+  - 【除】 (ceoi4)
     ++
     1. To remove clothing, accessories, footwear, etc.
        ==
