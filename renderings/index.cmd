@@ -13,6 +13,10 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 - queue_position: AFTER #.boilerplate.footer
 * %black-serif-note -->
 
+ReplacementSequence: #.ensure-baxter
+- queue_position: BEFORE #inline-code
+- replacements: #.syntax.baxter
+
 %%%
 
 #{.modern} %title
@@ -76,16 +80,16 @@ window.onload = applyFilter;
     ; Entry link
 |:
   //
-    , 'ae
+    , `'ae`
     , [鴉](/entries/aa#rendering-鴉)
   //
-    , 'aeX
+    , `'aeX`
     , [啞](/entries/aa#rendering-啞)
   //
-    , 'aeH
+    , `'aeH`
     , [亞](/entries/aa#rendering-亞)
   //
-    , tshit
+    , `tshit`
     , [七](/entries/cat#rendering-七)
 ''
 ||||

@@ -3480,7 +3480,7 @@ class Linter:
             [
                 [
                     f'  //',
-                    f'    , {baxter}',
+                    f'    , `{baxter}`',
                     f'    , [{link_text}{parenthetical_suffix}]({url})',
                 ]
                 for split_literary_rendering in split_literary_renderings
