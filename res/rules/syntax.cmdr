@@ -197,7 +197,7 @@ RegexDictionaryReplacement: #.syntax.cantonese-entries
       [ ] \( (?P<readings> .*? ) \)
     -->
   -{#cantonese-(|\g<term>|)\g<disambiguation>}
-    []{.permalink aria-label=Permalink}(#cantonese-(|\g<term>|)\g<disambiguation>)【\g<term>】 (\g<readings>):
+    []{.permalink aria-label=Permalink}(#cantonese-(|\g<term>|)\g<disambiguation>)【\g<term>】 (\g<readings>)
 - concluding_replacements: #.syntax.strip-compositions
 
 
