@@ -2024,6 +2024,7 @@ class CharacterEntry:
     alternative_forms: Optional[list['AlternativeForm']]
     reading_variations: Optional[list['ReadingVariation']]
     cantonese_entries: Optional[list['CantoneseEntry']]
+    literary_renderings: Optional[list['LiteraryRendering']]
     see_also_links: Optional[list['SeeAlsoLink']]
 
     def __init__(self, heading_content: str, addition: str, character_run: str, tone_number: str, williams_run: str,
@@ -2095,6 +2096,8 @@ class CharacterEntry:
         e_content = content_from_key.get('E')
         alternative_forms = CharacterEntry.extract_alternative_forms(content_from_key.get('A'), jyutping)
         reading_variations = CharacterEntry.extract_reading_variations(content_from_key.get('V'))
+        literary_renderings = CharacterEntry.extract_literary_renderings(content_from_key.get('L'),
+                                                                         page_heading_jyutping)
         cantonese_entries = CharacterEntry.extract_cantonese_entries(e_content, page_heading_jyutping)
         see_also_links = CharacterEntry.extract_see_also_links(content_from_key.get('S'))
 
@@ -2129,6 +2132,7 @@ class CharacterEntry:
         self.p_content = p_content
         self.alternative_forms = alternative_forms
         self.reading_variations = reading_variations
+        self.literary_renderings = literary_renderings
         self.cantonese_entries = cantonese_entries
         self.see_also_links = see_also_links
 
@@ -2483,6 +2487,30 @@ class CharacterEntry:
         ]
 
     @staticmethod
+    def extract_literary_renderings(content: Optional[str], page_heading_jyutping: str
+                                    ) -> Optional[list['LiteraryRendering']]:
+        if content is None:
+            return None
+
+        return [
+            LiteraryRendering(term, disambiguation_suffix, baxter_content, page_heading_jyutping)
+            for match in re.finditer(
+                pattern=r'''
+                    ^ [ ]+ [*][ ]
+                    【 (?P<term> [^\s-]+ ) (?P<disambiguation_suffix> \S* ) 】
+                    [ ] \( (?P<baxter_content> .* ) \)
+                ''',
+                string=content,
+                flags = re.MULTILINE | re.VERBOSE,
+            )
+            if (
+                term := match.group('term'),
+                disambiguation_suffix := match.group('disambiguation_suffix'),
+                baxter_content := match.group('baxter_content'),
+            )
+        ]
+
+    @staticmethod
     def extract_cantonese_entries(content: Optional[str], page_heading_jyutping: str
                                   ) -> Optional[list['CantoneseEntry']]:
         if content is None:
@@ -2680,6 +2708,25 @@ class SeeAlsoLink:
         return f'${self.character_content}{self.jyutping}'
 
 
+class LiteraryRendering:
+    term: str
+    disambiguation_suffix: str
+    baxter_list: list[str]
+    page_heading_jyutping: str
+
+    def __init__(self, term: str, disambiguation_suffix: str, baxter_content: str, page_heading_jyutping: str):
+        baxter_list = baxter_content.replace('`', '').split(sep=', ')
+        baxter_set = set(baxter_list)
+
+        if len(baxter_set) < len(baxter_list):
+            raise LintException(f'duplicate Baxter transcriptions in "{baxter_content}" for literary term `{term}`')
+
+        self.term = term
+        self.disambiguation_suffix = disambiguation_suffix
+        self.baxter_list = baxter_list
+        self.page_heading_jyutping = page_heading_jyutping
+
+
 class CantoneseEntry:
     term: str
     disambiguation_suffix: str
@@ -2718,6 +2765,7 @@ class CantoneseEntry:
             CantoneseEntry(self.term, self.disambiguation_suffix, split_jyutping, self.page_heading_jyutping)
             for split_jyutping in self.jyutping_list
         ]
+
 
 class Linter:
     cmd_sources: list['CmdSource']
