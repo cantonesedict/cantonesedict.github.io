@@ -2768,6 +2768,13 @@ class LiteraryRendering:
         url_fragment = f'literary-{CmdIdioms.strip_compositions(self.term)}{self.disambiguation_suffix}'
         return f'/{url_path}#{url_fragment}'
 
+    def split(self) -> list['LiteraryRendering']:
+        return [
+            LiteraryRendering(self.term, self.disambiguation_suffix, split_baxter,
+                              self.character, self.page_heading_jyutping)
+            for split_baxter in self.baxter_list
+        ]
+
 
 class CantoneseEntry:
     term: str
@@ -2813,6 +2820,7 @@ class Linter:
     cmd_sources: list['CmdSource']
     entry_pages: list['EntryPage']
     character_entries: list['CharacterEntry']
+    literary_renderings: list['LiteraryRendering']
     cantonese_entries: list['CantoneseEntry']
 
     def __init__(self):
@@ -2867,6 +2875,7 @@ class Linter:
         self.cmd_sources = cmd_sources
         self.entry_pages = entry_pages
         self.character_entries = character_entries
+        self.literary_renderings = literary_renderings
         self.cantonese_entries = cantonese_entries
 
     def index_intrapage(self):
@@ -2875,6 +2884,7 @@ class Linter:
 
     def index_interpage(self):
         self.index_entries()  # entry pages by Jyutping
+        self.index_renderings()  # literary renderings by Baxter notation
         self.index_terms()  # Cantonese terms by Jyutping
         self.index_search()  # characters and compositions
         self.index_radicals()  # characters by radical
@@ -2938,6 +2948,24 @@ class Linter:
             return
 
         with open('entries/index.cmd', 'w', encoding='utf-8') as write_file:
+            write_file.write(new_content)
+
+    def index_renderings(self):
+        split_literary_renderings = sorted(
+            split_literary_rendering
+            for literary_rendering in self.literary_renderings
+            for split_literary_rendering in literary_rendering.split()
+        )
+
+        with open('renderings/index.cmd', 'r', encoding='utf-8') as read_file:
+            new_content = content = read_file.read()
+
+        new_content = Linter._replace_renderings_table(new_content, split_literary_renderings)
+
+        if new_content == content:
+            return
+
+        with open('renderings/index.cmd', 'w', encoding='utf-8') as write_file:
             write_file.write(new_content)
 
     def index_terms(self):
@@ -3434,6 +3462,47 @@ class Linter:
         return re.sub(
             pattern='<## entries ##>.*?<## /entries ##>',
             repl=Utilities.literal_replacement_pattern(entry_links_content_expected),
+            string=content,
+            flags=re.DOTALL,
+        )
+
+    @staticmethod
+    def _replace_renderings_table(content: str, split_literary_renderings: list['LiteraryRendering']) -> str:
+        renderings_table_content_expected = Utilities.nested_newline_join([
+            "<## renderings-table ##>",
+            "||||{.wide}",
+            "''{.modern}",
+            "|^",
+            "  //",
+            "    ; Baxter notation",
+            "    ; Entry link",
+            "|:",
+            [
+                [
+                    f'  //',
+                    f'    , {baxter}',
+                    f'    , [{link_text}{parenthetical_suffix}]({url})',
+                ]
+                for split_literary_rendering in split_literary_renderings
+                if (
+                    baxter := split_literary_rendering.baxter_list[0],
+                    link_text := split_literary_rendering.term,
+                    parenthetical_suffix := re.sub(
+                        pattern='-(?P<sense>.*)',
+                        repl=r'~(\g<sense>)',
+                        string=split_literary_rendering.disambiguation_suffix,
+                    ),
+                    url := split_literary_rendering.url(),
+                )
+            ],
+            "''",
+            "||||",
+            "<## /renderings-table ##>",
+        ])
+
+        return re.sub(
+            pattern='<## renderings-table ##>.*?<## /renderings-table ##>',
+            repl=Utilities.literal_replacement_pattern(renderings_table_content_expected),
             string=content,
             flags=re.DOTALL,
         )

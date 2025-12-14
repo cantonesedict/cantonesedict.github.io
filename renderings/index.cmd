@@ -75,6 +75,18 @@ window.onload = applyFilter;
     ; Baxter notation
     ; Entry link
 |:
+  //
+    , 'ae
+    , [鴉](/entries/aa#literary-鴉)
+  //
+    , 'aeX
+    , [啞](/entries/aa#literary-啞)
+  //
+    , 'aeH
+    , [亞](/entries/aa#literary-亞)
+  //
+    , tshit
+    , [七](/entries/cat#literary-七)
 ''
 ||||
 <## /renderings-table ##>
