@@ -2856,7 +2856,7 @@ class Linter:
             Linter.lint_character_entry_reading_variation_reciprocation(character_entries)
             Linter.lint_character_entry_alternative_form_redirect_reciprocation(character_entries)
             Linter.lint_character_entry_reading_variation_redirect_reciprocation(character_entries)
-            Linter.lint_character_entry_literary_rendering_reciprocation(character_entries)
+            Linter.lint_character_entry_literary_rendering_belonging(character_entries)
             Linter.lint_character_entry_see_also_reciprocation(character_entries)
             Linter.lint_literary_rendering_url_duplication(literary_renderings)
             Linter.lint_cantonese_entry_url_duplication(cantonese_entries)
@@ -3318,7 +3318,7 @@ class Linter:
                         )
 
     @staticmethod
-    def lint_character_entry_literary_rendering_reciprocation(character_entries: list['CharacterEntry']):
+    def lint_character_entry_literary_rendering_belonging(character_entries: list['CharacterEntry']):
         for character_entry in character_entries:
             character = character_entry.character
 
@@ -3328,8 +3328,6 @@ class Linter:
             for literary_rendering in literary_renderings:
                 if character not in (term := literary_rendering.term):
                     raise LintException(f'literary rendering for `{term}` does not belong under `{character_entry}`')
-
-                # TODO: actual reciprocation check
 
     @staticmethod
     def lint_character_entry_see_also_reciprocation(character_entries: list['CharacterEntry']):
