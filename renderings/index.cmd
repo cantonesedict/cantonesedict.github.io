@@ -95,6 +95,9 @@ window.onload = applyFilter;
     , `'eak`
     , [軛](/entries/aak#rendering-軛)
   //
+    , `homX domX`
+    , [菡萏](/entries/aam#rendering-菡萏)
+  //
     , `tshit`
     , [七](/entries/cat#rendering-七)
 ''

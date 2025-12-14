@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aam
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-12-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -75,6 +75,13 @@ W
         [[aam2 daam6 菡萏]]^,
         the lotus flower;
     - a poetical name.
+    ==
+  ====
+L
+  ====
+  * 【菡萏】 (`homX domX`)
+    ==
+    - (_noun-like_) lotus flower
     ==
   ====
 S
