@@ -202,7 +202,7 @@ RegexDictionaryReplacement: #.syntax.cantonese-entries
 
 RegexDictionaryReplacement: #.syntax.literary-renderings
 - queue_position: BEFORE #.syntax.entries
-* [*] [ ] (?P<term> \S+ ) [ ] \( (?P<readings> .*? ) \)
+* [*] [ ] (?P<term> [^\s-]+ ) (?P<disambiguation> [\S]* ) [ ] \( (?P<readings> .*? ) \)
      -->
   \g<0>
 - concluding_replacements: #.syntax.baxter
