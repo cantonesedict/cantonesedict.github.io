@@ -2097,7 +2097,7 @@ class CharacterEntry:
         alternative_forms = CharacterEntry.extract_alternative_forms(content_from_key.get('A'), jyutping)
         reading_variations = CharacterEntry.extract_reading_variations(content_from_key.get('V'))
         literary_renderings = CharacterEntry.extract_literary_renderings(content_from_key.get('L'),
-                                                                         page_heading_jyutping)
+                                                                         character, page_heading_jyutping)
         cantonese_entries = CharacterEntry.extract_cantonese_entries(e_content, page_heading_jyutping)
         see_also_links = CharacterEntry.extract_see_also_links(content_from_key.get('S'))
 
@@ -2112,6 +2112,7 @@ class CharacterEntry:
         CharacterEntry.lint_fan_wan_same_romanisation(williams_run, f_content, heading_content)
 
         CharacterEntry.lint_reading_variation_order(reading_variations)
+        # TODO: CharacterEntry.lint_literary_rendering_order(literary_renderings)
         CharacterEntry.lint_cantonese_entry_order(cantonese_entries)
         CmdIdioms.lint_see_also_link_order(see_also_links)
 
@@ -2487,13 +2488,13 @@ class CharacterEntry:
         ]
 
     @staticmethod
-    def extract_literary_renderings(content: Optional[str], page_heading_jyutping: str
+    def extract_literary_renderings(content: Optional[str], character: str, page_heading_jyutping: str
                                     ) -> Optional[list['LiteraryRendering']]:
         if content is None:
             return None
 
         return [
-            LiteraryRendering(term, disambiguation_suffix, baxter_content, page_heading_jyutping)
+            LiteraryRendering(term, disambiguation_suffix, baxter_content, character, page_heading_jyutping)
             for match in re.finditer(
                 pattern=r'''
                     ^ [ ]+ [*][ ]
@@ -2714,7 +2715,8 @@ class LiteraryRendering:
     baxter_list: list[str]
     page_heading_jyutping: str
 
-    def __init__(self, term: str, disambiguation_suffix: str, baxter_content: str, page_heading_jyutping: str):
+    def __init__(self, term: str, disambiguation_suffix: str, baxter_content: str, character: str,
+                 page_heading_jyutping: str):
         baxter_list = baxter_content.replace('`', '').split(sep=', ')
         baxter_set = set(baxter_list)
 
@@ -2724,6 +2726,7 @@ class LiteraryRendering:
         self.term = term
         self.disambiguation_suffix = disambiguation_suffix
         self.baxter_list = baxter_list
+        self.character = character
         self.page_heading_jyutping = page_heading_jyutping
 
 
@@ -2807,6 +2810,7 @@ class Linter:
             Linter.lint_character_entry_reading_variation_reciprocation(character_entries)
             Linter.lint_character_entry_alternative_form_redirect_reciprocation(character_entries)
             Linter.lint_character_entry_reading_variation_redirect_reciprocation(character_entries)
+            Linter.lint_character_entry_literary_rendering_reciprocation(character_entries)
             Linter.lint_character_entry_see_also_reciprocation(character_entries)
             Linter.lint_cantonese_entry_url_duplication(cantonese_entries)
         except LintException as lint_exception:
@@ -3265,6 +3269,20 @@ class Linter:
                         raise LintException(
                             f'missing (effective) reading variation `{jyutping}` under `{linked_character_entry}`'
                         )
+
+    @staticmethod
+    def lint_character_entry_literary_rendering_reciprocation(character_entries: list['CharacterEntry']):
+        for character_entry in character_entries:
+            character = character_entry.character
+
+            if (literary_renderings := character_entry.literary_renderings) is None:
+                continue
+
+            for literary_rendering in literary_renderings:
+                if character not in (term := literary_rendering.term):
+                    raise LintException(f'literary rendering for `{term}` does not belong under `{character_entry}`')
+
+                # TODO: actual reciprocation check
 
     @staticmethod
     def lint_character_entry_see_also_reciprocation(character_entries: list['CharacterEntry']):
