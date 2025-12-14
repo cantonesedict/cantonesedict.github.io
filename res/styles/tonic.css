@@ -191,7 +191,7 @@ li:is([id^='cantonese-'], [id^='rendering-']):not(:last-child) {
 li[id^='cantonese-'] > ol, li[id^='rendering-'] > ul {
   padding-left: 3em;
 }
-:is(li[id^='cantonese-'] > ol, li[id^='rendering-'] > ul) > li {
+li[id^='cantonese-'] > ol > li {
   margin-top: 0.2em;
 }
 
