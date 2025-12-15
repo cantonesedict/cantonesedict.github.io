@@ -146,6 +146,12 @@ window.onload = applyFilter;
     , `'eak`
     , [阨](/entries/ak#rendering-阨)
   //
+    , `'eam`
+    , [黯](/entries/am#rendering-黯)
+  //
+    , `'eamX`
+    , [黯](/entries/am#rendering-黯)
+  //
     , `'eang`
     , [罌](/entries/aang#rendering-罌)
   //
@@ -166,6 +172,12 @@ window.onload = applyFilter;
   //
     , `'jieH`
     , [縊](/entries/ai#rendering-縊)
+  //
+    , `'omH`
+    , [暗](/entries/am#rendering-暗)
+  //
+    , `'omH`
+    , [闇](/entries/am#rendering-闇)
   //
     , `homX domX`
     , [菡萏](/entries/aam#rendering-菡萏)

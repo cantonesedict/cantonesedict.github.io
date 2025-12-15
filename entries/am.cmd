@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2025-12-14
+* %date-modified --> 2025-12-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -516,7 +516,7 @@ W
     - To shut the door [[Kangxi: 閉門也]], to withdraw from society, to retire from;
     - retired, dark, an obscure recess [[Kangxi: 冥也, 幽也]];
     - ignorant, dark minded;
-    - badly lighted [[Kangxi: 不明也]];
+    - badly lighted``, unenlightened`` [[Kangxi: 不明也]];
     - evening [[Kangxi: 闇夜也]];
     - an eclipse [[Kangxi: 闇日月食也]];
     - _(2)(o\)m (4)m(u/)n ts(e/)(6) h(a/)k(8)_
@@ -525,6 +525,14 @@ W
     - _(2)(o\)m y(e/)uk(9)_
         [[am2 joek6 闇弱]]
         unenlightened.
+    ==
+  ====
+L
+  ====
+  * 【闇】 ('omH)
+    ==
+    - (_verb-like_) [to] shut away, [to] conceal
+    - (_adjective-like_) gloomy, unenlightened
     ==
   ====
 S
@@ -563,6 +571,14 @@ P
   ++
   1. Saddened at parting (Kangxi: 黯然傷別貌).
   ++
+L
+  ====
+  * 【黯】 ('eamX, 'eam)
+    ==
+    - (_noun-like_) pitch-black
+    - (_adjective-like_) dejected
+    ==
+  ====
 $$
 
 
@@ -636,6 +652,14 @@ W
     - _(o\)m(3) hoi(6)_
         [[am3 hoi6 暗害]]
         to privily injure.
+    ==
+  ====
+L
+  ====
+  * 【暗】 ('omH)
+    ==
+    - (_adjective-like_) dark, dim
+    - (_adjective-like_) covert
     ==
   ====
 E
