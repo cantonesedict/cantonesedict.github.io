@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aak
-* %date-modified --> 2025-12-14
+* %date-modified --> 2025-12-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -71,6 +71,7 @@ W
 P
   ++
   1. Reading variation. **See $厄ak1 for the canonical entry.**
+  1. Alternative form of 軛. **See $軛aak1 for the canonical entry.**
   ++
 S
   ==
@@ -155,6 +156,10 @@ R
   ⾞ + 4
 U
   U+8EDB
+A
+  ==
+  - $厄1
+  ==
 V
   ==
   - ak1 (shorter syllable)
