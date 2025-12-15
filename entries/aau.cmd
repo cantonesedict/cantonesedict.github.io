@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aau
-* %date-modified --> 2025-12-14
+* %date-modified --> 2025-12-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -158,6 +158,13 @@ C
   ==
   - Williams' "to drag along": This is a misreading of Kangxi 手拉也.
   ==
+L
+  ====
+  * 【拗】 ('aewX)
+    ==
+    - (_verb-like_) [to] snap
+    ==
+  ====
 E
   ====
   - 【拗】 (aau2)
@@ -272,6 +279,13 @@ C
   - The reading _(a/)u(3)_ (aau3) is not unattested;
     Kangxi has 《集韻》於敎切音拗義同.
   ==
+L
+  ====
+  * 【坳】 ('aew, 'aewH)
+    ==
+    - (_noun-like_) depression, uneven-ground
+    ==
+  ====
 S
   ==
   - $坳aau1
