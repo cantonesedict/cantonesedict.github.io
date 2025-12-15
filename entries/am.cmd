@@ -162,22 +162,45 @@ $$
 
 ###+ 諳1 | _(1)(O\)m_ [[am1]]
 
-$$.
+$$
 R
   ⾔ + 9
 U
   U+8AF3
+A
+  ==
+  - $闇1
+  ==
+V
+  ==
+  - am2 (per Fan Wan)
+  - ngam1 (hypercorrected initial)
+  ==
 F
-  [[Not present]]
+  ==
+  - (F2.87 諳 _(2)(O\)m_ (am2)) 諳練曉也
+  ==
 W
-  [[Not present]]
-P
-  ++
-  1. Reading variation. **See $諳am2 for the canonical entry.**
-  ++
+  ====
+  - [[Page~342 (2)諳 _(2)(O\)m_ (am2); here normalised to _(1)(O\)m_ (am1)]]
+    ==
+    - Accustomed, skilled in, versed [[Kangxi: 練也歷也, 熟聞也]];
+    - to know, fully acquainted with [[Kangxi: 悉也, 知也, 曉也]];
+    - knowing thoroughly, to commit to memory [[Kangxi: 記也, 憶也]], to recite, to chant or repeat [[Kangxi: 誦也大聲也]];
+    - _~~(2)(o\)m~~ ``(1)(o\)m`` l(i/)n(6)_
+        [[am1 lin6 諳練]]
+        well practiced in, mature;
+    - _(4)'m ~~(2)(o\)m~~ ``(1)(o\)m`` shai(3) (4)ts(')ing_
+        [[m4 am1 sai3 cing4 唔諳世情]],
+        unacquainted with the world;
+    - _~~(2)(o\)m~~ ``(1)(o\)m`` tsung(6)_
+        [[am1 zung6 諳誦]]
+        to repeat exactly.
+    ==
+  ====
 S
   ==
-  - $諳am2
+  - ($諳am2)
   ==
 $$
 
@@ -194,7 +217,7 @@ W
   [[Not present]]
 P
   ++
-  1. Alternative form of 諳 (for the "well-versed" sense), and reading variation. **See $諳am2 for the canonical entry.**
+  1. Alternative form of 諳 (for the "well-versed" sense). **See $諳am1 for the canonical entry.**
   ++
 S
   ==
@@ -478,20 +501,11 @@ $$
 
 ### 諳2 | _(2)(O\)m_ [[am2]]
 
-$$
+$$.
 R
   ⾔ + 9
 U
   U+8AF3
-A
-  ==
-  - $闇2 (for "well-versed" sense)
-  ==
-V
-  ==
-  - am1 (per 《廣韻》烏含切)
-  - ngam2 (hypercorrected initial)
-  ==
 F
   ==
   - (F2.87 諳) 諳練曉也
@@ -499,24 +513,13 @@ F
 W
   ====
   - [[Page~342 (2)諳]]
-    ==
-    - Accustomed, skilled in, versed [[Kangxi: 練也歷也, 熟聞也]];
-    - to know, fully acquainted with [[Kangxi: 悉也, 知也, 曉也]];
-    - knowing thoroughly, to commit to memory [[Kangxi: 記也, 憶也]], to recite, to chant or repeat [[Kangxi: 誦也大聲也]];
-    - _(2)(o\)m l(i/)n(6)_
-        [[am2 lin6 諳練]]
-        well practiced in, mature;
-    - _(4)'m (2)(o\)m shai(3) (4)ts(')ing_
-        [[m4 am2 sai3 cing4 唔諳世情]],
-        unacquainted with the world;
-    - _(2)(o\)m tsung(6)_
-        [[am2 zung6 諳誦]]
-        to repeat exactly.
-    ==
+    --
+    [[Reading variation. **See $諳am1 for the canonical entry.**]]
+    --
   ====
 S
   ==
-  - ($諳am1)
+  - $諳am1
   ==
 $$
 
@@ -553,9 +556,6 @@ W
         [[am2 joek6 闇弱]]
         unenlightened.
     ==
-    --
-    [[Otherwise, an alternative form of 諳 (for the "well-versed" sense). **See $諳am2 for the canonical entry.**]]
-    --
   ====
 L
   ====
