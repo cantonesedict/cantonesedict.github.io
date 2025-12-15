@@ -113,6 +113,15 @@ window.onload = applyFilter;
     , `'aewH`
     , [坳](/entries/aau#rendering-坳)
   //
+    , `'aewk`
+    , [幄](/entries/ak#rendering-幄)
+  //
+    , `'aewk`
+    , [握](/entries/ak#rendering-握)
+  //
+    , `'aewk`
+    , [渥](/entries/ak#rendering-渥)
+  //
     , `'at`
     , [遏](/entries/aat#rendering-遏)
   //
@@ -130,6 +139,9 @@ window.onload = applyFilter;
   //
     , `'eak`
     , [軛](/entries/aak#rendering-軛)
+  //
+    , `'eak`
+    , [阨](/entries/ak#rendering-阨)
   //
     , `'eang`
     , [罌](/entries/aang#rendering-罌)

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ak
-* %date-modified --> 2025-12-13
+* %date-modified --> 2025-12-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -169,6 +169,13 @@ W
     - to protect, to shelter.
     ==
   ====
+L
+  ====
+  * 【幄】 ('aewk)
+    ==
+    - (_noun-like_) tent, canopy
+    ==
+  ====
 $$
 
 ### 握1 | _Ak(7)_ [[ak1]]
@@ -211,6 +218,13 @@ C
   ==
   - Most modern speakers prefer the longer syllable _(a/)k(7)_ (aak1).
   ==
+L
+  ====
+  * 【握】 ('aewk)
+    ==
+    - (_verb-like_) [to] grasp
+    ==
+  ====
 S
   ==
   - ($握aak1)
@@ -257,6 +271,13 @@ C
   ==
   - Fan Wan entry: Corrected 沽 to 沾.
   ==
+L
+  ====
+  * 【渥】 ('aewk)
+    ==
+    - (_verb-like_) [to] moisten, [to] imbue
+    ==
+  ====
 $$
 
 ### 阨1 | _Ak(7)_ [[ak1]]
@@ -302,6 +323,13 @@ C
   - Most modern speakers prefer the longer syllable _(a/)k(7)_ (aak1).
   - Williams' "embarrassed": In the (now) archaic sense of "impeded", "obstructed".
   ==
+L
+  ====
+  * 【阨】 ('eak)
+    ==
+    - (_noun-like_) pass
+    ==
+  ====
 S
   ==
   - ($阨aai3)
