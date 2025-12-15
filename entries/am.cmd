@@ -221,8 +221,8 @@ P
   ++
 S
   ==
-  - $闇am2
-  - ($闇am3)
+  - ($闇am2)
+  - $闇am3
   ==
 $$
 
@@ -525,16 +525,11 @@ $$
 
 ### 闇2 | _(2)(O\)m_ [[am2]]
 
-$$
+$$.
 R
   ⾨ + 9
 U
   U+95C7
-V
-  ==
-  - am3 (per 《廣韻》烏紺切)
-  - ngam2 (hypercorrected initial)
-  ==
 F
   ==
   - (F2.87 闇) 暗也
@@ -542,33 +537,14 @@ F
 W
   ====
   - [[Page~342 (2)闇]]
-    ==
-    - To shut the door [[Kangxi: 閉門也]], to withdraw from society, to retire from;
-    - retired, dark, an obscure recess [[Kangxi: 冥也, 幽也]];
-    - ignorant, dark minded;
-    - badly lighted``, unenlightened`` [[Kangxi: 不明也]];
-    - evening [[Kangxi: 闇夜也]];
-    - an eclipse [[Kangxi: 闇日月食也]];
-    - _(2)(o\)m (4)m(u/)n ts(e/)(6) h(a/)k(8)_
-        [[am2 mun4 ze6 haak3 闇門謝客]]
-        to decline to see friends;
-    - _(2)(o\)m y(e/)uk(9)_
-        [[am2 joek6 闇弱]]
-        unenlightened.
-    ==
-  ====
-L
-  ====
-  * 【闇】 ('omH)
-    ==
-    - (_verb-like_) [to] shut away, [to] conceal
-    - (_adjective-like_) gloomy, unenlightened
-    ==
+    --
+    [[Reading variation. **See $闇am3 for the canonical entry.**]]
+    --
   ====
 S
   ==
   - ($闇am1)
-  - ($闇am3)
+  - $闇am3
   ==
 $$
 
@@ -708,23 +684,52 @@ $$
 
 ###+ 闇3 | _(O\)m(3)_ [[am3]]
 
-$$.
+$$
 R
   ⾨ + 9
 U
   U+95C7
+V
+  ==
+  - am2 (per Fan Wan)
+  - ngam3 (hypercorrected initial)
+  ==
 F
-  [[Not present]]
+  ==
+  - (F2.87 闇 _(2)(O\)m_ (am2)) 暗也
+  ==
 W
-  [[Not present]]
-P
-  ++
-  1. Reading variation. **See $闇am2 for the canonical entry.**
-  1. Alternative form of 暗. **See $暗am3 for the canonical entry.**
-  ++
+  ====
+  - [[Page~342 (2)闇 _(2)(O\)m_ (am2); here normalised to _(O\)m(3)_ (am3)]]
+    ==
+    - To shut the door [[Kangxi: 閉門也]], to withdraw from society, to retire from;
+    - retired, dark, an obscure recess [[Kangxi: 冥也, 幽也]];
+    - ignorant, dark minded;
+    - badly lighted``, unenlightened`` [[Kangxi: 不明也]];
+    - evening [[Kangxi: 闇夜也]];
+    - an eclipse [[Kangxi: 闇日月食也]];
+    - _~~(2)(o\)m~~ ``(o\)m(3)`` (4)m(u/)n ts(e/)(6) h(a/)k(8)_
+        [[am3 mun4 ze6 haak3 闇門謝客]]
+        to decline to see friends;
+    - _~~(2)(o\)m~~ ``(o\)m(3)`` y(e/)uk(9)_
+        [[am3 joek6 闇弱]]
+        unenlightened.
+    ==
+    --
+    [[Alternative form of 暗. See $暗am3.]]
+    --
+  ====
+L
+  ====
+  * 【闇】 ('omH)
+    ==
+    - (_verb-like_) [to] shut away, [to] conceal
+    - (_adjective-like_) gloomy, unenlightened
+    ==
+  ====
 S
   ==
   - ($闇am1)
-  - $闇am2
+  - ($闇am2)
   ==
 $$
