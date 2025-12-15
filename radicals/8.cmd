@@ -282,7 +282,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - {$闇am2, $闇am3}
+      - {$闇am1, $闇am2, $闇am3}
       ==
       </nav>
   //

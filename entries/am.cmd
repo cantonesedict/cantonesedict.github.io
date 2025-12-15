@@ -53,6 +53,7 @@ $$
 - $庵1
 - $菴1
 - $諳1
+- $闇1
 - $鵪1
 - $䳺1
 ==
@@ -177,6 +178,28 @@ P
 S
   ==
   - $諳am2
+  ==
+$$
+
+###+ 闇1 | _(1)(O\)m_ [[am1]]
+
+$$.
+R
+  ⾨ + 9
+U
+  U+95C7
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 諳 (for the "well-versed" sense), and reading variation. **See $諳am2 for the canonical entry.**
+  ++
+S
+  ==
+  - $闇am2
+  - ($闇am3)
   ==
 $$
 
@@ -460,6 +483,10 @@ R
   ⾔ + 9
 U
   U+8AF3
+A
+  ==
+  - $闇2 (for "well-versed" sense)
+  ==
 V
   ==
   - am1 (per 《廣韻》烏含切)
@@ -526,6 +553,9 @@ W
         [[am2 joek6 闇弱]]
         unenlightened.
     ==
+    --
+    [[Otherwise, an alternative form of 諳 (for the "well-versed" sense). **See $諳am2 for the canonical entry.**]]
+    --
   ====
 L
   ====
@@ -537,6 +567,7 @@ L
   ====
 S
   ==
+  - ($闇am1)
   - ($闇am3)
   ==
 $$
@@ -600,6 +631,10 @@ R
   ⽇ + 9
 U
   U+6697
+A
+  ==
+  - $闇3
+  ==
 V
   ==
   - am3-2 (rising second in vernacular 暗暗地)
@@ -685,9 +720,11 @@ W
 P
   ++
   1. Reading variation. **See $闇am2 for the canonical entry.**
+  1. Alternative form of 暗. **See $暗am3 for the canonical entry.**
   ++
 S
   ==
+  - ($闇am1)
   - $闇am2
   ==
 $$
