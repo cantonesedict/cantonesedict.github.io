@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ai
-* %date-modified --> 2025-12-14
+* %date-modified --> 2025-12-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -186,6 +186,13 @@ C
   - Williams' 矮佬仔: Corrected _(5)l(o\)_ (lou5) to _(2)l(o\)_ (lou2).
   - Williams' 畀張矮凳仔你坐: Corrected _tso(6)_ (zo6 去聲^) to _(5)ts(')o_ (co5 上聲^).
   ==
+L
+  ====
+  * 【矮】 ('eaX)
+    ==
+    - (_adjective-like_) short
+    ==
+  ====
 $$
 
 
@@ -272,6 +279,14 @@ C
   ==
   - Fan Wan entry: Corrected headword ${𦠉=⿰⺼壹}3 to 曀.
   ==
+L
+  ====
+  * 【曀】 ('ejH)
+    ==
+    - (_adjective-like_) (windily) overcast
+    - (_adjective-like_) obscured
+    ==
+  ====
 $$
 
 ### 縊3 | _Ai(3)_ [[ai3]]
@@ -307,6 +322,13 @@ C
   ==
   - Williams' "the warp of cloth": This is a misreading of Kangxi 經也.
   ==
+L
+  ====
+  * 【縊】 ('ejH, 'jieH)
+    ==
+    - (_verb-like_) [to] hang, [to] strangle
+    ==
+  ====
 $$
 
 ### 翳3 | _Ai(3)_ [[ai3]]
@@ -335,7 +357,7 @@ W
     - to destroy [[Kangxi: 一曰滅也]];
     - anything that intercepts;
     - an obscurity in the eyes;
-    - trees dying [[Kangxi: 木立死曰葘自死爲翳]];
+    - trees ~~dying~~ ``dead and not standing`` [[Kangxi: 木立死曰葘自死爲翳]];
     - a fabulous sort of pheasant [[Kangxi: 鳥名也似鳳]].
     ==
     --
@@ -360,6 +382,15 @@ W
     - _ai(3) chai(6)_
         [[ai3 zai6 翳滯]]
         indigestible.
+    ==
+  ====
+L
+  ====
+  * 【翳】 ('ejH, 'ej)
+    ==
+    - (_noun-like_) screen
+    - (_verb-like_) [to] screen, [to] cover (up)
+    - (_noun-like_) fallen-tree
     ==
   ====
 $$

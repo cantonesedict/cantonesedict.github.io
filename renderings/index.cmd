@@ -122,6 +122,9 @@ window.onload = applyFilter;
     , `'at`
     , [頞](/entries/aat#rendering-頞)
   //
+    , `'eaX`
+    , [矮](/entries/ai#rendering-矮)
+  //
     , `'eaH`
     , [隘](/entries/aai#rendering-隘)
   //
@@ -133,6 +136,21 @@ window.onload = applyFilter;
   //
     , `'eat`
     , [揠](/entries/aat#rendering-揠)
+  //
+    , `'ej`
+    , [翳](/entries/ai#rendering-翳)
+  //
+    , `'ejH`
+    , [曀](/entries/ai#rendering-曀)
+  //
+    , `'ejH`
+    , [縊](/entries/ai#rendering-縊)
+  //
+    , `'ejH`
+    , [翳](/entries/ai#rendering-翳)
+  //
+    , `'jieH`
+    , [縊](/entries/ai#rendering-縊)
   //
     , `homX domX`
     , [菡萏](/entries/aam#rendering-菡萏)
