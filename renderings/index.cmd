@@ -138,6 +138,9 @@ window.onload = applyFilter;
     , [隘](/entries/aai#rendering-隘)
   //
     , `'eak`
+    , [厄](/entries/ak#rendering-厄)
+  //
+    , `'eak`
     , [軛](/entries/aak#rendering-軛)
   //
     , `'eak`

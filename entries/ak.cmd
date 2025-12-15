@@ -68,6 +68,7 @@ U
 A
   ==
   - 戹
+  - $阨1 (for "adversity" sense)
   ==
 V
   ==
@@ -101,6 +102,17 @@ C
   - Most modern speakers prefer the longer syllable _(a/)k(7)_ (aak1).
   - Williams erroneously has {𢨪=⿸戶巳} for an alternative form instead of 戹.
   ==
+P
+  ++
+  1. Adversity, hardship.
+  ++
+L
+  ====
+  * 【厄】 ('eak)
+    ==
+    - (_noun-like_) adversity, hardship
+    ==
+  ====
 S
   ==
   - ($厄aak1)
@@ -317,6 +329,9 @@ W
         [[kwan3 ak1 困阨]]
         hampered, restrained.
     ==
+    --
+    [[Alternative form of 厄 (for the "adversity" sense). See $厄ak1.]]
+    --
   ====
 C
   ==
