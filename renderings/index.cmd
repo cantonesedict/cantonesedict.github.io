@@ -185,9 +185,6 @@ window.onload = applyFilter;
     , `homX domX`
     , [菡萏](/entries/aam#rendering-菡萏)
   //
-    , `kaengX`
-    , [哽](/entries/ang#rendering-哽)
-  //
     , `keat`
     , [恝](/entries/aat#rendering-恝)
   //

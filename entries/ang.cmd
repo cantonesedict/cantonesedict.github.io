@@ -170,16 +170,11 @@ $$
 
 ### 哽2 | _(2)Ang_ [[ang2]]
 
-$$
+$$.
 R
   ⼝ + 7
 U
   U+54FD
-V
-  ==
-  - gang2 (per 《廣韻》古杏切)
-  - ngang2 (hypercorrected initial)
-  ==
 F
   ==
   - (F2.31 哽) 鶯上聲哽咽
@@ -187,6 +182,25 @@ F
 W
   ====
   - [[Page~4 (2)哽]]
+    --
+    [[Reading variation. **See $哽gang2 for the canonical entry.**]] [[TODO]]
+    --
+    --
+    [[Otherwise, an alternative form of 㾘. **See $㾘ang2 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $哽gang2 (TODO)
+  - $哽kang2 (TODO)
+  ==
+$$
+
+<## TODO: move under $哽gang2
+V
+  ==
+  - ang2 (per Fan Wan)
+  ==
     ==
     - Stoppage in the throat [[Kangxi: 咽塞也]];
     - hesitation in speech from rage or impediment [[Kangxi: 語爲舌所介也, 語爲人所忿疑也]];
@@ -197,23 +211,14 @@ W
         [[ang2 sak1 哽塞]]
         unable to talk.
     ==
-    --
-    [[Otherwise, an alternative form of 㾘. **See $㾘ang2 for the canonical entry.**]]
-    --
-  ====
 L
   ====
-  * 【哽】 (kaengX)
+  \* 【哽】 (kaengX)
     ==
     - (_verb-like_) [to] choke
     ==
   ====
-S
-  ==
-  - $哽gang2 (TODO)
-  - $哽kang2 (TODO)
-  ==
-$$
+##>
 
 ### 㾘2 | _(2)Ang_ [[ang2]]
 
