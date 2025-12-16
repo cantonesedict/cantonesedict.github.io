@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ang
-* %date-modified --> 2025-12-14
+* %date-modified --> 2025-12-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -123,8 +123,8 @@ W
   ====
   - [[Page~4 (1)鶯]]
     ==
-    - The nightingale [[Kangxi: 鶯鳥也卽黃鸝]],
-      or a gay species of thrush that nestles on the willow and sings well;
+    - The nightingale or a gay species of thrush [[Kangxi: 鶯鳥也卽黃鸝]],
+      that nestles on the willow and sings well;
     - variegated plumes [[Kangxi: 鳥羽文]];
     - _(4)wong (1)ang_
         [[wong4 ang1 黃鶯]],
@@ -144,6 +144,14 @@ W
     - _p(')ek(8) kau(6) (4)ch(')(a/)i (1)ang_
         [[pek3 gau6 caai4 ang1 劈嚿柴鶯]],
         split this knot for me.
+    ==
+  ====
+L
+  ====
+  * 【鶯】 ('eang)
+    ==
+    - (_noun-like_) oriole
+    - (_adjective-like_) variegated
     ==
   ====
 $$
@@ -188,6 +196,13 @@ W
     - _(2)ang sak(7)_
         [[ang2 sak1 哽塞]]
         unable to talk.
+    ==
+  ====
+L
+  ====
+  * 【哽】 (kaengX)
+    ==
+    - (_verb-like_) [to] choke
     ==
   ====
 S
