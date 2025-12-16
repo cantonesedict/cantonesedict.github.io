@@ -197,6 +197,9 @@ W
         [[ang2 sak1 哽塞]]
         unable to talk.
     ==
+    --
+    [[Otherwise, an alternative form of 㾘. **See $㾘ang2 for the canonical entry.**]]
+    --
   ====
 L
   ====
@@ -219,6 +222,10 @@ R
   ⽧ + 7
 U
   U+3F98
+A
+  ==
+  - $哽2
+  ==
 V
   ==
   - ngang2 (alternative)
