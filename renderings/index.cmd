@@ -182,6 +182,21 @@ window.onload = applyFilter;
     , `'omH`
     , [闇](/entries/am#rendering-闇)
   //
+    , `'uw`
+    , [區](/entries/au#rendering-區)
+  //
+    , `'uw`
+    , [謳](/entries/au#rendering-謳)
+  //
+    , `'uwX`
+    , [嘔](/entries/au#rendering-嘔)
+  //
+    , `'uwX`
+    , [毆](/entries/au#rendering-毆)
+  //
+    , `'uwH`
+    , [漚](/entries/au#rendering-漚)
+  //
     , `homX domX`
     , [菡萏](/entries/aam#rendering-菡萏)
   //

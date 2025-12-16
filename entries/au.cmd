@@ -90,6 +90,18 @@ C
     It is disputed whether one 豆 is 0.4~pecks (豆實四升)
     or 1~peck (豆當爲斗毛居正曰豆古斗字).
   ==
+P
+  ++
+  1. To conceal (Kangxi: 匿也).
+  ++
+L
+  ====
+  * 【區】 ('uw)
+    ==
+    - (_noun-like_) urna
+    - (_verb-like_) [to] conceal
+    ==
+  ====
 S
   ==
   - $區keoi1 (TODO)
@@ -298,6 +310,13 @@ W
     - [[...]].
     ==
   ====
+L
+  ====
+  * 【謳】 ('uw)
+    ==
+    - (_verb-like_) [to] sing
+    ==
+  ====
 $$
 
 ### 鷗1 | _(1)Au_ [[au1]]
@@ -407,6 +426,13 @@ W
         seasick.
     ==
   ====
+L
+  ====
+  * 【嘔】 ('uwX)
+    ==
+    - (_verb-like_) [to] vomit
+    ==
+  ====
 S
   ==
   - $嘔au1
@@ -465,6 +491,13 @@ W
     - _(2)au (2)t(a/)_
         [[au2 daa2 毆打]],
         to beat, to take a stick to.
+    ==
+  ====
+L
+  ====
+  * 【毆】 ('uwX)
+    ==
+    - (_verb-like_) [to] beat
     ==
   ====
 $$
@@ -529,6 +562,13 @@ C
   ==
   - Williams' 藤鱔漚豬肉: Corrected _sh(i/)n(6)_ (sin6) to _(5)sh(i/)n_ (sin5).
   ==
+L
+  ====
+  * 【漚】 ('uwH)
+    ==
+    - (_verb-like_) [to] steep
+    ==
+  ====
 E
   ====
   - 【漚泥】 (au3 nai4)
