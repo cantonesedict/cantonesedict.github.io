@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2025-12-16
+* %date-modified --> 2025-12-17
 * %copyright-prior-years -->
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -205,6 +205,9 @@ window.onload = applyFilter;
   //
     , `tshit`
     , [七](/entries/cat#rendering-七)
+  //
+    , `tsrhae`
+    , [差](/entries/caa#rendering-差)
 ''
 ||||
 <## /renderings-table ##>

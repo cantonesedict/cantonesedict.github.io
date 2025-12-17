@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2025-12-14
+* %date-modified --> 2025-12-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -209,6 +209,13 @@ C
     ==
     - from 摩囉差 (mo1 lo1 caa1), an historical term for an Indian policeman, or
     - from 差人 (caai1 jan4), meaning "officer".
+    ==
+  ====
+L
+  ====
+  * 【差】 (tsrhae)
+    ==
+    - (_noun-like_) discrepancy, error
     ==
   ====
 E
