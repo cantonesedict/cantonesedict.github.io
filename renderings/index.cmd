@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2025-12-17
+* %date-modified --> 2025-12-18
 * %copyright-prior-years -->
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -197,17 +197,38 @@ window.onload = applyFilter;
     , `'uwH`
     , [漚](/entries/au#rendering-漚)
   //
+    , `dzrea`
+    , [柴](/entries/caai#rendering-柴)
+  //
+    , `dzreaj`
+    , [儕](/entries/caai#rendering-儕)
+  //
+    , `dzreaj`
+    , [豺](/entries/caai#rendering-豺)
+  //
+    , `dzreaj lang`
+    , [豺狼](/entries/caai#rendering-豺狼)
+  //
     , `homX domX`
     , [菡萏](/entries/aam#rendering-菡萏)
   //
     , `keat`
     , [恝](/entries/aat#rendering-恝)
   //
+    , `trhaejH`
+    , [蠆](/entries/caai#rendering-蠆)
+  //
     , `tshit`
     , [七](/entries/cat#rendering-七)
   //
     , `tsrhae`
     , [差](/entries/caa#rendering-差)
+  //
+    , `tsrheaj`
+    , [差](/entries/caai#rendering-差)
+  //
+    , `tsrhwaejH`
+    , [嘬](/entries/caai#rendering-嘬)
 ''
 ||||
 <## /renderings-table ##>

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2025-12-14
+* %date-modified --> 2025-12-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -99,6 +99,15 @@ P
   ++
   1. To select, to choose (Kangxi: 擇也, ::[簡]也::).
   ++
+L
+  ====
+  * 【差】 (tsrheaj)
+    ==
+    - (_verb-like_) [to] send
+    - (_noun-like_) messenger
+    - (_verb-like_) [to] select
+    ==
+  ====
 E
   ====
   - 【差】 (caai1)
@@ -417,6 +426,13 @@ W
     Also read _sh(a/)i(3)_ [[saai3]].
     --
   ====
+L
+  ====
+  * 【嘬】 (tsrhwaejH)
+    ==
+    - (_verb-like_) [to] gnaw
+    ==
+  ====
 S
   ==
   - ($嘬zyut3)
@@ -490,6 +506,13 @@ W
     - a sort of scorpion with a long tail [[Kangxi: 螫蟲]].
     ==
   ====
+L
+  ====
+  * 【蠆】 (trhaejH)
+    ==
+    - (_noun-like_) scorpion, sting
+    ==
+  ====
 $$
 
 
@@ -526,6 +549,13 @@ W
     - _(4)'ng (4)ch(')(a/)i_
         [[ng4 caai4 吾儕]],
         we.
+    ==
+  ====
+L
+  ====
+  * 【儕】 (dzreaj)
+    ==
+    - (_noun-like_) class, compeer
     ==
   ====
 $$
@@ -584,6 +614,13 @@ P
   1. To protect (Kangxi: 護也).
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【柴】 (dzrea)
+    ==
+    - (_noun-like_) brushwood, firewood
+    ==
+  ====
 $$
 
 ### 豺4 | _(4)Ch(')(a/)i_ [[caai4]]
@@ -612,6 +649,17 @@ W
     - _(4)ch(')(a/)i (4)long sing(3) (4)ts(')ing_
         [[caai4 long4 sing3 cing4 豺狼性情]],
         a wolfish disposition.
+    ==
+  ====
+L
+  ====
+  * 【豺】 (dzreaj)
+    ==
+    - (_noun-like_) dhole
+    ==
+  * 【豺狼】 (dzreaj lang)
+    ==
+    - (_noun-like_) wolf
     ==
   ====
 $$
