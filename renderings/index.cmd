@@ -197,6 +197,9 @@ window.onload = applyFilter;
     , `'uwH`
     , [漚](/entries/au#rendering-漚)
   //
+    , `dzok`
+    , [賊](/entries/caak#rendering-賊)
+  //
     , `dzrea`
     , [柴](/entries/caai#rendering-柴)
   //
@@ -218,6 +221,12 @@ window.onload = applyFilter;
     , `trhaejH`
     , [蠆](/entries/caai#rendering-蠆)
   //
+    , `trhaek`
+    , [坼](/entries/caak#rendering-坼)
+  //
+    , `trhaek`
+    , [拆](/entries/caak#rendering-拆)
+  //
     , `tshit`
     , [七](/entries/cat#rendering-七)
   //
@@ -226,6 +235,12 @@ window.onload = applyFilter;
   //
     , `tsrheaj`
     , [差](/entries/caai#rendering-差)
+  //
+    , `tsrheak`
+    , [冊](/entries/caak#rendering-冊)
+  //
+    , `tsrheak`
+    , [策](/entries/caak#rendering-策)
   //
     , `tsrhwaejH`
     , [嘬](/entries/caai#rendering-嘬)

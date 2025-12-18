@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caak
-* %date-modified --> 2025-12-14
+* %date-modified --> 2025-12-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -125,6 +125,7 @@ U
 A
   ==
   - $册3
+  - $策3 (for "bamboo-slip" sense)
   ==
 F
   ==
@@ -152,6 +153,13 @@ W
     - _(4)wong ch(')(a/)k(8)_
         [[wong4 caak3 黃冊]]
         imperial census.
+    ==
+  ====
+L
+  ====
+  * 【冊】 (tsrheak)
+    ==
+    - (_noun-like_) slip, register, book
     ==
   ====
 $$
@@ -213,6 +221,13 @@ W
     - _ch(')(a/)k(8) (2)hau (1)k(o\) y(e/)uk(9)_
         [[caak3 hau2 gou1 joek6 坼口膏藥]]
         plasters for chapped feet.
+    ==
+  ====
+L
+  ====
+  * 【坼】 (trhaek)
+    ==
+    - (_verb-like_) [to] rive, [to] crack
     ==
   ====
 E
@@ -286,6 +301,13 @@ C
     _ch(')(a/)k(8) s(a/)n(3)_ (caak3 saan3) "scatter" and
     _ch(')(a/)k(8) (2)s(a/)n_ (caak3 saan2) "break up".
   ==
+L
+  ====
+  * 【拆】 (trhaek)
+    ==
+    - (_verb-like_) [to] dismantle, [to] open (up)
+    ==
+  ====
 $$
 
 ###+ 柵3 | _Ch(')(a/)k(8)_ [[caak3]]
@@ -378,11 +400,24 @@ W
     --
     ~~Used for the next [[茦]].~~
     --
+    --
+    [[Alternative form of 冊 (for the "bamboo-slip" sense). See $冊caak3.]]
+    --
   ====
 P
   ++
   1. Yarrow for divination (Kangxi: 蓍也, 策神蓍也).
   ++
+L
+  ====
+  * 【策】 (tsrheak)
+    ==
+    - (_noun-like_) slip
+    - (_noun-like_) strategy, scheme
+    - (_noun-like_) whip
+    - (_noun-like_) yarrow-stalk
+    ==
+  ====
 $$
 
 ### 茦3 | _Ch(')(a/)k(8)_ [[caak3]]
@@ -509,6 +544,18 @@ W
     --
     [[Otherwise, an alternative form of 蠈. **See $蠈caak6 for the canonical entry.**]]
     --
+  ====
+P
+  ++
+  1. To injure (Kangxi: 賊傷害也).
+  ++
+L
+  ====
+  * 【賊】 (dzok)
+    ==
+    - (_verb-like_) [to] injure
+    - (_noun-like_) bandit, renegade
+    ==
   ====
 $$
 
