@@ -20,7 +20,7 @@ RegexDictionaryReplacement: #.syntax.character-headings
     )
     (?P<tone_number> [1-6] ) [ ][|][ ] (?P<reading> .* )
     -->
-  ###{#\g<tone_number>\g<character> .williams} \g<ins_opening><span class="headword">::{}\g<headword>::</span> \g<reading>
+  ###{#\g<character>-\g<tone_number> .williams} \g<ins_opening><span class="headword">::{}\g<headword>::</span> \g<reading>
 
 
 RegexDictionaryReplacement: #.syntax.radical-headings
@@ -229,11 +229,11 @@ RegexDictionaryReplacement: #.syntax.entry-links
 * [$] (?P<headword> \{? (?P<character> \S) [=]? \S*? \}? )
   (?P<jyutping> [a-z]+ ) (?P<tone_number> [1-6] )
     -->
-  [\g<headword>~\g<jyutping>\g<tone_number>](/entries/\g<jyutping>#\g<tone_number>\g<character>)
+  [\g<headword>~\g<jyutping>\g<tone_number>](/entries/\g<jyutping>#\g<character>-\g<tone_number>)
 * [$] (?P<headword> \{? (?P<character> \S) [=]? \S*? \}? )
   (?P<tone_number> [1-6] )
     -->
-  [\g<headword>](#\g<tone_number>\g<character>)
+  [\g<headword>](#\g<character>-\g<tone_number>)
 
 
 RegexDictionaryReplacement: #.syntax.radical-links

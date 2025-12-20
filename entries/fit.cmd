@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fit
-* %date-modified --> 2025-11-25
+* %date-modified --> 2025-12-20
 * %copyright-prior-years --> "2023, "
 
 %%%
