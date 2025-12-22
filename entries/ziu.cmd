@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2025-12-20
+* %date-modified --> 2025-12-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -882,6 +882,13 @@ P
   1. To inform.
   1. (_adverb_) Still (used to describe an action being done despite reasons against it).
   ++
+E
+  ====
+  - 【照計】 (ziu3 gai3)
+    ++
+    1. Used to emphasise an expectation associated with normal or unexceptional circumstances.
+    ++
+  ====
 $$
 
 ### 燋3 | _Tsi(u/)(3)_ [[ziu3]]
