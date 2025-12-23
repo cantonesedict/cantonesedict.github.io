@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2025-12-18
+* %date-modified --> 2025-12-23
 * %copyright-prior-years -->
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -197,8 +197,20 @@ window.onload = applyFilter;
     , `'uwH`
     , [漚](/entries/au#rendering-漚)
   //
+    , `dzam`
+    , [慚](/entries/caam#rendering-慚)
+  //
+    , `dzan`
+    , [殘](/entries/caan#rendering-殘)
+  //
     , `dzok`
     , [賊](/entries/caak#rendering-賊)
+  //
+    , `dzom`
+    , [蠶](/entries/caam#rendering-蠶)
+  //
+    , `dzraem`
+    , [毚](/entries/caam#rendering-毚)
   //
     , `dzrea`
     , [柴](/entries/caai#rendering-柴)
@@ -212,11 +224,23 @@ window.onload = applyFilter;
     , `dzreaj lang`
     , [豺狼](/entries/caai#rendering-豺狼)
   //
+    , `dzream`
+    , [毚](/entries/caam#rendering-毚)
+  //
+    , `dzream`
+    , [讒](/entries/caam#rendering-讒)
+  //
+    , `dzreamH`
+    , [儳~(flippant)](/entries/caam#rendering-儳-flippant)
+  //
     , `homX domX`
     , [菡萏](/entries/aam#rendering-菡萏)
   //
     , `keat`
     , [恝](/entries/aat#rendering-恝)
+  //
+    , `sreanX`
+    , [產](/entries/caan#rendering-產)
   //
     , `trhaejH`
     , [蠆](/entries/caai#rendering-蠆)
@@ -227,11 +251,26 @@ window.onload = applyFilter;
     , `trhaek`
     , [拆](/entries/caak#rendering-拆)
   //
+    , `tshan`
+    , [餐](/entries/caan#rendering-餐)
+  //
+    , `tshanH`
+    , [粲](/entries/caan#rendering-粲)
+  //
     , `tshit`
     , [七](/entries/cat#rendering-七)
   //
+    , `tshom`
+    , [參](/entries/caam#rendering-參)
+  //
+    , `tshom`
+    , [驂](/entries/caam#rendering-驂)
+  //
     , `tsrhae`
     , [差](/entries/caa#rendering-差)
+  //
+    , `tsrhaemH`
+    , [儳~(jumbled)](/entries/caam#rendering-儳-jumbled)
   //
     , `tsrheaj`
     , [差](/entries/caai#rendering-差)
@@ -241,6 +280,9 @@ window.onload = applyFilter;
   //
     , `tsrheak`
     , [策](/entries/caak#rendering-策)
+  //
+    , `tsrhim tsrhje`
+    , [參差](/entries/caam#rendering-參差)
   //
     , `tsrhwaejH`
     , [嘬](/entries/caai#rendering-嘬)

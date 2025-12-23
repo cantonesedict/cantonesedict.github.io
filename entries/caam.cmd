@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2025-12-20
+* %date-modified --> 2025-12-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -126,6 +126,20 @@ C
   ==
   - Fan Wan entry: Corrected ⿰阝頁 to 預.
   ==
+L
+  ====
+  * 【參】 (tshom)
+    ==
+    - (_verb-like_) [to] form three, [to] partake (in)
+    - (_verb-like_) [to] pay visit (unto)
+    - (_verb-like_) [to] consult, [to] examine
+    - (_verb-like_) [to] impeach
+    ==
+  * 【參差】 (tsrhim tsrhje)
+    ==
+    - (_adjective-like_) uneven
+    ==
+  ====
 S
   ==
   - $參saam1 (TODO)
@@ -259,6 +273,13 @@ C
   ==
   - Fan Wan entry: Normalised headword ⿰馬叅 to 驂.
   ==
+L
+  ====
+  * 【驂】 (tshom)
+    ==
+    - (_noun-like_) outside-horse
+    ==
+  ====
 $$
 
 
@@ -496,6 +517,17 @@ P
   1. Flippant, unserious (Kangxi: 謂苟且不整肅也, 可輕賤之貌).
   1. Confused speech (Kangxi: 雜言也).
   ++
+L
+  ====
+  * 【儳-flippant】 (dzreamH)
+    ==
+    - (_adjective-like_) flippant
+    ==
+  * 【儳-jumbled】 (tsrhaemH)
+    ==
+    - (_adjective-like_) jumbled
+    ==
+  ====
 $$
 
 ### 懺3 | _Ch(')(a/)m(3)_ [[caam3]]
@@ -706,6 +738,13 @@ W
         conscious of one's defects.
     ==
   ====
+L
+  ====
+  * 【慚】 (dzam)
+    ==
+    - (_adjective-like_) ashamed
+    ==
+  ====
 $$
 
 ### 攙4 | _(4)Ch(')(a/)m_ [[caam4]]
@@ -758,6 +797,13 @@ C
   - Strictly, the pre-merger reading should be _(4)ch(')(a/)m_ per 《廣韻》士咸切 and 鋤銜切.
   - Fan Wan entry: Corrected 免 to 兔.
   ==
+L
+  ====
+  * 【毚】 (dzream, dzraem)
+    ==
+    - (_adjective-like_) wily
+    ==
+  ====
 $$
 
 ###+ 漸4 | _(4)Ts(')(a/)m_ [[caam4]]
@@ -870,6 +916,13 @@ W
         a coccoon.
     ==
   ====
+L
+  ====
+  * 【蠶】 (dzom)
+    ==
+    - (_noun-like_) silkworm
+    ==
+  ====
 $$
 
 ### 讒4 | _(4)Ts(')(a/)m_ [[caam4]]
@@ -918,6 +971,13 @@ C
   - Williams' "To adulate, to humor, to flatter": Kangxi 佞也 is unhelpful.
   - Williams' 讒諂: Corrected _(2)ch(i/)m_ (zim2) to _(2)ch(')(i/)m_ (cim2).
   ==
+L
+  ====
+  * 【讒】 (dzream)
+    ==
+    - (_noun-like_) calumny
+    ==
+  ====
 $$
 
 ### 饞4 | _(4)Ts(')(a/)m_ [[caam4]]

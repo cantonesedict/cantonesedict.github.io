@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caan
-* %date-modified --> 2025-12-20
+* %date-modified --> 2025-12-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -141,6 +141,14 @@ C
   - Williams' 大餐: Dated; 大餐 now simply means a big meal, or feast.
   - Williams' 黐飯餐: A diner out in the sense of freeloading food.
   ==
+L
+  ====
+  * 【餐】 (tshan)
+    ==
+    - (_verb-like_) [to] swallow, [to] consume
+    - (_noun-like_) meal
+    ==
+  ====
 $$
 
 
@@ -270,6 +278,10 @@ R
   ⽣ + 6
 U
   U+7522
+V
+  ==
+  - saan2 (per ::《廣韻》所[簡]切::)
+  ==
 F
   ==
   - (F2.69 產) 生業也又生產
@@ -316,6 +328,14 @@ C
   ==
   - Williams' 小產: Now called a miscarriage.
   ==
+L
+  ====
+  * 【產】 (sreanX)
+    ==
+    - (_verb-like_) [to] produce, [to] bear
+    - (_noun-like_) property
+    ==
+  ====
 $$
 
 ### 鏟2 | _(2)Ch(')(a/)n_ [[caan2]]
@@ -496,10 +516,24 @@ W
   ====
 C
   ==
+  - Williams' "a meal":
+    According to 段玉裁's annotations of 《說文》,
+    this sense is an alternative form of 餐,
+    rather than just a synonym (鄭風傳曰粲餐也此謂粲爲餐之叚借也).
+    A corollary of this view is that
+    the reading ought to be level, rather than departing.
   - Williams' "Half a _(2)tau_ or peck":
     This is a misreading of Kangxi 爲米六斗大半斗曰粲,
     which puts the measure at 6⅔~pecks, not half a peck.
   ==
+L
+  ====
+  * 【粲】 (tshanH)
+    ==
+    - (_noun-like_) polished-grain
+    - (_adjective-like_) splendid, beaming
+    ==
+  ====
 $$
 
 
@@ -610,6 +644,15 @@ P
   ++
   1. Remainder, leftover.
   ++
+L
+  ====
+  * 【殘】 (dzan)
+    ==
+    - (_verb-like_) [to] hurt, [to] damage, [to] deteriorate
+    - (_adjective-like_) cruel
+    - (_adjective-like_) fragmentary
+    ==
+  ====
 $$
 
 
