@@ -287,6 +287,12 @@ window.onload = applyFilter;
     , `tsrheak`
     , [策](/entries/caak#rendering-策)
   //
+    , `tsrheap`
+    , [扱](/entries/caap#rendering-扱)
+  //
+    , `tsrheap`
+    , [插](/entries/caap#rendering-插)
+  //
     , `tsrhim tsrhje`
     , [參差](/entries/caam#rendering-參差)
   //
