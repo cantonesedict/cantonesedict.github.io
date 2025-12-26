@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caat
-* %date-modified --> 2025-12-20
+* %date-modified --> 2025-12-26
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -73,10 +73,10 @@ W
   ====
   - [[Page~427 刷(8) _Sh(a/)t(8)_ (saat3); here normalised to _Ch(')(a/)t(8)_ (caat3)]]
     ==
-    - A brush, a scraper [[Kangxi: 刮也]];
+    - A brush, a scraper;
     - a curry-comb;
     - to brush;
-    - to cleanse, to scour, to scrub [[Kangxi: 刷淸也]];
+    - to cleanse, to scour [[Kangxi: 刮也]], to scrub [[Kangxi: 刷淸也]];
     - a card for cotton;
     - to print, as the Chinese do;
     - _(2)hon ~~sh(a/)t(8)~~ ``ch(')(a/)t(8)``_
@@ -85,6 +85,13 @@ W
     - _~~sh(a/)t(8)~~ ``ch(')(a/)t(8)`` (2)ch(')(i/) (2)koi hang(6)_
         [[caat3 ci2 goi2 hang6 刷恥改行]]
         to wipe off disgrace by reforming,
+    ==
+  ====
+L
+  ====
+  * 【刷】 (srjwet, srwaet)
+    ==
+    - (_verb-like_) [to] scrub
     ==
   ====
 S
@@ -172,6 +179,13 @@ W
     - _ch(')(a/)t(8) t(u:)t(9)_
         [[caat3 dyut6 察奪]]
         examine and decide [respecting the petition.]
+    ==
+  ====
+L
+  ====
+  * 【察】 (tsrheat)
+    ==
+    - (_verb-like_) [to] inspect
     ==
   ====
 $$
@@ -279,4 +293,11 @@ C
   - Williams' 獺領: Changed _(5)ling_ (ling5)
     to vernacular reading _(5)leng_ (leng5).
   ==
+L
+  ====
+  * 【獺】 (that, trhaet)
+    ==
+    - (_noun-like_) otter
+    ==
+  ====
 $$

@@ -248,6 +248,15 @@ window.onload = applyFilter;
     , `sreanX`
     , [產](/entries/caan#rendering-產)
   //
+    , `srjwet`
+    , [刷](/entries/caat#rendering-刷)
+  //
+    , `srwaet`
+    , [刷](/entries/caat#rendering-刷)
+  //
+    , `that`
+    , [獺](/entries/caat#rendering-獺)
+  //
     , `trhaejH`
     , [蠆](/entries/caai#rendering-蠆)
   //
@@ -256,6 +265,9 @@ window.onload = applyFilter;
   //
     , `trhaek`
     , [拆](/entries/caak#rendering-拆)
+  //
+    , `trhaet`
+    , [獺](/entries/caat#rendering-獺)
   //
     , `tshan`
     , [餐](/entries/caan#rendering-餐)
@@ -292,6 +304,9 @@ window.onload = applyFilter;
   //
     , `tsrheap`
     , [插](/entries/caap#rendering-插)
+  //
+    , `tsrheat`
+    , [察](/entries/caat#rendering-察)
   //
     , `tsrhim tsrhje`
     , [參差](/entries/caam#rendering-參差)
