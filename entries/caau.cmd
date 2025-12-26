@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caau
-* %date-modified --> 2025-12-20
+* %date-modified --> 2025-12-26
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -151,6 +151,14 @@ W
     ==
     - Interchanged with 抄 to copy [[Kangxi: 今俗別作抄, 謄寫也]];
     - [[...]].
+    ==
+  ====
+L
+  ====
+  * 【抄】 (tsrhaew, tsrhaewH)
+    ==
+    - (_verb-like_) [to] seize
+    - (_verb-like_) [to] copy
     ==
   ====
 $$
@@ -500,6 +508,13 @@ P
   1. A large free-reed instrument (Kangxi: 樂器, 大笙謂之巢).
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【巢】 (dzraew)
+    ==
+    - (_noun-like_) nest
+    ==
+  ====
 E
   ====
   - 【巢】 (caau4)

@@ -218,6 +218,9 @@ window.onload = applyFilter;
     , `dzraem`
     , [毚](/entries/caam#rendering-毚)
   //
+    , `dzraew`
+    , [巢](/entries/caau#rendering-巢)
+  //
     , `dzrea`
     , [柴](/entries/caai#rendering-柴)
   //
@@ -289,6 +292,12 @@ window.onload = applyFilter;
   //
     , `tsrhaemH`
     , [儳~(jumbled)](/entries/caam#rendering-儳-jumbled)
+  //
+    , `tsrhaew`
+    , [抄](/entries/caau#rendering-抄)
+  //
+    , `tsrhaewH`
+    , [抄](/entries/caau#rendering-抄)
   //
     , `tsrheaj`
     , [差](/entries/caai#rendering-差)
