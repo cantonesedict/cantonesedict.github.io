@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caang
-* %date-modified --> 2025-12-20
+* %date-modified --> 2025-12-26
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -626,6 +626,13 @@ P
   1. A door-post (Kangxi: 棖謂之楔, 棖門兩旁長木).
   1. Alternative form of 橙 (Kangxi: 果名卽橙也). **See $橙caang4 for the canonical entry.**
   ++
+L
+  ====
+  * 【棖】 (draeng)
+    ==
+    - (_noun-like_) door-post
+    ==
+  ====
 S
   ==
   - $棖caam5
@@ -683,6 +690,13 @@ P
   ++
   1. The colour orange.
   ++
+L
+  ====
+  * 【橙】 (dreang)
+    ==
+    - (_noun-like_) orange-tree, orange
+    ==
+  ====
 S
   ==
   - ($橙caang2)
