@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2025-12-20
+* %date-modified --> 2025-12-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -99,6 +99,13 @@ W
     --
     [[...]]
     --
+  ====
+L
+  ====
+  * 【侵】 (tshim)
+    ==
+    - (_verb-like_) [to] invade, [to] encroach
+    ==
   ====
 E
   ====
@@ -246,10 +253,17 @@ W
   - [[Page~552 (1)駸]]
     ==
     - ~~Occurs used for the preceding [[侵]];~~
-    - properly a swift horse [[Kangxi: 駸駸馬行疾貌]];
+    - properly a ~~swift~~ horse ``moving swiftly`` [[Kangxi: 駸駸馬行疾貌]];
     - _(1)ts(')am (1)ts(')am_
         [[cam1 cam1 駸駸]],
         a fast running courser.
+    ==
+  ====
+L
+  ====
+  * 【駸】 (tshim, tsrhim)
+    ==
+    - (_adjective-like_) galloping
     ==
   ====
 $$
@@ -308,6 +322,10 @@ R
   ⼧ + 11
 U
   U+5BE2
+A
+  ==
+  - 寑
+  ==
 F
   ==
   - (F2.37 寢) 臥也息也又內室曰寢室
@@ -352,6 +370,14 @@ P
   ++
   1. Ugly in appearance.
   ++
+L
+  ====
+  * 【寢】 (tshimX)
+    ==
+    - (_verb-like_) [to] sleep, [to] repose
+    - (_noun-like_) chamber
+    ==
+  ====
 $$
 
 
@@ -539,6 +565,13 @@ C
     so it appears to indicate spatial length rather than temporal.
   - Williams' 尋物: Probably assimilation of 尋日 (cam4 jat6) into 尋物 (cam4 mat6).
   ==
+L
+  ====
+  * 【尋】 (zim)
+    ==
+    - (_noun-like_) fathom
+    ==
+  ====
 E
   ====
   - 【尋日】 (cam4 jat6)
@@ -645,6 +678,13 @@ C
   - For commentary on departing-tone 直禁切 _cham(6)_ (zam6)
     in relation to the vernacular zam6 for "drown", see $浸zam3.
   ==
+L
+  ====
+  * 【沉】 (drim)
+    ==
+    - (_verb-like_) [to] sink
+    ==
+  ====
 $$
 
 ###+ 湛4 | _(4)Ch(')am_ [[cam4]]
@@ -756,7 +796,7 @@ U
   U+9B35
 V
   ==
-  - cim4 (per 《廣韻》昨鹽切)
+  - cim4 (alternative per 《廣韻》昨鹽切)
   ==
 F
   ==
@@ -774,6 +814,13 @@ C
   ==
   - Fan Wan entry: Normalised headword {𩰿=⿱㚘鬲} to 鬵.
   ==
+L
+  ====
+  * 【鬵】 (zim, dzim, dzjem)
+    ==
+    - (_noun-like_) cauldron
+    ==
+  ====
 $$
 
 ###+ 魫4 | _(4)Ch(')am_ [[cam4]]

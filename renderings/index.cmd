@@ -203,6 +203,9 @@ window.onload = applyFilter;
     , `dreang`
     , [橙](/entries/caang#rendering-橙)
   //
+    , `drim`
+    , [沉](/entries/cam#rendering-沉)
+  //
     , `dzam`
     , [慚](/entries/caam#rendering-慚)
   //
@@ -220,6 +223,12 @@ window.onload = applyFilter;
   //
     , `dzejH`
     , [懠](/entries/cai#rendering-懠)
+  //
+    , `dzim`
+    , [鬵](/entries/cam#rendering-鬵)
+  //
+    , `dzjem`
+    , [鬵](/entries/cam#rendering-鬵)
   //
     , `dzjuw dzej`
     , [蝤蠐](/entries/cai#rendering-蝤蠐)
@@ -308,6 +317,15 @@ window.onload = applyFilter;
     , `tshejH`
     , [砌](/entries/cai#rendering-砌)
   //
+    , `tshim`
+    , [侵](/entries/cam#rendering-侵)
+  //
+    , `tshim`
+    , [駸](/entries/cam#rendering-駸)
+  //
+    , `tshimX`
+    , [寢](/entries/cam#rendering-寢)
+  //
     , `tshit`
     , [七](/entries/cat#rendering-七)
   //
@@ -350,11 +368,20 @@ window.onload = applyFilter;
     , `tsrhik`
     , [測](/entries/cak#rendering-測)
   //
+    , `tsrhim`
+    , [駸](/entries/cam#rendering-駸)
+  //
     , `tsrhim tsrhje`
     , [參差](/entries/caam#rendering-參差)
   //
     , `tsrhwaejH`
     , [嘬](/entries/caai#rendering-嘬)
+  //
+    , `zim`
+    , [尋](/entries/cam#rendering-尋)
+  //
+    , `zim`
+    , [鬵](/entries/cam#rendering-鬵)
 ''
 ||||
 <## /renderings-table ##>
