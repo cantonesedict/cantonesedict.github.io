@@ -299,7 +299,6 @@ See also: [Index of Cantonese terms by Jyutping](/terms/).
 - $gu (work in progress)
 - $gui (work in progress)
 - $guk (work in progress)
-- $gum (work in progress)
 - $gun (work in progress)
 - $gung (work in progress)
 - $gut (work in progress)
