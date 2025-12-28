@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of entry pages by Jyutping
-* %date-modified --> 2025-12-10
+* %date-modified --> 2025-12-28
 * %copyright-prior-years --> 2023--
 * %meta-description --> index of entry pages by Jyutping
 
@@ -108,7 +108,6 @@ See also: [Index of Cantonese terms by Jyutping](/terms/).
 - $bou (work in progress)
 - $bui (work in progress)
 - $buk (work in progress)
-- $bum (work in progress)
 - $bun (work in progress)
 - $bung (work in progress)
 - $but (work in progress)
