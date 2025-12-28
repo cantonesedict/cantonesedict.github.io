@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2025-12-26
+* %date-modified --> 2025-12-28
 * %copyright-prior-years -->
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -209,6 +209,21 @@ window.onload = applyFilter;
     , `dzan`
     , [殘](/entries/caan#rendering-殘)
   //
+    , `dzej`
+    , [懠](/entries/cai#rendering-懠)
+  //
+    , `dzej`
+    , [齊](/entries/cai#rendering-齊)
+  //
+    , `dzejX`
+    , [薺](/entries/cai#rendering-薺)
+  //
+    , `dzejH`
+    , [懠](/entries/cai#rendering-懠)
+  //
+    , `dzjuw dzej`
+    , [蝤蠐](/entries/cai#rendering-蝤蠐)
+  //
     , `dzok`
     , [賊](/entries/caak#rendering-賊)
   //
@@ -248,6 +263,9 @@ window.onload = applyFilter;
     , `keat`
     , [恝](/entries/aat#rendering-恝)
   //
+    , `sej`
+    , [棲](/entries/cai#rendering-棲)
+  //
     , `sreanX`
     , [產](/entries/caan#rendering-產)
   //
@@ -277,6 +295,18 @@ window.onload = applyFilter;
   //
     , `tshanH`
     , [粲](/entries/caan#rendering-粲)
+  //
+    , `tshej`
+    , [妻~(noun)](/entries/cai#rendering-妻-noun)
+  //
+    , `tshej`
+    , [萋](/entries/cai#rendering-萋)
+  //
+    , `tshejH`
+    , [妻~(verb)](/entries/cai#rendering-妻-verb)
+  //
+    , `tshejH`
+    , [砌](/entries/cai#rendering-砌)
   //
     , `tshit`
     , [七](/entries/cat#rendering-七)

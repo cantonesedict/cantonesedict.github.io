@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2025-12-20
+* %date-modified --> 2025-12-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -113,7 +113,7 @@ W
         my good wife, a virtuous wife;
     - _(1)ki(u/) (1)ts(')ai (5)m(i/) ts(')(i/)p(8)_
         [[giu1 cai1 mei5 cip3 嬌妻美妾]]
-        an accomplished wife aud handsome concubine.
+        an accomplished wife and handsome concubine.
     ==
     --
     [[...]]
@@ -123,6 +123,13 @@ C
   ==
   - Williams' 娶妻: Changed _ts(')(u:)(3)_ (ceoi3) to common reading _(2)ts(')(u:)_ (ceoi2).
   ==
+L
+  ====
+  * 【妻-noun】 (tshej)
+    ==
+    - (_noun-like_) wife
+    ==
+  ====
 S
   ==
   - $妻cai3
@@ -228,6 +235,13 @@ W
         to and fro, like a stranger.
     ==
   ====
+L
+  ====
+  * 【棲】 (sej)
+    ==
+    - (_verb-like_) [to] roost
+    ==
+  ====
 $$
 
 ### 淒1 | _(1)Ts(')ai_ [[cai1]]
@@ -328,11 +342,18 @@ W
   ====
   - [[Page~549 (1)萋]]
     ==
-    - Luxuriaut foliage [[Kangxi: 草盛貌]];
+    - Luxuriant foliage [[Kangxi: 草盛貌]];
     - _(1)ts(')ai (1)ts(')ai_
         [[cai1 cai1 萋萋]],
         moving clouds [[Kangxi: 雲行貌]];
         a man exerting himself [[Kangxi: 萋萋臣盡力也]].
+    ==
+  ====
+L
+  ====
+  * 【萋】 (tshej)
+    ==
+    - (_adjective-like_) luxuriant
     ==
   ====
 $$
@@ -405,6 +426,13 @@ W
     - to give a daughter as wife to one [[Kangxi: 以女嫁人曰妻之]].
     ==
   ====
+L
+  ====
+  * 【妻-verb】 (tshejH)
+    ==
+    - (_verb-like_) [to] wive
+    ==
+  ====
 S
   ==
   - $妻cai1
@@ -445,6 +473,14 @@ W
     - _ts(')ai(3) (5)ng(a/)_
         [[cai3 ngaa5 砌瓦]],
         to tile roofs.
+    ==
+  ====
+L
+  ====
+  * 【砌】 (tshejH)
+    ==
+    - (_noun-like_) step
+    - (_verb-like_) [to] assemble, [to] lay
     ==
   ====
 $$
@@ -518,6 +554,13 @@ W
         when heaven is angry.
     ==
   ====
+L
+  ====
+  * 【懠】 (dzej, dzejH)
+    ==
+    - (_adjective-like_) wroth
+    ==
+  ====
 S
   ==
   - $懠zai1
@@ -545,6 +588,13 @@ W
         a grub, larvæ in mulberry and other trees.
     ==
   ====
+L
+  ====
+  * 【蝤蠐】 (dzjuw dzej)
+    ==
+    - (_noun-like_) tree-grub
+    ==
+  ====
 $$
 
 ### 齊4 | _(4)Ts(')ai_ [[cai4]]
@@ -567,7 +617,7 @@ W
     - to adjust, to classify, to arrange methodically or according to rank;
     - at once, all, together, alike;
     - quick, smart;
-    - good;
+    - ~~good;~~
     - to discriminate [[Kangxi: 辨也]];
     - an ancient feudal state comprising the part of Sh(a/)ntung [[山東]]
       east of T(')(a/)i sh(a/)n [[泰山]];
@@ -619,6 +669,15 @@ P
   ++
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【齊】 (dzej)
+    ==
+    - (_adjective-like_) equal, uniform
+    - (_verb-like_) [to] equal, [to] uniform, (_met._) [to] put in order
+    - (_adjective-like_) together, complete
+    ==
+  ====
 S
   ==
   - ($齊zaai1)
@@ -681,6 +740,13 @@ W
     ==
     - Cress, shepherd's purse [[Kangxi: 甘菜]];
     - a term for small esculent plants like pepper-grass, cress, mint.
+    ==
+  ====
+L
+  ====
+  * 【薺】 (dzejX)
+    ==
+    - (_noun-like_) shepherd's-purse
     ==
   ====
 $$
