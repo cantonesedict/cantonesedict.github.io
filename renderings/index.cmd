@@ -347,6 +347,9 @@ window.onload = applyFilter;
     , `tsrheat`
     , [察](/entries/caat#rendering-察)
   //
+    , `tsrhik`
+    , [測](/entries/cak#rendering-測)
+  //
     , `tsrhim tsrhje`
     , [參差](/entries/caam#rendering-參差)
   //

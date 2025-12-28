@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cak
-* %date-modified --> 2025-12-20
+* %date-modified --> 2025-12-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -136,6 +136,13 @@ P
   1. Extreme depth (Kangxi: 深所至也).
   1. Deep.
   ++
+L
+  ====
+  * 【測】 (tsrhik)
+    ==
+    - (_verb-like_) [to] fathom
+    ==
+  ====
 S
   ==
   - ($測caak1)
