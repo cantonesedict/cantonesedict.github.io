@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Search by character or code point
-* %date-modified --> 2025-11-02
+* %date-modified --> 2025-12-28
 * %copyright-prior-years --> 2024--
 * %meta-description --> search by Chinese character or by Unicode code point
 
@@ -136,7 +136,7 @@ async function performSearch()
       let tone = jyutping.replace(/[a-z]/g, '');
 
       let linkElement = document.createElement('a');
-      linkElement.href = `/entries/${syllable}#${tone}${character}`;
+      linkElement.href = `/entries/${syllable}#${character}-${tone}`;
       entriesCellElement.appendChild(linkElement);
 
       appendCharacterWithComposition(linkElement, character, composition);
