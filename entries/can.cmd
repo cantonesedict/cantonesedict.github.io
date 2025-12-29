@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2025-12-20
+* %date-modified --> 2025-12-29
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -85,6 +85,9 @@ W
     --
     [[...]]
     --
+    --
+    [[Otherwise, an alternative form of 瞋. **See $瞋can1 for the canonical entry.**]]
+    --
   ====
 S
   ==
@@ -159,6 +162,10 @@ U
 H
   May appear as either ⿰目眞 or ⿰目真 (assumed here),
   depending on the font.
+A
+  ==
+  - $嗔1
+  ==
 F
   ==
   - (F1.81 瞋) 怒而張目也
@@ -171,6 +178,13 @@ W
     - _(1)ch(')an n(o\)(6) (4)m(o\) t(o\)(6)_
         [[can1 nou6 mou4 dou6 瞋怒無度]]
         angry beyond measure.
+    ==
+  ====
+L
+  ====
+  * 【瞋】 (tsyhin)
+    ==
+    - (_verb-like_) [to] glare
     ==
   ====
 $$
@@ -265,6 +279,15 @@ C
     Although 成 can mean "complete" or "fulfil",
     I think it is better rendered here as "become".
   ==
+L
+  ====
+  * 【親-close】 (tshin)
+    ==
+    - (_noun-like_) close [one], parent
+    - (_verb-like_) [to] be close, [to] touch, (_met._) [to] love
+    - (_adjective-like_) close, (_met._) [one's] own
+    ==
+  ====
 S
   ==
   - $親can3
@@ -317,6 +340,13 @@ W
         to smile on receiving.
     ==
   ====
+L
+  ====
+  * 【哂】 (syinX)
+    ==
+    - (_verb-like_) [to] smile (at)
+    ==
+  ====
 $$
 
 ### 畛2 | _(2)Ch(')an_ [[can2]]
@@ -328,6 +358,7 @@ U
   U+755B
 V
   ==
+  - zan1 (per ::《廣韻》[職]鄰切::)
   - zan2 (per 《廣韻》章忍切)
   ==
 F
@@ -339,13 +370,21 @@ W
   - [[Page~18|n61 (2)畛]]
     ==
     - ~~To~~ ``Roads that`` divide fields [[Kangxi: 井田閒陌也]];
-    - to come before the gods [[Kangxi: 致也]];
+    - to come before the gods ``and pray unto them`` [[Kangxi: 致也]];
     - to announce ~~the emperor's coming~~ [[Kangxi: 吿也]];
     - to ~~die~~ ``exterminate`` [[Kangxi: 殄也, 謂殄絕]];
     - a motive;
     - _(4)kw(')ai (2)ch(')an_
         [[kwai4 can2 畦畛]],
         dikes between fields.
+    ==
+  ====
+L
+  ====
+  * 【畛】 (tsyinX, tsyin)
+    ==
+    - (_noun-like_) interfield-path, (_met._) demarcation
+    - (_verb-like_) [to] announce (unto)
     ==
   ====
 $$
@@ -388,6 +427,13 @@ P
   1. Fever (Kangxi 疢: 熱病也).
   1. Sickness (Kangxi 疢: 疢猶病也).
   ++
+L
+  ====
+  * 【疢】 (trhinH)
+    ==
+    - (_noun-like_) fever, sickness
+    ==
+  ====
 $$
 
 ### 疹2 | _(2)Ch(')an_ [[can2]]
@@ -433,6 +479,10 @@ R
   ⽮ + 4
 U
   U+77E7
+A
+  ==
+  - 矤
+  ==
 F
   ==
   - (F1.82 矧) 况也
@@ -452,13 +502,22 @@ W
 C
   ==
   - Williams' "to grin wide": This is a misreading of Kangxi's example 笑不至矧,
-    in which 矧 means "tooth (base)", not "grin wide".
+    in which 矧 means "tooth-base", not "grin wide".
+    Moreover, this sense should be read _(4)ngan_ (ngan4)
+    as it is an alternative form of 齗.
   - Williams' 矧曰: Corrected _(u:)t(8)_ (jyut3) to _(u:)t(9)_ (jyut6).
   ==
-P
-  ++
-  1. The base of a tooth (Kangxi: 齒本曰矧大笑則見).
-  ++
+L
+  ====
+  * 【矧】 (syinX)
+    ==
+    - (_conjunction_) moreover, let alone
+    ==
+  ====
+S
+  ==
+  - $矧ngan4 (TODO) <## 1. The base of a tooth (Kangxi 矧: 齒本曰矧大笑則見). ##>
+  ==
 $$
 
 ### 紾2 | _(2)Ch(')an_ [[can2]]
@@ -485,6 +544,13 @@ W
     - to revolve;
     - a revolution;
     - perverse, crabbed [[Kangxi: 戾也]].
+    ==
+  ====
+L
+  ====
+  * 【紾】 (tsyinX, trjenX)
+    ==
+    - (_verb-like_) [to] twist
     ==
   ====
 $$
@@ -548,6 +614,13 @@ W
         single grasscloth.
     ==
   ====
+L
+  ====
+  * 【袗】 (tsyinX, tsyinH)
+    ==
+    - (_noun-like_) unlined-garment
+    ==
+  ====
 $$
 
 ### 診2 | _(2)Ch(')an_ [[can2]]
@@ -577,6 +650,13 @@ W
     - _(2)ch(')an mak(9)_
         [[can2 mak6 診脈]]
         to feel the pulse.
+    ==
+  ====
+L
+  ====
+  * 【診】 (tsyinX, drinH)
+    ==
+    - (_verb-like_) [to] examine
     ==
   ====
 $$
@@ -646,6 +726,13 @@ W
     ==
     - Bushy, black hair [[Kangxi: 稠髮也, 黑髮也]];
     - a fine head of black hair.
+    ==
+  ====
+L
+  ====
+  * 【鬒】 (tsyinX)
+    ==
+    - (_noun-like_) bushy-hair, black-hair
     ==
   ====
 $$
@@ -794,6 +881,13 @@ P
   ::K. (:親:) [...]^(:又《唐韻》七遴切《集韻》《韻會》七刃切《正韻》寸遴切{𠀤=⿱夶一}七去聲:)\
   [...]　(:又《廣韻》親家也《集韻》婚姻相謂爲親:)[...]::
   """"
+L
+  ====
+  * 【親-in-law】 (tshinH)
+    ==
+    - (_adjective-like_) in-law
+    ==
+  ====
 S
   ==
   - $親can1
@@ -957,6 +1051,13 @@ C
   - Williams' "confused times": Especially warfare.
   - Williams' 塵垢: Changed _(2)kau_ (gau2) to common reading _kau(3)_ (gau3).
   ==
+L
+  ====
+  * 【塵】 (drin)
+    ==
+    - (_noun-like_) dust
+    ==
+  ====
 E
   ====
   - 【沙塵】 (saa1 can4)
@@ -1046,6 +1147,15 @@ P
   ++
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【陳】 (drin)
+    ==
+    - (_verb-like_) [to] arrange, [to] display
+    - (_verb-like_) [to] describe
+    - (_adjective-like_) aged
+    ==
+  ====
 S
   ==
   - ($陳zan6)

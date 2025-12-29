@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2025-12-28
+* %date-modified --> 2025-12-29
 * %copyright-prior-years -->
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -206,6 +206,15 @@ window.onload = applyFilter;
     , `drim`
     , [沉](/entries/cam#rendering-沉)
   //
+    , `drin`
+    , [塵](/entries/can#rendering-塵)
+  //
+    , `drin`
+    , [陳](/entries/can#rendering-陳)
+  //
+    , `drinH`
+    , [診](/entries/can#rendering-診)
+  //
     , `dzam`
     , [慚](/entries/caam#rendering-慚)
   //
@@ -284,6 +293,12 @@ window.onload = applyFilter;
     , `srwaet`
     , [刷](/entries/caat#rendering-刷)
   //
+    , `syinX`
+    , [哂](/entries/can#rendering-哂)
+  //
+    , `syinX`
+    , [矧](/entries/can#rendering-矧)
+  //
     , `that`
     , [獺](/entries/caat#rendering-獺)
   //
@@ -298,6 +313,12 @@ window.onload = applyFilter;
   //
     , `trhaet`
     , [獺](/entries/caat#rendering-獺)
+  //
+    , `trhinH`
+    , [疢](/entries/can#rendering-疢)
+  //
+    , `trjenX`
+    , [紾](/entries/can#rendering-紾)
   //
     , `tshan`
     , [餐](/entries/caan#rendering-餐)
@@ -325,6 +346,12 @@ window.onload = applyFilter;
   //
     , `tshimX`
     , [寢](/entries/cam#rendering-寢)
+  //
+    , `tshin`
+    , [親~(close)](/entries/can#rendering-親-close)
+  //
+    , `tshinH`
+    , [親~(in-law)](/entries/can#rendering-親-in-law)
   //
     , `tshit`
     , [七](/entries/cat#rendering-七)
@@ -376,6 +403,30 @@ window.onload = applyFilter;
   //
     , `tsrhwaejH`
     , [嘬](/entries/caai#rendering-嘬)
+  //
+    , `tsyhin`
+    , [瞋](/entries/can#rendering-瞋)
+  //
+    , `tsyin`
+    , [畛](/entries/can#rendering-畛)
+  //
+    , `tsyinX`
+    , [畛](/entries/can#rendering-畛)
+  //
+    , `tsyinX`
+    , [紾](/entries/can#rendering-紾)
+  //
+    , `tsyinX`
+    , [袗](/entries/can#rendering-袗)
+  //
+    , `tsyinX`
+    , [診](/entries/can#rendering-診)
+  //
+    , `tsyinX`
+    , [鬒](/entries/can#rendering-鬒)
+  //
+    , `tsyinH`
+    , [袗](/entries/can#rendering-袗)
   //
     , `zim`
     , [尋](/entries/cam#rendering-尋)
