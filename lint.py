@@ -2288,7 +2288,7 @@ class CharacterEntry:
                 string=sense_match.group('sense_renderings').replace(met_marker, ''),
             )
 
-            if sense_type not in ['_noun-like_', '_verb-like_', '_adjective-like_', '_conjunction_']:
+            if sense_type not in ['_noun-like_', '_verb-like_', '_adjective-like_', '_adverb_', '_conjunction_']:
                 raise LintException(f'invalid sense type `{sense_type}` in `{sense_line}`')
 
             if sense_type == '_verb-like_':

@@ -248,6 +248,12 @@ window.onload = applyFilter;
     , `dzom`
     , [蠶](/entries/caam#rendering-蠶)
   //
+    , `dzong`
+    , [層](/entries/cang#rendering-層)
+  //
+    , `dzong`
+    , [曾](/entries/cang#rendering-曾)
+  //
     , `dzraem`
     , [毚](/entries/caam#rendering-毚)
   //

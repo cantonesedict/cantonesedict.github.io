@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cang
-* %date-modified --> 2025-12-20
+* %date-modified --> 2025-12-29
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -97,6 +97,13 @@ P
   1. A multi-storey house (Kangxi: 重屋也).
   1. Multi-layered (Kangxi: 凡物之重者通曰層).
   ++
+L
+  ====
+  * 【層】 (dzong)
+    ==
+    - (_noun-like_) storey
+    ==
+  ====
 $$
 
 ### 曾4 | _(4)Ts(')ang_ [[cang4]]
@@ -139,10 +146,31 @@ W
   ====
 C
   ==
+  - Williams' "how?": This appears to be an attempt
+    at rendering the very vague and unhelpful 《說文》詞之舒也.
+    Note that Kangxi has this sense under 昨稜切 _(4)ts(')ang_ (cang4),
+    and includes such examples as 《論語》曾是以爲孝乎
+    that other sources would instead put under the reading _(1)tsang_ (zang1).
+    For example, [萌典] puts the "astonishingly" sense (乃、竟然) under zēng
+    with the example ::[...]曾是以為孝乎::.
   - Williams' 唔曾: Dated.
   ==
+P
+  ++
+  1. Astonishingly.
+  ++
+L
+  ====
+  * 【曾】 (dzong)
+    ==
+    - (_adverb_) once, ever
+    - (_adverb_) astonishingly, (_met._) [and] yet, dare
+    ==
+  ====
 S
   ==
   - $曾zang1
   ==
 $$
+
+[萌典]: https://web.archive.org/web/20250618113434/https://www.moedict.tw/曾
