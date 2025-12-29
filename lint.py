@@ -2093,11 +2093,11 @@ class CharacterEntry:
         f_content = content_from_key['F']
         w_content = content_from_key['W']
         p_content = content_from_key.get('P')
+        l_content = content_from_key.get('L')
         e_content = content_from_key.get('E')
         alternative_forms = CharacterEntry.extract_alternative_forms(content_from_key.get('A'), jyutping)
         reading_variations = CharacterEntry.extract_reading_variations(content_from_key.get('V'))
-        literary_renderings = CharacterEntry.extract_literary_renderings(content_from_key.get('L'),
-                                                                         character, page_heading_jyutping)
+        literary_renderings = CharacterEntry.extract_literary_renderings(l_content, character, page_heading_jyutping)
         cantonese_entries = CharacterEntry.extract_cantonese_entries(e_content, page_heading_jyutping)
         see_also_links = CharacterEntry.extract_see_also_links(content_from_key.get('S'))
 
@@ -2105,6 +2105,7 @@ class CharacterEntry:
         CharacterEntry.lint_williams_locator_tone(w_content)
         CharacterEntry.lint_williams_ellipsis_item_punctuation(w_content)
         CharacterEntry.lint_williams_romanisation_punctuation(w_content)
+        CharacterEntry.lint_literary_rendering_senses(l_content)
         CharacterEntry.lint_character_jyutping_consistency(e_content)
 
         CharacterEntry.lint_canonicality(is_canonical, w_content, p_content, e_content, heading_content)
@@ -2265,6 +2266,32 @@ class CharacterEntry:
                 f'missing comma after supplied Jyutping for Williams left-tone in `{missing_comma_context_reduced}` '
                 f'(suppress with caret after closing square brackets if legitimate)'
             )
+
+    @staticmethod
+    def lint_literary_rendering_senses(content: str):
+        if content is None:
+            return
+
+        for sense_match in re.finditer(
+            pattern=r'^[ ]+ - [ ]+ \( (?P<sense_type> \S+?) \) [ ]+ (?P<sense_renderings> .* )',
+            string=content,
+            flags=re.MULTILINE | re.VERBOSE,
+        ):
+            sense_line = sense_match.group().strip()
+            sense_type = sense_match.group('sense_type')
+            sense_renderings = re.split(
+                pattern=fr',[ ]+  (?: {re.escape("(_met._)")} [ ]+ )?',
+                string=sense_match.group('sense_renderings'),
+                flags=re.VERBOSE,
+            )
+
+            if sense_type not in ['_noun-like_', '_verb-like_', '_adjective-like_', '_conjunction_']:
+                raise LintException(f'invalid sense type `{sense_type}` in `{sense_line}`')
+
+            if sense_type == '_verb-like_':
+                for verb_rendering in sense_renderings:
+                    if not verb_rendering.startswith('[to] '):
+                        raise LintException(f'missing infinitive `[to] ` for `{verb_rendering}` in `{sense_line}`')
 
     @staticmethod
     def lint_character_jyutping_consistency(content: str):
