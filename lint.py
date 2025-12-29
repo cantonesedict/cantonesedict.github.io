@@ -2279,10 +2279,13 @@ class CharacterEntry:
         ):
             sense_line = sense_match.group().strip()
             sense_type = sense_match.group('sense_type')
+
+            if sense_line.count(met_marker := '(_met._)') > 1:
+                raise LintException(f'multiple occurrences of `{met_marker}` in `{sense_line}`')
+
             sense_renderings = re.split(
-                pattern=fr',[ ]+  (?: {re.escape("(_met._)")} [ ]+ )?',
-                string=sense_match.group('sense_renderings'),
-                flags=re.VERBOSE,
+                pattern=',[ ]+',
+                string=sense_match.group('sense_renderings').replace(met_marker, ''),
             )
 
             if sense_type not in ['_noun-like_', '_verb-like_', '_adjective-like_', '_conjunction_']:
