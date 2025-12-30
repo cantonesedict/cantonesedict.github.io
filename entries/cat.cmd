@@ -169,6 +169,7 @@ U
 A
   ==
   - $柒1
+  - 桼
   ==
 F
   ==
@@ -228,6 +229,13 @@ W
     - _ts(')at(7) sh(u:)(6)_
         [[cat1 syu6 漆樹]]
         the varnish tree.
+    ==
+  ====
+L
+  ====
+  * 【漆】 (tshit)
+    ==
+    - (_noun-like_) varnish-tree, varnish
     ==
   ====
 $$

@@ -374,6 +374,9 @@ window.onload = applyFilter;
     , `tshit`
     , [七](/entries/cat#rendering-七)
   //
+    , `tshit`
+    , [漆](/entries/cat#rendering-漆)
+  //
     , `tshom`
     , [參](/entries/caam#rendering-參)
   //
