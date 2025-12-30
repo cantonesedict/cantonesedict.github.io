@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cap
-* %date-modified --> 2025-12-20
+* %date-modified --> 2025-12-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -41,6 +41,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
+- $咠1
 - $戢1
 - $濈1
 - $緝1
@@ -49,6 +50,31 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+###+ 咠1 | _Ts(')ap(7)_ [[cap1]]
+
+$$
+R
+  ⼝ + 6
+U
+  U+54A0
+A
+  ==
+  - $緝1
+  ==
+V
+  ==
+  - zap1 (alternative per 《廣韻》子入切)
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. To whisper in the ear (Kangxi: 聶語也, 咠咠口舌聲也, 咠咠譖言也).
+  ++
+$$
 
 ### 戢1 | _Ts(')ap(7)_ [[cap1]]
 
@@ -163,6 +189,9 @@ W
         [[ceon4 cap1 巡緝]]
         to get on the trail.
     ==
+    --
+    [[Otherwise, an alternative form of 咠. **See $咠cap1 for the canonical entry.**]]
+    --
   ====
 $$
 
