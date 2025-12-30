@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2025-12-20
+* %date-modified --> 2025-12-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -116,6 +116,13 @@ P
   1. Moved (Kangxi: 動也).
   1. Unsettled (Kangxi: 人不靜曰妯 etc.).
   ++
+L
+  ====
+  * 【妯】 (trhjuw)
+    ==
+    - (_verb-like_) [to] move
+    ==
+  ====
 S
   ==
   - $妯zuk6
@@ -225,6 +232,13 @@ C
   - Williams' 抽筋: Medically, these are skeletal muscle contractions (i.e. cramps).
   - Williams' 抽剝: Corrected _mok(9)_ (mok6) to _mok(7)_ (mok1).
   ==
+L
+  ====
+  * 【抽】 (trhjuw)
+    ==
+    - (_verb-like_) [to] pull out
+    ==
+  ====
 E
   ====
   - 【抽】 (cau1)
@@ -461,6 +475,13 @@ P
   ++
   1. To diminish, to damage (Kangxi: 損也).
   ++
+L
+  ====
+  * 【瘳】 (trhjuw)
+    ==
+    - (_verb-like_) [to] recuperate
+    ==
+  ====
 $$
 
 ###+ 瞅1 | _(1)Ts(')au_ [[cau1]]
@@ -516,6 +537,10 @@ R
   ⽲ + 4
 U
   U+79CB
+A
+  ==
+  - 秌
+  ==
 F
   ==
   - (F1.50 秋) 四季之一
@@ -570,6 +595,13 @@ P
   ++
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【秋】 (tshjuw)
+    ==
+    - (_noun-like_) autumn
+    ==
+  ====
 $$
 
 ### 篘1 | _(1)Ch(')au_ [[cau1]]
@@ -728,6 +760,13 @@ W
     - it eats snakes.
     ==
   ====
+L
+  ====
+  * 【鶖】 (tshjuw)
+    ==
+    - (_noun-like_) marabou
+    ==
+  ====
 $$
 
 
@@ -761,6 +800,17 @@ W
     - the 4th~watch, from 1 to 3~A.~M.;
     - it is denoted by an ox,
       and persons born in this hour are likely to be dull.
+    ==
+  ====
+P
+  ++
+  1. A clown, a fool character.
+  ++
+L
+  ====
+  * 【丑】 (trhjuwX)
+    ==
+    - (_noun-like_) ox-sign
     ==
   ====
 $$
@@ -831,6 +881,16 @@ C
   - Willliams' 命醜: Changed _ming(6)_ (ming6)
     to vernacular reading _meng(6)_ (meng6).
   ==
+L
+  ====
+  * 【醜】 (tsyhuwX)
+    ==
+    - (_adjective-like_) ugly
+    - (_verb-like_) [to] abhor
+    - (_noun-like_) humiliation
+    - (_noun-like_) sort, (_met_.) peers
+    ==
+  ====
 E
   ====
   - 【醜樣】 (cau2 joeng6-2)

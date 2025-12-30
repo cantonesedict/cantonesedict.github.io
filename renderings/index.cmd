@@ -326,6 +326,18 @@ window.onload = applyFilter;
     , `trhinH`
     , [疢](/entries/can#rendering-疢)
   //
+    , `trhjuw`
+    , [妯](/entries/cau#rendering-妯)
+  //
+    , `trhjuw`
+    , [抽](/entries/cau#rendering-抽)
+  //
+    , `trhjuw`
+    , [瘳](/entries/cau#rendering-瘳)
+  //
+    , `trhjuwX`
+    , [丑](/entries/cau#rendering-丑)
+  //
     , `trjenX`
     , [紾](/entries/can#rendering-紾)
   //
@@ -376,6 +388,12 @@ window.onload = applyFilter;
   //
     , `tshit`
     , [漆](/entries/cat#rendering-漆)
+  //
+    , `tshjuw`
+    , [秋](/entries/cau#rendering-秋)
+  //
+    , `tshjuw`
+    , [鶖](/entries/cau#rendering-鶖)
   //
     , `tshom`
     , [參](/entries/caam#rendering-參)
@@ -436,6 +454,9 @@ window.onload = applyFilter;
   //
     , `tsyhin`
     , [瞋](/entries/can#rendering-瞋)
+  //
+    , `tsyhuwX`
+    , [醜](/entries/cau#rendering-醜)
   //
     , `tsyin`
     , [畛](/entries/can#rendering-畛)
