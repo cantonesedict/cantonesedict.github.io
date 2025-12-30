@@ -74,6 +74,13 @@ P
   ++
   1. To whisper in the ear (Kangxi: 聶語也, 咠咠口舌聲也, 咠咠譖言也).
   ++
+L
+  ====
+  * 【咠】 (tship, tsip)
+    ==
+    - (_verb-like_) [to] whisper
+    ==
+  ====
 $$
 
 ### 戢1 | _Ts(')ap(7)_ [[cap1]]
@@ -114,6 +121,13 @@ C
   ==
   - Williams' 載戢干戈: Corrected _(2)tsoi_ (zoi2 上聲^) to _tsoi(3)_ (zoi3 去聲^).
   ==
+L
+  ====
+  * 【戢】 (tsrip)
+    ==
+    - (_verb-like_) [to] store (up), [to] gather (in), (_met._) [to] restrain, [to] check
+    ==
+  ====
 E
   ====
   - 【齊戢戢】 (cai4 cap1 cap1)
@@ -146,6 +160,13 @@ W
     - rapid [[Kangxi: 疾貌]];
     - cordial, harmonious, agreeing [[Kangxi: 和也]];
     - to accord with.
+    ==
+  ====
+L
+  ====
+  * 【濈】 (tsrip)
+    ==
+    - (_adjective-like_) huddled, accordant
     ==
   ====
 $$
@@ -193,6 +214,18 @@ W
     [[Otherwise, an alternative form of 咠. **See $咠cap1 for the canonical entry.**]]
     --
   ====
+L
+  ====
+  * 【緝】 (tship)
+    ==
+    - (_verb-like_) [to] spin (thread), [to] hem
+    - (_verb-like_) [to] continue
+    ==
+  * 【緝熙】 (tship xi)
+    ==
+    - (_adjective-like_) brilliant
+    ==
+  ====
 $$
 
 ### 葺1 | _Ts(')ap(7)_ [[cap1]]
@@ -238,6 +271,10 @@ R
   ⾞ + 9
 U
   U+8F2F
+V
+  ==
+  - zap6 (per 《廣韻》秦入切)
+  ==
 F
   ==
   - (F2.39 輯) 斂也聚也集也
@@ -267,4 +304,13 @@ P
   ++
   1. Classifier for parts, volumes, etc. of published works.
   ++
+L
+  ====
+  * 【輯】 (dzip)
+    ==
+    - (_adjective-like_) concordant
+    - (_verb-like_) [to] gather (up)
+    - (_verb-like_) [to] compile
+    ==
+  ====
 $$

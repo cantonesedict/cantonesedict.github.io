@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2025-12-29
+* %date-modified --> 2025-12-30
 * %copyright-prior-years -->
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -236,6 +236,9 @@ window.onload = applyFilter;
     , `dzim`
     , [鬵](/entries/cam#rendering-鬵)
   //
+    , `dzip`
+    , [輯](/entries/cap#rendering-輯)
+  //
     , `dzjem`
     , [鬵](/entries/cam#rendering-鬵)
   //
@@ -359,6 +362,15 @@ window.onload = applyFilter;
     , `tshinH`
     , [親~(in-law)](/entries/can#rendering-親-in-law)
   //
+    , `tship`
+    , [咠](/entries/cap#rendering-咠)
+  //
+    , `tship`
+    , [緝](/entries/cap#rendering-緝)
+  //
+    , `tship xi`
+    , [緝熙](/entries/cap#rendering-緝熙)
+  //
     , `tshit`
     , [七](/entries/cat#rendering-七)
   //
@@ -367,6 +379,9 @@ window.onload = applyFilter;
   //
     , `tshom`
     , [驂](/entries/caam#rendering-驂)
+  //
+    , `tsip`
+    , [咠](/entries/cap#rendering-咠)
   //
     , `tsrhae`
     , [差](/entries/caa#rendering-差)
@@ -409,6 +424,12 @@ window.onload = applyFilter;
   //
     , `tsrhwaejH`
     , [嘬](/entries/caai#rendering-嘬)
+  //
+    , `tsrip`
+    , [戢](/entries/cap#rendering-戢)
+  //
+    , `tsrip`
+    , [濈](/entries/cap#rendering-濈)
   //
     , `tsyhin`
     , [瞋](/entries/can#rendering-瞋)
