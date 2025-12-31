@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2025-12-30
+* %date-modified --> 2025-12-31
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -950,6 +950,10 @@ R
   ⼝ + 10
 U
   U+55C5
+A
+  ==
+  - 齅
+  ==
 V
   ==
   - hung3 (per 《集韻》香仲切)
@@ -964,6 +968,13 @@ W
     ==
     - To smell [[Kangxi: 以鼻就臭, 以鼻取氣]], to perceive odors as a dog does;
     - the plaintive cry of birds [[Fan Wan: 鳥哀鳴聲]].
+    ==
+  ====
+L
+  ====
+  * 【嗅】 (xjuwH)
+    ==
+    - (_verb-like_) [to] smell
     ==
   ====
 $$
@@ -1102,6 +1113,13 @@ W
         dried or cured grain.
     ==
   ====
+L
+  ====
+  * 【糗】 (khjuwX)
+    ==
+    - (_noun-like_) parched-grain
+    ==
+  ====
 $$
 
 ### 臭3 | _Ch(')au(3)_ [[cau3]]
@@ -1160,6 +1178,19 @@ W
     - _ch(')au(3) m(i/)(6)_
         [[cau3 mei6 臭味]]
         a bad ~~taste~~ ``smell``.
+    ==
+  ====
+C
+  ==
+  - Williams' "To track by the scent": This verb sense is now written 嗅.
+    Note that 禽走臭而知其迹者犬也 is a quote from 《說文》
+    explaining the presence of the component 犬 (hound).
+  ==
+L
+  ====
+  * 【臭】 (tsyhuwH)
+    ==
+    - (_noun-like_) smell
     ==
   ====
 $$
@@ -1414,6 +1445,14 @@ C
     In particular, 桎 applies to the feet,
     so 囚 is better rendered generically as "restrain", rather than "handcuff".
   ==
+L
+  ====
+  * 【囚】 (zjuw)
+    ==
+    - (_verb-like_) [to] imprison
+    - (_noun-like_) prisoner
+    ==
+  ====
 $$
 
 ### 幬4 | _(4)Ch(')au_ [[cau4]]
@@ -1434,9 +1473,16 @@ W
     - [[...]].
     ==
   ====
+L
+  ====
+  * 【幬】 (drjuw)
+    ==
+    - (_noun-like_) drape
+    ==
+  ====
 S
   ==
-  - $幬dou6 (TODO) <## cover ##>
+  - $幬dou6 (TODO) <## to cover ##>
   - $幬tou4 (TODO)
   ==
 $$

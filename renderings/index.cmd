@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2025-12-30
+* %date-modified --> 2025-12-31
 * %copyright-prior-years -->
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -215,6 +215,9 @@ window.onload = applyFilter;
     , `drinH`
     , [診](/entries/can#rendering-診)
   //
+    , `drjuw`
+    , [幬](/entries/cau#rendering-幬)
+  //
     , `dzam`
     , [慚](/entries/caam#rendering-慚)
   //
@@ -289,6 +292,9 @@ window.onload = applyFilter;
   //
     , `keat`
     , [恝](/entries/aat#rendering-恝)
+  //
+    , `khjuwX`
+    , [糗](/entries/cau#rendering-糗)
   //
     , `sej`
     , [棲](/entries/cai#rendering-棲)
@@ -458,6 +464,9 @@ window.onload = applyFilter;
     , `tsyhuwX`
     , [醜](/entries/cau#rendering-醜)
   //
+    , `tsyhuwH`
+    , [臭](/entries/cau#rendering-臭)
+  //
     , `tsyin`
     , [畛](/entries/can#rendering-畛)
   //
@@ -479,11 +488,17 @@ window.onload = applyFilter;
     , `tsyinH`
     , [袗](/entries/can#rendering-袗)
   //
+    , `xjuwH`
+    , [嗅](/entries/cau#rendering-嗅)
+  //
     , `zim`
     , [尋](/entries/cam#rendering-尋)
   //
     , `zim`
     , [鬵](/entries/cam#rendering-鬵)
+  //
+    , `zjuw`
+    , [囚](/entries/cau#rendering-囚)
 ''
 ||||
 <## /renderings-table ##>
