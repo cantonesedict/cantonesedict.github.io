@@ -2273,7 +2273,7 @@ class CharacterEntry:
             return
 
         for sense_match in re.finditer(
-            pattern=r'^[ ]+ - [ ]+ \( (?P<sense_type> \S+?) \) [ ]+ (?P<sense_renderings> .* )',
+            pattern=r'^[ ]+ - [ ]+ \( (?P<sense_type> \S+?) \) [ ]* (?P<sense_renderings> .* )',
             string=content,
             flags=re.MULTILINE | re.VERBOSE,
         ):
@@ -2283,13 +2283,30 @@ class CharacterEntry:
             if sense_line.count(met_marker := '(_met._)') > 1:
                 raise LintException(f'multiple occurrences of `{met_marker}` in `{sense_line}`')
 
-            sense_renderings = re.split(
-                pattern=',[ ]+',
-                string=sense_match.group('sense_renderings').replace(met_marker, ''),
-            )
+            sense_renderings_unsplit = sense_match.group('sense_renderings').replace(met_marker, '')
+            sense_renderings = [
+                rendering
+                for rendering in re.split(pattern=',[ ]+', string=sense_renderings_unsplit)
+                if rendering
+            ]
 
-            if sense_type not in ['_noun-like_', '_verb-like_', '_adjective-like_', '_adverb_', '_conjunction_']:
+            if sense_type not in [
+                '_noun-like_',
+                '_verb-like_',
+                '_adjective-like_',
+                '_adverb_',
+                '_conjunction_',
+                '_pronoun_',
+                '_speech-assist_',
+            ]:
                 raise LintException(f'invalid sense type `{sense_type}` in `{sense_line}`')
+
+            if sense_type in ['_speech-assist_']:
+                if sense_renderings:
+                    raise LintException(f'non-empty renderings for sense type `{sense_type}` in `{sense_line}`')
+            else:
+                if not sense_renderings:
+                    raise LintException(f'empty renderings for sense type `{sense_type}` in `{sense_line}`')
 
             if sense_type == '_verb-like_':
                 for verb_rendering in sense_renderings:

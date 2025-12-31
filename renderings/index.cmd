@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2025-12-31
-* %copyright-prior-years -->
+* %date-modified --> 2026-01-01
+* %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
 OrdinaryDictionaryReplacement: #.no-black-serif-note
@@ -218,6 +218,27 @@ window.onload = applyFilter;
     , `drjuw`
     , [幬](/entries/cau#rendering-幬)
   //
+    , `drjuw`
+    , [疇](/entries/cau#rendering-疇)
+  //
+    , `drjuw`
+    , [稠](/entries/cau#rendering-稠)
+  //
+    , `drjuw`
+    , [籌](/entries/cau#rendering-籌)
+  //
+    , `drjuw`
+    , [綢](/entries/cau#rendering-綢)
+  //
+    , `drjuw`
+    , [裯](/entries/cau#rendering-裯)
+  //
+    , `drjuw mjuw`
+    , [綢繆](/entries/cau#rendering-綢繆)
+  //
+    , `drjuw sjek`
+    , [疇昔](/entries/cau#rendering-疇昔)
+  //
     , `dzam`
     , [慚](/entries/caam#rendering-慚)
   //
@@ -244,6 +265,9 @@ window.onload = applyFilter;
   //
     , `dzjem`
     , [鬵](/entries/cam#rendering-鬵)
+  //
+    , `dzjuw`
+    , [遒](/entries/cau#rendering-遒)
   //
     , `dzjuw dzej`
     , [蝤蠐](/entries/cai#rendering-蝤蠐)
@@ -286,6 +310,9 @@ window.onload = applyFilter;
   //
     , `dzreamH`
     , [儳~(flippant)](/entries/caam#rendering-儳-flippant)
+  //
+    , `dzyuw`
+    , [酬](/entries/cau#rendering-酬)
   //
     , `homX domX`
     , [菡萏](/entries/aam#rendering-菡萏)
@@ -409,6 +436,9 @@ window.onload = applyFilter;
   //
     , `tsip`
     , [咠](/entries/cap#rendering-咠)
+  //
+    , `tsjuw`
+    , [遒](/entries/cau#rendering-遒)
   //
     , `tsrhae`
     , [差](/entries/caa#rendering-差)

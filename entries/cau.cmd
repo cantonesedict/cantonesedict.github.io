@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2025-12-31
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1595,6 +1595,19 @@ W
     [[...]]
     --
   ====
+L
+  ====
+  * 【疇】 (drjuw)
+    ==
+    - (_noun-like_) farming-field, hemp-field
+    - (_pronoun_) who
+    - (_noun-like_) category
+    ==
+  * 【疇昔】 (drjuw sjek)
+    ==
+    - (_noun-like_) former [day]
+    ==
+  ====
 $$
 
 ### 稠4 | _(4)Ch(')au_ [[cau4]]
@@ -1604,12 +1617,25 @@ R
   ⽲ + 8
 U
   U+7A20
+A
+  ==
+  - $綢4
+  ==
 F
   ==
   - (F1.52 稠) 密也
   ==
 W
   ====
+  - [[Page~27|n70 (4)綢]]
+    ==
+    - [[...]];
+    - close, thick, crowded [[Kangxi 綢: 綢者綢緻之言故爲密也]];
+    - [[...]].
+    ==
+    --
+    [[...]]
+    --
   - [[Page~27|n70 (4)稠]]
     ==
     - Grain growing close [[Kangxi: 穊也]];
@@ -1624,6 +1650,13 @@ W
     - _(4)ch(')au mat(9)_
         [[cau4 mat6 稠密]]
         close, crowded, intimate.
+    ==
+  ====
+L
+  ====
+  * 【稠】 (drjuw)
+    ==
+    - (_adjective-like_) dense
     ==
   ====
 $$
@@ -1682,6 +1715,15 @@ C
   - Williams' "To compute, to calculate": Alternatively, a counting-stick.
   - Williams' 更籌: Corrected _(1)kang_ (gang1) to _(1)k(a/)ng_ (gaang1).
   ==
+L
+  ====
+  * 【籌】 (drjuw)
+    ==
+    - (_noun-like_) throwing-arrow
+    - (_noun-like_) counting-stick
+    - (_noun-like_) plan
+    ==
+  ====
 E
   ====
   - 【籌】 (cau4-2)
@@ -1711,7 +1753,7 @@ W
   ====
   - [[Page~27|n70 (4)紬]]
     --
-    [[Alternative form of 綢. **See $綢cau4 for the canonical entry.**]]
+    [[Alternative form of 綢 (for the "silk" sense). **See $綢cau4 for the canonical entry.**]]
     --
   ====
 S
@@ -1729,7 +1771,7 @@ U
   U+7DA2
 A
   ==
-  - $紬4
+  - $紬4 (for "silk" sense)
   ==
 F
   ==
@@ -1776,8 +1818,8 @@ W
   - [[Page~27|n70 (4)綢]]
     ==
     - Used for the last [[紬]], when denoting silk;
-    - to bind, to wrap around, to twine about [[Kangxi 綢: 綢縛束也]];
-    - close, thick, crowded [[Kangxi 綢: 繆也]];
+    - to bind, to wrap around, to twine about [[Kangxi 綢: 繆也, 綢縛束也]];
+    - [[...]];
     - _(4)ch(')au (4)mau_
         [[cau4 mau4 綢繆]],
         to tie up;
@@ -1786,12 +1828,26 @@ W
     --
     [[...]]
     --
+    --
+    [[Otherwise, an alternative form of 稠. **See $稠cau4 for the canonical entry.**]]
+    --
   ====
 C
   ==
   - Williams' 生綢: Changed _(1)shang_ (sang1)
     to vernacular reading _(1)sh(a/)ng_ (saang1).
   ==
+L
+  ====
+  * 【綢】 (drjuw)
+    ==
+    - (_verb-like_) [to] wind
+    ==
+  * 【綢繆】 (drjuw mjuw)
+    ==
+    - (_verb-like_) [to] wind [and] bind
+    ==
+  ====
 S
   ==
   - $綢tou1 (TODO)
@@ -1821,6 +1877,13 @@ W
     --
     [[...]]
     --
+  ====
+L
+  ====
+  * 【裯】 (drjuw)
+    ==
+    - (_noun-like_) bedsheet
+    ==
   ====
 S
   ==
@@ -1980,6 +2043,13 @@ W
         a herald.
     ==
   ====
+L
+  ====
+  * 【遒】 (tsjuw, dzjuw)
+    ==
+    - (_verb-like_) [to] rally, [to] consolidate
+    ==
+  ====
 $$
 
 ### 酋4 | _(4)Ts(')au_ [[cau4]]
@@ -2084,6 +2154,14 @@ W
     - _(4)ch(')au t(a/)p(8) (1)t(')(i/)n (1)yan_
         [[cau4 daap3 tin1 jan1 酬答天恩]],
         to requite heaven's favor---in being saved from fire.
+    ==
+  ====
+L
+  ====
+  * 【酬】 (dzyuw)
+    ==
+    - (_verb-like_) [to] toast
+    - (_verb-like_) [to] repay
     ==
   ====
 $$
