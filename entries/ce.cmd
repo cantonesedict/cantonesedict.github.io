@@ -573,6 +573,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $斜4
+- ($衺4)
 - $邪4
 ==
 </nav>
@@ -587,7 +588,7 @@ U
   U+659C
 A
   ==
-  - 衺
+  - $衺4
   - $邪4
   ==
 F
@@ -645,6 +646,24 @@ S
   ==
 $$
 
+###+ 衺4 | _(4)Ts(')(e/)_ [[ce4]]
+
+$$.
+R
+  ⾐ + 4
+U
+  U+887A
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 邪. **See $邪ce4 for the canonical entry.**
+  1. Alternative form of 斜. **See $斜ce4 for the canonical entry.**
+  ++
+$$
+
 ### 邪4 | _(4)Ts(')(e/)_ [[ce4]]
 
 $$
@@ -654,7 +673,7 @@ U
   U+90AA
 A
   ==
-  - 衺
+  - $衺4
   ==
 V
   ==
