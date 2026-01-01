@@ -313,7 +313,7 @@ h4 .permalink{
 .sideways {
   background: #fec;
 }
-.sideways > ul {
+.sideways ul {
   align-items: center;
   display: flex;
   flex-wrap: wrap;
@@ -321,7 +321,7 @@ h4 .permalink{
   margin: 0;
   padding: 0 0.3rem;
 }
-.sideways > ul > li {
+.sideways li {
   font-weight: bold;
   padding: 0 0.7rem;
 }
