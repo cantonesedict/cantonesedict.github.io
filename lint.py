@@ -1479,7 +1479,10 @@ class EntryPage:
                 '<nav class="sideways">',
                 '=={.modern}',
                 [
-                    f'- {character_entry.same_page_link()}'
+                    (
+                        f'- {character_entry.same_page_link()}' if character_entry.is_canonical
+                        else f'- ({character_entry.same_page_link()})'
+                    )
                     for character_entry in character_entries_from_tone_number.get(tone_number, [])
                 ],
                 '==',
