@@ -327,6 +327,9 @@ h4 .permalink{
 }
 .sideways.characters li {
   font-weight: normal;
+  text-align: center;
+  min-width: 2em;
+  padding: 0 0.13rem;
 }
 
 .sign-off {
