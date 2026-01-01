@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cuk
-* %date-modified --> 2026-01-01
+* %date-modified --> 2026-01-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -59,6 +59,7 @@ $$
 - $蔟1
 - $觫1
 - ($觸1)
+- ($趣1)
 - $蹙1
 - $蹴1
 - $速1
@@ -76,6 +77,10 @@ R
   ⼈ + 7
 U
   U+4FC3
+A
+  ==
+  - $趣1 (for "urge" sense)
+  ==
 F
   [[Not present]]
 W
@@ -633,6 +638,28 @@ W
 S
   ==
   - $觸zuk1
+  ==
+$$
+
+###+ 趣1 | _Ts(')uk(7)_ [[cuk1]]
+
+$$.
+R
+  ⾛ + 8
+U
+  U+8DA3
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 促 (for the "urge" sense). **See $促cuk1 for the canonical entry.**
+  ++
+S
+  ==
+  - $趣cau2
+  - $趣ceoi3
   ==
 $$
 
