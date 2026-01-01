@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeot
-* %date-modified --> 2025-12-20
-* %copyright-prior-years --> "2023, "
+* %date-modified --> 2026-01-01
+* %copyright-prior-years --> "2023, 2025--"
 
 %%%
 
@@ -41,12 +41,12 @@ $$
 ##{#1 .williams} Chut(7) Tsut(7) [[zeot1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $卒1
 - $怵1
 - $捽1
-- $絀1
+- ($絀1)
 - $黜1
 ==
 </nav>

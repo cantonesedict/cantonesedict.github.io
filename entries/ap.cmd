@@ -46,7 +46,7 @@ $$
 ##{#1 .williams} Ap(7) [[ap1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $洽1
 ==
@@ -118,7 +118,7 @@ $$
 ##{#3 .williams} ``(O\)p(8)`` [[ap3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $庵3
 ==

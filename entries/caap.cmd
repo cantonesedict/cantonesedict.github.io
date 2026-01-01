@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caap
-* %date-modified --> 2025-12-26
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -39,12 +39,12 @@ $$
 ##{#3 .williams} Ch(')(a/)p(8) [[caap3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $扱3
-- $挿3
+- ($挿3)
 - $插3
-- $揷3
+- ($揷3)
 ==
 </nav>
 <## /tone-3-characters ##>

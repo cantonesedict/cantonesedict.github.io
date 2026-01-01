@@ -43,7 +43,7 @@ $$
 ##{#2 .williams} (2)(A/)m [[aam2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $菡2
 ==

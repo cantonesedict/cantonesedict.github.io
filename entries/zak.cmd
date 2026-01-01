@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zak
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -41,14 +41,14 @@ $$
 ##{#1 .williams} Chak(7) Tsak(7) [[zak1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $仄1
 - $側1
 - $則1
 - $昃1
-- $簀1
-- $鯽1
+- ($簀1)
+- ($鯽1)
 - $鰂1
 ==
 </nav>

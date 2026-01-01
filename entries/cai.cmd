@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2025-12-28
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -42,12 +42,12 @@ $$
 ##{#1 .williams} (1)Ts(')ai [[cai1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $凄1
+- ($凄1)
 - $妻1
 - $悽1
-- $栖1
+- ($栖1)
 - $棲1
 - $淒1
 - $緀1
@@ -362,7 +362,7 @@ $$
 ##{#3 .williams} Ts(')ai(3) [[cai3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $切3
 - $妻3
@@ -489,7 +489,7 @@ $$
 ##{#4 .williams} (4)Ts(')ai [[cai4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $嚌4
 - $懠4
@@ -688,11 +688,11 @@ $$
 ##{#5 .williams} (5)Ts(')ai [[cai5 陽上]]
 
 <## tone-5-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $泚5
+- ($泚5)
 - $薺5
-- $鮆5
+- ($鮆5)
 - $鱭5
 ==
 </nav>

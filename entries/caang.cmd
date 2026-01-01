@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caang
-* %date-modified --> 2025-12-26
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -42,15 +42,15 @@ $$
 ##{#1 .williams} (1)Ch(')(a/)ng [[caang1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $掙1
-- $搶1
+- ($搶1)
 - $撐1
-- $撑1
+- ($撑1)
 - $槍1
 - $橕1
-- $罉1
+- ($罉1)
 - $鎗1
 - $鐺1
 ==
@@ -364,9 +364,9 @@ $$
 ##{#2 .williams} ``(2)Ch(')(a/)ng`` [[caang2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $橙2
+- ($橙2)
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -396,11 +396,11 @@ $$
 ##{#3 .williams} Ch(')(a/)ng(3) [[caang3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $撐3
-- $撑3
-- $橕3
+- ($撑3)
+- ($橕3)
 - ${𨅝=⿰𧾷牚}3
 ==
 </nav>
@@ -567,7 +567,7 @@ $$
 ##{#4 .williams} (4)Ch(')(a/)ng [[caang4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $倀4
 - $棖4

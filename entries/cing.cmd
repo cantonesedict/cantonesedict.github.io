@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -59,18 +59,18 @@ $$
 ##{#1 .williams} (1)Ch(')ing (1)Ts(')ing [[cing1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $檉1
-- $淸1
+- ($淸1)
 - $清1
-- $秤1
+- ($秤1)
 - $稱1
 - $菁1
 - $蜻1
 - $蟶1
 - $赬1
-- $靑1
+- ($靑1)
 - $青1
 ==
 </nav>
@@ -615,13 +615,13 @@ $$
 ##{#2 .williams} (2)Ch(')ing (2)Ts(')ing [[cing2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $拯2
 - $裎2
 - $請2
 - $逞2
-- $郢2
+- ($郢2)
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -869,7 +869,7 @@ $$
 ##{#3 .williams} Ch(')ing(3) [[cing3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $秤3
 - $稱3
@@ -995,7 +995,7 @@ $$
 ##{#4 .williams} (4)Ch(')ing (4)Ts(')ing [[cing4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $呈4
 - $埕4

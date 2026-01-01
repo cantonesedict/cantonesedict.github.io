@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cek
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -45,11 +45,11 @@ $$
 ##{#3 .williams} ``Ch(')ek(8)`` ``Ts(')ek(8)`` [[cek3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $尺3
 - ${𤷫=⿸疒刺}3
-- $赤3
+- ($赤3)
 ==
 </nav>
 <## /tone-3-characters ##>

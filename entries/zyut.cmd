@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyut
-* %date-modified --> 2025-12-20
-* %copyright-prior-years --> "2023, "
+* %date-modified --> 2026-01-01
+* %copyright-prior-years --> "2023, 2025--"
 
 %%%
 
@@ -42,13 +42,13 @@ $$
 ##{#3 .williams} Ch(u:)t(8) Ts(u:)t(8) [[zyut3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $剟3
 - ${𠭴=⿰叕出}3
 - $啐3
 - $啜3
-- $嘬3
+- ($嘬3)
 - $拙3
 - $掇3
 - $梲3
@@ -57,7 +57,7 @@ $$
 - $綴3
 - $茁3
 - $蕝3
-- $蕞3
+- ($蕞3)
 - $輟3
 ==
 </nav>
@@ -630,11 +630,11 @@ $$
 ##{#6 .williams} ``Ch(u:)t(9)`` Ts(u:)t(9) [[zyut6 陽入]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $拙6
+- ($拙6)
 - $絕6
-- $綴6
+- ($綴6)
 ==
 </nav>
 <## /tone-6-characters ##>

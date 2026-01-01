@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aak
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -46,13 +46,13 @@ $$
 ##{#1 .williams} (A/)k(7) [[aak1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $厄1
+- ($厄1)
 - $呃1
-- $握1
+- ($握1)
 - $軛1
-- $阨1
+- ($阨1)
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -222,7 +222,7 @@ $$
 ##{#3 .williams} (A/)k(8) [[aak3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $鈪3
 ==

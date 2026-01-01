@@ -1476,10 +1476,13 @@ class EntryPage:
             tone_number = character_navigator.tone_number
             character_navigator_content_expected = Utilities.nested_newline_join([
                 f'<## tone-{tone_number}-characters ##>',
-                '<nav class="sideways">',
+                '<nav class="sideways characters">',
                 '=={.modern}',
                 [
-                    f'- {character_entry.same_page_link()}'
+                    (
+                        f'- {character_entry.same_page_link()}' if character_entry.is_canonical
+                        else f'- ({character_entry.same_page_link()})'
+                    )
                     for character_entry in character_entries_from_tone_number.get(tone_number, [])
                 ],
                 '==',

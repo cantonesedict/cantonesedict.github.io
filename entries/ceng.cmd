@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceng
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -44,10 +44,10 @@ $$
 ##{#1 .williams} (1)Ts(')eng [[ceng1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $靑1
-- $青1
+- ($靑1)
+- ($青1)
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -100,9 +100,9 @@ $$
 ##{#2 .williams} (2)Ts(')eng [[ceng2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $請2
+- ($請2)
 ==
 </nav>
 <## /tone-2-characters ##>

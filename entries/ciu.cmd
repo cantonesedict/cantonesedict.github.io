@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ciu
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -44,14 +44,14 @@ $$
 ##{#1 .williams} (1)Ch(')i(u/) ``(1)Ts(')i(u/)`` [[ciu1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $弨1
 - $昭1
-- $炤1
+- ($炤1)
 - $超1
 - $釗1
-- $鍫1
+- ($鍫1)
 - $鍬1
 ==
 </nav>
@@ -298,7 +298,7 @@ $$
 ##{#2 .williams} (2)Ts(')i(u/) [[ciu2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $悄2
 - $愀2
@@ -378,14 +378,14 @@ $$
 ##{#3 .williams} Ts(')i(u/)(3) [[ciu3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $俏3
 - $偢3
 - $峭3
 - $肖3
 - $誚3
-- $譙3
+- ($譙3)
 - $鞘3
 ==
 </nav>
@@ -638,7 +638,7 @@ $$
 ##{#4 .williams} (4)Ch(')i(u/) (4)Ts(')i(u/) [[ciu4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $憔4
 - $晁4

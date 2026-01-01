@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cam
-* %date-modified --> 2025-12-28
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -44,12 +44,12 @@ $$
 ##{#1 .williams} (1)Ts(')am [[cam1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $侵1
 - $浸1
-- $祲1
-- $鋟1
+- ($祲1)
+- ($鋟1)
 - $駸1
 ==
 </nav>
@@ -272,7 +272,7 @@ $$
 ##{#2 .williams} (2)Ts(')am [[cam2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $侵2
 - $寢2
@@ -384,9 +384,9 @@ $$
 ##{#3 .williams} Ch(')am(3) [[cam3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $譖3
+- ($譖3)
 - $讖3
 ==
 </nav>
@@ -478,12 +478,12 @@ $$
 ##{#4 .williams} (4)Ch(')am (4)Ts(')am [[cam4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $尋4
-- $沈4
+- ($沈4)
 - $沉4
-- $湛4
+- ($湛4)
 - $燖4
 - $鐔4
 - $霃4

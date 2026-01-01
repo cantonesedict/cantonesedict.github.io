@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaat
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -42,12 +42,12 @@ $$
 ##{#3 .williams} Ch(a/)t(8) [[zaat3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $扎3
 - $札3
 - $紮3
-- $茁3
+- ($茁3)
 - $軋3
 ==
 </nav>
@@ -251,9 +251,9 @@ $$
 ##{#6 .williams} ``Ts(a/)t(9)`` [[zaat6 陽入]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $曱6
+- ($曱6)
 - $甴6
 ==
 </nav>

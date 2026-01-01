@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyun
-* %date-modified --> 2025-12-20
-* %copyright-prior-years --> "2023, "
+* %date-modified --> 2026-01-01
+* %copyright-prior-years --> "2023, 2025--"
 
 %%%
 
@@ -44,21 +44,21 @@ $$
 ##{#1 .williams} (1)Ch(u:)n (1)Ts(u:)n [[zyun1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $剸1
-- $塼1
+- ($剸1)
+- ($塼1)
 - $專1
 - $尊1
-- $攢1
-- $朘1
-- $甎1
+- ($攢1)
+- ($朘1)
+- ($甎1)
 - $磚1
-- $耑1
-- $鐫1
-- $鑽1
+- ($耑1)
+- ($鐫1)
+- ($鑽1)
 - $鱄1
-- $鱒1
+- ($鱒1)
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -474,7 +474,7 @@ $$
 ##{#2 .williams} (2)Ch(u:)n (2)Ts(u:)n [[zyun2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $噂2
 - $囀2
@@ -743,7 +743,7 @@ $$
 ##{#3 .williams} ``Ch(u:)n(3)`` Ts(u:)n(3) [[zyun3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $傳3
 - $轉3
@@ -935,7 +935,7 @@ $$
 ##{#6 .williams} Ch(u:)n(6) [[zyun6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $傳6
 ==

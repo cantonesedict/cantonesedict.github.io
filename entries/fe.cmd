@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fe
-* %date-modified --> 2025-12-20
-* %copyright-prior-years --> "2023, "
+* %date-modified --> 2026-01-01
+* %copyright-prior-years --> "2023, 2025--"
 
 %%%
 
@@ -48,7 +48,7 @@ $$
 ##{#1 .williams} ``(1)F(e/)`` [[fe1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $啡1
 ==
@@ -100,9 +100,9 @@ $$
 ##{#4 .williams} ``(4)F(e/)`` [[fe4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $啡4
+- ($啡4)
 - $淝4
 ==
 </nav>

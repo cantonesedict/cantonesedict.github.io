@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fing
-* %date-modified --> 2025-12-20
-* %copyright-prior-years --> "2023, "
+* %date-modified --> 2026-01-01
+* %copyright-prior-years --> "2023, 2025--"
 
 %%%
 
@@ -46,9 +46,9 @@ $$
 ##{#1 .williams} (1)Fing [[fing1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $捹1
+- ($捹1)
 - $揈1
 ==
 </nav>
@@ -121,9 +121,9 @@ $$
 ##{#3 .williams} Fing(3) [[fing3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $捹3
+- ($捹3)
 - $揈3
 ==
 </nav>
@@ -199,9 +199,9 @@ $$
 ##{#6 .williams} Fing(6) [[fing6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $捹6
+- ($捹6)
 - $揈6
 ==
 </nav>

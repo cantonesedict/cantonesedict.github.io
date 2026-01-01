@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zok
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -42,10 +42,10 @@ $$
 ##{#3 .williams} Tsok(8) [[zok3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $作3
-- $昨3
+- ($昨3)
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -147,7 +147,7 @@ $$
 ##{#6 .williams} Chok(9) Tsok(9) [[zok6 陽入]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $怍6
 - $擢6

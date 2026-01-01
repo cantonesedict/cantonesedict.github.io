@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -43,7 +43,7 @@ $$
 ##{#1 .williams} (1)Ch(')(a/) [[caa1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $叉1
 - $岔1
@@ -335,7 +335,7 @@ $$
 ##{#2 .williams} ``(2)Ch(')(a/)`` [[caa2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $鑔2
 ==
@@ -375,14 +375,14 @@ $$
 ##{#3 .williams} Ch(')(a/)(3) [[caa3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $吒3
-- $咤3
+- ($吒3)
+- ($咤3)
 - $奼3
-- $岔3
-- $汊3
-- $蜡3
+- ($岔3)
+- ($汊3)
+- ($蜡3)
 - $詫3
 ==
 </nav>
@@ -581,7 +581,7 @@ $$
 ##{#4 .williams} (4)Ch(')(a/) [[caa4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $嗏4
 - $搽4
@@ -863,9 +863,9 @@ $$
 ##{#5 .williams} ``(5)Ch(')(a/)`` [[caa5 陽上]]
 
 <## tone-5-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $扠5
+- ($扠5)
 - $搽5
 ==
 </nav>
@@ -920,7 +920,7 @@ C
     1. The form 搽 for _(5)ch(')(a/)_ (caa5) is attested in
        [Eitel (1877)][eitel-dict-搽].
     ++
-  - [Wiktionary as of 2023-06-23][wiktionary-䵦]
+  - [Wiktionary as of 2026-01-01][wiktionary-䵦]
     suggests 䵦 as the original character, but I am not convinced by this.
     While the classical meaning (to dirty) is reasonable, the sound is less so.
     Starting with 《廣韻》徐野切,

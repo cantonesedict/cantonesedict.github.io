@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zap
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -41,9 +41,9 @@ $$
 ##{#1 .williams} Chap(7) Tsap(7) [[zap1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- ${𠽃=⿰口執}1
+- (${𠽃=⿰口執}1)
 - $執1
 - $汁1
 - $縶1

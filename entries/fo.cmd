@@ -41,7 +41,7 @@ $$
 ##{#1 .williams} (1)Fo [[fo1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $科1
 - $窠1
@@ -216,7 +216,7 @@ $$
 ##{#2 .williams} (2)Fo [[fo2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $伙2
 - $堁2
@@ -547,7 +547,7 @@ $$
 ##{#3 .williams} Fo(3) [[fo3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $課3
 - $貨3

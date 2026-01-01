@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cik
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -46,18 +46,18 @@ $$
 ##{#1 .williams} Ch(')ik(7) Ts(')ik(7) [[cik1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $勅1
+- ($勅1)
 - $叱1
 - $慼1
 - $戚1
 - $敕1
 - $斥1
-- $螫1
+- ($螫1)
 - $鏚1
 - $鶒1
-- $鷘1
+- ($鷘1)
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -417,10 +417,10 @@ $$
 ##{#3 .williams} Ch(')ik(8) Ts(')ik(8) [[cik3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $刺3
-- ${𤷫=⿸疒刺}3
+- (${𤷫=⿸疒刺}3)
 - $赤3
 ==
 </nav>

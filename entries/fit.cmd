@@ -39,7 +39,7 @@ $$
 ##{#1 .williams} F(i/)t``(7)`` [[fit1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ${𢞵=⿱飛必}1
 ==

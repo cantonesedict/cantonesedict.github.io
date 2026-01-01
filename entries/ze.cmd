@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ze
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -44,11 +44,11 @@ $$
 ##{#1 .williams} (1)Ch(e/) (1)Ts(e/) [[ze1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $啫1
 - $嗟1
-- $姐1
+- ($姐1)
 - $罝1
 - $遮1
 ==
@@ -249,7 +249,7 @@ $$
 ##{#2 .williams} (2)Ch(e/) (2)Ts(e/) [[ze2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $姐2
 - $者2
@@ -490,15 +490,15 @@ $$
 ##{#3 .williams} Ch(e/)(3) Ts(e/)(3) [[ze3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $借3
-- $啫3
+- ($啫3)
 - $嗻3
 - $柘3
-- $樜3
+- ($樜3)
 - $蔗3
-- $這3
+- ($這3)
 - $鷓3
 ==
 </nav>
@@ -813,7 +813,7 @@ $$
 ##{#6 .williams} Ts(e/)(6) [[ze6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $榭6
 - $灺6

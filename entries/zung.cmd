@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zung
-* %date-modified --> 2025-12-20
-* %copyright-prior-years --> "2023, "
+* %date-modified --> 2026-01-01
+* %copyright-prior-years --> "2023, 2025--"
 
 %%%
 
@@ -44,29 +44,29 @@ $$
 ##{#1 .williams} (1)Chung (1)Tsung [[zung1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $中1
 - $宗1
-- $從1
+- ($從1)
 - $忠1
-- $悰1
+- ($悰1)
 - $棕1
-- $椶1
+- ($椶1)
 - $樅1
 - $淙1
-- $潀1
-- $潨1
-- $琮1
+- ($潀1)
+- ($潨1)
+- ($琮1)
 - $盅1
 - $終1
 - $綜1
 - $縱1
 - $舂1
 - $螽1
-- $衷1
+- ($衷1)
 - $豵1
-- $踪1
+- ($踪1)
 - $蹤1
 - $鍾1
 - $鐘1
@@ -1180,12 +1180,12 @@ $$
 ##{#2 .williams} (2)Chung (2)Tsung [[zung2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $尰2
 - $種2
-- $粽2
-- $糉2
+- ($粽2)
+- ($糉2)
 - $縱2
 - $總2
 - $腫2
@@ -1537,17 +1537,17 @@ $$
 ##{#3 .williams} Chung(3) Tsung(3) [[zung3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $中3
-- $從3
+- ($從3)
 - $眾3
 - $種3
 - $粽3
-- $糉3
+- ($糉3)
 - $綜3
 - $縱3
-- $衆3
+- ($衆3)
 - $衷3
 ==
 </nav>
@@ -1977,7 +1977,7 @@ $$
 ##{#6 .williams} Chung(6) Tsung(6) [[zung6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $仲6
 - $從6

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -44,7 +44,7 @@ $$
 ##{#1 .williams} (1)Chau (1)Tsau [[zau1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $侜1
 - $周1
@@ -53,7 +53,7 @@ $$
 - $州1
 - $掫1
 - $揪1
-- $揫1
+- ($揫1)
 - $棷1
 - $洲1
 - $湫1
@@ -68,7 +68,7 @@ $$
 - $週1
 - $郰1
 - $鄒1
-- $鄹1
+- ($鄹1)
 - $陬1
 - $騶1
 - $鯫1
@@ -968,12 +968,12 @@ $$
 ##{#2 .williams} (2)Chau (2)Tsau [[zau2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $帚2
+- ($帚2)
 - $棷2
-- $箒2
-- $肘2
+- ($箒2)
+- ($肘2)
 - $走2
 - $酒2
 ==
@@ -1311,10 +1311,10 @@ $$
 ##{#3 .williams} Chau(3) Tsau(3) [[zau3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $僽3
-- $呪3
+- ($呪3)
 - $咒3
 - $咮3
 - $奏3
@@ -1322,7 +1322,7 @@ $$
 - $椆3
 - $甃3
 - $皺3
-- $祝3
+- ($祝3)
 - $縐3
 ==
 </nav>
@@ -1719,19 +1719,19 @@ $$
 ##{#6 .williams} Chau(6) Tsau(6) [[zau6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $冑6
 - $宙6
 - $就6
 - $岫6
 - $籀6
-- $籒6
+- ($籒6)
 - $紂6
 - $胄6
 - $袖6
 - $酎6
-- $驟6
+- ($驟6)
 - $鷲6
 ==
 </nav>

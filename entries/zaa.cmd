@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -46,7 +46,7 @@ $$
 ##{#1 .williams} (1)Ch(a/) (1)Ts(a/) [[zaa1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $之1
 - $吒1
@@ -460,9 +460,9 @@ $$
 ##{#2 .williams} (2)Ch(a/) [[zaa2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $痄2
+- ($痄2)
 - $鮓2
 ==
 </nav>
@@ -546,13 +546,13 @@ $$
 ##{#3 .williams} Ch(a/)(3) [[zaa3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $乍3
 - $吒3
 - $咋3
-- $咤3
-- $搾3
+- ($咤3)
+- ($搾3)
 - $榨3
 - $炸3
 - $痄3
@@ -1021,7 +1021,7 @@ $$
 ##{#4 .williams} ``(4)^Ch(a/)`` [[zaa4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $喳4
 ==
@@ -1059,7 +1059,7 @@ $$
 ##{#6 .williams} ``Ch(a/)(6)`` [[zaa6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $拃6
 - $鮓6

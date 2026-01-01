@@ -45,7 +45,7 @@ $$
 ##{#1 .williams} Fik(7) [[fik1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ${𠱥=⿰口卉}1
 ==
@@ -98,7 +98,7 @@ $$
 ##{#6 .williams} ``Fik(9)`` [[fik6 陽入]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $掝6
 ==

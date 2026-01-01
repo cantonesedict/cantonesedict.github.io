@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -43,7 +43,7 @@ $$
 ##{#1 .williams} (1)Ts(')(o\) [[cou1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $操1
 - $粗1
@@ -211,9 +211,9 @@ $$
 ##{#2 .williams} (2)Ts(')(o\) [[cou2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $懆2
+- ($懆2)
 - $艸2
 - $草2
 ==
@@ -353,7 +353,7 @@ $$
 ##{#3 .williams} Ts(')(o\)(3) [[cou3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $厝3
 - $噪3
@@ -366,7 +366,7 @@ $$
 - $譟3
 - $躁3
 - $造3
-- $酢3
+- ($酢3)
 - $醋3
 - $錯3
 ==
@@ -889,7 +889,7 @@ $$
 ##{#4 .williams} (4)Ts(')(o\) [[cou4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $嘈4
 - $徂4
@@ -1195,9 +1195,9 @@ $$
 ##{#5 .williams} (5)Ts(')(o\) [[cou5 陽上]]
 
 <## tone-5-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $儲5
+- ($儲5)
 - $造5
 ==
 </nav>

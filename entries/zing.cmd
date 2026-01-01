@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -48,7 +48,7 @@ $$
 ##{#1 .williams} (1)Ching (1)Tsing [[zing1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $偵1
 - $征1
@@ -866,7 +866,7 @@ $$
 ##{#2 .williams} (2)Ching (2)Tsing [[zing2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $井2
 - $整2
@@ -1058,7 +1058,7 @@ $$
 ##{#3 .williams} Ching(3) [[zing3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $政3
 - $正3
@@ -1424,11 +1424,11 @@ $$
 ##{#6 .williams} ``Ching(6)`` Tsing(6) [[zing6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $淨6
-- $穽6
-- $鄭6
+- ($穽6)
+- ($鄭6)
 - $阱6
 - $靖6
 - $靚6

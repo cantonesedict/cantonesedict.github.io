@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaap
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -42,12 +42,12 @@ $$
 ##{#3 .williams} Ch(a/)p(8) Ts(a/)p(8) [[zaap3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $劄3
 - $眨3
 - $砸3
-- $箚3
+- ($箚3)
 - $褶3
 ==
 </nav>
@@ -223,14 +223,14 @@ $$
 ##{#6 .williams} Ch(a/)p(9) Ts(a/)p(9) [[zaap6 陽入]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $什6
+- ($什6)
 - $极6
 - $槢6
 - $習6
 - $褶6
-- $襍6
+- ($襍6)
 - $襲6
 - $鈒6
 - $閘6

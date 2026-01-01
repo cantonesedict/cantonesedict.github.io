@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aat
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -43,15 +43,15 @@ $$
 ##{#3 .williams} (A/)t(8) [[aat3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $壓3
 - $恝3
-- $戛3
-- $戞3
+- ($戛3)
+- ($戞3)
 - $押3
 - $揠3
-- $秸3
+- ($秸3)
 - $遏3
 - $閼3
 - $頞3

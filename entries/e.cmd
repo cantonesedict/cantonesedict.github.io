@@ -44,7 +44,7 @@ $$
 ##{#1 .williams} (1)(E/) [[e1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ${𫫃=⿰口挨}1
 ==
@@ -98,7 +98,7 @@ $$
 ##{#6 .williams} ``(E/)(6)`` [[e6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $㖡6
 ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2025-12-22
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -45,15 +45,15 @@ $$
 ##{#1 .williams} (1)Chi(u/) (1)Tsi(u/) [[ziu1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $噍1
 - $招1
-- $昭1
-- $晁1
+- ($昭1)
+- ($晁1)
 - $朝1
 - $椒1
-- $炤1
+- ($炤1)
 - $焦1
 - $燋1
 - $礁1
@@ -638,7 +638,7 @@ $$
 ##{#2 .williams} (2)Chi(u/) ``(2)Tsi(u/)`` [[ziu2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $剿2
 - $勦2
@@ -775,9 +775,9 @@ $$
 ##{#3 .williams} Chi(u/)(3) Tsi(u/)(3) [[ziu3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $炤3
+- ($炤3)
 - $照3
 - $燋3
 - $詔3
@@ -1022,13 +1022,13 @@ $$
 ##{#6 .williams} Chi(u/)(6) Tsi(u/)(6) [[ziu6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $兆6
+- ($兆6)
 - $召6
 - $噍6
-- $嚼6
-- $旐6
+- ($嚼6)
+- ($旐6)
 - $趙6
 ==
 </nav>

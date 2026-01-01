@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaang
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -45,16 +45,16 @@ $$
 ##{#1 .williams} (1)Ch(a/)ng [[zaang1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $崢1
-- $棦1
-- $爭1
-- $琤1
-- $箏1
+- ($崢1)
+- ($棦1)
+- ($爭1)
+- ($琤1)
+- ($箏1)
 - $㬹1
-- $踭1
-- $錚1
+- ($踭1)
+- ($錚1)
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -287,10 +287,10 @@ $$
 ##{#3 .williams} ``Ch(a/)ng(3)`` [[zaang3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $爭3
-- $諍3
+- ($爭3)
+- ($諍3)
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -348,7 +348,7 @@ $$
 ##{#6 .williams} Ch(a/)ng(6) [[zaang6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $掙6
 ==

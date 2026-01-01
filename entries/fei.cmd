@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fei
-* %date-modified --> 2025-12-20
-* %copyright-prior-years --> "2023, "
+* %date-modified --> 2026-01-01
+* %copyright-prior-years --> "2023, 2025--"
 
 %%%
 
@@ -42,9 +42,9 @@ $$
 ##{#1 .williams} (1)F(i/) [[fei1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $匪1
+- ($匪1)
 - $妃1
 - $扉1
 - $緋1
@@ -481,10 +481,10 @@ $$
 ##{#2 .williams} (2)F(i/) [[fei2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $匪2
-- $屝2
+- ($屝2)
 - $悱2
 - $斐2
 - $棐2
@@ -494,7 +494,7 @@ $$
 - $菲2
 - $蜚2
 - $誹2
-- $非2
+- ($非2)
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -944,7 +944,7 @@ $$
 ##{#4 .williams} (4)F(i/) [[fei4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $淝4
 - $痱4
@@ -1163,12 +1163,12 @@ $$
 ##{#6 .williams} F(i/)(6) [[fei6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $屝6
 - $狒6
-- $翡6
-- $菲6
+- ($翡6)
+- ($菲6)
 ==
 </nav>
 <## /tone-6-characters ##>

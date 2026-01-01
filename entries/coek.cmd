@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coek
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -41,7 +41,7 @@ $$
 ##{#3 .williams} Ch(')(e/)uk(8) Ts(')(e/)uk(8) [[coek3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $倬3
 - $卓3
@@ -52,7 +52,7 @@ $$
 - $綽3
 - $芍3
 - $踔3
-- $鵲3
+- ($鵲3)
 ==
 </nav>
 <## /tone-3-characters ##>

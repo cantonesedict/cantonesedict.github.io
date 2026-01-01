@@ -39,7 +39,7 @@ $$
 ##{#3 .williams} Ts(')(i/)p(8) [[cip3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $妾3
 ==

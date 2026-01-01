@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zan
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -42,11 +42,11 @@ $$
 ##{#1 .williams} (1)Chan [[zan1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $珍1
-- $甄1
-- $眞1
+- ($甄1)
+- ($眞1)
 - $真1
 ==
 </nav>
@@ -232,7 +232,7 @@ $$
 ##{#2 .williams} (2)Chan [[zan2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $賑2
 ==
@@ -271,14 +271,14 @@ $$
 ##{#3 .williams} Chan(3) [[zan3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $侲3
 - $圳3
 - $帪3
 - $振3
 - $賑3
-- $鎭3
+- ($鎭3)
 - $鎮3
 - $震3
 ==
@@ -636,10 +636,10 @@ $$
 ##{#6 .williams} Chan(6) [[zan6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $陣6
-- $陳6
+- ($陳6)
 ==
 </nav>
 <## /tone-6-characters ##>

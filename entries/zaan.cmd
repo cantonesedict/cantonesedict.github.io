@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -43,13 +43,13 @@ $$
 ##{#2 .williams} (2)Ch(a/)n (2)Ts(a/)n [[zaan2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $儹2
 - $㜺2
 - $寁2
 - $昝2
-- $棧2
+- ($棧2)
 - $琖2
 - $盞2
 - $趲2
@@ -370,10 +370,10 @@ $$
 ##{#3 .williams} ``Ch(a/)n(3)`` Ts(a/)n(3) [[zaan3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $撰3
-- $濺3
+- ($撰3)
+- ($濺3)
 - $灒3
 - $瓚3
 - $讚3
@@ -627,7 +627,7 @@ $$
 ##{#6 .williams} Ch(a/)n(6) [[zaan6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $撰6
 - $棧6
@@ -635,7 +635,7 @@ $$
 - $虥6
 - $譔6
 - $賺6
-- $贃6
+- ($贃6)
 - $輚6
 - $饌6
 ==

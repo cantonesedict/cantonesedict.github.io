@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faa
-* %date-modified --> 2025-12-20
-* %copyright-prior-years --> "2023, "
+* %date-modified --> 2026-01-01
+* %copyright-prior-years --> "2023, 2025--"
 
 %%%
 
@@ -40,10 +40,10 @@ $$
 ##{#1 .williams} (1)F(a/) [[faa1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $花1
-- $華1
+- ($華1)
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -217,7 +217,7 @@ $$
 ##{#3 .williams} F(a/)(3) [[faa3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $化3
 ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -41,10 +41,10 @@ $$
 ##{#1 .williams} (1)Ch(a/)i [[zaai1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $斋1
-- $齊1
+- ($斋1)
+- ($齊1)
 - $齋1
 ==
 </nav>
@@ -226,12 +226,12 @@ $$
 ##{#3 .williams} Ch(a/)i(3) [[zaai3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $債3
 - $瘵3
 - $簀3
-- $責3
+- ($責3)
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -375,11 +375,11 @@ $$
 ##{#6 .williams} Ch(a/)i(6) [[zaai6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $寨6
 - $眥6
-- $砦6
+- ($砦6)
 - $豸6
 ==
 </nav>

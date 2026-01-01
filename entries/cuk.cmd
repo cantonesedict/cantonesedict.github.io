@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cuk
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -41,29 +41,29 @@ $$
 ##{#1 .williams} Ch(')uk(7) Ts(')uk(7) [[cuk1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $促1
 - $慉1
 - $搐1
 - $束1
 - $樕1
-- ${𣙙=⿰木敕}1
+- (${𣙙=⿰木敕}1)
 - $畜1
 - $矗1
 - $簇1
 - $簌1
-- ${𫂙=⿱𥫗敕}1
+- (${𫂙=⿱𥫗敕}1)
 - $蓄1
 - $蔌1
 - $蔟1
 - $觫1
-- $觸1
+- ($觸1)
 - $蹙1
 - $蹴1
 - $速1
 - $遬1
-- $顣1
+- ($顣1)
 - $餗1
 ==
 </nav>

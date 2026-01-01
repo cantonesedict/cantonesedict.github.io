@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceon
-* %date-modified --> 2025-12-20
-* %copyright-prior-years --> "2023, "
+* %date-modified --> 2026-01-01
+* %copyright-prior-years --> "2023, 2025--"
 
 %%%
 
@@ -43,7 +43,7 @@ $$
 ##{#1 .williams} (1)Ch(')un [[ceon1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $春1
 - $椿1
@@ -206,7 +206,7 @@ $$
 ##{#2 .williams} (2)Ch(')un [[ceon2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $惷2
 - $蠢2
@@ -343,17 +343,17 @@ $$
 ##{#4 .williams} (4)Ts(')un [[ceon4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $巡4
-- $廵4
+- ($廵4)
 - $循4
 - $揗4
 - $旬4
 - $秦4
 - $紃4
 - $螓4
-- $馴4
+- ($馴4)
 ==
 </nav>
 <## /tone-4-characters ##>

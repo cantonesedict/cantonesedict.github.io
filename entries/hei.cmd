@@ -45,7 +45,7 @@ $$
 ##{#3 .williams} H(i/)(3) [[hei3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $屭3
 ==

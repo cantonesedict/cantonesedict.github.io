@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caak
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -47,10 +47,10 @@ $$
 ##{#1 .williams} ``Ch(')(a/)k(7)`` [[caak1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $惻1
-- $測1
+- ($惻1)
+- ($測1)
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -101,14 +101,14 @@ $$
 ##{#3 .williams} Ch(')(a/)k(8) [[caak3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $冊3
-- $册3
+- ($册3)
 - $坼3
 - $拆3
 - $柵3
-- $栅3
+- ($栅3)
 - $策3
 - $茦3
 ==
@@ -443,7 +443,7 @@ $$
 ##{#6 .williams} Ts(')(a/)k(9) [[caak6 陽入]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $蠈6
 - $賊6

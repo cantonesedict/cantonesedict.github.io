@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -45,27 +45,27 @@ $$
 ##{#1 .williams} (1)Ch(')(i/) (1)Ts(')z' [[ci1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $呞1
-- $呰1
+- ($呞1)
+- ($呰1)
 - $嗤1
 - $媸1
 - $差1
 - $疵1
-- $痴1
+- ($痴1)
 - $癡1
 - $笞1
-- ${𥼝=⿰米禽}1
-- $胝1
+- (${𥼝=⿰米禽}1)
+- ($胝1)
 - $蚩1
-- $褫1
+- ($褫1)
 - $雌1
-- $骴1
+- ($骴1)
 - $鴟1
 - $黐1
 - $齝1
-- ${𪗪=⿰齒司}1
+- (${𪗪=⿰齒司}1)
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -706,21 +706,21 @@ $$
 ##{#2 .williams} (2)Ch(')(i/) (2)Ts(')z' [[ci2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $佌2
 - $侈2
 - $哆2
 - $始2
-- $弛2
+- ($弛2)
 - $恥2
 - $杝2
-- $柂2
-- $柿2
+- ($柂2)
+- ($柿2)
 - $此2
 - $泚2
 - $矢2
-- $耻2
+- ($耻2)
 - $褫2
 - $豕2
 - $齒2
@@ -1303,25 +1303,25 @@ $$
 ##{#3 .williams} Ch(')(i/)(3) Ts(')z'(3) [[ci3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $佽3
 - $刺3
-- $厠3
+- ($厠3)
 - $啻3
 - $幟3
 - $廁3
-- $恣3
-- $懥3
+- ($恣3)
+- ($懥3)
 - $朿3
 - $次3
 - $熾3
-- $糦3
-- $織3
-- $翄3
+- ($糦3)
+- ($織3)
+- ($翄3)
 - $翅3
 - $蛓3
-- $螆3
+- ($螆3)
 - $賜3
 - $饎3
 - $骴3
@@ -2001,37 +2001,37 @@ $$
 ##{#4 .williams} (4)Ch(')(i/) (4)Ts(')z' [[ci4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $呰4
+- ($呰4)
 - $坻4
 - $墀4
 - $弛4
 - $慈4
 - $持4
-- $柿4
+- ($柿4)
 - $池4
 - $治4
 - $瓷4
-- $疵4
+- ($疵4)
 - $磁4
 - $祠4
 - $篪4
-- $粢4
-- $糍4
+- ($粢4)
+- ($糍4)
 - $臍4
 - $茨4
 - $茲4
 - $蚳4
 - $詞4
 - $踟4
-- $辞4
+- ($辞4)
 - $辭4
 - $遲4
 - $餈4
 - $馳4
 - $鶿4
-- $鷀4
+- ($鷀4)
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -3040,7 +3040,7 @@ $$
 ##{#5 .williams} (5)Ts(')z' [[ci5 陽上]]
 
 <## tone-5-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $似5
 - $姒5

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zuk
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -42,7 +42,7 @@ $$
 ##{#1 .williams} Chuk(7) Tsuk(7) [[zuk1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $囑1
 - $捉1
@@ -57,7 +57,7 @@ $$
 - $粥1
 - $觸1
 - $足1
-- $鬻1
+- ($鬻1)
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -683,23 +683,23 @@ $$
 ##{#6 .williams} Chuk(9) Tsuk(9) [[zuk6 陽入]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $俗6
 - $妯6
 - $族6
-- $柚6
+- ($柚6)
 - $濁6
-- $簇6
+- ($簇6)
 - $續6
 - $蓫6
-- $蔟6
+- ($蔟6)
 - $藚6
 - $躅6
 - $軸6
 - $逐6
 - $鏃6
-- $鷟6
+- ($鷟6)
 ==
 </nav>
 <## /tone-6-characters ##>

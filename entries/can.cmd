@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2025-12-29
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -44,7 +44,7 @@ $$
 ##{#1 .williams} (1)Ch(')an (1)Ts(')an [[can1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $嗔1
 - $嚫1
@@ -298,7 +298,7 @@ $$
 ##{#2 .williams} (2)Ch(')an [[can2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $哂2
 - $畛2
@@ -741,13 +741,13 @@ $$
 ##{#3 .williams} Ch(')an(3) ``Ts(')an(3)`` [[can3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $櫬3
 - $襯3
 - $親3
 - $趁3
-- $趂3
+- ($趂3)
 - $齔3
 ==
 </nav>
@@ -986,7 +986,7 @@ $$
 ##{#4 .williams} (4)Ch(')an [[can4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $塵4
 - $蔯4

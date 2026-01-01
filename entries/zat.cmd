@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zat
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -42,14 +42,14 @@ $$
 ##{#1 .williams} Chat(7) [[zat1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $只1
+- ($只1)
 - $枳1
 - $質1
-- $郅1
+- ($郅1)
 - $鑕1
-- $隲1
+- ($隲1)
 - $騭1
 ==
 </nav>
@@ -288,9 +288,9 @@ $$
 ##{#6 .williams} Chat(9) Tsat(9) [[zat6 陽入]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $咥6
+- ($咥6)
 - $姪6
 - $嫉6
 - $挃6

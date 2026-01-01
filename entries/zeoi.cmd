@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -48,13 +48,13 @@ $$
 ##{#1 .williams} (1)Chui (1)Ts(u:) (1)Tsui ``(1)Ts(u/)i`` [[zeoi1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $且1
 - $椎1
 - $沮1
 - $疽1
-- $睢1
+- ($睢1)
 - $脧1
 - $苴1
 - $菹1
@@ -609,13 +609,13 @@ $$
 ##{#2 .williams} (2)Ts(u:) (2)Tsui [[zeoi2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $咀2
 - $嘴2
 - $沮2
 - $觜2
-- $詛2
+- ($詛2)
 - $齟2
 ==
 </nav>
@@ -894,9 +894,9 @@ $$
 ##{#3 .williams} ``Chui(3)`` ``Ts(u:)(3)`` Tsui(3) [[zeoi3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $冣3
+- ($冣3)
 - $惴3
 - $最3
 - $沮3
@@ -1219,22 +1219,22 @@ $$
 ##{#6 .williams} Chui(6) Ts(u:)(6) Ts(u/)i(6) [[zeoi6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $冣6
-- $叙6
+- ($冣6)
+- ($叙6)
 - $墜6
 - $序6
-- $敍6
+- ($敍6)
 - $敘6
-- $綴6
+- ($綴6)
 - $縋6
 - $罪6
 - $聚6
 - $藇6
 - $贅6
-- $辠6
-- $隊6
+- ($辠6)
+- ($隊6)
 - $鱮6
 ==
 </nav>

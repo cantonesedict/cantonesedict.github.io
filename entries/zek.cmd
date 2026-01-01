@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zek
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -47,10 +47,10 @@ $$
 ##{#1 .williams} ``Tsek(7)`` [[zek1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $唧1
-- $喞1
+- ($喞1)
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -111,9 +111,9 @@ $$
 ##{#3 .williams} ``Chek(8)`` Tsek(8) [[zek3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $拓3
+- ($拓3)
 - $摭3
 - $炙3
 - $瘠3
@@ -614,10 +614,10 @@ $$
 ##{#6 .williams} Tsek(9) [[zek6 陽入]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $席6
-- $蓆6
+- ($席6)
+- ($蓆6)
 ==
 </nav>
 <## /tone-6-characters ##>

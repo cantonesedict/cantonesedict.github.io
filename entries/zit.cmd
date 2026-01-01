@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zit
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -43,9 +43,9 @@ $$
 ##{#1 .williams} Ch(i/)t(7) [[zit1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $折1
+- ($折1)
 - $擳1
 ==
 </nav>
@@ -139,20 +139,20 @@ $$
 ##{#3 .williams} Ch(i/)t(8) Ts(i/)t(8) [[zit3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $哲3
-- $喆3
+- ($喆3)
 - $婕3
 - $折3
-- $捷3
+- ($捷3)
 - $晢3
 - $櫛3
 - $浙3
 - $癤3
 - $節3
 - $蜇3
-- $蟄3
+- ($蟄3)
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -619,7 +619,7 @@ $$
 ##{#6 .williams} Ts(i/)t(9) [[zit6 陽入]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $截6
 - $捷6

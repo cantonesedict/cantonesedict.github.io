@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cin
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -44,12 +44,12 @@ $$
 ##{#1 .williams} (1)Ts(')(i/)n [[cin1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $千1
 - $芊1
-- $躚1
-- $迁1
+- ($躚1)
+- ($迁1)
 - $遷1
 - $阡1
 - $韆1
@@ -336,12 +336,12 @@ $$
 ##{#2 .williams} ``(2)Ch(')(i/)n`` (2)Ts(')(i/)n [[cin2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $俴2
+- ($俴2)
 - $淺2
-- $踐2
-- $闡2
+- ($踐2)
+- ($闡2)
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -476,7 +476,7 @@ $$
 ##{#4 .williams} (4)Ch(')(i/)n (4)Ts(')(i/)n [[cin4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $前4
 - $廛4
@@ -812,7 +812,7 @@ $$
 ##{#5 .williams} (5)Ts(')(i/)n [[cin5 陽上]]
 
 <## tone-5-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $俴5
 - $踐5

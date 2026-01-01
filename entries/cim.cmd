@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -44,13 +44,13 @@ $$
 ##{#1 .williams} ``(1)Ch(')(i/)m`` (1)Ts(')(i/)m [[cim1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $僉1
-- ${𠠃=⿰⿳从一韭刂}1
+- (${𠠃=⿰⿳从一韭刂}1)
 - $㔐1
 - $孅1
-- $幨1
+- ($幨1)
 - $憸1
 - $摻1
 - $殲1
@@ -58,7 +58,7 @@ $$
 - $簽1
 - $籤1
 - $纖1
-- $襜1
+- ($襜1)
 - $鋟1
 ==
 </nav>
@@ -558,10 +558,10 @@ $$
 ##{#2 .williams} (2)Ch(')(i/)m [[cim2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $諂2
-- $讇2
+- ($讇2)
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -642,14 +642,14 @@ $$
 ##{#3 .williams} ``Ch(')(i/)m(3)`` Ts(')(i/)m(3) [[cim3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $僭3
 - $塹3
-- $壍3
+- ($壍3)
 - $暹3
 - $槧3
-- $䠨3
+- ($䠨3)
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -847,11 +847,11 @@ $$
 ##{#4 .williams} (4)Ts(')(i/)m [[cim4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $撍4
 - $潛4
-- $潜4
+- ($潜4)
 ==
 </nav>
 <## /tone-4-characters ##>

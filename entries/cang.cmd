@@ -39,7 +39,7 @@ $$
 ##{#4 .williams} (4)Ts(')ang [[cang4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $層4
 - $曾4

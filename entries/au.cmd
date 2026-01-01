@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> au
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -45,7 +45,7 @@ $$
 ##{#1 .williams} (1)Au [[au1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $區1
 - $嘔1
@@ -355,10 +355,10 @@ $$
 ##{#2 .williams} (2)Au [[au2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $嘔2
-- $歐2
+- ($歐2)
 - $毆2
 ==
 </nav>
@@ -506,7 +506,7 @@ $$
 ##{#3 .williams} Au(3) [[au3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $漚3
 ==

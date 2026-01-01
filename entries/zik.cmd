@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -47,14 +47,14 @@ $$
 ##{#1 .williams} Chik(7) Tsik(7) [[zik1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $勣1
 - $即1
-- $卽1
+- ($卽1)
 - $唧1
-- $喞1
-- $嘖1
+- ($喞1)
+- ($嘖1)
 - $堲1
 - $幘1
 - $漬1
@@ -67,8 +67,8 @@ $$
 - $職1
 - $跡1
 - $踖1
-- $蹟1
-- $迹1
+- ($蹟1)
+- ($迹1)
 - $陟1
 - $鯽1
 ==
@@ -915,13 +915,13 @@ $$
 ##{#3 .williams} Chik(8) Tsik(8) [[zik3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $瘠3
-- $脊3
-- $蹐3
-- $隻3
-- $鶺3
+- ($瘠3)
+- ($脊3)
+- ($蹐3)
+- ($隻3)
+- ($鶺3)
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -1050,9 +1050,9 @@ $$
 ##{#6 .williams} Chik(9) Tsik(9) [[zik6 陽入]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $値6
+- ($値6)
 - $值6
 - $埴6
 - $夕6
@@ -1068,7 +1068,7 @@ $$
 - $籍6
 - $蓆6
 - $藉6
-- $蟄6
+- ($蟄6)
 ==
 </nav>
 <## /tone-6-characters ##>

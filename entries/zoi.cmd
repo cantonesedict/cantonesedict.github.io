@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoi
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -42,15 +42,15 @@ $$
 ##{#1 .williams} (1)Tsoi [[zoi1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $哉1
 - $栽1
 - $災1
-- $灾1
-- $烖1
-- $甾1
-- $菑1
+- ($灾1)
+- ($烖1)
+- ($甾1)
+- ($菑1)
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -328,10 +328,10 @@ $$
 ##{#2 .williams} (2)Tsoi [[zoi2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $宰2
-- $滓2
+- ($滓2)
 - $載2
 ==
 </nav>
@@ -469,7 +469,7 @@ $$
 ##{#3 .williams} Tsoi(3) [[zoi3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $再3
 - $載3
@@ -604,7 +604,7 @@ $$
 ##{#6 .williams} Tsoi(6) [[zoi6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $儎6
 - $在6

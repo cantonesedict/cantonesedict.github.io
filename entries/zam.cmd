@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -44,16 +44,16 @@ $$
 ##{#1 .williams} (1)Cham ``(1)Tsam`` [[zam1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $斟1
-- $椹1
+- ($椹1)
 - $砧1
-- $碪1
+- ($碪1)
 - $祲1
 - $箴1
 - $針1
-- $鍼1
+- ($鍼1)
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -390,7 +390,7 @@ $$
 ##{#2 .williams} (2)Cham (2)Tsam [[zam2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $怎2
 - $枕2
@@ -526,13 +526,13 @@ $$
 ##{#3 .williams} Cham(3) Tsam(3) [[zam3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $僭3
 - $枕3
-- $沁3
+- ($沁3)
 - $浸3
-- $湛3
+- ($湛3)
 - $譖3
 ==
 </nav>
@@ -808,11 +808,11 @@ $$
 ##{#6 .williams} Cham(6) [[zam6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ${𠹻=⿰口朕}6
 - $朕6
-- $浸6
+- ($浸6)
 ==
 </nav>
 <## /tone-6-characters ##>

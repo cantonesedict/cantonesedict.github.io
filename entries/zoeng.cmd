@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -44,7 +44,7 @@ $$
 ##{#1 .williams} (1)Ch(e/)ung (1)Ts(e/)ung [[zoeng1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $嫜1
 - $將1
@@ -57,11 +57,11 @@ $$
 - $獐1
 - $璋1
 - $章1
-- $䊢1
+- ($䊢1)
 - $蔣1
 - $螿1
 - $鄣1
-- $麞1
+- ($麞1)
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -661,9 +661,9 @@ $$
 ##{#2 .williams} (2)Ch(e/)ung (2)Ts(e/)ung [[zoeng2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $奬2
+- ($奬2)
 - $掌2
 - $槳2
 - $獎2
@@ -928,12 +928,12 @@ $$
 ##{#3 .williams} Ch(e/)ung(3) Ts(e/)ung(3) [[zoeng3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $仗3
+- ($仗3)
 - $將3
 - $帳3
-- $張3
+- ($張3)
 - $悵3
 - $漲3
 - $瘴3
@@ -1410,7 +1410,7 @@ $$
 ##{#6 .williams} Ch(e/)ung(6) Ts(e/)ung(6) [[zoeng6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $丈6
 - $仗6

@@ -45,15 +45,15 @@ $$
 ##{#1 .williams} (1)Ch(')au (1)Ts(')au [[cau1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $偢1
+- ($偢1)
 - $妯1
-- $愀1
+- ($愀1)
 - $抽1
 - $掫1
-- $揪1
-- $揫1
+- ($揪1)
+- ($揫1)
 - $楸1
 - $湫1
 - $煍1
@@ -63,7 +63,7 @@ $$
 - $篘1
 - $紬1
 - $鞦1
-- $鰌1
+- ($鰌1)
 - $鰍1
 - $鶖1
 ==
@@ -773,7 +773,7 @@ $$
 ##{#2 .williams} (2)Ch(')au [[cau2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $丑2
 - $醜2
@@ -908,12 +908,12 @@ $$
 ##{#3 .williams} Ch(')au(3) Ts(')au(3) [[cau3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $凑3
+- ($凑3)
 - $嗅3
 - $湊3
-- $簇3
+- ($簇3)
 - $糗3
 - $臭3
 - $蔟3
@@ -1301,9 +1301,9 @@ $$
 ##{#4 .williams} (4)Ch(')au (4)Ts(')au [[cau4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $仇4
+- ($仇4)
 - $儔4
 - $囚4
 - $幬4
@@ -1313,15 +1313,15 @@ $$
 - $疇4
 - $稠4
 - $籌4
-- $紬4
+- ($紬4)
 - $綢4
 - $裯4
 - $讎4
-- $讐4
+- ($讐4)
 - $躊4
 - $遒4
-- $酋4
-- $酧4
+- ($酋4)
+- ($酧4)
 - $酬4
 ==
 </nav>
@@ -2170,7 +2170,7 @@ $$
 ##{#5 .williams} (5)Ch(')au [[cau5 陽上]]
 
 <## tone-5-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ${𧽒=⿺走臭}5
 ==

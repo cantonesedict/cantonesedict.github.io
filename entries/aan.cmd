@@ -43,7 +43,7 @@ $$
 ##{#3 .williams} (A/)n(3) [[aan3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $晏3
 - $鷃3

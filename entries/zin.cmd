@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -44,19 +44,19 @@ $$
 ##{#1 .williams} (1)Ch(i/)n (1)Ts(i/)n [[zin1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $儃1
 - $戔1
 - $旃1
-- $毡1
+- ($毡1)
 - $氈1
-- $氊1
-- $淺1
+- ($氊1)
+- ($淺1)
 - $湔1
 - $濺1
 - $煎1
-- $牋1
+- ($牋1)
 - $皽1
 - $箋1
 - $籛1
@@ -694,17 +694,17 @@ $$
 ##{#2 .williams} (2)Ch(i/)n (2)Ts(i/)n [[zin2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $剗2
 - $剪2
 - $展2
 - $戩2
 - $皽2
-- $碾2
+- ($碾2)
 - $翦2
 - $諓2
-- $謭2
+- ($謭2)
 - $譾2
 - $輾2
 - $錢2
@@ -1189,9 +1189,9 @@ $$
 ##{#3 .williams} Ch(i/)n(3) Ts(i/)n(3) [[zin3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $墊3
+- ($墊3)
 - $戰3
 - $洊3
 - $濺3
@@ -1770,10 +1770,10 @@ $$
 ##{#6 .williams} Ts(i/)n(6) [[zin6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $賤6
-- $踐6
+- ($踐6)
 ==
 </nav>
 <## /tone-6-characters ##>

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeng
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -52,9 +52,9 @@ $$
 ##{#1 .williams} (1)Tseng [[zeng1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $精1
+- ($精1)
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -88,9 +88,9 @@ $$
 ##{#2 .williams} (2)Tseng [[zeng2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $井2
+- ($井2)
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -121,9 +121,9 @@ $$
 ##{#3 .williams} Cheng(3) [[zeng3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $正3
+- ($正3)
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -155,12 +155,12 @@ $$
 ##{#6 .williams} ``Cheng(6)`` Tseng(6) [[zeng6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $淨6
-- $穽6
+- ($淨6)
+- ($穽6)
 - $鄭6
-- $阱6
+- ($阱6)
 ==
 </nav>
 <## /tone-6-characters ##>

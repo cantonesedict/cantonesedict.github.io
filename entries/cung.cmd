@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cung
-* %date-modified --> 2025-12-20
-* %copyright-prior-years --> "2023, "
+* %date-modified --> 2026-01-01
+* %copyright-prior-years --> "2023, 2025--"
 
 %%%
 
@@ -45,31 +45,31 @@ $$
 ##{#1 .williams} (1)Ch(')ung (1)Ts(')ung [[cung1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $充1
-- $冲1
+- ($冲1)
 - $匆1
 - $忡1
-- $怱1
+- ($怱1)
 - $㤝1
-- $悤1
+- ($悤1)
 - $憧1
 - $樅1
 - $沖1
 - $涌1
-- ${𤧚=⿰𤣩怱}1
+- (${𤧚=⿰𤣩怱}1)
 - $璁1
 - $盅1
 - $罿1
 - $翀1
-- $聦1
+- ($聦1)
 - $聰1
-- $葱1
+- ($葱1)
 - $蔥1
 - $衝1
 - $衷1
-- $騘1
+- ($騘1)
 - $驄1
 ==
 </nav>
@@ -931,7 +931,7 @@ $$
 ##{#2 .williams} (2)Ch(')ung [[cung2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $冢2
 - $塚2
@@ -1086,7 +1086,7 @@ $$
 ##{#3 .williams} Ch(')ung(3) [[cung3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $㧤3
 - $銃3
@@ -1165,21 +1165,21 @@ $$
 ##{#4 .williams} (4)Ch(')ung (4)Ts(')ung [[cung4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $叢4
 - $從4
 - $悰4
 - $松4
-- $樷4
-- $淙4
-- $淞4
+- ($樷4)
+- ($淙4)
+- ($淞4)
 - $潀4
-- $潨4
+- ($潨4)
 - $爞4
 - $琮4
 - $种4
-- $虫4
+- ($虫4)
 - $蟲4
 - $重4
 ==
@@ -1725,7 +1725,7 @@ $$
 ##{#5 .williams} ``(5)Ch(')ung`` [[cung5 陽上]]
 
 <## tone-5-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $重5
 ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -42,11 +42,11 @@ $$
 ##{#1 .williams} (1)Ch(')(a/)i [[caai1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $差1
 - $搋1
-- $搓1
+- ($搓1)
 - $猜1
 - $釵1
 ==
@@ -277,9 +277,9 @@ $$
 ##{#2 .williams} (2)Ch(')(a/)i [[caai2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $踩2
+- ($踩2)
 - $踹2
 ==
 </nav>
@@ -383,11 +383,11 @@ $$
 ##{#3 .williams} Ch(')(a/)i(3) [[caai3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $嘬3
 - $瘥3
-- $瘵3
+- ($瘵3)
 - $蠆3
 ==
 </nav>
@@ -519,7 +519,7 @@ $$
 ##{#4 .williams} (4)Ch(')(a/)i [[caai4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $儕4
 - $柴4

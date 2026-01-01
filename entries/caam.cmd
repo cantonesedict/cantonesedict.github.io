@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2025-12-23
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -45,10 +45,10 @@ $$
 ##{#1 .williams} ``(1)Ch(')(a/)m`` (1)Ts(')(a/)m [[caam1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $參1
-- $叅1
+- ($叅1)
 - $攙1
 - $篸1
 - $驂1
@@ -286,11 +286,11 @@ $$
 ##{#2 .williams} (2)Ts(')(a/)m [[caam2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $慘2
 - $憯2
-- ${𢡖=⿰忄叅}2
+- (${𢡖=⿰忄叅}2)
 - $摻2
 - $篸2
 ==
@@ -464,7 +464,7 @@ $$
 ##{#3 .williams} Ch(')(a/)m(3) [[caam3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $儳3
 - $懺3
@@ -595,17 +595,17 @@ $$
 ##{#4 .williams} (4)Ch(')(a/)m (4)Ts(')(a/)m [[caam4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $劖4
 - $巉4
-- $慙4
+- ($慙4)
 - $慚4
-- $攙4
+- ($攙4)
 - $毚4
-- $漸4
-- ${𥕌=⿰石斬}4
-- $蚕4
+- ($漸4)
+- (${𥕌=⿰石斬}4)
+- ($蚕4)
 - $蠶4
 - $讒4
 - $饞4
@@ -1012,9 +1012,9 @@ $$
 ##{#5 .williams} ``(5)Ch(')(a/)m`` ``(5)Ts(')(a/)m`` [[caam5 陽上]]
 
 <## tone-5-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $劖5
+- ($劖5)
 - $棖5
 - $鏨5
 ==

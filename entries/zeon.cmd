@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -44,17 +44,17 @@ $$
 ##{#1 .williams} (1)Chun (1)Tsun [[zeon1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $啍1
-- $尊1
+- ($啍1)
+- ($尊1)
 - $屯1
 - $榛1
 - $樽1
 - $津1
 - $溱1
 - $窀1
-- $罇1
+- ($罇1)
 - $肫1
 - $臻1
 - $蓁1
@@ -605,14 +605,14 @@ $$
 ##{#2 .williams} (2)Chun (2)Tsun [[zeon2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $儘2
 - $准2
-- $凖2
+- ($凖2)
 - $準2
 - $燼2
-- $盡2
+- ($盡2)
 - $藎2
 - $贐2
 ==
@@ -933,17 +933,17 @@ $$
 ##{#3 .williams} Chun(3) Tsun(3) [[zeon3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $俊3
-- $儁3
-- $圳3
+- ($儁3)
+- ($圳3)
 - $峻3
 - $搢3
 - $晉3
-- $朘3
+- ($朘3)
 - $浚3
-- $濬3
+- ($濬3)
 - $瑨3
 - $畯3
 - $睃3
@@ -951,7 +951,7 @@ $$
 - $縉3
 - $進3
 - $鐫3
-- $雋3
+- ($雋3)
 - $餕3
 - $駿3
 ==
@@ -1646,11 +1646,11 @@ $$
 ##{#6 .williams} Tsun(6) [[zeon6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $儘6
-- $尽6
-- $燼6
+- ($儘6)
+- ($尽6)
+- ($燼6)
 - $盡6
 ==
 </nav>

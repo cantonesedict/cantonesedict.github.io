@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faan
-* %date-modified --> 2025-12-20
-* %copyright-prior-years --> "2023, "
+* %date-modified --> 2026-01-01
+* %copyright-prior-years --> "2023, 2025--"
 
 %%%
 
@@ -43,7 +43,7 @@ $$
 ##{#1 .williams} (1)F(a/)n [[faan1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $反1
 - $幡1
@@ -52,11 +52,11 @@ $$
 - $籓1
 - $繙1
 - $翻1
-- $蕃1
-- $藩1
+- ($蕃1)
+- ($藩1)
 - $轓1
 - $返1
-- $飜1
+- ($飜1)
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -609,13 +609,13 @@ $$
 ##{#2 .williams} (2)F(a/)n [[faan2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $反2
-- $坂2
+- ($坂2)
 - $㤆2
 - $返2
-- $阪2
+- ($阪2)
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -837,13 +837,13 @@ $$
 ##{#3 .williams} F(a/)n(3) [[faan3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $氾3
 - $汎3
 - $泛3
 - $畈3
-- $畚3
+- ($畚3)
 - $販3
 ==
 </nav>
@@ -1117,19 +1117,19 @@ $$
 ##{#4 .williams} (4)F(a/)n [[faan4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $凡4
-- $凢4
+- ($凢4)
 - $墦4
 - $帆4
-- $梵4
+- ($梵4)
 - $氾4
 - $煩4
 - $燔4
-- $番4
+- ($番4)
 - $礬4
-- $籓4
+- ($籓4)
 - $繁4
 - $膰4
 - $蕃4
@@ -1780,15 +1780,15 @@ $$
 ##{#6 .williams} F(a/)n(6) [[faan6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $梵6
-- $氾6
-- $泛6
+- ($氾6)
+- ($泛6)
 - $犯6
 - $範6
 - $范6
-- $販6
+- ($販6)
 - $飯6
 ==
 </nav>

@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fan
-* %date-modified --> 2025-12-20
-* %copyright-prior-years --> "2023, "
+* %date-modified --> 2026-01-01
+* %copyright-prior-years --> "2023, 2025--"
 
 %%%
 
@@ -44,10 +44,10 @@ $$
 ##{#1 .williams} (1)Fan [[fan1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $分1
-- $勛1
+- ($勛1)
 - $勳1
 - $匪1
 - $吩1
@@ -55,15 +55,15 @@ $$
 - $帉1
 - $惛1
 - $昏1
-- $昬1
+- ($昬1)
 - $曛1
-- $枌1
+- ($枌1)
 - $棻1
 - $棼1
 - $氛1
-- $汾1
+- ($汾1)
 - $涽1
-- $湣1
+- ($湣1)
 - $焄1
 - $熏1
 - $燻1
@@ -72,12 +72,12 @@ $$
 - $纁1
 - $芬1
 - $葷1
-- $蔒1
+- ($蔒1)
 - $薰1
 - $醺1
 - $閽1
 - $雰1
-- $餴1
+- ($餴1)
 - $饙1
 ==
 </nav>
@@ -1278,9 +1278,9 @@ $$
 ##{#2 .williams} (2)Fan [[fan2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
-- $份2
+- ($份2)
 - $粉2
 ==
 </nav>
@@ -1407,7 +1407,7 @@ $$
 ##{#3 .williams} Fan(3) [[fan3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $瞓3
 - $糞3
@@ -1588,7 +1588,7 @@ $$
 ##{#4 .williams} (4)Fan [[fan4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $墳4
 - $幩4
@@ -1598,9 +1598,9 @@ $$
 - $濆4
 - $焚4
 - $蕡4
-- $蚡4
+- ($蚡4)
 - $賁4
-- $鼢4
+- ($鼢4)
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -1977,15 +1977,15 @@ $$
 ##{#5 .williams} (5)Fan [[fan5 陽上]]
 
 <## tone-5-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $僨5
 - $墳5
 - $奮5
 - $忿5
 - $憤5
-- $焚5
-- $蚡5
+- ($焚5)
+- ($蚡5)
 - $賁5
 - $鼢5
 ==
@@ -2341,7 +2341,7 @@ $$
 ##{#6 .williams} Fan(6) [[fan6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $份6
 - $分6

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> am
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -47,15 +47,15 @@ $$
 ##{#1 .williams} (1)(O\)m [[am1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $啽1
 - $庵1
-- $菴1
+- ($菴1)
 - $諳1
-- $闇1
+- ($闇1)
 - $鵪1
-- $䳺1
+- ($䳺1)
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -288,14 +288,14 @@ $$
 ##{#2 .williams} (2)Am (2)(O\)m [[am2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $唵2
-- $掩2
+- ($掩2)
 - $揞2
-- $欿2
-- $諳2
-- $闇2
+- ($欿2)
+- ($諳2)
+- ($闇2)
 - $黯2
 ==
 </nav>
@@ -592,7 +592,7 @@ $$
 ##{#3 .williams} (O\)m(3) [[am3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $暗3
 - $闇3
