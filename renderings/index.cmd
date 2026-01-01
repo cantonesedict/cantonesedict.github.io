@@ -467,6 +467,9 @@ window.onload = applyFilter;
     , `tshuwX`
     , [取](/entries/ceoi#rendering-取)
   //
+    , `tshuwX maeX`
+    , [趣馬](/entries/cau#rendering-趣馬)
+  //
     , `tshwoj`
     , [催](/entries/ceoi#rendering-催)
   //

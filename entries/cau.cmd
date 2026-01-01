@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2026-01-01
+* %date-modified --> 2026-01-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -770,12 +770,13 @@ L
 $$
 
 
-##{#2 .williams} (2)Ch(')au [[cau2 陰上]]
+##{#2 .williams} (2)Ch(')au ``(2)Ts(')au`` [[cau2 陰上]]
 
 <## tone-2-characters ##>
 <nav class="sideways characters">
 =={.modern}
 - $丑2
+- $趣2
 - $醜2
 ==
 </nav>
@@ -813,6 +814,34 @@ L
     - (_noun-like_) ox-sign
     ==
   ====
+$$
+
+###+ 趣2 | _(2)Ts(')au_ [[cau2]]
+
+$$
+R
+  ⾛ + 8
+U
+  U+8DA3
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Horse master (Kangxi: 趣馬, 趣七口反掌馬之官).
+  ++
+L
+  ====
+  * 【趣馬】 (tshuwX maeX)
+    ==
+    - (_noun-like_) horse master
+    ==
+  ====
+S
+  ==
+  - $趣ceoi3
+  ==
 $$
 
 ### 醜2 | _(2)Ch(')au_ [[cau2]]
