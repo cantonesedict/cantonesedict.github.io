@@ -45,7 +45,7 @@ $$
 ##{#1 .williams} (1)(A/)u [[aau1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $坳1
 ==
@@ -94,7 +94,7 @@ $$
 ##{#2 .williams} (2)(A/)u [[aau2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $拗2
 ==
@@ -186,7 +186,7 @@ $$
 ##{#3 .williams} (A/)u(3) [[aau3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $凹3
 - $坳3

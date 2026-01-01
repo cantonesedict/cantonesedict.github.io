@@ -39,7 +39,7 @@ $$
 ##{#3 .williams} F(a/)i(3) [[faai3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $傀3
 - $噲3

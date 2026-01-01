@@ -46,7 +46,7 @@ $$
 ##{#1 .williams} Ch(')ik(7) Ts(')ik(7) [[cik1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($勅1)
 - $叱1
@@ -417,7 +417,7 @@ $$
 ##{#3 .williams} Ch(')ik(8) Ts(')ik(8) [[cik3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $刺3
 - (${𤷫=⿸疒刺}3)

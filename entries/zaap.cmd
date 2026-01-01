@@ -42,7 +42,7 @@ $$
 ##{#3 .williams} Ch(a/)p(8) Ts(a/)p(8) [[zaap3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $劄3
 - $眨3
@@ -223,7 +223,7 @@ $$
 ##{#6 .williams} Ch(a/)p(9) Ts(a/)p(9) [[zaap6 陽入]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($什6)
 - $极6

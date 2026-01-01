@@ -42,7 +42,7 @@ $$
 ##{#1 .williams} (1)Fai [[fai1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($墮1)
 - $徽1
@@ -511,7 +511,7 @@ $$
 ##{#2 .williams} ``(2)Fai`` [[fai2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($疿2)
 - ($痱2)
@@ -567,7 +567,7 @@ $$
 ##{#3 .williams} Fai(3) [[fai3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $廢3
 - $沸3
@@ -935,7 +935,7 @@ $$
 ##{#6 .williams} Fai(6) [[fai6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $吠6
 - ($屝6)

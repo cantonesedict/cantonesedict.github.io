@@ -46,7 +46,7 @@ $$
 ##{#1 .williams} (1)Fing [[fing1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($捹1)
 - $揈1
@@ -121,7 +121,7 @@ $$
 ##{#3 .williams} Fing(3) [[fing3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($捹3)
 - $揈3
@@ -199,7 +199,7 @@ $$
 ##{#6 .williams} Fing(6) [[fing6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($捹6)
 - $揈6

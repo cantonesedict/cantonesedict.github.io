@@ -44,7 +44,7 @@ $$
 ##{#1 .williams} (1)Ts(')eng [[ceng1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($靑1)
 - ($青1)
@@ -100,7 +100,7 @@ $$
 ##{#2 .williams} (2)Ts(')eng [[ceng2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($請2)
 ==

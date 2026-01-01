@@ -47,7 +47,7 @@ $$
 ##{#1 .williams} (1)Ang [[ang1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($嚶1)
 - ($罃1)
@@ -160,7 +160,7 @@ $$
 ##{#2 .williams} (2)Ang [[ang2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($哽2)
 - $㾘2
@@ -290,7 +290,7 @@ $$
 ##{#3 .williams} Ang(3) [[ang3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $更3
 ==

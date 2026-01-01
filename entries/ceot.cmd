@@ -39,7 +39,7 @@ $$
 ##{#1 .williams} Ch(')ut(7) [[ceot1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $出1
 - ($怵1)

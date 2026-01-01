@@ -40,7 +40,7 @@ $$
 ##{#3 .williams} Ch(a/)k(8) [[zaak3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $咋3
 - $嘖3
@@ -641,7 +641,7 @@ $$
 ##{#6 .williams} Ch(a/)k(9) [[zaak6 陽入]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $宅6
 - $摘6

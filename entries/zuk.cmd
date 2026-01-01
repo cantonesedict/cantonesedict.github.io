@@ -42,7 +42,7 @@ $$
 ##{#1 .williams} Chuk(7) Tsuk(7) [[zuk1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $囑1
 - $捉1
@@ -683,7 +683,7 @@ $$
 ##{#6 .williams} Chuk(9) Tsuk(9) [[zuk6 陽入]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $俗6
 - $妯6

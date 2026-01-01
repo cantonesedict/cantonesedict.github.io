@@ -47,7 +47,7 @@ $$
 ##{#1 .williams} ``Tsek(7)`` [[zek1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $唧1
 - ($喞1)
@@ -111,7 +111,7 @@ $$
 ##{#3 .williams} ``Chek(8)`` Tsek(8) [[zek3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($拓3)
 - $摭3
@@ -614,7 +614,7 @@ $$
 ##{#6 .williams} Tsek(9) [[zek6 陽入]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($席6)
 - ($蓆6)

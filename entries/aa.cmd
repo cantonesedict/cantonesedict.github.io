@@ -66,7 +66,7 @@ $$
 ##{#1 .williams} (1)(A/) [[aa1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $丫1
 - $吖1
@@ -339,7 +339,7 @@ $$
 ##{#2 .williams} (2)(A/) [[aa2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $啞2
 - $瘂2
@@ -455,7 +455,7 @@ $$
 ##{#3 .williams} (A/)(3) [[aa3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $亞3
 - ($呀3)
@@ -695,7 +695,7 @@ $$
 ##{#4 .williams} ``(4)(A/)`` [[aa4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $呀4
 ==
@@ -746,7 +746,7 @@ $$
 ##{#6 .williams} (A/)(6) [[aa6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $呀6
 ==

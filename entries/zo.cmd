@@ -43,7 +43,7 @@ $$
 ##{#2 .williams} (2)Cho (2)Tso [[zo2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $俎2
 - $咗2
@@ -360,7 +360,7 @@ $$
 ##{#3 .williams} Cho(3) Tso(3) [[zo3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $佐3
 - ($左3)
@@ -485,7 +485,7 @@ $$
 ##{#6 .williams} Cho(6) Tso(6) [[zo6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $助6
 - $坐6

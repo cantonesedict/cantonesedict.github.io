@@ -45,7 +45,7 @@ $$
 ##{#1 .williams} (1)Ch(')ung (1)Ts(')ung [[cung1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $充1
 - ($冲1)
@@ -931,7 +931,7 @@ $$
 ##{#2 .williams} (2)Ch(')ung [[cung2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $冢2
 - $塚2
@@ -1086,7 +1086,7 @@ $$
 ##{#3 .williams} Ch(')ung(3) [[cung3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $㧤3
 - $銃3
@@ -1165,7 +1165,7 @@ $$
 ##{#4 .williams} (4)Ch(')ung (4)Ts(')ung [[cung4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $叢4
 - $從4
@@ -1725,7 +1725,7 @@ $$
 ##{#5 .williams} ``(5)Ch(')ung`` [[cung5 陽上]]
 
 <## tone-5-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $重5
 ==

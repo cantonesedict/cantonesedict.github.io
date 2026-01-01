@@ -44,7 +44,7 @@ $$
 ##{#1 .williams} (1)Ts(')(i/)n [[cin1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $千1
 - $芊1
@@ -336,7 +336,7 @@ $$
 ##{#2 .williams} ``(2)Ch(')(i/)n`` (2)Ts(')(i/)n [[cin2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($俴2)
 - $淺2
@@ -476,7 +476,7 @@ $$
 ##{#4 .williams} (4)Ch(')(i/)n (4)Ts(')(i/)n [[cin4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $前4
 - $廛4
@@ -812,7 +812,7 @@ $$
 ##{#5 .williams} (5)Ts(')(i/)n [[cin5 陽上]]
 
 <## tone-5-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $俴5
 - $踐5

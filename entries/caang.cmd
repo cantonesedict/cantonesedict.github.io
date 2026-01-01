@@ -42,7 +42,7 @@ $$
 ##{#1 .williams} (1)Ch(')(a/)ng [[caang1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $掙1
 - ($搶1)
@@ -364,7 +364,7 @@ $$
 ##{#2 .williams} ``(2)Ch(')(a/)ng`` [[caang2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($橙2)
 ==
@@ -396,7 +396,7 @@ $$
 ##{#3 .williams} Ch(')(a/)ng(3) [[caang3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $撐3
 - ($撑3)
@@ -567,7 +567,7 @@ $$
 ##{#4 .williams} (4)Ch(')(a/)ng [[caang4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $倀4
 - $棖4

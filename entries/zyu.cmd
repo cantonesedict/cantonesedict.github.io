@@ -42,7 +42,7 @@ $$
 ##{#1 .williams} (1)Ch(u:) [[zyu1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $侏1
 - $咮1
@@ -787,7 +787,7 @@ $$
 ##{#2 .williams} (2)Ch(u:) [[zyu2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $丶2
 - $主2
@@ -1128,7 +1128,7 @@ $$
 ##{#3 .williams} Ch(u:)(3) [[zyu3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $注3
 - $澍3
@@ -1565,7 +1565,7 @@ $$
 ##{#6 .williams} Ch(u:)(6) [[zyu6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $住6
 - ($筯6)

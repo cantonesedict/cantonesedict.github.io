@@ -42,7 +42,7 @@ $$
 ##{#1 .williams} (1)Ch(')(a/)u [[caau1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $剿1
 - ($勦1)
@@ -221,7 +221,7 @@ $$
 ##{#2 .williams} (2)Ch(')(a/)u [[caau2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $吵2
 - $炒2
@@ -349,7 +349,7 @@ $$
 ##{#3 .williams} Ch(')(a/)u(3) [[caau3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $摷3
 - ($鈔3)
@@ -409,7 +409,7 @@ $$
 ##{#4 .williams} (4)Ch(')(a/)u [[caau4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $勦4
 - $巢4

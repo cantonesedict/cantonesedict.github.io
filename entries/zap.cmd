@@ -41,7 +41,7 @@ $$
 ##{#1 .williams} Chap(7) Tsap(7) [[zap1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - (${𠽃=⿰口執}1)
 - $執1

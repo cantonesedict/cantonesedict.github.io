@@ -42,7 +42,7 @@ $$
 ##{#3 .williams} Ch(e/)uk(8) Ts(e/)uk(8) [[zoek3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $勺3
 - $嚼3
@@ -779,7 +779,7 @@ $$
 ##{#6 .williams} ``Ch(e/)uk(9)`` Ts(e/)uk(9) [[zoek6 陽入]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($嚼6)
 - ($爝6)

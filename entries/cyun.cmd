@@ -45,7 +45,7 @@ $$
 ##{#1 .williams} (1)Ch(')(u:)n (1)Ts(')(u:)n [[cyun1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $巛1
 - $川1
@@ -245,7 +245,7 @@ $$
 ##{#2 .williams} (2)Ch(')(u:)n (2)Ts(')(u:)n [[cyun2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $喘2
 - $忖2
@@ -561,7 +561,7 @@ $$
 ##{#3 .williams} Ch(')(u:)n(3) Ts(')(u:)n(3) [[cyun3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $串3
 - $寸3
@@ -887,7 +887,7 @@ $$
 ##{#4 .williams} (4)Ch(')(u:)n (4)Ts(')(u:)n [[cyun4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $傳4
 - $全4
@@ -1476,7 +1476,7 @@ $$
 ##{#5 .williams} (5)Ts(')(u:)n [[cyun5 陽上]]
 
 <## tone-5-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $鱒5
 ==

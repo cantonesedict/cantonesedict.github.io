@@ -43,7 +43,7 @@ $$
 ##{#1 .williams} (1)Ch(')(a/) [[caa1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $叉1
 - $岔1
@@ -335,7 +335,7 @@ $$
 ##{#2 .williams} ``(2)Ch(')(a/)`` [[caa2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $鑔2
 ==
@@ -375,7 +375,7 @@ $$
 ##{#3 .williams} Ch(')(a/)(3) [[caa3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($吒3)
 - ($咤3)
@@ -581,7 +581,7 @@ $$
 ##{#4 .williams} (4)Ch(')(a/) [[caa4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $嗏4
 - $搽4
@@ -863,7 +863,7 @@ $$
 ##{#5 .williams} ``(5)Ch(')(a/)`` [[caa5 陽上]]
 
 <## tone-5-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($扠5)
 - $搽5

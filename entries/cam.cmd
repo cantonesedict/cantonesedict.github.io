@@ -44,7 +44,7 @@ $$
 ##{#1 .williams} (1)Ts(')am [[cam1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $侵1
 - $浸1
@@ -272,7 +272,7 @@ $$
 ##{#2 .williams} (2)Ts(')am [[cam2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $侵2
 - $寢2
@@ -384,7 +384,7 @@ $$
 ##{#3 .williams} Ch(')am(3) [[cam3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($譖3)
 - $讖3
@@ -478,7 +478,7 @@ $$
 ##{#4 .williams} (4)Ch(')am (4)Ts(')am [[cam4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $尋4
 - ($沈4)

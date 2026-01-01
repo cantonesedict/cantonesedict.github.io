@@ -44,7 +44,7 @@ $$
 ##{#1 .williams} ``(1)Ch(')(i/)m`` (1)Ts(')(i/)m [[cim1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $僉1
 - (${𠠃=⿰⿳从一韭刂}1)
@@ -558,7 +558,7 @@ $$
 ##{#2 .williams} (2)Ch(')(i/)m [[cim2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $諂2
 - ($讇2)
@@ -642,7 +642,7 @@ $$
 ##{#3 .williams} ``Ch(')(i/)m(3)`` Ts(')(i/)m(3) [[cim3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $僭3
 - $塹3
@@ -847,7 +847,7 @@ $$
 ##{#4 .williams} (4)Ts(')(i/)m [[cim4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $撍4
 - $潛4

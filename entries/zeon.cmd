@@ -44,7 +44,7 @@ $$
 ##{#1 .williams} (1)Chun (1)Tsun [[zeon1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($啍1)
 - ($尊1)
@@ -605,7 +605,7 @@ $$
 ##{#2 .williams} (2)Chun (2)Tsun [[zeon2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $儘2
 - $准2
@@ -933,7 +933,7 @@ $$
 ##{#3 .williams} Chun(3) Tsun(3) [[zeon3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $俊3
 - ($儁3)
@@ -1646,7 +1646,7 @@ $$
 ##{#6 .williams} Tsun(6) [[zeon6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($儘6)
 - ($尽6)

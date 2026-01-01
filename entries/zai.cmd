@@ -44,7 +44,7 @@ $$
 ##{#1 .williams} (1)Chai (1)Tsai [[zai1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $劑1
 - $懠1
@@ -424,7 +424,7 @@ $$
 ##{#2 .williams} (2)Tsai [[zai2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $仔2
 - $濟2
@@ -556,7 +556,7 @@ $$
 ##{#3 .williams} Chai(3) Tsai(3) [[zai3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $制3
 - $掣3
@@ -1066,7 +1066,7 @@ $$
 ##{#6 .williams} Chai(6) Tsai(6) [[zai6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $嚌6
 - $滯6

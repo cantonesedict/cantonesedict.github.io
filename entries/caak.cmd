@@ -47,7 +47,7 @@ $$
 ##{#1 .williams} ``Ch(')(a/)k(7)`` [[caak1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($惻1)
 - ($測1)
@@ -101,7 +101,7 @@ $$
 ##{#3 .williams} Ch(')(a/)k(8) [[caak3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $冊3
 - ($册3)
@@ -443,7 +443,7 @@ $$
 ##{#6 .williams} Ts(')(a/)k(9) [[caak6 陽入]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $蠈6
 - $賊6

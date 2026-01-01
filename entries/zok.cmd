@@ -42,7 +42,7 @@ $$
 ##{#3 .williams} Tsok(8) [[zok3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $作3
 - ($昨3)
@@ -147,7 +147,7 @@ $$
 ##{#6 .williams} Chok(9) Tsok(9) [[zok6 陽入]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $怍6
 - $擢6

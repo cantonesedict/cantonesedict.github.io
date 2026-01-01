@@ -44,7 +44,7 @@ $$
 ##{#4 .williams} ``(4)Fang`` [[fang4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $揈4
 - $訇4
@@ -128,7 +128,7 @@ $$
 ##{#6 .williams} ``Fang(6)`` [[fang6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($揈6)
 ==

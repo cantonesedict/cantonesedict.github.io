@@ -45,7 +45,7 @@ $$
 ##{#1 .williams} (1)Ai [[ai1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $哎1
 - (${𫫃=⿰口挨}1)
@@ -142,7 +142,7 @@ $$
 ##{#2 .williams} (2)Ai [[ai2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $矮2
 ==
@@ -199,7 +199,7 @@ $$
 ##{#3 .williams} Ai(3) [[ai3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $屭3
 - $曀3

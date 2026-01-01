@@ -44,7 +44,7 @@ $$
 ##{#1 .williams} (1)Chau (1)Tsau [[zau1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $侜1
 - $周1
@@ -968,7 +968,7 @@ $$
 ##{#2 .williams} (2)Chau (2)Tsau [[zau2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($帚2)
 - $棷2
@@ -1311,7 +1311,7 @@ $$
 ##{#3 .williams} Chau(3) Tsau(3) [[zau3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $僽3
 - ($呪3)
@@ -1719,7 +1719,7 @@ $$
 ##{#6 .williams} Chau(6) Tsau(6) [[zau6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $冑6
 - $宙6

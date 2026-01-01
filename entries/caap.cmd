@@ -39,7 +39,7 @@ $$
 ##{#3 .williams} Ch(')(a/)p(8) [[caap3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $扱3
 - ($挿3)

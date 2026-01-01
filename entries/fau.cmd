@@ -42,7 +42,7 @@ $$
 ##{#1 .williams} (1)Fau [[fau1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $坏1
 - ($抔1)
@@ -125,7 +125,7 @@ $$
 ##{#2 .williams} (2)Fau [[fau2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $否2
 - $缶2
@@ -210,7 +210,7 @@ $$
 ##{#4 .williams} (4)Fau [[fau4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $浮4
 - $紑4
@@ -429,7 +429,7 @@ $$
 ##{#6 .williams} Fau(6) [[fau6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $埠6
 - $蛗6

@@ -42,7 +42,7 @@ $$
 ##{#1 .williams} Chat(7) [[zat1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($只1)
 - $枳1
@@ -288,7 +288,7 @@ $$
 ##{#6 .williams} Chat(9) Tsat(9) [[zat6 陽入]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($咥6)
 - $姪6

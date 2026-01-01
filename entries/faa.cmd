@@ -40,7 +40,7 @@ $$
 ##{#1 .williams} (1)F(a/) [[faa1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $花1
 - ($華1)
@@ -217,7 +217,7 @@ $$
 ##{#3 .williams} F(a/)(3) [[faa3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $化3
 ==

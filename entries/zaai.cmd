@@ -41,7 +41,7 @@ $$
 ##{#1 .williams} (1)Ch(a/)i [[zaai1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($斋1)
 - ($齊1)
@@ -226,7 +226,7 @@ $$
 ##{#3 .williams} Ch(a/)i(3) [[zaai3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $債3
 - $瘵3
@@ -375,7 +375,7 @@ $$
 ##{#6 .williams} Ch(a/)i(6) [[zaai6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $寨6
 - $眥6

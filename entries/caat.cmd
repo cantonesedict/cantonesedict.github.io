@@ -41,7 +41,7 @@ $$
 ##{#3 .williams} Ch(')(a/)t(8) Ts(')(a/)t(8) [[caat3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $刷3
 - ($刹3)

@@ -46,7 +46,7 @@ $$
 ##{#2 .williams} (2)Ch(')(u:) [[cyu2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($処2)
 - ($楮2)
@@ -202,7 +202,7 @@ $$
 ##{#3 .williams} Ch(')(u:)(3) [[cyu3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($処3)
 - $處3
@@ -306,7 +306,7 @@ $$
 ##{#4 .williams} (4)Ch(')(u:) [[cyu4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($儲4)
 - ($厨4)
@@ -586,7 +586,7 @@ $$
 ##{#5 .williams} (5)Ch(')(u:) [[cyu5 陽上]]
 
 <## tone-5-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $佇5
 - $儲5

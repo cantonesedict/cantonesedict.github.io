@@ -47,7 +47,7 @@ $$
 ##{#1 .williams} Chik(7) Tsik(7) [[zik1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $勣1
 - $即1
@@ -915,7 +915,7 @@ $$
 ##{#3 .williams} Chik(8) Tsik(8) [[zik3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($瘠3)
 - ($脊3)
@@ -1050,7 +1050,7 @@ $$
 ##{#6 .williams} Chik(9) Tsik(9) [[zik6 陽入]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($値6)
 - $值6

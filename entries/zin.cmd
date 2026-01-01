@@ -44,7 +44,7 @@ $$
 ##{#1 .williams} (1)Ch(i/)n (1)Ts(i/)n [[zin1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $儃1
 - $戔1
@@ -694,7 +694,7 @@ $$
 ##{#2 .williams} (2)Ch(i/)n (2)Ts(i/)n [[zin2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $剗2
 - $剪2
@@ -1189,7 +1189,7 @@ $$
 ##{#3 .williams} Ch(i/)n(3) Ts(i/)n(3) [[zin3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($墊3)
 - $戰3
@@ -1770,7 +1770,7 @@ $$
 ##{#6 .williams} Ts(i/)n(6) [[zin6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $賤6
 - ($踐6)

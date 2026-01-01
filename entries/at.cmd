@@ -43,7 +43,7 @@ $$
 ##{#1 .williams} At(7) [[at1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($扤1)
 ==

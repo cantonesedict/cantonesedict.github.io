@@ -43,7 +43,7 @@ $$
 ##{#1 .williams} (1)Ch(i/)m (1)Ts(i/)m [[zim1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $占1
 - $尖1
@@ -664,7 +664,7 @@ $$
 ##{#3 .williams} Ch(i/)m(3) [[zim3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($佔3)
 - $占3
@@ -751,7 +751,7 @@ $$
 ##{#6 .williams} Ts(i/)m(6) [[zim6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $漸6
 - $魙6

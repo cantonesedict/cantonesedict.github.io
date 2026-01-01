@@ -42,7 +42,7 @@ $$
 ##{#1 .williams} (1)Ts(')oi [[coi1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $啋1
 ==
@@ -99,7 +99,7 @@ $$
 ##{#2 .williams} (2)Ts(')oi [[coi2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $寀2
 - $彩2
@@ -417,7 +417,7 @@ $$
 ##{#3 .williams} Ts(')oi(3) [[coi3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $塞3
 - $菜3
@@ -611,7 +611,7 @@ $$
 ##{#4 .williams} (4)Ts(')oi [[coi4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $才4
 - $材4

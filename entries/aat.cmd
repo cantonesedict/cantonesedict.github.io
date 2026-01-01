@@ -43,7 +43,7 @@ $$
 ##{#3 .williams} (A/)t(8) [[aat3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $壓3
 - $恝3

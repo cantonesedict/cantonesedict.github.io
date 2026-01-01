@@ -44,7 +44,7 @@ $$
 ##{#1 .williams} (1)Cham ``(1)Tsam`` [[zam1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $斟1
 - ($椹1)
@@ -390,7 +390,7 @@ $$
 ##{#2 .williams} (2)Cham (2)Tsam [[zam2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $怎2
 - $枕2
@@ -526,7 +526,7 @@ $$
 ##{#3 .williams} Cham(3) Tsam(3) [[zam3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $僭3
 - $枕3
@@ -808,7 +808,7 @@ $$
 ##{#6 .williams} Cham(6) [[zam6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ${𠹻=⿰口朕}6
 - $朕6

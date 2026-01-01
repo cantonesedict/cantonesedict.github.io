@@ -1476,7 +1476,7 @@ class EntryPage:
             tone_number = character_navigator.tone_number
             character_navigator_content_expected = Utilities.nested_newline_join([
                 f'<## tone-{tone_number}-characters ##>',
-                '<nav class="sideways">',
+                '<nav class="sideways characters">',
                 '=={.modern}',
                 [
                     (

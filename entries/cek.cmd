@@ -45,7 +45,7 @@ $$
 ##{#3 .williams} ``Ch(')ek(8)`` ``Ts(')ek(8)`` [[cek3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $尺3
 - ${𤷫=⿸疒刺}3

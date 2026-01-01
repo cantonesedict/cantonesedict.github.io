@@ -44,7 +44,7 @@ $$
 ##{#1 .williams} (1)Ch(u:)n (1)Ts(u:)n [[zyun1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($剸1)
 - ($塼1)
@@ -474,7 +474,7 @@ $$
 ##{#2 .williams} (2)Ch(u:)n (2)Ts(u:)n [[zyun2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $噂2
 - $囀2
@@ -743,7 +743,7 @@ $$
 ##{#3 .williams} ``Ch(u:)n(3)`` Ts(u:)n(3) [[zyun3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $傳3
 - $轉3
@@ -935,7 +935,7 @@ $$
 ##{#6 .williams} Ch(u:)n(6) [[zyun6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $傳6
 ==

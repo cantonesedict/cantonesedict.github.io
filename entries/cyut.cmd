@@ -39,7 +39,7 @@ $$
 ##{#3 .williams} Ts(')(u:)t(8) [[cyut3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $卒3
 - ($捽3)

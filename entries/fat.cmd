@@ -40,7 +40,7 @@ $$
 ##{#1 .williams} Fat(7) [[fat1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($佛1)
 - ($巿1)
@@ -942,7 +942,7 @@ $$
 ##{#6 .williams} Fat(9) [[fat6 陽入]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $乏6
 - $伐6

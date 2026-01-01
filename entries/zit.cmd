@@ -43,7 +43,7 @@ $$
 ##{#1 .williams} Ch(i/)t(7) [[zit1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($折1)
 - $擳1
@@ -139,7 +139,7 @@ $$
 ##{#3 .williams} Ch(i/)t(8) Ts(i/)t(8) [[zit3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $哲3
 - ($喆3)
@@ -619,7 +619,7 @@ $$
 ##{#6 .williams} Ts(i/)t(9) [[zit6 陽入]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $截6
 - $捷6

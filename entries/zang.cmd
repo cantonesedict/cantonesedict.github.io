@@ -47,7 +47,7 @@ $$
 ##{#1 .williams} (1)Chang (1)Tsang [[zang1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $凈1
 - $增1
@@ -650,7 +650,7 @@ $$
 ##{#3 .williams} Chang(3) Tsang(3) [[zang3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $掙3
 - ($爭3)
@@ -827,7 +827,7 @@ $$
 ##{#6 .williams} Tsang(6) [[zang6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($甑6)
 - $贈6

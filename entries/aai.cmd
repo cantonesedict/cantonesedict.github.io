@@ -44,7 +44,7 @@ $$
 ##{#1 .williams} (1)(A/)i [[aai1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $挨1
 ==
@@ -120,7 +120,7 @@ $$
 ##{#3 .williams} (A/)i(3) [[aai3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $嗌3
 - ($阨3)

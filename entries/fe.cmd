@@ -48,7 +48,7 @@ $$
 ##{#1 .williams} ``(1)F(e/)`` [[fe1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $啡1
 ==
@@ -100,7 +100,7 @@ $$
 ##{#4 .williams} ``(4)F(e/)`` [[fe4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($啡4)
 - $淝4

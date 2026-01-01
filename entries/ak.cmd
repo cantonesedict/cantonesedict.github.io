@@ -45,7 +45,7 @@ $$
 ##{#1 .williams} Ak(7) [[ak1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $厄1
 - $啞1

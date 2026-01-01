@@ -45,7 +45,7 @@ $$
 ##{#1 .williams} (1)Ch(a/)ng [[zaang1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($崢1)
 - ($棦1)
@@ -287,7 +287,7 @@ $$
 ##{#3 .williams} ``Ch(a/)ng(3)`` [[zaang3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($爭3)
 - ($諍3)
@@ -348,7 +348,7 @@ $$
 ##{#6 .williams} Ch(a/)ng(6) [[zaang6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $掙6
 ==

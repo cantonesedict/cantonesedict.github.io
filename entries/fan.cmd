@@ -44,7 +44,7 @@ $$
 ##{#1 .williams} (1)Fan [[fan1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $分1
 - ($勛1)
@@ -1278,7 +1278,7 @@ $$
 ##{#2 .williams} (2)Fan [[fan2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($份2)
 - $粉2
@@ -1407,7 +1407,7 @@ $$
 ##{#3 .williams} Fan(3) [[fan3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $瞓3
 - $糞3
@@ -1588,7 +1588,7 @@ $$
 ##{#4 .williams} (4)Fan [[fan4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $墳4
 - $幩4
@@ -1977,7 +1977,7 @@ $$
 ##{#5 .williams} (5)Fan [[fan5 陽上]]
 
 <## tone-5-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $僨5
 - $墳5
@@ -2341,7 +2341,7 @@ $$
 ##{#6 .williams} Fan(6) [[fan6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $份6
 - $分6

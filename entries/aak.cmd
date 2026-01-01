@@ -46,7 +46,7 @@ $$
 ##{#1 .williams} (A/)k(7) [[aak1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($厄1)
 - $呃1
@@ -222,7 +222,7 @@ $$
 ##{#3 .williams} (A/)k(8) [[aak3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $鈪3
 ==

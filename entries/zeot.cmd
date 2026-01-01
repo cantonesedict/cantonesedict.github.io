@@ -41,7 +41,7 @@ $$
 ##{#1 .williams} Chut(7) Tsut(7) [[zeot1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $卒1
 - $怵1

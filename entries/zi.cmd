@@ -44,7 +44,7 @@ $$
 ##{#1 .williams} (1)Ch(i/) (1)Tsz' [[zi1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $之1
 - ($兹1)
@@ -1679,7 +1679,7 @@ $$
 ##{#2 .williams} (2)Ch(i/) (2)Tsz' [[zi2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $仔2
 - $只2
@@ -3192,7 +3192,7 @@ $$
 ##{#3 .williams} Ch(i/)(3) ``Tsz'(3)`` [[zi3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ${𫪦=⿰口知}3
 - ($寘3)
@@ -4250,7 +4250,7 @@ $$
 ##{#6 .williams} Ch(i/)(6) Tsz'(6) [[zi6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $伺6
 - $俟6

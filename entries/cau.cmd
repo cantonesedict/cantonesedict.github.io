@@ -45,7 +45,7 @@ $$
 ##{#1 .williams} (1)Ch(')au (1)Ts(')au [[cau1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($偢1)
 - $妯1
@@ -773,7 +773,7 @@ $$
 ##{#2 .williams} (2)Ch(')au [[cau2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $丑2
 - $醜2
@@ -908,7 +908,7 @@ $$
 ##{#3 .williams} Ch(')au(3) Ts(')au(3) [[cau3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($凑3)
 - $嗅3
@@ -1301,7 +1301,7 @@ $$
 ##{#4 .williams} (4)Ch(')au (4)Ts(')au [[cau4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($仇4)
 - $儔4
@@ -2170,7 +2170,7 @@ $$
 ##{#5 .williams} (5)Ch(')au [[cau5 陽上]]
 
 <## tone-5-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ${𧽒=⿺走臭}5
 ==

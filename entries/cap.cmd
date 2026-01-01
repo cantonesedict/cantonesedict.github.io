@@ -39,7 +39,7 @@ $$
 ##{#1 .williams} Ts(')ap(7) [[cap1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $咠1
 - $戢1

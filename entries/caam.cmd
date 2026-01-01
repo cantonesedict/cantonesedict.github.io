@@ -45,7 +45,7 @@ $$
 ##{#1 .williams} ``(1)Ch(')(a/)m`` (1)Ts(')(a/)m [[caam1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $參1
 - ($叅1)
@@ -286,7 +286,7 @@ $$
 ##{#2 .williams} (2)Ts(')(a/)m [[caam2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $慘2
 - $憯2
@@ -464,7 +464,7 @@ $$
 ##{#3 .williams} Ch(')(a/)m(3) [[caam3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $儳3
 - $懺3
@@ -595,7 +595,7 @@ $$
 ##{#4 .williams} (4)Ch(')(a/)m (4)Ts(')(a/)m [[caam4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $劖4
 - $巉4
@@ -1012,7 +1012,7 @@ $$
 ##{#5 .williams} ``(5)Ch(')(a/)m`` ``(5)Ts(')(a/)m`` [[caam5 陽上]]
 
 <## tone-5-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($劖5)
 - $棖5

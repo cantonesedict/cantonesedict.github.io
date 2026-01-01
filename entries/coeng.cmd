@@ -44,7 +44,7 @@ $$
 ##{#1 .williams} (1)Ch(')(e/)ung (1)Ts(')(e/)ung [[coeng1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $倀1
 - ($倡1)
@@ -838,7 +838,7 @@ $$
 ##{#2 .williams} (2)Ts(')(e/)ung [[coeng2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $搶2
 ==
@@ -905,7 +905,7 @@ $$
 ##{#3 .williams} Ch(')(e/)ung(3) ``Ts(')(e/)ung(3)`` [[coeng3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $倡3
 - $唱3
@@ -1225,7 +1225,7 @@ $$
 ##{#4 .williams} (4)Ch(')(e/)ung (4)Ts(')(e/)ung [[coeng4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $場4
 - ($塲4)

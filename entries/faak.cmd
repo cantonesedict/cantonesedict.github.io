@@ -39,7 +39,7 @@ $$
 ##{#3 .williams} F(a/)k(8) [[faak3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - (${𢪎=⿰扌化}3)
 - ${𢫦=⿰扌百}3

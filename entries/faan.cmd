@@ -43,7 +43,7 @@ $$
 ##{#1 .williams} (1)F(a/)n [[faan1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $反1
 - $幡1
@@ -609,7 +609,7 @@ $$
 ##{#2 .williams} (2)F(a/)n [[faan2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $反2
 - ($坂2)
@@ -837,7 +837,7 @@ $$
 ##{#3 .williams} F(a/)n(3) [[faan3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $氾3
 - $汎3
@@ -1117,7 +1117,7 @@ $$
 ##{#4 .williams} (4)F(a/)n [[faan4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $凡4
 - ($凢4)
@@ -1780,7 +1780,7 @@ $$
 ##{#6 .williams} F(a/)n(6) [[faan6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $梵6
 - ($氾6)

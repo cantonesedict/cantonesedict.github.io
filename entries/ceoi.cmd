@@ -54,7 +54,7 @@ $$
 ##{#1 .williams} (1)Ch(')ui (1)Ts(')(u:) (1)Ts(')(u/)i [[ceoi1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $催1
 - $吹1
@@ -540,7 +540,7 @@ $$
 ##{#2 .williams} (2)Ch(')ui (2)Ts(')(u:) ``(2)Ts(')(u/)i`` [[ceoi2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $取2
 - $娶2
@@ -774,7 +774,7 @@ $$
 ##{#3 .williams} Ts(')(u:)(3) Ts(')ui(3) ``Ts(')(u/)i(3)`` [[ceoi3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $啐3
 - ($娶3)
@@ -1141,7 +1141,7 @@ $$
 ##{#4 .williams} (4)Ch(')(u:) (4)Ch(')ui (4)Ts(')(u:) (4)Ts(')ui (4)Ts(')(u/)i [[ceoi4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($厨4)
 - ${𡃴=⿰口隨}4

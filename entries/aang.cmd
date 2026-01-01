@@ -45,7 +45,7 @@ $$
 ##{#1 .williams} (1)(A/)ng [[aang1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($甖1)
 - ($罃1)

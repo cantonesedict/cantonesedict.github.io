@@ -44,7 +44,7 @@ $$
 ##{#1 .williams} (1)Ch(')ong (1)Ts(')ong [[cong1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $倉1
 - ($刅1)
@@ -496,7 +496,7 @@ $$
 ##{#2 .williams} (2)Ch(')ong [[cong2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($厰2)
 - $廠2
@@ -748,7 +748,7 @@ $$
 ##{#3 .williams} Ch(')ong(3) [[cong3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($刱3)
 - $創3
@@ -875,7 +875,7 @@ $$
 ##{#4 .williams} (4)Ch(')ong (4)Ts(')ong [[cong4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $幢4
 - ($床4)

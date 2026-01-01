@@ -43,7 +43,7 @@ $$
 ##{#1 .williams} Ch(')ak(7) [[cak1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $惻1
 - $測1

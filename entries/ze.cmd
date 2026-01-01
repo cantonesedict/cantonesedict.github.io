@@ -44,7 +44,7 @@ $$
 ##{#1 .williams} (1)Ch(e/) (1)Ts(e/) [[ze1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $啫1
 - $嗟1
@@ -249,7 +249,7 @@ $$
 ##{#2 .williams} (2)Ch(e/) (2)Ts(e/) [[ze2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $姐2
 - $者2
@@ -490,7 +490,7 @@ $$
 ##{#3 .williams} Ch(e/)(3) Ts(e/)(3) [[ze3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $借3
 - ($啫3)
@@ -813,7 +813,7 @@ $$
 ##{#6 .williams} Ts(e/)(6) [[ze6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $榭6
 - $灺6

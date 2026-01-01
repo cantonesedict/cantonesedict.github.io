@@ -42,7 +42,7 @@ $$
 ##{#3 .williams} Fok(8) [[fok3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $攉3
 - $攫3

@@ -45,7 +45,7 @@ $$
 ##{#1 .williams} (1)Ts(')(a/)n [[caan1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($飡1)
 - $餐1
@@ -155,7 +155,7 @@ $$
 ##{#2 .williams} (2)Ch(')(a/)n [[caan2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($剗2)
 - $剷2
@@ -395,7 +395,7 @@ $$
 ##{#3 .williams} Ts(')(a/)n(3) [[caan3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $燦3
 - $璨3
@@ -540,7 +540,7 @@ $$
 ##{#4 .williams} (4)Ts(')(a/)n [[caan4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($戔4)
 - $殘4
@@ -659,7 +659,7 @@ $$
 ##{#5 .williams} (5)Ch(')(a/)n [[caan5 陽上]]
 
 <## tone-5-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($棖5)
 ==

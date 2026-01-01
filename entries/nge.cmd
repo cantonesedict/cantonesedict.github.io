@@ -43,7 +43,7 @@ $$
 ##{#4 .williams} (4)Ng(e/) [[nge4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ${𫫃=⿰口挨}4
 ==

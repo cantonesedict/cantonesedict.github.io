@@ -41,7 +41,7 @@ $$
 ##{#3 .williams} Ch(i/)p(8) Ts(i/)p(8) [[zip3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $囁3
 - ($慴3)

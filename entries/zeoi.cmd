@@ -48,7 +48,7 @@ $$
 ##{#1 .williams} (1)Chui (1)Ts(u:) (1)Tsui ``(1)Ts(u/)i`` [[zeoi1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $且1
 - $椎1
@@ -609,7 +609,7 @@ $$
 ##{#2 .williams} (2)Ts(u:) (2)Tsui [[zeoi2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $咀2
 - $嘴2
@@ -894,7 +894,7 @@ $$
 ##{#3 .williams} ``Chui(3)`` ``Ts(u:)(3)`` Tsui(3) [[zeoi3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($冣3)
 - $惴3
@@ -1219,7 +1219,7 @@ $$
 ##{#6 .williams} Chui(6) Ts(u:)(6) Ts(u/)i(6) [[zeoi6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($冣6)
 - ($叙6)

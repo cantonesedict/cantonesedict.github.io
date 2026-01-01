@@ -41,7 +41,7 @@ $$
 ##{#1 .williams} Chak(7) Tsak(7) [[zak1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $仄1
 - $側1

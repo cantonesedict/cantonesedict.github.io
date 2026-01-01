@@ -43,7 +43,7 @@ $$
 ##{#1 .williams} (1)Chong (1)Tsong [[zong1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $妝1
 - ($庄1)
@@ -664,7 +664,7 @@ $$
 ##{#3 .williams} Chong(3) ``Tsong(3)`` [[zong3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($塟3)
 - $壯3
@@ -820,7 +820,7 @@ $$
 ##{#6 .williams} Chong(6) Tsong(6) [[zong6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $幢6
 - $憧6

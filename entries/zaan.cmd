@@ -43,7 +43,7 @@ $$
 ##{#2 .williams} (2)Ch(a/)n (2)Ts(a/)n [[zaan2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $儹2
 - $㜺2
@@ -370,7 +370,7 @@ $$
 ##{#3 .williams} ``Ch(a/)n(3)`` Ts(a/)n(3) [[zaan3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($撰3)
 - ($濺3)
@@ -627,7 +627,7 @@ $$
 ##{#6 .williams} Ch(a/)n(6) [[zaan6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $撰6
 - $棧6

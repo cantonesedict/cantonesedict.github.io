@@ -325,6 +325,9 @@ h4 .permalink{
   font-weight: bold;
   padding: 0 0.7rem;
 }
+.sideways.characters li {
+  font-weight: normal;
+}
 
 .sign-off {
   text-align: right;

@@ -41,7 +41,7 @@ $$
 ##{#3 .williams} Ch(')(e/)uk(8) Ts(')(e/)uk(8) [[coek3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $倬3
 - $卓3

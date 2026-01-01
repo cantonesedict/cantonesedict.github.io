@@ -45,7 +45,7 @@ $$
 ##{#1 .williams} Ts(')at(7) [[cat1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $七1
 - $柒1
@@ -244,7 +244,7 @@ $$
 ##{#6 .williams} ``Ts(')at(9)`` [[cat6 陽入]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - (${𫵱=⿱山十}6)
 - ${𨳍=⿵門七}6

@@ -47,7 +47,7 @@ $$
 ##{#1 .williams} (1)(O\)m [[am1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $啽1
 - $庵1
@@ -288,7 +288,7 @@ $$
 ##{#2 .williams} (2)Am (2)(O\)m [[am2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $唵2
 - ($掩2)
@@ -592,7 +592,7 @@ $$
 ##{#3 .williams} (O\)m(3) [[am3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $暗3
 - $闇3

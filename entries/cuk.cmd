@@ -41,7 +41,7 @@ $$
 ##{#1 .williams} Ch(')uk(7) Ts(')uk(7) [[cuk1 高陰入]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $促1
 - $慉1

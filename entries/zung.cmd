@@ -44,7 +44,7 @@ $$
 ##{#1 .williams} (1)Chung (1)Tsung [[zung1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $中1
 - $宗1
@@ -1180,7 +1180,7 @@ $$
 ##{#2 .williams} (2)Chung (2)Tsung [[zung2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $尰2
 - $種2
@@ -1537,7 +1537,7 @@ $$
 ##{#3 .williams} Chung(3) Tsung(3) [[zung3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $中3
 - ($從3)
@@ -1977,7 +1977,7 @@ $$
 ##{#6 .williams} Chung(6) Tsung(6) [[zung6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $仲6
 - $從6

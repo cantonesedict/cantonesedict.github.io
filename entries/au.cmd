@@ -45,7 +45,7 @@ $$
 ##{#1 .williams} (1)Au [[au1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $區1
 - $嘔1
@@ -355,7 +355,7 @@ $$
 ##{#2 .williams} (2)Au [[au2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $嘔2
 - ($歐2)
@@ -506,7 +506,7 @@ $$
 ##{#3 .williams} Au(3) [[au3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $漚3
 ==

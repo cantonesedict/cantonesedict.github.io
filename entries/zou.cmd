@@ -42,7 +42,7 @@ $$
 ##{#1 .williams} (1)Ts(o\) [[zou1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $租1
 - $糟1
@@ -203,7 +203,7 @@ $$
 ##{#2 .williams} (2)Ts(o\) [[zou2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $早2
 - $棗2
@@ -552,7 +552,7 @@ $$
 ##{#3 .williams} Ts(o\)(3) [[zou3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $灶3
 - ($竈3)
@@ -631,7 +631,7 @@ $$
 ##{#6 .williams} Ts(o\)(6) [[zou6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $做6
 - ($皁6)

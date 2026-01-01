@@ -59,7 +59,7 @@ $$
 ##{#1 .williams} (1)Ch(')ing (1)Ts(')ing [[cing1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $檉1
 - ($淸1)
@@ -615,7 +615,7 @@ $$
 ##{#2 .williams} (2)Ch(')ing (2)Ts(')ing [[cing2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $拯2
 - $裎2
@@ -869,7 +869,7 @@ $$
 ##{#3 .williams} Ch(')ing(3) [[cing3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $秤3
 - $稱3
@@ -995,7 +995,7 @@ $$
 ##{#4 .williams} (4)Ch(')ing (4)Ts(')ing [[cing4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $呈4
 - $埕4

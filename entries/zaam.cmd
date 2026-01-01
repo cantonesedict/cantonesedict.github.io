@@ -44,7 +44,7 @@ $$
 ##{#1 .williams} (1)Ts(a/)m [[zaam1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($篸1)
 - $簪1
@@ -126,7 +126,7 @@ $$
 ##{#2 .williams} (2)Ch(a/)m ``(2)Ts(a/)m`` [[zaam2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($寁2)
 - $斬2
@@ -269,7 +269,7 @@ $$
 ##{#3 .williams} Ch(a/)m(3) [[zaam3 陰去]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $湛3
 - $蘸3
@@ -354,7 +354,7 @@ $$
 ##{#6 .williams} Ch(a/)m(6) Ts(a/)m(6) [[zaam6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $攙6
 - $暫6

@@ -42,7 +42,7 @@ $$
 ##{#3 .williams} Ch(a/)t(8) [[zaat3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $扎3
 - $札3
@@ -251,7 +251,7 @@ $$
 ##{#6 .williams} ``Ts(a/)t(9)`` [[zaat6 陽入]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($曱6)
 - $甴6

@@ -43,7 +43,7 @@ $$
 ##{#1 .williams} (1)Ch(')un [[ceon1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $春1
 - $椿1
@@ -206,7 +206,7 @@ $$
 ##{#2 .williams} (2)Ch(')un [[ceon2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $惷2
 - $蠢2
@@ -343,7 +343,7 @@ $$
 ##{#4 .williams} (4)Ts(')un [[ceon4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $巡4
 - ($廵4)

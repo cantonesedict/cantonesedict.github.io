@@ -42,7 +42,7 @@ $$
 ##{#1 .williams} (1)F(i/) [[fei1 陰平]]
 
 <## tone-1-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($匪1)
 - $妃1
@@ -481,7 +481,7 @@ $$
 ##{#2 .williams} (2)F(i/) [[fei2 陰上]]
 
 <## tone-2-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $匪2
 - ($屝2)
@@ -944,7 +944,7 @@ $$
 ##{#4 .williams} (4)F(i/) [[fei4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $淝4
 - $痱4
@@ -1163,7 +1163,7 @@ $$
 ##{#6 .williams} F(i/)(6) [[fei6 陽去]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $屝6
 - $狒6

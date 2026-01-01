@@ -42,7 +42,7 @@ $$
 ##{#3 .williams} Ch(u:)t(8) Ts(u:)t(8) [[zyut3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $剟3
 - ${𠭴=⿰叕出}3
@@ -630,7 +630,7 @@ $$
 ##{#6 .williams} ``Ch(u:)t(9)`` Ts(u:)t(9) [[zyut6 陽入]]
 
 <## tone-6-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($拙6)
 - $絕6

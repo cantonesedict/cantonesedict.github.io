@@ -49,7 +49,7 @@ $$
 ##{#4 .williams} (4)Ng(a/)i [[ngaai4 陽平]]
 
 <## tone-4-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - ($挨4)
 ==

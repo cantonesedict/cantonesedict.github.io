@@ -39,7 +39,7 @@ $$
 ##{#3 .williams} F(a/)t(8) [[faat3 低陰入]]
 
 <## tone-3-characters ##>
-<nav class="sideways">
+<nav class="sideways characters">
 =={.modern}
 - $沷3
 - $法3
