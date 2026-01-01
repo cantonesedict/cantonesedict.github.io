@@ -325,12 +325,12 @@ L
   ====
   * 【且】 (tshjaeX)
     ==
-    - (_conjunction_) and (also), moreover
+    - (_conjunction-like_) and (also), moreover
     - (_determiner-like_) this
-    - (_adverb_) for now
-    - (_auxiliary_) shall, about to
-    - (_adverb_) still
-    - (_conjunction_) or
+    - (_adverb-like_) for now
+    - (_auxiliary-like_) shall, about to
+    - (_adverb-like_) still
+    - (_conjunction-like_) or
     ==
   ====
 S

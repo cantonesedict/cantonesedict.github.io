@@ -2296,12 +2296,12 @@ class CharacterEntry:
             if sense_type not in [
                 '_speech-assist_',
                 '_adjective-like_',
-                '_adverb_',
-                '_auxiliary_',
-                '_conjunction_',
+                '_adverb-like_',
+                '_auxiliary-like_',
+                '_conjunction-like_',
                 '_determiner-like_',
                 '_noun-like_',
-                '_pronoun_',
+                '_pronoun-like_',
                 '_verb-like_',
             ]:
                 raise LintException(f'invalid sense type `{sense_type}` in `{sense_line}`')

@@ -1600,7 +1600,7 @@ L
   * 【疇】 (drjuw)
     ==
     - (_noun-like_) farming-field, hemp-field
-    - (_pronoun_) who
+    - (_pronoun-like_) who
     - (_noun-like_) category
     ==
   * 【疇昔】 (drjuw sjek)

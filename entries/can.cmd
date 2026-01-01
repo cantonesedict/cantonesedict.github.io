@@ -511,7 +511,7 @@ L
   ====
   * 【矧】 (syinX)
     ==
-    - (_conjunction_) moreover, let alone
+    - (_conjunction-like_) moreover, let alone
     ==
   ====
 S
