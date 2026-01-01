@@ -497,6 +497,9 @@ window.onload = applyFilter;
     , `tsyhae`
     , [車](/entries/ce#rendering-車)
   //
+    , `tsyhek`
+    , [尺](/entries/cek#rendering-尺)
+  //
     , `tsyhin`
     , [瞋](/entries/can#rendering-瞋)
   //

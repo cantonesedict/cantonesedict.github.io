@@ -136,6 +136,13 @@ C
     for the writing-boards used for imperial decrees.
   - Williams' 尺度: Not the verb "to measure", but the noun "measure", as 度 is in departing tone.
   ==
+L
+  ====
+  * 【尺】 (tsyhek)
+    ==
+    - (_noun-like_) ruler, rule
+    ==
+  ====
 E
   ====
   - 【間尺】 (gaan3 cek3-2)
