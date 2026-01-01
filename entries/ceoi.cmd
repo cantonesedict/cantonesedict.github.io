@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2026-01-01
+* %date-modified --> 2026-01-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -113,6 +113,13 @@ C
   ==
   - Williams' 乏价走催: Changed _f(a/)t(9)_ (faat6) to modern _fat(9)_ (fat6).
   ==
+L
+  ====
+  * 【催】 (tshwoj)
+    ==
+    - (_verb-like_) [to] press (upon)
+    ==
+  ====
 $$
 
 ### 吹1 | _(1)Ch(')ui_ [[ceoi1]]
@@ -175,6 +182,13 @@ C
   ==
   - Fan Wan entry: Corrected headword (with 比-like centre-left instead of ⿲口口口) to 龡.
   ==
+L
+  ====
+  * 【吹】 (tsyhwe)
+    ==
+    - (_verb-like_) [to] blow
+    ==
+  ====
 E
   ====
   - 【吹】 (ceoi1)
@@ -241,6 +255,13 @@ P
   ++
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【崔】 (dzwoj)
+    ==
+    - (_adjective-like_) lofty, mountainous
+    ==
+  ====
 $$
 
 ### 推1 | _(1)Ch(')ui_ [[ceoi1]]
@@ -299,6 +320,14 @@ W
     - _~~(4)ts(')(u/)i~~ ``(1)ts(')(u/)i`` ch(i/)t(8)_
         [[ceoi1 zit3 摧折]]
         to break off by pushing against.
+    ==
+  ====
+L
+  ====
+  * 【摧】 (dzwoj)
+    ==
+    - (_verb-like_) [to] push
+    - (_verb-like_) [to] break, [to] destroy
     ==
   ====
 S
@@ -401,6 +430,13 @@ C
   ==
   - Fan Wan entry: Corrected 裘 to 喪, and corrected 土 to 上.
   ==
+L
+  ====
+  * 【縗】 (tshwoj)
+    ==
+    - (_noun-like_) mourning-clothes, sackcloth
+    ==
+  ====
 $$
 
 ### 蛆1 | _(1)Ts(')(u:)_ [[ceoi1]]
@@ -507,6 +543,13 @@ W
     - _(1)ts(')(u:) (4)(i/)m f(u/)(6) shai(3)_
         [[ceoi1 jim4 fu6 sai3 趨炎附勢]]
         to run to the flame and stick to the strong --- a parasite.
+    ==
+  ====
+L
+  ====
+  * 【趨】 (tshju)
+    ==
+    - (_verb-like_) [to] haste [toward]
     ==
   ====
 $$
@@ -630,6 +673,13 @@ C
   - Fan Wan entry: Corrected ⿱宀⿱宀厼 to 索,
     and normalised {𫉬=⿱艹⿰犭隻} to 獲.
   ==
+L
+  ====
+  * 【取】 (tshjuX, tshuwX)
+    ==
+    - (_verb-like_) [to] take
+    ==
+  ====
 $$
 
 ###+ 娶2 | _(2)Ts(')(u:)_ [[ceoi2]]
@@ -686,6 +736,13 @@ C
     Corrected _(2)ts(')(o\)_ (cou2) to _(2)ts(')(u:)_ (ceoi2)
     and corrected _(1)sam_ (sam1) to _(1)san_ (san1).
   ==
+L
+  ====
+  * 【娶】 (tshjuH)
+    ==
+    - (_verb-like_) [to] take [a wife]
+    ==
+  ====
 S
   ==
   - ($娶ceoi3)
@@ -764,6 +821,13 @@ W
     - name of a stream [[Kangxi: 水名]].
     ==
   ====
+L
+  ====
+  * 【漼】 (tshwojX)
+    ==
+    - (_adjective-like_) deep
+    ==
+  ====
 S
   ==
   - $漼ceoi4
@@ -818,6 +882,13 @@ P
   ++
   1. A berating puff (Kangxi: 咄啐嘑也).
   ++
+L
+  ====
+  * 【啐】 (tshwojH)
+    ==
+    - (_verb-like_) [to] sip, [to] taste
+    ==
+  ====
 S
   ==
   - $啐seoi6 (TODO)
@@ -885,6 +956,13 @@ C
     and 楚稅切 _ch(')ui(3)_ (per Fan Wan).
   - Williams' "birds molting": Probably a misreading of Kangxi 鳥腹毛曰毳.
   ==
+L
+  ====
+  * 【毳】 (tshjwejH, tsrhjwejH)
+    ==
+    - (_noun-like_) fine-hair
+    ==
+  ====
 $$
 
 ### 翠3 | _Ts(')ui(3)_ [[ceoi3]]
@@ -994,6 +1072,13 @@ C
   - Williams' 爽脆: More crunchy than delicate.
   - Williams' 乾脆: Figuratively, clear-cut.
   ==
+L
+  ====
+  * 【脆】 (tshjwejH)
+    ==
+    - (_adjective-like_) brittle
+    ==
+  ====
 E
   ====
   - 【扑扑脆】 (bok1 bok1 ceoi3)
@@ -1133,6 +1218,13 @@ W
     - _ch(i/)(3) ts(')(u:)(3) hai(6) k(o\)m(3) ts(')(u:)(3) tik(7)_
         [[zi3 ceoi3 hai6 gam3 ceoi3 dik1 至趣係咁趣的]]
         this is truly exhilirating, this is exquisite.
+    ==
+  ====
+L
+  ====
+  * 【趣】 (tshjuH)
+    ==
+    - (_verb-like_) [to] haste
     ==
   ====
 $$

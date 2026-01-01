@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-01-01
+* %date-modified --> 2026-01-02
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -311,6 +311,12 @@ window.onload = applyFilter;
     , `dzreamH`
     , [儳~(flippant)](/entries/caam#rendering-儳-flippant)
   //
+    , `dzwoj`
+    , [崔](/entries/ceoi#rendering-崔)
+  //
+    , `dzwoj`
+    , [摧](/entries/ceoi#rendering-摧)
+  //
     , `dzyuw`
     , [酬](/entries/cau#rendering-酬)
   //
@@ -428,17 +434,50 @@ window.onload = applyFilter;
     , `tshjaeX`
     , [且](/entries/ce#rendering-且)
   //
+    , `tshju`
+    , [趨](/entries/ceoi#rendering-趨)
+  //
+    , `tshjuX`
+    , [取](/entries/ceoi#rendering-取)
+  //
+    , `tshjuH`
+    , [娶](/entries/ceoi#rendering-娶)
+  //
+    , `tshjuH`
+    , [趣](/entries/ceoi#rendering-趣)
+  //
     , `tshjuw`
     , [秋](/entries/cau#rendering-秋)
   //
     , `tshjuw`
     , [鶖](/entries/cau#rendering-鶖)
   //
+    , `tshjwejH`
+    , [毳](/entries/ceoi#rendering-毳)
+  //
+    , `tshjwejH`
+    , [脆](/entries/ceoi#rendering-脆)
+  //
     , `tshom`
     , [參](/entries/caam#rendering-參)
   //
     , `tshom`
     , [驂](/entries/caam#rendering-驂)
+  //
+    , `tshuwX`
+    , [取](/entries/ceoi#rendering-取)
+  //
+    , `tshwoj`
+    , [催](/entries/ceoi#rendering-催)
+  //
+    , `tshwoj`
+    , [縗](/entries/ceoi#rendering-縗)
+  //
+    , `tshwojX`
+    , [漼](/entries/ceoi#rendering-漼)
+  //
+    , `tshwojH`
+    , [啐](/entries/ceoi#rendering-啐)
   //
     , `tsip`
     , [咠](/entries/cap#rendering-咠)
@@ -485,6 +524,9 @@ window.onload = applyFilter;
     , `tsrhim tsrhje`
     , [參差](/entries/caam#rendering-參差)
   //
+    , `tsrhjwejH`
+    , [毳](/entries/ceoi#rendering-毳)
+  //
     , `tsrhwaejH`
     , [嘬](/entries/caai#rendering-嘬)
   //
@@ -508,6 +550,9 @@ window.onload = applyFilter;
   //
     , `tsyhuwH`
     , [臭](/entries/cau#rendering-臭)
+  //
+    , `tsyhwe`
+    , [吹](/entries/ceoi#rendering-吹)
   //
     , `tsyin`
     , [畛](/entries/can#rendering-畛)
