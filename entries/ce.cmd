@@ -121,6 +121,13 @@ W
         gay, wasteful.
     ==
   ====
+L
+  ====
+  * 【奢】 (syae)
+    ==
+    - (_adjective-like_) extravagant
+    ==
+  ====
 $$
 
 ###+ 尺1 | _(1)Ch(')(e/)_ [[ce1]]
@@ -223,6 +230,13 @@ P
   1. A surname (Kangxi: 姓).
   1. Used in 子車 (a compound surname) (Kangxi: 子車複姓).
   ++
+L
+  ====
+  * 【車】 (tsyhae)
+    ==
+    - (_noun-like_) car
+    ==
+  ====
 S
   ==
   - $車geoi1 (TODO)
@@ -304,8 +318,21 @@ P
   ++
   1. Temporarily, for now.
   1. Shall, about to (Kangxi: 將也).
+  1. Still.
   1. Or.
   ++
+L
+  ====
+  * 【且】 (tshjaeX)
+    ==
+    - (_conjunction_) and (also), moreover
+    - (_determiner-like_) this
+    - (_adverb_) for now
+    - (_auxiliary_) shall, about to
+    - (_adverb_) still
+    - (_conjunction_) or
+    ==
+  ====
 S
   ==
   - $且zeoi1
@@ -560,6 +587,7 @@ U
   U+659C
 A
   ==
+  - 衺
   - $邪4
   ==
 F
@@ -597,6 +625,13 @@ W
         cross-eyed.
     ==
   ====
+L
+  ====
+  * 【斜】 (zjae)
+    ==
+    - (_adjective-like_) slanted
+    ==
+  ====
 E
   ====
   - 【西斜】 (sai1 ce4)
@@ -617,6 +652,10 @@ R
   ⾢ + 4
 U
   U+90AA
+A
+  ==
+  - 衺
+  ==
 V
   ==
   - ce4-2 (in 唔信邪)
@@ -673,6 +712,13 @@ C
   ==
   - Fan Wan entry: Corrected 㚥 to 奸.
   ==
+L
+  ====
+  * 【邪】 (zjae)
+    ==
+    - (_adjective-like_) wicked
+    ==
+  ====
 E
   ====
   - 【唔信邪】 (m4 seon3 ce4-2)

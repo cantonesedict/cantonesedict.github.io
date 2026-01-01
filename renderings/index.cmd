@@ -335,6 +335,9 @@ window.onload = applyFilter;
     , `srwaet`
     , [刷](/entries/caat#rendering-刷)
   //
+    , `syae`
+    , [奢](/entries/ce#rendering-奢)
+  //
     , `syinX`
     , [哂](/entries/can#rendering-哂)
   //
@@ -422,6 +425,9 @@ window.onload = applyFilter;
     , `tshit`
     , [漆](/entries/cat#rendering-漆)
   //
+    , `tshjaeX`
+    , [且](/entries/ce#rendering-且)
+  //
     , `tshjuw`
     , [秋](/entries/cau#rendering-秋)
   //
@@ -488,6 +494,9 @@ window.onload = applyFilter;
     , `tsrip`
     , [濈](/entries/cap#rendering-濈)
   //
+    , `tsyhae`
+    , [車](/entries/ce#rendering-車)
+  //
     , `tsyhin`
     , [瞋](/entries/can#rendering-瞋)
   //
@@ -526,6 +535,12 @@ window.onload = applyFilter;
   //
     , `zim`
     , [鬵](/entries/cam#rendering-鬵)
+  //
+    , `zjae`
+    , [斜](/entries/ce#rendering-斜)
+  //
+    , `zjae`
+    , [邪](/entries/ce#rendering-邪)
   //
     , `zjuw`
     , [囚](/entries/cau#rendering-囚)
