@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zek
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -50,7 +50,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $唧1
-- $喞1
+- ($喞1)
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -113,7 +113,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
-- $拓3
+- ($拓3)
 - $摭3
 - $炙3
 - $瘠3
@@ -616,8 +616,8 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
-- $席6
-- $蓆6
+- ($席6)
+- ($蓆6)
 ==
 </nav>
 <## /tone-6-characters ##>

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -49,9 +49,9 @@ $$
 - $劑1
 - $懠1
 - $擠1
-- $穧1
-- $賫1
-- $賷1
+- ($穧1)
+- ($賫1)
+- ($賷1)
 - $躋1
 - $隮1
 - $齎1
@@ -561,7 +561,7 @@ $$
 - $制3
 - $掣3
 - $晢3
-- $晣3
+- ($晣3)
 - $濟3
 - $祭3
 - $穄3

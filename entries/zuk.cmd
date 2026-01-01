@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zuk
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -57,7 +57,7 @@ $$
 - $粥1
 - $觸1
 - $足1
-- $鬻1
+- ($鬻1)
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -688,18 +688,18 @@ $$
 - $俗6
 - $妯6
 - $族6
-- $柚6
+- ($柚6)
 - $濁6
-- $簇6
+- ($簇6)
 - $續6
 - $蓫6
-- $蔟6
+- ($蔟6)
 - $藚6
 - $躅6
 - $軸6
 - $逐6
 - $鏃6
-- $鷟6
+- ($鷟6)
 ==
 </nav>
 <## /tone-6-characters ##>

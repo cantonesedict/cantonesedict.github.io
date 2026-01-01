@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoek
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -48,17 +48,17 @@ $$
 - $嚼3
 - $妁3
 - $斫3
-- $杓3
-- $桌3
-- $棹3
-- $灼3
+- ($杓3)
+- ($桌3)
+- ($棹3)
+- ($灼3)
 - $爝3
 - $爵3
 - $皭3
 - $着3
 - $禚3
-- $芍3
-- $著3
+- ($芍3)
+- ($著3)
 - $酌3
 - $雀3
 - $鵲3
@@ -781,11 +781,11 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
-- $嚼6
-- $爝6
-- $皭6
+- ($嚼6)
+- ($爝6)
+- ($皭6)
 - $着6
-- $著6
+- ($著6)
 ==
 </nav>
 <## /tone-6-characters ##>

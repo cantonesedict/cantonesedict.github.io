@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zip
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -44,14 +44,14 @@ $$
 <nav class="sideways">
 =={.modern}
 - $囁3
-- $慴3
-- $懾3
+- ($慴3)
+- ($懾3)
 - $接3
 - $摺3
 - $楫3
 - $浹3
-- $睫3
-- $褶3
+- ($睫3)
+- ($褶3)
 - $襵3
 - $輒3
 ==

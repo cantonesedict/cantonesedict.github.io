@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -59,15 +59,15 @@ $$
 - $催1
 - $吹1
 - $崔1
-- $推1
+- ($推1)
 - $摧1
 - $炊1
 - $璀1
 - $縗1
 - $蛆1
-- $衰1
+- ($衰1)
 - $趨1
-- $龡1
+- ($龡1)
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -544,8 +544,8 @@ $$
 =={.modern}
 - $取2
 - $娶2
-- $惴2
-- $揣2
+- ($惴2)
+- ($揣2)
 - $漼2
 ==
 </nav>
@@ -777,13 +777,13 @@ $$
 <nav class="sideways">
 =={.modern}
 - $啐3
-- $娶3
+- ($娶3)
 - $毳3
 - $翠3
-- $脃3
+- ($脃3)
 - $脆3
 - $蜡3
-- $覰3
+- ($覰3)
 - $覷3
 - $趣3
 ==
@@ -1143,14 +1143,14 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
-- $厨4
+- ($厨4)
 - ${𡃴=⿰口隨}4
 - $廚4
 - $徐4
 - $捶4
-- $搥4
-- $摧4
-- $椎4
+- ($搥4)
+- ($摧4)
+- ($椎4)
 - $槌4
 - $滁4
 - $漼4
@@ -1158,7 +1158,7 @@ $$
 - $蜍4
 - $躕4
 - $錘4
-- $鎚4
+- ($鎚4)
 - $除4
 - $隋4
 - $隨4

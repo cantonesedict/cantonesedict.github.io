@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fing
-* %date-modified --> 2025-12-20
-* %copyright-prior-years --> "2023, "
+* %date-modified --> 2026-01-01
+* %copyright-prior-years --> "2023, 2025--"
 
 %%%
 
@@ -48,7 +48,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
-- $捹1
+- ($捹1)
 - $揈1
 ==
 </nav>
@@ -123,7 +123,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
-- $捹3
+- ($捹3)
 - $揈3
 ==
 </nav>
@@ -201,7 +201,7 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
-- $捹6
+- ($捹6)
 - $揈6
 ==
 </nav>

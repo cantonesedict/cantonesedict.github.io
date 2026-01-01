@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2025-12-22
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -49,11 +49,11 @@ $$
 =={.modern}
 - $噍1
 - $招1
-- $昭1
-- $晁1
+- ($昭1)
+- ($晁1)
 - $朝1
 - $椒1
-- $炤1
+- ($炤1)
 - $焦1
 - $燋1
 - $礁1
@@ -777,7 +777,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
-- $炤3
+- ($炤3)
 - $照3
 - $燋3
 - $詔3
@@ -1024,11 +1024,11 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
-- $兆6
+- ($兆6)
 - $召6
 - $噍6
-- $嚼6
-- $旐6
+- ($嚼6)
+- ($旐6)
 - $趙6
 ==
 </nav>

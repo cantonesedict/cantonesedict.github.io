@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cung
-* %date-modified --> 2025-12-20
-* %copyright-prior-years --> "2023, "
+* %date-modified --> 2026-01-01
+* %copyright-prior-years --> "2023, 2025--"
 
 %%%
 
@@ -48,28 +48,28 @@ $$
 <nav class="sideways">
 =={.modern}
 - $充1
-- $冲1
+- ($冲1)
 - $匆1
 - $忡1
-- $怱1
+- ($怱1)
 - $㤝1
-- $悤1
+- ($悤1)
 - $憧1
 - $樅1
 - $沖1
 - $涌1
-- ${𤧚=⿰𤣩怱}1
+- (${𤧚=⿰𤣩怱}1)
 - $璁1
 - $盅1
 - $罿1
 - $翀1
-- $聦1
+- ($聦1)
 - $聰1
-- $葱1
+- ($葱1)
 - $蔥1
 - $衝1
 - $衷1
-- $騘1
+- ($騘1)
 - $驄1
 ==
 </nav>
@@ -1171,15 +1171,15 @@ $$
 - $從4
 - $悰4
 - $松4
-- $樷4
-- $淙4
-- $淞4
+- ($樷4)
+- ($淙4)
+- ($淞4)
 - $潀4
-- $潨4
+- ($潨4)
 - $爞4
 - $琮4
 - $种4
-- $虫4
+- ($虫4)
 - $蟲4
 - $重4
 ==

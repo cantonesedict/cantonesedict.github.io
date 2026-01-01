@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyun
-* %date-modified --> 2025-12-20
-* %copyright-prior-years --> "2023, "
+* %date-modified --> 2026-01-01
+* %copyright-prior-years --> "2023, 2025--"
 
 %%%
 
@@ -46,19 +46,19 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
-- $剸1
-- $塼1
+- ($剸1)
+- ($塼1)
 - $專1
 - $尊1
-- $攢1
-- $朘1
-- $甎1
+- ($攢1)
+- ($朘1)
+- ($甎1)
 - $磚1
-- $耑1
-- $鐫1
-- $鑽1
+- ($耑1)
+- ($鐫1)
+- ($鑽1)
 - $鱄1
-- $鱒1
+- ($鱒1)
 ==
 </nav>
 <## /tone-1-characters ##>

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2025-12-29
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -747,7 +747,7 @@ $$
 - $襯3
 - $親3
 - $趁3
-- $趂3
+- ($趂3)
 - $齔3
 ==
 </nav>

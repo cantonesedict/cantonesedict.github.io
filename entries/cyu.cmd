@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyu
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -48,8 +48,8 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
-- $処2
-- $楮2
+- ($処2)
+- ($楮2)
 - $處2
 ==
 </nav>
@@ -204,7 +204,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
-- $処3
+- ($処3)
 - $處3
 ==
 </nav>
@@ -308,15 +308,15 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways">
 =={.modern}
-- $儲4
-- $厨4
-- $廚4
-- $滁4
-- $篨4
-- $蜍4
+- ($儲4)
+- ($厨4)
+- ($廚4)
+- ($滁4)
+- ($篨4)
+- ($蜍4)
 - $躇4
-- $躕4
-- $除4
+- ($躕4)
+- ($除4)
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -595,11 +595,11 @@ $$
 - $杼5
 - $柱5
 - $楮5
-- $竚5
+- ($竚5)
 - $紵5
 - $羜5
 - $苧5
-- $處5
+- ($處5)
 - $貯5
 ==
 </nav>

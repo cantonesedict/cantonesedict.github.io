@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -47,13 +47,13 @@ $$
 - $措3
 - $柞3
 - $矺3
-- $砸3
-- $磧3
+- ($砸3)
+- ($磧3)
 - $窄3
 - $笮3
 - $簀3
 - $舴3
-- $蚱3
+- ($蚱3)
 - $責3
 - $賾3
 ==
@@ -646,14 +646,14 @@ $$
 - $宅6
 - $摘6
 - $擇6
-- $擢6
+- ($擢6)
 - $擲6
 - $澤6
-- $矺6
+- ($矺6)
 - $翟6
 - ${𧓸=⿰虫鄭}6
 - $謫6
-- $讁6
+- ($讁6)
 - $躑6
 ==
 </nav>

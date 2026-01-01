@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceng
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -46,8 +46,8 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
-- $靑1
-- $青1
+- ($靑1)
+- ($青1)
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -102,7 +102,7 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
-- $請2
+- ($請2)
 ==
 </nav>
 <## /tone-2-characters ##>

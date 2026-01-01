@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -47,10 +47,10 @@ $$
 <nav class="sideways">
 =={.modern}
 - $僉1
-- ${𠠃=⿰⿳从一韭刂}1
+- (${𠠃=⿰⿳从一韭刂}1)
 - $㔐1
 - $孅1
-- $幨1
+- ($幨1)
 - $憸1
 - $摻1
 - $殲1
@@ -58,7 +58,7 @@ $$
 - $簽1
 - $籤1
 - $纖1
-- $襜1
+- ($襜1)
 - $鋟1
 ==
 </nav>
@@ -561,7 +561,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $諂2
-- $讇2
+- ($讇2)
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -646,10 +646,10 @@ $$
 =={.modern}
 - $僭3
 - $塹3
-- $壍3
+- ($壍3)
 - $暹3
 - $槧3
-- $䠨3
+- ($䠨3)
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -851,7 +851,7 @@ $$
 =={.modern}
 - $撍4
 - $潛4
-- $潜4
+- ($潜4)
 ==
 </nav>
 <## /tone-4-characters ##>

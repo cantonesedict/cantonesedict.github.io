@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -46,15 +46,15 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
-- $啍1
-- $尊1
+- ($啍1)
+- ($尊1)
 - $屯1
 - $榛1
 - $樽1
 - $津1
 - $溱1
 - $窀1
-- $罇1
+- ($罇1)
 - $肫1
 - $臻1
 - $蓁1
@@ -609,10 +609,10 @@ $$
 =={.modern}
 - $儘2
 - $准2
-- $凖2
+- ($凖2)
 - $準2
 - $燼2
-- $盡2
+- ($盡2)
 - $藎2
 - $贐2
 ==
@@ -936,14 +936,14 @@ $$
 <nav class="sideways">
 =={.modern}
 - $俊3
-- $儁3
-- $圳3
+- ($儁3)
+- ($圳3)
 - $峻3
 - $搢3
 - $晉3
-- $朘3
+- ($朘3)
 - $浚3
-- $濬3
+- ($濬3)
 - $瑨3
 - $畯3
 - $睃3
@@ -951,7 +951,7 @@ $$
 - $縉3
 - $進3
 - $鐫3
-- $雋3
+- ($雋3)
 - $餕3
 - $駿3
 ==
@@ -1648,9 +1648,9 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
-- $儘6
-- $尽6
-- $燼6
+- ($儘6)
+- ($尽6)
+- ($燼6)
 - $盡6
 ==
 </nav>

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2025-12-23
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -48,7 +48,7 @@ $$
 <nav class="sideways">
 =={.modern}
 - $參1
-- $叅1
+- ($叅1)
 - $攙1
 - $篸1
 - $驂1
@@ -290,7 +290,7 @@ $$
 =={.modern}
 - $慘2
 - $憯2
-- ${𢡖=⿰忄叅}2
+- (${𢡖=⿰忄叅}2)
 - $摻2
 - $篸2
 ==
@@ -599,13 +599,13 @@ $$
 =={.modern}
 - $劖4
 - $巉4
-- $慙4
+- ($慙4)
 - $慚4
-- $攙4
+- ($攙4)
 - $毚4
-- $漸4
-- ${𥕌=⿰石斬}4
-- $蚕4
+- ($漸4)
+- (${𥕌=⿰石斬}4)
+- ($蚕4)
 - $蠶4
 - $讒4
 - $饞4
@@ -1014,7 +1014,7 @@ $$
 <## tone-5-characters ##>
 <nav class="sideways">
 =={.modern}
-- $劖5
+- ($劖5)
 - $棖5
 - $鏨5
 ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -377,12 +377,12 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
-- $吒3
-- $咤3
+- ($吒3)
+- ($咤3)
 - $奼3
-- $岔3
-- $汊3
-- $蜡3
+- ($岔3)
+- ($汊3)
+- ($蜡3)
 - $詫3
 ==
 </nav>
@@ -865,7 +865,7 @@ $$
 <## tone-5-characters ##>
 <nav class="sideways">
 =={.modern}
-- $扠5
+- ($扠5)
 - $搽5
 ==
 </nav>
@@ -920,7 +920,7 @@ C
     1. The form 搽 for _(5)ch(')(a/)_ (caa5) is attested in
        [Eitel (1877)][eitel-dict-搽].
     ++
-  - [Wiktionary as of 2023-06-23][wiktionary-䵦]
+  - [Wiktionary as of 2026-01-01][wiktionary-䵦]
     suggests 䵦 as the original character, but I am not convinced by this.
     While the classical meaning (to dirty) is reasonable, the sound is less so.
     Starting with 《廣韻》徐野切,

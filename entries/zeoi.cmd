@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -54,7 +54,7 @@ $$
 - $椎1
 - $沮1
 - $疽1
-- $睢1
+- ($睢1)
 - $脧1
 - $苴1
 - $菹1
@@ -615,7 +615,7 @@ $$
 - $嘴2
 - $沮2
 - $觜2
-- $詛2
+- ($詛2)
 - $齟2
 ==
 </nav>
@@ -896,7 +896,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways">
 =={.modern}
-- $冣3
+- ($冣3)
 - $惴3
 - $最3
 - $沮3
@@ -1221,20 +1221,20 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways">
 =={.modern}
-- $冣6
-- $叙6
+- ($冣6)
+- ($叙6)
 - $墜6
 - $序6
-- $敍6
+- ($敍6)
 - $敘6
-- $綴6
+- ($綴6)
 - $縋6
 - $罪6
 - $聚6
 - $藇6
 - $贅6
-- $辠6
-- $隊6
+- ($辠6)
+- ($隊6)
 - $鱮6
 ==
 </nav>

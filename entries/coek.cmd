@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coek
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -52,7 +52,7 @@ $$
 - $綽3
 - $芍3
 - $踔3
-- $鵲3
+- ($鵲3)
 ==
 </nav>
 <## /tone-3-characters ##>

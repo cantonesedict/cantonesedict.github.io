@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -47,24 +47,24 @@ $$
 <nav class="sideways">
 =={.modern}
 - $倀1
-- $倡1
+- ($倡1)
 - $娼1
 - $將1
-- ${𢃑=⿰巾昌}1
+- (${𢃑=⿰巾昌}1)
 - $搶1
 - $斨1
 - $昌1
 - $槍1
-- $牕1
+- ($牕1)
 - $猖1
 - $瑲1
-- $窓1
+- ($窓1)
 - $窗1
-- $窻1
+- ($窻1)
 - $菖1
 - $裮1
 - $蹌1
-- $蹡1
+- ($蹡1)
 - $鎗1
 - $鏘1
 - $閶1
@@ -909,10 +909,10 @@ $$
 =={.modern}
 - $倡3
 - $唱3
-- $悵3
-- $昶3
+- ($悵3)
+- ($昶3)
 - $暢3
-- $蹌3
+- ($蹌3)
 - $蹡3
 - $韔3
 - $鬯3
@@ -1228,8 +1228,8 @@ $$
 <nav class="sideways">
 =={.modern}
 - $場4
-- $塲4
-- $墻4
+- ($塲4)
+- ($墻4)
 - $嬙4
 - $庠4
 - $戕4

@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fai
-* %date-modified --> 2025-12-20
-* %copyright-prior-years --> "2023, "
+* %date-modified --> 2026-01-01
+* %copyright-prior-years --> "2023, 2025--"
 
 %%%
 
@@ -44,16 +44,16 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways">
 =={.modern}
-- $墮1
+- ($墮1)
 - $徽1
 - $揮1
 - $撝1
 - $暉1
-- $煇1
+- ($煇1)
 - $睢1
 - $翬1
 - $輝1
-- $隓1
+- ($隓1)
 - $隳1
 - $麾1
 ==
@@ -513,8 +513,8 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways">
 =={.modern}
-- $疿2
-- $痱2
+- ($疿2)
+- ($痱2)
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -571,12 +571,12 @@ $$
 =={.modern}
 - $廢3
 - $沸3
-- $狒3
+- ($狒3)
 - $疿3
-- $痱3
+- ($痱3)
 - $肺3
 - $芾3
-- $茀3
+- ($茀3)
 - $費3
 ==
 </nav>
@@ -938,10 +938,10 @@ $$
 <nav class="sideways">
 =={.modern}
 - $吠6
-- $屝6
-- $狒6
-- $痱6
-- $菲6
+- ($屝6)
+- ($狒6)
+- ($痱6)
+- ($菲6)
 - $費6
 ==
 </nav>
