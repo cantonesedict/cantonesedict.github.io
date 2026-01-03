@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-01-02
+* %date-modified --> 2026-01-03
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -214,6 +214,12 @@ window.onload = applyFilter;
   //
     , `drinH`
     , [診](/entries/can#rendering-診)
+  //
+    , `drjo`
+    , [除](/entries/ceoi#rendering-除)
+  //
+    , `drju`
+    , [廚](/entries/ceoi#rendering-廚)
   //
     , `drjuw`
     , [幬](/entries/cau#rendering-幬)
@@ -578,6 +584,9 @@ window.onload = applyFilter;
     , `tsyinH`
     , [袗](/entries/can#rendering-袗)
   //
+    , `tsyweX`
+    , [捶](/entries/ceoi#rendering-捶)
+  //
     , `xjuwH`
     , [嗅](/entries/cau#rendering-嗅)
   //
@@ -593,8 +602,14 @@ window.onload = applyFilter;
     , `zjae`
     , [邪](/entries/ce#rendering-邪)
   //
+    , `zjo`
+    , [徐](/entries/ceoi#rendering-徐)
+  //
     , `zjuw`
     , [囚](/entries/cau#rendering-囚)
+  //
+    , `zjwe`
+    , [隨](/entries/ceoi#rendering-隨)
 ''
 ||||
 <## /renderings-table ##>

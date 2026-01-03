@@ -2315,8 +2315,11 @@ class CharacterEntry:
 
             if sense_type == '_verb-like_':
                 for verb_rendering in sense_renderings:
-                    if not verb_rendering.startswith('[to] '):
-                        raise LintException(f'missing infinitive `[to] ` for `{verb_rendering}` in `{sense_line}`')
+                    if not (verb_rendering.startswith('^') or verb_rendering.startswith('[to] ')):
+                        raise LintException(
+                            f'missing infinitive `[to] ` for `{verb_rendering}` in `{sense_line}` '
+                            f'(suppress with caret at start of rendering if legitimate)'
+                        )
 
     @staticmethod
     def lint_character_jyutping_consistency(content: str):

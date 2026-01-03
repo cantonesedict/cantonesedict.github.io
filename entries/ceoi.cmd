@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2026-01-02
+* %date-modified --> 2026-01-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1385,6 +1385,13 @@ C
   ==
   - Fan Wan entry: Normalised headword {𢊍=⿸广⿰豆寸} to 厨.
   ==
+L
+  ====
+  * 【廚】 (drju)
+    ==
+    - (_noun-like_) kitchen
+    ==
+  ====
 S
   ==
   - ($廚cyu4)
@@ -1426,6 +1433,14 @@ P
   ++
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【徐】 (zjo)
+    ==
+    - (_adverb-like_) slowly, gently
+    - (_adjective-like_) composed, dignified
+    ==
+  ====
 $$
 
 ###+ 捶4 | _(4)Ch(')ui_ [[ceoi4]]
@@ -1438,6 +1453,10 @@ U
 A
   ==
   - $搥4
+  ==
+V
+  ==
+  - zeoi2 (per 《廣韻》之累切)
   ==
 F
   [[Not present]]
@@ -1455,6 +1474,13 @@ W
     --
     [[Alternative form of 槌 (for the verb senses). See $槌ceoi4.]]
     --
+  ====
+L
+  ====
+  * 【捶】 (tsyweX)
+    ==
+    - (_verb-like_) [to] beat
+    ==
   ====
 $$
 
@@ -1686,6 +1712,7 @@ C
     so 籧篨 is the inability to look down
     (which is somewhat the opposite of being hunchbacked).
   ==
+  <## TODO: rendering for 籧篨 keoi4 ceoi4 ##>
 S
   ==
   - ($篨cyu4)
@@ -1751,6 +1778,7 @@ C
   - Fan Wan entry: Normalised headword ⿰𧾷⿸广⿰豆寸 to 蹰.
   - Williams' "Embarrassed": In the (now) archaic sense of "impeded", "obstructed".
   ==
+  <## TODO: rendering for 踟躕 ci4 ceoi4 ##>
 S
   ==
   - ($躕cyu4)
@@ -1905,6 +1933,14 @@ W
         to push away, to eject.
     ==
   ====
+L
+  ====
+  * 【除】 (drjo)
+    ==
+    - (_verb-like_) [to] remove
+    - (_verb-like_) [to] divide
+    ==
+  ====
 E
   ====
   - 【除】 (ceoi4)
@@ -2005,5 +2041,12 @@ W
     --
     [[Otherwise, an alternative form of {𡃴=⿰口隨}. **See ${𡃴=⿰口隨}ceoi4 for the canonical entry.**]]
     --
+  ====
+L
+  ====
+  * 【隨】 (zjwe)
+    ==
+    - (_verb-like_) [to] follow, (_met._) ^according unto
+    ==
   ====
 $$
