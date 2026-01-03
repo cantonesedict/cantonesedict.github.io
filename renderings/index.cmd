@@ -566,11 +566,17 @@ window.onload = applyFilter;
     , `tsyhwe`
     , [吹](/entries/ceoi#rendering-吹)
   //
+    , `tsyhwijH`
+    , [出~(transitive)](/entries/ceot#rendering-出-transitive)
+  //
     , `tsyhwin`
     , [春](/entries/ceon#rendering-春)
   //
     , `tsyhwinX`
     , [蠢](/entries/ceon#rendering-蠢)
+  //
+    , `tsyhwit`
+    , [出~(intransitive)](/entries/ceot#rendering-出-intransitive)
   //
     , `tsyin`
     , [畛](/entries/can#rendering-畛)

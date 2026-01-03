@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceot
-* %date-modified --> 2026-01-01
+* %date-modified --> 2026-01-03
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -135,6 +135,15 @@ W
   ====
 C
   ==
+  - There is also the reading variation _ch(')ui(3)_ (ceoi3) per 《廣韻》尺類切 (unexplained).
+    Kangxi has 《正韻》凡物自出則入聲非自出而出之則去聲然亦有互用者,
+    which prescribes entering tone _ch(')ut(7)_ (ceot1)
+    for the intransitive verb senses
+    and departing tone _ch(')ui(3)_ (ceoi3)
+    for the transitive verb senses
+    (though conceding some degree of interchangeability).
+    In modern usage, this distinction is absolutely obsolete,
+    and _ch(')ut(7)_ (ceot1) is the only reading in all senses.
   - Williams' 出入: Corrected _yap(7)_ (jap1) to _yap(9)_ (jap6).
   - Williams' 出恭: That is, to go to the toilet.
   - Williams' 出遊菩薩: Corrected _p(o\)(6)_ (bou6) to _(4)p(')(o\)_ (pou4).
@@ -147,6 +156,18 @@ P
   1. To produce.
   1. A sister's child (Kangxi: 生也, 男子謂姊妹之子爲出).
   ++
+L
+  ====
+  * 【出-transitive】 (tsyhwijH)
+    ==
+    - (_verb-like_) [to] bring out, [to] send forth
+    - (_verb-like_) [to] supply
+    ==
+  * 【出-intransitive】 (tsyhwit)
+    ==
+    - (_verb-like_) [to] go out
+    ==
+  ====
 E
   ====
   - 【出】 (ceot1)
