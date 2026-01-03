@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceon
-* %date-modified --> 2026-01-01
+* %date-modified --> 2026-01-03
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -99,6 +99,13 @@ P
   1. Vitality, life.
   1. A type of alcohol (Kangxi: 酒名).
   ++
+L
+  ====
+  * 【春】 (tsyhwin)
+    ==
+    - (_noun-like_) spring, springtime
+    ==
+  ====
 $$
 
 ### 椿1 | _(1)Ch(')un_ [[ceon1]]
@@ -298,6 +305,14 @@ P
   ++
   1. Insolent, disrespectful (Kangxi: 蠢不遜也).
   ++
+L
+  ====
+  * 【蠢】 (tsyhwinX)
+    ==
+    - (_verb-like_) [to] wriggle, [to] stir
+    - (_adjective-like_) insolent
+    ==
+  ====
 $$
 
 ### 踳2 | _(2)Ch(')un_ [[ceon2]]
@@ -421,6 +436,17 @@ P
   ++
   1. Used in 逡巡 (hesitant, retreative) (Kangxi: 逡巡郤退之貌).
   ++
+L
+  ====
+  * 【巡】 (zwin)
+    ==
+    - (_verb-like_) [to] patrol, [to] inspect
+    ==
+  * 【巡守】 (zwin syuwH)
+    ==
+    - (_verb-like_) [to] make tour of inspection
+    ==
+  ====
 $$
 
 ### 廵4 | _(4)Ts(')un_ [[ceon4]]
@@ -501,6 +527,15 @@ P
   1. Orderly, gradually (Kangxi: 循次序也).
   1. To rub (Kangxi: 循摩也).
   ++
+L
+  ====
+  * 【循】 (zwin)
+    ==
+    - (_verb-like_) [to] go along, [to] comply
+    - (_adjective-like_) orderly
+    - (_verb-like_) [to] rub
+    ==
+  ====
 $$
 
 ### 揗4 | _(4)Ts(')un_ [[ceon4]]
@@ -574,6 +609,13 @@ W
         the tide will serve you well.
     ==
   ====
+L
+  ====
+  * 【旬】 (zwin)
+    ==
+    - (_noun-like_) ten-days
+    ==
+  ====
 $$
 
 ### 秦4 | _(4)Ts(')un_ [[ceon4]]
@@ -639,6 +681,13 @@ W
         the spindle of a spinning-wheel --- a colloquial term.
     ==
   ====
+L
+  ====
+  * 【紃】 (zwin, zywin)
+    ==
+    - (_noun-like_) silk-cord
+    ==
+  ====
 $$
 
 ### 螓4 | _(4)Ts(')un_ [[ceon4]]
@@ -659,6 +708,13 @@ W
     - A small species of cicada [[Kangxi: 蟲名似蟬而小 etc.]];
     - ~~eggs of the mantis;~~
     - a breeze or large blue-bottle fly [[Kangxi: 大蠅曰胡螓]].
+    ==
+  ====
+L
+  ====
+  * 【螓】 (dzin)
+    ==
+    - (_noun-like_) small-cicada
     ==
   ====
 $$

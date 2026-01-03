@@ -266,6 +266,9 @@ window.onload = applyFilter;
     , `dzim`
     , [鬵](/entries/cam#rendering-鬵)
   //
+    , `dzin`
+    , [螓](/entries/ceon#rendering-螓)
+  //
     , `dzip`
     , [輯](/entries/cap#rendering-輯)
   //
@@ -563,6 +566,12 @@ window.onload = applyFilter;
     , `tsyhwe`
     , [吹](/entries/ceoi#rendering-吹)
   //
+    , `tsyhwin`
+    , [春](/entries/ceon#rendering-春)
+  //
+    , `tsyhwinX`
+    , [蠢](/entries/ceon#rendering-蠢)
+  //
     , `tsyin`
     , [畛](/entries/can#rendering-畛)
   //
@@ -610,6 +619,24 @@ window.onload = applyFilter;
   //
     , `zjwe`
     , [隨](/entries/ceoi#rendering-隨)
+  //
+    , `zwin`
+    , [巡](/entries/ceon#rendering-巡)
+  //
+    , `zwin`
+    , [循](/entries/ceon#rendering-循)
+  //
+    , `zwin`
+    , [旬](/entries/ceon#rendering-旬)
+  //
+    , `zwin`
+    , [紃](/entries/ceon#rendering-紃)
+  //
+    , `zwin syuwH`
+    , [巡守](/entries/ceon#rendering-巡守)
+  //
+    , `zywin`
+    , [紃](/entries/ceon#rendering-紃)
 ''
 ||||
 <## /renderings-table ##>
