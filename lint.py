@@ -2924,7 +2924,7 @@ class Linter:
             Linter.lint_character_entry_alternative_form_redirect_reciprocation(character_entries)
             Linter.lint_character_entry_reading_variation_redirect_reciprocation(character_entries)
             Linter.lint_character_entry_literary_rendering_belonging(character_entries)
-            Linter.lint_character_entry_literary_rendering_reciprocation(character_entries)
+            Linter.lint_character_entry_literary_rendering_linkage(character_entries)
             Linter.lint_character_entry_see_also_reciprocation(character_entries)
             Linter.lint_literary_rendering_url_duplication(literary_renderings)
             Linter.lint_cantonese_entry_url_duplication(cantonese_entries)
@@ -3418,41 +3418,37 @@ class Linter:
                     raise LintException(f'literary rendering for `{term}` does not belong under `{character_entry}`')
 
     @staticmethod
-    def lint_character_entry_literary_rendering_reciprocation(character_entries: list['CharacterEntry']):
+    def lint_character_entry_literary_rendering_linkage(character_entries: list['CharacterEntry']):
         character_entries_from_character = Utilities.collate_firsts_by_second(
             (character_entry, character_entry.character)
             for character_entry in character_entries
         )
 
         for character_entry in character_entries:
-            character = character_entry.character
-
             if (literary_renderings := character_entry.literary_renderings) is None:
                 continue
 
             for literary_rendering in literary_renderings:
-                url = literary_rendering.url()
-                other_characters = [
-                    term_character
-                    for term_character in literary_rendering.term
-                    if term_character != character
-                ]
+                if len(term := literary_rendering.term) == 1:
+                    continue
 
-                for other_character in other_characters:
+                url = literary_rendering.url()
+
+                for term_character in term:
                     try:
-                        other_character_entries = character_entries_from_character[other_character]
+                        term_character_entries = character_entries_from_character[term_character]
                     except KeyError:
                         continue
 
                     other_literary_renderings = [
                         other_lr
-                        for other_ce in other_character_entries
-                        if (other_lrs := other_ce.literary_renderings) is not None
+                        for term_ce in term_character_entries
+                        if (other_lrs := term_ce.literary_renderings) is not None
                         for other_lr in other_lrs
-                        if other_lr.term == other_character
+                        if other_lr.term == term_character
                     ]
 
-                    linking_lines = [
+                    other_linking_lines = [
                         line
                         for other_lr in other_literary_renderings
                         for line in other_lr.sense_content.splitlines()
@@ -3460,10 +3456,10 @@ class Linter:
                         if url in line
                     ]
 
-                    if not linking_lines:
+                    if not other_linking_lines:
                         raise LintException(
-                            f'missing `- Used in [...]` link to `{url}` under at least one of '
-                            f'{[other_ce.heading_content for other_ce in other_character_entries]}`'
+                            f'missing `- Used in [...]` link to `{url}` under one of '
+                            f'{[other_ce.heading_content for other_ce in term_character_entries]}'
                         )
 
     @staticmethod
