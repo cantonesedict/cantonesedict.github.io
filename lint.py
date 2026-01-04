@@ -3433,6 +3433,7 @@ class Linter:
                     continue
 
                 url = literary_rendering.url()
+                link_content = f'[{term}]({url})'
 
                 for term_character in term:
                     try:
@@ -3453,12 +3454,12 @@ class Linter:
                         for other_lr in other_literary_renderings
                         for line in other_lr.sense_content.splitlines()
                         if re.match(pattern='[ ]+[-] Used in', string=line)
-                        if url in line
+                        if link_content in line
                     ]
 
                     if not other_linking_lines:
                         raise LintException(
-                            f'missing `- Used in [...]` link to `{url}` under one of '
+                            f'missing `- Used in [...]` link `{link_content}` under one of '
                             f'{[other_ce.heading_content for other_ce in term_character_entries]}'
                         )
 
