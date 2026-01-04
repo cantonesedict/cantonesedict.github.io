@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2026-01-01
+* %date-modified --> 2026-01-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -203,6 +203,13 @@ C
   ==
   - Strictly, the pre-merger reading should be _(1)ch(')(i/)_ per 《廣韻》楚宜切.
   ==
+L
+  ====
+  * 【差】 (tsrhje)
+    ==
+    - Used in [參差](/entries/caam#rendering-參差).
+    ==
+  ====
 S
   ==
   - $差caa1
