@@ -2567,12 +2567,14 @@ class CharacterEntry:
             return None
 
         return [
-            LiteraryRendering(term, disambiguation_suffix, baxter_content, character, page_heading_jyutping)
+            LiteraryRendering(term, disambiguation_suffix, baxter_content, sense_content,
+                              character, page_heading_jyutping)
             for match in re.finditer(
                 pattern=r'''
-                    ^ [ ]+ [*][ ]
+                    ^ (?P<indentation> [ ]+ ) [*][ ]
                     【 (?P<term> [^\s-]+ ) (?P<disambiguation_suffix> \S* ) 】
-                    [ ] \( (?P<baxter_content> .* ) \)
+                    [ ] \( (?P<baxter_content> .* ) \) \n
+                    (?P<sense_content> (?: (?P=indentation) [ ]+ .* \n)* )
                 ''',
                 string=content,
                 flags = re.MULTILINE | re.VERBOSE,
@@ -2581,6 +2583,7 @@ class CharacterEntry:
                 term := match.group('term'),
                 disambiguation_suffix := match.group('disambiguation_suffix'),
                 baxter_content := match.group('baxter_content'),
+                sense_content := match.group('sense_content'),
             )
         ]
 
@@ -2788,8 +2791,8 @@ class LiteraryRendering:
     baxter_list: list[str]
     page_heading_jyutping: str
 
-    def __init__(self, term: str, disambiguation_suffix: str, baxter_content: str, character: str,
-                 page_heading_jyutping: str):
+    def __init__(self, term: str, disambiguation_suffix: str, baxter_content: str, sense_content: str,
+                 character: str, page_heading_jyutping: str):
         baxter_list = baxter_content.split(sep=', ')
         baxter_set = set(baxter_list)
 
@@ -2801,6 +2804,7 @@ class LiteraryRendering:
         self.baxter_list = baxter_list
         self.character = character
         self.page_heading_jyutping = page_heading_jyutping
+        self.sense_content = sense_content
 
     def __lt__(self, other):
         return self.sorting_rank() < other.sorting_rank()
@@ -2825,7 +2829,7 @@ class LiteraryRendering:
 
     def split(self) -> list['LiteraryRendering']:
         return [
-            LiteraryRendering(self.term, self.disambiguation_suffix, split_baxter,
+            LiteraryRendering(self.term, self.disambiguation_suffix, split_baxter, self.sense_content,
                               self.character, self.page_heading_jyutping)
             for split_baxter in self.baxter_list
         ]
@@ -2920,6 +2924,7 @@ class Linter:
             Linter.lint_character_entry_alternative_form_redirect_reciprocation(character_entries)
             Linter.lint_character_entry_reading_variation_redirect_reciprocation(character_entries)
             Linter.lint_character_entry_literary_rendering_belonging(character_entries)
+            Linter.lint_character_entry_literary_rendering_reciprocation(character_entries)
             Linter.lint_character_entry_see_also_reciprocation(character_entries)
             Linter.lint_literary_rendering_url_duplication(literary_renderings)
             Linter.lint_cantonese_entry_url_duplication(cantonese_entries)
@@ -3411,6 +3416,55 @@ class Linter:
             for literary_rendering in literary_renderings:
                 if character not in (term := literary_rendering.term):
                     raise LintException(f'literary rendering for `{term}` does not belong under `{character_entry}`')
+
+    @staticmethod
+    def lint_character_entry_literary_rendering_reciprocation(character_entries: list['CharacterEntry']):
+        character_entries_from_character = Utilities.collate_firsts_by_second(
+            (character_entry, character_entry.character)
+            for character_entry in character_entries
+        )
+
+        for character_entry in character_entries:
+            character = character_entry.character
+
+            if (literary_renderings := character_entry.literary_renderings) is None:
+                continue
+
+            for literary_rendering in literary_renderings:
+                url = literary_rendering.url()
+                other_characters = [
+                    term_character
+                    for term_character in literary_rendering.term
+                    if term_character != character
+                ]
+
+                for other_character in other_characters:
+                    try:
+                        other_character_entries = character_entries_from_character[other_character]
+                    except KeyError:
+                        continue
+
+                    other_literary_renderings = [
+                        other_lr
+                        for other_ce in other_character_entries
+                        if (other_lrs := other_ce.literary_renderings) is not None
+                        for other_lr in other_lrs
+                        if other_lr.term == other_character
+                    ]
+
+                    linking_lines = [
+                        line
+                        for other_lr in other_literary_renderings
+                        for line in other_lr.sense_content.splitlines()
+                        if re.match(pattern='[ ]+[-] Used in', string=line)
+                        if url in line
+                    ]
+
+                    if not linking_lines:
+                        raise LintException(
+                            f'missing `- Used in [...]` link to `{url}` under at least one of '
+                            f'{[other_ce.heading_content for other_ce in other_character_entries]}`'
+                        )
 
     @staticmethod
     def lint_character_entry_see_also_reciprocation(character_entries: list['CharacterEntry']):
