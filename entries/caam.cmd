@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2026-01-01
+* %date-modified --> 2026-01-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -134,6 +134,7 @@ L
     - (_verb-like_) [to] pay visit (unto)
     - (_verb-like_) [to] consult, [to] examine
     - (_verb-like_) [to] impeach
+    - Used in [參差](/entries/caam#rendering-參差).
     ==
   * 【參差】 (tsrhim tsrhje)
     ==

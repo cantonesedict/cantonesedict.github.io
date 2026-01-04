@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2026-01-02
+* %date-modified --> 2026-01-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -833,6 +833,10 @@ P
   ++
 L
   ====
+  * 【趣】 (tshuwX)
+    ==
+    - Used in [趣馬](/entries/cau#rendering-趣馬).
+    ==
   * 【趣馬】 (tshuwX maeX)
     ==
     - (_noun-like_) horse master
@@ -1632,6 +1636,7 @@ L
     - (_noun-like_) farming-field, hemp-field
     - (_pronoun-like_) who
     - (_noun-like_) category
+    - Used in [疇昔](/entries/cau#rendering-疇昔).
     ==
   * 【疇昔】 (drjuw sjek)
     ==
@@ -1872,6 +1877,7 @@ L
   * 【綢】 (drjuw)
     ==
     - (_verb-like_) [to] wind
+    - Used in [綢繆](/entries/cau#rendering-綢繆).
     ==
   * 【綢繆】 (drjuw mjuw)
     ==

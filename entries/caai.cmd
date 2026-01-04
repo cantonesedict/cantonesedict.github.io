@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2026-01-01
+* %date-modified --> 2026-01-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -656,6 +656,7 @@ L
   * 【豺】 (dzreaj)
     ==
     - (_noun-like_) dhole
+    - Used in [豺狼](/entries/caai#rendering-豺狼).
     ==
   * 【豺狼】 (dzreaj lang)
     ==

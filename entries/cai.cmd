@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2026-01-01
+* %date-modified --> 2026-01-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -590,6 +590,10 @@ W
   ====
 L
   ====
+  * 【蠐】 (dzej)
+    ==
+    - Used in [蝤蠐](/entries/cai#rendering-蝤蠐).
+    ==
   * 【蝤蠐】 (dzjuw dzej)
     ==
     - (_noun-like_) tree-grub

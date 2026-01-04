@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aam
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -79,6 +79,10 @@ W
   ====
 L
   ====
+  * 【菡】 (homX)
+    ==
+    - Used in [菡萏](/entries/aam#rendering-菡萏).
+    ==
   * 【菡萏】 (homX domX)
     ==
     - (_noun-like_) lotus flower

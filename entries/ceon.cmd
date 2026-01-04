@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceon
-* %date-modified --> 2026-01-03
+* %date-modified --> 2026-01-04
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -441,6 +441,7 @@ L
   * 【巡】 (zwin)
     ==
     - (_verb-like_) [to] patrol, [to] inspect
+    - Used in [巡守](/entries/ceon#rendering-巡守).
     ==
   * 【巡守】 (zwin syuwH)
     ==

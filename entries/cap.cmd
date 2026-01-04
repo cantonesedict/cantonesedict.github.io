@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cap
-* %date-modified --> 2025-12-30
+* %date-modified --> 2026-01-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -220,6 +220,7 @@ L
     ==
     - (_verb-like_) [to] spin (thread), [to] hem
     - (_verb-like_) [to] continue
+    - Used in [緝熙](/entries/cap#rendering-緝熙).
     ==
   * 【緝熙】 (tship xi)
     ==

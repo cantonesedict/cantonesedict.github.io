@@ -255,6 +255,9 @@ window.onload = applyFilter;
     , [懠](/entries/cai#rendering-懠)
   //
     , `dzej`
+    , [蠐](/entries/cai#rendering-蠐)
+  //
+    , `dzej`
     , [齊](/entries/cai#rendering-齊)
   //
     , `dzejX`
@@ -328,6 +331,9 @@ window.onload = applyFilter;
   //
     , `dzyuw`
     , [酬](/entries/cau#rendering-酬)
+  //
+    , `homX`
+    , [菡](/entries/aam#rendering-菡)
   //
     , `homX domX`
     , [菡萏](/entries/aam#rendering-菡萏)
@@ -475,6 +481,9 @@ window.onload = applyFilter;
   //
     , `tshuwX`
     , [取](/entries/ceoi#rendering-取)
+  //
+    , `tshuwX`
+    , [趣](/entries/cau#rendering-趣)
   //
     , `tshuwX maeX`
     , [趣馬](/entries/cau#rendering-趣馬)
