@@ -218,6 +218,10 @@ RegexDictionaryReplacement: #.syntax.literary-renderings
     #.syntax.strip-compositions
 
 
+OrdinaryDictionaryReplacement: #.syntax.same-page-link-reduction
+* /{CLEAN_URL}# --> #
+
+
 RegexDictionaryReplacement: #.syntax.entry-links
 - queue_position: BEFORE #specified-links
 * [$] (?P<jyutping> [a-z]+ ) (?P<tone_number> [1-6] )
@@ -234,6 +238,7 @@ RegexDictionaryReplacement: #.syntax.entry-links
   (?P<tone_number> [1-6] )
     -->
   [\g<headword>](#\g<character>-\g<tone_number>)
+- concluding_replacements: #.syntax.same-page-link-reduction
 
 
 RegexDictionaryReplacement: #.syntax.radical-links
