@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-01-04
+* %date-modified --> 2026-01-07
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -275,6 +275,9 @@ window.onload = applyFilter;
     , `dzip`
     , [輯](/entries/cap#rendering-輯)
   //
+    , `dzje`
+    , [疵](/entries/ci#rendering-疵)
+  //
     , `dzjem`
     , [鬵](/entries/cam#rendering-鬵)
   //
@@ -359,6 +362,9 @@ window.onload = applyFilter;
     , `syae`
     , [奢](/entries/ce#rendering-奢)
   //
+    , `syiX`
+    , [始](/entries/ci#rendering-始)
+  //
     , `syinX`
     , [哂](/entries/can#rendering-哂)
   //
@@ -379,6 +385,9 @@ window.onload = applyFilter;
   //
     , `trhaet`
     , [獺](/entries/caat#rendering-獺)
+  //
+    , `trhiX`
+    , [恥](/entries/ci#rendering-恥)
   //
     , `trhinH`
     , [疢](/entries/can#rendering-疢)
@@ -448,6 +457,12 @@ window.onload = applyFilter;
   //
     , `tshjaeX`
     , [且](/entries/ce#rendering-且)
+  //
+    , `tshje`
+    , [雌](/entries/ci#rendering-雌)
+  //
+    , `tshjeX`
+    , [佌](/entries/ci#rendering-佌)
   //
     , `tshju`
     , [趨](/entries/ceoi#rendering-趨)
@@ -563,8 +578,20 @@ window.onload = applyFilter;
     , `tsyhae`
     , [車](/entries/ce#rendering-車)
   //
+    , `tsyheX`
+    , [侈](/entries/ci#rendering-侈)
+  //
+    , `tsyheX`
+    , [哆](/entries/ci#rendering-哆)
+  //
     , `tsyhek`
     , [尺](/entries/cek#rendering-尺)
+  //
+    , `tsyhij`
+    , [鴟](/entries/ci#rendering-鴟)
+  //
+    , `tsyhij hjew`
+    , [鴟鴞](/entries/ci#rendering-鴟鴞)
   //
     , `tsyhin`
     , [瞋](/entries/can#rendering-瞋)

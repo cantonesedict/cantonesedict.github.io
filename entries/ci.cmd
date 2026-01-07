@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2026-01-04
+* %date-modified --> 2026-01-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -261,6 +261,13 @@ W
         a black spot.
     ==
   ====
+L
+  ====
+  * 【疵】 (dzje)
+    ==
+    - (_noun-like_) defect
+    ==
+  ====
 S
   ==
   - ($疵ci4)
@@ -504,6 +511,14 @@ C
   ==
   - Fan Wan entry: Corrected 毌 to 母.
   ==
+L
+  ====
+  * 【雌】 (tshje)
+    ==
+    - (_noun-like_) hen, female-bird
+    - (_noun-like_) female
+    ==
+  ====
 $$
 
 ###+ 骴1 | _(1)Ts(')z'_ [[ci1]]
@@ -560,6 +575,18 @@ P
   ++
   1. Short for 鴟夷 (a wineskin) (Kangxi: 鴟夷革囊也, 盛酒者也).
   ++
+L
+  ====
+  * 【鴟】 (tsyhij)
+    ==
+    - (_noun-like_) owl
+    - Used in [鴟鴞](/entries/ci#rendering-鴟鴞).
+    ==
+  * 【鴟鴞】 (tsyhij hjew)
+    ==
+    - (_noun-like_) owl
+    ==
+  ====
 $$
 
 ### 黐1 | _(1)Ch(')(i/)_ [[ci1]]
@@ -760,6 +787,13 @@ C
   ==
   - Fan Wan entry: Corrected 佌佊 to 佌佌彼.
   ==
+L
+  ====
+  * 【佌】 (tshjeX)
+    ==
+    - (_adjective-like_) small, petty
+    ==
+  ====
 $$
 
 ### 侈2 | _(2)Ch(')(i/)_ [[ci2]]
@@ -791,6 +825,13 @@ W
         exaggerated talk.
     ==
   ====
+L
+  ====
+  * 【侈】 (tsyheX)
+    ==
+    - (_adjective-like_) prodigal
+    ==
+  ====
 $$
 
 ### 哆2 | _(2)Ch(')(i/)_ [[ci2]]
@@ -818,6 +859,13 @@ W
     --
     [[...]]
     --
+  ====
+L
+  ====
+  * 【哆】 (tsyheX)
+    ==
+    - (_adjective-like_) open-mouthed
+    ==
   ====
 S
   ==
@@ -854,6 +902,13 @@ W
     - _(2)ch(')(i/) ch(')ong(3)_
         [[ci2 cong3 始創]]
         invention.
+    ==
+  ====
+L
+  ====
+  * 【始】 (syiX)
+    ==
+    - (_noun-like_) beginning
     ==
   ====
 $$
@@ -926,6 +981,13 @@ C
   ==
   - Fan Wan entry: Corrected duplicate headword 耻 to 恥.
   ==
+L
+  ====
+  * 【恥】 (trhiX)
+    ==
+    - (_noun-like_) shame
+    ==
+  ====
 $$
 
 ### 杝2 | _(2)Ch(')(i/)_ [[ci2]]
