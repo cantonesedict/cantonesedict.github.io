@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2026-01-07
+* %date-modified --> 2026-01-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1004,7 +1004,7 @@ A
 V
   ==
   - ci5 (per 《廣韻》池爾切)
-  - to1 (alternative per Kangxi 託何切)
+  - to1 (alternative per Kangxi 叶託何切)
   ==
 F
   ==
@@ -1034,7 +1034,7 @@ C
     ==
     - 杝 read _(4)(i/)_ (ji4) is the name of a tree.
     - 杝 read _(4)l(i/)_ (lei4) is used for 離.
-    - 杝 read _(4)t(')o_ (to4) is a mistaken parsing of Kangxi 託何切音佗 _(1)t(')o_ (to1),
+    - 杝 read _(4)t(')o_ (to4) is a mistaken parsing of Kangxi 叶託何切音佗 _(1)t(')o_ (to1),
       which is the only reading having the same meaning
       of "splitting with the grain".
     ==
