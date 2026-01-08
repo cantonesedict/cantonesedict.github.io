@@ -1039,6 +1039,13 @@ C
       of "splitting with the grain".
     ==
   ====
+L
+  ====
+  * 【杝】 (drjeX)
+    ==
+    - (_verb-like_) [to] split with [the] grain
+    ==
+  ====
 S
   ==
   - $杝ji4 (TODO)
@@ -1134,6 +1141,13 @@ P
   ++
   1. Thus, then.
   ++
+L
+  ====
+  * 【此】 (tshjeX)
+    ==
+    - (_determiner-like_) this
+    ==
+  ====
 $$
 
 ###+ 泚2 | _(2)Ts(')z'_ [[ci2]]
@@ -1159,6 +1173,14 @@ W
     - clear water [[Kangxi: 水淸也]];
     - fresh, clean;
     - [[...]].
+    ==
+  ====
+L
+  ====
+  * 【泚】 (tshjeX)
+    ==
+    - (_adjective-like_) limpid
+    - (_adjective-like_) perspiring
     ==
   ====
 S
@@ -1213,6 +1235,15 @@ P
   ++
   1. Upright (Kangxi: 正也直也).
   ++
+L
+  ====
+  * 【矢】 (syijX)
+    ==
+    - (_noun-like_) arrow
+    - (_verb-like_) [to] arrange
+    - (_verb-like_) [to] swear
+    ==
+  ====
 S
   ==
   - $矢si2 (TODO) <## shit ##>
@@ -1274,6 +1305,13 @@ W
         plush, felt.
     ==
   ====
+L
+  ====
+  * 【褫】 (drje, drjeX, trhjeX)
+    ==
+    - (_verb-like_) [to] strip
+    ==
+  ====
 S
   ==
   - ($褫ci1)
@@ -1306,6 +1344,13 @@ C
   ==
   - Williams radical: Corrected 153d to 152d.
   ==
+L
+  ====
+  * 【豕】 (syeX)
+    ==
+    - (_noun-like_) swine
+    ==
+  ====
 $$
 
 ### 齒2 | _(2)Ch(')(i/)_ [[ci2]]
@@ -1366,6 +1411,13 @@ C
   - Williams' 年齒每催: A misspelling of 年矢每催
     (from Thousand Character Classic).
   ==
+L
+  ====
+  * 【齒】 (tsyhiX)
+    ==
+    - (_noun-like_) front-tooth, tooth
+    ==
+  ====
 $$
 
 
