@@ -1467,7 +1467,7 @@ W
     ==
     - Light, nimble, sprightly [[Kangxi: ::佽飛[...]輕疾若飛也::]];
     - to help, to assist [[Kangxi: 助也]];
-    - to compare [[Kangxi: 比也]];
+    - ~~to compare;~~
     - for, instead [[Kangxi: 代也遞也]];
     - _ts(')z'(3) cho(6)_
         [[ci3 zo6 佽助]]
@@ -1477,7 +1477,19 @@ W
 C
   ==
   - Fan Wan entry: Corrected headword 㐸 to 佽.
+  - Williams' "to compare": This is a misreading of Kangxi 比也,
+    which explains 《詩小雅》決拾旣佽, with commentary 《註》利也謂相次然後射
+    and lesser-note 《鄭箋》謂指相次比也.
+    In 次比, we have 比 in departing tone,
+    meaning "put beside" or "pack together" (as in 鱗次櫛比 etc.).
   ==
+L
+  ====
+  * 【佽】 (tshijH)
+    ==
+    - (_verb-like_) [to] help, [to] convenience
+    ==
+  ====
 $$
 
 ### 刺3 | _Ts(')z'(3)_ [[ci3]]
@@ -1541,6 +1553,17 @@ C
   - Williams' 行刺: Metaphorically, to assassinate.
   - Williams' 鏨刺: Corrected _(5)^ts(a/)m_ (zaam5) to _(5)ts(')(a/)m_ (caam5).
   ==
+L
+  ====
+  * 【刺-noun】 (tshjeH)
+    ==
+    - (_noun-like_) thorn
+    ==
+  * 【刺-verb】 (tshjeH, tshjek)
+    ==
+    - (_verb-like_) [to] pierce, [to] stab, (_met._) [to] slay, [to] assassinate, [to] castigate, [to] lampoon
+    ==
+  ====
 S
   ==
   - $刺cik3
@@ -1620,6 +1643,13 @@ C
   - Williams' "Often read [...]": 《集韻》 has the reading 丁計切,
     explained 高聲一曰諟也, but this does not correspond to the senses given here.
   ==
+L
+  ====
+  * 【啻】 (syeH)
+    ==
+    - (_adverb-like_) only, merely, (_met._) less than
+    ==
+  ====
 $$
 
 ### 幟3 | _Ch(')(i/)(3)_ [[ci3]]
@@ -1812,6 +1842,16 @@ W
         a stranger's lodging, travelers' houses.
     ==
   ====
+L
+  ====
+  * 【次】 (tshijH)
+    ==
+    - (_adjective-like_) next, second
+    - (_verb-like_) [to] come next
+    - (_noun-like_) sequence
+    - (_verb-like_) [to] camp, [to] lodge
+    ==
+  ====
 $$
 
 ### 熾3 | _Ch(')(i/)(3)_ [[ci3]]
@@ -1837,6 +1877,13 @@ W
         [[ji5 jau4 gau3 fo2 jyu6 pok3 jyu6 ci3 以油救火愈撲愈熾]]
         as if you should try to put out a fire with oil,
         the more the fiercer it burns.
+    ==
+  ====
+L
+  ====
+  * 【熾】 (tsyhiH)
+    ==
+    - (_adjective-like_) blazing
     ==
   ====
 $$
@@ -2048,6 +2095,13 @@ W
         an imperial gift of a peacock's feather.
     ==
   ====
+L
+  ====
+  * 【賜】 (sjeH)
+    ==
+    - (_verb-like_) [to] confer
+    ==
+  ====
 $$
 
 ### 饎3 | _Ch(')(i/)(3)_ [[ci3]]
@@ -2079,6 +2133,13 @@ W
     - _ch(')(i/)(3) (4)(i/)n_
         [[ci3 jin4 饎筵]],
         a feast.
+    ==
+  ====
+L
+  ====
+  * 【饎】 (tsyhiH)
+    ==
+    - (_noun-like_) rice-offering, feast
     ==
   ====
 $$

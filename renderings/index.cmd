@@ -359,6 +359,9 @@ window.onload = applyFilter;
     , `sej`
     , [棲](/entries/cai#rendering-棲)
   //
+    , `sjeH`
+    , [賜](/entries/ci#rendering-賜)
+  //
     , `sreanX`
     , [產](/entries/caan#rendering-產)
   //
@@ -373,6 +376,9 @@ window.onload = applyFilter;
   //
     , `syeX`
     , [豕](/entries/ci#rendering-豕)
+  //
+    , `syeH`
+    , [啻](/entries/ci#rendering-啻)
   //
     , `syiX`
     , [始](/entries/ci#rendering-始)
@@ -443,6 +449,12 @@ window.onload = applyFilter;
     , `tshejH`
     , [砌](/entries/cai#rendering-砌)
   //
+    , `tshijH`
+    , [佽](/entries/ci#rendering-佽)
+  //
+    , `tshijH`
+    , [次](/entries/ci#rendering-次)
+  //
     , `tshim`
     , [侵](/entries/cam#rendering-侵)
   //
@@ -487,6 +499,15 @@ window.onload = applyFilter;
   //
     , `tshjeX`
     , [泚](/entries/ci#rendering-泚)
+  //
+    , `tshjeH`
+    , [刺~(noun)](/entries/ci#rendering-刺-noun)
+  //
+    , `tshjeH`
+    , [刺~(verb)](/entries/ci#rendering-刺-verb)
+  //
+    , `tshjek`
+    , [刺~(verb)](/entries/ci#rendering-刺-verb)
   //
     , `tshju`
     , [趨](/entries/ceoi#rendering-趨)
@@ -613,6 +634,12 @@ window.onload = applyFilter;
   //
     , `tsyhiX`
     , [齒](/entries/ci#rendering-齒)
+  //
+    , `tsyhiH`
+    , [熾](/entries/ci#rendering-熾)
+  //
+    , `tsyhiH`
+    , [饎](/entries/ci#rendering-饎)
   //
     , `tsyhij`
     , [鴟](/entries/ci#rendering-鴟)
