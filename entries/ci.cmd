@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2026-01-08
+* %date-modified --> 2026-01-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2262,6 +2262,13 @@ W
     - [[...]].
     ==
   ====
+L
+  ====
+  * 【坻】 (drij)
+    ==
+    - (_noun-like_) islet
+    ==
+  ====
 S
   ==
   - $坻dai2 (TODO)
@@ -2331,6 +2338,13 @@ W
         remiss.
     ==
   ====
+L
+  ====
+  * 【弛】 (syeX)
+    ==
+    - (_verb-like_) [to] slacken
+    ==
+  ====
 S
   ==
   - ($弛ci2)
@@ -2388,6 +2402,13 @@ C
     indicating that the groom/bride's father has arranged the marriage
     according to wishes of the groom/bride's father's mother.
   ==
+L
+  ====
+  * 【慈】 (dzi)
+    ==
+    - (_noun-like_) affection, kindness, (_met._) mother
+    ==
+  ====
 $$
 
 ### 持4 | _(4)Ch(')(i/)_ [[ci4]]
@@ -2427,6 +2448,13 @@ W
     - _(4)ch(')(i/) f(a/)t(8)_
         [[ci4 faat3 持法]]
         to maintain the law.
+    ==
+  ====
+L
+  ====
+  * 【持】 (dri)
+    ==
+    - (_verb-like_) [to] hold
     ==
   ====
 $$
@@ -2505,6 +2533,13 @@ P
   ++
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【池】 (drje)
+    ==
+    - (_noun-like_) pool
+    ==
+  ====
 $$
 
 ###+ 治4 | _(4)Ch(')(i/)_ [[ci4]]
@@ -2531,7 +2566,7 @@ C
   ==
   - In modern usage, the level-tone reading _(4)ch(')(i/)_ (ci4)
     for the verb senses is considered obsolete.
-    See $治zi6 for commentary.
+    See commentary at $治zi6.
   ==
 S
   ==
@@ -2671,6 +2706,14 @@ W
         a temple to virtuous women.
     ==
   ====
+L
+  ====
+  * 【祠】 (zi)
+    ==
+    - (_noun-like_) spring-sacrifice, sacrifice
+    - (_noun-like_) ancestral-shrine
+    ==
+  ====
 $$
 
 ### 篪4 | _(4)Ch(')(i/)_ [[ci4]]
@@ -2694,6 +2737,13 @@ W
         [[ci4 hyun1 篪壎]],
         two instruments which chord;
         fraternal love.
+    ==
+  ====
+L
+  ====
+  * 【篪】 (drje)
+    ==
+    - (_noun-like_) flute
     ==
   ====
 $$
@@ -2777,6 +2827,13 @@ C
     or Kangxi 通作齊 (which indicates that 臍 can be written 齊,
     not the other way round).
   ==
+L
+  ====
+  * 【臍】 (dzej)
+    ==
+    - (_noun-like_) navel
+    ==
+  ====
 $$
 
 ### 茨4 | _(4)Ts(')z'_ [[ci4]]
@@ -2801,6 +2858,14 @@ W
     - _(4)ts(')z' (1)k(u/)_
         [[ci4 gu1 茨菰]],
         the _Caladium sagittifolium_, a species of Arum.
+    ==
+  ====
+L
+  ====
+  * 【茨】 (dzij)
+    ==
+    - (_verb-like_) [to] thatch
+    - (_noun-like_) puncture-vine
     ==
   ====
 $$
@@ -2842,6 +2907,13 @@ W
   - [[Page~11* (4)蚳]]
     ==
     - Eggs or larva of ants [[Kangxi: 蟻卵也]]. ~~One says, a bloodsucker.~~
+    ==
+  ====
+L
+  ====
+  * 【蚳】 (drij)
+    ==
+    - (_noun-like_) ant-egg
     ==
   ====
 $$
@@ -2890,6 +2962,13 @@ W
     - [[...]].
     ==
   ====
+L
+  ====
+  * 【詞】 (zi)
+    ==
+    - (_noun-like_) phrase, expression
+    ==
+  ====
 $$
 
 ### 踟4 | _(4)Ch(')(i/)_ [[ci4]]
@@ -2917,6 +2996,17 @@ C
   ==
   - Williams' "embarrassed": In the (now) archaic sense of "impeded", "obstructed".
   ==
+L
+  ====
+  * 【踟】 (drje)
+    ==
+    - Used in [踟躕](/entries/ci#rendering-踟躕).
+    ==
+  * 【踟躕】 (drje drju)
+    ==
+    - (_verb-like_) [to] walk about hesitatingly
+    ==
+  ====
 $$
 
 ### 辞4 | _(4)Ts(')z'_ [[ci4]]
@@ -2950,6 +3040,7 @@ U
 A
   ==
   - $辞4
+  - 辤
   ==
 F
   ==
@@ -3007,6 +3098,15 @@ C
   ==
   - Williams' 辭帖, 辭行帖: Corrected _t(')(i/)p(9)_ (tip6) to _t(')(i/)p(8)_ (tip3).
   ==
+L
+  ====
+  * 【辭】 (zi)
+    ==
+    - (_noun-like_) statement
+    - (_verb-like_) [to] decline
+    - (_verb-like_) [to] take leave
+    ==
+  ====
 $$
 
 ### 遲4 | _(4)Ch(')(i/)_ [[ci4]]
@@ -3068,6 +3168,13 @@ W
     - _(1)ch(')(e/)ung ngoi(6) yat(9) (4)ch(')(i/) (4)ch(')(i/)_
         [[coeng1 ngoi6 jat6 ci4 ci4 窗外日遲遲]],
         the sun goes down slowly.
+    ==
+  ====
+L
+  ====
+  * 【遲】 (drij)
+    ==
+    - (_adjective-like_) slow
     ==
   ====
 S
@@ -3159,6 +3266,13 @@ W
     - _(4)ch(')(i/) (1)k(')(u:)_
         [[ci4 keoi1 馳驅]],
         to ride fast.
+    ==
+  ====
+L
+  ====
+  * 【馳】 (drje)
+    ==
+    - (_verb-like_) [to] gallop, [to] speed
     ==
   ====
 $$
@@ -3282,6 +3396,14 @@ P
   1. To continue (Kangxi: 嗣也).
   1. To present, to give (Kangxi: 况也奉也).
   ++
+L
+  ====
+  * 【似】 (ziX)
+    ==
+    - (_verb-like_) [to] resemble
+    - (_conjunction-like_) like
+    ==
+  ====
 E
   --
   Cantonese prefers classical 似 over 像.
@@ -3376,6 +3498,13 @@ C
   - Strictly, the pre-merger reading should be _(5)ch(')(i/)_
     per 《廣韻》鉏里切 for {𣐈=⿰木⿹巿丿}.
   ==
+L
+  ====
+  * 【柿】 (dzriX)
+    ==
+    - (_noun-like_) persimmon
+    ==
+  ====
 S
   ==
   - ($柿ci2)
@@ -3408,4 +3537,11 @@ P
   ++
   1. Unflowing water (Kangxi: 一曰汜窮瀆也, 謂困窮不通之水瀆名汜也).
   ++
+L
+  ====
+  * 【汜】 (ziX)
+    ==
+    - (_noun-like_) rejoining-water
+    ==
+  ====
 $$

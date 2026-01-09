@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-01-08
+* %date-modified --> 2026-01-10
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -203,6 +203,18 @@ window.onload = applyFilter;
     , `dreang`
     , [橙](/entries/caang#rendering-橙)
   //
+    , `dri`
+    , [持](/entries/ci#rendering-持)
+  //
+    , `drij`
+    , [坻](/entries/ci#rendering-坻)
+  //
+    , `drij`
+    , [蚳](/entries/ci#rendering-蚳)
+  //
+    , `drij`
+    , [遲](/entries/ci#rendering-遲)
+  //
     , `drim`
     , [沉](/entries/cam#rendering-沉)
   //
@@ -216,7 +228,22 @@ window.onload = applyFilter;
     , [診](/entries/can#rendering-診)
   //
     , `drje`
+    , [池](/entries/ci#rendering-池)
+  //
+    , `drje`
+    , [篪](/entries/ci#rendering-篪)
+  //
+    , `drje`
     , [褫](/entries/ci#rendering-褫)
+  //
+    , `drje`
+    , [踟](/entries/ci#rendering-踟)
+  //
+    , `drje`
+    , [馳](/entries/ci#rendering-馳)
+  //
+    , `drje drju`
+    , [踟躕](/entries/ci#rendering-踟躕)
   //
     , `drjeX`
     , [杝](/entries/ci#rendering-杝)
@@ -229,6 +256,9 @@ window.onload = applyFilter;
   //
     , `drju`
     , [廚](/entries/ceoi#rendering-廚)
+  //
+    , `drju`
+    , [躕](/entries/ceoi#rendering-躕)
   //
     , `drjuw`
     , [幬](/entries/cau#rendering-幬)
@@ -264,6 +294,9 @@ window.onload = applyFilter;
     , [懠](/entries/cai#rendering-懠)
   //
     , `dzej`
+    , [臍](/entries/ci#rendering-臍)
+  //
+    , `dzej`
     , [蠐](/entries/cai#rendering-蠐)
   //
     , `dzej`
@@ -274,6 +307,12 @@ window.onload = applyFilter;
   //
     , `dzejH`
     , [懠](/entries/cai#rendering-懠)
+  //
+    , `dzi`
+    , [慈](/entries/ci#rendering-慈)
+  //
+    , `dzij`
+    , [茨](/entries/ci#rendering-茨)
   //
     , `dzim`
     , [鬵](/entries/cam#rendering-鬵)
@@ -335,6 +374,9 @@ window.onload = applyFilter;
     , `dzreamH`
     , [儳~(flippant)](/entries/caam#rendering-儳-flippant)
   //
+    , `dzriX`
+    , [柿](/entries/ci#rendering-柿)
+  //
     , `dzwoj`
     , [崔](/entries/ceoi#rendering-崔)
   //
@@ -373,6 +415,9 @@ window.onload = applyFilter;
   //
     , `syae`
     , [奢](/entries/ce#rendering-奢)
+  //
+    , `syeX`
+    , [弛](/entries/ci#rendering-弛)
   //
     , `syeX`
     , [豕](/entries/ci#rendering-豕)
@@ -697,6 +742,21 @@ window.onload = applyFilter;
   //
     , `xjuwH`
     , [嗅](/entries/cau#rendering-嗅)
+  //
+    , `zi`
+    , [祠](/entries/ci#rendering-祠)
+  //
+    , `zi`
+    , [詞](/entries/ci#rendering-詞)
+  //
+    , `zi`
+    , [辭](/entries/ci#rendering-辭)
+  //
+    , `ziX`
+    , [似](/entries/ci#rendering-似)
+  //
+    , `ziX`
+    , [汜](/entries/ci#rendering-汜)
   //
     , `zim`
     , [尋](/entries/cam#rendering-尋)

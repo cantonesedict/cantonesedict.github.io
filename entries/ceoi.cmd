@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2026-01-03
+* %date-modified --> 2026-01-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1778,7 +1778,13 @@ C
   - Fan Wan entry: Normalised headword ⿰𧾷⿸广⿰豆寸 to 蹰.
   - Williams' "Embarrassed": In the (now) archaic sense of "impeded", "obstructed".
   ==
-  <## TODO: rendering for 踟躕 ci4 ceoi4 ##>
+L
+  ====
+  * 【躕】 (drju)
+    ==
+    - Used in [踟躕](/entries/ci#rendering-踟躕).
+    ==
+  ====
 S
   ==
   - ($躕cyu4)
