@@ -11,6 +11,7 @@ import os
 import re
 import sys
 from collections import defaultdict
+from textwrap import indent
 from typing import Iterable, Optional, TypeVar
 
 T1 = TypeVar('T1')
@@ -3582,12 +3583,14 @@ class Linter:
             "  //",
             "    ; Baxter notation",
             "    ; Entry link",
+            "    ; Renderings",
             "|:",
             [
                 [
                     f'  //',
                     f'    , `{baxter}`',
                     f'    , [{link_text}{parenthetical_suffix}]({url})',
+                    f'    ,\n{sense_content}',
                 ]
                 for split_literary_rendering in split_literary_renderings
                 if (
@@ -3599,6 +3602,10 @@ class Linter:
                         string=split_literary_rendering.disambiguation_suffix,
                     ),
                     url := split_literary_rendering.url(),
+                    sense_content := indent(
+                        text=split_literary_rendering.sense_content.rstrip(),
+                        prefix='  ',
+                    ),
                 )
             ],
             "''",
