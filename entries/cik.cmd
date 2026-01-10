@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cik
-* %date-modified --> 2026-01-01
+* %date-modified --> 2026-01-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -56,6 +56,7 @@ $$
 - $斥1
 - ($螫1)
 - $鏚1
+- $飭1
 - $鶒1
 - ($鷘1)
 ==
@@ -91,6 +92,10 @@ R
   ⼝ + 2
 U
   U+53F1
+A
+  ==
+  - {𠮟=⿰口七}
+  ==
 V
   ==
   - cat1 (per 《廣韻》昌栗切)
@@ -115,6 +120,13 @@ W
     - _ch(')ik(7) (4)ming ch(i/)(3) (i/)(3)_
         [[cik1 ming4 zi3 ji3 叱名致意]]
         mention my name, and make my respects.
+    ==
+  ====
+L
+  ====
+  * 【叱】 (tsyhit)
+    ==
+    - (_verb-like_) [to] berate, [to] shout (at)
     ==
   ====
 $$
@@ -154,7 +166,7 @@ U
 A
   ==
   - $慼1 (for "grief" sense)
-  - $鏚1 (for "pole-ax" sense)
+  - $鏚1 (for "battle-axe" sense)
   ==
 F
   ==
@@ -193,6 +205,15 @@ P
   ++
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【戚】 (tshek)
+    ==
+    - (_noun-like_) battle-axe
+    - (_adjective-like_) grieved, distressed, mournful
+    - (_noun-like_) kin
+    ==
+  ====
 $$
 
 ### 敕1 | _Ch(')ik(7)_ [[cik1]]
@@ -206,6 +227,11 @@ A
   ==
   - $勅1
   - 勑
+  - $飭1
+  ==
+V
+  ==
+  - sik1 (common for "order" sense spelt 飭)
   ==
 F
   ==
@@ -240,6 +266,38 @@ W
         [[cik1 zang6 敕贈]]
         to bestow honors on one's dead parents.
     ==
+    --
+    [[Otherwise, an alternative form of 飭. **See $飭cik1 for the canonical entry.**]]
+    --
+  - [[Page~439 飭(7) _Shik(7)_ (sik1); here normalised to 敕 _Ch(')ik(7)_ (cik1)]]
+    --
+    [[...]]
+    --
+    ==
+    - To enjoin, to direct, to command~~, as an inferior~~ [[Kangxi 飭: 與敕同命令也]];
+    - [[...]];
+    - _~~shik(7)~~ ``ch(')ik(7)`` (1)ch(')(a/)i_
+        [[cik1 caai1 敕差]],
+        to dispatch on public service;
+    - _(1)shan ~~shik(7)~~ ``ch(')ik(7)``_
+        [[san1 cik1 申敕]]
+        to strictly charge, to order;
+    - [[...]];
+    - _~~shik(7)~~ ``ch(')ik(7)`` (4)fong_
+        [[cik1 fong4 敕房]],
+        to direct the proper office or department;
+    - _~~shik(7)~~ ``ch(')ik(7)`` ling(6)_
+        [[cik1 ling6 敕令]]
+        to command, to direct.
+    ==
+  ====
+L
+  ====
+  * 【敕】 (trhik)
+    ==
+    - (_verb-like_) [to] caution
+    - (_verb-like_) [to] command
+    ==
   ====
 E
   ====
@@ -257,6 +315,10 @@ R
   ⽄ + 1
 U
   U+65A5
+A
+  ==
+  - 㡿
+  ==
 F
   ==
   - (F1.74 斥) 開拒也又斥逐擯斥又斥候又斥鹵鹹地曰斥鹵
@@ -267,7 +329,7 @@ W
     ==
     - To exclude, to expel, to send off, to drive off [[Kangxi: 逐也遠也]];
     - to scold;
-    - to pry into [[Kangxi: 斥度也{𠋫=⿰亻侯}視也望也]];
+    - to pry into``, to spy`` [[Kangxi: 斥度也{𠋫=⿰亻侯}視也望也]];
     - reaching far, extending to, extensive [[Kangxi: 斥廣也]], plenty [[Kangxi: ::[...]言其多::]];
     - _ch(')ik(7) chuk(9)_
         [[cik1 zuk6 斥逐]]
@@ -305,6 +367,14 @@ P
   1. To open up (Kangxi: 斥開也).
   1. To allocate or spend.
   ++
+L
+  ====
+  * 【斥】 (tsyhek)
+    ==
+    - (_verb-like_) [to] reject
+    - (_noun-like_) saline-earth
+    ==
+  ====
 $$
 
 ### 螫1 | _Ch(')ik(7)_ [[cik1]]
@@ -350,12 +420,73 @@ W
     - an ornamental kind of ax carried in processions.
     ==
     --
-    [[Alternative form of 戚 (for the "pole-ax" sense). See $戚cik1.]]
+    [[Alternative form of 戚 (for the "battle-axe" sense). See $戚cik1.]]
     --
   ====
 C
   ==
   - Fan Wan entry: Corrected 釜 to 斧.
+  ==
+$$
+
+###+ 飭1 | _Ch(')ik(7)_ [[cik1]]
+
+$$
+R
+  ⾷ + 4
+  ⼒ + 10
+U
+  U+98ED
+A
+  ==
+  - $敕1
+  ==
+V
+  ==
+  - sik1 (per Fan Wan, common)
+  ==
+F
+  ==
+  - (F1.76 飭 _Shik(7)_ (sik1)) ::致堅也又[整]備也又修飭::
+  ==
+W
+  ====
+  - [[Page~439 飭(7) _Shik(7)_ (sik1); here normalised to _Ch(')ik(7)_ (cik1)]]
+    --
+    [[...]]
+    --
+    ==
+    - [[...]];
+    - to strengthen [[Kangxi: 致堅也]], to repair;
+    - to adjust, to prepare and arrange [[Kangxi: 修治]];
+    - ready, prepared [[Kangxi: 整備也]];
+    - compact, firm;
+    - reverent, careful, respectful [[Kangxi: 謹貌]];
+    - [[...]];
+    - _(2)ching ~~shik(7)~~ ``ch(')ik(7)`` (2)h(o\) (5)k(')(u:)_
+        [[zing2 cik1 hou2 keoi5 整飭好佢]],
+        put it in order, arrange it properly;
+    - [[...]].
+    ==
+    --
+    [[Otherwise, an alternative form of 敕. **See $敕cik1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿱⿰朿攵正 to 整.
+  ==
+L
+  ====
+  * 【飭】 (trhik)
+    ==
+    - (_verb-like_) [to] strengthen
+    - (_verb-like_) [to] prepare, [to] arrange
+    ==
+  ====
+S
+  ==
+  - ($飭sik1) (TODO)
   ==
 $$
 
@@ -557,6 +688,19 @@ P
   ++
   1. Ardent, loyal.
   ++
+L
+  ====
+  * 【赤】 (tsyhek)
+    ==
+    - (_adjective-like_) red
+    - (_adjective-like_) bare
+    - Used in [赤子](/entries/cik#rendering-赤子).
+    ==
+  * 【赤子】 (tsyhek tsiX)
+    ==
+    - (_noun-like_) babe
+    ==
+  ====
 S
   ==
   - ($赤cek3)

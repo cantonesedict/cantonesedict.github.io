@@ -455,6 +455,12 @@ window.onload = applyFilter;
     , `trhiX`
     , [恥](/entries/ci#rendering-恥)
   //
+    , `trhik`
+    , [敕](/entries/cik#rendering-敕)
+  //
+    , `trhik`
+    , [飭](/entries/cik#rendering-飭)
+  //
     , `trhinH`
     , [疢](/entries/can#rendering-疢)
   //
@@ -493,6 +499,9 @@ window.onload = applyFilter;
   //
     , `tshejH`
     , [砌](/entries/cai#rendering-砌)
+  //
+    , `tshek`
+    , [戚](/entries/cik#rendering-戚)
   //
     , `tshijH`
     , [佽](/entries/ci#rendering-佽)
@@ -605,6 +614,9 @@ window.onload = applyFilter;
     , `tshwojH`
     , [啐](/entries/ceoi#rendering-啐)
   //
+    , `tsiX`
+    , [子](/entries/zi#rendering-子)
+  //
     , `tsip`
     , [咠](/entries/cap#rendering-咠)
   //
@@ -677,6 +689,15 @@ window.onload = applyFilter;
     , `tsyhek`
     , [尺](/entries/cek#rendering-尺)
   //
+    , `tsyhek`
+    , [斥](/entries/cik#rendering-斥)
+  //
+    , `tsyhek`
+    , [赤](/entries/cik#rendering-赤)
+  //
+    , `tsyhek tsiX`
+    , [赤子](/entries/cik#rendering-赤子)
+  //
     , `tsyhiX`
     , [齒](/entries/ci#rendering-齒)
   //
@@ -694,6 +715,9 @@ window.onload = applyFilter;
   //
     , `tsyhin`
     , [瞋](/entries/can#rendering-瞋)
+  //
+    , `tsyhit`
+    , [叱](/entries/cik#rendering-叱)
   //
     , `tsyhuwX`
     , [醜](/entries/cau#rendering-醜)

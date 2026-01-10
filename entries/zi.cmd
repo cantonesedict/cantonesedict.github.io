@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2026-01-01
+* %date-modified --> 2026-01-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2167,6 +2167,17 @@ C
   - Williams' 子母錢: Corrected _(4)m(o\)_ (mou4) to _(5)m(o\)_ (mou5).
   - Williams' 長子: Appears twice.
   ==
+L
+  ====
+  * 【子】 (tsiX)
+    ==
+    - (_noun-like_) child, son, daughter
+    - (_noun-like_) master, (_met._) thou
+    - (_noun-like_) numerator
+    - (_noun-like_) rat-sign
+    - Used in [赤子](/entries/cik#rendering-赤子).
+    ==
+  ====
 $$
 
 ### 帋2 | _(2)Ch(i/)_ [[zi2]]
