@@ -496,6 +496,21 @@ window.onload = applyFilter;
       - (_verb-like_) [to] strip
       ==
   //
+    , `drjen`
+    , [廛](/entries/cin#rendering-廛)
+    ,
+      ==
+      - (_noun-like_) farming-lot
+      - (_noun-like_) shop
+      ==
+  //
+    , `drjen`
+    , [纏](/entries/cin#rendering-纏)
+    ,
+      ==
+      - (_verb-like_) [to] twine
+      ==
+  //
     , `drjo`
     , [除](/entries/ceoi#rendering-除)
     ,
@@ -640,6 +655,15 @@ window.onload = applyFilter;
       - (_adjective-like_) wroth
       ==
   //
+    , `dzen`
+    , [前](/entries/cin#rendering-前)
+    ,
+      ==
+      - (_adjective-like_) fore, front
+      - (_postposition-like_) before
+      - (_adjective-like_) former
+      ==
+  //
     , `dzi`
     , [慈](/entries/ci#rendering-慈)
     ,
@@ -711,6 +735,27 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] hide
+      ==
+  //
+    , `dzjen`
+    , [錢](/entries/cin#rendering-錢)
+    ,
+      ==
+      - (_noun-like_) coin
+      ==
+  //
+    , `dzjenX`
+    , [俴](/entries/cin#rendering-俴)
+    ,
+      ==
+      - (_adjective-like_) shallow, (_met_.) thin-[armoured]
+      ==
+  //
+    , `dzjenX`
+    , [踐](/entries/cin#rendering-踐)
+    ,
+      ==
+      - (_verb-like_) [to] trample, [to] tread, (_met._) [to] realise, [to] fulfil
       ==
   //
     , `dzjuw`
@@ -1171,6 +1216,13 @@ window.onload = applyFilter;
       - (_noun-like_) kin
       ==
   //
+    , `tshen`
+    , [千](/entries/cin#rendering-千)
+    ,
+      ==
+      - (_noun-like_) thousand
+      ==
+  //
     , `tshijH`
     , [佽](/entries/ci#rendering-佽)
     ,
@@ -1346,6 +1398,20 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) trench, moat
+      ==
+  //
+    , `tshjen`
+    , [遷](/entries/cin#rendering-遷)
+    ,
+      ==
+      - (_verb-like_) [to] shift
+      ==
+  //
+    , `tshjenX`
+    , [淺](/entries/cin#rendering-淺)
+    ,
+      ==
+      - (_adjective-like_) shallow
       ==
   //
     , `tshju`

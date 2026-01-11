@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cin
-* %date-modified --> 2026-01-01
+* %date-modified --> 2026-01-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -116,6 +116,13 @@ W
     - _(1)ts(')(i/)n yat(7) pat(7) (2)koi_
         [[cin1 jat1 bat1 goi2 千一不改]],
         a thousand to one he'll not reform.
+    ==
+  ====
+L
+  ====
+  * 【千】 (tshen)
+    ==
+    - (_noun-like_) thousand
     ==
   ====
 E
@@ -258,6 +265,13 @@ C
   - Fan Wan entry: Corrected 徒 to 徙.
   - Williams' 押遷: Changed _(a/)p(8)_ (aap3) to common reading _(a/)t(8)_ (aat3).
   ==
+L
+  ====
+  * 【遷】 (tshjen)
+    ==
+    - (_verb-like_) [to] shift
+    ==
+  ====
 $$
 
 ### 阡1 | _(1)Ts(')(i/)n_ [[cin1]]
@@ -423,6 +437,13 @@ C
   - Williams' "dripping": This is a misinterpretation of the senses
     interchangeable with $濺zin1, $濺zin3, or $灒zaan3.
   ==
+L
+  ====
+  * 【淺】 (tshjenX)
+    ==
+    - (_adjective-like_) shallow
+    ==
+  ====
 S
   ==
   - ($淺zin1)
@@ -551,6 +572,15 @@ W
         already, before done.
     ==
   ====
+L
+  ====
+  * 【前】 (dzen)
+    ==
+    - (_adjective-like_) fore, front
+    - (_postposition-like_) before
+    - (_adjective-like_) former
+    ==
+  ====
 E
   --
   Cantonese (in the vernacular register) makes a distinction between 以前 and 之前.
@@ -607,6 +637,14 @@ C
   ==
   - Fan Wan entry: Normalised headword (with 厂 and 黑-like interior) to 廛.
   ==
+L
+  ====
+  * 【廛】 (drjen)
+    ==
+    - (_noun-like_) farming-lot
+    - (_noun-like_) shop
+    ==
+  ====
 $$
 
 ### 纏4 | _(4)Ch(')(i/)n_ [[cin4]]
@@ -665,6 +703,13 @@ C
   - Williams' 癡纏: Corrected _(1)ch(')i_ to _(1)ch(')(i/)_.
     Also to be madly in love with.
   ==
+L
+  ====
+  * 【纏】 (drjen)
+    ==
+    - (_verb-like_) [to] twine
+    ==
+  ====
 $$
 
 ### 躔4 | _(4)Ch(')(i/)n_ [[cin4]]
@@ -792,6 +837,13 @@ P
   ++
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【錢】 (dzjen)
+    ==
+    - (_noun-like_) coin
+    ==
+  ====
 E
   ====
   - 【錢銀】 (cin4-2 ngan4-2)
@@ -847,6 +899,13 @@ P
   ++
   1. Unarmoured.
   ++
+L
+  ====
+  * 【俴】 (dzjenX)
+    ==
+    - (_adjective-like_) shallow, (_met_.) thin-[armoured]
+    ==
+  ====
 S
   ==
   - ($俴cin2)
@@ -898,6 +957,13 @@ C
     These are misreadings of Kangxi 行也, 列也
     (which mean "column" and "row" rather than "walk" and "arrange").
   ==
+L
+  ====
+  * 【踐】 (dzjenX)
+    ==
+    - (_verb-like_) [to] trample, [to] tread, (_met._) [to] realise, [to] fulfil
+    ==
+  ====
 S
   ==
   - ($踐cin2)

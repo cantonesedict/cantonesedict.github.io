@@ -2302,7 +2302,9 @@ class CharacterEntry:
                 '_conjunction-like_',
                 '_determiner-like_',
                 '_noun-like_',
+                '_preposition-like_',
                 '_pronoun-like_',
+                '_postposition-like_',
                 '_verb-like_',
             ]:
                 raise LintException(f'invalid sense type `{sense_type}` in `{sense_line}`')
