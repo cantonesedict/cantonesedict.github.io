@@ -229,6 +229,10 @@ th, td {
   border: 1px solid black;
   padding: 0.4em;
 }
+td ul {
+  margin: 0;
+  padding-left: 1.5em;
+}
 
 
 .baxter {
