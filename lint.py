@@ -3629,7 +3629,7 @@ class Linter:
             "|^",
             "  //",
             "    ; Jyutping",
-            "    ; Entry link",
+            "    ; Term (link)",
             "|:",
             [
                 [
