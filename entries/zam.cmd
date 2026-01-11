@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2026-01-01
+* %date-modified --> 2026-01-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -555,6 +555,9 @@ W
     - dubious, false [[Kangxi: 僭始不信之端也 etc.]];
     - [[...]].
     ==
+    --
+    [[Alternative form of 譖. See $譖zam3.]]
+    --
   ====
 S
   ==
@@ -772,6 +775,10 @@ R
   ⾔ + 12
 U
   U+8B56
+A
+  ==
+  - $僭3
+  ==
 V
   ==
   - cam3 (per Fan Wan)

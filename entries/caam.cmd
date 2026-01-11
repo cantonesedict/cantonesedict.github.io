@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2026-01-04
+* %date-modified --> 2026-01-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -414,6 +414,13 @@ W
     ==
     - [[...]];
     - to take up with the hand [[Kangxi: 取也一曰執也]].
+    ==
+  ====
+L
+  ====
+  * 【摻】 (sreamX)
+    ==
+    - (_verb-like_) [to] take (hold)
     ==
   ====
 S

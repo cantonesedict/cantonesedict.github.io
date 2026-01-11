@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cim
-* %date-modified --> 2026-01-01
+* %date-modified --> 2026-01-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -92,6 +92,13 @@ C
   ==
   - Williams' 僉押: Changed _(a/)p(8)_ (aap3) to common reading _(a/)t(8)_ (aat3).
   ==
+L
+  ====
+  * 【僉】 (tshjem)
+    ==
+    - (_adjective-like_) all
+    ==
+  ====
 $$
 
 ### {𠠃=⿰⿳从一韭刂}1 | _(1)Ts(')(i/)m_ [[cim1]]
@@ -247,6 +254,13 @@ W
         a flatterer.
     ==
   ====
+L
+  ====
+  * 【憸】 (sjem, tshjem)
+    ==
+    - (_adjective-like_) glib-tongued
+    ==
+  ====
 $$
 
 ###+ 摻1 | _(1)Ts(')(i/)m_ [[cim1]]
@@ -324,6 +338,13 @@ W
     - _(1)ts(')(i/)m k(')(u:)t(8) (4)k(')(u:) (1)f(u/)i_
         [[cim1 kyut3 keoi4 fui1 殲厥渠魁]],
         killed the chief himself.
+    ==
+  ====
+L
+  ====
+  * 【殲】 (tsjem)
+    ==
+    - (_verb-like_) [to] annihilate
     ==
   ====
 $$
@@ -493,6 +514,14 @@ W
         weak and delicate.
     ==
   ====
+L
+  ====
+  * 【纖】 (sjem)
+    ==
+    - (_adjective-like_) delicate
+    - (_noun-like_) chequered-silk
+    ==
+  ====
 $$
 
 ###+ 襜1 | _(1)Ch(')(i/)m_ [[cim1]]
@@ -610,6 +639,13 @@ C
   - Fan Wan entry: Corrected headword 謟 to 諂, headword ⿵門謟 to 讇,
     and headword self-reference to 上.
   ==
+L
+  ====
+  * 【諂】 (trhjemX)
+    ==
+    - (_verb-like_) [to] flatter
+    ==
+  ====
 $$
 
 ### ~~{𨶒=⿵門舀}~~``讇``2 | _(2)Ch(')(i/)m_ [[cim2]]
@@ -690,6 +726,14 @@ W
         to speak before his turn.
     ==
   ====
+L
+  ====
+  * 【僭】 (tsemH)
+    ==
+    - (_verb-like_) [to] usurp
+    - (_adjective-like_) erroneous
+    ==
+  ====
 E
   ====
   - 【僭建】 (cim3 gin3, cim5 gin3)
@@ -738,6 +782,13 @@ C
   ==
   - Williams' 掘塹: Corrected _kwat(7)_ (gwat1) to _kwat(9)_ (gwat6).
   ==
+L
+  ====
+  * 【塹】 (tshjemH)
+    ==
+    - (_noun-like_) trench, moat
+    ==
+  ====
 $$
 
 ### 壍3 | _Ts(')(i/)m(3)_ [[cim3]]
@@ -924,6 +975,10 @@ A
   ==
   - $潜4
   ==
+V
+  ==
+  - zim6 (alternative per 《廣韻》慈豔切 for "hide" sense)
+  ==
 F
   ==
   - (F2.48 潛) 伏也藏也
@@ -958,6 +1013,17 @@ C
     ==
     - Wood dropped into water, around which fish gather; and
     - Water into which grain is thrown, to feed fish.
+    ==
+  ====
+L
+  ====
+  * 【潛-dive】 (dzjem)
+    ==
+    - (_verb-like_) [to] dive
+    ==
+  * 【潛-hide】 (dzjem, dzjemH)
+    ==
+    - (_verb-like_) [to] hide
     ==
   ====
 $$

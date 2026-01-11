@@ -686,10 +686,31 @@ window.onload = applyFilter;
       ==
   //
     , `dzjem`
+    , [潛~(dive)](/entries/cim#rendering-潛-dive)
+    ,
+      ==
+      - (_verb-like_) [to] dive
+      ==
+  //
+    , `dzjem`
+    , [潛~(hide)](/entries/cim#rendering-潛-hide)
+    ,
+      ==
+      - (_verb-like_) [to] hide
+      ==
+  //
+    , `dzjem`
     , [鬵](/entries/cam#rendering-鬵)
     ,
       ==
       - (_noun-like_) cauldron
+      ==
+  //
+    , `dzjemH`
+    , [潛~(hide)](/entries/cim#rendering-潛-hide)
+    ,
+      ==
+      - (_verb-like_) [to] hide
       ==
   //
     , `dzjuw`
@@ -872,6 +893,28 @@ window.onload = applyFilter;
       - (_verb-like_) [to] confer
       ==
   //
+    , `sjem`
+    , [憸](/entries/cim#rendering-憸)
+    ,
+      ==
+      - (_adjective-like_) glib-tongued
+      ==
+  //
+    , `sjem`
+    , [纖](/entries/cim#rendering-纖)
+    ,
+      ==
+      - (_adjective-like_) delicate
+      - (_noun-like_) chequered-silk
+      ==
+  //
+    , `sreamX`
+    , [摻](/entries/caam#rendering-摻)
+    ,
+      ==
+      - (_verb-like_) [to] take (hold)
+      ==
+  //
     , `sreanX`
     , [產](/entries/caan#rendering-產)
     ,
@@ -1024,6 +1067,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] strip
       ==
   //
+    , `trhjemX`
+    , [諂](/entries/cim#rendering-諂)
+    ,
+      ==
+      - (_verb-like_) [to] flatter
+      ==
+  //
     , `trhjuw`
     , [妯](/entries/cau#rendering-妯)
     ,
@@ -1057,6 +1107,14 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] twist
+      ==
+  //
+    , `tsemH`
+    , [僭](/entries/cim#rendering-僭)
+    ,
+      ==
+      - (_verb-like_) [to] usurp
+      - (_adjective-like_) erroneous
       ==
   //
     , `tshan`
@@ -1269,6 +1327,27 @@ window.onload = applyFilter;
       - (_verb-like_) [to] pierce, [to] stab, (_met._) [to] slay, [to] assassinate, [to] castigate, [to] lampoon
       ==
   //
+    , `tshjem`
+    , [僉](/entries/cim#rendering-僉)
+    ,
+      ==
+      - (_adjective-like_) all
+      ==
+  //
+    , `tshjem`
+    , [憸](/entries/cim#rendering-憸)
+    ,
+      ==
+      - (_adjective-like_) glib-tongued
+      ==
+  //
+    , `tshjemH`
+    , [塹](/entries/cim#rendering-塹)
+    ,
+      ==
+      - (_noun-like_) trench, moat
+      ==
+  //
     , `tshju`
     , [趨](/entries/ceoi#rendering-趨)
     ,
@@ -1408,6 +1487,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] whisper
+      ==
+  //
+    , `tsjem`
+    , [殲](/entries/cim#rendering-殲)
+    ,
+      ==
+      - (_verb-like_) [to] annihilate
       ==
   //
     , `tsjuw`
