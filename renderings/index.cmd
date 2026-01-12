@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-01-11
+* %date-modified --> 2026-01-12
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -1119,6 +1119,27 @@ window.onload = applyFilter;
       - (_verb-like_) [to] flatter
       ==
   //
+    , `trhjeng`
+    , [檉](/entries/cing#rendering-檉)
+    ,
+      ==
+      - (_noun-like_) tamarisk
+      ==
+  //
+    , `trhjeng`
+    , [赬](/entries/cing#rendering-赬)
+    ,
+      ==
+      - (_adjective-like_) red
+      ==
+  //
+    , `trhjengX`
+    , [逞](/entries/cing#rendering-逞)
+    ,
+      ==
+      - (_verb-like_) [to] let loose, [to] indulge
+      ==
+  //
     , `trhjuw`
     , [妯](/entries/cau#rendering-妯)
     ,
@@ -1221,6 +1242,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) thousand
+      ==
+  //
+    , `tsheng`
+    , [青](/entries/cing#rendering-青)
+    ,
+      ==
+      - (_adjective-like_) blue, green, black
       ==
   //
     , `tshijH`
@@ -1414,6 +1442,21 @@ window.onload = applyFilter;
       - (_adjective-like_) shallow
       ==
   //
+    , `tshjeng`
+    , [清](/entries/cing#rendering-清)
+    ,
+      ==
+      - (_adjective-like_) clear, pure
+      - (_adjective-like_) unvoiced
+      ==
+  //
+    , `tshjengX`
+    , [請](/entries/cing#rendering-請)
+    ,
+      ==
+      - (_verb-like_) [to] request, [to] ask
+      ==
+  //
     , `tshju`
     , [趨](/entries/ceoi#rendering-趨)
     ,
@@ -1560,6 +1603,15 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] annihilate
+      ==
+  //
+    , `tsjeng`
+    , [菁](/entries/zing#rendering-菁)
+    ,
+      ==
+      - (_noun-like_) leek-flower, chive-flower
+      - (_noun-like_) spikerush
+      - (_adjective-like_) luxuriant
       ==
   //
     , `tsjuw`
@@ -1798,6 +1850,30 @@ window.onload = applyFilter;
       - (_verb-like_) [to] glare
       ==
   //
+    , `tsyhing`
+    , [稱~(verb)](/entries/cing#rendering-稱-verb)
+    ,
+      ==
+      - (_verb-like_) [to] weigh
+      - (_verb-like_) [to] refer to, [to] proclaim
+      - (_verb-like_) [to] extol
+      - (_verb-like_) [to] raise
+      ==
+  //
+    , `tsyhingH`
+    , [稱~(noun)](/entries/cing#rendering-稱-noun)
+    ,
+      ==
+      - (_noun-like_) steelyard
+      ==
+  //
+    , `tsyhingH`
+    , [稱~(adjective)](/entries/cing#rendering-稱-adjective)
+    ,
+      ==
+      - (_adjective-like_) meet, (_met._) competent
+      ==
+  //
     , `tsyhit`
     , [叱](/entries/cik#rendering-叱)
     ,
@@ -1908,6 +1984,14 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) unlined-garment
+      ==
+  //
+    , `tsyingX`
+    , [拯](/entries/cing#rendering-拯)
+    ,
+      ==
+      - (_verb-like_) [to] lift (up)
+      - (_verb-like_) [to] rescue
       ==
   //
     , `tsyweX`

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2026-01-01
+* %date-modified --> 2026-01-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -665,6 +665,10 @@ U
 H
   May appear as either ⿱艹靑 or ⿱艹青 (assumed here),
   depending on the font.
+V
+  ==
+  - cing1 (alternative per 《集韻》倉經切 for "luxuriant" sense)
+  ==
 F
   ==
   - (F1.67 菁) 草盛也
@@ -675,7 +679,7 @@ W
     ==
     - Scallion blossoms [[Kangxi: 韭華也]];
     - a kind of three ribbed rush [[Kangxi: 菁茅, 江淮之閒有一茅而三脊 etc.]];
-    - [[...]];
+    - flowery, ~~elegant,~~ flourishing [[Kangxi: 菁菁花盛貌]];
     - _(4)m(o\) (1)tsing_
         [[mou4 zing1 蕪菁]]^
         a sort of greens like mustard.
@@ -685,9 +689,18 @@ P
   ++
   1. Splendid, magnificent (Kangxi: 菁華英也).
   ++
+L
+  ====
+  * 【菁】 (tsjeng)
+    ==
+    - (_noun-like_) leek-flower, chive-flower
+    - (_noun-like_) spikerush
+    - (_adjective-like_) luxuriant
+    ==
+  ====
 S
   ==
-  - $菁cing1
+  - ($菁cing1)
   ==
 $$
 

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2026-01-01
+* %date-modified --> 2026-01-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -66,7 +66,7 @@ $$
 - $清1
 - ($秤1)
 - $稱1
-- $菁1
+- ($菁1)
 - $蜻1
 - $蟶1
 - $赬1
@@ -93,6 +93,13 @@ W
     ==
     - A reddish bark willow, growing by water courses [[Kangxi: 河柳也]],
       and thought to indicate rain [[Kangxi: 天之將雨檉先起氣以應之故一名雨師]].
+    ==
+  ====
+L
+  ====
+  * 【檉】 (trhjeng)
+    ==
+    - (_noun-like_) tamarisk
     ==
   ====
 $$
@@ -217,6 +224,14 @@ P
   1. Quiet.
   1. (_phonetics_) Unvoiced.
   ++
+L
+  ====
+  * 【清】 (tshjeng)
+    ==
+    - (_adjective-like_) clear, pure
+    - (_adjective-like_) unvoiced
+    ==
+  ====
 $$
 
 ### 秤1 | _(1)Ch(')ing_ [[cing1]]
@@ -321,6 +336,20 @@ C
     or a deliberate attestation of (classical-violating) usage in Cantonese.
   - Williams' 自稱其父曰家父: Corrected _(u:)t(8)_ (jyut3) to _(u:)t(9)_ (jyut6).
   ==
+P
+  ++
+  1. To raise (Kangxi: 舉也).
+  ++
+L
+  ====
+  * 【稱-verb】 (tsyhing)
+    ==
+    - (_verb-like_) [to] weigh
+    - (_verb-like_) [to] refer to, [to] proclaim
+    - (_verb-like_) [to] extol
+    - (_verb-like_) [to] raise
+    ==
+  ====
 S
   ==
   - $稱cing3
@@ -329,7 +358,7 @@ $$
 
 ###+ 菁1 | _(1)Ts(')ing_ [[cing1]]
 
-$$
+$$.
 R
   ⾋ + 8
 U
@@ -338,18 +367,13 @@ H
   May appear as either ⿱艹靑 or ⿱艹青 (assumed here),
   depending on the font.
 F
-  ==
-  - (F1.67 菁 _(1)Tsing_ (zing1)) 草盛也
-  ==
+  [[Not present]]
 W
-  ====
-  - [[Page~576 (1)菁 _(1)Tsing_ (zing1); here corrected to _(1)Ts(')ing_ (cing1)]]
-    ==
-    - [[...]];
-    - flowery, ~~elegant,~~ flourishing [[Kangxi: 菁菁花盛貌]];
-    - [[...]].
-    ==
-  ====
+  [[Not present]]
+P
+  ++
+  1. Reading variation (for the "luxuriant" sense). **See $菁zing1 for the canonical entry.**
+  ++
 S
   ==
   - $菁zing1
@@ -450,6 +474,13 @@ W
     - A carnation or pink color;
     - cloth dyed twice over [[Kangxi: 再染謂之赬]], to dye red [[Kangxi: 赬染赤]];
     - _met._ distressing toil which flushes one.
+    ==
+  ====
+L
+  ====
+  * 【赬】 (trhjeng)
+    ==
+    - (_adjective-like_) red
     ==
   ====
 $$
@@ -564,6 +595,13 @@ C
   - Williams' 青苔: Changed _(1)ts(')ing_ (cing1)
     to vernacular reading _(1)ts(')eng_ (ceng1).
   ==
+L
+  ====
+  * 【青】 (tsheng)
+    ==
+    - (_adjective-like_) blue, green, black
+    ==
+  ====
 E
   ====
   - 【標青】 (biu1 ceng1) <## TODO move under 標 biu1 ##>
@@ -633,6 +671,10 @@ R
   ⼿ + 6
 U
   U+62EF
+V
+  ==
+  - zing2 (per 《廣韻》蒸上聲)
+  ==
 F
   ==
   - (F1.71 拯) 上舉也援也救也助也
@@ -650,6 +692,14 @@ W
     - _(2)ch(')ing (4)man (1)(u:) (2)shui (2)fo (1)ch(i/) (1)chung_
         [[cing2 man4 jyu1 seoi2 fo2 zi1 zung1 拯民於水火之中]],
         to save the people from danger like fire and water.
+    ==
+  ====
+L
+  ====
+  * 【拯】 (tsyingX)
+    ==
+    - (_verb-like_) [to] lift (up)
+    - (_verb-like_) [to] rescue
     ==
   ====
 $$
@@ -784,6 +834,13 @@ C
     than a third-person indicative.
   - Williams' 請去食飯: Corrected _f(a/)n(3)_ (faan3) to _f(a/)n(6)_ (faan6).
   ==
+L
+  ====
+  * 【請】 (tshjengX)
+    ==
+    - (_verb-like_) [to] request, [to] ask
+    ==
+  ====
 S
   ==
   - ($請ceng2)
@@ -839,6 +896,13 @@ P
   ++
   1. To resolve (Kangxi: 解也).
   ++
+L
+  ====
+  * 【逞】 (trhjengX)
+    ==
+    - (_verb-like_) [to] let loose, [to] indulge
+    ==
+  ====
 $$
 
 ### 郢2 | _(2)Ch(')ing_ [[cing2]]
@@ -942,6 +1006,13 @@ C
     or a deliberate attestation of (classical-violating) usage in Cantonese.
   - Williams' 秤鉤: Changed _(1)kau_ (gau1) to common reading _(1)ngau_ (ngau1).
   ==
+L
+  ====
+  * 【稱-noun】 (tsyhingH)
+    ==
+    - (_noun-like_) steelyard
+    ==
+  ====
 S
   ==
   - ($秤cing1)
@@ -984,6 +1055,13 @@ W
     --
     [[Otherwise, an alternative form of 秤. **See $秤cing3 for the canonical entry.**]]
     --
+  ====
+L
+  ====
+  * 【稱-adjective】 (tsyhingH)
+    ==
+    - (_adjective-like_) meet, (_met._) competent
+    ==
   ====
 S
   ==

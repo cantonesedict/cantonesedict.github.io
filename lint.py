@@ -3417,7 +3417,15 @@ class Linter:
                 continue
 
             for literary_rendering in literary_renderings:
-                if character not in (term := literary_rendering.term):
+                if (alternative_forms := character_entry.alternative_forms) is not None:
+                    alternative_characters = [af.character for af in alternative_forms]
+                else:
+                    alternative_characters = []
+
+                if all(
+                    character not in (term := literary_rendering.term)
+                    for character in [character, *alternative_characters]
+                ):
                     raise LintException(f'literary rendering for `{term}` does not belong under `{character_entry}`')
 
     @staticmethod
