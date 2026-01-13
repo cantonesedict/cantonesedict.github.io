@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-01-12
+* %date-modified --> 2026-01-13
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -440,6 +440,20 @@ window.onload = applyFilter;
       - (_verb-like_) [to] examine
       ==
   //
+    , `dring`
+    , [懲](/entries/cing#rendering-懲)
+    ,
+      ==
+      - (_verb-like_) [to] chastise
+      ==
+  //
+    , `dring`
+    , [澄](/entries/cing#rendering-澄)
+    ,
+      ==
+      - (_adjective-like_) clear
+      ==
+  //
     , `drje`
     , [池](/entries/ci#rendering-池)
     ,
@@ -509,6 +523,28 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] twine
+      ==
+  //
+    , `drjeng`
+    , [程](/entries/cing#rendering-程)
+    ,
+      ==
+      - (_noun-like_) measurement, measure
+      - (_noun-like_) norm
+      ==
+  //
+    , `drjeng`
+    , [裎](/entries/cing#rendering-裎)
+    ,
+      ==
+      - (_verb-like_) [to] nake
+      ==
+  //
+    , `drjeng`
+    , [酲](/entries/cing#rendering-酲)
+    ,
+      ==
+      - (_adjective-like_) hungover, drunk-sick
       ==
   //
     , `drjo`
@@ -756,6 +792,14 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] trample, [to] tread, (_met._) [to] realise, [to] fulfil
+      ==
+  //
+    , `dzjeng`
+    , [情](/entries/cing#rendering-情)
+    ,
+      ==
+      - (_noun-like_) sentiment, (_met._) sense, nature
+      - (_noun-like_) truth, circumstance
       ==
   //
     , `dzjuw`

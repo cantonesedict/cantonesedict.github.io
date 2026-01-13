@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2026-01-12
+* %date-modified --> 2026-01-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1287,6 +1287,14 @@ C
   - Williams' 多情: Also amorous.
   - Williams' 情由: Changed _(4)ts(')eng_ (ceng4) to _(4)ts(')ing_ (cing4).
   ==
+L
+  ====
+  * 【情】 (dzjeng)
+    ==
+    - (_noun-like_) sentiment, (_met._) sense, nature
+    - (_noun-like_) truth, circumstance
+    ==
+  ====
 $$
 
 ### 懲4 | _(4)Ch(')ing_ [[cing4]]
@@ -1324,6 +1332,13 @@ C
   ==
   - Williams' 懲治: To punish, not necessarily in relation to governance.
   ==
+L
+  ====
+  * 【懲】 (dring)
+    ==
+    - (_verb-like_) [to] chastise
+    ==
+  ====
 $$
 
 ### 晴4 | _(4)Ts(')ing_ [[cing4]]
@@ -1363,6 +1378,10 @@ R
   ⽔ + 12
 U
   U+6F84
+A
+  ==
+  - 澂
+  ==
 F
   ==
   - (F1.69 澄) 澄淸
@@ -1385,6 +1404,13 @@ C
   ==
   - Williams' 澄清: In modern usage, usually only used in the verb sense "clarify".
   ==
+L
+  ====
+  * 【澄】 (dring)
+    ==
+    - (_adjective-like_) clear
+    ==
+  ====
 S
   ==
   - $澄dang6 (TODO)
@@ -1493,6 +1519,14 @@ P
   1. Measurement (Kangxi: 程者物之準也, 程度量之總名).
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【程】 (drjeng)
+    ==
+    - (_noun-like_) measurement, measure
+    - (_noun-like_) norm
+    ==
+  ====
 $$
 
 ### 裎4 | _(4)Ch(')ing_ [[cing4]]
@@ -1523,6 +1557,13 @@ C
   ==
   - Williams' 裸裎: Changed _(5)lo_ (lo5) to common reading _(2)lo_ (lo2).
   ==
+L
+  ====
+  * 【裎】 (drjeng)
+    ==
+    - (_verb-like_) [to] nake
+    ==
+  ====
 S
   ==
   - $裎cing2
@@ -1544,9 +1585,16 @@ W
   ====
   - [[Page~21* (4)酲]]
     ==
-    - To drink till sick and drunk [[Kangxi: 病酒也]];
+    - ~~To drink till sick and drunk~~ ``Sick from drink`` [[Kangxi: 病酒也]];
     - half sobered, and ashamed at being drunk [[Kangxi: 一曰醉而覺也]];
     - feelings after a bout.
+    ==
+  ====
+L
+  ====
+  * 【酲】 (drjeng)
+    ==
+    - (_adjective-like_) hungover, drunk-sick
     ==
   ====
 $$
