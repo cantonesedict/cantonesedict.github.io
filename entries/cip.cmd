@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cip
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -82,6 +82,13 @@ W
     - _shi(u/)(3) ts(')(i/)p(8)_
         [[siu3 cip3 少妾]]
         my young concubine.
+    ==
+  ====
+L
+  ====
+  * 【妾】 (tshjep)
+    ==
+    - (_noun-like_) concubine
     ==
   ====
 $$

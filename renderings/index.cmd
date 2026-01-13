@@ -1501,6 +1501,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] request, [to] ask
       ==
   //
+    , `tshjep`
+    , [妾](/entries/cip#rendering-妾)
+    ,
+      ==
+      - (_noun-like_) concubine
+      ==
+  //
     , `tshju`
     , [趨](/entries/ceoi#rendering-趨)
     ,
