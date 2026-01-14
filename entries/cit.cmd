@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cit
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -124,6 +124,15 @@ P
   1. To bite or gnash (the teeth).
   1. Close (in the sense of near).
   ++
+L
+  ====
+  * 【切】 (tshet)
+    ==
+    - (_verb-like_) [to] cut, [to] dissect, (_met._) [to] gnash
+    - (_verb-like_) [to] take (pulse)
+    - (_adjective-like_) (_met._) pressing
+    ==
+  ====
 E
   ====
   - 【切】 (cit3)
@@ -175,7 +184,7 @@ W
     - to remove, to take away [[Kangxi: 去也]];
     - ~~a road, a thoroughfare;~~
     - to skin, to peel off [[Kangxi: 剝取也]], to destroy [[Kangxi: 毀也]];
-    - to cultivate [[Kangxi: 治也]];
+    - to ~~cultivate~~ ``regulate`` [[Kangxi: 治也]];
     - _ch(')(i/)t(8) ch(a/)n(6)_
         [[cit3 zaan6 徹饌]]
         to remove food;
@@ -196,6 +205,15 @@ C
     There, 徹 is usually interpreted as "follow/comply",
     although James Legge interprets it as "explain".
   ==
+L
+  ====
+  * 【徹】 (trhjet, drjet)
+    ==
+    - (_verb-like_) [to] pervade
+    - (_verb-like_) [to] remove, [to] withdraw
+    - (_verb-like_) [to] regulate
+    ==
+  ====
 $$
 
 ### 掣3 | _Ch(')(i/)t(8)_ [[cit3]]
@@ -276,6 +294,13 @@ W
         to clear off and leave the table.
     ==
   ====
+L
+  ====
+  * 【撤】 (trhjet, drjet)
+    ==
+    - (_verb-like_) [to] remove, [to] withdraw
+    ==
+  ====
 $$
 
 ### 澈3 | _Ch(')(i/)t(8)_ [[cit3]]
@@ -288,6 +313,10 @@ U
 H
   May appear with 𠫓 having 3~strokes (+11) or 4~strokes (+12 assumed here),
   depending on the font.
+V
+  ==
+  - zit6 (per 《廣韻》直列切)
+  ==
 F
   [[Not present]]
 W
@@ -361,6 +390,15 @@ W
         not half long enough.
     ==
   ====
+L
+  ====
+  * 【設】 (syet)
+    ==
+    - (_verb-like_) [to] set
+    - (_verb-like_) [to] establish
+    - (_verb-like_) [to] suppose
+    ==
+  ====
 $$
 
 ### 轍3 | _Ch(')(i/)t(8)_ [[cit3]]
@@ -373,6 +411,10 @@ U
 H
   May appear with 𠫓 having 3~strokes (+11) or 4~strokes (+12 assumed here),
   depending on the font.
+V
+  ==
+  - zit6 (per 《廣韻》直列切)
+  ==
 F
   ==
   - (F1.26 轍) 車輪
@@ -389,6 +431,13 @@ W
     - _(4)ying t(o\)(6) (4)ts(')(i/)n ch(')(i/)t(8)_
         [[jing4 dou6 cin4 cit3 仍蹈前轍]]
         to go in the old rut, to act badly again.
+    ==
+  ====
+L
+  ====
+  * 【轍】 (drjet)
+    ==
+    - (_noun-like_) wheel-rut, rut
     ==
   ====
 $$

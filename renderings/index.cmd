@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-01-13
+* %date-modified --> 2026-01-14
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -316,6 +316,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] hang, [to] strangle
       ==
   //
+    , `'jit tshejH`
+    , [一切](/entries/cai#rendering-一切)
+    ,
+      ==
+      - (_noun-like_) everything
+      ==
+  //
     , `'omH`
     , [暗](/entries/am#rendering-暗)
     ,
@@ -545,6 +552,29 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) hungover, drunk-sick
+      ==
+  //
+    , `drjet`
+    , [徹](/entries/cit#rendering-徹)
+    ,
+      ==
+      - (_verb-like_) [to] pervade
+      - (_verb-like_) [to] remove, [to] withdraw
+      - (_verb-like_) [to] regulate
+      ==
+  //
+    , `drjet`
+    , [撤](/entries/cit#rendering-撤)
+    ,
+      ==
+      - (_verb-like_) [to] remove, [to] withdraw
+      ==
+  //
+    , `drjet`
+    , [轍](/entries/cit#rendering-轍)
+    ,
+      ==
+      - (_noun-like_) wheel-rut, rut
       ==
   //
     , `drjo`
@@ -1054,6 +1084,15 @@ window.onload = applyFilter;
       - (_adverb-like_) only, merely, (_met._) less than
       ==
   //
+    , `syet`
+    , [設](/entries/cit#rendering-設)
+    ,
+      ==
+      - (_verb-like_) [to] set
+      - (_verb-like_) [to] establish
+      - (_verb-like_) [to] suppose
+      ==
+  //
     , `syiX`
     , [始](/entries/ci#rendering-始)
     ,
@@ -1184,6 +1223,22 @@ window.onload = applyFilter;
       - (_verb-like_) [to] let loose, [to] indulge
       ==
   //
+    , `trhjet`
+    , [徹](/entries/cit#rendering-徹)
+    ,
+      ==
+      - (_verb-like_) [to] pervade
+      - (_verb-like_) [to] remove, [to] withdraw
+      - (_verb-like_) [to] regulate
+      ==
+  //
+    , `trhjet`
+    , [撤](/entries/cit#rendering-撤)
+    ,
+      ==
+      - (_verb-like_) [to] remove, [to] withdraw
+      ==
+  //
     , `trhjuw`
     , [妯](/entries/cau#rendering-妯)
     ,
@@ -1258,6 +1313,13 @@ window.onload = applyFilter;
       ==
   //
     , `tshejH`
+    , [切](/entries/cai#rendering-切)
+    ,
+      ==
+      - Used in [一切](/entries/cai#rendering-一切).
+      ==
+  //
+    , `tshejH`
     , [妻~(verb)](/entries/cai#rendering-妻-verb)
     ,
       ==
@@ -1293,6 +1355,15 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) blue, green, black
+      ==
+  //
+    , `tshet`
+    , [切](/entries/cit#rendering-切)
+    ,
+      ==
+      - (_verb-like_) [to] cut, [to] dissect, (_met._) [to] gnash
+      - (_verb-like_) [to] take (pulse)
+      - (_adjective-like_) (_met._) pressing
       ==
   //
     , `tshijH`

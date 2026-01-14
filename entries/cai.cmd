@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2026-01-04
+* %date-modified --> 2026-01-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -394,6 +394,17 @@ W
     - _chi(u/)(3) k(u/)(3) yat(7) ts(')ai(3)_
         [[ziu3 gu3 jat1 cai3 照顧一切]]
         I thank you for all your kindness.
+    ==
+  ====
+L
+  ====
+  * 【一切】 ('jit tshejH)
+    ==
+    - (_noun-like_) everything
+    ==
+  * 【切】 (tshejH)
+    ==
+    - Used in [一切](/entries/cai#rendering-一切).
     ==
   ====
 S
