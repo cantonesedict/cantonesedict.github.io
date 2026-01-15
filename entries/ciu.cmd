@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ciu
-* %date-modified --> 2026-01-01
+* %date-modified --> 2026-01-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -77,6 +77,13 @@ W
     - a bow unbent [[Kangxi: 弓弛貌]].
     ==
   ====
+L
+  ====
+  * 【弨】 (tsyhew)
+    ==
+    - (_adjective-like_) relaxed, undrawn
+    ==
+  ====
 $$
 
 ### 昭1 | _(1)Ch(')i(u/)_ [[ciu1]]
@@ -118,6 +125,13 @@ W
     - _(1)ch(')i(u/) ch(')(e/)uk(8) (4)n(i/)n (1)heng_
         [[ciu1 coek3 nin4 heng1 昭灼年輕]],
         beautiful and young.
+    ==
+  ====
+L
+  ====
+  * 【昭】 (tsyew)
+    ==
+    - (_adjective-like_) luminous, illuminate
     ==
   ====
 S
@@ -194,6 +208,14 @@ C
   - Williams' "to trip": In the (now) dated sense of skipping lightly.
   - Williams' 超拔: Changed _p(a/)t(9)_ (baat6) to modern _pat(9)_ (bat6).
   ==
+L
+  ====
+  * 【超】 (trhjew)
+    ==
+    - (_verb-like_) [to] leap (over)
+    - (_verb-like_) [to] transcend
+    ==
+  ====
 E
   ====
   - 【超】 (ciu1)
@@ -336,6 +358,17 @@ C
   - The common reading ciu3 is sung by Danny Chan in 深愛著你 (1985)
     (containing the line 悄悄看我熟睡).
   ==
+P
+  ++
+  1. Quietly.
+  ++
+L
+  ====
+  * 【悄】 (tshjewX)
+    ==
+    - (_adjective-like_) distressed
+    ==
+  ====
 $$
 
 ###+ 愀2 | _(2)Ts(')i(u/)_ [[ciu2]]
@@ -358,7 +391,7 @@ W
   ====
   - [[Page~562 ::(1)~~愁~~``愀``:: _(1)Ts(')au_ (cau1); here normalised to _(2)Ts(')i(u/)_ (ciu2)]]
     ==
-    - To blush, to redden, to change color [[Kangxi: 容色變也]];
+    - ~~To blush, to redden, to change color~~ ``To change the countenance`` [[Kangxi: 容色變也]];
     - ~~downhearted, sad.~~
     ==
   ====
@@ -368,6 +401,13 @@ C
     Williams has erroneously included the definition "downhearted, sad".
     That definition is only applicable to 愁.
   ==
+L
+  ====
+  * 【愀】 (tshjewX, dzjuwX)
+    ==
+    - (_verb-like_) [to] change countenance
+    ==
+  ====
 S
   ==
   - ($愀cau1)
@@ -534,6 +574,18 @@ C
   ==
   - Williams' "a class": This is a misreading of Kangxi 肖類也.
   ==
+L
+  ====
+  * 【不肖】 (pjut sjewH)
+    ==
+    - (_adjective-like_) unbecoming
+    ==
+  * 【肖】 (sjewH)
+    ==
+    - (_verb-like_) [to] resemble, (_met._) [to] emulate
+    - Used in [不肖](/entries/ciu#rendering-不肖).
+    ==
+  ====
 S
   ==
   - $肖siu1 (TODO)
@@ -580,6 +632,13 @@ W
     - _(1)k(i/) ts(')i(u/)(3)_
         [[gei1 ciu3 譏誚]]
         to satirize.
+    ==
+  ====
+L
+  ====
+  * 【誚】 (dzjewH)
+    ==
+    - (_verb-like_) [to] blame
     ==
   ====
 $$
@@ -677,6 +736,17 @@ C
   - Fan Wan entry: Normalised headword {𭵼=⿱惟灬} to 憔.
     The incomprehensible character looks like ⿱䒑用.
   ==
+L
+  ====
+  * 【憔】 (dzjew)
+    ==
+    - Used in [憔悴](/entries/ciu#rendering-憔悴).
+    ==
+  * 【憔悴】 (dzjew dzwijH)
+    ==
+    - (_adjective-like_) languishing
+    ==
+  ====
 $$
 
 ###+ 晁4 | _(4)Ch(')i(u/)_ [[ciu4]]
@@ -785,6 +855,15 @@ C
   ==
   - See $朝ziu1 for commentary on the reading of 朝 in 朝鮮.
   ==
+L
+  ====
+  * 【朝】 (drjew)
+    ==
+    - (_noun-like_) audience, (imperial) court
+    - (_verb-like_) [to] attend audience, [to] attend court
+    - (_noun-like_) dynasty
+    ==
+  ====
 S
   ==
   - $朝ziu1
@@ -835,6 +914,14 @@ C
   - Fan Wan entry: Normalised headword {𬋈=⿱椎灬} to 樵.
   - Williams' 樵夫: Corrected _(4)^tsi(u/)_ (ziu4) to _(4)ts(')i(u/)_ (ciu4).
   ==
+L
+  ====
+  * 【樵】 (dzjew)
+    ==
+    - (_noun-like_) firewood
+    - (_verb-like_) (_met._) [to] cut firewood, [to] burn firewood
+    ==
+  ====
 $$
 
 ### 潮4 | _(4)Ch(')i(u/)_ [[ciu4]]
@@ -882,6 +969,13 @@ C
   - Fan Wan entry: Normalised ⿱一毋 to 每, and corrected 汝 to 汐.
   - Williams' 潮濕: Not necessarily of the ground.
   ==
+L
+  ====
+  * 【潮】 (drjew)
+    ==
+    - (_noun-like_) (morning) tide
+    ==
+  ====
 $$
 
 ### 瞧4 | _(4)Ts(')i(u/)_ [[ciu4]]
@@ -953,6 +1047,18 @@ P
   ++
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【譙】 (dzjew)
+    ==
+    - (_noun-like_) turret
+   - Used in [譙譙](/entries/ciu#rendering-譙譙).
+    ==
+  * 【譙譙】 (dzjew dzjew)
+    ==
+    - (_adjective-like_) worn out
+    ==
+  ====
 S
   ==
   - ($譙ciu3)

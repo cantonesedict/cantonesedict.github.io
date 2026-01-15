@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-01-14
+* %date-modified --> 2026-01-15
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -577,6 +577,22 @@ window.onload = applyFilter;
       - (_noun-like_) wheel-rut, rut
       ==
   //
+    , `drjew`
+    , [朝](/entries/ciu#rendering-朝)
+    ,
+      ==
+      - (_noun-like_) audience, (imperial) court
+      - (_verb-like_) [to] attend audience, [to] attend court
+      - (_noun-like_) dynasty
+      ==
+  //
+    , `drjew`
+    , [潮](/entries/ciu#rendering-潮)
+    ,
+      ==
+      - (_noun-like_) (morning) tide
+      ==
+  //
     , `drjo`
     , [除](/entries/ceoi#rendering-除)
     ,
@@ -832,6 +848,50 @@ window.onload = applyFilter;
       - (_noun-like_) truth, circumstance
       ==
   //
+    , `dzjew`
+    , [憔](/entries/ciu#rendering-憔)
+    ,
+      ==
+      - Used in [憔悴](/entries/ciu#rendering-憔悴).
+      ==
+  //
+    , `dzjew`
+    , [樵](/entries/ciu#rendering-樵)
+    ,
+      ==
+      - (_noun-like_) firewood
+      - (_verb-like_) (_met._) [to] cut firewood, [to] burn firewood
+      ==
+  //
+    , `dzjew`
+    , [譙](/entries/ciu#rendering-譙)
+    ,
+      ==
+      - (_noun-like_) turret
+     - Used in [譙譙](/entries/ciu#rendering-譙譙).
+      ==
+  //
+    , `dzjew dzjew`
+    , [譙譙](/entries/ciu#rendering-譙譙)
+    ,
+      ==
+      - (_adjective-like_) worn out
+      ==
+  //
+    , `dzjew dzwijH`
+    , [憔悴](/entries/ciu#rendering-憔悴)
+    ,
+      ==
+      - (_adjective-like_) languishing
+      ==
+  //
+    , `dzjewH`
+    , [誚](/entries/ciu#rendering-誚)
+    ,
+      ==
+      - (_verb-like_) [to] blame
+      ==
+  //
     , `dzjuw`
     , [遒](/entries/cau#rendering-遒)
     ,
@@ -844,6 +904,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) tree-grub
+      ==
+  //
+    , `dzjuwX`
+    , [愀](/entries/ciu#rendering-愀)
+    ,
+      ==
+      - (_verb-like_) [to] change countenance
       ==
   //
     , `dzok`
@@ -998,6 +1065,13 @@ window.onload = applyFilter;
       - (_noun-like_) parched-grain
       ==
   //
+    , `pjut sjewH`
+    , [不肖](/entries/ciu#rendering-不肖)
+    ,
+      ==
+      - (_adjective-like_) unbecoming
+      ==
+  //
     , `sej`
     , [棲](/entries/cai#rendering-棲)
     ,
@@ -1025,6 +1099,14 @@ window.onload = applyFilter;
       ==
       - (_adjective-like_) delicate
       - (_noun-like_) chequered-silk
+      ==
+  //
+    , `sjewH`
+    , [肖](/entries/ciu#rendering-肖)
+    ,
+      ==
+      - (_verb-like_) [to] resemble, (_met._) [to] emulate
+      - Used in [不肖](/entries/ciu#rendering-不肖).
       ==
   //
     , `sreamX`
@@ -1237,6 +1319,14 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] remove, [to] withdraw
+      ==
+  //
+    , `trhjew`
+    , [超](/entries/ciu#rendering-超)
+    ,
+      ==
+      - (_verb-like_) [to] leap (over)
+      - (_verb-like_) [to] transcend
       ==
   //
     , `trhjuw`
@@ -1579,6 +1669,20 @@ window.onload = applyFilter;
       - (_noun-like_) concubine
       ==
   //
+    , `tshjewX`
+    , [悄](/entries/ciu#rendering-悄)
+    ,
+      ==
+      - (_adjective-like_) distressed
+      ==
+  //
+    , `tshjewX`
+    , [愀](/entries/ciu#rendering-愀)
+    ,
+      ==
+      - (_verb-like_) [to] change countenance
+      ==
+  //
     , `tshju`
     , [趨](/entries/ceoi#rendering-趨)
     ,
@@ -1877,6 +1981,13 @@ window.onload = applyFilter;
       - (_adjective-like_) huddled, accordant
       ==
   //
+    , `tsyew`
+    , [昭](/entries/ciu#rendering-昭)
+    ,
+      ==
+      - (_adjective-like_) luminous, illuminate
+      ==
+  //
     , `tsyhae`
     , [車](/entries/ce#rendering-車)
     ,
@@ -1927,6 +2038,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) babe
+      ==
+  //
+    , `tsyhew`
+    , [弨](/entries/ciu#rendering-弨)
+    ,
+      ==
+      - (_adjective-like_) relaxed, undrawn
       ==
   //
     , `tsyhiX`

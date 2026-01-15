@@ -2289,7 +2289,7 @@ class CharacterEntry:
 
             sense_renderings_unsplit = sense_match.group('sense_renderings').replace(met_marker, '')
             sense_renderings = [
-                rendering
+                rendering.strip()
                 for rendering in re.split(pattern=',[ ]+', string=sense_renderings_unsplit)
                 if rendering
             ]
