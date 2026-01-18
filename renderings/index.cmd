@@ -1418,7 +1418,7 @@ window.onload = applyFilter;
     , [丑](/entries/cau#rendering-丑)
     ,
       ==
-      - (_noun-like_) ox-sign
+      - (_noun-like_) ox-branch
       ==
   //
     , `trjenX`
@@ -1919,7 +1919,7 @@ window.onload = applyFilter;
       - (_noun-like_) child, son, daughter
       - (_noun-like_) master, (_met._) thou
       - (_noun-like_) numerator
-      - (_noun-like_) rat-sign
+      - (_noun-like_) rat-branch
       - Used in [赤子](/entries/cik#rendering-赤子).
       ==
   //

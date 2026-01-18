@@ -811,7 +811,7 @@ L
   ====
   * 【丑】 (trhjuwX)
     ==
-    - (_noun-like_) ox-sign
+    - (_noun-like_) ox-branch
     ==
   ====
 $$

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2026-01-10
+* %date-modified --> 2026-01-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2174,7 +2174,7 @@ L
     - (_noun-like_) child, son, daughter
     - (_noun-like_) master, (_met._) thou
     - (_noun-like_) numerator
-    - (_noun-like_) rat-sign
+    - (_noun-like_) rat-branch
     - Used in [赤子](/entries/cik#rendering-赤子).
     ==
   ====
