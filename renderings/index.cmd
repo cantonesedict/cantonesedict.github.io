@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-01-15
+* %date-modified --> 2026-01-18
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -677,6 +677,13 @@ window.onload = applyFilter;
       - (_noun-like_) former [day]
       ==
   //
+    , `dza`
+    , [瘥](/entries/co#rendering-瘥)
+    ,
+      ==
+      - (_noun-like_) ailment, (_met._) plague
+      ==
+  //
     , `dzam`
     , [慚](/entries/caam#rendering-慚)
     ,
@@ -1014,6 +1021,34 @@ window.onload = applyFilter;
       - (_noun-like_) persimmon
       ==
   //
+    , `dzrjo`
+    , [鋤](/entries/co#rendering-鋤)
+    ,
+      ==
+      - (_noun-like_) hoe
+      ==
+  //
+    , `dzrju`
+    , [雛](/entries/co#rendering-雛)
+    ,
+      ==
+      - (_noun-like_) chick
+      ==
+  //
+    , `dzwaX`
+    , [坐~(verb)](/entries/zo#rendering-坐-verb)
+    ,
+      ==
+      - (_verb-like_) [to] sit
+      ==
+  //
+    , `dzwaH`
+    , [坐~(noun)](/entries/zo#rendering-坐-noun)
+    ,
+      ==
+      - (_noun-like_) seat
+      ==
+  //
     , `dzwoj`
     , [崔](/entries/ceoi#rendering-崔)
     ,
@@ -1070,6 +1105,20 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) unbecoming
+      ==
+  //
+    , `sa`
+    , [傞](/entries/co#rendering-傞)
+    ,
+      ==
+      - Used in [傞傞](/entries/co#rendering-傞傞).
+      ==
+  //
+    , `sa sa`
+    , [傞傞](/entries/co#rendering-傞傞)
+    ,
+      ==
+      - (_adverb-like_) (dancing) drunkenly, on [and] on
       ==
   //
     , `sej`
@@ -1370,6 +1419,41 @@ window.onload = applyFilter;
       ==
       - (_verb-like_) [to] usurp
       - (_adjective-like_) erroneous
+      ==
+  //
+    , `tsha`
+    , [傞](/entries/co#rendering-傞)
+    ,
+      ==
+      - Used in [傞傞](/entries/co#rendering-傞傞).
+      ==
+  //
+    , `tsha`
+    , [瑳](/entries/co#rendering-瑳)
+    ,
+      ==
+      - (_adjective-like_) brilliant-white
+      ==
+  //
+    , `tsha`
+    , [磋](/entries/co#rendering-磋)
+    ,
+      ==
+      - (_verb-like_) [to] polish
+      ==
+  //
+    , `tsha tsha`
+    , [傞傞](/entries/co#rendering-傞傞)
+    ,
+      ==
+      - (_adverb-like_) (dancing) drunkenly, on [and] on
+      ==
+  //
+    , `tshaX`
+    , [瑳](/entries/co#rendering-瑳)
+    ,
+      ==
+      - (_adjective-like_) brilliant-white
       ==
   //
     , `tshan`
@@ -1778,6 +1862,13 @@ window.onload = applyFilter;
       - (_noun-like_) horse master
       ==
   //
+    , `tshwaX`
+    , [脞](/entries/co#rendering-脞)
+    ,
+      ==
+      - (_noun-like_) mince, (_met._) trifle
+      ==
+  //
     , `tshwoj`
     , [催](/entries/ceoi#rendering-催)
     ,
@@ -1822,6 +1913,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] whisper
+      ==
+  //
+    , `tsjae`
+    , [瘥](/entries/co#rendering-瘥)
+    ,
+      ==
+      - (_noun-like_) ailment, (_met._) plague
       ==
   //
     , `tsjem`
@@ -1953,6 +2051,31 @@ window.onload = applyFilter;
       - Used in [參差](/entries/caam#rendering-參差).
       ==
   //
+    , `tsrhjo`
+    , [初](/entries/co#rendering-初)
+    ,
+      ==
+      - (_noun-like_) beginning
+      - (_adjective-like_) initial
+      ==
+  //
+    , `tsrhjoX`
+    , [楚](/entries/co#rendering-楚)
+    ,
+      ==
+      - (_noun-like_) thorn-tree, thorn, (_met._) ferule
+      - (_noun-like_) pain, suffering
+      - (_adjective-like_) thickset
+      - (_adjective-like_) neat, splendid
+      ==
+  //
+    , `tsrhju`
+    , [芻](/entries/co#rendering-芻)
+    ,
+      ==
+      - (_noun-like_) hay, fodder
+      ==
+  //
     , `tsrhjwejH`
     , [毳](/entries/ceoi#rendering-毳)
     ,
@@ -1979,6 +2102,14 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) huddled, accordant
+      ==
+  //
+    , `tswaH`
+    , [挫](/entries/co#rendering-挫)
+    ,
+      ==
+      - (_verb-like_) [to] break, [to] defeat, (_met._) [to] dampen
+      - (_verb-like_) [to] push
       ==
   //
     , `tsyew`

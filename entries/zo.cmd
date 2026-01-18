@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zo
-* %date-modified --> 2026-01-01
+* %date-modified --> 2026-01-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -658,6 +658,17 @@ C
   - Williams' 坐冷飯噉坐: Corrected _k(o\)m(3)_ (gam3) to _(2)k(o\)m_ (gam2).
   - Williams' 打坐參禪: Changed _(4)sh(i/)n_ (sin4) to common reading _(4)sh(i/)m_ (sim4).
   ==
+L
+  ====
+  * 【坐-verb】 (dzwaX)
+    ==
+    - (_verb-like_) [to] sit
+    ==
+  * 【坐-noun】 (dzwaH)
+    ==
+    - (_noun-like_) seat
+    ==
+  ====
 E
   ====
   - 【坐】 (co5)

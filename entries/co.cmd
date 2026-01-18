@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> co
-* %date-modified --> 2026-01-01
+* %date-modified --> 2026-01-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -92,6 +92,17 @@ C
   ==
   - Williams' "frolics": Specifically, dancing.
   ==
+L
+  ====
+  * 【傞】 (tsha, sa)
+    ==
+    - Used in [傞傞](/entries/co#rendering-傞傞).
+    ==
+  * 【傞傞】 (tsha tsha, sa sa)
+    ==
+    - (_adverb-like_) (dancing) drunkenly, on [and] on
+    ==
+  ====
 $$
 
 ### 初1 | _(1)Ch(')o_ [[co1]]
@@ -152,6 +163,14 @@ C
   - Williams' 初間, 初旬, 初幾: Here, "decade" means ten days.
   - Williams' 初來步到: Corrected _(4)ch(')o_ (co4) to _(1)ch(')o_ (co1).
   ==
+L
+  ====
+  * 【初】 (tsrhjo)
+    ==
+    - (_noun-like_) beginning
+    - (_adjective-like_) initial
+    ==
+  ====
 E
   ====
   - 【初初】 (co1 co1)
@@ -301,7 +320,8 @@ W
   - [[Page~583 (1)瑳]]
     ==
     - A white, lustrous, stone [[Kangxi: 玉色鮮白也]];
-    - [[...]].
+    - fresh, beautiful [[Kangxi: 凡物鮮盛亦曰瑳, 鮮盛貌]];
+    - to smile, to look fascinating [[Kangxi: 笑貌, 瑳巧笑貌]].
     ==
     --
     [[Otherwise, an alternative form of 磋. **See $磋co1 for the canonical entry.**]]
@@ -311,10 +331,19 @@ C
   ==
   - Fan Wan entry: Corrected 解 to 鮮 (notwithstanding
     the olden dictionaries read 玉色鮮白).
+  - Kangxi prescribes the rising-tone reading
+    for the "brilliant" (鮮盛貌) and "smiling" (笑貌) senses.
   ==
+L
+  ====
+  * 【瑳】 (tsha, tshaX)
+    ==
+    - (_adjective-like_) brilliant-white
+    ==
+  ====
 S
   ==
-  - $瑳co2
+  - ($瑳co2)
   ==
 $$
 
@@ -375,6 +404,13 @@ W
         to cut and polish.
     ==
   ====
+L
+  ====
+  * 【磋】 (tsha)
+    ==
+    - (_verb-like_) [to] polish
+    ==
+  ====
 $$
 
 ### 艖1 | _(1)Ts(')o_ [[co1]]
@@ -425,6 +461,13 @@ W
         [[co1 jiu4 芻蕘]],
         grass;
         _met._ the people.
+    ==
+  ====
+L
+  ====
+  * 【芻】 (tsrhju)
+    ==
+    - (_noun-like_) hay, fodder
     ==
   ====
 $$
@@ -479,6 +522,13 @@ W
         a chicken.
     ==
   ====
+L
+  ====
+  * 【雛】 (dzrju)
+    ==
+    - (_noun-like_) chick
+    ==
+  ====
 S
   ==
   - ($雛co4)
@@ -493,7 +543,7 @@ $$
 =={.modern}
 - ($憷2)
 - $楚2
-- $瑳2
+- ($瑳2)
 - $礎2
 - $脞2
 ==
@@ -570,11 +620,21 @@ P
   1. A rod or cane used to beat offenders (Kangxi: 楚荆也扑撻犯禮者).
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【楚】 (tsrhjoX)
+    ==
+    - (_noun-like_) thorn-tree, thorn, (_met._) ferule
+    - (_noun-like_) pain, suffering
+    - (_adjective-like_) thickset
+    - (_adjective-like_) neat, splendid
+    ==
+  ====
 $$
 
 ###+ 瑳2 | _(2)Ts(')o_ [[co2]]
 
-$$
+$$.
 R
   ⽟ + 10
 U
@@ -582,17 +642,11 @@ U
 F
   [[Not present]]
 W
-  ====
-  - [[Page~583 (1)瑳 _(1)Ts(')o_ (co1); here corrected to _(2)Ts(')o_ (co2)]]
-    ==
-    - [[...]];
-    - fresh, beautiful [[Kangxi: 凡物鮮盛亦曰瑳, 鮮盛貌]];
-    - to smile, to look fascinating [[Kangxi: 笑貌, 瑳巧笑貌]].
-    ==
-    --
-    [[Also a reading variation. See $瑳co1.]]
-    --
-  ====
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $瑳co1 for the canonical entry.**
+  ++
 S
   ==
   - $瑳co1
@@ -642,6 +696,13 @@ W
     - broken to bits, minced;
     - small [[Kangxi: 小也]];
     - to attend to trifles [[Kangxi: 叢脞細碎無大略]].
+    ==
+  ====
+L
+  ====
+  * 【脞】 (tshwaX)
+    ==
+    - (_noun-like_) mince, (_met._) trifle
     ==
   ====
 S
@@ -697,6 +758,10 @@ R
   ⼿ + 7
 U
   U+632B
+V
+  ==
+  - zo3 (per 《廣韻》則臥切)
+  ==
 F
   ==
   - (F2.61 挫) 摧折也打也
@@ -716,6 +781,14 @@ W
         [[co3 zit3 挫折]]
         to improve, to polish rude ways;
         tried by afflictions.
+    ==
+  ====
+L
+  ====
+  * 【挫】 (tswaH)
+    ==
+    - (_verb-like_) [to] break, [to] defeat, (_met._) [to] dampen
+    - (_verb-like_) [to] push
     ==
   ====
 $$
@@ -895,6 +968,7 @@ U
 V
   ==
   - co1 (per Williams)
+  - ze1 (alternative per 《廣韻》子邪切)
   ==
 F
   [[Not present]]
@@ -904,6 +978,13 @@ W
     ==
     - [[...]];
     - a slight ailment [[Kangxi: 病也]], slight epidemic, like influenza.
+    ==
+  ====
+L
+  ====
+  * 【瘥】 (dza, tsjae)
+    ==
+    - (_noun-like_) ailment, (_met._) plague
     ==
   ====
 S
@@ -972,6 +1053,13 @@ C
   ==
   - Fan Wan entry: The supplied dissection 冲所切 is incorrect.
   ==
+L
+  ====
+  * 【鋤】 (dzrjo)
+    ==
+    - (_noun-like_) hoe
+    ==
+  ====
 E
   ====
   - 【鋤大弟】 (co4 daai6 di2)
