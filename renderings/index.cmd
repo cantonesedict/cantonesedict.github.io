@@ -1261,6 +1261,21 @@ window.onload = applyFilter;
       - (_noun-like_) otter
       ==
   //
+    , `traewk`
+    , [倬](/entries/coek#rendering-倬)
+    ,
+      ==
+      - (_adjective-like_) grand, illustrious
+      ==
+  //
+    , `traewk`
+    , [卓](/entries/coek#rendering-卓)
+    ,
+      ==
+      - (_adjective-like_) lofty
+      - (_adverb-like_) aloft
+      ==
+  //
     , `trhaejH`
     , [蠆](/entries/caai#rendering-蠆)
     ,
@@ -2112,6 +2127,14 @@ window.onload = applyFilter;
       - (_verb-like_) [to] push
       ==
   //
+    , `tsyak`
+    , [灼](/entries/coek#rendering-灼)
+    ,
+      ==
+      - (_verb-like_) [to] burn, [to] scorch
+      - (_adjective-like_) manifest, (_met._) bright
+      ==
+  //
     , `tsyew`
     , [昭](/entries/ciu#rendering-昭)
     ,
@@ -2124,6 +2147,14 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) car
+      ==
+  //
+    , `tsyhak`
+    , [綽](/entries/coek#rendering-綽)
+    ,
+      ==
+      - (_adjective-like_) generous, ample
+      - (_adjective-like_) gentle
       ==
   //
     , `tsyheX`

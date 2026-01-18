@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coek
-* %date-modified --> 2026-01-01
+* %date-modified --> 2026-01-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -84,6 +84,13 @@ W
         to make your crime known.
     ==
   ====
+L
+  ====
+  * 【倬】 (traewk)
+    ==
+    - (_adjective-like_) grand, illustrious
+    ==
+  ====
 $$
 
 ### 卓3 | _Ch(')(e/)uk(8)_ [[coek3]]
@@ -131,6 +138,14 @@ P
   ++
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【卓】 (traewk)
+    ==
+    - (_adjective-like_) lofty
+    - (_adverb-like_) aloft
+    ==
+  ====
 $$
 
 ### 戳3 | _Ch(')(e/)uk(8)_ [[coek3]]
@@ -267,6 +282,14 @@ W
         splendid, as flowers.
     ==
   ====
+L
+  ====
+  * 【灼】 (tsyak)
+    ==
+    - (_verb-like_) [to] burn, [to] scorch
+    - (_adjective-like_) manifest, (_met._) bright
+    ==
+  ====
 E
   ====
   - 【灼】 (coek3)
@@ -316,6 +339,14 @@ C
   ==
   - Williams' "slow, leisurely": This is a misreading of Kangxi 緩也.
   ==
+L
+  ====
+  * 【綽】 (tsyhak)
+    ==
+    - (_adjective-like_) generous, ample
+    - (_adjective-like_) gentle
+    ==
+  ====
 $$
 
 ###+ 芍3 | _Ch(')(e/)uk(8)_ [[coek3]]
