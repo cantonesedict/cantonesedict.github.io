@@ -49,6 +49,7 @@ $$
 - $桌3
 - $棹3
 - $灼3
+- $焯3
 - $綽3
 - $芍3
 - $踔3
@@ -251,6 +252,10 @@ R
   ⽕ + 3
 U
   U+707C
+A
+  ==
+  - $焯3 (for "manifest/clear" sense and vernacular "blanch" sense)
+  ==
 V
   ==
   - zoek3 (per 《廣韻》之若切)
@@ -305,6 +310,28 @@ S
   ==
   - ($灼zoek3)
   ==
+$$
+
+###+ 焯3 | _Ch(')(e/)uk(8)_ [[coek3]]
+
+$$
+R
+  ⽕ + 8
+U
+  U+712F
+V
+  ==
+  - zoek3 (per 《廣韻》之若切)
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Clear, bright. (Alternative form of 灼 (for the "manifest/clear" sense). See $灼coek3.)
+  1. Alternative form of 灼 (for the vernacular "blanch" sense). **See $灼coek3 for the canonical entry.**
+  ++
 $$
 
 ### 綽3 | _Ch(')(e/)uk(8)_ [[coek3]]
