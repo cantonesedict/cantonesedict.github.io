@@ -925,6 +925,7 @@ class CmdSource:
         try:
             CmdSource.lint_whitespace(content)
             CmdSource.lint_typography_quote(content)
+            CmdSource.lint_italicised_abbreviation_dot(content)
             CmdSource.lint_cjk_compatibility_ideograph(content)
             CmdSource.lint_cjk_non_bmp_composition(content)
             CmdSource.lint_cjk_variation_selector(content)
@@ -995,6 +996,25 @@ class CmdSource:
             context = context_match.group()
             quote = context_match.group('quote')
             raise LintException(f'non-straight quote `{quote}` present in `{context}`')
+
+    @staticmethod
+    def lint_italicised_abbreviation_dot(content: str):
+        abbreviations = ['lit', 'met']
+
+        # Fast elimination of negative cases
+        if not any(f'_{abbreviation}_' in content for abbreviation in abbreviations):
+            return
+
+        abbreviations_pattern = '|'.join(re.escape(abbreviation) for abbreviation in abbreviations)
+
+        if context_match := re.search(
+            pattern=fr'\S* _ (?P<undotted_abbreviation> {abbreviations_pattern} ) _ \S*',
+            string=content,
+            flags=re.VERBOSE,
+        ):
+            context = context_match.group()
+            undotted_abbreviation = context_match.group('undotted_abbreviation')
+            raise LintException(f'italicised abbreviation `{undotted_abbreviation}` undotted in `{context}`')
 
     @staticmethod
     def lint_cjk_compatibility_ideograph(content: str):

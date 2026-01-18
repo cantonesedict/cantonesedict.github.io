@@ -837,7 +837,7 @@ window.onload = applyFilter;
     , [俴](/entries/cin#rendering-俴)
     ,
       ==
-      - (_adjective-like_) shallow, (_met_.) thin-[armoured]
+      - (_adjective-like_) shallow, (_met._) thin-[armoured]
       ==
   //
     , `dzjenX`
@@ -2259,7 +2259,7 @@ window.onload = applyFilter;
       - (_adjective-like_) ugly
       - (_verb-like_) [to] abhor
       - (_noun-like_) humiliation
-      - (_noun-like_) sort, (_met_.) peers
+      - (_noun-like_) sort, (_met._) peers
       ==
   //
     , `tsyhuwH`

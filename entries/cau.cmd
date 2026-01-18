@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2026-01-04
+* %date-modified --> 2026-01-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -922,7 +922,7 @@ L
     - (_adjective-like_) ugly
     - (_verb-like_) [to] abhor
     - (_noun-like_) humiliation
-    - (_noun-like_) sort, (_met_.) peers
+    - (_noun-like_) sort, (_met._) peers
     ==
   ====
 E
