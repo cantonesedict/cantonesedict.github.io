@@ -2316,6 +2316,7 @@ class CharacterEntry:
 
             if sense_type not in [
                 '_speech-assist_',
+                '_onomatopoeia_',
                 '_adjective-like_',
                 '_adverb-like_',
                 '_auxiliary-like_',

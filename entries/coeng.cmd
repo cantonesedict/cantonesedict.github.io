@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2026-01-01
+* %date-modified --> 2026-01-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -92,6 +92,13 @@ W
     - _~~(4)ch(')(a/)ng~~ ``(1)ch(')(e/)ung`` (2)kwai_
         [[coeng1 gwai2 倀鬼]],
         a lares eaten by a tiger, _met._ one who entices to evil courses.
+    ==
+  ====
+L
+  ====
+  * 【倀】 (trhjang)
+    ==
+    - (_adjective-like_) frenetic
     ==
   ====
 S
@@ -203,6 +210,13 @@ P
   1. Stern and proper (Kangxi: 嚴正貌).
   1. Collected (Kangxi: 集也).
   ++
+L
+  ====
+  * 【將】 (tshjang)
+    ==
+    - (_verb-like_) [to] entreat
+    ==
+  ====
 S
   ==
   - $將zoeng1
@@ -264,6 +278,13 @@ W
     - [[...]].
     ==
   ====
+L
+  ====
+  * 【搶】 (tshjang)
+    ==
+    - (_verb-like_) [to] knock (against)
+    ==
+  ====
 S
   ==
   - ($搶caang1)
@@ -287,7 +308,7 @@ W
   - [[Page~567 (1)斨]]
     ==
     - A sort of broad-ax [[Kangxi: 斨卽斧也]];
-    - a pole-ax made square, a bill [[Kangxi: 方銎斧也]];
+    - a ~~pole-ax made square, a bill~~ ``square-eyed axe`` [[Kangxi: 方銎斧也]];
     - to hack, to chop [[Kangxi: 斨戕也]];
     - _(4)Sh(u:) (1)ts(')(e/)ung_
         [[syu4 coeng1 殳斨]],
@@ -298,6 +319,13 @@ C
   ==
   - Fan Wan entry: Corrected ⿺方丶 to 方, ⿱⿰工几金 to 銎, and 釜 to 斧.
   ==
+L
+  ====
+  * 【斨】 (tshjang)
+    ==
+    - (_noun-like_) square-eyed-axe
+    ==
+  ====
 $$
 
 ### 昌1 | _(1)Ch(')(e/)ung_ [[coeng1]]
@@ -343,6 +371,14 @@ P
   ++
   1. A surname.
   ++
+L
+  ====
+  * 【昌】 (tsyhang)
+    ==
+    - (_adjective-like_) splendid
+    - (_adjective-like_) flourishing, abundant
+    ==
+  ====
 $$
 
 ### 槍1 | _(1)Ts(')(e/)ung_ [[coeng1]]
@@ -473,6 +509,13 @@ W
         the jingling of stones.
     ==
   ====
+L
+  ====
+  * 【瑲】 (tshjang)
+    ==
+    - (_onomatopoeia_) ting
+    ==
+  ====
 S
   ==
   - $瑲cong1
@@ -566,6 +609,13 @@ C
   - Williams' "sash": In the sense of the sliding panel in a sash window.
   - Williams' 窗門棖: Changed uncommon reading _(5)ch(')(a/)n_ (caan5) to _(5)ch(')(a/)m_ (caam5).
   ==
+L
+  ====
+  * 【窗】 (tsrhaewng)
+    ==
+    - (_noun-like_) window
+    ==
+  ====
 $$
 
 ###+ 窻1 | _(1)Ch(')(e/)ung_ [[coeng1]]
@@ -655,13 +705,20 @@ W
   - [[Page~567 (1)蹌]]
     ==
     - To walk rapidly [[Kangxi: 恐動趨步, 蹌巧趨貌]];
-    - to move towards a superior quickly [[Kangxi: 士大夫之威儀也]];
+    - to move ~~towards a superior quickly~~ ``dignifiedly`` [[Kangxi: 士大夫之威儀也]];
     - to gambol, to skip about [[Kangxi: 舞貌]].
     ==
   - [[Page~567 (1)蹡]]
     ==
     - Similar to the preceding [[蹌]];
     - [[...]].
+    ==
+  ====
+L
+  ====
+  * 【蹌】 (tshjang)
+    ==
+    - (_verb-like_) [to] move, [to] fleet, (_met._) ^dignified
     ==
   ====
 S
@@ -776,6 +833,13 @@ W
     ==
     - Interchanged with the last [[鏘]];
     - [[...]].
+    ==
+  ====
+L
+  ====
+  * 【鏘】 (tshjang)
+    ==
+    - (_onomatopoeia_) ting
     ==
   ====
 $$
@@ -960,6 +1024,13 @@ W
         to head a riot.
     ==
   ====
+L
+  ====
+  * 【倡】 (tsyhangH)
+    ==
+    - (_verb-like_) [to] lead [song]
+    ==
+  ====
 S
   ==
   - ($倡coeng1)
@@ -1006,6 +1077,13 @@ W
     - _ch(')(e/)ung(3) muk(9) (4)(u:)_
         [[coeng3 muk6 jyu4-2 唱木魚]],
         to sing in the Canton dialect.
+    ==
+  ====
+L
+  ====
+  * 【唱】 (tsyhangH)
+    ==
+    - (_verb-like_) [to] lead [song]
     ==
   ====
 $$
@@ -1058,11 +1136,13 @@ $$
 $$
 R
   ⽇ + 10
+  ⽥ + 9
 U
   U+66A2
 A
   ==
   - $昶3
+  - $鬯3
   ==
 F
   ==
@@ -1107,6 +1187,13 @@ C
   - Williams' "The inner qualities developing":
     This is a misreading of a Kangxi 《易坤卦》美在其中而暢於四支《疏》有美在中必通暢於外 as a definition, when it is actually an example.
   ==
+L
+  ====
+  * 【暢】 (trhjangH)
+    ==
+    - (_verb-like_) [to] permeate
+    ==
+  ====
 E
   ====
   - 【暢】 (coeng3)
@@ -1176,6 +1263,10 @@ R
   ⾱ + 8
 U
   U+97D4
+A
+  ==
+  - $鬯3
+  ==
 F
   ==
   - (F1.93 韔) 弓囊也
@@ -1186,6 +1277,13 @@ W
     ==
     - A bow case [[Kangxi: 弓衣也]];
     - to put a bow into its case [[Kangxi: 韔韜也]].
+    ==
+  ====
+L
+  ====
+  * 【韔】 (trhjangH)
+    ==
+    - (_noun-like_) bow-case
     ==
   ====
 $$
@@ -1214,11 +1312,24 @@ W
         [[zyu2 coeng3 主鬯]]
         a man who prepares the libations.
     ==
+    --
+    [[Otherwise, an alternative form of 暢. **See $暢coeng3 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 韔. **See $韔coeng3 for the canonical entry.**]]
+    --
   ====
 P
   ++
   1. The 192nd~radical ("sacrificial-wine").
   ++
+L
+  ====
+  * 【鬯】 (trhjangH)
+    ==
+    - (_noun-like_) fragrant-alcohol
+    ==
+  ====
 $$
 
 

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-01-18
+* %date-modified --> 2026-01-19
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -1334,6 +1334,34 @@ window.onload = applyFilter;
       - (_noun-like_) fever, sickness
       ==
   //
+    , `trhjang`
+    , [倀](/entries/coeng#rendering-倀)
+    ,
+      ==
+      - (_adjective-like_) frenetic
+      ==
+  //
+    , `trhjangH`
+    , [暢](/entries/coeng#rendering-暢)
+    ,
+      ==
+      - (_verb-like_) [to] permeate
+      ==
+  //
+    , `trhjangH`
+    , [韔](/entries/coeng#rendering-韔)
+    ,
+      ==
+      - (_noun-like_) bow-case
+      ==
+  //
+    , `trhjangH`
+    , [鬯](/entries/coeng#rendering-鬯)
+    ,
+      ==
+      - (_noun-like_) fragrant-alcohol
+      ==
+  //
     , `trhjeX`
     , [褫](/entries/ci#rendering-褫)
     ,
@@ -1658,6 +1686,48 @@ window.onload = applyFilter;
       - (_auxiliary-like_) shall, about to
       - (_adverb-like_) still
       - (_conjunction-like_) or
+      ==
+  //
+    , `tshjang`
+    , [將](/entries/coeng#rendering-將)
+    ,
+      ==
+      - (_verb-like_) [to] entreat
+      ==
+  //
+    , `tshjang`
+    , [搶](/entries/coeng#rendering-搶)
+    ,
+      ==
+      - (_verb-like_) [to] knock (against)
+      ==
+  //
+    , `tshjang`
+    , [斨](/entries/coeng#rendering-斨)
+    ,
+      ==
+      - (_noun-like_) square-eyed-axe
+      ==
+  //
+    , `tshjang`
+    , [瑲](/entries/coeng#rendering-瑲)
+    ,
+      ==
+      - (_onomatopoeia_) ting
+      ==
+  //
+    , `tshjang`
+    , [蹌](/entries/coeng#rendering-蹌)
+    ,
+      ==
+      - (_verb-like_) [to] move, [to] fleet, (_met._) ^dignified
+      ==
+  //
+    , `tshjang`
+    , [鏘](/entries/coeng#rendering-鏘)
+    ,
+      ==
+      - (_onomatopoeia_) ting
       ==
   //
     , `tshje`
@@ -1990,6 +2060,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] copy
       ==
   //
+    , `tsrhaewng`
+    , [窗](/entries/coeng#rendering-窗)
+    ,
+      ==
+      - (_noun-like_) window
+      ==
+  //
     , `tsrheaj`
     , [差](/entries/caai#rendering-差)
     ,
@@ -2155,6 +2232,28 @@ window.onload = applyFilter;
       ==
       - (_adjective-like_) generous, ample
       - (_adjective-like_) gentle
+      ==
+  //
+    , `tsyhang`
+    , [昌](/entries/coeng#rendering-昌)
+    ,
+      ==
+      - (_adjective-like_) splendid
+      - (_adjective-like_) flourishing, abundant
+      ==
+  //
+    , `tsyhangH`
+    , [倡](/entries/coeng#rendering-倡)
+    ,
+      ==
+      - (_verb-like_) [to] lead [song]
+      ==
+  //
+    , `tsyhangH`
+    , [唱](/entries/coeng#rendering-唱)
+    ,
+      ==
+      - (_verb-like_) [to] lead [song]
       ==
   //
     , `tsyheX`
