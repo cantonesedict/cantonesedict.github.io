@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2026-01-19
+* %date-modified --> 2026-01-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1441,6 +1441,14 @@ C
   ==
   - Williams' 跳出是非場: Corrected _(4)sh(i/)_ (si4) to _sh(i/)(6)_ (si6).
   ==
+L
+  ====
+  * 【場】 (drjang)
+    ==
+    - (_noun-like_) arena
+    - (_noun-like_) field
+    ==
+  ====
 $$
 
 ### 塲4 | _(4)Ch(')(e/)ung_ [[coeng4]]
@@ -1536,6 +1544,13 @@ W
         the graduates of a district.
     ==
   ====
+L
+  ====
+  * 【庠】 (zjang)
+    ==
+    - (_noun-like_) academy
+    ==
+  ====
 $$
 
 ### 戕4 | _(4)Ts(')(e/)ung_ [[coeng4]]
@@ -1562,7 +1577,7 @@ W
         to wound;
     - _(4)ts(')(e/)ung ts(')(a/)k(9)_
         [[coeng4 caak6 戕賊]]
-        to kill and rob.
+        to kill ~~and rob~~ ``or injure``.
     ==
   ====
 C
@@ -1572,6 +1587,13 @@ C
     the intended meaning is 槍者歫也歫謂相抵爲害 (to do harm by collision),
     with an annotation of the Book of Poetry reading 戕殘也 (to harm cruelly).
   ==
+L
+  ====
+  * 【戕】 (dzjang)
+    ==
+    - (_verb-like_) [to] kill, [to] brutalise
+    ==
+  ====
 S
   ==
   - $戕zong1
@@ -1649,6 +1671,13 @@ W
         a single back wall for several houses.
     ==
   ====
+L
+  ====
+  * 【牆】 (dzjang)
+    ==
+    - (_noun-like_) wall
+    ==
+  ====
 $$
 
 ### 祥4 | _(4)Ts(')(e/)ung_ [[coeng4]]
@@ -1686,11 +1715,22 @@ W
         [[ci4 coeng4 慈祥]],
         kind-hearted.
     ==
+    --
+    [[Otherwise, an alternative form of 詳. **See $詳coeng4 for the canonical entry.**]]
+    --
   ====
 C
   ==
   - Williams' 不祥之兆: Changed _chi(u/)(6)_ (ziu6) to common reading _shi(u/)(6)_ (siu6).
   ==
+L
+  ====
+  * 【祥】 (zjang)
+    ==
+    - (_adjective-like_) auspicious
+    - (_noun-like_) auspice
+    ==
+  ====
 $$
 
 ### 翔4 | _(4)Ts(')(e/)ung_ [[coeng4]]
@@ -1714,6 +1754,13 @@ W
     - _(4)(u/)i (4)ts(')(e/)ung_
         [[wui4 coeng4 回翔]],
         to look back regretfully.
+    ==
+  ====
+L
+  ====
+  * 【翔】 (zjang)
+    ==
+    - (_verb-like_) [to] fly about, [to] soar
     ==
   ====
 $$
@@ -1777,6 +1824,13 @@ C
   ==
   - Williams' "tripe", 牛腸: Only tripe in the sense of entrails (specifically the intestines).
   ==
+L
+  ====
+  * 【腸】 (drjang)
+    ==
+    - (_noun-like_) bowel
+    ==
+  ====
 E
   ====
   - 【腸】 (coeng4-2)
@@ -1819,6 +1873,17 @@ W
       or sheep's peach.
     ==
   ====
+L
+  ====
+  * 【萇】 (drjang)
+    ==
+    - Used in [萇楚](/entries/coeng#rendering-萇楚).
+    ==
+  * 【萇楚】 (drjang tsrhjoX)
+    ==
+    - (_noun-like_) carambola
+    ==
+  ====
 $$
 
 ### 薔4 | _(4)Ts(')(e/)ung_ [[coeng4]]
@@ -1858,6 +1923,10 @@ R
   ⾔ + 6
 U
   U+8A73
+A
+  ==
+  - $祥4
+  ==
 F
   ==
   - (F1.91 詳) ::詳[備]詳悉細密也::
@@ -1891,6 +1960,19 @@ W
 C
   ==
   - Fan Wan entry: Corrected ⿰亻⿱十用 to 備.
+  ==
+L
+  ====
+  * 【詳】 (zjang)
+    ==
+    - (_verb-like_) [to] scrutinise
+    - (_adjective-like_) detailed
+    - (_verb-like_) [to] detail, [to] elaborate
+    ==
+  ====
+S
+  ==
+  - $詳joeng4 (TODO)
   ==
 $$
 
@@ -1963,6 +2045,13 @@ W
     - _(4)ch(')(e/)ung (1)k(')(u:)_
         [[coeng4 keoi1 長驅]],
         go directly there.
+    ==
+  ====
+L
+  ====
+  * 【長】 (drjang)
+    ==
+    - (_adjective-like_) long, (_met._) everlasting
     ==
   ====
 E

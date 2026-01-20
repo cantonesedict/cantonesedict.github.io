@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2026-01-01
+* %date-modified --> 2026-01-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -917,6 +917,15 @@ P
   ++
   1. Used in 長孫 (a compound surname).
   ++
+L
+  ====
+  * 【長-rising】 (trjangX)
+    ==
+    - (_verb-like_) [to] grow
+    - (_noun-like_) elder, leader
+    - (_verb-like_) [to] lead
+    ==
+  ====
 S
   ==
   - $長coeng4
@@ -1808,6 +1817,13 @@ P
   ++
   1. Excess or surplus (Kangxi: 餘也, 多也宂也剰也).
   ++
+L
+  ====
+  * 【長-departing】 (drjangH)
+    ==
+    - (_adjective-like_) surplus
+    ==
+  ====
 S
   ==
   - $長coeng4

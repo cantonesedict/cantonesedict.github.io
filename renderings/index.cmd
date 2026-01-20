@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-01-19
+* %date-modified --> 2026-01-20
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -461,6 +461,49 @@ window.onload = applyFilter;
       - (_adjective-like_) clear
       ==
   //
+    , `drjang`
+    , [場](/entries/coeng#rendering-場)
+    ,
+      ==
+      - (_noun-like_) arena
+      - (_noun-like_) field
+      ==
+  //
+    , `drjang`
+    , [腸](/entries/coeng#rendering-腸)
+    ,
+      ==
+      - (_noun-like_) bowel
+      ==
+  //
+    , `drjang`
+    , [萇](/entries/coeng#rendering-萇)
+    ,
+      ==
+      - Used in [萇楚](/entries/coeng#rendering-萇楚).
+      ==
+  //
+    , `drjang`
+    , [長](/entries/coeng#rendering-長)
+    ,
+      ==
+      - (_adjective-like_) long, (_met._) everlasting
+      ==
+  //
+    , `drjang tsrhjoX`
+    , [萇楚](/entries/coeng#rendering-萇楚)
+    ,
+      ==
+      - (_noun-like_) carambola
+      ==
+  //
+    , `drjangH`
+    , [長~(departing)](/entries/zoeng#rendering-長-departing)
+    ,
+      ==
+      - (_adjective-like_) surplus
+      ==
+  //
     , `drje`
     , [池](/entries/ci#rendering-池)
     ,
@@ -789,6 +832,20 @@ window.onload = applyFilter;
       - (_adjective-like_) concordant
       - (_verb-like_) [to] gather (up)
       - (_verb-like_) [to] compile
+      ==
+  //
+    , `dzjang`
+    , [戕](/entries/coeng#rendering-戕)
+    ,
+      ==
+      - (_verb-like_) [to] kill, [to] brutalise
+      ==
+  //
+    , `dzjang`
+    , [牆](/entries/coeng#rendering-牆)
+    ,
+      ==
+      - (_noun-like_) wall
       ==
   //
     , `dzje`
@@ -1447,6 +1504,15 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) ox-branch
+      ==
+  //
+    , `trjangX`
+    , [長~(rising)](/entries/zoeng#rendering-長-rising)
+    ,
+      ==
+      - (_verb-like_) [to] grow
+      - (_noun-like_) elder, leader
+      - (_verb-like_) [to] lead
       ==
   //
     , `trjenX`
@@ -2159,6 +2225,7 @@ window.onload = applyFilter;
       - (_noun-like_) pain, suffering
       - (_adjective-like_) thickset
       - (_adjective-like_) neat, splendid
+      - Used in [萇楚](/entries/coeng#rendering-萇楚).
       ==
   //
     , `tsrhju`
@@ -2574,6 +2641,37 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) wicked
+      ==
+  //
+    , `zjang`
+    , [庠](/entries/coeng#rendering-庠)
+    ,
+      ==
+      - (_noun-like_) academy
+      ==
+  //
+    , `zjang`
+    , [祥](/entries/coeng#rendering-祥)
+    ,
+      ==
+      - (_adjective-like_) auspicious
+      - (_noun-like_) auspice
+      ==
+  //
+    , `zjang`
+    , [翔](/entries/coeng#rendering-翔)
+    ,
+      ==
+      - (_verb-like_) [to] fly about, [to] soar
+      ==
+  //
+    , `zjang`
+    , [詳](/entries/coeng#rendering-詳)
+    ,
+      ==
+      - (_verb-like_) [to] scrutinise
+      - (_adjective-like_) detailed
+      - (_verb-like_) [to] detail, [to] elaborate
       ==
   //
     , `zjo`
