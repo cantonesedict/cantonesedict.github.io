@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coi
-* %date-modified --> 2025-12-20
+* %date-modified --> 2026-01-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -208,6 +208,13 @@ C
   ==
   - Williams' 起個彩: Corrected _kwo(3)_ (gwo3) to _ko(3)_ (go3).
   ==
+L
+  ====
+  * 【彩】 (tshojX)
+    ==
+    - (_noun-like_) colour, variegation, brilliance
+    ==
+  ====
 E
   ====
   - 【彩數】 (coi2 sou3)
@@ -255,6 +262,13 @@ W
     - _(2)ts(')oi (1)f(a/)_
         [[coi2 faa1 採花]],
         to gather flowers.
+    ==
+  ====
+L
+  ====
+  * 【採】 (tshojX)
+    ==
+    - (_verb-like_) [to] pick
     ==
   ====
 $$
@@ -348,6 +362,13 @@ W
     - _(4)ling (2)ts(')oi_
         [[ling4 coi2 綾綵]],
         colored sarsnet, used for linings.
+    ==
+  ====
+L
+  ====
+  * 【綵】 (tshojX)
+    ==
+    - (_noun-like_) colourful-silk
     ==
   ====
 $$
@@ -451,6 +472,13 @@ W
         beyond the frontier.
     ==
   ====
+L
+  ====
+  * 【塞】 (sojH)
+    ==
+    - (_noun-like_) frontier
+    ==
+  ====
 S
   ==
   - $塞sak1 (TODO)
@@ -527,6 +555,13 @@ C
   - Williams' 生菜: Changed _(1)shang_ (sang1)
     to vernacular reading _(1)sh(a/)ng_ (saang1).
   ==
+L
+  ====
+  * 【菜】 (tshojH)
+    ==
+    - (_noun-like_) vegetable
+    ==
+  ====
 E
   ====
   - 【菜】 (coi3)
@@ -546,6 +581,10 @@ R
   ⾋ + 11
 U
   U+8521
+V
+  ==
+  - saat3 (per 《集韻》桑割切 for "banish" and "kill" senses)
+  ==
 F
   ==
   - (F2.45 菜) 國名又大龜也又姓
@@ -562,9 +601,17 @@ W
   ====
 P
   ++
+  1. To put down, to kill.
   1. A great turtle (Kangxi: 蔡國君之守龜 etc.).
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【蔡】 (sat)
+    ==
+    - (_verb-like_) [to] banish, [to] put down
+    ==
+  ====
 $$
 
 ### 賽3 | _Ts(')oi(3)_ [[coi3]]
@@ -694,6 +741,16 @@ W
     --
     [[Otherwise, an alternative form of 纔. **See $纔coi4 for the canonical entry.**]]
     --
+    --
+    [[Otherwise, an alternative form of 裁. **See $裁coi4 for the canonical entry.**]]
+    --
+  ====
+L
+  ====
+  * 【才】 (dzoj)
+    ==
+    - (_noun-like_) talent, capability
+    ==
   ====
 $$
 
@@ -745,6 +802,14 @@ W
     --
     [[Otherwise, an alternative form of 才. **See $才coi4 for the canonical entry.**]]
     --
+  ====
+L
+  ====
+  * 【材】 (dzoj)
+    ==
+    - (_noun-like_) timber
+    - (_noun-like_) material
+    ==
   ====
 $$
 
@@ -807,6 +872,7 @@ U
   U+88C1
 A
   ==
+  - $才4
   - $財4
   ==
 F
@@ -851,6 +917,14 @@ P
   ++
   1. To judge, to adjudicate, to make a ruling (Kangxi: 鑒別也).
   ++
+L
+  ====
+  * 【裁】 (dzoj)
+    ==
+    - (_verb-like_) [to] cut, [to] tailor
+    - (_verb-like_) [to] rule (on), [to] resolve
+    ==
+  ====
 $$
 
 ### 財4 | _(4)Ts(')oi_ [[coi4]]
@@ -926,4 +1000,11 @@ C
   - Williams' "bribes": This is a misreading of Kangxi 賂也.
   - Williams' 財可以通神: Corrected _(2)(i/)_ (ji2) to _(5)(i/)_ (ji5).
   ==
+L
+  ====
+  * 【財】 (dzoj)
+    ==
+    - (_noun-like_) wealth
+    ==
+  ====
 $$

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-01-20
+* %date-modified --> 2026-01-22
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -977,6 +977,36 @@ window.onload = applyFilter;
       - (_verb-like_) [to] change countenance
       ==
   //
+    , `dzoj`
+    , [才](/entries/coi#rendering-才)
+    ,
+      ==
+      - (_noun-like_) talent, capability
+      ==
+  //
+    , `dzoj`
+    , [材](/entries/coi#rendering-材)
+    ,
+      ==
+      - (_noun-like_) timber
+      - (_noun-like_) material
+      ==
+  //
+    , `dzoj`
+    , [裁](/entries/coi#rendering-裁)
+    ,
+      ==
+      - (_verb-like_) [to] cut, [to] tailor
+      - (_verb-like_) [to] rule (on), [to] resolve
+      ==
+  //
+    , `dzoj`
+    , [財](/entries/coi#rendering-財)
+    ,
+      ==
+      - (_noun-like_) wealth
+      ==
+  //
     , `dzok`
     , [賊](/entries/caak#rendering-賊)
     ,
@@ -1178,6 +1208,13 @@ window.onload = applyFilter;
       - (_adverb-like_) (dancing) drunkenly, on [and] on
       ==
   //
+    , `sat`
+    , [蔡](/entries/coi#rendering-蔡)
+    ,
+      ==
+      - (_verb-like_) [to] banish, [to] put down
+      ==
+  //
     , `sej`
     , [棲](/entries/cai#rendering-棲)
     ,
@@ -1213,6 +1250,13 @@ window.onload = applyFilter;
       ==
       - (_verb-like_) [to] resemble, (_met._) [to] emulate
       - Used in [不肖](/entries/ciu#rendering-不肖).
+      ==
+  //
+    , `sojH`
+    , [塞](/entries/coi#rendering-塞)
+    ,
+      ==
+      - (_noun-like_) frontier
       ==
   //
     , `sreamX`
@@ -1972,6 +2016,34 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) brittle
+      ==
+  //
+    , `tshojX`
+    , [彩](/entries/coi#rendering-彩)
+    ,
+      ==
+      - (_noun-like_) colour, variegation, brilliance
+      ==
+  //
+    , `tshojX`
+    , [採](/entries/coi#rendering-採)
+    ,
+      ==
+      - (_verb-like_) [to] pick
+      ==
+  //
+    , `tshojX`
+    , [綵](/entries/coi#rendering-綵)
+    ,
+      ==
+      - (_noun-like_) colourful-silk
+      ==
+  //
+    , `tshojH`
+    , [菜](/entries/coi#rendering-菜)
+    ,
+      ==
+      - (_noun-like_) vegetable
       ==
   //
     , `tshom`
