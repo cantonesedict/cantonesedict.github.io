@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cok
-* %date-modified --> 2026-01-01
+* %date-modified --> 2026-01-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -195,7 +195,7 @@ W
     ==
   - [[Page~592 錯(8)]]
     ==
-    - To ~~wash or~~ plate with gold [[Kangxi: 金涂也]];
+    - To ~~wash~~ ``inlay`` or plate with gold [[Kangxi: 金涂也]];
     - the stripes, striæ, streaks, &c., in stones or fabrics [[Kangxi: 錯衡文衡也]];
     - to file or polish [[Kangxi: 鑢也, 治玉石曰錯]];
     - to tattoo [[Kangxi: 錯臂亦文身謂以丹靑錯畫其臂]];
@@ -208,6 +208,18 @@ W
     --
     [[Otherwise, an alternative form of 剒 (for the vernacular "choppiness" and "jolt" senses). **See $剒cok3 for the canonical entry.**]]
     --
+  ====
+L
+  ====
+  * 【錯】 (tshak)
+    ==
+    - (_noun-like_) whetstone
+    - (_verb-like_) [to] inlay, [to] tattoo
+    - (_verb-like_) [to] cross (diagonally)
+    - (_adjective-like_) mixed, erroneous, confused
+    - (_adjective-like_) diagonal
+    - (_adjective-like_) wary
+    ==
   ====
 S
   ==

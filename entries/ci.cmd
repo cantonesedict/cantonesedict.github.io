@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2026-01-10
+* %date-modified --> 2026-01-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1415,7 +1415,7 @@ L
   ====
   * 【齒】 (tsyhiX)
     ==
-    - (_noun-like_) front-tooth, tooth
+    - (_noun-like_) front-tooth, tooth, (_met._) age
     ==
   ====
 $$

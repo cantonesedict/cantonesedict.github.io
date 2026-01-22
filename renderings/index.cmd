@@ -1609,6 +1609,18 @@ window.onload = applyFilter;
       - (_adjective-like_) brilliant-white
       ==
   //
+    , `tshak`
+    , [錯](/entries/cok#rendering-錯)
+    ,
+      ==
+      - (_noun-like_) whetstone
+      - (_verb-like_) [to] inlay, [to] tattoo
+      - (_verb-like_) [to] cross (diagonally)
+      - (_adjective-like_) mixed, erroneous, confused
+      - (_adjective-like_) diagonal
+      - (_adjective-like_) wary
+      ==
+  //
     , `tshan`
     , [餐](/entries/caan#rendering-餐)
     ,
@@ -2451,7 +2463,7 @@ window.onload = applyFilter;
     , [齒](/entries/ci#rendering-齒)
     ,
       ==
-      - (_noun-like_) front-tooth, tooth
+      - (_noun-like_) front-tooth, tooth, (_met._) age
       ==
   //
     , `tsyhiH`
