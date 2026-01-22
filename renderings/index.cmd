@@ -743,6 +743,13 @@ window.onload = applyFilter;
       - (_adjective-like_) fragmentary
       ==
   //
+    , `dzang`
+    , [藏](/entries/cong#rendering-藏)
+    ,
+      ==
+      - (_verb-like_) [to] store (away)
+      ==
+  //
     , `dzej`
     , [懠](/entries/cai#rendering-懠)
     ,
@@ -1106,6 +1113,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) persimmon
+      ==
+  //
+    , `dzrjang`
+    , [牀](/entries/cong#rendering-牀)
+    ,
+      ==
+      - (_noun-like_) bed
       ==
   //
     , `dzrjo`
@@ -1637,11 +1651,48 @@ window.onload = applyFilter;
       - (_adjective-like_) splendid, beaming
       ==
   //
+    , `tshang`
+    , [倉](/entries/cong#rendering-倉)
+    ,
+      ==
+      - (_noun-like_) granary
+      ==
+  //
+    , `tshang`
+    , [蒼](/entries/cong#rendering-蒼)
+    ,
+      ==
+      - (_adjective-like_) azure, verdant
+      ==
+  //
+    , `tshang`
+    , [鶬](/entries/cong#rendering-鶬)
+    ,
+      ==
+      - (_noun-like_) crane
+      - Used in [鶬鶊](/entries/cong#rendering-鶬鶊).
+      ==
+  //
+    , `tshang kaeng`
+    , [鶬鶊](/entries/cong#rendering-鶬鶊)
+    ,
+      ==
+      - (_noun-like_) oriole
+      ==
+  //
     , `tshej`
     , [妻~(noun)](/entries/cai#rendering-妻-noun)
     ,
       ==
       - (_noun-like_) wife
+      ==
+  //
+    , `tshej`
+    , [淒](/entries/cai#rendering-淒)
+    ,
+      ==
+      - (_adjective-like_) cold
+      - (_adjective-like_) sad
       ==
   //
     , `tshej`
@@ -1847,6 +1898,13 @@ window.onload = applyFilter;
   //
     , `tshjang`
     , [鏘](/entries/coeng#rendering-鏘)
+    ,
+      ==
+      - (_onomatopoeia_) ting
+      ==
+  //
+    , `tshjang`
+    , [鶬](/entries/coeng#rendering-鶬)
     ,
       ==
       - (_onomatopoeia_) ting
@@ -2284,6 +2342,35 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) uneven
+      ==
+  //
+    , `tsrhjang`
+    , [創](/entries/cong#rendering-創)
+    ,
+      ==
+      - (_verb-like_) [to] wound
+      ==
+  //
+    , `tsrhjang`
+    , [瘡](/entries/cong#rendering-瘡)
+    ,
+      ==
+      - (_noun-like_) boil
+      ==
+  //
+    , `tsrhjangH`
+    , [創~(departing)](/entries/cong#rendering-創-departing)
+    ,
+      ==
+      - (_verb-like_) [to] create, [to] initiate
+      - (_verb-like_) [to] take heed
+      ==
+  //
+    , `tsrhjangH`
+    , [愴](/entries/cong#rendering-愴)
+    ,
+      ==
+      - (_adjective-like_) grieved
       ==
   //
     , `tsrhje`

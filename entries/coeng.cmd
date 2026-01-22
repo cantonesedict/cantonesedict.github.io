@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2026-01-20
+* %date-modified --> 2026-01-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -69,6 +69,7 @@ $$
 - $鏘1
 - $閶1
 - $鯧1
+- $鶬1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -896,6 +897,41 @@ P
   ++
   1. The pomfret (Kangxi: 鯧鯸魚名, 閩人譌爲䱽魚).
   ++
+$$
+
+###+ 鶬1 | _(1)Ts(')(e/)ung_ [[coeng1]]
+
+$$
+R
+  ⿃ + 10
+U
+  U+9DAC
+F
+  ==
+  - (F1.95 鶬) ::[鞗]革聲之和也又音倉鶬[鶊]鳥名::
+  ==
+W
+  [[Not present]]
+C
+  ==
+  - Fan Wan entry: Corrected ⿱𥫗革 to 鞗 and corrected ⿰肛鳥 to 鶊.
+  ==
+P
+  ++
+  1. (_onomatopoeia_) The sound of harmonising tinkling (Kangxi: 聲和也).
+  1. Adorned with metal (Kangxi: 金飾貌).
+  ++
+L
+  ====
+  * 【鶬】 (tshjang)
+    ==
+    - (_onomatopoeia_) ting
+    ==
+  ====
+S
+  ==
+  - $鶬cong1
+  ==
 $$
 
 

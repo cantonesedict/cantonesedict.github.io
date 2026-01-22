@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2026-01-14
+* %date-modified --> 2026-01-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -299,6 +299,14 @@ W
     --
     [[...]]
     --
+  ====
+L
+  ====
+  * 【淒】 (tshej)
+    ==
+    - (_adjective-like_) cold
+    - (_adjective-like_) sad
+    ==
   ====
 $$
 

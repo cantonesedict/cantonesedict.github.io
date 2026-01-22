@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cong
-* %date-modified --> 2026-01-01
+* %date-modified --> 2026-01-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -106,6 +106,12 @@ W
         [[cong1 cyut3 倉卒]]
         ~~flurried, perturbed, alarmed~~ ``hurried, hasty``.
     ==
+    --
+    [[Otherwise, an alternative form of 鶬. **See $鶬cong1 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 蒼. **See $蒼cong1 for the canonical entry.**]]
+    --
   - [[Page~593 (1)蒼; here normalised to 倉]]
     ==
     - Occurs used for the last [[倉]], hastily;
@@ -114,6 +120,13 @@ W
         [[cong1 wong4 倉皇]],
         hurried, flighty [[Kangxi 蒼: 蒼黃急遽貌]];
     - [[...]].
+    ==
+  ====
+L
+  ====
+  * 【倉】 (tshang)
+    ==
+    - (_noun-like_) granary
     ==
   ====
 $$
@@ -176,6 +189,13 @@ C
     the common reading departing-tone _ch(')ong(3)_ (cong3) is not unattested;
     Kangxi has ::又《唐韻》初亮切瘡去聲始也造也[...]又傷也《前漢匈奴傳》人民創艾戰鬭::.
   ==
+L
+  ====
+  * 【創】 (tsrhjang)
+    ==
+    - (_verb-like_) [to] wound
+    ==
+  ====
 S
   ==
   - $創cong3
@@ -286,6 +306,13 @@ C
   - Williams' 火釘瘡: Changed _(1)ting_ (ding1)
     to vernacular reading _(1)teng_ (deng1).
   ==
+L
+  ====
+  * 【瘡】 (tsrhjang)
+    ==
+    - (_noun-like_) boil
+    ==
+  ====
 $$
 
 ### 艙1 | _(1)Ts(')ong_ [[cong1]]
@@ -342,6 +369,10 @@ R
   ⾋ + 10
 U
   U+84BC
+A
+  ==
+  - $倉1
+  ==
 F
   ==
   - (F1.95 蒼) 靑色又蒼天
@@ -382,6 +413,13 @@ P
   ++
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【蒼】 (tshang)
+    ==
+    - (_adjective-like_) azure, verdant
+    ==
+  ====
 $$
 
 ###+ 䚎1 | _(1)Ch(')ong_ [[cong1]]
@@ -470,6 +508,10 @@ R
   ⿃ + 10
 U
   U+9DAC
+A
+  ==
+  - $倉1
+  ==
 F
   ==
   - (F1.95 鶬) 鶬鶊鳥名
@@ -489,6 +531,26 @@ W
 C
   ==
   - Williams' 鶬鴰: Changed _k(u/)t(8)_ (gut3) to common reading _k(')(u/)t(8)_ (kut3).
+  ==
+P
+  ++
+  1. Used in 鶬鶊 (oriole) (Kangxi: 鶬鶊鳥名本作倉).
+  ++
+L
+  ====
+  * 【鶬】 (tshang)
+    ==
+    - (_noun-like_) crane
+    - Used in [鶬鶊](/entries/cong#rendering-鶬鶊).
+    ==
+  * 【鶬鶊】 (tshang kaeng)
+    ==
+    - (_noun-like_) oriole
+    ==
+  ====
+S
+  ==
+  - $鶬coeng1
   ==
 $$
 
@@ -830,6 +892,14 @@ P
   ++
   1. To take heed or warning (Kangxi: 懲也).
   ++
+L
+  ====
+  * 【創-departing】 (tsrhjangH)
+    ==
+    - (_verb-like_) [to] create, [to] initiate
+    - (_verb-like_) [to] take heed
+    ==
+  ====
 S
   ==
   - $創cong1
@@ -863,6 +933,13 @@ W
     - _~~(2)ch(')ong~~ ``ch(')ong(3)`` ch(')ak(7)_
         [[cong3 cak1 愴惻]]
         a wounded heart, distressed.
+    ==
+  ====
+L
+  ====
+  * 【愴】 (tsrhjangH)
+    ==
+    - (_adjective-like_) grieved
     ==
   ====
 S
@@ -993,6 +1070,13 @@ C
   ==
   - Fan Wan entry: Corrected 㮼 to 榻.
   ==
+L
+  ====
+  * 【牀】 (dzrjang)
+    ==
+    - (_noun-like_) bed
+    ==
+  ====
 $$
 
 ###+ 臧4 | _(4)Ts(')ong_ [[cong4]]
@@ -1074,6 +1158,13 @@ C
   ==
   - Fan Wan entry: Corrected 慝 to 匿, and corrected malformed 蓄.
   ==
+L
+  ====
+  * 【藏】 (dzang)
+    ==
+    - (_verb-like_) [to] store (away)
+    ==
+  ====
 S
   ==
   - $藏zong6
