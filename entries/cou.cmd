@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2026-01-01
+* %date-modified --> 2026-01-24
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -96,6 +96,13 @@ C
   ==
   - Williams' 下操: Changed _(5)h(a/)_ (haa5) to modern _h(a/)(6)_ (haa6).
   ==
+L
+  ====
+  * 【操-verb】 (tshaw)
+    ==
+    - (_verb-like_) [to] hold, [to] handle
+    ==
+  ====
 S
   ==
   - $操cou3
@@ -176,6 +183,13 @@ P
   ++
   1. Cylindrically thick.
   ++
+L
+  ====
+  * 【粗】 (tshu)
+    ==
+    - (_adjective-like_) coarse, thick
+    ==
+  ====
 $$
 
 ### 麤1 | _(1)Ts(')(o\)_ [[cou1]]
@@ -340,6 +354,15 @@ C
   - Williams' 草菅人命: Corrected _(2)k(u/)n_ (gun2) to _(1)k(a/)n_ (gaan1).
     Williams has likely misread 菅 as 管.
   ==
+L
+  ====
+  * 【草】 (tshawX)
+    ==
+    - (_noun-like_) grass, herbage
+    - (_adjective-like_) rough, careless
+    - (_adjective-like_) travailed
+    ==
+  ====
 E
   ====
   - 【草花頭】 (cou2 faa1 tau4-2)
@@ -481,6 +504,13 @@ C
     《集韻》 has the reading 七到切, explained 貪也不安也
     (covering both the "greed" and "distressed" senses).
   ==
+L
+  ====
+  * 【懆】 (tshawX)
+    ==
+    - (_adjective-like_) distraught
+    ==
+  ====
 S
   ==
   - ($懆cou2)
@@ -528,6 +558,14 @@ W
     [[...]]
     --
   ====
+L
+  ====
+  * 【措】 (tshuH)
+    ==
+    - (_verb-like_) [to] place, [to] put, [to] set
+    - (_verb-like_) [to] apply
+    ==
+  ====
 S
   ==
   - $措zaak3
@@ -557,6 +595,13 @@ P
   ++
   1. Zither music (Kangxi: 琴曲也).
   ++
+L
+  ====
+  * 【操-noun】 (tshawH)
+    ==
+    - (_noun-like_) integrity, moral-character
+    ==
+  ====
 S
   ==
   - $操cou1
@@ -593,6 +638,13 @@ P
   ++
   1. To wash the hands (per 《說文》洒手也).
   ++
+L
+  ====
+  * 【澡】 (tsawX)
+    ==
+    - (_verb-like_) [to] wash
+    ==
+  ====
 S
   ==
   - ($澡zou2)
@@ -637,6 +689,13 @@ C
   ==
   - Williams' 風高燥物: Usually 風高物燥.
   ==
+L
+  ====
+  * 【燥】 (sawH, sawX)
+    ==
+    - (_adjective-like_) parched
+    ==
+  ====
 $$
 
 ### 糙3 | _Ts(')(o\)(3)_ [[cou3]]
@@ -694,6 +753,13 @@ C
   - Williams' 人多鼓譟: Corrected _ts'(o\)(3)_ (^with an apostrophe)
     to _ts(')(o\)(3)_ (^with an aspirate).
   ==
+L
+  ====
+  * 【譟】 (sawH)
+    ==
+    - (_verb-like_) [to] clamour
+    ==
+  ====
 $$
 
 ### 躁3 | _Ts(')(o\)(3)_ [[cou3]]
@@ -706,6 +772,11 @@ U
 A
   ==
   - $燥3
+  - 趮
+  ==
+V
+  ==
+  - zou3 (per 《廣韻》則到切)
   ==
 F
   ==
@@ -721,8 +792,8 @@ W
     ==
   - [[Page~587 躁(3)]]
     ==
-    - Hasty, heedless, precipitate [[Kangxi: 疾也]];
-    - ~~to go quickly;~~
+    - Hasty, heedless, precipitate;
+    - to go quickly [[Kangxi: 疾也]];
     - dried up by the heat, and therefore light [[Kangxi: 躁燥也物燥乃動而飛揚也]];
     - fierce, violent;
     - _ts(')(o\)(3) p(o\)(6)_
@@ -736,8 +807,16 @@ W
   ====
 P
   ++
-  1. To act, to act up (Kangxi: 躁猶動也).
+  1. To move, to stir.
   ++
+L
+  ====
+  * 【躁】 (tsawH)
+    ==
+    - (_adjective-like_) rash
+    - (_verb-like_) [to] move (hastily), [to] stir
+    ==
+  ====
 $$
 
 ### 造3 | _Ts(')(o\)(3)_ [[cou3]]
@@ -763,13 +842,26 @@ W
     - to contain [[Kangxi: 納也, 造猶內也內與納同]];
     - _ts(')(o\)(3) ts(')z'(3)_
         [[cou3 ci3 造次]]
-        hurried, thoughtless [[Kangxi: 造次急遽也]].
+        hurried [[Kangxi: 造次急遽也]], thoughtless.
     ==
   ====
 C
   ==
   - Fan Wan entry: Corrected ⿰音旨 to 詣.
   ==
+L
+  ====
+  * 【造】 (tshawH)
+    ==
+    - (_verb-like_) [to] go unto, [to] attain
+    - (_verb-like_) [to] contain
+    - Used in [造次](/entries/cou#rendering-造次).
+    ==
+  * 【造次】 (tshawH tshijH)
+    ==
+    - (_adjective-like_) abrupt
+    ==
+  ====
 S
   ==
   - $造cou5
@@ -980,6 +1072,16 @@ W
         [[cou4 ze6 徂謝]]
         to fade, as flowers.
     ==
+    --
+    [[Otherwise, an alternative form of 殂. **See $殂cou4 for the canonical entry.**]]
+    --
+  ====
+L
+  ====
+  * 【徂】 (dzu)
+    ==
+    - (_verb-like_) [to] go (unto)
+    ==
   ====
 $$
 
@@ -1001,7 +1103,7 @@ W
     - ~~A sort of revising judge~~;
     - ~~a judge of appeals;~~
     - a place where officers meet [[Kangxi: 曹羣也]];
-    - a company, a class [[Kangxi: 曹輩也]];
+    - a company, a class``, a herd`` [[Kangxi: 曹輩也]];
     - denotes the plural of persons;
     - _luk(9) (4)ts(')(o\)_
         [[luk6 cou4 六曹]],
@@ -1039,6 +1141,13 @@ P
   1. Plaintiff and defendant (Kangxi: ::獄之兩[曹]也:: etc.).
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【曹】 (dzaw)
+    ==
+    - (_noun-like_) company, herd
+    ==
+  ====
 $$
 
 ### 槽4 | _(4)Ts(')(o\)_ [[cou4]]
@@ -1086,6 +1195,10 @@ R
   ⽍ + 5
 U
   U+6B82
+A
+  ==
+  - $徂4
+  ==
 F
   ==
   - (F2.12 殂 _(4)Ts(')(u/)_) 死也㓕也
@@ -1100,6 +1213,13 @@ W
     - _(4)ts(')(o\) lok(9)_
         [[cou4 lok6 殂落]]
         to pass away, to die.
+    ==
+  ====
+L
+  ====
+  * 【殂】 (dzu)
+    ==
+    - (_verb-like_) [to] go [on], (_met._) [to] pass [away]
     ==
   ====
 $$
@@ -1187,6 +1307,14 @@ W
     - _(4)ts(')ai (4)ts(')(o\)_
         [[cai4 cou4 蠐螬]],
         grubs found in filth, which curl themselves up.
+    ==
+  ====
+L
+  ====
+  * 【螬】 (dzaw)
+    ==
+    - (_noun-like_) grub
+    - Used in [蠐螬](/entries/cai#rendering-蠐螬).
     ==
   ====
 $$

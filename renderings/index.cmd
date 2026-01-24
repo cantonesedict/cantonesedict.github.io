@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-01-22
+* %date-modified --> 2026-01-24
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -750,6 +750,21 @@ window.onload = applyFilter;
       - (_verb-like_) [to] store (away)
       ==
   //
+    , `dzaw`
+    , [曹](/entries/cou#rendering-曹)
+    ,
+      ==
+      - (_noun-like_) company, herd
+      ==
+  //
+    , `dzaw`
+    , [螬](/entries/cou#rendering-螬)
+    ,
+      ==
+      - (_noun-like_) grub
+      - Used in [蠐螬](/entries/cai#rendering-蠐螬).
+      ==
+  //
     , `dzej`
     , [懠](/entries/cai#rendering-懠)
     ,
@@ -768,7 +783,7 @@ window.onload = applyFilter;
     , [蠐](/entries/cai#rendering-蠐)
     ,
       ==
-      - Used in [蝤蠐](/entries/cai#rendering-蝤蠐).
+      - Used in [蠐螬](/entries/cai#rendering-蠐螬), [蝤蠐](/entries/cai#rendering-蝤蠐).
       ==
   //
     , `dzej`
@@ -778,6 +793,13 @@ window.onload = applyFilter;
       - (_adjective-like_) equal, uniform
       - (_verb-like_) [to] equal, [to] uniform, (_met._) [to] put in order
       - (_adjective-like_) together, complete
+      ==
+  //
+    , `dzej dzaw`
+    , [蠐螬](/entries/cai#rendering-蠐螬)
+    ,
+      ==
+      - (_noun-like_) scarab grub
       ==
   //
     , `dzejX`
@@ -974,7 +996,7 @@ window.onload = applyFilter;
     , [蝤蠐](/entries/cai#rendering-蝤蠐)
     ,
       ==
-      - (_noun-like_) tree-grub
+      - (_noun-like_) tree grub
       ==
   //
     , `dzjuwX`
@@ -1136,6 +1158,20 @@ window.onload = applyFilter;
       - (_noun-like_) chick
       ==
   //
+    , `dzu`
+    , [徂](/entries/cou#rendering-徂)
+    ,
+      ==
+      - (_verb-like_) [to] go (unto)
+      ==
+  //
+    , `dzu`
+    , [殂](/entries/cou#rendering-殂)
+    ,
+      ==
+      - (_verb-like_) [to] go [on], (_met._) [to] pass [away]
+      ==
+  //
     , `dzwaX`
     , [坐~(verb)](/entries/zo#rendering-坐-verb)
     ,
@@ -1227,6 +1263,27 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] banish, [to] put down
+      ==
+  //
+    , `sawX`
+    , [燥](/entries/cou#rendering-燥)
+    ,
+      ==
+      - (_adjective-like_) parched
+      ==
+  //
+    , `sawH`
+    , [燥](/entries/cou#rendering-燥)
+    ,
+      ==
+      - (_adjective-like_) parched
+      ==
+  //
+    , `sawH`
+    , [譟](/entries/cou#rendering-譟)
+    ,
+      ==
+      - (_verb-like_) [to] clamour
       ==
   //
     , `sej`
@@ -1580,6 +1637,21 @@ window.onload = applyFilter;
       - (_verb-like_) [to] twist
       ==
   //
+    , `tsawX`
+    , [澡](/entries/cou#rendering-澡)
+    ,
+      ==
+      - (_verb-like_) [to] wash
+      ==
+  //
+    , `tsawH`
+    , [躁](/entries/cou#rendering-躁)
+    ,
+      ==
+      - (_adjective-like_) rash
+      - (_verb-like_) [to] move (hastily), [to] stir
+      ==
+  //
     , `tsemH`
     , [僭](/entries/cim#rendering-僭)
     ,
@@ -1680,6 +1752,52 @@ window.onload = applyFilter;
       - (_noun-like_) oriole
       ==
   //
+    , `tshaw`
+    , [操~(verb)](/entries/cou#rendering-操-verb)
+    ,
+      ==
+      - (_verb-like_) [to] hold, [to] handle
+      ==
+  //
+    , `tshawX`
+    , [懆](/entries/cou#rendering-懆)
+    ,
+      ==
+      - (_adjective-like_) distraught
+      ==
+  //
+    , `tshawX`
+    , [草](/entries/cou#rendering-草)
+    ,
+      ==
+      - (_noun-like_) grass, herbage
+      - (_adjective-like_) rough, careless
+      - (_adjective-like_) travailed
+      ==
+  //
+    , `tshawH`
+    , [操~(noun)](/entries/cou#rendering-操-noun)
+    ,
+      ==
+      - (_noun-like_) integrity, moral-character
+      ==
+  //
+    , `tshawH`
+    , [造](/entries/cou#rendering-造)
+    ,
+      ==
+      - (_verb-like_) [to] go unto, [to] attain
+      - (_verb-like_) [to] contain
+      - Used in [造次](/entries/cou#rendering-造次).
+      ==
+  //
+    , `tshawH tshijH`
+    , [造次](/entries/cou#rendering-造次)
+    ,
+      ==
+      - (_adjective-like_) abrupt
+      ==
+  //
     , `tshej`
     , [妻~(noun)](/entries/cai#rendering-妻-noun)
     ,
@@ -1771,6 +1889,7 @@ window.onload = applyFilter;
       - (_verb-like_) [to] come next
       - (_noun-like_) sequence
       - (_verb-like_) [to] camp, [to] lodge
+      - Used in [造次](/entries/cou#rendering-造次).
       ==
   //
     , `tshim`
@@ -2132,6 +2251,21 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) outside-horse
+      ==
+  //
+    , `tshu`
+    , [粗](/entries/cou#rendering-粗)
+    ,
+      ==
+      - (_adjective-like_) coarse, thick
+      ==
+  //
+    , `tshuH`
+    , [措](/entries/cou#rendering-措)
+    ,
+      ==
+      - (_verb-like_) [to] place, [to] put, [to] set
+      - (_verb-like_) [to] apply
       ==
   //
     , `tshuwX`

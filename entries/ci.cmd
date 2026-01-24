@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2026-01-22
+* %date-modified --> 2026-01-24
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1850,6 +1850,7 @@ L
     - (_verb-like_) [to] come next
     - (_noun-like_) sequence
     - (_verb-like_) [to] camp, [to] lodge
+    - Used in [造次](/entries/cou#rendering-造次).
     ==
   ====
 $$
