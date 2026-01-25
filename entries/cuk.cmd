@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cuk
-* %date-modified --> 2026-01-02
+* %date-modified --> 2026-01-26
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -136,12 +136,19 @@ C
   - Broadly, there are two interpretations of this character:
     ++
     1. To uplift (《說文》起也, defended by 段玉裁's annotations); and
-    1. To sustain (per 《朱傳》, 《箋》, 《正義》 as appears in Kangxi).
+    1. To sustain or to cherish (per 《朱傳》, 《箋》, 《正義》 as appears in Kangxi).
     ++
   - Williams' 慉驕: This is a misreading of Kangxi ::[慉]驕也::,
     which is an explanation of meaning (to be punctuated 慉、驕也),
     rather than an example of a two-character phrase.
   ==
+L
+  ====
+  * 【慉】 (xjuwk)
+    ==
+    - (_verb-like_) [to] cherish, [to] uplift
+    ==
+  ====
 $$
 
 ### 搐1 | _Ch(')uk(7)_ [[cuk1]]
@@ -207,6 +214,13 @@ P
   ++
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【束】 (syowk)
+    ==
+    - (_verb-like_) [to] bundle, [to] bind
+    ==
+  ====
 $$
 
 ###+ 樕1 | _Ts(')uk(7)_ [[cuk1]]
@@ -238,6 +252,14 @@ C
   ==
   - Fan Wan entry: Corrected headword ⿰木敇 to {𣙙=⿰木敕}.
   ==
+L
+  ====
+  * 【樕】 (suwk)
+    ==
+    - (_noun-like_) oak
+    - (_noun-like_) shrub
+    ==
+  ====
 $$
 
 ### {𣙙=⿰木敕}1 | _Ts(')uk(7)_ [[cuk1]]
@@ -317,7 +339,7 @@ C
     ==
     - 《廣韻》 has two headline readings:
       ++
-      1. 丑救切 _ch(')au(3)_ (cau3) for the "livestock sense"; and
+      1. 丑救切 _ch(')au(3)_ (cau3) for the "livestock" sense; and
       2. 許竹切 _huk(7)_ (huk1) for the "rear" sense.
       ++
       But within these two entries, it also provides alternative readings
@@ -328,7 +350,7 @@ C
       ++
       1. 丑六切 _ch(')uk(7)_ (cuk1) for "rearing-field" (田畜也),
          "gather" (積也), and "restrain" (止也), among other senses;
-      1. 許六切 _huk(7)_ (huk1) for "rear" (養也), "tolerate" (容也),
+      1. 許六切 _huk(7)_ (huk1) for "rear" (養也), "accommodate" (容也),
          "livestock" (六畜) (with a note that 今人{𠀤=⿱夶一}讀作昌六反),
          and "obey" (順也), among other senses;
       1. 許救切 _yau(3)_ (jau3) for "non-working livestock" (養之曰畜用之曰牲); and
@@ -336,6 +358,18 @@ C
       ++
     ==
     Modern Cantonese simply merges all readings into _ch(')uk(7)_ (cuk1).
+  ====
+L
+  ====
+  * 【畜-noun】 (trhjuwH, xjuwk)
+    ==
+    - (_noun-like_) livestock
+    ==
+  * 【畜-verb】 (xjuwk)
+    ==
+    - (_verb-like_) [to] rear, [to] nurture
+    - (_verb-like_) [to] accommodate
+    ==
   ====
 $$
 
@@ -504,6 +538,13 @@ P
   ++
   1. Used in 蓄意 (premeditated, deliberate).
   ++
+L
+  ====
+  * 【蓄】 (xjuwk, trhjuwk)
+    ==
+    - (_verb-like_) [to] hoard
+    ==
+  ====
 $$
 
 ### 蔌1 | _Ts(')uk(7)_ [[cuk1]]
@@ -539,6 +580,14 @@ C
   - Fan Wan entry: The original entry with headword 蔌, explained 果名, is erroneous.
     Corrected headword ${𫂙=⿱𥫗敕}1 to 蔌.
   ==
+L
+  ====
+  * 【蔌】 (suwk)
+    ==
+    - (_noun-like_) vegetable
+    - (_adjective-like_) base, mean
+    ==
+  ====
 $$
 
 ###+ 蔟1 | _Ts(')uk(7)_ [[cuk1]]
@@ -711,6 +760,14 @@ W
     - anxious, careworn.
     ==
   ====
+L
+  ====
+  * 【蹙】 (tsjuwk)
+    ==
+    - (_verb-like_) [to] compress, [to] constrain
+    - (_verb-like_) [to] scowl
+    ==
+  ====
 $$
 
 ### 蹴1 | _Ts(')uk(7)_ [[cuk1]]
@@ -748,6 +805,17 @@ W
         reverential [[Kangxi: 蹴然敬貌]].
     ==
   ====
+L
+  ====
+  * 【蹴-voiced】 (dzjuwk)
+    ==
+    - (_adjective-like_) reverential
+    ==
+  * 【蹴】 (tshjuwk, tsjuwk)
+    ==
+    - (_verb-like_) [to] trample, [to] kick
+    ==
+  ====
 $$
 
 ### 速1 | _Ts(')uk(7)_ [[cuk1]]
@@ -757,6 +825,10 @@ R
   ⾡ + 7
 U
   U+901F
+A
+  ==
+  - $遬1
+  ==
 F
   ==
   - (F1.64 速) 急也廹也
@@ -790,6 +862,15 @@ W
         as quick as possible.
     ==
   ====
+L
+  ====
+  * 【速】 (suwk)
+    ==
+    - (_verb-like_) [to] invite
+    - (_verb-like_) [to] impel
+    - (_adjective-like_) speedy
+    ==
+  ====
 $$
 
 ### 遬1 | _Ts(')uk(7)_ [[cuk1]]
@@ -807,7 +888,7 @@ W
   ====
   - [[Page~600 遬(7)]]
     --
-    Similar to the next [[蹙]].
+    ~~Similar to the next [[蹙]].~~
     --
     ==
     - To step smartly to one's place;
@@ -815,11 +896,21 @@ W
     - attentive, respectful [[Kangxi: 猶蹙蹙也]];
     - alert, speedy [[Kangxi: 剽遬疾也]].
     ==
+    --
+    [[Alternative form of 速. See $速cuk1.]]
+    --
   ====
 C
   ==
   - Williams' "smartly": In the sense of "quickly".
   ==
+L
+  ====
+  * 【遬】 (suwk)
+    ==
+    - (_adjective-like_) reverent
+    ==
+  ====
 $$
 
 ### 顣1 | _Ts(')uk(7)_ [[cuk1]]
@@ -866,4 +957,11 @@ C
   ==
   - Fan Wan entry: Corrected headword ⿰飠朿 to 餗.
   ==
+L
+  ====
+  * 【餗】 (suwk)
+    ==
+    - (_noun-like_) cauldron-stuff
+    ==
+  ====
 $$

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-01-24
+* %date-modified --> 2026-01-26
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -1006,6 +1006,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] change countenance
       ==
   //
+    , `dzjuwk`
+    , [蹴~(voiced)](/entries/cuk#rendering-蹴-voiced)
+    ,
+      ==
+      - (_adjective-like_) reverential
+      ==
+  //
     , `dzoj`
     , [才](/entries/coi#rendering-才)
     ,
@@ -1359,6 +1366,45 @@ window.onload = applyFilter;
       - (_verb-like_) [to] scrub
       ==
   //
+    , `suwk`
+    , [樕](/entries/cuk#rendering-樕)
+    ,
+      ==
+      - (_noun-like_) oak
+      - (_noun-like_) shrub
+      ==
+  //
+    , `suwk`
+    , [蔌](/entries/cuk#rendering-蔌)
+    ,
+      ==
+      - (_noun-like_) vegetable
+      - (_adjective-like_) base, mean
+      ==
+  //
+    , `suwk`
+    , [速](/entries/cuk#rendering-速)
+    ,
+      ==
+      - (_verb-like_) [to] invite
+      - (_verb-like_) [to] impel
+      - (_adjective-like_) speedy
+      ==
+  //
+    , `suwk`
+    , [遬](/entries/cuk#rendering-遬)
+    ,
+      ==
+      - (_adjective-like_) reverent
+      ==
+  //
+    , `suwk`
+    , [餗](/entries/cuk#rendering-餗)
+    ,
+      ==
+      - (_noun-like_) cauldron-stuff
+      ==
+  //
     , `syae`
     , [奢](/entries/ce#rendering-奢)
     ,
@@ -1424,6 +1470,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_conjunction-like_) moreover, let alone
+      ==
+  //
+    , `syowk`
+    , [束](/entries/cuk#rendering-束)
+    ,
+      ==
+      - (_verb-like_) [to] bundle, [to] bind
       ==
   //
     , `that`
@@ -1619,6 +1672,20 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) ox-branch
+      ==
+  //
+    , `trhjuwH`
+    , [畜~(noun)](/entries/cuk#rendering-畜-noun)
+    ,
+      ==
+      - (_noun-like_) livestock
+      ==
+  //
+    , `trhjuwk`
+    , [蓄](/entries/cuk#rendering-蓄)
+    ,
+      ==
+      - (_verb-like_) [to] hoard
       ==
   //
     , `trjangX`
@@ -2193,6 +2260,13 @@ window.onload = applyFilter;
       - (_noun-like_) marabou
       ==
   //
+    , `tshjuwk`
+    , [蹴](/entries/cuk#rendering-蹴)
+    ,
+      ==
+      - (_verb-like_) [to] trample, [to] kick
+      ==
+  //
     , `tshjwejH`
     , [毳](/entries/ceoi#rendering-毳)
     ,
@@ -2370,6 +2444,21 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] rally, [to] consolidate
+      ==
+  //
+    , `tsjuwk`
+    , [蹙](/entries/cuk#rendering-蹙)
+    ,
+      ==
+      - (_verb-like_) [to] compress, [to] constrain
+      - (_verb-like_) [to] scowl
+      ==
+  //
+    , `tsjuwk`
+    , [蹴](/entries/cuk#rendering-蹴)
+    ,
+      ==
+      - (_verb-like_) [to] trample, [to] kick
       ==
   //
     , `tsrhae`
@@ -2879,6 +2968,35 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] smell
+      ==
+  //
+    , `xjuwk`
+    , [慉](/entries/cuk#rendering-慉)
+    ,
+      ==
+      - (_verb-like_) [to] cherish, [to] uplift
+      ==
+  //
+    , `xjuwk`
+    , [畜~(noun)](/entries/cuk#rendering-畜-noun)
+    ,
+      ==
+      - (_noun-like_) livestock
+      ==
+  //
+    , `xjuwk`
+    , [畜~(verb)](/entries/cuk#rendering-畜-verb)
+    ,
+      ==
+      - (_verb-like_) [to] rear, [to] nurture
+      - (_verb-like_) [to] accommodate
+      ==
+  //
+    , `xjuwk`
+    , [蓄](/entries/cuk#rendering-蓄)
+    ,
+      ==
+      - (_verb-like_) [to] hoard
       ==
   //
     , `zi`
