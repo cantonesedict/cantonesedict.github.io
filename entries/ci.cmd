@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2026-01-24
+* %date-modified --> 2026-01-26
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -909,6 +909,7 @@ L
   * 【始】 (syiX)
     ==
     - (_noun-like_) beginning
+    - (_adverb-like_) (_met._) first, just
     ==
   ====
 $$

@@ -1447,6 +1447,7 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) beginning
+      - (_adverb-like_) (_met._) first, just
       ==
   //
     , `syijX`
