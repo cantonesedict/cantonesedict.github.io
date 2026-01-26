@@ -720,6 +720,30 @@ window.onload = applyFilter;
       - (_noun-like_) former [day]
       ==
   //
+    , `drjuwng`
+    , [沖](/entries/cung#rendering-沖)
+    ,
+      ==
+      - (_verb-like_) [to] soar
+      - (_adjective-like_) childly
+      - (_adjective-like_) hanging (down)
+      - (_onomatopoeia_) crack
+      ==
+  //
+    , `drjuwng`
+    , [盅](/entries/cung#rendering-盅)
+    ,
+      ==
+      - (_adjective-like_) empty
+      ==
+  //
+    , `duwng`
+    , [罿](/entries/cung#rendering-罿)
+    ,
+      ==
+      - (_noun-like_) bird-net
+      ==
+  //
     , `dza`
     , [瘥](/entries/co#rendering-瘥)
     ,
@@ -1689,6 +1713,20 @@ window.onload = applyFilter;
       - (_verb-like_) [to] hoard
       ==
   //
+    , `trhjuwng`
+    , [忡](/entries/cung#rendering-忡)
+    ,
+      ==
+      - (_adjective-like_) grieved, distressed
+      ==
+  //
+    , `trhjuwng`
+    , [盅](/entries/cung#rendering-盅)
+    ,
+      ==
+      - (_adjective-like_) empty
+      ==
+  //
     , `trjangX`
     , [長~(rising)](/entries/zoeng#rendering-長-rising)
     ,
@@ -1703,6 +1741,16 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] twist
+      ==
+  //
+    , `trjuwng`
+    , [衷](/entries/cung#rendering-衷)
+    ,
+      ==
+      - (_noun-like_) inner-garment
+      - (_noun-like_) inner-feeling
+      - (_noun-like_) goodness
+      - (_adjective-like_) sincere
       ==
   //
     , `tsawX`
@@ -2219,6 +2267,14 @@ window.onload = applyFilter;
       - (_verb-like_) [to] change countenance
       ==
   //
+    , `tshjowng`
+    , [樅](/entries/cung#rendering-樅)
+    ,
+      ==
+      - (_noun-like_) fir
+      - (_adjective-like_) toothed
+      ==
+  //
     , `tshju`
     , [趨](/entries/ceoi#rendering-趨)
     ,
@@ -2364,6 +2420,21 @@ window.onload = applyFilter;
       - (_noun-like_) horse master
       ==
   //
+    , `tshuwng`
+    , [聰](/entries/cung#rendering-聰)
+    ,
+      ==
+      - (_adjective-like_) hearing, well-hearing, (_met._) intelligent
+      ==
+  //
+    , `tshuwng`
+    , [蔥](/entries/cung#rendering-蔥)
+    ,
+      ==
+      - (_noun-like_) spring-onion
+      - (_adjective-like_) spring-onion-green
+      ==
+  //
     , `tshwaX`
     , [脞](/entries/co#rendering-脞)
     ,
@@ -2438,6 +2509,14 @@ window.onload = applyFilter;
       - (_noun-like_) leek-flower, chive-flower
       - (_noun-like_) spikerush
       - (_adjective-like_) luxuriant
+      ==
+  //
+    , `tsjowng`
+    , [樅](/entries/cung#rendering-樅)
+    ,
+      ==
+      - (_noun-like_) fir
+      - (_adjective-like_) toothed
       ==
   //
     , `tsjuw`
@@ -2844,6 +2923,28 @@ window.onload = applyFilter;
       - (_verb-like_) [to] berate, [to] shout (at)
       ==
   //
+    , `tsyhowng`
+    , [憧](/entries/cung#rendering-憧)
+    ,
+      ==
+      - (_adjective-like_) unsettled, undecided
+      ==
+  //
+    , `tsyhowng`
+    , [罿](/entries/cung#rendering-罿)
+    ,
+      ==
+      - (_noun-like_) bird-net
+      ==
+  //
+    , `tsyhowng`
+    , [衝](/entries/cung#rendering-衝)
+    ,
+      ==
+      - (_noun-like_) crossroad, thoroughfare
+      - (_verb-like_) [to] charge
+      ==
+  //
     , `tsyhuwX`
     , [醜](/entries/cau#rendering-醜)
     ,
@@ -2859,6 +2960,14 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) smell
+      ==
+  //
+    , `tsyhuwng`
+    , [充](/entries/cung#rendering-充)
+    ,
+      ==
+      - (_verb-like_) [to] fill, [to] stuff, (_met._) [to] serve as
+      - (_adjective-like_) full, stuffed
       ==
   //
     , `tsyhwe`

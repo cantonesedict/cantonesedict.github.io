@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cung
-* %date-modified --> 2026-01-01
+* %date-modified --> 2026-01-26
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -132,6 +132,14 @@ P
   1. To feign.
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【充】 (tsyhuwng)
+    ==
+    - (_verb-like_) [to] fill, [to] stuff, (_met._) [to] serve as
+    - (_adjective-like_) full, stuffed
+    ==
+  ====
 $$
 
 ### 冲1 | _(1)Ch(')ung_ [[cung1]]
@@ -224,6 +232,13 @@ C
   ==
   - Fan Wan entry: The headword 忡 is a misprint of $沖1.
   ==
+L
+  ====
+  * 【忡】 (trhjuwng)
+    ==
+    - (_adjective-like_) grieved, distressed
+    ==
+  ====
 $$
 
 ###+ 怱1 | _(1)Ts(')ung_ [[cung1]]
@@ -317,6 +332,13 @@ W
     - irresolute.
     ==
   ====
+L
+  ====
+  * 【憧】 (tsyhowng)
+    ==
+    - (_adjective-like_) unsettled, undecided
+    ==
+  ====
 S
   ==
   - $憧zong6
@@ -355,6 +377,14 @@ P
   ++
   1. Having teeth whereupon bells are hung (Kangxi: 言崇牙之貌樅樅然也).
   ++
+L
+  ====
+  * 【樅】 (tshjowng, tsjowng)
+    ==
+    - (_noun-like_) fir
+    - (_adjective-like_) toothed
+    ==
+  ====
 S
   ==
   - $樅zung1
@@ -371,6 +401,7 @@ U
 A
   ==
   - $冲1
+  - $翀1 (for "soar" sense)
   ==
 V
   ==
@@ -422,6 +453,16 @@ P
   1. To offset, to counterbalance.
   1. Conflicting, incompatible.
   ++
+L
+  ====
+  * 【沖】 (drjuwng)
+    ==
+    - (_verb-like_) [to] soar
+    - (_adjective-like_) childly
+    - (_adjective-like_) hanging (down)
+    - (_onomatopoeia_) crack
+    ==
+  ====
 $$
 
 ### 涌1 | _(1)Ch(')ung_ [[cung1]]
@@ -545,6 +586,13 @@ W
     - [[...]].
     ==
   ====
+L
+  ====
+  * 【盅】 (drjuwng, trhjuwng)
+    ==
+    - (_adjective-like_) empty
+    ==
+  ====
 S
   ==
   - $盅zung1
@@ -578,6 +626,13 @@ C
   ==
   - Fan Wan entry: Normalised headword ⿱罓童 to 罿, and corrected ⿰犭奄 to 掩.
   ==
+L
+  ====
+  * 【罿】 (tsyhowng, duwng)
+    ==
+    - (_noun-like_) bird-net
+    ==
+  ====
 S
   ==
   - $罿tung4 (TODO)
@@ -609,6 +664,9 @@ W
         [[zi3 ho2 cung1 siu1 志可翀霄]],
         aspiring talents.
     ==
+    --
+    [[Alternative form of 沖 (for the "soar" sense). See $沖cung1.]]
+    --
   ====
 C
   ==
@@ -692,6 +750,13 @@ P
   ++
   1. Hearing.
   ++
+L
+  ====
+  * 【聰】 (tshuwng)
+    ==
+    - (_adjective-like_) hearing, well-hearing, (_met._) intelligent
+    ==
+  ====
 $$
 
 ### 葱1 | _(1)Ts(')ung_ [[cung1]]
@@ -766,6 +831,14 @@ P
   ++
   1. Ventilated (Kangxi: 氣通達也).
   ++
+L
+  ====
+  * 【蔥】 (tshuwng)
+    ==
+    - (_noun-like_) spring-onion
+    - (_adjective-like_) spring-onion-green
+    ==
+  ====
 $$
 
 ### 衝1 | _(1)Ch(')ung_ [[cung1]]
@@ -812,6 +885,14 @@ C
   ==
   - Fan Wan entry: The character 水 is likely erroneous.
   ==
+L
+  ====
+  * 【衝】 (tsyhowng)
+    ==
+    - (_noun-like_) crossroad, thoroughfare
+    - (_verb-like_) [to] charge
+    ==
+  ====
 E
   ====
   - 【衝】 (cung1)
@@ -862,6 +943,16 @@ P
   ++
   1. Goodness (Kangxi: 善也).
   ++
+L
+  ====
+  * 【衷】 (trjuwng)
+    ==
+    - (_noun-like_) inner-garment
+    - (_noun-like_) inner-feeling
+    - (_noun-like_) goodness
+    - (_adjective-like_) sincere
+    ==
+  ====
 S
   ==
   - ($衷zung1)
