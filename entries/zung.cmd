@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zung
-* %date-modified --> 2026-01-01
+* %date-modified --> 2026-01-28
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -736,6 +736,13 @@ W
     --
     [[Otherwise, an alternative form of 蹤. **See $蹤zung1 for the canonical entry.**]]
     --
+  ====
+L
+  ====
+  * 【從-vertical】 (tsjowng)
+    ==
+    - (_adjective-like_) vertical, (_met._) meridian
+    ==
   ====
 S
   ==
@@ -2263,6 +2270,14 @@ P
   ++
   1. Further (Kangxi: 更爲也, 重再也).
   ++
+L
+  ====
+  * 【重-departing】 (drjowngH)
+    ==
+    - (_adjective-like_) weighty
+    - (_verb-like_) [to] weight, (_met._) [to] esteem
+    ==
+  ====
 E
   ====
   - 【重】 (zung6)

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-01-26
+* %date-modified --> 2026-01-28
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -375,6 +375,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] steep
       ==
   //
+    , `downg`
+    , [爞](/entries/cung#rendering-爞)
+    ,
+      ==
+      - (_adjective-like_) torrid
+      ==
+  //
     , `draeng`
     , [棖](/entries/caang#rendering-棖)
     ,
@@ -644,6 +651,30 @@ window.onload = applyFilter;
       - (_verb-like_) [to] divide
       ==
   //
+    , `drjowng`
+    , [重](/entries/cung#rendering-重)
+    ,
+      ==
+      - (_verb-like_) [to] repeat, [to] layer
+      - (_adverb-like_) once more
+      ==
+  //
+    , `drjowngX`
+    , [重~(rising)](/entries/cung#rendering-重-rising)
+    ,
+      ==
+      - (_adjective-like_) weighty, heavy
+      - (_verb-like_) [to] weigh
+      ==
+  //
+    , `drjowngH`
+    , [重~(departing)](/entries/zung#rendering-重-departing)
+    ,
+      ==
+      - (_adjective-like_) weighty
+      - (_verb-like_) [to] weight, (_met._) [to] esteem
+      ==
+  //
     , `drju`
     , [廚](/entries/ceoi#rendering-廚)
     ,
@@ -731,10 +762,24 @@ window.onload = applyFilter;
       ==
   //
     , `drjuwng`
+    , [爞](/entries/cung#rendering-爞)
+    ,
+      ==
+      - (_adjective-like_) torrid
+      ==
+  //
+    , `drjuwng`
     , [盅](/entries/cung#rendering-盅)
     ,
       ==
       - (_adjective-like_) empty
+      ==
+  //
+    , `drjuwng`
+    , [蟲](/entries/cung#rendering-蟲)
+    ,
+      ==
+      - (_noun-like_) insect, creature
       ==
   //
     , `duwng`
@@ -1009,6 +1054,14 @@ window.onload = applyFilter;
       - (_verb-like_) [to] blame
       ==
   //
+    , `dzjowng`
+    , [從~(follow)](/entries/cung#rendering-從-follow)
+    ,
+      ==
+      - (_verb-like_) [to] follow, [to] pursue
+      - (_preposition-like_) from
+      ==
+  //
     , `dzjuw`
     , [遒](/entries/cau#rendering-遒)
     ,
@@ -1095,6 +1148,13 @@ window.onload = applyFilter;
       ==
       - (_adverb-like_) once, ever
       - (_adverb-like_) astonishingly, (_met._) [and] yet, dare
+      ==
+  //
+    , `dzowng`
+    , [潨](/entries/cung#rendering-潨)
+    ,
+      ==
+      - (_noun-like_) confluence
       ==
   //
     , `dzraem`
@@ -1201,6 +1261,21 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] go [on], (_met._) [to] pass [away]
+      ==
+  //
+    , `dzuwng`
+    , [叢](/entries/cung#rendering-叢)
+    ,
+      ==
+      - (_verb-like_) [to] collect
+      - (_noun-like_) thicket
+      ==
+  //
+    , `dzuwng`
+    , [潨](/entries/cung#rendering-潨)
+    ,
+      ==
+      - (_noun-like_) confluence
       ==
   //
     , `dzwaX`
@@ -1671,6 +1746,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] transcend
       ==
   //
+    , `trhjowngX`
+    , [寵](/entries/cung#rendering-寵)
+    ,
+      ==
+      - (_verb-like_) [to] favour, [to] adore
+      ==
+  //
     , `trhjuw`
     , [妯](/entries/cau#rendering-妯)
     ,
@@ -1741,6 +1823,14 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] twist
+      ==
+  //
+    , `trjowngX`
+    , [冢](/entries/cung#rendering-冢)
+    ,
+      ==
+      - (_noun-like_) mound
+      - (_adjective-like_) great, (_met._) prime
       ==
   //
     , `trjuwng`
@@ -2512,6 +2602,13 @@ window.onload = applyFilter;
       ==
   //
     , `tsjowng`
+    , [從~(vertical)](/entries/zung#rendering-從-vertical)
+    ,
+      ==
+      - (_adjective-like_) vertical, (_met._) meridian
+      ==
+  //
+    , `tsjowng`
     , [樅](/entries/cung#rendering-樅)
     ,
       ==
@@ -3066,6 +3163,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] rescue
       ==
   //
+    , `tsyuwng`
+    , [潨](/entries/cung#rendering-潨)
+    ,
+      ==
+      - (_noun-like_) confluence
+      ==
+  //
     , `tsyweX`
     , [捶](/entries/ceoi#rendering-捶)
     ,
@@ -3213,6 +3317,13 @@ window.onload = applyFilter;
       ==
       - (_adverb-like_) slowly, gently
       - (_adjective-like_) composed, dignified
+      ==
+  //
+    , `zjowng`
+    , [松](/entries/cung#rendering-松)
+    ,
+      ==
+      - (_noun-like_) pine-tree, pine
       ==
   //
     , `zjuw`

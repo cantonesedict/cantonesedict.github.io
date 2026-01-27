@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cung
-* %date-modified --> 2026-01-26
+* %date-modified --> 2026-01-28
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1077,6 +1077,14 @@ P
   1. A high mound (Kangxi: 高墳也 etc.).
   1. A raised mound for an altar (Kangxi: 封土爲社).
   ++
+L
+  ====
+  * 【冢】 (trjowngX)
+    ==
+    - (_noun-like_) mound
+    - (_adjective-like_) great, (_met._) prime
+    ==
+  ====
 $$
 
 ### ~~塜~~``塚``2 | _(2)Ch(')ung_ [[cung2]]
@@ -1132,6 +1140,7 @@ U
 A
   ==
   - {𠖥=⿱冖龍}
+  - 龍
   ==
 F
   ==
@@ -1169,6 +1178,13 @@ W
     - _tak(7) (2)ch(')ung_
         [[dak1 cung2 得寵]],
         to win [a hushand's] love.
+    ==
+  ====
+L
+  ====
+  * 【寵】 (trhjowngX)
+    ==
+    - (_verb-like_) [to] favour, [to] adore
     ==
   ====
 $$
@@ -1319,6 +1335,14 @@ C
   ==
   - Fan Wan entry: Corrected 占 to 古.
   ==
+L
+  ====
+  * 【叢】 (dzuwng)
+    ==
+    - (_verb-like_) [to] collect
+    - (_noun-like_) thicket
+    ==
+  ====
 $$
 
 ### 從4 | _(4)Ts(')ung_ [[cung4]]
@@ -1398,6 +1422,14 @@ P
   1. To pursue, to partake in.
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【從-follow】 (dzjowng)
+    ==
+    - (_verb-like_) [to] follow, [to] pursue
+    - (_preposition-like_) from
+    ==
+  ====
 S
   ==
   - $從sung1 (TODO)
@@ -1494,6 +1526,13 @@ P
   ++
   1. A surname.
   ++
+L
+  ====
+  * 【松】 (zjowng)
+    ==
+    - (_noun-like_) pine-tree, pine
+    ==
+  ====
 $$
 
 ###+ 樷4 | _(4)Ts(')ung_ [[cung4]]
@@ -1589,6 +1628,13 @@ W
     - the meeting of waters [[Kangxi 潨: 潨水會也]].
     ==
   ====
+L
+  ====
+  * 【潨】 (dzuwng, tsyuwng, dzowng)
+    ==
+    - (_noun-like_) confluence
+    ==
+  ====
 S
   ==
   - ($潀zung1)
@@ -1642,6 +1688,13 @@ P
   ++
   1. Intense heat (Kangxi: 熏也熱也, 旱熱也, 或作蟲, 爞爞炎炎熏也).
   ++
+L
+  ====
+  * 【爞】 (drjuwng, downg)
+    ==
+    - (_adjective-like_) torrid
+    ==
+  ====
 S
   ==
   - $爞tung4 (TODO)
@@ -1765,6 +1818,13 @@ P
   ++
   1. Legged animals (Kangxi: 有足謂之蟲無足謂之豸).
   ++
+L
+  ====
+  * 【蟲】 (drjuwng)
+    ==
+    - (_noun-like_) insect, creature
+    ==
+  ====
 $$
 
 ### 重4 | _(4)Ch(')ung_ [[cung4]]
@@ -1805,6 +1865,14 @@ C
   ==
   - Fan Wan entry: Corrected malformed 叠.
   ==
+L
+  ====
+  * 【重】 (drjowng)
+    ==
+    - (_verb-like_) [to] repeat, [to] layer
+    - (_adverb-like_) once more
+    ==
+  ====
 S
   ==
   - $重cung5
@@ -1878,6 +1946,14 @@ C
     reconstruct *three* readings for 重 in Old Chinese,
     corresponding to Middle Chinese level, rising, and departing.
   ==
+L
+  ====
+  * 【重-rising】 (drjowngX)
+    ==
+    - (_adjective-like_) weighty, heavy
+    - (_verb-like_) [to] weigh
+    ==
+  ====
 S
   ==
   - $重cung4
