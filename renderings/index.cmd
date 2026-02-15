@@ -839,6 +839,14 @@ window.onload = applyFilter;
       - (_noun-like_) insect, creature
       ==
   //
+    , `drjwen`
+    , [傳~(verb)](/entries/cyun#rendering-傳-verb)
+    ,
+      ==
+      - (_verb-like_) [to] transmit
+      - (_verb-like_) [to] summon
+      ==
+  //
     , `duwng`
     , [罿](/entries/cung#rendering-罿)
     ,
@@ -1147,6 +1155,20 @@ window.onload = applyFilter;
       - (_adjective-like_) reverential
       ==
   //
+    , `dzjwen`
+    , [全](/entries/cyun#rendering-全)
+    ,
+      ==
+      - (_adjective-like_) complete, whole
+      ==
+  //
+    , `dzjwen`
+    , [泉](/entries/cyun#rendering-泉)
+    ,
+      ==
+      - (_noun-like_) spring, springwater
+      ==
+  //
     , `dzoj`
     , [才](/entries/coi#rendering-才)
     ,
@@ -1349,6 +1371,13 @@ window.onload = applyFilter;
       - (_noun-like_) seat
       ==
   //
+    , `dzwan`
+    , [欑](/entries/cyun#rendering-欑)
+    ,
+      ==
+      - (_noun-like_) pole-heap
+      ==
+  //
     , `dzwoj`
     , [崔](/entries/ceoi#rendering-崔)
     ,
@@ -1364,12 +1393,48 @@ window.onload = applyFilter;
       - (_verb-like_) [to] break, [to] destroy
       ==
   //
+    , `dzwon`
+    , [存](/entries/cyun#rendering-存)
+    ,
+      ==
+      - (_verb-like_) [to] exist, [to] be
+      - (_verb-like_) [to] preserve
+      ==
+  //
+    , `dzwon`
+    , [蹲~(squat)](/entries/cyun#rendering-蹲-squat)
+    ,
+      ==
+      - (_verb-like_) [to] squat
+      ==
+  //
+    , `dzwonX`
+    , [鱒](/entries/cyun#rendering-鱒)
+    ,
+      ==
+      - (_noun-like_) redeye-carp
+      ==
+  //
+    , `dzwonH`
+    , [鱒](/entries/cyun#rendering-鱒)
+    ,
+      ==
+      - (_noun-like_) redeye-carp
+      ==
+  //
     , `dzyuw`
     , [酬](/entries/cau#rendering-酬)
     ,
       ==
       - (_verb-like_) [to] toast
       - (_verb-like_) [to] repay
+      ==
+  //
+    , `dzywen`
+    , [遄](/entries/cyun#rendering-遄)
+    ,
+      ==
+      - (_adverb-like_) quickly
       ==
   //
     , `homX`
@@ -2492,6 +2557,20 @@ window.onload = applyFilter;
       - (_adjective-like_) brittle
       ==
   //
+    , `tshjwen`
+    , [筌](/entries/cyun#rendering-筌)
+    ,
+      ==
+      - (_noun-like_) fish-trap
+      ==
+  //
+    , `tshjwen`
+    , [銓](/entries/cyun#rendering-銓)
+    ,
+      ==
+      - (_verb-like_) [to] weigh
+      ==
+  //
     , `tshojX`
     , [彩](/entries/coi#rendering-彩)
     ,
@@ -2596,6 +2675,35 @@ window.onload = applyFilter;
       - (_noun-like_) mince, (_met._) trifle
       ==
   //
+    , `tshwan`
+    , [爨](/entries/cyun#rendering-爨)
+    ,
+      ==
+      - (_noun-like_) cookstove
+      ==
+  //
+    , `tshwanH`
+    , [爨](/entries/cyun#rendering-爨)
+    ,
+      ==
+      - (_noun-like_) cookstove
+      ==
+  //
+    , `tshwanH`
+    , [竄](/entries/cyun#rendering-竄)
+    ,
+      ==
+      - (_verb-like_) [to] skulk
+      - (_verb-like_) [to] exile
+      ==
+  //
+    , `tshwin`
+    , [蹲~(dancing)](/entries/cyun#rendering-蹲-dancing)
+    ,
+      ==
+      - (_adverb-like_) (dancing) rhythmically
+      ==
+  //
     , `tshwoj`
     , [催](/entries/ceoi#rendering-催)
     ,
@@ -2622,6 +2730,20 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] sip, [to] taste
+      ==
+  //
+    , `tshwonX`
+    , [忖](/entries/cyun#rendering-忖)
+    ,
+      ==
+      - (_verb-like_) [to] consider
+      ==
+  //
+    , `tshwonH`
+    , [寸](/entries/cyun#rendering-寸)
+    ,
+      ==
+      - (_noun-like_) inch
       ==
   //
     , `tsiX`
@@ -2868,6 +2990,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) hay, fodder
+      ==
+  //
+    , `tsrhjweX`
+    , [揣](/entries/cyun#rendering-揣)
+    ,
+      ==
+      - (_verb-like_) [to] measure, [to] reckon
       ==
   //
     , `tsrhjwejH`
@@ -3158,6 +3287,34 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] blow
+      ==
+  //
+    , `tsyhwen`
+    , [川](/entries/cyun#rendering-川)
+    ,
+      ==
+      - (_noun-like_) stream
+      ==
+  //
+    , `tsyhwen`
+    , [穿](/entries/cyun#rendering-穿)
+    ,
+      ==
+      - (_verb-like_) [to] bore through
+      ==
+  //
+    , `tsyhwenX`
+    , [喘](/entries/cyun#rendering-喘)
+    ,
+      ==
+      - (_verb-like_) [to] gasp
+      ==
+  //
+    , `tsyhwenX`
+    , [舛](/entries/cyun#rendering-舛)
+    ,
+      ==
+      - (_adjective-like_) contrary
       ==
   //
     , `tsyhwijH`

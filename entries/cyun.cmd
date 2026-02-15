@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyun
-* %date-modified --> 2026-01-01
+* %date-modified --> 2026-02-15
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -110,6 +110,13 @@ P
   ++
   1. Short for 四川.
   ++
+L
+  ====
+  * 【川】 (tsyhwen)
+    ==
+    - (_noun-like_) stream
+    ==
+  ====
 $$
 
 ### 村1 | _(1)Ts(')(u:)n_ [[cyun1]]
@@ -203,6 +210,13 @@ P
   ++
   1. Thorough (in understanding) (Kangxi: 貫也).
   ++
+L
+  ====
+  * 【穿】 (tsyhwen)
+    ==
+    - (_verb-like_) [to] bore through
+    ==
+  ====
 E
   ====
   - 【穿煲】 (cyun1 bou1)
@@ -298,6 +312,13 @@ P
   ++
   1. To speak quietly or subtly (Kangxi: 微言).
   ++
+L
+  ====
+  * 【喘】 (tsyhwenX)
+    ==
+    - (_verb-like_) [to] gasp
+    ==
+  ====
 $$
 
 ### 忖2 | _(2)Ts(')(u:)n_ [[cyun2]]
@@ -320,6 +341,13 @@ W
     - _(2)ts(')(u:)n tok(9)_
         [[cyun2 dok6 忖度]]
         to conjecture, to calculate.
+    ==
+  ====
+L
+  ====
+  * 【忖】 (tshwonX)
+    ==
+    - (_verb-like_) [to] consider
     ==
   ====
 $$
@@ -388,6 +416,13 @@ C
     is the canonical reading today.
     I have normalised _(2)ch(')ui_ (ceoi2) in the examples to it.
   ==
+L
+  ====
+  * 【揣】 (tsrhjweX)
+    ==
+    - (_verb-like_) [to] measure, [to] reckon
+    ==
+  ====
 S
   ==
   - ($揣ceoi2)
@@ -511,6 +546,13 @@ P
   ++
   1. Difficult (as a situation).
   ++
+L
+  ====
+  * 【舛】 (tsyhwenX)
+    ==
+    - (_adjective-like_) contrary
+    ==
+  ====
 $$
 
 ###+ 踳2 | _(2)Ch(')(u:)n_ [[cyun2]]
@@ -689,6 +731,13 @@ C
   - Williams' 特修寸字: Corrected _tak(7)_ (dak1) to _tak(9)_ (dak6).
   - Williams' 攞尺寸: Corrected _(5)lo_ (lo5) to _(2)lo_ (lo2).
   ==
+L
+  ====
+  * 【寸】 (tshwonH)
+    ==
+    - (_noun-like_) inch
+    ==
+  ====
 $$
 
 ###+ 攛3 | _Ts(')(u:)n(3)_ [[cyun3]]
@@ -787,6 +836,13 @@ W
         a boarder.
     ==
   ====
+L
+  ====
+  * 【爨】 (tshwanH, tshwan)
+    ==
+    - (_noun-like_) cookstove
+    ==
+  ====
 E
   ====
   - 【開火爨】 (hoi1 fo2 cyun3)
@@ -846,6 +902,14 @@ P
   1. To alter (Kangxi: 改易也).
   1. To put, to place.
   ++
+L
+  ====
+  * 【竄】 (tshwanH)
+    ==
+    - (_verb-like_) [to] skulk
+    - (_verb-like_) [to] exile
+    ==
+  ====
 S
   ==
   - ($竄cyun2)
@@ -959,6 +1023,14 @@ P
   1. To shift (Kangxi: 移也).
   1. To summon, to call.
   ++
+L
+  ====
+  * 【傳-verb】 (drjwen)
+    ==
+    - (_verb-like_) [to] transmit
+    - (_verb-like_) [to] summon
+    ==
+  ====
 S
   ==
   - $傳zyun3
@@ -1017,6 +1089,13 @@ P
   ++
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【全】 (dzjwen)
+    ==
+    - (_adjective-like_) complete, whole
+    ==
+  ====
 $$
 
 ### 存4 | _(4)Ts(')(u:)n_ [[cyun4]]
@@ -1069,6 +1148,14 @@ C
   ==
   - Williams' 存留: Corrected _(5)ts(')(u:)n_ (cyun5) to _(4)ts(')(u:)n_ (cyun4).
   ==
+L
+  ====
+  * 【存】 (dzwon)
+    ==
+    - (_verb-like_) [to] exist, [to] be
+    - (_verb-like_) [to] preserve
+    ==
+  ====
 $$
 
 ### 拴4 | _(4)Ts(')(u:)n_ [[cyun4]]
@@ -1174,6 +1261,13 @@ W
     [[Otherwise, an alternative form of 攢. **See $攢cyun4 for the canonical entry.**]]
     --
   ====
+L
+  ====
+  * 【欑】 (dzwan)
+    ==
+    - (_noun-like_) pole-heap
+    ==
+  ====
 $$
 
 ### 泉4 | _(4)Ts(')(u:)n_ [[cyun4]]
@@ -1225,6 +1319,13 @@ C
     which are souls of the dead in Greek mythology,
     but their abode, i.e. the underworld.
   ==
+L
+  ====
+  * 【泉】 (dzjwen)
+    ==
+    - (_noun-like_) spring, springwater
+    ==
+  ====
 $$
 
 ### 痊4 | _(4)Ts(')(u:)n_ [[cyun4]]
@@ -1295,6 +1396,13 @@ C
   ==
   - Fan Wan entry: Corrected ⿱⿰共士衣 to 裝.
   ==
+L
+  ====
+  * 【筌】 (tshjwen)
+    ==
+    - (_noun-like_) fish-trap
+    ==
+  ====
 $$
 
 ### 詮4 | _(4)Ts(')(u:)n_ [[cyun4]]
@@ -1396,6 +1504,17 @@ W
     - ~~placed together~~ ``gathered``, as scales of armor [[Kangxi: 聚也]].
     ==
   ====
+L
+  ====
+  * 【蹲-squat】 (dzwon)
+    ==
+    - (_verb-like_) [to] squat
+    ==
+  * 【蹲-dancing】 (tshwin)
+    ==
+    - (_adverb-like_) (dancing) rhythmically
+    ==
+  ====
 S
   ==
   - $蹲deon1 (TODO)
@@ -1436,6 +1555,13 @@ C
     meaning "frequently". Thus, 往來數也 should be rendered
     "[to] go [and] come frequently", and defines the same sense as 疾也速也.
   ==
+L
+  ====
+  * 【遄】 (dzywen)
+    ==
+    - (_adverb-like_) quickly
+    ==
+  ====
 S
   ==
   - ($遄cyun2)
@@ -1468,6 +1594,13 @@ W
     - _(4)ts(')(u:)n (2)s(u:)n_
         [[cyun4 syun2 銓選]],
         to select, as proper officers.
+    ==
+  ====
+L
+  ====
+  * 【銓】 (tshjwen)
+    ==
+    - (_verb-like_) [to] weigh
     ==
   ====
 $$
@@ -1522,6 +1655,13 @@ P
   ++
   1. The trout.
   ++
+L
+  ====
+  * 【鱒】 (dzwonX, dzwonH)
+    ==
+    - (_noun-like_) redeye-carp
+    ==
+  ====
 S
   ==
   - ($鱒zyun1)
