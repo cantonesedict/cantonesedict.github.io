@@ -2697,6 +2697,14 @@ window.onload = applyFilter;
       - (_verb-like_) [to] exile
       ==
   //
+    , `tshwat`
+    , [撮](/entries/cyut#rendering-撮)
+    ,
+      ==
+      - (_noun-like_) pinch
+      - (_noun-like_) small-cap
+      ==
+  //
     , `tshwin`
     , [蹲~(dancing)](/entries/cyun#rendering-蹲-dancing)
     ,
