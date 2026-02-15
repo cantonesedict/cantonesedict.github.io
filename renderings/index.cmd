@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-01-28
+* %date-modified --> 2026-02-15
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -644,11 +644,61 @@ window.onload = applyFilter;
       ==
   //
     , `drjo`
+    , [儲](/entries/cyu#rendering-儲)
+    ,
+      ==
+      - (_verb-like_) [to] collect
+      ==
+  //
+    , `drjo`
+    , [宁](/entries/cyu#rendering-宁)
+    ,
+      ==
+      - (_noun-like_) entrance-space
+      ==
+  //
+    , `drjo`
     , [除](/entries/ceoi#rendering-除)
     ,
       ==
       - (_verb-like_) [to] remove
       - (_verb-like_) [to] divide
+      ==
+  //
+    , `drjoX`
+    , [佇](/entries/cyu#rendering-佇)
+    ,
+      ==
+      - (_verb-like_) [to] stand long
+      ==
+  //
+    , `drjoX`
+    , [宁](/entries/cyu#rendering-宁)
+    ,
+      ==
+      - (_noun-like_) entrance-space
+      ==
+  //
+    , `drjoX`
+    , [杼](/entries/cyu#rendering-杼)
+    ,
+      ==
+      - (_noun-like_) shuttle
+      - (_adjective-like_) thin, tapered
+      ==
+  //
+    , `drjoX`
+    , [紵](/entries/cyu#rendering-紵)
+    ,
+      ==
+      - (_noun-like_) ramie
+      ==
+  //
+    , `drjoX`
+    , [羜](/entries/cyu#rendering-羜)
+    ,
+      ==
+      - (_noun-like_) five-month-lamb
       ==
   //
     , `drjowng`
@@ -687,6 +737,13 @@ window.onload = applyFilter;
     ,
       ==
       - Used in [踟躕](/entries/ci#rendering-踟躕).
+      ==
+  //
+    , `drjuX`
+    , [柱](/entries/cyu#rendering-柱)
+    ,
+      ==
+      - (_noun-like_) pillar, post
       ==
   //
     , `drjuw`
@@ -1823,6 +1880,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] twist
+      ==
+  //
+    , `trjoX`
+    , [貯](/entries/cyu#rendering-貯)
+    ,
+      ==
+      - (_verb-like_) [to] stockpile
       ==
   //
     , `trjowngX`
@@ -3018,6 +3082,28 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] berate, [to] shout (at)
+      ==
+  //
+    , `tsyhoX`
+    , [杵](/entries/cyu#rendering-杵)
+    ,
+      ==
+      - (_noun-like_) pestle
+      ==
+  //
+    , `tsyhoX`
+    , [處~(rising)](/entries/cyu#rendering-處-rising)
+    ,
+      ==
+      - (_verb-like_) [to] reside, [to] stay
+      - (_verb-like_) [to] place
+      ==
+  //
+    , `tsyhoH`
+    , [處~(departing)](/entries/cyu#rendering-處-departing)
+    ,
+      ==
+      - (_noun-like_) place
       ==
   //
     , `tsyhowng`

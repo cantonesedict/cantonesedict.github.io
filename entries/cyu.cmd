@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyu
-* %date-modified --> 2026-01-01
+* %date-modified --> 2026-02-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -191,6 +191,14 @@ C
     ==
   - Williams' 處決: Changed _k(u:)t(8)_ (gyut3) to common reading _k(')(u:)t(8)_ (kyut3).
   ====
+L
+  ====
+  * 【處-rising】 (tsyhoX)
+    ==
+    - (_verb-like_) [to] reside, [to] stay
+    - (_verb-like_) [to] place
+    ==
+  ====
 S
   ==
   - $處cyu3
@@ -284,6 +292,13 @@ C
   ==
   - Williams' 嗰處: Changed _ko(3)_ (go3) to modern _(2)ko_ (go2).
   ==
+L
+  ====
+  * 【處-departing】 (tsyhoH)
+    ==
+    - (_noun-like_) place
+    ==
+  ====
 E
   ====
   - 【處】 (cyu3, syu3)
@@ -636,6 +651,13 @@ W
         to be hoping, expecting.
     ==
   ====
+L
+  ====
+  * 【佇】 (drjoX)
+    ==
+    - (_verb-like_) [to] stand long
+    ==
+  ====
 $$
 
 ###+ 儲5 | _(5)Ch(')(u:)_ [[cyu5]]
@@ -679,6 +701,13 @@ P
   1. To await.
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【儲】 (drjo)
+    ==
+    - (_verb-like_) [to] collect
+    ==
+  ====
 S
   ==
   - ($儲cou5)
@@ -693,6 +722,10 @@ R
   ⼧ + 2
 U
   U+5B81
+V
+  ==
+  - cyu4 (alternative per 《廣韻》直魚切)
+  ==
 F
   ==
   - (F1.47 宁) 門屏之間曰宁
@@ -710,6 +743,13 @@ W
     --
     [[Otherwise, an alternative form of 貯. **See $貯cyu5 for the canonical entry.**]]
     --
+  ====
+L
+  ====
+  * 【宁】 (drjoX, drjo)
+    ==
+    - (_noun-like_) entrance-space
+    ==
   ====
 $$
 
@@ -745,6 +785,13 @@ C
   ==
   - Fan Wan entry: Corrected 春 to 舂.
   ==
+L
+  ====
+  * 【杵】 (tsyhoX)
+    ==
+    - (_noun-like_) pestle
+    ==
+  ====
 $$
 
 ### 杼5 | _(5)Ch(')(u:)_ [[cyu5]]
@@ -774,6 +821,14 @@ C
   ==
   - Fan Wan entry: Corrected 袖 to 柚 and corrected {𢴰=⿰扌幾} to 機.
   ==
+L
+  ====
+  * 【杼】 (drjoX)
+    ==
+    - (_noun-like_) shuttle
+    - (_adjective-like_) thin, tapered
+    ==
+  ====
 $$
 
 ### 柱5 | _(5)Ch(')(u:)_ [[cyu5]]
@@ -812,6 +867,13 @@ C
   ==
   - Williams' 柱墩: Changed _(1)tan_ (dan1) to _(2)tan_ (dan2).
   ==
+L
+  ====
+  * 【柱】 (drjuX)
+    ==
+    - (_noun-like_) pillar, post
+    ==
+  ====
 S
   ==
   - ($柱zyu2)
@@ -885,6 +947,10 @@ R
   ⽷ + 5
 U
   U+7D35
+A
+  ==
+  - $苧5
+  ==
 F
   ==
   - (F1.47 紵) ::[絲]屬::
@@ -909,6 +975,13 @@ C
   - Williams' "Contracted to ⿰糸⿳宀一　": Likely a mistake.
     The personal name of Emperor 咸豐 is 奕詝, not 奕紵.
   ==
+L
+  ====
+  * 【紵】 (drjoX)
+    ==
+    - (_noun-like_) ramie
+    ==
+  ====
 $$
 
 ### 羜5 | _(5)Ch(')(u:)_ [[cyu5]]
@@ -930,6 +1003,13 @@ W
     - _(4)f(i/) (5)ch(')(u:)_
         [[fei4 cyu5 肥羜]],
         a fat lamb.
+    ==
+  ====
+L
+  ====
+  * 【羜】 (drjoX)
+    ==
+    - (_noun-like_) five-month-lamb
     ==
   ====
 $$
@@ -957,6 +1037,9 @@ W
         [[cyu5 gan1 苧根]],
         its roots.
     ==
+    --
+    [[Alternative form of 紵. See $紵cyu5.]]
+    --
   ====
 $$
 
@@ -1022,6 +1105,13 @@ W
         or
       _(5)ch(')(u:) (4)m(a/)i_ [[cyu5 maai4 貯埋]],
         to lay by.
+    ==
+  ====
+L
+  ====
+  * 【貯】 (trjoX)
+    ==
+    - (_verb-like_) [to] stockpile
     ==
   ====
 $$
