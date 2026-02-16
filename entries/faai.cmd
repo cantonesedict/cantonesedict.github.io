@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faai
-* %date-modified --> 2025-12-20
-* %copyright-prior-years --> "2023, "
+* %date-modified --> 2026-02-16
+* %copyright-prior-years --> "2023, 2025--"
 
 %%%
 
@@ -136,6 +136,7 @@ U
 A
   ==
   - 凷
+  - 墤
   ==
 F
   ==
@@ -179,6 +180,13 @@ P
   ++
   1. Solitary (Kangxi: 孑也).
   ++
+L
+  ====
+  * 【塊】 (khwojH, khweajH)
+    ==
+    - (_noun-like_) clod
+    ==
+  ====
 $$
 
 ### 快3 | _F(a/)i(3)_ [[faai3]]
@@ -255,6 +263,13 @@ P
   1. Sharp.
   1. Soon.
   ++
+L
+  ====
+  * 【快】 (khwaejH)
+    ==
+    - (_adjective-like_) pleased
+    ==
+  ====
 E
   ====
   - 【快脆】 (faai3 ceoi3)

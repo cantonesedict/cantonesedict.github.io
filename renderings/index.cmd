@@ -1465,6 +1465,27 @@ window.onload = applyFilter;
       - (_noun-like_) parched-grain
       ==
   //
+    , `khwaejH`
+    , [快](/entries/faai#rendering-快)
+    ,
+      ==
+      - (_adjective-like_) pleased
+      ==
+  //
+    , `khweajH`
+    , [塊](/entries/faai#rendering-塊)
+    ,
+      ==
+      - (_noun-like_) clod
+      ==
+  //
+    , `khwojH`
+    , [塊](/entries/faai#rendering-塊)
+    ,
+      ==
+      - (_noun-like_) clod
+      ==
+  //
     , `pjut sjewH`
     , [不肖](/entries/ciu#rendering-不肖)
     ,
