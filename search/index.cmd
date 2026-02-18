@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Search by character or code point
-* %date-modified --> 2025-12-28
+* %date-modified --> 2026-02-18
 * %copyright-prior-years --> 2024--
 * %meta-description --> search by Chinese character or by Unicode code point
 
