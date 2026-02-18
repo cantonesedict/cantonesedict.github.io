@@ -172,6 +172,22 @@ input {
 }
 
 
+ins {
+  color: var(--modern-colour);
+}
+ins.modern {
+  text-decoration: none;
+}
+
+
+img {
+  align-self: center;
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+
+
 li:is([id^='cantonese-'], [id^='rendering-']) {
   list-style-type: none;
   margin-left: -1em;
@@ -187,22 +203,6 @@ li[id^='cantonese-'] > ol, li[id^='rendering-'] > ul {
 }
 li[id^='cantonese-'] > ol > li {
   margin-top: 0.2em;
-}
-
-
-ins {
-  color: var(--modern-colour);
-}
-ins.modern {
-  text-decoration: none;
-}
-
-
-img {
-  align-self: center;
-  max-width: 100%;
-  height: auto;
-  vertical-align: middle;
 }
 
 
