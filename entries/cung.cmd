@@ -1867,7 +1867,7 @@ C
   ==
 L
   ====
-  * 【重】 (drjowng)
+  * 【重-level】 (drjowng)
     ==
     - (_verb-like_) [to] repeat, [to] layer
     - (_adverb-like_) once more

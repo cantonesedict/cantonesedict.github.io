@@ -498,7 +498,7 @@ window.onload = applyFilter;
       ==
   //
     , `drjang`
-    , [長](/entries/coeng#rendering-長)
+    , [長~(level)](/entries/coeng#rendering-長-level)
     ,
       ==
       - (_adjective-like_) long, (_met._) everlasting
@@ -709,7 +709,7 @@ window.onload = applyFilter;
       ==
   //
     , `drjowng`
-    , [重](/entries/cung#rendering-重)
+    , [重~(level)](/entries/cung#rendering-重-level)
     ,
       ==
       - (_verb-like_) [to] repeat, [to] layer
@@ -2590,7 +2590,7 @@ window.onload = applyFilter;
       ==
   //
     , `tshjuwk`
-    , [蹴](/entries/cuk#rendering-蹴)
+    , [蹴~(unvoiced)](/entries/cuk#rendering-蹴-unvoiced)
     ,
       ==
       - (_verb-like_) [to] trample, [to] kick
@@ -2879,7 +2879,7 @@ window.onload = applyFilter;
       ==
   //
     , `tsjuwk`
-    , [蹴](/entries/cuk#rendering-蹴)
+    , [蹴~(unvoiced)](/entries/cuk#rendering-蹴-unvoiced)
     ,
       ==
       - (_verb-like_) [to] trample, [to] kick
@@ -2992,7 +2992,7 @@ window.onload = applyFilter;
       ==
   //
     , `tsrhjang`
-    , [創](/entries/cong#rendering-創)
+    , [創~(level)](/entries/cong#rendering-創-level)
     ,
       ==
       - (_verb-like_) [to] wound

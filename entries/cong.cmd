@@ -191,7 +191,7 @@ C
   ==
 L
   ====
-  * 【創】 (tsrhjang)
+  * 【創-level】 (tsrhjang)
     ==
     - (_verb-like_) [to] wound
     ==

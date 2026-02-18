@@ -2085,7 +2085,7 @@ W
   ====
 L
   ====
-  * 【長】 (drjang)
+  * 【長-level】 (drjang)
     ==
     - (_adjective-like_) long, (_met._) everlasting
     ==

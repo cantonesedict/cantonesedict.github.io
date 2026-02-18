@@ -2951,6 +2951,7 @@ class Linter:
             Linter.lint_character_entry_literary_rendering_linkage(character_entries)
             Linter.lint_character_entry_see_also_reciprocation(character_entries)
             Linter.lint_literary_rendering_url_duplication(literary_renderings)
+            Linter.lint_literary_rendering_disambiguation_consistency(literary_renderings)
             Linter.lint_cantonese_entry_url_duplication(cantonese_entries)
         except LintException as lint_exception:
             print(f'Error: {lint_exception.message}', file=sys.stderr)
@@ -3554,6 +3555,25 @@ class Linter:
         for url, collated_literary_renderings in collated_literary_renderings_from_url.items():
             if len(collated_literary_renderings) > 1:
                 raise LintException(f'duplicated literary rendering URL `{url}`')
+
+    @staticmethod
+    def lint_literary_rendering_disambiguation_consistency(literary_renderings: list['LiteraryRendering']):
+        collated_literary_renderings_from_term = Utilities.collate_firsts_by_second(
+            (literary_rendering, literary_rendering.term)
+            for literary_rendering in literary_renderings
+        )
+
+        for term, collated_literary_renderings in collated_literary_renderings_from_term.items():
+            if len(collated_literary_renderings) < 2:
+                continue
+
+            disambiguation_suffixes = set(
+                literary_rendering.disambiguation_suffix
+                for literary_rendering in collated_literary_renderings
+            )
+
+            if len(disambiguation_suffixes) > 1 and '' in disambiguation_suffixes:
+                raise LintException(f'missing disambiguation suffix for some literary renderings for `{term}`')
 
     @staticmethod
     def lint_cantonese_entry_url_duplication(cantonese_entries: list['CantoneseEntry']):

@@ -811,7 +811,7 @@ L
     ==
     - (_adjective-like_) reverential
     ==
-  * 【蹴】 (tshjuwk, tsjuwk)
+  * 【蹴-unvoiced】 (tshjuwk, tsjuwk)
     ==
     - (_verb-like_) [to] trample, [to] kick
     ==
