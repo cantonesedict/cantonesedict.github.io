@@ -5,8 +5,8 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Conway's preface
-* %date-modified --> 2025-11-08
-* %copyright-prior-years -->
+* %date-modified --> 2026-02-18
+* %copyright-prior-years --> 2025--
 * %meta-description --> Conway's preface
 
 OrdinaryDictionaryReplacement: #.no-black-serif-note
