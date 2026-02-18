@@ -1025,7 +1025,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - {$反faan1, $反faan2}
+      - {$反faan1, $反faan2, $反faan6}
       ==
       </nav>
   //

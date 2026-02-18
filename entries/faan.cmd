@@ -124,6 +124,7 @@ E
 S
   ==
   - $反faan2
+  - $反faan6
   ==
 $$
 
@@ -723,6 +724,7 @@ L
 S
   ==
   - $反faan1
+  - $反faan6
   ==
 $$
 
@@ -1803,6 +1805,7 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $反6
 - $梵6
 - ($氾6)
 - ($泛6)
@@ -1814,6 +1817,39 @@ $$
 ==
 </nav>
 <## /tone-6-characters ##>
+
+###+ 反6 | _F(a/)n(6)_ [[faan6]]
+
+$$
+R
+  ⼜ + 2
+U
+  U+53CD
+V
+  ==
+  - faan3 (alternative per 《集韻》方願切)
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Used in 反反 (solemn, prudent).
+  ++
+L
+  ====
+  * 【反-voiced】 (baenX)
+    ==
+    - (_adjective-like_) solemn, prudent
+    ==
+  ====
+S
+  ==
+  - $反faan1
+  - $反faan2
+  ==
+$$
 
 ### 梵6 | _F(a/)n(6)_ [[faan6]]
 

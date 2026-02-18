@@ -375,6 +375,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] steep
       ==
   //
+    , `baenX`
+    , [反~(voiced)](/entries/faan#rendering-反-voiced)
+    ,
+      ==
+      - (_adjective-like_) solemn, prudent
+      ==
+  //
     , `downg`
     , [爞](/entries/cung#rendering-爞)
     ,
