@@ -101,6 +101,18 @@ P
      (Middle) Chinese pronunciation by two characters,
      marking the initial (consonant) and the final (rime) respectively.
   ++
+L
+  ====
+  * 【反-level】 (phjon)
+    ==
+    - (_verb-like_) [to] overturn
+    - Used in [反切](/entries/faan#rendering-反切).
+    ==
+  * 【反切】 (phjon tshet)
+    ==
+    - (_noun-like_) back-dissection
+    ==
+  ====
 E
   ====
   - 【反】 (faan1)
@@ -699,6 +711,15 @@ P
   1. Contrariwise.
   1. To reflect.
   ++
+L
+  ====
+  * 【反-rising】 (pjonX)
+    ==
+    - (_verb-like_) [to] turn (over), [to] turn (back)
+    - (_verb-like_) [to] revolt
+    - (_adverb-like_) contrariwise
+    ==
+  ====
 S
   ==
   - $反faan1

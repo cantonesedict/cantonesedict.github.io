@@ -1486,6 +1486,30 @@ window.onload = applyFilter;
       - (_noun-like_) clod
       ==
   //
+    , `phjon`
+    , [反~(level)](/entries/faan#rendering-反-level)
+    ,
+      ==
+      - (_verb-like_) [to] overturn
+      - Used in [反切](/entries/faan#rendering-反切).
+      ==
+  //
+    , `phjon tshet`
+    , [反切](/entries/faan#rendering-反切)
+    ,
+      ==
+      - (_noun-like_) back-dissection
+      ==
+  //
+    , `pjonX`
+    , [反~(rising)](/entries/faan#rendering-反-rising)
+    ,
+      ==
+      - (_verb-like_) [to] turn (over), [to] turn (back)
+      - (_verb-like_) [to] revolt
+      - (_adverb-like_) contrariwise
+      ==
+  //
     , `pjut sjewH`
     , [不肖](/entries/ciu#rendering-不肖)
     ,
@@ -2228,6 +2252,7 @@ window.onload = applyFilter;
       - (_verb-like_) [to] cut, [to] dissect, (_met._) [to] gnash
       - (_verb-like_) [to] take (pulse)
       - (_adjective-like_) (_met._) pressing
+      - Used in [反切](/entries/faan#rendering-反切).
       ==
   //
     , `tshijH`

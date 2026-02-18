@@ -131,6 +131,7 @@ L
     - (_verb-like_) [to] cut, [to] dissect, (_met._) [to] gnash
     - (_verb-like_) [to] take (pulse)
     - (_adjective-like_) (_met._) pressing
+    - Used in [反切](/entries/faan#rendering-反切).
     ==
   ====
 E
