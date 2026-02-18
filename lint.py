@@ -2953,6 +2953,7 @@ class Linter:
             Linter.lint_literary_rendering_url_duplication(literary_renderings)
             Linter.lint_literary_rendering_disambiguation_consistency(literary_renderings)
             Linter.lint_cantonese_entry_url_duplication(cantonese_entries)
+            Linter.lint_cantonese_entry_disambiguation_consistency(cantonese_entries)
         except LintException as lint_exception:
             print(f'Error: {lint_exception.message}', file=sys.stderr)
             sys.exit(1)
@@ -3585,6 +3586,25 @@ class Linter:
         for url, collated_cantonese_entries in collated_cantonese_entries_from_url.items():
             if len(collated_cantonese_entries) > 1:
                 raise LintException(f'duplicated Cantonese entry URL `{url}`')
+
+    @staticmethod
+    def lint_cantonese_entry_disambiguation_consistency(cantonese_entries: list['CantoneseEntry']):
+        collated_cantonese_entries_from_term = Utilities.collate_firsts_by_second(
+            (cantonese_entry, cantonese_entry.term)
+            for cantonese_entry in cantonese_entries
+        )
+
+        for term, collated_cantonese_entries in collated_cantonese_entries_from_term.items():
+            if len(collated_cantonese_entries) < 2:
+                continue
+
+            disambiguation_suffixes = set(
+                cantonese_entry.disambiguation_suffix
+                for cantonese_entry in collated_cantonese_entries
+            )
+
+            if len(disambiguation_suffixes) > 1 and '' in disambiguation_suffixes:
+                raise LintException(f'missing disambiguation suffix for some Cantonese entries for `{term}`')
 
     @staticmethod
     def _replace_entry_links(content: str, entry_pages_from_incipit: dict[str, list['EntryPage']]) -> str:
