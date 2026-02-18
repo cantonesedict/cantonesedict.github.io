@@ -24,6 +24,12 @@ RegexDictionaryReplacement: #.yawnoc.get-year
   \g<year>
 
 
+RegexDictionaryReplacement: #.boilerplate.main
+- queue_position: BEFORE #boilerplate-properties
+* (?<=</header>) --> \n<main>
+* (?=</body>) --> </main>\n
+
+
 RegexDictionaryReplacement: #.boilerplate.footer
 - queue_position: BEFORE #boilerplate-properties
 * (?=</body>) -->
