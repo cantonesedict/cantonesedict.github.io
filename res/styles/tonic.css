@@ -51,12 +51,6 @@ body {
   overflow-wrap: break-word;
   padding: var(--header-nav-height) var(--body-padding-horizontal) 1.3rem;
 }
-body > nav, .radicals nav {
-  font-size: 1.15rem;
-}
-body > nav li {
-  margin: 0.33em 0;
-}
 
 
 dd {
@@ -209,6 +203,14 @@ img {
   max-width: 100%;
   height: auto;
   vertical-align: middle;
+}
+
+
+main > nav, .radicals nav {
+  font-size: 1.15rem;
+}
+main > nav li {
+  margin: 0.33em 0;
 }
 
 
