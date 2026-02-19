@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-02-20
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -380,6 +380,20 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) solemn, prudent
+      ==
+  //
+    , `bjon`
+    , [旛](/entries/faan#rendering-旛)
+    ,
+      ==
+      - (_noun-like_) banner
+      ==
+  //
+    , `bjuwng`
+    , [汎](/entries/faan#rendering-汎)
+    ,
+      ==
+      - (_verb-like_) [to] float (about)
       ==
   //
     , `downg`
@@ -1493,12 +1507,55 @@ window.onload = applyFilter;
       - (_noun-like_) clod
       ==
   //
+    , `phjomH`
+    , [氾](/entries/faan#rendering-氾)
+    ,
+      ==
+      - (_verb-like_) [to] flood
+      ==
+  //
+    , `phjomH`
+    , [汎](/entries/faan#rendering-汎)
+    ,
+      ==
+      - (_verb-like_) [to] float (about)
+      ==
+  //
     , `phjon`
     , [反~(level)](/entries/faan#rendering-反-level)
     ,
       ==
-      - (_verb-like_) [to] overturn
+      - (_verb-like_) [to] flip, [to] overturn
       - Used in [反切](/entries/faan#rendering-反切).
+      ==
+  //
+    , `phjon`
+    , [幡](/entries/faan#rendering-幡)
+    ,
+      ==
+      - (_verb-like_) [to] flip
+      - (_verb-like_) [to] flap (about)
+      ==
+  //
+    , `phjon`
+    , [旛](/entries/faan#rendering-旛)
+    ,
+      ==
+      - (_noun-like_) banner
+      ==
+  //
+    , `phjon`
+    , [番](/entries/faan#rendering-番)
+    ,
+      ==
+      - (_noun-like_) turn
+      ==
+  //
+    , `phjon`
+    , [轓](/entries/faan#rendering-轓)
+    ,
+      ==
+      - (_noun-like_) chariot-cover
       ==
   //
     , `phjon tshet`
@@ -1508,6 +1565,13 @@ window.onload = applyFilter;
       - (_noun-like_) back-dissection
       ==
   //
+    , `pjon`
+    , [轓](/entries/faan#rendering-轓)
+    ,
+      ==
+      - (_noun-like_) chariot-cover
+      ==
+  //
     , `pjonX`
     , [反~(rising)](/entries/faan#rendering-反-rising)
     ,
@@ -1515,6 +1579,21 @@ window.onload = applyFilter;
       - (_verb-like_) [to] turn (over), [to] turn (back)
       - (_verb-like_) [to] revolt
       - (_adverb-like_) contrariwise
+      ==
+  //
+    , `pjonX`
+    , [返](/entries/faan#rendering-返)
+    ,
+      ==
+      - (_verb-like_) [to] turn (back)
+      ==
+  //
+    , `pjonH`
+    , [販](/entries/faan#rendering-販)
+    ,
+      ==
+      - (_verb-like_) [to] trade (in)
+      - (_noun-like_) trader
       ==
   //
     , `pjut sjewH`

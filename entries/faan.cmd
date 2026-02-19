@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faan
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-02-20
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -105,7 +105,7 @@ L
   ====
   * 【反-level】 (phjon)
     ==
-    - (_verb-like_) [to] overturn
+    - (_verb-like_) [to] flip, [to] overturn
     - Used in [反切](/entries/faan#rendering-反切).
     ==
   * 【反切】 (phjon tshet)
@@ -182,6 +182,14 @@ P
   1. A reversal, an about-face (Kangxi: 幡反也).
      (Alternative form of 翻 (for the "reverse/flip" senses). See $翻faan1.)
   ++
+L
+  ====
+  * 【幡】 (phjon)
+    ==
+    - (_verb-like_) [to] flip
+    - (_verb-like_) [to] flap (about)
+    ==
+  ====
 $$
 
 ### 旛1 | _(1)F(a/)n_ [[faan1]]
@@ -222,6 +230,13 @@ P
   ++
   1. Banners or flags in general (Kangxi: 旌旗總名也).
   ++
+L
+  ====
+  * 【旛】 (phjon, bjon)
+    ==
+    - (_noun-like_) banner
+    ==
+  ====
 $$
 
 ### 番1 | _(1)F(a/)n_ [[faan1]]
@@ -271,6 +286,13 @@ P
     - 三番起糊 (saam1 faan1 hei2 wu4-2): "Three points minimum [for a] win."
     ==
   ++
+L
+  ====
+  * 【番】 (phjon)
+    ==
+    - (_noun-like_) turn
+    ==
+  ====
 E
   ====
   - 【番子】 (faan1 zi2)
@@ -483,6 +505,13 @@ P
   ++
   1. A large storage compartment of a chariot (Kangxi 轓: 車大箱也).
   ++
+L
+  ====
+  * 【轓】 (pjon, phjon)
+    ==
+    - (_noun-like_) chariot-cover
+    ==
+  ====
 $$
 
 ###+ 返1 | _(1)F(a/)n_ [[faan1]]
@@ -828,6 +857,13 @@ C
   - Williams' 往返幾日: Corrected _(2)wong_ (wong2) to _(5)wong_ (wong5).
   - All three examples read like they belong under $返faan1 instead.
   ==
+L
+  ====
+  * 【返】 (pjonX)
+    ==
+    - (_verb-like_) [to] turn (back)
+    ==
+  ====
 S
   ==
   - $返faan1
@@ -911,6 +947,13 @@ P
   ++
   1. Unsteady, bobbing (Kangxi: 不定之辭).
   ++
+L
+  ====
+  * 【氾】 (phjomH)
+    ==
+    - (_verb-like_) [to] flood
+    ==
+  ====
 S
   ==
   - $氾faan4
@@ -925,6 +968,10 @@ R
   ⽔ + 3
 U
   U+6C4E
+V
+  ==
+  - fung4 (alternative per 《廣韻》房戎切)
+  ==
 F
   ==
   - (F2.70 泛) 廣也泛濫也
@@ -947,6 +994,13 @@ C
   ==
   - Fan Wan entry: Corrected headword 㲹 to 汎.
   ==
+L
+  ====
+  * 【汎】 (phjomH, bjuwng)
+    ==
+    - (_verb-like_) [to] float (about)
+    ==
+  ====
 $$
 
 ### 泛3 | _F(a/)n(3)_ [[faan3]]
@@ -1130,6 +1184,14 @@ P
   ++
   1. A seller, a dealer (Kangxi: 買賤賣貴者).
   ++
+L
+  ====
+  * 【販】 (pjonH)
+    ==
+    - (_verb-like_) [to] trade (in)
+    - (_noun-like_) trader
+    ==
+  ====
 S
   ==
   - ($販faan6)
