@@ -1283,6 +1283,15 @@ P
   1. To total (Kangxi 凡: 計數也, 凡最計也).
   1. Mortal, earthly.
   ++
+L
+  ====
+  * 【凡】 (bjom)
+    ==
+    - (_determiner-like_) all, every
+    - (_preposition-like_) in total
+    - (_adjective-like_) common
+    ==
+  ====
 $$
 
 ### 凢4 | _(4)F(a/)n_ [[faan4]]
@@ -1334,6 +1343,13 @@ C
   ==
   - Fan Wan entry: Fixed missing stroke in 間, and corrected 塜 to 塚.
   ==
+L
+  ====
+  * 【墦】 (bjon)
+    ==
+    - (_noun-like_) grave
+    ==
+  ====
 $$
 
 ### 帆4 | _(4)F(a/)n_ [[faan4]]
@@ -1362,6 +1378,17 @@ W
     - _(4)f(a/)n p(o\)(3)_
         [[faan4 bou3 帆布]]
         canvas.
+    ==
+  ====
+L
+  ====
+  * 【帆-noun】 (bjom)
+    ==
+    - (_noun-like_) sail
+    ==
+  * 【帆-verb】 (bjomH)
+    ==
+    - (_verb-like_) [to] sail
     ==
   ====
 $$
@@ -1467,6 +1494,15 @@ P
   ++
   1. Complex (Kangxi: ::不[簡]也::). (Alternative form of 繁. See $繁faan4.)
   ++
+L
+  ====
+  * 【煩】 (bjon)
+    ==
+    - (_verb-like_) [to] vex, [to] bother
+    - (_adjective-like_) vexed, bothered
+    - (_adjective-like_) vexatious, bothersome
+    ==
+  ====
 $$
 
 ### 燔4 | _(4)F(a/)n_ [[faan4]]
@@ -1502,6 +1538,13 @@ P
   ++
   1. To roast, to burn (Kangxi: ::[爇]也::, 燒也, 炙也).
   ++
+L
+  ====
+  * 【燔】 (bjon)
+    ==
+    - (_verb-like_) [to] roast, [to] burn
+    ==
+  ====
 $$
 
 ###+ 番4 | _(4)F(a/)n_ [[faan4]]
@@ -1648,6 +1691,13 @@ P
   1. Complex.
   1. Abundant, flourishing (Kangxi: 繁猶盛也).
   ++
+L
+  ====
+  * 【繁】 (bjon)
+    ==
+    - (_adjective-like_) abundant, manifold
+    ==
+  ====
 S
   ==
   - $繁po4 (TODO) <## (Kangxi: 姓也; alternative form of $皤po4) ##>
@@ -1684,6 +1734,13 @@ W
     - the remnants of a sacrifice, sent to princes [[Kangxi: ::[...]以饋同姓諸侯::]].
     ==
   ====
+L
+  ====
+  * 【膰】 (bjon)
+    ==
+    - (_noun-like_) sacrificial-roast
+    ==
+  ====
 $$
 
 ### 蕃4 | _(4)F(a/)n_ [[faan4]]
@@ -1714,6 +1771,13 @@ W
     --
     [[Otherwise, an alternative form of 藩. **See $藩faan4 for the canonical entry.**]]
     --
+  ====
+L
+  ====
+  * 【蕃】 (bjon)
+    ==
+    - (_adjective-like_) luxuriant, flourishing
+    ==
   ====
 S
   ==
@@ -1771,6 +1835,14 @@ P
   ++
   1. A screen (Kangxi 藩: 與蕃通屛也).
   ++
+L
+  ====
+  * 【藩】 (pjon)
+    ==
+    - (_noun-like_) fence
+    - (_noun-like_) screen
+    ==
+  ====
 S
   ==
   - ($藩faan1)
@@ -1803,6 +1875,13 @@ C
   ==
   - Williams' 蘩蒿: This is dubious.
   ==
+L
+  ====
+  * 【蘩】 (bjon)
+    ==
+    - (_noun-like_) hoary-mugwort
+    ==
+  ====
 $$
 
 ### 蠜4 | _(4)F(a/)n_ [[faan4]]
@@ -1857,6 +1936,13 @@ W
     - _(4)hung (4)f(a/)n_
         [[hung4 faan4 熊蹯]],
         a bear's paw, which is esteemed a delicacy.
+    ==
+  ====
+L
+  ====
+  * 【蹯】 (bjon)
+    ==
+    - (_noun-like_) paw
     ==
   ====
 $$
@@ -2059,6 +2145,15 @@ P
   ++
   1. To face, to brave.
   ++
+L
+  ====
+  * 【犯】 (bjomX)
+    ==
+    - (_verb-like_) [to] offend (against)
+    - (_verb-like_) [to] confront, [to] face
+    - (_verb-like_) [to] go over
+    ==
+  ====
 $$
 
 ### 範6 | _F(a/)n(6)_ [[faan6]]
@@ -2113,6 +2208,13 @@ P
   1. Bounds.
   1. To bound, to guard against.
   ++
+L
+  ====
+  * 【範】 (bjomX)
+    ==
+    - (_noun-like_) mould
+    ==
+  ====
 $$
 
 ### 范6 | _F(a/)n(6)_ [[faan6]]
@@ -2140,8 +2242,15 @@ W
   ====
 C
   ==
-  - Williams' "Herbs, grass": More likely a type of grass.
+  - Williams' "Herbs, grass": More likely a *type* of grass.
   ==
+L
+  ====
+  * 【范】 (bjomX)
+    ==
+    - (_noun-like_) bee
+    ==
+  ====
 $$
 
 ###+ 販6 | _F(a/)n(6)_ [[faan6]]
@@ -2219,4 +2328,15 @@ P
   1. To eat (Kangxi: 餐飯也), to feed.
   1. The base of the thumb (Kangxi: 指本, 飯大擘指本也).
   ++
+L
+  ====
+  * 【飯-verb】 (bjonX)
+    ==
+    - (_verb-like_) [to] eat, [to] feed
+    ==
+  * 【飯-noun】 (bjonH)
+    ==
+    - (_noun-like_) cooked-rice, rice, meal
+    ==
+  ====
 $$

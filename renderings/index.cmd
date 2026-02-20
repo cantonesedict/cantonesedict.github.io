@@ -382,11 +382,129 @@ window.onload = applyFilter;
       - (_adjective-like_) solemn, prudent
       ==
   //
+    , `bjom`
+    , [凡](/entries/faan#rendering-凡)
+    ,
+      ==
+      - (_determiner-like_) all, every
+      - (_preposition-like_) in total
+      - (_adjective-like_) common
+      ==
+  //
+    , `bjom`
+    , [帆~(noun)](/entries/faan#rendering-帆-noun)
+    ,
+      ==
+      - (_noun-like_) sail
+      ==
+  //
+    , `bjomX`
+    , [犯](/entries/faan#rendering-犯)
+    ,
+      ==
+      - (_verb-like_) [to] offend (against)
+      - (_verb-like_) [to] confront, [to] face
+      - (_verb-like_) [to] go over
+      ==
+  //
+    , `bjomX`
+    , [範](/entries/faan#rendering-範)
+    ,
+      ==
+      - (_noun-like_) mould
+      ==
+  //
+    , `bjomX`
+    , [范](/entries/faan#rendering-范)
+    ,
+      ==
+      - (_noun-like_) bee
+      ==
+  //
+    , `bjomH`
+    , [帆~(verb)](/entries/faan#rendering-帆-verb)
+    ,
+      ==
+      - (_verb-like_) [to] sail
+      ==
+  //
+    , `bjon`
+    , [墦](/entries/faan#rendering-墦)
+    ,
+      ==
+      - (_noun-like_) grave
+      ==
+  //
     , `bjon`
     , [旛](/entries/faan#rendering-旛)
     ,
       ==
       - (_noun-like_) banner
+      ==
+  //
+    , `bjon`
+    , [煩](/entries/faan#rendering-煩)
+    ,
+      ==
+      - (_verb-like_) [to] vex, [to] bother
+      - (_adjective-like_) vexed, bothered
+      - (_adjective-like_) vexatious, bothersome
+      ==
+  //
+    , `bjon`
+    , [燔](/entries/faan#rendering-燔)
+    ,
+      ==
+      - (_verb-like_) [to] roast, [to] burn
+      ==
+  //
+    , `bjon`
+    , [繁](/entries/faan#rendering-繁)
+    ,
+      ==
+      - (_adjective-like_) abundant, manifold
+      ==
+  //
+    , `bjon`
+    , [膰](/entries/faan#rendering-膰)
+    ,
+      ==
+      - (_noun-like_) sacrificial-roast
+      ==
+  //
+    , `bjon`
+    , [蕃](/entries/faan#rendering-蕃)
+    ,
+      ==
+      - (_adjective-like_) luxuriant, flourishing
+      ==
+  //
+    , `bjon`
+    , [蘩](/entries/faan#rendering-蘩)
+    ,
+      ==
+      - (_noun-like_) hoary-mugwort
+      ==
+  //
+    , `bjon`
+    , [蹯](/entries/faan#rendering-蹯)
+    ,
+      ==
+      - (_noun-like_) paw
+      ==
+  //
+    , `bjonX`
+    , [飯~(verb)](/entries/faan#rendering-飯-verb)
+    ,
+      ==
+      - (_verb-like_) [to] eat, [to] feed
+      ==
+  //
+    , `bjonH`
+    , [飯~(noun)](/entries/faan#rendering-飯-noun)
+    ,
+      ==
+      - (_noun-like_) cooked-rice, rice, meal
       ==
   //
     , `bjuwng`
@@ -1563,6 +1681,14 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) back-dissection
+      ==
+  //
+    , `pjon`
+    , [藩](/entries/faan#rendering-藩)
+    ,
+      ==
+      - (_noun-like_) fence
+      - (_noun-like_) screen
       ==
   //
     , `pjon`
