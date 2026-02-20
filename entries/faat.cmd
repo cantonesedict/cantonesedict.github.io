@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faat
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-02-20
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -136,6 +136,16 @@ P
   1. A divisor.
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【法】 (pjop)
+    ==
+    - (_noun-like_) law
+    - (_noun-like_) emulate
+    - (_noun-like_) method, fashion
+    - (_noun-like_) divisor
+    ==
+  ====
 $$
 
 ###+ 灋3 | _F(a/)t(8)_ [[faat3]]
@@ -262,6 +272,17 @@ P
   1. To raise (Kangxi: 舉也, 興也).
   1. To till, to hoe (Kangxi: 伐也, 以耜擊伐).
   ++
+L
+  ====
+  * 【發】 (pjot)
+    ==
+    - (_verb-like_) [to] send forth
+    - (_verb-like_) [to] start (up)
+    - (_verb-like_) [to] go forth
+    - (_verb-like_) [to] shew forth
+    - (_adjective-like_) fierce
+    ==
+  ====
 S
   ==
   - $發but3 (TODO) <## same as 撥; also 鱣鮪發發 ##>
@@ -326,4 +347,11 @@ C
     The second half is 留髮不留頭,
     "retain [your] hair [and you will] not retain [your] head".
   ==
+L
+  ====
+  * 【髮】 (pjot)
+    ==
+    - (_noun-like_) hair
+    ==
+  ====
 $$

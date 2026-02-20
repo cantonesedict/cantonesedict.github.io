@@ -1722,6 +1722,34 @@ window.onload = applyFilter;
       - (_noun-like_) trader
       ==
   //
+    , `pjop`
+    , [法](/entries/faat#rendering-法)
+    ,
+      ==
+      - (_noun-like_) law
+      - (_noun-like_) emulate
+      - (_noun-like_) method, fashion
+      - (_noun-like_) divisor
+      ==
+  //
+    , `pjot`
+    , [發](/entries/faat#rendering-發)
+    ,
+      ==
+      - (_verb-like_) [to] send forth
+      - (_verb-like_) [to] start (up)
+      - (_verb-like_) [to] go forth
+      - (_verb-like_) [to] shew forth
+      - (_adjective-like_) fierce
+      ==
+  //
+    , `pjot`
+    , [髮](/entries/faat#rendering-髮)
+    ,
+      ==
+      - (_noun-like_) hair
+      ==
+  //
     , `pjut sjewH`
     , [不肖](/entries/ciu#rendering-不肖)
     ,
