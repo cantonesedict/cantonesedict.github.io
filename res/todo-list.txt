@@ -1,5 +1,0 @@
-nam#腍4 (U+814D)
-nap#𣲷6 (U+23CB7)
-e6
-wai3 = Williams hw(e/)?
-koe3 = Williams k(')(u\)
