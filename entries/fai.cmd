@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fai
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-02-22
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -134,6 +134,15 @@ C
     away from the strings (providing a visual cue but no physical stoppage).
   - Williams' 徽號: Now "emblem" or "badge".
   ==
+L
+  ====
+  * 【徽】 (xjw+j)
+    ==
+    - (_noun-like_) three-stranded-cord
+    - (_adjective-like_) good, beautiful
+    - (_noun-like_) banner
+    ==
+  ====
 $$
 
 ### 揮1 | _(1)Fai_ [[fai1]]
@@ -193,6 +202,14 @@ P
   1. To direct, to command (Kangxi: 指揮也).
   1. To brandish.
   ++
+L
+  ====
+  * 【揮】 (xjw+j)
+    ==
+    - (_verb-like_) [to] shake
+    - (_verb-like_) [to] brandish
+    ==
+  ====
 E
   ====
   - 【揮春】 (fai1 ceon1)
@@ -241,8 +258,15 @@ C
   ==
 P
   ++
-  1. To direct, to command (Kangxi: 一曰手指麾也).
+  1. To signal, to direct, to command (Kangxi: 一曰手指麾也).
   ++
+L
+  ====
+  * 【撝】 (xjwe)
+    ==
+    - (_verb-like_) [to] signal
+    ==
+  ====
 $$
 
 ### 暉1 | _(1)Fai_ [[fai1]]
@@ -268,6 +292,13 @@ W
     --
     [[Alternative form of 輝. See $輝fai1.]]
     --
+  ====
+L
+  ====
+  * 【暉】 (xjw+j)
+    ==
+    - (_noun-like_) sunlight, (_met._) brightness
+    ==
   ====
 $$
 
@@ -357,6 +388,14 @@ W
         to fly up and show the plumage.
     ==
   ====
+L
+  ====
+  * 【翬】 (xjw+j)
+    ==
+    - (_noun-like_) colourful-pheasant
+    - (_verb-like_) [to] fly
+    ==
+  ====
 $$
 
 ### 輝1 | _(1)Fai_ [[fai1]]
@@ -399,6 +438,13 @@ W
     - _(1)fai (4)wong_
         [[fai1 wong4 輝煌]],
         illuminated.
+    ==
+  ====
+L
+  ====
+  * 【輝】 (xjw+j)
+    ==
+    - (_noun-like_) brightness
     ==
   ====
 $$
@@ -464,6 +510,13 @@ P
   ++
   1. A collapsed wall (Kangxi 隓: 敗城阜曰隓).
   ++
+L
+  ====
+  * 【隳】 (xjwie)
+    ==
+    - (_verb-like_) [to] destroy
+    ==
+  ====
 S
   ==
   - $隳do6 (TODO)
@@ -502,6 +555,15 @@ C
   ==
   - Fan Wan entry: Corrected missing strokes in 驅.
   ==
+L
+  ====
+  * 【麾】 (xjwe)
+    ==
+    - (_noun-like_) signal-flag
+    - (_verb-like_) [to] signal
+    - (_adjective-like_) quick
+    ==
+  ====
 $$
 
 
@@ -627,6 +689,15 @@ P
   ++
   1. To fall (Kangxi: 墮也).
   ++
+L
+  ====
+  * 【廢】 (pjojH)
+    ==
+    - (_verb-like_) [to] cast away, [to] abandon, [to] abolish
+    - (_verb-like_) [to] waste
+    - (_verb-like_) [to] fall
+    ==
+  ====
 $$
 
 ### 沸3 | _Fai(3)_ [[fai3]]
@@ -666,6 +737,21 @@ P
   ++
   1. Bustling.
   ++
+L
+  ====
+  * 【沸-departing】 (pj+jH)
+    ==
+    - (_verb-like_) [to] bubble
+    ==
+  * 【觱沸】 (pjit pjut)
+    ==
+    - (_verb-like_) [to] bubble
+    ==
+  * 【沸-entering】 (pjut)
+    ==
+    - Used in [觱沸](/entries/fai#rendering-觱沸).
+    ==
+  ====
 $$
 
 ###+ 狒3 | _Fai(3)_ [[fai3]]
@@ -740,6 +826,13 @@ C
     There is only one sense to be defined here
     (i.e. the pimples and small boils are also from heat, not standalone).
   ====
+L
+  ====
+  * 【疿】 (pj+jH)
+    ==
+    - (_noun-like_) heat-rash
+    ==
+  ====
 E
   ====
   - 【熱痱】 (jit6 fai3-2)
@@ -798,6 +891,13 @@ W
         the lungs.
     ==
   ====
+L
+  ====
+  * 【肺】 (phjojH)
+    ==
+    - (_noun-like_) lung
+    ==
+  ====
 S
   ==
   - $肺pui3 (TODO)
@@ -830,6 +930,14 @@ W
     - Luxuriant [[Fan Wan: 蔽芾木盛也]];
     - small [[Kangxi: 蔽芾小貌]];
     - [[...]].
+    ==
+  ====
+L
+  ====
+  * 【芾】 (pj+jH, pajH)
+    ==
+    - (_adjective-like_) small
+    - (_adjective-like_) luxuriant
     ==
   ====
 S
@@ -907,6 +1015,13 @@ W
         heedless, witless.
     ==
   ====
+L
+  ====
+  * 【費-unvoiced】 (phj+jH)
+    ==
+    - (_verb-like_) [to] squander
+    ==
+  ====
 E
   ====
   - 【費事】 (fai3 si6)
@@ -966,6 +1081,13 @@ W
     - _l(u:)n(6) fai(6) (2)kau_
         [[lyun6 fai6 gau2 亂吠狗]],
         a dog which barks at everybody.
+    ==
+  ====
+L
+  ====
+  * 【吠】 (bjojH)
+    ==
+    - (_verb-like_) [to] bark
     ==
   ====
 $$
@@ -1081,6 +1203,13 @@ P
   1. Broad in application (Kangxi: 費用之廣也).
   1. A surname (Kangxi: 姓也).
   ++
+L
+  ====
+  * 【費-voiced】 (bj+jH)
+    ==
+    - (_adjective-like_) general-use
+    ==
+  ====
 S
   ==
   - $費bei3 (TODO)

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-02-20
+* %date-modified --> 2026-02-22
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -380,6 +380,20 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) solemn, prudent
+      ==
+  //
+    , `bj+jH`
+    , [費~(voiced)](/entries/fai#rendering-費-voiced)
+    ,
+      ==
+      - (_adjective-like_) general-use
+      ==
+  //
+    , `bjojH`
+    , [吠](/entries/fai#rendering-吠)
+    ,
+      ==
+      - (_verb-like_) [to] bark
       ==
   //
     , `bjom`
@@ -1625,6 +1639,28 @@ window.onload = applyFilter;
       - (_noun-like_) clod
       ==
   //
+    , `pajH`
+    , [芾](/entries/fai#rendering-芾)
+    ,
+      ==
+      - (_adjective-like_) small
+      - (_adjective-like_) luxuriant
+      ==
+  //
+    , `phj+jH`
+    , [費~(unvoiced)](/entries/fai#rendering-費-unvoiced)
+    ,
+      ==
+      - (_verb-like_) [to] squander
+      ==
+  //
+    , `phjojH`
+    , [肺](/entries/fai#rendering-肺)
+    ,
+      ==
+      - (_noun-like_) lung
+      ==
+  //
     , `phjomH`
     , [氾](/entries/faan#rendering-氾)
     ,
@@ -1681,6 +1717,44 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) back-dissection
+      ==
+  //
+    , `pj+jH`
+    , [沸~(departing)](/entries/fai#rendering-沸-departing)
+    ,
+      ==
+      - (_verb-like_) [to] bubble
+      ==
+  //
+    , `pj+jH`
+    , [疿](/entries/fai#rendering-疿)
+    ,
+      ==
+      - (_noun-like_) heat-rash
+      ==
+  //
+    , `pj+jH`
+    , [芾](/entries/fai#rendering-芾)
+    ,
+      ==
+      - (_adjective-like_) small
+      - (_adjective-like_) luxuriant
+      ==
+  //
+    , `pjit pjut`
+    , [觱沸](/entries/fai#rendering-觱沸)
+    ,
+      ==
+      - (_verb-like_) [to] bubble
+      ==
+  //
+    , `pjojH`
+    , [廢](/entries/fai#rendering-廢)
+    ,
+      ==
+      - (_verb-like_) [to] cast away, [to] abandon, [to] abolish
+      - (_verb-like_) [to] waste
+      - (_verb-like_) [to] fall
       ==
   //
     , `pjon`
@@ -1748,6 +1822,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) hair
+      ==
+  //
+    , `pjut`
+    , [沸~(entering)](/entries/fai#rendering-沸-entering)
+    ,
+      ==
+      - Used in [觱沸](/entries/fai#rendering-觱沸).
       ==
   //
     , `pjut sjewH`
@@ -3748,6 +3829,68 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] hoard
+      ==
+  //
+    , `xjw+j`
+    , [徽](/entries/fai#rendering-徽)
+    ,
+      ==
+      - (_noun-like_) three-stranded-cord
+      - (_adjective-like_) good, beautiful
+      - (_noun-like_) banner
+      ==
+  //
+    , `xjw+j`
+    , [揮](/entries/fai#rendering-揮)
+    ,
+      ==
+      - (_verb-like_) [to] shake
+      - (_verb-like_) [to] brandish
+      ==
+  //
+    , `xjw+j`
+    , [暉](/entries/fai#rendering-暉)
+    ,
+      ==
+      - (_noun-like_) sunlight, (_met._) brightness
+      ==
+  //
+    , `xjw+j`
+    , [翬](/entries/fai#rendering-翬)
+    ,
+      ==
+      - (_noun-like_) colourful-pheasant
+      - (_verb-like_) [to] fly
+      ==
+  //
+    , `xjw+j`
+    , [輝](/entries/fai#rendering-輝)
+    ,
+      ==
+      - (_noun-like_) brightness
+      ==
+  //
+    , `xjwe`
+    , [撝](/entries/fai#rendering-撝)
+    ,
+      ==
+      - (_verb-like_) [to] signal
+      ==
+  //
+    , `xjwe`
+    , [麾](/entries/fai#rendering-麾)
+    ,
+      ==
+      - (_noun-like_) signal-flag
+      - (_verb-like_) [to] signal
+      - (_adjective-like_) quick
+      ==
+  //
+    , `xjwie`
+    , [隳](/entries/fai#rendering-隳)
+    ,
+      ==
+      - (_verb-like_) [to] destroy
       ==
   //
     , `xwae`
