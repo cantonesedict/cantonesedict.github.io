@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fan
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-02-22
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -165,6 +165,16 @@ P
   1. A point, a mark (in scoring).
   1. A tenth of a Chinese inch (寸).
   ++
+L
+  ====
+  * 【分-level】 (pjun)
+    ==
+    - (_verb-like_) [to] separate, [to] split, (_met._) [to] dispute
+    - (_verb-like_) [to] distinguish
+    - (_verb-like_) [to] share
+    - (_noun-like_) tenth
+    ==
+  ====
 S
   ==
   - $分fan6
@@ -230,6 +240,13 @@ C
   ==
   - Fan Wan entry: Normalised headword ⿺熏力 to 勳.
   ==
+L
+  ====
+  * 【勳】 (xjun)
+    ==
+    - (_noun-like_) merit
+    ==
+  ====
 $$
 
 ### 匪1 | _(1)Fan_ [[fan1]]
@@ -331,6 +348,14 @@ C
   ==
   - Williams' 連婚: Corrected _(1)l(i/)n_ (lin1) to _(4)l(i/)n_ (lin4).
   ==
+L
+  ====
+  * 【婚】 (xwon)
+    ==
+    - (_noun-like_) marriage
+    - (_noun-like_) in-law
+    ==
+  ====
 $$
 
 ###+ 帉1 | _(1)Fan_ [[fan1]]
@@ -380,6 +405,13 @@ W
     ==
     - Stupid [[Kangxi: 不憭也, 不明了也, 心不明也]], forgetful [[Kangxi: 迷忘也]];
     - confused ~~recollection~~ [[Kangxi: 昏意也]].
+    ==
+  ====
+L
+  ====
+  * 【惛】 (xwon)
+    ==
+    - (_adjective-like_) muddled, muddle-[headed]
     ==
   ====
 $$
@@ -438,6 +470,14 @@ P
   1. Not yet named (Kangxi: 未名曰昏).
   1. To lose consciousness.
   ++
+L
+  ====
+  * 【昏】 (xwon)
+    ==
+    - (_noun-like_) dusk
+    - (_adjective-like_) adusk, (_met._) blind
+    ==
+  ====
 $$
 
 ###+ 昬1 | _(1)Fan_ [[fan1]]
@@ -635,11 +675,18 @@ W
   ====
 C
   ==
-  - 《廣韻》 has 符分切 _(4)fan_ (fan4) for 氛氲祥氣 "auspicious ambiance",
-    and 撫文切 _(1)fan_ (fan1) for 氛侵妖氣 "malign ambiance".
+  - 《廣韻》 has 符分切 _(4)fan_ (fan4) for 氛氲祥氣 "auspicious ambience",
+    and 撫文切 _(1)fan_ (fan1) for 氛侵妖氣 "malign ambience".
     Modern usage prefers the latter reading, and it is debatable
     whether the distinction was necessary in the first place.
   ==
+L
+  ====
+  * 【氛】 (bjun, phjun)
+    ==
+    - (_noun-like_) ambience
+    ==
+  ====
 $$
 
 ### 汾1 | _(1)Fan_ [[fan1]]
@@ -765,6 +812,13 @@ C
     which refers odours in general (whether good or bad).
   - Williams' 焄蒿: Corrected _(1)ho_ (ho1) to _(1)h(o\)_ (hou1).
   ==
+L
+  ====
+  * 【焄】 (xjun)
+    ==
+    - (_noun-like_) fume, odour
+    ==
+  ====
 $$
 
 ### 熏1 | _(1)Fan_ [[fan1]]
@@ -2480,6 +2534,14 @@ P
      - 約分 (joek3 fan6): "Reducing fractions."
      ==
   ++
+L
+  ====
+  * 【分-departing】 (bjunH)
+    ==
+    - (_noun-like_) share, fraction
+    - (_noun-like_) allotted [duty]
+    ==
+  ====
 S
   ==
   - $分fan1

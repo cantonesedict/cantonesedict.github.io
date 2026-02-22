@@ -521,6 +521,21 @@ window.onload = applyFilter;
       - (_noun-like_) cooked-rice, rice, meal
       ==
   //
+    , `bjun`
+    , [氛](/entries/fan#rendering-氛)
+    ,
+      ==
+      - (_noun-like_) ambience
+      ==
+  //
+    , `bjunH`
+    , [分~(departing)](/entries/fan#rendering-分-departing)
+    ,
+      ==
+      - (_noun-like_) share, fraction
+      - (_noun-like_) allotted [duty]
+      ==
+  //
     , `bjuwng`
     , [汎](/entries/faan#rendering-汎)
     ,
@@ -1719,6 +1734,13 @@ window.onload = applyFilter;
       - (_noun-like_) back-dissection
       ==
   //
+    , `phjun`
+    , [氛](/entries/fan#rendering-氛)
+    ,
+      ==
+      - (_noun-like_) ambience
+      ==
+  //
     , `pj+jH`
     , [沸~(departing)](/entries/fai#rendering-沸-departing)
     ,
@@ -1822,6 +1844,16 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) hair
+      ==
+  //
+    , `pjun`
+    , [分~(level)](/entries/fan#rendering-分-level)
+    ,
+      ==
+      - (_verb-like_) [to] separate, [to] split, (_met._) [to] dispute
+      - (_verb-like_) [to] distinguish
+      - (_verb-like_) [to] share
+      - (_noun-like_) tenth
       ==
   //
     , `pjut`
@@ -3795,6 +3827,20 @@ window.onload = applyFilter;
       - (_verb-like_) [to] beat
       ==
   //
+    , `xjun`
+    , [勳](/entries/fan#rendering-勳)
+    ,
+      ==
+      - (_noun-like_) merit
+      ==
+  //
+    , `xjun`
+    , [焄](/entries/fan#rendering-焄)
+    ,
+      ==
+      - (_noun-like_) fume, odour
+      ==
+  //
     , `xjuwH`
     , [嗅](/entries/cau#rendering-嗅)
     ,
@@ -3905,6 +3951,29 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] transform
+      ==
+  //
+    , `xwon`
+    , [婚](/entries/fan#rendering-婚)
+    ,
+      ==
+      - (_noun-like_) marriage
+      - (_noun-like_) in-law
+      ==
+  //
+    , `xwon`
+    , [惛](/entries/fan#rendering-惛)
+    ,
+      ==
+      - (_adjective-like_) muddled, muddle-[headed]
+      ==
+  //
+    , `xwon`
+    , [昏](/entries/fan#rendering-昏)
+    ,
+      ==
+      - (_noun-like_) dusk
+      - (_adjective-like_) adusk, (_met._) blind
       ==
   //
     , `zi`
