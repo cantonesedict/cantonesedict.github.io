@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-02-22
+* %date-modified --> 2026-02-23
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -1735,10 +1735,40 @@ window.onload = applyFilter;
       ==
   //
     , `phjun`
+    , [帉](/entries/fan#rendering-帉)
+    ,
+      ==
+      - (_noun-like_) wiping-cloth
+      ==
+  //
+    , `phjun`
     , [氛](/entries/fan#rendering-氛)
     ,
       ==
       - (_noun-like_) ambience
+      ==
+  //
+    , `phjun`
+    , [紛](/entries/fan#rendering-紛)
+    ,
+      ==
+      - (_adjective-like_) confused
+      - (_adjective-like_) numbersome
+      - (_noun-like_) lace-ribbon
+      ==
+  //
+    , `phjun`
+    , [芬](/entries/fan#rendering-芬)
+    ,
+      ==
+      - (_adjective-like_) fragrant
+      ==
+  //
+    , `phjun`
+    , [雰](/entries/fan#rendering-雰)
+    ,
+      ==
+      - (_adjective-like_) snowy
       ==
   //
     , `pj+jH`
@@ -1854,6 +1884,22 @@ window.onload = applyFilter;
       - (_verb-like_) [to] distinguish
       - (_verb-like_) [to] share
       - (_noun-like_) tenth
+      ==
+  //
+    , `pjunX`
+    , [粉](/entries/fan#rendering-粉)
+    ,
+      ==
+      - (_noun-like_) powder
+      - (_noun-like_) rice-flour
+      ==
+  //
+    , `pjunH`
+    , [糞](/entries/fan#rendering-糞)
+    ,
+      ==
+      - (_noun-like_) manure, muck
+      - (_verb-like_) [to] sweep (away)
       ==
   //
     , `pjut`
@@ -3841,6 +3887,58 @@ window.onload = applyFilter;
       - (_noun-like_) fume, odour
       ==
   //
+    , `xjun`
+    , [熏](/entries/fan#rendering-熏)
+    ,
+      ==
+      - (_verb-like_) [to] smoke, [to] fume, (_met._) [to] scorch
+      - Used in [熏熏](/entries/fan#rendering-熏熏).
+      ==
+  //
+    , `xjun`
+    , [纁](/entries/fan#rendering-纁)
+    ,
+      ==
+      - (_adjective-like_) light-red, pink
+      ==
+  //
+    , `xjun`
+    , [葷](/entries/fan#rendering-葷)
+    ,
+      ==
+      - (_noun-like_) aromatic-vegetable
+      ==
+  //
+    , `xjun`
+    , [薰](/entries/fan#rendering-薰)
+    ,
+      ==
+      - (_noun-like_) fragrance-grass
+      ==
+  //
+    , `xjun`
+    , [醺](/entries/fan#rendering-醺)
+    ,
+      ==
+      - (_adjective-like_) intoxicated
+      ==
+  //
+    , `xjun xjun`
+    , [熏熏](/entries/fan#rendering-熏熏)
+    ,
+      ==
+      - (_adjective-like_) elated
+      ==
+  //
+    , `xjunH`
+    , [訓](/entries/fan#rendering-訓)
+    ,
+      ==
+      - (_verb-like_) [to] instruct
+      - (_verb-like_) [to] explain
+      - (_verb-like_) [to] comply (with)
+      ==
+  //
     , `xjuwH`
     , [嗅](/entries/cau#rendering-嗅)
     ,
@@ -3974,6 +4072,13 @@ window.onload = applyFilter;
       ==
       - (_noun-like_) dusk
       - (_adjective-like_) adusk, (_met._) blind
+      ==
+  //
+    , `xwon`
+    , [閽](/entries/fan#rendering-閽)
+    ,
+      ==
+      - (_noun-like_) doorkeeper
       ==
   //
     , `zi`

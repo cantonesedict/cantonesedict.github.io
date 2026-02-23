@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fan
-* %date-modified --> 2026-02-22
+* %date-modified --> 2026-02-23
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -377,6 +377,13 @@ P
   ++
   1. A wiping-cloth (Kangxi: 拭物巾也, 楚謂大巾曰帉, 又通作紛).
   ++
+L
+  ====
+  * 【帉】 (phjun)
+    ==
+    - (_noun-like_) wiping-cloth
+    ==
+  ====
 $$
 
 ### 惛1 | _(1)Fan_ [[fan1]]
@@ -883,7 +890,8 @@ C
   - Williams' "uneasy, fidgetty": This is a rendering of Kangxi 熏熏坐不安之貌,
     which is one of the explanations for 《詩大雅》公尸來止熏熏,
     but not a very good one, in my opinion.
-    The other explanations (熏熏和悅也 and 熏說文作醺醉也) are better.
+    The other explanations (熏熏和悅也 and 熏說文作醺醉也) are better,
+    and of these, the second takes 熏 to be an alternative form of $醺1.
   - Williams' 熏炙: Corrected _chek(9)_ (zek6) to _chek(8)_ (zek3).
   ==
 P
@@ -891,6 +899,18 @@ P
   1. Amiable and cheerful (Kangxi: 熏熏和悅也).
   1. Warm.
   ++
+L
+  ====
+  * 【熏】 (xjun)
+    ==
+    - (_verb-like_) [to] smoke, [to] fume, (_met._) [to] scorch
+    - Used in [熏熏](/entries/fan#rendering-熏熏).
+    ==
+  * 【熏熏】 (xjun xjun)
+    ==
+    - (_adjective-like_) elated
+    ==
+  ====
 $$
 
 ###+ 燻1 | _(1)Fan_ [[fan1]]
@@ -999,6 +1019,15 @@ P
   1. Dispute.
   1. To disturb.
   ++
+L
+  ====
+  * 【紛】 (phjun)
+    ==
+    - (_adjective-like_) confused
+    - (_adjective-like_) numbersome
+    - (_noun-like_) lace-ribbon
+    ==
+  ====
 $$
 
 ### 纁1 | _(1)Fan_ [[fan1]]
@@ -1022,6 +1051,13 @@ W
     --
     [[Otherwise, an alternative form of 曛 (for the "dusklight" sense). **See $曛fan1 for the canonical entry.**]]
     --
+  ====
+L
+  ====
+  * 【纁】 (xjun)
+    ==
+    - (_adjective-like_) light-red, pink
+    ==
   ====
 $$
 
@@ -1060,6 +1096,13 @@ P
   ++
   1. Mound-like, bulging (Kangxi: 芬然壤起貌).
   ++
+L
+  ====
+  * 【芬】 (phjun)
+    ==
+    - (_adjective-like_) fragrant
+    ==
+  ====
 $$
 
 ### 葷1 | _(1)Fan_ [[fan1]]
@@ -1073,6 +1116,7 @@ A
   ==
   - $焄1
   - $蔒1
+  - $薰1
   ==
 F
   ==
@@ -1102,6 +1146,13 @@ C
   ==
   - Fan Wan entry: Corrected malformed 齋.
   ==
+L
+  ====
+  * 【葷】 (xjun)
+    ==
+    - (_noun-like_) aromatic-vegetable
+    ==
+  ====
 $$
 
 ### 蔒1 | _(1)Fan_ [[fan1]]
@@ -1155,15 +1206,26 @@ W
     --
     [[Otherwise, an alternative form of 勳. **See $勳fan1 for the canonical entry.**]]
     --
+    --
+    [[Otherwise, an alternative form of 葷. **See $葷fan1 for the canonical entry.**]]
+    --
   ====
 C
   ==
   - Fan Wan entry: Fixed missing stroke in headword 薰.
+  - Williams' "Fragrant plants": More likely a specific *type* of fragrant plant.
   ==
 P
   ++
   1. To influence.
   ++
+L
+  ====
+  * 【薰】 (xjun)
+    ==
+    - (_noun-like_) fragrance-grass
+    ==
+  ====
 $$
 
 ### 醺1 | _(1)Fan_ [[fan1]]
@@ -1190,6 +1252,13 @@ W
     - _tsui(3) (1)fan (1)fan_
         [[zeoi3 fan1 fan1 醉醺醺]],
         gloriously drunk.
+    ==
+  ====
+L
+  ====
+  * 【醺】 (xjun)
+    ==
+    - (_adjective-like_) intoxicated
     ==
   ====
 $$
@@ -1227,6 +1296,13 @@ P
   ++
   1. A palace gate.
   ++
+L
+  ====
+  * 【閽】 (xwon)
+    ==
+    - (_noun-like_) doorkeeper
+    ==
+  ====
 $$
 
 ### 雰1 | _(1)Fan_ [[fan1]]
@@ -1258,6 +1334,13 @@ P
   ++
   1. Snowy (Kangxi: 雰雰雪貌).
   ++
+L
+  ====
+  * 【雰】 (phjun)
+    ==
+    - (_adjective-like_) snowy
+    ==
+  ====
 $$
 
 ### 餴1 | _(1)Fan_ [[fan1]]
@@ -1455,6 +1538,14 @@ P
   1. To powder.
   1. Flour- or starch-based foods (especially staples).
   ++
+L
+  ====
+  * 【粉】 (pjunX)
+    ==
+    - (_noun-like_) powder
+    - (_noun-like_) rice-flour
+    ==
+  ====
 $$
 
 
@@ -1595,6 +1686,14 @@ P
   ++
   1. To remove, to sweep away (Kangxi: 掃除也, 糞除也).
   ++
+L
+  ====
+  * 【糞】 (pjunH)
+    ==
+    - (_noun-like_) manure, muck
+    - (_verb-like_) [to] sweep (away)
+    ==
+  ====
 $$
 
 ### 訓3 | _Fan(3)_ [[fan3]]
@@ -1636,6 +1735,15 @@ P
   1. To comply with, to go along with (Kangxi: 順也).
   1. To train.
   ++
+L
+  ====
+  * 【訓】 (xjunH)
+    ==
+    - (_verb-like_) [to] instruct
+    - (_verb-like_) [to] explain
+    - (_verb-like_) [to] comply (with)
+    ==
+  ====
 $$
 
 
