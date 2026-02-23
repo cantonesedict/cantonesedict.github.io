@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faan
-* %date-modified --> 2026-02-20
+* %date-modified --> 2026-02-23
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -2242,7 +2242,7 @@ W
   ====
 C
   ==
-  - Williams' "Herbs, grass": More likely a *type* of grass.
+  - Williams' "Herbs, grass": More likely a specific *type* of grass.
   ==
 L
   ====
