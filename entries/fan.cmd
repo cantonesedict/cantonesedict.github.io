@@ -1856,6 +1856,13 @@ W
     - An ornament on the bit of a bridle [[Kangxi: 馬纏鑣扇汗也, 幩飾也 etc.]].
     ==
   ====
+L
+  ====
+  * 【幩】 (bjun)
+    ==
+    - (_noun-like_) bridle-ornament
+    ==
+  ====
 $$
 
 ###+ 枌4 | _(4)Fan_ [[fan4]]
@@ -1886,6 +1893,13 @@ W
     --
     [[Otherwise, an alternative form of 棼 (for the "roof-beam" sense). **See $棼fan4 for the canonical entry.**]]
     --
+  ====
+L
+  ====
+  * 【枌】 (bjun)
+    ==
+    - (_noun-like_) white-elm
+    ==
   ====
 S
   ==
@@ -1923,6 +1937,14 @@ W
     --
     [[Otherwise, a reading variation. See $棼fan1.]]
     --
+  ====
+L
+  ====
+  * 【棼】 (bjun)
+    ==
+    - (_noun-like_) roof-beam
+    - (_noun-like_) hemp-cloth
+    ==
   ====
 S
   ==
@@ -2004,6 +2026,13 @@ C
     in which a great river (named 汝) makes (爲) a streamlet (named 濆).
     It perhaps should not be read as a definition.
   ==
+L
+  ====
+  * 【濆】 (bjun)
+    ==
+    - (_noun-like_) riverbank, bank
+    ==
+  ====
 S
   ==
   - $濆pan3 (TODO)
@@ -2046,6 +2075,13 @@ C
   - Williams' 焚化: Corrected _(1)fan_ (fan1) to _(4)fan_ (fan4).
   - Williams' 焚書: Corrected _(4)sh(u:)_ (syu4) to _(1)sh(u:)_ (syu1).
   ==
+L
+  ====
+  * 【焚】 (bjun)
+    ==
+    - (_verb-like_) [to] burn
+    ==
+  ====
 S
   ==
   - ($焚fan5)
@@ -2077,6 +2113,14 @@ W
     - _(4)fan shat(9)_
         [[fan4 sat6 蕡實]]
         bearing much seed.
+    ==
+  ====
+L
+  ====
+  * 【蕡】 (bjun)
+    ==
+    - (_adjective-like_) fruitful
+    - (_noun-like_) hemp-seed
     ==
   ====
 $$
@@ -2121,6 +2165,13 @@ P
   1. Great (Kangxi: 宏賁皆大也).
   1. A three-legged tortoise (Kangxi: 龜三足賁).
   ++
+L
+  ====
+  * 【賁】 (bjun)
+    ==
+    - (_adjective-like_) large
+    ==
+  ====
 S
   ==
   - $賁ban1 (TODO)
@@ -2216,6 +2267,13 @@ P
   ++
   1. Moved, excited (Kangxi: 僨動也).
   ++
+L
+  ====
+  * 【僨】 (pjunH)
+    ==
+    - (_verb-like_) [to] fall (back), [to] ruin
+    ==
+  ====
 $$
 
 ###+ 墳5 | _(5)Fan_ [[fan5]]
@@ -2308,6 +2366,15 @@ P
   1. To spread the wings (Kangxi: 翬也, 鳥張羽奮奞也).
   1. To shake off dust (Kangxi: 振去塵也).
   ++
+L
+  ====
+  * 【奮】 (pjunH)
+    ==
+    - (_verb-like_) [to] spread [the] wings, [to] spread
+    - (_verb-like_) [to] shake
+    - (_verb-like_) [to] rouse, [to] start, [to] exert
+    ==
+  ====
 $$
 
 ### 忿5 | _(5)Fan_ [[fan5]]
@@ -2351,6 +2418,13 @@ C
     whereas 憤 is an internal build-up of *either* anger or ardour.
   - In modern usage, 忿 is indistinguishable from 憤 for the "anger" sense.
   ==
+L
+  ====
+  * 【忿】 (phjunX, phjunH)
+    ==
+    - (_verb-like_) [to] anger
+    ==
+  ====
 S
   ==
   - $忿fan6
@@ -2401,6 +2475,13 @@ C
   - Fan Wan entry: Fixed missing stroke in 通.
   - Williams' 發憤, 憤力: These are effectively alternative forms of 發奮, 奮力.
   ==
+L
+  ====
+  * 【憤】 (bjunX)
+    ==
+    - (_adjective-like_) disgruntled
+    ==
+  ====
 $$
 
 ###+ 焚5 | _(5)Fan_ [[fan5]]

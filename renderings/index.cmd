@@ -531,10 +531,61 @@ window.onload = applyFilter;
       ==
   //
     , `bjun`
+    , [幩](/entries/fan#rendering-幩)
+    ,
+      ==
+      - (_noun-like_) bridle-ornament
+      ==
+  //
+    , `bjun`
+    , [枌](/entries/fan#rendering-枌)
+    ,
+      ==
+      - (_noun-like_) white-elm
+      ==
+  //
+    , `bjun`
+    , [棼](/entries/fan#rendering-棼)
+    ,
+      ==
+      - (_noun-like_) roof-beam
+      - (_noun-like_) hemp-cloth
+      ==
+  //
+    , `bjun`
     , [氛](/entries/fan#rendering-氛)
     ,
       ==
       - (_noun-like_) ambience
+      ==
+  //
+    , `bjun`
+    , [濆](/entries/fan#rendering-濆)
+    ,
+      ==
+      - (_noun-like_) riverbank, bank
+      ==
+  //
+    , `bjun`
+    , [焚](/entries/fan#rendering-焚)
+    ,
+      ==
+      - (_verb-like_) [to] burn
+      ==
+  //
+    , `bjun`
+    , [蕡](/entries/fan#rendering-蕡)
+    ,
+      ==
+      - (_adjective-like_) fruitful
+      - (_noun-like_) hemp-seed
+      ==
+  //
+    , `bjun`
+    , [賁](/entries/fan#rendering-賁)
+    ,
+      ==
+      - (_adjective-like_) large
       ==
   //
     , `bjunX`
@@ -542,6 +593,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) rich
+      ==
+  //
+    , `bjunX`
+    , [憤](/entries/fan#rendering-憤)
+    ,
+      ==
+      - (_adjective-like_) disgruntled
       ==
   //
     , `bjunH`
@@ -1787,6 +1845,20 @@ window.onload = applyFilter;
       - (_adjective-like_) snowy
       ==
   //
+    , `phjunX`
+    , [忿](/entries/fan#rendering-忿)
+    ,
+      ==
+      - (_verb-like_) [to] anger
+      ==
+  //
+    , `phjunH`
+    , [忿](/entries/fan#rendering-忿)
+    ,
+      ==
+      - (_verb-like_) [to] anger
+      ==
+  //
     , `pj+jH`
     , [沸~(departing)](/entries/fai#rendering-沸-departing)
     ,
@@ -1908,6 +1980,22 @@ window.onload = applyFilter;
       ==
       - (_noun-like_) powder
       - (_noun-like_) rice-flour
+      ==
+  //
+    , `pjunH`
+    , [僨](/entries/fan#rendering-僨)
+    ,
+      ==
+      - (_verb-like_) [to] fall (back), [to] ruin
+      ==
+  //
+    , `pjunH`
+    , [奮](/entries/fan#rendering-奮)
+    ,
+      ==
+      - (_verb-like_) [to] spread [the] wings, [to] spread
+      - (_verb-like_) [to] shake
+      - (_verb-like_) [to] rouse, [to] start, [to] exert
       ==
   //
     , `pjunH`
