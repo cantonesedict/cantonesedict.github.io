@@ -1092,6 +1092,13 @@ W
     [[Otherwise, an alternative form of 紛 (for the "confused" and "many" senses). **See $紛fan1 for the canonical entry.**]]
     --
   ====
+C
+  ==
+  - Kangxi has the "mound-like, bulging" sense (supplemented below)
+    under the main reading 撫文切 _(1)fan_ (fan1).
+    But if this is the same word as 墳 "moundy",
+    then it should be read 符分切 _(4)fan_ (fan4) instead.
+  ==
 P
   ++
   1. Mound-like, bulging (Kangxi: 芬然壤起貌).
