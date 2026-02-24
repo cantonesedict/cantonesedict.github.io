@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fan
-* %date-modified --> 2026-02-23
+* %date-modified --> 2026-02-24
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1813,6 +1813,15 @@ P
   ++
   1. A classical book or tome.
   ++
+L
+  ====
+  * 【墳-level】 (bjun)
+    ==
+    - (_noun-like_) mound
+    - (_noun-like_) embankment
+    - (_adjective-like_) moundy, (_met._) large
+    ==
+  ====
 S
   ==
   - $墳fan5
@@ -2234,6 +2243,13 @@ P
   ++
   1. Raised (Kangxi: 土沸起也).
   ++
+L
+  ====
+  * 【墳-rising】 (bjunX)
+    ==
+    - (_adjective-like_) rich
+    ==
+  ====
 S
   ==
   - $墳fan4

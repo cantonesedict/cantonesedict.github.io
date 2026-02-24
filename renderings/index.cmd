@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-02-23
+* %date-modified --> 2026-02-24
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -522,10 +522,26 @@ window.onload = applyFilter;
       ==
   //
     , `bjun`
+    , [墳~(level)](/entries/fan#rendering-墳-level)
+    ,
+      ==
+      - (_noun-like_) mound
+      - (_noun-like_) embankment
+      - (_adjective-like_) moundy, (_met._) large
+      ==
+  //
+    , `bjun`
     , [氛](/entries/fan#rendering-氛)
     ,
       ==
       - (_noun-like_) ambience
+      ==
+  //
+    , `bjunX`
+    , [墳~(rising)](/entries/fan#rendering-墳-rising)
+    ,
+      ==
+      - (_adjective-like_) rich
       ==
   //
     , `bjunH`
