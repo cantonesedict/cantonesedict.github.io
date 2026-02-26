@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="-5 -16 23 24" width="480px" xmlns="http://www.w3.org/2000/svg">
+<style>
+circle {fill: red}
+line, polyline {stroke: black; stroke-width: 0.2083%}polyline {fill: none}text {font-family: sans-serif; font-size: 1px; text-anchor: middle}
+</style>
+<line x1="0" y1="0" x2="20.0000" y2="0"/>
+<text x="10.0000" y="0" dy="2.5em">Date</text>
+<line x1="0" y1="0" x2="0" y2="-14.0000"/>
+<text x="0" y="-7.0000" dy="-2.5em" transform="rotate(-90 0 -7.0000)">Entry Count</text>
+<circle cx="7.6031" cy="-2.4995" r="0.0667"><title>commit 2ee93678d953dfc848f9126a32fc6903da3960f5
+2026-02-27 01:18:37 +0800
+2321 entries</title></circle>
+<circle cx="7.0224" cy="-2.4898" r="0.0667"><title>commit 523f9eb75cc93587a39c471f108013665e502b02
+2025-12-14 19:26:26 +0800
+2312 entries</title></circle>
+<circle cx="6.8592" cy="-2.4554" r="0.0667"><title>commit 69a51b11cc5221e3de7cd3e5701337437967fa32
+2025-11-23 22:45:03 +0800
+2280 entries</title></circle>
+<circle cx="6.7657" cy="-2.3929" r="0.0667"><title>commit ec4b41e87e5e880f457448125f6136b1deb37453
+2025-11-12 00:01:29 +0800
+2222 entries</title></circle>
+<circle cx="6.7266" cy="-2.3800" r="0.0667"><title>commit 996a975da5517e23cbf3b87ee60135fe4b0f0f3e
+2025-11-06 23:54:49 +0800
+2210 entries</title></circle>
+<circle cx="6.6710" cy="-2.3692" r="0.0667"><title>commit 6152d9103d4882a138d1d6d64d02edfb34cdeeed
+2025-10-30 21:19:59 +0800
+2200 entries</title></circle>
+<circle cx="6.6009" cy="-2.3294" r="0.0667"><title>commit 6cdd7958fbd9f45ab79697603ab2039816916217
+2025-10-21 22:20:49 +0800
+2163 entries</title></circle>
+<circle cx="6.2728" cy="-2.2077" r="0.0667"><title>commit 931be0816e856ab63ac79ada9a84ced73eb98188
+2025-09-09 23:26:21 +0800
+2050 entries</title></circle>
+<circle cx="6.1400" cy="-2.0946" r="0.0667"><title>commit 52e56cac84a287d38e921d4595a79ff96f2d63ae
+2025-08-24 00:05:34 +0800
+1945 entries</title></circle>
+<circle cx="5.9518" cy="-1.9837" r="0.0667"><title>commit bd82036a24ee3332da4c14e6c9e4b40018793644
+2025-07-30 22:36:59 +0800
+1842 entries</title></circle>
+<circle cx="5.7563" cy="-1.9471" r="0.0667"><title>commit c9a569165a1f2bdc8ee265e2dde74620111b963a
+2025-07-05 22:44:15 +0800
+1808 entries</title></circle>
+<circle cx="5.0843" cy="-1.9352" r="0.0667"><title>commit 01d1955e8bce22e397b4c61aa6c3588e9c78709d
+2025-04-11 00:37:40 +0800
+1797 entries</title></circle>
+<circle cx="4.9434" cy="-1.9234" r="0.0667"><title>commit 203b145dcf5f5721473b43a9644ce0719bb8c7eb
+2025-03-24 00:28:31 +0800
+1786 entries</title></circle>
+<circle cx="4.8728" cy="-1.9169" r="0.0667"><title>commit ca5ea07157d73be8fbb8b2b3e4f7a1b296d9bb46
+2025-03-14 23:32:51 +0800
+1780 entries</title></circle>
+<circle cx="4.7775" cy="-1.9137" r="0.0667"><title>commit 58e33ee8dd1a780ad94d66c491b0c29aef262eb5
+2025-03-02 19:12:55 +0800
+1777 entries</title></circle>
+<circle cx="4.6691" cy="-1.9126" r="0.0667"><title>commit 0f8b5bc013b7edd1115143c852de96ecbc81b393
+2025-02-16 22:37:49 +0800
+1776 entries</title></circle>
+<circle cx="4.5821" cy="-1.9083" r="0.0667"><title>commit 0b1c8d9061ea2901e6595ca0d75b52d7d01e04a9
+2025-02-05 19:49:27 +0800
+1772 entries</title></circle>
+<circle cx="4.4584" cy="-1.8986" r="0.0667"><title>commit f803befc787b3fdc6e681c23b0df62b81c761444
+2025-01-21 00:06:53 +0800
+1763 entries</title></circle>
+<circle cx="4.3492" cy="-1.9008" r="0.0667"><title>commit f5e801f8a3da3c9a6a6b165f7df26ae0e3ab353b
+2025-01-07 01:02:08 +0800
+1765 entries</title></circle>
+<circle cx="4.2278" cy="-1.9072" r="0.0667"><title>commit 6a7de8cdc0fe6ba8da4b0c1ae8b6814c7cf012c1
+2024-12-22 12:42:39 +0800
+1771 entries</title></circle>
+<circle cx="4.1535" cy="-1.9029" r="0.0667"><title>commit d1bd0749159e2e5f81309de792bd82133db234fd
+2024-12-13 00:31:24 +0800
+1767 entries</title></circle>
+<circle cx="4.0825" cy="-1.8965" r="0.0667"><title>commit f9a52a48a727de010289f6eb21b3c7006fd5bc0e
+2024-12-03 22:52:49 +0800
+1761 entries</title></circle>
+<circle cx="4.0125" cy="-1.8545" r="0.0667"><title>commit 72175a3690bc2ea8ed4640dcd23a2bf8cd943af6
+2024-11-24 23:52:32 +0800
+1722 entries</title></circle>
+<circle cx="3.7006" cy="-1.7640" r="0.0667"><title>commit 35eeff12b09532ce1494d05ed8a3b409ca5862b4
+2024-10-16 02:56:52 +0800
+1638 entries</title></circle>
+<circle cx="3.6145" cy="-1.7123" r="0.0667"><title>commit 94810ba7419586cb4cf8d7b07cce55006f1532c5
+2024-10-05 02:35:05 +0800
+1590 entries</title></circle>
+<circle cx="3.5433" cy="-1.6369" r="0.0667"><title>commit 5c8a5d6de7086bde7c01d6e409426c85f2bef67c
+2024-09-26 00:08:42 +0800
+1520 entries</title></circle>
+<circle cx="3.4255" cy="-1.5217" r="0.0667"><title>commit 019de7fcd9b9a9c849a7ef0f5852ab04bda637d6
+2024-09-10 22:49:38 +0800
+1413 entries</title></circle>
+<circle cx="3.0253" cy="-1.4140" r="0.0667"><title>commit 707326ccfb46c373bd6d31a7f413e20dc85be681
+2024-07-21 18:53:38 +0800
+1313 entries</title></circle>
+<circle cx="2.9172" cy="-1.3526" r="0.0667"><title>commit b95b70dd2e3b84519c3d5e45bcc119d313d2e14a
+2024-07-07 23:05:28 +0800
+1256 entries</title></circle>
+<circle cx="2.6051" cy="-1.2395" r="0.0667"><title>commit d6eeb03c35599b323667a38a4d77c0cb9f02ae71
+2024-05-29 01:23:35 +0800
+1151 entries</title></circle>
+<circle cx="2.4877" cy="-1.1211" r="0.0667"><title>commit d27c9070165db6144f2d1d61af0c242113d197f8
+2024-05-14 01:16:12 +0800
+1041 entries</title></circle>
+<circle cx="2.4087" cy="-1.0554" r="0.0667"><title>commit 817d88e623603989e26f89d3a2bc7c76523a6bc8
+2024-05-03 22:58:26 +0800
+980 entries</title></circle>
+<circle cx="2.2607" cy="-0.9208" r="0.0667"><title>commit e8690be69006d9112e13658977adb7e4710a5ccc
+2024-04-15 00:46:31 +0800
+855 entries</title></circle>
+<circle cx="2.1427" cy="-0.8023" r="0.0667"><title>commit 384f0d058fbc68224bbbb8cba46c442d0db091fb
+2024-03-30 22:31:12 +0800
+745 entries</title></circle>
+<circle cx="1.8535" cy="-0.6860" r="0.0667"><title>commit 08c6331733ed4a54d8e1a436c9b4beef07b974e3
+2024-02-22 23:22:27 +0800
+637 entries</title></circle>
+<circle cx="1.7093" cy="-0.5772" r="0.0667"><title>commit 1fd62dceb38c5ddb347fe2c2e8cbcce9362e609d
+2024-02-04 12:52:56 +0800
+536 entries</title></circle>
+<circle cx="1.6106" cy="-0.4814" r="0.0667"><title>commit 25100e39fce34bb3fc74e5e5a5826f118b9b23a5
+2024-01-22 22:02:41 +0800
+447 entries</title></circle>
+<circle cx="1.5322" cy="-0.3845" r="0.0667"><title>commit 1b06ee930f3ab73a7a9736e7ec9907ee552766d6
+2024-01-12 21:22:52 +0800
+357 entries</title></circle>
+<circle cx="1.4669" cy="-0.3575" r="0.0667"><title>commit 7e16f9d60ef2a1865bd5671a160fe6efa12c7882
+2024-01-04 13:01:18 +0800
+332 entries</title></circle>
+<circle cx="1.4162" cy="-0.3080" r="0.0667"><title>commit 793d708f207677bcbdda87140f996268bf8da307
+2023-12-29 01:24:50 +0800
+286 entries</title></circle>
+<circle cx="1.2645" cy="-0.2100" r="0.0667"><title>commit 20027217c31f201fe7efa8d168d53dfdc85f52df
+2023-12-09 16:06:07 +0800
+195 entries</title></circle>
+<circle cx="0.4219" cy="-0.1142" r="0.0667"><title>commit 32360f10398d14236bd03bea988020d876e7d311
+2023-08-23 22:31:26 +0800
+106 entries</title></circle>
+<circle cx="0.3207" cy="-0.0485" r="0.0667"><title>commit ac63e93006c3cbd814b7ad5d9f7b1c0649147bc2
+2023-08-11 00:09:20 +0800
+45 entries</title></circle>
+<circle cx="0.2818" cy="-0.0409" r="0.0667"><title>commit a2b5775718aec7ab9c89c734b746f998a0074426
+2023-08-06 00:45:50 +0800
+38 entries</title></circle>
+<circle cx="0.2809" cy="-0.0409" r="0.0667"><title>commit 715a4da65b0513eab9802fcb7e1dd7ba70cfc192
+2023-08-05 22:01:37 +0800
+38 entries</title></circle>
+<circle cx="0.2796" cy="-0.0409" r="0.0667"><title>commit 2dacfcee6fe884c3839ff1ed2bac0bac78c7649d
+2023-08-05 18:00:50 +0800
+38 entries</title></circle>
+<circle cx="0.2738" cy="-0.0409" r="0.0667"><title>commit 41730f75c82724eaa05a5c336dbc3f35d3b3c807
+2023-08-05 00:03:20 +0800
+38 entries</title></circle>
+<circle cx="0.2582" cy="-0.0409" r="0.0667"><title>commit 599535921b5f13ab295d88370a152bb094aa47f5
+2023-08-03 00:12:28 +0800
+38 entries</title></circle>
+<circle cx="0.2346" cy="-0.0409" r="0.0667"><title>commit 419da97bc0ac470088b4aa29ab0c28a5b93572a3
+2023-07-30 23:55:16 +0800
+38 entries</title></circle>
+<circle cx="0.1794" cy="-0.0280" r="0.0667"><title>commit 6db3f0d0958569d2e0bab2332de1d7387e4e5ebd
+2023-07-23 22:22:05 +0800
+26 entries</title></circle>
+<circle cx="0.1569" cy="-0.0108" r="0.0667"><title>commit 5083703d9db434cb903b71de47b367ac7bf07aa9
+2023-07-21 01:16:46 +0800
+10 entries</title></circle>
+<polyline points="7.6031,-2.4995 7.0224,-2.4898 6.8592,-2.4554 6.7657,-2.3929 6.7266,-2.3800 6.6710,-2.3692 6.6009,-2.3294 6.2728,-2.2077 6.1400,-2.0946 5.9518,-1.9837 5.7563,-1.9471 5.0843,-1.9352 4.9434,-1.9234 4.8728,-1.9169 4.7775,-1.9137 4.6691,-1.9126 4.5821,-1.9083 4.4584,-1.8986 4.3492,-1.9008 4.2278,-1.9072 4.1535,-1.9029 4.0825,-1.8965 4.0125,-1.8545 3.7006,-1.7640 3.6145,-1.7123 3.5433,-1.6369 3.4255,-1.5217 3.0253,-1.4140 2.9172,-1.3526 2.6051,-1.2395 2.4877,-1.1211 2.4087,-1.0554 2.2607,-0.9208 2.1427,-0.8023 1.8535,-0.6860 1.7093,-0.5772 1.6106,-0.4814 1.5322,-0.3845 1.4669,-0.3575 1.4162,-0.3080 1.2645,-0.2100 0.4219,-0.1142 0.3207,-0.0485 0.2818,-0.0409 0.2809,-0.0409 0.2796,-0.0409 0.2738,-0.0409 0.2582,-0.0409 0.2346,-0.0409 0.1794,-0.0280 0.1569,-0.0108"/>
+</svg>

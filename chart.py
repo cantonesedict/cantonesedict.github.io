@@ -8,6 +8,7 @@ Chart the progress of this dictionary. Somewhat slow.
 
 import subprocess
 import sys
+from datetime import datetime
 
 
 class Snapshot:
@@ -77,8 +78,66 @@ def main():
         )
     ]
 
-    # for s in snapshots:
-    #     print(s.timestamp, s.unix_time, s.entry_count)
+    plot_width = 480
+    plot_x_scale = 20
+    plot_y_scale = 14
+    plot_point_radius = plot_x_scale / 300
+
+    min_unix_time = datetime(year=2023, month=7, day=1).timestamp()
+    max_unix_time = datetime(year=2030, month=7, day=1).timestamp()
+    min_entry_count = 0
+    max_entry_count = 13000
+
+    def x(unix_time: int) -> float:
+        return plot_x_scale * (unix_time - min_unix_time) / (max_unix_time - min_unix_time)
+
+    def y(entry_count: int) -> float:
+        return -plot_y_scale * (entry_count - min_entry_count) / (max_entry_count - min_entry_count)
+
+    svg = '\n'.join([
+        f'<?xml version="1.0" encoding="UTF-8"?>',
+        f'<svg viewBox="{-5} {-2 - plot_y_scale} {plot_x_scale + 3} {plot_y_scale + 10}"'
+        f' width="{plot_width}px"'
+        f' xmlns="http://www.w3.org/2000/svg">',
+        f'<style>',
+        f'circle {{fill: red}}',
+        f'line, polyline {{stroke: black; stroke-width: {1 / plot_width:.4%}}}'
+        f'polyline {{fill: none}}'
+        f'text {{font-family: sans-serif; font-size: 1px; text-anchor: middle}}',
+        f'</style>',
+        # Horizontal axis
+        f'<line x1="0" y1="0" x2="{plot_x_scale :.4f}" y2="0"/>',
+        f'<text x="{plot_x_scale / 2 :.4f}" y="0" dy="2.5em">Date</text>',
+        # Vertical axis
+        f'<line x1="0" y1="0" x2="0" y2="-{plot_y_scale :.4f}"/>',
+        f'<text x="0" y="-{plot_y_scale / 2 :.4f}"'
+        f' dy="-2.5em"'
+        f' transform="rotate(-90 0 -{plot_y_scale / 2 :.4f})">'
+        f'Entry Count</text>',
+        # Point markers with tooltip
+        *[
+            f'<circle cx="{x(snapshot.unix_time) :.4f}"'
+            f' cy="{y(snapshot.entry_count) :.4f}"'
+            f' r="{plot_point_radius :.4f}">'
+            f'<title>commit {snapshot.commit_hash}\n'
+            f'{snapshot.timestamp}\n'
+            f'{snapshot.entry_count} entries</title>'
+            f'</circle>'
+            for snapshot in snapshots
+        ],
+        # Polyline
+        f'''<polyline points="{
+            ' '.join([
+                f'{x(snapshot.unix_time) :.4f},{y(snapshot.entry_count) :.4f}'
+                for snapshot in snapshots
+            ])
+        }"/>''',
+        f'</svg>',
+        f'',
+    ])
+
+    with open('progress.svg', 'w', encoding='utf-8') as svg_file:
+        svg_file.write(svg)
 
 
 if __name__ == '__main__':
