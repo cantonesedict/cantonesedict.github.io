@@ -60,7 +60,7 @@ def get_output(command: str) -> str:
 def main():
     sampling_size = 50
     commit_hashes_all = get_output('git log --format=%H').splitlines()
-    commit_hashes = commit_hashes_all[:: len(commit_hashes_all) // sampling_size]
+    commit_hashes = commit_hashes_all[0 : -1 : len(commit_hashes_all) // sampling_size] + commit_hashes_all[-1:]
 
     snapshots = [
         Snapshot(commit_hash, timestamp, unix_time, entry_count)
