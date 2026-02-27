@@ -85,8 +85,8 @@ def main():
     plot_y_scale = 14
 
     plot_left_margin = 4
-    plot_right_margin = 2
-    plot_top_margin = 2
+    plot_right_margin = 3
+    plot_top_margin = 4
     plot_bottom_margin = 4
 
     plot_width = plot_left_margin + plot_x_scale + plot_right_margin
@@ -119,14 +119,19 @@ def main():
         f' width="{svg_width_px}px"'
         f' xmlns="http://www.w3.org/2000/svg">',
         f'<style>',
-        f'circle:hover {{fill: red}}',
+        f'circle:hover {{fill: #cf1338}}',
         f'circle {{fill: black}}',
         f'line, polyline {{stroke: black; stroke-width: {1 / svg_width_px :.4%}}}'
+        f'polyline {{stroke: #cf1338}}'
         f'line.target {{stroke: blue; stroke-dasharray: {10 / svg_width_px :.4%}}}',
         f'polyline {{fill: none}}'
         f'text {{font-family: sans-serif; font-size: 1px; text-anchor: middle}}',
         f'text.target {{fill: blue; font-size: 0.7px}}',
+        f'text.title {{fill: #cf1338; font-size: 1.1px}}',
         f'</style>',
+        # Title
+        f'<text class="title" x="{(x_min + x_max) / 2 :.4f}" y="{y_max - plot_top_margin / 2 :.4f}"'
+        f">Conway's Cantonese Dictionary: Progress</text>"
         # Horizontal axis
         f'<line x1="{x_min :.4f}" y1="{y_min :.4f}" x2="{x_max :.4f}" y2="{y_min :.4f}"/>',
         f'<text x="{(x_min + x_max) / 2 :.4f}" y="{y_min :.4f}" dy="3em">Date</text>',
