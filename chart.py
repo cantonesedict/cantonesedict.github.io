@@ -78,9 +78,19 @@ def main():
         )
     ]
 
-    plot_width = 480
+    svg_width_px = 1024
+
     plot_x_scale = 20
     plot_y_scale = 14
+
+    plot_left_margin = 4
+    plot_right_margin = 2
+    plot_top_margin = 2
+    plot_bottom_margin = 4
+
+    plot_width = plot_left_margin + plot_x_scale + plot_right_margin
+    plot_height = plot_top_margin + plot_y_scale + plot_bottom_margin
+
     plot_point_radius = plot_x_scale / 300
 
     min_unix_time = datetime(year=2023, month=7, day=1).timestamp()
@@ -88,32 +98,35 @@ def main():
     min_entry_count = 0
     max_entry_count = 13000
 
-    def x(unix_time: int) -> float:
+    def x(unix_time: float) -> float:
         return plot_x_scale * (unix_time - min_unix_time) / (max_unix_time - min_unix_time)
 
-    def y(entry_count: int) -> float:
-        return -plot_y_scale * (entry_count - min_entry_count) / (max_entry_count - min_entry_count)
+    def y(entry_count: float) -> float:
+        return plot_y_scale * (max_entry_count - entry_count) / (max_entry_count - min_entry_count)
+
+    x_min = x(min_unix_time)
+    x_max = x(max_unix_time)
+    y_min = y(min_entry_count)
+    y_max = y(max_entry_count)
 
     svg = '\n'.join([
         f'<?xml version="1.0" encoding="UTF-8"?>',
-        f'<svg viewBox="{-5} {-2 - plot_y_scale} {plot_x_scale + 3} {plot_y_scale + 10}"'
-        f' width="{plot_width}px"'
+        f'<svg viewBox="{-plot_left_margin} {-plot_top_margin} {plot_width} {plot_height}"'
+        f' width="{svg_width_px}px"'
         f' xmlns="http://www.w3.org/2000/svg">',
         f'<style>',
         f'circle {{fill: red}}',
-        f'line, polyline {{stroke: black; stroke-width: {1 / plot_width:.4%}}}'
+        f'line, polyline {{stroke: black; stroke-width: {1 / svg_width_px :.4%}}}'
         f'polyline {{fill: none}}'
         f'text {{font-family: sans-serif; font-size: 1px; text-anchor: middle}}',
         f'</style>',
         # Horizontal axis
-        f'<line x1="0" y1="0" x2="{plot_x_scale :.4f}" y2="0"/>',
-        f'<text x="{plot_x_scale / 2 :.4f}" y="0" dy="2.5em">Date</text>',
+        f'<line x1="{x_min :.4f}" y1="{y_min :.4f}" x2="{plot_x_scale :.4f}" y2="{y_min :.4f}"/>',
+        f'<text x="{(x_min + x_max) / 2 :.4f}" y="{y_min :.4f}" dy="3em">Date</text>',
         # Vertical axis
-        f'<line x1="0" y1="0" x2="0" y2="-{plot_y_scale :.4f}"/>',
-        f'<text x="0" y="-{plot_y_scale / 2 :.4f}"'
-        f' dy="-2.5em"'
-        f' transform="rotate(-90 0 -{plot_y_scale / 2 :.4f})">'
-        f'Entry Count</text>',
+        f'<line x1="{x_min :.4f}" y1="{y_min :.4f}" x2="{x_min :.4f}" y2="{y(max_entry_count) :.4f}"/>',
+        f'<text x="{x_min :.4f}" y="{(y_min + y_max) / 2 :.4f}" dy="-2.5em"'
+        f' transform="rotate(-90 {x_min :.4f} {(y_min + y_max) / 2 :.4f})">Entry Count</text>',
         # Point markers with tooltip
         *[
             f'<circle cx="{x(snapshot.unix_time) :.4f}"'
