@@ -96,7 +96,7 @@ def main():
     min_unix_time = datetime(year=2023, month=7, day=1).timestamp()
     max_unix_time = datetime(year=2030, month=7, day=1).timestamp()
     min_entry_count = 0
-    max_entry_count = 13000
+    max_entry_count = 14000
 
     def x(unix_time: float) -> float:
         return plot_x_scale * (unix_time - min_unix_time) / (max_unix_time - min_unix_time)
@@ -109,6 +109,9 @@ def main():
     y_min = y(min_entry_count)
     y_max = y(max_entry_count)
 
+    target_entry_count = 13000
+    y_target = y(entry_count=target_entry_count)
+
     svg = '\n'.join([
         f'<?xml version="1.0" encoding="UTF-8"?>',
         f'<svg viewBox="{-plot_left_margin} {-plot_top_margin} {plot_width} {plot_height}"'
@@ -118,16 +121,22 @@ def main():
         f'circle:hover {{fill: red}}',
         f'circle {{fill: black}}',
         f'line, polyline {{stroke: black; stroke-width: {1 / svg_width_px :.4%}}}'
+        f'line.target {{stroke: blue; stroke-dasharray: {10 / svg_width_px :.4%}}}',
         f'polyline {{fill: none}}'
         f'text {{font-family: sans-serif; font-size: 1px; text-anchor: middle}}',
+        f'text.target {{fill: blue; font-size: 0.7px}}',
         f'</style>',
         # Horizontal axis
-        f'<line x1="{x_min :.4f}" y1="{y_min :.4f}" x2="{plot_x_scale :.4f}" y2="{y_min :.4f}"/>',
+        f'<line x1="{x_min :.4f}" y1="{y_min :.4f}" x2="{x_max :.4f}" y2="{y_min :.4f}"/>',
         f'<text x="{(x_min + x_max) / 2 :.4f}" y="{y_min :.4f}" dy="3em">Date</text>',
         # Vertical axis
-        f'<line x1="{x_min :.4f}" y1="{y_min :.4f}" x2="{x_min :.4f}" y2="{y(max_entry_count) :.4f}"/>',
-        f'<text x="{x_min :.4f}" y="{(y_min + y_max) / 2 :.4f}" dy="-2.5em"'
-        f' transform="rotate(-90 {x_min :.4f} {(y_min + y_max) / 2 :.4f})">Entry Count</text>',
+        f'<line x1="{x_min :.4f}" y1="{y_min :.4f}" x2="{x_min :.4f}" y2="{y_max :.4f}"/>',
+        f'<text x="{x_min :.4f}" y="{(y_min + y_max) / 2 :.4f}"'
+        f' dy="-2.5em" transform="rotate(-90 {x_min :.4f} {(y_min + y_max) / 2 :.4f})">Entry Count</text>',
+        # Target
+        f'<line class="target" x1="{x_min :.4f}" y1="{y_target :.4f}" x2="{x_max :.4f}" y2="{y_target :.4f}"/>',
+        f'<text class="target" x="{0.33 * x_min + 0.67 * x_max :.4f}" y="{y_target :.4f}"'
+        f' dy="-0.5em">Approximate Target: {target_entry_count} entries</text>',
         # Point markers with tooltip
         *[
             f'<circle cx="{x(snapshot.unix_time) :.4f}"'
