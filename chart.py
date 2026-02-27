@@ -91,7 +91,7 @@ def main():
     plot_width = plot_left_margin + plot_x_scale + plot_right_margin
     plot_height = plot_top_margin + plot_y_scale + plot_bottom_margin
 
-    plot_point_radius = plot_x_scale / 300
+    plot_point_radius = plot_x_scale / 200
 
     min_unix_time = datetime(year=2023, month=7, day=1).timestamp()
     max_unix_time = datetime(year=2030, month=7, day=1).timestamp()
