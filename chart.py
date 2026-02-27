@@ -79,7 +79,7 @@ def main():
         )
     ]
 
-    svg_width_px = 1024
+    svg_width_px = 960
 
     plot_x_scale = 20
     plot_y_scale = 14
@@ -134,7 +134,7 @@ def main():
         f'text.title {{fill: #cf1338; font-size: 1.1px}}',
         f'</style>',
         # Title
-        f'<text class="title" x="{(x_min + x_max) / 2 :.4f}" y="{y_max - plot_top_margin / 2 :.4f}"'
+        f'<text class="title" x="{-plot_left_margin + plot_width / 2 :.4f}" y="{y_max - plot_top_margin / 2 :.4f}"'
         f">Conway's Cantonese Dictionary: Progress</text>"
         # Horizontal axis
         f'<line x1="{x_min :.4f}" y1="{y_min :.4f}" x2="{x_max :.4f}" y2="{y_min :.4f}"/>',

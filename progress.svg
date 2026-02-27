@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="-6 -4 28 22" width="1024px" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="-6 -4 28 22" width="960px" xmlns="http://www.w3.org/2000/svg">
 <style>
 circle:hover {fill: #cf1338}
 circle {fill: black}
-line, polyline {stroke: black; stroke-width: 0.0977%}polyline {stroke: #cf1338}line.target {stroke: blue; stroke-dasharray: 0.9766%}
+line, polyline {stroke: black; stroke-width: 0.1042%}polyline {stroke: #cf1338}line.target {stroke: blue; stroke-dasharray: 1.0417%}
 polyline {fill: none}text {font-family: sans-serif; font-size: 1px; text-anchor: middle}
 text.target {fill: blue; font-size: 0.7px}
 text.tick {font-size: 0.7px}
 text.title {fill: #cf1338; font-size: 1.1px}
 </style>
-<text class="title" x="10.0000" y="-2.0000">Conway's Cantonese Dictionary: Progress</text><line x1="0.0000" y1="14.0000" x2="20.0000" y2="14.0000"/>
+<text class="title" x="8.0000" y="-2.0000">Conway's Cantonese Dictionary: Progress</text><line x1="0.0000" y1="14.0000" x2="20.0000" y2="14.0000"/>
 <text x="10.0000" y="14.0000" dy="3em">Time</text>
 <line x1="1.4392" y1="14.0000" x2="1.4392" y2="14.2000"/>
 <text class="tick" x="1.4392" y="14.2000" dy="1.3em">2024</text>
