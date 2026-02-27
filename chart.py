@@ -144,7 +144,7 @@ def main():
             f' cy="{y(snapshot.entry_count) :.4f}"'
             f' r="{plot_point_radius :.4f}">'
             f'<title>{snapshot.entry_count} entries @ {snapshot.timestamp}\n'
-            f'commit {snapshot.commit_hash}</title>'
+            f'(commit {snapshot.commit_hash})</title>'
             f'</circle>'
             for snapshot in snapshots
         ],
