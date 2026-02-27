@@ -6,10 +6,25 @@ circle {fill: black}
 line, polyline {stroke: black; stroke-width: 0.0977%}polyline {stroke: #cf1338}line.target {stroke: blue; stroke-dasharray: 0.9766%}
 polyline {fill: none}text {font-family: sans-serif; font-size: 1px; text-anchor: middle}
 text.target {fill: blue; font-size: 0.7px}
+text.tick {font-size: 0.7px}
 text.title {fill: #cf1338; font-size: 1.1px}
 </style>
 <text class="title" x="10.0000" y="-2.0000">Conway's Cantonese Dictionary: Progress</text><line x1="0.0000" y1="14.0000" x2="20.0000" y2="14.0000"/>
-<text x="10.0000" y="14.0000" dy="3em">Date</text>
+<text x="10.0000" y="14.0000" dy="3em">Time</text>
+<line x1="1.4392" y1="14.0000" x2="1.4392" y2="14.2000"/>
+<text class="tick" x="1.4392" y="14.2000" dy="1.3em">2024</text>
+<line x1="4.3019" y1="14.0000" x2="4.3019" y2="14.2000"/>
+<text class="tick" x="4.3019" y="14.2000" dy="1.3em">2025</text>
+<line x1="7.1568" y1="14.0000" x2="7.1568" y2="14.2000"/>
+<text class="tick" x="7.1568" y="14.2000" dy="1.3em">2026</text>
+<line x1="10.0117" y1="14.0000" x2="10.0117" y2="14.2000"/>
+<text class="tick" x="10.0117" y="14.2000" dy="1.3em">2027</text>
+<line x1="12.8666" y1="14.0000" x2="12.8666" y2="14.2000"/>
+<text class="tick" x="12.8666" y="14.2000" dy="1.3em">2028</text>
+<line x1="15.7294" y1="14.0000" x2="15.7294" y2="14.2000"/>
+<text class="tick" x="15.7294" y="14.2000" dy="1.3em">2029</text>
+<line x1="18.5843" y1="14.0000" x2="18.5843" y2="14.2000"/>
+<text class="tick" x="18.5843" y="14.2000" dy="1.3em">2030</text>
 <line x1="0.0000" y1="14.0000" x2="0.0000" y2="0.0000"/>
 <text x="0.0000" y="7.0000" dy="-2.5em" transform="rotate(-90 0.0000 7.0000)">Entry Count</text>
 <line class="target" x1="0.0000" y1="1.0000" x2="20.0000" y2="1.0000"/>

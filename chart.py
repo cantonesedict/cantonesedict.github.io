@@ -91,8 +91,8 @@ def main():
 
     plot_width = plot_left_margin + plot_x_scale + plot_right_margin
     plot_height = plot_top_margin + plot_y_scale + plot_bottom_margin
-
     plot_point_radius = plot_x_scale / 200
+    plot_tick_length = plot_x_scale / 100
 
     min_unix_time = datetime(year=2023, month=7, day=1).timestamp()
     max_unix_time = datetime(year=2030, month=7, day=1).timestamp()
@@ -109,6 +109,8 @@ def main():
     x_max = x(max_unix_time)
     y_min = y(min_entry_count)
     y_max = y(max_entry_count)
+
+    tick_years = range(2024, 2030 + 1)
 
     target_entry_count = 13000
     y_target = y(entry_count=target_entry_count)
@@ -127,6 +129,7 @@ def main():
         f'polyline {{fill: none}}'
         f'text {{font-family: sans-serif; font-size: 1px; text-anchor: middle}}',
         f'text.target {{fill: blue; font-size: 0.7px}}',
+        f'text.tick {{font-size: 0.7px}}',
         f'text.title {{fill: #cf1338; font-size: 1.1px}}',
         f'</style>',
         # Title
@@ -134,7 +137,15 @@ def main():
         f">Conway's Cantonese Dictionary: Progress</text>"
         # Horizontal axis
         f'<line x1="{x_min :.4f}" y1="{y_min :.4f}" x2="{x_max :.4f}" y2="{y_min :.4f}"/>',
-        f'<text x="{(x_min + x_max) / 2 :.4f}" y="{y_min :.4f}" dy="3em">Date</text>',
+        f'<text x="{(x_min + x_max) / 2 :.4f}" y="{y_min :.4f}" dy="3em">Time</text>',
+        *[
+            f'<line x1="{x_tick :.4f}" y1="{y_min :.4f}" x2="{x_tick :.4f}" y2="{y_min + plot_tick_length :.4f}"/>\n'
+            f'<text class="tick" x="{x_tick :.4f}" y="{y_min + plot_tick_length :.4f}" dy="1.3em">{year}</text>'
+            for year in tick_years
+            if (
+                x_tick := x(datetime(year, month=1, day=1).timestamp()),
+            )
+        ],
         # Vertical axis
         f'<line x1="{x_min :.4f}" y1="{y_min :.4f}" x2="{x_min :.4f}" y2="{y_max :.4f}"/>',
         f'<text x="{x_min :.4f}" y="{(y_min + y_max) / 2 :.4f}"'
