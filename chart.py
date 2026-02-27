@@ -115,7 +115,8 @@ def main():
         f' width="{svg_width_px}px"'
         f' xmlns="http://www.w3.org/2000/svg">',
         f'<style>',
-        f'circle {{fill: red}}',
+        f'circle:hover {{fill: red}}',
+        f'circle {{fill: black}}',
         f'line, polyline {{stroke: black; stroke-width: {1 / svg_width_px :.4%}}}'
         f'polyline {{fill: none}}'
         f'text {{font-family: sans-serif; font-size: 1px; text-anchor: middle}}',
@@ -132,9 +133,8 @@ def main():
             f'<circle cx="{x(snapshot.unix_time) :.4f}"'
             f' cy="{y(snapshot.entry_count) :.4f}"'
             f' r="{plot_point_radius :.4f}">'
-            f'<title>commit {snapshot.commit_hash}\n'
-            f'{snapshot.timestamp}\n'
-            f'{snapshot.entry_count} entries</title>'
+            f'<title>{snapshot.entry_count} entries @ {snapshot.timestamp}\n'
+            f'commit {snapshot.commit_hash}</title>'
             f'</circle>'
             for snapshot in snapshots
         ],
