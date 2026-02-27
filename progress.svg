@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="-4 -4 27 22" width="1024px" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="-6 -4 28 22" width="1024px" xmlns="http://www.w3.org/2000/svg">
 <style>
 circle:hover {fill: #cf1338}
 circle {fill: black}
@@ -26,7 +26,19 @@ text.title {fill: #cf1338; font-size: 1.1px}
 <line x1="18.5843" y1="14.0000" x2="18.5843" y2="14.2000"/>
 <text class="tick" x="18.5843" y="14.2000" dy="1.3em">2030</text>
 <line x1="0.0000" y1="14.0000" x2="0.0000" y2="0.0000"/>
-<text x="0.0000" y="7.0000" dy="-2.5em" transform="rotate(-90 0.0000 7.0000)">Entry Count</text>
+<text x="0.0000" y="7.0000" dy="-4em" transform="rotate(-90 0.0000 7.0000)">Entry Count</text>
+<line x1="0.0000" y1="12.0000" x2="-0.2000" y2="12.0000"/>
+<text class="tick" x="-0.2000" y="12.0000" dx="-2em" dy="0.33em">2000</text>
+<line x1="0.0000" y1="10.0000" x2="-0.2000" y2="10.0000"/>
+<text class="tick" x="-0.2000" y="10.0000" dx="-2em" dy="0.33em">4000</text>
+<line x1="0.0000" y1="8.0000" x2="-0.2000" y2="8.0000"/>
+<text class="tick" x="-0.2000" y="8.0000" dx="-2em" dy="0.33em">6000</text>
+<line x1="0.0000" y1="6.0000" x2="-0.2000" y2="6.0000"/>
+<text class="tick" x="-0.2000" y="6.0000" dx="-2em" dy="0.33em">8000</text>
+<line x1="0.0000" y1="4.0000" x2="-0.2000" y2="4.0000"/>
+<text class="tick" x="-0.2000" y="4.0000" dx="-2em" dy="0.33em">10000</text>
+<line x1="0.0000" y1="2.0000" x2="-0.2000" y2="2.0000"/>
+<text class="tick" x="-0.2000" y="2.0000" dx="-2em" dy="0.33em">12000</text>
 <line class="target" x1="0.0000" y1="1.0000" x2="20.0000" y2="1.0000"/>
 <text class="target" x="13.4000" y="1.0000" dy="-0.5em">Approximate Target: 13000 entries</text>
 <circle cx="7.5943" cy="11.6790" r="0.1000"><title>2321 entries @ 2026-02-25 22:28:09 +0800

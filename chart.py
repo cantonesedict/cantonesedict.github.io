@@ -84,8 +84,8 @@ def main():
     plot_x_scale = 20
     plot_y_scale = 14
 
-    plot_left_margin = 4
-    plot_right_margin = 3
+    plot_left_margin = 6
+    plot_right_margin = 2
     plot_top_margin = 4
     plot_bottom_margin = 4
 
@@ -111,6 +111,7 @@ def main():
     y_max = y(max_entry_count)
 
     tick_years = range(2024, 2030 + 1)
+    tick_entry_counts = range(2000, 14000, 2000)
 
     target_entry_count = 13000
     y_target = y(entry_count=target_entry_count)
@@ -149,7 +150,16 @@ def main():
         # Vertical axis
         f'<line x1="{x_min :.4f}" y1="{y_min :.4f}" x2="{x_min :.4f}" y2="{y_max :.4f}"/>',
         f'<text x="{x_min :.4f}" y="{(y_min + y_max) / 2 :.4f}"'
-        f' dy="-2.5em" transform="rotate(-90 {x_min :.4f} {(y_min + y_max) / 2 :.4f})">Entry Count</text>',
+        f' dy="-4em" transform="rotate(-90 {x_min :.4f} {(y_min + y_max) / 2 :.4f})">Entry Count</text>',
+        *[
+            f'<line x1="{x_min :.4f}" y1="{y_tick :.4f}" x2="{x_min - plot_tick_length :.4f}" y2="{y_tick :.4f}"/>\n'
+            f'<text class="tick" x="{x_min - plot_tick_length :.4f}" y="{y_tick :.4f}"'
+            f' dx="-2em" dy="0.33em">{entry_count}</text>'
+            for entry_count in tick_entry_counts
+            if (
+                y_tick := y(entry_count),
+            )
+        ],
         # Target
         f'<line class="target" x1="{x_min :.4f}" y1="{y_target :.4f}" x2="{x_max :.4f}" y2="{y_target :.4f}"/>',
         f'<text class="target" x="{0.33 * x_min + 0.67 * x_max :.4f}" y="{y_target :.4f}"'
