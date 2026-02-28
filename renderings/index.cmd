@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-02-24
+* %date-modified --> 2026-02-28
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -2004,6 +2004,14 @@ window.onload = applyFilter;
       ==
       - (_noun-like_) manure, muck
       - (_verb-like_) [to] sweep (away)
+      ==
+  //
+    , `pjut`
+    , [弗](/entries/fat#rendering-弗)
+    ,
+      ==
+      - (_adverb-like_) not
+      - (_adjective-like_) gusty
       ==
   //
     , `pjut`

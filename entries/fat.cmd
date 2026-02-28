@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fat
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-02-28
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -144,6 +144,14 @@ P
   1. To rid, to remove (Kangxi: 去也).
      (Alternative form of 祓 (for the "remove" sense). See $祓fat1.)
   ++
+L
+  ====
+  * 【弗】 (pjut)
+    ==
+    - (_adverb-like_) not
+    - (_adjective-like_) gusty
+    ==
+  ====
 $$
 
 ### 彿1 | _Fat(7)_ [[fat1]]
