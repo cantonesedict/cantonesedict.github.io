@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fai
-* %date-modified --> 2026-02-22
+* %date-modified --> 2026-02-28
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -934,7 +934,7 @@ W
   ====
 L
   ====
-  * 【芾】 (pj+jH, pajH)
+  * 【芾-departing】 (pj+jH, pajH)
     ==
     - (_adjective-like_) small
     - (_adjective-like_) luxuriant

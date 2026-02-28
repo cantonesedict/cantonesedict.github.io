@@ -521,6 +521,39 @@ window.onload = applyFilter;
       - (_noun-like_) cooked-rice, rice, meal
       ==
   //
+    , `bjop`
+    , [乏](/entries/fat#rendering-乏)
+    ,
+      ==
+      - (_verb-like_) [to] lack
+      - (_noun-like_) vacancy
+      - (_verb-like_) [to] waste
+      - (_noun-like_) safety-screen
+      ==
+  //
+    , `bjot`
+    , [伐](/entries/fat#rendering-伐)
+    ,
+      ==
+      - (_verb-like_) [to] smite, [to] strike, [to] fell
+      - (_verb-like_) [to] boast
+      ==
+  //
+    , `bjot`
+    , [瞂](/entries/fat#rendering-瞂)
+    ,
+      ==
+      - (_noun-like_) shield
+      ==
+  //
+    , `bjot`
+    , [罰](/entries/fat#rendering-罰)
+    ,
+      ==
+      - (_verb-like_) [to] punish
+      - (_verb-like_) [to] fine
+      ==
+  //
     , `bjun`
     , [墳~(level)](/entries/fan#rendering-墳-level)
     ,
@@ -608,6 +641,27 @@ window.onload = applyFilter;
       ==
       - (_noun-like_) share, fraction
       - (_noun-like_) allotted [duty]
+      ==
+  //
+    , `bjut`
+    , [佛](/entries/fat#rendering-佛)
+    ,
+      ==
+      - (_noun-like_) buddha
+      ==
+  //
+    , `bjut`
+    , [咈](/entries/fat#rendering-咈)
+    ,
+      ==
+      - (_verb-like_) [to] oppose, [to] go against
+      ==
+  //
+    , `bjut`
+    , [拂~(voiced)](/entries/fat#rendering-拂-voiced)
+    ,
+      ==
+      - (_verb-like_) [to] oppose, [to] turn aside
       ==
   //
     , `bjuwng`
@@ -1728,8 +1782,16 @@ window.onload = applyFilter;
       - (_noun-like_) clod
       ==
   //
+    , `khwot`
+    , [窟](/entries/fat#rendering-窟)
+    ,
+      ==
+      - (_noun-like_) cave
+      - (_noun-like_) hole
+      ==
+  //
     , `pajH`
-    , [芾](/entries/fai#rendering-芾)
+    , [芾~(departing)](/entries/fai#rendering-芾-departing)
     ,
       ==
       - (_adjective-like_) small
@@ -1741,6 +1803,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] squander
+      ==
+  //
+    , `phjangX phjut`
+    , [彷彿](/entries/fat#rendering-彷彿)
+    ,
+      ==
+      - (_verb-like_) [to] seem (like), [to] appear like
       ==
   //
     , `phjojH`
@@ -1859,6 +1928,38 @@ window.onload = applyFilter;
       - (_verb-like_) [to] anger
       ==
   //
+    , `phjut`
+    , [彿](/entries/fat#rendering-彿)
+    ,
+      ==
+      - Used in [彷彿](/entries/fat#rendering-彷彿).
+      ==
+  //
+    , `phjut`
+    , [拂~(unvoiced)](/entries/fat#rendering-拂-unvoiced)
+    ,
+      ==
+      - (_verb-like_) [to] glance
+      - (_verb-like_) [to] brush (off), [to] wipe (off)
+      ==
+  //
+    , `phjut`
+    , [祓](/entries/fat#rendering-祓)
+    ,
+      ==
+      - (_verb-like_) [to] remove, [to] purify
+      ==
+  //
+    , `phjut`
+    , [茀](/entries/fat#rendering-茀)
+    ,
+      ==
+      - (_adjective-like_) flourishing, vigorous
+      - (_noun-like_) screen
+      - (_verb-like_) [to] clear (away)
+      - (_noun-like_) fortuity
+      ==
+  //
     , `pj+jH`
     , [沸~(departing)](/entries/fai#rendering-沸-departing)
     ,
@@ -1874,7 +1975,7 @@ window.onload = applyFilter;
       ==
   //
     , `pj+jH`
-    , [芾](/entries/fai#rendering-芾)
+    , [芾~(departing)](/entries/fai#rendering-芾-departing)
     ,
       ==
       - (_adjective-like_) small
@@ -1895,6 +1996,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] cast away, [to] abandon, [to] abolish
       - (_verb-like_) [to] waste
       - (_verb-like_) [to] fall
+      ==
+  //
+    , `pjojH`
+    , [祓](/entries/fat#rendering-祓)
+    ,
+      ==
+      - (_verb-like_) [to] remove, [to] purify
       ==
   //
     , `pjon`
@@ -2019,6 +2127,49 @@ window.onload = applyFilter;
     ,
       ==
       - Used in [觱沸](/entries/fai#rendering-觱沸).
+      ==
+  //
+    , `pjut`
+    , [紱](/entries/fat#rendering-紱)
+    ,
+      ==
+      - (_noun-like_) seal-ribbon
+      ==
+  //
+    , `pjut`
+    , [紼](/entries/fat#rendering-紼)
+    ,
+      ==
+      - (_noun-like_) rope, coffin-rope
+      ==
+  //
+    , `pjut`
+    , [綍](/entries/fat#rendering-綍)
+    ,
+      ==
+      - (_noun-like_) rope, coffin-rope
+      ==
+  //
+    , `pjut`
+    , [芾~(entering)](/entries/fat#rendering-芾-entering)
+    ,
+      ==
+      - (_adjective-like_) flourishing
+      - (_noun-like_) knee-cover
+      ==
+  //
+    , `pjut`
+    , [韍](/entries/fat#rendering-韍)
+    ,
+      ==
+      - (_noun-like_) knee-cover
+      ==
+  //
+    , `pjut`
+    , [黻](/entries/fat#rendering-黻)
+    ,
+      ==
+      - (_noun-like_) embroidered-emblem
       ==
   //
     , `pjut sjewH`
@@ -4191,6 +4342,30 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) doorkeeper
+      ==
+  //
+    , `xwot`
+    , [忽](/entries/fat#rendering-忽)
+    ,
+      ==
+      - (_adjective-like_) sudden
+      - (_verb-like_) [to] neglect
+      - (_verb-like_) [to] obliterate
+      - (_noun-like_) floss
+      ==
+  //
+    , `xwot`
+    , [惚](/entries/fat#rendering-惚)
+    ,
+      ==
+      - (_adjective-like_) confused
+      ==
+  //
+    , `xwot`
+    , [笏](/entries/fat#rendering-笏)
+    ,
+      ==
+      - (_noun-like_) tablet
       ==
   //
     , `zi`

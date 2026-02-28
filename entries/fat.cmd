@@ -192,6 +192,17 @@ C
   ==
   - Fan Wan entry: Corrected 依 to 似.
   ==
+L
+  ====
+  * 【彷彿】 (phjangX phjut)
+    ==
+    - (_verb-like_) [to] seem (like), [to] appear like
+    ==
+  * 【彿】 (phjut)
+    ==
+    - Used in [彷彿](/entries/fat#rendering-彷彿).
+    ==
+  ====
 $$
 
 ### 忽1 | _Fat(7)_ [[fat1]]
@@ -255,6 +266,16 @@ C
   - Williams' 輕忽: Corrected _(1)heng_ (heng1) to _(1)hing_ (hing1).
   - Williams' 忽明忽滅: Corrected _(1)ming_ (ming1) to _(4)ming_ (ming4).
   ==
+L
+  ====
+  * 【忽】 (xwot)
+    ==
+    - (_adjective-like_) sudden
+    - (_verb-like_) [to] neglect
+    - (_verb-like_) [to] obliterate
+    - (_noun-like_) floss
+    ==
+  ====
 $$
 
 ### 惚1 | _Fat(7)_ [[fat1]]
@@ -280,6 +301,13 @@ W
     - Minute, abstruse [[Kangxi: 怳惚微妙不測貌]];
     - inexplicable;
     - that which dazzles or flutters the mind.
+    ==
+  ====
+L
+  ====
+  * 【惚】 (xwot)
+    ==
+    - (_adjective-like_) confused
     ==
   ====
 $$
@@ -333,6 +361,14 @@ P
   1. To strike obliquely, to glance (Kangxi: 過擊也, 擊而過之也).
   1. A duster (Kangxi: 拂塵具).
   ++
+L
+  ====
+  * 【拂-unvoiced】 (phjut)
+    ==
+    - (_verb-like_) [to] glance
+    - (_verb-like_) [to] brush (off), [to] wipe (off)
+    ==
+  ====
 S
   ==
   - $拂bat6 (TODO)
@@ -491,6 +527,13 @@ P
   1. To remove (除也, 通作弗, 弗之言祓也).
   1. Good fortune (Kangxi: 通作茀, 祓福也). (Alternative form of 茀. See $茀fat1.)
   ++
+L
+  ====
+  * 【祓】 (phjut, pjojH)
+    ==
+    - (_verb-like_) [to] remove, [to] purify
+    ==
+  ====
 $$
 
 ### 窟1 | _Fat(7)_ [[fat1]]
@@ -534,6 +577,14 @@ C
   - Williams' 窟窿, 鼠窟, 狡兔三窟: Corrected _fat(9)_ (fat6) to _fat(7)_ (fat1).
   - Williams' 窟窿: Corrected _(5)lung_ (lung5) to _(1)lung_ (lung4-1).
   ==
+L
+  ====
+  * 【窟】 (khwot)
+    ==
+    - (_noun-like_) cave
+    - (_noun-like_) hole
+    ==
+  ====
 E
   ====
   - 【屎窟】 (si2 fat1)
@@ -587,6 +638,13 @@ C
   ==
   - Fan Wan entry: Corrected malformed 簪.
   ==
+L
+  ====
+  * 【笏】 (xwot)
+    ==
+    - (_noun-like_) tablet
+    ==
+  ====
 S
   ==
   - $笏wat1 (TODO) <## 氹笏, 十二笏, 掃管笏 ##>
@@ -631,6 +689,13 @@ C
   - Williams' "used for the two preceding": Not the case for 茀,
     and the other way round for 紼 (i.e. 紼 is used for 紱).
   ==
+L
+  ====
+  * 【紱】 (pjut)
+    ==
+    - (_noun-like_) seal-ribbon
+    ==
+  ====
 $$
 
 ### 紼1 | _Fat(7)_ [[fat1]]
@@ -678,6 +743,13 @@ P
   1. A rope (Kangxi: 紼繂也, 紼縳也).
   1. A coffin-rope (for burial) (Kangxi: 引棺索也).
   ++
+L
+  ====
+  * 【紼】 (pjut)
+    ==
+    - (_noun-like_) rope, coffin-rope
+    ==
+  ====
 $$
 
 ###+ 綍1 | _Fat(7)_ [[fat1]]
@@ -708,6 +780,13 @@ W
     --
     [[Alternative form of 紼. See $紼fat1.]]
     --
+  ====
+L
+  ====
+  * 【綍】 (pjut)
+    ==
+    - (_noun-like_) rope, coffin-rope
+    ==
   ====
 S
   ==
@@ -753,6 +832,14 @@ C
   ==
   - Fan Wan entry: Removed extra dot atop 冕, and corrected missing and incomplete strokes in 服.
   ==
+L
+  ====
+  * 【芾-entering】 (pjut)
+    ==
+    - (_adjective-like_) flourishing
+    - (_noun-like_) knee-cover
+    ==
+  ====
 S
   ==
   - $芾fai3
@@ -784,7 +871,7 @@ W
     ==
     - Brambles, or luxuriant herbage, concealing the path [[Kangxi: 道多草不可行, 茀茀茂也]];
     - happiness, luck [[Kangxi: 福也]];
-    - to screen [[Kangxi: 婦人乗車不露見車之前後設障以自蔽隱謂之茀]];
+    - ~~to~~ ``a`` screen [[Kangxi: 婦人乗車不露見車之前後設障以自蔽隱謂之茀]];
     - to clear away, to open [[Kangxi: 治也]];
     - _fat(7) ~~(2)ts(o\)~~ ``(2)ts(')(o\)``_
         [[fat1 cou2 茀草]],
@@ -802,6 +889,16 @@ P
   ++
   1. Strong, vigorous (Kangxi: 强盛也).
   ++
+L
+  ====
+  * 【茀】 (phjut)
+    ==
+    - (_adjective-like_) flourishing, vigorous
+    - (_noun-like_) screen
+    - (_verb-like_) [to] clear (away)
+    - (_noun-like_) fortuity
+    ==
+  ====
 S
   ==
   - ($茀fai3)
@@ -877,6 +974,13 @@ C
   ==
   - Fan Wan entry: Corrected malformed 蔽 and 膝.
   ==
+L
+  ====
+  * 【韍】 (pjut)
+    ==
+    - (_noun-like_) knee-cover
+    ==
+  ====
 $$
 
 ### 髴1 | _Fat(7)_ [[fat1]]
@@ -944,6 +1048,13 @@ C
   - The symbol (文, 彰) referred to by Kangxi is like two 弓 back-to-back,
     or 亞 with the horizontal strokes disconnected.
   ==
+L
+  ====
+  * 【黻】 (pjut)
+    ==
+    - (_noun-like_) embroidered-emblem
+    ==
+  ====
 $$
 
 
@@ -999,6 +1110,20 @@ C
   ==
   - Fan Wan entry: Corrected ⿱宀躬 to 窮, and corrected ⿷匚責 to 匱.
   ==
+P
+  ++
+  1. A safety screen used in archery (Kangxi: 射者所蔽).
+  ++
+L
+  ====
+  * 【乏】 (bjop)
+    ==
+    - (_verb-like_) [to] lack
+    - (_noun-like_) vacancy
+    - (_verb-like_) [to] waste
+    - (_noun-like_) safety-screen
+    ==
+  ====
 $$
 
 ###+ 伐6 | _Fat(9)_ [[fat6]]
@@ -1048,6 +1173,14 @@ P
   ++
   1. To hit, to strike (Kangxi: 考擊鐘鼓也).
   ++
+L
+  ====
+  * 【伐】 (bjot)
+    ==
+    - (_verb-like_) [to] smite, [to] strike, [to] fell
+    - (_verb-like_) [to] boast
+    ==
+  ====
 $$
 
 ### 佛6 | _Fat(9)_ [[fat6]]
@@ -1092,7 +1225,7 @@ W
         a villainous hypocrite.
     ==
     --
-    [[Otherwise, an alternative form of 咈 and 拂. **See $咈fat6 and $拂fat6 for the canonical entry.**]]
+    [[Otherwise, an alternative form of 咈 and 拂. **See $咈fat6 and $拂fat6 for the canonical entries.**]]
     --
   ====
 C
@@ -1101,6 +1234,13 @@ C
   - Williams' 佛法: Corrected _Fat(7)_ (fat1) to _Fat(9)_ (fat6)
     and corrected _f(a/)t(9)_ (faat6) to _f(a/)t(8)_ (faat3).
   ==
+L
+  ====
+  * 【佛】 (bjut)
+    ==
+    - (_noun-like_) buddha
+    ==
+  ====
 S
   ==
   - $佛bat6 (TODO) <## same as 弼 ##>
@@ -1128,6 +1268,13 @@ P
   ++
   1. To oppose, to go against (Kangxi: 違也, 戾也, 通作佛拂).
   ++
+L
+  ====
+  * 【咈】 (bjut)
+    ==
+    - (_verb-like_) [to] oppose, [to] go against
+    ==
+  ====
 $$
 
 ###+ 拂6 | _Fat(9)_ [[fat6]]
@@ -1185,6 +1332,13 @@ W
     --
     Usually read _fat(7)_ [[fat1]].
     --
+  ====
+L
+  ====
+  * 【拂-voiced】 (bjut)
+    ==
+    - (_verb-like_) [to] oppose, [to] turn aside
+    ==
   ====
 S
   ==
@@ -1244,6 +1398,13 @@ P
   ++
   1. A shield (Kangxi: 盾也, 通作伐).
   ++
+L
+  ====
+  * 【瞂】 (bjot)
+    ==
+    - (_noun-like_) shield
+    ==
+  ====
 $$
 
 ###+ 筏6 | _Fat(9)_ [[fat6]]
@@ -1320,6 +1481,14 @@ C
   - Fan Wan entry: Fixed missing strokes in 責 and 治.
   - Williams' 罰簀: Normalised _chak(7)_ (zak1) to _ch(a/)k(8)_ (zaak3).
   ==
+L
+  ====
+  * 【罰】 (bjot)
+    ==
+    - (_verb-like_) [to] punish
+    - (_verb-like_) [to] fine
+    ==
+  ====
 $$
 
 ###+ 閥6 | _Fat(9)_ [[fat6]]
