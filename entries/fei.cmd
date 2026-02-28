@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fei
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-02-28
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -120,6 +120,13 @@ P
   ++
   1. A spouse (Kangxi: 匹也).
   ++
+L
+  ====
+  * 【妃】 (phj+j)
+    ==
+    - (_noun-like_) consort
+    ==
+  ====
 S
   ==
   - $妃pui3 (TODO) <## alternative form of 配 ##>
@@ -143,6 +150,13 @@ W
     ==
     - A wooden ~~door with two leaves~~ ``door-leaf`` [[Kangxi: 戶扇也, 闔謂之扉, 以木曰扉以葦曰扇]];
     - _met._ a rustic house.
+    ==
+  ====
+L
+  ====
+  * 【扉】 (pj+j)
+    ==
+    - (_noun-like_) door-leaf
     ==
   ====
 $$
@@ -203,6 +217,14 @@ P
   ++
   1. Mixed, assorted (Kangxi: 雜也).
   ++
+L
+  ====
+  * 【菲-level】 (phj+j)
+    ==
+    - (_adjective-like_) fragrant
+    - (_adjective-like_) luxuriant
+    ==
+  ====
 S
   ==
   - ($菲fai6)
@@ -287,6 +309,13 @@ W
     - Rain, sleet, or snow driven by the wind, and filling the air [[Kangxi: 雨雪貌, 雰也, 霏甚貌]].
     ==
   ====
+L
+  ====
+  * 【霏】 (phj+j)
+    ==
+    - (_adjective-like_) heavy [falling]
+    ==
+  ====
 $$
 
 ### 非1 | _(1)F(i/)_ [[fei1]]
@@ -343,6 +372,16 @@ P
   ++
   1. The 175th~radical ("wrong").
   ++
+L
+  ====
+  * 【非】 (pj+j)
+    ==
+    - (_verb-like_) [to] be not
+    - (_adverb-like_) not
+    - (_adjective-like_) wrong
+    - (_verb-like_) [to] repugn
+    ==
+  ====
 S
   ==
   - ($非fei2)
@@ -412,6 +451,13 @@ P
   ++
   1. The 183rd~radical ("fly").
   ++
+L
+  ====
+  * 【飛】 (pj+j)
+    ==
+    - (_verb-like_) [to] fly
+    ==
+  ====
 E
   ====
   - 【飛】 (fei1)
@@ -473,6 +519,17 @@ W
     - [[...]];
     - regular march of horses [[Kangxi 匪: 同騑騑騑馬行不止貌]], beautiful [[Kangxi 匪: 行而有文也]];
     - [[...]].
+    ==
+  ====
+L
+  ====
+  * 【騑-adjective】 (phj+j)
+    ==
+    - (_adjective-like_) walking (on), trotting (on)
+    ==
+  * 【騑-noun】 (pj+j)
+    ==
+    - (_noun-like_) outside-horse
     ==
   ====
 $$
@@ -546,6 +603,13 @@ P
   ++
   1. Not (Kangxi: 一曰非也).
   ++
+L
+  ====
+  * 【匪】 (pj+jX)
+    ==
+    - (_adverb-like_) not
+    ==
+  ====
 S
   ==
   - $匪bei2 (TODO) <## same as 彼 ##>
@@ -598,6 +662,13 @@ C
   ==
   - Williams' "Embarrassed": In the (now) archaic sense of "impeded", "obstructed".
   ==
+L
+  ====
+  * 【悱】 (phj+jX)
+    ==
+    - (_adjective-like_) eager to express
+    ==
+  ====
 $$
 
 ### 斐2 | _(2)F(i/)_ [[fei2]]
@@ -634,6 +705,13 @@ C
   - Williams' "adorned": Especially with small markings (Kangxi: 小文之貌).
   - Williams' 斐然成章: Corrected _(1)shing_ (sing1) to _(4)shing_ (sing4).
   ==
+L
+  ====
+  * 【斐】 (phj+jX)
+    ==
+    - (_adjective-like_) decorated, splendid
+    ==
+  ====
 $$
 
 ### ~~棑~~``棐``2 | _(2)F(i/)_ [[fei2]]
@@ -677,6 +755,13 @@ C
     Note that 棐 can be used for 榧, but not the other way round.
     I have split things up accordingly.
   ==
+L
+  ====
+  * 【棐】 (pj+jX)
+    ==
+    - (_verb-like_) [to] assist
+    ==
+  ====
 $$
 
 ### 榧2 | _(2)F(i/)_ [[fei2]]
@@ -745,6 +830,13 @@ W
   - [[Page~53 (2)篚]]
     ==
     - A round bamboo basket [[Kangxi 篚: 竹器方曰筐圓曰篚, 通作匪, 亦作棐]].
+    ==
+  ====
+L
+  ====
+  * 【篚】 (pj+jX)
+    ==
+    - (_noun-like_) bamboo-basket
     ==
   ====
 $$
@@ -833,6 +925,13 @@ C
   - Fan Wan entry: Fixed incomplete strokes in 薄.
   - Williams' 菲惄: Normalised _nik(7)_ (nik1) to _nik(9)_ (nik6).
   ==
+L
+  ====
+  * 【菲-rising】 (phj+jX)
+    ==
+    - (_adjective-like_) scant
+    ==
+  ====
 S
   ==
   - ($菲fai6)
@@ -876,6 +975,13 @@ P
   ++
   1. The grasshopper (Kangxi: 蟲名負蠜也).
   ++
+L
+  ====
+  * 【蜚】 (pj+jX, bj+jH)
+    ==
+    - (_noun-like_) stinking-pest
+    ==
+  ====
 S
   ==
   - $蜚fei1
@@ -917,6 +1023,13 @@ C
   - The reading _(2)f(i/)_ (fei2) is not unattested;
     《集韻》 has the readings ::[妃]尾切:: and 府尾切, both explained 謗也.
   ==
+L
+  ====
+  * 【誹】 (pj+j, pj+jH)
+    ==
+    - (_verb-like_) [to] slander
+    ==
+  ====
 $$
 
 ###+ 非2 | _(2)F(i/)_ [[fei2]]
@@ -1004,6 +1117,13 @@ P
   ++
   1. Stroke or paralysis (Kangxi: 風病也).
   ++
+L
+  ====
+  * 【痱】 (bj+j)
+    ==
+    - (_noun-like_) stroke
+    ==
+  ====
 S
   ==
   - ($痱fai2)
@@ -1078,6 +1198,14 @@ P
   1. A horse (Kangxi: 馬亦稱肥).
   1. Fertiliser.
   ++
+L
+  ====
+  * 【肥】 (bj+j)
+    ==
+    - (_adjective-like_) fat
+    - (_adjective-like_) fertile
+    ==
+  ====
 E
   --
   Cantonese prefers 肥 over 胖, even when referring to fatness in humans.
@@ -1125,7 +1253,17 @@ C
   - Fan Wan entry: Fixed missing stroke in 詩.
     The incomprehensible character looks like an incomplete 備;
     context suggests that this should be 避.
+  - Williams' "sick, diseased": Especially worsening disease.
   ==
+L
+  ====
+  * 【腓】 (bj+j)
+    ==
+    - (_noun-like_) calf
+    - (_verb-like_) [to] deteriorate
+    - (_verb-like_) [to] protect, [to] cover
+    ==
+  ====
 $$
 
 ###+ 賁4 | _(4)F(i/)_ [[fei4]]
@@ -1204,6 +1342,13 @@ C
   ==
   - Or made from hemp, which also is coarser than silk (Kangxi: 屝麤屨也絲作曰履麻作曰屝).
   ==
+L
+  ====
+  * 【屝】 (bj+jH)
+    ==
+    - (_noun-like_) straw-sandal
+    ==
+  ====
 S
   ==
   - ($屝fai6)

@@ -382,6 +382,44 @@ window.onload = applyFilter;
       - (_adjective-like_) solemn, prudent
       ==
   //
+    , `bj+j`
+    , [痱](/entries/fei#rendering-痱)
+    ,
+      ==
+      - (_noun-like_) stroke
+      ==
+  //
+    , `bj+j`
+    , [肥](/entries/fei#rendering-肥)
+    ,
+      ==
+      - (_adjective-like_) fat
+      - (_adjective-like_) fertile
+      ==
+  //
+    , `bj+j`
+    , [腓](/entries/fei#rendering-腓)
+    ,
+      ==
+      - (_noun-like_) calf
+      - (_verb-like_) [to] deteriorate
+      - (_verb-like_) [to] protect, [to] cover
+      ==
+  //
+    , `bj+jH`
+    , [屝](/entries/fei#rendering-屝)
+    ,
+      ==
+      - (_noun-like_) straw-sandal
+      ==
+  //
+    , `bj+jH`
+    , [蜚](/entries/fei#rendering-蜚)
+    ,
+      ==
+      - (_noun-like_) stinking-pest
+      ==
+  //
     , `bj+jH`
     , [費~(voiced)](/entries/fai#rendering-費-voiced)
     ,
@@ -1850,6 +1888,56 @@ window.onload = applyFilter;
       - (_adjective-like_) luxuriant
       ==
   //
+    , `phj+j`
+    , [妃](/entries/fei#rendering-妃)
+    ,
+      ==
+      - (_noun-like_) consort
+      ==
+  //
+    , `phj+j`
+    , [菲~(level)](/entries/fei#rendering-菲-level)
+    ,
+      ==
+      - (_adjective-like_) fragrant
+      - (_adjective-like_) luxuriant
+      ==
+  //
+    , `phj+j`
+    , [霏](/entries/fei#rendering-霏)
+    ,
+      ==
+      - (_adjective-like_) heavy [falling]
+      ==
+  //
+    , `phj+j`
+    , [騑~(adjective)](/entries/fei#rendering-騑-adjective)
+    ,
+      ==
+      - (_adjective-like_) walking (on), trotting (on)
+      ==
+  //
+    , `phj+jX`
+    , [悱](/entries/fei#rendering-悱)
+    ,
+      ==
+      - (_adjective-like_) eager to express
+      ==
+  //
+    , `phj+jX`
+    , [斐](/entries/fei#rendering-斐)
+    ,
+      ==
+      - (_adjective-like_) decorated, splendid
+      ==
+  //
+    , `phj+jX`
+    , [菲~(rising)](/entries/fei#rendering-菲-rising)
+    ,
+      ==
+      - (_adjective-like_) scant
+      ==
+  //
     , `phj+jH`
     , [費~(unvoiced)](/entries/fai#rendering-費-unvoiced)
     ,
@@ -2026,6 +2114,72 @@ window.onload = applyFilter;
       - (_adjective-like_) fresh, bright
       ==
   //
+    , `pj+j`
+    , [扉](/entries/fei#rendering-扉)
+    ,
+      ==
+      - (_noun-like_) door-leaf
+      ==
+  //
+    , `pj+j`
+    , [誹](/entries/fei#rendering-誹)
+    ,
+      ==
+      - (_verb-like_) [to] slander
+      ==
+  //
+    , `pj+j`
+    , [非](/entries/fei#rendering-非)
+    ,
+      ==
+      - (_verb-like_) [to] be not
+      - (_adverb-like_) not
+      - (_adjective-like_) wrong
+      - (_verb-like_) [to] repugn
+      ==
+  //
+    , `pj+j`
+    , [飛](/entries/fei#rendering-飛)
+    ,
+      ==
+      - (_verb-like_) [to] fly
+      ==
+  //
+    , `pj+j`
+    , [騑~(noun)](/entries/fei#rendering-騑-noun)
+    ,
+      ==
+      - (_noun-like_) outside-horse
+      ==
+  //
+    , `pj+jX`
+    , [匪](/entries/fei#rendering-匪)
+    ,
+      ==
+      - (_adverb-like_) not
+      ==
+  //
+    , `pj+jX`
+    , [棐](/entries/fei#rendering-棐)
+    ,
+      ==
+      - (_verb-like_) [to] assist
+      ==
+  //
+    , `pj+jX`
+    , [篚](/entries/fei#rendering-篚)
+    ,
+      ==
+      - (_noun-like_) bamboo-basket
+      ==
+  //
+    , `pj+jX`
+    , [蜚](/entries/fei#rendering-蜚)
+    ,
+      ==
+      - (_noun-like_) stinking-pest
+      ==
+  //
     , `pj+jH`
     , [沸~(departing)](/entries/fai#rendering-沸-departing)
     ,
@@ -2046,6 +2200,13 @@ window.onload = applyFilter;
       ==
       - (_adjective-like_) small
       - (_adjective-like_) luxuriant
+      ==
+  //
+    , `pj+jH`
+    , [誹](/entries/fei#rendering-誹)
+    ,
+      ==
+      - (_verb-like_) [to] slander
       ==
   //
     , `pjit pjut`
