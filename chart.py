@@ -162,7 +162,7 @@ def main():
         ],
         # Target
         f'<line class="target" x1="{x_min :.4f}" y1="{y_target :.4f}" x2="{x_max :.4f}" y2="{y_target :.4f}"/>',
-        f'<text class="target" x="{0.33 * x_min + 0.67 * x_max :.4f}" y="{y_target :.4f}"'
+        f'<text class="target" x="{(x_min + x_max) / 2 :.4f}" y="{y_target :.4f}"'
         f' dy="-0.5em">Approximate Target: {target_entry_count} entries</text>',
         # Polyline
         f'''<polyline points="{
