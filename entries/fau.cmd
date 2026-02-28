@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fau
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-02-28
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -167,9 +167,19 @@ W
   ====
 C
   ==
+  - Williams' "a negative interrogation": Specifically,
+    to present an alternative in the negative, i.e. "[or] not".
   - Williams' 否則威之: Corrected _(4)wai_ (wai4) to _(1)wai_ (wai1).
     This is Kangxi's example from 《書益稷》.
   ==
+L
+  ====
+  * 【否】 (pjuwX)
+    ==
+    - (_adverb-like_) nay
+    - (_adverb-like_) not
+    ==
+  ====
 S
   ==
   - $否pei2 (TODO)
@@ -204,6 +214,13 @@ P
   ++
   1. The 121st~radical ("jar").
   ++
+L
+  ====
+  * 【缶】 (pjuwX)
+    ==
+    - (_noun-like_) earthenware
+    ==
+  ====
 $$
 
 
@@ -292,6 +309,15 @@ P
   1. Falling heavily (Kangxi: 雨雪盛貌).
   1. To punish with drink as forfeit (Kangxi: 浮罰也謂罰爵也).
   ++
+L
+  ====
+  * 【浮】 (bjuw)
+    ==
+    - (_verb-like_) [to] float
+    - (_verb-like_) [to] penalise
+    - (_adjective-like_) (_met._) heavy, strong
+    ==
+  ====
 E
   ====
   - 【浮面】 (pou4 min6-2)
@@ -322,6 +348,7 @@ U
 V
   ==
   - fau1 (per 《廣韻》匹尤切 and 甫鳩切)
+  - fau2 (per 《廣韻》芳否切)
   - fu1 (per 《集韻》芳無切 for "bright-coloured" sense)
   ==
 F
@@ -340,6 +367,13 @@ C
   ==
   - Fan Wan entry: Corrected malformed 絜.
   ==
+L
+  ====
+  * 【紑】 (phjuw, phjuwX, pjuw)
+    ==
+    - (_adjective-like_) fresh, bright
+    ==
+  ====
 S
   ==
   - ($紑fau1)
@@ -369,6 +403,13 @@ C
   ==
   - Fan Wan entry: Normalised headword ⿱𠔿不 to 罘, and normalised ⿱𠔿思 to 罳.
   ==
+L
+  ====
+  * 【罘】 (bjuw)
+    ==
+    - (_noun-like_) rabbit-net
+    ==
+  ====
 $$
 
 ###+ 芣4 | _(4)Fau_ [[fau4]]
@@ -399,6 +440,17 @@ C
   ==
   - Williams' 車前草: Inferred incompletely printed letter _t_ in _(4)ts(')(i/)n_.
   ==
+L
+  ====
+  * 【芣】 (bjuw)
+    ==
+    - Used in [芣苡](/entries/fau#rendering-芣苡).
+    ==
+  * 【芣苡】 (bjuw yiX)
+    ==
+    - (_noun-like_) plantain
+    ==
+  ====
 $$
 
 ### 蜉4 | _(4)Fau_ [[fau4]]
@@ -421,6 +473,17 @@ W
         [[fau4 jau4 蜉蝣]],
         an ephemera,
         produced from muck [[Kangxi: 蜉蝣渠略也 etc.]].
+    ==
+  ====
+L
+  ====
+  * 【蜉】 (bjuw)
+    ==
+    - Used in [蜉蝣](/entries/fau#rendering-蜉蝣).
+    ==
+  * 【蜉蝣】 (bjuw yuw)
+    ==
+    - (_noun-like_) up-wing fly
     ==
   ====
 $$
@@ -568,4 +631,12 @@ C
   ==
   - Fan Wan entry: Fixed missing strokes in 豐.
   ==
+L
+  ====
+  * 【阜】 (bjuw)
+    ==
+    - (_noun-like_) great-mound
+    - (_adjective-like_) great, large, abundant
+    ==
+  ====
 $$

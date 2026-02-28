@@ -664,6 +664,58 @@ window.onload = applyFilter;
       - (_verb-like_) [to] oppose, [to] turn aside
       ==
   //
+    , `bjuw`
+    , [浮](/entries/fau#rendering-浮)
+    ,
+      ==
+      - (_verb-like_) [to] float
+      - (_verb-like_) [to] penalise
+      - (_adjective-like_) (_met._) heavy, strong
+      ==
+  //
+    , `bjuw`
+    , [罘](/entries/fau#rendering-罘)
+    ,
+      ==
+      - (_noun-like_) rabbit-net
+      ==
+  //
+    , `bjuw`
+    , [芣](/entries/fau#rendering-芣)
+    ,
+      ==
+      - Used in [芣苡](/entries/fau#rendering-芣苡).
+      ==
+  //
+    , `bjuw`
+    , [蜉](/entries/fau#rendering-蜉)
+    ,
+      ==
+      - Used in [蜉蝣](/entries/fau#rendering-蜉蝣).
+      ==
+  //
+    , `bjuw`
+    , [阜](/entries/fau#rendering-阜)
+    ,
+      ==
+      - (_noun-like_) great-mound
+      - (_adjective-like_) great, large, abundant
+      ==
+  //
+    , `bjuw yiX`
+    , [芣苡](/entries/fau#rendering-芣苡)
+    ,
+      ==
+      - (_noun-like_) plantain
+      ==
+  //
+    , `bjuw yuw`
+    , [蜉蝣](/entries/fau#rendering-蜉蝣)
+    ,
+      ==
+      - (_noun-like_) up-wing fly
+      ==
+  //
     , `bjuwng`
     , [汎](/entries/faan#rendering-汎)
     ,
@@ -1960,6 +2012,20 @@ window.onload = applyFilter;
       - (_noun-like_) fortuity
       ==
   //
+    , `phjuw`
+    , [紑](/entries/fau#rendering-紑)
+    ,
+      ==
+      - (_adjective-like_) fresh, bright
+      ==
+  //
+    , `phjuwX`
+    , [紑](/entries/fau#rendering-紑)
+    ,
+      ==
+      - (_adjective-like_) fresh, bright
+      ==
+  //
     , `pj+jH`
     , [沸~(departing)](/entries/fai#rendering-沸-departing)
     ,
@@ -2177,6 +2243,28 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) unbecoming
+      ==
+  //
+    , `pjuw`
+    , [紑](/entries/fau#rendering-紑)
+    ,
+      ==
+      - (_adjective-like_) fresh, bright
+      ==
+  //
+    , `pjuwX`
+    , [否](/entries/fau#rendering-否)
+    ,
+      ==
+      - (_adverb-like_) nay
+      - (_adverb-like_) not
+      ==
+  //
+    , `pjuwX`
+    , [缶](/entries/fau#rendering-缶)
+    ,
+      ==
+      - (_noun-like_) earthenware
       ==
   //
     , `sa`
