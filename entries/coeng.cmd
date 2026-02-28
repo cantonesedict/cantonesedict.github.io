@@ -923,7 +923,7 @@ P
   ++
 L
   ====
-  * 【鶬】 (tshjang)
+  * 【鶬-onomatopoeia】 (tshjang)
     ==
     - (_onomatopoeia_) ting
     ==

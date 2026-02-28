@@ -2847,9 +2847,15 @@ class LiteraryRendering:
         )
 
     def url(self) -> str:
-        url_path = f'entries/{self.page_heading_jyutping}'
-        url_fragment = f'rendering-{CmdIdioms.strip_compositions(self.term)}{self.disambiguation_suffix}'
+        url_path = self.url_path()
+        url_fragment = self.url_fragment()
         return f'/{url_path}#{url_fragment}'
+
+    def url_path(self) -> str:
+        return f'entries/{self.page_heading_jyutping}'
+
+    def url_fragment(self) -> str:
+        return f'rendering-{CmdIdioms.strip_compositions(self.term)}{self.disambiguation_suffix}'
 
     def split(self) -> list['LiteraryRendering']:
         return [
@@ -2950,7 +2956,7 @@ class Linter:
             Linter.lint_character_entry_literary_rendering_belonging(character_entries)
             Linter.lint_character_entry_literary_rendering_linkage(character_entries)
             Linter.lint_character_entry_see_also_reciprocation(character_entries)
-            Linter.lint_literary_rendering_url_duplication(literary_renderings)
+            Linter.lint_literary_rendering_fragment_duplication(literary_renderings)
             Linter.lint_literary_rendering_disambiguation_consistency(literary_renderings)
             Linter.lint_cantonese_entry_url_duplication(cantonese_entries)
             Linter.lint_cantonese_entry_disambiguation_consistency(cantonese_entries)
@@ -3547,15 +3553,15 @@ class Linter:
                     raise LintException(f'missing see also link `{universal_link}` under `{other_character_entry}`')
 
     @staticmethod
-    def lint_literary_rendering_url_duplication(literary_renderings: list['LiteraryRendering']):
-        collated_literary_renderings_from_url = Utilities.collate_firsts_by_second(
-            (literary_rendering, literary_rendering.url())
+    def lint_literary_rendering_fragment_duplication(literary_renderings: list['LiteraryRendering']):
+        collated_literary_renderings_from_fragment = Utilities.collate_firsts_by_second(
+            (literary_rendering, literary_rendering.url_fragment())
             for literary_rendering in literary_renderings
         )
 
-        for url, collated_literary_renderings in collated_literary_renderings_from_url.items():
+        for fragment, collated_literary_renderings in collated_literary_renderings_from_fragment.items():
             if len(collated_literary_renderings) > 1:
-                raise LintException(f'duplicated literary rendering URL `{url}`')
+                raise LintException(f'duplicated literary rendering URL fragment `{fragment}`')
 
     @staticmethod
     def lint_literary_rendering_disambiguation_consistency(literary_renderings: list['LiteraryRendering']):

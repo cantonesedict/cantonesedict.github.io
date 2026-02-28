@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-02-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1222,7 +1222,7 @@ W
   ====
 L
   ====
-  * 【趣】 (tshjuH)
+  * 【趣-departing】 (tshjuH)
     ==
     - (_verb-like_) [to] haste
     ==

@@ -2629,7 +2629,7 @@ window.onload = applyFilter;
       ==
   //
     , `tshang`
-    , [鶬](/entries/cong#rendering-鶬)
+    , [鶬~(noun)](/entries/cong#rendering-鶬-noun)
     ,
       ==
       - (_noun-like_) crane
@@ -2712,7 +2712,7 @@ window.onload = applyFilter;
       ==
   //
     , `tshejH`
-    , [切](/entries/cai#rendering-切)
+    , [切~(departing)](/entries/cai#rendering-切-departing)
     ,
       ==
       - Used in [一切](/entries/cai#rendering-一切).
@@ -2757,7 +2757,7 @@ window.onload = applyFilter;
       ==
   //
     , `tshet`
-    , [切](/entries/cit#rendering-切)
+    , [切~(entering)](/entries/cit#rendering-切-entering)
     ,
       ==
       - (_verb-like_) [to] cut, [to] dissect, (_met._) [to] gnash
@@ -2915,7 +2915,7 @@ window.onload = applyFilter;
       ==
   //
     , `tshjang`
-    , [鶬](/entries/coeng#rendering-鶬)
+    , [鶬~(onomatopoeia)](/entries/coeng#rendering-鶬-onomatopoeia)
     ,
       ==
       - (_onomatopoeia_) ting
@@ -3073,7 +3073,7 @@ window.onload = applyFilter;
       ==
   //
     , `tshjuH`
-    , [趣](/entries/ceoi#rendering-趣)
+    , [趣~(departing)](/entries/ceoi#rendering-趣-departing)
     ,
       ==
       - (_verb-like_) [to] haste
@@ -3197,7 +3197,7 @@ window.onload = applyFilter;
       ==
   //
     , `tshuwX`
-    , [趣](/entries/cau#rendering-趣)
+    , [趣~(rising)](/entries/cau#rendering-趣-rising)
     ,
       ==
       - Used in [趣馬](/entries/cau#rendering-趣馬).
@@ -3390,7 +3390,7 @@ window.onload = applyFilter;
       ==
   //
     , `tsrhae`
-    , [差](/entries/caa#rendering-差)
+    , [差~(discrepancy)](/entries/caa#rendering-差-discrepancy)
     ,
       ==
       - (_noun-like_) discrepancy, error
@@ -3427,7 +3427,7 @@ window.onload = applyFilter;
       ==
   //
     , `tsrheaj`
-    , [差](/entries/caai#rendering-差)
+    , [差~(send)](/entries/caai#rendering-差-send)
     ,
       ==
       - (_verb-like_) [to] send
@@ -3525,7 +3525,7 @@ window.onload = applyFilter;
       ==
   //
     , `tsrhje`
-    , [差](/entries/ci#rendering-差)
+    , [差~(uneven)](/entries/ci#rendering-差-uneven)
     ,
       ==
       - Used in [參差](/entries/caam#rendering-參差).

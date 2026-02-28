@@ -833,7 +833,7 @@ P
   ++
 L
   ====
-  * 【趣】 (tshuwX)
+  * 【趣-rising】 (tshuwX)
     ==
     - Used in [趣馬](/entries/cau#rendering-趣馬).
     ==

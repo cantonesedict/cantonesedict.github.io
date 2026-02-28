@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cit
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-02-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -126,7 +126,7 @@ P
   ++
 L
   ====
-  * 【切】 (tshet)
+  * 【切-entering】 (tshet)
     ==
     - (_verb-like_) [to] cut, [to] dissect, (_met._) [to] gnash
     - (_verb-like_) [to] take (pulse)

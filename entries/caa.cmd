@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-02-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -213,7 +213,7 @@ C
   ====
 L
   ====
-  * 【差】 (tsrhae)
+  * 【差-discrepancy】 (tsrhae)
     ==
     - (_noun-like_) discrepancy, error
     ==

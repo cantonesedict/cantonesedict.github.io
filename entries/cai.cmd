@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-02-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -410,7 +410,7 @@ L
     ==
     - (_noun-like_) everything
     ==
-  * 【切】 (tshejH)
+  * 【切-departing】 (tshejH)
     ==
     - Used in [一切](/entries/cai#rendering-一切).
     ==

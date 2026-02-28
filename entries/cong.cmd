@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cong
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-02-28
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -538,7 +538,7 @@ P
   ++
 L
   ====
-  * 【鶬】 (tshang)
+  * 【鶬-noun】 (tshang)
     ==
     - (_noun-like_) crane
     - Used in [鶬鶊](/entries/cong#rendering-鶬鶊).
