@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -269,6 +269,7 @@ E
     ++
     1. To hold, to grasp, to control.
       ==
+      - 揸兜 (zaa1 dau1): "Hold [a] shallow-bowl" (i.e. be a beggar).
       - 揸拿 (zaa1 naa4): "[A] grasp [of the situation]."
       - 揸筷子 (zaa1 faai3 zi2): "Control chopsticks."
       ==
