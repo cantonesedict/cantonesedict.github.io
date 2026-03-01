@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -5310,6 +5310,9 @@ W
     - the 153d~radical [["badger"]] of characters of ~~feline~~ ``long-backed`` beasts ``ready to pounce`` [[Kangxi: ::獸長[脊]行豸豸然欲有所司殺形::]];
     - a worm, a hairless grub [[Kangxi: 有足謂之蟲無足謂之豸]].
     ==
+    --
+    [[Otherwise, a reading variation. **See $豸zaai6 for the canonical entry.**]]
+    --
   ====
 C
   ==

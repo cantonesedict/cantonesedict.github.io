@@ -521,6 +521,10 @@ A
   ==
   - 廌
   ==
+V
+  ==
+  - zi6 (alternative per 《廣韻》池爾切 for 廌)
+  ==
 F
   ==
   - (F2.29 豸) 蟲豸有足曰蟲無足曰豸又獬豸
@@ -536,6 +540,12 @@ W
     [[...]]
     --
   ====
+C
+  ==
+  - Aptly rendered "unicorn", per 《說文》一角 under the seal for 廌.
+  - The alternative reading _ch(i/)(6)_ (zi6) per 《廣韻》池爾切 for 廌 is suspect,
+    as it does not preserve the internal rhyme in 解豸, "unicorn of understanding".
+  ==
 L
   ====
   * 【豸】 (dreaX)
