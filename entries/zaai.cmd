@@ -401,6 +401,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $寨6
+- ($廌6)
 - $眥6
 - ($砦6)
 - $豸6
@@ -454,6 +455,23 @@ C
   - Fan Wan entry: 寨 is printed with bottom component 氺 (rather than 朩 or 木),
     whilst 蜜 (used for 密) is printed as ⿳冖一虫.
   ==
+$$
+
+###+ 廌6 | _Ch(a/)i(6)_ [[zaai6]]
+
+$$.
+R
+  ⼴ + 10
+U
+  U+5ECC
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 豸. **See $豸zaai6 for the canonical entry.**
+  ++
 $$
 
 ###+ 眥6 | _Ch(a/)i(6)_ [[zaai6]]
@@ -519,7 +537,7 @@ U
   U+8C78
 A
   ==
-  - 廌
+  - $廌6
   ==
 V
   ==
