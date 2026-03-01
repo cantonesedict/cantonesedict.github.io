@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fo
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-01
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -122,6 +122,16 @@ P
   1. A pit, a hole (Kangxi: 坎也).
   1. To sentence, to punish (Kangxi: 科斷也 etc.).
   ++
+L
+  ====
+  * 【科】 (khwa)
+    ==
+    - (_noun-like_) degree, class, rank
+    - (_noun-like_) ordinance
+    - (_noun-like_) hole, hollow
+    - (_verb-like_) [to] levy
+    ==
+  ====
 $$
 
 ### 窠1 | _(1)Fo_ [[fo1]]
@@ -495,6 +505,13 @@ P
   1. The 86th~radical ("fire").
   1. Internal "fire" (or "heat") in Chinese medicine.
   ++
+L
+  ====
+  * 【火】 (xwaX)
+    ==
+    - (_noun-like_) fire, (_met._) light
+    ==
+  ====
 E
   ====
   - 【火】 (fo2)
@@ -607,6 +624,14 @@ P
   ++
   1. To compute (Kangxi: 計也程也).
   ++
+L
+  ====
+  * 【課】 (khwaH)
+    ==
+    - (_verb-like_) [to] assess
+    - (_noun-like_) tax
+    ==
+  ====
 $$
 
 ### 貨3 | _Fo(3)_ [[fo3]]
@@ -655,4 +680,12 @@ P
   ++
   1. Currency.
   ++
+L
+  ====
+  * 【貨】 (xwaH)
+    ==
+    - (_noun-like_) goods, property
+    - (_noun-like_) currency
+    ==
+  ====
 $$

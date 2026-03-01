@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-02-28
+* %date-modified --> 2026-03-01
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -1849,6 +1849,24 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) parched-grain
+      ==
+  //
+    , `khwa`
+    , [科](/entries/fo#rendering-科)
+    ,
+      ==
+      - (_noun-like_) degree, class, rank
+      - (_noun-like_) ordinance
+      - (_noun-like_) hole, hollow
+      - (_verb-like_) [to] levy
+      ==
+  //
+    , `khwaH`
+    , [課](/entries/fo#rendering-課)
+    ,
+      ==
+      - (_verb-like_) [to] assess
+      - (_noun-like_) tax
       ==
   //
     , `khwaejH`
@@ -4547,6 +4565,21 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] destroy
+      ==
+  //
+    , `xwaX`
+    , [火](/entries/fo#rendering-火)
+    ,
+      ==
+      - (_noun-like_) fire, (_met._) light
+      ==
+  //
+    , `xwaH`
+    , [貨](/entries/fo#rendering-貨)
+    ,
+      ==
+      - (_noun-like_) goods, property
+      - (_noun-like_) currency
       ==
   //
     , `xwae`
