@@ -775,6 +775,13 @@ window.onload = applyFilter;
       - (_noun-like_) door-post
       ==
   //
+    , `dreaX`
+    , [豸](/entries/zaai#rendering-豸)
+    ,
+      ==
+      - (_noun-like_) unicorn
+      ==
+  //
     , `dreang`
     , [橙](/entries/caang#rendering-橙)
     ,
@@ -3868,6 +3875,28 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] deceive, (_met._) ^cunning
+      ==
+  //
+    , `tsreaH`
+    , [債](/entries/zaai#rendering-債)
+    ,
+      ==
+      - (_noun-like_) debt
+      ==
+  //
+    , `tsreaj`
+    , [齋](/entries/zaai#rendering-齋)
+    ,
+      ==
+      - (_verb-like_) [to] purify
+      ==
+  //
+    , `tsreajH`
+    , [瘵](/entries/zaai#rendering-瘵)
+    ,
+      ==
+      - (_noun-like_) distress
+      - (_noun-like_) disease, wasting-disease
       ==
   //
     , `tsrhae`

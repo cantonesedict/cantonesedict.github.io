@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -103,6 +103,7 @@ $$
 $$
 R
   ⿑ + 3
+  ⽰ + 12
 U
   U+9F4B
 A
@@ -189,10 +190,17 @@ W
   ====
 C
   ==
-  - Williams' 齋戒: Properly, abstinence from all pleasures (meat, alcohol, sex).
+  - Williams' 齋戒: Properly, to abstain from all pleasures (meat, alcohol, sex).
   - Williams' 齋醮: Corrected _tsi(u/)(6)_ (ziu6) to _tsi(u/)(3)_ (ziu3).
   - Williams' 羅漢齋: The name of a dish, commonly called Buddha's Delight.
   ==
+L
+  ====
+  * 【齋】 (tsreaj)
+    ==
+    - (_verb-like_) [to] purify
+    ==
+  ====
 E
   ====
   - 【話齋】 (waa6 zaai1) <## TODO move under 話 waa6 ##>
@@ -285,6 +293,13 @@ C
   ==
   - Williams' 切耳變債躉: Corrected _ts(i/)t(8)_ (zit3) to _ts(')(i/)t(8)_ (cit3).
   ==
+L
+  ====
+  * 【債】 (tsreaH)
+    ==
+    - (_noun-like_) debt
+    ==
+  ====
 $$
 
 ###+ 瘵3 | _Ch(a/)i(3)_ [[zaai3]]
@@ -313,6 +328,14 @@ W
     - _tsz'(6) ~~ch(')(a/)i(3)~~ ``ch(a/)i(3)``_
         [[zi6 zaai3 自瘵]]
         to bring trouble on one's self.
+    ==
+  ====
+L
+  ====
+  * 【瘵】 (tsreajH)
+    ==
+    - (_noun-like_) distress
+    - (_noun-like_) disease, wasting-disease
     ==
   ====
 S
@@ -494,6 +517,10 @@ R
   ⾘ + 0
 U
   U+8C78
+A
+  ==
+  - 廌
+  ==
 F
   ==
   - (F2.29 豸) 蟲豸有足曰蟲無足曰豸又獬豸
@@ -508,6 +535,13 @@ W
     --
     [[...]]
     --
+  ====
+L
+  ====
+  * 【豸】 (dreaX)
+    ==
+    - (_noun-like_) unicorn
+    ==
   ====
 S
   ==
