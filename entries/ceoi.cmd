@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2026-02-28
+* %date-modified --> 2026-03-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1113,6 +1113,13 @@ W
     --
     [[...]]
     --
+  ====
+L
+  ====
+  * 【蜡-unvoiced】 (tshjoH)
+    ==
+    - (_noun-like_) maggot
+    ==
   ====
 S
   ==

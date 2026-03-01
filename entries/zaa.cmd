@@ -603,6 +603,13 @@ W
         happened to see.
     ==
   ====
+L
+  ====
+  * 【乍】 (dzraeH)
+    ==
+    - (_adverb-like_) suddenly, unexpectedly
+    ==
+  ====
 $$
 
 ###+ 吒3 | _Ch(a/)(3)_ [[zaa3]]
@@ -634,6 +641,13 @@ W
     - _ch(')ik(7) ~~ch(')(a/)(3)~~ ``ch(a/)(3)``_
         [[cik1 zaa3 叱吒]]
         to rail at.
+    ==
+  ====
+L
+  ====
+  * 【吒】 (traeH)
+    ==
+    - (_verb-like_) [to] sputter
     ==
   ====
 S
@@ -930,6 +944,13 @@ C
   - Fan Wan entry: Corrected ⿰釒⿱丿乂 to 釵, corrected 入 to 八,
     and corrected 士 to 土.
   ==
+L
+  ====
+  * 【蜡-voiced】 (dzraeH)
+    ==
+    - (_noun-like_) winter-sacrifice
+    ==
+  ====
 S
   ==
   - ($蜡caa3)
@@ -983,6 +1004,13 @@ W
     --
     [[Otherwise, an alternative form of 乍. **See $乍zaa3 for the canonical entry.**]]
     --
+  ====
+L
+  ====
+  * 【詐】 (tsraeH)
+    ==
+    - (_verb-like_) [to] deceive, (_met._) ^cunning
+    ==
   ====
 E
   ====

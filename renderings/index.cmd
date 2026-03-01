@@ -1622,6 +1622,20 @@ window.onload = applyFilter;
       - (_noun-like_) confluence
       ==
   //
+    , `dzraeH`
+    , [乍](/entries/zaa#rendering-乍)
+    ,
+      ==
+      - (_adverb-like_) suddenly, unexpectedly
+      ==
+  //
+    , `dzraeH`
+    , [蜡~(voiced)](/entries/zaa#rendering-蜡-voiced)
+    ,
+      ==
+      - (_noun-like_) winter-sacrifice
+      ==
+  //
     , `dzraem`
     , [毚](/entries/caam#rendering-毚)
     ,
@@ -2710,6 +2724,13 @@ window.onload = applyFilter;
       - (_noun-like_) otter
       ==
   //
+    , `traeH`
+    , [吒](/entries/zaa#rendering-吒)
+    ,
+      ==
+      - (_verb-like_) [to] sputter
+      ==
+  //
     , `traewk`
     , [倬](/entries/coek#rendering-倬)
     ,
@@ -3489,6 +3510,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] change countenance
       ==
   //
+    , `tshjoH`
+    , [蜡~(unvoiced)](/entries/ceoi#rendering-蜡-unvoiced)
+    ,
+      ==
+      - (_noun-like_) maggot
+      ==
+  //
     , `tshjowng`
     , [樅](/entries/cung#rendering-樅)
     ,
@@ -3833,6 +3861,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] trample, [to] kick
+      ==
+  //
+    , `tsraeH`
+    , [詐](/entries/zaa#rendering-詐)
+    ,
+      ==
+      - (_verb-like_) [to] deceive, (_met._) ^cunning
       ==
   //
     , `tsrhae`
