@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -126,6 +126,13 @@ W
     [[Otherwise, an alternative form of 賾. **See $賾zaak3 for the canonical entry.**]]
     --
   ====
+L
+  ====
+  * 【嘖】 (dzreak, tsreak, tsraek)
+    ==
+    - (_verb-like_) [to] cry out
+    ==
+  ====
 S
   ==
   - ($嘖zik1)
@@ -189,6 +196,13 @@ W
     --
     [[Otherwise, an alternative form of 窄. **See $窄zaak3 for the canonical entry.**]]
     --
+  ====
+L
+  ====
+  * 【柞】 (tsraek)
+    ==
+    - (_verb-like_) [to] fell away (trees)
+    ==
   ====
 S
   ==
@@ -429,7 +443,7 @@ W
     - a quiver [[Kangxi: 矢箙]];
     - a bamboo ceiling of a roof [[Kangxi: 屋上板, 在瓦之下棼之上]];
     - to hasten out [[Kangxi: 出去疾也]];
-    - to press [[Kangxi: 壓也]];
+    - to press``, to crush`` [[Kangxi: 壓也]];
     - [[...]].
     ==
     --
@@ -480,6 +494,13 @@ C
     The first, ⿱𥫗章, does not exist.
     The second is illegible, but appears like a deformed version of 䓂.
   ==
+L
+  ====
+  * 【簀】 (tsreak)
+    ==
+    - (_noun-like_) bed-mat, (_met._) [dense]-padding
+    ==
+  ====
 S
   ==
   - $簀zaai3
@@ -588,6 +609,15 @@ C
   - Williams' 責罰 (second occurrence): Changed _f(a/)t(9)_ (faat6)
     to modern _fat(9)_ (fat6).
   ==
+L
+  ====
+  * 【責】 (tsreak)
+    ==
+    - (_verb-like_) [to] demand
+    - (_verb-like_) [to] blame, [to] rebuke
+    - (_noun-like_) responsibility
+    ==
+  ====
 S
   ==
   - ($責zaai3)
@@ -635,6 +665,13 @@ C
   ==
   - Fan Wan entry: Normalised headword {𧷤=⿲丿臣責} to 賾.
   ==
+L
+  ====
+  * 【賾】 (dzreak)
+    ==
+    - (_adjective-like_) abstruse
+    ==
+  ====
 $$
 
 
@@ -702,6 +739,14 @@ C
   ==
   - Williams' 宅兆: Changed _chi(u/)(6)_ (ziu6) to common reading _shi(u/)(6)_ (siu6).
   ==
+L
+  ====
+  * 【宅】 (draek)
+    ==
+    - (_noun-like_) dwelling, settlement
+    - (_verb-like_) [to] dwell, [to] settle
+    ==
+  ====
 $$
 
 ### 摘6 | _Ch(a/)k(9)_ [[zaak6]]
@@ -759,6 +804,13 @@ C
   - Williams' 摘朵落嚟: Corrected _tok(9)_ (dok6) to _lok(9)_ (lok6).
   - Williams' 摘頂: Corrected _(1)teng_ (deng1) to _(2)teng_ (deng2).
   ==
+L
+  ====
+  * 【摘】 (treak)
+    ==
+    - (_verb-like_) [to] pluck
+    ==
+  ====
 $$
 
 ### 擇6 | _Ch(a/)k(9)_ [[zaak6]]
@@ -789,6 +841,13 @@ W
     - _ch(a/)k(9) (1)k(a/)u_
         [[zaak6 gaau1 擇交]],
         to take associates.
+    ==
+  ====
+L
+  ====
+  * 【擇】 (draek)
+    ==
+    - (_verb-like_) [to] select
     ==
   ====
 $$
@@ -906,6 +965,22 @@ P
   ++
   1. Undergarments (Kangxi: 褻衣曰澤).
   ++
+L
+  ====
+  * 【澤】 (draek)
+    ==
+    - (_noun-like_) pool, marsh
+    - (_noun-like_) lustre
+    - (_verb-like_) [to] moisten, [to] enrich
+    - (_verb-like_) [to] wash
+    - (_noun-like_) undergarment
+    ==
+  ====
+S
+  ==
+  - ($澤jik6) (TODO) <## same as 醳 ##>
+  - ($澤sik1) (TODO) <## same as 釋 ##>
+  ==
 $$
 
 ###+ 矺6 | _Ch(a/)k(9)_ [[zaak6]]
@@ -994,7 +1069,7 @@ A
   ==
 V
   ==
-  - zaak3 (per 《廣韻》陟革切)
+  - zaak3 (alternative(?) per 《廣韻》陟革切)
   ==
 F
   ==
@@ -1022,6 +1097,14 @@ C
     It is unclear whether this is intended as a cross-reference
     or as a genuine alternative for the "blame" sense.
   ==
+L
+  ====
+  * 【謫】 (treak)
+    ==
+    - (_verb-like_) [to] blame
+    - (_verb-like_) [to] punish, [to] disgrace
+    ==
+  ====
 $$
 
 ### 讁6 | _Ch(a/)k(9)_ [[zaak6]]

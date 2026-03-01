@@ -768,6 +768,32 @@ window.onload = applyFilter;
       - (_adjective-like_) torrid
       ==
   //
+    , `draek`
+    , [宅](/entries/zaak#rendering-宅)
+    ,
+      ==
+      - (_noun-like_) dwelling, settlement
+      - (_verb-like_) [to] dwell, [to] settle
+      ==
+  //
+    , `draek`
+    , [擇](/entries/zaak#rendering-擇)
+    ,
+      ==
+      - (_verb-like_) [to] select
+      ==
+  //
+    , `draek`
+    , [澤](/entries/zaak#rendering-澤)
+    ,
+      ==
+      - (_noun-like_) pool, marsh
+      - (_noun-like_) lustre
+      - (_verb-like_) [to] moisten, [to] enrich
+      - (_verb-like_) [to] wash
+      - (_noun-like_) undergarment
+      ==
+  //
     , `draeng`
     , [棖](/entries/caang#rendering-棖)
     ,
@@ -1684,6 +1710,20 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) wolf
+      ==
+  //
+    , `dzreak`
+    , [嘖](/entries/zaak#rendering-嘖)
+    ,
+      ==
+      - (_verb-like_) [to] cry out
+      ==
+  //
+    , `dzreak`
+    , [賾](/entries/zaak#rendering-賾)
+    ,
+      ==
+      - (_adjective-like_) abstruse
       ==
   //
     , `dzream`
@@ -2751,6 +2791,21 @@ window.onload = applyFilter;
       ==
       - (_adjective-like_) lofty
       - (_adverb-like_) aloft
+      ==
+  //
+    , `treak`
+    , [摘](/entries/zaak#rendering-摘)
+    ,
+      ==
+      - (_verb-like_) [to] pluck
+      ==
+  //
+    , `treak`
+    , [謫](/entries/zaak#rendering-謫)
+    ,
+      ==
+      - (_verb-like_) [to] blame
+      - (_verb-like_) [to] punish, [to] disgrace
       ==
   //
     , `trhaejH`
@@ -3877,6 +3932,20 @@ window.onload = applyFilter;
       - (_verb-like_) [to] deceive, (_met._) ^cunning
       ==
   //
+    , `tsraek`
+    , [嘖](/entries/zaak#rendering-嘖)
+    ,
+      ==
+      - (_verb-like_) [to] cry out
+      ==
+  //
+    , `tsraek`
+    , [柞](/entries/zaak#rendering-柞)
+    ,
+      ==
+      - (_verb-like_) [to] fell away (trees)
+      ==
+  //
     , `tsreaH`
     , [債](/entries/zaai#rendering-債)
     ,
@@ -3897,6 +3966,29 @@ window.onload = applyFilter;
       ==
       - (_noun-like_) distress
       - (_noun-like_) disease, wasting-disease
+      ==
+  //
+    , `tsreak`
+    , [嘖](/entries/zaak#rendering-嘖)
+    ,
+      ==
+      - (_verb-like_) [to] cry out
+      ==
+  //
+    , `tsreak`
+    , [簀](/entries/zaak#rendering-簀)
+    ,
+      ==
+      - (_noun-like_) bed-mat, (_met._) [dense]-padding
+      ==
+  //
+    , `tsreak`
+    , [責](/entries/zaak#rendering-責)
+    ,
+      ==
+      - (_verb-like_) [to] demand
+      - (_verb-like_) [to] blame, [to] rebuke
+      - (_noun-like_) responsibility
       ==
   //
     , `tsrhae`
