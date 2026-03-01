@@ -1851,6 +1851,13 @@ window.onload = applyFilter;
       - (_noun-like_) parched-grain
       ==
   //
+    , `khjwak`
+    , [躩](/entries/fok#rendering-躩)
+    ,
+      ==
+      - (_verb-like_) [to] step turning on the spot, [to] step quickly
+      ==
+  //
     , `khwa`
     , [科](/entries/fo#rendering-科)
     ,
@@ -1896,6 +1903,27 @@ window.onload = applyFilter;
       ==
       - (_noun-like_) cave
       - (_noun-like_) hole
+      ==
+  //
+    , `kjwak`
+    , [攫](/entries/fok#rendering-攫)
+    ,
+      ==
+      - (_verb-like_) [to] snatch
+      ==
+  //
+    , `kjwak`
+    , [矍](/entries/fok#rendering-矍)
+    ,
+      ==
+      - (_verb-like_) [to] glance fearfully
+      ==
+  //
+    , `kjwak`
+    , [躩](/entries/fok#rendering-躩)
+    ,
+      ==
+      - (_verb-like_) [to] step turning on the spot, [to] step quickly
       ==
   //
     , `pajH`
@@ -4594,6 +4622,20 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] transform
+      ==
+  //
+    , `xwak`
+    , [藿](/entries/fok#rendering-藿)
+    ,
+      ==
+      - (_noun-like_) pulse-leaf, pulse-sprout
+      ==
+  //
+    , `xwak`
+    , [霍](/entries/fok#rendering-霍)
+    ,
+      ==
+      - (_adverb-like_) swiftly
       ==
   //
     , `xwon`

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fok
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-01
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -122,6 +122,13 @@ C
   ==
   - Fan Wan entry: Corrected incomplete 瓜 to 爪, and fixed missing stroke in 撲.
   ==
+L
+  ====
+  * 【攫】 (kjwak)
+    ==
+    - (_verb-like_) [to] snatch
+    ==
+  ====
 $$
 
 ### 矍3 | _Fok(8)_ [[fok3]]
@@ -160,6 +167,13 @@ P
   ++
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【矍】 (kjwak)
+    ==
+    - (_verb-like_) [to] glance fearfully
+    ==
+  ====
 $$
 
 ### 縛3 | _Fok(8)_ [[fok3]]
@@ -212,6 +226,13 @@ W
         the _Betonica officinalis_ used in colic.
     ==
   ====
+L
+  ====
+  * 【藿】 (xwak)
+    ==
+    - (_noun-like_) pulse-leaf, pulse-sprout
+    ==
+  ====
 $$
 
 ### 躩3 | _Fok(8)_ [[fok3]]
@@ -250,6 +271,13 @@ P
   ++
   1. To jump (Kangxi: 躩跳也).
   ++
+L
+  ====
+  * 【躩】 (khjwak, kjwak)
+    ==
+    - (_verb-like_) [to] step turning on the spot, [to] step quickly
+    ==
+  ====
 $$
 
 ### 钁3 | _Fok(8)_ [[fok3]]
@@ -317,4 +345,11 @@ P
   ++
   1. To dissipate, to disperse (Kangxi: 霍焉猶渙焉也).
   ++
+L
+  ====
+  * 【霍】 (xwak)
+    ==
+    - (_adverb-like_) swiftly
+    ==
+  ====
 $$
