@@ -472,6 +472,10 @@ P
   ++
   1. Alternative form of 豸. **See $豸zaai6 for the canonical entry.**
   ++
+S
+  ==
+  - ($廌zi6)
+  ==
 $$
 
 ###+ 眥6 | _Ch(a/)i(6)_ [[zaai6]]

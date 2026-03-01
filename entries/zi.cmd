@@ -4273,6 +4273,7 @@ $$
 - ($孶6)
 - $寺6
 - $巳6
+- ($廌6)
 - $彘6
 - ($植6)
 - $治6
@@ -4722,6 +4723,27 @@ W
       and corresponding to 9--11~A.~M.
     ==
   ====
+$$
+
+###+ 廌6 | _Ch(i/)(6)_ [[zi6]]
+
+$$.
+R
+  ⼴ + 10
+U
+  U+5ECC
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 豸, and reading variation. **See $豸zaai6 for the canonical entry.**
+  ++
+S
+  ==
+  - ($廌zaai6)
+  ==
 $$
 
 ### 彘6 | _Ch(i/)(6)_ [[zi6]]
