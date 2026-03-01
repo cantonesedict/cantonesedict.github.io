@@ -58,7 +58,7 @@ def get_output(command: str) -> str:
 
 
 def main():
-    sampling_size = 50
+    sampling_size = 100
     latest_entry_commit_hash = get_output('git log -1  --format=%H -- entries/*.html')
     commit_hashes_all = get_output(f'git log --format=%H {latest_entry_commit_hash}').splitlines()
     commit_hashes = commit_hashes_all[0 : -1 : len(commit_hashes_all) // sampling_size] + commit_hashes_all[-1:]
