@@ -6,7 +6,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Home
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-01
 * %copyright-prior-years --> 2023--
 * %modern-colour --> crimson
 * %meta-description --> home page
@@ -33,7 +33,7 @@ RegexDictionaryReplacement: #.subsidiary-tonic-link
 #{.modern} Conway's Cantonese Dictionary
 
 --{.modern}
-**Work in progress:**
+**[Work in progress](/progress.svg):**
 An annotated edition of 《英華分韻撮要》
 [''A Tonic Dictionary of the Chinese Language in the Canton Dialect'' (1856)]<n2>
 by [Samuel Wells Williams].
