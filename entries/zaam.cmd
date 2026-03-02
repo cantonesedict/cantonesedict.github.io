@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaam
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -120,6 +120,14 @@ W
     - [[...]].
     ==
   ====
+L
+  ====
+  * 【簪】 (tsrim, tsom)
+    ==
+    - (_noun-like_) hairpin
+    - (_adjective-like_) swift
+    ==
+  ====
 $$
 
 
@@ -211,6 +219,13 @@ C
   - Williams' 腰斬: Now used figuratively for midway cancellation or termination.
   - Williams' 斬伐: Changed _f(a/)t(9)_ (faat6) to modern _fat(9)_ (fat6).
   ==
+L
+  ====
+  * 【斬】 (tsreamX)
+    ==
+    - (_verb-like_) [to] chop (off), [to] sever
+    ==
+  ====
 $$
 
 ###+ 眨2 | _(2)Ch(a/)m_ [[zaam2]]
@@ -304,11 +319,21 @@ W
   ====
 P
   ++
+  1. Heavy, thick (Kangxi: 重厚貌), abundantly dewy (Kangxi: 露盛貌).
   1. A surname (Kangxi: 姓也).
   ++
+L
+  ====
+  * 【湛】 (dreamX)
+    ==
+    - (_adjective-like_) heavy, thick
+    - (_adjective-like_) deep
+    ==
+  ====
 S
   ==
   - ($湛cam4)
+  - ($湛daam1) (TODO)
   - ($湛zam3)
   ==
 $$
@@ -426,6 +451,14 @@ W
     - _(2)ho ts(a/)m(6) pat(7) (2)ho (4)sh(e/)ung_
         [[ho2 zaam6 bat1 ho2 soeng4 可暫不可常]],
         it will do for a temporary arrangement.
+    ==
+  ====
+L
+  ====
+  * 【暫】 (dzamH)
+    ==
+    - (_adverb-like_) momentarily
+    - (_adverb-like_) suddenly
     ==
   ====
 $$

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-03-01
+* %date-modified --> 2026-03-02
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -808,6 +808,14 @@ window.onload = applyFilter;
       - (_noun-like_) unicorn
       ==
   //
+    , `dreamX`
+    , [湛](/entries/zaam#rendering-湛)
+    ,
+      ==
+      - (_adjective-like_) heavy, thick
+      - (_adjective-like_) deep
+      ==
+  //
     , `dreang`
     , [橙](/entries/caang#rendering-橙)
     ,
@@ -1285,6 +1293,14 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) ashamed
+      ==
+  //
+    , `dzamH`
+    , [暫](/entries/zaam#rendering-暫)
+    ,
+      ==
+      - (_adverb-like_) momentarily
+      - (_adverb-like_) suddenly
       ==
   //
     , `dzan`
@@ -3925,6 +3941,14 @@ window.onload = applyFilter;
       - (_verb-like_) [to] trample, [to] kick
       ==
   //
+    , `tsom`
+    , [簪](/entries/zaam#rendering-簪)
+    ,
+      ==
+      - (_noun-like_) hairpin
+      - (_adjective-like_) swift
+      ==
+  //
     , `tsraeH`
     , [詐](/entries/zaa#rendering-詐)
     ,
@@ -3989,6 +4013,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] demand
       - (_verb-like_) [to] blame, [to] rebuke
       - (_noun-like_) responsibility
+      ==
+  //
+    , `tsreamX`
+    , [斬](/entries/zaam#rendering-斬)
+    ,
+      ==
+      - (_verb-like_) [to] chop (off), [to] sever
       ==
   //
     , `tsrhae`
@@ -4178,6 +4209,14 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] gnaw
+      ==
+  //
+    , `tsrim`
+    , [簪](/entries/zaam#rendering-簪)
+    ,
+      ==
+      - (_noun-like_) hairpin
+      - (_adjective-like_) swift
       ==
   //
     , `tsrip`
