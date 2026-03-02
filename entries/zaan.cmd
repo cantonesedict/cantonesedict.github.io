@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -137,6 +137,7 @@ U
 V
   ==
   - zaam2 (per 《廣韻》子感切)
+  - zip6 (per 《廣韻》疾葉切)
   ==
 F
   ==
@@ -149,6 +150,13 @@ W
     - Promptly, quickly [[Kangxi: 居之速也]];
     - with haste;
     - to hasten, to accelerate.
+    ==
+  ====
+L
+  ====
+  * 【寁】 (tsomX, dzjep)
+    ==
+    - (_adverb-like_) hastily
     ==
   ====
 S
@@ -232,6 +240,13 @@ C
   ==
   - Fan Wan entry: Corrected 牽 (but with top similar to 立) to 斝.
   ==
+L
+  ====
+  * 【琖】 (tsreanX)
+    ==
+    - (_noun-like_) jade-cup
+    ==
+  ====
 $$
 
 ### 盞2 | _(2)Ch(a/)n_ [[zaan2]]
@@ -262,6 +277,13 @@ W
     --
     [[Otherwise, an alternative form of 琖. **See $琖zaan2 for the canonical entry.**]]
     --
+  ====
+L
+  ====
+  * 【盞】 (tsreanX)
+    ==
+    - (_noun-like_) cup
+    ==
   ====
 E
   ====
@@ -362,6 +384,14 @@ W
     - Muddy, unsettled spirits [[Kangxi: 酒濁而微淸也]];
     - liquor beginning to clear;
     - a cup, a goblet [[Kangxi: 爵也]].
+    ==
+  ====
+L
+  ====
+  * 【醆】 (tsreanX)
+    ==
+    - (_noun-like_) wine-cup
+    - (_noun-like_) slightly-clarified-alcohol
     ==
   ====
 $$
@@ -511,6 +541,14 @@ P
   ++
   1. Impure jade (Kangxi: 三玉二石也).
   ++
+L
+  ====
+  * 【瓚】 (dzanX)
+    ==
+    - (_noun-like_) libation-cup
+    - (_noun-like_) impure-jade
+    ==
+  ====
 $$
 
 ### 讚3 | _Ts(a/)n(3)_ [[zaan3]]
@@ -564,6 +602,13 @@ W
     --
     [[Otherwise, an alternative form of 贊. **See $贊zaan3 for the canonical entry.**]]
     --
+  ====
+L
+  ====
+  * 【讚】 (tsanH)
+    ==
+    - (_verb-like_) [to] praise
+    ==
   ====
 $$
 
@@ -621,6 +666,13 @@ C
   ==
   - Williams' 贊助: Now has the connotation of *financial* aid, i.e. sponsorship.
   ==
+L
+  ====
+  * 【贊】 (tsanH)
+    ==
+    - (_verb-like_) [to] assist (in), [to] advance
+    ==
+  ====
 $$
 
 

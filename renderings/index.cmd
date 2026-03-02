@@ -1312,6 +1312,14 @@ window.onload = applyFilter;
       - (_adjective-like_) fragmentary
       ==
   //
+    , `dzanX`
+    , [瓚](/entries/zaan#rendering-瓚)
+    ,
+      ==
+      - (_noun-like_) libation-cup
+      - (_noun-like_) impure-jade
+      ==
+  //
     , `dzang`
     , [藏](/entries/cong#rendering-藏)
     ,
@@ -1508,6 +1516,13 @@ window.onload = applyFilter;
       ==
       - (_noun-like_) sentiment, (_met._) sense, nature
       - (_noun-like_) truth, circumstance
+      ==
+  //
+    , `dzjep`
+    , [寁](/entries/zaan#rendering-寁)
+    ,
+      ==
+      - (_adverb-like_) hastily
       ==
   //
     , `dzjew`
@@ -3073,6 +3088,20 @@ window.onload = applyFilter;
       - (_adjective-like_) sincere
       ==
   //
+    , `tsanH`
+    , [讚](/entries/zaan#rendering-讚)
+    ,
+      ==
+      - (_verb-like_) [to] praise
+      ==
+  //
+    , `tsanH`
+    , [贊](/entries/zaan#rendering-贊)
+    ,
+      ==
+      - (_verb-like_) [to] assist (in), [to] advance
+      ==
+  //
     , `tsawX`
     , [澡](/entries/cou#rendering-澡)
     ,
@@ -3949,6 +3978,13 @@ window.onload = applyFilter;
       - (_adjective-like_) swift
       ==
   //
+    , `tsomX`
+    , [寁](/entries/zaan#rendering-寁)
+    ,
+      ==
+      - (_adverb-like_) hastily
+      ==
+  //
     , `tsraeH`
     , [詐](/entries/zaa#rendering-詐)
     ,
@@ -4020,6 +4056,28 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] chop (off), [to] sever
+      ==
+  //
+    , `tsreanX`
+    , [琖](/entries/zaan#rendering-琖)
+    ,
+      ==
+      - (_noun-like_) jade-cup
+      ==
+  //
+    , `tsreanX`
+    , [盞](/entries/zaan#rendering-盞)
+    ,
+      ==
+      - (_noun-like_) cup
+      ==
+  //
+    , `tsreanX`
+    , [醆](/entries/zaan#rendering-醆)
+    ,
+      ==
+      - (_noun-like_) wine-cup
+      - (_noun-like_) slightly-clarified-alcohol
       ==
   //
     , `tsrhae`
