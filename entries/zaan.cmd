@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2026-03-02
+* %date-modified --> 2026-03-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -756,6 +756,16 @@ P
   ++
   1. An aspiration, an inclination, a bent.
   ++
+L
+  ====
+  * 【撰】 (dzrwaenX, dzrjwenX)
+    ==
+    - (_noun-like_) law [of nature]
+    - (_verb-like_) [to] take hold
+    - (_verb-like_) [to] prepare, [to] make
+    - (_verb-like_) [to] compose, [to] compile
+    ==
+  ====
 S
   ==
   - $撰syun2 (TODO)
@@ -811,6 +821,15 @@ P
   ++
   1. An inn or guesthouse.
   ++
+L
+  ====
+  * 【棧】 (dzreanX, dzrjenX, dzraenH)
+    ==
+    - (_noun-like_) plank
+    - (_adjective-like_) planked, (_met._) hearse
+    - (_noun-like_) cote
+    ==
+  ====
 S
   ==
   - ($棧zaan2)
@@ -853,6 +872,13 @@ P
       - 綻放 (zaan6 fong3): "[To] blossom."
       ==
   ++
+L
+  ====
+  * 【綻】 (dreanH)
+    ==
+    - (_adjective-like_) rent
+    ==
+  ====
 $$
 
 
@@ -899,6 +925,7 @@ U
   U+8B54
 V
   ==
+  - cyun1 (alternative per 《廣韻》此縁切)
   - zaan3 (common)
   ==
 F
@@ -912,12 +939,23 @@ W
     [[...]]
     --
     ==
-    - ~~To exhort by precepts~~ ``To teach focusedly`` [[Kangxi: 專敎也, 善言也]];
+    - ~~To exhort by precepts~~ ``To teach focusedly`` [[Kangxi: 專敎也]];
     - [[...]].
     ==
     --
     [[Otherwise, an alternative form of 撰 (for the "write" and "compile" senses). **See $撰zaan6 for the canonical entry.**]]
     --
+  ====
+P
+  ++
+  1. To panegyrise (Kangxi: 善言也).
+  ++
+L
+  ====
+  * 【譔】 (tshjwen, dzrjwenX, dzrjwenH)
+    ==
+    - (_verb-like_) [to] panegyrise
+    ==
   ====
 $$
 
@@ -1081,6 +1119,15 @@ W
     - _(5)yau mat(7) (4)ng(a/)u ch(a/)n(6)_
         [[jau5 mat1 ngaau4 zaan6 有乜餚饌]]
         what delicacy did you have for a relish?
+    ==
+  ====
+L
+  ====
+  * 【饌】 (dzrjwenH)
+    ==
+    - (_verb-like_) [to] consume
+    - (_verb-like_) [to] serve (viands)
+    - (_noun-like_) viand
     ==
   ====
 $$

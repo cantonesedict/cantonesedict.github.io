@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-03-02
+* %date-modified --> 2026-03-03
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -814,6 +814,13 @@ window.onload = applyFilter;
       ==
       - (_adjective-like_) heavy, thick
       - (_adjective-like_) deep
+      ==
+  //
+    , `dreanH`
+    , [綻](/entries/zaan#rendering-綻)
+    ,
+      ==
+      - (_adjective-like_) rent
       ==
   //
     , `dreang`
@@ -1707,6 +1714,15 @@ window.onload = applyFilter;
       - (_adjective-like_) wily
       ==
   //
+    , `dzraenH`
+    , [棧](/entries/zaan#rendering-棧)
+    ,
+      ==
+      - (_noun-like_) plank
+      - (_adjective-like_) planked, (_met._) hearse
+      - (_noun-like_) cote
+      ==
+  //
     , `dzraew`
     , [巢](/entries/caau#rendering-巢)
     ,
@@ -1778,6 +1794,15 @@ window.onload = applyFilter;
       - (_adjective-like_) flippant
       ==
   //
+    , `dzreanX`
+    , [棧](/entries/zaan#rendering-棧)
+    ,
+      ==
+      - (_noun-like_) plank
+      - (_adjective-like_) planked, (_met._) hearse
+      - (_noun-like_) cote
+      ==
+  //
     , `dzriX`
     , [柿](/entries/ci#rendering-柿)
     ,
@@ -1792,6 +1817,15 @@ window.onload = applyFilter;
       - (_noun-like_) bed
       ==
   //
+    , `dzrjenX`
+    , [棧](/entries/zaan#rendering-棧)
+    ,
+      ==
+      - (_noun-like_) plank
+      - (_adjective-like_) planked, (_met._) hearse
+      - (_noun-like_) cote
+      ==
+  //
     , `dzrjo`
     , [鋤](/entries/co#rendering-鋤)
     ,
@@ -1804,6 +1838,49 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) chick
+      ==
+  //
+    , `dzrjwenX`
+    , [撰](/entries/zaan#rendering-撰)
+    ,
+      ==
+      - (_noun-like_) law [of nature]
+      - (_verb-like_) [to] take hold
+      - (_verb-like_) [to] prepare, [to] make
+      - (_verb-like_) [to] compose, [to] compile
+      ==
+  //
+    , `dzrjwenX`
+    , [譔](/entries/zaan#rendering-譔)
+    ,
+      ==
+      - (_verb-like_) [to] panegyrise
+      ==
+  //
+    , `dzrjwenH`
+    , [譔](/entries/zaan#rendering-譔)
+    ,
+      ==
+      - (_verb-like_) [to] panegyrise
+      ==
+  //
+    , `dzrjwenH`
+    , [饌](/entries/zaan#rendering-饌)
+    ,
+      ==
+      - (_verb-like_) [to] consume
+      - (_verb-like_) [to] serve (viands)
+      - (_noun-like_) viand
+      ==
+  //
+    , `dzrwaenX`
+    , [撰](/entries/zaan#rendering-撰)
+    ,
+      ==
+      - (_noun-like_) law [of nature]
+      - (_verb-like_) [to] take hold
+      - (_verb-like_) [to] prepare, [to] make
+      - (_verb-like_) [to] compose, [to] compile
       ==
   //
     , `dzu`
@@ -3700,6 +3777,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) fish-trap
+      ==
+  //
+    , `tshjwen`
+    , [譔](/entries/zaan#rendering-譔)
+    ,
+      ==
+      - (_verb-like_) [to] panegyrise
       ==
   //
     , `tshjwen`
