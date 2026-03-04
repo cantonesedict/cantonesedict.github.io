@@ -69,7 +69,7 @@ U
   U+5291
 V
   ==
-  - zai6 (per 《廣韻》在詣切 for "portion" and "medicine" senses)
+  - zai6 (per 《廣韻》在詣切 for verb(?) senses)
   ==
 F
   ==
@@ -92,6 +92,25 @@ W
     - _chat(7) (1)tsai_
         [[zat1 zai1 質劑]],
         a check, a bond, made so as to cut in twain for evidence [[Kangxi: 質劑謂兩書一札而別之也 etc.]].
+    ==
+  ====
+C
+  ==
+  - It is not clear how to distribute the senses between level and departing tone.
+  - Kangxi has "pare even" and "bisected-contract" under the level tone,
+    and the medicine-related(?) senses under the departing tone.
+  - 《廣韻》 has 券也 (for the "bisected-contract" sense) under the level tone,
+    and 分劑 (a very ambiguous "portion(?)") under the departing tone.
+  ==
+L
+  ====
+  * 【劑-departing】 (dzejH)
+    ==
+    - (_verb-like_) [to] pare (even)
+    ==
+  * 【劑-level】 (tsjwe)
+    ==
+    - (_noun-like_) bisected-contract
     ==
   ====
 $$
@@ -130,7 +149,7 @@ U
   U+64E0
 V
   ==
-  - zai3 (per 《廣韻》子計切 for "push" sense)
+  - zai3 (alternative per 《廣韻》子計切)
   ==
 F
   ==
@@ -161,6 +180,13 @@ W
     - _(1)tsai (2)yung_
         [[zai1 jung2 擠擁]],
         to crowd and press upon.
+    ==
+  ====
+L
+  ====
+  * 【擠】 (tsej, tsejH)
+    ==
+    - (_verb-like_) [to] push
     ==
   ====
 E

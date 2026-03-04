@@ -1401,6 +1401,13 @@ window.onload = applyFilter;
       ==
   //
     , `dzejH`
+    , [劑~(departing)](/entries/zai#rendering-劑-departing)
+    ,
+      ==
+      - (_verb-like_) [to] pare (even)
+      ==
+  //
+    , `dzejH`
     , [懠](/entries/cai#rendering-懠)
     ,
       ==
@@ -3230,6 +3237,20 @@ window.onload = applyFilter;
       - (_verb-like_) [to] move (hastily), [to] stir
       ==
   //
+    , `tsej`
+    , [擠](/entries/zai#rendering-擠)
+    ,
+      ==
+      - (_verb-like_) [to] push
+      ==
+  //
+    , `tsejH`
+    , [擠](/entries/zai#rendering-擠)
+    ,
+      ==
+      - (_verb-like_) [to] push
+      ==
+  //
     , `tsemH`
     , [僭](/entries/cim#rendering-僭)
     ,
@@ -4088,6 +4109,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] trample, [to] kick
+      ==
+  //
+    , `tsjwe`
+    , [劑~(level)](/entries/zai#rendering-劑-level)
+    ,
+      ==
+      - (_noun-like_) bisected-contract
       ==
   //
     , `tsom`
