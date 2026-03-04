@@ -344,7 +344,7 @@ W
   ====
   - [[Page~558 習(9)]]
     ==
-    - ~~A continued~~ ``Repeated`` flight [[Kangxi: 數飛也]];
+    - ~~A continued flight~~ ``Flight by repetition`` [[Kangxi: 數飛也]];
     - to repeat the same act, to practice,
       to get accustomed to, to become skilled in;
     - practice, use, custom, habit, exercise, repetition [[Kangxi: 習重也]];
@@ -378,7 +378,7 @@ W
 C
   ==
   - Fan Wan entry: Corrected 綀 to 練.
-  - Williams' "A continued flight": Better rendered "repeated flight".
+  - Williams' "A continued flight": Better rendered "Flight by repetition".
     In Kangxi 數飛也, note that 數 is to be read in entering tone,
     _shok(8)_ (sok3).
   - Williams' 習俗使然: Corrected _(5)sh(i/)_ (si5) to _(2)sz'_ (si2).
@@ -388,6 +388,14 @@ P
   1. An acquaintance, a familiar.
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【習】 (zip)
+    ==
+    - (_verb-like_) [to] practise
+    - (_adjective-like_) gentle
+    ==
+  ====
 $$
 
 ###+ 褶6 | _Ts(a/)p(9)_ [[zaap6]]
@@ -496,6 +504,16 @@ P
   ++
   1. To wear (Kangxi: 服也).
   ++
+L
+  ====
+  * 【襲】 (zip)
+    ==
+    - (_verb-like_) [to] layer (up), [to] shroud
+    - (_verb-like_) [to] repeat
+    - (_verb-like_) [to] herit
+    - (_verb-like_) [to] raid
+    ==
+  ====
 $$
 
 ### 鈒6 | _Ch(a/)p(9)_ [[zaap6]]
@@ -633,6 +651,13 @@ P
   1. Newly cleared or developed land (Kangxi: 隰謂新發田也).
   1. The waterside or riverside (Kangxi: ::[...]水邊也::).
   ++
+L
+  ====
+  * 【隰】 (zip)
+    ==
+    - (_noun-like_) marshland
+    ==
+  ====
 $$
 
 ### 集6 | _Ts(a/)p(9)_ [[zaap6]]
@@ -688,6 +713,14 @@ C
   - Williams' "to go directly to the mark": Perhaps intended for Kangxi 就也成也,
     but that is better rendered "accomplished" or "completed".
   ==
+L
+  ====
+  * 【集】 (dzip)
+    ==
+    - (_verb-like_) [to] perch (together)
+    - (_verb-like_) [to] collect
+    ==
+  ====
 $$
 
 ### 雜6 | _Ts(a/)p(9)_ [[zaap6]]
@@ -768,6 +801,13 @@ C
   - Williams' "unassorted": Meaning "unsorted" or "miscellaneous".
   - Williams' 五方雜處: Changed _(2)ch(')(u:)_ (cyu2) to common reading _(5)ch(')(u:)_ (cyu5).
   ==
+L
+  ====
+  * 【雜】 (dzop)
+    ==
+    - (_adjective-like_) mingled
+    ==
+  ====
 E
   ====
   - 【垃雜】 (laap6 zaap6)

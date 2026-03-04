@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-03-03
+* %date-modified --> 2026-03-04
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -1447,6 +1447,14 @@ window.onload = applyFilter;
       - (_verb-like_) [to] compile
       ==
   //
+    , `dzip`
+    , [集](/entries/zaap#rendering-集)
+    ,
+      ==
+      - (_verb-like_) [to] perch (together)
+      - (_verb-like_) [to] collect
+      ==
+  //
     , `dzjang`
     , [戕](/entries/coeng#rendering-戕)
     ,
@@ -1684,6 +1692,13 @@ window.onload = applyFilter;
       ==
       - (_adverb-like_) once, ever
       - (_adverb-like_) astonishingly, (_met._) [and] yet, dare
+      ==
+  //
+    , `dzop`
+    , [雜](/entries/zaap#rendering-雜)
+    ,
+      ==
+      - (_adjective-like_) mingled
       ==
   //
     , `dzowng`
@@ -5080,6 +5095,31 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) cauldron
+      ==
+  //
+    , `zip`
+    , [習](/entries/zaap#rendering-習)
+    ,
+      ==
+      - (_verb-like_) [to] practise
+      - (_adjective-like_) gentle
+      ==
+  //
+    , `zip`
+    , [襲](/entries/zaap#rendering-襲)
+    ,
+      ==
+      - (_verb-like_) [to] layer (up), [to] shroud
+      - (_verb-like_) [to] repeat
+      - (_verb-like_) [to] herit
+      - (_verb-like_) [to] raid
+      ==
+  //
+    , `zip`
+    , [隰](/entries/zaap#rendering-隰)
+    ,
+      ==
+      - (_noun-like_) marshland
       ==
   //
     , `zjae`
