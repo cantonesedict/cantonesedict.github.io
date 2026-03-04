@@ -1862,6 +1862,13 @@ window.onload = applyFilter;
       - (_noun-like_) chick
       ==
   //
+    , `dzrjuwH`
+    , [驟](/entries/zaau#rendering-驟)
+    ,
+      ==
+      - (_adjective-like_) speedy
+      ==
+  //
     , `dzrjwenX`
     , [撰](/entries/zaan#rendering-撰)
     ,
@@ -2906,6 +2913,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] sputter
+      ==
+  //
+    , `traewH`
+    , [罩](/entries/zaau#rendering-罩)
+    ,
+      ==
+      - (_noun-like_) covering-trap
       ==
   //
     , `traewk`
@@ -4112,6 +4126,20 @@ window.onload = applyFilter;
       - (_verb-like_) [to] fell away (trees)
       ==
   //
+    , `tsraewX`
+    , [爪](/entries/zaau#rendering-爪)
+    ,
+      ==
+      - (_noun-like_) claw, nail
+      ==
+  //
+    , `tsraewX`
+    , [肘](/entries/zaau#rendering-肘)
+    ,
+      ==
+      - (_noun-like_) elbow
+      ==
+  //
     , `tsreaH`
     , [債](/entries/zaai#rendering-債)
     ,
@@ -4782,6 +4810,13 @@ window.onload = applyFilter;
       ==
       - (_verb-like_) [to] lift (up)
       - (_verb-like_) [to] rescue
+      ==
+  //
+    , `tsyuwX`
+    , [帚](/entries/zaau#rendering-帚)
+    ,
+      ==
+      - (_noun-like_) besom
       ==
   //
     , `tsyuwng`

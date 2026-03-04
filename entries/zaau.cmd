@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaau
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -194,6 +194,13 @@ C
   ==
   - Fan Wan entry: Fixed missing character 帚.
   ==
+L
+  ====
+  * 【帚】 (tsyuwX)
+    ==
+    - (_noun-like_) besom
+    ==
+  ====
 S
   ==
   - ($帚zau2)
@@ -351,6 +358,13 @@ W
     [[Otherwise, an alternative form of 抓. **See $抓zaau2 for the canonical entry.**]]
     --
   ====
+L
+  ====
+  * 【爪】 (tsraewX)
+    ==
+    - (_noun-like_) claw, nail
+    ==
+  ====
 E
   ====
   - 【狗爪邊】 (gau2 zaau2 bin1)
@@ -428,6 +442,13 @@ C
   - Williams' "the wrist": This is a misreading of Kangxi 《徐曰》寸口手腕動脈處也,
     which is a very unilluminating attempt to explain 寸手寸口也 from 《說文》.
   ==
+L
+  ====
+  * 【肘】 (tsraewX)
+    ==
+    - (_noun-like_) elbow
+    ==
+  ====
 S
   ==
   - ($肘zau2)
@@ -609,6 +630,13 @@ C
   - Fan Wan entry: Normalised headword {𦋇=⿱罓卓} to 罩.
   - Williams' 轎罩: Corrected _(5)^ki(u/)_ (giu6-5) to _(2)ki(u/)_ (giu6-2).
   ==
+L
+  ====
+  * 【罩】 (traewH)
+    ==
+    - (_noun-like_) covering-trap
+    ==
+  ====
 $$
 
 ### {𦻐=⿱艹焯}3 | _Ch(a/)u(3)_ [[zaau3]]
@@ -797,7 +825,7 @@ W
   ====
   - [[Page~562 驟(6) _Tsau(6)_ (zau6); here normalised to _Ch(a/)u(6)_ (zaau6)]]
     ==
-    - A ~~fleet~~ ``galloping`` horse [[Kangxi: 馬疾步也]];
+    - A fleet horse [[Kangxi: 馬疾步也]];
     - to run [[Kangxi: 奔也]];
     - quick, fleet;
     - pressing, urgent;
@@ -808,6 +836,13 @@ W
     - _pat(7) (2)ho ~~tsau(6)~~ ``ch(a/)u(6)`` tak(7)_
         [[bat1 ho2 zaau6 dak1 不可驟得]]
         it can not be dune in an instant.
+    ==
+  ====
+L
+  ====
+  * 【驟】 (dzrjuwH)
+    ==
+    - (_adjective-like_) speedy
     ==
   ====
 S
