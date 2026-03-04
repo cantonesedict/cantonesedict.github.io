@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaap
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -322,6 +322,10 @@ W
 C
   ==
   - Fan Wan entry: Corrected headword ⿰米習 to 槢.
+  ==
+P
+  ==
+  1. A connector peg (Kangxi: 械楔).
   ==
 $$
 
