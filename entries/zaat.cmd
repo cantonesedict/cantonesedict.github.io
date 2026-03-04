@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaat
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -130,6 +130,14 @@ W
         a letter.
     ==
   ====
+L
+  ====
+  * 【札】 (tsreat)
+    ==
+    - (_noun-like_) slip
+    - (_noun-like_) pestilence
+    ==
+  ====
 $$
 
 ###+ 紮3 | _Ch(a/)t(8)_ [[zaat3]]
@@ -245,6 +253,13 @@ C
   - Williams' "Creaking": This is a misreading of Kangxi 車載重蹍軋有聲也
     as a definition, when it is actually an example.
   ==
+L
+  ====
+  * 【軋】 ('eat)
+    ==
+    - (_verb-like_) [to] crush
+    ==
+  ====
 $$
 
 

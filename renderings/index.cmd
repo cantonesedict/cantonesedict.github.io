@@ -276,6 +276,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] pull up
       ==
   //
+    , `'eat`
+    , [軋](/entries/zaat#rendering-軋)
+    ,
+      ==
+      - (_verb-like_) [to] crush
+      ==
+  //
     , `'ej`
     , [翳](/entries/ai#rendering-翳)
     ,
@@ -4177,6 +4184,14 @@ window.onload = applyFilter;
       ==
       - (_noun-like_) wine-cup
       - (_noun-like_) slightly-clarified-alcohol
+      ==
+  //
+    , `tsreat`
+    , [札](/entries/zaat#rendering-札)
+    ,
+      ==
+      - (_noun-like_) slip
+      - (_noun-like_) pestilence
       ==
   //
     , `tsrhae`
