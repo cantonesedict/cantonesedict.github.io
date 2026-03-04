@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -500,6 +500,7 @@ E
         ==
      1. A son.
         ==
+        - 生仔 (saang1 zai2): "Have [a] son."
         - 仔女 (zai2 neoi5-2): "Sons [and] daughters."
         - 兩仔乸 (loeng5 zai2 naa2): "[The] two [of them], son [and] mother."
         - 兩仔爺 (loeng5 zai2 je4): "[The] two [of them], son [and] father."
