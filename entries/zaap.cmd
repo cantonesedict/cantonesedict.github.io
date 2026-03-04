@@ -324,9 +324,9 @@ C
   - Fan Wan entry: Corrected headword ⿰米習 to 槢.
   ==
 P
-  ==
-  1. A connector peg (Kangxi: 械楔).
-  ==
+  ++
+  1. A connector-peg (Kangxi: 械楔).
+  ++
 $$
 
 ### 習6 | _Ts(a/)p(9)_ [[zaap6]]
