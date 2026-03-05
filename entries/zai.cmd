@@ -352,8 +352,6 @@ C
   - Williams does not provide separate entries for $躋1 and 隮.
     Kangxi only has them interchangeable for the "ascend" sense.
     I have split things up accordingly, with duplication where appropriate.
-  - Kangxi has the "fall" sense (supplemented below)
-    under the departing tone only.
   ==
 P
   ++
@@ -361,9 +359,9 @@ P
   ++
 L
   ====
-  * 【隮】 (tsej, tsejH)
+  * 【隮-ascend】 (tsej, tsejH)
     ==
-    - (_verb-like_) [to] ascend, (_met._) [to] fall
+    - (_verb-like_) [to] ascend
     - (_noun-like_) rainbow
     ==
   ====
@@ -710,6 +708,15 @@ W
     [[Otherwise, an alternative form of 製. **See $製zai3 for the canonical entry.**]]
     --
   ====
+L
+  ====
+  * 【制】 (tsyejH)
+    ==
+    - (_verb-like_) [to] cut out, (_met._) [to] form
+    - (_noun-like_) institution, system
+    - (_verb-like_) [to] control, [to] regulate
+    ==
+  ====
 E
   ====
   - 【制】 (zai3)
@@ -730,6 +737,10 @@ R
   ⼿ + 8
 U
   U+63A3
+V
+  ==
+  - cai3 (per 《廣韻》尺制切)
+  ==
 F
   ==
   - (F1.32 掣) 掣肘滯隔不進也
@@ -766,6 +777,13 @@ P
   ++
   1. To hinder by pulling or tugging back (Kangxi: 甹夆掣曳也).
   ++
+L
+  ====
+  * 【掣】 (tsyhejH)
+    ==
+    - (_verb-like_) [to] tug, [to] drag
+    ==
+  ====
 E
   ====
   - 【掣】 (zai3)
@@ -820,6 +838,13 @@ C
     The alternative reading (又音若) does not make sense;
     possibly 折 _ch(i/)t(8)_ (zit3) was intended.
   ==
+L
+  ====
+  * 【晢-departing】 (tsyejH)
+    ==
+    - (_adjective-like_) bright
+    ==
+  ====
 S
   ==
   - $晢zit3
@@ -902,6 +927,15 @@ W
     [[Otherwise, an alternative form of 霽. **See $霽zai3 for the canonical entry.**]]
     --
   ====
+L
+  ====
+  * 【濟-departing】 (tsejH)
+    ==
+    - (_verb-like_) [to] cross
+    - (_verb-like_) [to] rescue, [to] relieve
+    - (_verb-like_) [to] aid, [to] benefit
+    ==
+  ====
 S
   ==
   - $濟zai2
@@ -947,6 +981,13 @@ W
         to appease ghosts by oblations.
     ==
   ====
+L
+  ====
+  * 【祭】 (tsjejH)
+    ==
+    - (_noun-like_) sacrifice
+    ==
+  ====
 $$
 
 ### 穄3 | _Tsai(3)_ [[zai3]]
@@ -966,6 +1007,13 @@ W
     ==
     - A sort of panicled millet which is not glutinous, and resembles wheat [[Kangxi: {𪎭=⿸麻黍}也, 穄似麥而不黏]];
       it grows in Shens(i/) [[陝西]].
+    ==
+  ====
+L
+  ====
+  * 【穄】 (tsjejH)
+    ==
+    - (_noun-like_) panicled-millet
     ==
   ====
 $$
@@ -1031,6 +1079,13 @@ C
   ==
   - Williams' 製造: Now more "create" than "invent".
   ==
+L
+  ====
+  * 【製】 (tsyejH)
+    ==
+    - (_verb-like_) [to] cut out, [to] make
+    ==
+  ====
 $$
 
 ### 際3 | _Tsai(3)_ [[zai3]]
@@ -1070,6 +1125,13 @@ W
         _met._ to receive a favor.
     ==
   ====
+L
+  ====
+  * 【際】 (tsjejH)
+    ==
+    - (_noun-like_) juncture, connection, (_met._) time
+    ==
+  ====
 $$
 
 ###+ 隮3 | _Tsai(3)_ [[zai3]]
@@ -1088,6 +1150,13 @@ P
   1. To fall (Kangxi: 隮墜).
   1. Reading variation. **See $隮zai1 for the canonical entry.**
   ++
+L
+  ====
+  * 【隮-fall】 (tsejH)
+    ==
+    - (_verb-like_) [to] fall
+    ==
+  ====
 S
   ==
   - $隮zai1
@@ -1133,6 +1202,13 @@ P
   ++
   1. To cease, to stop (Kangxi: 霽止也).
   ++
+L
+  ====
+  * 【霽】 (tsejH)
+    ==
+    - (_verb-like_) [to] cease (raining)
+    ==
+  ====
 $$
 
 
@@ -1193,6 +1269,13 @@ C
   - Williams' 淡得嚌: Corrected _t(a/)m(6)_ (daam6 去聲^) to _(5)t(')(a/)m_ (taam5 上聲^).
   - Williams' 係得嚌: Dated.
   ==
+L
+  ====
+  * 【嚌】 (dzejH)
+    ==
+    - (_verb-like_) [to] taste
+    ==
+  ====
 E
   ====
   - 【得嚌】 (dak1 zai6)
@@ -1277,6 +1360,19 @@ W
         a stoppage of secretions.
     ==
   ====
+P
+  ++
+  1. Left-behind (Kangxi: 漏也).
+  ++
+L
+  ====
+  * 【滯】 (drjejH)
+    ==
+    - (_verb-like_) [to] congeal
+    - (_verb-like_) [to] stagnate
+    - (_adjective-like_) stagnant, (_met._) left-behind
+    ==
+  ====
 E
   ====
   - 【滯】 (zai6)
@@ -1321,6 +1417,13 @@ C
   - Williams' "as it is cut": It is unclear whether 撮也 "pinch" applies
     to the grain (after harvesting) or to the crop (during harvest).
   ==
+L
+  ====
+  * 【穧】 (dzejH, tsejH, tsjejH)
+    ==
+    - (_verb-like_) [to] reap
+    ==
+  ====
 S
   ==
   - ($穧zai1)

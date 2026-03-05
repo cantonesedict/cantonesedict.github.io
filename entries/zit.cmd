@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zit
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -379,6 +379,13 @@ P
   ++
   1. Bright (Kangxi: 昭晢明也).
   ++
+L
+  ====
+  * 【晢-entering】 (tsyet)
+    ==
+    - (_adjective-like_) bright
+    ==
+  ====
 S
   ==
   - $晢zai3

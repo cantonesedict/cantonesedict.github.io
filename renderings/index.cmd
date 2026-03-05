@@ -1008,6 +1008,15 @@ window.onload = applyFilter;
       - (_verb-like_) [to] strip
       ==
   //
+    , `drjejH`
+    , [滯](/entries/zai#rendering-滯)
+    ,
+      ==
+      - (_verb-like_) [to] congeal
+      - (_verb-like_) [to] stagnate
+      - (_adjective-like_) stagnant, (_met._) left-behind
+      ==
+  //
     , `drjen`
     , [廛](/entries/cin#rendering-廛)
     ,
@@ -1408,10 +1417,24 @@ window.onload = applyFilter;
       ==
   //
     , `dzejH`
+    , [嚌](/entries/zai#rendering-嚌)
+    ,
+      ==
+      - (_verb-like_) [to] taste
+      ==
+  //
+    , `dzejH`
     , [懠](/entries/cai#rendering-懠)
     ,
       ==
       - (_adjective-like_) wroth
+      ==
+  //
+    , `dzejH`
+    , [穧](/entries/zai#rendering-穧)
+    ,
+      ==
+      - (_verb-like_) [to] reap
       ==
   //
     , `dzen`
@@ -3252,10 +3275,10 @@ window.onload = applyFilter;
       ==
   //
     , `tsej`
-    , [隮](/entries/zai#rendering-隮)
+    , [隮~(ascend)](/entries/zai#rendering-隮-ascend)
     ,
       ==
-      - (_verb-like_) [to] ascend, (_met._) [to] fall
+      - (_verb-like_) [to] ascend
       - (_noun-like_) rainbow
       ==
   //
@@ -3283,6 +3306,22 @@ window.onload = applyFilter;
       ==
   //
     , `tsejH`
+    , [濟~(departing)](/entries/zai#rendering-濟-departing)
+    ,
+      ==
+      - (_verb-like_) [to] cross
+      - (_verb-like_) [to] rescue, [to] relieve
+      - (_verb-like_) [to] aid, [to] benefit
+      ==
+  //
+    , `tsejH`
+    , [穧](/entries/zai#rendering-穧)
+    ,
+      ==
+      - (_verb-like_) [to] reap
+      ==
+  //
+    , `tsejH`
     , [躋](/entries/zai#rendering-躋)
     ,
       ==
@@ -3290,11 +3329,25 @@ window.onload = applyFilter;
       ==
   //
     , `tsejH`
-    , [隮](/entries/zai#rendering-隮)
+    , [隮~(ascend)](/entries/zai#rendering-隮-ascend)
     ,
       ==
-      - (_verb-like_) [to] ascend, (_met._) [to] fall
+      - (_verb-like_) [to] ascend
       - (_noun-like_) rainbow
+      ==
+  //
+    , `tsejH`
+    , [隮~(fall)](/entries/zai#rendering-隮-fall)
+    ,
+      ==
+      - (_verb-like_) [to] fall
+      ==
+  //
+    , `tsejH`
+    , [霽](/entries/zai#rendering-霽)
+    ,
+      ==
+      - (_verb-like_) [to] cease (raining)
       ==
   //
     , `tsemH`
@@ -4112,6 +4165,34 @@ window.onload = applyFilter;
       - (_noun-like_) ailment, (_met._) plague
       ==
   //
+    , `tsjejH`
+    , [祭](/entries/zai#rendering-祭)
+    ,
+      ==
+      - (_noun-like_) sacrifice
+      ==
+  //
+    , `tsjejH`
+    , [穄](/entries/zai#rendering-穄)
+    ,
+      ==
+      - (_noun-like_) panicled-millet
+      ==
+  //
+    , `tsjejH`
+    , [穧](/entries/zai#rendering-穧)
+    ,
+      ==
+      - (_verb-like_) [to] reap
+      ==
+  //
+    , `tsjejH`
+    , [際](/entries/zai#rendering-際)
+    ,
+      ==
+      - (_noun-like_) juncture, connection, (_met._) time
+      ==
+  //
     , `tsjem`
     , [殲](/entries/cim#rendering-殲)
     ,
@@ -4531,6 +4612,36 @@ window.onload = applyFilter;
       - (_adjective-like_) manifest, (_met._) bright
       ==
   //
+    , `tsyejH`
+    , [制](/entries/zai#rendering-制)
+    ,
+      ==
+      - (_verb-like_) [to] cut out, (_met._) [to] form
+      - (_noun-like_) institution, system
+      - (_verb-like_) [to] control, [to] regulate
+      ==
+  //
+    , `tsyejH`
+    , [晢~(departing)](/entries/zai#rendering-晢-departing)
+    ,
+      ==
+      - (_adjective-like_) bright
+      ==
+  //
+    , `tsyejH`
+    , [製](/entries/zai#rendering-製)
+    ,
+      ==
+      - (_verb-like_) [to] cut out, [to] make
+      ==
+  //
+    , `tsyet`
+    , [晢~(entering)](/entries/zit#rendering-晢-entering)
+    ,
+      ==
+      - (_adjective-like_) bright
+      ==
+  //
     , `tsyew`
     , [昭](/entries/ciu#rendering-昭)
     ,
@@ -4587,6 +4698,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) open-mouthed
+      ==
+  //
+    , `tsyhejH`
+    , [掣](/entries/zai#rendering-掣)
+    ,
+      ==
+      - (_verb-like_) [to] tug, [to] drag
       ==
   //
     , `tsyhek`
