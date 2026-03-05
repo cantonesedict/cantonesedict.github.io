@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2026-03-04
+* %date-modified --> 2026-03-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -308,6 +308,13 @@ C
     Kangxi only has them interchangeable for the "ascend" sense.
     I have split things up accordingly, with duplication where appropriate.
   ==
+L
+  ====
+  * 【躋】 (tsej, tsejH)
+    ==
+    - (_verb-like_) [to] ascend
+    ==
+  ====
 $$
 
 ### 隮1 | _(1)Tsai_ [[zai1]]
@@ -345,7 +352,21 @@ C
   - Williams does not provide separate entries for $躋1 and 隮.
     Kangxi only has them interchangeable for the "ascend" sense.
     I have split things up accordingly, with duplication where appropriate.
+  - Kangxi has the "fall" sense (supplemented below)
+    under the departing tone only.
   ==
+P
+  ++
+  1. To fall (Kangxi: 隮墜).
+  ++
+L
+  ====
+  * 【隮】 (tsej, tsejH)
+    ==
+    - (_verb-like_) [to] ascend, (_met._) [to] fall
+    - (_noun-like_) rainbow
+    ==
+  ====
 S
   ==
   - $隮zai3
@@ -413,6 +434,14 @@ C
   ==
   - Williams' "leave": This is a misreading of Kangxi 遺也.
   ==
+L
+  ====
+  * 【齎】 (tsej, tsij)
+    ==
+    - (_verb-like_) [to] gift
+    - (_interjection_) sigh
+    ==
+  ====
 $$
 
 ### 齏1 | _(1)Tsai_ [[zai1]]
@@ -571,6 +600,18 @@ W
     - _~~tsai(3) tsai(3)~~ ``(2)tsai (2)tsai``_
         [[zai2 zai2 濟濟]]
         abundant; a concourse [[Kangxi: 濟濟衆盛之貌]].
+    ==
+  ====
+P
+  ++
+  1. Stately (Kangxi: 一曰多威儀也).
+  ++
+L
+  ====
+  * 【濟-rising】 (tsejX)
+    ==
+    - (_adjective-like_) abundant
+    - (_adjective-like_) stately
     ==
   ====
 S

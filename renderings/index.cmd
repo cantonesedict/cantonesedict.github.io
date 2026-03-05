@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-03-04
+* %date-modified --> 2026-03-05
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -3244,11 +3244,57 @@ window.onload = applyFilter;
       - (_verb-like_) [to] push
       ==
   //
+    , `tsej`
+    , [躋](/entries/zai#rendering-躋)
+    ,
+      ==
+      - (_verb-like_) [to] ascend
+      ==
+  //
+    , `tsej`
+    , [隮](/entries/zai#rendering-隮)
+    ,
+      ==
+      - (_verb-like_) [to] ascend, (_met._) [to] fall
+      - (_noun-like_) rainbow
+      ==
+  //
+    , `tsej`
+    , [齎](/entries/zai#rendering-齎)
+    ,
+      ==
+      - (_verb-like_) [to] gift
+      - (_interjection_) sigh
+      ==
+  //
+    , `tsejX`
+    , [濟~(rising)](/entries/zai#rendering-濟-rising)
+    ,
+      ==
+      - (_adjective-like_) abundant
+      - (_adjective-like_) stately
+      ==
+  //
     , `tsejH`
     , [擠](/entries/zai#rendering-擠)
     ,
       ==
       - (_verb-like_) [to] push
+      ==
+  //
+    , `tsejH`
+    , [躋](/entries/zai#rendering-躋)
+    ,
+      ==
+      - (_verb-like_) [to] ascend
+      ==
+  //
+    , `tsejH`
+    , [隮](/entries/zai#rendering-隮)
+    ,
+      ==
+      - (_verb-like_) [to] ascend, (_met._) [to] fall
+      - (_noun-like_) rainbow
       ==
   //
     , `tsemH`
@@ -4042,6 +4088,14 @@ window.onload = applyFilter;
       - (_noun-like_) numerator
       - (_noun-like_) rat-branch
       - Used in [赤子](/entries/cik#rendering-赤子).
+      ==
+  //
+    , `tsij`
+    , [齎](/entries/zai#rendering-齎)
+    ,
+      ==
+      - (_verb-like_) [to] gift
+      - (_interjection_) sigh
       ==
   //
     , `tsip`
