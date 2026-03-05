@@ -442,6 +442,10 @@ L
     - (_interjection_) sigh
     ==
   ====
+S
+  ==
+  - ($齎zi1)
+  ==
 $$
 
 ### 齏1 | _(1)Tsai_ [[zai1]]

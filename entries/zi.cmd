@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2026-03-01
+* %date-modified --> 2026-03-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -88,6 +88,7 @@ $$
 - $鎡1
 - $髭1
 - $鼒1
+- ($齎1)
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -1407,6 +1408,7 @@ U
 A
   ==
   - $貲1
+  - $齎1
   ==
 F
   ==
@@ -1672,6 +1674,28 @@ W
 C
   ==
   - Fan Wan entry: Corrected headword {𪔇=⿱木鼎} to 鼒.
+  ==
+$$
+
+###+ 齎1 | _(1)Tsz'_ [[zi1]]
+
+$$.
+R
+  ⿑ + 7
+U
+  U+9F4E
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $齎zai1 for the canonical entry.**
+  1. Alternative form of 資. **See $資zi1 for the canonical entry.**
+  ++
+S
+  ==
+  - $齎zai1
   ==
 $$
 
