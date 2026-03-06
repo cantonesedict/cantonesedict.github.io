@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -49,6 +49,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $則1
 - $勣1
 - $即1
 - ($卽1)
@@ -74,6 +75,37 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+###+ 則1 | _Tsik(7)_ [[zik1]]
+
+$$
+R
+  ⼑ + 7
+U
+  U+5247
+F
+  [[Not present]]
+W
+  [[Not present]]
+E
+  --
+  This usage appears to be local to Hong Kong.
+  --
+  ====
+  - 【則】 (zik1)
+    ++
+    1. An architectural drawing.
+       ==
+       - 則師 (zik1 si1): "Architect."
+       - 入則 (jap6 zik1): "Submit [the] drawings [for approval]."
+       ==
+    ++
+  ====
+S
+  ==
+  - $則zak1
+  ==
+$$
 
 ### 勣1 | _Tsik(7)_ [[zik1]]
 
