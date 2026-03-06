@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zak
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -89,6 +89,13 @@ C
   ==
   - Williams' 仄聲: Corrected _(1)sheng_ (seng1) to _(1)shing_ (sing1).
   ==
+L
+  ====
+  * 【仄】 (tsrik)
+    ==
+    - (_adjective-like_) oblique, slanting
+    ==
+  ====
 $$
 
 ### 側1 | _Chak(7)_ [[zak1]]
@@ -142,6 +149,15 @@ W
     - _sh(i/)(6) (5)ngo chak(7)_
         [[si6 ngo5 zak1 侍我側]]
         stand at my side.
+    ==
+  ====
+L
+  ====
+  * 【側】 (tsrik)
+    ==
+    - (_noun-like_) side
+    - (_adjective-like_) oblique, slanting, (_met._) [one]-sided
+    - (_adjective-like_) lowly
     ==
   ====
 $$
@@ -207,6 +223,17 @@ C
   ==
   - Williams' 恕罪則個: Corrected _tsui(6)_ to _ts(u/)i(6)_.
   ==
+L
+  ====
+  * 【則】 (tsok)
+    ==
+    - (_noun-like_) statute
+    - (_noun-like_) exemplar
+    - (_verb-like_) [to] emulate
+    - (_conjunction-like_) then, thus
+    - (_speech-assist_)
+    ==
+  ====
 $$
 
 ### 昃1 | _Chak(7)_ [[zak1]]
@@ -230,6 +257,13 @@ W
     - _yat(9) chak(7)_
         [[jat6 zak1 日昃]]
         day is declining.
+    ==
+  ====
+L
+  ====
+  * 【昃】 (tsrik)
+    ==
+    - (_adjective-like_) slanting [west]
     ==
   ====
 $$

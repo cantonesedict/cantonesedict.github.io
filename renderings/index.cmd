@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-03-05
+* %date-modified --> 2026-03-06
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -4253,6 +4253,17 @@ window.onload = applyFilter;
       - (_noun-like_) bisected-contract
       ==
   //
+    , `tsok`
+    , [則](/entries/zak#rendering-則)
+    ,
+      ==
+      - (_noun-like_) statute
+      - (_noun-like_) exemplar
+      - (_verb-like_) [to] emulate
+      - (_conjunction-like_) then, thus
+      - (_speech-assist_)
+      ==
+  //
     , `tsom`
     , [簪](/entries/zaam#rendering-簪)
     ,
@@ -4572,6 +4583,29 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] gnaw
+      ==
+  //
+    , `tsrik`
+    , [仄](/entries/zak#rendering-仄)
+    ,
+      ==
+      - (_adjective-like_) oblique, slanting
+      ==
+  //
+    , `tsrik`
+    , [側](/entries/zak#rendering-側)
+    ,
+      ==
+      - (_noun-like_) side
+      - (_adjective-like_) oblique, slanting, (_met._) [one]-sided
+      - (_adjective-like_) lowly
+      ==
+  //
+    , `tsrik`
+    , [昃](/entries/zak#rendering-昃)
+    ,
+      ==
+      - (_adjective-like_) slanting [west]
       ==
   //
     , `tsrim`
