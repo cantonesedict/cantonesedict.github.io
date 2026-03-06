@@ -872,6 +872,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] sink
       ==
   //
+    , `drimX`
+    , [朕](/entries/zam#rendering-朕)
+    ,
+      ==
+      - (_noun-like_) I
+      ==
+  //
     , `drin`
     , [塵](/entries/can#rendering-塵)
     ,
@@ -4151,6 +4158,14 @@ window.onload = applyFilter;
       - (_interjection_) sigh
       ==
   //
+    , `tsimH`
+    , [浸](/entries/zam#rendering-浸)
+    ,
+      ==
+      - (_verb-like_) [to] soak, [to] immerse, (_met._) ^lake
+      - (_adverb-like_) gradually
+      ==
+  //
     , `tsip`
     , [咠](/entries/cap#rendering-咠)
     ,
@@ -4616,6 +4631,13 @@ window.onload = applyFilter;
       - (_adjective-like_) swift
       ==
   //
+    , `tsrimH`
+    , [譖](/entries/zam#rendering-譖)
+    ,
+      ==
+      - (_verb-like_) [to] slander
+      ==
+  //
     , `tsrip`
     , [戢](/entries/cap#rendering-戢)
     ,
@@ -4985,6 +5007,34 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] go out
+      ==
+  //
+    , `tsyim`
+    , [斟](/entries/zam#rendering-斟)
+    ,
+      ==
+      - (_verb-like_) [to] pour, [to] deliberate
+      ==
+  //
+    , `tsyim`
+    , [箴](/entries/zam#rendering-箴)
+    ,
+      ==
+      - (_noun-like_) needle, (_met._) admonition
+      ==
+  //
+    , `tsyimX`
+    , [枕~(rising)](/entries/zam#rendering-枕-rising)
+    ,
+      ==
+      - (_noun-like_) pillow
+      ==
+  //
+    , `tsyimH`
+    , [枕~(departing)](/entries/zam#rendering-枕-departing)
+    ,
+      ==
+      - (_verb-like_) [to] pillow upon
       ==
   //
     , `tsyin`

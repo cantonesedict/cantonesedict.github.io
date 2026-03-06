@@ -99,6 +99,13 @@ C
   - Williams' 斟妥咯: Corrected _lok(9)_ (lok6) to _lok(8)_ (lok3).
   - Williams' 細斟: Corrected _sai(6)_ (sai6) to _sai(3)_ (sai3).
   ==
+L
+  ====
+  * 【斟】 (tsyim)
+    ==
+    - (_verb-like_) [to] pour, [to] deliberate
+    ==
+  ====
 E
   ====
   - 【斟茶遞水】 (zam1 caa4 dai6 seoi2)
@@ -297,6 +304,13 @@ C
   ==
   - Williams' 箴銘: Changed _(4)ming_ (ming4) to common reading _(5)ming_ (ming5).
   ==
+L
+  ====
+  * 【箴】 (tsyim)
+    ==
+    - (_noun-like_) needle, (_met._) admonition
+    ==
+  ====
 $$
 
 ### 針1 | _(1)Cham_ [[zam1]]
@@ -502,6 +516,13 @@ P
   ++
   1. A certain bone within the head of a fish (Kangxi: 魚腦中骨曰枕 etc.).
   ++
+L
+  ====
+  * 【枕-rising】 (tsyimX)
+    ==
+    - (_noun-like_) pillow
+    ==
+  ====
 E
   ====
   - 【後尾枕】 (hau6 mei5 zam2)
@@ -598,6 +619,13 @@ C
   ==
   - Williams' 曲肱而枕: Changed _huk(7)_ (huk1) to common reading _k(')uk(7)_ (kuk1).
   ==
+L
+  ====
+  * 【枕-departing】 (tsyimH)
+    ==
+    - (_verb-like_) [to] pillow upon
+    ==
+  ====
 S
   ==
   - $枕zam2
@@ -728,6 +756,14 @@ C
   - Williams' 汗浸紅顏: Although 紅顏 does not preclude men,
     it is generally used to describe a lady's face.
   ====
+L
+  ====
+  * 【浸】 (tsimH)
+    ==
+    - (_verb-like_) [to] soak, [to] immerse, (_met._) ^lake
+    - (_adverb-like_) gradually
+    ==
+  ====
 E
   ====
   - 【浸】 (zam3)
@@ -806,6 +842,13 @@ C
   ==
   - Fan Wan entry: Corrected 殷 to 毀.
   ==
+L
+  ====
+  * 【譖】 (tsrimH)
+    ==
+    - (_verb-like_) [to] slander
+    ==
+  ====
 S
   ==
   - ($譖cam3)
@@ -899,6 +942,13 @@ P
   ++
   1. An omen.
   ++
+L
+  ====
+  * 【朕】 (drimX)
+    ==
+    - (_noun-like_) I
+    ==
+  ====
 $$
 
 ###+ 浸6 | _Cham(6)_ [[zam6]]
