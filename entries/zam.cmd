@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2026-03-02
+* %date-modified --> 2026-03-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -73,7 +73,7 @@ W
   ====
   - [[Page~14|n57 (1)斟]]
     ==
-    - To pour from or into [[斟益也, 言斟酌而益之]];
+    - To pour from or into [[Kangxi: 斟益也, 言斟酌而益之]];
     - to lade out, to lighten;
     - to deliberate, to adjust [[Kangxi: 斟取也, 計也]];
     - a ladle, a spoon [[Kangxi: 勺也]];
