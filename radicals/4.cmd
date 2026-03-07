@@ -424,7 +424,7 @@ For all radicals, see [Index of characters by radical](./).
       - {$挨aai1, $挨ngaai4}
       - $挿caap3
       - $挫co3
-      - {$振zan1, $振zan3}
+      - {$振zan1, $振zan2, $振zan3}
       - $捉zuk1
       ==
       </nav>

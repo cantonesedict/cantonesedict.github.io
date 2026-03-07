@@ -3341,7 +3341,7 @@ class Linter:
                     raise LintException(
                         f'missing reading variation redirect to `{universal_link}` under `{other_character_entry}` '
                         f'(suppress with caret after reading variation `{other_jyutping}` under `{character_entry}` '
-                        f'if reading variation is historically specific)'
+                        f'if reading variation is historically specific etc.)'
                     )
 
     @staticmethod

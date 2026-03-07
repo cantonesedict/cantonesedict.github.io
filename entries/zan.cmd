@@ -79,6 +79,7 @@ L
   ====
 S
   ==
+  - ($振zan2)
   - $振zan3
   ==
 $$
@@ -280,11 +281,34 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- ($振2)
 - ($袗2)
 - $賑2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+###+ 振2 | _(2)Chan_ [[zan2]]
+
+$$.
+R
+  ⼿ + 7
+U
+  U+632F
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 袗, and reading variation. **See $袗can2 for the canonical entry.**
+  ++
+S
+  ==
+  - $振zan1
+  - $振zan3
+  ==
+$$
 
 ###+ 袗2 | _(2)Chan_ [[zan2]]
 
@@ -474,7 +498,7 @@ U
   U+632F
 V
   ==
-  - zan3-2 (rising second in vernacular 振振地)
+  - zan3-2^ (rising second in vernacular 振振地)
   ==
 F
   ==
@@ -536,6 +560,7 @@ L
 S
   ==
   - $振zan1
+  - ($振zan2)
   ==
 $$
 
