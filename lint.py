@@ -2824,6 +2824,8 @@ class LiteraryRendering:
         if len(baxter_set) < len(baxter_list):
             raise LintException(f'duplicate Baxter transcriptions in `{baxter_content}` for literary term `{term}`')
 
+        LiteraryRendering.lint_disambiguation_suffix_consistency(term, disambiguation_suffix, baxter_list)
+
         self.term = term
         self.disambiguation_suffix = disambiguation_suffix
         self.baxter_list = baxter_list
@@ -2864,6 +2866,62 @@ class LiteraryRendering:
                               self.character, self.page_heading_jyutping)
             for split_baxter in self.baxter_list
         ]
+
+    @staticmethod
+    def lint_disambiguation_suffix_consistency(term: str, disambiguation_suffix: str, baxter_list: list[str]):
+        if disambiguation_suffix == '-level':
+            for baxter in baxter_list:
+                if baxter[-1] in 'XHptk':
+                    raise LintException(
+                        f'Baxter transcription `{baxter}` is not level '
+                        f'for literary term `{term}{disambiguation_suffix}`'
+                    )
+            return
+
+        if disambiguation_suffix == '-rising':
+            for baxter in baxter_list:
+                if baxter[-1] != 'X':
+                    raise LintException(
+                        f'Baxter transcription `{baxter}` is not rising '
+                        f'for literary term `{term}{disambiguation_suffix}`'
+                    )
+            return
+
+        if disambiguation_suffix == '-departing':
+            for baxter in baxter_list:
+                if baxter[-1] != 'H':
+                    raise LintException(
+                        f'Baxter transcription `{baxter}` is not departing '
+                        f'for literary term `{term}{disambiguation_suffix}`'
+                    )
+            return
+
+        if disambiguation_suffix == '-entering':
+            for baxter in baxter_list:
+                if baxter[-1] not in 'ptk':
+                    raise LintException(
+                        f'Baxter transcription `{baxter}` is not entering '
+                        f'for literary term `{term}{disambiguation_suffix}`'
+                    )
+            return
+
+        if disambiguation_suffix == '-unvoiced':
+            for baxter in baxter_list:
+                if baxter[0] not in "ptk'sx":
+                    raise LintException(
+                        f'Baxter transcription `{baxter}` is not contrastively unvoiced '
+                        f'for literary term `{term}{disambiguation_suffix}`'
+                    )
+            return
+
+        if disambiguation_suffix == '-voiced':
+            for baxter in baxter_list:
+                if baxter[0] not in 'bdgzh':
+                    raise LintException(
+                        f'Baxter transcription `{baxter}` is not contrastively voiced '
+                        f'for literary term `{term}{disambiguation_suffix}`'
+                    )
+            return
 
 
 class CantoneseEntry:
