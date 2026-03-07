@@ -293,6 +293,13 @@ P
   ++
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【曾-unvoiced】 (tsong)
+    ==
+    - (_adjective-like_) great-
+    ==
+  ====
 S
   ==
   - $曾cang4
@@ -421,6 +428,13 @@ C
   - Williams' 爭奪: Corrected _t(u:)t(8)_ (dyut3) to _t(u:)t(9)_ (dyut6).
   - Williams' 爭得多: Corrected _(1)t(o\)_ (dou1) to _(1)to_ (do1).
   ==
+L
+  ====
+  * 【爭】 (tsreang)
+    ==
+    - (_verb-like_) [to] strive, [to] dispute
+    ==
+  ====
 E
   ====
   - 【爭】 (zaang1)
@@ -585,6 +599,13 @@ C
     and a strange character (like 曾, but with 丅 conjoined to the middle component between 八 above and 曰 below)
     explained 同上, here normalised to 罾.
   ==
+L
+  ====
+  * 【繒】 (dzing)
+    ==
+    - (_noun-like_) silk
+    ==
+  ====
 $$
 
 ### 罾1 | _(1)Tsang_ [[zang1]]
@@ -760,6 +781,13 @@ W
         put it in the still and steam it.
     ==
   ====
+L
+  ====
+  * 【甑】 (tsingH)
+    ==
+    - (_noun-like_) boiler
+    ==
+  ====
 S
   ==
   - ($甑zang6)
@@ -908,6 +936,13 @@ W
     - _toi(6) tsang(6)_
         [[doi6 zang6 待贈]]
         waiting for promotion, as expectant graduates do, at sixty.
+    ==
+  ====
+L
+  ====
+  * 【贈】 (dzongH)
+    ==
+    - (_verb-like_) [to] gift
     ==
   ====
 $$

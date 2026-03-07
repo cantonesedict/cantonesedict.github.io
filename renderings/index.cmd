@@ -1489,6 +1489,13 @@ window.onload = applyFilter;
       - (_noun-like_) small-cicada
       ==
   //
+    , `dzing`
+    , [繒](/entries/zang#rendering-繒)
+    ,
+      ==
+      - (_noun-like_) silk
+      ==
+  //
     , `dzip`
     , [輯](/entries/cap#rendering-輯)
     ,
@@ -1738,11 +1745,18 @@ window.onload = applyFilter;
       ==
   //
     , `dzong`
-    , [曾](/entries/cang#rendering-曾)
+    , [曾~(voiced)](/entries/cang#rendering-曾-voiced)
     ,
       ==
       - (_adverb-like_) once, ever
       - (_adverb-like_) astonishingly, (_met._) [and] yet, dare
+      ==
+  //
+    , `dzongH`
+    , [贈](/entries/zang#rendering-贈)
+    ,
+      ==
+      - (_verb-like_) [to] gift
       ==
   //
     , `dzop`
@@ -4188,6 +4202,13 @@ window.onload = applyFilter;
       - (_adverb-like_) gradually
       ==
   //
+    , `tsingH`
+    , [甑](/entries/zang#rendering-甑)
+    ,
+      ==
+      - (_noun-like_) boiler
+      ==
+  //
     , `tsip`
     , [咠](/entries/cap#rendering-咠)
     ,
@@ -4331,6 +4352,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] hate
       ==
   //
+    , `tsong`
+    , [曾~(unvoiced)](/entries/zang#rendering-曾-unvoiced)
+    ,
+      ==
+      - (_adjective-like_) great-
+      ==
+  //
     , `tsraeH`
     , [詐](/entries/zaa#rendering-詐)
     ,
@@ -4438,6 +4466,13 @@ window.onload = applyFilter;
       ==
       - (_noun-like_) wine-cup
       - (_noun-like_) slightly-clarified-alcohol
+      ==
+  //
+    , `tsreang`
+    , [爭](/entries/zang#rendering-爭)
+    ,
+      ==
+      - (_verb-like_) [to] strive, [to] dispute
       ==
   //
     , `tsreat`

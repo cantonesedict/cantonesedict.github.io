@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cang
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -161,7 +161,7 @@ P
   ++
 L
   ====
-  * 【曾】 (dzong)
+  * 【曾-voiced】 (dzong)
     ==
     - (_adverb-like_) once, ever
     - (_adverb-like_) astonishingly, (_met._) [and] yet, dare
