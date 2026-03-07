@@ -280,10 +280,32 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- ($袗2)
 - $賑2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+###+ 袗2 | _(2)Chan_ [[zan2]]
+
+$$.
+R
+  ⾐ + 5
+U
+  U+8897
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $袗can2 for the canonical entry.**
+  ++
+S
+  ==
+  - $袗can2
+  ==
+$$
 
 ### 賑2 | _(2)Chan_ [[zan2]]
 

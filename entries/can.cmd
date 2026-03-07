@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> can
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -621,6 +621,10 @@ L
     - (_noun-like_) unlined-garment
     ==
   ====
+S
+  ==
+  - ($袗zan2)
+  ==
 $$
 
 ### 診2 | _(2)Ch(')an_ [[can2]]
