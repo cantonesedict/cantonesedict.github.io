@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zap
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -134,6 +134,15 @@ P
   1. To manage, to judge (Kangxi: 處也).
   1. To carry out, to execute.
   ++
+L
+  ====
+  * 【執】 (tsyip)
+    ==
+    - (_verb-like_) [to] take hold, [to] hold, (_met._) [to] carry out
+    - (_verb-like_) [to] seize
+    - (_noun-like_) [close]-held [friend]
+    ==
+  ====
 E
   ====
   - 【執】 (zap1)
@@ -222,7 +231,7 @@ W
     - thickened liquor;
     - slosh;
     - the juices or essence of a thing got by expressing;
-    - sleety rain, wet snow;
+    - sleety rain, wet snow [[Kangxi: 雨雪雜下曰汁]];
     - _(1)pan (4)long chap(7)_
         [[ban1 long4 zap1 檳榔汁]]
         betel juice;
@@ -242,6 +251,13 @@ C
   - Williams' "thickened liquor": From Kangxi's example 汁獻涗於醆酒,
     with commentary noting that 汁獻 is also spelt 汁莎.
   ==
+L
+  ====
+  * 【汁】 (tsyip)
+    ==
+    - (_noun-like_) juice, (_met._) sleet
+    ==
+  ====
 S
   ==
   - $汁hip3 (TODO)
@@ -264,8 +280,8 @@ W
   ====
   - [[Page~22|n65 縶(7)]]
     ==
-    - To fetter a horse [[Kangxi: 縶絆也]] or cow;
-    - fetters, shackles;
+    - To fetter a horse [[Kangxi: 縶絆也]] or cow ``with rope``;
+    - ~~fetters, shackles;~~
     - to bind, to secure [[Kangxi: 相縶也連也]];
     - a cord [[Kangxi: 縷也]].
     ==
@@ -275,6 +291,13 @@ C
   - Fan Wan entry: Corrected 紏 to 絆.
     The variant entry is 馬 with 山 replacing 灬.
   ==
+L
+  ====
+  * 【縶】 (trip)
+    ==
+    - (_verb-like_) [to] tether
+    ==
+  ====
 $$
 
 ###+ 蓻1 | _Tsap(7)_ [[zap1]]

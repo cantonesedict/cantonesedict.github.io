@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-03-07
+* %date-modified --> 2026-03-08
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -3233,6 +3233,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] suppress, [to] subdue
       ==
   //
+    , `trip`
+    , [縶](/entries/zap#rendering-縶)
+    ,
+      ==
+      - (_verb-like_) [to] tether
+      ==
+  //
     , `trjangX`
     , [長~(rising)](/entries/zoeng#rendering-長-rising)
     ,
@@ -5218,6 +5225,22 @@ window.onload = applyFilter;
       ==
       - (_verb-like_) [to] lift (up)
       - (_verb-like_) [to] rescue
+      ==
+  //
+    , `tsyip`
+    , [執](/entries/zap#rendering-執)
+    ,
+      ==
+      - (_verb-like_) [to] take hold, [to] hold, (_met._) [to] carry out
+      - (_verb-like_) [to] seize
+      - (_noun-like_) [close]-held [friend]
+      ==
+  //
+    , `tsyip`
+    , [汁](/entries/zap#rendering-汁)
+    ,
+      ==
+      - (_noun-like_) juice, (_met._) sleet
       ==
   //
     , `tsyuwX`
