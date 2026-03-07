@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zang
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -130,6 +130,18 @@ W
         to give a higher price, to throw in the difference.
     ==
   ====
+P
+  ++
+  1. Multitudinous (Kangxi: 衆也).
+  ++
+L
+  ====
+  * 【增】 (tsong)
+    ==
+    - (_verb-like_) [to] increase
+    - (_adjective-like_) multitudinous
+    ==
+  ====
 $$
 
 ###+ 崢1 | _(1)Chang_ [[zang1]]
@@ -200,6 +212,13 @@ W
     - _(1)tsang h(o\)(3) pat(7) (4)t(')ung_
         [[zang1 hou3 bat1 tung4 憎好不同]],
         capricious, now hating and then loving.
+    ==
+  ====
+L
+  ====
+  * 【憎】 (tsong)
+    ==
+    - (_verb-like_) [to] hate
     ==
   ====
 E

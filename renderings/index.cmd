@@ -4316,6 +4316,21 @@ window.onload = applyFilter;
       - (_adverb-like_) hastily
       ==
   //
+    , `tsong`
+    , [增](/entries/zang#rendering-增)
+    ,
+      ==
+      - (_verb-like_) [to] increase
+      - (_adjective-like_) multitudinous
+      ==
+  //
+    , `tsong`
+    , [憎](/entries/zang#rendering-憎)
+    ,
+      ==
+      - (_verb-like_) [to] hate
+      ==
+  //
     , `tsraeH`
     , [詐](/entries/zaa#rendering-詐)
     ,
