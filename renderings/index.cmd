@@ -5060,6 +5060,14 @@ window.onload = applyFilter;
       ==
   //
     , `tsyin`
+    , [振~(level)](/entries/zan#rendering-振-level)
+    ,
+      ==
+      - (_adjective-like_) generous, honourable
+      - (_adjective-like_) flourishing
+      ==
+  //
+    , `tsyin`
     , [畛](/entries/can#rendering-畛)
     ,
       ==

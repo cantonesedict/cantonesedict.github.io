@@ -44,6 +44,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $振1
 - $珍1
 - ($甄1)
 - ($眞1)
@@ -51,6 +52,36 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+###+ 振1 | _(1)Chan_ [[zan1]]
+
+$$
+R
+  ⼿ + 7
+U
+  U+632F
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Generous (Kangxi: 仁厚也), honourable (Kangxi: 信厚也).
+  1. Flourishing (Kangxi: 盛貌).
+  ++
+L
+  ====
+  * 【振-level】 (tsyin)
+    ==
+    - (_adjective-like_) generous, honourable
+    - (_adjective-like_) flourishing
+    ==
+  ====
+S
+  ==
+  - $振zan3
+  ==
+$$
 
 ### 珍1 | _(1)Chan_ [[zan1]]
 
@@ -480,6 +511,10 @@ L
     - (_preposition-like_) since
     ==
   ====
+S
+  ==
+  - $振zan1
+  ==
 $$
 
 ### 賑3 | _Chan(3)_ [[zan3]]
