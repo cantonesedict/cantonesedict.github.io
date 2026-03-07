@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zan
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -97,6 +97,14 @@ W
     - _(2)ch(e/)ung sh(e/)ung(6) (1)chan_
         [[zoeng2 soeng6 zan1 掌上珍]],
         a pearl in the hand---a daughter.
+    ==
+  ====
+L
+  ====
+  * 【珍】 (trin)
+    ==
+    - (_noun-like_) precious-thing
+    - (_adjective-like_) precious
     ==
   ====
 $$
@@ -209,6 +217,13 @@ C
   - Williams' 真贓正犯:
     Corrected _fan(6)_ (fan6) to _f(a/)n(6)_ (faan6).
   ==
+L
+  ====
+  * 【真】 (tsyin)
+    ==
+    - (_adjective-like_) true
+    ==
+  ====
 E
   ====
   - 【認真】 (jing6-2 zan1)
@@ -259,6 +274,13 @@ W
     --
     ==
     - rich, affluent, wealthy [[Kangxi: 富也]].
+    ==
+  ====
+L
+  ====
+  * 【賑-rising】 (tsyinX)
+    ==
+    - (_adjective-like_) rich
     ==
   ====
 S
@@ -415,7 +437,7 @@ W
     - to repair, to restore, to put in order [[Kangxi: 整也]];
     - to rescue, to save [[Kangxi: 舉救也, 拯也]];
     - to joggle;
-    - to flap, as wings [[Kangxi: 鳥羣飛貌]];
+    - to flap, as wings ``in a flock`` [[Kangxi: 鳥羣飛貌]];
     - to terrify;
     - to uphold, to stop [[Kangxi: 止也]];
     - to receive, to contain [[Kangxi: 收也]];
@@ -442,6 +464,21 @@ W
     --
     [[Alternative form of 震. See $震zan3.]]
     --
+  ====
+L
+  ====
+  * 【振-departing】 (tsyinH)
+    ==
+    - (_verb-like_) [to] shake, (_met._) [to] flap
+    - (_verb-like_) [to] uplift, [to] rouse
+    - (_verb-like_) [to] open up
+    - (_verb-like_) [to] succour
+    - (_verb-like_) [to] organise
+    - (_verb-like_) [to] halt
+    - (_verb-like_) [to] contain, [to] consolidate
+    - (_adjective-like_) flocking
+    - (_preposition-like_) since
+    ==
   ====
 $$
 
@@ -483,6 +520,13 @@ C
     *Not* an abundance of wealth,
     which belongs under the rising-tone reading _(2)chan_ (zan2).
   ==
+L
+  ====
+  * 【賑-departing】 (tsyinH)
+    ==
+    - (_verb-like_) [to] succour
+    ==
+  ====
 S
   ==
   - $賑zan2
@@ -561,6 +605,13 @@ C
     I know not enough about French to determine
     if it should instead be spelt "entrepôt".
   ==
+L
+  ====
+  * 【鎮】 (trinH)
+    ==
+    - (_verb-like_) [to] suppress, [to] subdue
+    ==
+  ====
 $$
 
 ### 震3 | _Chan(3)_ [[zan3]]
@@ -588,7 +639,7 @@ W
     - To quiver [[Kangxi: 震動也]];
     - to shiver;
     - the 51st~diagram, belongs to thunder [[Kangxi: 卦名]];
-    - to shake, as by thunder [[Kangxi: 劈歷振物者, 震雷也]];
+    - ~~to shake, as by~~ ``a crack of`` thunder [[Kangxi: 劈歷振物者, 震雷也]];
     - [[...]];
     - to awe, to impress [[Kangxi: 威也]];
     - thundering, terrible, as a sound;
@@ -618,6 +669,14 @@ C
   - Fan Wan entry: Corrected ⿰亻瞿 to 懼.
   - Williams' 震驚: Corrected _(1)keng_ (geng1) to _(1)king_ (ging1).
   ==
+L
+  ====
+  * 【震】 (tsyinH)
+    ==
+    - (_noun-like_) thunder-crack
+    - (_verb-like_) [to] shake, [to] quake
+    ==
+  ====
 E
   ====
   - 【打冷震】 (daa2 laang5 zan3)
@@ -719,6 +778,13 @@ C
   - Williams' 使女人陣: Literally, "employ [the] women's formation".
   - Williams' 陣勢: Figuratively, the situation of the battle.
   ==
+L
+  ====
+  * 【陣】 (drinH)
+    ==
+    - (_noun-like_) battle-array, (_met._) battlefield
+    ==
+  ====
 E
   ====
   - 【一陣-moment】 (jat1 zan6)

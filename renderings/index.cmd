@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-03-06
+* %date-modified --> 2026-03-07
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -900,6 +900,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] examine
+      ==
+  //
+    , `drinH`
+    , [陣](/entries/zan#rendering-陣)
+    ,
+      ==
+      - (_noun-like_) battle-array, (_met._) battlefield
       ==
   //
     , `dring`
@@ -3197,6 +3204,21 @@ window.onload = applyFilter;
       - (_adjective-like_) empty
       ==
   //
+    , `trin`
+    , [珍](/entries/zan#rendering-珍)
+    ,
+      ==
+      - (_noun-like_) precious-thing
+      - (_adjective-like_) precious
+      ==
+  //
+    , `trinH`
+    , [鎮](/entries/zan#rendering-鎮)
+    ,
+      ==
+      - (_verb-like_) [to] suppress, [to] subdue
+      ==
+  //
     , `trjangX`
     , [長~(rising)](/entries/zoeng#rendering-長-rising)
     ,
@@ -5045,6 +5067,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] announce (unto)
       ==
   //
+    , `tsyin`
+    , [真](/entries/zan#rendering-真)
+    ,
+      ==
+      - (_adjective-like_) true
+      ==
+  //
     , `tsyinX`
     , [畛](/entries/can#rendering-畛)
     ,
@@ -5075,6 +5104,13 @@ window.onload = applyFilter;
       ==
   //
     , `tsyinX`
+    , [賑~(rising)](/entries/zan#rendering-賑-rising)
+    ,
+      ==
+      - (_adjective-like_) rich
+      ==
+  //
+    , `tsyinX`
     , [鬒](/entries/can#rendering-鬒)
     ,
       ==
@@ -5082,10 +5118,40 @@ window.onload = applyFilter;
       ==
   //
     , `tsyinH`
+    , [振~(departing)](/entries/zan#rendering-振-departing)
+    ,
+      ==
+      - (_verb-like_) [to] shake, (_met._) [to] flap
+      - (_verb-like_) [to] uplift, [to] rouse
+      - (_verb-like_) [to] open up
+      - (_verb-like_) [to] succour
+      - (_verb-like_) [to] organise
+      - (_verb-like_) [to] halt
+      - (_verb-like_) [to] contain, [to] consolidate
+      - (_adjective-like_) flocking
+      - (_preposition-like_) since
+      ==
+  //
+    , `tsyinH`
     , [袗](/entries/can#rendering-袗)
     ,
       ==
       - (_noun-like_) unlined-garment
+      ==
+  //
+    , `tsyinH`
+    , [賑~(departing)](/entries/zan#rendering-賑-departing)
+    ,
+      ==
+      - (_verb-like_) [to] succour
+      ==
+  //
+    , `tsyinH`
+    , [震](/entries/zan#rendering-震)
+    ,
+      ==
+      - (_noun-like_) thunder-crack
+      - (_verb-like_) [to] shake, [to] quake
       ==
   //
     , `tsyingX`
