@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1641,9 +1641,10 @@ E
        - 睇住佢 (tai2 zyu6 keoi5): "Watch [over] him."
        - 我揸住 (ngo5 zaa1 zyu6): "I'm holding [onto it]."
        ==
-    1. Yet (for negative imperatives).
+    1. Yet (for negative imperatives and indicatives).
        ==
        - 咪行住 (mai5 haang4 zyu6): "Don't walk [off] yet!"
+       - 未得住 (mei6 dak1 zyu6): "Not ready yet."
        ==
     ++
   ====
