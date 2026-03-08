@@ -923,6 +923,14 @@ window.onload = applyFilter;
       - (_adjective-like_) clear
       ==
   //
+    , `drip`
+    , [蟄](/entries/zat#rendering-蟄)
+    ,
+      ==
+      - (_noun-like_) hibernation
+      - (_verb-like_) [to] cluster
+      ==
+  //
     , `drjang`
     , [場](/entries/coeng#rendering-場)
     ,
@@ -1511,6 +1519,29 @@ window.onload = applyFilter;
       ==
       - (_verb-like_) [to] perch (together)
       - (_verb-like_) [to] collect
+      ==
+  //
+    , `dzit`
+    , [疾](/entries/zat#rendering-疾)
+    ,
+      ==
+      - (_noun-like_) sickness, malady
+      - (_adverb-like_) hastily
+      - (_verb-like_) [to] detest
+      ==
+  //
+    , `dzit`
+    , [蒺](/entries/zat#rendering-蒺)
+    ,
+      ==
+      - Used in [蒺藜](/entries/zat#rendering-蒺藜).
+      ==
+  //
+    , `dzit lej`
+    , [蒺藜](/entries/zat#rendering-蒺藜)
+    ,
+      ==
+      - caltrop
       ==
   //
     , `dzjang`
@@ -2959,6 +2990,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] bundle, [to] bind
       ==
   //
+    , `tet`
+    , [窒](/entries/zat#rendering-窒)
+    ,
+      ==
+      - (_verb-like_) [to] stop up
+      ==
+  //
     , `that`
     , [獺](/entries/caat#rendering-獺)
     ,
@@ -3238,6 +3276,20 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] tether
+      ==
+  //
+    , `trit`
+    , [挃](/entries/zat#rendering-挃)
+    ,
+      ==
+      - (_onomatopoeia_) slash
+      ==
+  //
+    , `trit`
+    , [窒](/entries/zat#rendering-窒)
+    ,
+      ==
+      - (_verb-like_) [to] stop up
       ==
   //
     , `trjangX`
@@ -4412,7 +4464,7 @@ window.onload = applyFilter;
     , [齋](/entries/zaai#rendering-齋)
     ,
       ==
-      - (_verb-like_) [to] purify
+      - (_verb-like_) [to] purify [by abstinence]
       ==
   //
     , `tsreajH`
@@ -5241,6 +5293,35 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) juice, (_met._) sleet
+      ==
+  //
+    , `tsyit`
+    , [桎](/entries/zat#rendering-桎)
+    ,
+      ==
+      - (_noun-like_) fetter
+      ==
+  //
+    , `tsyit`
+    , [質~(entering)](/entries/zat#rendering-質-entering)
+    ,
+      ==
+      - (_noun-like_) substance
+      - (_adjective-like_) simple
+      - (_verb-like_) [to] complete
+      - (_verb-like_) [to] affirm, [to] verify
+      - (_verb-like_) [to] front
+      - (_verb-like_) [to] interrogate
+      - (_noun-like_) target
+      - (_adverb-like_) directly
+      ==
+  //
+    , `tsyit`
+    , [騭](/entries/zat#rendering-騭)
+    ,
+      ==
+      - (_verb-like_) [to] secure
+      - (_verb-like_) [to] raise
       ==
   //
     , `tsyuwX`

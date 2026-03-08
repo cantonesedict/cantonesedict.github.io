@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zat
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -162,6 +162,20 @@ W
         the disposition.
     ==
   ====
+L
+  ====
+  * 【質-entering】 (tsyit)
+    ==
+    - (_noun-like_) substance
+    - (_adjective-like_) simple
+    - (_verb-like_) [to] complete
+    - (_verb-like_) [to] affirm, [to] verify
+    - (_verb-like_) [to] front
+    - (_verb-like_) [to] interrogate
+    - (_noun-like_) target
+    - (_adverb-like_) directly
+    ==
+  ====
 E
   ====
   - 【質】 (zat1)
@@ -282,6 +296,14 @@ C
   ==
   - Fan Wan entry: Corrected 降 to 陞.
   ==
+L
+  ====
+  * 【騭】 (tsyit)
+    ==
+    - (_verb-like_) [to] secure
+    - (_verb-like_) [to] raise
+    ==
+  ====
 $$
 
 
@@ -444,6 +466,13 @@ W
     - to beat, to knock with the fist [[Kangxi: 撞挃也]].
     ==
   ====
+L
+  ====
+  * 【挃】 (trit)
+    ==
+    - (_onomatopoeia_) slash
+    ==
+  ====
 $$
 
 ### 桎6 | _Chat(9)_ [[zat6]]
@@ -479,6 +508,13 @@ W
     - _wat(7) wat(7) chat(9) chat(9)_
         [[wat1 wat1 zat6 zat6 屈屈桎桎]]
         cramped, cribbed, the room is scanty;---a colloquial phrase.
+    ==
+  ====
+L
+  ====
+  * 【桎】 (tsyit)
+    ==
+    - (_noun-like_) fetter
     ==
   ====
 $$
@@ -540,6 +576,15 @@ C
   ==
   - Williams' 疾速: Corrected _tsuk(7)_ (zuk1) to _ts(')uk(7)_ (cuk1).
   ==
+L
+  ====
+  * 【疾】 (dzit)
+    ==
+    - (_noun-like_) sickness, malady
+    - (_adverb-like_) hastily
+    - (_verb-like_) [to] detest
+    ==
+  ====
 $$
 
 ### 窒6 | _Chat(9)_ [[zat6]]
@@ -574,6 +619,13 @@ W
     - _chat(9) ngoi(6)_
         [[zat6 ngoi6 窒礙]]
         difficulties.
+    ==
+  ====
+L
+  ====
+  * 【窒】 (trit, tet)
+    ==
+    - (_verb-like_) [to] stop up
     ==
   ====
 E
@@ -619,6 +671,17 @@ W
     - _tsat(9) (4)lai_
         [[zat6 lai4 蒺藜]],
         a very spinous plant, the seeds are used in diseases of the eye.
+    ==
+  ====
+L
+  ====
+  * 【蒺】 (dzit)
+    ==
+    - Used in [蒺藜](/entries/zat#rendering-蒺藜).
+    ==
+  * 【蒺藜】 (dzit lej)
+    ==
+    - caltrop
     ==
   ====
 $$
@@ -679,6 +742,18 @@ W
         "excited insects,"
         is the name of the fifth of the 24~terms;
         March~5th to 20th.
+    ==
+  ====
+P
+  ++
+  1. To cluster (Kangxi: 和集也).
+  ++
+L
+  ====
+  * 【蟄】 (drip)
+    ==
+    - (_noun-like_) hibernation
+    - (_verb-like_) [to] cluster
     ==
   ====
 S

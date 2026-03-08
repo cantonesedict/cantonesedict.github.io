@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaai
-* %date-modified --> 2026-03-01
+* %date-modified --> 2026-03-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -198,7 +198,7 @@ L
   ====
   * 【齋】 (tsreaj)
     ==
-    - (_verb-like_) [to] purify
+    - (_verb-like_) [to] purify [by abstinence]
     ==
   ====
 E
