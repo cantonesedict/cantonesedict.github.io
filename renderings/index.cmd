@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-03-08
+* %date-modified --> 2026-03-09
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -3323,6 +3323,41 @@ window.onload = applyFilter;
       - (_adjective-like_) great, (_met._) prime
       ==
   //
+    , `trjuw`
+    , [侜](/entries/zau#rendering-侜)
+    ,
+      ==
+      - (_verb-like_) [to] cover up, (_met._) [to] deceive
+      ==
+  //
+    , `trjuw`
+    , [啁](/entries/zau#rendering-啁)
+    ,
+      ==
+      - Used in [啁噍](/entries/zau#rendering-啁噍).
+      ==
+  //
+    , `trjuw`
+    , [譸](/entries/zau#rendering-譸)
+    ,
+      ==
+      - (_verb-like_) [to] deceive
+      ==
+  //
+    , `trjuw`
+    , [輈](/entries/zau#rendering-輈)
+    ,
+      ==
+      - (_noun-like_) carriage-pole
+      ==
+  //
+    , `trjuw tsjew`
+    , [啁噍](/entries/zau#rendering-啁噍)
+    ,
+      ==
+      - (_onomatopoeia_) twitter
+      ==
+  //
     , `trjuwng`
     , [衷](/entries/cung#rendering-衷)
     ,
@@ -4326,6 +4361,13 @@ window.onload = applyFilter;
       - (_adjective-like_) luxuriant
       ==
   //
+    , `tsjew`
+    , [噍](/entries/ziu#rendering-噍)
+    ,
+      ==
+      - Used in [啁噍](/entries/zau#rendering-啁噍).
+      ==
+  //
     , `tsjowng`
     , [從~(vertical)](/entries/zung#rendering-從-vertical)
     ,
@@ -4339,6 +4381,20 @@ window.onload = applyFilter;
       ==
       - (_noun-like_) fir
       - (_adjective-like_) toothed
+      ==
+  //
+    , `tsju`
+    , [諏](/entries/zau#rendering-諏)
+    ,
+      ==
+      - (_verb-like_) [to] inquire, [to] consult
+      ==
+  //
+    , `tsjuH`
+    , [緅](/entries/zau#rendering-緅)
+    ,
+      ==
+      - (_adjective-like_) puce
       ==
   //
     , `tsjuw`
@@ -4781,6 +4837,27 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) huddled, accordant
+      ==
+  //
+    , `tsrjuw`
+    , [緅](/entries/zau#rendering-緅)
+    ,
+      ==
+      - (_adjective-like_) puce
+      ==
+  //
+    , `tsrjuw`
+    , [騶](/entries/zau#rendering-騶)
+    ,
+      ==
+      - (_noun-like_) horse-keeper
+      ==
+  //
+    , `tsuw`
+    , [緅](/entries/zau#rendering-緅)
+    ,
+      ==
+      - (_adjective-like_) puce
       ==
   //
     , `tswaH`
@@ -5322,6 +5399,43 @@ window.onload = applyFilter;
       ==
       - (_verb-like_) [to] secure
       - (_verb-like_) [to] raise
+      ==
+  //
+    , `tsyuw`
+    , [周](/entries/zau#rendering-周)
+    ,
+      ==
+      - (_noun-like_) cycle, circumference, (_met._) round-part
+      - (_verb-like_) [to] encompass
+      - (_adjective-like_) all-encompassing, all-round, (_met._) comprehensive, ultimate, utmost
+      ==
+  //
+    , `tsyuw`
+    , [州](/entries/zau#rendering-州)
+    ,
+      ==
+      - (_noun-like_) province, district
+      ==
+  //
+    , `tsyuw`
+    , [洲](/entries/zau#rendering-洲)
+    ,
+      ==
+      - (_noun-like_) islet
+      ==
+  //
+    , `tsyuw`
+    , [舟](/entries/zau#rendering-舟)
+    ,
+      ==
+      - (_noun-like_) boat
+      ==
+  //
+    , `tsyuw`
+    , [賙](/entries/zau#rendering-賙)
+    ,
+      ==
+      - (_verb-like_) [to] assist
       ==
   //
     , `tsyuwX`

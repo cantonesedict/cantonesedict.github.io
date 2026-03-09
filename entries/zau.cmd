@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -100,6 +100,17 @@ C
   - Williams' "stretched": This is a misreading of Kangxi ::侜張[...]誑也::,
     to deceive.
   ==
+P
+  ++
+  1. To deceive. (Alternative form of 譸. See $譸zau1.)
+  ++
+L
+  ====
+  * 【侜】 (trjuw)
+    ==
+    - (_verb-like_) [to] cover up, (_met._) [to] deceive
+    ==
+  ====
 $$
 
 ### 周1 | _(1)Chau_ [[zau1]]
@@ -185,6 +196,15 @@ P
   ++
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【周】 (tsyuw)
+    ==
+    - (_noun-like_) cycle, circumference, (_met._) round-part
+    - (_verb-like_) [to] encompass
+    - (_adjective-like_) all-encompassing, all-round, (_met._) comprehensive, ultimate, utmost
+    ==
+  ====
 E
   ====
   - 【周身刀冇張利】 (zau1 san1 dou1 mou5 zoeng1 lei6)
@@ -214,6 +234,17 @@ P
   ++
   1. Used in 啁噍 (sound of birds) (Kangxi: 啁噍鳥聲).
   ++
+L
+  ====
+  * 【啁】 (trjuw)
+    ==
+    - Used in [啁噍](/entries/zau#rendering-啁噍).
+    ==
+  * 【啁噍】 (trjuw tsjew)
+    ==
+    - (_onomatopoeia_) twitter
+    ==
+  ====
 S
   ==
   - $啁dou1 (TODO)
@@ -283,6 +314,13 @@ W
     --
     [[Otherwise, an alternative form of 洲. **See $洲zau1 for the canonical entry.**]]
     --
+  ====
+L
+  ====
+  * 【州】 (tsyuw)
+    ==
+    - (_noun-like_) province, district
+    ==
   ====
 $$
 
@@ -416,6 +454,7 @@ W
   ====
 S
   ==
+  - $棷sau2 (TODO) <## same as $藪sau2 ##>
   - $棷zau2
   ==
 $$
@@ -470,6 +509,13 @@ C
   - In modern usage, 州 is used exclusively in the "administrative-division" sense,
     and never for the "island/continent" sense, which is always spelt 洲.
   ==
+L
+  ====
+  * 【洲】 (tsyuw)
+    ==
+    - (_noun-like_) islet
+    ==
+  ====
 $$
 
 ###+ 湫1 | _(1)Tsau_ [[zau1]]
@@ -512,6 +558,10 @@ R
   ⽷ + 8
 U
   U+7DC5
+V
+  ==
+  - zeoi3 (alternative per 《廣韻》子句切)
+  ==
 F
   ==
   - (F1.50 緅) 靑赤色
@@ -522,6 +572,13 @@ W
     ==
     - Silk first dyed red thrice, and then twice dipped in black [[Kangxi: 五入爲緅, 染纁者三入而成又再染以黑則爲緅]];
     - a dark red-like puce [[Kangxi: 帛靑赤色也]].
+    ==
+  ====
+L
+  ====
+  * 【緅】 (tsuw, tsrjuw, tsjuH)
+    ==
+    - (_adjective-like_) puce
     ==
   ====
 $$
@@ -553,6 +610,13 @@ W
         on board ship.
     ==
   ====
+L
+  ====
+  * 【舟】 (tsyuw)
+    ==
+    - (_noun-like_) boat
+    ==
+  ====
 $$
 
 ### 諏1 | _(1)Tsau_ [[zau1]]
@@ -582,6 +646,13 @@ W
     - _(1)tsz' (1)tsau_
         [[zi1 zau1 咨諏]],
         to take counsel.
+    ==
+  ====
+L
+  ====
+  * 【諏】 (tsju)
+    ==
+    - (_verb-like_) [to] inquire, [to] consult
     ==
   ====
 $$
@@ -626,6 +697,10 @@ R
   ⾔ + 14
 U
   U+8B78
+A
+  ==
+  - $侜1
+  ==
 F
   ==
   - (F1.49 譸) 書經譸張爲幻
@@ -644,6 +719,13 @@ C
   ==
   - Williams' 譸張為幻: Corrected _(1)wai_ (wai1) to _(4)wai_ (wai4).
   ==
+L
+  ====
+  * 【譸】 (trjuw)
+    ==
+    - (_verb-like_) [to] deceive
+    ==
+  ====
 $$
 
 ### 賙1 | _(1)Chau_ [[zau1]]
@@ -680,6 +762,13 @@ W
         beneficent.
     ==
   ====
+L
+  ====
+  * 【賙】 (tsyuw)
+    ==
+    - (_verb-like_) [to] assist
+    ==
+  ====
 $$
 
 ### 輈1 | _(1)Chau_ [[zau1]]
@@ -697,8 +786,15 @@ W
   ====
   - [[Page~25|n68 (1)輈]]
     ==
-    - A frame in front of a carriage [[Kangxi: 車轅也 etc.]] near which the driver sits;
+    - A ~~frame in front~~ ``pole or shaft`` of a carriage [[Kangxi: 車轅也 etc.]] ~~near which the driver sits~~;
     - ~~a sort of dashboard.~~
+    ==
+  ====
+L
+  ====
+  * 【輈】 (trjuw)
+    ==
+    - (_noun-like_) carriage-pole
     ==
   ====
 $$
@@ -927,6 +1023,13 @@ C
   - Strictly, the pre-merger reading should be _(1)chau_ per 《廣韻》側鳩切.
   - Williams' "royal groom or hostler": Not necessarily royal, but often so.
   ==
+L
+  ====
+  * 【騶】 (tsrjuw)
+    ==
+    - (_noun-like_) horse-keeper
+    ==
+  ====
 $$
 
 ### 鯫1 | _(1)Tsau_ [[zau1]]
@@ -1028,6 +1131,7 @@ W
   ====
 S
   ==
+  - $棷sau2 (TODO) <## same as $藪sau2 ##>
   - $棷zau1
   ==
 $$

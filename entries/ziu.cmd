@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -89,6 +89,13 @@ P
   ++
   1. Urgent (Kangxi: 噍子遙反謂急也).
   ++
+L
+  ====
+  * 【噍】 (tsjew)
+    ==
+    - Used in [啁噍](/entries/zau#rendering-啁噍).
+    ==
+  ====
 S
   ==
   - $噍ziu6
