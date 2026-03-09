@@ -1030,6 +1030,10 @@ L
     - (_noun-like_) horse-keeper
     ==
   ====
+S
+  ==
+  - ($騶zau6)
+  ==
 $$
 
 ### 鯫1 | _(1)Tsau_ [[zau1]]
@@ -1835,6 +1839,7 @@ $$
 - $胄6
 - $袖6
 - $酎6
+- ($騶6)
 - ($驟6)
 - $鷲6
 ==
@@ -2226,6 +2231,27 @@ C
     which is the result of misreading Kangxi's example 《史記平準書》列侯坐酎金.
     Here, 坐酎金 is not a term; 坐 means "convicted",
     so that 列侯坐酎金 means "[The] feudal-lords [were] convicted [in the] wine money [case]".
+  ==
+$$
+
+###+ 騶6 | _Tsau(6)_ [[zau6]]
+
+$$.
+R
+  ⾺ + 10
+U
+  U+9A36
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 驟, and reading variation. **See $驟zaau6 for the canonical entry.**
+  ++
+S
+  ==
+  - $騶zau1
   ==
 $$
 
