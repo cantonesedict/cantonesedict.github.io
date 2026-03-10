@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-03-09
+* %date-modified --> 2026-03-10
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -1280,6 +1280,42 @@ window.onload = applyFilter;
       - (_noun-like_) former [day]
       ==
   //
+    , `drjuwX`
+    , [紂](/entries/zau#rendering-紂)
+    ,
+      ==
+      - (_noun-like_) crupper
+      ==
+  //
+    , `drjuwH`
+    , [冑](/entries/zau#rendering-冑)
+    ,
+      ==
+      - (_noun-like_) helm
+      ==
+  //
+    , `drjuwH`
+    , [宙](/entries/zau#rendering-宙)
+    ,
+      ==
+      - (_noun-like_) time
+      ==
+  //
+    , `drjuwH`
+    , [胄](/entries/zau#rendering-胄)
+    ,
+      ==
+      - (_adjective-like_) eldest
+      - (_noun-like_) posterity
+      ==
+  //
+    , `drjuwH`
+    , [酎](/entries/zau#rendering-酎)
+    ,
+      ==
+      - (_noun-like_) strong-drink
+      ==
+  //
     , `drjuwng`
     , [沖](/entries/cung#rendering-沖)
     ,
@@ -1700,6 +1736,17 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] change countenance
+      ==
+  //
+    , `dzjuwH`
+    , [就](/entries/zau#rendering-就)
+    ,
+      ==
+      - (_verb-like_) [to] go unto, [to] proceed (unto)
+      - (_verb-like_) [to] nigh
+      - (_verb-like_) [to] assume
+      - (_verb-like_) [to] accomplish
+      - (_noun-like_) coil
       ==
   //
     , `dzjuwk`
@@ -3358,6 +3405,20 @@ window.onload = applyFilter;
       - (_onomatopoeia_) twitter
       ==
   //
+    , `trjuwH`
+    , [咮~(departing)](/entries/zau#rendering-咮-departing)
+    ,
+      ==
+      - (_noun-like_) beak
+      ==
+  //
+    , `trjuwH`
+    , [晝](/entries/zau#rendering-晝)
+    ,
+      ==
+      - (_noun-like_) daytime
+      ==
+  //
     , `trjuwng`
     , [衷](/entries/cung#rendering-衷)
     ,
@@ -4404,6 +4465,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] rally, [to] consolidate
       ==
   //
+    , `tsjuwX`
+    , [酒](/entries/zau#rendering-酒)
+    ,
+      ==
+      - (_noun-like_) alcohol
+      ==
+  //
     , `tsjuwk`
     , [蹙](/entries/cuk#rendering-蹙)
     ,
@@ -4579,7 +4647,7 @@ window.onload = applyFilter;
     , [醆](/entries/zaan#rendering-醆)
     ,
       ==
-      - (_noun-like_) wine-cup
+      - (_noun-like_) alcohol-cup
       - (_noun-like_) slightly-clarified-alcohol
       ==
   //
@@ -4853,11 +4921,49 @@ window.onload = applyFilter;
       - (_noun-like_) horse-keeper
       ==
   //
+    , `tsrjuwH`
+    , [甃](/entries/zau#rendering-甃)
+    ,
+      ==
+      - (_noun-like_) brickwork
+      ==
+  //
+    , `tsrjuwH`
+    , [皺](/entries/zau#rendering-皺)
+    ,
+      ==
+      - (_noun-like_) wrinkle
+      ==
+  //
+    , `tsrjuwH`
+    , [縐](/entries/zau#rendering-縐)
+    ,
+      ==
+      - (_noun-like_) wrinkled-cloth, fine-cloth
+      ==
+  //
     , `tsuw`
     , [緅](/entries/zau#rendering-緅)
     ,
       ==
       - (_adjective-like_) puce
+      ==
+  //
+    , `tsuwX`
+    , [走](/entries/zau#rendering-走)
+    ,
+      ==
+      - (_verb-like_) [to] run, [to] run [away]
+      - (_verb-like_) [to] go, [to] leave
+      ==
+  //
+    , `tsuwH`
+    , [奏](/entries/zau#rendering-奏)
+    ,
+      ==
+      - (_verb-like_) [to] put forward
+      - (_verb-like_) [to] perform [music]
+      - (_verb-like_) [to] report
       ==
   //
     , `tswaH`
@@ -5445,6 +5551,13 @@ window.onload = applyFilter;
       - (_noun-like_) besom
       ==
   //
+    , `tsyuwH`
+    , [祝~(departing)](/entries/zau#rendering-祝-departing)
+    ,
+      ==
+      - (_verb-like_) [to] curse
+      ==
+  //
     , `tsyuwng`
     , [潨](/entries/cung#rendering-潨)
     ,
@@ -5864,6 +5977,13 @@ window.onload = applyFilter;
       ==
       - (_verb-like_) [to] imprison
       - (_noun-like_) prisoner
+      ==
+  //
+    , `zjuwH`
+    , [袖](/entries/zau#rendering-袖)
+    ,
+      ==
+      - (_noun-like_) sleeve
       ==
   //
     , `zjwe`

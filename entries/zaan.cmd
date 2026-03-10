@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaan
-* %date-modified --> 2026-03-03
+* %date-modified --> 2026-03-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -390,7 +390,7 @@ L
   ====
   * 【醆】 (tsreanX)
     ==
-    - (_noun-like_) wine-cup
+    - (_noun-like_) alcohol-cup
     - (_noun-like_) slightly-clarified-alcohol
     ==
   ====

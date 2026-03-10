@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2026-03-09
+* %date-modified --> 2026-03-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1199,6 +1199,10 @@ R
   ⾛ + 0
 U
   U+8D70
+V
+  ==
+  - zau3 (alternative per 《廣韻》則候切)
+  ==
 F
   ==
   - (F1.53 走) 奔走趨也
@@ -1256,8 +1260,18 @@ W
   ====
 C
   ==
+  - Kangxi follows 《廣韻》 in putting the 《釋名》 definition
+    under the departing tone.
   - Williams' 走漏: In the vernacular register, 走漏 means to omit by mistake.
   ==
+L
+  ====
+  * 【走】 (tsuwX)
+    ==
+    - (_verb-like_) [to] run, [to] run [away]
+    - (_verb-like_) [to] go, [to] leave
+    ==
+  ====
 E
   --
   Cantonese retains the classical distinction between 走 "run" and 行 "walk".
@@ -1413,6 +1427,13 @@ C
   ==
   - Williams' 啤酒: Corrected _(2)p(')(e/)_ (pe2) to _(1)p(e/)_ (be1).
   ==
+L
+  ====
+  * 【酒】 (tsjuwX)
+    ==
+    - (_noun-like_) alcohol
+    ==
+  ====
 $$
 
 
@@ -1532,6 +1553,13 @@ C
   - Fan Wan entry: Corrected duplicate headword 咒 to 呪.
   - Williams' 禱咒: Changed _(2)t(o\)_ (dou2) to common reading _(2)t(')(o\)_ (tou2).
   ==
+L
+  ====
+  * 【祝-departing】 (tsyuwH)
+    ==
+    - (_verb-like_) [to] curse
+    ==
+  ====
 $$
 
 ### 咮3 | _Chau(3)_ [[zau3]]
@@ -1560,6 +1588,13 @@ C
   ==
   - Fan Wan entry: Corrected headword 味 to 咮.
   ==
+L
+  ====
+  * 【咮-departing】 (trjuwH)
+    ==
+    - (_noun-like_) beak
+    ==
+  ====
 S
   ==
   - $咮zyu1
@@ -1621,6 +1656,15 @@ P
   ++
   1. To put forward, to offer (Kangxi: 進也薦也).
   ++
+L
+  ====
+  * 【奏】 (tsuwH)
+    ==
+    - (_verb-like_) [to] put forward
+    - (_verb-like_) [to] perform [music]
+    - (_verb-like_) [to] report
+    ==
+  ====
 $$
 
 ### 晝3 | _Chau(3)_ [[zau3]]
@@ -1651,6 +1695,13 @@ W
     - _h(a/)(6) chau(3)_
         [[haa6 zau3 下晝]]
         afternoon.
+    ==
+  ====
+L
+  ====
+  * 【晝】 (trjuwH)
+    ==
+    - (_noun-like_) daytime
     ==
   ====
 $$
@@ -1707,6 +1758,13 @@ P
   ++
   1. To adorn, to decorate (Kangxi: 甃猶飾也).
   ++
+L
+  ====
+  * 【甃】 (tsrjuwH)
+    ==
+    - (_noun-like_) brickwork
+    ==
+  ====
 $$
 
 ### 皺3 | _Tsau(3)_ [[zau3]]
@@ -1748,6 +1806,13 @@ C
   ==
   - Strictly, the pre-merger reading should be _chau(3)_ per 《廣韻》側救切.
   ==
+L
+  ====
+  * 【皺】 (tsrjuwH)
+    ==
+    - (_noun-like_) wrinkle
+    ==
+  ====
 $$
 
 ###+ 祝3 | _Chau(3)_ [[zau3]]
@@ -1821,6 +1886,13 @@ C
   ==
   - Strictly, the pre-merger reading should be _chau(3)_ per 《廣韻》側救切.
   ==
+L
+  ====
+  * 【縐】 (tsrjuwH)
+    ==
+    - (_noun-like_) wrinkled-cloth, fine-cloth
+    ==
+  ====
 $$
 
 
@@ -1876,6 +1948,13 @@ C
   - Fan Wan entry: No distinction is made
     between 冑 (under ⼌) and 胄 (under ⾁).
   ==
+L
+  ====
+  * 【冑】 (drjuwH)
+    ==
+    - (_noun-like_) helm
+    ==
+  ====
 $$
 
 ### 宙6 | _Chau(6)_ [[zau6]]
@@ -1901,6 +1980,13 @@ C
   ==
   - Fan Wan entry: Corrected 行 to 往.
   ==
+L
+  ====
+  * 【宙】 (drjuwH)
+    ==
+    - (_noun-like_) time
+    ==
+  ====
 $$
 
 ### 就6 | _Tsau(6)_ [[zau6]]
@@ -1982,6 +2068,17 @@ C
   - Williams' 就正, 就家, 就先: All dated.
   - Williams' 就嚟: Corrected _(4)loi_ (loi4) to _(4)lai_ (lai4).
   ==
+L
+  ====
+  * 【就】 (dzjuwH)
+    ==
+    - (_verb-like_) [to] go unto, [to] proceed (unto)
+    - (_verb-like_) [to] nigh
+    - (_verb-like_) [to] assume
+    - (_verb-like_) [to] accomplish
+    - (_noun-like_) coil
+    ==
+  ====
 E
   ====
   - 【就】 (zau6)
@@ -2123,6 +2220,13 @@ C
     he did not bring that dynasty to an end
     (unless you count his committing suicide, which would be semantics).
   ==
+L
+  ====
+  * 【紂】 (drjuwX)
+    ==
+    - (_noun-like_) crupper
+    ==
+  ====
 $$
 
 ### 胄6 | _Chau(6)_ [[zau6]]
@@ -2159,6 +2263,14 @@ C
     between 冑 (under ⼌) and 胄 (under ⾁).
   - Williams' 胄裔: Corrected _hau(3)_ (hau3) to _chau(6)_ (zau6).
   ==
+L
+  ====
+  * 【胄】 (drjuwH)
+    ==
+    - (_adjective-like_) eldest
+    - (_noun-like_) posterity
+    ==
+  ====
 $$
 
 ### 袖6 | _Tsau(6)_ [[zau6]]
@@ -2198,6 +2310,13 @@ W
         to fold the hands and look on.
     ==
   ====
+L
+  ====
+  * 【袖】 (zjuwH)
+    ==
+    - (_noun-like_) sleeve
+    ==
+  ====
 $$
 
 ### 酎6 | _Chau(6)_ [[zau6]]
@@ -2232,6 +2351,13 @@ C
     Here, 坐酎金 is not a term; 坐 means "convicted",
     so that 列侯坐酎金 means "[The] feudal-lords [were] convicted [in the] wine money [case]".
   ==
+L
+  ====
+  * 【酎】 (drjuwH)
+    ==
+    - (_noun-like_) strong-drink
+    ==
+  ====
 $$
 
 ###+ 騶6 | _Tsau(6)_ [[zau6]]
