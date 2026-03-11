@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zek
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-11
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -209,6 +209,13 @@ C
     notwithstanding all series appear under 第七英影應益.
     I have corrected Williams by placing 摭 under _chek(8)_ (zek3) here.
   ==
+L
+  ====
+  * 【摭】 (tsyek)
+    ==
+    - (_verb-like_) [to] pick up, [to] pick
+    ==
+  ====
 $$
 
 ### 炙3 | _~~Chek(9)~~ ``Chek(8)``_ [[zek3]]
@@ -220,6 +227,7 @@ U
   U+7099
 V
   ==
+  - ze3 (alternative per 《廣韻》之夜切)
   - zik3 (alternative)
   ==
 F
@@ -274,6 +282,13 @@ C
   - Williams' 膾炙人口: Corrected _(2)k(u/)i_ (gui2) to _(2)k(')(u/)i_ (kui2).
   - Williams' "near": Specifically, to come under the (positive) influence of another.
   ==
+L
+  ====
+  * 【炙】 (tsyek, tsyaeH)
+    ==
+    - (_verb-like_) [to] broil
+    ==
+  ====
 $$
 
 ###+ 瘠3 | _Tsek(8)_ [[zek3]]
@@ -304,6 +319,13 @@ W
     - _~~tsik(8)~~ ``tsek(8)`` (2)t(')(o\)_
         [[zek3 tou2 瘠土]],
         meagre soil.
+    ==
+  ====
+L
+  ====
+  * 【瘠】 (dzjek)
+    ==
+    - (_adjective-like_) emaciated, (_met._) lean
     ==
   ====
 S
@@ -342,7 +364,7 @@ W
     - the ridge of a house;
     - a sierra, a ridge [[Kangxi: 山脊]];
     - ~~a bone;~~
-    - a principle [[Kangxi: 理也]];
+    - a principle``, a reason`` [[Kangxi: 理也]];
     - _p(u/)i(3) tsek(8) kwat(7)_
         [[bui3 zek3 gwat1 背脊骨]]
         the spine;
@@ -359,6 +381,9 @@ W
         [[maai5 jyu4 zek3 買魚脊]]
         buy the fish's back.
     ==
+    --
+    [[Otherwise, an alternative form of 鶺. **See $鶺zek3 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -366,6 +391,13 @@ C
     which has a different reading.
   - Williams' 起一條脊: Corrected _(1)t(')i(u/)_ (tiu1) to _(4)t(')i(u/)_ (tiu4).
   ==
+L
+  ====
+  * 【脊】 (tsjek)
+    ==
+    - (_noun-like_) spine, (_met._) grounds
+    ==
+  ====
 S
   ==
   - ($脊zik3)
@@ -449,6 +481,13 @@ W
     - To step carefully;
     - short steps, a mincing walk [[Kangxi: 小步也]];
     - ~~to walk here and there.~~
+    ==
+  ====
+L
+  ====
+  * 【蹐】 (tsjek)
+    ==
+    - (_verb-like_) [to] take small steps
     ==
   ====
 S
@@ -573,6 +612,14 @@ C
     notwithstanding all series appear under 第七英影應益.
     I have corrected Williams by placing 隻 under _chek(8)_ (zek3) here.
   ==
+L
+  ====
+  * 【隻】 (tsyek)
+    ==
+    - (_adjective-like_) single
+    - (_classifier_)
+    ==
+  ====
 S
   ==
   - ($隻zik3)
@@ -586,6 +633,10 @@ R
   ⿃ + 10
 U
   U+9DBA
+A
+  ==
+  - $脊3
+  ==
 V
   ==
   - zik3 (alternative)
@@ -602,6 +653,17 @@ W
     - it has a mottled, black neck;
     - another name for it is _(4)ts(')(i/)n (5)m(o\)_ [[cin4 mou5 錢母]],
       or money mother.
+    ==
+  ====
+L
+  ====
+  * 【鶺】 (tsjek)
+    ==
+    - Used in [鶺鴒](/entries/zek#rendering-鶺鴒).
+    ==
+  * 【鶺鴒】 (tsjek leng)
+    ==
+    - (_noun-like_) wagtail
     ==
   ====
 S

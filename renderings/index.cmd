@@ -1601,6 +1601,13 @@ window.onload = applyFilter;
       - (_noun-like_) defect
       ==
   //
+    , `dzjek`
+    , [瘠](/entries/zek#rendering-瘠)
+    ,
+      ==
+      - (_adjective-like_) emaciated, (_met._) lean
+      ==
+  //
     , `dzjem`
     , [潛~(dive)](/entries/cim#rendering-潛-dive)
     ,
@@ -4434,6 +4441,34 @@ window.onload = applyFilter;
       - (_verb-like_) [to] borrow, [to] lend
       ==
   //
+    , `tsjek`
+    , [脊](/entries/zek#rendering-脊)
+    ,
+      ==
+      - (_noun-like_) spine, (_met._) grounds
+      ==
+  //
+    , `tsjek`
+    , [蹐](/entries/zek#rendering-蹐)
+    ,
+      ==
+      - (_verb-like_) [to] take small steps
+      ==
+  //
+    , `tsjek`
+    , [鶺](/entries/zek#rendering-鶺)
+    ,
+      ==
+      - Used in [鶺鴒](/entries/zek#rendering-鶺鴒).
+      ==
+  //
+    , `tsjek leng`
+    , [鶺鴒](/entries/zek#rendering-鶺鴒)
+    ,
+      ==
+      - (_noun-like_) wagtail
+      ==
+  //
     , `tsjem`
     , [殲](/entries/cim#rendering-殲)
     ,
@@ -5033,6 +5068,13 @@ window.onload = applyFilter;
       ==
   //
     , `tsyaeH`
+    , [炙](/entries/zek#rendering-炙)
+    ,
+      ==
+      - (_verb-like_) [to] broil
+      ==
+  //
+    , `tsyaeH`
     , [蔗](/entries/ze#rendering-蔗)
     ,
       ==
@@ -5068,6 +5110,28 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] cut out, [to] make
+      ==
+  //
+    , `tsyek`
+    , [摭](/entries/zek#rendering-摭)
+    ,
+      ==
+      - (_verb-like_) [to] pick up, [to] pick
+      ==
+  //
+    , `tsyek`
+    , [炙](/entries/zek#rendering-炙)
+    ,
+      ==
+      - (_verb-like_) [to] broil
+      ==
+  //
+    , `tsyek`
+    , [隻](/entries/zek#rendering-隻)
+    ,
+      ==
+      - (_adjective-like_) single
+      - (_classifier_)
       ==
   //
     , `tsyet`
