@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ze
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -133,6 +133,13 @@ C
     was the utterance of the wealthy man 黔敖
     as he handed out food and drink to the famished.
   ==
+L
+  ====
+  * 【嗟】 (tsjae)
+    ==
+    - (_interjection_) alas
+    ==
+  ====
 $$
 
 ###+ 姐1 | _(1)Ts(e/)_ [[ze1]]
@@ -180,6 +187,13 @@ C
   ==
   - Fan Wan entry: Normalised headword ⿱罓且 to 罝.
   ==
+L
+  ====
+  * 【罝】 (tsjae)
+    ==
+    - (_noun-like_) rabbit-net
+    ==
+  ====
 $$
 
 ### 遮1 | _(1)Ch(e/)_ [[ze1]]
@@ -228,6 +242,14 @@ W
     - _(1)ch(e/) (4)m(u/)n_
         [[ze1 mun4 遮瞞]],
         to hide from.
+    ==
+  ====
+L
+  ====
+  * 【遮】 (tsyae)
+    ==
+    - (_verb-like_) [to] block
+    - (_verb-like_) [to] cover
     ==
   ====
 E
@@ -400,6 +422,14 @@ C
   - Williams' 死者: Corrected _sz'(3)_ (si3) to _(2)sz'_ (si2).
   - Williams' 中也者天下之大本也: Changed _(5)h(a/)_ (haa5) to modern _h(a/)(6)_ (haa6).
   ==
+L
+  ====
+  * 【者】 (tsyaeX)
+    ==
+    - (_pronoun-like_) he that, that which, one, -er
+    - (_speech-assist_)
+    ==
+  ====
 $$
 
 ### 赭2 | _(2)Ch(e/)_ [[ze2]]
@@ -434,6 +464,13 @@ C
   ==
   - Williams' "carnation": In the (now) archaic sense of reddish skin colour.
   ==
+L
+  ====
+  * 【赭】 (tsyaeX)
+    ==
+    - (_noun-like_) red-ochre
+    ==
+  ====
 $$
 
 ###+ 這2 | _(2)Ch(e/)_ [[ze2]]
@@ -511,6 +548,10 @@ R
   ⼈ + 8
 U
   U+501F
+V
+  ==
+  - zek3 (alternative per 《廣韻》資昔切)
+  ==
 F
   ==
   - (F2.84 借) 假借借貸又推獎也
@@ -580,6 +621,13 @@ C
   - Williams' 借路行: Changed _(4)hang_ (hang4)
     to vernacular reading _(4)h(a/)ng_ (haang4).
   ==
+L
+  ====
+  * 【借】 (tsjaeH, tsjek)
+    ==
+    - (_verb-like_) [to] borrow, [to] lend
+    ==
+  ====
 $$
 
 ### 啫3 | _Ch(e/)(3)_ [[ze3]]
@@ -675,6 +723,13 @@ W
     [[Otherwise, an alternative form of 蔗. **See $蔗ze3 for the canonical entry.**]]
     --
   ====
+L
+  ====
+  * 【柘】 (tsyaeH)
+    ==
+    - (_noun-like_) melonberry-tree, melonberry
+    ==
+  ====
 $$
 
 ### 樜3 | _Ch(e/)(3)_ [[ze3]]
@@ -759,6 +814,13 @@ C
   ==
   - Williams' 倒啖蔗: Corrected _(2)t(o\)_ (dou2) to _t(o\)(3)_ (dou3).
   ==
+L
+  ====
+  * 【蔗】 (tsyaeH)
+    ==
+    - (_noun-like_) sugarcane
+    ==
+  ====
 $$
 
 ### 這3 | _Ch(e/)(3)_ [[ze3]]
@@ -852,6 +914,13 @@ C
   - Williams' "having trees", "an arbor": This is a misreading of Kangxi 有木曰榭.
     Here, 木 means "timber" in the sense of construction, rather than "tree".
   ==
+L
+  ====
+  * 【榭】 (zjaeH)
+    ==
+    - (_noun-like_) raised-pavilion
+    ==
+  ====
 $$
 
 ### 灺6 | _Ts(e/)(6)_ [[ze6]]
@@ -954,6 +1023,13 @@ P
   1. To ask.
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【謝】 (zjaeH)
+    ==
+    - (_verb-like_) [to] decline, [to] renounce, (_met._) [to] apologise, [to] wither
+    ==
+  ====
 E
   --
   Cantonese prefers 多謝 over 謝謝.

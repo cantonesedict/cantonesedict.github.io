@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-03-10
+* %date-modified --> 2026-03-11
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -4372,10 +4372,31 @@ window.onload = applyFilter;
       ==
   //
     , `tsjae`
+    , [嗟](/entries/ze#rendering-嗟)
+    ,
+      ==
+      - (_interjection_) alas
+      ==
+  //
+    , `tsjae`
     , [瘥](/entries/co#rendering-瘥)
     ,
       ==
       - (_noun-like_) ailment, (_met._) plague
+      ==
+  //
+    , `tsjae`
+    , [罝](/entries/ze#rendering-罝)
+    ,
+      ==
+      - (_noun-like_) rabbit-net
+      ==
+  //
+    , `tsjaeH`
+    , [借](/entries/ze#rendering-借)
+    ,
+      ==
+      - (_verb-like_) [to] borrow, [to] lend
       ==
   //
     , `tsjejH`
@@ -4404,6 +4425,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) juncture, connection, (_met._) time
+      ==
+  //
+    , `tsjek`
+    , [借](/entries/ze#rendering-借)
+    ,
+      ==
+      - (_verb-like_) [to] borrow, [to] lend
       ==
   //
     , `tsjem`
@@ -4972,6 +5000,43 @@ window.onload = applyFilter;
       ==
       - (_verb-like_) [to] break, [to] defeat, (_met._) [to] dampen
       - (_verb-like_) [to] push
+      ==
+  //
+    , `tsyae`
+    , [遮](/entries/ze#rendering-遮)
+    ,
+      ==
+      - (_verb-like_) [to] block
+      - (_verb-like_) [to] cover
+      ==
+  //
+    , `tsyaeX`
+    , [者](/entries/ze#rendering-者)
+    ,
+      ==
+      - (_pronoun-like_) he that, that which, one, -er
+      - (_speech-assist_)
+      ==
+  //
+    , `tsyaeX`
+    , [赭](/entries/ze#rendering-赭)
+    ,
+      ==
+      - (_noun-like_) red-ochre
+      ==
+  //
+    , `tsyaeH`
+    , [柘](/entries/ze#rendering-柘)
+    ,
+      ==
+      - (_noun-like_) melonberry-tree, melonberry
+      ==
+  //
+    , `tsyaeH`
+    , [蔗](/entries/ze#rendering-蔗)
+    ,
+      ==
+      - (_noun-like_) sugarcane
       ==
   //
     , `tsyak`
@@ -5923,6 +5988,20 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) wicked
+      ==
+  //
+    , `zjaeH`
+    , [榭](/entries/ze#rendering-榭)
+    ,
+      ==
+      - (_noun-like_) raised-pavilion
+      ==
+  //
+    , `zjaeH`
+    , [謝](/entries/ze#rendering-謝)
+    ,
+      ==
+      - (_verb-like_) [to] decline, [to] renounce, (_met._) [to] apologise, [to] wither
       ==
   //
     , `zjang`
