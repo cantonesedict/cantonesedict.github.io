@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2026-02-28
+* %date-modified --> 2026-03-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -588,6 +588,7 @@ $$
 - $查4
 - $槎4
 - $痄4
+- $苴4
 - $茶4
 ==
 </nav>
@@ -763,6 +764,27 @@ S
   ==
   - ($痄zaa2)
   - $痄zaa3
+  ==
+$$
+
+###+ 苴4 | _(4)Ch(')(a/)_ [[caa4]]
+
+$$
+R
+  ⾋ + 5
+U
+  U+82F4
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Plants floating in water (Kangxi: 水中浮草也), or withered plants (Kangxi: 苴是草木之枯槁者 etc.).
+  ++
+S
+  ==
+  - $苴zeoi1
   ==
 $$
 
