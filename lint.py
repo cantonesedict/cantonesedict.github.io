@@ -2332,9 +2332,16 @@ class CharacterEntry:
             ]:
                 raise LintException(f'invalid sense type `{sense_type}` in `{sense_line}`')
 
-            if sense_type in ['_speech-assist_', '_classifier_']:
+            if sense_type in ['_classifier_']:
                 if sense_renderings:
                     raise LintException(f'non-empty renderings for sense type `{sense_type}` in `{sense_line}`')
+            elif sense_type in ['_speech-assist_']:
+                for supplied_rendering in sense_renderings:
+                    if not (supplied_rendering.startswith('^[') and supplied_rendering.endswith(']')):
+                        raise LintException(
+                            f'non-empty rendering for sense type `{sense_type}` in `{sense_line}` '
+                            f'(suppress with caret and ensure fully supplied if legitimate)'
+                        )
             else:
                 if not sense_renderings:
                     raise LintException(f'empty renderings for sense type `{sense_type}` in `{sense_line}`')
