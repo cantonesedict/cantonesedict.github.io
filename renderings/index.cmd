@@ -1858,6 +1858,13 @@ window.onload = applyFilter;
       - (_noun-like_) confluence
       ==
   //
+    , `dzrae`
+    , [苴~(plant)](/entries/caa#rendering-苴-plant)
+    ,
+      ==
+      - (_noun-like_) [floating] withered-plant
+      ==
+  //
     , `dzraeH`
     , [乍](/entries/zaa#rendering-乍)
     ,
@@ -4062,6 +4069,20 @@ window.onload = applyFilter;
       - (_noun-like_) ulcer
       ==
   //
+    , `tshjo`
+    , [苴~(hemp)](/entries/zeoi#rendering-苴-hemp)
+    ,
+      ==
+      - (_noun-like_) hemp, hempseed
+      ==
+  //
+    , `tshjo`
+    , [苴~(insole)](/entries/zeoi#rendering-苴-insole)
+    ,
+      ==
+      - (_noun-like_) grass-insole
+      ==
+  //
     , `tshjoH`
     , [蜡~(unvoiced)](/entries/ceoi#rendering-蜡-unvoiced)
     ,
@@ -4505,6 +4526,20 @@ window.onload = applyFilter;
       ==
       - (_speech-assist_)
       - (_adjective-like_) many
+      ==
+  //
+    , `tsjo`
+    , [苴~(padding)](/entries/zeoi#rendering-苴-padding)
+    ,
+      ==
+      - (_noun-like_) grass-padding
+      ==
+  //
+    , `tsjoX`
+    , [苴~(insole)](/entries/zeoi#rendering-苴-insole)
+    ,
+      ==
+      - (_noun-like_) grass-insole
       ==
   //
     , `tsjowng`

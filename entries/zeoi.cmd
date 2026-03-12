@@ -295,7 +295,7 @@ U
   U+82F4
 V
   ==
-  - ceoi1 (per 《廣韻》七余切 for "grass-insole" sense)
+  - ceoi1 (per 《廣韻》七余切 for "grass-insole" sense and per 《集韻》千余切 for "hempseed" sense)
   - zeoi2 (per 《廣韻》子與切 for "grass-insole" sense)
   ==
 F
@@ -306,7 +306,7 @@ W
   ====
   - [[Page~594 (1)苴]]
     ==
-    - ~~The female~~ hemp ~~plant~~ [[Kangxi: 麻也]];
+    - ~~The female~~ hemp ~~plant~~ [[Kangxi: 麻也]] ``or hempseed`` [[Kangxi: 苴麻子也]];
     - sackcloth;
     - a rush, a sedge used for sandals [[Kangxi: 履中草]];
     - coarse, unpolished;
@@ -319,6 +319,25 @@ W
     - _(1)ts(u:) ch(e/)ung(6)_
         [[zeoi1 zoeng6 苴杖]]
         the mourner's staff.
+    ==
+  ====
+P
+  ++
+  1. Grass padding (Kangxi: 苴藉也).
+  ++
+L
+  ====
+  * 【苴-hemp】 (tshjo)
+    ==
+    - (_noun-like_) hemp, hempseed
+    ==
+  * 【苴-insole】 (tshjo, tsjoX)
+    ==
+    - (_noun-like_) grass-insole
+    ==
+  * 【苴-padding】 (tsjo)
+    ==
+    - (_noun-like_) grass-padding
     ==
   ====
 S

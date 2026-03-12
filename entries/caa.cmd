@@ -782,6 +782,13 @@ P
   ++
   1. Plants floating in water (Kangxi: 水中浮草也), or withered plants (Kangxi: 苴是草木之枯槁者 etc.).
   ++
+L
+  ====
+  * 【苴-plant】 (dzrae)
+    ==
+    - (_noun-like_) [floating] withered-plant
+    ==
+  ====
 S
   ==
   - $苴zeoi1
