@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ze
-* %date-modified --> 2026-03-11
+* %date-modified --> 2026-03-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1027,7 +1027,7 @@ L
   ====
   * 【謝】 (zjaeH)
     ==
-    - (_verb-like_) [to] decline, [to] renounce, (_met._) [to] apologise, [to] wither
+    - (_verb-like_) [to] decline, [to] renounce, (_met._) [to] apologise, [to] wilt
     ==
   ====
 E

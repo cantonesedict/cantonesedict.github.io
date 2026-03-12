@@ -6080,7 +6080,7 @@ window.onload = applyFilter;
     , [謝](/entries/ze#rendering-謝)
     ,
       ==
-      - (_verb-like_) [to] decline, [to] renounce, (_met._) [to] apologise, [to] wither
+      - (_verb-like_) [to] decline, [to] renounce, (_met._) [to] apologise, [to] wilt
       ==
   //
     , `zjang`
