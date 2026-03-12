@@ -372,6 +372,21 @@ W
     - a marsh [[Kangxi: 澤生草曰菹]].
     ==
   ====
+C
+  ==
+  - Strictly, the pre-merger reading should be _(1)ch(u:)_ per 《廣韻》側魚切.
+    Nevertheless, the reading _(1)ts(u:)_ is not unattested;
+    《正韻牋》 has the reading 子余切,
+    covering both the "pickle" sense and the "marsh" sense.
+  ==
+L
+  ====
+  * 【菹】 (tsrjo)
+    ==
+    - (_noun-like_) pickle
+    - (_noun-like_) marsh
+    ==
+  ====
 $$
 
 ### 蛆1 | _(1)Ts(u:)_ [[zeoi1]]
@@ -529,6 +544,13 @@ C
   - Williams' "to sue": In the sense of seeking by request.
   - Williams' "to expel": This is a misreading of Kangxi 逐也.
   ==
+L
+  ====
+  * 【追】 (trwij)
+    ==
+    - (_verb-like_) [to] chase (after), (_met._) [to] reminisce, [to] send off
+    ==
+  ====
 S
   ==
   - $追deoi1 (TODO)
@@ -573,6 +595,13 @@ C
   ==
   - Williams' "pencil": In the (now) dated sense of a brush.
   ==
+L
+  ====
+  * 【錐】 (tsywij)
+    ==
+    - (_noun-like_) awl
+    ==
+  ====
 $$
 
 ###+ 隹1 | _(1)Chui_ [[zeoi1]]
@@ -618,6 +647,17 @@ P
   ++
   1. A type of waterbird.
   ++
+L
+  ====
+  * 【雎】 (tshjo)
+    ==
+    - Used in [雎鳩](/entries/zeoi#rendering-雎鳩).
+    ==
+  * 【雎鳩】 (tshjo kjuw)
+    ==
+    - (_noun-like_) water bird
+    ==
+  ====
 $$
 
 ### 騅1 | _(1)Chui_ [[zeoi1]]
@@ -639,6 +679,13 @@ W
     - _(1)(u/) (1)chui (5)m(a/)_
         [[wu1 zeoi1 maa5 烏騅馬]],
         the charger of H(a/)ng Y(u/) [[項羽]] of Tso [[楚]].
+    ==
+  ====
+L
+  ====
+  * 【騅】 (tsywij)
+    ==
+    - (_noun-like_) piebald
     ==
   ====
 $$

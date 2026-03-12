@@ -3443,6 +3443,13 @@ window.onload = applyFilter;
       - (_adjective-like_) sincere
       ==
   //
+    , `trwij`
+    , [追](/entries/zeoi#rendering-追)
+    ,
+      ==
+      - (_verb-like_) [to] chase (after), (_met._) [to] reminisce, [to] send off
+      ==
+  //
     , `tsanH`
     , [讚](/entries/zaan#rendering-讚)
     ,
@@ -4081,6 +4088,20 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) grass-insole
+      ==
+  //
+    , `tshjo`
+    , [雎](/entries/zeoi#rendering-雎)
+    ,
+      ==
+      - Used in [雎鳩](/entries/zeoi#rendering-雎鳩).
+      ==
+  //
+    , `tshjo kjuw`
+    , [雎鳩](/entries/zeoi#rendering-雎鳩)
+    ,
+      ==
+      - (_noun-like_) water bird
       ==
   //
     , `tshjoH`
@@ -5020,6 +5041,14 @@ window.onload = applyFilter;
       - (_adjective-like_) huddled, accordant
       ==
   //
+    , `tsrjo`
+    , [菹](/entries/zeoi#rendering-菹)
+    ,
+      ==
+      - (_noun-like_) pickle
+      - (_noun-like_) marsh
+      ==
+  //
     , `tsrjuw`
     , [緅](/entries/zau#rendering-緅)
     ,
@@ -5749,6 +5778,20 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] beat
+      ==
+  //
+    , `tsywij`
+    , [錐](/entries/zeoi#rendering-錐)
+    ,
+      ==
+      - (_noun-like_) awl
+      ==
+  //
+    , `tsywij`
+    , [騅](/entries/zeoi#rendering-騅)
+    ,
+      ==
+      - (_noun-like_) piebald
       ==
   //
     , `xjun`
