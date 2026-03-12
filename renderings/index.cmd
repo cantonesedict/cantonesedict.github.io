@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-03-11
+* %date-modified --> 2026-03-12
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -3873,7 +3873,7 @@ window.onload = applyFilter;
       ==
   //
     , `tshjaeX`
-    , [且](/entries/ce#rendering-且)
+    , [且~(rising)](/entries/ce#rendering-且-rising)
     ,
       ==
       - (_conjunction-like_) and (also), moreover
@@ -4053,6 +4053,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] change countenance
+      ==
+  //
+    , `tshjo`
+    , [疽](/entries/zeoi#rendering-疽)
+    ,
+      ==
+      - (_noun-like_) ulcer
       ==
   //
     , `tshjoH`
@@ -4490,6 +4497,14 @@ window.onload = applyFilter;
     ,
       ==
       - Used in [啁噍](/entries/zau#rendering-啁噍).
+      ==
+  //
+    , `tsjo`
+    , [且~(level)](/entries/zeoi#rendering-且-level)
+    ,
+      ==
+      - (_speech-assist_)
+      - (_adjective-like_) many
       ==
   //
     , `tsjowng`

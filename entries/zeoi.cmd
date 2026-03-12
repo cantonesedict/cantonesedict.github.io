@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -94,6 +94,14 @@ P
   1. Numerous, many (Kangxi: 多貌).
   1. The sixth lunar month (Kangxi: 六月爲且).
   ++
+L
+  ====
+  * 【且-level】 (tsjo)
+    ==
+    - (_speech-assist_)
+    - (_adjective-like_) many
+    ==
+  ====
 S
   ==
   - $且ce2
@@ -194,6 +202,13 @@ C
   ==
   - Fan Wan entry: Corrected ⿸疒⿰⿱丿邑隹 to 癰.
   ==
+L
+  ====
+  * 【疽】 (tshjo)
+    ==
+    - (_noun-like_) ulcer
+    ==
+  ====
 $$
 
 ### 睢1 | _(1)Ts(u:)_ [[zeoi1]]

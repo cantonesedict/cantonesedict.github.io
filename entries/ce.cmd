@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -323,7 +323,7 @@ P
   ++
 L
   ====
-  * 【且】 (tshjaeX)
+  * 【且-rising】 (tshjaeX)
     ==
     - (_conjunction-like_) and (also), moreover
     - (_determiner-like_) this
