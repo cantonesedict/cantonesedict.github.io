@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1363,7 +1363,7 @@ L
   ====
   * 【鬯】 (trhjangH)
     ==
-    - (_noun-like_) fragrant-alcohol
+    - (_noun-like_) fragrant-wine
     ==
   ====
 $$

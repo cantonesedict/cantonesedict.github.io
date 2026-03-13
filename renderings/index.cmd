@@ -3237,7 +3237,7 @@ window.onload = applyFilter;
     , [鬯](/entries/coeng#rendering-鬯)
     ,
       ==
-      - (_noun-like_) fragrant-alcohol
+      - (_noun-like_) fragrant-wine
       ==
   //
     , `trhjeX`
@@ -4684,7 +4684,7 @@ window.onload = applyFilter;
     , [酒](/entries/zau#rendering-酒)
     ,
       ==
-      - (_noun-like_) alcohol
+      - (_noun-like_) wine
       ==
   //
     , `tsjuwk`
@@ -4862,8 +4862,8 @@ window.onload = applyFilter;
     , [醆](/entries/zaan#rendering-醆)
     ,
       ==
-      - (_noun-like_) alcohol-cup
-      - (_noun-like_) slightly-clarified-alcohol
+      - (_noun-like_) wine-cup
+      - (_noun-like_) slightly-clarified-wine
       ==
   //
     , `tsreang`
@@ -5223,7 +5223,7 @@ window.onload = applyFilter;
     , [樽](/entries/zeon#rendering-樽)
     ,
       ==
-      - (_noun-like_) alcohol-vase
+      - (_noun-like_) wine-vase
       ==
   //
     , `tsyae`

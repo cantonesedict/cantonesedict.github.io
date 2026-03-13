@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2026-03-10
+* %date-modified --> 2026-03-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1431,7 +1431,7 @@ L
   ====
   * 【酒】 (tsjuwX)
     ==
-    - (_noun-like_) alcohol
+    - (_noun-like_) wine
     ==
   ====
 $$

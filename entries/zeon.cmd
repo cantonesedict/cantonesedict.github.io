@@ -250,7 +250,7 @@ L
   ====
   * 【樽】 (tswon)
     ==
-    - (_noun-like_) alcohol-vase
+    - (_noun-like_) wine-vase
     ==
   ====
 E
