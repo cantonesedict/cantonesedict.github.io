@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2026-03-12
+* %date-modified --> 2026-03-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -736,11 +736,11 @@ W
   ====
 C
   ==
-  - Williams' 咀嚼吓: Changed _ts(e/)uk(9)_ (zoek6) to common reading _ts(e/)uk(8)_ (zoek3).
-  - Williams' 含英咀華: Corrected _(1)w(a/)_ (waa1) to _(4)w(a/)_ (waa4).
   - It is only in modern Cantonese
     that 咀 _(2)ts(u:)_ and 嘴 _(2)tsui_ are homophonous (both zeoi2),
     and that 咀 is an alternative form of 嘴.
+  - Williams' 咀嚼吓: Changed _ts(e/)uk(9)_ (zoek6) to common reading _ts(e/)uk(8)_ (zoek3).
+  - Williams' 含英咀華: Corrected _(1)w(a/)_ (waa1) to _(4)w(a/)_ (waa4).
   ==
 $$
 
@@ -815,11 +815,11 @@ W
   ====
 C
   ==
-  - Williams' 你冇多嘴: Corrected _(4)^to_ (do4) to _(1)to_ (do1).
-  - Williams' 嘴講易: Corrected _(i/)(3)_ (ji3) to _(i/)(6)_ (ji6).
   - It is only in modern Cantonese
     that 咀 _(2)ts(u:)_ and 嘴 _(2)tsui_ are homophonous (both zeoi2),
     and that 咀 is an alternative form of 嘴.
+  - Williams' 你冇多嘴: Corrected _(4)^to_ (do4) to _(1)to_ (do1).
+  - Williams' 嘴講易: Corrected _(i/)(3)_ (ji3) to _(i/)(6)_ (ji6).
   ==
 $$
 
