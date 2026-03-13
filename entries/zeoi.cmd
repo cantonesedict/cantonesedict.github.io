@@ -1165,7 +1165,7 @@ U
 V
   ==
   - zeoi6 (per Fan Wan, common)
-  - zyut3 (common in 點綴)
+  - zyut3 (per 《廣韻》陟劣切 for "stitch/connect" senses and common in 點綴)
   - zyut6 (common in 點綴)
   ==
 F
@@ -1183,11 +1183,11 @@ W
     - mixed, variegated [[Kangxi: 綴雜彩有文之具]];
     - to oversee royal robes [[Kangxi: 掌衣服 etc.]].
     ==
-  - [[Page~42 綴(8) _Ch(u:)t(8)_ (zyut3); here corrected to _Chui(3)_ (zeoi3)]]
+  - [[Page~42 綴(8) _Ch(u:)t(8)_ (zyut3); here normalised to _Chui(3)_ (zeoi3)]]
     ==
     - To connect, to join;
     - [[...]];
-    - a band of posture-makers.
+    - ~~a band of posture-makers.~~
     ==
   ====
 C
@@ -1201,6 +1201,13 @@ P
   ++
   1. Undeviating (Kangxi: 不乖離之貌).
   ++
+L
+  ====
+  * 【綴】 (trjwet, trjwejH)
+    ==
+    - (_verb-like_) [to] stitch (together), [to] connect
+    ==
+  ====
 S
   ==
   - ($綴zeoi6)
@@ -1275,6 +1282,14 @@ W
         ~~to humor and flatter people~~ ``excessively deferential unto others``.
     ==
   ====
+L
+  ====
+  * 【足-departing】 (tsjuH)
+    ==
+    - (_verb-like_) [to] plenish, [to] heap
+    - (_adjective-like_) excessive
+    ==
+  ====
 S
   ==
   - $足zuk1
@@ -1327,6 +1342,13 @@ W
     - _t(a/)i(6) tsui(3)_
         [[daai6 zeoi3 大醉]]
         dead drunk.
+    ==
+  ====
+L
+  ====
+  * 【醉】 (tswijH)
+    ==
+    - (_adjective-like_) drunk
     ==
   ====
 $$
@@ -1440,6 +1462,13 @@ C
   ==
   - Williams' "to pull on": Specifically, to tug downward by hung weight.
   ==
+L
+  ====
+  * 【墜】 (drwijH)
+    ==
+    - (_verb-like_) [to] fall
+    ==
+  ====
 $$
 
 ### 序6 | _Ts(u:)(6)_ [[zeoi6]]
@@ -1495,6 +1524,16 @@ W
     - _(1)t(')(i/)n ts(u:)(6)_
         [[tin1 zeoi6 天序]]
         the five social relations.
+    ==
+  ====
+L
+  ====
+  * 【序】 (zjoX)
+    ==
+    - (_noun-like_) side-wall
+    - (_noun-like_) learning-hall
+    - (_noun-like_) order
+    - (_noun-like_) preface
     ==
   ====
 $$
@@ -1611,6 +1650,14 @@ W
         lead put in sycee.
     ==
   ====
+L
+  ====
+  * 【縋】 (drjweH)
+    ==
+    - (_noun-like_) (hung) cord
+    - (_verb-like_) [to] hang cord
+    ==
+  ====
 $$
 
 ### 罪6 | _Ts(u/)i(6)_ [[zeoi6]]
@@ -1682,6 +1729,13 @@ C
   ==
   - Williams' 罪過: Also a polite (interjectional) apology.
   ==
+L
+  ====
+  * 【罪】 (dzwojX)
+    ==
+    - (_noun-like_) crime, offence
+    ==
+  ====
 $$
 
 ### 聚6 | _Ts(u:)(6)_ [[zeoi6]]
@@ -1729,6 +1783,13 @@ W
         to call a meeting
     ==
   ====
+L
+  ====
+  * 【聚】 (dzjuX, dzjuH)
+    ==
+    - (_verb-like_) [to] gather
+    ==
+  ====
 $$
 
 ### 藇6 | _Ts(u:)(6)_ [[zeoi6]]
@@ -1752,9 +1813,17 @@ W
     [[...]]
     --
   ====
+L
+  ====
+  * 【藇】 (zjoX)
+    ==
+    - (_adjective-like_) pleasant, fine
+    ==
+  ====
 S
   ==
   - $藇jyu4 (TODO)
+  - $藇jyu6 (TODO) <## same as $藷jyu6(?) ##>
   ==
 $$
 
@@ -1801,6 +1870,15 @@ C
   ==
   - Fan Wan entry: Corrected {𢪱=⿰扌勿} to 物.
   ==
+L
+  ====
+  * 【贅】 (tsywejH)
+    ==
+    - (_verb-like_) [to] pledge
+    - (_verb-like_) [to] annex
+    - (_noun-like_) excrescence, (_met._) superfluous
+    ==
+  ====
 $$
 
 ### 辠6 | _Ts(u/)i(6)_ [[zeoi6]]
@@ -1873,4 +1951,11 @@ P
   ++
   1. The silver carp.
   ++
+L
+  ====
+  * 【鱮】 (zjoX)
+    ==
+    - (_noun-like_) tench
+    ==
+  ====
 $$

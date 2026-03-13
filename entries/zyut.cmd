@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyut
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-13
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -472,7 +472,7 @@ W
     [[Alternative form of 輟 (for the "stop" sense). See $輟zyut3.]]
     --
     --
-    [[Otherwise, a reading variation (in 點綴). **See $綴zeoi3 for the canonical entry.**]]
+    [[Otherwise, a reading variation (for the "stitch/connect" senses and in 點綴). **See $綴zeoi3 for the canonical entry.**]]
     --
   ====
 P

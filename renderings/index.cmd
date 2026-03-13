@@ -1347,12 +1347,27 @@ window.onload = applyFilter;
       - (_noun-like_) insect, creature
       ==
   //
+    , `drjweH`
+    , [縋](/entries/zeoi#rendering-縋)
+    ,
+      ==
+      - (_noun-like_) (hung) cord
+      - (_verb-like_) [to] hang cord
+      ==
+  //
     , `drjwen`
     , [傳~(verb)](/entries/cyun#rendering-傳-verb)
     ,
       ==
       - (_verb-like_) [to] transmit
       - (_verb-like_) [to] summon
+      ==
+  //
+    , `drwijH`
+    , [墜](/entries/zeoi#rendering-墜)
+    ,
+      ==
+      - (_verb-like_) [to] fall
       ==
   //
     , `duwng`
@@ -1731,6 +1746,20 @@ window.onload = applyFilter;
       ==
       - (_verb-like_) [to] follow, [to] pursue
       - (_preposition-like_) from
+      ==
+  //
+    , `dzjuX`
+    , [聚](/entries/zeoi#rendering-聚)
+    ,
+      ==
+      - (_verb-like_) [to] gather
+      ==
+  //
+    , `dzjuH`
+    , [聚](/entries/zeoi#rendering-聚)
+    ,
+      ==
+      - (_verb-like_) [to] gather
       ==
   //
     , `dzjuw`
@@ -2134,6 +2163,13 @@ window.onload = applyFilter;
       ==
       - (_verb-like_) [to] push
       - (_verb-like_) [to] break, [to] destroy
+      ==
+  //
+    , `dzwojX`
+    , [罪](/entries/zeoi#rendering-罪)
+    ,
+      ==
+      - (_noun-like_) crime, offence
       ==
   //
     , `dzwon`
@@ -3452,6 +3488,20 @@ window.onload = applyFilter;
       - (_adjective-like_) sincere
       ==
   //
+    , `trjwejH`
+    , [綴](/entries/zeoi#rendering-綴)
+    ,
+      ==
+      - (_verb-like_) [to] stitch (together), [to] connect
+      ==
+  //
+    , `trjwet`
+    , [綴](/entries/zeoi#rendering-綴)
+    ,
+      ==
+      - (_verb-like_) [to] stitch (together), [to] connect
+      ==
+  //
     , `trwij`
     , [追](/entries/zeoi#rendering-追)
     ,
@@ -4608,6 +4658,14 @@ window.onload = applyFilter;
       - (_adjective-like_) puce
       ==
   //
+    , `tsjuH`
+    , [足~(departing)](/entries/zeoi#rendering-足-departing)
+    ,
+      ==
+      - (_verb-like_) [to] plenish, [to] heap
+      - (_adjective-like_) excessive
+      ==
+  //
     , `tsjuw`
     , [遒](/entries/cau#rendering-遒)
     ,
@@ -5138,6 +5196,13 @@ window.onload = applyFilter;
       ==
       - (_verb-like_) [to] collect
       - (_determiner-like_) -est, -most
+      ==
+  //
+    , `tswijH`
+    , [醉](/entries/zeoi#rendering-醉)
+    ,
+      ==
+      - (_adjective-like_) drunk
       ==
   //
     , `tsyae`
@@ -5811,6 +5876,15 @@ window.onload = applyFilter;
       - (_adjective-like_) apprehensive
       ==
   //
+    , `tsywejH`
+    , [贅](/entries/zeoi#rendering-贅)
+    ,
+      ==
+      - (_verb-like_) [to] pledge
+      - (_verb-like_) [to] annex
+      - (_noun-like_) excrescence, (_met._) superfluous
+      ==
+  //
     , `tsywij`
     , [錐](/entries/zeoi#rendering-錐)
     ,
@@ -6229,6 +6303,30 @@ window.onload = applyFilter;
       ==
       - (_adverb-like_) slowly, gently
       - (_adjective-like_) composed, dignified
+      ==
+  //
+    , `zjoX`
+    , [序](/entries/zeoi#rendering-序)
+    ,
+      ==
+      - (_noun-like_) side-wall
+      - (_noun-like_) learning-hall
+      - (_noun-like_) order
+      - (_noun-like_) preface
+      ==
+  //
+    , `zjoX`
+    , [藇](/entries/zeoi#rendering-藇)
+    ,
+      ==
+      - (_adjective-like_) pleasant, fine
+      ==
+  //
+    , `zjoX`
+    , [鱮](/entries/zeoi#rendering-鱮)
+    ,
+      ==
+      - (_noun-like_) tench
       ==
   //
     , `zjowng`
