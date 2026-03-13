@@ -3509,6 +3509,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] chase (after), (_met._) [to] reminisce, [to] send off
       ==
   //
+    , `trwin`
+    , [屯~(unvoiced)](/entries/zeon#rendering-屯-unvoiced)
+    ,
+      ==
+      - (_adjective-like_) difficult
+      ==
+  //
     , `tsanH`
     , [讚](/entries/zaan#rendering-讚)
     ,
@@ -5101,6 +5108,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] slander
       ==
   //
+    , `tsrin`
+    , [榛](/entries/zeon#rendering-榛)
+    ,
+      ==
+      - (_noun-like_) hazel
+      ==
+  //
     , `tsrip`
     , [戢](/entries/cap#rendering-戢)
     ,
@@ -5203,6 +5217,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) drunk
+      ==
+  //
+    , `tswon`
+    , [樽](/entries/zeon#rendering-樽)
+    ,
+      ==
+      - (_noun-like_) alcohol-vase
       ==
   //
     , `tsyae`

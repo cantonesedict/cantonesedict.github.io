@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -155,6 +155,13 @@ C
   - Williams' "Budding plants": This is a misreading of Kangxi 象艸木之初生
     as a definition, when it is simply the 《說文》 glyph explanation.
   ==
+L
+  ====
+  * 【屯-unvoiced】 (trwin)
+    ==
+    - (_adjective-like_) difficult
+    ==
+  ====
 S
   ==
   - $屯tyun4 (TODO)
@@ -186,6 +193,13 @@ C
   - Strictly, the pre-merger reading should be _(1)chun_ per 《廣韻》側詵切.
   - Fan Wan entry: Changed 橧 to 檜.
   ==
+L
+  ====
+  * 【榛】 (tsrin)
+    ==
+    - (_noun-like_) hazel
+    ==
+  ====
 $$
 
 ### 樽1 | _(1)Tsun_ [[zeon1]]
@@ -232,6 +246,13 @@ C
   ==
   - Fan Wan entry: Normalised ⿰𦈢尊 to 罇.
   ==
+L
+  ====
+  * 【樽】 (tswon)
+    ==
+    - (_noun-like_) alcohol-vase
+    ==
+  ====
 E
   ====
   - 【樽】 (zeon1)
