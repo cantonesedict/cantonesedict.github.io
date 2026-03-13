@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-03-12
+* %date-modified --> 2026-03-13
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -1714,6 +1714,15 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] blame
+      ==
+  //
+    , `dzjoX`
+    , [沮~(rising)](/entries/zeoi#rendering-沮-rising)
+    ,
+      ==
+      - (_verb-like_) [to] stop
+      - (_verb-like_) [to] scare
+      - (_verb-like_) [to] leak
       ==
   //
     , `dzjowng`
@@ -4563,6 +4572,13 @@ window.onload = applyFilter;
       - (_noun-like_) grass-insole
       ==
   //
+    , `tsjoH`
+    , [沮~(departing)](/entries/zeoi#rendering-沮-departing)
+    ,
+      ==
+      - (_adjective-like_) dank
+      ==
+  //
     , `tsjowng`
     , [從~(vertical)](/entries/zung#rendering-從-vertical)
     ,
@@ -5114,6 +5130,14 @@ window.onload = applyFilter;
       ==
       - (_verb-like_) [to] break, [to] defeat, (_met._) [to] dampen
       - (_verb-like_) [to] push
+      ==
+  //
+    , `tswajH`
+    , [最](/entries/zeoi#rendering-最)
+    ,
+      ==
+      - (_verb-like_) [to] collect
+      - (_determiner-like_) -est, -most
       ==
   //
     , `tsyae`
@@ -5778,6 +5802,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] beat
+      ==
+  //
+    , `tsyweH`
+    , [惴](/entries/zeoi#rendering-惴)
+    ,
+      ==
+      - (_adjective-like_) apprehensive
       ==
   //
     , `tsywij`

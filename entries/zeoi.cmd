@@ -832,7 +832,7 @@ U
   U+6CAE
 V
   ==
-  - ceoi1 (alternative per 《廣韻》七余切 for "halt" sense)
+  - ceoi1 (alternative per 《廣韻》七余切 for "stop" sense)
   - zeoi6 (per 《廣韻》慈吕切)
   ==
 F
@@ -845,7 +845,7 @@ W
     ==
     - To stop, to prohibit [[Kangxi: 止也]];
     - ~~to pass over;~~
-    - to divulge [[Kangxi: 沮泄謂泄漏也]];
+    - to divulge``, to leak`` [[Kangxi: 沮泄謂泄漏也]];
     - to destroy [[Kangxi: 壞也]];
     - to discomfit [[Kangxi: 敗也]];
     - to scare [[Kangxi: 沮謂恐怖之也]];
@@ -878,6 +878,15 @@ P
       - 沮喪 (zeoi2 song3): "Dejected."
       ==
   ++
+L
+  ====
+  * 【沮-rising】 (dzjoX)
+    ==
+    - (_verb-like_) [to] stop
+    - (_verb-like_) [to] scare
+    - (_verb-like_) [to] leak
+    ==
+  ====
 S
   ==
   - $沮zeoi1
@@ -1048,6 +1057,13 @@ P
   ++
   1. Anxious, apprehensive (Kangxi: 憂懼也).
   ++
+L
+  ====
+  * 【惴】 (tsyweH)
+    ==
+    - (_adjective-like_) apprehensive
+    ==
+  ====
 S
   ==
   - ($惴ceoi2)
@@ -1096,6 +1112,14 @@ W
         the most convenient, very handy.
     ==
   ====
+L
+  ====
+  * 【最】 (tswajH)
+    ==
+    - (_verb-like_) [to] collect
+    - (_determiner-like_) -est, -most
+    ==
+  ====
 $$
 
 ###+ 沮3 | _Ts(u:)(3)_ [[zeoi3]]
@@ -1115,6 +1139,13 @@ W
     - _shap(7) ~~(2)ts(u:)~~ ``ts(u:)(3)``_
         [[sap1 zeoi3 濕沮]],
         damp, dank.
+    ==
+  ====
+L
+  ====
+  * 【沮-departing】 (tsjoH)
+    ==
+    - (_adjective-like_) dank
     ==
   ====
 S
