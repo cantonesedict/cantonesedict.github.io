@@ -2217,6 +2217,15 @@ window.onload = applyFilter;
       - (_noun-like_) redeye-carp
       ==
   //
+    , `dzwot`
+    , [捽](/entries/zeot#rendering-捽)
+    ,
+      ==
+      - (_verb-like_) [to] grasp
+      - (_verb-like_) [to] pick
+      - (_verb-like_) [to] clash, [to] conflict
+      ==
+  //
     , `dzyuw`
     , [酬](/entries/cau#rendering-酬)
     ,
@@ -3393,6 +3402,21 @@ window.onload = applyFilter;
       - (_adjective-like_) empty
       ==
   //
+    , `trhwit`
+    , [怵](/entries/zeot#rendering-怵)
+    ,
+      ==
+      - (_verb-like_) [to] fear
+      - (_verb-like_) [to] pity, [to] sorrow
+      ==
+  //
+    , `trhwit`
+    , [黜](/entries/zeot#rendering-黜)
+    ,
+      ==
+      - (_verb-like_) [to] expel, [to] reject, [to] dismiss, [to] degrade
+      ==
+  //
     , `trin`
     , [珍](/entries/zan#rendering-珍)
     ,
@@ -4490,6 +4514,13 @@ window.onload = applyFilter;
       - (_noun-like_) inch
       ==
   //
+    , `tshwot`
+    , [卒~(abruptly)](/entries/cyut#rendering-卒-abruptly)
+    ,
+      ==
+      - (_adverb-like_) abruptly
+      ==
+  //
     , `tsiX`
     , [子](/entries/zi#rendering-子)
     ,
@@ -5041,6 +5072,13 @@ window.onload = applyFilter;
       ==
   //
     , `tsrhik`
+    , [惻](/entries/cak#rendering-惻)
+    ,
+      ==
+      - (_verb-like_) [to] compassion
+      ==
+  //
+    , `tsrhik`
     , [測](/entries/cak#rendering-測)
     ,
       ==
@@ -5344,11 +5382,27 @@ window.onload = applyFilter;
       - (_adjective-like_) grand, lofty
       ==
   //
+    , `tswit`
+    , [卒~(end)](/entries/zeot#rendering-卒-end)
+    ,
+      ==
+      - (_verb-like_) [to] end, [to] conclude
+      - (_adverb-like_) finally, completely
+      ==
+  //
     , `tswon`
     , [樽](/entries/zeon#rendering-樽)
     ,
       ==
       - (_noun-like_) wine-vase
+      ==
+  //
+    , `tswot`
+    , [卒~(serviceman)](/entries/zeot#rendering-卒-serviceman)
+    ,
+      ==
+      - (_noun-like_) serviceman
+      - (_noun-like_) troops
       ==
   //
     , `tsyae`

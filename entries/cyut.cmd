@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyut
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-14
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -89,6 +89,13 @@ C
   ==
   - Fan Wan entry: Corrected {𬨮=⿺辶東} to 速.
   ==
+L
+  ====
+  * 【卒-abruptly】 (tshwot)
+    ==
+    - (_adverb-like_) abruptly
+    ==
+  ====
 S
   ==
   - $卒zeot1

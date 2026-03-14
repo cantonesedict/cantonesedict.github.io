@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cak
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -82,6 +82,13 @@ C
   - Fan Wan entry: Corrected {𭙡=⿸广甬} to 痛.
   - Williams' 惻隱之心: Corrected _(4)yan_ (jan4) to _(2)yan_ (jan2).
   ==
+L
+  ====
+  * 【惻】 (tsrhik)
+    ==
+    - (_verb-like_) [to] compassion
+    ==
+  ====
 S
   ==
   - ($惻caak1)

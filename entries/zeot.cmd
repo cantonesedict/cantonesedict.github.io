@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeot
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-14
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -86,6 +86,19 @@ W
         to the last he was a good man.
     ==
   ====
+L
+  ====
+  * 【卒-end】 (tswit)
+    ==
+    - (_verb-like_) [to] end, [to] conclude
+    - (_adverb-like_) finally, completely
+    ==
+  * 【卒-serviceman】 (tswot)
+    ==
+    - (_noun-like_) serviceman
+    - (_noun-like_) troops
+    ==
+  ====
 E
   ====
   - 【卒之】 (zeot1 zi1)
@@ -138,6 +151,14 @@ P
   ++
   1. Pitiful, sorrowful (Kangxi: 悽愴也).
   ++
+L
+  ====
+  * 【怵】 (trhwit)
+    ==
+    - (_verb-like_) [to] fear
+    - (_verb-like_) [to] pity, [to] sorrow
+    ==
+  ====
 S
   ==
   - ($怵ceot1)
@@ -181,8 +202,17 @@ C
   ==
 P
   ++
-  1. To conflict (Kangxi: 交對也).
+  1. To conflict, to clash (Kangxi: 交對也).
   ++
+L
+  ====
+  * 【捽】 (dzwot)
+    ==
+    - (_verb-like_) [to] grasp
+    - (_verb-like_) [to] pick
+    - (_verb-like_) [to] clash, [to] conflict
+    ==
+  ====
 E
   ====
   - 【捽】 (zeot1)
@@ -289,6 +319,13 @@ P
   1. To abolish.
   1. To rebuke.
   ++
+L
+  ====
+  * 【黜】 (trhwit)
+    ==
+    - (_verb-like_) [to] expel, [to] reject, [to] dismiss, [to] degrade
+    ==
+  ====
 S
   ==
   - ($黜ceot1)
