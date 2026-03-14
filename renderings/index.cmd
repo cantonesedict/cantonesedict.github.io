@@ -23,12 +23,12 @@ ReplacementSequence: #.ensure-baxter
 
 ||||{.modern .input-container}
 --
-<label for="filter">__Filter for Baxter/Term:__</label>
-<input type="text" id="filter" oninput="applyFilter()" placeholder="(tones are ignored)" lang="zh-Hant">
+<label for="keys-filter">__Filter for Baxter/Term:__</label>
+<input type="text" id="keys-filter" oninput="applyFilter()" placeholder="(tones are ignored)" lang="zh-Hant">
 --
 <noscript>
 --
-**JavaScript is required for filter to work.**
+**JavaScript is required for filters to work.**
 --
 </noscript>
 ||||
@@ -39,22 +39,22 @@ function normaliseString(str)
   return str.toLowerCase().trim().replace(/\s+/g, ' ');
 }
 
-function matchBaxter(filterString, baxter)
+function matchBaxter(keysFilterString, baxter)
 {
   let tonelessBaxter = baxter.replace(/[XH]\b/gi, '');
-  let tonelessFilterString = filterString.replace(/[XH]\b/gi, '');
-  return tonelessBaxter.indexOf(tonelessFilterString) > -1;
+  let tonelessKeysFilterString = keysFilterString.replace(/[XH]\b/gi, '');
+  return tonelessBaxter.indexOf(tonelessKeysFilterString) > -1;
 }
 
-function matchTerm(filterString, term)
+function matchTerm(keysFilterString, term)
 {
-  return term.indexOf(filterString) > -1;
+  return term.indexOf(keysFilterString) > -1;
 }
 
 function applyFilter()
 {
-  let filterElement = document.getElementById('filter');
-  let filterString = normaliseString(filterElement.value);
+  let keysFilterElement = document.getElementById('keys-filter');
+  let keysFilterString = normaliseString(keysFilterElement.value);
 
   for (const rowElement of document.querySelectorAll('tbody tr'))
   {
@@ -62,8 +62,8 @@ function applyFilter()
     let baxter = normaliseString(cells[0].textContent);
     let term = normaliseString(cells[1].textContent);
 
-    let isBaxterMatch = matchBaxter(filterString, baxter);
-    let isTermMatch = matchTerm(filterString, term);
+    let isBaxterMatch = matchBaxter(keysFilterString, baxter);
+    let isTermMatch = matchTerm(keysFilterString, term);
     rowElement.style.display = (isBaxterMatch || isTermMatch) ? '' : 'none';
   }
 }
