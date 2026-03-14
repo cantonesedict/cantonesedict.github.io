@@ -744,6 +744,13 @@ P
   ++
   1. To allow, to let (Kangxi 盡: 任也, 縱令也, 俗作儘).
   ++
+L
+  ====
+  * 【盡-unvoiced】 (tsinX)
+    ==
+    - (_adverb-like_) completely
+    ==
+  ====
 S
   ==
   - ($儘zeon6)
@@ -978,7 +985,7 @@ W
     - [[...]];
     - a plant whose roots afford a yellow dye [[Kangxi: 藎草一名黃草一名盭草可染黃]];
     - [[...]];
-    - to advance constantly [[Kangxi: 藎進也]];
+    - ~~to advance constantly~~ ``advanced, promoted`` [[Kangxi: 藎進也]];
     - sincere, as in attachment to [[Kangxi: 藎忠愛之篤進進無已也]];
     - _(2)tsun (4)shan_ [[zeon2 san4 藎臣]],
         or
@@ -988,6 +995,13 @@ W
     --
     [[Otherwise, an alternative form of 燼 (for the "remainder" sense). **See $燼zeon2 for the canonical entry.**]]
     --
+  ====
+L
+  ====
+  * 【藎】 (zinH)
+    ==
+    - (_adjective-like_) promoted, faithful
+    ==
   ====
 $$
 
@@ -1019,6 +1033,13 @@ W
     - _(2)tsun (4)(i/)_
         [[zeon2 ji4 贐儀]],
         parting gifts of ceremony.
+    ==
+  ====
+L
+  ====
+  * 【贐】 (zinH)
+    ==
+    - (_noun-like_) travelling-gift
     ==
   ====
 $$
@@ -1114,6 +1135,14 @@ C
     Kangxi ::[將]遂切音醉:: as being applicable to the "hero" sense (與儁通).
     It is only applicable to the earlier "pestle" sense (本作檇).
   ==
+L
+  ====
+  * 【俊】 (zinH)
+    ==
+    - (_noun-like_) eminent-man
+    - (_adjective-like_) eminent
+    ==
+  ====
 $$
 
 ### 儁3 | _Tsun(3)_ [[zeon3]]
@@ -1194,6 +1223,13 @@ C
   ==
   - Fan Wan entry: The headword 峻 is a misprint of $竣3.
   ==
+L
+  ====
+  * 【峻】 (swinH)
+    ==
+    - (_adjective-like_) lofty
+    ==
+  ====
 $$
 
 ### 搢3 | _Tsun(3)_ [[zeon3]]
@@ -1259,6 +1295,13 @@ C
   - Williams' 搢紳先生: Changed _(1)shang_ (sang1)
     to vernacular reading _(1)sh(a/)ng_ (saang1).
   ==
+L
+  ====
+  * 【搢】 (tsinH)
+    ==
+    - (_verb-like_) [to] tuck (in)
+    ==
+  ====
 $$
 
 ### 晉3 | _Tsun(3)_ [[zeon3]]
@@ -1296,6 +1339,13 @@ P
   1. To rise, to promote.
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【晉】 (tsinH)
+    ==
+    - (_verb-like_) [to] advance
+    ==
+  ====
 $$
 
 ### 朘3 | _Tsun(3)_ [[zeon3]]
@@ -1362,6 +1412,14 @@ C
     To me, it does not make sense for *only* the proper-name sense
     to get this treatment, when 《廣韻》 also has 私閏切 for 濬, explained 深也.
   ==
+L
+  ====
+  * 【浚】 (swinH)
+    ==
+    - (_verb-like_) [to] scoop
+    - (_adjective-like_) deep
+    ==
+  ====
 $$
 
 ### 濬3 | _Tsun(3)_ [[zeon3]]
@@ -1429,6 +1487,13 @@ W
     - a husbandman, a peasant.
     ==
   ====
+L
+  ====
+  * 【畯】 (tswinH)
+    ==
+    - (_noun-like_) farm-overseer
+    ==
+  ====
 $$
 
 ### 睃3 | _Tsun(3)_ [[zeon3]]
@@ -1454,7 +1519,7 @@ W
     - a man's name [[Kangxi: 人名]];
     - ~~_Tsun(3) Tsun(3) ch(e/)uk(8)_
         [[zeon3 zeon3 zoek3 睃晉灼]]
-        a hero who lived in the H(a/)n [[漢]] dynasty~~.
+        a hero who lived in the H(a/)n [[漢]] dynasty.~~
     ==
   ====
 C
@@ -1509,6 +1574,13 @@ C
     According to 段玉裁's annotations of 《說文》, 倨也 as seen in 《廣韻》
     is evidence that the explanation of 竣 should be 居也.
   ==
+L
+  ====
+  * 【竣】 (tshwin)
+    ==
+    - (_verb-like_) [to] stand down, [to] cease
+    ==
+  ====
 $$
 
 ### 縉3 | _Tsun(3)_ [[zeon3]]
@@ -1604,6 +1676,13 @@ C
   - Williams' 前進: Corrected _(1)ts(i/)n_ (zin1) to _(4)ts(')(i/)n_ (cin4),
     and corrected _tsun(6)_ (zeon6) to _tsun(3)_ (zeon3).
   ==
+L
+  ====
+  * 【進】 (tsinH)
+    ==
+    - (_verb-like_) [to] advance, [to] put forth
+    ==
+  ====
 $$
 
 ### 鐫3 | _Tsun(3)_ [[zeon3]]
@@ -1701,6 +1780,13 @@ W
     - the leavings on the table [[Kangxi: 食之餘也]].
     ==
   ====
+L
+  ====
+  * 【餕】 (tswinH)
+    ==
+    - (_noun-like_) leftover
+    ==
+  ====
 $$
 
 ### 駿3 | _Tsun(3)_ [[zeon3]]
@@ -1733,6 +1819,15 @@ W
     --
     [[Otherwise, an alternative form of 峻. **See $峻zeon3 for the canonical entry.**]]
     --
+  ====
+L
+  ====
+  * 【駿】 (tswinH)
+    ==
+    - (_noun-like_) steed
+    - (_adverb-like_) rapidly
+    - (_adjective-like_) grand, lofty
+    ==
   ====
 $$
 
@@ -1901,6 +1996,13 @@ C
   - Williams' 行盡: Changed _(4)hang_ (hang4)
     to vernacular reading _(4)h(a/)ng_ (haang4).
   ==
+L
+  ====
+  * 【盡-voiced】 (dzinX)
+    ==
+    - (_verb-like_) [to] exhaust, [to] complete
+    ==
+  ====
 E
   ====
   - 【盡地】 (zeon6 dei6-2)

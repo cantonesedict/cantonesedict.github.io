@@ -1548,6 +1548,13 @@ window.onload = applyFilter;
       - (_noun-like_) small-cicada
       ==
   //
+    , `dzinX`
+    , [盡~(voiced)](/entries/zeon#rendering-盡-voiced)
+    ,
+      ==
+      - (_verb-like_) [to] exhaust, [to] complete
+      ==
+  //
     , `dzing`
     , [繒](/entries/zang#rendering-繒)
     ,
@@ -3021,6 +3028,21 @@ window.onload = applyFilter;
       - (_noun-like_) cauldron-stuff
       ==
   //
+    , `swinH`
+    , [峻](/entries/zeon#rendering-峻)
+    ,
+      ==
+      - (_adjective-like_) lofty
+      ==
+  //
+    , `swinH`
+    , [浚](/entries/zeon#rendering-浚)
+    ,
+      ==
+      - (_verb-like_) [to] scoop
+      - (_adjective-like_) deep
+      ==
+  //
     , `syae`
     , [奢](/entries/ce#rendering-奢)
     ,
@@ -4404,6 +4426,13 @@ window.onload = applyFilter;
       ==
   //
     , `tshwin`
+    , [竣](/entries/zeon#rendering-竣)
+    ,
+      ==
+      - (_verb-like_) [to] stand down, [to] cease
+      ==
+  //
+    , `tshwin`
     , [蹲~(dancing)](/entries/cyun#rendering-蹲-dancing)
     ,
       ==
@@ -4485,6 +4514,34 @@ window.onload = applyFilter;
       ==
       - (_noun-like_) ford
       - (_verb-like_) [to] moisten
+      ==
+  //
+    , `tsinX`
+    , [盡~(unvoiced)](/entries/zeon#rendering-盡-unvoiced)
+    ,
+      ==
+      - (_adverb-like_) completely
+      ==
+  //
+    , `tsinH`
+    , [搢](/entries/zeon#rendering-搢)
+    ,
+      ==
+      - (_verb-like_) [to] tuck (in)
+      ==
+  //
+    , `tsinH`
+    , [晉](/entries/zeon#rendering-晉)
+    ,
+      ==
+      - (_verb-like_) [to] advance
+      ==
+  //
+    , `tsinH`
+    , [進](/entries/zeon#rendering-進)
+    ,
+      ==
+      - (_verb-like_) [to] advance, [to] put forth
       ==
   //
     , `tsingH`
@@ -5253,6 +5310,29 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] go along, [to] adhere
+      ==
+  //
+    , `tswinH`
+    , [畯](/entries/zeon#rendering-畯)
+    ,
+      ==
+      - (_noun-like_) farm-overseer
+      ==
+  //
+    , `tswinH`
+    , [餕](/entries/zeon#rendering-餕)
+    ,
+      ==
+      - (_noun-like_) leftover
+      ==
+  //
+    , `tswinH`
+    , [駿](/entries/zeon#rendering-駿)
+    ,
+      ==
+      - (_noun-like_) steed
+      - (_adverb-like_) rapidly
+      - (_adjective-like_) grand, lofty
       ==
   //
     , `tswon`
@@ -6302,10 +6382,32 @@ window.onload = applyFilter;
       ==
   //
     , `zinH`
+    , [俊](/entries/zeon#rendering-俊)
+    ,
+      ==
+      - (_noun-like_) eminent-man
+      - (_adjective-like_) eminent
+      ==
+  //
+    , `zinH`
     , [燼](/entries/zeon#rendering-燼)
     ,
       ==
       - (_noun-like_) cinder, embers
+      ==
+  //
+    , `zinH`
+    , [藎](/entries/zeon#rendering-藎)
+    ,
+      ==
+      - (_adjective-like_) promoted, faithful
+      ==
+  //
+    , `zinH`
+    , [贐](/entries/zeon#rendering-贐)
+    ,
+      ==
+      - (_noun-like_) travelling-gift
       ==
   //
     , `zip`
