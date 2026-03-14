@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-03-13
+* %date-modified --> 2026-03-14
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -4479,6 +4479,14 @@ window.onload = applyFilter;
       - (_adverb-like_) gradually
       ==
   //
+    , `tsin`
+    , [津](/entries/zeon#rendering-津)
+    ,
+      ==
+      - (_noun-like_) ford
+      - (_verb-like_) [to] moisten
+      ==
+  //
     , `tsingH`
     , [甑](/entries/zang#rendering-甑)
     ,
@@ -5115,6 +5123,27 @@ window.onload = applyFilter;
       - (_noun-like_) hazel
       ==
   //
+    , `tsrin`
+    , [溱](/entries/zeon#rendering-溱)
+    ,
+      ==
+      - (_adjective-like_) multitudinous, abundant
+      ==
+  //
+    , `tsrin`
+    , [臻](/entries/zeon#rendering-臻)
+    ,
+      ==
+      - (_verb-like_) [to] arrive
+      ==
+  //
+    , `tsrin`
+    , [蓁](/entries/zeon#rendering-蓁)
+    ,
+      ==
+      - (_adjective-like_) abundant, luxuriant
+      ==
+  //
     , `tsrip`
     , [戢](/entries/cap#rendering-戢)
     ,
@@ -5217,6 +5246,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) drunk
+      ==
+  //
+    , `tswin`
+    , [遵](/entries/zeon#rendering-遵)
+    ,
+      ==
+      - (_verb-like_) [to] go along, [to] adhere
       ==
   //
     , `tswon`
@@ -5920,6 +5956,37 @@ window.onload = applyFilter;
       - (_noun-like_) piebald
       ==
   //
+    , `tsywin`
+    , [肫](/entries/zeon#rendering-肫)
+    ,
+      ==
+      - (_adjective-like_) earnest
+      ==
+  //
+    , `tsywin`
+    , [諄](/entries/zeon#rendering-諄)
+    ,
+      ==
+      - (_adverb-like_) earnestly, repeatedly
+      - (_verb-like_) [to] assist
+      ==
+  //
+    , `tsywinX`
+    , [準](/entries/zeon#rendering-準)
+    ,
+      ==
+      - (_noun-like_) water-level
+      - (_adjective-like_) level, even, (_met._) standard
+      ==
+  //
+    , `tsywinH`
+    , [諄](/entries/zeon#rendering-諄)
+    ,
+      ==
+      - (_adverb-like_) earnestly, repeatedly
+      - (_verb-like_) [to] assist
+      ==
+  //
     , `xjun`
     , [勳](/entries/fan#rendering-勳)
     ,
@@ -6232,6 +6299,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) cauldron
+      ==
+  //
+    , `zinH`
+    , [燼](/entries/zeon#rendering-燼)
+    ,
+      ==
+      - (_noun-like_) cinder, embers
       ==
   //
     , `zip`

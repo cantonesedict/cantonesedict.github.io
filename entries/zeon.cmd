@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeon
-* %date-modified --> 2026-03-13
+* %date-modified --> 2026-03-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -134,6 +134,10 @@ U
 H
   May appear with first stroke ㇐ (assumed here) or ㇒,
   depending on the font.
+A
+  ==
+  - $迍1 (for "difficult" sense)
+  ==
 F
   ==
   - (F2.52 屯) ::[高]屯難也屈也::
@@ -324,6 +328,14 @@ W
         I relish it more and more.
     ==
   ====
+L
+  ====
+  * 【津】 (tsin)
+    ==
+    - (_noun-like_) ford
+    - (_verb-like_) [to] moisten
+    ==
+  ====
 $$
 
 ### 溱1 | _(1)Tsun_ [[zeon1]]
@@ -357,6 +369,13 @@ C
   ==
   - Strictly, the pre-merger reading should be _(1)chun_ per 《廣韻》側詵切.
   ==
+L
+  ====
+  * 【溱】 (tsrin)
+    ==
+    - (_adjective-like_) multitudinous, abundant
+    ==
+  ====
 $$
 
 ### 窀1 | _(1)Chun_ [[zeon1]]
@@ -434,6 +453,13 @@ P
   ++
   1. Bird gizzard.
   ++
+L
+  ====
+  * 【肫】 (tsywin)
+    ==
+    - (_adjective-like_) earnest
+    ==
+  ====
 $$
 
 ### 臻1 | _(1)Tsun_ [[zeon1]]
@@ -474,6 +500,13 @@ C
   ==
   - Strictly, the pre-merger reading should be _(1)chun_ per 《廣韻》側詵切.
   ==
+L
+  ====
+  * 【臻】 (tsrin)
+    ==
+    - (_verb-like_) [to] arrive
+    ==
+  ====
 $$
 
 ### 蓁1 | _(1)Tsun_ [[zeon1]]
@@ -507,6 +540,13 @@ C
   ==
   - Strictly, the pre-merger reading should be _(1)chun_ per 《廣韻》側詵切.
   ==
+L
+  ====
+  * 【蓁】 (tsrin)
+    ==
+    - (_adjective-like_) abundant, luxuriant
+    ==
+  ====
 $$
 
 ### 諄1 | _(1)Chun_ [[zeon1]]
@@ -553,6 +593,14 @@ P
   1. Sincere, earnest (Kangxi: 誠懇貌).
   1. To assist (Kangxi: 佐也).
   ++
+L
+  ====
+  * 【諄】 (tsywin, tsywinH)
+    ==
+    - (_adverb-like_) earnestly, repeatedly
+    - (_verb-like_) [to] assist
+    ==
+  ====
 $$
 
 ### 迍1 | _(1)Chun_ [[zeon1]]
@@ -575,6 +623,9 @@ W
         [[zeon1 zin1 迍邅]],
         making no advance, unsuccessful.
     ==
+    --
+    [[Alternative form of 屯 (for the "difficult" sense). See $屯zeon1.]]
+    --
   ====
 $$
 
@@ -620,6 +671,13 @@ C
   - Williams' 欽此欽遵: Better rendered
     "[the] revered [edict is] thus, [the] revered [edict is to be] obeyed!"
   ==
+L
+  ====
+  * 【遵】 (tswin)
+    ==
+    - (_verb-like_) [to] go along, [to] adhere
+    ==
+  ====
 $$
 
 
@@ -811,6 +869,14 @@ P
   ++
   1. To imitate, to emulate (Kangxi: 則也倣也).
   ++
+L
+  ====
+  * 【準】 (tsywinX)
+    ==
+    - (_noun-like_) water-level
+    - (_adjective-like_) level, even, (_met._) standard
+    ==
+  ====
 $$
 
 ### 燼2 | _(2)Tsun_ [[zeon2]]
@@ -854,6 +920,13 @@ W
     - [[...]];
     - a residue [[Kangxi 藎: 藎餘也]];
     - [[...]].
+    ==
+  ====
+L
+  ====
+  * 【燼】 (zinH)
+    ==
+    - (_noun-like_) cinder, embers
     ==
   ====
 S
