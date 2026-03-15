@@ -364,6 +364,13 @@ W
         ever striving to be good.
     ==
   ====
+L
+  ====
+  * 【孜】 (tsi)
+    ==
+    - (_adjective-like_) industrious
+    ==
+  ====
 $$
 
 ###+ 孳1 | _(1)Tsz'_ [[zi1]]
@@ -401,6 +408,13 @@ W
     --
     [[Otherwise, an alternative form of 孜. **See $孜zi1 for the canonical entry.**]]
     --
+  ====
+L
+  ====
+  * 【孳-level】 (tsi)
+    ==
+    - (_verb-like_) [to] breed, [to] multiply
+    ==
   ====
 S
   ==
@@ -469,6 +483,13 @@ C
     Here, 節飮食 is the moderation of consumption for self-cultivation,
     rather than the rationing of food/drink due to limited resources.
   ==
+L
+  ====
+  * 【巵】 (tsye)
+    ==
+    - (_noun-like_) goblet
+    ==
+  ====
 $$
 
 ### 支1 | _(1)Ch(i/)_ [[zi1]]
@@ -535,8 +556,19 @@ C
   ==
 P
   ++
+  1. To reckon (Kangxi: 支猶計也).
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【支】 (tsye)
+    ==
+    - (_noun-like_) branch, limb
+    - (_verb-like_) [to] support
+    - (_verb-like_) [to] pay (for)
+    - (_verb-like_) [to] reckon
+    ==
+  ====
 $$
 
 ### 枝1 | _(1)Ch(i/)_ [[zi1]]
@@ -4659,8 +4691,15 @@ W
   [[Not present]]
 P
   ++
-  1. Breast transformation (during pregnancy) (Kangxi: 乳化也).
+  1. Transformation(?) of the breast (during pregnancy?) (Kangxi: 乳化也).
   ++
+L
+  ====
+  * 【孳-departing】 (dziH)
+    ==
+    - (_verb-like_) [to] mammarise
+    ==
+  ====
 S
   ==
   - $孳zi1

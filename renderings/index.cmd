@@ -1535,6 +1535,13 @@ window.onload = applyFilter;
       - (_noun-like_) affection, kindness, (_met._) mother
       ==
   //
+    , `dziH`
+    , [孳~(departing)](/entries/zi#rendering-孳-departing)
+    ,
+      ==
+      - (_verb-like_) [to] mammarise
+      ==
+  //
     , `dzij`
     , [茨](/entries/ci#rendering-茨)
     ,
@@ -4521,6 +4528,20 @@ window.onload = applyFilter;
       - (_adverb-like_) abruptly
       ==
   //
+    , `tsi`
+    , [孜](/entries/zi#rendering-孜)
+    ,
+      ==
+      - (_adjective-like_) industrious
+      ==
+  //
+    , `tsi`
+    , [孳~(level)](/entries/zi#rendering-孳-level)
+    ,
+      ==
+      - (_verb-like_) [to] breed, [to] multiply
+      ==
+  //
     , `tsiX`
     , [子](/entries/zi#rendering-子)
     ,
@@ -5463,6 +5484,23 @@ window.onload = applyFilter;
       ==
       - (_verb-like_) [to] burn, [to] scorch
       - (_adjective-like_) manifest, (_met._) bright
+      ==
+  //
+    , `tsye`
+    , [巵](/entries/zi#rendering-巵)
+    ,
+      ==
+      - (_noun-like_) goblet
+      ==
+  //
+    , `tsye`
+    , [支](/entries/zi#rendering-支)
+    ,
+      ==
+      - (_noun-like_) branch, limb
+      - (_verb-like_) [to] support
+      - (_verb-like_) [to] pay (for)
+      - (_verb-like_) [to] reckon
       ==
   //
     , `tsyejH`
