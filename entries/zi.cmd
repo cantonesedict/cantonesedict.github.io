@@ -2054,6 +2054,9 @@ W
     - weak [[Kangxi: 弱也]];
     - [[...]].
     ==
+    --
+    [[Alternative form of 訾 (for the "slander" sense). See $訾zi2.]]
+    --
   ====
 C
   ==
@@ -3228,6 +3231,7 @@ U
   U+8A3E
 A
   ==
+  - $呰2 (for "slander" sense)
   - $訿2 (for "slander" sense)
   ==
 F
