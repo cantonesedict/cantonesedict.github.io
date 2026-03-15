@@ -3239,13 +3239,17 @@ W
     - To speak hastily, to utter things unadvisedly [[Kangxi: 不思稱意也]];
     - to slander, to detract from [[Kangxi: 毀也]];
     - [[...]];
-    - faulty, licentious [[Kangxi: 恣也]];
+    - ~~faulty, licentious [[Kangxi: 恣也]];~~
     - ~~impertinent, evil;~~
     - its meaning varies according to the one joined with it.
     ==
   ====
 C
   ==
+  - Williams' "faulty, licentious": This is a reasonable rendering of Kangxi 恣也.
+    But since the associated commentary is 訾讀爲恣,
+    this would make 訾 an alternative form of 恣,
+    and therefore to be read _tsz'(3)_ (zi3) instead of _(2)tsz'_ (zi2).
   - Williams' "impertinent, evil": This is a misreading of Kangxi 惡也.
     Here, 惡 is departing tone (loathe), not entering tone (evil).
   ==
