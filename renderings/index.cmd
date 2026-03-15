@@ -3469,6 +3469,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] lead
       ==
   //
+    , `trje`
+    , [知](/entries/zi#rendering-知)
+    ,
+      ==
+      - (_verb-like_) [to] know
+      ==
+  //
     , `trjenX`
     , [紾](/entries/can#rendering-紾)
     ,
@@ -4542,6 +4549,16 @@ window.onload = applyFilter;
       - (_verb-like_) [to] breed, [to] multiply
       ==
   //
+    , `tsi`
+    , [滋](/entries/zi#rendering-滋)
+    ,
+      ==
+      - (_verb-like_) [to] grow
+      - (_verb-like_) [to] breed, [to] multiply
+      - (_adjective-like_) numerous, abundant
+      - (_noun-like_) fine-flavour
+      ==
+  //
     , `tsiX`
     , [子](/entries/zi#rendering-子)
     ,
@@ -4559,6 +4576,13 @@ window.onload = applyFilter;
       ==
       - (_verb-like_) [to] consult
       - (_interjection_) alas
+      ==
+  //
+    , `tsij`
+    , [粢](/entries/zi#rendering-粢)
+    ,
+      ==
+      - (_noun-like_) millet
       ==
   //
     , `tsij`
@@ -5211,6 +5235,14 @@ window.onload = applyFilter;
       - (_verb-like_) [to] gnaw
       ==
   //
+    , `tsri`
+    , [緇](/entries/zi#rendering-緇)
+    ,
+      ==
+      - (_noun-like_) black-silk
+      - (_adjective-like_) black
+      ==
+  //
     , `tsrik`
     , [仄](/entries/zak#rendering-仄)
     ,
@@ -5501,6 +5533,14 @@ window.onload = applyFilter;
       - (_verb-like_) [to] support
       - (_verb-like_) [to] pay (for)
       - (_verb-like_) [to] reckon
+      ==
+  //
+    , `tsye`
+    , [枝](/entries/zi#rendering-枝)
+    ,
+      ==
+      - (_noun-like_) branch
+      - (_classifier_)
       ==
   //
     , `tsyejH`
@@ -5876,6 +5916,13 @@ window.onload = applyFilter;
       - (_pronoun-like_) him
       - (_postposition-like_) of
       - (_speech-assist_) ^[that]
+      ==
+  //
+    , `tsyij`
+    , [祗](/entries/zi#rendering-祗)
+    ,
+      ==
+      - (_verb-like_) [to] reverence
       ==
   //
     , `tsyim`

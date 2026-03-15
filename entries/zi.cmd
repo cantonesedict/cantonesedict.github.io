@@ -618,6 +618,14 @@ C
   ==
   - Williams' "pencils": In the (now) dated sense of a brush.
   ==
+L
+  ====
+  * 【枝】 (tsye)
+    ==
+    - (_noun-like_) branch
+    - (_classifier_)
+    ==
+  ====
 $$
 
 ### 梔1 | _(1)Ch(i/)_ [[zi1]]
@@ -738,6 +746,16 @@ C
   - Williams' "used for the last": This is a misreading of Kangxi 通作兹,
     (which indicates that 兹 can be written 滋, not the other way round).
   ==
+L
+  ====
+  * 【滋】 (tsi)
+    ==
+    - (_verb-like_) [to] grow
+    - (_verb-like_) [to] breed, [to] multiply
+    - (_adjective-like_) numerous, abundant
+    - (_noun-like_) fine-flavour
+    ==
+  ====
 $$
 
 ### 甾1 | _(1)Tsz'_ [[zi1]]
@@ -845,6 +863,13 @@ C
   ==
   - Williams' 知覺: Now "consciousness".
   ==
+L
+  ====
+  * 【知】 (trje)
+    ==
+    - (_verb-like_) [to] know
+    ==
+  ====
 S
   ==
   - ($知zi3)
@@ -879,6 +904,13 @@ W
         to venerate.
     ==
   ====
+L
+  ====
+  * 【祗】 (tsyij)
+    ==
+    - (_verb-like_) [to] reverence
+    ==
+  ====
 S
   ==
   - ($祗zi2)
@@ -909,6 +941,13 @@ C
   ==
   - Fan Wan entry: Corrected ⿱禾氺 to 黍.
   ==
+L
+  ====
+  * 【粢】 (tsij)
+    ==
+    - (_noun-like_) millet
+    ==
+  ====
 S
   ==
   - ($粢ci4)
@@ -944,6 +983,14 @@ C
   - Strictly, the pre-merger reading should be _(1)ch(i/)_ per 《廣韻》側持切.
   - Fan Wan entry: The headword 緇 is a misprint of $輜1.
   ==
+L
+  ====
+  * 【緇】 (tsri)
+    ==
+    - (_noun-like_) black-silk
+    - (_adjective-like_) black
+    ==
+  ====
 $$
 
 ### 肢1 | _(1)Ch(i/)_ [[zi1]]
