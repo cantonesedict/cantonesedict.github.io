@@ -206,9 +206,9 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $詫caa3
+      - {$訾ci1, $訾zi1, $訾zi2}
       - $詳coeng4
       - $詮cyun4
-      - {$訾zi1, $訾zi2}
       - $訿zi2
       - $詹zim1
       - $誅zyu1

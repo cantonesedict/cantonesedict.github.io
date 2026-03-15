@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2026-02-28
+* %date-modified --> 2026-03-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -60,6 +60,7 @@ $$
 - ($胝1)
 - $蚩1
 - ($褫1)
+- ($訾1)
 - $雌1
 - ($骴1)
 - $鴟1
@@ -227,6 +228,7 @@ U
 A
   ==
   - $呰1
+  - $訾1
   ==
 V
   ==
@@ -482,6 +484,28 @@ W
 S
   ==
   - $褫ci2
+  ==
+$$
+
+###+ 訾1 | _(1)Ts(')z'_ [[ci1]]
+
+$$.
+R
+  ⾔ + 6
+U
+  U+8A3E
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 疵. **See $疵ci1 for the canonical entry.**
+  ++
+S
+  ==
+  - $訾zi1
+  - $訾zi2
   ==
 $$
 
