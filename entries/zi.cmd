@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2026-03-05
+* %date-modified --> 2026-03-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -109,8 +109,8 @@ W
   - [[Page~38|n81 (1)之]]
     ==
     - A sign of the genitive;
-    - when placed between ~~two nouns or verbs~~, answers to who, which, that;
-    - a pronoun, he, she, it, them;
+    - when placed between ~~two nouns or verbs~~ ``a noun and a verb``, answers to who, which, that;
+    - a``n object`` pronoun, ~~he~~ ``him``, ~~she~~ ``her``, it, them;
     - often used in the abstract, after a noun,
       or as a relative particle, in apposition;
     - ~~to progress;~~
@@ -160,6 +160,18 @@ P
   1. This (Kangxi: 此也).
   1. Till, until (Kangxi: 至也).
   ++
+L
+  ====
+  * 【之】 (tsyi)
+    ==
+    - (_verb-like_) [to] go
+    - (_preposition-like_) till
+    - (_determiner-like_) this, such
+    - (_pronoun-like_) him
+    - (_postposition-like_) of
+    - (_speech-assist_) ^[that]
+    ==
+  ====
 S
   ==
   - $之zaa1
@@ -273,6 +285,14 @@ W
     ==
     - To deliberate, to consult, to devise a way [[Kangxi 諮: 謀也]];
     - to ask about [[Kangxi 諮: 問也]].
+    ==
+  ====
+L
+  ====
+  * 【咨】 (tsij)
+    ==
+    - (_verb-like_) [to] consult
+    - (_interjection_) alas
     ==
   ====
 $$

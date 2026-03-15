@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-03-14
+* %date-modified --> 2026-03-15
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -4533,6 +4533,14 @@ window.onload = applyFilter;
       ==
   //
     , `tsij`
+    , [咨](/entries/zi#rendering-咨)
+    ,
+      ==
+      - (_verb-like_) [to] consult
+      - (_interjection_) alas
+      ==
+  //
+    , `tsij`
     , [齎](/entries/zai#rendering-齎)
     ,
       ==
@@ -5818,6 +5826,18 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] go out
+      ==
+  //
+    , `tsyi`
+    , [之](/entries/zi#rendering-之)
+    ,
+      ==
+      - (_verb-like_) [to] go
+      - (_preposition-like_) till
+      - (_determiner-like_) this, such
+      - (_pronoun-like_) him
+      - (_postposition-like_) of
+      - (_speech-assist_) ^[that]
       ==
   //
     , `tsyim`
