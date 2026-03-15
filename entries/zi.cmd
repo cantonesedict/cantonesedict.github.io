@@ -1466,16 +1466,8 @@ W
     [[Otherwise, an alternative form of 貲. **See $貲zi1 for the canonical entry.**]]
     --
   ====
-C
-  ==
-  - Kangxi has the "defect" sense (supplemented below)
-    under the reading 卽移切 _(1)tsz'_(zi1).
-    But if this is the same word as 疵 "defect",
-    then it should be read 疾移切 _(4)ts(')z'_ (ci4) instead.
-  ==
 P
   ++
-  1. A defect (Kangxi: 病也).
   1. A surname (Kangxi: 姓).
   ++
 L
@@ -1484,12 +1476,12 @@ L
     ==
     - (_verb-like_) [to] think, [to] measure
     - (_verb-like_) [to] restrict
-    - (_noun-like_) defect
     ==
   ====
 S
   ==
   - ($訾ci1)
+  - ($訾ci4)
   - $訾zi2
   ==
 $$
@@ -3272,6 +3264,7 @@ L
 S
   ==
   - ($訾ci1)
+  - ($訾ci4)
   - $訾zi1
   ==
 $$

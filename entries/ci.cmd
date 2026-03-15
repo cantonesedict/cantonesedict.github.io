@@ -263,6 +263,14 @@ W
         a black spot.
     ==
   ====
+C
+  ==
+  - In its entry for 訾, Kangxi gives the sense 病也 "defect"
+    with the example 《禮檀弓》故子之所刺於禮者亦非禮之訾也《註》病也
+    under the reading 卽移切 _(1)tsz'_ (zi1).
+    The reading should instead be 疾移切 _(4)ts(')z'_ (ci4),
+    if we read 訾 as an alternative form of 疵 (as I have done here).
+  ==
 L
   ====
   * 【疵】 (dzje)
@@ -504,6 +512,7 @@ P
   ++
 S
   ==
+  - ($訾ci4)
   - $訾zi1
   - $訾zi2
   ==
@@ -2232,6 +2241,7 @@ $$
 - $茲4
 - $蚳4
 - $詞4
+- ($訾4)
 - $踟4
 - ($辞4)
 - $辭4
@@ -2995,6 +3005,29 @@ L
     - (_noun-like_) phrase, expression
     ==
   ====
+$$
+
+###+ 訾4 | _(4)Ts(')z'_ [[ci4]]
+
+$$.
+R
+  ⾔ + 6
+U
+  U+8A3E
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 疵, and reading variation. **See $疵ci1 for the canonical entry.**
+  ++
+S
+  ==
+  - ($訾ci1)
+  - $訾zi1
+  - $訾zi2
+  ==
 $$
 
 ### 踟4 | _(4)Ch(')(i/)_ [[ci4]]

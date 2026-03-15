@@ -206,7 +206,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $詫caa3
-      - {$訾ci1, $訾zi1, $訾zi2}
+      - {$訾ci1, $訾ci4, $訾zi1, $訾zi2}
       - $詳coeng4
       - $詮cyun4
       - $訿zi2

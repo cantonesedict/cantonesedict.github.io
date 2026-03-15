@@ -4714,7 +4714,6 @@ window.onload = applyFilter;
       ==
       - (_verb-like_) [to] think, [to] measure
       - (_verb-like_) [to] restrict
-      - (_noun-like_) defect
       ==
   //
     , `tsjeX`
