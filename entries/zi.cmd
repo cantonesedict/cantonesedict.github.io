@@ -1020,6 +1020,13 @@ W
         to quarter.
     ==
   ====
+L
+  ====
+  * 【肢】 (tsye)
+    ==
+    - (_noun-like_) limb
+    ==
+  ====
 $$
 
 ###+ 胝1 | _(1)Ch(i/)_ [[zi1]]
@@ -1121,6 +1128,13 @@ W
         cosmetics.
     ==
   ====
+L
+  ====
+  * 【脂】 (tsyij)
+    ==
+    - (_noun-like_) grease, fat
+    ==
+  ====
 $$
 
 ### 芝1 | _(1)Ch(i/)_ [[zi1]]
@@ -1208,6 +1222,14 @@ W
     [[Otherwise, an alternative form of 滋. **See $滋zi1 for the canonical entry.**]]
     --
   ====
+L
+  ====
+  * 【茲】 (tsi)
+    ==
+    - (_determiner-like_) this
+    - (_adverb-like_) now, [at] this [time]
+    ==
+  ====
 S
   ==
   - $茲ci4
@@ -1234,7 +1256,7 @@ W
   ====
   - [[Page~611 (1)甾(1)菑]]
     ==
-    - Waste, untilled land, overgrown, jungly [[Kangxi: 不耕田也]];
+    - ~~Waste, untilled land, overgrown, jungly [[Kangxi: 不耕田也]];~~
     - to clear new or waste land;
     - ground under cultivation one year [[Kangxi: 田一歲曰葘]];
     - to open a road;
@@ -1249,6 +1271,14 @@ C
   - Strictly, the pre-merger reading should be _(1)ch(i/)_ per 《廣韻》側持切.
   - Fan Wan entry: Corrected 革 to 草.
   ==
+L
+  ====
+  * 【菑-level】 (tsri)
+    ==
+    - (_noun-like_) new-tillage
+    - (_verb-like_) [to] till newly
+    ==
+  ====
 S
   ==
   - $菑zi3
@@ -1302,6 +1332,17 @@ W
     - _(1)ch(i/) (1)ch(u:)_
         [[zi1 zyu1 蜘蛛]],
         a spider, a general name for all kinds of aranea.
+    ==
+  ====
+L
+  ====
+  * 【蜘】 (trje)
+    ==
+    - Used in [蜘蛛](/entries/zi#rendering-蜘蛛).
+    ==
+  * 【蜘蛛】 (trje trju)
+    ==
+    - (_noun-like_) spider
     ==
   ====
 $$
@@ -1425,10 +1466,27 @@ W
     [[Otherwise, an alternative form of 貲. **See $貲zi1 for the canonical entry.**]]
     --
   ====
+C
+  ==
+  - Kangxi has the "defect" sense (supplemented below)
+    under the reading 卽移切 _(1)tsz'_(zi1).
+    But if this is the same word as 疵 "defect",
+    then it should be read 疾移切 _(4)ts(')z'_ (ci4) instead.
+  ==
 P
   ++
+  1. A defect (Kangxi: 病也).
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【訾-level】 (tsje)
+    ==
+    - (_verb-like_) [to] think, [to] measure
+    - (_verb-like_) [to] restrict
+    - (_noun-like_) defect
+    ==
+  ====
 S
   ==
   - $訾zi2
@@ -3167,6 +3225,10 @@ R
   ⾔ + 6
 U
   U+8A3E
+A
+  ==
+  - 訿
+  ==
 F
   ==
   - (F2.34 訾 _(1)Ts(')z'_ (ci1)) 詆也誚也
@@ -3188,6 +3250,18 @@ C
   - Williams' "impertinent, evil": This is a misreading of Kangxi 惡也.
     Here, 惡 is departing tone (loathe), not entering tone (evil).
   ==
+P
+  ++
+  1. To loathe (Kangxi: 惡也).
+  ++
+L
+  ====
+  * 【訾-rising】 (tsjeX)
+    ==
+    - (_verb-like_) [to] traduce
+    - (_verb-like_) [to] loathe
+    ==
+  ====
 S
   ==
   - $訾zi1
@@ -4075,8 +4149,15 @@ C
   ====
   - In terms of pre-merger readings:
     ==
-    - The "cut/rend" sense is _ch(i/)(3)_ per Kangxi 側吏切; and
-    - The "dead-tree" sense is _tsz'(3)_ per Kangxi 資四切.
+    - The "dead-tree" sense is _ch(i/)(3)_ per Kangxi 側吏切; and
+    - The "cut/rend" sense is _tsz'(3)_ per Kangxi 資四切.
+    ==
+  ====
+L
+  ====
+  * 【菑-departing】 (tsriH)
+    ==
+    - (_noun-like_) standing-dead-tree
     ==
   ====
 S

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2026-03-07
+* %date-modified --> 2026-03-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -537,6 +537,13 @@ C
   ==
   - Fan Wan entry: Fixed missing character 蛛.
   ==
+L
+  ====
+  * 【蛛】 (trju)
+    ==
+    - Used in [蜘蛛](/entries/zi#rendering-蜘蛛).
+    ==
+  ====
 $$
 
 ### 誅1 | _(1)Ch(u:)_ [[zyu1]]

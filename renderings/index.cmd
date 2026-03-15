@@ -3476,6 +3476,20 @@ window.onload = applyFilter;
       - (_verb-like_) [to] know
       ==
   //
+    , `trje`
+    , [蜘](/entries/zi#rendering-蜘)
+    ,
+      ==
+      - Used in [蜘蛛](/entries/zi#rendering-蜘蛛).
+      ==
+  //
+    , `trje trju`
+    , [蜘蛛](/entries/zi#rendering-蜘蛛)
+    ,
+      ==
+      - (_noun-like_) spider
+      ==
+  //
     , `trjenX`
     , [紾](/entries/can#rendering-紾)
     ,
@@ -3496,6 +3510,13 @@ window.onload = applyFilter;
       ==
       - (_noun-like_) mound
       - (_adjective-like_) great, (_met._) prime
+      ==
+  //
+    , `trju`
+    , [蛛](/entries/zyu#rendering-蛛)
+    ,
+      ==
+      - Used in [蜘蛛](/entries/zi#rendering-蜘蛛).
       ==
   //
     , `trjuw`
@@ -4559,6 +4580,14 @@ window.onload = applyFilter;
       - (_noun-like_) fine-flavour
       ==
   //
+    , `tsi`
+    , [茲](/entries/zi#rendering-茲)
+    ,
+      ==
+      - (_determiner-like_) this
+      - (_adverb-like_) now, [at] this [time]
+      ==
+  //
     , `tsiX`
     , [子](/entries/zi#rendering-子)
     ,
@@ -4677,6 +4706,23 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] borrow, [to] lend
+      ==
+  //
+    , `tsje`
+    , [訾~(level)](/entries/zi#rendering-訾-level)
+    ,
+      ==
+      - (_verb-like_) [to] think, [to] measure
+      - (_verb-like_) [to] restrict
+      - (_noun-like_) defect
+      ==
+  //
+    , `tsjeX`
+    , [訾~(rising)](/entries/zi#rendering-訾-rising)
+    ,
+      ==
+      - (_verb-like_) [to] traduce
+      - (_verb-like_) [to] loathe
       ==
   //
     , `tsjejH`
@@ -5243,6 +5289,21 @@ window.onload = applyFilter;
       - (_adjective-like_) black
       ==
   //
+    , `tsri`
+    , [菑~(level)](/entries/zi#rendering-菑-level)
+    ,
+      ==
+      - (_noun-like_) new-tillage
+      - (_verb-like_) [to] till newly
+      ==
+  //
+    , `tsriH`
+    , [菑~(departing)](/entries/zi#rendering-菑-departing)
+    ,
+      ==
+      - (_noun-like_) standing-dead-tree
+      ==
+  //
     , `tsrik`
     , [仄](/entries/zak#rendering-仄)
     ,
@@ -5541,6 +5602,13 @@ window.onload = applyFilter;
       ==
       - (_noun-like_) branch
       - (_classifier_)
+      ==
+  //
+    , `tsye`
+    , [肢](/entries/zi#rendering-肢)
+    ,
+      ==
+      - (_noun-like_) limb
       ==
   //
     , `tsyejH`
@@ -5923,6 +5991,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] reverence
+      ==
+  //
+    , `tsyij`
+    , [脂](/entries/zi#rendering-脂)
+    ,
+      ==
+      - (_noun-like_) grease, fat
       ==
   //
     , `tsyim`
