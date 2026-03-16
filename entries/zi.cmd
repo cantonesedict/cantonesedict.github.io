@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2026-03-15
+* %date-modified --> 2026-03-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -292,7 +292,7 @@ L
   * 【咨】 (tsij)
     ==
     - (_verb-like_) [to] consult
-    - (_interjection_) alas
+    - (_interjection_) sigh
     ==
   ====
 $$
@@ -1578,9 +1578,9 @@ W
     - Property, riches, things of value [[Kangxi: 貨也]];
     - necessaries, articles wanted;
     - a fee, a douceur, a treat, a present;
-    - to take [[Kangxi: 資取也]];
+    - to take ``or to utilise`` [[Kangxi: 資取也]];
     - to depend on another;
-    - what belongs to one, what ts natural, as disposition;
+    - what belongs to one, what is natural, as disposition;
     - what was had at the first;
     - _(2)tsau (1)tsz'_ [[zau2 zi1 酒資]]
         or
@@ -1612,7 +1612,6 @@ W
   ====
 C
   ==
-  - Williams' "to take": Perhaps "to utilise".
   - Williams' 酒資, 檳資: Very dated.
   - Williams' 資格: Now "eligibility".
   ==
@@ -1625,6 +1624,18 @@ P
       - 資助 (zi1 zo6): "Subsidise."
       ==
   ++
+L
+  ====
+  * 【資】 (tsij)
+    ==
+    - (_noun-like_) means, capital, (_met._) capability
+    - (_noun-like_) expense
+    - (_verb-like_) [to] utilise
+    - (_verb-like_) [to] depend (upon)
+    - (_verb-like_) [to] accumulate
+    - (_verb-like_) [to] supply
+    ==
+  ====
 $$
 
 ### 趑1 | _(1)Tsz'_ [[zi1]]
@@ -1746,6 +1757,13 @@ C
   ==
   - Strictly, the pre-merger reading should be _(1)ch(i/)_ per 《廣韻》側持切.
   ==
+L
+  ====
+  * 【錙】 (tsri)
+    ==
+    - (_noun-like_) ounce
+    ==
+  ====
 $$
 
 ### 鎡1 | _(1)Tsz'_ [[zi1]]
@@ -1770,6 +1788,17 @@ W
       having a long narrow blade.
     ==
   ====
+L
+  ====
+  * 【鎡】 (tsi)
+    ==
+    - Used in [鎡基](/entries/zi#rendering-鎡基).
+    ==
+  * 【鎡基】 (tsi ki)
+    ==
+    - (_noun-like_) hoe
+    ==
+  ====
 $$
 
 ### 髭1 | _(1)Tsz'_ [[zi1]]
@@ -1779,6 +1808,10 @@ R
   ⾽ + 6
 U
   U+9AED
+A
+  ==
+  - 頿
+  ==
 F
   ==
   - (F2.34 髭) 鬚也在下曰鬚在上曰髭
@@ -1800,6 +1833,13 @@ C
     This is misreading Kangxi 《釋名》髭姿也爲姿容之美也 as a standalone definition,
     when it is intended as an homophony-definition of the "moustache" sense.
   ==
+L
+  ====
+  * 【髭】 (tsje)
+    ==
+    - (_noun-like_) moustache
+    ==
+  ====
 $$
 
 ### 鼒1 | _(1)Tsz'_ [[zi1]]
@@ -1825,6 +1865,13 @@ C
   ==
   - Fan Wan entry: Corrected headword {𪔇=⿱木鼎} to 鼒.
   ==
+L
+  ====
+  * 【鼒】 (tsi)
+    ==
+    - (_noun-like_) small-tripod-cauldron
+    ==
+  ====
 $$
 
 ###+ 齎1 | _(1)Tsz'_ [[zi1]]

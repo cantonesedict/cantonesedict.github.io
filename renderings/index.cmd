@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-03-15
+* %date-modified --> 2026-03-16
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -4588,6 +4588,27 @@ window.onload = applyFilter;
       - (_adverb-like_) now, [at] this [time]
       ==
   //
+    , `tsi`
+    , [鎡](/entries/zi#rendering-鎡)
+    ,
+      ==
+      - Used in [鎡基](/entries/zi#rendering-鎡基).
+      ==
+  //
+    , `tsi`
+    , [鼒](/entries/zi#rendering-鼒)
+    ,
+      ==
+      - (_noun-like_) small-tripod-cauldron
+      ==
+  //
+    , `tsi ki`
+    , [鎡基](/entries/zi#rendering-鎡基)
+    ,
+      ==
+      - (_noun-like_) hoe
+      ==
+  //
     , `tsiX`
     , [子](/entries/zi#rendering-子)
     ,
@@ -4604,7 +4625,7 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] consult
-      - (_interjection_) alas
+      - (_interjection_) sigh
       ==
   //
     , `tsij`
@@ -4612,6 +4633,18 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) millet
+      ==
+  //
+    , `tsij`
+    , [資](/entries/zi#rendering-資)
+    ,
+      ==
+      - (_noun-like_) means, capital, (_met._) capability
+      - (_noun-like_) expense
+      - (_verb-like_) [to] utilise
+      - (_verb-like_) [to] depend (upon)
+      - (_verb-like_) [to] accumulate
+      - (_verb-like_) [to] supply
       ==
   //
     , `tsij`
@@ -4714,6 +4747,13 @@ window.onload = applyFilter;
       ==
       - (_verb-like_) [to] think, [to] measure
       - (_verb-like_) [to] restrict
+      ==
+  //
+    , `tsje`
+    , [髭](/entries/zi#rendering-髭)
+    ,
+      ==
+      - (_noun-like_) moustache
       ==
   //
     , `tsjeX`
@@ -5294,6 +5334,13 @@ window.onload = applyFilter;
       ==
       - (_noun-like_) new-tillage
       - (_verb-like_) [to] till newly
+      ==
+  //
+    , `tsri`
+    , [錙](/entries/zi#rendering-錙)
+    ,
+      ==
+      - (_noun-like_) ounce
       ==
   //
     , `tsriH`
