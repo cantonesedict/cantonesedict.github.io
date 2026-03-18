@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2026-03-16
+* %date-modified --> 2026-03-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1973,6 +1973,13 @@ W
         able to sustain important offices.
     ==
   ====
+L
+  ====
+  * 【仔】 (tsi, tsiX)
+    ==
+    - (_verb-like_) [to] bear
+    ==
+  ====
 S
   ==
   - $仔zai2
@@ -1992,6 +1999,7 @@ A
   - $祇2 (for "only" senses)
   - $祗2 (for "only" senses)
   - $衹2 (for "only" senses)
+  - $軹2 (for particle sense)
   ==
 V
   ==
@@ -2068,6 +2076,13 @@ C
     《五音集韻》 has the reading 之日切, with the note 本之爾切本無質音今讀若質俗所音増.
   - In modern terms, the reading _chat(7)_ (zat1) is obsolete.
   ==
+L
+  ====
+  * 【只】 (tsyeX)
+    ==
+    - (_speech-assist_)
+    ==
+  ====
 S
   ==
   - ($只zat1)
@@ -2285,6 +2300,13 @@ W
         a kind of snake.
     ==
   ====
+L
+  ====
+  * 【姊】 (tsijX)
+    ==
+    - (_noun-like_) elder-sister
+    ==
+  ====
 $$
 
 ### 子2 | _(2)Tsz'_ [[zi2]]
@@ -2450,6 +2472,13 @@ P
      above 宮 in the olden Chinese pentatonic scale,
      roughly equivalent to solfège _sol_ (Kangxi: 宮徵也, ::[...]五音配夏::).
   ++
+L
+  ====
+  * 【徵-rising】 (triX)
+    ==
+    - (_noun-like_) sol
+    ==
+  ====
 S
   ==
   - $徵zing1
@@ -2539,6 +2568,14 @@ P
   1. To rebuke, to criticise (Kangxi: 斥也).
   1. To rely on, to hope for.
   ++
+L
+  ====
+  * 【指】 (tsyijX)
+    ==
+    - (_noun-like_) finger
+    - (_verb-like_) [to] point
+    ==
+  ====
 E
   ====
   - 【尾指】 (mei5-1 zi2)
@@ -2619,6 +2656,14 @@ W
     - [[...]];
     - used for the last [[旨]] [[Kangxi 指: 與旨恉通意向也, 歸趣也, 美也]];
     - [[...]].
+    ==
+  ====
+L
+  ====
+  * 【旨】 (tsyijX)
+    ==
+    - (_adjective-like_) fine-tasting, fine, excellent
+    - (_noun-like_) intention
     ==
   ====
 $$
@@ -2710,6 +2755,13 @@ P
   ++
   1. Woodwork (Kangxi: 治木器曰梓).
   ++
+L
+  ====
+  * 【梓】 (tsiX)
+    ==
+    - (_noun-like_) catalpa
+    ==
+  ====
 $$
 
 ### 止2 | _(2)Ch(i/)_ [[zi2]]
@@ -2775,6 +2827,15 @@ P
   1. A mallet used for a certain musical instrument (Kangxi: 所以鼓柷謂之止, 止者其椎名也).
   1. Speech-assist (Kangxi: 語辭), specifically a final particle.
   ++
+L
+  ====
+  * 【止】 (tsyiX)
+    ==
+    - (_verb-like_) [to] halt, [to] cease, [to] rest, [to] stay
+    - (_noun-like_) deportment
+    - (_speech-assist_)
+    ==
+  ====
 $$
 
 ### 沚2 | _(2)Ch(i/)_ [[zi2]]
@@ -2797,6 +2858,13 @@ W
     - _(2)chi(u/) (2)ch(i/)_
         [[ziu2 zi2 沼沚]],
         an islet in a pond.
+    ==
+  ====
+L
+  ====
+  * 【沚】 (tsyiX)
+    ==
+    - (_noun-like_) islet
     ==
   ====
 $$
@@ -2957,6 +3025,13 @@ W
         good fortune.
     ==
   ====
+L
+  ====
+  * 【祉】 (trhiX)
+    ==
+    - (_noun-like_) blessing, felicity
+    ==
+  ====
 $$
 
 ### 祗2 | _(2)Ch(i/)_ [[zi2]]
@@ -3035,6 +3110,13 @@ P
         (starting from 億 = 10<sup>8</sup> and going up by squares).
       ==
   ++
+L
+  ====
+  * 【秭】 (tsijX)
+    ==
+    - (_noun-like_) haystack
+    ==
+  ====
 $$
 
 ### 紙2 | _(2)Ch(i/)_ [[zi2]]
@@ -3117,6 +3199,13 @@ C
   - Fan Wan entry: Corrected headword ⿰糸氐 to 紙.
   - Williams' 草紙: Also dated for toilet paper.
   ==
+L
+  ====
+  * 【紙】 (tsyeX)
+    ==
+    - (_noun-like_) paper
+    ==
+  ====
 E
   ====
   - 【花紙】 (faa1 zi2)
@@ -3191,6 +3280,13 @@ C
     The intent is not to define the character 紫
     as meaning "mixed hue" in the general sense.
   ==
+L
+  ====
+  * 【紫】 (tsjeX)
+    ==
+    - (_adjective-like_) purple
+    ==
+  ====
 $$
 
 ### 耔2 | _(2)Tsz'_ [[zi2]]
@@ -3200,6 +3296,10 @@ R
   ⽾ + 3
 U
   U+8014
+A
+  ==
+  - 秄
+  ==
 F
   ==
   - (F2.35 耔) 農人壅禾根也
@@ -3209,6 +3309,13 @@ W
   - [[Page~612 (2)耔]]
     ==
     - To ~~weed and hoe~~ ``heap`` earth around the roots of plants, to hill [[Kangxi: 壅苗本也]].
+    ==
+  ====
+L
+  ====
+  * 【耔】 (tsiX)
+    ==
+    - (_verb-like_) [to] earth roots
     ==
   ====
 $$
@@ -3239,6 +3346,13 @@ C
   ==
   - Strictly, the pre-merger reading should be _(2)ch(i/)_ per 《廣韻》阻史切.
   ==
+L
+  ====
+  * 【胏】 (tsriX)
+    ==
+    - (_noun-like_) boneful-meat
+    ==
+  ====
 $$
 
 ###+ 衹2 | _(2)Ch(i/)_ [[zi2]]
@@ -3372,6 +3486,13 @@ W
     [[Otherwise, an alternative form of 阯 (in 交阯 spelt 交趾). **See $阯zi2 for the canonical entry.**]]
     --
   ====
+L
+  ====
+  * 【趾】 (tsyiX)
+    ==
+    - (_noun-like_) foot, toe
+    ==
+  ====
 E
   ====
   - 【腳趾公】 (goek3 zi2 gung1)
@@ -3402,6 +3523,9 @@ W
     - the end of the ~~nave~~ ``axle`` projecting from the hub [[Kangxi: 軹指也如指而見于轂頭也, 軹謂轊頭也]];
     - diverging, like the forks of a road [[Kangxi: 岐也]].
     ==
+    --
+    [[Otherwise, an alternative form of 只 (for the particle sense). **See $只zi2 for the canonical entry.**]]
+    --
   ====
 $$
 
@@ -3466,6 +3590,13 @@ P
   ++
   1. Needlework (Kangxi: 箴縷所紩衣).
   ++
+L
+  ====
+  * 【黹】 (trijX)
+    ==
+    - (_noun-like_) embroidery
+    ==
+  ====
 $$
 
 

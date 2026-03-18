@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2026-03-15
+* %date-modified --> 2026-03-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1193,6 +1193,7 @@ U
   U+6CDA
 V
   ==
+  - cai2 (alternative per 《廣韻》千禮切)
   - cai5 (per Fan Wan)
   ==
 F
@@ -1211,7 +1212,7 @@ W
   ====
 L
   ====
-  * 【泚】 (tshjeX)
+  * 【泚】 (tshjeX, tshejX)
     ==
     - (_adjective-like_) limpid
     - (_adjective-like_) perspiring

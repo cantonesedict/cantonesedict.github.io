@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-03-16
+* %date-modified --> 2026-03-18
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -3236,6 +3236,13 @@ window.onload = applyFilter;
       - (_noun-like_) shame
       ==
   //
+    , `trhiX`
+    , [祉](/entries/zi#rendering-祉)
+    ,
+      ==
+      - (_noun-like_) blessing, felicity
+      ==
+  //
     , `trhik`
     , [敕](/entries/cik#rendering-敕)
     ,
@@ -3422,6 +3429,20 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] expel, [to] reject, [to] dismiss, [to] degrade
+      ==
+  //
+    , `triX`
+    , [徵~(rising)](/entries/zi#rendering-徵-rising)
+    ,
+      ==
+      - (_noun-like_) sol
+      ==
+  //
+    , `trijX`
+    , [黹](/entries/zi#rendering-黹)
+    ,
+      ==
+      - (_noun-like_) embroidery
       ==
   //
     , `trin`
@@ -3891,6 +3912,14 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) luxuriant
+      ==
+  //
+    , `tshejX`
+    , [泚](/entries/ci#rendering-泚)
+    ,
+      ==
+      - (_adjective-like_) limpid
+      - (_adjective-like_) perspiring
       ==
   //
     , `tshejH`
@@ -4557,6 +4586,13 @@ window.onload = applyFilter;
       ==
   //
     , `tsi`
+    , [仔](/entries/zi#rendering-仔)
+    ,
+      ==
+      - (_verb-like_) [to] bear
+      ==
+  //
+    , `tsi`
     , [孜](/entries/zi#rendering-孜)
     ,
       ==
@@ -4610,6 +4646,13 @@ window.onload = applyFilter;
       ==
   //
     , `tsiX`
+    , [仔](/entries/zi#rendering-仔)
+    ,
+      ==
+      - (_verb-like_) [to] bear
+      ==
+  //
+    , `tsiX`
     , [子](/entries/zi#rendering-子)
     ,
       ==
@@ -4618,6 +4661,20 @@ window.onload = applyFilter;
       - (_noun-like_) numerator
       - (_noun-like_) rat-branch
       - Used in [赤子](/entries/cik#rendering-赤子).
+      ==
+  //
+    , `tsiX`
+    , [梓](/entries/zi#rendering-梓)
+    ,
+      ==
+      - (_noun-like_) catalpa
+      ==
+  //
+    , `tsiX`
+    , [耔](/entries/zi#rendering-耔)
+    ,
+      ==
+      - (_verb-like_) [to] earth roots
       ==
   //
     , `tsij`
@@ -4653,6 +4710,20 @@ window.onload = applyFilter;
       ==
       - (_verb-like_) [to] gift
       - (_interjection_) sigh
+      ==
+  //
+    , `tsijX`
+    , [姊](/entries/zi#rendering-姊)
+    ,
+      ==
+      - (_noun-like_) elder-sister
+      ==
+  //
+    , `tsijX`
+    , [秭](/entries/zi#rendering-秭)
+    ,
+      ==
+      - (_noun-like_) haystack
       ==
   //
     , `tsimH`
@@ -4754,6 +4825,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) moustache
+      ==
+  //
+    , `tsjeX`
+    , [紫](/entries/zi#rendering-紫)
+    ,
+      ==
+      - (_adjective-like_) purple
       ==
   //
     , `tsjeX`
@@ -5343,6 +5421,13 @@ window.onload = applyFilter;
       - (_noun-like_) ounce
       ==
   //
+    , `tsriX`
+    , [胏](/entries/zi#rendering-胏)
+    ,
+      ==
+      - (_noun-like_) boneful-meat
+      ==
+  //
     , `tsriH`
     , [菑~(departing)](/entries/zi#rendering-菑-departing)
     ,
@@ -5655,6 +5740,20 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) limb
+      ==
+  //
+    , `tsyeX`
+    , [只](/entries/zi#rendering-只)
+    ,
+      ==
+      - (_speech-assist_)
+      ==
+  //
+    , `tsyeX`
+    , [紙](/entries/zi#rendering-紙)
+    ,
+      ==
+      - (_noun-like_) paper
       ==
   //
     , `tsyejH`
@@ -6032,6 +6131,29 @@ window.onload = applyFilter;
       - (_speech-assist_) ^[that]
       ==
   //
+    , `tsyiX`
+    , [止](/entries/zi#rendering-止)
+    ,
+      ==
+      - (_verb-like_) [to] halt, [to] cease, [to] rest, [to] stay
+      - (_noun-like_) deportment
+      - (_speech-assist_)
+      ==
+  //
+    , `tsyiX`
+    , [沚](/entries/zi#rendering-沚)
+    ,
+      ==
+      - (_noun-like_) islet
+      ==
+  //
+    , `tsyiX`
+    , [趾](/entries/zi#rendering-趾)
+    ,
+      ==
+      - (_noun-like_) foot, toe
+      ==
+  //
     , `tsyij`
     , [祗](/entries/zi#rendering-祗)
     ,
@@ -6044,6 +6166,22 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) grease, fat
+      ==
+  //
+    , `tsyijX`
+    , [指](/entries/zi#rendering-指)
+    ,
+      ==
+      - (_noun-like_) finger
+      - (_verb-like_) [to] point
+      ==
+  //
+    , `tsyijX`
+    , [旨](/entries/zi#rendering-旨)
+    ,
+      ==
+      - (_adjective-like_) fine-tasting, fine, excellent
+      - (_noun-like_) intention
       ==
   //
     , `tsyim`
