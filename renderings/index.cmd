@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-03-18
+* %date-modified --> 2026-03-19
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -4726,6 +4726,13 @@ window.onload = applyFilter;
       - (_noun-like_) haystack
       ==
   //
+    , `tsijH`
+    , [恣](/entries/zi#rendering-恣)
+    ,
+      ==
+      - (_verb-like_) [to] wanton, [to] indulge
+      ==
+  //
     , `tsimH`
     , [浸](/entries/zam#rendering-浸)
     ,
@@ -6154,6 +6161,13 @@ window.onload = applyFilter;
       - (_noun-like_) foot, toe
       ==
   //
+    , `tsyiH`
+    , [志](/entries/zi#rendering-志)
+    ,
+      ==
+      - (_noun-like_) will, mind, (_met._) aims
+      ==
+  //
     , `tsyij`
     , [祗](/entries/zi#rendering-祗)
     ,
@@ -6181,7 +6195,7 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) fine-tasting, fine, excellent
-      - (_noun-like_) intention
+      - (_noun-like_) intent
       ==
   //
     , `tsyim`

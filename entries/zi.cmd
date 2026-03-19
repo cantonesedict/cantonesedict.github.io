@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2026-03-18
+* %date-modified --> 2026-03-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2663,7 +2663,7 @@ L
   * 【旨】 (tsyijX)
     ==
     - (_adjective-like_) fine-tasting, fine, excellent
-    - (_noun-like_) intention
+    - (_noun-like_) intent
     ==
   ====
 $$
@@ -3717,6 +3717,13 @@ W
     [[Otherwise, an alternative form of 誌. **See $誌zi3 for the canonical entry.**]]
     --
   ====
+L
+  ====
+  * 【志】 (tsyiH)
+    ==
+    - (_noun-like_) will, mind, (_met._) aims
+    ==
+  ====
 $$
 
 ###+ 恣3 | _Tsz'(3)_ [[zi3]]
@@ -3748,6 +3755,13 @@ W
     - _tsung(3) ts(')z'(3)_
         [[zung3 ci3 縱恣]]
         unrestrained.
+    ==
+  ====
+L
+  ====
+  * 【恣】 (tsijH)
+    ==
+    - (_verb-like_) [to] wanton, [to] indulge
     ==
   ====
 S
