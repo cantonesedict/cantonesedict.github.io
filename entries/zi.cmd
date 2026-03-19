@@ -3796,6 +3796,13 @@ W
         enraged, in a great anger.
     ==
   ====
+L
+  ====
+  * 【懥】 (tsyijH, trijH)
+    ==
+    - (_noun-like_) enragement
+    ==
+  ====
 S
   ==
   - ($懥ci3)
@@ -3846,6 +3853,14 @@ P
   1. Extreme, utmost (Kangxi: 極也).
   1. Sincere, earnest.
   ++
+L
+  ====
+  * 【摯】 (tsyijH)
+    ==
+    - (_verb-like_) [to] seize, [to] hold
+    - (_verb-like_) [to] arrive
+    ==
+  ====
 $$
 
 ### 智3 | _Ch(i/)(3)_ [[zi3]]
@@ -3888,6 +3903,13 @@ W
     - _(4)m(o\) ch(i/)(3)_
         [[mou4 zi3 無智]]
         indiscreet.
+    ==
+  ====
+L
+  ====
+  * 【智】 (trjeH)
+    ==
+    - (_noun-like_) knowledge, (_met._) wisdom
     ==
   ====
 $$
@@ -3947,6 +3969,13 @@ W
     - [[...]].
     ==
   ====
+L
+  ====
+  * 【漬】 (dzjeH)
+    ==
+    - (_verb-like_) [to] soak
+    ==
+  ====
 S
   ==
   - $漬zik1
@@ -3982,6 +4011,17 @@ P
   1. To tumble, to stumble (Kangxi: 頓也跲也, 疐仆也).
      (Alternative form of 躓. See $躓zi3.)
   ++
+L
+  ====
+  * 【疐】 (trijH)
+    ==
+    - (_verb-like_) [to] stumble
+    ==
+  ====
+S
+  ==
+  - $疐dai3 (TODO) <## stem ##>
+  ==
 $$
 
 ### 痣3 | _Ch(i/)(3)_ [[zi3]]
@@ -4146,6 +4186,17 @@ P
   ++
   1. A relay station for horses (Kangxi: 置若今之驛也).
   ++
+L
+  ====
+  * 【置】 (triH)
+    ==
+    - (_verb-like_) [to] put, [to] set
+    ==
+  * 【寘】 (tsyeH)
+    ==
+    - (_verb-like_) [to] put
+    ==
+  ====
 $$
 
 ###+ 胾3 | _Ch(i/)(3)_ [[zi3]]
@@ -4169,6 +4220,13 @@ W
     ==
     - To cut up meat into steaks or morsels for eating [[Kangxi: 大臠也, 切肉曰胾]];
     - slices, steaks, bits of meat.
+    ==
+  ====
+L
+  ====
+  * 【胾】 (tsriH)
+    ==
+    - (_noun-like_) chunked-meat
     ==
   ====
 S
@@ -4254,6 +4312,22 @@ P
   1. Perfect, good (Kangxi: 善也).
   1. Great (Kangxi: 大也).
   ++
+L
+  ====
+  * 【至】 (tsyijH)
+    ==
+    - (_verb-like_) [to] arrive, [to] reach
+    - (_preposition-like_) unto
+    - (_adverb-like_) most
+    - (_adjective-like_) utmost
+    - (_noun-like_) solstice
+    - Used in [至於](/entries/zi#rendering-至於).
+    ==
+  * 【至於】 (tsyijH 'jo)
+    ==
+    - (_preposition-like_) as to
+    ==
+  ====
 E
   ====
   - 【至】 (zi3)
@@ -4271,8 +4345,12 @@ $$
 $$
 R
   ⾄ + 3
+  ⼢ + 6
 U
   U+81F4
+H
+  May appear as either ⿰至夊 (+3 assumed here) or ⿰至攵 (+4),
+  depending on the font.
 F
   ==
   - (F1.41 致) 使也又到也極也推也
@@ -4331,6 +4409,17 @@ P
   1. To arrive (Kangxi: 至也).
   1. To do fully, to the utmost (Kangxi: 極也).
   ++
+L
+  ====
+  * 【致】 (trijH)
+    ==
+    - (_verb-like_) [to] convey
+    - (_verb-like_) [to] hand over, (_met._) [to] retire
+    - (_verb-like_) [to] bring about
+    - (_verb-like_) [to] arrive
+    - (_verb-like_) [to] utmost, [to] do utmostly
+    ==
+  ====
 $$
 
 ###+ 菑3 | _Ch(i/)(3)_ _Tsz'(3)_ [[zi3]]
@@ -4390,6 +4479,10 @@ R
   ⾓ + 12
 U
   U+89F6
+V
+  ==
+  - zi1 (alternative per 《廣韻》章移切)
+  ==
 F
   ==
   - (F1.41 觶) 酒器實曰觴虛曰觶
@@ -4407,6 +4500,13 @@ P
   ++
   1. To punish with drink in a drinking game (Kangxi: 罰爵也).
   ++
+L
+  ====
+  * 【觶】 (tsyeH, tsye)
+    ==
+    - (_noun-like_) drinking-vessel
+    ==
+  ====
 $$
 
 ### 誌3 | _Ch(i/)(3)_ [[zi3]]

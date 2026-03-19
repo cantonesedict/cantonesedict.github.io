@@ -1639,6 +1639,13 @@ window.onload = applyFilter;
       - (_noun-like_) defect
       ==
   //
+    , `dzjeH`
+    , [漬](/entries/zi#rendering-漬)
+    ,
+      ==
+      - (_verb-like_) [to] soak
+      ==
+  //
     , `dzjek`
     , [瘠](/entries/zek#rendering-瘠)
     ,
@@ -3438,11 +3445,43 @@ window.onload = applyFilter;
       - (_noun-like_) sol
       ==
   //
+    , `triH`
+    , [置](/entries/zi#rendering-置)
+    ,
+      ==
+      - (_verb-like_) [to] put, [to] set
+      ==
+  //
     , `trijX`
     , [黹](/entries/zi#rendering-黹)
     ,
       ==
       - (_noun-like_) embroidery
+      ==
+  //
+    , `trijH`
+    , [懥](/entries/zi#rendering-懥)
+    ,
+      ==
+      - (_noun-like_) enragement
+      ==
+  //
+    , `trijH`
+    , [疐](/entries/zi#rendering-疐)
+    ,
+      ==
+      - (_verb-like_) [to] stumble
+      ==
+  //
+    , `trijH`
+    , [致](/entries/zi#rendering-致)
+    ,
+      ==
+      - (_verb-like_) [to] convey
+      - (_verb-like_) [to] hand over, (_met._) [to] retire
+      - (_verb-like_) [to] bring about
+      - (_verb-like_) [to] arrive
+      - (_verb-like_) [to] utmost, [to] do utmostly
       ==
   //
     , `trin`
@@ -3509,6 +3548,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) spider
+      ==
+  //
+    , `trjeH`
+    , [智](/entries/zi#rendering-智)
+    ,
+      ==
+      - (_noun-like_) knowledge, (_met._) wisdom
       ==
   //
     , `trjenX`
@@ -5436,6 +5482,13 @@ window.onload = applyFilter;
       ==
   //
     , `tsriH`
+    , [胾](/entries/zi#rendering-胾)
+    ,
+      ==
+      - (_noun-like_) chunked-meat
+      ==
+  //
+    , `tsriH`
     , [菑~(departing)](/entries/zi#rendering-菑-departing)
     ,
       ==
@@ -5749,6 +5802,13 @@ window.onload = applyFilter;
       - (_noun-like_) limb
       ==
   //
+    , `tsye`
+    , [觶](/entries/zi#rendering-觶)
+    ,
+      ==
+      - (_noun-like_) drinking-vessel
+      ==
+  //
     , `tsyeX`
     , [只](/entries/zi#rendering-只)
     ,
@@ -5761,6 +5821,20 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) paper
+      ==
+  //
+    , `tsyeH`
+    , [寘](/entries/zi#rendering-寘)
+    ,
+      ==
+      - (_verb-like_) [to] put
+      ==
+  //
+    , `tsyeH`
+    , [觶](/entries/zi#rendering-觶)
+    ,
+      ==
+      - (_noun-like_) drinking-vessel
       ==
   //
     , `tsyejH`
@@ -6196,6 +6270,40 @@ window.onload = applyFilter;
       ==
       - (_adjective-like_) fine-tasting, fine, excellent
       - (_noun-like_) intent
+      ==
+  //
+    , `tsyijH`
+    , [懥](/entries/zi#rendering-懥)
+    ,
+      ==
+      - (_noun-like_) enragement
+      ==
+  //
+    , `tsyijH`
+    , [摯](/entries/zi#rendering-摯)
+    ,
+      ==
+      - (_verb-like_) [to] seize, [to] hold
+      - (_verb-like_) [to] arrive
+      ==
+  //
+    , `tsyijH`
+    , [至](/entries/zi#rendering-至)
+    ,
+      ==
+      - (_verb-like_) [to] arrive, [to] reach
+      - (_preposition-like_) unto
+      - (_adverb-like_) most
+      - (_adjective-like_) utmost
+      - (_noun-like_) solstice
+      - Used in [至於](/entries/zi#rendering-至於).
+      ==
+  //
+    , `tsyijH 'jo`
+    , [至於](/entries/zi#rendering-至於)
+    ,
+      ==
+      - (_preposition-like_) as to
       ==
   //
     , `tsyim`
