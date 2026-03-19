@@ -885,7 +885,7 @@ window.onload = applyFilter;
     , [朕](/entries/zam#rendering-朕)
     ,
       ==
-      - (_noun-like_) I
+      - (_pronoun-like_) I
       ==
   //
     , `drin`

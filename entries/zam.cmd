@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2026-03-06
+* %date-modified --> 2026-03-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -946,7 +946,7 @@ L
   ====
   * 【朕】 (drimX)
     ==
-    - (_noun-like_) I
+    - (_pronoun-like_) I
     ==
   ====
 $$
