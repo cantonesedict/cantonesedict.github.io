@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2026-03-19
+* %date-modified --> 2026-03-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -4559,6 +4559,13 @@ W
     [[Otherwise, an alternative form of 痣. **See $痣zi3 for the canonical entry.**]]
     --
   ====
+L
+  ====
+  * 【誌】 (tsyiH)
+    ==
+    - (_verb-like_) [to] remember, [to] record
+    ==
+  ====
 $$
 
 ### 識3 | _Ch(i/)(3)_ [[zi3]]
@@ -4614,6 +4621,17 @@ W
         [[gaau1 zi3 交質]]
         to exchange hostages.
     ==
+    --
+    [[Otherwise, an alternative form of 贄. **See $贄zi3 for the canonical entry.**]]
+    --
+  ====
+L
+  ====
+  * 【質-departing】 (trijH)
+    ==
+    - (_verb-like_) [to] pledge, [to] give hostage
+    - (_noun-like_) pledge, hostage
+    ==
   ====
 S
   ==
@@ -4631,6 +4649,7 @@ U
 A
   ==
   - $摯3
+  - $質3
   ==
 F
   ==
@@ -4657,6 +4676,13 @@ W
     - _ch(i/)(3) k(i/)n(3)_
         [[zi3 gin3 贄見]]
         to visit with a present.
+    ==
+  ====
+L
+  ====
+  * 【贄】 (tsyijH)
+    ==
+    - (_noun-like_) first-meeting-gift
     ==
   ====
 $$
@@ -4687,6 +4713,13 @@ W
         fell headlong.
     ==
   ====
+L
+  ====
+  * 【躓】 (trijH)
+    ==
+    - (_verb-like_) [to] stumble
+    ==
+  ====
 $$
 
 ### 輊3 | _Ch(i/)(3)_ [[zi3]]
@@ -4706,6 +4739,13 @@ W
     ==
     - A carriage with a front lower than the back,
       or turning down, from the lading [[Kangxi: 低也, 車前重也]].
+    ==
+  ====
+L
+  ====
+  * 【輊】 (trijH)
+    ==
+    - (_noun-like_) low-fronted (chariot), front-heavy (chariot)
     ==
   ====
 $$
@@ -4776,6 +4816,14 @@ C
     This describes the "bird-of-prey" sense as "[a bird that] seizeth".
     It does not define a verb.
   ==
+L
+  ====
+  * 【鷙】 (tsyijH)
+    ==
+    - (_noun-like_) preying-bird
+    - (_verb-like_) [to] prey (upon)
+    ==
+  ====
 $$
 
 

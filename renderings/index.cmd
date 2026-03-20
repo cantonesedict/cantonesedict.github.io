@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-03-19
+* %date-modified --> 2026-03-20
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -3484,6 +3484,28 @@ window.onload = applyFilter;
       - (_verb-like_) [to] utmost, [to] do utmostly
       ==
   //
+    , `trijH`
+    , [質~(departing)](/entries/zi#rendering-質-departing)
+    ,
+      ==
+      - (_verb-like_) [to] pledge, [to] give hostage
+      - (_noun-like_) pledge, hostage
+      ==
+  //
+    , `trijH`
+    , [躓](/entries/zi#rendering-躓)
+    ,
+      ==
+      - (_verb-like_) [to] stumble
+      ==
+  //
+    , `trijH`
+    , [輊](/entries/zi#rendering-輊)
+    ,
+      ==
+      - (_noun-like_) low-fronted (chariot), front-heavy (chariot)
+      ==
+  //
     , `trin`
     , [珍](/entries/zan#rendering-珍)
     ,
@@ -6242,6 +6264,13 @@ window.onload = applyFilter;
       - (_noun-like_) will, mind, (_met._) aims
       ==
   //
+    , `tsyiH`
+    , [誌](/entries/zi#rendering-誌)
+    ,
+      ==
+      - (_verb-like_) [to] remember, [to] record
+      ==
+  //
     , `tsyij`
     , [祗](/entries/zi#rendering-祗)
     ,
@@ -6297,6 +6326,21 @@ window.onload = applyFilter;
       - (_adjective-like_) utmost
       - (_noun-like_) solstice
       - Used in [至於](/entries/zi#rendering-至於).
+      ==
+  //
+    , `tsyijH`
+    , [贄](/entries/zi#rendering-贄)
+    ,
+      ==
+      - (_noun-like_) first-meeting-gift
+      ==
+  //
+    , `tsyijH`
+    , [鷙](/entries/zi#rendering-鷙)
+    ,
+      ==
+      - (_noun-like_) preying-bird
+      - (_verb-like_) [to] prey (upon)
       ==
   //
     , `tsyijH 'jo`
