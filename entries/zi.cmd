@@ -4941,6 +4941,14 @@ P
   ++
   1. Used in 俟俟 (walking slowly in a large group) (Kangxi: 俟俟衆多徐行貌).
   ++
+L
+  ====
+  * 【俟】 (zriX)
+    ==
+    - (_verb-like_) [to] await
+    - (_adjective-like_) ambling together
+    ==
+  ====
 S
   ==
   - $俟kei4 (TODO)
@@ -5003,6 +5011,13 @@ W
     - [[...]].
     ==
   ====
+L
+  ====
+  * 【值-departing】 (driH)
+    ==
+    - (_verb-like_) [to] hold
+    ==
+  ====
 S
   ==
   - $值zik6
@@ -5056,6 +5071,15 @@ C
   ==
   - Williams' 繼嗣: Not necessarily adopted.
   ==
+L
+  ====
+  * 【嗣】 (ziH)
+    ==
+    - (_verb-like_) [to] succeed, [to] inherit
+    - (_verb-like_) [to] continue
+    - (_noun-like_) successor
+    ==
+  ====
 $$
 
 ### 字6 | _Tsz'(6)_ [[zi6]]
@@ -5145,6 +5169,17 @@ C
     whilst women are styled at betrothal
     (whence 待字 "awaiting style-name" for a daughter unbetrothed).
   ==
+L
+  ====
+  * 【字】 (dziH)
+    ==
+    - (_verb-like_) [to] bear [child], [to] breed
+    - (_verb-like_) [to] nurture, [to] love
+    - (_noun-like_) character
+    - (_noun-like_) style
+    - (_verb-like_) (_met._) [to] betroth
+    ==
+  ====
 E
   ====
   - 【字】 (zi6)
@@ -5271,11 +5306,24 @@ W
   - [[Page~614 䦙(6); here normalised to 寺]]
     ==
     - A court, a hall where officers hold sittings [[Kangxi 䦙: 廷也有法度者也本作寺]];
-    - an eunuch;
+    - an eunuch [[Kangxi: 宦寺]];
     - a chamberlain, an officer in waiting;
     - _tsz'(6) (4)yan_
         [[zi6 jan4 寺人]],
         an eunuch.
+    ==
+  ====
+L
+  ====
+  * 【寺】 (ziH)
+    ==
+    - (_noun-like_) court, (_met._) eunuch
+    - (_noun-like_) temple
+    - Used in [寺人](/entries/zi#rendering-寺人).
+    ==
+  * 【寺人】 (ziH nyin)
+    ==
+    - (_noun-like_) eunuch
     ==
   ====
 $$
@@ -5297,6 +5345,13 @@ W
     ==
     - The sixth of the 12~branches, denoted by a snake [[Kangxi: ::[...]故巳爲蛇象形::]],
       and corresponding to 9--11~A.~M.
+    ==
+  ====
+L
+  ====
+  * 【巳】 (ziX)
+    ==
+    - (_noun-like_) snake-branch
     ==
   ====
 $$
@@ -5362,6 +5417,13 @@ C
     the result is that 人彘 "human swine" is used
     to refer to victims of horrific cruelty.
   ==
+L
+  ====
+  * 【彘】 (drjejH)
+    ==
+    - (_noun-like_) swine
+    ==
+  ====
 $$
 
 ###+ 植6 | _Ch(i/)(6)_ [[zi6]]
@@ -5463,6 +5525,17 @@ C
   - In modern usage, level-tone _(4)ch(')(i/)_ (ci4)
     is considered obsolete.
   ====
+L
+  ====
+  * 【治-verb】 (dri)
+    ==
+    - (_verb-like_) [to] govern, [to] administer, [to] regulate
+    ==
+  * 【治-adjective】 (driH)
+    ==
+    - (_adjective-like_) governed, administered, regulated
+    ==
+  ====
 E
   ====
   - 【三文治】 (saam1 man4 zi6)
@@ -5509,6 +5582,13 @@ C
   - Strictly, the pre-merger reading should be _ch(i/)(6)_ per 《廣韻》牀史切.
   - Fan Wan entry: Corrected headword $竢6 to 涘.
   ==
+L
+  ====
+  * 【涘】 (zriX)
+    ==
+    - (_noun-like_) riverbank, bank
+    ==
+  ====
 $$
 
 ### 牸6 | _Tsz'(6)_ [[zi6]]
@@ -5572,6 +5652,13 @@ C
     which is an (erroneous) explanation from 《釋名》
     that haemorrhoids are (or caused by) some parasite feeding on the person.
   ==
+L
+  ====
+  * 【痔】 (driX)
+    ==
+    - (_noun-like_) piles
+    ==
+  ====
 $$
 
 ###+ 眥6 | _Tsz'(6)_ [[zi6]]
@@ -5588,6 +5675,7 @@ A
 V
   ==
   - ci1 (common)
+  - zai6 (alternative per 《廣韻》在詣切)
   ==
 F
   ==
@@ -5601,6 +5689,13 @@ W
     - The canthus or corner of the eye [[Kangxi: 目厓也]];
     - [[...]];
     - a lappel, the place where it folds over.
+    ==
+  ====
+L
+  ====
+  * 【眥】 (dzjeH, dzejH)
+    ==
+    - (_noun-like_) canthus
     ==
   ====
 S
@@ -5643,6 +5738,14 @@ W
         to worship ancestors.
     ==
   ====
+L
+  ====
+  * 【祀】 (ziX)
+    ==
+    - (_verb-like_) [to] sacrifice
+    - (_noun-like_) annus
+    ==
+  ====
 $$
 
 ### 稚6 | _Ch(i/)(6)_ [[zi6]]
@@ -5678,6 +5781,14 @@ W
     - _ch(i/)(6) (2)tsz'_
         [[zi6 zi2 稚子]]
         a boy.
+    ==
+  ====
+L
+  ====
+  * 【稚】 (drijH)
+    ==
+    - (_noun-like_) immature-grain
+    - (_adjective-like_) immature
     ==
   ====
 $$
@@ -5754,6 +5865,13 @@ W
         learned, well read.
     ==
   ====
+L
+  ====
+  * 【笥】 (siH)
+    ==
+    - (_noun-like_) hamper
+    ==
+  ====
 $$
 
 ### 耜6 | _Tsz'(6)_ [[zi6]]
@@ -5788,6 +5906,13 @@ C
   ==
   - Fan Wan entry: Corrected {𮋦=⿰耒目} to 耜.
   ==
+L
+  ====
+  * 【耜】 (ziX)
+    ==
+    - (_noun-like_) ploughshare, plough
+    ==
+  ====
 $$
 
 ### 自6 | _Tsz'(6)_ [[zi6]]
@@ -5882,6 +6007,18 @@ P
   ++
   1. Of itself, naturally (Kangxi: 自然無勉强也).
   ++
+L
+  ====
+  * 【自】 (dzijH)
+    ==
+    - (_pronoun-like_) self
+    - (_adjective-like_) own
+    - (_preposition-like_) since, from
+    - (_adverb-like_) naturally
+    - (_conjunction-like_) if
+    - (_conjunction-like_) though
+    ==
+  ====
 $$
 
 ### 豸6 | _~~(2)Ch(i/)~~ ``Ch(i/)(6)``_ [[zi6]]
@@ -5929,6 +6066,10 @@ R
   ⾡ + 12
 U
   U+9072
+A
+  ==
+  - 遟
+  ==
 F
   [[Not present]]
 W
@@ -5938,6 +6079,13 @@ W
     - [[...]];
     - to wait for [[Kangxi: 待也]];
     - [[...]].
+    ==
+  ====
+L
+  ====
+  * 【遲-departing】 (drijH)
+    ==
+    - (_verb-like_) [to] await
     ==
   ====
 S
@@ -6011,6 +6159,14 @@ P
   ++
   1. A unit of wall area (Kangxi: 方丈曰堵三堵曰雉).
   ++
+L
+  ====
+  * 【雉】 (drijX)
+    ==
+    - (_noun-like_) pheasant
+    - (_noun-like_) perch
+    ==
+  ====
 $$
 
 ### 食6 | _Tsz'(6)_ [[zi6]]
@@ -6052,6 +6208,13 @@ C
   ==
   - Fan Wan entry: Corrected 偎 to 餵.
   ==
+L
+  ====
+  * 【食-departing】 (ziH)
+    ==
+    - (_verb-like_) [to] feed
+    ==
+  ====
 S
   ==
   - $食ji6 (TODO)

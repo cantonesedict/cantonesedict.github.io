@@ -853,6 +853,34 @@ window.onload = applyFilter;
       - (_verb-like_) [to] hold
       ==
   //
+    , `dri`
+    , [治~(verb)](/entries/zi#rendering-治-verb)
+    ,
+      ==
+      - (_verb-like_) [to] govern, [to] administer, [to] regulate
+      ==
+  //
+    , `driX`
+    , [痔](/entries/zi#rendering-痔)
+    ,
+      ==
+      - (_noun-like_) piles
+      ==
+  //
+    , `driH`
+    , [值~(departing)](/entries/zi#rendering-值-departing)
+    ,
+      ==
+      - (_verb-like_) [to] hold
+      ==
+  //
+    , `driH`
+    , [治~(adjective)](/entries/zi#rendering-治-adjective)
+    ,
+      ==
+      - (_adjective-like_) governed, administered, regulated
+      ==
+  //
     , `drij`
     , [坻](/entries/ci#rendering-坻)
     ,
@@ -868,10 +896,33 @@ window.onload = applyFilter;
       ==
   //
     , `drij`
-    , [遲](/entries/ci#rendering-遲)
+    , [遲~(level)](/entries/ci#rendering-遲-level)
     ,
       ==
       - (_adjective-like_) slow
+      ==
+  //
+    , `drijX`
+    , [雉](/entries/zi#rendering-雉)
+    ,
+      ==
+      - (_noun-like_) pheasant
+      - (_noun-like_) perch
+      ==
+  //
+    , `drijH`
+    , [稚](/entries/zi#rendering-稚)
+    ,
+      ==
+      - (_noun-like_) immature-grain
+      - (_adjective-like_) immature
+      ==
+  //
+    , `drijH`
+    , [遲~(departing)](/entries/zi#rendering-遲-departing)
+    ,
+      ==
+      - (_verb-like_) [to] await
       ==
   //
     , `drim`
@@ -1037,6 +1088,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] strip
+      ==
+  //
+    , `drjejH`
+    , [彘](/entries/zi#rendering-彘)
+    ,
+      ==
+      - (_noun-like_) swine
       ==
   //
     , `drjejH`
@@ -1513,6 +1571,13 @@ window.onload = applyFilter;
       ==
   //
     , `dzejH`
+    , [眥](/entries/zi#rendering-眥)
+    ,
+      ==
+      - (_noun-like_) canthus
+      ==
+  //
+    , `dzejH`
     , [穧](/entries/zai#rendering-穧)
     ,
       ==
@@ -1536,6 +1601,17 @@ window.onload = applyFilter;
       ==
   //
     , `dziH`
+    , [字](/entries/zi#rendering-字)
+    ,
+      ==
+      - (_verb-like_) [to] bear [child], [to] breed
+      - (_verb-like_) [to] nurture, [to] love
+      - (_noun-like_) character
+      - (_noun-like_) style
+      - (_verb-like_) (_met._) [to] betroth
+      ==
+  //
+    , `dziH`
     , [孳~(departing)](/entries/zi#rendering-孳-departing)
     ,
       ==
@@ -1548,6 +1624,18 @@ window.onload = applyFilter;
       ==
       - (_verb-like_) [to] thatch
       - (_noun-like_) puncture-vine
+      ==
+  //
+    , `dzijH`
+    , [自](/entries/zi#rendering-自)
+    ,
+      ==
+      - (_pronoun-like_) self
+      - (_adjective-like_) own
+      - (_preposition-like_) since, from
+      - (_adverb-like_) naturally
+      - (_conjunction-like_) if
+      - (_conjunction-like_) though
       ==
   //
     , `dzim`
@@ -1644,6 +1732,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] soak
+      ==
+  //
+    , `dzjeH`
+    , [眥](/entries/zi#rendering-眥)
+    ,
+      ==
+      - (_noun-like_) canthus
       ==
   //
     , `dzjek`
@@ -2953,6 +3048,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] roost
+      ==
+  //
+    , `siH`
+    , [笥](/entries/zi#rendering-笥)
+    ,
+      ==
+      - (_noun-like_) hamper
       ==
   //
     , `sjeH`
@@ -6954,10 +7056,64 @@ window.onload = applyFilter;
       ==
   //
     , `ziX`
+    , [巳](/entries/zi#rendering-巳)
+    ,
+      ==
+      - (_noun-like_) snake-branch
+      ==
+  //
+    , `ziX`
     , [汜](/entries/ci#rendering-汜)
     ,
       ==
       - (_noun-like_) rejoining-water
+      ==
+  //
+    , `ziX`
+    , [祀](/entries/zi#rendering-祀)
+    ,
+      ==
+      - (_verb-like_) [to] sacrifice
+      - (_noun-like_) annus
+      ==
+  //
+    , `ziX`
+    , [耜](/entries/zi#rendering-耜)
+    ,
+      ==
+      - (_noun-like_) ploughshare, plough
+      ==
+  //
+    , `ziH`
+    , [嗣](/entries/zi#rendering-嗣)
+    ,
+      ==
+      - (_verb-like_) [to] succeed, [to] inherit
+      - (_verb-like_) [to] continue
+      - (_noun-like_) successor
+      ==
+  //
+    , `ziH`
+    , [寺](/entries/zi#rendering-寺)
+    ,
+      ==
+      - (_noun-like_) court, (_met._) eunuch
+      - (_noun-like_) temple
+      - Used in [寺人](/entries/zi#rendering-寺人).
+      ==
+  //
+    , `ziH`
+    , [食~(departing)](/entries/zi#rendering-食-departing)
+    ,
+      ==
+      - (_verb-like_) [to] feed
+      ==
+  //
+    , `ziH nyin`
+    , [寺人](/entries/zi#rendering-寺人)
+    ,
+      ==
+      - (_noun-like_) eunuch
       ==
   //
     , `zim`
@@ -7146,6 +7302,21 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] follow, (_met._) ^according unto
+      ==
+  //
+    , `zriX`
+    , [俟](/entries/zi#rendering-俟)
+    ,
+      ==
+      - (_verb-like_) [to] await
+      - (_adjective-like_) ambling together
+      ==
+  //
+    , `zriX`
+    , [涘](/entries/zi#rendering-涘)
+    ,
+      ==
+      - (_noun-like_) riverbank, bank
       ==
   //
     , `zwin`

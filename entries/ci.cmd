@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2026-03-18
+* %date-modified --> 2026-03-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -3176,6 +3176,10 @@ R
   ⾡ + 12
 U
   U+9072
+A
+  ==
+  - 遟
+  ==
 V
   ==
   - ci4-2 (rising second in vernacular 遲遲地)
@@ -3232,7 +3236,7 @@ W
   ====
 L
   ====
-  * 【遲】 (drij)
+  * 【遲-level】 (drij)
     ==
     - (_adjective-like_) slow
     ==
