@@ -6339,7 +6339,7 @@ window.onload = applyFilter;
     , [鷙](/entries/zi#rendering-鷙)
     ,
       ==
-      - (_noun-like_) preying-bird
+      - (_noun-like_) bird-of-prey
       - (_verb-like_) [to] prey (upon)
       ==
   //

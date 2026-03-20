@@ -4820,7 +4820,7 @@ L
   ====
   * 【鷙】 (tsyijH)
     ==
-    - (_noun-like_) preying-bird
+    - (_noun-like_) bird-of-prey
     - (_verb-like_) [to] prey (upon)
     ==
   ====
