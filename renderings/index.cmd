@@ -1755,6 +1755,13 @@ window.onload = applyFilter;
       - (_adjective-like_) emaciated, (_met._) lean
       ==
   //
+    , `dzjek`
+    , [踖~(step)](/entries/zik#rendering-踖-step)
+    ,
+      ==
+      - (_verb-like_) [to] step on, [to] step over
+      ==
+  //
     , `dzjem`
     , [潛~(dive)](/entries/cim#rendering-潛-dive)
     ,
@@ -3229,6 +3236,13 @@ window.onload = applyFilter;
       - (_adverb-like_) (_met._) first, just
       ==
   //
+    , `syiH`
+    , [幟](/entries/ci#rendering-幟)
+    ,
+      ==
+      - (_noun-like_) flag
+      ==
+  //
     , `syijX`
     , [矢](/entries/ci#rendering-矢)
     ,
@@ -3615,6 +3629,13 @@ window.onload = applyFilter;
       - (_noun-like_) low-fronted (chariot), front-heavy (chariot)
       ==
   //
+    , `trik`
+    , [陟](/entries/zik#rendering-陟)
+    ,
+      ==
+      - (_verb-like_) [to] ascend
+      ==
+  //
     , `trin`
     , [珍](/entries/zan#rendering-珍)
     ,
@@ -3921,6 +3942,14 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] cease (raining)
+      ==
+  //
+    , `tsek`
+    , [績](/entries/zik#rendering-績)
+    ,
+      ==
+      - (_verb-like_) [to] twist (thread)
+      - (_noun-like_) achievement
       ==
   //
     , `tsemH`
@@ -4358,6 +4387,20 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] pierce, [to] stab, (_met._) [to] slay, [to] assassinate, [to] castigate, [to] lampoon
+      ==
+  //
+    , `tshjek`
+    , [踖~(demeanour)](/entries/zik#rendering-踖-demeanour)
+    ,
+      ==
+      - Used in [踖踖](/entries/zik#rendering-踖踖).
+      ==
+  //
+    , `tshjek tshjek`
+    , [踖踖](/entries/zik#rendering-踖踖)
+    ,
+      ==
+      - (_adverb-like_) with [reverent] demeanour
       ==
   //
     , `tshjem`
@@ -5060,6 +5103,14 @@ window.onload = applyFilter;
       - (_verb-like_) [to] loathe
       ==
   //
+    , `tsjeH`
+    , [積](/entries/zik#rendering-積)
+    ,
+      ==
+      - (_verb-like_) [to] accumulate
+      - (_noun-like_) product, area, volume
+      ==
+  //
     , `tsjejH`
     , [祭](/entries/zai#rendering-祭)
     ,
@@ -5096,10 +5147,32 @@ window.onload = applyFilter;
       ==
   //
     , `tsjek`
+    , [積](/entries/zik#rendering-積)
+    ,
+      ==
+      - (_verb-like_) [to] accumulate
+      - (_noun-like_) product, area, volume
+      ==
+  //
+    , `tsjek`
     , [脊](/entries/zek#rendering-脊)
     ,
       ==
       - (_noun-like_) spine, (_met._) grounds
+      ==
+  //
+    , `tsjek`
+    , [跡](/entries/zik#rendering-跡)
+    ,
+      ==
+      - (_noun-like_) footprint, footstep, trace, (_met._) accomplishment
+      ==
+  //
+    , `tsjek`
+    , [踖~(reverential)](/entries/zik#rendering-踖-reverential)
+    ,
+      ==
+      - Used in [踧踖](/entries/zik#rendering-踧踖).
       ==
   //
     , `tsjek`
@@ -5239,6 +5312,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] trample, [to] kick
+      ==
+  //
+    , `tsjuwk tsjek`
+    , [踧踖](/entries/zik#rendering-踧踖)
+    ,
+      ==
+      - (_adjective-like_) moving reverently, reverential
       ==
   //
     , `tsjwe`
@@ -6172,6 +6252,13 @@ window.onload = applyFilter;
       ==
   //
     , `tsyhiH`
+    , [幟](/entries/ci#rendering-幟)
+    ,
+      ==
+      - (_noun-like_) flag
+      ==
+  //
+    , `tsyhiH`
     , [熾](/entries/ci#rendering-熾)
     ,
       ==
@@ -6415,6 +6502,13 @@ window.onload = applyFilter;
       ==
   //
     , `tsyiH`
+    , [織~(departing)](/entries/zik#rendering-織-departing)
+    ,
+      ==
+      - (_noun-like_) dyed-weaving
+      ==
+  //
+    , `tsyiH`
     , [誌](/entries/zi#rendering-誌)
     ,
       ==
@@ -6498,6 +6592,22 @@ window.onload = applyFilter;
     ,
       ==
       - (_preposition-like_) as to
+      ==
+  //
+    , `tsyik`
+    , [織~(entering)](/entries/zik#rendering-織-entering)
+    ,
+      ==
+      - (_verb-like_) [to] weave
+      ==
+  //
+    , `tsyik`
+    , [職](/entries/zik#rendering-職)
+    ,
+      ==
+      - (_noun-like_) office, duty
+      - (_verb-like_) [to] officiate
+      - (_adverb-like_) exclusively
       ==
   //
     , `tsyim`

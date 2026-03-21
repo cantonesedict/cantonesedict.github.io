@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2026-03-20
+* %date-modified --> 2026-03-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1698,6 +1698,10 @@ A
   ==
   - $織3
   ==
+V
+  ==
+  - si3 (alternative per 《廣韻》式吏切)
+  ==
 F
   ==
   - (F1.42 幟) 旗幟
@@ -1710,6 +1714,13 @@ W
     - a flag, a streamer or pennon, long and fringed [[Kangxi: 旌旗之屬, 旗幟, 標也, 旛也]];
     - to tie or sew on fringes, as a signal [[Kangxi: 記也]];
     - to signalize.
+    ==
+  ====
+L
+  ====
+  * 【幟】 (tsyhiH, syiH)
+    ==
+    - (_noun-like_) flag
     ==
   ====
 $$

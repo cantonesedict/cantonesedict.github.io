@@ -624,6 +624,14 @@ P
   ++
   1. A product (result of multiplication), area, or volume.
   ++
+L
+  ====
+  * 【積】 (tsjek, tsjeH)
+    ==
+    - (_verb-like_) [to] accumulate
+    - (_noun-like_) product, area, volume
+    ==
+  ====
 $$
 
 ### 績1 | _Tsik(7)_ [[zik1]]
@@ -675,6 +683,14 @@ P
   1. An achievement (Kangxi: 績業也).
   1. To continue (Kangxi: 績繼也).
   ++
+L
+  ====
+  * 【績】 (tsek)
+    ==
+    - (_verb-like_) [to] twist (thread)
+    - (_noun-like_) achievement
+    ==
+  ====
 $$
 
 ### 織1 | _Chik(7)_ [[zik1]]
@@ -686,7 +702,7 @@ U
   U+7E54
 V
   ==
-  - zi3 (per Kangxi 職利切 for "dyed-weave" sense)
+  - zi3 (per Kangxi 職利切 for "dyed-weaving" sense)
   ==
 F
   ==
@@ -719,6 +735,21 @@ C
   ==
   - Williams' 織布: Corrected _p(o\)(6)_ (bou6) to _p(o\)(3)_ (bou3).
   ==
+P
+  ++
+  1. Dyed woven cloth (Kangxi: 織染絲織之士衣染繒也).
+  ++
+L
+  ====
+  * 【織-departing】 (tsyiH)
+    ==
+    - (_noun-like_) dyed-weaving
+    ==
+  * 【織-entering】 (tsyik)
+    ==
+    - (_verb-like_) [to] weave
+    ==
+  ====
 S
   ==
   - ($織ci3)
@@ -741,7 +772,7 @@ W
   - [[Page~13* 職(7)]]
     ==
     - To govern, to rule [[Kangxi: 執掌也]];
-    - ~~to attend to;~~
+    - to attend to;
     - ~~to record;~~
     - ~~to act officially;~~
     - having the direction of [[Kangxi: 職主也]];
@@ -792,6 +823,19 @@ C
     Here, 記 means "know", not "record".
   - Williams' 職員: In modern usage, "employee".
   ==
+P
+  ++
+  1. Exclusively (Kangxi: 專也).
+  ++
+L
+  ====
+  * 【職】 (tsyik)
+    ==
+    - (_noun-like_) office, duty
+    - (_verb-like_) [to] officiate
+    - (_adverb-like_) exclusively
+    ==
+  ====
 $$
 
 ### 跡1 | _Tsik(7)_ [[zik1]]
@@ -852,6 +896,13 @@ P
   1. A vestige, a remnant (Kangxi 迹: 凡前人所遺留者曰迹).
   1. To follow, to adhere to (Kangxi 迹: 凡有所遵循亦曰迹).
   ++
+L
+  ====
+  * 【跡】 (tsjek)
+    ==
+    - (_noun-like_) footprint, footstep, trace, (_met._) accomplishment
+    ==
+  ====
 $$
 
 ### 踖1 | _Tsik(7)_ [[zik1]]
@@ -873,8 +924,39 @@ W
   - [[Page~569 踖(7)]]
     ==
     - To stride [[Kangxi: 長脛行也]];
-    - to straddle or step over a thing [[Kangxi: 踖猶躐也, 踐也]];
+    - to straddle or step over ``or step on`` a thing [[Kangxi: 踖猶躐也, 踐也]];
     - to walk reverently, to step in a formal manner, to measure one's steps [[Kangxi: 一曰踧踖也, 踧踖敬貌, 踧踖恭敬也]].
+    ==
+  ====
+C
+  ==
+  - Williams' "step over": Or, to step *on*. 躐也 is ambiguous.
+  ==
+P
+  ++
+  1. With (reverent?) demeanour or bearing (Kangxi: ::[...]有容也::, ::[...]有容儀也::).
+  ++
+L
+  ====
+  * 【踖-step】 (dzjek)
+    ==
+    - (_verb-like_) [to] step on, [to] step over
+    ==
+  * 【踖-demeanour】 (tshjek)
+    ==
+    - Used in [踖踖](/entries/zik#rendering-踖踖).
+    ==
+  * 【踖踖】 (tshjek tshjek)
+    ==
+    - (_adverb-like_) with [reverent] demeanour
+    ==
+  * 【踖-reverential】 (tsjek)
+    ==
+    - Used in [踧踖](/entries/zik#rendering-踧踖).
+    ==
+  * 【踧踖】 (tsjuwk tsjek)
+    ==
+    - (_adjective-like_) moving reverently, reverential
     ==
   ====
 $$
@@ -955,6 +1037,13 @@ C
   - Fan Wan entry: Normalised headword ⿰阝歩 to 陟.
     The explanation 我也 is erroneous.
   ==
+L
+  ====
+  * 【陟】 (trik)
+    ==
+    - (_verb-like_) [to] ascend
+    ==
+  ====
 $$
 
 ###+ 鯽1 | _Tsik(7)_ [[zik1]]
