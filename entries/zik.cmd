@@ -1270,7 +1270,7 @@ A
   ==
 V
   ==
-  - zi6 (per Kangxi 直吏切 for "meet/happen" sense)
+  - zi6 (per Kangxi 直吏切 for "meet/happen" sense and as alternative for "worth" sense)
   ==
 F
   ==
@@ -1328,8 +1328,18 @@ W
 C
   ==
   - In modern usage, the reading _ch(i/)(6)_ (zi6) for the "meet/happen" sense
+    (and as an alternative for the "worth" sense)
     is obsolete.
   ==
+L
+  ====
+  * 【值-worth】 (drik, driH)
+    ==
+    - (_verb-like_) [to] withstand, [to] face
+    - (_verb-like_) [to] stand for, [to] be worth
+    - (_noun-like_) worth
+    ==
+  ====
 S
   ==
   - $值zi6
@@ -1361,6 +1371,13 @@ W
     - _ch(a/)k(9) chik(9)_
         [[zaak6 zik6 擿埴]]
         to feel one's way with a stick [[Kangxi: 瞽者以杖擿地而後行謂之擿埴]].
+    ==
+  ====
+L
+  ====
+  * 【埴】 (dzyik)
+    ==
+    - (_noun-like_) clay
     ==
   ====
 $$
@@ -1400,6 +1417,13 @@ P
   ++
   1. An evening meeting (Kangxi: 朝見曰朝夕見曰夕).
   ++
+L
+  ====
+  * 【夕】 (zjek)
+    ==
+    - (_noun-like_) evening
+    ==
+  ====
 $$
 
 ### 寂6 | _Tsik(9)_ [[zik6]]
@@ -1432,6 +1456,13 @@ C
   ==
   - Williams' "recluse": In the (now) archaic sense of a place of seclusion.
   ==
+L
+  ====
+  * 【寂】 (dzek)
+    ==
+    - (_adjective-like_) still, silent
+    ==
+  ====
 $$
 
 ### ~~蓆~~``席``6 | _Tsik(9)_ [[zik6]]
@@ -1498,6 +1529,13 @@ P
   ++
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【席】 (zjek)
+    ==
+    - (_noun-like_) mat
+    ==
+  ====
 S
   ==
   - ($席zek6)

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2026-03-20
+* %date-modified --> 2026-03-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -5013,7 +5013,7 @@ W
   ====
 L
   ====
-  * 【值-departing】 (driH)
+  * 【值-hold】 (driH)
     ==
     - (_verb-like_) [to] hold
     ==

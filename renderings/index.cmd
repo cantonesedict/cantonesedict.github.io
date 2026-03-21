@@ -868,10 +868,19 @@ window.onload = applyFilter;
       ==
   //
     , `driH`
-    , [值~(departing)](/entries/zi#rendering-值-departing)
+    , [值~(hold)](/entries/zi#rendering-值-hold)
     ,
       ==
       - (_verb-like_) [to] hold
+      ==
+  //
+    , `driH`
+    , [值~(worth)](/entries/zik#rendering-值-worth)
+    ,
+      ==
+      - (_verb-like_) [to] withstand, [to] face
+      - (_verb-like_) [to] stand for, [to] be worth
+      - (_noun-like_) worth
       ==
   //
     , `driH`
@@ -923,6 +932,15 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] await
+      ==
+  //
+    , `drik`
+    , [值~(worth)](/entries/zik#rendering-值-worth)
+    ,
+      ==
+      - (_verb-like_) [to] withstand, [to] face
+      - (_verb-like_) [to] stand for, [to] be worth
+      - (_noun-like_) worth
       ==
   //
     , `drim`
@@ -1582,6 +1600,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] reap
+      ==
+  //
+    , `dzek`
+    , [寂](/entries/zik#rendering-寂)
+    ,
+      ==
+      - (_adjective-like_) still, silent
       ==
   //
     , `dzen`
@@ -2347,6 +2372,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] grasp
       - (_verb-like_) [to] pick
       - (_verb-like_) [to] clash, [to] conflict
+      ==
+  //
+    , `dzyik`
+    , [埴](/entries/zik#rendering-埴)
+    ,
+      ==
+      - (_noun-like_) clay
       ==
   //
     , `dzyuw`
@@ -7399,6 +7431,20 @@ window.onload = applyFilter;
       - (_verb-like_) [to] scrutinise
       - (_adjective-like_) detailed
       - (_verb-like_) [to] detail, [to] elaborate
+      ==
+  //
+    , `zjek`
+    , [夕](/entries/zik#rendering-夕)
+    ,
+      ==
+      - (_noun-like_) evening
+      ==
+  //
+    , `zjek`
+    , [席](/entries/zik#rendering-席)
+    ,
+      ==
+      - (_noun-like_) mat
       ==
   //
     , `zjo`
