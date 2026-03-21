@@ -267,6 +267,13 @@ W
         [[jat6 zak1 日昃]]
         day is declining.
     ==
+  - [[Page~569 稷(7) _Tsik(7)_ (zik1); here corrected to _Chak(7)_ (zak1)]]
+    ==
+    - [[...]];
+    - _h(a/)(6) ~~tsik(7)~~ ``chak(7)``_
+        [[haa6 zak1 下稷]]
+        afternoon [[Kangxi 稷: 與昃通, 稷昃也下稷謂晡時]].
+    ==
   ====
 L
   ====

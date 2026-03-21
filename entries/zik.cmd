@@ -550,9 +550,7 @@ W
     - _hau(6) tsik(7)_
         [[hau6 zik1 后稷]]
         ~~a god of harvests~~;
-    - _h(a/)(6) tsik(7)_
-        [[haa6 zik1 下稷]]
-        afternoon [[Kangxi: 稷昃也下稷謂晡時]].
+    - [[...]].
     ==
   ====
 C
@@ -560,8 +558,6 @@ C
   - Fan Wan entry: Corrected ⿱⿻一火氺 to 黍.
   - Williams' 社稷: Strictly two gods, one of soil (社) and one of grains (稷).
   - Williams' 后稷: Not quite a god, though a legendary figure.
-  - Williams' 下稷: This is an alternative spelling of 下昃,
-    explained 晡時, explained 申時.
   ==
 P
   ++
