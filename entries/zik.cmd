@@ -576,6 +576,10 @@ L
     - (_adjective-like_) prompt
     ==
   ====
+S
+  ==
+  - ($稷zak1)
+  ==
 $$
 
 ### 積1 | _Tsik(7)_ [[zik1]]

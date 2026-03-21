@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zak
-* %date-modified --> 2026-03-06
+* %date-modified --> 2026-03-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -47,6 +47,7 @@ $$
 - $側1
 - $則1
 - $昃1
+- ($稷1)
 - ($簀1)
 - ($鯽1)
 - $鰂1
@@ -247,6 +248,10 @@ R
   ⽇ + 4
 U
   U+6603
+A
+  ==
+  - $稷1
+  ==
 F
   ==
   - (F2.32 昃) 日斜也
@@ -270,6 +275,27 @@ L
     - (_adjective-like_) slanting [west]
     ==
   ====
+$$
+
+###+ 稷1 | _Chak(7)_ [[zak1]]
+
+$$.
+R
+  ⽲ + 10
+U
+  U+7A37
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 昃. **See $昃zak1 for the canonical entry.**
+  ++
+S
+  ==
+  - $稷zik1
+  ==
 $$
 
 ### 簀1 | _Chak(7)_ [[zak1]]
