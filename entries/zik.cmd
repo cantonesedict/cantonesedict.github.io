@@ -1595,6 +1595,14 @@ P
   ++
   1. A plant (Kangxi: 根生之屬曰植).
   ++
+L
+  ====
+  * 【植】 (dzyik, driH)
+    ==
+    - (_verb-like_) [to] plant
+    - (_verb-like_) [to] set up
+    ==
+  ====
 S
   ==
   - ($植zi3)
@@ -1644,6 +1652,16 @@ P
   1. To establish (Kangxi: 立也).
   1. Level and upright (Kangxi: 殖殖平正也).
   ++
+L
+  ====
+  * 【殖】 (dzyik)
+    ==
+    - (_verb-like_) [to] grow
+    - (_verb-like_) [to] cultivate
+    - (_verb-like_) [to] set up
+    - (_adjective-like_) level
+    ==
+  ====
 $$
 
 ### 汐6 | _Tsik(9)_ [[zik6]]
@@ -1695,6 +1713,13 @@ C
   ==
   - Fan Wan entry: Corrected 㡳 to 底.
   ==
+L
+  ====
+  * 【湜】 (dzyik)
+    ==
+    - (_adjective-like_) clear
+    ==
+  ====
 $$
 
 ### 直6 | _Chik(9)_ [[zik6]]
@@ -1775,6 +1800,15 @@ P
   1. To right a wrong (Kangxi: 理枉曰直).
   1. Speech-assist, specifically an initial particle (Kangxi: 語發聲).
   ++
+L
+  ====
+  * 【直】 (drik)
+    ==
+    - (_adjective-like_) straight
+    - (_adjective-like_) straightforward, direct
+    - (_adverb-like_) just
+    ==
+  ====
 E
   ====
   - 【直程】 (zik6 cing4)
@@ -1826,6 +1860,13 @@ W
     - Grain planted early, the first crop [[Kangxi: 早種禾也]];
     - to sow in good time [[Kangxi: 先種曰稙後種曰穉]];
     - the first wife [[Kangxi: 靑徐人謂長婦曰稙長]].
+    ==
+  ====
+L
+  ====
+  * 【稙】 (trik)
+    ==
+    - (_verb-like_) [to] sow early
     ==
   ====
 $$
@@ -1918,6 +1959,14 @@ P
   1. (The emperor) personally tilling the field (Kangxi: 籍田 etc.).
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【籍】 (dzjek)
+    ==
+    - (_noun-like_) register, book
+    - (_adjective-like_) personally-tilled
+    ==
+  ====
 $$
 
 ### ~~席~~``蓆``6 | _Tsik(9)_ [[zik6]]
@@ -1977,6 +2026,13 @@ C
   ==
   - Williams has mixed up 席 and 蓆.
   ==
+L
+  ====
+  * 【蓆】 (zjek)
+    ==
+    - (_adjective-like_) large
+    ==
+  ====
 S
   ==
   - ($蓆zek6)
@@ -2054,8 +2110,21 @@ C
   ==
 P
   ++
-  1. To give tribute (Kangxi: 藉謂貢獻).
+  1. Tribute (Kangxi: 藉謂貢獻).
   ++
+L
+  ====
+  * 【藉-departing】 (dzjaeH)
+    ==
+    - (_noun-like_) straw-mat
+    - (_verb-like_) [to] depend (upon)
+    - (_verb-like_) [to] borrow, [to] lend
+    ==
+  * 【藉-entering】 (dzjek)
+    ==
+    - (_noun-like_) tribute
+    ==
+  ====
 $$
 
 ###+ 蟄6 | _Chik(9)_ [[zik6]]

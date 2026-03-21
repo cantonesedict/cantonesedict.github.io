@@ -5789,6 +5789,7 @@ L
     ==
     - (_noun-like_) immature-grain
     - (_adjective-like_) immature
+    - (_verb-like_) [to] sow late
     ==
   ====
 $$

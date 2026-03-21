@@ -884,6 +884,14 @@ window.onload = applyFilter;
       ==
   //
     , `driH`
+    , [植](/entries/zik#rendering-植)
+    ,
+      ==
+      - (_verb-like_) [to] plant
+      - (_verb-like_) [to] set up
+      ==
+  //
+    , `driH`
     , [治~(adjective)](/entries/zi#rendering-治-adjective)
     ,
       ==
@@ -925,6 +933,7 @@ window.onload = applyFilter;
       ==
       - (_noun-like_) immature-grain
       - (_adjective-like_) immature
+      - (_verb-like_) [to] sow late
       ==
   //
     , `drijH`
@@ -941,6 +950,15 @@ window.onload = applyFilter;
       - (_verb-like_) [to] withstand, [to] face
       - (_verb-like_) [to] stand for, [to] be worth
       - (_noun-like_) worth
+      ==
+  //
+    , `drik`
+    , [直](/entries/zik#rendering-直)
+    ,
+      ==
+      - (_adjective-like_) straight
+      - (_adjective-like_) straightforward, direct
+      - (_adverb-like_) just
       ==
   //
     , `drim`
@@ -1738,6 +1756,15 @@ window.onload = applyFilter;
       - caltrop
       ==
   //
+    , `dzjaeH`
+    , [藉~(departing)](/entries/zik#rendering-藉-departing)
+    ,
+      ==
+      - (_noun-like_) straw-mat
+      - (_verb-like_) [to] depend (upon)
+      - (_verb-like_) [to] borrow, [to] lend
+      ==
+  //
     , `dzjang`
     , [戕](/entries/coeng#rendering-戕)
     ,
@@ -1778,6 +1805,21 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) emaciated, (_met._) lean
+      ==
+  //
+    , `dzjek`
+    , [籍](/entries/zik#rendering-籍)
+    ,
+      ==
+      - (_noun-like_) register, book
+      - (_adjective-like_) personally-tilled
+      ==
+  //
+    , `dzjek`
+    , [藉~(entering)](/entries/zik#rendering-藉-entering)
+    ,
+      ==
+      - (_noun-like_) tribute
       ==
   //
     , `dzjek`
@@ -2379,6 +2421,31 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) clay
+      ==
+  //
+    , `dzyik`
+    , [植](/entries/zik#rendering-植)
+    ,
+      ==
+      - (_verb-like_) [to] plant
+      - (_verb-like_) [to] set up
+      ==
+  //
+    , `dzyik`
+    , [殖](/entries/zik#rendering-殖)
+    ,
+      ==
+      - (_verb-like_) [to] grow
+      - (_verb-like_) [to] cultivate
+      - (_verb-like_) [to] set up
+      - (_adjective-like_) level
+      ==
+  //
+    , `dzyik`
+    , [湜](/entries/zik#rendering-湜)
+    ,
+      ==
+      - (_adjective-like_) clear
       ==
   //
     , `dzyuw`
@@ -3659,6 +3726,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) low-fronted (chariot), front-heavy (chariot)
+      ==
+  //
+    , `trik`
+    , [稙](/entries/zik#rendering-稙)
+    ,
+      ==
+      - (_verb-like_) [to] sow early
       ==
   //
     , `trik`
@@ -7445,6 +7519,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) mat
+      ==
+  //
+    , `zjek`
+    , [蓆](/entries/zik#rendering-蓆)
+    ,
+      ==
+      - (_adjective-like_) large
       ==
   //
     , `zjo`
