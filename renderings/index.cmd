@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-03-20
+* %date-modified --> 2026-03-21
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -1636,6 +1636,13 @@ window.onload = applyFilter;
       - (_adverb-like_) naturally
       - (_conjunction-like_) if
       - (_conjunction-like_) though
+      ==
+  //
+    , `dzik`
+    , [堲~(abhor)](/entries/zik#rendering-堲-abhor)
+    ,
+      ==
+      - (_verb-like_) [to] abhor
       ==
   //
     , `dzim`
@@ -4903,6 +4910,33 @@ window.onload = applyFilter;
       - (_verb-like_) [to] wanton, [to] indulge
       ==
   //
+    , `tsik`
+    , [即](/entries/zik#rendering-即)
+    ,
+      ==
+      - (_verb-like_) [to] approach
+      - (_verb-like_) [to] take [place]
+      - (_adverb-like_) forthwith
+      - (_adverb-like_) that is, which is
+      - (_verb-like_) [to] be
+      - (_conjunction-like_) though
+      ==
+  //
+    , `tsik`
+    , [畟](/entries/zik#rendering-畟)
+    ,
+      ==
+      - (_adjective-like_) sharp
+      ==
+  //
+    , `tsik`
+    , [稷](/entries/zik#rendering-稷)
+    ,
+      ==
+      - (_noun-like_) millet
+      - (_adjective-like_) prompt
+      ==
+  //
     , `tsimH`
     , [浸](/entries/zam#rendering-浸)
     ,
@@ -4959,6 +4993,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] whisper
+      ==
+  //
+    , `tsit`
+    , [堲~(fired-brick)](/entries/zik#rendering-堲-fired-brick)
+    ,
+      ==
+      - (_noun-like_) fired-brick
       ==
   //
     , `tsjae`
@@ -5476,6 +5517,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] fathom
+      ==
+  //
+    , `tsrhik`
+    , [畟](/entries/zik#rendering-畟)
+    ,
+      ==
+      - (_adjective-like_) sharp
       ==
   //
     , `tsrhim`

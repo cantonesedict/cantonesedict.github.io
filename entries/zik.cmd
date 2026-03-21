@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2026-03-06
+* %date-modified --> 2026-03-21
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -203,6 +203,18 @@ P
   1. To ascend, to assume a position.
   1. (_copula_) To be (precisely).
   ++
+L
+  ====
+  * 【即】 (tsik)
+    ==
+    - (_verb-like_) [to] approach
+    - (_verb-like_) [to] take [place]
+    - (_adverb-like_) forthwith
+    - (_adverb-like_) that is, which is
+    - (_verb-like_) [to] be
+    - (_conjunction-like_) though
+    ==
+  ====
 $$
 
 ### 卽1 | _Tsik(7)_ [[zik1]]
@@ -370,6 +382,17 @@ C
     The idea here is that fired-brick is used
     to encase about the four sides of a coffin (四周于棺).
   ==
+L
+  ====
+  * 【堲-abhor】 (dzik)
+    ==
+    - (_verb-like_) [to] abhor
+    ==
+  * 【堲-fired-brick】 (tsit)
+    ==
+    - (_noun-like_) fired-brick
+    ==
+  ====
 $$
 
 ### 幘1 | _Tsik(7)_ [[zik1]]
@@ -464,6 +487,13 @@ C
     (it simply cross-references _ch(')ik(7)_ (cik1) as 又初力切).
   - Fan Wan entry: Corrected headword ⿳由儿夂 to 畟, and corrected 犬 to 尖.
   ==
+L
+  ====
+  * 【畟】 (tsrhik, tsik)
+    ==
+    - (_adjective-like_) sharp
+    ==
+  ====
 $$
 
 ### 磧1 | _Tsik(7)_ [[zik1]]
@@ -538,6 +568,14 @@ P
   1. Used in the titles of agricultural officials (Kangxi: 農官名曰后稷),
      after the legendary 后稷.
   ++
+L
+  ====
+  * 【稷】 (tsik)
+    ==
+    - (_noun-like_) millet
+    - (_adjective-like_) prompt
+    ==
+  ====
 $$
 
 ### 積1 | _Tsik(7)_ [[zik1]]
