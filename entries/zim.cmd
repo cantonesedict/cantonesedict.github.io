@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zim
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -666,7 +666,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways characters">
 =={.modern}
-- ($佔3)
+- $佔3
 - $占3
 ==
 </nav>
@@ -674,7 +674,7 @@ $$
 
 ### 佔3 | _Ch(i/)m(3)_ [[zim3]]
 
-$$.
+$$
 R
   ⼈ + 3
 U
@@ -687,7 +687,7 @@ W
   ====
   - [[Page~16* 占(3)佔(3)]]
     --
-    [[Alternative form of 占. **See $占zim3 for the canonical entry.**]]
+    [[Alternative form of 占. See $占zim3.]]
     --
   ====
 $$
@@ -740,6 +740,9 @@ C
   - Williams' "to praise one's self": This is a misreading of 占小善
     from Kangxi's example 《韓愈進學解》占小善者率以錄, which should be rendered
     "they that possess [even a] little quality [are] all employed".
+  - Williams' "incorrectly used": The form 佔 is "incorrect"
+    to the extent that, in Classical usage,
+    it is an alternative form of 覘 rather than departing-tone 占.
   ==
 S
   ==
