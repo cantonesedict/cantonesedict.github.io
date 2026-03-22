@@ -92,6 +92,10 @@ R
   ⼘ + 3
 U
   U+5360
+A
+  ==
+  - $詹1
+  ==
 V
   ==
   - zem1 (for vernacular "jam" sense)
@@ -609,15 +613,27 @@ W
     --
     [[Otherwise, an alternative form of 瞻. **See $瞻zim1 for the canonical entry.**]]
     --
+    --
+    [[Otherwise, an alternative form of 占. **See $占zim1 for the canonical entry.**]]
+    --
   ====
 C
   ==
+  - Probably cognate with $譫zim1.
   - Fan Wan entry: Corrected headword ⿸厃⿳八土口 to {𦧕=⿸厃⿱儿舌}.
   ==
 P
   ++
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【詹】 (tsyem)
+    ==
+    - (_adjective-like_) verbose
+    - (_verb-like_) [to] arrive
+    ==
+  ====
 $$
 
 ### 譫1 | _(1)Ch(i/)m_ [[zim1]]
@@ -644,6 +660,10 @@ W
         wandering talk.
     ==
   ====
+C
+  ==
+  - Probably cognate with $詹zim1.
+  ==
 P
   ++
   1. Delirium (Kangxi: 病也).
@@ -715,6 +735,13 @@ W
     --
     [[Alternative form of 沾. See $沾zim1.]]
     --
+  ====
+L
+  ====
+  * 【霑】 (trjem)
+    ==
+    - (_verb-like_) [to] moisten, [to] soak
+    ==
   ====
 $$
 
@@ -837,9 +864,18 @@ C
     from Kangxi's example 《韓愈進學解》占小善者率以錄, which should be rendered
     "they that possess [even a] little quality [are] all employed".
   - Williams' "incorrectly used": The form 佔 is "incorrect"
-    to the extent that, in Classical usage,
+    to the extent that, in classical usage,
     it is an alternative form of 覘 rather than departing-tone 占.
+    See $覘zim1.
   ==
+L
+  ====
+  * 【占-departing】 (tsyemH)
+    ==
+    - (_verb-like_) [to] occupy
+    - (_verb-like_) [to] possess
+    ==
+  ====
 S
   ==
   - $占zim1
@@ -896,6 +932,14 @@ W
     - _(4)ts(')un ts(u:)(6) ts(i/)m(6) tsun(3)_
         [[ceon4 zeoi6 zim6 zeon3 循序漸進]]
         to follow on regularly, to advance in order.
+    ==
+  ====
+L
+  ====
+  * 【漸-rising】 (dzjemX)
+    ==
+    - (_adverb-like_) gradually
+    - (_verb-like_) [to] proceed gradually, [to] graduate, (_met._) [to] increase
     ==
   ====
 S

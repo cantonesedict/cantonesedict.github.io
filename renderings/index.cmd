@@ -1850,6 +1850,14 @@ window.onload = applyFilter;
       - (_noun-like_) cauldron
       ==
   //
+    , `dzjemX`
+    , [漸~(rising)](/entries/zim#rendering-漸-rising)
+    ,
+      ==
+      - (_adverb-like_) gradually
+      - (_verb-like_) [to] proceed gradually, [to] graduate, (_met._) [to] increase
+      ==
+  //
     , `dzjemH`
     , [潛~(hide)](/entries/cim#rendering-潛-hide)
     ,
@@ -2124,10 +2132,24 @@ window.onload = applyFilter;
       ==
   //
     , `dzraem`
+    , [巉](/entries/caam#rendering-巉)
+    ,
+      ==
+      - (_adjective-like_) precipitous
+      ==
+  //
+    , `dzraem`
     , [毚](/entries/caam#rendering-毚)
     ,
       ==
       - (_adjective-like_) wily
+      ==
+  //
+    , `dzraemX`
+    , [巉](/entries/caam#rendering-巉)
+    ,
+      ==
+      - (_adjective-like_) precipitous
       ==
   //
     , `dzraenH`
@@ -3831,6 +3853,13 @@ window.onload = applyFilter;
   //
     , `trjem`
     , [沾](/entries/zim#rendering-沾)
+    ,
+      ==
+      - (_verb-like_) [to] moisten, [to] soak
+      ==
+  //
+    , `trjem`
+    , [霑](/entries/zim#rendering-霑)
     ,
       ==
       - (_verb-like_) [to] moisten, [to] soak
@@ -6282,6 +6311,22 @@ window.onload = applyFilter;
       ==
       - (_verb-like_) [to] look (at)
       - (_verb-like_) [to] look up (to)
+      ==
+  //
+    , `tsyem`
+    , [詹](/entries/zim#rendering-詹)
+    ,
+      ==
+      - (_adjective-like_) verbose
+      - (_verb-like_) [to] arrive
+      ==
+  //
+    , `tsyemH`
+    , [占~(departing)](/entries/zim#rendering-占-departing)
+    ,
+      ==
+      - (_verb-like_) [to] occupy
+      - (_verb-like_) [to] possess
       ==
   //
     , `tsyet`

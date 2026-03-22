@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-22
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -668,6 +668,10 @@ A
   - 磛
   - ${𥕌=⿰石斬}4
   ==
+V
+  ==
+  - zaam6 (alternative per 《廣韻》仕檻切)
+  ==
 F
   ==
   - (F2.63 巉) 高危也
@@ -689,6 +693,13 @@ C
   ==
   - Strictly, the pre-merger reading should be _(4)ch(')(a/)m_ per 《廣韻》鋤銜切.
   ==
+L
+  ====
+  * 【巉】 (dzraem, dzraemX)
+    ==
+    - (_adjective-like_) precipitous
+    ==
+  ====
 $$
 
 ### 慙4 | _(4)Ts(')(a/)m_ [[caam4]]
