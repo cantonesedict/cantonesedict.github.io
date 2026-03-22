@@ -72,7 +72,7 @@ U
   U+5360
 V
   ==
-  - zem1 (for "jam" sense)
+  - zem1 (for vernacular "jam" sense)
   ==
 F
   ==

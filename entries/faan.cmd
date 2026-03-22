@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faan
-* %date-modified --> 2026-02-23
+* %date-modified --> 2026-03-22
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1074,7 +1074,7 @@ U
   U+7548
 A
   ==
-  - $畚3 (for Cantonese "evil supernatural influences" sense)
+  - $畚3 (for vernacular "evil supernatural influences" sense)
   ==
 F
   [[Not present]]
@@ -1129,7 +1129,7 @@ W
   ====
   - [[Page~49 畚(3)]]
     --
-    [[Alternative form of 畈 (for the Cantonese "evil supernatural influences" sense). **See $畈faan3 for the canonical entry.**]]
+    [[Alternative form of 畈 (for the vernacular "evil supernatural influences" sense). **See $畈faan3 for the canonical entry.**]]
     --
   ====
 S
