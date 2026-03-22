@@ -45,6 +45,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- ($佔1)
 - $占1
 - $尖1
 - $幨1
@@ -62,6 +63,27 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+###+ 佔1 | _(1)Ch(i/)m_ [[zim1]]
+
+$$.
+R
+  ⼈ + 3
+U
+  U+4F54
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 覘. **See $覘zim1 for the canonical entry.**
+  ++
+S
+  ==
+  - $佔zim3
+  ==
+$$
 
 ### 占1 | _(1)Ch(i/)m_ [[zim1]]
 
@@ -518,6 +540,7 @@ U
   U+8998
 A
   ==
+  - $佔1
   - $占1
   - $沾1
   ==
@@ -759,6 +782,10 @@ W
     [[Alternative form of 占. See $占zim3.]]
     --
   ====
+S
+  ==
+  - ($佔zim1)
+  ==
 $$
 
 ### 占3 | _Ch(i/)m(3)_ [[zim3]]
