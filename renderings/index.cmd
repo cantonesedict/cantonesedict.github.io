@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-03-21
+* %date-modified --> 2026-03-22
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -3530,11 +3530,25 @@ window.onload = applyFilter;
       - (_verb-like_) [to] strip
       ==
   //
+    , `trhjem`
+    , [覘](/entries/zim#rendering-覘)
+    ,
+      ==
+      - (_verb-like_) [to] spy (upon)
+      ==
+  //
     , `trhjemX`
     , [諂](/entries/cim#rendering-諂)
     ,
       ==
       - (_verb-like_) [to] flatter
+      ==
+  //
+    , `trhjemH`
+    , [覘](/entries/zim#rendering-覘)
+    ,
+      ==
+      - (_verb-like_) [to] spy (upon)
       ==
   //
     , `trhjeng`
@@ -3813,6 +3827,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) knowledge, (_met._) wisdom
+      ==
+  //
+    , `trjem`
+    , [沾](/entries/zim#rendering-沾)
+    ,
+      ==
+      - (_verb-like_) [to] moisten, [to] soak
       ==
   //
     , `trjenX`
@@ -5309,6 +5330,14 @@ window.onload = applyFilter;
       - (_verb-like_) [to] annihilate
       ==
   //
+    , `tsjem`
+    , [漸~(level)](/entries/zim#rendering-漸-level)
+    ,
+      ==
+      - (_verb-like_) [to] inflow
+      - (_verb-like_) [to] soak
+      ==
+  //
     , `tsjeng`
     , [菁](/entries/zing#rendering-菁)
     ,
@@ -6240,6 +6269,21 @@ window.onload = applyFilter;
       - (_classifier_)
       ==
   //
+    , `tsyem`
+    , [占~(level)](/entries/zim#rendering-占-level)
+    ,
+      ==
+      - (_verb-like_) [to] prognosticate
+      ==
+  //
+    , `tsyem`
+    , [瞻](/entries/zim#rendering-瞻)
+    ,
+      ==
+      - (_verb-like_) [to] look (at)
+      - (_verb-like_) [to] look up (to)
+      ==
+  //
     , `tsyet`
     , [晢~(entering)](/entries/zit#rendering-晢-entering)
     ,
@@ -6341,6 +6385,28 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) babe
+      ==
+  //
+    , `tsyhem`
+    , [幨~(level)](/entries/zim#rendering-幨-level)
+    ,
+      ==
+      - (_verb-like_) [to] fray, [to] purse up
+      ==
+  //
+    , `tsyhem`
+    , [襜](/entries/zim#rendering-襜)
+    ,
+      ==
+      - (_noun-like_) apron
+      - (_verb-like_) [to] flap, [to] adjust
+      ==
+  //
+    , `tsyhemH`
+    , [幨~(departing)](/entries/zim#rendering-幨-departing)
+    ,
+      ==
+      - (_noun-like_) lapel
       ==
   //
     , `tsyhew`

@@ -105,11 +105,21 @@ W
         [[zim1 siu6 占兆]]
         to see signs, to foretell by signs.
     ==
+    --
+    [[Otherwise, an alternative form of 覘. **See $覘zim1 for the canonical entry.**]]
+    --
   ====
 C
   ==
   - Williams' 占兆: Changed _chi(u/)(6)_ (ziu6) to common reading _shi(u/)(6)_ (siu6).
   ==
+L
+  ====
+  * 【占-level】 (tsyem)
+    ==
+    - (_verb-like_) [to] prognosticate
+    ==
+  ====
 E
   ====
   - 【占】 (zem1, zim1)
@@ -193,7 +203,7 @@ A
 V
   ==
   - cim1 (per 《廣韻》處占切)
-  - cim3 (per 《廣韻》昌豔切)
+  - cim3 (per 《廣韻》昌豔切 for "lapel" sense)
   ==
 F
   ==
@@ -208,13 +218,28 @@ W
     ==
     - A curtain of a carriage [[Kangxi: 車襜]];
     - a curtain over an opening [[Kangxi: 帷也]];
-    - an overlap which hides a seam.
+    - an overlap ``or lapel`` ~~which hides a seam~~ [[Kangxi: 披衣, 襟謂之幨]].
     ==
   ====
 C
   ==
   - Fan Wan entry: Corrected {𭘖=⿰巾古} to 帖.
   ==
+P
+  ++
+  1. To fray(?), to purse up (Kangxi: 絕也, 幨謂絕起也).
+  ++
+L
+  ====
+  * 【幨-level】 (tsyhem)
+    ==
+    - (_verb-like_) [to] fray, [to] purse up
+    ==
+  * 【幨-departing】 (tsyhemH)
+    ==
+    - (_noun-like_) lapel
+    ==
+  ====
 S
   ==
   - ($幨cim1)
@@ -282,6 +307,13 @@ C
   - Williams' 沾恩澤: Corrected _ch(a/)k(8)_ (zaak3) to _ch(a/)k(9)_ (zaak6).
   - Williams' 你沾着有滴唔好脾氣: Corrected _ch(e/)uk(8)_ (zoek3) to _ch(e/)uk(9)_ (zoek6).
   ==
+L
+  ====
+  * 【沾】 (trjem)
+    ==
+    - (_verb-like_) [to] moisten, [to] soak
+    ==
+  ====
 $$
 
 ###+ 漸1 | _(1)Ts(i/)m_ [[zim1]]
@@ -305,6 +337,14 @@ W
     - to flow;
     - to imbibe, to tinge, to soak, to penetrate [[Kangxi: 漬也濕也, 浸也染也]];
     - [[...]].
+    ==
+  ====
+L
+  ====
+  * 【漸-level】 (tsjem)
+    ==
+    - (_verb-like_) [to] inflow
+    - (_verb-like_) [to] soak
     ==
   ====
 S
@@ -356,6 +396,14 @@ P
   ++
   1. To look forward.
   ++
+L
+  ====
+  * 【瞻】 (tsyem)
+    ==
+    - (_verb-like_) [to] look (at)
+    - (_verb-like_) [to] look up (to)
+    ==
+  ====
 $$
 
 ### 粘1 | _(1)Ch(i/)m_ [[zim1]]
@@ -443,6 +491,18 @@ W
     [[Alternative form of 幨. See $幨zim1.]]
     --
   ====
+P
+  ++
+  1. To flap (Kangxi: 搖動貌).
+  ++
+L
+  ====
+  * 【襜】 (tsyhem)
+    ==
+    - (_noun-like_) apron
+    - (_verb-like_) [to] flap, [to] adjust
+    ==
+  ====
 S
   ==
   - ($襜cim1)
@@ -458,11 +518,13 @@ U
   U+8998
 A
   ==
+  - $占1
   - $沾1
   ==
 V
   ==
   - cim1 (per 《廣韻》丑廉切)
+  - cim3 (per 《廣韻》丑豔切)
   ==
 F
   ==
@@ -485,6 +547,13 @@ C
   ==
   - Fan Wan entry: Corrected headword ⿰古見 to 覘.
   ==
+L
+  ====
+  * 【覘】 (trhjem, trhjemH)
+    ==
+    - (_verb-like_) [to] spy (upon)
+    ==
+  ====
 $$
 
 ### 詹1 | _(1)Ch(i/)m_ [[zim1]]
