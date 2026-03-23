@@ -5,8 +5,12 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-23
 * %copyright-prior-years --> 2023--
+
+ReplacementSequence: #.ensure-baxter
+- queue_position: BEFORE #inline-code
+- replacements: #.syntax.baxter
 
 %%%
 
@@ -104,6 +108,13 @@ C
   ==
   - Williams' 儃佪: Corrected _(1)(u/)i_ (wui1) to _(4)(u/)i_ (wui4).
   ==
+L
+  ====
+  * 【儃-level】 (dzyen)
+    ==
+    - (_adjective-like_) hesitating
+    ==
+  ====
 S
   ==
   - $儃sin4 (TODO)
@@ -119,6 +130,10 @@ R
   ⼽ + 4
 U
   U+6214
+V
+  ==
+  - caan4 (per 《廣韻》昨干切)
+  ==
 F
   ==
   - (F1.20 戔) ::戔戔淺[小]之貌::
@@ -136,8 +151,22 @@ W
   ====
 C
   ==
+  - The reading _(1)ts(i/)n_ (zin1) is not unattested;
+    《集韻》 has the reading ::[將]先切::,
+    explained 戔戔猥積皃 (cramped?).
+  - The reading _(4)ts(')(a/)n_ (caan4) is the sole reading
+    that appears in 《廣韻》,
+    explained 傷也 (the sense interchangeable with 殘)
+    and 戔戔束帛皃易曰束帛戔戔 (bundley? in the Classic of Changes).
   - Fan Wan entry: Corrected 少 to 小.
   ==
+L
+  ====
+  * 【戔】 (dzan, tsen)
+    ==
+    - (_adjective-like_) slender, cramped
+    ==
+  ====
 S
   ==
   - ($戔caan4)
@@ -160,7 +189,7 @@ W
   - [[Page~16* (1)旃]]
     ==
     - A silken banner [[Kangxi: 通帛爲旃]];
-    - a crooked flag-staff [[Kangxi: 旗曲柄也]];
+    - a ``flag with a`` crooked flag-staff [[Kangxi: 旗曲柄也]];
     - ~~to signalize one to come.~~
     ==
     --
@@ -171,6 +200,14 @@ P
   ++
   1. Contraction of 之焉.
   ++
+L
+  ====
+  * 【旃】 (tsyen)
+    ==
+    - (_noun-like_) banner
+    - Contraction of 之焉 (`tsyi hjen`).
+    ==
+  ====
 $$
 
 ### 毡1 | _(1)Ch(i/)n_ [[zin1]]
@@ -239,6 +276,13 @@ W
     - _(1)ch(i/)n (2)ch(i/)_
         [[zin1 zi2 氈紙]],
         coarse rough paper.
+    ==
+  ====
+L
+  ====
+  * 【氈】 (tsyen)
+    ==
+    - (_noun-like_) felt
     ==
   ====
 $$
@@ -354,7 +398,7 @@ W
   ====
   - [[Page~572 (1)煎]]
     ==
-    - To fry, to roast in a pan [[Kangxi: 熬也, 火去汁也, 熟煑也, 火乾也, etc.]];
+    - To fry, to roast``, to decoct`` in a pan [[Kangxi: 熬也, 火去汁也, 熟煑也, 火乾也, etc.]];
     - to vex, to harass;
     - _(1)ts(i/)n (1)k(o\)_
         [[zin1 gou1 煎膏]],
@@ -388,6 +432,13 @@ P
   1. To shallow-fry.
   1. To smelt.
   ++
+L
+  ====
+  * 【煎】 (tsjen)
+    ==
+    - (_verb-like_) [to] decoct
+    ==
+  ====
 S
   ==
   - $煎zin3
@@ -480,6 +531,13 @@ P
   ++
   1. A commentary at a lower level than a 傳 or 註, used self-deprecatingly (Kangxi: ::聖人制作曰經賢者著述曰傳[...]謙敬不敢言註但表識其不明者耳::).
   ++
+L
+  ====
+  * 【箋】 (tsen)
+    ==
+    - (_noun-like_) lesser-note
+    ==
+  ====
 $$
 
 ### 籛1 | _(1)Ts(i/)n_ [[zin1]]
@@ -1353,6 +1411,13 @@ C
   ==
   - Fan Wan entry: Normalised headword ⿰冫賤 to 濺.
   ==
+L
+  ====
+  * 【濺】 (tsjenH)
+    ==
+    - (_verb-like_) [to] spatter
+    ==
+  ====
 S
   ==
   - ($濺zaan3)
@@ -1392,6 +1457,12 @@ W
         to decoct medicines.
     ==
   ====
+C
+  ==
+  - Classically, the "decoct" sense is in the level tone.
+    The (vernacular?) reading in the departing tone
+    is perhaps to distinguish it from the "shallow-fry" sense.
+  ==
 P
   ++
   1. Used in 甲煎 (a fragrant concoction) (Kangxi: 甲煎香名).

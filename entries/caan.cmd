@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caan
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-23
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -564,6 +564,10 @@ W
     [[Alternative form of 殘. **See $殘caan4 for the canonical entry.**]]
     --
   ====
+P
+  ++
+  1. Reading variation. **See $戔zin1 for the canonical entry.**
+  ++
 S
   ==
   - $戔zin1

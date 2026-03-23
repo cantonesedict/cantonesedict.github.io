@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-03-22
+* %date-modified --> 2026-03-23
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -1503,6 +1503,13 @@ window.onload = applyFilter;
       ==
   //
     , `dzan`
+    , [戔](/entries/zin#rendering-戔)
+    ,
+      ==
+      - (_adjective-like_) slender, cramped
+      ==
+  //
+    , `dzan`
     , [殘](/entries/caan#rendering-殘)
     ,
       ==
@@ -2436,6 +2443,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] grasp
       - (_verb-like_) [to] pick
       - (_verb-like_) [to] clash, [to] conflict
+      ==
+  //
+    , `dzyen`
+    , [儃~(level)](/entries/zin#rendering-儃-level)
+    ,
+      ==
+      - (_adjective-like_) hesitating
       ==
   //
     , `dzyik`
@@ -4116,6 +4130,20 @@ window.onload = applyFilter;
       - (_adjective-like_) erroneous
       ==
   //
+    , `tsen`
+    , [戔](/entries/zin#rendering-戔)
+    ,
+      ==
+      - (_adjective-like_) slender, cramped
+      ==
+  //
+    , `tsen`
+    , [箋](/entries/zin#rendering-箋)
+    ,
+      ==
+      - (_noun-like_) lesser-note
+      ==
+  //
     , `tsha`
     , [傞](/entries/co#rendering-傞)
     ,
@@ -5367,6 +5395,20 @@ window.onload = applyFilter;
       - (_verb-like_) [to] soak
       ==
   //
+    , `tsjen`
+    , [煎](/entries/zin#rendering-煎)
+    ,
+      ==
+      - (_verb-like_) [to] decoct
+      ==
+  //
+    , `tsjenH`
+    , [濺](/entries/zin#rendering-濺)
+    ,
+      ==
+      - (_verb-like_) [to] spatter
+      ==
+  //
     , `tsjeng`
     , [菁](/entries/zing#rendering-菁)
     ,
@@ -6327,6 +6369,21 @@ window.onload = applyFilter;
       ==
       - (_verb-like_) [to] occupy
       - (_verb-like_) [to] possess
+      ==
+  //
+    , `tsyen`
+    , [旃](/entries/zin#rendering-旃)
+    ,
+      ==
+      - (_noun-like_) banner
+      - Contraction of 之焉 (`tsyi hjen`).
+      ==
+  //
+    , `tsyen`
+    , [氈](/entries/zin#rendering-氈)
+    ,
+      ==
+      - (_noun-like_) felt
       ==
   //
     , `tsyet`
