@@ -1157,6 +1157,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] twine
       ==
   //
+    , `drjenH`
+    , [邅~(departing)](/entries/zin#rendering-邅-departing)
+    ,
+      ==
+      - (_verb-like_) [to] turn
+      ==
+  //
     , `drjeng`
     , [程](/entries/cing#rendering-程)
     ,
@@ -3361,6 +3368,13 @@ window.onload = applyFilter;
       - (_noun-like_) rank-odour
       ==
   //
+    , `syen`
+    , [顫~(level)](/entries/zin#rendering-顫-level)
+    ,
+      ==
+      - (_noun-like_) discernment of smells
+      ==
+  //
     , `syet`
     , [設](/entries/cit#rendering-設)
     ,
@@ -3884,6 +3898,20 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] moisten, [to] soak
+      ==
+  //
+    , `trjen`
+    , [邅~(level)](/entries/zin#rendering-邅-level)
+    ,
+      ==
+      - (_adjective-like_) hindered
+      ==
+  //
+    , `trjen`
+    , [鱣](/entries/zin#rendering-鱣)
+    ,
+      ==
+      - (_noun-like_) great-sturgeon
       ==
   //
     , `trjenX`
@@ -6391,6 +6419,27 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) felt
+      ==
+  //
+    , `tsyen`
+    , [饘](/entries/zin#rendering-饘)
+    ,
+      ==
+      - (_noun-like_) porridge
+      ==
+  //
+    , `tsyen`
+    , [鸇](/entries/zin#rendering-鸇)
+    ,
+      ==
+      - (_noun-like_) hawk
+      ==
+  //
+    , `tsyenX`
+    , [饘](/entries/zin#rendering-饘)
+    ,
+      ==
+      - (_noun-like_) porridge
       ==
   //
     , `tsyet`

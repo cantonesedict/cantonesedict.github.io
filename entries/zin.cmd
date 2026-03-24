@@ -665,11 +665,26 @@ W
         making no progress, unlucky in life, unfortunate.
     ==
   ====
+C
+  ==
+  - Kangxi erroneously has {𧾍=⿺走亶}上聲 and {𧾍=⿺走亶}去聲 the wrong way round.
+  ==
 P
   ++
   1. To turn (Kangxi: 轉也逐也).
   1. To shift, to move (Kangxi: 移也).
   ++
+L
+  ====
+  * 【邅-departing】 (drjenH)
+    ==
+    - (_verb-like_) [to] turn
+    ==
+  * 【邅-level】 (trjen)
+    ==
+    - (_adjective-like_) hindered
+    ==
+  ====
 $$
 
 ### 顫1 | _(1)Ch(i/)n_ [[zin1]]
@@ -698,6 +713,13 @@ P
   ++
   1. Discerning of smells (Kangxi: 謂審於氣臭也).
   ++
+L
+  ====
+  * 【顫-level】 (syen)
+    ==
+    - (_noun-like_) discernment of smells
+    ==
+  ====
 S
   ==
   - $顫zin3
@@ -711,6 +733,10 @@ R
   ⾷ + 13
 U
   U+9958
+V
+  ==
+  - zin2 (alternative per 《廣韻》旨善切)
+  ==
 F
   ==
   - (F1.20 饘) 粥也
@@ -724,6 +750,13 @@ W
     - _(1)ch(i/)n chuk(7)_
         [[zin1 zuk1 饘粥]]
         congee.
+    ==
+  ====
+L
+  ====
+  * 【饘】 (tsyen, tsyenX)
+    ==
+    - (_noun-like_) porridge
     ==
   ====
 $$
@@ -750,6 +783,13 @@ W
         whales and grampuses, applied to an unscrupulous, grasping man.
     ==
   ====
+L
+  ====
+  * 【鱣】 (trjen)
+    ==
+    - (_noun-like_) great-sturgeon
+    ==
+  ====
 S
   ==
   - $鱣sin5 (TODO)
@@ -774,6 +814,13 @@ W
     - A falcon, goshawk, or kite [[Kangxi: 鷙鳥]];
     - a yellow bird which pursues pigeons [[Kangxi: ::鸇似鷂黃色[...]擊鳩鴿燕雀食之::]];
     - a sparrow-hawk.
+    ==
+  ====
+L
+  ====
+  * 【鸇】 (tsyen)
+    ==
+    - (_noun-like_) hawk
     ==
   ====
 $$
