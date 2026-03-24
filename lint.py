@@ -2683,6 +2683,9 @@ class CharacterEntry:
     def extract_indexing_text(content: str) -> str:
         text = content
 
+        # Remove Williams tone numbers
+        text = re.sub(r'\([1-9]\)', '', text)
+
         # Normalise whitespace
         text = re.sub(r'\s+', ' ', text)
         text = text.strip()
