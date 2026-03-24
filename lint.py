@@ -2195,7 +2195,7 @@ class CharacterEntry:
 
         return '\n'.join([self.w_content, self.p_content])
 
-    def index_text_list(self) -> list[str]:
+    def text_list(self) -> list[str]:
         return [
             content  # TODO: processing
             for key, content in self.content_from_key.items()
@@ -3155,7 +3155,7 @@ class Linter:
 
     def index_search(self):
         text_list_from_jyutping_from_character = Utilities.collate_first_by_second_by_third(
-            (character_entry.index_text_list(), character_entry.jyutping, character_entry.character)
+            (character_entry.text_list(), character_entry.jyutping, character_entry.character)
             for character_entry in self.character_entries
         )
         character_index_json = Utilities.nice_json_string(text_list_from_jyutping_from_character, newline_after=']},')
