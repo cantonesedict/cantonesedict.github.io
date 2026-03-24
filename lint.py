@@ -2197,11 +2197,11 @@ class CharacterEntry:
 
     def text_list(self) -> list[str]:
         return [
-            CharacterEntry.extract_indexing_text(content)
+            text
             for key, content in self.content_from_key.items()
             if key not in 'RS'
             if content
-            if content.strip() != '[[Not present]]'
+            if (text := CharacterEntry.extract_indexing_text(content))
         ]
 
     @staticmethod
@@ -2683,8 +2683,34 @@ class CharacterEntry:
     def extract_indexing_text(content: str) -> str:
         text = content
 
-        # Remove Williams tone numbers
+        # Remove Williams typography
         text = re.sub(r'\([1-9]\)', '', text)
+        text = re.sub(r'\( (?P<vowel>[aeiou]) [/\\:] \)', r'\g<vowel>', text, flags=re.IGNORECASE | re.VERBOSE)
+        text = text.replace("(')", "'")
+
+        # Remove boilerplate
+        text = text.replace('[[Not present]]', '')
+        text = re.sub(r'[- ] \[\[\.\.\.\]\][;.\n]', '', text)
+        text = re.sub(r'(?:\(|\[\[|[0-9]+\. )(?:Alternative form|Reading variation|Otherwise,).*', '', text)
+        text = re.sub(r'- \(_.*?_\)', '', text)
+
+        # Remove CMD syntax
+        text = CmdIdioms.strip_comments(text)
+        text = CmdIdioms.strip_compositions(text)
+        text = re.sub(r'\[ (?P<text> [^\[\]]+ ) \] \( .+ \)', r'\g<text>', text, flags=re.VERBOSE)
+        text = re.sub(r'\[ (?P<text> [^\[\]]+ ) \] \[ .+ \]', r'\g<text>', text, flags=re.VERBOSE)
+        text = re.sub('(?<!~)~(?!~)', ' ', text)
+        text = text.replace('[[', '(')
+        text = text.replace(']]', ')')
+        text = text.replace('^', '')
+        text = re.sub('["=+-]{2,}$', '', text, flags=re.MULTILINE)
+        text = text.replace('  - ', '')
+        text = text.replace('  * ', '')
+        text = re.sub(r'[0-9]+\. ', '', text)
+        text = re.sub(r'[ ]* \\ [ ]* \n', '', text, flags=re.MULTILINE | re.VERBOSE)
+        text = text.replace('(:', '')
+        text = text.replace(':)', '')
+        text = text.replace('::', '')
 
         # Normalise whitespace
         text = re.sub(r'\s+', ' ', text)
