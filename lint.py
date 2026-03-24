@@ -2195,6 +2195,14 @@ class CharacterEntry:
 
         return '\n'.join([self.w_content, self.p_content])
 
+    def index_text_list(self) -> list[str]:
+        return [
+            content  # TODO: processing
+            for key, content in self.content_from_key.items()
+            if key not in 'RS'
+            if content
+        ]
+
     @staticmethod
     def lint_romanisation_consistency(williams_list: list[str], jyutping: str, heading_content: str):
         jyutping_list = [jyutping for _ in williams_list]
@@ -3145,11 +3153,11 @@ class Linter:
             write_file.write(new_content)
 
     def index_search(self):
-        jyutping_list_from_character = Utilities.collate_firsts_by_second(
-            (character_entry.jyutping, character_entry.character)
+        text_list_from_jyutping_from_character = Utilities.collate_first_by_second_by_third(
+            (character_entry.index_text_list(), character_entry.jyutping, character_entry.character)
             for character_entry in self.character_entries
         )
-        character_index_json = Utilities.nice_json_string(jyutping_list_from_character, newline_after='],')
+        character_index_json = Utilities.nice_json_string(text_list_from_jyutping_from_character, newline_after=']},')
 
         compositions_from_character = Utilities.collate_firsts_by_second(
             (composition, character_entry.character)
