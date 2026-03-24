@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Search by character or code point
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-24
 * %copyright-prior-years --> 2024--
 * %meta-description --> search by Chinese character or by Unicode code point
 
@@ -20,6 +20,10 @@ OrdinaryDictionaryReplacement: #.search-maximum-character-count
 %%%
 
 #{.modern} %title
+
+--{.modern}
+See also: [Index of characters by radical](/radicals/).
+--
 
 ||||{.modern .input-container}
 --
@@ -37,10 +41,6 @@ For the raw JSON that is queried, see [`character-index.json`].
 ||||
 
 [`character-index.json`]: character-index.json
-
---{.modern}
-See also: [Index of characters by radical](/radicals/).
---
 
 u<``<script>
 let characterPromise = fetch('character-index.json').then(response => response.json());

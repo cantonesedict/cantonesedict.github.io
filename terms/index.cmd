@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of Cantonese terms by Jyutping
-* %date-modified --> 2026-03-06
+* %date-modified --> 2026-03-24
 * %copyright-prior-years --> 2023--
 * %meta-description --> searchable index of Cantonese terms by Jyutping
 
@@ -16,6 +16,10 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 %%%
 
 #{.modern} %title
+
+--{.modern}
+See also: [Index of entry pages by Jyutping](/entries/).
+--
 
 ||||{.modern .input-container}
 --
@@ -28,10 +32,6 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 --
 </noscript>
 ||||
-
---{.modern}
-See also: [Index of entry pages by Jyutping](/entries/).
---
 
 u<``<script>
 function normaliseString(str)
