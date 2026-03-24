@@ -2197,7 +2197,7 @@ class CharacterEntry:
 
     def text_list(self) -> list[str]:
         return [
-            content  # TODO: processing
+            CharacterEntry.extract_indexing_text(content)
             for key, content in self.content_from_key.items()
             if key not in 'RS'
             if content
@@ -2678,6 +2678,16 @@ class CharacterEntry:
                 jyutping := match.group('jyutping'),
             )
         ]
+
+    @staticmethod
+    def extract_indexing_text(content: str) -> str:
+        text = content
+
+        # Normalise whitespace
+        text = re.sub(r'\s+', ' ', text)
+        text = text.strip()
+
+        return text
 
 class RadicalStrokes:
     radical: str
