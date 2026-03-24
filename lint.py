@@ -2684,6 +2684,7 @@ class CharacterEntry:
         text = content
 
         # Remove Williams typography
+        text = text.replace("(')", "'")
         text = re.sub(pattern=r'\([1-9]\)', repl='', string=text)
         text = re.sub(
             pattern=r'\( (?P<vowel>[aeiou]) [/\\:] \)',
@@ -2691,7 +2692,6 @@ class CharacterEntry:
             string=text,
             flags=re.IGNORECASE | re.VERBOSE,
         )
-        text = text.replace("(')", "'")
 
         # Remove boilerplate
         text = text.replace('[[Not present]]', '')
@@ -2704,7 +2704,7 @@ class CharacterEntry:
         )
         text = re.sub(pattern=r'- \(_.*?_\)', repl='', string=text)
 
-        # Remove CMD syntax
+        # Convert textual CMD syntax
         text = CmdIdioms.strip_comments(text)
         text = CmdIdioms.strip_compositions(text)
         text = re.sub(
@@ -2727,16 +2727,18 @@ class CharacterEntry:
         )
         text = re.sub(pattern=r'\[ (?P<text> [^\[\]]+ ) \] \( .+ \)', repl=r'\g<text>', string=text, flags=re.VERBOSE)
         text = re.sub(pattern=r'\[ (?P<text> [^\[\]]+ ) \] \[ .+ \]', repl=r'\g<text>', string=text, flags=re.VERBOSE)
-        text = re.sub(pattern='(?<!~)~(?!~)', repl=' ', string=text)
         text = text.replace('[[', '(')
         text = text.replace(']]', ')')
-        text = text.replace('^', '')
-        text = text.replace('@', '')
+        text = re.sub(pattern='(?<!~)~(?!~)', repl=' ', string=text)
+
+        # Remove non-textual CMD syntax
         text = re.sub(pattern='["=+-]{2,}$', repl='', string=text, flags=re.MULTILINE)
         text = text.replace('  - ', '')
         text = text.replace('  * ', '')
         text = re.sub(pattern=r'[0-9]+\. ', repl='', string=text)
         text = re.sub(pattern=r'[ ]* \\ [ ]* \n', repl='', string=text, flags=re.MULTILINE | re.VERBOSE)
+        text = text.replace('^', '')
+        text = text.replace('@', '')
         text = text.replace('(:', '')
         text = text.replace(':)', '')
         text = text.replace('::', '')
