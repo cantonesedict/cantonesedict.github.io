@@ -2707,6 +2707,24 @@ class CharacterEntry:
         # Remove CMD syntax
         text = CmdIdioms.strip_comments(text)
         text = CmdIdioms.strip_compositions(text)
+        text = re.sub(
+            pattern='[$] (?P<jyutping> [a-z]+ )',
+            repl=r'\g<jyutping>',
+            string=text,
+            flags=re.VERBOSE,
+        )
+        text = re.sub(
+            pattern=r'[$] (?P<headword> \S ) (?P<jyutping> [a-z]+ ) (?P<tone_number> [1-6] )',
+            repl=r'\g<headword> \g<jyutping>\g<tone_number>',
+            string=text,
+            flags=re.VERBOSE,
+        )
+        text = re.sub(
+            pattern=r'[$] (?P<headword> \S ) (?P<tone_number> [1-6] )',
+            repl=r'\g<headword>',
+            string=text,
+            flags=re.VERBOSE,
+        )
         text = re.sub(pattern=r'\[ (?P<text> [^\[\]]+ ) \] \( .+ \)', repl=r'\g<text>', string=text, flags=re.VERBOSE)
         text = re.sub(pattern=r'\[ (?P<text> [^\[\]]+ ) \] \[ .+ \]', repl=r'\g<text>', string=text, flags=re.VERBOSE)
         text = re.sub(pattern='(?<!~)~(?!~)', repl=' ', string=text)
