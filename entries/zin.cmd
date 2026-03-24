@@ -65,6 +65,7 @@ $$
 - $箋1
 - $籛1
 - $羶1
+- ($膻1)
 - $邅1
 - $顫1
 - $饘1
@@ -578,7 +579,7 @@ U
 A
   ==
   - 羴
-  - 膻
+  - $膻1
   ==
 V
   ==
@@ -616,6 +617,27 @@ L
     - (_noun-like_) rank-odour
     ==
   ====
+$$
+
+###+ 膻1 | _(1)Ch(i/)n_ [[zin1]]
+
+$$.
+R
+  ⾁ + 13
+U
+  U+81BB
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 羶. **See $羶zin1 for the canonical entry.**
+  ++
+S
+  ==
+  - $膻taan2 (TODO) <## same as 襢袒 ##>
+  ==
 $$
 
 ### 邅1 | _(1)Ch(i/)n_ [[zin1]]
