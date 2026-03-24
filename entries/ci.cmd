@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ci
-* %date-modified --> 2026-03-21
+* %date-modified --> 2026-03-24
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2448,7 +2448,7 @@ C
   ==
   - Williams' 承慈命: Used in marriage invitations,
     indicating that the groom/bride's father has arranged the marriage
-    according to wishes of the groom/bride's father's mother.
+    according to the wishes of the groom/bride's father's mother.
   ==
 L
   ====
