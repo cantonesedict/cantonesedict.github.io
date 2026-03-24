@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2026-03-05
+* %date-modified --> 2026-03-25
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -974,7 +974,7 @@ W
         an elegy hung up during the 49~days of mourning;
     - _(2)p(a/)i l(o\)(6) tsai(3)_
         [[baai2 lou6 zai3 擺路祭]]
-        to scatter or lay out offerings aloug the road
+        to scatter or lay out offerings along the road
         --- as at the funerals of worthy men;
     - _tsai(3) (1)yau_
         [[zai3 jau1 祭幽]],
