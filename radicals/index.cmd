@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of characters by radical
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-24
 * %copyright-prior-years --> 2024--
 * %meta-description --> index of characters by radical
 
@@ -48,10 +48,6 @@ RegexDictionaryReplacement: #.radical-links
 %%%
 
 #{.modern} %title
-
---{.modern}
-See also: [Search by character or code point](/search/).
---
 
 ||||{.wide}
 ''{.modern .radicals}

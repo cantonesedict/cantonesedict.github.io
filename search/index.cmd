@@ -21,10 +21,6 @@ OrdinaryDictionaryReplacement: #.search-maximum-character-count
 
 #{.modern} %title
 
---{.modern}
-See also: [Index of characters by radical](/radicals/).
---
-
 ||||{.modern .input-container}
 --
 <label for="search">__Search:__</label>

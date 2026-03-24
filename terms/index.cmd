@@ -17,10 +17,6 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 
 #{.modern} %title
 
---{.modern}
-See also: [Index of entry pages by Jyutping](/entries/).
---
-
 ||||{.modern .input-container}
 --
 <label for="filter">__Filter for Jyutping/Term:__</label>

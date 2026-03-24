@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of entry pages by Jyutping
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-24
 * %copyright-prior-years --> 2023--
 * %meta-description --> index of entry pages by Jyutping
 
@@ -43,10 +43,6 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 ==
 </nav>
 <## /incipits ##>
-
---{.modern}
-See also: [Index of Cantonese terms by Jyutping](/terms/).
---
 
 
 <## entries ##>
