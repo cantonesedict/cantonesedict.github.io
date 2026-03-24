@@ -2731,6 +2731,7 @@ class CharacterEntry:
         text = text.replace('[[', '(')
         text = text.replace(']]', ')')
         text = text.replace('^', '')
+        text = text.replace('@', '')
         text = re.sub(pattern='["=+-]{2,}$', repl='', string=text, flags=re.MULTILINE)
         text = text.replace('  - ', '')
         text = text.replace('  * ', '')
