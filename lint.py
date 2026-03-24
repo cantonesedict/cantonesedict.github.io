@@ -2684,36 +2684,46 @@ class CharacterEntry:
         text = content
 
         # Remove Williams typography
-        text = re.sub(r'\([1-9]\)', '', text)
-        text = re.sub(r'\( (?P<vowel>[aeiou]) [/\\:] \)', r'\g<vowel>', text, flags=re.IGNORECASE | re.VERBOSE)
+        text = re.sub(pattern=r'\([1-9]\)', repl='', string=text)
+        text = re.sub(
+            pattern=r'\( (?P<vowel>[aeiou]) [/\\:] \)',
+            repl=r'\g<vowel>',
+            string=text,
+            flags=re.IGNORECASE | re.VERBOSE,
+        )
         text = text.replace("(')", "'")
 
         # Remove boilerplate
         text = text.replace('[[Not present]]', '')
-        text = re.sub(r'[- ] \[\[\.\.\.\]\][;.\n]', '', text)
-        text = re.sub(r'(?:\(|\[\[|[0-9]+\. )(?:Alternative form|Reading variation|Otherwise,).*', '', text)
-        text = re.sub(r'- \(_.*?_\)', '', text)
+        text = re.sub(pattern=r'[- ] \[\[\.\.\.\]\][;.\n]', repl='', string=text)
+        text = re.sub(
+            pattern=r'(?: \( | \[\[ | [0-9]+[.][ ] ) (?-x:Alternative form|Reading variation|Otherwise,) .*',
+            repl='',
+            string=text,
+            flags=re.VERBOSE,
+        )
+        text = re.sub(pattern=r'- \(_.*?_\)', repl='', string=text)
 
         # Remove CMD syntax
         text = CmdIdioms.strip_comments(text)
         text = CmdIdioms.strip_compositions(text)
-        text = re.sub(r'\[ (?P<text> [^\[\]]+ ) \] \( .+ \)', r'\g<text>', text, flags=re.VERBOSE)
-        text = re.sub(r'\[ (?P<text> [^\[\]]+ ) \] \[ .+ \]', r'\g<text>', text, flags=re.VERBOSE)
-        text = re.sub('(?<!~)~(?!~)', ' ', text)
+        text = re.sub(pattern=r'\[ (?P<text> [^\[\]]+ ) \] \( .+ \)', repl=r'\g<text>', string=text, flags=re.VERBOSE)
+        text = re.sub(pattern=r'\[ (?P<text> [^\[\]]+ ) \] \[ .+ \]', repl=r'\g<text>', string=text, flags=re.VERBOSE)
+        text = re.sub(pattern='(?<!~)~(?!~)', repl=' ', string=text)
         text = text.replace('[[', '(')
         text = text.replace(']]', ')')
         text = text.replace('^', '')
-        text = re.sub('["=+-]{2,}$', '', text, flags=re.MULTILINE)
+        text = re.sub(pattern='["=+-]{2,}$', repl='', string=text, flags=re.MULTILINE)
         text = text.replace('  - ', '')
         text = text.replace('  * ', '')
-        text = re.sub(r'[0-9]+\. ', '', text)
-        text = re.sub(r'[ ]* \\ [ ]* \n', '', text, flags=re.MULTILINE | re.VERBOSE)
+        text = re.sub(pattern=r'[0-9]+\. ', repl='', string=text)
+        text = re.sub(pattern=r'[ ]* \\ [ ]* \n', repl='', string=text, flags=re.MULTILINE | re.VERBOSE)
         text = text.replace('(:', '')
         text = text.replace(':)', '')
         text = text.replace('::', '')
 
         # Normalise whitespace
-        text = re.sub(r'\s+', ' ', text)
+        text = re.sub(pattern=r'\s+', repl=' ', string=text)
         text = text.strip()
 
         return text
