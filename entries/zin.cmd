@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2026-03-23
+* %date-modified --> 2026-03-24
 * %copyright-prior-years --> 2023--
 
 ReplacementSequence: #.ensure-baxter
@@ -578,6 +578,7 @@ U
 A
   ==
   - 羴
+  - 膻
   ==
 V
   ==
@@ -608,6 +609,13 @@ C
     by Kangxi 羊脂也, which (I think) is intended not just as "sheep's fat",
     but should be interpolated to "[the smell of] sheep's fat".
   ==
+L
+  ====
+  * 【羶】 (syen)
+    ==
+    - (_noun-like_) rank-odour
+    ==
+  ====
 $$
 
 ### 邅1 | _(1)Ch(i/)n_ [[zin1]]
