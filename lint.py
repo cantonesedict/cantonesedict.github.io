@@ -2201,6 +2201,7 @@ class CharacterEntry:
             for key, content in self.content_from_key.items()
             if key not in 'RS'
             if content
+            if content.strip() != '[[Not present]]'
         ]
 
     @staticmethod
