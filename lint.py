@@ -2206,7 +2206,6 @@ class CharacterEntry:
                 f'under `{heading_content}`'
             )
 
-
     @staticmethod
     def lint_keys(content_from_key: dict[str, str], heading_content: str):
         keys = ''.join(f'{key} ' for key in content_from_key)
