@@ -5,17 +5,13 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Search by character or code point
-* %date-modified --> 2026-03-24
+* %date-modified --> 2026-03-25
 * %copyright-prior-years --> 2024--
 * %meta-description --> search by Chinese character or by Unicode code point
 
 OrdinaryDictionaryReplacement: #.no-black-serif-note
 - queue_position: AFTER #.boilerplate.footer
 * %black-serif-note -->
-
-OrdinaryDictionaryReplacement: #.search-maximum-character-count
-- queue_position: BEFORE #literals
-* {SEARCH_MAX_CHAR_COUNT} --> 16
 
 %%%
 
@@ -24,7 +20,7 @@ OrdinaryDictionaryReplacement: #.search-maximum-character-count
 ||||{.modern .input-container}
 --
 <label for="search">__Search:__</label>
-<input type="text" id="search" oninput="performSearch()" placeholder="(up to {SEARCH_MAX_CHAR_COUNT}~chars / 1~code point)" lang="zh-Hant">
+<input type="text" id="search" oninput="performSearch()" lang="zh-Hant">
 --
 <noscript>
 --
@@ -43,6 +39,18 @@ let characterPromise = fetch('character-index.json').then(response => response.j
 let compositionPromise = fetch('composition-index.json').then(response => response.json());
 
 let nbsp = String.fromCodePoint(0x00A0);
+
+function normaliseString(str)
+{
+  return (
+    str
+    .toLowerCase()
+    .trim()
+    .replace(/[!"$&'()*,./:;<=>?@\[\\\]^_`{|}~]/g, '')
+    .replace(/(?<!-)-(?![-0-9])/g, ' ')
+    .replace(/\s+/g, ' ')
+  );
+}
 
 function appendCharacterWithComposition(targetElement, character, composition)
 {
@@ -74,9 +82,23 @@ async function performSearch()
   let compositionJson = await compositionPromise;
 
   let searchElement = document.getElementById('search');
-  searchElement.value = searchElement.value.replace(/\s/g, '');
-  let searchString = searchElement.value.toUpperCase().trim();
+  let searchString = normaliseString(searchElement.value);
+  let searchHeadword = /^[㐀-鿿豈-龎𠀀-𳑿]$/u.test(searchString) ? searchString : '';
+  let searchJyutping = /^[a-z]+[1-6]$/.test(searchString) ? searchString : '';
+  let searchChineseRuns = searchString.match(/[㐀-鿿豈-龎𠀀-𳑿]+/gu);
+  let searchAsciiWords = searchString.replace(/[㐀-鿿豈-龎𠀀-𳑿]+/gu, ' ').split(/\s/g);
 
+  console.log(`headword ${searchHeadword}; jyutping ${searchJyutping}; chinese runs ${searchChineseRuns}; ascii words ${searchAsciiWords}`)
+
+  for (const [character, textFromJyutping] of Object.entries(characterJson))
+  {
+    for (const [jyutping, text] of Object.entries(textFromJyutping))
+    {
+      // console.log(`${character} ${jyutping}: ${text}`);
+    }
+  }
+
+  /*
   let searchCharacters;
   try
   {
@@ -157,6 +179,7 @@ async function performSearch()
       entriesCellElement.appendChild(closingBraceTextNode);
     }
   }
+  */
 }
 
 window.onload = performSearch;
@@ -166,9 +189,8 @@ window.onload = performSearch;
 ''{.modern}
 |^
   //
-    ; Character
-    ; Code point
-    ; Character entry links
+    ; Character entry (link)
+    ; Indexed entry text
 |:
 ''
 ||||

@@ -48,7 +48,7 @@
 <div class="modern input-container">
 <p>
 <label for="search"><b>Search:</b></label>
-<input type="text" id="search" oninput="performSearch()" placeholder="(up to 16 chars / 1 code point)" lang="zh-Hant">
+<input type="text" id="search" oninput="performSearch()" lang="zh-Hant">
 </p>
 <noscript>
 <p>
@@ -64,6 +64,18 @@ let characterPromise = fetch('character-index.json').then(response => response.j
 let compositionPromise = fetch('composition-index.json').then(response => response.json());
 
 let nbsp = String.fromCodePoint(0x00A0);
+
+function normaliseString(str)
+{
+  return (
+    str
+    .toLowerCase()
+    .trim()
+    .replace(/[!"$&'()*,./:;<=>?@\[\\\]^_`{|}~]/g, '')
+    .replace(/(?<!-)-(?![-0-9])/g, ' ')
+    .replace(/\s+/g, ' ')
+  );
+}
 
 function appendCharacterWithComposition(targetElement, character, composition)
 {
@@ -95,9 +107,23 @@ async function performSearch()
   let compositionJson = await compositionPromise;
 
   let searchElement = document.getElementById('search');
-  searchElement.value = searchElement.value.replace(/\s/g, '');
-  let searchString = searchElement.value.toUpperCase().trim();
+  let searchString = normaliseString(searchElement.value);
+  let searchHeadword = /^[㐀-鿿豈-龎𠀀-𳑿]$/u.test(searchString) ? searchString : '';
+  let searchJyutping = /^[a-z]+[1-6]$/.test(searchString) ? searchString : '';
+  let searchChineseRuns = searchString.match(/[㐀-鿿豈-龎𠀀-𳑿]+/gu);
+  let searchAsciiWords = searchString.replace(/[㐀-鿿豈-龎𠀀-𳑿]+/gu, ' ').split(/\s/g);
 
+  console.log(`headword ${searchHeadword}; jyutping ${searchJyutping}; chinese runs ${searchChineseRuns}; ascii words ${searchAsciiWords}`)
+
+  for (const [character, textFromJyutping] of Object.entries(characterJson))
+  {
+    for (const [jyutping, text] of Object.entries(textFromJyutping))
+    {
+      // console.log(`${character} ${jyutping}: ${text}`);
+    }
+  }
+
+  /*
   let searchCharacters;
   try
   {
@@ -106,7 +132,7 @@ async function performSearch()
   }
   catch
   {
-    searchCharacters = [...searchString].slice(0, 16);
+    searchCharacters = [...searchString].slice(0, {SEARCH_MAX_CHAR_COUNT});
   }
 
   let tbodyElement = document.getElementsByTagName('tbody')[0];
@@ -178,6 +204,7 @@ async function performSearch()
       entriesCellElement.appendChild(closingBraceTextNode);
     }
   }
+  */
 }
 
 window.onload = performSearch;
@@ -186,9 +213,8 @@ window.onload = performSearch;
 <table class="modern">
 <thead>
 <tr>
-<th>Character</th>
-<th>Code point</th>
-<th>Character entry links</th>
+<th>Character entry (link)</th>
+<th>Indexed entry text</th>
 </tr>
 </thead>
 <tbody>
@@ -199,7 +225,7 @@ window.onload = performSearch;
 <footer class="modern">
 © 2024–2026 Conway.<br>
 Source: <a href="https://github.com/cantonesedict/cantonesedict.github.io/blob/master/search/index.cmd"><code>search/index.cmd</code></a>.
-Last modified: <time datetime="2026-03-24">2026-03-24</time>.
+Last modified: <time datetime="2026-03-25">2026-03-25</time>.
 </footer>
 </body>
 </html>
