@@ -59,7 +59,7 @@
 <script>
 function normaliseString(str)
 {
-  return str.toLowerCase().trim().replace(/\s+/g, ' ');
+  return str.toLowerCase().trim().replace(/[^\S\n]+/g, ' ');
 }
 
 function matchJyutping(filterString, jyutping)
@@ -1785,7 +1785,7 @@ window.onload = applyFilter;
 <footer class="modern">
 © 2023–2026 Conway.<br>
 Source: <a href="https://github.com/cantonesedict/cantonesedict.github.io/blob/master/terms/index.cmd"><code>terms/index.cmd</code></a>.
-Last modified: <time datetime="2026-03-24">2026-03-24</time>.
+Last modified: <time datetime="2026-03-25">2026-03-25</time>.
 </footer>
 </body>
 </html>

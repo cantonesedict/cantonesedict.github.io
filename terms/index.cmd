@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of Cantonese terms by Jyutping
-* %date-modified --> 2026-03-24
+* %date-modified --> 2026-03-25
 * %copyright-prior-years --> 2023--
 * %meta-description --> searchable index of Cantonese terms by Jyutping
 
@@ -32,7 +32,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 u<``<script>
 function normaliseString(str)
 {
-  return str.toLowerCase().trim().replace(/\s+/g, ' ');
+  return str.toLowerCase().trim().replace(/[^\S\n]+/g, ' ');
 }
 
 function matchJyutping(filterString, jyutping)
