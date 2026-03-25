@@ -845,10 +845,9 @@ class Utilities:
         return dict(first_from_second_from_third)
 
     @staticmethod
-    def nice_json_string(object_, newline_after: str) -> str:
+    def nice_json_string(object_) -> str:
         return (
-            json.dumps(object_, ensure_ascii=False, separators=(',', ':'))
-            .replace(newline_after, f'{newline_after}\n')
+            json.dumps(object_, ensure_ascii=False, indent=0, separators=(',', ':'))
             + '\n'
         )
 
@@ -3239,7 +3238,7 @@ class Linter:
             (character_entry.indexing_text(), character_entry.jyutping, character_entry.character)
             for character_entry in self.character_entries
         )
-        character_index_json = Utilities.nice_json_string(text_from_jyutping_from_character, newline_after='},')
+        character_index_json = Utilities.nice_json_string(text_from_jyutping_from_character)
 
         compositions_from_character = Utilities.collate_firsts_by_second(
             (composition, character_entry.character)
@@ -3250,7 +3249,7 @@ class Linter:
             character: compositions[0]
             for character, compositions in sorted(compositions_from_character.items())
         }
-        composition_index_json = Utilities.nice_json_string(composition_from_character, newline_after=',')
+        composition_index_json = Utilities.nice_json_string(composition_from_character)
 
         with open('search/character-index.json', 'w', encoding='utf-8') as character_index_json_file:
             character_index_json_file.write(character_index_json)
