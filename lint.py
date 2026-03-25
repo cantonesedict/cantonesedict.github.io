@@ -2752,10 +2752,10 @@ class CharacterEntry:
 
         # Simplify edits that have become redundant
         text = re.sub(
-          pattern='~~(?P<run>.*?)~~ [ ]? ``(?P=run)``',
-          repl=r'\g<run>',
-          string=text,
-          flags=re.VERBOSE,
+            pattern='~~(?P<run>.*?)~~ [ ]? ``(?P=run)``',
+            repl=r'\g<run>',
+            string=text,
+            flags=re.VERBOSE,
         )
 
         return text
