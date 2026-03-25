@@ -2730,6 +2730,7 @@ class CharacterEntry:
         text = text.replace('[[', '(')
         text = text.replace(']]', ')')
         text = re.sub(pattern='(?<!~)~(?!~)', repl=' ', string=text)
+        text = re.sub(pattern=r'B[1-5][.][a-z0-9]+ ', repl=r'《廣韻》', string=text)
 
         # Remove non-textual CMD syntax
         text = re.sub(pattern='["=+-]{2,}$', repl='', string=text, flags=re.MULTILINE)
