@@ -2746,8 +2746,8 @@ class CharacterEntry:
         text = text.replace('::', '')
 
         # Normalise whitespace
-        text = re.sub(pattern=r'\s+', repl=' ', string=text)
         text = text.strip()
+        text = re.sub(pattern=r'\s+', repl=' ', string=text)
 
         # Simplify edits that have become redundant
         text = re.sub(
