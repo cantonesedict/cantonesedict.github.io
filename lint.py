@@ -2747,6 +2747,14 @@ class CharacterEntry:
         text = re.sub(pattern=r'\s+', repl=' ', string=text)
         text = text.strip()
 
+        # Simplify edits that have become redundant
+        text = re.sub(
+          pattern='~~(?P<run>.*?)~~ [ ]? ``(?P=run)``',
+          repl=r'\g<run>',
+          string=text,
+          flags=re.VERBOSE,
+        )
+
         return text
 
 class RadicalStrokes:
