@@ -3239,7 +3239,7 @@ class Linter:
             (character_entry.indexing_text(), character_entry.jyutping, character_entry.character)
             for character_entry in self.character_entries
         )
-        character_index_json = Utilities.nice_json_string(text_from_jyutping_from_character, newline_after=']},')
+        character_index_json = Utilities.nice_json_string(text_from_jyutping_from_character, newline_after='},')
 
         compositions_from_character = Utilities.collate_firsts_by_second(
             (composition, character_entry.character)
