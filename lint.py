@@ -2730,8 +2730,8 @@ class CharacterEntry:
         text = text.replace('[[', '(')
         text = text.replace(']]', ')')
         text = re.sub(pattern='(?<!~)~(?!~)', repl=' ', string=text)
-        text = re.sub(pattern=r'B[1-5][.][a-z0-9]+ ', repl=r'《廣韻》', string=text)
-        text = re.sub(pattern=r'C[.][0-9]+[.]cn/n?[0-9]+', repl=r'《集韻》', string=text)
+        text = re.sub(pattern='B[1-5][.][a-z0-9]+ ', repl='《廣韻》', string=text)
+        text = re.sub(pattern='C[.][0-9]+[.]cn/n?[0-9]+', repl='《集韻》', string=text)
         text = text.replace('K. ', '《康熙字典》')
 
         # Remove non-textual CMD syntax
