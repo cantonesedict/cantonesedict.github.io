@@ -2732,6 +2732,7 @@ class CharacterEntry:
         text = re.sub(pattern='(?<!~)~(?!~)', repl=' ', string=text)
         text = re.sub(pattern=r'B[1-5][.][a-z0-9]+ ', repl=r'《廣韻》', string=text)
         text = re.sub(pattern=r'C[.][0-9]+[.]cn/n?[0-9]+', repl=r'《集韻》', string=text)
+        text = text.replace('K. ', '《康熙字典》')
 
         # Remove non-textual CMD syntax
         text = re.sub(pattern='["=+-]{2,}$', repl='', string=text, flags=re.MULTILINE)
