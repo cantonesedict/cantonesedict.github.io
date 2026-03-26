@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-03-24
+* %date-modified --> 2026-03-26
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -1880,7 +1880,7 @@ window.onload = applyFilter;
       ==
   //
     , `dzjen`
-    , [錢](/entries/cin#rendering-錢)
+    , [錢~(level)](/entries/cin#rendering-錢-level)
     ,
       ==
       - (_noun-like_) coin
@@ -1894,10 +1894,24 @@ window.onload = applyFilter;
       ==
   //
     , `dzjenX`
+    , [諓](/entries/zin#rendering-諓)
+    ,
+      ==
+      - (_adjective-like_) artful
+      ==
+  //
+    , `dzjenX`
     , [踐](/entries/cin#rendering-踐)
     ,
       ==
       - (_verb-like_) [to] trample, [to] tread, (_met._) [to] realise, [to] fulfil
+      ==
+  //
+    , `dzjenH`
+    , [諓](/entries/zin#rendering-諓)
+    ,
+      ==
+      - (_adjective-like_) artful
       ==
   //
     , `dzjeng`
@@ -3915,10 +3929,33 @@ window.onload = applyFilter;
       ==
   //
     , `trjenX`
+    , [展](/entries/zin#rendering-展)
+    ,
+      ==
+      - (_verb-like_) [to] unfurl, [to] exhibit
+      - (_verb-like_) [to] examine
+      - (_adverb-like_) verily
+      ==
+  //
+    , `trjenX`
+    , [皽](/entries/zin#rendering-皽)
+    ,
+      ==
+      - (_noun-like_) skin-crust
+      ==
+  //
+    , `trjenX`
     , [紾](/entries/can#rendering-紾)
     ,
       ==
       - (_verb-like_) [to] twist
+      ==
+  //
+    , `trjenX`
+    , [輾](/entries/zin#rendering-輾)
+    ,
+      ==
+      - (_verb-like_) [to] roll (over), (_met._) [to] toss
       ==
   //
     , `trjoX`
@@ -5437,6 +5474,29 @@ window.onload = applyFilter;
       - (_verb-like_) [to] decoct
       ==
   //
+    , `tsjenX`
+    , [戩](/entries/zin#rendering-戩)
+    ,
+      ==
+      - (_adjective-like_) complete
+      ==
+  //
+    , `tsjenX`
+    , [翦](/entries/zin#rendering-翦)
+    ,
+      ==
+      - (_verb-like_) [to] clip, [to] cut, (_met._) [to] annihilate
+      - (_adverb-like_) utterly
+      - (_adjective-like_) pale
+      ==
+  //
+    , `tsjenX`
+    , [錢~(rising)](/entries/zin#rendering-錢-rising)
+    ,
+      ==
+      - (_noun-like_) adze-hoe
+      ==
+  //
     , `tsjenH`
     , [濺](/entries/zin#rendering-濺)
     ,
@@ -6436,6 +6496,13 @@ window.onload = applyFilter;
       ==
   //
     , `tsyenX`
+    , [皽](/entries/zin#rendering-皽)
+    ,
+      ==
+      - (_noun-like_) skin-crust
+      ==
+  //
+    , `tsyenX`
     , [饘](/entries/zin#rendering-饘)
     ,
       ==
@@ -6565,6 +6632,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) lapel
+      ==
+  //
+    , `tsyhenX`
+    , [闡](/entries/zin#rendering-闡)
+    ,
+      ==
+      - (_verb-like_) [to] open (up), (_met._) [to] elucidate
       ==
   //
     , `tsyhew`

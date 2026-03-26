@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cin
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-26
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -839,7 +839,7 @@ P
   ++
 L
   ====
-  * 【錢】 (dzjen)
+  * 【錢-level】 (dzjen)
     ==
     - (_noun-like_) coin
     ==

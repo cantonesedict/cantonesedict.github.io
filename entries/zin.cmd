@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2026-03-24
+* %date-modified --> 2026-03-26
 * %copyright-prior-years --> 2023--
 
 ReplacementSequence: #.ensure-baxter
@@ -916,7 +916,7 @@ W
     - [[...]].
     ==
     --
-    [[Otherwise, an alternative form of 翦. **See $翦zin2 for the canonical entry.**]]
+    [[Alternative form of 翦. See $翦zin2.]]
     --
   ====
 C
@@ -958,7 +958,7 @@ W
     - To open out, to unroll [[Kangxi: 開也]]~~, and inspect~~;
     - to exhibit [[Kangxi: ::展陳也::]], to disentangle;
     - to stretch out at one's ease [[Kangxi: 舒也]], to expand;
-    - to judge of, to look into [[Kangxi: 審也視也, 展省閱也]];
+    - ``to inspect,`` to judge of, to look into [[Kangxi: 審也視也, 展省閱也]];
     - true, sincere [[Kangxi: 一曰誠也]];
     - cheerful, pleasant;
     - ~~gratified;~~
@@ -990,6 +990,15 @@ P
   1. To record (Kangxi: 展猶錄也).
   1. To implement, to bring about.
   ++
+L
+  ====
+  * 【展】 (trjenX)
+    ==
+    - (_verb-like_) [to] unfurl, [to] exhibit
+    - (_verb-like_) [to] examine
+    - (_adverb-like_) verily
+    ==
+  ====
 $$
 
 ### 戩2 | _(2)Ts(i/)n_ [[zin2]]
@@ -1023,6 +1032,13 @@ P
   ++
   1. A blessing.
   ++
+L
+  ====
+  * 【戩】 (tsjenX)
+    ==
+    - (_adjective-like_) complete
+    ==
+  ====
 $$
 
 ###+ 皽2 | _(2)Ch(i/)n_ [[zin2]]
@@ -1045,6 +1061,13 @@ W
     - [[...]];
     - thin scurf skin, a scab [[Kangxi: 離也, 皮寬也, 皮肉之上魄膜也]];
     - [[...]].
+    ==
+  ====
+L
+  ====
+  * 【皽】 (trjenX, tsyenX)
+    ==
+    - (_noun-like_) skin-crust
     ==
   ====
 S
@@ -1113,7 +1136,7 @@ W
         to give up territory and beg for peace.
     ==
     --
-    [[Otherwise, an alternative form of 剪. **See $剪zin2 for the canonical entry.**]]
+    [[Alternative form of 剪. See $剪zin2.]]
     --
   - [[Page~573 (2)戩; here normalised to 翦]]
     ==
@@ -1130,6 +1153,20 @@ C
     In modern usage, the "scissors" and "cut" senses is spelt 剪,
     whilst the other (classical) senses are spelt 翦.
     I have split things up accordingly, with duplication where appropriate.
+  ====
+P
+  ++
+  1. Utterly (Kangxi: 翦盡也).
+  1. Pale (Kangxi: 翦淺也).
+  ++
+L
+  ====
+  * 【翦】 (tsjenX)
+    ==
+    - (_verb-like_) [to] clip, [to] cut, (_met._) [to] annihilate
+    - (_adverb-like_) utterly
+    - (_adjective-like_) pale
+    ==
   ====
 $$
 
@@ -1167,6 +1204,13 @@ C
   - The reading _(2)ts(i/)n_ (zin2) is not unattested;
     《集韻》 has the reading 子淺切, explained 諓諓淺薄皃一曰巧言也一曰善也.
   ==
+L
+  ====
+  * 【諓】 (dzjenX, dzjenH)
+    ==
+    - (_adjective-like_) artful
+    ==
+  ====
 $$
 
 ### 謭2 | _(2)Ts(i/)n_ [[zin2]]
@@ -1255,6 +1299,13 @@ C
   ==
   - Williams' 輾轉反側: Corrected _ch(')ak(7)_ (cak1) to _chak(7)_ (zak1).
   ==
+L
+  ====
+  * 【輾】 (trjenX)
+    ==
+    - (_verb-like_) [to] roll (over), (_met._) [to] toss
+    ==
+  ====
 S
   ==
   - $輾nin5 (TODO)
@@ -1276,6 +1327,13 @@ P
   ++
   1. A farming tool (Kangxi: 銚也古田器).
   ++
+L
+  ====
+  * 【錢-rising】 (tsjenX)
+    ==
+    - (_noun-like_) adze-hoe
+    ==
+  ====
 S
   ==
   - $錢cin4
@@ -1312,6 +1370,13 @@ W
     - _(2)ch(i/)n t(a/)t(9)_
         [[zin2 daat6 闡達]]
         to comprehend.
+    ==
+  ====
+L
+  ====
+  * 【闡】 (tsyhenX)
+    ==
+    - (_verb-like_) [to] open (up), (_met._) [to] elucidate
     ==
   ====
 S
