@@ -20,7 +20,7 @@ OrdinaryDictionaryReplacement: #.no-black-serif-note
 ||||{.modern .input-container}
 --
 <label for="search">__Search:__</label>
-<input type="text" id="search" oninput="performSearch()" lang="zh-Hant">
+<input type="text" id="search" oninput="performSearch()" placeholder="(Chinese or English)" lang="zh-Hant">
 --
 <noscript>
 --
@@ -38,13 +38,13 @@ u<``<script>
 let characterPromise = fetch('character-index.json').then(response => response.json());
 let compositionPromise = fetch('composition-index.json').then(response => response.json());
 
-let nbsp = String.fromCodePoint(0x00A0);
-
 let MATCH_INDEX_FROM_TYPE = new Map([
   ["character-match", 1],
   ["jyutping-match", 2],
   ["text-match", 3],
 ]);
+let MAX_RESULT_COUNT = 20;
+let NBSP = String.fromCodePoint(0x00A0);
 
 class Result
 {
@@ -151,7 +151,7 @@ async function performSearch()
     }
   }
 
-  results = results.sort((r1, r2) => r1.isLessThan(r2));
+  results = results.sort((r1, r2) => r1.isLessThan(r2)).slice(0, MAX_RESULT_COUNT);
 
   /*
   let searchCharacters;
