@@ -139,17 +139,8 @@ async function performSearch()
   let searchString = normaliseString(searchElement.value);
   let searchCharacter = /^[㐀-鿿豈-龎𠀀-𳑿]$/u.test(searchString) ? searchString : '';
   let searchJyutping = /^[a-z]+[1-6]$/.test(searchString) ? searchString : '';
-  let searchChineseRuns = new Set(searchString.match(/[㐀-鿿豈-龎𠀀-𳑿]+/gu));
-  let searchEnglishWords = new Set(searchString.replace(/[㐀-鿿豈-龎𠀀-𳑿]+/gu, ' ').match(/\S+/g));
-
-  let chineseRunRegex =
-          (searchChineseRuns.size > 0)
-            ? new RegExp([...searchChineseRuns].map(RegExp.escape).join('|'))
-            : /$^/;
-  let englishWordsRegex =
-          (searchEnglishWords.size > 0)
-            ? new RegExp([...searchEnglishWords].map(RegExp.escape).join('|'))
-            : /$^/;
+  let searchChineseRuns = [...new Set(searchString.match(/[㐀-鿿豈-龎𠀀-𳑿]+/gu))];
+  let searchEnglishWords = [...new Set(searchString.replace(/[㐀-鿿豈-龎𠀀-𳑿]+/gu, ' ').match(/\S+/g))];
 
   let results = [];
 
@@ -167,21 +158,20 @@ async function performSearch()
       }
       else
       {
-        let chineseRuns = new Set(text.match(chineseRunRegex));
-        let englishWords = new Set(text.match(englishWordsRegex));
-        let matches = [...chineseRuns, ...englishWords];
-        if (matches.length === 0)
+        let element_is_match = str => normaliseString(text).includes(str);
+        if (searchChineseRuns.every(element_is_match) && searchEnglishWords.every(element_is_match))
         {
-          continue;
+          let matches = [...searchChineseRuns, ...searchEnglishWords];
+          if (matches.length)
+          {
+            let scores = [
+              ...[...searchChineseRuns].map(run => Math.tanh(run.length / 2) ** 2),
+              ...[...searchEnglishWords].map(word => Math.tanh(word.length / 4) ** 4),
+            ];
+            let score = 1 - scores.reduce((q, p) => q * (1 - p), 1);
+            results.push(new Result(character, jyutping, text, "text-match", matches, score));
+          }
         }
-
-        let scores = [
-          ...[...chineseRuns].map(run => Math.tanh(run.length)),
-          ...[...englishWords].map(word => Math.tanh(word.length / 4) ** 4),
-        ];
-        let score = 1 - scores.reduce((q, p) => q * (1 - p), 1);
-        results.push(new Result(character, jyutping, text, "text-match", matches, score));
-        console.log(matches);
       }
     }
   }
