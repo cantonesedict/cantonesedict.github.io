@@ -65,6 +65,34 @@ let compositionPromise = fetch('composition-index.json').then(response => respon
 
 let nbsp = String.fromCodePoint(0x00A0);
 
+let MATCH_INDEX_FROM_TYPE = new Map([
+  ["character-match", 1],
+  ["jyutping-match", 2],
+  ["text-match", 3],
+]);
+
+class Result
+{
+  constructor(character, jyutping, text, type, score)
+  {
+    this.character = character;
+    this.jyutping = jyutping;
+    this.text = text;
+    this.type = type;
+    this.score = score;
+  }
+
+  isLessThan(other)
+  {
+    return (
+      MATCH_INDEX_FROM_TYPE.get(this.type) - MATCH_INDEX_FROM_TYPE.get(other.type)
+      || this.score - other.score
+      || this.jyutping.localeCompare(other.jyutping)
+      || this.character.localeCompare(other.character)
+    );
+  }
+}
+
 function normaliseString(str)
 {
   return (
@@ -108,20 +136,30 @@ async function performSearch()
 
   let searchElement = document.getElementById('search');
   let searchString = normaliseString(searchElement.value);
-  let searchHeadword = /^[㐀-鿿豈-龎𠀀-𳑿]$/u.test(searchString) ? searchString : '';
+  let searchCharacter = /^[㐀-鿿豈-龎𠀀-𳑿]$/u.test(searchString) ? searchString : '';
   let searchJyutping = /^[a-z]+[1-6]$/.test(searchString) ? searchString : '';
-  let searchChineseRuns = searchString.match(/[㐀-鿿豈-龎𠀀-𳑿]+/gu);
-  let searchAsciiWords = searchString.replace(/[㐀-鿿豈-龎𠀀-𳑿]+/gu, ' ').split(/\s/g);
+  let searchChineseRuns = searchString.matchAll(/[㐀-鿿豈-龎𠀀-𳑿]+/gu);
+  let searchEnglishWords = searchString.replace(/[㐀-鿿豈-龎𠀀-𳑿]+/gu, ' ').matchAll(/\S+/g);
 
-  console.log(`headword ${searchHeadword}; jyutping ${searchJyutping}; chinese runs ${searchChineseRuns}; ascii words ${searchAsciiWords}`)
+  let results = [];
 
   for (const [character, textFromJyutping] of Object.entries(characterJson))
   {
     for (const [jyutping, text] of Object.entries(textFromJyutping))
     {
-      // console.log(`${character} ${jyutping}: ${text}`);
+      if (searchCharacter === character)
+      {
+        results.push(new Result(character, jyutping, text, "character-match", 0));
+      }
+      else if (searchJyutping === jyutping)
+      {
+        results.push(new Result(character, jyutping, text, "jyutping-match", 0));
+      }
+      // TODO: "text-match"
     }
   }
+
+  console.log(results.sort((result1, result2) => result1.isLessThan(result2)));
 
   /*
   let searchCharacters;
@@ -225,7 +263,7 @@ window.onload = performSearch;
 <footer class="modern">
 © 2024–2026 Conway.<br>
 Source: <a href="https://github.com/cantonesedict/cantonesedict.github.io/blob/master/search/index.cmd"><code>search/index.cmd</code></a>.
-Last modified: <time datetime="2026-03-25">2026-03-25</time>.
+Last modified: <time datetime="2026-03-27">2026-03-27</time>.
 </footer>
 </body>
 </html>
