@@ -73,12 +73,13 @@ let MATCH_INDEX_FROM_TYPE = new Map([
 
 class Result
 {
-  constructor(character, jyutping, text, type, score)
+  constructor(character, jyutping, text, type, matches, score)
   {
     this.character = character;
     this.jyutping = jyutping;
     this.text = text;
     this.type = type;
+    this.matches = matches;
     this.score = score;
   }
 
@@ -86,7 +87,7 @@ class Result
   {
     return (
       MATCH_INDEX_FROM_TYPE.get(this.type) - MATCH_INDEX_FROM_TYPE.get(other.type)
-      || this.score - other.score
+      || -(this.score - other.score)
       || this.jyutping.localeCompare(other.jyutping)
       || this.character.localeCompare(other.character)
     );
@@ -138,8 +139,17 @@ async function performSearch()
   let searchString = normaliseString(searchElement.value);
   let searchCharacter = /^[㐀-鿿豈-龎𠀀-𳑿]$/u.test(searchString) ? searchString : '';
   let searchJyutping = /^[a-z]+[1-6]$/.test(searchString) ? searchString : '';
-  let searchChineseRuns = searchString.matchAll(/[㐀-鿿豈-龎𠀀-𳑿]+/gu);
-  let searchEnglishWords = searchString.replace(/[㐀-鿿豈-龎𠀀-𳑿]+/gu, ' ').matchAll(/\S+/g);
+  let searchChineseRuns = new Set(searchString.match(/[㐀-鿿豈-龎𠀀-𳑿]+/gu));
+  let searchEnglishWords = new Set(searchString.replace(/[㐀-鿿豈-龎𠀀-𳑿]+/gu, ' ').match(/\S+/g));
+
+  let chineseRunRegex =
+          (searchChineseRuns.size > 0)
+            ? new RegExp([...searchChineseRuns].map(RegExp.escape).join('|'))
+            : /$^/;
+  let englishWordsRegex =
+          (searchEnglishWords.size > 0)
+            ? new RegExp([...searchEnglishWords].map(RegExp.escape).join('|'))
+            : /$^/;
 
   let results = [];
 
@@ -149,17 +159,34 @@ async function performSearch()
     {
       if (searchCharacter === character)
       {
-        results.push(new Result(character, jyutping, text, "character-match", 0));
+        results.push(new Result(character, jyutping, text, "character-match", [], 1));
       }
       else if (searchJyutping === jyutping)
       {
-        results.push(new Result(character, jyutping, text, "jyutping-match", 0));
+        results.push(new Result(character, jyutping, text, "jyutping-match", [], 1));
       }
-      // TODO: "text-match"
+      else
+      {
+        let chineseRuns = new Set(text.match(chineseRunRegex));
+        let englishWords = new Set(text.match(englishWordsRegex));
+        let matches = [...chineseRuns, ...englishWords];
+        if (matches.length === 0)
+        {
+          continue;
+        }
+
+        let scores = [
+          ...[...chineseRuns].map(run => Math.tanh(run.length)),
+          ...[...englishWords].map(word => Math.tanh(word.length / 4) ** 4),
+        ];
+        let score = 1 - scores.reduce((q, p) => q * (1 - p), 1);
+        results.push(new Result(character, jyutping, text, "text-match", matches, score));
+        console.log(matches);
+      }
     }
   }
 
-  console.log(results.sort((result1, result2) => result1.isLessThan(result2)));
+  results = results.sort((r1, r2) => r1.isLessThan(r2));
 
   /*
   let searchCharacters;
