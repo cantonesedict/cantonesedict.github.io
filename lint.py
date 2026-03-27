@@ -863,6 +863,10 @@ class CmdIdioms:
         )
 
     @staticmethod
+    def strip_scripts(content: str) -> str:
+        return re.sub(pattern='<script>.*?</script>', repl='', string=content, flags=re.DOTALL)
+
+    @staticmethod
     def parse_entry_items(content: str) -> dict[str, str]:
         return {
             key: content
@@ -1025,7 +1029,7 @@ class CmdSource:
 
         if context_match := re.search(
             pattern=fr'\S*? (?P<character> {cjk_compatibility_ideograph_pattern} ) \S*',
-            string=content,
+            string=CmdIdioms.strip_scripts(content),
             flags=re.VERBOSE,
         ):
             context = context_match.group()
@@ -1042,7 +1046,7 @@ class CmdSource:
         non_exempt_content = re.sub(
             pattern=exempt_pattern,
             repl='',
-            string=content,
+            string=CmdIdioms.strip_scripts(content),
             flags=re.VERBOSE,
         )
 
