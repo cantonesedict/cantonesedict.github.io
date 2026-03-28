@@ -212,9 +212,17 @@ async function performSearch()
     appendCharacterWithComposition(linkElement, character, composition, isCharacterMatch);
     appendJyutping(linkElement, syllable, tone, isJyutpingMatch);
 
-    if (!isCanonical) {linkCellElement.appendChild(document.createTextNode('('));}
+    if (!isCanonical)
+    {
+      linkCellElement.appendChild(document.createTextNode('('));
+    }
+
     linkCellElement.appendChild(linkElement);
-    if (!isCanonical) {linkCellElement.appendChild(document.createTextNode(')'));}
+
+    if (!isCanonical)
+    {
+      linkCellElement.appendChild(document.createTextNode(')'));
+    }
   }
 }
 
