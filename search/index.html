@@ -159,8 +159,8 @@ async function performSearch()
       }
       else
       {
-        let element_is_match = str => normaliseString(text).includes(str);
-        if (searchChineseRuns.every(element_is_match) && searchEnglishWords.every(element_is_match))
+        let elementIsMatch = str => normaliseString(text).includes(str);
+        if (searchChineseRuns.every(elementIsMatch) && searchEnglishWords.every(elementIsMatch))
         {
           let matches = [...searchChineseRuns, ...searchEnglishWords];
           if (matches.length)

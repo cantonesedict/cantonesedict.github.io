@@ -3241,7 +3241,7 @@ class Linter:
         details_from_jyutping_from_character = Utilities.collate_first_by_second_by_third(
             (
                 {
-                    'is_canonical': character_entry.is_canonical,
+                    'isCanonical': character_entry.is_canonical,
                     'text': character_entry.indexing_text(),
                 },
                 character_entry.jyutping,
