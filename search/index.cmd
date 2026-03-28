@@ -62,6 +62,7 @@ class Result
   {
     return (
       this.type - other.type
+      || -(this.isCanonical - other.isCanonical)
       || -(this.score - other.score)
       || this.jyutping.localeCompare(other.jyutping)
       || this.character.localeCompare(other.character)
