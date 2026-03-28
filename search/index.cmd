@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Search by character or code point
-* %date-modified --> 2026-03-27
+* %date-modified --> 2026-03-28
 * %copyright-prior-years --> 2024--
 * %meta-description --> search by Chinese character or by Unicode code point
 
@@ -38,11 +38,10 @@ u<``<script>
 let characterPromise = fetch('character-index.json').then(response => response.json());
 let compositionPromise = fetch('composition-index.json').then(response => response.json());
 
-let MATCH_INDEX_FROM_TYPE = new Map([
-  ["character-match", 1],
-  ["jyutping-match", 2],
-  ["text-match", 3],
-]);
+let TYPE_CHARACTER_MATCH = 1;
+let TYPE_JYUTPING_MATCH = 2;
+let TYPE_TEXT_MATCH = 3;
+
 let MAX_RESULT_COUNT = 20;
 let NBSP = String.fromCodePoint(0x00A0);
 
@@ -61,7 +60,7 @@ class Result
   isLessThan(other)
   {
     return (
-      MATCH_INDEX_FROM_TYPE.get(this.type) - MATCH_INDEX_FROM_TYPE.get(other.type)
+      this.type - other.type
       || -(this.score - other.score)
       || this.jyutping.localeCompare(other.jyutping)
       || this.character.localeCompare(other.character)
@@ -125,11 +124,11 @@ async function performSearch()
     {
       if (searchCharacter === character)
       {
-        results.push(new Result(character, jyutping, text, "character-match", [], 1));
+        results.push(new Result(character, jyutping, text, TYPE_CHARACTER_MATCH, [], 1));
       }
       else if (searchJyutping === jyutping)
       {
-        results.push(new Result(character, jyutping, text, "jyutping-match", [], 1));
+        results.push(new Result(character, jyutping, text, TYPE_JYUTPING_MATCH, [], 1));
       }
       else
       {
@@ -144,7 +143,7 @@ async function performSearch()
               ...[...searchEnglishWords].map(word => Math.tanh(word.length / 4) ** 4),
             ];
             let score = 1 - scores.reduce((q, p) => q * (1 - p), 1);
-            results.push(new Result(character, jyutping, text, "text-match", matches, score));
+            results.push(new Result(character, jyutping, text, TYPE_TEXT_MATCH, matches, score));
           }
         }
       }
