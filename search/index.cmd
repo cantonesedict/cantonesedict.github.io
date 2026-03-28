@@ -47,10 +47,11 @@ let NBSP = String.fromCodePoint(0x00A0);
 
 class Result
 {
-  constructor(character, jyutping, text, type, matches, score)
+  constructor(character, jyutping, isCanonical, text, type, matches, score)
   {
     this.character = character;
     this.jyutping = jyutping;
+    this.isCanonical = isCanonical;
     this.text = text;
     this.type = type;
     this.matches = matches;
@@ -122,15 +123,16 @@ async function performSearch()
   {
     for (const [jyutping, details] of Object.entries(textFromJyutping))
     {
+      let isCanonical = details.isCanonical;
       let text = details.text;
 
       if (searchCharacter === character)
       {
-        results.push(new Result(character, jyutping, text, TYPE_CHARACTER_MATCH, [], 1));
+        results.push(new Result(character, jyutping, isCanonical, text, TYPE_CHARACTER_MATCH, [], 1));
       }
       else if (searchJyutping === jyutping)
       {
-        results.push(new Result(character, jyutping, text, TYPE_JYUTPING_MATCH, [], 1));
+        results.push(new Result(character, jyutping, isCanonical, text, TYPE_JYUTPING_MATCH, [], 1));
       }
       else
       {
@@ -145,7 +147,7 @@ async function performSearch()
               ...[...searchEnglishWords].map(word => Math.tanh(word.length / 4) ** 4),
             ];
             let score = 1 - scores.reduce((q, p) => q * (1 - p), 1);
-            results.push(new Result(character, jyutping, text, TYPE_TEXT_MATCH, matches, score));
+            results.push(new Result(character, jyutping, isCanonical, text, TYPE_TEXT_MATCH, matches, score));
           }
         }
       }
@@ -161,6 +163,7 @@ async function performSearch()
   {
     let character = result.character;
     let jyutping = result.jyutping;
+    let isCanonical = result.isCanonical;
 
     let composition = compositionJson[character];
     let syllable = jyutping.replace(/[1-6]/g, '');
@@ -172,9 +175,11 @@ async function performSearch()
 
     let linkElement = document.createElement('a');
     linkElement.href = `/entries/${syllable}#${character}-${tone}`;
-    linkCellElement.appendChild(linkElement);
-
     appendCharacterWithComposition(linkElement, character, composition);
+
+    if (!isCanonical) {linkCellElement.appendChild(document.createTextNode('('));}
+    linkCellElement.appendChild(linkElement);
+    if (!isCanonical) {linkCellElement.appendChild(document.createTextNode(')'));}
 
     let jyutpingTextNode = document.createTextNode(`${NBSP}${syllable}`);
     linkElement.appendChild(jyutpingTextNode);

@@ -1178,7 +1178,7 @@ class CmdSource:
         # Allowing false positive (in `two_characters_before`) is faster than using a negative lookbehind
         if run_match := re.search(
             pattern=r"\S* (?P<two_characters_before> .. ) \('\) \S*",
-            string=content,
+            string=CmdIdioms.strip_scripts(content),
             flags=re.IGNORECASE | re.VERBOSE,
         ):
             run = run_match.group()
