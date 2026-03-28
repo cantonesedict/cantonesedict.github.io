@@ -10,6 +10,7 @@ import json
 import os
 import re
 import sys
+import unicodedata
 from collections import defaultdict
 from textwrap import indent
 from typing import Iterable, Optional, TypeVar
@@ -845,10 +846,9 @@ class Utilities:
         return dict(first_from_second_from_third)
 
     @staticmethod
-    def nice_json_string(object_, newline_after: str) -> str:
+    def nice_json_string(object_) -> str:
         return (
-            json.dumps(object_, ensure_ascii=False, separators=(',', ':'))
-            .replace(newline_after, f'{newline_after}\n')
+            json.dumps(object_, ensure_ascii=False, indent=0, separators=(',', ':'))
             + '\n'
         )
 
@@ -862,6 +862,10 @@ class CmdIdioms:
             string=content,
             flags=re.DOTALL | re.VERBOSE,
         )
+
+    @staticmethod
+    def strip_scripts(content: str) -> str:
+        return re.sub(pattern='<script>.*?</script>', repl='', string=content, flags=re.DOTALL)
 
     @staticmethod
     def parse_entry_items(content: str) -> dict[str, str]:
@@ -1026,7 +1030,7 @@ class CmdSource:
 
         if context_match := re.search(
             pattern=fr'\S*? (?P<character> {cjk_compatibility_ideograph_pattern} ) \S*',
-            string=content,
+            string=CmdIdioms.strip_scripts(content),
             flags=re.VERBOSE,
         ):
             context = context_match.group()
@@ -1043,7 +1047,7 @@ class CmdSource:
         non_exempt_content = re.sub(
             pattern=exempt_pattern,
             repl='',
-            string=content,
+            string=CmdIdioms.strip_scripts(content),
             flags=re.VERBOSE,
         )
 
@@ -1175,7 +1179,7 @@ class CmdSource:
         # Allowing false positive (in `two_characters_before`) is faster than using a negative lookbehind
         if run_match := re.search(
             pattern=r"\S* (?P<two_characters_before> .. ) \('\) \S*",
-            string=content,
+            string=CmdIdioms.strip_scripts(content),
             flags=re.IGNORECASE | re.VERBOSE,
         ):
             run = run_match.group()
@@ -2195,6 +2199,15 @@ class CharacterEntry:
 
         return '\n'.join([self.w_content, self.p_content])
 
+    def indexing_text(self) -> str:
+        return ' '.join(
+            text
+            for key, content in self.content_from_key.items()
+            if key not in 'RS'
+            if content
+            if (text := CharacterEntry.extract_indexing_text(content))
+        )
+
     @staticmethod
     def lint_romanisation_consistency(williams_list: list[str], jyutping: str, heading_content: str):
         jyutping_list = [jyutping for _ in williams_list]
@@ -2669,6 +2682,102 @@ class CharacterEntry:
                 jyutping := match.group('jyutping'),
             )
         ]
+
+    @staticmethod
+    def extract_indexing_text(content: str) -> str:
+        text = content
+
+        # Normalise and remove diacritics
+        text = unicodedata.normalize('NFD', text)
+        if non_spacing_marks := ''.join(c for c in set(text) if unicodedata.category(c) == 'Mn'):
+            text = re.sub(pattern=f'[{non_spacing_marks}]', repl='', string=text)
+
+        # Normalise common ligatures without Unicode decomposition
+        text = text.replace('Æ', 'Ae')
+        text = text.replace('æ', 'ae')
+        text = text.replace('Œ', 'Oe')
+        text = text.replace('œ', 'oe')
+
+        # Remove Williams typography
+        text = text.replace("(')", "'")
+        text = re.sub(pattern=r'\([1-9]\)', repl='', string=text)
+        text = re.sub(
+            pattern=r'\( (?P<vowel>[aeiou]) [/\\:] \)',
+            repl=r'\g<vowel>',
+            string=text,
+            flags=re.IGNORECASE | re.VERBOSE,
+        )
+
+        # Remove boilerplate
+        text = text.replace('[[Not present]]', '')
+        text = re.sub(pattern=r'[- ] \[\[\.\.\.\]\][;.\n]', repl='', string=text)
+        text = re.sub(
+            pattern=r'(?: \( | \[\[ | [0-9]+[.][ ] ) (?-x:Alternative form|Reading variation|Otherwise,) .*',
+            repl='',
+            string=text,
+            flags=re.VERBOSE,
+        )
+        text = re.sub(pattern=r'- \(_.*?_\)', repl='', string=text)
+
+        # Convert textual CMD syntax
+        text = CmdIdioms.strip_comments(text)
+        text = CmdIdioms.strip_compositions(text)
+        text = re.sub(
+            pattern='[$] (?P<jyutping> [a-z]+ )',
+            repl=r'\g<jyutping>',
+            string=text,
+            flags=re.VERBOSE,
+        )
+        text = re.sub(
+            pattern=r'[$] (?P<headword> \S ) (?P<jyutping> [a-z]+ ) (?P<tone_number> [1-6] )',
+            repl=r'\g<headword> \g<jyutping>\g<tone_number>',
+            string=text,
+            flags=re.VERBOSE,
+        )
+        text = re.sub(
+            pattern=r'[$] (?P<headword> \S ) (?P<tone_number> [1-6] )',
+            repl=r'\g<headword>',
+            string=text,
+            flags=re.VERBOSE,
+        )
+        text = re.sub(pattern=r'\[ (?P<text> [^\[\]]+ ) \] \( .+ \)', repl=r'\g<text>', string=text, flags=re.VERBOSE)
+        text = re.sub(pattern=r'\[ (?P<text> [^\[\]]+ ) \] \[ .+ \]', repl=r'\g<text>', string=text, flags=re.VERBOSE)
+        text = text.replace('[[', '(')
+        text = text.replace(']]', ')')
+        text = re.sub(pattern='(?<!~)~(?!~)', repl=' ', string=text)
+        text = re.sub(pattern='B[1-5][.][a-z0-9]+ ', repl='《廣韻》', string=text)
+        text = re.sub(pattern='C[.][0-9]+[.]cn/n?[0-9]+', repl='《集韻》', string=text)
+        text = text.replace('K. ', '《康熙字典》')
+
+        # Remove non-textual CMD syntax
+        text = re.sub(pattern='["=+-]{2,}$', repl='', string=text, flags=re.MULTILINE)
+        text = text.replace('  - ', '')
+        text = text.replace('  * ', '')
+        text = re.sub(pattern=r'[0-9]+\. ', repl='', string=text)
+        text = re.sub(pattern=r'[ ]* \\ [ ]* \n', repl='', string=text, flags=re.MULTILINE | re.VERBOSE)
+        text = text.replace('^', '')
+        text = text.replace('@', '')
+        text = text.replace('(:', '')
+        text = text.replace(':)', '')
+        text = text.replace('::', '')
+
+        # Remove square brackets
+        text = text.replace('[', '')
+        text = text.replace(']', '')
+
+        # Normalise whitespace
+        text = text.strip()
+        text = re.sub(pattern=r'\s+', repl=' ', string=text)
+
+        # Simplify edits that have become redundant
+        text = re.sub(
+            pattern='~~(?P<run>.*?)~~ [ ]? ``(?P=run)``',
+            repl=r'\g<run>',
+            string=text,
+            flags=re.VERBOSE,
+        )
+
+        return text
 
 class RadicalStrokes:
     radical: str
@@ -3145,11 +3254,18 @@ class Linter:
             write_file.write(new_content)
 
     def index_search(self):
-        jyutping_list_from_character = Utilities.collate_firsts_by_second(
-            (character_entry.jyutping, character_entry.character)
+        details_from_jyutping_from_character = Utilities.collate_first_by_second_by_third(
+            (
+                {
+                    'isCanonical': character_entry.is_canonical,
+                    'text': character_entry.indexing_text(),
+                },
+                character_entry.jyutping,
+                character_entry.character,
+            )
             for character_entry in self.character_entries
         )
-        character_index_json = Utilities.nice_json_string(jyutping_list_from_character, newline_after='],')
+        character_index_json = Utilities.nice_json_string(details_from_jyutping_from_character)
 
         compositions_from_character = Utilities.collate_firsts_by_second(
             (composition, character_entry.character)
@@ -3160,7 +3276,7 @@ class Linter:
             character: compositions[0]
             for character, compositions in sorted(compositions_from_character.items())
         }
-        composition_index_json = Utilities.nice_json_string(composition_from_character, newline_after=',')
+        composition_index_json = Utilities.nice_json_string(composition_from_character)
 
         with open('search/character-index.json', 'w', encoding='utf-8') as character_index_json_file:
             character_index_json_file.write(character_index_json)
@@ -3725,7 +3841,7 @@ class Linter:
             "|^",
             "  //",
             "    ; Baxter notation",
-            "    ; Term (link)",
+            "    ; Term",
             "    ; Renderings",
             "|:",
             [
@@ -3772,7 +3888,7 @@ class Linter:
             "|^",
             "  //",
             "    ; Jyutping",
-            "    ; Term (link)",
+            "    ; Term",
             "|:",
             [
                 [
