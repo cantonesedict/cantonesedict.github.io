@@ -196,6 +196,7 @@ async function performSearch()
     let character = result.character;
     let jyutping = result.jyutping;
     let isCanonical = result.isCanonical;
+    let text = result.text;
     let isCharacterMatch = result.type === TYPE_CHARACTER_MATCH;
     let isJyutpingMatch = result.type === TYPE_JYUTPING_MATCH;
 
@@ -204,8 +205,8 @@ async function performSearch()
     let tone = jyutping.replace(/[a-z]/g, '');
 
     let rowElement = tbodyElement.insertRow(-1);
-
     let linkCellElement = rowElement.insertCell(-1);
+    let textCellElement = rowElement.insertCell(-1);
 
     let linkElement = document.createElement('a');
     linkElement.href = `/entries/${syllable}#${character}-${tone}`;
@@ -223,6 +224,8 @@ async function performSearch()
     {
       linkCellElement.appendChild(document.createTextNode(')'));
     }
+
+    textCellElement.appendChild(document.createTextNode(text));
   }
 }
 
