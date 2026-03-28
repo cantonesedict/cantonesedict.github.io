@@ -154,88 +154,35 @@ async function performSearch()
 
   results = results.sort((r1, r2) => r1.isLessThan(r2)).slice(0, MAX_RESULT_COUNT);
 
-  /*
-  let searchCharacters;
-  try
-  {
-    let codePointMatch = searchString.match(/(?<=^U?[+]?)[0-9A-F]{4,5}(?=$)/);
-    searchCharacters = [String.fromCodePoint(parseInt(codePointMatch, 16))];
-  }
-  catch
-  {
-    searchCharacters = [...searchString].slice(0, {SEARCH_MAX_CHAR_COUNT});
-  }
-
   let tbodyElement = document.getElementsByTagName('tbody')[0];
   tbodyElement.replaceChildren();
 
-  let seenCharacters = new Set();
-  for (const character of searchCharacters)
+  for (const result of results)
   {
-    if (seenCharacters.has(character))
-    {
-      continue;
-    }
-
-    seenCharacters.add(character);
-
-    let jyutpingReadings = characterJson[character];
-    if (!Array.isArray(jyutpingReadings) || jyutpingReadings.length == 0)
-    {
-      continue;
-    }
+    let character = result.character;
+    let jyutping = result.jyutping;
 
     let composition = compositionJson[character];
-    let codePoint = `U+${character.codePointAt(0).toString(16).toUpperCase()}`;
+    let syllable = jyutping.replace(/[1-6]/g, '');
+    let tone = jyutping.replace(/[a-z]/g, '');
 
     let rowElement = tbodyElement.insertRow(-1);
 
-    let characterCellElement = rowElement.insertCell(-1);
-    appendCharacterWithComposition(characterCellElement, character, composition);
+    let linkCellElement = rowElement.insertCell(-1);
 
-    let codePointCellElement = rowElement.insertCell(-1);
-    codePointCellElement.appendChild(document.createTextNode(codePoint));
+    let linkElement = document.createElement('a');
+    linkElement.href = `/entries/${syllable}#${character}-${tone}`;
+    linkCellElement.appendChild(linkElement);
 
-    let entriesCellElement = rowElement.insertCell(-1);
+    appendCharacterWithComposition(linkElement, character, composition);
 
-    if (jyutpingReadings.length > 1)
-    {
-      let openingBraceTextNode = document.createTextNode('{');
-      entriesCellElement.appendChild(openingBraceTextNode);
-    }
+    let jyutpingTextNode = document.createTextNode(`${NBSP}${syllable}`);
+    linkElement.appendChild(jyutpingTextNode);
 
-    for (const [readingIndex, jyutping] of jyutpingReadings.entries())
-    {
-      let syllable = jyutping.replace(/[1-6]/g, '');
-      let tone = jyutping.replace(/[a-z]/g, '');
-
-      let linkElement = document.createElement('a');
-      linkElement.href = `/entries/${syllable}#${character}-${tone}`;
-      entriesCellElement.appendChild(linkElement);
-
-      appendCharacterWithComposition(linkElement, character, composition);
-
-      let jyutpingTextNode = document.createTextNode(`${nbsp}${syllable}`);
-      linkElement.appendChild(jyutpingTextNode);
-
-      let toneSuperscriptElement = document.createElement('sup');
-      toneSuperscriptElement.appendChild(document.createTextNode(tone));
-      linkElement.appendChild(toneSuperscriptElement);
-
-      if (readingIndex + 1 < jyutpingReadings.length)
-      {
-        let separatorTextNode = document.createTextNode(', ');
-        entriesCellElement.appendChild(separatorTextNode);
-      }
-    }
-
-    if (jyutpingReadings.length > 1)
-    {
-      let closingBraceTextNode = document.createTextNode('}');
-      entriesCellElement.appendChild(closingBraceTextNode);
-    }
+    let toneSuperscriptElement = document.createElement('sup');
+    toneSuperscriptElement.appendChild(document.createTextNode(tone));
+    linkElement.appendChild(toneSuperscriptElement);
   }
-  */
 }
 
 window.onload = performSearch;
