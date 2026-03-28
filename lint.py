@@ -2687,10 +2687,16 @@ class CharacterEntry:
     def extract_indexing_text(content: str) -> str:
         text = content
 
-        # Remove diacritics
+        # Normalise and remove diacritics
         text = unicodedata.normalize('NFD', text)
-        if non_spacing_marks := ''.join(character for character in text if unicodedata.category(character) == 'Mn'):
+        if non_spacing_marks := ''.join(c for c in set(text) if unicodedata.category(c) == 'Mn'):
             text = re.sub(pattern=f'[{non_spacing_marks}]', repl='', string=text)
+
+        # Normalise common ligatures without Unicode decomposition
+        text = text.replace('Æ', 'Ae')
+        text = text.replace('æ', 'ae')
+        text = text.replace('Œ', 'Oe')
+        text = text.replace('œ', 'oe')
 
         # Remove Williams typography
         text = text.replace("(')", "'")
