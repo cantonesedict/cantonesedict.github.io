@@ -145,8 +145,10 @@ async function performSearch()
 
   for (const [character, textFromJyutping] of Object.entries(characterJson))
   {
-    for (const [jyutping, text] of Object.entries(textFromJyutping))
+    for (const [jyutping, details] of Object.entries(textFromJyutping))
     {
+      let text = details.text;
+
       if (searchCharacter === character)
       {
         results.push(new Result(character, jyutping, text, TYPE_CHARACTER_MATCH, [], 1));
