@@ -116,6 +116,16 @@ function appendCharacterWithComposition(targetElement, character, composition, i
   targetElement.appendChild(textParentElement);
 }
 
+function appendJyutping(targetElement, syllable, tone)
+{
+  let jyutpingTextNode = document.createTextNode(`${NBSP}${syllable}`);
+  targetElement.appendChild(jyutpingTextNode);
+
+  let toneSuperscriptElement = document.createElement('sup');
+  toneSuperscriptElement.appendChild(document.createTextNode(tone));
+  targetElement.appendChild(toneSuperscriptElement);
+}
+
 async function performSearch()
 {
   let characterJson = await characterPromise;
@@ -193,12 +203,7 @@ async function performSearch()
     linkCellElement.appendChild(linkElement);
     if (!isCanonical) {linkCellElement.appendChild(document.createTextNode(')'));}
 
-    let jyutpingTextNode = document.createTextNode(`${NBSP}${syllable}`);
-    linkElement.appendChild(jyutpingTextNode);
-
-    let toneSuperscriptElement = document.createElement('sup');
-    toneSuperscriptElement.appendChild(document.createTextNode(tone));
-    linkElement.appendChild(toneSuperscriptElement);
+    appendJyutping(linkElement, syllable, tone);
   }
 }
 
