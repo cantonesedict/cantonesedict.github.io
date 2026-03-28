@@ -82,7 +82,7 @@ function normaliseString(str)
   );
 }
 
-function appendCharacterWithComposition(targetElement, character, composition)
+function appendCharacterWithComposition(targetElement, character, composition, isCharacterMatch)
 {
   let langSpanElement = document.createElement('span');
   langSpanElement.lang = 'zh-Hant';
@@ -102,7 +102,17 @@ function appendCharacterWithComposition(targetElement, character, composition)
     textParentElement = compositionElement;
   }
 
-  textParentElement.appendChild(document.createTextNode(character));
+  if (isCharacterMatch)
+  {
+    let markedCharacterElement = document.createElement('mark');
+    markedCharacterElement.appendChild(document.createTextNode(character));
+    textParentElement.appendChild(markedCharacterElement);
+  }
+  else
+  {
+    textParentElement.appendChild(document.createTextNode(character));
+  }
+
   targetElement.appendChild(textParentElement);
 }
 
@@ -165,6 +175,7 @@ async function performSearch()
     let character = result.character;
     let jyutping = result.jyutping;
     let isCanonical = result.isCanonical;
+    let isCharacterMatch = result.type === TYPE_CHARACTER_MATCH;
 
     let composition = compositionJson[character];
     let syllable = jyutping.replace(/[1-6]/g, '');
@@ -176,7 +187,7 @@ async function performSearch()
 
     let linkElement = document.createElement('a');
     linkElement.href = `/entries/${syllable}#${character}-${tone}`;
-    appendCharacterWithComposition(linkElement, character, composition);
+    appendCharacterWithComposition(linkElement, character, composition, isCharacterMatch);
 
     if (!isCanonical) {linkCellElement.appendChild(document.createTextNode('('));}
     linkCellElement.appendChild(linkElement);
