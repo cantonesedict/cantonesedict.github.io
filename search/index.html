@@ -68,7 +68,6 @@ let TYPE_JYUTPING_MATCH = 2;
 let TYPE_TEXT_MATCH = 3;
 
 let MAX_RESULT_COUNT = 20;
-let NBSP = String.fromCodePoint(0x00A0);
 
 class Result
 {
@@ -143,7 +142,7 @@ function appendCharacterWithComposition(targetElement, character, composition, i
 
 function appendJyutping(targetElement, syllable, tone, isJyutpingMatch)
 {
-  targetElement.appendChild(document.createTextNode(NBSP));
+  targetElement.appendChild(document.createTextNode(' '));  // U+00A0 NO-BREAK SPACE
 
   let jyutpingParentElement;
   if (isJyutpingMatch)
