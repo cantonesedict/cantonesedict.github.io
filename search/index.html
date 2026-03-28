@@ -162,6 +162,11 @@ function appendJyutping(targetElement, syllable, tone, isJyutpingMatch)
   jyutpingParentElement.appendChild(toneSuperscriptElement);
 }
 
+function appendText(targetElement, text)
+{
+  targetElement.appendChild(document.createTextNode(text));
+}
+
 async function performSearch()
 {
   let characterJson = await characterPromise;
@@ -250,7 +255,7 @@ async function performSearch()
       linkCellElement.appendChild(document.createTextNode(')'));
     }
 
-    textCellElement.appendChild(document.createTextNode(text));
+    appendText(textCellElement, text);
   }
 }
 
