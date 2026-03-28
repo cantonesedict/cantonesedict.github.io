@@ -252,6 +252,12 @@ td ul {
   font-family: var(--modern-font);
 }
 
+.ellipsis {
+  color: #595959;
+  font-family: var(--modern-font);
+  padding: 0 1em;
+}
+
 .font-test {
   font-size: 2em;
   text-align: center;

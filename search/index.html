@@ -69,6 +69,9 @@ let TYPE_TEXT_MATCH = 3;
 
 let MAX_RESULT_COUNT = 20;
 
+let ELLIPSIS_MARGIN_LENGTH = 32;
+let ELLIPSIS_THRESHOLD_LENGTH = 16;
+
 class Result
 {
   constructor(character, jyutping, isCanonical, text, type, matches, score)
@@ -180,7 +183,7 @@ function appendText(targetElement, text, matches)
       let preText = text.slice(cursorIndex, matchStart);
       let matchText = text.slice(matchStart, matchEnd);
 
-      codeElement.appendChild(document.createTextNode(preText));
+      appendContext(codeElement, preText);
 
       let markedMatchElement = document.createElement('mark');
       markedMatchElement.appendChild(document.createTextNode(matchText));
@@ -191,9 +194,29 @@ function appendText(targetElement, text, matches)
   }
 
   let remainingText = text.slice(cursorIndex);
-  codeElement.appendChild(document.createTextNode(remainingText));
+  appendContext(codeElement, remainingText);
 
   targetElement.appendChild(codeElement);
+}
+
+function appendContext(targetElement, str)
+{
+  let leftIndex = ELLIPSIS_MARGIN_LENGTH;
+  let rightIndex = str.length - ELLIPSIS_MARGIN_LENGTH;
+
+  if (rightIndex - leftIndex < ELLIPSIS_THRESHOLD_LENGTH)
+  {
+    return targetElement.appendChild(document.createTextNode(str));
+  }
+
+  targetElement.appendChild(document.createTextNode(str.slice(0, leftIndex)));
+
+  let ellipsisElement = document.createElement('span');
+  ellipsisElement.className = 'ellipsis'
+  ellipsisElement.appendChild(document.createTextNode(' … '));
+  targetElement.appendChild(ellipsisElement);
+
+  targetElement.appendChild(document.createTextNode(str.slice(rightIndex)));
 }
 
 async function performSearch()
