@@ -4,10 +4,10 @@
 OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
-* %title --> Search by character or code point
+* %title --> Search character entries
 * %date-modified --> 2026-03-28
 * %copyright-prior-years --> 2024--
-* %meta-description --> search by Chinese character or by Unicode code point
+* %meta-description --> search character entries
 
 OrdinaryDictionaryReplacement: #.no-black-serif-note
 - queue_position: AFTER #.boilerplate.footer

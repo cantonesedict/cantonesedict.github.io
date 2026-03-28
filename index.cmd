@@ -6,7 +6,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Home
-* %date-modified --> 2026-03-01
+* %date-modified --> 2026-03-28
 * %copyright-prior-years --> 2023--
 * %modern-colour --> crimson
 * %meta-description --> home page
@@ -65,7 +65,7 @@ by [Samuel Wells Williams].
   ==
   - [__Index of entry pages by Jyutping__](/entries/)
   - [__Index of Cantonese terms by Jyutping__](/terms/)
-  - [Search by character or code point](/search/)
+  - [Search character entries](/search/)
   - [Index of characters by radical](/radicals/)
   - [Index of literary renderings by Baxter notation](/renderings/)
   ==
