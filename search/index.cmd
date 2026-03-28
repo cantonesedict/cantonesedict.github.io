@@ -294,7 +294,7 @@ window.onload = performSearch;
 ''{.modern}
 |^
   //
-    ; Character entry (link)
+    ; Character entry
     ; Indexed entry text
 |:
 ''

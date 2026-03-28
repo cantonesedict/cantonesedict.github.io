@@ -3837,7 +3837,7 @@ class Linter:
             "|^",
             "  //",
             "    ; Baxter notation",
-            "    ; Term (link)",
+            "    ; Term",
             "    ; Renderings",
             "|:",
             [
@@ -3884,7 +3884,7 @@ class Linter:
             "|^",
             "  //",
             "    ; Jyutping",
-            "    ; Term (link)",
+            "    ; Term",
             "|:",
             [
                 [
