@@ -10,6 +10,7 @@ import json
 import os
 import re
 import sys
+import unicodedata
 from collections import defaultdict
 from textwrap import indent
 from typing import Iterable, Optional, TypeVar
@@ -2685,6 +2686,11 @@ class CharacterEntry:
     @staticmethod
     def extract_indexing_text(content: str) -> str:
         text = content
+
+        # Remove diacritics
+        text = unicodedata.normalize('NFD', text)
+        if non_spacing_marks := ''.join(character for character in text if unicodedata.category(character) == 'Mn'):
+            text = re.sub(pattern=f'[{non_spacing_marks}]', repl='', string=text)
 
         # Remove Williams typography
         text = text.replace("(')", "'")
