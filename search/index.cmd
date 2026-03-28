@@ -139,7 +139,9 @@ function appendJyutping(targetElement, syllable, tone, isJyutpingMatch)
 
 function appendText(targetElement, text)
 {
-  targetElement.appendChild(document.createTextNode(text));
+  let codeElement = document.createElement('code');
+  codeElement.appendChild(document.createTextNode(text));
+  targetElement.appendChild(codeElement);
 }
 
 async function performSearch()
