@@ -96,14 +96,7 @@ class Result
 
 function normaliseString(str)
 {
-  return (
-    str
-    .toLowerCase()
-    .trim()
-    .replace(/[!"$&'()*,./:;<=>?@\[\\\]^_`{|}~]/g, '')
-    .replace(/(?<!-)-(?![-0-9])/g, ' ')
-    .replace(/\s+/g, ' ')
-  );
+  return str.toLowerCase().trim();
 }
 
 function appendCharacterWithComposition(targetElement, character, composition, isCharacterMatch)
@@ -142,7 +135,7 @@ function appendCharacterWithComposition(targetElement, character, composition, i
 
 function appendJyutping(targetElement, syllable, tone, isJyutpingMatch)
 {
-  targetElement.appendChild(document.createTextNode(' '));  // U+00A0 NO-BREAK SPACE
+  targetElement.appendChild(document.createTextNode(' ')); // U+00A0 NO-BREAK SPACE
 
   let jyutpingParentElement;
   if (isJyutpingMatch)
@@ -162,10 +155,44 @@ function appendJyutping(targetElement, syllable, tone, isJyutpingMatch)
   jyutpingParentElement.appendChild(toneSuperscriptElement);
 }
 
-function appendText(targetElement, text)
+function appendText(targetElement, text, matches)
 {
   let codeElement = document.createElement('code');
-  codeElement.appendChild(document.createTextNode(text));
+
+  let cursorIndex = 0;
+  let matchResult;
+
+  if (matches.length)
+  {
+    let matchRegexString =
+            matches
+            .map(RegExp.escape)
+            .sort((s1, s2) => -(s1.length - s2.length))
+            .join('|');
+    let matchRegex = new RegExp(matchRegexString, 'gu');
+    let normalisedText = normaliseString(text);
+
+    while ((matchResult = matchRegex.exec(normalisedText)) !== null)
+    {
+      let matchStart = matchResult.index;
+      let matchEnd = matchStart + matchResult[0].length;
+
+      let preText = text.slice(cursorIndex, matchStart);
+      let matchText = text.slice(matchStart, matchEnd);
+
+      codeElement.appendChild(document.createTextNode(preText));
+
+      let markedMatchElement = document.createElement('mark');
+      markedMatchElement.appendChild(document.createTextNode(matchText));
+      codeElement.appendChild(markedMatchElement);
+
+      cursorIndex = matchRegex.lastIndex; // === matchEnd
+    }
+  }
+
+  let remainingText = text.slice(cursorIndex);
+  codeElement.appendChild(document.createTextNode(remainingText));
+
   targetElement.appendChild(codeElement);
 }
 
@@ -231,6 +258,7 @@ async function performSearch()
     let text = result.text;
     let isCharacterMatch = result.type === TYPE_CHARACTER_MATCH;
     let isJyutpingMatch = result.type === TYPE_JYUTPING_MATCH;
+    let matches = result.matches;
 
     let composition = compositionJson[character];
     let syllable = jyutping.replace(/[1-6]/g, '');
@@ -257,7 +285,7 @@ async function performSearch()
       linkCellElement.appendChild(document.createTextNode(')'));
     }
 
-    appendText(textCellElement, text);
+    appendText(textCellElement, text, matches);
   }
 }
 
