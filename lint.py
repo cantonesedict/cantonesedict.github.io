@@ -2761,6 +2761,10 @@ class CharacterEntry:
         text = text.replace(':)', '')
         text = text.replace('::', '')
 
+        # Remove square brackets
+        text = text.replace('[', '')
+        text = text.replace(']', '')
+
         # Normalise whitespace
         text = text.strip()
         text = re.sub(pattern=r'\s+', repl=' ', string=text)
