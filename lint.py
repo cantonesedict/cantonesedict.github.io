@@ -2199,7 +2199,7 @@ class CharacterEntry:
         return '\n'.join([self.w_content, self.p_content])
 
     def indexing_text(self) -> str:
-        return '\n'.join(
+        return ' '.join(
             text
             for key, content in self.content_from_key.items()
             if key not in 'RS'
