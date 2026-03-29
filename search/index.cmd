@@ -265,6 +265,7 @@ async function performSearch()
     let rowElement = tbodyElement.insertRow(-1);
     let linkCellElement = rowElement.insertCell(-1);
     let textCellElement = rowElement.insertCell(-1);
+    let scoreCellElement = rowElement.insertCell(-1);
 
     let linkElement = document.createElement('a');
     linkElement.href = `/entries/${syllable}#${character}-${tone}`;
@@ -284,6 +285,8 @@ async function performSearch()
     }
 
     appendText(textCellElement, text, matches);
+
+    scoreCellElement.appendChild(document.createTextNode(result.score.toFixed(4)));
   }
 }
 
@@ -296,6 +299,7 @@ window.onload = performSearch;
   //
     ; Character entry
     ; Indexed entry text
+    ; Search score
 |:
 ''
 ||||
