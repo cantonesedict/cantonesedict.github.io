@@ -225,16 +225,29 @@ async function performSearch()
       }
       else
       {
-        let elementIsMatch = str => normaliseString(text).includes(str);
-        if (searchChineseRuns.every(elementIsMatch) && searchEnglishWords.every(elementIsMatch))
+        let normalisedString = normaliseString(text)
+        let elementIsMatch = str => normalisedString.includes(str);
+
+        if (
+          searchChineseRuns.every(elementIsMatch)
+          && searchEnglishWords.every(elementIsMatch)
+        )
         {
           let matches = [...searchChineseRuns, ...searchEnglishWords];
           if (matches.length)
           {
-            let scores = [
-              ...[...searchChineseRuns].map(run => Math.tanh(run.length / 2) ** 2),
-              ...[...searchEnglishWords].map(word => Math.tanh(word.length / 4) ** 4),
-            ];
+            let chineseScores =
+                    searchChineseRuns.map(run => Math.tanh(run.length / 2) ** 2);
+
+            let englishScores =
+                    searchEnglishWords.map(
+                      word =>
+                        new RegExp(`(?=\\b|\\s)${RegExp.escape(word)}(?=\\b|\\s)`).test(normalisedString)
+                          ? Math.tanh(word.length / 3) ** 2
+                          : Math.tanh(word.length / 7) ** 5
+                    );
+
+            let scores = [...chineseScores, ...englishScores];
             let score = 1 - scores.reduce((q, p) => q * (1 - p), 1);
             results.push(new Result(character, jyutping, isCanonical, text, TYPE_TEXT_MATCH, matches, score));
           }
