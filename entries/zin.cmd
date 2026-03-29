@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2026-03-26
+* %date-modified --> 2026-03-29
 * %copyright-prior-years --> 2023--
 
 ReplacementSequence: #.ensure-baxter
@@ -1487,6 +1487,14 @@ C
   - Williams' 戰陳: Corrected _(4)ch(')an_ (can4) to _chan(6)_ (zan6).
   - Williams' 戰敗: Corrected _p(a/)i(3)_ (baai3) to _p(a/)i(6)_ (baai6).
   ==
+L
+  ====
+  * 【戰】 (tsyenH)
+    ==
+    - (_verb-like_) [to] battle
+    - (_verb-like_) [to] tremble
+    ==
+  ====
 $$
 
 ### 洊3 | _Ts(i/)n(3)_ [[zin3]]

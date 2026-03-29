@@ -6509,6 +6509,14 @@ window.onload = applyFilter;
       - (_noun-like_) porridge
       ==
   //
+    , `tsyenH`
+    , [戰](/entries/zin#rendering-戰)
+    ,
+      ==
+      - (_verb-like_) [to] battle
+      - (_verb-like_) [to] tremble
+      ==
+  //
     , `tsyet`
     , [晢~(entering)](/entries/zit#rendering-晢-entering)
     ,
