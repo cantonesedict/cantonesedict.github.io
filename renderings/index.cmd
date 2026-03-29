@@ -1650,6 +1650,14 @@ window.onload = applyFilter;
       - (_adjective-like_) former
       ==
   //
+    , `dzenH`
+    , [荐](/entries/zin#rendering-荐)
+    ,
+      ==
+      - (_noun-like_) grass, (_met._) nomadically
+      - (_adverb-like_) repeatedly
+      ==
+  //
     , `dzi`
     , [慈](/entries/ci#rendering-慈)
     ,
@@ -1907,11 +1915,33 @@ window.onload = applyFilter;
       - (_verb-like_) [to] trample, [to] tread, (_met._) [to] realise, [to] fulfil
       ==
   //
+    , `dzjenX`
+    , [餞](/entries/zin#rendering-餞)
+    ,
+      ==
+      - (_verb-like_) [to] departure-feast, [to] send off
+      ==
+  //
     , `dzjenH`
     , [諓](/entries/zin#rendering-諓)
     ,
       ==
       - (_adjective-like_) artful
+      ==
+  //
+    , `dzjenH`
+    , [賤](/entries/zin#rendering-賤)
+    ,
+      ==
+      - (_adjective-like_) cheap, lowly
+      - (_verb-like_) [to] hold cheap
+      ==
+  //
+    , `dzjenH`
+    , [餞](/entries/zin#rendering-餞)
+    ,
+      ==
+      - (_verb-like_) [to] departure-feast, [to] send off
       ==
   //
     , `dzjeng`
@@ -4216,6 +4246,15 @@ window.onload = applyFilter;
       - (_noun-like_) lesser-note
       ==
   //
+    , `tsenH`
+    , [薦](/entries/zin#rendering-薦)
+    ,
+      ==
+      - (_noun-like_) grass-fodder
+      - (_noun-like_) padding
+      - (_verb-like_) [to] present, [to] recommend
+      ==
+  //
     , `tsha`
     , [傞](/entries/co#rendering-傞)
     ,
@@ -5504,6 +5543,14 @@ window.onload = applyFilter;
       - (_verb-like_) [to] spatter
       ==
   //
+    , `tsjenH`
+    , [箭](/entries/zin#rendering-箭)
+    ,
+      ==
+      - (_noun-like_) arrow
+      - (_noun-like_) small-bamboo
+      ==
+  //
     , `tsjeng`
     , [菁](/entries/zing#rendering-菁)
     ,
@@ -6514,6 +6561,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] battle
+      - (_verb-like_) [to] tremble
+      ==
+  //
+    , `tsyenH`
+    , [顫~(departing)](/entries/zin#rendering-顫-departing)
+    ,
+      ==
       - (_verb-like_) [to] tremble
       ==
   //

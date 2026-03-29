@@ -1707,6 +1707,14 @@ C
   - Williams' 火箭: Now "rocket".
   - Williams' 放冷箭: Changed _(5)lang_ (lang5) to common reading _(5)l(a/)ng_ (laang5).
   ==
+L
+  ====
+  * 【箭】 (tsjenH)
+    ==
+    - (_noun-like_) arrow
+    - (_noun-like_) small-bamboo
+    ==
+  ====
 E
   ====
   - 【箭嘴】 (zin3 zeoi2)
@@ -1757,8 +1765,16 @@ W
   ====
 P
   ++
-  1. Nomadic (Kangxi: ::荐草也[言][...]逐水草而居徙無常處::).
+  1. Nomadically (Kangxi: ::荐草也[言][...]逐水草而居徙無常處::).
   ++
+L
+  ====
+  * 【荐】 (dzenH)
+    ==
+    - (_noun-like_) grass, (_met._) nomadically
+    - (_adverb-like_) repeatedly
+    ==
+  ====
 $$
 
 ### 薦3 | _Ts(i/)n(3)_ [[zin3]]
@@ -1854,6 +1870,15 @@ P
   ++
   1. A straw mat (Kangxi 荐: 荐薦席也).
   ++
+L
+  ====
+  * 【薦】 (tsenH)
+    ==
+    - (_noun-like_) grass-fodder
+    - (_noun-like_) padding
+    - (_verb-like_) [to] present, [to] recommend
+    ==
+  ====
 E
   ====
   - 【薦-noun】 (zin3, zin3-2)
@@ -1875,7 +1900,7 @@ E
     ++
   ====
   --
-  Olden attestation for 薦 _ts(i/)n(3)_ (zin3) meaning "mat/cushion":
+  Olden attestation for 薦 meaning "mat/cushion":
   --
   """"
   ::《說文》葬：藏也从死在茻中一其中所以(:薦:)之[...]::
@@ -1937,6 +1962,13 @@ C
     頭不正也 should instead be 頭不定也 "the head not steady".
     In other words, shaking or trembling.
   ==
+L
+  ====
+  * 【顫-departing】 (tsyenH)
+    ==
+    - (_verb-like_) [to] tremble
+    ==
+  ====
 S
   ==
   - $顫zin1
@@ -1985,6 +2017,13 @@ P
   ++
   1. To send off by accompanying (Kangxi: 凡送皆曰餞).
   ++
+L
+  ====
+  * 【餞】 (dzjenX, dzjenH)
+    ==
+    - (_verb-like_) [to] departure-feast, [to] send off
+    ==
+  ====
 $$
 
 
@@ -2054,6 +2093,14 @@ C
   ==
   - Williams' 賤人: Now (and in classical illeism) said of both sexes.
   ==
+L
+  ====
+  * 【賤】 (dzjenH)
+    ==
+    - (_adjective-like_) cheap, lowly
+    - (_verb-like_) [to] hold cheap
+    ==
+  ====
 E
   ====
   - 【賤格】 (zin6 gaak3)
