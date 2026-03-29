@@ -81,9 +81,9 @@ function applyFilter()
 
   for (const rowElement of document.querySelectorAll('tbody tr'))
   {
-    let cells = rowElement.getElementsByTagName('td');
-    let jyutping = normaliseString(cells[0].textContent);
-    let term = normaliseString(cells[1].textContent);
+    let cellElements = rowElement.getElementsByTagName('td');
+    let jyutping = normaliseString(cellElements[0].textContent);
+    let term = normaliseString(cellElements[1].textContent);
 
     let isJyutpingMatch = matchJyutping(filterString, jyutping);
     let isTermMatch = matchTerm(filterString, term);

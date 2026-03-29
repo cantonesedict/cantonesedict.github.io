@@ -88,10 +88,10 @@ function applyFilter()
 
   for (const rowElement of document.querySelectorAll('tbody tr'))
   {
-    let cells = rowElement.getElementsByTagName('td');
-    let baxter = normaliseString(cells[0].textContent);
-    let term = normaliseString(cells[1].textContent);
-    let rendering = normaliseString(cells[2].textContent);
+    let cellElements = rowElement.getElementsByTagName('td');
+    let baxter = normaliseString(cellElements[0].textContent);
+    let term = normaliseString(cellElements[1].textContent);
+    let rendering = normaliseString(cellElements[2].textContent);
 
     let isBaxterMatch = matchBaxter(keysFilterString, baxter);
     let isTermMatch = matchString(keysFilterString, term);
