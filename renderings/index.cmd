@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-03-29
+* %date-modified --> 2026-03-30
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -3872,6 +3872,18 @@ window.onload = applyFilter;
       - (_verb-like_) [to] suppress, [to] subdue
       ==
   //
+    , `tring`
+    , [徵~(level)](/entries/zing#rendering-徵-level)
+    ,
+      ==
+      - (_verb-like_) [to] call, [to] summon
+      - (_verb-like_) [to] evidence
+      - (_verb-like_) [to] collect
+      - (_verb-like_) [to] seek
+      - (_noun-like_) evidence, sign
+      - (_noun-like_) completion-[gift]
+      ==
+  //
     , `trip`
     , [縶](/entries/zap#rendering-縶)
     ,
@@ -3986,6 +3998,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] roll (over), (_met._) [to] toss
+      ==
+  //
+    , `trjeng`
+    , [楨](/entries/zing#rendering-楨)
+    ,
+      ==
+      - (_noun-like_) support-post
       ==
   //
     , `trjoX`
@@ -5552,6 +5571,14 @@ window.onload = applyFilter;
       ==
   //
     , `tsjeng`
+    , [旌](/entries/zing#rendering-旌)
+    ,
+      ==
+      - (_noun-like_) pennon
+      - (_verb-like_) [to] signify
+      ==
+  //
+    , `tsjeng`
     , [菁](/entries/zing#rendering-菁)
     ,
       ==
@@ -6569,6 +6596,16 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] tremble
+      ==
+  //
+    , `tsyeng`
+    , [征](/entries/zing#rendering-征)
+    ,
+      ==
+      - (_verb-like_) [to] (make) expedition
+      - (_verb-like_) [to] correct [punitively]
+      - (_verb-like_) [to] take
+      - (_verb-like_) [to] levy
       ==
   //
     , `tsyet`

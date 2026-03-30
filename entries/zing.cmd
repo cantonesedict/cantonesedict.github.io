@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-03-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -98,6 +98,9 @@ W
       _(1)ching t(')(a/)m(3)_ [[zing1 taam3 偵探]]
         to spy.
     ==
+    --
+    [[Otherwise, an alternative form of 貞. **See $貞zing1 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -121,7 +124,7 @@ W
   ====
   - [[Page~18* (1)征]]
     ==
-    - ~~To go~~ ``An expedition, a long journey`` [[Kangxi: 行也]];
+    - To go [[Kangxi: 行也]]``, to expedition``;
     - to take [[Kangxi: 征取也]];
     - to collect taxes;
     - to go out to chastise, to reduce refractory states [[Kangxi: 征伐也, 征者上伐下也]],
@@ -157,6 +160,16 @@ C
   ==
   - Williams' 征伐: Changed _f(a/)t(9)_ (faat6) to modern _fat(9)_ (fat6).
   ==
+L
+  ====
+  * 【征】 (tsyeng)
+    ==
+    - (_verb-like_) [to] (make) expedition
+    - (_verb-like_) [to] correct [punitively]
+    - (_verb-like_) [to] take
+    - (_verb-like_) [to] levy
+    ==
+  ====
 $$
 
 ### 徵1 | _(1)Ching_ [[zing1]]
@@ -221,7 +234,20 @@ P
      - 病徵 (beng6 zing1): "Sign of disease."
      - 徵兆 (zing1 siu6): "Omen".
      ==
+  1. The completion-gift (of the marriage rites) (Kangxi: 成也).
   ++
+L
+  ====
+  * 【徵-level】 (tring)
+    ==
+    - (_verb-like_) [to] call, [to] summon
+    - (_verb-like_) [to] evidence
+    - (_verb-like_) [to] collect
+    - (_verb-like_) [to] seek
+    - (_noun-like_) evidence, sign
+    - (_noun-like_) completion-[gift]
+    ==
+  ====
 S
   ==
   - $徵zi2
@@ -267,9 +293,17 @@ W
 C
   ==
   - Williams' "to discriminate":
-    This is a misreading of Kangxi ::《書畢命》旌別淑慝《傳》言當識別[...]::.
-    Here, 旌 means "[make] known". It is 別 which means "discriminate".
+    This is a misreading of Kangxi ::《書畢命》旌別淑慝《傳》言當識別頑民之善惡《疏》旌旗所以表識貴賤故傳以旌爲識::.
+    Here, 旌 means "signify". It is 別 which means "discriminate".
   ==
+L
+  ====
+  * 【旌】 (tsjeng)
+    ==
+    - (_noun-like_) pennon
+    - (_verb-like_) [to] signify
+    ==
+  ====
 S
   ==
   - $旌sing1 (TODO)
@@ -344,21 +378,31 @@ W
         the seeds of this tree;
     - _(1)ching kon(3)_
         [[zing1 gon3 楨榦]]
-        planks with which adobie walls are made [[Kangxi: 楨榦築牆所立兩木也]];
-      vulgo,
+        ``posts and`` planks with which adobie walls are made [[Kangxi: 楨榦築牆所立兩木也]];
+      ~~vulgo,
         _k(a/)p(8) (4)ts(')(e/)ung (2)p(a/)n_
-        [[gaap3 coeng4 baan2 夾牆板]].
+        [[gaap3 coeng4 baan2 夾牆板]]~~.
     ==
   ====
 C
   ==
   - Fan Wan entry: Corrected ⿰龺余 to 榦.
+  - Williams' 楨榦: Here, 楨 refers to *posts*, not planks.
+    It is 榦 that refers to planks (vulgo 夾牆板).
+    Kangxi has 《孔傳》題曰楨旁曰榦楨當牆兩端者也榦在牆兩邊者也.
   ==
 P
   ++
   1. Hardwood (Kangxi: 剛木也).
   1. A support, a pillar.
   ++
+L
+  ====
+  * 【楨】 (trjeng)
+    ==
+    - (_noun-like_) support-post
+    ==
+  ====
 $$
 
 ### 正1 | _(1)Ching_ [[zing1]]
@@ -818,6 +862,10 @@ R
   ⾙ + 2
 U
   U+8C9E
+A
+  ==
+  - $偵1
+  ==
 F
   ==
   - (F1.68 貞) 正也潔也淸白也又易元亨利貞
