@@ -2717,7 +2717,6 @@ class CharacterEntry:
             string=text,
             flags=re.VERBOSE,
         )
-        text = re.sub(pattern=r'- \(_.*?_\)', repl='', string=text)
 
         # Convert textual CMD syntax
         text = CmdIdioms.strip_comments(text)
