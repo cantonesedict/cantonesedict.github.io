@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Search character entries
-* %date-modified --> 2026-03-29
+* %date-modified --> 2026-03-30
 * %copyright-prior-years --> 2024--
 * %meta-description --> search character entries
 
@@ -42,7 +42,7 @@ let TYPE_CHARACTER_MATCH = 1;
 let TYPE_JYUTPING_MATCH = 2;
 let TYPE_TEXT_MATCH = 3;
 
-let MAX_RESULT_COUNT = 20;
+let MAX_RESULT_COUNT = 50;
 
 let ELLIPSIS_MARGIN_LENGTH = 48;
 let ELLIPSIS_THRESHOLD_LENGTH = 16;
