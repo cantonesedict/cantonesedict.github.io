@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-03-30
+* %date-modified --> 2026-03-31
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -6606,6 +6606,24 @@ window.onload = applyFilter;
       - (_verb-like_) [to] correct [punitively]
       - (_verb-like_) [to] take
       - (_verb-like_) [to] levy
+      ==
+  //
+    , `tsyeng`
+    , [正~(level)](/entries/zing#rendering-正-level)
+    ,
+      ==
+      - (_adjective-like_) central
+      - (_noun-like_) centre
+      ==
+  //
+    , `tsyengH`
+    , [正~(departing)](/entries/zing#rendering-正-departing)
+    ,
+      ==
+      - (_adjective-like_) right, proper
+      - (_verb-like_) [to] right, (_met._) [to] determine
+      - (_adverb-like_) right, exactly
+      - (_adjective-like_) principal
       ==
   //
     , `tsyet`

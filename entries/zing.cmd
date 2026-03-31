@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2026-03-30
+* %date-modified --> 2026-03-31
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -116,6 +116,10 @@ R
   ⼻ + 5
 U
   U+5F81
+A
+  ==
+  - $正1
+  ==
 F
   ==
   - (F1.68 征) 往也取也伐也又正也
@@ -421,13 +425,29 @@ W
     - The first;
     - _(1)ching (u:)t(9)_
         [[zing1 jyut6 正月]]
-        the first month of the year, January [[Kangxi: 歲之首月也]].
+        the first month of the year [[Kangxi: 歲之首月也]], January.
     ==
+    --
+    [[Otherwise, an alternative form of 征. **See $征zing1 for the canonical entry.**]]
+    --
   ====
 C
   ==
   - Williams' 正月: Usage to denote Western "January" is dated.
   ==
+P
+  ++
+  1. Light-facing portions of a chamber (Kangxi: 室之向明處曰正).
+  1. The centre square of an archery target (Kangxi: 射侯中曰正 etc.).
+  ++
+L
+  ====
+  * 【正-level】 (tsyeng)
+    ==
+    - (_adjective-like_) central
+    - (_noun-like_) centre
+    ==
+  ====
 S
   ==
   - ($正zeng3)
@@ -1138,6 +1158,10 @@ R
   ⽁ + 5
 U
   U+653F
+A
+  ==
+  - $正3
+  ==
 F
   ==
   - (F1.72 政) 國政所以止人之不正也又典法曰政
@@ -1277,6 +1301,9 @@ W
         [[zing3 sam1 正心]],
         to reform.
     ==
+    --
+    [[Otherwise, an alternative form of 政. **See $政zing3 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -1291,6 +1318,16 @@ C
   - Williams' 坐正: Corrected _tso(6)_ (zo6 去聲^) to _(5)ts(')o_ (co5 上聲^).
   - Williams' 正直: Corrected _chik(7)_ (zik1) to _chik(9)_ (zik6).
   ==
+L
+  ====
+  * 【正-departing】 (tsyengH)
+    ==
+    - (_adjective-like_) right, proper
+    - (_verb-like_) [to] right, (_met._) [to] determine
+    - (_adverb-like_) right, exactly
+    - (_adjective-like_) principal
+    ==
+  ====
 E
   ====
   - 【快靚正】 (faai3 leng3 zeng3)
