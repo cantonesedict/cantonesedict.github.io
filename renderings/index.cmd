@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-03-31
+* %date-modified --> 2026-04-01
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -4007,6 +4007,22 @@ window.onload = applyFilter;
       - (_noun-like_) support-post
       ==
   //
+    , `trjeng`
+    , [禎](/entries/zing#rendering-禎)
+    ,
+      ==
+      - (_noun-like_) good-omen
+      ==
+  //
+    , `trjeng`
+    , [貞](/entries/zing#rendering-貞)
+    ,
+      ==
+      - (_verb-like_) [to] divine
+      - (_noun-like_) inner-trigram
+      - (_adjective-like_) correct, proper, (_met._) determined
+      ==
+  //
     , `trjoX`
     , [貯](/entries/cyu#rendering-貯)
     ,
@@ -5579,6 +5595,15 @@ window.onload = applyFilter;
       ==
   //
     , `tsjeng`
+    , [精](/entries/zing#rendering-精)
+    ,
+      ==
+      - (_noun-like_) fine-rice
+      - (_adjective-like_) fine
+      - (_noun-like_) essence
+      ==
+  //
+    , `tsjeng`
     , [菁](/entries/zing#rendering-菁)
     ,
       ==
@@ -6616,6 +6641,13 @@ window.onload = applyFilter;
       - (_noun-like_) centre
       ==
   //
+    , `tsyeng`
+    , [鉦](/entries/zing#rendering-鉦)
+    ,
+      ==
+      - (_noun-like_) halting-bell
+      ==
+  //
     , `tsyengH`
     , [正~(departing)](/entries/zing#rendering-正-departing)
     ,
@@ -7260,6 +7292,27 @@ window.onload = applyFilter;
       ==
       - (_noun-like_) thunder-crack
       - (_verb-like_) [to] shake, [to] quake
+      ==
+  //
+    , `tsying`
+    , [烝](/entries/zing#rendering-烝)
+    ,
+      ==
+      - (_verb-like_) [to] convect upward, [to] steam
+      - (_verb-like_) [to] adulter upward
+      - (_verb-like_) [to] put forth, [to] advance
+      - (_adjective-like_) multitudinous
+      - (_adjective-like_) stately
+      - (_noun-like_) winter-sacrifice
+      - (_speech-assist_)
+      ==
+  //
+    , `tsying`
+    , [蒸](/entries/zing#rendering-蒸)
+    ,
+      ==
+      - (_verb-like_) [to] steam
+      - (_noun-like_) twig
       ==
   //
     , `tsyingX`

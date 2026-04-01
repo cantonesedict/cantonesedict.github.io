@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2026-03-31
+* %date-modified --> 2026-04-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -479,7 +479,7 @@ W
     - a multitude, all [[Kangxi: 衆也]];
     - ~~to enter,~~ to advance [[Kangxi: 進也]];
     - clouds of dust [[Kangxi: 塵也, 人衆所以生塵埃]];
-    - ~~liberal,~~ princely [[Kangxi: 君也]];
+    - ~~liberal~~ ``stately``, princely [[Kangxi: 君也]];
     - a winter sacrifice [[Kangxi: ::冬祭[曰]烝::, 進品物也]];
     - to commit ~~incest with superiors in rank~~ ``adultery with an elder`` [[Kangxi: 上淫曰烝]];
     - ~~to lay down;~~
@@ -522,6 +522,19 @@ P
   1. Air convecting upward from a fire (Kangxi: 火气上行也).
   1. Speech-assist, specifically an initial particle (Kangxi: 烝發語辭).
   ++
+L
+  ====
+  * 【烝】 (tsying)
+    ==
+    - (_verb-like_) [to] convect upward, [to] steam
+    - (_verb-like_) [to] adulter upward
+    - (_verb-like_) [to] put forth, [to] advance
+    - (_adjective-like_) multitudinous
+    - (_adjective-like_) stately
+    - (_noun-like_) winter-sacrifice
+    - (_speech-assist_)
+    ==
+  ====
 $$
 
 ### 癥1 | _(1)Ching_ [[zing1]]
@@ -614,6 +627,13 @@ W
     - _(1)ching (4)ts(')(e/)ung_
         [[zing1 coeng4 禎祥]],
         a happy sign.
+    ==
+  ====
+L
+  ====
+  * 【禎】 (trjeng)
+    ==
+    - (_noun-like_) good-omen
     ==
   ====
 $$
@@ -713,6 +733,15 @@ C
   - Williams' 你精我唔呆: Here, "cute" means "clever".
   - Williams' 精甩辮: Corrected _lut(7)_ (leot1) to _lat(7)_ (lat1).
   ==
+L
+  ====
+  * 【精】 (tsjeng)
+    ==
+    - (_noun-like_) fine-rice
+    - (_adjective-like_) fine
+    - (_noun-like_) essence
+    ==
+  ====
 S
   ==
   - ($精zeng1)
@@ -834,6 +863,14 @@ C
   - Williams' "to rise, as vapor or steam": Kangxi has this sense
     under departing-tone _ching(3)_ (zing3) (see $蒸zing3).
   ==
+L
+  ====
+  * 【蒸】 (tsying)
+    ==
+    - (_verb-like_) [to] steam
+    - (_noun-like_) twig
+    ==
+  ====
 S
   ==
   - $蒸zing3
@@ -915,8 +952,18 @@ W
   ====
 P
   ++
+  1. The lower trigram of a hexagram (Kangxi: 內卦曰貞外卦曰悔).
   1. Resolved, resolute (Kangxi: 貞定也精定不動惑也).
   ++
+L
+  ====
+  * 【貞】 (trjeng)
+    ==
+    - (_verb-like_) [to] divine
+    - (_noun-like_) inner-trigram
+    - (_adjective-like_) correct, proper, (_met._) determined
+    ==
+  ====
 $$
 
 ### 鉦1 | _(1)Ching_ [[zing1]]
@@ -934,11 +981,18 @@ W
   ====
   - [[Page~19* (1)鉦]]
     ==
-    - Cymbals set in a frame, used to signalize a halt in armies [[Kangxi: 鐃類也 etc., 鉦以靜之鼓以動之]];
+    - ~~Cymbals set in a frame~~ ``Bronze bells with a vertical stick through the middle``, used to signalize a halt in armies [[Kangxi: 鐃類也 etc., 鉦以靜之鼓以動之]];
     - a cymbal used by priests, a brass tamborine;
     - _kw(a/)(3) (4)t(')ung (1)ching_
         [[gwaa3 tung4 zing1 掛銅鉦]],
         to hang up the cymbal.
+    ==
+  ====
+L
+  ====
+  * 【鉦】 (tsyeng)
+    ==
+    - (_noun-like_) halting-bell
     ==
   ====
 $$
