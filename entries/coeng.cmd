@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2026-03-13
+* %date-modified --> 2026-04-01
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1621,7 +1621,7 @@ C
   - Williams' "A spear, a wooden lance": This is a misreading of Kangxi 槍也.
     According to 段玉裁's annotations of 《說文》 (which has 搶也 originally),
     the intended meaning is 槍者歫也歫謂相抵爲害 (to do harm by collision),
-    with an annotation of the Book of Poetry reading 戕殘也 (to harm cruelly).
+    with an annotation of the Classic of Poetry reading 戕殘也 (to harm cruelly).
   ==
 L
   ====

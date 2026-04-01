@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fai
-* %date-modified --> 2026-02-28
+* %date-modified --> 2026-04-01
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -127,7 +127,7 @@ C
     ++
   - Williams' "a kind of sash": This is a misreading of Kangxi 衺幅也.
     Here, 幅 is to be read _pik(7)_ (bik1).
-    Per 赤芾在股邪幅在下 from the Book of Poetry, this is a type of binding
+    Per 赤芾在股邪幅在下 from the Classic of Poetry, this is a type of binding
     applied to the lower leg (i.e. from the knee downward).
   - Williams' "the stops on a guitar": Note that the Chinese zither (琴)
     is fretless, so these are not frets, but a set of inlaid markings
