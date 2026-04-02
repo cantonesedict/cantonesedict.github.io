@@ -2756,9 +2756,9 @@ class CharacterEntry:
         text = re.sub(pattern=r'[ ]* \\ [ ]* \n', repl='', string=text, flags=re.MULTILINE | re.VERBOSE)
         text = text.replace('^', '')
         text = text.replace('@', '')
+        text = text.replace('::', '')
         text = text.replace('(:', '')
         text = text.replace(':)', '')
-        text = text.replace('::', '')
 
         # Remove square brackets
         text = text.replace('[', '')
