@@ -1638,6 +1638,7 @@ U
 A
   ==
   - 凈
+  - 瀞
   ==
 V
   ==
@@ -1690,6 +1691,14 @@ C
   - Fan Wan entry: Corrected {𠎧=⿰亻絜} to 潔.
   - Williams' 淨重: Corrected _chung(6)_ (zung6 去聲^) to _(5)ch(')ung_ (cung5 上聲^).
   ==
+L
+  ====
+  * 【淨】 (dzjengH)
+    ==
+    - (_adjective-like_) clean
+    - (_verb-like_) [to] cleanse
+    ==
+  ====
 E
   ====
   - 【淨】 (zing6)
@@ -1800,6 +1809,13 @@ C
     which is intended as a noun, not a verb.
   - Williams' 陷阱: Changed _h(a/)m(6)_ (haam6) to common reading _ham(6)_ (ham6).
   ==
+L
+  ====
+  * 【阱】 (dzjengX)
+    ==
+    - (_noun-like_) pitfall
+    ==
+  ====
 S
   ==
   - ($阱zeng6)
@@ -1847,6 +1863,14 @@ P
   ++
   1. Respectful, observant, of few words (Kangxi: 恭己鮮言曰靖).
   ++
+L
+  ====
+  * 【靖】 (dzjengX)
+    ==
+    - (_verb-like_) [to] tranquilise, [to] (be) quiet
+    - (_adjective-like_) tranquil, quiet, (_met._) observant
+    ==
+  ====
 $$
 
 ### 靚6 | _Tsing(6)_ [[zing6]]
@@ -1918,7 +1942,7 @@ W
     - Still [[Kangxi: 動之對也]], silent, ~~impassible,~~ imperturbable;
     - at rest [[Kangxi: 息也]], quiet [[Kangxi: 靜安也]];
     - peaceable, mild [[Kangxi: 和也]];
-    - pure, like a pool [[Kangxi: 澄也]];
+    - pure [[Kangxi: 澄也, ::潔淸[...]::]], like a pool;
     - no bustle;
     - to judge [[Kangxi: 審也]];
     - to ponder, to meditate on;
@@ -1961,6 +1985,15 @@ P
   1. To plan, to plot (Kangxi: 靜謀也).
   1. Chaste (Kangxi: 靜貞靜也).
   ++
+L
+  ====
+  * 【靜】 (dzjengX)
+    ==
+    - (_verb-like_) [to] (be) quiet
+    - (_adjective-like_) quiet, still
+    - (_adjective-like_) pure
+    ==
+  ====
 E
   ====
   - 【靜雞雞】 (zing6 gai1 gai1)

@@ -1952,6 +1952,38 @@ window.onload = applyFilter;
       - (_noun-like_) truth, circumstance
       ==
   //
+    , `dzjengX`
+    , [阱](/entries/zing#rendering-阱)
+    ,
+      ==
+      - (_noun-like_) pitfall
+      ==
+  //
+    , `dzjengX`
+    , [靖](/entries/zing#rendering-靖)
+    ,
+      ==
+      - (_verb-like_) [to] tranquilise, [to] (be) quiet
+      - (_adjective-like_) tranquil, quiet, (_met._) observant
+      ==
+  //
+    , `dzjengX`
+    , [靜](/entries/zing#rendering-靜)
+    ,
+      ==
+      - (_verb-like_) [to] (be) quiet
+      - (_adjective-like_) quiet, still
+      - (_adjective-like_) pure
+      ==
+  //
+    , `dzjengH`
+    , [淨](/entries/zing#rendering-淨)
+    ,
+      ==
+      - (_adjective-like_) clean
+      - (_verb-like_) [to] cleanse
+      ==
+  //
     , `dzjep`
     , [寁](/entries/zaan#rendering-寁)
     ,
