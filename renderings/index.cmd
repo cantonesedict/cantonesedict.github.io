@@ -6665,6 +6665,13 @@ window.onload = applyFilter;
       ==
   //
     , `tsyengH`
+    , [政](/entries/zing#rendering-政)
+    ,
+      ==
+      - (_noun-like_) governance
+      ==
+  //
+    , `tsyengH`
     , [正~(departing)](/entries/zing#rendering-正-departing)
     ,
       ==
@@ -6672,6 +6679,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] right, (_met._) [to] determine
       - (_adverb-like_) right, exactly
       - (_adjective-like_) principal
+      ==
+  //
+    , `tsyengH`
+    , [証](/entries/zing#rendering-証)
+    ,
+      ==
+      - (_verb-like_) [to] remonstrate (with)
       ==
   //
     , `tsyet`
@@ -7337,6 +7351,13 @@ window.onload = applyFilter;
       ==
       - (_verb-like_) [to] lift (up)
       - (_verb-like_) [to] rescue
+      ==
+  //
+    , `tsyingH`
+    , [證](/entries/zing#rendering-證)
+    ,
+      ==
+      - (_verb-like_) [to] attest, [to] prove
       ==
   //
     , `tsyip`

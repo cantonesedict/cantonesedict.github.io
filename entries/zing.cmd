@@ -1276,6 +1276,13 @@ C
   - Williams' 家政: Now "home economics".
   - Williams' 從政: Or, "pursuing politics".
   ==
+L
+  ====
+  * 【政】 (tsyengH)
+    ==
+    - (_noun-like_) governance
+    ==
+  ====
 $$
 
 ### 正3 | _Ching(3)_ [[zing3]]
@@ -1534,6 +1541,13 @@ W
     [[Otherwise, an alternative form of 證. **See $證zing3 for the canonical entry.**]]
     --
   ====
+L
+  ====
+  * 【証】 (tsyengH)
+    ==
+    - (_verb-like_) [to] remonstrate (with)
+    ==
+  ====
 $$
 
 ### 證3 | _Ching(3)_ [[zing3]]
@@ -1588,6 +1602,13 @@ C
   ==
   - Williams' 證據: Corrected _k(u:)(6)_ (geoi6) to _k(u:)(3)_ (geoi3).
   ==
+L
+  ====
+  * 【證】 (tsyingH)
+    ==
+    - (_verb-like_) [to] attest, [to] prove
+    ==
+  ====
 $$
 
 
