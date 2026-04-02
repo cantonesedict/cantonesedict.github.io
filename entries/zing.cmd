@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2026-04-01
+* %date-modified --> 2026-04-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1073,11 +1073,22 @@ C
   ==
   - Williams' "a field laid out regularly": Not wrong,
     but misses the definition as nine hundred _mau_ (畝) of land area.
+  - Williams' 坐井觀天: More ignorant than inexperienced.
   ==
 P
   ++
+  1. Continuously (Kangxi: 往來連屬貌).
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【井】 (tsjengX)
+    ==
+    - (_noun-like_) well, (_met._) square
+    - (_noun-like_) field-grid
+    - (_adverb-like_) (_met._) continuously
+    ==
+  ====
 S
   ==
   - ($井zeng2)
@@ -1159,6 +1170,13 @@ P
   1. Whole, entire.
   1. Whole (of a number).
   ++
+L
+  ====
+  * 【整】 (tsyengX)
+    ==
+    - (_verb-like_) [to] arrange, [to] straighten
+    ==
+  ====
 E
   ====
   - 【整】 (zing2)

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-04-01
+* %date-modified --> 2026-04-02
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -5612,6 +5612,15 @@ window.onload = applyFilter;
       - (_adjective-like_) luxuriant
       ==
   //
+    , `tsjengX`
+    , [井](/entries/zing#rendering-井)
+    ,
+      ==
+      - (_noun-like_) well, (_met._) square
+      - (_noun-like_) field-grid
+      - (_adverb-like_) (_met._) continuously
+      ==
+  //
     , `tsjew`
     , [噍](/entries/ziu#rendering-噍)
     ,
@@ -6646,6 +6655,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) halting-bell
+      ==
+  //
+    , `tsyengX`
+    , [整](/entries/zing#rendering-整)
+    ,
+      ==
+      - (_verb-like_) [to] arrange, [to] straighten
       ==
   //
     , `tsyengH`
