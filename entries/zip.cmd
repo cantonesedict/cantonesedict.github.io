@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zip
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-04-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -210,7 +210,19 @@ C
 P
   ++
   1. To catch.
+  1. To pick up.
   ++
+L
+  ====
+  * 【接】 (tsjep)
+    ==
+    - (_verb-like_) [to] connect, [to] contact
+    - (_verb-like_) [to] succeed
+    - (_verb-like_) [to] receive
+    - (_adjective-like_) (_met._) near
+    - (_adverb-like_) quickly
+    ==
+  ====
 $$
 
 ### 摺3 | _Ch(i/)p(8)_ [[zip3]]
@@ -306,6 +318,13 @@ W
     - to avail of for one's purposes.
     ==
   ====
+L
+  ====
+  * 【楫】 (tsjep)
+    ==
+    - (_noun-like_) oar
+    ==
+  ====
 $$
 
 ### 浹3 | _Ts(i/)p(8)_ [[zip3]]
@@ -336,7 +355,7 @@ W
     - a complete turn of, a circuit [[Kangxi: 周浹猶周匝也]];
     - _ts(i/)p(8) yat(9)_
         [[zip3 jat6 浹日]]
-        a decade;
+        a decade [[Kangxi: 浹日謂從甲至癸也]];
     - _ts(i/)p(8) (4)shan_
         [[zip3 san4 浹辰]]^
         twelve days or hours, a circuit of the 12~branches;
@@ -364,6 +383,14 @@ C
     ==
   - Williams' 浹日: Here, "decade" means ten days (甲 through 癸).
   - Williams' 浹洽: Changed _h(a/)p(9)_ (haap6) to common reading _hap(7)_ (hap1).
+  ====
+L
+  ====
+  * 【浹】 (tsep)
+    ==
+    - (_verb-like_) [to] soak through
+    - (_noun-like_) cycle
+    ==
   ====
 S
   ==
@@ -498,6 +525,14 @@ P
   ++
   1. The feet unable to move past (or cross over) one another (Kangxi: 足疾也, ::輒者何兩足不[能]相過也:: etc.).
   1. Immediately.
-  1. Always, invariably.
+  1. Always, invariably, consistently.
   ++
+L
+  ====
+  * 【輒】 (trjep)
+    ==
+    - (_adverb-like_) immediately
+    - (_adverb-like_) consistently
+    ==
+  ====
 $$

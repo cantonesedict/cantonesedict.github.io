@@ -4055,6 +4055,14 @@ window.onload = applyFilter;
       - (_adjective-like_) correct, proper, (_met._) determined
       ==
   //
+    , `trjep`
+    , [輒](/entries/zip#rendering-輒)
+    ,
+      ==
+      - (_adverb-like_) immediately
+      - (_adverb-like_) consistently
+      ==
+  //
     , `trjoX`
     , [貯](/entries/cyu#rendering-貯)
     ,
@@ -4320,6 +4328,14 @@ window.onload = applyFilter;
       - (_noun-like_) grass-fodder
       - (_noun-like_) padding
       - (_verb-like_) [to] present, [to] recommend
+      ==
+  //
+    , `tsep`
+    , [浹](/entries/zip#rendering-浹)
+    ,
+      ==
+      - (_verb-like_) [to] soak through
+      - (_noun-like_) cycle
       ==
   //
     , `tsha`
@@ -5651,6 +5667,24 @@ window.onload = applyFilter;
       - (_noun-like_) well, (_met._) square
       - (_noun-like_) field-grid
       - (_adverb-like_) (_met._) continuously
+      ==
+  //
+    , `tsjep`
+    , [接](/entries/zip#rendering-接)
+    ,
+      ==
+      - (_verb-like_) [to] connect, [to] contact
+      - (_verb-like_) [to] succeed
+      - (_verb-like_) [to] receive
+      - (_adjective-like_) (_met._) near
+      - (_adverb-like_) quickly
+      ==
+  //
+    , `tsjep`
+    , [楫](/entries/zip#rendering-楫)
+    ,
+      ==
+      - (_noun-like_) oar
       ==
   //
     , `tsjew`
