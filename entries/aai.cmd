@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aai
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-04-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -173,6 +173,10 @@ C
   ==
   - Williams' 十嗌九爭銀: "Ten to one" is perhaps better rendered "nine in ten".
   ==
+P
+  ++
+  1. To choke (Kangxi: 嗌噎也 etc.).
+  ++
 E
   ====
   - 【嗌】 (aai3)
@@ -192,6 +196,9 @@ E
        ==
     ++
   ====
+  --
+  The spelling 嗌 is arbitrary (but well established).
+  --
 S
   ==
   - $嗌jik1 (TODO)

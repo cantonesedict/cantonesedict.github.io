@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ai
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-04-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -113,6 +113,9 @@ E
        ==
     ++
   ====
+  --
+  The spelling 哎吔 is arbitrary.
+  --
 $$
 
 ### {𫫃=⿰口挨}1 | _(1)Ai_ [[ai1]]

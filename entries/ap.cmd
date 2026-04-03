@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ap
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-04-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -105,6 +105,9 @@ E
     1. To cover and keep wet (when undesirable to do so).
     ++
   ====
+  --
+  The spelling 洽 is arbitrary.
+  --
 S
   ==
   - $洽haap6 (TODO)

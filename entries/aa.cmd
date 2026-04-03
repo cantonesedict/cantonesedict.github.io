@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aa
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-04-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -214,6 +214,9 @@ E
        ==
     ++
   ====
+  --
+  The spellings 吖 and 吖嘛 are arbitrary.
+  --
 $$
 
 ### 呀1 | _(1)(A/)_ [[aa1]]
@@ -598,6 +601,9 @@ E
        ==
     ++
   ====
+  --
+  The spelling 啊 is arbitrary.
+  --
 S
   ==
   - ($啊aa1)
@@ -733,6 +739,9 @@ E
        ==
     ++
   ====
+  --
+  The spelling 呀 is arbitrary.
+  --
 S
   ==
   - ($呀aa1)

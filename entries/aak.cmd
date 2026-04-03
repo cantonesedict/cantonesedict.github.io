@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aak
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-04-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -122,6 +122,9 @@ E
        ==
     ++
   ====
+  --
+  The spelling 呃 is arbitrary.
+  --
 S
   ==
   - $呃ngaak1 (TODO)
@@ -282,4 +285,7 @@ E
        ==
     ++
   ====
+  --
+  The spelling 鈪 is arbitrary (but well established).
+  --
 $$
