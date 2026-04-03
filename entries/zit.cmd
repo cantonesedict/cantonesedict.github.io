@@ -142,6 +142,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $卩3
 - $哲3
 - ($喆3)
 - $婕3
@@ -157,6 +158,24 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+###+ 卩3 | _Ts(i/)t(8)_ [[zit3]]
+
+$$
+R
+  ⼙ + 0
+U
+  U+5369
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. The 26th~radical ("seal").
+  1. Alternative form of 節. **See $節zit3 for the canonical entry.**
+  ++
+$$
 
 ### 哲3 | _Ch(i/)t(8)_ [[zit3]]
 
@@ -521,7 +540,7 @@ H
   depending on the font.
 A
   ==
-  - 卩
+  - $卩3
   - 㔾
   - 卪
   - 岊 (for mountain-related senses)
