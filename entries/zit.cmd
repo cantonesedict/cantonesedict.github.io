@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zit
-* %date-modified --> 2026-03-05
+* %date-modified --> 2026-04-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -70,6 +70,7 @@ W
 S
   ==
   - $折sit6 (TODO)
+  - ($折tai4) (TODO) <## 折折 ##>
   - $折zit3
   ==
 $$
@@ -168,6 +169,7 @@ A
   ==
   - $喆3
   - 嚞
+  - 悊
   ==
 F
   ==
@@ -188,6 +190,13 @@ W
     - _pat(7) ch(i/)t(8)_
         [[bat1 zit3 不哲]]
         dull-headed.
+    ==
+  ====
+L
+  ====
+  * 【哲】 (trjet)
+    ==
+    - (_adjective-like_) wise
     ==
   ====
 $$
@@ -245,6 +254,10 @@ R
   ⼿ + 4
 U
   U+6298
+V
+  ==
+  - sit6 (per 《廣韻》常列切 for "broken" sense)
+  ==
 F
   ==
   - (F1.25 折) 損也耗也
@@ -314,15 +327,31 @@ W
   ====
 C
   ==
+  - Kangxi has the adjectival (or intransitive?) "broken" sense
+    under the reading 食列切 _sh(i/)t(9)_ (sit6).
   - Williams' 幾成折: Corrected _(1)shing_ (sing1) to _(4)shing_ (sing4).
   ==
 P
   ++
   1. To turn, to change direction (Kangxi: 曲也).
   1. To destroy (Kangxi: 毀也).
+  1. A burial frame (Kangxi: 葬具也 etc.).
   1. A setback, a difficulty.
   1. To admire, to be convinced of.
   ++
+L
+  ====
+  * 【折-voiced】 (dzyet)
+    ==
+    - (_adjective-like_) broken
+    ==
+  * 【折-unvoiced】 (tsyet)
+    ==
+    - (_verb-like_) [to] break (off), (_met._) [to] decide, [to] die early
+    - (_verb-like_) [to] bend
+    - (_noun-like_) burial-frame
+    ==
+  ====
 E
   ====
   - 【折】 (zit3)
@@ -339,6 +368,7 @@ E
 S
   ==
   - $折sit6 (TODO)
+  - ($折tai4) (TODO) <## 折折 ##>
   - ($折zit1)
   ==
 $$
@@ -425,6 +455,13 @@ P
   ++
   1. To remove, to weed out (Kangxi: 剔除也).
   ++
+L
+  ====
+  * 【櫛】 (tsrit)
+    ==
+    - (_noun-like_) comb
+    ==
+  ====
 $$
 
 ### ~~淅~~``浙``3 | _Ch(i/)t(8)_ [[zit3]]
@@ -501,7 +538,7 @@ W
     - economy, temperance, moderation [[Kangxi: 止也檢也制也 etc.]];
     - chastity, virtue, in widows;
     - to limit a thing, to maintain, to restrain one's passions;
-    - to mark, as music;
+    - ~~to mark~~ ``rhythm or beat``, as ``in`` music;
     - a classifier of joints, limbs, affairs;
     - _ts(i/)t(8) (2)yam shik(9)_
         [[zit3 jam2 sik6 節飲食]]
@@ -541,7 +578,7 @@ W
         to get degrees by bribery, to bribe;
     - _ts(i/)t(8) tsau(3)_
         [[zit3 zau3 節奏]]
-        to mark the time in music;
+        ~~to mark the time in music~~ ``musical beat``;
     - _(1)to (1)shang (1)ch(i/) ts(i/)t(8)_
         [[do1 sang1 zi1 zit3 多生枝節]]
         full of cares and business;
@@ -567,6 +604,16 @@ C
   - Williams' 買關節: Dated.
   - Williams' 節儉: Corrected _k(i/)m(3)_ (gim3) to _k(i/)m(6)_ (gim6).
   ==
+L
+  ====
+  * 【節】 (tset)
+    ==
+    - (_noun-like_) joint, node, juncture, (_met._) division
+    - (_noun-like_) [moral] restraint, (_met._) regulation, chastity
+    - (_verb-like_) [to] restrain, (_met._) [to] regulate
+    - (_noun-like_) token
+    ==
+  ====
 $$
 
 ### 蜇3 | _Ch(i/)t(8)_ [[zit3]]

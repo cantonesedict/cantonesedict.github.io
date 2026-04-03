@@ -2535,6 +2535,13 @@ window.onload = applyFilter;
       - (_adjective-like_) hesitating
       ==
   //
+    , `dzyet`
+    , [折~(voiced)](/entries/zit#rendering-折-voiced)
+    ,
+      ==
+      - (_adjective-like_) broken
+      ==
+  //
     , `dzyik`
     , [埴](/entries/zik#rendering-埴)
     ,
@@ -4063,6 +4070,13 @@ window.onload = applyFilter;
       - (_adverb-like_) consistently
       ==
   //
+    , `trjet`
+    , [哲](/entries/zit#rendering-哲)
+    ,
+      ==
+      - (_adjective-like_) wise
+      ==
+  //
     , `trjoX`
     , [貯](/entries/cyu#rendering-貯)
     ,
@@ -4336,6 +4350,16 @@ window.onload = applyFilter;
       ==
       - (_verb-like_) [to] soak through
       - (_noun-like_) cycle
+      ==
+  //
+    , `tset`
+    , [節](/entries/zit#rendering-節)
+    ,
+      ==
+      - (_noun-like_) joint, node, juncture, (_met._) division
+      - (_noun-like_) [moral] restraint, (_met._) regulation, chastity
+      - (_verb-like_) [to] restrain, (_met._) [to] regulate
+      - (_noun-like_) token
       ==
   //
     , `tsha`
@@ -6302,6 +6326,13 @@ window.onload = applyFilter;
       - (_adjective-like_) huddled, accordant
       ==
   //
+    , `tsrit`
+    , [櫛](/entries/zit#rendering-櫛)
+    ,
+      ==
+      - (_noun-like_) comb
+      ==
+  //
     , `tsrjo`
     , [菹](/entries/zeoi#rendering-菹)
     ,
@@ -6752,6 +6783,15 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] remonstrate (with)
+      ==
+  //
+    , `tsyet`
+    , [折~(unvoiced)](/entries/zit#rendering-折-unvoiced)
+    ,
+      ==
+      - (_verb-like_) [to] break (off), (_met._) [to] decide, [to] die early
+      - (_verb-like_) [to] bend
+      - (_noun-like_) burial-frame
       ==
   //
     , `tsyet`
