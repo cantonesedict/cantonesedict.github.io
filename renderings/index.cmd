@@ -4360,6 +4360,7 @@ window.onload = applyFilter;
       - (_noun-like_) [moral] restraint, (_met._) regulation, chastity
       - (_verb-like_) [to] restrain, (_met._) [to] regulate
       - (_noun-like_) token
+      - (_adjective-like_) (_met._) crested
       ==
   //
     , `tsha`

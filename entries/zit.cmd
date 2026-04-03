@@ -519,6 +519,17 @@ U
 H
   May appear as either ⿱𥫗即 (+7 assumed here) or ⿱𥫗卽 (+9),
   depending on the font.
+A
+  ==
+  - 卩
+  - 㔾
+  - 卪
+  - 岊 (for mountain-related senses)
+  ==
+V
+  ==
+  - zit6 (alternative per 《集韻》昨結切 for "lofty" sense)
+  ==
 F
   ==
   - (F1.26 節) 制也儉也符節時節
@@ -600,10 +611,46 @@ W
     ==
   ====
 C
-  ==
+  ====
   - Williams' 買關節: Dated.
   - Williams' 節儉: Corrected _k(i/)m(3)_ (gim3) to _k(i/)m(6)_ (gim6).
-  ==
+  - The reading variation _ts(i/)t(9)_ (zit6) is a complicated matter.
+    The rabbit hole goes like this:
+    ==
+    - Kangxi gives the reading 《集韻》昨結切 _ts(i/)t(9)_ (zit6)
+      with the example 《詩小雅》節彼南山, but gives no explanation.
+    - The entry in 《集韻》 does not have this example,
+      but gives the explanation ::山高峻[貌]:: "lofty",
+      with the alternative forms 𡵒^ (⿱巳山) and 𡾃^ (⿰⿱山雀戈).
+      Of these, the form 𡵒^ (⿱巳山) is perhaps a sloppy version of ⿱㔾山,
+      i.e. "knot" + "mountain".
+    - In 《廣韻》 under the reading 昨結切 _ts(i/)t(9)_ (zit6)
+      there is the character ⿱⿴㔾丶山.
+      The top component 𭅲^ (⿴㔾丶) is a stylised 卪,
+      so again we have "knot" + "mountain".
+      The explanation is 山峯又子結切, i.e. "mountain summit"
+      with the alternative reading 子結切 _ts(i/)t(8)_ (zit3)
+      (which appears to be a genuine alternative, *not* a cross-reference).
+    - Kangxi has neither 𡵒^ (⿱巳山) nor ⿱㔾山 nor 𭅲^ (⿴㔾丶),
+      but instead has an entry for 岊 (⿱巴山).
+      This seems to be sloppy formatting of the "knot" component as 巴
+      based on the similar shape of the seal character for 卪 "knot".
+      *Only* the reading 子結切 _ts(i/)t(8)_ (zit3) is given,
+      which makes this entry's citations of 《集韻》 erroneous.
+    - In 《說文》 the glyph is "knot" + "mountain" (从山从卪).
+    ==
+    So what is the conclusion? Well, it seems like the "lofty" sense
+    comes from the notion of being "crested",
+    which seems to be the intent behind the glyph being "mountain knot".
+    So, in my opinion, we read _ts(i/)t(8)_ (zit3) for "crested",
+    and either _ts(i/)t(8)_ (zit3) or _ts(i/)t(9)_ (zit6) for "lofty".
+    But it would just be easier if the "lofty" sense did not exist.
+  ====
+P
+  ++
+  1. Crested (of a mountain).
+  1. Lofty (of a mountain).
+  ++
 L
   ====
   * 【節】 (tset)
@@ -612,6 +659,7 @@ L
     - (_noun-like_) [moral] restraint, (_met._) regulation, chastity
     - (_verb-like_) [to] restrain, (_met._) [to] regulate
     - (_noun-like_) token
+    - (_adjective-like_) (_met._) crested
     ==
   ====
 $$
