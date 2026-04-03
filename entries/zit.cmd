@@ -679,8 +679,8 @@ W
   ====
   - [[Page~23* 蜇(8)]]
     ==
-    - A sting [[Kangxi: 蟲螫也]];
-    - any part of insects which inflicts a poisonous wound;
+    - ~~A~~ ``To`` sting [[Kangxi: 蟲螫也]];
+    - ~~any part of insects which inflicts a poisonous wound;~~
     - _ch(i/)t(8) (4)p(')(i/)_
         [[zit3 pei4 蜇皮]],
         the dried skin of a blubber fish,
@@ -693,6 +693,13 @@ C
   - Fan Wan entry: Corrected 毋 to 母.
   - Williams' 水母: "Blubber" in the sense of jellyfish (海蜇).
   ==
+L
+  ====
+  * 【蜇】 (trjet)
+    ==
+    - (_verb-like_) [to] sting
+    ==
+  ====
 $$
 
 ###+ 蟄3 | _Ch(i/)t(8)_ [[zit3]]
@@ -737,6 +744,10 @@ R
   ⼽ + 10
 U
   U+622A
+A
+  ==
+  - {𢧵=⿰雀戈}
+  ==
 F
   ==
   - (F1.27 截) 斷也止也
@@ -773,6 +784,22 @@ C
   - Williams' 攔截: Corrected _ts(i/)t(8)_ (zit3) to _ts(i/)t(9)_ (zit6).
   - Williams' 截斷: Corrected _t(u:)n(6)_ (dyun6 去聲^) to _(5)t(')(u:)n_ (tyun5 上聲^).
   ==
+P
+  ++
+  1. Used in 截截 (articulate in speech) (Kangxi: 截截辯給貌).
+  ++
+L
+  ====
+  * 【截】 (dzet)
+    ==
+    - (_verb-like_) [to] cut (off), (_met._) [to] regulate
+    - Used in [截截](/entries/zit#rendering-截截).
+    ==
+  * 【截截】 (dzet dzet)
+    ==
+    - (_adjective-like_) articulate
+    ==
+  ====
 $$
 
 ### 捷6 | _Ts(i/)t(9)_ [[zit6]]
@@ -831,8 +858,17 @@ C
   ==
 P
   ++
-  1. That obtained through warfare (Kangxi: 獵也軍獲得也).
+  1. Spoils of war (Kangxi: 獵也軍獲得也).
   ++
+L
+  ====
+  * 【捷】 (dzjep)
+    ==
+    - (_noun-like_) victory
+    - (_noun-like_) spoils
+    - (_adjective-like_) nimble
+    ==
+  ====
 S
   ==
   - ($捷zit3)
@@ -870,6 +906,13 @@ C
   ==
   - Fan Wan entry: Normalised headword (with right component like 偼) to 睫.
   ==
+L
+  ====
+  * 【睫】 (tsjep)
+    ==
+    - (_noun-like_) eyelash
+    ==
+  ====
 S
   ==
   - ($睫zip3)

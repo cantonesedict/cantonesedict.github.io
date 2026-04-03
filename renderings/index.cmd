@@ -1658,6 +1658,21 @@ window.onload = applyFilter;
       - (_adverb-like_) repeatedly
       ==
   //
+    , `dzet`
+    , [截](/entries/zit#rendering-截)
+    ,
+      ==
+      - (_verb-like_) [to] cut (off), (_met._) [to] regulate
+      - Used in [截截](/entries/zit#rendering-截截).
+      ==
+  //
+    , `dzet dzet`
+    , [截截](/entries/zit#rendering-截截)
+    ,
+      ==
+      - (_adjective-like_) articulate
+      ==
+  //
     , `dzi`
     , [慈](/entries/ci#rendering-慈)
     ,
@@ -1989,6 +2004,15 @@ window.onload = applyFilter;
     ,
       ==
       - (_adverb-like_) hastily
+      ==
+  //
+    , `dzjep`
+    , [捷](/entries/zit#rendering-捷)
+    ,
+      ==
+      - (_noun-like_) victory
+      - (_noun-like_) spoils
+      - (_adjective-like_) nimble
       ==
   //
     , `dzjew`
@@ -4077,6 +4101,13 @@ window.onload = applyFilter;
       - (_adjective-like_) wise
       ==
   //
+    , `trjet`
+    , [蜇](/entries/zit#rendering-蜇)
+    ,
+      ==
+      - (_verb-like_) [to] sting
+      ==
+  //
     , `trjoX`
     , [貯](/entries/cyu#rendering-貯)
     ,
@@ -5710,6 +5741,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) oar
+      ==
+  //
+    , `tsjep`
+    , [睫](/entries/zit#rendering-睫)
+    ,
+      ==
+      - (_noun-like_) eyelash
       ==
   //
     , `tsjew`
