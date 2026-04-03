@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-04-02
+* %date-modified --> 2026-04-03
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -7081,7 +7081,7 @@ window.onload = applyFilter;
       - (_verb-like_) [to] go
       - (_preposition-like_) till
       - (_determiner-like_) this, such
-      - (_pronoun-like_) him
+      - (_pronoun-like_) him, it, (_met._) [a] thing
       - (_postposition-like_) of
       - (_speech-assist_) ^[that]
       ==
