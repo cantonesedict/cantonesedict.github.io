@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Conway's preface
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-04-04
 * %copyright-prior-years --> 2025--
 * %meta-description --> Conway's preface
 
@@ -52,7 +52,8 @@ as there are three types of reader competing for their attention:
    (commonly called "standard Chinese").
 ++
 --{.modern}
-Usually, the needs of the first two are neglected in favour of the third,
+Usually, the needs of the first two types of reader
+are neglected in favour of the third,
 due to the political reality of what is considered "standard".
 ((Note that the relationship between Cantonese and the umbrella term of Chinese
 is difficult to characterise.
@@ -72,6 +73,9 @@ Specifically, this dictionary is for young Conway,
 who had an interest in both vernacular Cantonese and in Classical Chinese,
 but who very nearly gave up due to the lack of good learning resources
 accessible to him in his childhood.
+--
+--{.modern}
+If you are the third type of reader, this dictionary is not for you.
 --
 --{.modern}
 Rather than write a new dictionary from scratch,
