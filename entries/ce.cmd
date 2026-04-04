@@ -555,12 +555,8 @@ E
   and as _(4)ts(')(e/) (1)po_ (ce4 bo1).)^
   --
   --
-  Some point to 笡 as the original character for the departing-tone reading:
-  --
-  """"
-  ::B4.w443b0208 (:遷謝切:) (:笡:) (:斜逆也:)::
-  """"
-  --
+  Some point to 笡 as the original character
+  for the departing-tone reading, per 《廣韻》遷謝切.
   But I am not convinced of this.
   Whilst the reading _ts(')(e/)(3)_ (ce3) is a match,
   the explanation 斜逆也 seems more a metaphorical "heretical"
