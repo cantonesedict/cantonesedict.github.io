@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coek
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-04-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -302,7 +302,7 @@ E
     1. To cook (briefly) in boiling water, to blanch.
        ==
        - 白灼蝦 (baak6 coek3 haa1): "Plain boiled prawns."
-       - 灼一灼 (coek3 jat1 coek3): "[Give it a] blanch."
+       - 灼一灼 (coek3 jat1 coek3): "Give [it a] blanch."
        ==
     ++
   ====
