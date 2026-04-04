@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caau
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-04-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -379,6 +379,9 @@ E
        ==
     ++
   ====
+  --
+  The spelling 摷 is arbitrary.
+  --
 $$
 
 ### 鈔3 | _Ch(')(a/)u(3)_ [[caau3]]
@@ -526,6 +529,9 @@ E
        ==
     ++
   ====
+  --
+  The spelling 巢 is arbitrary.
+  --
 $$
 
 ### 漅4 | _(4)Ch(')(a/)u_ [[caau4]]

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2026-03-01
+* %date-modified --> 2026-04-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1090,6 +1090,9 @@ E
     1. Crispy.
     ++
   ====
+  --
+  The spelling 扑 for bok1 is arbitrary (but well established).
+  --
 $$
 
 ### 蜡3 | _Ts(')(u:)(3)_ [[ceoi3]]

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cat
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-04-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -300,6 +300,7 @@ E
     --
   ====
   --
+  The spelling {𨳍=⿵門七} is arbitrary.
   Suprisingly, the alternative form {𫵱=⿱山十} is recorded in
   [Eitel (1877)][eitel-dict-cat^6] under _ts(')at(9)_ (cat6);
   the entry simply reads "_V[ulgar]._ the penis".

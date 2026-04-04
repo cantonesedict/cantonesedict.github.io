@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ai
-* %date-modified --> 2026-04-03
+* %date-modified --> 2026-04-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -249,6 +249,9 @@ E
     1. To be exceedingly afflicted or troubled by something.
     ++
   ====
+  --
+  The spelling 贔屭 is arbitrary (but well established).
+  --
 S
   ==
   - $屭hei3

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2026-03-12
+* %date-modified --> 2026-04-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -83,6 +83,9 @@ E
        ==
     ++
   ====
+  --
+  The spelling 唓 is arbitrary.
+  --
 $$
 
 ### 奢1 | _(1)Ch(')(e/)_ [[ce1]]
@@ -456,6 +459,9 @@ E
        ==
     ++
   ====
+  --
+  The spelling 扯 is arbitrary.
+  --
 $$
 
 ### 撦2 | _(2)Ch(')(e/)_ [[ce2]]
