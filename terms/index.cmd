@@ -373,6 +373,9 @@ window.onload = applyFilter;
     , cik1
     , [摵](/entries/cik#cantonese-摵)
   //
+    , cik1
+    , [{𥄎=⿱目攴}](/entries/cik#cantonese-𥄎)
+  //
     , cim1
     , [㔐](/entries/cim#cantonese-㔐)
   //

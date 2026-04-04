@@ -55,6 +55,7 @@ $$
 - $摵1
 - $敕1
 - $斥1
+- ${𥄎=⿱目攴}1
 - ($螫1)
 - $鏚1
 - $飭1
@@ -408,6 +409,43 @@ L
     - (_noun-like_) saline-earth
     ==
   ====
+$$
+
+###+ {𥄎=⿱目攴}1 | _Ts(')ik(7)_ [[cik1]]
+
+$$
+R
+  ⽬ + 4
+U
+  U+2510E
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. To make small eye-motions (Kangxi: 目小動也).
+  ++
+E
+  ====
+  - 【{𥄎=⿱目攴}】 (cik1)
+    ++
+    1. To move the eyes or eyebrows, especially subtly.
+       ==
+       - {𥄎=⿱目攴}眉{𥄎=⿱目攴}眼 (cik1 mei4 cik1 ngaan5): "Moving eyebrows [and] moving eyes."
+       ==
+    ++
+  ====
+  --
+  Olden attestation for {𥄎=⿱目攴} _ts(')ik(7)_ (cik1) meaning "small [eye]-motions":
+  --
+  """"
+  ::B5.w537b0205 (:七役切:) (:{𥄎=⿱目攴}:) (:小動:)::
+  """"
+S
+  ==
+  - ${𥄎=⿱目攴}hyut3 (TODO)
+  ==
 $$
 
 ### 螫1 | _Ch(')ik(7)_ [[cik1]]
