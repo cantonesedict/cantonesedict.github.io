@@ -1162,14 +1162,14 @@ E
   Of the three items in rock-scissors-paper:
   --
   ==
-  - The spelling for "rock" (here 呈沉) is arbitrary.
+  - The spelling 呈沉 for "rock" is arbitrary.
     Note that in 猜呈沉 it is read low (cing4 cam4),
     and in 呈沉磨鉸叉燒包 it is read high (cing1 cam1).
     Allusion to a heavy weight falling suggests 秤 instead for the first
     and 沉 for the second.
-  - The spelling for "scissors" is 磨鉸, "sharpened scissors".
-  - The spelling for "paper" is 叉燒包, the bun of a barbecued-pork bun
-    being a wrapper that wraps its filling.
+  - The term 磨鉸 for "scissors" is literally "sharpened scissors".
+  - The term 叉燒包 for "paper" is literally "barbecued-pork bun",
+    in which the bun (包) is a wrapper that wraps its filling.
   ==
 $$
 
