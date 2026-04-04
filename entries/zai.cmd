@@ -1290,8 +1290,8 @@ E
     ++
     1. A final particle of almostness.
       ==
-      - 熱到死咁嚌 (jit6 dou3 sei2 gam3 zai6): "[It's] so hot [we've] died, almost."
-      - 食完咁嚌 (sik6 jyun4 gam3 zai6): "[We've] finished eating, almost."
+      - 熱到死咁嚌 (jit6 dou3 sei2 gam3 zai6): "[It's] so hot [we've] almost died."
+      - 食完咁嚌 (sik6 jyun4 gam3 zai6): "[We've] almost finished eating."
       ==
     ++
   - 【乜嚌】 (mat1 zai6)
