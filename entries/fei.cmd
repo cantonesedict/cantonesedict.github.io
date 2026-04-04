@@ -472,7 +472,7 @@ E
        ==
        - 巴士飛站 (baa1 si2 fei1 zaam6): "[A] bus skipping [a] stop."
        ==
-    1. A ticket. The spelling 飛 is arbitrary (but well established).
+    1. A ticket. The spelling 飛 for this sense is arbitrary (but well established).
        ==
        - 買飛 (maai5 fei1): "Buy [a] ticket."
        - 黃牛飛 (wong4 ngau4 fei1): "Scalped tickets."

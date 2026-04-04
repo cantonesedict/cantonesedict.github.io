@@ -293,7 +293,7 @@ E
        ==
        - 盞燈壞咗 (zaan2 dang1 waai6 zo2): "[The] light's broken."
        ==
-    1. Only, just (for emphasising that a negative outcome is highly likely). The spelling 盞 is arbitrary.
+    1. Only, just (for emphasising that a negative outcome is highly likely). The spelling 盞 for this sense is arbitrary.
        ==
        - 盞嘥氣 (zaan2 saai1 hei3): "[Talking to him] will just [be a] waste of breath."
        - 行得慢咪盞遲到 (haang4 dak1 maan6 mai6 zaan2 ci4 dou3): "[If we] walk slow then [we'll] only arrive late, [won't we]?"

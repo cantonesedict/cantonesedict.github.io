@@ -668,7 +668,7 @@ E
        - 點串啊 (dim2 cyun3 a3): "How [do you] spell [it]?"
        - 唔識串 (m4 sik1 cyun3): "[I] don't know [how to] spell [it]."
        ==
-    1. Arrogant, cocky. The spelling 串 is arbitrary.
+    1. Arrogant, cocky. The spelling 串 for this sense is arbitrary.
     ++
   ====
 S
