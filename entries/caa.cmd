@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caa
-* %date-modified --> 2026-03-12
+* %date-modified --> 2026-04-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -625,6 +625,10 @@ R
   ⼿ + 10
 U
   U+643D
+A
+  ==
+  - 塗
+  ==
 F
   [[Not present]]
 W
@@ -964,8 +968,8 @@ E
   as the original character, but I am not convinced of this.
   While the classical meaning (to dirty) is reasonable,
   the reading per 《廣韻》徐野切 is _(5)ts(')(a/)_, not _(5)ch(')(a/)_.
-  The second is required if it is cognate with level-tone $搽caa4
-  (which I believe to be the case).
+  The second is required if it is cognate with level-tone $搽caa4,
+  from 塗 read _(4)ch(')(a/)_ per 《廣韻》宅加切.
   --
 S
   ==
