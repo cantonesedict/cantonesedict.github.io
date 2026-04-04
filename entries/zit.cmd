@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zit
-* %date-modified --> 2026-04-03
+* %date-modified --> 2026-04-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -640,17 +640,17 @@ C
       with the example 《詩小雅》節彼南山, but gives no explanation.
     - The entry in 《集韻》 does not have this example,
       but gives the explanation ::山高峻[貌]:: "lofty",
-      with the alternative forms 𡵒^ (⿱巳山) and 𡾃^ (⿰⿱山雀戈).
-      Of these, the form 𡵒^ (⿱巳山) is perhaps a sloppy version of ⿱㔾山,
+      with the alternative forms {𡵒=⿱巳山} and {𡾃=⿰⿱山雀戈}.
+      Of these, the form {𡵒=⿱巳山} is perhaps a sloppy version of ⿱㔾山,
       i.e. "knot" + "mountain".
     - In 《廣韻》 under the reading 昨結切 _ts(i/)t(9)_ (zit6)
       there is the character ⿱⿴㔾丶山.
-      The top component 𭅲^ (⿴㔾丶) is a stylised 卪,
+      The top component {𭅲=⿴㔾丶} is a stylised 卪,
       so again we have "knot" + "mountain".
       The explanation is 山峯又子結切, i.e. "mountain summit"
       with the alternative reading 子結切 _ts(i/)t(8)_ (zit3)
       (which appears to be a genuine alternative, *not* a cross-reference).
-    - Kangxi has neither 𡵒^ (⿱巳山) nor ⿱㔾山 nor 𭅲^ (⿴㔾丶),
+    - Kangxi has neither {𡵒=⿱巳山} nor ⿱㔾山 nor {𭅲=⿴㔾丶},
       but instead has an entry for 岊 (⿱巴山).
       This seems to be sloppy formatting of the "knot" component as 巴
       based on the similar shape of the seal character for 卪 "knot".
