@@ -303,12 +303,9 @@ E
   ====
   - 【得敕】 (dak1 cik1) <## TODO move under 得 dak1 ##>
     ++
-    1. Smug.
+    1. Smug. The spelling 敕 for cik1 is arbitrary.
     ++
   ====
-  --
-  The spelling 敕 for cik1 is arbitrary.
-  --
 $$
 
 ### 斥1 | _Ch(')ik(7)_ [[cik1]]
