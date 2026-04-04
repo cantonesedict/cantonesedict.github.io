@@ -1346,6 +1346,9 @@ E
        ==
     ++
   ====
+  --
+  The spelling {𡃴=⿰口隨} is arbitrary.
+  --
 $$
 
 ### 廚4 | _(4)Ch(')(u:)_ [[ceoi4]]

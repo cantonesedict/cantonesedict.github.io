@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceon
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-04-04
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -205,6 +205,9 @@ E
     1. A pebble.
     ++
   ====
+  --
+  The spelling 膥 is arbitrary (but well established).
+  --
 $$
 
 [wiktionary-春]: https://en.wiktionary.org/w/index.php?title=春&oldid=85392183#Etymology_2
