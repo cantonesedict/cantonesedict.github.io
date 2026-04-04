@@ -95,7 +95,8 @@ If you must refer to it in Chinese, then please call it 《英華分韻註》.
 It is my hope that this dictionary might help those
 who have a basic command of spoken Cantonese,
 but are unsure in the written language,
-as young Conway very much was.
+as young Conway very much was, growing up in Australia,
+but speaking what was effectively 1970s Hong Kong Cantonese at home.
 --
 --{.modern}
 This be the preface.
