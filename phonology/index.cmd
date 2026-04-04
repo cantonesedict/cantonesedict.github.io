@@ -1210,7 +1210,7 @@ I am aware of at least one type of intonation in Cantonese.
 When reading aloud a classical (or literary) sentence
 that ends in an interrogative particle (that is not tone~1),
 the interrogative particle is intoned with a somewhat abrupt switch
-to the high level-tone pitch at the end.
+to the high level-tone pitch towards the end of the syllable.
 --
 --{.modern}
 For example, in 操舟可學邪 "can handling of boats [be] learnt?",
