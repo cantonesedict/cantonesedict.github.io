@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Cantonese phonology
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-04-04
 * %copyright-prior-years --> 2024--
 * %meta-description --> Cantonese phonology
 
@@ -1201,6 +1201,21 @@ Examples of tone change include:
 Such tone changes are *not* tone sandhi,
 because they apply to specific words,
 rather than indiscriminately to certain sequences of tones.
+--
+
+####{#intonation .modern} Note on intonation
+
+--{.modern}
+I am aware of at least one type of intonation in Cantonese.
+When reading aloud a classical (or literary) sentence
+that ends in an interrogative particle (that is not tone~1),
+the interrogative particle is intoned with a somewhat abrupt switch
+to the high level-tone pitch at the end.
+--
+--{.modern}
+For example, in 操舟可學邪 "can handling of boats [be] learnt?",
+the particle 邪 je4 starts at the low level-tone pitch,
+but undergoes a quick change to end on the high level-tone pitch.
 --
 
 
