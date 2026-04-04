@@ -563,16 +563,16 @@ window.onload = applyFilter;
     , [份](/entries/fan#cantonese-份)
   //
     , fang4
-    , [揈](/entries/fang#cantonese-揈)
+    , [揈~(hit)](/entries/fang#cantonese-揈-hit)
   //
     , fang4
     , [訇](/entries/fang#cantonese-訇)
   //
     , fang6
-    , [揈](/entries/fang#cantonese-揈)
+    , [揈~(hit)](/entries/fang#cantonese-揈-hit)
   //
     , fang6
-    , [揈](/entries/fing#cantonese-揈)
+    , [揈~(swing)](/entries/fing#cantonese-揈-swing)
   //
     , fe1
     , [啡](/entries/fe#cantonese-啡)
@@ -608,7 +608,7 @@ window.onload = applyFilter;
     , [掝](/entries/fik#cantonese-掝)
   //
     , fing6
-    , [揈](/entries/fing#cantonese-揈)
+    , [揈~(swing)](/entries/fing#cantonese-揈-swing)
   //
     , fing6 tau4 jyun4-2
     , [揈頭丸](/entries/fing#cantonese-揈頭丸)

@@ -3133,6 +3133,7 @@ class Linter:
             Linter.lint_literary_rendering_fragment_duplication(literary_renderings)
             Linter.lint_literary_rendering_disambiguation_consistency(literary_renderings)
             Linter.lint_cantonese_entry_url_duplication(cantonese_entries)
+            Linter.lint_cantonese_entry_index_table_duplication(cantonese_entries)
             Linter.lint_cantonese_entry_disambiguation_consistency(cantonese_entries)
         except LintException as lint_exception:
             print(f'Error: {lint_exception.message}', file=sys.stderr)
@@ -3773,6 +3774,18 @@ class Linter:
         for url, collated_cantonese_entries in collated_cantonese_entries_from_url.items():
             if len(collated_cantonese_entries) > 1:
                 raise LintException(f'duplicated Cantonese entry URL `{url}`')
+
+    @staticmethod
+    def lint_cantonese_entry_index_table_duplication(cantonese_entries: list['CantoneseEntry']):
+        collated_cantonese_entries_from_index_tuple = Utilities.collate_firsts_by_second(
+            (cantonese_entry, (jyutping, cantonese_entry.term, cantonese_entry.disambiguation_suffix))
+            for cantonese_entry in cantonese_entries
+            for jyutping in cantonese_entry.jyutping_list
+        )
+
+        for index_tuple, collated_cantonese_entries in collated_cantonese_entries_from_index_tuple.items():
+            if len(collated_cantonese_entries) > 1:
+                raise LintException(f'duplicated Cantonese entry index tuple `{index_tuple}`')
 
     @staticmethod
     def lint_cantonese_entry_disambiguation_consistency(cantonese_entries: list['CantoneseEntry']):

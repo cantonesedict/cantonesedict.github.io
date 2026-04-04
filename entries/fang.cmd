@@ -69,7 +69,7 @@ W
   [[Not present]]
 E
   ====
-  - 【揈】 (fang4, fang6)
+  - 【揈-hit】 (fang4, fang6)
     ++
     1. To hit hard.
        ==

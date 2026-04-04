@@ -302,7 +302,7 @@ E
     ++
     1. Hanging and swinging about.
     ++
-  - 【揈】 (fing6, fang6)
+  - 【揈-swing】 (fing6, fang6)
     ++
     1. To swing, to flap, to shake.
        ==
