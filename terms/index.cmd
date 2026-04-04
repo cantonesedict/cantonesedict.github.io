@@ -370,6 +370,9 @@ window.onload = applyFilter;
     , ci5 joeng6-2
     , [似樣](/entries/ci#cantonese-似樣)
   //
+    , cik1
+    , [摵](/entries/cik#cantonese-摵)
+  //
     , cim1
     , [㔐](/entries/cim#cantonese-㔐)
   //

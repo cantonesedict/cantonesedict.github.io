@@ -52,6 +52,7 @@ $$
 - $叱1
 - $慼1
 - $戚1
+- $摵1
 - $敕1
 - $斥1
 - ($螫1)
@@ -214,6 +215,38 @@ L
     - (_noun-like_) kin
     ==
   ====
+$$
+
+###+ 摵1 | _Ts(')ik(7)_ [[cik1]]
+
+$$
+R
+  ⼿ + 11
+U
+  U+6475
+F
+  [[Not present]]
+W
+  [[Not present]]
+E
+  ====
+  - 【摵】 (cik1)
+    ++
+    1. To pull up, to lift up.
+       ==
+       - 摵唔起 (cik1 m4 hei2): "Can't lift [it] up."
+       - 摵起衫袖 (cik1 hei2 saam1 zau6): "Pull [the] sleeve up."
+       ==
+    1. To pull or throb painfully.
+    ++
+  ====
+  --
+  The spelling 摵 is arbitrary.
+  --
+S
+  ==
+  - $摵saak3 (TODO)
+  ==
 $$
 
 ### 敕1 | _Ch(')ik(7)_ [[cik1]]
