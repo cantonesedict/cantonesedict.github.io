@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cin
-* %date-modified --> 2026-03-26
+* %date-modified --> 2026-04-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -335,7 +335,7 @@ E
   Whilst 鞦韆 (cau1 cin1) "autumns thousand"
   is the form attested in Middle Chinese,
   Kangxi has commentary saying that
-  千秋 (cin1 cau1) "thousand autumns" is the original (being a well-wish),
+  千秋 (cin1 cau1) "thousand autumns" is the original (being a well-wish for longevity),
   with 秋千 (cau1 cin1) "autumns thousand" being a verbal corruption
   that later got spelt 鞦韆:
   --
