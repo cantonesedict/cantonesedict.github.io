@@ -552,7 +552,7 @@ E
     1. To thrust outward or down with the leg or the foot.
        ==
        - 一腳{𨅝=⿰𧾷牚}開 (jat1 goek3 jaang3 hoi1): "Thrust away [in] one [action] of the foot."
-       - {𨅝=⿰𧾷牚}樓梯 (jaang3 lau4 tai1): "Leg-thrust upon stairs" (i.e. climb stairs).
+       - {𨅝=⿰𧾷牚}樓梯 (jaang3 lau4 tai1): "Leg-thrust stairs" (i.e. climb stairs).
        ==
     1. To brace or support by extension of the leg.
     ++
