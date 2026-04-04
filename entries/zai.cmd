@@ -193,7 +193,7 @@ E
   ====
   - 【擠】 (zai1)
     ++
-    1. To put, or put down.
+    1. To put, or put down. The spelling 擠 is arbitrary (but well established).
        ==
        - 擠喺度 (zai1 hai2 dou6): "Put [it] over here."
        ==
@@ -728,6 +728,9 @@ E
        ==
     ++
   ====
+  --
+  The spelling 制 is arbitrary.
+  --
 $$
 
 ### 掣3 | _Chai(3)_ [[zai3]]

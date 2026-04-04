@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaat
-* %date-modified --> 2026-03-04
+* %date-modified --> 2026-04-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -96,6 +96,9 @@ E
     1. To jump up and down rapidly.
     ++
   ====
+  --
+  The spelling 扎 in these terms is arbitrary (but well established).
+  --
 $$
 
 ### 札3 | _Ch(a/)t(8)_ [[zaat3]]

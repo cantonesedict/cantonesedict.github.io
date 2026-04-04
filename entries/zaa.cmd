@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaa
-* %date-modified --> 2026-03-01
+* %date-modified --> 2026-04-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -79,23 +79,6 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - Modern Cantonese dictionaries indicate a reading of zi1 maa3 for 之嘛.
-    I disagree with this reading for three reasons:
-    ++
-    1. I have only heard za1 maa3.
-    2. I believe that 之嘛 (za1 maa3)
-       is a contraction of 啫 (ze1) + 吖嘛 (a1 maa3),
-       in the same way that {𠺢=⿰口家}嘛 (ga1 maa3)
-       is shortened from 嘅 (ge3) + 吖嘛 (a1 maa3).
-    3. I believe that any insistence on the reading of zi1 maa3
-       is a case of incorrectly letting the spelling
-       dictate the pronunciation.
-       It would be more helpful if za1 maa3 were written {𠾵=⿰口揸}嘛 instead,
-       but unfortunately the spelling 之嘛 is already well established.
-    ++
-  ==
 E
   ====
   - 【之嘛】 (za1 maa3)
@@ -107,6 +90,25 @@ E
       ==
     ++
   ====
+  --
+  The spelling 之嘛 is arbitrary (but well established).
+  --
+  --
+  Modern Cantonese dictionaries indicate a reading of zi1 maa3 for 之嘛.
+  I disagree with this reading for three reasons:
+  --
+  ++
+  1. I have only heard za1 maa3.
+  2. I believe that 之嘛 (za1 maa3)
+     is a contraction of 啫 (ze1) + 吖嘛 (a1 maa3),
+     in the same way that {𠺢=⿰口家}嘛 (ga1 maa3)
+     is shortened from 嘅 (ge3) + 吖嘛 (a1 maa3).
+  3. I believe that any insistence on the reading of zi1 maa3
+     is a case of incorrectly letting the spelling
+     dictate the pronunciation.
+     It would be more helpful if za1 maa3 were written {𠾵=⿰口揸}嘛 instead,
+     but unfortunately the spelling 之嘛 is already well established.
+  ++
 S
   ==
   - $之zi1
@@ -280,6 +282,9 @@ E
       ==
     ++
   ====
+  --
+  The spelling 揸 is arbitrary (but well established).
+  --
 $$
 
 ### 撾1 | _(1)Ch(a/)_ [[zaa1]]
@@ -537,6 +542,9 @@ E
       ==
     ++
   ====
+  --
+  The spellings 揦鮓 and 鮓 are arbitrary.
+  --
 S
   ==
   - $鮓zaa6
@@ -697,6 +705,9 @@ E
       ==
     ++
   ====
+  --
+  The spelling 咋 is arbitrary.
+  --
 S
   ==
   - $咋zaak3
@@ -1019,6 +1030,9 @@ E
     1. To pretend.
     ++
   ====
+  --
+  The spelling 諦 for dai3 is arbitrary (but well established).
+  --
 $$
 
 ### 醡3 | _Ch(a/)(3)_ [[zaa3]]
@@ -1082,6 +1096,9 @@ E
       ==
     ++
   ====
+  --
+  The spelling 喳 is arbitrary.
+  --
 $$
 
 
@@ -1119,6 +1136,9 @@ E
     1. Used in [掗拃](ngaa#cantonese-掗拃). (TODO)
     ++
   ====
+  --
+  The spelling 拃 is arbitrary.
+  --
   <## TODO: 揦返拃沙 laa2 faan1 zaa6 saa1 ##>
 $$
 

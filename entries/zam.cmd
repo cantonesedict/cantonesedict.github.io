@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zam
-* %date-modified --> 2026-03-19
+* %date-modified --> 2026-04-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -775,6 +775,9 @@ E
        ==
     ++
   ====
+  --
+  The spelling 浸 is arbitrary.
+  --
 S
   ==
   - $浸cam1
@@ -907,6 +910,9 @@ E
        ==
     ++
   ====
+  --
+  The spelling {𠹻=⿰口朕} is arbitrary.
+  --
 $$
 
 ### 朕6 | _Cham(6)_ [[zam6]]

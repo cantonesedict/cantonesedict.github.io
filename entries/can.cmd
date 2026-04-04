@@ -1082,7 +1082,7 @@ E
   --
   There is also the extended version 沙塵白霍,
   but that leads into a rabbit hole of debate about the origins of the phrase,
-  and whether 塵 should be written 陳, and whether 霍 should be written 攉 or 醭.
+  and whether 塵 should be spelt 陳, and whether 霍 should be spelt 攉 or 醭.
   --
 $$
 

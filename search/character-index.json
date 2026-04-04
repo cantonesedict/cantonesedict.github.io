@@ -1114,7 +1114,7 @@
 "棖":{
 "caam5":{
 "isCanonical":true,
-"text":"U+68D6 caan5 (per Williams) (Page 20|n63 棖 _Ch'an_ (caan5); here normalised to _Ch'am_ (caam5)) A colloquial word. A door sill; a threshold; _k'i mun ~~ch'an~~ ``ch'am``_ (kei5 mun4 caam5 企門棖), standing in the door-way. 【門棖】 (mun4 caam5) A doorsill."
+"text":"U+68D6 caan5 (per Williams) (Page 20|n63 棖 _Ch'an_ (caan5); here normalised to _Ch'am_ (caam5)) A colloquial word. A door sill; a threshold; _k'i mun ~~ch'an~~ ``ch'am``_ (kei5 mun4 caam5 企門棖), standing in the door-way. 【門棖】 (mun4 caam5) A doorsill. The spelling 棖 is arbitrary."
 },
 "caan5":{
 "isCanonical":false,
@@ -1222,7 +1222,7 @@
 },
 "zaang6":{
 "isCanonical":true,
-"text":"U+6399 (Page 21|n64 掙) A colloquial word. To caulk; to wedge in, to squeeze in, to force in; _ta chang_ (daa2 zaang6 打掙) to caulk seams; _chang nga_ (zaang6 ngaa4 掙牙), to get between the teeth; _chang sha kai_ (zaang6 saa1 gai1 掙沙雞), to stuff a cock with sand; _ngang chang_ (ngaang6 zaang6 硬掙) determined, energetic, as in bearing pain. Williams' 硬掙: Corrected _chang_ (zaang3) to _chang_ (zaang6). 【掙】 (zaang6) To wedge in or stuff in, especially for the purposes of sealing off or widening. 掙住 (zaang6 zyu6): \"It's wedged in and stuck.\" 掙闊啲 (zaang6 fut3 di1): \"Wedge the gap and make it wider.\" 掙爆咗 (zaang6 baau3 zo2): \"Burst from stuffing.\""
+"text":"U+6399 (Page 21|n64 掙) A colloquial word. To caulk; to wedge in, to squeeze in, to force in; _ta chang_ (daa2 zaang6 打掙) to caulk seams; _chang nga_ (zaang6 ngaa4 掙牙), to get between the teeth; _chang sha kai_ (zaang6 saa1 gai1 掙沙雞), to stuff a cock with sand; _ngang chang_ (ngaang6 zaang6 硬掙) determined, energetic, as in bearing pain. Williams' 硬掙: Corrected _chang_ (zaang3) to _chang_ (zaang6). 【掙】 (zaang6) To wedge in or stuff in, especially for the purposes of sealing off or widening. 掙住 (zaang6 zyu6): \"It's wedged in and stuck.\" 掙闊啲 (zaang6 fut3 di1): \"Wedge the gap and make it wider.\" 掙爆咗 (zaang6 baau3 zo2): \"Burst from stuffing.\" The spelling 掙 is arbitrary."
 },
 "zang1":{
 "isCanonical":true,
@@ -1630,7 +1630,7 @@
 },
 "zam3":{
 "isCanonical":true,
-"text":"U+6D78 湛 zam6 (for vernacular \"drown\" sense) (F2.38 浸) 漬也潤也 (Page 15|n58 浸 _Cham_) A colloquial word. A coat, as of paint; a thickness, an envelop, a skin; _ts'at sam cham_ (cat1 saam1 zam3 漆三浸) varnished it three times; _mok yat cham p'i_ (mok1 jat1 zam3 pei4 剝一浸皮), pull off one covering. (Page 16|n59 湛 _Cham_ (zaam3); here corrected to _Tsam_ (zam3) and normalised to 浸) to soak, to immerse, to imbibe, as a sponge (Kangxi: 與浸同漬也); to plunge in (Kangxi: 投物水中也); (Page 551 浸 _Tsam_) To soak through, to penetrate (Kangxi: 漬也); to saturate, to steep in, to macerate, to wet (Kangxi: 潤也); to submerge, to immerse (Kangxi: 沒也); to flood, to lay under water, as fields (Kangxi: 涵也沈也澤之總名也); drenched, wet, imbued with, watered; gradually, gently (Kangxi: 漸也); _tsam sz'_ (zam3 sei2 浸死) drowned; _tsam t'ong_ (zam3 tong4 浸糖) soaked in syrup; _tsam yun_ (zam3 jeon6 浸潤) to imbue with, to prejudice against, to bias; _tsam cha_ (zam3 zaa6 浸？) niggardly, closefisted; _shui tsam_ (seoi2 zam3 水浸) overflowed``, flooded``; _hon tsam hung ngan_ (hon6 zam3 hung4 ngaan4 汗浸紅顏), the perspiration rolled down his face; _tsam shap_ (zam3 sap1 浸濕) wet it, soak it; _pi shui tsam chu_ (bei2 seoi2 zam3 zyu6 畀水浸住) cover it with water; _tsam tsau_ (zam3 zau2 浸酒), spirits in which fruits have been soaked; _tsam yap sam_ (zam3 jap6 sam1 浸入心), it is wet through. Some hold that the reading variation zam6 for the vernacular \"drown\" sense is from Middle Chinese 直禁切 _cham_ (zam6) for 沈 (now spelt 沉). For this departing-tone reading of 沈, note that: 《廣韻》 provides no explanation (it simply cross-references the level-tone reading _ch'am_ (cam4) as 又直壬切). 《集韻》 has the explanation 沒也. Kangxi has 亦沒也 followed by the alternative sense 一曰投物水中也. Williams' 汗浸紅顏: Although 紅顏 does not preclude men, it is generally used to describe a lady's face. 【浸】 (tsimH) (_verb-like_) to soak, to immerse, (_met._) lake (_adverb-like_) gradually 【浸】 (zam3) Classifier for layers. 剷甩浸油 (caan2 lat1 zam3 jau4-2): \"Strip away the layer of paint.\" 有浸肥膏 (jau5 zam3 fei4 gou1): \"There's a layer of fat.\""
+"text":"U+6D78 湛 zam6 (for vernacular \"drown\" sense) (F2.38 浸) 漬也潤也 (Page 15|n58 浸 _Cham_) A colloquial word. A coat, as of paint; a thickness, an envelop, a skin; _ts'at sam cham_ (cat1 saam1 zam3 漆三浸) varnished it three times; _mok yat cham p'i_ (mok1 jat1 zam3 pei4 剝一浸皮), pull off one covering. (Page 16|n59 湛 _Cham_ (zaam3); here corrected to _Tsam_ (zam3) and normalised to 浸) to soak, to immerse, to imbibe, as a sponge (Kangxi: 與浸同漬也); to plunge in (Kangxi: 投物水中也); (Page 551 浸 _Tsam_) To soak through, to penetrate (Kangxi: 漬也); to saturate, to steep in, to macerate, to wet (Kangxi: 潤也); to submerge, to immerse (Kangxi: 沒也); to flood, to lay under water, as fields (Kangxi: 涵也沈也澤之總名也); drenched, wet, imbued with, watered; gradually, gently (Kangxi: 漸也); _tsam sz'_ (zam3 sei2 浸死) drowned; _tsam t'ong_ (zam3 tong4 浸糖) soaked in syrup; _tsam yun_ (zam3 jeon6 浸潤) to imbue with, to prejudice against, to bias; _tsam cha_ (zam3 zaa6 浸？) niggardly, closefisted; _shui tsam_ (seoi2 zam3 水浸) overflowed``, flooded``; _hon tsam hung ngan_ (hon6 zam3 hung4 ngaan4 汗浸紅顏), the perspiration rolled down his face; _tsam shap_ (zam3 sap1 浸濕) wet it, soak it; _pi shui tsam chu_ (bei2 seoi2 zam3 zyu6 畀水浸住) cover it with water; _tsam tsau_ (zam3 zau2 浸酒), spirits in which fruits have been soaked; _tsam yap sam_ (zam3 jap6 sam1 浸入心), it is wet through. Some hold that the reading variation zam6 for the vernacular \"drown\" sense is from Middle Chinese 直禁切 _cham_ (zam6) for 沈 (now spelt 沉). For this departing-tone reading of 沈, note that: 《廣韻》 provides no explanation (it simply cross-references the level-tone reading _ch'am_ (cam4) as 又直壬切). 《集韻》 has the explanation 沒也. Kangxi has 亦沒也 followed by the alternative sense 一曰投物水中也. Williams' 汗浸紅顏: Although 紅顏 does not preclude men, it is generally used to describe a lady's face. 【浸】 (tsimH) (_verb-like_) to soak, to immerse, (_met._) lake (_adverb-like_) gradually 【浸】 (zam3) Classifier for layers. 剷甩浸油 (caan2 lat1 zam3 jau4-2): \"Strip away the layer of paint.\" 有浸肥膏 (jau5 zam3 fei4 gou1): \"There's a layer of fat.\" The spelling 浸 is arbitrary."
 },
 "zam6":{
 "isCanonical":false,
@@ -1890,7 +1890,7 @@
 "塵":{
 "can4":{
 "isCanonical":true,
-"text":"U+5875 (F1.82 塵) 塵上塵埃 (Page 18|n61 塵) Dust, small particles (Kangxi: 埃也); effluvia, atoms, molecules; the world; worldly vice and pleasures; confused times; _ch'an t'au tai_ (can4 tau4 daai6 塵頭大) a cloud of dust; _sai ch'an_ (sai2 can4 洗塵), to wash down the dust, to give a feast to friends come back; _po hau ch'an_ (bou6 hau6 can4 步後塵), to follow another's example; _ch'an oi_ (can4 oi1 塵埃), dust; _ch'an kau_ (can4 gau3 塵垢), covered with dust; _fung ch'an_ (fung1 can4 風塵), dusty from travel; _mo yat tim ch'an_ (mou4 jat1 dim2 can4 無一點塵), clean; _ch'an tsuk_ (can4 zuk6 塵俗), _ch'an shai_ (can4 sai3 塵世), or _hung ch'an_ (hung4 can4 紅塵), the dusty world; _fat ch'an_ (fat1 can4 拂塵), to dust. Williams' \"confused times\": Especially warfare. Williams' 塵垢: Changed _kau_ (gau2) to common reading _kau_ (gau3). 【塵】 (drin) (_noun-like_) dust 【沙塵】 (saa1 can4) Arrogant or cocky. 咁沙塵 (gam3 saa1 can4): \"So arrogant of him.\" There is also the extended version 沙塵白霍, but that leads into a rabbit hole of debate about the origins of the phrase, and whether 塵 should be written 陳, and whether 霍 should be written 攉 or 醭."
+"text":"U+5875 (F1.82 塵) 塵上塵埃 (Page 18|n61 塵) Dust, small particles (Kangxi: 埃也); effluvia, atoms, molecules; the world; worldly vice and pleasures; confused times; _ch'an t'au tai_ (can4 tau4 daai6 塵頭大) a cloud of dust; _sai ch'an_ (sai2 can4 洗塵), to wash down the dust, to give a feast to friends come back; _po hau ch'an_ (bou6 hau6 can4 步後塵), to follow another's example; _ch'an oi_ (can4 oi1 塵埃), dust; _ch'an kau_ (can4 gau3 塵垢), covered with dust; _fung ch'an_ (fung1 can4 風塵), dusty from travel; _mo yat tim ch'an_ (mou4 jat1 dim2 can4 無一點塵), clean; _ch'an tsuk_ (can4 zuk6 塵俗), _ch'an shai_ (can4 sai3 塵世), or _hung ch'an_ (hung4 can4 紅塵), the dusty world; _fat ch'an_ (fat1 can4 拂塵), to dust. Williams' \"confused times\": Especially warfare. Williams' 塵垢: Changed _kau_ (gau2) to common reading _kau_ (gau3). 【塵】 (drin) (_noun-like_) dust 【沙塵】 (saa1 can4) Arrogant or cocky. 咁沙塵 (gam3 saa1 can4): \"So arrogant of him.\" There is also the extended version 沙塵白霍, but that leads into a rabbit hole of debate about the origins of the phrase, and whether 塵 should be spelt 陳, and whether 霍 should be spelt 攉 or 醭."
 }
 },
 "蔯":{
@@ -5832,7 +5832,7 @@
 "串":{
 "cyun3":{
 "isCanonical":true,
-"text":"U+4E32 (F2.23 串) 穿也貫也 (Page 38* 串) To string together (Kangxi: 物相連貫也與穿讀去聲通穿亦作串); to connect; leagued or banded; a string of; _yat ch'un ts'in_ (jat1 cyun3 cin4 一串錢), a string of cash; _yat ch'un p'au_ (jat1 cyun3 paau3 一串炮) a string of crackers; _ch'un kai_ (cyun3 gai3 串計) to intrigue; _ch'un t'au_ (cyun3 tau4 串頭), a plan to swindle; _ch'un mai_ (cyun3 maai4 串埋), to make a party or band. Cognate with the (now obsolete) departing-tone reading of 穿. To play a role, to perform. 【串】 (cyun3) To spell (of words in an alphabetic language). 點串啊 (dim2 cyun3 a3): \"How do you spell it?\" 唔識串 (m4 sik1 cyun3): \"I don't know how to spell it.\" Arrogant, cocky. The spelling 串 is arbitrary for the \"arrogant/cocky\" sense."
+"text":"U+4E32 (F2.23 串) 穿也貫也 (Page 38* 串) To string together (Kangxi: 物相連貫也與穿讀去聲通穿亦作串); to connect; leagued or banded; a string of; _yat ch'un ts'in_ (jat1 cyun3 cin4 一串錢), a string of cash; _yat ch'un p'au_ (jat1 cyun3 paau3 一串炮) a string of crackers; _ch'un kai_ (cyun3 gai3 串計) to intrigue; _ch'un t'au_ (cyun3 tau4 串頭), a plan to swindle; _ch'un mai_ (cyun3 maai4 串埋), to make a party or band. Cognate with the (now obsolete) departing-tone reading of 穿. To play a role, to perform. 【串】 (cyun3) To spell (of words in an alphabetic language). 點串啊 (dim2 cyun3 a3): \"How do you spell it?\" 唔識串 (m4 sik1 cyun3): \"I don't know how to spell it.\" Arrogant, cocky. The spelling 串 is arbitrary."
 }
 },
 "寸":{
@@ -7516,7 +7516,7 @@
 "之":{
 "zaa1":{
 "isCanonical":true,
-"text":"U+4E4B za1 (shorter syllable) Modern Cantonese dictionaries indicate a reading of zi1 maa3 for 之嘛. I disagree with this reading for three reasons: I have only heard za1 maa3. I believe that 之嘛 (za1 maa3) is a contraction of 啫 (ze1) + 吖嘛 (a1 maa3), in the same way that 𠺢嘛 (ga1 maa3) is shortened from 嘅 (ge3) + 吖嘛 (a1 maa3). I believe that any insistence on the reading of zi1 maa3 is a case of incorrectly letting the spelling dictate the pronunciation. It would be more helpful if za1 maa3 were written 𠾵嘛 instead, but unfortunately the spelling 之嘛 is already well established. 【之嘛】 (za1 maa3) A final particle of limitation, especially used defensively. 講笑之嘛 (gong2 siu3 za1 maa3): \"Just kidding!\" 等兩日之嘛 (dang2 loeng5 jat6 za1 maa3): \"It's just a two-day wait.\""
+"text":"U+4E4B za1 (shorter syllable) 【之嘛】 (za1 maa3) A final particle of limitation, especially used defensively. 講笑之嘛 (gong2 siu3 za1 maa3): \"Just kidding!\" 等兩日之嘛 (dang2 loeng5 jat6 za1 maa3): \"It's just a two-day wait.\" The spelling 之嘛 is arbitrary (but well established). Modern Cantonese dictionaries indicate a reading of zi1 maa3 for 之嘛. I disagree with this reading for three reasons: I have only heard za1 maa3. I believe that 之嘛 (za1 maa3) is a contraction of 啫 (ze1) + 吖嘛 (a1 maa3), in the same way that 𠺢嘛 (ga1 maa3) is shortened from 嘅 (ge3) + 吖嘛 (a1 maa3). I believe that any insistence on the reading of zi1 maa3 is a case of incorrectly letting the spelling dictate the pronunciation. It would be more helpful if za1 maa3 were written 𠾵嘛 instead, but unfortunately the spelling 之嘛 is already well established."
 },
 "zi1":{
 "isCanonical":true,
@@ -7538,7 +7538,7 @@
 "揸":{
 "zaa1":{
 "isCanonical":true,
-"text":"U+63F8 (Page 7 㪥; here corrected to 揸) _cha ye_ (zaa1 je5 揸嘢), to handle. (Page 7 揸) A unauthorized character. To grasp, to grab, to clutch; to hold or take firmly; to work, as a bellows; to use; a handful; _cha fung seung_ (zaa1 fung1 soeng1 揸風箱), to work a bellows; _cha yat tai cha_ (zaa1 jat1 daai6 zaa1 揸一大揸), grab a big handful; _cha kan_ (zaa1 gan2 揸緊), hold it fast; _cha t'an_ (zaa1 taan1 揸攤), to keep a gambling-table; _cha tak wan_ (zaa1 dak1 wan2 揸得穩), I hold it safely; _cha shui chu yuk_ (zaa1 seoi2 zyu1 juk6 揸水豬肉) water-sogged pork; _cha fo t'ung_ (zaa1 fo2 tung4 揸火筒), to be a scullion; _yau cha shau_ (jau5 zaa1 sau2 有揸手) I have security; _mo cha na_ (mou5 zaa1 naa4 冇揸拿), nothing to hold on by; a Budhist priest is so nicknamed; _cha k'un t'au_ (zaa1 kyun4 tau4 揸拳頭), to double up the fist; _cha chu kai tsai_ (zaa1 zyu6 gai3 zai2 揸住髻仔), to grab him by the tail; _cha lan_ (zaa1 laan6 揸爛) to crush in the hand. 【揸】 (zaa1) To hold, to grasp, to control. 揸兜 (zaa1 dau1): \"Hold a shallow-bowl\" (i.e. be a beggar). 揸拿 (zaa1 naa4): \"A grasp of the situation.\" 揸筷子 (zaa1 faai3 zi2): \"Control chopsticks.\" To drive a vehicle. 揸棍波 (zaa1 gwan3 bo1): \"Drive stick.\" 揸車 (zaa1 ce1): \"Drive a car.\""
+"text":"U+63F8 (Page 7 㪥; here corrected to 揸) _cha ye_ (zaa1 je5 揸嘢), to handle. (Page 7 揸) A unauthorized character. To grasp, to grab, to clutch; to hold or take firmly; to work, as a bellows; to use; a handful; _cha fung seung_ (zaa1 fung1 soeng1 揸風箱), to work a bellows; _cha yat tai cha_ (zaa1 jat1 daai6 zaa1 揸一大揸), grab a big handful; _cha kan_ (zaa1 gan2 揸緊), hold it fast; _cha t'an_ (zaa1 taan1 揸攤), to keep a gambling-table; _cha tak wan_ (zaa1 dak1 wan2 揸得穩), I hold it safely; _cha shui chu yuk_ (zaa1 seoi2 zyu1 juk6 揸水豬肉) water-sogged pork; _cha fo t'ung_ (zaa1 fo2 tung4 揸火筒), to be a scullion; _yau cha shau_ (jau5 zaa1 sau2 有揸手) I have security; _mo cha na_ (mou5 zaa1 naa4 冇揸拿), nothing to hold on by; a Budhist priest is so nicknamed; _cha k'un t'au_ (zaa1 kyun4 tau4 揸拳頭), to double up the fist; _cha chu kai tsai_ (zaa1 zyu6 gai3 zai2 揸住髻仔), to grab him by the tail; _cha lan_ (zaa1 laan6 揸爛) to crush in the hand. 【揸】 (zaa1) To hold, to grasp, to control. 揸兜 (zaa1 dau1): \"Hold a shallow-bowl\" (i.e. be a beggar). 揸拿 (zaa1 naa4): \"A grasp of the situation.\" 揸筷子 (zaa1 faai3 zi2): \"Control chopsticks.\" To drive a vehicle. 揸棍波 (zaa1 gwan3 bo1): \"Drive stick.\" 揸車 (zaa1 ce1): \"Drive a car.\" The spelling 揸 is arbitrary (but well established)."
 }
 },
 "撾":{
@@ -7580,7 +7580,7 @@
 "鮓":{
 "zaa2":{
 "isCanonical":true,
-"text":"U+9B93 (F2.75 鮓) 魚鮓肉鮓 (Page 7 鮓) A rank condiment of fish or flesh and salted hashed fine, with red rice and oil (Kangxi: 藏魚也 etc.); _la cha_ (laa5 zaa2 揦鮓), rank, dirty, foul. Williams' 揦鮓: Corrected _la_ (laa6) to _la_ (laa5). 【揦鮓】 (laa5 zaa2) Dirty. 𨋢掣揦鮓 (lip1 zai3 laa5 zaa2): \"The lift button is dirty.\" 【鮓】 (zaa2) Low quality or crappy. 咁鮓 (gam3 zaa2): \"How is it so crappy?\" 鮓嘢 (zaa2 je5): \"A crappy thing.\""
+"text":"U+9B93 (F2.75 鮓) 魚鮓肉鮓 (Page 7 鮓) A rank condiment of fish or flesh and salted hashed fine, with red rice and oil (Kangxi: 藏魚也 etc.); _la cha_ (laa5 zaa2 揦鮓), rank, dirty, foul. Williams' 揦鮓: Corrected _la_ (laa6) to _la_ (laa5). 【揦鮓】 (laa5 zaa2) Dirty. 𨋢掣揦鮓 (lip1 zai3 laa5 zaa2): \"The lift button is dirty.\" 【鮓】 (zaa2) Low quality or crappy. 咁鮓 (gam3 zaa2): \"How is it so crappy?\" 鮓嘢 (zaa2 je5): \"A crappy thing.\" The spellings 揦鮓 and 鮓 are arbitrary."
 },
 "zaa6":{
 "isCanonical":true,
@@ -7596,7 +7596,7 @@
 "咋":{
 "zaa3":{
 "isCanonical":true,
-"text":"U+548B za3 (shorter syllable for vernacular sense) (Page 8 咋) A colloquial particle implying doubt, perhaps; also a final sound, implying it is so; I understand it: _kom yeung cha_ (gam2 joeng6-2 zaa3 噉樣咋) so will do, eh! 【咋】 (za3, zaa3) A final particle of limitation. 三個人咋 (saam1 go3 jan4-2 za3): \"Only three people.\""
+"text":"U+548B za3 (shorter syllable for vernacular sense) (Page 8 咋) A colloquial particle implying doubt, perhaps; also a final sound, implying it is so; I understand it: _kom yeung cha_ (gam2 joeng6-2 zaa3 噉樣咋) so will do, eh! 【咋】 (za3, zaa3) A final particle of limitation. 三個人咋 (saam1 go3 jan4-2 za3): \"Only three people.\" The spelling 咋 is arbitrary."
 },
 "zaak3":{
 "isCanonical":true,
@@ -7634,7 +7634,7 @@
 "詐":{
 "zaa3":{
 "isCanonical":true,
-"text":"U+8A50 (F2.76 詐) 好僞也 (Page 8 詐) To deceive, to cheat, to impose upon (Kangxi: 欺也); erroneous, false (Kangxi: 僞也); to feign, to make believe; artful, cunning (Kangxi: 詭譎也); fraudulent; _cha kwai cha ma_ (zaa3 gwai2 zaa3 maa5 詐鬼詐馬), pretending to act like a fool; _ngo cha_ (ngo4 zaa3 訛詐) to extort money falsely; _kan cha_ (gaan1 zaa3 奸詐) to delude; _cha ka i_ (zaa3 gaa2-1 ji3-1 詐假意), false; _cha ngai_ (zaa3 ngai6 詐偽) to humbug, suppositious; _cha fan_ (zaa3 fan3 詐瞓) to sham sleep; _cha ching ki_ (zaa3 zing3 gei3 詐正記) to feign to be good. 【詐】 (tsraeH) (_verb-like_) to deceive, (_met._) cunning 【詐諦】 (zaa3 dai3) To pretend."
+"text":"U+8A50 (F2.76 詐) 好僞也 (Page 8 詐) To deceive, to cheat, to impose upon (Kangxi: 欺也); erroneous, false (Kangxi: 僞也); to feign, to make believe; artful, cunning (Kangxi: 詭譎也); fraudulent; _cha kwai cha ma_ (zaa3 gwai2 zaa3 maa5 詐鬼詐馬), pretending to act like a fool; _ngo cha_ (ngo4 zaa3 訛詐) to extort money falsely; _kan cha_ (gaan1 zaa3 奸詐) to delude; _cha ka i_ (zaa3 gaa2-1 ji3-1 詐假意), false; _cha ngai_ (zaa3 ngai6 詐偽) to humbug, suppositious; _cha fan_ (zaa3 fan3 詐瞓) to sham sleep; _cha ching ki_ (zaa3 zing3 gei3 詐正記) to feign to be good. 【詐】 (tsraeH) (_verb-like_) to deceive, (_met._) cunning 【詐諦】 (zaa3 dai3) To pretend. The spelling 諦 for dai3 is arbitrary (but well established)."
 }
 },
 "醡":{
@@ -7646,13 +7646,13 @@
 "喳":{
 "zaa4":{
 "isCanonical":true,
-"text":"U+55B3 za4 (shorter syllable) 【喳】 (za4, zaa4) An interrogative-ish final particle of limitation, suspicion, disappointment, etc. 三個人喳 (saam1 go3 jan4 za4): \"Only three people?\""
+"text":"U+55B3 za4 (shorter syllable) 【喳】 (za4, zaa4) An interrogative-ish final particle of limitation, suspicion, disappointment, etc. 三個人喳 (saam1 go3 jan4 za4): \"Only three people?\" The spelling 喳 is arbitrary."
 }
 },
 "拃":{
 "zaa6":{
 "isCanonical":true,
-"text":"U+62C3 【拃】 (zaa6) A handful or a bunch. 拃波子 (zaa6 bo1 zi2): \"A handful of marbles.\" 嗰拃人 (go2 zaa6 jan4): \"That bunch of people.\" Used in 掗拃"
+"text":"U+62C3 【拃】 (zaa6) A handful or a bunch. 拃波子 (zaa6 bo1 zi2): \"A handful of marbles.\" 嗰拃人 (go2 zaa6 jan4): \"That bunch of people.\" Used in 掗拃 The spelling 拃 is arbitrary."
 }
 },
 "斋":{
@@ -7664,7 +7664,7 @@
 "齋":{
 "zaai1":{
 "isCanonical":true,
-"text":"U+9F4B 斋 齊 (F2.25 齊) 竹佳切莊也恭也潔也洗心曰齊 (F2.25 齋) 齋成又燕居之室曰齋 (F2.25 斋) 同上 (Page 10|n53 齋~~？~~``斋``) To respect, to reverence (Kangxi 齋: 恭也, 齋敬也); to abstain from (Kangxi 齋: 潔也, 洗心曰齋); pure, reverential, serious (Kangxi 齋: 莊也); a retiring room, a closet (Kangxi 齋: 燕居之室曰齋); _ta chai_ (daa2 zaai1 打齋), to get a soul out of tartarus; _ta chai hok_ (daa2 zaai1 hok6-2 打齋鶴) storks for the soul to ride to heaven; _met._ a pander; _tai sz' chai_ (daai6 si6 zaai1 大士齋), offerings before the purveyor of hungry spirits; _han chai_ (haan4 zaai1 閒齋), a closet; _shu chai_ (syu1 zaai1 書齋), a library; _ts'ing chai_ (cing1 zaai1 清齋), an entire fast; _lo chai_ (lo2 zaai1 攞齋), to beg vegetables; _chai kai_ (zaai1 gaai3 齋戒) to fast from animal food; _chai tsiu_ (zaai1 ziu3 齋醮) to fast at All-souls; _shik chai_ (sik6 zaai1 食齋), to fast on vegetables; _lo hon chai_ (lo4 hon3 zaai1 羅漢齋), all sorts of vegetables; _chai ku_ (zaai1 geoi1 齋居), to live at ease; _chai chong_ (zaai1 zong1 齋莊), respectful, reverential. A colloquial word. A final particle denoting that it was said, that it is so; _mat yan wa chai_ (mat1 jan4 waa6 zaai1 乜人話齋), somebody has said; _ho ts'z' k'u wa chai_ (hou2 ci5 keoi5 waa6 zaai1 好似佢話齋), just as he said. (Page 10|n53 齊) Interchanged with the last (齋) (Kangxi: 與齋同). To respect; decorous; the heart pure, to chasten the desires. Williams' 齋戒: Properly, to abstain from all pleasures (meat, alcohol, sex). Williams' 齋醮: Corrected _tsiu_ (ziu6) to _tsiu_ (ziu3). Williams' 羅漢齋: The name of a dish, commonly called Buddha's Delight. 【齋】 (tsreaj) (_verb-like_) to purify by abstinence 【話齋】 (waa6 zaai1) Emphatic form of \"as he said\". 好似佢話齋 (hou2 ci5 keoi5 waa6 zaai1): \"As he said.\" 【齋】 (zaai1) Vegetarian food. 初一十五食齋 (co1 jat1 sap6 ng5 sik6 zaai1): \"Eating vegetarian on the first and fifteenth of the lunar month.\" 齋口唔齋心 (zaai1 hau2 m4 zaai1 sam1): \"Vegetarian in mouth but not vegetarian at heart\" (said of vegetarians that eat imitation meat). Plain, pure, etc. 齋啡 (zaai1 fe1): \"Straight coffee.\" 齋腸 (zaai1 coeng4-2): \"Plain rice-noodle rolls.\" 齋噏 (zaai1 ngap1): \"Purely blabbering.\""
+"text":"U+9F4B 斋 齊 (F2.25 齊) 竹佳切莊也恭也潔也洗心曰齊 (F2.25 齋) 齋成又燕居之室曰齋 (F2.25 斋) 同上 (Page 10|n53 齋~~？~~``斋``) To respect, to reverence (Kangxi 齋: 恭也, 齋敬也); to abstain from (Kangxi 齋: 潔也, 洗心曰齋); pure, reverential, serious (Kangxi 齋: 莊也); a retiring room, a closet (Kangxi 齋: 燕居之室曰齋); _ta chai_ (daa2 zaai1 打齋), to get a soul out of tartarus; _ta chai hok_ (daa2 zaai1 hok6-2 打齋鶴) storks for the soul to ride to heaven; _met._ a pander; _tai sz' chai_ (daai6 si6 zaai1 大士齋), offerings before the purveyor of hungry spirits; _han chai_ (haan4 zaai1 閒齋), a closet; _shu chai_ (syu1 zaai1 書齋), a library; _ts'ing chai_ (cing1 zaai1 清齋), an entire fast; _lo chai_ (lo2 zaai1 攞齋), to beg vegetables; _chai kai_ (zaai1 gaai3 齋戒) to fast from animal food; _chai tsiu_ (zaai1 ziu3 齋醮) to fast at All-souls; _shik chai_ (sik6 zaai1 食齋), to fast on vegetables; _lo hon chai_ (lo4 hon3 zaai1 羅漢齋), all sorts of vegetables; _chai ku_ (zaai1 geoi1 齋居), to live at ease; _chai chong_ (zaai1 zong1 齋莊), respectful, reverential. A colloquial word. A final particle denoting that it was said, that it is so; _mat yan wa chai_ (mat1 jan4 waa6 zaai1 乜人話齋), somebody has said; _ho ts'z' k'u wa chai_ (hou2 ci5 keoi5 waa6 zaai1 好似佢話齋), just as he said. (Page 10|n53 齊) Interchanged with the last (齋) (Kangxi: 與齋同). To respect; decorous; the heart pure, to chasten the desires. Williams' 齋戒: Properly, to abstain from all pleasures (meat, alcohol, sex). Williams' 齋醮: Corrected _tsiu_ (ziu6) to _tsiu_ (ziu3). Williams' 羅漢齋: The name of a dish, commonly called Buddha's Delight. 【齋】 (tsreaj) (_verb-like_) to purify by abstinence 【話齋】 (waa6 zaai1) Emphatic form of \"as he said\". The spelling 齋 is arbitrary. 好似佢話齋 (hou2 ci5 keoi5 waa6 zaai1): \"As he said.\" 【齋】 (zaai1) Vegetarian food. 初一十五食齋 (co1 jat1 sap6 ng5 sik6 zaai1): \"Eating vegetarian on the first and fifteenth of the lunar month.\" 齋口唔齋心 (zaai1 hau2 m4 zaai1 sam1): \"Vegetarian in mouth but not vegetarian at heart\" (said of vegetarians that eat imitation meat). Plain, pure, etc. 齋啡 (zaai1 fe1): \"Straight coffee.\" 齋腸 (zaai1 coeng4-2): \"Plain rice-noodle rolls.\" 齋噏 (zaai1 ngap1): \"Purely blabbering.\""
 }
 },
 "債":{
@@ -7922,7 +7922,7 @@
 "䁪":{
 "zaam2":{
 "isCanonical":true,
-"text":"U+406A 眨 【䁪】 (zaam2) To blink. 䁪吓眼 (zaam2 haa5 ngaan5): \"In the blink of an eye.\" To flash. 眼燈䁪緊 (ngaan5-2 dang1 zaam2 gan2): \"The light's flashing.\""
+"text":"U+406A 眨 【䁪】 (zaam2) To blink. 䁪吓眼 (zaam2 haa5 ngaan5): \"In the blink of an eye.\" To flash. 眼燈䁪緊 (ngaan5-2 dang1 zaam2 gan2): \"The light's flashing.\" The spelling 䁪 is arbitrary. The alternative spelling 眨 is from appropriation of formal 眨 _chap_ (zaap3)."
 }
 },
 "蘸":{
@@ -7990,7 +7990,7 @@
 "盞":{
 "zaan2":{
 "isCanonical":true,
-"text":"U+76DE (F2.69 盞) 酒盞 (Page 19|n62 盞) A shallow cup ~~for oil~~ (Kangxi: 杯也, 酒盞最小杯也); a wine saucer; the classifier of lamps; _tang chan_ (dang1 zaan2 燈盞), a saucer for a night lamp; _yat chan tang_ (jat1 zaan2 dang1 一盞燈), a lamp. 【盞】 (tsreanX) (_noun-like_) cup 【盞】 (zaan2) Classifier for lamps or lights. 盞燈壞咗 (zaan2 dang1 waai6 zo2): \"The light's broken.\" Only, just (for emphasising that a negative outcome is highly likely). 盞嘥氣 (zaan2 saai1 hei3): \"Talking to him will just be a waste of breath.\" 行得慢咪盞遲到 (haang4 dak1 maan6 mai6 zaan2 ci4 dou3): \"If we walk slow then we'll only arrive late, won't we?\""
+"text":"U+76DE (F2.69 盞) 酒盞 (Page 19|n62 盞) A shallow cup ~~for oil~~ (Kangxi: 杯也, 酒盞最小杯也); a wine saucer; the classifier of lamps; _tang chan_ (dang1 zaan2 燈盞), a saucer for a night lamp; _yat chan tang_ (jat1 zaan2 dang1 一盞燈), a lamp. 【盞】 (tsreanX) (_noun-like_) cup 【盞】 (zaan2) Classifier for lamps or lights. 盞燈壞咗 (zaan2 dang1 waai6 zo2): \"The light's broken.\" Only, just (for emphasising that a negative outcome is highly likely). The spelling 盞 is arbitrary. 盞嘥氣 (zaan2 saai1 hei3): \"Talking to him will just be a waste of breath.\" 行得慢咪盞遲到 (haang4 dak1 maan6 mai6 zaan2 ci4 dou3): \"If we walk slow then we'll only arrive late, won't we?\""
 }
 },
 "趲":{
@@ -8244,7 +8244,7 @@
 "鈒":{
 "zaap6":{
 "isCanonical":true,
-"text":"U+9212 zaap6-2 (vernacular rising-tone noun) (Page 22|n65 鈒) A colloquial word. One bladed shears working on a pivot; to slice or pare with shears; _chap hoi_ (zaap6 hoi1 鈒開), cut it open; _pan long chap_ (ban1 long4 zaap6-2 檳榔鈒) betel-nut shears; _chap yeuk ts'oi_ (zaap6 joek6 coi4 鈒藥材), to slice medicine; _chap sui_ (zaap6 seoi3 鈒碎) slice it fine. 【鈒-noun】 (zaap6, zaap6-2) Shears. 【鈒-verb】 (zaap6) To cut or slice, especially with shears."
+"text":"U+9212 zaap6-2 (vernacular rising-tone noun) (Page 22|n65 鈒) A colloquial word. One bladed shears working on a pivot; to slice or pare with shears; _chap hoi_ (zaap6 hoi1 鈒開), cut it open; _pan long chap_ (ban1 long4 zaap6-2 檳榔鈒) betel-nut shears; _chap yeuk ts'oi_ (zaap6 joek6 coi4 鈒藥材), to slice medicine; _chap sui_ (zaap6 seoi3 鈒碎) slice it fine. 【鈒-noun】 (zaap6, zaap6-2) Shears. 【鈒-verb】 (zaap6) To cut or slice, especially with shears. The spelling 鈒 is arbitrary."
 }
 },
 "閘":{
@@ -8280,7 +8280,7 @@
 "扎":{
 "zaat3":{
 "isCanonical":true,
-"text":"U+624E (F2.72 扎) 拔也作也 (Page 24|n67 扎) To pluck up (Kangxi: 拔也); To pierce, to jab, to push through. To spread, to extend. Used in 掙扎. 【扎馬】 (zaat3 maa5) To do the horse stance. 【扎醒】 (zaat3 seng2) To wake with a start. 【扎扎跳】 (zaat3 zaat3 tiu3) To jump up and down rapidly."
+"text":"U+624E (F2.72 扎) 拔也作也 (Page 24|n67 扎) To pluck up (Kangxi: 拔也); To pierce, to jab, to push through. To spread, to extend. Used in 掙扎. 【扎馬】 (zaat3 maa5) To do the horse stance. 【扎醒】 (zaat3 seng2) To wake with a start. 【扎扎跳】 (zaat3 zaat3 tiu3) To jump up and down rapidly. The spelling 扎 in these terms is arbitrary (but well established)."
 }
 },
 "札":{
@@ -8452,7 +8452,7 @@
 "擠":{
 "zai1":{
 "isCanonical":true,
-"text":"U+64E0 zai3 (alternative per 《廣韻》子計切) (F1.28 擠) 排也推也 (Page 9|n52 擠 _Chai_ (zai1)) A colloquial word. To place, to put down, to put by; _chai mai_ (zai1 maai4 擠埋), put it aside; _chai pin ch'u_ (zai1 bin1 cyu3 擠邊處) where shall I put it? _chai pin ch'u to ho_ (zai1 bin1 cyu3 dou1 hou2 擠邊處都好), put ~~in~~ it down anywhere. (Page 548 擠 _Tsai_ (zai1)) To push (Kangxi: 排也一曰推也), to push over, to upset (Kangxi: 擠墜也); to press upon, to crowd; _tsai yung_ (zai1 jung2 擠擁), to crowd and press upon. 【擠】 (tsej, tsejH) (_verb-like_) to push 【擠】 (zai1) To put, or put down. 擠喺度 (zai1 hai2 dou6): \"Put it over here.\" 【擠迫】 (zai1 bik1) Crowded. 人多擠迫 (jan4 do1 zai1 bik1): \"Lots of people and crowded.\""
+"text":"U+64E0 zai3 (alternative per 《廣韻》子計切) (F1.28 擠) 排也推也 (Page 9|n52 擠 _Chai_ (zai1)) A colloquial word. To place, to put down, to put by; _chai mai_ (zai1 maai4 擠埋), put it aside; _chai pin ch'u_ (zai1 bin1 cyu3 擠邊處) where shall I put it? _chai pin ch'u to ho_ (zai1 bin1 cyu3 dou1 hou2 擠邊處都好), put ~~in~~ it down anywhere. (Page 548 擠 _Tsai_ (zai1)) To push (Kangxi: 排也一曰推也), to push over, to upset (Kangxi: 擠墜也); to press upon, to crowd; _tsai yung_ (zai1 jung2 擠擁), to crowd and press upon. 【擠】 (tsej, tsejH) (_verb-like_) to push 【擠】 (zai1) To put, or put down. The spelling 擠 is arbitrary (but well established). 擠喺度 (zai1 hai2 dou6): \"Put it over here.\" 【擠迫】 (zai1 bik1) Crowded. 人多擠迫 (jan4 do1 zai1 bik1): \"Lots of people and crowded.\""
 }
 },
 "穧":{
@@ -8532,7 +8532,7 @@
 "制":{
 "zai3":{
 "isCanonical":true,
-"text":"U+5236 (F1.32 制) 節也禁也 (Page 9|n52 制) To adjust, to cut, to form (Kangxi: 裁也); to govern, to regulate, to rule (Kangxi: 正也御也檢也); to limit, to hinder, to prevent (Kangxi: 禁制也); a law, a rule, a regulation (Kangxi: 成法曰制); _tsoi chai_ (zoi6 zai3 在制) or _shau chai_ (sau2 zai3 守制) to wear mourning for parents; _yau tsit chai_ (jau5 zit3 zai3 有節制) I can do so much; _chai t'oi_ (zai3 toi4 制臺), a governor-general; _kam chai_ (gaam1 zai3 監制) to restrain, to set limits; _chai kan kom to_ (zai3 gan2 gam3 do1 制緊咁多), to limit one; _chai to_ (zai3 dou2 制倒), to tame, to subdue; _tsz' chai_ (zi6 zai3 自制) self-restraint; _chai shu_ (zai3 syu1 制書), an imperial dispatch (Kangxi: 天子之言曰制書); _chai to_ (zai3 dou6 制度) a pattern, laws; _kam chai_ (gam3 zai3 禁制) a prohibition; _chai ti_ (zai3 dei6 制地) the court; _sui chai_ (seoi3 zai3 歲制) a sexagenary; _chai fok_ (zai3 fok3 制縛) a close surveillance. 【制】 (tsyejH) (_verb-like_) to cut out, (_met._) to form (_noun-like_) institution, system (_verb-like_) to control, to regulate 【制】 (zai3) Willing (to do), accepting (of an outcome). 制唔制 (zai3 m4 zai3): \"Are you willing or not?\" 我唔制 (ngo5 m4 zai3): \"I don't accept this!\""
+"text":"U+5236 (F1.32 制) 節也禁也 (Page 9|n52 制) To adjust, to cut, to form (Kangxi: 裁也); to govern, to regulate, to rule (Kangxi: 正也御也檢也); to limit, to hinder, to prevent (Kangxi: 禁制也); a law, a rule, a regulation (Kangxi: 成法曰制); _tsoi chai_ (zoi6 zai3 在制) or _shau chai_ (sau2 zai3 守制) to wear mourning for parents; _yau tsit chai_ (jau5 zit3 zai3 有節制) I can do so much; _chai t'oi_ (zai3 toi4 制臺), a governor-general; _kam chai_ (gaam1 zai3 監制) to restrain, to set limits; _chai kan kom to_ (zai3 gan2 gam3 do1 制緊咁多), to limit one; _chai to_ (zai3 dou2 制倒), to tame, to subdue; _tsz' chai_ (zi6 zai3 自制) self-restraint; _chai shu_ (zai3 syu1 制書), an imperial dispatch (Kangxi: 天子之言曰制書); _chai to_ (zai3 dou6 制度) a pattern, laws; _kam chai_ (gam3 zai3 禁制) a prohibition; _chai ti_ (zai3 dei6 制地) the court; _sui chai_ (seoi3 zai3 歲制) a sexagenary; _chai fok_ (zai3 fok3 制縛) a close surveillance. 【制】 (tsyejH) (_verb-like_) to cut out, (_met._) to form (_noun-like_) institution, system (_verb-like_) to control, to regulate 【制】 (zai3) Willing (to do), accepting (of an outcome). 制唔制 (zai3 m4 zai3): \"Are you willing or not?\" 我唔制 (ngo5 m4 zai3): \"I don't accept this!\" The spelling 制 is arbitrary."
 }
 },
 "晢":{
@@ -8702,7 +8702,7 @@
 "𠹻":{
 "zam6":{
 "isCanonical":true,
-"text":"U+20E7B 朕 (Page 15|n58 朕; here normalised to 𠹻) A colloquial word. A puff, as of smoke; _yat cham in_ (jat1 zam6 jin1 一𠹻煙), a puff of smoke; _yat cham fo fan_ (jat1 zam6 fo2 fan2 一𠹻火粉), an explosion of incense. 【𠹻】 (zam6) Classifier for smells and odours. 有𠹻味 (jau5 zam6 mei6): \"There's a smell.\""
+"text":"U+20E7B 朕 (Page 15|n58 朕; here normalised to 𠹻) A colloquial word. A puff, as of smoke; _yat cham in_ (jat1 zam6 jin1 一𠹻煙), a puff of smoke; _yat cham fo fan_ (jat1 zam6 fo2 fan2 一𠹻火粉), an explosion of incense. 【𠹻】 (zam6) Classifier for smells and odours. 有𠹻味 (jau5 zam6 mei6): \"There's a smell.\" The spelling 𠹻 is arbitrary."
 }
 },
 "朕":{

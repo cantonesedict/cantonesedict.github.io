@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyun
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-04-04
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -668,12 +668,9 @@ E
        - 點串啊 (dim2 cyun3 a3): "How [do you] spell [it]?"
        - 唔識串 (m4 sik1 cyun3): "[I] don't know [how to] spell [it]."
        ==
-    1. Arrogant, cocky.
+    1. Arrogant, cocky. The spelling 串 is arbitrary.
     ++
   ====
-  --
-  The spelling 串 is arbitrary for the "arrogant/cocky" sense.
-  --
 S
   ==
   - $串gwaan3 (TODO)
