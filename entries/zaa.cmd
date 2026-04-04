@@ -1027,12 +1027,9 @@ E
   ====
   - 【詐諦】 (zaa3 dai3)
     ++
-    1. To pretend.
+    1. To pretend. The spelling 諦 for dai3 is arbitrary (but well established).
     ++
   ====
-  --
-  The spelling 諦 for dai3 is arbitrary (but well established).
-  --
 $$
 
 ### 醡3 | _Ch(a/)(3)_ [[zaa3]]
