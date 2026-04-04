@@ -561,10 +561,10 @@ E
   ::B4.w443b0208 (:遷謝切:) (:笡:) (:斜逆也:)::
   """"
   --
-  But whilst the reading _ts(')(e/)(3)_ (ce3) is a match,
+  But I am not convinced of this.
+  Whilst the reading _ts(')(e/)(3)_ (ce3) is a match,
   the explanation 斜逆也 seems more a metaphorical "heretical"
-  than a physical "inclined" or "sloped",
-  so I am yet to be convinced of 笡.
+  than a physical "inclined" or "sloped".
   --
 S
   ==

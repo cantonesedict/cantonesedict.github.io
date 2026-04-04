@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-04-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1162,11 +1162,11 @@ E
   Of the three items in rock-scissors-paper:
   --
   ==
-  - The spelling for "rock" (here 呈沉) is disputed,
-    noting that in 猜呈沉 it is read low (cing4 cam4),
+  - The spelling for "rock" (here 呈沉) is arbitrary.
+    Note that in 猜呈沉 it is read low (cing4 cam4),
     and in 呈沉磨鉸叉燒包 it is read high (cing1 cam1).
-    (Allusion to a heavy weight falling suggests 秤 for the first
-    and 沉 for the second.)
+    Allusion to a heavy weight falling suggests 秤 instead for the first
+    and 沉 for the second.
   - The spelling for "scissors" is 磨鉸, "sharpened scissors".
   - The spelling for "paper" is 叉燒包, the bun of a barbecued-pork bun
     being a wrapper that wraps its filling.

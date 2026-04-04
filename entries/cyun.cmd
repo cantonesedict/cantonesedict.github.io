@@ -671,6 +671,9 @@ E
     1. Arrogant, cocky.
     ++
   ====
+  --
+  The spelling 串 is arbitrary for the "arrogant/cocky" sense.
+  --
 S
   ==
   - $串gwaan3 (TODO)

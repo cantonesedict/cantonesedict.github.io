@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cok
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-04-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -111,6 +111,9 @@ E
        ==
     ++
   ====
+  --
+  The spelling 剒 is arbitrary.
+  --
 $$
 
 ###+ 厝3 | _Ts(')ok(8)_ [[cok3]]

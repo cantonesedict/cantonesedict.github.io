@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coi
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-04-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -89,6 +89,10 @@ E
        ==
     ++
   ====
+  --
+  The spelling 啋 is arbitrary (but well established).
+  It is unclear if Kangxi 倉來切音猜語辭俗也 is a coincidence.
+  --
 S
   ==
   - $啋hiu1 (TODO)

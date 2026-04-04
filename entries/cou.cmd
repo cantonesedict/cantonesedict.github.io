@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-04-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1407,6 +1407,10 @@ E
        ==
     ++
   ====
+  --
+  The spelling 造 is arbitrary.
+  The alternative spelling 儲 is from appropriation of formal 儲 _(5)ch(')(u:)_ (cyu5).
+  --
 S
   ==
   - $造cou3

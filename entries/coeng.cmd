@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2026-04-01
+* %date-modified --> 2026-04-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1242,6 +1242,9 @@ E
        ==
     ++
   ====
+  --
+  The spelling 暢 is arbitrary.
+  --
 $$
 
 ###+ 蹌3 | _Ts(')(e/)ung(3)_ [[coeng3]]
