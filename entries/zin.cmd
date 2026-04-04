@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2026-03-29
+* %date-modified --> 2026-04-04
 * %copyright-prior-years --> 2023--
 
 ReplacementSequence: #.ensure-baxter
@@ -932,7 +932,7 @@ E
   ====
   - 【鉸剪】 (gaau3 zin2)
     ++
-    1. Scissors. Also spelt 較剪 (per Fan Wan).
+    1. Scissors. (Note that Fan Wan spells this 較剪.)
        ==
        - 把鉸剪鈍 (baa2 gaau3 zin2 deon6): "[The] pair of scissors [is] blunt."
        ==
