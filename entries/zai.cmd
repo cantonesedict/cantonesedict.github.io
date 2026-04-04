@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2026-03-25
+* %date-modified --> 2026-04-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1303,6 +1303,9 @@ E
       ==
     ++
   ====
+  --
+  The spelling 嚌 is arbitrary.
+  --
 S
   ==
   - $嚌cai4
