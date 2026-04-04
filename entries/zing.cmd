@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2026-04-02
+* %date-modified --> 2026-04-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1411,11 +1411,11 @@ E
   ====
   - 【快靚正】 (faai3 leng3 zeng3)
     ++
-    1. Quick, attractive, and quality (said of goods and services).
+    1. Quick, attractive, and good-quality (said of goods and services).
     ++
   - 【平靚正】 (peng4 leng3 zeng3)
     ++
-    1. Cheap, attractive, and quality (said of goods and services).
+    1. Cheap, attractive, and good-quality (said of goods and services).
     ++
   - 【四正】 (si3 zeng3)
     ++
