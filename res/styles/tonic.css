@@ -193,7 +193,7 @@ li:is([id^='cantonese-'], [id^='rendering-']) {
   margin-left: -1em;
 }
 li:is([id^='cantonese-'], [id^='rendering-']) p {
-  margin: 0.5em 0;
+  margin: 0.5em 1.5em;
 }
 li:is([id^='cantonese-'], [id^='rendering-']):not(:last-child) {
   margin-bottom: 0.5em;
