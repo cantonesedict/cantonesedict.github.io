@@ -968,11 +968,11 @@ E
        - 搽咗佢 (caa5 zo2 keoi5): "Scribble it out."
        ==
     ++
-  - 【搽{𢰸=⿰扌咼}】 (caa5 wo5)
+  - 【搽禍】 (caa5 wo5)
     ++
     1. To ruin or spoil.
        ==
-       - 搽{𢰸=⿰扌咼}咗個計畫 (caa5 wo5 zo2 go3 gai3 waak6): "[It's] spoilt the plan."
+       - 搽禍咗個計畫 (caa5 wo5 zo2 go3 gai3 waak6): "[It's] spoilt the plan."
        ==
     ++
   ====
