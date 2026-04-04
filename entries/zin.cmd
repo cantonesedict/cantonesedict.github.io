@@ -935,6 +935,7 @@ E
     1. Scissors. (Note that Fan Wan spells this 較剪.)
        ==
        - 把鉸剪鈍 (baa2 gaau3 zin2 deon6): "[The] pair of scissors [is] blunt."
+       - 鉸剪腳 (gaau3 zin2 goek3): "Scissor legs" (i.e. a neck-locking scissor-kick in martial arts).
        ==
     ++
   ====
