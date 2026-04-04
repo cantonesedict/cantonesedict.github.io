@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fan
-* %date-modified --> 2026-02-24
+* %date-modified --> 2026-04-04
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1648,6 +1648,9 @@ E
     1. Sleepy.
     ++
   ====
+  --
+  The spelling 瞓 is arbitrary (but well established).
+  --
   <## TODO: 瞓捩頸 fan3 lai6-2 geng2 under $捩lai6 ##>
 $$
 

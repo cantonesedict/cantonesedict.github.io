@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fang
-* %date-modified --> 2026-02-25
+* %date-modified --> 2026-04-04
 * %copyright-prior-years -->
 
 %%%
@@ -103,11 +103,6 @@ F
   [[Not present]]
 W
   [[Not present]]
-C
-  ==
-  - The choice of the character 訇 is an arbitrary spelling by me.
-    I am not aware of any better alternatives.
-  ==
 E
   ====
   - 【訇】 (fang4)
@@ -119,6 +114,10 @@ E
        ==
     ++
   ====
+  --
+  The spelling 訇 is arbitrary.
+  I am not aware of any better alternatives.
+  --
 S
   ==
   - $訇gwang1 (TODO)

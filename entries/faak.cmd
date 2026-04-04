@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faak
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-04-04
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -95,10 +95,6 @@ W
         the tub into which grain is thrashed.
     ==
   ====
-C
-  ==
-  - I have chosen {𢫦=⿰扌百} as canonical over {𢪎=⿰扌化} for the better font support.
-  ==
 E
   ====
   - 【{𢫦=⿰扌百}】 (faak3)
@@ -113,6 +109,10 @@ E
        ==
     ++
   ====
+  --
+  The spelling {𢫦=⿰扌百} is arbitrary.
+  The alternative spelling {𢪎=⿰扌化} has poorer font support.
+  --
 S
   ==
   - ${𢫦=⿰扌百}paak3 (TODO)
