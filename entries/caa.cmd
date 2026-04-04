@@ -663,6 +663,9 @@ E
     ++
   ====
   --
+  The spelling 搽 is arbitrary.
+  --
+  --
   Olden attestation for _(4)ch(')(a/)_ (caa4) meaning "apply", "rub", etc.
   exists in an alternative reading of 塗 (per Zhengzhang):
   --
@@ -973,6 +976,9 @@ E
        ==
     ++
   ====
+  --
+  The spelling 搽 is arbitrary.
+  --
 S
   ==
   - $搽caa4
