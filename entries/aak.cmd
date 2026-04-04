@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aak
-* %date-modified --> 2026-04-03
+* %date-modified --> 2026-04-04
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -118,7 +118,7 @@ E
     1. To deceive, to trick, to scam.
        ==
        - 你呃人 (nei5 ngaak1 jan4): "You're deceiving others."
-       - 呃錢 (aak1 cin4-2): "[That's a] scam [for my] money."
+       - 呃錢 (aak1 cin4-2): "[That's a] scam [for] money" (i.e. a rip-off).
        ==
     ++
   ====
