@@ -9028,7 +9028,21 @@
 "啾":{
 "zau1":{
 "isCanonical":true,
-"text":"U+557E (F1.50 啾) 啾喞小聲也 (Page 560 啾) The wail of infants (Kangxi: 小兒聲也); the hum of insects; _tsau tsik_ (zau1 zik1 啾唧) the cry of small children; _tsau tsau_ (zau1 zau1 啾啾), the chattering of birds (Kangxi: 啾啾鳴聲), squeaking of rats."
+"text":"U+557E 噍 (for \"chirp\" sense) (F1.50 啾) 啾喞小聲也 (Page 560 啾) The wail of infants (Kangxi: 小兒聲也); the hum of insects; _tsau tsik_ (zau1 zik1 啾唧) the cry of small children; _tsau tsau_ (zau1 zau1 啾啾), the chattering of birds (Kangxi: 啾啾鳴聲), squeaking of rats."
+}
+},
+"噍":{
+"zau1":{
+"isCanonical":true,
+"text":"U+564D ziu1 (per 《廣韻》即消切) (Page 580 噍 _Tsiu_ (ziu1); here normalised to _Tsau_ (zau1)) the chattering of birds (Kangxi: 燕雀聲, 噍子流反, 通作啾); The reading _tsau_ (zau1) is not unattested; 《集韻》 has the reading 將由切, explained 燕雀聲禮啁噍之頃通作啾. In fact, this reading is probably *more* reliable than 《廣韻》即消切 _tsiu_ (ziu1), as 《集韻》 explicitly has the example 啁噍之頃 from the Classic of Rites, for which Kangxi gives 《釋文》噍子流反 in corroboration."
+},
+"ziu1":{
+"isCanonical":true,
+"text":"U+564D (F2.3 噍) 無噍類言絶也 (Page 580 噍) A ~~husky,~~ suppressed (Kangxi: 噍𠴫也) ``or urgent`` (Kangxi: 噍子遙反謂急也) voice; ~~harsh, dissonant cry.~~ 【噍】 (tsjew) Used in 啁噍."
+},
+"ziu6":{
+"isCanonical":true,
+"text":"U+564D 嚼 zeu6 (vernacular) (Page 24* 齸 _Chiu_; here corrected to 噍 _Tsiu_) ~~A colloquial word.~~ To chew the cud, to ruminate; to bite hard on, to craunch; to chew, as tobacco. (Page 581 噍) To bite, to chew, to gnaw (Kangxi: 齧也, 嚼也); _ngau tsiu mau tan_ (ngau4 ziu6 maau5 daan1 牛噍牡丹), the ox eats the peony, (not knowing it from grass); _tsiu lan_ (ziu6 laan6 噍爛) to chew fine. Williams' 牛噍牡丹: Changed _mau_ (mau5) to common reading _mau_ (maau5). 【噍】 (zeu6, ziu6) To chew. 噍爛啲 (zeu6 laan6 di1): \"Chew it up finer.\" 噍香口膠 (ziu6 hoeng1 hau2 gaau1): \"Chew chewing gum.\" 牛噍牡丹 (ngau4 ziu6 maau5 daan1): \"As an ox chewing the peony.\" Olden attestation for 噍 _tsiu_ (ziu6) meaning \"chew\": 《廣韻》才\\笑\\切 噍 嚼也"
 }
 },
 "州":{
@@ -11549,16 +11563,6 @@
 "zit6":{
 "isCanonical":true,
 "text":"U+622A 𢧵 (F1.27 截) 斷也止也 (Page 580 截) To cut in pieces, to cut up; to cut off (Kangxi: 斷也), to amputate; to intercept, to cut off; to obstruct; to discriminate, to make nice distinctions; a portion, a half; _lan tsit_ (laan4 zit6 攔截) or _tsit chu k'u_ (zit6 zyu6 keoi5 截住佢), to stop, to arrest one's progress; _fan leung tsit_ (fan1 loeng5 zit6 分兩截) cut it in two; _tsit i_ (zit6 ji1 截衣), a robe whose body and skirt are of two colors; _tsit ~~tun~~ ``t'un``_ (zit6 tyun5 截斷) to cut apart. Williams' \"to intercept\": E.g. 截的士, \"stop a taxi\". Williams' \"a portion\": More generally, a classifier for segments. Williams' 攔截: Corrected _tsit_ (zit3) to _tsit_ (zit6). Williams' 截斷: Corrected _tun_ (dyun6 去聲) to _t'un_ (tyun5 上聲). Used in 截截 (articulate in speech) (Kangxi: 截截辯給貌). 【截】 (dzet) (_verb-like_) to cut (off), (_met._) to regulate Used in 截截. 【截截】 (dzet dzet) (_adjective-like_) articulate"
-}
-},
-"噍":{
-"ziu1":{
-"isCanonical":true,
-"text":"U+564D (F2.3 噍) 無噍類言絶也 (Page 580 噍) A ~~husky,~~ suppressed (Kangxi: 噍𠴫也) ``or urgent`` (Kangxi: 噍子遙反謂急也) voice; the chattering of birds (Kangxi: 啁噍聲也, 鳥聲); ~~harsh, dissonant cry.~~ 【噍】 (tsjew) Used in 啁噍."
-},
-"ziu6":{
-"isCanonical":true,
-"text":"U+564D 嚼 zeu6 (vernacular) (Page 24* 齸 _Chiu_; here corrected to 噍 _Tsiu_) ~~A colloquial word.~~ To chew the cud, to ruminate; to bite hard on, to craunch; to chew, as tobacco. (Page 581 噍) To bite, to chew, to gnaw (Kangxi: 齧也, 嚼也); _ngau tsiu mau tan_ (ngau4 ziu6 maau5 daan1 牛噍牡丹), the ox eats the peony, (not knowing it from grass); _tsiu lan_ (ziu6 laan6 噍爛) to chew fine. Williams' 牛噍牡丹: Changed _mau_ (mau5) to common reading _mau_ (maau5). 【噍】 (zeu6, ziu6) To chew. 噍爛啲 (zeu6 laan6 di1): \"Chew it up finer.\" 噍香口膠 (ziu6 hoeng1 hau2 gaau1): \"Chew chewing gum.\" 牛噍牡丹 (ngau4 ziu6 maau5 daan1): \"As an ox chewing the peony.\" Olden attestation for 噍 _tsiu_ (ziu6) meaning \"chew\": 《廣韻》才\\笑\\切 噍 嚼也"
 }
 },
 "招":{

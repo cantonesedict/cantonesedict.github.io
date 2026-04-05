@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2026-03-13
+* %date-modified --> 2026-04-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -50,6 +50,7 @@ $$
 - $周1
 - $啁1
 - $啾1
+- $噍1
 - $州1
 - $掫1
 - $揪1
@@ -259,6 +260,10 @@ R
   ⼝ + 9
 U
   U+557E
+A
+  ==
+  - $噍1 (for "chirp" sense)
+  ==
 F
   ==
   - (F1.50 啾) 啾喞小聲也
@@ -277,6 +282,47 @@ W
         the chattering of birds [[Kangxi: 啾啾鳴聲]], squeaking of rats.
     ==
   ====
+$$
+
+###+ 噍1 | _(1)Tsau_ [[zau1]]
+
+$$
+R
+  ⼝ + 12
+U
+  U+564D
+V
+  ==
+  - ziu1 (per 《廣韻》即消切)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~580 (1)噍 _(1)Tsi(u/)_ (ziu1); here normalised to _(1)Tsau_ (zau1)]]
+    ==
+    - [[...]];
+    - the chattering of birds [[Kangxi: 燕雀聲, 噍子流反, 通作啾]];
+    - [[...]].
+    ==
+    --
+    [[Alternative form of 啾 (for the "chirp" sense). See $啾zau1.]]
+    --
+  ====
+C
+  ==
+  - The reading _(1)tsau_ (zau1) is not unattested;
+    《集韻》 has the reading 將由切, explained 燕雀聲禮啁噍之頃通作啾.
+    In fact, this reading is probably *more* reliable
+    than 《廣韻》即消切 _(1)tsi(u/)_ (ziu1),
+    as 《集韻》 explicitly has the example 啁噍之頃 from the Classic of Rites,
+    for which Kangxi gives 《釋文》噍子流反 in corroboration.
+  ==
+S
+  ==
+  - $噍ziu1
+  - $噍ziu6
+  ==
 $$
 
 ### 州1 | _(1)Chau_ [[zau1]]

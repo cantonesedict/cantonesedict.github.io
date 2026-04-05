@@ -81,9 +81,12 @@ W
   - [[Page~580 (1)噍]]
     ==
     - A ~~husky,~~ suppressed [[Kangxi: 噍{𠴫=⿰口叔}也]] ``or urgent`` [[Kangxi: 噍子遙反謂急也]] voice;
-    - the chattering of birds [[Kangxi: 啁噍聲也, 鳥聲]];
+    - [[...]];
     - ~~harsh, dissonant cry.~~
     ==
+    --
+    [[Otherwise, a reading variation. **See $噍zau1 for the canonical entry.**]]
+    --
   ====
 L
   ====
@@ -94,6 +97,7 @@ L
   ====
 S
   ==
+  - $噍zau1
   - $噍ziu6
   ==
 $$
@@ -1161,6 +1165,7 @@ E
   """"
 S
   ==
+  - $噍zau1
   - $噍ziu1
   ==
 $$
