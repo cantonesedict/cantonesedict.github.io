@@ -708,6 +708,7 @@ $$
 - $樵4
 - $潮4
 - $瞧4
+- ($蕉4)
 - $譙4
 ==
 </nav>
@@ -880,6 +881,10 @@ R
   ⽊ + 12
 U
   U+6A35
+A
+  ==
+  - $蕉4
+  ==
 F
   ==
   - (F2.5 ::[樵]::) ::采薪曰[樵]::
@@ -1004,6 +1009,27 @@ W
     Chiefly used in the court dialect.
     --
   ====
+$$
+
+###+ 蕉4 | _(4)Ts(')i(u/)_ [[ciu4]]
+
+$$.
+R
+  ⾋ + 12
+U
+  U+8549
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 樵. **See $樵ciu4 for the canonical entry.**
+  ++
+S
+  ==
+  - $蕉ziu1
+  ==
 $$
 
 ### 譙4 | _(4)Ts(')i(u/)_ [[ciu4]]

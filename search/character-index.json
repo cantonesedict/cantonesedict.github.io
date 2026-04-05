@@ -4184,7 +4184,7 @@
 "樵":{
 "ciu4":{
 "isCanonical":true,
-"text":"U+6A35 (F2.5 樵) 采薪曰樵 (Page 581 樵) Wood fit for fuel; scattered wood (Kangxi: 散木也); to cut fuel (Kangxi: 采薪曰樵); _~~tsiu~~ ``ts'iu`` fu_ (ciu4 fu1 樵夫), a woodcutter; _ts'iu lau_ (ciu4 lau4 樵樓), a watchman's tower; _ts'iu king_ (ciu4 ging3 樵徑) a bridle path, a goat path; _ts'oi ts'iu_ (coi2 ciu4 採樵), to cut wood; _Sai Ts'iu_ (sai1 ciu4 西樵), a hilly district southwest of Canton. Fan Wan entry: Normalised headword 𬋈 to 樵. Williams' 樵夫: Corrected _tsiu_ (ziu4) to _ts'iu_ (ciu4). 【樵】 (dzjew) (_noun-like_) firewood (_verb-like_) (_met._) to cut firewood, to burn firewood"
+"text":"U+6A35 蕉 (F2.5 樵) 采薪曰樵 (Page 581 樵) Wood fit for fuel; scattered wood (Kangxi: 散木也); to cut fuel (Kangxi: 采薪曰樵); _~~tsiu~~ ``ts'iu`` fu_ (ciu4 fu1 樵夫), a woodcutter; _ts'iu lau_ (ciu4 lau4 樵樓), a watchman's tower; _ts'iu king_ (ciu4 ging3 樵徑) a bridle path, a goat path; _ts'oi ts'iu_ (coi2 ciu4 採樵), to cut wood; _Sai Ts'iu_ (sai1 ciu4 西樵), a hilly district southwest of Canton. Fan Wan entry: Normalised headword 𬋈 to 樵. Williams' 樵夫: Corrected _tsiu_ (ziu4) to _ts'iu_ (ciu4). 【樵】 (dzjew) (_noun-like_) firewood (_verb-like_) (_met._) to cut firewood, to burn firewood"
 }
 },
 "潮":{
@@ -4197,6 +4197,16 @@
 "ciu4":{
 "isCanonical":true,
 "text":"U+77A7 (Page 581 瞧) To look at, to see; to look at furtively (Kangxi: 偸視貌), to glance at; _ts'iu yat ts'iu_ (ciu4 jat1 ciu4 瞧一瞧), I had a look at it. Chiefly used in the court dialect."
+}
+},
+"蕉":{
+"ciu4":{
+"isCanonical":false,
+"text":"U+8549"
+},
+"ziu1":{
+"isCanonical":true,
+"text":"U+8549 (F2.3 蕉) 芭蕉花名 (Page 580 蕉) The banana or plantain (Kangxi: 芭蕉); _heung nga tsiu_ (hoeng1 ngaa4 ziu1 香芽蕉), green plantains; _tsiu tsau_ (ziu1 zau2 蕉酒), spirits with plantains steeped in it; _ku ch'ui tsiu_ (gu2 ceoi4 ziu1 鼓錘蕉), large plantains; _mi yan tsiu_ (mei5 jan4 ziu1 美人蕉), thin skinned plantains. Raw hemp, which has not yet been treated by soaking. 【蕉】 (tsjew) (_noun-like_) raw-hemp"
 }
 },
 "傞":{
@@ -11586,7 +11596,7 @@
 "燋":{
 "ziu1":{
 "isCanonical":true,
-"text":"U+71CB (Page 581 燋 _Tsiu_ (ziu3); here corrected to _Tsiu_ (ziu1)) to char ~~wood~~, to sear, to scorch (Kangxi: 傷火); _tsiu muk_ (ziu1 muk6 燋木) to char wood to bend it. That used to ignite torches (Kangxi: 所以然持火也)."
+"text":"U+71CB zoek3 (per 《廣韻》即略切 for \"unlit-torch\" sense) (Page 581 燋 _Tsiu_ (ziu3); here corrected to _Tsiu_ (ziu1)) to char ~~wood~~, to sear, to scorch (Kangxi: 傷火); _tsiu muk_ (ziu1 muk6 燋木) to char wood to bend it. A torch igniter (Kangxi: 所以然持火也). An unlit torch (Kangxi: 未𤑔曰燋). 【燋-entering】 (tsjak) (_noun-like_) unlit-torch 【燋-level】 (tsjew) (_verb-like_) to scorch"
 },
 "ziu3":{
 "isCanonical":true,
@@ -11605,12 +11615,6 @@
 "text":"U+81B2 焦 (F2.3 膲) 二膲五臟之上系管爲三膲又從頭至心心至臍臍至足爲上下三膲 (Page 580 焦) Used for the next (膲) (Kangxi 焦: 三焦者...別作膲). (Page 580 膲) The parts of the body between the heart and groin, three imaginary organs which regulate the secretions (Kangxi: 人之三膲, 三膲無形之府通作焦 etc.). Fan Wan entry: Normalised malformed 臟 to 臟. Williams' \"three imaginary organs\": The \"triple burner\" (三膲) of Chinese medicine."
 }
 },
-"蕉":{
-"ziu1":{
-"isCanonical":true,
-"text":"U+8549 (F2.3 蕉) 芭蕉花名 (Page 580 蕉) The banana or plantain (Kangxi: 芭蕉); _heung nga tsiu_ (hoeng1 ngaa4 ziu1 香芽蕉), green plantains; _tsiu tsau_ (ziu1 zau2 蕉酒), spirits with plantains steeped in it; _ku ch'ui tsiu_ (gu2 ceoi4 ziu1 鼓錘蕉), large plantains; _mi yan tsiu_ (mei5 jan4 ziu1 美人蕉), thin skinned plantains. Raw hemp, which has not yet been treated by soaking."
-}
-},
 "鐎":{
 "ziu1":{
 "isCanonical":true,
@@ -11620,7 +11624,7 @@
 "鷦":{
 "ziu1":{
 "isCanonical":true,
-"text":"U+9DE6 (F2.3 鷦) 鷦鷯鳥名 (Page 581 鷦) A wren (Kangxi: 鷦𪃦桃蟲也一名鷦鷯); _tsiu liu_ (ziu1 liu4 鷦鷯), a wren, tarin, tody, or some such small bird, which nestles on high grass; _hok tak kom tsiu liu_ (hok6 dak1 gam3 ziu1 liu4 學得咁鷦鷯), playful, skittish, inattentive."
+"text":"U+9DE6 (F2.3 鷦) 鷦鷯鳥名 (Page 581 鷦) A wren (Kangxi: 鷦𪃦桃蟲也一名鷦鷯); _tsiu liu_ (ziu1 liu4 鷦鷯), a wren, tarin, tody, or some such small bird, which nestles on high grass; _hok tak kom tsiu liu_ (hok6 dak1 gam3 ziu1 liu4 學得咁鷦鷯), playful, skittish, inattentive. 【鷦】 (tsjew) Used in 鷦鷯. 【鷦鷯】 (tsjew lew) (_noun-like_) wren"
 }
 },
 "沼":{

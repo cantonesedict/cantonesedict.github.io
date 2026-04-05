@@ -491,6 +491,10 @@ R
   ⽕ + 12
 U
   U+71CB
+V
+  ==
+  - zoek3 (per 《廣韻》即略切 for "unlit-torch" sense)
+  ==
 F
   [[Not present]]
 W
@@ -507,8 +511,20 @@ W
   ====
 P
   ++
-  1. That used to ignite torches (Kangxi: 所以然持火也).
+  1. A torch igniter (Kangxi: 所以然持火也).
+  1. An unlit torch (Kangxi: 未{𤑔=⿱蓺火}曰燋).
   ++
+L
+  ====
+  * 【燋-entering】 (tsjak)
+    ==
+    - (_noun-like_) unlit-torch
+    ==
+  * 【燋-level】 (tsjew)
+    ==
+    - (_verb-like_) [to] scorch
+    ==
+  ====
 S
   ==
   - $燋ziu3
@@ -617,6 +633,17 @@ P
   ++
   1. Raw hemp, which has not yet been treated by soaking.
   ++
+L
+  ====
+  * 【蕉】 (tsjew)
+    ==
+    - (_noun-like_) raw-hemp
+    ==
+  ====
+S
+  ==
+  - ($蕉ciu4)
+  ==
 $$
 
 ### 鐎1 | _(1)Tsi(u/)_ [[ziu1]]
@@ -672,6 +699,17 @@ W
     - _hok(9) tak(7) k(o\)m(3) (1)tsi(u/) (4)li(u/)_
         [[hok6 dak1 gam3 ziu1 liu4 學得咁鷦鷯]],
         playful, skittish, inattentive.
+    ==
+  ====
+L
+  ====
+  * 【鷦】 (tsjew)
+    ==
+    - Used in [鷦鷯](/entries/ziu#rendering-鷦鷯).
+    ==
+  * 【鷦鷯】 (tsjew lew)
+    ==
+    - (_noun-like_) wren
     ==
   ====
 $$

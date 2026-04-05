@@ -5521,6 +5521,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] borrow, [to] lend
       ==
   //
+    , `tsjak`
+    , [燋~(entering)](/entries/ziu#rendering-燋-entering)
+    ,
+      ==
+      - (_noun-like_) unlit-torch
+      ==
+  //
     , `tsje`
     , [訾~(level)](/entries/zi#rendering-訾-level)
     ,
@@ -5784,6 +5791,34 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] scorch
+      ==
+  //
+    , `tsjew`
+    , [燋~(level)](/entries/ziu#rendering-燋-level)
+    ,
+      ==
+      - (_verb-like_) [to] scorch
+      ==
+  //
+    , `tsjew`
+    , [蕉](/entries/ziu#rendering-蕉)
+    ,
+      ==
+      - (_noun-like_) raw-hemp
+      ==
+  //
+    , `tsjew`
+    , [鷦](/entries/ziu#rendering-鷦)
+    ,
+      ==
+      - Used in [鷦鷯](/entries/ziu#rendering-鷦鷯).
+      ==
+  //
+    , `tsjew lew`
+    , [鷦鷯](/entries/ziu#rendering-鷦鷯)
+    ,
+      ==
+      - (_noun-like_) wren
       ==
   //
     , `tsjo`
