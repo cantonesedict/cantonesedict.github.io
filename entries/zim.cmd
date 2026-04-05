@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zim
-* %date-modified --> 2026-03-22
+* %date-modified --> 2026-04-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -157,6 +157,9 @@ E
        ==
     ++
   ====
+  --
+  The spelling 占 is arbitrary (but well established).
+  --
 S
   ==
   - $占zim3

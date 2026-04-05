@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zit
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-04-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -134,6 +134,9 @@ E
        ==
     ++
   ====
+  --
+  The spelling 擳 is arbitrary (but well established).
+  --
 $$
 
 

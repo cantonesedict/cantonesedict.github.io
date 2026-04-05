@@ -82,6 +82,9 @@ E
        ==
     ++
   ====
+  --
+  The spelling 唧 is arbitrary.
+  --
 S
   ==
   - $唧zik1

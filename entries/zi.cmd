@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2026-04-03
+* %date-modified --> 2026-04-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1176,6 +1176,9 @@ E
     1. Cheese.
     ++
   ====
+  --
+  The spelling 芝士 is arbitrary (but well established).
+  --
 $$
 
 ### 茲1 | _(1)Tsz'_ [[zi1]]
@@ -1366,6 +1369,11 @@ F
 W
   ====
   - [[Page~610 (1)蛓(1)螆]]
+    <ins>
+    --
+    A colloquial word.
+    --
+    </ins>
     ==
     - A louse, a nit;
     - insects that ~~irritates~~ ``irritate`` the skin;
@@ -1408,6 +1416,9 @@ E
     1. An itch.
     ++
   ====
+  --
+  The spelling 螆 is arbitrary (but well established).
+  --
 S
   ==
   - ($螆ci3)
@@ -5550,6 +5561,9 @@ E
        ==
     ++
   ====
+  --
+  The spelling 三文治 (and hence 治) is arbitrary (but well established).
+  --
 S
   ==
   - $治ci4
