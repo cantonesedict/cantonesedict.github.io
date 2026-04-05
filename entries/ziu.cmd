@@ -88,13 +88,6 @@ W
     [[Otherwise, a reading variation. **See $噍zau1 for the canonical entry.**]]
     --
   ====
-L
-  ====
-  * 【噍】 (tsjew)
-    ==
-    - Used in [啁噍](/entries/zau#rendering-啁噍).
-    ==
-  ====
 S
   ==
   - $噍zau1

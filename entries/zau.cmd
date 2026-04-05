@@ -241,10 +241,6 @@ L
     ==
     - Used in [啁噍](/entries/zau#rendering-啁噍).
     ==
-  * 【啁噍】 (trjuw tsjew)
-    ==
-    - (_onomatopoeia_) twitter
-    ==
   ====
 S
   ==
@@ -317,7 +313,20 @@ C
     than 《廣韻》即消切 _(1)tsi(u/)_ (ziu1),
     as 《集韻》 explicitly has the example 啁噍之頃 from the Classic of Rites,
     for which Kangxi gives 《釋文》噍子流反 in corroboration.
+    Moreover, this gives 啁噍 an internal rhyme,
+    which makes sense for a term that is onomatopoeic.
   ==
+L
+  ====
+  * 【啁噍】 (trjuw tsjuw)
+    ==
+    - (_onomatopoeia_) chirp chirp
+    ==
+  * 【噍】 (tsjuw)
+    ==
+    - Used in [啁噍](/entries/zau#rendering-啁噍).
+    ==
+  ====
 S
   ==
   - $噍ziu1

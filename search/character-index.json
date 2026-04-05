@@ -8330,7 +8330,7 @@
 },
 "zau1":{
 "isCanonical":true,
-"text":"U+5541 Used in 啁噍 (sound of birds) (Kangxi: 啁噍鳥聲). 【啁】 (trjuw) Used in 啁噍. 【啁噍】 (trjuw tsjew) (_onomatopoeia_) twitter"
+"text":"U+5541 Used in 啁噍 (sound of birds) (Kangxi: 啁噍鳥聲). 【啁】 (trjuw) Used in 啁噍."
 }
 },
 "嘲":{
@@ -9034,11 +9034,11 @@
 "噍":{
 "zau1":{
 "isCanonical":true,
-"text":"U+564D ziu1 (per 《廣韻》即消切) (Page 580 噍 _Tsiu_ (ziu1); here normalised to _Tsau_ (zau1)) the chattering of birds (Kangxi: 燕雀聲, 噍子流反, 通作啾); The reading _tsau_ (zau1) is not unattested; 《集韻》 has the reading 將由切, explained 燕雀聲禮啁噍之頃通作啾. In fact, this reading is probably *more* reliable than 《廣韻》即消切 _tsiu_ (ziu1), as 《集韻》 explicitly has the example 啁噍之頃 from the Classic of Rites, for which Kangxi gives 《釋文》噍子流反 in corroboration."
+"text":"U+564D ziu1 (per 《廣韻》即消切) (Page 580 噍 _Tsiu_ (ziu1); here normalised to _Tsau_ (zau1)) the chattering of birds (Kangxi: 燕雀聲, 噍子流反, 通作啾); The reading _tsau_ (zau1) is not unattested; 《集韻》 has the reading 將由切, explained 燕雀聲禮啁噍之頃通作啾. In fact, this reading is probably *more* reliable than 《廣韻》即消切 _tsiu_ (ziu1), as 《集韻》 explicitly has the example 啁噍之頃 from the Classic of Rites, for which Kangxi gives 《釋文》噍子流反 in corroboration. Moreover, this gives 啁噍 an internal rhyme, which makes sense for a term that is onomatopoeic. 【啁噍】 (trjuw tsjuw) (_onomatopoeia_) chirp chirp 【噍】 (tsjuw) Used in 啁噍."
 },
 "ziu1":{
 "isCanonical":true,
-"text":"U+564D (F2.3 噍) 無噍類言絶也 (Page 580 噍) A ~~husky,~~ suppressed (Kangxi: 噍𠴫也) ``or urgent`` (Kangxi: 噍子遙反謂急也) voice; ~~harsh, dissonant cry.~~ 【噍】 (tsjew) Used in 啁噍."
+"text":"U+564D (F2.3 噍) 無噍類言絶也 (Page 580 噍) A ~~husky,~~ suppressed (Kangxi: 噍𠴫也) ``or urgent`` (Kangxi: 噍子遙反謂急也) voice; ~~harsh, dissonant cry.~~"
 },
 "ziu6":{
 "isCanonical":true,
