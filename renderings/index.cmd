@@ -1210,7 +1210,7 @@ window.onload = applyFilter;
       ==
   //
     , `drjew`
-    , [朝](/entries/ciu#rendering-朝)
+    , [朝~(voiced)](/entries/ciu#rendering-朝-voiced)
     ,
       ==
       - (_noun-like_) audience, (imperial) court
@@ -4115,6 +4115,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] sting
       ==
   //
+    , `trjew`
+    , [朝~(unvoiced)](/entries/ziu#rendering-朝-unvoiced)
+    ,
+      ==
+      - (_noun-like_) morning
+      ==
+  //
     , `trjoX`
     , [貯](/entries/cyu#rendering-貯)
     ,
@@ -5764,6 +5771,21 @@ window.onload = applyFilter;
       - (_adjective-like_) urgent, quiet
       ==
   //
+    , `tsjew`
+    , [椒](/entries/ziu#rendering-椒)
+    ,
+      ==
+      - (_noun-like_) pepper
+      - (_noun-like_) (_met._) summit
+      ==
+  //
+    , `tsjew`
+    , [焦](/entries/ziu#rendering-焦)
+    ,
+      ==
+      - (_verb-like_) [to] scorch
+      ==
+  //
     , `tsjo`
     , [且~(level)](/entries/zeoi#rendering-且-level)
     ,
@@ -6852,6 +6874,15 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) bright
+      ==
+  //
+    , `tsyew`
+    , [招](/entries/ziu#rendering-招)
+    ,
+      ==
+      - (_verb-like_) [to] beckon, [to] invite
+      - (_verb-like_) [to] seek
+      - (_verb-like_) [to] tie
       ==
   //
     , `tsyew`

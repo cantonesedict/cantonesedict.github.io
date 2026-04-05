@@ -170,6 +170,15 @@ P
   1. An archery target.
   1. (_martial arts_) A move, a strike, a technique (or instance thereof).
   ++
+L
+  ====
+  * 【招】 (tsyew)
+    ==
+    - (_verb-like_) [to] beckon, [to] invite
+    - (_verb-like_) [to] seek
+    - (_verb-like_) [to] tie
+    ==
+  ====
 E
   ====
   - 【招績】 (ziu1 zik1)
@@ -177,6 +186,10 @@ E
     1. Conceited, arrogant.
     ++
   ====
+S
+  ==
+  - ($招siu4) <## same as 韶 ##>
+  ==
 $$
 
 ###+ 昭1 | _(1)Chi(u/)_ [[ziu1]]
@@ -299,6 +312,13 @@ C
     Corrected _(1)sin_ to _(1)s(i/)n_.
   - Williams' 朝飯, 朝晨, 用朝未: Dated.
   ====
+L
+  ====
+  * 【朝-unvoiced】 (trjew)
+    ==
+    - (_noun-like_) morning
+    ==
+  ====
 E
   ====
   - 【朝頭早】 (ziu1 tau4 zou2)
@@ -364,6 +384,14 @@ P
   ++
   1. A mountaintop (Kangxi: 山頂亦曰椒).
   ++
+L
+  ====
+  * 【椒】 (tsjew)
+    ==
+    - (_noun-like_) pepper
+    - (_noun-like_) (_met._) summit
+    ==
+  ====
 $$
 
 ###+ 炤1 | _(1)Chi(u/)_ [[ziu1]]
@@ -432,6 +460,13 @@ P
   ++
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【焦】 (tsjew)
+    ==
+    - (_verb-like_) [to] scorch
+    ==
+  ====
 E
   ====
   - 【焦】 (zeu1, ziu1)
@@ -922,7 +957,7 @@ W
   ====
 P
   ++
-  1. A torch used in plastromancy (Kangxi: 灼龜炬也).
+  1. A torch used in plastromancy (Kangxi: 灼龜炬也, 燋哉妙反).
   ++
 S
   ==
