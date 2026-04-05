@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2026-03-09
+* %date-modified --> 2026-04-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -80,15 +80,11 @@ W
   ====
   - [[Page~580 (1)噍]]
     ==
-    - ~~A husky, suppressed voice;~~
+    - A ~~husky,~~ suppressed [[Kangxi: 噍{𠴫=⿰口叔}也]] ``or urgent`` [[Kangxi: 噍子遙反謂急也]] voice;
     - the chattering of birds [[Kangxi: 啁噍聲也, 鳥聲]];
-    - harsh, dissonant cry [[Kangxi: 噍{𠴫=⿰口叔}也]].
+    - ~~harsh, dissonant cry.~~
     ==
   ====
-P
-  ++
-  1. Urgent (Kangxi: 噍子遙反謂急也).
-  ++
 L
   ====
   * 【噍】 (tsjew)
