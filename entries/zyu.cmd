@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2026-03-15
+* %date-modified --> 2026-04-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -184,6 +184,9 @@ E
     1. Chocolate.
     ++
   ====
+  --
+  The spelling 朱古力 is arbitrary (but well established).
+  --
 $$
 
 ### 株1 | _(1)Ch(u:)_ [[zyu1]]
