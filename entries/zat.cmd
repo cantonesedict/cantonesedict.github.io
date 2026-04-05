@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zat
-* %date-modified --> 2026-03-08
+* %date-modified --> 2026-04-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -86,6 +86,10 @@ R
   ⽊ + 5
 U
   U+67B3
+V
+  ==
+  - zeot1 (alternative for noun sense)
+  ==
 F
   [[Not present]]
 W
@@ -113,6 +117,9 @@ E
     1. To block or stop using a cork or plug.
     ++
   ====
+  --
+  The spelling 枳 is arbitrary (but well established).
+  --
 S
   ==
   - $枳zi2

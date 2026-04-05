@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ze
-* %date-modified --> 2026-03-12
+* %date-modified --> 2026-04-05
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -91,6 +91,9 @@ E
     1. Jelly.
     ++
   ====
+  --
+  The spellings 啫 and 啫喱 are arbitrary (but well established).
+  --
 S
   ==
   - ($啫ze3)
