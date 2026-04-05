@@ -2768,6 +2768,12 @@ class CharacterEntry:
         text = text.strip()
         text = re.sub(pattern=r'\s+', repl=' ', string=text)
 
+        # Convert explicit edits
+        text = re.sub(pattern=r'<ins>\s+', repl='``', string=text)
+        text = re.sub(pattern=r'\s+</ins>', repl='``', string=text)
+        text = re.sub(pattern=r'<del>\s+', repl='~~', string=text)
+        text = re.sub(pattern=r'\s+</del>', repl='~~', string=text)
+
         # Simplify edits that have become redundant
         text = re.sub(
             pattern='~~(?P<run>.*?)~~ [ ]? ``(?P=run)``',
