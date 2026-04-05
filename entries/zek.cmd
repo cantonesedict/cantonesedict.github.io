@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zek
-* %date-modified --> 2026-03-11
+* %date-modified --> 2026-04-05
 * %copyright-prior-years --> 2024--
 
 %%%
@@ -74,9 +74,11 @@ E
   ====
   - 【唧】 (zek1)
     ++
-    1. An final particle of emphasis or emotion.
+    1. A final particle of emphasis, emotion, pressing, or urging.
        ==
        - 得未唧 (dak1 mei6 zek1): "[Are you] ready or not?"
+       - 做咩唧 (zou6 me1 zek1): "What is [it now]?"
+       - 你想點唧 (nei5 soeng2 dim2 zek1): "What [do] you want [now]?"
        ==
     ++
   ====

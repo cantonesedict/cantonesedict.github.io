@@ -78,13 +78,6 @@ E
        - 少少啫 (siu2 siu2 ze1): "[It's] just [a] little!"
        - 講笑啫 (gong2 siu3 ze1): "Just kidding!"
        ==
-    <## TODO: 唧 zek1
-    1. A interrogative final particle of pressing or urging.
-       ==
-       - 做咩唧 (zou6 me1 zek1): "What is [it now]?"
-       - 你想點唧 (nei5 soeng2 dim2 zek1): "What [do] you want [now]?"
-       ==
-    ##>
     ++
   - 【啫喱】 (ze1 lei2)
     ++
