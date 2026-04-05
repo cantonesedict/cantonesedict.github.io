@@ -88,6 +88,13 @@ W
     [[Otherwise, a reading variation. **See $噍zau1 for the canonical entry.**]]
     --
   ====
+L
+  ====
+  * 【噍-adjective】 (tsjew)
+    ==
+    - (_adjective-like_) urgent, quiet
+    ==
+  ====
 S
   ==
   - $噍zau1
@@ -1138,6 +1145,13 @@ C
   ==
   - Williams' 牛噍牡丹: Changed _(5)mau_ (mau5) to common reading _(5)m(a/)u_ (maau5).
   ==
+L
+  ====
+  * 【噍-departing】 (dzjewH)
+    ==
+    - (_verb-like_) [to] chew
+    ==
+  ====
 E
   ====
   - 【噍】 (zeu6, ziu6)

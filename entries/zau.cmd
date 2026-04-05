@@ -322,7 +322,7 @@ L
     ==
     - (_onomatopoeia_) chirp chirp
     ==
-  * 【噍】 (tsjuw)
+  * 【噍-onomatopoeia】 (tsjuw)
     ==
     - Used in [啁噍](/entries/zau#rendering-啁噍).
     ==

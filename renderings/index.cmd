@@ -2053,6 +2053,13 @@ window.onload = applyFilter;
       ==
   //
     , `dzjewH`
+    , [噍~(departing)](/entries/ziu#rendering-噍-departing)
+    ,
+      ==
+      - (_verb-like_) [to] chew
+      ==
+  //
+    , `dzjewH`
     , [誚](/entries/ciu#rendering-誚)
     ,
       ==
@@ -5750,6 +5757,13 @@ window.onload = applyFilter;
       - (_noun-like_) eyelash
       ==
   //
+    , `tsjew`
+    , [噍~(adjective)](/entries/ziu#rendering-噍-adjective)
+    ,
+      ==
+      - (_adjective-like_) urgent, quiet
+      ==
+  //
     , `tsjo`
     , [且~(level)](/entries/zeoi#rendering-且-level)
     ,
@@ -5817,7 +5831,7 @@ window.onload = applyFilter;
       ==
   //
     , `tsjuw`
-    , [噍](/entries/zau#rendering-噍)
+    , [噍~(onomatopoeia)](/entries/zau#rendering-噍-onomatopoeia)
     ,
       ==
       - Used in [啁噍](/entries/zau#rendering-啁噍).
