@@ -1216,6 +1216,13 @@ W
         not to appear when summoned.
     ==
   ====
+L
+  ====
+  * 【召】 (drjewH)
+    ==
+    - (_verb-like_) [to] summon
+    ==
+  ====
 S
   ==
   - $召siu6 (TODO)
@@ -1387,6 +1394,13 @@ P
   ++
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【趙-hasten】 (drjewX)
+    ==
+    - (_verb-like_) [to] hasten (unto)
+    ==
+  ====
 S
   ==
   - $趙tiu5 (TODO)

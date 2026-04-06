@@ -1225,6 +1225,20 @@ window.onload = applyFilter;
       - (_noun-like_) (morning) tide
       ==
   //
+    , `drjewX`
+    , [趙~(hasten)](/entries/ziu#rendering-趙-hasten)
+    ,
+      ==
+      - (_verb-like_) [to] hasten (unto)
+      ==
+  //
+    , `drjewH`
+    , [召](/entries/ziu#rendering-召)
+    ,
+      ==
+      - (_verb-like_) [to] summon
+      ==
+  //
     , `drjo`
     , [儲](/entries/cyu#rendering-儲)
     ,
