@@ -322,7 +322,7 @@ W
     ==
     - To hinder, to impede [[Kangxi: 隔也]], to stop, to make delay;
     - grieved [[Kangxi: 憂也]];
-    - ~~dangerous;~~
+    - dangerous [[Kangxi: 險也]];
     - an impediment;
     - a defile;
     - to suspect, to doubt [[Kangxi: 疑也]];
@@ -372,6 +372,16 @@ P
   1. To rely upon (Kangxi: 阻恃也).
   1. To reject.
   ++
+L
+  ====
+  * 【阻】 (tsrjoX)
+    ==
+    - (_noun-like_) difficult-pass, dangerous-pass, obstruction
+    - (_adjective-like_) difficult, dangerous
+    - (_verb-like_) [to] difficult, [to] obstruct
+    - (_verb-like_) [to] rely (upon)
+    ==
+  ====
 $$
 
 
@@ -400,7 +410,7 @@ A
   ==
 V
   ==
-  - zo2 (common in 佐敦)
+  - zo2 (alternative per 《集韻》子我切, common in 佐敦)
   ==
 F
   ==
@@ -427,6 +437,14 @@ P
   ++
   1. To encourage (to drink or to eat).
   ++
+L
+  ====
+  * 【佐】 (tsaH)
+    ==
+    - (_verb-like_) [to] aid (aleft)
+    - (_noun-like_) aid
+    ==
+  ====
 $$
 
 ###+ 左3 | _Tso(3)_ [[zo3]]
@@ -493,6 +511,17 @@ C
   - The common reading zeoi2 is perhaps from identifying 詛咒 with 咀咒,
     noting that Fan Wan considers 咀 an alternative form of 詛 _cho(3)_ (zo3).
   ==
+P
+  ++
+  1. To swear an oath.
+  ++
+L
+  ====
+  * 【詛】 (tsrjoH)
+    ==
+    - (_verb-like_) [to] imprecate, (_met._) [to] oath
+    ==
+  ====
 S
   ==
   - ($詛zeoi2)

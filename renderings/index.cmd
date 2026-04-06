@@ -4253,6 +4253,14 @@ window.onload = applyFilter;
       - (_adverb-like_) left, aleft, (_met._) below, east
       ==
   //
+    , `tsaH`
+    , [佐](/entries/zo#rendering-佐)
+    ,
+      ==
+      - (_verb-like_) [to] aid (aleft)
+      - (_noun-like_) aid
+      ==
+  //
     , `tsanH`
     , [讚](/entries/zaan#rendering-讚)
     ,
@@ -6500,6 +6508,23 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) sacrificial-stand
+      ==
+  //
+    , `tsrjoX`
+    , [阻](/entries/zo#rendering-阻)
+    ,
+      ==
+      - (_noun-like_) difficult-pass, dangerous-pass, obstruction
+      - (_adjective-like_) difficult, dangerous
+      - (_verb-like_) [to] difficult, [to] obstruct
+      - (_verb-like_) [to] rely (upon)
+      ==
+  //
+    , `tsrjoH`
+    , [詛](/entries/zo#rendering-詛)
+    ,
+      ==
+      - (_verb-like_) [to] imprecate, (_met._) [to] oath
       ==
   //
     , `tsrjuw`
