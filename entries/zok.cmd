@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zok
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-04-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -120,6 +120,10 @@ E
     1. To make up, to fabricate.
     ++
   ====
+S
+  ==
+  - ($作zo3)
+  ==
 $$
 
 ###+ 昨3 | _Tsok(8)_ [[zok3]]

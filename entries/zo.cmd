@@ -391,6 +391,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $佐3
+- ($作3)
 - ($左3)
 - $詛3
 ==
@@ -447,6 +448,27 @@ L
   ====
 $$
 
+###+ 作3 | _Cho(3)_ [[zo3]]
+
+$$.
+R
+  ⼈ + 5
+U
+  U+4F5C
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 詛 (for the "curse" sense). **See $詛zo3 for the canonical entry.**
+  ++
+S
+  ==
+  - $作zok3
+  ==
+$$
+
 ###+ 左3 | _Tso(3)_ [[zo3]]
 
 $$.
@@ -475,6 +497,10 @@ R
   ⾔ + 5
 U
   U+8A5B
+A
+  ==
+  - $作3 (for "curse" sense)
+  ==
 V
   ==
   - zeoi2 (common)
