@@ -606,6 +606,13 @@ C
   ==
   - Williams' 助成嗰件事: Changed _ko(3)_ (go3) to modern _(2)ko_ (go2).
   ==
+L
+  ====
+  * 【助】 (dzrjoH)
+    ==
+    - (_verb-like_) [to] help
+    ==
+  ====
 $$
 
 ### 坐6 | _Tso(6)_ [[zo6]]
@@ -634,7 +641,7 @@ W
     - [[...]];
     - to maintain, to hold [[Kangxi: 猶守也]];
     - involved in, implicated;
-    - ~~to sit in judgement on,~~ to judge;
+    - ~~to sit in judgement on, to judge;~~
     - to place, to set down;
     - to kneel [[Kangxi: 古者謂跪爲坐]];
     - _(2)ts(')ing ~~tso(6)~~ ``(5)ts(')o``_
@@ -731,15 +738,22 @@ C
   - Williams' 坐冷飯噉坐: Corrected _k(o\)m(3)_ (gam3) to _(2)k(o\)m_ (gam2).
   - Williams' 打坐參禪: Changed _(4)sh(i/)n_ (sin4) to common reading _(4)sh(i/)m_ (sim4).
   ==
+P
+  ++
+  1. Implicatory collective punishment (Kangxi: 《律》有罪坐).
+  1. A defence lawyer(?) (Kangxi: 罪人對理曰坐).
+  ++
 L
   ====
-  * 【坐-verb】 (dzwaX)
+  * 【坐-rising】 (dzwaX)
     ==
-    - (_verb-like_) [to] sit
+    - (_verb-like_) [to] sit, [to] kneel
     ==
-  * 【坐-noun】 (dzwaH)
+  * 【坐-departing】 (dzwaH)
     ==
     - (_noun-like_) seat
+    - (_adjective-like_) seated, (_met._) hunkered
+    - (_adjective-like_) implicated, convicted
     ==
   ====
 E
@@ -834,4 +848,10 @@ P
   1. A stand or base.
   1. Short for 星座 (constellation).
   ++
+  ====
+  * 【座】 (dzwaH)
+    ==
+    - (_noun-like_) seat, (_met._) place
+    ==
+  ====
 $$

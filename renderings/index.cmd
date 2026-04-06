@@ -2406,6 +2406,13 @@ window.onload = applyFilter;
       - (_noun-like_) hoe
       ==
   //
+    , `dzrjoH`
+    , [助](/entries/zo#rendering-助)
+    ,
+      ==
+      - (_verb-like_) [to] help
+      ==
+  //
     , `dzrju`
     , [雛](/entries/co#rendering-雛)
     ,
@@ -2493,17 +2500,19 @@ window.onload = applyFilter;
       ==
   //
     , `dzwaX`
-    , [坐~(verb)](/entries/zo#rendering-坐-verb)
+    , [坐~(rising)](/entries/zo#rendering-坐-rising)
     ,
       ==
-      - (_verb-like_) [to] sit
+      - (_verb-like_) [to] sit, [to] kneel
       ==
   //
     , `dzwaH`
-    , [坐~(noun)](/entries/zo#rendering-坐-noun)
+    , [坐~(departing)](/entries/zo#rendering-坐-departing)
     ,
       ==
       - (_noun-like_) seat
+      - (_adjective-like_) seated, (_met._) hunkered
+      - (_adjective-like_) implicated, convicted
       ==
   //
     , `dzwan`
