@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2026-04-05
+* %date-modified --> 2026-04-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -188,7 +188,7 @@ E
   ====
 S
   ==
-  - ($招siu4) <## same as 韶 ##>
+  - ($招siu4) (TODO) <## same as 韶 ##>
   ==
 $$
 
@@ -738,6 +738,7 @@ U
 A
   ==
   - {𠞰=⿰巢刀}
+  - 劋
   - $勦2
   ==
 F
@@ -764,8 +765,15 @@ C
   ==
 P
   ++
-  1. To cut off (Kangxi {𠞰=⿰巢刀}: 絕也).
+  1. To sever (Kangxi {𠞰=⿰巢刀}: 絕也).
   ++
+L
+  ====
+  * 【剿】 (tsjewX)
+    ==
+    - (_verb-like_) [to] sever, (_met._) [to] extirpate
+    ==
+  ====
 S
   ==
   - $剿caau1
@@ -795,6 +803,13 @@ P
   1. To toil (Kangxi: 勞也).
   1. Alternative form of 剿. **See $剿ziu2 for the canonical entry.**
   ++
+L
+  ====
+  * 【勦】 (tsjewX)
+    ==
+    - (_verb-like_) [to] toil
+    ==
+  ====
 S
   ==
   - ($勦caau1)
@@ -824,6 +839,13 @@ W
     - _(4)ch(')(i/) (2)chi(u/)_
         [[ci4 ziu2 池沼]],
         ponds.
+    ==
+  ====
+L
+  ====
+  * 【沼】 (tsyewX)
+    ==
+    - (_noun-like_) pond
     ==
   ====
 $$
@@ -962,6 +984,13 @@ P
   1. To inform.
   1. (_adverb_) Still (used to describe an action being done despite reasons against it).
   ++
+L
+  ====
+  * 【照】 (tsyewH)
+    ==
+    - (_verb-like_) [to] illume
+    ==
+  ====
 E
   ====
   - 【照計】 (ziu3 gai3)
@@ -1046,6 +1075,18 @@ P
   1. An order from above, especially from the emperor (上命也秦漢以下天子獨稱之).
   1. Written proclamation (Kangxi: 播吿之書也).
   ++
+L
+  ====
+  * 【詔】 (tsyewH)
+    ==
+    - (_verb-like_) [to] inform
+    - (_verb-like_) [to] promulge
+    ==
+  ====
+S
+  ==
+  - ($詔siu6) (TODO) <## same as 紹 ##>
+  ==
 $$
 
 ### 醮3 | _Tsi(u/)(3)_ [[ziu3]]

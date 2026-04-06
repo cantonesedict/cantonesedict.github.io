@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-04-05
+* %date-modified --> 2026-04-06
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -5821,6 +5821,20 @@ window.onload = applyFilter;
       - (_noun-like_) wren
       ==
   //
+    , `tsjewX`
+    , [剿](/entries/ziu#rendering-剿)
+    ,
+      ==
+      - (_verb-like_) [to] sever, (_met._) [to] extirpate
+      ==
+  //
+    , `tsjewX`
+    , [勦](/entries/ziu#rendering-勦)
+    ,
+      ==
+      - (_verb-like_) [to] toil
+      ==
+  //
     , `tsjo`
     , [且~(level)](/entries/zeoi#rendering-且-level)
     ,
@@ -6925,6 +6939,28 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) luminous, illuminate
+      ==
+  //
+    , `tsyewX`
+    , [沼](/entries/ziu#rendering-沼)
+    ,
+      ==
+      - (_noun-like_) pond
+      ==
+  //
+    , `tsyewH`
+    , [照](/entries/ziu#rendering-照)
+    ,
+      ==
+      - (_verb-like_) [to] illume
+      ==
+  //
+    , `tsyewH`
+    , [詔](/entries/ziu#rendering-詔)
+    ,
+      ==
+      - (_verb-like_) [to] inform
+      - (_verb-like_) [to] promulge
       ==
   //
     , `tsyhae`
