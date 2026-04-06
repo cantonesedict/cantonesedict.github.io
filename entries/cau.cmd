@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cau
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-04-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2196,7 +2196,7 @@ L
   ====
   * 【酬】 (dzyuw)
     ==
-    - (_verb-like_) [to] toast
+    - (_verb-like_) [to] toast (in return)
     - (_verb-like_) [to] repay
     ==
   ====

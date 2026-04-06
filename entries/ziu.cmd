@@ -1127,7 +1127,7 @@ W
   ====
 C
   ==
-  - Williams' "wine to a son at his wedding": Also at the capping ceremony
+  - Williams' "to give a cup of wine to a son at his wedding": Also at the capping ceremony
     where a twenty-year-old son is given his style-name. See below.
   - Williams' 打醮: Also called 太平清醮.
   ==
@@ -1138,6 +1138,14 @@ P
      where the son does not return a cup to the father (Kangxi: 酌而無酬酢曰醮).
   1. To marry (of a woman), especially to remarry.
   ++
+L
+  ====
+  * 【醮】 (tsjewH)
+    ==
+    - (_verb-like_) [to] serve [the ceremonial] cup
+    - (_verb-like_) [to] finish
+    ==
+  ====
 $$
 
 

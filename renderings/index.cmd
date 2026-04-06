@@ -2609,7 +2609,7 @@ window.onload = applyFilter;
     , [酬](/entries/cau#rendering-酬)
     ,
       ==
-      - (_verb-like_) [to] toast
+      - (_verb-like_) [to] toast (in return)
       - (_verb-like_) [to] repay
       ==
   //
@@ -5833,6 +5833,14 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] toil
+      ==
+  //
+    , `tsjewH`
+    , [醮](/entries/ziu#rendering-醮)
+    ,
+      ==
+      - (_verb-like_) [to] serve [the ceremonial] cup
+      - (_verb-like_) [to] finish
       ==
   //
     , `tsjo`
