@@ -4245,6 +4245,14 @@ window.onload = applyFilter;
       - (_adjective-like_) difficult
       ==
   //
+    , `tsaX`
+    , [左](/entries/zo#rendering-左)
+    ,
+      ==
+      - (_adjective-like_) left
+      - (_adverb-like_) left, aleft, (_met._) below, east
+      ==
+  //
     , `tsanH`
     , [讚](/entries/zaan#rendering-讚)
     ,
@@ -6485,6 +6493,13 @@ window.onload = applyFilter;
       ==
       - (_noun-like_) pickle
       - (_noun-like_) marsh
+      ==
+  //
+    , `tsrjoX`
+    , [俎](/entries/zo#rendering-俎)
+    ,
+      ==
+      - (_noun-like_) sacrificial-stand
       ==
   //
     , `tsrjuw`

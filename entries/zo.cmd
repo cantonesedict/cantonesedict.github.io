@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zo
-* %date-modified --> 2026-04-05
+* %date-modified --> 2026-04-06
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -86,6 +86,13 @@ P
   1. A small table (Kangxi: 俎几也).
   1. A chopping board (Kangxi: 刀俎, 俎椹版也).
   ++
+L
+  ====
+  * 【俎】 (tsrjoX)
+    ==
+    - (_noun-like_) sacrificial-stand
+    ==
+  ====
 $$
 
 ###+ 咗2 | _(2)Cho_ [[zo2]]
@@ -259,6 +266,14 @@ P
   ++
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【左】 (tsaX)
+    ==
+    - (_adjective-like_) left
+    - (_adverb-like_) left, aleft, (_met._) below, east
+    ==
+  ====
 S
   ==
   - ($左zo3)
