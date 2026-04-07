@@ -5759,6 +5759,24 @@
 "text":"U+82E7 (F1.47 苧) 苧麻 (Page 33* 苧) A plant _(Boehmeria tenacissima)_ grown for its fibres (Kangxi: 草名可爲繩); _ch'u ma_ (cyu5 maa4 苧麻), the grasscloth nettle; _ch'u kan_ (cyu5 gan1 苧根), its roots."
 }
 },
+"著":{
+"cyu5":{
+"isCanonical":false,
+"text":"U+8457 May appear with 者 dotless (+8 assumed here) or dotted (+9), depending on the font."
+},
+"zoek3":{
+"isCanonical":false,
+"text":"U+8457 May appear with 者 dotless (+8 assumed here) or dotted (+9), depending on the font. (Page 32|n75 着著)"
+},
+"zoek6":{
+"isCanonical":false,
+"text":"U+8457 May appear with 者 dotless (+8 assumed here) or dotted (+9), depending on the font. (Page 32|n75 着著 _Cheuk_ (zoek3); here corrected to _Cheuk_ (zoek6))"
+},
+"zyu3":{
+"isCanonical":true,
+"text":"U+8457 May appear with 者 dotless (+8 assumed here) or dotted (+9), depending on the font. 箸 (F1.47 著) 明也又著述 (Page 31* 著) To manifest (Kangxi: 明也); to set forth; clear; to narrate, to write; ~~to fix, to settle;~~ ~~a porch;~~ _chu tsok_ (zyu3 zok3 著作) to compose; _chu shut_ (zyu3 seot6 著述) to write an account of. To mark (Kangxi: 著標著也)."
+}
+},
 "貯":{
 "cyu5":{
 "isCanonical":true,
@@ -11825,20 +11843,6 @@
 "zoek3":{
 "isCanonical":true,
 "text":"U+799A (F1.94 禚) 齊地 (Page 32|n75 禚) A city in the feudal state of ~~Tsi~~ ``Ts'i`` (齊) (Kangxi: 齊地名), now a place in Shantung (山東) province."
-}
-},
-"著":{
-"zoek3":{
-"isCanonical":false,
-"text":"U+8457 May appear with 者 dotless (+8 assumed here) or dotted (+9), depending on the font. (Page 32|n75 着著)"
-},
-"zoek6":{
-"isCanonical":false,
-"text":"U+8457 May appear with 者 dotless (+8 assumed here) or dotted (+9), depending on the font. (Page 32|n75 着著 _Cheuk_ (zoek3); here corrected to _Cheuk_ (zoek6))"
-},
-"zyu3":{
-"isCanonical":true,
-"text":"U+8457 May appear with 者 dotless (+8 assumed here) or dotted (+9), depending on the font. 箸 (F1.47 著) 明也又著述 (Page 31* 著) To manifest (Kangxi: 明也); to set forth; clear; to narrate, to write; ~~to fix, to settle;~~ ~~a porch;~~ _chu tsok_ (zyu3 zok3 著作) to compose; _chu shut_ (zyu3 seot6 著述) to write an account of. To mark (Kangxi: 著標著也)."
 }
 },
 "酌":{

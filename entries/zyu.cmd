@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2026-04-05
+* %date-modified --> 2026-04-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1382,6 +1382,7 @@ P
   ++
 S
   ==
+  - ($著cyu5)
   - ($著zoek3)
   - ($著zoek6)
   ==

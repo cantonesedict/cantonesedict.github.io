@@ -614,6 +614,7 @@ $$
 - $紵5
 - $羜5
 - $苧5
+- ($著5)
 - ($處5)
 - $貯5
 ==
@@ -724,7 +725,7 @@ U
   U+5B81
 A
   ==
-  - 著
+  - $著5
   ==
 V
   ==
@@ -1045,6 +1046,32 @@ W
     [[Alternative form of 紵. See $紵cyu5.]]
     --
   ====
+$$
+
+###+ 著5 | _(5)Ch(')(u:)_ [[cyu5]]
+
+$$.
+R
+  ⾋ + 8
+U
+  U+8457
+H
+  May appear with 者 dotless (+8 assumed here) or dotted (+9),
+  depending on the font.
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 宁. **See $宁cyu5 for the canonical entry.**
+  ++
+S
+  ==
+  - ($著zoek3)
+  - ($著zoek6)
+  - $著zyu3
+  ==
 $$
 
 ###+ 處5 | _(5)Ch(')(u:)_ [[cyu5]]
