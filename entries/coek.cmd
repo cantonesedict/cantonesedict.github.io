@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coek
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-04-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -383,6 +383,10 @@ R
   ⾋ + 3
 U
   U+828D
+A
+  ==
+  - 勺
+  ==
 V
   ==
   - zoek3 (per 《廣韻》張略切)
