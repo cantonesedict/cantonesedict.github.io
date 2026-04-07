@@ -187,6 +187,10 @@ R
   ⼥ + 3
 U
   U+5981
+V
+  ==
+  - soek6 (alternative per 《廣韻》市若切)
+  ==
 F
   ==
   - (F1.94 妁) 媒妁
@@ -200,6 +204,13 @@ W
     - _(4)m(u/)i ch(e/)uk(8)_
         [[mui4 zoek3 媒妁]]
         a match-maker.
+    ==
+  ====
+L
+  ====
+  * 【妁】 (tsyak, dzyak)
+    ==
+    - (_noun-like_) go-between
     ==
   ====
 $$
@@ -229,6 +240,13 @@ W
     --
     [[...]]
     --
+  ====
+L
+  ====
+  * 【斫】 (tsyak)
+    ==
+    - (_verb-like_) [to] hack (off), (_met._) [to] hew
+    ==
   ====
 S
   ==
@@ -364,6 +382,13 @@ C
     along with departing 子肖切 _tsi(u/)(3)_ (ziu3),
     which is simply explained 火 "fire".
   ==
+L
+  ====
+  * 【爝】 (tsjak, dzjak, tsjewH)
+    ==
+    - (_noun-like_) torch
+    ==
+  ====
 S
   ==
   - ($爝zoek6)

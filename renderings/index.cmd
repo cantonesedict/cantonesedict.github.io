@@ -1816,6 +1816,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] borrow, [to] lend
       ==
   //
+    , `dzjak`
+    , [爝](/entries/zoek#rendering-爝)
+    ,
+      ==
+      - (_noun-like_) torch
+      ==
+  //
     , `dzjang`
     , [戕](/entries/coeng#rendering-戕)
     ,
@@ -2587,6 +2594,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) ladle
+      ==
+  //
+    , `dzyak`
+    , [妁](/entries/zoek#rendering-妁)
+    ,
+      ==
+      - (_noun-like_) go-between
       ==
   //
     , `dzyen`
@@ -5574,6 +5588,13 @@ window.onload = applyFilter;
       - (_noun-like_) unlit-torch
       ==
   //
+    , `tsjak`
+    , [爝](/entries/zoek#rendering-爝)
+    ,
+      ==
+      - (_noun-like_) torch
+      ==
+  //
     , `tsje`
     , [訾~(level)](/entries/zi#rendering-訾-level)
     ,
@@ -5879,6 +5900,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] toil
+      ==
+  //
+    , `tsjewH`
+    , [爝](/entries/zoek#rendering-爝)
+    ,
+      ==
+      - (_noun-like_) torch
       ==
   //
     , `tsjewH`
@@ -6727,6 +6755,20 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] ladle
+      ==
+  //
+    , `tsyak`
+    , [妁](/entries/zoek#rendering-妁)
+    ,
+      ==
+      - (_noun-like_) go-between
+      ==
+  //
+    , `tsyak`
+    , [斫](/entries/zoek#rendering-斫)
+    ,
+      ==
+      - (_verb-like_) [to] hack (off), (_met._) [to] hew
       ==
   //
     , `tsyak`
