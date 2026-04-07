@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyu
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-04-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -722,6 +722,10 @@ R
   ⼧ + 2
 U
   U+5B81
+A
+  ==
+  - 著
+  ==
 V
   ==
   - cyu4 (alternative per 《廣韻》直魚切)

@@ -533,6 +533,13 @@ C
     and 陽入 _ch(e/)uk(9)_ (zoek6) (other senses).
     I have split things up accordingly.
   ==
+L
+  ====
+  * 【著-unvoiced】 (trjak)
+    ==
+    - (_verb-like_) [to] wear
+    ==
+  ====
 E
   ====
   - 【着-wear】 (zoek3)
@@ -1039,6 +1046,14 @@ P
   1. A plan, a stratagem.
   1. To catch fire, to ignite.
   ++
+L
+  ====
+  * 【著-voiced】 (drjak)
+    ==
+    - (_verb-like_) [to] put
+    - (_verb-like_) [to] attach, [to] apply
+    ==
+  ====
 E
   ====
   - 【着-on】 (zoek6)

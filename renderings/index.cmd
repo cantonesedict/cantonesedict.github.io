@@ -1027,6 +1027,14 @@ window.onload = applyFilter;
       - (_verb-like_) [to] cluster
       ==
   //
+    , `drjak`
+    , [著~(voiced)](/entries/zoek#rendering-著-voiced)
+    ,
+      ==
+      - (_verb-like_) [to] put
+      - (_verb-like_) [to] attach, [to] apply
+      ==
+  //
     , `drjang`
     , [場](/entries/coeng#rendering-場)
     ,
@@ -4017,6 +4025,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] stop up
+      ==
+  //
+    , `trjak`
+    , [著~(unvoiced)](/entries/zoek#rendering-著-unvoiced)
+    ,
+      ==
+      - (_verb-like_) [to] wear
       ==
   //
     , `trjangX`
