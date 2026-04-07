@@ -414,7 +414,7 @@ W
   - [[Page~565 爵(8)]]
     ==
     - A cyathus with three legs,
-    - a cup for libations [[Kangxi: 禮器也 etc.]], a metallic wine cup;
+      a cup for libations [[Kangxi: 禮器也 etc.]], a metallic wine cup;
     - a bamboo wine pottle [[Kangxi: 竹器所以酌酒也]];
     - a degree of nobility, rank, station [[Kangxi: 爵位也, 封也 etc.]];
     - nobility;
@@ -439,6 +439,15 @@ W
   --
   [[Otherwise, an alternative form of 雀. **See $雀zoek3 for the canonical entry.**]]
   --
+L
+  ====
+  * 【爵】 (tsjak)
+    ==
+    - (_noun-like_) sparrow-cup
+    - (_noun-like_) nobility, noble-rank
+    - (_verb-like_) [to] ennoble
+    ==
+  ====
 $$
 
 ###+ 皭3 | _Ts(e/)uk(8)_ [[zoek3]]

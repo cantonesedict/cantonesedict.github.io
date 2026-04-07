@@ -5595,6 +5595,15 @@ window.onload = applyFilter;
       - (_noun-like_) torch
       ==
   //
+    , `tsjak`
+    , [爵](/entries/zoek#rendering-爵)
+    ,
+      ==
+      - (_noun-like_) sparrow-cup
+      - (_noun-like_) nobility, noble-rank
+      - (_verb-like_) [to] ennoble
+      ==
+  //
     , `tsje`
     , [訾~(level)](/entries/zi#rendering-訾-level)
     ,
