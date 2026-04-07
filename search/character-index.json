@@ -4434,7 +4434,7 @@
 "芍":{
 "coek3":{
 "isCanonical":true,
-"text":"U+828D 勺 zoek3 (per 《廣韻》張略切) (F1.94 芍 _Cheuk_ (zoek3)) 芍藥花名 (Page 32|n75 芍 _Cheuk_ (zoek3); here normalised to _Ch'euk_ (coek3)) The peony (Kangxi: 芍藥猶綽約也); also the dahlia; _~~cheuk~~ ``ch'euk`` yeuk_ (coek3 joek6 芍藥) peony roots, a medicine."
+"text":"U+828D 勺 soek6 (per 《廣韻》市若切) zoek3 (per 《廣韻》張略切) (F1.94 芍 _Cheuk_ (zoek3)) 芍藥花名 (Page 32|n75 芍 _Cheuk_ (zoek3); here normalised to _Ch'euk_ (coek3)) The peony (Kangxi: 芍藥猶綽約也); also the dahlia; _~~cheuk~~ ``ch'euk`` yeuk_ (coek3 joek6 芍藥) peony roots, a medicine. 【芍】 (dzyak, trjak) Used in 芍藥. 【芍藥】 (dzyak yak, trjak yak) (_noun-like_) peony"
 },
 "zoek3":{
 "isCanonical":false,
@@ -4458,7 +4458,7 @@
 },
 "zoek3":{
 "isCanonical":true,
-"text":"U+9D72 coek3 (per 《廣韻》七雀切) zoek3-2 (vernacular rising-tone noun) (F1.94 鵲 _Ts'euk_ (coek3)) 喜鵲 (Page 565 鵲 _Ts'euk_ (coek3); here normalised to _Tseuk_ (zoek3)) A magpie, a jackdaw (Kangxi: 鳥名喜鵲也); a jay (Kangxi: 練鵲); _hi ~~ts'euk~~ ``tseuk``_ (hei2 zoek3 喜鵲) or _kon ~~ts'euk~~ ``tseuk``_ (gon1 zoek3 乾鵲) a magpie; _shan hi ~~ts'euk~~ ``tseuk``_ (saan1 hei2 zoek3 山喜鵲) a magpie with a gradated tail; _u ~~ts'euk~~ ``tseuk``_ (wu1 zoek3 烏鵲) a raven."
+"text":"U+9D72 coek3 (per 《廣韻》七雀切) zoek3-2 (vernacular rising-tone noun) (F1.94 鵲 _Ts'euk_ (coek3)) 喜鵲 (Page 565 鵲 _Ts'euk_ (coek3); here normalised to _Tseuk_ (zoek3)) A magpie, a jackdaw (Kangxi: 鳥名喜鵲也); a jay (Kangxi: 練鵲); _hi ~~ts'euk~~ ``tseuk``_ (hei2 zoek3 喜鵲) or _kon ~~ts'euk~~ ``tseuk``_ (gon1 zoek3 乾鵲) a magpie; _shan hi ~~ts'euk~~ ``tseuk``_ (saan1 hei2 zoek3 山喜鵲) a magpie with a gradated tail; _u ~~ts'euk~~ ``tseuk``_ (wu1 zoek3 烏鵲) a raven. 【鵲】 (tshjak) (_noun-like_) magpie"
 }
 },
 "倡":{
@@ -8676,7 +8676,7 @@
 "斟":{
 "zam1":{
 "isCanonical":true,
-"text":"U+659F (F2.36 斟) 斟酌 (Page 14|n57 斟) To pour from or into (Kangxi: 斟益也, 言斟酌而益之); to lade out, to lighten; to deliberate, to adjust (Kangxi: 斟取也, 計也); a ladle, a spoon (Kangxi: 勺也); _cham t'o lok_ (zam1 to5 lok3 斟妥咯) all well settled; _t'ung ni cham cham_ (tung4 nei5 zam1 zam1 同你斟斟), let us talk it over; _cham ch'a_ (zam1 caa4 斟茶), to pour out tea; _sai cham_ (sai3 zam1 細斟), to whisper; _cham cheuk_ (zam1 zoek3 斟酌) to consult about. Williams' 斟妥咯: Corrected _lok_ (lok6) to _lok_ (lok3). Williams' 細斟: Corrected _sai_ (sai6) to _sai_ (sai3). 【斟】 (tsyim) (_verb-like_) to pour, to deliberate 【斟茶遞水】 (zam1 caa4 dai6 seoi2) Menial work. (Literally, \"pour tea and pass the water\".)"
+"text":"U+659F (F2.36 斟) 斟酌 (Page 14|n57 斟) To pour from or into (Kangxi: 斟益也, 言斟酌而益之); to lade out, to lighten; to deliberate, to adjust (Kangxi: 斟取也, 計也); a ladle, a spoon (Kangxi: 勺也); _cham t'o lok_ (zam1 to5 lok3 斟妥咯) all well settled; _t'ung ni cham cham_ (tung4 nei5 zam1 zam1 同你斟斟), let us talk it over; _cham ch'a_ (zam1 caa4 斟茶), to pour out tea; _sai cham_ (sai3 zam1 細斟), to whisper; _cham cheuk_ (zam1 zoek3 斟酌) to consult about. Williams' 斟妥咯: Corrected _lok_ (lok6) to _lok_ (lok3). Williams' 細斟: Corrected _sai_ (sai6) to _sai_ (sai3). 【斟】 (tsyim) (_verb-like_) to pour (_verb-like_) to deliberate 【斟茶遞水】 (zam1 caa4 dai6 seoi2) Menial work. (Literally, \"pour tea and pass the water\".)"
 }
 },
 "椹":{
@@ -11848,13 +11848,13 @@
 "酌":{
 "zoek3":{
 "isCanonical":true,
-"text":"U+914C 勺 (F1.94 酌) 注也斟也益也挹取也沽也又叅酌審擇量度也 (Page 32|n75 勺; here normalised to 酌) to bale or pour out; to adopt, to follow; (Page 32|n75 酌) To pour out liquor, to fill a cup (Kangxi: 盛酒行觴也, 酌猶斟也); a cup, a glass; _met._ wine, liquor (Kangxi: 淸酌酒也); a dinner, a feast; to avail of, to choose the good and act upon it (Kangxi: 取善而行曰酌, 酌猶取也); to deliberate (Kangxi: 參酌); to imitate or adopt; _~~sham~~ ``ts'am`` cheuk_ (caam1 zoek3 參酌) or _cheuk i_ (zoek3 ji5 酌議), to deliberate; _pok cheuk_ (bok6 zoek3 薄酌) a slight repast; _cheuk leung t'o tong_ (zoek3 loeng4 to5 dong3 酌量妥當) it is all settled right; _keung cheuk_ (goeng1 zoek3 薑酌) a feast on a birth; _sheung cheuk_ (soeng6 zoek3 上酌) a sumptuous feast; _chung cheuk_ (zung1 zoek3 中酌) the servants' course; _~~tsui~~ ``tsiu`` cheuk_ (ziu3 zoek3 醮酌) a wedding entertainment to a son; _~~miu~~ ``mui`` cheuk_ (mui4 zoek3 梅酌) a return feast given by a bridegroom. Williams' 參酌: Corrected _sham_ (sam1) to _ts'am_ (caam1). Williams' 醮酌: Corrected _tsui_ (zeoi3) to _tsiu_ (ziu3). Williams' 梅酌: Corrected _miu_ (miu4) to _mui_ (mui4)."
+"text":"U+914C 勺 (F1.94 酌) 注也斟也益也挹取也沽也又叅酌審擇量度也 (Page 32|n75 勺; here normalised to 酌) to bale or pour out; to adopt, to follow; (Page 32|n75 酌) To pour out liquor, to fill a cup (Kangxi: 盛酒行觴也, 酌猶斟也); a cup, a glass; _met._ wine, liquor (Kangxi: 淸酌酒也); a dinner, a feast; to avail of, to choose the good and act upon it (Kangxi: 取善而行曰酌, 酌猶取也); to deliberate (Kangxi: 參酌); to imitate or adopt; _~~sham~~ ``ts'am`` cheuk_ (caam1 zoek3 參酌) or _cheuk i_ (zoek3 ji5 酌議), to deliberate; _pok cheuk_ (bok6 zoek3 薄酌) a slight repast; _cheuk leung t'o tong_ (zoek3 loeng4 to5 dong3 酌量妥當) it is all settled right; _keung cheuk_ (goeng1 zoek3 薑酌) a feast on a birth; _sheung cheuk_ (soeng6 zoek3 上酌) a sumptuous feast; _chung cheuk_ (zung1 zoek3 中酌) the servants' course; _~~tsui~~ ``tsiu`` cheuk_ (ziu3 zoek3 醮酌) a wedding entertainment to a son; _~~miu~~ ``mui`` cheuk_ (mui4 zoek3 梅酌) a return feast given by a bridegroom. Williams' 參酌: Corrected _sham_ (sam1) to _ts'am_ (caam1). Williams' 醮酌: Corrected _tsui_ (zeoi3) to _tsiu_ (ziu3). Williams' 梅酌: Corrected _miu_ (miu4) to _mui_ (mui4). 【酌】 (tsyak) (_verb-like_) to fill cup, to pour (cup) (_verb-like_) to deliberate, to consider"
 }
 },
 "雀":{
 "zoek3":{
 "isCanonical":true,
-"text":"U+96C0 爵 zoek3-2 (vernacular rising-tone noun) (F1.94 雀) 孔雀又小鳥亦曰雀 (Page 565 雀) A sparrow (Kangxi: 依人小鳥也); a term for small birds (Fan Wan: 小鳥亦曰雀), like the finch or lark; ~~a kind of cap;~~ a kind of wheat (Kangxi: 蘥雀麥, 卽燕麥也); _tseuk lap_ (zoek3 lap6 雀立) to skip, to hop, as a sparrow (Kangxi: 雀立踊也); _hung tseuk_ (hung2 zoek3-2 孔雀) a peacock; _ma tseuk_ (ma4 zoek3-2 麻雀) a sparrow; _shan ma tseuk_ (saan1 ma4 zoek3-2 山麻雀) a lark; _tseuk kok_ (zoek3 gok3 雀角) litigation; _wo fa tseuk_ (wo4 faa1 zoek3-2 禾花雀) rice-birds, ortolans; _mui fa tseuk_ (mui4 faa1 zoek3-2 梅花雀) the avedevat _(Fringilla amanduva)_; _shi shan tseuk_ (si4 san4 zoek3-2 時辰雀) a canary-bird; _tseuk shit fa_ (zoek3 sit3 faa1 雀舌花), the _Gardenia radicans_. (Page 565 爵) occurs for the preceding (雀); Williams' \"a kind of cap\": This is a misreading of Kangxi 雀韋弁. The subcommentary makes it clear that 雀 is an adjective describing the *colour* of the cap (Kangxi: 雀言如雀頭色也). Williams' 雀舌花: Changed _shit_ (sit6) to common reading _shit_ (sit3). 【麻雀】 (maa4 zoek3, maa4 zoek3-2) Mahjong. 打麻雀 (daa2 maa4 zoek3-2): \"Play mahjong.\" 麻雀館 (maa4 zoek3 gun2): \"Mahjong parlour.\" A mahjong tile. 跌咗隻麻雀 (dit3 zo2 zek3 maa4 zoek3-2): \"Dropped a mahjong-tile.\" 【雀局】 (zoek3 guk6) Mahjong games (bundled with dinner at a restaurant). Erroneously spelt 鵲局."
+"text":"U+96C0 爵 zoek3-2 (vernacular rising-tone noun) (F1.94 雀) 孔雀又小鳥亦曰雀 (Page 565 雀) A sparrow (Kangxi: 依人小鳥也); a term for small birds (Fan Wan: 小鳥亦曰雀), like the finch or lark; ~~a kind of cap;~~ a kind of wheat (Kangxi: 蘥雀麥, 卽燕麥也); _tseuk lap_ (zoek3 lap6 雀立) to skip, to hop, as a sparrow (Kangxi: 雀立踊也); _hung tseuk_ (hung2 zoek3-2 孔雀) a peacock; _ma tseuk_ (ma4 zoek3-2 麻雀) a sparrow; _shan ma tseuk_ (saan1 ma4 zoek3-2 山麻雀) a lark; _tseuk kok_ (zoek3 gok3 雀角) litigation; _wo fa tseuk_ (wo4 faa1 zoek3-2 禾花雀) rice-birds, ortolans; _mui fa tseuk_ (mui4 faa1 zoek3-2 梅花雀) the avedevat _(Fringilla amanduva)_; _shi shan tseuk_ (si4 san4 zoek3-2 時辰雀) a canary-bird; _tseuk shit fa_ (zoek3 sit3 faa1 雀舌花), the _Gardenia radicans_. (Page 565 爵) occurs for the preceding (雀); Williams' \"a kind of cap\": This is a misreading of Kangxi 雀韋弁. The subcommentary makes it clear that 雀 is an adjective describing the *colour* of the cap (Kangxi: 雀言如雀頭色也). Williams' 雀舌花: Changed _shit_ (sit6) to common reading _shit_ (sit3). 【雀】 (tsjak) (_noun-like_) sparrow 【麻雀】 (maa4 zoek3, maa4 zoek3-2) Mahjong. 打麻雀 (daa2 maa4 zoek3-2): \"Play mahjong.\" 麻雀館 (maa4 zoek3 gun2): \"Mahjong parlour.\" A mahjong tile. 跌咗隻麻雀 (dit3 zo2 zek3 maa4 zoek3-2): \"Dropped a mahjong-tile.\" 【雀局】 (zoek3 guk6) Mahjong games (bundled with dinner at a restaurant). Erroneously spelt 鵲局."
 }
 },
 "嫜":{

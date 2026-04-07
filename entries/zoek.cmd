@@ -704,6 +704,14 @@ C
   - Williams' 醮酌: Corrected _ts(u/)i(3)_ (zeoi3) to _tsi(u/)(3)_ (ziu3).
   - Williams' 梅酌: Corrected _(4)mi(u/)_ (miu4) to _(4)m(u/)i_ (mui4).
   ==
+L
+  ====
+  * 【酌】 (tsyak)
+    ==
+    - (_verb-like_) [to] fill cup, [to] pour (cup)
+    - (_verb-like_) [to] deliberate, [to] consider
+    ==
+  ====
 $$
 
 ### 雀3 | _Ts(e/)uk(8)_ [[zoek3]]
@@ -775,6 +783,13 @@ C
     (Kangxi: 雀言如雀頭色也).
   - Williams' 雀舌花: Changed _sh(i/)t(9)_ (sit6) to common reading _sh(i/)t(8)_ (sit3).
   ==
+L
+  ====
+  * 【雀】 (tsjak)
+    ==
+    - (_noun-like_) sparrow
+    ==
+  ====
 E
   ====
   - 【麻雀】 (maa4 zoek3, maa4 zoek3-2)
@@ -829,6 +844,13 @@ W
     - _(1)(u/) ~~ts(')(e/)uk(8)~~ ``ts(e/)uk(8)``_
         [[wu1 zoek3 烏鵲]]
         a raven.
+    ==
+  ====
+L
+  ====
+  * 【鵲】 (tshjak)
+    ==
+    - (_noun-like_) magpie
     ==
   ====
 S

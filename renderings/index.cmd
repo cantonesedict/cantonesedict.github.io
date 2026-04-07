@@ -2611,6 +2611,20 @@ window.onload = applyFilter;
       - (_noun-like_) go-between
       ==
   //
+    , `dzyak`
+    , [芍](/entries/coek#rendering-芍)
+    ,
+      ==
+      - Used in [芍藥](/entries/coek#rendering-芍藥).
+      ==
+  //
+    , `dzyak yak`
+    , [芍藥](/entries/coek#rendering-芍藥)
+    ,
+      ==
+      - (_noun-like_) peony
+      ==
+  //
     , `dzyen`
     , [儃~(level)](/entries/zin#rendering-儃-level)
     ,
@@ -4028,10 +4042,24 @@ window.onload = applyFilter;
       ==
   //
     , `trjak`
+    , [芍](/entries/coek#rendering-芍)
+    ,
+      ==
+      - Used in [芍藥](/entries/coek#rendering-芍藥).
+      ==
+  //
+    , `trjak`
     , [著~(unvoiced)](/entries/zoek#rendering-著-unvoiced)
     ,
       ==
       - (_verb-like_) [to] wear
+      ==
+  //
+    , `trjak yak`
+    , [芍藥](/entries/coek#rendering-芍藥)
+    ,
+      ==
+      - (_noun-like_) peony
       ==
   //
     , `trjangX`
@@ -4810,6 +4838,13 @@ window.onload = applyFilter;
       - (_auxiliary-like_) shall, about to
       - (_adverb-like_) still
       - (_conjunction-like_) or
+      ==
+  //
+    , `tshjak`
+    , [鵲](/entries/zoek#rendering-鵲)
+    ,
+      ==
+      - (_noun-like_) magpie
       ==
   //
     , `tshjang`
@@ -5617,6 +5652,13 @@ window.onload = applyFilter;
       - (_noun-like_) sparrow-cup
       - (_noun-like_) nobility, noble-rank
       - (_verb-like_) [to] ennoble
+      ==
+  //
+    , `tsjak`
+    , [雀](/entries/zoek#rendering-雀)
+    ,
+      ==
+      - (_noun-like_) sparrow
       ==
   //
     , `tsje`
@@ -6803,6 +6845,14 @@ window.onload = applyFilter;
       - (_adjective-like_) manifest, (_met._) bright
       ==
   //
+    , `tsyak`
+    , [酌](/entries/zoek#rendering-酌)
+    ,
+      ==
+      - (_verb-like_) [to] fill cup, [to] pour (cup)
+      - (_verb-like_) [to] deliberate, [to] consider
+      ==
+  //
     , `tsye`
     , [巵](/entries/zi#rendering-巵)
     ,
@@ -7609,7 +7659,8 @@ window.onload = applyFilter;
     , [斟](/entries/zam#rendering-斟)
     ,
       ==
-      - (_verb-like_) [to] pour, [to] deliberate
+      - (_verb-like_) [to] pour
+      - (_verb-like_) [to] deliberate
       ==
   //
     , `tsyim`

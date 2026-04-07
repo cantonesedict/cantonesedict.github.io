@@ -413,6 +413,7 @@ A
   ==
 V
   ==
+  - soek6 (per 《廣韻》市若切)
   - zoek3 (per 《廣韻》張略切)
   ==
 F
@@ -428,6 +429,17 @@ W
     - _~~ch(e/)uk(8)~~ ``ch(')(e/)uk(8)`` y(e/)uk(9)_
         [[coek3 joek6 芍藥]]
         peony roots, a medicine.
+    ==
+  ====
+L
+  ====
+  * 【芍】 (dzyak, trjak)
+    ==
+    - Used in [芍藥](/entries/coek#rendering-芍藥).
+    ==
+  * 【芍藥】 (dzyak yak, trjak yak)
+    ==
+    - (_noun-like_) peony
     ==
   ====
 S
