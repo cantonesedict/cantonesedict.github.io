@@ -4363,6 +4363,16 @@
 "text":"U+502C zoek3 (per initial of 《廣韻》竹角切) (F1.94 倬) 著也大也詩倬彼雲漢 (Page 33|n76 倬) Extensive~~, distant~~; large (Kangxi: 大也); to show, to manifest (Kangxi: 著也, 明貌); _ming ch'euk u tsui_ (ming4 coek3 jyu5 zeoi6 明倬汝罪) to make your crime known. 【倬】 (traewk) (_adjective-like_) grand, illustrious"
 }
 },
+"勺":{
+"coek3":{
+"isCanonical":false,
+"text":"U+52FA"
+},
+"zoek3":{
+"isCanonical":true,
+"text":"U+52FA coek3 (common) soek3 (common) soek6 (per 《廣韻》市若切 for noun senses) (F1.94 勺) 挹取也 (Page 32|n75 勺) A ladle or spoon (Kangxi: 勺所以𣂏酒也); a spoonful; _~~tau~~ ``lau`` cheuk_ (lau6 zoek3 漏勺) a cullender; _yat cheuk shui chi to_ (jat1 zoek3 seoi2 zi1 do1 一勺水之多), much as a spoonful of water (Kangxi: 一勺水之多言少也). Williams' 漏勺: Corrected _tau_ (dau6) to _lau_ (lau6). To ladle (Kangxi: 挹取也). 【勺-noun】 (dzyak) (_noun-like_) ladle 【勺-verb】 (tsyak) (_verb-like_) to ladle"
+}
+},
 "卓":{
 "coek3":{
 "isCanonical":true,
@@ -11755,12 +11765,6 @@
 "zo6":{
 "isCanonical":true,
 "text":"U+5EA7 坐 zo6-2 (vernacular rising-tone noun for \"base\" sense) (F2.62 座) 位也 (Page 582 坐; here normalised to 座) a seat, a place; (Page 583 座) A seat (Kangxi: 牀座也, 坐具), a throne; a shrine; a classifier of houses, towers, hills, cities, pagodas, movable pavilions, &c.; _hoi kwong shing tso_ (hoi1 gwong1 sing1 zo6 開光陞座) to vivify and enshrine an idol; _yat tso t'ap_ (jat1 zo6 taap3 一座塔) one division of a hong (行); _hi tak sam tso uk_ (hei2 dak1 saam1 zo6 uk1 起得三座屋) can build three houses there; _kung tso i_ (gung1 zo6 ji2 公座椅), an easy chair; _pat tso_ (baat3 zo6 八座) eight chair-bearers. Williams' 起得三座屋: Corrected _hi_ (hei3) to _hi_ (hei2). A stand or base. Short for 星座 (constellation). 【座】 (dzwaH) (_noun-like_) seat, (_met._) place"
-}
-},
-"勺":{
-"zoek3":{
-"isCanonical":true,
-"text":"U+52FA coek3 (common) soek3 (common) soek6 (per 《廣韻》市若切 for noun senses) (F1.94 勺) 挹取也 (Page 32|n75 勺) A ladle or spoon (Kangxi: 勺所以𣂏酒也); a spoonful; _~~tau~~ ``lau`` cheuk_ (lau6 zoek3 漏勺) a cullender; _yat cheuk shui chi to_ (jat1 zoek3 seoi2 zi1 do1 一勺水之多), much as a spoonful of water (Kangxi: 一勺水之多言少也). Williams' 漏勺: Corrected _tau_ (dau6) to _lau_ (lau6). To ladle (Kangxi: 挹取也). 【勺-noun】 (dzyak) (_noun-like_) ladle 【勺-verb】 (tsyak) (_verb-like_) to ladle"
 }
 },
 "妁":{

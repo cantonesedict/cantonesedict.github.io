@@ -44,6 +44,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $倬3
+- ($勺3)
 - $卓3
 - $戳3
 - $桌3
@@ -92,6 +93,29 @@ L
     - (_adjective-like_) grand, illustrious
     ==
   ====
+$$
+
+###+ 勺3 | _Ch(')(e/)uk(8)_ [[coek3]]
+
+$$.
+R
+  ⼓ + 1
+U
+  U+52FA
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $勺zoek3 for the canonical entry.**
+  1. Alternative form of 芍. **See $芍coek3 for the canonical entry.**
+  ++
+S
+  ==
+  - ($勺soek3) (TODO)
+  - $勺zoek3
+  ==
 $$
 
 ### 卓3 | _Ch(')(e/)uk(8)_ [[coek3]]
@@ -385,7 +409,7 @@ U
   U+828D
 A
   ==
-  - 勺
+  - $勺3
   ==
 V
   ==
