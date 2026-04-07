@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-04-06
+* %date-modified --> 2026-04-07
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -2580,6 +2580,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] grasp
       - (_verb-like_) [to] pick
       - (_verb-like_) [to] clash, [to] conflict
+      ==
+  //
+    , `dzyak`
+    , [勺~(noun)](/entries/zoek#rendering-勺-noun)
+    ,
+      ==
+      - (_noun-like_) ladle
       ==
   //
     , `dzyen`
@@ -6713,6 +6720,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) sugarcane
+      ==
+  //
+    , `tsyak`
+    , [勺~(verb)](/entries/zoek#rendering-勺-verb)
+    ,
+      ==
+      - (_verb-like_) [to] ladle
       ==
   //
     , `tsyak`

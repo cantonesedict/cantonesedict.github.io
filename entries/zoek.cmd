@@ -77,6 +77,7 @@ V
   ==
   - coek3 (common)
   - soek3 (common)
+  - soek6 (per 《廣韻》市若切 for noun senses)
   ==
 F
   ==
@@ -86,7 +87,7 @@ W
   ====
   - [[Page~32|n75 勺(8)]]
     ==
-    - A ladle or spoon [[Kangxi: ::[所以]挹取也::]];
+    - A ladle or spoon [[Kangxi: 勺所以{𣂏=⿰奭斗}酒也]];
     - a spoonful;
     - [[...]];
     - _~~tau(6)~~ ``lau(6)`` ch(e/)uk(8)_
@@ -107,6 +108,21 @@ C
   ==
   - Williams' 漏勺: Corrected _tau(6)_ (dau6) to _lau(6)_ (lau6).
   ==
+P
+  ++
+  1. To ladle (Kangxi: 挹取也).
+  ++
+L
+  ====
+  * 【勺-noun】 (dzyak)
+    ==
+    - (_noun-like_) ladle
+    ==
+  * 【勺-verb】 (tsyak)
+    ==
+    - (_verb-like_) [to] ladle
+    ==
+  ====
 S
   ==
   - $勺soek3 (TODO)
