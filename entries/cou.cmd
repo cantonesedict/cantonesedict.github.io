@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-04-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -983,6 +983,7 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- ($且4)
 - $嘈4
 - $徂4
 - $曹4
@@ -994,6 +995,28 @@ $$
 ==
 </nav>
 <## /tone-4-characters ##>
+
+###+ 且4 | _(4)Ts(')(o\)_ [[cou4]]
+
+$$.
+R
+  ⼀ + 4
+U
+  U+4E14
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 徂. **See $徂cou4 for the canonical entry.**
+  ++
+S
+  ==
+  - $且ce2
+  - $且zeoi1
+  ==
+$$
 
 ### ~~{？=⿰口⿱曲曰}~~``嘈``4 | _(4)Ts(')(o\)_ [[cou4]]
 
@@ -1057,6 +1080,10 @@ R
   ⼻ + 5
 U
   U+5F82
+A
+  ==
+  - $且4
+  ==
 F
   ==
   - (F2.12 徂 _(4)Ts(')(u/)_) 往也落也

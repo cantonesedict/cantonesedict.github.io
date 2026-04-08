@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-04-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -338,6 +338,7 @@ L
   ====
 S
   ==
+  - ($且cou4)
   - $且zeoi1
   ==
 $$

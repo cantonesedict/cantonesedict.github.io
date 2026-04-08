@@ -2396,6 +2396,10 @@
 "isCanonical":true,
 "text":"U+4E14 (F2.84 且) 語詞 (Page 31|n74 且) A conjunctive particle; and, further, moreover, still; also, and also (Kangxi: 又也); thus, so (Kangxi: 此也); still, yet; ~~a word of doubt,~~ if, should (Kangxi: 借曰之辭); _hang ch'e_ (hang4 ce2 行且), on the point of being; _ch'e ~~san~~ ``sun`` ch'e i_ (ce2 seon3 ce2 ji4 且信且疑), half believing, half doubting; _fu ch'e kwai_ (fu3 ce2 gwai3 富且貴) rich and so honored; _kau ch'e liu sz'_ (gau2 ce2 liu5 si6 苟且了事) slovenly way of doing things; _fong ch'e_ (fong3 ce2 況且), still further; _ch'e man_ (ce2 maan6 且慢) ~~by and by, presently~~; _ku ch'e_ (gu1 ce2 姑且) or _tsam ch'e_ (zaam6 ce2 暫且), for a time. Strictly, the pre-merger reading should be _ts'e_ per 《廣韻》七也切. Fan Wan groups it with 扯 (same as 撦), whose reading is _ch'e_ (ce2) per 《廣韻》昌者切. Notwithstanding, this is all academic given the initials _ts'_ and _ch'_ are now considered merged. Williams' \"a word of doubt\": This is an attempt at rendering Kangxi 未定之辭. A better rendering is \"a word indicating uncertainness\". Note that this is a separate sense to subjunctive \"if\", \"should\". Williams' 且信且疑: Corrected _san_ (san3) to _sun_ (seon3). Williams' 且慢: Not an adverbial \"soon\" or \"shortly\", but an imperative \"slow down\" or \"hang on\". Temporarily, for now. Shall, about to (Kangxi: 將也). Still. Or. 【且-rising】 (tshjaeX) (_conjunction-like_) and (also), moreover (_determiner-like_) this (_adverb-like_) for now (_auxiliary-like_) shall, about to (_adverb-like_) still (_conjunction-like_) or"
 },
+"cou4":{
+"isCanonical":false,
+"text":"U+4E14"
+},
 "zeoi1":{
 "isCanonical":true,
 "text":"U+4E14 (F1.44 且) 語詞 (Page 594 且) A phonetic particle, used in the Shi King (詩經) at the end of sentences, as an affirmative (Kangxi: 語餘聲). Numerous, many (Kangxi: 多貌). The sixth lunar month (Kangxi: 六月爲且). 【且-level】 (tsjo) (_speech-assist_) (_adjective-like_) many"
@@ -5160,7 +5164,7 @@
 "徂":{
 "cou4":{
 "isCanonical":true,
-"text":"U+5F82 (F2.12 徂 _Ts'u_) 往也落也 (Page 586 徂) To go up; to proceed, to travel (Kangxi: 往也); to preserve (Kangxi: 存也), to lay up; _ts'o tse_ (cou4 ze6 徂謝) to fade, as flowers. 【徂】 (dzu) (_verb-like_) to go (unto)"
+"text":"U+5F82 且 (F2.12 徂 _Ts'u_) 往也落也 (Page 586 徂) To go up; to proceed, to travel (Kangxi: 往也); to preserve (Kangxi: 存也), to lay up; _ts'o tse_ (cou4 ze6 徂謝) to fade, as flowers. 【徂】 (dzu) (_verb-like_) to go (unto)"
 }
 },
 "曹":{
