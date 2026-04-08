@@ -264,7 +264,7 @@ C
   ==
 P
   ++
-  1. Great (Kangxi: 大也).
+  1. Large (Kangxi: 大也).
   1. To spread (Kangxi: 施也).
   1. To set out, to arrange (Kangxi: 設也).
   1. To string (a string instrument) (Kangxi: ::施[絃]曰張::).
@@ -273,6 +273,18 @@ P
   1. A position, an opinion.
   1. To look.
   ++
+L
+  ====
+  * 【張】 (trjang)
+    ==
+    - (_verb-like_) [to] tension
+    - (_verb-like_) [to] string
+    - (_verb-like_) [to] extend, [to] spread
+    - (_verb-like_) [to] set out, [to] arrange
+    - (_verb-like_) [to] boast
+    - (_adjective-like_) large
+    ==
+  ====
 E
   ====
   - 【張】 (zoeng1)
@@ -314,11 +326,22 @@ W
         [[zoeng1 ming4 彰明]],
         clearly exhibited.
     ==
+    --
+    [[Alternative form of 章 (for the "manifest" sense). See $章zoeng1.]]
+    --
   ====
 P
   ++
   1. Adorned (Kangxi: 文彰也, 文章飾也).
   ++
+L
+  ====
+  * 【彰】 (tsyang)
+    ==
+    - (_adjective-like_) manifest, decorated
+    - (_verb-like_) [to] manifest
+    ==
+  ====
 $$
 
 ### 慞1 | _(1)Ch(e/)ung_ [[zoeng1]]
@@ -373,6 +396,13 @@ W
         a camphor odor.
     ==
   ====
+L
+  ====
+  * 【樟】 (tsyang)
+    ==
+    - (_noun-like_) camphor-tree
+    ==
+  ====
 $$
 
 ### 漳1 | _(1)Ch(e/)ung_ [[zoeng1]]
@@ -416,7 +446,7 @@ W
   ====
   - [[Page~566 (1)漿(1)䊢]]
     ==
-    - Thick, half fluid, pasty [[Kangxi 漿: 酢漿也一曰水米汁相將也]];
+    - Thick, half fluid, pasty [[Kangxi 漿: 一曰水米汁相將也]];
     - starch, syrup, pus, or matter;
     - to starch;
     - broth boiled down thick, congee;
@@ -444,6 +474,17 @@ C
   ==
   - Williams' 磨漿: Corrected _m(o\)(6)_ (mou6) to _mo(6)_ (mo6).
   ==
+P
+  ++
+  1. A sour(?) syrup (Kangxi 漿: 酢漿也).
+  ++
+L
+  ====
+  * 【漿】 (tsjang)
+    ==
+    - (_noun-like_) thick-liquid
+    ==
+  ====
 $$
 
 ###+ 獐1 | _(1)Ch(e/)ung_ [[zoeng1]]
@@ -495,6 +536,13 @@ W
         to bear a son.
     ==
   ====
+L
+  ====
+  * 【璋】 (tsyang)
+    ==
+    - (_noun-like_) jade-ornament
+    ==
+  ====
 $$
 
 ### 章1 | _(1)Ch(e/)ung_ [[zoeng1]]
@@ -505,6 +553,10 @@ R
   ⾳ + 2
 U
   U+7AE0
+A
+  ==
+  - $彰1 (for "manifest" sense)
+  ==
 F
   ==
   - (F1.89 章) 文章采章章明表章
@@ -548,12 +600,26 @@ W
   ====
 P
   ++
-  1. Colourful adornment (Kangxi: 采也).
+  1. Colourful decoration (Kangxi: 采也).
   1. A completed matter or composition (Kangxi: 成事成文曰章).
+  1. An emblem.
   1. Great forest trees (Kangxi: 大林木曰章).
   1. Order.
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【章】 (tsyang)
+    ==
+    - (_adjective-like_) manifest, decorated, (_met._) magnificent
+    - (_verb-like_) [to] manifest
+    - (_noun-like_) decoration
+    - (_noun-like_) emblem
+    - (_noun-like_) composition
+    - (_noun-like_) chapter, section
+    - (_noun-like_) statute
+    ==
+  ====
 $$
 
 ### 䊢1 | _(1)Ts(e/)ung_ [[zoeng1]]

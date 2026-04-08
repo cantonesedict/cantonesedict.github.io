@@ -4062,6 +4062,18 @@ window.onload = applyFilter;
       - (_noun-like_) peony
       ==
   //
+    , `trjang`
+    , [張](/entries/zoeng#rendering-張)
+    ,
+      ==
+      - (_verb-like_) [to] tension
+      - (_verb-like_) [to] string
+      - (_verb-like_) [to] extend, [to] spread
+      - (_verb-like_) [to] set out, [to] arrange
+      - (_verb-like_) [to] boast
+      - (_adjective-like_) large
+      ==
+  //
     , `trjangX`
     , [長~(rising)](/entries/zoeng#rendering-長-rising)
     ,
@@ -5681,6 +5693,13 @@ window.onload = applyFilter;
       - (_noun-like_) side
       ==
   //
+    , `tsjang`
+    , [漿](/entries/zoeng#rendering-漿)
+    ,
+      ==
+      - (_noun-like_) thick-liquid
+      ==
+  //
     , `tsje`
     , [訾~(level)](/entries/zi#rendering-訾-level)
     ,
@@ -6871,6 +6890,41 @@ window.onload = applyFilter;
       ==
       - (_verb-like_) [to] fill cup, [to] pour (cup)
       - (_verb-like_) [to] deliberate, [to] consider
+      ==
+  //
+    , `tsyang`
+    , [彰](/entries/zoeng#rendering-彰)
+    ,
+      ==
+      - (_adjective-like_) manifest, decorated
+      - (_verb-like_) [to] manifest
+      ==
+  //
+    , `tsyang`
+    , [樟](/entries/zoeng#rendering-樟)
+    ,
+      ==
+      - (_noun-like_) camphor-tree
+      ==
+  //
+    , `tsyang`
+    , [璋](/entries/zoeng#rendering-璋)
+    ,
+      ==
+      - (_noun-like_) jade-ornament
+      ==
+  //
+    , `tsyang`
+    , [章](/entries/zoeng#rendering-章)
+    ,
+      ==
+      - (_adjective-like_) manifest, decorated, (_met._) magnificent
+      - (_verb-like_) [to] manifest
+      - (_noun-like_) decoration
+      - (_noun-like_) emblem
+      - (_noun-like_) composition
+      - (_noun-like_) chapter, section
+      - (_noun-like_) statute
       ==
   //
     , `tsye`
