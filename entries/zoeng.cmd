@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-04-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -107,7 +107,7 @@ W
   ====
   - [[Page~565 (1)將]]
     ==
-    - To take, to hold in the hand [[Kangxi: 扶持也]];
+    - To take, ``to bring,`` to hold in the hand;
     - sign of the future, shall, will, about to go [[Kangxi: 將甫始之辭]];
     - sometimes a form of the accusative;
     - then, soon, presently;
@@ -166,11 +166,32 @@ P
   ++
   1. Or (Kangxi: 抑然之辭).
   1. And, also (Kangxi: 且也).
+  1. To support by holding (Kangxi: 扶持也).
   1. To provide for, to support (Kangxi: 養也).
   1. Strong, vigorous (Kangxi: 壯也).
   1. To recuperate.
   1. (_Chinese chess_) Short for 將軍 (to check).
   ++
+L
+  ====
+  * 【將-unaspirated】 (tsjang)
+    ==
+    - (_verb-like_) [to] bring (forth), [to] take
+    - (_verb-like_) [to] escort
+    - (_verb-like_) [to] support (forth), [to] push (forth)
+    - (_verb-like_) [to] perform
+    - (_verb-like_) [to] advance
+    - (_verb-like_) ^shall, [to] intend (to)
+    - (_adverb-like_) about (to)
+    - (_conjunction-like_) and, (_met._) both
+    - (_conjunction-like_) or
+    - (_adjective-like_) great
+    - (_adjective-like_) strong, vigorous
+    - (_adjective-like_) long
+    - (_verb-like_) [to] go
+    - (_noun-like_) side
+    ==
+  ====
 S
   ==
   - $將coeng1

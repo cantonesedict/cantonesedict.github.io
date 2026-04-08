@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-04-08
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -213,7 +213,7 @@ P
   ++
 L
   ====
-  * 【將】 (tshjang)
+  * 【將-aspirated】 (tshjang)
     ==
     - (_verb-like_) [to] entreat
     ==

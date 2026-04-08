@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-04-07
+* %date-modified --> 2026-04-08
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -4848,7 +4848,7 @@ window.onload = applyFilter;
       ==
   //
     , `tshjang`
-    , [將](/entries/coeng#rendering-將)
+    , [將~(aspirated)](/entries/coeng#rendering-將-aspirated)
     ,
       ==
       - (_verb-like_) [to] entreat
@@ -5659,6 +5659,26 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) sparrow
+      ==
+  //
+    , `tsjang`
+    , [將~(unaspirated)](/entries/zoeng#rendering-將-unaspirated)
+    ,
+      ==
+      - (_verb-like_) [to] bring (forth), [to] take
+      - (_verb-like_) [to] escort
+      - (_verb-like_) [to] support (forth), [to] push (forth)
+      - (_verb-like_) [to] perform
+      - (_verb-like_) [to] advance
+      - (_verb-like_) ^shall, [to] intend (to)
+      - (_adverb-like_) about (to)
+      - (_conjunction-like_) and, (_met._) both
+      - (_conjunction-like_) or
+      - (_adjective-like_) great
+      - (_adjective-like_) strong, vigorous
+      - (_adjective-like_) long
+      - (_verb-like_) [to] go
+      - (_noun-like_) side
       ==
   //
     , `tsje`
