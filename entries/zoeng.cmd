@@ -715,11 +715,18 @@ W
     - A feudal state, now part of T``(')``(a/)i-ng(a/)n f(u/) [[泰安府]] in ~~Shantung~~ ``Sh(a/)ntung`` [[山東]];
     - an ancient city in K(u:) [[莒]], also in the modern Sh(a/)ntung [[山東]].
     ==
+    --
+    [[Otherwise, an alternative form of 障, and reading variation. **See $障zoeng3 for the canonical entry.**]]
+    --
   ====
 C
   ==
   - The two senses in Kangxi are 《說文》紀邑也 and 莒邑.
     It is not clear to me whether these are states or cities (or one each).
+  ==
+S
+  ==
+  - ($鄣zoeng3)
   ==
 $$
 
@@ -1035,6 +1042,7 @@ $$
 - $瘴3
 - $脹3
 - $賬3
+- ($鄣3)
 - $醬3
 - $障3
 ==
@@ -1416,6 +1424,27 @@ C
   ==
 $$
 
+###+ 鄣3 | _Ch(e/)ung(3)_ [[zoeng3]]
+
+$$.
+R
+  ⾢ + 11
+U
+  U+9123
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 障. **See $障zoeng3 for the canonical entry.**
+  ++
+S
+  ==
+  - $鄣zoeng1
+  ==
+$$
+
 ### 醬3 | _Ts(e/)ung(3)_ [[zoeng3]]
 
 $$
@@ -1463,6 +1492,14 @@ R
   ⾩ + 11
 U
   U+969C
+A
+  ==
+  - $鄣3
+  ==
+V
+  ==
+  - zoeng1 (alternative per 《廣韻》諸良切)
+  ==
 F
   ==
   - (F1.92 障) 隔也蔽也塞也

@@ -3637,7 +3637,7 @@ class Linter:
 
                     if jyutping not in [
                         reading_variation.effective_jyutping
-                        for reading_variation in linked_character_entry.reading_variations
+                        for reading_variation in (linked_character_entry.reading_variations or [])
                     ]:
                         raise LintException(
                             f'missing (effective) reading variation `{jyutping}` under `{linked_character_entry}`'
