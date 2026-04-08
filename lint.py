@@ -3044,6 +3044,24 @@ class LiteraryRendering:
                     )
             return
 
+        if disambiguation_suffix == '-unaspirated':
+            for baxter in baxter_list:
+                if baxter[0] not in 'ptk' or 'h' in baxter[1:4]:
+                    raise LintException(
+                        f'Baxter transcription `{baxter}` is not contrastively unaspirated '
+                        f'for literary term `{term}{disambiguation_suffix}`'
+                    )
+            return
+
+        if disambiguation_suffix == '-aspirated':
+            for baxter in baxter_list:
+                if baxter[0] not in 'ptk' or 'h' not in baxter[1:4]:
+                    raise LintException(
+                        f'Baxter transcription `{baxter}` is not contrastively aspirated '
+                        f'for literary term `{term}{disambiguation_suffix}`'
+                    )
+            return
+
 
 class CantoneseEntry:
     term: str
