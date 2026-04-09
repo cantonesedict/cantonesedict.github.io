@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-04-08
+* %date-modified --> 2026-04-09
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -324,6 +324,14 @@ window.onload = applyFilter;
       - (_verb-like_) [to] screen, [to] cover (up)
       - (_noun-like_) fallen-tree
       ==
+  //
+    , `'jangX tsyangX`
+    , [鞅掌](/entries/zoeng#rendering-鞅掌)
+    ,
+      ==
+      - (_adjective-like_) uncomposed, bustling
+      ==
+      <## TODO: move 鞅掌 under $鞅joeng2 ##>
   //
     , `'jieH`
     , [縊](/entries/ai#rendering-縊)
@@ -6925,6 +6933,15 @@ window.onload = applyFilter;
       - (_noun-like_) composition
       - (_noun-like_) chapter, section
       - (_noun-like_) statute
+      ==
+  //
+    , `tsyangX`
+    , [掌](/entries/zoeng#rendering-掌)
+    ,
+      ==
+      - (_noun-like_) palm, (_met._) paw
+      - (_verb-like_) [to] have charge (of), [to] take charge (of)
+      - Used in [鞅掌](/entries/zoeng#rendering-鞅掌).
       ==
   //
     , `tsye`

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2026-04-08
+* %date-modified --> 2026-04-09
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -849,6 +849,20 @@ P
   1. Used in 鞅掌 (uncomposed, bustling) (Kangxi: 鞅掌失容也, 言促遽也, 言事煩不暇爲容儀也).
   1. To slap.
   ++
+L
+  ====
+  * 【鞅掌】 ('jangX tsyangX)
+    ==
+    - (_adjective-like_) uncomposed, bustling
+    ==
+    <## TODO: move 鞅掌 under $鞅joeng2 ##>
+  * 【掌】 (tsyangX)
+    ==
+    - (_noun-like_) palm, (_met._) paw
+    - (_verb-like_) [to] have charge (of), [to] take charge (of)
+    - Used in [鞅掌](/entries/zoeng#rendering-鞅掌).
+    ==
+  ====
 $$
 
 ### 槳2 | _(2)Ts(e/)ung_ [[zoeng2]]
@@ -922,6 +936,14 @@ P
   ++
   1. A reward, a prize.
   ++
+S
+  ====
+  * 【獎】 (tsjangX)
+    ==
+    - (_verb-like_) [to] encourage
+    - (_verb-like_) [to] bestead
+    ==
+  ====
 $$
 
 ### 蔣2 | _(2)Ts(e/)ung_ [[zoeng2]]
