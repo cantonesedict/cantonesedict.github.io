@@ -1079,6 +1079,29 @@ window.onload = applyFilter;
       - (_noun-like_) carambola
       ==
   //
+    , `drjangX`
+    , [丈](/entries/zoeng#rendering-丈)
+    ,
+      ==
+      - (_noun-like_) measure, rod
+      - (_noun-like_) old-man, man
+      ==
+  //
+    , `drjangX`
+    , [杖~(noun)](/entries/zoeng#rendering-杖-noun)
+    ,
+      ==
+      - (_noun-like_) staff, rod
+      ==
+  //
+    , `drjangH`
+    , [杖~(verb)](/entries/zoeng#rendering-杖-verb)
+    ,
+      ==
+      - (_verb-like_) [to] lean (upon)
+      - (_verb-like_) [to] hold
+      ==
+  //
     , `drjangH`
     , [長~(departing)](/entries/zoeng#rendering-長-departing)
     ,
@@ -1851,6 +1874,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) wall
+      ==
+  //
+    , `dzjangH`
+    , [匠](/entries/zoeng#rendering-匠)
+    ,
+      ==
+      - (_noun-like_) carpenter, artisan
       ==
   //
     , `dzje`
@@ -8609,6 +8639,28 @@ window.onload = applyFilter;
       - (_verb-like_) [to] scrutinise
       - (_adjective-like_) detailed
       - (_verb-like_) [to] detail, [to] elaborate
+      ==
+  //
+    , `zjangX`
+    , [像](/entries/zoeng#rendering-像)
+    ,
+      ==
+      - (_verb-like_) [to] image, [to] depict
+      ==
+  //
+    , `zjangX`
+    , [橡](/entries/zoeng#rendering-橡)
+    ,
+      ==
+      - (_noun-like_) acorn
+      ==
+  //
+    , `zjangX`
+    , [象](/entries/zoeng#rendering-象)
+    ,
+      ==
+      - (_noun-like_) elephant
+      - (_noun-like_) image, depiction
       ==
   //
     , `zjek`

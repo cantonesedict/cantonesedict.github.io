@@ -1655,6 +1655,9 @@ W
         [[fong1 zoeng6 方丈]]
         the abbot of a monastery.
     ==
+    --
+    [[Otherwise, an alternative form of 杖. **See $杖zoeng6 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -1664,6 +1667,14 @@ C
     See also commentary at $咫zi2.
   - Williams' "abbot of a monastery": Originally the *residence* of the abbot (Kangxi: 釋氏所居曰方丈).
   ==
+L
+  ====
+  * 【丈】 (drjangX)
+    ==
+    - (_noun-like_) measure, rod
+    - (_noun-like_) old-man, man
+    ==
+  ====
 $$
 
 [Ordinance No.~8 of 1885]: https://web.archive.org/web/20220609133538/https://oelawhk.lib.hku.hk/archive/files/52fa22f83069cf6a385779d462a0f6e7.pdf
@@ -1790,6 +1801,13 @@ W
     [[Alternative form of 象 (for the "resemble", "imitate", and "image" senses). See $象zoeng6.]]
     --
   ====
+L
+  ====
+  * 【像】 (zjangX)
+    ==
+    - (_verb-like_) [to] image, [to] depict
+    ==
+  ====
 $$
 
 ### 匠6 | _Ts(e/)ung(6)_ [[zoeng6]]
@@ -1826,6 +1844,13 @@ C
   ==
   - Originally, a carpenter (Kangxi: 木工也).
   ==
+L
+  ====
+  * 【匠】 (dzjangH)
+    ==
+    - (_noun-like_) carpenter, artisan
+    ==
+  ====
 $$
 
 ### 杖6 | _Ch(e/)ung(6)_ [[zoeng6]]
@@ -1835,6 +1860,10 @@ R
   ⽊ + 3
 U
   U+6756
+A
+  ==
+  - $丈6
+  ==
 V
   ==
   - zoeng6-2 (vernacular rising-tone noun)
@@ -1887,6 +1916,18 @@ C
   ==
   - Williams' 錫杖: Changed _sik(7)_ (sik1) to common reading _sek(8)_ (sek3).
   ==
+L
+  ====
+  * 【杖-noun】 (drjangX)
+    ==
+    - (_noun-like_) staff, rod
+    ==
+  * 【杖-verb】 (drjangH)
+    ==
+    - (_verb-like_) [to] lean (upon)
+    - (_verb-like_) [to] hold
+    ==
+  ====
 $$
 
 ###+ 橡6 | _Ts(e/)ung(6)_ [[zoeng6]]
@@ -1908,6 +1949,13 @@ P
   1. Acorn, the fruit of the oak (Kangxi: 栩實也).
   1. Rubber (from the rubber tree), used in compounds.
   ++
+L
+  ====
+  * 【橡】 (zjangX)
+    ==
+    - (_noun-like_) acorn
+    ==
+  ====
 E
   ====
   - 【橡筋】 (zoeng6 gan1)
@@ -1976,6 +2024,14 @@ C
   ==
   - Williams' 象皮: The "rubber" sense is now spelt 橡皮.
   ==
+L
+  ====
+  * 【象】 (zjangX)
+    ==
+    - (_noun-like_) elephant
+    - (_noun-like_) image, depiction
+    ==
+  ====
 E
   ====
   - 【大笨象】 (daai6 ban6 zoeng6)
