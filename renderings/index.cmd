@@ -3748,6 +3748,13 @@ window.onload = applyFilter;
       ==
   //
     , `trhjangH`
+    , [悵](/entries/zoeng#rendering-悵)
+    ,
+      ==
+      - (_adjective-like_) disappointed
+      ==
+  //
+    , `trhjangH`
     , [暢](/entries/coeng#rendering-暢)
     ,
       ==
@@ -4071,7 +4078,7 @@ window.onload = applyFilter;
       ==
   //
     , `trjang`
-    , [張](/entries/zoeng#rendering-張)
+    , [張~(level)](/entries/zoeng#rendering-張-level)
     ,
       ==
       - (_verb-like_) [to] tension
@@ -4089,6 +4096,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] grow
       - (_noun-like_) elder, leader
       - (_verb-like_) [to] lead
+      ==
+  //
+    , `trjangH`
+    , [張~(departing)](/entries/zoeng#rendering-張-departing)
+    ,
+      ==
+      - (_verb-like_) [to] swell, [to] inflate
       ==
   //
     , `trje`
@@ -5708,6 +5722,21 @@ window.onload = applyFilter;
       - (_noun-like_) thick-liquid
       ==
   //
+    , `tsjangH`
+    , [將~(departing)](/entries/zoeng#rendering-將-departing)
+    ,
+      ==
+      - (_verb-like_) [to] command, [to] lead
+      - (_noun-like_) commander, general
+      ==
+  //
+    , `tsjangH`
+    , [醬](/entries/zoeng#rendering-醬)
+    ,
+      ==
+      - (_noun-like_) paste
+      ==
+  //
     , `tsje`
     , [訾~(level)](/entries/zi#rendering-訾-level)
     ,
@@ -6935,6 +6964,14 @@ window.onload = applyFilter;
       - (_noun-like_) statute
       ==
   //
+    , `tsyang`
+    , [障](/entries/zoeng#rendering-障)
+    ,
+      ==
+      - (_verb-like_) [to] barrier, [to] embank, (_met._) [to] shield
+      - (_noun-like_) barrier
+      ==
+  //
     , `tsyangX`
     , [掌](/entries/zoeng#rendering-掌)
     ,
@@ -6942,6 +6979,14 @@ window.onload = applyFilter;
       - (_noun-like_) palm, (_met._) paw
       - (_verb-like_) [to] have charge (of), [to] take charge (of)
       - Used in [鞅掌](/entries/zoeng#rendering-鞅掌).
+      ==
+  //
+    , `tsyangH`
+    , [障](/entries/zoeng#rendering-障)
+    ,
+      ==
+      - (_verb-like_) [to] barrier, [to] embank, (_met._) [to] shield
+      - (_noun-like_) barrier
       ==
   //
     , `tsye`

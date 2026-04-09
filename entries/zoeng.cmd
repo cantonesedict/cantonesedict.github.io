@@ -275,7 +275,7 @@ P
   ++
 L
   ====
-  * 【張】 (trjang)
+  * 【張-level】 (trjang)
     ==
     - (_verb-like_) [to] tension
     - (_verb-like_) [to] string
@@ -298,7 +298,7 @@ E
   ====
 S
   ==
-  - ($張zoeng3)
+  - $張zoeng3
   ==
 $$
 
@@ -1058,7 +1058,7 @@ $$
 - ($仗3)
 - $將3
 - $帳3
-- ($張3)
+- $張3
 - $悵3
 - $漲3
 - $瘴3
@@ -1118,6 +1118,14 @@ C
   ==
   - Williams' 老將: Corrected _(2)l(o\)_ (lou2) to _(5)l(o\)_ (lou5).
   ==
+L
+  ====
+  * 【將-departing】 (tsjangH)
+    ==
+    - (_verb-like_) [to] command, [to] lead
+    - (_noun-like_) commander, general
+    ==
+  ====
 S
   ==
   - $將coeng1
@@ -1181,7 +1189,7 @@ $$
 
 ###+ 張3 | _Ch(e/)ung(3)_ [[zoeng3]]
 
-$$.
+$$
 R
   ⼸ + 8
 U
@@ -1192,9 +1200,16 @@ W
   [[Not present]]
 P
   ++
+  1. To swell, to inflate. (Alternative form of 脹. See $脹zoeng3.)
   1. Alternative form of 帳. **See $帳zoeng3 for the canonical entry.**
-  1. Alternative form of 脹. **See $脹zoeng3 for the canonical entry.**
   ++
+L
+  ====
+  * 【張-departing】 (trjangH)
+    ==
+    - (_verb-like_) [to] swell, [to] inflate
+    ==
+  ====
 S
   ==
   - $張zoeng1
@@ -1228,6 +1243,13 @@ W
     - _ch(e/)ung(3) mong(6)_
         [[zoeng3 mong6 悵望]]
         sick at heart from delayed hopes.
+    ==
+  ====
+L
+  ====
+  * 【悵】 (trhjangH)
+    ==
+    - (_adjective-like_) disappointed
     ==
   ====
 S
@@ -1505,6 +1527,13 @@ W
         a sort of bean relish.
     ==
   ====
+L
+  ====
+  * 【醬】 (tsjangH)
+    ==
+    - (_noun-like_) paste
+    ==
+  ====
 $$
 
 ### 障3 | _Ch(e/)ung(3)_ [[zoeng3]]
@@ -1559,6 +1588,14 @@ P
   1. A screen (Kangxi: 步障也).
   1. Used in 故障 (malfunction, failure).
   ++
+L
+  ====
+  * 【障】 (tsyang, tsyangH)
+    ==
+    - (_verb-like_) [to] barrier, [to] embank, (_met._) [to] shield
+    - (_noun-like_) barrier
+    ==
+  ====
 $$
 
 
