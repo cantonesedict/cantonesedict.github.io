@@ -2247,11 +2247,38 @@ window.onload = applyFilter;
       - (_noun-like_) wealth
       ==
   //
+    , `dzojX`
+    , [在](/entries/zoi#rendering-在)
+    ,
+      ==
+      - (_verb-like_) [to] be (present), [to] be at, [to] be in, [to] be on
+      - (_preposition-like_) at, in, on
+      - (_verb-like_) [to] examine
+      - Used in [所在](/entries/zoi#rendering-所在).
+      ==
+  //
+    , `dzojH`
+    , [在](/entries/zoi#rendering-在)
+    ,
+      ==
+      - (_verb-like_) [to] be (present), [to] be at, [to] be in, [to] be on
+      - (_preposition-like_) at, in, on
+      - (_verb-like_) [to] examine
+      - Used in [所在](/entries/zoi#rendering-所在).
+      ==
+  //
     , `dzojH`
     , [栽~(departing)](/entries/zoi#rendering-栽-departing)
     ,
       ==
       - (_verb-like_) [to] erect construction-panelling
+      ==
+  //
+    , `dzojH`
+    , [載~(voiced)](/entries/zoi#rendering-載-voiced)
+    ,
+      ==
+      - (_verb-like_) [to] load
       ==
   //
     , `dzok`
@@ -3488,6 +3515,20 @@ window.onload = applyFilter;
       ==
       - (_verb-like_) [to] produce, [to] bear
       - (_noun-like_) property
+      ==
+  //
+    , `srjoX dzojX`
+    , [所在](/entries/zoi#rendering-所在)
+    ,
+      ==
+      - (_noun-like_) whereabouts
+      ==
+  //
+    , `srjoX dzojH`
+    , [所在](/entries/zoi#rendering-所在)
+    ,
+      ==
+      - (_noun-like_) whereabouts
       ==
   //
     , `srjwet`
@@ -6244,10 +6285,28 @@ window.onload = applyFilter;
       ==
   //
     , `tsojX`
-    , [載~(year)](/entries/zoi#rendering-載-year)
+    , [載~(rising)](/entries/zoi#rendering-載-rising)
     ,
       ==
       - (_noun-like_) year
+      ==
+  //
+    , `tsojH`
+    , [再](/entries/zoi#rendering-再)
+    ,
+      ==
+      - (_adverb-like_) twice, again
+      ==
+  //
+    , `tsojH`
+    , [載~(unvoiced)](/entries/zoi#rendering-載-unvoiced)
+    ,
+      ==
+      - (_verb-like_) [to] carry, [to] load, (_met._) [to] fill, [to] fulfil
+      - (_verb-like_) [to] record
+      - (_verb-like_) [to] carry [out]
+      - (_noun-like_) work
+      - (_speech-assist_)
       ==
   //
     , `tsok`

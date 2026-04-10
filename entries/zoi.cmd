@@ -468,7 +468,7 @@ W
   ====
 L
   ====
-  * 【載-year】 (tsojX)
+  * 【載-rising】 (tsojX)
     ==
     - (_noun-like_) year
     ==
@@ -544,6 +544,13 @@ W
     - _tsoi(3) pat(7) (4)loi_
         [[zoi3 bat1 loi4 再不來]],
         I shall not return.
+    ==
+  ====
+L
+  ====
+  * 【再】 (tsojH)
+    ==
+    - (_adverb-like_) twice, again
     ==
   ====
 $$
@@ -636,6 +643,21 @@ P
   ++
   1. Deeds, works (Kangxi: 事也).
   ++
+L
+  ====
+  * 【載-voiced】 (dzojH)
+    ==
+    - (_verb-like_) [to] load
+    ==
+  * 【載-unvoiced】 (tsojH)
+    ==
+    - (_verb-like_) [to] carry, [to] load, (_met._) [to] fill, [to] fulfil
+    - (_verb-like_) [to] record
+    - (_verb-like_) [to] carry [out]
+    - (_noun-like_) work
+    - (_speech-assist_)
+    ==
+  ====
 S
   ==
   - $載zoi2
@@ -797,6 +819,20 @@ P
   ++
   1. Whereabouts (Kangxi: 所在也).
   ++
+L
+  ====
+  * 【在】 (dzojX, dzojH)
+    ==
+    - (_verb-like_) [to] be (present), [to] be at, [to] be in, [to] be on
+    - (_preposition-like_) at, in, on
+    - (_verb-like_) [to] examine
+    - Used in [所在](/entries/zoi#rendering-所在).
+    ==
+  * 【所在】 (srjoX dzojX, srjoX dzojH)
+    ==
+    - (_noun-like_) whereabouts
+    ==
+  ====
 $$
 
 ###+ 栽6 | _Tsoi(6)_ [[zoi6]]
