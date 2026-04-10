@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-04-09
+* %date-modified --> 2026-04-10
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -2245,6 +2245,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) wealth
+      ==
+  //
+    , `dzojH`
+    , [栽~(departing)](/entries/zoi#rendering-栽-departing)
+    ,
+      ==
+      - (_verb-like_) [to] erect construction-panelling
       ==
   //
     , `dzok`
@@ -6203,6 +6210,44 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) bisected-contract
+      ==
+  //
+    , `tsoj`
+    , [哉](/entries/zoi#rendering-哉)
+    ,
+      ==
+      - (_speech-assist_)
+      - (_verb-like_) [to] begin
+      ==
+  //
+    , `tsoj`
+    , [栽~(level)](/entries/zoi#rendering-栽-level)
+    ,
+      ==
+      - (_verb-like_) [to] plant
+      ==
+  //
+    , `tsoj`
+    , [災](/entries/zoi#rendering-災)
+    ,
+      ==
+      - (_noun-like_) calamity
+      ==
+  //
+    , `tsojX`
+    , [宰](/entries/zoi#rendering-宰)
+    ,
+      ==
+      - (_noun-like_) steward, minister, governor
+      - (_verb-like_) [to] rule over
+      - (_verb-like_) [to] butcher
+      ==
+  //
+    , `tsojX`
+    , [載~(rising)](/entries/zoi#rendering-載-rising)
+    ,
+      ==
+      - (_noun-like_) year
       ==
   //
     , `tsok`

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoi
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-04-10
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -120,6 +120,14 @@ C
   - Williams' 仁遠乎哉: Changed _(4)(u/)_ (wu4) to common reading _(4)f(u/)_ (fu4).
   - Williams' 野哉由也: Corrected _y(a/)(6)_ (jaa6) to _(5)y(a/)_ (jaa5).
   ==
+L
+  ====
+  * 【哉】 (tsoj)
+    ==
+    - (_speech-assist_)
+    - (_verb-like_) [to] begin
+    ==
+  ====
 $$
 
 ### 栽1 | _(1)Tsoi_ [[zoi1]]
@@ -157,6 +165,13 @@ P
   ++
   1. To tumble, to fall.
   ++
+L
+  ====
+  * 【栽-level】 (tsoj)
+    ==
+    - (_verb-like_) [to] plant
+    ==
+  ====
 S
   ==
   - $栽zoi6
@@ -228,6 +243,13 @@ C
   - Fan Wan entry: Added (hypothesised) homophone 兹 for 菑.
   - Williams' 打醮: Corrected _(2)ta_ to _(2)t(a/)_.
   ==
+L
+  ====
+  * 【災】 (tsoj)
+    ==
+    - (_noun-like_) calamity
+    ==
+  ====
 $$
 
 ### 灾1 | _(1)Tsoi_ [[zoi1]]
@@ -366,7 +388,7 @@ W
         the mind;
     - _(1)k(a/) (2)tsoi_
         [[gaa1 zoi2 家宰]],
-        a steward [[Kangxi: 家臣之長曰宰, 諸宰家宰也]];
+        a steward;
     - _kam(3) (2)ch(i/) (4)t(')(o\) (2)tsoi_
         [[gam3 zi2 tou4 zoi2 禁止屠宰]],
         prohibited the butchering of animals, as in time of drought;
@@ -381,8 +403,18 @@ W
 P
   ++
   1. A surname (Kangxi: 姓).
+  1. A steward (Kangxi: 家臣之長曰宰).
   1. Used in 宰父 (a compound surname) (Kangxi: 宰父複姓).
   ++
+L
+  ====
+  * 【宰】 (tsojX)
+    ==
+    - (_noun-like_) steward, minister, governor
+    - (_verb-like_) [to] rule over
+    - (_verb-like_) [to] butcher
+    ==
+  ====
 $$
 
 ###+ 滓2 | _(2)Tsoi_ [[zoi2]]
@@ -458,6 +490,13 @@ C
     under rising-tone _(2)tsoi_ (zoi2) rather than departing-tone _tsoi(3)_ (zoi3),
     noting I have not seen solid evidence to back up my decision.
     I am happy to be proven wrong, and for Williams to be vindicated.
+  ====
+L
+  ====
+  * 【載-rising】 (tsojX)
+    ==
+    - (_noun-like_) year
+    ==
   ====
 S
   ==
@@ -764,8 +803,15 @@ W
   [[Not present]]
 P
   ++
-  1. Long panelling used to construct walls (Kangxi: 築牆長板).
+  1. To erect long panelling used to construct walls (Kangxi: 築牆長板, 設築板).
   ++
+L
+  ====
+  * 【栽-departing】 (dzojH)
+    ==
+    - (_verb-like_) [to] erect construction-panelling
+    ==
+  ====
 S
   ==
   - $栽zoi1
