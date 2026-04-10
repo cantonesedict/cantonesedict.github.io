@@ -465,35 +465,10 @@ W
         [[gei2 zoi2 幾載]],
         several years.
     ==
-  - [[Page~589 載(3) _Tsoi(3)_ (zoi3); here corrected to _(2)Tsoi_ (zoi2)]]
-    ==
-    - [[...]];
-    - an incalculably high number;
-    - [[...]].
-    ==
-  ====
-C
-  ====
-  - Williams' "incalculably high number":
-    Based on the progression 億兆京垓秭壤溝澗正載, one of the following:
-    ==
-    - 10<sup>14</sup>
-      (starting from 億 = 10<sup>5</sup> and going up by factors of 10);
-    - 10<sup>17</sup>
-      (starting from 億 = 10<sup>8</sup> and going up by factors of 10);
-    - 10<sup>44</sup>
-      (starting from 億 = 10<sup>8</sup> and going up by factors of 10<sup>4</sup>);
-    - 10<sup>4096</sup>
-      (starting from 億 = 10<sup>8</sup> and going up by squares).
-    ==
-    It is an intuitive feeling that has led me to put this sense
-    under rising-tone _(2)tsoi_ (zoi2) rather than departing-tone _tsoi(3)_ (zoi3),
-    noting I have not seen solid evidence to back up my decision.
-    I am happy to be proven wrong, and for Williams to be vindicated.
   ====
 L
   ====
-  * 【載-rising】 (tsojX)
+  * 【載-year】 (tsojX)
     ==
     - (_noun-like_) year
     ==
@@ -582,7 +557,7 @@ U
   U+8F09
 V
   ==
-  - zoi6 (per 《廣韻》昨代切 for "transport" sense)
+  - zoi6 (per 《集韻》昨代切 for "load" senses)
   ==
 F
   ==
@@ -601,7 +576,7 @@ W
     - written, recorded;
     - filled, loaded [[Kangxi: 滿也]];
     - an auxiliary word, then, thereupon [[Kangxi: 則也助語辭]];
-    - [[...]];
+    - an incalculably high number;
     - _(1)chong tsoi(3)_
         [[zong1 zoi3 裝載]]
         to store, to load, as a carriage;
@@ -626,9 +601,37 @@ W
     ==
   ====
 C
-  ==
+  ====
+  - The reading 昨代切 _tsoi(6)_ (zoi6) is very poorly explained
+    in the Middle Chinese rime books:
+    ==
+    - 《廣韻》 has the extremely vague explanation 運也 "transport".
+    - 《集韻》 has the better explanation 舟車運物也 "transported objects [on] boats [and] chariots".
+    ==
+    Kangxi uses the second of these for the example 《詩小雅》其車旣載.
+    This is not entirely satisfying,
+    because the 《集韻》 explanation appears to be for "load" the noun,
+    but the 《詩小雅》 example appears to be for "load" the *verb*.
+  - The reading 昨代切 _tsoi(6)_ (zoi6) appears to have survived
+    as vernacular 儎. See $儎zoi6.
+  - Williams' "incalculably high number":
+    Based on the progression 億兆京垓秭壤溝澗正載, one of the following:
+    ==
+    - 10<sup>14</sup>
+      (starting from 億 = 10<sup>5</sup> and going up by factors of 10);
+    - 10<sup>17</sup>
+      (starting from 億 = 10<sup>8</sup> and going up by factors of 10);
+    - 10<sup>44</sup>
+      (starting from 億 = 10<sup>8</sup> and going up by factors of 10<sup>4</sup>);
+    - 10<sup>4096</sup>
+      (starting from 億 = 10<sup>8</sup> and going up by squares).
+    ==
+    Actually, it is unclear whether this sense should be read
+    _(2)tsoi_ (zoi2) "year's-[worth]^(?)",
+    _tsoi(3)_ (zoi3) "carry(?)",
+    or _tsoi(6)_ (zoi6) "load(?)".
   - Williams' 冇嘢載住: Corrected _ch(u:)(3)_ (zyu3) to _ch(u:)(6)_ (zyu6).
-  ==
+  ====
 P
   ++
   1. Deeds, works (Kangxi: 事也).
@@ -687,6 +690,12 @@ W
         she carries 18,000~catties.
     ==
   ====
+C
+  ==
+  - Williams' "A colloquial word":
+    Probably from the reading 昨代切 _tsoi(6)_ (zoi6) of 載.
+    See commentary at $載zoi3.
+  ==
 $$
 
 ### 在6 | _Tsoi(6)_ [[zoi6]]

@@ -6244,7 +6244,7 @@ window.onload = applyFilter;
       ==
   //
     , `tsojX`
-    , [載~(rising)](/entries/zoi#rendering-載-rising)
+    , [載~(year)](/entries/zoi#rendering-載-year)
     ,
       ==
       - (_noun-like_) year
