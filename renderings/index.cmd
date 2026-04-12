@@ -4510,6 +4510,13 @@ window.onload = applyFilter;
       ==
   //
     , `tsak`
+    , [糳](/entries/zok#rendering-糳)
+    ,
+      ==
+      - (_noun-like_) intricate-grain
+      ==
+  //
+    , `tsak`
     , [鑿~(unvoiced)](/entries/zok#rendering-鑿-unvoiced)
     ,
       ==

@@ -46,6 +46,7 @@ $$
 =={.modern}
 - $作3
 - ($昨3)
+- $糳3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -156,6 +157,46 @@ S
   ==
   - $昨zok6
   ==
+$$
+
+###+ 糳3 | _Tsok(8)_ [[zok3]]
+
+$$
+R
+  ⽶ + 20
+U
+  U+7CF3
+A
+  ==
+  - 鑿
+  - {𥽦=⿱⿰凿殳米}
+  - {𥽿=⿰⿳业丷臿⿱殳米}
+  ==
+V
+  ==
+  - zok6 (common)
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+C
+  ==
+  - This character has 20~residual strokes, the same as 鑿.
+    However, the Unihan Database records only 16~residual strokes,
+    presumably because its authors have confused it with {𥽦=⿱⿰凿殳米}.
+  ==
+P
+  ++
+  1. Finely polished rice (Kangxi {𥽿=⿰⿳业丷臿⿱殳米}: 精細米).
+  ++
+L
+  ====
+  * 【糳】 (tsak)
+    ==
+    - (_noun-like_) intricate-grain
+    ==
+  ====
 $$
 
 
@@ -483,6 +524,9 @@ W
         [[jin4 zi1 zok6 zok6 ho2 ting3 言之鑿鑿可聽]]
         he will believe if he has repeated proofs.
     ==
+    --
+    [[Otherwise, an alternative form of 糳, and reading variation. **See $糳zok3 for the canonical entry.**]]
+    --
   ====
 C
   ==

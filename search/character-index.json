@@ -12153,6 +12153,12 @@
 "text":"U+6628 zok3 (common) (F1.103 昨) 昔日也 (Page 592 昨) Yesterday (Kangxi: 累日也, 昨日隔一宵也); time past; recently; _tsok yat_ (zok6 jat6 昨日) yesterday; _tsok man_ (zok6 maan5 昨晚), last evening, last night; _tsok man_ (zok6 man4 昨聞), I recently heard it. 【昨】 (dzak) (_noun-like_) yesterday, yester"
 }
 },
+"糳":{
+"zok3":{
+"isCanonical":true,
+"text":"U+7CF3 鑿 𥽦 𥽿 zok6 (common) This character has 20 residual strokes, the same as 鑿. However, the Unihan Database records only 16 residual strokes, presumably because its authors have confused it with 𥽦. Finely polished rice (Kangxi 𥽿: 精細米). 【糳】 (tsak) (_noun-like_) intricate-grain"
+}
+},
 "怍":{
 "zok6":{
 "isCanonical":true,
