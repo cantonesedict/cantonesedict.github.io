@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-04-10
+* %date-modified --> 2026-04-12
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -825,6 +825,28 @@ window.onload = applyFilter;
       - (_noun-like_) door-post
       ==
   //
+    , `draewH`
+    , [濯~(departing)](/entries/zok#rendering-濯-departing)
+    ,
+      ==
+      - (_verb-like_) [to] wash
+      - (_adjective-like_) sheeny
+      ==
+  //
+    , `draewk`
+    , [擢](/entries/zok#rendering-擢)
+    ,
+      ==
+      - (_verb-like_) [to] pull out, [to] select, (_met._) [to] remove
+      ==
+  //
+    , `draewk`
+    , [濯~(entering)](/entries/zok#rendering-濯-entering)
+    ,
+      ==
+      - (_verb-like_) [to] wash
+      ==
+  //
     , `dreaX`
     , [豸](/entries/zaai#rendering-豸)
     ,
@@ -1545,6 +1567,36 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) ailment, (_met._) plague
+      ==
+  //
+    , `dzak`
+    , [怍](/entries/zok#rendering-怍)
+    ,
+      ==
+      - (_verb-like_) [to] be ashamed
+      - (_verb-like_) [to] change countenance
+      ==
+  //
+    , `dzak`
+    , [昨](/entries/zok#rendering-昨)
+    ,
+      ==
+      - (_noun-like_) yesterday, yester
+      ==
+  //
+    , `dzak`
+    , [酢](/entries/zok#rendering-酢)
+    ,
+      ==
+      - (_verb-like_) [to] pledge (in return)
+      - (_verb-like_) [to] recompense
+      ==
+  //
+    , `dzak`
+    , [鑿~(voiced)](/entries/zok#rendering-鑿-voiced)
+    ,
+      ==
+      - (_verb-like_) [to] chisel, [to] bore, (_met._) [to] dig
       ==
   //
     , `dzam`
@@ -4444,6 +4496,24 @@ window.onload = applyFilter;
       ==
       - (_verb-like_) [to] aid (aleft)
       - (_noun-like_) aid
+      ==
+  //
+    , `tsak`
+    , [作](/entries/zok#rendering-作)
+    ,
+      ==
+      - (_verb-like_) [to] arise, [to] raise
+      - (_verb-like_) [to] construct, [to] make
+      - (_verb-like_) [to] compose, [to] write
+      - (_verb-like_) [to] work
+      - (_verb-like_) [to] be, (_met._) ^as
+      ==
+  //
+    , `tsak`
+    , [鑿~(unvoiced)](/entries/zok#rendering-鑿-unvoiced)
+    ,
+      ==
+      - (_adjective-like_) clear, bright
       ==
   //
     , `tsanH`

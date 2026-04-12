@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zok
-* %date-modified --> 2026-04-06
+* %date-modified --> 2026-04-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -113,6 +113,17 @@ C
   ==
   - Williams' 工作: Now "work".
   ==
+L
+  ====
+  * 【作】 (tsak)
+    ==
+    - (_verb-like_) [to] arise, [to] raise
+    - (_verb-like_) [to] construct, [to] make
+    - (_verb-like_) [to] compose, [to] write
+    - (_verb-like_) [to] work
+    - (_verb-like_) [to] be, (_met._) ^as
+    ==
+  ====
 E
   ====
   - 【老作】 (lou5 zok3)
@@ -181,9 +192,17 @@ W
   ====
   - [[Page~592 怍(9)]]
     ==
-    - Ashamed, disconcerted [[Kangxi: 慚也, 心作動也]], out of countenance [[Kangxi: 顏色變也, 色不和曰怍]];
+    - Ashamed [[Kangxi: 慚也]], disconcerted, out of countenance [[Kangxi: 顏色變也, 色不和曰怍]];
     - to blush, to redden;
     - blushing, shamefaced.
+    ==
+  ====
+L
+  ====
+  * 【怍】 (dzak)
+    ==
+    - (_verb-like_) [to] be ashamed
+    - (_verb-like_) [to] change countenance
     ==
   ====
 $$
@@ -210,11 +229,18 @@ W
     - To pull up [[Kangxi: 引也]];
     - to take out, to select, to raise, to promote [[Kangxi: 拔也, 抽也出也]];
     - to employ in office;
-    - ~~to reject, to extinguish, as good resolutions;~~
+    - ~~to reject, to extinguish, as good resolutions~~ ``to remove`` [[Kangxi: 去也徹也]];
     - _~~ch(a/)k(9)~~ ``chok(9)`` f(a/)t(8) (4)n(a/)n (2)sh(o\)_
         [[zok6 faat3 naan4 sou2 擢髮難數]],
         the hairs can not be counted by pulling them out---\
         his crimes are ~~unmberless~~ ``numberless``.
+    ==
+  ====
+L
+  ====
+  * 【擢】 (draewk)
+    ==
+    - (_verb-like_) [to] pull out, [to] select, (_met._) [to] remove
     ==
   ====
 S
@@ -254,6 +280,13 @@ W
     - _tsok(9) (4)man_
         [[zok6 man4 昨聞]],
         I recently heard it.
+    ==
+  ====
+L
+  ====
+  * 【昨】 (dzak)
+    ==
+    - (_noun-like_) yesterday, yester
     ==
   ====
 S
@@ -302,6 +335,10 @@ R
   ⽔ + 14
 U
   U+6FEF
+V
+  ==
+  - zaau6 (alternative per 《廣韻》直敎切 for "wash" sense)
+  ==
 F
   ==
   - (F1.104 濯) 洗濯又肥澤貌
@@ -330,6 +367,18 @@ P
   ++
   1. Without vegetation (of a hill) (Kangxi: 山無草木之貌).
   ++
+L
+  ====
+  * 【濯-departing】 (draewH)
+    ==
+    - (_verb-like_) [to] wash
+    - (_adjective-like_) sheeny
+    ==
+  * 【濯-entering】 (draewk)
+    ==
+    - (_verb-like_) [to] wash
+    ==
+  ====
 $$
 
 ###+ 笮6 | _Tsok(9)_ [[zok6]]
@@ -372,6 +421,14 @@ W
     ==
     - To pledge a host, to return health [[Kangxi: 客酌主人也, 酬酢]];
     - to recompense, to return a compliment [[Kangxi: 酢報也]].
+    ==
+  ====
+L
+  ====
+  * 【酢】 (dzak)
+    ==
+    - (_verb-like_) [to] pledge (in return)
+    - (_verb-like_) [to] recompense
     ==
   ====
 S
@@ -439,6 +496,17 @@ P
   1. Bright, clear (Kangxi: 鮮明貌).
   1. Definite, reliable, irrefutable.
   ++
+L
+  ====
+  * 【鑿-voiced】 (dzak)
+    ==
+    - (_verb-like_) [to] chisel, [to] bore, (_met._) [to] dig
+    ==
+  * 【鑿-unvoiced】 (tsak)
+    ==
+    - (_adjective-like_) clear, bright
+    ==
+  ====
 $$
 
 ###+ 鷟6 | _Chok(9)_ [[zok6]]
