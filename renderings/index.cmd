@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-04-12
+* %date-modified --> 2026-04-13
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -4535,6 +4535,14 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] assist (in), [to] advance
+      ==
+  //
+    , `tsang`
+    , [牂](/entries/zong#rendering-牂)
+    ,
+      ==
+      - (_noun-like_) ewe
+      - (_adjective-like_) flourishing
       ==
   //
     , `tsawX`

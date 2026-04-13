@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zong
-* %date-modified --> 2026-04-05
+* %date-modified --> 2026-04-13
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -222,6 +222,14 @@ W
     - _(1)tsong (1)tsong_
         [[zong1 zong1 牂牂]],
         flourishing, as foliage [[Kangxi: 牂牂然盛貌]].
+    ==
+  ====
+L
+  ====
+  * 【牂】 (tsang)
+    ==
+    - (_noun-like_) ewe
+    - (_adjective-like_) flourishing
     ==
   ====
 $$
