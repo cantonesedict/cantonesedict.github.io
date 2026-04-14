@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-04-13
+* %date-modified --> 2026-04-14
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -847,6 +847,22 @@ window.onload = applyFilter;
       - (_verb-like_) [to] wash
       ==
   //
+    , `draewng`
+    , [撞](/entries/zong#rendering-撞)
+    ,
+      ==
+      - (_verb-like_) [to] strike
+      - (_verb-like_) [to] crash (into)
+      ==
+  //
+    , `draewngH`
+    , [撞](/entries/zong#rendering-撞)
+    ,
+      ==
+      - (_verb-like_) [to] strike
+      - (_verb-like_) [to] crash (into)
+      ==
+  //
     , `dreaX`
     , [豸](/entries/zaai#rendering-豸)
     ,
@@ -1639,10 +1655,25 @@ window.onload = applyFilter;
       ==
   //
     , `dzang`
-    , [藏](/entries/cong#rendering-藏)
+    , [藏~(verb)](/entries/cong#rendering-藏-verb)
     ,
       ==
       - (_verb-like_) [to] store (away)
+      ==
+  //
+    , `dzangH`
+    , [臟](/entries/zong#rendering-臟)
+    ,
+      ==
+      - (_noun-like_) viscera
+      ==
+  //
+    , `dzangH`
+    , [藏~(noun)](/entries/zong#rendering-藏-noun)
+    ,
+      ==
+      - (_noun-like_) store
+      - (_noun-like_) (_met._) viscera
       ==
   //
     , `dzaw`
@@ -2527,6 +2558,16 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) bed
+      ==
+  //
+    , `dzrjangH`
+    , [狀](/entries/zong#rendering-狀)
+    ,
+      ==
+      - (_noun-like_) form, (_met._) appearance
+      - (_noun-like_) (_met._) documented merit
+      - (_noun-like_) state, circumstance
+      - (_verb-like_) [to] portray
       ==
   //
     , `dzrjenX`
@@ -4543,6 +4584,20 @@ window.onload = applyFilter;
       ==
       - (_noun-like_) ewe
       - (_adjective-like_) flourishing
+      ==
+  //
+    , `tsang`
+    , [臧](/entries/zong#rendering-臧)
+    ,
+      ==
+      - (_adjective-like_) good
+      ==
+  //
+    , `tsangH`
+    , [葬](/entries/zong#rendering-葬)
+    ,
+      ==
+      - (_verb-like_) [to] inter, [to] bury
       ==
   //
     , `tsawX`
@@ -6898,6 +6953,20 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) comb
+      ==
+  //
+    , `tsrjang`
+    , [莊](/entries/zong#rendering-莊)
+    ,
+      ==
+      - (_adjective-like_) serious, grave
+      ==
+  //
+    , `tsrjangH`
+    , [壯](/entries/zong#rendering-壯)
+    ,
+      ==
+      - (_adjective-like_) vigorous
       ==
   //
     , `tsrjo`

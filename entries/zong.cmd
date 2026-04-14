@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zong
-* %date-modified --> 2026-04-13
+* %date-modified --> 2026-04-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -326,6 +326,13 @@ P
   1. A slave.
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【臧】 (tsang)
+    ==
+    - (_adjective-like_) good
+    ==
+  ====
 S
   ==
   - ($臧cong4)
@@ -410,6 +417,13 @@ P
   ++
     <## TODO: 㨆莊 lam6 zong1 ##>
     <## TODO: 過莊 gwo3 zong1 ##>
+L
+  ====
+  * 【莊】 (tsrjang)
+    ==
+    - (_adjective-like_) serious, grave
+    ==
+  ====
 $$
 
 ### 裝1 | _(1)Chong_ [[zong1]]
@@ -770,6 +784,13 @@ P
   1. To enlarge.
   1. The eighth lunar month (Kangxi: 八月爲壯).
   ++
+L
+  ====
+  * 【壯】 (tsrjangH)
+    ==
+    - (_adjective-like_) vigorous
+    ==
+  ====
 $$
 
 ### 葬3 | _~~Tsong(8)~~ ``Tsong(3)``_ [[zong3]]
@@ -825,6 +846,13 @@ C
   - Williams' 把佢監生葬: Changed _(1)shang_ (sang1)
     to vernacular reading _(1)sh(a/)ng_ (saang1).
   ==
+L
+  ====
+  * 【葬】 (tsangH)
+    ==
+    - (_verb-like_) [to] inter, [to] bury
+    ==
+  ====
 $$
 
 
@@ -947,6 +975,14 @@ C
   ==
   - Williams' 撞着: Corrected _ch(e/)uk(8)_ (zoek3) to _ch(e/)uk(9)_ (zoek6).
   ==
+L
+  ====
+  * 【撞】 (draewng, draewngH)
+    ==
+    - (_verb-like_) [to] strike
+    - (_verb-like_) [to] crash (into)
+    ==
+  ====
 E
   ====
   - 【白撞】 (baak6 zong6)
@@ -1036,6 +1072,16 @@ P
   1. Merit (recorded in writing) (Kangxi: ::言[...]功狀::).
   1. A situation.
   ++
+L
+  ====
+  * 【狀】 (dzrjangH)
+    ==
+    - (_noun-like_) form, (_met._) appearance
+    - (_noun-like_) (_met._) documented merit
+    - (_noun-like_) state, circumstance
+    - (_verb-like_) [to] portray
+    ==
+  ====
 $$
 
 ### 臟6 | _Tsong(6)_ [[zong6]]
@@ -1048,6 +1094,7 @@ U
 A
   ==
   - $臧6
+  - $藏6
   ==
 F
   ==
@@ -1071,6 +1118,13 @@ W
     - _(4)m(o\) tsun(6) tsong(6)_
         [[mou4 zeon6 zong6 無盡臟]]
         a great eater, gluttonous.
+    ==
+  ====
+L
+  ====
+  * 【臟】 (dzangH)
+    ==
+    - (_noun-like_) viscera
     ==
   ====
 $$
@@ -1132,6 +1186,18 @@ W
     - _t(i/)(6) tsong(6) (4)wong_
         [[dei6 zong6 wong4 地藏王]],
         name of a deified Budhist.
+    ==
+  ====
+P
+  ++
+  1. The viscera (Kangxi: 與臟通). (Alternative form of 臟. See $臟zong6.)
+  ++
+L
+  ====
+  * 【藏-noun】 (dzangH)
+    ==
+    - (_noun-like_) store
+    - (_noun-like_) (_met._) viscera
     ==
   ====
 S
