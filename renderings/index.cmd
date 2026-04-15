@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-04-14
+* %date-modified --> 2026-04-15
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -1691,6 +1691,27 @@ window.onload = applyFilter;
       - Used in [蠐螬](/entries/cai#rendering-蠐螬).
       ==
   //
+    , `dzawX`
+    , [皂](/entries/zou#rendering-皂)
+    ,
+      ==
+      - (_noun-like_) acorn
+      - (_adjective-like_) black
+      - (_adjective-like_) [yet] soft
+      - (_noun-like_) underling
+      - (_noun-like_) stable
+      ==
+  //
+    , `dzawX`
+    , [造~(rising)](/entries/zou#rendering-造-rising)
+    ,
+      ==
+      - (_verb-like_) [to] make, [to] create
+      - (_verb-like_) [to] do, [to] take action
+      - (_noun-like_) doing, (_met._) accomplishment
+      - (_verb-like_) [to] commence
+      ==
+  //
     , `dzej`
     , [懠](/entries/cai#rendering-懠)
     ,
@@ -2662,6 +2683,31 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] go [on], (_met._) [to] pass [away]
+      ==
+  //
+    , `dzuH`
+    , [祚](/entries/zou#rendering-祚)
+    ,
+      ==
+      - (_noun-like_) blessing, prosperity
+      - (_noun-like_) [high]-station, (_met._) throne
+      ==
+  //
+    , `dzuH`
+    , [胙](/entries/zou#rendering-胙)
+    ,
+      ==
+      - (_noun-like_) sacrificial-meat
+      - (_verb-like_) [to] bless
+      - (_verb-like_) [to] reward, [to] confer (upon)
+      - (_noun-like_) [high]-station, (_met._) throne
+      ==
+  //
+    , `dzuH`
+    , [阼](/entries/zou#rendering-阼)
+    ,
+      ==
+      - (_noun-like_) eastern-steps
       ==
   //
     , `dzuwng`
@@ -4600,11 +4646,70 @@ window.onload = applyFilter;
       - (_verb-like_) [to] inter, [to] bury
       ==
   //
+    , `tsaw`
+    , [糟](/entries/zou#rendering-糟)
+    ,
+      ==
+      - (_noun-like_) wine-dregs
+      - (_adjective-like_) dreggy
+      ==
+  //
+    , `tsaw`
+    , [遭](/entries/zou#rendering-遭)
+    ,
+      ==
+      - (_verb-like_) [to] meet (with)
+      ==
+  //
+    , `tsawX`
+    , [早](/entries/zou#rendering-早)
+    ,
+      ==
+      - (_adjective-like_) early
+      ==
+  //
+    , `tsawX`
+    , [棗](/entries/zou#rendering-棗)
+    ,
+      ==
+      - (_noun-like_) jujube
+      ==
+  //
     , `tsawX`
     , [澡](/entries/cou#rendering-澡)
     ,
       ==
       - (_verb-like_) [to] wash
+      ==
+  //
+    , `tsawX`
+    , [璪](/entries/zou#rendering-璪)
+    ,
+      ==
+      - (_noun-like_) jade-pendant
+      ==
+  //
+    , `tsawX`
+    , [藻](/entries/zou#rendering-藻)
+    ,
+      ==
+      - (_noun-like_) pondweed
+      - (_noun-like_) (_met._) splendour, brilliance
+      - (_noun-like_) cushion
+      ==
+  //
+    , `tsawX`
+    , [蚤](/entries/zou#rendering-蚤)
+    ,
+      ==
+      - (_noun-like_) flea
+      ==
+  //
+    , `tsawH`
+    , [灶](/entries/zou#rendering-灶)
+    ,
+      ==
+      - (_noun-like_) kitchen-stove, stove
       ==
   //
     , `tsawH`
@@ -4886,7 +4991,7 @@ window.onload = applyFilter;
       ==
   //
     , `tshawH`
-    , [造](/entries/cou#rendering-造)
+    , [造~(departing)](/entries/cou#rendering-造-departing)
     ,
       ==
       - (_verb-like_) [to] go unto, [to] attain
@@ -7034,6 +7139,32 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) wrinkled-cloth, fine-cloth
+      ==
+  //
+    , `tsu`
+    , [租](/entries/zou#rendering-租)
+    ,
+      ==
+      - (_noun-like_) land-tax, tax
+      - (_noun-like_) grain-stalk
+      - (_verb-like_) [to] collect
+      ==
+  //
+    , `tsuX`
+    , [祖](/entries/zou#rendering-祖)
+    ,
+      ==
+      - (_noun-like_) forefather, forebear
+      - (_verb-like_) [to] begin
+      - (_verb-like_) [to] take after
+      - (_verb-like_) [to] make wayside sacrifice
+      ==
+  //
+    , `tsuX`
+    , [組](/entries/zou#rendering-組)
+    ,
+      ==
+      - (_noun-like_) ribbon, band
       ==
   //
     , `tsuw`

@@ -5128,7 +5128,7 @@
 "造":{
 "cou3":{
 "isCanonical":true,
-"text":"U+9020 May appear as either ⿺辶吿 or ⿺辶告 (assumed here), depending on the font. (F2.16 造 _Ts'u_) 至也詣也進也又造次 (Page 587 造) To go to, to arrive (Kangxi: 就也, 詣也); to advance, to enter (Kangxi: 進也); to contain (Kangxi: 納也, 造猶內也內與納同); _ts'o ts'z'_ (cou3 ci3 造次) hurried (Kangxi: 造次急遽也), thoughtless. Fan Wan entry: Corrected ⿰音旨 to 詣. 【造】 (tshawH) (_verb-like_) to go unto, to attain (_verb-like_) to contain Used in 造次. 【造次】 (tshawH tshijH) (_adjective-like_) abrupt"
+"text":"U+9020 May appear as either ⿺辶吿 or ⿺辶告 (assumed here), depending on the font. (F2.16 造 _Ts'u_) 至也詣也進也又造次 (Page 587 造) To go to, to arrive (Kangxi: 就也, 詣也); to advance, to enter (Kangxi: 進也); to contain (Kangxi: 納也, 造猶內也內與納同); _ts'o ts'z'_ (cou3 ci3 造次) hurried (Kangxi: 造次急遽也), thoughtless. Fan Wan entry: Corrected ⿰音旨 to 詣. 【造-departing】 (tshawH) (_verb-like_) to go unto, to attain (_verb-like_) to contain Used in 造次. 【造次】 (tshawH tshijH) (_adjective-like_) abrupt"
 },
 "cou5":{
 "isCanonical":true,
@@ -5136,7 +5136,7 @@
 },
 "zou6":{
 "isCanonical":true,
-"text":"U+9020 May appear as either ⿺辶吿 or ⿺辶告 (assumed here), depending on the font. (F2.18 造 _Tsu_) 建也作也爲也始也 (Page 585 造) To build, to make, to construct (Kangxi: 建也作也爲也); to create; to act; to do (Kangxi: 造爲也); to begin, to commence (Kangxi: 始也); a crop; _kin tso_ (gin3 zou6 建造) to build; _tso fa_ (zou6 faa3 造化) to create; _ho tso fa_ (hou2 zou6 faa3 好造化) good fortune; _kot wo tso_ (got3 wo4 zou6 割禾造) to cut the rice harvest; _shang tso ch'ut lai_, (saang1 zou6 ceot1 lai4 生造出嚟) an entire fabrication, made out of whole cloth; _tsoi tso_ (zoi3 zou6 再造) do it over again; _tso pun_ (zou6 bun2 造本), to get some capital; _mut tso tong san ch'ut_ (mut6 zou6 dong3 san1 ceot1 末造當新出) the last of the season is as good as a new crop; _tso tso man tso_ (zou2 zou6 maan5 zou6 早造晚造) the early crop, the late crop; _hau tso_ (haau2 zou6 巧造) skillful work. Williams' 生造出嚟: Changed _shang_ (sang1) to vernacular reading _shang_ (saang1)."
+"text":"U+9020 May appear as either ⿺辶吿 or ⿺辶告 (assumed here), depending on the font. (F2.18 造 _Tsu_) 建也作也爲也始也 (Page 585 造) To build, to make, to construct (Kangxi: 建也作也爲也); to create; to act; to do (Kangxi: 造爲也); to begin, to commence (Kangxi: 始也); a crop; _kin tso_ (gin3 zou6 建造) to build; _tso fa_ (zou6 faa3 造化) to create; _ho tso fa_ (hou2 zou6 faa3 好造化) good fortune; _kot wo tso_ (got3 wo4 zou6 割禾造) to cut the rice harvest; _shang tso ch'ut lai_, (saang1 zou6 ceot1 lai4 生造出嚟) an entire fabrication, made out of whole cloth; _tsoi tso_ (zoi3 zou6 再造) do it over again; _tso pun_ (zou6 bun2 造本), to get some capital; _mut tso tong san ch'ut_ (mut6 zou6 dong3 san1 ceot1 末造當新出) the last of the season is as good as a new crop; _tso tso man tso_ (zou2 zou6 maan5 zou6 早造晚造) the early crop, the late crop; _hau tso_ (haau2 zou6 巧造) skillful work. Williams' 生造出嚟: Changed _shang_ (sang1) to vernacular reading _shang_ (saang1). 【造-rising】 (dzawX) (_verb-like_) to make, to create (_verb-like_) to do, to take action (_noun-like_) doing, (_met._) accomplishment (_verb-like_) to commence"
 }
 },
 "酢":{
@@ -8436,7 +8436,7 @@
 },
 "zou2":{
 "isCanonical":true,
-"text":"U+86A4 (F2.13 早 _Tsu_) 早晨又先也 (F2.13 蚤 _Tsu_) 同上 (Page 584 蚤) A flea (Kangxi: 嚙人跳蟲也); sand fleas, or those produced in sandy ground (Kangxi: 土乾則生蚤);"
+"text":"U+86A4 (F2.13 早 _Tsu_) 早晨又先也 (F2.13 蚤 _Tsu_) 同上 (Page 584 蚤) A flea (Kangxi: 嚙人跳蟲也); sand fleas, or those produced in sandy ground (Kangxi: 土乾則生蚤); 【蚤】 (tsawX) (_noun-like_) flea"
 }
 },
 "㷹":{
@@ -12298,61 +12298,61 @@
 "租":{
 "zou1":{
 "isCanonical":true,
-"text":"U+79DF (F2.9 租 _Tsu_) 田賦也納谷納屋錢地稅俱曰租又聚也詩子所蓄租 (Page 584 租) Rent in kind; rental, rent; tribute, taxes (Kangxi: 凡稅皆曰租); to rent; _tso ngan_ (zou1 ngan4 租銀), the rent; _shau tso_ (sau1 zou1 收租), to collect rents; _kot tso_ (got3 zou1 割租), to deduct from the rent; _tso yam_ (zou1 jam6 租賃) to lease; _tso uk chu_ (zou1 uk1 zyu6 租屋住) to live in a hired honse; _sheung k'i tso_ (soeng6 kei4 zou1 上期租), to prepay the rent; _tam tso_ (daam1 zou1 擔租), security for the rent; _hi tso_ (hei2 zou1 起租), to raise the rent. Land tax levied on farmers (Kangxi: 田賦也). To accumulate (Kangxi: 積也). Grain-stalks (Kangxi: 田中禾稭也)."
+"text":"U+79DF (F2.9 租 _Tsu_) 田賦也納谷納屋錢地稅俱曰租又聚也詩子所蓄租 (Page 584 租) Rent in kind; rental, rent; tribute, taxes (Kangxi: 凡稅皆曰租); to rent; _tso ngan_ (zou1 ngan4 租銀), the rent; _shau tso_ (sau1 zou1 收租), to collect rents; _kot tso_ (got3 zou1 割租), to deduct from the rent; _tso yam_ (zou1 jam6 租賃) to lease; _tso uk chu_ (zou1 uk1 zyu6 租屋住) to live in a hired honse; _sheung k'i tso_ (soeng6 kei4 zou1 上期租), to prepay the rent; _tam tso_ (daam1 zou1 擔租), security for the rent; _hi tso_ (hei2 zou1 起租), to raise the rent. Land tax levied on farmers (Kangxi: 田賦也). To accumulate (Kangxi: 積也). Grain-stalks (Kangxi: 田中禾稭也). 【租】 (tsu) (_noun-like_) land-tax, tax (_noun-like_) grain-stalk (_verb-like_) to collect"
 }
 },
 "糟":{
 "zou1":{
 "isCanonical":true,
-"text":"U+7CDF (F2.9 糟 _Tsu_) 酒糟又糟粕 (Page 584 糟) The sediment~~;~~ ``of`` grains left after distilling spirits (Kangxi: 酒滓也, 泲曰淸不泲曰糟); dregs; _tso hong_ (zou1 hong1 糟糠), dregs and husks; _tsau tso_ (zau2 zou1 酒糟), distiller's grains; _tso u_ (zou1 jyu4-2 糟魚), fish laid in grains of glutinous rice; _tso hong chi ts'ai_ (zou1 hong1 zi1 cai1 糟糠之妻), a wife who has passed through poverty with one. To pickle in wine. To rot, to decompose. 【糟質】 (zou1 zat1) To treat harshly, to abuse, etc."
+"text":"U+7CDF 醩 (F2.9 糟 _Tsu_) 酒糟又糟粕 (Page 584 糟) The sediment~~;~~ ``of`` grains left after distilling spirits (Kangxi: 酒滓也); dregs; _tso hong_ (zou1 hong1 糟糠), dregs and husks; _tsau tso_ (zau2 zou1 酒糟), distiller's grains; _tso u_ (zou1 jyu4-2 糟魚), fish laid in grains of glutinous rice; _tso hong chi ts'ai_ (zou1 hong1 zi1 cai1 糟糠之妻), a wife who has passed through poverty with one. Dreggy (Kangxi: 泲曰淸不泲曰糟). To pickle in wine. To rot, to decompose. 【糟】 (tsaw) (_noun-like_) wine-dregs (_adjective-like_) dreggy 【糟質】 (zou1 zat1) To treat harshly, to abuse, etc."
 }
 },
 "遭":{
 "zou1":{
 "isCanonical":true,
-"text":"U+906D (F2.9 遭 _Tsu_) 遭逢遭遇 (Page 584 遭) To encounter, to meet (Kangxi: 遇也); to suffer, to endure, to occur, to happen; to cruize, to go about (Kangxi: 巡也); to make a revolution (Kangxi: 遭猶匝也); an occasion, a time; _tso ts'ak kip_ (zou1 caak6 gip3 遭賊劫) to be robbed; _tso kip_ (zou1 gip3 遭劫) time of a great affliction; _tso t'at mat kin_ (zou1 taat3 mat6 gin6-2 遭塌物件) to waste and misuse things; _tso t'at yan_ (zou1 taat3 jan4 遭塌人), to abuse, to treat harshly; _pak tsau yat tso_ (baak6 zau2 jat1 zou1 白走一遭), went once for nothing; _tso wo_ (zou1 wo6 遭禍) to suffer calamity; _'m tso t'at k'u_ (m4 zou1 taat3 keoi5 唔遭塌佢), be patient with him, don't berate him. To meander (Kangxi: 邐行也)."
+"text":"U+906D (F2.9 遭 _Tsu_) 遭逢遭遇 (Page 584 遭) To encounter, to meet (Kangxi: 遇也); to suffer, to endure, to occur, to happen; to cruize, to go about (Kangxi: 巡也); to make a revolution (Kangxi: 遭猶匝也); an occasion, a time; _tso ts'ak kip_ (zou1 caak6 gip3 遭賊劫) to be robbed; _tso kip_ (zou1 gip3 遭劫) time of a great affliction; _tso t'at mat kin_ (zou1 taat3 mat6 gin6-2 遭塌物件) to waste and misuse things; _tso t'at yan_ (zou1 taat3 jan4 遭塌人), to abuse, to treat harshly; _pak tsau yat tso_ (baak6 zau2 jat1 zou1 白走一遭), went once for nothing; _tso wo_ (zou1 wo6 遭禍) to suffer calamity; _'m tso t'at k'u_ (m4 zou1 taat3 keoi5 唔遭塌佢), be patient with him, don't berate him. To meander (Kangxi: 邐行也). 【遭】 (tsaw) (_verb-like_) to meet (with)"
 }
 },
 "早":{
 "zou2":{
 "isCanonical":true,
-"text":"U+65E9 蚤 (F2.13 早 _Tsu_) 早晨又先也 (F2.13 蚤 _Tsu_) 同上 (Page 584 早) The morning (Kangxi: 晨也); early, soon (Kangxi: 先也); betimes, beforehand, early, previously; just commenced, unskilled; then, presently; _tso shan_ (zou2 san4 早晨), good morning; _tso yat fan lai_ (zou2 jat6 faan1 lai4 早日返嚟), come back soon; _kam tso_ (gam1 zou2 今早), this morning; _tai tso wa ni_ (daai6 zou2 waa6 nei5 大早話你), I told you in good time; _tso wo_ (zou2 wo4 早禾), the first crop; _chiu t'au tso_ (ziu1 tau4 zou2 朝頭早), early dawn; _tso fan_ (zou2 faan6 早飯) breakfast; _ch'an tso_ (can3 zou2 趁早) start early, and not be hurried; _tso t'oi_ (zou2 toi4 早臺), the morning play; _wan tso_ (waan4 zou2 還早), still early; _tso tso_ (zou2 zou2 早早) very early. (Page 584 蚤) Used for the preceding (早). 【一早】 (jat1 zou2) Very early on, ages ago. 一早話咗 (jat1 zou2 waa6 zo2): \"Said so ages ago.\" 【晨早】 (san4 zou2) Very early on, ages ago. 晨早去咗 (san4 zou2 heoi3 zo2): \"I went ages ago.\" 【早晨】 (zou2 san4) Good morning. 早晨啊 (zou2 san4 a3): \"Good morning!\""
+"text":"U+65E9 蚤 (F2.13 早 _Tsu_) 早晨又先也 (F2.13 蚤 _Tsu_) 同上 (Page 584 早) The morning (Kangxi: 晨也); early, soon (Kangxi: 先也); betimes, beforehand, early, previously; just commenced, unskilled; then, presently; _tso shan_ (zou2 san4 早晨), good morning; _tso yat fan lai_ (zou2 jat6 faan1 lai4 早日返嚟), come back soon; _kam tso_ (gam1 zou2 今早), this morning; _tai tso wa ni_ (daai6 zou2 waa6 nei5 大早話你), I told you in good time; _tso wo_ (zou2 wo4 早禾), the first crop; _chiu t'au tso_ (ziu1 tau4 zou2 朝頭早), early dawn; _tso fan_ (zou2 faan6 早飯) breakfast; _ch'an tso_ (can3 zou2 趁早) start early, and not be hurried; _tso t'oi_ (zou2 toi4 早臺), the morning play; _wan tso_ (waan4 zou2 還早), still early; _tso tso_ (zou2 zou2 早早) very early. (Page 584 蚤) Used for the preceding (早). 【早】 (tsawX) (_adjective-like_) early 【一早】 (jat1 zou2) Very early on, ages ago. 一早話咗 (jat1 zou2 waa6 zo2): \"Said so ages ago.\" 【晨早】 (san4 zou2) Very early on, ages ago. 晨早去咗 (san4 zou2 heoi3 zo2): \"I went ages ago.\" 【早晨】 (zou2 san4) Good morning. 早晨啊 (zou2 san4 a3): \"Good morning!\""
 }
 },
 "棗":{
 "zou2":{
 "isCanonical":true,
-"text":"U+68D7 (F2.13 棗 _Tsu_) 果名 (Page 584 棗) The fruit of the Cannarium or jujube tree (Kangxi: 果名 etc.); _mat tso_ (mat6 zou2 蜜棗), dried dates, the fruit of this tree; _hung tso_ (hung4 zou2 紅棗), red jujube plums; the _tso_ (zou2 棗) and _lut_ (leot6 栗) are emblematic of female virtue (Kangxi: 以早自謹飭爲義棗早也栗肅也)."
+"text":"U+68D7 (F2.13 棗 _Tsu_) 果名 (Page 584 棗) The fruit of the Cannarium or jujube tree (Kangxi: 果名 etc.); _mat tso_ (mat6 zou2 蜜棗), dried dates, the fruit of this tree; _hung tso_ (hung4 zou2 紅棗), red jujube plums; the _tso_ (zou2 棗) and _lut_ (leot6 栗) are emblematic of female virtue (Kangxi: 以早自謹飭爲義棗早也栗肅也). 【棗】 (tsawX) (_noun-like_) jujube"
 }
 },
 "璪":{
 "zou2":{
 "isCanonical":true,
-"text":"U+74AA (F2.13 璪 _Tsu_) 玉飾也 (Page 585 璪) Pendents of precious stones or pearls hung like beads around the edge of a coronet (Kangxi: 雜采絲貫玉爲冕飾)."
+"text":"U+74AA 藻 (F2.13 璪 _Tsu_) 玉飾也 (Page 585 璪) Pendents of precious stones or pearls hung like beads around the edge of a coronet (Kangxi: 雜采絲貫玉爲冕飾). 【璪】 (tsawX) (_noun-like_) jade-pendant"
 }
 },
 "祖":{
 "zou2":{
 "isCanonical":true,
-"text":"U+7956 (F2.13 祖 _Tsu_) 祖宗 (Page 584 祖) A grandfather (Kangxi: 父之父也); a progenitor (Kangxi: 又先祖始祖通謂之祖); ancestors; the founder of a family; an ancestral temple (Kangxi: 始廟也); the beginning, the origin, the first (Kangxi: 始也上也本也)~~, as of a family~~; to do like, to imitate a founder (Kangxi: 法也); accustomed to (Kangxi: 習也); to worship wayside gods (Kangxi: 祭道神曰祖); _sin tso_ (sin1 zou2 先祖) or _tso fu_ (zou2 fu6 祖父) a grandfather; _tsung tso_ (zung1 zou2 宗祖), my ancestors; _tsang tso_ (zang1 zou2 曾祖), a great-grandfather; _ko tso_ (gou1 zou2 高祖), a great-great-grandfather; the first emperor of a dynasty; _tso miu_ (zou2 miu6-2 祖廟) a temple of Shangti (上帝); an ancestral temple; _~~ni~~ ling tso_ (ling6 zou2 令祖), your grandfather; _ka tso_ (gaa1 zou2 家祖), my live grandfather. To give a farewell feast. A surname (Kangxi: 姓)."
+"text":"U+7956 (F2.13 祖 _Tsu_) 祖宗 (Page 584 祖) A grandfather (Kangxi: 父之父也); a progenitor (Kangxi: 又先祖始祖通謂之祖); ancestors; the founder of a family; an ancestral temple (Kangxi: 始廟也); the beginning, the origin, the first (Kangxi: 始也上也本也)~~, as of a family~~; to do like, to imitate a founder (Kangxi: 法也); accustomed to (Kangxi: 習也); to worship wayside gods (Kangxi: 祭道神曰祖); _sin tso_ (sin1 zou2 先祖) or _tso fu_ (zou2 fu6 祖父) a grandfather; _tsung tso_ (zung1 zou2 宗祖), my ancestors; _tsang tso_ (zang1 zou2 曾祖), a great-grandfather; _ko tso_ (gou1 zou2 高祖), a great-great-grandfather; the first emperor of a dynasty; _tso miu_ (zou2 miu6-2 祖廟) a temple of Shangti (上帝); an ancestral temple; _~~ni~~ ling tso_ (ling6 zou2 令祖), your grandfather; _ka tso_ (gaa1 zou2 家祖), my live grandfather. To give a farewell feast. A surname (Kangxi: 姓). 【祖】 (tsuX) (_noun-like_) forefather, forebear (_verb-like_) to begin (_verb-like_) to take after (_verb-like_) to make wayside sacrifice"
 }
 },
 "組":{
 "zou2":{
 "isCanonical":true,
-"text":"U+7D44 (F2.13 組 _Tsu_) 綬也織也 (Page 584 組) A band, a fillet, a string, a tape, for tying (Kangxi: 綬屬其小者以爲冕纓) ~~the dress or hair~~; ~~a fringe or tuft of silk;~~ _kai tso kwai t'in_ (gaai2 zou2 gwai1 tin4 解組歸田), to untie the cord and go home --- to resign office. Williams' \"the dress or hair\": These are not technically wrong, per Kangxi's examples from 《儀禮士喪禮》 pertaining to tying: 著組繫《註》組繫可爲結也 (in the context of tying an eye-covering/veil) 鬠用組《註》用組組束髮也 (for tying the hair) However, the *main* definition of 組 should not be specific to these applications. The metaphorical sense of \"official\" comes from the use of such ribbon to tie up an official seal (hence Williams' 解組歸田). Woven ribbon (Kangxi: 組織組也). Thin, wide ribbon (Kangxi: 組紃俱爲絛薄闊爲組似繩者爲紃). An official (or his seal). A group, an organisation. To group, to organise."
+"text":"U+7D44 (F2.13 組 _Tsu_) 綬也織也 (Page 584 組) A band, a fillet, a string, a tape, for tying (Kangxi: 綬屬其小者以爲冕纓) ~~the dress or hair~~; ~~a fringe or tuft of silk;~~ _kai tso kwai t'in_ (gaai2 zou2 gwai1 tin4 解組歸田), to untie the cord and go home --- to resign office. Williams' \"the dress or hair\": These are not technically wrong, per Kangxi's examples from 《儀禮士喪禮》 pertaining to tying: 著組繫《註》組繫可爲結也 (in the context of tying an eye-covering/veil) 鬠用組《註》用組組束髮也 (for tying the hair) However, the *main* definition of 組 should not be specific to these applications. The metaphorical sense of \"official\" comes from the use of such ribbon to tie up an official seal (hence Williams' 解組歸田). Woven ribbon (Kangxi: 組織組也). Thin, wide ribbon (Kangxi: 組紃俱爲絛薄闊爲組似繩者爲紃). An official (or his seal). A group, an organisation. To group, to organise. 【組】 (tsuX) (_noun-like_) ribbon, band"
 }
 },
 "藻":{
 "zou2":{
 "isCanonical":true,
-"text":"U+85FB (F2.13 藻 _Tsu_) 水草 (Page 585 藻) A sort of aquatic grass (a Vallisneria?) (Kangxi: 水草也) which ducks delight in (Kangxi: 鳧得水藻言喜悅也); to joy in, delighted with; _met._ fine composition, because this grass is marked; _fu tso chi sz'_ (fu4 zou2 zi1 si6 鳧藻之士) officers ~~mutually~~ pleased; _hoi tso_ (hoi2 zou2 海藻), conferva or algae."
+"text":"U+85FB (F2.13 藻 _Tsu_) 水草 (Page 585 藻) A sort of aquatic grass (a Vallisneria?) (Kangxi: 水草也) which ducks delight in (Kangxi: 鳧得水藻言喜悅也); to joy in, delighted with; _met._ fine composition, because this grass is marked; _fu tso chi sz'_ (fu4 zou2 zi1 si6 鳧藻之士) officers ~~mutually~~ pleased; _hoi tso_ (hoi2 zou2 海藻), conferva or algae. A mat or cushion for jade (Kangxi: 藻藉所以薦玉者). 【藻】 (tsawX) (_noun-like_) pondweed (_noun-like_) (_met._) splendour, brilliance (_noun-like_) cushion"
 }
 },
 "灶":{
 "zou3":{
 "isCanonical":true,
-"text":"U+7076 竈 (F2.17 竈 _Tsu_) 炊竈也 (F2.17 灶 _Tsu_) 同上 (Page 585 竈灶) A furnace; a place for cooking, a kitchen-range (Kangxi 竈: 炊竈也); a bunch of grass for fuel; _tso kwat lung_ (zou3 gwat1 lung4-1 灶骨窿), the hole for the fuel; _ki tso fo_ (gei2 zou3 fo2 幾灶火), fired up several times, as in cooking with twigs or grass; _ta tso_ (daa2 zou3 打灶) to build a cooking-place; _to tso_ (dou2 zou3 倒灶) upset the furnace, _i. e._ failed, bankrupt; _hang shun tso_ (hang4 syun4 zou3 行船灶) portable furnaces, cabooses; _tso shan_ (zou3 san4 灶神) or _tso kwan_ (zou3 gwan1 灶君), God of the Furnace."
+"text":"U+7076 竈 (F2.17 竈 _Tsu_) 炊竈也 (F2.17 灶 _Tsu_) 同上 (Page 585 竈灶) A furnace; a place for cooking, a kitchen-range (Kangxi 竈: 炊竈也); a bunch of grass for fuel; _tso kwat lung_ (zou3 gwat1 lung4-1 灶骨窿), the hole for the fuel; _ki tso fo_ (gei2 zou3 fo2 幾灶火), fired up several times, as in cooking with twigs or grass; _ta tso_ (daa2 zou3 打灶) to build a cooking-place; _to tso_ (dou2 zou3 倒灶) upset the furnace, _i. e._ failed, bankrupt; _hang shun tso_ (hang4 syun4 zou3 行船灶) portable furnaces, cabooses; _tso shan_ (zou3 san4 灶神) or _tso kwan_ (zou3 gwan1 灶君), God of the Furnace. 【灶】 (tsawH) (_noun-like_) kitchen-stove, stove"
 }
 },
 "竈":{
@@ -12376,25 +12376,25 @@
 "皂":{
 "zou6":{
 "isCanonical":true,
-"text":"U+7682 皁 (for all senses except \"soap\") 草 (for \"acorn\" sense) zau2 (per Kangxi 叶子苟切 for \"unhardened-seed\" sense) (F2.18 皂 _Tsu_) 黑色又皂隸 (Page 585 皁皂) A black color (Kangxi 皁: 色黑也 etc.); underlings, lictors, low officers who execute commands (Kangxi 皁: 皁隸臣也, 賤人也); a stud of twelve horses (Kangxi 皁: 馬十二匹爲皁); a manger or pen (Kangxi 皁: 櫪也, 馬閑, 食牛馬器以木作如槽); _tso pan_ (zou6 baan1 皂班), torturers; _tso tai_ (zou6 dai6 皂隸) lictors, understrappers; _fi tso_ (fei4 zou6 肥皂) a sort of fragrant soap; _tso fan_ (zou6 faan4 皂礬), copperas. Fan Wan entry: Corrected ⿰⿱匕示隶 to 隸. Used in 皂斗 (acorn) (Kangxi 皁: 草斗櫟實也). Seed that is yet to harden (Kangxi 皁: 穀實未堅曰皁). Soap."
+"text":"U+7682 皁 (for all senses except \"soap\") 草 (for \"acorn\" sense) zau2 (per Kangxi 叶子苟切 for \"unhardened-seed\" sense) (F2.18 皂 _Tsu_) 黑色又皂隸 (Page 585 皁皂) A black color (Kangxi 皁: 色黑也 etc.); underlings, lictors, low officers who execute commands (Kangxi 皁: 皁隸臣也, 賤人也); a stud of twelve horses (Kangxi 皁: 馬十二匹爲皁); a manger or pen (Kangxi 皁: 櫪也, 馬閑, 食牛馬器以木作如槽); _tso pan_ (zou6 baan1 皂班), torturers; _tso tai_ (zou6 dai6 皂隸) lictors, understrappers; _fi tso_ (fei4 zou6 肥皂) a sort of fragrant soap; _tso fan_ (zou6 faan4 皂礬), copperas. Fan Wan entry: Corrected ⿰⿱匕示隶 to 隸. Used in 皂斗 (acorn) (Kangxi 皁: 草斗櫟實也). Grain yet to harden (Kangxi 皁: 穀實未堅曰皁). Soap. 【皂】 (dzawX) (_noun-like_) acorn (_adjective-like_) black (_adjective-like_) yet soft (_noun-like_) underling (_noun-like_) stable"
 }
 },
 "祚":{
 "zou6":{
 "isCanonical":true,
-"text":"U+795A (F2.18 祚 _Tsu_) 福也又後裔 (Page 585 祚) Happiness``,`` ~~derived from~~ wealth (Kangxi: 祿也)``,`` or office; dignities (Kangxi: 位也), felicity (Kangxi: 福也); a year (Kangxi: 歲也); _fuk tso_ (fuk1 zou6 福祚) good fortune; _kwok tso_ (gwok3 zou6 國祚) long duration, as of a dynasty; _po nin tso_ (bou2 nin4 zou6 保年祚) to recreate in one's old age. Williams' \"wealth\": Or, \"salary\"."
+"text":"U+795A 胙 (F2.18 祚 _Tsu_) 福也又後裔 (Page 585 祚) Happiness``,`` ~~derived from~~ wealth (Kangxi: 祿也)``,`` or office; dignities (Kangxi: 位也), felicity (Kangxi: 福也); a year (Kangxi: 歲也); _fuk tso_ (fuk1 zou6 福祚) good fortune; _kwok tso_ (gwok3 zou6 國祚) long duration, as of a dynasty; _po nin tso_ (bou2 nin4 zou6 保年祚) to recreate in one's old age. Williams' \"wealth\": Or, \"salary\". 【祚】 (dzuH) (_noun-like_) blessing, prosperity (_noun-like_) high-station, (_met._) throne"
 }
 },
 "胙":{
 "zou6":{
 "isCanonical":true,
-"text":"U+80D9 (F2.18 胙 _Tsu_) 祭肉 (Page 585 胙) Roasted flesh offered in sacrifices (Kangxi: 祭福肉也 etc.); to set up an altar to Ceres (Kangxi: 建置社稷曰胙); to recompense, to reward (Kangxi: 報也有德之人必有美報); blessings, happiness (Kangxi: 福也); to bless; a seat, a place (Kangxi: 位也); _tso yuk_ (zou6 juk6 胙肉) sacrificial flesh; _kak tso_ (gaak3 zou6 革胙) to reject the oblation of an undutiful son."
+"text":"U+80D9 (F2.18 胙 _Tsu_) 祭肉 (Page 585 胙) Roasted flesh offered in sacrifices (Kangxi: 祭福肉也 etc.); to set up an altar to Ceres (Kangxi: 建置社稷曰胙); to recompense, to reward (Kangxi: 報也有德之人必有美報); blessings, happiness (Kangxi: 福也); to bless; a seat, a place (Kangxi: 位也); _tso yuk_ (zou6 juk6 胙肉) sacrificial flesh; _kak tso_ (gaak3 zou6 革胙) to reject the oblation of an undutiful son. 【胙】 (dzuH) (_noun-like_) sacrificial-meat (_verb-like_) to bless (_verb-like_) to reward, to confer (upon) (_noun-like_) high-station, (_met._) throne"
 }
 },
 "阼":{
 "zou6":{
 "isCanonical":true,
-"text":"U+963C (F2.18 阼 _Tsu_) 阼階東階也 (Page 585 阼) The steps on the east to ascend to the hall (Kangxi: 主階也, 阼階東階...); steps; landing where the host receives his guest at the top of the stairs (Kangxi: ...所以答酢賔客)."
+"text":"U+963C (F2.18 阼 _Tsu_) 阼階東階也 (Page 585 阼) The steps on the east to ascend to the hall (Kangxi: 主階也, 阼階東階...); steps; landing where the host receives his guest at the top of the stairs (Kangxi: ...所以答酢賔客). 【阼】 (dzuH) (_noun-like_) eastern-steps"
 }
 },
 "囑":{

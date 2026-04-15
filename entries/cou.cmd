@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2026-04-08
+* %date-modified --> 2026-04-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -851,7 +851,7 @@ C
   ==
 L
   ====
-  * 【造】 (tshawH)
+  * 【造-departing】 (tshawH)
     ==
     - (_verb-like_) [to] go unto, [to] attain
     - (_verb-like_) [to] contain

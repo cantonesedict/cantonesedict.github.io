@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zou
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-04-15
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -102,6 +102,15 @@ P
   1. To accumulate (Kangxi: 積也).
   1. Grain-stalks (Kangxi: 田中禾稭也).
   ++
+L
+  ====
+  * 【租】 (tsu)
+    ==
+    - (_noun-like_) land-tax, tax
+    - (_noun-like_) grain-stalk
+    - (_verb-like_) [to] collect
+    ==
+  ====
 $$
 
 ### 糟1 | _(1)Ts(o\)_ [[zou1]]
@@ -111,6 +120,10 @@ R
   ⽶ + 11
 U
   U+7CDF
+A
+  ==
+  - 醩
+  ==
 F
   ==
   - (F2.9 糟 _(1)Ts(u/)_) 酒糟又糟粕
@@ -119,7 +132,7 @@ W
   ====
   - [[Page~584 (1)糟]]
     ==
-    - The sediment~~;~~ ``of`` grains left after distilling spirits [[Kangxi: 酒滓也, 泲曰淸不泲曰糟]];
+    - The sediment~~;~~ ``of`` grains left after distilling spirits [[Kangxi: 酒滓也]];
     - dregs;
     - _(1)ts(o\) (1)hong_
         [[zou1 hong1 糟糠]],
@@ -137,9 +150,18 @@ W
   ====
 P
   ++
+  1. Dreggy (Kangxi: 泲曰淸不泲曰糟).
   1. To pickle in wine.
   1. To rot, to decompose.
   ++
+L
+  ====
+  * 【糟】 (tsaw)
+    ==
+    - (_noun-like_) wine-dregs
+    - (_adjective-like_) dreggy
+    ==
+  ====
 E
   ====
   - 【糟質】 (zou1 zat1)
@@ -197,6 +219,13 @@ P
   ++
   1. To meander (Kangxi: 邐行也).
   ++
+L
+  ====
+  * 【遭】 (tsaw)
+    ==
+    - (_verb-like_) [to] meet (with)
+    ==
+  ====
 $$
 
 
@@ -284,6 +313,13 @@ W
     [[...]]
     --
   ====
+L
+  ====
+  * 【早】 (tsawX)
+    ==
+    - (_adjective-like_) early
+    ==
+  ====
 E
   ====
   - 【一早】 (jat1 zou2)
@@ -336,6 +372,13 @@ W
       are emblematic of female virtue [[Kangxi: 以早自謹飭爲義棗早也栗肅也]].
     ==
   ====
+L
+  ====
+  * 【棗】 (tsawX)
+    ==
+    - (_noun-like_) jujube
+    ==
+  ====
 $$
 
 ### 澡2 | _(2)Ts(o\)_ [[zou2]]
@@ -369,6 +412,10 @@ R
   ⽟ + 13
 U
   U+74AA
+A
+  ==
+  - $藻2
+  ==
 F
   ==
   - (F2.13 璪 _(2)Ts(u/)_) 玉飾也
@@ -379,6 +426,13 @@ W
     ==
     - Pendents of precious stones or pearls
       hung like beads around the edge of a coronet [[Kangxi: 雜采絲貫玉爲冕飾]].
+    ==
+  ====
+L
+  ====
+  * 【璪】 (tsawX)
+    ==
+    - (_noun-like_) jade-pendant
     ==
   ====
 $$
@@ -438,6 +492,16 @@ P
   1. To give a farewell feast.
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【祖】 (tsuX)
+    ==
+    - (_noun-like_) forefather, forebear
+    - (_verb-like_) [to] begin
+    - (_verb-like_) [to] take after
+    - (_verb-like_) [to] make wayside sacrifice
+    ==
+  ====
 $$
 
 ### 組2 | _(2)Ts(o\)_ [[zou2]]
@@ -484,6 +548,13 @@ P
   1. A group, an organisation.
   1. To group, to organise.
   ++
+L
+  ====
+  * 【組】 (tsuX)
+    ==
+    - (_noun-like_) ribbon, band
+    ==
+  ====
 $$
 
 ### 藻2 | _(2)Ts(o\)_ [[zou2]]
@@ -511,6 +582,22 @@ W
     - _(2)hoi (2)ts(o\)_
         [[hoi2 zou2 海藻]],
         conferva or algæ.
+    ==
+    --
+    [[Otherwise, an alternative form of 璪. **See $璪zou2 for the canonical entry.**]]
+    --
+  ====
+P
+  ++
+  1. A mat or cushion for jade (Kangxi: 藻藉所以薦玉者).
+  ++
+L
+  ====
+  * 【藻】 (tsawX)
+    ==
+    - (_noun-like_) pondweed
+    - (_noun-like_) (_met._) splendour, brilliance
+    - (_noun-like_) cushion
     ==
   ====
 $$
@@ -541,6 +628,13 @@ W
     --
     [[Otherwise, an alternative form of 早. **See $早zou2 for the canonical entry.**]]
     --
+  ====
+L
+  ====
+  * 【蚤】 (tsawX)
+    ==
+    - (_noun-like_) flea
+    ==
   ====
 S
   ==
@@ -602,6 +696,13 @@ W
         or
       _ts(o\)(3) (1)kwan_ [[zou3 gwan1 灶君]],
         God of the Furnace.
+    ==
+  ====
+L
+  ====
+  * 【灶】 (tsawH)
+    ==
+    - (_noun-like_) kitchen-stove, stove
     ==
   ====
 $$
@@ -843,9 +944,20 @@ C
 P
   ++
   1. Used in 皂斗 (acorn) (Kangxi 皁: 草斗櫟實也).
-  1. Seed that is yet to harden (Kangxi 皁: 穀實未堅曰皁).
+  1. Grain yet to harden (Kangxi 皁: 穀實未堅曰皁).
   1. Soap.
   ++
+L
+  ====
+  * 【皂】 (dzawX)
+    ==
+    - (_noun-like_) acorn
+    - (_adjective-like_) black
+    - (_adjective-like_) [yet] soft
+    - (_noun-like_) underling
+    - (_noun-like_) stable
+    ==
+  ====
 $$
 
 ### 祚6 | _Ts(o\)(6)_ [[zou6]]
@@ -855,6 +967,10 @@ R
   ⽰ + 5
 U
   U+795A
+A
+  ==
+  - $胙6
+  ==
 F
   ==
   - (F2.18 祚 _Ts(u/)(6)_) 福也又後裔
@@ -881,6 +997,14 @@ C
   ==
   - Williams' "wealth": Or, "salary".
   ==
+L
+  ====
+  * 【祚】 (dzuH)
+    ==
+    - (_noun-like_) blessing, prosperity
+    - (_noun-like_) [high]-station, (_met._) throne
+    ==
+  ====
 $$
 
 ### 胙6 | _Ts(o\)(6)_ [[zou6]]
@@ -910,6 +1034,19 @@ W
     - _k(a/)k(8) ts(o\)(6)_
         [[gaak3 zou6 革胙]]
         to reject the oblation of an undutiful son.
+    ==
+    --
+    [[Alternative form of 祚. See $祚zou6.]]
+    --
+  ====
+L
+  ====
+  * 【胙】 (dzuH)
+    ==
+    - (_noun-like_) sacrificial-meat
+    - (_verb-like_) [to] bless
+    - (_verb-like_) [to] reward, [to] confer (upon)
+    - (_noun-like_) [high]-station, (_met._) throne
     ==
   ====
 $$
@@ -975,6 +1112,16 @@ C
   - Williams' 生造出嚟: Changed _(1)shang_ (sang1)
     to vernacular reading _(1)sh(a/)ng_ (saang1).
   ==
+L
+  ====
+  * 【造-rising】 (dzawX)
+    ==
+    - (_verb-like_) [to] make, [to] create
+    - (_verb-like_) [to] do, [to] take action
+    - (_noun-like_) doing, (_met._) accomplishment
+    - (_verb-like_) [to] commence
+    ==
+  ====
 S
   ==
   - $造cou3
@@ -1000,6 +1147,13 @@ W
     - The steps on the east to ascend to the hall [[Kangxi: 主階也, ::阼階東階[...]::]];
     - steps;
     - landing where the host receives his guest at the top of the stairs [[Kangxi: ::[...]所以答酢賔客::]].
+    ==
+  ====
+L
+  ====
+  * 【阼】 (dzuH)
+    ==
+    - (_noun-like_) eastern-steps
     ==
   ====
 $$
