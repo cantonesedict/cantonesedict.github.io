@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Search character entries
-* %date-modified --> 2026-03-30
+* %date-modified --> 2026-04-16
 * %copyright-prior-years --> 2024--
 * %meta-description --> search character entries
 
@@ -242,7 +242,7 @@ async function performSearch()
             let englishScores =
                     searchEnglishWords.map(
                       word =>
-                        new RegExp(`(?=\\b|\\s)${RegExp.escape(word)}(?=\\b|\\s)`).test(normalisedString)
+                        new RegExp(`(?<=\\b|\\s)${RegExp.escape(word)}(?=\\b|\\s)`).test(normalisedString)
                           ? Math.tanh(word.length / 3) ** 2
                           : Math.tanh(word.length / 7) ** 5
                     );

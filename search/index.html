@@ -267,7 +267,7 @@ async function performSearch()
             let englishScores =
                     searchEnglishWords.map(
                       word =>
-                        new RegExp(`(?=\\b|\\s)${RegExp.escape(word)}(?=\\b|\\s)`).test(normalisedString)
+                        new RegExp(`(?<=\\b|\\s)${RegExp.escape(word)}(?=\\b|\\s)`).test(normalisedString)
                           ? Math.tanh(word.length / 3) ** 2
                           : Math.tanh(word.length / 7) ** 5
                     );
@@ -343,7 +343,7 @@ window.onload = performSearch;
 <footer class="modern">
 © 2024–2026 Conway.<br>
 Source: <a href="https://github.com/cantonesedict/cantonesedict.github.io/blob/master/search/index.cmd"><code>search/index.cmd</code></a>.
-Last modified: <time datetime="2026-03-30">2026-03-30</time>.
+Last modified: <time datetime="2026-04-16">2026-04-16</time>.
 </footer>
 </body>
 </html>
