@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zuk
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-04-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -141,6 +141,13 @@ C
   ==
   - Fan Wan entry: Corrected headword ⿰木足 to 捉, and corrected 榒 to 搦.
   ==
+L
+  ====
+  * 【捉】 (tsraewk)
+    ==
+    - (_verb-like_) [to] grip, [to] grasp
+    ==
+  ====
 E
   ====
   - 【捉】 (zuk1)

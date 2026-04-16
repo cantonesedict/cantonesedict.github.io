@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-04-15
+* %date-modified --> 2026-04-16
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -6635,6 +6635,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) elbow
+      ==
+  //
+    , `tsraewk`
+    , [捉](/entries/zuk#rendering-捉)
+    ,
+      ==
+      - (_verb-like_) [to] grip, [to] grasp
       ==
   //
     , `tsreaH`
