@@ -196,6 +196,13 @@ W
         instruments to direct a band [[Kangxi: 郭璞云樂之初擊柷以作之樂之末戛敔以止之]].
     ==
   ====
+L
+  ====
+  * 【柷】 (tsyhuwk, tsyuwk)
+    ==
+    - (_noun-like_) sounding-box
+    ==
+  ====
 $$
 
 ### 燭1 | _Chuk(7)_ [[zuk1]]
@@ -245,6 +252,13 @@ P
   ++
   1. A torch (Kangxi: 庭燎火燭也, 燈燭).
   ++
+L
+  ====
+  * 【燭】 (tsyowk)
+    ==
+    - (_noun-like_) torch
+    ==
+  ====
 E
   ====
   - 【火燭】 (fo2 zuk1)
@@ -323,9 +337,20 @@ P
   ++
   1. A person that makes offerings/sacrifices to tablets/deities (Kangxi: 贊主人饗神者, 祝祭主贊詞者, etc.).
   1. To wish (well).
+  1. To attach (Kangxi: 屬也, 屬著也).
   1. To cut off (Kangxi: 斷也).
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【祝-entering】 (tsyuwk)
+    ==
+    - (_noun-like_) priest
+    - (_verb-like_) [to] pray
+    - (_verb-like_) [to] attach
+    - (_verb-like_) [to] cut off
+    ==
+  ====
 S
   ==
   - ($祝zau3)
@@ -378,6 +403,13 @@ P
   1. Bamboo writing slips (Kangxi: ::竹[簡]::).
   1. The 118th~radical ("bamboo").
   ++
+L
+  ====
+  * 【竹】 (trjuwk)
+    ==
+    - (_noun-like_) bamboo
+    ==
+  ====
 E
   ====
   - 【竹花頭】 (zuk1 faa1 tau4-2)
@@ -485,6 +517,14 @@ P
   1. To pound with a pestle (Kangxi: 擣也).
   1. A residence, a building.
   ++
+L
+  ====
+  * 【築】 (trjuwk)
+    ==
+    - (_verb-like_) [to] pound
+    - (_verb-like_) [to] build
+    ==
+  ====
 $$
 
 ### 粥1 | _Chuk(7)_ [[zuk1]]
@@ -530,6 +570,14 @@ P
   ++
   1. A meek or feeble appearance (Kangxi: ::粥粥[卑]謙貌::, 粥粥柔弱專愚之貌).
   ++
+L
+  ====
+  * 【粥】 (tsyuwk)
+    ==
+    - (_noun-like_) gruel
+    - (_adjective-like_) gruelly, (_met._) meek
+    ==
+  ====
 S
   ==
   - $粥juk6 (TODO)
@@ -576,6 +624,13 @@ W
     - _~~ch(')uk(7)~~ ``chuk(7)`` (1)sh(a/)n (1)ch(i/) lik(9)_
         [[zuk1 saan1 zi1 lik6 觸山之力]]
         extraordinary strength.
+    ==
+  ====
+L
+  ====
+  * 【觸】 (tsyhowk)
+    ==
+    - (_verb-like_) [to] butt, [to] knock against
     ==
   ====
 S
@@ -659,6 +714,14 @@ C
   - Williams' 足數唔足: This is dated syntax. In modern Cantonese,
     it would be 足唔足數, with only the adjective hugging the negative.
   ==
+L
+  ====
+  * 【足-entering】 (tsjowk)
+    ==
+    - (_noun-like_) foot
+    - (_adjective-like_) sufficient
+    ==
+  ====
 S
   ==
   - $足zeoi3
@@ -757,6 +820,14 @@ W
     - _tsuk(9) (4)yan_
         [[zuk6 jan4 俗人]],
         a vulgar person.
+    ==
+  ====
+L
+  ====
+  * 【俗】 (zjowk)
+    ==
+    - (_noun-like_) custom
+    - (_adjective-like_) vulgar
     ==
   ====
 $$

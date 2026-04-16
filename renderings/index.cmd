@@ -4531,6 +4531,21 @@ window.onload = applyFilter;
       - (_noun-like_) daytime
       ==
   //
+    , `trjuwk`
+    , [竹](/entries/zuk#rendering-竹)
+    ,
+      ==
+      - (_noun-like_) bamboo
+      ==
+  //
+    , `trjuwk`
+    , [築](/entries/zuk#rendering-築)
+    ,
+      ==
+      - (_verb-like_) [to] pound
+      - (_verb-like_) [to] build
+      ==
+  //
     , `trjuwng`
     , [衷](/entries/cung#rendering-衷)
     ,
@@ -6411,6 +6426,14 @@ window.onload = applyFilter;
       - (_adjective-like_) dank
       ==
   //
+    , `tsjowk`
+    , [足~(entering)](/entries/zuk#rendering-足-entering)
+    ,
+      ==
+      - (_noun-like_) foot
+      - (_adjective-like_) sufficient
+      ==
+  //
     , `tsjowng`
     , [從~(vertical)](/entries/zung#rendering-從-vertical)
     ,
@@ -7954,6 +7977,13 @@ window.onload = applyFilter;
       - (_noun-like_) place
       ==
   //
+    , `tsyhowk`
+    , [觸](/entries/zuk#rendering-觸)
+    ,
+      ==
+      - (_verb-like_) [to] butt, [to] knock against
+      ==
+  //
     , `tsyhowng`
     , [憧](/entries/cung#rendering-憧)
     ,
@@ -7991,6 +8021,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) smell
+      ==
+  //
+    , `tsyhuwk`
+    , [柷](/entries/zuk#rendering-柷)
+    ,
+      ==
+      - (_noun-like_) sounding-box
       ==
   //
     , `tsyhuwng`
@@ -8430,6 +8467,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] raise
       ==
   //
+    , `tsyowk`
+    , [燭](/entries/zuk#rendering-燭)
+    ,
+      ==
+      - (_noun-like_) torch
+      ==
+  //
     , `tsyuw`
     , [周](/entries/zau#rendering-周)
     ,
@@ -8479,6 +8523,31 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] curse
+      ==
+  //
+    , `tsyuwk`
+    , [柷](/entries/zuk#rendering-柷)
+    ,
+      ==
+      - (_noun-like_) sounding-box
+      ==
+  //
+    , `tsyuwk`
+    , [祝~(entering)](/entries/zuk#rendering-祝-entering)
+    ,
+      ==
+      - (_noun-like_) priest
+      - (_verb-like_) [to] pray
+      - (_verb-like_) [to] attach
+      - (_verb-like_) [to] cut off
+      ==
+  //
+    , `tsyuwk`
+    , [粥](/entries/zuk#rendering-粥)
+    ,
+      ==
+      - (_noun-like_) gruel
+      - (_adjective-like_) gruelly, (_met._) meek
       ==
   //
     , `tsyuwng`
@@ -9110,6 +9179,14 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) tench
+      ==
+  //
+    , `zjowk`
+    , [俗](/entries/zuk#rendering-俗)
+    ,
+      ==
+      - (_noun-like_) custom
+      - (_adjective-like_) vulgar
       ==
   //
     , `zjowng`
