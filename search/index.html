@@ -262,7 +262,12 @@ async function performSearch()
           if (matches.length)
           {
             let chineseScores =
-                    searchChineseRuns.map(run => Math.tanh(run.length / 2) ** 2);
+                    searchChineseRuns.map(
+                      run =>
+                        new RegExp(`(?<=[^㐀-鿿豈-龎𠀀-𳑿])${RegExp.escape(run)}(?=[^㐀-鿿豈-龎𠀀-𳑿])`, 'u').test(normalisedString)
+                          ? Math.tanh(run.length)
+                          : Math.tanh(run.length / 2) ** 2
+                    );
 
             let englishScores =
                     searchEnglishWords.map(
