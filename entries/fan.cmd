@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fan
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-04-17
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -174,6 +174,16 @@ L
     - (_verb-like_) [to] share
     - (_noun-like_) tenth
     ==
+  ====
+E
+  ====
+  - 【分分鐘】 (fan1 fan1 zung1)
+    ++
+    1. Used to indicate the possibility of a negative outcome. (Literally, "[could at] every minute".)
+       ==
+       - 分分鐘破產 (fan1 fan1 zung1 po3 caan2): "[You] could go bankrupt."
+       ==
+    ++
   ====
 S
   ==
