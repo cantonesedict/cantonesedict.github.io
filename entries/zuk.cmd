@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zuk
-* %date-modified --> 2026-04-16
+* %date-modified --> 2026-04-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -883,7 +883,7 @@ W
   ====
   - [[Page~599 族(9)]]
     ==
-    - A barb of a dart [[Kangxi: 矢鋒也]];
+    - [[...]];
     - to collect, to draw together, as a banner does [[Kangxi: 一曰从㫃㫃所以標衆矢之所集又聚也]];
     - a clan, a tribe;
     - a family or kindred [[Kangxi: 族者屬也]] of the same surname;
@@ -909,12 +909,23 @@ W
         [[seoi2 zuk6 水族]]
         aquatic animals.
     ==
+    --
+    [[Otherwise, an alternative form of 鏃 (for the "arrowhead" sense). **See $鏃zuk6 for the canonical entry.**]]
+    --
   ====
 P
   ++
   1. Collective familial punishment (Kangxi: 一人有罪{𠛬=⿰幵刂}及父母妻子).
   1. To exterminate.
   ++
+L
+  ====
+  * 【族】 (dzuwk)
+    ==
+    - (_noun-like_) clan
+    - (_noun-like_) kindred, relation
+    ==
+  ====
 $$
 
 ###+ 柚6 | _Chuk(9)_ [[zuk6]]
@@ -982,6 +993,14 @@ P
   ++
   1. (_phonetics_) Voiced.
   ++
+L
+  ====
+  * 【濁】 (draewk)
+    ==
+    - (_adjective-like_) muddy
+    - (_adjective-like_) (_met._) voiced
+    ==
+  ====
 E
   ====
   - 【濁】 (zuk6)
@@ -1056,7 +1075,7 @@ W
         [[cyun4 zuk6 傳續]]
         to continue a family;
     - _tsuk(9) ch(u:)(6) (5)m(i/) ts(o\)(6)_
-        [[zuk6 zyu6 mei5 zou6 續住？做]]
+        [[zuk6 zyu6 mei5 zou6 續住尾做]]
         to work by spells.
     ==
   ====
@@ -1069,6 +1088,13 @@ P
   1. To renew, to extend.
   1. To reprise.
   ++
+L
+  ====
+  * 【續】 (zjowk)
+    ==
+    - (_verb-like_) [to] continue, [to] carry on, (_met._) [to] join
+    ==
+  ====
 $$
 
 ### 蓫6 | _Chuk(9)_ [[zuk6]]
@@ -1078,6 +1104,10 @@ R
   ⾋ + 11
 U
   U+84EB
+V
+  ==
+  - cuk1 (alternative per 《廣韻》丑六切)
+  ==
 F
   ==
   - (F1.66 ::[蓫]::) 追逐驅逐斥逐
@@ -1093,6 +1123,13 @@ C
   ==
   - Fan Wan entry: Normalised headword ⿺辶⿱艹豕 to 蓫.
   ==
+L
+  ====
+  * 【蓫】 (drjuwk, trhjuwk)
+    ==
+    - (_noun-like_) sorrel
+    ==
+  ====
 $$
 
 ### 蔟6 | _Tsuk(9)_ [[zuk6]]
@@ -1146,6 +1183,13 @@ C
   ==
   - Specifically, the water plantain.
   ==
+L
+  ====
+  * 【藚】 (zjowk)
+    ==
+    - (_noun-like_) alisma
+    ==
+  ====
 $$
 
 ### 躅6 | _Chuk(9)_ [[zuk6]]
@@ -1172,8 +1216,15 @@ W
 P
   ++
   1. A footprint, a trace, a result (Kangxi: 迹也).
-  1. To stamp with the foot (Kangxi: 躑躅以足擊地).
+  1. To stamp with the feet (Kangxi: 躑躅以足擊地).
   ++
+L
+  ====
+  * 【躅】 (drjowk)
+    ==
+    - Used in [躑躅](/entries/zaak#rendering-躑躅).
+    ==
+  ====
 $$
 
 ### 軸6 | _Chuk(9)_ [[zuk6]]
@@ -1219,6 +1270,14 @@ P
   1. A roll, a scroll (Kangxi: 卷軸).
   1. An ailment of immobilisation (Kangxi: 病也, 盤桓不行之意).
   ++
+L
+  ====
+  * 【軸】 (drjuwk)
+    ==
+    - (_noun-like_) axle
+    - (_noun-like_) (_met._) lethargy
+    ==
+  ====
 $$
 
 ### 逐6 | _Chuk(9)_ [[zuk6]]
@@ -1265,6 +1324,15 @@ P
   1. To chase, to pursue (Kangxi: 追也).
   1. To contend, to strive (Kangxi: 競也).
   ++
+L
+  ====
+  * 【逐】 (drjuwk)
+    ==
+    - (_verb-like_) [to] pursue
+    - (_verb-like_) [to] oust
+    - (_verb-like_) [to] contend, [to] strive
+    ==
+  ====
 $$
 
 ### 鏃6 | _Tsuk(9)_ [[zuk6]]
@@ -1274,6 +1342,10 @@ R
   ⾦ + 11
 U
   U+93C3
+A
+  ==
+  - $族6 (for "arrowhead" sense)
+  ==
 V
   ==
   - zuk1 (per 《廣韻》作木切)
@@ -1284,10 +1356,22 @@ F
   ==
 W
   ====
+  - [[Page~599 族(9); here normalised to 鏃]]
+    ==
+    - A barb of a dart [[Kangxi 族: 矢鋒也]];
+    - [[...]].
+    ==
   - [[Page~599 鏃(9)]]
     ==
     - The barb of a dart or arrow, the iron head of a dart [[Kangxi: 箭鏃也]];
     - sharp ~~pointed~~ [[Kangxi: 利也]].
+    ==
+  ====
+L
+  ====
+  * 【鏃】 (tsuwk)
+    ==
+    - (_noun-like_) arrowhead
     ==
   ====
 $$

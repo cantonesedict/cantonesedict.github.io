@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-04-16
+* %date-modified --> 2026-04-17
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -841,6 +841,14 @@ window.onload = applyFilter;
       ==
   //
     , `draewk`
+    , [濁](/entries/zuk#rendering-濁)
+    ,
+      ==
+      - (_adjective-like_) muddy
+      - (_adjective-like_) (_met._) voiced
+      ==
+  //
+    , `draewk`
     , [濯~(entering)](/entries/zok#rendering-濯-entering)
     ,
       ==
@@ -1219,6 +1227,21 @@ window.onload = applyFilter;
       - (_adjective-like_) stagnant, (_met._) left-behind
       ==
   //
+    , `drjek`
+    , [躑](/entries/zaak#rendering-躑)
+    ,
+      ==
+      - Used in [躑躅](/entries/zaak#rendering-躑躅).
+      ==
+  //
+    , `drjek drjowk`
+    , [躑躅](/entries/zaak#rendering-躑躅)
+    ,
+      ==
+      - (_verb-like_) [to] pace back [and] forth
+      - (_verb-like_) [to] stamp feet
+      ==
+  //
     , `drjen`
     , [廛](/entries/cin#rendering-廛)
     ,
@@ -1374,6 +1397,13 @@ window.onload = applyFilter;
       - (_noun-like_) five-month-lamb
       ==
   //
+    , `drjowk`
+    , [躅](/entries/zuk#rendering-躅)
+    ,
+      ==
+      - Used in [躑躅](/entries/zaak#rendering-躑躅).
+      ==
+  //
     , `drjowng`
     , [重~(level)](/entries/cung#rendering-重-level)
     ,
@@ -1515,6 +1545,30 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) strong-drink
+      ==
+  //
+    , `drjuwk`
+    , [蓫](/entries/zuk#rendering-蓫)
+    ,
+      ==
+      - (_noun-like_) sorrel
+      ==
+  //
+    , `drjuwk`
+    , [軸](/entries/zuk#rendering-軸)
+    ,
+      ==
+      - (_noun-like_) axle
+      - (_noun-like_) (_met._) lethargy
+      ==
+  //
+    , `drjuwk`
+    , [逐](/entries/zuk#rendering-逐)
+    ,
+      ==
+      - (_verb-like_) [to] pursue
+      - (_verb-like_) [to] oust
+      - (_verb-like_) [to] contend, [to] strive
       ==
   //
     , `drjuwng`
@@ -2708,6 +2762,14 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) eastern-steps
+      ==
+  //
+    , `dzuwk`
+    , [族](/entries/zuk#rendering-族)
+    ,
+      ==
+      - (_noun-like_) clan
+      - (_noun-like_) kindred, relation
       ==
   //
     , `dzuwng`
@@ -4114,6 +4176,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] hoard
       ==
   //
+    , `trhjuwk`
+    , [蓫](/entries/zuk#rendering-蓫)
+    ,
+      ==
+      - (_noun-like_) sorrel
+      ==
+  //
     , `trhjuwng`
     , [忡](/entries/cung#rendering-忡)
     ,
@@ -5373,7 +5442,7 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) clear, pure
-      - (_adjective-like_) unvoiced
+      - (_adjective-like_) (_met._) unvoiced
       ==
   //
     , `tshjengX`
@@ -7219,6 +7288,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] put forward
       - (_verb-like_) [to] perform [music]
       - (_verb-like_) [to] report
+      ==
+  //
+    , `tsuwk`
+    , [鏃](/entries/zuk#rendering-鏃)
+    ,
+      ==
+      - (_noun-like_) arrowhead
       ==
   //
     , `tswaH`
@@ -9187,6 +9263,20 @@ window.onload = applyFilter;
       ==
       - (_noun-like_) custom
       - (_adjective-like_) vulgar
+      ==
+  //
+    , `zjowk`
+    , [續](/entries/zuk#rendering-續)
+    ,
+      ==
+      - (_verb-like_) [to] continue, [to] carry on, (_met._) [to] join
+      ==
+  //
+    , `zjowk`
+    , [藚](/entries/zuk#rendering-藚)
+    ,
+      ==
+      - (_noun-like_) alisma
       ==
   //
     , `zjowng`

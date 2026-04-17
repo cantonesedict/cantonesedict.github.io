@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2026-03-01
+* %date-modified --> 2026-04-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1135,6 +1135,10 @@ R
   ⾜ + 15
 U
   U+8E91
+A
+  ==
+  - 蹢
+  ==
 V
   ==
   - zik6 (per 《廣韻》直炙切)
@@ -1159,4 +1163,16 @@ C
   ==
   - Williams' "embarrassed": In the (now) archaic sense of "impeded", "obstructed".
   ==
+L
+  ====
+  * 【躑】 (drjek)
+    ==
+    - Used in [躑躅](/entries/zaak#rendering-躑躅).
+    ==
+  * 【躑躅】 (drjek drjowk)
+    ==
+    - (_verb-like_) [to] pace back [and] forth
+    - (_verb-like_) [to] stamp feet
+    ==
+  ====
 $$

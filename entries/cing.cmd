@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cing
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-04-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -229,7 +229,7 @@ L
   * 【清】 (tshjeng)
     ==
     - (_adjective-like_) clear, pure
-    - (_adjective-like_) unvoiced
+    - (_adjective-like_) (_met._) unvoiced
     ==
   ====
 $$
