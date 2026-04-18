@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-04-18
+* %date-modified --> 2026-04-19
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -1616,6 +1616,13 @@ window.onload = applyFilter;
       - (_noun-like_) insect, creature
       ==
   //
+    , `drjuwngH`
+    , [仲](/entries/zung#rendering-仲)
+    ,
+      ==
+      - (_adjective-like_) middle, mid, (_met._) second
+      ==
+  //
     , `drjweH`
     , [縋](/entries/zeoi#rendering-縋)
     ,
@@ -2320,6 +2327,15 @@ window.onload = applyFilter;
       ==
       - (_verb-like_) [to] follow, [to] pursue
       - (_preposition-like_) from
+      ==
+  //
+    , `dzjowngH`
+    , [從~(follower)](/entries/zung#rendering-從-follower)
+    ,
+      ==
+      - (_noun-like_) follower
+      - (_adjective-like_) auxiliary
+      - (_adjective-like_) collateral
       ==
   //
     , `dzjuX`
@@ -4675,6 +4691,7 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] hit (centre), [to] hit [the] mark
+      - (_adjective-like_) on [the] mark, (_met._) meet
       ==
   //
     , `trjwejH`
@@ -9488,6 +9505,38 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) pine-tree, pine
+      ==
+  //
+    , `zjowng`
+    , [訟](/entries/zung#rendering-訟)
+    ,
+      ==
+      - (_verb-like_) [to] litigate
+      - (_verb-like_) [to] reproach, [to] reprove
+      ==
+  //
+    , `zjowngH`
+    , [訟](/entries/zung#rendering-訟)
+    ,
+      ==
+      - (_verb-like_) [to] litigate
+      - (_verb-like_) [to] reproach, [to] reprove
+      ==
+  //
+    , `zjowngH`
+    , [誦](/entries/zung#rendering-誦)
+    ,
+      ==
+      - (_verb-like_) [to] recite
+      - (_noun-like_) recitative
+      - (_verb-like_) [to] mock
+      ==
+  //
+    , `zjowngH`
+    , [頌](/entries/zung#rendering-頌)
+    ,
+      ==
+      - (_verb-like_) [to] laud
       ==
   //
     , `zjuw`

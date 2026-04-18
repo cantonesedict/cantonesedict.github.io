@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zung
-* %date-modified --> 2026-04-18
+* %date-modified --> 2026-04-19
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1815,6 +1815,7 @@ L
   * 【中-departing】 (trjuwngH)
     ==
     - (_verb-like_) [to] hit (centre), [to] hit [the] mark
+    - (_adjective-like_) on [the] mark, (_met._) meet
     ==
   ====
 S
@@ -2256,6 +2257,13 @@ P
   1. A surname (Kangxi: 姓).
   1. Used in 仲孫 (a compound surname) (Kangxi: 仲孫複姓).
   ++
+L
+  ====
+  * 【仲】 (drjuwngH)
+    ==
+    - (_adjective-like_) middle, mid, (_met._) second
+    ==
+  ====
 $$
 
 ### 從6 | _Tsung(6)_ [[zung6]]
@@ -2297,7 +2305,17 @@ W
 P
   ++
   1. A follower.
+  1. Collateral (of relatives).
   ++
+L
+  ====
+  * 【從-follower】 (dzjowngH)
+    ==
+    - (_noun-like_) follower
+    - (_adjective-like_) auxiliary
+    - (_adjective-like_) collateral
+    ==
+  ====
 S
   ==
   - $從cung4
@@ -2317,6 +2335,10 @@ U
 A
   ==
   - $誦6 (for "openly" sense)
+  ==
+V
+  ==
+  - cung4 (alternative per 《廣韻》祥容切)
   ==
 F
   ==
@@ -2370,6 +2392,14 @@ P
   1. To reproach, to reprove (Kangxi: 責也).
   1. Openly (Kangxi: 公也).
   ++
+L
+  ====
+  * 【訟】 (zjowngH, zjowng)
+    ==
+    - (_verb-like_) [to] litigate
+    - (_verb-like_) [to] reproach, [to] reprove
+    ==
+  ====
 $$
 
 ### 誦6 | _Tsung(6)_ [[zung6]]
@@ -2420,6 +2450,15 @@ P
   ++
   1. To discourse, to speak of (Kangxi: 論也言也 etc.).
   ++
+L
+  ====
+  * 【誦】 (zjowngH)
+    ==
+    - (_verb-like_) [to] recite
+    - (_noun-like_) recitative
+    - (_verb-like_) [to] mock
+    ==
+  ====
 $$
 
 ### 重6 | _Chung(6)_ [[zung6]]
@@ -2572,6 +2611,13 @@ P
   ++
   1. A type of ode in the Classic of Poetry.
   ++
+L
+  ====
+  * 【頌】 (zjowngH)
+    ==
+    - (_verb-like_) [to] laud
+    ==
+  ====
 S
   ==
   - $頌jung4 (TODO)
