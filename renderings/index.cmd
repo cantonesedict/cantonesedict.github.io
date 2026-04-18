@@ -7377,6 +7377,13 @@ window.onload = applyFilter;
       ==
   //
     , `tsuwng`
+    , [總~(level)](/entries/zung#rendering-總-level)
+    ,
+      ==
+      - (_noun-like_) thread-bundle
+      ==
+  //
+    , `tsuwng`
     , [豵](/entries/zung#rendering-豵)
     ,
       ==

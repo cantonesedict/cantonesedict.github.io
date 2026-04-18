@@ -62,6 +62,7 @@ $$
 - $終1
 - $綜1
 - $縱1
+- $總1
 - $舂1
 - $螽1
 - ($衷1)
@@ -797,6 +798,41 @@ S
   ==
 $$
 
+###+ 總1 | _(1)Tsung_ [[zung1]]
+
+$$
+R
+  ⽷ + 11
+U
+  U+7E3D
+H
+  May appear as either ⿰糹⿱囪心 (assumed here) or ⿰糹⿱囱心,
+  depending on the font.
+A
+  ==
+  - 緫
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Classifier for silk by a certain thread count (Kangxi: 絲數詩曰素絲五緫).
+  ++
+L
+  ====
+  * 【總-level】 (tsuwng)
+    ==
+    - (_noun-like_) thread-bundle
+    ==
+  ====
+S
+  ==
+  - $總zung2
+  ==
+$$
+
 ### 舂1 | _(1)Chung_ [[zung1]]
 
 $$
@@ -1490,6 +1526,7 @@ A
   ==
   - 搃
   - 総
+  - 緫
   ==
 F
   ==
@@ -1576,6 +1613,10 @@ L
     - (_verb-like_) [to] take command (of)
     ==
   ====
+S
+  ==
+  - $總zung1
+  ==
 $$
 
 ### 腫2 | _(2)Chung_ [[zung2]]

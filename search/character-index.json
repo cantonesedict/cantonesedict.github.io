@@ -12599,6 +12599,16 @@
 "text":"U+7E31 從 (F1.62 縱) 縱肆又故縱 (Page 607 縱) Remiss, careless; ~~extravagant, as in speech;~~ to allow, to wrongfully permit, to connive at; to let things take their course; to indulge in (Kangxi: 緩也, 恣也放也); to let go, as a mouse; although, allowing, perhaps; to shoot an arrow (Kangxi: 發矢曰縱); _tsung yung_ (zung3 jung4 縱容), not to check, unfettered, unrestrained; _ku tsung_ (gu3 zung3 故縱) purposely conniving at; _tsung in kom yeung_ (zung3 jin4 gam2 joeng6-2 縱然噉樣) although it is so; _tsung kwan_ (zung3 gwaan3 縱慣) overindulgence, as by parents; _tsung tai k'u ko tam_ (zung3 daai6 keoi5 go3 daam2 縱大佢個膽), not to restrain. Williams' \"extravagant, as in speech\": This is a misreading of Kangxi 縱言汎說事. Here, 汎說事 means \"generally speaking of matters.\" Williams' \"conniving at\": In the (now) archaic sense of turning a blind eye. Williams' \"to shoot an arrow\": That is, to let it loose. To leap up."
 }
 },
+"總":{
+"zung1":{
+"isCanonical":true,
+"text":"U+7E3D May appear as either ⿰糹⿱囪心 (assumed here) or ⿰糹⿱囱心, depending on the font. 緫 Classifier for silk by a certain thread count (Kangxi: 絲數詩曰素絲五緫). 【總-level】 (tsuwng) (_noun-like_) thread-bundle"
+},
+"zung2":{
+"isCanonical":true,
+"text":"U+7E3D May appear as either ⿰糹⿱囪心 (assumed here) or ⿰糹⿱囱心, depending on the font. 搃 総 緫 (F1.61 總) 統也括也合也 (F1.61 搃) 同上 (Page 607 總搃) To collect and tie up (Kangxi 總: 聚束也); to unite the whole (Kangxi 總: 合也); to combine or comprehend in one; all, altogether, the whole (Kangxi 總: 皆也); still, nevertheless; a supervisor, one who controls all; a general of generic term; generally; _tsung kung_ (zung2 gung6 總共) or _lung tsung_ (lung5 zung2 攏總), all, the whole; _tsung pat nang ying yat tsz'_ (zung2 bat1 nang4 jing3 jat6 zi2 總不能應日子) he never once came on the promised day; _a tsung_ (aa3 zung2 阿總) or _tsung t'au_ (zung2 tau4-2 總頭), boss, a head workman; _tsung kok_ (zung2 gok3 總角) tufts of hair on young children (Kangxi 總: 總聚其髮以爲兩角); _yat tsung ki to ts'in_ (jat1 zung2 gei2 do1 cin4 一總幾多錢), how many cash for the whole? _tsung iu hu_ (zung2 jiu3 heoi3 總要去) still I must go; _tsung 'm hang_ (zung2 m4 hang2 總唔肯), after all he refused; _tsung lai mai_ (zung2 laai1 maai4 總拉埋), lump or bring them all together; _tsung 'm t'ung_ (zung2 m4 tung4 總唔同) not all the same; _tsung ch'am yam_ (zung2 cam4 jam1 總沉音), not the least answer; _tsung tuk_ (zung2 duk1 總督) a governor-general; _tsung ping_ (zung2 bing1 總兵), a major-general; _ts'in tsung_ (cin1 zung2 千總), a chiliarch, a colonel; _tsung kun_ (zung2 gun2 總管), a general manager or clerk; _tsung ch'e ke ngan_ (zung2 ce2 ge3 ngan4 總扯嘅銀), an average price. Williams' 攏總: Corrected _lung_ (lung2) to _lung_ (lung5). Grain bundles (Kangxi: 禾稾曰總). To lead (Kangxi: 總將領也). To tie, to knot (Kangxi: 總結也). 【總-rising】 (tsuwngX) (_verb-like_) to bundle (together), to aggregate (_noun-like_) grain-bundle (_verb-like_) to take command (of)"
+}
+},
 "舂":{
 "zung1":{
 "isCanonical":true,
@@ -12693,12 +12703,6 @@
 "zung3":{
 "isCanonical":false,
 "text":"U+7CC9"
-}
-},
-"總":{
-"zung2":{
-"isCanonical":true,
-"text":"U+7E3D May appear as either ⿰糹⿱囪心 (assumed here) or ⿰糹⿱囱心, depending on the font. 搃 総 (F1.61 總) 統也括也合也 (F1.61 搃) 同上 (Page 607 總搃) To collect and tie up (Kangxi 總: 聚束也); to unite the whole (Kangxi 總: 合也); to combine or comprehend in one; all, altogether, the whole (Kangxi 總: 皆也); still, nevertheless; a supervisor, one who controls all; a general of generic term; generally; _tsung kung_ (zung2 gung6 總共) or _lung tsung_ (lung5 zung2 攏總), all, the whole; _tsung pat nang ying yat tsz'_ (zung2 bat1 nang4 jing3 jat6 zi2 總不能應日子) he never once came on the promised day; _a tsung_ (aa3 zung2 阿總) or _tsung t'au_ (zung2 tau4-2 總頭), boss, a head workman; _tsung kok_ (zung2 gok3 總角) tufts of hair on young children (Kangxi 總: 總聚其髮以爲兩角); _yat tsung ki to ts'in_ (jat1 zung2 gei2 do1 cin4 一總幾多錢), how many cash for the whole? _tsung iu hu_ (zung2 jiu3 heoi3 總要去) still I must go; _tsung 'm hang_ (zung2 m4 hang2 總唔肯), after all he refused; _tsung lai mai_ (zung2 laai1 maai4 總拉埋), lump or bring them all together; _tsung 'm t'ung_ (zung2 m4 tung4 總唔同) not all the same; _tsung ch'am yam_ (zung2 cam4 jam1 總沉音), not the least answer; _tsung tuk_ (zung2 duk1 總督) a governor-general; _tsung ping_ (zung2 bing1 總兵), a major-general; _ts'in tsung_ (cin1 zung2 千總), a chiliarch, a colonel; _tsung kun_ (zung2 gun2 總管), a general manager or clerk; _tsung ch'e ke ngan_ (zung2 ce2 ge3 ngan4 總扯嘅銀), an average price. Williams' 攏總: Corrected _lung_ (lung2) to _lung_ (lung5). Grain bundles (Kangxi: 禾稾曰總). To lead (Kangxi: 總將領也). To tie, to knot (Kangxi: 總結也). 【總-rising】 (tsuwngX) (_verb-like_) to bundle (together), to aggregate (_noun-like_) grain-bundle (_verb-like_) to take command (of)"
 }
 },
 "腫":{
