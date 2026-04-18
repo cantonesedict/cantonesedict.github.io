@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zau
-* %date-modified --> 2026-04-05
+* %date-modified --> 2026-04-18
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1705,7 +1705,8 @@ W
 C
   ==
   - Fan Wan entry: The alternative form {𩱛=⿰鬲⿳⿶凵⿻⿻⿻⿻㐅丶丶丶丶儿夊} (i.e. 糭 but with 鬲 in place of 米)
-    is likely an error.
+    is probably based on 《中庸》 having 詩曰奏假無言
+    when the original is 鬷假無言.
   ==
 P
   ++

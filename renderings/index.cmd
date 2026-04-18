@@ -6567,7 +6567,7 @@ window.onload = applyFilter;
     , [豵](/entries/zung#rendering-豵)
     ,
       ==
-      - (_noun-like_) piglet
+      - (_noun-like_) shote
       ==
   //
     , `tsju`
@@ -7373,7 +7373,14 @@ window.onload = applyFilter;
     , [豵](/entries/zung#rendering-豵)
     ,
       ==
-      - (_noun-like_) piglet
+      - (_noun-like_) shote
+      ==
+  //
+    , `tsuwng`
+    , [鬷](/entries/zung#rendering-鬷)
+    ,
+      ==
+      - (_verb-like_) [to] gather
       ==
   //
     , `tswaH`
@@ -8627,6 +8634,21 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) torch
+      ==
+  //
+    , `tsyowng`
+    , [鍾](/entries/zung#rendering-鍾)
+    ,
+      ==
+      - (_noun-like_) wine-vessel
+      - (_verb-like_) [to] gather, [to] concentrate
+      ==
+  //
+    , `tsyowng`
+    , [鐘](/entries/zung#rendering-鐘)
+    ,
+      ==
+      - (_noun-like_) bell
       ==
   //
     , `tsyuw`

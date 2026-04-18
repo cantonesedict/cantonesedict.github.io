@@ -955,7 +955,7 @@ L
   ====
   * 【豵】 (tsuwng, tsjowng)
     ==
-    - (_noun-like_) piglet
+    - (_noun-like_) shote
     ==
   ====
 $$
@@ -1053,14 +1053,14 @@ W
     - [[...]];
     - to collect``, to concentrate`` [[Kangxi: 聚也]];
     - ~~to bestow, to confer~~ ``that bestowed or conferred from Heaven`` [[Kangxi: 天所賦予亦曰鍾]];
-    - ~~to repeat;~~
+    - to repeat [[Kangxi: 重也]];
     - ~~heavy;~~
     - ~~gifted with, endowed;~~
     - _(2)sho (1)chung oi(3)_
         [[so2 zung1 oi3 所鍾愛]]
         whom I love best;
     - _(1)chung (4)ling_
-        [[zung1 ling4 鍾？]],
+        [[zung1 ling4 鍾陵]],
         the luck of a spot for a grave;
     - [[...]].
     ==
@@ -1079,10 +1079,6 @@ C
   - Williams' "A measure equal to 4~_tau_":
     This is a misreading of Kangxi 六斛四斗曰鍾,
     which puts the measure at 64~_tau_, not 4~_tau_.
-  - Williams' "to repeat", "heavy": These are renderings of Kangxi 鍾重也.
-    It is unclear whether 重 here is level-tone _(4)ch(')ung_ (cung4) "repeated"
-    or rising-tone _(5)ch(')ung_ (cung5) "heavy",
-    though the latter is slightly more likely due to what follows (染色欲其深重).
   ==
 P
   ++
@@ -1092,6 +1088,14 @@ P
   1. A surname (Kangxi: 姓).
   1. Used in 鍾離 (a compound surname) (Kangxi: 鍾離複姓).
   ++
+L
+  ====
+  * 【鍾】 (tsyowng)
+    ==
+    - (_noun-like_) wine-vessel
+    - (_verb-like_) [to] gather, [to] concentrate
+    ==
+  ====
 $$
 
 ### 鐘1 | _(1)Chung_ [[zung1]]
@@ -1139,6 +1143,13 @@ P
   ++
   1. A clock.
   ++
+L
+  ====
+  * 【鐘】 (tsyowng)
+    ==
+    - (_noun-like_) bell
+    ==
+  ====
 E
   ====
   - 【鐘】 (zung1)
@@ -1254,14 +1265,23 @@ W
   ====
 C
   ==
-  - Williams' "hempen threads": This is a rendering of Kangxi 鬷謂麻縷
-    (which is part of the subcommentary, but not particularly helpful).
-  - Williams' "to count": This is a misreading of Kangxi 鬷數也.
+  - Williams' "hempen threads": This is a rendering of Kangxi 鬷謂麻縷,
+    which is part of the (not particularly helpful) subcommentary.
+  - Williams' "to count": This is based on the subcommentary's attempt
+    to explain the commentary (鬷數也) as a track of the thread count
+    using cords.
   ==
 P
   ++
   1. To gather (Kangxi: 總也).
   ++
+L
+  ====
+  * 【鬷】 (tsuwng)
+    ==
+    - (_verb-like_) [to] gather
+    ==
+  ====
 $$
 
 
