@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fau
-* %date-modified --> 2026-02-28
+* %date-modified --> 2026-04-18
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -562,6 +562,7 @@ U
 A
   ==
   - ${𧌓=⿰虫阜}6
+  - $阜6
   ==
 F
   [[Not present]]
@@ -574,6 +575,13 @@ W
         [[fau6 zung1 蛗螽]],
         a sort of green locust;
         _met._ many children.
+    ==
+  ====
+L
+  ====
+  * 【蛗】 (bjuwX)
+    ==
+    - Used in [蛗螽](/entries/zung#rendering-蛗螽).
     ==
   ====
 $$
@@ -626,6 +634,9 @@ W
         [[fung1 fau6 豐阜]]
         abundant, as a harvest.
     ==
+    --
+    [[Otherwise, an alternative form of 蛗. **See $蛗fau6 for the canonical entry.**]]
+    --
   ====
 C
   ==

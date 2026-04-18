@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zung
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-04-18
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -146,6 +146,15 @@ C
     unannotated examples, starting with 《書大禹謨》允執厥中,
     without ever explaining the main sense, "centre".
   ==
+L
+  ====
+  * 【中-level】 (trjuwng)
+    ==
+    - (_noun-like_) centre, middle, midst
+    - (_adjective-like_) centred, central, mid, medium
+    - (_postposition-like_) amidst, among
+    ==
+  ====
 E
   ====
   - 【中意】 (zung1 ji3)
@@ -199,7 +208,7 @@ W
     - an ancestral tablet [[Kangxi: 宗者何宗有尊也爲先祖主也宗人之所尊也]];
     - what is honored [[Kangxi: 謂所尊祭者 etc.]];
     - to honor, to reverence;
-    - that which men [[or things]] recur or resort to [[Kangxi: 人物所歸往亦曰宗]];
+    - that which men ``or things`` recur or resort to [[Kangxi: 人物所歸往亦曰宗]];
     - to revert to;
     - the natural centre, an origin, the source [[Kangxi: 宗者本也]];
     - a clan, those of the same surname [[Kangxi: 同姓曰宗]];
@@ -254,10 +263,23 @@ C
   ==
 P
   ++
-  1. An ancestor.
+  1. An ancestor (Kangxi: 流派所出爲宗).
   1. A surname (Kangxi: 姓).
   1. Used in 宗政 (a compound surname).
   ++
+L
+  ====
+  * 【宗】 (tsowng)
+    ==
+    - (_noun-like_) ancestral-temple, ancestral-tablet
+    - (_noun-like_) ancestor, origin, honoured-one
+    - (_noun-like_) kinsfolk
+    - (_noun-like_) mentor
+    - (_verb-like_) [to] honour
+    - (_verb-like_) [to] return to origin
+    - (_verb-like_) [to] regard mentor
+    ==
+  ====
 $$
 
 ###+ 從1 | _(1)Tsung_ [[zung1]]
@@ -322,6 +344,13 @@ C
   - Fan Wan entry: Corrected 巳 to 己.
   - Williams' 忠厚: Changed _hau(6)_ (hau6) to common reading _(5)hau_ (hau5).
   ==
+L
+  ====
+  * 【忠】 (trjuwng)
+    ==
+    - (_adjective-like_) loyal
+    ==
+  ====
 $$
 
 ### 悰1 | _(1)Tsung_ [[zung1]]
@@ -666,6 +695,16 @@ P
   ++
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【終】 (tsyuwng)
+    ==
+    - (_verb-like_) [to] end
+    - (_adverb-like_) [in the] end, [to the] end, ultimately
+    - (_determiner-like_) complete, (_met._) all
+    - (_determiner-like_) (_met._) both
+    ==
+  ====
 $$
 
 ### 綜1 | _(1)Tsung_ [[zung1]]
@@ -698,8 +737,15 @@ C
   ==
 P
   ++
-  1. To gather, to synthesise (Kangxi: 綜謂總聚).
+  1. To collect, to gather, to synthesise (Kangxi: 綜謂總聚).
   ++
+L
+  ====
+  * 【綜】 (tsowngH)
+    ==
+    - (_verb-like_) [to] collect [together]
+    ==
+  ====
 S
   ==
   - $綜zung3
@@ -791,8 +837,20 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected 舂 to 春.
+  - Fan Wan entry: Corrected 春 to 舂.
   ==
+P
+  ++
+  1. A pounding-stick to keep the beat in music (Kangxi: 樂器 etc., ::[...]以舂築地爲節也::).
+  ++
+L
+  ====
+  * 【舂】 (syowng)
+    ==
+    - (_verb-like_) [to] pound [grain]
+    - (_noun-like_) pounding-stick
+    ==
+  ====
 $$
 
 ### 螽1 | _(1)Chung_ [[zung1]]
@@ -817,6 +875,22 @@ W
     - _(1)chung (1)sz' (2)(i/)n hing(3)_
         [[zung1 si1 jin2 hing3 螽斯衍慶]]
         may your children be numerous.
+    ==
+  ====
+L
+  ====
+  * 【蛗螽】 (bjuwX tsyuwng)
+    ==
+    - (_noun-like_) locust, bush-cricket
+    ==
+  * 【螽】 (tsyuwng)
+    ==
+    - (_noun-like_) locust, bush-cricket
+    - Used in [蛗螽](/entries/zung#rendering-蛗螽), [螽斯](/entries/zung#rendering-螽斯).
+    ==
+  * 【螽斯】 (tsyuwng sje)
+    ==
+    - (_noun-like_) locust, bush-cricket
     ==
   ====
 $$
@@ -877,6 +951,13 @@ P
   ++
   1. A sow that has given birth to three (Kangxi: 豕生三豵).
   ++
+L
+  ====
+  * 【豵】 (tsuwng, tsjowng)
+    ==
+    - (_noun-like_) piglet
+    ==
+  ====
 $$
 
 ### 踪1 | _(1)Tsung_ [[zung1]]
@@ -1620,6 +1701,13 @@ P
   ++
   1. Important (Kangxi: 要也).
   ++
+L
+  ====
+  * 【中-departing】 (trjuwngH)
+    ==
+    - (_verb-like_) [to] hit (centre), [to] hit [the] mark
+    ==
+  ====
 S
   ==
   - $中zung1

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-04-17
+* %date-modified --> 2026-04-18
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -776,6 +776,20 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) up-wing fly
+      ==
+  //
+    , `bjuwX`
+    , [蛗](/entries/fau#rendering-蛗)
+    ,
+      ==
+      - Used in [蛗螽](/entries/zung#rendering-蛗螽).
+      ==
+  //
+    , `bjuwX tsyuwng`
+    , [蛗螽](/entries/zung#rendering-蛗螽)
+    ,
+      ==
+      - (_noun-like_) locust, bush-cricket
       ==
   //
     , `bjuwng`
@@ -3896,6 +3910,14 @@ window.onload = applyFilter;
       - (_verb-like_) [to] bundle, [to] bind
       ==
   //
+    , `syowng`
+    , [舂](/entries/zung#rendering-舂)
+    ,
+      ==
+      - (_verb-like_) [to] pound [grain]
+      - (_noun-like_) pounding-stick
+      ==
+  //
     , `tet`
     , [窒](/entries/zat#rendering-窒)
     ,
@@ -4616,6 +4638,22 @@ window.onload = applyFilter;
       ==
   //
     , `trjuwng`
+    , [中~(level)](/entries/zung#rendering-中-level)
+    ,
+      ==
+      - (_noun-like_) centre, middle, midst
+      - (_adjective-like_) centred, central, mid, medium
+      - (_postposition-like_) amidst, among
+      ==
+  //
+    , `trjuwng`
+    , [忠](/entries/zung#rendering-忠)
+    ,
+      ==
+      - (_adjective-like_) loyal
+      ==
+  //
+    , `trjuwng`
     , [衷](/entries/cung#rendering-衷)
     ,
       ==
@@ -4623,6 +4661,13 @@ window.onload = applyFilter;
       - (_noun-like_) inner-feeling
       - (_noun-like_) goodness
       - (_adjective-like_) sincere
+      ==
+  //
+    , `trjuwngH`
+    , [中~(departing)](/entries/zung#rendering-中-departing)
+    ,
+      ==
+      - (_verb-like_) [to] hit (centre), [to] hit [the] mark
       ==
   //
     , `trjwejH`
@@ -6518,6 +6563,13 @@ window.onload = applyFilter;
       - (_adjective-like_) toothed
       ==
   //
+    , `tsjowng`
+    , [豵](/entries/zung#rendering-豵)
+    ,
+      ==
+      - (_noun-like_) piglet
+      ==
+  //
     , `tsju`
     , [諏](/entries/zau#rendering-諏)
     ,
@@ -6692,6 +6744,26 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) great-
+      ==
+  //
+    , `tsowng`
+    , [宗](/entries/zung#rendering-宗)
+    ,
+      ==
+      - (_noun-like_) ancestral-temple, ancestral-tablet
+      - (_noun-like_) ancestor, origin, honoured-one
+      - (_noun-like_) kinsfolk
+      - (_noun-like_) mentor
+      - (_verb-like_) [to] honour
+      - (_verb-like_) [to] return to origin
+      - (_verb-like_) [to] regard mentor
+      ==
+  //
+    , `tsowngH`
+    , [綜](/entries/zung#rendering-綜)
+    ,
+      ==
+      - (_verb-like_) [to] collect [together]
       ==
   //
     , `tsraeH`
@@ -7295,6 +7367,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) arrowhead
+      ==
+  //
+    , `tsuwng`
+    , [豵](/entries/zung#rendering-豵)
+    ,
+      ==
+      - (_noun-like_) piglet
       ==
   //
     , `tswaH`
@@ -8631,6 +8710,31 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) confluence
+      ==
+  //
+    , `tsyuwng`
+    , [終](/entries/zung#rendering-終)
+    ,
+      ==
+      - (_verb-like_) [to] end
+      - (_adverb-like_) [in the] end, [to the] end, ultimately
+      - (_determiner-like_) complete, (_met._) all
+      - (_determiner-like_) (_met._) both
+      ==
+  //
+    , `tsyuwng`
+    , [螽](/entries/zung#rendering-螽)
+    ,
+      ==
+      - (_noun-like_) locust, bush-cricket
+      - Used in [蛗螽](/entries/zung#rendering-蛗螽), [螽斯](/entries/zung#rendering-螽斯).
+      ==
+  //
+    , `tsyuwng sje`
+    , [螽斯](/entries/zung#rendering-螽斯)
+    ,
+      ==
+      - (_noun-like_) locust, bush-cricket
       ==
   //
     , `tsyweX`
