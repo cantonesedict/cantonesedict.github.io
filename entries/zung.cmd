@@ -1332,6 +1332,13 @@ P
   ++
   1. Swelling of the legs (Kangxi: 脛氣腫).
   ++
+L
+  ====
+  * 【尰】 (dzyowngX)
+    ==
+    - (_adjective-like_) swollen
+    ==
+  ====
 $$
 
 ### 種2 | _(2)Chung_ [[zung2]]
@@ -1376,6 +1383,14 @@ P
   ++
   1. Guts, determination.
   ++
+L
+  ====
+  * 【種-noun】 (tsyowngX)
+    ==
+    - (_noun-like_) seed
+    - (_noun-like_) kind
+    ==
+  ====
 S
   ==
   - $種zung3
@@ -1445,8 +1460,15 @@ W
   [[Not present]]
 P
   ++
-  1. Used in 縱縱 (hurriedly, hastily) (Kangxi: 讀如總領之總急遽趨事貌).
+  1. Used in 縱縱 (hurried) (Kangxi: 讀如總領之總急遽趨事貌).
   ++
+L
+  ====
+  * 【縱-rising】 (tsuwngX)
+    ==
+    - (_adjective-like_) hurried
+    ==
+  ====
 S
   ==
   - $縱zung1
@@ -1541,9 +1563,19 @@ C
   ==
 P
   ++
+  1. Grain bundles (Kangxi: 禾稾曰總).
   1. To lead (Kangxi: 總將領也).
   1. To tie, to knot (Kangxi: 總結也).
   ++
+L
+  ====
+  * 【總-rising】 (tsuwngX)
+    ==
+    - (_verb-like_) [to] bundle (together), [to] aggregate
+    - (_noun-like_) grain-bundle
+    - (_verb-like_) [to] take command (of)
+    ==
+  ====
 $$
 
 ### 腫2 | _(2)Chung_ [[zung2]]
@@ -1856,6 +1888,13 @@ W
     - _chung(3) fuk(7)_
         [[zung3 fuk1 種福]]
         to bequeath happiness.
+    ==
+  ====
+L
+  ====
+  * 【種-verb】 (tsyowngH)
+    ==
+    - (_verb-like_) [to] seed
     ==
   ====
 S

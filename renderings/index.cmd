@@ -2958,6 +2958,13 @@ window.onload = applyFilter;
       - (_adjective-like_) clear
       ==
   //
+    , `dzyowngX`
+    , [尰](/entries/zung#rendering-尰)
+    ,
+      ==
+      - (_adjective-like_) swollen
+      ==
+  //
     , `dzyuw`
     , [酬](/entries/cau#rendering-酬)
     ,
@@ -7383,6 +7390,22 @@ window.onload = applyFilter;
       - (_verb-like_) [to] gather
       ==
   //
+    , `tsuwngX`
+    , [縱~(rising)](/entries/zung#rendering-縱-rising)
+    ,
+      ==
+      - (_adjective-like_) hurried
+      ==
+  //
+    , `tsuwngX`
+    , [總~(rising)](/entries/zung#rendering-總-rising)
+    ,
+      ==
+      - (_verb-like_) [to] bundle (together), [to] aggregate
+      - (_noun-like_) grain-bundle
+      - (_verb-like_) [to] take command (of)
+      ==
+  //
     , `tswaH`
     , [挫](/entries/co#rendering-挫)
     ,
@@ -8649,6 +8672,21 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) bell
+      ==
+  //
+    , `tsyowngX`
+    , [種~(noun)](/entries/zung#rendering-種-noun)
+    ,
+      ==
+      - (_noun-like_) seed
+      - (_noun-like_) kind
+      ==
+  //
+    , `tsyowngH`
+    , [種~(verb)](/entries/zung#rendering-種-verb)
+    ,
+      ==
+      - (_verb-like_) [to] seed
       ==
   //
     , `tsyuw`
