@@ -1662,6 +1662,14 @@ P
   ++
   1. An ulcer or boil (Kangxi: 癰也, 疾也).
   ++
+L
+  ====
+  * 【腫】 (tsyowngX)
+    ==
+    - (_verb-like_) [to] swell
+    - (_noun-like_) swelling
+    ==
+  ====
 $$
 
 ### 踵2 | _(2)Chung_ [[zung2]]
@@ -1685,7 +1693,7 @@ W
     ==
     - The heel [[Kangxi: 足後]];
     - to follow one, to imitate [[Kangxi: 因也]], to go after one [[Kangxi: 追也]];
-    - to visit [[Kangxi: 踵至也]];
+    - to visit``, to arrive`` [[Kangxi: 踵至也]];
     - ~~to tread hard;~~
     - ~~to connect;~~
     - _~~ts(i/)p(9)~~ ``ts(i/)p(8)`` (2)chung_
@@ -1698,7 +1706,7 @@ W
         [[zung2 gwai3 gwok3 踵貴國]]
         to come to your country;
     - _(2)chung (2)f(u/)_
-        [[zung2 fu2 貴府]],
+        [[zung2 fu2 踵府]],
         to visit your house.
     ==
   ====
@@ -1712,6 +1720,14 @@ P
   1. To continue, to succeed (Kangxi: 繼也).
   1. Repeatedly, frequently (Kangxi: 頻也).
   ++
+L
+  ====
+  * 【踵】 (tsyowngX)
+    ==
+    - (_noun-like_) heel
+    - (_verb-like_) [to] heel, (_met._) [to] follow (after), [to] arrive, [to] visit
+    ==
+  ====
 $$
 
 

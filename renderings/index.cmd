@@ -8689,6 +8689,22 @@ window.onload = applyFilter;
       - (_noun-like_) kind
       ==
   //
+    , `tsyowngX`
+    , [腫](/entries/zung#rendering-腫)
+    ,
+      ==
+      - (_verb-like_) [to] swell
+      - (_noun-like_) swelling
+      ==
+  //
+    , `tsyowngX`
+    , [踵](/entries/zung#rendering-踵)
+    ,
+      ==
+      - (_noun-like_) heel
+      - (_verb-like_) [to] heel, (_met._) [to] follow (after), [to] arrive, [to] visit
+      ==
+  //
     , `tsyowngH`
     , [種~(verb)](/entries/zung#rendering-種-verb)
     ,
