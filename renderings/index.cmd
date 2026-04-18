@@ -6577,6 +6577,16 @@ window.onload = applyFilter;
       - (_noun-like_) shote
       ==
   //
+    , `tsjowngH`
+    , [縱~(departig)](/entries/zung#rendering-縱-departig)
+    ,
+      ==
+      - (_verb-like_) [to] let loose
+      - (_verb-like_) [to] indulge
+      - (_noun-like_) looseness
+      - (_conjunction-like_) although
+      ==
+  //
     , `tsju`
     , [諏](/entries/zau#rendering-諏)
     ,
@@ -8818,6 +8828,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) locust, bush-cricket
+      ==
+  //
+    , `tsyuwngH`
+    , [眾](/entries/zung#rendering-眾)
+    ,
+      ==
+      - (_noun-like_) multitude
       ==
   //
     , `tsyweX`

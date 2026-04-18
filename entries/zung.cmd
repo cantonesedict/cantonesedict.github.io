@@ -1913,6 +1913,13 @@ P
   ++
   1. The masses, the multitude (Kangxi: 寡者爲人上者也眾者爲人下者也).
   ++
+L
+  ====
+  * 【眾】 (tsyuwngH)
+    ==
+    - (_noun-like_) multitude
+    ==
+  ====
 $$
 
 ### 種3 | _Chung(3)_ [[zung3]]
@@ -2123,6 +2130,16 @@ P
   ++
   1. To leap up.
   ++
+L
+  ====
+  * 【縱-departig】 (tsjowngH)
+    ==
+    - (_verb-like_) [to] let loose
+    - (_verb-like_) [to] indulge
+    - (_noun-like_) looseness
+    - (_conjunction-like_) although
+    ==
+  ====
 S
   ==
   - $縱zung1
