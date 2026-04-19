@@ -5,8 +5,12 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2026-04-07
+* %date-modified --> 2026-04-19
 * %copyright-prior-years --> 2023--
+
+ReplacementSequence: #.ensure-baxter
+- queue_position: BEFORE #inline-code
+- replacements: #.syntax.baxter
 
 %%%
 
@@ -90,6 +94,17 @@ W
     - _(1)ch(u:) (4)(u:)_
         [[zyu1 jyu4 侏儒]],
         a dwarf [[Kangxi: 侏儒短人也]].
+    ==
+  ====
+L
+  ====
+  * 【侏】 (tsyu)
+    ==
+    - Used in [侏儒](/entries/zyu#rendering-侏儒).
+    ==
+  * 【侏儒】 (tsyu nyu)
+    ==
+    - (_noun-like_) dwarf
     ==
   ====
 $$
@@ -177,6 +192,13 @@ P
   ++
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【朱】 (tsyu)
+    ==
+    - (_adjective-like_) vermilion
+    ==
+  ====
 E
   ====
   - 【朱古力】 (zyu1 gu2-1 lik6-1)
@@ -213,6 +235,13 @@ W
     - _(1)ch(u:) (2)shau yat(7) (4)(u:)_
         [[zyu1 sau2 jat1 jyu4 株守一隅]],
         confined in a corner, kept back in obscurity.
+    ==
+  ====
+L
+  ====
+  * 【株】 (trju)
+    ==
+    - (_noun-like_) tree-root
     ==
   ====
 $$
@@ -281,6 +310,13 @@ P
   ++
   1. To gather.
   ++
+L
+  ====
+  * 【瀦】 (trjo)
+    ==
+    - (_noun-like_) reservoir
+    ==
+  ====
 $$
 
 ### 猪1 | _(1)Ch(u:)_ [[zyu1]]
@@ -374,6 +410,13 @@ C
   ==
   - Williams' 眼珠: Or, "eyeball".
   ==
+L
+  ====
+  * 【珠】 (tsyu)
+    ==
+    - (_noun-like_) pearl
+    ==
+  ====
 E
   ====
   - 【面珠】 (min6 zyu1)
@@ -592,6 +635,14 @@ P
   1. To rid (Kangxi: 翦除也).
   1. To seek.
   ++
+L
+  ====
+  * 【誅】 (trju)
+    ==
+    - (_verb-like_) [to] censure
+    - (_verb-like_) [to] punish, (_met._) [to] put to death
+    ==
+  ====
 $$
 
 ### 諸1 | _(1)Ch(u:)_ [[zyu1]]
@@ -654,9 +705,21 @@ C
 P
   ++
   1. Synonym of 之 (third-person object pronoun) (Kangxi: 諸之也).
+  1. Fruit preserve (Kangxi: 諸儲也 etc.).
   1. A surname (Kangxi: 姓).
   1. Used in 諸葛 (a compound surname) (Kangxi: 複姓).
   ++
+L
+  ====
+  * 【諸】 (tsyo)
+    ==
+    - (_determiner-like_) all [the], many, various
+    - (_noun-like_) preserve
+    - (_speech-assist_)
+    - Contraction of 之於 (`tsyi 'jo`).
+    - Contraction of 之乎 (`tsyi hu`).
+    ==
+  ====
 E
   ====
   - 【諸事】 (zyu1 si6)
@@ -734,6 +797,13 @@ W
     [[Otherwise, an alternative form of 瀦. **See $瀦zyu1 for the canonical entry.**]]
     --
   ====
+L
+  ====
+  * 【豬】 (trjo)
+    ==
+    - (_noun-like_) pig
+    ==
+  ====
 $$
 
 ### 邾1 | _(1)Ch(u:)_ [[zyu1]]
@@ -791,6 +861,13 @@ C
   - I have not seen any texts define 銖 as being an actual coin
     rather than merely as a unit of weight.
   ==
+L
+  ====
+  * 【銖】 (dzyu)
+    ==
+    - (_noun-like_) dram
+    ==
+  ====
 $$
 
 

@@ -2981,6 +2981,13 @@ window.onload = applyFilter;
       - (_adjective-like_) swollen
       ==
   //
+    , `dzyu`
+    , [銖](/entries/zyu#rendering-銖)
+    ,
+      ==
+      - (_noun-like_) dram
+      ==
+  //
     , `dzyuw`
     , [酬](/entries/cau#rendering-酬)
     ,
@@ -4574,6 +4581,20 @@ window.onload = applyFilter;
       - (_noun-like_) morning
       ==
   //
+    , `trjo`
+    , [瀦](/entries/zyu#rendering-瀦)
+    ,
+      ==
+      - (_noun-like_) reservoir
+      ==
+  //
+    , `trjo`
+    , [豬](/entries/zyu#rendering-豬)
+    ,
+      ==
+      - (_noun-like_) pig
+      ==
+  //
     , `trjoX`
     , [貯](/entries/cyu#rendering-貯)
     ,
@@ -4590,10 +4611,25 @@ window.onload = applyFilter;
       ==
   //
     , `trju`
+    , [株](/entries/zyu#rendering-株)
+    ,
+      ==
+      - (_noun-like_) tree-root
+      ==
+  //
+    , `trju`
     , [蛛](/entries/zyu#rendering-蛛)
     ,
       ==
       - Used in [蜘蛛](/entries/zi#rendering-蜘蛛).
+      ==
+  //
+    , `trju`
+    , [誅](/entries/zyu#rendering-誅)
+    ,
+      ==
+      - (_verb-like_) [to] censure
+      - (_verb-like_) [to] punish, (_met._) [to] put to death
       ==
   //
     , `trjuw`
@@ -8686,6 +8722,17 @@ window.onload = applyFilter;
       - (_verb-like_) [to] raise
       ==
   //
+    , `tsyo`
+    , [諸](/entries/zyu#rendering-諸)
+    ,
+      ==
+      - (_determiner-like_) all [the], many, various
+      - (_noun-like_) preserve
+      - (_speech-assist_)
+      - Contraction of 之於 (`tsyi 'jo`).
+      - Contraction of 之乎 (`tsyi hu`).
+      ==
+  //
     , `tsyowk`
     , [燭](/entries/zuk#rendering-燭)
     ,
@@ -8737,6 +8784,34 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] seed
+      ==
+  //
+    , `tsyu`
+    , [侏](/entries/zyu#rendering-侏)
+    ,
+      ==
+      - Used in [侏儒](/entries/zyu#rendering-侏儒).
+      ==
+  //
+    , `tsyu`
+    , [朱](/entries/zyu#rendering-朱)
+    ,
+      ==
+      - (_adjective-like_) vermilion
+      ==
+  //
+    , `tsyu`
+    , [珠](/entries/zyu#rendering-珠)
+    ,
+      ==
+      - (_noun-like_) pearl
+      ==
+  //
+    , `tsyu nyu`
+    , [侏儒](/entries/zyu#rendering-侏儒)
+    ,
+      ==
+      - (_noun-like_) dwarf
       ==
   //
     , `tsyuw`
