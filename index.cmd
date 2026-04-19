@@ -6,7 +6,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Home
-* %date-modified --> 2026-03-29
+* %date-modified --> 2026-04-19
 * %copyright-prior-years --> 2023--
 * %modern-colour --> crimson
 * %meta-description --> home page
@@ -221,6 +221,16 @@ $${.modern}
   ,
   --
   "Multi-function Chinese Character Database", including Cantonese readings.
+  --
+
+; [''Grammata Serica Recensa'' (1957)](https://archive.org/details/Bulletin299734/page/n8/mode/1up),
+  by [Bernhard Karlgren](https://en.wikipedia.org/wiki/Bernard_Karlgren).
+  ,
+  --
+  A monumental dictionary of Middle and Old Chinese,
+  whose English glosses are the result of extensive critical research.
+  Best read alongside the [Wikibooks character list](https://en.wikibooks.org/wiki/Character_List_for_Karlgren's_GSR)
+  and [Baxter & Sagart's table](https://github.com/yawnoc/baxter-sagart-old-chinese/blob/master/BaxterSagartOC2015-10-13.tsv).
   --
 
 ; [說文解字 (shuowen.org)](https://www.shuowen.org/),
