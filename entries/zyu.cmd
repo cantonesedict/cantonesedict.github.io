@@ -153,6 +153,10 @@ R
   ⽊ + 2
 U
   U+6731
+A
+  ==
+  - $硃1 (for "vermilion/cinnabar" sense)
+  ==
 F
   ==
   - (F1.43 朱) 紅色又姓
@@ -177,9 +181,6 @@ W
         [[zyu1 bat1 dim2 tau4 朱筆點頭]],
         to dot off with a red point.
     ==
-    --
-    [[Otherwise, an alternative form of 硃. **See $硃zyu1 for the canonical entry.**]]
-    --
     --
     [[Otherwise, an alternative form of 侏. **See $侏zyu1 for the canonical entry.**]]
     --
@@ -437,10 +438,6 @@ R
   ⽯ + 6
 U
   U+7843
-A
-  ==
-  - $朱1
-  ==
 F
   ==
   - (F1.43 硃) 銀硃硃砂
@@ -469,6 +466,9 @@ W
         [[zyu1 gyun2 硃卷]],
         essays of successful _k(u:)jin_ [[舉人]] or _tsinsz'_ [[進士]].
     ==
+    --
+    [[Alternative form of 朱 (for the "vermilion/cinnabar" sense). See $朱zyu1.]]
+    --
   ====
 $$
 
