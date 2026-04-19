@@ -1313,6 +1313,17 @@ P
   1. To pour in, to inject (Kangxi: 灌也, 水流射也).
   1. A stake, a wager.
   ++
+L
+  ====
+  * 【注】 (tsyuH, trjuH)
+    ==
+    - (_verb-like_) [to] flow in, [to] pour in
+    - (_verb-like_) [to] channel, [to] focus
+    - (_verb-like_) (_met._) [to] bring together
+    - (_verb-like_) (_met._) [to] give heed
+    - (_verb-like_) (_met._) [to] shoot
+    ==
+  ====
 $$
 
 ###+ 澍3 | _Ch(u:)(3)_ [[zyu3]]
@@ -1479,7 +1490,7 @@ W
     - clear;
     - to narrate, to write;
     - ~~to fix, to settle;~~
-    - ~~a porch;~~
+    - [[...]];
     - _ch(u:)(3) tsok(8)_
         [[zyu3 zok3 著作]]
         to compose;
@@ -1491,7 +1502,18 @@ W
 P
   ++
   1. To mark (Kangxi: 著標著也).
+  1. Position, place (Kangxi: 著位次也).
   ++
+L
+  ====
+  * 【著-departing】 (trjoH)
+    ==
+    - (_noun-like_) position, place
+    - (_verb-like_) [to] manifest, [to] make evident
+    - (_adjective-like_) manifest, evident, (_met._) notable
+    - (_verb-like_) [to] write
+    ==
+  ====
 S
   ==
   - ($著cyu5)
@@ -1585,6 +1607,14 @@ C
     Kangxi's reference to 《毛詩序疏》註者著也 is an explanation,
     not an interchanging.
   ==
+L
+  ====
+  * 【註】 (trjuH, tsyuH)
+    ==
+    - (_verb-like_) [to] record
+    - (_verb-like_) [to] annotate
+    ==
+  ====
 $$
 
 ### 鑄3 | _Ch(u:)(3)_ [[zyu3]]
@@ -1602,8 +1632,8 @@ W
   ====
   - [[Page~31* 鑄(3)]]
     ==
-    - To melt, to fuse metals [[Kangxi: 銷金成器也, 鎔鑄也]];
-    - to cast;
+    - To melt, to fuse metals;
+    - to cast [[Kangxi: 銷金成器也, 鎔鑄也]];
     - _ch(u:)(3) (4)ts(')(i/)n_
         [[zyu3 cin4 鑄錢]],
         to cast cash;
@@ -1620,6 +1650,13 @@ P
   ++
   1. To form, to cultivate.
   ++
+L
+  ====
+  * 【鑄】 (tsyuH)
+    ==
+    - (_verb-like_) [to] cast
+    ==
+  ====
 $$
 
 ### 霔3 | _Ch(u:)(3)_ [[zyu3]]
@@ -1753,6 +1790,13 @@ W
     - [[...]].
     ==
   ====
+L
+  ====
+  * 【住】 (drjuH)
+    ==
+    - (_verb-like_) [to] stay
+    ==
+  ====
 E
   ====
   - 【住】 (zyu6)
@@ -1824,6 +1868,13 @@ W
     - _pat(7) (1)h(o\)m h(a/)(6) ch(u:)(6)_
         [[bat1 ham1 haa6 zyu6 不堪下箸]]
         it is not worth nipping up, uneatable.
+    ==
+  ====
+L
+  ====
+  * 【箸】 (drjoH)
+    ==
+    - (_noun-like_) chopsticks
     ==
   ====
 E

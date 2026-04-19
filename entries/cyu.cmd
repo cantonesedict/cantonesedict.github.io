@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyu
-* %date-modified --> 2026-04-07
+* %date-modified --> 2026-04-19
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -737,6 +737,12 @@ F
   ==
 W
   ====
+  - [[Page~31* 著(3) _Ch(u:)(3)_ (zyu3); here corrected to _(5)Ch(')(u:)_ (cyu5) and normalised to 宁]]
+    ==
+    - [[...]];
+    - a porch;
+    - [[...]].
+    ==
   - [[Page~32* (5)宁]]
     ==
     - A porch, a space between the gate and the screen [[Kangxi: 門屛之閒謂之宁]];

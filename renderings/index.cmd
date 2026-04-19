@@ -1411,6 +1411,13 @@ window.onload = applyFilter;
       - (_noun-like_) five-month-lamb
       ==
   //
+    , `drjoH`
+    , [箸](/entries/zyu#rendering-箸)
+    ,
+      ==
+      - (_noun-like_) chopsticks
+      ==
+  //
     , `drjowk`
     , [躅](/entries/zuk#rendering-躅)
     ,
@@ -1461,6 +1468,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) pillar, post
+      ==
+  //
+    , `drjuH`
+    , [住](/entries/zyu#rendering-住)
+    ,
+      ==
+      - (_verb-like_) [to] stay
       ==
   //
     , `drjuw`
@@ -4602,6 +4616,16 @@ window.onload = applyFilter;
       - (_verb-like_) [to] stockpile
       ==
   //
+    , `trjoH`
+    , [著~(departing)](/entries/zyu#rendering-著-departing)
+    ,
+      ==
+      - (_noun-like_) position, place
+      - (_verb-like_) [to] manifest, [to] make evident
+      - (_adjective-like_) manifest, evident, (_met._) notable
+      - (_verb-like_) [to] write
+      ==
+  //
     , `trjowngX`
     , [冢](/entries/cung#rendering-冢)
     ,
@@ -4637,6 +4661,25 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] prop up
+      ==
+  //
+    , `trjuH`
+    , [注](/entries/zyu#rendering-注)
+    ,
+      ==
+      - (_verb-like_) [to] flow in, [to] pour in
+      - (_verb-like_) [to] channel, [to] focus
+      - (_verb-like_) (_met._) [to] bring together
+      - (_verb-like_) (_met._) [to] give heed
+      - (_verb-like_) (_met._) [to] shoot
+      ==
+  //
+    , `trjuH`
+    , [註](/entries/zyu#rendering-註)
+    ,
+      ==
+      - (_verb-like_) [to] record
+      - (_verb-like_) [to] annotate
       ==
   //
     , `trjuw`
@@ -8847,6 +8890,32 @@ window.onload = applyFilter;
       - (_adjective-like_) principal
       - (_verb-like_) [to] regard principal
       - (_verb-like_) [to] occupy
+      ==
+  //
+    , `tsyuH`
+    , [注](/entries/zyu#rendering-注)
+    ,
+      ==
+      - (_verb-like_) [to] flow in, [to] pour in
+      - (_verb-like_) [to] channel, [to] focus
+      - (_verb-like_) (_met._) [to] bring together
+      - (_verb-like_) (_met._) [to] give heed
+      - (_verb-like_) (_met._) [to] shoot
+      ==
+  //
+    , `tsyuH`
+    , [註](/entries/zyu#rendering-註)
+    ,
+      ==
+      - (_verb-like_) [to] record
+      - (_verb-like_) [to] annotate
+      ==
+  //
+    , `tsyuH`
+    , [鑄](/entries/zyu#rendering-鑄)
+    ,
+      ==
+      - (_verb-like_) [to] cast
       ==
   //
     , `tsyuw`
