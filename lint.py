@@ -2741,6 +2741,7 @@ class CharacterEntry:
         )
         text = re.sub(pattern=r'\[ (?P<text> [^\[\]]+ ) \] \( .+ \)', repl=r'\g<text>', string=text, flags=re.VERBOSE)
         text = re.sub(pattern=r'\[ (?P<text> [^\[\]]+ ) \] \[ .+ \]', repl=r'\g<text>', string=text, flags=re.VERBOSE)
+        text = re.sub(pattern=r"\(` (?P<baxter> [ 'a-z+XH]+ ) `\)", repl=r'(\g<baxter>)', string=text, flags=re.VERBOSE)
         text = text.replace('[[', '(')
         text = text.replace(']]', ')')
         text = re.sub(pattern='(?<!~)~(?!~)', repl=' ', string=text)
