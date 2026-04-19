@@ -4632,6 +4632,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] punish, (_met._) [to] put to death
       ==
   //
+    , `trjuX`
+    , [拄](/entries/zyu#rendering-拄)
+    ,
+      ==
+      - (_verb-like_) [to] prop up
+      ==
+  //
     , `trjuw`
     , [侜](/entries/zau#rendering-侜)
     ,
@@ -8733,6 +8740,20 @@ window.onload = applyFilter;
       - Contraction of 之乎 (`tsyi hu`).
       ==
   //
+    , `tsyoX`
+    , [渚](/entries/zyu#rendering-渚)
+    ,
+      ==
+      - (_noun-like_) islet
+      ==
+  //
+    , `tsyoX`
+    , [煮](/entries/zyu#rendering-煮)
+    ,
+      ==
+      - (_verb-like_) [to] cook, [to] boil
+      ==
+  //
     , `tsyowk`
     , [燭](/entries/zuk#rendering-燭)
     ,
@@ -8812,6 +8833,20 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) dwarf
+      ==
+  //
+    , `tsyuX`
+    , [主](/entries/zyu#rendering-主)
+    ,
+      ==
+      - (_noun-like_) lord, host, owner, (_met._) lady
+      - (_noun-like_) princess
+      - (_noun-like_) [ancestral]-tablet
+      - (_verb-like_) [to] host
+      - (_verb-like_) [to] govern
+      - (_adjective-like_) principal
+      - (_verb-like_) [to] regard principal
+      - (_verb-like_) [to] occupy
       ==
   //
     , `tsyuw`

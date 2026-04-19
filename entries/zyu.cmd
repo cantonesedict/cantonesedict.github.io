@@ -1030,6 +1030,20 @@ P
   1. To occupy (Kangxi: 主猶坐也).
   1. Short for 公主.
   ++
+L
+  ====
+  * 【主】 (tsyuX)
+    ==
+    - (_noun-like_) lord, host, owner, (_met._) lady
+    - (_noun-like_) princess
+    - (_noun-like_) [ancestral]-tablet
+    - (_verb-like_) [to] host
+    - (_verb-like_) [to] govern
+    - (_adjective-like_) principal
+    - (_verb-like_) [to] regard principal
+    - (_verb-like_) [to] occupy
+    ==
+  ====
 $$
 
 ###+ 拄2 | _(2)Ch(u:)_ [[zyu2]]
@@ -1069,6 +1083,13 @@ C
   - Williams' "to pierce": This is a misreading of Kangxi 刺也,
     which is a *metaphorical* pierce (i.e. to satirise).
   ==
+L
+  ====
+  * 【拄】 (trjuX)
+    ==
+    - (_verb-like_) [to] prop up
+    ==
+  ====
 $$
 
 ###+ 柱2 | _(2)Ch(u:)_ [[zyu2]]
@@ -1116,6 +1137,13 @@ W
     - a place awash in a river.
     ==
   ====
+L
+  ====
+  * 【渚】 (tsyoX)
+    ==
+    - (_noun-like_) islet
+    ==
+  ====
 $$
 
 ### 煮2 | _(2)Ch(u:)_ [[zyu2]]
@@ -1159,6 +1187,13 @@ C
   ==
   - Fan Wan entry: Corrected 飳 to 飪.
   ==
+L
+  ====
+  * 【煮】 (tsyoX)
+    ==
+    - (_verb-like_) [to] cook, [to] boil
+    ==
+  ====
 $$
 
 ### 翥2 | _(2)Ch(u:)_ [[zyu2]]
