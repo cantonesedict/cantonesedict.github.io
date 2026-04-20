@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyun
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-04-20
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -153,13 +153,22 @@ W
 C
   ==
   - Williams' 專房: Corrected _(1)fong_ (fong1) to _(4)fong_ (fong4).
-    Specifically, a husband that one is sharing with other wives and concubines.
+    Specifically, to monopolise a husband shared with other wives and concubines.
   ==
 P
   ++
   1. Autocratic.
   1. Specially, exclusively.
   ++
+L
+  ====
+  * 【專】 (tsywen)
+    ==
+    - (_adverb-like_) exclusively, solely
+    - (_verb-like_) [to] focus (upon)
+    - (_verb-like_) [to] monopolise, [to] possess solely, (_met._) [to] have sole [power]
+    ==
+  ====
 E
   ====
   - 【專登】 (zyun1 dang1)

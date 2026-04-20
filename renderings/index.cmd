@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-04-19
+* %date-modified --> 2026-04-20
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -9054,6 +9054,15 @@ window.onload = applyFilter;
       - (_verb-like_) [to] pledge
       - (_verb-like_) [to] annex
       - (_noun-like_) excrescence, (_met._) superfluous
+      ==
+  //
+    , `tsywen`
+    , [專](/entries/zyun#rendering-專)
+    ,
+      ==
+      - (_adverb-like_) exclusively, solely
+      - (_verb-like_) [to] focus (upon)
+      - (_verb-like_) [to] monopolise, [to] possess solely, (_met._) [to] have sole [power]
       ==
   //
     , `tsywij`
