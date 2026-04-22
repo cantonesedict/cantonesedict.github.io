@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyun
-* %date-modified --> 2026-04-20
+* %date-modified --> 2026-04-22
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -240,6 +240,13 @@ P
   ++
   1. Classifier for objects that are heavy or not readily movable.
   ++
+L
+  ====
+  * 【尊】 (tswon)
+    ==
+    - (_verb-like_) [to] honour
+    ==
+  ====
 S
   ==
   - ($尊zeon1)
@@ -530,6 +537,13 @@ W
         in which the word is also pronounced _(2)tsun_ [[zeon2]].
     ==
   ====
+L
+  ====
+  * 【噂】 (tswonX)
+    ==
+    - (_verb-like_) [to] talk together
+    ==
+  ====
 $$
 
 ### 囀2 | _(2)Ch(u:)n_ [[zyun2]]
@@ -606,6 +620,13 @@ C
   - Fan Wan entry: Corrected ⿰糸⿱巳耳 to 緝.
   - Williams erroneously has 藄 for an alternative form instead of 繤.
   ==
+L
+  ====
+  * 【纂】 (tswanX)
+    ==
+    - (_noun-like_) red-band
+    ==
+  ====
 $$
 
 ### 纘2 | _(2)Ts(u:)n_ [[zyun2]]
@@ -642,6 +663,13 @@ C
   ==
   - Fan Wan entry: The character 繼 is printed poorly.
   ==
+L
+  ====
+  * 【纘】 (tswanX)
+    ==
+    - (_verb-like_) [to] succeed, [to] continue
+    ==
+  ====
 $$
 
 ### 轉2 | _(2)Ch(u:)n_ [[zyun2]]
@@ -742,6 +770,13 @@ P
      when used as a verb before another verb
      (e.g. 轉乘, 轉嫁, 轉換, 轉播, 轉發, 轉變, 轉讓, 轉賣).
   ++
+L
+  ====
+  * 【轉】 (trjwenX)
+    ==
+    - (_verb-like_) [to] turn, (_met._) [to] transfer
+    ==
+  ====
 S
   ==
   - $轉zyun3

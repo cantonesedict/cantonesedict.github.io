@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-04-20
+* %date-modified --> 2026-04-22
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -4787,6 +4787,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] stitch (together), [to] connect
       ==
   //
+    , `trjwenX`
+    , [轉](/entries/zyun#rendering-轉)
+    ,
+      ==
+      - (_verb-like_) [to] turn, (_met._) [to] transfer
+      ==
+  //
     , `trjwet`
     , [綴](/entries/zeoi#rendering-綴)
     ,
@@ -7542,6 +7549,20 @@ window.onload = applyFilter;
       - (_determiner-like_) -est, -most
       ==
   //
+    , `tswanX`
+    , [纂](/entries/zyun#rendering-纂)
+    ,
+      ==
+      - (_noun-like_) red-band
+      ==
+  //
+    , `tswanX`
+    , [纘](/entries/zyun#rendering-纘)
+    ,
+      ==
+      - (_verb-like_) [to] succeed, [to] continue
+      ==
+  //
     , `tswijH`
     , [醉](/entries/zeoi#rendering-醉)
     ,
@@ -7588,10 +7609,24 @@ window.onload = applyFilter;
       ==
   //
     , `tswon`
+    , [尊](/entries/zyun#rendering-尊)
+    ,
+      ==
+      - (_verb-like_) [to] honour
+      ==
+  //
+    , `tswon`
     , [樽](/entries/zeon#rendering-樽)
     ,
       ==
       - (_noun-like_) wine-vase
+      ==
+  //
+    , `tswonX`
+    , [噂](/entries/zyun#rendering-噂)
+    ,
+      ==
+      - (_verb-like_) [to] talk together
       ==
   //
     , `tswot`
