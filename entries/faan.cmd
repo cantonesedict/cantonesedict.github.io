@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faan
-* %date-modified --> 2026-03-22
+* %date-modified --> 2026-04-22
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1287,6 +1287,7 @@ L
   ====
   * 【凡】 (bjom)
     ==
+    - (_adverb-like_) for all, (_met._) whenever
     - (_determiner-like_) all, every
     - (_preposition-like_) in total
     - (_adjective-like_) common

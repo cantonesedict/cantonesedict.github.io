@@ -462,6 +462,7 @@ window.onload = applyFilter;
     , [凡](/entries/faan#rendering-凡)
     ,
       ==
+      - (_adverb-like_) for all, (_met._) whenever
       - (_determiner-like_) all, every
       - (_preposition-like_) in total
       - (_adjective-like_) common
