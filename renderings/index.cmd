@@ -1647,11 +1647,19 @@ window.onload = applyFilter;
       ==
   //
     , `drjwen`
-    , [傳~(verb)](/entries/cyun#rendering-傳-verb)
+    , [傳~(level)](/entries/cyun#rendering-傳-level)
     ,
       ==
       - (_verb-like_) [to] transmit
       - (_verb-like_) [to] summon
+      ==
+  //
+    , `drjwenH`
+    , [傳~(departing)](/entries/zyun#rendering-傳-departing)
+    ,
+      ==
+      - (_noun-like_) chronicle
+      - (_noun-like_) commentary
       ==
   //
     , `drwijH`
@@ -4795,6 +4803,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] turn, (_met._) [to] transfer
       ==
   //
+    , `trjwenH`
+    , [傳~(unvoiced)](/entries/zyun#rendering-傳-unvoiced)
+    ,
+      ==
+      - (_noun-like_) relay
+      ==
+  //
     , `trjwet`
     , [綴](/entries/zeoi#rendering-綴)
     ,
@@ -7548,6 +7563,13 @@ window.onload = applyFilter;
       ==
       - (_verb-like_) [to] collect
       - (_determiner-like_) -est, -most
+      ==
+  //
+    , `tswan`
+    , [鑽](/entries/zyun#rendering-鑽)
+    ,
+      ==
+      - (_verb-like_) [to] drill (into)
       ==
   //
     , `tswanX`

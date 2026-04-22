@@ -812,6 +812,13 @@ P
   1. A relay station (Kangxi: 傳舍 etc.).
   1. A relay carriage (Kangxi: 遽也驛遞曰傳 etc.).
   ++
+L
+  ====
+  * 【傳-unvoiced】 (trjwenH)
+    ==
+    - (_noun-like_) relay
+    ==
+  ====
 S
   ==
   - $傳cyun4
@@ -969,6 +976,13 @@ P
   1. Pointed weaponry (Kangxi: 鑽謂矛矢及鏃也).
   1. Diamond.
   ++
+L
+  ====
+  * 【鑽】 (tswan)
+    ==
+    - (_verb-like_) [to] drill (into)
+    ==
+  ====
 S
   ==
   - ($鑽zyun1)
@@ -1038,6 +1052,14 @@ P
   1. A biography, a narrative, a legend.
   1. Successively (Kangxi: 續也).
   ++
+L
+  ====
+  * 【傳-departing】 (drjwenH)
+    ==
+    - (_noun-like_) chronicle
+    - (_noun-like_) commentary
+    ==
+  ====
 S
   ==
   - $傳cyun4

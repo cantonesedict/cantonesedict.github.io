@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyun
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-04-22
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1025,7 +1025,7 @@ P
   ++
 L
   ====
-  * 【傳-verb】 (drjwen)
+  * 【傳-level】 (drjwen)
     ==
     - (_verb-like_) [to] transmit
     - (_verb-like_) [to] summon
