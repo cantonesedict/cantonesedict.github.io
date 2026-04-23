@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyut
-* %date-modified --> 2026-03-13
+* %date-modified --> 2026-04-23
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -108,6 +108,13 @@ P
   ++
   1. Short (Kangxi: 吳人呼短物也).
   ++
+L
+  ====
+  * 【掇-short】 (tsywet)
+    ==
+    - (_adjective-like_) short
+    ==
+  ====
 $$
 
 ### 啐3 | _Ts(u:)t(8)_ [[zyut3]]
@@ -204,6 +211,17 @@ P
   ++
   1. To sip.
   ++
+L
+  ====
+  * 【啜-sob】 (trjwet)
+    ==
+    - (_verb-like_) [to] sob
+    ==
+  * 【啜-sip】 (tsyhwet)
+    ==
+    - (_verb-like_) [to] sip, [to] taste
+    ==
+  ====
 E
   ====
   - 【啜-suck】 (zyut3)
@@ -286,6 +304,13 @@ C
   ==
   - Williams' 拙筆: Corrected _pat(9)_ (bat6) to _pat(7)_ (bat1).
   ==
+L
+  ====
+  * 【拙】 (tsywet)
+    ==
+    - (_adjective-like_) stupid, incompetent
+    ==
+  ====
 S
   ==
   - ($拙zyut6)
@@ -299,6 +324,10 @@ R
   ⼿ + 8
 U
   U+6387
+V
+  ==
+  - dyut3 (alternative per 《廣韻》丁括切)
+  ==
 F
   ==
   - (F2.24 掇) 採也拾也
@@ -312,6 +341,13 @@ W
     --
     [[Otherwise, an alternative form of {𠭴=⿰叕出}. **See ${𠭴=⿰叕出}zyut3 for the canonical entry.**]]
     --
+  ====
+L
+  ====
+  * 【掇-take】 (trjwet, twat)
+    ==
+    - (_verb-like_) [to] take, [to] pluck
+    ==
   ====
 $$
 
@@ -343,6 +379,13 @@ C
   ==
   - Fan Wan entry: Corrected headword 梚 to 梲, and fixed missing stroke in 短.
   ==
+L
+  ====
+  * 【梲】 (tsywet)
+    ==
+    - (_noun-like_) truss-post
+    ==
+  ====
 S
   ==
   - $梲tyut3 (TODO)
@@ -391,6 +434,13 @@ P
   ++
   1. To drink in great gulps (Kangxi 歠: 大飮也).
   ++
+L
+  ====
+  * 【歠】 (tsyhwet)
+    ==
+    - (_verb-like_) [to] drink [gulpingly]
+    ==
+  ====
 $$
 
 ###+ 絀3 | _Ch(u:)t(8)_ [[zyut3]]
@@ -514,6 +564,13 @@ W
         the grass is sprouting.
     ==
   ====
+L
+  ====
+  * 【茁】 (tsrjwet, tsrweat)
+    ==
+    - (_adjective-like_) sprouting, (_met._) thriving
+    ==
+  ====
 S
   ==
   - ($茁zaat3)
@@ -622,6 +679,13 @@ W
     - _ch(u:)t(8) (1)kung_
         [[zyut3 gung1 輟工]],
         to stop work, to rest.
+    ==
+  ====
+L
+  ====
+  * 【輟】 (trjwet)
+    ==
+    - (_verb-like_) [to] stop
     ==
   ====
 $$
@@ -742,6 +806,14 @@ P
   1. Remote, isolated.
   1. To refuse.
   ++
+L
+  ====
+  * 【絕】 (dzjwet)
+    ==
+    - (_verb-like_) [to] cut (off), [to] sever, (_met._) [to] destroy (utterly)
+    - (_adjective-like_) extreme, absolute
+    ==
+  ====
 $$
 
 ###+ 綴6 | _Ch(u:)t(9)_ [[zyut6]]

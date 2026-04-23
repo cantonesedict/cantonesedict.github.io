@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-04-22
+* %date-modified --> 2026-04-23
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -2428,6 +2428,14 @@ window.onload = applyFilter;
       - (_noun-like_) spring, springwater
       ==
   //
+    , `dzjwet`
+    , [絕](/entries/zyut#rendering-絕)
+    ,
+      ==
+      - (_verb-like_) [to] cut (off), [to] sever, (_met._) [to] destroy (utterly)
+      - (_adjective-like_) extreme, absolute
+      ==
+  //
     , `dzoj`
     , [才](/entries/coi#rendering-才)
     ,
@@ -4811,10 +4819,31 @@ window.onload = applyFilter;
       ==
   //
     , `trjwet`
+    , [啜~(sob)](/entries/zyut#rendering-啜-sob)
+    ,
+      ==
+      - (_verb-like_) [to] sob
+      ==
+  //
+    , `trjwet`
+    , [掇~(take)](/entries/zyut#rendering-掇-take)
+    ,
+      ==
+      - (_verb-like_) [to] take, [to] pluck
+      ==
+  //
+    , `trjwet`
     , [綴](/entries/zeoi#rendering-綴)
     ,
       ==
       - (_verb-like_) [to] stitch (together), [to] connect
+      ==
+  //
+    , `trjwet`
+    , [輟](/entries/zyut#rendering-輟)
+    ,
+      ==
+      - (_verb-like_) [to] stop
       ==
   //
     , `trwij`
@@ -7455,6 +7484,20 @@ window.onload = applyFilter;
       - (_noun-like_) wrinkled-cloth, fine-cloth
       ==
   //
+    , `tsrjwet`
+    , [茁](/entries/zyut#rendering-茁)
+    ,
+      ==
+      - (_adjective-like_) sprouting, (_met._) thriving
+      ==
+  //
+    , `tsrweat`
+    , [茁](/entries/zyut#rendering-茁)
+    ,
+      ==
+      - (_adjective-like_) sprouting, (_met._) thriving
+      ==
+  //
     , `tsu`
     , [租](/entries/zou#rendering-租)
     ,
@@ -8436,6 +8479,20 @@ window.onload = applyFilter;
       - (_adjective-like_) contrary
       ==
   //
+    , `tsyhwet`
+    , [啜~(sip)](/entries/zyut#rendering-啜-sip)
+    ,
+      ==
+      - (_verb-like_) [to] sip, [to] taste
+      ==
+  //
+    , `tsyhwet`
+    , [歠](/entries/zyut#rendering-歠)
+    ,
+      ==
+      - (_verb-like_) [to] drink [gulpingly]
+      ==
+  //
     , `tsyhwijH`
     , [出~(transitive)](/entries/ceot#rendering-出-transitive)
     ,
@@ -9123,6 +9180,27 @@ window.onload = applyFilter;
       - (_verb-like_) [to] monopolise, [to] possess solely, (_met._) [to] have sole [power]
       ==
   //
+    , `tsywet`
+    , [拙](/entries/zyut#rendering-拙)
+    ,
+      ==
+      - (_adjective-like_) stupid, incompetent
+      ==
+  //
+    , `tsywet`
+    , [掇~(short)](/entries/zyut#rendering-掇-short)
+    ,
+      ==
+      - (_adjective-like_) short
+      ==
+  //
+    , `tsywet`
+    , [梲](/entries/zyut#rendering-梲)
+    ,
+      ==
+      - (_noun-like_) truss-post
+      ==
+  //
     , `tsywij`
     , [錐](/entries/zeoi#rendering-錐)
     ,
@@ -9166,6 +9244,13 @@ window.onload = applyFilter;
       ==
       - (_adverb-like_) earnestly, repeatedly
       - (_verb-like_) [to] assist
+      ==
+  //
+    , `twat`
+    , [掇~(take)](/entries/zyut#rendering-掇-take)
+    ,
+      ==
+      - (_verb-like_) [to] take, [to] pluck
       ==
   //
     , `xjun`
