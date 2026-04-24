@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-04-23
+* %date-modified --> 2026-04-24
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -3464,6 +3464,22 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] slander
+      ==
+  //
+    , `pjang`
+    , [方](/entries/fong#rendering-方)
+    ,
+      ==
+      - (_noun-like_) square, cube, (_met._) block
+      - (_noun-like_) direction, side
+      - (_noun-like_) place, (_met._) [to] occupy
+      - (_suffix_)
+      - (_noun-like_) regularity, norm, prescription
+      - (_adjective-like_) upright
+      - (_noun-like_) method
+      - (_adverb-like_) abreast, (_met._) [to] compare, raft
+      - (_adverb-like_) just, (just) now, [only] then, when
+      - (_adverb-like_) about to
       ==
   //
     , `pjit pjut`

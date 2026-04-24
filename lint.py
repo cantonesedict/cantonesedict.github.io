@@ -2329,6 +2329,7 @@ class CharacterEntry:
             if sense_type not in [
                 '_speech-assist_',
                 '_classifier_',
+                '_suffix_',
                 '_interjection_',
                 '_onomatopoeia_',
                 '_adjective-like_',
@@ -2344,7 +2345,7 @@ class CharacterEntry:
             ]:
                 raise LintException(f'invalid sense type `{sense_type}` in `{sense_line}`')
 
-            if sense_type in ['_classifier_']:
+            if sense_type in ['_classifier_', '_suffix_']:
                 if sense_renderings:
                     raise LintException(f'non-empty renderings for sense type `{sense_type}` in `{sense_line}`')
             elif sense_type in ['_speech-assist_']:
