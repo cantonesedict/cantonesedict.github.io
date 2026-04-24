@@ -144,6 +144,7 @@ P
   1. Just grown (Kangxi: 穀始生未實也).
   1. Just now.
   1. Now (Kangxi: 今也).
+  1. A cube, a power.
   1. The 70th~radical ("square").
   ++
 L
