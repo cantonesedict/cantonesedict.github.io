@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aai
-* %date-modified --> 2026-04-03
+* %date-modified --> 2026-04-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -265,7 +265,7 @@ W
   - [[Page~3 阨(7) _Ak(7)_ (ak1); here corrected to _(A/)i(3)_ (aai3) and normalised to 隘]]
     ==
     - [[...]];
-    - a defile, a pass [[Kangxi: 阸陋也]];
+    - a defile, a pass [[Kangxi 阨: 或作隘阸陋也]];
     - a dangerous path;
     - [[...]].
     ==
