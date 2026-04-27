@@ -760,7 +760,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $踹caai2
+      - {$踹caai2, $踹cyun2}
       - {$踳ceon2, $踳cyun2}
       - $蹅zaa1
       - $踵zung2

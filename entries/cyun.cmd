@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cyun
-* %date-modified --> 2026-04-22
+* %date-modified --> 2026-04-27
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -270,6 +270,7 @@ $$
 - ($端2)
 - $舛2
 - ($踳2)
+- $踹2
 - ($遄2)
 ==
 </nav>
@@ -574,6 +575,48 @@ P
 S
   ==
   - $踳ceon2
+  ==
+$$
+
+###+ 踹2 | _(2)Ch(')(u:)n_ [[cyun2]]
+
+$$
+R
+  ⾜ + 9
+U
+  U+8E39
+V
+  ==
+  - cyun5 (per 《廣韻》市兖切)
+  - dyun3 (per 《廣韻》丁貫切)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~11|n54 (2)踹 _(2)Ch(')(a/)i_ (caai2); here corrected to _(2)Ch(')(u:)n_ (cyun2)]]
+    --
+    Also read _~~(2)t(u:)n~~ ``t(u:)n(3)``_ [[dyun3]].
+    --
+    ==
+    - To stamp, to trample, to tread on with the heel [[Kangxi: 踹足蹀足也]];
+    - to rase, to destroy;
+    - the heel [[Kangxi: 足踹也, 足跟也]];
+    - [[...]].
+    ==
+  ====
+C
+  ==
+  - Williams fuses into a single entry two distinct words:
+    a relatively recent word meaning "trample" (see $踹caai2),
+    and a relatively historic word meaning "heel" (now commonly read cyun2).
+    I have split things up accordingly, with duplication where appropriate.
+  - Williams' "Also read [...]": Corrected _(2)t(u:)n_ (dyun2) to _t(u:)n(3)_ (dyun3).
+  ==
+S
+  ==
+  - $踹caai2
+  - $踹jaai2 (TODO)
   ==
 $$
 

@@ -293,12 +293,7 @@ U
   U+8E39
 A
   ==
-  - 踩 (for "trample" sense in modern Cantonese)
-  ==
-V
-  ==
-  - cyun5 (per 《廣韻》市兖切)
-  - dyun3 (per 《廣韻》丁貫切)
+  - 踩 (in modern Cantonese)
   ==
 F
   ==
@@ -308,12 +303,12 @@ W
   ====
   - [[Page~11|n54 (2)踹]]
     --
-    Also read _~~(2)t(u:)n~~ ``t(u:)n(3)``_ [[dyun3]].
+    [[...]]
     --
     ==
-    - To stamp, to trample, to tread on with the heel [[Kangxi: 踹足蹀足也]];
-    - to rase, to destroy;
-    - the heel [[Kangxi: 足踹也, 足跟也]];
+    - To stamp, to trample, [[...]];
+    - [[...]];
+    - [[...]];
     - _(2)ch(')(a/)i (5)(u:)n sok(8)_
         [[caai2 jyun5 sok3 踹軟索]]
         a treader on rope ladders---a thief;
@@ -341,19 +336,26 @@ W
     ==
   ====
 C
-  ==
-  - The character 踩 is not attested in the Middle Chinese rime books.
+  ====
   - The character 踩 is an alternative form in modern Cantonese
-    to the extent that both mean "trample" and are pronounced caai2.
-  - The pre-merger reading for 踩 would be
-    _(2)ts(')(a/)i_ instead of _(2)ch(')(a/)i_
-    based on the initial of the phonetic 采,
-    but the syllable _ts(')(a/)i_ does not exist under any tone in Fan Wan.
-  - Note that the Mandarin readings of 踩 and 踹 are distinct (cǎi and chuài).
-  - Williams' "Also read [...]": Corrected _(2)t(u:)n_ (dyun2) to _t(u:)n(3)_ (dyun3).
-  ==
+    to the extent that both 踩 and 踹 are pronounced caai2 and mean "trample".
+    However, note that:
+    ==
+    - The Mandarin readings of 踩 and 踹 are distinct (being cǎi and chuài).
+    - The character 踩 is not attested in the Middle Chinese rime books.
+    - The pre-merger reading for 踩
+      would be _(2)ts(')(a/)i_ instead of _(2)ch(')(a/)i_
+      based on the initial of the phonetic 采,
+      but the syllable _ts(')(a/)i_ does not exist under any tone in Fan Wan.
+    ==
+  - Williams fuses into a single entry two distinct words:
+    a relatively recent word meaning "trample" (caai2),
+    and a relatively historic word meaning "heel" (see $踹cyun2).
+    I have split things up accordingly, with duplication where appropriate.
+  ====
 S
   ==
+  - $踹cyun2
   - $踹jaai2 (TODO)
   ==
 $$
