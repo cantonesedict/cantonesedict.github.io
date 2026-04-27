@@ -785,16 +785,10 @@
 "text":"U+91F5 (F2.25 釵) 婦人之簪 (Page 11|n54 釵) A broad hair-pin (Kangxi: 筓屬); _met._ females; _puk ch'ai_ (buk1 caai1 卜釵), to divine by a hair-pin when a husband will return; _kw'an ch'ai_ (kwan4 caai1 群釵), a bevy of women; _king ch'ai_, (ging1 caai1 荊釵) a thorn hair-pin, _met._ poverty; _fung ch'ai_ (fung6 caai1 鳳釵), an ornamental hair-pin with a phoenix."
 }
 },
-"踩":{
-"caai2":{
-"isCanonical":false,
-"text":"U+8E29 The character 踩 is not attested in the Middle Chinese rime books. Perhaps the pre-merger reading should be _ts'ai_ instead of _ch'ai_ based on the initial of the phonetic 采, but the syllable _ts'ai_ does not exist under any tone in Fan Wan. For the purposes of Cantonese, 踩 is indistiguishable from 踹. Note that the Mandarin readings are distinct (cai and chuai)."
-}
-},
 "踹":{
 "caai2":{
 "isCanonical":true,
-"text":"U+8E39 踩 cyun5 (per 《廣韻》市兖切) dyun3 (per 《廣韻》丁貫切) (F2.27 踹) 足踐踏也 (Page 11|n54 踹) Also read _tun_ (dyun3). To stamp, to trample, to tread on with the heel (Kangxi: 踹足蹀足也); to rase, to destroy; the heel (Kangxi: 足踹也, 足跟也); _ch'ai un sok_ (caai2 jyun5 sok3 踹軟索) a treader on rope ladders---a thief; _pi sai kwa p'i ni ch'ai_ (bei2 sai1 gwaa1 pei4 nei5 caai2 畀西瓜皮你踹), let you step on a melon skin---trip you up; _ch'ai p'o ying p'un_ (caai2 po3 jing4 pun4 踹破營盤), to remain victorious; _ch'ai chu k'u_ (caai2 zyu6 keoi5 踹住佢), step on it; _ki shi ngau ch'ai keuk_ (gei2 si4 ngau4 caai2 goek3 幾時牛踹腳) when is your birthday? _ch'ai shat_ (caai2 sat6 踹實) to tread on firmly; _ch'ai tang fa_ (caai2 dang1 faa1 踹燈花), to tread on lampwicks (a thief); _ch'ai shing yuk tseung_ (caai2 sing4 juk6 zoeng3 踹成肉醬) trampled to death. Williams' \"Also read ...\": Corrected _tun_ (dyun2) to _tun_ (dyun3). See 踩 caai2 for commentary on 踩 versus 踹."
+"text":"U+8E39 踩 (for \"trample\" sense in modern Cantonese) cyun5 (per 《廣韻》市兖切) dyun3 (per 《廣韻》丁貫切) (F2.27 踹) 足踐踏也 (Page 11|n54 踹) Also read _tun_ (dyun3). To stamp, to trample, to tread on with the heel (Kangxi: 踹足蹀足也); to rase, to destroy; the heel (Kangxi: 足踹也, 足跟也); _ch'ai un sok_ (caai2 jyun5 sok3 踹軟索) a treader on rope ladders---a thief; _pi sai kwa p'i ni ch'ai_ (bei2 sai1 gwaa1 pei4 nei5 caai2 畀西瓜皮你踹), let you step on a melon skin---trip you up; _ch'ai p'o ying p'un_ (caai2 po3 jing4 pun4 踹破營盤), to remain victorious; _ch'ai chu k'u_ (caai2 zyu6 keoi5 踹住佢), step on it; _ki shi ngau ch'ai keuk_ (gei2 si4 ngau4 caai2 goek3 幾時牛踹腳) when is your birthday? _ch'ai shat_ (caai2 sat6 踹實) to tread on firmly; _ch'ai tang fa_ (caai2 dang1 faa1 踹燈花), to tread on lampwicks (a thief); _ch'ai shing yuk tseung_ (caai2 sing4 juk6 zoeng3 踹成肉醬) trampled to death. The character 踩 is not attested in the Middle Chinese rime books. The character 踩 is an alternative form in modern Cantonese to the extent that both mean \"trample\" and are pronounced caai2. The pre-merger reading for 踩 would be _ts'ai_ instead of _ch'ai_ based on the initial of the phonetic 采, but the syllable _ts'ai_ does not exist under any tone in Fan Wan. Note that the Mandarin readings of 踩 and 踹 are distinct (cai and chuai). Williams' \"Also read ...\": Corrected _tun_ (dyun2) to _tun_ (dyun3)."
 }
 },
 "嘬":{

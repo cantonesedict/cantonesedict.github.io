@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caai
-* %date-modified --> 2026-02-28
+* %date-modified --> 2026-04-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -279,38 +279,10 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways characters">
 =={.modern}
-- ($踩2)
 - $踹2
 ==
 </nav>
 <## /tone-2-characters ##>
-
-###+ 踩2 | _(2)Ch(')(a/)i_ [[caai2]]
-
-$$.
-R
-  ⾜ + 8
-U
-  U+8E29
-F
-  [[Not present]]
-W
-  [[Not present]]
-C
-  ==
-  - The character 踩 is not attested in the Middle Chinese rime books.
-    Perhaps the pre-merger reading should be
-    _(2)ts(')(a/)i_ instead of _(2)ch(')(a/)i_
-    based on the initial of the phonetic 采,
-    but the syllable _ts(')(a/)i_ does not exist under any tone in Fan Wan.
-  - For the purposes of Cantonese, 踩 is indistiguishable from 踹.
-    Note that the Mandarin readings are distinct (cǎi and chuài).
-  ==
-P
-  ++
-  1. Alternative form of 踹. **See $踹caai2 for the canonical entry.**
-  ++
-$$
 
 ### 踹2 | _(2)Ch(')(a/)i_ [[caai2]]
 
@@ -321,7 +293,7 @@ U
   U+8E39
 A
   ==
-  - $踩2
+  - 踩 (for "trample" sense in modern Cantonese)
   ==
 V
   ==
@@ -370,8 +342,15 @@ W
   ====
 C
   ==
+  - The character 踩 is not attested in the Middle Chinese rime books.
+  - The character 踩 is an alternative form in modern Cantonese
+    to the extent that both mean "trample" and are pronounced caai2.
+  - The pre-merger reading for 踩 would be
+    _(2)ts(')(a/)i_ instead of _(2)ch(')(a/)i_
+    based on the initial of the phonetic 采,
+    but the syllable _ts(')(a/)i_ does not exist under any tone in Fan Wan.
+  - Note that the Mandarin readings of 踩 and 踹 are distinct (cǎi and chuài).
   - Williams' "Also read [...]": Corrected _(2)t(u:)n_ (dyun2) to _t(u:)n(3)_ (dyun3).
-  - See $踩caai2 for commentary on 踩 versus 踹.
   ==
 S
   ==
