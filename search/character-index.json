@@ -167,8 +167,12 @@
 },
 "菡":{
 "aam2":{
+"isCanonical":false,
+"text":"U+83E1 (F2.64 菡 _Am_ (aam2) or _Ham_ (haam2)) 菡萏荷花也 (Page 4 菡) Fan Wan entry: The initial is uncertain."
+},
+"haam5":{
 "isCanonical":true,
-"text":"U+83E1 haam5 (per 《廣韻》胡感切 lengthened) ham5 (per 《廣韻》胡感切) (F2.64 菡) 菡萏荷花也 (Page 4 菡) An unopened flower (Kangxi: 菡猶含也未吐之意); _am tam_ (aam2 daam6 菡萏), the lotus flower; a poetical name. 【菡】 (homX) Used in 菡萏. 【菡萏】 (homX domX) (_noun-like_) lotus flower"
+"text":"U+83E1 aam2 (per Williams) (F2.64 菡 _Am_ (aam2) or _Ham_ (haam2)) 菡萏荷花也 (Page 4 菡 _Am_ (aam2); here normalised to _Ham_ (haam5)) An unopened flower (Kangxi: 菡猶含也未吐之意); _~~am~~ ``ham`` tam_ (haam5 daam6 菡萏), the lotus flower; a poetical name. Fan Wan entry: The initial is uncertain. 【菡】 (homX) Used in 菡萏. 【菡萏】 (homX domX) (_noun-like_) lotus flower"
 }
 },
 "晏":{

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aam
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-04-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -45,51 +45,35 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways characters">
 =={.modern}
-- $菡2
+- ($菡2)
 ==
 </nav>
 <## /tone-2-characters ##>
 
 ### 菡2 | _(2)(A/)m_ [[aam2]]
 
-$$
+$$.
 R
   ⾋ + 8
 U
   U+83E1
-V
-  ==
-  - haam5 (per 《廣韻》胡感切 lengthened)
-  - ham5 (per 《廣韻》胡感切)
-  ==
 F
   ==
-  - (F2.64 菡) 菡萏荷花也
+  - (F2.64 菡 ^_(2)(A/)m_ (aam2) or _(2)H(a/)m_ (haam2)) 菡萏荷花也
   ==
 W
   ====
   - [[Page~4 (2)菡]]
-    ==
-    -  An unopened flower [[Kangxi: 菡猶含也未吐之意]];
-    - _(2)(a/)m t(a/)m(6)_
-        [[aam2 daam6 菡萏]]^,
-        the lotus flower;
-    - a poetical name.
-    ==
+    --
+    [[Reading variation. **See $菡haam5 for the canonical entry.**]]
+    --
   ====
-L
-  ====
-  * 【菡】 (homX)
-    ==
-    - Used in [菡萏](/entries/aam#rendering-菡萏).
-    ==
-  * 【菡萏】 (homX domX)
-    ==
-    - (_noun-like_) lotus flower
-    ==
-  ====
+C
+  ==
+  - Fan Wan entry: The initial is uncertain.
+  ==
 S
   ==
-  - $菡haam5 (TODO)
+  - $菡haam5
   ==
 $$

@@ -2458,13 +2458,12 @@ class CharacterEntry:
             for line in locator_lines
             if (
                 line.count('_') == 2
-                and williams_run in line
-                and not f'^{williams_run}' in line
+                and williams_run in line.replace(f'^{williams_run}', '')
             )
         ):
             raise LintException(
                 f'same-romanisation locator `{same_romanisation_locator_line.strip()}` under `{heading_content}` '
-                f'(suppress wth caret before opening underscore if legitimate (e.g. for disambiguation))'
+                f'(suppress with caret before opening underscore if legitimate (e.g. for disambiguation))'
             )
 
         are_locators_all_redirected = all(
@@ -2494,8 +2493,11 @@ class CharacterEntry:
 
     @staticmethod
     def lint_fan_wan_same_romanisation(williams_run: str, f_content: str, heading_content: str):
-        if williams_run in f_content:
-            raise LintException(f'same-romanisation Fan Wan locator under `{heading_content}`')
+        if williams_run in f_content.replace(f'^{williams_run}', ''):
+            raise LintException(
+                f'same-romanisation Fan Wan locator under `{heading_content}` '
+                f'(suppress with caret before opening underscore if legitimate (e.g. for uncertainty))'
+            )
 
     @staticmethod
     def lint_reading_variation_order(reading_variations: Optional[list['ReadingVariation']]):
