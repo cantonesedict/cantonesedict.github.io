@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2026-04-05
+* %date-modified --> 2026-04-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -3734,6 +3734,16 @@ L
     ==
     - (_noun-like_) will, mind, (_met._) aims
     ==
+  ====
+E
+  ====
+  - 【志在】 (zi3 zoi6)
+    ++
+    1. To care about, to care.
+       ==
+       - 完全唔志在 (jyun4 cyun4 m4 zi3 zoi6): "[I] completely do not care."
+       ==
+    ++
   ====
 $$
 
