@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fong
-* %date-modified --> 2026-04-24
+* %date-modified --> 2026-04-27
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [fong1](#1)
+- [fong4](#4)
 ==
 </nav>
 <## /tones ##>
@@ -168,4 +169,61 @@ S
   - ($方fong3) (TODO) <## same as 放 ##>
   - $方fong4 (TODO)
   ==
+$$
+
+
+##{#4 .williams} ``(4)Fong`` [[fong4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $妨4
+==
+</nav>
+<## /tone-4-characters ##>
+
+###+ 妨4 | _(4)Fong_ [[fong4]]
+
+$$
+R
+  ⼥ + 4
+U
+  U+59A8
+V
+  ==
+  - fong1 (per 《廣韻》敷方切)
+  ==
+F
+  ==
+  - (F1.96 妨 _(1)Fong_ (fong1)) 害也憚也
+  ==
+W
+  ====
+  - [[Page~55 (1)妨 _(1)Fong_ (fong1); here normalised to _(4)Fong_ (fong4)]]
+    ==
+    - An impediment, an obstacle, a hindrance [[Kangxi: 一曰礙也]];
+    - to injure [[Kangxi: 害也]];
+    - _(2)si(u/) (1)sam ~~(1)fong~~ ``(4)fong`` hoi(6)_
+        [[siu2 sam1 fong4 hoi6 小心妨害]]
+        be careful about receiving damage, look out for yourself;
+    - _~~(1)fong~~ ``(4)fong`` ngoi(6)_
+        [[fong4 ngoi6 妨礙]]
+        an obstacle, something which is in the way, or is dangerous;
+    - _(4)m(o\) ~~(1)fong~~ ``(4)fong``_
+        [[mou4 fong4 無妨]],
+        there is nothing to fear, all clear.
+    ==
+  ====
+C
+  ==
+  - Williams' 妨礙: Better rendered as a verb, "to obstruct".
+  - Williams' 無妨: Better rendered "there is no harm [in doing so]".
+  ==
+L
+  ====
+  * 【妨】 (phjang)
+    ==
+    - (_verb-like_) [to] injure, [to] harm
+    ==
+  ====
 $$

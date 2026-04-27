@@ -3202,6 +3202,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] squander
       ==
   //
+    , `phjang`
+    , [妨](/entries/fong#rendering-妨)
+    ,
+      ==
+      - (_verb-like_) [to] injure, [to] harm
+      ==
+  //
     , `phjangX phjut`
     , [彷彿](/entries/fat#rendering-彷彿)
     ,
