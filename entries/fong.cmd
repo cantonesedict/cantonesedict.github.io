@@ -51,6 +51,7 @@ $$
 - $坊1
 - $方1
 - $枋1
+- ($祊1)
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -252,6 +253,30 @@ S
   ==
   - ($枋beng3) (TODO) <## same as 柄 ##>
   - ($枋fong2) (TODO) <## same as 舫 ##>
+  ==
+$$
+
+### 祊1 | _(1)Fong_ [[fong1]]
+
+$$.
+R
+  ⽰ + 4
+U
+  U+794A
+F
+  ==
+  - (F1.96 祊) 廟門内也
+  ==
+W
+  ====
+  - [[Page~55 (1)祊]]
+    --
+    [[Reading variation. **See $祊bang1 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+S
+  ==
+  - $祊bang1 (TODO)
   ==
 $$
 
