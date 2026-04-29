@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fong
-* %date-modified --> 2026-04-27
+* %date-modified --> 2026-04-29
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -48,10 +48,61 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $坊1
 - $方1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 坊1 | _(1)Fong_ [[fong1]]
+
+$$
+R
+  ⼟ + 4
+U
+  U+574A
+F
+  ==
+  - (F1.96 坊) ::邑[里]之名::
+  ==
+W
+  ====
+  - [[Page~55 (1)坊]]
+    ==
+    - A neighborhood;
+    - a street, a lane, an alley [[Kangxi: 邑里之名]];
+    - a burgh, a country-house, a shop;
+    - [[...]];
+    <## - to guard, to impede; ##> <## TODO: $坊fong4 ##>
+    - _(1)k(a/)i (1)fong_
+        [[gaai1 fong1 街坊]]^
+        a street;
+    - _(1)fong (5)sh(e/)_
+        [[fong1 se5 坊社]],
+        a neighborhood;
+    - _(4)p(')(a/)i (1)fong_
+        [[paai4 fong1 牌坊]],
+        an honorary portal;
+    - _~~(4)sh(u:)~~ ``(1)sh(u:)`` (1)fong_
+        [[syu1 fong1 書坊]],
+        bookstore;
+    - _(1)ch(')un (1)fong_
+        [[ceon1 fong1 春坊]],
+        the palace of the heir-apparent [[Kangxi: 太子宮曰春坊]],
+        an honorary grade in the H(a/)nlin [[翰林]] academy.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed missing final stroke in 里.
+  - Williams' 街坊: Also the people in one's neighbourhood.
+  - Williams' 書坊: Corrected _(4)sh(u:)_ (syu4) to _(1)sh(u:)_ (syu1).
+  ==
+S
+  ==
+  - $坊fong4 (TODO)
+  ==
+$$
 
 ### 方1 | _(1)Fong_ [[fong1]]
 
