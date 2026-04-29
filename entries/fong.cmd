@@ -52,6 +52,7 @@ $$
 - $方1
 - $枋1
 - ($祊1)
+- $芳1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -278,6 +279,55 @@ S
   ==
   - $祊bang1 (TODO)
   ==
+$$
+
+### 芳1 | _(1)Fong_ [[fong1]]
+
+$$
+R
+  ⾋ + 4
+U
+  U+82B3
+F
+  ==
+  - (F1.96 芳) 芬芳香草
+  ==
+W
+  ====
+  - [[Page~55 (1)芳]]
+    ==
+    - Fragrant, odorous [[Kangxi: 芬芳香氣貌]];
+    - beautiful, like flowers;
+    - _met._ agreeable, pleasant;
+    - virtuous, excellent;
+    - _(1)fong (2)ch(i/)_
+        [[fong1 zi2 芳芷]],
+        fragrant plants;
+    - _(1)fong (1)tsung_
+        [[fong1 zung1 芳蹤]],
+        fragrant memory or examples of ancient worthies;
+    - _(1)fong (4)ming_
+        [[fong1 ming4 芳名]],
+        a reputation for virtue;
+    - _(4)n(i/)n (1)fong (2)k(i/) (1)to_
+        [[nin4 fong1 gei2 do1 年芳幾多]],
+        how old are you?
+    - _(1)fong (2)ts(')(o\)_
+        [[fong1 cou2 芳草]],
+        ~~grassy,~~ fresh ``grass``.
+    ==
+  ====
+P
+  ++
+  1. The fragrance of virtue (Kangxi: ::芳德之[臭]也::).
+  ++
+L
+  ====
+  * 【芳】 (phjang)
+    ==
+    - (_adjective-like_) fragrant
+    ==
+  ====
 $$
 
 

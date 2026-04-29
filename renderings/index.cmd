@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-04-27
+* %date-modified --> 2026-04-29
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -3209,6 +3209,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] injure, [to] harm
       ==
   //
+    , `phjang`
+    , [芳](/entries/fong#rendering-芳)
+    ,
+      ==
+      - (_adjective-like_) fragrant
+      ==
+  //
     , `phjangX phjut`
     , [彷彿](/entries/fat#rendering-彷彿)
     ,
@@ -3308,7 +3315,7 @@ window.onload = applyFilter;
     , [芬](/entries/fan#rendering-芬)
     ,
       ==
-      - (_adjective-like_) fragrant
+      - (_adjective-like_) sweet-smelling
       ==
   //
     , `phjun`

@@ -6800,7 +6800,7 @@
 "芬":{
 "fan1":{
 "isCanonical":true,
-"text":"U+82AC (F1.80 芬) 芬芳 (Page 46 芬) Budding and blossoming; fragrance from opening plants (Kangxi: 草初生香分布也); _fan fong_ (fan1 fong1 芬芳), spreading fragrance; _fan fan_ (fan1 fan1 芬芬), odoriferous (Kangxi: 芬芬香也). (...), harmonious (Kangxi: 和也). Kangxi has the \"mound-like, bulging\" sense (supplemented below) under the main reading 撫文切 _fan_ (fan1). But if this is the same word as 墳 \"moundy\", then it should be read 符分切 _fan_ (fan4) instead. Mound-like, bulging (Kangxi: 芬然壤起貌). 【芬】 (phjun) (_adjective-like_) fragrant"
+"text":"U+82AC (F1.80 芬) 芬芳 (Page 46 芬) Budding and blossoming; fragrance from opening plants (Kangxi: 草初生香分布也); _fan fong_ (fan1 fong1 芬芳), spreading fragrance; _fan fan_ (fan1 fan1 芬芬), odoriferous (Kangxi: 芬芬香也). (...), harmonious (Kangxi: 和也). Kangxi has the \"mound-like, bulging\" sense (supplemented below) under the main reading 撫文切 _fan_ (fan1). But if this is the same word as 墳 \"moundy\", then it should be read 符分切 _fan_ (fan4) instead. Mound-like, bulging (Kangxi: 芬然壤起貌). 【芬】 (phjun) (_adjective-like_) sweet-smelling"
 }
 },
 "葷":{
@@ -7579,6 +7579,12 @@
 "fong1":{
 "isCanonical":false,
 "text":"U+794A (F1.96 祊) 廟門内也 (Page 55 祊)"
+}
+},
+"芳":{
+"fong1":{
+"isCanonical":true,
+"text":"U+82B3 (F1.96 芳) 芬芳香草 (Page 55 芳) Fragrant, odorous (Kangxi: 芬芳香氣貌); beautiful, like flowers; _met._ agreeable, pleasant; virtuous, excellent; _fong chi_ (fong1 zi2 芳芷), fragrant plants; _fong tsung_ (fong1 zung1 芳蹤), fragrant memory or examples of ancient worthies; _fong ming_ (fong1 ming4 芳名), a reputation for virtue; _nin fong ki to_ (nin4 fong1 gei2 do1 年芳幾多), how old are you? _fong ts'o_ (fong1 cou2 芳草), ~~grassy,~~ fresh ``grass``. The fragrance of virtue (Kangxi: 芳德之臭也). 【芳】 (phjang) (_adjective-like_) fragrant"
 }
 },
 "妨":{

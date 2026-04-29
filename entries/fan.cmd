@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fan
-* %date-modified --> 2026-04-17
+* %date-modified --> 2026-04-29
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1117,7 +1117,7 @@ L
   ====
   * 【芬】 (phjun)
     ==
-    - (_adjective-like_) fragrant
+    - (_adjective-like_) sweet-smelling
     ==
   ====
 $$
