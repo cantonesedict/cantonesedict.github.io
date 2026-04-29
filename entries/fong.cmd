@@ -50,6 +50,7 @@ $$
 =={.modern}
 - $坊1
 - $方1
+- $枋1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -219,6 +220,38 @@ S
   ==
   - ($方fong3) (TODO) <## same as 放 ##>
   - $方fong4 (TODO)
+  ==
+$$
+
+### 枋1 | _(1)Fong_ [[fong1]]
+
+$$
+R
+  ⽊ + 4
+U
+  U+678B
+F
+  ==
+  - (F1.96 枋) 木枋門枋
+  ==
+W
+  ====
+  - [[Page~55 (1)枋]]
+    ==
+    - A wood used by cartwrights [[Kangxi: 木可作車]], and shipwrights;
+    - ~~the white~~ board``s`` used by fishermen to ~~entice~~ ``wall`` fish [[Kangxi: 蜀人以木偃魚曰枋]];
+    - _(1)s(u/) (1)fong muk(9)_
+        [[sou1 fong1 muk6 蘇枋木]]
+        a kind of logwood or sapanwood;
+    - _(4)m(u/)n (1)fong_
+        [[mun4 fong1 門枋]],
+        door-posts.
+    ==
+  ====
+S
+  ==
+  - ($枋beng3) (TODO) <## same as 柄 ##>
+  - ($枋fong2) (TODO) <## same as 舫 ##>
   ==
 $$
 
