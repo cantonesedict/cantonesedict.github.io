@@ -9501,6 +9501,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] extend
       ==
   //
+    , `xwangX`
+    , [慌](/entries/fong#rendering-慌)
+    ,
+      ==
+      - (_adjective-like_) vague, unclear
+      ==
+  //
     , `xwon`
     , [婚](/entries/fan#rendering-婚)
     ,

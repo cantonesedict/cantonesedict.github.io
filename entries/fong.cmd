@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [fong1](#1)
+- [fong2](#2)
 - [fong4](#4)
 ==
 </nav>
@@ -109,30 +110,32 @@ S
   ==
 $$
 
-###+ 慌1 | _(1)Fong_ [[fong1]]
+### 慌1 | _(1)Fong_ [[fong1]]
 
 $$
 R
   ⼼ + 10
 U
   U+614C
+A
+  ==
+  - $荒1
+  ==
 F
   ==
   - (F1.96 慌) 驚慌又慌忽也
   ==
 W
   ====
-  - [[Page~56 (1){？=⿰忄⿱艹㠩}; here normalised to 慌]]
+  - [[Page~56 (1)慌]]
     ==
     - Fluttered, perturbed, apprehensive, nervous;
-    - obscure;
+    - [[...]];
     - to scare, to alarm;
     - _(1)fong ~~(4)h(e/)ung~~ ``(1)ch(e/)ung``_
         [[fong1 zoeng1 慌張]],
         ~~dreading, terrified~~ ``panicked``;
-    - _(5)n(i/) (1)fong fat(7)_
-        [[nei5 fong1 fat1]]
-        disturbed, harassed;
+    - [[...]];
     - _(1)fong tak(7) (5)ngo_
         [[fong1 dak1 ngo5 慌得我]],
         you alarm me;
@@ -144,7 +147,7 @@ W
 C
   ==
   - Williams prints the headword as ⿰忄⿱艹㠩,
-    which is a compatibility ideograph (U+2F8A7).
+    which is compatibility ideograph U+2F8A7.
   - Williams' 慌張: Corrected _(4)h(e/)ung_ (hoeng4) to _(1)ch(e/)ung_ (zoeng1).
   ==
 E
@@ -173,7 +176,7 @@ E
   ====
 S
   ==
-  - $慌fong2 (TODO)
+  - $慌fong2
   ==
 $$
 
@@ -449,7 +452,7 @@ W
         lustful.
     ==
     --
-    [[Otherwise, an alternative form of 慌. **See $慌fong1 for the canonical entry.**]] [[TODO]]
+    [[Otherwise, an alternative form of 慌. **See $慌fong1 for the canonical entry.**]]
     --
   ====
 C
@@ -478,6 +481,66 @@ L
     - (_verb-like_) [to] extend
     ==
   ====
+$$
+
+
+##{#2 .williams} ``(2)Fong`` [[fong2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $慌2
+==
+</nav>
+<## /tone-2-characters ##>
+
+###+ 慌2 | _(2)Fong_ [[fong2]]
+
+$$
+R
+  ⼼ + 10
+U
+  U+614C
+A
+  ==
+  - 荒
+  ==
+F
+  ==
+  - (F1.96 慌 _(1)Fong_ (fong1)) 驚慌又慌忽也
+  ==
+W
+  ====
+  - [[Page~56 (1)慌 _(1)Fong_ (fong1); here corrected to _(2)Fong_ (fong2)]]
+    ==
+    - [[...]];
+    - obscure``, confused`` [[Kangxi: 昬也]];
+    - [[...]];
+    - _~~(5)n(i/) (1)fong~~ ``(2)fong`` fat(7)_
+        [[fong2 fat1 慌惚]]
+        ~~disturbed, harassed~~ ``confused``;
+    - [[...]].
+    ==
+    --
+    [[Alternative form of 恍 (for the "vague/unclear" senses). See $恍fong2.]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Williams and Kangxi print the headword as ⿰忄⿱艹㠩,
+    which is compatibility ideograph U+2F8A7.
+  ==
+L
+  ====
+  * 【慌】 (xwangX)
+    ==
+    - (_adjective-like_) vague, unclear
+    ==
+  ====
+S
+  ==
+  - $慌fong1
+  ==
 $$
 
 
