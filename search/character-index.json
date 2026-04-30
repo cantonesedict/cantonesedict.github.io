@@ -7563,6 +7563,12 @@
 "text":"U+574A (F1.96 坊) 邑里之名 (Page 55 坊) A neighborhood; a street, a lane, an alley (Kangxi: 邑里之名); a burgh, a country-house, a shop; _kai fong_ (gaai1 fong1 街坊) a street; _fong she_ (fong1 se5 坊社), a neighborhood; _p'ai fong_ (paai4 fong1 牌坊), an honorary portal; _shu fong_ (syu1 fong1 書坊), bookstore; _ch'un fong_ (ceon1 fong1 春坊), the palace of the heir-apparent (Kangxi: 太子宮曰春坊), an honorary grade in the Hanlin (翰林) academy. Fan Wan entry: Fixed missing final stroke in 里. Williams' 街坊: Also the people in one's neighbourhood. Williams' 書坊: Corrected _shu_ (syu4) to _shu_ (syu1)."
 }
 },
+"慌":{
+"fong1":{
+"isCanonical":true,
+"text":"U+614C (F1.96 慌) 驚慌又慌忽也 (Page 56 ？; here normalised to 慌) Fluttered, perturbed, apprehensive, nervous; obscure; to scare, to alarm; _fong ~~heung~~ ``cheung``_ (fong1 zoeng1 慌張), ~~dreading, terrified~~ ``panicked``; _ni fong fat_ (nei5 fong1 fat1) disturbed, harassed; _fong tak ngo_ (fong1 dak1 ngo5 慌得我), you alarm me; _fong mong_ (fong1 mong4 慌忙), hurried, uneasy. Williams prints the headword as ⿰忄⿱艹㠩, which is a compatibility ideograph (U+2F8A7). Williams' 慌張: Corrected _heung_ (hoeng4) to _cheung_ (zoeng1). 【慌死】 (fong1 sei2) To be very afraid. 慌死蝕底 (fong1 sei2 sit6 dai2): \"Sore afraid of losing out.\" 【唔慌】 (m4 fong1) Used to indicate anti-expectation of something favourable. 唔慌平 (m4 fong1 peng4): \"No way it's cheap.\" 【唔慌唔】 (m4 fong1 m4) Used to indicate expectation of something unfavourable. 唔慌唔執笠 (m4 fong1 m4 zap1 lap1): \"No way the business won't go under.\""
+}
+},
 "方":{
 "fong1":{
 "isCanonical":true,

@@ -49,6 +49,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $坊1
+- $慌1
 - $方1
 - $枋1
 - ($祊1)
@@ -105,6 +106,74 @@ C
 S
   ==
   - $坊fong4 (TODO)
+  ==
+$$
+
+###+ 慌1 | _(1)Fong_ [[fong1]]
+
+$$
+R
+  ⼼ + 10
+U
+  U+614C
+F
+  ==
+  - (F1.96 慌) 驚慌又慌忽也
+  ==
+W
+  ====
+  - [[Page~56 (1){？=⿰忄⿱艹㠩}; here normalised to 慌]]
+    ==
+    - Fluttered, perturbed, apprehensive, nervous;
+    - obscure;
+    - to scare, to alarm;
+    - _(1)fong ~~(4)h(e/)ung~~ ``(1)ch(e/)ung``_
+        [[fong1 zoeng1 慌張]],
+        ~~dreading, terrified~~ ``panicked``;
+    - _(5)n(i/) (1)fong fat(7)_
+        [[nei5 fong1 fat1]]
+        disturbed, harassed;
+    - _(1)fong tak(7) (5)ngo_
+        [[fong1 dak1 ngo5 慌得我]],
+        you alarm me;
+    - _(1)fong (4)mong_
+        [[fong1 mong4 慌忙]],
+        hurried, uneasy.
+    ==
+  ====
+C
+  ==
+  - Williams prints the headword as ⿰忄⿱艹㠩,
+    which is a compatibility ideograph (U+2F8A7).
+  - Williams' 慌張: Corrected _(4)h(e/)ung_ (hoeng4) to _(1)ch(e/)ung_ (zoeng1).
+  ==
+E
+  ====
+  - 【慌死】 (fong1 sei2)
+    ++
+    1. To be very afraid.
+       ==
+       - 慌死蝕底 (fong1 sei2 sit6 dai2): "Sore afraid of losing out."
+       ==
+    ++
+  - 【唔慌】 (m4 fong1)
+    ++
+    1. Used to indicate anti-expectation of something favourable.
+       ==
+       - 唔慌平 (m4 fong1 peng4): "No way [it's] cheap."
+       ==
+    ++
+  - 【唔慌唔】 (m4 fong1 m4)
+    ++
+    1. Used to indicate expectation of something unfavourable.
+       ==
+       - 唔慌唔執笠 (m4 fong1 m4 zap1 lap1): "No way [the business] won't go under."
+       ==
+    ++
+  ====
+S
+  ==
+  - $慌fong2 (TODO)
   ==
 $$
 
