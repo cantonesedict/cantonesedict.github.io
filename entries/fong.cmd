@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fong
-* %date-modified --> 2026-04-29
+* %date-modified --> 2026-04-30
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -53,6 +53,7 @@ $$
 - $枋1
 - ($祊1)
 - $芳1
+- $荒1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -326,6 +327,86 @@ L
   * 【芳】 (phjang)
     ==
     - (_adjective-like_) fragrant
+    ==
+  ====
+$$
+
+###+ 荒1 | _(1)Fong_ [[fong1]]
+
+$$
+R
+  ⾋ + 6
+U
+  U+8352
+A
+  ==
+  - {𮎰=⿱艹㠩}
+  ==
+F
+  ==
+  - (F1.96 荒) 荒蕪荒廢大也遠也
+  ==
+W
+  ====
+  - [[Page~56 (1){𮎰=⿱艹㠩}; here normalised to 荒]]
+    ==
+    - Waste, wild [[Kangxi 荒: 蕪也]], barren, deserted, unproductive;
+    - distant [[Fan Wan: 遠也]];
+    - jungle, heath [[Kangxi 荒: 一曰草掩地也]];
+    - empty, uncultivated, void [[Kangxi 荒: 空也]], ~~unripe,~~ blasted;
+    - a famine, a dearth [[Kangxi 荒: 四穀不升謂之荒, 果不熟爲荒]];
+    - to overshadow``, to overgrow`` [[Kangxi 荒: 掩也]];
+    - to magnify [[Kangxi 荒: 大也]];
+    - _(1)fong (4)m(o\)_
+        [[fong1 mou4 荒蕪]],
+        bushy, overgrown;
+    - _(1)fong fai(3)_
+        [[fong1 fai3 荒廢]]
+        to disregard, to cease, old, desuetude;
+    - _(1)fong (4)t(')ong_
+        [[fong1 tong4 荒唐]],
+        incoherent, incredible, unworthy of belief;
+    - _(1)fong (4)n(i/)n_
+        [[fong1 nin4 荒年]],
+        a year of scarcity;
+    - _(1)fong (1)sho_
+        [[fong1 so1 荒疏]],
+        disused, neglected, obsolete;
+    - _(1)fong (1)k(a/)u_
+        [[fong1 gaau1 荒郊]],
+        wilderness, wilds;
+    - _(1)fong (4)yam_
+        [[fong1 jam4 荒淫]],
+        lustful.
+    ==
+    --
+    [[Otherwise, an alternative form of 慌. **See $慌fong1 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Williams' "unripe": Here, Williams has been misled
+    by Kangxi's example 《爾雅釋天》果不熟爲荒.
+    The full passage (with punctuation) is
+    穀不熟爲饑、蔬不熟爲饉、果不熟爲荒、仍饑爲荐,
+    which gives the names of various types of crop failure:
+    饑 for grain, 饉 for vegetable, 荒 for fruit,
+    and 荐 for repeated grain failure.
+    It does *not* define 荒 as meaning "fruit not ripe".
+  ==
+P
+  ++
+  1. Used in 荒唐, 荒謬, etc. (which now mean "absurd").
+  ++
+L
+  ====
+  * 【荒】 (xwang)
+    ==
+    - (_adjective-like_) uncultivated, overgrown
+    - (_noun-like_) dearth
+    - (_adjective-like_) desolate
+    - (_adjective-like_) extensive, (_met._) excessive
+    - (_verb-like_) [to] extend
     ==
   ====
 $$

@@ -7587,6 +7587,12 @@
 "text":"U+82B3 (F1.96 芳) 芬芳香草 (Page 55 芳) Fragrant, odorous (Kangxi: 芬芳香氣貌); beautiful, like flowers; _met._ agreeable, pleasant; virtuous, excellent; _fong chi_ (fong1 zi2 芳芷), fragrant plants; _fong tsung_ (fong1 zung1 芳蹤), fragrant memory or examples of ancient worthies; _fong ming_ (fong1 ming4 芳名), a reputation for virtue; _nin fong ki to_ (nin4 fong1 gei2 do1 年芳幾多), how old are you? _fong ts'o_ (fong1 cou2 芳草), ~~grassy,~~ fresh ``grass``. The fragrance of virtue (Kangxi: 芳德之臭也). 【芳】 (phjang) (_adjective-like_) fragrant"
 }
 },
+"荒":{
+"fong1":{
+"isCanonical":true,
+"text":"U+8352 𮎰 (F1.96 荒) 荒蕪荒廢大也遠也 (Page 56 𮎰; here normalised to 荒) Waste, wild (Kangxi 荒: 蕪也), barren, deserted, unproductive; distant (Fan Wan: 遠也); jungle, heath (Kangxi 荒: 一曰草掩地也); empty, uncultivated, void (Kangxi 荒: 空也), ~~unripe,~~ blasted; a famine, a dearth (Kangxi 荒: 四穀不升謂之荒, 果不熟爲荒); to overshadow``, to overgrow`` (Kangxi 荒: 掩也); to magnify (Kangxi 荒: 大也); _fong mo_ (fong1 mou4 荒蕪), bushy, overgrown; _fong fai_ (fong1 fai3 荒廢) to disregard, to cease, old, desuetude; _fong t'ong_ (fong1 tong4 荒唐), incoherent, incredible, unworthy of belief; _fong nin_ (fong1 nin4 荒年), a year of scarcity; _fong sho_ (fong1 so1 荒疏), disused, neglected, obsolete; _fong kau_ (fong1 gaau1 荒郊), wilderness, wilds; _fong yam_ (fong1 jam4 荒淫), lustful. Williams' \"unripe\": Here, Williams has been misled by Kangxi's example 《爾雅釋天》果不熟爲荒. The full passage (with punctuation) is 穀不熟爲饑、蔬不熟爲饉、果不熟爲荒、仍饑爲荐, which gives the names of various types of crop failure: 饑 for grain, 饉 for vegetable, 荒 for fruit, and 荐 for repeated grain failure. It does *not* define 荒 as meaning \"fruit not ripe\". Used in 荒唐, 荒謬, etc. (which now mean \"absurd\"). 【荒】 (xwang) (_adjective-like_) uncultivated, overgrown (_noun-like_) dearth (_adjective-like_) desolate (_adjective-like_) extensive, (_met._) excessive (_verb-like_) to extend"
+}
+},
 "妨":{
 "fong4":{
 "isCanonical":true,
