@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-04-30
+* %date-modified --> 2026-05-01
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -9499,6 +9499,13 @@ window.onload = applyFilter;
       - (_adjective-like_) desolate
       - (_adjective-like_) extensive, (_met._) excessive
       - (_verb-like_) [to] extend
+      ==
+  //
+    , `xwang`
+    , [衁](/entries/fong#rendering-衁)
+    ,
+      ==
+      - (_noun-like_) blood
       ==
   //
     , `xwangX`

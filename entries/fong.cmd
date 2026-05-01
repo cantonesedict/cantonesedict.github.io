@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fong
-* %date-modified --> 2026-04-30
+* %date-modified --> 2026-05-01
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -56,6 +56,7 @@ $$
 - ($祊1)
 - $芳1
 - $荒1
+- $衁1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -479,6 +480,33 @@ L
     - (_adjective-like_) desolate
     - (_adjective-like_) extensive, (_met._) excessive
     - (_verb-like_) [to] extend
+    ==
+  ====
+$$
+
+### 衁1 | _(1)Fong_ [[fong1]]
+
+$$
+R
+  ⾎ + 3
+U
+  U+8841
+F
+  ==
+  - (F1.96 慌) 衁也
+  ==
+W
+  ====
+  - [[Page~56 (1)衁]]
+    ==
+    - Blood ~~above the heart~~ [[Kangxi: 血也]].
+    ==
+  ====
+L
+  ====
+  * 【衁】 (xwang)
+    ==
+    - (_noun-like_) blood
     ==
   ====
 $$
