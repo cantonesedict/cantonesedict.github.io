@@ -54,6 +54,7 @@ $$
 - $方1
 - $枋1
 - ($祊1)
+- $肓1
 - $芳1
 - $荒1
 - $衁1
@@ -355,6 +356,41 @@ S
   ==
 $$
 
+### ~~盲~~``肓``1 | _(1)Fong_ [[fong1]]
+
+$$
+R
+  ⾁ + 3
+U
+  U+8093
+F
+  ==
+  - (F1.96 ::[肓]::) ::膏[肓]心之上鬲之下也::
+  ==
+W
+  ====
+  - [[Page~56 ::(1)~~盲~~``肓``::]]
+    ==
+    - A part of the thorax ~~above the heart [[Kangxi: 心上鬲下也]]~~ ``below the heart and above the diaphragm``;
+    - the vitals.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword 盲 to 肓.
+  - Williams' "above the heart": 《說文》心上鬲下也 quoted by Kangxi
+    ("above the heart [and] below the diaphragm") is clearly erroneous,
+    and should instead be 心下鬲上也.
+  ==
+L
+  ====
+  * 【肓】 (xwang)
+    ==
+    - (_noun-like_) mediastinal-floor
+    ==
+  ====
+$$
+
 ### 芳1 | _(1)Fong_ [[fong1]]
 
 $$
@@ -502,6 +538,12 @@ W
     - Blood ~~above the heart~~ [[Kangxi: 血也]].
     ==
   ====
+C
+  ==
+  - Williams' "above the heart": Probably erroneously added
+    out of confusion with the neighbouring entry for 肓,
+    which is misprinted as 盲. See $肓fong1.
+  ==
 L
   ====
   * 【衁】 (xwang)

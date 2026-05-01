@@ -7591,6 +7591,12 @@
 "text":"U+794A (F1.96 祊) 廟門内也 (Page 55 祊)"
 }
 },
+"肓":{
+"fong1":{
+"isCanonical":true,
+"text":"U+8093 (F1.96 肓) 膏肓心之上鬲之下也 (Page 56 ~~盲~~``肓``) A part of the thorax ~~above the heart (Kangxi: 心上鬲下也)~~ ``below the heart and above the diaphragm``; the vitals. Fan Wan entry: Corrected headword 盲 to 肓. Williams' \"above the heart\": 《說文》心上鬲下也 quoted by Kangxi (\"above the heart and below the diaphragm\") is clearly erroneous, and should instead be 心下鬲上也. 【肓】 (xwang) (_noun-like_) mediastinal-floor"
+}
+},
 "芳":{
 "fong1":{
 "isCanonical":true,
@@ -7606,7 +7612,7 @@
 "衁":{
 "fong1":{
 "isCanonical":true,
-"text":"U+8841 (F1.96 慌) 衁也 (Page 56 衁) Blood ~~above the heart~~ (Kangxi: 血也). 【衁】 (xwang) (_noun-like_) blood"
+"text":"U+8841 (F1.96 慌) 衁也 (Page 56 衁) Blood ~~above the heart~~ (Kangxi: 血也). Williams' \"above the heart\": Probably erroneously added out of confusion with the neighbouring entry for 肓, which is misprinted as 盲. See 肓 fong1. 【衁】 (xwang) (_noun-like_) blood"
 }
 },
 "妨":{

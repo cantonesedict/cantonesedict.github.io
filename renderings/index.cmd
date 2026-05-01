@@ -9491,6 +9491,13 @@ window.onload = applyFilter;
       ==
   //
     , `xwang`
+    , [肓](/entries/fong#rendering-肓)
+    ,
+      ==
+      - (_noun-like_) mediastinal-floor
+      ==
+  //
+    , `xwang`
     , [荒](/entries/fong#rendering-荒)
     ,
       ==
