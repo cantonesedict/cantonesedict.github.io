@@ -7561,6 +7561,10 @@
 "fong1":{
 "isCanonical":true,
 "text":"U+574A (F1.96 坊) 邑里之名 (Page 55 坊) A neighborhood; a street, a lane, an alley (Kangxi: 邑里之名); a burgh, a country-house, a shop; _kai fong_ (gaai1 fong1 街坊) a street; _fong she_ (fong1 se5 坊社), a neighborhood; _p'ai fong_ (paai4 fong1 牌坊), an honorary portal; _shu fong_ (syu1 fong1 書坊), bookstore; _ch'un fong_ (ceon1 fong1 春坊), the palace of the heir-apparent (Kangxi: 太子宮曰春坊), an honorary grade in the Hanlin (翰林) academy. Fan Wan entry: Fixed missing final stroke in 里. Williams' 街坊: Also the people in one's neighbourhood. Williams' 書坊: Corrected _shu_ (syu4) to _shu_ (syu1)."
+},
+"fong4":{
+"isCanonical":false,
+"text":"U+574A"
 }
 },
 "慌":{
@@ -7630,7 +7634,7 @@
 "防":{
 "fong4":{
 "isCanonical":true,
-"text":"U+9632 埅 fong1 (per 《集韻》分房切 for \"match\" sense) (F1.98 防) 提防關防禦也滿也禁也 (Page 56 防) A bank, a levee, a dyke (Kangxi: 隄也); a defense (Kangxi: 鄣也, 防禦也); a screen (Kangxi: 容謂之防, 形如今牀頭小曲屛風唱射者所以自防隱也); to guard against (Kangxi: 備也), to keep off, to defend, to repress, to prohibit (Kangxi: 禁也); to provide against; _fong pi_ (fong4 bei6 防備) to prepare for, to be ready, to be on one's guard; _fong ki_ (fong4 gei1 防饑), to provide against dearth; _fong kam_ (fong4 gam3 防禁) to stop; _fong shau_ (fong4 sau2 防守), to protect``, to defend``. A surname (Kangxi: 姓). To withstand, to match (Kangxi: 防比也, 猶當也, 毛音方鄭音房). 【防】 (bjang) (_noun-like_) dyke (_verb-like_) to prevent, to guard against, (_met._) to forfend (_verb-like_) to withstand, (_met._) to match"
+"text":"U+9632 坊 埅 fong1 (per 《集韻》分房切 for \"match\" sense) (F1.98 防) 提防關防禦也滿也禁也 (Page 55 坊 _Fong_ (fong1); here corrected to _Fong_ (fong4) and normalised to 防) to guard, to impede; (Page 56 防) A bank, a levee, a dyke (Kangxi: 隄也); a defense (Kangxi: 鄣也, 防禦也); a screen (Kangxi: 容謂之防, 形如今牀頭小曲屛風唱射者所以自防隱也); to guard against (Kangxi: 備也), to keep off, to defend, to repress, to prohibit (Kangxi: 禁也); to provide against; _fong pi_ (fong4 bei6 防備) to prepare for, to be ready, to be on one's guard; _fong ki_ (fong4 gei1 防饑), to provide against dearth; _fong kam_ (fong4 gam3 防禁) to stop; _fong shau_ (fong4 sau2 防守), to protect``, to defend``. A surname (Kangxi: 姓). To withstand, to match (Kangxi: 防比也, 猶當也, 毛音方鄭音房). 【防】 (bjang) (_noun-like_) dyke (_verb-like_) to prevent, to guard against, (_met._) to forfend (_verb-like_) to withstand, (_met._) to match"
 }
 },
 "之":{

@@ -81,7 +81,6 @@ W
     - a street, a lane, an alley [[Kangxi: 邑里之名]];
     - a burgh, a country-house, a shop;
     - [[...]];
-    <## - to guard, to impede; ##> <## TODO: $坊fong4 ##>
     - _(1)k(a/)i (1)fong_
         [[gaai1 fong1 街坊]]^
         a street;
@@ -108,7 +107,7 @@ C
   ==
 S
   ==
-  - $坊fong4 (TODO)
+  - ($坊fong4)
   ==
 $$
 
@@ -619,12 +618,34 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- ($坊4)
 - $妨4
 - $房4
 - $防4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+###+ 坊4 | _(4)Fong_ [[fong4]]
+
+$$.
+R
+  ⼟ + 4
+U
+  U+574A
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 防. **See $防fong4 for the canonical entry.**
+  ++
+S
+  ==
+  - $坊fong1
+  ==
+$$
 
 ###+ 妨4 | _(4)Fong_ [[fong4]]
 
@@ -770,6 +791,7 @@ U
   U+9632
 A
   ==
+  - $坊4
   - 埅
   ==
 V
@@ -782,6 +804,12 @@ F
   ==
 W
   ====
+  - [[Page~55 (1)坊 _(1)Fong_ (fong1); here corrected to _(4)Fong_ (fong4) and normalised to 防]]
+    ==
+    - [[...]];
+    - to guard, to impede;
+    - [[...]].
+    ==
   - [[Page~56 (4)防]]
     ==
     - A bank, a levee, a dyke [[Kangxi: 隄也]];
