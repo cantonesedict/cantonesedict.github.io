@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fong
-* %date-modified --> 2026-05-01
+* %date-modified --> 2026-05-02
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -614,12 +614,13 @@ S
 $$
 
 
-##{#4 .williams} ``(4)Fong`` [[fong4 陽平]]
+##{#4 .williams} (4)Fong [[fong4 陽平]]
 
 <## tone-4-characters ##>
 <nav class="sideways characters">
 =={.modern}
 - $妨4
+- $房4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -666,6 +667,95 @@ L
   * 【妨】 (phjang)
     ==
     - (_verb-like_) [to] injure, [to] harm
+    ==
+  ====
+$$
+
+### 房4 | _(4)Fong_ [[fong4]]
+
+$$
+R
+  ⼾ + 4
+U
+  U+623F
+V
+  ==
+  - fong4-2 (vernacular rising-tone noun for "room" sense)
+  ==
+F
+  ==
+  - (F1.98 房) 房屋又宿名
+  ==
+W
+  ====
+  - [[Page~56 (4)房]]
+    ==
+    - A room, a chamber, a dwelling;
+    - an office;
+    - a department of an office;
+    - one living in the same room;
+    - sexual act;
+    - a calyx;
+    - a quiver [[Kangxi: 箭室也]];
+    - a bee's nest;
+    - the constellation Scorpio [[Kangxi: 東南宿名]];
+    - _yat(7) (1)k(a/)n (4)fong_
+        [[jat1 gaan1 fong4-2 一間房]],
+        a room;
+    - _(4)fong uk(7)_
+        [[fong4 uk1 房屋]]
+        a dwelling;
+    - _~~(2)sh(e/)ung~~ ``sh(e/)ung(6)`` (4)fong_
+        [[soeng6 fong4 上房]],
+        female apartments in an office;
+    - _(4)m(u/)n (4)fong_
+        [[mun4 fong4 門房]],
+        anteroom;
+    - _luk(9) (4)fong_
+        [[luk6 fong4 六房]],
+        six departments of an office;
+    - _~~(1)fong, (4)^t(a/)n~~ ``(1)t(a/)n (4)fong``_
+        [[daan1 fong4 單房]]^
+        permit office at the hoppo's [[粵海關]];
+    - _(4)ngan (4)fong_
+        [[ngan4 fong4 銀房]],
+        a treasury;
+    - _(5)n(i/) (1)ts(u:)n (4)fong_
+        [[nei5 zyun1 fong4 你尊房]],
+        which brother are you?
+    - _ts(i/)n(6) (4)fong_
+        [[zin6 fong4 賤房]],
+        my wife;
+    - _(1)p(')(i/)n (4)fong_
+        [[pin1 fong4 偏房]],
+        my concubine;
+    - _(4)ying (4)fong_
+        [[jing4 fong4 營房]],
+        a camp``, a barracks``;
+    - _tung(6) (4)fong_
+        [[dung6 fong4 洞房]],
+        the nuptial act.
+    ==
+  ====
+C
+  ==
+  - Williams' 上房: Corrected _(2)sh(e/)ung_ (soeng2) to _sh(e/)ung(6)_ (soeng6).
+  - Williams' 單房: Corrected _(1)fong (4)^t(a/)n_ (fong1 daan4) to _(1)t(a/)n (4)fong_ (daan1 fong4).
+    but it is unclear what _(4)^t(a/)n_ (daan4) should be corrected to.
+  ==
+P
+  ++
+  1. A side-room (Kangxi: 室在旁也).
+  1. Classifier for relatives, wives, or concubines.
+  1. A stand for displaying sacrificial food (Kangxi: 俎名, 半體之俎足下有跗如堂房也).
+  1. A surname (Kangxi: 姓).
+  ++
+L
+  ====
+  * 【房】 (bjang)
+    ==
+    - (_noun-like_) side-room, room
+    - (_noun-like_) food-stand
     ==
   ====
 $$
