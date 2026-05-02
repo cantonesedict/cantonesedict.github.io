@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2026-04-28
+* %date-modified --> 2026-05-02
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -289,11 +289,12 @@ E
   ====
   - 【張】 (zoeng1)
     ++
-    1. (_mahjong_) Classifier for (revealed) tiles. Also spelt 章.
+    1. (_mahjong_) Classifier for tiles (especially when revealed). Also spelt 章.
        ==
        - 九張 (gau2 zoeng1): "Nine tiles [revealed]" (three melds).
        - 十二張 (sap6 ji6 zoeng1): "Twelve tiles [revealed]" (four melds).
        - 跟張 (gan1 zoeng1): "Follow [the revealed] tile" (which is safe).
+       - 凸張 (dat6 zoeng1): "[Having an] extra [unmeldable] tile" (which might result in a loss on discard).
        ==
     ++
   ====
