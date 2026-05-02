@@ -459,6 +459,15 @@ window.onload = applyFilter;
       - (_noun-like_) food-stand
       ==
   //
+    , `bjang`
+    , [防](/entries/fong#rendering-防)
+    ,
+      ==
+      - (_noun-like_) dyke
+      - (_verb-like_) [to] prevent, [to] guard against, (_met._) [to] forfend
+      - (_verb-like_) [to] withstand, (_met._) [to] match
+      ==
+  //
     , `bjojH`
     , [吠](/entries/fai#rendering-吠)
     ,

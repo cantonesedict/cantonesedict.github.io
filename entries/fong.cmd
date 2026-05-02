@@ -621,6 +621,7 @@ $$
 =={.modern}
 - $妨4
 - $房4
+- $防4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -756,6 +757,64 @@ L
     ==
     - (_noun-like_) side-room, room
     - (_noun-like_) food-stand
+    ==
+  ====
+$$
+
+### 防4 | _(4)Fong_ [[fong4]]
+
+$$
+R
+  ⾩ + 4
+U
+  U+9632
+A
+  ==
+  - 埅
+  ==
+V
+  ==
+  - fong1 (per 《集韻》分房切 for "match" sense)
+  ==
+F
+  ==
+  - (F1.98 防) 提防關防禦也滿也禁也
+  ==
+W
+  ====
+  - [[Page~56 (4)防]]
+    ==
+    - A bank, a levee, a dyke [[Kangxi: 隄也]];
+    - a defense [[Kangxi: 鄣也, 防禦也]];
+    - a screen [[Kangxi: 容謂之防, 形如今牀頭小曲屛風唱射者所以自防隱也]];
+    - to guard against [[Kangxi: 備也]], to keep off, to defend, to repress, to prohibit [[Kangxi: 禁也]];
+    - to provide against;
+    - _(4)fong p(i/)(6)_
+        [[fong4 bei6 防備]]
+        to prepare for, to be ready, to be on one's guard;
+    - _(4)fong (1)k(i/)_
+        [[fong4 gei1 防饑]],
+        to provide against dearth;
+    - _(4)fong kam(3)_
+        [[fong4 gam3 防禁]]
+        to stop;
+    - _(4)fong (2)shau_
+        [[fong4 sau2 防守]],
+        to protect``, to defend``.
+    ==
+  ====
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  1. To withstand, to match (Kangxi: 防比也, 猶當也, 毛音方鄭音房).
+  ++
+L
+  ====
+  * 【防】 (bjang)
+    ==
+    - (_noun-like_) dyke
+    - (_verb-like_) [to] prevent, [to] guard against, (_met._) [to] forfend
+    - (_verb-like_) [to] withstand, (_met._) [to] match
     ==
   ====
 $$
