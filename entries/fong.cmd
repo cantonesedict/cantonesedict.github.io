@@ -338,7 +338,7 @@ W
 S
   ==
   - ($枋beng3) (TODO) <## same as 柄 ##>
-  - ($枋fong2) (TODO) <## same as 舫 ##>
+  - ($枋fong2)
   ==
 $$
 
@@ -574,6 +574,7 @@ $$
 - $彷2
 - $慌2
 - $昉2
+- ($枋2)
 - $紡2
 - $舫2
 - $訪2
@@ -781,6 +782,28 @@ P
   ++
 $$
 
+###+ 枋2 | _(2)Fong_ [[fong2]]
+
+$$.
+R
+  ⽊ + 4
+U
+  U+678B
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 舫. **See $舫fong2 for the canonical entry.**
+  ++
+S
+  ==
+  - ($枋beng3) (TODO) <## same as 柄 ##>
+  - $枋fong1
+  ==
+$$
+
 ### 紡2 | _(2)Fong_ [[fong2]]
 
 $$
@@ -827,6 +850,10 @@ R
   ⾈ + 4
 U
   U+822B
+A
+  ==
+  - $枋2
+  ==
 V
   ==
   - bong3 (per 《廣韻》補曠切)

@@ -1129,7 +1129,7 @@ For all radicals, see [Index of characters by radical](./).
       - $杵cyu5
       - $杼cyu5
       - {$枌fan1, $枌fan4}
-      - $枋fong1
+      - {$枋fong1, $枋fong2}
       - $极zaap6
       - {$枕zam2, $枕zam3}
       - $枝zi1

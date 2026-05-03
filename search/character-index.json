@@ -7587,6 +7587,10 @@
 "fong1":{
 "isCanonical":true,
 "text":"U+678B (F1.96 枋) 木枋門枋 (Page 55 枋) A wood used by cartwrights (Kangxi: 木可作車), and shipwrights; ~~the white~~ board``s`` used by fishermen to ~~entice~~ ``wall`` fish (Kangxi: 蜀人以木偃魚曰枋); _su fong muk_ (sou1 fong1 muk6 蘇枋木) a kind of logwood or sapanwood; _mun fong_ (mun4 fong1 門枋), door-posts."
+},
+"fong2":{
+"isCanonical":false,
+"text":"U+678B"
 }
 },
 "祊":{
@@ -7652,7 +7656,7 @@
 "舫":{
 "fong2":{
 "isCanonical":true,
-"text":"U+822B bong3 (per 《廣韻》補曠切) fong3 (per 《廣韻》甫妄切) (F1.99 舫) 船名 (Page 57 舫) ~~a pilot or steersman (Kangxi: 船師也);~~ _wa fong_ (waa6 fong2 畫舫), a flower or other handsome river boat; _fong chung t'am yam_ (fong2 zung1 taam4 jam2 舫中談飲), conversing and drinking in a boat. Williams' \"a pilot or steersman\": This is a faithful rendering of Kangxi 《說文》船師也, but that definition is incorrect. According to 段玉裁's annotations of 《說文》, the explanation 船師也 should simply be 船也, with the logic being that in 舫人習水者, we simply have 舫 meaning \"boat\" and 人 meaning \"man\" (i.e. it is the compound 舫人 that means \"helmsman\"). Kangxi gives analysis in the same vein from 《正字通》. A boat. 【舫】 (pjangH, pangH) (_noun-like_) boat"
+"text":"U+822B 枋 bong3 (per 《廣韻》補曠切) fong3 (per 《廣韻》甫妄切) (F1.99 舫) 船名 (Page 57 舫) ~~a pilot or steersman (Kangxi: 船師也);~~ _wa fong_ (waa6 fong2 畫舫), a flower or other handsome river boat; _fong chung t'am yam_ (fong2 zung1 taam4 jam2 舫中談飲), conversing and drinking in a boat. Williams' \"a pilot or steersman\": This is a faithful rendering of Kangxi 《說文》船師也, but that definition is incorrect. According to 段玉裁's annotations of 《說文》, the explanation 船師也 should simply be 船也, with the logic being that in 舫人習水者, we simply have 舫 meaning \"boat\" and 人 meaning \"man\" (i.e. it is the compound 舫人 that means \"helmsman\"). Kangxi gives analysis in the same vein from 《正字通》. A boat. 【舫】 (pjangH, pangH) (_noun-like_) boat"
 }
 },
 "訪":{
