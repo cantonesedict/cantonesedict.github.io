@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-05-02
+* %date-modified --> 2026-05-03
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -466,6 +466,13 @@ window.onload = applyFilter;
       - (_noun-like_) dyke
       - (_verb-like_) [to] prevent, [to] guard against, (_met._) [to] forfend
       - (_verb-like_) [to] withstand, (_met._) [to] match
+      ==
+  //
+    , `bjang`
+    , [魴](/entries/fong#rendering-魴)
+    ,
+      ==
+      - (_noun-like_) bream
       ==
   //
     , `bjojH`

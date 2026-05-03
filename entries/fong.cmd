@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fong
-* %date-modified --> 2026-05-02
+* %date-modified --> 2026-05-03
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -621,6 +621,7 @@ $$
 - $妨4
 - $房4
 - $防4
+- $魴4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -842,6 +843,35 @@ L
     - (_noun-like_) dyke
     - (_verb-like_) [to] prevent, [to] guard against, (_met._) [to] forfend
     - (_verb-like_) [to] withstand, (_met._) [to] match
+    ==
+  ====
+$$
+
+### 魴4 | _(4)Fong_ [[fong4]]
+
+$$
+R
+  ⿂ + 4
+U
+  U+9B74
+F
+  ==
+  - (F1.98 魴) 魚名
+  ==
+W
+  ====
+  - [[Page~56 (4)魴]]
+    ==
+    - A kind of bream, a foot long, common at Canton;
+    - the tail is red [[Kangxi: 赤尾魚]],
+      or is said to turn so from ~~fear~~ ``toil`` [[Kangxi: 魚勞則尾赤, 魴魚尾本不赤赤故爲勞也]].
+    ==
+  ====
+L
+  ====
+  * 【魴】 (bjang)
+    ==
+    - (_noun-like_) bream
     ==
   ====
 $$
