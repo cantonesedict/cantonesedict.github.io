@@ -604,6 +604,7 @@ $$
 - $紡2
 - $舫2
 - $訪2
+- ($貺2)
 - ($髣2)
 ==
 </nav>
@@ -987,6 +988,30 @@ L
     - (_verb-like_) [to] inquire
     ==
   ====
+$$
+
+### 貺2 | _(2)Fong_ [[fong2]]
+
+$$.
+R
+  ⾙ + 5
+U
+  U+8CBA
+F
+  ==
+  - (F1.99 貺) ::[賜]也::
+  ==
+W
+  ====
+  - [[Page~57 (2)貺]]
+    --
+    [[Reading variation. **See $貺fong3 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed left component of 賜.
+  ==
 $$
 
 ### 髣2 | _(2)Fong_ [[fong2]]

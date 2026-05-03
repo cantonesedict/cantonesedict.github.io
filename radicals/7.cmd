@@ -491,6 +491,7 @@ For all radicals, see [Index of characters by radical](./).
       - $貯cyu5
       - {$費fai3, $費fai6}
       - {$賁fan4, $賁fan5, $賁fei4}
+      - $貺fong2
       ==
       </nav>
   //
