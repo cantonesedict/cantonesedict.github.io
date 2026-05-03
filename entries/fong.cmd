@@ -55,6 +55,7 @@ $$
 - $枋1
 - ($祊1)
 - $肓1
+- ($舫1)
 - $芳1
 - $荒1
 - $衁1
@@ -191,7 +192,7 @@ U
 A
   ==
   - $枋1 (for "boats abreast" and "raft" senses)
-  - 舫 (for "boats abreast" sense)
+  - $舫1 (for "boats abreast" and "raft" sense)
   ==
 F
   ==
@@ -403,6 +404,27 @@ L
     - (_noun-like_) mediastinal-floor
     ==
   ====
+$$
+
+###+ 舫1 | _(1)Fong_ [[fong1]]
+
+$$.
+R
+  ⾈ + 4
+U
+  U+822B
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 方 (for the "boats abreast" and "raft" senses). **See $方fong1 for the canonical entry.**
+  ++
+S
+  ==
+  - $舫fong2
+  ==
 $$
 
 ### 芳1 | _(1)Fong_ [[fong1]]
@@ -905,6 +927,10 @@ L
     - (_noun-like_) boat
     ==
   ====
+S
+  ==
+  - ($舫fong1)
+  ==
 $$
 
 ### 訪2 | _(2)Fong_ [[fong2]]
