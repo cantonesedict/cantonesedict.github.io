@@ -563,6 +563,7 @@ $$
 - $慌2
 - $昉2
 - $紡2
+- $訪2
 - ($髣2)
 ==
 </nav>
@@ -804,6 +805,62 @@ S
   ==
   - ($紡bong2) <## same as 綁 ##>
   ==
+$$
+
+### 訪2 | _(2)Fong_ [[fong2]]
+
+$$
+R
+  ⾔ + 4
+U
+  U+8A2A
+V
+  ==
+  - fong3 (per ::《廣韻》敷[亮]切::)
+  ==
+F
+  ==
+  - (F1.99 訪) ::訪問謀也[謁]見也::
+  ==
+W
+  ====
+  - [[Page~56 (2)訪]]
+    ==
+    - To inquire ``extensively``, to search out, to inform one's self [[Kangxi: 汎謀曰訪 etc., 問也]];
+    - to ask advice of;
+    - to consult, to deliberate [[Kangxi: 謀也, 議也]];
+    - _(2)fong man(6)_
+        [[fong2 man6 訪問]]
+        to inquire about;
+    - _(2)fong (4)n(a/)_
+        [[fong2 naa4 訪拿]],
+        to find out and seize;
+    - _(2)fong ch(')(a/)t(8)_
+        [[fong2 caat3 訪察]]
+        to examine into a matter officially;
+    - _(2)fong (4)k(')au_
+        [[fong2 kau4 訪求]],
+        to inquire for carefully, to search.
+    ==
+  ====
+C
+  ==
+  - The reading _(2)fong_ (fong2) is not unattested;
+    Kangxi has ::又《正字通》{𡚱=⿰女巳}罔切芳上聲義同::.
+  - Fan Wan entry: Corrected malformed bottom-right component of 謁.
+  - Williams' 訪問: Now "interview".
+  ==
+P
+  ++
+  1. To visit (Kangxi: 及也見也, 謁見也).
+  ++
+L
+  ====
+  * 【訪】 (phjangH)
+    ==
+    - (_verb-like_) [to] inquire
+    ==
+  ====
 $$
 
 ### 髣2 | _(2)Fong_ [[fong2]]

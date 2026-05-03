@@ -3262,6 +3262,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] seem (like), [to] appear like
       ==
   //
+    , `phjangH`
+    , [訪](/entries/fong#rendering-訪)
+    ,
+      ==
+      - (_verb-like_) [to] inquire
+      ==
+  //
     , `phjojH`
     , [肺](/entries/fai#rendering-肺)
     ,
