@@ -255,6 +255,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $謊fong2
       - $謅zau1
       - $謝ze6
       ==

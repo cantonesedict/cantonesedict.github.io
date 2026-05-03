@@ -605,6 +605,7 @@ $$
 - $紡2
 - $舫2
 - $訪2
+- ($謊2)
 - ($貺2)
 - ($髣2)
 ==
@@ -989,6 +990,34 @@ L
     - (_verb-like_) [to] inquire
     ==
   ====
+$$
+
+### 謊2 | _(2)Fong_ [[fong2]]
+
+$$.
+R
+  ⾔ + 10
+U
+  U+8B0A
+F
+  ==
+  - (F1.99 謊) 說謊謬言也
+  ==
+W
+  ====
+  - [[Page~57 (2)謊]]
+    --
+    [[Reading variation. **See $謊fong1 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Williams and Kangxi print the headword as ⿰訁⿱艹㠩.
+  ==
+S
+  ==
+  - $謊fong1 (TODO)
+  ==
 $$
 
 ### 貺2 | _(2)Fong_ [[fong2]]
