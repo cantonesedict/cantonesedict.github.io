@@ -561,6 +561,7 @@ $$
 - ($倣2)
 - $彷2
 - $慌2
+- $昉2
 - $紡2
 - ($髣2)
 ==
@@ -726,6 +727,44 @@ S
   ==
   - $慌fong1
   ==
+$$
+
+### 昉2 | _(2)Fong_ [[fong2]]
+
+$$
+R
+  ⽇ + 4
+U
+  U+6609
+F
+  ==
+  - (F1.99 ::[昉]::) 始也且初明也
+  ==
+W
+  ====
+  - [[Page~56 (2)昉]]
+    ==
+    - The first light of the morning [[Fan Wan: 初明也]];
+    - ~~clear, bright [[Kangxi: 明也]];~~
+    - to begin [[Fan Wan: 始也]], the commencement;
+    - _(2)fong l(e/)ung(6)_
+        [[fong2 loeng6 昉亮]]
+        bright;
+    - _(2)fong l(e/)ung(6) p(')(a/)u(3)_
+        [[fong2 loeng6 paau3 昉亮炮]]
+        the morning gun.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword 眆 to 昉.
+  - Williams' "clear, bright": This is a faithful rendering
+    of Kangxi 《說文》明也, but that is not a very good definition.
+  ==
+P
+  ++
+  1. Just, only then (Kangxi: 適也).
+  ++
 $$
 
 ### 紡2 | _(2)Fong_ [[fong2]]
