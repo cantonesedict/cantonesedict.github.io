@@ -190,6 +190,7 @@ U
   U+65B9
 A
   ==
+  - $枋1 (for "boats abreast" and "raft" senses)
   - 舫 (for "boats abreast" sense)
   ==
 F
@@ -334,6 +335,9 @@ W
         [[mun4 fong1 門枋]],
         door-posts.
     ==
+    --
+    [[Otherwise, an alternative form of 方 (for the "boats abreast" and "raft" senses). **See $方fong1 for the canonical entry.**]]
+    --
   ====
 S
   ==
