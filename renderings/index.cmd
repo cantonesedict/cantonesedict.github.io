@@ -9484,6 +9484,14 @@ window.onload = applyFilter;
       - (_noun-like_) brightness
       ==
   //
+    , `xjwangH`
+    , [貺](/entries/fong#rendering-貺)
+    ,
+      ==
+      - (_verb-like_) [to] bestow
+      - (_noun-like_) bestowment
+      ==
+  //
     , `xjwe`
     , [撝](/entries/fai#rendering-撝)
     ,

@@ -7673,6 +7673,10 @@
 "fong2":{
 "isCanonical":false,
 "text":"U+8CBA (F1.99 貺) 賜也 (Page 57 貺) Fan Wan entry: Corrected malformed left component of 賜."
+},
+"fong3":{
+"isCanonical":true,
+"text":"U+8CBA fong2 (per Fan Wan) (F1.99 貺 _Fong_ (fong2)) 賜也 (Page 57 貺 _Fong_ (fong2); here normalised to _Fong_ (fong3)) To give, to bestow (Kangxi: 賜也, 與也) (said by the recipient); _fong ts'z'_ (fong3 ci3 貺賜) conferred; _fong i_ (fong3 ji4 貺儀), a present given. Fan Wan entry: Corrected malformed left component of 賜. 【貺】 (xjwangH) (_verb-like_) to bestow (_noun-like_) bestowment"
 }
 },
 "髣":{

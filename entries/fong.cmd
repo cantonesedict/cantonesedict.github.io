@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [fong1](#1)
 - [fong2](#2)
+- [fong3](#3)
 - [fong4](#4)
 ==
 </nav>
@@ -1005,12 +1006,16 @@ W
   ====
   - [[Page~57 (2)貺]]
     --
-    [[Reading variation. **See $貺fong3 for the canonical entry.**]] [[TODO]]
+    [[Reading variation. **See $貺fong3 for the canonical entry.**]]
     --
   ====
 C
   ==
   - Fan Wan entry: Corrected malformed left component of 賜.
+  ==
+S
+  ==
+  - $貺fong3
   ==
 $$
 
@@ -1034,6 +1039,63 @@ W
     [[Alternative form of 彷. **See $彷fong2 for the canonical entry.**]]
     --
   ====
+$$
+
+
+##{#3 .williams} ``Fong(3)`` [[fong3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $貺3
+==
+</nav>
+<## /tone-3-characters ##>
+
+###+ 貺3 | _Fong(3)_ [[fong3]]
+
+$$
+R
+  ⾙ + 5
+U
+  U+8CBA
+V
+  ==
+  - fong2 (per Fan Wan)
+  ==
+F
+  ==
+  - (F1.99 貺 _(2)Fong_ (fong2)) ::[賜]也::
+  ==
+W
+  ====
+  - [[Page~57 (2)貺 _(2)Fong_ (fong2); here normalised to _Fong(3)_ (fong3)]]
+    ==
+    - To give, to bestow [[Kangxi: 賜也, 與也]] (said by the recipient);
+    - _~~(2)fong~~ ``fong(3)`` ts(')z'(3)_
+        [[fong3 ci3 貺賜]]
+        conferred;
+    - _~~(2)fong~~ ``fong(3)`` (4)(i/)_
+        [[fong3 ji4 貺儀]],
+        a present given.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed left component of 賜.
+  ==
+L
+  ====
+  * 【貺】 (xjwangH)
+    ==
+    - (_verb-like_) [to] bestow
+    - (_noun-like_) bestowment
+    ==
+  ====
+S
+  ==
+  - ($貺fong2)
+  ==
 $$
 
 
