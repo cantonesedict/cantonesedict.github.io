@@ -552,15 +552,36 @@ L
 $$
 
 
-##{#2 .williams} ``(2)Fong`` [[fong2 陰上]]
+##{#2 .williams} (2)Fong [[fong2 陰上]]
 
 <## tone-2-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- ($倣2)
 - $慌2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 倣2 | _(2)Fong_ [[fong2]]
+
+$$.
+R
+  ⼈ + 8
+U
+  U+5023
+F
+  ==
+  - (F1.99 倣) 依也效也
+  ==
+W
+  ====
+  - [[Page~56 (2)倣]]
+    --
+    [[Alternative form of 仿. **See $仿fong2 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+$$
 
 ###+ 慌2 | _(2)Fong_ [[fong2]]
 
