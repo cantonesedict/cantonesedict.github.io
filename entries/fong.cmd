@@ -561,6 +561,7 @@ $$
 - ($倣2)
 - $彷2
 - $慌2
+- $紡2
 - ($髣2)
 ==
 </nav>
@@ -724,6 +725,45 @@ L
 S
   ==
   - $慌fong1
+  ==
+$$
+
+### 紡2 | _(2)Fong_ [[fong2]]
+
+$$
+R
+  ⽷ + 4
+U
+  U+7D21
+F
+  ==
+  - (F1.99 紡) 紡績
+  ==
+W
+  ====
+  - [[Page~56 (2)紡]]
+    ==
+    - To spin, to twist into thread, to twine [[Kangxi: 績紡, 謂紡切麻絲之屬爲纑縷也]];
+    - lines, threads;
+    - _(2)fong tsik(7)_
+        [[fong2 zik1 紡績]]
+        to spin;
+    - _(2)fong (1)sh(a/)_
+        [[fong2 saa1 紡紗]],
+        to spin cotton yarn.
+    ==
+  ====
+L
+  ====
+  * 【紡】 (phjangX)
+    ==
+    - (_verb-like_) [to] spin
+    - (_noun-like_) spun-silk
+    ==
+  ====
+S
+  ==
+  - ($紡bong2) <## same as 綁 ##>
   ==
 $$
 

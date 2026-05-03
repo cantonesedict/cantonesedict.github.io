@@ -3247,6 +3247,14 @@ window.onload = applyFilter;
       - Used in [彷彿](/entries/fat#rendering-彷彿).
       ==
   //
+    , `phjangX`
+    , [紡](/entries/fong#rendering-紡)
+    ,
+      ==
+      - (_verb-like_) [to] spin
+      - (_noun-like_) spun-silk
+      ==
+  //
     , `phjangX phjut`
     , [彷彿](/entries/fat#rendering-彷彿)
     ,
