@@ -559,6 +559,7 @@ $$
 =={.modern}
 - $仿2
 - ($倣2)
+- $彷2
 - $慌2
 ==
 </nav>
@@ -594,6 +595,9 @@ W
         [[soeng1 fong2 相仿]],
         much alike.
     ==
+    --
+    [[Alternative form of 彷. See $彷fong2.]]
+    --
   ====
 C
   ==
@@ -623,6 +627,54 @@ W
     [[Alternative form of 仿. **See $仿fong2 for the canonical entry.**]]
     --
   ====
+$$
+
+### 彷2 | _(2)Fong_ [[fong2]]
+
+$$
+R
+  ⼻ + 4
+U
+  U+5F77
+A
+  ==
+  - $仿2
+  - 髣
+  ==
+F
+  ==
+  - (F1.99 髣) 髣髴近似也
+  - (F1.99 彷) 同上
+  - (F1.99 恍) 同上
+  ==
+W
+  ====
+  - [[Page~56 (2)彷(2)髣]]
+    ==
+    - Like, resembling [[Kangxi 彷: 彷彿也]], ~~seen indistinctly [[Kangxi: 彷彿見不審也]]~~;
+    - seeming, ~~dreamy~~;
+    - _(2)fong fat(7)_
+        [[fong2 fat1 彷彿]]
+        somewhat like;
+    - [[...]].
+    <## TODO: Correct Williams' 彷徨, 彷徉 to $彷pong4 ##>
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: The alternative form 恍 is erroneous.
+  ==
+L
+  ====
+  * 【彷】 (phjangX)
+    ==
+    - Used in [彷彿](/entries/fat#rendering-彷彿).
+    ==
+  ====
+S
+  ==
+  - $彷pong4 (TODO)
+  ==
 $$
 
 ###+ 慌2 | _(2)Fong_ [[fong2]]

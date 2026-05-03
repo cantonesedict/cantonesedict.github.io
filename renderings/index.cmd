@@ -3240,6 +3240,13 @@ window.onload = applyFilter;
       - (_adjective-like_) fragrant
       ==
   //
+    , `phjangX`
+    , [彷](/entries/fong#rendering-彷)
+    ,
+      ==
+      - Used in [彷彿](/entries/fat#rendering-彷彿).
+      ==
+  //
     , `phjangX phjut`
     , [彷彿](/entries/fat#rendering-彷彿)
     ,
