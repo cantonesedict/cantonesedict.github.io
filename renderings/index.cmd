@@ -3169,6 +3169,13 @@ window.onload = applyFilter;
       - (_adjective-like_) luxuriant
       ==
   //
+    , `pangH`
+    , [舫](/entries/fong#rendering-舫)
+    ,
+      ==
+      - (_noun-like_) boat
+      ==
+  //
     , `phj+j`
     , [妃](/entries/fei#rendering-妃)
     ,
@@ -3540,6 +3547,13 @@ window.onload = applyFilter;
       - (_adverb-like_) abreast, (_met._) [to] compare, raft
       - (_adverb-like_) just, (just) now, [only] then, when
       - (_adverb-like_) about to
+      ==
+  //
+    , `pjangH`
+    , [舫](/entries/fong#rendering-舫)
+    ,
+      ==
+      - (_noun-like_) boat
       ==
   //
     , `pjit pjut`

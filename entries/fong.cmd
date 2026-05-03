@@ -188,6 +188,10 @@ R
   ⽅ + 0
 U
   U+65B9
+A
+  ==
+  - 舫 (for "boats abreast" sense)
+  ==
 F
   ==
   - (F1.96 方) ::方正方[術]方法[量]也矩也[類]也且也有也又四方又方圓::
@@ -255,6 +259,13 @@ W
         [[hoi1 fong1 開方]],
         to commence a new business.
     ==
+  - [[Page~57 (2)舫 _(2)Fong_ (fong2); here corrected to _(1)Fong_ (fong1) and normalised to 方]]
+    ==
+    - Two boats alongside of each other [[Kangxi 舫: 倂船也]];
+    - [[...]];
+    - ~~a galley of fifty men;~~
+    - [[...]].
+    ==
   ====
 C
   ==
@@ -265,10 +276,11 @@ C
     as a definition, when it is actually an example.
   - Williams' 方略: Corrected _l(e/)uk(8)_ (loek3) to _l(e/)uk(9)_ (loek6).
   - Williams' 開方: Also to take the square root.
+  - Williams' "a galley of fifty men": This is a misreading of Kangxi 一舫載五十人
+    as a definition, when it is actually an example.
   ==
 P
   ++
-  1. Boats abreast (Kangxi: 倂船也).
   1. A raft (Kangxi: 方泭也).
   1. Just grown (Kangxi: 穀始生未實也).
   1. Just now.
@@ -563,6 +575,7 @@ $$
 - $慌2
 - $昉2
 - $紡2
+- $舫2
 - $訪2
 - ($髣2)
 ==
@@ -760,7 +773,7 @@ C
   ==
   - Fan Wan entry: Corrected headword 眆 to 昉.
   - Williams' "clear, bright": This is a faithful rendering
-    of Kangxi 《說文》明也, but that is not a very good definition.
+    of Kangxi 《說文》明也, but that is a rather poor definition.
   ==
 P
   ++
@@ -805,6 +818,62 @@ S
   ==
   - ($紡bong2) <## same as 綁 ##>
   ==
+$$
+
+### 舫2 | _(2)Fong_ [[fong2]]
+
+$$
+R
+  ⾈ + 4
+U
+  U+822B
+V
+  ==
+  - bong3 (per 《廣韻》補曠切)
+  - fong3 (per 《廣韻》甫妄切)
+  ==
+F
+  ==
+  - (F1.99 舫) 船名
+  ==
+W
+  ====
+  - [[Page~57 (2)舫]]
+    ==
+    - [[...]];
+    - ~~a pilot or steersman [[Kangxi: 船師也]];~~
+    - [[...]];
+    - _w(a/)(6) (2)fong_
+        [[waa6 fong2 畫舫]],
+        a flower or other handsome river boat;
+    - _(2)fong (1)chung (4)t(')(a/)m (2)yam_
+        [[fong2 zung1 taam4 jam2 舫中談飲]],
+        conversing and drinking in a boat.
+    ==
+  ====
+C
+  ==
+  - Williams' "a pilot or steersman":
+    This is a faithful rendering of Kangxi 《說文》船師也,
+    but that definition is incorrect.
+    According to 段玉裁's annotations of 《說文》,
+    the explanation 船師也 should simply be 船也,
+    with the logic being that in 舫人習水者,
+    we simply have 舫 meaning "boat" and 人 meaning "man"
+    (i.e. it is the compound 舫人 that means "helmsman").
+    Kangxi gives analysis in the same vein from 《正字通》.
+  ==
+P
+  ++
+  1. A boat.
+  ++
+L
+  ====
+  * 【舫】 (pjangH, pangH)
+    ==
+    - (_noun-like_) boat
+    ==
+  ====
 $$
 
 ### 訪2 | _(2)Fong_ [[fong2]]
