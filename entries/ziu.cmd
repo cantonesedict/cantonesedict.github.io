@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2026-04-06
+* %date-modified --> 2026-05-03
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1203,7 +1203,7 @@ W
   ====
   - [[Page~24* 召(6)]]
     ==
-    - To call, to summon [[Kangxi: {𧦝=⿰言乎}也, 以手曰招以言曰召]], to invoke, to cite;
+    - To call, to summon [[Kangxi: {𧦝=⿰訁乎}也, 以手曰招以言曰召]], to invoke, to cite;
     - to order one to be present;
     - _chi(u/)(6) (2)ting_
         [[ziu6 ding2 召頂]],

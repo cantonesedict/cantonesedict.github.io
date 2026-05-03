@@ -1440,7 +1440,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected ⿰糸⿱刀交 to 緩.
+  - Fan Wan entry: Corrected ⿰糸@⿱刀交 to 緩.
   ==
 P
   ++

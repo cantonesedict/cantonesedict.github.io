@@ -970,7 +970,7 @@ W
   ====
   - [[Page~32* (5)紵]]
     --
-    ~~Contracted to ⿰糸⿳宀一　 [[紵 with the last stroke unwritten]],
+    ~~Contracted to ⿰糸@⿳宀一　 [[紵 with the last stroke unwritten]],
     unless it is used for the private name of Hienfung [[咸豐]].~~
     --
     ==
@@ -980,10 +980,10 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Normalised {𮈔=⿰糸系} to 絲.
+  - Fan Wan entry: Normalised {𮈔=⿰糸@系} to 絲.
   - Williams' "coarse": According to 段玉裁's annotations of 《說文》,
     粗者爲紵 should be replaced with 布白而細曰紵.
-  - Williams' "Contracted to ⿰糸⿳宀一　": Likely a mistake.
+  - Williams' "Contracted to ⿰糸@⿳宀一　": Likely a mistake.
     The personal name of Emperor 咸豐 is 奕詝, not 奕紵.
   ==
 L

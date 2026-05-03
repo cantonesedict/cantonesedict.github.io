@@ -379,7 +379,7 @@ C
   - Kangxi has the "abhor" sense under 子力切 _tsik(7)_ (zik1).
     However, 《廣韻》 explains this reading as 風堲 (which I do not comprehend),
     with the "abhor" sense instead given under 秦力切 _tsik(9)_ (zik6).
-  - Fan Wan entry: Corrected ⿰糸⿱免丿 to 讒.
+  - Fan Wan entry: Corrected ⿰糸@⿱免丿 to 讒.
   - Williams' "to make an arched grave": This is a poor rendering of
     Kangxi 堲者冶土爲{？=⿰缶專}而四周于棺之坎也.
     The idea here is that fired-brick is used

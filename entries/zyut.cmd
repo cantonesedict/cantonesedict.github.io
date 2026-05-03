@@ -600,7 +600,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~610 ::~~{？=⿱艹⿰糸邑}~~``蕝``(8)蕞(8):: _Ts(')(u:)t(8)_ (cyut3); here normalised to _Ts(u:)t(8)_ (zyut3)]]
+  - [[Page~610 ::~~{？=⿱艹⿰糸@邑}~~``蕝``(8)蕞(8):: _Ts(')(u:)t(8)_ (cyut3); here normalised to _Ts(u:)t(8)_ (zyut3)]]
     ==
     - A bundle or sheaf of coarse sedge
       used for straining or pouring spirits through [[Kangxi 蕝: ::蕝謂束茅而立之所以[縮]酒::, 通蕞]].

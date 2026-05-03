@@ -224,7 +224,7 @@ W
   ====
 $$
 
-### ~~{？=⿱艹⿰糸邑}~~``蕝``3 | _Ts(')(u:)t(8)_ [[cyut3]]
+### ~~{？=⿱艹⿰糸@邑}~~``蕝``3 | _Ts(')(u:)t(8)_ [[cyut3]]
 
 $$.
 R
@@ -238,7 +238,7 @@ F
   [[Not present]]
 W
   ====
-  - [[Page~610 ::~~{？=⿱艹⿰糸邑}~~``蕝``(8)蕞(8)::]]
+  - [[Page~610 ::~~{？=⿱艹⿰糸@邑}~~``蕝``(8)蕞(8)::]]
     --
     [[Reading variation. **See $蕝zyut3 for the canonical entry.**]]
     --
@@ -262,7 +262,7 @@ F
   ==
 W
   ====
-  - [[Page~610 ::~~{？=⿱艹⿰糸邑}~~``蕝``(8)蕞(8)::]]
+  - [[Page~610 ::~~{？=⿱艹⿰糸@邑}~~``蕝``(8)蕞(8)::]]
     --
     [[Alternative form of 蕝, and reading variation. **See $蕝zyut3 for the canonical entry.**]]
     --

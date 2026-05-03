@@ -157,10 +157,15 @@ RegexDictionaryReplacement: #.syntax.radical-strokes-spaces
   \g<radical>~+~\g<strokes>
 
 
+OrdinaryDictionaryReplacement: #.syntax.composition-suppression-cleanup
+* @ -->
+
+
 RegexDictionaryReplacement: #.syntax.composition-titles
 * \{ (?P<character> \S ) = (?P<composition> \S+? ) \}
     -->
   <span class="composition" title="\g<composition>">\g<character></span>
+- concluding_replacements: #.syntax.composition-suppression-cleanup
 
 
 RegexDictionaryReplacement: #.syntax.composition-characters

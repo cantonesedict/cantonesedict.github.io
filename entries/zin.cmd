@@ -921,7 +921,7 @@ W
   ====
 C
   ====
-  - Fan Wan entry: Corrected 栽 to 裁 and ⿰糸殳 to 殺.
+  - Fan Wan entry: Corrected 栽 to 裁 and ⿰糸@殳 to 殺.
   - Williams does not provide separate entries for 剪 and $翦2.
     In modern usage, the "scissors" and "cut" senses is spelt 剪,
     whilst the other (classical) senses are spelt 翦.
@@ -1149,7 +1149,7 @@ W
   ====
 C
   ====
-  - Fan Wan entry: Corrected 栽 to 裁 and ⿰糸殳 to 殺.
+  - Fan Wan entry: Corrected 栽 to 裁 and ⿰糸@殳 to 殺.
   - Williams does not provide separate entries for $剪2 and 翦.
     In modern usage, the "scissors" and "cut" senses is spelt 剪,
     whilst the other (classical) senses are spelt 翦.

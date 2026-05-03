@@ -355,7 +355,7 @@ W
   - [[Page~47 (1)繙]]
     ==
     - ~~To spread out~~;
-    - ~~to agitate, or wave, as the wind does~~ a flag [[Kangxi: {𦆯=⿰糸賔}繙風吹旗也]];
+    - ~~to agitate, or wave, as the wind does~~ a flag [[Kangxi: {𦆯=⿰糸@賔}繙風吹旗也]];
     - [[...]].
     ==
     --
@@ -369,9 +369,9 @@ C
     In any case, this sense does not belong here,
     as the reading is _(4)f(a/)n_ (faan4) per ::《廣韻》附[袁]切::.
   - Williams' "to agitate, or wave, as the wind does":
-    This is a misreading of Kangxi {𦆯=⿰糸賔}繙風吹旗也.
-    In, {𦆯=⿰糸賔}繙 (same as 繽繙), 繙 means flag.
-    It is {𦆯=⿰糸賔} (same as 繽, literally "disorderly")
+    This is a misreading of Kangxi {𦆯=⿰糸@賔}繙風吹旗也.
+    In, {𦆯=⿰糸@賔}繙 (same as 繽繙), 繙 means flag.
+    It is {𦆯=⿰糸@賔} (same as 繽, literally "disorderly")
     that supplies the meaning of "wave" or "flap".
   ==
 $$

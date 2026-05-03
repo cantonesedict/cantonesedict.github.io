@@ -2460,7 +2460,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected headword ⿰糸氐 to 紙.
+  - Fan Wan entry: Corrected headword ⿰糸@氐 to 紙.
   ==
 $$
 
@@ -3207,7 +3207,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected headword ⿰糸氐 to 紙.
+  - Fan Wan entry: Corrected headword ⿰糸@氐 to 紙.
   - Williams' 草紙: Also dated for toilet paper.
   ==
 L

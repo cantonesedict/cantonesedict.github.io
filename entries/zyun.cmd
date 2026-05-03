@@ -617,7 +617,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected ⿰糸⿱巳耳 to 緝.
+  - Fan Wan entry: Corrected ⿰糸@⿱巳耳 to 緝.
   - Williams erroneously has 藄 for an alternative form instead of 繤.
   ==
 L

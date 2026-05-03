@@ -946,6 +946,7 @@ class CmdSource:
             CmdSource.lint_jyutping_entering_tone(content)
             CmdSource.lint_jyutping_yod(content)
             CmdSource.lint_romanisation_character_consistency(content)
+            CmdSource.lint_composition_component_beside(content)
         except LintException as lint_exception:
             print(f'Error in `{file_name}`: {lint_exception.message}', file=sys.stderr)
             sys.exit(1)
@@ -1365,6 +1366,33 @@ class CmdSource:
                 f'vs Jyutping count `{jyutping_count}` '
                 f'in `{dual_romanisation_reduced}` '
                 f'(suppress with caret before closing bracket if content is not Jyutping)'
+            )
+
+    @staticmethod
+    def lint_composition_component_beside(content: str):
+        # Fast elimination of negative cases
+        if not re.search(pattern='[⿰⿲]', string=content):
+            return
+
+        for context_match in re.finditer(
+            pattern=r'\S* (?P<operator> [⿰⿲] ) (?P<component> [牛王糸言金] ) (?! @ ) \S*',
+            string=content,
+            flags=re.VERBOSE,
+        ):
+            context = context_match.group()
+            operator = context_match.group('operator')
+            component = context_match.group('component')
+            component_beside = component.translate(str.maketrans('牛王糸言金', '牜𤣩糹訁釒'))
+
+            if component == '糸':
+                suppression_parenthetical = f' (suppress with at after `{operator}{component}` if legitimate)'
+            else:
+                suppression_parenthetical = ''
+
+            raise LintException(
+                f'compositional component `{component}` should be component-beside `{component_beside}` '
+                f'in `{context}`'
+                f'{suppression_parenthetical}'
             )
 
     @staticmethod
