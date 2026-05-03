@@ -557,11 +557,53 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $仿2
 - ($倣2)
 - $慌2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+###+ 仿2 | _(2)Fong_ [[fong2]]
+
+$$
+R
+  ⼈ + 4
+U
+  U+4EFF
+A
+  ==
+  - $倣2
+  ==
+F
+  ==
+  - (F1.99 倣) 依也效也
+  ==
+W
+  ====
+  - [[Page~56 (2)倣; here normalised to 仿]]
+    ==
+    - To imitate [[Kangxi 倣: 傚也依也通作仿]];
+    - like;
+    - a model, a copy;
+    - _(2)fong ~~y(e/)ung(3)~~ ``y(e/)ung(6)``_ [[fong2 joeng6 仿樣]]
+        or
+      _(2)fong shik(7)_ [[fong2 sik1 仿式]]
+        follow the pattern;
+    - _(1)s(e/)ung (2)fong_
+        [[soeng1 fong2 相仿]],
+        much alike.
+    ==
+  ====
+C
+  ==
+  - Williams' 仿樣: Corrected _y(e/)ung(3)_ (joeng3) to _y(e/)ung(6)_ (joeng6).
+  ==
+S
+  ==
+  - ($仿pong4) (TODO)
+  ==
+$$
 
 ### 倣2 | _(2)Fong_ [[fong2]]
 
@@ -578,7 +620,7 @@ W
   ====
   - [[Page~56 (2)倣]]
     --
-    [[Alternative form of 仿. **See $仿fong2 for the canonical entry.**]] [[TODO]]
+    [[Alternative form of 仿. **See $仿fong2 for the canonical entry.**]]
     --
   ====
 $$

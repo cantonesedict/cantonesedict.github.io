@@ -134,6 +134,7 @@ For all radicals, see [Index of characters by radical](./).
       - {$份fan2, $份fan6}
       - $伐fat6
       - $伙fo2
+      - $仿fong2
       - $仲zung6
       ==
       </nav>
