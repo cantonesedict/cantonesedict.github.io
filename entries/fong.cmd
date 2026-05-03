@@ -60,6 +60,7 @@ $$
 - $芳1
 - $荒1
 - $衁1
+- $謊1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -590,6 +591,51 @@ L
   ====
 $$
 
+###+ 謊1 | _(1)Fong_ [[fong1]]
+
+$$
+R
+  ⾔ + 10
+U
+  U+8B0A
+A
+  ==
+  - 詤
+  - {𧧢=⿰訁巟}
+  ==
+V
+  ==
+  - fong2 (alternative per 《廣韻》許昉切 and 呼晃切 for {𧧢=⿰訁巟})
+  ==
+F
+  ==
+  - (F1.99 謊 _(2)Fong_ (fong2)) 說謊謬言也
+  ==
+W
+  ====
+  - [[Page~57 (2)謊 _(2)Fong_ (fong2); here normalised to _(1)Fong_ (fong1)]]
+    ==
+    - To talk in sleep [[Kangxi 詤: 夢言也]], incoherent;
+    - to lie, lying, raving;
+    - _~~(2)fong~~ ``(1)fong`` (4)(i/)n_
+        [[fong1 jin4 謊言]],
+        lies;
+    - _~~(2)fong~~ ``(1)fong`` mau(6)_
+        [[fong1 mau6 謊謬]]
+        untrue.
+    ==
+  ====
+C
+  ==
+  - Williams and Kangxi print the headword as ⿰訁⿱艹㠩.
+  - Williams' 謊謬: To be distinguished from 荒謬, "absurd".
+  ==
+S
+  ==
+  - ($謊fong2)
+  ==
+$$
+
 
 ##{#2 .williams} (2)Fong [[fong2 陰上]]
 
@@ -1007,7 +1053,7 @@ W
   ====
   - [[Page~57 (2)謊]]
     --
-    [[Reading variation. **See $謊fong1 for the canonical entry.**]] [[TODO]]
+    [[Reading variation. **See $謊fong1 for the canonical entry.**]]
     --
   ====
 C
@@ -1016,7 +1062,7 @@ C
   ==
 S
   ==
-  - $謊fong1 (TODO)
+  - $謊fong1
   ==
 $$
 
