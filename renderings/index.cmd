@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-05-03
+* %date-modified --> 2026-05-05
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -3547,6 +3547,15 @@ window.onload = applyFilter;
       - (_adverb-like_) abreast, (_met._) [to] compare, raft
       - (_adverb-like_) just, (just) now, [only] then, when
       - (_adverb-like_) about to
+      ==
+  //
+    , `pjangH`
+    , [放](/entries/fong#rendering-放)
+    ,
+      ==
+      - (_verb-like_) [to] banish
+      - (_verb-like_) [to] let go, [to] let down
+      - (_verb-like_) [to] (let) loose
       ==
   //
     , `pjangH`

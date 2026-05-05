@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fong
-* %date-modified --> 2026-05-03
+* %date-modified --> 2026-05-05
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1117,15 +1117,98 @@ W
 $$
 
 
-##{#3 .williams} ``Fong(3)`` [[fong3 陰去]]
+##{#3 .williams} Fong(3) [[fong3 陰去]]
 
 <## tone-3-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $放3
 - $貺3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 放3 | _Fong(3)_ [[fong3]]
+
+$$
+R
+  ⽁ + 4
+U
+  U+653E
+F
+  ==
+  - (F1.100 放) 放肆放緃放逐去也散也又置之於此曰放
+  ==
+W
+  ====
+  - [[Page~57 放(3)]]
+    ==
+    - To reject, to let off;
+    - to let go [[Kangxi: 棄也]], to extend, to liberate, to loose;
+    - to lay down [[Kangxi: 放置也]];
+    - to indulge [[Kangxi: 放縱也]], to relax, to dissipate;
+    - ~~to scatter;~~
+    - to open out;
+    - ~~accord;~~
+    - _fong(3) (1)sung_
+        [[fong3 sung1 放鬆]],
+        to loosen;
+    - _fong(3) tsung(3)_
+        [[fong3 zung3 放縱]]
+        let him go, to spoil by indulgence;
+    - _fong(3) sz'(3)_
+        [[fong3 si3 放肆]]
+        presumptuous, impudent;
+    - _fong(3) (1)sam_
+        [[fong3 sam1 放心]],
+        easy about it, unsolicitous;
+    - _fong(3) ch(a/)i(3)_
+        [[fong3 zaai3 放債]]
+        to invest money;
+    - _fong(3) ~~(1)shang~~ ``(1)sh(a/)ng``_
+        [[fong3 saang1 放生]],
+        to let loose to live (as the Budhists do);
+    - _fong(3) (2)shau_
+        [[fong3 sau2 放手]],
+        let go!
+    - _fong(3) tong(6)_
+        [[fong3 dong6 放蕩]]
+        ~~willful~~ ``without restraint``;
+    - _fong(3) (1)h(a/)u_
+        [[fong3 haau1 放？]],
+        gone;
+    - _fong(3) tsoi(6) ~~ko(3)~~ ``(2)ko`` ch(')(u:)(3)_
+        [[fong3 zoi6 go2 cyu3 放在嗰處]]
+        put it there.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: 此 is very close to being 比.
+  - Williams' "to scatter": This is a rendering of Kangxi 散也,
+    which is vague, but seems to be explaining
+    the "presumptuous" sense (Kangxi: 妄也, 散也, 肆也捨也, 廢也).
+  - Williams' 放鬆: Or, to relax.
+  - Williams' 放債: Or, to lend money (for interest).
+  - Williams' 放生: Changed _(1)shang_ (sang1)
+    to vernacular reading _(1)sh(a/)ng_ (saang1).
+  - Williams' 放在嗰處: Changed _ko(3)_ (go3) to modern _(2)ko_ (go2).
+  ==
+P
+  ++
+  1. To banish, to exile (Kangxi: 逐也, 放逐).
+  1. To issue.
+  ++
+L
+  ====
+  * 【放】 (pjangH)
+    ==
+    - (_verb-like_) [to] banish
+    - (_verb-like_) [to] let go, [to] let down
+    - (_verb-like_) [to] (let) loose
+    ==
+  ====
+$$
 
 ###+ 貺3 | _Fong(3)_ [[fong3]]
 

@@ -7695,6 +7695,12 @@
 "text":"U+9AE3 (F1.99 髣) 髣髴近似也 (F1.99 彷) 同上 (F1.99 恍) 同上 (Page 56 彷髣)"
 }
 },
+"放":{
+"fong3":{
+"isCanonical":true,
+"text":"U+653E (F1.100 放) 放肆放緃放逐去也散也又置之於此曰放 (Page 57 放) To reject, to let off; to let go (Kangxi: 棄也), to extend, to liberate, to loose; to lay down (Kangxi: 放置也); to indulge (Kangxi: 放縱也), to relax, to dissipate; ~~to scatter;~~ to open out; ~~accord;~~ _fong sung_ (fong3 sung1 放鬆), to loosen; _fong tsung_ (fong3 zung3 放縱) let him go, to spoil by indulgence; _fong sz'_ (fong3 si3 放肆) presumptuous, impudent; _fong sam_ (fong3 sam1 放心), easy about it, unsolicitous; _fong chai_ (fong3 zaai3 放債) to invest money; _fong shang_ (fong3 saang1 放生), to let loose to live (as the Budhists do); _fong shau_ (fong3 sau2 放手), let go! _fong tong_ (fong3 dong6 放蕩) ~~willful~~ ``without restraint``; _fong hau_ (fong3 haau1 放？), gone; _fong tsoi ko ch'u_ (fong3 zoi6 go2 cyu3 放在嗰處) put it there. Fan Wan entry: 此 is very close to being 比. Williams' \"to scatter\": This is a rendering of Kangxi 散也, which is vague, but seems to be explaining the \"presumptuous\" sense (Kangxi: 妄也, 散也, 肆也捨也, 廢也). Williams' 放鬆: Or, to relax. Williams' 放債: Or, to lend money (for interest). Williams' 放生: Changed _shang_ (sang1) to vernacular reading _shang_ (saang1). Williams' 放在嗰處: Changed _ko_ (go3) to modern _ko_ (go2). To banish, to exile (Kangxi: 逐也, 放逐). To issue. 【放】 (pjangH) (_verb-like_) to banish (_verb-like_) to let go, to let down (_verb-like_) to (let) loose"
+}
+},
 "妨":{
 "fong4":{
 "isCanonical":true,
