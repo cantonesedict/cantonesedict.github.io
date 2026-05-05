@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Cantonese phonology
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-05-05
 * %copyright-prior-years --> 2024--
 * %meta-description --> Cantonese phonology
 
@@ -1216,6 +1216,11 @@ to the high level-tone pitch towards the end of the syllable.
 For example, in 操舟可學邪 "can handling of boats [be] learnt?",
 the particle 邪 je4 starts at the low level-tone pitch,
 but undergoes a quick change to end on the high level-tone pitch.
+--
+--{.modern}
+(Actually, on second thought, this type of intonation
+also applies to the final syllable of vernacular interrogative phrases,
+e.g. to 食 in 重唔食 "[why have you] still not [started] eating".)
 --
 
 
