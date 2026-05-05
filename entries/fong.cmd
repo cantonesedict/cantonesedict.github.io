@@ -310,7 +310,7 @@ L
   ====
 S
   ==
-  - ($方fong3) (TODO) <## same as 放 ##>
+  - ($方fong3)
   ==
 $$
 
@@ -1162,6 +1162,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $放3
+- ($方3)
 - $貺3
 ==
 </nav>
@@ -1174,6 +1175,10 @@ R
   ⽁ + 4
 U
   U+653E
+A
+  ==
+  - $方3
+  ==
 V
   ==
   - fong2 (per Kangxi 分兩切 for "reach" sense)
@@ -1252,7 +1257,7 @@ L
   * 【放-departing】 (pjangH)
     ==
     - (_verb-like_) [to] banish
-    - (_verb-like_) [to] let go, [to] let down
+    - (_verb-like_) [to] let go, [to] let down, (_met._) [to] neglect
     - (_verb-like_) [to] (let) loose
     - (_verb-like_) (_met._) [to] reach
     ==
@@ -1260,6 +1265,27 @@ L
 S
   ==
   - ($放fong2)
+  ==
+$$
+
+###+ 方3 | _Fong(3)_ [[fong3]]
+
+$$.
+R
+  ⽅ + 0
+U
+  U+65B9
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 放. **See $放fong3 for the canonical entry.**
+  ++
+S
+  ==
+  - $方fong1
   ==
 $$
 

@@ -3563,7 +3563,7 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] banish
-      - (_verb-like_) [to] let go, [to] let down
+      - (_verb-like_) [to] let go, [to] let down, (_met._) [to] neglect
       - (_verb-like_) [to] (let) loose
       - (_verb-like_) (_met._) [to] reach
       ==
