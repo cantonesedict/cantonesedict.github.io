@@ -852,6 +852,10 @@ P
   1. Alternative form of 仿. **See $仿fong2 for the canonical entry.**
   1. Reading variation (for the "reach" sense). **See $放fong3 for the canonical entry.**
   ++
+S
+  ==
+  - $放fong3
+  ==
 $$
 
 ### 昉2 | _(2)Fong_ [[fong2]]
@@ -1253,6 +1257,10 @@ L
     - (_verb-like_) (_met._) [to] reach
     ==
   ====
+S
+  ==
+  - ($放fong2)
+  ==
 $$
 
 ###+ 貺3 | _Fong(3)_ [[fong3]]

@@ -3185,6 +3185,7 @@ class Linter:
             Linter.lint_character_entry_reading_variation_redirect_reciprocation(character_entries)
             Linter.lint_character_entry_literary_rendering_belonging(character_entries)
             Linter.lint_character_entry_literary_rendering_linkage(character_entries)
+            Linter.lint_character_entry_see_also_presence(character_entries)
             Linter.lint_character_entry_see_also_reciprocation(character_entries)
             Linter.lint_literary_rendering_fragment_duplication(literary_renderings)
             Linter.lint_literary_rendering_disambiguation_consistency(literary_renderings)
@@ -3740,6 +3741,30 @@ class Linter:
                             f'missing `- Used in [...]` link `{link_content}` under one of '
                             f'{[other_ce.heading_content for other_ce in term_character_entries]}'
                         )
+
+    @staticmethod
+    def lint_character_entry_see_also_presence(character_entries: list['CharacterEntry']):
+        collated_character_entries_from_character = Utilities.collate_firsts_by_second(
+            (character_entry, character_entry.character)
+            for character_entry in character_entries
+        )
+
+        for character, collated_character_entries in collated_character_entries_from_character.items():
+            if len(collated_character_entries) > 1:
+                first_character_entry = collated_character_entries[0]
+                other_character_entries = collated_character_entries[1:]
+
+                if not first_character_entry.see_also_links:
+                    raise LintException(
+                        f'missing see also links for ['
+                        f'''{
+                            ', '.join(
+                                f'`{character_entry.universal_link()}`'
+                                for character_entry in other_character_entries
+                            )
+                        }] '''
+                        f'under `{first_character_entry}`'
+                    )
 
     @staticmethod
     def lint_character_entry_see_also_reciprocation(character_entries: list['CharacterEntry']):
