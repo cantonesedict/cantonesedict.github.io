@@ -1135,6 +1135,10 @@ R
   ⽁ + 4
 U
   U+653E
+V
+  ==
+  - fong2 (per Kangxi 分兩切 for "reach" sense)
+  ==
 F
   ==
   - (F1.100 放) 放肆放緃放逐去也散也又置之於此曰放
@@ -1193,11 +1197,16 @@ C
   - Williams' 放生: Changed _(1)shang_ (sang1)
     to vernacular reading _(1)sh(a/)ng_ (saang1).
   - Williams' 放在嗰處: Changed _ko(3)_ (go3) to modern _(2)ko_ (go2).
+  - Kangxi has the "reach" sense under the rising tone
+    for the specific example 《孟子》放乎四海《趙岐註》放至也.
+    However, 《正韻牋》 has the explanation 至也
+    under the departing tone.
   ==
 P
   ++
   1. To banish, to exile (Kangxi: 逐也, 放逐).
   1. To issue.
+  1. To reach (Kangxi: 放至也).
   ++
 L
   ====
@@ -1206,6 +1215,7 @@ L
     - (_verb-like_) [to] banish
     - (_verb-like_) [to] let go, [to] let down
     - (_verb-like_) [to] (let) loose
+    - (_verb-like_) (_met._) [to] reach
     ==
   ====
 $$
