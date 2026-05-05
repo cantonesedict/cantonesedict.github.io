@@ -3549,8 +3549,17 @@ window.onload = applyFilter;
       - (_adverb-like_) about to
       ==
   //
+    , `pjangX`
+    , [放~(rising)](/entries/fong#rendering-放-rising)
+    ,
+      ==
+      - (_verb-like_) [to] imitate
+      - (_verb-like_) [to] be in accordance with
+      - (_preposition-like_) in accordance with
+      ==
+  //
     , `pjangH`
-    , [放](/entries/fong#rendering-放)
+    , [放~(departing)](/entries/fong#rendering-放-departing)
     ,
       ==
       - (_verb-like_) [to] banish

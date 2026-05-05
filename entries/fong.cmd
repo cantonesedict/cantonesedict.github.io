@@ -646,6 +646,7 @@ $$
 - ($倣2)
 - $彷2
 - $慌2
+- ($放2)
 - $昉2
 - ($枋2)
 - $紡2
@@ -668,6 +669,7 @@ U
 A
   ==
   - $倣2
+  - $放2
   ==
 F
   ==
@@ -691,11 +693,26 @@ W
     --
     [[Alternative form of 彷. See $彷fong2.]]
     --
+  - [[Page~57 放(3) _Fong(3)_ (fong3); here corrected to _(2)Fong_ (fong2) and normalised to 仿]]
+    ==
+    - [[...]];
+    - accord [[Kangxi 放: 放猶依也]];
+    - [[...]].
+    ==
   ====
 C
   ==
   - Williams' 仿樣: Corrected _y(e/)ung(3)_ (joeng3) to _y(e/)ung(6)_ (joeng6).
   ==
+L
+  ====
+  * 【放-rising】 (pjangX)
+    ==
+    - (_verb-like_) [to] imitate
+    - (_verb-like_) [to] be in accordance with
+    - (_preposition-like_) in accordance with
+    ==
+  ====
 S
   ==
   - ($仿pong4) (TODO)
@@ -817,6 +834,24 @@ S
   ==
   - $慌fong1
   ==
+$$
+
+###+ 放2 | _(2)Fong_ [[fong2]]
+
+$$.
+R
+  ⽁ + 4
+U
+  U+653E
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 仿. **See $仿fong2 for the canonical entry.**
+  1. Reading variation (for the "reach" sense). **See $放fong3 for the canonical entry.**
+  ++
 $$
 
 ### 昉2 | _(2)Fong_ [[fong2]]
@@ -1153,7 +1188,7 @@ W
     - to indulge [[Kangxi: 放縱也]], to relax, to dissipate;
     - ~~to scatter;~~
     - to open out;
-    - ~~accord;~~
+    - [[...]];
     - _fong(3) (1)sung_
         [[fong3 sung1 放鬆]],
         to loosen;
@@ -1210,7 +1245,7 @@ P
   ++
 L
   ====
-  * 【放】 (pjangH)
+  * 【放-departing】 (pjangH)
     ==
     - (_verb-like_) [to] banish
     - (_verb-like_) [to] let go, [to] let down

@@ -638,7 +638,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $放fong3
+      - {$放fong2, $放fong3}
       ==
       </nav>
   //
