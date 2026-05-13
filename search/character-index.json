@@ -7709,10 +7709,16 @@
 "text":"U+9AE3 (F1.99 髣) 髣髴近似也 (F1.99 彷) 同上 (F1.99 恍) 同上 (Page 56 彷髣)"
 }
 },
+"况":{
+"fong3":{
+"isCanonical":false,
+"text":"U+51B5 (F1.100 况) 矧也又譬擬又佳况 (Page 57 况況) Fan Wan entry: Corrected 隹 to 佳."
+}
+},
 "況":{
 "fong3":{
 "isCanonical":true,
-"text":"U+6CC1 况 (F1.100 况) 矧也又譬擬又隹况 (Page 57 况況) More, moreover, further (Kangxi 況: 矧也); ~~now;~~ cold water (Kangxi 況: 寒水也); to come to (Kangxi 況: 臨訪曰來況); ``to increase`` (Kangxi 況: 益也), to ~~moisten~~ ``grow`` (Kangxi 況: 滋也); _ho fong_ (ho4 fong3 何況) how much more; _fong kim_ (fong3 gim1 況兼), still more, as well; _fong hai_ (fong3 hai6 況係) it is just that. For the alternative form 况, the variation ⿰二兄 is compatibility ideograph U+2F81B. Williams' \"now\": This appears to based on Kangxi 兹也 with the example 《詩小雅》況也永歎《箋》來兹對之長歎而已. Neither the explanation nor the lesser-note are clear to me. Williams' 況兼: Corrected _kim_ (gim2) to _kim_ (gim1). A situation. To compare with, to liken (Kangxi: 譬也). A surname (Kangxi: 姓). 【況】 (xjwangH) (_conjunction-like_) furthermore (_conjunction-like_) how much more (_verb-like_) to increase (_verb-like_) to compare (with)"
+"text":"U+6CC1 况 (F1.100 况) 矧也又譬擬又佳况 (Page 57 况況) More, moreover, further (Kangxi 況: 矧也); ~~now;~~ cold water (Kangxi 況: 寒水也); to come to (Kangxi 況: 臨訪曰來況); ``to increase`` (Kangxi 況: 益也), to ~~moisten~~ ``grow`` (Kangxi 況: 滋也); _ho fong_ (ho4 fong3 何況) how much more; _fong kim_ (fong3 gim1 況兼), still more, as well; _fong hai_ (fong3 hai6 況係) it is just that. For the alternative form 况, the variation ⿰二兄 is compatibility ideograph U+2F81B. Fan Wan entry: Corrected 隹 to 佳. Williams' \"now\": This appears to based on Kangxi 兹也 with the example 《詩小雅》況也永歎《箋》來兹對之長歎而已. Neither the explanation nor the lesser-note are clear to me. Williams' 況兼: Corrected _kim_ (gim2) to _kim_ (gim1). A situation. To compare with, to liken (Kangxi: 譬也). A surname (Kangxi: 姓). 【況】 (xjwangH) (_conjunction-like_) furthermore (_conjunction-like_) how much more (_verb-like_) to increase (_verb-like_) to compare (with)"
 }
 },
 "妨":{

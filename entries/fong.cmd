@@ -1161,6 +1161,7 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- ($况3)
 - $放3
 - ($方3)
 - $況3
@@ -1168,6 +1169,33 @@ $$
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 况3 | _Fong(3)_ [[fong3]]
+
+$$.
+R
+  ⼎ + 5
+U
+  U+51B5
+F
+  ==
+  - (F1.100 况) ::矧也又譬擬又[佳]况::
+  ==
+W
+  ====
+  - [[Page~57 况(3)況(3)]]
+    --
+    [[Alternative form of 況. **See $況fong3 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 貺. **See $貺fong3 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 隹 to 佳.
+  ==
+$$
 
 ### 放3 | _Fong(3)_ [[fong3]]
 
@@ -1299,11 +1327,11 @@ U
   U+6CC1
 A
   ==
-  - 况
+  - $况3
   ==
 F
   ==
-  - (F1.100 况) 矧也又譬擬又隹况
+  - (F1.100 况) ::矧也又譬擬又[佳]况::
   ==
 W
   ====
@@ -1332,6 +1360,7 @@ C
   ==
   - For the alternative form 况,
     the variation ⿰二兄 is compatibility ideograph U+2F81B.
+  - Fan Wan entry: Corrected 隹 to 佳.
   - Williams' "now": This appears to based on Kangxi 兹也
     with the example 《詩小雅》況也永歎《箋》來兹對之長歎而已.
     Neither the explanation nor the lesser-note are clear to me.
@@ -1364,7 +1393,7 @@ U
   U+8CBA
 A
   ==
-  - 况
+  - $况3
   - $況3
   ==
 V
