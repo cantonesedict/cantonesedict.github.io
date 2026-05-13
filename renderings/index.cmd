@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-05-05
+* %date-modified --> 2026-05-13
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -9501,6 +9501,16 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) brightness
+      ==
+  //
+    , `xjwangH`
+    , [況](/entries/fong#rendering-況)
+    ,
+      ==
+      - (_conjunction-like_) furthermore
+      - (_conjunction-like_) how much more
+      - (_verb-like_) [to] increase
+      - (_verb-like_) [to] compare (with)
       ==
   //
     , `xjwangH`

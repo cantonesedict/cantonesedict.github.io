@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fong
-* %date-modified --> 2026-05-05
+* %date-modified --> 2026-05-13
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1163,6 +1163,7 @@ $$
 =={.modern}
 - $放3
 - ($方3)
+- $況3
 - $貺3
 ==
 </nav>
@@ -1289,6 +1290,71 @@ S
   ==
 $$
 
+### 況3 | _Fong(3)_ [[fong3]]
+
+$$
+R
+  ⽔ + 5
+U
+  U+6CC1
+A
+  ==
+  - 况
+  ==
+F
+  ==
+  - (F1.100 况) 矧也又譬擬又隹况
+  ==
+W
+  ====
+  - [[Page~57 况(3)況(3)]]
+    ==
+    - More, moreover, further [[Kangxi 況: 矧也]];
+    - ~~now;~~
+    - cold water [[Kangxi 況: 寒水也]];
+    - to come to [[Kangxi 況: 臨訪曰來況]];
+    - ``to increase`` [[Kangxi 況: 益也]], to ~~moisten~~ ``grow`` [[Kangxi 況: 滋也]];
+    - _(4)ho fong(3)_
+        [[ho4 fong3 何況]]
+        how much more;
+    - _fong(3) ~~(2)k(i/)m~~ ``(1)k(i/)m``_
+        [[fong3 gim1 況兼]],
+        still more, as well;
+    - _fong(3) hai(6)_
+        [[fong3 hai6 況係]]
+        it is just that.
+    ==
+    --
+    [[Otherwise, an alternative form of 貺. **See $貺fong3 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - For the alternative form 况,
+    the variation ⿰二兄 is compatibility ideograph U+2F81B.
+  - Williams' "now": This appears to based on Kangxi 兹也
+    with the example 《詩小雅》況也永歎《箋》來兹對之長歎而已.
+    Neither the explanation nor the lesser-note are clear to me.
+  - Williams' 況兼: Corrected _(2)k(i/)m_ (gim2) to _(1)k(i/)m_ (gim1).
+  ==
+P
+  ++
+  1. A situation.
+  1. To compare with, to liken (Kangxi: 譬也).
+  1. A surname (Kangxi: 姓).
+  ++
+L
+  ====
+  * 【況】 (xjwangH)
+    ==
+    - (_conjunction-like_) furthermore
+    - (_conjunction-like_) how much more
+    - (_verb-like_) [to] increase
+    - (_verb-like_) [to] compare (with)
+    ==
+  ====
+$$
+
 ###+ 貺3 | _Fong(3)_ [[fong3]]
 
 $$
@@ -1296,6 +1362,11 @@ R
   ⾙ + 5
 U
   U+8CBA
+A
+  ==
+  - 况
+  - $況3
+  ==
 V
   ==
   - fong2 (per Fan Wan)
