@@ -34,6 +34,12 @@ WH
   ==
   - Fong. [[Page~55, Page~714]]
   ==
+WV
+  ==
+  - Fong.
+    The last three characters under this syllable <span class="caps-emphasis">Fong</span>
+    are often pronounced <span class="caps-emphasis">~~Kwong~~ ``Kw(')ong``</span> [[kwong]].
+  ==
 WP
   ==
   - Fong <span class="modern">= *[fɔːŋ]</span>
@@ -41,6 +47,10 @@ WP
 MP
   ==
   - fong = [fɔːŋ]
+  ==
+C
+  ==
+  - Williams' "often pronounced [...]": Fixed missing aspirate.
   ==
 $$
 

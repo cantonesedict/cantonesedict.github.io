@@ -246,6 +246,10 @@ td ul {
   border-width: 3px;
 }
 
+.caps-emphasis {
+  font-variant-caps: small-caps;
+}
+
 .composition:active::after, .composition:hover::after {
   color: var(--modern-colour);
   content: '(' attr(title) ')';
