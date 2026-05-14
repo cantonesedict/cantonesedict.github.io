@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fong
-* %date-modified --> 2026-05-13
+* %date-modified --> 2026-05-14
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -655,6 +655,7 @@ $$
 - $仿2
 - ($倣2)
 - $彷2
+- $恍2
 - $慌2
 - ($放2)
 - $昉2
@@ -797,6 +798,60 @@ S
   ==
 $$
 
+### 恍2 | _(2)Fong_ [[fong2]]
+
+$$
+R
+  ⼼ + 6
+U
+  U+604D
+A
+  ==
+  - 怳
+  - $慌2 (for "vague/unclear" senses)
+  ==
+F
+  ==
+  - (F1.99 髣) 髣髴近似也
+  - (F1.99 彷) 同上
+  - (F1.99 恍) 同上
+  - (F1.99 怳) ::[惝]怳失意也::
+  ==
+W
+  ====
+  - [[Page~714 (2)恍(2)怳]]
+    --
+    ~~Interchanged with 慌 _(1)fong_ [[fong1]].~~
+    --
+    ==
+    - Wild, mad, fluttered;
+    - disturbed, unable to collect one's thoughts;
+    - _(2)fong fat(7)_
+        [[fong2 fat1 恍惚]]
+        ~~half crazy~~ ``absent-minded``.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 倘 to 惝.
+  - Williams' "Interchanged with 慌": This is incorrect.
+    Instead, 慌 is an alternative form of 恍 _(2)fong_ (fong2)
+    for the "vague/unclear" senses.
+  ==
+P
+  ++
+  1. Vague, unclear (Kangxi 恍: ::與慌怳{𠀤=⿱夶一}同::).
+  1. Seemingly.
+  ++
+L
+  ====
+  * 【恍】 (xwangX)
+    ==
+    - (_adjective-like_) vague, unclear
+    ==
+  ====
+$$
+
 ###+ 慌2 | _(2)Fong_ [[fong2]]
 
 $$
@@ -825,7 +880,7 @@ W
     - [[...]].
     ==
     --
-    [[Alternative form of 恍 (for the "vague/unclear" senses). See $恍fong2.]] [[TODO]]
+    [[Alternative form of 恍 (for the "vague/unclear" senses). See $恍fong2.]]
     --
   ====
 C

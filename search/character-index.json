@@ -7665,6 +7665,12 @@
 "text":"U+5F77 仿 髣 (F1.99 髣) 髣髴近似也 (F1.99 彷) 同上 (F1.99 恍) 同上 (Page 56 彷髣) Like, resembling (Kangxi 彷: 彷彿也), ~~seen indistinctly (Kangxi: 彷彿見不審也)~~; seeming, ~~dreamy~~; _fong fat_ (fong2 fat1 彷彿) somewhat like; Fan Wan entry: The alternative form 恍 is erroneous. 【彷】 (phjangX) Used in 彷彿."
 }
 },
+"恍":{
+"fong2":{
+"isCanonical":true,
+"text":"U+604D 怳 慌 (for \"vague/unclear\" senses) (F1.99 髣) 髣髴近似也 (F1.99 彷) 同上 (F1.99 恍) 同上 (F1.99 怳) 惝怳失意也 (Page 714 恍怳) ~~Interchanged with 慌 _fong_ (fong1).~~ Wild, mad, fluttered; disturbed, unable to collect one's thoughts; _fong fat_ (fong2 fat1 恍惚) ~~half crazy~~ ``absent-minded``. Fan Wan entry: Corrected 倘 to 惝. Williams' \"Interchanged with 慌\": This is incorrect. Instead, 慌 is an alternative form of 恍 _fong_ (fong2) for the \"vague/unclear\" senses. Vague, unclear (Kangxi 恍: 與慌怳𠀤同). Seemingly. 【恍】 (xwangX) (_adjective-like_) vague, unclear"
+}
+},
 "放":{
 "fong2":{
 "isCanonical":false,

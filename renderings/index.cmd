@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-05-13
+* %date-modified --> 2026-05-14
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -9610,6 +9610,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) blood
+      ==
+  //
+    , `xwangX`
+    , [恍](/entries/fong#rendering-恍)
+    ,
+      ==
+      - (_adjective-like_) vague, unclear
       ==
   //
     , `xwangX`
