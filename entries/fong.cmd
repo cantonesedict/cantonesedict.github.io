@@ -661,6 +661,7 @@ $$
 - ($放2)
 - $昉2
 - ($枋2)
+- ($況2)
 - $紡2
 - $舫2
 - $訪2
@@ -806,6 +807,11 @@ R
   ⼼ + 5
 U
   U+6033
+A
+  ==
+  - $恍2
+  - $況2
+  ==
 F
   ==
   - (F1.99 怳) ::[惝]怳失意也::
@@ -874,6 +880,9 @@ W
         [[fong2 fat1 恍惚]]
         ~~half crazy~~ ``absent-minded``.
     ==
+    --
+    [[Otherwise, an alternative form of 怳. **See $怳fong2 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -1026,6 +1035,27 @@ S
   ==
   - ($枋beng3) (TODO) <## same as 柄 ##>
   - $枋fong1
+  ==
+$$
+
+###+ 況2 | _(2)Fong_ [[fong2]]
+
+$$.
+R
+  ⽔ + 5
+U
+  U+6CC1
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 怳. **See $怳fong2 for the canonical entry.**
+  ++
+S
+  ==
+  - $況fong3
   ==
 $$
 
@@ -1493,6 +1523,10 @@ L
     - (_verb-like_) [to] compare (with)
     ==
   ====
+S
+  ==
+  - ($況fong2)
+  ==
 $$
 
 ###+ 貺3 | _Fong(3)_ [[fong3]]

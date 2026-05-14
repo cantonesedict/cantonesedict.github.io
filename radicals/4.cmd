@@ -1631,7 +1631,7 @@ For all radicals, see [Index of characters by radical](./).
       - $沷faat3
       - $法faat3
       - $沸fai3
-      - $況fong3
+      - {$況fong2, $況fong3}
       - {$沮zeoi1, $沮zeoi2, $沮zeoi3}
       - $泲zi2
       - $沾zim1
