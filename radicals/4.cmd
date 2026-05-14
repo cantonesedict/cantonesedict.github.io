@@ -100,6 +100,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - {$怵ceot1, $怵zeot1}
       - $怱cung1
+      - $怳fong2
       - $怎zam2
       - $怍zok6
       ==

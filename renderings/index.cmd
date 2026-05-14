@@ -9503,6 +9503,13 @@ window.onload = applyFilter;
       - (_noun-like_) brightness
       ==
   //
+    , `xjwangX`
+    , [怳](/entries/fong#rendering-怳)
+    ,
+      ==
+      - (_adjective-like_) disappointed
+      ==
+  //
     , `xjwangH`
     , [況](/entries/fong#rendering-況)
     ,

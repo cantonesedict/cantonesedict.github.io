@@ -655,6 +655,7 @@ $$
 - $仿2
 - ($倣2)
 - $彷2
+- $怳2
 - $恍2
 - $慌2
 - ($放2)
@@ -798,6 +799,49 @@ S
   ==
 $$
 
+### 怳2 | _(2)Fong_ [[fong2]]
+
+$$
+R
+  ⼼ + 5
+U
+  U+6033
+F
+  ==
+  - (F1.99 怳) ::[惝]怳失意也::
+  ==
+W
+  ====
+  - [[Page~714 (2)恍(2)怳]]
+    --
+    [[...]]
+    --
+    ==
+    - Wild, mad, fluttered [[Kangxi 怳: 狂之貌]];
+    - [[...]].
+    ==
+    --
+    [[Otherwise, an alternative form of 恍. **See $恍fong2 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Williams does not provide separate entries for $恍2 and 怳.
+    I have split things up accordingly.
+  ==
+P
+  ++
+  1. Disappointed (Kangxi 怳: 怳然自失也, 怳失意貌).
+  ++
+L
+  ====
+  * 【怳】 (xjwangX)
+    ==
+    - (_adjective-like_) disappointed
+    ==
+  ====
+$$
+
 ### 恍2 | _(2)Fong_ [[fong2]]
 
 $$
@@ -807,7 +851,7 @@ U
   U+604D
 A
   ==
-  - 怳
+  - $怳2
   - $慌2 (for "vague/unclear" senses)
   ==
 F
@@ -824,7 +868,7 @@ W
     ~~Interchanged with 慌 _(1)fong_ [[fong1]].~~
     --
     ==
-    - Wild, mad, fluttered;
+    - [[...]];
     - disturbed, unable to collect one's thoughts;
     - _(2)fong fat(7)_
         [[fong2 fat1 恍惚]]
@@ -834,6 +878,8 @@ W
 C
   ==
   - Fan Wan entry: Corrected 倘 to 惝.
+  - Williams does not provide separate entries for 恍 and $怳2.
+    I have split things up accordingly.
   - Williams' "Interchanged with 慌": This is incorrect.
     Instead, 慌 is an alternative form of 恍 _(2)fong_ (fong2)
     for the "vague/unclear" senses.
@@ -1428,7 +1474,7 @@ C
   - Fan Wan entry: Corrected 隹 to 佳.
   - Williams' "now": This appears to based on Kangxi 兹也
     with the example 《詩小雅》況也永歎《箋》來兹對之長歎而已.
-    Neither the explanation nor the lesser-note are clear to me.
+    Neither the explanation nor the lesser-note make sense to me.
   - Williams' 況兼: Corrected _(2)k(i/)m_ (gim2) to _(1)k(i/)m_ (gim1).
   ==
 P
