@@ -654,6 +654,7 @@ $$
 =={.modern}
 - $仿2
 - ($倣2)
+- $幌2
 - $彷2
 - $怳2
 - $恍2
@@ -750,6 +751,37 @@ W
     [[Alternative form of 仿. **See $仿fong2 for the canonical entry.**]]
     --
   ====
+$$
+
+### 幌2 | _(2)Fong_ [[fong2]]
+
+$$
+R
+  ⼱ + 10
+U
+  U+5E4C
+V
+  ==
+  - wong5 (per 《廣韻》胡廣切)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~714 (2)幌]]
+    ==
+    - A curtain [[Kangxi: 帷幔也]];
+    - an ornament for the head [[Kangxi: 蔮恢也恢郭覆髮上也齊人曰幌飾形貌也]];
+    - ~~a gust, a whirl of wind;~~
+    - _(1)sh(u:) (2)fong_
+        [[syu1 fong2 書幌]],
+        a screen to shade a schoolroom.
+    ==
+  ====
+P
+  ++
+  1. A shop-sign.
+  ++
 $$
 
 ### 彷2 | _(2)Fong_ [[fong2]]
