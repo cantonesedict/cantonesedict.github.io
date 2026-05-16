@@ -174,6 +174,19 @@ L
     - Used in [夫子](/entries/zi#rendering-夫子).
     ==
   ====
+E
+  ====
+  - 【夫佬】 (fu1 lou2)
+    ++
+    1. A full house (card hand).
+       ==
+       - 傾夫佬 (king1 fu1 lou2): "King full [house]."
+       ==
+    ++
+  ====
+  --
+  The spelling 夫佬 is arbitrary.
+  --
 S
   ==
   - $夫fu4 (TODO)
