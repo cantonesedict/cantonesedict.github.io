@@ -473,8 +473,8 @@ W
     - ~~a syphon;~~
     - ~~a vessel for serving rations;~~
     - _(2)tsau (1)ch(i/)_
-        [[zau2 zi1 酒巵]],
-        ~~a wine syphon~~.
+        [[zau2 zi1 酒巵]]~~,
+        a wine syphon~~.
     ==
   ====
 C

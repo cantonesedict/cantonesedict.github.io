@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2026-04-19
+* %date-modified --> 2026-05-16
 * %copyright-prior-years --> 2023--
 
 ReplacementSequence: #.ensure-baxter
@@ -133,7 +133,7 @@ W
     - Loquacious, chattering [[Kangxi: 讋咮多言貌]], as birds;
     - ~~_(1)ch(u:) (4)(u:)_
         [[zyu1 jyu4 咮？]],
-        talkative~~.
+        talkative.~~
     ==
   ====
 C

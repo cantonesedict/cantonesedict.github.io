@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faan
-* %date-modified --> 2026-04-22
+* %date-modified --> 2026-05-16
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -212,8 +212,8 @@ W
   - [[Page~47 (1)旛]]
     ==
     - A streamer [[Kangxi: 幅胡也, 旛幡也]];
-    - _(1)ts(')ing (1)f(a/)n_ [[cing1 faan1 青旛]],
-        ~~or
+    - _(1)ts(')ing (1)f(a/)n_ [[cing1 faan1 青旛]]~~,
+        or
       _(4)wan (1)f(a/)n_ [[wan4 faan1]],
         a banner carried at funerals~~.
     ==
