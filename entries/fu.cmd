@@ -51,6 +51,7 @@ $$
 - $俘1
 - $夫1
 - $孚1
+- $枹1
 - $桴1
 - $砆1
 - $莩1
@@ -239,6 +240,63 @@ L
   ====
 $$
 
+### 枹1 | _(1)F(u/)_ [[fu1]]
+
+$$
+R
+  ⽊ + 5
+U
+  U+67B9
+A
+  ==
+  - $桴1
+  ==
+V
+  ==
+  - fau4 (per 《廣韻》縛謀切 for "drumstick" sense)
+  ==
+F
+  ==
+  - (F2.8 枹) ::[擊]鼓之杖::
+  ==
+W
+  ====
+  - [[Page~58 (1)桴; here normalised to 枹]]
+    ==
+    - [[...]];
+    - a drumstick [[Kangxi 桴: 擊鼓杖與枹同]];
+    - [[...]].
+    ==
+  - [[Page~58 (1)枹]]
+    ==
+    - A drumstick [[Kangxi: 擊鼓杖也]];
+    - [[...]].
+    <## TODO: $枹baau1
+    - also read _(1)p(a/)u_ [[baau1]],
+      bushy, thick growth of plants.
+    ##>
+    ==
+  ====
+C
+  ==
+  - The reading _(1)f(u/)_ (fu1) is not unattested;
+    《正韻牋》 has the reading 芳無切 for both 枹 and 桴,
+    with the explanation including the "drumstick" sense in both cases.
+  - Fan Wan entry: Fixed malformed 擊.
+  ==
+L
+  ====
+  * 【枹】 (bjuw)
+    ==
+    - (_noun-like_) drumstick
+    ==
+  ====
+S
+  ==
+  - $枹baau1 (TODO)
+  ==
+$$
+
 ### 桴1 | _(1)F(u/)_ [[fu1]]
 
 $$
@@ -246,10 +304,6 @@ R
   ⽊ + 7
 U
   U+6874
-A
-  ==
-  - 枹 (for "drumstick" sense)
-  ==
 V
   ==
   - fau4 (per Kangxi 縛謀切 for all senses except "raft", and alternative per 《廣韻》 for "ridgepole" sense)
@@ -264,12 +318,15 @@ W
     ==
     - A raft [[Kangxi: 編竹木代舟也大曰筏小曰桴]];
     - a ridge pole in a roof [[Kangxi: 棟名, 棟謂之桴, 謂屋脊也]];
-    - a drumstick [[Kangxi: 擊鼓杖與枹同]];
+    - [[...]];
     - a ~~barrow to carry~~ ``tool for heaping`` dirt [[Kangxi: 聚土器也 etc.]];
     - _(1)f(u/)_ (or _~~(1)fau~~ ``(4)fau``_) _~~t(a/)n(3)~~ ``t(')(a/)n(3)``_
         [[fu1 taan3 or fau4 taan3 桴炭^]]
         light charcoal.
     ==
+    --
+    [[Otherwise, an alternative form of 枹. **See $枹fu1 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -279,11 +336,7 @@ C
   ==
 L
   ====
-  * 【桴-voiced】 (bjuw)
-    ==
-    - (_noun-like_) drumstick
-    ==
-  * 【桴-unvoiced】 (phju)
+  * 【桴】 (phju)
     ==
     - (_noun-like_) raft
     ==

@@ -752,7 +752,7 @@ window.onload = applyFilter;
       ==
   //
     , `bjuw`
-    , [桴~(voiced)](/entries/fu#rendering-桴-voiced)
+    , [枹](/entries/fu#rendering-枹)
     ,
       ==
       - (_noun-like_) drumstick
@@ -3365,7 +3365,7 @@ window.onload = applyFilter;
       ==
   //
     , `phju`
-    , [桴~(unvoiced)](/entries/fu#rendering-桴-unvoiced)
+    , [桴](/entries/fu#rendering-桴)
     ,
       ==
       - (_noun-like_) raft
