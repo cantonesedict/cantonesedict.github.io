@@ -7229,6 +7229,16 @@
 "text":"U+7F36 (F1.50 缶 _Fau_ (fau1)) (Page 51 缶 _Fau_ (fau1); here corrected to _Fau_ (fau2)) Earthenware in general (Kangxi: 瓦缶之器); a vessel used to contain wine (Kangxi: 瓦器所以盛酒漿); one on which time was ~~noted~~ ``beaten`` (Kangxi: 秦人鼓之以節歌); a jar (Kangxi: 盎謂之缶, 缶卽盎也大腹而斂口); _nga fau_ (ngaa5 fau2 瓦缶), earthenware. The 121st radical (\"jar\"). 【缶】 (pjuwX) (_noun-like_) earthenware"
 }
 },
+"桴":{
+"fau4":{
+"isCanonical":false,
+"text":"U+6874"
+},
+"fu1":{
+"isCanonical":true,
+"text":"U+6874 fau4 (per Kangxi 縛謀切 for all senses except \"raft\", and alternative per 《廣韻》 for \"ridgepole\" sense) (F2.8 桴) 編竹木爲筏皆曰桴 (Page 58 桴) A raft (Kangxi: 編竹木代舟也大曰筏小曰桴); a ridge pole in a roof (Kangxi: 棟名, 棟謂之桴, 謂屋脊也); a ~~barrow to carry~~ ``tool for heaping`` dirt (Kangxi: 聚土器也 etc.); _fu_ (or _fau_) _~~tan~~ ``t'an``_ (fu1 taan3 or fau4 taan3 桴炭) light charcoal. Fan Wan entry: Corrected 茷 to 筏. Williams' 桴炭: Corrected _fau_ (fau1) to _fau_ (fau4), and corrected _tan_ (daan3) to _t'an_ (taan3). 【桴】 (phju) (_noun-like_) raft"
+}
+},
 "浮":{
 "fau4":{
 "isCanonical":true,
@@ -7788,13 +7798,7 @@
 "枹":{
 "fu1":{
 "isCanonical":true,
-"text":"U+67B9 桴 fau4 (per 《廣韻》縛謀切 for \"drumstick\" sense) (F2.8 枹) 擊鼓之杖 (Page 58 桴; here normalised to 枹) a drumstick (Kangxi 桴: 擊鼓杖與枹同); (Page 58 枹) A drumstick (Kangxi: 擊鼓杖也); The reading _fu_ (fu1) is not unattested; 《正韻牋》 has the reading 芳無切 for both 枹 and 桴, with the explanation including the \"drumstick\" sense in both cases. Fan Wan entry: Fixed malformed 擊. 【枹】 (bjuw) (_noun-like_) drumstick"
-}
-},
-"桴":{
-"fu1":{
-"isCanonical":true,
-"text":"U+6874 fau4 (per Kangxi 縛謀切 for all senses except \"raft\", and alternative per 《廣韻》 for \"ridgepole\" sense) (F2.8 桴) 編竹木爲筏皆曰桴 (Page 58 桴) A raft (Kangxi: 編竹木代舟也大曰筏小曰桴); a ridge pole in a roof (Kangxi: 棟名, 棟謂之桴, 謂屋脊也); a ~~barrow to carry~~ ``tool for heaping`` dirt (Kangxi: 聚土器也 etc.); _fu_ (or _fau_) _~~tan~~ ``t'an``_ (fu1 taan3 or fau4 taan3 桴炭) light charcoal. Fan Wan entry: Corrected 茷 to 筏. Williams' 桴炭: Corrected _fau_ (fau1) to _fau_ (fau4), and corrected _tan_ (daan3) to _t'an_ (taan3). 【桴】 (phju) (_noun-like_) raft"
+"text":"U+67B9 桴 fau4 (per 《廣韻》縛謀切) (F2.8 枹) 擊鼓之杖 (Page 58 桴; here normalised to 枹) a drumstick (Kangxi 桴: 擊鼓杖與枹同); (Page 58 枹) A drumstick (Kangxi: 擊鼓杖也); The reading _fu_ (fu1) is not unattested; 《正韻牋》 has the reading 芳無切 for both 枹 and 桴, with the explanation including the \"drumstick\" sense in both cases. Fan Wan entry: Fixed malformed 擊. 【枹】 (bjuw) (_noun-like_) drumstick"
 }
 },
 "砆":{

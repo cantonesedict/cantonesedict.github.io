@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fau
-* %date-modified --> 2026-04-18
+* %date-modified --> 2026-05-16
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -229,6 +229,7 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- ($桴4)
 - $浮4
 - $紑4
 - $罘4
@@ -237,6 +238,28 @@ $$
 ==
 </nav>
 <## /tone-4-characters ##>
+
+###+ 桴4 | _(4)Fau_ [[fau4]]
+
+$$.
+R
+  ⽊ + 7
+U
+  U+6874
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation (for all senses except "raft"). **See $桴fu1 for the canonical entry.**
+  1. Alternative form of 枹, and reading variation. **See $枹fu1 for the canonical entry.**
+  ++
+S
+  ==
+  - $桴fu1
+  ==
+$$
 
 ### 浮4 | _(4)Fau_ [[fau4]]
 

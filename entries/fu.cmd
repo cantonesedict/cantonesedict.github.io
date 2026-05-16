@@ -253,7 +253,7 @@ A
   ==
 V
   ==
-  - fau4 (per 《廣韻》縛謀切 for "drumstick" sense)
+  - fau4 (per 《廣韻》縛謀切)
   ==
 F
   ==
@@ -341,6 +341,10 @@ L
     - (_noun-like_) raft
     ==
   ====
+S
+  ==
+  - ($桴fau4)
+  ==
 $$
 
 ### 砆1 | _(1)F(u/)_ [[fu1]]
