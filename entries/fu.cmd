@@ -48,6 +48,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $夫1
+- $砆1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -126,4 +127,29 @@ S
   ==
   - $夫fu4 (TODO)
   ==
+$$
+
+### 砆1 | _(1)F(u/)_ [[fu1]]
+
+$$
+R
+  ⽯ + 4
+U
+  U+7806
+A
+  ==
+  - 玞
+  ==
+F
+  ==
+  - (F2.8 砆) 碔砆石之似玉者
+  ==
+W
+  ====
+  - [[Page~57 (1)砆]]
+    ==
+    - A stone resembling a gem [[Kangxi: 同玞, 碔砆石次玉]];
+    - a false gem.
+    ==
+  ====
 $$
