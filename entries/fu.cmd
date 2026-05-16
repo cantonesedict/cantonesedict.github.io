@@ -49,6 +49,7 @@ $$
 =={.modern}
 - $夫1
 - $砆1
+- $趺1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -152,4 +153,37 @@ W
     - a false gem.
     ==
   ====
+$$
+
+### 趺1 | _(1)F(u/)_ [[fu1]]
+
+$$
+R
+  ⾜ + 4
+U
+  U+8DBA
+F
+  ==
+  - (F2.8 趺) ::[跏]趺[僧]家屈足盤坐之謂::
+  ==
+W
+  ====
+  - [[Page~57 (1)趺]]
+    ==
+    - To sit in audience or state, with the legs bent under one, _à la Turque_ [[Kangxi: 跏趺大坐也]];
+    - ~~_(1)f(u/) (1)f(u/) (4)(i/)n_
+        [[fu1 fu1 jin4 趺趺然]],~~
+        a woman bending to the ground in obeisance [[Kangxi: 拜于丈夫爲趺]].
+    ==
+    --
+    [[Otherwise, an alternative form of 跗. **See $跗fu1 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected {𧦤=⿰訁加} to 跏, and corrected 曾 to 僧.
+  - Williams' 趺趺然: This is a misparsing of Kangxi 《釋名》拜于丈夫爲趺趺然屈折下視地也.
+    This should be punctuated as "拜于丈夫爲趺、趺然屈折下視地也。",
+    with a pause separating 爲趺 from 趺然.
+  ==
 $$
