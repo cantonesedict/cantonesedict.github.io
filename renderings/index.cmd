@@ -3674,6 +3674,14 @@ window.onload = applyFilter;
       - Used in [夫子](/entries/zi#rendering-夫子).
       ==
   //
+    , `pju`
+    , [鈇](/entries/fu#rendering-鈇)
+    ,
+      ==
+      - (_noun-like_) cutter, chopper
+      - (_noun-like_) hatchet
+      ==
+  //
     , `pju tsiX`
     , [夫子](/entries/zi#rendering-夫子)
     ,

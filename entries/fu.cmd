@@ -50,6 +50,7 @@ $$
 - $夫1
 - $砆1
 - $趺1
+- $鈇1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -186,4 +187,36 @@ C
     This should be punctuated as "拜于丈夫爲趺、趺然屈折下視地也。",
     with a pause separating 爲趺 from 趺然.
   ==
+$$
+
+### 鈇1 | _(1)F(u/)_ [[fu1]]
+
+$$
+R
+  ⾦ + 4
+U
+  U+9207
+F
+  ==
+  - (F2.8 鈇) 斧鉞之屬也
+  ==
+W
+  ====
+  - [[Page~57 (1)鈇]]
+    ==
+    - A kind of hatchet of small ax [[Kangxi: 斧也]].
+    ==
+  ====
+P
+  ++
+  1. A grass cutter (Kangxi: 莝斫刀).
+  ++
+L
+  ====
+  * 【鈇】 (pju)
+    ==
+    - (_noun-like_) cutter, chopper
+    - (_noun-like_) hatchet
+    ==
+  ====
 $$
