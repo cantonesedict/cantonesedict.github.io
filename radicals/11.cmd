@@ -301,6 +301,14 @@ For all radicals, see [Index of characters by radical](./).
       - $麩fu1
       ==
       </nav>
+  //
+    , 7
+    ,
+      <nav class="sideways">
+      ==
+      - $麱fu1
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⿆-characters ##>

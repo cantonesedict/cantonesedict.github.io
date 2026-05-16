@@ -53,6 +53,7 @@ $$
 - $趺1
 - $鈇1
 - $麩1
+- ($麱1)
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -235,7 +236,7 @@ U
   U+9EA9
 A
   ==
-  - 麱
+  - $麱1
   ==
 F
   ==
@@ -249,6 +250,25 @@ W
     - the refuse of hemp-seed or ground nut, after the oil is expressed.
     ==
   ====
+$$
+
+###+ 麱1 | _(1)F(u/)_ [[fu1]]
+
+$$.
+R
+  ⿆ + 7
+U
+  U+9EB1
+F
+  ==
+  - (F2.9 麱) 蔴麱
+  ==
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 麩. **See $麩fu1 for the canonical entry.**
+  ++
 $$
 
 
