@@ -48,6 +48,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $俘1
 - $夫1
 - $孚1
 - $砆1
@@ -58,6 +59,50 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 俘1 | _(1)F(u/)_ [[fu1]]
+
+$$
+R
+  ⼈ + 7
+U
+  U+4FD8
+A
+  ==
+  - $孚1
+  ==
+F
+  ==
+  - (F2.8 俘) ::[囚]也對敵被擒之人孚穀殼曰俘葢車中所[獲]者未也::
+  ==
+W
+  ====
+  - [[Page~58 (1)俘]]
+    ==
+    - To captivate, to capture [[Kangxi: 一說俘取也]], to take prisoner in war;
+    - a prisoner ``of war`` [[Kangxi: 囚敵曰俘]];
+    - spoil taken in battle [[Kangxi: 軍所獲也]];
+    - _(1)f(u/) (4)ts(')au_
+        [[fu1 cau4 俘囚]],
+        a captive;
+    - _(1)f(u/) (5)l(o\)_
+        [[fu1 lou5 俘虜]],
+        to take captive.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 因 to 囚, and normalised {𫉬=⿱艹⿰犭隻} to 獲.
+  ==
+L
+  ====
+  * 【俘】 (phju)
+    ==
+    - (_verb-like_) [to] capture
+    - (_noun-like_) captive, (_met._) spoils
+    ==
+  ====
+$$
 
 ### 夫1 | _(1)F(u/)_ [[fu1]]
 
@@ -162,6 +207,9 @@ W
         [[zung1 fu1 忠孚]],
         true and honest.
     ==
+    --
+    [[Otherwise, an alternative form of 俘. **See $俘fu1 for the canonical entry.**]]
+    --
     --
     [[Otherwise, an alternative form of 莩. **See $莩fu1 for the canonical entry.**]] [[TODO]]
     --

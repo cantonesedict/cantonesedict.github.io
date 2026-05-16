@@ -3342,6 +3342,14 @@ window.onload = applyFilter;
       ==
   //
     , `phju`
+    , [俘](/entries/fu#rendering-俘)
+    ,
+      ==
+      - (_verb-like_) [to] capture
+      - (_noun-like_) captive, (_met._) spoils
+      ==
+  //
+    , `phju`
     , [孚](/entries/fu#rendering-孚)
     ,
       ==

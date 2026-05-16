@@ -7767,6 +7767,12 @@
 "text":"U+9B74 (F1.98 魴) 魚名 (Page 56 魴) A kind of bream, a foot long, common at Canton; the tail is red (Kangxi: 赤尾魚), or is said to turn so from ~~fear~~ ``toil`` (Kangxi: 魚勞則尾赤, 魴魚尾本不赤赤故爲勞也). 【魴】 (bjang) (_noun-like_) bream"
 }
 },
+"俘":{
+"fu1":{
+"isCanonical":true,
+"text":"U+4FD8 孚 (F2.8 俘) 囚也對敵被擒之人孚穀殼曰俘葢車中所獲者未也 (Page 58 俘) To captivate, to capture (Kangxi: 一說俘取也), to take prisoner in war; a prisoner ``of war`` (Kangxi: 囚敵曰俘); spoil taken in battle (Kangxi: 軍所獲也); _fu ts'au_ (fu1 cau4 俘囚), a captive; _fu lo_ (fu1 lou5 俘虜), to take captive. Fan Wan entry: Corrected 因 to 囚, and normalised 𫉬 to 獲. 【俘】 (phju) (_verb-like_) to capture (_noun-like_) captive, (_met._) spoils"
+}
+},
 "夫":{
 "fu1":{
 "isCanonical":true,
