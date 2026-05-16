@@ -52,6 +52,7 @@ $$
 - $砆1
 - $趺1
 - $鈇1
+- $麩1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -223,6 +224,31 @@ S
   ==
   - $鈇fu2
   ==
+$$
+
+### 麩1 | _(1)F(u/)_ [[fu1]]
+
+$$
+R
+  ⿆ + 4
+U
+  U+9EA9
+A
+  ==
+  - 麱
+  ==
+F
+  ==
+  - (F2.9 麱) 蔴麱
+  ==
+W
+  ====
+  - [[Page~57 (1)麩]]
+    ==
+    - Bran or husk of wheat [[Kangxi: 小麥屑皮也一作麱]];
+    - the refuse of hemp-seed or ground nut, after the oil is expressed.
+    ==
+  ====
 $$
 
 
