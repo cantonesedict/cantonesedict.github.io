@@ -1158,7 +1158,7 @@ For all radicals, see [Index of characters by radical](./).
       - $柂ci2
       - {$柿ci2, $柿ci4, $柿ci5}
       - {$柱cyu5, $柱zyu2}
-      - $枹fu1
+      - {$枹fau4, $枹fu1}
       - {$柞zaak3, $柞zok6}
       - {$枳zat1, $枳zi2}
       - $柘ze3

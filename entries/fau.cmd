@@ -229,6 +229,7 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- ($枹4)
 - ($桴4)
 - $浮4
 - $紑4
@@ -238,6 +239,28 @@ $$
 ==
 </nav>
 <## /tone-4-characters ##>
+
+###+ 枹4 | _(4)Fau_ [[fau4]]
+
+$$.
+R
+  ⽊ + 5
+U
+  U+67B9
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Reading variation. **See $枹fu1 for the canonical entry.**
+  ++
+S
+  ==
+  - $枹baau1 (TODO)
+  - $枹fu1
+  ==
+$$
 
 ###+ 桴4 | _(4)Fau_ [[fau4]]
 

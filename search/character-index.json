@@ -7229,6 +7229,16 @@
 "text":"U+7F36 (F1.50 缶 _Fau_ (fau1)) (Page 51 缶 _Fau_ (fau1); here corrected to _Fau_ (fau2)) Earthenware in general (Kangxi: 瓦缶之器); a vessel used to contain wine (Kangxi: 瓦器所以盛酒漿); one on which time was ~~noted~~ ``beaten`` (Kangxi: 秦人鼓之以節歌); a jar (Kangxi: 盎謂之缶, 缶卽盎也大腹而斂口); _nga fau_ (ngaa5 fau2 瓦缶), earthenware. The 121st radical (\"jar\"). 【缶】 (pjuwX) (_noun-like_) earthenware"
 }
 },
+"枹":{
+"fau4":{
+"isCanonical":false,
+"text":"U+67B9"
+},
+"fu1":{
+"isCanonical":true,
+"text":"U+67B9 桴 fau4 (per 《廣韻》縛謀切) (F2.8 枹) 擊鼓之杖 (Page 58 桴; here normalised to 枹) a drumstick (Kangxi 桴: 擊鼓杖與枹同); (Page 58 枹) A drumstick (Kangxi: 擊鼓杖也); The reading _fu_ (fu1) is not unattested; 《正韻牋》 has the reading 芳無切 for both 枹 and 桴, with the explanation including the \"drumstick\" sense in both cases. Fan Wan entry: Fixed malformed 擊. 【枹】 (bjuw) (_noun-like_) drumstick"
+}
+},
 "桴":{
 "fau4":{
 "isCanonical":false,
@@ -7793,12 +7803,6 @@
 "fu1":{
 "isCanonical":true,
 "text":"U+5B5A (F2.8 孚) 誠信足以孚契于人 (Page 58 孚) To brood over, to hatch; accordant, mutual agreement; belief, trust, confidence (Kangxi: 一曰信也); the calyx of a bud; _fu sun_ (fu1 seon3 孚信) to rely on, veritable; _chung fu_ (zung1 fu1 忠孚), true and honest. 【孚】 (phju) (_noun-like_) confidence, assurance (_noun-like_) sincerity, trust"
-}
-},
-"枹":{
-"fu1":{
-"isCanonical":true,
-"text":"U+67B9 桴 fau4 (per 《廣韻》縛謀切) (F2.8 枹) 擊鼓之杖 (Page 58 桴; here normalised to 枹) a drumstick (Kangxi 桴: 擊鼓杖與枹同); (Page 58 枹) A drumstick (Kangxi: 擊鼓杖也); The reading _fu_ (fu1) is not unattested; 《正韻牋》 has the reading 芳無切 for both 枹 and 桴, with the explanation including the \"drumstick\" sense in both cases. Fan Wan entry: Fixed malformed 擊. 【枹】 (bjuw) (_noun-like_) drumstick"
 }
 },
 "砆":{
