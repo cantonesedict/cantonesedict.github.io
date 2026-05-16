@@ -752,6 +752,13 @@ window.onload = applyFilter;
       ==
   //
     , `bjuw`
+    , [桴~(voiced)](/entries/fu#rendering-桴-voiced)
+    ,
+      ==
+      - (_noun-like_) drumstick
+      ==
+  //
+    , `bjuw`
     , [浮](/entries/fau#rendering-浮)
     ,
       ==
@@ -3355,6 +3362,13 @@ window.onload = applyFilter;
       ==
       - (_noun-like_) confidence, assurance
       - (_noun-like_) sincerity, trust
+      ==
+  //
+    , `phju`
+    , [桴~(unvoiced)](/entries/fu#rendering-桴-unvoiced)
+    ,
+      ==
+      - (_noun-like_) raft
       ==
   //
     , `phjun`

@@ -1182,6 +1182,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - {$梵faan4, $梵faan6}
+      - $桴fu1
       - $梔zi1
       - $梓zi2
       - $梲zyut3

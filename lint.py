@@ -1361,12 +1361,13 @@ class CmdSource:
             else:
                 edited_williams_parenthetical = ''
 
-            raise LintException(
-                f'inconsistent Williams count `{williams_count}`{edited_williams_parenthetical} '
-                f'vs Jyutping count `{jyutping_count}` '
-                f'in `{dual_romanisation_reduced}` '
-                f'(suppress with caret before closing bracket if content is not Jyutping)'
-            )
+            if not character_caret:
+                raise LintException(
+                    f'inconsistent Williams count `{williams_count}`{edited_williams_parenthetical} '
+                    f'vs Jyutping count `{jyutping_count}` '
+                    f'in `{dual_romanisation_reduced}` '
+                    f'(suppress with caret before closing bracket if content is not Jyutping or if legitimate)'
+                )
 
     @staticmethod
     def lint_composition_component_beside(content: str):

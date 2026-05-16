@@ -51,6 +51,7 @@ $$
 - $俘1
 - $夫1
 - $孚1
+- $桴1
 - $砆1
 - $趺1
 - $鈇1
@@ -233,6 +234,57 @@ L
     ==
     - (_noun-like_) confidence, assurance
     - (_noun-like_) sincerity, trust
+    ==
+  ====
+$$
+
+### 桴1 | _(1)F(u/)_ [[fu1]]
+
+$$
+R
+  ⽊ + 7
+U
+  U+6874
+A
+  ==
+  - 枹 (for "drumstick" sense)
+  ==
+V
+  ==
+  - fau4 (per Kangxi 縛謀切 for all senses except "raft", and alternative per 《廣韻》 for "ridgepole" sense)
+  ==
+F
+  ==
+  - (F2.8 桴) ::編竹木爲[筏]皆曰桴::
+  ==
+W
+  ====
+  - [[Page~58 (1)桴]]
+    ==
+    - A raft [[Kangxi: 編竹木代舟也大曰筏小曰桴]];
+    - a ridge pole in a roof [[Kangxi: 棟名, 棟謂之桴, 謂屋脊也]];
+    - a drumstick [[Kangxi: 擊鼓杖與枹同]];
+    - a ~~barrow to carry~~ ``tool for heaping`` dirt [[Kangxi: 聚土器也 etc.]];
+    - _(1)f(u/)_ (or _~~(1)fau~~ ``(4)fau``_) _~~t(a/)n(3)~~ ``t(')(a/)n(3)``_
+        [[fu1 taan3 or fau4 taan3 桴炭^]]
+        light charcoal.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 茷 to 筏.
+  - Williams' 桴炭: Corrected _(1)fau_ (fau1) to _(4)fau_ (fau4),
+    and corrected _t(a/)n(3)_ (daan3) to _t(')(a/)n(3)_ (taan3).
+  ==
+L
+  ====
+  * 【桴-voiced】 (bjuw)
+    ==
+    - (_noun-like_) drumstick
+    ==
+  * 【桴-unvoiced】 (phju)
+    ==
+    - (_noun-like_) raft
     ==
   ====
 $$
