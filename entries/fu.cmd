@@ -53,6 +53,7 @@ $$
 - $孚1
 - $桴1
 - $砆1
+- $莩1
 - $趺1
 - $鈇1
 - $麩1
@@ -225,7 +226,7 @@ W
     [[Otherwise, an alternative form of 俘. **See $俘fu1 for the canonical entry.**]]
     --
     --
-    [[Otherwise, an alternative form of 莩. **See $莩fu1 for the canonical entry.**]] [[TODO]]
+    [[Otherwise, an alternative form of 莩. **See $莩fu1 for the canonical entry.**]]
     --
   ====
 L
@@ -312,6 +313,48 @@ W
     - a false gem.
     ==
   ====
+$$
+
+### 莩1 | _(1)F(u/)_ [[fu1]]
+
+$$
+R
+  ⾋ + 7
+U
+  U+83A9
+A
+  ==
+  - $孚1
+  ==
+F
+  ==
+  - (F2.8 莩) 葭也
+  ==
+W
+  ====
+  - [[Page~58 (1)莩]]
+    ==
+    - The pellicle lining the culms of reeds [[Kangxi: 莩者其筩中白皮至薄者也]];
+    - ~~_met._ near to, friendly, sincere.~~
+    ==
+    --
+    [[Otherwise, an alternative form of 殍, and reading variation. **See $殍piu5 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Williams' "_met._ near to, friendly, sincere": This is incorrect.
+    The metaphor 葭莩之親 is for *thinness* of relation (Kangxi: 至薄者也), not closeness.
+    In other words, for the *barely* related, not the closely related.
+  ==
+P
+  ++
+  1. Used in 莩甲 (to sprout).
+  ++
+S
+  ==
+  - $莩piu5 (TODO) <## same as 殍 ##>
+  ==
 $$
 
 ### 趺1 | _(1)F(u/)_ [[fu1]]
