@@ -7788,7 +7788,11 @@
 "鈇":{
 "fu1":{
 "isCanonical":true,
-"text":"U+9207 (F2.8 鈇) 斧鉞之屬也 (Page 57 鈇) A kind of hatchet of small ax (Kangxi: 斧也). A grass cutter (Kangxi: 莝斫刀). 【鈇】 (pju) (_noun-like_) cutter, chopper (_noun-like_) hatchet"
+"text":"U+9207 (F2.8 鈇) 斧鉞之屬也 (Page 57 鈇) A grass cutter (Kangxi: 莝斫刀). 【鈇-cutter】 (pju) (_noun-like_) cutter, chopper"
+},
+"fu2":{
+"isCanonical":true,
+"text":"U+9207 fu1 (per 《廣韻》甫無切) (F2.8 鈇 _Fu_ (fu1)) 斧鉞之屬也 (Page 57 鈇 _Fu_ (fu1); here normalised to _Fu_ (fu2)) A kind of hatchet of small ax (Kangxi 鈇: 斧也, 鈇方于反又音斧). 【鈇-hatchet】 (pju, pjuX) (_noun-like_) hatchet"
 }
 },
 "之":{

@@ -3675,10 +3675,16 @@ window.onload = applyFilter;
       ==
   //
     , `pju`
-    , [鈇](/entries/fu#rendering-鈇)
+    , [鈇~(cutter)](/entries/fu#rendering-鈇-cutter)
     ,
       ==
       - (_noun-like_) cutter, chopper
+      ==
+  //
+    , `pju`
+    , [鈇~(hatchet)](/entries/fu#rendering-鈇-hatchet)
+    ,
+      ==
       - (_noun-like_) hatchet
       ==
   //
@@ -3687,6 +3693,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) master
+      ==
+  //
+    , `pjuX`
+    , [鈇~(hatchet)](/entries/fu#rendering-鈇-hatchet)
+    ,
+      ==
+      - (_noun-like_) hatchet
       ==
   //
     , `pjun`

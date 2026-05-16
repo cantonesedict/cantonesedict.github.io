@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [fu1](#1)
+- [fu2](#2)
 ==
 </nav>
 <## /tones ##>
@@ -203,9 +204,9 @@ F
 W
   ====
   - [[Page~57 (1)鈇]]
-    ==
-    - A kind of hatchet of small ax [[Kangxi: 斧也]].
-    ==
+    --
+    [[Reading variation. **See $鈇fu2 for the canonical entry.**]]
+    --
   ====
 P
   ++
@@ -213,10 +214,62 @@ P
   ++
 L
   ====
-  * 【鈇】 (pju)
+  * 【鈇-cutter】 (pju)
     ==
     - (_noun-like_) cutter, chopper
+    ==
+  ====
+S
+  ==
+  - $鈇fu2
+  ==
+$$
+
+
+##{#2 .williams} ``(2)F(u/)`` [[fu2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $鈇2
+==
+</nav>
+<## /tone-2-characters ##>
+
+###+ 鈇2 | _(2)F(u/)_ [[fu2]]
+
+$$
+R
+  ⾦ + 4
+U
+  U+9207
+V
+  ==
+  - fu1 (per 《廣韻》甫無切)
+  ==
+F
+  ==
+  - (F2.8 鈇 _(1)F(u/)_ (fu1)) 斧鉞之屬也
+  ==
+W
+  ====
+  - [[Page~57 (1)鈇 _(1)F(u/)_ (fu1); here normalised to _(2)F(u/)_ (fu2)]]
+    ==
+    - A kind of hatchet of small ax [[Kangxi 鈇: 斧也, 鈇方于反又音斧]].
+    ==
+    --
+    [[Alternative form of 斧. See $斧fu2.]] [[TODO]]
+    --
+  ====
+L
+  ====
+  * 【鈇-hatchet】 (pju, pjuX)
+    ==
     - (_noun-like_) hatchet
     ==
   ====
+S
+  ==
+  - $鈇fu1
+  ==
 $$

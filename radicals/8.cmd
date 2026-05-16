@@ -71,7 +71,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $鈪aak3
       - {$鈔caau1, $鈔caau3}
-      - $鈇fu1
+      - {$鈇fu1, $鈇fu2}
       - $鈒zaap6
       ==
       </nav>
