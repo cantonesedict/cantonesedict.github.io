@@ -49,6 +49,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $夫1
+- $孚1
 - $砆1
 - $趺1
 - $鈇1
@@ -132,6 +133,47 @@ S
   ==
   - $夫fu4 (TODO)
   ==
+$$
+
+### 孚1 | _(1)F(u/)_ [[fu1]]
+
+$$
+R
+  ⼦ + 4
+  ⽖ + 3
+U
+  U+5B5A
+F
+  ==
+  - (F2.8 孚) 誠信足以孚契于人
+  ==
+W
+  ====
+  - [[Page~58 (1)孚]]
+    ==
+    - To brood over, to hatch; <## TODO: same as $孵fu1 ##>
+    - accordant, mutual agreement;
+    - belief, trust, confidence [[Kangxi: 一曰信也]];
+    - the calyx of a bud; <## TODO: same as $柎fu1 (?) ##>
+    - _(1)f(u/) sun(3)_
+        [[fu1 seon3 孚信]]
+        to rely on, veritable;
+    - _(1)chung (1)f(u/)_
+        [[zung1 fu1 忠孚]],
+        true and honest.
+    ==
+    --
+    [[Otherwise, an alternative form of 莩. **See $莩fu1 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+L
+  ====
+  * 【孚】 (phju)
+    ==
+    - (_noun-like_) confidence, assurance
+    - (_noun-like_) sincerity, trust
+    ==
+  ====
 $$
 
 ### 砆1 | _(1)F(u/)_ [[fu1]]

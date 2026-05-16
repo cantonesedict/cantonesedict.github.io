@@ -723,6 +723,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $孚fu1
       - $孜zi1
       ==
       </nav>

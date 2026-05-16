@@ -3341,6 +3341,14 @@ window.onload = applyFilter;
       - (_noun-like_) back-dissection
       ==
   //
+    , `phju`
+    , [孚](/entries/fu#rendering-孚)
+    ,
+      ==
+      - (_noun-like_) confidence, assurance
+      - (_noun-like_) sincerity, trust
+      ==
+  //
     , `phjun`
     , [帉](/entries/fan#rendering-帉)
     ,
