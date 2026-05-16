@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-05-14
+* %date-modified --> 2026-05-16
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -3663,6 +3663,14 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) hair
+      ==
+  //
+    , `pju`
+    , [夫~(unvoiced)](/entries/fu#rendering-夫-unvoiced)
+    ,
+      ==
+      - (_noun-like_) man, -er
+      - (_noun-like_) husband
       ==
   //
     , `pjun`
