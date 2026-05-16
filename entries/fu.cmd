@@ -119,6 +119,7 @@ L
     ==
     - (_noun-like_) man, -er
     - (_noun-like_) husband
+    - Used in [夫子](/entries/zi#rendering-夫子).
     ==
   ====
 S

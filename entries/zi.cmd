@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2026-04-27
+* %date-modified --> 2026-05-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2428,13 +2428,17 @@ C
   ==
 L
   ====
+  * 【夫子】 (pju tsiX)
+    ==
+    - (_noun-like_) master
+    ==
   * 【子】 (tsiX)
     ==
     - (_noun-like_) child, son, daughter
     - (_noun-like_) master, (_met._) thou
     - (_noun-like_) numerator
     - (_noun-like_) rat-branch
-    - Used in [赤子](/entries/cik#rendering-赤子).
+    - Used in [夫子](/entries/zi#rendering-夫子), [赤子](/entries/cik#rendering-赤子).
     ==
   ====
 $$

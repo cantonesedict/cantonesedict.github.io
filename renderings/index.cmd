@@ -3671,6 +3671,14 @@ window.onload = applyFilter;
       ==
       - (_noun-like_) man, -er
       - (_noun-like_) husband
+      - Used in [夫子](/entries/zi#rendering-夫子).
+      ==
+  //
+    , `pju tsiX`
+    , [夫子](/entries/zi#rendering-夫子)
+    ,
+      ==
+      - (_noun-like_) master
       ==
   //
     , `pjun`
@@ -6203,7 +6211,7 @@ window.onload = applyFilter;
       - (_noun-like_) master, (_met._) thou
       - (_noun-like_) numerator
       - (_noun-like_) rat-branch
-      - Used in [赤子](/entries/cik#rendering-赤子).
+      - Used in [夫子](/entries/zi#rendering-夫子), [赤子](/entries/cik#rendering-赤子).
       ==
   //
     , `tsiX`
