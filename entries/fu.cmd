@@ -163,7 +163,7 @@ C
 P
   ++
   1. To shout out.
-  1. Used in 嗚呼 (Kangxi: 嗚呼歎辭). <## TODO: 嗚呼 wu1 fu1 (rendering) ##>
+  1. Used in 嗚呼 (Kangxi: 嗚呼歎辭).
   1. (_onomatopoeia_) The sound of wind.
   1. A surname (Kangxi: 姓).
   1. Used in 呼延 (a compound surname) (Kangxi: 複姓, ::[...]姓呼延者是也::).
