@@ -371,7 +371,7 @@ W
     - To brood over, to hatch; <## TODO: same as $孵fu1 ##>
     - accordant, mutual agreement;
     - belief, trust, confidence [[Kangxi: 一曰信也]];
-    - the calyx of a bud; <## TODO: same as $柎fu1 (?) ##>
+    - ~~the calyx of a bud;~~
     - _(1)f(u/) sun(3)_
         [[fu1 seon3 孚信]]
         to rely on, veritable;
@@ -386,6 +386,12 @@ W
     [[Otherwise, an alternative form of 莩. **See $莩fu1 for the canonical entry.**]]
     --
   ====
+C
+  ==
+  - Williams' "the calyx of a bud":
+    This would make 孚 an alternative form of $柎1.
+    I do not believe this to be the case.
+  ==
 L
   ====
   * 【孚】 (phju)
@@ -568,6 +574,10 @@ R
   ⽊ + 5
 U
   U+67CE
+A
+  ==
+  - 跗
+  ==
 F
   ==
   - (F2.8 柎) ::花木之[萼]::
