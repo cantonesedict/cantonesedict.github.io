@@ -54,6 +54,7 @@ $$
 - $嘑1
 - $夫1
 - $孚1
+- $敷1
 - $枹1
 - $桴1
 - $砆1
@@ -385,6 +386,76 @@ L
     ==
     - (_noun-like_) confidence, assurance
     - (_noun-like_) sincerity, trust
+    ==
+  ====
+$$
+
+### 敷1 | _(1)F(u/)_ [[fu1]]
+
+$$
+R
+  ⽁ + 11
+U
+  U+6577
+A
+  ==
+  - 尃
+  - 旉
+  ==
+F
+  ==
+  - (F2.8 旉) 布列也
+  - (F2.8 敷) 布也施也
+  ==
+W
+  ====
+  - [[Page~58 (1)敷]]
+    ==
+    - To spread out, to diffuse [[Kangxi: 散也]], to give;
+    - to issue ~~an order~~, to promulgate [[Kangxi: ::言其外布[...]::]], to announce, to show forth;
+    - to state to a superior [[Kangxi: ::敷[陳]也::]];
+    - _(1)f(u/) (1)sh(i/)_
+        [[fu1 si1 敷施]],
+        to spread good instructions;
+    - _(1)f(u/) y(e/)uk(9)_
+        [[fu1 joek6 敷藥]]
+        to apply a plaster;
+    - _~~yat(7)~~ ``yat(9)`` k(')ap(7) pat(7) (1)f(u/)_
+        [[jat6 kap1 bat1 fu1 日給不敷]],
+        not enough for daily use;
+    - _(1)f(u/) yung(6)_
+        [[fu1 jung6 敷用]]
+        sufficient.
+    ==
+  ====
+C
+  ==
+  - Williams' "to issue an order": This is a misreading of
+    Kangxi 《書大禹謨》文命敷于四海《傳》言其外布文德敎命.
+    In the commentary, 文德敎命 explains 文命, not 敷.
+    Thus, "an order" should be deleted.
+  - Williams' 日給不敷: Corrected _yat(7)_ (jat1) to _yat(9)_ (jat6).
+  - In modern usage, used in 敷衍 (to do barely enough).
+  ==
+P
+  ++
+  1. Widely (Kangxi: ::[...]廣[...]::).
+  1. To arrange, to divide.
+  1. To apply a compress (in medicine).
+      ==
+      - 熱敷 (jit6 fu1): "Hot compress."
+      ==
+  1. To suffice.
+  ++
+L
+  ====
+  * 【敷】 (phju)
+    ==
+    - (_verb-like_) [to] spread (widely)
+    - (_adverb-like_) widely
+    - (_verb-like_) [to] promulgate
+    - (_verb-like_) [to] arrange, [to] display
+    - (_verb-like_) [to] state
     ==
   ====
 $$

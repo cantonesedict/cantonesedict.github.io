@@ -3372,6 +3372,17 @@ window.onload = applyFilter;
       ==
   //
     , `phju`
+    , [敷](/entries/fu#rendering-敷)
+    ,
+      ==
+      - (_verb-like_) [to] spread (widely)
+      - (_adverb-like_) widely
+      - (_verb-like_) [to] promulgate
+      - (_verb-like_) [to] arrange, [to] display
+      - (_verb-like_) [to] state
+      ==
+  //
+    , `phju`
     , [桴](/entries/fu#rendering-桴)
     ,
       ==
