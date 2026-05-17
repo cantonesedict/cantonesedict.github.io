@@ -60,6 +60,7 @@ $$
 - $枹1
 - $柎1
 - $桴1
+- ($泭1)
 - ($痡1)
 - $砆1
 - $膚1
@@ -605,7 +606,7 @@ U
 A
   ==
   - $柎1 (for "raft" sense)
-  - 泭 (for "raft" sense)
+  - $泭1 (for "raft" sense)
   ==
 V
   ==
@@ -654,6 +655,23 @@ S
   ==
   - ($桴fau4)
   ==
+$$
+
+###+ 泭1 | _(1)F(u/)_ [[fu1]]
+
+$$.
+R
+  ⽔ + 5
+U
+  U+6CED
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 桴 (for the "raft" sense). **See $桴fu1 for the canonical entry.**
+  ++
 $$
 
 ### 痡1 | _(1)F(u/)_ [[fu1]]
