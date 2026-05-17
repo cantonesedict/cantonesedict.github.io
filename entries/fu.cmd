@@ -58,6 +58,7 @@ $$
 - $桴1
 - $砆1
 - $莩1
+- ($謼1)
 - $趺1
 - $鈇1
 - $麩1
@@ -144,7 +145,7 @@ A
   - $乎1 (in 嗚呼 spelt 烏乎)
   - $嘑1
   - 虖
-  - 謼
+  - $謼1
   ==
 V
   ==
@@ -560,6 +561,23 @@ S
   ==
   - $莩piu5 (TODO) <## same as 殍 ##>
   ==
+$$
+
+###+ 謼1 | _(1)F(u/)_ [[fu1]]
+
+$$.
+R
+  ⾔ + 11
+U
+  U+8B3C
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 呼. **See $呼fu1 for the canonical entry.**
+  ++
 $$
 
 ### 趺1 | _(1)F(u/)_ [[fu1]]
