@@ -9633,6 +9633,13 @@ window.onload = applyFilter;
       - Used in [嗚呼](/entries/fu#rendering-嗚呼). <## TODO: move under $嗚wu1 ##>
       ==
   //
+    , `xu`
+    , [嘑](/entries/fu#rendering-嘑)
+    ,
+      ==
+      - (_verb-like_) [to] shout (out)
+      ==
+  //
     , `xuH`
     , [呼](/entries/fu#rendering-呼)
     ,

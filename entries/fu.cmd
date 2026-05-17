@@ -50,6 +50,7 @@ $$
 =={.modern}
 - $俘1
 - $呼1
+- $嘑1
 - $夫1
 - $孚1
 - $枹1
@@ -118,13 +119,13 @@ U
 A
   ==
   - 乎 (in 嗚呼 spelt 烏乎)
-  - 嘑
+  - $嘑1
   - 虖
   - 謼
   ==
 V
   ==
-  - fu3 (per 《廣韻》荒故切 for "call" sense spelt 謼)
+  - fu3 (per 《廣韻》荒故切 for "call" and "shout" senses spelt 謼)
   ==
 F
   ==
@@ -178,6 +179,54 @@ L
     ==
     - (_verb-like_) [to] call (out), [to] shout (out)
     - Used in [嗚呼](/entries/fu#rendering-嗚呼). <## TODO: move under $嗚wu1 ##>
+    ==
+  ====
+$$
+
+### 嘑1 | _(1)F(u/)_ [[fu1]]
+
+$$
+R
+  ⼝ + 11
+U
+  U+5611
+V
+  ==
+  - fu3 (alternative per 《集韻》荒故切)
+  ==
+F
+  ==
+  - (F2.8 呼) 呼喚
+  - (F2.8 嘑) ::喚也[又]咄啐之聲::
+  ==
+W
+  ====
+  - [[Page~58 (1)嘑]]
+    ==
+    - Same as the preceding [[呼]];
+    - also to hoot``, to roar at`` [[Kangxi: 唬也, 大聲]], to menace;
+    - _(2)hau (1)f(u/)_
+        [[hau2 fu1 口嘑]],
+        to bellow.
+    ==
+    --
+    [[Alternative form of 呼. See $呼fu1.]]
+    --
+  ====
+C
+  ==
+  - Kangxi considers the departing-tone reading _f(u/)(3)_ (fu3)
+    mandatory for the "berate" sense (in 《孟子》嘑爾而與之).
+  ==
+P
+  ++
+  1. To berate (Kangxi: 嘑爾咄啐之貌).
+  ++
+L
+  ====
+  * 【嘑】 (xu)
+    ==
+    - (_verb-like_) [to] shout (out)
     ==
   ====
 $$

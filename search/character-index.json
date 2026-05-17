@@ -7796,7 +7796,13 @@
 "呼":{
 "fu1":{
 "isCanonical":true,
-"text":"U+547C 乎 (in 嗚呼 spelt 烏乎) 嘑 虖 謼 fu3 (per 《廣韻》荒故切 for \"call\" sense spelt 謼) (F2.8 呼) 呼喚 (F2.8 嘑) 喚也又咄啐之聲 (Page 58 呼) To breathe ``out``, an expiration (Kangxi: 外息也, 出息爲呼入息爲吸); to call, to invoke (Kangxi: 喚也); _fu ~~fun~~ ``un``_ (fu1 wun6 呼喚) to bawl, to cry out; _ch'eung fu tun t'an_ (coeng4 fu1 dyun2 taan3 長呼短嘆) groans and sighs; _fu k'ap_ (fu1 kap1 呼吸) breathing; _fu ham_ (fu1 haam3 呼喊) to cry after; _fu hot_ (fu1 hot3 呼喝) to scold, to order about. Fan Wan entry: Corrected 夂 to 又. Williams' 呼喚: Changed _fun_ (fun3) to modern _un_ (wun6). Williams' 長呼短嘆: Likely a mistake. The actual phrase is 長吁短嘆. To shout out. Used in 嗚呼 (Kangxi: 嗚呼歎辭). (_onomatopoeia_) The sound of wind. A surname (Kangxi: 姓). Used in 呼延 (a compound surname) (Kangxi: 複姓, ...姓呼延者是也). 【嗚呼】 ('u xu) (_onomatopoeia_) boo hoo, (_met._) alas 【呼】 (xu, xuH) (_verb-like_) to call (out), to shout (out) Used in 嗚呼."
+"text":"U+547C 乎 (in 嗚呼 spelt 烏乎) 嘑 虖 謼 fu3 (per 《廣韻》荒故切 for \"call\" and \"shout\" senses spelt 謼) (F2.8 呼) 呼喚 (F2.8 嘑) 喚也又咄啐之聲 (Page 58 呼) To breathe ``out``, an expiration (Kangxi: 外息也, 出息爲呼入息爲吸); to call, to invoke (Kangxi: 喚也); _fu ~~fun~~ ``un``_ (fu1 wun6 呼喚) to bawl, to cry out; _ch'eung fu tun t'an_ (coeng4 fu1 dyun2 taan3 長呼短嘆) groans and sighs; _fu k'ap_ (fu1 kap1 呼吸) breathing; _fu ham_ (fu1 haam3 呼喊) to cry after; _fu hot_ (fu1 hot3 呼喝) to scold, to order about. Fan Wan entry: Corrected 夂 to 又. Williams' 呼喚: Changed _fun_ (fun3) to modern _un_ (wun6). Williams' 長呼短嘆: Likely a mistake. The actual phrase is 長吁短嘆. To shout out. Used in 嗚呼 (Kangxi: 嗚呼歎辭). (_onomatopoeia_) The sound of wind. A surname (Kangxi: 姓). Used in 呼延 (a compound surname) (Kangxi: 複姓, ...姓呼延者是也). 【嗚呼】 ('u xu) (_onomatopoeia_) boo hoo, (_met._) alas 【呼】 (xu, xuH) (_verb-like_) to call (out), to shout (out) Used in 嗚呼."
+}
+},
+"嘑":{
+"fu1":{
+"isCanonical":true,
+"text":"U+5611 fu3 (alternative per 《集韻》荒故切) (F2.8 呼) 呼喚 (F2.8 嘑) 喚也又咄啐之聲 (Page 58 嘑) Same as the preceding (呼); also to hoot``, to roar at`` (Kangxi: 唬也, 大聲), to menace; _hau fu_ (hau2 fu1 口嘑), to bellow. Kangxi considers the departing-tone reading _fu_ (fu3) mandatory for the \"berate\" sense (in 《孟子》嘑爾而與之). To berate (Kangxi: 嘑爾咄啐之貌). 【嘑】 (xu) (_verb-like_) to shout (out)"
 }
 },
 "夫":{

@@ -208,6 +208,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - {$嘔au1, $嘔au2}
       - $嘈cou4
+      - $嘑fu1
       - {$嘖zaak3, $嘖zik1}
       - ${𠽃=⿰口執}zap1
       - $嗻ze3
