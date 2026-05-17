@@ -48,6 +48,7 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- ($乎1)
 - $俘1
 - $呼1
 - $嘑1
@@ -64,6 +65,28 @@ $$
 ==
 </nav>
 <## /tone-1-characters ##>
+
+###+ 乎1 | _(1)F(u/)_ [[fu1]]
+
+$$.
+R
+  ⼃ + 4
+U
+  U+4E4E
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 呼 (in 嗚呼 spelt 烏乎). **See $呼fu1 for the canonical entry.**
+  ++
+S
+  ==
+  - $乎fu4 (TODO)
+  - ($乎wu4) (TODO)
+  ==
+$$
 
 ### 俘1 | _(1)F(u/)_ [[fu1]]
 
@@ -118,7 +141,7 @@ U
   U+547C
 A
   ==
-  - 乎 (in 嗚呼 spelt 烏乎)
+  - $乎1 (in 嗚呼 spelt 烏乎)
   - $嘑1
   - 虖
   - 謼
