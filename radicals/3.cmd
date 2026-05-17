@@ -861,6 +861,14 @@ For all radicals, see [Index of characters by radical](./).
       ==
       </nav>
   //
+    , 7
+    ,
+      <nav class="sideways">
+      ==
+      - $尃fu1
+      ==
+      </nav>
+  //
     , 8
     ,
       <nav class="sideways">
