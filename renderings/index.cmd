@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-05-16
+* %date-modified --> 2026-05-17
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -361,6 +361,13 @@ window.onload = applyFilter;
       ==
       - (_verb-like_) [to] shut away, [to] conceal
       - (_adjective-like_) gloomy, unenlightened
+      ==
+  //
+    , `'u xu`
+    , [嗚呼](/entries/fu#rendering-嗚呼)
+    ,
+      ==
+      - (_onomatopoeia_) boo hoo, (_met._) alas
       ==
   //
     , `'uw`
@@ -9616,6 +9623,22 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] destroy
+      ==
+  //
+    , `xu`
+    , [呼](/entries/fu#rendering-呼)
+    ,
+      ==
+      - (_verb-like_) [to] call (out), [to] shout (out)
+      - Used in [嗚呼](/entries/fu#rendering-嗚呼). <## TODO: move under $嗚wu1 ##>
+      ==
+  //
+    , `xuH`
+    , [呼](/entries/fu#rendering-呼)
+    ,
+      ==
+      - (_verb-like_) [to] call (out), [to] shout (out)
+      - Used in [嗚呼](/entries/fu#rendering-嗚呼). <## TODO: move under $嗚wu1 ##>
       ==
   //
     , `xwaX`

@@ -7793,6 +7793,12 @@
 "text":"U+4FD8 孚 (F2.8 俘) 囚也對敵被擒之人孚穀殼曰俘葢車中所獲者未也 (Page 58 俘) To captivate, to capture (Kangxi: 一說俘取也), to take prisoner in war; a prisoner ``of war`` (Kangxi: 囚敵曰俘); spoil taken in battle (Kangxi: 軍所獲也); _fu ts'au_ (fu1 cau4 俘囚), a captive; _fu lo_ (fu1 lou5 俘虜), to take captive. Fan Wan entry: Corrected 因 to 囚, and normalised 𫉬 to 獲. 【俘】 (phju) (_verb-like_) to capture (_noun-like_) captive, (_met._) spoils"
 }
 },
+"呼":{
+"fu1":{
+"isCanonical":true,
+"text":"U+547C 乎 (in 嗚呼 spelt 烏乎) 嘑 虖 謼 fu3 (per 《廣韻》荒故切 for \"call\" sense spelt 謼) (F2.8 呼) 呼喚 (F2.8 嘑) 喚也又咄啐之聲 (Page 58 呼) To breathe ``out``, an expiration (Kangxi: 外息也, 出息爲呼入息爲吸); to call, to invoke (Kangxi: 喚也); _fu ~~fun~~ ``un``_ (fu1 wun6 呼喚) to bawl, to cry out; _ch'eung fu tun t'an_ (coeng4 fu1 dyun2 taan3 長呼短嘆) groans and sighs; _fu k'ap_ (fu1 kap1 呼吸) breathing; _fu ham_ (fu1 haam3 呼喊) to cry after; _fu hot_ (fu1 hot3 呼喝) to scold, to order about. Fan Wan entry: Corrected 夂 to 又. Williams' 呼喚: Changed _fun_ (fun3) to modern _un_ (wun6). Williams' 長呼短嘆: Likely a mistake. The actual phrase is 長吁短嘆. To shout out. Used in 嗚呼 (Kangxi: 嗚呼歎辭). (_onomatopoeia_) The sound of wind. A surname (Kangxi: 姓). Used in 呼延 (a compound surname) (Kangxi: 複姓, ...姓呼延者是也). 【嗚呼】 ('u xu) (_onomatopoeia_) boo hoo, (_met._) alas 【呼】 (xu, xuH) (_verb-like_) to call (out), to shout (out) Used in 嗚呼."
+}
+},
 "夫":{
 "fu1":{
 "isCanonical":true,

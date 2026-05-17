@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fu
-* %date-modified --> 2026-05-16
+* %date-modified --> 2026-05-17
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -49,6 +49,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $俘1
+- $呼1
 - $夫1
 - $孚1
 - $枹1
@@ -103,6 +104,80 @@ L
     ==
     - (_verb-like_) [to] capture
     - (_noun-like_) captive, (_met._) spoils
+    ==
+  ====
+$$
+
+### 呼1 | _(1)F(u/)_ [[fu1]]
+
+$$
+R
+  ⼝ + 5
+U
+  U+547C
+A
+  ==
+  - 乎 (in 嗚呼 spelt 烏乎)
+  - 嘑
+  - 虖
+  - 謼
+  ==
+V
+  ==
+  - fu3 (per 《廣韻》荒故切 for "call" sense spelt 謼)
+  ==
+F
+  ==
+  - (F2.8 呼) 呼喚
+  - (F2.8 嘑) ::喚也[又]咄啐之聲::
+  ==
+W
+  ====
+  - [[Page~58 (1)呼]]
+    ==
+    - To breathe ``out``, an expiration [[Kangxi: 外息也, 出息爲呼入息爲吸]];
+    - to call, to invoke [[Kangxi: 喚也]];
+    - _(1)f(u/) ~~f(u/)n(3)~~ ``(u/)n(6)``_
+        [[fu1 wun6 呼喚]]
+        to bawl, to cry out;
+    - _(4)ch(')(e/)ung (1)f(u/) (2)t(u:)n t(')(a/)n(3)_
+        [[coeng4 fu1 dyun2 taan3 長呼短嘆]]
+        groans and sighs;
+    - _(1)f(u/) k(')ap(7)_
+        [[fu1 kap1 呼吸]]
+        breathing;
+    - _(1)f(u/) h(a/)m(3)_
+        [[fu1 haam3 呼喊]]
+        to cry after;
+    - _(1)f(u/) hot(8)_
+        [[fu1 hot3 呼喝]]
+        to scold, to order about.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 夂 to 又.
+  - Williams' 呼喚: Changed _f(u/)n(3)_ (fun3) to modern _(u/)n(6)_ (wun6).
+  - Williams' 長呼短嘆: Likely a mistake. The actual phrase is 長吁短嘆. <## TODO: move under $吁heoi1 ##>
+  ==
+P
+  ++
+  1. To shout out.
+  1. Used in 嗚呼 (Kangxi: 嗚呼歎辭). <## TODO: 嗚呼 wu1 fu1 (rendering) ##>
+  1. (_onomatopoeia_) The sound of wind.
+  1. A surname (Kangxi: 姓).
+  1. Used in 呼延 (a compound surname) (Kangxi: 複姓, ::[...]姓呼延者是也::).
+  ++
+L
+  ====
+  * 【嗚呼】 ('u xu)
+    ==
+    - (_onomatopoeia_) boo hoo, (_met._) alas
+    ==
+  * 【呼】 (xu, xuH)
+    ==
+    - (_verb-like_) [to] call (out), [to] shout (out)
+    - Used in [嗚呼](/entries/fu#rendering-嗚呼). <## TODO: move under $嗚wu1 ##>
     ==
   ====
 $$
