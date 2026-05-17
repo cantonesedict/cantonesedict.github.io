@@ -3723,6 +3723,17 @@ window.onload = applyFilter;
       ==
   //
     , `pju`
+    , [膚](/entries/fu#rendering-膚)
+    ,
+      ==
+      - (_noun-like_) skin
+      - (_noun-like_) cut-meat
+      - (_noun-like_) pork
+      - (_adjective-like_) comely
+      - (_adjective-like_) great
+      ==
+  //
+    , `pju`
     , [鈇~(cutter)](/entries/fu#rendering-鈇-cutter)
     ,
       ==

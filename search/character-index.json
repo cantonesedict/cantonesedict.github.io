@@ -7853,6 +7853,12 @@
 "text":"U+7806 玞 (F2.8 砆) 碔砆石之似玉者 (Page 57 砆) A stone resembling a gem (Kangxi: 同玞, 碔砆石次玉); a false gem."
 }
 },
+"膚":{
+"fu1":{
+"isCanonical":true,
+"text":"U+819A (F2.8 膚) 皮也卽肌膚 (Page 58 膚) The skin, the epidermis (Kangxi: 皮也 etc.); the soft flesh; minced meat (Kangxi: 切肉爲膚); pork (Kangxi: 豕肉爲膚); skin-deep, superficial (Kangxi: 膚淺喩在皮膚不深也); beautiful (Kangxi: 美也), ~~large~~ ``great`` (Kangxi: 大也); to skin, to flay (Kangxi: 剝也); ~~to receive;~~ _fat fu_ (faat3 fu1 髮膚), ~~the scalp~~ ``the hair and the skin``; _ki fu_ (gei1 fu1 肌膚), muscle ``and skin``, flesh; _fu man_ (fu1 man4 膚文), superficial writing; _fu t'ai_ (fu1 tai2 膚體), the body. Fan Wan entry: Corrected right component of 卽 from 阝 to 卩. Williams' \"to receive\": This is a misreading of Kangxi 膚受, which is \"skin-received\" or \"received at the skin\". It does *not* define 膚 as \"receive\". 【膚】 (pju) (_noun-like_) skin (_noun-like_) cut-meat (_noun-like_) pork (_adjective-like_) comely (_adjective-like_) great"
+}
+},
 "莩":{
 "fu1":{
 "isCanonical":true,

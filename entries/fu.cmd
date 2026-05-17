@@ -61,6 +61,7 @@ $$
 - $桴1
 - ($痡1)
 - $砆1
+- $膚1
 - $莩1
 - ($虖1)
 - ($謼1)
@@ -653,6 +654,66 @@ W
     ==
     - A stone resembling a gem [[Kangxi: 同玞, 碔砆石次玉]];
     - a false gem.
+    ==
+  ====
+$$
+
+### 膚1 | _(1)F(u/)_ [[fu1]]
+
+$$
+R
+  ⾁ + 11
+U
+  U+819A
+F
+  ==
+  - (F2.8 膚) ::皮也[卽]肌膚::
+  ==
+W
+  ====
+  - [[Page~58 (1)膚]]
+    ==
+    - The skin, the epidermis [[Kangxi: 皮也 etc.]];
+    - the soft flesh;
+    - minced meat [[Kangxi: 切肉爲膚]];
+    - pork [[Kangxi: 豕肉爲膚]];
+    - skin-deep, superficial [[Kangxi: 膚淺喩在皮膚不深也]];
+    - beautiful [[Kangxi: 美也]], ~~large~~ ``great`` [[Kangxi: 大也]];
+    - to skin, to flay [[Kangxi: 剝也]];
+    - ~~to receive;~~
+    - _f(a/)t(8) (1)f(u/)_
+        [[faat3 fu1 髮膚]],
+        ~~the scalp~~ ``the hair and the skin``;
+    - _(1)k(i/) (1)f(u/)_
+        [[gei1 fu1 肌膚]],
+        muscle ``and skin``, flesh;
+    - _(1)f(u/) (4)man_
+        [[fu1 man4 膚文]],
+        superficial writing;
+    - _(1)f(u/) (2)t(')ai_
+        [[fu1 tai2 膚體]],
+        the body.
+    ==
+    --
+    [[Otherwise, an alternative form of 扶. **See $扶fu1 for the canonical entry.**]] [[TODO]] <## palm = 4 digits ##>
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected right component of 卽 from 阝 to 卩.
+  - Williams' "to receive": This is a misreading of Kangxi 膚受,
+    which is "skin-received" or "received [at] the skin".
+    It does *not* define 膚 as "receive".
+  ==
+L
+  ====
+  * 【膚】 (pju)
+    ==
+    - (_noun-like_) skin
+    - (_noun-like_) cut-meat
+    - (_noun-like_) pork
+    - (_adjective-like_) comely
+    - (_adjective-like_) great
     ==
   ====
 $$
