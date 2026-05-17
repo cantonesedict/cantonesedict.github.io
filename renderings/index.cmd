@@ -9718,6 +9718,7 @@ window.onload = applyFilter;
       - (_adjective-like_) desolate
       - (_adjective-like_) extensive, (_met._) excessive
       - (_verb-like_) [to] extend
+      - (_verb-like_) [to] neglect
       ==
   //
     , `xwang`

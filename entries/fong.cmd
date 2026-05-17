@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fong
-* %date-modified --> 2026-05-14
+* %date-modified --> 2026-05-17
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -547,6 +547,7 @@ C
   ==
 P
   ++
+  1. To neglect (Kangxi: 廢也).
   1. Used in 荒唐, 荒謬, etc. (which now mean "absurd").
   ++
 L
@@ -558,6 +559,7 @@ L
     - (_adjective-like_) desolate
     - (_adjective-like_) extensive, (_met._) excessive
     - (_verb-like_) [to] extend
+    - (_verb-like_) [to] neglect
     ==
   ====
 $$
