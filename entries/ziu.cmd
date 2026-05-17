@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2026-05-03
+* %date-modified --> 2026-05-17
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -594,7 +594,7 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Normalised malformed 臟 to 臟.
+  - Fan Wan entry: Corrected malformed 臟.
   - Williams' "three imaginary organs": The "triple burner" (三膲) of Chinese medicine.
   ==
 $$

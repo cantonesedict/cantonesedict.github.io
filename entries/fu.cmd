@@ -58,6 +58,7 @@ $$
 - $敷1
 - ($旉1)
 - $枹1
+- $柎1
 - $桴1
 - ($痡1)
 - $砆1
@@ -543,7 +544,7 @@ C
   - The reading _(1)f(u/)_ (fu1) is not unattested;
     《正韻牋》 has the reading 芳無切 for both 枹 and 桴,
     with the explanation including the "drumstick" sense in both cases.
-  - Fan Wan entry: Fixed malformed 擊.
+  - Fan Wan entry: Corrected malformed 擊.
   ==
 L
   ====
@@ -559,6 +560,41 @@ S
   ==
 $$
 
+### 柎1 | _(1)F(u/)_ [[fu1]]
+
+$$
+R
+  ⽊ + 5
+U
+  U+67CE
+F
+  ==
+  - (F2.8 柎) ::花木之[萼]::
+  ==
+W
+  ====
+  - [[Page~58 (1)柎]]
+    ==
+    - A stem or petiole;
+    - a calyx [[Kangxi: 花萼足也凡草木房謂之柎]];
+    - [[...]];
+    - ~~lower bar~~ ``the foot`` of a railing [[Kangxi: 闌足也]];
+    - ~~to wash in lye.~~
+    ==
+    --
+    [[Otherwise, an alternative form of 桴 (for the "raft" sense). **See $桴fu1 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed 萼.
+  ==
+P
+  ++
+  1. The foot of any object.
+  ++
+$$
+
 ### 桴1 | _(1)F(u/)_ [[fu1]]
 
 $$
@@ -566,6 +602,11 @@ R
   ⽊ + 7
 U
   U+6874
+A
+  ==
+  - $柎1 (for "raft" sense)
+  - 泭 (for "raft" sense)
+  ==
 V
   ==
   - fau4 (per Kangxi 縛謀切 for all senses except "raft", and alternative per 《廣韻》 for "ridgepole" sense)
@@ -589,6 +630,12 @@ W
     --
     [[Otherwise, an alternative form of 枹. **See $枹fu1 for the canonical entry.**]]
     --
+  - [[Page~58 (1)柎; here normalised to 桴]]
+    ==
+    - [[...]];
+    - a raft [[Kangxi 柎: 編木以渡曰泭或作柎通作桴]];
+    - [[...]].
+    ==
   ====
 C
   ==
