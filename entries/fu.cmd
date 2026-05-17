@@ -59,6 +59,7 @@ $$
 - ($旉1)
 - $枹1
 - $桴1
+- ($痡1)
 - $砆1
 - $莩1
 - ($虖1)
@@ -604,6 +605,30 @@ L
 S
   ==
   - ($桴fau4)
+  ==
+$$
+
+### 痡1 | _(1)F(u/)_ [[fu1]]
+
+$$.
+R
+  ⽧ + 7
+U
+  U+75E1
+F
+  ==
+  - (F2.8 痡) 病不能行也
+  ==
+W
+  ====
+  - [[Page~58 (1)痡]]
+    --
+    [[Reading variation. **See $痡pou1 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+S
+  ==
+  - $痡pou1 (TODO) <## rendering: (_adjective-like_) ailed ##>
   ==
 $$
 
