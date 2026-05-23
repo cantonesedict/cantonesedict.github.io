@@ -1512,6 +1512,7 @@ For all radicals, see [Index of characters by radical](./).
       - $蚕caam4
       - $蚩ci1
       - {$蚡fan4, $蚡fan5}
+      - $蚨fu4
       - {$蚤zaau2, $蚤zou2}
       ==
       </nav>

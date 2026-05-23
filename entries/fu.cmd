@@ -1156,6 +1156,7 @@ $$
 - $扶4
 - $符4
 - $苻4
+- $蚨4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -1349,4 +1350,28 @@ S
   ==
   - ($苻fu1)
   ==
+$$
+
+### 蚨4 | _(4)F(u/)_ [[fu4]]
+
+$$
+R
+  ⾍ + 4
+U
+  U+86A8
+F
+  ==
+  - (F2.11 蚨) 靑蚨蟲名
+  ==
+W
+  ====
+  - [[Page~59 (4)蚨]]
+    ==
+    - A species of cicada or dytiscus,
+      called _(1)ts(')ing (4)f(u/)_ [[cing1 fu4 青蚨]],
+      supposed to be able to recover its stolen young,
+      and cause cash rubbed with its eggs to return to their owner
+      [[Kangxi: 靑蚨水蟲可還錢 etc.]].
+    ==
+  ====
 $$
