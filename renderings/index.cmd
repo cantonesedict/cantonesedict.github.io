@@ -657,7 +657,7 @@ window.onload = applyFilter;
       ==
   //
     , `bju`
-    , [扶](/entries/fu#rendering-扶)
+    , [扶~(voiced)](/entries/fu#rendering-扶-voiced)
     ,
       ==
       - (_verb-like_) [to] support, [to] uphold
@@ -3751,6 +3751,13 @@ window.onload = applyFilter;
       - (_noun-like_) man, -er
       - (_noun-like_) husband
       - Used in [夫子](/entries/zi#rendering-夫子).
+      ==
+  //
+    , `pju`
+    , [扶~(unvoiced)](/entries/fu#rendering-扶-unvoiced)
+    ,
+      ==
+      - (_noun-like_) palm
       ==
   //
     , `pju`

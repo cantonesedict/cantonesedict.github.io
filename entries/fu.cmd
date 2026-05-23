@@ -56,6 +56,7 @@ $$
 - $夫1
 - $孚1
 - ($尃1)
+- $扶1
 - $敷1
 - ($旉1)
 - $枯1
@@ -420,6 +421,39 @@ P
   ++
   1. Alternative form of 敷. **See $敷fu1 for the canonical entry.**
   ++
+$$
+
+###+ 扶1 | _(1)F(u/)_ [[fu1]]
+
+$$
+R
+  ⼿ + 4
+U
+  U+6276
+A
+  ==
+  - $膚1
+  ==
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. A unit of length equal to four digits (Kangxi: 鋪四指曰扶, 通作膚). Equivalent to the Ancient Egyptian or English palm.
+  ++
+L
+  ====
+  * 【扶-unvoiced】 (pju)
+    ==
+    - (_noun-like_) palm
+    ==
+  ====
+S
+  ==
+  - $扶fu4
+  - ($扶pou4) (TODO) <## same as 匍 "crawl" ##>
+  ==
 $$
 
 ### 敷1 | _(1)F(u/)_ [[fu1]]
@@ -824,7 +858,7 @@ W
         the body.
     ==
     --
-    [[Otherwise, an alternative form of 扶. **See $扶fu1 for the canonical entry.**]] [[TODO]] <## palm = 4 digits ##>
+    [[Otherwise, an alternative form of 扶. **See $扶fu1 for the canonical entry.**]]
     --
   ====
 C
@@ -1218,13 +1252,14 @@ P
   ++
 L
   ====
-  * 【扶】 (bju)
+  * 【扶-voiced】 (bju)
     ==
     - (_verb-like_) [to] support, [to] uphold
     ==
   ====
 S
   ==
+  - $扶fu1
   - ($扶pou4) (TODO) <## same as 匍 "crawl" ##>
   ==
 $$

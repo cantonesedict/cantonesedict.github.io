@@ -7833,6 +7833,16 @@
 "text":"U+5C03"
 }
 },
+"扶":{
+"fu1":{
+"isCanonical":true,
+"text":"U+6276 膚 A unit of length equal to four digits (Kangxi: 鋪四指曰扶, 通作膚). Equivalent to the Ancient Egyptian or English palm. 【扶-unvoiced】 (pju) (_noun-like_) palm"
+},
+"fu4":{
+"isCanonical":true,
+"text":"U+6276 (F2.11 扶) 扶持引也 (Page 58 扶) ~~To lead a hand,~~ ~~te~~ ``to`` aid, to assist (Kangxi: 佐也一曰相也); to uphold, to protect (Kangxi: 護也); _fu cho_ (fu4 zo6 扶助) to assist; _fu ~~ch'ap~~ ``hip``_ (fu4 hip6 扶挾) to support one under his arms; _fu cheung_ (fu4 zoeng6 扶杖) leaning on a staff; _fu shau pan_ (fu4 sau2 baan2 扶手板), a board in a sedan to lean on; _fu ch'an_ (fu4 can3 扶櫬) to return with a coffin. Williams' \"To lead a hand\": This should be either \"to lend a hand\" (i.e. the \"help\" sense) or \"to lead by hand\" (per Fan Wan's dubious 引也). Williams' 扶挾: Corrected _ch'ap_ (caap6) to _hip_ (hip6). To hold onto. A surname (Kangxi: 姓). 【扶-voiced】 (bju) (_verb-like_) to support, to uphold"
+}
+},
 "敷":{
 "fu1":{
 "isCanonical":true,
@@ -7935,12 +7945,6 @@
 "fu1":{
 "isCanonical":false,
 "text":"U+9EB1 (F2.9 麱) 蔴麱"
-}
-},
-"扶":{
-"fu4":{
-"isCanonical":true,
-"text":"U+6276 (F2.11 扶) 扶持引也 (Page 58 扶) ~~To lead a hand,~~ ~~te~~ ``to`` aid, to assist (Kangxi: 佐也一曰相也); to uphold, to protect (Kangxi: 護也); _fu cho_ (fu4 zo6 扶助) to assist; _fu ~~ch'ap~~ ``hip``_ (fu4 hip6 扶挾) to support one under his arms; _fu cheung_ (fu4 zoeng6 扶杖) leaning on a staff; _fu shau pan_ (fu4 sau2 baan2 扶手板), a board in a sedan to lean on; _fu ch'an_ (fu4 can3 扶櫬) to return with a coffin. Williams' \"To lead a hand\": This should be either \"to lend a hand\" (i.e. the \"help\" sense) or \"to lead by hand\" (per Fan Wan's dubious 引也). Williams' 扶挾: Corrected _ch'ap_ (caap6) to _hip_ (hip6). To hold onto. A surname (Kangxi: 姓). 【扶】 (bju) (_verb-like_) to support, to uphold"
 }
 },
 "符":{

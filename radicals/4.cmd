@@ -391,7 +391,7 @@ For all radicals, see [Index of characters by radical](./).
       - $扯ce2
       - ${𢪎=⿰扌化}faak3
       - $抔fau1
-      - $扶fu4
+      - {$扶fu1, $扶fu4}
       - $找zaau2
       - $抓zaau2
       - {$折zit1, $折zit3}
