@@ -1096,6 +1096,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $符4
+- $苻4
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -1154,4 +1155,31 @@ L
     - (_noun-like_) talisman
     ==
   ====
+$$
+
+### 苻4 | _(4)F(u/)_ [[fu4]]
+
+$$
+R
+  ⾋ + 5
+U
+  U+82FB
+F
+  ==
+  - (F2.11 苻) ::草名又[萑]苻::
+  ==
+W
+  ====
+  - [[Page~58 (4)苻]]
+    ==
+    - A plant, called devil's eye [[Kangxi: 苻鬼目 etc.]],
+      from the red and round ~~seeds~~ ``fruit`` it bears [[Kangxi: 莖似葛葉圓而毛子如耳璫赤色叢生江東人呼鬼目草]];
+    - a species of Hoya?
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed 萑.
+    The radical of the headword is printed poorly (as ⿰十𠂉).
+  ==
 $$
