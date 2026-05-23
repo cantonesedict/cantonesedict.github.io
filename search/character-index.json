@@ -7959,6 +7959,18 @@
 "text":"U+86A8 (F2.11 蚨) 靑蚨蟲名 (Page 59 蚨) A species of cicada or dytiscus, called _ts'ing fu_ (cing1 fu4 青蚨), supposed to be able to recover its stolen young, and cause cash rubbed with its eggs to return to their owner (Kangxi: 靑蚨水蟲可還錢 etc.)."
 }
 },
+"鳧":{
+"fu4":{
+"isCanonical":true,
+"text":"U+9CE7 鳬 (F2.11 鳬) 鴨也 (Page 59 鳬; here normalised to 鳧) A sheldrake or mallard (Kangxi: 野曰鳧家曰鴨); a wild duck with a crest; a small ``but abundant`` species near the Yangtsz' R. (揚子江) (Kangxi: 江東有小鳧其多無數) is called ~~_kun fu_ (gun1 fu4 冠鳧), the crowned duck (Kangxi: 俗謂之冠鳧)~~ ``_k'au fu_`` (kau3 fu4 寇鳧). Williams' \"the crowned duck\": Here, Williams has been misled by Kangxi's quote of 《揚子方言郭註》, in which 冠鳧 is a typo for 寇鳧. The original text of 《揚子方言》 (to which the commentary applies) is 凡物盛多謂之寇, and the original commentary has 寇 instead of 冠. 【鳧】 (bju) (_noun-like_) mallard"
+}
+},
+"鳬":{
+"fu4":{
+"isCanonical":false,
+"text":"U+9CEC (F2.11 鳬) 鴨也 (Page 59 鳬)"
+}
+},
 "之":{
 "zaa1":{
 "isCanonical":true,

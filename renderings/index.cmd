@@ -672,6 +672,13 @@ window.onload = applyFilter;
       - (_noun-like_) talisman
       ==
   //
+    , `bju`
+    , [鳧](/entries/fu#rendering-鳧)
+    ,
+      ==
+      - (_noun-like_) mallard
+      ==
+  //
     , `bjun`
     , [墳~(level)](/entries/fan#rendering-墳-level)
     ,

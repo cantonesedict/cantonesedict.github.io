@@ -1157,6 +1157,8 @@ $$
 - $符4
 - $苻4
 - $蚨4
+- $鳧4
+- ($鳬4)
 ==
 </nav>
 <## /tone-4-characters ##>
@@ -1373,5 +1375,69 @@ W
       and cause cash rubbed with its eggs to return to their owner
       [[Kangxi: 靑蚨水蟲可還錢 etc.]].
     ==
+  ====
+$$
+
+###+ 鳧4 | _(4)F(u/)_ [[fu4]]
+
+$$
+R
+  ⿃ + 2
+U
+  U+9CE7
+A
+  ==
+  - $鳬4
+  ==
+F
+  ==
+  - (F2.11 鳬) 鴨也
+  ==
+W
+  ====
+  - [[Page~59 (4)鳬; here normalised to 鳧]]
+    ==
+    - A sheldrake or mallard [[Kangxi: 野曰鳧家曰鴨]];
+    - a wild duck with a crest;
+    - a small ``but abundant`` species near the Y(a/)ngtsz'~R. [[揚子江]] [[Kangxi: 江東有小鳧其多無數]]
+      is called ~~_(1)k(u/)n (4)f(u/)_ [[gun1 fu4 冠鳧]],
+      the crowned duck [[Kangxi: 俗謂之冠鳧]]~~
+      ``_k(')au(3) (4)f(u/)_`` [[kau3 fu4 寇鳧]].
+    ==
+  ====
+C
+  ==
+  - Williams' "the crowned duck": Here, Williams has been misled
+    by Kangxi's quote of 《揚子方言郭註》, in which 冠鳧 is a typo for 寇鳧.
+    The original text of 《揚子方言》 (to which the commentary applies)
+    is [凡物盛多謂之寇](https://ctext.org/fang-yan/di-yi#n45230),
+    and the original commentary has 寇 instead of 冠.
+  ==
+L
+  ====
+  * 【鳧】 (bju)
+    ==
+    - (_noun-like_) mallard
+    ==
+  ====
+$$
+
+### 鳬4 | _(4)F(u/)_ [[fu4]]
+
+$$.
+R
+  ⿃ + 2
+U
+  U+9CEC
+F
+  ==
+  - (F2.11 鳬) 鴨也
+  ==
+W
+  ====
+  - [[Page~59 (4)鳬]]
+    --
+    [[Alternative form of 鳧. **See $鳧fu4 for the canonical entry.**]]
+    --
   ====
 $$
