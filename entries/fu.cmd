@@ -351,7 +351,7 @@ E
   --
 S
   ==
-  - $夫fu4 (TODO)
+  - $夫fu4
   ==
 $$
 
@@ -1118,11 +1118,56 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $夫4
 - $符4
 - $苻4
 ==
 </nav>
 <## /tone-4-characters ##>
+
+### 夫4 | _(4)F(u/)_ [[fu4]]
+
+$$
+R
+  ⼤ + 1
+U
+  U+592B
+F
+  ==
+  - (F2.11 夫) 發語詞
+  ==
+W
+  ====
+  - [[Page~58 (4)夫]]
+    ==
+    - An initial particle [[Kangxi: 語端辭]];
+    - now therefore, however;
+    - _(1)ts(e/) (4)f(u/)_
+        [[ze1 fu4 嗟夫]],
+        alas!
+    - _(2)ch(')(e/) (4)f(u/)_
+        [[ce2 fu4 且夫]],
+        moreover.
+    ==
+  ====
+P
+  ++
+  1. A final particle (Kangxi: 語已辭).
+  1. A demonstrative (Kangxi: 有所指之辭).
+  ++
+L
+  ====
+  * 【夫-voiced】 (bju)
+    ==
+    - (_speech-assist_)
+    - (_determiner-like_) this, that
+    ==
+  ====
+S
+  ==
+  - $夫fu1
+  ==
+$$
 
 ### 符4 | _(4)F(u/)_ [[fu4]]
 

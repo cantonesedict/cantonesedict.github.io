@@ -649,6 +649,14 @@ window.onload = applyFilter;
       ==
   //
     , `bju`
+    , [夫~(voiced)](/entries/fu#rendering-夫-voiced)
+    ,
+      ==
+      - (_speech-assist_)
+      - (_determiner-like_) this, that
+      ==
+  //
+    , `bju`
     , [符](/entries/fu#rendering-符)
     ,
       ==
