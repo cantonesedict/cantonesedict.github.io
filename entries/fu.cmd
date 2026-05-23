@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fu
-* %date-modified --> 2026-05-17
+* %date-modified --> 2026-05-23
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -599,11 +599,22 @@ W
 C
   ==
   - Fan Wan entry: Corrected malformed 萼.
+  - Williams' "to wash in lye": This is a misreading of
+    Kangxi 注也《儀禮士冠禮》素積白屨以魁柎之《疏》以魁蛤灰注其上使色白也.
+    In the subcommentary, 魁蛤灰 (which Williams renders "lye")
+    explains the character 魁, not 柎.
+    The explanation of 柎之 is 注其上 (to pour upon).
+    Moreover, Kangxi reads 柎 as 符遇切 _f(u/)(6)_ (fu6),
+    so it is in fact being used for 附 (to apply).
   ==
 P
   ++
   1. The foot of any object.
   ++
+S
+  ==
+  - ($柎fu6) (TODO) <## same as 附 ##>
+  ==
 $$
 
 ### 桴1 | _(1)F(u/)_ [[fu1]]
