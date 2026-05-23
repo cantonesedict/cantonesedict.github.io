@@ -1119,6 +1119,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $夫4
+- $扶4
 - $符4
 - $苻4
 ==
@@ -1166,6 +1167,65 @@ L
 S
   ==
   - $夫fu1
+  ==
+$$
+
+### 扶4 | _(4)F(u/)_ [[fu4]]
+
+$$
+R
+  ⼿ + 4
+U
+  U+6276
+F
+  ==
+  - (F2.11 扶) 扶持引也
+  ==
+W
+  ====
+  - [[Page~58 (4)扶]]
+    ==
+    - ~~To lead a hand,~~ ~~te~~ ``to`` aid, to assist [[Kangxi: 佐也一曰相也]];
+    - to uphold, to protect [[Kangxi: 護也]];
+    - _(4)f(u/) cho(6)_
+        [[fu4 zo6 扶助]]
+        to assist;
+    - _(4)f(u/) ~~ch(')(a/)p(9)~~ ``h(i/)p(9)``_
+        [[fu4 hip6 扶挾]]
+        to support one under his arms;
+    - _(4)f(u/) ch(e/)ung(6)_
+        [[fu4 zoeng6 扶杖]]
+        leaning on a staff;
+    - _(4)f(u/) (2)shau (2)p(a/)n_
+        [[fu4 sau2 baan2 扶手板]],
+        a board in a sedan to lean on;
+    - _(4)f(u/) ch(')an(3)_
+        [[fu4 can3 扶櫬]]
+        to return with a coffin.
+    ==
+  ====
+C
+  ==
+  - Williams' "To lead a hand": This should be
+    either "to lend a hand" (i.e. the "help" sense)
+    or "to lead by hand" (per Fan Wan's dubious 引也).
+  - Williams' 扶挾: Corrected _ch(')(a/)p(9)_ (caap6) to _h(i/)p(9)_ (hip6).
+  ==
+P
+  ++
+  1. To hold onto.
+  1. A surname (Kangxi: 姓).
+  ++
+L
+  ====
+  * 【扶】 (bju)
+    ==
+    - (_verb-like_) [to] support, [to] uphold
+    ==
+  ====
+S
+  ==
+  - ($扶pou4) (TODO) <## same as 匍 "crawl" ##>
   ==
 $$
 

@@ -657,6 +657,13 @@ window.onload = applyFilter;
       ==
   //
     , `bju`
+    , [扶](/entries/fu#rendering-扶)
+    ,
+      ==
+      - (_verb-like_) [to] support, [to] uphold
+      ==
+  //
+    , `bju`
     , [符](/entries/fu#rendering-符)
     ,
       ==
