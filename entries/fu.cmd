@@ -66,6 +66,7 @@ $$
 - ($痡1)
 - $砆1
 - $膚1
+- ($苻1)
 - $莩1
 - ($虖1)
 - ($謼1)
@@ -846,6 +847,27 @@ L
   ====
 $$
 
+###+ 苻1 | _(1)F(u/)_ [[fu1]]
+
+$$.
+R
+  ⾋ + 5
+U
+  U+82FB
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 莩. **See $莩fu1 for the canonical entry.**
+  ++
+S
+  ==
+  - $苻fu4
+  ==
+$$
+
 ### 莩1 | _(1)F(u/)_ [[fu1]]
 
 $$
@@ -856,6 +878,7 @@ U
 A
   ==
   - $孚1
+  - $苻1
   ==
 F
   ==
@@ -1181,5 +1204,9 @@ C
   ==
   - Fan Wan entry: Corrected malformed 萑.
     The radical of the headword is printed poorly (as ⿰十𠂉).
+  ==
+S
+  ==
+  - ($苻fu1)
   ==
 $$
