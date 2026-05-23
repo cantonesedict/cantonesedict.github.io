@@ -648,6 +648,15 @@ window.onload = applyFilter;
       - (_verb-like_) [to] fine
       ==
   //
+    , `bju`
+    , [符](/entries/fu#rendering-符)
+    ,
+      ==
+      - (_noun-like_) corroborative-tally
+      - (_adjective-like_) corroborative
+      - (_noun-like_) talisman
+      ==
+  //
     , `bjun`
     , [墳~(level)](/entries/fan#rendering-墳-level)
     ,

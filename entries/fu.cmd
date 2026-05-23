@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [fu1](#1)
 - [fu2](#2)
+- [fu4](#4)
 ==
 </nav>
 <## /tones ##>
@@ -1086,4 +1087,71 @@ S
   ==
   - $鈇fu1
   ==
+$$
+
+
+##{#4 .williams} (4)F(u/) [[fu4 陽平]]
+
+<## tone-4-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $符4
+==
+</nav>
+<## /tone-4-characters ##>
+
+### 符4 | _(4)F(u/)_ [[fu4]]
+
+$$
+R
+  ⽵ + 5
+U
+  U+7B26
+F
+  ==
+  - (F2.11 符) ::[合]也劵也又符節::
+  ==
+W
+  ====
+  - [[Page~58 (4)符]]
+    ==
+    - A tally made of two slips [[Kangxi: ::符信也[...]分而相合::, 符符節也分爲兩邊各持一以爲信]];
+    - a seal on two pieces;
+    - to correspond to, to testify, to verify [[Kangxi: 驗也]], to agree with [[Kangxi: 合也]], to evidence [[Kangxi: 證也]];
+    - a spell or charm written for preventing evil, for a cure, &c.;
+    - _(4)f(u/) h(o\)p(9)_
+        [[fu4 hap6 符合]]
+        agreeing;
+    - _(4)t(')(o\) (4)f(u/)_
+        [[tou4 fu4 桃符]],
+        a peach-leaf charm;
+    - _(4)f(u/) luk(9)_
+        [[fu4 luk6 符籙]]
+        a written charm [[Kangxi: 符籙]];
+    - _(4)f(u/) ts(i/)t(8)_
+        [[fu4 zit3 符節]]
+        a warrant or commission given to an officer [[Kangxi: 符節者如今諸官詔符也]];
+    - _(4)f(u/) sui(6)_
+        [[fu4 seoi6 符瑞]]
+        favorable, genial influences.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿱𠆢口 to 合.
+  ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  1. A symbol.
+  ++
+L
+  ====
+  * 【符】 (bju)
+    ==
+    - (_noun-like_) corroborative-tally
+    - (_adjective-like_) corroborative
+    - (_noun-like_) talisman
+    ==
+  ====
 $$
