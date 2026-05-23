@@ -57,6 +57,7 @@ $$
 - ($尃1)
 - $敷1
 - ($旉1)
+- $枯1
 - $枹1
 - $柎1
 - $桴1
@@ -507,6 +508,46 @@ P
   ++
   1. Alternative form of 敷. **See $敷fu1 for the canonical entry.**
   ++
+$$
+
+### 枯1 | _(1)F(u/)_ [[fu1]]
+
+$$
+R
+  ⽊ + 5
+U
+  U+67AF
+F
+  ==
+  - (F2.8 枯) 枯槁
+  ==
+W
+  ====
+  - [[Page~58 (1)枯]]
+    ==
+    - ~~Rotten~~ ``Withered`` wood [[Kangxi: 槀木也]];
+    - decayed~~, rotten, putrid~~;
+    - dry bogs [[Kangxi: 山澤無水爲枯]];
+    - _(1)f(u/) (2)k(o\)_
+        [[fu1 gou2 枯槁]],
+        decayed, emaciated, cadaverous;
+    - _(1)f(u/) kwat(7)_
+        [[fu1 gwat1 枯骨]]
+        ~~soft~~ bones ``of a corpse``.
+    ==
+  ====
+P
+  ++
+  1. Paralysed.
+  1. Dregs (e.g. of oil, used to make oil-cake).
+  ++
+L
+  ====
+  * 【枯】 (khu)
+    ==
+    - (_adjective-like_) withered, (_met._) dried up, paralysed
+    ==
+  ====
 $$
 
 ### 枹1 | _(1)F(u/)_ [[fu1]]

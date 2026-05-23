@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-05-17
+* %date-modified --> 2026-05-23
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -3105,6 +3105,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] step turning on the spot, [to] step quickly
+      ==
+  //
+    , `khu`
+    , [枯](/entries/fu#rendering-枯)
+    ,
+      ==
+      - (_adjective-like_) withered, (_met._) dried up, paralysed
       ==
   //
     , `khwa`
