@@ -3830,6 +3830,13 @@ window.onload = applyFilter;
       ==
   //
     , `pjuX`
+    , [脯](/entries/fu#rendering-脯)
+    ,
+      ==
+      - (_noun-like_) dried-meat
+      ==
+  //
+    , `pjuX`
     , [鈇~(hatchet)](/entries/fu#rendering-鈇-hatchet)
     ,
       ==

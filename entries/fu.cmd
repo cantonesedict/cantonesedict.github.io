@@ -1105,6 +1105,7 @@ $$
 =={.modern}
 - $甫2
 - $簠2
+- $脯2
 - $鈇2
 ==
 </nav>
@@ -1209,6 +1210,55 @@ L
     - (_noun-like_) square-vessel
     ==
   ====
+$$
+
+### 脯2 | _(2)F(u/)_ [[fu2]]
+
+$$
+R
+  ⾁ + 7
+U
+  U+812F
+V
+  ==
+  - pou2 (vernacular)
+  ==
+F
+  ==
+  - (F2.13 ::[脯]::) 腊肉也
+  ==
+W
+  ====
+  - [[Page~59 (2)脯]]
+    ==
+    - Preserved or dried meat [[Kangxi: 肉乾也, 脯腊也, 乾脯, 乾肉爲脯]];
+    - ~~flesh;~~
+    - _~~(2)sau~~ ``(1)sau`` (2)f(u/)_
+        [[sau1 fu2 脩脯]],
+        slices of dried meat formerly sent to a teacher, teacher's wages.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword 蒲 to 脯.
+  - Williams' 脩脯: Corrected _(2)sau_ (sau2) to _(1)sau_ (sau1).
+  ==
+P
+  ++
+  1. Candied fruit.
+  ++
+L
+  ====
+  * 【脯】 (pjuX)
+    ==
+    - (_noun-like_) dried-meat
+    ==
+  ====
+S
+  ==
+  - ($脯pou2) (TODO)
+  - $脯pou4 (TODO)
+  ==
 $$
 
 ###+ 鈇2 | _(2)F(u/)_ [[fu2]]
