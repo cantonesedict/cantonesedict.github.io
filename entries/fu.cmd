@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fu
-* %date-modified --> 2026-05-23
+* %date-modified --> 2026-05-24
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1098,15 +1098,78 @@ $$
 <## TODO: $箍ku1 ##>
 
 
-##{#2 .williams} ``(2)F(u/)`` [[fu2 陰上]]
+##{#2 .williams} (2)F(u/) [[fu2 陰上]]
 
 <## tone-2-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $甫2
 - $鈇2
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 甫2 | _(2)F(u/)_ [[fu2]]
+
+$$
+R
+  ⽤ + 2
+U
+  U+752B
+A
+  ==
+  - 父 (for honorific suffix sense)
+  ==
+V
+  ==
+  - pou2 (common)
+  ==
+F
+  ==
+  - (F2.13 甫) 大也始也我也衆也美也又男子美稱也
+  ==
+W
+  ====
+  - [[Page~59 (2)甫]]
+    ==
+    - Large;
+    - beautiful, good;
+    - numerous [[Kangxi: 衆也, 甫甫衆也]];
+    - great [[Kangxi: 甫大也]], eminent;
+    - to begin [[Kangxi: 始也]];
+    - I, myself [[Kangxi: 甫我也]];
+    - a term of respect when addressing one [[Kangxi: 男子美稱也]];
+    - _(4)t(')oi (2)f(u/) (4)ho ~~(4)meng~~ ``(4)ming``_
+        [[toi4 fu2 ho4 ming4 臺甫何名]],
+        what is your name, Sir?
+    ==
+  ====
+C
+  ==
+  - Williams' "a term of respect": Explicitly, a suffix attached to a name or style.
+  - Williams' 臺甫何名: Corrected _(4)meng_ (meng4-2) to _(4)ming_ (ming4).
+  ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  1. Used in 皇甫 (a compound surname) (Kangxi: 皇甫複姓).
+  ++
+L
+  ====
+  * 【甫】 (pjuX)
+    ==
+    - (_suffix_)
+    - (_adjective-like_) great
+    - (_verb-like_) [to] begin
+    ==
+  ====
+S
+  ==
+  - ($甫bou2) (TODO) <## same as 圃 etc. ##>
+  - $甫pou2 (TODO) <## in 甫里 etc., same as 圃 ##>
+  - $甫pou3 (TODO) <## vernacular unit (same as 鋪) pou3 or pou3-2 ##>
+  ==
+$$
 
 ###+ 鈇2 | _(2)F(u/)_ [[fu2]]
 
