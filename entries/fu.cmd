@@ -1103,6 +1103,7 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $府2
 - $斧2
 - $甫2
 - $簠2
@@ -1114,6 +1115,59 @@ $$
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 府2 | _(2)F(u/)_ [[fu2]]
+
+$$
+R
+  ⼴ + 5
+U
+  U+5E9C
+F
+  ==
+  - (F2.13 府) 府縣官府又藏也聚也藏貨財曰府
+  ==
+W
+  ====
+  - [[Page~59 (2)府]]
+    ==
+    - A store-house, a record office, a library [[Kangxi: 文書藏也]], a treasury [[Kangxi: 府謂寶藏財賄之處也]];
+    - the officer over them [[Kangxi: 掌財幣之官皆曰府]];
+    - a house;
+    - a thesaurus;
+    - a department [[Kangxi: 府官府公卿牧守道德之所聚也]] or prefecture [[Kangxi: 唐制爲大州曰府]];
+    - _(2)f(u/) f(u/)(3)_
+        [[fu2 fu3 府庫]]
+        a treasury;
+    - _(2)f(u/) (5)wan_
+        [[fu2 wan5 府尹]],
+        the mayor of Peking [[北京]];
+    - _kwai(3) (2)f(u/)_ [[gwai3 fu2 貴府]],
+        or _(2)f(u/) sh(e/)ung(6)_ [[fu2 soeng6 府上]]
+        or _(1)ts(u:)n (2)f(u/)_ [[zyun1 fu2 尊府]],
+        your house;
+    - _(2)f(u/) (1)ts(u:)n_
+        [[fu2 zyun1 府尊]]^
+        his honor, the prefect;
+    - _(2)f(u/) tai(6)_
+        [[fu2 dai6 府第]]
+        a high officer's court;
+    - _luk(9) (2)f(u/)_
+        [[luk6 fu2 六府]],
+        the six elements [[Kangxi: 水火木金土五材兼以穀爲六府]].
+    ==
+    --
+    [[Otherwise, an alternative form of 腑. **See $腑fu2 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+P
+  ++
+  1. To accumulate (Kangxi: 府聚也).
+  ++
+L
+  ====
+  ====
+$$
 
 ### 斧2 | _(2)F(u/)_ [[fu2]]
 
