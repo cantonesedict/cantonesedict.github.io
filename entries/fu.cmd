@@ -1103,6 +1103,7 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $斧2
 - $甫2
 - $簠2
 - $脯2
@@ -1111,6 +1112,66 @@ $$
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 斧2 | _(2)F(u/)_ [[fu2]]
+
+$$
+R
+  ⽄ + 4
+U
+  U+65A7
+A
+  ==
+  - $鈇2
+  ==
+F
+  ==
+  - (F2.13 斧) ::斧[鉞]::
+  ==
+W
+  ====
+  - [[Page~59 (2)斧]]
+    ==
+    - An ax, a hatchet [[Kangxi: 斫也 etc.]];
+    - to cut, to hack, to fell [[Kangxi: 凡以斧斫物亦曰斧]];
+    - _(2)f(u/) (4)t(')au_
+        [[fu2 tau4-2 斧頭]],
+        an ax;
+    - _(2)t(a/) (2)f(u/) (4)t(')au_
+        [[daa2 fu2 tau4 打斧頭]],
+        to deceive in buying for one;
+    - _(2)f(u/) s(e/)uk(8)_
+        [[fu2 soek3 斧削]]
+        to pare off, to correct a theme;
+    - _(2)f(u/) (u:)``t``(9)_
+        [[fu2 jyut6 斧鉞]]
+        hatchets and halberds, carried in processions.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected illegible character to 鉞.
+  - Williams' 斧鉞: Inferred incompletely printed letter _t_ in _(u:)t(9)_.
+  ==
+L
+  ====
+  * 【斧】 (pjuX)
+    ==
+    - (_noun-like_) axe, hatchet
+    ==
+  ====
+E
+  ====
+  - 【打斧頭】 (daa2 fu2 tau4)
+    ++
+    1. To pocket a portion of money deceitfully when transacting on behalf of another.
+    ++
+  - 【斧頭邊】 (fu2 tau4-2 bin1)
+    ++
+    1. The character component 阝, especially on the left. (Literally, "axe beside".)
+    ++
+  ====
+$$
 
 ### 甫2 | _(2)F(u/)_ [[fu2]]
 
@@ -1284,14 +1345,14 @@ W
     - A kind of hatchet of small ax [[Kangxi 鈇: 斧也, 鈇方于反又音斧]].
     ==
     --
-    [[Alternative form of 斧. See $斧fu2.]] [[TODO]]
+    [[Alternative form of 斧. See $斧fu2.]]
     --
   ====
 L
   ====
-  * 【鈇-hatchet】 (pju, pjuX)
+  * 【鈇-axe】 (pju, pjuX)
     ==
-    - (_noun-like_) hatchet
+    - (_noun-like_) axe, hatchet
     ==
   ====
 S
@@ -1309,7 +1370,7 @@ U
   U+9EFC
 F
   ==
-  - (F2.13 黼) ::黼[黻]黼黑相茨之[紋]::
+  - (F2.13 黼) ::黼[黻]黼[白]黑相[次]之[紋]::
   ==
 W
   ====
@@ -1326,7 +1387,8 @@ W
   ====
 C
   ==
-  - Fan Wan entry: Corrected malformed 黻 and corrected {𮈄=⿰糸@攵} to 紋.
+  - Fan Wan entry: Corrected malformed 黻, fixed missing character 白,
+    corrected 茨 to 次, and corrected {𮈄=⿰糸@攵} to 紋.
   - Williams' "axes": This the plural of "axe" (not "axis").
   ==
 L

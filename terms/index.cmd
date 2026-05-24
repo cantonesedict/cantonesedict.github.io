@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of Cantonese terms by Jyutping
-* %date-modified --> 2026-05-16
+* %date-modified --> 2026-05-24
 * %copyright-prior-years --> 2023--
 * %meta-description --> searchable index of Cantonese terms by Jyutping
 
@@ -478,6 +478,9 @@ window.onload = applyFilter;
     , cyun3
     , [串](/entries/cyun#cantonese-串)
   //
+    , daa2 fu2 tau4
+    , [打斧頭](/entries/fu#cantonese-打斧頭)
+  //
     , daa2 laang5 zan3
     , [打冷震](/entries/zan#cantonese-打冷震)
   //
@@ -633,6 +636,9 @@ window.onload = applyFilter;
   //
     , fu1 lou2
     , [夫佬](/entries/fu#cantonese-夫佬)
+  //
+    , fu2 tau4-2 bin1
+    , [斧頭邊](/entries/fu#cantonese-斧頭邊)
   //
     , gaa1 fo2
     , [家伙](/entries/fo#cantonese-家伙)

@@ -659,7 +659,7 @@ U
   U+961C
 A
   ==
-  - 阝 (as a character component on the left) <## TODO: 耳仔邊 ji5 斧頭邊 fu2 ##>
+  - 阝 (as a character component on the left) <## TODO: 耳仔邊 ji5 ##>
   - 𨸏
   ==
 F

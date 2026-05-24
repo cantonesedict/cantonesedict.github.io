@@ -3800,10 +3800,10 @@ window.onload = applyFilter;
       ==
   //
     , `pju`
-    , [鈇~(hatchet)](/entries/fu#rendering-鈇-hatchet)
+    , [鈇~(axe)](/entries/fu#rendering-鈇-axe)
     ,
       ==
-      - (_noun-like_) hatchet
+      - (_noun-like_) axe, hatchet
       ==
   //
     , `pju tsiX`
@@ -3811,6 +3811,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) master
+      ==
+  //
+    , `pjuX`
+    , [斧](/entries/fu#rendering-斧)
+    ,
+      ==
+      - (_noun-like_) axe, hatchet
       ==
   //
     , `pjuX`
@@ -3837,10 +3844,10 @@ window.onload = applyFilter;
       ==
   //
     , `pjuX`
-    , [鈇~(hatchet)](/entries/fu#rendering-鈇-hatchet)
+    , [鈇~(axe)](/entries/fu#rendering-鈇-axe)
     ,
       ==
-      - (_noun-like_) hatchet
+      - (_noun-like_) axe, hatchet
       ==
   //
     , `pjuX`

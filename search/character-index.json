@@ -7932,7 +7932,7 @@
 },
 "fu2":{
 "isCanonical":true,
-"text":"U+9207 fu1 (per 《廣韻》甫無切) (F2.8 鈇 _Fu_ (fu1)) 斧鉞之屬也 (Page 57 鈇 _Fu_ (fu1); here normalised to _Fu_ (fu2)) A kind of hatchet of small ax (Kangxi 鈇: 斧也, 鈇方于反又音斧). 【鈇-hatchet】 (pju, pjuX) (_noun-like_) hatchet"
+"text":"U+9207 fu1 (per 《廣韻》甫無切) (F2.8 鈇 _Fu_ (fu1)) 斧鉞之屬也 (Page 57 鈇 _Fu_ (fu1); here normalised to _Fu_ (fu2)) A kind of hatchet of small ax (Kangxi 鈇: 斧也, 鈇方于反又音斧). 【鈇-axe】 (pju, pjuX) (_noun-like_) axe, hatchet"
 }
 },
 "麩":{
@@ -7945,6 +7945,12 @@
 "fu1":{
 "isCanonical":false,
 "text":"U+9EB1 (F2.9 麱) 蔴麱"
+}
+},
+"斧":{
+"fu2":{
+"isCanonical":true,
+"text":"U+65A7 鈇 (F2.13 斧) 斧鉞 (Page 59 斧) An ax, a hatchet (Kangxi: 斫也 etc.); to cut, to hack, to fell (Kangxi: 凡以斧斫物亦曰斧); _fu t'au_ (fu2 tau4-2 斧頭), an ax; _ta fu t'au_ (daa2 fu2 tau4 打斧頭), to deceive in buying for one; _fu seuk_ (fu2 soek3 斧削) to pare off, to correct a theme; _fu u``t``_ (fu2 jyut6 斧鉞) hatchets and halberds, carried in processions. Fan Wan entry: Corrected illegible character to 鉞. Williams' 斧鉞: Inferred incompletely printed letter _t_ in _ut_. 【斧】 (pjuX) (_noun-like_) axe, hatchet 【打斧頭】 (daa2 fu2 tau4) To pocket a portion of money deceitfully when transacting on behalf of another. 【斧頭邊】 (fu2 tau4-2 bin1) The character component 阝, especially on the left. (Literally, \"axe beside\".)"
 }
 },
 "甫":{
@@ -7968,7 +7974,7 @@
 "黼":{
 "fu2":{
 "isCanonical":true,
-"text":"U+9EFC (F2.13 黼) 黼黻黼黑相茨之紋 (Page 59 黼) Black and white, diversified``, in embroidery`` (Kangxi: 白與黑相次文 etc.); embroidered, elegant dress; _fu fat_ (fu2 fat1 黼黻) dresses anciently used an sacrifices, with black and white lines or embroidery resembling axes (Kangxi: 斧謂之黼); fine composition. Fan Wan entry: Corrected malformed 黻 and corrected 𮈄 to 紋. Williams' \"axes\": This the plural of \"axe\" (not \"axis\"). 【黼】 (pjuX) (_noun-like_) embroidered-axe"
+"text":"U+9EFC (F2.13 黼) 黼黻黼白黑相次之紋 (Page 59 黼) Black and white, diversified``, in embroidery`` (Kangxi: 白與黑相次文 etc.); embroidered, elegant dress; _fu fat_ (fu2 fat1 黼黻) dresses anciently used an sacrifices, with black and white lines or embroidery resembling axes (Kangxi: 斧謂之黼); fine composition. Fan Wan entry: Corrected malformed 黻, fixed missing character 白, corrected 茨 to 次, and corrected 𮈄 to 紋. Williams' \"axes\": This the plural of \"axe\" (not \"axis\"). 【黼】 (pjuX) (_noun-like_) embroidered-axe"
 }
 },
 "符":{
