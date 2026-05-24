@@ -3821,6 +3821,14 @@ window.onload = applyFilter;
       ==
   //
     , `pjuX`
+    , [俯](/entries/fu#rendering-俯)
+    ,
+      ==
+      - (_verb-like_) [to] bow [the] head
+      - (_verb-like_) [to] stoop
+      ==
+  //
+    , `pjuX`
     , [府](/entries/fu#rendering-府)
     ,
       ==

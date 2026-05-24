@@ -1103,6 +1103,7 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $俯2
 - $府2
 - $斧2
 - $甫2
@@ -1115,6 +1116,55 @@ $$
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 俯2 | _(2)F(u/)_ [[fu2]]
+
+$$
+R
+  ⼈ + 8
+U
+  U+4FEF
+A
+  ==
+  - 俛
+  - $府2
+  - 頫
+  ==
+F
+  ==
+  - (F2.13 俯) 俯仰低頭也
+  ==
+W
+  ====
+  - [[Page~59 (2)俯]]
+    ==
+    - To stoop ``the head`` [[Kangxi: 俛也]], to bow;
+    - to consider, to look down on, to condescend;
+    - ~~unequal;~~
+    - _(2)f(u/) fuk(9)_
+        [[fu2 fuk6 俯伏]]
+        to fall prostrate;
+    - _(2)f(u/) (2)chun (1)sh(i/) (4)hang_
+        [[fu2 zeon2 si1 hang4 俯准施行]],
+        condescend to grant this to be done;
+    - _(2)f(u/) (5)y(e/)ung_
+        [[fu2 joeng5 俯仰]],
+        to look down and up~~, all ranks~~.
+    ==
+  ====
+C
+  ==
+  - Williams' 俯仰: Metaphorically, in an instant.
+  ==
+L
+  ====
+  * 【俯】 (pjuX)
+    ==
+    - (_verb-like_) [to] bow [the] head
+    - (_verb-like_) [to] stoop
+    ==
+  ====
+$$
 
 ### 府2 | _(2)F(u/)_ [[fu2]]
 
@@ -1158,6 +1208,9 @@ W
     ==
     --
     [[Otherwise, an alternative form of 腑. **See $腑fu2 for the canonical entry.**]] [[TODO]]
+    --
+    --
+    [[Otherwise, an alternative form of 俯. **See $俯fu2 for the canonical entry.**]]
     --
   ====
 P
