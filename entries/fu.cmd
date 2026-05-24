@@ -1104,6 +1104,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $甫2
+- $簠2
 - $鈇2
 ==
 </nav>
@@ -1169,6 +1170,45 @@ S
   - $甫pou2 (TODO) <## in 甫里 etc., same as 圃 ##>
   - $甫pou3 (TODO) <## vernacular unit (same as 鋪) pou3 or pou3-2 ##>
   ==
+$$
+
+### 簠2 | _(2)F(u/)_ [[fu2]]
+
+$$
+R
+  ⽵ + 12
+U
+  U+7C20
+V
+  ==
+  - fu1 (per 《廣韻》甫無切)
+  - fu3 (per 《廣韻》芳遇切)
+  ==
+F
+  ==
+  - (F2.13 ::[簠]::) ::[簠]簋宗廟盛黍稷之器::
+  ==
+W
+  ====
+  - [[Page~59 (2)簠]]
+    ==
+    - A sort of basket, square outside and round within,
+      used to contain grain [[Kangxi: 外方內圓曰簠用貯稻粱容一斗二升]]
+      when worshiping ancestors,
+      called _(2)f(u/) (2)kwai_ [[fu2 gwai2 簠簋]] [[Kangxi: 簠簋祭器, 周曰簠簋宗廟盛黍稷之器]].
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected headword from ⿱𥫗⿳一田血 to 簠.
+  ==
+L
+  ====
+  * 【簠】 (pju, pjuX, phjuH)
+    ==
+    - (_noun-like_) square-vessel
+    ==
+  ====
 $$
 
 ###+ 鈇2 | _(2)F(u/)_ [[fu2]]

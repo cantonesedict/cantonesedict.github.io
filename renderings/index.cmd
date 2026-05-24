@@ -3427,6 +3427,13 @@ window.onload = applyFilter;
       - (_noun-like_) raft
       ==
   //
+    , `phjuH`
+    , [簠](/entries/fu#rendering-簠)
+    ,
+      ==
+      - (_noun-like_) square-vessel
+      ==
+  //
     , `phjun`
     , [帉](/entries/fan#rendering-帉)
     ,
@@ -3768,6 +3775,13 @@ window.onload = applyFilter;
       ==
   //
     , `pju`
+    , [簠](/entries/fu#rendering-簠)
+    ,
+      ==
+      - (_noun-like_) square-vessel
+      ==
+  //
+    , `pju`
     , [膚](/entries/fu#rendering-膚)
     ,
       ==
@@ -3806,6 +3820,13 @@ window.onload = applyFilter;
       - (_suffix_)
       - (_adjective-like_) great
       - (_verb-like_) [to] begin
+      ==
+  //
+    , `pjuX`
+    , [簠](/entries/fu#rendering-簠)
+    ,
+      ==
+      - (_noun-like_) square-vessel
       ==
   //
     , `pjuX`
