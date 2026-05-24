@@ -1109,6 +1109,7 @@ $$
 - $脯2
 - $釜2
 - $鈇2
+- ($鬴2)
 - $黼2
 ==
 </nav>
@@ -1333,7 +1334,7 @@ U
   U+91DC
 A
   ==
-  - 鬴
+  - $鬴2
   ==
 V
   ==
@@ -1405,6 +1406,23 @@ S
   ==
   - $鈇fu1
   ==
+$$
+
+###+ 鬴2 | _(2)F(u/)_ [[fu2]]
+
+$$.
+R
+  ⿀ + 7
+U
+  U+9B34
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 釜. **See $釜fu2 for the canonical entry.**
+  ++
 $$
 
 ### 黼2 | _(2)F(u/)_ [[fu2]]
