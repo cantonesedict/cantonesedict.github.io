@@ -679,6 +679,13 @@ window.onload = applyFilter;
       - (_noun-like_) mallard
       ==
   //
+    , `bjuX`
+    , [釜](/entries/fu#rendering-釜)
+    ,
+      ==
+      - (_noun-like_) boiler
+      ==
+  //
     , `bjun`
     , [墳~(level)](/entries/fan#rendering-墳-level)
     ,

@@ -1107,6 +1107,7 @@ $$
 - $甫2
 - $簠2
 - $脯2
+- $釜2
 - $鈇2
 - $黼2
 ==
@@ -1321,6 +1322,51 @@ S
   - ($脯pou2) (TODO)
   - $脯pou4 (TODO)
   ==
+$$
+
+### 釜2 | _(2)F(u/)_ [[fu2]]
+
+$$
+R
+  ⾦ + 2
+U
+  U+91DC
+A
+  ==
+  - 鬴
+  ==
+V
+  ==
+  - fu6 (per 《廣韻》扶雨切)
+  ==
+F
+  ==
+  - (F2.13 釜) ::[鑊]也又斗屬::
+  ==
+W
+  ====
+  - [[Page~59 (2)釜]]
+    ==
+    - A boiler or caldron without feet [[Kangxi: 鬴或作{𨥏=⿱父金}俗省作釜, 有足曰錡無足曰釜]];
+    - _(2)f(u/) tsang(3)_
+        [[fu2 zang3 釜甑]]
+        a boiler and vat;
+    - an old measure about equal to a kilderkin [[Kangxi: 量名, 豆區釜鍾四升爲豆各自其四以登于釜釜十則鍾, 釜六斗四升鍾六斛四斗]].
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected {𳆢=⿰釒隻} to 鑊.
+  - Williams' "kilderkin": This is about 80~litres,
+    which is consistent with 釜六斗四升 in the order of 64~litres.
+  ==
+L
+  ====
+  * 【釜】 (bjuX)
+    ==
+    - (_noun-like_) boiler
+    ==
+  ====
 $$
 
 ###+ 鈇2 | _(2)F(u/)_ [[fu2]]
