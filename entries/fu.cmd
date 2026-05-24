@@ -1105,6 +1105,7 @@ $$
 =={.modern}
 - $俯2
 - $府2
+- $拊2
 - $撫2
 - $斧2
 - $甫2
@@ -1229,6 +1230,66 @@ L
   ====
 $$
 
+### 拊2 | _(2)F(u/)_ [[fu2]]
+
+$$
+R
+  ⼿ + 5
+U
+  U+62CA
+A
+  ==
+  - $撫2
+  ==
+F
+  ==
+  - (F2.13 撫) ::安慰也又[擊]也::
+  - (F2.13 拊) ::循也詩拊我畜我防其[驚惧]拊循之也又拊而勉之又擊也拍也::
+  ==
+W
+  ====
+  - [[Page~59 (2)撫; here normalised to 拊]]
+    ==
+    - [[...]];
+    - [[...]], to pat [[Kangxi 撫: 拍也]];
+    - [[...]].
+    ==
+  - [[Page~59 (2)拊]]
+    ==
+    - To pat, [[...]], to strike``, to beat`` [[Kangxi: 擊也拍也, 重擊曰擊輕擊曰拊]];
+    - ~~to permit;~~
+    - [[...]];
+    - _(2)f(u/) (1)ying_
+        [[fu2 jing1 拊膺]],
+        to ~~lay the hand on~~ ``beat`` the breast.
+    ==
+    --
+    [[...]]
+    --
+    --
+    [[Otherwise, an alternative form of 撫. **See $撫fu2 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed 擊 (under 撫), corrected malformed 驚, and fixed missing horizontal stroke in 惧.
+  ==
+P
+  ++
+  1. A handle (Kangxi: 器把曰拊手執處也 etc.).
+  1. A type of percussion instrument, similar to a drum (Kangxi: 樂器名, 拊形如鼓).
+  ++
+L
+  ====
+  * 【拊】 (phjuX)
+    ==
+    - (_verb-like_) [to] beat (gently)
+    - (_noun-like_) beating-[drum]
+    - (_noun-like_) handle
+    ==
+  ====
+$$
+
 ### 撫2 | _(2)F(u/)_ [[fu2]]
 
 $$
@@ -1238,18 +1299,19 @@ U
   U+64AB
 A
   ==
-  - 拊
+  - $拊2
   ==
 F
   ==
   - (F2.13 撫) ::安慰也又[擊]也::
+  - (F2.13 拊) ::循也詩拊我畜我防其驚[惧]拊循之也又拊而勉之又擊也拍也::
   ==
 W
   ====
   - [[Page~59 (2)撫]]
     ==
     - To keep down with the hand~~, to fold the hands~~;
-    - to stroke, to pat [[Kangxi: 拍也]]; <## TODO: same as 拊 fu2 ##>
+    - to stroke, [[...]];
     - to soothe, to tranquillize [[Kangxi: 安也, 慰勉也]];
     - to manage;
     - to cherish, to bear;
@@ -1266,10 +1328,23 @@ W
         [[fu2 joeng5 撫養]],
         to rear a child, to supply wants.
     ==
+    --
+    [[Otherwise, an alternative form of 拊. **See $拊fu2 for the canonical entry.**]]
+    --
+  - [[Page~59 (2)拊]]
+    ==
+    - [[...]], to put the hand on, [[...]];
+    - [[...]];
+    - to quiet;
+    - [[...]].
+    ==
+    --
+    Used for the preceding [[撫]] [[Kangxi 拊: 揗也, 通作撫]].
+    --
   ====
 C
   ==
-  - Fan Wan entry: Corrected malformed 擊.
+  - Fan Wan entry: Corrected malformed 擊 (under 撫), corrected malformed 驚, and fixed missing horizontal stroke in 惧.
   - Williams' 撫臺, 撫院: Synonymous with 巡撫.
   - Williams' 撫養: Especially to foster.
   ==

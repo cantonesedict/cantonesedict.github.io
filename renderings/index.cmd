@@ -3435,6 +3435,15 @@ window.onload = applyFilter;
       ==
   //
     , `phjuX`
+    , [拊](/entries/fu#rendering-拊)
+    ,
+      ==
+      - (_verb-like_) [to] beat (gently)
+      - (_noun-like_) beating-[drum]
+      - (_noun-like_) handle
+      ==
+  //
+    , `phjuX`
     , [撫](/entries/fu#rendering-撫)
     ,
       ==
