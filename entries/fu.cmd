@@ -1107,6 +1107,7 @@ $$
 - $簠2
 - $脯2
 - $鈇2
+- $黼2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -1297,6 +1298,44 @@ S
   ==
   - $鈇fu1
   ==
+$$
+
+### 黼2 | _(2)F(u/)_ [[fu2]]
+
+$$
+R
+  ⿋ + 7
+U
+  U+9EFC
+F
+  ==
+  - (F2.13 黼) ::黼[黻]黼黑相茨之[紋]::
+  ==
+W
+  ====
+  - [[Page~59 (2)黼]]
+    ==
+    - Black and white, diversified``, in embroidery`` [[Kangxi: 白與黑相次文 etc.]];
+    - embroidered, elegant dress;
+    - _(2)f(u/) fat(7)_
+        [[fu2 fat1 黼黻]]
+        dresses anciently used an sacrifices,
+        with black and white lines or embroidery resembling axes [[Kangxi: 斧謂之黼]];
+        fine composition.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed 黻 and corrected {𮈄=⿰糸@攵} to 紋.
+  - Williams' "axes": This the plural of "axe" (not "axis").
+  ==
+L
+  ====
+  * 【黼】 (pjuX)
+    ==
+    - (_noun-like_) embroidered-axe
+    ==
+  ====
 $$
 
 

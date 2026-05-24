@@ -3843,6 +3843,13 @@ window.onload = applyFilter;
       - (_noun-like_) hatchet
       ==
   //
+    , `pjuX`
+    , [黼](/entries/fu#rendering-黼)
+    ,
+      ==
+      - (_noun-like_) embroidered-axe
+      ==
+  //
     , `pjun`
     , [分~(level)](/entries/fan#rendering-分-level)
     ,
