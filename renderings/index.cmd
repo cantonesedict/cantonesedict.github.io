@@ -3434,6 +3434,15 @@ window.onload = applyFilter;
       - (_noun-like_) raft
       ==
   //
+    , `phjuX`
+    , [撫](/entries/fu#rendering-撫)
+    ,
+      ==
+      - (_verb-like_) [to] lay hand upon, [to] hold
+      - (_verb-like_) [to] soothe, [to] comfort, [to] pacify, (_met._) [to] stabilise
+      - (_verb-like_) [to] conform
+      ==
+  //
     , `phjuH`
     , [簠](/entries/fu#rendering-簠)
     ,

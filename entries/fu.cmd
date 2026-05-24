@@ -1105,6 +1105,7 @@ $$
 =={.modern}
 - $俯2
 - $府2
+- $撫2
 - $斧2
 - $甫2
 - $簠2
@@ -1224,6 +1225,67 @@ L
     - (_noun-like_) treasury, depository
     - (_verb-like_) [to] accumulate
     - (_noun-like_) [government]-office
+    ==
+  ====
+$$
+
+### 撫2 | _(2)F(u/)_ [[fu2]]
+
+$$
+R
+  ⼿ + 12
+U
+  U+64AB
+A
+  ==
+  - 拊
+  ==
+F
+  ==
+  - (F2.13 撫) ::安慰也又[擊]也::
+  ==
+W
+  ====
+  - [[Page~59 (2)撫]]
+    ==
+    - To keep down with the hand~~, to fold the hands~~;
+    - to stroke, to pat [[Kangxi: 拍也]]; <## TODO: same as 拊 fu2 ##>
+    - to soothe, to tranquillize [[Kangxi: 安也, 慰勉也]];
+    - to manage;
+    - to cherish, to bear;
+    - to cheer up;
+    - to play a lute;
+    - _(2)f(u/) k(i/)m(3)_
+        [[fu2 gim3 撫劍]]
+        to seize a sword;
+    - _(2)f(u/) (4)t(')oi_ [[fu2 toi4 撫臺]],
+        or
+      _(2)f(u/) (u:)n(6)_ [[fu2 jyun6 撫院]]
+        the governor of a province;
+    - _(2)f(u/) (5)y(e/)ung_
+        [[fu2 joeng5 撫養]],
+        to rear a child, to supply wants.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed 擊.
+  - Williams' 撫臺, 撫院: Synonymous with 巡撫.
+  - Williams' 撫養: Especially to foster.
+  ==
+P
+  ++
+  1. To hold (Kangxi: 持也).
+  1. To press or hold still (Kangxi: 以手按止之也).
+  1. To conform (Kangxi: 一曰循也).
+  ++
+L
+  ====
+  * 【撫】 (phjuX)
+    ==
+    - (_verb-like_) [to] lay hand upon, [to] hold
+    - (_verb-like_) [to] soothe, [to] comfort, [to] pacify, (_met._) [to] stabilise
+    - (_verb-like_) [to] conform
     ==
   ====
 $$

@@ -525,6 +525,7 @@ For all radicals, see [Index of characters by radical](./).
       - $撍cim4
       - $撤cit3
       - $撮cyut3
+      - $撫fu2
       - {$撰zaan3, $撰zaan6}
       - $撞zong6
       ==
