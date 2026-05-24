@@ -3821,6 +3821,15 @@ window.onload = applyFilter;
       ==
   //
     , `pjuX`
+    , [府](/entries/fu#rendering-府)
+    ,
+      ==
+      - (_noun-like_) treasury, depository
+      - (_verb-like_) [to] accumulate
+      - (_noun-like_) [government]-office
+      ==
+  //
+    , `pjuX`
     , [斧](/entries/fu#rendering-斧)
     ,
       ==

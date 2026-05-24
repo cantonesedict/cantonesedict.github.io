@@ -1166,6 +1166,12 @@ P
   ++
 L
   ====
+  * 【府】 (pjuX)
+    ==
+    - (_noun-like_) treasury, depository
+    - (_verb-like_) [to] accumulate
+    - (_noun-like_) [government]-office
+    ==
   ====
 $$
 
