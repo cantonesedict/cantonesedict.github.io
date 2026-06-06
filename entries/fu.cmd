@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fu
-* %date-modified --> 2026-05-24
+* %date-modified --> 2026-06-06
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1111,6 +1111,7 @@ $$
 - $甫2
 - $簠2
 - $脯2
+- $腑2
 - $釜2
 - $鈇2
 - ($鬴2)
@@ -1209,7 +1210,7 @@ W
         the six elements [[Kangxi: 水火木金土五材兼以穀爲六府]].
     ==
     --
-    [[Otherwise, an alternative form of 腑. **See $腑fu2 for the canonical entry.**]] [[TODO]]
+    [[Otherwise, an alternative form of 腑. **See $腑fu2 for the canonical entry.**]]
     --
     --
     [[Otherwise, an alternative form of 俯. **See $俯fu2 for the canonical entry.**]]
@@ -1573,6 +1574,53 @@ S
   - ($脯pou2) (TODO)
   - $脯pou4 (TODO)
   ==
+$$
+
+### 腑2 | _(2)F(u/)_ [[fu2]]
+
+$$
+R
+  ⾁ + 8
+U
+  U+8151
+A
+  ==
+  - $府2
+  ==
+F
+  ==
+  - (F2.13 腑) 腑肺
+  ==
+W
+  ====
+  - [[Page~59 (2)腑]]
+    ==
+    - The inferior viscera [[Kangxi: 臟腑, 本作府]];
+    - _luk(9) (2)f(u/)_
+        [[luk6 fu2 六腑]],
+        the stomach, gall, bladder, larger and smaller intestines,
+        and secreting passages [[Kangxi: ::[...]膽胃大小腸膀胱三焦六府皆爲陽:: etc.]];
+    - _fai(3) (2)f(u/)_
+        [[fai3 fu2 肺腑]],
+        the lungs ``and viscera``.
+    ==
+    --
+    ~~A retired place.~~
+    --
+  ====
+C
+  ==
+  - Williams' 肺腑: Metaphorically, a confidant.
+  - Williams' "A retired place": This is perhaps an attempt at capturing
+    the metaphorical sense of 肺腑 similar to "bottom of one's heart".
+  ==
+L
+  ====
+  * 【腑】 (pjuX)
+    ==
+    - (_noun-like_) secreting-organ
+    ==
+  ====
 $$
 
 ### 釜2 | _(2)F(u/)_ [[fu2]]
