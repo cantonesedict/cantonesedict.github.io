@@ -1108,6 +1108,7 @@ $$
 - $拊2
 - $撫2
 - $斧2
+- $琥2
 - $甫2
 - $簠2
 - $脯2
@@ -1425,6 +1426,51 @@ E
     ++
     1. The character component 阝, especially on the left. (Literally, "axe beside".)
     ++
+  ====
+$$
+
+### 琥2 | _(2)F(u/)_ [[fu2]]
+
+$$
+R
+  ⽟ + 8
+U
+  U+7425
+A
+  ==
+  - $虎2
+  ==
+F
+  ==
+  - (F2.13 琥) 琥珀
+  ==
+W
+  ====
+  - [[Page~60 (2)琥]]
+    ==
+    - A signet, made of veined stone ~~like a tiger's skin~~ ``depicting a tiger`` [[Kangxi: 發兵瑞玉爲虎文]];
+    - _(2)f(u/) (4)f(u/)_
+        [[fu2 fu4 琥符]],
+        warrant or seal, ~~sent when soldiers were levied~~ ``for sending forth soldiers``;
+    - _(2)f(u/) ~~p(a/)k(9)~~ ``p(')(a/)k(8)``_
+        [[fu2 paak3 琥珀]]
+        amber [[Kangxi: 琥珀松脂入地所化]].
+    ==
+  ====
+C
+  ==
+  - Williams' 琥珀: Corrected _p(a/)k(9)_ (baak6) to _p(')(a/)k(8)_ (paak3).
+  ==
+P
+  ++
+  1. A jade item in the shape of a tiger (Kangxi: 玉器).
+  ++
+L
+  ====
+  * 【琥】 (xuX)
+    ==
+    - (_noun-like_) tiger-jewel
+    ==
   ====
 $$
 
@@ -1749,6 +1795,9 @@ W
         [[fu2 si6 虎視]]
         to glare at, fierce.
     ==
+    --
+    [[Otherwise, an alternative form of 琥. **See $琥fu2 for the canonical entry.**]]
+    --
   ====
 C
   ==

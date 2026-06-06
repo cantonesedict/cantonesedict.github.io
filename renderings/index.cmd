@@ -9818,6 +9818,13 @@ window.onload = applyFilter;
       ==
   //
     , `xuX`
+    , [琥](/entries/fu#rendering-琥)
+    ,
+      ==
+      - (_noun-like_) tiger-jewel
+      ==
+  //
+    , `xuX`
     , [虎](/entries/fu#rendering-虎)
     ,
       ==
