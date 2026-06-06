@@ -1282,6 +1282,7 @@ For all radicals, see [Index of characters by radical](./).
       - $芬fan1
       - $芣fau4
       - $芳fong1
+      - $苦fu2
       - $芝zi1
       ==
       </nav>

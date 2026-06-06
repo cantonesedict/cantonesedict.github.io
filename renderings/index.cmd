@@ -3152,6 +3152,16 @@ window.onload = applyFilter;
       - (_adjective-like_) withered, (_met._) dried up, paralysed
       ==
   //
+    , `khuX`
+    , [苦](/entries/fu#rendering-苦)
+    ,
+      ==
+      - (_noun-like_) bitter-plant
+      - (_adjective-like_) bitter
+      - (_noun-like_) bitterness, suffering
+      - (_verb-like_) [to] (make) suffer
+      ==
+  //
     , `khwa`
     , [科](/entries/fo#rendering-科)
     ,

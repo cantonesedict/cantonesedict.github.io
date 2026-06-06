@@ -1112,6 +1112,7 @@ $$
 - $簠2
 - $脯2
 - $腑2
+- $苦2
 - $釜2
 - $鈇2
 - ($鬴2)
@@ -1621,6 +1622,87 @@ L
     - (_noun-like_) secreting-organ
     ==
   ====
+$$
+
+### 苦2 | _(2)F(u/)_ [[fu2]]
+
+$$
+R
+  ⾋ + 4
+U
+  U+82E6
+V
+  ==
+  - fu3 (per Kangxi 苦故切 in 苦船, 苦車)
+  ==
+F
+  ==
+  - (F2.13 苦) 辛苦
+  ==
+W
+  ====
+  - [[Page~59 (2)苦]]
+    ==
+    - A marshy plant, which becomes sweet when frozen [[Kangxi: 苦苦菜也陸璣云生田及山澤中得霜甜脃而美]];
+    - bitter [[Kangxi: 味也]], unpleasant;
+    - troublesome, painful, painstaking;
+    - urgent, pressing [[Kangxi: 急也]], afflicted, ~~distressing~~ ``distressed`` [[Kangxi: 患也]];
+    - to dislike, distasteful, to mortify;
+    - _(2)h(o\) (2)f(u/)_
+        [[hou2 fu2 好苦]],
+        very bitter;
+    - _(4)ho (2)f(u/)_
+        [[ho4 fu2 何苦]],
+        how troublesome!
+    - _(2)f(u/) l(a/)t(9)_
+        [[fu2 laat6 苦辣]]
+        bitter and acrid;
+    - _(2)f(u/) meng(6)_
+        [[fu2 meng6 苦命]]
+        a hard lot;
+    - _(2)f(u/) ch(i/)(3)_
+        [[fu2 zi3 苦志]]
+        decided, in earnest;
+    - _(2)f(u/) (4)sh(u:)n_
+        [[fu2 syun4 苦船]],
+        to dislike sailing;
+    - _(2)f(u/) (2)hau (4)l(e/)ung y(e/)uk(9)_
+        [[fu2 hau2 loeng4 joek6 苦口良藥]]
+        bitter to the taste but wholesome physic, ungracious advice;
+    - _(2)f(u/) (1)kw(a/)_
+        [[fu2 gwaa1 苦瓜]],
+        ~~egg-plant~~ ``bitter-melon``;
+    - _(2)f(u/) (2)ch(')o_
+        [[fu2 co2 苦楚]],
+        extreme grief;
+    - _(2)f(u/) l(a/)t(9) ts(')oi(3)_
+        [[fu2 laat6 coi3 苦辣菜]]
+        a species of Eruca.
+    ==
+  ====
+C
+  ==
+  - Williams' 何苦: In the sense of "why trouble [oneself to do that]".
+  - Williams' 苦船: Or, to be seasick.
+  ==
+P
+  ++
+  1. To make endure (Kangxi: 勤也).
+  ++
+L
+  ====
+  * 【苦】 (khuX)
+    ==
+    - (_noun-like_) bitter-plant
+    - (_adjective-like_) bitter
+    - (_noun-like_) bitterness, suffering
+    - (_verb-like_) [to] (make) suffer
+    ==
+  ====
+S
+  ==
+  - $苦gu2 (TODO) <## 惡也 "poor" ##>
+  ==
 $$
 
 ### 釜2 | _(2)F(u/)_ [[fu2]]
