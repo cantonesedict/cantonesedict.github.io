@@ -1469,6 +1469,14 @@ For all radicals, see [Index of characters by radical](./).
     ; Character entry links
 |:
   //
+    , 2
+    ,
+      <nav class="sideways">
+      ==
+      - $虎fu2
+      ==
+      </nav>
+  //
     , 5
     ,
       <nav class="sideways">

@@ -9817,6 +9817,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] shout (out)
       ==
   //
+    , `xuX`
+    , [虎](/entries/fu#rendering-虎)
+    ,
+      ==
+      - (_noun-like_) tiger
+      ==
+  //
     , `xuH`
     , [呼](/entries/fu#rendering-呼)
     ,

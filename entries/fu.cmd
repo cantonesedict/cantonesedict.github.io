@@ -1113,6 +1113,7 @@ $$
 - $脯2
 - $腑2
 - $苦2
+- $虎2
 - $釜2
 - $鈇2
 - ($鬴2)
@@ -1703,6 +1704,67 @@ S
   ==
   - $苦gu2 (TODO) <## 惡也 "poor" ##>
   ==
+$$
+
+### 虎2 | _(2)F(u/)_ [[fu2]]
+
+$$
+R
+  ⾌ + 2
+U
+  U+864E
+F
+  ==
+  - (F2.13 虎) ::虎[狼]猛[獸]也::
+  ==
+W
+  ====
+  - [[Page~60 (2)虎]]
+    ==
+    - A tiger, the king of beasts [[Kangxi: 惡獸也, 山獸之君]];
+    - brave, fierce;
+    - awful, violent;
+    - _(5)l(o\) (2)f(u/)_
+        [[lou5 fu2 老虎]],
+        a tiger;
+    - _(2)f(u/) ts(e/)ung(3)_
+        [[fu2 zoeng3 虎將]]
+        a valiant soldier;
+    - _(2)f(u/) ching(3)_
+        [[fu2 zing3 虎政]]
+        a cruel sway;
+    - _~~p(a/)t(9)~~ ``pat(9)`` (2)f(u/) (1)s(o\)_
+        [[bat6 fu2 sou1 拔虎鬚]],
+        'to seize the tiger's whiskers,' courageous;
+    - _(2)F(u/) (4)m(u/)n_
+        [[fu2 mun4 虎門]],
+        the Bogue;
+    - _(2)f(u/) (4)ying_
+        [[fu2 jing4 虎型]],
+        ferocious;
+    - _(2)f(u/) k(a/)m(3)_
+        [[fu2 gaam3 虎監]]
+        a graduate who lords it over people;
+    - _(2)f(u/) sh(i/)(6)_
+        [[fu2 si6 虎視]]
+        to glare at, fierce.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed missing strokes in 狼 and 獸.
+  - Williams' 拔虎鬚: Changed _p(a/)t(9)_ (baat6) to modern _pat(9)_ (bat6).
+    Also 捋虎鬚, to *stroke* the tiger's whiskers.
+  - Williams' 虎門: The _Bocca Tigris_, from the Portuguese _Boca do Tigre_.
+  - Williams' 虎視: As in 虎視眈眈.
+  ==
+L
+  ====
+  * 【虎】 (xuX)
+    ==
+    - (_noun-like_) tiger
+    ==
+  ====
 $$
 
 ### 釜2 | _(2)F(u/)_ [[fu2]]
