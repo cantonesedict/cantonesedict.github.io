@@ -1963,10 +1963,84 @@ $$
 <## tone-3-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $副3
 - $富3
 ==
 </nav>
 <## /tone-3-characters ##>
+
+### 副3 | _F(u/)(3)_ [[fu3]]
+
+$$
+R
+  ⼑ + 9
+U
+  U+526F
+A
+  ==
+  - 褔 (for classifier(?) sense)
+  ==
+F
+  ==
+  - (F2.16 副) ::佐也[貳]也稱也又后夫人祭服之首飾::
+  ==
+W
+  ====
+  - [[Page~60 副(3)]]
+    ==
+    - To assist, to aid, to second;
+    - ~~to investigate [[Kangxi: 審也]];~~
+    - an assistant [[Kangxi: ::[貳]也::, 佐也]], a substitute, a lieutenant, a vice, a deputy [[Kangxi: 副者次長之稱]];
+    - a classifier of suits of clothes, or sets of things, as beads, tools, plates, &c.;
+    - an ancient head-dress [[Kangxi: 后夫人首飾, 首飾也編髮爲之]];
+    - _f(u/)(3) (1)sz'_
+        [[fu3 si1 副司]]
+        second commissioner;
+    - _f(u/)(3) ts(e/)ung(3)_
+        [[fu3 zoeng3 副將]]
+        a colonel;
+    - _f(u/)(3) (4)y(e/)_
+        [[fu3 je4 副爺]],
+        a compellation of low military officers;
+    - _yat(7) f(u/)(3) (1)sam (1)k(i/)_
+        [[jat1 fu3 sam1 gei1 一副心機]],
+        disposition, temperament;
+    - _yat(7) f(u/)(3) (1)t(')(i/)n (1)ts(')ung_
+        [[jat1 fu3 tin1 cung1 一副天聰]]^
+        naturally clever;
+    - _(4)ts(')(u:)n f(u/)(3) chap(7) sz'(6)_
+        [[cyun4 fu3 zap1 si6 全副執事]]
+        a complete procession;
+    - _f(u/)(3) (2)pong_
+        [[fu3 bong2 副榜]],
+        an under _(k(u:)jin)_ [[舉人]] graduate.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed position of dot in 貳.
+    The same irregular dot placement in 貳 is found in Kangxi.
+  - Williams' "to investigate": This is a faithful rendering of Kangxi 審也,
+    but that sense is perhaps more reasonable under the entering tone.
+    The commentary (副者次長之稱審猶察也) is of little help here.
+  ==
+P
+  ++
+  1. To match.
+  ++
+L
+  ====
+  * 【副-departing】 (phjuwH)
+    ==
+    - (_adjective-like_) subsidiary, (_met._) matched
+    - (_noun-like_) headdress
+    ==
+  ====
+S
+  ==
+  - $副pik1 (TODO)
+  ==
+$$
 
 ### 富3 | _F(u/)(3)_ [[fu3]]
 

@@ -3581,6 +3581,14 @@ window.onload = applyFilter;
       - (_adjective-like_) fresh, bright
       ==
   //
+    , `phjuwH`
+    , [副~(departing)](/entries/fu#rendering-副-departing)
+    ,
+      ==
+      - (_adjective-like_) subsidiary, (_met._) matched
+      - (_noun-like_) headdress
+      ==
+  //
     , `pj+j`
     , [扉](/entries/fei#rendering-扉)
     ,
