@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-06-06
+* %date-modified --> 2026-06-07
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -856,10 +856,25 @@ window.onload = applyFilter;
       ==
   //
     , `bjuwX`
+    , [婦](/entries/fu#rendering-婦)
+    ,
+      ==
+      - (_noun-like_) woman
+      - Used in [婦人](/entries/fu#rendering-婦人).
+      ==
+  //
+    , `bjuwX`
     , [蛗](/entries/fau#rendering-蛗)
     ,
       ==
       - Used in [蛗螽](/entries/zung#rendering-蛗螽).
+      ==
+  //
+    , `bjuwX nyin`
+    , [婦人](/entries/fu#rendering-婦人)
+    ,
+      ==
+      - (_noun-like_) woman
       ==
   //
     , `bjuwX tsyuwng`

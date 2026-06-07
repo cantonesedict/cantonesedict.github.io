@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fu
-* %date-modified --> 2026-06-06
+* %date-modified --> 2026-06-07
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -24,6 +24,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [fu1](#1)
 - [fu2](#2)
 - [fu4](#4)
+- [fu5](#5)
 ==
 </nav>
 <## /tones ##>
@@ -2249,4 +2250,100 @@ W
     [[Alternative form of 鳧. **See $鳧fu4 for the canonical entry.**]]
     --
   ====
+$$
+
+
+##{#5 .williams} (5)F(u/) [[fu5 陽上]]
+
+<## tone-5-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $婦5
+==
+</nav>
+<## /tone-5-characters ##>
+
+### 婦5 | _(5)F(u/)_ [[fu5]]
+
+$$
+R
+  ⼥ + 8
+U
+  U+5A66
+A
+  ==
+  - 媍
+  ==
+V
+  ==
+  - pou5 (vernacular in 新婦, 姪婦)
+  ==
+F
+  ==
+  - (F2.15 婦) 女人之稱又妻也
+  - (F2.15 媍) 同上
+  ==
+W
+  ====
+  - [[Page~60 (5)婦]]
+    ==
+    - A wife, a married woman, a female under subjection [[Kangxi: 服也, ::[...]又女子已嫁曰婦婦之言服也服事於夫也::]];
+    - a lady;
+    - ~~fcmale~~ ``female`` [[Kangxi: 物類之隂者亦曰婦]];
+    - beautiful [[Kangxi: 好貌]];
+    - _(5)f(u/) (4)yan_
+        [[fu5 jan4 婦人]],
+        a woman;
+    - _~~ts(')(u:)(3)~~ ``(2)ts(')(u:)`` (1)san (5)f(u/)_
+        [[ceoi2 san1 fu5 娶新婦]],
+        to take a ~~wife~~ ``daughter-in-law``;
+    - _(5)f(u/) (5)n(u:)_
+        [[fu5 neoi5 婦女]],
+        women;
+    - _(2)ch(')au (5)f(u/)_
+         [[cau2 fu5 醜婦]],
+         a hag;
+    - _(5)f(u/) t(o\)(6) (1)ch(i/) (1)k(a/)_
+        [[fu5 dou6 zi1 gaa1 婦道之家]],
+        a woman's place, female propriety;
+    - _~~meng(6)~~ ``ming(6)`` (5)f(u/)_
+        [[ming6 fu5 命婦]],
+        an officer's lady.
+    ==
+  ====
+C
+  ==
+  - Williams' "under subjection": Or "in servitude".
+  - Williams' 娶新婦: Changed _ts(')(u:)(3)_ (ceoi3) to common reading _(2)ts(')(u:)_ (ceoi2).
+  - Williams' 命婦: Corrected _meng(6)_ (meng6) to _ming(6)_ (ming6).
+  ==
+P
+  ++
+  1. A daughter-in-law (Kangxi: ::子之妻爲婦[...]::).
+  ++
+L
+  ====
+  * 【婦】 (bjuwX)
+    ==
+    - (_noun-like_) woman
+    - Used in [婦人](/entries/fu#rendering-婦人).
+    ==
+  * 【婦人】 (bjuwX nyin)
+    ==
+    - (_noun-like_) woman
+    ==
+  ====
+E
+  ====
+  - 【新婦】 (san1 pou5)
+    ++
+    1. A daughter-in-law.
+       ==
+       - 娶新婦未 (ceoi2 san1 pou5 mei6): "[Have you] taken [a] daughter-in-law yet?" (i.e. has your son taken a wife yet?).
+       ==
+    ++
+  ====
+  --
+  Also see [姪婦](/entries/zat#cantonese-姪婦).
+  --
 $$
