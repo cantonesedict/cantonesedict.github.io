@@ -3177,6 +3177,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] (make) suffer
       ==
   //
+    , `khuH`
+    , [庫](/entries/fu#rendering-庫)
+    ,
+      ==
+      - (_noun-like_) arsenal, (_met._) storehouse
+      ==
+  //
     , `khwa`
     , [科](/entries/fo#rendering-科)
     ,

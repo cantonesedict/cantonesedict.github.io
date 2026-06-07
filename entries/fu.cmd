@@ -1965,6 +1965,7 @@ $$
 =={.modern}
 - $副3
 - $富3
+- $庫3
 - $賦3
 ==
 </nav>
@@ -2098,6 +2099,46 @@ L
     ==
     - (_adjective-like_) wealthy
     - (_verb-like_) [to] wealthen
+    ==
+  ====
+$$
+
+### 庫3 | _F(u/)(3)_ [[fu3]]
+
+$$
+R
+  ⼴ + 7
+U
+  U+5EAB
+F
+  ==
+  - (F2.16 庫) 貯財之府
+  ==
+W
+  ====
+  - [[Page~60 庫(3)]]
+    ==
+    - A carriage-house;
+    - an armory, an arsenal [[Kangxi: 兵車藏也]];
+    - a storehouse [[Kangxi: 庫舍也物所在之舍也故齊魯謂庫曰舍]];
+    - a treasury, a magazine;
+    - a lexicon;
+    - _(4)ngan f(u/)(3)_
+        [[ngan4 fu3 銀庫]]
+        a treasury;
+    - _(2)t(')(o\) f(u/)(3)_
+        [[tou2 fu3 土庫]]
+        a go-down;
+    - _f(u/)(3) hong(6)_
+        [[fu3 hong6 庫？]]
+        treasury stores.
+    ==
+  ====
+L
+  ====
+  * 【庫】 (khuH)
+    ==
+    - (_noun-like_) arsenal, (_met._) storehouse
     ==
   ====
 $$
