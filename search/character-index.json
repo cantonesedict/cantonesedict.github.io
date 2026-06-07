@@ -8049,6 +8049,12 @@
 "text":"U+5BCC (F2.16 富) 豐於財也 (Page 60 富) Rich, affluent (Kangxi: 備也一曰厚也, 豐於財也), abundant (Kangxi: 凡充裕皆曰富); to provide, to enrich; the rich; wealth (Kangxi: 貨賄也); _fu kwai_ (fu3 gwai3 富貴) rich, noble; _fu hau_ (fu3 hau5 富厚) rich; _fu yung_ (fu3 jung1 富翁), a rich old fellow; _nin fu_ (nin4 fu3 年富) young, lusty (Kangxi: 年富謂年幼後來齒歷方久也); _hok fu ~~che~~_ (hok6 fu3 學富) universally learned; _fu tsuk_ (fu3 zuk1 富足) rich enough. Fan Wan entry: Fixed missing strokes in 豐. Williams' 富厚: Changed _hau_ (hau6) to common reading _hau_ (hau5). Williams' 學富: Removed extraneous _che_ (ze1). A surname (Kangxi: 姓). 【富】 (pjuwH) (_adjective-like_) wealthy (_verb-like_) to wealthen"
 }
 },
+"賦":{
+"fu3":{
+"isCanonical":true,
+"text":"U+8CE6 (F2.16 賦) 稅也役也又詞賦 (Page 60 賦) To exact, to levy, to collect, to require (Kangxi: 責取也, 斂也); taxes of money ~~or~~ ``for the`` military ~~arms~~; ~~tribute from fiefs;~~ to express clearly (Kangxi: 鋪陳也, 賦之言鋪直鋪陳今之政敎善惡); to give (Kangxi: 給與也); to receive (Kangxi: 稟受也); to place in order; ~~a metre of 4 and 6 feet in the lines~~ ``rhyming prose``; _fu shui_ (fu3 seoi3 賦稅) imposts; _fu lim_ (fu3 lim5 賦斂), to levy taxes; _fu yik_ (fu3 jik6 賦役) to levy troops; _fu nap_ (fu3 naap6 賦納) ~~_t_o~~ ``to`` send up taxes. Williams' \"tribute from fiefs\": This is a misreading of Kangxi 貢士曰賦. Here, 貢士 is a scholar sent (as a tribute of sorts) from a vassal-state. The example is 《前漢鼂錯傳》廼以臣錯充賦, and the commentary indicates that 賦 is being used in a self-deprecating sense, metaphorically comparing one's appointment to the fulfilment of a tax shortfall, \"Ye have only taken me the Minister Ts'ok to fill the required amount.\" To spread, to distribute (Kangxi: 布也). 【賦】 (pjuH) (_verb-like_) to tax (_verb-like_) to give, to spread, to distribute (_noun-like_) rhyming-prose"
+}
+},
 "符":{
 "fu4":{
 "isCanonical":true,

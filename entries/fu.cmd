@@ -1965,6 +1965,7 @@ $$
 =={.modern}
 - $副3
 - $富3
+- $賦3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -2097,6 +2098,67 @@ L
     ==
     - (_adjective-like_) wealthy
     - (_verb-like_) [to] wealthen
+    ==
+  ====
+$$
+
+### 賦3 | _F(u/)(3)_ [[fu3]]
+
+$$
+R
+  ⾙ + 8
+U
+  U+8CE6
+F
+  ==
+  - (F2.16 賦) 稅也役也又詞賦
+  ==
+W
+  ====
+  - [[Page~60 賦(3)]]
+    ==
+    - To exact, to levy, to collect, to require [[Kangxi: 責取也, 斂也]];
+    - taxes of money ~~or~~ ``for the`` military ~~arms~~;
+    - ~~tribute from fiefs;~~
+    - to express clearly [[Kangxi: ::鋪[陳]也::, 賦之言鋪直鋪陳今之政敎善惡]];
+    - to give [[Kangxi: 給與也]];
+    - to receive [[Kangxi: 稟受也]];
+    - to place in order;
+    - ~~a metre of 4 and 6~feet in the lines~~ ``rhyming prose``;
+    - _f(u/)(3) shui(3)_
+        [[fu3 seoi3 賦稅]]
+        imposts;
+    - _f(u/)(3) (5)l(i/)m_
+        [[fu3 lim5 賦斂]],
+        to levy taxes;
+    - _f(u/)(3) yik(9)_
+        [[fu3 jik6 賦役]]
+        to levy troops;
+    - _f(u/)(3) n(a/)p(9)_
+        [[fu3 naap6 賦納]]
+        ~~_t_o~~ ``to`` send up taxes.
+    ==
+  ====
+C
+  ==
+  - Williams' "tribute from fiefs": This is a misreading of Kangxi 貢士曰賦.
+    Here, 貢士 is a scholar sent (as a tribute of sorts) from a vassal-state.
+    The example is 《前漢鼂錯傳》廼以臣錯充賦, and the commentary indicates that
+    賦 is being used in a self-deprecating sense,
+    metaphorically comparing one's appointment to the fulfilment of a tax shortfall,
+    "[Ye have] only taken [me the] Minister Ts(')ok [to] fill [the] required [amount]."
+  ==
+P
+  ++
+  1. To spread, to distribute (Kangxi: 布也).
+  ++
+L
+  ====
+  * 【賦】 (pjuH)
+    ==
+    - (_verb-like_) [to] tax
+    - (_verb-like_) [to] give, [to] spread, [to] distribute
+    - (_noun-like_) rhyming-prose
     ==
   ====
 $$

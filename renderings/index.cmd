@@ -3939,6 +3939,15 @@ window.onload = applyFilter;
       - (_noun-like_) embroidered-axe
       ==
   //
+    , `pjuH`
+    , [賦](/entries/fu#rendering-賦)
+    ,
+      ==
+      - (_verb-like_) [to] tax
+      - (_verb-like_) [to] give, [to] spread, [to] distribute
+      - (_noun-like_) rhyming-prose
+      ==
+  //
     , `pjun`
     , [分~(level)](/entries/fan#rendering-分-level)
     ,
