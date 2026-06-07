@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> coeng
-* %date-modified --> 2026-04-08
+* %date-modified --> 2026-06-07
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1221,7 +1221,7 @@ C
   ==
   - Fan Wan entry: Corrected 逹 to 達.
   - Williams' "The inner qualities developing":
-    This is a misreading of a Kangxi 《易坤卦》美在其中而暢於四支《疏》有美在中必通暢於外 as a definition, when it is actually an example.
+    This is a misreading of Kangxi 《易坤卦》美在其中而暢於四支《疏》有美在中必通暢於外 as a definition, when it is actually an example.
   ==
 L
   ====
