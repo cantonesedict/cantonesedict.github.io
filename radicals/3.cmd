@@ -805,6 +805,14 @@ For all radicals, see [Index of characters by radical](./).
       ==
       </nav>
   //
+    , 9
+    ,
+      <nav class="sideways">
+      ==
+      - $富fu3
+      ==
+      </nav>
+  //
     , 10
     ,
       <nav class="sideways">

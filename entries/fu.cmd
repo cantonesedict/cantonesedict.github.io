@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [fu1](#1)
 - [fu2](#2)
+- [fu3](#3)
 - [fu4](#4)
 - [fu5](#5)
 ==
@@ -1952,6 +1953,76 @@ L
   * 【黼】 (pjuX)
     ==
     - (_noun-like_) embroidered-axe
+    ==
+  ====
+$$
+
+
+##{#3 .williams} F(u/)(3) [[fu3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $富3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 富3 | _F(u/)(3)_ [[fu3]]
+
+$$
+R
+  ⼧ + 9
+U
+  U+5BCC
+F
+  ==
+  - (F2.16 富) ::[豐]於財也::
+  ==
+W
+  ====
+  - [[Page~60 富(3)]]
+    ==
+    - Rich, affluent [[Kangxi: 備也一曰厚也, 豐於財也]], abundant [[Kangxi: 凡充裕皆曰富]];
+    - to provide, to enrich;
+    - the rich;
+    - wealth [[Kangxi: 貨賄也]];
+    - _f(u/)(3) kwai(3)_
+        [[fu3 gwai3 富貴]]
+        rich, noble;
+    - _f(u/)(3) ~~hau(6)~~ ``(5)hau``_
+        [[fu3 hau5 富厚]]
+        rich;
+    - _f(u/)(3) (1)yung_
+        [[fu3 jung1 富翁]],
+        a rich old fellow;
+    - _(4)n(i/)n f(u/)(3)_
+        [[nin4 fu3 年富]]
+        young, lusty [[Kangxi: 年富謂年幼後來齒歷方久也]];
+    - _hok(9) f(u/)(3) ~~(1)ch(e/)~~_
+        [[hok6 fu3 學富]]^
+        universally learned;
+    - _f(u/)(3) tsuk(7)_
+        [[fu3 zuk1 富足]]
+        rich enough.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed missing strokes in 豐.
+  - Williams' 富厚: Changed _hau(6)_ (hau6) to common reading _(5)hau_ (hau5).
+  - Williams' 學富: Removed extraneous _(1)ch(e/)_ (ze1).
+  ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
+L
+  ====
+  * 【富】 (pjuwH)
+    ==
+    - (_adjective-like_) wealthy
+    - (_verb-like_) [to] wealthen
     ==
   ====
 $$

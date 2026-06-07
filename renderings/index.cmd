@@ -4060,6 +4060,14 @@ window.onload = applyFilter;
       - (_noun-like_) earthenware
       ==
   //
+    , `pjuwH`
+    , [富](/entries/fu#rendering-富)
+    ,
+      ==
+      - (_adjective-like_) wealthy
+      - (_verb-like_) [to] wealthen
+      ==
+  //
     , `sa`
     , [傞](/entries/co#rendering-傞)
     ,
