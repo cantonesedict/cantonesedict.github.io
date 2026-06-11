@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Cantonese phonology
-* %date-modified --> 2026-05-05
+* %date-modified --> 2026-06-11
 * %copyright-prior-years --> 2024--
 * %meta-description --> Cantonese phonology
 
@@ -617,7 +617,7 @@ that collapses the merged pairs (including Jyutping).
 ||||
 
 
-###{#nucleus-e .modern} Nucleus [ɛː, e]
+###{#nucleus-e .modern} Nucleus [ɛː] (or [e])
 
 ||||{.wide}
 ''{.modern}
@@ -689,7 +689,7 @@ that collapses the merged pairs (including Jyutping).
 ||||
 
 
-###{#nucleus-i .modern} Nucleus [iː, e]
+###{#nucleus-i .modern} Nucleus [iː] (or [e])
 
 ||||{.wide}
 ''{.modern}
@@ -766,7 +766,7 @@ that collapses the merged pairs (including Jyutping).
 ||||
 
 
-###{#nucleus-o .modern} Nucleus [ɔː, o]
+###{#nucleus-o .modern} Nucleus [ɔː] (or [o])
 
 ||||{.wide}
 ''{.modern}
@@ -837,7 +837,7 @@ that collapses the merged pairs (including Jyutping).
 ||||
 
 
-###{#nucleus-u .modern} Nucleus [uː, o]
+###{#nucleus-u .modern} Nucleus [uː] (or [o])
 
 ||||{.wide}
 ''{.modern}
