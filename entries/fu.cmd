@@ -1966,6 +1966,7 @@ $$
 - $副3
 - $富3
 - $庫3
+- $袴3
 - $褲3
 - $賦3
 ==
@@ -2144,6 +2145,28 @@ L
   ====
 $$
 
+### 袴3 | _F(u/)(3)_ [[fu3]]
+
+$$
+R
+  ⾐ + 6
+U
+  U+88B4
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~60 褲(3)袴(3)]]
+    --
+    [[Alternative form of 褲. See $褲fu3.]]
+    --
+  ====
+S
+  ==
+  - ($袴kwaa3) (TODO) <## same as 胯 ##>
+  ==
+$$
+
 ### 褲3 | _F(u/)(3)_ [[fu3]]
 
 $$
@@ -2154,7 +2177,7 @@ U
 A
   ==
   - 絝
-  - 袴
+  - $袴3
   ==
 F
   ==
@@ -2186,7 +2209,16 @@ C
   ==
   - Williams' 內褲: The preferred term for "underpants" in Cantonese is 底褲.
   ==
+L
+  ====
+  * 【袴】 (khuH)
+    ==
+    - (_noun-like_) trousers
+    ==
+  ====
 $$
+
+<## TODO: 瀨屎褲 laai6 si2 fu3 ##>
 
 ### 賦3 | _F(u/)(3)_ [[fu3]]
 

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-06-07
+* %date-modified --> 2026-06-12
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -3182,6 +3182,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) arsenal, (_met._) storehouse
+      ==
+  //
+    , `khuH`
+    , [袴](/entries/fu#rendering-袴)
+    ,
+      ==
+      - (_noun-like_) trousers
       ==
   //
     , `khwa`
