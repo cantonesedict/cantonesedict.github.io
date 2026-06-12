@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zai
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-06-12
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -193,7 +193,7 @@ E
   ====
   - 【擠】 (zai1)
     ++
-    1. To put, or put down. The spelling 擠 for this sense is arbitrary (but well established).
+    1. To put, or put down. The spelling 擠 for this word is arbitrary (but well established).
        ==
        - 擠喺度 (zai1 hai2 dou6): "Put [it] over here."
        ==
