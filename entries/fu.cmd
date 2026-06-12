@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fu
-* %date-modified --> 2026-06-07
+* %date-modified --> 2026-06-12
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1966,6 +1966,7 @@ $$
 - $副3
 - $富3
 - $庫3
+- $褲3
 - $賦3
 ==
 </nav>
@@ -2141,6 +2142,50 @@ L
     - (_noun-like_) arsenal, (_met._) storehouse
     ==
   ====
+$$
+
+### 褲3 | _F(u/)(3)_ [[fu3]]
+
+$$
+R
+  ⾐ + 10
+U
+  U+8932
+A
+  ==
+  - 絝
+  - 袴
+  ==
+F
+  ==
+  - (F2.16 褲) 下衣
+  ==
+W
+  ====
+  - [[Page~60 褲(3)袴(3)]]
+    ==
+    - A covering for the legs, trowsers [[Kangxi 袴: 脛衣也]];
+    - _(4)ngau (4)t(')au ~~fu(3)~~ ``f(u/)(3)``_
+        [[ngau4 tau4 fu3 牛頭褲]]
+        breeches;
+    - _t(')(o\)(3) f(u/)(3)_
+        [[tou3 fu3 套褲]]
+        overalls, leggings;
+    - _noi(6) f(u/)(3)_
+        [[noi6 fu3 內褲]]
+        drawers;
+    - _(4)ch(')(e/)ung f(u/)(3)_
+        [[coeng4 fu3 長褲]]
+        pantaloons;
+    - _yat(7) (4)t(')i(u/) f(u/)(3)_
+        [[jat1 tiu4 fu3 一條褲]]
+        a pair of trowsers.
+    ==
+  ====
+C
+  ==
+  - Williams' 內褲: The preferred term for "underpants" in Cantonese is 底褲.
+  ==
 $$
 
 ### 賦3 | _F(u/)(3)_ [[fu3]]
