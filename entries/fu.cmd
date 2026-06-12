@@ -1966,6 +1966,7 @@ $$
 - $副3
 - $富3
 - $庫3
+- $戽3
 - ($絝3)
 - $袴3
 - $褲3
@@ -2142,6 +2143,42 @@ L
   * 【庫】 (khuH)
     ==
     - (_noun-like_) arsenal, (_met._) storehouse
+    ==
+  ====
+$$
+
+### 戽3 | _F(u/)(3)_ [[fu3]]
+
+$$
+R
+  ⼾ + 4
+  ⽃ + 4
+U
+  U+623D
+V
+  ==
+  - fu2 (alternative per 《廣韻》呼古切 for noun sense)
+  - wu6 (per 《廣韻》侯古切 for verb sense)
+  ==
+F
+  ==
+  - (F2.16 戽) 戽水之斗
+  ==
+W
+  ====
+  - [[Page~60 戽(3)]]
+    ==
+    - To bale out water [[Kangxi: 抒也]];
+    - a baling vessel [[Kangxi: 戽斗舟中渫水器也]];
+    - _f(u/)(3) (2)shui_
+        [[fu3 seoi2 戽水]],
+        to bale water;
+    - _f(u/)(3) (2)tau_
+        [[fu3 dau2 戽斗]],
+        a water ladle;
+    - _f(u/)(3) (4)(u:)_
+        [[fu3 jyu4-2 戽魚]],
+        to take fish by baling the water.
     ==
   ====
 $$
