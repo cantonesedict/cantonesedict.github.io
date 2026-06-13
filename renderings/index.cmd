@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-06-12
+* %date-modified --> 2026-06-13
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -677,6 +677,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) mallard
+      ==
+  //
+    , `bjuX`
+    , [父~(voiced)](/entries/fu#rendering-父-voiced)
+    ,
+      ==
+      - (_noun-like_) father
       ==
   //
     , `bjuX`

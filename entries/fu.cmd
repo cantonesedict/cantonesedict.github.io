@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fu
-* %date-modified --> 2026-06-12
+* %date-modified --> 2026-06-13
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -26,6 +26,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - [fu3](#3)
 - [fu4](#4)
 - [fu5](#5)
+- [fu6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -2726,4 +2727,89 @@ E
   --
   Also see [姪婦](/entries/zat#cantonese-姪婦).
   --
+$$
+
+
+##{#6 .williams} F(u/)(6) [[fu6 陽去]]
+
+<## tone-6-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $父6
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 父6 | _F(u/)(6)_ [[fu6]]
+
+$$
+R
+  ⽗ + 0
+U
+  U+7236
+V
+  ==
+  - fu6-2 (vernacular rising-tone noun in 舅父)
+  ==
+F
+  ==
+  - (F2.17 父) 父母
+  ==
+W
+  ====
+  - [[Page~61 父(6)]]
+    ==
+    - A father [[Kangxi: 矩也家長率敎者 etc.]];
+    - a senior, an ancestor, an old man [[Kangxi: 老叟之稱]];
+    - a title applied to peasants and aged people;
+    - to rule, to act as a father;
+    - _f(u/)(6) (1)ts(')an_
+        [[fu6 can1 父親]],
+        a father;
+    - _f(u/)(6) (5)l(o\)_
+        [[fu6 lou5 父老]],
+        a village or neighborhood elder;
+    - _(1)shang f(u/)(6)_
+        [[sang1 fu6 生父]]
+        own father;
+    - _f(u/)(6) (5)m(o\) (1)k(u/)n_
+        [[fu6 mou5 gun1 父母官]],
+        the local or district magistrate;
+    - _f(u/)(6) (1)hing (1)ch(i/) p(u/)i(3)_
+        [[fu6 hing1 zi1 bui3 父兄之輩]]
+        superiors generally;
+    - _(1)k(a/) f(u/)(6)_
+        [[gaa1 fu6 家父]]
+        my father;
+    - _f(u/)(6) (5)m(o\)_
+        [[fu6 mou5 父母]],
+        parents;
+    - _(1)s(i/)n f(u/)(6)_
+        [[sin1 fu6 先父]]
+        my late father;
+    - _f(u/)(6) (4)wong_
+        [[fu6 wong4 父皇]],
+        my imperial father.
+    ==
+  ====
+C
+  ==
+  - Williams' 生父: A biological father, as opposed to e.g. an adoptive father.
+  ==
+P
+  ++
+  1. Elder noblemen or officials of the same surname (Kangxi: 天子謂同姓諸侯諸侯謂同姓大夫皆曰諸父).
+  1. The 88th~radical ("father").
+  ++
+L
+  ====
+  * 【父-voiced】 (bjuX)
+    ==
+    - (_noun-like_) father
+    ==
+  ====
+S
+  ==
+  - $父fu2 (TODO)
+  ==
 $$
