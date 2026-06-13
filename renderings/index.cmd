@@ -702,6 +702,13 @@ window.onload = applyFilter;
       ==
   //
     , `bjuH`
+    , [附](/entries/fu#rendering-附)
+    ,
+      ==
+      - (_verb-like_) [to] attach, [to] adjoin, [to] annex, (_met._) [to] add (to)
+      ==
+  //
+    , `bjuH`
     , [鮒](/entries/fu#rendering-鮒)
     ,
       ==

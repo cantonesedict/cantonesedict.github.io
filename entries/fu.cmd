@@ -2768,6 +2768,7 @@ $$
 =={.modern}
 - $父6
 - $祔6
+- $附6
 - $駙6
 - $鮒6
 ==
@@ -2858,7 +2859,7 @@ U
 A
   ==
   - 付
-  - 附
+  - $附6
   ==
 F
   ==
@@ -2888,6 +2889,83 @@ L
     ==
     - (_verb-like_) [to] adjoin [in sacrifice]
     - (_verb-like_) [to] bury jointly
+    ==
+  ====
+$$
+
+### 附6 | _F(u/)(6)_ [[fu6]]
+
+$$
+R
+  ⾩ + 5
+U
+  U+9644
+A
+  ==
+  - 坿 (for "add to" sense)
+  ==
+F
+  ==
+  - (F2.17 附) 附寄附麗附託附近附益又衣附
+  ==
+W
+  ====
+  - [[Page~61 附(6)]]
+    ==
+    - Near, about, ~~approaching~~ ``attached`` [[Kangxi: 依也近也著也]];
+    - to lean on, to follow;
+    - annexed, attached to, tributary, dependent;
+    - to join;
+    - a supplement, appendix, inclosure;
+    - _f(u/)(3) k(i/)(3)_
+        [[fu3 gei3 附寄]]
+        to send with;
+    - _f(u/)(6) wo(6)_
+        [[fu6 wo6 附和]]
+        to follow one in explaining;
+    - _f(u/)(6) (u/)i(6)_
+        [[fu6 wui6 附會]]
+        to echo or assent to another's words;
+    - _f(u/)(6) kan(6)_
+        [[fu6 gan6 附近]]
+        near, adjacent;
+    - _f(u/)(6) (1)t(a/)n_
+        [[fu6 daan1 附單]],
+        to inclose an account;
+    - _f(u/)(6) t(')ok(8)_
+        [[fu6 tok3 附託]]
+        to charge one with, to request;
+    - _f(u/)(6) (4)loi_
+        [[fu6 loi4 附來]],
+        to come or bring with one;
+    - _f(u/)(6) yik(7)_
+        [[fu6 jik1 附益]]
+        to add to, to benefit;
+    - _f(u/)(6) (2)tsz'_
+        [[fu6 zi2 附子]]
+        a stimulating medicine (a Rhamnus?);
+    - _f(u/)(6) ts(i/)n(3)_
+        [[fu6 zin3 附薦]]
+        to send one's tablets to a _t(a/)-tsi(u/)_ [[daa ziu 打醮]].
+    ==
+    --
+    [[Otherwise, an alternative form of 祔. **See $祔fu6 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Williams' 附和: Or, to echo or second, either sycophantically
+    or without applying one's own critical thinking.
+  ==
+P
+  ++
+  1. To add to (Kangxi: 附益也).
+  ++
+L
+  ====
+  * 【附】 (bjuH)
+    ==
+    - (_verb-like_) [to] attach, [to] adjoin, [to] annex, (_met._) [to] add (to)
     ==
   ====
 $$
