@@ -2767,6 +2767,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $父6
+- $祔6
 - $駙6
 - $鮒6
 ==
@@ -2845,6 +2846,50 @@ S
   ==
   - $父fu2
   ==
+$$
+
+### 祔6 | _F(u/)(6)_ [[fu6]]
+
+$$
+R
+  ⽰ + 5
+U
+  U+7954
+A
+  ==
+  - 付
+  - 附
+  ==
+F
+  ==
+  - (F2.17 祔) 合食先祖曰祔食又合葬曰祔
+  ==
+W
+  ====
+  - [[Page~61 祔(6)]]
+    ==
+    - To sacrifice to ``the newly dead alongside`` ancestors in the hall [[Kangxi: 後死者合食於先祖]];
+    - to inter in the same tomb [[Kangxi: 合葬亦曰祔]];
+    - _f(u/)(6) ~~shik(9)~~ ``tsz'(6)``_
+        [[fu6 zi6 祔食]]
+        to sacrifice to ``the dead and his`` ancestors;
+    - _f(u/)(6) tsong(3)_
+        [[fu6 zong3 祔葬]]
+        to bury together.
+    ==
+  ====
+C
+  ==
+  - Williams' 祔食: Corrected _shik(9)_ (sik6) to _tsz'(6)_ (zi6).
+  ==
+L
+  ====
+  * 【祔】 (bjuH)
+    ==
+    - (_verb-like_) [to] adjoin [in sacrifice]
+    - (_verb-like_) [to] bury jointly
+    ==
+  ====
 $$
 
 ### 駙6 | _F(u/)(6)_ [[fu6]]

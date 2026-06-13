@@ -694,6 +694,14 @@ window.onload = applyFilter;
       ==
   //
     , `bjuH`
+    , [祔](/entries/fu#rendering-祔)
+    ,
+      ==
+      - (_verb-like_) [to] adjoin [in sacrifice]
+      - (_verb-like_) [to] bury jointly
+      ==
+  //
+    , `bjuH`
     , [鮒](/entries/fu#rendering-鮒)
     ,
       ==
