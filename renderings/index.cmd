@@ -3917,6 +3917,14 @@ window.onload = applyFilter;
       ==
   //
     , `pjuX`
+    , [父~(unvoiced)](/entries/fu#rendering-父-unvoiced)
+    ,
+      ==
+      - (_suffix_)
+      - (_noun-like_) old-man
+      ==
+  //
+    , `pjuX`
     , [甫](/entries/fu#rendering-甫)
     ,
       ==

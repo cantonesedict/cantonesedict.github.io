@@ -2047,7 +2047,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $父fu6
+      - {$父fu2, $父fu6}
       ==
       </nav>
 ''

@@ -1111,6 +1111,7 @@ $$
 - $拊2
 - $撫2
 - $斧2
+- $父2
 - $琥2
 - $甫2
 - $簠2
@@ -1432,6 +1433,36 @@ E
   ====
 $$
 
+###+ 父2 | _(2)F(u/)_ [[fu2]]
+
+$$
+R
+  ⽗ + 0
+U
+  U+7236
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 甫 (for the honorific suffix sense). See $甫fu2.
+  1. Used in 田父 etc. (for old men in outdoor(?) occupations) (Kangxi: 野老通稱).
+  ++
+L
+  ====
+  * 【父-unvoiced】 (pjuX)
+    ==
+    - (_suffix_)
+    - (_noun-like_) old-man
+    ==
+  ====
+S
+  ==
+  - $父fu6
+  ==
+$$
+
 ### 琥2 | _(2)F(u/)_ [[fu2]]
 
 $$
@@ -1486,7 +1517,7 @@ U
   U+752B
 A
   ==
-  - 父 (for honorific suffix sense)
+  - $父2 (for honorific suffix sense)
   ==
 V
   ==
@@ -2749,7 +2780,7 @@ U
   U+7236
 V
   ==
-  - fu6-2 (vernacular rising-tone noun in 舅父)
+  - fu6-2^ (vernacular rising-tone noun in 舅父)
   ==
 F
   ==
@@ -2810,6 +2841,6 @@ L
   ====
 S
   ==
-  - $父fu2 (TODO)
+  - $父fu2
   ==
 $$
