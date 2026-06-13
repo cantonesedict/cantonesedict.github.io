@@ -2767,6 +2767,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $父6
+- $駙6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -2843,4 +2844,29 @@ S
   ==
   - $父fu2
   ==
+$$
+
+### 駙6 | _F(u/)(6)_ [[fu6]]
+
+$$
+R
+  ⾺ + 5
+U
+  U+99D9
+F
+  ==
+  - (F2.17 駙) 駙馬王親也
+  ==
+W
+  ====
+  - [[Page~61 駙(6)]]
+    ==
+    - Near [[Kangxi: 一曰近也]];
+    - quick [[Kangxi: 一曰疾也]];
+    - ~~to help~~ ``a subsidiary horse`` [[Kangxi: 副馬也]];
+    - _f(u/)(6) (5)m(a/)_
+        [[fu6 maa5 駙馬]],
+        a son-in-law of the emperor [[Kangxi: 皇女爲公主其夫必拜駙馬都尉故謂之駙馬]].
+    ==
+  ====
 $$
