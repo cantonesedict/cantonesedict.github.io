@@ -693,6 +693,13 @@ window.onload = applyFilter;
       - (_noun-like_) boiler
       ==
   //
+    , `bjuH`
+    , [鮒](/entries/fu#rendering-鮒)
+    ,
+      ==
+      - (_noun-like_) small-carp
+      ==
+  //
     , `bjun`
     , [墳~(level)](/entries/fan#rendering-墳-level)
     ,

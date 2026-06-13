@@ -2768,6 +2768,7 @@ $$
 =={.modern}
 - $父6
 - $駙6
+- $鮒6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -2867,6 +2868,37 @@ W
     - _f(u/)(6) (5)m(a/)_
         [[fu6 maa5 駙馬]],
         a son-in-law of the emperor [[Kangxi: 皇女爲公主其夫必拜駙馬都尉故謂之駙馬]].
+    ==
+  ====
+$$
+
+### 鮒6 | _F(u/)(6)_ [[fu6]]
+
+$$
+R
+  ⿂ + 5
+U
+  U+9B92
+F
+  ==
+  - (F2.17 鮒) 魚名
+  ==
+W
+  ====
+  - [[Page~61 鮒(6)]]
+    ==
+    - A ``small`` freshwater fish resembling the perch [[Kangxi: 魚名, 鮒鰿也今作鯽, 鮒魚魚之小者]],
+      said to go in pairs or shoals [[Kangxi: 以相附謂之鮒]], and be faithful to each other [[Kangxi: 義取夫婦相依附者也]];
+    - _f(u/)(6) (4)hang_
+        [[fu6 hang4 鮒行]],
+        to ~~go in shoals~~ ``walk in pairs``.
+    ==
+  ====
+L
+  ====
+  * 【鮒】 (bjuH)
+    ==
+    - (_noun-like_) small-carp
     ==
   ====
 $$
