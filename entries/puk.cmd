@@ -5,14 +5,10 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> puk
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-06-14
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
-
---{.modern}
-(Not present in the original ''Tonic Dictionary''.)
---
 
 #{.williams} ``P(')uk.`` [[puk]]
 
@@ -21,3 +17,25 @@ OrdinaryDictionaryReplacement: #.properties-override
 - (Work in progress)
 ==
 </nav>
+
+<## tones ##>
+<nav class="sideways">
+=={.modern}
+==
+</nav>
+<## /tones ##>
+
+$$
+WH
+  ==
+  - ``P(')uk.`` [[Not present^]]
+  ==
+WP
+  ==
+  - ``P(')uk`` <span class="modern">= *[pʰok̚]</span>
+  ==
+MP
+  ==
+  - puk = [pʰok̚]
+  ==
+$$
