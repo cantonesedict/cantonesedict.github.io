@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fu
-* %date-modified --> 2026-06-13
+* %date-modified --> 2026-06-14
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -2768,6 +2768,7 @@ $$
 =={.modern}
 - $父6
 - $祔6
+- $腐6
 - $附6
 - $駙6
 - $鮒6
@@ -2889,6 +2890,56 @@ L
     ==
     - (_verb-like_) [to] adjoin [in sacrifice]
     - (_verb-like_) [to] bury jointly
+    ==
+  ====
+$$
+
+### 腐6 | _F(u/)(6)_ [[fu6]]
+
+$$
+R
+  ⾁ + 8
+U
+  U+8150
+F
+  ==
+  - (F2.17 腐) 腐爛又腐腐
+  ==
+W
+  ====
+  - [[Page~61 腐(6)]]
+    ==
+    - Corrupted, carious, rotten [[Kangxi: 爛也, 朽也敗也]];
+    - ~~crushed to powder;~~
+    - castrated ``as punishment`` [[Kangxi: 宮{𠛬=⿰幵刂}曰腐 etc.]];
+    - _f(u/)(6) l(a/)n(6)_
+        [[fu6 laan6 腐爛]]
+        putrid, rotten;
+    - _tau(6) f(u/)(6)_
+        [[dau6 fu6 豆腐]]
+        bean curd;
+    - _f(u/)(6) (5)(u:)_
+        [[fu6 jyu5 腐乳]]^
+        soured curd;
+    - _f(u/)(6) (4)ying_
+        [[fu6 jing4 腐刑]],
+        punishment of castration;
+    - _f(u/)(6) (4)(u:)_
+        [[fu6 jyu4 腐儒]]^
+        a foolish pedant [[Kangxi: 腐者敗爛言無所堪任]].
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: 腐腐 should probably be 豆腐 or 腐乳.
+  - Williams' 腐儒: Especially one who is stale or antiquated.
+  ==
+L
+  ====
+  * 【腐】 (bjuX)
+    ==
+    - (_adjective-like_) rotting, putrid
+    - (_noun-like_) (_met._) castration
     ==
   ====
 $$
