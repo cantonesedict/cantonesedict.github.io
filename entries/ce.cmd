@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2026-04-08
+* %date-modified --> 2026-06-14
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -237,7 +237,7 @@ L
   ====
   * 【車】 (tsyhae)
     ==
-    - (_noun-like_) car
+    - (_noun-like_) carriage, (_met._) lower-jawbone
     ==
   ====
 S

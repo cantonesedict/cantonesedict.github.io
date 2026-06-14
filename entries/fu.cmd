@@ -2769,6 +2769,7 @@ $$
 - $父6
 - $祔6
 - $腐6
+- $輔6
 - $附6
 - $駙6
 - $鮒6
@@ -2940,6 +2941,50 @@ L
     ==
     - (_adjective-like_) rotting, putrid
     - (_noun-like_) (_met._) castration
+    ==
+  ====
+$$
+
+### 輔6 | _F(u/)(6)_ [[fu6]]
+
+$$
+R
+  ⾞ + 7
+U
+  U+8F14
+A
+  ==
+  - 䩉 (for jawbone/cheek senses)
+  ==
+F
+  ==
+  - (F2.17 輔) 扶助也又輔弼官也又四輔星名又車輔兩旁夾車木也
+  ==
+W
+  ====
+  - [[Page~61 輔(6)]]
+    ==
+    - The rack or cheeks of a cart [[Kangxi: 車輔兩旁夾車木也 etc.]];
+    - end of the jaw bones [[Kangxi: 人頰骨也, 輔上頷也]];
+    - to flank, to help, to second [[Kangxi: 毗輔相助也弼也, 扶也]];
+    - _f(u/)(6) tso(3)_
+        [[fu6 zo3 輔佐]]
+        to succor;
+    - _f(u/)(6) pat(9)_
+        [[fu6 bat6 輔弼]]
+        ministers;
+    - _sz'(3) f(u/)(6)_
+        [[si3 fu6 四輔]]
+        four stars near the North-pole [[Kangxi: 四輔星名所以輔佐北極]];
+        ~~a~~ ``the four`` counsellor``s`` [[Kangxi: 四輔官名, 謂師保疑丞也]].
+    ==
+  ====
+L
+  ====
+  * 【輔】 (bjuX)
+    ==
+    - (_noun-like_) carriage-support, (_met._) upper-jawbone
+    - (_verb-like_) [to] support, [to] assist
     ==
   ====
 $$

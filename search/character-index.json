@@ -2390,7 +2390,7 @@
 "車":{
 "ce1":{
 "isCanonical":true,
-"text":"U+8ECA (F2.83 車) 輪輿總名車屬 (Page 31|n74 車) A chariot, a carriage, a cart, any vehicle (Kangxi: 輿輪總名); a framed wheel; to turn a wheel, to roll over; _shui ch'e_ (seoi2 ce1 水車), a fire-engine; _ch'e luk_ (ce1 luk1 車轆) a caster; _ch'e fu_ (ce1 fu1 車夫), a charioteer; _ch'e me_ (ce1 me2 車歪), a teetotum; _ch'e me kom chun_ (ce1 me2 gam3 zyun3 車歪咁轉), fidgetty as a teetotum; _ch'e lun_ (ce1 leon4 車輪), a wheel; _fung ch'e_ (fung1 ce1 風車), a windmill; _ch'e ch'ong_ (ce1 cong4 車床), a lathe; _ma ch'e_ (maa5 ce1 馬車), a horse and carriage; _fo ch'e_ (fo2 ce1 火車), a locomotive. (Page 183 車 _Ku_ (geoi1); here corrected to _Ch'e_ (ce1)) the jaw-bones (Kangxi: 牙車牙所載也 etc.); Williams' 車歪: Corrected _me_ (me4) to _me_ (me2). Williams' 車歪咁轉: Corrected _me_ (me4) to _me_ (me2), and corrected _chun_ (zyun2) to _chun_ (zyun3). A surname (Kangxi: 姓). Used in 子車 (a compound surname) (Kangxi: 子車複姓). 【車】 (tsyhae) (_noun-like_) car"
+"text":"U+8ECA (F2.83 車) 輪輿總名車屬 (Page 31|n74 車) A chariot, a carriage, a cart, any vehicle (Kangxi: 輿輪總名); a framed wheel; to turn a wheel, to roll over; _shui ch'e_ (seoi2 ce1 水車), a fire-engine; _ch'e luk_ (ce1 luk1 車轆) a caster; _ch'e fu_ (ce1 fu1 車夫), a charioteer; _ch'e me_ (ce1 me2 車歪), a teetotum; _ch'e me kom chun_ (ce1 me2 gam3 zyun3 車歪咁轉), fidgetty as a teetotum; _ch'e lun_ (ce1 leon4 車輪), a wheel; _fung ch'e_ (fung1 ce1 風車), a windmill; _ch'e ch'ong_ (ce1 cong4 車床), a lathe; _ma ch'e_ (maa5 ce1 馬車), a horse and carriage; _fo ch'e_ (fo2 ce1 火車), a locomotive. (Page 183 車 _Ku_ (geoi1); here corrected to _Ch'e_ (ce1)) the jaw-bones (Kangxi: 牙車牙所載也 etc.); Williams' 車歪: Corrected _me_ (me4) to _me_ (me2). Williams' 車歪咁轉: Corrected _me_ (me4) to _me_ (me2), and corrected _chun_ (zyun2) to _chun_ (zyun3). A surname (Kangxi: 姓). Used in 子車 (a compound surname) (Kangxi: 子車複姓). 【車】 (tsyhae) (_noun-like_) carriage, (_met._) lower-jawbone"
 }
 },
 "且":{
@@ -8135,6 +8135,12 @@
 "fu6":{
 "isCanonical":true,
 "text":"U+8150 (F2.17 腐) 腐爛又腐腐 (Page 61 腐) Corrupted, carious, rotten (Kangxi: 爛也, 朽也敗也); ~~crushed to powder;~~ castrated ``as punishment`` (Kangxi: 宮𠛬曰腐 etc.); _fu lan_ (fu6 laan6 腐爛) putrid, rotten; _tau fu_ (dau6 fu6 豆腐) bean curd; _fu u_ (fu6 jyu5 腐乳) soured curd; _fu ying_ (fu6 jing4 腐刑), punishment of castration; _fu u_ (fu6 jyu4 腐儒) a foolish pedant (Kangxi: 腐者敗爛言無所堪任). Fan Wan entry: 腐腐 should probably be 豆腐 or 腐乳. Williams' 腐儒: Especially one who is stale or antiquated. 【腐】 (bjuX) (_adjective-like_) rotting, putrid (_noun-like_) (_met._) castration"
+}
+},
+"輔":{
+"fu6":{
+"isCanonical":true,
+"text":"U+8F14 䩉 (for jawbone/cheek senses) (F2.17 輔) 扶助也又輔弼官也又四輔星名又車輔兩旁夾車木也 (Page 61 輔) The rack or cheeks of a cart (Kangxi: 車輔兩旁夾車木也 etc.); end of the jaw bones (Kangxi: 人頰骨也, 輔上頷也); to flank, to help, to second (Kangxi: 毗輔相助也弼也, 扶也); _fu tso_ (fu6 zo3 輔佐) to succor; _fu pat_ (fu6 bat6 輔弼) ministers; _sz' fu_ (si3 fu6 四輔) four stars near the North-pole (Kangxi: 四輔星名所以輔佐北極); ~~a~~ ``the four`` counsellor``s`` (Kangxi: 四輔官名, 謂師保疑丞也). 【輔】 (bjuX) (_noun-like_) carriage-support, (_met._) upper-jawbone (_verb-like_) to support, to assist"
 }
 },
 "附":{

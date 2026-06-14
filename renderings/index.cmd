@@ -695,6 +695,14 @@ window.onload = applyFilter;
       ==
   //
     , `bjuX`
+    , [輔](/entries/fu#rendering-輔)
+    ,
+      ==
+      - (_noun-like_) carriage-support, (_met._) upper-jawbone
+      - (_verb-like_) [to] support, [to] assist
+      ==
+  //
+    , `bjuX`
     , [釜](/entries/fu#rendering-釜)
     ,
       ==
@@ -8618,7 +8626,7 @@ window.onload = applyFilter;
     , [車](/entries/ce#rendering-車)
     ,
       ==
-      - (_noun-like_) car
+      - (_noun-like_) carriage, (_met._) lower-jawbone
       ==
   //
     , `tsyhak`
