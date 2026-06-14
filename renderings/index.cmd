@@ -936,6 +936,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] float (about)
       ==
   //
+    , `bok`
+    , [仆](/entries/fu#rendering-仆)
+    ,
+      ==
+      - (_verb-like_) [to] fall prostrate
+      ==
+  //
     , `downg`
     , [爞](/entries/cung#rendering-爞)
     ,
@@ -3537,6 +3544,13 @@ window.onload = applyFilter;
       ==
   //
     , `phjuH`
+    , [仆](/entries/fu#rendering-仆)
+    ,
+      ==
+      - (_verb-like_) [to] fall prostrate
+      ==
+  //
+    , `phjuH`
     , [簠](/entries/fu#rendering-簠)
     ,
       ==
@@ -3641,11 +3655,25 @@ window.onload = applyFilter;
       ==
   //
     , `phjuwH`
+    , [仆](/entries/fu#rendering-仆)
+    ,
+      ==
+      - (_verb-like_) [to] fall prostrate
+      ==
+  //
+    , `phjuwH`
     , [副~(departing)](/entries/fu#rendering-副-departing)
     ,
       ==
       - (_adjective-like_) subsidiary, (_met._) matched
       - (_noun-like_) headdress
+      ==
+  //
+    , `phuwH`
+    , [仆](/entries/fu#rendering-仆)
+    ,
+      ==
+      - (_verb-like_) [to] fall prostrate
       ==
   //
     , `pj+j`

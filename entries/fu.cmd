@@ -2766,6 +2766,7 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $仆6
 - $父6
 - $祔6
 - $腐6
@@ -2776,6 +2777,55 @@ $$
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 仆6 | _F(u/)(6)_ [[fu6]]
+
+$$
+R
+  ⼈ + 2
+U
+  U+4EC6
+V
+  ==
+  - baak6 (per 《廣韻》蒲北切)
+  - fau3 (per 《廣韻》敷救切)
+  - fu3 (per 《廣韻》芳遇切)
+  - pau3 (per 《廣韻》匹候切)
+  - puk1 (per 《集韻》普木切)
+  ==
+F
+  ==
+  - (F2.17 仆) 偃也僵也臥也
+  ==
+W
+  ====
+  - [[Page~61 仆(6)]]
+    ==
+    - To fall down ``prostrate`` [[Kangxi: 偃也僵也]];
+    - to fall to the earth;
+    - ~~overthrown;~~
+    - _~~(5)^t(o\)~~ ``(2)t(o\)`` f(u/)(6)_
+        [[dou2 fu6 倒仆]]
+        fallen down.
+    ==
+  ====
+C
+  ==
+  - Williams' 倒仆: Corrected _(5)^t(o\)_ (dou5) to _(2)t(o\)_ (dou2).
+  - See $仆puk1 for the reading that is perceived to be vernacular.
+  ==
+L
+  ====
+  * 【仆】 (phjuH, phjuwH, phuwH, bok)
+    ==
+    - (_verb-like_) [to] fall prostrate
+    ==
+  ====
+S
+  ==
+  - $仆puk1 (TODO) <## per 《集韻》普木切 explained 僵也 ##>
+  ==
+$$
 
 ### 父6 | _F(u/)(6)_ [[fu6]]
 
