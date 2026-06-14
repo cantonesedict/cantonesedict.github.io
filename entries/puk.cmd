@@ -89,6 +89,9 @@ C
 P
   ++
   1. To fall prostrate.
+      ==
+      - 仆咗喺度 (puk1 zo2 hai2 dou6): "[He's] fallen forwards."
+      ==
   ++
 E
   ====
