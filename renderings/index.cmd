@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-06-14
+* %date-modified --> 2026-06-15
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -3555,6 +3555,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) square-vessel
+      ==
+  //
+    , `phjuH`
+    , [赴](/entries/fu#rendering-赴)
+    ,
+      ==
+      - (_verb-like_) [to] hasten (unto), [to] go unto, (_met._) [to] throw [oneself]
       ==
   //
     , `phjun`

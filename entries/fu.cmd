@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fu
-* %date-modified --> 2026-06-14
+* %date-modified --> 2026-06-15
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -2770,6 +2770,7 @@ $$
 - $父6
 - $祔6
 - $腐6
+- $赴6
 - $輔6
 - $附6
 - $駙6
@@ -2991,6 +2992,59 @@ L
     ==
     - (_adjective-like_) rotting, putrid
     - (_noun-like_) (_met._) castration
+    ==
+  ====
+$$
+
+### 赴6 | _F(u/)(6)_ [[fu6]]
+
+$$
+R
+  ⾛ + 2
+U
+  U+8D74
+F
+  ==
+  - (F2.17 赴) 奔也至也趨也就也
+  ==
+W
+  ====
+  - [[Page~61 赴(6)]]
+    ==
+    - To go to, to repair to, to hasten [[Kangxi: 赴至也, 趨而至也, 趨也]];
+    - to arrive at, to come;
+    - _f(u/)(6) tsik(9)_
+        [[fu6 zik6 赴席]]
+        to go to a feast;
+    - _(1)pan f(u/)(6)_
+        [[ban1 fu6 奔赴]]
+        to go speedily;
+    - _f(u/)(6) ming(6)_
+        [[fu6 ming6 赴命]]
+        to obey a call;
+    - _f(u/)(6) (4)p(')ung (4)loi_
+        [[fu6 pung4 loi4 赴蓬萊]],
+        gone to elysium;
+    - _f(u/)(6) k(o\)(3)_
+        [[fu6 gou3 赴告]]
+        to present a petition;
+    - _f(u/)(6) y(e/)uk(8)_
+        [[fu6 joek3 赴約]]
+        to engage to meet.
+    ==
+    --
+    [[Otherwise, an alternative form of 訃. **See $訃fu6 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Williams' 赴約: Or, to make an appointment.
+  ==
+L
+  ====
+  * 【赴】 (phjuH)
+    ==
+    - (_verb-like_) [to] hasten (unto), [to] go unto, (_met._) [to] throw [oneself]
     ==
   ====
 $$
