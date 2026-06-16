@@ -915,6 +915,16 @@ window.onload = applyFilter;
       - Used in [蛗螽](/entries/zung#rendering-蛗螽).
       ==
   //
+    , `bjuwX`
+    , [負](/entries/fu#rendering-負)
+    ,
+      ==
+      - (_verb-like_) [to] carry on [the] back, (_met._) [to] bear, [to] support
+      - (_verb-like_) [to] turn [the] back (upon), (_met._) [to] betray, [to] let down
+      - (_verb-like_) [to] lean upon, (_met._) [to] keep near to
+      - (_noun-like_) loss
+      ==
+  //
     , `bjuwX nyin`
     , [婦人](/entries/fu#rendering-婦人)
     ,

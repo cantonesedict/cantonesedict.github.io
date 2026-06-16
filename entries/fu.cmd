@@ -2771,6 +2771,7 @@ $$
 - $祔6
 - $腐6
 - $訃6
+- $負6
 - $赴6
 - $輔6
 - $附6
@@ -3033,6 +3034,78 @@ L
   * 【訃】 (phjuH)
     ==
     - (_verb-like_) [to] announce death
+    ==
+  ====
+$$
+
+### 負6 | _F(u/)(6)_ [[fu6]]
+
+$$
+R
+  ⾙ + 2
+U
+  U+8CA0
+H
+  May appear as either ⿱⺈貝 (assumed here) or ⿱刀貝,
+  depending on the font.
+F
+  ==
+  - (F2.17 負) ::[背]負又孤負::
+  ==
+W
+  ====
+  - [[Page~61 負(6)]]
+    ==
+    - To carry on the back, to bear [[Kangxi: 負背也置項背也, 擔也, 荷也]];
+    - to take a duty;
+    - to rely on, to depend on [[Kangxi: 恃也]];
+    - to turn the back on [[Kangxi: 背也]], to disregard, to refuse;
+    - defeated, to fail [[Kangxi: 敗也]];
+    - to owe [[Kangxi: 一曰受貸不償]];
+    - to slight, to be ungrateful [[Kangxi: 背恩忘德曰負]];
+    - a burden;
+    - _(1)k(u/) f(u/)(6)_
+        [[gu1 fu6 辜負]]
+        unmindful of kindness, disappointed;
+    - _f(u/)(6) (1)sam_
+        [[fu6 sam1 負心]],
+        ungrateful;
+    - _f(u/)(6) lui(6)_
+        [[fu6 leoi6 負累]]
+        to involve an indorser;
+    - _f(u/)(6) t(')ok(8)_
+        [[fu6 tok3 負託]]
+        to slight a request;
+    - _f(u/)(6) wat(7)_
+        [[fu6 wat1 負屈]]
+        injured, grieved;
+    - _f(u/)(6) ~~ho(3)~~ ``ho(6)``_
+        [[fu6 ho6 負荷]]
+        a responsibility.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed 背.
+  - Williams' 負心: Or, heartless.
+  - Williams' 負託: That is, to let down by failing to perform an entrusted task.
+  - Williams' 負屈: Better rendered "wronged".
+  - Williams' 負荷: Corrected _ho(3)_ (ho3) to _ho(6)_ (ho6). Better rendered "burden".
+  ==
+P
+  ++
+  1. To keep near to (Kangxi: 依也).
+  1. To betray, to let down.
+  1. Negative.
+  ++
+L
+  ====
+  * 【負】 (bjuwX)
+    ==
+    - (_verb-like_) [to] carry on [the] back, (_met._) [to] bear, [to] support
+    - (_verb-like_) [to] turn [the] back (upon), (_met._) [to] betray, [to] let down
+    - (_verb-like_) [to] lean upon, (_met._) [to] keep near to
+    - (_noun-like_) loss
     ==
   ====
 $$

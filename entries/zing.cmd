@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-06-16
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1397,6 +1397,10 @@ C
   - Williams' 坐正: Corrected _tso(6)_ (zo6 去聲^) to _(5)ts(')o_ (co5 上聲^).
   - Williams' 正直: Corrected _chik(7)_ (zik1) to _chik(9)_ (zik6).
   ==
+P
+  ++
+  1. Positive.
+  ++
 L
   ====
   * 【正-departing】 (tsyengH)
