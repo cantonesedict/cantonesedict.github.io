@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fu
-* %date-modified --> 2026-06-15
+* %date-modified --> 2026-06-16
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -2770,6 +2770,7 @@ $$
 - $父6
 - $祔6
 - $腐6
+- $訃6
 - $赴6
 - $輔6
 - $附6
@@ -2996,6 +2997,46 @@ L
   ====
 $$
 
+### 訃6 | _F(u/)(6)_ [[fu6]]
+
+$$
+R
+  ⾔ + 2
+U
+  U+8A03
+A
+  ==
+  - $赴6
+  ==
+V
+  ==
+  - fu3 (per 《廣韻》芳遇切)
+  ==
+F
+  ==
+  - (F2.17 訃) 訃音報喪曰訃
+  ==
+W
+  ====
+  - [[Page~61 訃(6)]]
+    ==
+    - To announce the death [[Kangxi: 吿喪也]] of a parent or relative
+      by the nearest mourner on the 7th~day;
+    - to go to [[Kangxi: 至也]];
+    - _f(u/)(6) (1)yam_
+        [[fu6 jam1 訃音]],
+        a letter announcing the death of a parent.
+    ==
+  ====
+L
+  ====
+  * 【訃】 (phjuH)
+    ==
+    - (_verb-like_) [to] announce death
+    ==
+  ====
+$$
+
 ### 赴6 | _F(u/)(6)_ [[fu6]]
 
 $$
@@ -3003,6 +3044,10 @@ R
   ⾛ + 2
 U
   U+8D74
+V
+  ==
+  - fu3 (per 《廣韻》芳遇切)
+  ==
 F
   ==
   - (F2.17 赴) 奔也至也趨也就也
@@ -3033,7 +3078,7 @@ W
         to engage to meet.
     ==
     --
-    [[Otherwise, an alternative form of 訃. **See $訃fu6 for the canonical entry.**]] [[TODO]]
+    [[Otherwise, an alternative form of 訃. **See $訃fu6 for the canonical entry.**]]
     --
   ====
 C

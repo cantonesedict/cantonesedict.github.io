@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-06-15
+* %date-modified --> 2026-06-16
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -3555,6 +3555,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) square-vessel
+      ==
+  //
+    , `phjuH`
+    , [訃](/entries/fu#rendering-訃)
+    ,
+      ==
+      - (_verb-like_) [to] announce death
       ==
   //
     , `phjuH`
