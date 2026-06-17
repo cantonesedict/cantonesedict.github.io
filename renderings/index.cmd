@@ -4067,6 +4067,14 @@ window.onload = applyFilter;
       ==
   //
     , `pjuH`
+    , [傅~(unvoiced)](/entries/fu#rendering-傅-unvoiced)
+    ,
+      ==
+      - (_verb-like_) [to] assist, [to] tutor
+      - (_noun-like_) assistant, tutor
+      ==
+  //
+    , `pjuH`
     , [賦](/entries/fu#rendering-賦)
     ,
       ==

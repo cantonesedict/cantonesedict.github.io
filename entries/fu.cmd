@@ -2767,6 +2767,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $仆6
+- $傅6
 - $父6
 - $祔6
 - $腐6
@@ -2828,6 +2829,75 @@ L
 S
   ==
   - $仆puk1
+  ==
+$$
+
+### 傅6 | _F(u/)(6)_ [[fu6]]
+
+$$
+R
+  ⼈ + 10
+U
+  U+5085
+V
+  ==
+  - fu3 (per 《廣韻》方遇切 for "assistant/tutor" and surname senses)
+  - fu6-2 (vernacular rising-tone noun in 師傅)
+  ==
+F
+  ==
+  - (F2.17 傅) 師傅
+  ==
+W
+  ====
+  - [[Page~62 傅(6)]]
+    ==
+    - To annex, to arrange;
+    - to receive;
+    - to lay on (as paint);
+    - to superintend;
+    - a tutor;
+    - a workman;
+    - a function;
+    - _t(')(a/)i(3) f(u/)(6)_
+        [[taai3 fu6 太傅]]
+        a tutor of princes [[Kangxi: 師傅官名古者天子有太師太傅太保 etc.]];
+    - _(1)sz' f(u/)(6)_
+        [[si1 fu6-2 師傅]]
+        a master, a common appellation for workmen;
+    - _(5)n(i/) (2)kong tak(7) k(o\)m(3) (1)sz' f(u/)(6)_
+        [[nei5 gong2 dak1 gam3 si1 fu6-2 你講得咁師傅]]
+        you speak very well;
+    - _(1)sz' f(u/)(6) kwat(7)_
+        [[si1 fu6-2 gwat1 師傅骨]]
+        a very particular person;
+    - _f(u/)(6) (4)yau_
+        [[fu6 jau4 傅油]],
+        to oil.
+    ==
+  ====
+C
+  ==
+  - Williams' 師傅: Used for a third-person master of a trade (e.g. 點心師傅).
+    To be distinguished from 師父, for one's own master,
+    or for a religious or kung fu master.
+  ==
+P
+  ++
+  1. To assist, an assistant (Kangxi: 相也).
+  1. A surname (Kangxi: 姓).
+  ++
+L
+  ====
+  * 【傅-unvoiced】 (pjuH)
+    ==
+    - (_verb-like_) [to] assist, [to] tutor
+    - (_noun-like_) assistant, tutor
+    ==
+  ====
+S
+  ==
+  - ($傅fu1) (TODO)
   ==
 $$
 
