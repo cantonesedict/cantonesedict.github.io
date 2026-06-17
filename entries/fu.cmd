@@ -2790,6 +2790,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $仆6
+- $付6
 - $傅6
 - $父6
 - $祔6
@@ -2853,6 +2854,61 @@ S
   ==
   - $仆puk1
   ==
+$$
+
+### 付6 | _F(u/)(6)_ [[fu6]]
+
+$$
+R
+  ⼈ + 3
+U
+  U+4ED8
+V
+  ==
+  - fu3 (per 《廣韻》方遇切)
+  ==
+F
+  ==
+  - (F2.17 付) ::[畀]也授也又分付::
+  ==
+W
+  ====
+  - [[Page~62 付(6)]]
+    ==
+    - To give, to deliver, to hand over [[Kangxi: ::^{𢌿=⿱田廾}也授也::]];
+    - _f(u/)(6) k(i/)(3)_
+        [[fu6 gei3 付寄]]
+        to send by one;
+    - _f(u/)(6) (4)loi_
+        [[fu6 loi4 付來]],
+        to send back to;
+    - _f(u/)(6) t(')ok(8)_
+        [[fu6 tok3 付託]]
+        to charge one with;
+    - _f(u/)(6) (1)k(a/)u_
+        [[fu6 gaau1 付交]],
+        to deliver to.
+    ==
+    --
+    [[Otherwise, an alternative form of 祔. **See $祔fu6 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised {𢌿=⿱田廾} to 畀.
+  - Williams' 付託: Better rendered "to entrust one with".
+  ==
+P
+  ++
+  1. To pay.
+  ++
+L
+  ====
+  * 【付】 (pjuH)
+    ==
+    - (_verb-like_) [to] give
+    ==
+  ====
 $$
 
 ### 傅6 | _F(u/)(6)_ [[fu6]]
@@ -3019,7 +3075,7 @@ U
   U+7954
 A
   ==
-  - 付
+  - $付6
   - $附6
   ==
 F

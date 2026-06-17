@@ -4076,6 +4076,13 @@ window.onload = applyFilter;
       ==
   //
     , `pjuH`
+    , [付](/entries/fu#rendering-付)
+    ,
+      ==
+      - (_verb-like_) [to] give
+      ==
+  //
+    , `pjuH`
     , [傅~(unvoiced)](/entries/fu#rendering-傅-unvoiced)
     ,
       ==
