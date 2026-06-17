@@ -710,6 +710,14 @@ window.onload = applyFilter;
       ==
   //
     , `bjuH`
+    , [傅~(voiced)](/entries/fu#rendering-傅-voiced)
+    ,
+      ==
+      - (_verb-like_) [to] attach
+      - (_verb-like_) [to] reach
+      ==
+  //
+    , `bjuH`
     , [祔](/entries/fu#rendering-祔)
     ,
       ==

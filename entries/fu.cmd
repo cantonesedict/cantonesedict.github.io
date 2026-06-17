@@ -2875,16 +2875,16 @@ W
   ====
   - [[Page~62 傅(6)]]
     ==
-    - To annex, to arrange;
-    - to receive;
+    - To annex [[Kangxi: 麗著也]], ~~to arrange~~;
+    - ~~to receive;~~
     - to lay on (as paint);
     - to superintend;
     - a tutor;
     - a workman;
-    - a function;
+    - a function [[Kangxi: ::師傅官名[...]::]];
     - _t(')(a/)i(3) f(u/)(6)_
         [[taai3 fu6 太傅]]
-        a tutor of princes [[Kangxi: 師傅官名古者天子有太師太傅太保 etc.]];
+        a tutor of princes [[Kangxi: ::[...]古者天子有太師太傅太保:: etc.]];
     - _(1)sz' f(u/)(6)_
         [[si1 fu6-2 師傅]]
         a master, a common appellation for workmen;
@@ -2901,6 +2901,10 @@ W
   ====
 C
   ==
+  - Williams' "To annex": Better rendered "To attach".
+    In this sense, 傅 is almost like an alternative form of $附fu6.
+  - Williams' "to arrange": This is a misreading of Kangxi 同敷陳也.
+    Here, 陳 means "[to] state", and the sense belongs under $敷fu1.
   - Williams' 師傅: Used for a third-person master of a trade (e.g. 點心師傅).
     To be distinguished from 師父, for one's own master,
     or for a religious or kung fu master.
@@ -2909,9 +2913,15 @@ P
   ++
   1. To assist, an assistant (Kangxi: 相也).
   1. A surname (Kangxi: 姓).
+  1. To reach (Kangxi: 至也, 傅猶戾也).
   ++
 L
   ====
+  * 【傅-voiced】 (bjuH)
+    ==
+    - (_verb-like_) [to] attach
+    - (_verb-like_) [to] reach
+    ==
   * 【傅-unvoiced】 (pjuH)
     ==
     - (_verb-like_) [to] assist, [to] tutor
