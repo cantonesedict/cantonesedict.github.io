@@ -54,6 +54,7 @@ $$
 =={.modern}
 - ($乎1)
 - $俘1
+- ($傅1)
 - $呼1
 - $嘑1
 - $夫1
@@ -146,6 +147,27 @@ L
     - (_noun-like_) captive, (_met._) spoils
     ==
   ====
+$$
+
+###+ 傅1 | _(1)F(u/)_ [[fu1]]
+
+$$.
+R
+  ⼈ + 10
+U
+  U+5085
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 敷. **See $敷fu1 for the canonical entry.**
+  ++
+S
+  ==
+  - $傅fu6
+  ==
 $$
 
 ### 呼1 | _(1)F(u/)_ [[fu1]]
@@ -468,6 +490,7 @@ U
   U+6577
 A
   ==
+  - $傅1
   - $尃1
   - $旉1
   ==
@@ -2897,7 +2920,7 @@ L
   ====
 S
   ==
-  - ($傅fu1) (TODO)
+  - ($傅fu1)
   ==
 $$
 

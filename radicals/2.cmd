@@ -216,7 +216,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $傞co1
       - $傀faai3
-      - $傅fu6
+      - {$傅fu1, $傅fu6}
       ==
       </nav>
   //
