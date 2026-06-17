@@ -714,6 +714,7 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] attach
+      - (_adjective-like_) close (to)
       - (_verb-like_) [to] reach
       ==
   //

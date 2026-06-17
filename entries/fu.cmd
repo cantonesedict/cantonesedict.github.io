@@ -2902,7 +2902,7 @@ W
 C
   ==
   - Williams' "To annex": Better rendered "To attach".
-    In this sense, 傅 is almost like an alternative form of $附fu6.
+    In this and the "close" sense, 傅 is almost like an alternative form of $附fu6.
   - Williams' "to arrange": This is a misreading of Kangxi 同敷陳也.
     Here, 陳 means "[to] state", and the sense belongs under $敷fu1.
   - Williams' 師傅: Used for a third-person master of a trade (e.g. 點心師傅).
@@ -2913,6 +2913,7 @@ P
   ++
   1. To assist, an assistant (Kangxi: 相也).
   1. A surname (Kangxi: 姓).
+  1. Close to (Kangxi: 近也).
   1. To reach (Kangxi: 至也, 傅猶戾也).
   ++
 L
@@ -2920,6 +2921,7 @@ L
   * 【傅-voiced】 (bjuH)
     ==
     - (_verb-like_) [to] attach
+    - (_adjective-like_) close (to)
     - (_verb-like_) [to] reach
     ==
   * 【傅-unvoiced】 (pjuH)
