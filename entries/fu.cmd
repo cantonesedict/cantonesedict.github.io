@@ -2943,7 +2943,7 @@ U
   U+7236
 V
   ==
-  - fu6-2^ (vernacular rising-tone noun in 舅父)
+  - fu6-2^ (vernacular rising-tone noun in 師父, 舅父)
   ==
 F
   ==
