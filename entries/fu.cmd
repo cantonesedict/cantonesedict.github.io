@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fu
-* %date-modified --> 2026-06-16
+* %date-modified --> 2026-06-17
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -2772,6 +2772,7 @@ $$
 - $腐6
 - $訃6
 - $負6
+- $賻6
 - $赴6
 - $輔6
 - $附6
@@ -3106,6 +3107,35 @@ L
     - (_verb-like_) [to] turn [the] back (upon), (_met._) [to] betray, [to] let down
     - (_verb-like_) [to] lean upon, (_met._) [to] keep near to
     - (_noun-like_) loss
+    ==
+  ====
+$$
+
+### 賻6 | _F(u/)(6)_ [[fu6]]
+
+$$
+R
+  ⾙ + 10
+U
+  U+8CFB
+F
+  ==
+  - (F2.17 賻) 以貨財助喪事曰賻
+  ==
+W
+  ====
+  - [[Page~62 賻(6)]]
+    ==
+    - To contribute to bury one [[Kangxi: 助也, 以財助喪也]];
+    - to assist an interment by giving articles.
+    ==
+  ====
+L
+  ====
+  * 【賻】 (bjuH)
+    ==
+    - (_verb-like_) [to] contribute to funeral expense
+    - (_noun-like_) contributed funeral expense
     ==
   ====
 $$

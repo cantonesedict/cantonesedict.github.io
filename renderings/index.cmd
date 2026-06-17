@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-06-16
+* %date-modified --> 2026-06-17
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -715,6 +715,14 @@ window.onload = applyFilter;
       ==
       - (_verb-like_) [to] adjoin [in sacrifice]
       - (_verb-like_) [to] bury jointly
+      ==
+  //
+    , `bjuH`
+    , [賻](/entries/fu#rendering-賻)
+    ,
+      ==
+      - (_verb-like_) [to] contribute to funeral expense
+      - (_noun-like_) contributed funeral expense
       ==
   //
     , `bjuH`
@@ -3390,7 +3398,7 @@ window.onload = applyFilter;
     , [費~(unvoiced)](/entries/fai#rendering-費-unvoiced)
     ,
       ==
-      - (_verb-like_) [to] squander
+      - (_verb-like_) [to] squander, [to] spend
       ==
   //
     , `phjang`
