@@ -68,6 +68,7 @@ $$
 - $柎1
 - $桴1
 - ($泭1)
+- $滹1
 - ($痡1)
 - $砆1
 - $膚1
@@ -797,6 +798,26 @@ P
   ++
   1. Alternative form of 桴 (for the "raft" sense). **See $桴fu1 for the canonical entry.**
   ++
+$$
+
+### 滹1 | _(1)F(u/)_ [[fu1]]
+
+$$
+R
+  ⽔ + 11
+U
+  U+6EF9
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~715 (1)滹]]
+    ==
+    - A river in the southwest of Chihl(i/) [[直隸]],
+      the _(1)F(u/) (4)t(')o (4)ho_ [[fu1 to4 ho4 滹沱河]],
+      flowing into North Lake, and thence to T(')ientsin [[天津]] [[Kangxi: 滹沱水名 etc.]].
+    ==
+  ====
 $$
 
 ### 痡1 | _(1)F(u/)_ [[fu1]]
