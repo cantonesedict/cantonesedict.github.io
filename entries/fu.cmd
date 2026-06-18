@@ -55,6 +55,7 @@ $$
 - ($乎1)
 - $俘1
 - ($傅1)
+- $刳1
 - $呼1
 - $嘑1
 - $夫1
@@ -171,6 +172,37 @@ S
   ==
   - $傅fu6
   ==
+$$
+
+### 刳1 | _(1)F(u/)_ [[fu1]]
+
+$$
+R
+  ⼑ + 6
+U
+  U+5233
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~715 (1)刳]]
+    ==
+    - To cut open [[Kangxi: 刳剖也]];
+    - to rip up, to kill [[Kangxi: 屠也]];
+    - to hollow out [[Kangxi: 空物腸也]], to hew timber, to cut down;
+    - _(1)f(u/) (1)sam_
+        [[fu1 sam1 刳心]]^
+        to make a clean breast.
+    ==
+  ====
+L
+  ====
+  * 【刳】 (khu)
+    ==
+    - (_verb-like_) [to] cut open
+    - (_verb-like_) [to] eviscerate, (_met._) [to] hollow out
+    ==
+  ====
 $$
 
 ### 呼1 | _(1)F(u/)_ [[fu1]]

@@ -3240,6 +3240,14 @@ window.onload = applyFilter;
       ==
   //
     , `khu`
+    , [刳](/entries/fu#rendering-刳)
+    ,
+      ==
+      - (_verb-like_) [to] cut open
+      - (_verb-like_) [to] eviscerate, (_met._) [to] hollow out
+      ==
+  //
+    , `khu`
     , [枯](/entries/fu#rendering-枯)
     ,
       ==
