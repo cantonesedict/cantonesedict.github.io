@@ -73,6 +73,7 @@ $$
 - $滹1
 - ($痡1)
 - $砆1
+- $稃1
 - ($粰1)
 - $膚1
 - ($苻1)
@@ -925,6 +926,37 @@ W
   ====
 $$
 
+###+ 稃1 | _(1)F(u/)_ [[fu1]]
+
+$$
+R
+  ⽲ + 7
+U
+  U+7A03
+A
+  ==
+  - $粰1
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~715 (1)粰; here normalised to 稃]]
+    ==
+    - [[...]];
+    - (1)稃 is also the capsule or pericarp of a seed [[Kangxi: 稃卽米殻, 穀皮也]]~~,
+      the calyx of a flower~~.
+    ==
+  ====
+C
+  ==
+  - Williams' "the calyx of a flower": This is a dubious interpretation of
+    Kangxi 《徐曰》稃卽米殻草木之華房爲柎麥之皮爲麩音義皆同.
+    This commentary suggests that 稃 "husk", 柎 "calyx", and 麩 "bran" are cognate,
+    but does not indicate that these are interchangeable.
+  ==
+$$
+
 ### 粰1 | _(1)F(u/)_ [[fu1]]
 
 $$.
@@ -939,6 +971,9 @@ W
   - [[Page~715 (1)粰]]
     --
     [[Alternative form of 麩. **See $麩fu1 for the canonical entry.**]]
+    --
+    --
+    [[Otherwise, an alternative form of 稃. **See $稃fu1 for the canonical entry.**]]
     --
   ====
 $$

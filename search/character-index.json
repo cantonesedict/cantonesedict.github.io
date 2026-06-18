@@ -7913,6 +7913,12 @@
 "text":"U+7806 玞 (F2.8 砆) 碔砆石之似玉者 (Page 57 砆) A stone resembling a gem (Kangxi: 同玞, 碔砆石次玉); a false gem."
 }
 },
+"稃":{
+"fu1":{
+"isCanonical":true,
+"text":"U+7A03 粰 (Page 715 粰; here normalised to 稃) 稃 is also the capsule or pericarp of a seed (Kangxi: 稃卽米殻, 穀皮也)~~, the calyx of a flower~~. Williams' \"the calyx of a flower\": This is a dubious interpretation of Kangxi 《徐曰》稃卽米殻草木之華房爲柎麥之皮爲麩音義皆同. This commentary suggests that 稃 \"husk\", 柎 \"calyx\", and 麩 \"bran\" are cognate, but does not indicate that these are interchangeable."
+}
+},
 "粰":{
 "fu1":{
 "isCanonical":false,
