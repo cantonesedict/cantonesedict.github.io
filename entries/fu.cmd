@@ -3118,7 +3118,7 @@ W
   ====
   - [[Page~62 傅(6)]]
     ==
-    - To annex [[Kangxi: 麗著也]], ~~to arrange~~;
+    - To annex [[Kangxi: 麗著也]]~~, to arrange~~;
     - ~~to receive;~~
     - to lay on (as paint);
     - to superintend;
