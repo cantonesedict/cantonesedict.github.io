@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fu
-* %date-modified --> 2026-06-17
+* %date-modified --> 2026-06-18
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -77,6 +77,7 @@ $$
 - ($謼1)
 - $趺1
 - $鈇1
+- $骷1
 - $麩1
 - ($麱1)
 ==
@@ -1075,6 +1076,28 @@ S
   ==
   - $鈇fu2
   ==
+$$
+
+### 骷1 | _(1)F(u/)_ [[fu1]]
+
+$$
+R
+  ⾻ + 5
+U
+  U+9AB7
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~715 (1)骷]]
+    ==
+    - The shoulder-blade, the ~~thigh bone~~ ``knee-cap or lumbar vertebrae`` [[Kangxi: 骷髆䯊也]];
+    - a skeleton;
+    - _(1)f(u/) (4)l(o\) (4)t(')au_
+        [[fu1 lou4 tau4 骷髏頭]],
+        the skull of a dead man.
+    ==
+  ====
 $$
 
 ### 麩1 | _(1)F(u/)_ [[fu1]]
