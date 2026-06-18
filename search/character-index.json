@@ -7913,6 +7913,12 @@
 "text":"U+7806 玞 (F2.8 砆) 碔砆石之似玉者 (Page 57 砆) A stone resembling a gem (Kangxi: 同玞, 碔砆石次玉); a false gem."
 }
 },
+"粰":{
+"fu1":{
+"isCanonical":false,
+"text":"U+7CB0 (Page 715 粰)"
+}
+},
 "膚":{
 "fu1":{
 "isCanonical":true,
@@ -7978,7 +7984,7 @@
 "麩":{
 "fu1":{
 "isCanonical":true,
-"text":"U+9EA9 麱 (F2.9 麱) 蔴麱 (Page 57 麩) Bran or husk of wheat (Kangxi: 小麥屑皮也一作麱); the refuse of hemp-seed or ground nut, after the oil is expressed."
+"text":"U+9EA9 粰 麱 (F2.9 麱) 蔴麱 (Page 57 麩) Bran or husk of wheat (Kangxi: 小麥屑皮也一作麱); the refuse of hemp-seed or ground nut, after the oil is expressed. (Page 715 粰) is the same as 麩;"
 }
 },
 "麱":{

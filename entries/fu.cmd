@@ -73,6 +73,7 @@ $$
 - $滹1
 - ($痡1)
 - $砆1
+- ($粰1)
 - $膚1
 - ($苻1)
 - $莩1
@@ -924,6 +925,24 @@ W
   ====
 $$
 
+### 粰1 | _(1)F(u/)_ [[fu1]]
+
+$$.
+R
+  ⽶ + 7
+U
+  U+7CB0
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~715 (1)粰]]
+    --
+    [[Alternative form of 麩. **See $麩fu1 for the canonical entry.**]]
+    --
+  ====
+$$
+
 ### 膚1 | _(1)F(u/)_ [[fu1]]
 
 $$
@@ -1213,6 +1232,7 @@ U
   U+9EA9
 A
   ==
+  - $粰1
   - $麱1
   ==
 F
@@ -1225,6 +1245,11 @@ W
     ==
     - Bran or husk of wheat [[Kangxi: 小麥屑皮也一作麱]];
     - the refuse of hemp-seed or ground nut, after the oil is expressed.
+    ==
+  - [[Page~715 (1)粰]]
+    ==
+    - is the same as (1)麩;
+    - [[...]].
     ==
   ====
 $$
