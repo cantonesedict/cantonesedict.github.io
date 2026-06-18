@@ -77,6 +77,7 @@ $$
 - ($虖1)
 - ($謼1)
 - $趺1
+- $郛1
 - $鈇1
 - $骷1
 - $麩1
@@ -1062,6 +1063,34 @@ C
     This should be punctuated as "拜于丈夫爲趺、趺然屈折下視地也。",
     with a pause separating 爲趺 from 趺然.
   ==
+$$
+
+### 郛1 | _(1)F(u/)_ [[fu1]]
+
+$$
+R
+  ⾢ + 7
+U
+  U+90DB
+F
+  ==
+  - (F2.8 郛) 郭也
+  ==
+W
+  ====
+  - [[Page~715 (1)郛]]
+    ==
+    - The outermost wall beyond the citadel [[Kangxi: 城外大郭也]];
+    - the suburbs, the purlieus of a city.
+    ==
+  ====
+L
+  ====
+  * 【郛】 (phju)
+    ==
+    - (_noun-like_) outer-wall
+    ==
+  ====
 $$
 
 ### 鈇1 | _(1)F(u/)_ [[fu1]]
