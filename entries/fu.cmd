@@ -1308,7 +1308,7 @@ P
   ++
 $$
 
-<## TODO: $箍ku1 ##>
+<## TODO: $箍ku1 (both Page~58 and Page~715) ##>
 
 
 ##{#2 .williams} (2)F(u/) [[fu2 陰上]]
