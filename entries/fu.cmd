@@ -61,6 +61,7 @@ $$
 - $夫1
 - $孚1
 - ($尃1)
+- $怤1
 - $扶1
 - $敷1
 - ($旉1)
@@ -481,6 +482,27 @@ P
   ++
   1. Alternative form of 敷. **See $敷fu1 for the canonical entry.**
   ++
+$$
+
+### 怤1 | _(1)F(u/)_ [[fu1]]
+
+$$
+R
+  ⼼ + 5
+U
+  U+6024
+F
+  ==
+  - (F2.8 怤) 急性也思也悅也
+  ==
+W
+  ====
+  - [[Page~715 (1)怤]]
+    ==
+    - To think upon with pleasure [[Kangxi: 思也, 悅也]];
+    - pleased, gratified with, as a friend.
+    ==
+  ====
 $$
 
 ###+ 扶1 | _(1)F(u/)_ [[fu1]]
