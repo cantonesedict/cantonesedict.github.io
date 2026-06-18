@@ -7901,6 +7901,12 @@
 "text":"U+6EF9 (Page 715 滹) A river in the southwest of Chihli (直隸), the _Fu t'o ho_ (fu1 to4 ho4 滹沱河), flowing into North Lake, and thence to T'ientsin (天津) (Kangxi: 滹沱水名 etc.)."
 }
 },
+"玞":{
+"fu1":{
+"isCanonical":false,
+"text":"U+739E (F2.8 砆) 碔砆石之似玉者 (F2.8 玞) 同上 (Page 715 玞)"
+}
+},
 "痡":{
 "fu1":{
 "isCanonical":false,
@@ -7910,7 +7916,7 @@
 "砆":{
 "fu1":{
 "isCanonical":true,
-"text":"U+7806 玞 (F2.8 砆) 碔砆石之似玉者 (Page 57 砆) A stone resembling a gem (Kangxi: 同玞, 碔砆石次玉); a false gem."
+"text":"U+7806 玞 (F2.8 砆) 碔砆石之似玉者 (F2.8 玞) 同上 (Page 57 砆) A stone resembling a gem (Kangxi: 同玞, 碔砆石次玉); a false gem. (Page 715 玞) Is the same as 砆 _fu_ (fu1); it is probably a veined jasper."
 }
 },
 "稃":{
