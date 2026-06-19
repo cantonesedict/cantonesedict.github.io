@@ -3138,6 +3138,7 @@ $$
 - $負6
 - $賻6
 - $赴6
+- ($跗6)
 - $輔6
 - $附6
 - $駙6
@@ -3695,6 +3696,28 @@ L
     - (_verb-like_) [to] hasten (unto), [to] go unto, (_met._) [to] throw [oneself]
     ==
   ====
+$$
+
+### 跗6 | _F(u/)(6)_ [[fu6]]
+
+$$.
+R
+  ⾜ + 5
+U
+  U+8DD7
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~715 跗(6)]]
+    --
+    [[Reading variation. **See $跗fu1 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+S
+  ==
+  - $跗fu1 (TODO)
+  ==
 $$
 
 ### 輔6 | _F(u/)(6)_ [[fu6]]
