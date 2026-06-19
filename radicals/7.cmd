@@ -747,7 +747,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $跗fu6
+      - {$跗fu1, $跗fu6}
       - $跖zek3
       ==
       </nav>

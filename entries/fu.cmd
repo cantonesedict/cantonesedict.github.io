@@ -82,6 +82,7 @@ $$
 - ($虖1)
 - ($謼1)
 - $趺1
+- $跗1
 - $郛1
 - $鈇1
 - $骷1
@@ -739,7 +740,7 @@ U
   U+67CE
 A
   ==
-  - 跗
+  - $跗1
   ==
 F
   ==
@@ -1189,7 +1190,7 @@ W
         a woman bending to the ground in obeisance [[Kangxi: 拜于丈夫爲趺]].
     ==
     --
-    [[Otherwise, an alternative form of 跗. **See $跗fu1 for the canonical entry.**]] [[TODO]]
+    [[Otherwise, an alternative form of 跗. **See $跗fu1 for the canonical entry.**]]
     --
   ====
 C
@@ -1198,6 +1199,53 @@ C
   - Williams' 趺趺然: This is a misparsing of Kangxi 《釋名》拜于丈夫爲趺趺然屈折下視地也.
     This should be punctuated as "拜于丈夫爲趺、趺然屈折下視地也。",
     with a pause separating 爲趺 from 趺然.
+  ==
+$$
+
+###+ 跗1 | _(1)F(u/)_ [[fu1]]
+
+$$
+R
+  ⾜ + 5
+U
+  U+8DD7
+A
+  ==
+  - $趺1
+  ==
+V
+  ==
+  - fu6 (per 《廣韻》符遇切 for name sense and 《集韻》符遇切 for "instep" sense)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~715 跗(6) _F(u/)(6)_ (fu6); here normalised to _(1)F(u/)_ (fu1)]]
+    ==
+    - The instep of the foot, where sandals are tied [[Kangxi: 足上也 etc.]];
+    - _~~f(u/)(6)~~ ``(1)f(u/)`` ch(u:)(3)_
+        [[fu1 zyu3 跗注]]
+        stocking overalls used by soldiers [[Kangxi: 跗注戎服若袴而屬于跗與袴連]].
+    ==
+    --
+    [[Otherwise, an alternative form of 柎. **See $柎fu1 for the canonical entry.**]]
+    --
+  ====
+P
+  ++
+  1. Used in personal names (Kangxi: 人名).
+  ++
+L
+  ====
+  * 【跗】 (pju)
+    ==
+    - (_noun-like_) instep
+    ==
+  ====
+S
+  ==
+  - ($跗fu6)
   ==
 $$
 
@@ -3711,12 +3759,12 @@ W
   ====
   - [[Page~715 跗(6)]]
     --
-    [[Reading variation. **See $跗fu1 for the canonical entry.**]] [[TODO]]
+    [[Reading variation. **See $跗fu1 for the canonical entry.**]]
     --
   ====
 S
   ==
-  - $跗fu1 (TODO)
+  - $跗fu1
   ==
 $$
 

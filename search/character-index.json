@@ -7971,6 +7971,16 @@
 "text":"U+8DBA (F2.8 趺) 跏趺僧家屈足盤坐之謂 (Page 57 趺) To sit in audience or state, with the legs bent under one, _a la Turque_ (Kangxi: 跏趺大坐也); ~~_fu fu in_ (fu1 fu1 jin4 趺趺然),~~ a woman bending to the ground in obeisance (Kangxi: 拜于丈夫爲趺). Fan Wan entry: Corrected 𧦤 to 跏, and corrected 曾 to 僧. Williams' 趺趺然: This is a misparsing of Kangxi 《釋名》拜于丈夫爲趺趺然屈折下視地也. This should be punctuated as \"拜于丈夫爲趺、趺然屈折下視地也。\", with a pause separating 爲趺 from 趺然."
 }
 },
+"跗":{
+"fu1":{
+"isCanonical":true,
+"text":"U+8DD7 趺 fu6 (per 《廣韻》符遇切 for name sense and 《集韻》符遇切 for \"instep\" sense) (Page 715 跗 _Fu_ (fu6); here normalised to _Fu_ (fu1)) The instep of the foot, where sandals are tied (Kangxi: 足上也 etc.); _fu chu_ (fu1 zyu3 跗注) stocking overalls used by soldiers (Kangxi: 跗注戎服若袴而屬于跗與袴連). Used in personal names (Kangxi: 人名). 【跗】 (pju) (_noun-like_) instep"
+},
+"fu6":{
+"isCanonical":false,
+"text":"U+8DD7 (Page 715 跗)"
+}
+},
 "郛":{
 "fu1":{
 "isCanonical":true,
@@ -8251,12 +8261,6 @@
 "fu6":{
 "isCanonical":true,
 "text":"U+8D74 fu3 (per 《廣韻》芳遇切) (F2.17 赴) 奔也至也趨也就也 (Page 61 赴) To go to, to repair to, to hasten (Kangxi: 赴至也, 趨而至也, 趨也); to arrive at, to come; _fu tsik_ (fu6 zik6 赴席) to go to a feast; _pan fu_ (ban1 fu6 奔赴) to go speedily; _fu ming_ (fu6 ming6 赴命) to obey a call; _fu p'ung loi_ (fu6 pung4 loi4 赴蓬萊), gone to elysium; _fu ko_ (fu6 gou3 赴告) to present a petition; _fu yeuk_ (fu6 joek3 赴約) to engage to meet. Williams' 赴約: Or, to make an appointment. 【赴】 (phjuH) (_verb-like_) to hasten (unto), to go unto, (_met._) to throw oneself"
-}
-},
-"跗":{
-"fu6":{
-"isCanonical":false,
-"text":"U+8DD7 (Page 715 跗)"
 }
 },
 "輔":{

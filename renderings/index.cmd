@@ -4008,6 +4008,13 @@ window.onload = applyFilter;
       ==
   //
     , `pju`
+    , [跗](/entries/fu#rendering-跗)
+    ,
+      ==
+      - (_noun-like_) instep
+      ==
+  //
+    , `pju`
     , [鈇~(cutter)](/entries/fu#rendering-鈇-cutter)
     ,
       ==
