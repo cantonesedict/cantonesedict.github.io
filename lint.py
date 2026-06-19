@@ -2702,6 +2702,7 @@ class CharacterEntry:
                         (?P<opening_bracket> \( )?
                         \$ (?P<character_content> \S+? ) (?P<jyutping> [a-z]+[1-6] )
                         (?(opening_bracket) \) )
+                        .*
                     )
                 ''',
                 flags=re.MULTILINE | re.VERBOSE,
@@ -3795,7 +3796,14 @@ class Linter:
                 try:
                     other_character_entry = character_entry_from_jyutping_from_character[character][other_jyutping]
                 except KeyError:
-                    continue
+                    if 'TODO' in see_also_link.content:
+                        continue
+                    else:
+                        raise LintException(
+                            f'see also link `{see_also_link.content}` under `{character_entry}` '
+                            f'points to non-existent entry '
+                            f'(suppress with `TODO` if yet to be added)'
+                        )
 
                 if see_also_link.is_canonical != other_character_entry.is_canonical:
                     if other_character_entry.is_canonical:
