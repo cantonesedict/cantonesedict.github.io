@@ -7893,6 +7893,10 @@
 "fu1":{
 "isCanonical":true,
 "text":"U+67CE 跗 (F2.8 柎) 花木之萼 (Page 58 柎) A stem or petiole; a calyx (Kangxi: 花萼足也凡草木房謂之柎); ~~lower bar~~ ``the foot`` of a railing (Kangxi: 闌足也); ~~to wash in lye.~~ Fan Wan entry: Corrected malformed 萼. Williams' \"to wash in lye\": This is a misreading of Kangxi 注也《儀禮士冠禮》素積白屨以魁柎之《疏》以魁蛤灰注其上使色白也. In the subcommentary, 魁蛤灰 (which Williams renders \"lye\") explains the character 魁, not 柎. The explanation of 柎之 is 注其上 (to pour upon). Moreover, Kangxi reads 柎 as 符遇切 _fu_ (fu6), so it is in fact being used for 附 (to apply). The foot of any object."
+},
+"fu6":{
+"isCanonical":false,
+"text":"U+67CE"
 }
 },
 "泭":{
@@ -8278,7 +8282,7 @@
 "附":{
 "fu6":{
 "isCanonical":true,
-"text":"U+9644 坿 (for \"add to\" sense) (F2.17 附) 附寄附麗附託附近附益又衣附 (Page 61 附) Near, about, ~~approaching~~ ``attached`` (Kangxi: 依也近也著也); to lean on, to follow; annexed, attached to, tributary, dependent; to join; a supplement, appendix, inclosure; _fu ki_ (fu3 gei3 附寄) to send with; _fu wo_ (fu6 wo6 附和) to follow one in explaining; _fu ui_ (fu6 wui6 附會) to echo or assent to another's words; _fu kan_ (fu6 gan6 附近) near, adjacent; _fu tan_ (fu6 daan1 附單), to inclose an account; _fu t'ok_ (fu6 tok3 附託) to charge one with, to request; _fu loi_ (fu6 loi4 附來), to come or bring with one; _fu yik_ (fu6 jik1 附益) to add to, to benefit; _fu tsz'_ (fu6 zi2 附子) a stimulating medicine (a Rhamnus?); _fu tsin_ (fu6 zin3 附薦) to send one's tablets to a _ta-tsiu_ (daa ziu 打醮). Williams' 附和: Or, to echo or second, either sycophantically or without applying one's own critical thinking. To add to (Kangxi: 附益也). 【附】 (bjuH) (_verb-like_) to attach, to adjoin, to annex, (_met._) to add (to)"
+"text":"U+9644 坿 (for \"add to\" sense) 柎 (F2.17 附) 附寄附麗附託附近附益又衣附 (Page 61 附) Near, about, ~~approaching~~ ``attached`` (Kangxi: 依也近也著也); to lean on, to follow; annexed, attached to, tributary, dependent; to join; a supplement, appendix, inclosure; _fu ki_ (fu3 gei3 附寄) to send with; _fu wo_ (fu6 wo6 附和) to follow one in explaining; _fu ui_ (fu6 wui6 附會) to echo or assent to another's words; _fu kan_ (fu6 gan6 附近) near, adjacent; _fu tan_ (fu6 daan1 附單), to inclose an account; _fu t'ok_ (fu6 tok3 附託) to charge one with, to request; _fu loi_ (fu6 loi4 附來), to come or bring with one; _fu yik_ (fu6 jik1 附益) to add to, to benefit; _fu tsz'_ (fu6 zi2 附子) a stimulating medicine (a Rhamnus?); _fu tsin_ (fu6 zin3 附薦) to send one's tablets to a _ta-tsiu_ (daa ziu 打醮). Williams' 附和: Or, to echo or second, either sycophantically or without applying one's own critical thinking. To add to (Kangxi: 附益也). 【附】 (bjuH) (_verb-like_) to attach, to adjoin, to annex, (_met._) to add (to)"
 }
 },
 "駙":{

@@ -811,7 +811,7 @@ P
   ++
 S
   ==
-  - ($柎fu6) (TODO) <## same as 附 ##>
+  - ($柎fu6)
   ==
 $$
 
@@ -3213,6 +3213,7 @@ $$
 - $仆6
 - $付6
 - $傅6
+- ($柎6)
 - $父6
 - $祔6
 - $腐6
@@ -3411,6 +3412,27 @@ L
 S
   ==
   - ($傅fu1)
+  ==
+$$
+
+###+ 柎6 | _F(u/)(6)_ [[fu6]]
+
+$$.
+R
+  ⽊ + 5
+U
+  U+67CE
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 附. **See $附fu6 for the canonical entry.**
+  ++
+S
+  ==
+  - $柎fu1
   ==
 $$
 
@@ -3856,6 +3878,7 @@ U
 A
   ==
   - 坿 (for "add to" sense)
+  - $柎6
   ==
 F
   ==
