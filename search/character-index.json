@@ -8005,10 +8005,16 @@
 "text":"U+9EB1 (F2.9 麱) 蔴麱"
 }
 },
+"俛":{
+"fu2":{
+"isCanonical":false,
+"text":"U+4FDB (F2.13 俯) 俯仰低頭也 (F2.13 頫) 低頭也又音跳 (F2.13 俛) 同上又音免 (Page 715 俛) Fan Wan entry: Corrected 底 to 低."
+}
+},
 "俯":{
 "fu2":{
 "isCanonical":true,
-"text":"U+4FEF 俛 府 頫 (F2.13 俯) 俯仰低頭也 (Page 59 俯) To stoop ``the head`` (Kangxi: 俛也), to bow; to consider, to look down on, to condescend; ~~unequal;~~ _fu fuk_ (fu2 fuk6 俯伏) to fall prostrate; _fu chun shi hang_ (fu2 zeon2 si1 hang4 俯准施行), condescend to grant this to be done; _fu yeung_ (fu2 joeng5 俯仰), to look down and up~~, all ranks~~. Williams' 俯仰: Metaphorically, in an instant. 【俯】 (pjuX) (_verb-like_) to bow the head (_verb-like_) to stoop"
+"text":"U+4FEF 俛 府 頫 (F2.13 俯) 俯仰低頭也 (F2.13 頫) 低頭也又音跳 (F2.13 俛) 同上又音免 (Page 59 俯) To stoop ``the head`` (Kangxi: 俛也), to bow; to consider, to look down on, to condescend; ~~unequal;~~ _fu fuk_ (fu2 fuk6 俯伏) to fall prostrate; _fu chun shi hang_ (fu2 zeon2 si1 hang4 俯准施行), condescend to grant this to be done; _fu yeung_ (fu2 joeng5 俯仰), to look down and up~~, all ranks~~. (Page 715 俛; here normalised to 俯) Interchanged with 頫 ~~_t'iu_ (tiu3)~~ in the senses of hanging down the head (Kangxi: 同俯頫 etc.); to look down; to condescend, to examine into. Fan Wan entry: Corrected 底 to 低. Williams' 俯仰: Metaphorically, in an instant. Williams' _t'iu_ (tiu3): This is a misreading of Fan Wan 又音跳 under 頫, which is a cross-reference to a reading with a different meaning, rather than an alternative reading for the sense given. 【俯】 (pjuX) (_verb-like_) to bow the head (_verb-like_) to stoop"
 }
 },
 "府":{

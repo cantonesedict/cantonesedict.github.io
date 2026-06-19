@@ -1344,6 +1344,7 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- ($俛2)
 - $俯2
 - $府2
 - $拊2
@@ -1365,6 +1366,36 @@ $$
 </nav>
 <## /tone-2-characters ##>
 
+### 俛2 | _(2)F(u/)_ [[fu2]]
+
+$$.
+R
+  ⼈ + 7
+U
+  U+4FDB
+F
+  ==
+  - (F2.13 俯) 俯仰低頭也
+  - (F2.13 頫) ::[低]頭也又音跳::
+  - (F2.13 俛) 同上又音免
+  ==
+W
+  ====
+  - [[Page~715 (2)俛]]
+    --
+    [[Alternative form of 俯. **See $俯fu2 for the canonical entry.**]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 底 to 低.
+  ==
+S
+  ==
+  - $俛min5 (TODO)
+  ==
+$$
+
 ### 俯2 | _(2)F(u/)_ [[fu2]]
 
 $$
@@ -1374,13 +1405,15 @@ U
   U+4FEF
 A
   ==
-  - 俛
+  - $俛2
   - $府2
   - 頫
   ==
 F
   ==
   - (F2.13 俯) 俯仰低頭也
+  - (F2.13 頫) ::[低]頭也又音跳::
+  - (F2.13 俛) 同上又音免
   ==
 W
   ====
@@ -1399,10 +1432,22 @@ W
         [[fu2 joeng5 俯仰]],
         to look down and up~~, all ranks~~.
     ==
+  - [[Page~715 (2)俛; here normalised to 俯]]
+    ==
+    - Interchanged with 頫 ~~_t(')i(u/)(3)_ [[tiu3]]~~
+      in the senses of hanging down the head [[Kangxi: 同俯頫 etc.]];
+    - to look down;
+    - to condescend, to examine into.
+    ==
   ====
 C
   ==
+  - Fan Wan entry: Corrected 底 to 低.
   - Williams' 俯仰: Metaphorically, in an instant.
+  - Williams' _t(')i(u/)(3)_ (tiu3):
+    This is a misreading of Fan Wan 又音跳 under 頫,
+    which is a cross-reference to a reading with a different meaning,
+    rather than an alternative reading for the sense given.
   ==
 L
   ====
