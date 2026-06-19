@@ -3557,6 +3557,13 @@ window.onload = applyFilter;
       ==
   //
     , `phju`
+    , [孵](/entries/fu#rendering-孵)
+    ,
+      ==
+      - (_verb-like_) [to] brood, [to] hatch
+      ==
+  //
+    , `phju`
     , [敷](/entries/fu#rendering-敷)
     ,
       ==

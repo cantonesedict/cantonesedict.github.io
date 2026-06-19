@@ -60,6 +60,7 @@ $$
 - $嘑1
 - $夫1
 - $孚1
+- $孵1
 - ($尃1)
 - $怤1
 - $扶1
@@ -437,7 +438,7 @@ W
   ====
   - [[Page~58 (1)孚]]
     ==
-    - To brood over, to hatch; <## TODO: same as $孵fu1 ##>
+    - [[...]];
     - accordant, mutual agreement;
     - belief, trust, confidence [[Kangxi: 一曰信也]];
     - ~~the calyx of a bud;~~
@@ -448,6 +449,9 @@ W
         [[zung1 fu1 忠孚]],
         true and honest.
     ==
+    --
+    [[Otherwise, an alternative form of 孵. **See $孵fu1 for the canonical entry.**]]
+    --
     --
     [[Otherwise, an alternative form of 俘. **See $俘fu1 for the canonical entry.**]]
     --
@@ -467,6 +471,36 @@ L
     ==
     - (_noun-like_) confidence, assurance
     - (_noun-like_) sincerity, trust
+    ==
+  ====
+$$
+
+###+ 孵1 | _(1)F(u/)_ [[fu1]]
+
+$$
+R
+  ⼦ + 11
+U
+  U+5B75
+A
+  ==
+  - $孚1
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~58 (1)孚; here normalised to 孵]]
+    ==
+    - To brood over, to hatch [[Kangxi 孵: 孵化也 etc.]];
+    - [[...]].
+    ==
+  ====
+L
+  ====
+  * 【孵】 (phju)
+    ==
+    - (_verb-like_) [to] brood, [to] hatch
     ==
   ====
 $$
