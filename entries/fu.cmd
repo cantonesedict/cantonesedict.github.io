@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fu
-* %date-modified --> 2026-06-18
+* %date-modified --> 2026-06-19
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -2615,6 +2615,7 @@ $$
 - $夫4
 - $扶4
 - $符4
+- $芙4
 - $苻4
 - $蚨4
 - $鳧4
@@ -2779,6 +2780,52 @@ L
     - (_noun-like_) corroborative-tally
     - (_adjective-like_) corroborative
     - (_noun-like_) talisman
+    ==
+  ====
+$$
+
+### 芙4 | _(4)F(u/)_ [[fu4]]
+
+$$
+R
+  ⾋ + 4
+U
+  U+8299
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~715 (4)芙]]
+    ==
+    - A flower;
+    - _(4)f(u/) (4)yung (1)f(a/)_
+        [[fu4 jung4 faa1 芙蓉花]],
+        the _Hibiscus mutabilis_;
+    - _(1)o (4)f(u/) (4)yung_
+        [[o1 fu4 jung4 阿芙蓉]],
+        the poppy.
+    ==
+  ====
+C
+  ==
+  - Williams' 阿芙蓉: Or, opium.
+  ==
+P
+  ++
+  1. The lotus (Kangxi: 芙蓉也, 荷芙蕖).
+      ==
+      - 芙蓉蛋 (fu4 jung4 daan6-2): "Egg foo yung" (the omelette dish).
+      ==
+  ++
+L
+  ====
+  * 【芙】 (bju)
+    ==
+    - Used in [芙蓉](/entries/fu#rendering-芙蓉).
+    ==
+  * 【芙蓉】 (bju yowng)
+    ==
+    - (_noun-like_) lotus
     ==
   ====
 $$

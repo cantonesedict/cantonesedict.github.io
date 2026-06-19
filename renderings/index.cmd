@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-06-18
+* %date-modified --> 2026-06-19
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -673,10 +673,24 @@ window.onload = applyFilter;
       ==
   //
     , `bju`
+    , [芙](/entries/fu#rendering-芙)
+    ,
+      ==
+      - Used in [芙蓉](/entries/fu#rendering-芙蓉).
+      ==
+  //
+    , `bju`
     , [鳧](/entries/fu#rendering-鳧)
     ,
       ==
       - (_noun-like_) mallard
+      ==
+  //
+    , `bju yowng`
+    , [芙蓉](/entries/fu#rendering-芙蓉)
+    ,
+      ==
+      - (_noun-like_) lotus
       ==
   //
     , `bjuX`
