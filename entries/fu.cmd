@@ -2394,12 +2394,18 @@ W
     - _(4)n(i/)n f(u/)(3)_
         [[nin4 fu3 年富]]
         young, lusty [[Kangxi: 年富謂年幼後來齒歷方久也]];
-    - _hok(9) f(u/)(3) ~~(1)ch(e/)~~_
-        [[hok6 fu3 學富]]^
+    - _hok(9) f(u/)(3) ~~(1)ch(e/)~~ ``(5)'ng (1)k(u:)``_
+        [[hok6 fu3 ng5 geoi1 學富五車]]^
         universally learned;
     - _f(u/)(3) tsuk(7)_
         [[fu3 zuk1 富足]]
         rich enough.
+    ==
+  - [[Page~715 富(3)]]
+    ==
+    - The phrase _hok(9) f(u/)(3) (1)ch(e/)_ [[hok6 fu3 ze1]]^ should be
+        _hok(9) f(u/)(3) (5)'ng ~~(1)ch(')(e/)~~ ``(1)k(u:)``_
+        [[hok6 fu3 ng5 geoi1 學富五車]].
     ==
   ====
 C
@@ -2407,6 +2413,7 @@ C
   - Fan Wan entry: Fixed missing strokes in 豐.
   - Williams' 富厚: Changed _hau(6)_ (hau6) to common reading _(5)hau_ (hau5).
   - Williams' 學富: Removed extraneous _(1)ch(e/)_ (ze1).
+  - Williams' 學富五車 (Page^~715): Corrected _(1)ch(')(e/)_ (ce1) to _(1)k(u:)_ (geoi1).
   ==
 P
   ++
