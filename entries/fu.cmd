@@ -2618,6 +2618,7 @@ $$
 - $芙4
 - $苻4
 - $蚨4
+- $颫4
 - $鳧4
 - ($鳬4)
 ==
@@ -2881,6 +2882,30 @@ W
       supposed to be able to recover its stolen young,
       and cause cash rubbed with its eggs to return to their owner
       [[Kangxi: 靑蚨水蟲可還錢 etc.]].
+    ==
+  ====
+$$
+
+### 颫4 | _(4)F(u/)_ [[fu4]]
+
+$$
+R
+  ⾵ + 4
+U
+  U+98AB
+F
+  ==
+  - (F2.11 颫) 大風也
+  ==
+W
+  ====
+  - [[Page~715 (4)颫]]
+    ==
+    - A gust of wind;
+    - the wind blowing downwards [[Kangxi: 風自上下謂之颫颻]];
+    - _(4)f(u/) (1)fung_
+        [[fu4 fung1 颫風]]^
+        a storm [[Kangxi: 颫風大風]].
     ==
   ====
 $$
