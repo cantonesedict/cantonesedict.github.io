@@ -1182,7 +1182,7 @@ P
   ++
 S
   ==
-  - ($虖fu4) (TODO)
+  - ($虖fu4)
   ==
 $$
 
@@ -2751,6 +2751,7 @@ $$
 - $符4
 - $芙4
 - $苻4
+- ($虖4)
 - $蚨4
 - $颫4
 - $鳧4
@@ -2993,6 +2994,27 @@ C
 S
   ==
   - ($苻fu1)
+  ==
+$$
+
+###+ 虖4 | _(4)F(u/)_ [[fu4]]
+
+$$.
+R
+  ⾌ + 5
+U
+  U+8656
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 乎. **See $乎fu4 for the canonical entry.** (TODO)
+  ++
+S
+  ==
+  - ($虖fu1)
   ==
 $$
 
