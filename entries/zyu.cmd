@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zyu
-* %date-modified --> 2026-05-16
+* %date-modified --> 2026-06-20
 * %copyright-prior-years --> 2023--
 
 ReplacementSequence: #.ensure-baxter
@@ -701,6 +701,11 @@ C
   ==
   - Williams' "to discuss": This is a misreading of Kangxi 辯也.
     Here, 辯 is used for 辨.
+  - Two of Williams' examples
+    (書諸紳, 人有舍諸)
+    are identical or suspiciously similar
+    to those in Section~2.6 (_Examples of ch(u/)_, 諸)
+    of [J.~G.~Bridgman's 1847 translation of Prémare's ''Notitia Linguæ Sinicæ''][nls-諸].
   ==
 P
   ++
@@ -731,6 +736,8 @@ E
     ++
   ====
 $$
+
+[nls-諸]: https://archive.org/details/notitialinguaes00bridgoog/page/n216/mode/1up
 
 ###+ 豬1 | _(1)Ch(u:)_ [[zyu1]]
 
