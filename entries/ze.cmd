@@ -432,8 +432,8 @@ C
   - Eight of Williams' examples
     (愚者, 死者, 無情者, 性者, 誠者, 德者本也, 仁者樂山, 中也者天下之大本也)
     are identical or suspiciously similar
-    to those in Section~2.2 (_Examples of ch(e/)_, 者)
-    of [J.~G.~Bridgman's 1847 translation of Prémare's ''Notitia Linguæ Sinicæ''][nls-者].
+    to those in [Section~2.2 (_Examples of ch(e/)_, 者)][nls-者]
+    of J.~G.~Bridgman's 1847 translation of Prémare's ''Notitia Linguæ Sinicæ''.
   ==
 L
   ====

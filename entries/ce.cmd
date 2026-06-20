@@ -316,8 +316,8 @@ C
     Note that this is a separate sense to subjunctive "if", "should".
   - Williams' 且信且疑: Corrected _san(3)_ (san3) to _sun(3)_ (seon3).
   - Williams' 富且貴: This example is suspiciously similar to that
-    in Section~2.11.2 (_Examples of ts(')i(e/)_, 且)
-    of [J.~G.~Bridgman's 1847 translation of Prémare's ''Notitia Linguæ Sinicæ''][nls-且].
+    in [Section~2.11.2 (_Examples of ts(')i(e/)_, 且)][nls-且]
+    of J.~G.~Bridgman's 1847 translation of Prémare's ''Notitia Linguæ Sinicæ''.
   - Williams' 且慢: Not an adverbial "soon" or "shortly", but an imperative "slow down" or "hang on".
   ==
 P

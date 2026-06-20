@@ -226,8 +226,8 @@ C
   - Two of Williams' examples
     (然則, 一則以喜一則以懼)
     are suspiciously similar
-    to those in Section~2.11.1 (_Examples of tseh_, 則)
-    of [J.~G.~Bridgman's 1847 translation of Prémare's ''Notitia Linguæ Sinicæ''][nls-則].
+    to those in [Section~2.11.1 (_Examples of tseh_, 則)][nls-則]
+    of J.~G.~Bridgman's 1847 translation of Prémare's ''Notitia Linguæ Sinicæ''.
   ==
 L
   ====

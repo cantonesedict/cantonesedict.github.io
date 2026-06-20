@@ -164,8 +164,8 @@ C
   - Two of Williams' examples
     (將死, 將可出)
     are suspiciously similar
-    to those in Section~2.15 (_Particles denoting Time_)
-    of [J.~G.~Bridgman's 1847 translation of Prémare's ''Notitia Linguæ Sinicæ''][nls-time].
+    to those in [Section~2.15 (_Particles denoting Time_)][nls-time]
+    of J.~G.~Bridgman's 1847 translation of Prémare's ''Notitia Linguæ Sinicæ''.
   ==
 P
   ++

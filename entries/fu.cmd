@@ -2854,8 +2854,8 @@ C
   - Eleven of Williams' examples
     (孝乎鬼神, 無隱乎爾, 可乎, 豈可得乎, 仁遠乎哉, 不亦樂乎, 莫高乎天, 宜乎否乎, 庶乎其可矣, 衣食於是乎足, 洋洋乎)
     are identical or suspiciously similar
-    to those in Section~2.5 (_Examples of h(u/)_, 乎)
-    of [J.~G.~Bridgman's 1847 translation of Prémare's ''Notitia Linguæ Sinicæ''][nls-乎].
+    to those in [Section~2.5 (_Examples of h(u/)_, 乎)][nls-乎]
+    of J.~G.~Bridgman's 1847 translation of Prémare's ''Notitia Linguæ Sinicæ''.
   ==
 L
   ====

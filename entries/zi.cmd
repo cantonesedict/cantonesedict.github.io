@@ -157,8 +157,8 @@ C
   - Six of Williams' examples
     (天之明命, 未之有也, 古之, 無之, 行而不至者有之, 主之者之謂帝)
     are identical or suspiciously similar
-    to those in Section~2.1 (_Examples of ch(i/)_, 之)
-    of [J.~G.~Bridgman's 1847 translation of Prémare's ''Notitia Linguæ Sinicæ''][nls-之].
+    to those in [Section~2.1 (_Examples of ch(i/)_, 之)][nls-之]
+    of J.~G.~Bridgman's 1847 translation of Prémare's ''Notitia Linguæ Sinicæ''.
   ==
 P
   ++

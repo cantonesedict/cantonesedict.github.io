@@ -704,8 +704,8 @@ C
   - Two of Williams' examples
     (書諸紳, 人有舍諸)
     are identical or suspiciously similar
-    to those in Section~2.6 (_Examples of ch(u/)_, 諸)
-    of [J.~G.~Bridgman's 1847 translation of Prémare's ''Notitia Linguæ Sinicæ''][nls-諸].
+    to those in [Section~2.6 (_Examples of ch(u/)_, 諸)][nls-諸]
+    of J.~G.~Bridgman's 1847 translation of Prémare's ''Notitia Linguæ Sinicæ''.
   ==
 P
   ++

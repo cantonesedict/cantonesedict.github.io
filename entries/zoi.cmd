@@ -122,8 +122,8 @@ C
   - Two of Williams' examples
     (大哉問, 野哉由也)
     are suspiciously similar
-    to those in Section~2.14 (_Examples of ts(a/)i_, 哉, _and n(a/)i_, 乃)
-    of [J.~G.~Bridgman's 1847 translation of Prémare's ''Notitia Linguæ Sinicæ''][nls-哉乃].
+    to those in [Section~2.14 (_Examples of ts(a/)i_, 哉, _and n(a/)i_, 乃)][nls-哉乃]
+    of J.~G.~Bridgman's 1847 translation of Prémare's ''Notitia Linguæ Sinicæ''.
   ==
 L
   ====
