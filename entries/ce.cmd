@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ce
-* %date-modified --> 2026-06-14
+* %date-modified --> 2026-06-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -315,6 +315,9 @@ C
     A better rendering is "[a] word [indicating] uncertainness".
     Note that this is a separate sense to subjunctive "if", "should".
   - Williams' 且信且疑: Corrected _san(3)_ (san3) to _sun(3)_ (seon3).
+  - Williams' 富且貴: This example is suspiciously similar to that
+    in Section~2.11.2 (_Examples of ts(')i(e/)_, 且)
+    of [J.~G.~Bridgman's 1847 translation of Prémare's ''Notitia Linguæ Sinicæ''][nls-且].
   - Williams' 且慢: Not an adverbial "soon" or "shortly", but an imperative "slow down" or "hang on".
   ==
 P
@@ -342,6 +345,8 @@ S
   - $且zeoi1
   ==
 $$
+
+[nls-且]: https://archive.org/details/notitialinguaes00bridgoog/page/n229/mode/1up
 
 ### 哆2 | _(2)Ch(')(e/)_ [[ce2]]
 
