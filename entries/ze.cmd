@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ze
-* %date-modified --> 2026-04-05
+* %date-modified --> 2026-06-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -417,6 +417,11 @@ C
   ==
   - Williams' 死者: Corrected _sz'(3)_ (si3) to _(2)sz'_ (si2).
   - Williams' 中也者天下之大本也: Changed _(5)h(a/)_ (haa5) to modern _h(a/)(6)_ (haa6).
+  - Eight of Williams' examples
+    (愚者, 死者, 無情者, 性者, 誠者, 德者本也, 仁者樂山, 中也者天下之大本也)
+    are identical or suspiciously similar
+    to those in Section~2.2 (_Examples of ch(e/)_, 者)
+    of [J.~G.~Bridgman's 1847 translation of Prémare's ''Notitia Linguæ Sinicæ''][nls-者].
   ==
 L
   ====
@@ -427,6 +432,8 @@ L
     ==
   ====
 $$
+
+[nls-者]: https://archive.org/details/notitialinguaes00bridgoog/page/n205/mode/1up
 
 ### 赭2 | _(2)Ch(e/)_ [[ze2]]
 
