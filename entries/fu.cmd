@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fu
-* %date-modified --> 2026-06-19
+* %date-modified --> 2026-06-20
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -104,7 +104,7 @@ P
   ++
 S
   ==
-  - $乎fu4 (TODO)
+  - $乎fu4
   - ($乎wu4) (TODO)
   ==
 $$
@@ -2740,6 +2740,7 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $乎4
 - $夫4
 - $扶4
 - $符4
@@ -2753,6 +2754,119 @@ $$
 ==
 </nav>
 <## /tone-4-characters ##>
+
+###+ 乎4 | _(4)F(u/)_ [[fu4]]
+
+$$
+R
+  ⼃ + 4
+U
+  U+4E4E
+A
+  ==
+  - $虖4
+  ==
+V
+  ==
+  - wu4 (per Fan Wan)
+  ==
+F
+  ==
+  - (F2.11 乎) 語助詞
+  ==
+W
+  ====
+  - [[Page~631 乎 _(4)(U/)_ (wu4); here normalised to _(4)F(u/)_ (fu4)]]
+    ==
+    - An interrogative adverb [[Kangxi: 疑辭]];
+    - an interjection of doubt, admiration, or inquiry,
+      and placed at the end of sentence;
+    - after nouns, sign of the vocative [[Kangxi: 呼聲]];
+    - after verbs, it is a preposition, in, towards, to, with, from, up to;
+    - in respect to, as, like;
+    - a sign of the accusative;
+    - an expletive [[Kangxi: 兮語之餘也]];
+    - _h(a/)u(3) ~~(4)(u/)~~ ``(4)f(u/)`` (2)kwai (4)shan_
+        [[haau3 fu4 gwai2 san4 孝乎鬼神]],
+        dutifully regard your ancestors;
+    - _(4)m(o\) (2)yan ~~(4)(u/)~~ ``(4)f(u/)`` (5)(i/)_
+        [[mou4 jan2 fu4 ji5 無隱乎爾]],
+        I've concealed nothing from you;
+    - _(2)ho ~~(4)(u/)~~ ``(4)f(u/)``_
+        [[ho2 fu4 可乎]],
+        can we do it?
+    - _(2)h(i/) (2)ho tak(7) ~~(4)(u/)~~ ``(4)f(u/)``_
+        [[hei2 ho2 dak1 fu4 豈可得乎]],
+        can we possibly get it?
+    - _(4)yan (5)(u:)n ~~(4)(u/)~~ ``(4)f(u/)`` (1)tsoi_
+        [[jan4 jyun5 fu4 zoi1 仁遠乎哉]],
+        can benevolence be so far gone!
+    - _pat(7) yik(9) lok(9) ~~(4)(u/)~~ ``(4)f(u/)``_
+        [[bat1 jik6 lok6 fu4 不亦樂乎]],
+        is it not even pleasant?
+    - _mok(9) (1)k(o\) ~~(4)(u/)~~ ``(4)f(u/)`` (1)t(')(i/)n_
+        [[mok6 gou1 fu4 tin1 莫高乎天]],
+        there's nothing higher than heaven;
+    - _(4)(i/) ~~(4)(u/)~~ ``(4)f(u/)`` (2)fau ~~(4)(u/)~~ ``(4)f(u/)``_
+        [[ji4 fu4 fau2 fu4 宜乎否乎]],
+        is it right or not?
+    - _sh(u:)(3) ~~(4)(u/)~~ ``(4)f(u/)`` (4)k(')(i/) (2)ho (5)(i/)_
+        [[syu3 fu4 kei4 ho2 ji5 庶乎其可矣]],
+        then it is thus allowed;
+    - _(1)k(i/) ~~(4)(u/)~~ ``(4)f(u/)``_
+        [[gei1 fu4 幾乎]],
+        perhaps, nearly, about;
+    - _h(o\)p(9) ~~(4)(u/)~~ ``(4)f(u/)`` ~~(2)tsz'~~ ``(2)ts(')z'``_
+        [[hap6 fu4 ci2 合乎此]]
+        agrees with this;
+    - _(1)ch(i/) ~~(4)(u/)~~ ``(4)f(u/)`` (2)ch(e/) (5)y(a/)_
+        [[zi1 fu4 ze2 jaa5 之乎者也]],
+        eh! ah! oh! ugh!
+        _met._ it ts all moonshine;
+    - _wai(6) ~~(4)(u/)~~ ``(4)f(u/)`` ~~(5)sh(e/)ung~~ ``sh(e/)ung(6)`` (2)ch(e/)_
+        [[wai6 fu4 soeng6 ze2 位乎上者]],
+        his place is on high;
+    - _(2)p(o\) ~~(4)(u/)~~ ``(4)f(u/)`` (4)man_
+        [[bou2 fu4 man4 保乎民]],
+        to preserve the people;
+    - _(1)(i/) shik(9) (1)(u:) sh(i/)(6) ~~(4)(u/)~~ ``(4)f(u/)`` tsuk(7)_
+        [[ji1 sik6 jyu1 si6 fu4 zuk1 衣食於是乎足]]
+        food and raiment thereupon were plenty;
+    - _(4)y(e/)ung (4)y(e/)ung ~~(4)(u/)~~ ``(4)f(u/)``_
+        [[joeng4 joeng4 fu4 洋洋乎]],
+        haw vast!
+    - _tsoi(6) ~~(4)(u/)~~ ``(4)f(u/)``_
+        [[zoi6 fu4 在乎]],
+        consists in;
+    - _(1)sh(u:) pat(7) (4)wan ~~(4)(u/)~~ ``(4)f(u/)``_
+        [[syu1 bat1 wan4 fu4 書不云乎]],
+        is it not so written?
+    ==
+  ====
+C
+  ==
+  - Williams' "an expletive": In the sense of a filler,
+    rather than an obscenity or an intensifier.
+  - Williams' 合乎此: Corrected _(2)tsz'_ (zi2) to _(2)ts(')z'_ (ci2).
+  - Williams' 之乎者也: Here, "moonshine" means nonsense.
+  - Williams' 位乎上者: Corrected _(5)sh(e/)ung_ (soeng5) to _sh(e/)ung(6)_ (soeng6).
+  - Williams' 書不云乎: Better rendered "does the Shu [King] not say".
+  ==
+L
+  ====
+  * 【乎】 (hu)
+    ==
+    - (_speech-assist_)
+    - (_preposition-like_) in, upon, unto
+    - (_preposition-like_) than
+    ==
+  ====
+S
+  ==
+  - ($乎fu1)
+  - ($乎wu4) (TODO)
+  ==
+$$
 
 ### 夫4 | _(4)F(u/)_ [[fu4]]
 
@@ -3004,7 +3118,7 @@ W
   [[Not present]]
 P
   ++
-  1. Alternative form of 乎. **See $乎fu4 for the canonical entry.** (TODO)
+  1. Alternative form of 乎. **See $乎fu4 for the canonical entry.**
   ++
 S
   ==
