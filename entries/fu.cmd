@@ -2851,6 +2851,11 @@ C
   - Williams' 之乎者也: Here, "moonshine" means nonsense.
   - Williams' 位乎上者: Corrected _(5)sh(e/)ung_ (soeng5) to _sh(e/)ung(6)_ (soeng6).
   - Williams' 書不云乎: Better rendered "does the Shu [King] not say".
+  - Eleven of Williams' examples
+    (孝乎鬼神, 無隱乎爾, 可乎, 豈可得乎, 仁遠乎哉, 不亦樂乎, 莫高乎天, 宜乎否乎, 庶乎其可矣, 衣食於是乎足, 洋洋乎)
+    are identical or suspiciously similar
+    to those in Section~2.5 (_Examples of h(u/)_, 乎)
+    of [J.~G.~Bridgman's 1847 translation of Prémare's ''Notitia Linguæ Sinicæ''][nls-乎].
   ==
 L
   ====
@@ -2867,6 +2872,8 @@ S
   - ($乎wu4) (TODO)
   ==
 $$
+
+[nls-乎]: https://archive.org/details/notitialinguaes00bridgoog/page/n213/mode/1up
 
 ### 夫4 | _(4)F(u/)_ [[fu4]]
 
