@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zak
-* %date-modified --> 2026-03-21
+* %date-modified --> 2026-06-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -223,6 +223,11 @@ W
 C
   ==
   - Williams' 恕罪則個: Corrected _tsui(6)_ to _ts(u/)i(6)_.
+  - Two of Williams' examples
+    (然則, 一則以喜一則以懼)
+    are suspiciously similar
+    to those in Section~2.11.1 (_Examples of tseh_, 則)
+    of [J.~G.~Bridgman's 1847 translation of Prémare's ''Notitia Linguæ Sinicæ''][nls-則].
   ==
 L
   ====
@@ -240,6 +245,8 @@ S
   - $則zik1
   ==
 $$
+
+[nls-則]: https://archive.org/details/notitialinguaes00bridgoog/page/n228/mode/1up
 
 ### 昃1 | _Chak(7)_ [[zak1]]
 
