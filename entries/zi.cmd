@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zi
-* %date-modified --> 2026-05-16
+* %date-modified --> 2026-06-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -154,6 +154,11 @@ C
     For example, where Kangxi has 語助辭 "speech-assist word" (i.e. particle),
     the examples given are actually for the objective pronoun sense.
   - Williams' 聽之之人: Corrected _t(')eng(3)_ (teng3) to _t(')ing(3)_ (ting3).
+  - Six of Williams' examples
+    (天之明命, 未之有也, 古之, 無之, 行而不至者有之, 主之者之謂帝)
+    are identical or suspiciously similar
+    to those in Section~2.1 (_Examples of ch(i/)_, 之)
+    of [J.~G.~Bridgman's 1847 translation of Prémare's ''Notitia Linguæ Sinicæ''][nls-之].
   ==
 P
   ++
@@ -177,6 +182,8 @@ S
   - $之zaa1
   ==
 $$
+
+[nls-之]: https://archive.org/details/notitialinguaes00bridgoog/page/n200/mode/1up
 
 ### 兹1 | _(1)Tsz'_ [[zi1]]
 
