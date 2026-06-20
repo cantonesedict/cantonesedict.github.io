@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoi
-* %date-modified --> 2026-04-10
+* %date-modified --> 2026-06-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -119,6 +119,11 @@ C
     and the (now considered incorrect) explanation of 才 as a sprouting plant in 《說文》.
   - Williams' 仁遠乎哉: Changed _(4)(u/)_ (wu4) to common reading _(4)f(u/)_ (fu4).
   - Williams' 野哉由也: Corrected _y(a/)(6)_ (jaa6) to _(5)y(a/)_ (jaa5).
+  - Two of Williams' examples
+    (大哉問, 野哉由也)
+    are suspiciously similar
+    to those in Section~2.14 (_Examples of ts(a/)i_, 哉, _and n(a/)i_, 乃)
+    of [J.~G.~Bridgman's 1847 translation of Prémare's ''Notitia Linguæ Sinicæ''][nls-哉乃].
   ==
 L
   ====
@@ -129,6 +134,8 @@ L
     ==
   ====
 $$
+
+[nls-哉乃]: https://archive.org/details/notitialinguaes00bridgoog/page/n235/mode/1up
 
 ### 栽1 | _(1)Tsoi_ [[zoi1]]
 
