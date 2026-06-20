@@ -365,58 +365,70 @@ F
   - (F2.84 者) 語助詞指人指物之稱
   ==
 W
-  ====
+  ======
   - [[Page~30|n73 (2)者]]
-    ==
+    ====
     - A ~~relative or~~ demonstrative pronoun [[Kangxi: ::此也[...]今俗多用這字::]];
     - ~~it, this,~~ that, he, who, what;
     - following verbs, it forms a noun, as
+      ==
       - _(4)hang (2)ch(e/)_
           [[hang4 ze2 行者]],
           a walker, he who is walking;
+      ==
     - after ~~nouns~~ ``adjectives``, indicates a class, as
-    - _(4)(u:) (2)ch(e/)_
-        [[jyu4 ze2 愚者]],
-        the foolish;
-    - _~~sz'(3)~~ ``(2)sz'`` (2)ch(e/)_
-        [[si2 ze2 死者]],
-        the dead;
-    - _(4)m(o\) (4)ts(')ing (2)ch(e/)_
-        [[mou4 cing4 ze2 無情者]],
-        people who are without affection;
+      ==
+      - _(4)(u:) (2)ch(e/)_
+          [[jyu4 ze2 愚者]],
+          the foolish;
+      - _~~sz'(3)~~ ``(2)sz'`` (2)ch(e/)_
+          [[si2 ze2 死者]],
+          the dead;
+      - _(4)m(o\) (4)ts(')ing (2)ch(e/)_
+          [[mou4 cing4 ze2 無情者]],
+          people who are without affection;
+      ==
     - or as put in the abstract, as
-    - _sing(3) (2)ch(e/)_
-        [[sing3 ze2 性者]],
-        nature;
-    - _(4)shing (2)ch(e/)_
-        [[sing4 ze2 誠者]],
-        truth;
+      ==
+      - _sing(3) (2)ch(e/)_
+          [[sing3 ze2 性者]],
+          nature;
+      - _(4)shing (2)ch(e/)_
+          [[sing4 ze2 誠者]],
+          truth;
+      ==
     - placed between two nouns or clauses, it puts them in apposition, as
-    - _tak(7) (2)ch(e/), (2)p(u/)n (5)y(a/)_
-        [[dak1 ze2 bun2 jaa5 德者本也]],
-        virtue, that is the root;
-    - _(4)yan (2)ch(e/) ng(a/)u(6) (1)sh(a/)n_
-        [[jan4 ze2 ngaau6 saan1 仁者樂山]]^
-        the humane man delights in hills;
+      ==
+      - _tak(7) (2)ch(e/), (2)p(u/)n (5)y(a/)_
+          [[dak1 ze2 bun2 jaa5 德者本也]],
+          virtue, that is the root;
+      - _(4)yan (2)ch(e/) ng(a/)u(6) (1)sh(a/)n_
+          [[jan4 ze2 ngaau6 saan1 仁者樂山]]^
+          the humane man delights in hills;
+      ==
     - it is often a mere pause to arrest the attention;
-    - _(4)ho (4)wai (2)ch(e/)_
-        [[ho4 wai4 ze2 何為者]],
-        what are you doing?
-    - _(1)chung (5)y(a/) (2)ch(e/) (1)t(')(i/)n ~~(5)h(a/)~~ ``h(a/)(6)`` (1)ch(i/) t(a/)i(6) (2)p(u/)n (5)y(a/)_
-        [[zung1 jaa5 ze2 tin1 haa6 zi1 daai6 bun2 jaa5 中也者天下之大本也]],
-        the medium is everywhere the chief point;
-    - _sik(7) (2)ch(e/)_
-        [[sik1 ze2 昔者]],
-        formerly;
-    - _w(a/)k(9) (2)ch(e/)_
-        [[waak6 ze2 或者]],
-        perhaps.
-    ==
-  ====
+      ==
+      - _(4)ho (4)wai (2)ch(e/)_
+          [[ho4 wai4 ze2 何為者]],
+          what are you doing?
+      - _(1)chung (5)y(a/) (2)ch(e/) (1)t(')(i/)n ~~(5)h(a/)~~ ``h(a/)(6)`` (1)ch(i/) t(a/)i(6) (2)p(u/)n (5)y(a/)_
+          [[zung1 jaa5 ze2 tin1 haa6 zi1 daai6 bun2 jaa5 中也者天下之大本也]],
+          the medium is everywhere the chief point;
+      - _sik(7) (2)ch(e/)_
+          [[sik1 ze2 昔者]],
+          formerly;
+      - _w(a/)k(9) (2)ch(e/)_
+          [[waak6 ze2 或者]],
+          perhaps.
+      ==
+    ====
+  ======
 C
   ==
   - Williams' 死者: Corrected _sz'(3)_ (si3) to _(2)sz'_ (si2).
+  - Williams' 仁者樂山: This example should appear under the "indicates a class" sense.
   - Williams' 中也者天下之大本也: Changed _(5)h(a/)_ (haa5) to modern _h(a/)(6)_ (haa6).
+    This example should appear under the "puts them in apposition" sense.
   - Eight of Williams' examples
     (愚者, 死者, 無情者, 性者, 誠者, 德者本也, 仁者樂山, 中也者天下之大本也)
     are identical or suspiciously similar
