@@ -3333,6 +3333,16 @@ window.onload = applyFilter;
       - (_noun-like_) clod
       ==
   //
+    , `khwoj`
+    , [魁](/entries/fui#rendering-魁)
+    ,
+      ==
+      - (_noun-like_) dipper, dipper-[mollusc]
+      - (_noun-like_) mound
+      - (_adjective-like_) chief
+      - (_adjective-like_) great
+      ==
+  //
     , `khwojH`
     , [塊](/entries/faai#rendering-塊)
     ,
