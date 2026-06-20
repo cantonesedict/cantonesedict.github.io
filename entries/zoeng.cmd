@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2026-05-02
+* %date-modified --> 2026-06-20
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -161,6 +161,11 @@ C
   ==
   - Williams' 將軍: In the non-Manchu context, a general;
     in Chinese chess, to check.
+  - Two of Williams' examples
+    (將死, 將可出)
+    are suspiciously similar
+    to those in Section~2.15 (_Particles denoting Time_)
+    of [J.~G.~Bridgman's 1847 translation of Prémare's ''Notitia Linguæ Sinicæ''][nls-time].
   ==
 P
   ++
@@ -198,6 +203,8 @@ S
   - $將zoeng3
   ==
 $$
+
+[nls-time]: https://archive.org/details/notitialinguaes00bridgoog/page/n236/mode/1up
 
 ### 張1 | _(1)Ch(e/)ung_ [[zoeng1]]
 
