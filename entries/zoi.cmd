@@ -124,6 +124,11 @@ C
     are suspiciously similar
     to those in [Section~2.14 (_Examples of ts(a/)i_, 哉, _and n(a/)i_, 乃)][nls-哉乃]
     of J.~G.~Bridgman's 1847 translation of Prémare's ''Notitia Linguæ Sinicæ''.
+    A further four examples
+    (其故何哉, 何有於我哉, 仁遠乎哉, 安不悲哉)
+    are identical or suspiciously similar
+    to those in [Section~2.17 (_Interrogative Particles_)][nls-interrogative]
+    of the same.
   ==
 L
   ====
@@ -136,6 +141,7 @@ L
 $$
 
 [nls-哉乃]: https://archive.org/details/notitialinguaes00bridgoog/page/n235/mode/1up
+[nls-interrogative]: https://archive.org/details/notitialinguaes00bridgoog/page/n238/mode/1up
 
 ### 栽1 | _(1)Tsoi_ [[zoi1]]
 
