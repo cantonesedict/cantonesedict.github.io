@@ -49,6 +49,7 @@ $$
 =={.modern}
 - $恢1
 - $灰1
+- $詼1
 - $魁1
 ==
 </nav>
@@ -155,6 +156,35 @@ L
     ==
     - (_noun-like_) ash
     - (_noun-like_) charcoal
+    ==
+  ====
+$$
+
+### 詼1 | _(1)F(u/)i_ [[fui1]]
+
+$$
+R
+  ⾔ + 6
+U
+  U+8A7C
+F
+  ==
+  - (F2.80 詼) 詼諧調戲也
+  ==
+W
+  ====
+  - [[Page~62 (1)詼]]
+    ==
+    - To play with, to laugh at [[Kangxi: 調戲也, 譏戲也, 謔也嘲也]];
+    - _(1)f(u/)i ~~(2)si(u/)~~ ``si(u/)(3)``_
+        [[fui1 siu3 詼笑]],
+        to ridicule;
+    - _(1)f(u/)i k(')ek(9)_
+        [[fui1 kek6 詼劇]]
+        to gambol with;
+    - _(1)f(u/)i (4)h(a/)i_
+        [[fui1 haai4 詼諧]],
+        to dally and jeer with.
     ==
   ====
 $$
