@@ -116,6 +116,7 @@ For all radicals, see [Index of characters by radical](./).
       - {$恣ci3, $恣zi3}
       - $㤝cung1
       - $恍fong2
+      - $恢fui1
       ==
       </nav>
   //

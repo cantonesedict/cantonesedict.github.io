@@ -47,11 +47,51 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $恢1
 - $灰1
 - $魁1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 恢1 | _(1)F(u/)i_ [[fui1]]
+
+$$
+R
+  ⼼ + 6
+U
+  U+6062
+F
+  ==
+  - (F2.80 恢) 大也又恢復
+  ==
+W
+  ====
+  - [[Page~62 (1)恢]]
+    ==
+    - Great [[Kangxi: 大也]];
+    - liberal;
+    - extensive;
+    - to enlarge [[Kangxi: 大之也]];
+    - _(1)f(u/)i fuk(9)_
+        [[fui1 fuk6 恢復]]
+        to regain possession of.
+    ==
+  ====
+P
+  ++
+  1. Complete.
+  ++
+L
+  ====
+  * 【恢】 (khwoj)
+    ==
+    - (_verb-like_) [to] extend, [to] vasten
+    - (_adjective-like_) extensive, vast
+    - (_adjective-like_) complete
+    ==
+  ====
+$$
 
 ### 灰1 | _(1)F(u/)i_ [[fui1]]
 

@@ -3334,6 +3334,15 @@ window.onload = applyFilter;
       ==
   //
     , `khwoj`
+    , [恢](/entries/fui#rendering-恢)
+    ,
+      ==
+      - (_verb-like_) [to] extend, [to] vasten
+      - (_adjective-like_) extensive, vast
+      - (_adjective-like_) complete
+      ==
+  //
+    , `khwoj`
     , [魁](/entries/fui#rendering-魁)
     ,
       ==
