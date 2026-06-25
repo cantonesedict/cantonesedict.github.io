@@ -1040,7 +1040,7 @@ class CmdSource:
 
     @staticmethod
     def lint_cjk_non_bmp_composition(content: str):
-        whitelisted_primitives = '𠂉𠂢𠆢𠔿𠦄𠫓𡈼𤣩𥫗𦈢𦣝𦣞𦥑𧰼𧶠𧾷𨸏𩙿'
+        whitelisted_primitives = '𠂇𠂉𠂢𠆢𠔿𠦄𠫓𡈼𤣩𥫗𦈢𦣝𦣞𦥑𧰼𧶠𧾷𨸏𩙿'
         exempt_pattern = '|'.join([
             r'\{ \S = \S+? \}',
             r'\# cantonese - [⺀-〿㇀-㇯㐀-鿿豈-龎！-｠𠀀-𳑿]+',

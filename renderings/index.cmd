@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-06-20
+* %date-modified --> 2026-06-25
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -10173,6 +10173,14 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) vague, unclear
+      ==
+  //
+    , `xwoj`
+    , [灰](/entries/fui#rendering-灰)
+    ,
+      ==
+      - (_noun-like_) ash
+      - (_noun-like_) charcoal
       ==
   //
     , `xwon`

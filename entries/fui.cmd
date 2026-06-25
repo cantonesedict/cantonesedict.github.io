@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fui
-* %date-modified --> 2026-06-20
+* %date-modified --> 2026-06-25
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -47,10 +47,77 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $灰1
 - $魁1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 灰1 | _(1)F(u/)i_ [[fui1]]
+
+$$
+R
+  ⽕ + 2
+U
+  U+7070
+H
+  May appear as either ⿸𠂇火 (assumed here) or ⿸厂火,
+  depending on the font.
+F
+  ==
+  - (F2.80 灰) 火灰石灰
+  ==
+W
+  ====
+  - [[Page~62 (1)灰]]
+    ==
+    - Ashes [[Kangxi: 死火餘㶳也, 火之滅者爲灰]], ashy;
+    - lime;
+    - dust;
+    - to plaster;
+    - _(2)fo (1)f(u/)i_
+        [[fo2 fui1 火灰]],
+        wood-ashes;
+    - _t(')(a/)n(3) (1)f(u/)i_
+        [[taan3 fui1 炭灰]],
+        coal-ash;
+    - _shek(9) (1)f(u/)i_
+        [[sek6 fui1 石灰]],
+        stone lime;
+    - _(1)pan (4)long (1)f(u/)i_
+        [[ban1 long4 fui1 檳榔灰]],
+        betel lime;
+    - _(1)f(u/)i (2)tsun_
+        [[fui1 zeon2 灰燼]],
+        embers;
+    - _(4)ng(a/) (1)f(u/)i_
+        [[ngaa4 fui1 牙灰]],
+        tooth-powder;
+    - _(1)f(u/)i (4)ts(')(e/)ung_
+        [[fui1 coeng4 灰牆]],
+        to plaster a wall.
+    ==
+  ====
+C
+  ==
+  - Williams prints the headword as ⿸厂火,
+    which is compatibility ideograph U+2F835.
+  ==
+P
+  ++
+  1. Charcoal.
+  1. Grey.
+  1. Disheartened.
+  ++
+L
+  ====
+  * 【灰】 (xwoj)
+    ==
+    - (_noun-like_) ash
+    - (_noun-like_) charcoal
+    ==
+  ====
+$$
 
 ### 魁1 | _(1)F(u/)i_ [[fui1]]
 
