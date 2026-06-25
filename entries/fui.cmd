@@ -50,6 +50,7 @@ $$
 - $恢1
 - $悝1
 - $灰1
+- $虺1
 - $詼1
 - $魁1
 ==
@@ -195,6 +196,46 @@ L
     - (_noun-like_) charcoal
     ==
   ====
+$$
+
+### 虺1 | _(1)F(u/)i_ [[fui1]]
+
+$$
+R
+  ⾍ + 3
+U
+  U+867A
+F
+  ==
+  - (F2.80 虺) 虺隤馬罷病不能升高之病又音委
+  ==
+W
+  ====
+  - [[Page~62 (1)虺]]
+    ==
+    <## TODO: normalise to $虺wai2 (fui1 per 正韻呼回切)
+    - Noise, grunting [[Kangxi: 喧虺]];
+    ##>
+    - [[...]];
+    - _(1)f(u/)i (4)t(')(u/)i_
+        [[fui1 teoi4 虺隤]],
+        a jaded, sick horse [[Kangxi: 虺隤病也]].
+    ==
+    --
+    [[Otherwise, a reading variation (for the "rumbling" sense). **See $虺wai2 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+L
+  ====
+  * 【虺-level】 (xwoj, xweaj)
+    ==
+    - (_adjective-like_) jaded
+    ==
+  ====
+S
+  ==
+  - $虺wai2 (TODO)
+  ==
 $$
 
 ### 詼1 | _(1)F(u/)i_ [[fui1]]

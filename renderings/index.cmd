@@ -10184,12 +10184,26 @@ window.onload = applyFilter;
       - (_adjective-like_) vague, unclear
       ==
   //
+    , `xweaj`
+    , [虺~(level)](/entries/fui#rendering-虺-level)
+    ,
+      ==
+      - (_adjective-like_) jaded
+      ==
+  //
     , `xwoj`
     , [灰](/entries/fui#rendering-灰)
     ,
       ==
       - (_noun-like_) ash
       - (_noun-like_) charcoal
+      ==
+  //
+    , `xwoj`
+    , [虺~(level)](/entries/fui#rendering-虺-level)
+    ,
+      ==
+      - (_adjective-like_) jaded
       ==
   //
     , `xwon`
