@@ -126,6 +126,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $悄ciu2
       - $悤cung1
+      - $悝fui1
       ==
       </nav>
   //

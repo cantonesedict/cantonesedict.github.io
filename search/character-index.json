@@ -8311,6 +8311,12 @@
 "text":"U+6062 (F2.80 恢) 大也又恢復 (Page 62 恢) Great (Kangxi: 大也); liberal; extensive; to enlarge (Kangxi: 大之也); _fui fuk_ (fui1 fuk6 恢復) to regain possession of. Complete. 【恢】 (khwoj) (_verb-like_) to extend, to vasten (_adjective-like_) extensive, vast (_adjective-like_) complete"
 }
 },
+"悝":{
+"fui1":{
+"isCanonical":true,
+"text":"U+609D (F2.80 悝) 病憂也悲也大也又人名衞孔悝 (Page 62 悝) Used in personal names (Kangxi: 人名)."
+}
+},
 "灰":{
 "fui1":{
 "isCanonical":true,
@@ -8320,7 +8326,7 @@
 "詼":{
 "fui1":{
 "isCanonical":true,
-"text":"U+8A7C (F2.80 詼) 詼諧調戲也 (Page 62 詼) To play with, to laugh at (Kangxi: 調戲也, 譏戲也, 謔也嘲也); _fui siu_ (fui1 siu3 詼笑), to ridicule; _fui k'ek_ (fui1 kek6 詼劇) to gambol with; _fui hai_ (fui1 haai4 詼諧), to dally and jeer with."
+"text":"U+8A7C 悝 (F2.80 詼) 詼諧調戲也 (Page 62 詼) To play with, to laugh at (Kangxi: 調戲也, 譏戲也, 謔也嘲也); _fui siu_ (fui1 siu3 詼笑), to ridicule; _fui k'ek_ (fui1 kek6 詼劇) to gambol with; _fui hai_ (fui1 haai4 詼諧), to dally and jeer with."
 }
 },
 "魁":{

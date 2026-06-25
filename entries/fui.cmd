@@ -48,6 +48,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $恢1
+- $悝1
 - $灰1
 - $詼1
 - $魁1
@@ -92,6 +93,42 @@ L
     - (_adjective-like_) complete
     ==
   ====
+$$
+
+### 悝1 | _(1)F(u/)i_ [[fui1]]
+
+$$
+R
+  ⼼ + 7
+U
+  U+609D
+F
+  ==
+  - (F2.80 悝) 病憂也悲也大也又人名衞孔悝
+  ==
+W
+  ====
+  - [[Page~62 (1)悝]]
+    --
+    [[...]]
+    --
+    <## TODO: corrected to $悝lei5
+    ==
+    - To pity;
+    - afflicted, sad;
+    - infirm, invalided.
+    ==
+    ##>
+  ====
+P
+  ++
+  1. Used in personal names (Kangxi: 人名).
+  1. Alternative form of 詼 (Kangxi: 與詼通). See $詼fui1.
+  ++
+S
+  ==
+  - $悝lei5 (TODO) <## 憂也悲也疾也與里通 ##>
+  ==
 $$
 
 ### 灰1 | _(1)F(u/)i_ [[fui1]]
@@ -167,6 +204,10 @@ R
   ⾔ + 6
 U
   U+8A7C
+A
+  ==
+  - $悝1
+  ==
 F
   ==
   - (F2.80 詼) 詼諧調戲也
