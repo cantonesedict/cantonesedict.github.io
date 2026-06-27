@@ -58,6 +58,8 @@ def get_output(command: str) -> str:
 
 
 def main():
+    projected_entry_count = float(get_output("./lint.py | grep -Po '[0-9.]+(?= character entries projected)'"))
+
     sampling_size = 100
     latest_entry_commit_hash = get_output('git log -1  --format=%H -- entries/*.html')
     commit_hashes_all = get_output(f'git log --format=%H {latest_entry_commit_hash}').splitlines()
@@ -113,8 +115,7 @@ def main():
     tick_years = range(2024, 2030 + 1)
     tick_entry_counts = range(2000, 14000, 2000)
 
-    target_entry_count = 13000
-    y_target = y(entry_count=target_entry_count)
+    y_projected = y(entry_count=projected_entry_count)
 
     svg = '\n'.join([
         f'<?xml version="1.0" encoding="UTF-8"?>',
@@ -126,10 +127,10 @@ def main():
         f'circle {{fill: black}}',
         f'line, polyline {{stroke: black; stroke-width: {1 / svg_width_px :.4%}}}'
         f'polyline {{stroke: #cf1338}}'
-        f'line.target {{stroke: blue; stroke-dasharray: {10 / svg_width_px :.4%}}}',
+        f'line.projected {{stroke: blue; stroke-dasharray: {10 / svg_width_px :.4%}}}',
         f'polyline {{fill: none}}'
         f'text {{font-family: sans-serif; font-size: 1px; text-anchor: middle}}',
-        f'text.target {{fill: blue; font-size: 0.7px}}',
+        f'text.projected {{fill: blue; font-size: 0.7px}}',
         f'text.tick {{font-size: 0.7px}}',
         f'text.title {{fill: #cf1338; font-size: 1.1px}}',
         f'</style>',
@@ -160,10 +161,10 @@ def main():
                 y_tick := y(entry_count),
             )
         ],
-        # Target
-        f'<line class="target" x1="{x_min :.4f}" y1="{y_target :.4f}" x2="{x_max :.4f}" y2="{y_target :.4f}"/>',
-        f'<text class="target" x="{(x_min + x_max) / 2 :.4f}" y="{y_target :.4f}"'
-        f' dy="-0.5em">Approximate Target: {target_entry_count} entries</text>',
+        # Projected Total
+        f'<line class="projected" x1="{x_min :.4f}" y1="{y_projected :.4f}" x2="{x_max :.4f}" y2="{y_projected :.4f}"/>',
+        f'<text class="projected" x="{(x_min + x_max) / 2 :.4f}" y="{y_projected :.4f}"'
+        f' dy="-0.5em">Projected Total: {projected_entry_count} entries</text>',
         # Polyline
         f'''<polyline points="{
             ' '.join([
