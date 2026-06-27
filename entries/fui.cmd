@@ -12,12 +12,6 @@ OrdinaryDictionaryReplacement: #.properties-override
 
 #{.williams} F(u/)i. [[fui]]
 
-<nav class="sideways">
-=={.modern}
-- (Work in progress)
-==
-</nav>
-
 <## tones ##>
 <nav class="sideways">
 =={.modern}
