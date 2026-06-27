@@ -8362,13 +8362,19 @@
 "悔":{
 "fui3":{
 "isCanonical":true,
-"text":"U+6094 May appear as either ⿰忄每 (+7 assumed here) or ⿰忄毎 (+6), depending on the font. 𠧩 fui2 (per 《廣韻》呼罪切 for \"regret\" sense) (F2.82 悔) 心恨也又反悔 (Page 63 悔) To repent, to change (Kangxi: 悔恨也, 改也恨也); to regret (Kangxi: 悔吝也), vexed with one's self; ~~to explain the diagrams;~~ _fui han_ (fui3 han6 悔恨) remorse, contrition; _fui tsui_ (fui3 zeoi6 悔罪) to repent of sin; _fui koi_ (fui3 goi2 悔改), to reform; _mo fui_ (mou4 fui3 無悔) stubborn; _fui sam_ (fui3 sam1 悔心), compunction. Williams' \"to explain the diagrams\": This is a misreading of Kangxi 外卦曰𠧩 under 𠧩. Here, 外 means \"outer\", not \"explain\". Williams' 無悔: Or \"without regret\". The outer (i.e. upper) trigram of a hexagram (Kangxi 𠧩: 外卦曰𠧩內卦曰貞). 【悔-rising】 (xwojX) (_verb-like_) to regret 【悔-departing】 (xwojH) (_verb-like_) to repent (_noun-like_) outer-trigram"
+"text":"U+6094 May appear as either ⿰忄每 (+7 assumed here) or ⿰忄毎 (+6), depending on the font. 𠧩 fui2 (per 《廣韻》呼罪切 for \"regret\" sense) (F2.82 悔) 心恨也又反悔 (Page 63 悔) To repent, to change (Kangxi: 悔恨也, 改也恨也); to regret (Kangxi: 悔吝也), vexed with one's self; ~~to explain the diagrams;~~ _fui han_ (fui3 han6 悔恨) remorse, contrition; _fui tsui_ (fui3 zeoi6 悔罪) to repent of sin; _fui koi_ (fui3 goi2 悔改), to reform; _mo fui_ (mou4 fui3 無悔) stubborn; _fui sam_ (fui3 sam1 悔心), compunction. The form ⿰忄毎 is compatibility ideograph U+2F8A3. Williams' \"to explain the diagrams\": This is a misreading of Kangxi 外卦曰𠧩 under 𠧩. Here, 外 means \"outer\", not \"explain\". Williams' 無悔: Or \"without regret\". The outer (i.e. upper) trigram of a hexagram (Kangxi 𠧩: 外卦曰𠧩內卦曰貞). 【悔-rising】 (xwojX) (_verb-like_) to regret 【悔-departing】 (xwojH) (_verb-like_) to repent (_noun-like_) outer-trigram"
 }
 },
 "晦":{
 "fui3":{
 "isCanonical":true,
 "text":"U+6666 (F2.82 晦) 不明也又月盡謂之晦 (Page 63 晦) Obscure (Kangxi: 晦昧也), dark (Kangxi: 晦昏也); night (Kangxi: 晦夜也), the close of light (Kangxi: 晦晏也); the last day of the month (Kangxi: 月盡也 etc.); misty (Kangxi: 霧謂之晦), dim (Kangxi: 晦者何冥也); _fui hi_ (fui3 hei3 晦氣) lugubrious; _fui hi tau_ (fui3 hei3 dau1 晦氣兜), how unlucky! Fan Wan entry: Fixed missing stroke in 盡. 【晦】 (xwojH) (_noun-like_) month's-end (_adjective-like_) dark, obscure"
+}
+},
+"誨":{
+"fui3":{
+"isCanonical":true,
+"text":"U+8AA8 (F2.82 誨) 敎訓也 (Page 63 誨) To teach, to reiterate instruction (Kangxi: 曉敎也 etc.); to admonish, to give line upon line; to induce, to lead to; inviting; _kau fui_ (gaau3 fui3 教誨) to teach diligently. Fan Wan entry: Fixed missing strokes in 敎. 【誨】 (xwojH) (_verb-like_) to instruct, (_met._) to induce"
 }
 },
 "之":{

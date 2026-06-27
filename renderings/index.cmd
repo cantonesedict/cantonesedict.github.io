@@ -10229,6 +10229,13 @@ window.onload = applyFilter;
       - (_adjective-like_) dark, obscure
       ==
   //
+    , `xwojH`
+    , [誨](/entries/fui#rendering-誨)
+    ,
+      ==
+      - (_verb-like_) [to] instruct, (_met._) [to] induce
+      ==
+  //
     , `xwon`
     , [婚](/entries/fan#rendering-婚)
     ,

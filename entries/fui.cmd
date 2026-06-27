@@ -438,6 +438,7 @@ $$
 =={.modern}
 - $悔3
 - $晦3
+- $誨3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -490,6 +491,7 @@ W
   ====
 C
   ==
+  - The form ⿰忄毎 is compatibility ideograph U+2F8A3.
   - Williams' "to explain the diagrams":
     This is a misreading of Kangxi 外卦曰{𠧩=⿰每卜} under {𠧩=⿰每卜}.
     Here, 外 means "outer", not "explain".
@@ -550,6 +552,43 @@ L
     ==
     - (_noun-like_) month's-end
     - (_adjective-like_) dark, obscure
+    ==
+  ====
+$$
+
+### 誨3 | _F(u/)i(3)_ [[fui3]]
+
+$$
+R
+  ⾔ + 7
+U
+  U+8AA8
+F
+  ==
+  - (F2.82 誨) ::[敎]訓也::
+  ==
+W
+  ====
+  - [[Page~63 誨(3)]]
+    ==
+    - To teach, to reiterate instruction [[Kangxi: 曉敎也 etc.]];
+    - to admonish, to give line upon line;
+    - to induce, to lead to;
+    - inviting;
+    - _k(a/)u(3) f(u/)i(3)_
+        [[gaau3 fui3 教誨]]
+        to teach diligently.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed missing strokes in 敎.
+  ==
+L
+  ====
+  * 【誨】 (xwojH)
+    ==
+    - (_verb-like_) [to] instruct, (_met._) [to] induce
     ==
   ====
 $$

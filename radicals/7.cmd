@@ -223,6 +223,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $誚ciu3
+      - $誨fui3
       - $誌zi3
       - $誦zung6
       ==
