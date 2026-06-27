@@ -8347,6 +8347,12 @@
 "text":"U+8CC4 (F2.81 賄) 財賂也 (Page 62 賄) Fan Wan entry: Fixed missing and incomplete strokes in 財 and 賂."
 }
 },
+"鮪":{
+"fui2":{
+"isCanonical":false,
+"text":"U+9BAA (F2.81 鮪) 魚名 (Page 62 鮪)"
+}
+},
 "之":{
 "zaa1":{
 "isCanonical":true,

@@ -338,6 +338,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - ($賄2)
+- ($鮪2)
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -367,5 +368,29 @@ C
 S
   ==
   - $賄kui2 (TODO)
+  ==
+$$
+
+### 鮪2 | _(2)F(u/)i_ [[fui2]]
+
+$$.
+R
+  ⿂ + 6
+U
+  U+9BAA
+F
+  ==
+  - (F2.81 鮪) 魚名
+  ==
+W
+  ====
+  - [[Page~62 (2)鮪]]
+    --
+    [[Reading variation. **See $鮪kui2 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+S
+  ==
+  - $鮪kui2 (TODO)
   ==
 $$
