@@ -337,11 +337,36 @@ $$
 <## tone-2-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- ($洧2)
 - ($賄2)
 - ($鮪2)
 ==
 </nav>
 <## /tone-2-characters ##>
+
+### 洧2 | _(2)F(u/)i_ [[fui2]]
+
+$$.
+R
+  ⽔ + 6
+U
+  U+6D27
+F
+  ==
+  - (F2.81 洧) 溱洧二水名
+  ==
+W
+  ====
+  - [[Page~62 (2)洧]]
+    --
+    [[Reading variation. **See $洧kui2 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+S
+  ==
+  - $洧kui2 (TODO)
+  ==
+$$
 
 ### 賄2 | _(2)F(u/)i_ [[fui2]]
 
