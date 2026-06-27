@@ -3224,6 +3224,9 @@ class Linter:
         character_entry_count = len(self.character_entries)
         entry_character_ratio = character_entry_count / character_count
 
+        entry_page_ratio = character_entry_count / done_count
+        projected_character_entry_count = entry_page_ratio * entry_page_count
+
         added_count = sum(character_entry.is_added for character_entry in self.character_entries)
         present_count = character_entry_count - added_count
         added_fraction = added_count / character_entry_count
@@ -3243,6 +3246,12 @@ class Linter:
             f'  ================================',
             f'  - {done_count}/{entry_page_count} = {done_count / entry_page_count :.1%} done',
             f'  - {wip_count}/{entry_page_count} = {wip_count / entry_page_count :.1%} work in progress',
+            f'  ================================',
+            f'- {character_entry_count} character entries per {done_count} pages done'
+            f' = {entry_page_ratio :.2f} entries per page done',
+            f'  ================================',
+            f'  - {entry_page_ratio :.2f} * {entry_page_count}'
+            f' = {projected_character_entry_count :.1f} character entries projected',
             f'  ================================',
             f'- {character_entry_count} character entries per {character_count} characters'
             f' = {entry_character_ratio :.2f} entries per character',
