@@ -958,6 +958,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
+      - $晦fui3
       - {$晢zai3, $晢zit3}
       - $晣zai3
       - $晝zau3

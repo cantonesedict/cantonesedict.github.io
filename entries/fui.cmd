@@ -437,6 +437,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $悔3
+- $晦3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -508,6 +509,47 @@ L
     ==
     - (_verb-like_) [to] repent
     - (_noun-like_) outer-trigram
+    ==
+  ====
+$$
+
+### 晦3 | _F(u/)i(3)_ [[fui3]]
+
+$$
+R
+  ⽇ + 7
+U
+  U+6666
+F
+  ==
+  - (F2.82 晦) ::不明也又月[盡]謂之晦::
+  ==
+W
+  ====
+  - [[Page~63 晦(3)]]
+    ==
+    - Obscure [[Kangxi: 晦昧也]], dark [[Kangxi: 晦昏也]];
+    - night [[Kangxi: 晦夜也]], the close of light [[Kangxi: 晦晏也]];
+    - the last day of the month [[Kangxi: 月盡也 etc.]];
+    - misty [[Kangxi: 霧謂之晦]], dim [[Kangxi: 晦者何冥也]];
+    - _f(u/)i(3) h(i/)(3)_
+        [[fui3 hei3 晦氣]]
+        lugubrious;
+    - _f(u/)i(3) h(i/)(3) (1)tau_
+        [[fui3 hei3 dau1 晦氣兜]],
+        how unlucky!
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed missing stroke in 盡.
+  ==
+L
+  ====
+  * 【晦】 (xwojH)
+    ==
+    - (_noun-like_) month's-end
+    - (_adjective-like_) dark, obscure
     ==
   ====
 $$

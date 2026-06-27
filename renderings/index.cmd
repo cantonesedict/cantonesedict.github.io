@@ -10221,6 +10221,14 @@ window.onload = applyFilter;
       - (_noun-like_) outer-trigram
       ==
   //
+    , `xwojH`
+    , [晦](/entries/fui#rendering-晦)
+    ,
+      ==
+      - (_noun-like_) month's-end
+      - (_adjective-like_) dark, obscure
+      ==
+  //
     , `xwon`
     , [婚](/entries/fan#rendering-婚)
     ,
