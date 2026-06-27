@@ -3216,16 +3216,16 @@ class Linter:
         self.index_radicals()  # characters by radical
 
     def print_statistics(self):
-        entry_page_count = len(self.entry_pages)
+        page_count = len(self.entry_pages)
         done_count = sum(entry_page.is_done for entry_page in self.entry_pages)
-        wip_count = entry_page_count - done_count
+        wip_count = page_count - done_count
 
         character_count = len(set(character_entry.character for character_entry in self.character_entries))
         character_entry_count = len(self.character_entries)
         entry_character_ratio = character_entry_count / character_count
 
         entry_page_ratio = character_entry_count / done_count
-        projected_character_entry_count = entry_page_ratio * entry_page_count
+        projected_character_entry_count = entry_page_ratio * page_count
 
         added_count = sum(character_entry.is_added for character_entry in self.character_entries)
         present_count = character_entry_count - added_count
@@ -3242,18 +3242,18 @@ class Linter:
         print(Utilities.nested_newline_join([
             f'Statistics:',
             f'================================================================',
-            f'- {entry_page_count} entry pages',
+            f'- {page_count} pages',
             f'  ================================',
-            f'  - {done_count}/{entry_page_count} = {done_count / entry_page_count :.1%} done',
-            f'  - {wip_count}/{entry_page_count} = {wip_count / entry_page_count :.1%} work in progress',
+            f'  - {done_count}/{page_count} = {done_count / page_count :.1%} done',
+            f'  - {wip_count}/{page_count} = {wip_count / page_count :.1%} work in progress',
             f'  ================================',
-            f'- {character_entry_count} character entries per {done_count} pages done'
+            f'- {character_entry_count} entries per {done_count} pages done'
             f' = {entry_page_ratio :.2f} entries per page done',
             f'  ================================',
-            f'  - {entry_page_ratio :.2f} * {entry_page_count}'
-            f' = {projected_character_entry_count :.1f} character entries projected',
+            f'  - {entry_page_ratio :.2f} * {page_count}'
+            f' = {projected_character_entry_count :.1f} entries projected',
             f'  ================================',
-            f'- {character_entry_count} character entries per {character_count} characters'
+            f'- {character_entry_count} entries per {character_count} characters'
             f' = {entry_character_ratio :.2f} entries per character',
             f'  ================================',
             f'  - {present_count}/{character_entry_count} = {present_fraction :.1%} of headings present in Williams',

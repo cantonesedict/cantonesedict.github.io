@@ -58,7 +58,7 @@ def get_output(command: str) -> str:
 
 
 def main():
-    projected_entry_count = float(get_output("./lint.py | grep -Po '[0-9.]+(?= character entries projected)'"))
+    projected_entry_count = float(get_output("./lint.py | grep -Po '[0-9.]+(?= entries projected)'"))
 
     sampling_size = 100
     latest_entry_commit_hash = get_output('git log -1  --format=%H -- entries/*.html')
