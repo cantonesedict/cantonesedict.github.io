@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [fui1](#1)
 - [fui2](#2)
+- [fui3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -428,3 +429,85 @@ $$
 <## TODO: ($瞶kui2), $瞶gwai3 ##>
 <## TODO: $聵kui2 ##>
 <## TODO: $闠kui2 ##>
+
+
+##{#3 .williams} F(u/)i(3) [[fui3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $悔3
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 悔3 | _F(u/)i(3)_ [[fui3]]
+
+$$
+R
+  ⼼ + 7
+U
+  U+6094
+H
+  May appear as either ⿰忄每 (+7 assumed here) or ⿰忄毎 (+6),
+  depending on the font.
+A
+  ==
+  - {𠧩=⿰每卜}
+  ==
+V
+  ==
+  - fui2 (per 《廣韻》呼罪切 for "regret" sense)
+  ==
+F
+  ==
+  - (F2.82 悔) 心恨也又反悔
+  ==
+W
+  ====
+  - [[Page~63 悔(3)]]
+    ==
+    - To repent, to change [[Kangxi: 悔恨也, 改也恨也]];
+    - to regret [[Kangxi: 悔吝也]], vexed with one's self;
+    - ~~to explain the diagrams;~~
+    - _f(u/)i(3) han(6)_
+        [[fui3 han6 悔恨]]
+        remorse, contrition;
+    - _f(u/)i(3) ts(u/)i(6)_
+        [[fui3 zeoi6 悔罪]]
+        to repent of sin;
+    - _f(u/)i(3) (2)koi_
+        [[fui3 goi2 悔改]],
+        to reform;
+    - _(4)m(o\) f(u/)i(3)_
+        [[mou4 fui3 無悔]]
+        stubborn;
+    - _f(u/)i(3) (1)sam_
+        [[fui3 sam1 悔心]],
+        compunction.
+    ==
+  ====
+C
+  ==
+  - Williams' "to explain the diagrams":
+    This is a misreading of Kangxi 外卦曰{𠧩=⿰每卜} under {𠧩=⿰每卜}.
+    Here, 外 means "outer", not "explain".
+  - Williams' 無悔: Or "without regret".
+  ==
+P
+  ++
+  1. The outer (i.e. upper) trigram of a hexagram (Kangxi {𠧩=⿰每卜}: 外卦曰{𠧩=⿰每卜}內卦曰貞).
+  ++
+L
+  ====
+  * 【悔-rising】 (xwojX)
+    ==
+    - (_verb-like_) [to] regret
+    ==
+  * 【悔-departing】 (xwojH)
+    ==
+    - (_verb-like_) [to] repent
+    - (_noun-like_) outer-trigram
+    ==
+  ====
+$$

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zing
-* %date-modified --> 2026-06-16
+* %date-modified --> 2026-06-27
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -952,7 +952,7 @@ W
   ====
 P
   ++
-  1. The lower trigram of a hexagram (Kangxi: 內卦曰貞外卦曰悔).
+  1. The inner (i.e. lower) trigram of a hexagram (Kangxi: 內卦曰貞外卦曰悔).
   1. Resolved, resolute (Kangxi: 貞定也精定不動惑也).
   ++
 L

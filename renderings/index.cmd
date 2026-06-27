@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-06-25
+* %date-modified --> 2026-06-27
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -10204,6 +10204,21 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) jaded
+      ==
+  //
+    , `xwojX`
+    , [悔~(rising)](/entries/fui#rendering-悔-rising)
+    ,
+      ==
+      - (_verb-like_) [to] regret
+      ==
+  //
+    , `xwojH`
+    , [悔~(departing)](/entries/fui#rendering-悔-departing)
+    ,
+      ==
+      - (_verb-like_) [to] repent
+      - (_noun-like_) outer-trigram
       ==
   //
     , `xwon`

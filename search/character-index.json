@@ -8359,6 +8359,12 @@
 "text":"U+9BAA (F2.81 鮪) 魚名 (Page 62 鮪)"
 }
 },
+"悔":{
+"fui3":{
+"isCanonical":true,
+"text":"U+6094 May appear as either ⿰忄每 (+7 assumed here) or ⿰忄毎 (+6), depending on the font. 𠧩 fui2 (per 《廣韻》呼罪切 for \"regret\" sense) (F2.82 悔) 心恨也又反悔 (Page 63 悔) To repent, to change (Kangxi: 悔恨也, 改也恨也); to regret (Kangxi: 悔吝也), vexed with one's self; ~~to explain the diagrams;~~ _fui han_ (fui3 han6 悔恨) remorse, contrition; _fui tsui_ (fui3 zeoi6 悔罪) to repent of sin; _fui koi_ (fui3 goi2 悔改), to reform; _mo fui_ (mou4 fui3 無悔) stubborn; _fui sam_ (fui3 sam1 悔心), compunction. Williams' \"to explain the diagrams\": This is a misreading of Kangxi 外卦曰𠧩 under 𠧩. Here, 外 means \"outer\", not \"explain\". Williams' 無悔: Or \"without regret\". The outer (i.e. upper) trigram of a hexagram (Kangxi 𠧩: 外卦曰𠧩內卦曰貞). 【悔-rising】 (xwojX) (_verb-like_) to regret 【悔-departing】 (xwojH) (_verb-like_) to repent (_noun-like_) outer-trigram"
+}
+},
 "之":{
 "zaa1":{
 "isCanonical":true,
@@ -12210,7 +12216,7 @@
 "貞":{
 "zing1":{
 "isCanonical":true,
-"text":"U+8C9E 偵 (F1.68 貞) 正也潔也淸白也又易元亨利貞 (Page 18* 貞) To divine by shells (Kangxi: 卜問也); chaste, virtuous; pure, correct, moral (Kangxi: 貞正也); uncorrupted; well principled; _ching kit_ (zing1 git3 貞潔) chaste; _ping ching_ (bing1 zing1 冰貞), a pure woman; _ching tsit_ (zing1 zit3 貞節) a chaste widow; _ching lit_ (zing1 lit6 貞烈) inflexibly upright or virtuous. The lower trigram of a hexagram (Kangxi: 內卦曰貞外卦曰悔). Resolved, resolute (Kangxi: 貞定也精定不動惑也). 【貞】 (trjeng) (_verb-like_) to divine (_noun-like_) inner-trigram (_adjective-like_) correct, proper, (_met._) determined"
+"text":"U+8C9E 偵 (F1.68 貞) 正也潔也淸白也又易元亨利貞 (Page 18* 貞) To divine by shells (Kangxi: 卜問也); chaste, virtuous; pure, correct, moral (Kangxi: 貞正也); uncorrupted; well principled; _ching kit_ (zing1 git3 貞潔) chaste; _ping ching_ (bing1 zing1 冰貞), a pure woman; _ching tsit_ (zing1 zit3 貞節) a chaste widow; _ching lit_ (zing1 lit6 貞烈) inflexibly upright or virtuous. The inner (i.e. lower) trigram of a hexagram (Kangxi: 內卦曰貞外卦曰悔). Resolved, resolute (Kangxi: 貞定也精定不動惑也). 【貞】 (trjeng) (_verb-like_) to divine (_noun-like_) inner-trigram (_adjective-like_) correct, proper, (_met._) determined"
 }
 },
 "鉦":{
