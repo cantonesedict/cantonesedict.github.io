@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fui
-* %date-modified --> 2026-06-25
+* %date-modified --> 2026-06-27
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [fui1](#1)
+- [fui2](#2)
 ==
 </nav>
 <## /tones ##>
@@ -328,4 +329,43 @@ L
     - (_adjective-like_) great
     ==
   ====
+$$
+
+
+##{#2 .williams} (2)F(u/)i [[fui2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- ($賄2)
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 賄2 | _(2)F(u/)i_ [[fui2]]
+
+$$.
+R
+  ⾙ + 6
+U
+  U+8CC4
+F
+  ==
+  - (F2.81 賄) ::[財賂]也::
+  ==
+W
+  ====
+  - [[Page~62 (2)賄]]
+    --
+    [[Reading variation. **See $賄kui2 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed missing and incomplete strokes in 財 and 賂.
+  ==
+S
+  ==
+  - $賄kui2 (TODO)
+  ==
 $$
