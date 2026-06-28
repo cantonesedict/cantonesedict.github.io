@@ -51,6 +51,7 @@ $$
 - ($楅1)
 - $福1
 - $葍1
+- $蝠1
 - $輻1
 ==
 </nav>
@@ -253,6 +254,34 @@ L
     - (_noun-like_) whiteroot
     ==
   ====
+$$
+
+### 蝠1 | _Fuk(7)_ [[fuk1]]
+
+$$
+R
+  ⾍ + 9
+U
+  U+8760
+F
+  ==
+  - (F1.64 蝠) ::蝙蝠卽蝠飛[鼠]::
+  ==
+W
+  ====
+  - [[Page~63 蝠(7)]]
+    ==
+    - A bat [[Kangxi: 蝙蝠服翼]];
+    - _fuk(7) (4)sh(e/)_
+        [[fuk1 se4 蝮蛇]],
+        a venemous serpent;
+        _met._ a malignant heart.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Normalised ⿱白⿵𠘨⿻二丨 to 鼠.
+  ==
 $$
 
 ### 輻1 | _Fuk(7)_ [[fuk1]]

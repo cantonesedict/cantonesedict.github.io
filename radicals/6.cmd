@@ -1592,6 +1592,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - {$螆ci3, $螆zi1}
       - $蝌fo1
+      - $蝠fuk1
       ==
       </nav>
   //
