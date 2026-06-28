@@ -4317,6 +4317,13 @@ window.onload = applyFilter;
       ==
   //
     , `pjuwk`
+    , [福](/entries/fuk#rendering-福)
+    ,
+      ==
+      - (_noun-like_) blessing, happiness
+      ==
+  //
+    , `pjuwk`
     , [輻](/entries/fuk#rendering-輻)
     ,
       ==

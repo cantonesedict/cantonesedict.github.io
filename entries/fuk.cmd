@@ -48,6 +48,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $幅1
+- $福1
 - $輻1
 ==
 </nav>
@@ -107,6 +108,96 @@ S
   ==
   - $幅bik1 (TODO)
   ==
+$$
+
+### 福1 | _Fuk(7)_ [[fuk1]]
+
+$$
+R
+  ⽰ + 9
+U
+  U+798F
+V
+  ==
+  - fau3 (per 《集韻》敷救切 for "store" sense)
+  ==
+F
+  ==
+  - (F1.64 福) 祐也德也休也善也祥也百善之名也
+  ==
+W
+  ====
+  - [[Page~63 福(7)]]
+    ==
+    - Happiness, good fortune, lucky, felicity [[Kangxi: 祐也休也善也祥也]];
+    - to bless;
+    - a blessing, divine prosperity;
+    - good;
+    - provided with all things [[Kangxi: 福者備也]];
+    - sacrificial meats [[Kangxi: 祭祀胙肉曰福]];
+    - to store up [[Kangxi: 藏也]];
+    - ~~with;~~
+    - _n(a/)p(9) fuk(7)_
+        [[naap6 fuk1 納福]]
+        are you well?
+    - _(5)'ng fuk(7)_
+        [[ng5 fuk1 五福]]
+        the five blessings
+        (longevity, riches, ~~wealth, virtuous~~ ``honor, posterity``, and a natural death);
+    - _fuk(7) sh(i/)n(6)_
+        [[fuk1 sin6 福善]]
+        ~~blessed,~~ to bless the good;
+    - _fuk(7) (4)t(')(i/)n_
+        [[fuk1 tin4 福田]],
+        ancestors' fortune;
+    - _fuk(7) t(i/)(6)_
+        [[fuk1 dei6 福地]]
+        a lucky ~~grave-~~spot;
+    - _fuk(7) (4)shan_
+        [[fuk1 san4 福神]],
+        lares rustici, street gods;
+    - _m(a/)n(6) fuk(7)_
+        [[maan6 fuk1 萬福]]
+        your Honor (used by women);
+    - _fuk(7) h(i/)(3)_
+        [[fuk1 hei3 福氣]]
+        fleshy;
+    - _f(a/)t(8) fuk(7)_
+        [[faat3 fuk1 發福]]
+        to get fat;
+    - _(1)t(')(i/)m fuk(7) (1)t(')(i/)m shau(6)_
+        [[tim1 fuk1 tim1 sau6 添福添壽]]
+        may you be blessed and long-lived;
+    - _yat(7) l(o\)(6) fuk(7) (1)sing_
+        [[jat1 lou6 fuk1 sing1 一路福星]],
+        let a lucky star [light] your journey.
+    ==
+  - [[Page~715 福(7)]]
+    ==
+    - For "wealth, virtuous" in the list of five blessings,
+      read "honor, posterity;"
+    - there is some discrepancy respecting the particular blessings
+      included in the five.
+    ==
+  ====
+C
+  ==
+  - Williams' 福地: Not specific to graves.
+    Better rendered "blessed land", e.g. in 心田先祖種、福地後人耕.
+  - Williams' 萬福: Specifically, said by women when performing
+    the Chinese equivalent of a curtsey.
+  ==
+P
+  ++
+  1. A surname (Kangxi: 姓).
+  ++
+L
+  ====
+  * 【福】 (pjuwk)
+    ==
+    - (_noun-like_) blessing, happiness
+    ==
+  ====
 $$
 
 ### 輻1 | _Fuk(7)_ [[fuk1]]
