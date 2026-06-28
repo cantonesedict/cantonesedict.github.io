@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cung
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-06-28
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -1813,6 +1813,11 @@ W
     --
     [[Otherwise, an alternative form of 爞. **See $爞cung4 for the canonical entry.**]]
     --
+  - [[Page~715 (1)虺(1)虫]]
+    ==
+    - The second [[虫]] is used for 蟲 _(4)ch(')ung_ [[cung4]];
+    - [[...]].
+    ==
   ====
 P
   ++
