@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fui
-* %date-modified --> 2026-06-27
+* %date-modified --> 2026-06-28
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -172,6 +172,13 @@ W
         [[fui1 coeng4 灰牆]],
         to plaster a wall.
     ==
+  - [[Page~715 (1)灰]]
+    ==
+    - As a verb, to turn pale, to faint, to sink from amazement;
+    - _(1)sam (1)f(u/)i_
+        [[sam1 fui1 心灰]],
+        the heart turned to ashes, disheartened.
+    ==
   ====
 C
   ==
@@ -182,7 +189,6 @@ P
   ++
   1. Charcoal.
   1. Grey.
-  1. Disheartened.
   ++
 L
   ====
