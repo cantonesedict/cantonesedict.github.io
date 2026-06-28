@@ -48,6 +48,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $幅1
+- ($楅1)
 - $福1
 - $輻1
 ==
@@ -107,6 +108,30 @@ L
 S
   ==
   - $幅bik1 (TODO)
+  ==
+$$
+
+### 楅1 | _Fuk(7)_ [[fuk1]]
+
+$$.
+R
+  ⽊ + 9
+U
+  U+6945
+F
+  ==
+  - (F1.64 楅) 以橫木施之牛角使其不抵觸
+  ==
+W
+  ====
+  - [[Page~63 楅(7)]]
+    --
+    [[Reading variation. **See $楅bik1 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+S
+  ==
+  - $楅bik1 (TODO)
   ==
 $$
 
