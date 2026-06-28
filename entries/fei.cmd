@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fei
-* %date-modified --> 2026-06-12
+* %date-modified --> 2026-06-28
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -251,7 +251,10 @@ W
     [[...]]
     --
     --
-    ``To fly.`` The Fan Wan defines it, "~~famous.~~ ``prominently spreading,``" ``as a reputation.``
+    ``To fly.``
+    --
+    --
+    The Fan Wan defines it, "~~famous.~~ ``prominently spreading,``" ``as a reputation.``
     --
     --
     [[Alternative form of 飛. See $飛fei1.]]
