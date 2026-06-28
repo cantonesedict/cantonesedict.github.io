@@ -4324,6 +4324,13 @@ window.onload = applyFilter;
       ==
   //
     , `pjuwk`
+    , [葍](/entries/fuk#rendering-葍)
+    ,
+      ==
+      - (_noun-like_) whiteroot
+      ==
+  //
+    , `pjuwk`
     , [輻](/entries/fuk#rendering-輻)
     ,
       ==

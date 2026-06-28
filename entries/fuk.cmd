@@ -50,6 +50,7 @@ $$
 - $幅1
 - ($楅1)
 - $福1
+- $葍1
 - $輻1
 ==
 </nav>
@@ -221,6 +222,35 @@ L
   * 【福】 (pjuwk)
     ==
     - (_noun-like_) blessing, happiness
+    ==
+  ====
+$$
+
+### 葍1 | _Fuk(7)_ [[fuk1]]
+
+$$
+R
+  ⾋ + 9
+U
+  U+844D
+F
+  ==
+  - (F1.64 葍) 惡菜
+  ==
+W
+  ====
+  - [[Page~63 葍(7)]]
+    ==
+    - An edible vegetable with white roots,
+      size of the finger [[Kangxi: 大葉白華根如指正白可啖]],
+      found in Sh(a/)ntung [[山東]].
+    ==
+  ====
+L
+  ====
+  * 【葍】 (pjuwk)
+    ==
+    - (_noun-like_) whiteroot
     ==
   ====
 $$
