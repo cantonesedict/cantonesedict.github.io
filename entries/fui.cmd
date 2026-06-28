@@ -440,6 +440,7 @@ $$
 - $悔3
 - $晦3
 - $誨3
+- $靧3
 ==
 </nav>
 <## /tone-3-characters ##>
@@ -590,6 +591,31 @@ L
   * 【誨】 (xwojH)
     ==
     - (_verb-like_) [to] instruct, (_met._) [to] induce
+    ==
+  ====
+$$
+
+### 靧3 | _F(u/)i(3)_ [[fui3]]
+
+$$
+R
+  ⾯ + 12
+U
+  U+9767
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~715 靧(3)]]
+    ==
+    - To wash the face [[Kangxi: 洗面也]].
+    ==
+  ====
+L
+  ====
+  * 【靧】 (xwojH)
+    ==
+    - (_verb-like_) [to] wash [the] face
     ==
   ====
 $$
