@@ -81,7 +81,7 @@ W
         a frontier;
         a hem;
     - _sz'(3) fuk(7) (4)t(')au_
-        [[si3 fuk1 tau4-2 四幅頭]],
+        [[sei3 fuk1 tau4-2 四幅頭]],
         a set of four scrolls hung in halls.
     ==
     --
