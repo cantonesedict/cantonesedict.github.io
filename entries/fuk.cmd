@@ -21,6 +21,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <## tones ##>
 <nav class="sideways">
 =={.modern}
+- [fuk1](#1)
 ==
 </nav>
 <## /tones ##>
@@ -38,6 +39,55 @@ MP
   ==
   - fuk = [fok̚]
   ==
+$$
+
+
+##{#1 .williams} Fuk(7) [[fuk1 高陰入]]
+
+<## tone-1-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $輻1
+==
+</nav>
+<## /tone-1-characters ##>
+
+### 輻1 | _Fuk(7)_ [[fuk1]]
+
+$$
+R
+  ⾞ + 9
+U
+  U+8F3B
+F
+  ==
+  - (F1.64 ::[輻]::) ::[輻]輳::
+  ==
+W
+  ====
+  - [[Page~63 輻(7)]]
+    ==
+    - The spokes of a wheel [[Kangxi: 輪轑也, 輻謂輪中木之直指者]];
+    - _fuk(7) ts(')au(3)_
+        [[fuk1 cau3 輻輳]]
+        to collect (as at a metropolis), running together.
+    ==
+    --
+    [[Otherwise, an alternative form of 輹. **See $輹fuk1 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Corrected malformed headword 輻.
+  - In modern usage, used in 輻射 (radiation).
+  ==
+L
+  ====
+  * 【輻】 (pjuwk)
+    ==
+    - (_noun-like_) spoke
+    ==
+  ====
 $$
 
 <## TODO: $覆fuk1

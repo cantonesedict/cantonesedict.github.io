@@ -4307,6 +4307,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] wealthen
       ==
   //
+    , `pjuwk`
+    , [輻](/entries/fuk#rendering-輻)
+    ,
+      ==
+      - (_noun-like_) spoke
+      ==
+  //
     , `sa`
     , [傞](/entries/co#rendering-傞)
     ,
