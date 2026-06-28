@@ -4308,6 +4308,15 @@ window.onload = applyFilter;
       ==
   //
     , `pjuwk`
+    , [幅~(width)](/entries/fuk#rendering-幅-width)
+    ,
+      ==
+      - (_noun-like_) cloth-width, width
+      - (_noun-like_) hem
+      - (_verb-like_) (_met._) [to] limit
+      ==
+  //
+    , `pjuwk`
     , [輻](/entries/fuk#rendering-輻)
     ,
       ==

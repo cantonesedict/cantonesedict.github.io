@@ -47,10 +47,67 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $幅1
 - $輻1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 幅1 | _Fuk(7)_ [[fuk1]]
+
+$$
+R
+  ⼱ + 9
+U
+  U+5E45
+F
+  ==
+  - (F1.64 幅) ::布之一片曰一幅又[邊]幅::
+  ==
+W
+  ====
+  - [[Page~63 幅(7)]]
+    ==
+    - ~~A wide strip~~ ``The width`` of cloth [[Kangxi: 布帛廣也 etc.]];
+    - a roll of paper or cloth;
+    - a selvedge or hem;
+    - a border, a frontier;
+    - a classifier of maps, pictures, rolls, flags, walls, and cloth;
+    <## - leg-wrappers; ##> <## TODO: normalise to $幅bik1 ##>
+    - [[...]];
+    - _(1)p(i/)n fuk(7)_
+        [[bin1 fuk1 邊幅]]
+        a frontier;
+        a hem;
+    - _sz'(3) fuk(7) (4)t(')au_
+        [[si3 fuk1 tau4-2 四幅頭]],
+        a set of four scrolls hung in halls.
+    ==
+    --
+    [[Otherwise, a reading variation. **See $幅bik1 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed 邊.
+  - Williams' 邊幅: Metaphorically, one's appearance.
+  - In modern usage, used in the sense of "extent" or "amplitude",
+    as in 大幅, 升幅, 振幅, etc.
+  ==
+L
+  ====
+  * 【幅-width】 (pjuwk)
+    ==
+    - (_noun-like_) cloth-width, width
+    - (_noun-like_) hem
+    - (_verb-like_) (_met._) [to] limit
+    ==
+  ====
+S
+  ==
+  - $幅bik1 (TODO)
+  ==
+$$
 
 ### 輻1 | _Fuk(7)_ [[fuk1]]
 
