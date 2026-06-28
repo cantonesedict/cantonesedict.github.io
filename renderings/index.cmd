@@ -4331,6 +4331,14 @@ window.onload = applyFilter;
       ==
   //
     , `pjuwk`
+    , [腹](/entries/fuk#rendering-腹)
+    ,
+      ==
+      - (_noun-like_) belly
+      - (_verb-like_) [to] embrace
+      ==
+  //
+    , `pjuwk`
     , [葍](/entries/fuk#rendering-葍)
     ,
       ==

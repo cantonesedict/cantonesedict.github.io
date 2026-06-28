@@ -956,6 +956,7 @@ For all radicals, see [Index of characters by radical](./).
       <nav class="sideways">
       ==
       - $腸coeng4
+      - $腹fuk1
       - $腫zung2
       ==
       </nav>

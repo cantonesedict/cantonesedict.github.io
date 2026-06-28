@@ -50,6 +50,7 @@ $$
 - $幅1
 - ($楅1)
 - $福1
+- $腹1
 - $葍1
 - $蝠1
 - $蝮1
@@ -224,6 +225,68 @@ L
   * 【福】 (pjuwk)
     ==
     - (_noun-like_) blessing, happiness
+    ==
+  ====
+$$
+
+### 腹1 | _Fuk(7)_ [[fuk1]]
+
+$$
+R
+  ⾁ + 9
+U
+  U+8179
+F
+  ==
+  - (F1.64 腹) 腹心
+  ==
+W
+  ====
+  - [[Page~63 腹(7)]]
+    ==
+    - That which embraces;
+    - the belly, abdomen, bowels [[Kangxi: 肚也 etc.]];
+    - the seat of the mind;
+    - the affections;
+    - rich, thick [[Kangxi: 厚也]];
+    - intimate, dear;
+    - the earth [[Kangxi: 坤爲腹, 坤能包藏含容故爲腹也]];
+    - _fuk(7) (1)sam_
+        [[fuk1 sam1 腹心]],
+        beloved, dear;
+    - _fuk(7) ~~(1)f(i/)~~ ``(2)f(i/)``_
+        [[fuk1 fei2 腹誹]]~~,
+        refusing to tell~~;
+    - _fuk(7) t(a/)i(6)_
+        [[fuk1 daai6 腹大]]
+        ambitious``,`` talented;
+    - _(2)k(u/) fuk(7)_
+        [[gu2 fuk1 鼓腹]]
+        pot-bellied;
+    - _(4)wai fuk(7)_
+        [[wai4 fuk1 遺腹]]
+        a posthumous child;
+    - _~~(2)t(a/)n~~ ``(2)t(')(a/)n`` fuk(7)_
+        [[taan2 fuk1 坦腹]]
+        a son-in-law.
+    ==
+  ====
+C
+  ==
+  - Williams' 腹誹: Normalised _(1)f(i/)_ (fei1) to _(2)f(i/)_ (fei2).
+    Not refusing to tell, but disagreeing silently.
+  - Williams' 坦腹: Corrected _(2)t(a/)n_ (daan2) to _(2)t(')(a/)n_ (taan2).
+  ==
+P
+  ++
+  1. To embrace (Kangxi: 腹懷抱也).
+  ++
+L
+  ====
+  * 【腹】 (pjuwk)
+    ==
+    - (_noun-like_) belly
+    - (_verb-like_) [to] embrace
     ==
   ====
 $$
