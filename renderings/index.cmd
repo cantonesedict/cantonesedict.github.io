@@ -3774,6 +3774,13 @@ window.onload = applyFilter;
       - (_noun-like_) headdress
       ==
   //
+    , `phjuwk`
+    , [蝮](/entries/fuk#rendering-蝮)
+    ,
+      ==
+      - (_noun-like_) viper
+      ==
+  //
     , `phuwH`
     , [仆](/entries/fu#rendering-仆)
     ,

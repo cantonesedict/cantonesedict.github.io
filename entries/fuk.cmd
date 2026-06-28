@@ -52,6 +52,7 @@ $$
 - $福1
 - $葍1
 - $蝠1
+- $蝮1
 - $輻1
 ==
 </nav>
@@ -272,16 +273,66 @@ W
   - [[Page~63 蝠(7)]]
     ==
     - A bat [[Kangxi: 蝙蝠服翼]];
-    - _fuk(7) (4)sh(e/)_
-        [[fuk1 se4 蝮蛇]],
-        a venemous serpent;
-        _met._ a malignant heart.
+    - [[...]].
     ==
+    --
+    [[Otherwise, an alternative form of 蝮. **See $蝮fuk1 for the canonical entry.**]]
+    --
   ====
 C
   ==
   - Fan Wan entry: Normalised ⿱白⿵𠘨⿻二丨 to 鼠.
   ==
+$$
+
+### 蝮1 | _Fuk(7)_ [[fuk1]]
+
+$$
+R
+  ⾍ + 9
+U
+  U+876E
+A
+  ==
+  - $蝠1
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~63 蝠(7); here normalised to 蝮]]
+    ==
+    - [[...]];
+    - _fuk(7) (4)sh(e/)_
+        [[fuk1 se4 蝮蛇]],
+        a venemous serpent;
+        _met._ a malignant heart.
+    ==
+  - [[Page~63 蝮(7)]]
+    ==
+    - An adder, cobra, or venemous serpent, called in Canton
+      _~~f(a/)n(3)~~ ``f(a/)n(6)`` ~~(4)sh(i/)~~ ``(4)ch(')(i/)`` (4)t(')au_ [[faan6 ci4 tau4 飯匙頭]],
+      or 'rice-spoon head;'
+    - a locust before it flies [[Kangxi: 蝝蝮蜪, 蝗子未有翅者]];
+    - _fuk(7) (2)wai_
+        [[fuk1 wai2 蝮虺]],
+        a huge serpent [[Kangxi: 蝮虺博三寸首大如擘 etc.]].
+    ==
+  ====
+C
+  ==
+  - Williams' 飯匙頭: Corrected _f(a/)n(3)_ (faan3) to _f(a/)n(6)_ (faan6),
+    and changed _(4)sh(i/)_ (si4) to common reading _(4)ch(')(i/)_ (ci4).
+  - Williams' "a locust before it flies":
+    Note that Kangxi 蝝蝮蜪 is to be punctuated 蝝、蝮蜪.
+  ==
+L
+  ====
+  * 【蝮】 (phjuwk)
+    ==
+    - (_noun-like_) viper
+    ==
+  ====
 $$
 
 ### 輻1 | _Fuk(7)_ [[fuk1]]
