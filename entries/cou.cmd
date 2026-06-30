@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cou
-* %date-modified --> 2026-04-15
+* %date-modified --> 2026-06-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -91,6 +91,9 @@ W
         [[cou1 sam1 操心]],
         anxious, careworn.
     ==
+    --
+    [[Otherwise, a reading variation. **See $操cou3 for the canonical entry.**]]
+    --
   ====
 C
   ==
@@ -579,11 +582,15 @@ R
   ⼿ + 13
 U
   U+64CD
+V
+  ==
+  - cou1 (common)
+  ==
 F
   [[Not present]]
 W
   ====
-  - [[Page~586 (1)操 _(1)Ts(')(o\)_ (cou1); here corrected to _Ts(')(o\)(3)_ (cou3)]]
+  - [[Page~586 (1)操 _(1)Ts(')(o\)_ (cou1); here normalised to _Ts(')(o\)(3)_ (cou3)]]
     ==
     - [[...]];
     - a purpose, a design, self-imposed rule [[Kangxi: 所守也持念也, 所執持之志行也]];
