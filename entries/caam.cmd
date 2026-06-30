@@ -49,6 +49,7 @@ $$
 =={.modern}
 - $參1
 - ($叅1)
+- ($摻1)
 - $攙1
 - $篸1
 - $驂1
@@ -169,6 +170,28 @@ W
   ====
 $$
 
+###+ 摻1 | _(1)Ch(')(a/)m_ [[caam1]]
+
+$$.
+R
+  ⼿ + 11
+U
+  U+647B
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 攙 (for the "support" and "mix" senses). **See $攙caam1 for the canonical entry.**
+  ++
+S
+  ==
+  - $摻caam2
+  - $摻cim1
+  ==
+$$
+
 ###+ 攙1 | _(1)Ch(')(a/)m_ [[caam1]]
 
 $$
@@ -178,7 +201,7 @@ U
   U+6519
 A
   ==
-  - 摻 (for "support" and "mix" senses)
+  - $摻1 (for "support" and "mix" senses)
   ==
 V
   ==
@@ -433,6 +456,7 @@ L
   ====
 S
   ==
+  - ($摻caam1)
   - $摻cim1
   ==
 $$

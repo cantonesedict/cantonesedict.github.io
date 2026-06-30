@@ -955,6 +955,20 @@
 "text":"U+53C5 (F2.62 參) 參差不齊又干預也謀度也又音深 (F2.62 叅) 叅考叅拜上官論下官亦曰叅 (Page 553 參~~？~~``叅``)"
 }
 },
+"摻":{
+"caam1":{
+"isCanonical":false,
+"text":"U+647B"
+},
+"caam2":{
+"isCanonical":true,
+"text":"U+647B saam2 (per 《廣韻》所斬切) (F2.64 摻) 羅而取之 (Page 554 摻) to take up with the hand (Kangxi: 取也一曰執也). 【摻】 (sreamX) (_verb-like_) to take (hold)"
+},
+"cim1":{
+"isCanonical":true,
+"text":"U+647B saam1 (per 《廣韻》所咸切) (F2.47 摻) 與纖同又音覽 (Page 554 摻 _Ts'am_ (caam2); here corrected to _Ts'im_ (cim1)) A delicate hand (Kangxi: 女手貌), a hand with tapering fingers; fine, tapering, small; The reading _ts'im_ (cim1) is not unattested; 《集韻》 has the reading 思廉切, explained 摻摻女好手貌."
+}
+},
 "攙":{
 "caam1":{
 "isCanonical":true,
@@ -1005,16 +1019,6 @@
 "caam2":{
 "isCanonical":false,
 "text":"U+22856 (F2.64 𢡖) 酷毒也愁戚也甚也 (F2.64 慘) 同上 (Page 554 慘𢡖)"
-}
-},
-"摻":{
-"caam2":{
-"isCanonical":true,
-"text":"U+647B saam2 (per 《廣韻》所斬切) (F2.64 摻) 羅而取之 (Page 554 摻) to take up with the hand (Kangxi: 取也一曰執也). 【摻】 (sreamX) (_verb-like_) to take (hold)"
-},
-"cim1":{
-"isCanonical":true,
-"text":"U+647B saam1 (per 《廣韻》所咸切) (F2.47 摻) 與纖同又音覽 (Page 554 摻 _Ts'am_ (caam2); here corrected to _Ts'im_ (cim1)) A delicate hand (Kangxi: 女手貌), a hand with tapering fingers; fine, tapering, small; The reading _ts'im_ (cim1) is not unattested; 《集韻》 has the reading 思廉切, explained 摻摻女好手貌."
 }
 },
 "儳":{
