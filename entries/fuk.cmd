@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fuk
-* %date-modified --> 2026-06-28
+* %date-modified --> 2026-06-30
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -54,6 +54,7 @@ $$
 - $葍1
 - $蝠1
 - $蝮1
+- $覆1
 - $輻1
 ==
 </nav>
@@ -398,6 +399,116 @@ L
   ====
 $$
 
+### 覆1 | _Fuk(7)_ [[fuk1]]
+
+$$
+R
+  ⾑ + 12
+U
+  U+8986
+H
+  May appear as either ⿱襾復 or ⿱覀復 (assumed here),
+  depending on the font.
+V
+  ==
+  - fau3 (per 《廣韻》敷救切 for "overspread" sense)
+  - fau6 (per 《廣韻》扶富切 for "waylay" sense and Fan Wan for "overspread" sense)
+  ==
+F
+  ==
+  - (F1.56 覆 _Fau(6)_ (fau6)) 天覆地載葢也
+  - (F1.64 覆) 反覆
+  ==
+W
+  ====
+  - [[Page~52 覆(6) _Fau(6)_ (fau6); here normalised to _Fuk(7)_ (fuk1)]]
+    ==
+    - To cover, to overshadow [[Kangxi: 蓋也]];
+    - to brood, as a hen;
+    - to overspread;
+    - _(1)t(')(i/)n ~~fau(6)~~ ``fuk(7)`` t(i/)(6) tsoi(3)_
+        [[tin1 fuk1 dei6 zoi3 天覆地載]]
+        the heaven covers and earth ~~contains~~ ``carries``;
+    - _(1)kai (2)n(a/) ~~fau(6)~~ ``fuk(7)`` (2)tsai_
+        [[gai1 naa2 fuk1 zai2 雞乸覆仔]],
+        the hen covers her chickens.
+    ==
+  - [[Page~63 覆(7)]]
+    ==
+    - To and fro, to repeat, back and forth [[Kangxi: 反覆也]];
+    - unstable, unsettled;
+    - to subvert, to overthrow [[Kangxi: 倒也]];
+    - to defeat [[Kangxi: 覆軍敗也]];
+    - to throw down, to upset~~, to prostrate~~;
+    - to judge [[Kangxi: 審也, 詳察曰覆]];
+    - _(1)k(')ing fuk(7)_
+        [[king1 fuk1 傾覆]]
+        defeated, tumbled down, ruined;
+    - _(1)t(i/)n fuk(7)_
+        [[din1 fuk1 顛覆]]
+        reduced to poverty, reprobate;
+    - _(5)m(a/) ~~(4)t(')s(i/)n~~ ``(4)ts(')(i/)n`` fuk(7) (2)shui_
+        [[maa5 cin4 fuk1 seoi2 馬前覆水]],
+        impossible;
+    - _fuk(7) p(a/)k(9)_
+        [[fuk1 baak6 覆白]]
+        ~~to understand clearly~~.
+    ==
+  ====
+C
+  ==
+  - Williams' "to judge": Better rendered "to examine" or "to review".
+  - Williams' 顛覆: Or, to subvert, to overthrow.
+  - Williams' 馬前覆水: Less common than 覆水難收.
+  - Williams' 覆白: I am not convinced that this means "to understand clearly".
+  - 《廣韻》 has four headline readings:
+    ++
+    1. 敷救切 _fau(3)_ (fau3) for the "overspread" sense;
+    2. 扶富切 _fau(6)_ (fau6) for the "waylay" sense;
+    3. 芳福切 _fuk(7)_ (fuk1) for the "overturn" sense; and
+    4. 匹北切 _p(')ak(7)_ (pak1) without explanation.
+    ++
+    The explanations for the first and third readings
+    (i.e. _fau(3)_ (fau3) and _fuk(7)_ (fuk1)) refer to each other.
+    It is unclear whether these are intended as mere cross-references
+    or as genuine alternatives for those two senses.
+  - Fan Wan _fau(6)_ (fau6) for the "overspread" sense is not strictly correct,
+    and ought to be _fau(3)_ (fau3) if one insists on the departing tone.
+  - According to 段玉裁's annotations of 《說文》, the "overspread" and "overturn" senses
+    have the same olden reading 芳福切 _fuk(7)_ (fuk1),
+    and distinguishing 敷救切 _fau(3)_ (fau3) for the "overspread" sense
+    is a southern reading (南音).
+  ==
+P
+  ++
+  1. To waylay (Kangxi: 伏兵曰覆).
+  1. To reply.
+  1. Conversely.
+  ++
+L
+  ====
+  * 【覆-voiced】 (bjuwH)
+    ==
+    - (_verb-like_) [to] waylay
+    ==
+  * 【覆-unvoiced】 (phjuwH)
+    ==
+    - (_verb-like_) [to] overspread
+    ==
+  * 【覆-entering】 (phjuwk)
+    ==
+    - (_verb-like_) [to] overturn, [to] overthrow
+    - (_verb-like_) [to] reply
+    - (_adverb-like_) conversely
+    - Used in [反覆](/entries/fuk#rendering-反覆).
+    ==
+  * 【反覆】 (pjonX phjuwk)
+    ==
+    - (_adverb-like_) back [and] over, (_met._) over [and] over, back [and] forth
+    ==
+  ====
+$$
+
 ### 輻1 | _Fuk(7)_ [[fuk1]]
 
 $$
@@ -435,54 +546,3 @@ L
     ==
   ====
 $$
-
-<## TODO: $覆fuk1
-R
-  ⾑ + 12
-U
-  U+8986
-V
-  ==
-  - fau3 (per 《廣韻》敷救切 for "cover" sense)
-  - fau6 (per 《廣韻》扶富切 for "soldiers-lying-in-wait" sense)
-  ==
-F
-  ==
-  - (F1.56 覆 _Fau(6)_ (fau6)) 天覆地載葢也
-  ==
-W
-  ====
-  - [[Page~52 覆(6) _Fau(6)_ (fau6); here corrected to _Fau(3)_ (fau3) and normalised to _Fuk(7)_ (fuk1)]]
-    ==
-    - To cover, to overshadow;
-    - to brood, as a hen;
-    - to overspread;
-    - _(1)t(')(i/)n ~~fau(6)~~ ``fuk(7)`` t(i/)(6) tsoi(3)_
-        [[tin1 fuk1 dei6 zoi3 天覆地載]]
-        the heaven covers and earth ~~contains~~ ``carries``;
-    - _(1)kai (2)n(a/) ~~fau(6)~~ ``fuk(7)`` (2)tsai_
-        [[gai1 naa2 fuk1 zai2 雞乸覆仔]],
-        the hen covers her chickens.
-    ==
-  ====
-C
-  ==
-  - 《廣韻》 has four headline readings:
-    ++
-    1. 敷救切 _fau(3)_ (fau3) for the "cover" sense;
-    2. 扶富切 _fau(6)_ (fau6) for the "soldiers-lying-in-wait" sense;
-    3. 芳福切 _fuk(7)_ (fuk1) for the "overturn" sense; and
-    4. 匹北切 _p(')ak(7)_ (pak1) without explanation.
-    ++
-    The explanations for the first and third readings
-    (i.e. _fau(3)_ (fau3) and _fuk(7)_ (fuk1)) refer to each other.
-    It is unclear whether these are intended as mere cross-references
-    or as genuine alternatives for those two senses.
-  - In any case, Fan Wan _fau(6)_ (fau6) for the "cover" sense is incorrect,
-    and should be _fau(3)_ (fau3) if one insists on the departing tone.
-  - According to 段玉裁's annotations of 《說文》, the "cover" and "overturn" senses
-    have the same olden reading 芳福切 _fuk(7)_ (fuk1),
-    and distinguishing 敷救切 _fau(3)_ (fau3) for the "cover" sense
-    is a southern reading (南音).
-  ==
-##>

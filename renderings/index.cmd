@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-06-28
+* %date-modified --> 2026-06-30
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -968,6 +968,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) locust, bush-cricket
+      ==
+  //
+    , `bjuwH`
+    , [覆~(voiced)](/entries/fuk#rendering-覆-voiced)
+    ,
+      ==
+      - (_verb-like_) [to] waylay
       ==
   //
     , `bjuwng`
@@ -3774,11 +3781,28 @@ window.onload = applyFilter;
       - (_noun-like_) headdress
       ==
   //
+    , `phjuwH`
+    , [覆~(unvoiced)](/entries/fuk#rendering-覆-unvoiced)
+    ,
+      ==
+      - (_verb-like_) [to] overspread
+      ==
+  //
     , `phjuwk`
     , [蝮](/entries/fuk#rendering-蝮)
     ,
       ==
       - (_noun-like_) viper
+      ==
+  //
+    , `phjuwk`
+    , [覆~(entering)](/entries/fuk#rendering-覆-entering)
+    ,
+      ==
+      - (_verb-like_) [to] overturn, [to] overthrow
+      - (_verb-like_) [to] reply
+      - (_adverb-like_) conversely
+      - Used in [反覆](/entries/fuk#rendering-反覆).
       ==
   //
     , `phuwH`
@@ -3970,6 +3994,7 @@ window.onload = applyFilter;
       - (_verb-like_) [to] turn (over), [to] turn (back)
       - (_verb-like_) [to] revolt
       - (_adverb-like_) contrariwise
+      - Used in [反覆](/entries/fuk#rendering-反覆).
       ==
   //
     , `pjonX`
@@ -3977,6 +4002,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] turn (back)
+      ==
+  //
+    , `pjonX phjuwk`
+    , [反覆](/entries/fuk#rendering-反覆)
+    ,
+      ==
+      - (_adverb-like_) back [and] over, (_met._) over [and] over, back [and] forth
       ==
   //
     , `pjonH`

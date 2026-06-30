@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> faan
-* %date-modified --> 2026-05-16
+* %date-modified --> 2026-06-30
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -748,6 +748,7 @@ L
     - (_verb-like_) [to] turn (over), [to] turn (back)
     - (_verb-like_) [to] revolt
     - (_adverb-like_) contrariwise
+    - Used in [反覆](/entries/fuk#rendering-反覆).
     ==
   ====
 S
