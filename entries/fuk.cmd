@@ -406,9 +406,6 @@ R
   ⾑ + 12
 U
   U+8986
-H
-  May appear as either ⿱襾復 or ⿱覀復 (assumed here),
-  depending on the font.
 V
   ==
   - fau3 (per 《廣韻》敷救切 for "overspread" sense)
