@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceoi
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-06-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -696,6 +696,7 @@ A
 V
   ==
   - ceoi3 (per 《廣韻》七句切)
+  - cou2 (uncommon vernacular)
   ==
 F
   ==
@@ -719,7 +720,7 @@ W
         to take a wife;
     - _~~ts(')(u:)(3)~~ ``(2)ts(')(u:)`` (1)san (5)f(u/)_ [[ceoi2 san1 fu5 娶新婦]]^
         or
-      _~~ts(')(u:)(3)~~ ``(2)ts(')(u:)`` ~~(1)sam~~ ``(1)san`` (5)p(')(o\)_ [[ceoi2 san1 pou5 娶新婦]],
+      _~~(2)ts(')(o\)~~ ``(2)ts(')(u:)`` ~~(1)sam~~ ``(1)san`` (5)p(')(o\)_ [[ceoi2 san1 pou5 娶新婦]],
         ~~somebady~~ ``a son`` marrying;
     - _(4)wing ~~ts(')(u:)(3)~~ ``(2)ts(')(u:)`` (4)'m (4)ts(')ang_
         [[wing4 ceoi2 m4 cang4 榮娶唔曾]],
@@ -733,7 +734,7 @@ W
 C
   ==
   - Williams' 娶新婦 (second occurrence):
-    Corrected _(2)ts(')(o\)_ (cou2) to _(2)ts(')(u:)_ (ceoi2)
+    Normalised _(2)ts(')(o\)_ (cou2) to _(2)ts(')(u:)_ (ceoi2)
     and corrected _(1)sam_ (sam1) to _(1)san_ (san1).
   ==
 L
