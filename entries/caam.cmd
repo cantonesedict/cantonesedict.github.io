@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caam
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-06-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -176,6 +176,10 @@ R
   ⼿ + 17
 U
   U+6519
+A
+  ==
+  - 摻 (for "support" and "mix" senses)
+  ==
 V
   ==
   - caam4 (per 《廣韻》士咸切 for "stab" sense)
@@ -207,6 +211,10 @@ C
     explained both "stab" (刺也) and "arm-support" (一曰扶也).
     It is possible that Williams has mistakenly parsed 楚銜切 as 陽平 rather than 陰平.
   ==
+P
+  ++
+  1. To mix, to blend.
+  ++
 S
   ==
   - ($攙caam4)
