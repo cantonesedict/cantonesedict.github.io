@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zeoi
-* %date-modified --> 2026-04-08
+* %date-modified --> 2026-06-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -296,7 +296,7 @@ U
   U+82F4
 V
   ==
-  - ceoi1 (per 《廣韻》七余切 for "grass-insole" sense and per 《集韻》千余切 for "hempseed" sense)
+  - ceoi1 (per 《廣韻》七余切 for "grass-insole" sense and 《集韻》千余切 for "hempseed" sense)
   - zeoi2 (per 《廣韻》子與切 for "grass-insole" sense)
   ==
 F

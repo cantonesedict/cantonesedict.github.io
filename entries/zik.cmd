@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2026-06-19
+* %date-modified --> 2026-06-30
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -2056,7 +2056,7 @@ A
 V
   ==
   - ze3 (common for "mat" and "borrow" senses)
-  - ze6 (per 《廣韻》慈夜切 for "mat" and "borrow" senses and per Kangxi 慈夜切 for "generous" sense)
+  - ze6 (per 《廣韻》慈夜切 for "mat" and "borrow" senses and Kangxi 慈夜切 for "generous" sense)
   ==
 F
   ==
