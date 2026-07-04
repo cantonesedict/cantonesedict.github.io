@@ -176,6 +176,7 @@ U
 V
   ==
   - fau3 (per 《集韻》敷救切 for "store" sense)
+  - fu3 (per 《集韻》敷救切 for "store" sense)
   ==
 F
   ==
@@ -484,6 +485,7 @@ V
   ==
   - fau3 (per 《廣韻》敷救切 for "overspread" sense)
   - fau6 (per 《廣韻》扶富切 for "waylay" sense and Fan Wan for "overspread" sense)
+  - fu3 (per 《廣韻》敷救切 for "overspread" sense)
   ==
 F
   ==
@@ -532,7 +534,7 @@ C
   - Williams' 覆白: I am not convinced that this means "to understand clearly".
   - 《廣韻》 has four headline readings:
     ++
-    1. 敷救切 _fau(3)_ (fau3) for the "overspread" sense;
+    1. 敷救切 _fau(3)_ (fau3) or _f(u/)(3)_ (fu3) for the "overspread" sense;
     2. 扶富切 _fau(6)_ (fau6) for the "waylay" sense;
     3. 芳福切 _fuk(7)_ (fuk1) for the "overturn" sense; and
     4. 匹北切 _p(')ak(7)_ (pak1) without explanation.
@@ -545,7 +547,7 @@ C
     and ought to be _fau(3)_ (fau3) if one insists on the departing tone.
   - According to 段玉裁's annotations of 《說文》, the "overspread" and "overturn" senses
     have the same olden reading 芳福切 _fuk(7)_ (fuk1),
-    and distinguishing 敷救切 _fau(3)_ (fau3) for the "overspread" sense
+    and distinguishing 敷救切 _fau(3)_ (fau3) or _f(u/)(3)_ (fu3) for the "overspread" sense
     is a southern reading (南音).
   - The sense of "reply" (see below) appears to be modern.
     For the classical word meaning "reply", see $復fuk6.
