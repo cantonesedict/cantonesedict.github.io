@@ -993,6 +993,16 @@ window.onload = applyFilter;
       ==
   //
     , `bjuwk`
+    , [伏~(entering)](/entries/fuk#rendering-伏-entering)
+    ,
+      ==
+      - (_verb-like_) [to] (lie) prostrate
+      - (_verb-like_) [to] lie hidden, [to] ambush
+      - (_verb-like_) [to] submit
+      - (_verb-like_) [to] subject
+      ==
+  //
+    , `bjuwk`
     , [復~(entering)](/entries/fuk#rendering-復-entering)
     ,
       ==

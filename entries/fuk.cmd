@@ -727,6 +727,16 @@ P
   1. To submit (Kangxi: 屈服也).
   1. A surname (Kangxi: 姓).
   ++
+L
+  ====
+  * 【伏-entering】 (bjuwk)
+    ==
+    - (_verb-like_) [to] (lie) prostrate
+    - (_verb-like_) [to] lie hidden, [to] ambush
+    - (_verb-like_) [to] submit
+    - (_verb-like_) [to] subject
+    ==
+  ====
 S
   ==
   - ($伏buk6) (TODO)
