@@ -720,6 +720,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $伏6
+- $匐6
 - $復6
 - $服6
 - $茯6
@@ -763,16 +764,13 @@ W
     - _fuk(9) mong(6)_
         [[fuk6 mong6 伏望]]
         I hope;
-    - _(4)p(')(o\) fuk(9)_
-        [[pou4 fuk6 匍匐]] <## TODO: move under $匐fuk6 ##>
-        to go on the hands and knees, humbly;
     - [[...]].
     ==
     --
     [[Alternative form of 服 (for the "submit" sense). See $服fuk6.]]
     --
     --
-    [[Otherwise, an alternative form of 匐. **See $匐fuk6 for the canonical entry.**]] [[TODO]]
+    [[Otherwise, an alternative form of 匐. **See $匐fuk6 for the canonical entry.**]]
     --
   ====
 C
@@ -798,6 +796,66 @@ S
   ==
   - ($伏buk6) (TODO)
   - $伏fau6
+  ==
+$$
+
+###+ 匐6 | _Fuk(9)_ [[fuk6]]
+
+$$
+R
+  ⼓ + 9
+U
+  U+5310
+A
+  ==
+  - $伏6
+  - $服6
+  ==
+V
+  ==
+  - baak6 (alternative per 《廣韻》蒲北切)
+  ==
+F
+  ==
+  - (F2.89 匐 _P(a/)k(9)_ (baak6)) ::[匍]匐手足並行之貌::
+  ==
+W
+  ====
+  - [[Page~64 伏(9); here normalised to 匐]]
+    ==
+    - [[...]];
+    - _(4)p(')(o\) fuk(9)_
+        [[pou4 fuk6 匍匐]]
+        to go on the hands and knees, humbly;
+    - [[...]].
+    ==
+  - [[Page~64 匐(9) _P(a/)k(9)_ (baak6)]]
+    ==
+    - To fall prostrate [[Kangxi: 伏地也]];
+    - _(4)p(')(o\) p(a/)k(9)_
+        [[pou4 baak6 匍匐]]
+        to crawl, as children [[Kangxi: 兒以手行也]], or when making prostration to the emperor;
+        to hasten to a friend in case of need---so as to relieve him [[Kangxi: 盡力奔趨往也]].
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed 匍.
+  ==
+L
+  ====
+  * 【匐】 (bjuwk, bok)
+    ==
+    - Used in [匍匐](/entries/fuk#rendering-匍匐).
+    ==
+  * 【匍匐】 (bu bjuwk, bu bok)
+    ==
+    - (_verb-like_) [to] crawl
+    ==
+  ====
+S
+  ==
+  - ($匐baak6) (TODO)
   ==
 $$
 
@@ -938,7 +996,7 @@ W
         an official cap.
     ==
     --
-    [[Otherwise, an alternative form of 匐. **See $匐fuk6 for the canonical entry.**]] [[TODO]]
+    [[Otherwise, an alternative form of 匐. **See $匐fuk6 for the canonical entry.**]]
     --
   - [[Page~64 伏(9); here normalised to 服]]
     ==

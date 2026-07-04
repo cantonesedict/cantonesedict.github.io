@@ -759,6 +759,14 @@ For all radicals, see [Index of characters by radical](./).
       - $匆cung1
       ==
       </nav>
+  //
+    , 9
+    ,
+      <nav class="sideways">
+      ==
+      - $匐fuk6
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⼓-characters ##>

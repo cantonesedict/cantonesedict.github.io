@@ -1010,6 +1010,13 @@ window.onload = applyFilter;
       ==
   //
     , `bjuwk`
+    , [匐](/entries/fuk#rendering-匐)
+    ,
+      ==
+      - Used in [匍匐](/entries/fuk#rendering-匍匐).
+      ==
+  //
+    , `bjuwk`
     , [復~(entering)](/entries/fuk#rendering-復-entering)
     ,
       ==
@@ -1056,6 +1063,27 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] fall prostrate
+      ==
+  //
+    , `bok`
+    , [匐](/entries/fuk#rendering-匐)
+    ,
+      ==
+      - Used in [匍匐](/entries/fuk#rendering-匍匐).
+      ==
+  //
+    , `bu bjuwk`
+    , [匍匐](/entries/fuk#rendering-匍匐)
+    ,
+      ==
+      - (_verb-like_) [to] crawl
+      ==
+  //
+    , `bu bok`
+    , [匍匐](/entries/fuk#rendering-匍匐)
+    ,
+      ==
+      - (_verb-like_) [to] crawl
       ==
   //
     , `downg`
