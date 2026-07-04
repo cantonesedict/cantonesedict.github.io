@@ -664,11 +664,75 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $伏6
 - $復6
 - $服6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 伏6 | _Fuk(9)_ [[fuk6]]
+
+$$
+R
+  ⼈ + 4
+U
+  U+4F0F
+V
+  ==
+  - buk6 (vernacular)
+  ==
+F
+  ==
+  - (F1.66 伏) ::偃也匿也[潛]也[伺]也::
+  ==
+W
+  ====
+  - [[Page~64 伏(9)]]
+    ==
+    - To lie or fall prostrate;
+    - to humble, to subject, to oppress;
+    - to hide, to conceal, to abscond [[Kangxi: 匿藏也]];
+    - to brood; <## TODO: correct to $伏fau6 ##>
+    - to acknowledge, to confess;
+    - used as an adverb, meaning humbly, in my opinion;
+    - _(4)m(a/)i fuk(9)_
+        [[maai4 fuk6 埋伏]]
+        an ambush;
+    - _(1)sh(u:) fuk(9)_
+        [[syu1 fuk6 舒伏]]
+        in good spirits;
+    - _(1)s(a/)m fuk(9)_
+        [[saam1 fuk6 三伏]]
+        hot weather, midsummer [[Kangxi: 三伏 etc.]];
+    - _fuk(9) mong(6)_
+        [[fuk6 mong6 伏望]]
+        I hope;
+    - _(4)p(')(o\) fuk(9)_
+        [[pou4 fuk6 匍匐]] <## TODO: move under $匐fuk6 ##>
+        to go on the hands and knees, humbly;
+    - _(1)sam fuk(9)_
+        [[sam1 fuk6 心服]] <## TODO: move under $服fuk6 ##>
+        to respect or acknowledge another's talents.
+    ==
+    --
+    [[Otherwise, an alternative form of 匐. **See $匐fuk6 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed incomplete strokes in 潛, and corrected 何 to 伺.
+  ==
+P
+  ++
+  1. To submit (Kangxi: 屈服也).
+  1. A surname (Kangxi: 姓).
+  ++
+S
+  ==
+  - ($伏buk6) (TODO)
+  ==
+$$
 
 ### 復6 | _Fuk(9)_ [[fuk6]]
 
