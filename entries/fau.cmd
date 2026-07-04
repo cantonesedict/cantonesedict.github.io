@@ -544,6 +544,7 @@ $$
 - $埠6
 - $蛗6
 - (${𧌓=⿰虫阜}6)
+- ($覆6)
 - $阜6
 ==
 </nav>
@@ -690,6 +691,30 @@ W
     [[Alternative form of 蛗. **See $蛗fau6 for the canonical entry.**]]
     --
   ====
+$$
+
+### 覆6 | _Fau(6)_ [[fau6]]
+
+$$.
+R
+  ⾑ + 12
+U
+  U+8986
+F
+  ==
+  - (F1.56 覆) 天覆地載葢也
+  ==
+W
+  ====
+  - [[Page~52 覆(6)]]
+    --
+    [[Reading variation (for the "overspread" sense). **See $覆fuk1 for the canonical entry.**]]
+    --
+  ====
+S
+  ==
+  - $覆fuk1
+  ==
 $$
 
 ### 阜6 | _Fau(6)_ [[fau6]]

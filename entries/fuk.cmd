@@ -577,6 +577,10 @@ L
     - (_adverb-like_) back [and] over, (_met._) over [and] over, back [and] forth
     ==
   ====
+S
+  ==
+  - ($覆fau6)
+  ==
 $$
 
 ### 輻1 | _Fuk(7)_ [[fuk1]]

@@ -1866,7 +1866,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $覆fuk1
+      - {$覆fau6, $覆fuk1}
       ==
       </nav>
 ''
