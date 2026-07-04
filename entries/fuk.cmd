@@ -477,6 +477,8 @@ C
     have the same olden reading 芳福切 _fuk(7)_ (fuk1),
     and distinguishing 敷救切 _fau(3)_ (fau3) for the "overspread" sense
     is a southern reading (南音).
+  - The sense of "reply" (see below) appears to be modern.
+    For the classical word meaning "reply", see $復fuk6.
   ==
 P
   ++
@@ -497,7 +499,6 @@ L
   * 【覆-entering】 (phjuwk)
     ==
     - (_verb-like_) [to] overturn, [to] overthrow
-    - (_verb-like_) [to] reply
     - (_adverb-like_) conversely
     - Used in [反覆](/entries/fuk#rendering-反覆).
     ==
@@ -591,10 +592,81 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $復6
 - $服6
 ==
 </nav>
 <## /tone-6-characters ##>
+
+### 復6 | _Fuk(9)_ [[fuk6]]
+
+$$
+R
+  ⼻ + 9
+U
+  U+5FA9
+V
+  ==
+  - fau6 (per 《廣韻》扶富切 for "again" sense)
+  ==
+F
+  ==
+  - (F1.66 復) ::[返]也報[答]也[重]叠也::
+  ==
+W
+  ====
+  - [[Page~64 復(9)]]
+    ==
+    - Again, reiterated, to do the second time [[Kangxi: 又也, 再也]];
+    - to return [[Kangxi: 返也, 復還也]], to reply [[Kangxi: 答也]];
+    - to revenge, to restore [[Kangxi: 興復]], to repay;
+    - to report to [[Kangxi: 反命也, 復報也反也]], to answer;
+    - to recall the spirit of one who died from home [[Kangxi: 招魂曰復]];
+    - _fuk(9) (1)yam_
+        [[fuk6 jam1 復音]],
+        an answer;
+    - _fuk(9) ~~san(3)~~ ``sun(3)``_
+        [[fuk6 seon3 復信]]
+        reply a to a letter;
+    - _fuk(9) ming(6)_
+        [[fuk6 ming6 復命]]
+        to report on a commission;
+    - _fuk(9) (4)(u:)n_
+        [[fuk6 jyun4 復原]],
+        restored to health;
+    - _fuk(9) ~~(4)ch(')au~~ ``(4)shau``_
+        [[fuk6 sau4 復仇]],
+        to revenge a wrong.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Fixed incomplete strokes in 返, 答, and 重.
+  - Williams' 復信: Corrected _san(3)_ (san3) to _sun(3)_ (seon3).
+  - Williams' 復仇: Normalised _(4)ch(')au_ (cau4) to _(4)shau_ (sau4).
+  - For the modern word meaning "reply", see $覆fuk1.
+  ==
+L
+  ====
+  * 【復-departing】 (bjuwH)
+    ==
+    - (_adverb-like_) re-, again
+    - (_verb-like_) [to] repeat
+    ==
+  * 【復-entering】 (bjuwk)
+    ==
+    - (_verb-like_) [to] return
+    - (_verb-like_) [to] reply
+    - (_verb-like_) [to] report
+    - (_verb-like_) [to] repay
+    - (_verb-like_) [to] restore, (_met._) [to] fulfil
+    ==
+  ====
+S
+  ==
+  - ($復fuk1) (TODO)
+  ==
+$$
 
 ### 服6 | _Fuk(9)_ [[fuk6]]
 

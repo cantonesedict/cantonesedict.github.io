@@ -978,10 +978,29 @@ window.onload = applyFilter;
       ==
   //
     , `bjuwH`
+    , [復~(departing)](/entries/fuk#rendering-復-departing)
+    ,
+      ==
+      - (_adverb-like_) re-, again
+      - (_verb-like_) [to] repeat
+      ==
+  //
+    , `bjuwH`
     , [覆~(voiced)](/entries/fuk#rendering-覆-voiced)
     ,
       ==
       - (_verb-like_) [to] waylay
+      ==
+  //
+    , `bjuwk`
+    , [復~(entering)](/entries/fuk#rendering-復-entering)
+    ,
+      ==
+      - (_verb-like_) [to] return
+      - (_verb-like_) [to] reply
+      - (_verb-like_) [to] report
+      - (_verb-like_) [to] repay
+      - (_verb-like_) [to] restore, (_met._) [to] fulfil
       ==
   //
     , `bjuwk`
@@ -3824,7 +3843,6 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] overturn, [to] overthrow
-      - (_verb-like_) [to] reply
       - (_adverb-like_) conversely
       - Used in [反覆](/entries/fuk#rendering-反覆).
       ==
