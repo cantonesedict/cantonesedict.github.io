@@ -699,9 +699,7 @@ W
     - _(4)m(a/)i fuk(9)_
         [[maai4 fuk6 埋伏]]
         an ambush;
-    - _(1)sh(u:) fuk(9)_
-        [[syu1 fuk6 舒伏]]
-        in good spirits;
+    - [[...]];
     - _(1)s(a/)m fuk(9)_
         [[saam1 fuk6 三伏]]
         hot weather, midsummer [[Kangxi: 三伏 etc.]];
@@ -711,10 +709,11 @@ W
     - _(4)p(')(o\) fuk(9)_
         [[pou4 fuk6 匍匐]] <## TODO: move under $匐fuk6 ##>
         to go on the hands and knees, humbly;
-    - _(1)sam fuk(9)_
-        [[sam1 fuk6 心服]] <## TODO: move under $服fuk6 ##>
-        to respect or acknowledge another's talents.
+    - [[...]].
     ==
+    --
+    [[Alternative form of 服 (for the "submit" sense). See $服fuk6.]]
+    --
     --
     [[Otherwise, an alternative form of 匐. **See $匐fuk6 for the canonical entry.**]] [[TODO]]
     --
@@ -813,6 +812,7 @@ U
   U+670D
 A
   ==
+  - $伏6 (for "submit" sense)
   - 𠬝
   ==
 F
@@ -872,6 +872,17 @@ W
     --
     [[Otherwise, an alternative form of 匐. **See $匐fuk6 for the canonical entry.**]] [[TODO]]
     --
+  - [[Page~64 伏(9); here normalised to 服]]
+    ==
+    - [[...]];
+    - _(1)sh(u:) fuk(9)_
+        [[syu1 fuk6 舒服]]
+        in good spirits;
+    - [[...]];
+    - _(1)sam fuk(9)_
+        [[sam1 fuk6 心服]]
+        to respect or acknowledge another's talents.
+    ==
   ====
 C
   ==
