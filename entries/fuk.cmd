@@ -671,6 +671,7 @@ $$
 - $伏6
 - $復6
 - $服6
+- $袱6
 ==
 </nav>
 <## /tone-6-characters ##>
@@ -932,5 +933,34 @@ L
 S
   ==
   - $服fu6
+  ==
+$$
+
+### 袱6 | _Fuk(9)_ [[fuk6]]
+
+$$
+R
+  ⾐ + 6
+U
+  U+88B1
+F
+  ==
+  - (F1.66 袱) 包袱
+  ==
+W
+  ====
+  - [[Page~64 袱(9)]]
+    ==
+    - A square cloth wrapper,
+      called _(1)p(a/)u fuk(9)_ [[baau1 fuk6 包袱]];
+    - _(2)shau fuk(9)_
+        [[sau2 fuk6 手袱]]
+        a handkerchief.
+    ==
+  ====
+C
+  ==
+  - As in 執包袱走 zap1 baau1 fuk6 zau2,
+    equivalent to "pack [your] bags [and] leave".
   ==
 $$

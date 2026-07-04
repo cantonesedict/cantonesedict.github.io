@@ -1766,6 +1766,7 @@ For all radicals, see [Index of characters by radical](./).
       ==
       - $裁coi4
       - $袴fu3
+      - $袱fuk6
       ==
       </nav>
   //
