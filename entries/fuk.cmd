@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fuk
-* %date-modified --> 2026-06-30
+* %date-modified --> 2026-07-04
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -56,6 +56,7 @@ $$
 - $蝮1
 - $覆1
 - $輻1
+- $馥1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -542,4 +543,43 @@ L
     - (_noun-like_) spoke
     ==
   ====
+$$
+
+### 馥1 | _Fuk(7)_ [[fuk1]]
+
+$$
+R
+  ⾹ + 9
+U
+  U+99A5
+V
+  ==
+  - bik6 (per 《廣韻》符逼切 for "fragrance" sense and Kangxi 符逼切 for onomatopoeic sense)
+  - fuk6 (per 《廣韻》房六切)
+  ==
+F
+  ==
+  - (F1.64 馥) 香氣
+  ==
+W
+  ====
+  - [[Page~64 馥(7)]]
+    ==
+    - Fragrance, odors diffused around [[Kangxi: 香氣芬馥]];
+    - _~~(1)fau~~ ``(1)fan`` fuk(7)_
+        [[fan1 fuk1 芬馥]]
+        a pleasant fragrance;
+    - a man's name.
+    ==
+  ====
+C
+  ==
+  - Williams' 芬馥: Corrected _(1)fau_ (fau1) to _(1)fan_ (fan1).
+  - Williams' "a man's name": This is applicable not to the term 芬馥,
+    but to the character 馥 alone (Kangxi: 人名).
+  ==
+P
+  ++
+  1. (_onomatopoeia_) The sound of an arrowhead striking (Kangxi: 馥中鏃聲也).
+  ++
 $$
