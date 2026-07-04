@@ -1092,7 +1092,7 @@ For all radicals, see [Index of characters by radical](./).
     ,
       <nav class="sideways">
       ==
-      - $服fuk6
+      - {$服fu6, $服fuk6}
       ==
       </nav>
   //

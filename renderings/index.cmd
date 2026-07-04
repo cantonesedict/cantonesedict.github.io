@@ -940,6 +940,13 @@ window.onload = applyFilter;
       ==
   //
     , `bjuwX`
+    , [服~(rising)](/entries/fu#rendering-服-rising)
+    ,
+      ==
+      - (_noun-like_) carriage-box
+      ==
+  //
+    , `bjuwX`
     , [蛗](/entries/fau#rendering-蛗)
     ,
       ==
@@ -978,7 +985,7 @@ window.onload = applyFilter;
       ==
   //
     , `bjuwk`
-    , [服](/entries/fuk#rendering-服)
+    , [服~(entering)](/entries/fuk#rendering-服-entering)
     ,
       ==
       - (_verb-like_) [to] submit

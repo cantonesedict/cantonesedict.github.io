@@ -680,7 +680,7 @@ P
   ++
 L
   ====
-  * 【服】 (bjuwk)
+  * 【服-entering】 (bjuwk)
     ==
     - (_verb-like_) [to] submit
     - (_verb-like_) [to] subjugate, [to] yoke
@@ -695,4 +695,8 @@ L
     - (_verb-like_) [to] take
     ==
   ====
+S
+  ==
+  - $服fu6
+  ==
 $$

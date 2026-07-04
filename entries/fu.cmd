@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fu
-* %date-modified --> 2026-06-20
+* %date-modified --> 2026-07-04
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -3350,6 +3350,7 @@ $$
 - $仆6
 - $付6
 - $傅6
+- $服6
 - ($柎6)
 - $父6
 - $祔6
@@ -3549,6 +3550,35 @@ L
 S
   ==
   - ($傅fu1)
+  ==
+$$
+
+###+ 服6 | _F(u/)(6)_ [[fu6]]
+
+$$
+R
+  ⽉ + 4
+U
+  U+670D
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. A carriage-box (Kangxi: 牝服謂車箱服讀曰負).
+  1. A type of crossbar (Kangxi: 牝服長八尺謂較也).
+  ++
+L
+  ====
+  * 【服-rising】 (bjuwX)
+    ==
+    - (_noun-like_) carriage-box
+    ==
+  ====
+S
+  ==
+  - $服fuk6
   ==
 $$
 
