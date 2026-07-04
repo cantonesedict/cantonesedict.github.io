@@ -1037,6 +1037,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] take
       ==
   //
+    , `bjuwk`
+    , [輹~(voiced)](/entries/fuk#rendering-輹-voiced)
+    ,
+      ==
+      - (_noun-like_) axle-housing
+      ==
+  //
     , `bjuwng`
     , [汎](/entries/faan#rendering-汎)
     ,
@@ -4441,6 +4448,13 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) lined-garment
+      ==
+  //
+    , `pjuwk`
+    , [輹~(unvoiced)](/entries/fuk#rendering-輹-unvoiced)
+    ,
+      ==
+      - (_noun-like_) axle-tie
       ==
   //
     , `pjuwk`

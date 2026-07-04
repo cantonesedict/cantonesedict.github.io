@@ -58,6 +58,7 @@ $$
 - $蝮1
 - $複1
 - $覆1
+- $輹1
 - $輻1
 - $馥1
 ==
@@ -585,6 +586,56 @@ S
   ==
 $$
 
+###+ 輹1 | _Fuk(7)_ [[fuk1]]
+
+$$
+R
+  ⾞ + 9
+U
+  U+8F39
+A
+  ==
+  - $輻1
+  ==
+V
+  ==
+  - fuk6 (per 《廣韻》房六切 for "axle-housing" sense)
+  ==
+F
+  ==
+  - (F1.64 輹) ::車之承[輻]者::
+  ==
+W
+  [[Not present]]
+C
+  ====
+  - Fan Wan entry: Corrected malformed 輻.
+  - 《廣韻》 distinguishes between:
+    ==
+    - 方六切 _fuk(7)_ (fuk1) for the "axle-tie" sense; and
+    - 房六切 _fuk(9)_ (fuk6) for the "axle-housing" (or "prostrate-rabbit") sense.
+    ==
+    Kangxi does not distinguish the two senses,
+    putting both under the first reading.
+  ====
+P
+  ++
+  1. An axle-tie (Kangxi: 車下縛也, 車軸縛也).
+  1. An axle-housing (Kangxi: 車伏兔也).
+  ++
+L
+  ====
+  * 【輹-voiced】 (bjuwk)
+    ==
+    - (_noun-like_) axle-housing
+    ==
+  * 【輹-unvoiced】 (pjuwk)
+    ==
+    - (_noun-like_) axle-tie
+    ==
+  ====
+$$
+
 ### 輻1 | _Fuk(7)_ [[fuk1]]
 
 $$
@@ -606,7 +657,7 @@ W
         to collect (as at a metropolis), running together.
     ==
     --
-    [[Otherwise, an alternative form of 輹. **See $輹fuk1 for the canonical entry.**]] [[TODO]]
+    [[Otherwise, an alternative form of 輹. **See $輹fuk1 for the canonical entry.**]]
     --
   ====
 C

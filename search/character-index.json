@@ -8475,6 +8475,12 @@
 "text":"U+8907 復 fau6 (per 《廣韻》扶富切 for \"repeat\" sense) (Page 715 複) A wadded or lined garment (Kangxi: 重衣也); doubled; the second; _ch'ung fuk_ (cung4 fuk1 重複) again, repeated. Repeated, layered (Kangxi: 重也). To repeat. Complex, complicated. 【複】 (pjuwk) (_noun-like_) lined-garment"
 }
 },
+"輹":{
+"fuk1":{
+"isCanonical":true,
+"text":"U+8F39 輻 fuk6 (per 《廣韻》房六切 for \"axle-housing\" sense) (F1.64 輹) 車之承輻者 Fan Wan entry: Corrected malformed 輻. 《廣韻》 distinguishes between: 方六切 _fuk_ (fuk1) for the \"axle-tie\" sense; and 房六切 _fuk_ (fuk6) for the \"axle-housing\" (or \"prostrate-rabbit\") sense. Kangxi does not distinguish the two senses, putting both under the first reading. An axle-tie (Kangxi: 車下縛也, 車軸縛也). An axle-housing (Kangxi: 車伏兔也). 【輹-voiced】 (bjuwk) (_noun-like_) axle-housing 【輹-unvoiced】 (pjuwk) (_noun-like_) axle-tie"
+}
+},
 "輻":{
 "fuk1":{
 "isCanonical":true,
