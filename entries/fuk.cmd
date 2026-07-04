@@ -56,6 +56,7 @@ $$
 - $葍1
 - $蝠1
 - $蝮1
+- $複1
 - $覆1
 - $輻1
 - $馥1
@@ -133,7 +134,7 @@ W
 P
   ++
   1. Alternative form of 覆. **See $覆fuk1 for the canonical entry.**
-  1. Alternative form of 複. **See $複fuk1 for the canonical entry.** (TODO)
+  1. Alternative form of 複. **See $複fuk1 for the canonical entry.**
   ++
 S
   ==
@@ -420,6 +421,50 @@ L
   * 【蝮】 (phjuwk)
     ==
     - (_noun-like_) viper
+    ==
+  ====
+$$
+
+### 複1 | _Fuk(7)_ [[fuk1]]
+
+$$
+R
+  ⾐ + 9
+U
+  U+8907
+A
+  ==
+  - $復1
+  ==
+V
+  ==
+  - fau6 (per 《廣韻》扶富切 for "repeat" sense)
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~715 複(7)]]
+    ==
+    - A wadded or lined garment [[Kangxi: 重衣也]];
+    - doubled;
+    - the second;
+    - _(4)ch(')ung fuk(7)_
+        [[cung4 fuk1 重複]]
+        again, repeated.
+    ==
+  ====
+P
+  ++
+  1. Repeated, layered (Kangxi: 重也).
+  1. To repeat.
+  1. Complex, complicated.
+  ++
+L
+  ====
+  * 【複】 (pjuwk)
+    ==
+    - (_noun-like_) lined-garment
     ==
   ====
 $$

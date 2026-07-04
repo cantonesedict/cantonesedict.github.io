@@ -4420,6 +4420,13 @@ window.onload = applyFilter;
       ==
   //
     , `pjuwk`
+    , [複](/entries/fuk#rendering-複)
+    ,
+      ==
+      - (_noun-like_) lined-garment
+      ==
+  //
+    , `pjuwk`
     , [輻](/entries/fuk#rendering-輻)
     ,
       ==
