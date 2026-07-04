@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fau
-* %date-modified --> 2026-05-16
+* %date-modified --> 2026-07-04
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -540,6 +540,7 @@ $$
 <## tone-6-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $伏6
 - $埠6
 - $蛗6
 - (${𧌓=⿰虫阜}6)
@@ -547,6 +548,38 @@ $$
 ==
 </nav>
 <## /tone-6-characters ##>
+
+###+ 伏6 | _Fau(6)_ [[fau6]]
+
+$$
+R
+  ⼈ + 4
+U
+  U+4F0F
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~64 伏(9) _Fuk(9)_ (fuk6); here corrected to _Fau(6)_ (fau6)]]
+    ==
+    - [[...]];
+    - to brood [[Kangxi: 禽覆卵也]];
+    - [[...]].
+    ==
+  ====
+L
+  ====
+  * 【伏-departing】 (bjuwH)
+    ==
+    - (_verb-like_) [to] brood, [to] hatch
+    ==
+  ====
+S
+  ==
+  - ($伏buk6) (TODO)
+  - $伏fuk6
+  ==
+$$
 
 ### ~~{？=⿱垖十}~~``埠``6 | _Fau(6)_ [[fau6]]
 

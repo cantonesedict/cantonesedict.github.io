@@ -978,6 +978,13 @@ window.onload = applyFilter;
       ==
   //
     , `bjuwH`
+    , [伏~(departing)](/entries/fau#rendering-伏-departing)
+    ,
+      ==
+      - (_verb-like_) [to] brood, [to] hatch
+      ==
+  //
+    , `bjuwH`
     , [復~(departing)](/entries/fuk#rendering-復-departing)
     ,
       ==

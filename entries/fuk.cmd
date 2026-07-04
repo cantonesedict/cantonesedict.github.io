@@ -693,7 +693,7 @@ W
     - To lie or fall prostrate;
     - to humble, to subject, to oppress;
     - to hide, to conceal, to abscond [[Kangxi: 匿藏也]];
-    - to brood; <## TODO: correct to $伏fau6 ##>
+    - [[...]];
     - to acknowledge, to confess;
     - used as an adverb, meaning humbly, in my opinion;
     - _(4)m(a/)i fuk(9)_
@@ -740,6 +740,7 @@ L
 S
   ==
   - ($伏buk6) (TODO)
+  - $伏fau6
   ==
 $$
 
