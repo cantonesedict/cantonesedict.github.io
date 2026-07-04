@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [fuk1](#1)
+- [fuk6](#6)
 ==
 </nav>
 <## /tones ##>
@@ -582,4 +583,116 @@ P
   ++
   1. (_onomatopoeia_) The sound of an arrowhead striking (Kangxi: 馥中鏃聲也).
   ++
+$$
+
+
+##{#6 .williams} Fuk(9) [[fuk6 陽入]]
+
+<## tone-6-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- $服6
+==
+</nav>
+<## /tone-6-characters ##>
+
+### 服6 | _Fuk(9)_ [[fuk6]]
+
+$$
+R
+  ⽉ + 4
+U
+  U+670D
+A
+  ==
+  - 𠬝
+  ==
+F
+  ==
+  - (F1.66 服) 衣服又悅服
+  ==
+W
+  ====
+  - [[Page~64 服(9)]]
+    ==
+    - To use [[Kangxi: 用也]] (as a boat);
+    - to wait on, to serve;
+    - to submit, yield to, accord with;
+    - to cause to submit [[Kangxi: 懾服也]], to convince;
+    - accustomed to, acclimated, habituated [[Kangxi: 習也]];
+    - to think [[Kangxi: 思也]];
+    - to dress;
+    - to fold;
+    - garments [[Kangxi: 衣服]], mourning apparel;
+    - a carriage cloth;
+    - a quiver [[Kangxi: 盛矢器也]];
+    - an affair;
+    - _(1)(i/) fuk(9)_
+        [[ji1 fuk6 衣服]]
+        clothes;
+    - _ch(e/)uk(8) fuk(9)_
+        [[zoek3 fuk6 着服]]
+        to go in mourning;
+    - _(5)'ng fuk(9)_
+        [[ng5 fuk6 五服]]
+        five grades of mourning;
+    - _(1)yam fuk(9)_
+        [[jam1 fuk6 欽服]]
+        complete submission;
+    - _~~t(')(u:)t(9)~~ ``t(')(u:)t(8)`` fuk(9)_
+        [[tyut3 fuk6 脫服]]
+        to lay off mourning;
+    - _fuk(9) y(e/)uk(9)_
+        [[fuk6 joek6 服藥]]
+        to take medicine;
+    - _(1)kung fuk(9)_
+        [[gung1 fuk6 公服]]
+        ceremonial dress;
+    - _fuk(9) sz'(6)_
+        [[fuk6 si6 服事]]
+        to attend, to serve;
+    - _(4)'m fuk(9) k(a/)u(3)_
+        [[m4 fuk6 gaau3 唔服教]]
+        intractable;
+    - _fuk(9) (2)shui (2)t(')(o\)_
+        [[fuk6 seoi2 tou2 服水土]],
+        acclimated;
+    - _(4)(u:)n fuk(9)_
+        [[jyun4 fuk6 元服]]
+        an official cap.
+    ==
+    --
+    [[Otherwise, an alternative form of 匐. **See $匐fuk6 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Williams' "to convince": As in 說服.
+  - Williams' 脫服: Corrected _t(')(u:)t(9)_ (tyut6) to _t(')(u:)t(8)_ (tyut3).
+  - Williams' 服水土: Used in the negative for traveller's diarrhoea (水土不服).
+  ==
+P
+  ++
+  1. An inside-horse (Kangxi: 兩服中央夾轅者).
+  1. To apply (Kangxi: 行也).
+  1. Service (Kangxi: 職也, 事也).
+  1. Classifier for medicinal dosage.
+  ++
+L
+  ====
+  * 【服】 (bjuwk)
+    ==
+    - (_verb-like_) [to] submit
+    - (_verb-like_) [to] subjugate, [to] yoke
+    - (_verb-like_) (_met._) [to] harness, [to] apply
+    - (_noun-like_) yoke-horse, inside-horse
+    - (_noun-like_) service
+    - (_verb-like_) [to] serve
+    - (_verb-like_) [to] muse (upon)
+    - (_noun-like_) raiment
+    - (_verb-like_) [to] don
+    - (_noun-like_) quiver
+    - (_verb-like_) [to] take
+    ==
+  ====
 $$

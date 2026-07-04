@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-06-30
+* %date-modified --> 2026-07-04
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -975,6 +975,23 @@ window.onload = applyFilter;
     ,
       ==
       - (_verb-like_) [to] waylay
+      ==
+  //
+    , `bjuwk`
+    , [服](/entries/fuk#rendering-服)
+    ,
+      ==
+      - (_verb-like_) [to] submit
+      - (_verb-like_) [to] subjugate, [to] yoke
+      - (_verb-like_) (_met._) [to] harness, [to] apply
+      - (_noun-like_) yoke-horse, inside-horse
+      - (_noun-like_) service
+      - (_verb-like_) [to] serve
+      - (_verb-like_) [to] muse (upon)
+      - (_noun-like_) raiment
+      - (_verb-like_) [to] don
+      - (_noun-like_) quiver
+      - (_verb-like_) [to] take
       ==
   //
     , `bjuwng`
