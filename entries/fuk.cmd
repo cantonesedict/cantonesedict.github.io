@@ -49,6 +49,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $幅1
+- ($復1)
 - ($楅1)
 - $福1
 - $腹1
@@ -115,6 +116,28 @@ L
 S
   ==
   - $幅bik1 (TODO)
+  ==
+$$
+
+###+ 復1 | _Fuk(7)_ [[fuk1]]
+
+$$.
+R
+  ⼻ + 9
+U
+  U+5FA9
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 覆. **See $覆fuk1 for the canonical entry.**
+  1. Alternative form of 複. **See $複fuk1 for the canonical entry.** (TODO)
+  ++
+S
+  ==
+  - $復fuk6
   ==
 $$
 
@@ -408,6 +431,10 @@ R
   ⾑ + 12
 U
   U+8986
+A
+  ==
+  - $復1
+  ==
 V
   ==
   - fau3 (per 《廣韻》敷救切 for "overspread" sense)
@@ -664,7 +691,7 @@ L
   ====
 S
   ==
-  - ($復fuk1) (TODO)
+  - ($復fuk1)
   ==
 $$
 
