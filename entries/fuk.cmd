@@ -671,6 +671,7 @@ $$
 - $伏6
 - $復6
 - $服6
+- $茯6
 - $袱6
 ==
 </nav>
@@ -933,6 +934,40 @@ L
 S
   ==
   - $服fu6
+  ==
+$$
+
+### 茯6 | _Fuk(9)_ [[fuk6]]
+
+$$
+R
+  ⾋ + 6
+U
+  U+832F
+F
+  ==
+  - (F1.66 茯) ::茯[苓藥]名::
+  ==
+W
+  ====
+  - [[Page~64 茯(9)]]
+    ==
+    - China-root _(Smilax ~~China~~ ``glabra``)_
+      called _fuk(9) (4)ling_ [[fuk6 ling4 茯苓]];
+    - _(2)t(')(o\) fuk(9) (4)ling_
+        [[tou2 fuk6 ling4 土茯苓]],
+        Canton China-root;
+    - _p(a/)k(9) fuk(9)_
+        [[baak6 fuk6 白茯]]
+        the Sz'chuen [[四川]] root;
+    - _fuk(9) (4)ling (1)k(o\)_
+        [[fuk6 ling4 gou1 茯苓膏]],
+        a jelly made from this root.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected ⿱艹⿱𠆢口 to 苓, and fixed missing strokes in 藥.
   ==
 $$
 

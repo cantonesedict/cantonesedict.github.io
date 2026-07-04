@@ -1315,6 +1315,7 @@ For all radicals, see [Index of characters by radical](./).
       - {$茲ci4, $茲zi1}
       - $草cou2
       - $荒fong1
+      - $茯fuk6
       - $荐zin3
       - $茱zyu1
       ==
