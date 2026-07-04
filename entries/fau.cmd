@@ -560,6 +560,15 @@ F
   [[Not present]]
 W
   ====
+  - [[Page~52 覆(6); here corrected to 伏]]
+    ==
+    - [[...]];
+    - to brood, as a hen;
+    - [[...]];
+    - _(1)kai (2)n(a/) fau(6) (2)tsai_
+        [[gai1 naa2 fau6 zai2 雞乸伏仔]],
+        the hen covers her chickens.
+    ==
   - [[Page~64 伏(9) _Fuk(9)_ (fuk6); here corrected to _Fau(6)_ (fau6)]]
     ==
     - [[...]];

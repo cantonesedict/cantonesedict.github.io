@@ -495,14 +495,12 @@ W
   - [[Page~52 覆(6) _Fau(6)_ (fau6); here normalised to _Fuk(7)_ (fuk1)]]
     ==
     - To cover, to overshadow [[Kangxi: 蓋也]];
-    - to brood, as a hen;
+    - [[...]];
     - to overspread;
     - _(1)t(')(i/)n ~~fau(6)~~ ``fuk(7)`` t(i/)(6) tsoi(3)_
         [[tin1 fuk1 dei6 zoi3 天覆地載]]
         the heaven covers and earth ~~contains~~ ``carries``;
-    - _(1)kai (2)n(a/) ~~fau(6)~~ ``fuk(7)`` (2)tsai_
-        [[gai1 naa2 fuk1 zai2 雞乸覆仔]],
-        the hen covers her chickens.
+    - [[...]].
     ==
   - [[Page~63 覆(7)]]
     ==
