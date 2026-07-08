@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fuk
-* %date-modified --> 2026-07-04
+* %date-modified --> 2026-07-08
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -525,7 +525,9 @@ C
   ==
   - Williams' "to judge": Better rendered "to examine" or "to review".
   - Williams' 顛覆: Or, to subvert, to overthrow.
-  - Williams' 馬前覆水: Less common than 覆水難收.
+  - Williams' 馬前覆水:
+    Corrected _(4)t(')s(i/)n_ (aspirate in wrong position^) to _(4)ts(')(i/)n_.
+    Less common than 覆水難收.
   - Williams' 覆白: I am not convinced that this means "to understand clearly".
   - 《廣韻》 has four headline readings:
     ++
