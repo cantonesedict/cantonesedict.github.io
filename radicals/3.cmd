@@ -840,6 +840,14 @@ For all radicals, see [Index of characters by radical](./).
       ==
       </nav>
   //
+    , 12
+    ,
+      <nav class="sideways">
+      ==
+      - $寬fun1
+      ==
+      </nav>
+  //
     , 16
     ,
       <nav class="sideways">

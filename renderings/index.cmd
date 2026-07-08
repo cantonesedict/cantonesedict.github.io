@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-07-04
+* %date-modified --> 2026-07-08
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -3426,6 +3426,16 @@ window.onload = applyFilter;
     ,
       ==
       - (_adjective-like_) pleased
+      ==
+  //
+    , `khwan`
+    , [寬](/entries/fun#rendering-寬)
+    ,
+      ==
+      - (_adjective-like_) wide, spacious
+      - (_adjective-like_) magnanimous
+      - (_adjective-like_) clement, lenient
+      - (_verb-like_) [to] clemence, (_met._) [to] pardon
       ==
   //
     , `khweajH`
