@@ -23,6 +23,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 =={.modern}
 - [fun1](#1)
 - [fun2](#2)
+- [fun3](#3)
 ==
 </nav>
 <## /tones ##>
@@ -480,4 +481,39 @@ L
     - (_noun-like_) hollow
     ==
   ====
+$$
+
+
+##{#3 .williams} F(u/)n(3) [[fun3 陰去]]
+
+<## tone-3-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- ($喚3)
+==
+</nav>
+<## /tone-3-characters ##>
+
+### 喚3 | _F(u/)n(3)_ [[fun3]]
+
+$$.
+R
+  ⼝ + 9
+U
+  U+559A
+F
+  ==
+  - (F2.79 喚) 呼喚
+  ==
+W
+  ====
+  - [[Page~65 喚(3)]]
+    --
+    [[Reading variation. **See $喚wun6 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+S
+  ==
+  - $喚wun6 (TODO)
+  ==
 $$
