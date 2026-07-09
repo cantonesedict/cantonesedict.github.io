@@ -51,6 +51,7 @@ $$
 - $寬1
 - ($懽1)
 - $歡1
+- $貛1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -237,4 +238,40 @@ L
     - (_adjective-like_) (_met._) friendly
     ==
   ====
+$$
+
+### 貛1 | _(1)F(u/)n_ [[fun1]]
+
+$$
+R
+  ⾘ + 18
+U
+  U+8C9B
+A
+  ==
+  - 獾
+  ==
+F
+  [[Not present]]
+W
+  ====
+  - [[Page~65 (1)貛]]
+    ==
+    - A wild boar [[Kangxi: 野豕也]];
+    - _(2)kau (1)f(u/)n_
+        [[gau2 fun1 狗貛]],
+        a species of jackal [[Kangxi: 狗貛蜀人呼天狗 etc.]];
+    - _(2)hoi (1)f(u/)n_
+        [[hoi2 fun1 海貛]],
+        a sort of musk rat in Li(a/)utung [[遼東]] [[Kangxi: 遼東有海貛皮可爲裘領]];
+    - _(1)f(u/)n (2)tsz' (4)p(')(i/)_
+        [[fun1 zi2 pei4 貛子皮]],
+        a beaver skin.
+    ==
+  ====
+P
+  ++
+  1. A badger.
+  1. A male wolf (Kangxi: 狼牡貛牝狼).
+  ++
 $$
