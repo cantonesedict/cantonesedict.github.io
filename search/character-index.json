@@ -8553,6 +8553,12 @@
 "text":"U+6B35 (F2.78 欵) 衷曲也至也留也又條件也 (Page 65 欵) Fan Wan entry: Corrected malformed 留."
 }
 },
+"款":{
+"fun2":{
+"isCanonical":true,
+"text":"U+6B3E 欵 歀 (F2.78 欵) 衷曲也至也留也又條件也 (Page 65 欵; here normalised to 款) ~~Something desired~~ ``Desiring`` (Kangxi 款: 意有所欲也 etc.); sincere, single-hearted; true (Kangxi 款: 誠也, 款款忠誠也), to love (Kangxi 款: 愛也), to venerate, to respect; to treat well; to knock at (Kangxi 款: 叩也求通也); to reach (Kangxi 款: 至也); ~~to repay;~~ ~~a memorandum of~~ ``an inscription`` (Kangxi 款: 誌也, 師古曰款刻也識記也, etc.); ~~to enumerate;~~ a classifier of articles of different sorts, classes, affairs; _fun toi_ (fun2 doi6 款待) to treat politely; _fun t'au tai_ (fun2 tau4 daai6 款頭大) haughty, difficult of access; _nau fun_ (naau6 fun2 鬧款), pompous; _t'ai fun_ (tai4 fun2 題款), to write an autograph; _fun shik_ (fun2 sik1 款式) a sort; _kok fun_ (gok3 fun2 各款), every kind; _kwai fun_ (gwai1 fun2 歸款) to repay a loan; _yat fun sz'_ (jat1 fun2 si6 一款事) an affair; _fun lau_ (fun2 lau4 款留), to detain as a guest. Fan Wan entry: Corrected malformed 留. Williams' \"Something desired\": This is a misreading of Kangxi 意有所欲也. This sense is an adjective (\"desiring\", as a hole unfilled), not a noun. Void, hollow (Kangxi 款: 空也). A clause (Kangxi 款: 科也今章疏言列款謂科條列之), a provision. Funds. To detain, to keep (Kangxi 款: 留也). Slowly, tardily (Kangxi 款: 緩也). 【款】 (khwanX) (_adjective-like_) void, hollow (_adjective-like_) true, staunch (_verb-like_) to knock"
+}
+},
 "之":{
 "zaa1":{
 "isCanonical":true,

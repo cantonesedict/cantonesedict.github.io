@@ -302,6 +302,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - ($欵2)
+- $款2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -321,11 +322,95 @@ W
   ====
   - [[Page~65 (1)欵]]
     --
-    [[Alternative form of 款. **See $款fun2 for the canonical entry.**]] [[TODO]]
+    [[Alternative form of 款. **See $款fun2 for the canonical entry.**]]
     --
   ====
 C
   ==
   - Fan Wan entry: Corrected malformed 留.
   ==
+$$
+
+###+ 款2 | _(2)F(u/)n_ [[fun2]]
+
+$$
+R
+  ⽋ + 8
+U
+  U+6B3E
+A
+  ==
+  - $欵2
+  - 歀
+  ==
+F
+  ==
+  - (F2.78 欵) ::衷曲也至也[留]也又條件也::
+  ==
+W
+  ====
+  - [[Page~65 (1)欵; here normalised to 款]]
+    ==
+    - ~~Something desired~~ ``Desiring`` [[Kangxi 款: 意有所欲也 etc.]];
+    - sincere, single-hearted;
+    - true [[Kangxi 款: 誠也, 款款忠誠也]], to love [[Kangxi 款: 愛也]], to venerate, to respect;
+    - to treat well;
+    - to knock at [[Kangxi 款: 叩也求通也]];
+    - to reach [[Kangxi 款: 至也]];
+    - ~~to repay;~~
+    - ~~a memorandum of~~ ``an inscription`` [[Kangxi 款: 誌也, 師古曰款刻也識記也, etc.]];
+    - ~~to enumerate;~~
+    - a classifier of articles of different sorts, classes, affairs;
+    - _(2)f(u/)n toi(6)_
+        [[fun2 doi6 款待]]
+        to treat politely;
+    - _(2)f(u/)n (4)t(')au t(a/)i(6)_
+        [[fun2 tau4 daai6 款頭大]]
+        haughty, difficult of access;
+    - _n(a/)u(6) (2)f(u/)n_
+        [[naau6 fun2 鬧款]],
+        pompous;
+    - _(4)t(')ai (2)f(u/)n_
+        [[tai4 fun2 題款]],
+        to write an autograph;
+    - _(2)f(u/)n shik(7)_
+        [[fun2 sik1 款式]]
+        a sort;
+    - _kok(8) (2)f(u/)n_
+        [[gok3 fun2 各款]],
+        every kind;
+    - _(1)kwai (2)f(u/)n_
+        [[gwai1 fun2 歸款]]^
+        to repay a loan;
+    - _yat(7) (2)f(u/)n sz'(6)_
+        [[jat1 fun2 si6 一款事]]
+        an affair;
+    - _(2)f(u/)n (4)lau_
+        [[fun2 lau4 款留]],
+        to detain as a guest.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed 留.
+  - Williams' "Something desired": This is a misreading of Kangxi 意有所欲也.
+    This sense is an adjective ("desiring", as a hole unfilled), not a noun.
+  ==
+P
+  ++
+  1. Void, hollow (Kangxi 款: 空也). (Alternative form of 窾. See $窾fun2.) (TODO)
+  1. A clause (Kangxi 款: 科也今章疏言列款謂科條列之), a provision.
+  1. Funds.
+  1. To detain, to keep (Kangxi 款: 留也).
+  1. Slowly, tardily (Kangxi 款: 緩也).
+  ++
+L
+  ====
+  * 【款】 (khwanX)
+    ==
+    - (_adjective-like_) void, hollow
+    - (_adjective-like_) true, staunch
+    - (_verb-like_) [to] knock
+    ==
+  ====
 $$

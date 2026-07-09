@@ -3438,6 +3438,15 @@ window.onload = applyFilter;
       - (_verb-like_) [to] clemence, (_met._) [to] pardon
       ==
   //
+    , `khwanX`
+    , [款](/entries/fun#rendering-款)
+    ,
+      ==
+      - (_adjective-like_) void, hollow
+      - (_adjective-like_) true, staunch
+      - (_verb-like_) [to] knock
+      ==
+  //
     , `khweajH`
     , [塊](/entries/faai#rendering-塊)
     ,
