@@ -2313,6 +2313,14 @@ For all radicals, see [Index of characters by radical](./).
       - $獺caat3
       ==
       </nav>
+  //
+    , 18
+    ,
+      <nav class="sideways">
+      ==
+      - $獾fun1
+      ==
+      </nav>
 ''
 ||||
 <## /radical-⽝-characters ##>

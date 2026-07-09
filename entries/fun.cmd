@@ -51,6 +51,7 @@ $$
 - $寬1
 - ($懽1)
 - $歡1
+- ($獾1)
 - $貛1
 ==
 </nav>
@@ -240,6 +241,23 @@ L
   ====
 $$
 
+###+ 獾1 | _(1)F(u/)n_ [[fun1]]
+
+$$.
+R
+  ⽝ + 18
+U
+  U+737E
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 貛. **See $貛fun1 for the canonical entry.**
+  ++
+$$
+
 ### 貛1 | _(1)F(u/)n_ [[fun1]]
 
 $$
@@ -249,7 +267,7 @@ U
   U+8C9B
 A
   ==
-  - 獾
+  - $獾1
   ==
 F
   [[Not present]]
