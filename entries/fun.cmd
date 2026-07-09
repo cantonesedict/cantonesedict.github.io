@@ -321,7 +321,7 @@ F
   ==
 W
   ====
-  - [[Page~65 (1)欵]]
+  - [[Page~65 (2)欵]]
     --
     [[Alternative form of 款. **See $款fun2 for the canonical entry.**]]
     --
@@ -350,7 +350,7 @@ F
   ==
 W
   ====
-  - [[Page~65 (1)欵; here normalised to 款]]
+  - [[Page~65 (2)欵; here normalised to 款]]
     ==
     - ~~Something desired~~ ``Desiring`` [[Kangxi 款: 意有所欲也 etc.]];
     - sincere, single-hearted;
