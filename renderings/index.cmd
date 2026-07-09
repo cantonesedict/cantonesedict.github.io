@@ -24,7 +24,7 @@ ReplacementSequence: #.ensure-baxter
 ||||{.modern .input-container}
 --
 <label for="keys-filter">__Filter for Baxter/Term:__</label>
-<input type="text" id="keys-filter" oninput="applyFilter()" placeholder="(tones are ignored)" lang="zh-Hant">
+<input type="text" id="keys-filter" oninput="applyFilter()" lang="zh-Hant">
 --
 --
 <label for="values-filter">__Filter for Renderings:__</label>
@@ -45,9 +45,7 @@ function normaliseString(str)
 
 function matchBaxter(keysFilterString, baxter)
 {
-  let tonelessBaxter = baxter.replace(/[XH]\b/gi, '');
-  let tonelessKeysFilterString = keysFilterString.replace(/[XH]\b/gi, '');
-  return tonelessBaxter.indexOf(tonelessKeysFilterString) > -1;
+  return baxter.indexOf(keysFilterString) > -1;
 }
 
 function matchString(keysFilterString, str)
