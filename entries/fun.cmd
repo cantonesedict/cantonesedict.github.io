@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fun
-* %date-modified --> 2026-07-08
+* %date-modified --> 2026-07-09
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -49,6 +49,7 @@ $$
 =={.modern}
 - ($寛1)
 - $寬1
+- $歡1
 ==
 </nav>
 <## /tone-1-characters ##>
@@ -147,6 +148,56 @@ L
     - (_adjective-like_) magnanimous
     - (_adjective-like_) clement, lenient
     - (_verb-like_) [to] clemence, (_met._) [to] pardon
+    ==
+  ====
+$$
+
+### 歡1 | _(1)F(u/)n_ [[fun1]]
+
+$$
+R
+  ⽋ + 18
+U
+  U+6B61
+A
+  ==
+  - 懽
+  - 驩
+  ==
+F
+  ==
+  - (F2.77 歡) 喜歡悅也
+  - (F2.77 懽) 同上
+  - (F2.77 驩) 同上
+  ==
+W
+  ====
+  - [[Page~64 (1)歡]]
+    ==
+    - Joyous, jocund, glad, frolicsome, gleeful, merry [[Kangxi: 喜樂也]];
+    - to rejoice [[Kangxi: 喜動聲氣故从欠]];
+    - _(1)f(u/)n (2)h(i/)_
+        [[fun1 hei2 歡喜]],
+        pleased, to like, agreeable;
+    - _(1)f(u/)n (1)sam_
+        [[fun1 sam1 歡心]],
+        to gladden one;
+    - _(1)f(u/)n lok(9)_
+        [[fun1 lok6 歡樂]]
+        highly delighted.
+    ==
+  ====
+P
+  ++
+  1. To delight in, to like.
+  1. Friendly, amicable.
+  ++
+L
+  ====
+  * 【歡】 (xwan)
+    ==
+    - (_verb-like_) [to] rejoice, [to] delight (in)
+    - (_adjective-like_) (_met._) friendly
     ==
   ====
 $$

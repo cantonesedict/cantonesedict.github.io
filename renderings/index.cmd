@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-07-08
+* %date-modified --> 2026-07-09
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -10337,6 +10337,14 @@ window.onload = applyFilter;
     ,
       ==
       - (_adverb-like_) swiftly
+      ==
+  //
+    , `xwan`
+    , [歡](/entries/fun#rendering-歡)
+    ,
+      ==
+      - (_verb-like_) [to] rejoice, [to] delight (in)
+      - (_adjective-like_) (_met._) friendly
       ==
   //
     , `xwang`
