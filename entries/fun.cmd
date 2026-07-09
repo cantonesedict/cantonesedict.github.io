@@ -101,10 +101,10 @@ W
   ====
   - [[Page~64 (1)寛; here normalised to 寬]]
     ==
-    - Large, spacious [[Kangxi: 屋寬大也]], wide, ample [[Kangxi: 裕也]], broad;
-    - forgiving [[Kangxi: 宥也]], easy [[Kangxi: 舒也]], benignant, clement [[Kangxi: 不猛也]]~~.~~``,`` kind, indulgent;
+    - Large, spacious [[Kangxi 寬: 屋寬大也]], wide, ample [[Kangxi 寬: 裕也]], broad;
+    - forgiving [[Kangxi 寬: 宥也]], easy [[Kangxi 寬: 舒也]], benignant, clement [[Kangxi 寬: 不猛也]]~~.~~``,`` kind, indulgent;
     - slow;
-    - to widen, to enlarge, to relax [[Kangxi: 緩也]];
+    - to widen, to enlarge, to relax [[Kangxi 寬: 緩也]];
     - to forbear;
     - to unrobe;
     - _(1)f(u/)n f(u/)t(8)_
