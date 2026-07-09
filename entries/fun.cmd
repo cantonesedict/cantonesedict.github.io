@@ -303,6 +303,7 @@ $$
 =={.modern}
 - ($欵2)
 - $款2
+- ($盥2)
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -413,4 +414,28 @@ L
     - (_verb-like_) [to] knock
     ==
   ====
+$$
+
+### 盥2 | _(2)F(u/)n_ [[fun2]]
+
+$$.
+R
+  ⽫ + 11
+U
+  U+76E5
+F
+  ==
+  - (F2.78 盥) 以盤水洗手曰盥
+  ==
+W
+  ====
+  - [[Page~65 (2)盥]]
+    ==
+    [[Reading variation. **See $盥gun3 for the canonical entry.**]] [[TODO]]
+    ==
+  ====
+S
+  ==
+  - $盥gun3 (TODO)
+  ==
 $$
