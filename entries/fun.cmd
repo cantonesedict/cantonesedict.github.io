@@ -304,6 +304,7 @@ $$
 - ($欵2)
 - $款2
 - ($盥2)
+- $窾2
 ==
 </nav>
 <## /tone-2-characters ##>
@@ -399,7 +400,7 @@ C
   ==
 P
   ++
-  1. Void, hollow (Kangxi 款: 空也). (Alternative form of 窾. See $窾fun2.) (TODO)
+  1. Void, hollow (Kangxi 款: 空也). (Alternative form of 窾. See $窾fun2.) (Kangxi 款: 與窾同)
   1. A clause (Kangxi 款: 科也今章疏言列款謂科條列之), a provision.
   1. Funds.
   1. To detain, to keep (Kangxi 款: 留也).
@@ -438,4 +439,45 @@ S
   ==
   - $盥gun3 (TODO)
   ==
+$$
+
+### 窾2 | _(2)F(u/)n_ [[fun2]]
+
+$$
+R
+  ⽳ + 12
+U
+  U+7ABE
+A
+  ==
+  - $款2
+  - 窽
+  ==
+F
+  ==
+  - (F2.78 窽) 空也莊子導太平
+  ==
+W
+  ====
+  - [[Page~65 (2)窾]]
+    ==
+    - ~~An~~ empty ~~place~~ [[Kangxi: 空也]];
+    - hollow, like an empty vessel;
+    - uninformed, ignorant;
+    - _(2)f(u/)n ~~k(')i(u/)(3)~~ ``hi(u/)(3)``_
+        [[fun2 hiu3 窾竅]]
+        an empty hole.
+    ==
+  ====
+C
+  ==
+  - Williams' 窾竅: Normalised _k(')i(u/)(3)_ (kiu3) to _hi(u/)(3)_ (hiu3).
+  ==
+L
+  ====
+  * 【窾】 (khwanX)
+    ==
+    - (_noun-like_) hollow
+    ==
+  ====
 $$

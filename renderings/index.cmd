@@ -3445,6 +3445,13 @@ window.onload = applyFilter;
       - (_verb-like_) [to] knock
       ==
   //
+    , `khwanX`
+    , [窾](/entries/fun#rendering-窾)
+    ,
+      ==
+      - (_noun-like_) hollow
+      ==
+  //
     , `khweajH`
     , [塊](/entries/faai#rendering-塊)
     ,
