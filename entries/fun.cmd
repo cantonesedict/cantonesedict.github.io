@@ -22,6 +22,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 <nav class="sideways">
 =={.modern}
 - [fun1](#1)
+- [fun2](#2)
 ==
 </nav>
 <## /tones ##>
@@ -292,4 +293,39 @@ P
   1. A badger.
   1. A male wolf (Kangxi: 狼牡貛牝狼).
   ++
+$$
+
+
+##{#2 .williams} (2)F(u/)n [[fun2 陰上]]
+
+<## tone-2-characters ##>
+<nav class="sideways characters">
+=={.modern}
+- ($欵2)
+==
+</nav>
+<## /tone-2-characters ##>
+
+### 欵2 | _(2)F(u/)n_ [[fun2]]
+
+$$.
+R
+  ⽋ + 7
+U
+  U+6B35
+F
+  ==
+  - (F2.78 欵) ::衷曲也至也[留]也又條件也::
+  ==
+W
+  ====
+  - [[Page~65 (1)欵]]
+    --
+    [[Alternative form of 款. **See $款fun2 for the canonical entry.**]] [[TODO]]
+    --
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected malformed 留.
+  ==
 $$
