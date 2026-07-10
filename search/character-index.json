@@ -8583,6 +8583,12 @@
 "text":"U+6953 (F1.58 楓) 木名 (Page 65 楓) The maple (Kangxi: 木也 etc.); also applied to the sycamore; _fung shan_ (fung1 san4 楓宸), the palace, the emperor (Kangxi: 楓木漢宮殿中多植之故稱楓宸)."
 }
 },
+"瘋":{
+"fung1":{
+"isCanonical":true,
+"text":"U+760B 風 (F1.58 瘋) 大疾 (Page 65 瘋) The leprosy, scrofula, and kindred diseases; insane, insensate; _fat fung_ (faat3 fung1 發瘋), leprous; _fung un_ (fung1 jyun6-2 瘋院) a lazaretto; _fung tin_ (fung1 din1 瘋癲), mad, crazed; _fung kau_ (fung1 gau2 瘋狗), a mad dog; _t'au fung_ (tau4 fung1 頭瘋), headache (Kangxi: 頭瘋病)."
+}
+},
 "風":{
 "fung1":{
 "isCanonical":true,

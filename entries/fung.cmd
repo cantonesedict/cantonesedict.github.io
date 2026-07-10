@@ -48,6 +48,7 @@ $$
 <nav class="sideways characters">
 =={.modern}
 - $楓1
+- $瘋1
 - $風1
 ==
 </nav>
@@ -73,6 +74,46 @@ W
     - _(1)fung (4)shan_
         [[fung1 san4 楓宸]],
         the palace, the emperor [[Kangxi: 楓木漢宮殿中多植之故稱楓宸]].
+    ==
+  ====
+$$
+
+### 瘋1 | _(1)Fung_ [[fung1]]
+
+$$
+R
+  ⽧ + 9
+U
+  U+760B
+A
+  ==
+  - $風1
+  ==
+F
+  ==
+  - (F1.58 瘋) 大疾
+  ==
+W
+  ====
+  - [[Page~65 (1)瘋]]
+    ==
+    - The leprosy, scrofula, and kindred diseases;
+    - insane, insensate;
+    - _f(a/)t(8) (1)fung_
+        [[faat3 fung1 發瘋]],
+        leprous;
+    - _(1)fung (u:)n(6)_
+        [[fung1 jyun6-2 瘋院]]
+        a lazaretto;
+    - _(1)fung (1)t(i/)n_
+        [[fung1 din1 瘋癲]],
+        mad, crazed;
+    - _(1)fung (2)kau_
+        [[fung1 gau2 瘋狗]],
+        a mad dog;
+    - _(4)t(')au (1)fung_
+        [[tau4 fung1 頭瘋]],
+        headache [[Kangxi: 頭瘋病]].
     ==
   ====
 $$
@@ -164,7 +205,7 @@ W
         lascivious looks.
     ==
     --
-    [[Otherwise, an alternative form of 瘋. **See $瘋fung1 for the canonical entry.**]] [[TODO]]
+    [[Otherwise, an alternative form of 瘋. **See $瘋fung1 for the canonical entry.**]]
     --
   ====
 C
