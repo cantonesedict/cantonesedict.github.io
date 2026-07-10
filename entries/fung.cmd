@@ -238,7 +238,7 @@ L
   ====
   * 【葑】 (pjowng)
     ==
-    - (_noun-like_) turnip, mustard
+    - (_noun-like_) turnip
     ==
   ====
 S

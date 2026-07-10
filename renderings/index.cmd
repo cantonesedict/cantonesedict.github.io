@@ -3576,6 +3576,7 @@ window.onload = applyFilter;
     , [菲~(rising)](/entries/fei#rendering-菲-rising)
     ,
       ==
+      - (_noun-like_) radish
       - (_adjective-like_) scant
       ==
   //
@@ -4181,7 +4182,7 @@ window.onload = applyFilter;
     , [葑](/entries/fung#rendering-葑)
     ,
       ==
-      - (_noun-like_) turnip, mustard
+      - (_noun-like_) turnip
       ==
   //
     , `pju`

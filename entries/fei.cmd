@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fei
-* %date-modified --> 2026-06-28
+* %date-modified --> 2026-07-10
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -932,6 +932,7 @@ L
   ====
   * 【菲-rising】 (phj+jX)
     ==
+    - (_noun-like_) radish
     - (_adjective-like_) scant
     ==
   ====
