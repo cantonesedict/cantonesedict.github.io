@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> Index of literary renderings by Baxter notation
-* %date-modified --> 2026-07-09
+* %date-modified --> 2026-07-10
 * %copyright-prior-years --> 2025--
 * %meta-description --> searchable index of links to literary renderings by Baxter notation
 
@@ -4514,6 +4514,16 @@ window.onload = applyFilter;
     ,
       ==
       - (_noun-like_) spoke
+      ==
+  //
+    , `pjuwng`
+    , [風~(noun)](/entries/fung#rendering-風-noun)
+    ,
+      ==
+      - (_noun-like_) wind
+      - (_noun-like_) style, manner
+      - (_noun-like_) (_met._) air
+      - (_noun-like_) (_met._) [in] heat
       ==
   //
     , `sa`
