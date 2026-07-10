@@ -47,12 +47,101 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $封1
 - $楓1
 - $瘋1
 - $風1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 封1 | _(1)Fung_ [[fung1]]
+
+$$
+R
+  ⼨ + 6
+U
+  U+5C01
+F
+  ==
+  - (F1.58 封) ::[緘]也培也又封贈::
+  ==
+W
+  ====
+  - [[Page~65 (1)封]]
+    ==
+    - The domain granted to princes [[Kangxi: 爵諸侯之土也]];
+    - to heap up earth [[Kangxi: 聚土曰封]];
+    - great [[Kangxi: 大也]], affluent [[Kangxi: 富厚也]];
+    - to enrich;
+    - to invest nobles with rule, to appoint to office, to confer investiture [[Kangxi: 凡專利自私曰封]];
+    - to give a title of nobility;
+    - to seal up, to close a letter [[Kangxi: 緘也]];
+    - an envelop of a letter, classifier of letters;
+    - 20~taels;
+    - _(1)fung k(o\)(3)_
+        [[fung1 gou3 封誥]]
+        to ennoble an officer's parents;
+    - _(1)fung (4)n(a/)m ts(e/)uk(8)_
+        [[fung1 naam4 zoek3 封男爵]]
+        to confer the title of ~~viscount~~ ``baron``;
+    - _(1)fung (2)so_
+        [[fung1 so2 封鎖]],
+        to seal up;
+    - _(1)fung p(')(o\)(3)_
+        [[fung1 pou3 封舖]]
+        to shut up a shop;
+    - _(1)fung (4)sh(u:)n_
+        [[fung1 syun4 封船]],
+        to taboo a boat for government use;
+    - _yat(7) (1)fung sun(3)_
+        [[jat1 fung1 seon3 一封信]]
+        a letter;
+    - _yat(7) (1)fung (4)ngan_
+        [[jat1 fung1 ngan4 一封銀]],
+        20~taels of silver;
+    - _(1)fung (4)p(')(i/)_
+        [[fung1 pei4 封皮]],
+        an envelop for dispatches;
+    - _(1)teng (1)fung_
+        [[deng1 fung1 釘封]],
+        a rescript inclosed in boards containing a death-warrant;
+    - _(1)fung (1)k(e/)ung t(a/)i(6) (4)shan_
+        [[fung1 goeng1 daai6 san4 封疆大臣]],
+        the high provincial officers;
+    - _(1)fung (4)shan_
+        [[fung1 san4 封神]],
+        to confer a title on an idol.
+    ==
+  ====
+C
+  ==
+  - Fan Wan entry: Corrected 絾 to 緘.
+  - Williams' 封神: Better rendered "to deify".
+  - In modern usage, used in 封面 (cover of a book or publication).
+  ==
+P
+  ++
+  1. To earth up, to cultivate (Kangxi: 培也, 壅本曰封).
+  1. A surname (Kangxi: 姓).
+  ++
+L
+  ====
+  * 【封】 (pjowng)
+    ==
+    - (_noun-like_) raised-mound, raised-boundary
+    - (_verb-like_) [to] raise mound, [to] earth up
+    - (_verb-like_) [to] seal up
+    - (_noun-like_) feoff
+    - (_verb-like_) [to] enfeoff, [to] appoint
+    - (_adjective-like_) great
+    ==
+  ====
+S
+  ==
+  - ($封bin2) (TODO) <## same as 窆 ##>
+  ==
+$$
 
 ### 楓1 | _(1)Fung_ [[fung1]]
 

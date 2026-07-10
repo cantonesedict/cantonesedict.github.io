@@ -4165,6 +4165,18 @@ window.onload = applyFilter;
       - (_noun-like_) hair
       ==
   //
+    , `pjowng`
+    , [封](/entries/fung#rendering-封)
+    ,
+      ==
+      - (_noun-like_) raised-mound, raised-boundary
+      - (_verb-like_) [to] raise mound, [to] earth up
+      - (_verb-like_) [to] seal up
+      - (_noun-like_) feoff
+      - (_verb-like_) [to] enfeoff, [to] appoint
+      - (_adjective-like_) great
+      ==
+  //
     , `pju`
     , [夫~(unvoiced)](/entries/fu#rendering-夫-unvoiced)
     ,
