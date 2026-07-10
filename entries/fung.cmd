@@ -47,10 +47,35 @@ $$
 <## tone-1-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- $楓1
 - $風1
 ==
 </nav>
 <## /tone-1-characters ##>
+
+### 楓1 | _(1)Fung_ [[fung1]]
+
+$$
+R
+  ⽊ + 9
+U
+  U+6953
+F
+  ==
+  - (F1.58 楓) 木名
+  ==
+W
+  ====
+  - [[Page~65 (1)楓]]
+    ==
+    - The maple [[Kangxi: 木也 etc.]];
+    - also applied to the sycamore;
+    - _(1)fung (4)shan_
+        [[fung1 san4 楓宸]],
+        the palace, the emperor [[Kangxi: 楓木漢宮殿中多植之故稱楓宸]].
+    ==
+  ====
+$$
 
 ### 風1 | _(1)Fung_ [[fung1]]
 
