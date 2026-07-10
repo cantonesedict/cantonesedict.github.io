@@ -4177,6 +4177,13 @@ window.onload = applyFilter;
       - (_adjective-like_) great
       ==
   //
+    , `pjowng`
+    , [葑](/entries/fung#rendering-葑)
+    ,
+      ==
+      - (_noun-like_) turnip, mustard
+      ==
+  //
     , `pju`
     , [夫~(unvoiced)](/entries/fu#rendering-夫-unvoiced)
     ,

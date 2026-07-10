@@ -50,6 +50,7 @@ $$
 - $封1
 - $楓1
 - $瘋1
+- $葑1
 - $風1
 ==
 </nav>
@@ -205,6 +206,45 @@ W
         headache [[Kangxi: 頭瘋病]].
     ==
   ====
+$$
+
+### 葑1 | _(1)Fung_ [[fung1]]
+
+$$
+R
+  ⾋ + 9
+U
+  U+8451
+F
+  ==
+  - (F1.58 葑) 葑菲菜名
+  ==
+W
+  ====
+  - [[Page~66 (1)葑]]
+    ==
+    - ~~Vegetables~~ ``A vegetable`` resembling mustard, chives [[Kangxi: 菜名 etc.]];
+    - _(1)fung (2)f(i/)_
+        [[fung1 fei2 葑菲]],
+        cheap greens;
+        _met._ poor, trifling, worthless.
+    ==
+  ====
+C
+  ==
+  - Possibly turnip (Kangxi: 葑蔓菁也).
+  ==
+L
+  ====
+  * 【葑】 (pjowng)
+    ==
+    - (_noun-like_) turnip, mustard
+    ==
+  ====
+S
+  ==
+  - $葑fung3 (TODO) <## 菰根也 ##>
+  ==
 $$
 
 ### 風1 | _(1)Fung_ [[fung1]]
