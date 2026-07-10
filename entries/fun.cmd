@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fun
-* %date-modified --> 2026-07-09
+* %date-modified --> 2026-07-10
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -426,9 +426,9 @@ F
 W
   ====
   - [[Page~65 (2)盥]]
-    ==
+    --
     [[Reading variation. **See $盥gun3 for the canonical entry.**]] [[TODO]]
-    ==
+    --
   ====
 S
   ==
