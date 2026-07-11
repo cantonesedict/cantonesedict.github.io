@@ -1500,6 +1500,10 @@ R
   ⼱ + 14
 U
   U+5E6C
+A
+  ==
+  - 帱 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W

@@ -608,6 +608,7 @@ U
 A
   ==
   - $厰2
+  - 厂 (Mainland simplified)
   ==
 F
   ==

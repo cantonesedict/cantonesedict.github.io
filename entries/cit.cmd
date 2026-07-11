@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cit
-* %date-modified --> 2026-02-28
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -172,6 +172,10 @@ U
 H
   May appear with 𠫓 having 3~strokes (+11) or 4~strokes (+12 assumed here),
   depending on the font.
+A
+  ==
+  - 彻 (Mainland simplified)
+  ==
 F
   ==
   - (F1.26 徹) 通明也透也

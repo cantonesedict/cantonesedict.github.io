@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zoeng
-* %date-modified --> 2026-06-20
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -99,6 +99,10 @@ R
   ⼨ + 8
 U
   U+5C07
+A
+  ==
+  - 将 (Mainland simplified)
+  ==
 F
   ==
   - (F1.89 將) 事之未必就時也又奉也送也又干將劍名
@@ -213,6 +217,10 @@ R
   ⼸ + 8
 U
   U+5F35
+A
+  ==
+  - 张 (Mainland simplified)
+  ==
 V
   ==
   - zoeng3^ (per Kangxi 知亮切 for "boast" sense)
@@ -1108,6 +1116,10 @@ R
   ⼨ + 8
 U
   U+5C07
+A
+  ==
+  - 将 (Mainland simplified)
+  ==
 F
   ==
   - (F1.93 將) 將帥統兵之官也
@@ -1152,6 +1164,7 @@ U
 A
   ==
   - $張3
+  - 帐 (Mainland simplified)
   ==
 F
   ==
@@ -1203,6 +1216,10 @@ R
   ⼸ + 8
 U
   U+5F35
+A
+  ==
+  - 张 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -1232,6 +1249,10 @@ R
   ⼼ + 8
 U
   U+60B5
+A
+  ==
+  - 怅 (Mainland simplified)
+  ==
 V
   ==
   - coeng3 (per 《廣韻》丑亮切)

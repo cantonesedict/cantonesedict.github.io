@@ -762,6 +762,7 @@ U
 A
   ==
   - $壍3
+  - 堑 (Mainland simplified)
   ==
 F
   ==

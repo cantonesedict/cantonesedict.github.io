@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> fai
-* %date-modified --> 2026-06-17
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -651,6 +651,10 @@ R
   ⼴ + 12
 U
   U+5EE2
+A
+  ==
+  - 废 (Mainland simplified)
+  ==
 V
   ==
   - fai3-2 (rising second in vernacular 廢廢地)

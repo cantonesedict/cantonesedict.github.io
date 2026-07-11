@@ -113,6 +113,7 @@ A
   ==
   - $剸1
   - $耑1
+  - 专 (Mainland simplified)
   ==
 F
   ==

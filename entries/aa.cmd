@@ -632,6 +632,7 @@ U
 A
   ==
   - $亞3
+  - 娅 (Mainland simplified)
   ==
 V
   ==

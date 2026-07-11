@@ -1697,6 +1697,7 @@ U
 A
   ==
   - $織3
+  - 帜 (Mainland simplified)
   ==
 V
   ==
@@ -1735,6 +1736,7 @@ U
 A
   ==
   - $厠3
+  - 厕 (Mainland simplified)
   ==
 V
   ==

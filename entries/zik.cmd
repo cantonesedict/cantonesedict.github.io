@@ -413,6 +413,10 @@ R
   ⼱ + 11
 U
   U+5E58
+A
+  ==
+  - 帻 (Mainland simplified)
+  ==
 V
   ==
   - zaak3 (per 《廣韻》側革切)

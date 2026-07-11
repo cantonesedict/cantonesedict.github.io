@@ -204,6 +204,10 @@ R
   ⼨ + 8
 U
   U+5C07
+A
+  ==
+  - 将 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -1412,6 +1416,7 @@ U
 A
   ==
   - $塲4
+  - 场 (Mainland simplified)
   ==
 F
   ==

@@ -1798,6 +1798,10 @@ U
 H
   May appear with 艹 in 賁 having 3~strokes (+12 assumed here) or 4~strokes (+13),
   depending on the font.
+A
+  ==
+  - 坟 (Mainland simplified)
+  ==
 F
   ==
   - (F1.81 墳) 墳墓又墳典言書籍也
@@ -2301,6 +2305,10 @@ U
 H
   May appear with 艹 in 賁 having 3~strokes (+12 assumed here) or 4~strokes (+13),
   depending on the font.
+A
+  ==
+  - 坟 (Mainland simplified)
+  ==
 V
   ==
   - bun6 (per 《集韻》部本切 for "raised" sense)
@@ -2343,6 +2351,10 @@ R
   ⼤ + 13
 U
   U+596E
+A
+  ==
+  - 奋 (Mainland simplified)
+  ==
 V
   ==
   - fan3 (per 《廣韻》方問切)

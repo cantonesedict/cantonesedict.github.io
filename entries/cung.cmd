@@ -1141,6 +1141,7 @@ A
   ==
   - {𠖥=⿱冖龍}
   - 龍
+  - 宠 (Mainland simplified)
   ==
 F
   ==

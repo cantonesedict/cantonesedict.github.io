@@ -75,6 +75,7 @@ A
   ==
   - $粧1
   - $裝1
+  - 妆 (Mainland simplified)
   ==
 F
   ==
@@ -731,6 +732,10 @@ R
   ⼠ + 4
 U
   U+58EF
+A
+  ==
+  - 壮 (Mainland simplified)
+  ==
 F
   ==
   - (F1.100 壯) 强壯壯大壯盛

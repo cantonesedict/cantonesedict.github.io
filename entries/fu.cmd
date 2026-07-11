@@ -2512,6 +2512,10 @@ R
   ⼴ + 7
 U
   U+5EAB
+A
+  ==
+  - 库 (Mainland simplified)
+  ==
 F
   ==
   - (F2.16 庫) 貯財之府
@@ -3266,6 +3270,7 @@ U
 A
   ==
   - 媍
+  - 妇 (Mainland simplified)
   ==
 V
   ==

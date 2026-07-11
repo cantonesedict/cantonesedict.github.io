@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> aat
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -66,6 +66,10 @@ R
   ⼟ + 14
 U
   U+58D3
+A
+  ==
+  - 压
+  ==
 V
   ==
   - aap3 (per 《廣韻》烏甲切)
