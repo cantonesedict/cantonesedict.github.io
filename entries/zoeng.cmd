@@ -923,6 +923,7 @@ U
 A
   ==
   - $奬2
+  - 奖 (Mainland simplified)
   ==
 F
   ==

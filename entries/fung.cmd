@@ -184,6 +184,7 @@ U
 A
   ==
   - $風1
+  - 疯 (Mainland simplified)
   ==
 F
   ==

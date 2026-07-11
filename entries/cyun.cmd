@@ -903,6 +903,10 @@ R
   ⽳ + 13
 U
   U+7AC4
+A
+  ==
+  - 窜 (Mainland simplified)
+  ==
 V
   ==
   - cyun2 (per Fan Wan)

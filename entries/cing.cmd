@@ -272,6 +272,7 @@ U
 A
   ==
   - $秤1 (for "weigh" sense)
+  - 称 (Mainland simplified)
   ==
 F
   ==
@@ -1030,6 +1031,10 @@ R
   ⽲ + 9
 U
   U+7A31
+A
+  ==
+  - 称 (Mainland simplified)
+  ==
 F
   ==
   - (F1.73 稱) 度量也快意曰稱意又均等也

@@ -1031,6 +1031,10 @@ R
   ⽝ + 4
 U
   U+72C0
+A
+  ==
+  - 状 (Mainland simplified)
+  ==
 V
   ==
   - zong6-2 (in 告狀)

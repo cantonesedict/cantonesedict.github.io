@@ -522,6 +522,10 @@ R
   ⽯ + 11
 U
   U+78E7
+A
+  ==
+  - 碛 (Mainland simplified)
+  ==
 V
   ==
   - cik1 (per 《廣韻》七迹切)
@@ -604,6 +608,10 @@ R
   ⽲ + 11
 U
   U+7A4D
+A
+  ==
+  - 积 (Mainland simplified)
+  ==
 V
   ==
   - zi3 (per 《廣韻》子智切 for "store" sense)

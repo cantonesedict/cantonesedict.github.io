@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> co
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -661,6 +661,10 @@ R
   ⽯ + 13
 U
   U+790E
+A
+  ==
+  - 础 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W

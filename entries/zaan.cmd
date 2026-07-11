@@ -256,6 +256,10 @@ R
   ⽫ + 8
 U
   U+76DE
+A
+  ==
+  - 盏 (Mainland simplified)
+  ==
 F
   ==
   - (F2.69 盞) 酒盞
@@ -513,6 +517,7 @@ U
 A
   ==
   - 瓉
+  - 瓒 (Mainland simplified)
   ==
 V
   ==

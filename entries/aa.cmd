@@ -441,6 +441,10 @@ R
   ⽧ + 8
 U
   U+7602
+A
+  ==
+  - 痖 (Mainland simplified)
+  ==
 F
   ==
   - (F2.75 啞) 口不能言曰啞

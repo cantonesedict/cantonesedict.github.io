@@ -552,6 +552,10 @@ R
   ⽧ + 15
 U
   U+7665
+A
+  ==
+  - 症 (Mainland simplified)
+  ==
 F
   ==
   - (F1.68 癥) 腹内結疾
@@ -570,6 +574,7 @@ W
 C
   ==
   - Williams' 癥瘕: Corrected _(1)h(a/)_ (haa1) to _(2)k(a/)_ (gaa2).
+  - Used in 癥結 (sticking point or deadlock).
   ==
 $$
 
@@ -622,6 +627,10 @@ R
   ⽰ + 9
 U
   U+798E
+A
+  ==
+  - 祯 (Mainland simplified)
+  ==
 F
   ==
   - (F1.68 禎) 祥也又善也

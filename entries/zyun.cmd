@@ -329,6 +329,7 @@ A
   ==
   - $塼1
   - $甎1
+  - 砖 (Mainland simplified)
   ==
 F
   ==

@@ -507,6 +507,10 @@ R
   ⽟ + 10
 U
   U+7472
+A
+  ==
+  - 玱 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -1692,6 +1696,7 @@ U
 A
   ==
   - $墻4
+  - 墙 (Mainland simplified)
   ==
 F
   ==

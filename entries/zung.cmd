@@ -1388,6 +1388,10 @@ R
   ⽲ + 9
 U
   U+7A2E
+A
+  ==
+  - 种 (Mainland simplified)
+  ==
 F
   ==
   - (F1.61 種) 種蒔
@@ -1861,6 +1865,7 @@ U
   U+773E
 A
   ==
+  - 众
   - $衆3
   ==
 F
@@ -1934,6 +1939,10 @@ R
   ⽲ + 9
 U
   U+7A2E
+A
+  ==
+  - 种 (Mainland simplified)
+  ==
 F
   ==
   - (F1.62 種) 栽植

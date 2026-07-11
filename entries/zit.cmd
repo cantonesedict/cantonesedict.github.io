@@ -522,6 +522,10 @@ U
 H
   May appear as either ⿸疒⿱𥫗即 (+13 assumed here) or ⿸疒⿱𥫗卽 (+15),
   depending on the font.
+A
+  ==
+  - 疖 (Mainland simplified)
+  ==
 F
   ==
   - (F1.26 癤) 小瘡

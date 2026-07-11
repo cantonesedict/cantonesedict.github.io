@@ -241,6 +241,10 @@ R
   ⽡ + 11
 U
   U+750C
+A
+  ==
+  - 瓯 (Mainland simplified)
+  ==
 V
   ==
   - ngau1 (hypercorrected initial)

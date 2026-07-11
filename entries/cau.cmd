@@ -1609,6 +1609,7 @@ U
 A
   ==
   - $儔4 (for "who" sense)
+  - 畴 (Mainland simplified)
   ==
 F
   ==

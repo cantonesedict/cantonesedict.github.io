@@ -1914,6 +1914,10 @@ R
   ⽕ + 12
 U
   U+71BE
+A
+  ==
+  - 炽 (Mainland simplified)
+  ==
 F
   ==
   - (F1.42 熾) 火盛

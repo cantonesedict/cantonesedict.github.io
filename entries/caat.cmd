@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> caat
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -261,6 +261,10 @@ R
   ⽝ + 16
 U
   U+737A
+A
+  ==
+  - 獭 (Mainland simplified)
+  ==
 V
   ==
   - taat3 (per 《廣韻》他達切)

@@ -725,6 +725,10 @@ R
   ⽕ + 12
 U
   U+71D6
+A
+  ==
+  - {𬊈=⿰火寻} (Mainland simplified)
+  ==
 F
   ==
   - (F2.37 燖) 火熟物也

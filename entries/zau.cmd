@@ -1841,6 +1841,7 @@ U
 A
   ==
   - $縐3
+  - 皱 (Mainland simplified)
   ==
 F
   ==

@@ -244,6 +244,10 @@ R
   ⽟ + 10
 U
   U+7472
+A
+  ==
+  - 玱 (Mainland simplified)
+  ==
 F
   ==
   - (F1.95 瑲) 玉名
@@ -272,6 +276,7 @@ U
 A
   ==
   - $創1
+  - 疮 (Mainland simplified)
   ==
 F
   ==
