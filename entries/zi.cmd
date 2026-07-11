@@ -206,6 +206,10 @@ W
     [[Otherwise, an alternative form of 滋. **See $滋zi1 for the canonical entry.**]]
     --
   ====
+S
+  ==
+  - ($兹ci4)
+  ==
 $$
 
 ###+ 卮1 | _(1)Ch(i/)_ [[zi1]]

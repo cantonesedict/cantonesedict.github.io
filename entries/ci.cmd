@@ -2242,6 +2242,7 @@ $$
 <## tone-4-characters ##>
 <nav class="sideways characters">
 =={.modern}
+- ($兹4)
 - ($呰4)
 - $坻4
 - $墀4
@@ -2275,6 +2276,27 @@ $$
 ==
 </nav>
 <## /tone-4-characters ##>
+
+###+ 兹4 | _(4)Ts(')z'_ [[ci4]]
+
+$$.
+R
+  ⼋ + 7
+U
+  U+5179
+F
+  [[Not present]]
+W
+  [[Not present]]
+P
+  ++
+  1. Alternative form of 茲. **See $茲ci4 for the canonical entry.**
+  ++
+S
+  ==
+  - ($兹zi1)
+  ==
+$$
 
 ###+ 呰4 | _(4)Ts(')z'_ [[ci4]]
 
@@ -2939,6 +2961,10 @@ R
   ⾋ + 6
 U
   U+8332
+A
+  ==
+  - $兹4
+  ==
 F
   [[Not present]]
 W
