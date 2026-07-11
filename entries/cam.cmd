@@ -435,6 +435,11 @@ A
   ==
   - 唚 (for vernacular "long-winded" sense)
   - $譖3 (for vernacular "long-winded" sense)
+  - 谶 (Mainland simplified)
+  ==
+V
+  ==
+  - caam3 (common for "prognostic" sense)
   ==
 F
   ==

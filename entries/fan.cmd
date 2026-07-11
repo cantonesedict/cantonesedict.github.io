@@ -1734,6 +1734,10 @@ R
   ⾔ + 3
 U
   U+8A13
+A
+  ==
+  - 训 (Mainland simplified)
+  ==
 F
   ==
   - (F1.85 訓) 敎訓也又誡也

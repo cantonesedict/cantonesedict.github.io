@@ -981,6 +981,10 @@ R
   ⾔ + 5
 U
   U+8A50
+A
+  ==
+  - 诈 (Mainland simplified)
+  ==
 F
   ==
   - (F2.76 詐) 好僞也

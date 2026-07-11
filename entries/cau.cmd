@@ -1955,6 +1955,7 @@ U
 A
   ==
   - $讐4
+  - 雠 (Mainland simplified)
   ==
 V
   ==

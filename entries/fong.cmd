@@ -608,6 +608,7 @@ A
   ==
   - 詤
   - {𧧢=⿰訁巟}
+  - 谎 (Mainland simplified)
   ==
 V
   ==
@@ -1201,6 +1202,10 @@ R
   ⾔ + 4
 U
   U+8A2A
+A
+  ==
+  - 访 (Mainland simplified)
+  ==
 V
   ==
   - fong3 (per ::《廣韻》敷[亮]切::)

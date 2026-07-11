@@ -605,6 +605,7 @@ U
 A
   ==
   - $譙3
+  - 诮 (Mainland simplified)
   ==
 V
   ==
@@ -1042,6 +1043,7 @@ U
 A
   ==
   - $樵4
+  - 谯 (Mainland simplified)
   ==
 F
   ==

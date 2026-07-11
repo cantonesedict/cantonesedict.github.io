@@ -1196,6 +1196,10 @@ R
   ⾔ + 8
 U
   U+8AD3
+A
+  ==
+  - {𬣡=⿰讠戋} (Mainland simplified)
+  ==
 V
   ==
   - cin5 (per 《廣韻》慈演切)
@@ -1262,6 +1266,7 @@ U
 A
   ==
   - $謭2
+  - 谫 (Mainland simplified)
   ==
 F
   ==

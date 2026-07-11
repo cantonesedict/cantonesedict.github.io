@@ -603,6 +603,10 @@ R
   ⾔ + 6
 U
   U+8A85
+A
+  ==
+  - 诛 (Mainland simplified)
+  ==
 F
   ==
   - (F1.43 誅) 征誅
@@ -659,6 +663,10 @@ U
 H
   May appear with 者 dotless (+8 assumed here) or dotted (+9),
   depending on the font.
+A
+  ==
+  - 诸 (Mainland simplified)
+  ==
 F
   ==
   - (F1.43 諸) 衆也

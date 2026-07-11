@@ -1087,6 +1087,7 @@ U
 A
   ==
   - $讁6
+  - 谪 (Mainland simplified)
   ==
 V
   ==

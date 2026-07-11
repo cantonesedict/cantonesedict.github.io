@@ -840,6 +840,7 @@ A
   ==
   - 争
   - $爭3
+  - 诤 (Mainland simplified)
   ==
 V
   ==

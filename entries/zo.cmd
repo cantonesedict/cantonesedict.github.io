@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zo
-* %date-modified --> 2026-04-06
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -500,6 +500,7 @@ U
 A
   ==
   - $作3 (for "curse" sense)
+  - 诅 (Mainland simplified)
   ==
 V
   ==

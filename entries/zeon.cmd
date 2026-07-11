@@ -559,6 +559,7 @@ U
 A
   ==
   - $啍1
+  - 谆 (Mainland simplified)
   ==
 V
   ==

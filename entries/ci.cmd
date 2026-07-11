@@ -3016,6 +3016,7 @@ U
 A
   ==
   - $辭4
+  - 词 (Mainland simplified)
   ==
 F
   ==

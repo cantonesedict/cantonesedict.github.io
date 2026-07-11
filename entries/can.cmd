@@ -649,6 +649,10 @@ R
   ⾔ + 5
 U
   U+8A3A
+A
+  ==
+  - 诊 (Mainland simplified)
+  ==
 V
   ==
   - zan2 (per 《廣韻》章忍切)

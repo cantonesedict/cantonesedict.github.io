@@ -2003,6 +2003,7 @@ U
 A
   ==
   - $祥4
+  - 详 (Mainland simplified)
   ==
 F
   ==

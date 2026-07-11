@@ -681,6 +681,10 @@ R
   ⾔ + 8
 U
   U+8ACF
+A
+  ==
+  - 诹 (Mainland simplified)
+  ==
 F
   ==
   - (F1.50 諏) 咨事曰諏
@@ -719,6 +723,10 @@ R
   ⾔ + 10
 U
   U+8B05
+A
+  ==
+  - 诌 (Mainland simplified)
+  ==
 V
   ==
   - cau1 (per 《廣韻》楚鳩切)
@@ -755,6 +763,7 @@ U
 A
   ==
   - $侜1
+  - 诪 (Mainland simplified)
   ==
 F
   ==

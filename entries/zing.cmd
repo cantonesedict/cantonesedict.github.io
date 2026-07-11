@@ -1544,6 +1544,10 @@ R
   ⾔ + 5
 U
   U+8A3C
+A
+  ==
+  - 证 (Mainland simplified)
+  ==
 F
   ==
   - (F1.72 証) 騐也考也
@@ -1581,6 +1585,7 @@ U
 A
   ==
   - $証3
+  - 证 (Mainland simplified)
   ==
 F
   ==

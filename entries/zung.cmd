@@ -2380,6 +2380,7 @@ U
 A
   ==
   - $誦6 (for "openly" sense)
+  - 讼 (Mainland simplified)
   ==
 V
   ==
@@ -2457,6 +2458,7 @@ U
 A
   ==
   - $頌6
+  - 诵 (Mainland simplified)
   ==
 F
   ==

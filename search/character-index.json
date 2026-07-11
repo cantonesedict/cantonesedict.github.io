@@ -408,7 +408,7 @@
 "諳":{
 "am1":{
 "isCanonical":true,
-"text":"U+8AF3 闇 am2 (per Fan Wan) ngam1 (hypercorrected initial) (F2.87 諳 _Om_ (am2)) 諳練曉也 (Page 342 諳 _Om_ (am2); here normalised to _Om_ (am1)) Accustomed, skilled in, versed (Kangxi: 練也歷也, 熟聞也); to know, fully acquainted with (Kangxi: 悉也, 知也, 曉也); knowing thoroughly, to commit to memory (Kangxi: 記也, 憶也), to recite, to chant or repeat (Kangxi: 誦也大聲也); _om lin_ (am1 lin6 諳練) well practiced in, mature; _'m om shai ts'ing_ (m4 am1 sai3 cing4 唔諳世情), unacquainted with the world; _om tsung_ (am1 zung6 諳誦) to repeat exactly."
+"text":"U+8AF3 闇 谙 (Mainland simplified) am2 (per Fan Wan) ngam1 (hypercorrected initial) (F2.87 諳 _Om_ (am2)) 諳練曉也 (Page 342 諳 _Om_ (am2); here normalised to _Om_ (am1)) Accustomed, skilled in, versed (Kangxi: 練也歷也, 熟聞也); to know, fully acquainted with (Kangxi: 悉也, 知也, 曉也); knowing thoroughly, to commit to memory (Kangxi: 記也, 憶也), to recite, to chant or repeat (Kangxi: 誦也大聲也); _om lin_ (am1 lin6 諳練) well practiced in, mature; _'m om shai ts'ing_ (m4 am1 sai3 cing4 唔諳世情), unacquainted with the world; _om tsung_ (am1 zung6 諳誦) to repeat exactly."
 },
 "am2":{
 "isCanonical":false,
@@ -564,7 +564,7 @@
 "謳":{
 "au1":{
 "isCanonical":true,
-"text":"U+8B33 嘔 歐 ngau1 (hypercorrected initial) (F1.49 謳) 謳歌長吟也 (Page 6 謳) To sing songs in recitative (Kangxi: 歌也); a chant (Kangxi: 吟也); a ballad, a ditty; _ut au_ (jyut6 au1 粵謳), Canton Songs; _au yam_ (au1 jam4 謳吟), to sing songs. (Page 6 歐) To sing; to crow merrily; in which it is like the last (謳) (Kangxi 歐: 與謳同氣出而歌也). (Page 6 嘔 _Au_ (au2); here corrected to _Au_ (au1)) to sing, to make a glad noise (Kangxi 嘔: 與謳通); 【謳】 ('uw) (_verb-like_) to sing"
+"text":"U+8B33 嘔 歐 讴 (Mainland simplified) ngau1 (hypercorrected initial) (F1.49 謳) 謳歌長吟也 (Page 6 謳) To sing songs in recitative (Kangxi: 歌也); a chant (Kangxi: 吟也); a ballad, a ditty; _ut au_ (jyut6 au1 粵謳), Canton Songs; _au yam_ (au1 jam4 謳吟), to sing songs. (Page 6 歐) To sing; to crow merrily; in which it is like the last (謳) (Kangxi 歐: 與謳同氣出而歌也). (Page 6 嘔 _Au_ (au2); here corrected to _Au_ (au1)) to sing, to make a glad noise (Kangxi 嘔: 與謳通); 【謳】 ('uw) (_verb-like_) to sing"
 }
 },
 "鷗":{
@@ -692,7 +692,7 @@
 "詫":{
 "caa3":{
 "isCanonical":true,
-"text":"U+8A6B 吒 咤 (F2.76 詫) 誇也 (Page 9|n52 詫) To talk extravagantly, to vaunt (Kangxi: 誇也); to deceive (Kangxi: 誑也); _ch'a i_ (caa3 ji6 詫異) ~~strange, foolish~~ ``wonder, astonishment``. (Page 9|n52 吒咤) Used for the last (詫). Astonished."
+"text":"U+8A6B 吒 咤 诧 (Mainland simplified) (F2.76 詫) 誇也 (Page 9|n52 詫) To talk extravagantly, to vaunt (Kangxi: 誇也); to deceive (Kangxi: 誑也); _ch'a i_ (caa3 ji6 詫異) ~~strange, foolish~~ ``wonder, astonishment``. (Page 9|n52 吒咤) Used for the last (詫). Astonished."
 }
 },
 "嗏":{
@@ -1108,7 +1108,7 @@
 "讒":{
 "caam4":{
 "isCanonical":true,
-"text":"U+8B92 (F2.63 讒) 讒佞也毀譖良善曰讒 (Page 554 讒) ~~To adulate, to humor, to flatter;~~ to misrepresent, to gloss over, to calumniate, to asperse, to traduce, to detract (Kangxi: 譖也, 崇飾惡言毀善害能也, 傷良曰讒); ~~servility;~~ detraction, malignity; _ts'am ning_ (caam4 ning6 讒佞) to cajole and asperse; _ts'am ~~chim~~ ``ch'im``_ (caam4 cim2 讒諂), to intrigue against, to slander; _ts'am yan_ (caam4 jan4 讒人), a backbiter; _ts'am in ye wo_ (caam4 jin4 je5 wo6 讒言惹禍) calumnies induce troubles; _ts'am shan_ (caam4 san4 讒臣), an intriguing officer; _ts'am hau kau ka_ (caam4 hau2 gaau1 gaa1 讒口交加), he is everywhere spoken against. Strictly, the pre-merger reading should be _ch'am_ per 《廣韻》士咸切. Williams' \"To adulate, to humor, to flatter\": Kangxi 佞也 is unhelpful. Williams' 讒諂: Corrected _chim_ (zim2) to _ch'im_ (cim2). 【讒】 (dzream) (_noun-like_) calumny"
+"text":"U+8B92 谗 (Mainland simplified) (F2.63 讒) 讒佞也毀譖良善曰讒 (Page 554 讒) ~~To adulate, to humor, to flatter;~~ to misrepresent, to gloss over, to calumniate, to asperse, to traduce, to detract (Kangxi: 譖也, 崇飾惡言毀善害能也, 傷良曰讒); ~~servility;~~ detraction, malignity; _ts'am ning_ (caam4 ning6 讒佞) to cajole and asperse; _ts'am ~~chim~~ ``ch'im``_ (caam4 cim2 讒諂), to intrigue against, to slander; _ts'am yan_ (caam4 jan4 讒人), a backbiter; _ts'am in ye wo_ (caam4 jin4 je5 wo6 讒言惹禍) calumnies induce troubles; _ts'am shan_ (caam4 san4 讒臣), an intriguing officer; _ts'am hau kau ka_ (caam4 hau2 gaau1 gaa1 讒口交加), he is everywhere spoken against. Strictly, the pre-merger reading should be _ch'am_ per 《廣韻》士咸切. Williams' \"To adulate, to humor, to flatter\": Kangxi 佞也 is unhelpful. Williams' 讒諂: Corrected _chim_ (zim2) to _ch'im_ (cim2). 【讒】 (dzream) (_noun-like_) calumny"
 }
 },
 "饞":{
@@ -1682,13 +1682,13 @@
 },
 "zam3":{
 "isCanonical":true,
-"text":"U+8B56 僭 cam3 (per Fan Wan) (F2.37 譖 _Ch'am_ (cam3)) 讒言毀人之行也 (Page 15|n58 譖 _Ch'am_ (cam3); here normalised to _Cham_ (zam3)) To slander, to vilify (Kangxi: 愬也, 䛼也, 讒也); to discredit; _~~ch'am~~ ``cham`` in_ (zam3 jin4 譖言), slanderous aspersions; _~~ch'am~~ ``cham`` yan_ (zam3 jan4 譖人), to asperse one. Fan Wan entry: Corrected 殷 to 毀. 【譖】 (tsrimH) (_verb-like_) to slander"
+"text":"U+8B56 僭 谮 (Mainland simplified) cam3 (per Fan Wan) (F2.37 譖 _Ch'am_ (cam3)) 讒言毀人之行也 (Page 15|n58 譖 _Ch'am_ (cam3); here normalised to _Cham_ (zam3)) To slander, to vilify (Kangxi: 愬也, 䛼也, 讒也); to discredit; _~~ch'am~~ ``cham`` in_ (zam3 jin4 譖言), slanderous aspersions; _~~ch'am~~ ``cham`` yan_ (zam3 jan4 譖人), to asperse one. Fan Wan entry: Corrected 殷 to 毀. 【譖】 (tsrimH) (_verb-like_) to slander"
 }
 },
 "讖":{
 "cam3":{
 "isCanonical":true,
-"text":"U+8B96 唚 (for vernacular \"long-winded\" sense) 譖 (for vernacular \"long-winded\" sense) (F2.37 讖) 符讖騐也凡讖緯皆以術數言將來之騐也 (Page 15|n58 讖) To verify, to prove (Kangxi: 驗也); a prognostic (Kangxi: 凡讖緯皆言將來之驗也); to fulfill; _ch'am u_ (cam3 jyu5 讖語), a prophecy, a hidden meaning; _ch'am hi_ (cam3 hei3 讖氣) tiresome, talkative; _ch'am wai_ (cam3 wai5 讖緯), to agree with the prophecy. Williams' 讖緯: Corrected _wai_ (wai2) to _wai_ (wai5). 【讖】 (cam3) Long-winded or verbose. 又長又讖 (jau6 coeng4 jau6 cam3): \"Both long and verbose.\" 咪咁讖啦 (mai5 gam3 cam3 la1): \"Don't be so long-winded!\" The spelling 讖 is arbitrary."
+"text":"U+8B96 唚 (for vernacular \"long-winded\" sense) 譖 (for vernacular \"long-winded\" sense) 谶 (Mainland simplified) caam3 (common for \"prognostic\" sense) (F2.37 讖) 符讖騐也凡讖緯皆以術數言將來之騐也 (Page 15|n58 讖) To verify, to prove (Kangxi: 驗也); a prognostic (Kangxi: 凡讖緯皆言將來之驗也); to fulfill; _ch'am u_ (cam3 jyu5 讖語), a prophecy, a hidden meaning; _ch'am hi_ (cam3 hei3 讖氣) tiresome, talkative; _ch'am wai_ (cam3 wai5 讖緯), to agree with the prophecy. Williams' 讖緯: Corrected _wai_ (wai2) to _wai_ (wai5). 【讖】 (cam3) Long-winded or verbose. 又長又讖 (jau6 coeng4 jau6 cam3): \"Both long and verbose.\" 咪咁讖啦 (mai5 gam3 cam3 la1): \"Don't be so long-winded!\" The spelling 讖 is arbitrary."
 }
 },
 "尋":{
@@ -1848,7 +1848,7 @@
 "診":{
 "can2":{
 "isCanonical":true,
-"text":"U+8A3A zan2 (per 《廣韻》章忍切) (F1.82 診) 視也騐也又診脉 (Page 18|n61 診) To examine, to look at (Kangxi: 視也); to try, to verify (Kangxi: 驗也); _ch'an mung_ (can2 mung6 診夢) to interpret a dream; _ch'an mak_ (can2 mak6 診脈) to feel the pulse. 【診】 (tsyinX, drinH) (_verb-like_) to examine"
+"text":"U+8A3A 诊 (Mainland simplified) zan2 (per 《廣韻》章忍切) (F1.82 診) 視也騐也又診脉 (Page 18|n61 診) To examine, to look at (Kangxi: 視也); to try, to verify (Kangxi: 驗也); _ch'an mung_ (can2 mung6 診夢) to interpret a dream; _ch'an mak_ (can2 mak6 診脈) to feel the pulse. 【診】 (tsyinX, drinH) (_verb-like_) to examine"
 }
 },
 "軫":{
@@ -2330,7 +2330,7 @@
 "讎":{
 "cau4":{
 "isCanonical":true,
-"text":"U+8B8E 讐 sau4 (common) (F1.52 讐) 寃讐 (F1.52 仇) 同上 (Page 26|n69 讐~~仇~~; here normalised to 讎) to verify, to collate with (Kangxi 讎: 應驗也); _ch'au tui_ (cau4 deoi3 讎對) to collate; Williams does not record the form 讎, and does not provide separate entries for 仇 and 讐. In modern usage: The \"enmity\" sense is spelt 仇 and read _shau_ (sau4); see 仇 sau4. The \"proofread\" sense is spelt 讎 and read _ch'au_ (cau4). I have split things up accordingly."
+"text":"U+8B8E 讐 雠 (Mainland simplified) sau4 (common) (F1.52 讐) 寃讐 (F1.52 仇) 同上 (Page 26|n69 讐~~仇~~; here normalised to 讎) to verify, to collate with (Kangxi 讎: 應驗也); _ch'au tui_ (cau4 deoi3 讎對) to collate; Williams does not record the form 讎, and does not provide separate entries for 仇 and 讐. In modern usage: The \"enmity\" sense is spelt 仇 and read _shau_ (sau4); see 仇 sau4. The \"proofread\" sense is spelt 讎 and read _ch'au_ (cau4). I have split things up accordingly."
 }
 },
 "讐":{
@@ -2502,7 +2502,7 @@
 },
 "cing2":{
 "isCanonical":true,
-"text":"U+8ACB May appear as either ⿰訁靑 or ⿰訁青 (assumed here), depending on the font. ceng2 (vernacular) (F1.72 請) 敬請迎請又托也 (Page 578 請) To request, to ask courteously, to pray, to beg (Kangxi: 謁也, 求也, 乞也問也, 祈也扣也); to request liberty to do, to ask, as for orders; to invite, to bid, to engage; to confess, to acknowledge; to inform (Kangxi: 吿也); _ts'ing ~~tso~~ ``ts'o``_ (cing2 co5 請坐) please be seated; _ts'eng tsau_ (ceng2 zau2 請酒), to ask to a dinner; _ts'ing tsau t'ip_ (cing2 zau2 tip3-2 請酒帖) an invitation to dinner; _ts'eng kau_ (ceng2 gaau3 請教) please tell me; _ts'ing k'i_ (cing2 kei4 請期), to appoint the time of marriage; _ts'ing pin_ (cing2 bin6 請便) don't let me take your time; _ts'eng liu_ (ceng2 liu5 請了), has been invited; _ts'eng sin shang_ (ceng2 sin1 saang1 請先生), to engage a teacher; _ts'ing ch'a_ (cing2 caa4 請茶), please take your tea; _ts'ing ts'am_ (cing2 caam1 請參), to request dismissal from office, to throw it up; _ts'ing ka_ (cing2 gaa3 請駕) please go, Sir; _ts'ing ming_ (cing2 ming6 請命) what do you wish? _ts'ing a_ (cing2 aa3 請啊) please; your good health; _ts'ing tsui_ (cing2 zeoi6 請罪) to apologize, to confess; _ts'eng yik_ (ceng2 jik1 請益) please let me know; _ts'eng man_ (ceng2 man6 請問) to beg, to ask; _ts'ing ts'ing_ (cing2 cing2 請請), thank you; good bye; (the word _chin-chin_ is derived from this phrase;) _ts'eng hu shik fan_ (ceng2 heoi3 sik6 faan6 請去食飯) invited out to dine. Williams' 請坐: Corrected _tso_ (zo6 去聲) to _ts'o_ (co5 上聲). Williams' 請教: To ask or consult with someone (more knowledgeable than oneself). Williams' 請先生: Changed _shang_ (sang1) to vernacular reading _shang_ (saang1). Williams' 請命: More a third-person indicative than a second-person interrogative. Williams' 請益: More a third-person indicative than a second-person request. Williams' 請問: More a second-person interrogative than a third-person indicative. Williams' 請去食飯: Corrected _fan_ (faan3) to _fan_ (faan6). 【請】 (tshjengX) (_verb-like_) to request, to ask"
+"text":"U+8ACB May appear as either ⿰訁靑 or ⿰訁青 (assumed here), depending on the font. 请 (Mainland simplified) ceng2 (vernacular) (F1.72 請) 敬請迎請又托也 (Page 578 請) To request, to ask courteously, to pray, to beg (Kangxi: 謁也, 求也, 乞也問也, 祈也扣也); to request liberty to do, to ask, as for orders; to invite, to bid, to engage; to confess, to acknowledge; to inform (Kangxi: 吿也); _ts'ing ~~tso~~ ``ts'o``_ (cing2 co5 請坐) please be seated; _ts'eng tsau_ (ceng2 zau2 請酒), to ask to a dinner; _ts'ing tsau t'ip_ (cing2 zau2 tip3-2 請酒帖) an invitation to dinner; _ts'eng kau_ (ceng2 gaau3 請教) please tell me; _ts'ing k'i_ (cing2 kei4 請期), to appoint the time of marriage; _ts'ing pin_ (cing2 bin6 請便) don't let me take your time; _ts'eng liu_ (ceng2 liu5 請了), has been invited; _ts'eng sin shang_ (ceng2 sin1 saang1 請先生), to engage a teacher; _ts'ing ch'a_ (cing2 caa4 請茶), please take your tea; _ts'ing ts'am_ (cing2 caam1 請參), to request dismissal from office, to throw it up; _ts'ing ka_ (cing2 gaa3 請駕) please go, Sir; _ts'ing ming_ (cing2 ming6 請命) what do you wish? _ts'ing a_ (cing2 aa3 請啊) please; your good health; _ts'ing tsui_ (cing2 zeoi6 請罪) to apologize, to confess; _ts'eng yik_ (ceng2 jik1 請益) please let me know; _ts'eng man_ (ceng2 man6 請問) to beg, to ask; _ts'ing ts'ing_ (cing2 cing2 請請), thank you; good bye; (the word _chin-chin_ is derived from this phrase;) _ts'eng hu shik fan_ (ceng2 heoi3 sik6 faan6 請去食飯) invited out to dine. Williams' 請坐: Corrected _tso_ (zo6 去聲) to _ts'o_ (co5 上聲). Williams' 請教: To ask or consult with someone (more knowledgeable than oneself). Williams' 請先生: Changed _shang_ (sang1) to vernacular reading _shang_ (saang1). Williams' 請命: More a third-person indicative than a second-person interrogative. Williams' 請益: More a third-person indicative than a second-person request. Williams' 請問: More a second-person interrogative than a third-person indicative. Williams' 請去食飯: Corrected _fan_ (faan3) to _fan_ (faan6). 【請】 (tshjengX) (_verb-like_) to request, to ask"
 }
 },
 "催":{
@@ -3452,7 +3452,7 @@
 "詞":{
 "ci4":{
 "isCanonical":true,
-"text":"U+8A5E 辭 (F2.34 詞) 言詞 (Page 615 詞) An expression, a phrase, a sentence, a word (Kangxi: 說也, 言也); a particle; a writing (Kangxi: 文也), an accusation; to speak, to tell the thoughts, to say (Kangxi: 意內而言外也)~~,~~; to accuse (Kangxi: 吿也); to request, to ask (Kangxi: 請也); _ts'z' pat tat i_ (ci4 bat1 daat6 ji3 詞不達意) the sentence does not fully convey the idea; _ts'z' lam_ (ci4 lam4 詞林), the Hanlin (翰林) Academy; _man ts'z'_ (man4 ci4 文詞) writings; _chong ts'z'_ (zong6 ci4 狀詞) an accusation, a petition. (Page 615 辭辞) Similar to the last (詞); 【詞】 (zi) (_noun-like_) phrase, expression"
+"text":"U+8A5E 辭 词 (Mainland simplified) (F2.34 詞) 言詞 (Page 615 詞) An expression, a phrase, a sentence, a word (Kangxi: 說也, 言也); a particle; a writing (Kangxi: 文也), an accusation; to speak, to tell the thoughts, to say (Kangxi: 意內而言外也)~~,~~; to accuse (Kangxi: 吿也); to request, to ask (Kangxi: 請也); _ts'z' pat tat i_ (ci4 bat1 daat6 ji3 詞不達意) the sentence does not fully convey the idea; _ts'z' lam_ (ci4 lam4 詞林), the Hanlin (翰林) Academy; _man ts'z'_ (man4 ci4 文詞) writings; _chong ts'z'_ (zong6 ci4 狀詞) an accusation, a petition. (Page 615 辭辞) Similar to the last (詞); 【詞】 (zi) (_noun-like_) phrase, expression"
 }
 },
 "踟":{
@@ -3686,7 +3686,7 @@
 "諂":{
 "cim2":{
 "isCanonical":true,
-"text":"U+8AC2 讇 (F2.49 諂) 諛媚也 (F2.49 讇) 同上 (Page 16* 諂~~𨶒~~``讇``) To flatter (Kangxi: 同讇省諛也), to lie to; to cajole; to give a god or man worship or praise not due to him; to fawn on, to court; gratifying to one's feelings, adulation, sycophancy; _ch'im mi chi yan_ (cim2 mei6 zi1 jan4 諂媚之人), a flatterer; _ch'im u_ (cim2 jyu6 諂譽) to praise extravagantly; _ch'im siu_ (cim2 siu3 諂笑) to cajole and laugh with; _p'an i mo ch'im_ (pan4 ji4 mou4 cim2 貧而無諂), poor without being sycophantic. Fan Wan entry: Corrected headword 謟 to 諂, headword ⿵門謟 to 讇, and headword self-reference to 上. 【諂】 (trhjemX) (_verb-like_) to flatter"
+"text":"U+8AC2 讇 谄 (Mainland simplified) (F2.49 諂) 諛媚也 (F2.49 讇) 同上 (Page 16* 諂~~𨶒~~``讇``) To flatter (Kangxi: 同讇省諛也), to lie to; to cajole; to give a god or man worship or praise not due to him; to fawn on, to court; gratifying to one's feelings, adulation, sycophancy; _ch'im mi chi yan_ (cim2 mei6 zi1 jan4 諂媚之人), a flatterer; _ch'im u_ (cim2 jyu6 諂譽) to praise extravagantly; _ch'im siu_ (cim2 siu3 諂笑) to cajole and laugh with; _p'an i mo ch'im_ (pan4 ji4 mou4 cim2 貧而無諂), poor without being sycophantic. Fan Wan entry: Corrected headword 謟 to 諂, headword ⿵門謟 to 讇, and headword self-reference to 上. 【諂】 (trhjemX) (_verb-like_) to flatter"
 }
 },
 "讇":{
@@ -4066,7 +4066,7 @@
 "設":{
 "cit3":{
 "isCanonical":true,
-"text":"U+8A2D (F1.26 設) 置主也陳設也 (Page 23* 設) To institute, to establish (Kangxi: 立也); to set forth (Kangxi: 施陳也); to spread, as a net; to arrange, to place, to set up (Kangxi: 置也); to suppose (Kangxi: 假借之辭); a band of soldiers, or its officer (Kangxi: 突厥別部典兵者曰設); large, said of a sword (Kangxi: 大也); _'m shai ch'it kun_ (m4 sai2 cit3 gun1 唔使設官), not to care anything for the magistrates, or there's no need of them; _ch'it lap_ (cit3 lap6 設立) to establish; _ch'it in_ (cit3 jin4 設筵), to make a feast; _ch'it fat_ (cit3 faat3 設法) to devise means; _ch'it kai_ (cit3 gai3 設計) to plot against; _ch'it wak_ (cit3 waak6 設或) or _ch'it sz'_ (cit3 si2 設使) suppose that; _p'o ch'it_ (pou1 cit3 鋪設) to set in order, to prepare; _ch'it kau_ (cit3 gaau3 設教) or _ch'it cheung_ (cit3 zoeng3 設帳) to open a school. A colloquial word. A very little, a bit, not half enough; _tun ch'it kom tun_ (dyun2 cit3 gam3 dyun2 短設咁短), not half long enough. 【設】 (syet) (_verb-like_) to set (_verb-like_) to establish (_verb-like_) to suppose"
+"text":"U+8A2D 设 (Mainland simplified) (F1.26 設) 置主也陳設也 (Page 23* 設) To institute, to establish (Kangxi: 立也); to set forth (Kangxi: 施陳也); to spread, as a net; to arrange, to place, to set up (Kangxi: 置也); to suppose (Kangxi: 假借之辭); a band of soldiers, or its officer (Kangxi: 突厥別部典兵者曰設); large, said of a sword (Kangxi: 大也); _'m shai ch'it kun_ (m4 sai2 cit3 gun1 唔使設官), not to care anything for the magistrates, or there's no need of them; _ch'it lap_ (cit3 lap6 設立) to establish; _ch'it in_ (cit3 jin4 設筵), to make a feast; _ch'it fat_ (cit3 faat3 設法) to devise means; _ch'it kai_ (cit3 gai3 設計) to plot against; _ch'it wak_ (cit3 waak6 設或) or _ch'it sz'_ (cit3 si2 設使) suppose that; _p'o ch'it_ (pou1 cit3 鋪設) to set in order, to prepare; _ch'it kau_ (cit3 gaau3 設教) or _ch'it cheung_ (cit3 zoeng3 設帳) to open a school. A colloquial word. A very little, a bit, not half enough; _tun ch'it kom tun_ (dyun2 cit3 gam3 dyun2 短設咁短), not half long enough. 【設】 (syet) (_verb-like_) to set (_verb-like_) to establish (_verb-like_) to suppose"
 }
 },
 "轍":{
@@ -4156,7 +4156,7 @@
 "誚":{
 "ciu3":{
 "isCanonical":true,
-"text":"U+8A9A 譙 ziu6 (per 《廣韻》才笑切) (F2.7 誚) 以言相譏詆曰誚 (Page 581 譙) Often used for _ts'iu_ (ciu3) 誚, to scold (Kangxi: 譙誚二字古通). to ridicule (Kangxi 譙: 嬈譊也); to bawl out at (Kangxi 譙: 呵也); to reprehend (Kangxi 譙: 責也); (Page 582 誚) To ridicule; to blame, to reprehend (Kangxi: 讓也, 誚責也); to speak harshly against; _ki ts'iu_ (gei1 ciu3 譏誚) to satirize. 【誚】 (dzjewH) (_verb-like_) to blame"
+"text":"U+8A9A 譙 诮 (Mainland simplified) ziu6 (per 《廣韻》才笑切) (F2.7 誚) 以言相譏詆曰誚 (Page 581 譙) Often used for _ts'iu_ (ciu3) 誚, to scold (Kangxi: 譙誚二字古通). to ridicule (Kangxi 譙: 嬈譊也); to bawl out at (Kangxi 譙: 呵也); to reprehend (Kangxi 譙: 責也); (Page 582 誚) To ridicule; to blame, to reprehend (Kangxi: 讓也, 誚責也); to speak harshly against; _ki ts'iu_ (gei1 ciu3 譏誚) to satirize. 【誚】 (dzjewH) (_verb-like_) to blame"
 }
 },
 "譙":{
@@ -4166,7 +4166,7 @@
 },
 "ciu4":{
 "isCanonical":true,
-"text":"U+8B59 樵 (F2.5 譙) 地名又殺也 (Page 581 樵) a lookout terrace, for which the next (譙) is used (Kangxi 樵: 與譙通, ...高樓以望敵也); (Page 581 譙) A lookout tower or loft (Kangxi: 樓之別稱也); _~~tsiu~~ ``ts'iu`` ku_ (ciu4 geoi1 譙車), a high turret laid on wheels for archers. Fan Wan entry: Normalised headword ⿱誰灬 to 譙. Williams' 譙車: Corrected _tsiu_ (ziu4) to _ts'iu_ (ciu4). A surname (Kangxi: 姓). 【譙】 (dzjew) (_noun-like_) turret Used in 譙譙. 【譙譙】 (dzjew dzjew) (_adjective-like_) worn out"
+"text":"U+8B59 樵 谯 (Mainland simplified) (F2.5 譙) 地名又殺也 (Page 581 樵) a lookout terrace, for which the next (譙) is used (Kangxi 樵: 與譙通, ...高樓以望敵也); (Page 581 譙) A lookout tower or loft (Kangxi: 樓之別稱也); _~~tsiu~~ ``ts'iu`` ku_ (ciu4 geoi1 譙車), a high turret laid on wheels for archers. Fan Wan entry: Normalised headword ⿱誰灬 to 譙. Williams' 譙車: Corrected _tsiu_ (ziu4) to _ts'iu_ (ciu4). A surname (Kangxi: 姓). 【譙】 (dzjew) (_noun-like_) turret Used in 譙譙. 【譙譙】 (dzjew dzjew) (_adjective-like_) worn out"
 }
 },
 "鞘":{
@@ -4758,7 +4758,7 @@
 "詳":{
 "coeng4":{
 "isCanonical":true,
-"text":"U+8A73 祥 (F1.91 詳) 詳備詳悉細密也 (Page 567 詳) To examine carefully, to learn and report upon, to inquire fully into (Kangxi: 審議也); to discourse upon (Kangxi: 論也), to reason upon (Kangxi: 諟也); to state the circumstances, to minutely narrate (Kangxi: 詳言之也, 詳悉也); the detail, the particulars, the facts, the arguments; minutely, fully; _ts'eung ha_ (coeng4 haa5 詳吓), examine into it; _ts'eung sai kong_ (coeng4 sai3 gong2 詳細講), told every particular; _ts'eung man_ (coeng4 man4 詳文), an official report; _'m chi ts'eung sai_ (m4 zi1 coeng4 sai3 唔知詳細) I don't know all the facts; _ts'eung sik_ (coeng4 sik1 詳悉) a luminous account of, intelligible. Fan Wan entry: Corrected ⿰亻⿱十用 to 備. 【詳】 (zjang) (_verb-like_) to scrutinise (_adjective-like_) detailed (_verb-like_) to detail, to elaborate"
+"text":"U+8A73 祥 详 (Mainland simplified) (F1.91 詳) 詳備詳悉細密也 (Page 567 詳) To examine carefully, to learn and report upon, to inquire fully into (Kangxi: 審議也); to discourse upon (Kangxi: 論也), to reason upon (Kangxi: 諟也); to state the circumstances, to minutely narrate (Kangxi: 詳言之也, 詳悉也); the detail, the particulars, the facts, the arguments; minutely, fully; _ts'eung ha_ (coeng4 haa5 詳吓), examine into it; _ts'eung sai kong_ (coeng4 sai3 gong2 詳細講), told every particular; _ts'eung man_ (coeng4 man4 詳文), an official report; _'m chi ts'eung sai_ (m4 zi1 coeng4 sai3 唔知詳細) I don't know all the facts; _ts'eung sik_ (coeng4 sik1 詳悉) a luminous account of, intelligible. Fan Wan entry: Corrected ⿰亻⿱十用 to 備. 【詳】 (zjang) (_verb-like_) to scrutinise (_adjective-like_) detailed (_verb-like_) to detail, to elaborate"
 }
 },
 "長":{
@@ -5980,7 +5980,7 @@
 "詮":{
 "cyun4":{
 "isCanonical":true,
-"text":"U+8A6E cyun1 (per 《廣韻》此縁切) (F2.20 詮 _Sun_ (syun4)) 懌言也解喻也評論事理也 (Page 605 詮) To explain, to comment on (Kangxi: 解喩也); ~~select sayings;~~ to illustrate, to expound (Kangxi: 具也 etc.) ~~books~~; to discourse upon, to set forth and enforce; _chu ts'un_ (zyu3 cyun4 註詮), explained by notes. Fan Wan entry: Fixed missing stroke in 解, and corrected 愉 to 喻. Williams' \"select sayings\": This is a direct rendering Kangxi 擇言也, but does not sit right, given it is part of the \"explain\" sense."
+"text":"U+8A6E 诠 (Mainland simplified) cyun1 (per 《廣韻》此縁切) (F2.20 詮 _Sun_ (syun4)) 懌言也解喻也評論事理也 (Page 605 詮) To explain, to comment on (Kangxi: 解喩也); ~~select sayings;~~ to illustrate, to expound (Kangxi: 具也 etc.) ~~books~~; to discourse upon, to set forth and enforce; _chu ts'un_ (zyu3 cyun4 註詮), explained by notes. Fan Wan entry: Fixed missing stroke in 解, and corrected 愉 to 喻. Williams' \"select sayings\": This is a direct rendering Kangxi 擇言也, but does not sit right, given it is part of the \"explain\" sense."
 }
 },
 "跧":{
@@ -6896,7 +6896,7 @@
 "訓":{
 "fan3":{
 "isCanonical":true,
-"text":"U+8A13 (F1.85 訓) 敎訓也又誡也 (Page 47 訓) To instruct (Kangxi: 說敎也, 導也), to teach (Kangxi: 誨也)~~, to exhort~~; to explain (Kangxi: 訓者釋所言之理也); a doctrine, precept (Kangxi: 古言可爲法也); ~~definition;~~ _fan kau_ (fan3 gaau3 訓教) to instruct; _fan lin_ (fan3 lin6 訓練) ~~to teach the manual~~ ``to train``; _fan to_ (fan3 dou6 訓導) the ~~snperintendent~~ ``superintendent`` of education in each department; _ku fan_ (gu2 fan3 古訓) tradition. To caution (Kangxi: 誡也). To comply with, to go along with (Kangxi: 順也). To train. 【訓】 (xjunH) (_verb-like_) to instruct (_verb-like_) to explain (_verb-like_) to comply (with)"
+"text":"U+8A13 训 (Mainland simplified) (F1.85 訓) 敎訓也又誡也 (Page 47 訓) To instruct (Kangxi: 說敎也, 導也), to teach (Kangxi: 誨也)~~, to exhort~~; to explain (Kangxi: 訓者釋所言之理也); a doctrine, precept (Kangxi: 古言可爲法也); ~~definition;~~ _fan kau_ (fan3 gaau3 訓教) to instruct; _fan lin_ (fan3 lin6 訓練) ~~to teach the manual~~ ``to train``; _fan to_ (fan3 dou6 訓導) the ~~snperintendent~~ ``superintendent`` of education in each department; _ku fan_ (gu2 fan3 古訓) tradition. To caution (Kangxi: 誡也). To comply with, to go along with (Kangxi: 順也). To train. 【訓】 (xjunH) (_verb-like_) to instruct (_verb-like_) to explain (_verb-like_) to comply (with)"
 }
 },
 "墳":{
@@ -7456,7 +7456,7 @@
 "誹":{
 "fei2":{
 "isCanonical":true,
-"text":"U+8AB9 非 fai3 (per 《廣韻》方味切) fei1 (per 《廣韻》甫微切) (F1.39 誹) 誹謗 (Page 53 誹) To backbite, to speak against (Kangxi: 謗也, 𧨚也, 或省作非); _fi p'ong_ (fei2 pong3 誹謗) to slander. The reading _fi_ (fei2) is not unattested; 《集韻》 has the readings 妃尾切 and 府尾切, both explained 謗也. 【誹】 (pj+j, pj+jH) (_verb-like_) to slander"
+"text":"U+8AB9 非 诽 (Mainland simplified) fai3 (per 《廣韻》方味切) fei1 (per 《廣韻》甫微切) (F1.39 誹) 誹謗 (Page 53 誹) To backbite, to speak against (Kangxi: 謗也, 𧨚也, 或省作非); _fi p'ong_ (fei2 pong3 誹謗) to slander. The reading _fi_ (fei2) is not unattested; 《集韻》 has the readings 妃尾切 and 府尾切, both explained 謗也. 【誹】 (pj+j, pj+jH) (_verb-like_) to slander"
 }
 },
 "肥":{
@@ -7554,7 +7554,7 @@
 "課":{
 "fo3":{
 "isCanonical":true,
-"text":"U+8AB2 (F2.61 課) 說課又試也第也計也程也 (Page 54 課) A plan, an example, a task, an exercise; literary pursuits; to essay, to try``, to test, to assess`` (Kangxi: 試也 etc.); to counsel, to deliberate; to exhort; to examine; ~~a poll~~ tax (Kangxi: 稅也); _ko fo ngan_ (gou1 fo3 ngan4 ？課銀), allowance given students; _fo man_ (fo3 man4 課文), to criticise compositions; _ui fo_ (wui6 fo3 會課) to hold a concourse for writing; _ut fo_ (jyut6 fo3 月課) monthly trial for composition; _kung fo_ (gung1 fo3 功課) a stint of work; _yat fo_ (jat6 fo3 日課) a daily task, or lesson. Williams' \"to deliberate\": This is a dubious rendering of Kangxi 議也 (which is admittedly unhelpful). Williams' 功課: Now \"homework\". Williams' 日課: Corrected _yat_ (jat1) to _yat_ (jat6). To compute (Kangxi: 計也程也). 【課】 (khwaH) (_verb-like_) to assess (_noun-like_) tax"
+"text":"U+8AB2 课 (Mainland simplified) (F2.61 課) 說課又試也第也計也程也 (Page 54 課) A plan, an example, a task, an exercise; literary pursuits; to essay, to try``, to test, to assess`` (Kangxi: 試也 etc.); to counsel, to deliberate; to exhort; to examine; ~~a poll~~ tax (Kangxi: 稅也); _ko fo ngan_ (gou1 fo3 ngan4 ？課銀), allowance given students; _fo man_ (fo3 man4 課文), to criticise compositions; _ui fo_ (wui6 fo3 會課) to hold a concourse for writing; _ut fo_ (jyut6 fo3 月課) monthly trial for composition; _kung fo_ (gung1 fo3 功課) a stint of work; _yat fo_ (jat6 fo3 日課) a daily task, or lesson. Williams' \"to deliberate\": This is a dubious rendering of Kangxi 議也 (which is admittedly unhelpful). Williams' 功課: Now \"homework\". Williams' 日課: Corrected _yat_ (jat1) to _yat_ (jat6). To compute (Kangxi: 計也程也). 【課】 (khwaH) (_verb-like_) to assess (_noun-like_) tax"
 }
 },
 "貨":{
@@ -7694,7 +7694,7 @@
 "謊":{
 "fong1":{
 "isCanonical":true,
-"text":"U+8B0A 詤 𧧢 fong2 (alternative per 《廣韻》許昉切 and 呼晃切 for 𧧢) (F1.99 謊 _Fong_ (fong2)) 說謊謬言也 (Page 57 謊 _Fong_ (fong2); here normalised to _Fong_ (fong1)) To talk in sleep (Kangxi 詤: 夢言也), incoherent; to lie, lying, raving; _fong in_ (fong1 jin4 謊言), lies; _fong mau_ (fong1 mau6 謊謬) untrue. Williams and Kangxi print the headword as ⿰訁⿱艹㠩. Williams' 謊謬: To be distinguished from 荒謬, \"absurd\"."
+"text":"U+8B0A 詤 𧧢 谎 (Mainland simplified) fong2 (alternative per 《廣韻》許昉切 and 呼晃切 for 𧧢) (F1.99 謊 _Fong_ (fong2)) 說謊謬言也 (Page 57 謊 _Fong_ (fong2); here normalised to _Fong_ (fong1)) To talk in sleep (Kangxi 詤: 夢言也), incoherent; to lie, lying, raving; _fong in_ (fong1 jin4 謊言), lies; _fong mau_ (fong1 mau6 謊謬) untrue. Williams and Kangxi print the headword as ⿰訁⿱艹㠩. Williams' 謊謬: To be distinguished from 荒謬, \"absurd\"."
 },
 "fong2":{
 "isCanonical":false,
@@ -7772,7 +7772,7 @@
 "訪":{
 "fong2":{
 "isCanonical":true,
-"text":"U+8A2A fong3 (per 《廣韻》敷亮切) (F1.99 訪) 訪問謀也謁見也 (Page 56 訪) To inquire ``extensively``, to search out, to inform one's self (Kangxi: 汎謀曰訪 etc., 問也); to ask advice of; to consult, to deliberate (Kangxi: 謀也, 議也); _fong man_ (fong2 man6 訪問) to inquire about; _fong na_ (fong2 naa4 訪拿), to find out and seize; _fong ch'at_ (fong2 caat3 訪察) to examine into a matter officially; _fong k'au_ (fong2 kau4 訪求), to inquire for carefully, to search. The reading _fong_ (fong2) is not unattested; Kangxi has 又《正字通》𡚱罔切芳上聲義同. Fan Wan entry: Corrected malformed bottom-right component of 謁. Williams' 訪問: Now \"interview\". To visit (Kangxi: 及也見也, 謁見也). 【訪】 (phjangH) (_verb-like_) to inquire"
+"text":"U+8A2A 访 (Mainland simplified) fong3 (per 《廣韻》敷亮切) (F1.99 訪) 訪問謀也謁見也 (Page 56 訪) To inquire ``extensively``, to search out, to inform one's self (Kangxi: 汎謀曰訪 etc., 問也); to ask advice of; to consult, to deliberate (Kangxi: 謀也, 議也); _fong man_ (fong2 man6 訪問) to inquire about; _fong na_ (fong2 naa4 訪拿), to find out and seize; _fong ch'at_ (fong2 caat3 訪察) to examine into a matter officially; _fong k'au_ (fong2 kau4 訪求), to inquire for carefully, to search. The reading _fong_ (fong2) is not unattested; Kangxi has 又《正字通》𡚱罔切芳上聲義同. Fan Wan entry: Corrected malformed bottom-right component of 謁. Williams' 訪問: Now \"interview\". To visit (Kangxi: 及也見也, 謁見也). 【訪】 (phjangH) (_verb-like_) to inquire"
 }
 },
 "貺":{
@@ -8304,7 +8304,7 @@
 "訃":{
 "fu6":{
 "isCanonical":true,
-"text":"U+8A03 赴 fu3 (per 《廣韻》芳遇切) (F2.17 訃) 訃音報喪曰訃 (Page 61 訃) To announce the death (Kangxi: 吿喪也) of a parent or relative by the nearest mourner on the 7th day; to go to (Kangxi: 至也); _fu yam_ (fu6 jam1 訃音), a letter announcing the death of a parent. 【訃】 (phjuH) (_verb-like_) to announce death"
+"text":"U+8A03 赴 讣 (Mainland simplified) fu3 (per 《廣韻》芳遇切) (F2.17 訃) 訃音報喪曰訃 (Page 61 訃) To announce the death (Kangxi: 吿喪也) of a parent or relative by the nearest mourner on the 7th day; to go to (Kangxi: 至也); _fu yam_ (fu6 jam1 訃音), a letter announcing the death of a parent. 【訃】 (phjuH) (_verb-like_) to announce death"
 }
 },
 "負":{
@@ -8376,7 +8376,7 @@
 "詼":{
 "fui1":{
 "isCanonical":true,
-"text":"U+8A7C 悝 (F2.80 詼) 詼諧調戲也 (Page 62 詼) To play with, to laugh at (Kangxi: 調戲也, 譏戲也, 謔也嘲也); _fui siu_ (fui1 siu3 詼笑), to ridicule; _fui k'ek_ (fui1 kek6 詼劇) to gambol with; _fui hai_ (fui1 haai4 詼諧), to dally and jeer with."
+"text":"U+8A7C 悝 诙 (Mainland simplified) (F2.80 詼) 詼諧調戲也 (Page 62 詼) To play with, to laugh at (Kangxi: 調戲也, 譏戲也, 謔也嘲也); _fui siu_ (fui1 siu3 詼笑), to ridicule; _fui k'ek_ (fui1 kek6 詼劇) to gambol with; _fui hai_ (fui1 haai4 詼諧), to dally and jeer with."
 }
 },
 "魁":{
@@ -8418,7 +8418,7 @@
 "誨":{
 "fui3":{
 "isCanonical":true,
-"text":"U+8AA8 (F2.82 誨) 敎訓也 (Page 63 誨) To teach, to reiterate instruction (Kangxi: 曉敎也 etc.); to admonish, to give line upon line; to induce, to lead to; inviting; _kau fui_ (gaau3 fui3 教誨) to teach diligently. Fan Wan entry: Fixed missing strokes in 敎. 【誨】 (xwojH) (_verb-like_) to instruct, (_met._) to induce"
+"text":"U+8AA8 诲 (Mainland simplified) (F2.82 誨) 敎訓也 (Page 63 誨) To teach, to reiterate instruction (Kangxi: 曉敎也 etc.); to admonish, to give line upon line; to induce, to lead to; inviting; _kau fui_ (gaau3 fui3 教誨) to teach diligently. Fan Wan entry: Fixed missing strokes in 敎. 【誨】 (xwojH) (_verb-like_) to instruct, (_met._) to induce"
 }
 },
 "靧":{
@@ -8750,7 +8750,7 @@
 "詐":{
 "zaa3":{
 "isCanonical":true,
-"text":"U+8A50 (F2.76 詐) 好僞也 (Page 8 詐) To deceive, to cheat, to impose upon (Kangxi: 欺也); erroneous, false (Kangxi: 僞也); to feign, to make believe; artful, cunning (Kangxi: 詭譎也); fraudulent; _cha kwai cha ma_ (zaa3 gwai2 zaa3 maa5 詐鬼詐馬), pretending to act like a fool; _ngo cha_ (ngo4 zaa3 訛詐) to extort money falsely; _kan cha_ (gaan1 zaa3 奸詐) to delude; _cha ka i_ (zaa3 gaa2-1 ji3-1 詐假意), false; _cha ngai_ (zaa3 ngai6 詐偽) to humbug, suppositious; _cha fan_ (zaa3 fan3 詐瞓) to sham sleep; _cha ching ki_ (zaa3 zing3 gei3 詐正記) to feign to be good. 【詐】 (tsraeH) (_verb-like_) to deceive, (_met._) cunning 【詐諦】 (zaa3 dai3) To pretend. The spelling 諦 for dai3 is arbitrary (but well established)."
+"text":"U+8A50 诈 (Mainland simplified) (F2.76 詐) 好僞也 (Page 8 詐) To deceive, to cheat, to impose upon (Kangxi: 欺也); erroneous, false (Kangxi: 僞也); to feign, to make believe; artful, cunning (Kangxi: 詭譎也); fraudulent; _cha kwai cha ma_ (zaa3 gwai2 zaa3 maa5 詐鬼詐馬), pretending to act like a fool; _ngo cha_ (ngo4 zaa3 訛詐) to extort money falsely; _kan cha_ (gaan1 zaa3 奸詐) to delude; _cha ka i_ (zaa3 gaa2-1 ji3-1 詐假意), false; _cha ngai_ (zaa3 ngai6 詐偽) to humbug, suppositious; _cha fan_ (zaa3 fan3 詐瞓) to sham sleep; _cha ching ki_ (zaa3 zing3 gei3 詐正記) to feign to be good. 【詐】 (tsraeH) (_verb-like_) to deceive, (_met._) cunning 【詐諦】 (zaa3 dai3) To pretend. The spelling 諦 for dai3 is arbitrary (but well established)."
 }
 },
 "醡":{
@@ -8988,7 +8988,7 @@
 "謫":{
 "zaak6":{
 "isCanonical":true,
-"text":"U+8B2B 讁 zaak3 (alternative(?) per 《廣韻》陟革切) (F2.89 讁) 責也貶也 (F2.89 適) 同上 (Page 13|n56 謫讁) To blame, to reprehend (Kangxi 謫: 責也, 咎也); to ~~disgracc~~ ``disgrace`` officers, to punish (Kangxi 謫: 罰也) by disgracing; to scold, to be angry at (Kangxi 謫: 怒也), to find fault with; flaw, error (Kangxi 謫: 罪也過也); a change of appearance (Kangxi 謫: 變氣也); _chak kan_ (zaak6 gaan1 謫奸), to disgrace an officer. Whilst 《廣韻》 has the headline reading 陟革切 _chak_ (zaak3), it also has the in-entry alternative 又丈厄切 _chak_ (zaak6). It is unclear whether this is intended as a cross-reference or as a genuine alternative for the \"blame\" sense. 【謫】 (treak) (_verb-like_) to blame (_verb-like_) to punish, to disgrace"
+"text":"U+8B2B 讁 谪 (Mainland simplified) zaak3 (alternative(?) per 《廣韻》陟革切) (F2.89 讁) 責也貶也 (F2.89 適) 同上 (Page 13|n56 謫讁) To blame, to reprehend (Kangxi 謫: 責也, 咎也); to ~~disgracc~~ ``disgrace`` officers, to punish (Kangxi 謫: 罰也) by disgracing; to scold, to be angry at (Kangxi 謫: 怒也), to find fault with; flaw, error (Kangxi 謫: 罪也過也); a change of appearance (Kangxi 謫: 變氣也); _chak kan_ (zaak6 gaan1 謫奸), to disgrace an officer. Whilst 《廣韻》 has the headline reading 陟革切 _chak_ (zaak3), it also has the in-entry alternative 又丈厄切 _chak_ (zaak6). It is unclear whether this is intended as a cross-reference or as a genuine alternative for the \"blame\" sense. 【謫】 (treak) (_verb-like_) to blame (_verb-like_) to punish, to disgrace"
 }
 },
 "讁":{
@@ -9166,7 +9166,7 @@
 "讚":{
 "zaan3":{
 "isCanonical":true,
-"text":"U+8B9A 讃 贊 (F2.70 讚) 稱美也 (Page 555 贊) to praise, to commend, in which sense it is interchanged with the next (讚); (Page 555 讚) To praise, to commend, to laud (Kangxi: 稱人之美曰讚); to sing praises to; to record the praises of (Kangxi: 又錄也); to explain (Kangxi: 解也); _tak yan tsan_ (dak1 jan4 zaan3 得人讚) to be praised, praiseworthy; _tsan mi_ (zaan3 mei5 讚美), to praise; _tsan sin_ (zaan3 sin6 讚羨) to commend; _tsung tsan_ (zung6 zaan3 頌讚) to extol, to sing praises to; _tsan tak kwo_ (zaan3 dak1 gwo3 頌得過) laudable. 【讚】 (tsanH) (_verb-like_) to praise"
+"text":"U+8B9A 讃 贊 赞 (Mainland simplified) (F2.70 讚) 稱美也 (Page 555 贊) to praise, to commend, in which sense it is interchanged with the next (讚); (Page 555 讚) To praise, to commend, to laud (Kangxi: 稱人之美曰讚); to sing praises to; to record the praises of (Kangxi: 又錄也); to explain (Kangxi: 解也); _tak yan tsan_ (dak1 jan4 zaan3 得人讚) to be praised, praiseworthy; _tsan mi_ (zaan3 mei5 讚美), to praise; _tsan sin_ (zaan3 sin6 讚羨) to commend; _tsung tsan_ (zung6 zaan3 頌讚) to extol, to sing praises to; _tsan tak kwo_ (zaan3 dak1 gwo3 頌得過) laudable. 【讚】 (tsanH) (_verb-like_) to praise"
 }
 },
 "贊":{
@@ -9298,7 +9298,7 @@
 },
 "zang3":{
 "isCanonical":true,
-"text":"U+8ACD May appear as either ⿰訁争 (+6) or ⿰訁爭 (+8 assumed here), depending on the font. 争 爭 zaang3 (longer syllable) (F2.29 諍 _Chang_ (zang6)) 諫諍救正之也 (Page 20|n63 諍) To remonstrate with; to stop a wrong (Kangxi: 止也, 謂止其失也, 諫諍救正也); _kan chang_ (gaan3 zang3 諫諍) to reprove one's sovereign; to reprehend. (Page 20|n63 爭 _Chang_ (zaang1); _Chang_ (zang3) implied) to reprove, to remonstrate, in which senses it is used for the last (諍) (Kangxi 爭: 本作諍諫諍也止也). Fan Wan entry: 諍 is spuriously placed under the final _ang_ (ang6)."
+"text":"U+8ACD May appear as either ⿰訁争 (+6) or ⿰訁爭 (+8 assumed here), depending on the font. 争 爭 诤 (Mainland simplified) zaang3 (longer syllable) (F2.29 諍 _Chang_ (zang6)) 諫諍救正之也 (Page 20|n63 諍) To remonstrate with; to stop a wrong (Kangxi: 止也, 謂止其失也, 諫諍救正也); _kan chang_ (gaan3 zang3 諫諍) to reprove one's sovereign; to reprehend. (Page 20|n63 爭 _Chang_ (zaang1); _Chang_ (zang3) implied) to reprove, to remonstrate, in which senses it is used for the last (諍) (Kangxi 爭: 本作諍諫諍也止也). Fan Wan entry: 諍 is spuriously placed under the final _ang_ (ang6)."
 }
 },
 "劄":{
@@ -10204,19 +10204,19 @@
 "諏":{
 "zau1":{
 "isCanonical":true,
-"text":"U+8ACF (F1.50 諏) 咨事曰諏 (Page 560 諏) To consult with (Kangxi: 聚謀也), to take advice, to inquire into matters of government publicly (Kangxi: 問政事也); to choose; _tsau kat_ (zau1 gat1 諏吉) to select a lucky day; _kung tsau k'i ching_ (gung6 zau1 kei4 zing3 共諏其正) to jointly discuss the right of the matter; _tsz' tsau_ (zi1 zau1 咨諏), to take counsel. 【諏】 (tsju) (_verb-like_) to inquire, to consult"
+"text":"U+8ACF 诹 (Mainland simplified) (F1.50 諏) 咨事曰諏 (Page 560 諏) To consult with (Kangxi: 聚謀也), to take advice, to inquire into matters of government publicly (Kangxi: 問政事也); to choose; _tsau kat_ (zau1 gat1 諏吉) to select a lucky day; _kung tsau k'i ching_ (gung6 zau1 kei4 zing3 共諏其正) to jointly discuss the right of the matter; _tsz' tsau_ (zi1 zau1 咨諏), to take counsel. 【諏】 (tsju) (_verb-like_) to inquire, to consult"
 }
 },
 "謅":{
 "zau1":{
 "isCanonical":true,
-"text":"U+8B05 cau1 (per 《廣韻》楚鳩切) (Page 560 謅) To whisper (Kangxi: 小言私授謂之謅), to speak into one's ear; to speak in a low tone. The reading zau1 is not unattested, though strictly, the pre-merger reading should be _chau_; 《集韻》 has the reading 甾尤切, explained 小言私授謂之謅. To make up, to fabricate."
+"text":"U+8B05 诌 (Mainland simplified) cau1 (per 《廣韻》楚鳩切) (Page 560 謅) To whisper (Kangxi: 小言私授謂之謅), to speak into one's ear; to speak in a low tone. The reading zau1 is not unattested, though strictly, the pre-merger reading should be _chau_; 《集韻》 has the reading 甾尤切, explained 小言私授謂之謅. To make up, to fabricate."
 }
 },
 "譸":{
 "zau1":{
 "isCanonical":true,
-"text":"U+8B78 侜 (F1.49 譸) 書經譸張爲幻 (Page 25|n68 譸) ~~Hurried, bustling,~~ to impose upon, to deceive (Kangxi: 譸張誑也); _chau cheung wai wan_ (zau1 zoeng1 wai4 waan6 譸張為幻) to delude with false appearances. Williams' 譸張為幻: Corrected _wai_ (wai1) to _wai_ (wai4). 【譸】 (trjuw) (_verb-like_) to deceive"
+"text":"U+8B78 侜 诪 (Mainland simplified) (F1.49 譸) 書經譸張爲幻 (Page 25|n68 譸) ~~Hurried, bustling,~~ to impose upon, to deceive (Kangxi: 譸張誑也); _chau cheung wai wan_ (zau1 zoeng1 wai4 waan6 譸張為幻) to delude with false appearances. Williams' 譸張為幻: Corrected _wai_ (wai1) to _wai_ (wai4). 【譸】 (trjuw) (_verb-like_) to deceive"
 }
 },
 "賙":{
@@ -10544,7 +10544,7 @@
 "謝":{
 "ze6":{
 "isCanonical":true,
-"text":"U+8B1D (F2.85 謝) 辭也絶也又退也彫落也居官致仕曰謝政感德相酧曰謝恩 (Page 564 謝) To decline, to withdraw from, to refuse (Kangxi: 辭去也), to go away (Kangxi: 去也); to resign, to throw up; to stop intercourse with (Kangxi: 絕也); declining, fading (Kangxi: 退也衰也彫落也), as flowers; to express, to inform (Kangxi: 吿也); to thank, to express gratitude (Kangxi: 拜賜曰謝); to acknowledge, to confess (Kangxi: 自以爲過曰謝); to excuse one's self; _to tse_ (do1 ze6 多謝) many thanks; _ling tse_ (ling5 ze6 領謝) to receive with thanks; _tse sz'_ (ze6 si6 謝事) to retire from office; _tse t'ip_ (ze6 tip3-2 謝帖) a reward offered; _pik tse_ (bik1 ze6 璧謝) to decline a present; _fa tse_ (faa1 ze6 花謝) fading flowers; _tse tiu_ (ze6 diu3 謝弔) to decline mourners; _tse po_ (ze6 bou6 謝步) a doctor's fees; _tse hak_ (ze6 haak3 謝客) to excuse one's self to visitors; _tso tse tsau_ (zou6 ze6 zau2 做謝酒), to give one a dinner; _tse tsau_ (ze6 zau2 謝酒), to take wine with; _tse shai_ (ze6 sai3 謝世) to die; _kom tse_ (gam2 ze6 感謝) feeling grateful for; _tap tse_ (daap3 ze6 答謝) to return thanks, to make a present in return; _ch'au tse_ (cau4 ze6 酬謝) to requite in kind. To ask. A surname (Kangxi: 姓). 【謝】 (zjaeH) (_verb-like_) to decline, to renounce, (_met._) to apologise, to wilt Cantonese prefers 多謝 over 謝謝. Note that 多謝 should only be used to express gratitude for gifts or patronage. To express gratitude for small/menial favours, or for goods/services that the speaker is paying for, 唔該 (TODO) should instead be used."
+"text":"U+8B1D 谢 (Mainland simplified) (F2.85 謝) 辭也絶也又退也彫落也居官致仕曰謝政感德相酧曰謝恩 (Page 564 謝) To decline, to withdraw from, to refuse (Kangxi: 辭去也), to go away (Kangxi: 去也); to resign, to throw up; to stop intercourse with (Kangxi: 絕也); declining, fading (Kangxi: 退也衰也彫落也), as flowers; to express, to inform (Kangxi: 吿也); to thank, to express gratitude (Kangxi: 拜賜曰謝); to acknowledge, to confess (Kangxi: 自以爲過曰謝); to excuse one's self; _to tse_ (do1 ze6 多謝) many thanks; _ling tse_ (ling5 ze6 領謝) to receive with thanks; _tse sz'_ (ze6 si6 謝事) to retire from office; _tse t'ip_ (ze6 tip3-2 謝帖) a reward offered; _pik tse_ (bik1 ze6 璧謝) to decline a present; _fa tse_ (faa1 ze6 花謝) fading flowers; _tse tiu_ (ze6 diu3 謝弔) to decline mourners; _tse po_ (ze6 bou6 謝步) a doctor's fees; _tse hak_ (ze6 haak3 謝客) to excuse one's self to visitors; _tso tse tsau_ (zou6 ze6 zau2 做謝酒), to give one a dinner; _tse tsau_ (ze6 zau2 謝酒), to take wine with; _tse shai_ (ze6 sai3 謝世) to die; _kom tse_ (gam2 ze6 感謝) feeling grateful for; _tap tse_ (daap3 ze6 答謝) to return thanks, to make a present in return; _ch'au tse_ (cau4 ze6 酬謝) to requite in kind. To ask. A surname (Kangxi: 姓). 【謝】 (zjaeH) (_verb-like_) to decline, to renounce, (_met._) to apologise, to wilt Cantonese prefers 多謝 over 謝謝. Note that 多謝 should only be used to express gratitude for gifts or patronage. To express gratitude for small/menial favours, or for goods/services that the speaker is paying for, 唔該 (TODO) should instead be used."
 }
 },
 "唧":{
@@ -10842,7 +10842,7 @@
 },
 "zo3":{
 "isCanonical":true,
-"text":"U+8A5B 作 (for \"curse\" sense) zeoi2 (common) (F2.61 詛) 竹過切咒詛 (F2.61 咀) 同上 (Page 26* before 詛) This character (詛) is often called ~~_chu_ (zoe) or~~ _chu_ (zyu). (Page 26* 詛) To curse, to imprecate (Kangxi: 詶也, 呪詛); bad language, curses; _chau cho_ (zau3 zo3 咒詛) to curse. Fan Wan entry: Corrected headword self-reference to 上. Williams records _chu_ (zoe) and _chu_ (zyu) as alternative readings without specifying the tone. The former I cannot justify. The latter rhymes with 《集韻》遵遇切 _tsu_, explained 詶也, and also with 咀 _tsu_, but in both cases the pre-merger initial is inconsistent. The common reading zeoi2 is perhaps from identifying 詛咒 with 咀咒, noting that Fan Wan considers 咀 an alternative form of 詛 _cho_ (zo3). To swear an oath. 【詛】 (tsrjoH) (_verb-like_) to imprecate, (_met._) to oath"
+"text":"U+8A5B 作 (for \"curse\" sense) 诅 (Mainland simplified) zeoi2 (common) (F2.61 詛) 竹過切咒詛 (F2.61 咀) 同上 (Page 26* before 詛) This character (詛) is often called ~~_chu_ (zoe) or~~ _chu_ (zyu). (Page 26* 詛) To curse, to imprecate (Kangxi: 詶也, 呪詛); bad language, curses; _chau cho_ (zau3 zo3 咒詛) to curse. Fan Wan entry: Corrected headword self-reference to 上. Williams records _chu_ (zoe) and _chu_ (zyu) as alternative readings without specifying the tone. The former I cannot justify. The latter rhymes with 《集韻》遵遇切 _tsu_, explained 詶也, and also with 咀 _tsu_, but in both cases the pre-merger initial is inconsistent. The common reading zeoi2 is perhaps from identifying 詛咒 with 咀咒, noting that Fan Wan considers 咀 an alternative form of 詛 _cho_ (zo3). To swear an oath. 【詛】 (tsrjoH) (_verb-like_) to imprecate, (_met._) to oath"
 }
 },
 "齟":{
@@ -11058,7 +11058,7 @@
 "諄":{
 "zeon1":{
 "isCanonical":true,
-"text":"U+8AC4 啍 zeon3 (per Kangxi 之閏切 for \"assist\" sense) (F2.52 諄) 詳語貌又懇誠也 (Page 36* 啍) Garrulous (Kangxi 啍: 同諄); _chun chun_ (zeon1 zeon1 啍啍), to reiterate, to say over and over (Kangxi 啍: 啍啍多言者也). (Page 36* 諄) To inculcate, to tell repeatedly (Kangxi: 吿曉之熟也, 誨言重複也); _chun chun in chi_ (zeon1 zeon1 jin4 zi1 諄諄言之), to make plain, to impress on one. Sincere, earnest (Kangxi: 誠懇貌). To assist (Kangxi: 佐也). 【諄】 (tsywin, tsywinH) (_adverb-like_) earnestly, repeatedly (_verb-like_) to assist"
+"text":"U+8AC4 啍 谆 (Mainland simplified) zeon3 (per Kangxi 之閏切 for \"assist\" sense) (F2.52 諄) 詳語貌又懇誠也 (Page 36* 啍) Garrulous (Kangxi 啍: 同諄); _chun chun_ (zeon1 zeon1 啍啍), to reiterate, to say over and over (Kangxi 啍: 啍啍多言者也). (Page 36* 諄) To inculcate, to tell repeatedly (Kangxi: 吿曉之熟也, 誨言重複也); _chun chun in chi_ (zeon1 zeon1 jin4 zi1 諄諄言之), to make plain, to impress on one. Sincere, earnest (Kangxi: 誠懇貌). To assist (Kangxi: 佐也). 【諄】 (tsywin, tsywinH) (_adverb-like_) earnestly, repeatedly (_verb-like_) to assist"
 }
 },
 "迍":{
@@ -12158,7 +12158,7 @@
 "譫":{
 "zim1":{
 "isCanonical":true,
-"text":"U+8B6B (F2.47 譫) 多言也 (Page 16* 譫) Wordy, loquacious (Kangxi: 多言也); _peng chim_ (beng6 zim1 病譫), out of his head, incoherent; _chim u_ (zim1 jyu5 譫語), wandering talk. Probably cognate with 詹 zim1. Delirium (Kangxi: 病也)."
+"text":"U+8B6B 谵 (Mainland simplified) (F2.47 譫) 多言也 (Page 16* 譫) Wordy, loquacious (Kangxi: 多言也); _peng chim_ (beng6 zim1 病譫), out of his head, incoherent; _chim u_ (zim1 jyu5 譫語), wandering talk. Probably cognate with 詹 zim1. Delirium (Kangxi: 病也)."
 }
 },
 "霑":{
@@ -12332,7 +12332,7 @@
 "諓":{
 "zin2":{
 "isCanonical":true,
-"text":"U+8AD3 cin5 (per 《廣韻》慈演切) zin1 (alternative per 《集韻》將先切) zin6 (per 《廣韻》才線切) (F1.20 諓 _Tsin_ (zin1)) 巧言也 (Page 573 諓) To flatter (Kangxi: 諂也); pleasant, kind words (Kangxi: 善言也); sly insinuations (Kangxi: 巧讒貌); _tsin tsin_ (zin2 zin2 諓諓), shallow, artful talk (Kangxi: 巧言也, 淺薄貌). The reading _tsin_ (zin2) is not unattested; 《集韻》 has the reading 子淺切, explained 諓諓淺薄皃一曰巧言也一曰善也. 【諓】 (dzjenX, dzjenH) (_adjective-like_) artful"
+"text":"U+8AD3 𬣡 (Mainland simplified) cin5 (per 《廣韻》慈演切) zin1 (alternative per 《集韻》將先切) zin6 (per 《廣韻》才線切) (F1.20 諓 _Tsin_ (zin1)) 巧言也 (Page 573 諓) To flatter (Kangxi: 諂也); pleasant, kind words (Kangxi: 善言也); sly insinuations (Kangxi: 巧讒貌); _tsin tsin_ (zin2 zin2 諓諓), shallow, artful talk (Kangxi: 巧言也, 淺薄貌). The reading _tsin_ (zin2) is not unattested; 《集韻》 has the reading 子淺切, explained 諓諓淺薄皃一曰巧言也一曰善也. 【諓】 (dzjenX, dzjenH) (_adjective-like_) artful"
 }
 },
 "謭":{
@@ -12344,7 +12344,7 @@
 "譾":{
 "zin2":{
 "isCanonical":true,
-"text":"U+8B7E 謭 (F1.22 謭) 謭劣粗也陋也 (Page 573 謭; here normalised to 譾) Shallow-pated, superficial, not profound; unskilled, shallow, not deep (Kangxi: 淺也); _ts'oi tsin_ (coi4 zin2 材譾), mediocre, of small capacity; _tsin lut_ (zin2 lyut6 譾劣) mean, insignificant. Williams' 譾劣: Changed _lut_ (lyut3) to _lut_ (lyut6)."
+"text":"U+8B7E 謭 谫 (Mainland simplified) (F1.22 謭) 謭劣粗也陋也 (Page 573 謭; here normalised to 譾) Shallow-pated, superficial, not profound; unskilled, shallow, not deep (Kangxi: 淺也); _ts'oi tsin_ (coi4 zin2 材譾), mediocre, of small capacity; _tsin lut_ (zin2 lyut6 譾劣) mean, insignificant. Williams' 譾劣: Changed _lut_ (lyut3) to _lut_ (lyut6)."
 }
 },
 "輾":{
@@ -12504,13 +12504,13 @@
 "証":{
 "zing3":{
 "isCanonical":true,
-"text":"U+8A3C (F1.72 証) 騐也考也 (F1.72 證) 騐也質也明也 (Page 20* 証) To remonstrate with, to admonish, to expostulate (Kangxi: 諫也). 【証】 (tsyengH) (_verb-like_) to remonstrate (with)"
+"text":"U+8A3C 证 (Mainland simplified) (F1.72 証) 騐也考也 (F1.72 證) 騐也質也明也 (Page 20* 証) To remonstrate with, to admonish, to expostulate (Kangxi: 諫也). 【証】 (tsyengH) (_verb-like_) to remonstrate (with)"
 }
 },
 "證":{
 "zing3":{
 "isCanonical":true,
-"text":"U+8B49 証 (F1.72 証) 騐也考也 (F1.72 證) 騐也質也明也 (Page 20* 證) To prove, to confront, to testify (Kangxi: 告也); to substantiate (Kangxi: 驗也, 𠋫也質也); to prove by authorities; evidence; _ching yan_ (zing3 jan4 證人), a witness; _ching kin_ (zing3 gin3 證見) an eyewitness; _kon ching_ (gon1 zing3 干證) a witness; _ching im_ (zing3 jim6 證驗) to verify; _ching ku_ (zing3 geoi3 證據) evidence. (Page 20* 証) Interchanged with the above (證). Williams' 證據: Corrected _ku_ (geoi6) to _ku_ (geoi3). 【證】 (tsyingH) (_verb-like_) to attest, to prove"
+"text":"U+8B49 証 证 (Mainland simplified) (F1.72 証) 騐也考也 (F1.72 證) 騐也質也明也 (Page 20* 證) To prove, to confront, to testify (Kangxi: 告也); to substantiate (Kangxi: 驗也, 𠋫也質也); to prove by authorities; evidence; _ching yan_ (zing3 jan4 證人), a witness; _ching kin_ (zing3 gin3 證見) an eyewitness; _kon ching_ (gon1 zing3 干證) a witness; _ching im_ (zing3 jim6 證驗) to verify; _ching ku_ (zing3 geoi3 證據) evidence. (Page 20* 証) Interchanged with the above (證). Williams' 證據: Corrected _ku_ (geoi6) to _ku_ (geoi3). 【證】 (tsyingH) (_verb-like_) to attest, to prove"
 }
 },
 "靖":{
@@ -12748,7 +12748,7 @@
 "詔":{
 "ziu3":{
 "isCanonical":true,
-"text":"U+8A54 (F2.6 詔) 告也上命也又敎導之也 (Page 24* 詔) To promulge, to announce, to proclaim (Kangxi: 吿也); to teach, to exhort, to instruct ~~the empire~~ (Kangxi: 導也 etc.); a proclamation; ~~to encourage;~~ _yan chiu_ (jan1 ziu3 恩詔) a gracious command, as a pardon; _chiu ming_ (ziu3 ming6 詔命) a royal mandate; _chiu ko_ (ziu3 gou3 詔告) to proclaim; _chiu tui_ (ziu3 deoi3 詔對) to be called into the presence. Williams' \"to encourage\": This is a misreading of Kangxi 謂贊勉. Here, 贊勉 is to guide, not to encourage. An order from above, especially from the emperor (上命也秦漢以下天子獨稱之). Written proclamation (Kangxi: 播吿之書也). 【詔】 (tsyewH) (_verb-like_) to inform (_verb-like_) to promulge"
+"text":"U+8A54 诏 (Mainland simplified) (F2.6 詔) 告也上命也又敎導之也 (Page 24* 詔) To promulge, to announce, to proclaim (Kangxi: 吿也); to teach, to exhort, to instruct ~~the empire~~ (Kangxi: 導也 etc.); a proclamation; ~~to encourage;~~ _yan chiu_ (jan1 ziu3 恩詔) a gracious command, as a pardon; _chiu ming_ (ziu3 ming6 詔命) a royal mandate; _chiu ko_ (ziu3 gou3 詔告) to proclaim; _chiu tui_ (ziu3 deoi3 詔對) to be called into the presence. Williams' \"to encourage\": This is a misreading of Kangxi 謂贊勉. Here, 贊勉 is to guide, not to encourage. An order from above, especially from the emperor (上命也秦漢以下天子獨稱之). Written proclamation (Kangxi: 播吿之書也). 【詔】 (tsyewH) (_verb-like_) to inform (_verb-like_) to promulge"
 }
 },
 "醮":{
@@ -13806,13 +13806,13 @@
 "訟":{
 "zung6":{
 "isCanonical":true,
-"text":"U+8A1F 誦 (for \"openly\" sense) cung4 (alternative per 《廣韻》祥容切) (F1.63 訟) 官訟爭辨也又爭財曰訟 (Page 607 訟) To contend before rulers; to demand justice (Kangxi: 上書爲人雪冤曰訟); litigation, pleadings, contention, wrangling (Kangxi: 爭也, 爭辯也), ---it mostly refers to legal strifes; law cases; _tsung ts'z'_ (zung6 ci4 訟辭) an indictment; _chang tsung_ (zang1 zung6 爭訟) disputes; _~~t'eng~~ ``t'ing`` tsung_ (ting3 zung6 聽訟) to hear a case; _nau tsung_ (nau2 zung6 扭訟) to grapple a man and carry the dispute into court; _sik tsung_ (sik1 zung6 息訟) to settle a dispute, to quash a case; _kun tsung_ (gun1 zung6 官訟) cases in court; _tsz' tsung_ (zi6 zung6 自訟) self reproach; _tsung kwan_ (zung6 gwan3 訟棍) pettifoggers. Williams' 爭訟: Normalised _chang_ (zaang1) to _chang_ (zang1). Williams' 聽訟: Corrected _t'eng_ (teng3) to _t'ing_ (ting3). To reproach, to reprove (Kangxi: 責也). Openly (Kangxi: 公也). 【訟】 (zjowngH, zjowng) (_verb-like_) to litigate (_verb-like_) to reproach, to reprove"
+"text":"U+8A1F 誦 (for \"openly\" sense) 讼 (Mainland simplified) cung4 (alternative per 《廣韻》祥容切) (F1.63 訟) 官訟爭辨也又爭財曰訟 (Page 607 訟) To contend before rulers; to demand justice (Kangxi: 上書爲人雪冤曰訟); litigation, pleadings, contention, wrangling (Kangxi: 爭也, 爭辯也), ---it mostly refers to legal strifes; law cases; _tsung ts'z'_ (zung6 ci4 訟辭) an indictment; _chang tsung_ (zang1 zung6 爭訟) disputes; _~~t'eng~~ ``t'ing`` tsung_ (ting3 zung6 聽訟) to hear a case; _nau tsung_ (nau2 zung6 扭訟) to grapple a man and carry the dispute into court; _sik tsung_ (sik1 zung6 息訟) to settle a dispute, to quash a case; _kun tsung_ (gun1 zung6 官訟) cases in court; _tsz' tsung_ (zi6 zung6 自訟) self reproach; _tsung kwan_ (zung6 gwan3 訟棍) pettifoggers. Williams' 爭訟: Normalised _chang_ (zaang1) to _chang_ (zang1). Williams' 聽訟: Corrected _t'eng_ (teng3) to _t'ing_ (ting3). To reproach, to reprove (Kangxi: 責也). Openly (Kangxi: 公也). 【訟】 (zjowngH, zjowng) (_verb-like_) to litigate (_verb-like_) to reproach, to reprove"
 }
 },
 "誦":{
 "zung6":{
 "isCanonical":true,
-"text":"U+8AA6 頌 (F1.63 誦) 誦讀 (Page 608 誦) To hum, to recite over, to read in a humming tone (Kangxi: 諷也, 臨文爲誦, 讀誦也, etc.), as priests do; a murmuring, recitative way of reading; ~~disputing,~~ reviling (Kangxi: 怨謗亦曰誦); _pui tsung_ (bui6 zung6 背誦) to say memoriter; _tsung king_ (zung6 ging1 誦經), to recite the liturgy; _tsung tuk_ (zung6 duk6 誦讀) to read in a singing way, as children do in school. Williams' 背誦: Corrected _pui_ (bui3) to _pui_ (bui6). Williams' 誦經: Especially Buddhist scriptures. To discourse, to speak of (Kangxi: 論也言也 etc.). 【誦】 (zjowngH) (_verb-like_) to recite (_noun-like_) recitative (_verb-like_) to mock"
+"text":"U+8AA6 頌 诵 (Mainland simplified) (F1.63 誦) 誦讀 (Page 608 誦) To hum, to recite over, to read in a humming tone (Kangxi: 諷也, 臨文爲誦, 讀誦也, etc.), as priests do; a murmuring, recitative way of reading; ~~disputing,~~ reviling (Kangxi: 怨謗亦曰誦); _pui tsung_ (bui6 zung6 背誦) to say memoriter; _tsung king_ (zung6 ging1 誦經), to recite the liturgy; _tsung tuk_ (zung6 duk6 誦讀) to read in a singing way, as children do in school. Williams' 背誦: Corrected _pui_ (bui3) to _pui_ (bui6). Williams' 誦經: Especially Buddhist scriptures. To discourse, to speak of (Kangxi: 論也言也 etc.). 【誦】 (zjowngH) (_verb-like_) to recite (_noun-like_) recitative (_verb-like_) to mock"
 }
 },
 "頌":{
@@ -13896,13 +13896,13 @@
 "誅":{
 "zyu1":{
 "isCanonical":true,
-"text":"U+8A85 (F1.43 誅) 征誅 (Page 30* 誅) ~~To make judicial inquiry;~~ to punish (Kangxi: 罰也), to destroy, to kill (Kangxi: 討也, 殺也, 誅者戮其人); to exterminate (Kangxi: 罪及餘人曰誅); to reprove (Kangxi: 責也 etc.); ~~to involve in;~~ _t'in chu_ (tin1 zyu1 天誅), divine (or imperial) punishment; _ching chu_ (zing1 zyu1 征誅), to punish refractory states; _chu mit_ (zyu1 mit6 誅滅) to extirpate; _chu fat_ (zyu1 fat6 誅罰) to punish. Williams' 誅罰: Changed _fat_ (faat6) to modern _fat_ (fat6). To rid (Kangxi: 翦除也). To seek. 【誅】 (trju) (_verb-like_) to censure (_verb-like_) to punish, (_met._) to put to death"
+"text":"U+8A85 诛 (Mainland simplified) (F1.43 誅) 征誅 (Page 30* 誅) ~~To make judicial inquiry;~~ to punish (Kangxi: 罰也), to destroy, to kill (Kangxi: 討也, 殺也, 誅者戮其人); to exterminate (Kangxi: 罪及餘人曰誅); to reprove (Kangxi: 責也 etc.); ~~to involve in;~~ _t'in chu_ (tin1 zyu1 天誅), divine (or imperial) punishment; _ching chu_ (zing1 zyu1 征誅), to punish refractory states; _chu mit_ (zyu1 mit6 誅滅) to extirpate; _chu fat_ (zyu1 fat6 誅罰) to punish. Williams' 誅罰: Changed _fat_ (faat6) to modern _fat_ (fat6). To rid (Kangxi: 翦除也). To seek. 【誅】 (trju) (_verb-like_) to censure (_verb-like_) to punish, (_met._) to put to death"
 }
 },
 "諸":{
 "zyu1":{
 "isCanonical":true,
-"text":"U+8AF8 May appear with 者 dotless (+8 assumed here) or dotted (+9), depending on the font. (F1.43 諸) 衆也 (Page 29* 諸) To discriminate~~, to discuss~~ (Kangxi: 辯也, 別異之辭); not one alone, all, several, many, every (Kangxi: 非一也皆言也, 凡衆也); in, respecting; a pronoun at the end of a sentence, or a word implying doubt (contraction of 之乎) (Kangxi: 有諸疑辭); a sign of the dative, upon, to, from, at (contraction of 之於) (Kangxi: 諸猶於也); it is often introduced to make rhythm (Kangxi: 語助辭); _shu chu shan_ (syu1 zyu1 san1 書諸紳), wrote it on his girdle; _chu shang_ (zyu1 sang1 諸生), siutsai (秀才) graduates; _yan yau she chu_ (jan4 jau5 se2 zyu1 人有舍諸), will men reject him? _chu u ts'z' lui_ (zyu1 jyu4 ci2 leoi6-2 諸如此類) all are like this; _chu fan_ (zyu1 faan4 諸凡), all; _chu sz' to lo_ (zyu1 si6 do1 lou4 諸事多勞), I give you much trouble; _chu hau_ (zyu1 hau4 諸侯), feudal prince; _chu pun mat kin_ (zyu1 bun1 mat6 gin6-2 諸般物件) all sorts of things. Williams' \"to discuss\": This is a misreading of Kangxi 辯也. Here, 辯 is used for 辨. Two of Williams' examples (書諸紳, 人有舍諸) are identical or suspiciously similar to those in Section 2.6 (_Examples of chu_, 諸) of J. G. Bridgman's 1847 translation of Premare's ''Notitia Linguae Sinicae''. Synonym of 之 (third-person object pronoun) (Kangxi: 諸之也). Fruit preserve (Kangxi: 諸儲也 etc.). A surname (Kangxi: 姓). Used in 諸葛 (a compound surname) (Kangxi: 複姓). 【諸】 (tsyo) (_determiner-like_) all the, many, various (_noun-like_) preserve (_speech-assist_) Contraction of 之於 (tsyi 'jo). Contraction of 之乎 (tsyi hu). 【諸事】 (zyu1 si6) Nosy or meddling. 咪咁諸事啦 (mai5 gam3 zyu1 si6 laa1): \"Don't be so nosy!\""
+"text":"U+8AF8 May appear with 者 dotless (+8 assumed here) or dotted (+9), depending on the font. 诸 (Mainland simplified) (F1.43 諸) 衆也 (Page 29* 諸) To discriminate~~, to discuss~~ (Kangxi: 辯也, 別異之辭); not one alone, all, several, many, every (Kangxi: 非一也皆言也, 凡衆也); in, respecting; a pronoun at the end of a sentence, or a word implying doubt (contraction of 之乎) (Kangxi: 有諸疑辭); a sign of the dative, upon, to, from, at (contraction of 之於) (Kangxi: 諸猶於也); it is often introduced to make rhythm (Kangxi: 語助辭); _shu chu shan_ (syu1 zyu1 san1 書諸紳), wrote it on his girdle; _chu shang_ (zyu1 sang1 諸生), siutsai (秀才) graduates; _yan yau she chu_ (jan4 jau5 se2 zyu1 人有舍諸), will men reject him? _chu u ts'z' lui_ (zyu1 jyu4 ci2 leoi6-2 諸如此類) all are like this; _chu fan_ (zyu1 faan4 諸凡), all; _chu sz' to lo_ (zyu1 si6 do1 lou4 諸事多勞), I give you much trouble; _chu hau_ (zyu1 hau4 諸侯), feudal prince; _chu pun mat kin_ (zyu1 bun1 mat6 gin6-2 諸般物件) all sorts of things. Williams' \"to discuss\": This is a misreading of Kangxi 辯也. Here, 辯 is used for 辨. Two of Williams' examples (書諸紳, 人有舍諸) are identical or suspiciously similar to those in Section 2.6 (_Examples of chu_, 諸) of J. G. Bridgman's 1847 translation of Premare's ''Notitia Linguae Sinicae''. Synonym of 之 (third-person object pronoun) (Kangxi: 諸之也). Fruit preserve (Kangxi: 諸儲也 etc.). A surname (Kangxi: 姓). Used in 諸葛 (a compound surname) (Kangxi: 複姓). 【諸】 (tsyo) (_determiner-like_) all the, many, various (_noun-like_) preserve (_speech-assist_) Contraction of 之於 (tsyi 'jo). Contraction of 之乎 (tsyi hu). 【諸事】 (zyu1 si6) Nosy or meddling. 咪咁諸事啦 (mai5 gam3 zyu1 si6 laa1): \"Don't be so nosy!\""
 }
 },
 "豬":{

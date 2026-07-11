@@ -567,6 +567,7 @@ A
   ==
   - 讃
   - $贊3
+  - 赞 (Mainland simplified)
   ==
 F
   ==

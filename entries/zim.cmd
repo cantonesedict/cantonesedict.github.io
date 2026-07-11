@@ -651,6 +651,10 @@ R
   ⾔ + 13
 U
   U+8B6B
+A
+  ==
+  - 谵 (Mainland simplified)
+  ==
 F
   ==
   - (F2.47 譫) 多言也

@@ -1465,6 +1465,10 @@ R
   ⾔ + 6
 U
   U+8A6E
+A
+  ==
+  - 诠 (Mainland simplified)
+  ==
 V
   ==
   - cyun1 (per 《廣韻》此縁切)

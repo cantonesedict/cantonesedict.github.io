@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ziu
-* %date-modified --> 2026-06-19
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -1043,6 +1043,10 @@ R
   ⾔ + 5
 U
   U+8A54
+A
+  ==
+  - 诏 (Mainland simplified)
+  ==
 F
   ==
   - (F2.6 詔) 告也上命也又敎導之也

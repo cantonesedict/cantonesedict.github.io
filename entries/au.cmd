@@ -288,6 +288,7 @@ A
   ==
   - $嘔1
   - $歐1
+  - 讴 (Mainland simplified)
   ==
 V
   ==

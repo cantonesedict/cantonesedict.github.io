@@ -1006,6 +1006,7 @@ U
 A
   ==
   - $非2
+  - 诽 (Mainland simplified)
   ==
 V
   ==

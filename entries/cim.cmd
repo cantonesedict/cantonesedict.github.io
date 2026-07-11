@@ -622,6 +622,7 @@ U
 A
   ==
   - $讇2
+  - 谄 (Mainland simplified)
   ==
 F
   ==

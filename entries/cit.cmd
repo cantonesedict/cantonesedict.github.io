@@ -343,6 +343,10 @@ R
   ⾔ + 4
 U
   U+8A2D
+A
+  ==
+  - 设 (Mainland simplified)
+  ==
 F
   ==
   - (F1.26 設) 置主也陳設也

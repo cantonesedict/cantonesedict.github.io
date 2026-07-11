@@ -996,6 +996,10 @@ R
   ⾔ + 17
 U
   U+8B92
+A
+  ==
+  - 谗 (Mainland simplified)
+  ==
 F
   ==
   - (F2.63 讒) 讒佞也毀譖良善曰讒

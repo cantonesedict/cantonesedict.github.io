@@ -753,6 +753,10 @@ U
 H
   May appear as either ⿰訁靑 or ⿰訁青 (assumed here),
   depending on the font.
+A
+  ==
+  - 请 (Mainland simplified)
+  ==
 V
   ==
   - ceng2 (vernacular)
