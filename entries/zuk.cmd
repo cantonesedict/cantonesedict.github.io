@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zuk
-* %date-modified --> 2026-04-17
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -69,6 +69,10 @@ R
   ⼝ + 21
 U
   U+56D1
+A
+  ==
+  - 嘱
+  ==
 F
   ==
   - (F1.63 囑) 囑括又吩咐也

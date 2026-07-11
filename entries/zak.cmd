@@ -171,6 +171,10 @@ R
   ⼑ + 7
 U
   U+5247
+A
+  ==
+  - 则 (Mainland simplified)
+  ==
 F
   ==
   - (F2.33 則) 法也準也卽也

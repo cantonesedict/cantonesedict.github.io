@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> cai
-* %date-modified --> 2026-02-28
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -525,6 +525,10 @@ R
   ⼝ + 14
 U
   U+568C
+A
+  ==
+  - 哜 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W

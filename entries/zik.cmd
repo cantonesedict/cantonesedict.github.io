@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zik
-* %date-modified --> 2026-06-30
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -83,6 +83,10 @@ R
   ⼑ + 7
 U
   U+5247
+A
+  ==
+  - 则 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -114,6 +118,10 @@ R
   ⼒ + 11
 U
   U+52E3
+A
+  ==
+  - {𪟝=⿰责力} (Mainland simplified)
+  ==
 F
   ==
   - (F1.74 勣) 功也勞也

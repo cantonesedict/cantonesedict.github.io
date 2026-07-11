@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zin
-* %date-modified --> 2026-04-04
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> 2023--
 
 ReplacementSequence: #.ensure-baxter
@@ -855,6 +855,10 @@ R
   ⼑ + 8
 U
   U+5257
+A
+  ==
+  - 刬 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W

@@ -226,6 +226,7 @@ A
   ==
   - $勛1
   - $薰1
+  - 勋 (Mainland simplified)
   ==
 F
   ==

@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> zaak
-* %date-modified --> 2026-04-17
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -100,6 +100,10 @@ R
   ⼝ + 11
 U
   U+5616
+A
+  ==
+  - 啧 (Mainland simplified)
+  ==
 V
   ==
   - zaak6 (per 《廣韻》士革切 for "cry-out" sense)

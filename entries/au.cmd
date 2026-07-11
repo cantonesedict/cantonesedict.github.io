@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> au
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> 2023--
 
 %%%
@@ -65,6 +65,10 @@ R
   ⼖ + 9
 U
   U+5340
+A
+  ==
+  - 区 (Mainland simplified)
+  ==
 V
   ==
   - ngau1 (hypercorrected initial)
@@ -115,6 +119,10 @@ R
   ⼝ + 11
 U
   U+5614
+A
+  ==
+  - 呕 (Mainland simplified)
+  ==
 F
   [[Not present]]
 W
@@ -374,6 +382,7 @@ U
 A
   ==
   - $歐2
+  - 呕 (Mainland simplified)
   ==
 V
   ==

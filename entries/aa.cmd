@@ -272,6 +272,11 @@ R
   ⼝ + 8
 U
   U+555E
+A
+  ==
+  - 唖
+  - 哑 (Mainland simplified)
+  ==
 V
   ==
   - ngaa1 (hypercorrected initial)
@@ -359,7 +364,9 @@ U
   U+555E
 A
   ==
+  - 唖
   - $瘂2
+  - 哑 (Mainland simplified)
   ==
 V
   ==

@@ -161,6 +161,7 @@ A
   ==
   - $刅1
   - 戧
+  - 创 (Mainland simplified)
   ==
 V
   ==
@@ -852,6 +853,7 @@ U
 A
   ==
   - $刱3
+  - 创 (Mainland simplified)
   ==
 F
   ==

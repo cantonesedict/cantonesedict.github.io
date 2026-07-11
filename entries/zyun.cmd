@@ -553,6 +553,10 @@ R
   ⼝ + 18
 U
   U+56C0
+A
+  ==
+  - 啭 (Mainland simplified)
+  ==
 V
   ==
   - zyun3 (per 《廣韻》知戀切)
