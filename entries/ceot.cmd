@@ -5,7 +5,7 @@ OrdinaryDictionaryReplacement: #.properties-override
 - queue_position: AFTER #.boilerplate.properties-override
 - apply_mode: SEQUENTIAL
 * %title --> ceot
-* %date-modified --> 2026-02-18
+* %date-modified --> 2026-07-11
 * %copyright-prior-years --> "2023, 2025--"
 
 %%%
@@ -56,6 +56,11 @@ R
   ⼐ + 3
 U
   U+51FA
+V
+  ==
+  - ceoi3 (alternative per 《廣韻》尺類切)
+  - cyut1 (uncommon)
+  ==
 F
   ==
   - (F2.55 出) 外也退也生也發也
@@ -135,7 +140,7 @@ W
   ====
 C
   ==
-  - There is also the reading variation _ch(')ui(3)_ (ceoi3) per 《廣韻》尺類切 (unexplained).
+  - 《廣韻》 does not explain the departing-tone reading 尺類切 _ch(')ui(3)_ (ceoi3).
     Kangxi has 《正韻》凡物自出則入聲非自出而出之則去聲然亦有互用者,
     which prescribes entering tone _ch(')ut(7)_ (ceot1)
     for the intransitive verb senses
